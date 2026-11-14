@@ -20,7 +20,7 @@ page_kind: [framework]
 
 - The paper argues that dominant AI literacy frameworks — dominated by technical competency and responsible-use principles — enforce a "consumer" orientation toward AI rather than fostering genuine epistemic agency.
 - Drawing on Foucault's concept of power-knowledge, the authors contend that the absence of power as a construct in AI literacy discourse reflects a deeper conceptual failure: treating AI systems as neutral tools rather than as apparatuses that structure what can be known and by whom.
-- Grounded in Freire's [[pedagogy]] of critical consciousness and scholarship on digital literacy, the paper reconceptualizes AI literacy as a critical practice that equips individuals not just to use AI systems but to critically evaluate them, resist their structuring assumptions, and participate in their governance.
+- Grounded in Freire's [[pedagogy|pedagogy]] of critical consciousness and scholarship on digital literacy, the paper reconceptualizes AI literacy as a critical practice that equips individuals not just to use AI systems but to critically evaluate them, resist their structuring assumptions, and participate in their governance.
 - Unequal access to AI tools, the authors argue, recapitulates longstanding epistemic injustices, so a literacy framework oriented toward empowerment must account for these structural inequities.
 - A three-part framework — contextual use, critical interrogation, and participatory governance — frames AI literacy as the cultivation of epistemic "agents" rather than the training of competent consumers of AI-generated information.
 
@@ -34,7 +34,7 @@ page_kind: [framework]
 - Assign counter-prompting as an exercise. Students ask a system for the dominant view on a contested question, then a dissenting view, then ask which perspectives are absent from its training data, and write up what the system could not see.
 - Treat critical interrogation of AI as curricular content in its own right rather than a distraction from efficient tool use; the framework positions learners as epistemic agents whose questioning of a system's structuring assumptions belongs in the syllabus.
 - Audit who can actually access which AI tools in your setting before assuming a skills-based intervention will close gaps: [[equity-in-ai-education|inequity]] here is structural, not individual, because unequal access recapitulates epistemic injustice.
-- Give learners a real route into [[governance]] — co-designing course or institutional [[educational-policy-ai|AI policy]], for example — since participatory governance is the dimension the paper identifies as the most neglected in existing AI literacy frameworks.
+- Give learners a real route into [[governance|governance]] — co-designing course or institutional [[educational-policy-ai|AI policy]], for example — since participatory governance is the dimension the paper identifies as the most neglected in existing AI literacy frameworks.
 
 ## Limitations
 

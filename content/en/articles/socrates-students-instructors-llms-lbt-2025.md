@@ -27,7 +27,7 @@ The method relies on **questions with engineered knowledge gaps that only a stud
 
 ## Key Findings
 
-- **Statistically significant improvements.** The [[active-learning]] method led to significant improvements in student performance compared to historical cohorts in an undergraduate course.
+- **Statistically significant improvements.** The [[active-learning|active learning]] method led to significant improvements in student performance compared to historical cohorts in an undergraduate course.
 - **Practical and cost-effective.** Socrates demonstrates a low-overhead framework for using LLMs to deepen [[student-engagement|student engagement]] and mastery.
 - **Addresses over-reliance.** By making students the instructors, the paradigm counters the passive learning and [[cognitive-offloading|over-reliance]] associated with LLM-as-tutor use.
 

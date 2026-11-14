@@ -17,11 +17,11 @@ level: [higher ed]
 page_kind: [framework]
 ---
 
-> **Synthesis:** Tsim et al. (2026) propose a conceptual reframing of AI integration in [[medical-education]]: the problem is not learner *misuse* of generative AI but *misclassification* — a mechanistic failure of real-time [[metacognition|metacognitive]] evaluation in selecting a subzone-inappropriate [[student-ai-interaction|AI interaction]] mode. They introduce the SCAN framework (Substitute, Complement, Aid, Non-Negotiable), a human-centric decision scheme for generative AI task allocation grounded in Vygotsky's Zone of Proximal Development and [[metacognition]]. The account yields testable predictions about how misclassification can be detected, mitigated, and prevented in the clinical learning environment, and it reframes skill acquisition ([[lifelong-learning|upskilling]]) and failure (de-skilling, never-skilling, mis-skilling) at the individual task level rather than via fixed-phase, cohort-wide treatments.
+> **Synthesis:** Tsim et al. (2026) propose a conceptual reframing of AI integration in [[medical-education|medical education]]: the problem is not learner *misuse* of [[generative-ai|generative AI]] but *misclassification* — a mechanistic failure of real-time [[metacognition|metacognitive]] evaluation in selecting a subzone-inappropriate [[student-ai-interaction|AI interaction]] mode. They introduce the SCAN framework (Substitute, Complement, Aid, Non-Negotiable), a human-centric decision scheme for generative AI task allocation grounded in Vygotsky's [[sociocultural-learning|Zone of Proximal Development]] and [[metacognition|metacognition]]. The account yields testable predictions about how misclassification can be detected, mitigated, and prevented in the clinical learning environment, and it reframes skill acquisition ([[lifelong-learning|upskilling]]) and failure (de-skilling, never-skilling, mis-skilling) at the individual task level rather than via fixed-phase, cohort-wide treatments.
 
 ## From Misuse to Misclassification
 
-Integrating artificial intelligence — particularly [[generative-ai]] — into medical training has prompted widespread concern about learner over-reliance, misuse, and the erosion of foundational clinical competencies. Survey evidence suggests a large gap between exposure and readiness: a recent study found that while 97.1% of graduate medical trainees report no formal AI instruction, 85.5% already use AI tools for clinical decision support and [[writing-education|academic writing]].
+Integrating artificial intelligence — particularly [[generative-ai|generative AI]] — into medical training has prompted widespread concern about learner over-reliance, misuse, and the erosion of foundational clinical competencies. Survey evidence suggests a large gap between exposure and readiness: a recent study found that while 97.1% of graduate medical trainees report no formal AI instruction, 85.5% already use AI tools for clinical decision support and [[writing-education|academic writing]].
 
 The authors argue the dominant "misuse" framing misdiagnoses the problem. Instead, they propose that failures arise from **misclassification** — a failure of real-time [[metacognition|metacognitive]] evaluation in which a learner selects a [[human-in-the-loop-ai|subzone-inappropriate]] AI interaction mode for a given task. The corrective is not restriction but more precise task classification.
 
@@ -31,7 +31,7 @@ SCAN names four modes of generative AI task allocation grounded in Vygotsky's Zo
 
 1. **Substitute** — AI performs a task the learner could perform independently; appropriate only when the capacity is already consolidated and substitution serves efficiency rather than bypassing formation.
 2. **Complement** — AI works alongside the learner, providing support that extends but does not replace the learner's active contribution.
-3. **Aid** — AI offers [[scaffolding]] within the learner's zone of proximal development, supporting a capacity that is currently forming.
+3. **Aid** — AI offers [[scaffolding|scaffolding]] within the learner's zone of proximal development, supporting a capacity that is currently forming.
 4. **Non-Negotiable** — tasks that must be performed by the learner without AI, where delegation would short-circuit the formation of foundational clinical competence.
 
 The framework links each mode to the [[sociocultural-learning|social-constructivist]] logic of the ZPD: the appropriate mode depends on where the individual learner stands relative to the task, not on a fixed phase or cohort-wide rule.
@@ -49,11 +49,11 @@ The authors identify **passive [[student-engagement|engagement]]** within correc
 
 ## What the reframing changes
 
-SCAN is operationalized for clinical [[curriculum-design|curriculum design]], supervision, and [[assessment]]. The shift from misuse to misclassification is not merely semantic: it gives educators a concrete perspective on what to look for, what to assess, and what to intervene on. The framework grounds [[intelligent-tutoring|AI tutors]] in a theory of learning rather than treating them as generic productivity tools, and it connects [[cognitive-offloading]] concerns to the developmental state of the individual learner.
+SCAN is operationalized for clinical [[curriculum-design|curriculum design]], supervision, and [[assessment|assessment]]. The shift from misuse to misclassification is not merely semantic: it gives educators a concrete perspective on what to look for, what to assess, and what to intervene on. The framework grounds [[intelligent-tutoring|AI tutors]] in a theory of learning rather than treating them as generic productivity tools, and it connects [[cognitive-offloading|cognitive offloading]] concerns to the developmental state of the individual learner.
 
 ## What this means for practice
 
-- **Instructors.** Have learners classify a task into a SCAN mode before they open a [[generative-ai]] tool, and hold Non-Negotiable tasks to unaided performance so that foundational competence is formed rather than delegated.
+- **Instructors.** Have learners classify a task into a SCAN mode before they open a [[generative-ai|generative AI]] tool, and hold Non-Negotiable tasks to unaided performance so that foundational competence is formed rather than delegated.
 - **Instructors.** Read passive [[student-engagement|engagement]] inside a correctly classified AI task as a mis-skilling signal and shift the learner from AI assistance to expert assistance, with the supervising clinician acting as an [[human-in-the-loop-ai|epistemic auditor]].
 - **Designers.** Classify by where the individual learner stands relative to the task rather than by training phase, since the same task can be Aid for a first-year learner and Substitute for a resident.
 - **Instructors.** Assess clinical reasoning through process rather than output: outcome measures cannot distinguish a correct answer produced from appropriate subzone classification from one produced by misclassification.

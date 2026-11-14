@@ -31,11 +31,11 @@ ai_assist:
 
 ## Key Findings
 
-- **Evaluation independence is the design principle.** The scoring layer is separate from the reasoning layer, so a user can [[trust]] the influence score without trusting the recommendation, unlike LLM-as-evaluator or chain-of-thought transparency.
+- **Evaluation independence is the design principle.** The scoring layer is separate from the reasoning layer, so a user can [[trust|trust]] the influence score without trusting the recommendation, unlike LLM-as-evaluator or chain-of-thought transparency.
 - **Influence ranking tracks real dependence.** Counterfactual tool-removal experiments confirmed that the sources ranked highest are the ones whose removal changes the answer.
 - **Evidence is scored by four deterministic signals.** Final Answer Similarity, Average Relevancy, Persistence and Structural Proximity combine into an influence score, with categorical labels at High (≥ 0.70), Medium (0.40–0.70) and Low (< 0.40).
 - **Scores are absolute, not shares.** Influence values are computed per evidence item and deliberately do not sum to 1.0, which the authors state explicitly to prevent the ranking being read as a percentage attribution.
-- **Re-running is the interaction that matters.** Users inspect the ranking, expand signal breakdowns, exclude a misleading source and re-run, turning transparency from a static explanation into a [[governance]] loop.
+- **Re-running is the interaction that matters.** Users inspect the ranking, expand signal breakdowns, exclude a misleading source and re-run, turning transparency from a static explanation into a [[governance|governance]] loop.
 - **Formative users found it useful.** In an evaluation with 50 participants, 92% approved the mechanism, drawn from three applied scenarios rather than a single demo.
 
 ## Why not just ask the model
@@ -52,7 +52,7 @@ The authors are careful about the limits of the artifact. Showing which tools in
 
 ## Where this fits in educational systems
 
-[[explainable-ai|Explainability]] in education usually arrives as a rationale written by the model, which is exactly the pattern this paper argues against. For a tool-augmented advisor — a course recommender, a writing assistant citing sources, an [[agentic-ai|agent]] reading a student's records — the FDL pattern offers a concrete alternative: expose the retrievals, rank them, and let the user remove one. That also gives [[trust-calibration]] something to calibrate on, since a user can test the system by removing the source they believe is wrong and watching whether the answer moves. The honest caveat is that the mechanism covers tool-augmented pipelines; a model answering from parametric knowledge has no provenance tree to reconstruct.
+[[explainable-ai|Explainability]] in education usually arrives as a rationale written by the model, which is exactly the pattern this paper argues against. For a tool-augmented advisor — a course recommender, a writing assistant citing sources, an [[agentic-ai|agent]] reading a student's records — the FDL pattern offers a concrete alternative: expose the retrievals, rank them, and let the user remove one. That also gives [[trust-calibration|trust calibration]] something to calibrate on, since a user can test the system by removing the source they believe is wrong and watching whether the answer moves. The honest caveat is that the mechanism covers tool-augmented pipelines; a model answering from parametric knowledge has no provenance tree to reconstruct.
 
 ## What this means for practice
 

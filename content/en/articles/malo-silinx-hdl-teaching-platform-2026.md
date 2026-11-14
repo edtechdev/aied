@@ -32,7 +32,7 @@ verified: [citation, numbers, links]
 2. **The replacement runs with nothing to install.** Synthesis, placement, routing, bitstream generation and board programming all execute in the browser for the supported boards, with other families reachable through a local ISE server.
 3. **Silinx's bitstreams match the vendor tool.** Designs routed on the measured Spartan-3E device descriptions pass ISE's design rule check and produce byte-identical bitstreams.
 4. **The open flow was smaller and often faster than ISE.** Over 45 designs built by both, geometric means were 15% fewer slices and 16% fewer LUTs at the area goal, and 21% fewer slices and 21% fewer LUTs at the speed goal.
-5. **It accepted HDL the vendor synthesis tool rejected.** XST could not read 15 of the 67 designs in the test corpus — system functions such as $clog2, VHDL-2008 constructs, non-work [[libraries]] — and rejected 7 more over pin constraints, all of which Silinx built.
+5. **It accepted HDL the vendor synthesis tool rejected.** XST could not read 15 of the 67 designs in the test corpus — system functions such as $clog2, VHDL-2008 constructs, non-work [[libraries|libraries]] — and rejected 7 more over pin constraints, all of which Silinx built.
 6. **Language coverage is the pedagogic point.** Because current textbook and online-example idioms build, course material does not have to be rewritten to match a legacy tool's dialect.
 7. **The tool itself was written with an AI coding agent.** The author states that [[agentic-ai|Claude Code]] sessions wrote the code, tests and documentation while he set direction, filed issues and reviewed, and that the comparison has been run since mid-October 2026.
 

@@ -28,7 +28,7 @@ page_kind: [evaluation]
 ## Key Findings
 
 - **Tasks came from students.** Undergraduates submitted 230 problems they had already seen defeat a mainstream agent; review kept 80, split 49 English and 31 Chinese.
-- **Six categories, 16 needing CUDA GPUs.** Research and analysis (21), ML and AI engineering (17), software engineering (17), STEM reasoning (11), language and [[creativity]] (7), applied work (7).
+- **Six categories, 16 needing CUDA GPUs.** Research and analysis (21), ML and AI engineering (17), software engineering (17), STEM reasoning (11), language and [[creativity|creativity]] (7), applied work (7).
 - **Each task runs in an isolated Docker sandbox** with a two-layer image hierarchy; the rubric stays hidden and only agent-created files reach scoring.
 - **Scoring draws on six techniques.** Rubrics hold three to six dimensions summing to 100 points, spanning pattern matching, code execution, LLM-as-judge, vision assessment, browser testing, and structured outputs; pass is 75.
 - **The best model passed only 55 percent.** Claude Opus 4.6 led on average score (71.9) and tied Sonnet 4.6 on pass rate; 23 of 80 tasks (28.8 percent) defeated all six models, and 8 drew every model below 50.
@@ -36,7 +36,7 @@ page_kind: [evaluation]
 
 ## Scope and how the tasks were chosen
 
-The task pool is bottom-up: each contributor confirmed at least one mainstream agent had failed the task. Submissions followed a fixed layout: a natural-language prompt, optional reference materials, a programmatic rubric, and metadata declaring expected deliverables. Experts reviewed each candidate for prompt clarity, rubric correctness, reproducibility, difficulty calibration, and coverage balance. Of 230 submissions, 150 were removed, rubric defects the largest cause (57), then prompt ambiguity (34), difficulty mismatch (28), coverage balancing (18), and infeasibility (13). The 80 tasks are natively bilingual, not translated, and the data, code, and [[scaffolding]] are released in the [AcademiClaw repository](https://github.com/GAIR-NLP/AcademiClaw).
+The task pool is bottom-up: each contributor confirmed at least one mainstream agent had failed the task. Submissions followed a fixed layout: a natural-language prompt, optional reference materials, a programmatic rubric, and metadata declaring expected deliverables. Experts reviewed each candidate for prompt clarity, rubric correctness, reproducibility, difficulty calibration, and coverage balance. Of 230 submissions, 150 were removed, rubric defects the largest cause (57), then prompt ambiguity (34), difficulty mismatch (28), coverage balancing (18), and infeasibility (13). The 80 tasks are natively bilingual, not translated, and the data, code, and [[scaffolding|scaffolding]] are released in the [AcademiClaw repository](https://github.com/GAIR-NLP/AcademiClaw).
 
 ## Evaluation machinery
 

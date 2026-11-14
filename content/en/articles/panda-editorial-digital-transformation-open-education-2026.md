@@ -33,7 +33,7 @@ verified: [citation, numbers]
 4. Its central condition is that technology finds credence in education only when it aligns with appropriate pedagogy applied in local contexts, which makes pedagogy the unit of change rather than the tool.
 5. It credits AI with making [[student-experience|learner experience]] more personalized, immersive, interactive, micro-learning oriented and skill-based, while citing reviews that record ethical challenges and call for re-examination of [[pedagogy|pedagogical]] models.
 6. It reports the issue's findings as directions rather than effects: [[ai-literacy|AI literacy]] positively related to teachers' teaching efficiency and to students' digital confidence and ethical decision-making, digital competence positively related to autonomous learning, and teacher workload carrying more predictive weight than ICT competency or laboratory resources for perceived performance in open distance learning.
-7. It concludes that institutional adoption of generative AI has to weigh ecosystem, efficacy, [[ethics]] and pedagogic soundness, and that the teacher's role now includes that of learning manager.
+7. It concludes that institutional adoption of generative AI has to weigh ecosystem, efficacy, [[ethics|ethics]] and pedagogic soundness, and that the teacher's role now includes that of learning manager.
 
 ## A technological history in which nothing is replaced
 
@@ -45,7 +45,7 @@ The section closes on continuing [[educational-development|professional developm
 
 ## Pedagogy as the unit of change
 
-The middle section is a compressed history of [[learning-theories|learning theory]], running from [[behaviorism]] through cognitivism and [[constructivist|constructivism]] to connectivism, and then a claim about what that history did to practice. [[curriculum-design|Curriculum]], learning theory and pedagogy are related, and pedagogies connect to strategies, [[learning-design|instructional design]] and methods, which is why the editorial treats a change in pedagogy as the substantive event and a change in platform as its occasion.
+The middle section is a compressed history of [[learning-theories|learning theory]], running from [[behaviorism|behaviorism]] through cognitivism and [[constructivist|constructivism]] to connectivism, and then a claim about what that history did to practice. [[curriculum-design|Curriculum]], learning theory and pedagogy are related, and pedagogies connect to strategies, [[learning-design|instructional design]] and methods, which is why the editorial treats a change in pedagogy as the substantive event and a change in platform as its occasion.
 
 The specific shifts it lists are worth separating from the general claim, because they are the part a reader can check against their own institution. Content delivery became learning design. Individualized study became collaborative and networked study. The fixed classroom became flexible and blended provision. Assessment of learning became assessment as learning. Discipline-bound curricula became interdisciplinary ones. Behaviorist models of learner support became constructivist and connectivist ones. Underneath them sits a reorientation of learner support, from one-way mass media and two-way conferencing to synchronous and asynchronous interaction, with blogs for individual reflection, wikis for collaborative reflection, discussion forums for inquiry, and [[eportfolio|e-portfolios]] for self-management.
 

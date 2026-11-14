@@ -22,7 +22,7 @@ Misconduct procedures for [[academic-integrity|plagiarism]] evolved alongside a 
 
 Four limitations compound one another.
 
-- **Low, unstable accuracy.** In the most comprehensive early [[benchmark]], none of fourteen tools reached 80% accuracy, and performance degraded sharply once text was paraphrased or manually edited. Simple adversarial techniques — paraphrasing, "humanising" services, minor editing — roughly halve detectors' already modest accuracy. At realistic base rates, most positive findings will be false.
+- **Low, unstable accuracy.** In the most comprehensive early [[benchmark|benchmark]], none of fourteen tools reached 80% accuracy, and performance degraded sharply once text was paraphrased or manually edited. Simple adversarial techniques — paraphrasing, "humanising" services, minor editing — roughly halve detectors' already modest accuracy. At realistic base rates, most positive findings will be false.
 - **Systematic bias.** Detectors misclassify the writing of non-native English speakers because the features they treat as signals of AI also characterize competent second-language writing — so the harm of misclassification lands on an already disadvantaged group.
 - **Asymmetric error.** Even a small error rate brands a substantial absolute number of innocent students across a large cohort, while the determined are precisely those most able to evade. The errors fall on the careless-but-honest rather than the deliberately dishonest.
 - **Opacity.** Commercial tools disclose neither training data nor thresholds, output a percentage without reasons, and cannot be independently replicated or cross-examined by student, marker, or panel. A case that cannot be explained cannot be answered.

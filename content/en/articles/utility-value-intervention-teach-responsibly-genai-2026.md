@@ -30,14 +30,14 @@ page_kind: [evaluation]
 - **Teacher educators.** Do not assume that adding [[scaffolding|scaffolds]] strengthens a motivational intervention — the scaffolded condition performed no differently from the unscaffolded intervention or the control condition.
 - **Teacher educators.** Support self-referential processing explicitly within utility-value activities and match motivational support to individual starting points rather than applying it uniformly across a cohort.
 - **Teacher educators.** Pair motivational support with concrete instructional designs that connect [[ethics|ethical]] reasoning to the specific affordances and risks of each AI application, rather than relying on generic principles.
-- **Researchers.** Design longitudinal studies that capture intraindividual change in [[motivation]] and professional knowledge, since this field study measured only cross-sectional, end-product outcomes.
+- **Researchers.** Design longitudinal studies that capture intraindividual change in [[motivation|motivation]] and professional knowledge, since this field study measured only cross-sectional, end-product outcomes.
 
 ## Limitations
 
 - The experiment was embedded in a single 45-minute lecture of one German university's Master of Education program (N = 158 pre-service teachers, 68% female), and the authors state the short duration limited how far internal motivational changes could develop.
 - Knowledge integration was measured only as an end product, so the underlying cognitive processes during learning were not captured.
 - Worked examples were provided uniformly to all participants, which the authors state may have reduced sensitivity to detect motivational effects.
-- In-video guidance and segmented [[reflection]] tasks were combined, precluding conclusions about the isolated effect of each scaffolding element.
+- In-video guidance and segmented [[reflection|reflection]] tasks were combined, precluding conclusions about the isolated effect of each scaffolding element.
 
 ## Citation
 Boos, J., Eder, T., & Lachner, A. (2026). [Perceived utility moderates motivational intervention effects in learning to teach responsibly with GenAI](https://doi.org/10.1016/j.caeo.2026.100324). *Computers and Education Open, 10*, 100324.

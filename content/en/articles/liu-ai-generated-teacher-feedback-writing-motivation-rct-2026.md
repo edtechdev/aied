@@ -23,14 +23,14 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** A three-arm [[rct|randomized trial]] assigned 312 first-year university writers to AI-generated [[feedback]], instructor [[feedback]], or a no-substantive-feedback control, and 287 completed the single revise-and-resubmit cycle. Both feedback sources improved revised-essay quality by the same margin — *d* = 0.60 for AI and *d* = 0.59 for the instructor — and the two were statistically equivalent within a pre-specified ±0.35 SD band. The difference appeared in [[motivation]]: instructor feedback raised intrinsic motivation more than [[ai-feedback-quality|AI feedback]], and perceived relatedness to the feedback source accounted for that gap.
+> **Synthesis:** A three-arm [[rct|randomized trial]] assigned 312 first-year university writers to AI-generated [[feedback|feedback]], instructor [[feedback|feedback]], or a no-substantive-feedback control, and 287 completed the single revise-and-resubmit cycle. Both feedback sources improved revised-essay quality by the same margin — *d* = 0.60 for AI and *d* = 0.59 for the instructor — and the two were statistically equivalent within a pre-specified ±0.35 SD band. The difference appeared in [[motivation|motivation]]: instructor feedback raised intrinsic motivation more than [[ai-feedback-quality|AI feedback]], and perceived relatedness to the feedback source accounted for that gap.
 
 ## Key Findings
 
 1. Of 340 students screened, 312 were randomized (AI 104, instructor 102, control 106) and 287 entered the analysis (AI 96, instructor 94, control 97); attrition was 8.0% and did not differ by arm, *χ*²(2) = 0.05, *p* = 0.975.
 2. Adjusted post-test writing means were 48.28 for control, 54.70 for AI feedback and 54.58 for instructor feedback; AI versus control was *d* = 0.60, 95% CI [0.32, 0.89], and instructor versus control *d* = 0.59, 95% CI [0.30, 0.88].
 3. The two feedback arms were equivalent within the pre-specified margin of ±0.35 standard deviations, and the equivalence margin was fixed before data collection rather than set after the results.
-4. [[student-engagement|Feedback engagement]] carried the performance effect: the indirect effect was 5.05, 95% CI [3.57, 6.69], while the pathway through [[self-efficacy]] was not significant, 0.23, 95% CI [−0.20, 0.75].
+4. [[student-engagement|Feedback engagement]] carried the performance effect: the indirect effect was 5.05, 95% CI [3.57, 6.69], while the pathway through [[self-efficacy|self-efficacy]] was not significant, 0.23, 95% CI [−0.20, 0.75].
 5. Intrinsic motivation means were 4.61 (control), 4.90 (AI) and 5.16 (instructor); instructor beat AI at *d* = 0.31, AI beat control at *d* = 0.35, and instructor beat control at *d* = 0.65.
 6. Perceived relatedness mediated that motivational gap, indirect = 0.25, 95% CI [0.12, 0.40], with a negligible direct effect — a [[self-determination-theory|relatedness]] account of why the same quality of commentary does not feel the same.
 7. AI literacy did not significantly moderate the feedback effect on performance, *p* = 0.058, so the exploratory pattern in the discussion is a signal rather than a finding.
@@ -45,7 +45,7 @@ What the design does not control is the *content* of the feedback. The authors d
 
 ## Equal quality of revision, unequal relationship with the source
 
-The motivational result is the paper's contribution, because the performance result is the one a vendor would predict. Instructor feedback produced higher intrinsic [[motivation]] than [[ai-feedback-quality|AI feedback]] (*d* = 0.31) even though revised essays were indistinguishable in quality, and the mediation model locates the difference in perceived relatedness: instructor feedback raised relatedness (*a* = 0.53), relatedness predicted intrinsic motivation (*b* = 0.48), and the direct effect of feedback source on motivation was negligible. Relatedness correlated 0.54 with intrinsic motivation in the zero-order matrix, the strongest association in the study.
+The motivational result is the paper's contribution, because the performance result is the one a vendor would predict. Instructor feedback produced higher intrinsic [[motivation|motivation]] than [[ai-feedback-quality|AI feedback]] (*d* = 0.31) even though revised essays were indistinguishable in quality, and the mediation model locates the difference in perceived relatedness: instructor feedback raised relatedness (*a* = 0.53), relatedness predicted intrinsic motivation (*b* = 0.48), and the direct effect of feedback source on motivation was negligible. Relatedness correlated 0.54 with intrinsic motivation in the zero-order matrix, the strongest association in the study.
 
 Both feedback arms still beat the control on motivation, so the finding is not that [[generative-ai|AI feedback]] demotivates. It is that a scalable source recovers the performance benefit without the relational one. The authors read that as an argument for blended arrangements where AI carries volume and the instructor carries relationship, rather than as a case for replacing either.
 

@@ -13,14 +13,14 @@ confidence: medium
 audience: [instructors, instructional designers]
 ---
 
-> **Synthesis:** Kurdya and colleagues (2026) present **Taklif.AI**, a platform that uses [[llm|large language models]] to generate [[personalized-learning|personalized]] college assignments from students' own interests and cultural contexts rather than from academic-performance metrics alone. The stated problem is educators' difficulty in producing engaging assignments that fit diverse interests and cognitive abilities: traditional one-size-fits-all tasks are linked in the paper to reduced engagement and increased reliance on unethical practices such as [[academic-integrity|plagiarism]]. The platform uses a structured [[prompt-engineering]] pipeline with input and output [[guardrails]], a serverless AWS architecture with a Next.js frontend, **Llama 3.3 70B** as the primary model via LiteLLM for multi-provider load balancing, and LangChain for prompt orchestration. Preliminary user-acceptance testing with 68 participants (65 students and three educators) found positive reception, with **84%** rating the personalization feature as beneficial; the authors treat rigorous empirical evaluation of learning outcomes as future work.
+> **Synthesis:** Kurdya and colleagues (2026) present **Taklif.AI**, a platform that uses [[llm|large language models]] to generate [[personalized-learning|personalized]] college assignments from students' own interests and cultural contexts rather than from academic-performance metrics alone. The stated problem is educators' difficulty in producing engaging assignments that fit diverse interests and cognitive abilities: traditional one-size-fits-all tasks are linked in the paper to reduced engagement and increased reliance on unethical practices such as [[academic-integrity|plagiarism]]. The platform uses a structured [[prompt-engineering|prompt engineering]] pipeline with input and output [[guardrails|guardrails]], a serverless AWS architecture with a Next.js frontend, **Llama 3.3 70B** as the primary model via LiteLLM for multi-provider load balancing, and LangChain for prompt orchestration. Preliminary user-acceptance testing with 68 participants (65 students and three educators) found positive reception, with **84%** rating the personalization feature as beneficial; the authors treat rigorous empirical evaluation of learning outcomes as future work.
 
-Taklif.AI differs from performance-driven personalization by incorporating students' **extracurricular interests and cultural contexts** into assignment generation — an approach aligned with [[culturally-relevant-pedagogy]] principles and with the wider [[personalized-learning]] literature on interest-based task design.
+Taklif.AI differs from performance-driven personalization by incorporating students' **extracurricular interests and cultural contexts** into assignment generation — an approach aligned with [[culturally-relevant-pedagogy|culturally relevant pedagogy]] principles and with the wider [[personalized-learning|personalized learning]] literature on interest-based task design.
 
 **System architecture highlights:**
 - Primary LLM: **Llama 3.3 70B** via LiteLLM for multi-provider load balancing
 - Prompt orchestration: **LangChain** with structured [[prompt-engineering|prompt engineering]] pipeline
-- Quality control: Input and output **[[guardrails]]** to ensure assignment quality
+- Quality control: Input and output **[[guardrails|guardrails]]** to ensure assignment quality
 - Infrastructure: **AWS serverless** with Next.js frontend
 
 **User testing results (n=68):**
@@ -28,16 +28,16 @@ Taklif.AI differs from performance-driven personalization by incorporating stude
 - **84%** rated the personalization feature as beneficial
 - Strong user acceptance overall
 
-The platform represents a shift from **one-size-fits-all** assignments toward interest-driven [[student-engagement|engagement]], potentially reducing [[academic-integrity]] concerns like plagiarism. However, the paper acknowledges the need for **rigorous empirical evaluation of [[learning-gains|learning outcomes]]** beyond user acceptance — echoing the [[genai-performance-vs-learning]] distinction between engagement gains and actual learning improvements.
+The platform represents a shift from **one-size-fits-all** assignments toward interest-driven [[student-engagement|engagement]], potentially reducing [[academic-integrity|academic integrity]] concerns like plagiarism. However, the paper acknowledges the need for **rigorous empirical evaluation of [[learning-gains|learning outcomes]]** beyond user acceptance — echoing the [[genai-performance-vs-learning|Yan et al. (2025)]] distinction between engagement gains and actual learning improvements.
 
-This work connects to the broader [[automated-question-generation]] literature and the [[edtech-platform]] ecosystem. The use of open-weight models (Llama 3.3 70B) aligns with the trend toward institution-controlled AI deployment seen in [[lata-ferpa-compliant-local-llm-autograder]] and [[moodle-ai-tutoring-deep-learning]].
+This work connects to the broader [[automated-question-generation|automated question generation]] literature and the [[edtech-platform|edtech platform]] ecosystem. The use of open-weight models (Llama 3.3 70B) aligns with the trend toward institution-controlled AI deployment seen in [[lata-ferpa-compliant-local-llm-autograder|Rodríguez (2026)]] and [[moodle-ai-tutoring-deep-learning|Ostrowska et al. (2026)]].
 
 ## What this means for practice
 
 - **Instructors.** Collect students' extracurricular interests and cultural contexts at the start of a term and use them as the context for [[personalized-learning|personalized]] assignments: in the platform's user acceptance test, 84% of participants (57/68) rated the personalization feature as beneficial and 91% (62/68) rated the interface as intuitive.
 - **Instructors.** Cap how far a personalized rewrite may drift from the original task — Taklif.AI's prompt restricts generated content to a 50% increment over the length of the source assignment, which keeps interest-based framing a change of context rather than of [[learning-gains|learning objectives]].
 - **Instructors.** Grade the output yourself against a shared objective-based rubric: the platform does not evaluate or assess student submissions, and each personalized assignment produces a different problem statement, which complicates cross-student comparison.
-- **Designers.** Build input and output [[guardrails]] before scaling up. Against approximately 200 development test inputs, the interest guardrails rejected about 12% of submitted interests, the assignment guardrails rejected about 8% of input documents, and the output guardrails flagged about 3% of generated assignments for out-of-scope or potentially hallucinated content.
+- **Designers.** Build input and output [[guardrails|guardrails]] before scaling up. Against approximately 200 development test inputs, the interest guardrails rejected about 12% of submitted interests, the assignment guardrails rejected about 8% of input documents, and the output guardrails flagged about 3% of generated assignments for out-of-scope or potentially hallucinated content.
 - **Designers.** Budget for generation latency inside the class period: under a simulated load of 100 concurrent users generating assignments, end-to-end response time averaged 30 seconds per request.
 
 ## Limitations

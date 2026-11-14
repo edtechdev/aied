@@ -14,7 +14,7 @@ methods: [mixed-methods-research]
 institutions: [educational-policy-ai]
 ---
 
-> **Synthesis:** Alam, Farhaz, Haq, and Ferdous (2026) investigate [[generative-ai|GenAI]] adoption in Bangladeshi universities through the lens of [[constructivist]] [[learning-theories|Learning Theory]], using surveys of 255 faculty members and focus-group discussions, with structural equation modeling in SmartPLS. Attitude toward GenAI use was a strong predictor of the extent of use (β = 0.556), itself influenced by competency, [[discipline-specific-aied|domain-specific]] technology relevance, and students' technology-use provision; domain-specific relevance had the strongest effect on attitude (β = 0.413), while subjective norms and [[governance|institutional]] technology-use provision were not significant.
+> **Synthesis:** Alam, Farhaz, Haq, and Ferdous (2026) investigate [[generative-ai|GenAI]] adoption in Bangladeshi universities through the lens of [[constructivist|constructivism]] [[learning-theories|Learning Theory]], using surveys of 255 faculty members and focus-group discussions, with structural equation modeling in SmartPLS. Attitude toward GenAI use was a strong predictor of the extent of use (β = 0.556), itself influenced by competency, [[discipline-specific-aied|domain-specific]] technology relevance, and students' technology-use provision; domain-specific relevance had the strongest effect on attitude (β = 0.413), while subjective norms and [[governance|institutional]] technology-use provision were not significant.
 
 ## Key Findings
 
@@ -29,7 +29,7 @@ institutions: [educational-policy-ai]
 - **Instructors.** Tie GenAI use to your subject matter: domain-specific technology relevance was the strongest driver of faculty attitude (β = 0.413), so discipline-based demonstrations outperform generic tool promotion.
 - **Instructors.** Build your own competency before scaling use, since competency significantly predicted attitude toward GenAI use, which in turn strongly predicted extent of use (β = 0.556).
 - **Faculty developers.** Design training that targets capacity and [[discipline-specific-aied|domain relevance]] rather than general encouragement, because subjective norms were not significant predictors of attitude in this sample.
-- **Administrators.** Weight capacity building and [[ethics|ethical]] guidelines above infrastructure provision: institutional technology-use provision did not significantly predict use, instead, enhance university capacity through training, integrate GenAI into [[pedagogy]], and develop [[ethics|ethical]] guidelines that support students and teachers while attending to the concerns faculty raised in discussion, in this [[global-south|resource-constrained]] context.
+- **Administrators.** Weight capacity building and [[ethics|ethical]] guidelines above infrastructure provision: institutional technology-use provision did not significantly predict use, instead, enhance university capacity through training, integrate GenAI into [[pedagogy|pedagogy]], and develop [[ethics|ethical]] guidelines that support students and teachers while attending to the concerns faculty raised in discussion, in this [[global-south|resource-constrained]] context.
 - **Researchers.** Test these adoption paths longitudinally, since the study is cross-sectional and itself calls for examining long-term effects on teaching outcomes and institutional readiness.
 
 ## Limitations

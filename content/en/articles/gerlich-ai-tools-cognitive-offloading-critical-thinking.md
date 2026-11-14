@@ -26,11 +26,11 @@ confidence: medium
 
 ## What this means for practice
 
-- **Instructors.** Pair every AI task with work the tool cannot do for the learner — explicit [[critical-thinking]] exercises and [[active-learning]] — because heavier AI use correlated with lower critical thinking (r = −0.68) and the association ran substantially through [[cognitive-offloading|cognitive offloading]] (indirect effect b = −0.25, p < 0.001).
+- **Instructors.** Pair every AI task with work the tool cannot do for the learner — explicit [[critical-thinking|critical thinking]] exercises and [[active-learning|active learning]] — because heavier AI use correlated with lower critical thinking (r = −0.68) and the association ran substantially through [[cognitive-offloading|cognitive offloading]] (indirect effect b = −0.25, p < 0.001).
 - **Instructors.** Teach students to notice what they delegate: offloading mediated the AI–critical-thinking link, so short [[metacognition|metacognitive]] prompts asking what was outsourced and what was worked out independently target the mechanism rather than the tool.
 - **Faculty developers.** Build [[teacher-ai-competency|AI competency]] training that keeps cognitive engagement in view alongside tool fluency; higher educational attainment moderated the negative AI effect (interaction β = 0.02, p = 0.046), so instruction is a lever on the outcome.
 - **Administrators.** Direct structured critical-thinking instruction at the youngest cohorts: 17–25-year-olds reported the highest AI dependence and offloading and scored lowest on critical thinking, while 46+ participants used AI less and scored higher.
-- **Researchers.** Treat [[trust]] in AI as a measurable risk factor, since the study extends the "Google effect" and cognitive offloading [[research-methods-aied|literature]] by linking trust in AI to heavier offloading and weaker scrutiny of outputs.
+- **Researchers.** Treat [[trust|trust]] in AI as a measurable risk factor, since the study extends the "Google effect" and cognitive offloading [[research-methods-aied|literature]] by linking trust in AI to heavier offloading and weaker scrutiny of outputs.
 
 ## Limitations
 

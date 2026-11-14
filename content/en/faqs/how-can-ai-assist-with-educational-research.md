@@ -72,13 +72,13 @@ Topic modeling can extend that structure without taking over interpretation. [[o
 
 ## Decide what verification means and who signs it
 
-High agreement between a model and a human coder gets reported as if it established correctness. It does not. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] had an independent expert judge 855 pairwise code sets blind to source. Human-[[llm]] agreement (mean Jaccard 0.30) sat well below human-human agreement (0.52), yet the blind verifier preferred human and machine coding at rates it could not distinguish (51.5% against 48.5%, p = 0.537). In some cases human consensus encoded a shared bias the verifier rejected in favor of the model.
+High agreement between a model and a human coder gets reported as if it established correctness. It does not. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] had an independent expert judge 855 pairwise code sets blind to source. Human-[[llm|LLM]] agreement (mean Jaccard 0.30) sat well below human-human agreement (0.52), yet the blind verifier preferred human and machine coding at rates it could not distinguish (51.5% against 48.5%, p = 0.537). In some cases human consensus encoded a shared bias the verifier rejected in favor of the model.
 
 So the verification step needs a gold standard that is neither the model's output nor the coder's agreement with it, plus a named person who adjudicated the disagreements. Report both. A similarity statistic describes how closely two readings match, and it says nothing about whether either reading is right.
 
 ## Search fast, then check every source yourself
 
-Generative search summarizes, recommends, synthesizes, and converses, which unsettles the older arrangement in which the system locates and the reader interprets ([[genai-academic-search-workshop]]). Treat it as a discovery tool. The workshop report carries two cautions: capability is uneven, with highly cited scholars reconstructed at roughly twice the rate of lower-cited peers, and a [[librarians|librarian]] described a trust gap in which students over-trusted generative search while faculty distrusted it.
+Generative search summarizes, recommends, synthesizes, and converses, which unsettles the older arrangement in which the system locates and the reader interprets ([[genai-academic-search-workshop|Liu et al., 2026]]). Treat it as a discovery tool. The workshop report carries two cautions: capability is uneven, with highly cited scholars reconstructed at roughly twice the rate of lower-cited peers, and a [[librarians|librarian]] described a trust gap in which students over-trusted generative search while faculty distrusted it.
 
 Reference verification is where this becomes non-negotiable, and the failures cluster in the author field, the one that carries credit. [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] audited 723,930 publications and 15,872,533 references and verified 30 fabricated references across 14 computing-education papers, all from 2025 and 2026. Seventeen of the 30 were hybrids: a real title attached to fabricated or incorrect authors. The verified count at one technical symposium rose from 3 in 2025 to 17 in 2026, in 2.3% of that year's proceedings papers. Their total is a deliberate lower bound, and automated checkers inherit the flaws of the metadata they treat as ground truth. Check authors first.
 
@@ -110,7 +110,7 @@ Predefine your criteria and keep them visible. A small local study cannot recove
 
 Report the AI's role, the verification you did, and the limits of a single-course, single-investigator design. A workflow account is not an efficacy result.
 
-Treat simulating a cohort as an advanced option rather than a default. Simulated learners tend to cover the easiest quadrant of real student behavior and are rarely validated after use ([[simulating-students]]). Read [[making-simulated-students-behave-like-learners]] before you trust a [[simulation|simulator]]'s verdict.
+Treat simulating a cohort as an advanced option rather than a default. Simulated learners tend to cover the easiest quadrant of real student behavior and are rarely validated after use ([[simulating-students|simulating students]]). Read [[making-simulated-students-behave-like-learners]] before you trust a [[simulation|simulator]]'s verdict.
 
 ## What researchers get wrong about this
 
@@ -150,4 +150,4 @@ AI takes work out of the project. The 115-day case study found delegated scope g
 
 ## Where to go next
 
-The companion questions are [[evaluating-ai-interventions-methods]] on how to measure an intervention, [[reporting-interpreting-aied-research]] on reporting the system and your own AI use, and [[research-gaps-aied]] on where the literature is thin. [[equity-ethics-pedagogical-safety-research]] covers student data, and [[ai-assisted-educational-research]] is the full concept page behind this one.
+The companion questions are [[evaluating-ai-interventions-methods]] on how to measure an intervention, [[reporting-interpreting-aied-research]] on reporting the system and your own AI use, and [[research-gaps-aied]] on where the literature is thin. [[equity-ethics-pedagogical-safety-research]] covers student data, and [[ai-assisted-educational-research|ai-assisted educational research]] is the full concept page behind this one.

@@ -35,7 +35,7 @@ ai_assist:
 5. NSAI was the strongest balanced compromise on factual knowledge: 71% recall for low performers at 60% precision, 66% accuracy, AUC of 66%. On conceptual knowledge it reported 69% for AUC, accuracy, recall and precision.
 6. Under imbalance the picture broke. Apart from NSAI, no model reached 50% recall for low performers on either knowledge type. The decision tree found 8% of low performers on conceptual knowledge, the random forest 16% on factual, rule induction 32% on factual, and the Bayesian network 12% on conceptual.
 7. NSAI held: AUC of 79% on factual and 71% on conceptual, the highest on both, with 84% accuracy and 68% recall for low performers on factual, and 76% recall on conceptual. The authors credit the injected SRL rules, an implicit regularization mechanism.
-8. Explanations diverged. The Bayesian network's strongest direct influences on factual knowledge were attention (0.75), heterogeneous thinking level (0.73) and growth mindset (0.67). The neural network's SHAP ranking put gender first, and gender added +0.19 to a low performer misclassified as high. Both largely overlooked [[metacognition]], while NSAI ranked learned knowledge, metacognition and motivation above cognition, six of its top ten global features being [[motivation|motivational]] or metacognitive.
+8. Explanations diverged. The Bayesian network's strongest direct influences on factual knowledge were attention (0.75), heterogeneous thinking level (0.73) and growth mindset (0.67). The neural network's SHAP ranking put gender first, and gender added +0.19 to a low performer misclassified as high. Both largely overlooked [[metacognition|metacognition]], while NSAI ranked learned knowledge, metacognition and motivation above cognition, six of its top ten global features being [[motivation|motivational]] or metacognitive.
 
 ## How the study was built
 
@@ -45,7 +45,7 @@ The instrument is not a single questionnaire. It mixes [[self-report-measures|se
 
 The target was discretized twice. Splitting at the mean produced balanced labels; splitting at the first quartile produced imbalanced ones, where the low class marks the tail. The authors declined resampling, arguing that undersampling loses data in an already small set and oversampling introduces redundancy and dataset shift. Data were split 80/20 with stratification, normalized after the split, trained with 10-fold cross-validation, and scored on accuracy, AUC, recall and precision at a 0.5 threshold.
 
-The three [[machine-learning]] families follow a knowledge-representation view rather than an explainability view, so random forests count as symbolic and Bayesian networks as sub-symbolic. KBANN was initialized from five Horn clauses mapping the SRL framework onto topology, with antecedents as inputs, constructs as hidden units and rules re-extracted after training. Explanations came from each model's intrinsic output where one exists and from SHAP for the neural network, limited to models whose generalization was good enough that their patterns were not majority-class artifacts.
+The three [[machine-learning|machine learning]] families follow a knowledge-representation view rather than an explainability view, so random forests count as symbolic and Bayesian networks as sub-symbolic. KBANN was initialized from five Horn clauses mapping the SRL framework onto topology, with antecedents as inputs, constructs as hidden units and rules re-extracted after training. Explanations came from each model's intrinsic output where one exists and from SHAP for the neural network, limited to models whose generalization was good enough that their patterns were not majority-class artifacts.
 
 ## A balanced test cannot tell you which model will find the student who is rare
 
@@ -59,9 +59,9 @@ The paper's reading is that most models optimize for the majority class, and tha
 
 The recall figures under imbalance are the sharpest result. The decision tree found 8% of low performers on conceptual knowledge, the Bayesian network 12%, the random forest 16% on factual knowledge at 80% precision, and rule induction 32%. High-performer recall sat between 89% and 98%. A model can post 74% to 78% accuracy while missing almost every student the intervention was built for.
 
-This is where [[bias-mitigation]] stops being an abstract fairness concern and becomes a design question. The bias is not a stray coefficient; it is the loss function doing what it was asked under a distribution that rewards ignoring the minority. Symbolic models commit to explicit splits that favor the larger branch; sub-symbolic models pick up whatever correlates with the majority, including demographic variables. NSAI keeps minority-relevant constructs in play through prior structure, a claim about regularization as much as [[ethics]].
+This is where [[bias-mitigation|bias mitigation]] stops being an abstract fairness concern and becomes a design question. The bias is not a stray coefficient; it is the loss function doing what it was asked under a distribution that rewards ignoring the minority. Symbolic models commit to explicit splits that favor the larger branch; sub-symbolic models pick up whatever correlates with the majority, including demographic variables. NSAI keeps minority-relevant constructs in play through prior structure, a claim about regularization as much as [[ethics|ethics]].
 
-The consequence is that [[differential-effects-across-learner-groups]] has to be asked per subgroup, at the threshold a school would use rather than at 0.5 by default. The authors fix 0.5 for comparability and note that threshold adjustment buys recall at the cost of false positives. That trade is a policy decision, and it belongs to the people who act on the list.
+The consequence is that [[differential-effects-across-learner-groups|differential effects across learner groups]] has to be asked per subgroup, at the threshold a school would use rather than at 0.5 by default. The authors fix 0.5 for comparability and note that threshold adjustment buys recall at the cost of false positives. That trade is a policy decision, and it belongs to the people who act on the list.
 
 ## "Aligned with learning theory" is a claim about attributions, and attributions move
 
@@ -69,15 +69,15 @@ Each family tells a different story about why a student scores as they do, and t
 
 That contradiction is the interesting part. A model whose top feature is gender, and which adds +0.19 of gender to a low performer misclassified as high, is not describing learning. It is describing who sits in the majority of a small Estonian cohort.
 
-NSAI's explanation differs in kind. Its weights map onto named constructs because the topology was built from them, and rule extraction returns IF-THEN statements in the vocabulary of [[self-regulated-learning]]. Learned knowledge, metacognition and motivation outranked cognition for factual knowledge in the balanced condition. The model also surfaced a latent unit the injected theory lacked, which the authors named "thinking level and information processing".
+NSAI's explanation differs in kind. Its weights map onto named constructs because the topology was built from them, and rule extraction returns IF-THEN statements in the vocabulary of [[self-regulated-learning|self-regulated learning]]. Learned knowledge, metacognition and motivation outranked cognition for factual knowledge in the balanced condition. The model also surfaced a latent unit the injected theory lacked, which the authors named "thinking level and information processing".
 
 Two cautions follow. The ranking of constructs was not stable: under imbalance, cognition led and metacognition and motivation fell to the bottom, because the same inputs were optimized against differently defined classes. So "aligned with theory" holds for a model, a label definition and a dataset at once, not for a method. And alignment is judged by people reading attributions against a framework, not by an index: no number scores theoretical fidelity, and no stakeholder study tests whether teachers find the extracted rules usable.
 
 ## What this means for practice
 
-- **Learning-analytics teams and platform vendors.** Report recall for the low-performing class at the threshold you will deploy, next to accuracy, and state the evaluation sample's class balance. A model tuned on a rebalanced file, as [[learning-analytics]] pipelines often are, has not met the case that matters.
+- **Learning-analytics teams and platform vendors.** Report recall for the low-performing class at the threshold you will deploy, next to accuracy, and state the evaluation sample's class balance. A model tuned on a rebalanced file, as [[learning-analytics|learning analytics]] pipelines often are, has not met the case that matters.
 - **Researchers evaluating models.** Treat feature attributions as part of the evaluation, not a postscript. Compare the intrinsic explanation with the post-hoc one; the gap between a KBANN rule set and a SHAP ranking is itself evidence about the model.
-- **School and system decision makers.** Ask what a shortlist misses before asking how accurate the model is. A 78% accurate classifier finding 8% of the lowest quartile will not support early intervention, and [[explainable-ai]] [[visualization|dashboards]] alone will not show the gap.
+- **School and system decision makers.** Ask what a shortlist misses before asking how accurate the model is. A 78% accurate classifier finding 8% of the lowest quartile will not support early intervention, and [[explainable-ai|explainable AI]] [[visualization|dashboards]] alone will not show the gap.
 
 ## Limitations
 

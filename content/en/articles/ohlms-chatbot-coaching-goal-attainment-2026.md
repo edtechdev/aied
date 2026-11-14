@@ -24,7 +24,7 @@ ai_assist:
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Can a chatbot do the work of a human coach for students? Ohlms, Dunlop and Langer randomly assigned psychology undergraduates to four weekly sessions with an [[llm]]-based coaching chatbot, a literature-based self-study condition, or a waitlist, and analyzed 101 across a semester. Goal attainment rose more in the chatbot condition than in either control (T4 vs T1, b = 21.74, p < .001). [[self-efficacy|self-efficacy]] also rose within the chatbot condition, but it beat the controls only at isolated time points, and stress showed no significant change. To the authors' knowledge, it is the first longitudinal field-experimental test of AI coaching in education, and suggests [[conversational-ai|conversational AI]] can support goal pursuit well before it improves [[well-being]].
+> **Synthesis:** Can a chatbot do the work of a human coach for students? Ohlms, Dunlop and Langer randomly assigned psychology undergraduates to four weekly sessions with an [[llm|LLM]]-based coaching chatbot, a literature-based self-study condition, or a waitlist, and analyzed 101 across a semester. Goal attainment rose more in the chatbot condition than in either control (T4 vs T1, b = 21.74, p < .001). [[self-efficacy|self-efficacy]] also rose within the chatbot condition, but it beat the controls only at isolated time points, and stress showed no significant change. To the authors' knowledge, it is the first longitudinal field-experimental test of AI coaching in education, and suggests [[conversational-ai|conversational AI]] can support goal pursuit well before it improves [[well-being|well-being]].
 
 ## Key Findings
 

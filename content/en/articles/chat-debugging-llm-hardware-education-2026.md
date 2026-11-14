@@ -13,7 +13,7 @@ sources: ['raw/papers/2608.02420.md']
 confidence: medium
 ---
 
-> **Synthesis:** Work-in-progress exploring LLMs as debugging assistants for physical hardware lab courses. Proposes 'Chat-Debugging' where students interact with an LLM to diagnose circuit faults. Aims to reduce frustration and improve debugging skill development. Initial prototype tested in an undergraduate hardware course; preliminary results suggest LLM assistance helps students identify faults faster and provides just-in-time scaffolding without giving away solutions. [[llm]], [[scaffolding]], [[cs-education]], [[stem-education]], and [[student-experience]].
+> **Synthesis:** Work-in-progress exploring LLMs as debugging assistants for physical hardware lab courses. Proposes 'Chat-Debugging' where students interact with an LLM to diagnose circuit faults. Aims to reduce frustration and improve debugging skill development. Initial prototype tested in an undergraduate hardware course; preliminary results suggest LLM assistance helps students identify faults faster and provides just-in-time scaffolding without giving away solutions. [[llm|LLM]], [[scaffolding|scaffolding]], [[cs-education|CS education]], [[stem-education|STEM education]], and [[student-experience|student experience]].
 Work-in-progress exploring LLMs as debugging assistants for physical hardware lab courses. Proposes 'Chat-Debugging' where students interact with an LLM to diagnose circuit faults. Aims to reduce frustration and improve debugging skill development. Initial prototype tested in an undergraduate hardware course; preliminary results suggest LLM assistance helps students identify faults faster and provides just-in-time scaffolding without giving away solutions.
 
 ## What this means for practice

@@ -23,7 +23,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** This PRISMA-guided [[meta-analysis-systematic-review|systematic review]] asks what AI actually does in elementary [[language-learning]], and the answer is narrower than the field's rhetoric suggests. Across 31 studies published between 2013 and 2025, the work clusters on speaking, literacy and vocabulary, while grammar, listening comprehension and sign language are barely touched. [[conversational-ai]] and natural-language processing are common; adaptive systems and biometric feedback are not. Most studies are [[qualitative-research|qualitative]] or mixed-methods with medium samples and no grade-level specificity, so the review's main contribution is a map of where the evidence is thin — and a call for developmentally appropriate, ethically grounded design rather than more undifferentiated AI-in-education claims.
+> **Synthesis:** This PRISMA-guided [[meta-analysis-systematic-review|systematic review]] asks what AI actually does in elementary [[language-learning|language learning]], and the answer is narrower than the field's rhetoric suggests. Across 31 studies published between 2013 and 2025, the work clusters on speaking, literacy and vocabulary, while grammar, listening comprehension and sign language are barely touched. [[conversational-ai]] and natural-language processing are common; [[adaptive-learning|adaptive systems]] and biometric feedback are not. Most studies are [[qualitative-research|qualitative]] or mixed-methods with medium samples and no grade-level specificity, so the review's main contribution is a map of where the evidence is thin — and a call for developmentally appropriate, ethically grounded design rather than more undifferentiated AI-in-education claims.
 
 ## Key Findings
 
@@ -50,7 +50,7 @@ On the technology side, conversational agents and natural-language processing ar
 
 The review's second contribution is a critique of the evidence itself. Most included studies are qualitative or mixed-methods with medium samples, and many lack grade-level specificity — so a study labeled "elementary" may span ages where the developmental demands differ sharply. Without that specificity, claims about foundational language acquisition are hard to support.
 
-The authors argue for developmentally appropriate, pedagogically coherent and ethically sound approaches, and they direct the methodological ask at researchers: stronger designs, clearer grade bands and attention to the overlooked skill areas. For policymakers the message is about infrastructure, [[ethics]] and equity, since access to AI-supported language learning is unevenly distributed.
+The authors argue for developmentally appropriate, pedagogically coherent and ethically sound approaches, and they direct the methodological ask at researchers: stronger designs, clearer grade bands and attention to the overlooked skill areas. For policymakers the message is about infrastructure, [[ethics|ethics]] and equity, since access to AI-supported language learning is unevenly distributed.
 
 ## What this means for practice
 

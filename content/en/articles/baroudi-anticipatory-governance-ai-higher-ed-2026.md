@@ -26,7 +26,7 @@ The dominant theme is a shift from reactive to proactive leadership. Empowering 
 
 ## Institutional Readiness and Upskilling
 
-Many institutions remain at an early stage of preparedness. Aligning vision, mission, and curricula with the Fourth Industrial Revolution, investing in [[ai-literacy|AI literacy]] and hands-on training for [[teacher-role|faculty and staff]], and addressing technophobia are emphasized. [[change-management]] models (Valente's contagion model; Rieber & Welliver's five-stage framework) and cross-functional AI task forces support system-level change.
+Many institutions remain at an early stage of preparedness. Aligning vision, mission, and curricula with the Fourth Industrial Revolution, investing in [[ai-literacy|AI literacy]] and hands-on training for [[teacher-role|faculty and staff]], and addressing technophobia are emphasized. [[change-management|Change management]] models (Valente's contagion model; Rieber & Welliver's five-stage framework) and cross-functional AI task forces support system-level change.
 
 ## Equity and the Global South
 
@@ -34,13 +34,13 @@ A notable theory-implementation gap is driven by weak policy frameworks and limi
 
 ## Relevance to the knowledge base
 
-This paper strengthens the knowledge base's treatment of [[governance]] and [[educational-policy-ai|AI policy]] in [[higher-ed|higher education]]. It connects institutional [[administrator|leadership]] to [[ethics|ethical]] and equitable AI adoption, and it complements empirical adoption studies (e.g., [[alrahmi-org-drivers-ai-adoption-he-2026]]) with a systemic, futures-oriented governance lens. Its emphasis on stakeholder engagement, faculty [[lifelong-learning|upskilling]], and Global South [[equity-in-ai-education|equity]] aligns with the knowledge base's coverage of [[teacher-role|teacher roles]], [[ai-literacy]], and context-sensitive AI integration. It informs [[educational-policy-ai|policy]] discourse by framing governance as an anticipatory, participatory process rather than a compliance exercise.
+This paper strengthens the knowledge base's treatment of [[governance|governance]] and [[educational-policy-ai|AI policy]] in [[higher-ed|higher education]]. It connects institutional [[administrator|leadership]] to [[ethics|ethical]] and equitable AI adoption, and it complements empirical adoption studies (e.g., [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi (2026)]]) with a systemic, futures-oriented governance lens. Its emphasis on stakeholder engagement, faculty [[lifelong-learning|upskilling]], and Global South [[equity-in-ai-education|equity]] aligns with the knowledge base's coverage of [[teacher-role|teacher roles]], [[ai-literacy|AI literacy]], and context-sensitive AI integration. It informs [[educational-policy-ai|policy]] discourse by framing governance as an anticipatory, participatory process rather than a compliance exercise.
 
 ## What this means for practice
 
 - **Administrators.** Shift from reactive crisis management to anticipatory governance, building foresight and stakeholder co-creation into AI decisions before adoption becomes urgent.
 - Create senior or distributed AI leadership: only 7% of institutions had established such roles even though 49% treated AI as a strategic priority, and cross-functional AI task forces support system-level change.
-- Fund [[ai-literacy]] and hands-on training for faculty and staff, sequencing it with established [[change-management]] models (Valente's contagion model; Rieber and Welliver's five-stage framework).
+- Fund [[ai-literacy|AI literacy]] and hands-on training for faculty and staff, sequencing it with established [[change-management|change management]] models (Valente's contagion model; Rieber and Welliver's five-stage framework).
 - Test governance templates against local infrastructure and policy capacity before adopting Western-centric models, which the review found fit Global South contexts poorly.
 
 ## Limitations

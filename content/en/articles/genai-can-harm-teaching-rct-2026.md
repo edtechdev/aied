@@ -15,7 +15,7 @@ methods: [rct]
 
 > **Synthesis:** The null average performance effect masks strong offsetting heterogeneity — and the exam had severe ceiling compression (control mean 89.2/100, 47% ≥ 95), which also limits power. The belief reversal is striking: it contradicts "familiarity breeds acceptance" and suggests an arc from initial awe at AI's instant responses to awareness of its unintended effects.
 
-> Sungu, Lira & Duckworth (2026) ran one of the first large-scale [[rct|RCTs]] of a teacher-facing [[generative-ai|generative AI]] tool and found it can *harm* students: providing teachers an AI [[teacher-role|teaching]] assistant **reduced student [[motivation|intrinsic motivation]] by 0.11 SD** and — among lower-performing teachers — **cut student achievement by 0.13 SD**. The pattern is a **principal–agent problem**: teachers (agents) gain labor savings from AI delegation while students (principals) bear the cost of displaced relational teaching and [[scaffolding]].
+> Sungu, Lira & Duckworth (2026) ran one of the first large-scale [[rct|RCTs]] of a teacher-facing [[generative-ai|generative AI]] tool and found it can *harm* students: providing teachers an AI [[teacher-role|teaching]] assistant **reduced student [[motivation|intrinsic motivation]] by 0.11 SD** and — among lower-performing teachers — **cut student achievement by 0.13 SD**. The pattern is a **principal–agent problem**: teachers (agents) gain labor savings from AI delegation while students (principals) bear the cost of displaced relational teaching and [[scaffolding|scaffolding]].
 
 ## The experiment
 
@@ -38,12 +38,12 @@ The null average performance effect masks strong offsetting heterogeneity — an
 
 - **66% of teacher conversations were teaching-material production** (lecture prep 32%, homework/exam 22%, syllabus 9%); only 16% instructional support; 18% general
 - **Shallow use: median 2 prompts, mean 4.7 messages** per session — teachers accepted outputs with minimal iteration
-- Interpretation: **task delegation, not [[pedagogy|pedagogical]] collaboration** — the tool was a generator of finished artifacts rather than an iterative partner, limiting the pedagogical [[reflection]] that separates augmentation from substitution
+- Interpretation: **task delegation, not [[pedagogy|pedagogical]] collaboration** — the tool was a generator of finished artifacts rather than an iterative partner, limiting the pedagogical [[reflection|reflection]] that separates augmentation from substitution
 
 ## What this means for practice
 
 - **Instructors.** Treat the tool as an iterative partner rather than a finished-artifact generator: teacher sessions ran to a median of 2 prompts, and 66% of conversations were teaching-material production rather than [[pedagogy|pedagogical]] collaboration.
-- **Instructors.** Protect the relational and [[scaffolding]] work that AI delegation can displace — motivation fell by 0.11 SD on average, and confidence by 0.18 SD among students of lower-performing teachers.
+- **Instructors.** Protect the relational and [[scaffolding|scaffolding]] work that AI delegation can displace — motivation fell by 0.11 SD on average, and confidence by 0.18 SD among students of lower-performing teachers.
 - **Faculty developers.** Train for pedagogical collaboration, not just tool access; the one-hour training in this trial did not produce the iterative use that separates augmentation from substitution.
 - **Administrators.** Judge teaching-assistant AI by student motivation and confidence, not test scores alone: average achievement was null while motivation declined significantly.
 

@@ -39,7 +39,7 @@ source_depth: full text
 
 ## The intervention
 
-The setting is APLUS (Artificial [[collaborative-learning|Peer Learning]] Using SimStudent), a learning-by-teaching environment in which the student acts as tutor to SimStudent. The problem it addresses is a known default in [[learning-by-teaching]]: tutors lapse into knowledge-telling rather than the knowledge-building that produces learning. ExpectAdapt is the response — three stacked LLMs, an Expected Response Generator that drafts what a knowledge-building answer would look like (prompted to act as an expert algebra tutor), an Alignment Detector that compares the tutor's actual response to it, and a follow-up question generator that asks something tailored to the gap. The design bet is that persistent, adaptive questioning creates the [[desirable-difficulties|impasse]] moments that push a tutor from reciting to explaining.
+The setting is APLUS (Artificial [[collaborative-learning|Peer Learning]] Using SimStudent), a learning-by-teaching environment in which the student acts as tutor to SimStudent. The problem it addresses is a known default in [[learning-by-teaching|learning by teaching]]: tutors lapse into knowledge-telling rather than the knowledge-building that produces learning. ExpectAdapt is the response — three stacked LLMs, an Expected Response Generator that drafts what a knowledge-building answer would look like (prompted to act as an expert algebra tutor), an Alignment Detector that compares the tutor's actual response to it, and a follow-up question generator that asks something tailored to the gap. The design bet is that persistent, adaptive questioning creates the [[desirable-difficulties|impasse]] moments that push a tutor from reciting to explaining.
 
 ## The study
 
@@ -47,14 +47,14 @@ Twenty-three middle-school students (grades 6 to 8) from across the United State
 
 ## What the results mean for who benefits
 
-The paper's argument is that knowledge-building acts as a sensor of learning rather than a byproduct of ability. For high-prior students it looks like an existing capacity — it correlates with their prior knowledge and does not change their outcomes, because they would have scored well anyway. For low-prior students it is the mechanism through which the gap closes, and since it does not correlate with their prior knowledge, the adaptive questioning is doing the work rather than selecting for students who were already prepared. That reframes what a teachable agent is for: not a way to give strong students a chance to consolidate, but [[scaffolding]] that can put weaker students on the same footing.
+The paper's argument is that knowledge-building acts as a sensor of learning rather than a byproduct of ability. For high-prior students it looks like an existing capacity — it correlates with their prior knowledge and does not change their outcomes, because they would have scored well anyway. For low-prior students it is the mechanism through which the gap closes, and since it does not correlate with their prior knowledge, the adaptive questioning is doing the work rather than selecting for students who were already prepared. That reframes what a teachable agent is for: not a way to give strong students a chance to consolidate, but [[scaffolding|scaffolding]] that can put weaker students on the same footing.
 
 ## What this means for practice
 
 - **Instructors using learning-by-teaching.** Design for explanation, not recitation. The measure that predicted learning here was the share of responses that built knowledge, and the agent's job was to keep asking until the tutor produced one.
 - **Educational technology developers.** The three-LLM split is a reusable pattern: generate the target response, detect the gap, then ask about the gap. Scripted follow-up questions had previously produced procedural but not conceptual gains, which is what the adaptive layer is for.
-- **Instructors and designers worried about prior-knowledge gaps.** Do not pre-select for prepared students. Prior knowledge did not predict who would engage in knowledge-building, and low-prior students who did engage finished level with high-prior peers ([[learning-gains]]).
-- **Researchers.** Treat the correlational result as a hypothesis for an experiment rather than an established effect; the authors themselves name a [[rct|randomized controlled trial]] as the next step ([[limitations-in-aied-research]]).
+- **Instructors and designers worried about prior-knowledge gaps.** Do not pre-select for prepared students. Prior knowledge did not predict who would engage in knowledge-building, and low-prior students who did engage finished level with high-prior peers ([[learning-gains|learning gains]]).
+- **Researchers.** Treat the correlational result as a hypothesis for an experiment rather than an established effect; the authors themselves name a [[rct|randomized controlled trial]] as the next step ([[limitations-in-aied-research|limitations in AIEd research]]).
 
 ## Limitations
 

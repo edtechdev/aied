@@ -17,12 +17,12 @@ page_kind: [framework]
 
 **Key findings:**
 - An RL-based coaching policy that adapts its level of intervention to the learner's current skill level significantly accelerates skill acquisition compared to static assistance levels.
-- The AI coach that gradually fades scaffolding (consistent with [[scaffolding]] theory in [[intelligent-tutoring]]) produced the best long-term retention and transfer performance.
-- Over-reliance emerged when the coach provided excessive intervention, confirming the [[cognitive-offloading|Over-Reliance]] concern documented in [[generative-ai]] tutoring contexts.
+- The AI coach that gradually fades scaffolding (consistent with [[scaffolding|scaffolding]] theory in [[intelligent-tutoring|intelligent tutoring]]) produced the best long-term retention and transfer performance.
+- Over-reliance emerged when the coach provided excessive intervention, confirming the [[cognitive-offloading|Over-Reliance]] concern documented in [[generative-ai|generative AI]] tutoring contexts.
 
 **Implications:**
-- RL-based coaching offers a principled framework for [[personalized-learning|personalized]] skill development in domains beyond traditional academics (e.g., surgical training, [[professional-training]], [[stem-education|STEM lab skills]]).
-- The competence-based fading policy mirrors established [[pedagogy|pedagogical]] best practices, suggesting [[formative-assessment]] signals can drive AI coaching adaptation.
+- RL-based coaching offers a principled framework for [[personalized-learning|personalized]] skill development in domains beyond traditional academics (e.g., surgical training, [[professional-training|professional training]], [[stem-education|STEM lab skills]]).
+- The competence-based fading policy mirrors established [[pedagogy|pedagogical]] best practices, suggesting [[formative-assessment|formative assessment]] signals can drive AI coaching adaptation.
 - Extends [[hazra-safetutors-pedagogical-safety-2026|AI safety in tutoring]] [[research-methods-aied|research]] to embodied/motor skill domains.
 
 ## What this means for practice
@@ -37,7 +37,7 @@ page_kind: [framework]
 - The randomized user study ran with N = 33 participants, about 11 per coaching condition, so the between-group contrasts favoring the adaptive coach (Hedges' g between 0.60 and 0.76) carried p-values of 0.09 to 0.16; only the within-subject tests reached significance.
 - All measurement happened in a high-fidelity first-person-view drone-racing [[simulation|simulator]] over a single 15-lap session of roughly 40 minutes, with human control limited to yaw and roll rate while pitch and thrust were automated.
 - The coaching policy was trained against [[simulating-students|simulated learners]] whose skill evolution followed a probabilistic automaton, and the authors acknowledge that simulated learners may not capture the full variability of real human learning in more complex motor-skill training settings.
-- Only the assistance modulation was learned: verbal instructions and visual cues were predefined and triggered by fixed rules, so the results say nothing about jointly optimized [[multimodal]] coaching.
+- Only the assistance modulation was learned: verbal instructions and visual cues were predefined and triggered by fixed rules, so the results say nothing about jointly optimized [[multimodal|multimodal]] coaching.
 
 ## Citation
 

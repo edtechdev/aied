@@ -1,7 +1,7 @@
 ---
 title: Neurodiversity
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -24,7 +24,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-The neurodiversity paradigm shifts the goal of [[special-education]] and [[accessibility]] work from "fix the learner" to "adapt the environment." It overlaps with [[universal-design-for-learning]] and [[inclusive-learning]] but emphasizes affirming identity and strength-based design over accommodation-as-compensation.
+The neurodiversity paradigm shifts the goal of [[special-education|special education]] and [[accessibility|accessibility]] work from "fix the learner" to "adapt the environment." It overlaps with [[universal-design-for-learning|universal design for learning]] and [[inclusive-learning|inclusive learning]] but emphasizes affirming identity and strength-based design over accommodation-as-compensation.
 
 In the AI era this framing becomes a design test rather than a slogan. [[generative-ai|Generative AI]] offers real promise for neurodivergent learners — alternative means of engagement, representation and expression, support for executive function, and reduced extraneous load — and real risk, since tools that assume a dominant communication style, gate support behind a formal diagnosis, or encourage dependency can disadvantage exactly the learners they claim to serve. The evidence is mapped category by category, including where it runs out.
 
@@ -35,7 +35,7 @@ Two reviews define the shape of the field, and both describe fragmentation rathe
 [[assistive-tech-neurodivergent-higher-ed-review-2026|A PRISMA-ScR scoping review (Rempel et al., 2026)]] searched five databases and a decade of publication (2015–2025), screening 766 records down to 40 empirical studies of digital assistive technologies for neurodivergent students in [[higher-ed|higher education]]. The field has reorganized around [[generative-ai|generative AI]] — 15 of the 40 studies — with immersive formats second at 11. Its central critique is a design critique: individual accommodation and neurotype-specific tools organized around formal diagnosis cannot address functional differences that cut across neurotypes, so it recommends universal design and participatory development instead. It also notes that the most immersive tools are the least scalable.
 - **Primary classrooms show the same concentration.** A scoping review of EdTech for neuro-inclusive primary classrooms (3,340 records screened, 93 studies) found evidence concentrated on autistic learners and individualized academic and cognitive support, with social, communicative, and peer-interaction outcomes neglected and educational value validated mainly by researchers rather than by classroom users ([[gibson-neuro-inclusive-edtech-scoping-2026|Gibson, Tervola & Goodacre (2026)]]).
 
-[[dabaghi-ai-dyslexia-education-review-2026|The interdisciplinary review of AI for dyslexia (Dabaghi, D'Urso and Sciarrone, 2026)]] covers 2018–2024 across 72 studies and finds AI used for detection, assistive support, and [[personalized-learning|personalization]], with those strands evolving in parallel rather than in integration, and the field driven more by technological opportunity than by consolidated educational theory. Its detection research ([[sensor-and-gaze-analytics|EEG]], eye-tracking, [[machine-learning]] models) shows diagnostic promise for early intervention but often needs specialized equipment and controlled conditions, which limits use in ordinary classrooms. That is the practical test this whole strand keeps failing: support has to be embedded in the course a student is actually taking.
+[[dabaghi-ai-dyslexia-education-review-2026|The interdisciplinary review of AI for dyslexia (Dabaghi, D'Urso and Sciarrone, 2026)]] covers 2018–2024 across 72 studies and finds AI used for detection, assistive support, and [[personalized-learning|personalization]], with those strands evolving in parallel rather than in integration, and the field driven more by technological opportunity than by consolidated educational theory. Its detection research ([[sensor-and-gaze-analytics|EEG]], eye-tracking, [[machine-learning|machine learning]] models) shows diagnostic promise for early intervention but often needs specialized equipment and controlled conditions, which limits use in ordinary classrooms. That is the practical test this whole strand keeps failing: support has to be embedded in the course a student is actually taking.
 
 ## Autism and ADHD in the classroom
 
@@ -58,7 +58,7 @@ The risk side has its own literature. [[seung-basham-cognitive-offloading-swld-2
 - **Diagnosis-gated support excludes the learners it does not name.** The [[meta-analysis-systematic-review|scoping review]]'s critique applies directly to how AI features are deployed: if a feature is unlocked by an accommodation letter, learners with functional differences but no diagnosis never see it.
 - **Detector-driven processes can deter legitimate accommodation use.** Where a language technology functions as an effective accommodation for a neurodivergent learner, a blanket prohibition or a detector-driven process that deters its legitimate use raises equality considerations — the annulled misconduct case the [[ai-detection|detection]] literature documents involved a student in an autism-spectrum support program ([[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]]).
 - **Tools can exclude epistemically, not just poorly.** [[genai-minoritized-knowledges-disability|Tali-Otmani (2026)]] argues that Anglophone, Western-centric training data marginalizes non-hegemonic ways of knowing, and puts the situation of disabled learners at the center of that critique — a warning that "inclusive" AI can still encode whose knowledge counts.
-- **Behavior signals are read by systems that do not know the learner.** Interpretation of [[student-engagement|engagement]], struggle or attention in [[learning-analytics]] and [[student-modeling]] assumes a normative pattern of response; see [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]] for the fairness evidence on that assumption.
+- **Behavior signals are read by systems that do not know the learner.** Interpretation of [[student-engagement|engagement]], struggle or attention in [[learning-analytics|learning analytics]] and [[student-modeling|student modeling]] assumes a normative pattern of response; see [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]] for the fairness evidence on that assumption.
 - **Dependency is a design outcome, not a learner failing.** Given the reliance pathway above, the question to ask of any AI feature is whether it substitutes for the higher-order process the assignment exists to build — the point Seung and Basham make for learning disabilities.
 
 ## Where the evidence is thin
@@ -70,9 +70,9 @@ The risk side has its own literature. [[seung-basham-cognitive-offloading-swld-2
 
 ## Connections
 
-Neurodiversity connects to [[special-education]], [[inclusive-learning]], [[universal-design-for-learning]], and [[equity-in-ai-education]]. It informs both how AI is deployed for [[student-experience]] and how assessments and literacy programs are designed to be fair across cognitive variability. For how these findings sit alongside other learner groups — language, gender, socioeconomic status, geography — see [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]].
+Neurodiversity connects to [[special-education|special education]], [[inclusive-learning|inclusive learning]], [[universal-design-for-learning|universal design for learning]], and [[equity-in-ai-education|equity]]. It informs both how AI is deployed for [[student-experience|student experience]] and how assessments and literacy programs are designed to be fair across cognitive variability. For how these findings sit alongside other learner groups — language, gender, socioeconomic status, geography — see [[differential-effects-across-learner-groups|Differential Effects Across Learner Groups]].
 
-[[deep-adhd-ai-cognitive-emotional-ethical-2026|Deep, Ghosh and Natoli's]] review of 28 studies on AI for college students with ADHD sorts the evidence into support, prediction and ethics. Prediction is the thinnest part: a pupillometric model reached AUROC 0.856, while an SVM classifier reached 66.1 to 68.8 percent accuracy, below clinical utility. The executive-function trade-off is the ethical core — a tool that compensates for a demand can also absorb the practice that would have built the capacity ([[executive-function]]).
+[[deep-adhd-ai-cognitive-emotional-ethical-2026|Deep, Ghosh and Natoli's]] review of 28 studies on AI for college students with ADHD sorts the evidence into support, prediction and ethics. Prediction is the thinnest part: a pupillometric model reached AUROC 0.856, while an SVM classifier reached 66.1 to 68.8 percent accuracy, below clinical utility. The executive-function trade-off is the ethical core — a tool that compensates for a demand can also absorb the practice that would have built the capacity ([[executive-function|executive function]]).
 
 ## Common Misconceptions
 

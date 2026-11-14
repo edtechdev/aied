@@ -21,7 +21,7 @@ The paper opens from a critique of friction-free adoption: current [[video-educa
 
 ## Two layers of resistance
 
-PedaCo operationalizes principled resistance through three concrete forms — rejecting (requesting regeneration), revising (manual editing), and overriding (vetoing automated flags). Layer 1 intervenes at the script stage, where an [[agentic-ai|LLM]] generates an initial script that passes through a structured review cycle; an AI reviewer prompted with CTML principles produces [[feedback]] organized by principle, and the human educator decides what to accept, revise, or regenerate. This keeps the system advisory and preserves the educator's professional authority. Layer 2 performs post-synthesis evaluation through a composite metric across coherence, redundancy, temporal contiguity, modality, and image quality, with the educator deciding whether to accept or return to the script stage. The design rationale is that humans and algorithms catch different kinds of problems — educators identify nuanced pedagogical mismatches while algorithms provide precise structural verification.
+PedaCo operationalizes principled resistance through three concrete forms — rejecting (requesting regeneration), revising (manual editing), and overriding (vetoing automated flags). Layer 1 intervenes at the script stage, where an [[agentic-ai|LLM]] generates an initial script that passes through a structured review cycle; an AI reviewer prompted with CTML principles produces [[feedback|feedback]] organized by principle, and the human educator decides what to accept, revise, or regenerate. This keeps the system advisory and preserves the educator's professional authority. Layer 2 performs post-synthesis evaluation through a composite metric across coherence, redundancy, temporal contiguity, modality, and image quality, with the educator deciding whether to accept or return to the script stage. The design rationale is that humans and algorithms catch different kinds of problems — educators identify nuanced pedagogical mismatches while algorithms provide precise structural verification.
 
 ## Converging evidence
 
@@ -29,14 +29,14 @@ In a within-subject study, 23 educators using PedaCo reported statistically sign
 
 ## Discussion
 
-The authors surface three tensions: negotiating [[agency]] when automated flags and educator judgments diverge; the [[sustainability]] of friction (when does [[desirable-difficulties|productive friction]] become "friction fatigue"); and the need to move beyond proxy metrics to test direct causal impact on student [[learning-gains|learning outcomes]]. The conclusion reframes [[ai-education|resistance to AI in education]] not as rejection but as building systems designed to push back on principled grounds until the output is genuinely ready to teach.
+The authors surface three tensions: negotiating [[agency|agency]] when automated flags and educator judgments diverge; the [[sustainability|sustainability]] of friction (when does [[desirable-difficulties|productive friction]] become "friction fatigue"); and the need to move beyond proxy metrics to test direct causal impact on student [[learning-gains|learning outcomes]]. The conclusion reframes [[ai-education|resistance to AI in education]] not as rejection but as building systems designed to push back on principled grounds until the output is genuinely ready to teach.
 
 ## What this means for practice
 
 - **Instructors.** Review AI-generated video scripts as text before anything is rendered. PedaCo's first gate sits at the script stage because pedagogical errors are cheap to fix in a draft and nearly impossible to correct once narration and visuals are synthesized.
 - **Instructors.** Grade drafts against named [[learning-design|multimedia learning]] principles rather than overall polish. Educators in the study rated instructional validity 3.07 to 3.86 on a 5-point scale after principle-by-principle review, with the largest gains in prerequisite sequencing and removal of irrelevant material.
 - **Designers.** Make refusal a first-class feature of authoring tools — regeneration requests, manual revision, and the ability to override automated flags — and keep machine critiques advisory ("this may conflict with the pre-training principle") so the educator keeps the final say.
-- **Instructors.** Use automated flags for the structural checks people miss and your own judgment for the rest. The automated layer improved only temporal contiguity and coherence out of five dimensions, so treat metric output as partial [[feedback]], not a verdict.
+- **Instructors.** Use automated flags for the structural checks people miss and your own judgment for the rest. The automated layer improved only temporal contiguity and coherence out of five dimensions, so treat metric output as partial [[feedback|feedback]], not a verdict.
 - **Faculty developers.** Frame the extra review steps as professional judgment rather than slowdown when training [[teacher-role|teachers]] on these tools; the 23 participants rated production efficiency at 4.26/5 despite describing the iteration as "quite challenging."
 
 ## Limitations

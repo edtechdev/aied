@@ -18,7 +18,7 @@ page_kind: [evaluation]
 
 ## Overview
 
-Upper-division STEM coursework with derivations is expensive to grade: a term of assignments and exams routinely consumes hundreds of TA hours of first-pass grading. The obvious fix — send student work to a commercial [[llm]] API — runs into FERPA and institutional data-governance rules, because student educational records end up at a third-party provider. LaTA takes the other route: run an [[open-source|open-weight]] reasoning model on hardware the instructor owns, and use instructor-authored rubrics with reference solutions to keep the grading decision interpretable and auditable.
+Upper-division STEM coursework with derivations is expensive to grade: a term of assignments and exams routinely consumes hundreds of TA hours of first-pass grading. The obvious fix — send student work to a commercial [[llm|LLM]] API — runs into FERPA and institutional data-governance rules, because student educational records end up at a third-party provider. LaTA takes the other route: run an [[open-source|open-weight]] reasoning model on hardware the instructor owns, and use instructor-authored rubrics with reference solutions to keep the grading decision interpretable and auditable.
 
 The paper is a deployment and program-evaluation study rather than a benchmark. Its contribution is showing that the local route can carry a *full-replacement* deployment at real course scale — every submission of every homework graded by the pipeline, not a subset — while keeping the cost, privacy, and reliability story honest.
 

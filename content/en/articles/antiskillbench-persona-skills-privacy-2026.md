@@ -14,7 +14,7 @@ page_kind: [evaluation]
 methods: [benchmark]
 ---
 
-> **Synthesis:** **When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills** — Introduces AntiSkillBench with 7,500 persona-grounded dialogue traces from 50 behaviorally rich profiles. Evaluates skill-level privacy leakage, agent-level attribute disclosure, and behavioral impersonation across three skill-distillation strategies... [[privacy]] [[agentic-ai]] [[student-experience]] [[bias-mitigation]] [[personalized-learning]] [[benchmark]]
+> **Synthesis:** **When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills** — Introduces AntiSkillBench with 7,500 persona-grounded dialogue traces from 50 behaviorally rich profiles. Evaluates skill-level privacy leakage, agent-level attribute disclosure, and behavioral impersonation across three skill-distillation strategies... [[privacy]] [[agentic-ai|agentic AI]] [[student-experience|student experience]] [[bias-mitigation|bias mitigation]] [[personalized-learning|personalized learning]] [[benchmark|benchmark]]
 
 Introduces AntiSkillBench with 7,500 persona-grounded dialogue traces from 50 behaviorally rich profiles. Evaluates skill-level privacy leakage, agent-level attribute disclosure, and behavioral impersonation across three skill-distillation strategies. Experiments across three frontier agents show persona-skill risks persist across agent backbones and distillation protocols, extending from explicit attributes to communication styles and personality traits. Existing defenses exhibit limited and distillation-dependent effectiveness, failing to generalize across risk and distillation strategies.
 
@@ -31,7 +31,7 @@ Persona skills distill personal interaction histories into portable and executab
 
 ## Limitations
 
-- The 2,500 dialogue traces (7,500 persona-grounded user turns) are [[llm]]-simulated from 50 behaviorally rich profiles rather than real user interaction histories, so the reported leakage and impersonation rates come from a controlled construction.
+- The 2,500 dialogue traces (7,500 persona-grounded user turns) are [[llm|LLM]]-simulated from 50 behaviorally rich profiles rather than real user interaction histories, so the reported leakage and impersonation rates come from a controlled construction.
 - Every personal trace is only a three-round user–assistant dialogue, which is short relative to the histories real [[personalized-learning|personalized]] skills are distilled from.
 - The defense suite covers four configurations spanning online and post-hoc interventions, so untested defense and distillation combinations may behave differently.
 

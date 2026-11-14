@@ -17,13 +17,13 @@ reviewed_by: [editor]
 ---
 
 > **Synthesis:** Zengaffinen and colleagues ask whether [[llm|large language models]] can model not only what students know but how they fail, using [[automated-question-generation|distractor generation]] as the probe. Writing incorrect-but-plausible options for multiple-choice items forces a model to recover the correct solution, simulate a plausible student error, and judge whether the wrong answer would tempt a student. The authors build a taxonomy of ten reasoning strategies from learning-science literature and empirical coding of traces, then apply it to 885 traces from DeepSeek-V3.2 and GLM-4.7 on Eedi math and SciQ science items.
-> The taxonomy survives validation (precision 0.97, recall 0.95 on 64 traces), and reasoning prompts raise proportional match with human-authored distractors (DeepSeek 0.34 to 0.52 on Eedi; 0.08 to 0.14 on SciQ). The domains diverge sharply: on Eedi models describe and simulate specific [[misconceptions]], while on SciQ they rely on semantic similarity to the correct answer. Failure concentrates in recovering the correct solution and in discarding plausible candidates at selection.
-> For [[ai-education|AI in education]] the result is an interpretable map of where [[student-modeling]] succeeds and how correct-solution anchoring repairs it.
+> The taxonomy survives validation (precision 0.97, recall 0.95 on 64 traces), and reasoning prompts raise proportional match with human-authored distractors (DeepSeek 0.34 to 0.52 on Eedi; 0.08 to 0.14 on SciQ). The domains diverge sharply: on Eedi models describe and simulate specific [[misconceptions|misconceptions]], while on SciQ they rely on semantic similarity to the correct answer. Failure concentrates in recovering the correct solution and in discarding plausible candidates at selection.
+> For [[ai-education|AI in education]] the result is an interpretable map of where [[student-modeling|student modeling]] succeeds and how correct-solution anchoring repairs it.
 
 ## Key Findings
 
 1. **Reasoning improves alignment.** Proportional match rises from direct [[prompt-engineering|prompting]] to chain-of-thought to reasoning: DeepSeek-V3.2 goes 0.34, 0.51, 0.52 on Eedi and 0.08, 0.13, 0.14 on SciQ; GLM-4.7 goes 0.42, 0.50, 0.52 and 0.12, 0.15, 0.15.
-2. **A ten-strategy taxonomy captures the process.** Tags cover interpretation (INTER), correct-answer reference (CORR), conceptual link (LINK), error description (ERR_DESC), error [[simulation]] (ERR_SIM), outcome instantiation (INST), plausibility (PLAUS), discriminability (DISCR), curation (CURATE) and reconsideration (RECON); annotation reached precision 0.97 and recall 0.95 on a 64-trace human-checked subset.
+2. **A ten-strategy taxonomy captures the process.** Tags cover interpretation (INTER), correct-answer reference (CORR), conceptual link (LINK), error description (ERR_DESC), error [[simulation|simulation]] (ERR_SIM), outcome instantiation (INST), plausibility (PLAUS), discriminability (DISCR), curation (CURATE) and reconsideration (RECON); annotation reached precision 0.97 and recall 0.95 on a 64-trace human-checked subset.
 3. **The domains use different construction strategies.** LINK is prevalent on SciQ but nearly absent on Eedi, whereas ERR_DESC and ERR_SIM dominate on Eedi and appear only sporadically on SciQ; DISCR and RECON differ less sharply but consistently between the two datasets.
 4. **Models solve first, then inject an error.** 95.2% of traces construct a step-by-step solution, and 73.8% of those diverge at a specific step to insert a misconception.
 5. **Error simulation rarely fails.** Simulating a specific Eedi misconception, DeepSeek-V3.2 reaches mean accuracy 0.92 plus or minus 0.02, though only 62% of faithful distractors appear in the human-authored ground-truth set.
@@ -35,7 +35,7 @@ reviewed_by: [editor]
 
 ## How the taxonomy was built
 
-The taxonomy groups ten strategies into task understanding (INTER, CORR), candidate construction (LINK, ERR_DESC, ERR_SIM, INST), quality control and selection (PLAUS, DISCR, CURATE), and a cross-cutting reconsideration tag (RECON). The authors combined two sources: the [[assessment]] design literature on misconception-based distractors, which prefers errors injected into an otherwise correct solution over surface perturbations, and [[qualitative-research|qualitative coding]] of real traces. Manual open coding of 48 traces surfaced all ten strategies; a model-assisted pass over 800 more recovered eight, missing only RECON. An LLM annotator then tagged spans across 885 traces from two models and two datasets, validated against human annotation on 64 traces. The taxonomy is diagnostic: it characterizes how a model reaches a distractor, not only whether its final set matches human items.
+The taxonomy groups ten strategies into task understanding (INTER, CORR), candidate construction (LINK, ERR_DESC, ERR_SIM, INST), quality control and selection (PLAUS, DISCR, CURATE), and a cross-cutting reconsideration tag (RECON). The authors combined two sources: the [[assessment|assessment]] design literature on misconception-based distractors, which prefers errors injected into an otherwise correct solution over surface perturbations, and [[qualitative-research|qualitative coding]] of real traces. Manual open coding of 48 traces surfaced all ten strategies; a model-assisted pass over 800 more recovered eight, missing only RECON. An LLM annotator then tagged spans across 885 traces from two models and two datasets, validated against human annotation on 64 traces. The taxonomy is diagnostic: it characterizes how a model reaches a distractor, not only whether its final set matches human items.
 
 ## What the results show
 
@@ -49,7 +49,7 @@ Failures localize cleanly. Error simulation and the implicit reasoning structure
 
 - **Model developers** building item-generation tools should anchor generation to an explicit, verified correct solution and treat candidate ranking as a separate stage, since the oracle gap shows selection discards valid options.
 - **Assessment designers** should expect domain-dependent behavior and concentrate [[human-in-the-loop-ai|human review]] on solution recovery and final set selection, the pipeline's two weak points.
-- **Researchers and educators** can reuse the ten-strategy taxonomy as an annotation scheme to inspect why a generated distractor is wrong, supporting [[cognitive-diagnosis|diagnostic]] intervention design and [[trust]] in automated item generation.
+- **Researchers and educators** can reuse the ten-strategy taxonomy as an annotation scheme to inspect why a generated distractor is wrong, supporting [[cognitive-diagnosis|diagnostic]] intervention design and [[trust|trust]] in automated item generation.
 
 ## Limitations
 

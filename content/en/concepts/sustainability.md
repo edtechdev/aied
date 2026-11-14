@@ -1,7 +1,7 @@
 ---
 title: Sustainability
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -40,7 +40,7 @@ A growing body of work treats AI as a tool *for* [[environmental-education|susta
 
 - **AI-integrated curricula that build sustainability consciousness.** [[liu-ai-sustainable-engineering-education-2026|Liu et al. (2026)]] propose the AI-SEE framework (intelligence-driven, green-empowered, responsibility-leading, practice-integrated), which integrates AI across the [[curriculum-design|curriculum]] as a cognitive [[scaffolding|scaffold]] and resource for system-level sustainability analysis. In a 144-student engineering case, it enhanced sustainability consciousness and produced behavioral [[student-engagement|engagement]] across personal, academic, professional, and social levels, with social diffusion beyond the classroom.
 - **AI in green and sustainable education.** [[talebzadeh-ai-green-education-2026|Talebzadeh (2026)]] found AI-assisted [[learning-design|instructional design]] under Sustainable Development Pedagogy constraints improved teacher workflows and [[pedagogy|pedagogical]] design. [[riandi-teacher-ai-green-energy-education-2026|Riandi et al. (2026)]] found that teachers' practical use of AI in science/green energy and their involvement in developing ESD-aligned materials — more than abstract AI knowledge or attitudes — predicted their capacity to integrate AI into [[k-12|green energy education]].
-- **Sustainability as a value-based project.** [[alsuhaymi-sustainable-education-ai-digitalization-2026|Alsuhami & Atallah (2026)]] argue AI's contribution to sustainable education is conditional and governance-mediated: it supports sustainability only when adoption is subordinated to explicit educational values and human-centered purposes, rather than to technologization and commodification. This ties sustainability to [[ethics]] and [[critical-pedagogy]].
+- **Sustainability as a value-based project.** [[alsuhaymi-sustainable-education-ai-digitalization-2026|Alsuhami & Atallah (2026)]] argue AI's contribution to sustainable education is conditional and governance-mediated: it supports sustainability only when adoption is subordinated to explicit educational values and human-centered purposes, rather than to technologization and commodification. This ties sustainability to [[ethics|ethics]] and [[critical-pedagogy|critical pedagogy]].
 
 ## Making AI itself sustainable
 
@@ -48,15 +48,15 @@ The second pathway concerns AI's own footprint in educational settings:
 
 - **Environmental impact of large models.** [[llm-environmental-impact-student-usage-2026|studies of LLM use]] document the carbon and water footprint of large language models, which is significant given high adoption among university students. This is the direct environmental dimension of sustainable AI.
 - **Energy-efficient and on-premise deployment.** [[shen-sustainable-ai-knowledge-base-cs-education-2026|Shen et al. (2026)]] demonstrate that AI knowledge-base assistants can run on consumer-grade hardware with [[open-education|open educational resources]], reducing the environmental and cost footprint of AI in education — a concrete sustainable-AI design pattern.
-- **Ethical and governance frameworks.** Sustainable AI is not only environmental: it requires [[governance]] and [[ethics]] frameworks ensuring transparency, accountability, [[human-in-the-loop-ai|human oversight]], and [[equity-in-ai-education|equitable]] access, as [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]] note is often lacking in current university applications.
+- **Ethical and governance frameworks.** Sustainable AI is not only environmental: it requires [[governance|governance]] and [[ethics|ethics]] frameworks ensuring transparency, accountability, [[human-in-the-loop-ai|human oversight]], and [[equity-in-ai-education|equitable]] access, as [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]] note is often lacking in current university applications.
 
 ## Sustainable learning as a pedagogical goal
 
-A related strand frames sustainability not only as an environmental or institutional concern but as a property of learning itself. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] argue AI-assisted learning risks cognitive outsourcing and detachment from authentic contexts, proposing frameworks (E3-HOT) for **sustainable learning** — learning that persists, transfers, and remains connected to real problems rather than being short-circuited by [[cognitive-offloading]]. This connects sustainability to [[agency]] and [[critical-thinking]].
+A related strand frames sustainability not only as an environmental or institutional concern but as a property of learning itself. [[zhu-e3-hot-embodied-intelligence-sustainable-learning|Zhu et al. (2026)]] argue AI-assisted learning risks cognitive outsourcing and detachment from authentic contexts, proposing frameworks (E3-HOT) for **sustainable learning** — learning that persists, transfers, and remains connected to real problems rather than being short-circuited by [[cognitive-offloading|cognitive offloading]]. This connects sustainability to [[agency|agency]] and [[critical-thinking|critical thinking]].
 
 ## Connections to other concepts
 
-Sustainability and AI in education sits at the intersection of [[ethics]], [[governance]], [[ai-education]], and the environmental/energy sciences. It draws on [[teacher-education]] and [[teacher-role]] for capacity-building, on [[learning-design]] for pedagogy, and connects [[cognitive-offloading]] and [[critical-thinking]] through the "sustainable learning" lens. Because both pathways are cross-cutting, sustainability is a foundational theme that appears across [[higher-ed|higher education]], K-12, and professional contexts.
+Sustainability and AI in education sits at the intersection of [[ethics|ethics]], [[governance|governance]], [[ai-education|AI education]], and the environmental/energy sciences. It draws on [[teacher-education|teacher education]] and [[teacher-role|teacher role]] for capacity-building, on [[learning-design|learning design]] for pedagogy, and connects [[cognitive-offloading|cognitive offloading]] and [[critical-thinking|critical thinking]] through the "sustainable learning" lens. Because both pathways are cross-cutting, sustainability is a foundational theme that appears across [[higher-ed|higher education]], K-12, and professional contexts.
 
 ## Common Misconceptions
 

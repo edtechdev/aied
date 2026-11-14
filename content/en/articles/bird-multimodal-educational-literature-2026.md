@@ -15,7 +15,7 @@ level: [k 12, secondary]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** **What differentiates educational literature? A multimodal fusion approach of transformers and computational linguistics** — Bird (2026) proposes a [[multimodal]] framework that fuses transformer-based text classification with computational-linguistics feature analysis to align English literature with UK Key Stages for [[reading-education|readability]]. Late fusion of a fine-tuned ELECTRA transformer with a searched deep [[machine-learning|neural network]] reached an F1 of 0.996, far surpassing every unimodal model, and the approach is packaged into a stakeholder-facing web application for educators. The work advances [[educational-nlp]] and [[english-education]] by making scalable, data-driven readability and [[curriculum-design|curriculum]] alignment accessible to non-technical teachers.
+> **Synthesis:** **What differentiates educational literature? A multimodal fusion approach of transformers and computational linguistics** — Bird (2026) proposes a [[multimodal|multimodal]] framework that fuses transformer-based text classification with computational-linguistics feature analysis to align English literature with UK Key Stages for [[reading-education|readability]]. Late fusion of a fine-tuned ELECTRA transformer with a searched deep [[machine-learning|neural network]] reached an F1 of 0.996, far surpassing every unimodal model, and the approach is packaged into a stakeholder-facing web application for educators. The work advances [[educational-nlp|educational NLP]] and [[english-education|English education]] by making scalable, data-driven readability and [[curriculum-design|curriculum]] alignment accessible to non-technical teachers.
 
 ## Key Findings
 
@@ -31,7 +31,7 @@ page_kind: [evaluation]
 
 - **Instructors.** Triage candidate texts with the toolkit's combined outputs — Key Stage distribution, reading-age score, Oxford 3000 and Academic Word List vocabulary ranked by attention, and most/least complex excerpts — instead of leaning on a single readability formula.
 - **Designers.** Choose the model by the hardware it must run on: the Pareto frontier for F1 versus inference time retained unimodal DistilBERT and the multimodal ALBERT, DistilBERT, and ELECTRA models, and fusion did not add significant latency over unimodal inference (p = 0.244).
-- **Designers.** Ship the no-code interface, not the model: the Flask tool takes pasted text and returns stage, reading age, vocabulary, and complexity signals for non-technical users such as English teachers and [[librarians]].
+- **Designers.** Ship the no-code interface, not the model: the Flask tool takes pasted text and returns stage, reading age, vocabulary, and complexity signals for non-technical users such as English teachers and [[librarians|librarians]].
 - **Researchers.** Reuse the released 20,000-row MIT-licensed dataset (5,000 excerpts per Key Stage 2–5) to test whether the fusion advantage holds on modern texts and on whole books rather than 512-token excerpts.
 
 ## Limitations

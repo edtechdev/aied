@@ -14,25 +14,25 @@ confidence: high
 page_kind: [framework]
 ---
 
-> **Synthesis:** This paper introduces **XAI-ED**, a framework for explainable AI that is purpose-built for education. It argues that while XAI in education shares common ground with broader XAI (accountability, fairness, privacy), education has *distinctive needs*: learning data is noisy at many levels, explanations can directly support metacognition and self-regulated learning, and different stakeholders need fundamentally different kinds of explanations.
+> **Synthesis:** This paper introduces **XAI-ED**, a framework for explainable AI that is purpose-built for education. It argues that while XAI in education shares common ground with broader XAI (accountability, fairness, [[privacy|privacy]]), education has *distinctive needs*: learning data is noisy at many levels, explanations can directly support [[metacognition|metacognition]] and self-regulated learning, and different stakeholders need fundamentally different kinds of explanations.
 
 ## The XAI-ED Framework — Six Aspects
 
 ### 1. Stakeholders
-XAI in education must serve multiple audiences — learners, teachers, administrators, [[parents-and-families|parents]], [[research-methods-aied|researchers]], developers, and policymakers — each with different explainability requirements. A learner needs to understand *why* a hint was given; a teacher needs to understand *which* students are at risk and *why*; a developer needs to debug model behavior. This connects to [[teacher-role]] and [[student-experience]] research on multi-stakeholder design.
+XAI in education must serve multiple audiences — learners, teachers, administrators, [[parents-and-families|parents]], [[research-methods-aied|researchers]], developers, and policymakers — each with different explainability requirements. A learner needs to understand *why* a hint was given; a teacher needs to understand *which* students are at risk and *why*; a developer needs to debug model behavior. This connects to [[teacher-role|teacher role]] and [[student-experience|student experience]] research on multi-stakeholder design.
 
 ### 2. Benefits
 Explanations serve multiple purposes in educational contexts:
 - **Trust** — building confidence in AI-driven recommendations and assessments
-- **Fairness** — detecting and mitigating algorithmic [[bias-mitigation]]
+- **Fairness** — detecting and mitigating algorithmic [[bias-mitigation|bias mitigation]]
 - **Debugging** — helping developers and researchers identify model flaws
 - **[[usability-research|Usability]]** — making AI interfaces more transparent and actionable
-- **Learning** — explanations as *[[pedagogy|pedagogical]] tools* that support [[metacognition]]
-- **Regulatory compliance** — GDPR right to explanation and similar mandates ([[privacy]], [[regulation]])
+- **Learning** — explanations as *[[pedagogy|pedagogical]] tools* that support [[metacognition|metacognition]]
+- **Regulatory compliance** — GDPR right to explanation and similar mandates ([[privacy|privacy]], [[regulation|regulation]])
 - **Adoption** — reducing resistance to AI tools among educators
 
 ### 3. Approaches for Presenting Explanations
-The paper catalogs multiple explanation modalities: visual (heatmaps, decision trees), textual (natural language), example-based (counterfactuals, nearest neighbors), feature importance rankings, rule extraction, and model simplification. The key insight is that the optimal approach depends on the stakeholder and the pedagogical context — an insight directly relevant to [[scaffolding]] design and [[intelligent-tutoring]] interface research.
+The paper catalogs multiple explanation modalities: visual (heatmaps, decision trees), textual (natural language), example-based (counterfactuals, nearest neighbors), feature importance rankings, rule extraction, and model simplification. The key insight is that the optimal approach depends on the stakeholder and the pedagogical context — an insight directly relevant to [[scaffolding|scaffolding]] design and [[intelligent-tutoring|intelligent tutoring]] interface research.
 
 ### 4. Classes of AI Models
 The framework maps explanation approaches to model types:
@@ -40,10 +40,10 @@ The framework maps explanation approaches to model types:
 - **Black-box** ([[machine-learning|neural networks]], ensemble methods) — require [[explainable-ai|post-hoc explanation]] methods
 - **Glass-box** — newer approaches that balance accuracy with transparency
 
-This taxonomy connects to the [[adaptive-learning]] literature's ongoing tension between model complexity and interpretability.
+This taxonomy connects to the [[adaptive-learning|adaptive learning]] literature's ongoing tension between model complexity and interpretability.
 
 ### 5. Human-Centered Design
-Explanations are not purely technical artifacts — they are communication acts. The interface must be designed for the specific stakeholder's cognitive needs, not just optimized for technical accuracy. This aligns with [[ai-literacy]] research showing that technical transparency without pedagogical framing often fails to support actual understanding.
+Explanations are not purely technical artifacts — they are communication acts. The interface must be designed for the specific stakeholder's cognitive needs, not just optimized for technical accuracy. This aligns with [[ai-literacy|AI literacy]] research showing that technical transparency without pedagogical framing often fails to support actual understanding.
 
 ### 6. Potential Pitfalls
 The framework identifies risks specific to educational XAI:
@@ -51,30 +51,30 @@ The framework identifies risks specific to educational XAI:
 - **Misleading explanations** — post-hoc explanations may not reflect actual model reasoning
 - **Confirmation bias** — users may selectively attend to explanations that confirm existing beliefs
 - **[[trust-calibration|Over-trust]]** — explanations can create false confidence in flawed systems, connecting to [[cognitive-offloading|Over-Reliance]]
-- **Gaming the system** — students may exploit explanations to circumvent learning, a known risk in [[intelligent-tutoring]]
+- **Gaming the system** — students may exploit explanations to circumvent learning, a known risk in [[intelligent-tutoring|intelligent tutoring]]
 
 ## Four Case Studies
 
 ### OnTask — Instructor-Facing Learning Analytics
-A learning analytics platform that provides instructors with interpretable student risk indicators. XAI-ED applied to surface the rules and features driving each risk flag, enabling instructors to make informed interventions. Demonstrates the [[teacher-role]] shift toward data-informed decision-making.
+A learning analytics platform that provides instructors with interpretable student risk indicators. XAI-ED applied to surface the rules and features driving each risk flag, enabling instructors to make informed interventions. Demonstrates the [[teacher-role|teacher role]] shift toward data-informed decision-making.
 
 ### OATutor — Adaptive Tutoring System
-An [[open-source]] ITS where XAI explains mastery predictions and hint selections to both students and instructors. Connects to [[intelligent-tutoring]] and [[adaptive-learning]] research on transparency in automated instruction.
+An [[open-source|open source]] ITS where XAI explains mastery predictions and hint selections to both students and instructors. Connects to [[intelligent-tutoring|intelligent tutoring]] and [[adaptive-learning|adaptive learning]] research on transparency in automated instruction.
 
 ### SRES — Student-Facing Recommender
-A learning resource recommender that explains *why* specific resources are suggested based on the learner's knowledge state and goals. Supports [[self-regulated-learning]] by making the recommendation logic visible and actionable.
+A learning resource recommender that explains *why* specific resources are suggested based on the learner's knowledge state and goals. Supports [[self-regulated-learning|self-regulated learning]] by making the recommendation logic visible and actionable.
 
 ### CLA (Connected Learning Analytics) — Multimodal Collaboration
-Analytics for [[collaborative-learning]] environments that surface group dynamics and individual contributions. XAI helps students and instructors understand team interaction patterns — connecting to [[collaborative-learning]] and [[learning-analytics]] research.
+Analytics for [[collaborative-learning|collaborative learning]] environments that surface group dynamics and individual contributions. XAI helps students and instructors understand team interaction patterns — connecting to [[collaborative-learning|collaborative learning]] and [[learning-analytics|learning analytics]] research.
 
 ## Significance for AIED
 
-The XAI-ED framework has become a foundational reference in [[ai-education|AIED]], cited across the [[stanford-evidence-base-ai-k12-2026]], [[hazra-safetutors-pedagogical-safety-2026]], and [[ai-literacy]] literatures. It bridges the gap between technical XAI research (which often ignores pedagogical context) and educational practice (which often treats AI as a black box). The framework's emphasis on *distinctive educational needs* anticipates later work on [[pedagogical-safety]] and [[human-in-the-loop-ai]] design.
+The XAI-ED framework has become a foundational reference in [[ai-education|AIED]], cited across the [[stanford-evidence-base-ai-k12-2026|Walker et al. (2026)]], [[hazra-safetutors-pedagogical-safety-2026|Hazra et al. (2026)]], and [[ai-literacy|AI literacy]] literatures. It bridges the gap between technical XAI research (which often ignores pedagogical context) and educational practice (which often treats AI as a black box). The framework's emphasis on *distinctive educational needs* anticipates later work on [[pedagogical-safety|pedagogical safety]] and [[human-in-the-loop-ai|human-in-the-loop]] design.
 
 ## What this means for practice
 
 - **Instructors.** Ask who the explanation is for before asking whether it exists: XAI-ED treats learners, teachers, administrators, parents, researchers, developers and policymakers as stakeholder groups whose explainability requirements differ, so a learner's "why this hint" is not a teacher's "who is at risk."
-- **Instructors.** Use explanations as teaching moves rather than as transparency features: the framework lists learning among the benefits of XAI and positions explanations as support for [[metacognition]] and [[self-regulated-learning]].
+- **Instructors.** Use explanations as teaching moves rather than as transparency features: the framework lists learning among the benefits of XAI and positions explanations as support for [[metacognition|metacognition]] and [[self-regulated-learning|self-regulated learning]].
 - **Instructors.** Pair each explanation with a guardrail against its failure modes — explanation overload, misleading post-hoc rationales, confirmation bias, and [[trust-calibration|over-trust]] — because the framework names these as risks specific to providing explanations in education.
 - **Instructors.** Match the presentation approach to the model class and the audience instead of defaulting to one format: white-box models can be surfaced directly, while black-box models need post-hoc methods such as counterfactuals, feature importance rankings, or rule extraction.
 - **Instructors.** Plan the compliance pathway before deployment: the GDPR right to explanation and similar mandates are among the framework's listed benefits of explainability in [[intelligent-tutoring|tutoring]] and learning analytics systems.

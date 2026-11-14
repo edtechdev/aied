@@ -13,7 +13,7 @@ sources: ['raw/papers/penquiry-pen-based-llm-qa-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Rhee et al. (2026) start from a mismatch: pen-based digital study is fluid and spatial, while [[llm|LLM]] [[prompt-engineering|prompting]] is discrete and keyboard-bound. **Penquiry** closes the gap with an in-situ question-answering system that lets [[learners]] ask questions directly on digital study materials with a pen. The authors name the two obstacles — a *Referential Barrier* (grounding fine-grained visual elements into the query context) and an *Expressive Barrier* (translating equations and diagrams into typed sentences) — and answer them with Content Snapping and Question Autocompletion. Two iterative studies of 16 participants each found the system significantly reduced the cognitive and physical overhead of inquiry.
+> **Synthesis:** Rhee et al. (2026) start from a mismatch: pen-based digital study is fluid and spatial, while [[llm|LLM]] [[prompt-engineering|prompting]] is discrete and keyboard-bound. **Penquiry** closes the gap with an in-situ question-answering system that lets [[learners|learners]] ask questions directly on digital study materials with a pen. The authors name the two obstacles — a *Referential Barrier* (grounding fine-grained visual elements into the query context) and an *Expressive Barrier* (translating equations and diagrams into typed sentences) — and answer them with Content Snapping and Question Autocompletion. Two iterative studies of 16 participants each found the system significantly reduced the cognitive and physical overhead of inquiry.
 
 ## Key Findings
 
@@ -25,11 +25,11 @@ confidence: high
 
 ## Why interaction design is the binding constraint for AI study help
 
-Access to a capable model is no longer the scarce resource in [[self-directed-learning]]; the scarce resource is the learner's willingness to interrupt their work to formulate a question. The friction is behavioral as much as technical: every keystroke and every rephrasing is a cost paid at exactly the moment [[help-seeking]] is most fragile. Penquiry's contribution is to treat that cost as the design problem, which is why its results speak to [[student-ai-interaction]] and to the broader [[student-experience]] literature rather than only to input-modality engineering.
+Access to a capable model is no longer the scarce resource in [[self-directed-learning|self-directed learning]]; the scarce resource is the learner's willingness to interrupt their work to formulate a question. The friction is behavioral as much as technical: every keystroke and every rephrasing is a cost paid at exactly the moment [[help-seeking|help-seeking]] is most fragile. Penquiry's contribution is to treat that cost as the design problem, which is why its results speak to [[student-ai-interaction|student-ai interaction]] and to the broader [[student-experience|student experience]] literature rather than only to input-modality engineering.
 
 ## Tensions the paper leaves open
 
-Lowering the cost of asking makes asking easier — including for questions a learner could answer themselves, the classic [[cognitive-offloading]] risk. The authors' proposed direction of *temporally adaptive* autocompletion, moving from foundational fact-checking early in a session toward higher-level prompts later, is explicitly an attempt to turn scaffolding into [[scaffolding|fading support]] rather than a permanent crutch. That remains a design hypothesis rather than a tested outcome, and it is the point where this work intersects the wiki's ongoing questions about when AI help helps.
+Lowering the cost of asking makes asking easier — including for questions a learner could answer themselves, the classic [[cognitive-offloading|cognitive offloading]] risk. The authors' proposed direction of *temporally adaptive* autocompletion, moving from foundational fact-checking early in a session toward higher-level prompts later, is explicitly an attempt to turn scaffolding into [[scaffolding|fading support]] rather than a permanent crutch. That remains a design hypothesis rather than a tested outcome, and it is the point where this work intersects the wiki's ongoing questions about when AI help helps.
 
 ## What this means for practice
 

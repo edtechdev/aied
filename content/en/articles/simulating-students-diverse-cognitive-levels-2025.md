@@ -14,14 +14,14 @@ discipline: [cs education]
 page_kind: [framework, evaluation]
 ---
 
-> **Synthesis:** Wu et al. (2025, ACL) tackle the core challenge of [[simulating-students]]: LLMs trained as "helpful assistants" produce overly perfect answers and fail to model the natural imperfections and varied cognitive levels of real learners. They propose a training-free framework that builds a cognitive prototype of each student from a [[knowledge-graph]], predicts performance on new tasks, and iteratively refines simulated solutions via beam search to reproduce realistic mistakes — achieving a 100% improvement in simulation accuracy on a new Student_100 dataset.
+> **Synthesis:** Wu et al. (2025, ACL) tackle the core challenge of [[simulating-students|simulating students]]: LLMs trained as "helpful assistants" produce overly perfect answers and fail to model the natural imperfections and varied cognitive levels of real learners. They propose a training-free framework that builds a cognitive prototype of each student from a [[knowledge-graph|knowledge graph]], predicts performance on new tasks, and iteratively refines simulated solutions via beam search to reproduce realistic mistakes — achieving a 100% improvement in simulation accuracy on a new Student_100 dataset.
 
 A central obstacle to valid student simulation is that LLMs are optimized to generate correct, polished responses. Real students, however, vary in cognitive level and make characteristic mistakes. Simulated students that answer too well — or too randomly — are not faithful models of learners. This paper addresses that gap directly.
 
 ## Key Findings
 
-1. Current [[llm]]-based agents systematically overestimate the cognitive level of weaker students, producing overly advanced responses that miss the error-prone behaviors expected of real learners.
-2. A training-free framework constructs an interpretable cognitive prototype per student from a [[knowledge-graph]] of past learning records, then maps that prototype onto new tasks to predict behavior at the knowledge-concept level rather than by superficial textual similarity.
+1. Current [[llm|LLM]]-based agents systematically overestimate the cognitive level of weaker students, producing overly advanced responses that miss the error-prone behaviors expected of real learners.
+2. A training-free framework constructs an interpretable cognitive prototype per student from a [[knowledge-graph|knowledge graph]] of past learning records, then maps that prototype onto new tasks to predict behavior at the knowledge-concept level rather than by superficial textual similarity.
 3. Beam search-based self-refinement iteratively scores and selects candidate simulated solutions against the predicted behavior, reproducing realistic, individualized mistakes without [[llm-training-and-fine-tuning|fine-tuning]] on error-rich data.
 4. On the new Student_100 dataset (100 students, Python programming, 5,000 learning records), the method consistently outperforms baseline models, achieving a 100% improvement in simulation accuracy and realism, and it generalizes to Java and C++ via the CodeNet metadata.
 
@@ -31,11 +31,11 @@ The proposed method is **training-free** — it requires no fine-tuning on simul
 
 ### Cognitive prototype construction
 
-For each student, past learning records are processed iteratively to extract knowledge concepts and their relationships (Prerequisite_of, Used_for, Hyponym_of, Part_of), assembled into a natural-language [[knowledge-graph]]. Each concept is then tagged with a local cognitive state ("Good" or "Bad") from the student's task performance, and these local states are merged into a global cognitive prototype that summarizes overall mastery per concept. Unlike implicit neural representations, this prototype is interpretable and grounds [[student-modeling]] in explicit conceptual knowledge.
+For each student, past learning records are processed iteratively to extract knowledge concepts and their relationships (Prerequisite_of, Used_for, Hyponym_of, Part_of), assembled into a natural-language [[knowledge-graph|knowledge graph]]. Each concept is then tagged with a local cognitive state ("Good" or "Bad") from the student's task performance, and these local states are merged into a global cognitive prototype that summarizes overall mastery per concept. Unlike implicit neural representations, this prototype is interpretable and grounds [[student-modeling|student modeling]] in explicit conceptual knowledge.
 
 ### Concept-aware behavior prediction
 
-Rather than retrieving the most textually similar past task — which can mislead (e.g. a "factorial" task retrieving a "double" task) — the model maps the student's cognitive prototype onto the new task. It selects the most relevant knowledge concepts and the past record sharing the most of them, then predicts the student's expected behavior, including whether they will solve the task and what specific errors they are likely to make. This deep conceptual grounding outperforms random, similarity-based, and ability-level baselines, supporting [[cognitive-diagnosis]] of the simulated learner.
+Rather than retrieving the most textually similar past task — which can mislead (e.g. a "factorial" task retrieving a "double" task) — the model maps the student's cognitive prototype onto the new task. It selects the most relevant knowledge concepts and the past record sharing the most of them, then predicts the student's expected behavior, including whether they will solve the task and what specific errors they are likely to make. This deep conceptual grounding outperforms random, similarity-based, and ability-level baselines, supporting [[cognitive-diagnosis|cognitive diagnosis]] of the simulated learner.
 
 ### Beam search-based solution simulation
 
@@ -43,7 +43,7 @@ Given the predicted behavior, the model first generates a weak candidate solutio
 
 ## The Student_100 dataset
 
-Because existing [[knowledge-tracing]] datasets lack textual task statements and solutions, and error-diagnosis datasets lack annotated task-solving sequences, the authors curate Student_100. Drawn from an online programming platform (PTA), it comprises 100 students solving Python programming tasks, each with 50 well-annotated task-solving records (5,000 total; 40 used as past learning records and 10 for simulation). Records are restricted to a one-week window to assume a stable cognitive state, and 10 trained annotators supplied task descriptions and behavior analyses. Two additional 5-student groups built from CodeNet metadata validate the method on Java and C++. This data foundation also connects to [[computational-thinking]] and [[cs-education]] as the programming-task domain.
+Because existing [[knowledge-tracing|knowledge tracing]] datasets lack textual task statements and solutions, and error-diagnosis datasets lack annotated task-solving sequences, the authors curate Student_100. Drawn from an online programming platform (PTA), it comprises 100 students solving Python programming tasks, each with 50 well-annotated task-solving records (5,000 total; 40 used as past learning records and 10 for simulation). Records are restricted to a one-week window to assume a stable cognitive state, and 10 trained annotators supplied task descriptions and behavior analyses. Two additional 5-student groups built from CodeNet metadata validate the method on Java and C++. This data foundation also connects to [[computational-thinking|computational thinking]] and [[cs-education|CS education]] as the programming-task domain.
 
 ## What this means for practice
 
@@ -57,8 +57,8 @@ Because existing [[knowledge-tracing]] datasets lack textual task statements and
 
 - Validation is confined to programming, on 100 students solving Python tasks on one online platform (PTA) with 5,000 annotated records; the authors state that data accessibility bounded the domain and treat extension to subjects such as mathematics as future work.
 - The grid of roughly 100 experimental settings ran on a randomly selected subset of 15 students because simulation costs about 20 minutes per student plus multiple API calls, so most of the analysis rests on a subset — and the cross-language check uses only 5 students each for Java and C++.
-- The backbone of the evaluation is [[llm]]-based scoring, with a human check by 10 undergraduate Python students rating solutions on a 1-5 scale, two independent raters per solution averaged, and the human study comparing the method against only the single second-best setting rather than the full baseline set.
-- The method assumes a stable cognitive state within a one-week window of records and models textual and behavioral patterns only; the authors note that [[multimodal]] signals such as visual or auditory cues may also shape students' cognitive processes and are not represented.
+- The backbone of the evaluation is [[llm|LLM]]-based scoring, with a human check by 10 undergraduate Python students rating solutions on a 1-5 scale, two independent raters per solution averaged, and the human study comparing the method against only the single second-best setting rather than the full baseline set.
+- The method assumes a stable cognitive state within a one-week window of records and models textual and behavioral patterns only; the authors note that [[multimodal|multimodal]] signals such as visual or auditory cues may also shape students' cognitive processes and are not represented.
 
 ## Citation
 

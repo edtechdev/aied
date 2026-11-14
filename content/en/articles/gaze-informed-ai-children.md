@@ -11,7 +11,7 @@ sources: ['raw/papers/2607.00445.md']
 confidence: high
 ---
 
-> **Synthesis:** Ollie, a gaze-informed AI assistant for children's picture exploration, uses eye-tracking to trigger [[llm]] narrative descriptions; within-subject experiment shows gaze-informed assistance keeps children's attention longer and guides exploration effectively.
+> **Synthesis:** Ollie, a gaze-informed AI assistant for children's picture exploration, uses eye-tracking to trigger [[llm|LLM]] narrative descriptions; within-subject experiment shows gaze-informed assistance keeps children's attention longer and guides exploration effectively.
 
 ## Key Contributions
 
@@ -19,7 +19,7 @@ confidence: high
 
 ## Connections to AI in Education
 
-This paper contributes to the growing body of [[research-methods-aied|research]] on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate [[pedagogy|pedagogical]] oversight.
+This paper contributes to the growing body of [[research-methods-aied|research]] on AI applications in educational settings, specifically in the domains of [[ai-education|AI education]], [[intelligent-tutoring|intelligent tutoring]], and [[equity-in-ai-education|equity]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate [[pedagogy|pedagogical]] oversight.
 
 ## What this means for practice
 

@@ -18,13 +18,13 @@ page_kind: [evaluation]
 
 > **Synthesis:** Introduces 'design problems' (DPs): concise, scenario-based prompts that require applying knowledge in transfer contexts, generated with LLMs to assess [[critical-thinking|higher-order thinking]] (HOT) in [[project-based-learning|project-based learning]]. Traditional PjBL assessments often fail to capture HOT, especially transfer; DPs target that gap.
 
-Bridges [[generative-ai]] generation with [[formative-assessment]] and [[active-learning]], linking to [[scaffolding]] of complex tasks and [[higher-ed]]/[[cs-education]] contexts. It contributes a concrete method for scaling HOT assessment and informs [[generative-ai]] used for evaluation rather than just content delivery.
+Bridges [[generative-ai|generative AI]] generation with [[formative-assessment|formative assessment]] and [[active-learning|active learning]], linking to [[scaffolding|scaffolding]] of complex tasks and [[higher-ed|higher education]]/[[cs-education|CS education]] contexts. It contributes a concrete method for scaling HOT assessment and informs [[generative-ai|generative AI]] used for evaluation rather than just content delivery.
 
 ## Key Findings
 
 - **Design problems (DPs)** are concise, scenario-based prompts that require applying project concepts in **new situations**, targeting higher-order thinking (HOT) that traditional PjBL assessments often fail to capture, especially in transfer contexts.
 - **Surveys of 31 instructors** showed that instructors value DPs for assessing HOT, but **creation effort is a barrier** to adoption.
-- An evaluation of **80 [[llm]]-generated DPs** showed LLMs can produce **high-quality prompts with strong expert agreement**, effectively lowering the creation barrier.
+- An evaluation of **80 [[llm|LLM]]-generated DPs** showed LLMs can produce **high-quality prompts with strong expert agreement**, effectively lowering the creation barrier.
 - Students **rated DPs from different LLMs similarly**, and their performance on DP tasks showed **negligible correlation with traditional project grades**, suggesting DPs capture **distinct aspects of higher-order thinking** rather than duplicating existing measures.
 - **Keystroke data suggested deeper cognitive [[student-engagement|engagement]]** through planning and revision behaviors while students worked on DP tasks.
 

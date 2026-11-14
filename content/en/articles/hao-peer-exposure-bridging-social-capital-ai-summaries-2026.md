@@ -15,7 +15,7 @@ confidence: high
 
 ## Summary
 
-Prior research on online discussion engagement has largely targeted posting and replying while overlooking the **viewing activities** that precede and enable them, and has focused on human-written rather than AI-generated summaries. This paper proposes and tests an **AI-generated summary-driven learning design (AI-SLD)** that uses [[llm]]-produced discussion summaries and example posts to lower the search cost of navigating large, poorly-titled forums and thereby broaden students' viewing breadth and access to heterogeneous peer perspectives (an opportunity condition for bridging social capital). Conducted via [[design-based-research|design-based research]] across three iterations with 128 higher-education students over an eight-week intervention, the study combines [[learning-analytics|quantitative social network analysis]] of forum log data with [[qualitative-research|qualitative thematic analysis]] of student interviews.
+Prior research on online discussion engagement has largely targeted posting and replying while overlooking the **viewing activities** that precede and enable them, and has focused on human-written rather than AI-generated summaries. This paper proposes and tests an **AI-generated summary-driven learning design (AI-SLD)** that uses [[llm|LLM]]-produced discussion summaries and example posts to lower the search cost of navigating large, poorly-titled forums and thereby broaden students' viewing breadth and access to heterogeneous peer perspectives (an opportunity condition for bridging social capital). Conducted via [[design-based-research|design-based research]] across three iterations with 128 higher-education students over an eight-week intervention, the study combines [[learning-analytics|quantitative social network analysis]] of forum log data with [[qualitative-research|qualitative thematic analysis]] of student interviews.
 
 ## Key Findings
 
@@ -28,9 +28,9 @@ Prior research on online discussion engagement has largely targeted posting and 
 ## What this means for practice
 
 - **Instructors.** Post an AI-generated summary of the week's discussion, plus one AI example post, as a navigation map before students read threads; the supported iterations raised viewing breadth (standardized out-degree centrality β = 0.547 and 0.438 versus baseline, both p < 0.001).
-- **Instructors.** Do not rely on the summaries to hold participation: viewing activity declined in later weeks across all iterations and students attributed it to draft-assignment deadlines, so pair the [[scaffolding]] with socio-[[pedagogy|pedagogical]] strategies.
+- **Instructors.** Do not rely on the summaries to hold participation: viewing activity declined in later weeks across all iterations and students attributed it to draft-assignment deadlines, so pair the [[scaffolding|scaffolding]] with socio-[[pedagogy|pedagogical]] strategies.
 - **Instructors.** Deploy the design when topics are unfamiliar, since students consulted more peers when a topic felt new and narrowed their viewing when it felt familiar.
-- **Researchers.** Connect viewing behavior to discussion quality and cognitive engagement, since log-based [[learning-analytics]] cannot show whether viewing was deep or shallow, and treat viewing and attentional behavior as observable evidence of students' opportunities to access diverse peer perspectives — the condition for developing *bridging* social capital.
+- **Researchers.** Connect viewing behavior to discussion quality and cognitive engagement, since log-based [[learning-analytics|learning analytics]] cannot show whether viewing was deep or shallow, and treat viewing and attentional behavior as observable evidence of students' opportunities to access diverse peer perspectives — the condition for developing *bridging* social capital.
 
 ## Limitations
 

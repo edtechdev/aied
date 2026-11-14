@@ -18,23 +18,23 @@ page_kind: [framework]
 institutions: [educational-policy-ai]
 ---
 
-> **Synthesis:** This paper proposes a principled framework grounded in Evidence-Centered Design (ECD) that treats [[generative-ai]] as a design variable within [[stem-education|STEM]] assessment arguments rather than an external threat. This represents a significant evolution beyond the binary debate of 'ban AI vs. allow AI' that has dominated discussions about [[academic-integrity]] in education.
+> **Synthesis:** This paper proposes a principled framework grounded in Evidence-Centered Design (ECD) that treats [[generative-ai|generative AI]] as a design variable within [[stem-education|STEM]] assessment arguments rather than an external threat. This represents a significant evolution beyond the binary debate of 'ban AI vs. allow AI' that has dominated discussions about [[academic-integrity|academic integrity]] in education.
 
 ## Three Governance Stances
 
-The framework articulates three context-dependent [[governance]] stances based on how GenAI interacts with the assessment's validity argument:
+The framework articulates three context-dependent [[governance|governance]] stances based on how GenAI interacts with the assessment's validity argument:
 
 1. **Restrict** — warranted when GenAI would contaminate the inferential chain between student work products and targeted unaided proficiency. This preserves the validity of assessments designed to measure independent competence.
-2. **Scaffold** — warranted when bounded GenAI support can assist with peripheral demands without revealing the target construct, preserving inferential interpretability. This aligns with [[scaffolding]] approaches in [[intelligent-tutoring]] systems.
+2. **Scaffold** — warranted when bounded GenAI support can assist with peripheral demands without revealing the target construct, preserving inferential interpretability. This aligns with [[scaffolding|scaffolding]] approaches in [[intelligent-tutoring|intelligent tutoring]] systems.
 3. **Require** — warranted when the target construct is disciplinary [[student-ai-interaction|AI interaction]] competency itself. Tasks elicit process artifacts (prompts, critiques, revisions) that make student reasoning observable and scorable, distinguishing it from AI-generated output.
 
 ## Empirical Validation
-Two task designs deployed in an introductory [[physics-education|physics]] course demonstrated that disciplinary AI interaction competencies are observable in student response artifacts and can be scored using defensible rubrics grounded in student data and expert knowledge. This connects to [[automated-assessment|Automated Grading]] and [[cong-confidence-asag-2026]] [[research-methods-aied|research]] on making student reasoning visible and scorable.
+Two task designs deployed in an introductory [[physics-education|physics]] course demonstrated that disciplinary AI interaction competencies are observable in student response artifacts and can be scored using defensible rubrics grounded in student data and expert knowledge. This connects to [[automated-assessment|Automated Grading]] and [[cong-confidence-asag-2026|Cong et al., 2026]] [[research-methods-aied|research]] on making student reasoning visible and scorable.
 
 ## What this means for practice
 - **Instructors.** Set the AI-use rule per assessment by asking how GenAI would reshape the inference from a student's work product to the targeted construct, instead of applying a blanket allow-or-ban policy.
 - **Instructors.** When AI interaction is the target construct, require process artifacts — prompts, output critiques and assumption reflections — so each student's own reasoning stays separable from the AI output.
-- **Administrators.** Ground assessment AI decisions in the validity argument rather than institutional preference, and keep [[educational-policy-ai]] guidance and [[ai-literacy]] standards tied to that argument so learning integrity is preserved while students are prepared for AI-enabled workplaces.
+- **Administrators.** Ground assessment AI decisions in the validity argument rather than institutional preference, and keep [[educational-policy-ai|educational AI policy]] guidance and [[ai-literacy|AI literacy]] standards tied to that argument so learning integrity is preserved while students are prepared for AI-enabled workplaces.
 - **Designers.** Confirm an accuracy ceiling before assigning a Require stance: the model must consistently miss at least one expert-anchored error, otherwise uncritical acceptance of AI output is undetectable and the task collapses into ordinary AI collaboration.
 
 ## Limitations

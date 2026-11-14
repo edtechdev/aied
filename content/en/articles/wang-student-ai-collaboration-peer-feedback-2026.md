@@ -71,7 +71,7 @@ ai_assist:
 - **TAEQ:** Task enjoyment (5 items) and task anxiety (6 items) on six-point scales, adapted from L2 task emotion [[self-report-measures|questionnaires]]; Cronbach's alpha 0.85 and 0.83 respectively.
 - **PFPLQ:** 14 items from Dong et al.'s Peer Feedback Literacy Scale covering only the provision side, across four dimensions (FKA 5 items, WP 3, CLA 3, APF 3) on a six-point scale; alphas 0.83, 0.83, 0.81, and 0.82 respectively.
 - **Analysis:** Thematic open coding of chat histories in NVivo12 by one researcher, with a second researcher coding half the data (kappa = 0.86). RQ2 to RQ4 were analyzed by ANCOVA controlling for pre-test scores. Cohen's (1988) partial eta squared thresholds (0.01 small, 0.06 medium, 0.14 large) were used to interpret effect sizes.
-- **[[ethics]]:** Institutional Research Ethics Committee approval, informed consent from all participants, and anonymized peer review throughout.
+- **[[ethics|ethics]]:** Institutional Research Ethics Committee approval, informed consent from all participants, and anonymized peer review throughout.
 
 ## What this means for practice
 

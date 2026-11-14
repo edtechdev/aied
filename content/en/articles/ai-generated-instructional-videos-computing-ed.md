@@ -31,8 +31,8 @@ The study addresses a gap in computing education research, which has focused lar
 
 - **Instructors.** Restrict AI-generated video to simple, supplementary, visually oriented content and keep instructor-led interaction in place: students rated the three Markdown videos as high-quality, accurate, and usable, yet 26 students (16% of the coded responses) argued against replacing instructor-led lectures outright.
 - **Instructors.** Add a human validation step before publishing any AI-produced video; nearly half of the 170 students could not determine that the videos were AI-generated, so undetected inaccuracies would not be challenged by viewers.
-- **Instructors.** Disclose AI authorship and pair it with demonstrated quality — the study's own contrast between positive video ratings and limited comfort with classroom adoption points to transparency as the way to preserve [[student-experience|student]] trust in [[generative-ai]] resources.
-- **Designers.** Adopt the hybrid production workflow students preferred: AI generates draft media that the instructor reviews and refines, treating the tool as an augmentation of the instructor's role in [[cs-education]] rather than a replacement.
+- **Instructors.** Disclose AI authorship and pair it with demonstrated quality — the study's own contrast between positive video ratings and limited comfort with classroom adoption points to transparency as the way to preserve [[student-experience|student]] trust in [[generative-ai|generative AI]] resources.
+- **Designers.** Adopt the hybrid production workflow students preferred: AI generates draft media that the instructor reviews and refines, treating the tool as an augmentation of the instructor's role in [[cs-education|CS education]] rather than a replacement.
 - **Researchers.** Test AI videos with less experienced learners before generalizing; participants were enrolled in higher-level CS courses and were already fluent in technical notation.
 
 ## Limitations

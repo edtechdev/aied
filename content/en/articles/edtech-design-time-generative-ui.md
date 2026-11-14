@@ -18,7 +18,7 @@ confidence: medium
 
 ## Key Findings
 
-- The dominant **runtime GenUI paradigm** — authoring content once in a fixed form and letting AI adapt delivery dynamically to learner needs, behaviors, or profiles — moves the burden of [[accessibility]] and representation diversity onto systems that encounter learners only after content has been locked into particular details.
+- The dominant **runtime GenUI paradigm** — authoring content once in a fixed form and letting AI adapt delivery dynamically to learner needs, behaviors, or profiles — moves the burden of [[accessibility|accessibility]] and representation diversity onto systems that encounter learners only after content has been locked into particular details.
 - Runtime adaptation is "too late and too costly" to be [[equity-in-ai-education|equitable]] at scale and may lead to **inaccurate learning content**, because verification cannot be conducted at scale for what each learner actually sees.
 - The authors propose **design-time card-based GenUI**: educational content is encoded as modality-agnostic semantic units, and GenAI produces multiple interface representations — interactive, audio, text-simplified, and low-bandwidth — at learning design time for instructor verification before any learner encounters them.
 - This shifts the AI intervention from delivery to creation, **embeds Universal Design for Learning (UDL) principles** into the authoring workflow, and removes per-learner inference costs.
@@ -26,7 +26,7 @@ confidence: medium
 
 ## Why Design-Time over Runtime
 
-The paper argues that accessibility belongs in the authoring layer. When interfaces are generated at runtime, instructors cannot review what each learner receives, and learners who need audio-first, simplified-text, interactive, or low-bandwidth representations are served only after a fixed design has already constrained the content's details. Generating and verifying multiple representations at design time makes representation diversity an explicit part of content creation, consistent with [[learning-design]] practice, and avoids the cost of running inference separately for every learner.
+The paper argues that accessibility belongs in the authoring layer. When interfaces are generated at runtime, instructors cannot review what each learner receives, and learners who need audio-first, simplified-text, interactive, or low-bandwidth representations are served only after a fixed design has already constrained the content's details. Generating and verifying multiple representations at design time makes representation diversity an explicit part of content creation, consistent with [[learning-design|learning design]] practice, and avoids the cost of running inference separately for every learner.
 
 ## What this means for practice
 

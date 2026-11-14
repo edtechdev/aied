@@ -40,7 +40,7 @@ Teacher commitment is defined narrowly and deliberately. Al Nafjan sets aside th
 
 The framework's central claim is interaction rather than addition. Rigor sets the demands students meet; commitment shapes how they meet them. Proposition 1 therefore predicts that rigor will be more strongly associated with deep-agentic engagement when commitment is high, and more strongly associated with strategic-defensive use or disengagement when commitment is low.
 
-The architecture comes from Bandura's (1986) triadic reciprocal causation. Rigor and commitment jointly make up the environmental vertex; goal orientation, [[self-efficacy]], proficiency, and GenAI literacy make up personal factors; drafting, delegating, verifying, and avoiding make up behavior. The relationships run in both directions, and Proposition 4 formalizes the loop: students' engagement and AI-use practices give teachers signals that may prompt them to raise process accountability, tighten surveillance, or withdraw support.
+The architecture comes from Bandura's (1986) triadic reciprocal causation. Rigor and commitment jointly make up the environmental vertex; goal orientation, [[self-efficacy|self-efficacy]], proficiency, and GenAI literacy make up personal factors; drafting, delegating, verifying, and avoiding make up behavior. The relationships run in both directions, and Proposition 4 formalizes the loop: students' engagement and AI-use practices give teachers signals that may prompt them to raise process accountability, tighten surveillance, or withdraw support.
 
 ## What the four configurations predict
 

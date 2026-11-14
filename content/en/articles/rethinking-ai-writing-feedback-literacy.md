@@ -15,7 +15,7 @@ sources: ['raw/papers/rethinking-ai-writing-feedback-literacy.md']
 confidence: high
 ---
 
-> **Synthesis:** **In AI-assisted writing, the value of generative feedback depends less on its abundance than on whether students can evaluate it, calibrate their own self-judgment, and turn external support into independent revision.** Dai (2026) shows, in a 2 × 2 factorial experiment with 120 undergraduate English majors, that feedback-literacy training (a [[feedback-literacy|Feedback Literacy]] Script, FRAC) primarily improves writing quality, effective feedback uptake, and deep revision, whereas calibration training (an Assessment-Performance Calibration Activity, APCA) primarily improves [[self-assessment]] accuracy and reduces overconfidence. Combining the two produced the highest writing gains and strongest retention after AI support was withdrawn, but did not outperform APCA alone on self-assessment accuracy.
+> **Synthesis:** **In AI-assisted writing, the value of generative [[feedback|feedback]] depends less on its abundance than on whether students can evaluate it, calibrate their own self-judgment, and turn external support into independent revision.** Dai (2026) shows, in a 2 × 2 factorial experiment with 120 undergraduate English majors, that feedback-literacy training (a [[feedback-literacy|Feedback Literacy]] Script, FRAC) primarily improves writing quality, effective feedback uptake, and deep revision, whereas calibration training (an Assessment-Performance Calibration Activity, APCA) primarily improves [[self-assessment|self-assessment]] accuracy and reduces overconfidence. Combining the two produced the highest writing gains and strongest retention after AI support was withdrawn, but did not outperform APCA alone on self-assessment accuracy.
 
 ## Core Finding
 
@@ -37,11 +37,11 @@ FRAC is a **Feedback Literacy Script** targeting the processing of external feed
 
 ## Connection to Existing Knowledge Base
 
-- **[[ai-feedback-quality]]**: Provides causal evidence that feedback-processing training raises effective adoption and deep revision, not just feedback volume.
+- **[[ai-feedback-quality|AI feedback quality]]**: Provides causal evidence that feedback-processing training raises effective adoption and deep revision, not just feedback volume.
 - **[[feedback|Feedback Loop]]**: FRAC's Filter–Reason–Act–Check sequence operationalizes a structured feedback–revision loop.
-- **[[self-regulated-learning]] / [[metacognition]]**: APCA's calibration cycle is a concrete calibration-training instantiation tied to SRL monitoring and control.
-- **[[formative-assessment]]**: Links feedback uptake and self-assessment accuracy to formative writing assessment in [[higher-ed|higher education]].
-- **[[writing-education]] / [[ai-literacy]]**: Evidence that AI-assisted writing outcomes depend on training learners to evaluate and act on AI feedback.
+- **[[self-regulated-learning|self-regulated learning]] / [[metacognition|metacognition]]**: APCA's calibration cycle is a concrete calibration-training instantiation tied to SRL monitoring and control.
+- **[[formative-assessment|formative assessment]]**: Links feedback uptake and self-assessment accuracy to formative writing assessment in [[higher-ed|higher education]].
+- **[[writing-education|writing education]] / [[ai-literacy|AI literacy]]**: Evidence that AI-assisted writing outcomes depend on training learners to evaluate and act on AI feedback.
 
 ## Methodological Notes
 

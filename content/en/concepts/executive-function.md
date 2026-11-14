@@ -1,7 +1,7 @@
 ---
 title: Executive Function
 created: "2026-11-12T18:35:44-05:00"
-updated: "2026-11-13T01:30:00-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -38,7 +38,7 @@ The psychological literature names three core functions, inhibition, [[cognitive
 
 The difference changes what a finding means. A performance task measures what a learner can do under controlled conditions. A self-report inventory measures what a learner believes about their everyday functioning, and the two dissociate. Ayasrah and colleagues' instrument-development study makes the point explicitly. Their Executive Function-Based Learning Difficulties Scale operationalizes its construct as self-reported maladaptive reliance and perceived reductions in effortful monitoring, "rather than a diagnosis of stable executive-function deficits" ([[ayasrah-executive-function-learning-difficulties-scale-2026|Ayasrah et al., 2026]]).
 
-The distinction from [[metacognition]] runs the same way. Metacognition is knowledge and monitoring of one's own thinking, including calibration and judgments of learning. Executive function is the capacity that makes monitoring possible when the task is demanding. A learner can have accurate metacognitive knowledge and still fail to hold a multi-step problem in working memory. That combination is common in the [[special-education]] literature, where the gap between knowing a strategy and being able to run it is the everyday problem.
+The distinction from [[metacognition|metacognition]] runs the same way. Metacognition is knowledge and monitoring of one's own thinking, including calibration and judgments of learning. Executive function is the capacity that makes monitoring possible when the task is demanding. A learner can have accurate metacognitive knowledge and still fail to hold a multi-step problem in working memory. That combination is common in the [[special-education|special education]] literature, where the gap between knowing a strategy and being able to run it is the everyday problem.
 
 ## Compensation, scaffolding, development
 

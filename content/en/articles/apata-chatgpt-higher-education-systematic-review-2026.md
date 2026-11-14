@@ -20,7 +20,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** This [[meta-analysis-systematic-review|systematic review]] pools 82 empirical studies published between January 1, 2022 and October 20, 2025 to map the opportunities, perceptions, and challenges of ChatGPT in [[higher-ed|higher education]]. Following PRISMA guidelines, the authors screened 1046 database records in Covidence, retained 58 studies, then added 24 more through targeted Google Scholar and Consensus App searches. Two independent reviewers agreed on 58 of 63 articles, a 92% agreement rate at Cohen's κ of 0.82. Thematic content analysis organized the evidence around accuracy and reliability, ethical implications, and the forecast future role of ChatGPT in traditional teaching. Perceptions of accuracy split across 13 positive, 7 negative, and 8 mixed studies. Students and faculty reported privacy anxieties, bias concerns, and integrity worries alongside genuine enthusiasm for content creation, personalized support, collaboration, and feedback. The reviewers conclude that responsible, equitable integration depends less on the technology than on clear institutional policy, disclosure norms, verification habits, and [[ai-literacy]] instruction.
+> **Synthesis:** This [[meta-analysis-systematic-review|systematic review]] pools 82 empirical studies published between January 1, 2022 and October 20, 2025 to map the opportunities, perceptions, and challenges of ChatGPT in [[higher-ed|higher education]]. Following PRISMA guidelines, the authors screened 1046 database records in Covidence, retained 58 studies, then added 24 more through targeted Google Scholar and Consensus App searches. Two independent reviewers agreed on 58 of 63 articles, a 92% agreement rate at Cohen's κ of 0.82. Thematic content analysis organized the evidence around accuracy and reliability, ethical implications, and the forecast future role of ChatGPT in traditional teaching. Perceptions of accuracy split across 13 positive, 7 negative, and 8 mixed studies. Students and faculty reported privacy anxieties, bias concerns, and integrity worries alongside genuine enthusiasm for content creation, personalized support, collaboration, and feedback. The reviewers conclude that responsible, equitable integration depends less on the technology than on clear institutional policy, disclosure norms, verification habits, and [[ai-literacy|AI literacy]] instruction.
 
 ## Key Findings
 
@@ -41,7 +41,7 @@ The review found no consensus on whether ChatGPT produces trustworthy academic o
 
 ## Ethics: privacy, bias, and academic integrity
 
-Ethical concerns clustered into [[privacy]], bias and fairness, and [[academic-integrity]]. Undergraduates were unwilling to supply personal information because of confidentiality worries, students in Hong Kong were wary of AI data collection, and 83% of faculty members named privacy as a concern for their students. On bias, training data may embed societal biases that shape responses, [[prompt-engineering|prompting]] calls for universities to communicate openly about algorithms and limitations. The reviewers argue fairness depends on institutional conditions too, such as inequitable access, limited infrastructure, and underdeveloped policy environments, connecting to [[equity-in-ai-education]]. On integrity, the fluency and speed of ChatGPT raised concerns about plagiarism and AI-assisted cheating, and some studies feared over-reliance would weaken critical thinking and [[problem-solving|problem solving]]. These concerns have pushed institutions toward written guidance and [[educational-policy-ai]].
+Ethical concerns clustered into [[privacy|privacy]], bias and fairness, and [[academic-integrity|academic integrity]]. Undergraduates were unwilling to supply personal information because of confidentiality worries, students in Hong Kong were wary of AI data collection, and 83% of faculty members named privacy as a concern for their students. On bias, training data may embed societal biases that shape responses, [[prompt-engineering|prompting]] calls for universities to communicate openly about algorithms and limitations. The reviewers argue fairness depends on institutional conditions too, such as inequitable access, limited infrastructure, and underdeveloped policy environments, connecting to [[equity-in-ai-education|equity]]. On integrity, the fluency and speed of ChatGPT raised concerns about plagiarism and AI-assisted cheating, and some studies feared over-reliance would weaken critical thinking and [[problem-solving|problem solving]]. These concerns have pushed institutions toward written guidance and [[educational-policy-ai|educational AI policy]].
 
 ## Forecast roles and institutional response
 
@@ -51,7 +51,7 @@ Asked how ChatGPT might reshape conventional teaching, faculty and students desc
 
 - Publish clear course and university rules on when and how ChatGPT may be used, stating the rationale when use is restricted.
 - Require disclosure of the AI tool and the model or version used so assessment decisions remain defensible.
-- Teach [[ai-literacy]] directly: bias identification, privacy awareness, citation of AI-generated content, fact-checking, and the limits of generated output.
+- Teach [[ai-literacy|AI literacy]] directly: bias identification, privacy awareness, citation of AI-generated content, fact-checking, and the limits of generated output.
 - Verify AI outputs against learning objectives and keep AI supplementary, so it enhances rather than replaces critical thinking.
 
 ## Limitations
@@ -59,7 +59,7 @@ Asked how ChatGPT might reshape conventional teaching, faculty and students desc
 - The review covers only January 1, 2022 to October 2025; GPT-5 appeared inside the window but had no included classroom evaluations.
 - Included studies concentrate heavily in Asia, limiting generalization to South America, Africa, and Oceania, where empirical work on generative AI remains limited or early.
 - Descriptive statistics and thematic content analysis identify trends but cannot establish the magnitude, direction, or statistical significance of relationships.
-- The review used no guiding theoretical framework such as the [[technology-acceptance-model|Technology Acceptance Model]] or [[tpack]], and examined only ChatGPT, excluding Gemini, Claude, Copilot, and Perplexity.
+- The review used no guiding theoretical framework such as the [[technology-acceptance-model|Technology Acceptance Model]] or [[tpack|TPACK]], and examined only ChatGPT, excluding Gemini, Claude, Copilot, and Perplexity.
 
 ## Citation
 

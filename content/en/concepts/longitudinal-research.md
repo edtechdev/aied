@@ -1,7 +1,7 @@
 ---
 title: Longitudinal Research
 created: "2026-11-12T14:28:00-05:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -48,13 +48,13 @@ The finding is correlational about the slopes, not causal about the tools, and t
 
 ## Adoption and attitude trends
 
-A third family follows a population rather than a growth process. Parker, Loper, Carter, Hayes and Karakas analyzed four semesters of survey data from more than 300 students in a Midwestern US [[teacher-education]] program, tracing GenAI use and ethical perceptions after ChatGPT's launch. Use grew substantially: assessment preparation from 57% to 83%, studying from 44% to 76%, while ethical stances became more uncertain rather than settling, and perceptions differed by subgroup.
+A third family follows a population rather than a growth process. Parker, Loper, Carter, Hayes and Karakas analyzed four semesters of survey data from more than 300 students in a Midwestern US [[teacher-education|teacher education]] program, tracing GenAI use and ethical perceptions after ChatGPT's launch. Use grew substantially: assessment preparation from 57% to 83%, studying from 44% to 76%, while ethical stances became more uncertain rather than settling, and perceptions differed by subgroup.
 
 This is a repeated cross-sectional design: the same program, not necessarily the same students. It establishes a trend in a population, which is exactly what a policy question needs, and it cannot establish individual change. The distinction matters when the trend is read as development: a rise in reported use across semesters may reflect new cohorts entering with different norms as much as the same students changing.
 
 ## State, trait and the shape of a term
 
-Song and colleagues' semester-long study of 75 first-year university students shows why the within-person question is worth asking about constructs usually treated as aptitudes. Students' individual baselines for [[self-regulated-learning|self-regulated learning]] were stable, but their metacognitive knowledge and [[well-being]] declined systematically over the term, tracking curriculum demands such as major assessment deadlines. A proof-of-concept showed that an [[llm|LLM]] could be given per-student context to support regulation at the moment it was needed.
+Song and colleagues' semester-long study of 75 first-year university students shows why the within-person question is worth asking about constructs usually treated as aptitudes. Students' individual baselines for [[self-regulated-learning|self-regulated learning]] were stable, but their metacognitive knowledge and [[well-being|well-being]] declined systematically over the term, tracking curriculum demands such as major assessment deadlines. A proof-of-concept showed that an [[llm|LLM]] could be given per-student context to support regulation at the moment it was needed.
 
 The practical reading is that a trait measured once would have hidden the decline. The methodological reading is that "stable" and "unchanging" are different claims, and only repeated measurement distinguishes them.
 
@@ -77,7 +77,7 @@ Four problems recur, and the last two are specific to this field.
 
 **Tool drift.** An AI tool is not a fixed treatment. Models are updated, interfaces change, institutional licenses are withdrawn mid-term. A study that spans a semester is measuring a moving object, and few papers report version changes.
 
-**Assisted performance mistaken for learning.** A gain measured with the tool available may show what the learner can do with support, not what they have internalized. The distinction is the same one that separates [[scaffolding]] from development, and longitudinal designs do not solve it unless the later waves include an unassisted measure.
+**Assisted performance mistaken for learning.** A gain measured with the tool available may show what the learner can do with support, not what they have internalized. The distinction is the same one that separates [[scaffolding|scaffolding]] from development, and longitudinal designs do not solve it unless the later waves include an unassisted measure.
 
 ## Implications for Practice
 
@@ -93,7 +93,7 @@ Researchers can keep two claims apart in their own writing. Temporal ordering su
 
 ## What longitudinal designs cannot do
 
-They do not establish causation on their own. Temporal ordering is necessary but not sufficient: an unmeasured variable that changes on the same schedule (a new assessment regime, a curriculum reform, a cohort effect) can produce the same pattern. They are expensive in participant time, which caps sample sizes and often forces self-report. And a term is short: developmental questions, in the sense [[developmental-psychology]] uses the term, need years, and almost nothing in this literature spans them.
+They do not establish causation on their own. Temporal ordering is necessary but not sufficient: an unmeasured variable that changes on the same schedule (a new assessment regime, a curriculum reform, a cohort effect) can produce the same pattern. They are expensive in participant time, which caps sample sizes and often forces self-report. And a term is short: developmental questions, in the sense [[developmental-psychology|developmental psychology]] uses the term, need years, and almost nothing in this literature spans them.
 
 ## How it appears in the research
 

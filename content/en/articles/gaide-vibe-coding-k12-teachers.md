@@ -14,11 +14,11 @@ confidence: high
 page_kind: [framework]
 ---
 
-> **Synthesis:** [[llm|Large language models]] generate code from natural language prompts, enabling [[vibe-coding|vibe coding]], which allows non-programmers to develop computational solutions. Vibe coding for teachers amplifies the teachers-as-designers paradigm, improving technology integration while fostering AI literacy. However, structured guidance on supporting this process is lacking. We propose GAIDE (A Guiding Framework for AI-Integrated Design for Educators), a framework that supports K-12 teachers in creating AI-powered learning [[ai-technologies|technologies]] through vibe coding. The initial framework, built on [[design-thinking|Design Thinking]] and INTERACT, was validated through a CORDTRA interaction analysis of three teachers and four faculty mentors in an eight-week workshop to derive the final framework. Additionally, the [[qualitative-research|qualitative]] analysis of pre- and post-interviews found an enhancement of teachers' AI literacy. Findings highlight the potential of learning-by-creating for professional development.
+> **Synthesis:** [[llm|Large language models]] generate code from natural language prompts, enabling [[vibe-coding|vibe coding]], which allows non-programmers to develop computational solutions. Vibe coding for teachers amplifies the teachers-as-designers paradigm, improving technology integration while fostering [[ai-literacy|AI literacy]]. However, structured guidance on supporting this process is lacking. We propose GAIDE (A Guiding Framework for AI-Integrated Design for Educators), a framework that supports K-12 teachers in creating AI-powered learning [[ai-technologies|technologies]] through vibe coding. The initial framework, built on [[design-thinking|Design Thinking]] and INTERACT, was validated through a CORDTRA interaction analysis of three teachers and four faculty mentors in an eight-week workshop to derive the final framework. Additionally, the [[qualitative-research|qualitative]] analysis of pre- and post-interviews found an enhancement of teachers' AI literacy. Findings highlight the potential of learning-by-creating for professional development.
 
 GAIDE, a Design-Thinking-based framework, supports K-12 teachers (non-programmers) in building AI-powered learning tools via vibe coding; an eight-week workshop raised participating teachers' AI literacy, showing learning-by-creating as a professional-development model.
 
-This work connects to core knowledge base themes: [[k-12]] [[teacher-role]] [[ai-literacy]] [[generative-ai]] [[educational-development]]. It highlights how generative-AI tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic [[student-engagement|engagement]] rather than enabling shallow bypass.
+This work connects to core knowledge base themes: [[k-12]] [[teacher-role|teacher role]] [[ai-literacy|AI literacy]] [[generative-ai|generative AI]] [[educational-development|educational development]]. It highlights how generative-AI tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic [[student-engagement|engagement]] rather than enabling shallow bypass.
 
 ## What this means for practice
 
@@ -26,7 +26,7 @@ This work connects to core knowledge base themes: [[k-12]] [[teacher-role]] [[ai
 - **Faculty developers.** Mentor the design process stage by stage rather than the finished artifact — four faculty mentors supported three teachers across eight weekly online sessions, and the CORDTRA analysis mapped mentor support onto each design stage.
 - **Faculty developers.** Treat [[ethics|AI ethics]] as a design topic rather than a compliance rule: teachers shifted from "making sure students are not cheating" to reasoning about bias, [[hallucination-risk|hallucination]], and transparency in their own tools.
 - **Instructors.** Budget prototyping time outside the sessions: teachers were asked to continue building between workshops because the eight sessions ran short.
-- **Faculty developers.** Model learning-by-creating for [[professional-training]]: the workshop raised teachers' [[ai-literacy]] by having them build AI-powered tools, not by explaining AI to them.
+- **Faculty developers.** Model learning-by-creating for [[professional-training|professional training]]: the workshop raised teachers' [[ai-literacy|AI literacy]] by having them build AI-powered tools, not by explaining AI to them.
 
 ## Limitations
 

@@ -14,7 +14,7 @@ confidence: high
 level: [secondary]
 ---
 
-> **Synthesis:** **LearnLens is a modular, LLM-based system that generates personalized, curriculum-aligned feedback in [[science-education|science education]] by combining error-aware assessment, a topic-linked memory chain, and an educator-in-the-loop interface.** Zhao et al. (2025) report that this architecture produces high-quality scoring (MSE 3.19, 8–13% below any baseline) while keeping latency (~11.4s) and cost (\$0.0099/request) competitive, and that teachers rated it strongly for [[usability-research|usability]], curriculum relevance (4.4/5), and scientific accuracy (4.3/5).
+> **Synthesis:** **LearnLens is a modular, LLM-based system that generates personalized, curriculum-aligned [[feedback|feedback]] in [[science-education|science education]] by combining error-aware assessment, a topic-linked memory chain, and an educator-in-the-loop interface.** Zhao et al. (2025) report that this architecture produces high-quality scoring (MSE 3.19, 8–13% below any baseline) while keeping latency (~11.4s) and cost (\$0.0099/request) competitive, and that teachers rated it strongly for [[usability-research|usability]], curriculum relevance (4.4/5), and scientific accuracy (4.3/5).
 
 ## Core Finding
 
@@ -39,16 +39,16 @@ The student side combines three modules: the **Assessor** delivers consistent, f
 - **Teacher user study (N = 30, prior STEM teaching experience):** Mean ratings never fell below 4.1/5 across nine Likert items; ~80% called the menu "intuitive"; 75% expect results in under 15 seconds (met in >90% of local-deployment cases). Median time per assignment dropped from 10–30 minutes to under 5 minutes. A χ² test (p = 0.63) showed no significant difference in adoption intent across prior-method groups, with every cohort exceeding 65% "continue using" (automation-savvy peak 85%).
 - **Agent performance (100 authentic student answers):** LearnLens scored best on MSE (3.190), correlation (0.388), exact (0.354), and ±1 (0.747) accuracy, while maintaining latency ~4× faster than QwQ-32B and cost 72% cheaper. This is achieved via a **modular pipeline**: lightweight models handle routine subtasks, while larger models are invoked only when deeper reasoning is needed, supported by vLLM serving and speculative decoding. MSE dropped 8–13% below any baseline while latency (~11.4s) was comparable to Qwen2.5-32B and cost (\$0.0099/request) matched it.
 - **Experience-sensitive adoption priorities:** Manual graders value speed (91%) and usability (82%) most; prompt-tool users distribute credit more evenly; other-automation users rank accuracy (88%) and reliability (75%) highest — suggesting the verifier-in-the-loop architecture addresses limitations they met elsewhere.
-- **Deployment priorities:** (1) meeting the sub-15-second latency ceiling via inference batching and on-device caching; (2) adaptive onboarding that branches on prior practice (time-saving narratives vs. accuracy-safeguard demonstrations); (3) verifier transparency — exposing verifier scores to all users to bolster [[trust]].
-- **Privacy:** All experiments were conducted via **local deployment** due to student data [[privacy]] concerns (evaluated models: Llama-3-8B, Qwen2.5-32B, QwQ-32B).
+- **Deployment priorities:** (1) meeting the sub-15-second latency ceiling via inference batching and on-device caching; (2) adaptive onboarding that branches on prior practice (time-saving narratives vs. accuracy-safeguard demonstrations); (3) verifier transparency — exposing verifier scores to all users to bolster [[trust|trust]].
+- **Privacy:** All experiments were conducted via **local deployment** due to student data [[privacy|privacy]] concerns (evaluated models: Llama-3-8B, Qwen2.5-32B, QwQ-32B).
 
 ## Connection to Existing Knowledge Base
 
-- **[[ai-feedback-quality]]**: Provides a concrete verifier-based framework (accuracy, clarity, specificity) for assessing generated feedback quality.
-- **[[student-modeling]]**: The error-aware assessment module captures partial understanding and reasoning errors rather than binary correctness, aligning with richer student modeling.
+- **[[ai-feedback-quality|AI feedback quality]]**: Provides a concrete verifier-based framework (accuracy, clarity, specificity) for assessing generated feedback quality.
+- **[[student-modeling|student modeling]]**: The error-aware assessment module captures partial understanding and reasoning errors rather than binary correctness, aligning with richer student modeling.
 - **[[feedback|Feedback Loop]]**: The verification-and-revision loop and educator-intervention-triggered deep reflection are core feedback-loop mechanisms.
-- **[[curriculum-design]]**: Grounds feedback generation in national-curriculum-aligned mark schemes and topic structures.
-- **[[rag]] / [[knowledge-graph]]**: Directly challenges similarity-based retrieval with a topic-linked memory chain (Chain-of-Concept), a relevant counterpoint to RAG-based tutors in the knowledge base.
+- **[[curriculum-design|curriculum design]]**: Grounds feedback generation in national-curriculum-aligned mark schemes and topic structures.
+- **[[rag|RAG]] / [[knowledge-graph|knowledge graph]]**: Directly challenges similarity-based retrieval with a topic-linked memory chain (Chain-of-Concept), a relevant counterpoint to RAG-based tutors in the knowledge base.
 
 ## Methodological Notes
 
@@ -59,13 +59,13 @@ Strengths include a modular, component-level evaluation on authentic student ans
 - **Instructors.** Review and revise generated feedback before it reaches students, using the verifier scores (scientific accuracy, clarity, specificity) as the release criterion rather than accepting raw model output.
 - **Instructors.** Map every question to a weighted key-concept mark scheme so that partial credit reflects conceptual understanding, and keep expression-quality issues out of the numerical grade.
 - **Faculty developers.** Branch onboarding on teachers' prior grading practice: manual graders need the time-saving case (median time per assignment fell from 10–30 minutes to under 5), while users of other automation tools need the accuracy (88%) and reliability (75%) evidence.
-- **Designers.** Hold generated feedback to the sub-15-second ceiling teachers expect (75% expect results under 15 seconds) through inference batching and on-device caching, and expose verifier scores to all users to build [[trust]].
+- **Designers.** Hold generated feedback to the sub-15-second ceiling teachers expect (75% expect results under 15 seconds) through inference batching and on-device caching, and expose verifier scores to all users to build [[trust|trust]].
 - **Designers.** Treat a teacher's edit as a signal of dissatisfaction: spend additional compute on deeper reflection rather than returning the fast answer.
 
 ## Limitations
 
 - Evaluation covers teachers, not students: the 30-teacher usability study (N = 30) reports perceptions only, and the authors explicitly acknowledge the lack of student evaluation, so no claim about student [[learning-gains|learning gains]] is supported.
-- Teacher evidence is [[self-report-measures|self-report]] Likert data (mean ratings never below 4.1/5 across nine items) from a single [[stem-education]] GCSE science context, which limits generalization to other subjects and year groups.
+- Teacher evidence is [[self-report-measures|self-report]] Likert data (mean ratings never below 4.1/5 across nine items) from a single [[stem-education|STEM education]] GCSE science context, which limits generalization to other subjects and year groups.
 - Scoring performance rests on 100 authentic student answers, and all experiments ran under local deployment with three models (Llama-3-8B, Qwen2.5-32B, QwQ-32B), so the reported MSE, latency and cost figures may not transfer to other model stacks or cloud settings.
 
 ## Citation

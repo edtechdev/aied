@@ -54,7 +54,7 @@ The authors are careful about what this means. Cognitive demand and empirical di
 
 ## What this means for practice
 
-- **Instructors writing items with an [[llm]].** Prompt for the constraints the model neglected: a target reading level, definitions for key terms, concise stems and options, and an explicit rule that the key must not be longer than the distractors. This model met those criteria at only 33.33% and 48.15% respectively.
+- **Instructors writing items with an [[llm|LLM]].** Prompt for the constraints the model neglected: a target reading level, definitions for key terms, concise stems and options, and an explicit rule that the key must not be longer than the distractors. This model met those criteria at only 33.33% and 48.15% respectively.
 - **Assessment designers.** Budget a [[human-in-the-loop-ai|human review]] pass for the errors that survived generation (3 spelling mistakes and 6 syntax errors across 27 items) and inspect every distractor chosen by under 5% of students, since 12 such options across 10 items contributed little discrimination.
 - **Department leads and administrators.** Treat a generated test as an initial draft: the authors conclude AI items can serve early stages of defensible construction only with expert review and model-based screening before consequential use.
 - **Researchers and test developers.** Run a short Rasch pilot before trusting a generated instrument: infit and outfit screen misfitting items, the Wright Map locates gaps where items are needed, distractor correlations flag non-functioning options, and scale anchoring tests whether intended levels exist in the data. Here that check returned 25.93% exact agreement, the number to carry into any claim that an AI-written item "assesses application."

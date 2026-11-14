@@ -15,7 +15,7 @@ discipline: [cs education]
 
 Pattern-based Knowledge Components extracted from code samples enable automatic, instructionally-meaningful recommendation of programming practice activities; on an expert-bundled Python corpus the approach beats KC- and embedding baselines, helping instructors organize and recommend content at scale.
 
-This work connects to core knowledge base themes: [[knowledge-tracing]] [[personalized-learning]] [[adaptive-learning]] [[intelligent-tutoring]] [[programming-its]]. It highlights how [[generative-ai]] tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic [[student-engagement|engagement]] rather than enabling shallow bypass.
+This work connects to core knowledge base themes: [[knowledge-tracing|knowledge tracing]] [[personalized-learning|personalized learning]] [[adaptive-learning|adaptive learning]] [[intelligent-tutoring|intelligent tutoring]] [[programming-its|Deriyeva et al. (2026)]]. It highlights how [[generative-ai|generative AI]] tooling is reshaping both what learners do and how educators structure support, reinforcing the need for design that preserves authentic [[student-engagement|engagement]] rather than enabling shallow bypass.
 
 ## What this means for practice
 
@@ -29,7 +29,7 @@ This work connects to core knowledge base themes: [[knowledge-tracing]] [[person
 - The evaluation uses the PCEX repository only: 123 programs across 13 topics and 49 bundles, which the authors state is small enough to constrain both KC discovery and evaluation sensitivity.
 - Relevance is defined as membership in the same expert-defined bundle, so an instructionally useful item outside that bundle counts as a miss.
 - The first step of the KC extraction pipeline uses topic labels for training, so the approach does not apply directly to unlabeled corpora.
-- No classroom study was run; the authors note the work does not yet measure [[problem-solving]] performance, time-to-solution, or transfer when recommendations are available.
+- No classroom study was run; the authors note the work does not yet measure [[problem-solving|problem-solving]] performance, time-to-solution, or transfer when recommendations are available.
 
 ## Citation
 

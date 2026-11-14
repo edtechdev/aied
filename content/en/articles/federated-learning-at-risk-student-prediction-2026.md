@@ -22,7 +22,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** At-risk prediction usually needs shared student data, which privacy rules forbid across institutions. This study simulates that constraint by partitioning the Open University [[learning-analytics|Learning Analytics]] Dataset into five program-discipline clients as health-professional-education analogues and testing federated at-risk models under four scenarios. Federated logistic regression retained 99.3-99.9% of centralized performance, a negligible privacy-utility trade-off. FedProx added nothing for logistic regression but stabilized a [[machine-learning|neural network]] under data-quality heterogeneity, cutting training variance fortyfold. The one result that pushes back on theory is that forum interaction ranked last in every discipline, against what Tinto's integration model would predict.
+> **Synthesis:** At-risk prediction usually needs shared student data, which [[privacy|privacy]] rules forbid across institutions. This study simulates that constraint by partitioning the Open University [[learning-analytics|Learning Analytics]] Dataset into five program-discipline clients as health-professional-education analogues and testing federated at-risk models under four scenarios. Federated logistic regression retained 99.3-99.9% of centralized performance, a negligible privacy-utility trade-off. FedProx added nothing for logistic regression but stabilized a [[machine-learning|neural network]] under data-quality heterogeneity, cutting training variance fortyfold. The one result that pushes back on theory is that forum interaction ranked last in every discipline, against what Tinto's integration model would predict.
 
 ## Key Findings
 
@@ -35,7 +35,7 @@ source_depth: full text
 
 ## How the study was built
 
-The study is a [[simulation]], not a deployment. It uses the Open University Learning Analytics Dataset, partitioned to simulate five program-discipline clients as analogues of health professional education programs, and grounds the feature design in Tinto's Student Integration Model by operationalizing learning-management-system behavior as integration proxies. A systematic search of Google Scholar, Scopus and the ACM Digital Library in May 2026 found no prior study combining federated learning, at-risk prediction and health professional education, which the authors present as the study's novelty claim.
+The study is a [[simulation|simulation]], not a deployment. It uses the Open University Learning Analytics Dataset, partitioned to simulate five program-discipline clients as analogues of health professional education programs, and grounds the feature design in Tinto's Student Integration Model by operationalizing learning-management-system behavior as integration proxies. A systematic search of Google Scholar, Scopus and the ACM Digital Library in May 2026 found no prior study combining federated learning, at-risk prediction and health professional education, which the authors present as the study's novelty claim.
 
 Two aggregation strategies are compared — FedAvg and FedProx — under two model families, logistic regression and a multilayer perceptron, across four scenarios: an IID baseline, [[pedagogy|pedagogical]] heterogeneity, data-quality variation, and temporal drift. Performance is reported primarily as AUC-PR with AUC-ROC secondary, and [[explainable-ai|feature importance]] comes from SHAP attribution.
 

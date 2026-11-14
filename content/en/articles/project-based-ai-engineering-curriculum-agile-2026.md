@@ -41,9 +41,9 @@ ai_assist:
 
 ## A program built around practice
 
-The AI Engineering program combines a shared core, [[cs-education|programming]] and software foundations, [[ai-literacy]] and data skills, and agile development practices, with [[discipline-specific-aied]] such as AI Software Engineering, AI Mechanical Engineering and AI Material Engineering. The design intent is that AI is treated as a tool for engineering rather than only as a product being built, so students in each track use AI within their own domain's constraints.
+The AI Engineering program combines a shared core, [[cs-education|programming]] and software foundations, [[ai-literacy|AI literacy]] and data skills, and agile development practices, with [[discipline-specific-aied|discipline-specific AIEd]] such as AI Software Engineering, AI Mechanical Engineering and AI Material Engineering. The design intent is that AI is treated as a tool for engineering rather than only as a product being built, so students in each track use AI within their own domain's constraints.
 
-Eight principles guide the whole program: shaping digital transformation; technological innovation with quality and sustainability; human–AI collaboration; [[project-based-learning|project-based learning]]; agility and [[reflection]]; practical relevance; entrepreneurship; and interdisciplinary teamwork. The authors treat the curriculum itself as an agile system, revised with input from students, educators, industry and societal [[stakeholders]], which is why the program structure appears in the paper as a model curriculum that has already changed several times.
+Eight principles guide the whole program: shaping digital transformation; technological innovation with quality and sustainability; human–AI collaboration; [[project-based-learning|project-based learning]]; agility and [[reflection|reflection]]; practical relevance; entrepreneurship; and interdisciplinary teamwork. The authors treat the curriculum itself as an agile system, revised with input from students, educators, industry and societal [[stakeholders|stakeholders]], which is why the program structure appears in the paper as a model curriculum that has already changed several times.
 
 ## Seven sprints, and where the AI sits
 
@@ -53,7 +53,7 @@ Reflection is scheduled rather than hoped for. Because the projects run in an in
 
 ## Lessons from three runs
 
-The first lesson is institutional agility: production-ready AI tooling arrived mid-project, and the teaching team had to integrate Copilot and agentic frameworks while the semester was running, which argues for a curriculum designed to absorb tools that do not exist at planning time. The second is [[assessment]]: with AI available for every artifact, individual oral examination became the mechanism that distinguishes understanding from output, and the authors treat it as non-negotiable. The third is that personification changes team dynamics, since students who treat a chatbot as a colleague will attribute judgment to it unless the boundary is taught.
+The first lesson is institutional agility: production-ready AI tooling arrived mid-project, and the teaching team had to integrate Copilot and agentic frameworks while the semester was running, which argues for a curriculum designed to absorb tools that do not exist at planning time. The second is [[assessment|assessment]]: with AI available for every artifact, individual oral examination became the mechanism that distinguishes understanding from output, and the authors treat it as non-negotiable. The third is that personification changes team dynamics, since students who treat a chatbot as a colleague will attribute judgment to it unless the boundary is taught.
 
 The completion figures should be read as program-level outcomes rather than a controlled effect. Missing ECTS dropped from 25% to 3% across cohorts, but the program, the cohort, the assessment regime and the AI tooling all changed together, and the sample is one institution's program in one country.
 

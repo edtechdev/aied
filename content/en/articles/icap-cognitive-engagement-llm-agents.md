@@ -15,7 +15,7 @@ page_kind: [evaluation]
 discipline: [language learning]
 ---
 
-> **Synthesis:** This study applies an extended 7-point [[icap-framework|ICAP]] framework (Interactive, Constructive, Active, Passive) to characterize variation in cognitive [[student-engagement|engagement]] during collaborative [[problem-solving]], then compares how reliably trained human annotators versus [[llm]]-based labeling approaches — in-context learning (ICL), zero-shot prompting, and self-reflective agents — can code that engagement. Human interrater reliability was robust across framework-refinement stages (QWK = 0.906–0.998), far exceeding ICL-based annotation (QWK = 0.541–0.655). Crucially, the refinements that improved human agreement (ΔQWK = 0.10) gave only modest gains to LLMs (ΔQWK < 0.04), and ICL offered no advantage over zero-shot prompting. A novel self-reflective LLM agent reached substantial agent–agent agreement (QWK = 0.841) and independently revised the coding framework, but human–machine agreement remained moderate throughout.
+> **Synthesis:** This study applies an extended 7-point [[icap-framework|ICAP]] framework (Interactive, Constructive, Active, Passive) to characterize variation in cognitive [[student-engagement|engagement]] during collaborative [[problem-solving|problem-solving]], then compares how reliably trained human annotators versus [[llm|LLM]]-based labeling approaches — in-context learning (ICL), zero-shot prompting, and self-reflective agents — can code that engagement. Human interrater reliability was robust across framework-refinement stages (QWK = 0.906–0.998), far exceeding ICL-based annotation (QWK = 0.541–0.655). Crucially, the refinements that improved human agreement (ΔQWK = 0.10) gave only modest gains to LLMs (ΔQWK < 0.04), and ICL offered no advantage over zero-shot prompting. A novel self-reflective LLM agent reached substantial agent–agent agreement (QWK = 0.841) and independently revised the coding framework, but human–machine agreement remained moderate throughout.
 
 ## Key Findings
 
@@ -36,7 +36,7 @@ LLMs have increasingly been used as scalable tools for text-based labeling in ps
 
 ## Method
 
-Cognitive engagement was measured during a logical-inference task in which three-person groups of [[higher-ed|undergraduates]] inferred hidden numerical assignments (letters A–J mapped to digits 0–9) through iterative trials of arithmetic expressions and guesses, with immediate [[feedback]]. The final dataset comprised **42 group conversations** (averaging ~11 minutes and six trials each).
+Cognitive engagement was measured during a logical-inference task in which three-person groups of [[higher-ed|undergraduates]] inferred hidden numerical assignments (letters A–J mapped to digits 0–9) through iterative trials of arithmetic expressions and guesses, with immediate [[feedback|feedback]]. The final dataset comprised **42 group conversations** (averaging ~11 minutes and six trials each).
 
 **Human annotation.** Two trained annotators classified engagement on the 7-point scale at trial level across three refinement stages. Stage 1 (videos 1–10) involved the first author mediating criteria development (Criteria Version 1); Stage 2 (videos 11–31) had annotators work independently, meeting after every two videos; Stage 3 (videos 32–42) applied a more detailed Criteria Version 2 with explicit codebook justifications. Disagreements were resolved through consensus.
 
@@ -52,7 +52,7 @@ Both human annotators and agents concentrated revisions on the **mid-range level
 
 ## What this means for practice
 
-- **Researchers.** Treat LLM-coded engagement as an approximation in [[learning-analytics]] pipelines that automate [[student-ai-interaction|student interaction]] coding: human–machine agreement stayed moderate (QWK ≈ 0.59–0.66) while human–human agreement reached 0.974, so automated coding cannot yet substitute for trained human judgment when fidelity matters.
+- **Researchers.** Treat LLM-coded engagement as an approximation in [[learning-analytics|learning analytics]] pipelines that automate [[student-ai-interaction|student interaction]] coding: human–machine agreement stayed moderate (QWK ≈ 0.59–0.66) while human–human agreement reached 0.974, so automated coding cannot yet substitute for trained human judgment when fidelity matters.
 - **Researchers.** Do not assume human-refined criteria transfer to models: the framework revisions that lifted human agreement (Δκ = 0.10) produced only small, inconsistent changes for ICL annotators (Δκ < 0.04).
 - **Researchers.** Prefer clear task instructions over few-shot examples: in-context learning drew on human consensus annotations yet gave no consistency benefit over zero-shot prompting, and was slightly worse in several conditions.
 - **Designers.** Pair automation with [[human-in-the-loop-ai|human oversight]] and account for the systematic shortfall, and target refinement at the mid-scale boundaries where 24% of human disagreements fell between Levels 4 and 5.
@@ -60,7 +60,7 @@ Both human annotators and agents concentrated revisions on the **mid-range level
 
 ## Limitations
 
-Human coders had access to video (tone, timing, nonverbal cues) while LLMs were text-only, potentially undercutting the machines' sensitivity to [[multimodal]] aspects of engagement. Framework refinement also differed: humans refined across three staged phases with consensus discussion, whereas agents refined at every iteration in isolation — an asymmetry that may partly explain the human–machine gap. Future work should test fine-tuning on human-refined data and explore hybrid human–agent and fully multi-agent annotation systems.
+Human coders had access to video (tone, timing, nonverbal cues) while LLMs were text-only, potentially undercutting the machines' sensitivity to [[multimodal|multimodal]] aspects of engagement. Framework refinement also differed: humans refined across three staged phases with consensus discussion, whereas agents refined at every iteration in isolation — an asymmetry that may partly explain the human–machine gap. Future work should test fine-tuning on human-refined data and explore hybrid human–agent and fully multi-agent annotation systems.
 
 ## Citation
 

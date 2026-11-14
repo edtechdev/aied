@@ -15,20 +15,20 @@ audience: [instructors, instructional designers, researchers]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Yang, Weng, and Yang investigate how [[llm]]-based agents can support English as a [[language-learning|Second Language]] (ESL) learners in acquiring grammar. They designed two [[agentic-ai|AI agents]] — one acting as a **conventional English [[teacher-role|teacher]]** and another using the **5E framework** (engage, explore, explain, elaborate, evaluate) for [[inquiry-based-learning|inquiry-based learning]]. **Thirty-seven ESL students** were randomly divided between the two agent conditions, with pre- and post-tests and interviews used to examine [[motivation|intrinsic motivation]], cognitive change, and performance.
+> **Synthesis:** Yang, Weng, and Yang investigate how [[llm|LLM]]-based agents can support English as a [[language-learning|Second Language]] (ESL) learners in acquiring grammar. They designed two [[agentic-ai|AI agents]] — one acting as a **conventional English [[teacher-role|teacher]]** and another using the **5E framework** (engage, explore, explain, elaborate, evaluate) for [[inquiry-based-learning|inquiry-based learning]]. **Thirty-seven ESL students** were randomly divided between the two agent conditions, with pre- and post-tests and interviews used to examine [[motivation|intrinsic motivation]], cognitive change, and performance.
 
 ## Key Findings
 
 - **High-performing students responded positively** to the AI teacher, benefiting from the structured support it provided.
 - **Low-performing students exhibited mixed attitudes**, suggesting that LLM-based grammar agents are not uniformly effective across proficiency levels.
 - The study reports differences in intrinsic motivation, cognitive change, and performance transformation between the conventional and 5E-framework agent conditions.
-- Findings point to the importance of matching agent design (e.g., 5E inquiry [[scaffolding]]) to learner needs and proficiency.
+- Findings point to the importance of matching agent design (e.g., 5E inquiry [[scaffolding|scaffolding]]) to learner needs and proficiency.
 
 ## What this means for practice
 
 - **Instructors.** Match the agent design to learner proficiency: reserve 5E-style inquiry agents for higher-performing learners and give lower-proficiency learners the more structured conventional agent.
 - **Instructors.** Run a pre- and post-check ([[motivation|intrinsic motivation]] plus a short grammar test) before adopting an agent for a unit, because a single 40-minute session produced no measurable acquisition advantage.
-- **Designers.** Build adaptive [[scaffolding]] into inquiry agents — simplified daily-life examples and visual right/wrong comparisons — so low-proficiency learners are not left adrift inside open exploration.
+- **Designers.** Build adaptive [[scaffolding|scaffolding]] into inquiry agents — simplified daily-life examples and visual right/wrong comparisons — so low-proficiency learners are not left adrift inside open exploration.
 - **Researchers.** Test learner-by-design interactions rather than average effects, since high- and low-performing learners responded to the same agent in opposite ways.
 
 ## Limitations

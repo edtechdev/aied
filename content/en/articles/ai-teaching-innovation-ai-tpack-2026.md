@@ -13,13 +13,13 @@ page_kind: [framework]
 technology: [technology-acceptance-model]
 ---
 
-> **Synthesis:** Bai and Hsieh (2026) set out to explain why some college teachers build genuinely new teaching practice around [[generative-ai|generative AI]] while others only adopt the tools. Drawing on the AI-[[tpack|AI-TPACK]] competence framework, Social Cognitive Theory, and professional identity theory, they surveyed 898 Chinese university teachers and modeled the paths from AI-related competence to AI teaching innovation behavior. Technical AI knowledge on its own did not predict innovation; what mattered was competence embedded in pedagogy and subject matter, working through [[ai-literacy]] and [[learner-identity|professional identity]].
+> **Synthesis:** Bai and Hsieh (2026) set out to explain why some college teachers build genuinely new teaching practice around [[generative-ai|generative AI]] while others only adopt the tools. Drawing on the AI-[[tpack|AI-TPACK]] competence framework, Social Cognitive Theory, and professional identity theory, they surveyed 898 Chinese university teachers and modeled the paths from AI-related competence to AI teaching innovation behavior. Technical AI knowledge on its own did not predict innovation; what mattered was competence embedded in pedagogy and subject matter, working through [[ai-literacy|AI literacy]] and [[learner-identity|professional identity]].
 
 ## Key Findings
 
 - **Isolated technical AI knowledge did not predict innovation.** Teachers who understood how GenAI tools work, or who could use them functionally, were no more likely to report generating and implementing new [[pedagogy|teaching practices]] than those who did not. Competence anchored in pedagogy and subject matter — knowing how to bring AI into one's discipline and how to align it with instructional strategy — is what showed up as innovation.
 
-- **Integrative AI-TPACK worked only indirectly.** The overarching integration construct had no direct link to innovative behavior at all. Whatever influence it carried ran entirely through [[ai-literacy]], teaching [[self-efficacy]], and [[learner-identity|professional identity]].
+- **Integrative AI-TPACK worked only indirectly.** The overarching integration construct had no direct link to innovative behavior at all. Whatever influence it carried ran entirely through [[ai-literacy|AI literacy]], teaching [[self-efficacy|self-efficacy]], and [[learner-identity|professional identity]].
 
 - **AI literacy was the strongest psychological route.** Of the three mediators, AI literacy carried the largest share of the association between competence and innovation, and it also fed the other two: teachers with stronger AI literacy reported both greater instructional confidence and a stronger sense of professional identity.
 
@@ -38,8 +38,8 @@ Participants completed established scales covering the seven AI-TPACK knowledge 
 ## What this means for practice
 
 - **Faculty developers.** Replace abstract tool sessions with problem-oriented redesign workshops in which teachers work through goal-setting, tool selection, activity design, and assessment for a real course, since [[educational-development|faculty development]] of that kind, not tool operation, is where innovation showed up — isolated technical AI knowledge had no link to innovative teaching.
-- **Faculty developers.** Make [[ai-literacy]] the priority mediator: it carried the largest share of the competence-to-innovation association and also raised instructional confidence and professional identity.
-- **Administrators.** Strengthen professional identity explicitly — frame AI integration as an extension of teaching responsibility and clarify how the [[teacher-role]] changes in AI-mediated instruction — through peer-sharing platforms and visible AI teaching cases, because identity mediated the competence-to-innovation link on every AI-TPACK dimension and mattered most among teachers who used GenAI rarely.
+- **Faculty developers.** Make [[ai-literacy|AI literacy]] the priority mediator: it carried the largest share of the competence-to-innovation association and also raised instructional confidence and professional identity.
+- **Administrators.** Strengthen professional identity explicitly — frame AI integration as an extension of teaching responsibility and clarify how the [[teacher-role|teacher role]] changes in AI-mediated instruction — through peer-sharing platforms and visible AI teaching cases, because identity mediated the competence-to-innovation link on every AI-TPACK dimension and mattered most among teachers who used GenAI rarely.
 - **Designers.** Stand up low-risk pilot classrooms and small innovation projects so integrative knowledge can convert into stable practice, giving less experienced users foundational operational guidance while frequent users get advanced collaboration resources.
 
 ## Limitations

@@ -25,7 +25,7 @@ audience: [instructional designers, instructors]
 
 ## The Maieutic Interaction Framework
 
-Instead of bypassing cognition, the Maieutic Interaction Framework returns cognitive friction to the user: the system withholds drafts and generates questions that prompt reflection, inverting the efficiency-oriented default in which generative tools write for users. For [[creativity]] support and [[writing-education]], the framework suggests that the *absence* of generated text can be a deliberate design feature rather than a deficiency, protecting the constructive thought process that the labor of articulation is meant to build.
+Instead of bypassing cognition, the Maieutic Interaction Framework returns cognitive friction to the user: the system withholds drafts and generates questions that prompt reflection, inverting the efficiency-oriented default in which generative tools write for users. For [[creativity|creativity]] support and [[writing-education|writing education]], the framework suggests that the *absence* of generated text can be a deliberate design feature rather than a deficiency, protecting the constructive thought process that the labor of articulation is meant to build.
 
 ## What this means for practice
 

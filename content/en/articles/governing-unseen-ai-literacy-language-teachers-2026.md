@@ -15,17 +15,17 @@ methods: [meta-analysis-systematic-review]
 institutions: [governance]
 ---
 
-> **Synthesis:** Deng, Çelik and Duran (2026) [[meta-analysis-systematic-review|systematically review]] 32 empirical and conceptual studies (Dec 2022 – Mar 2026) on [[ai-literacy]] among language teachers in [[higher-ed]], framed by the "governing the unseen" lens that prefigures [[educational-policy-ai|institutional policy]]. Guided by PRISMA 2020 and a critical-policy/sociomaterial thematic synthesis of ERIC, British Educational Index and Web of Science records, they find [[ai-literacy]] is overwhelmingly conceptualized through competency-based, multi-dimensional models whose critical and domain-specific dimensions remain underdeveloped. [[teacher-education]] is largely unstructured, [[assessment]] leans on self-report tools, and weak institutional support plus unclear responsibility blunt gains such as confidence and innovative [[teacher-role|teaching]]. The review concludes that durable, [[equity-in-ai-education|equitable]] AI literacy demands structural [[governance]] rather than individual [[lifelong-learning|upskilling]].
+> **Synthesis:** Deng, Çelik and Duran (2026) [[meta-analysis-systematic-review|systematically review]] 32 empirical and conceptual studies (Dec 2022 – Mar 2026) on [[ai-literacy|AI literacy]] among language teachers in [[higher-ed|higher education]], framed by the "governing the unseen" lens that prefigures [[educational-policy-ai|institutional policy]]. Guided by PRISMA 2020 and a critical-policy/sociomaterial thematic synthesis of ERIC, British Educational Index and Web of Science records, they find [[ai-literacy|AI literacy]] is overwhelmingly conceptualized through competency-based, multi-dimensional models whose critical and domain-specific dimensions remain underdeveloped. [[teacher-education|Teacher education]] is largely unstructured, [[assessment|assessment]] leans on self-report tools, and weak institutional support plus unclear responsibility blunt gains such as confidence and innovative [[teacher-role|teaching]]. The review concludes that durable, [[equity-in-ai-education|equitable]] AI literacy demands structural [[governance|governance]] rather than individual [[lifelong-learning|upskilling]].
 
 ## Key Findings
 
-**Conceptualization.** AI literacy among language teachers is most often modeled as a set of competencies spanning technological, [[pedagogy|pedagogical]] and (less so) critical-[[ethics|ethical]] dimensions. Domain-specific literacy — how AI reshapes language teaching's subject matter — is comparatively thin, echoing the knowledge base's broader finding that [[ai-literacy]] frameworks routinely under-specify disciplinary content.
+**Conceptualization.** AI literacy among language teachers is most often modeled as a set of competencies spanning technological, [[pedagogy|pedagogical]] and (less so) critical-[[ethics|ethical]] dimensions. Domain-specific literacy — how AI reshapes language teaching's subject matter — is comparatively thin, echoing the knowledge base's broader finding that [[ai-literacy|AI literacy]] frameworks routinely under-specify disciplinary content.
 
 **Four governance patterns.** Across the corpus, the authors identify four recurring "governing the unseen" patterns: (1) institutional invisibility of AI literacy in workload models, promotion policies, and resource allocation; (2) fragmented professional development rather than coherent, sustained PD; (3) ungoverned ethical ambiguity — unclear guidelines leave teachers to navigate moral and professional dilemmas individually; and (4) displaced accountability, where responsibility for AI literacy is shared or unclear across institutions, teacher-training programs and policy agencies.
 
-**Professional development.** Training is frequently ad-hoc, unstructured and unevenly planned, mirroring the "individual effort and experimentation" pattern documented across [[educational-development]]. Despite growing tool availability, the review finds little evidence of coherent, sustained PD models.
+**Professional development.** Training is frequently ad-hoc, unstructured and unevenly planned, mirroring the "individual effort and experimentation" pattern documented across [[educational-development|educational development]]. Despite growing tool availability, the review finds little evidence of coherent, sustained PD models.
 
-**Assessment.** Evaluation of teacher AI literacy relies heavily on self-report instruments, with limited attention to ethical and critical skills — consistent with [[assessment-validity]] concerns about measuring literacy via perception rather than performance.
+**Assessment.** Evaluation of teacher AI literacy relies heavily on self-report instruments, with limited attention to ethical and critical skills — consistent with [[assessment-validity|assessment validity]] concerns about measuring literacy via perception rather than performance.
 
 **Structural barriers.** Limited institutional support, unequal access to resources, unclear ethical guidelines, and shared/unclear responsibility reduce positive individual outcomes (confidence, innovation). The authors frame these as governance failures rather than individual deficits: unless there is a conscious effort to govern AI literacy, it will remain unevenly distributed, perpetuate existing inequalities, and place teachers in moral and professional dilemmas.
 
@@ -34,9 +34,9 @@ institutions: [governance]
 ## What this means for practice
 
 - **Faculty developers.** Replace one-off AI workshops with sustained, scaffolded professional development tied to language teachers' subject matter, since the corpus shows [[educational-development|PD]] is routinely ad hoc and short-lived rather than coherent.
-- **Administrators.** Formalize [[ai-literacy]] in workload models, promotion criteria and appraisal so that developing it counts as legitimate work rather than invisible individual effort.
+- **Administrators.** Formalize [[ai-literacy|AI literacy]] in workload models, promotion criteria and appraisal so that developing it counts as legitimate work rather than invisible individual effort.
 - **Instructors.** Pair tool training with explicit ethical guidance; ungoverned ambiguity currently leaves teachers to resolve moral and professional dilemmas alone.
-- **Researchers.** Move beyond self-report surveys toward performance-based, domain-specific measures of [[ai-literacy]] that capture critical and ethical dimensions.
+- **Researchers.** Move beyond self-report surveys toward performance-based, domain-specific measures of [[ai-literacy|AI literacy]] that capture critical and ethical dimensions.
 
 ## Limitations
 

@@ -12,7 +12,7 @@ audience: [administrators, instructors]
 technology: [technology-acceptance-model]
 ---
 
-> **Synthesis:** **AI anxiety, attitudes, and job-finding anxiety** — a large correlational survey of **1,057 university students across 35 Turkish universities** showing that higher AI anxiety and **negative attitudes toward AI are positively associated with job-finding anxiety**. Female students, social-science majors, and second-year students reported higher anxiety levels.
+> **Synthesis:** **[[anxiety-and-stress|AI anxiety]], attitudes, and job-finding anxiety** — a large correlational survey of **1,057 university students across 35 Turkish universities** showing that higher AI anxiety and **negative attitudes toward AI are positively associated with job-finding anxiety**. Female students, social-science majors, and second-year students reported higher anxiety levels.
 
 Üstün & Danacıoğlu (2026) scale up the career-anxiety evidence base, linking AI-related anxiety and attitudes directly to post-graduation **job-finding anxiety**. It complements the mechanism-focused studies ([[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]], [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang et al.]]) with population-level correlational breadth and demographic patterning.
 
@@ -26,7 +26,7 @@ technology: [technology-acceptance-model]
 
 - **Higher AI anxiety → higher job-finding anxiety.** AI-related anxiety is positively associated with post-graduation job-finding anxiety.
 - **Negative AI attitudes → higher job-finding anxiety.** Students with more negative attitudes toward AI report greater employment concern.
-- **Demographic patterning:** female students, social-science majors, and second-year students reported higher anxiety levels — pointing to [[equity-in-ai-education|equity]] dimensions of [[anxiety-and-stress]] and [[career-development-and-readiness]].
+- **Demographic patterning:** female students, social-science majors, and second-year students reported higher anxiety levels — pointing to [[equity-in-ai-education|equity]] dimensions of [[anxiety-and-stress|anxiety and stress]] and [[career-development-and-readiness|career development and readiness]].
 
 ## What this means for practice
 

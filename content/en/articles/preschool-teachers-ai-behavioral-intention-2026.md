@@ -14,7 +14,7 @@ methods: [quantitative-research]
 technology: [technology-acceptance-model]
 ---
 
-> **Synthesis:** Duan, Shan, and Gong examine what shapes preschool teachers' willingness to adopt AI in [[early-childhood-elementary-ai-education|early childhood]] classrooms. Grounded in an extended **[[technology-acceptance-model|Technology Acceptance Model]] (TAM)**, the study uses structural equation modeling to test how **perceived usefulness (PU)**, **perceived ease of use (PEOU)**, **subjective norm (SN)**, **[[anxiety-and-stress|AI anxiety]] (AIA)**, and **AI [[self-efficacy]] (AISE)** influence preschool teachers' behavioral intention to use AI.
+> **Synthesis:** Duan, Shan, and Gong examine what shapes preschool teachers' willingness to adopt AI in [[early-childhood-elementary-ai-education|early childhood]] classrooms. Grounded in an extended **[[technology-acceptance-model|Technology Acceptance Model]] (TAM)**, the study uses structural equation modeling to test how **perceived usefulness (PU)**, **perceived ease of use (PEOU)**, **subjective norm (SN)**, **[[anxiety-and-stress|AI anxiety]] (AIA)**, and **AI [[self-efficacy|self-efficacy]] (AISE)** influence preschool teachers' behavioral intention to use AI.
 
 ## Key Findings
 
@@ -25,7 +25,7 @@ technology: [technology-acceptance-model]
 
 ## What this means for practice
 
-- **Administrators.** Lower AI anxiety and raise [[self-efficacy]] with hands-on, low-stakes training, since AI self-efficacy predicted intention while AI anxiety deterred it.
+- **Administrators.** Lower AI anxiety and raise [[self-efficacy|self-efficacy]] with hands-on, low-stakes training, since AI self-efficacy predicted intention while AI anxiety deterred it.
 - **Teacher educators.** Give pre-service preschool teachers developmentally grounded experience with teacher-facing AI — lesson preparation, administration, materials — rather than child-facing tools.
 - **Designers.** Compete on perceived usefulness and ease of use for tools aimed at teachers' professional work; the study deliberately excluded AI applications directed at children.
 - **Administrators.** Require age-appropriateness review before any tool enters an early childhood setting, since adoption intent here is shaped by perceived value and social pressure rather than by developmental fit.

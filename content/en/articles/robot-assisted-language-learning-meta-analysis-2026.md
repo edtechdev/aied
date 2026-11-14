@@ -18,11 +18,11 @@ methods: [meta-analysis-systematic-review]
 
 ## Context
 
-Embodied robots are increasingly used to support second-language (L2) learning, yet evidence on when and why they help remains mixed. This [[meta-analysis-systematic-review|meta-analysis]] examines how robot design features and instructional conditions relate to L2 [[learning-gains|learning outcomes]], drawing on [[multimodal]] [[learning-theories|learning theory]] (MMLT) and [[sociocultural-learning|sociocultural theory]] (SCT). Following PRISMA 2020 guidelines, Web of Science and Scopus were searched for empirical studies using physically embodied, AI-enhanced robots in L2 settings with sufficient statistics for effect sizes.
+Embodied robots are increasingly used to support second-language (L2) learning, yet evidence on when and why they help remains mixed. This [[meta-analysis-systematic-review|meta-analysis]] examines how robot design features and instructional conditions relate to L2 [[learning-gains|learning outcomes]], drawing on [[multimodal|multimodal]] [[learning-theories|learning theory]] (MMLT) and [[sociocultural-learning|sociocultural theory]] (SCT). Following PRISMA 2020 guidelines, Web of Science and Scopus were searched for empirical studies using physically embodied, AI-enhanced robots in L2 settings with sufficient statistics for effect sizes.
 
 ## Key Findings
 
-- **Positive overall effect.** RALL had a positive overall effect on L2 learning (Hedges' g = 0.83, 95% CI [0.46, 1.21], p < .001), but high heterogeneity (I² = 84.4%) and a small evidence base warrant caution — a provisional [[benchmark]], not a settled value.
+- **Positive overall effect.** RALL had a positive overall effect on L2 learning (Hedges' g = 0.83, 95% CI [0.46, 1.21], p < .001), but high heterogeneity (I² = 84.4%) and a small evidence base warrant caution — a provisional [[benchmark|benchmark]], not a settled value.
 - **Interaction format is the key moderator.** Only robot-learner interaction format reached significance (p = .049), with **group-based** formats showing larger effects than one-on-one interaction.
 - **Technical features do not drive outcomes.** Robot morphology, communicative modality, autonomy, social role, and intervention duration did not significantly moderate outcomes.
 - **[[teacher-role|Teaching]]-assistant role showed the largest subgroup effect** (though social role was not independently significant, and is confounded with interaction format).
@@ -31,7 +31,7 @@ Embodied robots are increasingly used to support second-language (L2) learning, 
 ## What this means for practice
 
 - **Instructors.** Judge a robot by how it is integrated into the activity, not by its hardware or AI sophistication: morphology, modality, autonomy, social role, and duration did not moderate L2 outcomes.
-- **Instructors.** Design for group-based interaction, which was associated with larger effects than one-on-one pairings, and treat the robot as one participant in a socially organized task that supports peer [[scaffolding]] and shared attention.
+- **Instructors.** Design for group-based interaction, which was associated with larger effects than one-on-one pairings, and treat the robot as one participant in a socially organized task that supports peer [[scaffolding|scaffolding]] and shared attention.
 - **Instructors.** Invest in orchestration skill — aligning robot-mediated input with learning goals and managing turn-taking and timing — because effectiveness depended on how the robot was positioned within instruction.
 - **Administrators.** Treat the effect estimates as provisional guidance for local procurement and adoption decisions, given the small, heterogeneous evidence base and the substantial cost of these systems.
 

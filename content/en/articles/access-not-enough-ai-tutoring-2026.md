@@ -19,7 +19,7 @@ methods: [rct]
 
 ## The two RCTs
 
-- Districts A and B, elementary students, [[ai-literacy|AI literacy]] (reading) platform; treatment = in-person tutor focused on *[[student-engagement|engagement]]* (10-min check-in + 15 min platform + 2–5 min [[reflection]]), control = platform alone with the full ~30 min
+- Districts A and B, elementary students, [[ai-literacy|AI literacy]] (reading) platform; treatment = in-person tutor focused on *[[student-engagement|engagement]]* (10-min check-in + 15 min platform + 2–5 min [[reflection|reflection]]), control = platform alone with the full ~30 min
 - Pre-registered outcomes: minutes/week (usage) and stories read/week (engagement); spring ELA as achievement
 - Interventions lasted 14–31 weeks
 
@@ -28,7 +28,7 @@ methods: [rct]
 - Only **60.7% / 53.3% of control students ever used the platform**
 - Average weekly usage: **2.18 / 5.23 minutes**; even users-only averages were 13.2 / 25.8 minutes
 - Students used the platform in only **4–5 of 14–31 weeks**
-- Platform users skewed higher-achieving and less likely to receive [[special-education]] services — an [[equity-in-ai-education|equity flag]]: the students who need [[adaptive-learning|adaptive support]] most are least likely to engage
+- Platform users skewed higher-achieving and less likely to receive [[special-education|special education]] services — an [[equity-in-ai-education|equity flag]]: the students who need [[adaptive-learning|adaptive support]] most are least likely to engage
 
 ## What human support did
 

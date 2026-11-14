@@ -29,7 +29,7 @@ assessment: [assessment, learning-gains, automated-assessment]
 ## Key Findings
 
 1. **No study among the twelve measured all three conditions.** Assisted performance, an immediate no-AI test and a delayed one with verified exclusion never appeared in one design, so gains are not tied to retention.
-2. **Unrestricted access can cost unaided performance.** In school [[math-education|mathematics]], GPT access improved practice scores but was associated with a 17% lower unaided exam score than no-AI instruction; tutor [[guardrails]] removed the deficit.
+2. **Unrestricted access can cost unaided performance.** In school [[math-education|mathematics]], GPT access improved practice scores but was associated with a 17% lower unaided exam score than no-AI instruction; tutor [[guardrails|guardrails]] removed the deficit.
 3. **A longer interval does not reliably favor AI support.** A randomized Day-45 test put ChatGPT-supported study at 5.75/10 against 6.85/10 (p = 0.002, d = 0.68), with 29.2% attrition and no matched immediate baseline.
 4. **Retention contrasts are skill-specific.** One week after lexical tasks, [[conversational-ai|chatbot]]-supported learners led on productive collocation retention (6.15 versus 3.61/10, p < 0.001) while receptive vocabulary scores were similar (7.67 versus 7.58/10, p = 0.863).
 5. **Designed support looks different from unrestricted access.** Theory-informed tutoring and practice-with-feedback conditions produced immediate advantages, including a 13 pp. gain over lecture (p = 0.009), but those comparisons stopped at immediate or short-interval outcomes.

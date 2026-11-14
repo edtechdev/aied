@@ -43,7 +43,7 @@ The [[ai-literacy|AI Literacy]] synthesis identifies four dimensions, and they a
 - **Foundational understanding** of AI capabilities and limitations.
 - **Practical competence** using AI tools.
 - **[[critical-thinking|Critical evaluation]]** of accuracy, bias, appropriateness, and uncertainty.
-- **[[ethics|Ethical]] and institutional awareness** involving issues such as integrity, privacy, [[equity-in-ai-education|equity]], and [[governance]].
+- **[[ethics|Ethical]] and institutional awareness** involving issues such as integrity, privacy, [[equity-in-ai-education|equity]], and [[governance|governance]].
 
 For instructors, those dimensions need a pedagogical layer on top. Faculty should be able to decide what cognitive work students must retain, select AI uses that serve the learning objectives, design valid AI-era assessment, teach students to verify and regulate their own use, recognize [[hallucination-risk|hallucination]], overreliance and [[ai-sycophancy|sycophancy]], and know when [[human-in-the-loop-ai|human judgment]] should override automation.
 
@@ -57,13 +57,13 @@ Write the list down before you plan the sessions. Four dimensions plus a teachin
 
 A survey can even be predicted too well. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] classified 314 of 315 faculty into competence bands from a 300-item scale with α = 0.997 and no factor analysis, and institutional affiliation was the largest contributor — a sign the scores tracked where people work, not what they can do.
 
-Teacher [[agentic-ai|multi-agent]] workflow research adds a second reason to test rather than ask: systems thinking, pedagogical beliefs and [[self-efficacy]] interact in AI integration, so the same session lands differently on two faculty members with the same subject background. That argues for differentiated programming, and against the one-size-fits-all tool workshop that most institutions run.
+Teacher [[agentic-ai|multi-agent]] workflow research adds a second reason to test rather than ask: systems thinking, pedagogical beliefs and [[self-efficacy|self-efficacy]] interact in AI integration, so the same session lands differently on two faculty members with the same subject background. That argues for differentiated programming, and against the one-size-fits-all tool workshop that most institutions run.
 
 The cheap version of performance assessment is a task, not an instrument. Ask each participant to bring one assignment, revise it with the model during the session, and then defend the revision to a colleague: what changed, what it now assesses, what the student can no longer be graded on. That takes twenty minutes and tells you more than any end-of-day rating scale.
 
 ## Expect the weak spot to be integration
 
-Recent higher-education research puts numbers on where faculty competency is strong and where it breaks down. [[sutedjo-faculty-genai-tpack-21-2026|A survey of 127 faculty at a large U.S. research university]] using the [[tpack]]-21 instrument found self-perceived [[pedagogy|pedagogical]] content knowledge high (M = 4.70) and [[tpack|content knowledge]] near ceiling (M = 5.15). The technology-integrated domains were markedly lower: technological pedagogical knowledge (M = 2.62), technological content knowledge (M = 2.75), and holistic TPACK (M = 2.55, the lowest of seven).
+Recent higher-education research puts numbers on where faculty competency is strong and where it breaks down. [[sutedjo-faculty-genai-tpack-21-2026|A survey of 127 faculty at a large U.S. research university]] using the [[tpack|TPACK]]-21 instrument found self-perceived [[pedagogy|pedagogical]] content knowledge high (M = 4.70) and [[tpack|content knowledge]] near ceiling (M = 5.15). The technology-integrated domains were markedly lower: technological pedagogical knowledge (M = 2.62), technological content knowledge (M = 2.75), and holistic TPACK (M = 2.55, the lowest of seven).
 
 Read the gap correctly. These are people who know their subject and know how to teach it, and who do not know how to make a model part of either. Content expertise did not predict GenAI-integration knowledge (CK correlations r = .11 to .15, all non-significant), so a program cannot assume subject-matter mastery transfers. It has to build competence through deliberate, [[discipline-specific-aied|discipline-specific]] work.
 
@@ -83,7 +83,7 @@ Quality gains do not prove the practice was internalized. Thirteen teachers rede
 
 ## Cover the parts of the role beyond teaching
 
-Competency is also an institutional question, and most frameworks answer only part of it. [[crompton-faculty-technology-integration-standards-2026|Design-based research with 114 participants across 28 U.S. institutions and 11 countries]] produced six faculty technology standards spanning the full academic role: Instructor, Coordinator, Leader, Researcher, Learner and Contributor. The authors' reason for building them is the useful part. Existing frameworks ([[tpack]], [[samr-model|SAMR]]) and educator standards (ISTE, UNESCO, DigCompEdu) address [[k-12]] teachers or cover only the teaching dimension.
+Competency is also an institutional question, and most frameworks answer only part of it. [[crompton-faculty-technology-integration-standards-2026|Design-based research with 114 participants across 28 U.S. institutions and 11 countries]] produced six faculty technology standards spanning the full academic role: Instructor, Coordinator, Leader, Researcher, Learner and Contributor. The authors' reason for building them is the useful part. Existing frameworks ([[tpack|TPACK]], [[samr-model|SAMR]]) and educator standards (ISTE, UNESCO, DigCompEdu) address [[k-12]] teachers or cover only the teaching dimension.
 
 For a faculty developer, that reframes the request. A department asking for an AI workshop for its instructors is asking about one of six roles. The same department's coordinators are making program-level decisions, its researchers are writing with these tools, and its leaders are approving purchases. One session cannot serve all of them, and pretending otherwise is how a program ends up with high attendance and no change in practice.
 

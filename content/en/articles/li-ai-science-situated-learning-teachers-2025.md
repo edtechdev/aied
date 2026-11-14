@@ -20,14 +20,14 @@ level: [k 12, teacher education]
 ## Key Findings
 
 - **AI enhances conceptual understanding and higher-order scientific skills.** Dynamic simulations and [[visualization|visualizations]] lower cognitive barriers and deepen comprehension beyond rote memorization, while supporting experimental design, inquiry, hypothesis testing, data analysis, modeling, argumentation, and creative exploration.
-- **AI transforms [[learner-identity|learner identity]] and [[agency]].** Students transition from "knowledge learners" to "scientific practitioners," internalizing autonomy, confidence, and a scientific identity through [[authentic-assessment|authentic tasks]] and low-risk experimentation in [[feedback]]-rich environments.
+- **AI transforms [[learner-identity|learner identity]] and [[agency|agency]].** Students transition from "knowledge learners" to "scientific practitioners," internalizing autonomy, confidence, and a scientific identity through [[authentic-assessment|authentic tasks]] and low-risk experimentation in [[feedback|feedback]]-rich environments.
 - **AI deepens classroom interaction and social construction.** AI-enabled real-time feedback and shared data foster collaborative inquiry, role division, and critical conversation ("thinking-negotiating-optimizing"), while teachers move to facilitators, questioners, and co-investigators and take on new roles as ethical supervisors of [[ai-literacy|responsible AI use]].
 - **AI enables authentic, contextualized, and boundary-crossing learning.** [[simulation|Virtual labs and simulations]] let students experience distant, hazardous, or imperceptible phenomena, bridge virtual and real-world practice, and connect scientific knowledge to real-life and cross-disciplinary contexts.
-- **Teachers are optimistic yet concerned.** Teachers envision immersive, personalized AI futures but worry about being replaced and about [[cognitive-offloading|overreliance]] degrading independent thinking, hands-on experimentation, and [[problem-solving]] abilities.
+- **Teachers are optimistic yet concerned.** Teachers envision immersive, personalized AI futures but worry about being replaced and about [[cognitive-offloading|overreliance]] degrading independent thinking, hands-on experimentation, and [[problem-solving|problem-solving]] abilities.
 
 ## What this means for practice
 
-- **Instructors.** Score students' unaided reasoning alongside the AI-assisted artifact, because the interviewed teachers paired praise for simulations with fear that overreliance erodes hands-on experimentation and [[problem-solving]].
+- **Instructors.** Score students' unaided reasoning alongside the AI-assisted artifact, because the interviewed teachers paired praise for simulations with fear that overreliance erodes hands-on experimentation and [[problem-solving|problem-solving]].
 - **Instructors.** Assign rotating roles across an AI-supported inquiry — hypothesis designer, data analyst, and critical questioner of the model's output — so AI works as a mediational artifact rather than as the source of answers.
 - **Instructors.** Run a short audit task in which students check an AI-generated scientific claim for sourcing, bias, and data provenance, mirroring the "ethical supervisor" role the teachers described taking on.
 - **Teacher educators.** Have candidates design a lesson whose stated teacher role is co-investigator rather than transmitter, then debrief how it changed the questions they asked, since the fourteen teachers framed this identity shift as their central adaptation to AI.

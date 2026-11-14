@@ -56,7 +56,7 @@ The paper also engages the counter-argument fairly: if AI polishing flattens lin
 
 ## Limitations
 
-- The multi-tool audit is documented but exploratory and single-manuscript: one human-authored text, five tools, one date, so it establishes inconsistency rather than an error rate, and the archived artifacts are what make it verifiable rather than a [[benchmark]].
+- The multi-tool audit is documented but exploratory and single-manuscript: one human-authored text, five tools, one date, so it establishes inconsistency rather than an error rate, and the archived artifacts are what make it verifiable rather than a [[benchmark|benchmark]].
 - The humanizer comparison is a paired exploratory test on one manuscript; the paper reports that it also produced residual meaning changes in a subset of sentences, so it should not be read as a clean measurement of the humanizer's effect on detection scores.
 - The cross-version observation is confounded by document and model-version changes together, which the paper acknowledges rather than resolving.
 - The process-oriented model is a proposal; it is not evaluated here against detection on outcomes such as misconduct rates, [[student-experience|student experience]], or administrative cost.

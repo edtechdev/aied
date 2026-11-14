@@ -14,9 +14,9 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Ngai & Gilbert (2026) show that a brief metacognitive training intervention — just five practice trials pairing [[learning-gains|performance]] prediction with feedback — improves metacognitive calibration and makes people's [[cognitive-offloading]] strategy choices measurably more optimal, resolving earlier mixed findings about whether metacognitive training translates into actual offloading behavior.
+> **Synthesis:** Ngai & Gilbert (2026) show that a brief metacognitive training intervention — just five practice trials pairing [[learning-gains|performance]] prediction with [[feedback|feedback]] — improves metacognitive calibration and makes people's [[cognitive-offloading|cognitive offloading]] strategy choices measurably more optimal, resolving earlier mixed findings about whether metacognitive training translates into actual offloading behavior.
 
-Ngai and Gilbert (2026) report two preregistered experiments testing whether a brief metacognitive intervention can reduce systematic biases in [[cognitive-offloading]]. People are known to offload suboptimally — most commonly over-using external reminders even when internal memory would earn more reward — a bias linked to miscalibrated [[metacognition|metacognitive confidence]]. Prior attempts to shift offloading via metacognitive interventions produced inconsistent results, so this study tested a tightly-specified training recipe under conditions designed to isolate metacognitive effects.
+Ngai and Gilbert (2026) report two preregistered experiments testing whether a brief metacognitive intervention can reduce systematic biases in [[cognitive-offloading|cognitive offloading]]. People are known to offload suboptimally — most commonly over-using external reminders even when internal memory would earn more reward — a bias linked to miscalibrated [[metacognition|metacognitive confidence]]. Prior attempts to shift offloading via metacognitive interventions produced inconsistent results, so this study tested a tightly-specified training recipe under conditions designed to isolate metacognitive effects.
 
 ## The Intervention
 
@@ -39,7 +39,7 @@ The authors attribute their success — versus Engeler & Gilbert (2020) and Grin
 
 ## Connections to the Knowledge Base
 
-This study provides strong empirical grounding for the knowledge base's [[cognitive-offloading]] and [[metacognition]] concepts, converging with the metacognitive beliefs-vs-experiences framework from [[cognitive-offloading-metacognitive-review-2026|Guo & Ye (2026)]]: experience-targeting feedback (immediate performance feedback) is what drives change, while beliefs alone (predictions without feedback) do not. It also bears on [[cognitive-offloading|Over-Reliance]] (reminder bias is a laboratory analogue of over-reliance), [[feedback]] (design principles for effective feedback), and [[self-regulated-learning]] (calibration as a trainable [[regulation|regulatory]] skill).
+This study provides strong empirical grounding for the knowledge base's [[cognitive-offloading|cognitive offloading]] and [[metacognition|metacognition]] concepts, converging with the metacognitive beliefs-vs-experiences framework from [[cognitive-offloading-metacognitive-review-2026|Guo & Ye (2026)]]: experience-targeting feedback (immediate performance feedback) is what drives change, while beliefs alone (predictions without feedback) do not. It also bears on [[cognitive-offloading|Over-Reliance]] (reminder bias is a laboratory analogue of over-reliance), [[feedback|feedback]] (design principles for effective feedback), and [[self-regulated-learning|self-regulated learning]] (calibration as a trainable [[regulation|regulatory]] skill).
 
 ## What this means for practice
 

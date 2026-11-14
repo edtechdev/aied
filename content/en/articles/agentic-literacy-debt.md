@@ -14,7 +14,7 @@ confidence: high
 institutions: [educational-policy-ai, governance]
 ---
 
-> **Synthesis:** Nama (2026) names **agentic literacy debt** — the accumulating societal deficit that grows when [[agentic-ai|agentic AI]] systems are deployed at scale without corresponding [[ai-literacy|literacy infrastructure]]. Existing AI literacy frameworks were built for a world of *tools* where humans evaluate outputs and decide; autonomous AI agents instead *plan, decide, and act* without step-by-step approval, breaking the three assumptions (evaluation, reversibility, control) every current literacy model depends on. The debt compounds through three reinforcing channels (normalization of opaque delegation, multi-agent ecosystem complexity, institutional path dependence), is **incurred by deploying organizations but paid by users, patients, and citizens**, and demands reframing AI literacy from an *evaluative* competency to a *[[governance]]* capability.
+> **Synthesis:** Nama (2026) names **agentic literacy debt** — the accumulating societal deficit that grows when [[agentic-ai|agentic AI]] systems are deployed at scale without corresponding [[ai-literacy|literacy infrastructure]]. Existing AI literacy frameworks were built for a world of *tools* where humans evaluate outputs and decide; autonomous AI agents instead *plan, decide, and act* without step-by-step approval, breaking the three assumptions (evaluation, reversibility, control) every current literacy model depends on. The debt compounds through three reinforcing channels (normalization of opaque delegation, multi-agent ecosystem complexity, institutional path dependence), is **incurred by deploying organizations but paid by users, patients, and citizens**, and demands reframing AI literacy from an *evaluative* competency to a *[[governance|governance]]* capability.
 
 ## From Tool to Agent: The Assumptions That Break
 
@@ -36,7 +36,7 @@ Unlike ethical debt (incurred at the point of *design*), agentic literacy debt i
 
 ## Evidence the Gap Is Already Consequential
 
-- **Security ([[guardrails|prompt injection]]):** The OpenClaw "walletdrain" attacks and the EchoLeak vulnerability (CVE-2025-32711) showed agents manipulated through data channels users never see — no AI literacy [[curriculum-design|curriculum]] teaches users to anticipate, monitor, or contest this. Indirect [[guardrails|prompt injection]] is OWASP's number-one production [[llm]] risk.
+- **Security ([[guardrails|prompt injection]]):** The OpenClaw "walletdrain" attacks and the EchoLeak vulnerability (CVE-2025-32711) showed agents manipulated through data channels users never see — no AI literacy [[curriculum-design|curriculum]] teaches users to anticipate, monitor, or contest this. Indirect [[guardrails|prompt injection]] is OWASP's number-one production [[llm|LLM]] risk.
 - **Healthcare:** [[agentic-ai|Agentic AI]] for triage/scheduling is expanding rapidly (~\$538M market in 2024), yet users systematically overtrust AI medical advice despite low accuracy, and [[trust-calibration|trust calibration]] failures carry higher stakes when agents act rather than advise.
 - **Fraud:** [[generative-ai|GenAI]]-enabled banking fraud losses are projected at \$22–40B by 2027; attacks increasingly target the agents acting on users' behalf, bypassing the user entirely.
 - **[[digital-divide|Global equity]]:** Populations most exposed to the literacy gap (e.g., lower rural internet access in Asia-Pacific) are also least served by AI literacy [[research-methods-aied|research]] — no AI literacy scale has been tested for cross-cultural validity.
@@ -47,7 +47,7 @@ The gap is structural because deployment speed (product cycles in months) far ou
 
 ## The Governance Reframing
 
-The EU AI Act Article 4 creates the world's first binding [[ai-literacy|AI literacy]] obligation, yet its guidance doesn't specify what literacy means in agentic contexts. Nama argues literacy must shift from evaluative to [[governance]] — from "can you spot AI errors?" to "do you understand what you've delegated, and can you contest it?" This requires new **principal-side competencies**:
+The EU AI Act Article 4 creates the world's first binding [[ai-literacy|AI literacy]] obligation, yet its guidance doesn't specify what literacy means in agentic contexts. Nama argues literacy must shift from evaluative to [[governance|governance]] — from "can you spot AI errors?" to "do you understand what you've delegated, and can you contest it?" This requires new **principal-side competencies**:
 
 - **Delegation** — understanding what authority one is granting
 - **Oversight** — monitoring and constraining agent actions

@@ -51,8 +51,8 @@ Bias and unfairness in educational AI are not one problem. The research document
 
 **Post-hoc parity fixes.** Every intervention in the early-warning study either redistributed errors, corrected the already-advantaged, or achieved parity by making a group less visible. Fixing the pipeline beats patching the output.
 
-**One mitigation done once.** Bias re-enters through data, prompts, scoring, and deployment; the research shows complementary strategies (fair training objectives, prompt design, dialect invariance, scoring that separates understanding from language, explainability, human oversight) precisely because no single fix covers the pipeline ([[bias-mitigation]]).
+**One mitigation done once.** Bias re-enters through data, prompts, scoring, and deployment; the research shows complementary strategies (fair training objectives, prompt design, dialect invariance, scoring that separates understanding from language, explainability, human oversight) precisely because no single fix covers the pipeline ([[bias-mitigation|bias mitigation]]).
 
 ## Where to go deeper
 
-The [[bias-mitigation]] page catalogues sources and mitigation approaches across the pipeline; [[equity-in-ai-education]] covers the access, representation, and outcome dimensions with evidence for each; [[automation-bias]] covers the reader-side failure — over-trusting a biased or merely wrong recommendation; and [[differential-effects-across-learner-groups]] collects the studies that trace how the same tool lands differently on different groups.
+The [[bias-mitigation|bias mitigation]] page catalogues sources and mitigation approaches across the pipeline; [[equity-in-ai-education|equity]] covers the access, representation, and outcome dimensions with evidence for each; [[automation-bias|automation bias]] covers the reader-side failure — over-trusting a biased or merely wrong recommendation; and [[differential-effects-across-learner-groups|differential effects across learner groups]] collects the studies that trace how the same tool lands differently on different groups.

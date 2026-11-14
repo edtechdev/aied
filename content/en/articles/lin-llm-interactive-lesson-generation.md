@@ -14,11 +14,11 @@ confidence: high
 level: [teacher education]
 ---
 
-> **Synthesis:** Lin et al. (2025) explore automatic generation of interactive, scenario-based lessons designed to train novice human tutors who teach middle-school [[math-education|mathematics]] online. The system combines [[prompt-engineering|prompt engineering]] with a [[rag|Retrieval-Augmented Generation]] (RAG) approach on GPT-4o, generating lessons in English for three tutor-training topics (Encouraging Students' Independence, Encouraging [[help-seeking|Help-Seeking]] Behavior, Turning on Cameras). The key finding is that a **task decomposition** prompting strategy — breaking lesson generation into segments — produced higher-rated lessons than single-step generation, with a three-segment approach scoring highest. Two human evaluators rated the lessons using a rubric informed by lesson design [[research-methods-aied|research]] (Cohen's κ = 0.72), identifying strengths (well-structured content, time-saving) and limitations (generic [[feedback]], unclear sections, unreliable references), supporting a hybrid [[human-ai-collaboration|human–AI lesson-generation]] workflow.
+> **Synthesis:** Lin et al. (2025) explore automatic generation of interactive, scenario-based lessons designed to train novice human tutors who teach middle-school [[math-education|mathematics]] online. The system combines [[prompt-engineering|prompt engineering]] with a [[rag|Retrieval-Augmented Generation]] (RAG) approach on GPT-4o, generating lessons in English for three tutor-training topics (Encouraging Students' Independence, Encouraging [[help-seeking|Help-Seeking]] Behavior, Turning on Cameras). The key finding is that a **task decomposition** prompting strategy — breaking lesson generation into segments — produced higher-rated lessons than single-step generation, with a three-segment approach scoring highest. Two human evaluators rated the lessons using a rubric informed by lesson design [[research-methods-aied|research]] (Cohen's κ = 0.72), identifying strengths (well-structured content, time-saving) and limitations (generic [[feedback|feedback]], unclear sections, unreliable references), supporting a hybrid [[human-ai-collaboration|human–AI lesson-generation]] workflow.
 
 ## Context and motivation
 
-One-on-one human tutoring is highly effective but difficult to scale due to a scarcity of skilled tutors. [[educational-development|Professional development]] programs train novice tutors, and online scenario-based training has emerged as a promising approach — but manually constructing the lessons at its center is time-consuming and expertise-heavy, making it costly to scale. The authors address this with [[llm]]-based automatic lesson generation.
+One-on-one human tutoring is highly effective but difficult to scale due to a scarcity of skilled tutors. [[educational-development|Professional development]] programs train novice tutors, and online scenario-based training has emerged as a promising approach — but manually constructing the lessons at its center is time-consuming and expertise-heavy, making it costly to scale. The authors address this with [[llm|LLM]]-based automatic lesson generation.
 
 ## Method
 
@@ -36,7 +36,7 @@ Human lesson designers identified several strengths: substantial time savings in
 
 - **Designers.** Decompose lesson generation into a small number of sub-tasks — three segments produced the highest-rated lessons in this system — rather than prompting the model for a whole lesson at once.
 - **Designers.** Require human verification of every citation: [[rag|RAG]] improved contextual relevance but the model still generated references that did not exist, even at the best segmentation setting.
-- **Designers.** Ask explicitly for per-option rationales, because generated [[feedback]] mostly explained only the correct answer and left the distractors unexplained.
+- **Designers.** Ask explicitly for per-option rationales, because generated [[feedback|feedback]] mostly explained only the correct answer and left the distractors unexplained.
 - **Designers.** Constrain terminology and section length in the prompt: generated lessons mixed "learners", "teachers", and "tutors", and produced instruction sections that were overly long and logically disconnected.
 - **Researchers.** Treat automated generation as a way to scale tutor-training content and test its learning effects directly, since the quality evidence here comes from human ratings of the lessons rather than from learner outcomes.
 

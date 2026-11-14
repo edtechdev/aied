@@ -13,7 +13,7 @@ page_kind: [framework, evaluation]
 methods: [ai-ed-evaluation, benchmark]
 ---
 
-> **Synthesis:** **Interpretable [[knowledge-tracing|Knowledge Tracing]]** — A novel framework for dialogue-based Knowledge Tracing that explicitly models both student ability and tutor-turn difficulty using Item Response Theory, producing interpretable cognitive quantities from [[llm]] output logits. Addresses two critical gaps in prior work: ignored question difficulty and opaque latent representations that undermine tutor trust.
+> **Synthesis:** **Interpretable [[knowledge-tracing|Knowledge Tracing]]** — A novel framework for dialogue-based Knowledge Tracing that explicitly models both student ability and tutor-turn difficulty using [[item-response-theory|Item Response Theory]], producing interpretable cognitive quantities from [[llm|LLM]] output logits. Addresses two critical gaps in prior work: ignored question difficulty and opaque latent representations that undermine tutor trust.
 
 **Shuyan Huang, Alexander Scarlatos, Jaewook Lee, Andrew Lan** (UMass Amherst) — arXiv:2605.01097, May 2026.
 
@@ -25,7 +25,7 @@ Huang et al. propose an **interpretable difficulty-aware conversational KT frame
 
 1. **Knowledge Estimator** — Extracts next-token logits for vocabulary tokens "GOOD" and "BAD" from the LLM's output layer after processing the dialogue history. Student ability θ = z^GOOD − z^BAD, producing a scalar that represents the model's latent assessment of the student's current knowledge state.
 2. **Difficulty Estimator** — Similarly extracts logits for "HARD" and "EASY" to compute tutor-turn difficulty d = z^HARD − z^EASY. This captures how challenging the current tutor utterance is, independent of the student's ability.
-3. **IRT-based Predictor** — Combines θ and d using a 1PL (Rasch) model with a learnable scalar α: p(correct) = 1 / (1 + exp(−α(θ − d))). This mirrors classical [[item-response-theory]] formulations where the probability of a correct response depends on the difference between ability and difficulty.
+3. **IRT-based Predictor** — Combines θ and d using a 1PL (Rasch) model with a learnable scalar α: p(correct) = 1 / (1 + exp(−α(θ − d))). This mirrors classical [[item-response-theory|item response theory]] formulations where the probability of a correct response depends on the difference between ability and difficulty.
 
 The framework was evaluated on two datasets: **QATD2k** (real-world dialogues from the Eedi math tutoring platform, 1,573 train / 393 test) and **MathDial** (simulated dialogues with GPT-3.5 students and crowd-sourced tutors, 2,235 train / 588 test). It was compared against five deep learning baselines (DKT, DKVMN, SAINT, AKT, simpleKT) and one LLM-based baseline (LLMKT).
 
@@ -36,10 +36,10 @@ The key insight is that both student knowledge and task difficulty are explicitl
 ## What this means for practice
 
 - **Instructors.** Read the two reported quantities rather than the bare prediction: student ability θ = z^GOOD − z^BAD and tutor-turn difficulty d = z^HARD − z^EASY are exposed at every dialogue turn, so a low θ is not mistaken for weak knowledge when the tutor has simply asked a harder question.
-- **Instructors.** Use the difficulty estimate to choose the next move: because d is estimated independently of student ability, [[scaffolding]] can be raised or lowered on evidence rather than on how the last answer felt.
-- **Designers.** Build threshold alerts on θ and longitudinal θ trajectories into [[intelligent-tutoring]] [[visualization|dashboards]] and use d to author tutor turns, since a human tutor can inspect both quantities at any turn and act on them.
+- **Instructors.** Use the difficulty estimate to choose the next move: because d is estimated independently of student ability, [[scaffolding|scaffolding]] can be raised or lowered on evidence rather than on how the last answer felt.
+- **Designers.** Build threshold alerts on θ and longitudinal θ trajectories into [[intelligent-tutoring|intelligent tutoring]] [[visualization|dashboards]] and use d to author tutor turns, since a human tutor can inspect both quantities at any turn and act on them.
 - **Designers.** Reuse the model's own next-token probabilities for cognitive signals instead of training separate classifiers, and budget compute accordingly: the framework adds only a 1PL (Rasch) predictor p(correct) = 1 / (1 + exp(−α(θ − d))) on top of Llama-3.1-8B-Instruct.
-- **Researchers.** Validate interpretability with real tutors before deployment — accuracy was established on QATD2k (64.29% accuracy, 65.25 AUC) and MathDial (68.82% accuracy, 76.59 AUC), but no study has yet asked tutors whether θ and d change their decisions, and single-ability [[student-modeling]] may not hold in multi-skill settings.
+- **Researchers.** Validate interpretability with real tutors before deployment — accuracy was established on QATD2k (64.29% accuracy, 65.25 AUC) and MathDial (68.82% accuracy, 76.59 AUC), but no study has yet asked tutors whether θ and d change their decisions, and single-ability [[student-modeling|student modeling]] may not hold in multi-skill settings.
 
 ## Limitations
 

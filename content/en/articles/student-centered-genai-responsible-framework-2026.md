@@ -16,7 +16,7 @@ page_kind: [framework]
 institutions: [governance]
 ---
 
-> **Synthesis:** Alsammani (2026) proposes a student-facing framework for responsible [[generative-ai]] use in [[higher-ed]]: ten actionable guidelines organized around three pillars — Learning and Growth, [[ethics]] and Integrity, and Awareness and Safety. Drawing on a structured interpretive synthesis of 2023–2026 [[research-methods-aied|research]] and major policy frameworks, the paper argues the three pillars are jointly necessary because each addresses a distinct, empirically documented failure mode, and that portable student-facing guidelines can support responsible use by externalizing [[metacognition|metacognitive]] prompts that unguided AI use tends to weaken. The framework is distinctive in being student-facing, course-agnostic, and actionable at the point of decision, and it specifies five empirically testable propositions.
+> **Synthesis:** Alsammani (2026) proposes a student-facing framework for responsible [[generative-ai|generative AI]] use in [[higher-ed|higher education]]: ten actionable guidelines organized around three pillars — Learning and Growth, [[ethics|ethics]] and Integrity, and Awareness and Safety. Drawing on a structured interpretive synthesis of 2023–2026 [[research-methods-aied|research]] and major policy frameworks, the paper argues the three pillars are jointly necessary because each addresses a distinct, empirically documented failure mode, and that portable student-facing guidelines can support responsible use by externalizing [[metacognition|metacognitive]] prompts that unguided AI use tends to weaken. The framework is distinctive in being student-facing, course-agnostic, and actionable at the point of decision, and it specifies five empirically testable propositions.
 
 ## The Gap Between Policy and the Moment of Decision
 
@@ -26,8 +26,8 @@ institutions: [governance]
 
 The framework organizes student-facing guidance around three jointly necessary pillars:
 
-1. **Learning and Growth** — guidelines that help students use AI to deepen learning rather than bypass it, supporting [[self-regulated-learning]] and [[metacognition]].
-2. **Ethics and Integrity** — guidelines addressing [[academic-integrity]], attribution, and the honest [[ai-use-disclosure|disclosure of AI use]].
+1. **Learning and Growth** — guidelines that help students use AI to deepen learning rather than bypass it, supporting [[self-regulated-learning|self-regulated learning]] and [[metacognition|metacognition]].
+2. **Ethics and Integrity** — guidelines addressing [[academic-integrity|academic integrity]], attribution, and the honest [[ai-use-disclosure|disclosure of AI use]].
 3. **Awareness and Safety** — guidelines covering [[critical-thinking|critical evaluation]] of AI output, privacy, and awareness of the limits and risks of generative tools.
 
 The argument is that the three pillars are jointly necessary because each addresses a distinct, empirically documented failure mode of unguided AI use. Because unguided use can weaken the [[metacognition|metacognitive]] prompts that support responsible decisions, the portable set of guidelines works by externalizing those prompts into explicit, actionable checks at the point of decision.

@@ -26,7 +26,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Zhu (2026) reports two studies on how Chinese art students take up [[generative-ai|generative AI]] in studio work. Study 1 fits a [[technology-acceptance-model|UTAUT]] model with an added [[trust]] construct to cross-sectional survey data from 450 art majors in Zhejiang, and finds trust the strongest direct correlate of behavioral intention (β = 0.425), ahead of every classic acceptance path. Social influence was the strongest correlate of trust (β = 0.262), and 42.1% of its total association with intention ran through trust. [[metacognition|Metacognitive control]] carried a direct path to intention (β = 0.146) and a smaller path to trust (β = 0.099). Study 2 randomized 80 of those students to four-stage metacognitive prompts or a control task and had three blinded experts rate the resulting images: prompted students scored higher on semantic content (*d* = 0.67), visual style (*d* = 1.30) and spatial composition (*d* = 0.63). The studies converge on metacognitive control but test different outcomes, and the trust pathway exists only in the survey.
+> **Synthesis:** Zhu (2026) reports two studies on how Chinese art students take up [[generative-ai|generative AI]] in studio work. Study 1 fits a [[technology-acceptance-model|UTAUT]] model with an added [[trust|trust]] construct to cross-sectional survey data from 450 art majors in Zhejiang, and finds trust the strongest direct correlate of behavioral intention (β = 0.425), ahead of every classic acceptance path. Social influence was the strongest correlate of trust (β = 0.262), and 42.1% of its total association with intention ran through trust. [[metacognition|Metacognitive control]] carried a direct path to intention (β = 0.146) and a smaller path to trust (β = 0.099). Study 2 randomized 80 of those students to four-stage metacognitive prompts or a control task and had three blinded experts rate the resulting images: prompted students scored higher on semantic content (*d* = 0.67), visual style (*d* = 1.30) and spatial composition (*d* = 0.63). The studies converge on metacognitive control but test different outcomes, and the trust pathway exists only in the survey.
 
 ## Key Findings
 
@@ -59,7 +59,7 @@ Social influence's prominence gets a more interesting reading. In traditional ac
 
 ## Metacognitive control as a disposition and as a prompt
 
-The construct has four parts: planning interaction strategy before generation, monitoring whether outputs serve the goal, regulating the approach in response to [[feedback]], and maintaining explicit awareness of the human–AI division of labor. The theoretical argument for why art needs more of it is not that creative tasks are harder but that their stopping rules are unclear, so the creator must repeatedly decide what to keep, revise or discard.
+The construct has four parts: planning interaction strategy before generation, monitoring whether outputs serve the goal, regulating the approach in response to [[feedback|feedback]], and maintaining explicit awareness of the human–AI division of labor. The theoretical argument for why art needs more of it is not that creative tasks are harder but that their stopping rules are unclear, so the creator must repeatedly decide what to keep, revise or discard.
 
 Study 1 measured this as an individual difference and found the smallest antecedent path to trust in the model, β = 0.099 at *p* = 0.042, close enough to threshold that it should not carry much weight. Its path to intention, β = 0.146, was more secure and mostly direct. Study 2 manipulated only the situational layer, with prompts aligned to the same four dimensions, and produced the largest effect on visual style. The authors suggest this is where procedural guidance most plausibly moves output, because it pushes against the model's default stylistic tendencies.
 
@@ -68,7 +68,7 @@ The caution they attach is important. Greater within-group feature dispersion me
 ## What this means for practice
 
 - **[[teacher-role|Instructors]].** Teach the process, not just the tool. Structured prompt worksheets that state creative goals before generation, revision logs that record why a prompt changed, and comparative critique of raw versus human-refined outputs all target the four dimensions the paper operationalizes, and the experimental arm suggests a single session of this is enough to shift output.
-- **[[curriculum-design|Curriculum designers]].** [[prompt-engineering|Prompt-engineering]] tricks are the wrong unit of instruction on their own. The paper's argument is that passive acceptance of formulaic output is a metacognitive failure, so [[assessment]] should weight planning documents, iteration records and role-boundary [[reflection|reflections]] alongside the final image.
+- **[[curriculum-design|Curriculum designers]].** [[prompt-engineering|Prompt-engineering]] tricks are the wrong unit of instruction on their own. The paper's argument is that passive acceptance of formulaic output is a metacognitive failure, so [[assessment|assessment]] should weight planning documents, iteration records and role-boundary [[reflection|reflections]] alongside the final image.
 - **Program leads.** Legitimacy is a lever. Because social influence was the strongest correlate of trust, how instructors and departments frame generative AI as an acceptable medium is not incidental messaging; in this sample it was the dominant route into trust.
 - **Researchers.** The obvious next instrument is a validated art-specific trust scale. With two of five items carrying value-laden content and the authorship items discarded at the exploratory stage, the field currently has no measure that separates instrumental reliability from judgments about originality, attribution and fairness.
 
@@ -78,7 +78,7 @@ The caution they attach is important. Greater within-group feature dispersion me
 - The trust scale is predominantly instrumental. The two authorship items were dropped after forming their own factor in a pilot of 121 students, leaving originality and fairness as the only art-specific content.
 - Participants are art majors at higher education institutions in Zhejiang Province only; the authors flag that regional norms about authorship and institutional [[educational-policy-ai|AI policy]] may change the balance between instrumental and value-based trust.
 - Study 2 used 80 students, one model (Nano Banana 2, accessed as a preview build over two days in May 2026), two fixed keywords and a single 15-minute task, so the effect sizes are laboratory estimates.
-- Expert reliability was moderate (ICC 0.635 to 0.692), and the rating scale measures aesthetic quality rather than [[creativity]], which the authors state directly.
+- Expert reliability was moderate (ICC 0.635 to 0.692), and the rating scale measures aesthetic quality rather than [[creativity|creativity]], which the authors state directly.
 - The design cannot test the collective creativity paradox, since it measured dispersion within groups rather than the distribution of outputs across independent users of one model.
 
 ## Citation

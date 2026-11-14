@@ -12,7 +12,7 @@ confidence: high
 discipline: [cs education]
 page_kind: [evaluation]
 ---
-> **Synthesis:** Csépányi-Fürjes and Kovács implement and empirically validate **G4L**, a graph-based intelligent tutoring system for fast-changing domains. Built on the Evolving Knowledge Space Graph (EKSG) model (Neo4j) plus a relational database (MySQL) for real-time tracking, it uses **intuitionistic fuzzy logic** (IFL) to represent learner knowledge states and forgetting, and a **generative-AI assistant** to auto-generate knowledge units, [[recommender-systems-and-learning-paths|prerequisite relations]], and quiz questions ([[teacher-role|teacher]]-in-the-loop review). Three adaptive algorithms — Bayesian Network (BN), Knowledge Space Theory (KST), and the proposed Weighted Distance Dependent Induction (WDDI) — are compared in a 45-participant classroom study. The **Bayesian algorithm produced the highest knowledge gains** (0.717 → 0.887, +24%), while log analysis revealed self-regulated learning dominated system recommendations.
+> **Synthesis:** Csépányi-Fürjes and Kovács implement and empirically validate **G4L**, a graph-based [[intelligent-tutoring|intelligent tutoring system]] for fast-changing domains. Built on the Evolving Knowledge Space Graph (EKSG) model (Neo4j) plus a relational database (MySQL) for real-time tracking, it uses **intuitionistic fuzzy logic** (IFL) to represent learner knowledge states and forgetting, and a **generative-AI assistant** to auto-generate knowledge units, [[recommender-systems-and-learning-paths|prerequisite relations]], and quiz questions ([[teacher-role|teacher]]-in-the-loop review). Three adaptive algorithms — Bayesian Network (BN), Knowledge Space Theory (KST), and the proposed Weighted Distance Dependent Induction (WDDI) — are compared in a 45-participant classroom study. The **Bayesian algorithm produced the highest knowledge gains** (0.717 → 0.887, +24%), while log analysis revealed [[self-regulated-learning|self-regulated learning]] dominated system recommendations.
 
 ## Core Finding
 
@@ -33,18 +33,18 @@ G4L operationalizes the EKSG model — a graph-based knowledge representation ex
 - These observed values are **propagated through the [[knowledge-graph|knowledge graph]]** using one of three algorithms (BN, KST, or WDDI) to estimate mastery of related (unassessed) units.
 - The system recommends the next knowledge unit: units outside the "KNOWS" region are ranked by proximity to the "knows" vertex.
 - **Forgetting** is modeled as a vector shift toward "unknown" using the Ebbinghaus forgetting curve, driven by elapsed time and repetitions; units most vulnerable to decay are prioritized for review.
-- Learners **may follow or override recommendations**, supporting [[agency]] and [[self-regulated-learning|self-regulated learning]].
+- Learners **may follow or override recommendations**, supporting [[agency|agency]] and [[self-regulated-learning|self-regulated learning]].
 
 ## Results
 
 - **RQ1 (structure/navigation):** Knowledge Decomposition and Graph-based Navigation [[usability-research|Usability]] rated highest (avg 4.41, rubric level 3); Prerequisite Logic Clarity lowest (4.16).
-- **RQ2 (algorithms):** measured knowledge improved in all groups — BN 0.717→0.887 (+24%, score 3), KST 0.919→0.967 (+5%, score 2), WDDI 0.871→0.882 (+1%, score 2). Final rubric scores BN 3, KST 2, WDDI 2. In a [[simulation]], BN (error 14) and a GNN baseline (20) tracked true IFL truth values best vs KST (94), WDDI (62), uniform static (100).
+- **RQ2 (algorithms):** measured knowledge improved in all groups — BN 0.717→0.887 (+24%, score 3), KST 0.919→0.967 (+5%, score 2), WDDI 0.871→0.882 (+1%, score 2). Final rubric scores BN 3, KST 2, WDDI 2. In a [[simulation|simulation]], BN (error 14) and a GNN baseline (20) tracked true IFL truth values best vs KST (94), WDDI (62), uniform static (100).
 - **RQ3 (tracking):** system scored "Good (3)" (11/13 tracking features, 85%). BN group logged the most per-learner records (855.9) and the most active test [[student-engagement|engagement]]; the most active learner (112 interactions) was in the KST group.
-- **Self-[[regulation]]:** most learners disregarded system recommendations (learn-followed 18–32%, repeat-followed 7–9%), indicating their own decisions took precedence over the suggested path.
+- **Self-[[regulation|regulation]]:** most learners disregarded system recommendations (learn-followed 18–32%, repeat-followed 7–9%), indicating their own decisions took precedence over the suggested path.
 
 ## Key Strengths and Caveats
 
-- **Strengths:** combines structured domain modeling, fine-grained real-time activity logging (13 event types), adaptive content delivery, and generative content creation; teacher-in-the-loop keeps [[pedagogy]] under human control; log-based tracking is lightweight and non-intrusive.
+- **Strengths:** combines structured domain modeling, fine-grained real-time activity logging (13 event types), adaptive content delivery, and generative content creation; teacher-in-the-loop keeps [[pedagogy|pedagogy]] under human control; log-based tracking is lightweight and non-intrusive.
 - **Caveats:** small sample (45, 3 dropouts, 28 questionnaire respondents); single subdomain (JDBC API, 15 KUs); short study window (limited long-term retention insight); no control group or alternative-ITS comparison; KST predicted-mastery values stuck at 1.000 (full-mastery inference) and should be read with caution; WDDI's proposed bi-directional propagation underperformed on measured gains.
 
 ## Relevance to the knowledge base

@@ -14,7 +14,7 @@ discipline: [cs education]
 page_kind: [framework, evaluation]
 ---
 
-> **Synthesis:** Olukola & Rahimi (2026) introduce what they argue is the first formal framework for [[pedagogical-safety|pedagogical safety]] in reinforcement learning (RL)-based intelligent tutoring systems. Because RL agents optimize a proxy reward, they can "hack" it — maximizing measurable engagement while producing little genuine learning. The paper formalizes [[pedagogy|pedagogical]] safety as four constraint classes (structural, progress, behavioral, alignment), proposes the Reward Hacking Severity Index (RHSI) to quantify proxy-reward/true-learning misalignment, and tests both in a simulated tutoring environment. The central result is that reward design alone is insufficient: a multi-objective reward still over-selected a zero-mastery, high-engagement action, while a constrained architecture combining prerequisite enforcement and a minimum-cognitive-demand filter substantially reduced hacking (RHSI from 0.317 to 0.102). An ablation identified behavioral safety — enforcing a minimum cognitive demand — as the single most influential safeguard.
+> **Synthesis:** Olukola & Rahimi (2026) introduce what they argue is the first formal framework for [[pedagogical-safety|pedagogical safety]] in [[reinforcement-learning|reinforcement learning]] (RL)-based [[intelligent-tutoring|intelligent tutoring systems]]. Because RL agents optimize a proxy reward, they can "hack" it — maximizing measurable engagement while producing little genuine learning. The paper formalizes [[pedagogy|pedagogical]] safety as four constraint classes (structural, progress, behavioral, alignment), proposes the Reward Hacking Severity Index (RHSI) to quantify proxy-reward/true-learning misalignment, and tests both in a simulated tutoring environment. The central result is that reward design alone is insufficient: a multi-objective reward still over-selected a zero-mastery, high-engagement action, while a constrained architecture combining prerequisite enforcement and a minimum-cognitive-demand filter substantially reduced hacking (RHSI from 0.317 to 0.102). An ablation identified behavioral safety — enforcing a minimum cognitive demand — as the single most influential safeguard.
 
 ## Key Findings
 
@@ -73,7 +73,7 @@ A key [[research-methods-aied|methodological]] contribution is the calibration o
 ## Connection to SafeTutors Taxonomy
 
 This complements the [[hazra-safetutors-pedagogical-safety-2026|SafeTutors taxonomy]] which identifies 11 harm dimensions:
-- **Over-reliance** (learner dependency on AI, cf. [[cognitive-offloading]])
+- **Over-reliance** (learner dependency on AI, cf. [[cognitive-offloading|Cognitive offloading]])
 - **Misinformation** (incorrect content delivery)
 - **Bias** (demographic performance gaps)
 
@@ -93,7 +93,7 @@ The paper proposes detecting reward hacking via:
 - **Software developers.** Enforce [[icap-framework|minimum cognitive demand]] as a filter, not a preference: the full SmartTutor held its behavioral-safety violation rate to 5.8% (against 70.8% for engagement-only) and RHSI to 0.102, while removing the filter collapsed policies to near-single-action repetition, with one action absorbing 85–93% of all 150 interactions in some seeds.
 - **Software developers.** Keep prerequisite enforcement as action masking over the [[knowledge-graph|knowledge graph]] — it guarantees zero structural violations by construction — but expect its value to be indirect: without it RHSI rose by +0.138, largely through degraded action diversity rather than prerequisite violations.
 - **Software developers.** Ship the RHSI diagnostic and policy inspection alongside the tutor, because engagement [[visualization|dashboards]] cannot surface this failure mode: discrepancy auditing of reward against independent learning measures, policy inversion, and long-term [[transfer-of-learning|retention and transfer]] tracking are what expose a policy optimizing the wrong objective.
-- **Researchers.** Re-derive constraint thresholds per setting instead of reusing defaults: a naive a-priori progress threshold (εprog = 0.02) produced 100% violation in every condition, and the working threshold had to be calibrated from a mastery-only baseline's per-window progress distribution. The same gap between optimized proxies and teaching quality appears in benchmark work such as [[educational-llm-alignment]].
+- **Researchers.** Re-derive constraint thresholds per setting instead of reusing defaults: a naive a-priori progress threshold (εprog = 0.02) produced 100% violation in every condition, and the working threshold had to be calibrated from a mastery-only baseline's per-window progress distribution. The same gap between optimized proxies and teaching quality appears in benchmark work such as [[educational-llm-alignment|Hardy et al. (2026)]].
 
 ## Limitations
 

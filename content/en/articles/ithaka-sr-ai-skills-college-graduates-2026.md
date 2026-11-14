@@ -13,7 +13,7 @@ sources: ['raw/papers/ithaka-sr-ai-skills-college-graduates-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** **Ithaka S+R's AI Skills for College Graduates report** surveys 500 US four-year-college instructors (April 2026) on how they prioritize 26 AI-related skills from the HiBob AI Skills Framework, and compares their ratings to a panel of US employers surveyed by HiBob. The headline finding is a **systematic skills-prioritization gap**: instructors and employers agree on the importance of only one skill (setting realistic expectations for AI-augmented work), with instructors favoring a *critical, responsible-use* orientation (limits of AI, attribution, human accountability) while employers favor *workflow, automation, and human–AI teaming* skills. Instructors also report their institutions lack both a consensus on what AI skills look like and an assessment framework for them — an infrastructure gap that parallels [[ai-literacy]] debates.
+> **Synthesis:** **Ithaka S+R's AI Skills for College Graduates report** surveys 500 US four-year-college instructors (April 2026) on how they prioritize 26 AI-related skills from the HiBob AI Skills Framework, and compares their ratings to a panel of US employers surveyed by HiBob. The headline finding is a **systematic skills-prioritization gap**: instructors and employers agree on the importance of only one skill (setting realistic expectations for AI-augmented work), with instructors favoring a *critical, responsible-use* orientation (limits of AI, attribution, human accountability) while employers favor *workflow, automation, and human–AI teaming* skills. Instructors also report their institutions lack both a consensus on what AI skills look like and an assessment framework for them — an infrastructure gap that parallels [[ai-literacy|AI literacy]] debates.
 
 ## Background and the AI Skills Framework
 
@@ -21,9 +21,9 @@ The report is one of the first major efforts to vet a comprehensive AI-skills fr
 
 1. **AI literacy** — understanding human vs. AI capabilities, selecting appropriate tools, setting realistic expectations
 2. **[[lifelong-learning|Continuous learning]] orientation** — iterating on AI tools, peer coaching
-3. **[[prompt-engineering|Prompting]] and input quality** — clear actionable prompts, grounding in reliable sources, [[multimodal]] prompting
+3. **[[prompt-engineering|Prompting]] and input quality** — clear actionable prompts, grounding in reliable sources, [[multimodal|multimodal]] prompting
 4. **Evaluating and improving output quality** — proactive review, revising drafts for audiences, resisting [[ai-sycophancy|sycophantic]] AI, bias & [[bias-mitigation|fairness]] awareness
-5. **AI safety, [[ethics]], and [[governance]]** — handling sensitive data, responsible use, human accountability, transparency & attribution
+5. **AI safety, [[ethics|ethics]], and [[governance|governance]]** — handling sensitive data, responsible use, human accountability, transparency & attribution
 6. **Workflow evaluation and redesign** — mapping workflows, efficient human–AI handoffs, documenting decisions
 7. **Automation and technical integration** — no/low-code automations, basic coding/API capabilities
 
@@ -63,7 +63,7 @@ Instructors slightly disagreed that their institutions expect undergraduates to 
 - **Instructors.** Map your syllabus against the framework's 26 skills and add the categories almost nobody teaches — workflow evaluation and redesign, and automation and technical integration — since only three of the 26 skills are taught by half or more instructors.
 - **Instructors.** Keep the critical-use skills you already prioritize (responsible use, transparency and attribution, proactive output review, human accountability) but tie them to the workplace tasks employers rate: documenting decisions, efficient human–AI handoffs, and [[career-development-and-readiness|career readiness]], not only academic integrity.
 - **Instructors.** State plainly where AI use is expected and where it is not, because the report found a recurring instructor position that doing things without AI is itself the key skill — a framing students need made explicit rather than left implicit.
-- **Administrators.** Publish a shared institutional definition of AI skill outcomes and an [[assessment]] framework for them: instructors disagreed that their institutions have consensus on what AI skills look like or a shared way to measure whether students reach them.
+- **Administrators.** Publish a shared institutional definition of AI skill outcomes and an [[assessment|assessment]] framework for them: instructors disagreed that their institutions have consensus on what AI skills look like or a shared way to measure whether students reach them.
 - **Administrators.** Audit whole degree programs, not single courses, for AI-skill coverage — the instructor–employer prioritization gap is widest in exactly the categories that are least taught.
 
 ## Limitations

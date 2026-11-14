@@ -24,7 +24,7 @@ page_kind: [framework]
 ## What this means for practice
 
 - **Instructors.** Audit an existing command bank for level distribution before teaching with it, so the cognitive depth of the assessment is explicit rather than assumed.
-- **Instructors.** Give students immediate feedback on the complexity level of commands they meet in documentation or online resources, and flag higher-level commands for additional [[scaffolding]].
+- **Instructors.** Give students immediate feedback on the complexity level of commands they meet in documentation or online resources, and flag higher-level commands for additional [[scaffolding|scaffolding]].
 - **Assessment designers.** Calibrate [[item-response-theory|item difficulty]] across the four levels instead of treating all command-line tasks as comparable; the classifier agrees with expert labels on 89% of held-out commands.
 - **Assessment designers.** Graduate accommodations by taxonomy level — for example, longer time extensions for higher-level commands — rather than granting one blanket extension.
 - **Instructors.** Keep [[pedagogy|pedagogical]] oversight of whatever the classifier automates, using its level labels to sequence content and target support rather than as a substitute for instructional judgment.

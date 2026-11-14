@@ -27,7 +27,7 @@ confidence: high
 
 The paper's central move is to transplant a familiar [[assessment-validity|assessment]] logic — the Technology Readiness Level (TRL) scale used across engineering — into the realm of human competency. The resulting **Workforce Readiness Level** framework defines nine progressive stages of workplace capability, each aggregating four pillars:
 
-1. **Digital and [[ai-literacy|AI literacy]]** — the foundational ability to work with data, automation, and AI tools, including [[computational-thinking|computational thinking]], the [[machine-learning]] lifecycle, model interpretability, and AI ethics.
+1. **Digital and [[ai-literacy|AI literacy]]** — the foundational ability to work with data, automation, and AI tools, including [[computational-thinking|computational thinking]], the [[machine-learning|machine learning]] lifecycle, model interpretability, and AI ethics.
 2. **Cyber-physical systems fluency** — understanding how physical processes connect to networked computation, spanning industrial controls, IIoT sensing, and the OT/IT bridge role.
 3. **[[human-ai-collaboration|Human-machine collaboration]]** — working effectively alongside automation and [[agentic-ai|AI agents]], including cobot safety, ergonomics, and human-in-the-loop inspection.
 4. **Data-driven decision making** — using evidence to make operational choices, via KPIs, statistical process control, design of experiments, and Lean/Six Sigma.
@@ -56,7 +56,7 @@ The framework is instantiated in a university smart-manufacturing teaching lab �
 
 ## Assessment and accreditation
 
-The WRL evaluation model is deliberately conservative: a single weak pillar can block certification even if the other three are strong, protecting downstream stakeholders from credential inflation. Each pillar is scored 0–3 against a behaviorally anchored rubric (144 anchors across 9 stages × 4 pillars), and a learner is certified at stage *k* only if the composite score clears a threshold and every pillar meets the floor. The cohort-level workforce-readiness index (WRI) summarizes the typical level across a cohort and is treated as a comparative [[benchmark]] rather than a competency location on the nine-point scale.
+The WRL evaluation model is deliberately conservative: a single weak pillar can block certification even if the other three are strong, protecting downstream stakeholders from credential inflation. Each pillar is scored 0–3 against a behaviorally anchored rubric (144 anchors across 9 stages × 4 pillars), and a learner is certified at stage *k* only if the composite score clears a threshold and every pillar meets the floor. The cohort-level workforce-readiness index (WRI) summarizes the typical level across a cohort and is treated as a comparative [[benchmark|benchmark]] rather than a competency location on the nine-point scale.
 
 Because the four pillars map onto the ABET student outcomes (SO1–SO7), a WRL transcript doubles as a source of accreditation evidence: P1 and P4 provide strong evidence for complex [[problem-solving|problem solving]], experimentation/data analysis, and applying new knowledge; P2 anchors engineering design; and P3 carries [[ethics|ethical]]/professional responsibility and teamwork via functional-safety practice. Every ABET outcome receives at least supporting evidence from the pillar set, making WRI a defensible [[quantitative-research|quantitative]] artifact for [[educational-policy-ai|accreditation]] and continuous-improvement files.
 

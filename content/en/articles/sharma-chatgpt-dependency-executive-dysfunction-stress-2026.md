@@ -26,7 +26,7 @@ ai_assist:
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** A cross-sectional survey of Indian university students reports that problematic ChatGPT use is associated with poorer global [[executive-function|executive functioning]], but that the association runs almost entirely through academic stress: stress predicts executive dysfunction at β = 0.706 (P < 0.001), while ChatGPT use contributes β = 0.069 (P = 0.328) once stress is in the model. The authors read this as [[cognitive-offloading]] displacing the practice that builds [[self-regulated-learning]] and [[metacognition]], and they describe a self-reinforcing cycle in which stress, executive difficulty, and [[generative-ai]] dependence feed one another. That cycle is a hypothesis the design cannot test, because all three variables were measured at a single time point.
+> **Synthesis:** A cross-sectional survey of Indian university students reports that problematic ChatGPT use is associated with poorer global [[executive-function|executive functioning]], but that the association runs almost entirely through academic stress: stress predicts executive dysfunction at β = 0.706 (P < 0.001), while ChatGPT use contributes β = 0.069 (P = 0.328) once stress is in the model. The authors read this as [[cognitive-offloading|cognitive offloading]] displacing the practice that builds [[self-regulated-learning|self-regulated learning]] and [[metacognition|metacognition]], and they describe a self-reinforcing cycle in which stress, executive difficulty, and [[generative-ai|generative AI]] dependence feed one another. That cycle is a hypothesis the design cannot test, because all three variables were measured at a single time point.
 
 ## What the study measured
 
@@ -60,8 +60,8 @@ The framing also inherits a measurement ambiguity. Higher BRIEF-A scores mean mo
 
 - **Screen for stress before restricting tools.** If stress is doing most of the predictive work, an institutional response aimed only at ChatGPT use addresses the weaker of the two signals. Academic support staff should treat elevated stress and executive complaints as the primary referral target.
 - **Read BRIEF-A profiles as self-report, not diagnosis.** A student reporting poor initiation or working memory is describing everyday difficulty that may reflect sleep, workload, anxiety, or depression. Use the profile to open a conversation, not to assign a cognitive label.
-- **Teach the displaced skill rather than banning the tool.** The paper's own recommendation is workshops on managing academic stress and on using AI consciously, which fits a [[higher-ed]] setting better than blanket prohibition and targets the self-regulation gap the authors describe.
-- **Watch for compensatory use.** Students who struggle to start work may be the heaviest users, so usage data alone will misidentify them as enthusiasts. Pair usage signals with [[assessment-validity]] evidence about what students can do unaided.
+- **Teach the displaced skill rather than banning the tool.** The paper's own recommendation is workshops on managing academic stress and on using AI consciously, which fits a [[higher-ed|higher education]] setting better than blanket prohibition and targets the self-regulation gap the authors describe.
+- **Watch for compensatory use.** Students who struggle to start work may be the heaviest users, so usage data alone will misidentify them as enthusiasts. Pair usage signals with [[assessment-validity|assessment validity]] evidence about what students can do unaided.
 - **Design tasks that keep the cognitive work visible.** Where a course lets generative AI draft, it removes exactly the initiation and planning practice the paper worries about; staged drafts, oral defense of written work, and in-class retrieval tasks keep that practice in view.
 
 ## Limitations

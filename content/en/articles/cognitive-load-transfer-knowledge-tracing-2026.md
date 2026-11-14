@@ -11,11 +11,11 @@ audience: [researchers, software developers, learning analytics designers]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Knowledge tracing aims to assess students' dynamic knowledge states from their learning histories, but most existing methods focus on single-domain learning despite real-world scenarios involving multiple domains simultaneously. Zhang and colleagues introduce two critical factors for multi-domain settings: [[cognitive-offloading|cognitive load]] arising from managing learning across domains in temporal and knowledge dimensions, and [[transfer-of-learning|knowledge transfer]] where knowledge states in one domain influence related states both within and across domains. Their proposed LT-MKT method integrates textual information from questions and their associations to bridge isolated domains, improving knowledge state assessment in multi-domain learning scenarios.
+> **Synthesis:** [[knowledge-tracing|Knowledge tracing]] aims to assess students' dynamic knowledge states from their learning histories, but most existing methods focus on single-domain learning despite real-world scenarios involving multiple domains simultaneously. Zhang and colleagues introduce two critical factors for multi-domain settings: [[cognitive-offloading|cognitive load]] arising from managing learning across domains in temporal and knowledge dimensions, and [[transfer-of-learning|knowledge transfer]] where knowledge states in one domain influence related states both within and across domains. Their proposed LT-MKT method integrates textual information from questions and their associations to bridge isolated domains, improving knowledge state assessment in multi-domain learning scenarios.
 
 ## Key Findings
 
-1. Real-world learning often involves multiple domains simultaneously, introducing cognitive load and knowledge transfer as critical factors for [[knowledge-tracing]].
+1. Real-world learning often involves multiple domains simultaneously, introducing cognitive load and knowledge transfer as critical factors for [[knowledge-tracing|knowledge tracing]].
 2. Cognitive load arises from managing learning across domains in both temporal and knowledge dimensions.
 3. Knowledge transfer captures how knowledge states in one domain influence related states both within and across domains.
 4. LT-MKT integrates textual information from questions and their associations to bridge isolated domains.
@@ -24,7 +24,7 @@ page_kind: [evaluation]
 ## What this means for practice
 
 - **Designers.** Model cognitive load explicitly in multi-domain [[knowledge-tracing|knowledge tracing]] — question difficulty, domain transition, and domain coverage — instead of optimizing only for single-domain sequences.
-- **Designers.** Use [[llm]]-constructed multi-domain hierarchical graphs to link otherwise isolated domains, so that cross-domain [[transfer-of-learning|knowledge transfer]] informs each student's estimated knowledge state.
+- **Designers.** Use [[llm|LLM]]-constructed multi-domain hierarchical graphs to link otherwise isolated domains, so that cross-domain [[transfer-of-learning|knowledge transfer]] informs each student's estimated knowledge state.
 - **Designers.** Expect returns from stronger LLM backbones: graph-construction quality, and with it tracing performance, improved as the backbone model improved.
 - **Researchers.** Benchmark multi-domain models against cross-domain baselines — students switched domains frequently (average cross-domain interactions of 8.72–14.26 per learner across datasets), so single-domain [[knowledge-tracing|KT]] [[benchmark|benchmarks]] understate the problem.
 - **Researchers.** Treat the three load proxies (difficulty, transition, coverage) as an initial set, since the authors explicitly leave other contributors to cognitive load for future work.

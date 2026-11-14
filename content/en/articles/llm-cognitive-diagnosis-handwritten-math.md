@@ -15,7 +15,7 @@ sources: ['raw/papers/llm-cognitive-diagnosis-handwritten-math.md']
 methods: [ai-ed-evaluation, benchmark]
 ---
 
-> **Synthesis:** **MathCog** [[benchmark]] (3,036 [[teacher-role|teacher]]-annotated diagnostic verdicts, 639 handwritten responses, 18 LLMs): all models severely underperform (macro F1 < 0.5) — over-attributing evidence, overthinking minimal cues, hallucinating nonexistent evidence ([[hallucination-risk]]) — calling for evidence-aware architectures and [[human-in-the-loop-ai|teacher-in-the-loop]] designs ([[knowledge-tracing]], [[multimodal]], benchmark).
+> **Synthesis:** **MathCog** [[benchmark|benchmark]] (3,036 [[teacher-role|teacher]]-annotated diagnostic verdicts, 639 handwritten responses, 18 LLMs): all models severely underperform (macro F1 < 0.5) — over-attributing evidence, overthinking minimal cues, hallucinating nonexistent evidence ([[hallucination-risk|hallucination risk]]) — calling for evidence-aware architectures and [[human-in-the-loop-ai|teacher-in-the-loop]] designs ([[knowledge-tracing|knowledge tracing]], [[multimodal|multimodal]], benchmark).
 
 ## Summary
 
@@ -24,7 +24,7 @@ This paper introduces **MathCog**, a benchmark dataset of 3,036 teacher-annotate
 ## Key Contributions
 
 1. **MathCog Benchmark** — First benchmark for cognitive skill diagnosis from handwritten math, grounded in TIMSS 2019 cognitive framework with Evident/Vague evidential strength labels
-2. **Systematic [[llm]] Evaluation** — 18 models spanning reasoning, multimodal, and text-only architectures, all showing F1 < 0.5
+2. **Systematic [[llm|LLM]] Evaluation** — 18 models spanning reasoning, multimodal, and text-only architectures, all showing F1 < 0.5
 3. **Error Taxonomy** — Five systematic error patterns identified: evidence misidentification, rubric misinterpretation, over-inference, inconsistency, and hallucination
 4. **Evidential Calibration Metrics** — Introduces OverAttr and FalseAttr to quantify models' tendency to over-claim evidential confidence
 
@@ -48,7 +48,7 @@ All models perform worse when student evidence is Vague (implicit, incomplete, o
 - **Software developers.** Ship diagnosis as [[human-in-the-loop-ai|teacher-in-the-loop]] support rather than automatic verdicts: no model reached macro F1 ≥ 0.5, and the mean accuracy of 0.680 hides that failure behind class imbalance.
 - **Software developers.** Do not treat multimodality or reasoning architectures as a calibration fix: multimodal models showed a larger Evident-to-Vague drop than text-only models, and the best performers (GPT-4o-img at 0.448, DeepSeek-R1 at 0.442) still carried high OverAttr and FalseAttr.
 - **Software developers.** Route vague or implicit student work to human review, since performance degrades sharply when the evidence is Vague and models fabricated evidence quotes absent from the handwriting.
-- **Researchers.** Anchor diagnosis in a published cognitive framework — MathCog's TIMSS 2019 grounding shifts [[llm-handwritten-math-grading|handwritten math assessment]] from answer correctness to cognitive skill diagnosis — and report evidential calibration metrics like OverAttr and FalseAttr alongside accuracy, because the hallucinated-evidence and over-attribution patterns here extend [[llm-fallacy-misattribution]].
+- **Researchers.** Anchor diagnosis in a published cognitive framework — MathCog's TIMSS 2019 grounding shifts [[llm-handwritten-math-grading|handwritten math assessment]] from answer correctness to cognitive skill diagnosis — and report evidential calibration metrics like OverAttr and FalseAttr alongside accuracy, because the hallucinated-evidence and over-attribution patterns here extend [[llm-fallacy-misattribution|Kim et al. (2026)]].
 
 ## Limitations
 

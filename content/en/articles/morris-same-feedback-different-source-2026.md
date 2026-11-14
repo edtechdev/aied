@@ -55,7 +55,7 @@ Credibility was the exploratory question and produced the study's most consequen
 
 [[self-report-measures|Self-report]] matched the traces. Non-believers reported skimming feedback at 26% against 7–10% in other groups, reading carefully at 61% against 74–84%, and feeling motivated by the feedback at 22% against 31–52%. Their comments were flat or suspicious — "The feedback was pretty clearly from an AI, so I'm not sure if I was fooled" — while believers wrote things such as "That was fun, I'm going to come back and learn more."
 
-The authors are careful about this. Believability was not manipulated, so the comparison is a pattern inside a randomized design rather than a causal estimate; dispositional skepticism or reactance to perceived deception could produce the same result. The practical implication is narrower: real, verifiable human involvement carries a benefit worth preserving; where it is absent, transparent AI attribution is the lower-risk default. They also name the case that requires no impersonation — instructors using an [[llm]] to draft feedback they deliver under their own name.
+The authors are careful about this. Believability was not manipulated, so the comparison is a pattern inside a randomized design rather than a causal estimate; dispositional skepticism or reactance to perceived deception could produce the same result. The practical implication is narrower: real, verifiable human involvement carries a benefit worth preserving; where it is absent, transparent AI attribution is the lower-risk default. They also name the case that requires no impersonation — instructors using an [[llm|LLM]] to draft feedback they deliver under their own name.
 
 ## What this means for practice
 

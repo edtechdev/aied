@@ -14,11 +14,11 @@ audience: [instructors, researchers]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Presents a **large-scale classroom study** (N=215 students, 6,693 submissions across 17 labs) deploying AI-generated feedback through a randomized protocol in an introductory Python programming course. Students received one of three conditions: natural language hints, AI-generated failing test cases, or no AI feedback (control). The resulting dataset, **ProgFeed**, captures fine-grained temporal learning trajectories.
+> **Synthesis:** Presents a **large-scale classroom study** (N=215 students, 6,693 submissions across 17 labs) deploying AI-generated [[feedback|feedback]] through a randomized protocol in an introductory Python programming course. Students received one of three conditions: natural language hints, AI-generated failing test cases, or no AI feedback (control). The resulting dataset, **ProgFeed**, captures fine-grained temporal learning trajectories.
 
 **Key findings:** Natural language feedback is significantly associated with higher completion rates and faster convergence to correct solutions. Test case feedback shows heterogeneous effects that depend critically on feedback validity. The form of [[ai-feedback-quality|AI-generated feedback]] matters — evaluating feedback quality, not just its presence, is essential for understanding [[pedagogy|pedagogical]] impact.
 
-This study provides one of the largest empirical validations of [[llm]]-based [[ai-feedback-quality|automated feedback]] in authentic programming classrooms, with direct implications for [[automated-assessment|automated grading systems]] and [[formative-assessment|formative assessment]] design in [[cs-education|CS education]].
+This study provides one of the largest empirical validations of [[llm|LLM]]-based [[ai-feedback-quality|automated feedback]] in authentic programming classrooms, with direct implications for [[automated-assessment|automated grading systems]] and [[formative-assessment|formative assessment]] design in [[cs-education|CS education]].
 
 ## What this means for practice
 

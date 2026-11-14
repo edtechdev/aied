@@ -29,7 +29,7 @@ ai_assist:
 
 ## Study Design
 
-The setting is a Swedish compulsory school that had launched a pilot called "AI on the schedule" — relevant because Sweden's national curricula include AI training only from upper secondary upward, so these year 7 students were receiving instruction that their [[curriculum-design|curriculum]] does not require or specify. Three phases of training preceded the survey: fundamental AI concepts, [[ethics]], [[prompt-engineering|prompting]] and a train-your-own-model exercise; a comparison of chatbots plus a tool visualising how datapoints track behavior; and finally AI-supported game and story development. Those phases deliberately covered source evaluation, responsibility, data privacy, algorithmic manipulation and governance.
+The setting is a Swedish compulsory school that had launched a pilot called "AI on the schedule" — relevant because Sweden's national curricula include AI training only from upper secondary upward, so these year 7 students were receiving instruction that their [[curriculum-design|curriculum]] does not require or specify. Three phases of training preceded the survey: fundamental AI concepts, [[ethics|ethics]], [[prompt-engineering|prompting]] and a train-your-own-model exercise; a comparison of chatbots plus a tool visualising how datapoints track behavior; and finally AI-supported game and story development. Those phases deliberately covered source evaluation, responsibility, data privacy, algorithmic manipulation and governance.
 
 A nine-item survey (n = 47) was distributed in November, during phase three. Items were grouped a priori by the **epistemic demand** they place on the student:
 

@@ -33,14 +33,14 @@ The authors argue that organization is not incidental. On the generation side, a
 - **Designers.** Keep planned adjacent sections inside one document so continuous positions and intra-document attention survive training, rather than resetting between examples.
 - **Designers.** Spend effort on the structure, not just the text. Full also outperformed a retrieval-pool-matched Rephrase condition that rewrote documents individually without clustering, TOC planning or book assembly (+1.17 gain for Full), showing that organization did work that rewriting did not.
 - **Designers.** Budget the retrieval-infrastructure cost before adopting the pipeline — it requires a searchable corpus index, and only a research-licensed subset of the 686K-textbook, 32B-token corpus is released.
-- **Researchers.** Copy the control design when isolating a data-quality claim: content-matched, length-matched (RandomConcat) and pool-matched (Rephrase) conditions each remove a different confound, which is why the paper can attribute the gain to organization rather than length or content — a discipline relevant to [[educational-nlp]] work on training data for education.
+- **Researchers.** Copy the control design when isolating a data-quality claim: content-matched, length-matched (RandomConcat) and pool-matched (Rephrase) conditions each remove a different confound, which is why the paper can attribute the gain to organization rather than length or content — a discipline relevant to [[educational-nlp|educational NLP]] work on training data for education.
 
 ## Limitations
 
 - Each condition was trained once, so training-run variance remains unmeasured; the authors note that the aggregate gains are not driven by outlier [[benchmark|benchmarks]] but do not estimate run-to-run variation.
 - Gains are averaged over 28 benchmarks (+1.09 overall, winning on 19/28), with the comparison against natural books at p = 0.044 on a one-sided sign test — a real but modest margin, evaluated on benchmark scores only, with no human or learning-outcome evaluation.
 - The benefit is demonstrated for mid-training of LMs, not for classroom use, and the pipeline depends on a searchable pre-training corpus index, adding preprocessing and retrieval overhead not available to users without a suitably indexed corpus.
-- Component ablations rely on a fixed [[llm]] judge, so the authors present them as diagnostic evidence about which pipeline stages matter rather than as downstream evidence.
+- Component ablations rely on a fixed [[llm|LLM]] judge, so the authors present them as diagnostic evidence about which pipeline stages matter rather than as downstream evidence.
 
 ## Citation
 

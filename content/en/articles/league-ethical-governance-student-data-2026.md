@@ -14,7 +14,7 @@ page_kind: [framework]
 institutions: [change-management, regulation]
 ---
 
-> **Synthesis:** **Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics** — Proposes LEAGUE framework (Lawfulness, Equity, Agency, Governance, Utility, Ethics by Design) for ethical governance of student data in learning analytics. Synthesizes scholarship across LA, educational data mining, data ethics, [[educational-policy-ai|educational policy]], v... [[learning-analytics]] [[privacy]] [[equity-in-ai-education]] [[ethics]] [[regulation]] [[higher-ed]]
+> **Synthesis:** **Beyond Compliance: A Proposed Framework for Ethical Governance of Student Data in Learning Analytics** — Proposes LEAGUE framework (Lawfulness, Equity, Agency, Governance, Utility, Ethics by Design) for ethical governance of student data in learning analytics. Synthesizes scholarship across LA, educational data mining, data ethics, [[educational-policy-ai|educational policy]], v... [[learning-analytics|Learning analytics]] [[privacy|privacy]] [[equity-in-ai-education|equity]] [[ethics|ethics]] [[regulation|regulation]] [[higher-ed|higher education]]
 
 Proposes LEAGUE framework (Lawfulness, Equity, Agency, Governance, Utility, Ethics by Design) for ethical governance of student data in learning analytics. Synthesizes scholarship across LA, educational data mining, data ethics, educational policy, value-sensitive design, and capability-oriented approaches to educational justice. Demonstrates practical value through an illustrative early-alert case study showing how institutions can review LA practices in a more transparent and educationally meaningful way.
 
@@ -24,9 +24,9 @@ The rapid growth of learning analytics (LA) in higher education has expanded [[g
 
 ## What this means for practice
 
-- **Administrators.** Run every [[learning-analytics|learning analytics]] initiative — including [[llm]], agentic, and generative student-facing systems — through the same six-pillar review (Lawfulness, Equity, Agency, Governance, Utility, Ethics by Design) before deciding whether to approve, revise, pilot, or pause it.
+- **Administrators.** Run every [[learning-analytics|learning analytics]] initiative — including [[llm|LLM]], agentic, and generative student-facing systems — through the same six-pillar review (Lawfulness, Equity, Agency, Governance, Utility, Ethics by Design) before deciding whether to approve, revise, pilot, or pause it.
 - **Administrators.** Schedule reassessment rather than treating approval as final, covering model performance and drift as well as the original educational rationale.
-- **Policymakers.** Treat FERPA and GDPR compliance as the floor for such review: the framework adds equity, student [[agency]], institutional accountability, and educational utility to a compliance check.
+- **Policymakers.** Treat FERPA and GDPR compliance as the floor for such review: the framework adds equity, student [[agency|agency]], institutional accountability, and educational utility to a compliance check.
 - **Researchers.** Build the [[quantitative-research|quantitative]] governance-maturity rubric the framework still lacks, so institutions can score and track ethical governance over time instead of judging it case by case.
 
 ## Limitations

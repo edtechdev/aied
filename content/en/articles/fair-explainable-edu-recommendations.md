@@ -17,7 +17,7 @@ page_kind: [evaluation]
 
 ## Key Findings
 
-- The paper introduces the **Hybrid HKG-GRU framework**, combining heterogeneous [[knowledge-graph]] embeddings with sequential (GRU) modeling to capture both the relational structure of course materials and the temporal dynamics of learner interactions.
+- The paper introduces the **Hybrid HKG-GRU framework**, combining heterogeneous [[knowledge-graph|knowledge graph]] embeddings with sequential (GRU) modeling to capture both the relational structure of course materials and the temporal dynamics of learner interactions.
 - Evaluation on **Moodle LMS logs from 152 students, 59 resources, and approximately 150k interactions** achieved strong predictive performance with **HR@10 = 0.68 and MRR = 0.41**.
 - The framework integrates three responsibility-oriented contributions: **multi-objective training with Group Distributionally Robust Optimization (GroupDRO)** for fairness, **Maximum Marginal Relevance (MMR) reranking** to reshape exposure patterns, and built-in **model-centric [[explainable-ai|explainability]]** through path-based and counterfactual analyses.
 - Results showed high intra-list diversity and moderate catalog coverage, with **moderate counterfactual stability** for many learners (median CR@10 = 1.0), although catalog-level popularity bias remained evident.
@@ -30,10 +30,10 @@ The study targets a known failure of accuracy-focused recommenders: students wit
 ## What this means for practice
 
 - **Software developers.** Build fairness, diversity, and explainability into the model as training-time objectives rather than post-hoc reporting: combining GroupDRO training, MMR reranking, and path-based and counterfactual explanations reached HR@10 = 0.68 and MRR = 0.41 on the same interaction logs, showing that responsibility objectives need not cost predictive accuracy.
-- Instrument exposure inequality as a standing metric, not a one-off audit. Catalog-level popularity bias remained evident after GroupDRO and exposure-based regularization, so track catalog coverage and Gini exposure on every retrain rather than declaring [[bias-mitigation]] complete.
+- Instrument exposure inequality as a standing metric, not a one-off audit. Catalog-level popularity bias remained evident after GroupDRO and exposure-based regularization, so track catalog coverage and Gini exposure on every retrain rather than declaring [[bias-mitigation|bias mitigation]] complete.
 - Design explicitly for cold-start and low-activity learners, who risk receiving less reliable support because fairness here was defined as robustness across participation-based cohorts of learner activity.
-- Keep a human in the loop on the navigation decision. The path-based and counterfactual explanations are model-centric, so present them to instructors and learners as reviewable evidence consistent with [[human-in-the-loop-ai]] oversight, not as final determinations.
-- Do not read activity level as ability or need when acting on recommendations — the public Moodle logs contain no achievement, [[prior-knowledge]], learner profile, or demographic attributes, so a low-activity learner may be struggling, disengaged, or already familiar with the material.
+- Keep a human in the loop on the navigation decision. The path-based and counterfactual explanations are model-centric, so present them to instructors and learners as reviewable evidence consistent with [[human-in-the-loop-ai|human-in-the-loop]] oversight, not as final determinations.
+- Do not read activity level as ability or need when acting on recommendations — the public Moodle logs contain no achievement, [[prior-knowledge|prior knowledge]], learner profile, or demographic attributes, so a low-activity learner may be struggling, disengaged, or already familiar with the material.
 
 ## Limitations
 

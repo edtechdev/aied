@@ -13,11 +13,11 @@ audience: [researchers, learning analytics designers]
 page_kind: [framework]
 ---
 
-> **Synthesis:** Boyapati et al. (2026) propose a federated inference framework in which several commercial large language models cooperate to perform [[cognitive-diagnosis]] without any model seeing raw student data. The system adds ε-local [[privacy|differential privacy]] noise to each [[llm]]'s prediction before aggregation and uses residual-based aggregation to handle model heterogeneity, operating under an honest-but-curious trust paradigm. The authors report strong [[privacy]] guarantees with minimal accuracy loss across three educational [[benchmark|benchmarks]], arguing the approach is practical and cross-domain generalizable. The paper advances [[privacy]]-preserving, [[trust-calibration|calibrated]] AI-driven [[cognitive-diagnosis]] for real-world [[adaptive-learning]] settings.
+> **Synthesis:** Boyapati et al. (2026) propose a federated inference framework in which several commercial large language models cooperate to perform [[cognitive-diagnosis|cognitive diagnosis]] without any model seeing raw student data. The system adds ε-local [[privacy|differential privacy]] noise to each [[llm|LLM]]'s prediction before aggregation and uses residual-based aggregation to handle model heterogeneity, operating under an honest-but-curious trust paradigm. The authors report strong [[privacy|privacy]] guarantees with minimal accuracy loss across three educational [[benchmark|benchmarks]], arguing the approach is practical and cross-domain generalizable. The paper advances [[privacy|privacy]]-preserving, [[trust-calibration|calibrated]] AI-driven [[cognitive-diagnosis|cognitive diagnosis]] for real-world [[adaptive-learning|adaptive learning]] settings.
 
 ## Approach
 
-Traditional [[cognitive-diagnosis]] models centralize sensitive student data on a single server, raising serious [[privacy]] and [[regulation|regulatory]] concerns (GDPR, FERPA). Boyapati et al. invert this by keeping student data local and shipping only model *predictions* to a federation of commercial LLM APIs (LLaMA-3.3-70B, GPT-4o-mini, Claude-3-Haiku). Because no provider receives raw inputs or proprietary internals, the framework sidesteps the leak-and-misuse risks of centralized diagnosis.
+Traditional [[cognitive-diagnosis|cognitive diagnosis]] models centralize sensitive student data on a single server, raising serious [[privacy|privacy]] and [[regulation|regulatory]] concerns (GDPR, FERPA). Boyapati et al. invert this by keeping student data local and shipping only model *predictions* to a federation of commercial LLM APIs (LLaMA-3.3-70B, GPT-4o-mini, Claude-3-Haiku). Because no provider receives raw inputs or proprietary internals, the framework sidesteps the leak-and-misuse risks of centralized diagnosis.
 
 ## Key Findings
 
@@ -29,14 +29,14 @@ Traditional [[cognitive-diagnosis]] models centralize sensitive student data on 
 
 ## Significance for AI in Education
 
-The paper connects the [[cognitive-diagnosis]] [[research-methods-aied|research]] tradition to [[llm|large language model]] infrastructure while foregrounding the [[privacy]] constraints that block real-world deployment. It offers institutions a path to privacy-preserving diagnosis that keeps [[trust-calibration|appropriate trust]] in AI outputs while protecting learners — a dimension under-explored in most CDM work, which assumes centralized access to sensitive student trajectories.
+The paper connects the [[cognitive-diagnosis|cognitive diagnosis]] [[research-methods-aied|research]] tradition to [[llm|large language model]] infrastructure while foregrounding the [[privacy|privacy]] constraints that block real-world deployment. It offers institutions a path to privacy-preserving diagnosis that keeps [[trust-calibration|appropriate trust]] in AI outputs while protecting learners — a dimension under-explored in most CDM work, which assumes centralized access to sensitive student trajectories.
 
 ## What this means for practice
 
 - **[[learning-analytics|Learning analytics]] designers.** Aggregate at the prediction level rather than centralizing response records: the framework keeps student data local and shares only model predictions to LLaMA-3.3-70B, GPT-4o-mini, and Claude-3-Haiku.
 - **Learning analytics designers.** Price the privacy budget before ruling it out as impractical: ε = 2.0 local differential privacy cost roughly 0.40% MAE on ASSIST09 while the improvements stayed statistically significant (p < 0.001, Cohen's d = 0.85).
 - **Researchers.** Keep residual-based correction when federating heterogeneous LLMs — ablations show aggregation is the primary performance driver and residual correction is essential, with gains varying by domain (14.21% on ASSIST09, 7.39% on GSM8K, 14.40% on UCI).
-- **Administrators.** Recognize what local differential privacy does not cover: it shields published diagnostic vectors from re-identification, but not provider logging of submitted queries, so end-to-end privacy requires locally hosted [[open-source]] models and prompt data minimization.
+- **Administrators.** Recognize what local differential privacy does not cover: it shields published diagnostic vectors from re-identification, but not provider logging of submitted queries, so end-to-end privacy requires locally hosted [[open-source|open source]] models and prompt data minimization.
 
 ## Limitations
 

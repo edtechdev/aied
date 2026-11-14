@@ -1,7 +1,7 @@
 ---
 title: Metaphors and Analogies
 created: "2026-11-07T08:43:02-05:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, misconceptions]
 pedagogy: [student-engagement]
@@ -33,7 +33,7 @@ ai_assist:
 
 A metaphor says that one thing is another: AI is a black box, a helper, a mirror, a map. An analogy typically makes the comparison more explicit: a linked list works like a chain, recursion works like a set of nested boxes, or using AI is like cooking with a Thermomix. The two overlap in practice. Both ask a learner to carry relations from a familiar source domain into a less familiar target domain, and both become misleading when the mapping is extended past the relations it actually preserves.
 
-That makes them more than rhetorical decoration. Conceptual metaphor research treats metaphor as a structure of thought, not just language: the comparisons available to people shape which aspects of a system feel salient and which explanations feel natural. In AI education, the stakes are practical. A student who frames an [[llm]] as a search engine may expect it to retrieve stored facts and may not look for fabricated ones. A faculty member who frames it as an advanced student may expect judgment and subject expertise that the model does not have. A policy discussion framed around a "natural disaster" or a "competitor" supports different responses than one framed around a "calculator for words."
+That makes them more than rhetorical decoration. Conceptual metaphor research treats metaphor as a structure of thought, not just language: the comparisons available to people shape which aspects of a system feel salient and which explanations feel natural. In AI education, the stakes are practical. A student who frames an [[llm|LLM]] as a search engine may expect it to retrieve stored facts and may not look for fabricated ones. A faculty member who frames it as an advanced student may expect judgment and subject expertise that the model does not have. A policy discussion framed around a "natural disaster" or a "competitor" supports different responses than one framed around a "calculator for words."
 
 Both sides of that double role matter: metaphor as a window into how educators and students understand AI, and analogy as a teaching technique in AI literacy and AI-generated explanations. The relevant work spans faculty and student conceptualizations, classroom metaphor workshops, GenAI-generated analogies, analogy-based [[learning-design|instructional design]], and critical AI literacy. "Metaphor" and "analogy" are not exact synonyms, but they stay together because the design problems are shared: source selection, structural fit, cultural access, and critique.
 
@@ -57,7 +57,7 @@ Several studies now offer windows into the metaphors people actually use. They d
 
 Students show a similar range. [[genai-professionalization-metaphors-2026|Bohmer and colleagues (2026)]] found students conceptualizing GenAI as a social actor, a technique, learning material, or a structure, with socio-emotional and technical frames both salient. [[ai-engineering-education-balancing-act|Kudina (2026)]] describes engineering students' dominant frames as the LLM "oracle" and "tutor," both of which attribute authority and [[personalized-learning|personalization]] beyond what the tool reliably supplies. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman and colleagues (2026)]] treat one student's "vending machine of feedback" as a more useful literacy artifact than the polished tutor vocabulary, because it makes the transaction visible: insert work, receive output, no relationship and no agency.
 
-The cross-cutting finding is that metaphor is diagnostic of expectation. A student who calls an LLM an oracle is not simply using a colorful word. The label predicts what the student will do when the model is wrong, and what the student will believe about verification. A faculty member who calls it a search engine is not simply being imprecise. The label predicts what they will ask students to do with it. That is why [[educational-development]] programs can use metaphor elicitation before policy or assessment redesign, and why [[engineering-education]] and [[cs-education]] need [[discipline-specific-aied|discipline-specific]] conversations rather than one institution-wide definition.
+The cross-cutting finding is that metaphor is diagnostic of expectation. A student who calls an LLM an oracle is not simply using a colorful word. The label predicts what the student will do when the model is wrong, and what the student will believe about verification. A faculty member who calls it a search engine is not simply being imprecise. The label predicts what they will ask students to do with it. That is why [[educational-development|educational development]] programs can use metaphor elicitation before policy or assessment redesign, and why [[engineering-education|engineering education]] and [[cs-education|CS education]] need [[discipline-specific-aied|discipline-specific]] conversations rather than one institution-wide definition.
 
 A [[philosophy-of-ai-in-education|philosophical]] strand pushes metaphor in a different direction: [[daoism-ai-education-philosophy-2026|Xie (2026)]] proposes "Zhenren" as a counter-ideal to the algorithm-managed learner, treating the image as a way to argue about educational aims rather than to explain a technical process.
 
@@ -92,7 +92,7 @@ Each is paired with a short activity and a teacher-facilitated discussion. The f
 
 The framework's most important move is to treat metaphors as objects of critique. A metaphor is useful because it is partial, and it becomes dangerous when it is presented as complete. The funhouse mirror shows distortion but not the algorithm that produces it. The map shows representation but can imply a coherent intention that the system does not have. The black box shows opacity but can encourage the conclusion that nothing can be known. The lesson should end with the question of where the comparison breaks.
 
-That is also what connects metaphor work to [[ai-literacy]] more broadly. A metaphor workshop is a low-technology way to surface assumptions before a technical lesson. A critique of an AI-generated analogy is a way to assess whether a student understands the target concept. A student's own metaphor, such as the vending machine, can be more revealing than a standardized survey item. These are all forms of [[critical-thinking]] about AI, not just exercises in creative writing.
+That is also what connects metaphor work to [[ai-literacy|AI literacy]] more broadly. A metaphor workshop is a low-technology way to surface assumptions before a technical lesson. A critique of an AI-generated analogy is a way to assess whether a student understands the target concept. A student's own metaphor, such as the vending machine, can be more revealing than a standardized survey item. These are all forms of [[critical-thinking|critical thinking]] about AI, not just exercises in creative writing.
 
 ## Designing metaphor-based instruction
 

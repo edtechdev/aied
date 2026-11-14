@@ -69,7 +69,7 @@ The practical claim is that the core of an assignment — the step the learner i
 - The central claim is conceptual and untested: no study has measured the order of a task for a particular person, so the ladder is an argument from converging evidence rather than a validated model.
 - The paper leaves open how to tell expertise from mere experience and how to locate the core of a person's work, which the author notes can be hard to pin down and may shift as AI absorbs more tasks.
 - The evidence base is still emerging: several studies cited are preprints, most observe people over minutes or weeks while expertise forms over years, and reading low ownership as low self-relatedness is the author's own interpretation of one study.
-- Scope is limited to fields where tasks recur — medicine, programming, research writing — and to [[llm]] use on writing, coding, and reasoning tasks; multimedia, design work, and manual trades are outside the argument.
+- Scope is limited to fields where tasks recur — medicine, programming, research writing — and to [[llm|LLM]] use on writing, coding, and reasoning tasks; multimedia, design work, and manual trades are outside the argument.
 
 ## Citation
 

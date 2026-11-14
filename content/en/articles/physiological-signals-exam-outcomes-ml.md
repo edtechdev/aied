@@ -31,7 +31,7 @@ Physiological stress indicators — electrodermal activity, heart rate, and skin
 - **Learners.** Ask what a stress-prediction tool is actually measuring before you trust its verdict: the top three predictors in this study were electrodermal activity, accelerometer movement, and skin temperature — physiological arousal and motion, not comprehension.
 - **Learners.** Treat any predicted exam outcome as one signal among several; the authors state that predictions derived from physiological data should be interpreted alongside personal circumstances, environmental conditions, and mental health considerations before any high-stakes decision.
 - **Learners.** Prefer transparent models when a prediction affects you: the random forest reached a mean accuracy of 0.9590 with variability of 0.0003 and published its [[explainable-ai|feature importance]], while the SVM's kernel made actual feature importance not feasible.
-- **Learners.** Expect exam-stress monitoring to be framed as early well-being support — the value the authors claim is unobtrusive flagging of struggling students before outcomes are finalized and feeding [[learning-analytics]] and [[affective-computing]] pipelines — rather than as a grading instrument for [[well-being|student well-being]].
+- **Learners.** Expect exam-stress monitoring to be framed as early well-being support — the value the authors claim is unobtrusive flagging of struggling students before outcomes are finalized and feeding [[learning-analytics|learning analytics]] and [[affective-computing|affective computing]] pipelines — rather than as a grading instrument for [[well-being|student well-being]].
 
 ## Limitations
 

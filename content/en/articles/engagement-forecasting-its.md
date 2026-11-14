@@ -31,13 +31,13 @@ methods: [benchmark]
 
 ## Connections to the ITS Research Landscape
 
-This paper extends the [[zerkouk-comprehensive-review-its-2025]] findings on what makes ITS effective by adding a temporal prediction layer. Where prior work evaluates whether tutoring works on average, engagement forecasting asks *when* it works and *for whom* — connecting to the personalized intervention paradigm in [[golrang-propact-pair-programming-2026]].
+This paper extends the [[zerkouk-comprehensive-review-its-2025|Zerkouk et al. (2025)]] findings on what makes ITS effective by adding a temporal prediction layer. Where prior work evaluates whether tutoring works on average, engagement forecasting asks *when* it works and *for whom* — connecting to the personalized intervention paradigm in [[golrang-propact-pair-programming-2026|Golrang et al. (2026)]].
 
-The focus on middle-school students (N=425) aligns with the [[stanford-evidence-base-ai-k12-2026]], which calls for more rigorous [[k-12]] efficacy studies. The EDM 2026 venue, combined with [[genai-tutor-engagement-patterns]], suggests engagement analytics is becoming a recognized subfield within [[learning-analytics|educational data mining]].
+The focus on middle-school students (N=425) aligns with the [[stanford-evidence-base-ai-k12-2026|Walker et al. (2026)]], which calls for more rigorous [[k-12]] efficacy studies. The EDM 2026 venue, combined with [[genai-tutor-engagement-patterns|Youjie Chen et al. (2026)]], suggests engagement analytics is becoming a recognized subfield within [[learning-analytics|educational data mining]].
 
 ## Methodological Contribution
 
-The paper establishes a **reproducible [[benchmark]]** for engagement forecasting, with clearly defined prediction targets, a documented feature set, and public interaction log data. This is significant for the benchmark landscape in [[ai-education|AIED]], where many systems are evaluated on proprietary data with incomparable metrics.
+The paper establishes a **reproducible [[benchmark|benchmark]]** for engagement forecasting, with clearly defined prediction targets, a documented feature set, and public interaction log data. This is significant for the benchmark landscape in [[ai-education|AIED]], where many systems are evaluated on proprietary data with incomparable metrics.
 
 ## What this means for practice
 - **Designers.** Forecast minutes practiced and new skills mastered as two separate week-ahead targets, since effort is driven by recent-activity features while progress depends on learner state and content difficulty.

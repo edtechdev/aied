@@ -35,7 +35,7 @@ The narrowness is the value. A [[game-based-learning|review game]] where one stu
 
 ## What you can do with it
 
-Filter the gallery by subject or by whether an app is student-facing or a teacher tool, then use it straight from the browser. Nothing here is a platform to adopt: each app addresses one recurring classroom moment, so a teacher takes the one that fits, and the [[accessibility]] work appears as calm visuals, large targets and printable outputs rather than a settings panel.
+Filter the gallery by subject or by whether an app is student-facing or a teacher tool, then use it straight from the browser. Nothing here is a platform to adopt: each app addresses one recurring classroom moment, so a teacher takes the one that fits, and the [[accessibility|accessibility]] work appears as calm visuals, large targets and printable outputs rather than a settings panel.
 
 ## Who it is for
 

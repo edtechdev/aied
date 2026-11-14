@@ -78,7 +78,7 @@ A pedagogy guide is injected into every challenge prompt as internal context, sh
 
 ## Why This Matters
 
-Conventional AI writing tools that generate or rewrite text risk creating [[cognitive-offloading|cognitive debt]] — students outsource thinking rather than developing it. Prober.ai's approach connects to [[metacognition]] by forcing reflective engagement and to [[socratic-method]] through inquiry-based interaction. It represents a design pattern for "cognition-preserving AI" that could extend beyond writing to other domains, reframing [[ai-sycophancy|AI agreeableness]] and [[hallucination-risk|generation risk]] as design problems that constraint engineering can address.
+Conventional AI writing tools that generate or rewrite text risk creating [[cognitive-offloading|cognitive debt]] — students outsource thinking rather than developing it. Prober.ai's approach connects to [[metacognition|metacognition]] by forcing reflective engagement and to [[socratic-method|socratic method]] through inquiry-based interaction. It represents a design pattern for "cognition-preserving AI" that could extend beyond writing to other domains, reframing [[ai-sycophancy|AI agreeableness]] and [[hallucination-risk|generation risk]] as design problems that constraint engineering can address.
 
 ## What this means for practice
 

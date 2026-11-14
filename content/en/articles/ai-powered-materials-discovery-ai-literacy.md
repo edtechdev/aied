@@ -14,17 +14,17 @@ confidence: medium
 ---
 
 > **Synthesis:** This paper presents a workflow-aligned framework for preparing students to use AI in materials discovery. The authors argue that in materials science, the limiting factor is no longer only algorithmic capability but **[[human-ai-collaboration|human-AI collaboration]] competence**. Students need to develop scientific judgment about when to trust AI predictions and how to integrate them into [[research-methods-aied|research]] workflows.
-> The framework connects [[ai-literacy|AI literacy]] to equity and scientific judgment, emphasizing that students from under-resourced backgrounds may lack exposure to AI-powered research workflows. This intersects with broader [[equity-in-ai-education]] and [[stem-education]] concerns.
+> The framework connects [[ai-literacy|AI literacy]] to equity and scientific judgment, emphasizing that students from under-resourced backgrounds may lack exposure to AI-powered research workflows. This intersects with broader [[equity-in-ai-education|equity]] and [[stem-education|STEM education]] concerns.
 
 ## Connections to AIED
 
-The materials discovery context offers a model for how AI literacy should be taught across STEM disciplines: not as abstract knowledge, but as embedded workflow competence. This connects to [[agentic-workflows-education]] where students learn to use AI tools as part of authentic research practice rather than as separate subjects.
+The materials discovery context offers a model for how AI literacy should be taught across STEM disciplines: not as abstract knowledge, but as embedded workflow competence. This connects to [[agentic-workflows-education|Kamalov et al. (2026)]] where students learn to use AI tools as part of authentic research practice rather than as separate subjects.
 
-The framework also touches on [[metacognition]] — students need to develop judgment about AI outputs, which requires meta-awareness of their own reasoning processes when evaluating AI-generated predictions.
+The framework also touches on [[metacognition|metacognition]] — students need to develop judgment about AI outputs, which requires meta-awareness of their own reasoning processes when evaluating AI-generated predictions.
 
 ## What this means for practice
 
-- **Instructors.** Grade scientific judgment rather than code completion: use a 0–2 rubric scoring data provenance, descriptor justification, model validation, uncertainty reporting, physics-informed reasoning, reproducibility, and [[ethics]]/equity awareness instead of asking only whether the notebook runs.
+- **Instructors.** Grade scientific judgment rather than code completion: use a 0–2 rubric scoring data provenance, descriptor justification, model validation, uncertainty reporting, physics-informed reasoning, reproducibility, and [[ethics|ethics]]/equity awareness instead of asking only whether the notebook runs.
 - **Instructors.** Have students build a leaky benchmark and then repair it — the framework's Assignment B has them construct a naive random split that inflates performance, expose the leakage from near-duplicate compositions, and re-evaluate with grouped splits justified by chemical system.
 - **Learners.** Document where every dataset came from and why a representation is physically meaningful before reporting a model result; in materials informatics the scarce competence is judgment about AI predictions and their uncertainty, not the predictions themselves.
 - **Instructors.** Adopt the eight-week materials-informatics module sequence incrementally inside existing courses, bootcamps, or workshop formats rather than waiting for program-level reform.

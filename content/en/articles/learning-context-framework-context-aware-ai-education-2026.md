@@ -26,7 +26,7 @@ page_kind: [framework]
 
 - **Designers.** Build a holistic model of the learner rather than a narrow, decontextualized one: encode cognitive, affective, and sociocultural factors across short-, medium-, and long-term timescales instead of single features or single moments.
 - **Designers.** Adopt the Model Context Protocol as the interoperability layer so that a range of [[adaptive-learning|adaptive]] and other AI tools can share and act on the same learner context, making context-aware personalization practical across [[ai-education|education]] platforms rather than locked inside one product.
-- **Designers.** Warm-start the system with slow-to-surface signals: dialogue recovery reached 91.4% for [[misconceptions]] but only 68.6% for conscientiousness and 60% for language proficiency, so capture those traits in the context data layer rather than waiting for a new learner to reveal them.
+- **Designers.** Warm-start the system with slow-to-surface signals: dialogue recovery reached 91.4% for [[misconceptions|misconceptions]] but only 68.6% for conscientiousness and 60% for language proficiency, so capture those traits in the context data layer rather than waiting for a new learner to reveal them.
 - **Designers.** Treat privacy and performance as a managed tradeoff: establish the upper performance bound unconstrained by privacy protections first, then quantify how much learning utility each privacy-preserving mechanism costs before deploying.
 - **Researchers.** Control for raw domain mastery before attributing any gain to context awareness, using the roadmap's proposed baselines (Humanity's Last Exam, TutorBench, SocraticBench, LLF Bench) to verify tutoring moves, dialogic skill, and feedback-driven updating separately.
 

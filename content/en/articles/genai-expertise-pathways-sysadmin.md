@@ -14,7 +14,7 @@ audience: [institutions, instructional designers]
 level: [adult learning]
 ---
 
-> **Synthesis:** Drawing on 14 semi-structured interviews with IT professionals, this study explores how [[generative-ai|GenAI]] integration reshapes professional practice in system [[administrator|administration]] — troubleshooting, scripting, and system verification — extending concerns about [[cognitive-offloading]] and skill decay from classrooms to professional practice.
+> **Synthesis:** Drawing on 14 semi-structured interviews with IT professionals, this study explores how [[generative-ai|GenAI]] integration reshapes professional practice in system [[administrator|administration]] — troubleshooting, scripting, and system verification — extending concerns about [[cognitive-offloading|cognitive offloading]] and skill decay from classrooms to professional practice.
 
 ## Key Findings
 
@@ -22,13 +22,13 @@ Drawing on 14 semi-structured interviews with IT professionals, this study explo
 
 - **Compression of traditional expertise pathways:** GenAI acts as both mentor-like tutor and "ladder-shortening" tool, accelerating unfamiliar-domain task performance while reducing exposure to the foundational build-fail-debug cycles that historically built expertise.
 - **Performance perception shift:** AI-assisted speed resets organizational and self-expectations, creating a "two-speed culture" within teams and "productivity guilt" — a [[metacognition|metacognitive]] cost of AI-augmented work.
-- The findings extend concerns about [[cognitive-offloading]] and skill decay from classroom settings to professional practice, with implications for [[professional-training]] programs and [[professional-training|workplace learning]] — and for [[human-in-the-loop-ai|human-in-the-loop]] [[ai-education|AI-mediated]] work.
+- The findings extend concerns about [[cognitive-offloading|cognitive offloading]] and skill decay from classroom settings to professional practice, with implications for [[professional-training|professional training]] programs and [[professional-training|workplace learning]] — and for [[human-in-the-loop-ai|human-in-the-loop]] [[ai-education|AI-mediated]] work.
 
 ## What this means for practice
 
 - **Instructors.** Preserve the build-fail-debug cycles that build technical intuition: participants reported GenAI handling 60–70% of a task, removing the repetitive training ground on which professional judgment rests.
 - **Instructors.** Train novices to audit AI output line by line rather than accept it, since participants warned that the tool can "very confidently" give a wrong answer and that new users tend to "take it as is."
-- **Designers.** Treat verification as a required competency in [[professional-training]] and [[lifelong-learning]] programs rather than an afterthought; experienced participants positioned human expertise around context, verification, and judgment.
+- **Designers.** Treat verification as a required competency in [[professional-training|professional training]] and [[lifelong-learning|lifelong learning]] programs rather than an afterthought; experienced participants positioned human expertise around context, verification, and judgment.
 - **Administrators.** Make productivity metrics context-aware by counting the invisible labor of iterative [[prompt-engineering|prompting]] and output "babysitting," so a two-speed culture does not penalize staff without AI access or push them toward shadow AI use.
 
 ## Limitations

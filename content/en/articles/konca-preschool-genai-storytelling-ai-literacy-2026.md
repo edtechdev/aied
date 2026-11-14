@@ -63,7 +63,7 @@ The translation step deserves separate mention. Children reasoned in Turkish abo
 
 ## Limitations
 
-One classroom, one teacher, 22 children, six weeks, one image generator, and a teacher already committed to the approach. The analysis is transcript-led rather than [[multimodal]], the demarcation between AI reasoning and adjacent narrative competence is inspectable but contestable, and the tools are changing fast enough that the interactional patterns may not survive the next interface. The authors frame their claims as transferable rather than generalizable, which is the right frame for a single case.
+One classroom, one teacher, 22 children, six weeks, one image generator, and a teacher already committed to the approach. The analysis is transcript-led rather than [[multimodal|multimodal]], the demarcation between AI reasoning and adjacent narrative competence is inspectable but contestable, and the tools are changing fast enough that the interactional patterns may not survive the next interface. The authors frame their claims as transferable rather than generalizable, which is the right frame for a single case.
 
 ## Citation
 

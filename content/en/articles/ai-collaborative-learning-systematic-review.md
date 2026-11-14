@@ -13,14 +13,14 @@ page_kind: [synthesis]
 methods: [meta-analysis-systematic-review]
 ---
 
-> **Synthesis:** A [[meta-analysis-systematic-review|systematic review]] of AI-powered collaborative learning in [[higher-ed|higher education]]: Trends and outcomes from the last decade
+> **Synthesis:** A [[meta-analysis-systematic-review|systematic review]] of AI-powered [[collaborative-learning|collaborative learning]] in [[higher-ed|higher education]]: Trends and outcomes from the last decade
 
 ## Key Findings
 
 - A PRISMA 2020 systematic review covering **27 studies** of AI-powered collaborative learning in higher education, drawn from a Scopus search (run July 16, 2024, query: TITLE-ABS-KEY "artificial intelligence" AND collaborative AND learning AND higher AND education) that identified 163 records → 145 screened after excluding 18 conference reviews → 59 retrieved → 27 included after eligibility assessment.
 - The review organizes AI tools into four functional categories: **predictive analytics/early warning systems**, **language-based systems** ([[conversational-ai|chatbots]], [[llm|large language models]], [[educational-nlp|natural language processing]]), **recommender algorithms**, and **[[intelligent-tutoring|intelligent tutoring]] and monitoring applications** — each contributing differently to collaborative learning dynamics.
 - Evidence indicates AI-powered **predictive analytics and multimodal approaches (including emotional and physiological monitoring) enhance [[student-engagement|student engagement]] and motivation**, enabling early identification of at-risk students and timely, data-driven interventions (e.g., combining AI with [[learning-analytics|learning analytics]] for continuous feedback improved collaborative learning performance and satisfaction).
-- **[[personalized-learning|Personalized learning]] systems and recommender algorithms** were found to underpin effective collaborative environments, while **good task design** (balancing challenge and [[accessibility]], embedding collaboration requirements) and **emotional engagement and [[community-of-inquiry|social presence]]** emerged as critical success factors.
+- **[[personalized-learning|Personalized learning]] systems and recommender algorithms** were found to underpin effective collaborative environments, while **good task design** (balancing challenge and [[accessibility|accessibility]], embedding collaboration requirements) and **emotional engagement and [[community-of-inquiry|social presence]]** emerged as critical success factors.
 - The annual distribution of included articles shows a **marked increase in publications over the decade**, reflecting growing [[research-methods-aied|research]] interest in AI-enhanced collaborative learning in higher education.
 - Key challenges identified include **[[bias-mitigation|algorithmic bias]], [[cognitive-offloading|over-reliance]] on technology, and [[teacher-education|teacher training]] needs**, alongside [[ethics|ethical]] concerns about **transparency, [[privacy|data protection]], and balancing full automation with human touch**; the review notes AI's role in collaborative learning remains understudied relative to individual learning contexts.
 
@@ -41,8 +41,8 @@ The review synthesizes a decade (2014–2024) of research on AI-enhanced collabo
 
 - **Instructors.** Invest in task design before tooling: the review names challenge calibrated to group ability and collaboration requirements embedded in the task structure as success factors, along with emotional engagement and [[community-of-inquiry|social presence]] rather than cognitive outcomes alone.
 - **Instructors.** Configure AI to protect equal participation — monitoring contribution and adjusting task difficulty as group performance changes — so that dominant members cannot take over and reserved students are not left behind.
-- **Administrators.** Fund predictive and multimodal analytics for early disengagement detection (the reviewed systems use [[learning-analytics|learning analytics]] and emotional or physiological signals for timely intervention), and fund the [[governance]] and teacher [[lifelong-learning|upskilling]] the same studies identify as unmet needs.
-- **Administrators.** Treat bias, over-reliance, transparency, and [[privacy|data protection]] as deployment requirements rather than research caveats: they appear as recurring challenges across the decade of studies and as conditions for using AI in [[collaborative-learning]] at all.
+- **Administrators.** Fund predictive and multimodal analytics for early disengagement detection (the reviewed systems use [[learning-analytics|learning analytics]] and emotional or physiological signals for timely intervention), and fund the [[governance|governance]] and teacher [[lifelong-learning|upskilling]] the same studies identify as unmet needs.
+- **Administrators.** Treat bias, over-reliance, transparency, and [[privacy|data protection]] as deployment requirements rather than research caveats: they appear as recurring challenges across the decade of studies and as conditions for using AI in [[collaborative-learning|collaborative learning]] at all.
 - **Researchers.** Prioritize what the review finds thin: AI's role in collaborative rather than individual learning is understudied, and group cohesion, equal participation, and effective collective collaboration are the open ground it names.
 
 ## Limitations

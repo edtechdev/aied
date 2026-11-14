@@ -22,16 +22,16 @@ A three-week [[generative-ai|GenAI]] course for 78 ethnic minority preparatory s
 
 Using [[network-analysis|epistemic network analysis]] of collaborative discourse, thematic analysis of [[reflection|reflections]], and paired-samples t-tests on [[prompt-engineering|prompt self-efficacy]], the study documents 'strategic repurposing': students initially instrumentalized strategy talk to coordinate efficient copying before shifting toward genuine critical [[student-engagement|engagement]].
 
-The design specifically targets the [[reducing-ai-misuse|cognitive-laziness risk]] of GenAI in [[equity-in-ai-education|equity contexts]] — where broader access could otherwise become an answer-engine shortcut — by [[scaffolding]] [[prompt-engineering|prompt engineering]] as a thinking practice.
+The design specifically targets the [[reducing-ai-misuse|cognitive-laziness risk]] of GenAI in [[equity-in-ai-education|equity contexts]] — where broader access could otherwise become an answer-engine shortcut — by [[scaffolding|scaffolding]] [[prompt-engineering|prompt engineering]] as a thinking practice.
 
-Results indicate [[pedagogy|pedagogical]] [[scaffolding]] can transform how minoritized students engage GenAI, with implications for [[prompt-engineering|prompt self-efficacy]] and collaborative discourse quality; findings support scaffolded rather than open-ended GenAI use for equity populations.
+Results indicate [[pedagogy|pedagogical]] [[scaffolding|scaffolding]] can transform how minoritized students engage GenAI, with implications for [[prompt-engineering|prompt self-efficacy]] and collaborative discourse quality; findings support scaffolded rather than open-ended GenAI use for equity populations.
 
 ## What this means for practice
 
 - **Instructors.** Scaffold GenAI use deliberately instead of leaving it open-ended: teacher modeling with contrasting cases plus a human-in-the-loop workflow moved this class from coordinating efficient copying toward critical evaluation, supporting scaffolded rather than open use with equity populations.
 - **Instructors.** Teach [[prompt-engineering|prompt engineering]] as a thinking practice, not a tool skill — the students' initial passive reliance stemmed from limited prompt literacy and a felt epistemic asymmetry with the tool, and both eased once prompting was framed as planning and evaluation.
 - **Instructors.** Expect and plan for "strategic repurposing": students first used strategy talk to organize efficient copying, so a scaffold needs explicit checkpoints that surface whether planning is aimed at producing output or at evaluating it.
-- **Learners.** Shift prompt planning from "what can I get the tool to produce" toward critical evaluation and peer co-construction; students who realigned their planning this way reported gains in prompt [[self-efficacy]] (pre-test mean 3.757 to post-test 3.991).
+- **Learners.** Shift prompt planning from "what can I get the tool to produce" toward critical evaluation and peer co-construction; students who realigned their planning this way reported gains in prompt [[self-efficacy|self-efficacy]] (pre-test mean 3.757 to post-test 3.991).
 - **Administrators.** Treat technical GenAI training as insufficient on its own and fund pedagogical support for under-resourced cohorts, where access without guidance shifts the divide from access to use.
 
 ## Limitations

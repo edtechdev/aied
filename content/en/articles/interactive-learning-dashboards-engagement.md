@@ -14,7 +14,7 @@ confidence: high
 audience: [instructors, learning analytics designers]
 ---
 
-> **Synthesis:** Graf et al. (2026) transformed a conventional Learning Analytics Dashboard (LAD) into an interactive ILAD by adding an [[llm]]-powered [[pedagogical-agent|pedagogical agent]] and a Judgment of Learning (JoL) [[self-assessment]] feature. In a 5-week case study with 30 CS students across three conditions (no agent, "telling" agent, "eliciting" agent), the elicit condition produced more [[reflection]] and more accurate mastery calibration. The study bridges [[learning-analytics]] dashboard design with [[intelligent-tutoring]] principles and [[metacognition]] [[research-methods-aied|research]], showing that how learners interact with their data matters more than simply seeing it.
+> **Synthesis:** Graf et al. (2026) transformed a conventional Learning Analytics Dashboard (LAD) into an interactive ILAD by adding an [[llm|LLM]]-powered [[pedagogical-agent|pedagogical agent]] and a Judgment of Learning (JoL) [[self-assessment|self-assessment]] feature. In a 5-week case study with 30 CS students across three conditions (no agent, "telling" agent, "eliciting" agent), the elicit condition produced more [[reflection|reflection]] and more accurate mastery calibration. The study bridges [[learning-analytics|learning analytics]] dashboard design with [[intelligent-tutoring|intelligent tutoring]] principles and [[metacognition|metacognition]] [[research-methods-aied|research]], showing that how learners interact with their data matters more than simply seeing it.
 
 ## Study Design
 
@@ -33,13 +33,13 @@ audience: [instructors, learning analytics designers]
 
 ## Design Implications
 
-The paper challenges the dominant LAD paradigm of "show data → hope for insight." Drawing on [[intelligent-tutoring]] research (Chi's [[icap-framework|ICAP framework]]), the authors argue that:
+The paper challenges the dominant LAD paradigm of "show data → hope for insight." Drawing on [[intelligent-tutoring|intelligent tutoring]] research (Chi's [[icap-framework|ICAP framework]]), the authors argue that:
 
 1. **Interactivity ≠ navigation** — clicking filters is not cognitive engagement; two-way dialogue is
 2. **Elicitation beats telling** — asking learners to self-assess before revealing metrics drives calibration better than showing data upfront
 3. **LLMs enable scalable interactivity** — the pedagogical agent can ask personalized questions at scale, bringing ITS-style dialogue to dashboard contexts
 
-These findings connect to broader [[self-regulated-learning]] theory and the [[metacognition]] literature on judgment calibration.
+These findings connect to broader [[self-regulated-learning|self-regulated learning]] theory and the [[metacognition|metacognition]] literature on judgment calibration.
 
 ## What this means for practice
 
@@ -47,7 +47,7 @@ These findings connect to broader [[self-regulated-learning]] theory and the [[m
 - **Learning analytics designers.** Build an eliciting agent rather than a telling one. In the elicit condition judgment accuracy correlated with system mastery (r = 0.408, p < .001) while the tell condition showed no significant correlation with any metric (r = 0.143, p = 0.206).
 - **Learning analytics designers.** Adopt evolution of judgment accuracy as a dashboard outcome measure and track it over time: in the elicit condition the JoL–mastery correlation rose from r = 0.332 in the first period to r = 0.482 (p < .001) in the third, giving an instrument for whether [[metacognition|calibration]] actually improves.
 - **Instructors.** Plan for imperfect agent output and design around it. 13% of 284 randomly sampled LLM responses were faulty, concentrated when students asked for things outside the agent's intended capability, though the rate fell as students learned where it helped.
-- **Learning analytics designers.** Budget for inference cost and [[guardrails]] before a cohort-wide rollout: each student message triggered between one and ten API calls, and the authors flag the compounded cost and energy use of weekly use at scale.
+- **Learning analytics designers.** Budget for inference cost and [[guardrails|guardrails]] before a cohort-wide rollout: each student message triggered between one and ten API calls, and the authors flag the compounded cost and energy use of weekly use at scale.
 
 ## Limitations
 

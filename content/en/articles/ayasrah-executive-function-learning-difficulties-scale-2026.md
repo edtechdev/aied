@@ -35,7 +35,7 @@ The EFB-LDS-AI asks learners to endorse first-person statements about how they w
 
 The construct label deserves scrutiny. The paper states that EF-BLD "refers to AI-mediated executive-control learning difficulties, operationalized as self-reported maladaptive reliance behaviors and perceived reductions in effortful monitoring/verification during AI-supported learning, rather than a diagnosis of stable executive-function deficits." No working-memory task, inhibition task, or clinical cutoff appears anywhere in the study. "Memory erosion" is a perceived decline in the effort to encode and retrieve; "decline of critical thinking" is a self-reported drop in comparison and verification. Subscale scores describe study habits under AI use, not changed executive capacity.
 
-The authors contrast the scale with the Behavior Rating Inventory of Executive Function (parent and teacher report), the Executive Skills Questionnaire-Revised (unvalidated in AI settings), and the Minnesota Executive Function Scale (performance-based, cultural fit untested in the Middle East), none of which they say screens specifically for AI-mediated difficulties. The theory base combines cognitive load, [[self-regulated-learning]], transactive memory, motivation, confirmation bias, and cognitive offloading, with [[metacognition]] as the implied counterweight.
+The authors contrast the scale with the Behavior Rating Inventory of Executive Function (parent and teacher report), the Executive Skills Questionnaire-Revised (unvalidated in AI settings), and the Minnesota Executive Function Scale (performance-based, cultural fit untested in the Middle East), none of which they say screens specifically for AI-mediated difficulties. The theory base combines cognitive load, [[self-regulated-learning|self-regulated learning]], transactive memory, motivation, confirmation bias, and cognitive offloading, with [[metacognition|metacognition]] as the implied counterweight.
 
 ## Two-phase development
 
@@ -71,7 +71,7 @@ The dimensions are treated as distinct but correlated rather than as one general
 
 - **Screen, do not diagnose.** The scale profiles habits, so use it to open a conversation about how a learner works with AI, not to label a deficit or refer for clinical assessment.
 - **Target the subscale, not the total.** A learner with high informational bias needs verification routines and contrasting sources; a learner with high memory erosion needs retrieval practice and AI-free recall. Averaging six dimensions hides the distinction the instrument was built to make.
-- **Build [[ai-literacy]] around verification, not tool fluency.** The item content is about checking, comparing, and retaining, so instruction that only teaches prompting leaves the measured behaviors untouched.
+- **Build [[ai-literacy|AI literacy]] around verification, not tool fluency.** The item content is about checking, comparing, and retaining, so instruction that only teaches prompting leaves the measured behaviors untouched.
 - **Keep scores out of accountability systems.** These are self-reports of behavior students may not want to admit; using them for evaluation would corrupt the responses they depend on.
 
 ## Limitations
@@ -80,7 +80,7 @@ The dimensions are treated as distinct but correlated rather than as one general
 - Every measure is self-report. The authors concede that scores may reflect disclosure tendencies as much as behavior and call for AI usage logs, behavioral verification tasks, and teacher or parent ratings.
 - The design is cross-sectional, so the proposed ordering from offloading to memory erosion and reduced critical thinking is a theoretical pathway that the data cannot establish.
 - No tool-specific exposure metrics were collected (platforms, dose, frequency, purpose), leaving open whether the scale behaves the same for light and heavy users.
-- The item audit trail does not reconcile: the paper describes a 42-item form, then reports 35 items after removing two, and its [[generative-ai]] framing is inferred from item wording rather than specified.
+- The item audit trail does not reconcile: the paper describes a 42-item form, then reports 35 items after removing two, and its [[generative-ai|generative AI]] framing is inferred from item wording rather than specified.
 - The conclusion asserts that the scale "reliably distinguished between learners with and without learning difficulties," but no group-comparison analysis is reported, and invariance across gender says nothing about mean-score equality.
 
 ## Citation

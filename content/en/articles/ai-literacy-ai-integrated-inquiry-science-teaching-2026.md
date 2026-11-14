@@ -33,8 +33,8 @@ The data were analyzed with partial least squares structural equation modeling, 
 ## What this means for practice
 
 - **Faculty developers.** Embed AI training inside science pedagogy and inquiry design rather than treating general AI literacy as sufficient preparation — literacy reached integration intention only through AI-TPACK and confidence — so that pre-service teachers frame inquiry questions with AI, evaluate AI-generated scientific models, and judge the accuracy and bias of AI content.
-- **Faculty developers.** Build [[tpack|AI-TPACK]] through subject-specific modules on concept [[visualization]], experimental simulation, data interpretation, and explanation construction, rather than addressing AI only in generic educational technology courses.
-- **Instructors.** Convert reported confidence into practice: science teaching [[self-efficacy]] scored highest of the four constructs while intention to integrate AI scored lowest, so add scaffolded AI-integrated teaching experience to teacher preparation.
+- **Faculty developers.** Build [[tpack|AI-TPACK]] through subject-specific modules on concept [[visualization|visualization]], experimental simulation, data interpretation, and explanation construction, rather than addressing AI only in generic educational technology courses.
+- **Instructors.** Convert reported confidence into practice: science teaching [[self-efficacy|self-efficacy]] scored highest of the four constructs while intention to integrate AI scored lowest, so add scaffolded AI-integrated teaching experience to teacher preparation.
 - **Administrators.** Extend AI-enabled reform beyond general AI or digital literacy: curricula and assessment should test whether pre-service teachers can apply AI within scientific inquiry, model-based reasoning, and [[ethics|ethical]] classroom practice.
 
 ## Limitations

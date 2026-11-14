@@ -17,7 +17,7 @@ methods: [rct]
 
 ## Experimental Design
 
-The study employed a [[rct|randomized online experiment]] with 1,174 [[adult-learning|adults]] aged 25-45 in Argentina completing workplace-style [[problem-solving]] tasks:
+The study employed a [[rct|randomized online experiment]] with 1,174 [[adult-learning|adults]] aged 25-45 in Argentina completing workplace-style [[problem-solving|problem-solving]] tasks:
 
 - **Treatment group:** Access to a [[llm|generative AI assistant]] during the main task
 - **Control group:** No AI assistance

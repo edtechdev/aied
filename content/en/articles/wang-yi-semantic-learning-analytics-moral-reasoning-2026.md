@@ -73,7 +73,7 @@ The resulting R² = 0.30 is best read as an honest ceiling for what baseline per
 - The one-group pre–post design had no contemporaneous control, so the observed changes cannot be attributed to the module and may reflect testing, retest familiarity, maturation, history, or regression to the mean.
 - The same scenario and two prompts were used at both time points; stimulus priming and retest effects cannot be separated from learning-related change.
 - One scenario samples reasoning in a particular AI-research context, so the study cannot support claims about stable or global moral-value reasoning across unrelated domains.
-- N = 90 is modest for [[machine-learning]] analysis, all results are internal-validation estimates, and low-prevalence labels such as accountability and employee training were unstable; external replication is required.
+- N = 90 is modest for [[machine-learning|machine learning]] analysis, all results are internal-validation estimates, and low-prevalence labels such as accountability and employee training were unstable; external replication is required.
 - The six-value ontology, category–value mapping, and issue–solution adjacency matrix were expert-defined, so coupling and coverage are ontology-dependent and may not generalize across cultures, disciplines, or alternative moral-psychology frameworks.
 - One author contributed to course delivery, leaving an instructor–participant power asymmetry, and the baseline semantic, coding, and coupling features all derive from the same response format; the module was short and outcomes immediate, so long-term value internalization is untested.
 

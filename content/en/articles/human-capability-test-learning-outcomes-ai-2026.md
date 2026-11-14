@@ -14,7 +14,7 @@ level: [higher ed]
 page_kind: [framework]
 ---
 
-> **Synthesis:** This paper argues that [[generative-ai|generative AI]] has broken the traditional link between submitted work and student capability, so universities can no longer assume that the quality of submitted work reliably demonstrates what a student can do. The author proposes a human capability test built around three questions: what must a student demonstrate independently, what can be strengthened through AI augmentation, and what must the student verify, defend, and take responsibility for. An engineering material-balance problem illustrates how the test operates at the level of an individual learning outcome. The framework shifts the [[assessment]] question from whether AI was used to what capability remains the learner's own.
+> **Synthesis:** This paper argues that [[generative-ai|generative AI]] has broken the traditional link between submitted work and student capability, so universities can no longer assume that the quality of submitted work reliably demonstrates what a student can do. The author proposes a human capability test built around three questions: what must a student demonstrate independently, what can be strengthened through AI augmentation, and what must the student verify, defend, and take responsibility for. An engineering material-balance problem illustrates how the test operates at the level of an individual learning outcome. The framework shifts the [[assessment|assessment]] question from whether AI was used to what capability remains the learner's own.
 
 ## The Problem
 
@@ -22,7 +22,7 @@ Permission policies for [[generative-ai|GenAI]] increasingly recognize its impli
 
 ## The Human Capability Test
 
-The proposed test reframes [[assessment]] around three questions: what must a student demonstrate independently; what can be strengthened through AI augmentation; and what must the student verify, defend, and take responsibility for. It is intentionally non-prescriptive and adaptable across disciplines. An engineering material-balance problem illustrates how the test operates at the level of an individual learning outcome.
+The proposed test reframes [[assessment|assessment]] around three questions: what must a student demonstrate independently; what can be strengthened through AI augmentation; and what must the student verify, defend, and take responsibility for. It is intentionally non-prescriptive and adaptable across disciplines. An engineering material-balance problem illustrates how the test operates at the level of an individual learning outcome.
 
 ## What this means for practice
 

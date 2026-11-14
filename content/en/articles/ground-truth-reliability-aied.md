@@ -28,12 +28,12 @@ Educational settings present specific challenges that undermine threshold-based 
 
 - **High-inference constructs**: Complex concepts like "engagement" or "understanding" require deep judgment beyond surface-level agreement
 - **Skewed label distributions**: Class imbalance inflates or deflates κ in misleading ways
-- **Temporally segmented [[multimodal]] data**: Video, audio, and log data over time create segmentation challenges where raters may agree on the label but disagree on *when* to apply it
+- **Temporally segmented [[multimodal|multimodal]] data**: Video, audio, and log data over time create segmentation challenges where raters may agree on the label but disagree on *when* to apply it
 
 ### The LLM Annotation Risk
 The growing use of LLMs as annotators introduces new threats:
 
-- **[[automation-bias|Automation bias]]**: Over-trusting [[llm]] output without verification
+- **[[automation-bias|Automation bias]]**: Over-trusting [[llm|LLM]] output without verification
 - **Circular validation**: Using the same model to evaluate its own output
 - **Silent degradation**: LLM annotators may produce deceptively consistent but subtly wrong labels
 

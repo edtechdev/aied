@@ -17,9 +17,9 @@ institutions: [change-management]
 
 ## Overview
 
-AI tools are entering classrooms, but teachers differ in how ready they are to adopt them. This study examines how institutional support, teacher confidence, concerns and attitudes influence AI adoption in education. Grounded in the Unified Theory of Acceptance and Use of Technology ([[technology-acceptance-model|UTAUT]]), it treats institutional support as a facilitating condition, confidence as [[self-efficacy]], concerns as inhibitors, and attitudes as behavioral intention.
+AI tools are entering classrooms, but teachers differ in how ready they are to adopt them. This study examines how institutional support, teacher confidence, concerns and attitudes influence AI adoption in education. Grounded in the Unified Theory of Acceptance and Use of Technology ([[technology-acceptance-model|UTAUT]]), it treats institutional support as a facilitating condition, confidence as [[self-efficacy|self-efficacy]], concerns as inhibitors, and attitudes as behavioral intention.
 
-The problem: many teachers struggle with adoption because of limited training, unreliable access to technology, and concerns about [[ethics]] and [[privacy|data privacy]], yet few studies examine how support, confidence and concerns interact to shape attitudes toward AI. The paper therefore tests whether teacher concerns weaken or change the effect of institutional support on confidence and attitudes, and whether confidence explains how support produces more positive attitudes. Clarifying these relationships is meant to show where schools should focus to raise [[teacher-ai-competency|teacher readiness]].
+The problem: many teachers struggle with adoption because of limited training, unreliable access to technology, and concerns about [[ethics|ethics]] and [[privacy|data privacy]], yet few studies examine how support, confidence and concerns interact to shape attitudes toward AI. The paper therefore tests whether teacher concerns weaken or change the effect of institutional support on confidence and attitudes, and whether confidence explains how support produces more positive attitudes. Clarifying these relationships is meant to show where schools should focus to raise [[teacher-ai-competency|teacher readiness]].
 
 ## Study Design & Method
 
@@ -42,7 +42,7 @@ The problem: many teachers struggle with adoption because of limited training, u
 - **Instructors.** Build fluency through hands-on use rather than reassurance: confidence had a strong positive effect on attitudes (β = 0.855, p < 0.001), while concerns neither predicted attitudes (β = 0.220, p = 0.151) nor moderated the support–attitude relationship (β = −0.047, p = 0.173).
 - **Faculty developers.** Treat institutional support as necessary but not sufficient: it improved attitudes chiefly by raising confidence (indirect effect a × b = 0.4961, z = 12.63, p < .001), while its direct effect on attitudes was non-significant (β = 0.128, p = 0.106), so structured [[educational-development|professional development]], mentoring and technical assistance matter more than tool provision.
 - **Faculty developers.** Target the weakest confidence area directly, since confidence in handling technical issues was comparatively lower than general confidence in using AI tools.
-- **Administrators.** Embed [[ai-literacy]] in [[teacher-education]] programs, because resistance more often reflects systemic support gaps than individual reluctance: support had a strong effect on confidence (β = 0.537, p < 0.001; R² = 0.476), while support for internet reliability and infrastructure was only moderate.
+- **Administrators.** Embed [[ai-literacy|AI literacy]] in [[teacher-education|teacher education]] programs, because resistance more often reflects systemic support gaps than individual reluctance: support had a strong effect on confidence (β = 0.537, p < 0.001; R² = 0.476), while support for internet reliability and infrastructure was only moderate.
 
 ## Limitations
 

@@ -1,7 +1,7 @@
 ---
 title: Empathy
 created: "2026-11-10T21:10:00-05:00"
-updated: "2026-11-12T21:45:00-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [professional-training, experiential-learning, social-emotional-learning]
@@ -83,7 +83,7 @@ For education this cuts two ways. A [[curriculum-design|curriculum]] that uses A
 
 ## Common Misconceptions
 
-- **"AI can teach empathy."** AI can support rehearsal and [[reflection]]; the strongest review finds limited evidence for empathy as an outcome, and the best-controlled training study measures self-assessment.
+- **"AI can teach empathy."** AI can support rehearsal and [[reflection|reflection]]; the strongest review finds limited evidence for empathy as an outcome, and the best-controlled training study measures self-assessment.
 - **"Empathy is warm language."** Perceived empathy can be produced by [[prompt-engineering|prompt design]] alone, which is evidence about perception, not about understanding.
 - **"A smile means warmth."** In a distressing clinical encounter, observers read smiling as incongruity, and a facial-action detector reads it as positive affect. Context is the missing variable.
 - **"Self-report scales measure empathy."** They measure a disposition or a self-concept; they do not measure behavior in an encounter.

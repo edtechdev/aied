@@ -33,7 +33,7 @@ No data are reported. These are conceptual claims, tied to the literature the pa
 2. It is separated from four neighbours: technological determinism, which claims technology drives change by its own logic; digital transformation, of which it is one failure mode; technology adoption, which records only uptake; and technological solutionism, of which it is the institutional outcome.
 3. Generative AI's distinguishing property is evidential: models produce explanations, arguments and feedback that resemble evidence of understanding, so pressure falls on the relation between product, process, authorship and learning.
 4. Pedagogical primacy mirrors the diagnosis: justify use through an explicit learning problem, reconsider roles and tasks before choosing a tool, privilege process evidence such as drafts and [[oral-assessment|oral defense]], and deliberate publicly about the futures AI should serve.
-5. Pedagogically substantive integration is given four conditions: it answers an explicitly formulated problem, makes reasoning more visible, strengthens [[agency]] rather than dependence on automation, and answers to fairness, privacy and [[assessment-validity|assessment validity]].
+5. Pedagogically substantive integration is given four conditions: it answers an explicitly formulated problem, makes reasoning more visible, strengthens [[agency|agency]] rather than dependence on automation, and answers to fairness, privacy and [[assessment-validity|assessment validity]].
 6. Teacher education is assigned four capacities: diagnostic (does this use address a defined problem), design-oriented, ethical and epistemic (bias and authorship as pedagogical matters), and ecological (shared norms with students and colleagues).
 
 ## A diagnostic, not a theory of technology
@@ -42,7 +42,7 @@ The four characteristics are relational, not absolute: none says technology is b
 
 ## Why generative AI is treated as an inflection point
 
-The argument rests less on capability than on fluent output standing in for the artifacts institutions read as intellectual work. The authors decline to call AI a cognitive partner, since the phrase attributes intentionality the systems lack, and use AI-mediated pedagogical support instead: use within a design that keeps the learner responsible for verification and revision. They also insist [[scaffolding]] is conditional, requiring contingent support that is withdrawn, so AI does not scaffold merely by answering. The stakes are epistemic: the same explanation is valuable when students must critique it, and simulated when it replaces the reasoning it should support.
+The argument rests less on capability than on fluent output standing in for the artifacts institutions read as intellectual work. The authors decline to call AI a cognitive partner, since the phrase attributes intentionality the systems lack, and use AI-mediated pedagogical support instead: use within a design that keeps the learner responsible for verification and revision. They also insist [[scaffolding|scaffolding]] is conditional, requiring contingent support that is withdrawn, so AI does not scaffold merely by answering. The stakes are epistemic: the same explanation is valuable when students must critique it, and simulated when it replaces the reasoning it should support.
 
 ## Teacher education as the site, and the ecology that limits it
 

@@ -20,11 +20,11 @@ confidence: high
 
 ## The Controllability-over-Scale Paradigm
 
-The core philosophy is **controllability over scale**: a compact, affordable model can be fine-tuned to target specific reading levels and error patterns, something large general-purpose models cannot do out of the box. This has major implications for [[equity-in-ai-education]] — schools could run these models locally at low cost rather than depending on expensive API-based LLMs.
+The core philosophy is **controllability over scale**: a compact, affordable model can be fine-tuned to target specific reading levels and error patterns, something large general-purpose models cannot do out of the box. This has major implications for [[equity-in-ai-education|equity]] — schools could run these models locally at low cost rather than depending on expensive API-based LLMs.
 
 ## Educational Deployment
 
-The generated stories were designed for use by teachers, parents, and children in classrooms and at home. The controllable difficulty enables [[personalized-learning]] at scale — matching reading materials to individual student proficiency levels. The safety guarantees address concerns in [[hazra-safetutors-pedagogical-safety-2026]].
+The generated stories were designed for use by teachers, parents, and children in classrooms and at home. The controllable difficulty enables [[personalized-learning|personalized learning]] at scale — matching reading materials to individual student proficiency levels. The safety guarantees address concerns in [[hazra-safetutors-pedagogical-safety-2026|Hazra et al. (2026)]].
 
 ## Methodological Contribution
 
@@ -36,7 +36,7 @@ The generated stories were designed for use by teachers, parents, and children i
 - **Instructors.** Screen generated stories rather than trusting the aggregate toxicity score. Mean toxicity was near zero, yet five stories or fewer in each set of 1,290 still contained body-shaming or distressing lines such as "you're too fat." Read what you plan to hand out.
 - **Instructors.** Keep [[human-in-the-loop-ai|human oversight]] in the loop for this age group in line with [[pedagogical-safety|pedagogical safety]] guidance: the authors themselves recommend these models as assistive tools for draft generation and adaptation rather than unsupervised replacements for teachers or [[parents-and-families|caregivers]].
 - **Designers and software developers.** Budget for a single-curriculum pilot, then expect to re-collect training data. Repetition in the fine-tuned outputs — recurring place names and characters — traced back to the source stories, so vocabulary variety in your training corpus sets a ceiling on the variety your model can produce.
-- **Administrators.** Local 8B deployment is the equity argument: a model that runs on modest hardware removes per-token API costs that make [[equity-in-ai-education]] hard to sustain across many classrooms. Note that the authors still found 8B too large for mobile devices.
+- **Administrators.** Local 8B deployment is the equity argument: a model that runs on modest hardware removes per-token API costs that make [[equity-in-ai-education|equity]] hard to sustain across many classrooms. Note that the authors still found 8B too large for mobile devices.
 
 ## Limitations
 

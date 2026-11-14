@@ -25,8 +25,8 @@ institutions: [educational-policy-ai]
 
 ## What this means for practice
 
-- **Instructors.** Budget for the learning curve before promising time savings: if practitioners cannot adapt quickly, AI tools may reduce rather than increase productivity — the same overestimation pattern documented in [[cognitive-offloading-speedup-illusion]].
-- **Instructors.** Set explicit expectations for fair and appropriate use so any efficiency gain does not come from surface-level shortcuts; the incentives moderator connects directly to [[academic-integrity]] and to the risk that deeper learning is bypassed.
+- **Instructors.** Budget for the learning curve before promising time savings: if practitioners cannot adapt quickly, AI tools may reduce rather than increase productivity — the same overestimation pattern documented in [[cognitive-offloading-speedup-illusion|Yu et al. (2026)]].
+- **Instructors.** Set explicit expectations for fair and appropriate use so any efficiency gain does not come from surface-level shortcuts; the incentives moderator connects directly to [[academic-integrity|academic integrity]] and to the risk that deeper learning is bypassed.
 - **Administrators.** Treat human-resource composition and staff baseline capability as variables you manage rather than fixed conditions — the paper's central revision is that these five factors are endogenous organizational choices, not exogenous parameters.
 - **Administrators.** Fund training, incentives, and the flexibility to revise objectives alongside AI deployment, since the framework predicts that adoption without attention to those human systems falls short of promised gains.
 

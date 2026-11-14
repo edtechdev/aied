@@ -13,11 +13,11 @@ confidence: high
 methods: [qualitative-research]
 ---
 
-> **Synthesis:** Cheng, Chung, Chiu, Lin & Liao (2026) present Spritz, a Discord-based [[llm]] technology probe that mediates disciplinary boundaries in interdisciplinary student project teams, finding that students valued AI as both cognitive support for boundary crossing and a relational buffer — while a central tension emerged when AI moved from neutral mediator to advisor or challenger.
+> **Synthesis:** Cheng, Chung, Chiu, Lin & Liao (2026) present Spritz, a Discord-based [[llm|LLM]] technology probe that mediates disciplinary boundaries in interdisciplinary student project teams, finding that students valued AI as both cognitive support for boundary crossing and a relational buffer — while a central tension emerged when AI moved from neutral mediator to advisor or challenger.
 
 ## Key Findings
 
-1. **The challenge of interdisciplinary sensemaking.** Students in interdisciplinary [[active-learning]] must negotiate differences in language, assumptions, priorities, and practices, yet these differences are hard to surface in fragmented text-based team communication where AI tools often become private side channels.
+1. **The challenge of interdisciplinary sensemaking.** Students in interdisciplinary [[active-learning|active learning]] must negotiate differences in language, assumptions, priorities, and practices, yet these differences are hard to surface in fragmented text-based team communication where AI tools often become private side channels.
 2. **Spritz as a mediating probe.** Spritz monitors group chat for semantic or pragmatic boundary signals, prompts members to articulate perspectives through private channels, and returns anonymized syntheses to shared discussion. A technology probe study and co-design workshop ran with 12 university students across technical, business, and design backgrounds.
 3. **Dual value: cognitive and relational.** Participants valued AI mediation not only as cognitive support for boundary crossing but as a relational buffer — organizing fragmented discussion, surfacing implicit expectations, clarifying divergent interpretations, and softening interpersonal pressure around disagreement and concession.
 4. **The neutrality tension.** Participants imagined future AI mediators as switchable roles — strategic advisors, cross-domain translators, perspective challengers — but these expanded roles made the neutrality that had made AI acceptable as a mediator unstable once AI began to advise, challenge, or influence team decisions.

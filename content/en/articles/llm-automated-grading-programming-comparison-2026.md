@@ -17,7 +17,7 @@ level: [higher ed]
 
 ## Key Findings
 
-**Large-scale comparison.** Eighteen [[llm]] from four vendors were compared on 6,081 graded student submissions, the first such large-scale side-by-side [[assessment]] of contemporary models, including the GPT-5 family and Claude Opus 4.1 released in 2025.
+**Large-scale comparison.** Eighteen [[llm|LLM]] from four vendors were compared on 6,081 graded student submissions, the first such large-scale side-by-side [[assessment|assessment]] of contemporary models, including the GPT-5 family and Claude Opus 4.1 released in 2025.
 
 **Grading-style divergence.** Models split along a lenient–restrictive continuum: gpt-4o, gpt-4o-mini, and claude-haiku-3.5 awarded the most maximum (1.0) scores (lenient), while deepseek-reasoner and gpt-4.1-nano were dominated by failing (0.0) grades (restrictive); claude-sonnet-4 and gemini-2.0-flash-lite used the intermediate (0.5) category heavily. Mean grades ranged from 0.290 (gpt-4.1-nano) to 0.608 (claude-haiku-3.5).
 
@@ -27,9 +27,9 @@ level: [higher ed]
 
 **Scale matters.** Full-scale flagship models consistently outperformed their smaller "mini" and "nano" counterparts in alignment with human grades.
 
-**Limited human alignment.** Despite strong internal agreement among models, alignment with the human teacher's grades remained limited — even the best-performing model achieved only moderate reliability, underscoring the need for human oversight in [[cs-education]] deployment.
+**Limited human alignment.** Despite strong internal agreement among models, alignment with the human teacher's grades remained limited — even the best-performing model achieved only moderate reliability, underscoring the need for human oversight in [[cs-education|CS education]] deployment.
 
-**Implication.** The choice of LLM architecture and vendor materially affects grading outcomes in [[cs-education]], a key consideration for [[automated-assessment|Automated Grading]] and [[assessment]] design; the author recommends careful model selection, transparent reporting, and a human-in-the-loop approach.
+**Implication.** The choice of LLM architecture and vendor materially affects grading outcomes in [[cs-education|CS education]], a key consideration for [[automated-assessment|Automated Grading]] and [[assessment|assessment]] design; the author recommends careful model selection, transparent reporting, and a human-in-the-loop approach.
 
 ## What this means for practice
 

@@ -31,7 +31,7 @@ reviewed_by: [editor]
 
 ## Who it is for
 
-K–12 teachers who have used [[generative-ai|generative AI]] to build a small tool and need somewhere reliable to host it are the primary audience; the platform is designed for [[vibe-coding]] rather than for developers. Instructional designers and teacher educators can use the collections as examples and as a low-stakes way to build [[teacher-ai-competency|teacher AI competency]].
+K–12 teachers who have used [[generative-ai|generative AI]] to build a small tool and need somewhere reliable to host it are the primary audience; the platform is designed for [[vibe-coding|vibe coding]] rather than for developers. Instructional designers and teacher educators can use the collections as examples and as a low-stakes way to build [[teacher-ai-competency|teacher AI competency]].
 
 ## Notes and caveats
 

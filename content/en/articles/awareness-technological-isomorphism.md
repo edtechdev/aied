@@ -28,7 +28,7 @@ The paper proposes a **three-stage [[pedagogy|pedagogical]] pathway** — Percep
 - **Instructors.** Plan the activation moment around AI prediction failure in Stage 2 ("Comprehending AI," Grades 4–5): have students first run the manual mathematical investigation, then compare it with the algorithm's predictions and reflect on where the model goes wrong, rather than demonstrating a working tool.
 - **Instructors.** Keep the mathematics discipline-centric and treat AI as the scaffold, because activation of isomorphism awareness depends on students' thorough internalization of the underlying mathematical concept before the comparison is made.
 - **Learners.** Plot the points and estimate the unobserved value by hand before seeing any model output, so the parallel between "AI predicts the fifth data point based on the previous four" and their own reasoning is experienced rather than asserted.
-- **Instructors.** Build the three competencies the framework's scaling depends on — disciplinary insight to locate correspondences, pedagogical positioning that preserves subject centrality, and technical [[self-efficacy]] with LLMs that offer automated [[visualization|data visualization]]; programming is not a prerequisite.
+- **Instructors.** Build the three competencies the framework's scaling depends on — disciplinary insight to locate correspondences, pedagogical positioning that preserves subject centrality, and technical [[self-efficacy|self-efficacy]] with LLMs that offer automated [[visualization|data visualization]]; programming is not a prerequisite.
 
 ## Limitations
 

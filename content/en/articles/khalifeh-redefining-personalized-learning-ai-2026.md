@@ -12,7 +12,7 @@ page_kind: [framework, synthesis]
 methods: [meta-analysis-systematic-review]
 ---
 
-> **Synthesis:** Khalifeh, Santiago, and Palau (2026) [[meta-analysis-systematic-review|systematically review]] how AI is redefining **[[personalized-learning|personalized learning]]** (PL) terminology from 2019–2025 across six databases. They find that PL remains a broad, conceptually ambiguous umbrella term — with [[adaptive-learning|adaptive learning]], individualized instruction, and customized learning used interchangeably — and argue that AI-driven real-time feedback, adaptive sequencing, and intelligent tutoring have transformed PL in ways that demand a **unified framework and definition**. They also identify persistent research gaps: a disproportionate focus on older learners, limited longitudinal/inclusive/methodologically rigorous research, and insufficient attention to privacy, bias, [[ethics]], teacher preparation, and human–AI collaboration.
+> **Synthesis:** Khalifeh, Santiago, and Palau (2026) [[meta-analysis-systematic-review|systematically review]] how AI is redefining **[[personalized-learning|personalized learning]]** (PL) terminology from 2019–2025 across six databases. They find that PL remains a broad, conceptually ambiguous umbrella term — with [[adaptive-learning|adaptive learning]], individualized instruction, and customized learning used interchangeably — and argue that AI-driven real-time feedback, adaptive sequencing, and [[intelligent-tutoring|intelligent tutoring]] have transformed PL in ways that demand a **unified framework and definition**. They also identify persistent research gaps: a disproportionate focus on older learners, limited longitudinal/inclusive/methodologically rigorous research, and insufficient attention to privacy, bias, [[ethics|ethics]], teacher preparation, and human–AI collaboration.
 
 ## Key Findings
 
@@ -27,7 +27,7 @@ methods: [meta-analysis-systematic-review]
 - **Designers.** Separate adaptivity from personalization in product documentation: AI-driven adaptive sequencing is one design family in the literature, not a synonym for tailoring instruction to a learner.
 - **Researchers.** Adopt a shared definition before comparing studies: the review's central recommendation is a unified framework and definition, because inconsistent terminology is what keeps findings from aggregating.
 - **Researchers.** Fill the gaps the review documents rather than adding another short-term study of older learners: longitudinal, inclusive, and methodologically rigorous work in underrepresented populations is what the field lacks.
-- **Administrators.** Fund teacher preparation and [[human-ai-collaboration|human–AI collaboration]] alongside the technology, since [[privacy]], bias, [[ethics]], and teacher readiness are named as insufficiently addressed in the literature.
+- **Administrators.** Fund teacher preparation and [[human-ai-collaboration|human–AI collaboration]] alongside the technology, since [[privacy|privacy]], bias, [[ethics|ethics]], and teacher readiness are named as insufficiently addressed in the literature.
 
 ## Limitations
 

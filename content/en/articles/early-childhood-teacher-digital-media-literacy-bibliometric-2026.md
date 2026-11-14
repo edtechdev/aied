@@ -34,7 +34,7 @@ foundations: [ai-literacy, information-and-media-literacy, teacher-ai-competency
 2. **Media literacy is cited more than it is studied.** It attaches to [[teacher-education|teacher education]] and digital literacy but stays thin and internally underdeveloped, so a program looking for research on teaching children to read moving-image media will find little to follow.
 3. **AI barely registers.** AI literacy appears in a couple of keyword entries and never reaches the co-occurrence network; the one highly cited AI study asks what predicts attitudes toward [[ai-education|AI education]], not what teachers can do with it.
 4. **Enthusiasm outruns capability.** The best-cited studies report positive attitudes alongside moderate skills and insufficient knowledge, with digital content creation — the work closest to designing a learning experience — the weakest area.
-5. **Programs teach the competence and skip the [[ethics]].** In Spanish teacher-education study plans in the corpus, digital competence appeared in most programs but the ethical dimension in only a quarter of their teaching guides.
+5. **Programs teach the competence and skip the [[ethics|ethics]].** In Spanish teacher-education study plans in the corpus, digital competence appeared in most programs but the ethical dimension in only a quarter of their teaching guides.
 6. **Candidates and programs disagree about readiness.** Pre-service teachers called themselves unprepared to use technology in preschool practice; their teacher educators thought the support on offer was adequate. Two perceptions, with no observed practice between them.
 
 ## What a citation map can and cannot tell a program

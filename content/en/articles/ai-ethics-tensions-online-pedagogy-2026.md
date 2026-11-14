@@ -32,7 +32,7 @@ reviewed_by: [editor]
 ## Key Findings
 
 - **Twenty tensions, four per method.** Thematic analysis of the interviews identified 20 unique ethical tensions across the five methods, and the authors state that each method confronted four of them.
-- **Authenticity of learning is the dominant domain, with 11 of the 20 tensions.** It asks whether demonstrated competence reflects real understanding or AI-based performance, and it gathers [[academic-integrity]] concerns such as conversational ventriloquism, conceptual hollowing, [[scaffolding]] collapse, and the authenticity crisis.
+- **Authenticity of learning is the dominant domain, with 11 of the 20 tensions.** It asks whether demonstrated competence reflects real understanding or AI-based performance, and it gathers [[academic-integrity|academic integrity]] concerns such as conversational ventriloquism, conceptual hollowing, [[scaffolding|scaffolding]] collapse, and the authenticity crisis.
 - **Authority challenge holds 4 tensions,** covering shifts in power from the [[teacher-role|teacher]] toward AI tools: student autonomy, teacher authority, the translation dependency trap, and the confidence mirage.
 - **Collaborative dynamics holds 5 tensions** around trust, [[equity-in-ai-education|equity]], and participation among peers: invisible inequity, the trust erosion cycle, the AI alpha, collaborative hollowing, and the counselor's dilemma.
 - **The domains interact rather than sit side by side.** The authors state that a lack of authenticity can increase difficulties with authority, and that weak teamwork can also weaken meaningful learning; they describe the tensions as method-salient rather than method-exclusive, since the five methods are frequently combined in one online course.

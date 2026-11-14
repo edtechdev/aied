@@ -30,7 +30,7 @@ ai_assist:
 verified: [citation, numbers]
 ---
 
-> **Synthesis:** Ding, Hu, Kim and Chen surveyed [[higher-ed|university]] design teachers in mainland China and found that [[generative-ai|generative AI]] acts on their work through two paths at once. Use raises teaching [[self-efficacy]] and [[well-being]], which carry teachers toward experimentation and engagement, and it raises [[anxiety-and-stress|AI anxiety]] and job stress, which carry them toward withdrawal. Which path dominates depends on whether teachers read the institution as backing them or as having broken a promise; that makes support part of the intervention.
+> **Synthesis:** Ding, Hu, Kim and Chen surveyed [[higher-ed|university]] design teachers in mainland China and found that [[generative-ai|generative AI]] acts on their work through two paths at once. Use raises teaching [[self-efficacy|self-efficacy]] and [[well-being|well-being]], which carry teachers toward experimentation and engagement, and it raises [[anxiety-and-stress|AI anxiety]] and job stress, which carry them toward withdrawal. Which path dominates depends on whether teachers read the institution as backing them or as having broken a promise; that makes support part of the intervention.
 
 ## Key Findings
 

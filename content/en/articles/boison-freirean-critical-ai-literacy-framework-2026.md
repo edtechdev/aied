@@ -27,7 +27,7 @@ institutions: [governance, educational-policy-ai]
 ethics: [equity-in-ai-education, global-south, culturally-relevant-pedagogy]
 ---
 
-> **Synthesis:** Boison (2026) argues that [[ai-literacy|AI literacy]] frameworks in [[higher-ed|higher education]] specify what learners should be able to do more sharply than they explain how critical consciousness develops. His Freirean Critical AI Literacy (FCAIL) framework answers with four dialectically related dimensions, each pairing a learner capacity with the educational conditions that enable or constrain it: AI World-Reading, Contradiction Naming, Critical Praxis, and Solidary Conscientization. A decolonial epistemic commitment runs through all four rather than sitting beside them as an [[ethics]] module, and the unit of analysis is the educational arrangement — learners, faculty, institutions, communities — not the isolated learner. The paper reports no sample, data, or empirical evaluation, offering four propositions and a construct-to-evidence matrix for later testing, and presents FCAIL as a complement to competency frameworks.
+> **Synthesis:** Boison (2026) argues that [[ai-literacy|AI literacy]] frameworks in [[higher-ed|higher education]] specify what learners should be able to do more sharply than they explain how critical consciousness develops. His Freirean Critical AI Literacy (FCAIL) framework answers with four dialectically related dimensions, each pairing a learner capacity with the educational conditions that enable or constrain it: AI World-Reading, Contradiction Naming, Critical Praxis, and Solidary Conscientization. A decolonial epistemic commitment runs through all four rather than sitting beside them as an [[ethics|ethics]] module, and the unit of analysis is the educational arrangement — learners, faculty, institutions, communities — not the isolated learner. The paper reports no sample, data, or empirical evaluation, offering four propositions and a construct-to-evidence matrix for later testing, and presents FCAIL as a complement to competency frameworks.
 
 ## Key Findings
 
@@ -69,7 +69,7 @@ These are design proposals, not tested effects.
 
 - **Instructors.** Begin with a system students already use and ask who built it, on which data, to optimize what, so technical description opens inquiry rather than closing it.
 - **Curriculum designers.** Put a live contradiction inside disciplinary content: have students audit what an AI feedback rubric rewards and misses, whose English it treats as standard, and what that implies for professional judgment.
-- **Assessment designers.** Ask what widespread AI substitutability reveals about what an assessment measured, then redesign toward process, [[metacognition]], contextual embedding, and [[oral-assessment|oral defense]] rather than detection alone.
+- **Assessment designers.** Ask what widespread AI substitutability reveals about what an assessment measured, then redesign toward process, [[metacognition|metacognition]], contextual embedding, and [[oral-assessment|oral defense]] rather than detection alone.
 - **Administrators.** Treat student participation in [[governance|AI governance]] as a literacy condition: seats with effect on vendor decisions, transparent procurement, and a real mechanism for contesting AI-mediated decisions about standing or support.
 - **Faculty developers and researchers.** Prepare faculty as co-investigators who can facilitate critical dialogue, and measure conditions alongside capacity, preferring evidence about how dialogue changes students' reasoning rather than post-course satisfaction.
 
@@ -78,7 +78,7 @@ These are design proposals, not tested effects.
 - The framework is conceptual and untested; the paper reports no sample, instruments, or data, and its dimensions are illustrated rather than validated.
 - The four dimensions are reconstructed from one reading of Freire and offered as a principled reconstruction, not an exhaustive representation.
 - Separability is asserted, not demonstrated: no evidence shows the four capacities are empirically distinguishable, and measuring learner behavior without institutional conditions captures only one term of each construct.
-- The four boundary conditions are themselves an empirical question, and the framework claims theoretical applicability rather than empirical transferability; Freirean [[pedagogy]] emerged from acute oppression, so its adaptation to Global North settings remains unresolved.
+- The four boundary conditions are themselves an empirical question, and the framework claims theoretical applicability rather than empirical transferability; Freirean [[pedagogy|pedagogy]] emerged from acute oppression, so its adaptation to Global North settings remains unresolved.
 - The decolonial claim is deliberately narrow and cannot substitute for Indigenization; the paper acknowledges the risk of metaphorical decolonization in Tuck and Yang's sense.
 - No operational instruments are offered, and assessment risks reducing the constructs to scored behaviors; the northern illustration is sector-level rather than documented practice, and no cost, staffing, or scalability analysis accompanies the governance demands.
 

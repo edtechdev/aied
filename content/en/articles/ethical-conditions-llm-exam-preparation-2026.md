@@ -15,7 +15,7 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Pérez-Portabella, Arias-Oliva, Padilla-Castillo, and de Andrés-Sánchez (2026) use the Multidimensional Ethics Scale with 151 Spanish [[higher-ed|undergraduates]] to test whether [[ethics|ethical]] perceptions shape intention to use large language models for exam preparation and, in turn, actual use. Necessary Condition Analysis shows all three ethical dimensions (moral [[equity-in-ai-education|equity]], consequentialism, deontology) are necessary conditions for intention to use, while PLS-SEM finds only consequentialist and deontological judgments are sufficient predictors; intention is both a necessary and a strong sufficient predictor of actual use. The results position ethical reasoning as central to responsible [[llm]] adoption in assessment contexts.
+> **Synthesis:** Pérez-Portabella, Arias-Oliva, Padilla-Castillo, and de Andrés-Sánchez (2026) use the Multidimensional Ethics Scale with 151 Spanish [[higher-ed|undergraduates]] to test whether [[ethics|ethical]] perceptions shape intention to use large language models for exam preparation and, in turn, actual use. Necessary Condition Analysis shows all three ethical dimensions (moral [[equity-in-ai-education|equity]], consequentialism, deontology) are necessary conditions for intention to use, while PLS-SEM finds only consequentialist and deontological judgments are sufficient predictors; intention is both a necessary and a strong sufficient predictor of actual use. The results position ethical reasoning as central to responsible [[llm|LLM]] adoption in assessment contexts.
 
 ## Key Findings
 
@@ -27,7 +27,7 @@ page_kind: [evaluation]
 ## What this means for practice
 
 - **Instructors.** Make the ethical stakes of LLM use in assessment explicit instead of relying on rule compliance, because consequentialist (β = 0.350) and deontological (β = 0.329) judgments were the sufficient predictors of intention to use.
-- **Instructors.** Redesign assessment toward process-oriented tasks that reward [[creativity]], critical [[reflection]], and integration of multiple sources, since students who perceive learning benefit intend to use LLMs even without explicit regulation.
+- **Instructors.** Redesign assessment toward process-oriented tasks that reward [[creativity|creativity]], critical [[reflection|reflection]], and integration of multiple sources, since students who perceive learning benefit intend to use LLMs even without explicit regulation.
 - **Administrators.** Pair integrity codes with support for students' normative reasoning: moral equity was a necessary condition (d = 0.338) but not a sufficient predictor of intention (β = 0.108, p = 0.414).
 - **Students.** Treat the decision about exam-preparation use as consequential rather than incidental — intention was a very strong sufficient predictor of actual use (β = 0.905).
 - **Administrators.** Position [[ai-use-disclosure|disclosure]] policies as complements to ethical reasoning rather than substitutes, since moral considerations operate alongside [[technology-acceptance-model|perceived usefulness]] and ease of use in shaping adoption.

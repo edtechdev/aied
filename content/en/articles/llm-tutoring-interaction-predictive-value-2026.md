@@ -41,9 +41,9 @@ ai_assist:
 
 ## Why the study asks for a baseline, not a score
 
-Predictive [[learning-analytics]] papers often report model accuracy without a reference point, which makes a modest model look informative and a useful one look mediocre. The design here fixes that: six supervised estimators share repeated nested cross-validation with two constant baselines (mean and median) across 50 folds and ten repeats, and differences are reported as paired intervals from 5,000 draws. Under that framing, the honest summary of a tutoring-interaction model in this cohort is that it is roughly level with guessing the median.
+Predictive [[learning-analytics|learning analytics]] papers often report model accuracy without a reference point, which makes a modest model look informative and a useful one look mediocre. The design here fixes that: six supervised estimators share repeated nested cross-validation with two constant baselines (mean and median) across 50 folds and ten repeats, and differences are reported as paired intervals from 5,000 draws. Under that framing, the honest summary of a tutoring-interaction model in this cohort is that it is roughly level with guessing the median.
 
-The representation is deliberately semester-level rather than turn-by-turn: volume of exchanges, request-type ratios, conversation and prompt counts, active days and follow-up ratio, fifteen features in all, computed for each student–semester. The question is the one an advisor would ask of a dashboard, whether a term's worth of [[help-seeking]] behavior carries signal about assessed performance, and the answer turns out to depend heavily on how much variance the [[assessment]] itself leaves.
+The representation is deliberately semester-level rather than turn-by-turn: volume of exchanges, request-type ratios, conversation and prompt counts, active days and follow-up ratio, fifteen features in all, computed for each student–semester. The question is the one an advisor would ask of a dashboard, whether a term's worth of [[help-seeking|help-seeking]] behavior carries signal about assessed performance, and the answer turns out to depend heavily on how much variance the [[assessment|assessment]] itself leaves.
 
 ## What the ceiling and the quartile reveal
 

@@ -48,29 +48,29 @@ Choosing k = 1 for a proctoring decision is worth pausing on: single-nearest-nei
 
 A 99.56% accuracy on a held-out split answers one question: given this dataset, this labeling scheme, and this feature set, the classifier reproduces the labels. It does not answer the question an institution actually asks, which is whether a flagged student is more likely than an unflagged one to have cheated.
 
-Three gaps separate the two. First, the dataset is described as "a labeled dataset of examination scenarios" rather than authentic exam sessions, so its base rate and its variety of genuine student behavior are unknown; a detector evaluated on scripted scenarios has not met a student who reads a question aloud, adjusts a lamp, or has a tic. Second, no ground truth about misconduct is reported, so precision and recall are measured against a behavioral proxy rather than against cheating. Third, [[remote-proctoring]] research has long documented that flagging rates and [[student-experience|student experience]] differ across disability status, skin tone, and cultural norms of gaze and posture, and this system does not report any subgroup analysis.
+Three gaps separate the two. First, the dataset is described as "a labeled dataset of examination scenarios" rather than authentic exam sessions, so its base rate and its variety of genuine student behavior are unknown; a detector evaluated on scripted scenarios has not met a student who reads a question aloud, adjusts a lamp, or has a tic. Second, no ground truth about misconduct is reported, so precision and recall are measured against a behavioral proxy rather than against cheating. Third, [[remote-proctoring|remote proctoring]] research has long documented that flagging rates and [[student-experience|student experience]] differ across disability status, skin tone, and cultural norms of gaze and posture, and this system does not report any subgroup analysis.
 
-The [[privacy]] exposure is structural rather than incidental: continuous webcam analysis of a student's body in their own room, with the derived features retained or transmitted for review.
+The [[privacy|privacy]] exposure is structural rather than incidental: continuous webcam analysis of a student's body in their own room, with the derived features retained or transmitted for review.
 
 ## Where this sits against the wider evidence
 
 The paper's framing, that rule-based monitoring has failed and that better sensing will fix it, is the same escalation [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] argues against. His audit of 53,915 assessment items found most assessed marks resting on work whose authorship cannot be verified after submission, and his remedy was sufficient evidence of learning at key stages rather than maximum surveillance of every submission. A detector that watches posture more precisely does not change what the assessment can certify.
 
-The evidential standard also matters for how such a system should be read. Published proctoring evaluations that report student outcomes rather than classifier metrics are the ones that bear on [[academic-integrity]], and those tend to report fear, distraction, and differential burden alongside detection rates. This paper reports none of them, which is a scope limit rather than a flaw in the engineering.
+The evidential standard also matters for how such a system should be read. Published proctoring evaluations that report student outcomes rather than classifier metrics are the ones that bear on [[academic-integrity|academic integrity]], and those tend to report fear, distraction, and differential burden alongside detection rates. This paper reports none of them, which is a scope limit rather than a flaw in the engineering.
 
 ## What this means for practice
 
 - **Assessment designers.** Treat a near-ceiling classifier score as evidence about a labeled dataset, not as evidence that the flagged behavior is misconduct, and ask for the dataset's base rate and labeling protocol before treating a flag as a finding.
 - **Institutions.** Require subgroup reporting before deployment, because posture and gaze conventions vary with disability, culture, and camera position, and a detector calibrated on one population will flag others at a different rate.
 - **Educational technology developers.** Separate the detection claim from the inference claim in the product copy: "the model classified this frame as suspicious" and "this student behaved suspiciously" are different statements, and only the first is supported here.
-- **Assessment professionals.** Compare the surveillance route against evidence-based redesign, since heightened monitoring adds [[privacy]] cost without changing whether the assessment can certify the learning it claims to measure.
+- **Assessment professionals.** Compare the surveillance route against evidence-based redesign, since heightened monitoring adds [[privacy|privacy]] cost without changing whether the assessment can certify the learning it claims to measure.
 
 ## Limitations
 
 - The dataset is described only as labeled examination scenarios, with no reported base rate, collection protocol, participant count, or demographic composition, so the accuracy figures cannot be generalized to live invigilated or uninvigilated examinations.
 - No ground truth about actual misconduct is reported; precision, recall, and F1 are computed against behavioral labels rather than against cheating, so the system's error rate on the outcome an institution cares about is unknown.
 - Single-nearest-neighbor classification with k = 1 gives no robustness to an unfamiliar or boundary posture, and the paper reports no ablation separating the contribution of pose estimation, feature selection, and classifier choice.
-- No subgroup or fairness analysis is reported for disability status, skin tone, gender, camera quality, lighting, or cultural norms of gaze, all of which are documented sources of differential flagging in [[remote-proctoring]] systems.
+- No subgroup or fairness analysis is reported for disability status, skin tone, gender, camera quality, lighting, or cultural norms of gaze, all of which are documented sources of differential flagging in [[remote-proctoring|remote proctoring]] systems.
 - The evaluation reports no student experience, [[anxiety-and-stress|anxiety]], or acceptance measure, and no comparison against human invigilation on the same scenarios, so the claimed improvement over existing practice is not directly measured.
 - The version assessed is a journal pre-proof accepted 18 October 2026, so pagination and any post-acceptance corrections may differ from the final article.
 

@@ -68,7 +68,7 @@ A critical [[research-methods-aied|methodological]] finding: **CrT was more ofte
 
 **Affordances:**
 1. **Ideation and [[creativity|divergent thinking]]** (n=31) — Most frequently reported affordance; ChatGPT as brainstorming partner surfacing unique insights
-2. **Structural and expressive [[scaffolding]]** (n=24) — Assisted with structuring content, experimenting with tone, stylistic expression
+2. **Structural and expressive [[scaffolding|scaffolding]]** (n=24) — Assisted with structuring content, experimenting with tone, stylistic expression
 3. **Dialogic engagement and perspective-shifting** (n=18) — Functioned as co-designer in argument, debate, and role-based [[simulation|simulations]]
 4. **[[affective-computing|Affective]] and [[motivation|motivational]] activation** (n=16) — Reduced creative [[anxiety-and-stress|anxiety]]; perceived as "brainstorming buddy"
 5. **Instructionally mediated gains** (n=21) — Significant gains in originality, fluency, and elaboration when embedded in flipped classrooms or scaffolded creative modules
@@ -90,7 +90,7 @@ The 33 studies examining both CT and CrT revealed three trajectories:
 | **Asymmetrical Development** (CrT↑, CT↓) | 8 | Creative fluency improved but critical engagement declined | Unstructured use, emphasis on ideation over evaluation, minimal critical framing |
 | **Joint Cognitive Erosion** (CT↓, CrT↓) | 4 | Both domains stagnated or declined | Passive/unscaffolded usage, task-completion focus, no metacognitive prompts |
 
-The **synergistic pattern** aligns with [[critical-thinking-genai-scaffolding]] — when tasks require both generation and evaluation, AI supports both. The **asymmetrical pattern** is the most common failure mode: creativity flourishes at critical thinking's expense. The **joint erosion pattern**, while least common (n=4), is the most concerning — occurring when ChatGPT is used purely as a convenience tool with no pedagogical framing.
+The **synergistic pattern** aligns with [[critical-thinking-genai-scaffolding|Vendrell et al. (2026)]] — when tasks require both generation and evaluation, AI supports both. The **asymmetrical pattern** is the most common failure mode: creativity flourishes at critical thinking's expense. The **joint erosion pattern**, while least common (n=4), is the most concerning — occurring when ChatGPT is used purely as a convenience tool with no pedagogical framing.
 
 ## Discussion: ChatGPT as Cognitive Mediator
 
@@ -108,24 +108,24 @@ The **boundary object** function — ChatGPT's interpretive flexibility across d
 1. **Embed structured cognitive scaffolding** — Stepwise activities: [[prompt-engineering|prompt design]] → output evaluation → iterative refinement. Frame ChatGPT as dialogic partner, not solution provider. This aligns with [[critical-thinking-genai-scaffolding|the six-process scaffolding framework]] and [[human-in-the-loop-ai|human-in-the-loop architectures]].
 2. **Explicitly teach AI literacy for epistemic vigilance** — Integrate modules on prompt refinement, hallucination recognition, bias detection, and contextual interpretation. Addresses the [[ai-literacy-assessment-misalignment|self-report vs. performance gap]] in [[ai-ed-evaluation|AI evaluation]] skills.
 3. **Design tasks that co-activate CT and CrT through recursive inquiry** — Open-ended case studies, argumentative writing with multi-perspective AI dialogue, [[project-based-learning|project-based]] tasks requiring both generation and analytical reflection. This is the practical implementation of the dual-lens framework.
-4. **Implement reflection protocols for cognitive [[regulation]]** — Guided prompts after each interaction: "What was most useful/misleading?", "How did this shape your thinking?", "What would you change in your next prompt?" Reinforces [[metacognition|metacognitive monitoring]].
+4. **Implement reflection protocols for cognitive [[regulation|regulation]]** — Guided prompts after each interaction: "What was most useful/misleading?", "How did this shape your thinking?", "What would you change in your next prompt?" Reinforces [[metacognition|metacognitive monitoring]].
 5. **Leverage ChatGPT as a connective node for interdisciplinary thinking** — Cross-domain tasks that draw on ChatGPT's broad knowledge while critically examining disciplinary assumptions. Supports [[ai-learning-companions-framework|dialogic partner]] and connectivist learning.
-6. **Position feedback as a multi-source process** — Triangulate [[ai-feedback-quality|AI feedback]] with [[peer-assessment|peer assessment]], instructor input, and [[self-assessment]]. Creates [[feedback|multi-source feedback loops]] that mitigate overreliance.
+6. **Position feedback as a multi-source process** — Triangulate [[ai-feedback-quality|AI feedback]] with [[peer-assessment|peer assessment]], instructor input, and [[self-assessment|self-assessment]]. Creates [[feedback|multi-source feedback loops]] that mitigate overreliance.
 
 ## Implications for the Knowledge Base
 
 This review is a **keystone synthesis** connecting multiple threads in the AI education evidence base:
 
-- **[[critical-thinking-genai-scaffolding]]** shares the core premise — pedagogical design determines whether GenAI helps or harms thinking — and the six-process framework maps directly onto this review's scaffolding recommendations
-- **[[metacognition]]** identifies the same suppression risk and regulatory mechanisms the review documents at scale across 67 studies
-- **[[ai-literacy-assessment-misalignment]]** explains why students struggle to calibrate AI evaluation — the review confirms this as a critical moderator
-- **[[human-in-the-loop-ai]]** provides implementation architectures for the scaffolding strategies recommended
-- **[[ai-learning-companions-framework]]** offers design paradigms aligned with "dialogic partner" and "boundary object" concepts
+- **[[critical-thinking-genai-scaffolding|Vendrell et al. (2026)]]** shares the core premise — pedagogical design determines whether GenAI helps or harms thinking — and the six-process framework maps directly onto this review's scaffolding recommendations
+- **[[metacognition|metacognition]]** identifies the same suppression risk and regulatory mechanisms the review documents at scale across 67 studies
+- **[[ai-literacy-assessment-misalignment|Zhang et al., 2026]]** explains why students struggle to calibrate AI evaluation — the review confirms this as a critical moderator
+- **[[human-in-the-loop-ai|human-in-the-loop]]** provides implementation architectures for the scaffolding strategies recommended
+- **[[ai-learning-companions-framework|Khosravi et al. (2026)]]** offers design paradigms aligned with "dialogic partner" and "boundary object" concepts
 - **[[feedback|Feedback Loop]]** operationalizes the multi-source feedback recommendation
-- **[[educational-development]]** is essential — educators need training to implement these scaffolds
-- **[[student-experience]]** captures the learner perspective on usage patterns
-- **[[higher-ed]]** and [[universities-ai-era-rethinking]] provide the [[governance|institutional]] context
-- **[[institutional-change-framework-ai]]** frames how activity systems must adapt
+- **[[educational-development|educational development]]** is essential — educators need training to implement these scaffolds
+- **[[student-experience|student experience]]** captures the learner perspective on usage patterns
+- **[[higher-ed|higher education]]** and [[universities-ai-era-rethinking|Binkowski et al. (2026)]] provide the [[governance|institutional]] context
+- **[[institutional-change-framework-ai|Perl-Nussbaum et al., 2026]]** frames how activity systems must adapt
 
 The review's core insight — that ChatGPT's cognitive effects are contingent on pedagogy, not inherent to the technology — reinforces a pattern visible across the knowledge base: **[[ai-education|AI in education]] succeeds or fails based on how it is implemented, not what it can do.**
 

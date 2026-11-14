@@ -26,7 +26,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** A six-week quasi-experimental pre-test/post-test control-group study gave a localized AI tutor to 240 STEM students across three Kwara State colleges of education, against 120 conventionally taught peers. The [[intelligent-tutoring|AI-augmented]] group's mean gain on a two-part Technical Skill Assessment Test was roughly double the control group's, and an analysis of covariance with the pre-test as covariate rejected the null hypothesis. Most AI-assisted students reported a significant confidence increase, against fewer than half of controls. The authors read this through [[cognitive-offloading|cognitive load theory]]: synchronous [[feedback]] as [[scaffolding]] that removes extraneous load, though thin reporting, no effect sizes, an unnamed base model, [[self-report-measures|self-reported]] confidence, makes the advantage indicative rather than precise.
+> **Synthesis:** A six-week quasi-experimental pre-test/post-test control-group study gave a localized AI tutor to 240 STEM students across three Kwara State colleges of education, against 120 conventionally taught peers. The [[intelligent-tutoring|AI-augmented]] group's mean gain on a two-part Technical Skill Assessment Test was roughly double the control group's, and an analysis of covariance with the pre-test as covariate rejected the null hypothesis. Most AI-assisted students reported a significant confidence increase, against fewer than half of controls. The authors read this through [[cognitive-offloading|cognitive load theory]]: synchronous [[feedback|feedback]] as [[scaffolding|scaffolding]] that removes extraneous load, though thin reporting, no effect sizes, an unnamed base model, [[self-report-measures|self-reported]] confidence, makes the advantage indicative rather than precise.
 
 ## Key Findings
 1. Quasi-experimental pre-test/post-test control groups: 240 STEM students, 80 each from KWASUED (Ilorin), KWCOED (Oro), KWCOED Technical (Lafiagi), from 2,400 NCE II and 200-Level Degree students; 120 each.
@@ -38,7 +38,7 @@ source_depth: full text
 7. The authors read the outcome through Cognitive Load Theory: real-time feedback reduces extraneous load, freeing capacity for "germane" learning; hints beat direct answers.
 
 ## Design, sample, and instruments
-Sampling was multi-stage: institutions stratified "Urban" (Ilorin) / "Rural/Technical" (Oro, Lafiagi); three purposively selected for STEM mandates; 80 students each (40 experimental, 40 control) by simple random sampling; 240 total from 2025/2026 NCE II and 200-Level Degree cohorts, with [[prior-knowledge]] differences held constant.
+Sampling was multi-stage: institutions stratified "Urban" (Ilorin) / "Rural/Technical" (Oro, Lafiagi); three purposively selected for STEM mandates; 80 students each (40 experimental, 40 control) by simple random sampling; 240 total from 2025/2026 NCE II and 200-Level Degree cohorts, with [[prior-knowledge|prior knowledge]] differences held constant.
 
 The TSAT, a purpose-built [[assessment-validity|validated instrument]], covered Part A troubleshooting (faults in a pre-configured malfunctioning system) and Part B synthesis (a working digital or mechanical solution from scratch). Analysis used descriptive statistics, ANCOVA at a 0.05 level with pre-test scores as covariate, and [[mixed-methods-research|qualitative]] coding of journals for "User Trust" and "Feedback Satisfaction".
 
@@ -51,12 +51,12 @@ The Kwara-STEM AI Tutor (v.2.6) targets both: it monitors [[cs-education|Compute
 Both groups improved. The ANCOVA table reports a pre-test sum of squares of 1245.30 (df 1, mean square 1245.30, F = 18.45, p = .000), a group sum of squares of 8450.75 (df 1, mean square 8450.75, F = 125.60, p = .000), and an error sum of squares of 15870.20 (df 237, mean square 66.96). Since p = .000 < 0.05 the null hypothesis is rejected: a statistically significant difference in [[learning-gains|technical skill acquisition]] favors the [[ai-feedback-quality|AI feedback]] group. The authors single out Lafiagi, arguing AI can "subsidize" a shortage of physical instructional staff in rural Kwara — a claim about [[equity-in-ai-education|equity]] in staffing-poor [[vocational-education|technical education]], not the technology.
 
 ## Confidence, safe-to-fail practice, and the limits of the evidence
-On [[self-efficacy]] during independent practicals, 88% of the experimental group reported a significant confidence increase, against 42% of controls; the authors attribute the control figure to [[anxiety-and-stress|fear of damaging equipment]], arguing a "safe-to-fail" environment preserves the [[desirable-difficulties|struggle]] technical mastery requires.
+On [[self-efficacy|self-efficacy]] during independent practicals, 88% of the experimental group reported a significant confidence increase, against 42% of controls; the authors attribute the control figure to [[anxiety-and-stress|fear of damaging equipment]], arguing a "safe-to-fail" environment preserves the [[desirable-difficulties|struggle]] technical mastery requires.
 
 The recommendation set goes well beyond the evidence: [[educational-policy-ai|state-wide curriculum integration]], offline-capable "Edge AI" servers, mandatory "Human-AI Collaborative Instruction" training, and an indigenous-tutor EdTech hub in Yoruba, Nupe, and Ebira all rest on one six-week study in one state.
 
 ## What this means for practice
-- **Instructors.** Prompt a check rather than a repair, keeping lecturer intervention for deep [[misconceptions]].
+- **Instructors.** Prompt a check rather than a repair, keeping lecturer intervention for deep [[misconceptions|misconceptions]].
 - **Administrators.** Benefits are largest where supervision is scarcest: treat a real-time tutor as a capacity subsidy for high-ratio practicals, not a replacement, and fund training that shifts staff from grading to mentoring.
 - **Assessment designers.** Reuse the TSAT pattern: split troubleshooting from synthesis, validate with an expert panel, report reliability, covary on the pre-test.
 - **Policymakers.** [[global-south|Resource-constrained]] institutions cannot assume connectivity; offline-capable local servers keep the loop alive, and a [[digital-divide|rural-urban gap]] appears within one state.

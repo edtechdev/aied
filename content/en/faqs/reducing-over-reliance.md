@@ -55,7 +55,7 @@ Behavioral instruments are thinner. [[pause-ai-cognitive-offloading-self-reflect
 
 ## Put the student's attempt in front of the tool
 
-The clearest tested sequence is "think first, [[generative-ai|ChatGPT]] later." [[think-first-chatgpt-later-2026|Wong and Qiu (2026)]] assigned N = 196 students to work independently, to use ChatGPT freely, or to work in a regulated condition: generate your own ideas, collaborate with ChatGPT to improve and evaluate them, then independently refine and submit one solution. The free-use group produced more creative work on the assisted task and fell back to human-only levels on a later, harder task done without ChatGPT. The regulated group showed no immediate advantage and outperformed both other groups on independent [[creativity]] afterward.
+The clearest tested sequence is "think first, [[generative-ai|ChatGPT]] later." [[think-first-chatgpt-later-2026|Wong and Qiu (2026)]] assigned N = 196 students to work independently, to use ChatGPT freely, or to work in a regulated condition: generate your own ideas, collaborate with ChatGPT to improve and evaluate them, then independently refine and submit one solution. The free-use group produced more creative work on the assisted task and fell back to human-only levels on a later, harder task done without ChatGPT. The regulated group showed no immediate advantage and outperformed both other groups on independent [[creativity|creativity]] afterward.
 
 Prompt data explains the gap. In the regulated group, 88.6% of prompts were collaborative, and that was the only prompt type significantly correlated with later independent originality. In the free-use group, 70.9% of prompts were non-collaborative and 59.6% simply asked ChatGPT to generate ideas outright. The same tool, asked two different ways, produced two different learners.
 
@@ -93,7 +93,7 @@ Choose a failure that is modest and checkable, such as a citation that does not 
 
 The assisted product is a poor proxy for capability, so at least one graded moment has to happen without the tool. [[think-first-chatgpt-later-2026|Wong and Qiu's (2026)]] later unassisted task is that measurement. Their human-only group also declined on the harder follow-up, which rules out the simple version of the fix: removing the tool without supporting the learner is not an intervention.
 
-Alternating modes has support. PAUSE reports Kosmyna et al.'s (2025) session-four result, where brain-only participants who later used ChatGPT outperformed sustained [[llm]] users. Accountability works through explanation as well: Makransky et al. (2025) found that a tutoring chatbot which prompted students to connect ideas and explain their reasoning produced better assessment performance than traditional instruction.
+Alternating modes has support. PAUSE reports Kosmyna et al.'s (2025) session-four result, where brain-only participants who later used ChatGPT outperformed sustained [[llm|LLM]] users. Accountability works through explanation as well: Makransky et al. (2025) found that a tutoring chatbot which prompted students to connect ideas and explain their reasoning produced better assessment performance than traditional instruction.
 
 For a course, alternate: assisted work in practice, unassisted work where it counts. Read the assisted piece as a record of performance under good conditions, and the unassisted piece as the evidence about learning. Comparing them is also the most useful conversation you can have with a student who cannot understand a mark.
 
@@ -155,7 +155,7 @@ That leaves you with a reasonable bet, made cheaply. Change one assignment, keep
 
 ## What will come back at you
 
-**"This is just good [[pedagogy]] with a new name."** Partly. [[scaffolding]], formative feedback, and productive struggle are old ideas. What is newer is the ordering: visible verification beat cheaper verification, and the two moments worth protecting are the first hard attempt and the final unaided check. Do the familiar things in the new order.
+**"This is just good [[pedagogy|pedagogy]] with a new name."** Partly. [[scaffolding]], formative feedback, and productive struggle are old ideas. What is newer is the ordering: visible verification beat cheaper verification, and the two moments worth protecting are the first hard attempt and the final unaided check. Do the familiar things in the new order.
 
 **"I cannot police it."** You cannot, and the evidence says not to try. Placement produced the strongest result. Design the task so that using the tool at the wrong moment shows up in the work itself, as an answer the student cannot explain or a verification step that is missing.
 
@@ -183,4 +183,4 @@ That leaves you with a reasonable bet, made cheaply. Change one assignment, keep
 
 ## Where to go next
 
-The neighboring question, whether AI produces learning at all, is covered in [[does-ai-help-students-learn]]. [[reduce-ai-cheating]] handles integrity and the limits of detection, and [[redesign-assessment-ai-era]] covers the assessment architecture that the approach assumes. For the underlying ideas, see [[cognitive-offloading]], [[metacognition]], and [[desirable-difficulties]].
+The neighboring question, whether AI produces learning at all, is covered in [[does-ai-help-students-learn]]. [[reduce-ai-cheating]] handles integrity and the limits of detection, and [[redesign-assessment-ai-era]] covers the assessment architecture that the approach assumes. For the underlying ideas, see [[cognitive-offloading|cognitive offloading]], [[metacognition|metacognition]], and [[desirable-difficulties|desirable difficulties]].

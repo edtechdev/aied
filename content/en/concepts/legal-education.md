@@ -1,7 +1,7 @@
 ---
 title: "Legal Education"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -17,7 +17,7 @@ confidence: medium
 reviewed_by: [editor]
 ---
 
-> **Legal Education** — the professional preparation of lawyers, and the discipline in which [[generative-ai|generative AI]] raises the strongest version of the question every program faces: whether assisted performance on law-school tasks is evidence of the analysis the license depends on. Its structure is unusual. In the United States, [[governance]] of the [[curriculum-design|curriculum]] runs through ABA accreditation and a licensure [[summative-assessment|examination]] rather than a ministry syllabus; teaching leans on the case method and [[socratic-method|Socratic]] dialogue, which depend on students arriving having done the preparatory reading themselves; clinics and legal writing courses carry the [[experiential-learning|experiential]] weight; and the professional conduct rules students will be bound by already apply to the tools they are being taught to use. AI enters through legal research platforms, drafting support, hypothetical generation, and bar preparation, and its signature failure is not a wrong grade but a fabricated citation.
+> **Legal Education** — the professional preparation of lawyers, and the discipline in which [[generative-ai|generative AI]] raises the strongest version of the question every program faces: whether assisted performance on law-school tasks is evidence of the analysis the license depends on. Its structure is unusual. In the United States, [[governance|governance]] of the [[curriculum-design|curriculum]] runs through ABA accreditation and a licensure [[summative-assessment|examination]] rather than a ministry syllabus; teaching leans on the case method and [[socratic-method|Socratic]] dialogue, which depend on students arriving having done the preparatory reading themselves; clinics and legal writing courses carry the [[experiential-learning|experiential]] weight; and the professional conduct rules students will be bound by already apply to the tools they are being taught to use. AI enters through legal research platforms, drafting support, hypothetical generation, and bar preparation, and its signature failure is not a wrong grade but a fabricated citation.
 
 ## Questions to Consider
 
@@ -27,7 +27,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Legal education prepares students for a licensed profession with its own rules of conduct, its own accreditation body, and its own gatekeeping examination, which makes it the discipline where [[educational-policy-ai|education policy]], professional [[regulation]] and assessment validity intersect most tightly. It sits alongside [[medical-education|Medical and Health Professions Education]] and [[nursing-education|Nursing Education]] as a [[professional-training]] discipline rather than a school subject, but its distinguishing feature is procedural: much of what law schools must decide is not *how* to teach with AI but *what the professional ethics rules require* of a graduate who will practice with it.
+Legal education prepares students for a licensed profession with its own rules of conduct, its own accreditation body, and its own gatekeeping examination, which makes it the discipline where [[educational-policy-ai|education policy]], professional [[regulation|regulation]] and assessment validity intersect most tightly. It sits alongside [[medical-education|Medical and Health Professions Education]] and [[nursing-education|Nursing Education]] as a [[professional-training|professional training]] discipline rather than a school subject, but its distinguishing feature is procedural: much of what law schools must decide is not *how* to teach with AI but *what the professional ethics rules require* of a graduate who will practice with it.
 
 The evidence base is currently thin and policy-heavy. One substantial article carries most of the weight: [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski and Hurley (2025)]] surveyed and compared institutional generative AI policies across ABA-approved US law schools and proposed a governance framework. That imbalance is itself a finding, and it is stated plainly rather than papered over.
 
@@ -62,7 +62,7 @@ The recommendations are procedural: clear and comprehensive guidelines whatever 
 
 Three things make legal education more than one more subject area.
 
-The case method is one member of the broader [[case-based-learning]] family; that page distinguishes prepared cases and case discussion from problem-based inquiry and simulation.
+The case method is one member of the broader [[case-based-learning|case-based learning]] family; that page distinguishes prepared cases and case discussion from problem-based inquiry and simulation.
 
 **Assessment validity is inseparable from professional competence.** [[cognitive-offloading|Over-reliance]] during law school is feared to leave graduates underprepared for work that demands independent legal analysis and advocacy, and grading that rewards fluent output cannot distinguish a student's comprehension from a model's. The [[assessment-validity|validity]] question is therefore not academic.
 

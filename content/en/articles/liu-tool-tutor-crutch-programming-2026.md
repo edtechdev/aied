@@ -15,7 +15,7 @@ level: [higher ed]
 page_kind: [framework]
 ---
 
-> **Synthesis:** This [[constructivist]] grounded-theory study (N = 24 AI-enabled + 17 contrast undergraduates in Java programming) builds a process-level model of how learners navigate the tension between "Domain Mastery" (conceptualization, explanation, evaluation) and "Tool Mastery" (procedural efficiency with AI) through two recurrent loops — **[[scaffolding]]** and **Offloading** — interpreted through cognitive load theory and [[self-determination-theory|self-determination theory]]. It explains how performance and affect gains can co-occur with thinner germane processing and attenuated [[metacognition|metacognitive calibration]] under routine offloading.
+> **Synthesis:** This [[constructivist|constructivism]] grounded-theory study (N = 24 AI-enabled + 17 contrast undergraduates in Java programming) builds a process-level model of how learners navigate the tension between "Domain Mastery" (conceptualization, explanation, evaluation) and "Tool Mastery" (procedural efficiency with AI) through two recurrent loops — **[[scaffolding|scaffolding]]** and **Offloading** — interpreted through cognitive load theory and [[self-determination-theory|self-determination theory]]. It explains how performance and affect gains can co-occur with thinner germane processing and attenuated [[metacognition|metacognitive calibration]] under routine offloading.
 
 ## Key Findings
 
@@ -30,8 +30,8 @@ page_kind: [framework]
 - **Instructors.** Run dedicated "critique-the-AI" phases in which students evaluate AI-generated code before accepting it, because the model documents two distinct evaluation failures — novices who struggle to verify output at all, and experienced students with a boilerplate blindspot for generic code.
 - **Instructors.** Plan fading of AI assistance through offline tasks and verification journals, so students move from the Offloading Loop into the [[scaffolding|Scaffolding Loop]] rather than sustaining routine delegation that thins germane processing.
 - **Instructors.** Use contrastive [[prompt-engineering|prompting]] so students compare AI responses instead of accepting the first one, shifting the question from "use or ban" to *how and when* the tool aligns with learning goals.
-- **Designers.** Design around the boundary conditions the model identifies — time pressure, task complexity and familiarity, and scaffolding design — since these shape whether students enter the scaffolding or offloading pathway; the concrete levers align with [[reducing-ai-misuse]] and [[ai-literacy]].
-- **Researchers.** Test the proposed levers rather than assuming them: the grounded theory proposes critique phases, planned fading, and verification journals as instructional strategies but generates them from a process model, not an experiment, and [[measuring-llm-tutors-teach-vs-solve]] shows why the effects need direct measurement.
+- **Designers.** Design around the boundary conditions the model identifies — time pressure, task complexity and familiarity, and scaffolding design — since these shape whether students enter the scaffolding or offloading pathway; the concrete levers align with [[reducing-ai-misuse|reducing AI misuse]] and [[ai-literacy|AI literacy]].
+- **Researchers.** Test the proposed levers rather than assuming them: the grounded theory proposes critique phases, planned fading, and verification journals as instructional strategies but generates them from a process model, not an experiment, and [[measuring-llm-tutors-teach-vs-solve|Yao et al. (2026)]] shows why the effects need direct measurement.
 
 ## Limitations
 

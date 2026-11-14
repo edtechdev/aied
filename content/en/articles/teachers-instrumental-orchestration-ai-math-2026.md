@@ -24,7 +24,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** A study of six high school mathematics lessons taught with AI-based digital tools found that the classical vocabulary for describing how teachers manage classroom technology no longer covers everything teachers do. Alongside the four established orchestration types, three new ones appeared — monitoring a dashboard, correcting the AI, and mediating between the AI and the class — and the [[teacher-role|teacher]]'s content and ethical roles became most visible precisely when he was handling AI-generated [[feedback]].
+> **Synthesis:** A study of six high school mathematics lessons taught with AI-based digital tools found that the classical vocabulary for describing how teachers manage classroom technology no longer covers everything teachers do. Alongside the four established orchestration types, three new ones appeared — monitoring a dashboard, correcting the AI, and mediating between the AI and the class — and the [[teacher-role|teacher]]'s content and ethical roles became most visible precisely when he was handling AI-generated [[feedback|feedback]].
 
 ## Key Findings
 
@@ -45,7 +45,7 @@ Three data sources were combined: video recordings of the six lessons, screen re
 
 The four inherited types describe a teacher handling a tool that does what it is told: demonstrating features, explaining what is on screen, guiding work, or spotting and displaying a student's solution. AI-based tools change the object of that management, because the tool acts on its own. Dashboard-monitoring covers the teacher reading live [[learning-analytics|analytics]] on individual students and adjusting what happens next. AI-correcting covers the teacher overriding or repairing the tool's judgment — necessary because AI recognition of handwritten mathematics is unreliable, and a correct solution can be marked wrong. AI-mediating covers the teacher positioning the AI's output for the class, including telling students how much weight to give it.
 
-That last pair is where the roles concentrate. When the teacher intervened in AI-generated feedback, the analysis found his content-related and ethical roles at their most prominent: he was not merely operating software but adjudicating mathematical correctness and setting norms for how AI output should be treated. The authors note the double edge explicitly. Inaccurate feedback can confuse students and seed [[misconceptions]]; but a teacher who names the error out loud turns it into a lesson about checking machine output, which they read as AI literacy instruction arising naturally inside the mathematics lesson.
+That last pair is where the roles concentrate. When the teacher intervened in AI-generated feedback, the analysis found his content-related and ethical roles at their most prominent: he was not merely operating software but adjudicating mathematical correctness and setting norms for how AI output should be treated. The authors note the double edge explicitly. Inaccurate feedback can confuse students and seed [[misconceptions|misconceptions]]; but a teacher who names the error out loud turns it into a lesson about checking machine output, which they read as AI literacy instruction arising naturally inside the mathematics lesson.
 
 ## What this means for practice
 

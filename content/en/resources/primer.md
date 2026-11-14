@@ -1,6 +1,6 @@
 ---
 title: "Primer"
-created: "2026-11-13T16:50:00-05:00"
+created: "2026-11-13T16:36:35-05:00"
 updated: "2026-11-13T17:40:00-05:00"
 type: resource
 summary: "An open-source authoring system from Wharton's Generative AI Labs that turns a structured interview with an educator into a runnable, adaptive learning simulation with its own mentor, practice and feedback agents."
@@ -25,7 +25,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-Primer is an [[open-source|open-source system]] for building an educational [[simulation]] by describing a lesson to an AI instead of programming one. The educator's judgment sets what the simulation teaches: an interview draws out what the instructor knows about the lesson and the students, a design document makes that knowledge reviewable, and nothing is built until the educator approves it.
+Primer is an [[open-source|open-source system]] for building an educational [[simulation|simulation]] by describing a lesson to an AI instead of programming one. The educator's judgment sets what the simulation teaches: an interview draws out what the instructor knows about the lesson and the students, a design document makes that knowledge reviewable, and nothing is built until the educator approves it.
 
 ## What you can do with it
 

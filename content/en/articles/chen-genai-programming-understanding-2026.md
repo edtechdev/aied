@@ -23,7 +23,7 @@ ai_assist:
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Chen et al. (2026) ran a 2×2 between-subjects experiment with 24 Canadian undergraduates to test whether access to ChatGPT helps students learn a new programming concept or merely finish the task. Beginners with ChatGPT passed far more of 500 generated tests than beginners without it (410.7 vs 80.7, p=0.015), while intermediate performance barely moved (291.0 vs 290.8). Understanding ran the other way: four of six beginners with ChatGPT gave weak explanations of their own solutions, and intermediates without the tool gave the strongest explanations. The authors read this as students using [[generative-ai|generative AI]] as a [[problem-solving]] rather than a learning tool, and argue that both heavy reliance and minimal use produced weaker [[learning-gains|knowledge gains]] in [[cs-education|computing education]].
+> **Synthesis:** Chen et al. (2026) ran a 2×2 between-subjects experiment with 24 Canadian undergraduates to test whether access to ChatGPT helps students learn a new programming concept or merely finish the task. Beginners with ChatGPT passed far more of 500 generated tests than beginners without it (410.7 vs 80.7, p=0.015), while intermediate performance barely moved (291.0 vs 290.8). Understanding ran the other way: four of six beginners with ChatGPT gave weak explanations of their own solutions, and intermediates without the tool gave the strongest explanations. The authors read this as students using [[generative-ai|generative AI]] as a [[problem-solving|problem-solving]] rather than a learning tool, and argue that both heavy reliance and minimal use produced weaker [[learning-gains|knowledge gains]] in [[cs-education|computing education]].
 
 ## Key Findings
 

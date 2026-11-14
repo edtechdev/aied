@@ -26,7 +26,7 @@ source_depth: full text
 verified: [citation, links, numbers]
 ---
 
-> **Synthesis:** Wang, Song, Liu and Zou (2026) target a specific failure of educational [[llm|LLMs]]: they behave as direct answerers, naming the concept in the opening turn instead of leading the learner to it. The paper presents HeuristicEdu, which aligns Qwen2.5-7B-Instruct toward [[socratic-method|Socratic tutoring]] in two phases — supervised warm-up on SocraticEdu, a 797-trajectory Chinese science dialogue corpus, then Group Relative Policy Optimization (GRPO) under a heuristic reward over cognitive depth, engagement and directness. Two outcome-oriented measures, [[scaffolding]] Effectiveness (SE) and Conversation Depth (CD), come from a four-turn LLM-simulated loop. On 30 held-out questions the best variant lifts SE from 30.0% to 63.3% and cuts keyword leakage from 30.0% to 13.3%, while an unaligned 72B baseline reaches 0% SE and 96.7% leakage. The contribution is behavioral alignment and [[ai-ed-evaluation|evaluation]] design, not evidence about student learning.
+> **Synthesis:** Wang, Song, Liu and Zou (2026) target a specific failure of educational [[llm|LLMs]]: they behave as direct answerers, naming the concept in the opening turn instead of leading the learner to it. The paper presents HeuristicEdu, which aligns Qwen2.5-7B-Instruct toward [[socratic-method|Socratic tutoring]] in two phases — supervised warm-up on SocraticEdu, a 797-trajectory Chinese science dialogue corpus, then Group Relative Policy Optimization (GRPO) under a heuristic reward over cognitive depth, engagement and directness. Two outcome-oriented measures, [[scaffolding|scaffolding]] Effectiveness (SE) and Conversation Depth (CD), come from a four-turn LLM-simulated loop. On 30 held-out questions the best variant lifts SE from 30.0% to 63.3% and cuts keyword leakage from 30.0% to 13.3%, while an unaligned 72B baseline reaches 0% SE and 96.7% leakage. The contribution is behavioral alignment and [[ai-ed-evaluation|evaluation]] design, not evidence about student learning.
 
 ## Key Findings
 
@@ -41,7 +41,7 @@ verified: [citation, links, numbers]
 
 Tutoring dialogues are reconstructed from platform logs. A character-level TF–IDF and logistic-regression scientific-intent filter (macro-F1 = 0.9805 ± 0.0022) removes 1,601 off-topic questions and keeps 8,911; Sentence-BERT embeddings and K-Means (K=15) organize the rest, and 134 high-view seeds support 395 replayed real trajectories and 402 synthetic ones. Phase 1 fine-tunes Qwen2.5-7B-Instruct on the 797-trajectory corpus for 3 epochs at batch size 16; Phase 2 applies [[reinforcement-learning|GRPO]] with group size 8, PPO clip 0.2 and KL coefficient 0.01.
 
-The reward is Rtotal = α·Rcog + β·Reng − γ·Rdir. Rcog rewards cognitive lift: a Qwen-turbo judge assigns Bloom's Taxonomy levels to the student's turn and the tutor's response, and the normalized difference scores movement toward higher-order demand — where [[critical-thinking]] enters the design. Reng scores cues that correlated with child follow-ups in the logs: rhetorical questions, analogical framing, extreme-value language and hypotheses. Rdir penalizes premature disclosure of seed-specific keyword sets, with a Kquery correction exempting terms the student already introduced. The work belongs to [[llm-training-and-fine-tuning]], not to [[prompt-engineering]] alone.
+The reward is Rtotal = α·Rcog + β·Reng − γ·Rdir. Rcog rewards cognitive lift: a Qwen-turbo judge assigns Bloom's Taxonomy levels to the student's turn and the tutor's response, and the normalized difference scores movement toward higher-order demand — where [[critical-thinking|critical thinking]] enters the design. Reng scores cues that correlated with child follow-ups in the logs: rhetorical questions, analogical framing, extreme-value language and hypotheses. Rdir penalizes premature disclosure of seed-specific keyword sets, with a Kquery correction exempting terms the student already introduced. The work belongs to [[llm-training-and-fine-tuning|LLM training and fine-tuning]], not to [[prompt-engineering|prompt engineering]] alone.
 
 ## Two outcome-oriented metrics
 
@@ -61,7 +61,7 @@ The parameter-training track follows an alignment ladder: prompt-only PT-Base re
 ## Limitations
 
 - Everything rests on 30 held-out seed questions, with per-run SE variance of roughly ±0.10, and success is scored against an LLM student simulator validated only against held-out real follow-ups (mean similarity 0.449 ± 0.220); SE describes behavior toward a proxy, not learners.
-- No learning outcome — retention, transfer, or independent [[problem-solving|problem solving]] — is measured; SE is a [[simulation]] score, not evidence that students learned more.
+- No learning outcome — retention, transfer, or independent [[problem-solving|problem solving]] — is measured; SE is a [[simulation|simulation]] score, not evidence that students learned more.
 - Scope is one 7B backbone (Qwen2.5-7B-Instruct) and one Chinese-language corpus from a single platform, and both the reward and the SE definition lean on LLM judges and a hand-curated keyword set, so generalization is untested.
 - The work is an arXiv preprint (25 Jul 2026), not peer-reviewed.
 

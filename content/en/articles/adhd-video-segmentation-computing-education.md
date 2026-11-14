@@ -14,14 +14,14 @@ audience: [instructional designers, instructors]
 level: [special education]
 ---
 
-> **Synthesis:** Pimenova, Begel and colleagues evaluate a post-hoc video processing intervention that segments [[video-education|instructional videos]] into single-instruction chunks with fixed pauses, reducing extraneous [[cognitive-offloading|cognitive load]] for learners with [[neurodiversity|ADHD]]. In a within-participants study (17 ADHD, 10 non-ADHD), the intervention improved everyone but had an equalizing effect: ADHD participants' errors and hesitations fell to parity with non-ADHD peers. This is strong evidence for [[universal-design-for-learning|Universal Design for Learning]] via automated content transformation — a task well-suited to AI pipelines. It extends [[neurodivergent-computing-students]] and [[inclusive-learning]], complements [[simulation]] work like [[llm-educational-simulation-adhd]], informs video-based learning design in [[engagement-assessment-video]] and [[learning-design]], within [[cs-education]].
+> **Synthesis:** Pimenova, Begel and colleagues evaluate a post-hoc video processing intervention that segments [[video-education|instructional videos]] into single-instruction chunks with fixed pauses, reducing extraneous [[cognitive-offloading|cognitive load]] for learners with [[neurodiversity|ADHD]]. In a within-participants study (17 ADHD, 10 non-ADHD), the intervention improved everyone but had an equalizing effect: ADHD participants' errors and hesitations fell to parity with non-ADHD peers. This is strong evidence for [[universal-design-for-learning|Universal Design for Learning]] via automated content transformation — a task well-suited to AI pipelines. It extends [[neurodivergent-computing-students|Zastudil et al. (2026)]] and [[inclusive-learning|inclusive learning]], complements [[simulation|simulation]] work like [[llm-educational-simulation-adhd|Gonnermann-Müller et al. (2026)]], informs video-based learning design in [[engagement-assessment-video|Leng et al. (2026)]] and [[learning-design|learning design]], within [[cs-education|CS education]].
 
 ## Key Findings
 
 - A post-hoc video processing intervention segmented instructional videos into single-instruction chunks with fixed pauses to reduce extraneous cognitive load for learners with ADHD.
 - In a within-participants study (17 ADHD, 10 non-ADHD), the segmentation improved outcomes for everyone.
 - The intervention had an equalizing effect: ADHD participants' errors and hesitations fell to parity with their non-ADHD peers, not merely improving but closing the gap.
-- The work is presented as evidence for Universal Design for Learning achieved through automated content transformation, a task well-suited to AI/[[llm]] pipelines.
+- The work is presented as evidence for Universal Design for Learning achieved through automated content transformation, a task well-suited to AI/[[llm|LLM]] pipelines.
 
 ## What this means for practice
 

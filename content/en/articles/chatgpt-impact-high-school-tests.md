@@ -23,7 +23,7 @@ page_kind: [evaluation]
 
 ## Interpretation
 
-The null result has two non-exclusive interpretations: (1) AI-assisted cheating does not harm test performance in aggregate, or (2) negative effects of [[ai-misuse-learning-harm|AI misuse]] are offset by positive uses of AI as a learning aid. Either way, this challenges both utopian and dystopian narratives about AI in classrooms. It aligns with the [[genai-performance-vs-learning]] distinction — performance boosts from AI may not translate to test score improvements. It connects to [[cognitive-offloading|Over-Reliance]] [[research-methods-aied|research]] showing that AI assistance can produce apparent competence without underlying understanding.
+The null result has two non-exclusive interpretations: (1) AI-assisted cheating does not harm test performance in aggregate, or (2) negative effects of [[ai-misuse-learning-harm|AI misuse]] are offset by positive uses of AI as a learning aid. Either way, this challenges both utopian and dystopian narratives about AI in classrooms. It aligns with the [[genai-performance-vs-learning|Yan et al. (2025)]] distinction — performance boosts from AI may not translate to test score improvements. It connects to [[cognitive-offloading|Over-Reliance]] [[research-methods-aied|research]] showing that AI assistance can produce apparent competence without underlying understanding.
 
 ## Methodological Contribution
 
@@ -32,7 +32,7 @@ The seasonal variation identification strategy is innovative for causal inferenc
 ## What this means for practice
 
 - **Learners.** Judge AI by what you can do without it: the study's estimates of ChatGPT's effect on high school test score averages are effectively zero in either direction, so clearing a submission with a tool is not evidence that the work taught you anything.
-- **Instructors.** Keep an unassisted step inside [[assessment]] tasks that use AI. The design compares areas with heavier school-related ChatGPT use against lighter ones and still returns a null result, so the classroom decision is about how the tool is used, not whether it is present.
+- **Instructors.** Keep an unassisted step inside [[assessment|assessment]] tasks that use AI. The design compares areas with heavier school-related ChatGPT use against lighter ones and still returns a null result, so the classroom decision is about how the tool is used, not whether it is present.
 - **Instructors.** Do not write policy on the assumption that availability alone moves scores. Effects are small across grades, subjects, and the upper, lower and middle of the score distribution, and the estimates for grades 7 and 8 — where some students plausibly use AI — sit at about -.015 of a standard deviation.
 - **Researchers.** Borrow the identification strategy where [[rct|randomization]] is infeasible: the seasonal dropoff in ChatGPT activity during the summer months of 2023 and 2024 identifies areas of heavy educational AI use, and the paper pairs it with a placebo test on grades 3-8.
 

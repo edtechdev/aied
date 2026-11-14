@@ -31,7 +31,7 @@ Analysis proceeded in two stages. The main model used confirmatory factor analys
 
 ## What this means for practice
 
-- **Instructors.** Build low-stakes practice, guided [[ai-ed-evaluation|evaluation of AI]] outputs, and feedback-driven revision into early coursework so students accumulate mastery experiences; AI learning [[self-efficacy]] carried the strongest negative association with anxiety.
+- **Instructors.** Build low-stakes practice, guided [[ai-ed-evaluation|evaluation of AI]] outputs, and feedback-driven revision into early coursework so students accumulate mastery experiences; AI learning [[self-efficacy|self-efficacy]] carried the strongest negative association with anxiety.
 - **Instructors.** Demonstrate concretely what AI is useful for in your discipline: perceived usefulness of AI for academic work was the second appraisal linking support to lower anxiety, and it was itself predicted by self-efficacy.
 - **Administrators.** Treat AI learning anxiety as an institutional condition, since the indirect paths through self-efficacy and perceived usefulness carried 69.4% of the total association between perceived school support and [[anxiety-and-stress|anxiety]] — making guidelines, accessible technical support, and [[ai-literacy|AI literacy]] training the levers with the largest reach.
 - **Administrators.** Invest specifically in informational support, with clear expectations for competent use, because it was the only support dimension retaining a reliable link to self-efficacy when emotional, informational, and instrumental support were modeled separately.

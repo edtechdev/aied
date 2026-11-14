@@ -51,7 +51,7 @@ Fourteen grade adjustments were made during reconciliation — seven AI grades o
 
 The question-type gradient is the actionable part. On multiple choice the tool is effectively exact; on written short answers and analyses it reaches substantial agreement (0.67 to 0.73) with per-question error well under a mark; on evaluation items it drops to 0.65, where a single grade band can move a student's total meaningfully. The author's reading is that reliability on objective items is not evidence of reliability on the items that carry the reasoning.
 
-The companion study of student perspectives ([[student-perspectives-ai-writing-grading-2026|AlGhamdi, 2026]]) found that students separated the usefulness of AI [[feedback]] from its authority to decide a grade. Together the two papers point at the same deployment shape: machine scoring as a reviewed first pass, with instructor judgment reserved for exactly the item types where agreement was weakest.
+The companion study of student perspectives ([[student-perspectives-ai-writing-grading-2026|AlGhamdi, 2026]]) found that students separated the usefulness of AI [[feedback|feedback]] from its authority to decide a grade. Together the two papers point at the same deployment shape: machine scoring as a reviewed first pass, with instructor judgment reserved for exactly the item types where agreement was weakest.
 
 ## What this means for practice
 

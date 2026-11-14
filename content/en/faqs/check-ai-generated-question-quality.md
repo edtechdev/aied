@@ -46,7 +46,7 @@ Here is the short answer: generated questions are candidates, not an assessment.
 
 Generation is cheap enough that the output format quietly becomes the specification. If your notes produce tidy multiple-choice items, you will end up measuring whether students can choose among plausible statements, whatever outcome the syllabus claims.
 
-Specify the outcome first, then the evidence a satisfactory response would supply, then the knowledge students are expected to bring. Include the course materials, the [[misconceptions]] you expect, any permitted tools and the response format. If you want students interpreting evidence, the item has to require interpretation, and adding the word to a definition question does not do it. A long scenario can still be answerable through one familiar phrase that gives the game away.
+Specify the outcome first, then the evidence a satisfactory response would supply, then the knowledge students are expected to bring. Include the course materials, the [[misconceptions|misconceptions]] you expect, any permitted tools and the response format. If you want students interpreting evidence, the item has to require interpretation, and adding the word to a definition question does not do it. A long scenario can still be answerable through one familiar phrase that gives the game away.
 
 An assessment blueprint is a table of outcomes against items, and its value is that it exposes gaps before students do. It also makes the trade-off visible: every item you generate from the easiest material is an item you did not spend on the outcome you care about most.
 
@@ -120,6 +120,6 @@ For students generating their own practice questions, the same rule applies at t
 
 ## Where to go next
 
-[[automated-question-generation]] is the concept page for generation methods and their measured quality, and [[educational-measurement]] covers item analysis, reliability and the psychometrics that a pilot only gestures at. Both sit under [[assessment-validity|assessment validity]], which is the standard the whole cycle is serving.
+[[automated-question-generation|Automated question generation]] is the concept page for generation methods and their measured quality, and [[educational-measurement|educational measurement]] covers item analysis, reliability and the psychometrics that a pilot only gestures at. Both sit under [[assessment-validity|assessment validity]], which is the standard the whole cycle is serving.
 
 The judgment side of the same problem belongs to [[ai-grading-fairness-reliability|AI grading]], since a good item graded badly is no better than a bad item graded well. For the wider question of what a grade should represent when students can use AI, see [[redesign-assessment-ai-era|redesigning assessment in the AI era]].

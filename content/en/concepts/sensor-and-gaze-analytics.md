@@ -1,7 +1,7 @@
 ---
 title: Sensor and Gaze Analytics
 created: "2026-11-04T15:58:10-05:00"
-updated: "2026-11-13T12:55:00-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -33,11 +33,11 @@ ai_assist:
 
 ## Introduction
 
-Sensor and gaze analytics describe a family of methods that turn physical measurements of a learner into educational inferences. The measurements include where the eyes rest and for how long, the electrical activity of the scalp, sweat-gland responses, beat-to-beat variation in heart rate, and the position and motion of the head and torso. The inferences include attention, engagement, cognitive load, confusion, stress, and, in assessment settings, suspicion. The focus is that measurement layer: for the wider program and its claims, see [[affective-computing]]; for how a tutor should act on an inference once it has one, see [[affective-tutoring]].
+Sensor and gaze analytics describe a family of methods that turn physical measurements of a learner into educational inferences. The measurements include where the eyes rest and for how long, the electrical activity of the scalp, sweat-gland responses, beat-to-beat variation in heart rate, and the position and motion of the head and torso. The inferences include attention, engagement, cognitive load, confusion, stress, and, in assessment settings, suspicion. The focus is that measurement layer: for the wider program and its claims, see [[affective-computing|affective computing]]; for how a tutor should act on an inference once it has one, see [[affective-tutoring|affective tutoring]].
 
-The appeal is straightforward. [[self-report-measures|Self-reports]] are retrospective and coarse, and quizzes sample learning at a few moments. Sensors run continuously and cost the learner little conscious effort. That combination has made sensing central to [[learning-analytics]] and [[student-modeling]], and it has produced a large literature in which the sensing is technically impressive and the interpretation is thin.
+The appeal is straightforward. [[self-report-measures|Self-reports]] are retrospective and coarse, and quizzes sample learning at a few moments. Sensors run continuously and cost the learner little conscious effort. That combination has made sensing central to [[learning-analytics|learning analytics]] and [[student-modeling|student modeling]], and it has produced a large literature in which the sensing is technically impressive and the interpretation is thin.
 
-A [[meta-analysis-systematic-review|systematic review]] of 23 studies pairing AI with [[embodied-learning]] makes the imbalance concrete. Analysis and evaluation accounted for 40.0% of coded AI roles, and recognition and detection for 22.5%, while feedback and coaching took 15.0%. Sensing roles made up 62.5% of role tags against 35.0% for participatory ones ([[kim-ai-embodied-learning-review-2026|Kim and Han, 2026]]). The field is better at watching learners than at changing what happens next.
+A [[meta-analysis-systematic-review|systematic review]] of 23 studies pairing AI with [[embodied-learning|embodied learning]] makes the imbalance concrete. Analysis and evaluation accounted for 40.0% of coded AI roles, and recognition and detection for 22.5%, while feedback and coaching took 15.0%. Sensing roles made up 62.5% of role tags against 35.0% for participatory ones ([[kim-ai-embodied-learning-review-2026|Kim and Han, 2026]]). The field is better at watching learners than at changing what happens next.
 
 ## What each signal actually measures
 
@@ -61,7 +61,7 @@ These signals differ in sampling rate, noise, and instrumentation burden. E3Sens
 
 **Attention estimation in classrooms.** A [[multimodal|multimodal transformer]] fused facial images with wearable signals on DIPSER, a naturalistic dataset of 57 subjects, and reached an MAE of 0.283. Its edge over a visual-only baseline was modest, and the authors conclude that facial features were the primary information source ([[student-attention-estimation-fairness-2026|Fragkiadakis et al., 2026]]).
 
-**Cognitive load and feedback timing.** TutorLoop used gaze-derived attention and workload to choose among four [[feedback|feedback types]] with a [[reinforcement-learning]] agent. Across 187 participants the full system intervened less often than baselines yet improved attention and lowered workload ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]).
+**Cognitive load and feedback timing.** TutorLoop used gaze-derived attention and workload to choose among four [[feedback|feedback types]] with a [[reinforcement-learning|reinforcement learning]] agent. Across 187 participants the full system intervened less often than baselines yet improved attention and lowered workload ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]).
 
 **Proctoring and integrity.** Pose-based proctoring reports near-ceiling performance on its own labeled scenario set: 99.56% accuracy and an AUC of 0.9957 ([[arif-automated-online-proctoring-yolov11-2026|Arif et al., 2026]]). Wearable AI changes the same problem from the other side. Smart glasses remove the gaze drop and posture shift that invigilation relies on, a condition Corbin and colleagues call dual transparency ([[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin et al., 2026]]).
 
@@ -81,7 +81,7 @@ A neural correlate is not a score. Reconstructed images from EEG correlated with
 
 Attention is not learning. In TutorLoop, attention correlated with learning at r = 0.017, while workload correlated negatively at r = -0.168 ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). A system that maximized the attention signal would have optimized something close to noise.
 
-A signal can also invert the construct. In 37 recorded nursing [[simulation|simulations]], a smile detector correlated negatively with observer-rated [[empathy]] (r = −0.322) while physical-contact detection agreed with four observer measures at 0.46 to 0.54; the observers were reading a smile at a patient in pain as incongruity, and the model was reading facial action ([[nissan-nursing-empathy-computer-vision-2026|Nissan et al., 2026]]).
+A signal can also invert the construct. In 37 recorded nursing [[simulation|simulations]], a smile detector correlated negatively with observer-rated [[empathy|empathy]] (r = −0.322) while physical-contact detection agreed with four observer measures at 0.46 to 0.54; the observers were reading a smile at a patient in pain as incongruity, and the model was reading facial action ([[nissan-nursing-empathy-computer-vision-2026|Nissan et al., 2026]]).
 
 A sensor can record co-presence where a study claims interaction: [[hur-computational-analysis-teacher-group-interactions-2026|Hur et al. (2026)]] found a pose-based detector reached only 55% recall, catching 11 of 20 events human coders identified in [[teacher-role|teacher]]–student group interactions. The teacher was present inside the group boundary in 49.2% of coded segments while students looked at the teacher in only 25.4%, and no audio feature changed in either comparison, so the pipeline registered spatial co-presence rather than sustained interaction.
 

@@ -12,7 +12,7 @@ confidence: high
 audience: [instructors, instructional designers, researchers]
 ---
 
-> **Synthesis:** Corbett & Tangen (2026) test whether personalized AI dialogue can correct deeply held [[misconceptions]] ("tenacious myths") in psychology and education. In a preregistered experiment (N = 375), participants holding strong misconceptions engaged in one of three interventions: personalized **Misconception AI Dialogue** targeting their specific belief, generic **Textbook-style Refutation** (a [[refutation-text|refutation text]]), or **Neutral AI Dialogue** (control). Personalized Misconception AI Dialogue produced significantly larger immediate belief reductions than both Textbook Refutation and Neutral AI Dialogue; this advantage persisted at 10-day follow-up but diminished by 2 months, where Misconception AI Dialogue and Textbook Refutation converged while both remained superior to control. Both AI conditions generated significantly higher [[student-engagement|engagement]] and confidence than Textbook Refutation reading, showing the [[motivation|motivational]] benefits of conversational interaction.
+> **Synthesis:** Corbett & Tangen (2026) test whether personalized AI dialogue can correct deeply held [[misconceptions|misconceptions]] ("tenacious myths") in psychology and education. In a preregistered experiment (N = 375), participants holding strong misconceptions engaged in one of three interventions: personalized **Misconception AI Dialogue** targeting their specific belief, generic **Textbook-style Refutation** (a [[refutation-text|refutation text]]), or **Neutral AI Dialogue** (control). Personalized Misconception AI Dialogue produced significantly larger immediate belief reductions than both Textbook Refutation and Neutral AI Dialogue; this advantage persisted at 10-day follow-up but diminished by 2 months, where Misconception AI Dialogue and Textbook Refutation converged while both remained superior to control. Both AI conditions generated significantly higher [[student-engagement|engagement]] and confidence than Textbook Refutation reading, showing the [[motivation|motivational]] benefits of conversational interaction.
 
 ## Key Findings
 
@@ -27,7 +27,7 @@ audience: [instructors, instructional designers, researchers]
 - **Designers.** Build spaced reinforcement into the program rather than scheduling one-off chats, because the dialogue advantage persisted at 10 days but converged with textbook refutation by the 2-month follow-up.
 - **Designers.** Keep the [[refutation-text|refutation text]] in the toolkit — it beat the neutral control at every time point — and choose dialogue where engagement and confidence matter, since both AI conditions generated significantly higher engagement and confidence than reading did.
 - **Instructors.** Target the specific belief the learner holds: the dialogue condition addressed each participant's highest-rated misconception, and no intervention changed misconceptions it did not address.
-- **Researchers.** Check the domain before generalizing: this experiment tested everyday psychology and education myths with adults, and the comparison reversed in at least one [[science-education]] study (Akdoğan 2025).
+- **Researchers.** Check the domain before generalizing: this experiment tested everyday psychology and education myths with adults, and the comparison reversed in at least one [[science-education|science education]] study (Akdoğan 2025).
 
 ## Limitations
 

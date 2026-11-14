@@ -56,7 +56,7 @@ Vocational competence is not isolated technical skill but the integration of kno
 ## What this means for practice
 
 - **Instructors.** Ask for the rationale behind an accepted AI suggestion, not only the final version: the framework treats justified acceptance as stronger evidence than an unexplained edit.
-- **Assessment designers.** State the criteria explicitly — accuracy, occupational standards, compliance, safety, audience fit, [[ethics]] — and score the decision and its basis rather than the amount of human intervention.
+- **Assessment designers.** State the criteria explicitly — accuracy, occupational standards, compliance, safety, audience fit, [[ethics|ethics]] — and score the decision and its basis rather than the amount of human intervention.
 - **Faculty developers.** Build calibration against practitioner standards, since the authors argue criteria must be specified in local tasks and rubrics rather than borrowed from a generic one.
 - **Administrators.** Set rules for collecting interaction records and version histories before requiring them: the same traces that evidence judgment raise surveillance concerns.
 - **Researchers.** Test the loop with deliberately flawed or mismatched AI content and compare observed decisions against AI literacy scores, confidence and anxiety rather than treating those as proxies.

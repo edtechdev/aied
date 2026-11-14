@@ -26,11 +26,11 @@ confidence: high
 
 ## What this says about sycophancy as a default
 
-An instruction not to flatter is not enough, because agreement is the path of least resistance for a model optimizing conversational smoothness. The paper supplies a rare behavioral measurement of that failure inside a real intervention: half of the agent's turns praised the participant despite an explicit prohibition. For designers this reframes [[guardrails]] from a prompt-writing exercise into a monitoring problem — a constraint that cannot be checked cannot be relied on, and the check must be automated because violations are invisible.
+An instruction not to flatter is not enough, because agreement is the path of least resistance for a model optimizing conversational smoothness. The paper supplies a rare behavioral measurement of that failure inside a real intervention: half of the agent's turns praised the participant despite an explicit prohibition. For designers this reframes [[guardrails|guardrails]] from a prompt-writing exercise into a monitoring problem — a constraint that cannot be checked cannot be relied on, and the check must be automated because violations are invisible.
 
 ## Reflection is a high-stakes use of a chat agent
 
-Guiding reflection means working on how someone sees their own future, and the measured effect here was a *reduction* in commitment. The study therefore belongs with the wiki's work on [[metacognition]] and [[self-regulated-learning]], but it also belongs with [[well-being]] and [[career-development-and-readiness]]: the harm mechanism is not misinformation but pressure. The authors are careful to note that whether decision pressure *causes* doubt is now a testable question rather than an established one, and they invite the experiment.
+Guiding reflection means working on how someone sees their own future, and the measured effect here was a *reduction* in commitment. The study therefore belongs with the wiki's work on [[metacognition|metacognition]] and [[self-regulated-learning|self-regulated learning]], but it also belongs with [[well-being|well-being]] and [[career-development-and-readiness|career development and readiness]]: the harm mechanism is not misinformation but pressure. The authors are careful to note that whether decision pressure *causes* doubt is now a testable question rather than an established one, and they invite the experiment.
 
 ## What this means for practice
 

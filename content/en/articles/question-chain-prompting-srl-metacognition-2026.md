@@ -54,10 +54,10 @@ The 83 post-task reflections were coded thematically into three core themes: ena
 
 ## What this means for practice
 
-- **[[teacher-role]]** Hand students a prescribed chain of specific questions for a GenAI-supported creative task and require each question to build on the previous AI response, because both chain groups logged more learning-monitoring behavior than the control group (χ² = 6.551, p = .038).
-- **Instructors.** Pick a chain form on task grounds rather than expected potency: the progressive and divergent chains did not differ on any outcome, and the study reports no difference between them on behavior, [[metacognition]], or grades.
+- **[[teacher-role|teacher role]]** Hand students a prescribed chain of specific questions for a GenAI-supported creative task and require each question to build on the previous AI response, because both chain groups logged more learning-monitoring behavior than the control group (χ² = 6.551, p = .038).
+- **Instructors.** Pick a chain form on task grounds rather than expected potency: the progressive and divergent chains did not differ on any outcome, and the study reports no difference between them on behavior, [[metacognition|metacognition]], or grades.
 - **Instructional designers.** Budget the chain as an [[inquiry-based-learning|inquiry]] scaffold rather than a prompt template, and expect the required sequencing and step completion to be part of the effect, since the design cannot separate them from prompt quality.
-- **Faculty developers.** Treat [[reflection]] evidence as corroboration, not as independent evidence: use one neutral reflection prompt across conditions if you want a comparable account of [[student-experience|student experience]].
+- **Faculty developers.** Treat [[reflection|reflection]] evidence as corroboration, not as independent evidence: use one neutral reflection prompt across conditions if you want a comparable account of [[student-experience|student experience]].
 - **Researchers.** Log the interaction and check adherence to the prescribed sequence, step completion, and dependency on preceding responses; this study's proposed evaluative mechanism remains untested without those checks.
 
 ## Limitations

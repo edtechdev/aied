@@ -13,7 +13,7 @@ confidence: high
 page_kind: [evaluation]
 methods: [benchmark]
 ---
-> **Synthesis:** Introduces ICLE++, a new annotated corpus of persuasive student essays that addresses critical limitations of the dominant ASAP [[benchmark]] in [[automated-essay-scoring]] [[research-methods-aied|research]]. Unlike ASAP — used by virtually all recent AES models but limited to U.S. grade 7–10 native-English essays — ICLE++ provides both holistic scores and fine-grained trait-specific annotations, enabling evaluation of cross-corpus generalization, multi-trait scoring, and cross-prompt scoring. The authors demonstrate that models trained on trait-specific annotations transfer better across corpora than those trained on holistic scores alone, making ICLE++ a foundational resource for the next generation of AES research.
+> **Synthesis:** Introduces ICLE++, a new annotated corpus of persuasive student essays that addresses critical limitations of the dominant ASAP [[benchmark|benchmark]] in [[automated-essay-scoring|automated essay scoring]] [[research-methods-aied|research]]. Unlike ASAP — used by virtually all recent AES models but limited to U.S. grade 7–10 native-English essays — ICLE++ provides both holistic scores and fine-grained trait-specific annotations, enabling evaluation of cross-corpus generalization, multi-trait scoring, and cross-prompt scoring. The authors demonstrate that models trained on trait-specific annotations transfer better across corpora than those trained on holistic scores alone, making ICLE++ a foundational resource for the next generation of AES research.
 
 ## Key Contributions
 
@@ -24,10 +24,10 @@ methods: [benchmark]
 
 ## What this means for practice
 
-- **Software developers.** Test cross-corpus generalization before trusting an [[automated-essay-scoring|AES]] model: models trained on ASAP often fail on other corpora, which is an [[assessment-validity]] problem — a score that does not transfer is not a valid measure of [[writing-education|writing quality]].
+- **Software developers.** Test cross-corpus generalization before trusting an [[automated-essay-scoring|AES]] model: models trained on ASAP often fail on other corpora, which is an [[assessment-validity|assessment validity]] problem — a score that does not transfer is not a valid measure of [[writing-education|writing quality]].
 - **Software developers.** Report holistic and the 10 trait-level scores separately and per corpus, because trait scoring on ICLE++ was weaker than on ASAP and traits depressed within-prompt holistic scoring there while slightly improving cross-prompt scoring.
-- **Software developers.** Move reporting beyond a single holistic number: the trait annotations support per-dimension strengths and weaknesses, which is what makes an AES output usable for [[formative-assessment]] and for psychometric framing such as [[item-response-theory]].
-- **Software developers.** Benchmark against ICLE++ alongside existing evidence — [[psychometrically-aware-ai|psychometrically aware]] scoring as in [[psyscore-essay-scoring-zpd-feedback]], [[prompt-engineering|prompting]]-based results such as [[choi-anchor-aes-prompting-2025]], and the validity gaps documented for linguistically diverse writers in [[ai-scoring-language-bias-physics]] and [[self-referential-l2-writing-llm-assessment]].
+- **Software developers.** Move reporting beyond a single holistic number: the trait annotations support per-dimension strengths and weaknesses, which is what makes an AES output usable for [[formative-assessment|formative assessment]] and for psychometric framing such as [[item-response-theory|item response theory]].
+- **Software developers.** Benchmark against ICLE++ alongside existing evidence — [[psychometrically-aware-ai|psychometrically aware]] scoring as in [[psyscore-essay-scoring-zpd-feedback|Xia et al., 2026]], [[prompt-engineering|prompting]]-based results such as [[choi-anchor-aes-prompting-2025|Choi et al. (2025)]], and the validity gaps documented for linguistically diverse writers in [[ai-scoring-language-bias-physics|Feser et al. (2026)]] and [[self-referential-l2-writing-llm-assessment|Bannò et al. (2026)]].
 
 ## Limitations
 

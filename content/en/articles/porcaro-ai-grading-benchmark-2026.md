@@ -23,7 +23,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** A [[benchmark]] of 22 prompted [[llm|language models]] asks what an agreement figure cannot answer: whether a grader grades the work it is given. Every model scored the same 100 items per task through one plain prompt, then altered versions whose correct response was known in advance. Most matched the raters' agreement with each other on short answers, none reached the published essay ceiling, and a note in the answer, a bare objection, a silent recording or a grade that contradicted the work moved what the models did.
+> **Synthesis:** A [[benchmark|benchmark]] of 22 prompted [[llm|language models]] asks what an agreement figure cannot answer: whether a grader grades the work it is given. Every model scored the same 100 items per task through one plain prompt, then altered versions whose correct response was known in advance. Most matched the raters' agreement with each other on short answers, none reached the published essay ceiling, and a note in the answer, a bare objection, a silent recording or a grade that contradicted the work moved what the models did.
 
 ## Key Findings
 
@@ -35,7 +35,7 @@ source_depth: full text
 6. A note in the answer raised the grade by more than 5% of the scale for 14 of 22 models, by up to 83.2% (Qwen3 235B on code), and seven credited blank or meaningless answers.
 7. Describing the student as strong rather than weak raised the grade in 28 of 66 model-task pairs and lowered it in none.
 8. Seventeen of 22 raised the grade more after a bare objection than after a double-check request, including six of the eight unflagged models.
-9. Told a grade that contradicted the work, all 22 wrote [[feedback]] whose tone followed that grade.
+9. Told a grade that contradicted the work, all 22 wrote [[feedback|feedback]] whose tone followed that grade.
 10. Six of seven audio models credited 89.7% to 100% of silent recordings, and four of 21 video runs graded beyond a recording's length.
 11. Every model graded essays by students with a disability lower at the same adjudicated grade, a gap the design cannot attribute to the models rather than the panel.
 

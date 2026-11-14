@@ -1,7 +1,7 @@
 ---
 title: Administrators
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-11-13T09:46:01-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -24,7 +24,7 @@ reviewed_by: [editor]
 - Administrators must balance [[pedagogy|pedagogical]] opportunity against risk, equity, and resourcing. If you had to choose between funding one new AI initiative and shoring up data governance and faculty training, which would you pick and why?
 - Procurement decisions made at the institutional level can enable or constrain what teachers and students can actually do. What questions would you want answered before your institution signs a contract for an AI edtech platform?
 - Institutions translate AI capability into acceptable-use frameworks and data standards. How do you weigh the promise of innovation against the privacy and equity implications of the data these tools collect?
-- Administrator choices about AI [[well-being]] tools directly shape student experience. What evidence would you want to see before deploying an AI tool meant to support — rather than monitor — students?
+- Administrator choices about AI [[well-being|well-being]] tools directly shape student experience. What evidence would you want to see before deploying an AI tool meant to support — rather than monitor — students?
 
 ## Introduction
 
@@ -39,12 +39,12 @@ AI adoption in education is not purely a classroom decision; it is also an insti
 - **A ten-domain taxonomy to organize the stack.** [[sposato-ai-educational-leadership-taxonomy-2025|Sposato (2025)]] synthesized 314 publications into ten domains — from administrative efficiency through governance and DEI — giving leaders shared vocabulary for matching a stated institutional problem to the domains that address it.
 
 - **Leadership structures lag strategic intent.** [[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]] found only 7% of institutions had created senior AI leadership roles even though 49% treated AI as a strategic priority, with empowering and distributive leadership styles associated with higher faculty engagement and the theory-implementation gap widest where policy and infrastructure are weak.
-- **Well-being and student experience:** [[ai-campus-wellbeing-tools|AI campus well-being tools]] examine how institutions deploy AI for [[student-support-and-success|student support]], linking administrator choices to [[student-experience]] outcomes.
-- **Governance and regulation:** Administrator decisions interact with [[educational-policy-ai]], [[governance]], and [[regulation]] — institutions translate AI capability into acceptable-use frameworks, assessment rules, and data-governance standards (see [[genai-policies-higher-ed-computing|institutional GenAI policy analysis]]).
+- **Well-being and student experience:** [[ai-campus-wellbeing-tools|AI campus well-being tools]] examine how institutions deploy AI for [[student-support-and-success|student support]], linking administrator choices to [[student-experience|student experience]] outcomes.
+- **Governance and regulation:** Administrator decisions interact with [[educational-policy-ai|educational AI policy]], [[governance|governance]], and [[regulation|regulation]] — institutions translate AI capability into acceptable-use frameworks, assessment rules, and data-governance standards (see [[genai-policies-higher-ed-computing|institutional GenAI policy analysis]]).
 
 ## Connections
 
-The administrator perspective connects to [[educational-policy-ai]] (policy formation), [[governance]] and [[regulation]] (governance), [[edtech-platform]] (procurement and infrastructure), [[learning-analytics]] (institutional data), and [[higher-ed]]. Administrator decisions enable or constrain the [[educational-development]], [[teacher-role]], and [[ai-literacy]] work that depends on them.
+The administrator perspective connects to [[educational-policy-ai|educational AI policy]] (policy formation), [[governance|governance]] and [[regulation|regulation]] (governance), [[edtech-platform|edtech platform]] (procurement and infrastructure), [[learning-analytics|learning analytics]] (institutional data), and [[higher-ed|higher education]]. Administrator decisions enable or constrain the [[educational-development|educational development]], [[teacher-role|teacher role]], and [[ai-literacy|AI literacy]] work that depends on them.
 
 ## Implications for Practice
 

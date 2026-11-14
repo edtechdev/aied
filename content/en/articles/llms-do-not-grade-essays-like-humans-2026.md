@@ -14,7 +14,7 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Mathew, Taher, Kundu, and Barbosa (2026) evaluate how out-of-the-box LLMs (GPT and Llama families) score essays compared with human graders on ASAP and DREsS datasets. Agreement with human scores is **weak** and varies systematically with essay quality: LLMs assign *higher* scores to short/underdeveloped essays but *lower* scores to longer essays with minor surface errors. [[llm]] scores are internally consistent with LLM feedback, but the models rely on signals that differ from human raters. The authors conclude LLMs are not yet suitable as standalone **[[summative-assessment|summative]]** graders, but are useful as a **[[formative-assessment|formative]]** first-pass [[feedback]] tool — with important [[privacy]]/consent caveats.
+> **Synthesis:** Mathew, Taher, Kundu, and Barbosa (2026) evaluate how out-of-the-box LLMs (GPT and Llama families) score essays compared with human graders on ASAP and DREsS datasets. Agreement with human scores is **weak** and varies systematically with essay quality: LLMs assign *higher* scores to short/underdeveloped essays but *lower* scores to longer essays with minor surface errors. [[llm|LLM]] scores are internally consistent with LLM feedback, but the models rely on signals that differ from human raters. The authors conclude LLMs are not yet suitable as standalone **[[summative-assessment|summative]]** graders, but are useful as a **[[formative-assessment|formative]]** first-pass [[feedback|feedback]] tool — with important [[privacy|privacy]]/consent caveats.
 
 ## The Core Finding: Weak Agreement with Systematic Bias
 
@@ -31,9 +31,9 @@ Across several GPT (3.5/4/5) and Llama (2/3/4) models, agreement between [[autom
 ## What this means for practice
 
 - **Instructors.** Keep out-of-the-box LLMs out of high-stakes [[summative-assessment|summative grading]]: agreement with human scores was weak (QWK ~0.17–0.28) and the disagreement ran systematically, penalizing longer, stronger essays for minor surface errors.
-- **Instructors.** Use the models as a [[formative-assessment|formative]] first pass on drafts — generating [[feedback]], flagging surface errors, and triaging essays for closer human reading — with the [[human-in-the-loop-ai|human as the final judge]].
+- **Instructors.** Use the models as a [[formative-assessment|formative]] first pass on drafts — generating [[feedback|feedback]], flagging surface errors, and triaging essays for closer human reading — with the [[human-in-the-loop-ai|human as the final judge]].
 - **Instructors.** Weight the generated feedback above the numeric score and apply simple calibration for essay length and surface-error counts, since scores cluster near the middle of the scale.
-- **Administrators.** Require transparency and consent, and prefer locally run [[open-source]] models: sending student essays through commercial APIs raises FERPA/GDPR exposure, potential training use, and later [[ai-detection|AI-detection]] flags.
+- **Administrators.** Require transparency and consent, and prefer locally run [[open-source|open source]] models: sending student essays through commercial APIs raises FERPA/GDPR exposure, potential training use, and later [[ai-detection|AI-detection]] flags.
 - **Designers.** Record the model and version behind any AI-assisted score, because grading behavior fluctuated across GPT and Llama versions and the study could not separate version effects from design choices.
 
 ## Limitations

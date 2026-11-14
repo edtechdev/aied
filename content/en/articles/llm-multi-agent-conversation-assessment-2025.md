@@ -24,7 +24,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Conversation-based assessment asks students to demonstrate knowledge in dialogue with an artificial agent, and this paper splits that job across four [[llm]] agents — an expert and a peer who talk to the student, a formative and a [[summative-assessment|summative]] assessor working behind the scenes — with a non-LLM Watcher controlling turns and flow. Tested with secondary students on a science-inquiry task, the student-facing agents adapted to how students answered, and the assessor's cohesion scores tracked the type of answer. Its agreement with human coders was only 52.2 percent, and the authors report the evaluation was run on an older GPT model.
+> **Synthesis:** Conversation-based assessment asks students to demonstrate knowledge in dialogue with an artificial agent, and this paper splits that job across four [[llm|LLM]] agents — an expert and a peer who talk to the student, a formative and a [[summative-assessment|summative]] assessor working behind the scenes — with a non-LLM Watcher controlling turns and flow. Tested with secondary students on a science-inquiry task, the student-facing agents adapted to how students answered, and the assessor's cohesion scores tracked the type of answer. Its agreement with human coders was only 52.2 percent, and the authors report the evaluation was run on an older GPT model.
 
 ## Key Findings
 

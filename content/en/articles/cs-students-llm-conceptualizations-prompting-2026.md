@@ -29,7 +29,7 @@ pedagogy: [student-ai-interaction, prior-knowledge]
 technology: [llm, generative-ai, conversational-ai]
 ---
 
-> **Synthesis:** Donekal Chandrashekar, Ellis, Basir Nizamani and Ramakrishnan (2026) asked students finishing a post-CS1 [[problem-solving]] course what they think an [[llm|LLM]] is, and whether that picture tracks how they prompt. Most described a helpful person and could explain prediction but not the machinery, while context-rich prompting was the most common style. The teaching signal is modest: knowledge rose with context-rich prompting, but the associations are weak enough to describe a population, not prove causation.
+> **Synthesis:** Donekal Chandrashekar, Ellis, Basir Nizamani and Ramakrishnan (2026) asked students finishing a post-CS1 [[problem-solving|problem-solving]] course what they think an [[llm|LLM]] is, and whether that picture tracks how they prompt. Most described a helpful person and could explain prediction but not the machinery, while context-rich prompting was the most common style. The teaching signal is modest: knowledge rose with context-rich prompting, but the associations are weak enough to describe a population, not prove causation.
 
 ## Key Findings
 

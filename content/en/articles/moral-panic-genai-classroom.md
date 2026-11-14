@@ -42,14 +42,14 @@ confidence: high
 Mixed: 53% preferred the new split format (paper knowledge + take-home applied); common praise was reduced stress and more active calculation. Others preferred the old 25-min efficiency.
 
 ## Interpretation: design beats ban
-The integrated redesign **resolved both [[academic-integrity]] and authenticity concerns** by splitting the quiz: a high-integrity paper knowledge test + a high-authenticity, open-resource applied task where GenAI use was taught. The authors caution they likely over-learned the "moral panic" lesson — assuming universal, effective GenAI adoption — when in reality uptake was partial and often ineffective. Their conclusion: monitor our own hypotheses about student GenAI use, keep learning objectives central, and **design authentic assessments for the new environment** rather than condemn the technology.
+The integrated redesign **resolved both [[academic-integrity|academic integrity]] and authenticity concerns** by splitting the quiz: a high-integrity paper knowledge test + a high-authenticity, open-resource applied task where GenAI use was taught. The authors caution they likely over-learned the "moral panic" lesson — assuming universal, effective GenAI adoption — when in reality uptake was partial and often ineffective. Their conclusion: monitor our own hypotheses about student GenAI use, keep learning objectives central, and **design authentic assessments for the new environment** rather than condemn the technology.
 
 ## What this means for practice
 
 - **Instructors.** Redesign the assessment rather than banning the tool: the 2025 GenAI-integrated condition recovered applied-question performance to pre-GenAI levels by moving knowledge questions to a paper quiz and teaching GenAI use on the open-resource applied portion.
 - **Instructors.** Teach the summarizing workflow explicitly, because in the GenAI-available condition applied performance fell significantly below baseline on Quizzes 4, 5 and 6, which the authors read as students being less prepared or unable to evaluate GenAI output.
 - **Instructors.** Monitor score spread, not only the mean: GenAI availability accounted for 88% of the variance in applied-question performance (omega-squared = 0.88) and 78% of knowledge-question variability (omega-squared = 0.78), and paper delivery produced the lowest, most stable variability - read as greater [[equity-in-ai-education|equity]].
-- **Instructors.** Design authentic, open-resource applied tasks that GenAI cannot answer directly, since the authors argue the split quiz resolves [[academic-integrity]] and [[authentic-assessment]] concerns at once.
+- **Instructors.** Design authentic, open-resource applied tasks that GenAI cannot answer directly, since the authors argue the split quiz resolves [[academic-integrity|academic integrity]] and [[authentic-assessment|authentic assessment]] concerns at once.
 - **Researchers.** Treat cohort patterns as hypotheses about student behavior: the authors caution that they over-learned the moral panic lesson by assuming universal and effective GenAI adoption when uptake was partial and often ineffective.
 
 ## Limitations

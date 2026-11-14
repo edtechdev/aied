@@ -12,7 +12,7 @@ sources: ['raw/papers/2605.25856.md']
 confidence: high
 ---
 
-> **Synthesis:** This preregistered between-subjects study (N=559) provides the first rigorous evidence that [[llm]] reasoning traces — increasingly common in AI interfaces — do not improve performance and can actively impair it. More critically, they create a dangerous [[metacognition|metacognitive]] blind spot: participants substantially overestimate their performance regardless of trace format.
+> **Synthesis:** This preregistered between-subjects study (N=559) provides the first rigorous evidence that [[llm|LLM]] reasoning traces — increasingly common in AI interfaces — do not improve performance and can actively impair it. More critically, they create a dangerous [[metacognition|metacognitive]] blind spot: participants substantially overestimate their performance regardless of trace format.
 
 ## Key Findings
 - **Summary traces** preserved task performance at the no-trace baseline while elevating trust and hedonic appeal — changing how users *feel* without helping them perform.
@@ -21,10 +21,10 @@ confidence: high
 - **Hedonic appeal**, not trust, carried the indirect path to overestimation, consistent with a processing-fluency account: the pleasant experience of reading traces inflates confidence without improving understanding.
 
 ## Connection to AIED
-These findings have profound implications for [[intelligent-tutoring]] and [[becerra-aicofe-feedback-2026|AI feedback systems]]. If students feel more confident after seeing AI reasoning but don't actually learn better, then simply exposing AI reasoning in educational interfaces may create an [[cognitive-offloading|Over-Reliance]] trap. The paper's recommendation — that calibration should be scaffolded by interactions that elicit users' own reasoning first — directly aligns with [[self-regulated-learning]] principles and [[cognitive-offloading-speedup-illusion|cognitive offloading research]] showing that AI use can reduce active [[student-engagement|engagement]].
+These findings have profound implications for [[intelligent-tutoring|intelligent tutoring]] and [[becerra-aicofe-feedback-2026|AI feedback systems]]. If students feel more confident after seeing AI reasoning but don't actually learn better, then simply exposing AI reasoning in educational interfaces may create an [[cognitive-offloading|Over-Reliance]] trap. The paper's recommendation — that calibration should be scaffolded by interactions that elicit users' own reasoning first — directly aligns with [[self-regulated-learning|self-regulated learning]] principles and [[cognitive-offloading-speedup-illusion|cognitive offloading research]] showing that AI use can reduce active [[student-engagement|engagement]].
 
 ## Contrast with Assessment Governance
-While [[genai-assessment-governance|GenAI assessment governance]] focuses on *when* to allow AI in evaluation, this paper addresses *how* AI explanations affect learning — suggesting that even well-designed AI transparency features can backfire without metacognitive [[scaffolding]].
+While [[genai-assessment-governance|GenAI assessment governance]] focuses on *when* to allow AI in evaluation, this paper addresses *how* AI explanations affect learning — suggesting that even well-designed AI transparency features can backfire without metacognitive [[scaffolding|scaffolding]].
 
 ## What this means for practice
 - **Instructors.** Ask students to write down their own approach or tentative answer while the model is generating, rather than exposing them to longer model reasoning traces; the format of the trace did not support calibrated self-evaluation.

@@ -27,7 +27,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** StudentBench is a public platform and evaluation suite testing whether general-purpose [[llm|large language models]] match expert human tutoring on GRE [[quantitative-research|Quantitative]] and Verbal questions. Across 2,469 sessions from 2,383 adults, pooled AI tutoring proved statistically equivalent to human tutoring (p=.015), and both beat a no-tutoring control by about six percentage points. AI tutors were also separated on lesson planning, practice-problem creation, conversational [[pedagogy]], cost, and engagement: one model matched human gains at 918× lower cost per percentage point. The authors present this as the first condition of recursive human self-improvement, not as a case for replacing teachers.
+> **Synthesis:** StudentBench is a public platform and evaluation suite testing whether general-purpose [[llm|large language models]] match expert human tutoring on GRE [[quantitative-research|Quantitative]] and Verbal questions. Across 2,469 sessions from 2,383 adults, pooled [[intelligent-tutoring|AI tutoring]] proved statistically equivalent to human tutoring (p=.015), and both beat a no-tutoring control by about six percentage points. AI tutors were also separated on lesson planning, practice-problem creation, conversational [[pedagogy|pedagogy]], cost, and engagement: one model matched human gains at 918× lower cost per percentage point. The authors present this as the first condition of recursive human self-improvement, not as a case for replacing teachers.
 
 ## Key Findings
 
@@ -43,7 +43,7 @@ source_depth: full text
 
 The design isolates tutoring itself. Students took a 27-question Quantitative (47 minutes) or Verbal (41 minutes) pre-test, spent five minutes reviewing graded mistakes, and were randomly assigned to one hour of AI tutoring, live one-to-one human tutoring on video, or GRE-unrelated videos; a post-test followed with matched length and concepts. Questions were newly written by former ETS and Kaplan GRE creators to avoid contamination from published tests, and the two test forms were counterbalanced. Effort filters removed sessions with too few non-blank answers, under ten minutes on task, or pre-test scores outside a 5–24 (Quantitative) or 4–24 (Verbal) band.
 
-The AI condition used two low-guidance prompts and minimal software [[scaffolding]], so the study measured [[intelligent-tutoring]] capability rather than its own [[prompt-engineering|prompt design]]. Equivalence was tested with two one-sided tests against ±0.25 pooled standard deviations (±4.09 percentage points combined). Against a human mean gain of 15.6 percentage points and a control gain of 7.1, pooled AI tutoring gained 13.9 — the first of three conditions the authors define for recursive human self-improvement.
+The AI condition used two low-guidance prompts and minimal software [[scaffolding|scaffolding]], so the study measured [[intelligent-tutoring|intelligent tutoring]] capability rather than its own [[prompt-engineering|prompt design]]. Equivalence was tested with two one-sided tests against ±0.25 pooled standard deviations (±4.09 percentage points combined). Against a human mean gain of 15.6 percentage points and a control gain of 7.1, pooled AI tutoring gained 13.9 — the first of three conditions the authors define for recursive human self-improvement.
 
 ## Three evaluations separate AI tutors on teaching quality
 
@@ -55,7 +55,7 @@ Conversational pedagogy was scored separately with six fixed transcript rules dr
 
 Cost and latency are first-class outcomes here. Mean inference cost per session — lesson planning, tutoring, and problem generation — ranged from \$0.067 for Gemma 4 31B to \$21.24 for GPT-5.5 Pro, against a \$75-per-hour human reference. Six of the twelve AI tutors passed individual equivalence tests, and Gemma 4 31B matched human gains (p=.044) at 918× lower cost per percentage point.
 
-Median reply time spanned 1.9 seconds (GPT-5.4 mini) to 31.0 seconds (GPT-5.5 Pro), and lower latency was strongly associated with higher [[student-engagement]] (Spearman ρ=−0.81, p=.0056). That supplied the missing link in an exploratory chain traced through 1,137 Quantitative sessions: faster replies, more student messages, more correct practice, larger learning gains. The authors suggest this helps explain why models that score unremarkably on the teaching-quality leaderboards still reach human-level GRE gains.
+Median reply time spanned 1.9 seconds (GPT-5.4 mini) to 31.0 seconds (GPT-5.5 Pro), and lower latency was strongly associated with higher [[student-engagement|student engagement]] (Spearman ρ=−0.81, p=.0056). That supplied the missing link in an exploratory chain traced through 1,137 Quantitative sessions: faster replies, more student messages, more correct practice, larger learning gains. The authors suggest this helps explain why models that score unremarkably on the teaching-quality leaderboards still reach human-level GRE gains.
 
 ## What this means for practice
 

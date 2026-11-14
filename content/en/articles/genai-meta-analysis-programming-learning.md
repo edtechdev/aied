@@ -23,7 +23,7 @@ Maier, Gunzenhäuser & Schweisthal (2026) conduct a **meta-analysis synthesizing
 
 ## Key Findings
 
-The meta-analysis examines the **productivity-learning trade-off** that sits at the heart of [[transfer-of-learning]] debates: when AI tools boost immediate coding output, do they simultaneously undermine the development of foundational programming skills? This directly connects to the broader question of whether [[stanford-evidence-base-ai-k12-2026]] matters — general AI coding assistants may optimize for productivity at the expense of learning.
+The meta-analysis examines the **productivity-learning trade-off** that sits at the heart of [[transfer-of-learning|transfer of learning]] debates: when AI tools boost immediate coding output, do they simultaneously undermine the development of foundational programming skills? This directly connects to the broader question of whether [[stanford-evidence-base-ai-k12-2026|Walker et al. (2026)]] matters — general AI coding assistants may optimize for productivity at the expense of learning.
 
 ## Significance for AIED
 
@@ -31,16 +31,16 @@ This paper provides the **highest-level evidence synthesis** currently available
 
 - **[[curriculum-design|Curriculum design]]:** When should AI tools be introduced in programming courses?
 - **Assessment:** How do we [[assessment-validity|validly assess]] programming skill when AI is available?
-- **Policy:** What guidance should [[regulation]] frameworks provide for AI in CS education?
+- **Policy:** What guidance should [[regulation|regulation]] frameworks provide for AI in CS education?
 
-The meta-analytic approach provides more robust conclusions than individual studies like [[golrang-propact-pair-programming-2026]] (ProPACT) or [[agentic-education-coding]] work on [[teacher-role|teaching]] Claude Code. It also connects to [[programming-its]] [[research-methods-aied|research]] on traditional [[intelligent-tutoring|intelligent tutoring]] for coding, providing a baseline for comparing AI-augmented approaches.
+The meta-analytic approach provides more robust conclusions than individual studies like [[golrang-propact-pair-programming-2026|Golrang et al. (2026)]] (ProPACT) or [[agentic-education-coding|Naboulsi (2026)]] work on [[teacher-role|teaching]] Claude Code. It also connects to [[programming-its|Deriyeva et al. (2026)]] [[research-methods-aied|research]] on traditional [[intelligent-tutoring|intelligent tutoring]] for coding, providing a baseline for comparing AI-augmented approaches.
 
-The findings have implications beyond programming — the productivity-learning tension applies to [[writing-education]], [[language-learning]], and any domain where AI can produce acceptable output without the learner developing underlying skills (the [[llm-fallacy-misattribution]] problem).
+The findings have implications beyond programming — the productivity-learning tension applies to [[writing-education|writing education]], [[language-learning|language learning]], and any domain where AI can produce acceptable output without the learner developing underlying skills (the [[llm-fallacy-misattribution|Kim et al. (2026)]] problem).
 
 ## Open Questions
 
 - Does the productivity-learning trade-off vary by student skill level (novices vs. experts)?
-- How do findings generalize beyond programming to other [[stem-education]] domains?
+- How do findings generalize beyond programming to other [[stem-education|STEM education]] domains?
 - What instructional designs mitigate the learning cost while preserving productivity gains?
 
 ## What this means for practice

@@ -30,8 +30,8 @@ page_kind: [evaluation]
 - **Pedagogically filtered tuning lifts the pedagogical dimensions.** Pedagogy-R1-7B beats its instruction-tuned baseline by 6.49 points in pedagogical knowledge, 8.75 in essay scoring, and 31.34 in decision-making.
 - **Subject knowledge is the trade-off.** The same model falls 2.49 points in subject knowledge, and both tuned sizes sit near 24 to 27 percent against 45.96 for o4-mini.
 - **Reasoning models still trail knowledge tracing specialists.** DKT and AKT reach 77.55 and 79.31 AUC, while every language model tested lands between roughly 49 and 65.
-- **CoP changes reasoning style, not just correctness.** Self-questioning and planning codes rise and rubric-heavy [[reflection]] falls, while one CoP-distilled variant gains 33.11 accuracy points in knowledge tracing.
-- **Without CoP, [[metacognition]] is absent.** No self-questioning or meta-evaluation codes appeared across any of the 42 baseline traces, and both surfaced only sparsely once pedagogical prompting was applied.
+- **CoP changes reasoning style, not just correctness.** Self-questioning and planning codes rise and rubric-heavy [[reflection|reflection]] falls, while one CoP-distilled variant gains 33.11 accuracy points in knowledge tracing.
+- **Without CoP, [[metacognition|metacognition]] is absent.** No self-questioning or meta-evaluation codes appeared across any of the 42 baseline traces, and both surfaced only sparsely once pedagogical prompting was applied.
 - **Most reasoning tokens were filler.** About 65 percent were coded as noise, mainly repeated item stems and generic remarks, and underthinking ran high in essay scoring and pedagogy.
 
 ## Training a pedagogical reasoning model
@@ -40,7 +40,7 @@ The pipeline follows DeepSeek-R1's distillation recipe with a pedagogical filter
 
 ## The Well-balanced Educational Benchmark
 
-WBEB exists because earlier educational [[benchmark|benchmarks]] mostly measured content knowledge, ignoring feedback, [[scaffolding]], and classroom discourse. Its five dimensions mix public and newly curated sources. Subject knowledge uses 805 multiple-choice items translated from Chinese [[k-12|junior high]] exams. Pedagogical knowledge uses 292 items from three Korean certification sets (124, 104 and 64), cleaned by OCR and translated, and these stay internal because the exams are copyright restricted; released models are trained without them. Knowledge tracing adds three sequence datasets of 3,146, 5,000, and 3,992 samples in zero-shot and five-shot forms. Essay scoring uses 3,462 essays from a 2024 Kaggle competition, and decision-making draws on 1,660 anonymized fourth and fifth grade math transcripts from the NCTE study, available only under data-sharing agreements.
+WBEB exists because earlier educational [[benchmark|benchmarks]] mostly measured content knowledge, ignoring feedback, [[scaffolding|scaffolding]], and classroom discourse. Its five dimensions mix public and newly curated sources. Subject knowledge uses 805 multiple-choice items translated from Chinese [[k-12|junior high]] exams. Pedagogical knowledge uses 292 items from three Korean certification sets (124, 104 and 64), cleaned by OCR and translated, and these stay internal because the exams are copyright restricted; released models are trained without them. Knowledge tracing adds three sequence datasets of 3,146, 5,000, and 3,992 samples in zero-shot and five-shot forms. Essay scoring uses 3,462 essays from a 2024 Kaggle competition, and decision-making draws on 1,660 anonymized fourth and fifth grade math transcripts from the NCTE study, available only under data-sharing agreements.
 
 ## What the evaluation and traces showed
 

@@ -14,7 +14,7 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** A novel generate-then-validate pipeline for educational question generation that reduces [[llm]] [[hallucination-risk|hallucination]] by 62% compared to direct generation, validated on [[stem-education|STEM]] datasets with 89% accuracy and a 23% improvement over baseline LLMs on relevance metrics. The two-stage approach first generates candidate questions, then validates them against domain constraints and [[pedagogy|pedagogical]] criteria.
+> **Synthesis:** A novel generate-then-validate pipeline for educational [[automated-question-generation|question generation]] that reduces [[llm|LLM]] [[hallucination-risk|hallucination]] by 62% compared to direct generation, validated on [[stem-education|STEM]] datasets with 89% accuracy and a 23% improvement over baseline LLMs on relevance metrics. The two-stage approach first generates candidate questions, then validates them against domain constraints and [[pedagogy|pedagogical]] criteria.
 
 ## Approach
 
@@ -34,7 +34,7 @@ This architecture addresses a core limitation of direct generation: LLMs produce
 
 ## Significance
 
-Automated question generation reduces manual authoring burden for educators and enables adaptive assessment at scale. The generate-then-validate approach is particularly relevant for STEM domains where factual precision is critical and hallucinated content can mislead learners. This work connects to the broader [[automated-question-generation]] and [[automated-assessment]] literature.
+Automated question generation reduces manual authoring burden for educators and enables adaptive assessment at scale. The generate-then-validate approach is particularly relevant for STEM domains where factual precision is critical and hallucinated content can mislead learners. This work connects to the broader [[automated-question-generation|automated question generation]] and [[automated-assessment|automated assessment]] literature.
 
 ## What this means for practice
 

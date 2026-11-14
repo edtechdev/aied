@@ -13,12 +13,12 @@ confidence: high
 audience: [instructors, instructional designers]
 ---
 
-> **Synthesis:** **[[generative-ai|GenAI]] as a [[pedagogical-agent|learning partner]]** — a longitudinal study of 75 first-year university students across a full semester showing that SRL is both a stable aptitude and a dynamically fluctuating state. Individual baselines were consistent, but [[metacognition|metacognitive]] knowledge and [[well-being]] declined systemically over the term, driven by [[curriculum-design|curriculum]] demands (e.g., major assessment deadlines). A proof-of-concept demonstrated that giving an [[llm]] personal, temporal, and contextual information enables it to identify tailored SRL support directions.
+> **Synthesis:** **[[generative-ai|GenAI]] as a [[pedagogical-agent|learning partner]]** — a longitudinal study of 75 first-year university students across a full semester showing that SRL is both a stable aptitude and a dynamically fluctuating state. Individual baselines were consistent, but [[metacognition|metacognitive]] knowledge and [[well-being|well-being]] declined systemically over the term, driven by [[curriculum-design|curriculum]] demands (e.g., major assessment deadlines). A proof-of-concept demonstrated that giving an [[llm|LLM]] personal, temporal, and contextual information enables it to identify tailored SRL support directions.
 
 ## Key Findings
 
-- **SRL as both stable and dynamic.** Pre-/post-semester surveys showed high individual consistency (R² up to 0.73), but paired t-tests revealed systemic declines in metacognitive knowledge (MAI_K) and well-being (WEMWBS) over the term — while metacognitive [[regulation]] (MAI_R) held steady.
-- **Curriculum drives fluctuations.** Week-by-week daily-survey analysis showed a major Week 8 project deadline lowered interest, [[self-efficacy]], and emotional well-being, with most [[affective-computing|affective]] metrics recovering after the assessment. Students shifted from planning/reviewing toward reading new material after the deadline.
+- **SRL as both stable and dynamic.** Pre-/post-semester surveys showed high individual consistency (R² up to 0.73), but paired t-tests revealed systemic declines in metacognitive knowledge (MAI_K) and well-being (WEMWBS) over the term — while metacognitive [[regulation|regulation]] (MAI_R) held steady.
+- **Curriculum drives fluctuations.** Week-by-week daily-survey analysis showed a major Week 8 project deadline lowered interest, [[self-efficacy|self-efficacy]], and emotional well-being, with most [[affective-computing|affective]] metrics recovering after the assessment. Students shifted from planning/reviewing toward reading new material after the deadline.
 - **Context-aware GenAI support.** By separating formal, psychometrically-validated measurement of SRL from the LLM's interpretation, the authors gave Gemini 3 each student's baseline, week-by-week fluctuations, and academic context — and it generated appropriately tailored support (e.g., foundational strategy-building for a low-metacognition student vs. post-assessment recovery pacing for a high-metacognition student whose confidence had dipped). [[research-methods-aied|Researchers]] judged the output pedagogically sound.
 
 ## What this means for practice
@@ -26,7 +26,7 @@ audience: [instructors, instructional designers]
 - **Instructors.** Map AI support to the academic calendar rather than the student's baseline profile: reduce unsolicited help during deadline weeks so students keep the [[desirable-difficulties|productive struggle]], and raise support after assessments to rebuild self-efficacy and interest.
 - **Instructors.** Keep measurement and interpretation separate — score SRL with validated instruments (MAI_K, MAI_R, WEMWBS) and let the model only translate those results into support directions, so advice stays anchored in theory rather than inferred from chat history.
 - **Instructional designers.** Feed the system each learner's personal, temporal, and contextual data (baseline, week-by-week fluctuations, course context) instead of a one-time-fits-all [[personalized-learning|personalization]] built only on baseline aptitude.
-- **Instructional designers.** Design for SRL as a state, not a trait: instrument [[metacognition]] and well-being across the whole term, since both declined systemically while metacognitive regulation held steady.
+- **Instructional designers.** Design for SRL as a state, not a trait: instrument [[metacognition|metacognition]] and well-being across the whole term, since both declined systemically while metacognitive regulation held steady.
 
 ## Limitations
 

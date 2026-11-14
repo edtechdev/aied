@@ -1,7 +1,7 @@
 ---
 title: History of AI in Education
 created: "2026-08-23T13:00:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
@@ -49,7 +49,7 @@ The arrival of [[generative-ai|generative AI]] — a broad family that includes 
 
 **A reversal of the access equation.** Historically, personalized tutoring was scarce and expensive; GenAI made adaptive one-on-one support nearly free and universal — dramatically lowering the accessibility and cost barriers that shaped earlier AIED. But it also introduced new risks: [[bias-mitigation|algorithmic bias]], [[hallucination-risk|hallucination]], surveillance, data collection, and the de-skilling of educators.
 
-**Renewed concern about AI literacy and misuse.** The generative-AI era made [[ai-literacy]] urgent and reframed [[academic-integrity]] debates (detection vs. dialog), while reviving long-standing concerns about automation, standardization, and epistemic dependence. These are the modern expressions of the field's original tensions.
+**Renewed concern about AI literacy and misuse.** The generative-AI era made [[ai-literacy|AI literacy]] urgent and reframed [[academic-integrity|academic integrity]] debates (detection vs. dialog), while reviving long-standing concerns about automation, standardization, and epistemic dependence. These are the modern expressions of the field's original tensions.
 
 **Chronocentrism's risk.** As [[mishra-control-vs-agency-history-2025|Mishra et al.]] warn, the hype around generative AI often lacks historical awareness, letting tech evangelists dominate the conversation. Understanding that today's GenAI debates echo the Anderson–Papert divide and the 1955 cybernetics naming decision helps us make deliberate choices rather than treating the present as inevitable. The real question is not what generative-AI tools can do, but what we want them to do — a decision shaped by where we have been.
 

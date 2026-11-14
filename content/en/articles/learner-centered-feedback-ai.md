@@ -14,7 +14,7 @@ sources: ['raw/papers/tandf-2026-learner-centered-feedback-ai.md']
 confidence: high
 ---
 
-> **Synthesis:** An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI-powered feedback tool combining (1) a **BERT-based [[machine-learning|ML model]]** (from Aldino et al. 2024) that detects which learner-centered feedback components are missing from [[teacher-role|teacher]]-written feedback and suggests them, and (2) **[[generative-ai|ChatGPT]]-4o mini** to rephrase/enhance the teacher's draft. Teachers gave feedback on a simulated student presentation, then used the tool, then were interviewed. The study answers two questions: *how teachers interact with* [[ai-feedback-quality|AI feedback]] tools (RQ1) and *how they perceive* them (RQ2). Framework: Ryan et al.'s (2023) learner-centered feedback dimensions — **Future Impact, Sensemaking, Agency**.
+> **Synthesis:** An empirical study of **21 higher-education teachers** using **PolyFeed**, an AI-powered [[feedback|feedback]] tool combining (1) a **BERT-based [[machine-learning|ML model]]** (from Aldino et al. 2024) that detects which learner-centered feedback components are missing from [[teacher-role|teacher]]-written feedback and suggests them, and (2) **[[generative-ai|ChatGPT]]-4o mini** to rephrase/enhance the teacher's draft. Teachers gave feedback on a simulated student presentation, then used the tool, then were interviewed. The study answers two questions: *how teachers interact with* [[ai-feedback-quality|AI feedback]] tools (RQ1) and *how they perceive* them (RQ2). Framework: Ryan et al.'s (2023) learner-centered feedback dimensions — **Future Impact, Sensemaking, Agency**.
 
 ## RQ1 — How teachers interacted with the tools
 
@@ -33,11 +33,11 @@ confidence: high
 
 - **Benefits:** promotes reflection (n = 14), improves language and structure (n = 11), identifies missing components (n = 10), saves time (n = 2).
 - **Challenges:** need for human editing (n = 9), inconsistent tone (n = 7), potential misinformation (n = 5), trust issues (n = 5).
-- **Experience gap:** teachers with **>5 years of experience reported more challenges** (tone, editing burden, trust, misinformation); **less-experienced teachers valued [[scaffolding]] benefits** (identifying missing components, saving time). The authors flag a developmental risk: novice teachers who defer to AI suggestions may build less independent feedback judgment.
+- **Experience gap:** teachers with **>5 years of experience reported more challenges** (tone, editing burden, trust, misinformation); **less-experienced teachers valued [[scaffolding|scaffolding]] benefits** (identifying missing components, saving time). The authors flag a developmental risk: novice teachers who defer to AI suggestions may build less independent feedback judgment.
 
 ## Interpretation
 
-- The tools were most valuable as **[[reflection|reflective prompts]] that surface overlooked aspects** of feedback — "making invisible gaps visible" — scaffolding teachers' [[evaluative-judgment|evaluative judgment]], rather than as providers of finalised text (an **"assist but verify"** pattern; cf. [[human-in-the-loop-ai]]).
+- The tools were most valuable as **[[reflection|reflective prompts]] that surface overlooked aspects** of feedback — "making invisible gaps visible" — scaffolding teachers' [[evaluative-judgment|evaluative judgment]], rather than as providers of finalised text (an **"assist but verify"** pattern; cf. [[human-in-the-loop-ai|Human-in-the-loop]]).
 - **Design implications:** adjustable tone parameters, [[discipline-specific-aied|discipline-specific]] templates, and transparency controls; without them AI adoption may *increase* rather than reduce workload and can erode teacher authority if positioned as autonomous providers.
 - The authors call for future [[research-methods-aied|research]] on **student perspectives** of AI-assisted teacher feedback and longitudinal study of whether reliance strengthens or displaces evaluative judgment.
 

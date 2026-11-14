@@ -1,7 +1,7 @@
 ---
 title: Quantitative Research
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-11-13T09:46:01-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
@@ -10,7 +10,7 @@ methods: [quantitative-research, research-methods-aied]
 reviewed_by: [editor]
 ---
 
-> **Quantitative research** — the family of empirical methods that collect and analyze *numerical* data to describe patterns, test relationships, and estimate causal effects. In [[ai-education|AI in education]], quantitative methods quantify whether and how AI tools affect [[learning-gains|learning outcomes]], [[student-engagement|engagement]], [[motivation]], and [[self-efficacy]], and model the psychological and behavioral mechanisms of AI use. They provide the breadth, precision, and causal inferential power that [[qualitative-research|qualitative methods]] trade away for depth and context.
+> **Quantitative research** — the family of empirical methods that collect and analyze *numerical* data to describe patterns, test relationships, and estimate causal effects. In [[ai-education|AI in education]], quantitative methods quantify whether and how AI tools affect [[learning-gains|learning outcomes]], [[student-engagement|engagement]], [[motivation|motivation]], and [[self-efficacy|self-efficacy]], and model the psychological and behavioral mechanisms of AI use. They provide the breadth, precision, and causal inferential power that [[qualitative-research|qualitative methods]] trade away for depth and context.
 
 ## Questions to Consider
 
@@ -23,7 +23,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Quantitative research spans descriptive designs (measuring prevalence and patterns), correlational/observational designs (testing relationships among variables), and experimental and quasi-experimental designs (estimating causal effects). What unifies them is the systematic reduction of observations to numbers, analyzed with statistics, and the priority placed on **reliability, validity, and generalizability** — the core concerns of [[educational-measurement]].
+Quantitative research spans descriptive designs (measuring prevalence and patterns), correlational/observational designs (testing relationships among variables), and experimental and quasi-experimental designs (estimating causal effects). What unifies them is the systematic reduction of observations to numbers, analyzed with statistics, and the priority placed on **reliability, validity, and generalizability** — the core concerns of [[educational-measurement|educational measurement]].
 
 ## Major quantitative approaches
 
@@ -32,10 +32,10 @@ Quantitative research spans descriptive designs (measuring prevalence and patter
 Repeated measurement of the same learners turns a correlation into a trajectory: panel models separate a stable trait from occasion-specific change, and growth models estimate the shape and rate of change across waves. The design families, the threats that bite in AI studies (attrition, tool drift, assisted performance) and the stronger examples are treated on [[longitudinal-research|longitudinal research]].
 
 ### Survey and correlational research
-Cross-sectional surveys measure self-reported attitudes, perceptions, motivation, [[self-efficacy]], and technology acceptance, often modeled with regression or structural equation modeling (SEM/PLS-SEM) to test hypothesized relationships and mediators. These dominate the literature, particularly for acceptance, motivation, and psychological-mechanism questions. [[acceptance-ai-english-tools-2026|Acceptance of AI-assisted English tools]] builds on the [[technology-acceptance-model|TAM]] with SEM; [[tian-genai-learning-adoption-pathways-2026|GenAI adoption pathways]] uses PLS-SEM, fsQCA, and importance-performance mapping; [[teacher-education-ai-literacy-sdt-2026|teacher AI literacy]] uses factor-validated surveys grounded in [[self-determination-theory]].
+Cross-sectional surveys measure self-reported attitudes, perceptions, motivation, [[self-efficacy|self-efficacy]], and technology acceptance, often modeled with regression or structural equation modeling (SEM/PLS-SEM) to test hypothesized relationships and mediators. These dominate the literature, particularly for acceptance, motivation, and psychological-mechanism questions. [[acceptance-ai-english-tools-2026|Acceptance of AI-assisted English tools]] builds on the [[technology-acceptance-model|TAM]] with SEM; [[tian-genai-learning-adoption-pathways-2026|GenAI adoption pathways]] uses PLS-SEM, fsQCA, and importance-performance mapping; [[teacher-education-ai-literacy-sdt-2026|teacher AI literacy]] uses factor-validated surveys grounded in [[self-determination-theory|self-determination theory]].
 
 - **Strengths:** large samples; broad, low-cost coverage; tests complex mediational models; feasible for attitudes that are hard to observe.
-- **Limitations:** cross-sectional data cannot establish causation; self-report bias; convenience sampling limits generalizability; mediators inferred from covariance, not manipulation. See [[self-report-measures]] for the instrument-side treatment of these limits.
+- **Limitations:** cross-sectional data cannot establish causation; self-report bias; convenience sampling limits generalizability; mediators inferred from covariance, not manipulation. See [[self-report-measures|self-report measures]] for the instrument-side treatment of these limits.
 - **A saturated mediation model cannot test its own ordering.** A single-wave survey of 1,020 nursing students split a total effect of 1.36 into a direct 0.92 and an indirect 0.44 through [[self-regulated-learning|self-regulated learning]], 32.35% of the total, with a model that has as many free parameters as observed covariances and so reproduces the data by construction ([[li-nursing-genai-interaction-self-regulated-learning-2026|Li et al. (2026)]]).
 - **A "partial" label can rest on an interval that nearly reaches zero.** Among 438 Chinese university students the direct AI-use-to-performance path ran β = 0.18, 95% CI (0.02, 0.34) ([[yuan-ai-assisted-learning-engagement-performance-2026|Yuan et al. (2026)]]).
 **A near-zero total indirect effect can hide two live paths.** In one self-report wave of 568 design students, the indirect association ran 0.0929 through promotion focus and -0.0884 through prevention focus, summing to 0.0045 while the direct path carried 98.7% of the total ([[wang-ai-disruption-design-innovation-competence-2026|Wang et al. (2026)]]).
@@ -43,7 +43,7 @@ Cross-sectional surveys measure self-reported attitudes, perceptions, motivation
 ### Experimental and quasi-experimental research
 Experiments randomly assign learners to conditions (e.g., AI tutor vs. human tutor, or AI-scaffolded vs. unassisted) to estimate causal effects on outcomes. **Randomized controlled trials ([[rct]]s)** are the gold standard for internal validity. [[access-not-enough-ai-tutoring-2026|A randomized field study of human support plus AI tutoring]] and [[genai-can-harm-teaching-rct-2026|an RCT on generative AI in teaching]] use assignment to isolate causal effects. **Quasi-experimental** designs (pre/post, matched groups without randomization) are more feasible in intact classrooms but weaker on causal claims.
 
-[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] adopt a within-subject crossover instead: every student meets the same physics content twice, once in an in-class [[active-learning]] lesson and once through the course's own AI tutor, with pre- and post-tests around each, so each learner serves as their own control and between-person differences cancel.
+[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] adopt a within-subject crossover instead: every student meets the same physics content twice, once in an in-class [[active-learning|active learning]] lesson and once through the course's own AI tutor, with pre- and post-tests around each, so each learner serves as their own control and between-person differences cancel.
 
 - **Strengths:** strongest causal inference; clean outcome measurement; supports effect-size estimation and efficacy claims.
 - **Limitations:** costly and slow; artificial conditions reduce ecological validity; fast-changing AI tools date experiments quickly; small samples underpower detection of effects; ethical constraints on withholding helpful tools.
@@ -56,30 +56,30 @@ Longitudinal designs track the same learners over time, capturing change, growth
 Between-dataset comparisons need a fixed working point: a structural check of synthetic educational data found that analyzing each dataset at its own threshold reversed a contrast that held at a shared point, and that its surrogate comparison needed only the synthetic data and permutations of itself - a permutation-based null rather than an absolute threshold ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]]).
 
 ### Computational and psychometric quantification
-Quantitative methods also include the direct measurement of constructs via instruments — the domain of [[educational-measurement]] and [[item-response-theory]]. The [[jin-glat-genai-literacy-assessment|GLAT]] is a 20-item quantitative instrument validated with IRT; [[educational-measurement|measurement instruments]] across [[ai-literacy|AI literacy]], acceptance, and self-efficacy provide the validated scales on which survey and experimental research depend.
+Quantitative methods also include the direct measurement of constructs via instruments — the domain of [[educational-measurement|educational measurement]] and [[item-response-theory|item response theory]]. The [[jin-glat-genai-literacy-assessment|GLAT]] is a 20-item quantitative instrument validated with IRT; [[educational-measurement|measurement instruments]] across [[ai-literacy|AI literacy]], acceptance, and self-efficacy provide the validated scales on which survey and experimental research depend.
 
-Bibliometric analysis is a further quantitative family: [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]] map 1,403 [[medical-education]] publications through country, institution and keyword co-occurrence networks, reading a literature's shape rather than appraising its studies — which is what makes their conclusion, that [[governance]] scholarship has not kept pace with capability testing, a claim about the field and not about learning.
+Bibliometric analysis is a further quantitative family: [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]] map 1,403 [[medical-education|medical education]] publications through country, institution and keyword co-occurrence networks, reading a literature's shape rather than appraising its studies — which is what makes their conclusion, that [[governance|governance]] scholarship has not kept pace with capability testing, a claim about the field and not about learning.
 
 ## How quantitative research appears in AI in education
 
-- **Efficacy and causal claims.** RCTs and quasi-experiments test whether AI tools improve learning ([[access-not-enough-ai-tutoring-2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention]]).
+- **Efficacy and causal claims.** RCTs and quasi-experiments test whether AI tools improve learning ([[access-not-enough-ai-tutoring-2026|Robinson et al., 2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention|Akgun et al. (2026)]]).
 
 - **Preregistration and replication.** [[chatbot-outreach-course-performance-2026|Meyer et al. (2026)]] state their hypotheses and analysis plan before the trial and pool the randomized comparison across two semesters and two large asynchronous courses, so the estimate rests on a fixed plan and a replication rather than a single sample.
-- **Mechanism modeling.** SEM/PLS-SEM tests mediators and moderators of AI adoption and learning ([[tian-genai-learning-adoption-pathways-2026]], [[acceptance-ai-english-tools-2026]], [[teacher-education-ai-literacy-sdt-2026]]).
+- **Mechanism modeling.** SEM/PLS-SEM tests mediators and moderators of AI adoption and learning ([[tian-genai-learning-adoption-pathways-2026|Tian et al. (2026)]], [[acceptance-ai-english-tools-2026|Wu et al. (2026)]], [[teacher-education-ai-literacy-sdt-2026|Chiu et al. (2026)]]).
 
 - **Panel models that separate within- from between-person effects.** [[genai-reliance-human-agency-collaborative-learning-2026|Wu and Lu (2026)]] estimate a random-intercept cross-lagged panel model over three waves of collaborative-writing data, which separates stable differences between students from within-person temporal order — the distinction that licenses reading heightened reliance as preceding a fall in perceived agency rather than merely attending it.
-- **Measurement and scale development.** Quantitative instrument development and validation are well documented ([[jin-glat-genai-literacy-assessment|GLAT]], [[educational-measurement]]).
+- **Measurement and scale development.** Quantitative instrument development and validation are well documented ([[jin-glat-genai-literacy-assessment|GLAT]], [[educational-measurement|educational measurement]]).
 
 - **Performance versus durable learning.** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] randomizes 120 students to AI-assisted or traditional study and measures retention with a surprise 20-question test 45 days after the intervention, so the outcome is what survived the delay rather than what appeared at the end of the session.
 
 ## Strengths and limitations
 
 - **Strengths:** precision and statistical power; generalizability to defined populations; causal inference (with experimental designs); efficient large-sample coverage; cumulative and comparable across studies.
-- **Limitations:** captures what is measurable, often missing process, meaning, and context (see [[qualitative-research]]); self-report bias; instruments can measure the wrong construct (see [[educational-measurement|measurement issues]]); correlation without causation; can be artificial and slow relative to AI change.
+- **Limitations:** captures what is measurable, often missing process, meaning, and context (see [[qualitative-research|qualitative research]]); self-report bias; instruments can measure the wrong construct (see [[educational-measurement|measurement issues]]); correlation without causation; can be artificial and slow relative to AI change.
 - 
 **Pooling can fail at review scale.** A 103-study PRISMA review of GenAI in higher education ran no meta-analysis because designs, comparators, and measures were too heterogeneous, reporting outcome-typology agreement at κ = 0.781 instead ([[generative-ai-higher-education-systematic-review-2026|Hawi & Samaha (2026)]]).
 
-Quantitative and [[qualitative-research|qualitative]] methods are complements — quantitative work provides breadth and causal power, qualitative work provides depth and meaning. [[mixed-methods-research|Mixed-methods designs]] combine them. See [[research-methods-aied]] for the full method comparison and the contrasts among experimental, survey, qualitative, and other designs.
+Quantitative and [[qualitative-research|qualitative]] methods are complements — quantitative work provides breadth and causal power, qualitative work provides depth and meaning. [[mixed-methods-research|Mixed-methods designs]] combine them. See [[research-methods-aied|research methods]] for the full method comparison and the contrasts among experimental, survey, qualitative, and other designs.
 
 ## Common Misconceptions
 

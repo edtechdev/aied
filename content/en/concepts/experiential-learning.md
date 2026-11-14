@@ -1,7 +1,7 @@
 ---
 title: Experiential Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
@@ -20,13 +20,13 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Experiential learning is closely related to [[active-learning]], [[project-based-learning]], [[embodied-learning]], and [[simulation]]. It is particularly relevant to AI, cybersecurity, and robotics education, where students develop skills by working with tools and systems in applied contexts rather than through lectures alone. A key rationale is closing the theory-practice gap in professional preparation.
+Experiential learning is closely related to [[active-learning|active learning]], [[project-based-learning|project-based learning]], [[embodied-learning|embodied learning]], and [[simulation|simulation]]. It is particularly relevant to AI, cybersecurity, and robotics education, where students develop skills by working with tools and systems in applied contexts rather than through lectures alone. A key rationale is closing the theory-practice gap in professional preparation.
 
 ## How experiential learning appears in the research
 
 - **Emergency substitution, with a rubric for how far it gets you.** [[ai-personas-fieldwork-experiential-learning-2026|Elhajj et al. (2026)]] document a substitution forced by the 2024 conflict in Lebanon: students in a graduate Experiential Learning course at the American University of Beirut, unable to reach communities for needs assessments, interviewed ChatGPT-generated stakeholder personas instead. Two raters scored all ten group prompts and found the split instructive — alignment with educational goals (mean 5.00) and diversity of perspectives (4.90) were strong, while authenticity and realism (4.38) and especially group dynamics and coherence (3.80, with one 30-persona focus group collapsing into sequential interviews) and limitations and gaps (3.20) were weak, the last because emotional flatness, absent contradiction and thin cultural specificity recurred in every context. The authors' conclusion is a boundary rather than a verdict: personas work as rehearsal and as a stopgap where access is impossible or unsafe, but not where emotional complexity, cultural specificity and interpersonal dynamics *are* the learning objective. Their mitigation is structural — pair simulated role-play with real interviews so students can compare, and train students to interrogate persona output for bias and generalization instead of treating it as field evidence.
 
-- **Cybersecurity labs:** [[genai-cybersecurity-ocr-multimodal-instruction-2025|LLM-assisted cybersecurity instruction]] integrates a [[generative-ai]] instructional assistant into a virtual lab platform, supporting hands-on experiential skill building.
+- **Cybersecurity labs:** [[genai-cybersecurity-ocr-multimodal-instruction-2025|LLM-assisted cybersecurity instruction]] integrates a [[generative-ai|generative AI]] instructional assistant into a virtual lab platform, supporting hands-on experiential skill building.
 - **Robotics projects:** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] uses a project-based, hands-on approach to teach robotics, addressing the lack of practical experience in classic programs.
 - **Simulation and embodied learning:** [[edusim-llm-robotic-simulation-education-2026|EduSim-LLM]] lets beginners experiment with simulated robots, and [[embodied-learning|embodied]] robot interaction grounds learning in direct experience.
 - **A virtual laboratory can outperform the physical one when the apparatus is not the point.** Grade 9 students on Ohm's law scored 23.45, 20.51 and 16.57 of 30 in the AI-supported virtual laboratory, the same laboratory without AI, and the physical laboratory, with every pair significant ([[li-ahmad-ai-virtual-lab-flipped-physics-2026|Li and Ahmad (2026)]]); the authors concede the physical laboratory's disadvantage may shrink where handling apparatus is itself the goal.
@@ -46,10 +46,10 @@ different sources — real-world material resistance in the first case, language
 not be treated as equivalent or as substitutes. The review's caution is that generation efficiency can compress the exploratory
 phase: several included studies report reduced exploratory sketching and gradual trial-and-error, so more iterations enabled by AI
 need not mean greater iterative depth, and students can miss the failure and material-constraint encounters that make hands-on work
-educative. Consistent with this, [[prompt-engineering|prompting]] alone did not raise [[creativity]] in the reviewed work, whereas multi-step operations
+educative. Consistent with this, [[prompt-engineering|prompting]] alone did not raise [[creativity|creativity]] in the reviewed work, whereas multi-step operations
 (generate, modify, select) did — again locating the learning in the learner's judgment rather than in the generation.
 
-Experiential learning connects to [[active-learning]], [[project-based-learning]], [[embodied-learning]], [[simulation]], [[educational-robotics]], and [[higher-ed]] professional preparation.
+Experiential learning connects to [[active-learning|active learning]], [[project-based-learning|project-based learning]], [[embodied-learning|embodied learning]], [[simulation|simulation]], [[educational-robotics|educational robotics]], and [[higher-ed|higher education]] professional preparation.
 
 Work-integrated experience can be the binding condition for advanced competence: across 89 sponsored capstone projects in a smart-manufacturing lab, advancement from [[career-development-and-readiness|Workforce Readiness]] Level 6 to 7 was gated by industry-embedded placements rather than additional coursework ([[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al. (2026)]]).
 
@@ -80,7 +80,7 @@ Across 26 community-engaged studies, AI concentrated in preparation (18) and act
 
 **"More [[authentic-assessment|authentic tasks]] are straightforwardly better."** Authenticity raises the transfer value and the assessment problem together: real systems produce variable, hard-to-grade evidence, and the more authentic the task the less the outcome resembles a score. Design has to hold both, which is why the reflection structure carries as much weight as the task.
 
-**"[[intelligent-tutoring|AI tutoring]] fits experiential learning as it fits lecture content."** The fit is weaker, because a tutor can supply explanation and cannot supply the encounter with the system. Its natural place in this [[pedagogy]] is around the reflection and conceptualisation stages, where a learner is making sense of what happened — not in place of the doing. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]] generate the encounter rather than script it: from a learner's goals, GELLI builds situated scenes with characters, support and reflection at runtime, and in a within-subjects study with 40 Japanese learners it beat expert-authored videos on vocabulary recall (d = 0.45) and confidence (d = 0.45) but not speaking.
+**"[[intelligent-tutoring|AI tutoring]] fits experiential learning as it fits lecture content."** The fit is weaker, because a tutor can supply explanation and cannot supply the encounter with the system. Its natural place in this [[pedagogy|pedagogy]] is around the reflection and conceptualisation stages, where a learner is making sense of what happened — not in place of the doing. [[gelli-experiential-language-learning-2026|Symonette et al. (2026)]] generate the encounter rather than script it: from a learner's goals, GELLI builds situated scenes with characters, support and reflection at runtime, and in a within-subjects study with 40 Japanese learners it beat expert-authored videos on vocabulary recall (d = 0.45) and confidence (d = 0.45) but not speaking.
 
 ## Connected Concepts
 - [[active-learning]]

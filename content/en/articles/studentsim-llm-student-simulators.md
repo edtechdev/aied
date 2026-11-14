@@ -12,7 +12,7 @@ audience: [researchers, instructional designers, learning analytics designers]
 page_kind: [framework, evaluation]
 ---
 
-> **Synthesis:** A training framework for per-student AI [[simulating-students|student simulation]] built on two joint requirements: **behavioral fidelity (F)** — how well the [[simulation|simulator]] matches a student's own responses — and **guidance responsiveness (R)** — how reliably it updates toward where tutor guidance leads. The accompanying [[benchmark]], StudentSimEval, casts public learner corpora (chess, second-language English writing, mathematics) into a standardized per-student protocol, then fits and scores any simulator on the same held-out records.
+> **Synthesis:** A training framework for per-student AI [[simulating-students|student simulation]] built on two joint requirements: **behavioral fidelity (F)** — how well the [[simulation|simulator]] matches a student's own responses — and **guidance responsiveness (R)** — how reliably it updates toward where tutor guidance leads. The accompanying [[benchmark|benchmark]], StudentSimEval, casts public learner corpora (chess, second-language English writing, mathematics) into a standardized per-student protocol, then fits and scores any simulator on the same held-out records.
 
 ### Two-stage pooled-then-specialized pipeline
 
@@ -20,7 +20,7 @@ Rather than relying on a single model, StudentSim trains a shared pool of behavi
 
 The resulting reference family of 60 individualized simulators is strong on both axes across all three domains, outperforming:
 1. **domain-specific state-tracking** models, which fit behavior well but are weak on guidance responsiveness (R)
-2. **Prompt-only [[llm]] role-play**, which follows a persona but is weak on behavioral fidelity (F)
+2. **Prompt-only [[llm|LLM]] role-play**, which follows a persona but is weak on behavioral fidelity (F)
 
 ### Proof of concept: simulators as tutor reward
 

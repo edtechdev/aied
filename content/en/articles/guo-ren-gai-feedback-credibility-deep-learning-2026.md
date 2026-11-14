@@ -26,7 +26,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Guo and Ren (2026) asked whether students' judgment that [[generative-ai|generative AI]] [[feedback]] is credible reaches deeper learning through cognitive engagement. The design is a cross-sectional survey: 506 undergraduates at 10 universities in Jinan, China, completed self-report scales once, and a structural equation model was fitted to that single wave. Credibility predicted engagement at β = 0.428, engagement predicted deep learning at β = 0.394, and a direct path of β = 0.356 remained, with an indirect effect of β = 0.168 (95% CI [0.115, 0.232]) that was 32.1% of a total effect of β = 0.524. The authors concede that the structural model was saturated and that its fit indices do not support the proposed ordering, and both mediator and outcome are self-reports. The study establishes a pattern of association at one moment, not a mechanism or change.
+> **Synthesis:** Guo and Ren (2026) asked whether students' judgment that [[generative-ai|generative AI]] [[feedback|feedback]] is credible reaches deeper learning through cognitive engagement. The design is a cross-sectional survey: 506 undergraduates at 10 universities in Jinan, China, completed self-report scales once, and a structural equation model was fitted to that single wave. Credibility predicted engagement at β = 0.428, engagement predicted deep learning at β = 0.394, and a direct path of β = 0.356 remained, with an indirect effect of β = 0.168 (95% CI [0.115, 0.232]) that was 32.1% of a total effect of β = 0.524. The authors concede that the structural model was saturated and that its fit indices do not support the proposed ordering, and both mediator and outcome are self-reports. The study establishes a pattern of association at one moment, not a mechanism or change.
 
 ## Key Findings
 
@@ -44,7 +44,7 @@ The design is one administration of three new scales to a quota-stratified sampl
 
 ## Credibility is a judgment about a source, not a verdict on accuracy
 
-The paper is careful about what its central construct is not. Credibility is students' evaluation of whether a specific piece of GAI feedback is accurate, relevant, reasonable, dependable, convincing, and confidence-inspiring; [[trust]] is willingness to rely on the system as a whole. Neither means being right, and no external standard was used, so calibrated judgment cannot be told apart from confident misjudgment.
+The paper is careful about what its central construct is not. Credibility is students' evaluation of whether a specific piece of GAI feedback is accurate, relevant, reasonable, dependable, convincing, and confidence-inspiring; [[trust|trust]] is willingness to rely on the system as a whole. Neither means being right, and no external standard was used, so calibrated judgment cannot be told apart from confident misjudgment.
 
 The direction of the engagement path is also less settled than the coefficient suggests. The authors raise [[cognitive-offloading|cognitive offloading]] as the competing prediction: a source judged credible can serve as a cue to accept rather than an invitation to elaborate. Their elaboration likelihood framing allows both readings, since high credibility can motivate scrutiny or license peripheral acceptance. One cross-sectional association cannot adjudicate between those two lives of the same number.
 

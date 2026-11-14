@@ -22,7 +22,7 @@ methods: [ai-ed-evaluation]
 
 ## Summary
 
-[[agentic-ai|Agentic AI]] — systems that *write, run, and revise* simulation code from natural-language specs — is the latest step in a centuries-long migration of mechanical work from human to tool. Engelhardt argues that **what a learner must know is tool-invariant**: across tools (fingers → pencil → calculator → Python → agent), the requirements are stable; only their *content* and *weight* shift. The paper organizes these into **five pillars**, argues that **sensemaking/verification is now the load-bearing skill** (because AI-generated artifacts are *bespoke* and *unvalidated*, unlike socially-validated libraries), and draws the [[assessment]] consequence: **when artifacts can be generated on demand, the artifact no longer certifies the student.** The proposed response: **AI-free in-class coding quizzes** (measure white-box residue) + **[[authentic-assessment|oral defenses]] of comment-stripped, AI-assisted work** (measure orchestration), with a *verification gate* that must pass regardless of total score.
+[[agentic-ai|Agentic AI]] — systems that *write, run, and revise* simulation code from natural-language specs — is the latest step in a centuries-long migration of mechanical work from human to tool. Engelhardt argues that **what a learner must know is tool-invariant**: across tools (fingers → pencil → calculator → Python → agent), the requirements are stable; only their *content* and *weight* shift. The paper organizes these into **five pillars**, argues that **sensemaking/verification is now the load-bearing skill** (because AI-generated artifacts are *bespoke* and *unvalidated*, unlike socially-validated libraries), and draws the [[assessment|assessment]] consequence: **when artifacts can be generated on demand, the artifact no longer certifies the student.** The proposed response: **AI-free in-class coding quizzes** (measure white-box residue) + **[[authentic-assessment|oral defenses]] of comment-stripped, AI-assisted work** (measure orchestration), with a *verification gate* that must pass regardless of total score.
 
 ## Key Findings
 
@@ -47,11 +47,11 @@ The pillars organize into a workflow: **Specify → Predict → Delegate → Ver
 
 Opacity was never the problem — *validation* is. A library routine (FFT, linear algebra) is opaque but **socially validated** (published algorithms, decades of testing, millions of users). An AI-generated simulation is opaque **and bespoke**: a population-of-one artifact from a stochastic process whose competence frontier is "jagged and invisible," whose failures arrive *disguised as successes* (running code, smooth plots, confident prose). The verification burden that ecosystems amortized across a community now lands on **each student, for each artifact, every time.**
 
-**Principle of validation authority:** *delegation is safe exactly where the delegator retains the ability to validate the outputs.* A computational-physics course now exists to train validation authority. Corollary: "anyone can build software with AI" holds only where correctness is *observable in use* (dashboards, apps); a physics simulation's correctness must be *established* by disciplinary checks. This reframes [[ai-literacy]] for science as the trained capacity to specify checks and judge evidence — a form of [[metacognition]] made concrete.
+**Principle of validation authority:** *delegation is safe exactly where the delegator retains the ability to validate the outputs.* A computational-physics course now exists to train validation authority. Corollary: "anyone can build software with AI" holds only where correctness is *observable in use* (dashboards, apps); a physics simulation's correctness must be *established* by disciplinary checks. This reframes [[ai-literacy|AI literacy]] for science as the trained capacity to specify checks and judge evidence — a form of [[metacognition|metacognition]] made concrete.
 
 ## What must remain human (non-delegables)
 
-Posing the problem · choosing & owning the physical model/assumptions · the pre-execution prediction · specifying the checks · final epistemic responsibility ("the AI said so" is never a justification). Items 1, 2, 5 are constitutive of doing science, not claims about current AI capability, and do not weaken as models improve. These map directly onto [[assessment-validity]] concerns: the inference from artifact to student collapses precisely where these human elements are delegated.
+Posing the problem · choosing & owning the physical model/assumptions · the pre-execution prediction · specifying the checks · final epistemic responsibility ("the AI said so" is never a justification). Items 1, 2, 5 are constitutive of doing science, not claims about current AI capability, and do not weaken as models improve. These map directly onto [[assessment-validity|assessment validity]] concerns: the inference from artifact to student collapses precisely where these human elements are delegated.
 
 ## Assessment design (the constructive response)
 
@@ -63,10 +63,10 @@ Posing the problem · choosing & owning the physical model/assumptions · the pr
 
 ## Teaching practices
 
-- **White-box, then black-box** (Buchberger): study a method transparently (hand-code the 15-line Euler integrator, watch it fail at large dt) *before* delegating. Dissolves the "must code vs. need not code" debate — both true at different rungs, tied to [[scaffolding]] theory.
+- **White-box, then black-box** (Buchberger): study a method transparently (hand-code the 15-line Euler integrator, watch it fail at large dt) *before* delegating. Dissolves the "must code vs. need not code" debate — both true at different rungs, tied to [[scaffolding|scaffolding]] theory.
 - **Error injection:** give students subtly-wrong agent output (sign error, dt too large, wrong potential); grade the *diagnosis*. Trains reading code one didn't write — a core response to [[ai-misuse-learning-harm|over-reliance]].
-- **Motivation over prohibition:** a [[guardrails|guardrailed tutor]] helped engaged students but was useless to answer-seekers ("an unguardrailed model is two browser tabs away"). Framing: homework is the gym, not the job; AI is a forklift at the gym. Design for [[motivation]], not bans — echoing [[self-regulated-learning]] and [[help-seeking]] theory.
-- Term "**comprehension debt**" (gap between code a system contains and code its maintainers understand) imported from software engineering as a risk of AI-assisted production, connecting to [[cognitive-offloading]].
+- **Motivation over prohibition:** a [[guardrails|guardrailed tutor]] helped engaged students but was useless to answer-seekers ("an unguardrailed model is two browser tabs away"). Framing: homework is the gym, not the job; AI is a forklift at the gym. Design for [[motivation|motivation]], not bans — echoing [[self-regulated-learning|self-regulated learning]] and [[help-seeking|help-seeking]] theory.
+- Term "**comprehension debt**" (gap between code a system contains and code its maintainers understand) imported from software engineering as a risk of AI-assisted production, connecting to [[cognitive-offloading|cognitive offloading]].
 
 ## What this means for practice
 

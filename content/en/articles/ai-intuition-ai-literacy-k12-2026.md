@@ -14,7 +14,7 @@ page_kind: [framework]
 sources: ['raw/papers/ai-intuition-ai-literacy-k12-2026.md']
 ---
 
-> **Synthesis:** This position paper (Beau & Lazar, EdArXiv 2026) argues that existing [[ai-literacy]] frameworks — with their emphasis on conceptual understanding, practical application, critical evaluation, and ethical judgment — implicitly assume learners approach AI through declarative, rule-based knowledge. Yet in practice, K-12 students (and teachers) encounter [[generative-ai|generative AI]] far more experientially: experimenting with prompts, observing system behavior, and adapting strategies before they can articulate formal principles. To account for this, the paper introduces **AI intuition** — an experiential, inductive, often tacit form of understanding developed through iterative interaction with AI systems that supports context-sensitive judgment under uncertainty — as a complementary construct to AI literacy. It proposes a **dual framework** that situates AI literacy as a structured, largely static set of competencies alongside AI intuition as a dynamic learning process, grounded in classroom implementation at the International School of Boston and oriented toward the 2029 PISA Media and AI Literacy standards.
+> **Synthesis:** This position paper (Beau & Lazar, EdArXiv 2026) argues that existing [[ai-literacy|AI literacy]] frameworks — with their emphasis on conceptual understanding, practical application, [[critical-thinking|critical evaluation]], and ethical judgment — implicitly assume learners approach AI through declarative, rule-based knowledge. Yet in practice, K-12 students (and teachers) encounter [[generative-ai|generative AI]] far more experientially: experimenting with prompts, observing system behavior, and adapting strategies before they can articulate formal principles. To account for this, the paper introduces **AI intuition** — an experiential, inductive, often tacit form of understanding developed through iterative interaction with AI systems that supports context-sensitive judgment under uncertainty — as a complementary construct to AI literacy. It proposes a **dual framework** that situates AI literacy as a structured, largely static set of competencies alongside AI intuition as a dynamic learning process, grounded in classroom implementation at the International School of Boston and oriented toward the 2029 PISA Media and AI Literacy standards.
 
 ## The under-theorized experiential dimension
 
@@ -26,15 +26,15 @@ An exception is the recent work of Flechtner and colleagues, who introduced *AI 
 
 AI literacy and AI intuition are framed not as sequential stages but as **interdependent dimensions** of AI fluency:
 
-- **AI literacy** — structured, reflective, ethical, and conceptual knowledge about AI systems. It provides conceptual clarity, ethical [[guardrails]], and critical frameworks.
-- **AI intuition** — an experiential, inductive, and embodied understanding of how AI behaves in practice, developed through guided exploration, experimentation, and [[reflection]]. It provides the practical wisdom to apply knowledge in dynamic, uncertain contexts.
+- **AI literacy** — structured, reflective, ethical, and conceptual knowledge about AI systems. It provides conceptual clarity, ethical [[guardrails|guardrails]], and critical frameworks.
+- **AI intuition** — an experiential, inductive, and embodied understanding of how AI behaves in practice, developed through guided exploration, experimentation, and [[reflection|reflection]]. It provides the practical wisdom to apply knowledge in dynamic, uncertain contexts.
 
 The framework maps the two across five complementary learning dimensions:
 
 1. **Understand AI concepts** — AI literacy gives structured knowledge of how AI works (data, algorithms, bias, learning); AI intuition gives a "gut feeling" that AI behavior is context-sensitive and sometimes unpredictable.
 2. **Use AI tools effectively and creatively** — literacy means applying AI responsibly in tasks; intuition means experimenting with prompts, observing patterns, and refining strategies through trial and error.
 3. **Evaluate AI critically** — literacy means verifying accuracy, assessing bias, and considering fairness/reliability; intuition means recognizing limits, errors, and surprises through direct observation — supporting a "trust but verify" stance.
-4. **Apply AI ethically and responsibly** — literacy covers privacy, [[academic-integrity]], and societal impact; intuition means strategically deciding when AI is valuable and when to avoid it.
+4. **Apply AI ethically and responsibly** — literacy covers privacy, [[academic-integrity|academic integrity]], and societal impact; intuition means strategically deciding when AI is valuable and when to avoid it.
 5. **Reflect and strategize** — literacy supports conceptual reflection (big picture); intuition supports practical reflection and the building of "rules of thumb" for daily use.
 
 ## AI intuition as a safeguard against over-reliance
@@ -47,13 +47,13 @@ The paper calls for: longitudinal studies of how cultivating AI intuition affect
 
 ## Contribution to the knowledge base
 
-This paper adds an **experiential/epistemological dimension** to the [[ai-literacy]] literature that most framework work under-specifies. Where the wiki's existing literacy pages catalog competencies, standards, and teacher competencies, Beau & Lazar supply a theory of *how the competency develops* — that learners acquire a working, inductive feel for AI before (and alongside) formal rules, and that instruction should deliberately cultivate both. It connects to [[experiential-learning]], [[constructivist|constructivism]] (learning through direct engagement), and [[critical-thinking]], and it complements [[k-12]] treatments of AI education with a concrete dual-process account of learner appropriation. It is a position paper, so its framework is conceptual awaiting empirical validation, but it grounds the claim in classroom implementation and gives AI-education research a usable construct ("AI intuition") for studying experiential learning with AI.
+This paper adds an **experiential/epistemological dimension** to the [[ai-literacy|AI literacy]] literature that most framework work under-specifies. Where the wiki's existing literacy pages catalog competencies, standards, and teacher competencies, Beau & Lazar supply a theory of *how the competency develops* — that learners acquire a working, inductive feel for AI before (and alongside) formal rules, and that instruction should deliberately cultivate both. It connects to [[experiential-learning|experiential learning]], [[constructivist|constructivism]] (learning through direct engagement), and [[critical-thinking|critical thinking]], and it complements [[k-12]] treatments of AI education with a concrete dual-process account of learner appropriation. It is a position paper, so its framework is conceptual awaiting empirical validation, but it grounds the claim in classroom implementation and gives AI-education research a usable construct ("AI intuition") for studying experiential learning with AI.
 
 ## What this means for practice
 
 - **Instructors.** Run every AI-literacy lesson through the paper's four-step cycle — exploration, observation, reflection, adaptation — so students build a working feel for model behavior instead of memorizing rules about it.
-- **Instructors.** Assign phenomenological mapping: have students stress-test prompts to locate where a model fails, then articulate the pattern they found, which turns hands-on failure into explicit [[critical-thinking]] about [[hallucination-risk]].
-- **Curriculum designers.** Teach the five dual-framework dimensions in pairs, so declarative [[ai-literacy]] content (data, bias, ethics) always arrives with an [[experiential-learning]] task that lets students induce the same principle from direct interaction.
+- **Instructors.** Assign phenomenological mapping: have students stress-test prompts to locate where a model fails, then articulate the pattern they found, which turns hands-on failure into explicit [[critical-thinking|critical thinking]] about [[hallucination-risk|hallucination risk]].
+- **Curriculum designers.** Teach the five dual-framework dimensions in pairs, so declarative [[ai-literacy|AI literacy]] content (data, bias, ethics) always arrives with an [[experiential-learning|experiential learning]] task that lets students induce the same principle from direct interaction.
 - **Researchers.** Build assessment for AI intuition itself; the paper reports no evidence-based instruments or instructional strategies for the intuitive dimension, only that they are needed.
 
 ## Limitations
@@ -61,7 +61,7 @@ This paper adds an **experiential/epistemological dimension** to the [[ai-litera
 - The paper is a position paper: it reports no empirical study, no sample, and no measured student outcomes, so the dual framework's claims about AI intuition remain conceptual.
 - The classroom grounding is an implementation at one school (the International School of Boston), offered as context for the framework rather than as study data with participants and measures.
 - The framework's stated validation target, the PISA 2029 Media and Artificial Intelligence Literacy assessment, has not yet been administered, so alignment with it cannot be checked.
-- The authors themselves call for longitudinal impact studies and classroom-based research, conceding that evidence linking cultivated AI intuition to improved [[critical-thinking]] does not yet exist.
+- The authors themselves call for longitudinal impact studies and classroom-based research, conceding that evidence linking cultivated AI intuition to improved [[critical-thinking|critical thinking]] does not yet exist.
 
 ## Citation
 

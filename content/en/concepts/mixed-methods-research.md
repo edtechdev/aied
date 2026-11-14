@@ -1,7 +1,7 @@
 ---
 title: Mixed-Methods Research
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 research_method: [survey]
 confidence: high
@@ -9,7 +9,7 @@ methods: [mixed-methods-research, qualitative-research, quantitative-research, r
 reviewed_by: [editor]
 ---
 
-> **Mixed-methods research** — the design and practice of intentionally combining [[quantitative-research|quantitative]] and [[qualitative-research|qualitative]] strands within a single study so that their strengths complement and their weaknesses offset each other. In [[ai-education|AI in education]], mixed-methods designs are widely used because AI effects are simultaneously measurable ([[learning-gains|learning gains]], [[student-engagement|engagement]]) and meaning-laden (trust, [[agency]], identity) — and neither a survey nor an interview alone captures both.
+> **Mixed-methods research** — the design and practice of intentionally combining [[quantitative-research|quantitative]] and [[qualitative-research|qualitative]] strands within a single study so that their strengths complement and their weaknesses offset each other. In [[ai-education|AI in education]], mixed-methods designs are widely used because AI effects are simultaneously measurable ([[learning-gains|learning gains]], [[student-engagement|engagement]]) and meaning-laden (trust, [[agency|agency]], identity) — and neither a survey nor an interview alone captures both.
 
 ## Questions to Consider
 
@@ -35,8 +35,8 @@ Of 394 [[generative-ai|GenAI]] higher-education studies, 213 (54%) used mixed me
 
 ## How mixed methods appear in the research
 
-- **Explaining mechanisms.** [[same-ai-different-pathways]] combines strands to unpack the mechanisms of AI-mediated learning across discipline-institution contexts, where quantitative differences alone would be opaque.
-- **Complementing outcome data with experience.** [[hazra-safetutors-pedagogical-safety-2026|AI tutor safety]] pairs quantitative harm indicators with qualitative accounts of [[pedagogy|pedagogical]] harm; [[t2i-competence-paradox-2026]] pairs quantitative survey results with qualitative negotiation-of-identity accounts.
+- **Explaining mechanisms.** [[same-ai-different-pathways|Shen (2026)]] combines strands to unpack the mechanisms of AI-mediated learning across discipline-institution contexts, where quantitative differences alone would be opaque.
+- **Complementing outcome data with experience.** [[hazra-safetutors-pedagogical-safety-2026|AI tutor safety]] pairs quantitative harm indicators with qualitative accounts of [[pedagogy|pedagogical]] harm; [[t2i-competence-paradox-2026|Liu et al., 2026]] pairs quantitative survey results with qualitative negotiation-of-identity accounts.
 - **Integration without pooling.** [[wang-reflective-ai-use-engagement-programming-2026|Wang and Zhao (2026)]] coordinate a survey (N = 131), human coding of 66 Critical Engagement texts, and programming logs (N = 1,423) that come from different samples and are never merged, assigning the AI-free trace branch a boundary-test role rather than a confirmatory one — each strand is given a distinct inferential job instead of being reported side by side.
 - **Design and evaluation.** [[genai-feedback-design-multisite-experiment|A multisite experiment on GenAI feedback design]] combines experimental outcome measurement with qualitative feedback from learners, integrating quantitative effect estimation with design guidance.
 - **Process evidence inside a large trial.** [[mata-sustaining-ai-enabled-student-support-2026|Mata et al. (2026)]] pair system observation and discussions with administrators against a four-year randomized evaluation of 8,708 students across eight semesters, powered to detect effects of 0.05 standard deviations, so the same study explains the organizational conditions that sustained a [[conversational-ai|chatbot]] program and reports tightly bounded nulls on GPA and persistence.
@@ -52,12 +52,12 @@ Of 394 [[generative-ai|GenAI]] higher-education studies, 213 (54%) used mixed me
 
 ## Relationship to the broader methods landscape
 
-Mixed-methods sits between the [[quantitative-research|quantitative]] and [[qualitative-research|qualitative]] traditions, drawing on the strengths of each while adding the design discipline of intentional integration. It is a methodological response to the recognition that AI-in-education phenomena are both effectful and meaning-laden — and that the field advances fastest when breadth and depth are combined (see [[research-methods-aied]]). It connects to [[educational-measurement]] (quantitative instruments), [[theory-development-aied]] (qualitative theory-building), and [[ai-ed-evaluation]] (integrating outcome and experience evidence).
+Mixed-methods sits between the [[quantitative-research|quantitative]] and [[qualitative-research|qualitative]] traditions, drawing on the strengths of each while adding the design discipline of intentional integration. It is a methodological response to the recognition that AI-in-education phenomena are both effectful and meaning-laden — and that the field advances fastest when breadth and depth are combined (see [[research-methods-aied|research methods]]). It connects to [[educational-measurement|educational measurement]] (quantitative instruments), [[theory-development-aied|theory development]] (qualitative theory-building), and [[ai-ed-evaluation|AI ed evaluation]] (integrating outcome and experience evidence).
 
 ## Common Misconceptions
 
 - **"Mixed methods is a niche choice in AI education research."** Across **394 GenAI higher-education studies**, mixed methods was the **most common research design (213 studies, 54%)**, followed by quantitative (109, 28%) and qualitative (72, 18%). The field's dominant design is not the one its methodological debates assume.
-- **"Observational and interview evidence can carry a system claim."** Pairing system observation and [[administrator]] discussions against a **four-year randomized evaluation of 8,708 students across eight semesters**, powered to detect effects of **0.05 standard deviation**, shows what the qualitative strand cannot do alone: detect a small effect reliably. Mixing methods is not a way to transfer power between strands.
+- **"Observational and interview evidence can carry a system claim."** Pairing system observation and [[administrator|administrator]] discussions against a **four-year randomized evaluation of 8,708 students across eight semesters**, powered to detect effects of **0.05 standard deviation**, shows what the qualitative strand cannot do alone: detect a small effect reliably. Mixing methods is not a way to transfer power between strands.
 - **"Triangulation means two weak methods make a strong claim."** The value of the pairing is that each strand answers a different question. A design that runs both and then reports the qualitative finding as confirmation of the quantitative one has not triangulated, it has restated.
 - **Convergence can be an admission rule, not a narrative.** [[liu-auditable-assessment-preservice-2026|Liu (2026)]] counted a redesign priority only when it appeared in at least two of five independent sources and in one enactment-facing source, so perception alone could not promote it.
 

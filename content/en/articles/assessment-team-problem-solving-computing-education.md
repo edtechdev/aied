@@ -13,9 +13,9 @@ sources: ['raw/papers/2607.19209.md']
 confidence: high
 ---
 
-> **Synthesis:** Tabletop exercises (TTXs) let learner teams rehearse high-stakes workplace tasks such as cybersecurity incident response, but their open-ended, collaborative nature makes [[formative-assessment]] difficult: teams often receive delayed or incomplete feedback. This full [[research-methods-aied|research]]-to-practice paper compares assessment methods that exploit the action and communication logs captured by TTX platforms to evaluate how well teams meet learning objectives.
+> **Synthesis:** Tabletop exercises (TTXs) let learner teams rehearse high-stakes workplace tasks such as cybersecurity incident response, but their open-ended, collaborative nature makes [[formative-assessment|formative assessment]] difficult: teams often receive delayed or incomplete [[feedback|feedback]]. This full [[research-methods-aied|research]]-to-practice paper compares assessment methods that exploit the action and communication logs captured by TTX platforms to evaluate how well teams meet learning objectives.
 
-The work situates team [[problem-solving]] assessment within [[cs-education]] and broader [[stem-education]] contexts, showing how logged interaction data can drive faster, richer [[feedback|Feedback Loop]]s than manual grading. By operationalizing teamwork behaviors as measurable signals, it connects to [[learning-analytics]] and the [[student-experience]] of collaborative crisis-response training, with implications for [[higher-ed]] computing courses where TTXs are increasingly used but rubric reliability remains a barrier.
+The work situates team [[problem-solving|problem-solving]] assessment within [[cs-education|CS education]] and broader [[stem-education|STEM education]] contexts, showing how logged interaction data can drive faster, richer [[feedback|Feedback Loop]]s than manual grading. By operationalizing teamwork behaviors as measurable signals, it connects to [[learning-analytics|learning analytics]] and the [[student-experience|student experience]] of collaborative crisis-response training, with implications for [[higher-ed|higher education]] computing courses where TTXs are increasingly used but rubric reliability remains a barrier.
 
 ## What this means for practice
 
@@ -23,7 +23,7 @@ The work situates team [[problem-solving]] assessment within [[cs-education]] an
 - **Learners.** Ask for cluster-level feedback, which lets instructors give one round of assessment-based advice to several comparable teams; the analytics ran in under 2 minutes on a standard laptop.
 - **Learners.** Check how your written incident-response communication was scored against the shared rubric, which human assessors applied as a three-dimensional score vector (2 = satisfied, 1 = partially satisfied, 0 = not satisfied).
 - **Learners.** Expect process to be judged, not one right answer: both exercises (EXF and PHI) are open-ended collaborative tasks, and the assessment methods target how a team deviates from effective practice.
-- **Learners.** Ask for [[human-in-the-loop-ai|human review]] of any [[llm]]-based assessment of your work: the authors recommend instructor oversight of automated decisions for accountability and fairness, and the local clustering keeps your data from being shared with an external service.
+- **Learners.** Ask for [[human-in-the-loop-ai|human review]] of any [[llm|LLM]]-based assessment of your work: the authors recommend instructor oversight of automated decisions for accountability and fairness, and the local clustering keeps your data from being shared with an external service.
 
 ## Limitations
 

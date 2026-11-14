@@ -56,8 +56,8 @@ Use was measured with a single frequency item, and Habit dominated it (β = 0.57
 
 - **Instructors.** Build repeated, low-stakes ChatGPT use into routine course tasks rather than relying on novelty, since Habit carried the largest coefficient on reported use (β = 0.576).
 - **Instructors.** Do not treat ease of use as the lever. Effort Expectancy was negative in the full model, so time is better spent showing how the tool fits assignment work than on tool tutorials.
-- **Administrators.** Treat Facilitating Conditions as infrastructure and policy: the largest intention coefficient (β = 0.429) came from resources, knowledge and compatibility, and the authors note there was no clear institutional AI use policy when data were collected, which points to [[educational-policy-ai]] work.
-- **Administrators.** Fund connectivity, devices and licenses with a [[digital-divide]] lens, since 90% of respondents were from historically disadvantaged groups.
+- **Administrators.** Treat Facilitating Conditions as infrastructure and policy: the largest intention coefficient (β = 0.429) came from resources, knowledge and compatibility, and the authors note there was no clear institutional AI use policy when data were collected, which points to [[educational-policy-ai|educational AI policy]] work.
+- **Administrators.** Fund connectivity, devices and licenses with a [[digital-divide|digital divide]] lens, since 90% of respondents were from historically disadvantaged groups.
 
 ## Limitations
 

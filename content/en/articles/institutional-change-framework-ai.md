@@ -15,7 +15,7 @@ page_kind: [framework]
 institutions: [change-management]
 ---
 
-> **Synthesis:** Perl-Nussbaum & Finkelstein (2026) propose a **six-dimension framework** for adapting institutional change models in STEM higher education to the realities of [[generative-ai|generative AI]]. Unlike prior reforms based on **adoption [[ai-technologies|technologies]]** (stable, evidence-based practices like Peer Instruction or PhET [[simulation|simulations]]), generative AI is an **arrival technology** — it entered classrooms before [[pedagogy|pedagogical]] evidence could form. The framework identifies where existing change models break down and derives actionable design implications for leading change under genuine uncertainty.
+> **Synthesis:** Perl-Nussbaum & Finkelstein (2026) propose a **six-dimension framework** for adapting [[change-management|institutional change]] models in STEM higher education to the realities of [[generative-ai|generative AI]]. Unlike prior reforms based on **adoption [[ai-technologies|technologies]]** (stable, evidence-based practices like Peer Instruction or PhET [[simulation|simulations]]), generative AI is an **arrival technology** — it entered classrooms before [[pedagogy|pedagogical]] evidence could form. The framework identifies where existing change models break down and derives actionable design implications for leading change under genuine uncertainty.
 > Central insight: "Institutions cannot wait for best practices, but cannot responsibly scale unjustified innovations. Neither banning nor uncritical embrace is tenable."
 
 ## Six Dimensions of Reconsideration
@@ -30,25 +30,25 @@ institutions: [change-management]
 
 ### People Dimensions
 
-**4. Faculty:** Prior models positioned faculty as adopters of proven practices; in the AI era, faculty must become **inquiry-driven experimenters** navigating genuine uncertainty. This connects to the [[educational-development]] finding that faculty are "pragmatic realists" navigating competing priorities with scarce resources.
+**4. Faculty:** Prior models positioned faculty as adopters of proven practices; in the AI era, faculty must become **inquiry-driven experimenters** navigating genuine uncertainty. This connects to the [[educational-development|educational development]] finding that faculty are "pragmatic realists" navigating competing priorities with scarce resources.
 
-**5. Change Agents:** Prior models cast change agents as disseminators of best practices; when best practices don't exist, they must become **facilitators of collective inquiry**. This reframes Centers for Teaching and Learning from trainers to community organizers — a transformation anticipated by [[universities-ai-era-rethinking]].
+**5. Change Agents:** Prior models cast change agents as disseminators of best practices; when best practices don't exist, they must become **facilitators of collective inquiry**. This reframes Centers for Teaching and Learning from trainers to community organizers — a transformation anticipated by [[universities-ai-era-rethinking|Binkowski et al. (2026)]].
 
-**6. Students:** Prior models treated students as recipients; in the AI era, students are often **ahead of faculty** in AI use and must be engaged as **partners in reform**. This aligns with broader calls in [[student-experience]] and [[ai-literacy]] for [[agency|student agency]] in AI-era education.
+**6. Students:** Prior models treated students as recipients; in the AI era, students are often **ahead of faculty** in AI use and must be engaged as **partners in reform**. This aligns with broader calls in [[student-experience|student experience]] and [[ai-literacy|AI literacy]] for [[agency|student agency]] in AI-era education.
 
 ## Application: Physics Department Workshop Series
 
-The framework was piloted through a faculty workshop series in a university [[physics-education|physics]] department. Rather than prescribing AI tools, workshops facilitated collective inquiry around pedagogical goals, engaged participants as co-investigators, and organized around teaching approaches rather than specific technologies. This connects to the departmental-level work described in [[stem-education]] and the workshop-based models in [[educational-development]].
+The framework was piloted through a faculty workshop series in a university [[physics-education|physics]] department. Rather than prescribing AI tools, workshops facilitated collective inquiry around pedagogical goals, engaged participants as co-investigators, and organized around teaching approaches rather than specific technologies. This connects to the departmental-level work described in [[stem-education|STEM education]] and the workshop-based models in [[educational-development|educational development]].
 
 ## Connections to Knowledge Base
 
-- Extends [[universities-ai-era-rethinking]] by providing a concrete framework for institutional adaptation, not just rethinking
-- Complements [[educational-development]] by adding the change-agent and student-partner dimensions missing from playbook-centered approaches
-- Connects to [[finkelstein-principled-ai-education-2025]] — the framework operationalizes Finkelstein's goals-models-technologies lens at the institutional level
-- Relates to [[higher-ed]] and [[teacher-role]] — redefining instructor and institutional roles in AI-era education
-- Aligns with [[ai-literacy]] calls for faculty AI literacy as a prerequisite for meaningful institutional change
-- Contrasts with [[scaffolding]] and [[pedagogy-ai-mistakes]] — while those address classroom-level AI integration, this framework addresses the institutional conditions needed for such integration to succeed
-- Shares the systemic perspective of [[change-management]] — institutional capacity is a bottleneck for [[ai-education|AI in education]] globally
+- Extends [[universities-ai-era-rethinking|Binkowski et al. (2026)]] by providing a concrete framework for institutional adaptation, not just rethinking
+- Complements [[educational-development|educational development]] by adding the change-agent and student-partner dimensions missing from playbook-centered approaches
+- Connects to [[finkelstein-principled-ai-education-2025|Finkelstein (2025)]] — the framework operationalizes Finkelstein's goals-models-technologies lens at the institutional level
+- Relates to [[higher-ed|higher education]] and [[teacher-role|teacher role]] — redefining instructor and institutional roles in AI-era education
+- Aligns with [[ai-literacy|AI literacy]] calls for faculty AI literacy as a prerequisite for meaningful institutional change
+- Contrasts with [[scaffolding|scaffolding]] and [[pedagogy-ai-mistakes|Hosseini (2026)]] — while those address classroom-level AI integration, this framework addresses the institutional conditions needed for such integration to succeed
+- Shares the systemic perspective of [[change-management|change management]] — institutional capacity is a bottleneck for [[ai-education|AI in education]] globally
 
 ## Open Questions
 

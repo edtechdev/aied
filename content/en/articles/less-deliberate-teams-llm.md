@@ -13,7 +13,7 @@ confidence: high
 discipline: [cs education]
 ---
 
-> **Synthesis:** Semester-long study of 96 CS students shows [[llm]] usage dropped 42.7 percentage points when students moved from individual to team work; team context reduces deliberate LLM [[student-engagement|engagement]].
+> **Synthesis:** Semester-long study of 96 CS students shows [[llm|LLM]] usage dropped 42.7 percentage points when students moved from individual to team work; team context reduces deliberate LLM [[student-engagement|engagement]].
 
 ## Key Contributions
 
@@ -21,7 +21,7 @@ discipline: [cs education]
 
 ## Connections to AI in Education
 
-This paper contributes to the growing body of [[research-methods-aied|research]] on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate [[pedagogy|pedagogical]] oversight.
+This paper contributes to the growing body of [[research-methods-aied|research]] on AI applications in educational settings, specifically in the domains of [[ai-education|AI education]], [[intelligent-tutoring|intelligent tutoring]], and [[equity-in-ai-education|equity]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate [[pedagogy|pedagogical]] oversight.
 
 ## What this means for practice
 

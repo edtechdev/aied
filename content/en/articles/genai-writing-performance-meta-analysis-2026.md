@@ -42,7 +42,7 @@ A January 1, 2026 search across Scopus and Web of Science returned 4,760 records
 Risk-of-bias appraisal used ROBINS-I for 30 studies and RoB 2 for one: 21 rated high risk, 10 "some concerns," none low risk. Only 11 of the 31 studies entered the pooled model, each contributing one principal between-group post-test writing effect to preserve statistical independence and construct equivalence; of those, 8 were high risk, 3 unrated.
 
 ## A large average effect built on wide dispersion
-A pooled [[feedback]] effect of g = 0.80 sits well above zero, but I² = 92.21% means almost all variability is between studies, not within them. The 95% prediction interval (−0.59 to 2.19) is the practical translation: a new implementation could plausibly yield a near-zero or negative effect. Every robustness variant — RVE, in-press-excluded, high-risk-of-bias — stayed positive but smaller: the direction is robust, the magnitude fragile.
+A pooled [[feedback|feedback]] effect of g = 0.80 sits well above zero, but I² = 92.21% means almost all variability is between studies, not within them. The 95% prediction interval (−0.59 to 2.19) is the practical translation: a new implementation could plausibly yield a near-zero or negative effect. Every robustness variant — RVE, in-press-excluded, high-risk-of-bias — stayed positive but smaller: the direction is robust, the magnitude fragile.
 
 ## Moderators: methodological quality outruns pedagogy
 The robust meta-regression (HC3 standard errors) found only risk-of-bias classification significant (β = 0.93, 95% CI [0.19, 1.68], p = 0.014), explaining roughly 50% of between-study variance (Pseudo R² = 0.50). Instructional model, country grouping, ChatGPT focus, duration, and sample size were all non-significant.
@@ -55,7 +55,7 @@ The primary literature shows [[generative-ai|GenAI]] is consistently stronger on
 Education level, the moderator the study most wanted to test, could not be tested: all 11 pooled studies sat in [[higher-ed|higher education]], with no primary or secondary settings — a hypothesis-generating gap multi-site, proficiency-stratified trials could fill.
 
 ## What this means for practice
-- **Instructors.** Treat AI writing support as a designed instructional component, not a standalone treatment: embed it in structured revision cycles, guided [[reflection]], and clear genre expectations; tool access alone does not guarantee gains.
+- **Instructors.** Treat AI writing support as a designed instructional component, not a standalone treatment: embed it in structured revision cycles, guided [[reflection|reflection]], and clear genre expectations; tool access alone does not guarantee gains.
 - **Instructional designers.** Favor guided and [[human-in-the-loop-ai|hybrid]] configurations pairing AI suggestions with [[teacher-role|teacher]] feedback for higher-order outcomes (coherence, argumentation); AI-dominant delivery was weaker.
 - **Administrators and research leaders.** Expect headline effects to shrink under stronger designs, risk-of-bias status being the strongest moderator. Fund longer (over 12 weeks), proficiency-stratified, multi-site trials testing durability, not just immediate facilitation.
 - **Researchers.** Improve transparency on duration, teacher involvement, feedback protocols, assessment criteria, and learner characteristics, and pair outcome measures with process-level ones (revision behavior, uptake, [[metacognition|metacognitive monitoring]]) to explain heterogeneity current moderators leave unmodeled.

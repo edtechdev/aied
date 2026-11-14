@@ -14,11 +14,11 @@ audience: [instructional designers, instructors]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** This Discobot project study (2026) examines how robot appearance and task type jointly influence trust in socially assistive robots (SARs) in educational and information-sharing contexts. Using a within-subjects [[video-education|video-based]] experiment (N = 81), participants evaluated three robots with distinct appearances while performing three educationally relevant tasks: [[teacher-role|teaching]], procedural instruction, and personal-information discussion. Repeated-measures analyses showed a strong main effect of task on trust, with participants reporting the highest trust during instructional tasks — indicating that what a robot does matters more than what it looks like.
+> **Synthesis:** This Discobot project study (2026) examines how robot appearance and task type jointly influence [[trust|trust]] in socially assistive robots (SARs) in educational and information-sharing contexts. Using a within-subjects [[video-education|video-based]] experiment (N = 81), participants evaluated three robots with distinct appearances while performing three educationally relevant tasks: [[teacher-role|teaching]], procedural instruction, and personal-information discussion. Repeated-measures analyses showed a strong main effect of task on trust, with participants reporting the highest trust during instructional tasks — indicating that what a robot does matters more than what it looks like.
 
 ## Key Findings
 
-- Socially assistive robots (SARs) are increasingly deployed in educational and information-sharing contexts, supported by [[llm]] advances enabling fluent real-time interaction.
+- Socially assistive robots (SARs) are increasingly deployed in educational and information-sharing contexts, supported by [[llm|LLM]] advances enabling fluent real-time interaction.
 - Despite the growing diversity of robot embodiments, it remained unclear whether a **single robot appearance is appropriate across different interaction tasks** or whether **trust depends primarily on contextual factors**.
 - A **within-subjects video-based experiment (N = 81)** had participants evaluate three robots with distinct appearances across three tasks: **teaching, procedural instruction, and personal-information discussion**.
 - Repeated-measures analyses showed a **strong main effect of task on trust**, with the **highest trust during instructional tasks** — task context shapes trust in educational HRI more than appearance.

@@ -61,7 +61,7 @@ The SHAP analysis is limited to the seven eligible predictors, so it describes h
 
 - **Faculty developers.** Treat a self-report competence profile as a planning signal for targeted [[professional-training|training]], not as certification: the classes are relative positions inside one sample, and their cutoffs were never preserved.
 - **Administrators.** Look at institution-level conditions before individual deficits. Institutional affiliation carried the largest global SHAP contribution and separated distributions in all four domains (Cramér's V 0.301–0.676), so audit access, workload, and development opportunities before screening faculty individually.
-- **Instructors.** Do not let a questionnaire score stand in for demonstrated capability. The outcome was 300 Likert items with no performance task, observation, or digital artifact; pair [[self-assessment]] with [[assessment-validity|performance-based evidence]] before it shapes a development plan.
+- **Instructors.** Do not let a questionnaire score stand in for demonstrated capability. The outcome was 300 Likert items with no performance task, observation, or digital artifact; pair [[self-assessment|self-assessment]] with [[assessment-validity|performance-based evidence]] before it shapes a development plan.
 - **Institutional researchers.** Archive the analysis, not just the result: percentile cutoffs, fold assignments, class probabilities, fitted preprocessing objects, and seeds. This team lost the cutoffs and probability outputs, costing them AUC, calibration, and any sensitivity analysis.
 - **Assessment designers.** Audit length before reliability. A 300-item instrument yielding α = 0.997 invites redundancy; a shorter form with established dimensionality would cost respondents far less.
 

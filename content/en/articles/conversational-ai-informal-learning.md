@@ -13,7 +13,7 @@ confidence: medium
 level: [adult learning]
 ---
 
-> **Synthesis:** [[conversational-ai|Conversational AI]] as a catalyst for informal learning: An empirical large-scale study on [[llm]] use in everyday learning
+> **Synthesis:** [[conversational-ai|Conversational AI]] as a catalyst for informal learning: An empirical large-scale study on [[llm|LLM]] use in everyday learning
 
 ## Key Findings
 
@@ -21,7 +21,7 @@ level: [adult learning]
 - Young adults among German-based, digitally engaged users are at the forefront of adopting LLMs, primarily to enhance their learning experiences independently of time and space: LLM learners averaged 31 years versus 35 for non-learners (F = 6.68, p < .01), men were more likely to adopt (53% of LLM learners were male, while 64% of avoiders were female; χ² = 15.5, p < .001), and ChatGPT dominated, with 93% (n = 632) of LLM learners reporting its use.
 - Four types of learners emerge across learning contexts, distinguished by the tasks they perform with LLMs and the devices they use to access them: Structured Knowledge Builders (22.9%), Self-Guided Explorers (26.5%), Analytical Problem Solvers, and Adaptive Power Users, identified via [[latent-profile-analysis|latent class analysis]] with balanced class shares (23.8–25.7%).
 - Respondents exhibit paradoxical trust behaviors: they rely on LLMs while simultaneously distrusting their accuracy and privacy protection measures — 88% (n = 601) perceived improved learning or productivity, yet misinformation was the most commonly cited challenge (68%, n = 460) and the majority (n = 543) reported taking no privacy measures.
-- The study's implications emphasize the importance of including different media types for learning, enabling [[collaborative-learning]], providing sources, and meeting the needs of different types of learners — "learning by design."
+- The study's implications emphasize the importance of including different media types for learning, enabling [[collaborative-learning|collaborative learning]], providing sources, and meeting the needs of different types of learners — "learning by design."
 
 ## Study Design & Method
 
@@ -32,7 +32,7 @@ The study addresses who is embracing LLMs for [[self-directed-learning|self-dire
 - **Learners.** Notice that your LLM learning is already a routine, not a novelty: the median learner spent about 20 minutes per weekday on it, 63.5% had used LLMs for more than six months, 58% (n = 395) said they were extremely likely to keep using them for learning, and 72% would recommend them to friends.
 - **Learners.** Calibrate trust rather than switching it on or off: reported reliance came alongside distrust of accuracy and privacy, so check outputs and check what a tool does with what you tell it.
 - **Designers.** Support that calibration directly with source provision and transparency features, and build for varied task-device combinations instead of one interface for everyone — the four learner types the study identifies argue against a single design.
-- **Designers.** Consider [[multimodal]] and collaborative features for self-regulated, informal use, since so much AI-mediated learning now happens outside formal curricula and the shape of that learning differs from classroom study.
+- **Designers.** Consider [[multimodal|multimodal]] and collaborative features for self-regulated, informal use, since so much AI-mediated learning now happens outside formal curricula and the shape of that learning differs from classroom study.
 
 ## Limitations
 

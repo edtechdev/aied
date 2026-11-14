@@ -13,11 +13,11 @@ level: [k 12, higher ed]
 confidence: high
 sources: ['raw/papers/2505.08083.md']
 ---
-> **Synthesis:** Explores LLMs to support [[k-12]] teachers in designing culturally relevant pedagogy. An exploratory pilot with four K-12 teachers found the CulturAIEd tool enhanced teachers' confidence in identifying opportunities for cultural responsiveness in learning activities and in making culturally responsive modifications to existing activities. Addresses [[equity-in-ai-education|equity]] gaps in AI educational tools by centering culturally relevant content.
+> **Synthesis:** Explores LLMs to support [[k-12]] teachers in designing culturally relevant [[pedagogy|pedagogy]]. An exploratory pilot with four K-12 teachers found the CulturAIEd tool enhanced teachers' confidence in identifying opportunities for cultural responsiveness in learning activities and in making culturally responsive modifications to existing activities. Addresses [[equity-in-ai-education|equity]] gaps in AI educational tools by centering culturally relevant content.
 
 ## Key Findings
 
-- **CulturAIEd** is an [[llm]]-powered system designed to help teachers contextualize **[[ai-literacy|AI literacy]] activities through Culturally Relevant Pedagogy (CRP)** principles, combining student demographic characteristics with rubric-driven guidance in the generative process.
+- **CulturAIEd** is an [[llm|LLM]]-powered system designed to help teachers contextualize **[[ai-literacy|AI literacy]] activities through Culturally Relevant Pedagogy (CRP)** principles, combining student demographic characteristics with rubric-driven guidance in the generative process.
 - Teachers struggle to implement CRP due to **time, training, and resource gaps**; the study asks whether LLMs can lower these barriers (RQ1: influence on teachers' ability to design culturally responsive AI literacy activities; RQ2: perceived strengths and opportunities of such tools).
 - In an **exploratory pilot with four K-12 teachers**, CulturAIEd **enhanced teachers' confidence** in identifying opportunities for cultural responsiveness in learning activities and in making culturally responsive modifications to existing activities.
 - Teachers **valued the streamlined integration of student demographic information and immediate actionable feedback**, which they associated with high implementation efficiency.

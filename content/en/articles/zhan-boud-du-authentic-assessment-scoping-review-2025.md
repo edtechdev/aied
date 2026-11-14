@@ -38,7 +38,7 @@ Generative AI makes traditional workplace-replication AA newly vulnerable: any t
 
 This [[meta-analysis-systematic-review|scoping review]] of 37 empirical AA studies (2000–2024) proposes six design dimensions, moving beyond earlier frameworks (Gulikers et al., 2004; Villarroel et al., 2018):
 
-1. **Authenticity in assessment** — multiple meanings: assessment authenticity ([[eportfolio|portfolios]], projects, concept maps), professional authenticity (workplace scenarios), digital authenticity (Twitter, podcasts, YouTube, LMS), self-authenticity ([[learner-identity|student identity]], [[well-being]]), and social authenticity (citizenship, [[sustainability]], [[ethics]]). Only **3 of 37 studies** addressed social authenticity — a critical gap.
+1. **Authenticity in assessment** — multiple meanings: assessment authenticity ([[eportfolio|portfolios]], projects, concept maps), professional authenticity (workplace scenarios), digital authenticity (Twitter, podcasts, YouTube, LMS), self-authenticity ([[learner-identity|student identity]], [[well-being|well-being]]), and social authenticity (citizenship, [[sustainability|sustainability]], [[ethics|ethics]]). Only **3 of 37 studies** addressed social authenticity — a critical gap.
 2. **Cognitive challenges** — knowledge construction (n=29), professional skills (n=22), and 21st-century skills (n=29, led by [[critical-thinking|critical thinking]] n=17, communication n=13). Digital literacy: only **n=5**.
 3. **Assessment criteria** — rubric use was common (n=22) but most students were **passive recipients** rather than co-authors. Only 3 studies co-designed rubrics with students; only 7 involved students as assessors via self/[[peer-assessment|peer assessment]].
 4. **Feedback** — formative feedback dominated (n=23), [[summative-assessment|summative]] was common (n=12), but **sustainable feedback** (transferable to future contexts) appeared in only 4 studies. This mirrors the field-wide problem that AI tools also replicate: reactive, momentary feedback rather than lifelong [[evaluative-judgment|evaluative judgment]].
@@ -60,8 +60,8 @@ Zhan et al. propose a cyclical design model that AI tools could operationalize:
 
 | Step | Action | AI Enabler | AI Risk |
 |------|--------|------------|---------|
-| 1. Decide goals | Students + educators **co-negotiate** purpose and authenticity | [[llm]]-facilitated dialogue tools | Over-optimizing for what's easy to grade |
-| 2. Create context | Design real-world scenarios | [[rag]]-augmented scenario generation | Hallucinating false domain contexts |
+| 1. Decide goals | Students + educators **co-negotiate** purpose and authenticity | [[llm|LLM]]-facilitated dialogue tools | Over-optimizing for what's easy to grade |
+| 2. Create context | Design real-world scenarios | [[rag|RAG]]-augmented scenario generation | Hallucinating false domain contexts |
 | 3. Design criteria | **Co-design rubrics** with students | Collaborative rubric editors | Imposing opaque algorithmic criteria |
 | 4. Plan feedback | Future-oriented, sustainable feedback | LLM [[personalized-learning|personalization]] based on learner profiles | Surveillance-level behavior tracking |
 
@@ -71,7 +71,7 @@ Zhan et al. propose a cyclical design model that AI tools could operationalize:
 Student agency in AA (choice, self-reflection, co-design) is isomorphic to the [[self-regulated-learning|forethought → performance → self-reflection]] cycle. However, when self-reflection is **graded**, it becomes **performative** — students write to impress assessors rather than to learn. AI journaling tools face the same instrumentalization risk.
 
 ### Metacognitive Calibration
-[[metacognition]] is required for students to evaluate their own work against co-designed rubrics. When AI provides the rubric, generates the feedback, *and* monitors progress, the student's metacognitive practice is displaced — the very suppression risk identified in [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] and [[llm-fallacy-misattribution|LLM Fallacy]] [[research-methods-aied|research]].
+[[metacognition|metacognition]] is required for students to evaluate their own work against co-designed rubrics. When AI provides the rubric, generates the feedback, *and* monitors progress, the student's metacognitive practice is displaced — the very suppression risk identified in [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] and [[llm-fallacy-misattribution|LLM Fallacy]] [[research-methods-aied|research]].
 
 ### Pedagogical Training
 Theory-grounded training (see [[llm-training-and-fine-tuning|ISD-Agent-Bench, EduQwen]]) should explicitly align with the six-dimensional framework. A model trained to reward "guiding over answering" still falls short if it does not understand **sustainable feedback**, **co-designed rubrics**, or **social authenticity**.

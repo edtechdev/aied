@@ -49,14 +49,14 @@ JevKT combines the model's prior, which Jev0-shot measures alone, with evidence 
 
 ## What this means for practice
 
-- **Instructors.** Treat a single-pass System-One probability as usable when a course has few or no logged learners: Jev0-shot reaches .706 with no target-platform data, and the paper's own [[ethics]] note still asks that predictions support, not replace, instructor decisions.
+- **Instructors.** Treat a single-pass System-One probability as usable when a course has few or no logged learners: Jev0-shot reaches .706 with no target-platform data, and the paper's own [[ethics|ethics]] note still asks that predictions support, not replace, instructor decisions.
 - **[[educational-technology-developers|Educational technology developers]].** Do not wait for a training corpus before shipping a prediction: a new course can be served immediately at \$44 per million predictions, whereas deep KT must be retrained for every course and platform.
 - **Assessment designers.** Budget for the crossover, not the headline: the System-One lead is significant up to 16 learners and gone by 128, so plan to switch to a supervised model once a course accumulates enough learners.
 - **Researchers.** Report [[educational-measurement|calibration]] alongside AUC: Thinking-KT's ten-sample vote frequencies produce an ECE of .253 against .084 for a single Jev pass, and a System-Two pipeline can cost \$4,360 per million predictions while losing on all seven datasets.
 
 ## Limitations
 
-- The finding rests on one closed System-One model; no other commercial System-One model is available, so generality is tested only with other LLMs behind the official adapter, a Jev-distilled student (JEV-9B, .687 at N=0) and the [[open-source]] Laya (.536, near chance).
+- The finding rests on one closed System-One model; no other commercial System-One model is available, so generality is tested only with other LLMs behind the official adapter, a Jev-distilled student (JEV-9B, .687 at N=0) and the [[open-source|open source]] Laya (.536, near chance).
 - Jev's training data are unknown; the contamination checks find no evidence of memorization but cannot rule it out, and only one Jev version (jev-1.13-20260917) is available, so drift across versions cannot be measured.
 - The prompted System-Two baselines run on Qwen3.5-9B, so the conclusion that reasoning does not help applies to this backbone; a larger reasoning model may behave differently.
 - Deep KT baselines use default hyper-parameters in the main comparison (a validation-tuned run does not change the conclusion), and F1 is threshold-sensitive on the low-base-rate ASSIST17 dataset.

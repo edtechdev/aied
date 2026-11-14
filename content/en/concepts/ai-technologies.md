@@ -1,14 +1,14 @@
 ---
 title: Technologies
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 reviewed_by: [editor]
 ---
-> **Technologies** — the models, architectures, and methods that power AI education systems, and the umbrella concept for the technical layer. Where [[pedagogy]] and [[learning-theories]] concern *how teaching and learning happen*, and [[ai-ed-evaluation]] concerns *whether AI works*, the *technical* strand covers the AI systems ([[llm|large language models]], [[generative-ai|generative AI]], [[multimodal|multimodal models]], [[educational-robotics|robots]]) and the techniques used to build, control, and deploy them ([[prompt-engineering]], [[rag|retrieval-augmented generation]], [[reinforcement-learning]], [[educational-nlp]], [[knowledge-graph|knowledge graphs]], [[agentic-ai|agentic orchestration]]).
+> **Technologies** — the models, architectures, and methods that power AI education systems, and the umbrella concept for the technical layer. Where [[pedagogy|pedagogy]] and [[learning-theories|learning theories]] concern *how teaching and learning happen*, and [[ai-ed-evaluation|AI ed evaluation]] concerns *whether AI works*, the *technical* strand covers the AI systems ([[llm|large language models]], [[generative-ai|generative AI]], [[multimodal|multimodal models]], [[educational-robotics|robots]]) and the techniques used to build, control, and deploy them ([[prompt-engineering|prompt engineering]], [[rag|retrieval-augmented generation]], [[reinforcement-learning|reinforcement learning]], [[educational-nlp|educational NLP]], [[knowledge-graph|knowledge graphs]], [[agentic-ai|agentic orchestration]]).
 
 ## Questions to Consider
 
@@ -26,7 +26,7 @@ reviewed_by: [editor]
 ## AI systems in education
 
 - **Large language models (LLMs).** The computational backbone of most modern [[ai-education|AIED]] — [[llm|LLMs]] generate human-like text for tutoring, assessment, and content generation, and are the most-referenced technology in the field. [[llm-training-and-fine-tuning|Training and fine-tuning]] adapts general LLMs for educational use.
-- **Generative AI.** The broader category of systems that produce text, code, images, and other content — [[generative-ai|generative AI]] (driven chiefly by LLMs) is the technology behind the current wave of [[ai-education|AIED]] research. See also [[multimodal|multimodal models]] (text, image, audio) and [[simulation]].
+- **Generative AI.** The broader category of systems that produce text, code, images, and other content — [[generative-ai|generative AI]] (driven chiefly by LLMs) is the technology behind the current wave of [[ai-education|AIED]] research. See also [[multimodal|multimodal models]] (text, image, audio) and [[simulation|simulation]].
 - **Robots and [[embodied-learning|embodied]] systems.** [[educational-robotics|Robots in education]] add an embodied and often [[community-of-inquiry|social presence]] — programmable kits for [[computational-thinking|computational thinking]] and humanoid/social robots for tutoring, [[storytelling-in-education|storytelling]], and role-play. Robotics is a distinct technical strand that overlaps [[agentic-ai|agentic AI]] and [[human-in-the-loop-ai|human-in-the-loop]] design.
 - **Knowledge-based systems.** [[knowledge-graph|Knowledge graphs]] and [[educational-nlp|educational NLP]] represent and process domain knowledge, increasingly combined with LLMs for grounded, explainable tutoring.
 
@@ -44,16 +44,16 @@ reviewed_by: [editor]
 The technical strand is inseparable from the field's other themes:
 
 - **Pedagogy:** technical choices embody pedagogical assumptions — a [[intelligent-tutoring|tutor]] built on [[socratic-method|Socratic prompting]] reasons with learners, while an answer-generating model may default to direct provision (see [[pedagogy|pedagogies and teaching strategies]]).
-- **Assessment and evaluation:** [[ai-ed-evaluation]] and [[benchmark|benchmarks]] determine whether AI systems actually work; [[assessment]] and [[automated-assessment]] use the technical stack to grade and generate.
-- **Responsible use:** technical techniques are central to [[reducing-ai-misuse|reducing AI misuse]] — [[rag]] grounding, [[guardrails]], [[prompt-engineering]] [[scaffolding]], and [[human-in-the-loop-ai|human oversight]] shape whether AI supports or undermines learning ([[cognitive-offloading]], [[hallucination-risk]]).
+- **Assessment and evaluation:** [[ai-ed-evaluation|AI ed evaluation]] and [[benchmark|benchmarks]] determine whether AI systems actually work; [[assessment|assessment]] and [[automated-assessment|automated assessment]] use the technical stack to grade and generate.
+- **Responsible use:** technical techniques are central to [[reducing-ai-misuse|reducing AI misuse]] — [[rag|RAG]] grounding, [[guardrails|guardrails]], [[prompt-engineering|prompt engineering]] [[scaffolding|scaffolding]], and [[human-in-the-loop-ai|human oversight]] shape whether AI supports or undermines learning ([[cognitive-offloading|cognitive offloading]], [[hallucination-risk|hallucination risk]]).
 
 **Research attention is concentrated on a narrow slice of the tool ecosystem.** Mapping 85 AI tools against the STEM and engineering literature, [[beyond-chatgpt-stem-ai-tool-mapping-2026|Terkowsky et al. (2026)]] found only 36 research-visible at all and [[conversational-ai|conversational AI]]/LLMs accounting for 73.7% of 927 paper–tool connections, with 23 publications in an established laboratory context.
 
 ## Implications for AI in education
 
-- **Technical literacy supports critical use:** understanding the underlying models and techniques helps educators and learners use AI well and evaluate it critically (see [[ai-literacy]]).
+- **Technical literacy supports critical use:** understanding the underlying models and techniques helps educators and learners use AI well and evaluate it critically (see [[ai-literacy|AI literacy]]).
 - **Choose technology by pedagogical intent:** the AI system and technique should follow the [[pedagogy|teaching strategy]], not the reverse.
-- **Evaluate the technical layer:** [[ai-ed-evaluation]] and [[benchmark]] research assess AI systems on reliability, pedagogy, and [[equity-in-ai-education|equity]], not just headline accuracy.
+- **Evaluate the technical layer:** [[ai-ed-evaluation|AI ed evaluation]] and [[benchmark|benchmark]] research assess AI systems on reliability, pedagogy, and [[equity-in-ai-education|equity]], not just headline accuracy.
 - **Robots and agents are part of the stack:** [[educational-robotics|embodied]] and [[agentic-ai|agentic]] systems extend the technical repertoire beyond text — and bring their own design and safety considerations.
 
 ## Common Misconceptions

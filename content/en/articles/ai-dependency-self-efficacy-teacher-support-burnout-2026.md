@@ -38,9 +38,9 @@ Four instruments were used: an eight-item Academic Self-Efficacy Scale adapted f
 
 ## What this means for practice
 
-- **Instructors.** Build students' confidence in completing learning tasks without AI: the [[self-efficacy]] items that best predicted lower AI dependency asked students to cope through their own effort rather than leaning on tools.
-- **Instructors.** Supply timely [[feedback]], personalized guidance, and positive teacher-student interaction while integrating AI as a learning aid instead of banning it, since teacher support was negatively associated with dependency.
-- **Administrators.** Embed [[ai-literacy]] and [[self-regulated-learning]] in general and professional curricula: dependency rose with frequency of AI use and AI dependency fully mediated the paths from self-efficacy and teacher support to learning burnout, so single-factor interventions need complementing by broader approaches that address how students actually use AI.
+- **Instructors.** Build students' confidence in completing learning tasks without AI: the [[self-efficacy|self-efficacy]] items that best predicted lower AI dependency asked students to cope through their own effort rather than leaning on tools.
+- **Instructors.** Supply timely [[feedback|feedback]], personalized guidance, and positive teacher-student interaction while integrating AI as a learning aid instead of banning it, since teacher support was negatively associated with dependency.
+- **Administrators.** Embed [[ai-literacy|AI literacy]] and [[self-regulated-learning|self-regulated learning]] in general and professional curricula: dependency rose with frequency of AI use and AI dependency fully mediated the paths from self-efficacy and teacher support to learning burnout, so single-factor interventions need complementing by broader approaches that address how students actually use AI.
 - **Policymakers.** Issue clear guidelines on [[ai-literacy|responsible AI use]], [[academic-integrity|academic integrity]], and the prevention of over-dependency.
 - **Researchers.** Test the dependency-to-burnout sequence longitudinally or experimentally, because the cross-sectional mediation tested here cannot separate the competing direction in which burnout drives dependency.
 

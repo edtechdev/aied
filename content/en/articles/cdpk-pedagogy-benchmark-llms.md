@@ -19,7 +19,7 @@ methods: [ai-ed-evaluation, benchmark]
 
 ## Key Findings
 
-- **The Pedagogy Benchmark** (CDPK + SEND) tests pedagogical knowledge — [[teacher-role|teaching]] strategies, [[assessment]] methods, and specialist SEND pedagogy — using genuine Chilean teacher-exam questions, curated for cross-cultural validity.
+- **The Pedagogy Benchmark** (CDPK + SEND) tests pedagogical knowledge — [[teacher-role|teaching]] strategies, [[assessment|assessment]] methods, and specialist SEND pedagogy — using genuine Chilean teacher-exam questions, curated for cross-cultural validity.
 - **Wide spread across 97 models:** CDPK 28%–89%; SEND 29%–86%. Closed-source reasoning models dominate the top 10; open-weight DeepSeek R1 reached 86.65%.
 - **Reasoning helps:** most top performers are inference-time chain-of-thought/thinking models, indicating reasoning improves performance even on knowledge-style benchmarks.
 - **Cost–accuracy value frontier:** at \$0.10/M input tokens, CDPK accuracy rose from ~50% (Apr 2024) → 70% (Nov 2024) → 82% (Jun 2025). Open Qwen-3 8B at 3.5¢ now nearly matches the best April-2024 closed model (76%) at >400x lower cost.
@@ -40,7 +40,7 @@ methods: [ai-ed-evaluation, benchmark]
 - Rank order is not resolvable at the top: with bootstrap confidence intervals and repeated runs, the difference between the first- and second-place models is less than 1%, though differences across the full range are robust.
 - Every question comes from a single source — the Chilean Ministry of Education's teacher-development exams — and all items were translated from Spanish into English, so pedagogical priorities valued elsewhere and translation nuance may be misrepresented; comparable exams from other countries were not openly licensed.
 - One standardized few-shot prompt (three fixed examples) was used for all 97 models, a setting the authors note may handicap reasoning models, which have a separate output space.
-- The benchmarks are static multiple-choice knowledge items: they cannot test generating a lesson plan, differentiating materials, or [[scaffolding]] a student turn by turn, and because CDPK and SEND results correlate highly the authors cannot be certain they isolate pedagogical knowledge rather than general MCQ ability; the ~50% human figure is an estimate from whole exams, not question-level data.
+- The benchmarks are static multiple-choice knowledge items: they cannot test generating a lesson plan, differentiating materials, or [[scaffolding|scaffolding]] a student turn by turn, and because CDPK and SEND results correlate highly the authors cannot be certain they isolate pedagogical knowledge rather than general MCQ ability; the ~50% human figure is an estimate from whole exams, not question-level data.
 
 ## Citation
 

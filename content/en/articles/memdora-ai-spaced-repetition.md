@@ -24,7 +24,7 @@ confidence: high
 
 ## Design Rationale
 
-The design rationale treats the flashcard as a full retrieval-practice instrument rather than a passive review object. The forgetting curve first described by Ebbinghaus — roughly **70% of newly learned material forgotten within 24 hours** without review — motivates scheduling, while the interaction taxonomy maps each interaction type to peer-reviewed evidence, so learners see the cognitive rationale behind the activity. The effort-based reward system extends this by rewarding the actual work of retrieval rather than time spent in the app, connecting to [[self-regulated-learning]] and to retrieval-practice [[research-methods-aied|research]].
+The design rationale treats the flashcard as a full retrieval-practice instrument rather than a passive review object. The forgetting curve first described by Ebbinghaus — roughly **70% of newly learned material forgotten within 24 hours** without review — motivates scheduling, while the interaction taxonomy maps each interaction type to peer-reviewed evidence, so learners see the cognitive rationale behind the activity. The effort-based reward system extends this by rewarding the actual work of retrieval rather than time spent in the app, connecting to [[self-regulated-learning|self-regulated learning]] and to retrieval-practice [[research-methods-aied|research]].
 
 ## What this means for practice
 

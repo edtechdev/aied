@@ -57,7 +57,7 @@ The evaluation is entirely offline. No deployment, no A/B test, no learner outco
 
 ## What this means for practice
 
-Instructors and [[librarians]] should read 93.6% as a fit statistic on a 2,400-row sample, not as a claim about their students. The transferable ideas are modest and useful: represent resource text so that distinctive terms dominate, treat the interaction sequence rather than a single click as the unit of evidence, and tune hyperparameters rather than inheriting defaults. None of that requires the specific architecture.
+Instructors and [[librarians|librarians]] should read 93.6% as a fit statistic on a 2,400-row sample, not as a claim about their students. The transferable ideas are modest and useful: represent resource text so that distinctive terms dominate, treat the interaction sequence rather than a single click as the unit of evidence, and tune hyperparameters rather than inheriting defaults. None of that requires the specific architecture.
 
 For platform teams, the paper's most practical content is its preprocessing and its cold-start strategy, both described in enough detail to reimplement. The warning is that the reported gains over BERT4Rec are within a few points on a dataset this small, which is the range in which seed variance and split choice can decide the outcome. Anyone building on this should fix seeds, report variance, and evaluate on a corpus with more than a week of history before claiming an improvement over a transformer baseline.
 

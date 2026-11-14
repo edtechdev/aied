@@ -49,7 +49,7 @@ GPT-3.5-Turbo, chosen for cost and performance, summarized each segment from its
 - **Teams building classroom detectors.** Start with a text-only baseline before adding sensors or interaction logs: on this data it beat every multimodal combination overall, and adding a context window is not free.
 - **Designers choosing which behaviors to surface first.** Off-topic talk and the enactment codes are close to usable now. Planning and reflecting are the ones that need context and logs, which also means they are the ones that break first in a different environment.
 - **Anyone planning a teacher-facing view.** The most specific piece of feedback in this study came from the review, not the model: two labels on one segment confused a 20-year teacher. A single dominant label, or an explicit hierarchy, is a design decision worth making early.
-- **Researchers reusing the method.** The pipeline is reusable and the supplementary prompt is published, but [[multimodal]] fusion here is mid-fusion of text and log features, so the result says more about features than about architectures.
+- **Researchers reusing the method.** The pipeline is reusable and the supplementary prompt is published, but [[multimodal|multimodal]] fusion here is mid-fusion of text and log features, so the result says more about features than about architectures.
 
 ## Limitations
 
@@ -57,7 +57,7 @@ GPT-3.5-Turbo, chosen for cost and performance, summarized each segment from its
 - Accuracy is modest in absolute terms: apart from off-topic talk, no code cleared 0.73, and three codes sat between 0.50 and 0.63 in their best configuration.
 - Each segment carries one label, though the authors note that regulation behaviors often co-occur; that choice simplifies training and, as one teacher pointed out, complicates interpretation.
 - Teacher feedback came from four teachers reviewing one segment by email, in a study designed for modeling rather than evaluation, so it is a [[usability-research|usability]] signal, not evidence of classroom impact.
-- The label set itself was applied to [[llm]] summaries rather than to raw transcripts, so an error in summarization is inherited by everything downstream.
+- The label set itself was applied to [[llm|LLM]] summaries rather than to raw transcripts, so an error in summarization is inherited by everything downstream.
 - No real-time intervention was tested. The paper argues the detectors could support [[scaffolding|adaptive scaffolding]]; it does not show one.
 
 ## Citation

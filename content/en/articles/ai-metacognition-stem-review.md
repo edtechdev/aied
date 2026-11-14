@@ -43,10 +43,10 @@ confidence: high
 |--------------|---------|----------------------|
 | **[[intelligent-tutoring|Intelligent Tutoring Systems]] (ITS)** | Carnegie Learning, ALEKS | Personalized feedback, real-time monitoring, strategic prompts |
 | **Adaptive Platforms** | Deep RL-based systems | Enhance metacognitive outcomes via adaptive scaffolds |
-| **[[learning-analytics|Learning Analytics]]** | [[visualization|Dashboards]], tracking tools | Externalize metacognitive processes, support [[reflection]] |
+| **[[learning-analytics|Learning Analytics]]** | [[visualization|Dashboards]], tracking tools | Externalize metacognitive processes, support [[reflection|reflection]] |
 | **[[generative-ai|Generative AI]]** | ChatGPT (GPT-4.1, 4.5, 5), conversational agents | Metacognitive prompts, chatbot feedback, ME-CoT approaches |
 
-**Core shift:** From **individual reflection** → **system-level [[regulation]] and [[distributed-cognition|distributed cognition]]**.
+**Core shift:** From **individual reflection** → **system-level [[regulation|regulation]] and [[distributed-cognition|distributed cognition]]**.
 
 ### 3. Metacognitive Outcomes
 
@@ -69,7 +69,7 @@ Despite benefits, scholars warn of:
 ### vs. Metacognition in AI Education
 - This review **maps the field systematically** (135 publications, 24 core studies)
 - Confirms: metacognition is **central to STEM success** but challenging to foster
-- AI tools offer scalable [[scaffolding]], but require **teacher preparation in [[ai-literacy|AI literacy]]**
+- AI tools offer scalable [[scaffolding|scaffolding]], but require **teacher preparation in [[ai-literacy|AI literacy]]**
 
 ### vs. Adaptive Learning Systems
 - **ALEKS, Carnegie Learning** highlighted as successful adaptive platforms for metacognition
@@ -79,7 +79,7 @@ Despite benefits, scholars warn of:
 ### vs. Intelligent Tutoring Systems
 - ITS identified as **key scaffolding tool** for metacognitive development
 - Combines **content mastery** (object level) with **reflective monitoring** (meta level)
-- Consistent with: [[stanford-evidence-base-ai-k12-2026]] — [[discipline-specific-aied|domain-specific]] tutoring outperforms generic [[conversational-ai|chatbots]]
+- Consistent with: [[stanford-evidence-base-ai-k12-2026|Walker et al. (2026)]] — [[discipline-specific-aied|domain-specific]] tutoring outperforms generic [[conversational-ai|chatbots]]
 
 ### vs. AI Literacy
 - **Critical finding:** AI literacy must be **integrated into teacher preparation**
@@ -109,9 +109,9 @@ Teacher ↔ AI System ↔ Student
 
 ## What this means for practice
 
-- **Instructors.** Treat [[ai-literacy]] as a prerequisite for tool selection: understand how a specific tool scaffolds planning, monitoring, and evaluation before adopting it for metacognitive work.
+- **Instructors.** Treat [[ai-literacy|AI literacy]] as a prerequisite for tool selection: understand how a specific tool scaffolds planning, monitoring, and evaluation before adopting it for metacognitive work.
 - Schedule reflection around the tool rather than assuming it. Add explicit reflection prompts and self-monitoring checkpoints so AI enhances metacognitive processes instead of replacing them, and cap AI-generated feedback to avoid the cognitive overload the review flags.
-- Combine tool categories instead of betting on one: pair an [[intelligent-tutoring|ITS]] for content mastery with [[learning-analytics]] dashboards that externalize monitoring, and use [[generative-ai]] for metacognitive prompts.
+- Combine tool categories instead of betting on one: pair an [[intelligent-tutoring|ITS]] for content mastery with [[learning-analytics|learning analytics]] dashboards that externalize monitoring, and use [[generative-ai|generative AI]] for metacognitive prompts.
 - **Researchers.** Standardize how metacognitive outcomes are measured. The review finds measurement methods inconsistent across studies, which blocks meta-analysis and makes cross-study comparison of effects unreliable.
 - **Researchers.** Prioritize longitudinal and experimental designs: most reviewed work is cross-sectional, so the review can show that AI tools accompany better reflective thinking and self-regulation but cannot establish causal or sustained effects.
 
@@ -119,7 +119,7 @@ Teacher ↔ AI System ↔ Student
 
 - The in-depth synthesis rests on 24 studies selected through PRISMA 2020 screening of a 135-article corpus (2005–2025) drawn from Scopus and Web of Science, so work outside those indexes is absent.
 - The authors state that few included studies used longitudinal or experimental designs capable of identifying causal or sustained effects of AI-mediated metacognitive interventions.
-- Coverage is uneven across STEM: reviewed studies concentrate in mathematics and [[science-education|science education]], with limited representation in technology and [[engineering-education|engineering education]] and in early-childhood and [[teacher-education]] contexts.
+- Coverage is uneven across STEM: reviewed studies concentrate in mathematics and [[science-education|science education]], with limited representation in technology and [[engineering-education|engineering education]] and in early-childhood and [[teacher-education|teacher education]] contexts.
 - Measurement is inconsistent across the reviewed studies — the review's own stated barrier — because metacognitive outcomes were assessed with differing instruments, so reported benefits cannot be pooled or compared directly.
 
 ## Citation

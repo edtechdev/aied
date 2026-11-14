@@ -14,7 +14,7 @@ discipline: [language learning]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** **MuTSE** (Roscan et al., 2026) tackles a critical [[research-methods-aied|methodological]] gap in [[reading-education|text simplification]] for **Intelligent Tutoring Systems (ITS)** and language-learning applications: how to systematically evaluate **[[llm]]**-generated simplifications across many prompting strategies and model architectures without drowning researchers in high-dimensional comparisons. It pairs an asynchronous **P × M** generation pipeline with a novel tiered **semantic alignment** engine — biased by a real-time linearity heuristic (λ) — so evaluators can visually trace how each source sentence is transformed across every prompt–model permutation, then score the results on custom, pedagogically meaningful criteria.
+> **Synthesis:** **MuTSE** (Roscan et al., 2026) tackles a critical [[research-methods-aied|methodological]] gap in [[reading-education|text simplification]] for **[[intelligent-tutoring|Intelligent Tutoring Systems]] (ITS)** and language-learning applications: how to systematically evaluate **[[llm|LLM]]**-generated simplifications across many prompting strategies and model architectures without drowning researchers in high-dimensional comparisons. It pairs an asynchronous **P × M** generation pipeline with a novel tiered **semantic alignment** engine — biased by a real-time linearity heuristic (λ) — so evaluators can visually trace how each source sentence is transformed across every prompt–model permutation, then score the results on custom, pedagogically meaningful criteria.
 
 ## Key Findings
 1. **Parallel comparison workflow:** MuTSE executes `P` prompts × `M` models concurrently (bounded by the slowest model's latency, ~O(max(tᵢ))) and presents all outputs in a unified, side-by-side, toggleable matrix — removing the need to run or orchestrate inference manually.
@@ -24,7 +24,7 @@ page_kind: [evaluation]
 
 ## The Challenge of Text Simplification in Education
 
-Adapting complex texts into accessible reading material is a core component of **[[intelligent-tutoring]]** and **[[language-learning]]** applications. Large Language Models now give educators robust generative frameworks to tailor texts to specific proficiency targets such as **[[multilingual-learning|CEFR A2 or B1]]**. Yet evaluating those outputs remains fragmented and labor-intensive: researchers fall back on static scripts or notebooks, while educators are confined to standard conversational chat interfaces — neither supports systematic, multi-dimensional evaluation of prompt–model permutations.
+Adapting complex texts into accessible reading material is a core component of **[[intelligent-tutoring|intelligent tutoring]]** and **[[language-learning|language learning]]** applications. Large Language Models now give educators robust generative frameworks to tailor texts to specific proficiency targets such as **[[multilingual-learning|CEFR A2 or B1]]**. Yet evaluating those outputs remains fragmented and labor-intensive: researchers fall back on static scripts or notebooks, while educators are confined to standard conversational chat interfaces — neither supports systematic, multi-dimensional evaluation of prompt–model permutations.
 
 Standard automated metrics such as **BLEU and SARI** (via developer-centric toolkits like EASSE) drive large-scale benchmarking, but they aggregate performance into single opaque numbers and lack the granular, visual interpretability educators need to validate multi-reference transformations. Related human-in-the-loop annotation tools (e.g. TS-ANNO) are built for post-hoc corpus creation rather than live, concurrent multi-model generation. MuTSE deliberately bridges both worlds — combining the concurrent generation of modern LLMs, the metric extraction of programmatic toolkits, and the visual mapping of annotation platforms into one accessible environment.
 
@@ -45,7 +45,7 @@ MuTSE is deliberately **evaluation-agnostic** — it ships with zero predefined 
 
 ## Connection to LLMs in Education
 
-As **[[generative-ai]]** becomes prevalent in ITS, text simplification confronts:
+As **[[generative-ai|generative AI]]** becomes prevalent in ITS, text simplification confronts:
 - **[[prompt-engineering|Prompting strategy]] variability:** the same model, prompted differently, produces materially different simplifications.
 - **Architecture differences:** GPT, Claude, and specialized open-weight models (Llama 3, DeepSeek V3, Qwen 2.5) diverge in output quality and style.
 - **Evaluation challenge:** linguistic metrics fail to capture *[[pedagogy|pedagogical]]* quality, and the field lacks standardized evaluation terminology.
@@ -59,7 +59,7 @@ MuTSE addresses these by letting evaluators toggle prompts and models on the fly
 - **Software developers.** Adopt the three-tier alignment cascade (multilingual SBERT embeddings, TF-IDF with word- and character-level n-grams, then normalized positional fallback) to suppress false-positive sentence alignments, and keep the deployment CPU-only by using the 384-dimensional MiniLM embedding tier.
 - **Software developers.** Expose the linearity bias λ (range 0-2, default 0.5) as a user-adjustable control recomputed on the client, so evaluators get instant visual feedback without redundant server calls, and export each session as structured JSON and CSV — the JSON preserving sentence-to-annotation mappings for fine-tuning or reward-[[llm-training-and-fine-tuning|model training]], the CSV for exploratory analysis.
 
-- **Instructors.** Drive simplification from real-time proficiency estimates rather than a fixed corpus level: dynamic simplification belongs inside an [[adaptive-learning]] loop, with [[student-modeling]] supplying the reading-level target, an educator verifying the output before learners see it, and quality weights (meaning preservation, fluency, concept coverage) set locally rather than accepted by default. Route those texts through human review ([[human-in-the-loop-ai]]) so the cascade supports [[scaffolding]] and [[sociocultural-learning]] instead of stripping key concepts.
+- **Instructors.** Drive simplification from real-time proficiency estimates rather than a fixed corpus level: dynamic simplification belongs inside an [[adaptive-learning|adaptive learning]] loop, with [[student-modeling|student modeling]] supplying the reading-level target, an educator verifying the output before learners see it, and quality weights (meaning preservation, fluency, concept coverage) set locally rather than accepted by default. Route those texts through human review ([[human-in-the-loop-ai|human-in-the-loop]]) so the cascade supports [[scaffolding|scaffolding]] and [[sociocultural-learning|sociocultural learning]] instead of stripping key concepts.
 
 ## Limitations
 

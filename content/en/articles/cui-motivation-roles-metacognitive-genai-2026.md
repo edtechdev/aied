@@ -34,18 +34,18 @@ Intrinsic motivation was associated with significantly higher engagement in high
 - **Instructor:** a receptive comprehension-checking pattern (Orientation-Monitoring, Execution-Monitoring) with near-absent evaluation and elaboration.
 - **Replacement Tool:** only self-loops with no higher-order connections and entirely absent Evaluation/Elaboration — cognitive closure.
 
-The augmentation–automation distinction is supported: retaining [[agency]] over one's thinking yields substantially richer metacognitive engagement than full delegation.
+The augmentation–automation distinction is supported: retaining [[agency|agency]] over one's thinking yields substantially richer metacognitive engagement than full delegation.
 
 ## Relevance to the knowledge base
 
-This study contributes process-level empirical evidence to the knowledge base's treatment of [[student-ai-interaction]], [[metacognition]], and [[human-ai-collaboration]]. It moves beyond the broad "cognitive offloading" framing (see [[cognitive-offloading]] and related articles like [[shaw-nave-cognitive-surrender-2026]]) to show that metacognitive outcomes depend on motivational stance and role framing. It supports [[self-regulated-learning]] guidance that GenAI tasks be reframed as exploratory and dialogic, and that interfaces embed evaluative prompts to sustain [[agency]]. It connects to [[motivation]], [[ai-misuse-learning-harm|reducing misuse]], and practical [[learning-design|instructional design]] for [[higher-ed|higher education]].
+This study contributes process-level empirical evidence to the knowledge base's treatment of [[student-ai-interaction|student-ai interaction]], [[metacognition|metacognition]], and [[human-ai-collaboration|human AI collaboration]]. It moves beyond the broad "cognitive offloading" framing (see [[cognitive-offloading|cognitive offloading]] and related articles like [[shaw-nave-cognitive-surrender-2026|Shaw et al. (2026)]]) to show that metacognitive outcomes depend on motivational stance and role framing. It supports [[self-regulated-learning|self-regulated learning]] guidance that GenAI tasks be reframed as exploratory and dialogic, and that interfaces embed evaluative prompts to sustain [[agency|agency]]. It connects to [[motivation|motivation]], [[ai-misuse-learning-harm|reducing misuse]], and practical [[learning-design|instructional design]] for [[higher-ed|higher education]].
 
 ## What this means for practice
 
 - **Instructors.** Frame GenAI tasks as exploratory and dialogic rather than answer-retrieval; only the collaborator framing produced a complete [[metacognition|metacognitive]] chain across all six categories.
 - **Designers.** Embed evaluative prompts in interfaces to move students beyond orientation, planning, and monitoring into evaluation and elaboration.
 - Watch for the replacement-tool pattern, which appeared in 64.6% of extrinsically motivated students' logs and produced no higher-order metacognitive connections.
-- Preserve student [[agency]] over the thinking task, since the augmentation-versus-automation distinction held across every role category in the logs.
+- Preserve student [[agency|agency]] over the thinking task, since the augmentation-versus-automation distinction held across every role category in the logs.
 
 ## Limitations
 

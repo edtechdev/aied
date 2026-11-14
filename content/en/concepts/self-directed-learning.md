@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Self-Directed Learning
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -12,14 +12,14 @@ confidence: high
 reviewed_by: [editor]
 ---
 
-> **Self-directed learning (SDL)** — the process by which learners take initiative and responsibility for diagnosing their own learning needs, setting goals, identifying resources, choosing and implementing strategies, and evaluating outcomes, often with limited external structure. In the AI era, SDL is both a key outcome (does AI use support or erode learners' capacity to direct their own learning?) and a vulnerability (the convenience of generative AI can undermine the very autonomy and [[self-efficacy]] SDL requires).
+> **Self-directed learning (SDL)** — the process by which learners take initiative and responsibility for diagnosing their own learning needs, setting goals, identifying resources, choosing and implementing strategies, and evaluating outcomes, often with limited external structure. In the AI era, SDL is both a key outcome (does AI use support or erode learners' capacity to direct their own learning?) and a vulnerability (the convenience of generative AI can undermine the very autonomy and [[self-efficacy|self-efficacy]] SDL requires).
 
 ## Questions to Consider
 
 - Self-directed learning means diagnosing your own needs, setting goals, and evaluating outcomes with limited external structure. Before you read, how comfortable are you actually directing your own learning — and has an AI tool ever made you *less* able to, without you noticing?
 - SDL is both a hoped-for outcome and a vulnerability: generative AI's convenience can erode the very autonomy and self-efficacy SDL requires. Why would a tool that gives you instant answers make it *harder* to direct your own learning later?
 - Thoughtless use of GenAI — adopting outputs without [[critical-thinking|critical evaluation]] — was found to harm SDL both directly and by eroding self-efficacy and motivation. Can you recall a time you accepted an AI answer without evaluating it? What, if anything, did that cost you?
-- SDL and self-regulated learning (SRL) are closely related but distinct: SRL concerns in-the-moment [[regulation]] of learning, while SDL concerns overarching responsibility across time. Where do you see the boundary between 'managing this task' and 'directing my own learning' in your own practice?
+- SDL and self-regulated learning (SRL) are closely related but distinct: SRL concerns in-the-moment [[regulation|regulation]] of learning, while SDL concerns overarching responsibility across time. Where do you see the boundary between 'managing this task' and 'directing my own learning' in your own practice?
 - The harm from thoughtless AI use hit motivation harder for some students and self-efficacy harder for others. If the erosion of these psychological resources is uneven across learners, what [[equity-in-ai-education|equity]] concern does that raise about who loses the most from AI convenience?
 - Set a goal before you read: name one learning goal you're currently pursuing mostly on your own, and one way an AI tool helps you toward it and one way it might be quietly taking the directing away from you.
 
@@ -35,7 +35,7 @@ The research documents both sides of the GenAI–SDL relationship.
 - **Learners want a thinking partner, not an oracle.** Interviewed adult learners wanted AI to prompt reflection and verify rather than supply answers, and to leave them in control of the [[recommender-systems-and-learning-paths|learning path]] rather than prescribe it ([[kim-ai-andragogy-2026|Kim et al. (2026)]]).
 - **Delegating goal choice is not the same as supporting it.** Setting the goal is the learner's core act, and the benchmark evidence says models do it differently. Against 175 humans, GPT-5, Claude Sonnet 4.5 and Qwen3 32B re-selected the previous goal on 0.93, 0.93 and 0.94 of trials, against 0.54 ± 0.18 for people. Goal entropy was 0.12 to 0.20 against 1.67 ± 0.14, and chain-of-thought and persona prompts did not close the gap. A system that proposes what to learn next reproduces a narrower search than the learner it stands in for ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al., 2026]]).
 
-- **Thoughtless use undermines SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu (2026)]] show that using GenAI without evaluating what it returns did damage in two directions: it lowered undergraduates' SDL directly and also eroded [[self-efficacy]] and [[motivation]] (the model explained 75.3% of SDL variance; TUGA β = −0.42). The negative effect on motivation was stronger for male students and on self-efficacy stronger for female students. This connects to the broader [[cognitive-offloading|over-reliance]] risk.
+- **Thoughtless use undermines SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu (2026)]] show that using GenAI without evaluating what it returns did damage in two directions: it lowered undergraduates' SDL directly and also eroded [[self-efficacy|self-efficacy]] and [[motivation|motivation]] (the model explained 75.3% of SDL variance; TUGA β = −0.42). The negative effect on motivation was stronger for male students and on self-efficacy stronger for female students. This connects to the broader [[cognitive-offloading|over-reliance]] risk.
 
 - **Unguided use at population scale.** Across 4,062 students in 136 German secondary schools, task-completion and learning-oriented GenAI use both rose over one school year (d = 0.35 and 0.33), with only 5% of students never using the tools; lower prior achievement predicted more subsequent use in all six subjects, yet neither form of use predicted later achievement ([[scherer-self-directed-genai-use-secondary-2026|Scherer et al. (2026)]]).
 
@@ -43,7 +43,7 @@ The research documents both sides of the GenAI–SDL relationship.
 
 ## The SDL–SRL distinction in practice
 
-Because SDL emphasizes learner-initiated direction, interventions to protect it focus on preserving [[agency]] and self-efficacy rather than merely regulating moment-to-moment behavior. The evidence that thoughtless AI use erodes motivation and self-efficacy — the psychological resources SDL depends on — suggests that promoting [[ai-literacy|responsible AI use]] is not just an integrity issue but a developmental one: protecting students' capacity to direct their own learning.
+Because SDL emphasizes learner-initiated direction, interventions to protect it focus on preserving [[agency|agency]] and self-efficacy rather than merely regulating moment-to-moment behavior. The evidence that thoughtless AI use erodes motivation and self-efficacy — the psychological resources SDL depends on — suggests that promoting [[ai-literacy|responsible AI use]] is not just an integrity issue but a developmental one: protecting students' capacity to direct their own learning.
 
 
 ## AI Extraction Scaffolding Research-Based Learning
@@ -73,7 +73,7 @@ Because SDL emphasizes learner-initiated direction, interventions to protect it 
 
 **"AI makes self-directed learning easier because it supplies structure."** It can remove the exercise of the skill. [[genai-thoughtless-use-self-directed-learning-2026|Zhao and Gu (2026)]] show that **thoughtless use of GenAI — adopting outputs without critical evaluation — significantly undermines SDL**. Directing one's own learning is practiced by making the decisions GenAI can now make for you, so an assistant that always supplies direction supplies it in place of the competence.
 
-**"Non-use of AI indicates a lack of access."** Among students who do not use it, the stated reason is often a positive educational choice — wanting to do the work themselves — rather than a barrier. Reading non-use as a deficit misdescribes a position that is, in the [[student-experience]] evidence, reasoned.
+**"Non-use of AI indicates a lack of access."** Among students who do not use it, the stated reason is often a positive educational choice — wanting to do the work themselves — rather than a barrier. Reading non-use as a deficit misdescribes a position that is, in the [[student-experience|student experience]] evidence, reasoned.
 
 **"Self-direction means working alone."** It means owning the direction, which can be exercised in a highly supported environment. The distinguishing feature is who sets and adjusts the goal, not whether help is available.
 

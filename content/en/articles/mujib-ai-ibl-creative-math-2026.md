@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** This quasi-experimental study of secondary students (mean age 12.79) compared AI-supported [[inquiry-based-learning|inquiry-based learning]] against conventional instruction in mathematics. AI-supported IBL significantly improved students' *creative mathematical performance* and *attitudes toward mathematics* — but did **not** produce a statistically significant improvement in *critical [[problem-solving]] skills*. Multivariate analysis confirmed a significant overall group effect; the authors conclude AI-supported IBL mainly supports [[creativity]] and [[affective-computing|affective]] development, with limited effect on problem-solving.
+> **Synthesis:** This quasi-experimental study of secondary students (mean age 12.79) compared AI-supported [[inquiry-based-learning|inquiry-based learning]] against conventional instruction in mathematics. AI-supported IBL significantly improved students' *creative mathematical performance* and *attitudes toward mathematics* — but did **not** produce a statistically significant improvement in *critical [[problem-solving|problem-solving]] skills*. Multivariate analysis confirmed a significant overall group effect; the authors conclude AI-supported IBL mainly supports [[creativity|creativity]] and [[affective-computing|affective]] development, with limited effect on problem-solving.
 
 ## Key Findings
 
@@ -26,7 +26,7 @@ page_kind: [evaluation]
 
 ## What this means for practice
 
-- **Instructors.** Add deliberate problem-solving scaffolds rather than counting on AI-supported inquiry to raise higher-order reasoning: the intervention improved creative mathematical performance and attitudes, but produced no statistically significant gain in critical [[problem-solving]] skills.
+- **Instructors.** Add deliberate problem-solving scaffolds rather than counting on AI-supported inquiry to raise higher-order reasoning: the intervention improved creative mathematical performance and attitudes, but produced no statistically significant gain in critical [[problem-solving|problem-solving]] skills.
 - **Instructors.** Use AI-supported [[inquiry-based-learning|inquiry]] for the outcomes this study found reliable — creative mathematical performance and attitudes toward mathematics — and treat critical problem-solving as a separate objective with its own instruction and assessment.
 - **Designers.** Build guided exploration and adaptive feedback into the inquiry sequence, the mechanism the authors credit for improved instructional efficiency and reduced [[cognitive-offloading|cognitive load]] — the gains in creativity and affect alone should not be read as evidence of deeper reasoning.
 - **Researchers.** Test whether the creativity and attitude gains transfer to problem-solving in other grades and settings, since the variables were positively inter-correlated but the group effect did not reach critical problem-solving.

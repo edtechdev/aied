@@ -20,7 +20,7 @@ level: [teacher education]
 
 - **Pre-service teachers raise concerns about [[academic-integrity|academic integrity]]**, privacy, and the challenge of maintaining essential human skills in a GenAI-driven educational environment.
 - The backtracking approach translates classroom dilemmas into concrete teacher-education [[curriculum-design|curriculum]] implications.
-- Findings identify a need for **[[ai-literacy|AI literacy]] and [[critical-thinking]] skills** in [[teacher-education|teacher education]], alongside [[ethics]] and privacy awareness.
+- Findings identify a need for **[[ai-literacy|AI literacy]] and [[critical-thinking|critical thinking]] skills** in [[teacher-education|teacher education]], alongside [[ethics|ethics]] and privacy awareness.
 - The study supports embedding responsible-use considerations across the teacher-education curriculum rather than treating them as an add-on.
 
 ## What this means for practice

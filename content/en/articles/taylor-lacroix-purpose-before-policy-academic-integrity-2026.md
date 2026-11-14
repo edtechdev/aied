@@ -25,7 +25,7 @@ institutions: [educational-policy-ai, governance]
 4. **Ethos overwhelms logos and pathos.** Mission statements evidence Booth's "Entertainer's" and "Advertiser's" stances—institutions define value by their own existence or appeal to multiple audiences at once—obscuring structural constraints such as financial precarity and inequitable access.
 5. **Use is widespread while policy lags.** A 2024 Global AI Student Survey found 86% of students use AI tools while 80% report institutional policies are unclear or inadequate.
 6. **Universities simultaneously endorse and police AI.** Blanket endorsements of AI's potential coexist with bans and punishment, producing contradictory policy signals and systemic incoherence that erodes institutional credibility.
-7. **Governance is shaped by private partners.** Policies are increasingly developed with corporate and for-profit actors (e.g., the Digital Education Council), blurring the university's public mission and creating opacity in [[governance]].
+7. **Governance is shaped by private partners.** Policies are increasingly developed with corporate and for-profit actors (e.g., the Digital Education Council), blurring the university's public mission and creating opacity in [[governance|governance]].
 8. **Academic integrity is a collective practice.** It is an inherently collective, epistemic undertaking that cannot be credibly demanded while institutions fail to communicate clearly, align practice with mission, or preserve the epistemic norms that underwrite [[transfer-of-learning|knowledge transfer]].
 
 ## What this means for practice

@@ -16,13 +16,13 @@ page_kind: [framework]
 institutions: [governance]
 ---
 
-> **Synthesis:** Torres-Sahli et al. (2026) propose a program-level curriculum framework — "refrain, then amplify" — for sequencing [[generative-ai]] to form professional judgment. On this design, a program withholds a generative tool while a capacity is forming, then restores it to amplify that capacity once the student can direct it, judge what it returns, and answer for it. Devices are allowed where they support engaged work and excluded where they drain attention, all governed by a forming-versus-offloading criterion: whether a stretch of work forms a capacity or merely passes it through the tool. The program fixes outcomes and [[academic-integrity|integrity]], reserves [[teacher-role|teaching]] method to the instructor, and places a hard-to-fake checkpoint at each refrain-to-amplify hinge.
+> **Synthesis:** Torres-Sahli et al. (2026) propose a program-level curriculum framework — "refrain, then amplify" — for sequencing [[generative-ai|generative AI]] to form professional judgment. On this design, a program withholds a generative tool while a capacity is forming, then restores it to amplify that capacity once the student can direct it, judge what it returns, and answer for it. Devices are allowed where they support engaged work and excluded where they drain attention, all governed by a forming-versus-offloading criterion: whether a stretch of work forms a capacity or merely passes it through the tool. The program fixes outcomes and [[academic-integrity|integrity]], reserves [[teacher-role|teaching]] method to the instructor, and places a hard-to-fake checkpoint at each refrain-to-amplify hinge.
 
 ## The Underlying Question
 
 Universities hold three separate conversations about the same question: one about student devices, another about generative AI in assessed work, and a third, unspoken, that leaves instructors to decide both at their own professional risk. The question underneath: does the technology serve the formation of a capacity, or do the work in the student's place? This paper holds the three as one, at the level where curricular design happens — the program.
 
-The framework echoes an ancient concern: Socrates' complaint against writing in Plato's *Phaedrus* — that those who trust external marks will cease to remember for themselves. With [[generative-ai]], the danger is no longer only that we lose capacities we stop exercising; as one commentator puts it, "you cannot atrophy a muscle that was never built." A student who lets the tool do the work before the capacity has formed has no baseline to return to.
+The framework echoes an ancient concern: Socrates' complaint against writing in Plato's *Phaedrus* — that those who trust external marks will cease to remember for themselves. With [[generative-ai|generative AI]], the danger is no longer only that we lose capacities we stop exercising; as one commentator puts it, "you cannot atrophy a muscle that was never built." A student who lets the tool do the work before the capacity has formed has no baseline to return to.
 
 ## Refrain, Then Amplify
 
@@ -31,7 +31,7 @@ On the refrain-then-amplify design:
 1. **Refrain** — a program withholds a generative tool while a capacity is forming, so the learner builds the foundational capability without outsourcing it.
 2. **Amplify** — once the student can direct the tool, judge what it returns, and answer for it, the tool is restored to amplify that capacity.
 
-Devices are governed by a forming-versus-offloading criterion: whether a stretch of work forms a capacity or puts it through the tool. Devices are allowed where they support engaged work and excluded where they drain attention. This connects directly to concerns about [[cognitive-offloading]] and the risk of never-skilling when a tool does the work of a capacity still forming.
+Devices are governed by a forming-versus-offloading criterion: whether a stretch of work forms a capacity or puts it through the tool. Devices are allowed where they support engaged work and excluded where they drain attention. This connects directly to concerns about [[cognitive-offloading|cognitive offloading]] and the risk of never-skilling when a tool does the work of a capacity still forming.
 
 ## Program-Level Design
 
@@ -41,7 +41,7 @@ The framework operates at the program level, sitting as a single floor beneath e
 2. **A hard-to-fake checkpoint sits at each refrain-to-amplify hinge**, providing a verified transition between the phases.
 3. **Each element has published precedent** — the withholding, the taught restoration, the test — but none of that prior work owns the movement at program level with a verified transition.
 
-This positions sequencing as a [[curriculum-design]] and [[governance]] decision rather than a per-assignment or per-instructor choice, giving programs a principled way to decide when and how generative AI enters the curriculum in service of forming professional judgment.
+This positions sequencing as a [[curriculum-design|curriculum design]] and [[governance|governance]] decision rather than a per-assignment or per-instructor choice, giving programs a principled way to decide when and how generative AI enters the curriculum in service of forming professional judgment.
 
 ## What this means for practice
 

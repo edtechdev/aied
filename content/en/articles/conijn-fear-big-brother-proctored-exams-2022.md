@@ -14,7 +14,7 @@ confidence: high
 audience: [administrators, assessment professionals]
 ---
 
-> **Synthesis:** **The fear of Big Brother** — a large-scale four-wave study of 1,760 students across 105 courses during pandemic-era remote exams finds that online [[remote-proctoring|proctoring]] significantly **increases test anxiety**, even though it has no effect on the temptation to cheat, perceived exam difficulty, or performance. The study quantifies which student and contextual factors reduce or amplify that anxiety, and argues that the decision to use online proctoring must weigh its undesirable side-effect on test anxiety.
+> **Synthesis:** **The fear of Big Brother** — a large-scale four-wave study of 1,760 students across 105 courses during pandemic-era remote exams finds that online [[remote-proctoring|proctoring]] significantly **increases [[anxiety-and-stress|test anxiety]]**, even though it has no effect on the temptation to cheat, perceived exam difficulty, or performance. The study quantifies which student and contextual factors reduce or amplify that anxiety, and argues that the decision to use online proctoring must weigh its undesirable side-effect on test anxiety.
 
 Conijn, Kleingeld, Matzat, & Snijders (2022) provide the strongest empirical evidence to date on the "Big Brother" concern with proctored exams: surveillance raises anxiety without deterring cheating. The title captures the central finding — students' fear of being watched is a real, measurable negative side-effect of [[remote-proctoring|online proctoring]].
 
@@ -34,7 +34,7 @@ Conijn, Kleingeld, Matzat, & Snijders (2022) provide the strongest empirical evi
 
 ## What this means for practice
 
-- **Assessment professionals.** Prefer less intrusive integrity assurance — limiting exam time, restricting access to already-completed questions, and randomizing question and answer order — over [[remote-proctoring]], which raised test anxiety (β = 0.60, p < 0.001) while showing no effect on the temptation to cheat.
+- **Assessment professionals.** Prefer less intrusive integrity assurance — limiting exam time, restricting access to already-completed questions, and randomizing question and answer order — over [[remote-proctoring|remote proctoring]], which raised test anxiety (β = 0.60, p < 0.001) while showing no effect on the temptation to cheat.
 - **Administrators.** Open on-campus study spaces with reliable internet during proctored exams and route support to the students carrying the highest anxiety burden — those with financial stress, low internet literacy, and weaker home study environments — since proctoring widens rather than narrows [[equity-in-ai-education|inequity]].
 - **Instructors.** Teach time management and environmental structuring explicitly and give students practice with the exam platform, because these learning strategies and skills are the ones associated with lower [[anxiety-and-stress|test anxiety]].
 - **Designers.** Build the alternative to surveillance into the [[assessment|assessment design]] itself, treating [[authentic-assessment|authentic assessment]] as the default where the integrity case for proctoring remains unproven.
@@ -42,7 +42,7 @@ Conijn, Kleingeld, Matzat, & Snijders (2022) provide the strongest empirical evi
 ## Limitations
 
 - All outcomes were voluntary self-reports from 1,760 students across 105 courses at a single Dutch university; self-selection toward higher-motivated students and socially desirable answering (including understated cheating) may bias the estimates.
-- The study could not map the full side-effect space: it did not measure proctoring's effects on [[privacy]] and security perceptions, so the total cost of surveillance remains unknown.
+- The study could not map the full side-effect space: it did not measure proctoring's effects on [[privacy|privacy]] and security perceptions, so the total cost of surveillance remains unknown.
 - Cheating temptation and anxiety were reported rather than observed, and students may be less aware of peers cheating in online exams than on campus, which weakens the null-effect conclusion.
 
 ## Citation

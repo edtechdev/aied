@@ -14,14 +14,14 @@ audience: [researchers, learning analytics designers, instructional designers]
 page_kind: [framework]
 ---
 
-> **Synthesis:** **[[agency|Learner agency]] across scales** — a theoretical/integrative paper proposing an account of learner agency that extends [[self-regulated-learning|SRL]] beyond task-focused [[regulation]] by connecting it with complex systems science and Freirean [[critical-pedagogy|critical pedagogy]]. It foregrounds three dimensions of learner agency — **regulation, integration, and positioning** — and a cross-scale [[scaffolding|scaffold]] supporting learners to move between them in algorithmically mediated environments.
+> **Synthesis:** **[[agency|Learner agency]] across scales** — a theoretical/integrative paper proposing an account of learner agency that extends [[self-regulated-learning|SRL]] beyond task-focused [[regulation|regulation]] by connecting it with complex systems science and Freirean [[critical-pedagogy|critical pedagogy]]. It foregrounds three dimensions of learner agency — **regulation, integration, and positioning** — and a cross-scale [[scaffolding|scaffold]] supporting learners to move between them in algorithmically mediated environments.
 
 ## Key Findings
 
-- **Three dimensions of learner agency.** *Regulation* (the self as an active managing process, drawing on social-cognitive SRL); *Integration* (the self as an organizing center across time and contexts, drawing on complex systems science); *Positioning* (the self as a critical interpreter, drawing on Freirean critical [[pedagogy]]). Agency lies in the coordination/movement between these, not any one alone.
+- **Three dimensions of learner agency.** *Regulation* (the self as an active managing process, drawing on social-cognitive SRL); *Integration* (the self as an organizing center across time and contexts, drawing on complex systems science); *Positioning* (the self as a critical interpreter, drawing on Freirean critical [[pedagogy|pedagogy]]). Agency lies in the coordination/movement between these, not any one alone.
 - **Two limitations of SRL.** SRL has progressively narrowed to task-focused regulation (leaving broader life conditions and structural positions under-theorized), and its operationalization in educational technology has narrowed the construct to optimizable behavioral proxies (e.g., time management, strategy use, effort allocation).
 - **Cross-scale scaffold.** A design orientation with four functions — surfacing patterns across scales, opening conditions to critique, returning interpretation to action, and centering the learner as the agent of connection. It extends SRL from "agency within conditions" to "agency over conditions" (questioning what metrics measure and whose purposes they encode).
-- **Critical stance on [[learning-analytics]] and [[generative-ai]].** Algorithmically mediated environments encode assumptions about what counts as [[student-engagement|engagement]] and who succeeds; supporting agency requires learners to interpret their data, question what it does not capture, and act on that interpretation — a critique that has been largely disconnected from SRL theory.
+- **Critical stance on [[learning-analytics|learning analytics]] and [[generative-ai|generative AI]].** Algorithmically mediated environments encode assumptions about what counts as [[student-engagement|engagement]] and who succeeds; supporting agency requires learners to interpret their data, question what it does not capture, and act on that interpretation — a critique that has been largely disconnected from SRL theory.
 
 ## What this means for practice
 
@@ -32,7 +32,7 @@ page_kind: [framework]
 
 ## Limitations
 
-- Conceptual article with no participants, intervention, or data: the three-dimension account and the cross-scale scaffold are proposals, and the paper offers no evidence that the scaffold changes learner [[regulation]] or design practice.
+- Conceptual article with no participants, intervention, or data: the three-dimension account and the cross-scale scaffold are proposals, and the paper offers no evidence that the scaffold changes learner [[regulation|regulation]] or design practice.
 - The critique of how learning analytics operationalizes SRL rests on secondary sources (for example, de Barba et al., 2020; Matcha et al., 2019) rather than new analysis of dashboard behavior or learner data.
 - The three dimensions are named but not operationalized: no measures, indicators, or decision rules are specified by which regulation, integration, and positioning could be distinguished empirically.
 - The integration of SRL, complex systems science, and Freirean critical pedagogy is a single author's synthesis in a sole-authored Learning Letters article, so readers get one reading of each tradition rather than a negotiated integration across scholars.

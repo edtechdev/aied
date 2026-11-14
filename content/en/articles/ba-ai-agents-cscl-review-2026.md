@@ -15,7 +15,7 @@ page_kind: [synthesis]
 methods: [meta-analysis-systematic-review]
 ---
 
-> **Synthesis:** This systematic [[meta-analysis-systematic-review|literature review]] of 46 empirical studies (2014–2025) analyzes the roles and impacts of [[agentic-ai|AI agents]] within [[collaborative-learning|computer-supported collaborative learning (CSCL)]]. Guided by the [[community-of-inquiry|community of inquiry]] model and learning [[student-engagement|engagement]] theory, it finds AI agents most frequently facilitate small-group collaboration and [[problem-solving]] via text-based online platforms, with functions spanning cognitive [[scaffolding]], social facilitation, and instructional orchestration. While cognitive gains are consistently reported, effects on behavioral, social, and emotional outcomes are context-dependent.
+> **Synthesis:** This systematic [[meta-analysis-systematic-review|literature review]] of 46 empirical studies (2014–2025) analyzes the roles and impacts of [[agentic-ai|AI agents]] within [[collaborative-learning|computer-supported collaborative learning (CSCL)]]. Guided by the [[community-of-inquiry|community of inquiry]] model and learning [[student-engagement|engagement]] theory, it finds AI agents most frequently facilitate small-group collaboration and [[problem-solving|problem-solving]] via text-based online platforms, with functions spanning cognitive [[scaffolding|scaffolding]], social facilitation, and instructional orchestration. While cognitive gains are consistently reported, effects on behavioral, social, and emotional outcomes are context-dependent.
 
 ## Key Findings
 
@@ -27,11 +27,11 @@ methods: [meta-analysis-systematic-review]
 
 ## What this means for practice
 
-- **Designers.** Match the agent's function to the outcome you intend: the review finds cognitive [[scaffolding]] reliably produces cognitive gains and that alignment between agent function and [[learning-gains|learning outcome]] is strongest within the same domain, so choose cognitive scaffolding, social facilitation, or instructional orchestration deliberately rather than bundling all three.
+- **Designers.** Match the agent's function to the outcome you intend: the review finds cognitive [[scaffolding|scaffolding]] reliably produces cognitive gains and that alignment between agent function and [[learning-gains|learning outcome]] is strongest within the same domain, so choose cognitive scaffolding, social facilitation, or instructional orchestration deliberately rather than bundling all three.
 - **Designers.** Treat behavioral, social, and emotional outcomes as context-dependent: cognitive gains were consistently reported across the 46 studies, but the other three outcome classes varied, so pilot the agent in your own setting before assuming social or emotional benefits.
 - **Designers.** Keep groups small: dyads and triads working with a single agent dominate the reviewed evidence, and multiple-agent or larger-group designs remain largely experimental.
 - **Researchers.** Report sample characteristics, agent architecture, and implementation details consistently, and share logging schemas, coding frameworks, and [[prompt-engineering|prompting strategies]] even when raw data cannot be released — almost none of the 46 studies opened their datasets or agent source code.
-- **Administrators.** Treat expansion beyond post-secondary text platforms as governance-intensive: staged validation in [[k-12|K-12]], vocational, and [[multimodal]] settings needs data minimization, explicit consent, and bias monitoring, and should hold [[human-ai-collaboration|human oversight]] and [[equity-in-ai-education|equity]] [[guardrails]] as first-order design requirements.
+- **Administrators.** Treat expansion beyond post-secondary text platforms as governance-intensive: staged validation in [[k-12|K-12]], vocational, and [[multimodal|multimodal]] settings needs data minimization, explicit consent, and bias monitoring, and should hold [[human-ai-collaboration|human oversight]] and [[equity-in-ai-education|equity]] [[guardrails|guardrails]] as first-order design requirements.
 
 ## Limitations
 

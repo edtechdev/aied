@@ -23,7 +23,7 @@ ai_assist:
 
 A student understands the concept and needs four extra minutes to say so in English. The AI can translate the prompt, define the terminology, rehearse the explanation with them, or write the whole answer. Three of those are teaching. One is doing the assignment.
 
-Here is the short answer: decide what the language is doing in this task before you decide what the tool may do. Where language is incidental, AI can remove a barrier that has nothing to do with your construct. Where the language is the construct, the same tool bypasses the learning. The risk runs both ways at once: [[multilingual-learning|language support]] can improve access, and [[automated-assessment|automated scoring]] can still misread the student. In one physics study, explanations of lower linguistic quality were systematically graded below expert judgment by every AI scoring approach tested, nine [[machine-learning]] and two language-model systems across 116 secondary-school students ([[ai-scoring-language-bias-physics|Feser and Tschisgale, 2026]]). Fluency and understanding were being scored as one thing.
+Here is the short answer: decide what the language is doing in this task before you decide what the tool may do. Where language is incidental, AI can remove a barrier that has nothing to do with your construct. Where the language is the construct, the same tool bypasses the learning. The risk runs both ways at once: [[multilingual-learning|language support]] can improve access, and [[automated-assessment|automated scoring]] can still misread the student. In one physics study, explanations of lower linguistic quality were systematically graded below expert judgment by every AI scoring approach tested, nine [[machine-learning|machine learning]] and two language-model systems across 116 secondary-school students ([[ai-scoring-language-bias-physics|Feser and Tschisgale, 2026]]). Fluency and understanding were being scored as one thing.
 
 ## The short version
 
@@ -51,7 +51,7 @@ Write the decision down where students can read it. If students may translate di
 
 Assessment is where the evidence gets sharper and the stakes rise. [[ai-scoring-language-bias-physics|Feser and Tschisgale (2026)]] compared eleven automated scoring approaches against human expert scores for 116 secondary-school students' physics explanations and found systematic underestimation of conceptual understanding for linguistically weaker explanations, in every single approach. The design isolates the mechanism: the same conceptual content, expressed in weaker prose, scored lower. This is not a claim about any particular country's multilingual students, and it is exactly the pattern that makes overall scoring agreement a poor diagnostic. A scorer can agree with human markers on average while erring in a consistent direction for the students whose language is still developing.
 
-The [[multilingual-learning]] synthesis describes writing-screening research showing multilingual predictive-bias patterns that resemble human scoring biases. Read the three findings together and the operational lesson is narrow: neither "AI removes human bias" nor "AI adds linguistic bias" is a useful rule. What you need is a check on the task, the population and the language, at the point where a score becomes a grade.
+The [[multilingual-learning|multilingual learning]] synthesis describes writing-screening research showing multilingual predictive-bias patterns that resemble human scoring biases. Read the three findings together and the operational lesson is narrow: neither "AI removes human bias" nor "AI adds linguistic bias" is a useful rule. What you need is a check on the task, the population and the language, at the point where a score becomes a grade.
 
 ## Give the tool a specific supporting role
 
@@ -116,6 +116,6 @@ Provide workable alternatives. Students need a clear path to human language supp
 
 ## Where to go next
 
-[[multilingual-learning]] is the concept page for language, translanguaging and assessment in AI-mediated teaching, and [[assessment-validity|assessment validity]] is the standard for whether a score supports the inference you are making. [[differential-effects-across-learner-groups]] covers how to look for subgroup patterns rather than assume them.
+[[multilingual-learning|Multilingual learning]] is the concept page for language, translanguaging and assessment in AI-mediated teaching, and [[assessment-validity|assessment validity]] is the standard for whether a score supports the inference you are making. [[differential-effects-across-learner-groups|Differential effects across learner groups]] covers how to look for subgroup patterns rather than assume them.
 
 For the writing-instruction case where language is the construct, see [[writing-instruction-ai-best-practices|best practices for writing instruction]]. For whether automated scoring can be trusted at all in your setting, see [[ai-grading-fairness-reliability|AI grading]] and [[checking-whether-educational-ai-works|checking whether an educational AI works]].

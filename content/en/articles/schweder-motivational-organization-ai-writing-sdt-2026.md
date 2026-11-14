@@ -23,7 +23,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Four hundred and six students in Grades 5–8 at three German [[k-12|secondary schools]] wrote two comparable creative-narrative tasks — one with no digital tools, one with [[generative-ai|GenAI]] optionally available — and reported their [[motivation]] regulation after each. Mean levels barely moved, which is what a conventional analysis would have concluded. Person-centered [[latent-profile-analysis|latent profile analysis]] found five motivational configurations at both occasions, substantial redistribution between them, and one psychological need that did drop: autonomy satisfaction fell by 0.28 on the scale. How much a student used the AI did not predict which profile they belonged to.
+> **Synthesis:** Four hundred and six students in Grades 5–8 at three German [[k-12|secondary schools]] wrote two comparable creative-narrative tasks — one with no digital tools, one with [[generative-ai|GenAI]] optionally available — and reported their [[motivation|motivation]] regulation after each. Mean levels barely moved, which is what a conventional analysis would have concluded. Person-centered [[latent-profile-analysis|latent profile analysis]] found five motivational configurations at both occasions, substantial redistribution between them, and one psychological need that did drop: autonomy satisfaction fell by 0.28 on the scale. How much a student used the AI did not predict which profile they belonged to.
 
 ## Key Findings
 

@@ -13,7 +13,7 @@ confidence: medium
 page_kind: [framework, evaluation]
 ---
 
-> **Synthesis:** VETTING: A dual-[[llm]] framework for in-loop safety verification via policy isolation in educational AI
+> **Synthesis:** VETTING: A dual-[[llm|LLM]] framework for in-loop safety verification via policy isolation in educational AI
 
 ## Key Findings
 
@@ -23,7 +23,7 @@ page_kind: [framework, evaluation]
 - Across 1250 student–[[student-ai-interaction|AI interaction]] turns, only 51 turns (4.1%) triggered verification, concentrated in 25 conversations (16.6% of all conversations); the presence of risky keywords in prompts raised the odds of verification failure more than fourfold (OR = 4.59, 95% CI [2.04, 10.34], p < .001).
 - The work documents a taxonomy of student boundary-testing behaviors observed during authentic classroom use: eight violation categories, led by Romantic or Intimate Relationship Themes (30.2% of instances) and Inappropriate or Mature Topics (26.4%), with students frequently rephrasing or escalating prompts after verification failures.
 - Policy isolation keeps policy specifications hidden during interaction, making circumvention attempts monitorable and auditable rather than embedded in prompts.
-- An [[open-source]] Python implementation of the framework is available.
+- An [[open-source|open source]] Python implementation of the framework is available.
 
 ## Study Design & Method
 
@@ -35,7 +35,7 @@ Educational AI systems increasingly rely on large language models to support stu
 - **Designers.** Budget explicitly for the overhead, which is modest because verification fires rarely: an estimated 91.2% reduction in inappropriate content exposure cost a 19.6% increase in token usage (628,011 tokens, about 12,560 tokens per prevented violation) and raised median response latency from 2.9 s to 6.6 s on verification-triggered turns.
 - **Instructors.** Prepare classroom guidance from the eight-category taxonomy of boundary-testing behaviors observed in authentic use — led by Romantic or Intimate Relationship Themes (30.2% of instances) and Inappropriate or Mature Topics (26.4%) — because students frequently rephrased or escalated prompts after verification failures.
 - **Designers.** Keep policy specifications hidden during interaction so circumvention attempts stay monitorable and auditable, and treat risky keywords in prompts as a prioritization signal, since their presence raised the odds of verification failure more than fourfold (OR = 4.59, 95% CI [2.04, 10.34], p < .001).
-- **Administrators.** Plan human oversight alongside automated checks: only 51 of 1250 student–[[student-ai-interaction|AI interaction]] turns (4.1%), concentrated in 25 conversations (16.6%), triggered verification, so verifier-based [[pedagogical-safety|safeguards]] in [[human-in-the-loop-ai]] deployments complement rather than replace instructor review.
+- **Administrators.** Plan human oversight alongside automated checks: only 51 of 1250 student–[[student-ai-interaction|AI interaction]] turns (4.1%), concentrated in 25 conversations (16.6%), triggered verification, so verifier-based [[pedagogical-safety|safeguards]] in [[human-in-the-loop-ai|human-in-the-loop]] deployments complement rather than replace instructor review.
 
 ## Limitations
 

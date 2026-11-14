@@ -14,7 +14,7 @@ level: [higher ed]
 page_kind: [framework]
 ---
 
-> **Synthesis:** Xie, Yang, Zhang, Li, Wang, Yang & Gao (2026) propose HiLLM-CD, a tree-structured framework for cognitive diagnosis that represents student proficiency as node-wise values on a concept tree, enabling coarse-to-fine diagnosis. A [[agentic-ai|multi-agent]] [[llm]] pipeline eliminates the need for expert annotations by automatically generating concept trees and exercise-concept links from educational text. Evaluated on MOOCCubeX across four subjects, HiLLM-CD improves response prediction by 11.1% AUC and proficiency reliability by 0.597 Kendall's τ under fully unannotated settings.
+> **Synthesis:** Xie, Yang, Zhang, Li, Wang, Yang & Gao (2026) propose HiLLM-CD, a tree-structured framework for [[cognitive-diagnosis|cognitive diagnosis]] that represents student proficiency as node-wise values on a concept tree, enabling coarse-to-fine diagnosis. A [[agentic-ai|multi-agent]] [[llm|LLM]] pipeline eliminates the need for expert annotations by automatically generating concept trees and exercise-concept links from educational text. Evaluated on MOOCCubeX across four subjects, HiLLM-CD improves response prediction by 11.1% AUC and proficiency reliability by 0.597 Kendall's τ under fully unannotated settings.
 
 ## Key Contributions
 
@@ -24,7 +24,7 @@ page_kind: [framework]
 
 ## Approach
 
-HiLLM-CD departs from traditional [[cognitive-diagnosis]] methods that treat concepts as independent skills. Instead, it models proficiency on a **concept tree** where leaves represent atomic concepts and internal nodes summarize coarser concept groups. This aligns with how educators naturally think about student competence — starting broad and narrowing to specific weaknesses.
+HiLLM-CD departs from traditional [[cognitive-diagnosis|cognitive diagnosis]] methods that treat concepts as independent skills. Instead, it models proficiency on a **concept tree** where leaves represent atomic concepts and internal nodes summarize coarser concept groups. This aligns with how educators naturally think about student competence — starting broad and narrowing to specific weaknesses.
 
 The framework runs in three stages:
 - **Annotation:** LLM agents tag exercises with concepts and cluster concepts hierarchically

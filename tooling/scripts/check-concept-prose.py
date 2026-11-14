@@ -115,10 +115,16 @@ def _render_form(line: str) -> str:
     `[[new-slug|label]]`) renders identically, so it is not new prose. A rename
     sweep touches every line carrying the old slug, and without this the gate
     reports the pre-existing long sentences on those lines as freshly added --
-    nine false defects on the 2026-10-02 rename. A bare `[[slug]]` is left alone
-    on purpose: its rendered text is the target's title, so it really did change.
+    nine false defects on the 2026-10-02 rename.
+
+    A display-text change (`[[slug]]` -> `[[slug|label]]`, or the reverse) is
+    also not new prose: the sentence is the same one, only the link's label
+    differs. Both forms canonicalise to `[[target]]`, so a label sweep is not
+    charged with re-adding every sentence it touches. Sentences the change
+    really does add still diff as additions.
     """
-    return re.sub(r'\[\[[^\]|]+\|([^\]]*)\]\]', r'[[\1]]', line)
+    return re.sub(r'\[\[([^\]|]+)(?:\|[^\]]*)?\]\]',
+                  lambda m: f'[[{m.group(1).strip()}]]', line)
 
 
 def added_lines(slug: str) -> list[str]:

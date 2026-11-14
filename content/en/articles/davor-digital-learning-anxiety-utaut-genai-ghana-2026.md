@@ -39,7 +39,7 @@ methods: [quantitative-research]
 
 UTAUT is a reasonable fit for a tool students can choose to adopt, and this study's contribution is the affective term. Most adoption work treats resistance as a belief problem — students doubt the tool's usefulness — and the coefficient here says the stronger negative is emotional: anxiety about learning with the tool reduces intention over and above how useful or easy students find it.
 
-The pathway is the useful part. Effort expectancy did not only raise intention directly; it lowered anxiety, which in turn raised intention. That makes ease of interaction a mental-health-adjacent design property rather than a convenience, and it suggests that demonstrations, [[scaffolding]] and low-stakes first tasks may do more for adoption than testimonials about performance.
+The pathway is the useful part. Effort expectancy did not only raise intention directly; it lowered anxiety, which in turn raised intention. That makes ease of interaction a mental-health-adjacent design property rather than a convenience, and it suggests that demonstrations, [[scaffolding|scaffolding]] and low-stakes first tasks may do more for adoption than testimonials about performance.
 
 ## Why social influence failed
 

@@ -14,7 +14,7 @@ confidence: medium
 page_kind: [framework]
 ---
 
-> **Synthesis:** Vendrell & Johnston (2026) propose a design-oriented [[pedagogy|pedagogical]] framework for integrating LLMs into [[higher-ed|higher education]] in ways that strengthen rather than displace [[critical-thinking|critical thinking]]. Drawing from [[cognitive-psychology|cognitive psychology]], educational theory, and AI ethics, the framework addresses the risk that unstructured [[llm]] use leads to [[cognitive-offloading|cognitive offloading]], [[metacognition|metacognitive]] disengagement, and reduced [[agency|epistemic agency]].
+> **Synthesis:** Vendrell & Johnston (2026) propose a design-oriented [[pedagogy|pedagogical]] framework for integrating LLMs into [[higher-ed|higher education]] in ways that strengthen rather than displace [[critical-thinking|critical thinking]]. Drawing from [[cognitive-psychology|cognitive psychology]], educational theory, and AI ethics, the framework addresses the risk that unstructured [[llm|LLM]] use leads to [[cognitive-offloading|cognitive offloading]], [[metacognition|metacognitive]] disengagement, and reduced [[agency|epistemic agency]].
 
 ## The Problem: Unstructured LLM Use
 
@@ -39,7 +39,7 @@ The framework identifies six interconnected cognitive and metacognitive processe
 | **1. Conceptual interpretation** | Actively constructing meaning by selecting, organizing, and integrating information; distinguishing core ideas from peripheral details. Aligned with Bloom's "Understand" and "Analyze" levels. |
 | **2. Inferential reasoning** | Generating warranted conclusions from evidence; identifying assumptions, discerning logical relationships, and predicting implications. The cognitive bridge between information and action. |
 | **3. [[evaluative-judgment|Evaluative judgment]]** | Assessing credibility, coherence, and evidentiary support of claims. What Bielik & Krell (2025) call *epistemic vigilance* — the capacity to critically assess both source credibility and claim validity. |
-| **4. Metacognitive [[regulation]]** | Monitoring, evaluating, and strategically controlling one's cognitive processes. Transforms critical thinking from episodic acts into sustained, [[self-directed-learning|self-directed]] practice. |
+| **4. Metacognitive [[regulation|regulation]]** | Monitoring, evaluating, and strategically controlling one's cognitive processes. Transforms critical thinking from episodic acts into sustained, [[self-directed-learning|self-directed]] practice. |
 | **5. Intellectual curiosity** | The [[motivation|motivational]] disposition to explore ideas, ask questions, and pursue knowledge beyond instrumental goals. Fuels cognitive persistence and epistemic openness. |
 | **6. Epistemic integrity** | The [[ethics|ethical]] orientation to seek truth, evaluate claims fairly, and engage with complexity conscientiously. Combines intellectual honesty with critical reflexivity. |
 
@@ -58,11 +58,11 @@ The framework identifies six interconnected cognitive and metacognitive processe
 
 ## Connection to Existing Frameworks
 
-This model aligns with the [[finkelstein-principled-ai-education-2025]] principle of augmenting rather than displacing human cognition. The emphasis on sequencing echoes findings in [[stanford-evidence-base-ai-k12-2026]] that pedagogically-designed AI outperforms raw LLM [[conversational-ai|chatbots]] on [[learning-gains|learning outcomes]]. The metacognitive focus connects to [[self-regulated-learning]] cycles of planning, monitoring, and evaluation, while drawing on [[feedback-literacy|feedback literacy]] principles (Carless & Boud, 2018).
+This model aligns with the [[finkelstein-principled-ai-education-2025|Finkelstein (2025)]] principle of augmenting rather than displacing human cognition. The emphasis on sequencing echoes findings in [[stanford-evidence-base-ai-k12-2026|Walker et al. (2026)]] that pedagogically-designed AI outperforms raw LLM [[conversational-ai|chatbots]] on [[learning-gains|learning outcomes]]. The metacognitive focus connects to [[self-regulated-learning|self-regulated learning]] cycles of planning, monitoring, and evaluation, while drawing on [[feedback-literacy|feedback literacy]] principles (Carless & Boud, 2018).
 
-P1's use of counterarguments as cognitive stimuli parallels the [[socratic-method]] approach of using questions to foster expert-like reasoning. P7's assessment alignment extends [[formative-assessment]] principles into AI-mediated contexts, and the emphasis on preserving [[agency|learner agency]] connects to [[ai-learning-companions-framework]] which prioritizes learning over performance. The focus on epistemic integrity and the risk of over-reliance also speaks to [[transfer-of-learning]] — the central question of whether AI-assisted gains persist when tools are removed.
+P1's use of counterarguments as cognitive stimuli parallels the [[socratic-method|socratic method]] approach of using questions to foster expert-like reasoning. P7's assessment alignment extends [[formative-assessment|formative assessment]] principles into AI-mediated contexts, and the emphasis on preserving [[agency|learner agency]] connects to [[ai-learning-companions-framework|Khosravi et al. (2026)]] which prioritizes learning over performance. The focus on epistemic integrity and the risk of over-reliance also speaks to [[transfer-of-learning|transfer of learning]] — the central question of whether AI-assisted gains persist when tools are removed.
 
-P2's scaffolded positioning of LLMs aligns with [[ai-literacy]] frameworks that progress from understanding to critical engagement to creative application, and the framework's overall [[design-based-research|design-based research]] methodology parallels the evidence standards discussed in [[stanford-evidence-base-ai-k12-2026]].
+P2's scaffolded positioning of LLMs aligns with [[ai-literacy|AI literacy]] frameworks that progress from understanding to critical engagement to creative application, and the framework's overall [[design-based-research|design-based research]] methodology parallels the evidence standards discussed in [[stanford-evidence-base-ai-k12-2026|Walker et al. (2026)]].
 
 ## Practical Application
 

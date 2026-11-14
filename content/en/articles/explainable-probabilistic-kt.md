@@ -12,7 +12,7 @@ confidence: medium
 page_kind: [framework]
 ---
 
-> **Synthesis:** **Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning** — Introduces **PLKT** (Probabilistic Logical Knowledge Tracing), an interpretable framework that reframes [[knowledge-tracing]] from sequential latent-state prediction into *goal-conditioned evidence reasoning* over a student's historical learning behaviors. PLKT replaces deterministic vector embeddings with **Beta-distributed probabilistic embeddings** that explicitly represent uncertainty in each knowledge state, extracts **multi-level behavioral patterns** (point-level and union-level) as interpretable evidence units, and aggregates them through explicit probabilistic logical conjunction. Across five public datasets PLKT achieves state-of-the-art prediction performance while producing auditable reasoning paths that link each prediction to specific past student actions.
+> **Synthesis:** **Explainable Knowledge Tracing via Probabilistic Embeddings and Pattern-based Reasoning** — Introduces **PLKT** (Probabilistic Logical Knowledge Tracing), an interpretable framework that reframes [[knowledge-tracing|knowledge tracing]] from sequential latent-state prediction into *goal-conditioned evidence reasoning* over a student's historical learning behaviors. PLKT replaces deterministic vector embeddings with **Beta-distributed probabilistic embeddings** that explicitly represent uncertainty in each knowledge state, extracts **multi-level behavioral patterns** (point-level and union-level) as interpretable evidence units, and aggregates them through explicit probabilistic logical conjunction. Across five public datasets PLKT achieves state-of-the-art prediction performance while producing auditable reasoning paths that link each prediction to specific past student actions.
 
 **Wu, Xu, & Zhang** (East China Normal University) — arXiv:2605.09369, May 2026. arXiv preprint (cs.AI).
 
@@ -54,8 +54,8 @@ Case studies on the Junyi dataset illustrate the interpretability payoff. At the
 ## What this means for practice
 
 - **Learners.** Read a knowledge-tracing estimate as a hypothesis about what to practice next rather than a verdict, and ask for the evidence behind it: PLKT's Beta-distributed embeddings keep a spread around each mastery estimate, so "not enough evidence yet" is a legitimate system response.
-- **Instructors.** Inspect the reasoning path behind each [[knowledge-tracing]] recommendation before acting on it — PLKT ties a prediction to specific past responses on conceptually aligned questions, which is what makes an automated practice recommendation checkable against the work the student actually completed.
-- **Designers.** Make uncertainty visible in the interface instead of hiding it, for [[formative-assessment]] and [[feedback]] loops as much as for practice recommendation: the ablation shows probabilistic embeddings are the most critical component, with removal costing up to ~17% AUC.
+- **Instructors.** Inspect the reasoning path behind each [[knowledge-tracing|knowledge tracing]] recommendation before acting on it — PLKT ties a prediction to specific past responses on conceptually aligned questions, which is what makes an automated practice recommendation checkable against the work the student actually completed.
+- **Designers.** Make uncertainty visible in the interface instead of hiding it, for [[formative-assessment|formative assessment]] and [[feedback|feedback]] loops as much as for practice recommendation: the ablation shows probabilistic embeddings are the most critical component, with removal costing up to ~17% AUC.
 - **Researchers.** Report dataset-by-dataset results when claiming an interpretability advantage, because PLKT's gains over twelve baselines range from 0.06% to 3.73% ACC and 0.75% to 5.24% AUC and are largest only on the complex, large-concept-space datasets.
 
 ## Limitations

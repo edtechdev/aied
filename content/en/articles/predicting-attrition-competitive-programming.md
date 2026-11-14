@@ -20,7 +20,7 @@ page_kind: [evaluation]
 
 ### Behavioral findings: what precedes attrition
 
-The behavioral analysis confirmed that true attrition is preceded by an **83.71% reduction in contest participation** and consistent underperformance on skill-related metrics. The authors also validate a **Skill-Application Paradox**: students who stop report higher theoretical confidence than their active peers yet exhibit significantly weaker practice habits (significant at *p* < .001 for upsolving habit and peer circle density). This disconnect between [[self-report-measures|self-reported]] confidence and actual practice behavior is a distinctive [[self-efficacy]] signal for [[learning-analytics|early-warning]].
+The behavioral analysis confirmed that true attrition is preceded by an **83.71% reduction in contest participation** and consistent underperformance on skill-related metrics. The authors also validate a **Skill-Application Paradox**: students who stop report higher theoretical confidence than their active peers yet exhibit significantly weaker practice habits (significant at *p* < .001 for upsolving habit and peer circle density). This disconnect between [[self-report-measures|self-reported]] confidence and actual practice behavior is a distinctive [[self-efficacy|self-efficacy]] signal for [[learning-analytics|early-warning]].
 
 ### Predictive modeling
 

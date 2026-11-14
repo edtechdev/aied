@@ -36,7 +36,7 @@ Cluster analysis of chatbot usage and discussion patterns showed that users in t
 ## Limitations
 
 - Grading validity is the study's own first-listed limitation: human checks of the GPT-5.2 scores were done by eye and never written down as scores, so no inter-rater reliability can be reported, and GPT may grade GPT-phrased answers more favorably.
-- With 16–17 participants per condition (50 total), the sample lacks power for subgroup analyses by AI/[[llm]] proficiency or age.
+- With 16–17 participants per condition (50 total), the sample lacks power for subgroup analyses by AI/[[llm|LLM]] proficiency or age.
 - The study was restricted to a single subject domain (nuclear safety) focused mostly on factual knowledge, measured short-term retention only, and the recommended 30-minute duration may have created implicit time pressure that penalized the Socratic mode; interest in the topic was not measured.
 - Participants may have behaved differently because of the EEG device (a Hawthorne effect), and reported gains come from a post-test immediately after the session, not from delayed retention.
 

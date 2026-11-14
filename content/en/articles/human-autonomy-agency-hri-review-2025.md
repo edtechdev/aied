@@ -15,11 +15,11 @@ methods: [meta-analysis-systematic-review]
 institutions: [governance]
 ---
 
-> **Synthesis:** Glawe, Schmeckel, Brauner, and Ziefle (2025) [[meta-analysis-systematic-review|systematically review]] empirical studies on human autonomy and sense of agency in human-robot interaction (HRI), aiming to bridge the gap between design frameworks and [[regulation|regulatory]] demands (e.g., the EU AI Act, IEEE Ethically Aligned Design) on one hand and available empirical evidence on the other. Using the PRISMA workflow, they queried five databases and identified 22 empirical studies published between 2011 and early 2024. Across both concepts, separate [[research-methods-aied|methodological]] strands emerged: [[self-determination-theory]]-based measures of autonomy via psychometric scales, and neuroscientific measures of agency (primarily intentional binding).
+> **Synthesis:** Glawe, Schmeckel, Brauner, and Ziefle (2025) [[meta-analysis-systematic-review|systematically review]] empirical studies on human autonomy and sense of [[agency|agency]] in human-robot interaction (HRI), aiming to bridge the gap between design frameworks and [[regulation|regulatory]] demands (e.g., the EU AI Act, IEEE Ethically Aligned Design) on one hand and available empirical evidence on the other. Using the PRISMA workflow, they queried five databases and identified 22 empirical studies published between 2011 and early 2024. Across both concepts, separate [[research-methods-aied|methodological]] strands emerged: [[self-determination-theory|self-determination theory]]-based measures of autonomy via psychometric scales, and neuroscientific measures of agency (primarily intentional binding).
 
 ## Key Findings
 
-- **Human autonomy and sense of agency are core human values** foundational to [[well-being]], intertwined in definition and central to current ethical and [[governance]] discourses on AI and cyber-physical systems (EU AI Act, IEEE Ethically Aligned Design).
+- **Human autonomy and sense of agency are core human values** foundational to [[well-being|well-being]], intertwined in definition and central to current ethical and [[governance|governance]] discourses on AI and cyber-physical systems (EU AI Act, IEEE Ethically Aligned Design).
 - A **PRISMA-guided systematic review** of five databases identified **22 empirical studies** published 2011–early 2024 on autonomy and sense of agency in HRI.
 - **Two distinct methodological strands emerged:** self-determination-theory-based psychometric measures of autonomy, and neuroscientific measures of agency (primarily intentional binding).
 - The review bridges design frameworks and regulatory demands with empirical evidence, highlighting gaps and directions for HRI design and governance.
@@ -40,7 +40,7 @@ This is a **systematic literature review** following the PRISMA workflow. The au
 
 - **Twenty-two studies, a fragmented field.** The review rests on 22 studies, reflecting a young and methodologically fragmented literature.
 - **Two concepts, incompatible instruments.** Autonomy and agency are measured with very different instruments, which makes cross-study synthesis difficult.
-- **A window that closes in early 2024.** The temporal scope of 2011 to early 2024 predates the widespread use of [[llm]]-powered social robots, so recent developments may be underrepresented.
+- **A window that closes in early 2024.** The temporal scope of 2011 to early 2024 predates the widespread use of [[llm|LLM]]-powered social robots, so recent developments may be underrepresented.
 - **Human–robot interaction broadly, education only in part.** The review's scope is HRI rather than education specifically.
 
 ## Citation

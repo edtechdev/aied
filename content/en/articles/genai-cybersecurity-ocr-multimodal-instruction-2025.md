@@ -13,13 +13,13 @@ confidence: medium
 audience: [instructors, instructional designers]
 ---
 
-> **Synthesis:** Patel et al. (2025) present an [[llm]]-assisted instructional integration with a virtual cybersecurity lab platform, addressing workforce [[professional-training|reskilling]] needs driven by the digital transformation of Fourth Industrial Revolution (4IR) systems. Recognizing that the workforce must be reskilled and upskilled for STEM skills such as robotics, automation, AI, and security, the authors integrated a generative-AI instructional assistant into a prior [[experiential-learning|experiential learning]] platform. The system assists trainees by acting as an instructional assistant, helping students build skill sets while performing experiential learning exercises.
+> **Synthesis:** Patel et al. (2025) present an [[llm|LLM]]-assisted instructional integration with a virtual cybersecurity lab platform, addressing workforce [[professional-training|reskilling]] needs driven by the digital transformation of Fourth Industrial Revolution (4IR) systems. Recognizing that the workforce must be reskilled and upskilled for STEM skills such as robotics, automation, AI, and security, the authors integrated a generative-AI instructional assistant into a prior [[experiential-learning|experiential learning]] platform. The system assists trainees by acting as an instructional assistant, helping students build skill sets while performing experiential learning exercises.
 
 ## Key Findings
 
 - The rapid digital transformation of **4IR systems is transforming workforce needs**, increasing skill-set gaps, especially for older workers, with growing emphasis on robotics, automation, AI, and security skills.
 - **[[generative-ai|Generative AI]] can aid workforce building** by acting as an instructional assistant that helps trainees build skills during experiential learning exercises.
-- The paper presents a **generative-AI-based instructional assistant integrated into a virtual cybersecurity lab platform**, leveraging OCR and [[multimodal]] LLM capabilities to assist instruction.
+- The paper presents a **generative-AI-based instructional assistant integrated into a virtual cybersecurity lab platform**, leveraging OCR and [[multimodal|multimodal]] LLM capabilities to assist instruction.
 - The approach supports **experiential, hands-on learning** in cybersecurity education.
 
 ## Study Design & Method
@@ -31,7 +31,7 @@ This is a **[[research-methods-aied|research]]-category full paper** describing 
 - **Instructors.** Integrate a generative-AI instructional assistant into the hands-on lab so trainees get on-demand help while performing the exercise, which the paper's live-course feedback rated 7.83 on a 1-to-10 scale across 42 responses.
 - **Instructors.** Use a zero-shot OCR plus LLM pipeline to extract slide text and regenerate simplified instructions in real time, bringing modern generative capability into a legacy platform for minimal infrastructure and integration effort.
 - **Instructional designers.** Choose the pipeline by slide type: a multimodal LLM handled dense visual slides better, while the OCR-based pipeline delivered comparable instructional value on text-centric slides at significantly lower computational overhead and operational cost.
-- **Instructional designers.** Design the AI as an assistant that supports the [[experiential-learning]] exercise rather than as a standalone tutor, and keep a human check on simplified instructions before trainees rely on them in a security lab.
+- **Instructional designers.** Design the AI as an assistant that supports the [[experiential-learning|experiential learning]] exercise rather than as a standalone tutor, and keep a human check on simplified instructions before trainees rely on them in a security lab.
 
 ## Limitations
 

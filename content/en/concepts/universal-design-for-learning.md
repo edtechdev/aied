@@ -1,7 +1,7 @@
 ---
 title: Universal Design for Learning
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -25,7 +25,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-UDL rests on the insight that learner variability is the norm, not the exception. Rather than designing a single path and adding support for those who struggle, UDL designs multiple pathways from the start so that barriers are removed for everyone. It is a core lens for [[inclusive-learning]], [[equity-in-ai-education]], and [[special-education]].
+UDL rests on the insight that learner variability is the norm, not the exception. Rather than designing a single path and adding support for those who struggle, UDL designs multiple pathways from the start so that barriers are removed for everyone. It is a core lens for [[inclusive-learning|inclusive learning]], [[equity-in-ai-education|equity]], and [[special-education|special education]].
 
 ### The three principles
 
@@ -35,16 +35,16 @@ UDL rests on the insight that learner variability is the norm, not the exception
 
 ### UDL in the AI era
 
-[[generative-ai|Generative AI]] creates new opportunities and new risks for UDL. AI can personalize representation and provide alternative pathways, supporting [[personalized-learning]] and accessibility. But it can also encode bias, assume dominant communication styles, and — if it reduces learner agency — undermine the engagement principle. [[research-methods-aied|Research]] on [[ai-misuse-learning-harm]] and equity shows that AI tools must be designed with inclusive principles or they recapitulate [[equity-in-ai-education]] gaps. UDL therefore informs both how AI is deployed and how AI-literacy and assessment are designed to be fair across learner variability.
+[[generative-ai|Generative AI]] creates new opportunities and new risks for UDL. AI can personalize representation and provide alternative pathways, supporting [[personalized-learning|personalized learning]] and accessibility. But it can also encode bias, assume dominant communication styles, and — if it reduces learner agency — undermine the engagement principle. [[research-methods-aied|Research]] on [[ai-misuse-learning-harm|AI misuse]] and equity shows that AI tools must be designed with inclusive principles or they recapitulate [[equity-in-ai-education|equity]] gaps. UDL therefore informs both how AI is deployed and how AI-literacy and assessment are designed to be fair across learner variability.
 
-Equity-by-design is one concrete way to operationalize this stance. Wenzel, Geiger, and Liening (2026) ground their CAIS-GBL framework for AI [[conversational-ai|conversational agents]] in business [[simulation]] games in an explicit **equity-by-design** approach aligned with universal design for learning, deriving meta-requirements that span cognitive, [[motivation|motivational]], [[affective-computing|affective]], and [[sociocultural-learning|socio-cultural]] engagement. Their design principles and features aim to address individual learner differences in strengths, challenges, and interests — a concrete application of UDL principles to the design of adaptive, AI-supported [[game-based-learning|game-based learning]].
+Equity-by-design is one concrete way to operationalize this stance. Wenzel, Geiger, and Liening (2026) ground their CAIS-GBL framework for AI [[conversational-ai|conversational agents]] in business [[simulation|simulation]] games in an explicit **equity-by-design** approach aligned with universal design for learning, deriving meta-requirements that span cognitive, [[motivation|motivational]], [[affective-computing|affective]], and [[sociocultural-learning|socio-cultural]] engagement. Their design principles and features aim to address individual learner differences in strengths, challenges, and interests — a concrete application of UDL principles to the design of adaptive, AI-supported [[game-based-learning|game-based learning]].
 A tool can serve all three UDL principles and still narrow what a lecturer decides. [[alenezi-ai-universal-design-learning-kuwait-2026|Alenezi (2026)]] argues that mapping a tool to a UDL principle is necessary but not sufficient for that reason, and proposes an annual deprofessionalization audit and a vendor-dependency register among its checks.
 
 AI also appears in this literature as an obstacle to UDL rather than an instrument of it. In [[faculty-accessible-course-design-ai-2026|Sidhu, Atif and Newland's (2026)]] [[mixed-methods-research|mixed-methods]] study of 69 professors at one Ontario university, one of the four key themes is that [[generative-ai|generative AI]] is reversing progress in accessible course design. The title quotation, "AI is reducing options I had used", comes from their interviews, because the take-home and drafting-based assignments that had done inclusion work are the ones an AI can now complete outright. Their faculty-level findings show why that setback lands on an already thin base: 90% of respondents believed they create an accessible learning environment and 87% said they actively consider accessibility. Yet fewer than half (46%) thought the university offered sufficient resources for it, and roughly a fifth had never heard of techniques as basic as OCR-readable PDFs or color-independent links. Demand is outrunning provision — Ontario university enrollments grew 17% from 2013 to 2022 while registrations with accessibility services rose 126% — so the case the study makes is that UDL support has to be resourced to compensate for the assessment options AI removed.
 
 ### Connections
 
-UDL connects to [[inclusive-learning]], [[equity-in-ai-education]], [[special-education]], [[learning-design]], and [[culturally-relevant-pedagogy]]. In assessment, it intersects with [[authentic-assessment]]'s emphasis on representational [[bias-mitigation|fairness]] and with [[reducing-ai-misuse]] as a guardrail against tools that penalize particular communication styles. Because UDL is the framework most commonly invoked in higher-education disability contexts (where "special education" is a [[k-12]] term), it is often the right page to link for college and university disabled-learner research.
+UDL connects to [[inclusive-learning|inclusive learning]], [[equity-in-ai-education|equity]], [[special-education|special education]], [[learning-design|learning design]], and [[culturally-relevant-pedagogy|culturally relevant pedagogy]]. In assessment, it intersects with [[authentic-assessment|authentic assessment]]'s emphasis on representational [[bias-mitigation|fairness]] and with [[reducing-ai-misuse|reducing AI misuse]] as a guardrail against tools that penalize particular communication styles. Because UDL is the framework most commonly invoked in higher-education disability contexts (where "special education" is a [[k-12]] term), it is often the right page to link for college and university disabled-learner research.
 
 ## Implications and examples for instructors and instructional designers
 
@@ -57,19 +57,19 @@ UDL turns "fix the learner" into "fix the design." For instructors and designers
 
 **Representation — present information in multiple formats.**
 - Offer the same content as text, audio, video, and interactive — AI can auto-generate captions, transcripts, summaries, and alternative explanations at different reading levels.
-- *Example:* An instructor uses an AI assistant to produce a plain-language summary and an audio version of a dense reading, so learners can choose their entry point. Pair with [[accessibility]] (captions, alt text) so every format is usable.
+- *Example:* An instructor uses an AI assistant to produce a plain-language summary and an audio version of a dense reading, so learners can choose their entry point. Pair with [[accessibility|accessibility]] (captions, alt text) so every format is usable.
 
 **Action and expression — let learners show what they know in varied ways.**
 - Provide choice of assessment product (essay, presentation, video, diagram, code) aligned to the same learning outcome.
-- *Example:* A project allows submission as a written report, an AI-assisted video explainer, or a live demonstration — with AI [[scaffolding|scaffolds]] supporting each mode. In [[assessment]] design, this parallels [[authentic-assessment]]'s representational fairness.
+- *Example:* A project allows submission as a written report, an AI-assisted video explainer, or a live demonstration — with AI [[scaffolding|scaffolds]] supporting each mode. In [[assessment|assessment]] design, this parallels [[authentic-assessment|authentic assessment]]'s representational fairness.
 
 **Design for AI-literacy and agency.**
-- Teach students how and when to use AI, and build checkpoints that keep the learner (not the tool) accountable — see [[ai-literacy]] and [[reducing-ai-misuse]].
+- Teach students how and when to use AI, and build checkpoints that keep the learner (not the tool) accountable — see [[ai-literacy|AI literacy]] and [[reducing-ai-misuse|reducing AI misuse]].
 - *Example:* A UDL-aligned assignment lets students use AI to draft but requires a [[metacognition|metacognitive]] reflection on their own contribution, preserving the engagement and agency principles.
 
 **Use AI to remove barriers, not add them.**
 - Deploy AI to close performance gaps (e.g., AI-segmented videos with pauses helped ADHD learners) and to lower the cost of accessible formats.
-- Guard against AI that assumes one communication style or penalizes neurodivergent expression — connect to [[accessibility]], [[equity-in-ai-education]], and [[neurodiversity]].
+- Guard against AI that assumes one communication style or penalizes neurodivergent expression — connect to [[accessibility|accessibility]], [[equity-in-ai-education|equity]], and [[neurodiversity|neurodiversity]].
 
 - **Target functional barriers, not diagnoses.** [[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel et al. (2026)]] found the 40-study corpus of assistive technologies for neurodivergent students organized around accommodation and diagnosis-gated tools, and argue that designing to the cross-cutting barriers students actually face is what makes a tool plausibly universal.
 

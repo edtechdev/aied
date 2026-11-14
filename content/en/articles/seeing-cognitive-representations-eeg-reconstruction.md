@@ -25,7 +25,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Su, Ouyang, Shao and colleagues (2026) test whether images reconstructed from [[multimodal|EEG signals]] can serve as a process-sensitive indicator of what a learner is actually representing while watching an educational video. Twenty-three [[higher-ed|undergraduates]] watched four science videos while EEG was recorded, and a reconstruction model generated images from the signal segments aligned to video frames; reconstruction quality was scored as semantic similarity against the original frames using a CLIP-based metric. Three results converged: reconstruction quality rose with test performance in the sample, questions answered incorrectly corresponded to lower semantic similarity than those answered correctly, and systematic temporal misalignment — reconstructions resembling earlier frames — could be quantified as a dispersion measure associated with performance. The authors frame this as exploratory evidence for a neural measure of [[cognitive-psychology|cognitive state]] during learning, explicitly not as a validated [[assessment]] instrument.
+> **Synthesis:** Su, Ouyang, Shao and colleagues (2026) test whether images reconstructed from [[multimodal|EEG signals]] can serve as a process-sensitive indicator of what a learner is actually representing while watching an educational video. Twenty-three [[higher-ed|undergraduates]] watched four science videos while EEG was recorded, and a reconstruction model generated images from the signal segments aligned to video frames; reconstruction quality was scored as semantic similarity against the original frames using a CLIP-based metric. Three results converged: reconstruction quality rose with test performance in the sample, questions answered incorrectly corresponded to lower semantic similarity than those answered correctly, and systematic temporal misalignment — reconstructions resembling earlier frames — could be quantified as a dispersion measure associated with performance. The authors frame this as exploratory evidence for a neural measure of [[cognitive-psychology|cognitive state]] during learning, explicitly not as a validated [[assessment|assessment]] instrument.
 
 ## Key Findings
 
@@ -50,7 +50,7 @@ The headline figure — a regression coefficient of 0.8481 with an *R*² of 0.79
 - **Researchers.** Treat this as a sensitivity result to be replicated, not a measurement model. Independent samples, preregistered analyses that account for clustering within participants, and stimuli outside the training set are the obvious next steps.
 - **Educational technology developers.** The interesting engineering target is not the reconstruction model but the alignment pipeline — how EEG segments are matched to instructional events. That is what would make any neurocognitive signal usable in a learning system.
 - **Instructors.** Do not expect this to reach the classroom soon. The measure requires EEG hardware and a stimulus-specific model, so its nearer-term contribution is to research on attention and encoding during video instruction.
-- **Institutional review and [[ethics]] boards.** The study's approach to neural data sits squarely within [[privacy]] and consent questions, because decoded representations are more revealing than behavioral logs. [[governance]] for this class of data is not yet settled.
+- **Institutional review and [[ethics|ethics]] boards.** The study's approach to neural data sits squarely within [[privacy|privacy]] and consent questions, because decoded representations are more revealing than behavioral logs. [[governance|Governance]] for this class of data is not yet settled.
 
 ## Limitations
 
@@ -59,7 +59,7 @@ The headline figure — a regression coefficient of 0.8481 with an *R*² of 0.79
 - The item-level test ignores clustering. The authors state the correct-versus-incorrect comparison was tested without fully accounting for the non-independence of observations within participants, which inflates the apparent significance of the difference.
 - Reconstruction quality does not equal learning. Participant sub6 produced high-quality reconstructions and answered incorrectly, so semantic similarity cannot be read as a correctness measure.
 - The stimulus set is small and domain-specific. Four science videos with a trained reconstruction model mean generalization to other content, formats and disciplines is untested.
-- No comparison against established measures is reported. The paper does not [[benchmark]] semantic similarity against behavioral attention measures or standard assessment scores beyond the reported regression, so its incremental value over existing indicators is unknown.
+- No comparison against established measures is reported. The paper does not [[benchmark|benchmark]] semantic similarity against behavioral attention measures or standard assessment scores beyond the reported regression, so its incremental value over existing indicators is unknown.
 
 ## Citation
 

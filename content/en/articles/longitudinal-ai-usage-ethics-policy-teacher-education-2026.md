@@ -14,7 +14,7 @@ confidence: high
 institutions: [educational-policy-ai]
 ---
 
-> **Synthesis:** Parker, Loper, Carter, Hayes, and Karakas (2026) analyze four semesters of survey data from more than 300 students in a Midwestern US [[teacher-education]] program to trace the evolving use and [[ethics|ethical]] perceptions of [[generative-ai|generative AI]] after ChatGPT's launch. GenAI use grew substantially, especially for assessment preparation (57% to 83%) and studying (44% to 76%), while students showed growing uncertainty rather than fixed stances about ethical use, and ethical perceptions differed significantly between AI users and non-users.
+> **Synthesis:** Parker, Loper, Carter, Hayes, and Karakas (2026) analyze four semesters of survey data from more than 300 students in a Midwestern US [[teacher-education|teacher education]] program to trace the evolving use and [[ethics|ethical]] perceptions of [[generative-ai|generative AI]] after ChatGPT's launch. GenAI use grew substantially, especially for assessment preparation (57% to 83%) and studying (44% to 76%), while students showed growing uncertainty rather than fixed stances about ethical use, and ethical perceptions differed significantly between AI users and non-users.
 
 ## Key Findings
 
@@ -25,7 +25,7 @@ institutions: [educational-policy-ai]
 
 ## What this means for practice
 
-- **Administrators.** Replace the assumption that policy alone governs behavior with formal, ethics-inclusive AI training inside [[teacher-education]], because ethical uncertainty persisted even as use rose.
+- **Administrators.** Replace the assumption that policy alone governs behavior with formal, ethics-inclusive AI training inside [[teacher-education|teacher education]], because ethical uncertainty persisted even as use rose.
 - **Instructors.** Make acceptable AI use explicit in each course's rules and assignments, since students continued using ChatGPT for coursework while institutions adopted detection software.
 - **Administrators.** Treat [[ai-detection|AI detection]] as one weak signal rather than a governance tool; rising detection rates may reflect rising prevalence rather than better detectors.
 - **Instructors.** Schedule explicit ethical discussion, because in every wave students who used AI rated its academic use as more ethical than students who did not.

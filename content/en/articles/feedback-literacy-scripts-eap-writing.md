@@ -16,7 +16,7 @@ sources: ['raw/papers/feedback-literacy-scripts-eap-writing.md']
 confidence: medium
 ---
 
-> **Synthesis:** **In generative-AI-supported EAP writing revision, improvement depends less on the amount of feedback available than on whether learners process it through structured decision-making.** Yao (2026) used a large language model–driven classroom [[simulation]] (100 synthetic B2-level writer agents) in a 2 × 2 design to test a [[feedback-literacy|feedback literacy]] script (FRAC) and an AI second-review mechanism. The script produced a clear, robust benefit in the initial revision stage (Task 1 gain of 5.75 points; coefficient 7.09; permutation p = 0.0286), but did not raise feedback uptake — instead it redirected revision toward the **argument level**, which was the dimension positively associated with score gain (r = 0.755, p = 0.0304). The second-review mechanism, by contrast, produced no stable benefit.
+> **Synthesis:** **In generative-AI-supported EAP writing revision, improvement depends less on the amount of [[feedback|feedback]] available than on whether learners process it through structured decision-making.** Yao (2026) used a large language model–driven classroom [[simulation|simulation]] (100 synthetic B2-level writer agents) in a 2 × 2 design to test a [[feedback-literacy|feedback literacy]] script (FRAC) and an AI second-review mechanism. The script produced a clear, robust benefit in the initial revision stage (Task 1 gain of 5.75 points; coefficient 7.09; permutation p = 0.0286), but did not raise feedback uptake — instead it redirected revision toward the **argument level**, which was the dimension positively associated with score gain (r = 0.755, p = 0.0304). The second-review mechanism, by contrast, produced no stable benefit.
 
 ## Core Finding
 
@@ -26,7 +26,7 @@ As [[generative-ai|generative AI]] floods EAP classrooms with instant, abundant 
 
 ## Method
 
-- **Simulation design:** 100 B2-level [[llm]]-based writer agents generated under a unified prompt protocol, retaining limited variation in prior AI experience, risk aversion, [[metacognition|metacognitive]] awareness, and revision style. Because participants were simulated, no [[ethics]] approval was required.
+- **Simulation design:** 100 B2-level [[llm|LLM]]-based writer agents generated under a unified prompt protocol, retaining limited variation in prior AI experience, risk aversion, [[metacognition|metacognitive]] awareness, and revision style. Because participants were simulated, no [[ethics|ethics]] approval was required.
 - **Treatments:** Feedback literacy script (FRAC: identify comments relevant to task requirements, decide which affect argument/organization/evidence, prioritize changes, explain each choice) versus no script; and AI second-review mechanism versus none. Four groups: G1 control (n=40), G2 script only (n=40), G3 second-review only (n=10), G4 both (n=10).
 - **Tasks:** Task 1 (baseline + revision), Task 2 (transfer to a new topic, same genre), delayed Task 3 (retention).
 - **Analysis:** Revision-gain, revised-score, and delayed-retention regressions with HC3 robust standard errors; exact permutation tests; leave-one-out sensitivity; inter-rater ICC and inter-coder agreement. Unequal cell sizes (small second-review groups) were handled explicitly.

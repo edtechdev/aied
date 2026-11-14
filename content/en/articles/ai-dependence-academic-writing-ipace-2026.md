@@ -12,7 +12,7 @@ discipline: [writing education]
 level: [higher ed]
 ---
 
-> **Synthesis:** Liu, Zhuang, and Wang (2026) apply the I-PACE model of problematic use to [[generative-ai|generative AI]] dependence in undergraduate [[writing-education|academic writing]]. In a [[mixed-methods-research|mixed-methods]] study at two Chinese universities — a survey analyzed with structural equation modeling plus eight interviews — [[anxiety-and-stress|academic stress]] emerges as the strongest predictor of dependence, [[ai-literacy]] as a protective factor, and social influence as consequential only through perceived [[trust]]. Students knew AI's risks yet kept using it strategically, citing efficiency, peer pressure, and ambiguous institutional rules.
+> **Synthesis:** Liu, Zhuang, and Wang (2026) apply the I-PACE model of problematic use to [[generative-ai|generative AI]] dependence in undergraduate [[writing-education|academic writing]]. In a [[mixed-methods-research|mixed-methods]] study at two Chinese universities — a survey analyzed with structural equation modeling plus eight interviews — [[anxiety-and-stress|academic stress]] emerges as the strongest predictor of dependence, [[ai-literacy|AI literacy]] as a protective factor, and social influence as consequential only through perceived [[trust|trust]]. Students knew AI's risks yet kept using it strategically, citing efficiency, peer pressure, and ambiguous institutional rules.
 
 ## Key Findings
 
@@ -32,7 +32,7 @@ The [[qualitative-research|qualitative]] phase drew on open-ended survey respons
 ## What this means for practice
 
 - **Instructors.** Break long writing assignments into staged checkpoints with feedback, because academic stress was the strongest predictor of AI dependence and students under the heaviest workload pressure leaned most on AI to produce text.
-- **Instructors.** Teach [[ai-literacy]] as critical distance rather than tool operation: students who understood AI's limits and social consequences were less dependent, whereas students who could name the tool's failures still trusted its output.
+- **Instructors.** Teach [[ai-literacy|AI literacy]] as critical distance rather than tool operation: students who understood AI's limits and social consequences were less dependent, whereas students who could name the tool's failures still trusted its output.
 - **Administrators.** Publish an explicit, example-based definition of compliant AI use and make responsible use the easier path than concealment in [[assessment|assessment design]]; the eight interviewees mixed tools and rewrote output to evade [[ai-detection|detection]] while framing it as responsible, citing the absence of any clear institutional rule.
 - **Instructors.** Address peer norms and [[trust-calibration|trust calibration]] together, because social influence reached dependence only through perceived trust — conformity made AI feel credible rather than simply modeling use.
 

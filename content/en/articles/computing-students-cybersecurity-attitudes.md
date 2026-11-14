@@ -13,7 +13,7 @@ confidence: medium
 discipline: [cs education]
 ---
 
-> **Synthesis:** This study examines inconsistencies in [[cs-education|computing students']] attitudes toward cybersecurity: students report confidence in their cybersecurity knowledge but do not always translate this into safe practices. Because today's young adults are the most immersed in technology — yet also report feelings of powerlessness in managing online [[privacy]] across platforms and are particularly susceptible to phishing — the paper argues educational interventions are needed to close the gap between confidence and behavior.
+> **Synthesis:** This study examines inconsistencies in [[cs-education|computing students']] attitudes toward cybersecurity: students report confidence in their cybersecurity knowledge but do not always translate this into safe practices. Because today's young adults are the most immersed in technology — yet also report feelings of powerlessness in managing online [[privacy|privacy]] across platforms and are particularly susceptible to phishing — the paper argues educational interventions are needed to close the gap between confidence and behavior.
 
 Computing students show inconsistencies between confidence in cybersecurity knowledge and actual safe practices; educational interventions are needed to close the gap. Today's young adults are the most immersed in technology, leading in feelings of powerlessness in managing online privacy across many platforms, and particularly susceptible to phishing attacks. This raises questions about their general, wide-ranging attitudes toward and management of cybersecurity, motivating educational interventions that connect [[student-experience|student attitudes]] to actual practice in [[higher-ed|higher education]].
 
@@ -21,7 +21,7 @@ Computing students show inconsistencies between confidence in cybersecurity know
 
 - **Instructors.** Teach cybersecurity as practiced behavior, not as [[transfer-of-learning|knowledge transfer]]: among 236 computing students, confidence in cybersecurity knowledge did not consistently translate into safe practices.
 - **Instructors.** Build phishing-specific exercises rather than general awareness content, because this population is the most immersed in technology yet particularly susceptible to phishing attacks.
-- **Learners.** Do not read confidence as competence: participants reported confidence in their own knowledge while also reporting powerlessness in managing online [[privacy]] across platforms.
+- **Learners.** Do not read confidence as competence: participants reported confidence in their own knowledge while also reporting powerlessness in managing online [[privacy|privacy]] across platforms.
 - **Instructors.** Assess attitudes and behavior separately in [[cs-education|computing courses]], since the attitude clusters the study recovered did not map cleanly onto safe practice.
 
 ## Limitations

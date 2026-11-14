@@ -1,7 +1,7 @@
 ---
 title: Oral Assessment
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-11-13T10:10:00-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 connected_resources: [code-viva]
@@ -75,7 +75,7 @@ What counts as oral evidence is also narrower than it looks. [[multimodal-embodi
 
 Three findings cut against reading oral scores as [[learning-gains|learning gains]]. [[asynchronous-oral-assessment-2026|The asynchronous-format study]] disclaims learning gains for its own score advantage, and reports instructor-versus-model re-scoring agreement of ICC 0.73 at midterm and 0.60 at final, which bounds how far machine scoring can be trusted. In [[ai-standardized-patient-scaffolding-medical-2026|an RCT with one hundred third-year medical students]] comparing a simulated-patient system against progressive-disclosure case material, final examination performance rose (71.8 against 55.6 per cent, Hedges' g = −0.81). OSCE communication ratings also rose (3.53 against 2.64 on a five-point scale), while binary diagnostic accuracy was statistically identical (84 against 86 per cent, P = 1.000). An accuracy-only reading would call the intervention null; a communication-only reading would call it transformative.
 
-The binding constraint is staffing and hardware rather than [[pedagogy]], and the evidence is unusually candid about the arithmetic: twenty-eight contact-hours per semester for fifteen students, eleven teaching assistants for a class of over one hundred in the CS1 design, and one laptop serving twelve simultaneous learners in the offline vocational deployment. No randomized trial of oral against written assessment exists anywhere in this body of work, and every study that measures the difference is a single-institution design without a control group. Oral assessment is well supported as a response to AI-assisted substitution, and thinly supported as an improvement in learning.
+The binding constraint is staffing and hardware rather than [[pedagogy|pedagogy]], and the evidence is unusually candid about the arithmetic: twenty-eight contact-hours per semester for fifteen students, eleven teaching assistants for a class of over one hundred in the CS1 design, and one laptop serving twelve simultaneous learners in the offline vocational deployment. No randomized trial of oral against written assessment exists anywhere in this body of work, and every study that measures the difference is a single-institution design without a control group. Oral assessment is well supported as a response to AI-assisted substitution, and thinly supported as an improvement in learning.
 
 No format holds a fixed position in this trade-off: oral assessment's observability is a design choice, and its feasibility cost is one a program distributes rather than accepts — feasibility is an educational priority, not the constraint that erodes good practice ([[assessment-feedback-trilemma-model-2026|Pedlow et al. (2026)]]).
 

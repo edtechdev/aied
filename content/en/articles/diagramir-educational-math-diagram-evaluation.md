@@ -27,7 +27,7 @@ methods: [benchmark]
 ## What this means for practice
 
 - **Designers.** Evaluate generated figures by back-translating them into a schema-constrained intermediate representation and running deterministic checks, rather than asking an LLM to judge the rendered image: DiagramIR reached higher agreement with human raters (Cohen's kappa roughly 0.48-0.56) than LLM-as-a-Judge (roughly 0.39-0.47).
-- **Designers.** Reuse the rule set as the explanation for failure — the checks state which property broke (fully in frame, scaling, label association, overlap, angle/length match), giving teachers concrete [[feedback]] instead of an opaque score.
+- **Designers.** Reuse the rule set as the explanation for failure — the checks state which property broke (fully in frame, scaling, label association, overlap, angle/length match), giving teachers concrete [[feedback|feedback]] instead of an opaque score.
 - **Designers.** Know which check the pipeline cannot yet cover: the LLM judge still beat it on angle labels (Cohen's kappa 0.829 vs. 0.652), where verifying label position relative to geometric objects is hardest.
 - **Designers.** Lower the cost floor with a small model once verification is offloaded to rules — GPT-4.1-Mini matched the best LLM-judge (GPT-5) at roughly \$0.47 versus \$4.83 on the dataset, which is what makes real-time diagram feedback affordable in resource-constrained settings.
 

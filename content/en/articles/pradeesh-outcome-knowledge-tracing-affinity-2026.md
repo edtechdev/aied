@@ -38,7 +38,7 @@ page_kind: [evaluation, framework]
 - All results come from one institution's five-year OBE dataset (from 2017) covering three engineering programs (CSE, ECE, EEE; 2,416 students, 966 outcomes, 2,280 exams) captured through a single in-house LMS (AMPLE); the authors note that no public OBE dataset exists for comparison.
 - Architecture gains are narrow and do not survive the change of setting: the GRU variant beat an otherwise comparable LSTM (77.83% vs 77.24% accuracy), and on the public ASSISTments 2012–2013 dataset OKT scored 74.36% AUC against EKT's 75.29%, because affinity mappings, attainment thresholds, and targets have no counterpart there.
 - Evaluation is predictive only — AUC and accuracy against exam attainment — with no test of whether acting on the predictions improves learning, and the authors state that the patterns they observed could reflect demographic differences, [[prior-knowledge|prior knowledge]], or external influences on learning behavior that were not analyzed.
-- Knowledge states are 100-dimensional embeddings that the authors describe as not easy for humans to interpret directly, so any teacher-facing use depends on a separate [[visualization]] and interpretability layer.
+- Knowledge states are 100-dimensional embeddings that the authors describe as not easy for humans to interpret directly, so any teacher-facing use depends on a separate [[visualization|visualization]] and interpretability layer.
 
 ## Citation
 

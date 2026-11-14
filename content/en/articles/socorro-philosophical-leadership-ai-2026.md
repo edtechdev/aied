@@ -40,7 +40,7 @@ verified: [citation]
 3. **AI enhances rather than replaces, for an ethical reason.** Ethical discernment is the part of teaching no system supplies, which makes [[agency|teacher agency]] the mechanism that converts automation into learning.
 4. **Coaching and mentoring are the route to the role.** Philosophical leadership is a disposition developed through sustained professional relationships, not a competency acquired in a training module.
 5. **The historical contrast turns on one variable.** Earlier automation ran on static, pre-programmed logic; generative systems are autonomous and opaque, which turns pedagogy into continuous algorithmic governance.
-6. **Ubuntu and Confucian [[ethics]] are governance content.** Relational justice, benevolence and harmony are proposed as criteria for algorithmic decisions and a corrective to individualist frameworks, not as decoration.
+6. **Ubuntu and Confucian [[ethics|ethics]] are governance content.** Relational justice, benevolence and harmony are proposed as criteria for algorithmic decisions and a corrective to individualist frameworks, not as decoration.
 
 ## Judgment before the tool is opened
 
@@ -48,7 +48,7 @@ The ethical dimension is prior to use, and the review's worked case is a history
 
 ## Why policy translation is a teaching job
 
-Policy translation is the dimension the frameworks leave to whoever is teaching. UNESCO, the OECD and the European Union's AI Act supply principles — human-centered governance, transparency, risk classification, accountability — but none specifies what a teacher does on Tuesday. The review's claim is that the teacher is the mediator: a rule that cannot be restated as a prompt condition, an assessment condition or an enforceable boundary has not reached the classroom. That makes [[educational-policy-ai|classroom-level policy]] the place where [[governance]] either holds or evaporates, and makes the teacher's judgment about bias a governance function, not a personal preference.
+Policy translation is the dimension the frameworks leave to whoever is teaching. UNESCO, the OECD and the European Union's AI Act supply principles — human-centered governance, transparency, risk classification, accountability — but none specifies what a teacher does on Tuesday. The review's claim is that the teacher is the mediator: a rule that cannot be restated as a prompt condition, an assessment condition or an enforceable boundary has not reached the classroom. That makes [[educational-policy-ai|classroom-level policy]] the place where [[governance|governance]] either holds or evaporates, and makes the teacher's judgment about bias a governance function, not a personal preference.
 
 ## The corpus behind the argument
 

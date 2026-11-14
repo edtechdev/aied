@@ -14,9 +14,9 @@ discipline: [cs education]
 institutions: [educational-policy-ai]
 ---
 
-> **Synthesis:** Across 15 nations, the paper examines how secondary computer-[[science-education|science education]] embeds AI literacy into general-track subjects (Digital Literacy, ICT, TIC, SNT) rather than specialized tracks, creating structural inequities in who develops AI capability. The comparative analysis shows that policy choices about which programming language and subject bears 'universal' AI literacy determine differential access to computational futures.
+> **Synthesis:** Across 15 nations, the paper examines how secondary computer-[[science-education|science education]] embeds [[ai-literacy|AI literacy]] into general-track subjects (Digital Literacy, ICT, TIC, SNT) rather than specialized tracks, creating structural inequities in who develops AI capability. The comparative analysis shows that policy choices about which programming language and subject bears 'universal' AI literacy determine differential access to computational futures.
 
-Frames AI literacy 'for all' as an [[equity-in-ai-education]] problem rooted in [[k-12]] [[curriculum-design|curriculum]] policy, with direct relevance to [[educational-policy-ai]] and [[teacher-role]] decisions. It ties to [[ai-literacy]] as a civil competency and to [[educational-development]] for teacher preparedness, arguing that without equitable language/policy grounding, AI literacy widens rather than closes gaps in [[higher-ed]] readiness.
+Frames AI literacy 'for all' as an [[equity-in-ai-education|equity]] problem rooted in [[k-12]] [[curriculum-design|curriculum]] policy, with direct relevance to [[educational-policy-ai|educational AI policy]] and [[teacher-role|teacher role]] decisions. It ties to [[ai-literacy|AI literacy]] as a civil competency and to [[educational-development|educational development]] for teacher preparedness, arguing that without equitable language/policy grounding, AI literacy widens rather than closes gaps in [[higher-ed|higher education]] readiness.
 
 ## What this means for practice
 

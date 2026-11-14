@@ -23,7 +23,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Most research on children and [[trust]] in AI positions them as users judging systems adults built. This study reverses that: 115 learners aged 8–18 built 119 [[conversational-ai|chatbots]] in a constructionist environment called LUMI, configuring confidence, transparency, formality, assertiveness, rules, persona, and knowledge sources, then testing and revising them. The headline finding is that children treat [[trust-calibration|trustworthiness]] as an interacting system of design choices rather than a single property. Younger students equated trust with purpose fulfillment — some deliberately built chatbots that gave wrong answers and still called them trustworthy because they did what they were made to do — while older students tied trust to transparent, calibrated design. Students revised rules far more than any other field, and academic chatbots were tuned to be more formal and transparent than hobby ones. A rubric-based fidelity check found purpose alignment was the weakest realized dimension, suggesting that children's intentions about what a chatbot is *for* are the hardest thing to build and the least supported by current tools.
+> **Synthesis:** Most research on children and [[trust|trust]] in AI positions them as users judging systems adults built. This study reverses that: 115 learners aged 8–18 built 119 [[conversational-ai|chatbots]] in a constructionist environment called LUMI, configuring confidence, transparency, formality, assertiveness, rules, persona, and knowledge sources, then testing and revising them. The headline finding is that children treat [[trust-calibration|trustworthiness]] as an interacting system of design choices rather than a single property. Younger students equated trust with purpose fulfillment — some deliberately built chatbots that gave wrong answers and still called them trustworthy because they did what they were made to do — while older students tied trust to transparent, calibrated design. Students revised rules far more than any other field, and academic chatbots were tuned to be more formal and transparent than hobby ones. A rubric-based fidelity check found purpose alignment was the weakest realized dimension, suggesting that children's intentions about what a chatbot is *for* are the hardest thing to build and the least supported by current tools.
 
 ## Key Findings
 
@@ -74,7 +74,7 @@ Rules Alignment scored highest (*M* = 3.06), followed by Responsiveness (3.00) a
 - Elementary data came from [[teacher-role|teacher]] reflections and platform logs rather than child interviews; elementary students were not asked directly about trustworthiness and did not complete the pre/post survey, so they are absent from the trust-reasoning analysis.
 - Interview formats differed (individual for high schoolers, small groups of 2–3 for middle schoolers), which may have shaped what students disclosed.
 - High schoolers were each required to build only one chatbot, so domain comparisons rest largely on the middle school cohort.
-- The tool itself constrained expression: a child who thought trustworthiness meant [[privacy]] had no privacy field to configure.
+- The tool itself constrained expression: a child who thought trustworthiness meant [[privacy|privacy]] had no privacy field to configure.
 
 ## Citation
 

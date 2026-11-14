@@ -24,7 +24,7 @@ page_kind: [framework]
 
 ## Background: Why Conventional Link Prediction Fails
 
-Prerequisite relation learning is central to [[adaptive-learning|adaptive instruction]] and [[personalized-learning]], which depend on accurate domain knowledge structures. Yet real-world modeling is hampered by scarce expert annotations and noisy automated extraction. Existing methods typically reduce the task to conventional [[network-analysis|link prediction]] over node embeddings, which fails on three properties the authors identify as intrinsic to [[recommender-systems-and-learning-paths|prerequisite relations]]:
+Prerequisite relation learning is central to [[adaptive-learning|adaptive instruction]] and [[personalized-learning|personalized learning]], which depend on accurate domain knowledge structures. Yet real-world modeling is hampered by scarce expert annotations and noisy automated extraction. Existing methods typically reduce the task to conventional [[network-analysis|link prediction]] over node embeddings, which fails on three properties the authors identify as intrinsic to [[recommender-systems-and-learning-paths|prerequisite relations]]:
 
 - **Directional asymmetry:** prerequisite relations are irreversible (if *ci* is a prerequisite of *cj*, assigning high confidence to *cj* → *ci* is a directional contradiction), yet conventional models score directed pairs independently.
 - **Multi-hop behavioral evidence:** prerequisites often surface as latent dependencies (*ci* → *ck* → *cj*) rather than explicit one-step learner transitions, which local transition heuristics miss.
@@ -42,7 +42,7 @@ ProPRL combines three components over an [[knowledge-graph|educational knowledge
 
 ## Experiments and Results
 
-ProPRL is evaluated on three [[benchmark]] datasets — MOOC1, LectureBank2, and University Course (UCD) — using ACC, F1, and AUC, against general-purpose baselines (NB, SVM, RF, RefD, GAE, VGAE) and task-specific prerequisite models (HGAPNet, MHAVGAE, ConLearn, LCPRE, DGCPL). It ranks first across all nine dataset–metric combinations, outperforming even the strongest baseline in every comparison; the largest relative AUC gain (6.11%) occurs on UCD.
+ProPRL is evaluated on three [[benchmark|benchmark]] datasets — MOOC1, LectureBank2, and University Course (UCD) — using ACC, F1, and AUC, against general-purpose baselines (NB, SVM, RF, RefD, GAE, VGAE) and task-specific prerequisite models (HGAPNet, MHAVGAE, ConLearn, LCPRE, DGCPL). It ranks first across all nine dataset–metric combinations, outperforming even the strongest baseline in every comparison; the largest relative AUC gain (6.11%) occurs on UCD.
 
 Ablation studies confirm each component contributes: removing multi-hop propagation causes the most pronounced degradation on UCD, removing the pair gate hurts most on MOOC, and removing anti-symmetry regularization affects LectureBank most strongly. A case study on the reversed-order evaluation shows ProPRL produces a stronger separation between the annotated direction and its reversal rather than merely correcting a few reversed rankings. Hyperparameter analysis shows stability across propagation coefficient and depth (gains saturate around *k* = 5), while a small learning rate (~10⁻⁴) is needed for reliable optimization. Efficiency-wise, ProPRL stays lightweight — under 40 MB GPU memory, under 0.18 s inference — and is faster than DGCPL on MOOC and UCD.
 
@@ -51,7 +51,7 @@ Ablation studies confirm each component contributes: removing multi-hop propagat
 - **Designers.** Score the two directions of a concept pair together rather than independently: the Irreversibility Constraint raised correctly ordered relations from 88.0% to 90.0% and widened the forward-reverse confidence margin from 0.605 to 0.695, so a pipeline that ignores anti-symmetry will keep producing contradictory chains.
 - **Designers.** Do not drop direction-preserving multi-hop propagation when learner interaction sequences exist: removing it was the largest ablation loss, cutting F1 on the University Course dataset from 0.8788 to 0.7831.
 - **Designers.** Fuse resource-aware and behavior-aware evidence per candidate pair instead of at a fixed weight: the Pair-conditioned Gate beat uniform fusion, with the largest benefit on MOOC, matching the finding that a relation is defined over a specific ordered pair rather than a node.
-- **Designers.** Feed the learned ordering into sequencing and hint generation only where the dependency is validated: [[personalized-learning|personalized]] pathways, [[knowledge-tracing|knowledge tracing]], and [[scaffolding]] all inherit the directionality of the graph they read from.
+- **Designers.** Feed the learned ordering into sequencing and hint generation only where the dependency is validated: [[personalized-learning|personalized]] pathways, [[knowledge-tracing|knowledge tracing]], and [[scaffolding|scaffolding]] all inherit the directionality of the graph they read from.
 - **Researchers.** Evaluate reversals, not just accuracy: the reversed-order case study shows the gain comes from separating the annotated direction from its reversal rather than from correcting a handful of inverted rankings.
 
 ## Limitations

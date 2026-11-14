@@ -36,7 +36,7 @@ The companion [EduSynth Hub examples](https://mguhlin.github.io/funquiz/examples
 
 ## Who it is for
 
-Teachers and [[learning-design|instructional designers]] in K-12 and higher education who can describe the tool they want and are willing to check what the assistant produced. It also suits a department that wants one shared checklist before anyone publishes a student-facing tool, and instructors teaching [[ai-literacy]] through building rather than through critique.
+Teachers and [[learning-design|instructional designers]] in K-12 and higher education who can describe the tool they want and are willing to check what the assistant produced. It also suits a department that wants one shared checklist before anyone publishes a student-facing tool, and instructors teaching [[ai-literacy|AI literacy]] through building rather than through critique.
 
 ## Notes and caveats
 

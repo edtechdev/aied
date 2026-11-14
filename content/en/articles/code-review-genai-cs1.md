@@ -16,7 +16,7 @@ sources: ['raw/papers/2605.21374.md']
 confidence: high
 ---
 
-> **Synthesis.** Fowles et al. (2026) offer a harm-reduction blueprint for [[generative-ai]] in [[cs-education]]: rather than banning large language models ([[llm]]s), make students accountable for understanding whatever code they submit through weekly oral code review interviews. At [[higher-ed|Utah State University]], an [[active-learning|flipped classroom]] freed class time for one-on-one assessments, and three semesters of data showed sharply higher AI usage (paste-to-type ratios up) with no statistically significant decline in exam scores — evidence that structured oral [[formative-assessment]] can preserve [[learning-gains]] even as reliance on AI tools rises.
+> **Synthesis.** Fowles et al. (2026) offer a harm-reduction blueprint for [[generative-ai|generative AI]] in [[cs-education|CS education]]: rather than banning large language models ([[llm|LLM]]s), make students accountable for understanding whatever code they submit through weekly oral code review interviews. At [[higher-ed|Utah State University]], a [[active-learning|flipped classroom]] freed class time for one-on-one assessments, and three semesters of data showed sharply higher AI usage (paste-to-type ratios up) with no statistically significant decline in exam scores — evidence that structured oral [[formative-assessment|formative assessment]] can preserve [[learning-gains|learning gains]] even as reliance on AI tools rises.
 
 ## Key Findings
 
@@ -27,7 +27,7 @@ confidence: high
 
 ## Background & Context
 
-The rapid capability growth of [[llm|large language models]] has forced computing educators to choose between resisting the technology or embracing it as part of professional practice. This study navigates that divide through a [[reducing-ai-misuse|harm-reduction]] stance: no restrictions on [[llm|AI]] use for coding assignments, so long as students can demonstrate genuine understanding in a code review interview. The approach reframes questions of [[academic-integrity]] and [[ai-literacy]] by moving accountability from detection to explanation, aligning with [[framing-ai-use-for-students|frameworks]] that emphasize critical engagement over prohibition.
+The rapid capability growth of [[llm|large language models]] has forced computing educators to choose between resisting the technology or embracing it as part of professional practice. This study navigates that divide through a [[reducing-ai-misuse|harm-reduction]] stance: no restrictions on [[llm|AI]] use for coding assignments, so long as students can demonstrate genuine understanding in a code review interview. The approach reframes questions of [[academic-integrity|academic integrity]] and [[ai-literacy|AI literacy]] by moving accountability from detection to explanation, aligning with [[framing-ai-use-for-students|frameworks]] that emphasize critical engagement over prohibition.
 
 The authors position the CS1-CR course against two related lines of prior work. First, research characterizing how students actually use [[generative-ai|AI tools]] — from Brender et al.'s categories of debugging, practical development, and conceptual exploration to Ghimire & Edwards' similar taxonomies — finds that [[cognitive-offloading|conceptual exploration]] produces stronger learning gains than simple code generation. Second, work on oral exams and peer code reviews documents both the promise of [[authentic-assessment|authentic oral assessment]] and the open problem of [[higher-ed|scaling]] it to large introductory classes.
 
@@ -39,7 +39,7 @@ The design builds directly on evidence that students who [[help-seeking|over-rel
 
 ## The Flipped Classroom Component
 
-To create time for weekly interviews, the instructor canceled one of three weekly class meetings and adopted an [[active-learning|flipped classroom]] model: students watch [[video-education|lecture videos]] outside class and spend the remaining two days on supplemental coding activities with peer and instructor support. This mirrors [[student-engagement|engagement-focused]] pedagogies with documented small positive effects on learning and addresses a persistent [[higher-ed|scalability]] barrier that has long limited [[oral-assessment|oral assessment]] in large courses.
+To create time for weekly interviews, the instructor canceled one of three weekly class meetings and adopted a [[active-learning|flipped classroom]] model: students watch [[video-education|lecture videos]] outside class and spend the remaining two days on supplemental coding activities with peer and instructor support. This mirrors [[student-engagement|engagement-focused]] pedagogies with documented small positive effects on learning and addresses a persistent [[higher-ed|scalability]] barrier that has long limited [[oral-assessment|oral assessment]] in large courses.
 
 ## Methods & Evidence
 
@@ -51,7 +51,7 @@ The results were consistent across methods. Pairwise t-tests showed no statistic
 
 - **Instructors.** Replace an AI ban with oral accountability: require a 15-minute code review interview within 48 hours of every coding assignment and let the interview carry 70% of the assignment grade, with the rubric score counting for the remaining 30%.
 - **Instructors.** Free the time the interviews need by moving to a [[active-learning|flipped classroom]] — the course dropped one of three weekly meetings and still raised pasted-to-total characters from 61.0% to 68.1% (p < 0.0001) with no statistically significant decline in exam scores.
-- **Instructors.** Fix the logistics before the [[pedagogy]]: TA inconsistency (33.7%) and scheduling difficulties (21.7%) drove the negative feedback, not student resistance to being interviewed, so invest in TA training and a scheduling process.
+- **Instructors.** Fix the logistics before the [[pedagogy|pedagogy]]: TA inconsistency (33.7%) and scheduling difficulties (21.7%) drove the negative feedback, not student resistance to being interviewed, so invest in TA training and a scheduling process.
 - **Administrators.** Plan the staffing ratio before scaling: CS1-CR expanded from just under 100 to over 200 students while keeping the same 11 TAs, a constraint the authors flag as unresolved.
 - **Researchers.** Build the comparison the field still lacks: the authors state there have been no randomized controlled trials in this space, and this three-semester study is a proof of concept rather than causal evidence.
 

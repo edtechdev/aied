@@ -35,10 +35,10 @@ initiative proceeds, and covers how that initiative then gets built.
 A four-step path runs from whether the work is worth building, through the review route it needs, to
 build-buy-reuse economics, to six questions that pick one of five approaches and that approach's minimum
 controls; where the answers disagree, the strictest one wins. The approaches form a spectrum from
-[[vibe-coding]] to multi-agent work under human gates and audit trails, compared on who reads the code,
+[[vibe-coding|vibe coding]] to multi-agent work under human gates and audit trails, compared on who reads the code,
 what counts as verification, which data the work may touch, and what it costs to own. A reference section
 adds low-code and enterprise platforms, builder scenarios, case studies, hypothetical discussion cases,
-and a thirteen-question [[governance]] checklist.
+and a thirteen-question [[governance|governance]] checklist.
 
 ## Who it is for
 
@@ -56,7 +56,7 @@ slowdowns for experienced maintainers on their own code, and it admits that tria
 suggestion rather than spec-driven or multi-agent work, so the case for more structure rests on practice
 and compliance logic. No reuse license is stated. Sibling sites
 [campusdatagov.com](https://campusdatagov.com/) and [campusairegistry.com](https://campusairegistry.com/)
-carry the data governance and agent registry parts, so this is a good entry to [[educational-policy-ai]]
+carry the data governance and agent registry parts, so this is a good entry to [[educational-policy-ai|educational AI policy]]
 work but not a substitute for it.
 
 ## Connected Concepts

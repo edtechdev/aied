@@ -13,20 +13,20 @@ sources: ["raw/papers/10.1016_j.caeo.2026.100325.md"]
 confidence: high
 ---
 
-> **Synthesis:** Krushinskaia, Elen, and Raes (2026) use process-level indicators of [[agency]] to examine 78 pre-service teachers randomly assigned to design learning materials with either a custom expert [[generative-ai|GenAI]] bot scaffolded on an instructional-design model or basic ChatGPT. Two of three agency indicators (length of interaction and self-generated prompts/ownership) suggested higher agency in the expert-bot condition, but a third indicator — collaborative [[problem-solving]] — revealed reduced agency in both conditions, as participants often simply agreed with the bot's suggestions rather than meaningfully critiquing them.
+> **Synthesis:** Krushinskaia, Elen, and Raes (2026) use process-level indicators of [[agency|agency]] to examine 78 pre-service teachers randomly assigned to design learning materials with either a custom expert [[generative-ai|GenAI]] bot scaffolded on an instructional-design model or basic ChatGPT. Two of three agency indicators (length of interaction and self-generated prompts/ownership) suggested higher agency in the expert-bot condition, but a third indicator — collaborative [[problem-solving|problem-solving]] — revealed reduced agency in both conditions, as participants often simply agreed with the bot's suggestions rather than meaningfully critiquing them.
 
 ## Key Findings
 
 - Using process-level indicators, pre-service teachers in the expert-bot condition interacted longer and generated more self-generated prompts, suggesting greater agentic [[student-engagement|engagement]] on those dimensions.
-- A third agency indicator, collaborative problem-solving, revealed reduced agency in both conditions: participants frequently agreed with AI output instead of providing meaningful [[feedback]].
+- A third agency indicator, collaborative problem-solving, revealed reduced agency in both conditions: participants frequently agreed with AI output instead of providing meaningful [[feedback|feedback]].
 - Both the material constraints of the expert bot and the open-ended structure of ChatGPT impose distinct constraints on teacher agency.
 - [[prior-knowledge|Prior knowledge]] about GenAI or [[learning-design|instructional design]] moderates how much agency a teacher can exercise in either context.
 
 ## What this means for practice
 
-- **Teacher educators.** Set an explicit expectation that pre-service teachers critique and push back on AI suggestions; participants in both conditions tended to agree with the bot rather than give meaningful [[feedback]], the lowest-agency behavior observed.
+- **Teacher educators.** Set an explicit expectation that pre-service teachers critique and push back on AI suggestions; participants in both conditions tended to agree with the bot rather than give meaningful [[feedback|feedback]], the lowest-agency behavior observed.
 - **Teacher educators.** Teach the affordances and constraints of specific tools — a custom design bot versus unrestricted ChatGPT — alongside tool use, since each imposed distinct limits on agency.
-- **Designers.** Do not assume extra [[scaffolding]] preserves agency; the expert bot raised interaction length and self-generated prompts but coincided with reduced collaborative problem-solving.
+- **Designers.** Do not assume extra [[scaffolding|scaffolding]] preserves agency; the expert bot raised interaction length and self-generated prompts but coincided with reduced collaborative problem-solving.
 - **Researchers.** Use process-level indicators — interaction length, ownership, and collaborative problem-solving behaviors — rather than [[self-report-measures|self-report]], and state each indicator's validity caveats.
 
 ## Limitations

@@ -24,7 +24,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Most evaluations of [[ai-feedback-quality|AI feedback]] ask whether a comment is accurate or well written; Almousa and colleagues ask what expert teachers focus on and whether models do the same. They refine Narciss's taxonomy into seven feedback focus types and annotate [[teacher-role|teacher]] and [[llm|LLM]] paragraph-level [[feedback]] across three [[higher-ed|university]] writing courses, releasing FEEDTYPE with six models' output under three [[prompt-engineering|prompting strategies]]. Coverage looks healthy, since most models produce nearly every focus type, but their distributions diverge sharply from the teachers'. Only the educationally fine-tuned LearnLM lands close to the teacher distribution, and no model reproduces the teacher's [[adaptive-learning|adaptive]] shifts across draft stages or student performance levels.
+> **Synthesis:** Most evaluations of [[ai-feedback-quality|AI feedback]] ask whether a comment is accurate or well written; Almousa and colleagues ask what expert teachers focus on and whether models do the same. They refine Narciss's taxonomy into seven feedback focus types and annotate [[teacher-role|teacher]] and [[llm|LLM]] paragraph-level [[feedback|feedback]] across three [[higher-ed|university]] writing courses, releasing FEEDTYPE with six models' output under three [[prompt-engineering|prompting strategies]]. Coverage looks healthy, since most models produce nearly every focus type, but their distributions diverge sharply from the teachers'. Only the educationally fine-tuned LearnLM lands close to the teacher distribution, and no model reproduces the teacher's [[adaptive-learning|adaptive]] shifts across draft stages or student performance levels.
 
 ## Key Findings
 
@@ -34,7 +34,7 @@ source_depth: full text
 4. **Prompting barely closed the gap.** Giving models category names or worked examples increased divergence for most of them; only Mistral-7B improved (0.2695 to 0.2398), leaving the zero-shot baseline closest to teachers.
 5. **Teachers adapt across drafts; models mostly do not.** The teacher changed significantly on five focus types between draft stages, the closest model (Mistral-24B) on three, Mistral-7B on none; teacher Praise rose from 26.9% initially to 84.9% in final drafts.
 6. **Adapting to student performance is thin and narrow.** The teacher differentiated high and low performers on Task Constraints and Praise; Gemini and Mistral-24B moved on Clarification, LearnLM on Mistakes, Qwen-70B on Elaboration; the two smallest models never moved.
-7. **A released [[benchmark]], not only a finding.** FEEDTYPE publishes annotated teacher and LLM feedback across [[writing-education|composition]], ESL composition and fiction courses, with a Gemini 2.0 Flash annotator matching human labels at κ = 0.78.
+7. **A released [[benchmark|benchmark]], not only a finding.** FEEDTYPE publishes annotated teacher and LLM feedback across [[writing-education|composition]], ESL composition and fiction courses, with a Gemini 2.0 Flash annotator matching human labels at κ = 0.78.
 
 ## Turning feedback focus into seven annotatable types
 
@@ -42,7 +42,7 @@ Feedback focus is what a comment is about, and prior work either conflated it wi
 
 ## Coverage is high, distribution alignment is not
 
-Coverage was measured as the share of teacher focus types a model emits at least once, and alignment as Jensen-Shannon divergence from the aggregated teacher reference. Divergence moves opposite to coverage: the three models covering everything under zero-shot were not the best aligned, and the two that missed a type were among the most divergent. Distribution shape explains why. LearnLM and Mistral-24B spread feedback across types so no single category dominated, staying close to teachers, who distribute feedback fairly evenly. The others collapsed onto one preference, Elaboration or Mistakes, which the authors warn may yield repetitive, narrow [[feedback]] that overlooks other aspects of a draft. Adding definitions or examples did not fix this: it increased divergence for most models and helped only Mistral-7B.
+Coverage was measured as the share of teacher focus types a model emits at least once, and alignment as Jensen-Shannon divergence from the aggregated teacher reference. Divergence moves opposite to coverage: the three models covering everything under zero-shot were not the best aligned, and the two that missed a type were among the most divergent. Distribution shape explains why. LearnLM and Mistral-24B spread feedback across types so no single category dominated, staying close to teachers, who distribute feedback fairly evenly. The others collapsed onto one preference, Elaboration or Mistakes, which the authors warn may yield repetitive, narrow [[feedback|feedback]] that overlooks other aspects of a draft. Adding definitions or examples did not fix this: it increased divergence for most models and helped only Mistral-7B.
 
 ## Adaptivity: teachers shift, models mostly do not
 

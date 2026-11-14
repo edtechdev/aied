@@ -33,7 +33,7 @@ page_kind: [evaluation]
 - Epistemic orientation β = 0.36, p < 0.001; **intellectual values β = 0.40, p < 0.001**; low multicollinearity (VIF = 1.05), Durbin-Watson 2.23.
 
 ### Exploratory — misconceptions are narrow but real
-- Only **9% of participants** had misconception scores below zero; just 3 of 12 items showed actual [[misconceptions]] (incorrect + high confidence).
+- Only **9% of participants** had misconception scores below zero; just 3 of 12 items showed actual [[misconceptions|misconceptions]] (incorrect + high confidence).
 - The standout: **97% confidently believed "GenAI performs web searches"** (misconception score −3.00) — though the authors note current [[conversational-ai|chatbots]] technically trigger web searches, so this item may be superseded by evolving tool capabilities.
 - Most students correctly and confidently knew GenAI "may provide content that is not based on facts" (score 2.91, highest).
 
@@ -47,7 +47,7 @@ page_kind: [evaluation]
 - **Learners.** Learn what the tool actually does before you rely on it: objective knowledge about GenAI predicted critical use (r = 0.31, p = 0.011) and self-reported knowledge more strongly (r = 0.55), and institutions should target conceptual misconceptions directly rather than offering basic tool training.
 - **Learners.** Cross-check outputs against sources and the literature as a habit, because confident error is the common failure: 97% of participants confidently believed GenAI performs web searches, and only 9% of participants had a misconception score below zero.
 - **Learners.** Treat intellectual [[student-engagement|engagement]] as worth the effort: intellectual values (β = 0.40) and epistemic orientation (β = 0.36) together accounted for about a third of the variance in critical GenAI use (R² = 0.33), and each is trainable.
-- **Learners.** Account for your own motivation and self-knowledge: need for cognition correlated with critical use (r = 0.25) and negatively with perceived usefulness (r = -0.27), so low-NFC learners may need added interactivity or feedback, and understanding the costs of [[cognitive-offloading]] is proposed as the missing "meta-knowledge" predictor.
+- **Learners.** Account for your own motivation and self-knowledge: need for cognition correlated with critical use (r = 0.25) and negatively with perceived usefulness (r = -0.27), so low-NFC learners may need added interactivity or feedback, and understanding the costs of [[cognitive-offloading|cognitive offloading]] is proposed as the missing "meta-knowledge" predictor.
 - **Learners.** Use [[refutation-text|refutation-based]] material and video interventions that challenge absolutist beliefs rather than assuming knowledge alone changes behavior.
 
 ## Limitations

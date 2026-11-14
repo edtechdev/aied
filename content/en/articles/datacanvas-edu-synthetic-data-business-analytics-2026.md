@@ -28,11 +28,11 @@ confidence: high
 
 ## What the framework changes about case preparation
 
-Preparing a data-analytics case traditionally consumes instructor time on pattern investigation, result verification, and writing both the assignment and its reference solution. Automating generation does not remove the instructor from that loop; it moves their work to specification and review. That division is what makes the approach credible for [[assessment]]: rubrics and reference analyses are produced as first-class artifacts alongside the data, so the case arrives with its own grading apparatus.
+Preparing a data-analytics case traditionally consumes instructor time on pattern investigation, result verification, and writing both the assignment and its reference solution. Automating generation does not remove the instructor from that loop; it moves their work to specification and review. That division is what makes the approach credible for [[assessment|assessment]]: rubrics and reference analyses are produced as first-class artifacts alongside the data, so the case arrives with its own grading apparatus.
 
 ## Why synthetic data needs its own validity argument
 
-A generated dataset can look realistic while failing to instantiate the pattern the case teaches, and can drift away from the distributions students will meet in practice. The Verify phase is the authors' answer, and it connects this work to the wider [[assessment-validity]] and [[benchmark]] questions that surround any AI-produced instructional material. It also raises the same [[hallucination-risk|reliability]] concerns that apply to other [[generative-ai|generative]] content pipelines — here, an incorrect generated pattern propagates into both the case and its rubric.
+A generated dataset can look realistic while failing to instantiate the pattern the case teaches, and can drift away from the distributions students will meet in practice. The Verify phase is the authors' answer, and it connects this work to the wider [[assessment-validity|assessment validity]] and [[benchmark|benchmark]] questions that surround any AI-produced instructional material. It also raises the same [[hallucination-risk|reliability]] concerns that apply to other [[generative-ai|generative]] content pipelines — here, an incorrect generated pattern propagates into both the case and its rubric.
 
 ## What this means for practice
 

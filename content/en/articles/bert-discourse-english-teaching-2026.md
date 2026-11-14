@@ -14,7 +14,7 @@ audience: [instructors, assessment designers, software developers]
 level: [higher ed]
 ---
 
-> **Synthesis:** Wang, Xu, Jia, and Fu (2026) built a closed-loop system for [[language-learning|English]] [[writing-education|writing]] [[assessment]] that moves beyond shallow surface features to deep discourse-level coherence. A fine-tuned BERT model (updating only the last four Transformer layers) classifies adjacent sentence pairs into causal, contrastive, progressive, or incoherent discourse relations; a joint attention-and-semantic-similarity mechanism localizes breakpoints; and a teacher-knowledge-graph-constrained generator produces editable diagnostic feedback. On 28,736 sentence pairs from 1,024 Chinese English-major essays, it achieved mean F1 ≥ 0.891 in long essays and outperformed state-of-the-art coherence models, with teacher-judged feedback adoption rates of 71.2%–88.4% and a feasible CPU-only deployment path.
+> **Synthesis:** Wang, Xu, Jia, and Fu (2026) built a closed-loop system for [[language-learning|English]] [[writing-education|writing]] [[assessment|assessment]] that moves beyond shallow surface features to deep discourse-level coherence. A fine-tuned BERT model (updating only the last four Transformer layers) classifies adjacent sentence pairs into causal, contrastive, progressive, or incoherent discourse relations; a joint attention-and-semantic-similarity mechanism localizes breakpoints; and a teacher-knowledge-graph-constrained generator produces editable diagnostic [[feedback|feedback]]. On 28,736 sentence pairs from 1,024 Chinese English-major essays, it achieved mean F1 ≥ 0.891 in long essays and outperformed state-of-the-art coherence models, with teacher-judged feedback adoption rates of 71.2%–88.4% and a feasible CPU-only deployment path.
 
 ## Core Finding
 
@@ -22,7 +22,7 @@ A [[llm|transformer-based]] system can both **detect** discourse-coherence defec
 
 ## Why Discourse-Level Assessment Matters
 
-Conventional automated evaluation relies on shallow features — repeated vocabulary, connector frequency — that fail when text is superficially well-connected but semantically fragmented. Such systems cannot attribute incoherence to a specific cause (concept jump, referential obscurity, argument shift) and typically produce single scores or generic hints without diagnostic localization. This makes it hard for teachers to adjust instruction and for students to see a clear path to improvement. The authors position discourse-relation classification as the semantic foundation for precise, actionable [[feedback]].
+Conventional automated evaluation relies on shallow features — repeated vocabulary, connector frequency — that fail when text is superficially well-connected but semantically fragmented. Such systems cannot attribute incoherence to a specific cause (concept jump, referential obscurity, argument shift) and typically produce single scores or generic hints without diagnostic localization. This makes it hard for teachers to adjust instruction and for students to see a clear path to improvement. The authors position discourse-relation classification as the semantic foundation for precise, actionable [[feedback|feedback]].
 
 ## The BERT Architecture and Fine-Tuning Strategy
 
@@ -46,7 +46,7 @@ Feedback generation retrieves semantically similar high-scoring fragments (Sente
 ## What this means for practice
 
 - **Assessment designers.** Replace surface-feature scoring with sentence-pair discourse-relation classification; the fine-tuned model reached a mean F1 of at least 0.891 and accuracy of at least 0.902 on long essays.
-- **Instructors.** Deliver localized breakpoint reports instead of a global score so students see which sentence pair breaks coherence; teacher-judged adoption of the generated [[feedback]] ranged from 71.2% to 88.4%.
+- **Instructors.** Deliver localized breakpoint reports instead of a global score so students see which sentence pair breaks coherence; teacher-judged adoption of the generated [[feedback|feedback]] ranged from 71.2% to 88.4%.
 - **Software developers.** Plan for CPU-only deployment: the system ran at roughly 521ms latency and 989MB peak memory per essay on an Intel i7-11800H.
 - Weight the loss function when the incoherent class is rare; weighted cross-entropy raised that class's F1 from about 0.31 to 0.78.
 

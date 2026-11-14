@@ -85,7 +85,7 @@ For a spreadsheet or computing course, hand out a generated formula and syntheti
 
 [[medical-education|Health professions]]: students evaluate a generated explanation for a fictional case against approved sources, name its limitations, and state when a qualified professional must decide.
 
-Career exploration has its own version: compare the task composition of two occupations using credible occupational information, then plan one concrete skill-development or [[help-seeking]] step.
+Career exploration has its own version: compare the task composition of two occupations using credible occupational information, then plan one concrete skill-development or [[help-seeking|help-seeking]] step.
 
 For asynchronous delivery, ask for an initial attempt, a short verification record and a two-sentence note on one consequential decision. In a lab or seminar, the explanation can happen in conversation. Use synthetic or authorized materials whenever the alternative is confidential workplace or student data.
 
@@ -131,6 +131,6 @@ What helps is investigation at the scale a student can act on: which tasks does 
 
 ## Where to go next
 
-[[career-development-and-readiness]] is the concept page for employability, adaptability and workforce evidence, and [[ai-literacy]] covers what literacy means beyond tool operation. For building it into a specific course, see [[incorporating-ai-literacy|incorporating AI literacy]] and [[faculty-ai-competencies|what competencies faculty need]].
+[[career-development-and-readiness|Career development and readiness]] is the concept page for employability, adaptability and workforce evidence, and [[ai-literacy|AI literacy]] covers what literacy means beyond tool operation. For building it into a specific course, see [[incorporating-ai-literacy|incorporating AI literacy]] and [[faculty-ai-competencies|what competencies faculty need]].
 
 For the [[assessment|assessment design]] that makes supported and independent performance distinguishable, see [[redesign-assessment-ai-era|redesigning assessment in the AI era]] and [[ai-grading-fairness-reliability|AI grading]]. For how to keep support from becoming dependence, see [[reducing-over-reliance|reducing over-reliance]].

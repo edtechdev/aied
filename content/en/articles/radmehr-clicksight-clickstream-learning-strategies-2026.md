@@ -39,7 +39,7 @@ methods: [ai-ed-evaluation]
 
 ClickSight does not classify behavior with a bespoke feature set. It takes a set of learning strategies specified from the literature, finds strategy-relevant evidence in the clickstream, assesses adherence for each strategy–aspect pair, and generates an interpretation grounded in the actions it cited. That structure is the paper's answer to the transfer problem in [[learning-analytics|learning analytics]]: hand-built features for one environment do not move to another, while a literature-defined strategy plus trace evidence is at least portable in principle.
 
-Keeping the evidence attached to each judgment is what makes the output auditable. An instructor can see which actions supported a claim about, say, [[help-seeking]] or systematic exploration, rather than receiving a label with no provenance.
+Keeping the evidence attached to each judgment is what makes the output auditable. An instructor can see which actions supported a claim about, say, [[help-seeking|help-seeking]] or systematic exploration, rather than receiving a label with no provenance.
 
 ## Where the quality difference comes from
 

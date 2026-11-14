@@ -15,13 +15,13 @@ page_kind: [evaluation, framework]
 methods: [benchmark]
 ---
 
-> **Synthesis:** Studies whether public [[llm]] tutoring benchmarks distinguish learning-supportive behavior from mere answer production. Proposes a lightweight diagnostic based on the gap between solving-oriented and [[pedagogy]]-oriented benchmark performance. Using MathTutorBench, shows correlation between solving and pedagogy composites is only r=0.421 across 8 models, with several models shifting rank when evaluated on pedagogy. Benchmarks reward guiding questions, calibrated hints, and non-disclosive [[scaffolding]]. Recommends reporting solving and pedagogy scores separately.
+> **Synthesis:** Studies whether public [[llm|LLM]] tutoring benchmarks distinguish learning-supportive behavior from mere answer production. Proposes a lightweight diagnostic based on the gap between solving-oriented and [[pedagogy|pedagogy]]-oriented [[benchmark|benchmark]] performance. Using MathTutorBench, shows correlation between solving and pedagogy composites is only r=0.421 across 8 models, with several models shifting rank when evaluated on pedagogy. Benchmarks reward guiding questions, calibrated hints, and non-disclosive [[scaffolding|scaffolding]]. Recommends reporting solving and pedagogy scores separately.
 
 ## Key Findings
 
 - Stronger task-solving ability does **not necessarily imply stronger learning support**: a response that looks helpful can be pedagogically harmful by giving away the answer.
 - Using public **MathTutorBench** leaderboard results across **eight publicly reported models**, the correlation between solving-oriented and pedagogy-oriented composite scores is only **r = 0.421**, and **several models shift meaningfully in rank** when evaluation moves from solving to pedagogy.
-- Analysis of the public **TutorBench sample** shows that agency-relevant behaviors are **explicitly encoded in benchmark rubrics**, especially in [[active-learning]] settings that reward **guiding questions, calibrated hints, and non-disclosive scaffolding**.
+- Analysis of the public **TutorBench sample** shows that agency-relevant behaviors are **explicitly encoded in benchmark rubrics**, especially in [[active-learning|active learning]] settings that reward **guiding questions, calibrated hints, and non-disclosive scaffolding**.
 - The proposed diagnostic is **lightweight**: it is based on the gap between solving-oriented and pedagogy-oriented benchmark performance, requiring no new data collection.
 - The authors argue that **educational-impact evaluation should not treat task success as a sufficient proxy for learning support**.
 

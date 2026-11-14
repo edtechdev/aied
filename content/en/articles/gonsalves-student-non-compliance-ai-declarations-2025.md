@@ -17,7 +17,7 @@ methods: [mixed-methods-research]
 institutions: [educational-policy-ai]
 ---
 
-> **Synthesis:** **Fear, ambiguity, inconsistent enforcement, and peer influence drive students to avoid AI use declarations — even when declaration is mandatory.** Gonsalves (2025), a [[mixed-methods-research|mixed-methods]] study at King's [[business-education|Business School]] where **74% of students failed to declare AI use** despite it being required on a coursework coversheet, uses the [[technology-acceptance-model|Theory of Planned Behavior]] (TPB) to explain non-compliance. Students view declaration as risky self-incrimination rather than a neutral administrative task, and the blurring of authorship by [[generative-ai|generative AI]] challenges traditional [[academic-integrity]] norms. Clear, consistent, and [[trust]]-based policies are needed to foster [[ethics|ethical]] AI use.
+> **Synthesis:** **Fear, ambiguity, inconsistent enforcement, and peer influence drive students to avoid AI use declarations — even when declaration is mandatory.** Gonsalves (2025), a [[mixed-methods-research|mixed-methods]] study at King's [[business-education|Business School]] where **74% of students failed to declare AI use** despite it being required on a coursework coversheet, uses the [[technology-acceptance-model|Theory of Planned Behavior]] (TPB) to explain non-compliance. Students view declaration as risky self-incrimination rather than a neutral administrative task, and the blurring of authorship by [[generative-ai|generative AI]] challenges traditional [[academic-integrity|academic integrity]] norms. Clear, consistent, and [[trust|trust]]-based policies are needed to foster [[ethics|ethical]] AI use.
 
 ## Key Findings
 

@@ -20,22 +20,22 @@ audience: [instructors, curriculum designers, policymakers]
 - **Sample:** 93 Grade 10 secondary students, three groups: context-based 7E + AI tools (experimental), 7E without context/AI (comparison), conventional teaching (control).
 - **Duration:** 12 weeks.
 - **AI tools:** PhET interactive simulations and ChatGPT-based tutoring embedded within the 7E inquiry phases.
-- **Measures:** pre-/post-tests and engagement scales ([[quantitative-research|quantitative]]); observation checklists, [[reflection]] forms, and AI usage logs ([[qualitative-research|qualitative]]).
+- **Measures:** pre-/post-tests and engagement scales ([[quantitative-research|quantitative]]); observation checklists, [[reflection|reflection]] forms, and AI usage logs ([[qualitative-research|qualitative]]).
 
 ## Findings
 
 - **[[learning-gains|Achievement]]:** ANCOVA showed the experimental group scored **significantly higher** than both comparison and control groups, with a **large effect size**.
 - **Engagement:** experimental-group students reported the highest levels of interest and participation.
-- **Synergy of components:** the three elements — contextualization, inquiry (7E), and adaptive AI — functioned synergistically. Contextual activities increased relevance and [[motivation|intrinsic motivation]]; the 7E cycle structured exploratory reasoning; AI provided real-time clarification and tailored explanations, reduced [[misconceptions]], and supported self-paced learning.
+- **Synergy of components:** the three elements — contextualization, inquiry (7E), and adaptive AI — functioned synergistically. Contextual activities increased relevance and [[motivation|intrinsic motivation]]; the 7E cycle structured exploratory reasoning; AI provided real-time clarification and tailored explanations, reduced [[misconceptions|misconceptions]], and supported self-paced learning.
 - **[[teacher-role|Teacher]] dependence:** qualitative data showed the benefits relied on teacher guidance and careful lesson planning, not on the tools alone.
 
 ## What this means for practice
 
 - **Teachers.** Combine context-based activities with the 7E cycle and adaptive AI rather than adopting any one alone; the integrated group outscored both the 7E-only and conventional groups with a large effect size.
 - **Teachers.** Expect to do the [[pedagogy|pedagogical]] work: qualitative evidence showed the gains depended on teacher guidance and careful lesson planning, not on the tools alone.
-- **Curriculum designers.** Anchor chemistry in real-world contexts and embed [[simulation|simulations]] and [[intelligent-tutoring|AI tutoring]] in the inquiry phases, since contextual activities raised relevance and intrinsic [[motivation]] while AI supplied real-time clarification.
+- **Curriculum designers.** Anchor chemistry in real-world contexts and embed [[simulation|simulations]] and [[intelligent-tutoring|AI tutoring]] in the inquiry phases, since contextual activities raised relevance and intrinsic [[motivation|motivation]] while AI supplied real-time clarification.
 - **Policymakers.** Guarantee [[equity-in-ai-education|equitable]] access to AI tools and issue clear ethical-use guidance covering privacy and transparency of AI responses.
-- **Teachers.** Use AI as a conceptual scaffold — usage logs showed students sought explanations of mechanisms rather than final answers — and confirm it reduces [[misconceptions]] instead of replacing student reasoning.
+- **Teachers.** Use AI as a conceptual scaffold — usage logs showed students sought explanations of mechanisms rather than final answers — and confirm it reduces [[misconceptions|misconceptions]] instead of replacing student reasoning.
 
 ## Limitations
 

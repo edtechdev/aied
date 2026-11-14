@@ -1,7 +1,7 @@
 ---
 title: Transfer of Learning
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -20,11 +20,11 @@ reviewed_by: [editor]
 - A common intuition is that 'practice is practice' — that doing a task with help builds the same skill as doing it alone. Where might that intuition mislead, especially when the help is an AI that completes the reasoning for you rather than guiding you through it?
 - The distinction is between 'effects with' a technology and 'effects of' it: performing better while using the tool versus becoming more capable without it. If you're an instructor, designer, or student, which of these is your real goal, and how would you know you'd achieved it?
 - The evidence suggests that how much cognitive work you delegate matters: offloading surface tasks like grammar hurt transfer less than offloading deep reasoning and structure. Think about the last time you used AI on an assignment. Which 'layer' did you delegate, and what does your choice predict about what you'd retain?
-- Several conditions might support positive transfer: [[pedagogy|pedagogical]] [[guardrails]], fading support, calibration to the learner's readiness. If you were designing (or were the user of) an AI learning tool, what would you insist on so that gains while using it become durable ability without it?
+- Several conditions might support positive transfer: [[pedagogy|pedagogical]] [[guardrails|guardrails]], fading support, calibration to the learner's readiness. If you were designing (or were the user of) an AI learning tool, what would you insist on so that gains while using it become durable ability without it?
 
 ## Introduction
 
-Transfer of learning is a foundational concern in education [[research-methods-aied|research]], and AI tools have made it urgent. The defining empirical pattern documented across AI in education studies is a **transfer paradox**: students using AI typically show immediate, measurable gains on tasks where AI is available, but those gains often fail to persist — or even reverse — when AI is removed and students must demonstrate understanding independently. This pattern implicates [[cognitive-offloading|Over-Reliance]], Cognitive Load Theory, and [[metacognition]] as the mechanisms at work, and connects directly to debates about [[intelligent-tutoring|AI Tutoring]] design.
+Transfer of learning is a foundational concern in education [[research-methods-aied|research]], and AI tools have made it urgent. The defining empirical pattern documented across AI in education studies is a **transfer paradox**: students using AI typically show immediate, measurable gains on tasks where AI is available, but those gains often fail to persist — or even reverse — when AI is removed and students must demonstrate understanding independently. This pattern implicates [[cognitive-offloading|Over-Reliance]], Cognitive Load Theory, and [[metacognition|metacognition]] as the mechanisms at work, and connects directly to debates about [[intelligent-tutoring|AI Tutoring]] design.
 
 
 Readiness is not transfer: AI-assisted spoken practice was associated with lower speaking [[anxiety-and-stress|anxiety]] and higher willingness to communicate with humans, yet neither study observed human speaking, leaving the route from AI rehearsal to human communicative ability an untested pedagogical proposal ([[ai-speaking-practice-communicative-readiness-2026|Wang & Li (2026)]]).
@@ -42,7 +42,7 @@ The evidence base, synthesized in the [[stanford-evidence-base-ai-k12-2026|Stanf
 | Study | Context | Immediate Effect | Transfer Effect | Mechanism |
 |---|---|---|---|---|
 | Bastani et al. (2025) | High school math | Higher practice grades | **~17% worse** on closed-book finals | General-purpose chatbot did the work |
-| Chen et al. (2025) | Programming homework | Higher homework scores | **No improvement** on unassisted exams | [[llm]]-Tutor solved problems for students |
+| Chen et al. (2025) | Programming homework | Higher homework scores | **No improvement** on unassisted exams | [[llm|LLM]]-Tutor solved problems for students |
 | Lehmann et al. (2025) | Programming | More topics covered | **Harmed understanding**; widened gaps | General AI for low-prior learners |
 | Stadler et al. (2024) | Academic research | Faster task completion | **Lower-quality reasoning** vs. search | Reduced cognitive [[student-engagement|engagement]] |
 | Kosmyna et al. (2025) | Essay writing | Higher essay quality | **83% failed to recall** their own quotes | Outsourced authorship |
@@ -51,11 +51,11 @@ All five studies show a **negative or null transfer** pattern when general-purpo
 
 ### Mechanisms undermining transfer
 
-**Metacognitive displacement.** AI completing reasoning reduces opportunities for students to monitor their own understanding and select strategies. Students who used AI were less able to explain their answers when queried. This connects to [[metacognition]] research on self-monitoring and the [[vibe-compiler-metacognition-genai-agency-2026|evidence that structured courses increase metacognitive competence while raw LLM assistants do not]].
+**Metacognitive displacement.** AI completing reasoning reduces opportunities for students to monitor their own understanding and select strategies. Students who used AI were less able to explain their answers when queried. This connects to [[metacognition|metacognition]] research on self-monitoring and the [[vibe-compiler-metacognition-genai-agency-2026|evidence that structured courses increase metacognitive competence while raw LLM assistants do not]].
 
 **Germane load suppression.** General-purpose AI reduces not just extraneous (distracting) cognitive load but also *germane* load — the productive mental effort that encodes durable knowledge. Easier practice feels better but stores weaker traces. See Cognitive Load Theory and the distinction between [[stanford-evidence-base-ai-k12-2026|tutoring-specific vs general AI]].
 
-**Over-reliance / expertise reversal.** Novices given answers do not build schemas. General AI provides answers; effective tutoring provides structured guidance. When novices are given expert-level shortcuts, learning is disrupted — the [[desirable-difficulties]] principle in reverse.
+**Over-reliance / expertise reversal.** Novices given answers do not build schemas. General AI provides answers; effective tutoring provides structured guidance. When novices are given expert-level shortcuts, learning is disrupted — the [[desirable-difficulties|desirable difficulties]] principle in reverse.
 
 **Tool-dependent performance.** Students may optimize for the specific affordances of the AI tool ([[prompt-engineering|prompt engineering]], reliance on generated code structure) rather than building domain generalization — a form of [[cognitive-offloading-speedup-illusion|cognitive offloading]] that feels productive but displaces durable learning.
 
@@ -79,20 +79,20 @@ The limited evidence suggests transfer is possible when:
 
 - **Guidance is co-located with the work.** Against the negative-transfer pattern in the table above, a 36-participant comparison found learners assisted by a desk robot held their score at 7.0/10 once help was withdrawn while ChatGPT-assisted learners fell to 4.4/10, a 60% higher short-term transfer score ([[aifred-desk-robotic-ai-guidance-2026|Orlando et al. (2026)]]). The result is short-term transfer measured about 35 minutes after the task, with no delayed retention test, in 36 participants at one campus.
 
-This aligns with [[intelligent-tutoring|AI Tutoring]] research showing that tutoring-specific tools with pedagogical guardrails outperform general-purpose [[conversational-ai|chatbots]], and with [[scaffolding]] principles about fading support as competence grows.
+This aligns with [[intelligent-tutoring|AI Tutoring]] research showing that tutoring-specific tools with pedagogical guardrails outperform general-purpose [[conversational-ai|chatbots]], and with [[scaffolding|scaffolding]] principles about fading support as competence grows.
 
 ### Unanswered questions
 
 1. **Time scale:** Does transfer improve over weeks/months of use, or does dependence deepen?
 2. **Domain differences:** Is transfer better in well-structured domains (math) vs. ill-structured domains (writing)?
-3. **Individual differences:** Do high-[[prior-knowledge]] students suffer less transfer loss than novices?
+3. **Individual differences:** Do high-[[prior-knowledge|prior knowledge]] students suffer less transfer loss than novices?
 4. **Skill remediation:** Can explicit "AI-off" practice sessions reverse tool dependence?
 
 The time-scale question now has a formalization. [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]] names the post-withdrawal interval cognitive washout and gives it four candidate outcomes: elastic rebound, partial plateau, latent scaffold and over-recovery. Reversibility, the paper argues, is what determines severity, and it proposes a preregistrable three-arm, twenty-two-week protocol to measure it. The studies above tested transfer hours after assistance ended, so the weeks afterward are the part of the first open question that remains genuinely unmeasured.
 
 ### Connections to related concepts
 
-Transfer of learning connects to [[metacognition]] (self-monitoring of understanding), Cognitive Load Theory (germane vs extraneous load), [[desirable-difficulties]] (productive struggle), [[scaffolding]] (fading support), [[cognitive-offloading|Over-Reliance]] (tool dependence), and [[sociocultural-learning]] (general-purpose AI operates outside the ZPD by completing work for students). It is the bridge between assisted performance and genuine learning — the distinction between [[stanford-evidence-base-ai-k12-2026]] and the central question for [[intelligent-tutoring|AI Tutoring]] effectiveness.
+Transfer of learning connects to [[metacognition|metacognition]] (self-monitoring of understanding), Cognitive Load Theory (germane vs extraneous load), [[desirable-difficulties|desirable difficulties]] (productive struggle), [[scaffolding|scaffolding]] (fading support), [[cognitive-offloading|Over-Reliance]] (tool dependence), and [[sociocultural-learning|sociocultural learning]] (general-purpose AI operates outside the ZPD by completing work for students). It is the bridge between assisted performance and genuine learning — the distinction between [[stanford-evidence-base-ai-k12-2026|Walker et al. (2026)]] and the central question for [[intelligent-tutoring|AI Tutoring]] effectiveness.
 
 ## Common Misconceptions
 

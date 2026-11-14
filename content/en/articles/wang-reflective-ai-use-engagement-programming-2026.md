@@ -25,7 +25,7 @@ reviewed_by: [editor]
 
 ---
 
-> **Synthesis:** Wang and Zhao (2026) ask whether accepting an AI coding assistant is the same as learning from it, and answer with an evidence-integration framework, not a single experiment. The Reflective AI Acceptance Integration Framework (RAIAF) coordinates three independent public datasets that are never pooled: a survey structural equation model (N = 131) covering [[technology-acceptance-model|technology acceptance]], reflective use, [[self-efficacy]], and [[student-engagement|engagement]]; human coding of 66 Critical Engagement texts from a GitHub Copilot field study; and modeling of Digital Teaching Assistant (DTA) programming logs (N = 1,423; 40 percent window N = 1,122) that carry no AI-use measure. In the survey, acceptance predicted reflective use (β = 0.774) and engagement (β = 0.694), and reflective use predicted self-efficacy (β = 0.519) and engagement (β = 0.273), but no indirect effect was significant. Text and log evidence stayed exploratory and weak. Acceptance and reflective use are separate constructs, and the mechanism linking them to learning is only partially supported.
+> **Synthesis:** Wang and Zhao (2026) ask whether accepting an AI coding assistant is the same as learning from it, and answer with an evidence-integration framework, not a single experiment. The Reflective AI Acceptance Integration Framework (RAIAF) coordinates three independent public datasets that are never pooled: a survey structural equation model (N = 131) covering [[technology-acceptance-model|technology acceptance]], reflective use, [[self-efficacy|self-efficacy]], and [[student-engagement|engagement]]; human coding of 66 Critical Engagement texts from a GitHub Copilot field study; and modeling of Digital Teaching Assistant (DTA) programming logs (N = 1,423; 40 percent window N = 1,122) that carry no AI-use measure. In the survey, acceptance predicted reflective use (β = 0.774) and engagement (β = 0.694), and reflective use predicted self-efficacy (β = 0.519) and engagement (β = 0.273), but no indirect effect was significant. Text and log evidence stayed exploratory and weak. Acceptance and reflective use are separate constructs, and the mechanism linking them to learning is only partially supported.
 
 ## Key Findings
 
@@ -38,7 +38,7 @@ reviewed_by: [editor]
 
 ## Three strands, one framework
 
-RAIAF is an evidence-integration design, not a new [[machine-learning]] architecture: the datasets have different participants and contexts, came from other teams, and are never pooled. Only the survey and Copilot text modules address AI-supported programming directly; the DTA module captures behavior without any AI-assistant signal, so it complements the psychological analysis but cannot confirm it. Dataset A is a survey with 131 valid responses measuring acceptance (six items), reflective use (three items), self-efficacy (four items), and engagement (nine items). Dataset B holds 114 Copilot field-study records. Dataset C is a public DTA programming-submission log. All analyses are secondary and de-identified, so no additional [[ethics]]-board review was required.
+RAIAF is an evidence-integration design, not a new [[machine-learning|machine learning]] architecture: the datasets have different participants and contexts, came from other teams, and are never pooled. Only the survey and Copilot text modules address AI-supported programming directly; the DTA module captures behavior without any AI-assistant signal, so it complements the psychological analysis but cannot confirm it. Dataset A is a survey with 131 valid responses measuring acceptance (six items), reflective use (three items), self-efficacy (four items), and engagement (nine items). Dataset B holds 114 Copilot field-study records. Dataset C is a public DTA programming-submission log. All analyses are secondary and de-identified, so no additional [[ethics|ethics]]-board review was required.
 
 ## Acceptance separates from reflective use
 
@@ -51,7 +51,7 @@ The Copilot branch coded 66 nonblank Critical Engagement responses on a four-lev
 ## What this means for practice
 
 - **Instructors.** Treat tool acceptance as a starting condition, not evidence of learning: acceptance and reflective use behaved as separate constructs, so a satisfied class is not a reflective one.
-- **Instructional designers.** Build [[reflection]] prompts into AI programming tools instead of assuming students will evaluate suggestions spontaneously; the authors call for experimental tests.
+- **Instructional designers.** Build [[reflection|reflection]] prompts into AI programming tools instead of assuming students will evaluate suggestions spontaneously; the authors call for experimental tests.
 - **Researchers.** Read the three strands separately: the survey is strongest, the text module is exploratory, and the log model is a boundary test, not a replication.
 - **Researchers.** Treat recovery and persistence log indicators as approximations, not validated self-efficacy measures.
 

@@ -24,7 +24,7 @@ reviewed_by: [editor]
 
 ---
 
-> **Synthesis:** Hu (2026) tests a moderated serial mediation model on survey data from 450 university students in mainland China who already use ChatGPT, asking not who takes the tool up but who carries it deeper into their studies. Drawing on [[technology-acceptance-model|technology acceptance theory]], trust in automation, and Bandura's [[self-efficacy]] theory, the study positions [[ai-literacy|AI literacy]] as a distal correlate whose association with continued use runs partly through [[trust]] in the tool and then through academic self-efficacy, an ordered chain rather than two parallel mediators. All six direct paths were significant, and the serial indirect path from literacy to trust to self-efficacy to continued use held under Monte Carlo confidence intervals. [[anxiety-and-stress|AI anxiety]] weakened the literacy to trust link, so the whole indirect chain thinned for more anxious students. Because the design is cross-sectional and the sample is restricted to existing users, the ordering is a modeling assumption rather than an established sequence.
+> **Synthesis:** Hu (2026) tests a moderated serial mediation model on survey data from 450 university students in mainland China who already use ChatGPT, asking not who takes the tool up but who carries it deeper into their studies. Drawing on [[technology-acceptance-model|technology acceptance theory]], trust in automation, and Bandura's [[self-efficacy|self-efficacy]] theory, the study positions [[ai-literacy|AI literacy]] as a distal correlate whose association with continued use runs partly through [[trust|trust]] in the tool and then through academic self-efficacy, an ordered chain rather than two parallel mediators. All six direct paths were significant, and the serial indirect path from literacy to trust to self-efficacy to continued use held under Monte Carlo confidence intervals. [[anxiety-and-stress|AI anxiety]] weakened the literacy to trust link, so the whole indirect chain thinned for more anxious students. Because the design is cross-sectional and the sample is restricted to existing users, the ordering is a modeling assumption rather than an established sequence.
 
 ## Key Findings
 
@@ -39,7 +39,7 @@ reviewed_by: [editor]
 
 Participants were 450 students at universities in mainland China. Because ChatGPT is not officially accessible there, eligibility required prior use through a virtual private network or a third-party relay platform, and recruitment ran as a convenience and snowball sample through student networks. Fifty-six percent identified as women, respondents spanned all undergraduate years plus postgraduate study, and prior use ranged from one to twenty months (M = 7.96, SD = 4.17).
 
-[[ai-literacy|AI literacy]] was measured with 12 items, [[trust]] in the tool with six, academic [[self-efficacy]] with eight (general rather than tool-specific), AI anxiety with eight, and continued use with seven combining four intention items and three current-use items. Confirmatory factor analysis preceded a full latent-variable structural equation model, indirect effects were tested with Monte Carlo confidence intervals over 20,000 draws, and gender, year of study, discipline, and prior use served as controls.
+[[ai-literacy|AI literacy]] was measured with 12 items, [[trust|trust]] in the tool with six, academic [[self-efficacy|self-efficacy]] with eight (general rather than tool-specific), AI anxiety with eight, and continued use with seven combining four intention items and three current-use items. Confirmatory factor analysis preceded a full latent-variable structural equation model, indirect effects were tested with Monte Carlo confidence intervals over 20,000 draws, and gender, year of study, discipline, and prior use served as controls.
 
 ## The Ordered Sequence and Its Evidence
 
@@ -57,7 +57,7 @@ Two readings remain open and the design cannot separate them. Anxiety may interf
 
 - **Instructors.** Treat [[ai-literacy|AI literacy]] as a psychological competence, not a feature tour, because trust carried the largest share of the literacy to use association (beta = 0.50). Teach what [[generative-ai|generative AI]] does well, where it fails, and how to verify output, so that [[trust-calibration|calibrated trust]] is the outcome.
 - **Instructors.** Address AI anxiety alongside skills through supervised practice, worked examples, and explicit normalization of uncertainty, since the literacy to trust slope fell from 0.76 to 0.25 across the anxiety range.
-- **Designers.** Build transparency into student-facing tools so a system's reasoning and limits are legible, which the authors argue supports calibrated trust and eases the anxiety its absence produces, and frame tools around students' academic goals so small early successes can build [[self-efficacy]].
+- **Designers.** Build transparency into student-facing tools so a system's reasoning and limits are legible, which the authors argue supports calibrated trust and eases the anxiety its absence produces, and frame tools around students' academic goals so small early successes can build [[self-efficacy|self-efficacy]].
 - **Researchers and administrators.** These implications concern students who already use the tool; the study offers no basis for recommendations about encouraging first-time uptake.
 
 ## Limitations

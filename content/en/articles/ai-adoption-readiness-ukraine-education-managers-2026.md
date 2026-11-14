@@ -38,8 +38,8 @@ Because no single barrier was necessary or sufficient for low readiness, there i
 
 ## What this means for practice
 - **Administrators.** Measure personal and institutional AI readiness as separate constructs — the 0.68-point gap is the actionable signal, and leaders who are personally ready may still be institutionally blocked.
-- **Administrators and policymakers.** Treat regulatory absence (58.5%) and digital-competency gaps (53.9%) as the binding constraints and build [[governance]] frameworks alongside capacity-building, since no single barrier explains low readiness.
-- **Policymakers.** Differentiate [[educational-development|professional development]] by manager typology rather than offering one generic AI training — Competency-constrained managers need skills building, Regulation-blocked managers need governance [[scaffolding]], Barrier-free skeptics need evidence-based trust-building.
+- **Administrators and policymakers.** Treat regulatory absence (58.5%) and digital-competency gaps (53.9%) as the binding constraints and build [[governance|governance]] frameworks alongside capacity-building, since no single barrier explains low readiness.
+- **Policymakers.** Differentiate [[educational-development|professional development]] by manager typology rather than offering one generic AI training — Competency-constrained managers need skills building, Regulation-blocked managers need governance [[scaffolding|scaffolding]], Barrier-free skeptics need evidence-based trust-building.
 - **Researchers.** Treat the six typologies and the fsQCA null as exploratory: bootstrap stability was poor (mean ARI = 0.385) and the structural model could not be estimated, so larger-sample replication comes first.
 
 ## Limitations

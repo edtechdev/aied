@@ -17,7 +17,7 @@ page_kind: [evaluation]
 
 > **Synthesis:** This paper presents a rigorous empirical comparison between [[llm|LLM]]-based and semantic similarity methods for [[automated-assessment|automated assessment]] of student self-explanations in [[cs-education|programming education]]. The task is framed as binary classification — determining whether a student's explanation of a worked-example step is correct or incorrect.
 
-Worked examples — step-by-step problem solutions — are a well-established [[scaffolding]] technique, and their effectiveness increases when students are prompted to self-explain each step. However, manually assessing these [[self-regulated-learning|self-explanations]] doesn't scale. The prevailing approach has been to compare student responses to reference explanations using semantic similarity metrics, but recent advances in large language models raise the question of whether LLM-based scoring now outperforms these traditional methods.
+Worked examples — step-by-step problem solutions — are a well-established [[scaffolding|scaffolding]] technique, and their effectiveness increases when students are prompted to self-explain each step. However, manually assessing these [[self-regulated-learning|self-explanations]] doesn't scale. The prevailing approach has been to compare student responses to reference explanations using semantic similarity metrics, but recent advances in large language models raise the question of whether LLM-based scoring now outperforms these traditional methods.
 
 The authors address a critical gap: high-quality, [[discipline-specific-aied|domain-specific]] datasets with balanced class distributions for automated scoring tasks. Their contribution is both [[research-methods-aied|methodological]] (a rigorous comparison framework) and empirical (which approach works better, and under what conditions).
 
@@ -28,7 +28,7 @@ The authors address a critical gap: high-quality, [[discipline-specific-aied|dom
 
 ## Connection to Knowledge Base
 
-This work extends the [[automated-assessment|Automated Grading]] landscape by addressing a specific gap: assessment of open-ended self-explanations rather than final answers or code submissions. It complements research on [[cong-confidence-asag-2026]] and [[structured-llm-feedback-programming]] by focusing on the [[formative-assessment|formative]], [[metacognition|metacognitive]] dimension of student learning rather than [[summative-assessment|summative]] evaluation.
+This work extends the [[automated-assessment|Automated Grading]] landscape by addressing a specific gap: assessment of open-ended self-explanations rather than final answers or code submissions. It complements research on [[cong-confidence-asag-2026|Cong et al., 2026]] and [[structured-llm-feedback-programming|Mihaylova et al. (2026)]] by focusing on the [[formative-assessment|formative]], [[metacognition|metacognitive]] dimension of student learning rather than [[summative-assessment|summative]] evaluation.
 
 ## What this means for practice
 

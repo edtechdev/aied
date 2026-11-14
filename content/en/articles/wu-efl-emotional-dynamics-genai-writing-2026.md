@@ -58,7 +58,7 @@ A [[qualitative-research|multiple-case design]] can show that divergent trajecto
 
 ## What this means for practice
 
-For instructors, the practical task is routing support by profile, not choosing a tool. Advanced learners need agency-preserving challenge rather than more [[scaffolding]]. Efficiency-driven learners need tasks that make their GenAI use visible and accountable, since the multi-step requirements were what turned Grace's annoyance into scrutiny. Vulnerable learners need affective support plus foundational language and GenAI literacy, delivered in a language they can process: Sarah's exclusion began with workshops she could not follow. [[teacher-role|Teacher]] attention is what no tool replaces; the costliest failure here was an unread note.
+For instructors, the practical task is routing support by profile, not choosing a tool. Advanced learners need agency-preserving challenge rather than more [[scaffolding|scaffolding]]. Efficiency-driven learners need tasks that make their GenAI use visible and accountable, since the multi-step requirements were what turned Grace's annoyance into scrutiny. Vulnerable learners need affective support plus foundational language and GenAI literacy, delivered in a language they can process: Sarah's exclusion began with workshops she could not follow. [[teacher-role|Teacher]] attention is what no tool replaces; the costliest failure here was an unread note.
 
 ## Limitations
 

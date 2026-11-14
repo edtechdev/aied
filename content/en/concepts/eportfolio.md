@@ -1,7 +1,7 @@
 ---
 title: E-Portfolio
 created: "2026-08-20T09:00:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ confidence: high
 reviewed_by: [editor]
 ---
 
-> **E-Portfolio (e-portfolio)** — a digital collection of a learner's work, reflections, and evidence of achievement, used for [[assessment]], learning, and evaluation. In the AI era, e-portfolios have emerged as a relatively **AI-robust and AI-assisted** assessment form: they capture the *process* of learning (reasoning, drafting, reflection) rather than just the final artifact, making them valuable against the collapse of the artifact-as-proxy, and [[generative-ai|generative AI]] can support their creation, [[feedback]], and evaluation.
+> **E-Portfolio (e-portfolio)** — a digital collection of a learner's work, reflections, and evidence of achievement, used for [[assessment|assessment]], learning, and evaluation. In the AI era, e-portfolios have emerged as a relatively **AI-robust and AI-assisted** assessment form: they capture the *process* of learning (reasoning, drafting, reflection) rather than just the final artifact, making them valuable against the collapse of the artifact-as-proxy, and [[generative-ai|generative AI]] can support their creation, [[feedback|feedback]], and evaluation.
 
 ## Questions to Consider
 
@@ -38,7 +38,7 @@ The research shows e-portfolios are increasingly central to productive AI integr
 
 ## Why e-portfolios matter for AI integration
 
-Because e-portfolios foreground **process, reflection, and demonstrated understanding** over a single final artifact, they directly address the central AI problem: when AI can produce a polished product, the product no longer evidences the engagement behind it. E-portfolios shift assessment toward the evidence that survives — drafts, revisions, reasoning traces, and reflective [[self-assessment]] — while AI itself can assist in generating feedback, [[scaffolding]] reflection, and (with appropriate rubric design) supporting evaluation. This makes e-portfolios a cornerstone of [[authentic-assessment|authentic]], [[formative-assessment|formative]], and [[process-oriented-assessment|process-based assessment]] in the [[generative-ai|generative AI]] era, and a natural home for [[feedback-literacy|feedback literacy]] and [[self-regulated-learning|self-regulated learning]].
+Because e-portfolios foreground **process, reflection, and demonstrated understanding** over a single final artifact, they directly address the central AI problem: when AI can produce a polished product, the product no longer evidences the engagement behind it. E-portfolios shift assessment toward the evidence that survives — drafts, revisions, reasoning traces, and reflective [[self-assessment|self-assessment]] — while AI itself can assist in generating feedback, [[scaffolding|scaffolding]] reflection, and (with appropriate rubric design) supporting evaluation. This makes e-portfolios a cornerstone of [[authentic-assessment|authentic]], [[formative-assessment|formative]], and [[process-oriented-assessment|process-based assessment]] in the [[generative-ai|generative AI]] era, and a natural home for [[feedback-literacy|feedback literacy]] and [[self-regulated-learning|self-regulated learning]].
 
 ## Implications for Practice
 
@@ -50,7 +50,7 @@ Because e-portfolios foreground **process, reflection, and demonstrated understa
 
 **For developers**
 
-- Build for revision history and versioning rather than for a polished final view; the [[pedagogy]] lives in the diff.
+- Build for revision history and versioning rather than for a polished final view; the [[pedagogy|pedagogy]] lives in the diff.
 - Make reflection prompts structured enough to be assessed, since unstructured reflection is where AI-generated text passes most easily.
 
 **For researchers**
@@ -63,7 +63,7 @@ Because e-portfolios foreground **process, reflection, and demonstrated understa
 
 **"AI makes e-portfolios as easy to fake as essays."** The failure mode is different and the evidence shows the format moving in the other direction. Combining ChatGPT with e-portfolio assessment (a CEA model) in EFL speaking produced significant gains in speaking performance (**F(1) = 48.554, p < .001**) and [[feedback-literacy|feedback literacy]] (**F(1) = 16.135, p < .001**), with e-portfolios supporting the reflective layer. The portfolio did not become the weak link once AI was added to the course; it carried the assessment.
 
-**"A significant multivariate result proves the portfolio was the active ingredient."** It proves the package moved the outcomes. The study combined an AI tool, a portfolio structure and speaking tasks, and a design of that shape cannot isolate which component produced the gain. The defensible claim is about the combination, and the [[learning-gains]] caution applies: reported gains need to be traced to a component before they can be reused.
+**"A significant multivariate result proves the portfolio was the active ingredient."** It proves the package moved the outcomes. The study combined an AI tool, a portfolio structure and speaking tasks, and a design of that shape cannot isolate which component produced the gain. The defensible claim is about the combination, and the [[learning-gains|learning gains]] caution applies: reported gains need to be traced to a component before they can be reused.
 
 **"E-portfolios replace the need for unassisted assessment."** They complement it. A portfolio evidences process and growth over time; it does not evidence what a learner can do without support, and conflating the two reintroduces the artifact-as-proxy problem the format was adopted to solve.
 

@@ -15,7 +15,7 @@ page_kind: [framework, evaluation]
 methods: [ai-ed-evaluation, qualitative-research]
 ---
 
-> **Synthesis:** Semi-structured interviews with 12 teachers who tutored [[simulating-students|LLM-simulated students]] (MathDial dataset) reveal key authenticity gaps: overly complex language, lack of emotions, unnatural attentiveness, and logical inconsistency. The study categorizes four real-world student behavior types along scaffolding and presence dimensions, and provides design guidelines for building higher-fidelity LLM student [[simulation|simulations]].
+> **Synthesis:** Semi-structured interviews with 12 teachers who tutored [[simulating-students|LLM-simulated students]] (MathDial dataset) reveal key authenticity gaps: overly complex language, lack of emotions, unnatural attentiveness, and logical inconsistency. The study categorizes four real-world student behavior types along [[scaffolding|scaffolding]] and presence dimensions, and provides design guidelines for building higher-fidelity LLM student [[simulation|simulations]].
 
 ## Methodology
 
@@ -24,7 +24,7 @@ Martynova et al. interviewed 12 teachers who had extensively interacted with [[s
 - **[[community-of-inquiry|Community of Inquiry]] (CoI)** — capturing social and cognitive presence in learning interactions
 - **[[scaffolding|Scaffolding theory]]** — effective [[teacher-role|teaching]] through graduated support
 
-Teachers tutored [[llm|LLM]] students in [[k-12|K-12]] [[math-education|math]] [[problem-solving]] dialogues, then rated realism and described deviations from authentic student behavior.
+Teachers tutored [[llm|LLM]] students in [[k-12|K-12]] [[math-education|math]] [[problem-solving|problem-solving]] dialogues, then rated realism and described deviations from authentic student behavior.
 
 ## Key Findings
 

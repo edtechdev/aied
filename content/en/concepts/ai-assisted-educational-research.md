@@ -1,7 +1,7 @@
 ---
 title: AI-Assisted Educational Research
 created: "2026-10-05T10:45:00-04:00"
-updated: "2026-11-13T10:36:25-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -23,7 +23,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** AI-assisted educational research is the use of AI as an instrument of the field's own scholarly work — searching and retrieving literature, screening records for reviews, coding qualitative data, analyzing data, drafting and editing manuscripts, and the reflection that asks what those tools do to the knowledge produced. It is distinct from research *on* [[ai-education|AI in education]]: the designs used to study whether AI helps learners belong to [[research-methods-aied]], the appraisal of AI systems belongs to [[ai-ed-evaluation]], and the reading of a single AIED study belongs to [[interpreting-and-applying-aied-research]]. The subject is the researcher's own workflow and the practitioner-researcher's inquiry: the scholarship of teaching and learning and classroom research, and the epistemic stakes when automation enters either one. Its evidence is thin and recent: a framework proposal, one review team's reflective account, a small focus-group study, two bibliometric studies, a workshop report, and single-investigator case studies. It describes a direction of travel rather than established practice, and the practitioner-research strand is the thinnest of all.
+> **Synthesis:** AI-assisted educational research is the use of AI as an instrument of the field's own scholarly work — searching and retrieving literature, screening records for reviews, coding qualitative data, analyzing data, drafting and editing manuscripts, and the reflection that asks what those tools do to the knowledge produced. It is distinct from research *on* [[ai-education|AI in education]]: the designs used to study whether AI helps learners belong to [[research-methods-aied|research methods]], the appraisal of AI systems belongs to [[ai-ed-evaluation|AI ed evaluation]], and the reading of a single AIED study belongs to [[interpreting-and-applying-aied-research|interpreting and applying AIEd research]]. The subject is the researcher's own workflow and the practitioner-researcher's inquiry: the scholarship of teaching and learning and classroom research, and the epistemic stakes when automation enters either one. Its evidence is thin and recent: a framework proposal, one review team's reflective account, a small focus-group study, two bibliometric studies, a workshop report, and single-investigator case studies. It describes a direction of travel rather than established practice, and the practitioner-research strand is the thinnest of all.
 
 ## Questions to Consider
 
@@ -38,7 +38,7 @@ ai_assist:
 
 AI-assisted educational research is the field turning AI tools on its own work. The object of study is not a learner using an [[intelligent-tutoring|AI tutor]] but a researcher using a model to search, screen, extract, code, analyze, or write. What changes is the researcher's workflow and, more quietly, the criteria by which its output counts as evidence.
 
-The focus is deliberately not research *on* AI in education. Questions about whether an AI tutor improves learning are addressed by [[research-methods-aied]], the appraisal of AI systems by [[ai-ed-evaluation]], and the cautious reading of a single study by [[interpreting-and-applying-aied-research]] and [[limitations-in-aied-research]]. The two literatures are often conflated, and the tooling claims of the second are frequently borrowed to support the first.
+The focus is deliberately not research *on* AI in education. Questions about whether an AI tutor improves learning are addressed by [[research-methods-aied|research methods]], the appraisal of AI systems by [[ai-ed-evaluation|AI ed evaluation]], and the cautious reading of a single study by [[interpreting-and-applying-aied-research|interpreting and applying AIEd research]] and [[limitations-in-aied-research|limitations in AIEd research]]. The two literatures are often conflated, and the tooling claims of the second are frequently borrowed to support the first.
 
 The scope runs from literature search through screening, coding, analysis, and writing, and includes the epistemological reflection that asks what automation does to the knowledge a field produces. It also includes practitioner research: the scholarship of teaching and learning and classroom inquiry, where a [[teacher-role|teacher]] studies their own practice. That strand is the weakest part of the evidence, and the gap is stated plainly rather than smoothed over.
 
@@ -68,7 +68,7 @@ Systematic reviews are where automation has advanced furthest, and where its lim
 
 Their conclusion is a division of labor rather than a handover: assign automation to procedural load, verify every output, and keep interpretive decisions human. The account is one team's reflection with no comparison condition, so its strategies are described rather than tested.
 
-[[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta and Lin (2026)]] quantify the reporting problem across 888 review-automation papers carrying 14,726 annotation items. From 2023 onward, 38.0% of software and product work carried no evaluation at all, against 9.3% of [[llm]] papers. In screening and selection the pattern holds: software papers averaged 3.2 substantive evaluation items with 39.3% reporting none, while LLM papers averaged 7.3 items and a 3.8% no-evaluation rate.
+[[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta and Lin (2026)]] quantify the reporting problem across 888 review-automation papers carrying 14,726 annotation items. From 2023 onward, 38.0% of software and product work carried no evaluation at all, against 9.3% of [[llm|LLM]] papers. In screening and selection the pattern holds: software papers averaged 3.2 substantive evaluation items with 39.3% reporting none, while LLM papers averaged 7.3 items and a 3.8% no-evaluation rate.
 
 Favorable assessment did not imply fitness for delegation. Among 118 LLM papers with positive-only evaluations, 52% still reported at least one concern that the workflow fell below the bar required for its role. Model access was overwhelmingly proprietary: 84.1% of LLM usage relied on proprietary or hosted systems, 11.0% was mixed, and only 4.9% was open-weight.
 
@@ -144,7 +144,7 @@ The limitations are the ones a single self-observed case invites. One researcher
 
 [[simulating-students|Simulating students]] covers the technique and the phenomenon: how to build a synthetic learner whose knowledge state and errors are faithful enough to stand in for a person. The same apparatus serves as an instrument of research and evaluation: what a synthetic learner is *for* when an intervention, an instrument, a benchmark, or a tutor must be tested at a scale or in conditions real learners cannot supply.
 
-The clearest use is evaluating a tutor over time. [[educlaw-bench-pedagogical-llm-agents-2026|Lee et al. (2026)]] place an agent tutor in a 30-day relationship with a simulated learner whose mastery, from a [[knowledge-tracing]] model trained on real-student data, drives its answers. Evaluating 10 agent adapters, every adapter plateaued within 5–10 days far below an ideal-learning reference, a result single-session evaluation cannot reach. A calibration check against observed probe accuracy hugs the diagonal (ECE 0.049, Brier 0.033 over 1.19 million attempts).
+The clearest use is evaluating a tutor over time. [[educlaw-bench-pedagogical-llm-agents-2026|Lee et al. (2026)]] place an agent tutor in a 30-day relationship with a simulated learner whose mastery, from a [[knowledge-tracing|knowledge tracing]] model trained on real-student data, drives its answers. Evaluating 10 agent adapters, every adapter plateaued within 5–10 days far below an ideal-learning reference, a result single-session evaluation cannot reach. A calibration check against observed probe accuracy hugs the diagonal (ECE 0.049, Brier 0.033 over 1.19 million attempts).
 
 Fidelity is the precondition, and it is measurable. [[beagle-grounded-learner-emulation-2026|Wang et al. (2026)]] report behavioral divergence from real student traces of DKL = 0.31 against 0.53 for the best baseline, and in a 71-rater Turing test its traces were statistically indistinguishable from real student data (52.8% accuracy, d′ = 0.15). The failure to avoid is competency bias: prompted models solve the task too well to stand in for novices.
 

@@ -38,7 +38,7 @@ verified: [citation, numbers, links]
 
 ## What was searched, and what the counts count
 
-The protocol was prepared in advance but not registered. The search covered Scopus, Web of Science, ERIC, the British Education Index and Education Source from 1 January 2022 to 6 June 2026, with Spanish records added in January 2026. The unit of synthesis is the record, not the study, so a paper reporting many practices contributes many times: 5 studies supplied 62 of 192 practice records and 37 of 122 approach ones. Record frequencies describe the composition of the extracted material, not independent observations or population prevalence. Broad AI and [[ethics]] vocabulary made the search imprecise: 21,720 records for 31 studies. Included studies were recent: 77.4% appeared in 2025 or 2026.
+The protocol was prepared in advance but not registered. The search covered Scopus, Web of Science, ERIC, the British Education Index and Education Source from 1 January 2022 to 6 June 2026, with Spanish records added in January 2026. The unit of synthesis is the record, not the study, so a paper reporting many practices contributes many times: 5 studies supplied 62 of 192 practice records and 37 of 122 approach ones. Record frequencies describe the composition of the extracted material, not independent observations or population prevalence. Broad AI and [[ethics|ethics]] vocabulary made the search imprecise: 21,720 records for 31 studies. Included studies were recent: 77.4% appeared in 2025 or 2026.
 
 ## Six principles, and why no practice is responsible by itself
 

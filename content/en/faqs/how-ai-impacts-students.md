@@ -25,7 +25,7 @@ The short answer, in a form you can repeat to a friend: AI is useful where you n
 
 **1.** Decide before you open the tool which parts of the assignment you will do yourself.
 
-**2.** Use it to get unstuck, to get [[feedback]], and to see a worked example. Do the reasoning yourself.
+**2.** Use it to get unstuck, to get [[feedback|feedback]], and to see a worked example. Do the reasoning yourself.
 
 **3.** Before you submit, close the tab and explain your argument out loud to nobody.
 
@@ -35,19 +35,19 @@ The short answer, in a form you can repeat to a friend: AI is useful where you n
 
 ## Decide what the tool is for
 
-AI can [[scaffolding|scaffold]] understanding when it explains, hints, and gives you practice at the level you are working at, and when it keeps you doing the cognitively important part. That version also supports [[help-seeking]], because you can ask a question you would not ask in front of a room ([[does-ai-help-students-learn|Does using AI actually help students learn?]]).
+AI can [[scaffolding|scaffold]] understanding when it explains, hints, and gives you practice at the level you are working at, and when it keeps you doing the cognitively important part. That version also supports [[help-seeking|help-seeking]], because you can ask a question you would not ask in front of a room ([[does-ai-help-students-learn|Does using AI actually help students learn?]]).
 
-Personalized, immediate, low-stakes support can raise [[motivation]] and [[student-engagement|engagement]], and [[self-determination-theory|self-determination theory]] explains why the useful version works: it feeds autonomy, competence and relatedness. The useless version does the work and leaves all three untouched. Used well, it can also build the [[ai-literacy]], [[distributed-cognition]] and [[metacognition]] people mean when they talk about readiness for an AI-integrated workplace (see [[lodge-adaptive-capabilities-genai-future-2026|adaptive capabilities]]). None of that comes from using the tool. It comes from what you do while using it. Most students get the good and the bad effects in the same week, which is the argument on [[student-experience|Student Experience]].
+Personalized, immediate, low-stakes support can raise [[motivation|motivation]] and [[student-engagement|engagement]], and [[self-determination-theory|self-determination theory]] explains why the useful version works: it feeds autonomy, competence and relatedness. The useless version does the work and leaves all three untouched. Used well, it can also build the [[ai-literacy|AI literacy]], [[distributed-cognition|distributed cognition]] and [[metacognition|metacognition]] people mean when they talk about readiness for an AI-integrated workplace (see [[lodge-adaptive-capabilities-genai-future-2026|adaptive capabilities]]). None of that comes from using the tool. It comes from what you do while using it. Most students get the good and the bad effects in the same week, which is the argument on [[student-experience|Student Experience]].
 
 ## Keep the step you are trying to learn
 
-AI invites [[cognitive-offloading|cognitive offloading]], which means handing over the reasoning you were supposed to practice. The clearest case is a field [[rct]] where an unguarded [[intelligent-tutoring|AI tutor]] improved practice performance and reduced later exam performance ([[ai-misuse-learning-harm]]). You get better at the tutored task and no better at the thing the exam measures. Overuse can also wear down [[metacognition]] and [[self-regulated-learning]], so you lose the ability to tell whether you know something.
+AI invites [[cognitive-offloading|cognitive offloading]], which means handing over the reasoning you were supposed to practice. The clearest case is a field [[rct]] where an unguarded [[intelligent-tutoring|AI tutor]] improved practice performance and reduced later exam performance ([[ai-misuse-learning-harm|AI misuse]]). You get better at the tutored task and no better at the thing the exam measures. Overuse can also wear down [[metacognition|metacognition]] and [[self-regulated-learning|self-regulated learning]], so you lose the ability to tell whether you know something.
 
 A 2026 synthesis of 72 studies in [[cs-education|computing education]] puts numbers on it. [[generative-ai|Generative AI]] reliably raised short-term completion and reduced time-on-task across 36 studies. The gains "do not transfer to independent performance" across 21. Benefit depended on [[prior-knowledge|prior knowledge]]: well-prepared students converted help into durable skill, and under-prepared students used it as a crutch that removed [[productive-failure|productive failure]], which widened competence gaps inside one classroom ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al., systematic review]]).
 
 Take that personally if you are behind in a subject. If you cannot yet tell a good explanation from a confident one, the tool is not neutral help.
 
-Knowing it is there also changes what you are willing to struggle with. [[ai-availability-student-motivation|AI availability and motivation]] documents the reduced willingness to sit in [[productive-failure|productive failure]], and passive acceptance of output can erode [[agency]] and the sense of having done the work (see the [[wang-safety-gap-productive-struggle-2026|safety gap]]).
+Knowing it is there also changes what you are willing to struggle with. [[ai-availability-student-motivation|AI availability and motivation]] documents the reduced willingness to sit in [[productive-failure|productive failure]], and passive acceptance of output can erode [[agency|agency]] and the sense of having done the work (see the [[wang-safety-gap-productive-struggle-2026|safety gap]]).
 
 ## Test yourself without the tool
 
@@ -67,15 +67,15 @@ When AI produces the text, the result can stop feeling like yours, and that is a
 
 AI use is associated with [[anxiety-and-stress|anxiety and stress]], about being replaced, about assessment you cannot predict, and about keeping up (see [[kim-ai-anxiety-comprehensive-analysis|comprehensive analysis of AI anxiety]]). Association is the right word, and the measurement literature is careful about it.
 
-Zhang, Shi and Lu surveyed 1,484 undergraduates and found AI anxiety negatively correlated with academic motivation (r = -0.175) and with emotion [[regulation]] (r = -0.172), with emotion regulation partially mediating the path from anxiety to motivation (indirect effect = -0.076). Daily usage duration predicted almost nothing (r = 0.053). Their conclusion is that literacy instruction should pair with emotion-regulation and [[metacognition|metacognitive]] support, not simply expand tool access ([[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang et al., AI anxiety and academic motivation]]).
+Zhang, Shi and Lu surveyed 1,484 undergraduates and found AI anxiety negatively correlated with academic motivation (r = -0.175) and with emotion [[regulation|regulation]] (r = -0.172), with emotion regulation partially mediating the path from anxiety to motivation (indirect effect = -0.076). Daily usage duration predicted almost nothing (r = 0.053). Their conclusion is that literacy instruction should pair with emotion-regulation and [[metacognition|metacognitive]] support, not simply expand tool access ([[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang et al., AI anxiety and academic motivation]]).
 
 One caution before you diagnose yourself. A critical synthesis of 51 records on [[conversational-ai|conversational AI]] finds that trust, reliance, over-reliance, attachment and dependence get routinely conflated, and that the cross-sectional correlates with loneliness, anxiety, fatigue, procrastination and weaker [[critical-thinking|critical thinking]] do not establish causation. Frequent use is not dependence without impaired control or functional harm, so a heavy week is not a disorder ([[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan, conversational AI engagement and dependence synthesis]]).
 
-The emotional side can also be good. In a [[qualitative-research|qualitative]] study of 28 nursing students and faculty, several described AI as a "companion" that gave comfort and a non-judgmental space during [[medical-education|clinical]] stress ([[akbaba-nursing-ai-experiences-tam-2026|Akbaba & Calik Kus, nursing education]]). The comfort is real and it can shade into reliance, so the [[well-being]] question and the learning question need answering together. Talking to a person about the stress is the part a chatbot cannot do, and [[social-emotional-learning|social-emotional]] support is a human practice first.
+The emotional side can also be good. In a [[qualitative-research|qualitative]] study of 28 nursing students and faculty, several described AI as a "companion" that gave comfort and a non-judgmental space during [[medical-education|clinical]] stress ([[akbaba-nursing-ai-experiences-tam-2026|Akbaba & Calik Kus, nursing education]]). The comfort is real and it can shade into reliance, so the [[well-being|well-being]] question and the learning question need answering together. Talking to a person about the stress is the part a chatbot cannot do, and [[social-emotional-learning|social-emotional]] support is a human practice first.
 
 ## What students get wrong about AI and their own learning
 
-**A better submission means you learned more.** The computing education synthesis found short-term completion rising across 36 studies while the gains failed to transfer across 21 ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al., systematic review]]), and the field [[rct]] found practice improving while later exam performance fell ([[ai-misuse-learning-harm]]). The document and the learning are two outputs, and only one is graded.
+**A better submission means you learned more.** The computing education synthesis found short-term completion rising across 36 studies while the gains failed to transfer across 21 ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al., systematic review]]), and the field [[rct]] found practice improving while later exam performance fell ([[ai-misuse-learning-harm|AI misuse]]). The document and the learning are two outputs, and only one is graded.
 
 **Using it more will fix your anxiety about it.** Anxiety correlated with lower motivation and lower emotion regulation, while daily usage duration predicted almost nothing (r = 0.053), so more hours is not the lever ([[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang et al., AI anxiety and academic motivation]]). The lever in that study is emotion regulation and metacognitive support.
 
@@ -85,13 +85,13 @@ The emotional side can also be good. In a [[qualitative-research|qualitative]] s
 
 ## What your friends will say
 
-**"It is just a tool, like a calculator."** A calculator removes arithmetic you already learned. The [[rct]] and the synthesis describe a tool that can remove reasoning you have not learned yet, which is why the same use leaves one student stronger and another weaker ([[ai-misuse-learning-harm]], [[kumar-genai-computing-education-systematic-review-2026|Kumar et al., systematic review]]).
+**"It is just a tool, like a calculator."** A calculator removes arithmetic you already learned. The [[rct]] and the synthesis describe a tool that can remove reasoning you have not learned yet, which is why the same use leaves one student stronger and another weaker ([[ai-misuse-learning-harm|AI misuse]], [[kumar-genai-computing-education-systematic-review-2026|Kumar et al., systematic review]]).
 
 **"I only use it for editing, so it does not count."** Editing is legitimate in many courses, and it is also the use that gets flagged most readily, which is an argument for disclosing it. What counts is set by your course, so get the answer in writing.
 
 **"If I stop, I will fall behind."** The short-term gains are real and the transfer is the weak part ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al., systematic review]]). Falling behind is measured by what you can do in a room without the tool, which is where the exam, the placement and the interview happen.
 
-**"My grades are fine, so nothing is wrong."** Grades are a performance measure, and the performance-learning gap is exactly the case where they look fine ([[ai-misuse-learning-harm]]). If you want to know whether you learned something, ask what you could do without the tool.
+**"My grades are fine, so nothing is wrong."** Grades are a performance measure, and the performance-learning gap is exactly the case where they look fine ([[ai-misuse-learning-harm|AI misuse]]). If you want to know whether you learned something, ask what you could do without the tool.
 
 ## What to do this week
 
@@ -107,4 +107,4 @@ The emotional side can also be good. In a [[qualitative-research|qualitative]] s
 
 ## Where to go next
 
-[[does-ai-help-students-learn|Does using AI actually help students learn?]] is the evidence question behind these answers, and [[study-with-ai]] covers working routines. [[ai-anxiety-wellbeing]] takes the anxiety side further, and [[guardrails]] explains how a scaffold becomes a substitute. The course-design view is in [[incorporating-ai-literacy|How should I incorporate AI literacy into my course?]] and [[ai-literacy-evidence|What is the evidence on AI literacy interventions in higher education?]].
+[[does-ai-help-students-learn|Does using AI actually help students learn?]] is the evidence question behind these answers, and [[study-with-ai]] covers working routines. [[ai-anxiety-wellbeing]] takes the anxiety side further, and [[guardrails|guardrails]] explains how a scaffold becomes a substitute. The course-design view is in [[incorporating-ai-literacy|How should I incorporate AI literacy into my course?]] and [[ai-literacy-evidence|What is the evidence on AI literacy interventions in higher education?]].

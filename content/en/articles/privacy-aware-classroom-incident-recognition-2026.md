@@ -14,7 +14,7 @@ page_kind: [evaluation]
 methods: [benchmark]
 ---
 
-> **Synthesis:** Pilot study on privacy-aware computer vision for classroom incident detection. Introduces a hybrid [[benchmark]] combining generative CCTV-style videos with real classroom pose data. Proposes a lightweight motion reasoning model that achieves strong incident recognition while preserving student privacy (no facial recognition). Demonstrates that efficient motion-based features can generalize across classroom environments without collecting identifiable student data. [[privacy]], [[k-12]], [[multimodal]], [[edtech-platform]], and benchmark.
+> **Synthesis:** Pilot study on privacy-aware computer vision for classroom incident detection. Introduces a hybrid [[benchmark|benchmark]] combining generative CCTV-style videos with real classroom pose data. Proposes a lightweight motion reasoning model that achieves strong incident recognition while preserving student privacy (no facial recognition). Demonstrates that efficient motion-based features can generalize across classroom environments without collecting identifiable student data. [[privacy]], [[k-12]], [[multimodal|multimodal]], [[edtech-platform|edtech platform]], and benchmark.
 Pilot study on privacy-aware computer vision for classroom incident detection. Introduces a hybrid benchmark combining generative CCTV-style videos with real classroom pose data. Proposes a lightweight motion reasoning model that achieves strong incident recognition while preserving student privacy (no facial recognition). Demonstrates that efficient motion-based features can generalize across classroom environments without collecting identifiable student data.
 
 ## What this means for practice
@@ -23,7 +23,7 @@ Pilot study on privacy-aware computer vision for classroom incident detection. I
 - **Administrators.** Expect a domain gap between generated footage and real classrooms: every method lost accuracy in zero-shot synthetic-to-real transfer, and the proposed model's best real-world accuracy was 63.41% — 4.18 percentage points above the strongest baseline, MSG3D.
 - **Developers.** Involve preschool teachers in dataset validation: all videos and labels were checked by teachers as domain experts, and rejected samples were discarded before use.
 - **Researchers.** Treat generative CCTV-style video as augmentation, not ground truth; the authors caution that such videos can show unrealistic behavior and biased incident representations.
-- **Administrators.** Do not read a benchmark score as deployment readiness: the [[benchmark]] holds 1,296 synthetic and 574 real-world samples from Singapore preschools covering a narrow set of incident classes.
+- **Administrators.** Do not read a benchmark score as deployment readiness: the [[benchmark|benchmark]] holds 1,296 synthetic and 574 real-world samples from Singapore preschools covering a narrow set of incident classes.
 
 ## Limitations
 

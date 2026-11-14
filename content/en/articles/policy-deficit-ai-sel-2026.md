@@ -14,7 +14,7 @@ methods: [meta-analysis-systematic-review]
 institutions: [educational-policy-ai, governance, regulation]
 ---
 
-> **Synthesis:** A [[meta-analysis-systematic-review|systematic review]] of 65 peer-reviewed papers at the intersection of [[ai-education|AI]] and [[social-emotional-learning|social-emotional learning (SEL)]] finds a substantial "policy deficit": nearly three-quarters of studies make no mention of policy implications at all, and those that do often lack the actor-specific detail needed for evidence-informed policymaking. Using a "WH-question" framework (Who, What, Why, When/Where, How), the authors show that policy [[student-engagement|engagement]] correlates with publication venue, reflecting academic incentives that favor technical novelty over [[governance]] and [[regulation]]. They warn of a "techno-solutionist" trap and call for a shift from "implication-as-afterthought" to "implication-as-methodology," offering guidelines for [[research-methods-aied|researchers]], editors, reviewers, and policymakers.
+> **Synthesis:** A [[meta-analysis-systematic-review|systematic review]] of 65 peer-reviewed papers at the intersection of [[ai-education|AI]] and [[social-emotional-learning|social-emotional learning (SEL)]] finds a substantial "policy deficit": nearly three-quarters of studies make no mention of policy implications at all, and those that do often lack the actor-specific detail needed for evidence-informed policymaking. Using a "WH-question" framework (Who, What, Why, When/Where, How), the authors show that policy [[student-engagement|engagement]] correlates with publication venue, reflecting academic incentives that favor technical novelty over [[governance|governance]] and [[regulation|regulation]]. They warn of a "techno-solutionist" trap and call for a shift from "implication-as-afterthought" to "implication-as-methodology," offering guidelines for [[research-methods-aied|researchers]], editors, reviewers, and policymakers.
 
 ## Policy deficit in AI × SEL research
 
@@ -22,7 +22,7 @@ As [[generative-ai|generative AI]] and [[affective-computing|emotion-aware]] sys
 
 ### A majority of studies ignore policy
 
-The central finding is a **policy deficit**: nearly three-quarters of the reviewed studies did not mention policy implications at all. Only about one in four offered any policy recommendation, and few provided detailed, actor-specific guidance on issues such as [[privacy]], [[teacher-education|teacher training]], and resource allocation.
+The central finding is a **policy deficit**: nearly three-quarters of the reviewed studies did not mention policy implications at all. Only about one in four offered any policy recommendation, and few provided detailed, actor-specific guidance on issues such as [[privacy|privacy]], [[teacher-education|teacher training]], and resource allocation.
 
 ### The WH-question framework
 
@@ -48,8 +48,8 @@ Rather than treating policy as a generic ethical horizon, the authors argue AI�
 
 - **Researchers.** Build implication articulation into the research process itself, specifying for each finding who should act, what action is recommended, why, in which context, and how strongly it is framed.
 - **Administrators.** Require actor-specific implications in review, funding, and publication processes — of 65 reviewed papers, only 15 stated explicit policy implications and a further three contained implicit ones.
-- **Researchers.** Specify the institutional safeguards a tool needs — [[privacy]], teacher preparation, resource [[equity-in-ai-education|equity]] — before framing AI-for-SEL deployment as ready for practice, to avoid the techno-solutionist trap.
-- **Administrators.** Treat venue and incentive structure as levers: policy engagement correlated with publication venue, so journal and program expectations can materially change whether research informs [[governance]].
+- **Researchers.** Specify the institutional safeguards a tool needs — [[privacy|privacy]], teacher preparation, resource [[equity-in-ai-education|equity]] — before framing AI-for-SEL deployment as ready for practice, to avoid the techno-solutionist trap.
+- **Administrators.** Treat venue and incentive structure as levers: policy engagement correlated with publication venue, so journal and program expectations can materially change whether research informs [[governance|governance]].
 
 ## Limitations
 

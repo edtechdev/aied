@@ -1,7 +1,7 @@
 ---
 title: Stakeholders
 created: "2026-08-19T17:50:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
@@ -24,18 +24,18 @@ reviewed_by: [editor]
 
 ## The stakeholder landscape
 
-- **Learners (students).** The primary audience — students in [[k-12]], [[higher-ed]], and [[adult-learning]]. The learner side is documented through [[student-experience]], [[student-engagement]], [[misconceptions]], [[student-modeling]], [[well-being]], and [[agency]]. Learners' AI [[ai-literacy]], self-regulation ([[self-regulated-learning]]), and risk of [[cognitive-offloading|over-reliance]] are central concerns.
-- **Teachers and faculty.** Educators who integrate AI into instruction. Covered by [[teacher-role]], [[teacher-ai-competency]], [[teacher-education]], [[educational-development]], and [[tpack]]. Teachers face the dual challenge of using AI in their own teaching and teaching students to use it responsibly (see [[pedagogy|pedagogies and teaching strategies]]).
-- **Instructional designers and learning technologists.** The professionals who design courses, curricula, and learning experiences around AI. Related to [[learning-design]] (the discipline) and [[curriculum-design]], though the *people/role* of instructional designer is not yet a dedicated page — it is grouped here.
-- **Administrators and institutional leaders.** Provosts, deans, CIOs, and leaders who set policy, allocate resources, and govern adoption. Covered by [[administrator]], and connected to [[educational-policy-ai]], [[governance]], and [[regulation]].
-- **Policymakers and regulators.** Government and institutional bodies that set the legal and regulatory framework. Related to [[educational-policy-ai]], [[regulation]], and [[governance]].
+- **Learners (students).** The primary audience — students in [[k-12]], [[higher-ed|higher education]], and [[adult-learning|adult learning]]. The learner side is documented through [[student-experience|student experience]], [[student-engagement|student engagement]], [[misconceptions|misconceptions]], [[student-modeling|student modeling]], [[well-being|well-being]], and [[agency|agency]]. Learners' AI [[ai-literacy|AI literacy]], self-regulation ([[self-regulated-learning|self-regulated learning]]), and risk of [[cognitive-offloading|over-reliance]] are central concerns.
+- **Teachers and faculty.** Educators who integrate AI into instruction. Covered by [[teacher-role|teacher role]], [[teacher-ai-competency|teacher AI competency]], [[teacher-education|teacher education]], [[educational-development|educational development]], and [[tpack|TPACK]]. Teachers face the dual challenge of using AI in their own teaching and teaching students to use it responsibly (see [[pedagogy|pedagogies and teaching strategies]]).
+- **Instructional designers and learning technologists.** The professionals who design courses, curricula, and learning experiences around AI. Related to [[learning-design|learning design]] (the discipline) and [[curriculum-design|curriculum design]], though the *people/role* of instructional designer is not yet a dedicated page — it is grouped here.
+- **Administrators and institutional leaders.** Provosts, deans, CIOs, and leaders who set policy, allocate resources, and govern adoption. Covered by [[administrator|administrator]], and connected to [[educational-policy-ai|educational AI policy]], [[governance|governance]], and [[regulation|regulation]].
+- **Policymakers and regulators.** Government and institutional bodies that set the legal and regulatory framework. Related to [[educational-policy-ai|educational AI policy]], [[regulation|regulation]], and [[governance|governance]].
 - **[[parents-and-families|Parents and families]].** Present in the [[research-methods-aied|research]] (e.g., monitoring [[student-ai-interaction|student AI use]], attitudes toward AI) and now covered by a dedicated page — grouped here as a stakeholder.
 
 ## How stakeholders appear in the research
 
-- **Role-specific competency frameworks.** [[teacher-ai-competency]] and [[tpack]] define what teachers need to use AI effectively; [[ai-literacy]] defines what all audiences (especially students) need.
-- **Differential impacts by role.** Research examines how AI affects different audiences differently — [[student-experience]] studies student outcomes, [[teacher-role]] studies pedagogical integration, [[administrator]] studies institutional strategy, and [[educational-development]] studies professional learning.
-- **Multi-stakeholder governance.** [[governance]] and [[educational-policy-ai]] research emphasizes aligning national, institutional, and classroom stakeholders — policymakers set expectations, administrators implement, teachers adapt, and students experience the result.
+- **Role-specific competency frameworks.** [[teacher-ai-competency|Teacher AI competency]] and [[tpack|TPACK]] define what teachers need to use AI effectively; [[ai-literacy|AI literacy]] defines what all audiences (especially students) need.
+- **Differential impacts by role.** Research examines how AI affects different audiences differently — [[student-experience|student experience]] studies student outcomes, [[teacher-role|teacher role]] studies pedagogical integration, [[administrator|administrator]] studies institutional strategy, and [[educational-development|educational development]] studies professional learning.
+- **Multi-stakeholder governance.** [[governance|Governance]] and [[educational-policy-ai|educational AI policy]] research emphasizes aligning national, institutional, and classroom stakeholders — policymakers set expectations, administrators implement, teachers adapt, and students experience the result.
 - **Equity across audiences.** [[equity-in-ai-education]] examines how AI's benefits and harms distribute across learners and institutions, connecting stakeholders to [[bias-mitigation|fairness]] and access.
 
 - **Role differences can be asserted more easily than observed.** A SWOT of 167 contributions from 152 higher-education personnel found teachers, researchers and administrators converging on the same strengths and threats, while fully anonymous collection left roles unidentifiable, so the study could not test its plan to contrast them ([[beyond-hype-stakeholder-perceptions-genai-2026|Humble & Mozelius, 2026]]).
@@ -44,16 +44,16 @@ reviewed_by: [editor]
 
 A common thread across these stakeholders is **identity** — the sense of who one is and is becoming in relation to AI and to the domain. Identity is distributed across audiences rather than belonging to any single group.
 
-- **Learner identity** — the evolving disciplinary, professional, creative, and academic identity of students ([[learner-identity]]). It is distinct from, but causally connected to, [[agency]]: agency is the [[situated-learning|situated]] capacity to act, while identity is the durable sense of self that accumulates from agentic acts and is threatened by authorship loss and competence doubt under AI.
-- **Teacher identity** — the professional self-understanding of educators ([[teacher-role]]), reshaped by AI as a question of purpose and role rather than skills alone (see [[laidlaw-genai-identity-crisis-faculty-2026|GenAI as identity crisis]]).
+- **Learner identity** — the evolving disciplinary, professional, creative, and academic identity of students ([[learner-identity|learner identity]]). It is distinct from, but causally connected to, [[agency|agency]]: agency is the [[situated-learning|situated]] capacity to act, while identity is the durable sense of self that accumulates from agentic acts and is threatened by authorship loss and competence doubt under AI.
+- **Teacher identity** — the professional self-understanding of educators ([[teacher-role|teacher role]]), reshaped by AI as a question of purpose and role rather than skills alone (see [[laidlaw-genai-identity-crisis-faculty-2026|GenAI as identity crisis]]).
 - **Designers and leaders** — professional identity also shapes how instructional designers, [[administrator|administrators]], and policymakers orient to AI, though the explicit identity evidence concentrates on learners and teachers.
 
-Identity is the human anchor of the stakeholder landscape: it is what AI must support (not erode) for each audience, and it is the construct that connects otherwise separate role pages — [[learner-identity]], [[agency]], and [[teacher-role]] in particular. Where agency concerns *control* and identity concerns *self*, AI design must preserve both: control over one's learning and a robust, authorial sense of who one is in the domain.
+Identity is the human anchor of the stakeholder landscape: it is what AI must support (not erode) for each audience, and it is the construct that connects otherwise separate role pages — [[learner-identity|learner identity]], [[agency|agency]], and [[teacher-role|teacher role]] in particular. Where agency concerns *control* and identity concerns *self*, AI design must preserve both: control over one's learning and a robust, authorial sense of who one is in the domain.
 
 ## Implications for AI in education
 
 - **Design for the full stakeholder set:** effective [[ai-education|AI in education]] must serve learners, support teachers, inform administrators, and align with policy — not just optimize one audience.
-- **Build role-specific competencies:** teachers, students, designers, and leaders each need tailored AI literacy and support (see [[ai-literacy]], [[teacher-ai-competency]], [[educational-development]]).
+- **Build role-specific competencies:** teachers, students, designers, and leaders each need tailored AI literacy and support (see [[ai-literacy|AI literacy]], [[teacher-ai-competency|teacher AI competency]], [[educational-development|educational development]]).
 - **Align across levels:** governance research shows AI succeeds when institutional leadership, teacher practice, and student experience are aligned rather than fragmented.
 - **Consider parents and the broader community:** families are stakeholders in AI adoption whose role and concerns deserve explicit attention.
 

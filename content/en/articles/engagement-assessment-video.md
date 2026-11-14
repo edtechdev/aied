@@ -13,7 +13,7 @@ sources: ['raw/papers/2605.01238.md']
 confidence: medium
 ---
 
-> **Synthesis:** **EduGage** (Leng et al., 2026) shows that fine-grained, segment-level engagement estimation in self-guided [[video-education|video learning]] is *feasible but inherently noisy*. Using wearable and camera-based sensors (PPG, ECG, EDA, EEG, IMU, heart rate, temperature, [[sensor-and-gaze-analytics|eye tracking]]) across a 16-participant user study, the authors' [[multimodal]] model achieved an MAE of 0.81 and 83.75% within-1 accuracy, outperforming sensor-free, statistical, deep-temporal, foundation-model, and [[llm]]-based baselines. The authors argue that practical systems should prioritize lightweight combinations of behavioral and physiological signals over full multimodal instrumentation, and they release the EduGage dataset — synchronized multimodal sensor streams, probe-aligned momentary engagement labels, video metadata, quizzes, and study materials — to support reproducible [[research-methods-aied|research]].
+> **Synthesis:** **EduGage** (Leng et al., 2026) shows that fine-grained, segment-level engagement estimation in self-guided [[video-education|video learning]] is *feasible but inherently noisy*. Using wearable and camera-based sensors (PPG, ECG, EDA, EEG, IMU, heart rate, temperature, [[sensor-and-gaze-analytics|eye tracking]]) across a 16-participant user study, the authors' [[multimodal|multimodal]] model achieved an MAE of 0.81 and 83.75% within-1 accuracy, outperforming sensor-free, statistical, deep-temporal, foundation-model, and [[llm|LLM]]-based baselines. The authors argue that practical systems should prioritize lightweight combinations of behavioral and physiological signals over full multimodal instrumentation, and they release the EduGage dataset — synchronized multimodal sensor streams, probe-aligned momentary engagement labels, video metadata, quizzes, and study materials — to support reproducible [[research-methods-aied|research]].
 
 ## Key Findings
 
@@ -47,7 +47,7 @@ EduGage contributes **real-time sensor fusion** for momentary assessment during 
 ### Technical Approach
 - **Sensors:** Webcam (eye tracking), interaction logs, and wearable devices capturing PPG, ECG, EDA, EEG, IMU, heart rate, and temperature
 - **Assessment:** Momentary (in-the-moment) vs. retrospective, aligned to ~44-second probe-aligned windows
-- **[[feedback|Feedback loop]]:** Real-time [[reflection]] prompts based on engagement state
+- **[[feedback|Feedback loop]]:** Real-time [[reflection|reflection]] prompts based on engagement state
 
 ## Study Design and the EduGage Dataset
 
@@ -70,14 +70,14 @@ This enables **adaptive interventions** in video learning:
 2. **Trigger [[scaffolding|scaffolds]]** (reflection prompt, content re-summarization, revisiting a segment)
 3. **Close loop:** Learner reflects → re-engages → improved outcomes
 
-This aligns with [[adaptive-learning]] principles: real-time learner modeling → personalized intervention. Momentary sensing can support [[self-directed-learning|self-directed learning]], [[student-modeling|student modeling]], and post-hoc content refinement without replacing the [[teacher-role|teacher role]].
+This aligns with [[adaptive-learning|adaptive learning]] principles: real-time learner modeling → personalized intervention. Momentary sensing can support [[self-directed-learning|self-directed learning]], [[student-modeling|student modeling]], and post-hoc content refinement without replacing the [[teacher-role|teacher role]].
 
 ## What this means for practice
 
-- **Software developers.** Prioritize lightweight signal combinations — ring PPG, EEG, IMU, and EDA carried most of the usable signal here — over a full multimodal rig, since the full setup buys accuracy at an instrumentation and [[privacy]] cost that rarely survives deployment. This is the same trade-off seen in other multimodal work, such as [[syal-multimodal-dialogue-stem-2026]] and [[affective-tutoring]].
+- **Software developers.** Prioritize lightweight signal combinations — ring PPG, EEG, IMU, and EDA carried most of the usable signal here — over a full multimodal rig, since the full setup buys accuracy at an instrumentation and [[privacy|privacy]] cost that rarely survives deployment. This is the same trade-off seen in other multimodal work, such as [[syal-multimodal-dialogue-stem-2026|Syal et al., 2026]] and [[affective-tutoring|affective tutoring]].
 - **Instructors.** Use segment-level attention-difficulty estimates to find *where* within a video attention drops, and trigger a just-in-time response (reflection prompt, content re-summarization, or replay of that segment) instead of acting on coarse session-level metrics.
 - **Designers.** Present engagement estimates as approximations and pair low-confidence readings with a [[self-regulated-learning|self-regulation]] prompt, because even the best model reached an MAE of 0.81 on a 5-point scale and the authors describe fine-grained estimation as inherently noisy.
-- **Researchers.** Build on the released EduGage dataset — 16 participants, 64 video-viewing sessions, 715 probe-aligned windows, and approximately 12 hours of synchronized recordings — and its participant-based splits as a reproducible [[benchmark]] for sensor-based [[student-engagement|engagement]] modeling.
+- **Researchers.** Build on the released EduGage dataset — 16 participants, 64 video-viewing sessions, 715 probe-aligned windows, and approximately 12 hours of synchronized recordings — and its participant-based splits as a reproducible [[benchmark|benchmark]] for sensor-based [[student-engagement|engagement]] modeling.
 
 ## Limitations
 

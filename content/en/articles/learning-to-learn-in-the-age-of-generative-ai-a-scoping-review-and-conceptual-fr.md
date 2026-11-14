@@ -15,7 +15,7 @@ page_kind: [synthesis, framework]
 methods: [meta-analysis-systematic-review]
 ---
 
-> **Synthesis:** This paper presents a [[meta-analysis-systematic-review|scoping review]] of learning-to-learn (L2L) definitions within [[pedagogy|pedagogical]] and psychological literature, identifying 21 relevant publications via PRISMA-ScR. It proposes a novel three-layered framework organized by conceptual broadness: Dimensions (cognitive and metacognitive skills), Processes (self-[[regulation]]), and Tools (retrieval practice). The framework maps L2L components to [[generative-ai|GenAI]] application use cases in higher education, positioning L2L as key to reducing GenAI overreliance and fostering learner agency.
+> **Synthesis:** This paper presents a [[meta-analysis-systematic-review|scoping review]] of learning-to-learn (L2L) definitions within [[pedagogy|pedagogical]] and psychological literature, identifying 21 relevant publications via PRISMA-ScR. It proposes a novel three-layered framework organized by conceptual broadness: Dimensions (cognitive and metacognitive skills), Processes (self-[[regulation|regulation]]), and Tools (retrieval practice). The framework maps L2L components to [[generative-ai|GenAI]] application use cases in higher education, positioning L2L as key to reducing GenAI overreliance and fostering [[agency|learner agency]].
 
 ## Key Findings
 

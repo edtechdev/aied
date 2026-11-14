@@ -13,7 +13,7 @@ discipline: [information technology]
 audience: [instructors, instructional designers]
 ---
 
-> **Synthesis:** Cybersecurity education faces increasing challenges as AI-driven attacks become more realistic and harder to detect, while traditional [[video-education|video-based]] training in [[higher-ed|higher education]] suffers from low [[student-engagement|engagement]] and limited effectiveness. Li and colleagues explore AI-powered [[game-based-learning|gamification]] in cybersecurity education through several short, mobile-friendly games covering topics from password security to text and phone scam recognition, incorporating quiz-based, narrative-based, and [[simulation]]-based designs as well as interactive formats such as TikTok Mini-Games. A two-tiered evaluation with 59 college students (9 technical experts and 50 general users) indicates the potential of AI-powered gamification to improve engagement and increase attention to cybersecurity topics in higher education.
+> **Synthesis:** Cybersecurity education faces increasing challenges as AI-driven attacks become more realistic and harder to detect, while traditional [[video-education|video-based]] training in [[higher-ed|higher education]] suffers from low [[student-engagement|engagement]] and limited effectiveness. Li and colleagues explore AI-powered [[game-based-learning|gamification]] in cybersecurity education through several short, mobile-friendly games covering topics from password security to text and phone scam recognition, incorporating quiz-based, narrative-based, and [[simulation|simulation]]-based designs as well as interactive formats such as TikTok Mini-Games. A two-tiered evaluation with 59 college students (9 technical experts and 50 general users) indicates the potential of AI-powered gamification to improve engagement and increase attention to cybersecurity topics in higher education.
 
 ## Key Findings
 
@@ -34,7 +34,7 @@ audience: [instructors, instructional designers]
 ## Limitations
 
 - **The main evaluation is a self-report preference survey:** 50 general students (25 male, 25 female) at one university rated the games, so the evidence is acceptance and [[self-report-measures|self-reported]] confidence rather than observed resistance to real phishing or behavioral change.
-- **The expert tier was not independent:** the 9 technical experts were the games' developers and alpha testers, so their judgments of scenario accuracy, AI-response realism, and deployment stability are [[self-assessment]] by the design team.
+- **The expert tier was not independent:** the 9 technical experts were the games' developers and alpha testers, so their judgments of scenario accuracy, AI-response realism, and deployment stability are [[self-assessment|self-assessment]] by the design team.
 - **No control group and no learning measure:** the study reports no comparison against existing training and no pre/post knowledge or behavior outcome.
 - **The platform was validated as a standalone tool** outside the university LMS, leaving untested whether embedding the modules in coursework changes engagement or completion.
 

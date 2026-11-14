@@ -24,7 +24,7 @@ level: [k 12, higher ed, teacher education]
 - SAIL is **age-agnostic**: Level 1 concepts are considered essential for all ages, while higher levels are introduced at appropriate ages and stages, with educators adapting delivery to context.
 - The framework explicitly addresses the **three-level [[digital-divide|digital divide]]** (van Deursen & van Dijk): access/infrastructure, skills and competencies, and outcomes/benefits — arguing that equity requires more than closing the device gap; it requires building skills to use AI effectively and critically so benefits are distributed fairly.
 - It incorporates **Indigenous perspectives** (Māori data sovereignty, cultural misrecognition, equitable participation) as a core competency strand ("Indigenous Perspectives on AI"), reflecting Aotearoa New Zealand's international leadership in bicultural education and Indigenous data sovereignty.
-- The study reframes AI literacy to include critical awareness of bias (data-related, algorithmic, user-interaction bias), equity, [[governance]], and cultural diversity — distinct from general digital literacies.
+- The study reframes AI literacy to include critical awareness of bias (data-related, algorithmic, user-interaction bias), equity, [[governance|governance]], and cultural diversity — distinct from general digital literacies.
 
 ## Study Design & Method
 

@@ -35,7 +35,7 @@ The study argues that [[research-methods-aied|research]] on students' GenAI use 
 - **Instructors.** Design GenAI tasks that require evaluative integration — students documenting what they checked, changed, rejected, and retained — rather than offering unstructured access to the tool.
 - **Instructors.** Stop judging GenAI use by frequency: how often students used the tool predicted neither academic performance nor self-efficacy in this sample.
 - **Instructors.** Watch for low-verification uptake (uncritical shortcut use), which was negatively associated with performance and with academic self-efficacy, and treat it as the pattern to intervene on.
-- **Faculty developers.** Build understanding-oriented use as a route to [[self-efficacy]]: evaluative integration's link to performance was fully mediated by academic self-efficacy, with no remaining direct effect.
+- **Faculty developers.** Build understanding-oriented use as a route to [[self-efficacy|self-efficacy]]: evaluative integration's link to performance was fully mediated by academic self-efficacy, with no remaining direct effect.
 - **Researchers.** Measure amount and pattern of use separately; the items are an initial empirical step, not a validated scale, and the two-factor structure still needs independent testing.
 
 ## Limitations

@@ -22,7 +22,7 @@ source_depth: full text
 verified: [citation, links]
 ---
 
-> **Synthesis:** Csaszar, Jacobides, and Zemsky treat [[generative-ai|generative AI]] as a strategic shock to the business school itself. Because large language models now perform well on the assignments that certify management competence, the authors ask whether the sector is entering a third epoch, after the applied era of the early 1900s and the research-driven era that followed the 1959 Gordon and Howell report. Applying a value-based framework to willingness to pay and delivery cost, they trace how AI could substitute for or complement [[business-education]], then set out teaching, research, and business model responses. Their conclusion is organizational rather than technological: incremental adaptation will not be enough.
+> **Synthesis:** Csaszar, Jacobides, and Zemsky treat [[generative-ai|generative AI]] as a strategic shock to the business school itself. Because large language models now perform well on the assignments that certify management competence, the authors ask whether the sector is entering a third epoch, after the applied era of the early 1900s and the research-driven era that followed the 1959 Gordon and Howell report. Applying a value-based framework to willingness to pay and delivery cost, they trace how AI could substitute for or complement [[business-education|business education]], then set out teaching, research, and business model responses. Their conclusion is organizational rather than technological: incremental adaptation will not be enough.
 
 ## Key Findings
 
@@ -40,7 +40,7 @@ The paper is a conceptual strategy analysis, not an empirical study. It takes a 
 
 The history gives the framework its stakes. The first epoch was applied and practitioner-led. The second began with the Gordon and Howell report of 1959 and made research the source of legitimacy, installing the faculty reward system the authors later identify as an obstacle. A third epoch would not simply add AI to the curriculum; it would change what the school sells, how it produces it, and who pays. The authors are careful: direction, magnitude, and timing are uncertain, and they present their contribution as a map of uncertainties and a menu of choices, not a forecast.
 
-They note that [[higher-ed]] has absorbed earlier disruption claims and that MOOCs did not unseat business schools. Against this they set the possibility that AI differs because it is a general-purpose technology that now performs the analytical work schools teach.
+They note that [[higher-ed|higher education]] has absorbed earlier disruption claims and that MOOCs did not unseat business schools. Against this they set the possibility that AI differs because it is a general-purpose technology that now performs the analytical work schools teach.
 
 ## Demand: substitute, complement, or both
 

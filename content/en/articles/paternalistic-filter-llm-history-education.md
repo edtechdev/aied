@@ -14,9 +14,9 @@ discipline: [humanities education]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** A systematic API audit of four LLMs acting as history tutors evaluates 1,800 responses about the 1989 Romanian Revolution, exposing a 'paternalistic filter': models differentially refuse or soften answers for marginalized students, reproducing epistemic injustice. The audit reveals that [[guardrails]] and refusals are not uniform but patterned by [[learner-identity|student identity]] and topic sensitivity.
+> **Synthesis:** A systematic API audit of four LLMs acting as history tutors evaluates 1,800 responses about the 1989 Romanian Revolution, exposing a 'paternalistic filter': models differentially refuse or soften answers for marginalized students, reproducing epistemic injustice. The audit reveals that [[guardrails|guardrails]] and refusals are not uniform but patterned by [[learner-identity|student identity]] and topic sensitivity.
 
-Centers on [[llm]] tutors in [[student-experience]] and the harms catalogued under [[hazra-safetutors-pedagogical-safety-2026]], with strong links to [[bias-mitigation]] and [[equity-in-ai-education]] in [[higher-ed]]. It extends [[cognitive-offloading|Over-Reliance]] concerns by showing even refusal behavior can entrench inequality, and calls for fairness evaluations that account for differential treatment across student groups.
+Centers on [[llm|LLM]] tutors in [[student-experience|student experience]] and the harms catalogued under [[hazra-safetutors-pedagogical-safety-2026|Hazra et al. (2026)]], with strong links to [[bias-mitigation|bias mitigation]] and [[equity-in-ai-education|equity]] in [[higher-ed|higher education]]. It extends [[cognitive-offloading|Over-Reliance]] concerns by showing even refusal behavior can entrench inequality, and calls for fairness evaluations that account for differential treatment across student groups.
 
 ## Key Findings
 
@@ -31,7 +31,7 @@ Centers on [[llm]] tutors in [[student-experience]] and the harms catalogued und
 - **Learners.** Ask directly for political actors, causes, and contested interpretations rather than accepting the framing offered, because that framing shifts with your profile: LLaMA's victimization-to-politics ratio moved from about 0.03 for the elite persona to about 0.15 for the Roma persona.
 - **Instructors.** Test deployed tutors for differential treatment rather than aggregate harm, using stratified student personas: the contested "coup theory" appeared in 7.9% of baseline responses but only 4.3% for the Roma minority and 2.6% for the low-tier persona.
 - **Instructors.** Do not read a model's confidence scores as a measure of content quality: Deepseek's mean justification score was 9.60 for the elite persona against 6.90 for the low-tier persona, and GPT_OSS dropped to 7.04 for the Roma persona against an 8.30 baseline.
-- **Instructors.** Treat uneven refusal as a defect to be audited rather than a neutral output of [[guardrails]]: safety alignment that blocks or flattens content for some student identities reproduces the epistemic harms it claims to prevent, so audits for LLM tutors must measure differential treatment, not just aggregate harm.
+- **Instructors.** Treat uneven refusal as a defect to be audited rather than a neutral output of [[guardrails|guardrails]]: safety alignment that blocks or flattens content for some student identities reproduces the epistemic harms it claims to prevent, so audits for LLM tutors must measure differential treatment, not just aggregate harm.
 
 ## Limitations
 

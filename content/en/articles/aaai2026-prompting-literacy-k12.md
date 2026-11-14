@@ -13,7 +13,7 @@ sources: ['raw/papers/aaai2026-prompting-literacy-k12.md']
 confidence: high
 ---
 
-> **Synthesis:** An [[llm]]-based interactive module teaches [[k-12]] students [[prompt-engineering|prompting]] literacy through scenario-based deliberate practice with an AI auto-grader providing immediate, detailed feedback. Deployed across 11 secondary classrooms in two iterations, the module improved students' prompting skills (particularly embedding background context) and confidence in using AI for learning. The study also validates an AI-based auto-grader achieving 0.92 average accuracy and identifies True/False + open-ended questions as more effective than MCQs for assessing prompting literacy.
+> **Synthesis:** An [[llm|LLM]]-based interactive module teaches [[k-12]] students [[prompt-engineering|prompting]] literacy through scenario-based deliberate practice with an AI auto-grader providing immediate, detailed feedback. Deployed across 11 secondary classrooms in two iterations, the module improved students' prompting skills (particularly embedding background context) and confidence in using AI for learning. The study also validates an AI-based auto-grader achieving 0.92 average accuracy and identifies True/False + open-ended questions as more effective than MCQs for assessing prompting literacy.
 
 ## Study Design
 

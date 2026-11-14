@@ -28,19 +28,19 @@ Unlike standard benchmark datasets (MMLU, GSM8K), NSMQ Riddles:
 - Features **progressive clue revelation** — early clues are vague (worth more points), testing incremental reasoning
 - Covers **[[biology-education|biology]], [[chemistry-education|chemistry]], [[physics-education|physics]], and math** at the high school level
 - Evaluates models against **human student performance** in a competitive format
-- Represents African educational content, addressing geographic bias in [[stanford-evidence-base-ai-k12-2026]]
+- Represents African educational content, addressing geographic bias in [[stanford-evidence-base-ai-k12-2026|Walker et al. (2026)]]
 
-The benchmark found that even state-of-the-art models (GPT-5.4, Gemini 3.1 Pro, Claude Opus 4.6) **underperform the best student contestants**, highlighting gaps in [[llm]] scientific reasoning.
+The benchmark found that even state-of-the-art models (GPT-5.4, Gemini 3.1 Pro, Claude Opus 4.6) **underperform the best student contestants**, highlighting gaps in [[llm|LLM]] scientific reasoning.
 
 ## Connections to Knowledge Base
 
-This benchmark connects to [[teachbench-llm-teaching-evaluation]] as another syllabus-grounded evaluation framework, but from a Global South perspective. It complements the [[drawedumath-vlm-struggling-students-2026]] work on DrawEduMath by providing a text-based [[stem-education|STEM]] reasoning benchmark. The focus on competitive quizzing connects to [[automated-question-generation]] [[research-methods-aied|research]] and [[civic-education-ai-lesson-plans]] concerns about AI-generated educational content quality.
+This benchmark connects to [[teachbench-llm-teaching-evaluation|Li et al. (2026)]] as another syllabus-grounded evaluation framework, but from a Global South perspective. It complements the [[drawedumath-vlm-struggling-students-2026|Lucy et al., 2026]] work on DrawEduMath by providing a text-based [[stem-education|STEM]] reasoning benchmark. The focus on competitive quizzing connects to [[automated-question-generation|automated question generation]] [[research-methods-aied|research]] and [[civic-education-ai-lesson-plans|Trust et al. (2025)]] concerns about AI-generated educational content quality.
 
-The finding that LLMs lag behind top human students on these riddles reinforces [[stanford-evidence-base-ai-k12-2026]] concerns — general LLMs may not match specialized educational needs, especially in non-Western contexts.
+The finding that LLMs lag behind top human students on these riddles reinforces [[stanford-evidence-base-ai-k12-2026|Walker et al. (2026)]] concerns — general LLMs may not match specialized educational needs, especially in non-Western contexts.
 
 ## Open Questions
 
-- How well do [[llm-training-and-fine-tuning]] approaches like EduQwen perform on NSMQ compared to general LLMs?
+- How well do [[llm-training-and-fine-tuning|LLM training and fine-tuning]] approaches like EduQwen perform on NSMQ compared to general LLMs?
 - Can the benchmark be extended to other African and Global South educational systems?
 - What does the clue-progression format reveal about LLM reasoning vs. retrieval?
 

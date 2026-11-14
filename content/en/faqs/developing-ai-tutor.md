@@ -48,7 +48,7 @@ Three lists, written before anyone picks a model:
 - What cognitive work they must perform themselves.
 - What the tutor may do for them.
 
-The [[intelligent-tutoring]] literature makes the point that effectiveness depends on [[pedagogy|pedagogical]] design rather than model capability alone, and the failure is easy to build by accident. A tutor optimized for "finish the problem" will undermine a tutor optimized for "learn to solve the problem" while passing every functional test you write, because both produce correct final answers. The difference lives in what the student did between the question and the answer.
+The [[intelligent-tutoring|intelligent tutoring]] literature makes the point that effectiveness depends on [[pedagogy|pedagogical]] design rather than model capability alone, and the failure is easy to build by accident. A tutor optimized for "finish the problem" will undermine a tutor optimized for "learn to solve the problem" while passing every functional test you write, because both produce correct final answers. The difference lives in what the student did between the question and the answer.
 
 The second list is where development teams get concrete. Take a mastery label like "derivative mastery" and refuse to let it mean producing the correct derivative. Break it into recognizing when a derivative is appropriate, interpreting it as an instantaneous rate of change, selecting the rule, carrying out the procedure, explaining why the choice was right, checking reasonableness, and applying it to an unfamiliar problem. Each of those is a separate thing to log, and each implies a different response when it is missing. This decomposition is also the defense against the [[correct-answer-trap-misconceptions|correct-answer trap]], where a learner reaches the right answer through faulty reasoning and your [[learning-analytics|analytics]] record a success. [[correct-answer-trap-ai-tutor|Catching the Correct Answer Trap]] and [[zhang-tutormoments-2026|When Help is Unhelpful]] both describe versions of that failure in production.
 
@@ -56,7 +56,7 @@ The second list is where development teams get concrete. Take a mastery label li
 
 The learner model holds two kinds of state: per-concept estimates (limit: developing, power rule: mastered, product rule: developing, chain rule: not demonstrated) and misconception hypotheses with the evidence and confidence behind each. Keep them separate. The concept estimate is what drives difficulty selection. The hypothesis is what drives the next question.
 
-Be careful about letting an [[llm]] do the diagnosis on its own. [[benchmark|Benchmarking]] found that LLM tutors could recognize clearly correct reasoning while sometimes rejecting valid alternatives or accepting incorrect reasoning. A model that spots the good case and misreads the ambiguous one fails precisely the students who need the help. For consequential domains, the architecture that survives is **structured diagnosis plus flexible LLM dialogue**, the arrangement [[yasir-llm-tutoring-agents-2026|Confirming Correct, Missing the Rest]] describes: your own detector establishes what the student probably did, and the model writes the conversation around that finding.
+Be careful about letting an [[llm|LLM]] do the diagnosis on its own. [[benchmark|Benchmarking]] found that LLM tutors could recognize clearly correct reasoning while sometimes rejecting valid alternatives or accepting incorrect reasoning. A model that spots the good case and misreads the ambiguous one fails precisely the students who need the help. For consequential domains, the architecture that survives is **structured diagnosis plus flexible LLM dialogue**, the arrangement [[yasir-llm-tutoring-agents-2026|Confirming Correct, Missing the Rest]] describes: your own detector establishes what the student probably did, and the model writes the conversation around that finding.
 
 Give the diagnosis an explicit sequence the model cannot skip: detect, verify, respond. The model may propose a [[misconceptions|misconception]] as a hypothesis, then must verify it against the student's actual work or a targeted question before the tutor responds to it. Without that step, the system invents evidence and then tutors the student for a mistake they did not make, which is both useless and slightly insulting.
 
@@ -76,7 +76,7 @@ Write the rungs down before you write a prompt, because the ladder is a product 
 8. Student explains the solution.
 9. Student solves a comparable problem unaided.
 
-Support fades as competence increases, which is the mechanism at the center of [[scaffolding]]. Seeing a worked solution does not demonstrate mastery, so any session that reaches rung seven owes you rung nine before it counts as complete.
+Support fades as competence increases, which is the mechanism at the center of [[scaffolding|scaffolding]]. Seeing a worked solution does not demonstrate mastery, so any session that reaches rung seven owes you rung nine before it counts as complete.
 
 The causal evidence for building the ladder at all comes from a field experiment in which an unguarded GPT interface increased assisted mathematics performance and reduced subsequent unassisted exam performance. A hint-giving tutor largely removed that learning penalty ([[generative-ai-guardrails-harm-learning|Generative AI without guardrails can harm learning]]). The constraint is architectural. The same model, given different help behavior, produced opposite results on the measure that matters.
 
@@ -84,11 +84,11 @@ A larger randomized field experiment with more than 6,000 middle-school students
 
 The same study supplies a warning about your own dashboards. Requiring three correct answers in a row sharply raised platform-defined mastery without producing detectable gains on a delayed test a week later. The strongest delayed-test evidence appeared only where the AI sat inside the mastery workflow (coefficient 0.085), not where it was available as standalone access. If your success metric is a streak counter, you will ship a system that optimizes the streak.
 
-Interface friction belongs in the same design pass. Unlimited hints behind a visible button turn the whole ladder into a shortcut, and premature hint requests with superficial reading are associated with lower [[learning-gains]]. Replacing `[Hint][Hint][Hint][Show Answer]` with the questions "what have you tried?" and "what part is blocking you?" (choosing a rule, setting up the equation, doing the algebra, understanding the concept) costs one screen and routes the student to the rung they actually need. It also gives you the log data that tells you which rung they habitually skip.
+Interface friction belongs in the same design pass. Unlimited hints behind a visible button turn the whole ladder into a shortcut, and premature hint requests with superficial reading are associated with lower [[learning-gains|learning gains]]. Replacing `[Hint][Hint][Hint][Show Answer]` with the questions "what have you tried?" and "what part is blocking you?" (choosing a rule, setting up the equation, doing the algebra, understanding the concept) costs one screen and routes the student to the rung they actually need. It also gives you the log data that tells you which rung they habitually skip.
 
 ## Hand the checkable parts to a checker
 
-Ground generation in instructor-approved material: textbook sections, course notes, worked examples, terminology, approved methods, notation, assignment rules, policies, and [[curriculum-design|curricular]] resources. Retrieval-augmented generation against those materials reduces [[hallucination-risk|hallucination risk]] and does not eliminate it, as [[rag]] sets out. Expose citations or provenance in the interface where a student might check a claim, because the citation is what makes the grounding auditable after the fact.
+Ground generation in instructor-approved material: textbook sections, course notes, worked examples, terminology, approved methods, notation, assignment rules, policies, and [[curriculum-design|curricular]] resources. Retrieval-augmented generation against those materials reduces [[hallucination-risk|hallucination risk]] and does not eliminate it, as [[rag|RAG]] sets out. Expose citations or provenance in the interface where a student might check a claim, because the citation is what makes the grounding auditable after the fact.
 
 Grounding also does a job that accuracy metrics miss. A course has approved methods, and a tutor that introduces a mathematically valid technique the course does not use has taught the student something they will be marked down for. Retrieval from the course layer is how the tutor stays inside the method set.
 
@@ -96,29 +96,29 @@ For domains with formally checkable answers, add deterministic tools: calculator
 
 ## Require the learner to act on the feedback
 
-Feedback that says "Correct," "Incorrect," or "Good job" is a scoring event wearing the interface of teaching. The research treats [[feedback]] as a provision-uptake loop: feedback supports learning when students understand it and act on it, and the second half is the half that systems usually skip. Build the tutor to name the reasoning step involved, say what needs reconsideration, give one concrete next action, and ask the learner to predict or explain before the feedback is revealed.
+Feedback that says "Correct," "Incorrect," or "Good job" is a scoring event wearing the interface of teaching. The research treats [[feedback|feedback]] as a provision-uptake loop: feedback supports learning when students understand it and act on it, and the second half is the half that systems usually skip. Build the tutor to name the reasoning step involved, say what needs reconsideration, give one concrete next action, and ask the learner to predict or explain before the feedback is revealed.
 
 The sequence that carries this is learner first, AI second, learner again. The student generates, chooses, justifies, evaluates or reflects; the tutor responds; the student does something with the response. Design the turn structure so this is not optional. A system where the model can produce three paragraphs in response to one question teaches the student to ask and read.
 
-The long-term goal is internalization. Learners should end up running the tutor's questioning and [[problem-solving]] strategies themselves, which is the [[agency]] argument and the reason the ladder has a top rung where the tutor is silent.
+The long-term goal is internalization. Learners should end up running the tutor's questioning and [[problem-solving|problem-solving]] strategies themselves, which is the [[agency|agency]] argument and the reason the ladder has a top rung where the tutor is silent.
 
 ## Design for what happens in turn forty
 
 Pedagogical safety is a separate test suite from ordinary chatbot safety, and most teams ship with only the second one. Toxicity and jailbreak resistance tell you nothing about whether the tutor will hand over an answer to a student who asks twice, agree with a wrong method because the student sounded confident, drift out of the course's method set over a long session, or push a learner into [[cognitive-offloading|cognitive offloading]]. [[ai-sycophancy|Sycophancy]] is the one that gets through first, because agreement reads as kindness and your preference data rewards it.
 
-Test for answer leakage, misconception reinforcement, excessive agreement, inappropriate difficulty, offloading, biased treatment, loss of learner agency, instructional drift, and overconfidence in incorrect explanations. Run the tests on extended conversations, not single turns, because pedagogical failures accumulate: the first ten turns can be exemplary and the eleventh can undo the session. A tutor should be kind and correct at once, including when the learner insists on a misconception. [[pedagogical-safety]] and [[hazra-safetutors-pedagogical-safety-2026|AI Tutor Safety and Pedagogical Harms]] lay out the failure taxonomy.
+Test for answer leakage, misconception reinforcement, excessive agreement, inappropriate difficulty, offloading, biased treatment, loss of learner agency, instructional drift, and overconfidence in incorrect explanations. Run the tests on extended conversations, not single turns, because pedagogical failures accumulate: the first ten turns can be exemplary and the eleventh can undo the session. A tutor should be kind and correct at once, including when the learner insists on a misconception. [[pedagogical-safety|Pedagogical safety]] and [[hazra-safetutors-pedagogical-safety-2026|AI Tutor Safety and Pedagogical Harms]] lay out the failure taxonomy.
 
 ## Put the data architecture in the same design doc
 
 Collect only learner data that is pedagogically necessary, and be able to say why each field exists. Where you keep persistent memory or a [[student-modeling|learner model]], make its purpose visible to the learner, give them appropriate control over it, protect sensitive information, define retention, and route consequential decisions to an instructor or another [[human-in-the-loop-ai|human]] checkpoint. A learner model that quietly accumulates a confidence estimate a student never sees is a [[privacy|data protection]] problem and a pedagogical one.
 
-Audit behavior across language backgrounds, ability levels, cultural contexts, [[accessibility]] needs, and levels of [[prior-knowledge|prior knowledge]] and AI experience. Differential performance on the same objective is a bug with a student attached to it, and it will not appear in your aggregate accuracy number.
+Audit behavior across language backgrounds, ability levels, cultural contexts, [[accessibility|accessibility]] needs, and levels of [[prior-knowledge|prior knowledge]] and AI experience. Differential performance on the same objective is a bug with a student attached to it, and it will not appear in your aggregate accuracy number.
 
-One accessibility decision deserves its own line: do not make sophisticated [[prompt-engineering|prompting]] a prerequisite for good instruction. If the tutor teaches well only when a student writes a careful prompt, you have built a system that advantages students who already know how to talk to models. The tutor should help learners formulate productive questions, which is also a [[metacognition]] skill worth having.
+One accessibility decision deserves its own line: do not make sophisticated [[prompt-engineering|prompting]] a prerequisite for good instruction. If the tutor teaches well only when a student writes a careful prompt, you have built a system that advantages students who already know how to talk to models. The tutor should help learners formulate productive questions, which is also a [[metacognition|metacognition]] skill worth having.
 
 ## Instrument the withdrawal interval
 
-Session metrics will not tell you whether the thing works. Response accuracy, conversation length, student preference, satisfaction, task completion and [[student-engagement|engagement]] all rise for systems that teach nothing, because students like help and help is easy to measure. Evaluate unassisted performance, delayed retention, transfer to new problems, misconception correction, learner independence, feedback uptake, and [[differential-effects-across-learner-groups|differential effects across learner groups]]. [[ai-ed-evaluation]] has the methods, and [[ai-tutor-behavioral-evaluation|The Missing Evaluation Axis]] makes the case that behavior is the construct.
+Session metrics will not tell you whether the thing works. Response accuracy, conversation length, student preference, satisfaction, task completion and [[student-engagement|engagement]] all rise for systems that teach nothing, because students like help and help is easy to measure. Evaluate unassisted performance, delayed retention, transfer to new problems, misconception correction, learner independence, feedback uptake, and [[differential-effects-across-learner-groups|differential effects across learner groups]]. [[ai-ed-evaluation|AI ed evaluation]] has the methods, and [[ai-tutor-behavioral-evaluation|The Missing Evaluation Axis]] makes the case that behavior is the construct.
 
 Two studies sharpen the rule against [[self-report-measures|self-report]] and short horizons. A pilot with 38 novice programming students found a strong association between [[generative-ai|generative AI]] usage and *perceived* learning (rs=0.802, p<0.001), while the indicators of autonomous progress without instructor support scored lowest. The authors name the gap an illusion of competence and epistemic debt, and it is precisely the gap a satisfaction metric rewards ([[genai-cognitive-tutor-programming-2026|Generative AI as an Informal Cognitive Tutor]]).
 
@@ -126,7 +126,7 @@ More fundamentally, most evaluation stops at the moment assistance ends. [[cogni
 
 ## Give teachers something to edit
 
-Before deployment, have educators test realistic learner profiles, common misconceptions, edge cases, adversarial prompts, ambiguous responses, and long tutoring conversations. Log the pedagogical failures and feed them back into system prompts, tutoring policies, knowledge sources, [[guardrails]], learner-model rules and model selection. A fluent response can still be pedagogically wrong, and a teacher is the only reviewer who can see that.
+Before deployment, have educators test realistic learner profiles, common misconceptions, edge cases, adversarial prompts, ambiguous responses, and long tutoring conversations. Log the pedagogical failures and feed them back into system prompts, tutoring policies, knowledge sources, [[guardrails|guardrails]], learner-model rules and model selection. A fluent response can still be pedagogically wrong, and a teacher is the only reviewer who can see that.
 
 [[teacher-intervention-k12-ai-based-instruction-2026|Lee's systematic review of 29 K-12 studies]] describes what that oversight consists of and where it breaks. [[teacher-role|Teacher]] intervention is a repeating four-phase cycle of monitoring, judgment, intervention and orchestration. AI alerts, [[visualization|dashboards]] and automated scores "do not automatically lead to pedagogical action." The strongest teacher strategy the review finds is pedagogical translation: selecting, revising, supplementing, summarizing or deleting chatbot feedback rather than passing it through.
 
@@ -134,7 +134,7 @@ Two design warnings follow, and both contradict the usual roadmap. More AI infor
 
 ## Case one: a calculus tutor, where verification is cheap
 
-A first-semester college calculus tutor should raise what students can solve and explain independently after it is removed, not maximize correctly completed problems. Math tutoring is especially vulnerable to over-scaffolding, premature hint use, and incorrect diagnosis of student reasoning, and all three are visible in your logs if you look ([[math-education]]).
+A first-semester college calculus tutor should raise what students can solve and explain independently after it is removed, not maximize correctly completed problems. Math tutoring is especially vulnerable to over-scaffolding, premature hint use, and incorrect diagnosis of student reasoning, and all three are visible in your logs if you look ([[math-education|math education]]).
 
 **Grounding and verification.** A six-layer build: course materials and instructor policies, then a retrieval layer, then a problem engine and learner model alongside a symbolic verifier and diagnostic engine, then a pedagogical policy layer, then conversational generation, then the student, then back into the learner model. The verifier is the reason this design is tractable. It decides whether an expression is equivalent, a derivative correct, an integral evaluated, a critical point found, and it does so without asking the model's opinion.
 
@@ -148,7 +148,7 @@ A first-semester college calculus tutor should raise what students can solve and
 
 ## Case two: a writing coach, where the stage decides the permission
 
-Writing has no single correct answer, so verification is judgment and the design work moves to staging. Writing is a cognitive, social and rhetorical process, which means an AI writing system can support learning and can also eliminate exactly the thinking the assignment existed to develop ([[writing-education]], [[coach-not-crutch-ai-writing]]).
+Writing has no single correct answer, so verification is judgment and the design work moves to staging. Writing is a cognitive, social and rhetorical process, which means an AI writing system can support learning and can also eliminate exactly the thinking the assignment existed to develop ([[writing-education|writing education]], [[coach-not-crutch-ai-writing|Lira et al. (2025)]]).
 
 **A capability model.** Track argument (thesis specificity, claim-evidence alignment, counterargument), organization (paragraph focus, logical progression, transitions), evidence (source relevance, integration, interpretation), revision (global and sentence-level revision, feedback evaluation) and style (clarity, grammar, voice). Each becomes a separate signal in the learner model, which is what makes targeted feedback possible at all.
 
@@ -197,7 +197,7 @@ Retrieval makes the answers trustworthy. It reduces [[hallucination-risk|halluci
 
 Passing the safety suite means it is safe for students. Ordinary safety testing covers toxicity and jailbreaks. The pedagogical failures that matter here, answer leakage and sycophancy and drift, are invisible to it, and they accumulate over a conversation rather than appearing in a single turn.
 
-Engagement is the goal. Conversation length and session count are the cheapest metrics to instrument, which is why they get promoted to goals. The [[scaffolding]] argument says the ideal session gets shorter as the student improves, so a rise in engagement is as likely to be a symptom.
+Engagement is the goal. Conversation length and session count are the cheapest metrics to instrument, which is why they get promoted to goals. The [[scaffolding|scaffolding]] argument says the ideal session gets shorter as the student improves, so a rise in engagement is as likely to be a symptom.
 
 ## What will come back at you
 

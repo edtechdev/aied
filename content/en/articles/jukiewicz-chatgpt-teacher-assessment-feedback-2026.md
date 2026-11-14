@@ -13,15 +13,15 @@ page_kind: [synthesis]
 methods: [meta-analysis-systematic-review]
 ---
 
-> **Synthesis:** **Can [[generative-ai|ChatGPT]] Replace the Teacher in Assessment? A Review of Research on the Use of Large Language Models in Grading and Providing Feedback** — This PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical studies (2023–2025) evaluates whether [[llm|large language models]] (LLMs) can replace teachers in [[assessment]] and [[feedback]]. The authors conclude that LLMs match human raters on short, well-structured tasks with detailed rubrics, but cannot fully replace human judgment on complex, open-ended, or subjective work, recommending a [[human-in-the-loop-ai|human-in-the-loop]] hybrid model. Prompt quality, rubric detail, model version, and assessment language are the dominant determinants of [[ai-feedback-quality|grading and feedback quality]].
+> **Synthesis:** **Can [[generative-ai|ChatGPT]] Replace the Teacher in Assessment? A Review of Research on the Use of Large Language Models in Grading and Providing Feedback** — This PRISMA-guided [[meta-analysis-systematic-review|systematic review]] of 42 empirical studies (2023–2025) evaluates whether [[llm|large language models]] (LLMs) can replace teachers in [[assessment|assessment]] and [[feedback|feedback]]. The authors conclude that LLMs match human raters on short, well-structured tasks with detailed rubrics, but cannot fully replace human judgment on complex, open-ended, or subjective work, recommending a [[human-in-the-loop-ai|human-in-the-loop]] hybrid model. Prompt quality, rubric detail, model version, and assessment language are the dominant determinants of [[ai-feedback-quality|grading and feedback quality]].
 
 ## Key Findings
-- LLMs perform well on closed-ended tasks and short-answer questions, often achieving accuracy comparable to human evaluators, but struggle with complex, open-ended, or subjective assignments requiring in-depth analysis or [[creativity]] ([[automated-assessment]]).
-- Prompt quality and the use of detailed scoring rubrics or exemplar answers significantly improve the accuracy and consistency of LLM-generated grades ([[prompt-engineering]]).
-- The highest effectiveness is achieved in hybrid systems that combine AI-driven automatic grading with teacher oversight and verification ([[human-in-the-loop-ai]]).
+- LLMs perform well on closed-ended tasks and short-answer questions, often achieving accuracy comparable to human evaluators, but struggle with complex, open-ended, or subjective assignments requiring in-depth analysis or [[creativity|creativity]] ([[automated-assessment|automated assessment]]).
+- Prompt quality and the use of detailed scoring rubrics or exemplar answers significantly improve the accuracy and consistency of LLM-generated grades ([[prompt-engineering|prompt engineering]]).
+- The highest effectiveness is achieved in hybrid systems that combine AI-driven automatic grading with teacher oversight and verification ([[human-in-the-loop-ai|human-in-the-loop]]).
 - LLMs cannot fully replace [[teacher-role|teachers]]: performance declines for longer, multilingual, or nuanced tasks, and persistent issues include between-run inconsistency, [[hallucination-risk|hallucinations]], and feedback that is too generic or misaligned with the assigned grade.
 - No uniform grading bias emerged across studies — models were sometimes more lenient, sometimes stricter, and often avoided extreme scores.
-- LLMs can reduce teacher workload and deliver rapid, personalized [[feedback]] at scale, particularly in large or [[higher-ed|higher-education]] cohorts, while automating routine grading.
+- LLMs can reduce teacher workload and deliver rapid, personalized [[feedback|feedback]] at scale, particularly in large or [[higher-ed|higher-education]] cohorts, while automating routine grading.
 
 ## What this means for practice
 

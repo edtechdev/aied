@@ -10,14 +10,14 @@ confidence: high
 audience: [researchers, learning analytics designers]
 ---
 
-> **Synthesis:** Anindho, Venkatesha, Ocumpaugh and Blanchard apply Ordered [[network-analysis|Network Analysis]] to trace how epistemic emotions such as confusion and frustration persist and transition during co-[[situated-learning|situated]] collaborative [[problem-solving|problem solving]]. The work advances affect-aware [[learning-analytics|learning analytics]] by modeling the temporal ordering of emotional states rather than static frequencies, informing when interventions should trigger in [[affective-tutoring]] systems and [[multimodal]] detectors like [[multimodal-affective-its-presentation]]. It grounds affect dynamics in [[collaborative-learning]] contexts, complements sensor-based approaches like [[affective-text-wearable-student-health]] and [[video-education|video-based]] [[engagement-assessment-video]].
+> **Synthesis:** Anindho, Venkatesha, Ocumpaugh and Blanchard apply Ordered [[network-analysis|Network Analysis]] to trace how epistemic emotions such as confusion and frustration persist and transition during co-[[situated-learning|situated]] collaborative [[problem-solving|problem solving]]. The work advances affect-aware [[learning-analytics|learning analytics]] by modeling the temporal ordering of emotional states rather than static frequencies, informing when interventions should trigger in [[affective-tutoring|affective tutoring]] systems and [[multimodal|multimodal]] detectors like [[multimodal-affective-its-presentation|Suen et al. (2026)]]. It grounds affect dynamics in [[collaborative-learning|collaborative learning]] contexts, complements sensor-based approaches like [[affective-text-wearable-student-health|Harry et al. (2026)]] and [[video-education|video-based]] [[engagement-assessment-video|Leng et al. (2026)]].
 
 ## Key Findings
 
 - Ordered Network Analysis traces how epistemic emotions such as confusion and frustration persist and transition during co-situated collaborative problem solving.
 - Modeling the temporal ordering of emotional states (rather than static frequencies) reveals how affect unfolds over time.
-- The analysis informs when interventions should be triggered in [[affective-tutoring]] systems.
-- The approach complements sensor-based ([[affective-text-wearable-student-health]]) and video-based ([[engagement-assessment-video]]) affect detection by grounding emotions in collaborative-learning contexts.
+- The analysis informs when interventions should be triggered in [[affective-tutoring|affective tutoring]] systems.
+- The approach complements sensor-based ([[affective-text-wearable-student-health|Harry et al. (2026)]]) and video-based ([[engagement-assessment-video|Leng et al. (2026)]]) affect detection by grounding emotions in collaborative-learning contexts.
 
 ## What this means for practice
 

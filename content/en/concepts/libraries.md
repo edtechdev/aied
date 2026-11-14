@@ -1,7 +1,7 @@
 ---
 title: "Libraries"
 created: "2026-11-05T03:32:52-05:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [information-and-media-literacy, ai-literacy]
 technology: [generative-ai, llm, recommender-systems-and-learning-paths, knowledge-graph]
@@ -35,7 +35,7 @@ reviewed_by: [editor]
 
 The library is the part of the education system that has always been in the information-access business, which is why AI arrives there less as a novelty than as a change in the supply chain. Two literatures meet in the study of libraries. One studies libraries as adopters: what they are doing with AI, what stops them, and how the work is distributed across technical services, reference, collections, circulation, instruction and staff development. The other studies libraries as infrastructure: the place where students and the public meet search at all, and therefore where a shift from search to synthesis is first felt.
 
-The subject is deliberately distinct from [[librarians]], which covers the people and their professional role, and from [[information-and-media-literacy]], which covers the construct they teach. The focus is the institution: its services, its systems, its staffing model and its public obligation.
+The subject is deliberately distinct from [[librarians|librarians]], which covers the people and their professional role, and from [[information-and-media-literacy|information and media literacy]], which covers the construct they teach. The focus is the institution: its services, its systems, its staffing model and its public obligation.
 
 ## How AI enters library operations
 
@@ -51,7 +51,7 @@ The library's discovery system is no longer the only route to the record. In a s
 
 Libraries carry AI instruction before they have a [[curriculum-design|curriculum]] for it. A systematic review of 32 studies found integration running through LibGuides, tutorials, workshops and revised modules, with 30 of the 32 studies published in 2024 or 2025 and 11 from the United States ([[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza and Arif, 2026]]). A scientometric map of 1,669 publications in the same period shows the field's center of gravity in a small set of library journals, with the *Journal of Academic Librarianship* both the most productive outlet and the central node of the journal co-citation network ([[jabeen-lux-ai-information-literacy-scientometric-2026|Jabeen and Lux, 2026]]). Neither map shows practice changing; both show a literature growing faster than the evidence of effect.
 
-Staff capacity is the recurring constraint in the survey work: 412 academic librarians across 38 Nigerian institutions were studied for their [[student-engagement]] strategies in information literacy and AI instruction, and staff development recurs across reviews as the intervention libraries ask for ([[dada-librarians-information-literacy-ai-nigeria-2026|Dada, 2026]]). The operational question is not whether to train staff but whether the training is tied to a service the library has decided to run.
+Staff capacity is the recurring constraint in the survey work: 412 academic librarians across 38 Nigerian institutions were studied for their [[student-engagement|student engagement]] strategies in information literacy and AI instruction, and staff development recurs across reviews as the intervention libraries ask for ([[dada-librarians-information-literacy-ai-nigeria-2026|Dada, 2026]]). The operational question is not whether to train staff but whether the training is tied to a service the library has decided to run.
 
 ## Public access as an AI question
 

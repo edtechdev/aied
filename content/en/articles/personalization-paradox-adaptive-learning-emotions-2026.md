@@ -33,7 +33,7 @@ Integrating control-value theory and self-regulated [[learning-theories|learning
 - **Instructors.** Turn reflective use into an assessed routine: have students record when an algorithmic recommendation displaced their own plan and tutor them to interrogate recommendations instead of accepting the default path.
 - **Instructors.** Read the emotional signal as a design warning: reduced enjoyment and increased anxiety and boredom carried 54.8% of the total association between perceived personalization and weaker self-regulated learning.
 - **Designers.** Build learner autonomy into the interface so students can adjust or reject recommendations, and surface the rationale behind a recommendation, because the negative environment-to-emotion paths weakened to statistical non-significance among students high in AI literacy.
-- **Administrators.** Fund AI literacy as a credit-bearing component of digital citizenship and emotional [[well-being]] rather than a one-off workshop, and pair it with faculty [[educational-development|professional development]].
+- **Administrators.** Fund AI literacy as a credit-bearing component of digital citizenship and emotional [[well-being|well-being]] rather than a one-off workshop, and pair it with faculty [[educational-development|professional development]].
 - **Researchers.** Put the mechanism to an experimental test: the three waves separate measurement occasions but do not establish causality, so an RCT or cross-lagged panel design is what the emotional pathway claim still needs; the authors also call for studying AI literacy interventions and cross-cultural variation rather than assuming AI efficiency benefits learning by default.
 
 ## Limitations

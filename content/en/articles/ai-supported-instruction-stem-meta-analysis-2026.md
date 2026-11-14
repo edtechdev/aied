@@ -30,7 +30,7 @@ methods: [meta-analysis-systematic-review]
 9. Publication bias diagnostics pointed to minimal distortion. The funnel plot was generally symmetrical around the mean effect with a few high-effect outliers on the right; Egger's regression intercept test was not significant (p = 0.095), while Begg's test was borderline (tau = −0.2303, p = 0.0517), which the authors ask readers to weigh with caution.
 10. Trim-and-fill imputed only one missing study and adjusted the mean effect upward from g_mean = 0.6799 to 0.7269 (95% CI [0.6696, 0.7841]). The increase rather than decrease is attributed to sampling variability, and the authors conclude publication bias did not substantially change the conclusions.
 11. Rosenthal's fail-safe number was 2404, meaning that many null-effect studies would be needed to make the pooled result non-significant; by Rosenthal's (1979) criterion the authors treat the meta-analytic findings as robust.
-12. Theoretical interpretation draws on cognitive load theory, [[constructivist]] and sociocultural accounts of AI as a mediational artifact within the [[sociocultural-learning|zone of proximal development]], and [[tpack]] and [[samr-model|SAMR]]; the authors conclude AI-supported instruction mostly augments or modifies existing practice rather than transforming it.
+12. Theoretical interpretation draws on cognitive load theory, [[constructivist|constructivism]] and sociocultural accounts of AI as a mediational artifact within the [[sociocultural-learning|zone of proximal development]], and [[tpack|TPACK]] and [[samr-model|SAMR]]; the authors conclude AI-supported instruction mostly augments or modifies existing practice rather than transforming it.
 13. The overall picture is conditional rather than universally positive: AI is not inherently effective but becomes effective under specific [[pedagogy|pedagogical]] and contextual conditions, with learner readiness, design quality and implementation driving the variation.
 
 ## Study Design and Method
@@ -52,7 +52,7 @@ Inclusion required an AI-supported intervention in a STEM field, an experimental
 ## Limitations
 
 - Heterogeneity remained high in the fixed-effect analysis (Q = 199.76, I2 = 82.98%), leaving a substantial share of variance unexplained and pointing to unmeasured moderators such as implementation fidelity, [[teacher-role|teacher]] involvement and learner characteristics.
-- The predominance of short- to medium-term interventions limits what can be said about long-term [[sustainability]] and transfer, so longitudinal work is needed.
+- The predominance of short- to medium-term interventions limits what can be said about long-term [[sustainability|sustainability]] and transfer, so longitudinal work is needed.
 - The evidence base is mostly cognitive and achievement-focused, so affective, [[motivation|motivational]] and [[metacognition|metacognitive]] outcomes are underrepresented, the role of [[generative-ai|generative AI]] in relation to accuracy, trust and [[critical-thinking|critical thinking]] needs more study, and cross-cultural and contextual comparisons remain underexplored.
 - The authors applied no formal quality appraisal tool: methodological quality was operationalized through the predefined inclusion and exclusion criteria, and the three studies excluded for poor quality were judged on that basis rather than a validated instrument; the borderline Begg's test (p = 0.0517) is also flagged as a reason for interpretive caution.
 

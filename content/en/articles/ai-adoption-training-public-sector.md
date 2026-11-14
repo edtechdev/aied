@@ -14,7 +14,7 @@ level: [adult learning]
 institutions: [change-management, educational-policy-ai]
 ---
 
-> **Synthesis:** Through Brazilian government case studies, demonstrates that a four-layer [[pedagogy|pedagogical]] methodology (Literacy, Protocol, Prompt Engineering, Audit) is the key to productivity gains (up to 50%), rather than premium models. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-ai]] rather than just syntax mastery.
+> **Synthesis:** Through Brazilian government case studies, demonstrates that a four-layer [[pedagogy|pedagogical]] methodology (Literacy, Protocol, Prompt Engineering, Audit) is the key to productivity gains (up to 50%), rather than premium models. This work emphasizes that [[ai-literacy|AI literacy]] is a developmental capacity requiring structured [[scaffolding|scaffolding]] and [[prompt-engineering|prompt engineering]] discipline. It connects to the need for [[curriculum-design|curriculum design]] that targets [[metacognition|metacognition]] and [[agentic-ai|agentic AI]] rather than just syntax mastery.
 
 ## Key Findings
 

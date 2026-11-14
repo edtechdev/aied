@@ -14,7 +14,7 @@ audience: [instructors, curriculum designers, researchers]
 institutions: [educational-policy-ai]
 ethics: [sustainability]
 ---
-> **Synthesis:** Liu, Wang, Guo, and Tang (2026) propose **AI-SEE** (Artificial Intelligence-Integrated Sustainable Engineering Education), a [[pedagogy|pedagogical]] framework that integrates AI across the engineering [[curriculum-design|curriculum]] as both a cognitive [[scaffolding|scaffold]] and a resource for system-level analysis. Grounded in [[human-ai-collaboration]], AI-SEE comprises four pillars — intelligence-driven, green-empowered, responsibility-leading, and practice-integrated — and was tested with 144 undergraduates in transportation-related programs at Nantong University. The study reports that AI-SEE enhanced students' **sustainability consciousness** and translated it into behavioral [[student-engagement|engagement]] across personal, academic, professional, and social levels, with evidence of social diffusion effects beyond the classroom.
+> **Synthesis:** Liu, Wang, Guo, and Tang (2026) propose **AI-SEE** (Artificial Intelligence-Integrated Sustainable Engineering Education), a [[pedagogy|pedagogical]] framework that integrates AI across the engineering [[curriculum-design|curriculum]] as both a cognitive [[scaffolding|scaffold]] and a resource for system-level analysis. Grounded in [[human-ai-collaboration|human AI collaboration]], AI-SEE comprises four pillars — intelligence-driven, green-empowered, responsibility-leading, and practice-integrated — and was tested with 144 undergraduates in transportation-related programs at Nantong University. The study reports that AI-SEE enhanced students' **[[sustainability|sustainability]] consciousness** and translated it into behavioral [[student-engagement|engagement]] across personal, academic, professional, and social levels, with evidence of social diffusion effects beyond the classroom.
 
 ## Key Findings
 1. **AI-SEE is a four-pillar framework.** Intelligence-driven (AI as cognitive scaffold), green-empowered (AI for sustainability analysis), responsibility-leading ([[ethics|ethical]] use), and practice-integrated (authentic decision-making in real stakeholder environments).
@@ -23,7 +23,7 @@ ethics: [sustainability]
 4. **Social diffusion effects.** Students acting as communicators within families and peer networks suggest sustainability consciousness propagates beyond the immediate educational setting.
 
 ## Relevance
-This is a concrete, empirical illustration of **AI for sustainability** in the knowledge base's [[sustainability]] concept page: using AI *for* sustainable education outcomes, in this case building sustainability consciousness in [[engineering-education]]. It complements the value-critical and scoping-review articles by providing an implementable pedagogical framework and evidence of learning and behavior change.
+This is a concrete, empirical illustration of **AI for sustainability** in the knowledge base's [[sustainability|sustainability]] concept page: using AI *for* sustainable education outcomes, in this case building sustainability consciousness in [[engineering-education|engineering education]]. It complements the value-critical and scoping-review articles by providing an implementable pedagogical framework and evidence of learning and behavior change.
 
 ## What this means for practice
 

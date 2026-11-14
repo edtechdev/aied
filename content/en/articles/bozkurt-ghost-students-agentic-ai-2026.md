@@ -16,7 +16,7 @@ audience: [administrators, institutions, instructors]
 institutions: [governance]
 ---
 
-> **Synthesis:** Bozkurt, Crompton, and Fell Kurban (2026) argue that the shift from reactive [[generative-ai|generative AI]] to [[agentic-ai|agentic AI]] marks a *categorical break* in digital education, enabling "ghost students"—digital surrogates formed by coupling [[llm]] "minds" with agentic AI browser "bodies" that navigate LMSs, engage content, and complete assessments with human-like mimicry. This creates a **verification gap** that traditional proctoring and detection tools are structurally unable to close, with consequences including [[cognitive-offloading|cognitive debt]], erosion of [[trust|credential trust]], and legal vulnerabilities. The authors argue institutions must move away from output-based assessments and "design for human presence."
+> **Synthesis:** Bozkurt, Crompton, and Fell Kurban (2026) argue that the shift from reactive [[generative-ai|generative AI]] to [[agentic-ai|agentic AI]] marks a *categorical break* in digital education, enabling "ghost students"—digital surrogates formed by coupling [[llm|LLM]] "minds" with agentic AI browser "bodies" that navigate LMSs, engage content, and complete assessments with human-like mimicry. This creates a **verification gap** that traditional proctoring and detection tools are structurally unable to close, with consequences including [[cognitive-offloading|cognitive debt]], erosion of [[trust|credential trust]], and legal vulnerabilities. The authors argue institutions must move away from output-based assessments and "design for human presence."
 
 ## Key Findings
 
@@ -30,11 +30,11 @@ institutions: [governance]
 
 ## What this means for practice
 
-- **Instructors.** Move assessment to presence-required formats — oral defenses, live spontaneous questioning, in-person demonstrations, dialogic [[assessment]] and reflective [[eportfolio|portfolios]] — because agentic browsers with valid LMS credentials look identical to normal student activity.
+- **Instructors.** Move assessment to presence-required formats — oral defenses, live spontaneous questioning, in-person demonstrations, dialogic [[assessment|assessment]] and reflective [[eportfolio|portfolios]] — because agentic browsers with valid LMS credentials look identical to normal student activity.
 - **Instructors.** Learn how agentic browsers actually work (authenticated LMS access, content navigation, prompt-injection exposure) before designing against them; the authors treat [[educational-development|faculty development]] at massive scale as a prerequisite, not an add-on.
 - **Administrators.** Write explicit, operationally grounded governance that names agentic browsers as distinct entities, communicates risk transparently, and addresses the loss of the "private session" under data-protection mandates, since BYOA breaks the institutional-control assumptions behind FERPA, GDPR, and KVKK.
 - **Institutions.** Design inclusive presence deliberately: presence-required formats can disadvantage [[inclusive-learning|students with disabilities]], language barriers, or [[neurodiversity|neurodivergence]], so [[equity-in-ai-education|equity]] vigilance is part of the format decision.
-- **Instructors.** Ask students to articulate what they learned, not merely what they submitted, and embed that [[reflection]] in the [[curriculum-design|curriculum]] so the choice between delegating and learning is named explicitly.
+- **Instructors.** Ask students to articulate what they learned, not merely what they submitted, and embed that [[reflection|reflection]] in the [[curriculum-design|curriculum]] so the choice between delegating and learning is named explicitly.
 
 ## Limitations
 

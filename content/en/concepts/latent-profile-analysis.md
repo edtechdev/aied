@@ -1,7 +1,7 @@
 ---
 title: "Latent Profile Analysis"
 created: "2026-09-20T12:39:59-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
@@ -41,7 +41,7 @@ Three uses recur.
 - **Recovering subgroups an aggregate hides.** Acquah and colleagues retained five ethical-awareness profiles from Comprehensive Very High (26.1 percent) to Low Ethical Awareness (4.5 percent, beneficence 2.06), a spread running from just over a quarter of the sample to under a twentieth. Chen and colleagues found that Resistant Skeptics reported high perceived ease of use but very low behavioral intention — the clearest demonstration that the ease-of-use/intention paradox is invisible to a mean-level model.
 - **Profiling calibration rather than level.** The teacher AI-literacy study applied LPA to the agreement between [[self-report-measures|self-report]] and objective measures, yielding six profiles: overestimation, underestimation, alignment, and a low/low group concentrated among teachers without prior [[ai-literacy|AI literacy]] experience. Here profiles describe a pattern across instruments, not a score band.
 
-Profiles then serve as an independent variable: discipline shaped membership among pre-service teachers (Cramér's V = 0.532, STEM students concentrated in Technology Pioneers), and membership predicted later [[self-efficacy]], burnout, and [[anxiety-and-stress|AI anxiety]] elsewhere in the literature.
+Profiles then serve as an independent variable: discipline shaped membership among pre-service teachers (Cramér's V = 0.532, STEM students concentrated in Technology Pioneers), and membership predicted later [[self-efficacy|self-efficacy]], burnout, and [[anxiety-and-stress|AI anxiety]] elsewhere in the literature.
 
 ## Choosing the number of profiles
 

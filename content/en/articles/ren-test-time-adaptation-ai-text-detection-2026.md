@@ -22,7 +22,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Ren, Raghavan and Garg (2026) argue that the [[ai-detection|AI-text detection]] problem is not separability but motion. Their supervised baselines separate human from machine prose almost perfectly in distribution, yet the flagship commercial detector Pangram drops to a balanced accuracy of 63.5% and an AI recall of 27% against a rewriting prompt built to evade it — compared with a 93.3% detection rate for the authors' test-time adaptation approach on the same text. Because a published detector is a Stackelberg leader that an evader can probe in real time, the paper reframes detection as an adaptation problem: a positive-unlabeled classifier updated on unlabeled inference-time batches holds a balanced accuracy of 94.4% and an AI recall of 99% at the final round of the authors' adversarial game, where supervised retraining holds 69.3% and 49.2%. For [[academic-integrity]] the paper cuts both ways — it shows detection can be made more robust, and it shows that the error it fixes, labeling real human writing as machine-written, is the one that harms students.
+> **Synthesis:** Ren, Raghavan and Garg (2026) argue that the [[ai-detection|AI-text detection]] problem is not separability but motion. Their supervised baselines separate human from machine prose almost perfectly in distribution, yet the flagship commercial detector Pangram drops to a balanced accuracy of 63.5% and an AI recall of 27% against a rewriting prompt built to evade it — compared with a 93.3% detection rate for the authors' test-time adaptation approach on the same text. Because a published detector is a Stackelberg leader that an evader can probe in real time, the paper reframes detection as an adaptation problem: a positive-unlabeled classifier updated on unlabeled inference-time batches holds a balanced accuracy of 94.4% and an AI recall of 99% at the final round of the authors' adversarial game, where supervised retraining holds 69.3% and 49.2%. For [[academic-integrity|academic integrity]] the paper cuts both ways — it shows detection can be made more robust, and it shows that the error it fixes, labeling real human writing as machine-written, is the one that harms students.
 
 ## Key Findings
 
@@ -59,7 +59,7 @@ Even a working detector depends on data that is going away. Responding to a new 
 
 ## Limitations
 
-- All experiments use arXiv scientific abstracts (2010–2025) and the RAID [[benchmark]], not student writing, so the setting is publishing rather than coursework and the error rates are not transferable to a classroom unexamined.
+- All experiments use arXiv scientific abstracts (2010–2025) and the RAID [[benchmark|benchmark]], not student writing, so the setting is publishing rather than coursework and the error rates are not transferable to a classroom unexamined.
 - Adversarial prompts were developed against one detector at a time and then held constant while being defeated, a setup the authors call conservative because a continuously adapting target would be harder to beat.
 - Pangram's vendor-reported AI recall on GPT 5.4 was 99.5% at the same time this study measured 34.0% detection; the authors could not explain the gap and list text length and out-of-distribution prompts as candidates.
 - The temporal-drift experiment is a simulation rather than a measurement: LLM adoption is pretended to begin after 2010 because verified post-2022 human text is unavailable.

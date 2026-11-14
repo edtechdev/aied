@@ -14,7 +14,7 @@ sources: ['raw/papers/2606.14718.md']
 confidence: high
 ---
 
-> **Synthesis:** Examines gender differences in AI literacy, safety awareness, and STEM career aspirations among Australian secondary students (Years 7, 8, 10; N=199) from two co-educational government schools after a one-day AI literacy workshop. Male students reported higher STEM career interest; female students were more likely to use AI for schoolwork and seek AI advice. Males were more likely to have created [[ai-avatars-and-synthetic-instructors|deepfake]] content. Both genders improved post-intervention, but females showed richer gains: wider conceptual understanding, greater confidence, and increased AI/CS career interest partially narrowing the gender gap.
+> **Synthesis:** Examines gender differences in [[ai-literacy|AI literacy]], safety awareness, and STEM career aspirations among Australian secondary students (Years 7, 8, 10; N=199) from two co-educational government schools after a one-day AI literacy workshop. Male students reported higher STEM career interest; female students were more likely to use AI for schoolwork and seek AI advice. Males were more likely to have created [[ai-avatars-and-synthetic-instructors|deepfake]] content. Both genders improved post-intervention, but females showed richer gains: wider conceptual understanding, greater confidence, and increased AI/CS career interest partially narrowing the gender gap.
 
 - Single-day AI literacy workshops partially narrow gender STEM gaps; males need targeted deepfake safety education.
 
@@ -33,9 +33,9 @@ The study surveyed Australian secondary students in **Years 7, 8, and 10 (Npre =
 ## What this means for practice
 
 - **Instructors.** Treat the one-day workshop as an [[equity-in-ai-education|equity]] lever but schedule follow-up: female students showed significant gains in AI and computer science career interest while male interest remained static, yet neither group's average response reached the "interested" level across all three career domains.
-- **Instructors.** Aim deepfake safety education explicitly at male students and cover the [[ethics]] of sharing synthetic media: males were more likely to have shared deepfake content (23.2% vs. 10.0%), while female students were more likely to have reported deepfakes (14.1% vs 24.0%).
+- **Instructors.** Aim deepfake safety education explicitly at male students and cover the [[ethics|ethics]] of sharing synthetic media: males were more likely to have shared deepfake content (23.2% vs. 10.0%), while female students were more likely to have reported deepfakes (14.1% vs 24.0%).
 - **Instructors.** Differentiate the workshop instead of delivering it uniformly, because entry behavior already diverges: female students were significantly more likely to use AI for schoolwork and to seek advice from AI tools, and male students reported significantly higher STEM career interest.
-- **Researchers.** Disaggregate workshop outcomes by gender in [[k-12]] [[ai-literacy]] evaluations: results that are not disaggregated hide the gender-differentiated pattern found here.
+- **Researchers.** Disaggregate workshop outcomes by gender in [[k-12]] [[ai-literacy|AI literacy]] evaluations: results that are not disaggregated hide the gender-differentiated pattern found here.
 
 ## Limitations
 

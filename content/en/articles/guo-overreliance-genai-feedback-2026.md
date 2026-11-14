@@ -24,7 +24,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** A survey of 600 undergraduates at one Chinese university models overreliance on [[generative-ai|generative AI]] [[feedback]] as a cognitive-resource pathway rather than a technology-acceptance one. Perceived cognitive load predicts [[cognitive-offloading]], offloading predicts overreliance, and load predicts overreliance directly as well. Splitting the sample by [[metacognition|metacognitive monitoring]] changes the mix of those pathways, not their existence: the load-to-offloading path is nearly identical in both groups, while the direct path is stronger for weaker monitors and the offloading path is stronger for stronger ones.
+> **Synthesis:** A survey of 600 undergraduates at one Chinese university models overreliance on [[generative-ai|generative AI]] [[feedback|feedback]] as a cognitive-resource pathway rather than a technology-acceptance one. Perceived cognitive load predicts [[cognitive-offloading|cognitive offloading]], offloading predicts overreliance, and load predicts overreliance directly as well. Splitting the sample by [[metacognition|metacognitive monitoring]] changes the mix of those pathways, not their existence: the load-to-offloading path is nearly identical in both groups, while the direct path is stronger for weaker monitors and the offloading path is stronger for stronger ones.
 
 ## Key Findings
 

@@ -1,6 +1,6 @@
 ---
 title: "Examining the relationships between artificial intelligence literacy, AI-TPACK, job satisfaction, and well-being among teachers through structural equation modeling"
-created: "2026-11-13T08:00:00-05:00"
+created: "2026-11-13T07:50:21-05:00"
 updated: "2026-11-13T10:45:00-05:00"
 type: article
 published: 2026-06-24
@@ -26,7 +26,7 @@ ai_assist:
     agent: hermes-agent
 verified: [citation, numbers]
 ---
-> **Synthesis:** Kayalı, Balat and Yavuz surveyed 350 teachers in Turkey and modeled how [[ai-literacy|AI literacy]], AI-TPACK, job satisfaction and [[well-being]] connect. Literacy fed every competence component, but the components then split: knowing how AI changes a subject and how to teach it raised satisfaction, while technical knowledge of AI on its own lowered it, and satisfaction carried whatever effect reached well-being. AI [[educational-development|professional development]] earns its keep when it changes how a task is done, not when it adds another tool to keep up with.
+> **Synthesis:** Kayalı, Balat and Yavuz surveyed 350 teachers in Turkey and modeled how [[ai-literacy|AI literacy]], AI-TPACK, job satisfaction and [[well-being|well-being]] connect. Literacy fed every competence component, but the components then split: knowing how AI changes a subject and how to teach it raised satisfaction, while technical knowledge of AI on its own lowered it, and satisfaction carried whatever effect reached well-being. AI [[educational-development|professional development]] earns its keep when it changes how a task is done, not when it adds another tool to keep up with.
 
 ## Key Findings
 

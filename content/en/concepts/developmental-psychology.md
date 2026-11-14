@@ -1,7 +1,7 @@
 ---
 title: Developmental Psychology
 created: "2026-11-12T14:20:00-05:00"
-updated: "2026-11-13T01:00:00-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
@@ -21,14 +21,14 @@ reviewed_by: [editor]
 
 - Two learners use the same chatbot for the same task. What would developmental psychology have you check before calling the interaction appropriate: age alone, or something more specific?
 - "Age-appropriate" is used constantly in AI guidance. What evidence would you need before accepting that label, and what does it usually rest on instead?
-- Executive function, [[metacognition]] and [[self-regulated-learning|self-regulation]] develop unevenly. If a tool regulates for the learner, which capacity is supported and which displaced?
+- Executive function, [[metacognition|metacognition]] and [[self-regulated-learning|self-regulation]] develop unevenly. If a tool regulates for the learner, which capacity is supported and which displaced?
 - Most studies here measure learners once. What can a single measurement say about development, and what can it not?
 - Play is a developmental medium, not a break from learning. When an AI toy takes the narrative, what is the child still practicing?
 - Adolescence is framed as both risk window and design opportunity. Which does the evidence support?
 
 ## Introduction
 
-Developmental psychology sits underneath several neighboring concepts without being any of them. [[cognitive-psychology]] explains the mechanisms (working memory, load, bias, retrieval) but says nothing about how those mechanisms change with age. [[early-childhood-elementary-ai-education]] is a level page: it covers preschool and primary schooling as settings, and its scope note says explicitly that its concerns are developmentally specific without providing the developmental account. [[parents-and-families]] covers the home as a context. What none of them does is treat development itself as the explanatory frame: the reason a design that suits one age band misfires in another, and the reason claims about long-term effects on a developing mind are so hard to make.
+Developmental psychology sits underneath several neighboring concepts without being any of them. [[cognitive-psychology|Cognitive psychology]] explains the mechanisms (working memory, load, bias, retrieval) but says nothing about how those mechanisms change with age. [[early-childhood-elementary-ai-education|Early childhood education]] is a level page: it covers preschool and primary schooling as settings, and its scope note says explicitly that its concerns are developmentally specific without providing the developmental account. [[parents-and-families|Parents and families]] covers the home as a context. What none of them does is treat development itself as the explanatory frame: the reason a design that suits one age band misfires in another, and the reason claims about long-term effects on a developing mind are so hard to make.
 
 That frame matters more in AI education than in most fields, because AI tools are typically evaluated on adults and then deployed downward. A chatbot tested with undergraduates reaches a 12-year-old through a school license; a story-generation app designed for early readers reaches classrooms; AI toys enter play before anyone has asked what they do to play. The reviews keep arriving at the same conclusion from different directions: the developmental evidence is thin, the mechanisms are plausible, and the guidance is being written ahead of the research.
 
@@ -42,7 +42,7 @@ The risk in all such schemes is that the bands become coarse proxies. A five-yea
 
 ## Executive function as the operative construct
 
-Where the evidence gets specific about mechanism, it usually lands on executive function: the processes that plan, inhibit, shift and hold information long enough to use it. The developmental question is which of those a given tool supports, and whether the support outlasts the tool. Vasileiou and colleagues' separation of compensation, scaffolding and development is the sharpest statement of the distinction, and Klarin's account of adolescent reliance names the failure mode: the capacities being displaced are still forming. The construct, its measurement and the dependence evidence now have their own page, [[executive-function]].
+Where the evidence gets specific about mechanism, it usually lands on executive function: the processes that plan, inhibit, shift and hold information long enough to use it. The developmental question is which of those a given tool supports, and whether the support outlasts the tool. Vasileiou and colleagues' separation of compensation, scaffolding and development is the sharpest statement of the distinction, and Klarin's account of adolescent reliance names the failure mode: the capacities being displaced are still forming. The construct, its measurement and the dependence evidence now have their own page, [[executive-function|executive function]].
 
 ## Adolescence as a distinct case
 
@@ -70,7 +70,7 @@ Support staff and families can watch what an AI toy does to play. Watch who supp
 
 Three limits recur across the studies reviewed here.
 
-The first is design. Most studies are cross-sectional surveys or small experiments, measured once. They can show that age groups differ; they cannot show that AI changed a developmental trajectory. Niu and colleagues' scoping review of generative AI and children's creative thinking screened 6,401 records and retained 24 evidence sources, a small base for a large claim, and the review reports it as such. An integrative review of 118 K–12 AI literacy studies located no study that followed the same learners across school levels, so its four-band progression is an ordering inferred from different cohorts rather than a trajectory anyone observed ([[guo-ai-literacy-developmental-paces-2026]]).
+The first is design. Most studies are cross-sectional surveys or small experiments, measured once. They can show that age groups differ; they cannot show that AI changed a developmental trajectory. Niu and colleagues' scoping review of generative AI and children's creative thinking screened 6,401 records and retained 24 evidence sources, a small base for a large claim, and the review reports it as such. An integrative review of 118 K–12 AI literacy studies located no study that followed the same learners across school levels, so its four-band progression is an ordering inferred from different cohorts rather than a trajectory anyone observed ([[guo-ai-literacy-developmental-paces-2026|Guo et al., 2026]]).
 
 The second is attribution. A learning gain measured with the tool present may be assisted performance rather than a change in capability, which is the same distinction that separates scaffolding from development.
 

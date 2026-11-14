@@ -28,7 +28,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Álvarez-Rubio argues that [[conversational-ai|conversational AI]] agents can carry much of a [[simulation]] cycle and still not all of it, because the line is drawn by what kind of act a function is rather than by what current technology can do. Five commitments follow: the teacher's reading of each phase decides deployment, an agent's stance must fit the phase's demand, three functions are constitutively non-delegable, supervision must be visible to students, and the point is teacher authority rather than replacement. An agent's most valuable move at the boundary is refusal.
+> **Synthesis:** Álvarez-Rubio argues that [[conversational-ai|conversational AI]] agents can carry much of a [[simulation|simulation]] cycle and still not all of it, because the line is drawn by what kind of act a function is rather than by what current technology can do. Five commitments follow: the teacher's reading of each phase decides deployment, an agent's stance must fit the phase's demand, three functions are constitutively non-delegable, supervision must be visible to students, and the point is teacher authority rather than replacement. An agent's most valuable move at the boundary is refusal.
 
 *Conceptual paper: this is a practitioner design inquiry, not an empirical study. The author states that "no data were collected or analyzed for research" and that the observations are her own, so the deployment illustrates the framework without testing it.*
 
@@ -60,7 +60,7 @@ The phases are constituted by demands rather than content, which is why the preb
 
 An Expert agent holds knowledge the learner does not: it may explain, supply worked examples, and press toward application, but not withhold what the learner needs in order to elicit it. A Character agent holds a role rather than knowledge, and may respond in character, resist, and react, but not step outside the role to instruct or evaluate. A Maieutic agent holds no position on the content: it may question and return a formulation for confirmation, but not interpret, advise, or answer.
 
-A preceding course tested the distinction. A Maieutic agent built to teach by never answering did not work: students were frustrated, because discovering what one does not know is difficult and a course is short. The [[scaffolding]] evidence predicts the same failure: low prior knowledge needs examples, while high prior knowledge benefits from reflection.
+A preceding course tested the distinction. A Maieutic agent built to teach by never answering did not work: students were frustrated, because discovering what one does not know is difficult and a course is short. The [[scaffolding|scaffolding]] evidence predicts the same failure: low prior knowledge needs examples, while high prior knowledge benefits from reflection.
 
 ## The simulation that assesses
 

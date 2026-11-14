@@ -14,7 +14,7 @@ confidence: high
 page_kind: [evaluation, framework]
 ---
 
-> **Synthesis:** Raave, Colasante, Roldan Roa, Ramos Martinez, Li, and colleagues (2026) run a controlled comparison of a [[generative-ai]] [[pedagogy|pedagogical]] [[conversational-ai|conversational agent]] (PCA) and human [[teacher-role|educators]] independently facilitating story-based [[social-emotional-learning|social-emotional learning]] activities with a static AI child, using 18 [[simulation|simulations]] per facilitator across three activities (108 observations) rated by expert coders blind to facilitator type. The PCA showed strengths in basic relational and instructional domains — maintaining a respectful tone and routinely providing procedural [[scaffolding]] — while educators showed strengths in deeper SEL instruction, guiding [[reflection]] and promoting social-emotional knowledge.
+> **Synthesis:** Raave, Colasante, Roldan Roa, Ramos Martinez, Li, and colleagues (2026) run a controlled comparison of a [[generative-ai|generative AI]] [[pedagogy|pedagogical]] [[conversational-ai|conversational agent]] (PCA) and human [[teacher-role|educators]] independently facilitating story-based [[social-emotional-learning|social-emotional learning]] activities with a static AI child, using 18 [[simulation|simulations]] per facilitator across three activities (108 observations) rated by expert coders blind to facilitator type. The PCA showed strengths in basic relational and instructional domains — maintaining a respectful tone and routinely providing procedural [[scaffolding|scaffolding]] — while educators showed strengths in deeper SEL instruction, guiding [[reflection|reflection]] and promoting social-emotional knowledge.
 
 ## Key Findings
 
@@ -29,7 +29,7 @@ page_kind: [evaluation, framework]
 - **Instructors.** Plan a division of labor rather than a substitution: the PCA was more consistent in rapport and emotional tone and broke SEL tasks into discrete steps more reliably than educators did.
 - **Instructors.** Anticipate that human facilitation varies: the educators' lower consistency in rapport and emotional tone may reflect fluctuations in energy, mood, or interpretation of the AI child's cues, which matters for emotional safety in [[early-childhood-elementary-ai-education|early childhood]] settings.
 - **Researchers.** Replicate in vivo, since a static AI child with scripted, voice-based interactions cannot capture how educators adapt to real children's nonverbal cues, cultural backgrounds, and developmental needs.
-- **Researchers.** Add [[multimodal]] evaluation — the solely text-based coding cannot detect differences in warmth, authenticity, or cultural responsiveness conveyed through tone and gesture.
+- **Researchers.** Add [[multimodal|multimodal]] evaluation — the solely text-based coding cannot detect differences in warmth, authenticity, or cultural responsiveness conveyed through tone and gesture.
 
 ## Limitations
 

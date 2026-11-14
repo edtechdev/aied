@@ -17,7 +17,7 @@ page_kind: [framework]
 methods: [qualitative-research]
 institutions: [governance]
 ---
-> **Synthesis:** Alsuhaymi and Atallah (2026) offer a [[qualitative-research|qualitative]], value-[[critical-thinking|critical analysis]] of whether — and under what conditions — AI contributes to sustainable education in the age of digitalization. They argue AI does not exert a uniform, inherently positive or negative influence on educational sustainability; its effects are **conditional and governance-mediated**. Distinguishing *sustainable education* (a value-based, human-centered project), *sustainability in education*, and *education for sustainable development* (ESD), the authors show that AI contributes to sustainable education only when its adoption is subordinated to explicit educational values and human-centered purposes — and undermines it when technologization and commodification are allowed to erode those values.
+> **Synthesis:** Alsuhaymi and Atallah (2026) offer a [[qualitative-research|qualitative]], value-[[critical-thinking|critical analysis]] of whether — and under what conditions — AI contributes to sustainable education in the age of digitalization. They argue AI does not exert a uniform, inherently positive or negative influence on educational sustainability; its effects are **conditional and governance-mediated**. Distinguishing *sustainable education* (a value-based, human-centered project), *sustainability in education*, and *[[sustainability|education for sustainable development]]* (ESD), the authors show that AI contributes to sustainable education only when its adoption is subordinated to explicit educational values and human-centered purposes — and undermines it when technologization and commodification are allowed to erode those values.
 
 ## Key Findings
 1. **AI's effect on educational sustainability is conditional, not automatic.** Whether AI supports or erodes sustainable education depends on how its adoption is governed and to what values it is subordinated — not on the technology itself.
@@ -26,14 +26,14 @@ institutions: [governance]
 4. **Value-critical analysis is the corrective lens.** A [[critical-pedagogy|value-critical]] approach surfaces the normative commitments embedded in AI-mediated education, arguing that sustainability must be reclaimed as a value-based project rather than reduced to technical efficiency.
 
 ## Relevance to AI and sustainability in education
-This paper anchors the [[sustainability|sustainable AI in education]] concept page's normative dimension: it frames sustainability not as a technical or environmental metric but as a **value-based, human-centered educational project**. It connects directly to [[ethics]] in [[ai-education|AI education]], to [[governance]] (the conditions under which AI use is responsibly governed), and to the knowledge base's treatment of AI's [[critical-pedagogy|critical]] and [[philosophy-of-ai-in-education|philosophical]] dimensions.
+This paper anchors the [[sustainability|sustainable AI in education]] concept page's normative dimension: it frames sustainability not as a technical or environmental metric but as a **value-based, human-centered educational project**. It connects directly to [[ethics|ethics]] in [[ai-education|AI education]], to [[governance|governance]] (the conditions under which AI use is responsibly governed), and to the knowledge base's treatment of AI's [[critical-pedagogy|critical]] and [[philosophy-of-ai-in-education|philosophical]] dimensions.
 
 ## What this means for practice
 
 - **Institutions.** Subordinate every AI adoption decision to explicit educational values and human-centered purposes; the paper's central claim is that AI's contribution to sustainable education is conditional and governance-mediated, not automatic.
 - **Administrators.** Keep three framings distinct in strategy documents — *sustainable education* (value-based, human-centered), *sustainability in education* (education as an instrument for sustainability), and *education for sustainable development* — because AI serves each of them differently.
 - **Policymakers.** Design regulation against the dual pressures of digitalization: the same developments that enable [[personalized-learning|personalization]] and efficiency accelerate the technologization and commodification that erode educational values.
-- **Administrators.** Preserve reflective [[pedagogy]], critical engagement with AI-generated outputs, and meaningful human relationships as the core of educational processes rather than treating them as residual to efficiency gains.
+- **Administrators.** Preserve reflective [[pedagogy|pedagogy]], critical engagement with AI-generated outputs, and meaningful human relationships as the core of educational processes rather than treating them as residual to efficiency gains.
 - **Policymakers.** Make sustainability a stated educational value in policy rather than a technical-efficiency metric, since the paper argues governance conditions — not the technology — determine whether AI supports or undermines sustainability.
 
 ## Limitations

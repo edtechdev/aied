@@ -14,7 +14,7 @@ sources: ['raw/papers/2607.00979.md']
 confidence: medium
 ---
 
-> **Synthesis:** User study with 24 participants comparing classroom instruction, mixed-reality apps, and physical toolkits for Engineering Mechanics reveals [[multimodal]] learning improves [[student-engagement|engagement]] but complex [[visualization|visualizations]] remain challenging.
+> **Synthesis:** User study with 24 participants comparing classroom instruction, mixed-reality apps, and physical toolkits for Engineering Mechanics reveals [[multimodal|multimodal]] learning improves [[student-engagement|engagement]] but complex [[visualization|visualizations]] remain challenging.
 
 ## Key Contributions
 
@@ -22,7 +22,7 @@ confidence: medium
 
 ## Connections to AI in Education
 
-This paper contributes to the growing body of [[research-methods-aied|research]] on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate [[pedagogy|pedagogical]] oversight.
+This paper contributes to the growing body of [[research-methods-aied|research]] on AI applications in educational settings, specifically in the domains of [[ai-education|AI education]], [[intelligent-tutoring|intelligent tutoring]], and [[equity-in-ai-education|equity]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate [[pedagogy|pedagogical]] oversight.
 
 ## What this means for practice
 
@@ -36,7 +36,7 @@ This paper contributes to the growing body of [[research-methods-aied|research]]
 - The evidence comes from 24 participants recruited at one university from students who had already completed Engineering Statics, all in a single 90-minute session with \$20 compensation; the paper does not report the number of participants per condition, and the sample is a small convenience group of prior course completers.
 - Learning outcomes rest on a pre/post knowledge quiz plus open-ended survey responses; the paper reports that the MR condition produced the highest quiz scores but offers no statistical test for that comparison, and the [[qualitative-research|qualitative]] analysis is perception-based.
 - Three researchers coded the open-ended responses until consensus, with no inter-rater reliability statistic reported, and the four themes were generated from participant [[self-report-measures|self-report]] and observation rather than from independent measures.
-- The baseline quiz was used to check [[prior-knowledge]] equivalence across groups, but participants who were dissatisfied with the modality assigned to them indicate that assignment-materials fit varied, and participants themselves noted that the evaluation method strongly shaped their experience of the system.
+- The baseline quiz was used to check [[prior-knowledge|prior knowledge]] equivalence across groups, but participants who were dissatisfied with the modality assigned to them indicate that assignment-materials fit varied, and participants themselves noted that the evaluation method strongly shaped their experience of the system.
 
 ## Citation
 

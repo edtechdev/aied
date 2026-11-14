@@ -14,7 +14,7 @@ confidence: high
 institutions: [change-management]
 ---
 
-> **Synthesis:** A 2026 cross-sectional survey (n=72) by Gibson, Azukas, and Knezek examined how [[higher-ed|higher education]] practitioners think about and use AI in [[teacher-role|teaching]], grounded in the **DOT Framework** — a synthesis of [[design-thinking]] and open-systems-theory.
+> **Synthesis:** A 2026 cross-sectional survey (n=72) by Gibson, Azukas, and Knezek examined how [[higher-ed|higher education]] practitioners think about and use AI in [[teacher-role|teaching]], grounded in the **DOT Framework** — a synthesis of [[design-thinking|design thinking]] and open-systems-theory.
 
 ## Core Findings
 
@@ -27,13 +27,13 @@ Exploratory factor analysis of 19 Likert-scale items yielded a three-factor stru
 This factor structure provides a psychometric anchor for understanding how educators conceptualize AI's role — not as a monolithic "good or bad" judgment but as differentiated beliefs spanning capability, governance, and collaborative practice.
 
 ### Practice vs. Theory Gap
-Practitioners reported frequent use of **iterative [[prompt-engineering|prompting]]** and **content generation**, but far less [[student-engagement|engagement]] with **needs assessment** and **[[feedback|feedback loops]]** — the front and back ends of a full design cycle. This gap between design-oriented theory and current implementation is the study's central diagnostic finding. It echoes broader patterns in [[ai-literacy]] where educators adopt AI for productivity but not yet for systematic instructional redesign.
+Practitioners reported frequent use of **iterative [[prompt-engineering|prompting]]** and **content generation**, but far less [[student-engagement|engagement]] with **needs assessment** and **[[feedback|feedback loops]]** — the front and back ends of a full design cycle. This gap between design-oriented theory and current implementation is the study's central diagnostic finding. It echoes broader patterns in [[ai-literacy|AI literacy]] where educators adopt AI for productivity but not yet for systematic instructional redesign.
 
 ### AI as "Fallible Intern"
-The study operationalizes AI as a **co-intelligent collaborator** following four tenets: (1) AI is fallible — always review, (2) AI supports not replaces [[critical-thinking|higher-order thinking]], (3) instructors should actively experiment, (4) instructor maintains agency. This framing aligns with ai-co-intelligence and [[human-ai-collaboration]] paradigms where the human remains the epistemic authority.
+The study operationalizes AI as a **co-intelligent collaborator** following four tenets: (1) AI is fallible — always review, (2) AI supports not replaces [[critical-thinking|higher-order thinking]], (3) instructors should actively experiment, (4) instructor maintains agency. This framing aligns with ai-co-intelligence and [[human-ai-collaboration|human AI collaboration]] paradigms where the human remains the epistemic authority.
 
 ### Institutional Barriers
-Widespread lack of policy, training, and infrastructure was reported — consistent with findings across institutional-ai-readiness and [[governance]]. Without institutional [[scaffolding]], even motivated practitioners remain in ad-hoc, fragmented adoption patterns.
+Widespread lack of policy, training, and infrastructure was reported — consistent with findings across institutional-ai-readiness and [[governance|governance]]. Without institutional [[scaffolding|scaffolding]], even motivated practitioners remain in ad-hoc, fragmented adoption patterns.
 
 ## The DOT Framework
 

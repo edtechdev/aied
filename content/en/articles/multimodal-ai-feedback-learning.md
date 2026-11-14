@@ -11,7 +11,7 @@ sources: ['raw/papers/2601.15280.md']
 confidence: high
 ---
 
-> **Synthesis:** The authors built a real-time AI-facilitated multimodal feedback system integrating structured text, relevant slide references, and streaming AI audio narration. In a crowdsourced experiment, they compared it against fixed "business-as-usual" educator feedback.
+> **Synthesis:** The authors built a real-time AI-facilitated [[multimodal|multimodal]] [[feedback|feedback]] system integrating structured text, relevant slide references, and streaming AI audio narration. In a crowdsourced experiment, they compared it against fixed "business-as-usual" educator feedback.
 
 ## Core Finding
 
@@ -28,7 +28,7 @@ This multimodal approach aims to provide timely, targeted feedback at scale — 
 ## Results
 
 ### Learning Effectiveness
-- **Equivalent [[learning-gains]]** between AI multimodal feedback and educator feedback
+- **Equivalent [[learning-gains|learning gains]]** between AI multimodal feedback and educator feedback
 - No significant difference in post-test performance
 
 ### Student Perceptions (AI significantly better)
@@ -55,7 +55,7 @@ This multimodal approach aims to provide timely, targeted feedback at scale — 
 This is a strong result for AI feedback systems:
 
 - **Equivalence on learning** is the bar most systems fail to clear — AI matched human educators
-- **Superior [[student-experience]]** across 6 dimensions suggests AI can surpass humans on consistency, specificity, and clarity
+- **Superior [[student-experience|student experience]]** across 6 dimensions suggests AI can surpass humans on consistency, specificity, and clarity
 - **Scalability**: The system can provide real-time, context-aware support without instructor availability constraints
 - **Question-type effects**: The [[student-engagement|engagement]] pattern differences suggest adaptive strategies — AI may be better for open-ended work while human-like interaction helps for multiple-choice
 
@@ -70,7 +70,7 @@ This is a strong result for AI feedback systems:
 - Would results hold in real classroom settings with live educator feedback rather than fixed, pre-written feedback?
 - Does the advantage persist over multiple sessions, or is there a novelty effect?
 - How does each modality (text vs. slides vs. audio) contribute to the overall effect?
-- Can [[multimodal]] feedback reduce the negative behavioral pathway identified in sequenced feedback studies (fewer resubmissions)?
+- Can [[multimodal|multimodal]] feedback reduce the negative behavioral pathway identified in sequenced feedback studies (fewer resubmissions)?
 
 ## What this means for practice
 

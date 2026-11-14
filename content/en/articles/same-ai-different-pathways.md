@@ -33,7 +33,7 @@ The [[quantitative-research|quantitative]] strand surveyed students immediately 
 - **Instructors.** Teach prompting and verification as two separate, assessable skills: AI literacy predicted both prompting proficiency and verification behavior (p < .001), and each reached assignment quality through a different mediator.
 - Make verification routine on high-stakes work; it acted as a [[metacognition|metacognitive]] safeguard that was negatively associated with perceived task-related [[cognitive-offloading|cognitive load]] and directly predicted task quality in the Design cohort.
 - Match the emphasis to the discipline's task ecology: AI-supported calibration accuracy predicted Business assignment quality, while verification predicted Design task quality, so assessment criteria should follow the kind of work being assessed.
-- Embed short prompting practice in regular teaching time — 10–15 minutes at a stretch — paired with rubric-anchored [[prompt-engineering]] instruction, and ask students where they relied on, rejected, or revised AI output.
+- Embed short prompting practice in regular teaching time — 10–15 minutes at a stretch — paired with rubric-anchored [[prompt-engineering|prompt engineering]] instruction, and ask students where they relied on, rejected, or revised AI output.
 - **Learners.** Submit evidence traces (an appendix of links/DOIs plus a 2–3 sentence rationale) with high-stakes assignments so documented judgment, not the volume of AI use, carries the credit.
 
 ## Limitations

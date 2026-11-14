@@ -13,22 +13,22 @@ confidence: medium
 audience: [instructional designers, instructors, software developers]
 ---
 
-> **Synthesis:** Ostrowska, Kukla & Majstrak (2026) present an AI tutoring system **integrated into the Moodle LMS** designed to scaffold students from surface-level fact recall to deep conceptual understanding through adaptive questioning and feedback.
+> **Synthesis:** Ostrowska, Kukla & Majstrak (2026) present an AI [[intelligent-tutoring|tutoring system]] **integrated into the Moodle LMS** designed to scaffold students from surface-level fact recall to deep conceptual understanding through adaptive questioning and feedback.
 
 ## How It Works
 
-The system operates within Moodle's existing infrastructure, using [[llm]]-based tutoring to:
+The system operates within Moodle's existing infrastructure, using [[llm|LLM]]-based tutoring to:
 - Detect the **depth of student understanding** from their responses
-- Adaptively scaffold toward deeper comprehension via [[scaffolding]] techniques
-- Move students through [[formative-assessment]] cycles that promote conceptual mastery
+- Adaptively scaffold toward deeper comprehension via [[scaffolding|scaffolding]] techniques
+- Move students through [[formative-assessment|formative assessment]] cycles that promote conceptual mastery
 
-This **grounded approach** — embedding AI tutoring in an existing LMS rather than building standalone tools — addresses deployment barriers identified in the [[zerkouk-comprehensive-review-its-2025]]. Many [[intelligent-tutoring|intelligent tutoring systems]] fail to achieve real-world impact because they require new infrastructure; Moodle integration lowers the adoption threshold.
+This **grounded approach** — embedding AI tutoring in an existing LMS rather than building standalone tools — addresses deployment barriers identified in the [[zerkouk-comprehensive-review-its-2025|Zerkouk et al. (2025)]]. Many [[intelligent-tutoring|intelligent tutoring systems]] fail to achieve real-world impact because they require new infrastructure; Moodle integration lowers the adoption threshold.
 
 ## Connections to the Knowledge Base
 
-The system's focus on deep vs. surface learning connects to [[metacognition]] [[research-methods-aied|research]] — students must recognize when they have only surface understanding. The adaptive approach aligns with [[adaptive-learning]] but emphasizes **[[qualitative-research|qualitative]] shifts** in understanding rather than [[quantitative-research|quantitative]] difficulty adjustment. The Moodle deployment strategy echoes lessons from [[becerra-aicofe-feedback-2026]] (AICoFe) about integrating AI tools into existing educational workflows.
+The system's focus on deep vs. surface learning connects to [[metacognition|metacognition]] [[research-methods-aied|research]] — students must recognize when they have only surface understanding. The adaptive approach aligns with [[adaptive-learning|adaptive learning]] but emphasizes **[[qualitative-research|qualitative]] shifts** in understanding rather than [[quantitative-research|quantitative]] difficulty adjustment. The Moodle deployment strategy echoes lessons from [[becerra-aicofe-feedback-2026|Becerra et al. (2026)]] (AICoFe) about integrating AI tools into existing educational workflows.
 
-Unlike [[stanford-evidence-base-ai-k12-2026]] debates about specialized tutors, this system shows how general LLMs can be **scaffolded into tutoring roles** within familiar platforms. The focus on deep understanding complements [[pedagogy-ai-mistakes]] work on using AI errors for [[critical-thinking|higher-order thinking]].
+Unlike [[stanford-evidence-base-ai-k12-2026|Walker et al. (2026)]] debates about specialized tutors, this system shows how general LLMs can be **scaffolded into tutoring roles** within familiar platforms. The focus on deep understanding complements [[pedagogy-ai-mistakes|Hosseini (2026)]] work on using AI errors for [[critical-thinking|higher-order thinking]].
 
 ## Open Questions
 
@@ -41,7 +41,7 @@ Unlike [[stanford-evidence-base-ai-k12-2026]] debates about specialized tutors, 
 - **Instructors.** Keep every AI-generated quiz or study guide in the "Unapproved" state until a [[teacher-role|teacher]] reviews it; participants rated the system's resistance to [[hallucination-risk|hallucination]] at 4.44/5 precisely because nothing reached students without human sign-off.
 - **Instructional designers.** Tune retrieval to the discipline instead of using one default: 512-character chunks with a temperature of 0.3 reached a RAGAS faithfulness of 0.97 on STEM material, while humanities material needed 1000-character chunks at 0.1 to hold a context recall of 1.00 and an average faithfulness of 0.98.
 - **Software developers.** Hold retrieval at Top-K = 10 — raising it to 15 gained no recall and significantly worsened context precision through irrelevant-material distraction — and evaluate a [[socratic-method|Socratic]] "deep understanding" mode on context recall (0.98) rather than answer relevancy, which it scores low by design.
-- **Instructors.** Ground the assistant strictly in teacher-verified course documents and use the dashboard logs to see which topics students actually query, letting the tutor carry the [[formative-assessment]] workload that 14 out of 18 users named, with the chat interface, as the system's most useful features.
+- **Instructors.** Ground the assistant strictly in teacher-verified course documents and use the dashboard logs to see which topics students actually query, letting the tutor carry the [[formative-assessment|formative assessment]] workload that 14 out of 18 users named, with the chat interface, as the system's most useful features.
 
 ## Limitations
 

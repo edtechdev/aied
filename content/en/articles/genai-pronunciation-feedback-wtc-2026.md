@@ -16,7 +16,7 @@ level: [higher ed]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Lu et al. (2026) examined, through the lens of Social Cognitive Theory, whether Chinese university EFL learners' perceptions of [[generative-ai]]-based [[speech-and-voice-technologies|pronunciation feedback]] relate to their willingness to communicate (WTC) in English, with English pronunciation [[self-efficacy]] as a hypothesized mediator. Using a cross-sectional survey of 1,701 learners, covariance-based structural equation modeling, and bias-corrected bootstrapping, they found that positive perceptions of GenAI pronunciation feedback were significantly associated with greater WTC in English, and that pronunciation self-efficacy partially mediated this relationship — the indirect effect accounted for 69.9% of the total effect while the direct effect remained significant.
+> **Synthesis:** Lu et al. (2026) examined, through the lens of Social Cognitive Theory, whether Chinese university EFL learners' perceptions of [[generative-ai|generative AI]]-based [[speech-and-voice-technologies|pronunciation feedback]] relate to their willingness to communicate (WTC) in English, with English pronunciation [[self-efficacy|self-efficacy]] as a hypothesized mediator. Using a cross-sectional survey of 1,701 learners, covariance-based structural equation modeling, and bias-corrected bootstrapping, they found that positive perceptions of GenAI pronunciation [[feedback|feedback]] were significantly associated with greater WTC in English, and that pronunciation self-efficacy partially mediated this relationship — the indirect effect accounted for 69.9% of the total effect while the direct effect remained significant.
 
 ## Key Findings
 
@@ -32,7 +32,7 @@ The authors used a cross-sectional survey design with a convenience sample of 1,
 ## What this means for practice
 
 - **Instructors.** Add [[generative-ai|GenAI]] pronunciation feedback as a low-stakes supplement to classroom speaking practice: positive perceptions of that feedback were associated with greater willingness to communicate in English (total β = 0.574).
-- **Instructors.** Use the tools to build confidence, not only accuracy: the path through English pronunciation [[self-efficacy]] carried about 69.9% of the total effect (indirect β = 0.401) against a modest direct effect (β = 0.173), and self-efficacy strongly predicted willingness to communicate (β = 0.661).
+- **Instructors.** Use the tools to build confidence, not only accuracy: the path through English pronunciation [[self-efficacy|self-efficacy]] carried about 69.9% of the total effect (indirect β = 0.401) against a modest direct effect (β = 0.173), and self-efficacy strongly predicted willingness to communicate (β = 0.661).
 - **Designers.** Design feedback that encourages as well as corrects — learners' perceptions of the feedback (β = 0.607 on self-efficacy) rather than its measured accuracy drove the association — so favor encouraging language, actionable guidance, and adaptation to proficiency.
 - **Instructors.** Keep [[teacher-role|teacher]] and [[peer-assessment|peer feedback]] in place: self-efficacy mediated only part of the association, so routes such as reduced communication anxiety and psychological safety still matter alongside the technology.
 - **Instructors.** Target the learners who avoid speaking, since private, immediate, and repeatable practice suits students whose pronunciation anxiety keeps them silent in class.

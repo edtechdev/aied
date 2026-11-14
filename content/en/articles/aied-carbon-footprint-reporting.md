@@ -14,13 +14,13 @@ page_kind: [evaluation]
 institutions: [educational-policy-ai]
 ---
 
-> **Synthesis:** [[llm]] usage has become pervasive in the [[stanford-evidence-base-ai-k12-2026|AIED]] community, but the computational and environmental costs of deploying these models remain almost entirely unreported. This paper systematically reviews the [[ai-education|AIED]] 2025 conference proceedings and finds that while most projects use LLMs, nearly none report computational resources or discuss environmental impacts as an [[ethics|ethical]] concern.
+> **Synthesis:** [[llm|LLM]] usage has become pervasive in the [[stanford-evidence-base-ai-k12-2026|AIED]] community, but the computational and environmental costs of deploying these models remain almost entirely unreported. This paper systematically reviews the [[ai-education|AIED]] 2025 conference proceedings and finds that while most projects use LLMs, nearly none report computational resources or discuss environmental impacts as an [[ethics|ethical]] concern.
 
 ## Key Findings
 
 - **Widespread usage, invisible costs:** A review of all AIED 2025 conference papers reveals an "LLM adoption without disclosure" pattern — most projects use LLMs, but fewer than a handful report resource consumption or carbon footprint.
 - **No standardized reporting:** There is no established procedure in the AIED community for measuring or disclosing the computational expense or environmental cost of LLM-based systems.
-- **[[open-source]] methodology proposed:** The paper introduces a standardized, open-source method with two components:
+- **[[open-source|open source]] methodology proposed:** The paper introduces a standardized, open-source method with two components:
   1. **Software tools** for measuring carbon footprint on both local and cloud hardware.
   2. **An easy-to-use formula** for estimating computational expense of frontier LLMs, even when exact parameter counts are unknown (common with proprietary models).
 - **Ethical imperative:** The paper argues that failing to report environmental costs is itself an ethical concern — aligning with broader calls for [[hazra-safetutors-pedagogical-safety-2026|responsible AI]] and [[finkelstein-principled-ai-education-2025|transparency]] in educational technology.

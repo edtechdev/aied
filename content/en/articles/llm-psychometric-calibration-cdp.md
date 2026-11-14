@@ -14,11 +14,11 @@ page_kind: [evaluation]
 methods: [benchmark]
 ---
 
-> **Synthesis:** Proposes [[cognitive-diagnosis|Cognitive Diagnostic]] Profiling (CDP), a zero-shot framework that dramatically improves [[llm]]-simulated examinee alignment with human test-takers. With CDP, IRT difficulty Spearman correlations rose from 0.24 to 0.90, and RMSE fell from 6.31 to 0.90. Makes LLM-simulated examinees practical for operational test development.
+> **Synthesis:** Proposes [[cognitive-diagnosis|Cognitive Diagnostic]] Profiling (CDP), a zero-shot framework that dramatically improves [[llm|LLM]]-simulated examinee alignment with human test-takers. With CDP, IRT difficulty Spearman correlations rose from 0.24 to 0.90, and RMSE fell from 6.31 to 0.90. Makes LLM-simulated examinees practical for operational test development.
 
-**Relevance to [[ai-education|AI in Education]]:** This paper contributes to the understanding of [[automated-assessment]], [[personalized-learning]], and [[student-experience]]. The findings have implications for [[adaptive-learning]] systems, [[formative-assessment]] design, and the broader [[edtech-platform]] landscape. Future work should explore how these results generalize across [[stem-education]] and [[higher-ed]] contexts.
+**Relevance to [[ai-education|AI in Education]]:** This paper contributes to the understanding of [[automated-assessment|automated assessment]], [[personalized-learning|personalized learning]], and [[student-experience|student experience]]. The findings have implications for [[adaptive-learning|adaptive learning]] systems, [[formative-assessment|formative assessment]] design, and the broader [[edtech-platform|edtech platform]] landscape. Future work should explore how these results generalize across [[stem-education|STEM education]] and [[higher-ed|higher education]] contexts.
 
-This [[research-methods-aied|research]] connects to the growing body of work on [[ai-literacy]] and [[teacher-role]], highlighting both the promise and limitations of AI tools in educational settings.
+This [[research-methods-aied|research]] connects to the growing body of work on [[ai-literacy|AI literacy]] and [[teacher-role|teacher role]], highlighting both the promise and limitations of AI tools in educational settings.
 
 ## What this means for practice
 - **Researchers.** Condition simulated examinees on explicit cognitive profiles rather than asking a model for generic answers: profile conditioning raised 1PL item-difficulty agreement from a Spearman correlation of 0.24 to 0.90 in the strongest configuration.

@@ -20,7 +20,7 @@ page_kind: [evaluation]
 
 ## Overview
 
-Grading command-line examinations by hand does not scale to rising enrollments in computing degrees, and rule-based autograders cannot cope with partial credit, equivalent solutions, or syntactic variation. The authors frame the problem as a measurement question: can an [[llm]]'s scores be treated as interchangeable with expert judgment, and if not, for which *kinds* of question does it fail? Their answer is to make question difficulty an explicit, graded variable rather than a nuisance, via a taxonomy that predicts where automated scoring can be trusted. The work sits in [[cs-education|computing education]] and speaks to the wider [[automated-assessment|automated assessment]] and [[formative-assessment]] literature.
+Grading command-line examinations by hand does not scale to rising enrollments in computing degrees, and rule-based autograders cannot cope with partial credit, equivalent solutions, or syntactic variation. The authors frame the problem as a measurement question: can an [[llm|LLM]]'s scores be treated as interchangeable with expert judgment, and if not, for which *kinds* of question does it fail? Their answer is to make question difficulty an explicit, graded variable rather than a nuisance, via a taxonomy that predicts where automated scoring can be trusted. The work sits in [[cs-education|computing education]] and speaks to the wider [[automated-assessment|automated assessment]] and [[formative-assessment|formative assessment]] literature.
 
 ## Study Design & Method
 

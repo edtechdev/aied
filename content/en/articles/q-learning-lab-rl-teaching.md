@@ -15,12 +15,12 @@ audience: [instructors, learners]
 
 > **Synthesis:** Presents Q-Learning Lab, a single-file tool that makes the Bellman update concrete by letting undergraduates inspect how each value is computed and why actions are chosen, through learner-generated trace analysis. It addresses the abstraction gap where students watch policy convergence without understanding mechanism.
 
-A [[reinforcement-learning]] artifact grounded in [[active-learning]] and [[stem-education]] for [[higher-ed]]. It connects to [[self-regulated-learning]] by making the learning process observable, and to [[scaffolding]] of difficult [[quantitative-research|quantitative]] concepts, offering a reproducible [[teacher-role|teaching]] tool for ML/RL courses.
+A [[reinforcement-learning|reinforcement learning]] artifact grounded in [[active-learning|active learning]] and [[stem-education|STEM education]] for [[higher-ed|higher education]]. It connects to [[self-regulated-learning|self-regulated learning]] by making the learning process observable, and to [[scaffolding|scaffolding]] of difficult [[quantitative-research|quantitative]] concepts, offering a reproducible [[teacher-role|teaching]] tool for ML/RL courses.
 
 ## Key Findings
 
 - Q-Learning Lab is a single-file, browser-based, [[multilingual-learning|bilingual]] (Thai/English) tool for teaching tabular Q-learning that requires no installation and no network connection.
-- Beyond the usual gridworld [[visualization]] — color-coded Q-values and policy arrows on a 5×5 world — a live Bellman-substitution panel shows the numeric update at every step.
+- Beyond the usual gridworld [[visualization|visualization]] — color-coded Q-values and policy arrows on a 5×5 world — a live Bellman-substitution panel shows the numeric update at every step.
 - Each transition is logged, including the full pre-action Q-row, the greedy-versus-random decision under ε-greedy exploration, and wall-collision events, into an exportable trace.
 - The central contribution is a learn–export–analyze loop: learners run their own agent, export the complete trace as CSV, and analyze it themselves, producing learning curves, value heatmaps, and visitation maps that turn a passive demonstration into learner-generated data for reflective inquiry.
 - A reward-editing study separates two behaviorally identical but diagnostically opposite failure modes — an exploration failure versus genuine reward misspecification — that a single edited reward can produce.

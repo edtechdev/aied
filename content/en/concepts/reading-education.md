@@ -1,7 +1,7 @@
 ---
 title: "Reading Education"
 created: "2026-11-05T02:16:00-05:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding, motivation, cognitive-psychology]
@@ -49,9 +49,9 @@ That is a measurement result, not an outcome study, and the distinction matters.
 
 ## Assessing Reading
 
-Reading assessment is where AI appears most often as a labor-saving device. Almirabi's practitioner case study built the AI-Mediated Motivational Reading Assessment around six multiple-choice quizzes with 53 Arabic-L1 EFL undergraduates, moving from a textbook passage to AI-generated passages, from unproctored online delivery to invigilated paper ([[almirabi-ai-reading-assessment-motivation-2026|Almirabi, 2026]]). Scores rose from 69.4% on the textbook quiz to a cycle mean of 76.5%, with the AI aggregate 4.2 points above the textbook quiz once unproctored quizzes were excluded. The author is explicit that passage source, delivery, proctoring and sequence were not isolated and that [[motivation]] was never measured, so the data are consistent with a motivational benefit rather than evidence of one.
+Reading assessment is where AI appears most often as a labor-saving device. Almirabi's practitioner case study built the AI-Mediated Motivational Reading Assessment around six multiple-choice quizzes with 53 Arabic-L1 EFL undergraduates, moving from a textbook passage to AI-generated passages, from unproctored online delivery to invigilated paper ([[almirabi-ai-reading-assessment-motivation-2026|Almirabi, 2026]]). Scores rose from 69.4% on the textbook quiz to a cycle mean of 76.5%, with the AI aggregate 4.2 points above the textbook quiz once unproctored quizzes were excluded. The author is explicit that passage source, delivery, proctoring and sequence were not isolated and that [[motivation|motivation]] was never measured, so the data are consistent with a motivational benefit rather than evidence of one.
 
-A second study moves in the other direction, treating AI feedback as a student-centered process rather than a scoring convenience. In a two-month quasi-experiment with 200 seventh-graders in Shenzhen, ChatGPT-supported [[feedback]] on Chinese reading produced a 30.40-point gain on a feedback measure and 17.95 on feedback orientation, against declines in the conventional-feedback class ([[chatgpt-feedback-orientation-chinese-reading-2026|Chen et al., 2026]]). The mechanism claimed is [[feedback-literacy|feedback literacy]], not comprehension, and the [[assessment|assessment]] question — whether scores mean the same thing across conditions — is left open.
+A second study moves in the other direction, treating AI feedback as a student-centered process rather than a scoring convenience. In a two-month quasi-experiment with 200 seventh-graders in Shenzhen, ChatGPT-supported [[feedback|feedback]] on Chinese reading produced a 30.40-point gain on a feedback measure and 17.95 on feedback orientation, against declines in the conventional-feedback class ([[chatgpt-feedback-orientation-chinese-reading-2026|Chen et al., 2026]]). The mechanism claimed is [[feedback-literacy|feedback literacy]], not comprehension, and the [[assessment|assessment]] question — whether scores mean the same thing across conditions — is left open.
 
 ## Readability: What Makes a Text Hard
 
@@ -75,9 +75,9 @@ Simplification is the fourth variant, and its bottleneck is evaluation rather th
 
 ## Readers, Interfaces and Access
 
-Reading is also an access question. AIRRI renders assignment material as perturbed images to defeat screenshot-to-[[llm]] pipelines, and its authors report the readability cost honestly: stripe overlays were judged readable by all four design and typography experts interviewed, while extraction error reached 100% ([[airri-machine-resistant-reading-interface-2026|Airri et al., 2026]]). The trade-off between machine-readability and human readability is a design decision with an accessibility price.
+Reading is also an access question. AIRRI renders assignment material as perturbed images to defeat screenshot-to-[[llm|LLM]] pipelines, and its authors report the readability cost honestly: stripe overlays were judged readable by all four design and typography experts interviewed, while extraction error reached 100% ([[airri-machine-resistant-reading-interface-2026|Airri et al., 2026]]). The trade-off between machine-readability and human readability is a design decision with an accessibility price.
 
-For learners with dyslexia, a [[meta-analysis-systematic-review|PRISMA]]-guided review of 72 studies from 2018 to 2024 finds AI used for detection, [[assistive-technology|assistive support]] and [[personalized-learning|personalized learning]], but with a fragmented evidence base and little experimental validation; generative AI is minimally represented ([[dabaghi-ai-dyslexia-education-review-2026|Dabaghi et al., 2026]]). Reading difficulty is where [[neurodiversity]] and [[accessibility]] meet the general reading agenda, not a separate topic.
+For learners with dyslexia, a [[meta-analysis-systematic-review|PRISMA]]-guided review of 72 studies from 2018 to 2024 finds AI used for detection, [[assistive-technology|assistive support]] and [[personalized-learning|personalized learning]], but with a fragmented evidence base and little experimental validation; generative AI is minimally represented ([[dabaghi-ai-dyslexia-education-review-2026|Dabaghi et al., 2026]]). Reading difficulty is where [[neurodiversity|neurodiversity]] and [[accessibility|accessibility]] meet the general reading agenda, not a separate topic.
 
 ## What the Evidence Does and Does Not Show
 

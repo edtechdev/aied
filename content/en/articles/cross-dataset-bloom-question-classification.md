@@ -40,7 +40,7 @@ The motivation is practical: Bloom's taxonomy supports the systematic design, an
 ## Limitations
 
 - The usability study drew N = 50 participants recruited via Prolific who used the interface for 10 minutes on one of their real courses; the authors state that feedback from real instructors is still needed for practical deployment.
-- The cross-dataset comparison tested only a subset of ML and DL models and a limited set of LLMs; the authors call for more models, particularly [[open-source]] alternatives, to assess robustness and cost-effectiveness.
+- The cross-dataset comparison tested only a subset of ML and DL models and a limited set of LLMs; the authors call for more models, particularly [[open-source|open source]] alternatives, to assess robustness and cost-effectiveness.
 - Five datasets are the entire evidence base, and transfer depends on direction: one dataset pair lost only 0.04 weighted F1 against an average cross-dataset decrease of 0.28.
 
 ## Citation

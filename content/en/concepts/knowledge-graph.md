@@ -1,7 +1,7 @@
 ---
 title: Knowledge Graph
 created: "2026-08-09T16:55:17-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 connected_resources: [context-aideatext]
 type: concept
 foundations: [ai-education, curriculum-design]
@@ -23,23 +23,23 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Knowledge graphs provide the structural backbone for many intelligent education systems. Unlike flat lists of skills or concepts, knowledge graphs capture prerequisite relationships, similarity, and hierarchical organization — essential for [[adaptive-learning]], [[knowledge-tracing]], and [[student-modeling]].
+Knowledge graphs provide the structural backbone for many intelligent education systems. Unlike flat lists of skills or concepts, knowledge graphs capture prerequisite relationships, similarity, and hierarchical organization — essential for [[adaptive-learning|adaptive learning]], [[knowledge-tracing|knowledge tracing]], and [[student-modeling|student modeling]].
 
 ## How knowledge graphs are used in AIED
 
 Knowledge graphs are a recurring structural mechanism across AIED [[research-methods-aied|research]], serving several distinct roles:
 
-- **[[knowledge-tracing]] models** use concept graphs to propagate student proficiency estimates across related skills, improving prediction accuracy when data is sparse.
-- **[[student-modeling]] systems** leverage knowledge graphs to represent what learners know in a semantically meaningful way, enabling fine-grained diagnosis.
-- **[[adaptive-learning]] platforms** use prerequisite graphs to sequence content and recommend [[personalized-learning|personalized learning]] paths.
+- **[[knowledge-tracing|knowledge tracing]] models** use concept graphs to propagate student proficiency estimates across related skills, improving prediction accuracy when data is sparse.
+- **[[student-modeling|student modeling]] systems** leverage knowledge graphs to represent what learners know in a semantically meaningful way, enabling fine-grained diagnosis.
+- **[[adaptive-learning|adaptive learning]] platforms** use prerequisite graphs to sequence content and recommend [[personalized-learning|personalized learning]] paths.
 - **Algorithm choice over the graph changes outcomes.** In G4L, propagating mastery through an Evolving Knowledge Space Graph with Bayesian knowledge propagation produced +24% measured knowledge (0.717 → 0.887), against +5% for Knowledge Space Theory and +1% for Weighted Distance Dependent Induction ([[graph-its-adaptive-algorithms-2026|Csépányi-Fürjes & Kovács, 2026]]).
-- **[[cognitive-diagnosis]] frameworks** like [[xie-hillm-cd-2026|HiLLM-CD]] construct concept trees from educational text using LLMs, eliminating manual annotation.
+- **[[cognitive-diagnosis|cognitive diagnosis]] frameworks** like [[xie-hillm-cd-2026|HiLLM-CD]] construct concept trees from educational text using LLMs, eliminating manual annotation.
 - **Knowledge-graph-augmented tutoring:** [[quantum-education-its|ITAS]] uses a knowledge graph of quantum concepts (with explicit prerequisite relationships) to drive a multi-agent tutoring system, traversing the graph to select next topics for counterintuitive material.
 - **Curriculum and course modeling:** [[coursegraph-cs-course-comparison-2026|CourseGraph]] compares CS course structures across institutions using graph representations; [[learnity-graphs-lifelong-learning-framework-2026|Learnity graphs]] model [[lifelong-learning|lifelong learning]] pathways.
 - **Prerequisite-relation learning:** [[proprl-prerequisite-relation-learning|ProPrL]] learns [[recommender-systems-and-learning-paths|prerequisite relations]] among concepts, formalizing the edges that knowledge graphs encode.
 - **Learnable prerequisite discovery replaces expert priors.** A survey synthesis by [[xu-graph-knowledge-tracing-survey-2026|Xu et al. (2026)]] finds that graph-based tracers can learn prerequisite structure from response data during training, replacing expert-crafted priors. GKT parameterizes a learnable adjacency matrix end-to-end, SKT-L learns prerequisites while training, PKT applies L1 regularization to recover sparse prerequisite graphs evaluated against ground-truth structures with F1 scores, and PSI-KT's variational Bayesian framework infers directed prerequisite graphs that align with human-annotated prerequisites better than baseline models.
 - **Knowledge-gap detection:** [[knowledge-gap-detection-ai-tas|Knowledge gap detection]] uses graph-based reasoning in AI teaching assistants to identify where learners are missing foundational concepts.
-- **[[multimodal]] and explainable reasoning:** [[multimodal-knowledge-graph-educational-reasoning|multimodal knowledge graphs]] extend graph structure across content modalities; [[fair-explainable-edu-recommendations|fair and explainable recommendations]] combine knowledge-graph embeddings with sequential modeling (a hybrid HKG-GRU framework).
+- **[[multimodal|multimodal]] and explainable reasoning:** [[multimodal-knowledge-graph-educational-reasoning|multimodal knowledge graphs]] extend graph structure across content modalities; [[fair-explainable-edu-recommendations|fair and explainable recommendations]] combine knowledge-graph embeddings with sequential modeling (a hybrid HKG-GRU framework).
 - **Instructionally structured graphs for resource recommendation:** [[hybrid-cf-kg-recommendation-multimodal-teaching-2026|Liu, Sun & Song (2026)]] decompose each teaching-resource entity into four instructional dimensions (teaching context, cognitive level, technological feature, cultural adaptability), compute user-dependent semantic similarity over those dimensions, and fuse it with collaborative filtering via an ability- and progress-aware coefficient — encoding [[pedagogy|pedagogical]] structure directly into the recommendation signal rather than treating resources as consumption items.
 - **Ontology-based knowledge bases:** [[ontology-layered-hybrid-knowledge-model-personalized-elearning-2026|Ivanova (2026)]] proposes a layered, hybrid knowledge-base architecture grounded in description logic that replaces the classic ITS single-ontology models with **systems of mapped ontologies** — adding procedural (rule-based), probabilistic/fuzzy, and ML-extracted implicit knowledge — plus a metadata framework for describing, discovering, and reusing educational ontologies.
 - **[[scaffolding|Scaffolding]] and writing:** [[veriforge-narrative-drafting-scaffolding-2026|Veriforge]] and [[visual-query-tracer-declarative-logic-learning|visual query tracing]] apply graph-based structure to narrative drafting and declarative-logic learning.
@@ -47,11 +47,11 @@ Knowledge graphs are a recurring structural mechanism across AIED [[research-met
 
 ## LLM-driven knowledge graph construction
 
-Recent research explores using [[llm|LLMs]] to automatically construct knowledge graphs from educational content. The [[xie-hillm-cd-2026|HiLLM-CD]] framework uses multi-agent LLM pipelines to generate exercise-concept links and hierarchical concept trees, reducing reliance on expert annotation. This connects to broader [[generative-ai]] applications in curriculum design and automated content organization, and to [[rag]] (retrieval-augmented generation), where graph-structured knowledge can improve retrieval quality over flat similarity search.
+Recent research explores using [[llm|LLMs]] to automatically construct knowledge graphs from educational content. The [[xie-hillm-cd-2026|HiLLM-CD]] framework uses multi-agent LLM pipelines to generate exercise-concept links and hierarchical concept trees, reducing reliance on expert annotation. This connects to broader [[generative-ai|generative AI]] applications in curriculum design and automated content organization, and to [[rag|RAG]] (retrieval-augmented generation), where graph-structured knowledge can improve retrieval quality over flat similarity search.
 
 ## Relationship to other concepts
 
-Knowledge graphs connect to [[learning-design]] (defining what to teach), [[curriculum-design]] (how to sequence it), and [[learning-analytics]] (extracting insights from student interaction data). They are foundational to [[intelligent-tutoring]] systems that need structured representations of educational domains. As AI agents become more common in education, knowledge graphs provide the domain structure that [[agentic-ai|agentic systems]] reason over — a pattern seen in [[quantum-education-its|ITAS]] and knowledge-gap-detection teaching assistants.
+Knowledge graphs connect to [[learning-design|learning design]] (defining what to teach), [[curriculum-design|curriculum design]] (how to sequence it), and [[learning-analytics|learning analytics]] (extracting insights from student interaction data). They are foundational to [[intelligent-tutoring|intelligent tutoring]] systems that need structured representations of educational domains. As AI agents become more common in education, knowledge graphs provide the domain structure that [[agentic-ai|agentic systems]] reason over — a pattern seen in [[quantum-education-its|ITAS]] and knowledge-gap-detection teaching assistants.
 
 ## Implications for Practice
 

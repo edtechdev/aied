@@ -1,7 +1,7 @@
 ---
 title: Lifelong Learning
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
@@ -36,7 +36,7 @@ Lifelong learning refers to continuous education throughout life — upskilling,
 
 ## Connections
 
-Lifelong learning connects to [[adult-learning]] and [[professional-training]] (its primary contexts), [[personalized-learning]] and [[adaptive-learning]] (the AI mechanisms that support it), [[self-regulated-learning]] and [[metacognition]] (the learner processes involved), and [[equity-in-ai-education]] (access across the lifespan). It also intersects with [[educational-development]] when educators themselves are the lifelong learners.
+Lifelong learning connects to [[adult-learning|adult learning]] and [[professional-training|professional training]] (its primary contexts), [[personalized-learning|personalized learning]] and [[adaptive-learning|adaptive learning]] (the AI mechanisms that support it), [[self-regulated-learning|self-regulated learning]] and [[metacognition|metacognition]] (the learner processes involved), and [[equity-in-ai-education|equity]] (access across the lifespan). It also intersects with [[educational-development|educational development]] when educators themselves are the lifelong learners.
 
 ## Implications for Practice
 

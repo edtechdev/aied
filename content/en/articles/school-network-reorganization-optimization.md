@@ -16,12 +16,12 @@ methods: [meta-analysis-systematic-review]
 institutions: [educational-policy-ai]
 ---
 
-> **Synthesis:** This paper develops an optimization framework for school network reorganization that integrates geographic, administrative, and educational criteria into an Integer Linear Programming formulation. Applied to the complete public school network of Calabria, Italy, and extended to a hybrid quantum optimization setting, the approach identifies optimal school aggregation plans under different policy scenarios while preserving [[equity-in-ai-education]] and accessibility. The framework serves as a decision-support tool for sustainable educational planning in the era of [[ai-education|AI-enhanced operations research]].
+> **Synthesis:** This paper develops an optimization framework for school network reorganization that integrates geographic, administrative, and educational criteria into an Integer Linear Programming formulation. Applied to the complete public school network of Calabria, Italy, and extended to a hybrid quantum optimization setting, the approach identifies optimal school aggregation plans under different policy scenarios while preserving [[equity-in-ai-education|equity]] and accessibility. The framework serves as a decision-support tool for sustainable educational planning in the era of [[ai-education|AI-enhanced operations research]].
 
 ## Key Findings
 
 1. **Unified optimization framework:** An Integer Linear Programming model jointly integrates institutional compatibility, administrative boundaries, road-network travel-time accessibility, capacity, and [[curriculum-design|curricular]] compatibility — a departure from prior models that handled only subsets of these [[network-analysis|school network]] planning dimensions.
-2. **Geographical coherence and enrollment thresholds dominate:** Across all synthetic instance sizes, inter-municipality aggregation penalties are the strongest drivers of cost, while the autonomy threshold is the only parameter negatively correlated with the objective; [[accessibility]] and territorial-protection weights rarely bind.
+2. **Geographical coherence and enrollment thresholds dominate:** Across all synthetic instance sizes, inter-municipality aggregation penalties are the strongest drivers of cost, while the autonomy threshold is the only parameter negatively correlated with the objective; [[accessibility|accessibility]] and territorial-protection weights rarely bind.
 3. **Quantum-ready formulation:** Reformulated as a Constrained Quadratic Model and solved on a hybrid quantum-classical sampler, the framework reproduces the classical optimum in every tested configuration with a 0% optimality gap, though at higher execution times.
 4. **Structurally robust plans:** Optimal aggregation plans vary little with policy weights, so decision-makers can explore trade-offs between cost, accessibility, and educational quality without destabilizing the network.
 
@@ -29,7 +29,7 @@ institutions: [educational-policy-ai]
 
 The framework models school dimensioning as a constrained combinatorial problem that balances [[stakeholders|multiple, often conflicting]] policy objectives. Because Italian school dimensioning policies consolidate autonomous institutions to improve administrative efficiency while still preserving equitable access, the model integrates six primary dimensions:
 
-- **Administrative geography and context:** Aggregations are restricted within provincial borders (provincial coherence), with a penalty applied to cross-municipal consolidations that weaken local [[governance]].
+- **Administrative geography and context:** Aggregations are restricted within provincial borders (provincial coherence), with a penalty applied to cross-municipal consolidations that weaken local [[governance|governance]].
 - **Institutional compatibility:** Only same-category institutions (Comprehensive Institutes with CIs, Upper Secondary Institutes with USIs) may merge, and curricular-track mismatches within USIs are penalized as a soft constraint.
 - **Territorial fragility:** A criticality index (0–4) built from income, education, labor-market, and institutional-fragility indicators penalizes aggregation involving schools in the most vulnerable municipalities.
 - **Differentiated dimensional requirements:** Enrollment thresholds for retaining autonomy are asymmetric — 1000 students in stable areas dropping to 400 in the most fragile — so small schools in isolated territories can preserve their independence.
@@ -42,7 +42,7 @@ The problem is formulated in two equivalent variants. The baseline model uses bi
 
 ## Computational Study
 
-Because no public [[benchmark]] dataset exists for school dimensioning under territorial constraints, the authors built a synthetic instance generator that reproduces a hierarchical settlement geography with provinces, municipalities (capital, large, medium, small), school types, tracks, enrollments, and criticality levels. Four sizes were tested — n ∈ {250, 500, 750, 1000} — with over a thousand parameter configurations. The classical solver (Gurobi) reached proven optimality in every case, with average runtimes rising from 0.032 s to only ~0.11 s at n = 1000, demonstrating that the sparsity of the feasible assignment graph keeps the model highly scalable. A Pearson-correlation sensitivity analysis showed that geographical-coherence penalties (r ≈ 0.45) and the autonomy threshold γ (r ≈ −0.37) drive the optimization, while accessibility thresholds and territorial-protection weights were statistically negligible across all sizes.
+Because no public [[benchmark|benchmark]] dataset exists for school dimensioning under territorial constraints, the authors built a synthetic instance generator that reproduces a hierarchical settlement geography with provinces, municipalities (capital, large, medium, small), school types, tracks, enrollments, and criticality levels. Four sizes were tested — n ∈ {250, 500, 750, 1000} — with over a thousand parameter configurations. The classical solver (Gurobi) reached proven optimality in every case, with average runtimes rising from 0.032 s to only ~0.11 s at n = 1000, demonstrating that the sparsity of the feasible assignment graph keeps the model highly scalable. A Pearson-correlation sensitivity analysis showed that geographical-coherence penalties (r ≈ 0.45) and the autonomy threshold γ (r ≈ −0.37) drive the optimization, while accessibility thresholds and territorial-protection weights were statistically negligible across all sizes.
 
 ## Quantum Optimization
 

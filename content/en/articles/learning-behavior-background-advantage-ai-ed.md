@@ -13,7 +13,7 @@ confidence: high
 
 > **Synthesis:** Investigates why AI-for-education shows inconsistent average effects, arguing that learning behavior explains background-related advantage: students from advantaged backgrounds engage with AI tools in ways that compound gains, while others do not. Prior ed-tech [[research-methods-aied|research]] shows average effects mask heterogeneity; this paper quantifies the behavioral mechanism.
 
-Links [[generative-ai]] use to learning-gains, [[personalized-learning]], and [[student-experience]], with strong [[equity-in-ai-education]] implications: AI assistance may widen gaps unless designed to shift behavior. Connects to [[ai-assisted-learning-modes-eeg]] and the [[cognitive-offloading|Over-Reliance]] literature on differential benefit.
+Links [[generative-ai|generative AI]] use to learning-gains, [[personalized-learning|personalized learning]], and [[student-experience|student experience]], with strong [[equity-in-ai-education|equity]] implications: AI assistance may widen gaps unless designed to shift behavior. Connects to [[ai-assisted-learning-modes-eeg|Khurana et al. (2026)]] and the [[cognitive-offloading|Over-Reliance]] literature on differential benefit.
 
 ## Key Findings
 
@@ -25,9 +25,9 @@ Links [[generative-ai]] use to learning-gains, [[personalized-learning]], and [[
 ## What this means for practice
 
 - **Instructors.** Teach students how to work with the assistant, not merely that they may use it: in this trial, proactive and critical use — trying problems first, verifying and correcting AI output — tracked higher exam scores, while limited engagement produced little benefit over the no-AI control group.
-- **Instructors.** Require an attempt before consultation and make verification a graded step, so that [[help-seeking]] becomes a deliberate strategy rather than a way to avoid effort.
-- **Designers.** Build [[self-regulated-learning]] support into the tool itself, because equal access produced unequal returns: students with stronger [[prior-knowledge|prior knowledge]] or higher university ranking were the ones who adopted the proactive behavior.
-- **Administrators.** Fund [[ai-literacy]] guidance as educational support rather than buying more access — background-related exam-score differences in the Python course attenuated once learning behavior was accounted for, which makes guidance the lever for [[equity-in-ai-education]].
+- **Instructors.** Require an attempt before consultation and make verification a graded step, so that [[help-seeking|help-seeking]] becomes a deliberate strategy rather than a way to avoid effort.
+- **Designers.** Build [[self-regulated-learning|self-regulated learning]] support into the tool itself, because equal access produced unequal returns: students with stronger [[prior-knowledge|prior knowledge]] or higher university ranking were the ones who adopted the proactive behavior.
+- **Administrators.** Fund [[ai-literacy|AI literacy]] guidance as educational support rather than buying more access — background-related exam-score differences in the Python course attenuated once learning behavior was accounted for, which makes guidance the lever for [[equity-in-ai-education|equity]].
 - **Researchers.** Log how students use the assistant, not just whether they had it: the differential benefit here was visible only in the behavioral pathways linking tool use to outcomes.
 
 ## Limitations

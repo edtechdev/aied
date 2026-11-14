@@ -1,7 +1,7 @@
 ---
 title: "Community of Inquiry"
 created: "2026-08-23T15:30:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -12,7 +12,7 @@ connected_faqs: [asynchronous-online-courses-ai]
 reviewed_by: [editor]
 ---
 
-> **Community of Inquiry (CoI)** is a framework for conceptualizing a meaningful educational experience as the dynamic interplay of **cognitive presence**, **social presence**, and **teaching presence**. Originating in computer-mediated and online learning [[research-methods-aied|research]] (Garrison, Anderson & Archer, 2000), it has become one of the most widely used models for designing, evaluating, and researching [[online-teaching-and-learning|online and blended]] inquiry-based education. In the [[generative-ai]] era the framework is being reconceptualized: machine-produced discourse can mimic authentic presence, so presences must be understood as sociotechnical accomplishments of human–GenAI assemblages rather than purely human activity.
+> **Community of Inquiry (CoI)** is a framework for conceptualizing a meaningful educational experience as the dynamic interplay of **cognitive presence**, **social presence**, and **teaching presence**. Originating in computer-mediated and online learning [[research-methods-aied|research]] (Garrison, Anderson & Archer, 2000), it has become one of the most widely used models for designing, evaluating, and researching [[online-teaching-and-learning|online and blended]] inquiry-based education. In the [[generative-ai|generative AI]] era the framework is being reconceptualized: machine-produced discourse can mimic authentic presence, so presences must be understood as sociotechnical accomplishments of human–GenAI assemblages rather than purely human activity.
 
 ## Questions to Consider
 
@@ -24,7 +24,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-The Community of Inquiry framework describes a worthwhile online learning experience as the product of three interacting presences: cognitive presence (learners constructing and confirming meaning through sustained reflection and discourse), social presence (participants projecting themselves socially and emotionally), and teaching presence (design, facilitation and direction of the process). Grounded in [[constructivist]] and Deweyan traditions, it treats inquiry as social and iterative, and it now serves as a design and evaluation lens for AI-mediated courses — where a [[pedagogical-agent]] may support one presence while quietly eroding another.
+The Community of Inquiry framework describes a worthwhile online learning experience as the product of three interacting presences: cognitive presence (learners constructing and confirming meaning through sustained reflection and discourse), social presence (participants projecting themselves socially and emotionally), and teaching presence (design, facilitation and direction of the process). Grounded in [[constructivist|constructivism]] and Deweyan traditions, it treats inquiry as social and iterative, and it now serves as a design and evaluation lens for AI-mediated courses — where a [[pedagogical-agent|pedagogical agent]] may support one presence while quietly eroding another.
 
 ## The three presences
 
@@ -32,11 +32,11 @@ The Community of Inquiry framework describes a worthwhile online learning experi
 - **Social presence** — the ability of participants to project themselves socially and emotionally, expressed through [[affective-computing|affective]] communication, open communication, and group cohesion.
 - **Teaching presence** — the design, facilitation, and direction of cognitive and social processes to realize personally meaningful and educationally worthwhile outcomes, including design/organization, facilitating discourse, and direct instruction.
 
-CoI is grounded in [[constructivist]] and Deweyan pragmatic traditions: inquiry is social, iterative, and driven by a felt difficulty that motivates the search for resolution.
+CoI is grounded in [[constructivist|constructivism]] and Deweyan pragmatic traditions: inquiry is social, iterative, and driven by a felt difficulty that motivates the search for resolution.
 
 ## CoI as a framework for online teaching
 
-CoI originated in, and remains most strongly associated with, [[online-teaching-and-learning]]. It provides a vocabulary for diagnosing *why* an online course works or fails: low [[student-engagement|engagement]] and isolation in asynchronous courses are usually failures of social and teaching presence, while surface discussion often reflects weak cognitive presence. This makes CoI a practical design lens for the very conditions the online medium creates — the removal of physical co-presence, the need for deliberate community-building, and the structuring of discussion that substitutes for face-to-face contact. In the [[generative-ai]] era, CoI is also where online instructors confront the hardest new questions: who is "present" when [[llm]] agents post, moderate, or respond, and how to keep the three presences meaningful when machine-generated discourse can mimic them. Community of Inquiry is therefore the core framework for the social-presence and community-building strand of its recommended practice.
+CoI originated in, and remains most strongly associated with, [[online-teaching-and-learning|online teaching and learning]]. It provides a vocabulary for diagnosing *why* an online course works or fails: low [[student-engagement|engagement]] and isolation in asynchronous courses are usually failures of social and teaching presence, while surface discussion often reflects weak cognitive presence. This makes CoI a practical design lens for the very conditions the online medium creates — the removal of physical co-presence, the need for deliberate community-building, and the structuring of discussion that substitutes for face-to-face contact. In the [[generative-ai|generative AI]] era, CoI is also where online instructors confront the hardest new questions: who is "present" when [[llm|LLM]] agents post, moderate, or respond, and how to keep the three presences meaningful when machine-generated discourse can mimic them. Community of Inquiry is therefore the core framework for the social-presence and community-building strand of its recommended practice.
 
 ## CoI under generative-AI pressure
 
@@ -53,13 +53,13 @@ Empirical network evidence now sits under these claims: in a quasi-experiment wh
 
 Rather than a tool, a dialogic partner, or a speculative "fourth presence," GenAI is best understood as an **epistemic condition** — a pervasive influence that reconfigures how presences are enacted, interpreted, evidenced, and governed through both visible outputs and invisible training-data, algorithmic, and platform logics.
 
-The framework's own authors supply a role taxonomy for that condition: [[ai-communities-of-inquiry-2026|Stenbom and Garrison (2026)]] place AI as [[learning-design]] support, an independent learner resource, an instructor-support function via [[learning-analytics|analytics]], a community member, and a sustained dialogical partner, and propose shared [[metacognition]] — self- and co-[[self-regulated-learning|regulation]] — as what keeps learners auditing AI output.
+The framework's own authors supply a role taxonomy for that condition: [[ai-communities-of-inquiry-2026|Stenbom and Garrison (2026)]] place AI as [[learning-design|learning design]] support, an independent learner resource, an instructor-support function via [[learning-analytics|analytics]], a community member, and a sustained dialogical partner, and propose shared [[metacognition|metacognition]] — self- and co-[[self-regulated-learning|regulation]] — as what keeps learners auditing AI output.
 
 ## Practical implications
 
 - The relationship between GenAI involvement and inquiry quality is **conditional on human accountability**, not linear: strong presence can occur with high or low GenAI involvement when accountability is strong, and weak presence with either when accountability is weak.
 - [[assessment]] of inquiry should shift from polished final outputs to **process-sensitive evidence** — [[prompt-engineering|prompting]] and revision traces, disclosure and attribution practices, verification moves, and interaction logs. This aligns with the broader move toward [[authentic-assessment|authentic]], [[process-oriented-assessment|process-revealing]] assessment and away from detection-based responses.
-- Pedagogically, learners often need explicit training (e.g., [[simulation|simulation-based]] practice with scripted roles and GenAI decision points) to sustain authentic inquiry under GenAI conditions — and instructors should model how to interrogate generated outputs, which depends on building [[ai-literacy]], [[critical-thinking|critical appraisal]], and calibrated [[trust-calibration|trust]].
+- Pedagogically, learners often need explicit training (e.g., [[simulation|simulation-based]] practice with scripted roles and GenAI decision points) to sustain authentic inquiry under GenAI conditions — and instructors should model how to interrogate generated outputs, which depends on building [[ai-literacy|AI literacy]], [[critical-thinking|critical appraisal]], and calibrated [[trust-calibration|trust]].
 
 ## Common Misconceptions
 

@@ -14,7 +14,7 @@ sources: ['raw/papers/2607.28710.md']
 confidence: high
 ---
 
-> **Synthesis:** This descriptive study documents student [[llm]] use in an undergraduate engineering mechanics course (Spring 2026), responding to the lack of [[discipline-specific-aied|domain-specific]] empirical evidence for [[pedagogy|pedagogical]] policy in [[engineering-education|engineering education]].
+> **Synthesis:** This descriptive study documents student [[llm|LLM]] use in an undergraduate engineering mechanics course (Spring 2026), responding to the lack of [[discipline-specific-aied|domain-specific]] empirical evidence for [[pedagogy|pedagogical]] policy in [[engineering-education|engineering education]].
 
 The authors contribute a reproducible [[self-report-measures|survey instrument]] capturing student AI usage patterns, attitudes, and verification practices, linked to [[learning-gains|academic performance]] metrics — an open [[research-methods-aied|methodological]] framework for other instructors.
 

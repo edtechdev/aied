@@ -14,7 +14,7 @@ page_kind: [framework]
 methods: [quantitative-research]
 ---
 
-> **Synthesis:** Shen and Arunrugstichai propose a **dual-pathway framework** explaining why students' [[generative-ai|GenAI]] use ranges from constructive support to compulsive dependence. Drawing on **Self-Determination Theory (SDT)** and the **Hook model**, they examine how retrospective reports of high-school learning climate relate to university students' GenAI-use patterns and perceived AI-supported learning quality. Using cross-sectional survey data (**overall N = 508**; China-HS n = 305, non-China-HS n = 203; China-Uni n = 193, Thailand-Uni n = 315), they test the model with structural equation modeling and multi-group analysis.
+> **Synthesis:** Shen and Arunrugstichai propose a **dual-pathway framework** explaining why students' [[generative-ai|GenAI]] use ranges from constructive support to compulsive dependence. Drawing on **[[self-determination-theory|Self-Determination Theory]] (SDT)** and the **Hook model**, they examine how retrospective reports of high-school learning climate relate to university students' GenAI-use patterns and perceived AI-supported learning quality. Using cross-sectional survey data (**overall N = 508**; China-HS n = 305, non-China-HS n = 203; China-Uni n = 193, Thailand-Uni n = 315), they test the model with structural equation modeling and multi-group analysis.
 
 ## Key Findings
 
@@ -35,7 +35,7 @@ methods: [quantitative-research]
 
 - The evidence is cross-sectional survey data from 508 university students in China- and Thailand-linked contexts (China-HS n = 305, non-China-HS n = 203; China-Uni n = 193, Thailand-Uni n = 315), so the SEM associations cannot establish that high-school climate causes later use pathways.
 - High-school learning climate was measured through retrospective reports from university students rather than observed or concurrent measures.
-- Outcomes such as perceived AI-supported learning quality, [[well-being]], and [[learning-gains|academic performance]] are [[self-report-measures|self-reported]] perceptions rather than objective records of use or attainment.
+- Outcomes such as perceived AI-supported learning quality, [[well-being|well-being]], and [[learning-gains|academic performance]] are [[self-report-measures|self-reported]] perceptions rather than objective records of use or attainment.
 - Scalar-level measurement invariance supported cross-group comparison, but multi-group differences were concentrated in specific links and the context base is limited to the sampled China and Thailand groupings.
 
 ## Citation

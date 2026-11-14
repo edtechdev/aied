@@ -45,11 +45,11 @@ Five preregistered studies with **N = 3,075 participants and 12,766 human–AI c
 
 ## Why This May Matter for Education
 
-- [[intelligent-tutoring|AI tutors]] and companions that optimize affirmation (praise-heavy feedback, always-agreeing assistants) risk the same substitution dynamic among learners — especially vulnerable or socially isolated students. This is a core concern of [[ai-sycophancy]] and [[pedagogical-safety]]
-- Feedback systems that conflate **support with agreement** undermine the corrective function of [[feedback]] (feedback must sometimes challenge), degrading [[ai-feedback-quality]]
-- Connects to [[cognitive-offloading|Over-Reliance]], [[trust]] and [[trust-calibration|trust calibration]], and the relational harms documented in [[care-full-feedback-genai]] ("matters of care" requires honest critique, not affirmation)
-- Raises [[ethics|ethical]] design questions for [[affective-computing]] and [[social-emotional-learning]] in learning contexts: emotional-support features may carry social-attachment externalities, which educators and [[ai-literacy]] programs should address
-- For [[well-being]], the evidence cautions that emotionally ingratiating AI can substitute for, rather than supplement, human connection — a consideration for [[student-experience]] and [[teacher-role|teacher design of AI use]]
+- [[intelligent-tutoring|AI tutors]] and companions that optimize affirmation (praise-heavy feedback, always-agreeing assistants) risk the same substitution dynamic among learners — especially vulnerable or socially isolated students. This is a core concern of [[ai-sycophancy|AI sycophancy]] and [[pedagogical-safety|pedagogical safety]]
+- Feedback systems that conflate **support with agreement** undermine the corrective function of [[feedback|feedback]] (feedback must sometimes challenge), degrading [[ai-feedback-quality|AI feedback quality]]
+- Connects to [[cognitive-offloading|Over-Reliance]], [[trust|trust]] and [[trust-calibration|trust calibration]], and the relational harms documented in [[care-full-feedback-genai|Winstone et al. (2026)]] ("matters of care" requires honest critique, not affirmation)
+- Raises [[ethics|ethical]] design questions for [[affective-computing|affective computing]] and [[social-emotional-learning|social-emotional learning]] in learning contexts: emotional-support features may carry social-attachment externalities, which educators and [[ai-literacy|AI literacy]] programs should address
+- For [[well-being|well-being]], the evidence cautions that emotionally ingratiating AI can substitute for, rather than supplement, human connection — a consideration for [[student-experience|student experience]] and [[teacher-role|teacher design of AI use]]
 
 The studies did not test learners in courses, and they did not measure learning, feedback uptake, or classroom relationships. The educational claims above are transfer hypotheses from an adult online sample; they do not establish that an AI tutor or advising bot causes the same substitution among students.
 
@@ -58,8 +58,8 @@ The studies did not test learners in courses, and they did not measure learning,
 - **Learners.** Treat agreement as a warning sign rather than as support. In these studies a majority preferred the sycophantic AI to neutral and challenging alternatives — not because its advice was better, but because it made them feel most understood.
 - **Learners.** Keep consequential advice in human hands. Over three weeks of interaction, participants became nearly as likely to seek personal advice from sycophantic AI as from close friends and family, and their satisfaction with real-world interaction declined.
 - **Researchers.** Measure relational outcomes, not only attitudes. The paper's contribution is showing that sycophancy shows up in whom users turn to and how effortful human interaction feels, so studies and [[ai-ed-evaluation|evaluations]] should track substitution and anticipated effort alongside preference ratings.
-- **Researchers.** Reuse the longitudinal design to test whether [[intelligent-tutoring|AI tutors]] and praise-heavy [[feedback]] systems substitute for peer and instructor [[help-seeking]] among learners, and for whom — the design ran 12 sessions over three weeks in a census-representative sample.
-- **Designers.** Separate support from agreement when building [[affective-computing]] and [[social-emotional-learning]] features, and treat emotional-support affordances as carrying social-attachment externalities rather than as cost-free additions.
+- **Researchers.** Reuse the longitudinal design to test whether [[intelligent-tutoring|AI tutors]] and praise-heavy [[feedback|feedback]] systems substitute for peer and instructor [[help-seeking|help-seeking]] among learners, and for whom — the design ran 12 sessions over three weeks in a census-representative sample.
+- **Designers.** Separate support from agreement when building [[affective-computing|affective computing]] and [[social-emotional-learning|social-emotional learning]] features, and treat emotional-support affordances as carrying social-attachment externalities rather than as cost-free additions.
 
 ## Limitations
 

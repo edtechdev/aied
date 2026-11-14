@@ -31,7 +31,7 @@ ai_assist:
 
 **Align generated content to a standard.** The Knowledge Graph models standards, [[curriculum-design|curricula]] and research as entities and relationships under one shared schema. A product can look up the standard an item should target, traverse prerequisite relationships, or ground a tutor's content in the curriculum it is supposed to teach, without building and maintaining its own data pipeline.
 
-**Score generated output before students see it.** The **Evaluators** measure attributes of [[llm|LLM output]] — text complexity, [[feedback]], standards alignment and durable skills — and ship as Python and TypeScript SDKs on npm and PyPI. In practice they work as a regression check when a prompt or model changes, as a comparison across candidate models, or as a filter on generated items and explanations.
+**Score generated output before students see it.** The **Evaluators** measure attributes of [[llm|LLM output]] — text complexity, [[feedback|feedback]], standards alignment and durable skills — and ship as Python and TypeScript SDKs on npm and PyPI. In practice they work as a regression check when a prompt or model changes, as a comparison across candidate models, or as a filter on generated items and explanations.
 
 **Package a teacher workflow.** **Agent Skills** bundle instructions, references and guardrails in an open, model-agnostic format: a check for understanding, tiered lesson differentiation, a standards-aligned lesson plan, and lesson preparation. They can be dropped into an agent framework or read as worked templates for how much structure a reliable classroom workflow needs.
 

@@ -13,7 +13,7 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Thomas et al. (2026) present an AI-driven system that assesses human tutor training performance and links it to real-life tutoring quality, bridging the gap between training metrics and classroom practice. Unlike platforms that train tutors without evaluating them, this system assesses both open responses during training and authentic real-life tutoring, connecting [[intelligent-tutoring|tutor training]] to [[formative-assessment|formative]] [[feedback]] and [[automated-assessment|AI-based assessment]].
+> **Synthesis:** Thomas et al. (2026) present an AI-driven system that assesses human tutor training performance and links it to real-life tutoring quality, bridging the gap between training metrics and classroom practice. Unlike platforms that train tutors without evaluating them, this system assesses both open responses during training and authentic real-life tutoring, connecting [[intelligent-tutoring|tutor training]] to [[formative-assessment|formative]] [[feedback|feedback]] and [[automated-assessment|AI-based assessment]].
 
 AI-driven assessment of human tutor training performance correlates with real-life tutoring quality, bridging the gap between training metrics and classroom practice. Numerous tutor training platforms exist, but few provide AI-driven training and evaluation for human tutors based on real-life performance. This system assesses both open responses during training and authentic real-life tutoring, unlike platforms that only train. The work demonstrates how [[automated-assessment|AI-driven assessment]] can validate that the skills tutors practice in training transfer to genuine teaching, supporting [[teacher-role|tutor]] development and [[professional-training|professional learning]].
 
@@ -28,7 +28,7 @@ AI-driven assessment of human tutor training performance correlates with real-li
 
 - Lesson and transcript scores frequently hit ceiling effects (pretest means from 0.70 to 0.98, with only 66–76 tutors per lesson across 433 pooled attempts), which the authors say constrained the evidence of transfer from lessons to practice.
 - Tutors uploaded their own tutoring sessions, creating a selection bias toward more confident tutors who submitted more data.
-- Gemini-2.5-pro's inter-rater reliability varied widely across tutor moves, so the [[llm]]-based evaluation is described as not a perfect process.
+- Gemini-2.5-pro's inter-rater reliability varied widely across tutor moves, so the [[llm|LLM]]-based evaluation is described as not a perfect process.
 - Growth was inferred from a design in which the authors found no significant immediate performance change at the point of intervention and no evidence that opportunities to apply skills explained the observed trend.
 
 ## Citation

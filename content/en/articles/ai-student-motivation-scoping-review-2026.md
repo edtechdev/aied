@@ -22,17 +22,17 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Li, King, Chai, Lee and Li (2026) map what the research literature actually says about [[motivation]] in AI-supported learning, and the map is thinner than the volume of publication suggests. Their [[meta-analysis-systematic-review|scoping review]] covers 156 studies published between 2003 and 2025 — 84 of them in 2025 alone — and finds five gaps rather than five answers: a narrow research focus, thin coverage of motivational constructs, almost no motivational theory, limited identifiable [[pedagogy|pedagogical]] approach, and almost no longitudinal work. The starkest number is theoretical: 133 of the 156 studies (85.3%) were guided by no specific motivational theory at all. Motivation is the construct the field most needs to explain if AI is to produce learning rather than activity, and the review shows most of the work measuring it does so without a theory of what it is.
+> **Synthesis:** Li, King, Chai, Lee and Li (2026) map what the research literature actually says about [[motivation|motivation]] in AI-supported learning, and the map is thinner than the volume of publication suggests. Their [[meta-analysis-systematic-review|scoping review]] covers 156 studies published between 2003 and 2025 — 84 of them in 2025 alone — and finds five gaps rather than five answers: a narrow research focus, thin coverage of motivational constructs, almost no motivational theory, limited identifiable [[pedagogy|pedagogical]] approach, and almost no longitudinal work. The starkest number is theoretical: 133 of the 156 studies (85.3%) were guided by no specific motivational theory at all. Motivation is the construct the field most needs to explain if AI is to produce learning rather than activity, and the review shows most of the work measuring it does so without a theory of what it is.
 
 ## Key Findings
 
 1. Publication is accelerating sharply: 84 of the 156 studies appeared in 2025, 39 in 2024, 14 in 2023, 7 in 2022, 4 in 2021, and only 8 across the whole period from 2003 to 2020.
 2. The evidence base is geographically concentrated: the studies span 25 countries, but 88 (56.4%) were conducted in China, against 9 (5.8%) in the United States and 7 (4.5%) in Turkey.
 3. Coverage skews toward [[higher-ed|higher education]], which the authors attribute partly to AI tools being built for work contexts that university students are expected to learn quickly.
-4. Nine motivational factors appear across the corpus, dominated by a generalized "academic motivation" (n = 89) that does not specify which motivation is meant, followed by engagement (n = 57) and [[self-efficacy]] (n = 49).
+4. Nine motivational factors appear across the corpus, dominated by a generalized "academic motivation" (n = 89) that does not specify which motivation is meant, followed by engagement (n = 57) and [[self-efficacy|self-efficacy]] (n = 49).
 5. Only three studies among those targeting engagement separated its dimensions (behavioral, emotional, cognitive); the rest treated it as a single general construct.
 6. Theory is largely absent: 133 of 156 studies (85.3%) did not rely on any specific motivational theory, and only 23 were grounded in one.
-7. The tools studied cluster: [[discipline-specific-aied|subject-specific]] feedback tools appear 19 times and voice or speech-based assistants 18 times, with AI-driven games, [[multimodal]] [[learning-analytics|analytics]], learning management systems, and educational robots used less often.
+7. The tools studied cluster: [[discipline-specific-aied|subject-specific]] feedback tools appear 19 times and voice or speech-based assistants 18 times, with AI-driven games, [[multimodal|multimodal]] [[learning-analytics|analytics]], learning management systems, and educational robots used less often.
 8. Publication is dispersed across 70 distinct journals, with the largest concentrations in *Education and Information Technologies* (n = 17), the *British Journal of Educational Technology* (n = 9), and *Journal of Computer Assisted Learning*, *Computers and Education*, and *Interactive Learning Environments* (n = 8 each).
 
 ## What the gaps mean
@@ -41,10 +41,10 @@ The review's five findings are diagnostic rather than descriptive. A field study
 
 ## What this means for practice
 
-- **Researchers designing studies.** Name the construct and the theory. The most common variable in this corpus, generalized academic motivation, cannot distinguish between an AI tool that raises engagement and one that undermines intrinsic interest ([[theories-and-frameworks]]).
+- **Researchers designing studies.** Name the construct and the theory. The most common variable in this corpus, generalized academic motivation, cannot distinguish between an AI tool that raises engagement and one that undermines intrinsic interest ([[theories-and-frameworks|theories and frameworks]]).
 - **Instructors and faculty developers.** Treat motivation claims with caution. The literature's dominant measures are [[self-report-measures|self-report]] constructs with no theoretical anchor, so a reported motivational gain is a weaker signal than it appears.
 - **Researchers choosing instruments.** Measure engagement's dimensions rather than its aggregate. Only three studies in the corpus did so, and the difference between behavioral participation and emotional investment is exactly what AI-mediated learning puts at risk.
-- **Funders and reviewers.** Ask for duration. The near-absence of longitudinal work means novelty effects are largely indistinguishable from motivational effects in this literature ([[limitations-in-aied-research]]).
+- **Funders and reviewers.** Ask for duration. The near-absence of longitudinal work means novelty effects are largely indistinguishable from motivational effects in this literature ([[limitations-in-aied-research|limitations in AIEd research]]).
 
 ## Limitations
 

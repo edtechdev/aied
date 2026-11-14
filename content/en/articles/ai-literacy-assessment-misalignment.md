@@ -18,11 +18,11 @@ sources: ['raw/papers/2601.06101.md']
 
 ## Key Findings
 
-- The study developed and evaluated parallel self-report (SR) and objective-based (OB) measures of [[teacher-role|teacher]] AI literacy within a shared Concept, Use, Evaluate, and [[ethics]] framework, enabling direct comparison of perceived versus demonstrated competence.
+- The study developed and evaluated parallel self-report (SR) and objective-based (OB) measures of [[teacher-role|teacher]] AI literacy within a shared Concept, Use, Evaluate, and [[ethics|ethics]] framework, enabling direct comparison of perceived versus demonstrated competence.
 - Confirmatory factor analyses supported [[assessment-validity|construct validity]] with good reliability and acceptable fit, but revealed a low correlation between the self-reported and objective-based factors — teachers' perceptions of their AI literacy and their demonstrated performance diverge.
 - Latent profile analysis identified six distinct profiles, including overestimation (SR > OB), underestimation (SR < OB), alignment (SR ≈ OB), and a unique low-SR/low-OB profile concentrated among teachers without prior AI literacy experience.
-- The divergence between perceived and demonstrated competence has direct implications for [[educational-development|professional development]]: [[self-assessment]] alone is an unreliable basis for planning AI training.
-- The instruments function as diagnostic tools supporting AI-informed decisions such as growth monitoring and needs profiling, and enable scalable [[learning-analytics]] interventions tailored to teacher subgroups.
+- The divergence between perceived and demonstrated competence has direct implications for [[educational-development|professional development]]: [[self-assessment|self-assessment]] alone is an unreliable basis for planning AI training.
+- The instruments function as diagnostic tools supporting AI-informed decisions such as growth monitoring and needs profiling, and enable scalable [[learning-analytics|learning analytics]] interventions tailored to teacher subgroups.
 
 ## Study Design & Method
 

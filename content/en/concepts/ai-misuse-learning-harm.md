@@ -1,7 +1,7 @@
 ---
 title: AI Misuse and Learning Harm
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -25,17 +25,17 @@ reviewed_by: [editor]
 
 ## Introduction
 
-AI misuse is distinct from AI use. Use describes employing AI as a complement to learning — [[feedback]], brainstorming, or revision help that keeps the learner's cognitive work in the loop. Misuse describes substitution: delegating to AI the very mental processes (drafting, recall, analysis, revision) that build durable understanding. The documented harm is not that misuse fails to help; it is that misuse actively degrades later, unassisted achievement.
+AI misuse is distinct from AI use. Use describes employing AI as a complement to learning — [[feedback|feedback]], brainstorming, or revision help that keeps the learner's cognitive work in the loop. Misuse describes substitution: delegating to AI the very mental processes (drafting, recall, analysis, revision) that build durable understanding. The documented harm is not that misuse fails to help; it is that misuse actively degrades later, unassisted achievement.
 
-Anticipated harm is itself documented: in Swedish survey and focus-group data, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] report the same fear from Swedish data: 51% of participants (n = 106) thought genAI use could stunt individual development, pointing to erosion of [[critical-thinking|critical thinking]], [[creativity]] and autonomy rather than to rule-breaking.
+Anticipated harm is itself documented: in Swedish survey and focus-group data, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] report the same fear from Swedish data: 51% of participants (n = 106) thought genAI use could stunt individual development, pointing to erosion of [[critical-thinking|critical thinking]], [[creativity|creativity]] and autonomy rather than to rule-breaking.
 
 ## The performance–learning gap
 
-The core concept, articulated in [[genai-performance-vs-learning]], is that generative AI easily boosts **performance** — immediate efficiency and output quality — while often bypassing the deep cognitive and [[metacognition|metacognitive]] processing required for **learning**. A tool that optimizes for performance can therefore undermine learning. The gap is now causally demonstrated at field scale: a [[rct|randomized controlled trial]] found unguarded AI assistance raised practice performance but reduced later unassisted exam scores.
+The core concept, articulated in [[genai-performance-vs-learning|Yan et al. (2025)]], is that generative AI easily boosts **performance** — immediate efficiency and output quality — while often bypassing the deep cognitive and [[metacognition|metacognitive]] processing required for **learning**. A tool that optimizes for performance can therefore undermine learning. The gap is now causally demonstrated at field scale: a [[rct|randomized controlled trial]] found unguarded AI assistance raised practice performance but reduced later unassisted exam scores.
 
 ## Mechanisms of harm
 
-- **[[cognitive-surrender]]** — the term researchers use for students offloading thinking to AI as a passive, unreflective dependency, as opposed to the deliberate, strategic form of [[cognitive-offloading]]. It produces a measurable population-level decline in durable knowledge.
+- **[[cognitive-surrender|cognitive surrender]]** — the term researchers use for students offloading thinking to AI as a passive, unreflective dependency, as opposed to the deliberate, strategic form of [[cognitive-offloading|cognitive offloading]]. It produces a measurable population-level decline in durable knowledge.
 - **Answer-copying as a crutch** — misuse is driven less by AI errors misleading students than by students copying answers instead of learning. When [[student-engagement|engagement]] analysis shows students mostly "ask for the answer," learning harm follows.
 - **Motivation erosion** — the perceived availability of an effortless AI shortcut reduces autonomous motivation and persistence, per [[self-determination-theory|self-determination theory]]. Because persistence is what produces deep learning, its erosion compounds the direct harm.
 - **Learning displacement** — the substitution of AI output for the effortful processes (elaboration, recall, self-explanation) that consolidate knowledge, consistent with [[cognitive-offloading|Over-Reliance]].
@@ -69,9 +69,9 @@ The most important practical nuance is that the harm is **selective by assessmen
 
 ## Implications and remedies
 
-- **[[guardrails]] over raw access:** hint-not-answer [[prompt-engineering|prompting]] and teacher-authored [[scaffolding]] neutralize the crutch effect (see [[generative-ai-guardrails-harm-learning]]).
+- **[[guardrails|guardrails]] over raw access:** hint-not-answer [[prompt-engineering|prompting]] and teacher-authored [[scaffolding|scaffolding]] neutralize the crutch effect (see [[generative-ai-guardrails-harm-learning|Bastani et al. (2025)]]).
 - **[[assessment|Assessment design]]:** AI-resistant and proctored/unassisted assessments are needed to surface — and discourage — misuse.
-- **Literacy and metacognition:** [[ai-literacy]] and [[self-regulated-learning]] training that helps students recognize reliance patterns and the cost of bypassing their own cognitive work.
+- **Literacy and metacognition:** [[ai-literacy|AI literacy]] and [[self-regulated-learning|self-regulated learning]] training that helps students recognize reliance patterns and the cost of bypassing their own cognitive work.
 
 ## Conversational disengagement in the LLM era
 

@@ -12,7 +12,7 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Mehrnoush Mohammadi, Kamal Berahmand, Shazia Sadiq, & Hassan Khosravi (2026) propose **THyMeN (Temporal Hypergraph Memory Network)**, a hybrid model that augments memory-based [[knowledge-tracing]] with temporal hypergraph reasoning to capture dynamic higher-order concept interactions.
+> **Synthesis:** Mehrnoush Mohammadi, Kamal Berahmand, Shazia Sadiq, & Hassan Khosravi (2026) propose **THyMeN (Temporal Hypergraph Memory Network)**, a hybrid model that augments memory-based [[knowledge-tracing|knowledge tracing]] with temporal hypergraph reasoning to capture dynamic higher-order concept interactions.
 
 ## Key Findings
 
@@ -21,14 +21,14 @@ page_kind: [evaluation]
 - **Bidirectional message-passing:** A mechanism enables mutual refinement between concept nodes and question hyperedges, modeling how concept dynamics shift across questions and enabling [[writing-education|composition]]-sensitive mastery estimates.
 - **Attention-based fusion:** Integrates memory-tracked concept mastery, composition-aware hypergraph signals, and question-specific features into a unified prediction representation.
 - **Adaptive scaling:** Regulates mastery updates using the diversity of concept co-occurrences across questions, yielding stable trajectories consistent with learning from varied practice.
-- **Results:** Outperforms seven baselines and state-of-the-art models in predictive accuracy on four [[benchmark]] datasets, while generating smoother, pedagogically plausible knowledge-evolution trajectories. Ablation and structural comparison studies validate the design contributions. These advances feed [[intelligent-tutoring]] and [[adaptive-learning|adaptive]] systems that rely on accurate mastery estimates.
+- **Results:** Outperforms seven baselines and state-of-the-art models in predictive accuracy on four [[benchmark|benchmark]] datasets, while generating smoother, pedagogically plausible knowledge-evolution trajectories. Ablation and structural comparison studies validate the design contributions. These advances feed [[intelligent-tutoring|intelligent tutoring]] and [[adaptive-learning|adaptive]] systems that rely on accurate mastery estimates.
 
 ## What this means for practice
 
 - **Designers.** Build [[adaptive-learning|adaptive]] and [[formative-assessment|formative]] features on composition-aware mastery estimates: tracking which concepts co-occur in a question, rather than treating concepts as independent, improved prediction over memory-only models such as DKVMN.
-- **Designers.** Feed the model's knowledge-evolution trajectories into [[learning-analytics]] [[visualization|dashboards]] for intervention design — THyMeN produced smoother, pedagogically plausible trajectories than its baselines, which is what makes mastery estimates usable for [[student-modeling|student models]].
+- **Designers.** Feed the model's knowledge-evolution trajectories into [[learning-analytics|learning analytics]] [[visualization|dashboards]] for intervention design — THyMeN produced smoother, pedagogically plausible trajectories than its baselines, which is what makes mastery estimates usable for [[student-modeling|student models]].
 - **Instructors.** Vary the composition of practice deliberately: the model's adaptive scaling rewards practice diversity, aligning adaptive sequencing with evidence that cognitively demanding, varied practice strengthens retention.
-- **Researchers.** Operationalize the temporal hypergraph's structural signals — centrality, community detection, temporal motifs — so that latent representations become explicit instructional guidance, which the authors flag as the next step for [[knowledge-tracing]].
+- **Researchers.** Operationalize the temporal hypergraph's structural signals — centrality, community detection, temporal motifs — so that latent representations become explicit instructional guidance, which the authors flag as the next step for [[knowledge-tracing|knowledge tracing]].
 
 ## Limitations
 

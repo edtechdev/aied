@@ -17,7 +17,7 @@ methods: [ai-ed-evaluation, benchmark]
 foundations: [misconceptions]
 ---
 
-> **Synthesis:** Lucy et al. (2026) provide a year-long snapshot of how **11 [[multimodal|vision-language models]] (VLMs)** perform on **DrawEduMath**, a QA [[benchmark]] built on real students' handwritten, hand-drawn responses to math problems (drawn largely from Title I / [[digital-divide|low-income]] schools via the ASSISTments platform). Their central finding is that model weaknesses concentrate on the core of [[math-education|math education]]: **[[misconceptions|student error]]**. All evaluated VLMs underperform when describing work from students who need more [[pedagogy|pedagogical]] help, and across all question types they struggle most on questions that require assessing whether the student's work is correct. This holds across text and image inputs, and across open-ended and binary question forms.
+> **Synthesis:** Lucy et al. (2026) provide a year-long snapshot of how **11 [[multimodal|vision-language models]] (VLMs)** perform on **DrawEduMath**, a QA [[benchmark|benchmark]] built on real students' handwritten, hand-drawn responses to math problems (drawn largely from Title I / [[digital-divide|low-income]] schools via the ASSISTments platform). Their central finding is that model weaknesses concentrate on the core of [[math-education|math education]]: **[[misconceptions|student error]]**. All evaluated VLMs underperform when describing work from students who need more [[pedagogy|pedagogical]] help, and across all question types they struggle most on questions that require assessing whether the student's work is correct. This holds across text and image inputs, and across open-ended and binary question forms.
 
 ## Key Findings
 
@@ -39,7 +39,7 @@ foundations: [misconceptions]
 
 - The benchmark is a single English dataset of 2,030 handwritten [[k-12]] student responses from one online learning platform (ASSISTments), with self-selection among the teachers, schools, and districts that use it, so findings may not map onto other languages or learning contexts.
 - The evaluation is a moving target: it covers 11 models released in 2025, and the five follow-up analyses (sections 4–8) focus on just four representative models — Gemini 2.5 Pro, Claude Sonnet 4.5, GPT-5, and Llama 4 Scout.
-- Scoring depends on machine judgment: a majority vote of three [[llm]] judges (Spearman ρ = 0.808 against human ratings) plus GPT-5-mini annotators labeling student error, validated on a manually checked sample of 200 examples (F1 = 0.984), with supporting annotations taken from pre-existing [[teacher-role|teacher]] captions.
+- Scoring depends on machine judgment: a majority vote of three [[llm|LLM]] judges (Spearman ρ = 0.808 against human ratings) plus GPT-5-mini annotators labeling student error, validated on a manually checked sample of 200 examples (F1 = 0.984), with supporting annotations taken from pre-existing [[teacher-role|teacher]] captions.
 - Several analyses are narrowed by data constraints: the redrawing experiment uses a stratified sample of 336 images rather than the full dataset because redrawing is time-intensive, some images were dropped from one analysis because their captions leaked correctness information, and one set of results covers only questions shared across multiple student images.
 
 ## Citation

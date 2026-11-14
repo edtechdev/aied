@@ -14,20 +14,20 @@ confidence: medium
 page_kind: [framework]
 ---
 
-> **Synthesis:** LearnMate^2 addresses the **personalization gap** in online learning: while online platforms offer widespread access, they lack the personalized guidance that characterizes effective [[intelligent-tutoring]] systems. The system provides three core capabilities:
+> **Synthesis:** LearnMate^2 addresses the **personalization gap** in online learning: while online platforms offer widespread access, they lack the personalized guidance that characterizes effective [[intelligent-tutoring|intelligent tutoring]] systems. The system provides three core capabilities:
 
 1. **Personalized study plans** — tailored learning paths based on individual learner profiles
-2. **Real-time contextual assistance** — in-context support during learning sessions via [[conversational-ai-tutors-framework]]
-3. **Adaptive learning activities** — dynamic tasks responding to learner performance, implementing [[adaptive-learning]] principles
+2. **Real-time contextual assistance** — in-context support during learning sessions via [[conversational-ai-tutors-framework|Kirk Vanacore et al., 2026]]
+3. **Adaptive learning activities** — dynamic tasks responding to learner performance, implementing [[adaptive-learning|adaptive learning]] principles
 
 **Iterative development and evaluation:**
 - **Preliminary study (n=24)** assessed effectiveness, informed system refinements
-- **Comparative evaluation (n=16)** against a state-of-the-art online [[edtech-platform|learning platform]] plus an [[llm]]
+- **Comparative evaluation (n=16)** against a state-of-the-art online [[edtech-platform|learning platform]] plus an [[llm|LLM]]
 - **Results:** LearnMate^2 improved both [[learning-gains|learning outcomes]] and [[usability-research|user experience]] vs. the baseline
 
-The study demonstrates that LLM-powered [[personalized-learning]] can bridge the guidance gap in open [[online-teaching-and-learning|online education]]. This connects to the broader [[adaptive-learning]] literature and extends findings from learnmate2-llm-adaptive-learning prior iterations. The system's integration of study planning, real-time assistance, and adaptive activities represents a more holistic approach than single-function AI tools, aligning with the [[agentic-ai]] vision of integrated educational AI.
+The study demonstrates that LLM-powered [[personalized-learning|personalized learning]] can bridge the guidance gap in open [[online-teaching-and-learning|online education]]. This connects to the broader [[adaptive-learning|adaptive learning]] literature and extends findings from learnmate2-llm-adaptive-learning prior iterations. The system's integration of study planning, real-time assistance, and adaptive activities represents a more holistic approach than single-function AI tools, aligning with the [[agentic-ai|agentic AI]] vision of integrated educational AI.
 
-The work also contributes to understanding how [[scaffolding]] can be implemented at scale in digital environments, complementing [[ai-metacognition-stem-review]] findings on [[metacognition|metacognitive]] support tools.
+The work also contributes to understanding how [[scaffolding|scaffolding]] can be implemented at scale in digital environments, complementing [[ai-metacognition-stem-review|Tsakeni et al. (2025)]] findings on [[metacognition|metacognitive]] support tools.
 
 ## What this means for practice
 

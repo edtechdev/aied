@@ -14,30 +14,30 @@ audience: [researchers, faculty developers]
 level: [k 12, higher ed]
 ---
 
-> **Synthesis:** Avraamidou (2024) critical COMMENT in the *Journal of [[research-methods-aied|Research]] in Science [[teacher-role]]*: the uncritical uptake of [[generative-ai]] in [[science-education|science education]] amounts to an "AI colonization" — extraction of data without consent, algorithmic monoculture, dehumanized learning, and profit-centered reform. She calls for a critical, feminist, values-based disruption toward a human-centered AI that prioritizes justice over profit.
+> **Synthesis:** Avraamidou (2024) critical COMMENT in the *Journal of [[research-methods-aied|Research]] in Science [[teacher-role|teacher role]]*: the uncritical uptake of [[generative-ai|generative AI]] in [[science-education|science education]] amounts to an "AI colonization" — extraction of data without consent, algorithmic monoculture, dehumanized learning, and profit-centered reform. She calls for a critical, feminist, values-based disruption toward a human-centered AI that prioritizes justice over profit.
 
-Lucy Avraamidou (2024) writes an explicitly critical **COMMENT** arguing that science education is being *colonized* by the generative AI industry. She contends that educational institutions are "buying into generative AI promises and [[hallucination-risk|hallucinations]]" as a **silver bullet**, and that this uncritical momentum reproduces colonial patterns of exploitation and extraction. The piece is a techno-utopia critique grounded in [[equity-in-ai-education]], accountability, and feminist values, aimed at the science education research community.
+Lucy Avraamidou (2024) writes an explicitly critical **COMMENT** arguing that science education is being *colonized* by the generative AI industry. She contends that educational institutions are "buying into generative AI promises and [[hallucination-risk|hallucinations]]" as a **silver bullet**, and that this uncritical momentum reproduces colonial patterns of exploitation and extraction. The piece is a techno-utopia critique grounded in [[equity-in-ai-education|equity]], accountability, and feminist values, aimed at the science education research community.
 
 ## The AI colonization of science education
 
 Avraamidou opens by cataloguing how AI tools are now used to extract data (usually without consent), replace research participants, read and summarize papers, write papers, design lesson plans, manage students, and assess students. She frames this as a **techno-utopia** and a "new world order" driven by the Anglo-American AI industry — an unsolicited reform that "lacks vision, is a-theoretical, is de-contextualized, [and] has profit instead of the learner at its center."
 
-Central to the critique is the threat of **algorithmic monoculture** (Kleinberg & Raghavan, 2021): as all users converge on the same algorithmically-curated choices and preferences, scientific research and education risk losing the diversity and plurality of voices that make them robust. This parallels concerns about [[bias-mitigation]] and the homogenization of thinking.
+Central to the critique is the threat of **algorithmic monoculture** (Kleinberg & Raghavan, 2021): as all users converge on the same algorithmically-curated choices and preferences, scientific research and education risk losing the diversity and plurality of voices that make them robust. This parallels concerns about [[bias-mitigation|bias mitigation]] and the homogenization of thinking.
 
 ## Dehumanization and standardization
 
-Drawing on her own [[meta-analysis-systematic-review|systematic review]] of AI in school science (Heeg & Avraamidou, 2023), Avraamidou finds that AI applications in science education are used **mostly to automate existing practices** and that the literature is **atheoretical and lacks criticality**. AI-driven tools, from virtual tutors and [[conversational-ai|chatbots]] to [[automated-assessment]] and [[learning-analytics]], are charged with:
+Drawing on her own [[meta-analysis-systematic-review|systematic review]] of AI in school science (Heeg & Avraamidou, 2023), Avraamidou finds that AI applications in science education are used **mostly to automate existing practices** and that the literature is **atheoretical and lacks criticality**. AI-driven tools, from virtual tutors and [[conversational-ai|chatbots]] to [[automated-assessment|automated assessment]] and [[learning-analytics|learning analytics]], are charged with:
 
 - Neglecting the social, relational, and [[embodied-learning|embodied]] dimensions of learning;
 - Promoting a "convenience-food" approach of fast, bite-sized learning over slow learning;
 - Confusing **education with training** and students with input–output machines;
 - Standardizing thinking rather than celebrating "the infinite ways of becoming a science learner."
 
-This is the mechanism by which generative AI can **dehumanize learning** — a direct challenge to the cognitive-only framing common across much of [[ai-education]] research and practice.
+This is the mechanism by which generative AI can **dehumanize learning** — a direct challenge to the cognitive-only framing common across much of [[ai-education|AI education]] research and practice.
 
 ## The imperative of a feminist AI
 
-Avraamidou's constructive alternative is a **feminist and human-centered AI** that prioritizes justice over profit. [[higher-ed]] institutions should develop visions for **critical [[ai-literacy|AI literacy]] framed within feminist [[pedagogy|pedagogies]]**, rather than acting as consumers of what the AI industry offers. She poses six critical questions:
+Avraamidou's constructive alternative is a **feminist and human-centered AI** that prioritizes justice over profit. [[higher-ed|Higher education]] institutions should develop visions for **critical [[ai-literacy|AI literacy]] framed within feminist [[pedagogy|pedagogies]]**, rather than acting as consumers of what the AI industry offers. She poses six critical questions:
 
 1. What is the nature of knowledge produced through generative and predictive AI?
 2. Whose knowledge is it?
@@ -46,7 +46,7 @@ Avraamidou's constructive alternative is a **feminist and human-centered AI** th
 5. Can we afford the environmental impact of AI?
 6. Who is held accountable when AI systems fail?
 
-These questions tie directly to accountability, [[ethics]], and [[equity-in-ai-education]]. The essay warns that AI systems perpetuate biases, racism, and existing systems of oppression, and carry a heavy environmental footprint (an AI prompt's carbon footprint is 4–5× a search-engine query). Science education, she argues, does not need an AI utopia driven by "corporate, neoliberal, and eugenics paradigms" (Gebru & Torres, 2024), but rather pedagogies of care, affect, and cultural [[sustainability]] — spaces "where humanization of science learning and social transformation that transcend the algorithm can happen."
+These questions tie directly to accountability, [[ethics|ethics]], and [[equity-in-ai-education|equity]]. The essay warns that AI systems perpetuate biases, racism, and existing systems of oppression, and carry a heavy environmental footprint (an AI prompt's carbon footprint is 4–5× a search-engine query). Science education, she argues, does not need an AI utopia driven by "corporate, neoliberal, and eugenics paradigms" (Gebru & Torres, 2024), but rather pedagogies of care, affect, and cultural [[sustainability|sustainability]] — spaces "where humanization of science learning and social transformation that transcend the algorithm can happen."
 
 The essay closes with an affirmative: *"Can we disrupt the momentum of the AI colonization of science education? Yes, we can—once we step outside of corporate and capitalist visions of science education and imagine more sustainable and socially just futures."*
 

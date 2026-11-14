@@ -1,6 +1,6 @@
 ---
 title: "A qualitative study of physical education teachers' perceptions of artificial intelligence and influencing factors based on social cognitive theory"
-created: "2026-11-13T07:58:00-05:00"
+created: "2026-11-13T07:50:21-05:00"
 updated: "2026-11-13T10:45:00-05:00"
 type: article
 published: "2026"
@@ -42,7 +42,7 @@ verified: [citation, numbers]
 
 ## Why confidence collapses at the gym floor
 
-The interviews involved university physical education teachers recruited purposively, ran about half an hour each, and were coded in NVivo against social cognitive theory's three-part structure before open coding added what it missed. The [[self-efficacy]] that emerged moves with the task. A teacher who has used a [[llm|language model]] to polish a thesis calls himself confident; asked for a term-long plan for his own classes, he describes reworking the output until little remains. The authors call this situated self-efficacy, and it explains why a general readiness survey predicts so little about a gym.
+The interviews involved university physical education teachers recruited purposively, ran about half an hour each, and were coded in NVivo against social cognitive theory's three-part structure before open coding added what it missed. The [[self-efficacy|self-efficacy]] that emerged moves with the task. A teacher who has used a [[llm|language model]] to polish a thesis calls himself confident; asked for a term-long plan for his own classes, he describes reworking the output until little remains. The authors call this situated self-efficacy, and it explains why a general readiness survey predicts so little about a gym.
 
 The theme behind it is what they label the repellent effect of embodied disciplinarity. Sport is physical activity, and a system without a body cannot demonstrate, feel or correct in the same second. The setting compounds this: outdoor classes, variable weather and mixed ability do not resemble the standardized text tasks where the tool performs well. Teachers do not treat that as a gap a better model will close. They treat it as a boundary of the discipline, which places the study in the [[discipline-specific-aied|discipline-specific]] record of adoption.
 

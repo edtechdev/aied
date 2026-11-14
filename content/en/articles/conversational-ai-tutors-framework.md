@@ -20,7 +20,7 @@ page_kind: [framework]
 - The paper synthesizes intelligent tutoring systems (ITS) research and generative AI, proposing a keep, change, center, study framework for designing conversational tutoring systems.
 - Keep: proven ITS technologies — knowledge tracing, affect detection, and related [[student-modeling|student modeling]] — remain valuable for diagnosing students' cognitive and emotional states.
 - Change: tutoring delivery is transformed by generative AI's capacity for dynamic content generation and dialogic scaffolding, replacing rule-based, limited-scope feedback with flexible open-ended dialogue.
-- Center: the student's meaning-making and agency, engaging students' thoughts, questions, and [[misconceptions]] the way high-quality human tutors do.
+- Center: the student's meaning-making and agency, engaging students' thoughts, questions, and [[misconceptions|misconceptions]] the way high-quality human tutors do.
 - Study: the field must test efficacy, [[student-experience|student experience]], and integration, since conversational tutors can now be built quickly and easily but their effectiveness is not yet established.
 - Legacy ITS technologies such as Knowledge Tracing, Knowledge Spaces, and Epistemic [[affective-computing|Emotion Detection]] can diagnose states like slips, lack of mastery, or misconceptions; [[llm|large language models]] integrated with structured knowledge representations may identify not just whether an answer is correct but why a student responded that way.
 
@@ -31,10 +31,10 @@ Whereas most current ITS function, in essence, as interactive and adaptive probl
 ## What this means for practice
 
 - **Researchers.** Treat efficacy as an open question rather than a build detail: the framework's study element exists because conversational tutors can now be assembled quickly while their effectiveness is not established, so pair each build with a measured comparison of outcomes.
-- **Researchers.** Do not discard the older diagnostic stack — [[knowledge-tracing]], knowledge spaces, and epistemic [[affective-computing|emotion detection]] remain the backbone for identifying slips, missing mastery, and [[misconceptions]] — but verify its reach, since current models still diagnose knowledge states unreliably.
+- **Researchers.** Do not discard the older diagnostic stack — [[knowledge-tracing|knowledge tracing]], knowledge spaces, and epistemic [[affective-computing|emotion detection]] remain the backbone for identifying slips, missing mastery, and [[misconceptions|misconceptions]] — but verify its reach, since current models still diagnose knowledge states unreliably.
 - **Designers.** Keep meaning-making central in the interaction: use dialogue to follow up on errors with diagnosis questions and to support self-repair and knowledge construction, the behaviors that separate tutoring from an interactive problem set.
-- **Designers.** Design for a maintained learner state across turns rather than a single exchange, wiring [[scaffolding]] to [[formative-assessment|formative assessment]] so that help keeps the learner reasoning instead of supplying the answer.
-- **Instructors.** Teach students the tool's boundaries: the paper documents fabricated content, over-helpfulness that may reduce [[metacognition|metacognitive]] effort, and unreliable knowledge-state diagnosis, so keep a human in the loop ([[human-in-the-loop-ai]]) wherever a tutoring decision has consequences.
+- **Designers.** Design for a maintained learner state across turns rather than a single exchange, wiring [[scaffolding|scaffolding]] to [[formative-assessment|formative assessment]] so that help keeps the learner reasoning instead of supplying the answer.
+- **Instructors.** Teach students the tool's boundaries: the paper documents fabricated content, over-helpfulness that may reduce [[metacognition|metacognitive]] effort, and unreliable knowledge-state diagnosis, so keep a human in the loop ([[human-in-the-loop-ai|human-in-the-loop]]) wherever a tutoring decision has consequences.
 
 ## Limitations
 

@@ -15,7 +15,7 @@ discipline: [language learning, english education]
 level: [higher ed]
 ---
 
-> **Synthesis:** Chen, Zeng, Ou, and Zhong (2026) surveyed Chinese undergraduates practicing English speaking with [[speech-and-voice-technologies|Automatic Speech Recognition]] (ASR) tools and modeled how the technology's features shape learning. They find that the quality of ASR-based [[feedback]] and well-designed reflection tasks drive both feedback internalization and reflective behavior, while frequent use chiefly boosts reflection rather than motivation, and recognition accuracy raises intrinsic [[motivation]] without directly triggering deeper reflection. Both [[self-regulated-learning|reflective behavior and motivation]] predict speaking gains, but [[language-learning|language proficiency]] strongly moderates these effects: more proficient learners internalize and benefit from ASR feedback far more effectively, while weaker learners need extra support.
+> **Synthesis:** Chen, Zeng, Ou, and Zhong (2026) surveyed Chinese undergraduates practicing English speaking with [[speech-and-voice-technologies|Automatic Speech Recognition]] (ASR) tools and modeled how the technology's features shape learning. They find that the quality of ASR-based [[feedback|feedback]] and well-designed reflection tasks drive both feedback internalization and reflective behavior, while frequent use chiefly boosts reflection rather than motivation, and recognition accuracy raises intrinsic [[motivation|motivation]] without directly triggering deeper reflection. Both [[self-regulated-learning|reflective behavior and motivation]] predict speaking gains, but [[language-learning|language proficiency]] strongly moderates these effects: more proficient learners internalize and benefit from ASR feedback far more effectively, while weaker learners need extra support.
 
 ## Key Findings
 
@@ -23,7 +23,7 @@ level: [higher ed]
 - **Usage frequency boosts reflection, not motivation.** Frequent ASR use moderately stimulates reflective behavior but has no independent effect on learning motivation — the assumption that mere exposure raises motivation is not supported.
 - **Recognition accuracy affects motivation but not reflection.** Accurate error detection enhances intrinsic motivation, likely by building confidence and trust in the tool, yet it does not on its own trigger deeper cognitive engagement. Learners may note a flagged error without analyzing its cause.
 - **Reflective behavior and motivation both predict speaking gains, with reflection the stronger driver.** The cognitive work of self-review translates into oral improvement more directly than affective motivation alone, though both are needed.
-- **Language proficiency is a pivotal moderator.** For both reflective behavior and motivation, the payoff is weak and non-significant at low proficiency and grows markedly stronger at average and high levels. Less proficient learners likely lack the foundational linguistic knowledge to act on ASR feedback and may need simplification, explicit strategy guidance, and extra [[scaffolding]].
+- **Language proficiency is a pivotal moderator.** For both reflective behavior and motivation, the payoff is weak and non-significant at low proficiency and grows markedly stronger at average and high levels. Less proficient learners likely lack the foundational linguistic knowledge to act on ASR feedback and may need simplification, explicit strategy guidance, and extra [[scaffolding|scaffolding]].
 
 ## Study Design & Method
 
@@ -31,7 +31,7 @@ The study surveyed undergraduates at a [[teacher-role|teacher]]-training univers
 
 ## What this means for practice
 
-- **Instructors.** Prioritize [[feedback]] quality over practice volume: accurate error correction and structured reflection tasks drove internalization and reflection, while frequency of ASR use did not raise motivation on its own.
+- **Instructors.** Prioritize [[feedback|feedback]] quality over practice volume: accurate error correction and structured reflection tasks drove internalization and reflection, while frequency of ASR use did not raise motivation on its own.
 - **Instructors.** Scaffold reflection explicitly with recording-and-comparing tasks and [[reflection|reflective journals]], since reflective behavior translated into speaking gains more directly than motivation did.
 - **Instructors.** Differentiate by proficiency: the reflection-to-achievement effect was weak and non-significant at low proficiency, so give weaker learners simplified feedback and explicit strategy guidance instead of one-size-fits-all ASR practice, and pair precision with supportive, positively framed scaffolding, since accurate feedback can momentarily discourage lower-proficiency learners.
 - **Designers.** Make systems explain errors articulatorially — for example, where to place the tongue — instead of only flagging them, and scale feedback complexity with learner progress.

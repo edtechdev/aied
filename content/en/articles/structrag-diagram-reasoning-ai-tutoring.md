@@ -35,16 +35,16 @@ page_kind: [framework]
 
 ## Interpretation
 
-- Question-level accuracy is always lower than edge-level F1 because Acc demands a perfect whole-diagram match, while F1 captures partial correctness — relevant for education, where identifying *most* missing connections already yields useful structural [[feedback]].
-- Grounded in **cognitive [[sociocultural-learning|apprenticeship]]**: instructors guide students through visual [[problem-solving]] by highlighting analogies, missing links, and logical dependencies; StructRAG's template retrieval mirrors that by making structural relationships explicit and auditable (an intermediate graph representation, rather than end-to-end visual matching). This reduces [[hallucination-risk|hallucination]] risk and strengthens [[trust|student trust]] relative to end-to-end [[multimodal]] parsing.
+- Question-level accuracy is always lower than edge-level F1 because Acc demands a perfect whole-diagram match, while F1 captures partial correctness — relevant for education, where identifying *most* missing connections already yields useful structural [[feedback|feedback]].
+- Grounded in **cognitive [[sociocultural-learning|apprenticeship]]**: instructors guide students through visual [[problem-solving|problem-solving]] by highlighting analogies, missing links, and logical dependencies; StructRAG's template retrieval mirrors that by making structural relationships explicit and auditable (an intermediate graph representation, rather than end-to-end visual matching). This reduces [[hallucination-risk|hallucination]] risk and strengthens [[trust|student trust]] relative to end-to-end [[multimodal|multimodal]] parsing.
 - Interviews with 12 STEM educators were positive: actionable structural feedback, adaptability across diagram types, and help explaining missing/ambiguous connections to students struggling with abstract topologies.
-- Limitations: dataset withheld (university [[teacher-role|teaching]] materials; schema/code/prompts released), and no learner-outcome study yet — future work should test effects on learning, retention, [[transfer-of-learning|transfer]], [[motivation]], and [[cognitive-offloading|cognitive load]] in live tutoring contexts.
+- Limitations: dataset withheld (university [[teacher-role|teaching]] materials; schema/code/prompts released), and no learner-outcome study yet — future work should test effects on learning, retention, [[transfer-of-learning|transfer]], [[motivation|motivation]], and [[cognitive-offloading|cognitive load]] in live tutoring contexts.
 
 ## What this means for practice
 
 - **Designers.** Make diagram feedback structural rather than binary: because edge-level F1 stays high (93.0%) where whole-diagram accuracy fails (89.3%), a system can name the specific missing or misrecognized connections even when the overall diagram is imperfect — the gains over OCR+CV are largest on irregular (26.4 points), bridge/mesh (23.1), and ring (21.6) topologies.
 - **Designers.** Retrieve canonical topology patterns by graph-edit-distance matching against a template library instead of relying on raw image parsing, node-level statistics, or example-based retrieval, and keep the intermediate graph representation explicit so recognition errors remain auditable.
-- **Designers.** Keep outputs human-gradable: the corrected JSON graph and its short justification are inspectable by instructors and students, supporting explainable [[automated-assessment]] of diagrammatic submissions rather than opaque auto-grading.
+- **Designers.** Keep outputs human-gradable: the corrected JSON graph and its short justification are inspectable by instructors and students, supporting explainable [[automated-assessment|automated assessment]] of diagrammatic submissions rather than opaque auto-grading.
 - **Instructors.** Use the corrections as hints: identifying most of the missing connections already yields useful structure-aware feedback for students who struggle with abstract topologies, which was the main appeal reported by the 12 STEM educators interviewed.
 
 ## Limitations

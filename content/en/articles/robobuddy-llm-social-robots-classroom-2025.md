@@ -25,7 +25,7 @@ level: [k 12]
 
 ## Study Design & Method
 
-This is a **design-based/co-design and deployment study**. The [[research-methods-aied|researchers]] co-designed scenario-based activity frameworks with four teachers using an [[llm]]-powered interface that generates storytelling activities from curriculum content for a social robot. The system was deployed in a classroom study with 27 students over one week, evaluating the system's efficacy in delivering [[simulation|scenario-based learning]] content and supporting multicultural integration. Data collection involved the classroom deployment and assessment of children's perceptions.
+This is a **design-based/co-design and deployment study**. The [[research-methods-aied|researchers]] co-designed scenario-based activity frameworks with four teachers using an [[llm|LLM]]-powered interface that generates storytelling activities from curriculum content for a social robot. The system was deployed in a classroom study with 27 students over one week, evaluating the system's efficacy in delivering [[simulation|scenario-based learning]] content and supporting multicultural integration. Data collection involved the classroom deployment and assessment of children's perceptions.
 
 ## What this means for practice
 

@@ -12,7 +12,7 @@ discipline: [math education]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** This paper fine-tunes a multimodal large language model (Qwen3.5-based) to reconstruct multiple-choice model (MCM) and three-parameter logistic (3PL) item characteristic curves. By learning to reproduce students' systematic error patterns across a range of ability levels, the LLM implicitly captures underlying response probabilities and can approximate item difficulty on held-out test items directly from predicted option probabilities.
+> **Synthesis:** This paper fine-tunes a [[multimodal|multimodal]] [[llm|large language model]] (Qwen3.5-based) to reconstruct multiple-choice model (MCM) and three-parameter logistic (3PL) item characteristic curves. By learning to reproduce students' systematic error patterns across a range of ability levels, the LLM implicitly captures underlying response probabilities and can approximate [[item-response-theory|item difficulty]] on held-out test items directly from predicted option probabilities.
 
 ## Key Findings
 
@@ -22,9 +22,9 @@ page_kind: [evaluation]
 
 ## Background
 
-Item difficulty parameters are essential for judging whether an [[assessment]] accurately measures student knowledge, differentiates between students, and identifies specific [[cognitive-diagnosis|learning gaps]]. Field-testing to obtain these parameters is expensive and labor-intensive, and it carries a security risk. Prior work has therefore explored [[machine-learning]] approximations to item parameters, including two distinct [[llm]]-based approaches: treating the question stimulus as input to a fine-tuned model in a regression framework, and using LLMs as [[simulating-students|simulated respondents]] who answer the stimulus so that parameters can be read off their choices. This paper pursues the simulated-respondent route.
+Item difficulty parameters are essential for judging whether an [[assessment|assessment]] accurately measures student knowledge, differentiates between students, and identifies specific [[cognitive-diagnosis|learning gaps]]. Field-testing to obtain these parameters is expensive and labor-intensive, and it carries a security risk. Prior work has therefore explored [[machine-learning|machine learning]] approximations to item parameters, including two distinct [[llm|LLM]]-based approaches: treating the question stimulus as input to a fine-tuned model in a regression framework, and using LLMs as [[simulating-students|simulated respondents]] who answer the stimulus so that parameters can be read off their choices. This paper pursues the simulated-respondent route.
 
-The work builds on the [[item-response-theory]] tradition. The three-parameter logistic (3PL) model and the multiple-choice model (MCM) both incorporate a non-zero lower asymptote to account for guessing, unlike the Nominal Response Model and two-parameter logistic model whose probability of a correct response approaches zero as ability decreases. Because the items used here mix textual and visual content, the authors extend prior single-modality reconstructions to the [[multimodal]] setting, applying the framework to a large corpus of [[math-education|mathematics]] items.
+The work builds on the [[item-response-theory|item response theory]] tradition. The three-parameter logistic (3PL) model and the multiple-choice model (MCM) both incorporate a non-zero lower asymptote to account for guessing, unlike the Nominal Response Model and two-parameter logistic model whose probability of a correct response approaches zero as ability decreases. Because the items used here mix textual and visual content, the authors extend prior single-modality reconstructions to the [[multimodal|multimodal]] setting, applying the framework to a large corpus of [[math-education|mathematics]] items.
 
 ## Method
 

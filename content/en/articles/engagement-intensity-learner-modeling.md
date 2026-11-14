@@ -15,7 +15,7 @@ sources: ['raw/papers/2606.18548.md']
 confidence: medium
 ---
 
-> **Synthesis:** This study investigates whether simple intake measures can serve as learner-modeling signals for adaptive AI ethics instruction. Drawing on data from 93 bioscience graduate and postdoctoral trainees enrolled in a required [[research-methods-aied|research]] ethics course, the authors compare three candidate intake features — self-reported [[llm]] usage frequency, self-rated LLM familiarity, and prior [[ai-education|AI education]] — against five baseline perception outcomes: accuracy trust, evaluation capability, complex-task trust, [[cognitive-offloading|over-reliance]] risk, and training interest. The results position simple [[student-engagement|behavioral engagement]] measures as promising, lightweight inputs for profiling learners before instruction begins, with direct relevance for [[personalized-learning]] and [[adaptive-learning]] design.
+> **Synthesis:** This study investigates whether simple intake measures can serve as learner-modeling signals for adaptive [[ethics|AI ethics]] instruction. Drawing on data from 93 bioscience graduate and postdoctoral trainees enrolled in a required [[research-methods-aied|research]] ethics course, the authors compare three candidate intake features — self-reported [[llm|LLM]] usage frequency, self-rated LLM familiarity, and prior [[ai-education|AI education]] — against five baseline perception outcomes: accuracy trust, evaluation capability, complex-task trust, [[cognitive-offloading|over-reliance]] risk, and training interest. The results position simple [[student-engagement|behavioral engagement]] measures as promising, lightweight inputs for profiling learners before instruction begins, with direct relevance for [[personalized-learning|personalized learning]] and [[adaptive-learning|adaptive learning]] design.
 
 ## Key Findings
 
@@ -23,7 +23,7 @@ confidence: medium
 - **Self-rated LLM familiarity** was associated with three of the five outcomes, serving as a secondary indicator.
 - **Prior AI education** (coursework or workshop attendance) was associated with **none** of the five outcomes, questioning its value as an intake measure.
 - The association pattern was **threshold-like at the lower end of the scale** rather than a uniform gradient across all five outcomes, and was most visible for training interest and accuracy trust.
-- The authors conclude that simple pre-instruction behavioral signals can inform lightweight intake profiling for adaptive [[ethics|AI ethics education]], supporting [[ai-literacy]] development in graduate research training.
+- The authors conclude that simple pre-instruction behavioral signals can inform lightweight intake profiling for adaptive [[ethics|AI ethics education]], supporting [[ai-literacy|AI literacy]] development in graduate research training.
 
 ## Study Design & Method
 

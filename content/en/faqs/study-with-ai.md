@@ -39,7 +39,7 @@ The sentence worth carrying away: the same model, opened at a different point in
 
 ## Start the session with your own attempt
 
-[[adaptive-pretesting-retention|Akgun and Toker (2026)]] gave 89 undergraduates the same adaptive [[retrieval-spacing-interleaving|pretesting]] session and the same instructions, then seven weeks of different practice. The group whose AI probed [[misconceptions]], demanded elaboration of thin answers, and advanced only on real conceptual engagement scored highest on the delayed posttest (M = 78.19) and put in the most practice effort (M = 0.85). Free chat with the same model scored 67.28 and 0.49, a difference of d = 0.92.
+[[adaptive-pretesting-retention|Akgun and Toker (2026)]] gave 89 undergraduates the same adaptive [[retrieval-spacing-interleaving|pretesting]] session and the same instructions, then seven weeks of different practice. The group whose AI probed [[misconceptions|misconceptions]], demanded elaboration of thin answers, and advanced only on real conceptual engagement scored highest on the delayed posttest (M = 78.19) and put in the most practice effort (M = 0.85). Free chat with the same model scored 67.28 and 0.49, a difference of d = 0.92.
 
 The attempt does the work even when the attempt is bad. Writing an answer activates what you already know, and it shows you the edge of it. Then the correction lands on something.
 
@@ -63,7 +63,7 @@ The habits that separate the two groups, as instructions to yourself:
 
 - **Paste the problem and your attempt, not the assignment title.** 76.32% of these students followed an ask, get an answer, stop pattern, typically pasting the assessment title without saying what they needed and then resubmitting the same prompt when the reply disappointed them. Sustained, iterative dialogue appeared in 23.68%, almost all of them cognitive partners.
 - **Keep it inside your own reading and writing.** 78.94% used AI either before starting or after drafting, and that detachment is the signature of the group that learned least.
-- **Go past the first reply.** The [[help-seeking]] research shows the same shape. [[student-ai-inquiry-types-cs2-2026|Amoozadeh and Alipour (2026)]] classified 830 prompts from 72 students across two programming tasks. The same few moves kept recurring: assertions that reported confusion, verification prompts asking whether something was right, and procedural prompts asking for the next step. Comparison, prediction, and feature specification, the moves that make you think, stayed rare. Your own prompt history will predict your learning better than your intentions will.
+- **Go past the first reply.** The [[help-seeking|help-seeking]] research shows the same shape. [[student-ai-inquiry-types-cs2-2026|Amoozadeh and Alipour (2026)]] classified 830 prompts from 72 students across two programming tasks. The same few moves kept recurring: assertions that reported confusion, verification prompts asking whether something was right, and procedural prompts asking for the next step. Comparison, prediction, and feature specification, the moves that make you think, stayed rare. Your own prompt history will predict your learning better than your intentions will.
 
 ## Check the output against something you can name
 
@@ -77,7 +77,7 @@ Decide your ground rules before you need them. [[ethical-conditions-llm-exam-pre
 
 ## Let it handle logistics
 
-Speed has legitimate uses. [[ai-guided-learning-audiovideo-2026|Kawamura (2026)]] built systems that adapt spoken playback to the difficulty of each segment, averaging about 1.30x, and generate [[multimodal]] video summaries that cut viewing time by 53% with no statistically significant difference in quiz scores. Summarizing, translating, and planning a study schedule sit in the same category. Moving through material faster is fine. Skipping the work that changes you is the part to avoid.
+Speed has legitimate uses. [[ai-guided-learning-audiovideo-2026|Kawamura (2026)]] built systems that adapt spoken playback to the difficulty of each segment, averaging about 1.30x, and generate [[multimodal|multimodal]] video summaries that cut viewing time by 53% with no statistically significant difference in quiz scores. Summarizing, translating, and planning a study schedule sit in the same category. Moving through material faster is fine. Skipping the work that changes you is the part to avoid.
 
 The distinction is where the tool sits relative to the thinking. A summary of a chapter you have already read saves time. A summary you read instead of the chapter replaces the reading.
 

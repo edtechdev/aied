@@ -17,7 +17,7 @@ methods: [benchmark]
 
 > **Synthesis:** While LLMs are increasingly used as [[teacher-role|teaching]] assistants, their teaching capability remains insufficiently evaluated — a critical gap in current [[ai-education|AIED]] [[research-methods-aied|research]].
 
-> Syllabus-grounded framework for measuring [[llm]] teaching capability via student performance improvement after multi-turn instruction.
+> Syllabus-grounded framework for measuring [[llm|LLM]] teaching capability via student performance improvement after multi-turn instruction.
 
 ## The Gap in LLM Evaluation
 
@@ -26,7 +26,7 @@ methods: [benchmark]
 ### Limitations of Existing Benchmarks
 | Benchmark Type | Focus | Limitation |
 |---------------|-------|-------------|
-| **[[problem-solving]]** (MMLU, HELM, GSM8K) | Answer correctness | Measures solver, not teacher |
+| **[[problem-solving|problem-solving]]** (MMLU, HELM, GSM8K) | Answer correctness | Measures solver, not teacher |
 | **Exam-centric** (AGIEval, C-Eval, GAOKAO-Bench) | Exam performance | Still solution-centric |
 | **Tutoring dialogues** (MathDial, TutorBench) | Per-turn response quality | Misses end-to-end teaching effectiveness |
 
@@ -69,11 +69,11 @@ Using Chinese National College Entrance Examination (Gaokao) data across multipl
 ### vs. Agentic Workflows
 - TeachBench operationalizes the **"teacher agent"** paradigm in agentic education
 - Reveals current LLMs struggle with *structured [[pedagogy|pedagogical]] planning* (vs. reactive Q&A)
-- Aligns with: agentic [[reflection]], planning, and tool use in educational contexts
+- Aligns with: agentic [[reflection|reflection]], planning, and tool use in educational contexts
 
 ## What this means for practice
 
-- **Researchers.** Evaluate teaching as a distinct capability rather than inferring it from solving: syllabus-grounded evaluation measures whether a model improves a learner's performance, whereas [[problem-solving]] and exam-centric [[benchmark|benchmarks]] such as MMLU, GSM8K, and AGIEval score answer correctness alone.
+- **Researchers.** Evaluate teaching as a distinct capability rather than inferring it from solving: syllabus-grounded evaluation measures whether a model improves a learner's performance, whereas [[problem-solving|problem-solving]] and exam-centric [[benchmark|benchmarks]] such as MMLU, GSM8K, and AGIEval score answer correctness alone.
 - **Researchers.** Restrict [[teacher-role|teacher agents]] to syllabus knowledge points and example problems and hold the [[simulating-students|student agent]] fixed, so the model cannot be handed the items it is meant to teach and results stay reproducible across runs.
 - **Instructors.** Do not carry a model's teaching strength across subjects: the strongest result was a 7.63-point gain in mathematics with Qwen3-235B-A22B-Instruct, while [[physics-education|physics]] and [[chemistry-education|chemistry]] showed the weakest teaching outcomes.
 - **Designers.** Test whether worked examples help before attaching them to a tutor: incorporating example problems shifted models toward example-specific error correction instead of syllabus-grounded instruction.

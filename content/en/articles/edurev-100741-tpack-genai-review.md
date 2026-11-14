@@ -21,7 +21,7 @@ pedagogy: [tpack]
 - **Overall positive effect.** Across 47 journal articles and 74 effect sizes, learners using GenAI outperformed control groups (Hedges' g = 0.752, p < 0.001), a medium-to-large effect.
 - **[[discipline-specific-aied|Domain-specific]] outcomes.** GenAI showed a strong effect on cognitive outcomes (SMD = 0.831, 95% CI [0.596, 1.066]) and a medium-to-large effect on affective outcomes (SMD = 0.729, 95% CI [0.414, 1.044]), but only a small, non-significant effect on behavioral engagement (SMD = 0.057, p = 0.828).
 - **Uneven adoption.** GenAI is more widely applied in [[higher-ed|higher education]] than in [[k-12]]; quasi-experimental designs dominate; most studies focus on [[pedagogy|pedagogical]] development rather than [[curriculum-design|curriculum]] development.
-- **GenAI as a tool role.** GenAI most often acted as a learning tool, with tool roles varying by discipline. Pedagogical [[scaffolding]] of GenAI use was frequently incomplete.
+- **GenAI as a tool role.** GenAI most often acted as a learning tool, with tool roles varying by discipline. Pedagogical [[scaffolding|scaffolding]] of GenAI use was frequently incomplete.
 - **Moderating variables.** [[research-methods-aied|Research]] method/focus and key instructional-design variables (learning content, tool, strategy, assessment, outcome) moderated learning outcomes.
 - **Two critical priorities.** (1) GenAI literacy development for students, and (2) GenAI-TPACK professional development for teachers.
 
@@ -31,15 +31,15 @@ The 71 studies span publishing year, country/region, authorship type, sample siz
 
 ## The TPACK Lens
 
-The review applies the [[tpack|TPACK]] framework to identify what knowledge teachers need to integrate GenAI effectively into student learning. It synthesizes GenAI-related competencies across the framework's domains — technological knowledge (operating GenAI, examining its benefits/limitations and [[ethics|ethical]] implications), pedagogical knowledge (scaffolding student use), and content knowledge (integrating AI within subject-matter instruction). This positions GenAI-TPACK professional development as a core requirement for realizing AI's benefits while mitigating misuse risk, connecting to the knowledge base's [[teacher-ai-competency]] and [[educational-development]] research.
+The review applies the [[tpack|TPACK]] framework to identify what knowledge teachers need to integrate GenAI effectively into student learning. It synthesizes GenAI-related competencies across the framework's domains — technological knowledge (operating GenAI, examining its benefits/limitations and [[ethics|ethical]] implications), pedagogical knowledge (scaffolding student use), and content knowledge (integrating AI within subject-matter instruction). This positions GenAI-TPACK professional development as a core requirement for realizing AI's benefits while mitigating misuse risk, connecting to the knowledge base's [[teacher-ai-competency|teacher AI competency]] and [[educational-development|educational development]] research.
 
 ## What this means for practice
 
 - **Faculty developers.** Build GenAI-TPACK rather than delivering isolated tool training: teachers need integrated technological, pedagogical and content knowledge to judge when and how GenAI serves a subject-specific learning goal.
-- **Instructors.** Pair GenAI access with structured pedagogical [[scaffolding]], because scaffolding of GenAI use was frequently incomplete across the 71 reviewed studies and the tool alone did not raise behavioral engagement (SMD = 0.057, p = 0.828).
+- **Instructors.** Pair GenAI access with structured pedagogical [[scaffolding|scaffolding]], because scaffolding of GenAI use was frequently incomplete across the 71 reviewed studies and the tool alone did not raise behavioral engagement (SMD = 0.057, p = 0.828).
 - **Instructors.** Teach students to evaluate and use GenAI responsibly as a distinct curriculum goal — the review's first critical priority — instead of assuming literacy follows from exposure.
 - **Learners.** Use GenAI as a domain-specific learning tool with deliberate study strategies; the cognitive payoff is real (g = 0.831) but it comes from how the tool is used, not from access.
-- **Administrators.** Extend GenAI integration beyond [[higher-ed]] and fund systematic AI curricula for K-12, where adoption and pedagogical strategy for [[critical-thinking|higher-order thinking]] remain underdeveloped and quasi-experimental designs still dominate.
+- **Administrators.** Extend GenAI integration beyond [[higher-ed|higher education]] and fund systematic AI curricula for K-12, where adoption and pedagogical strategy for [[critical-thinking|higher-order thinking]] remain underdeveloped and quasi-experimental designs still dominate.
 
 ## Limitations
 

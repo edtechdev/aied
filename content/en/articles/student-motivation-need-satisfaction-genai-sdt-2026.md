@@ -27,7 +27,7 @@ page_kind: [evaluation]
 
 - **Teachers.** Embed ChatGPT inside a structured, autonomy-supportive competency-based design with transparent goals, self-paced progression, and voluntary access, rather than introducing it as a standalone intervention.
 - **Teachers.** Protect relational time deliberately: relatedness satisfaction was weaker in the ChatGPT-supported context, so keep teacher and peer interaction in the lesson design alongside the tool.
-- **Teachers.** Aim on-demand [[scaffolding]] at students in transitional motivational states; ChatGPT raised intrinsic and identified regulation within less adaptive profiles rather than lifting the whole class.
+- **Teachers.** Aim on-demand [[scaffolding|scaffolding]] at students in transitional motivational states; ChatGPT raised intrinsic and identified regulation within less adaptive profiles rather than lifting the whole class.
 - **Researchers.** Combine person-centered profile analysis with variable-centered mean comparisons, because mean-level differences alone concealed profile-level dynamics in this data.
 - **Researchers.** Collect usage logs or platform [[learning-analytics|analytics]] next to self-reports, since perceived ChatGPT support was measured with a novel instrument and actual usage behavior was not captured.
 

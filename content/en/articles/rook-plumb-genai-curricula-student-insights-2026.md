@@ -28,7 +28,7 @@ confidence: medium
 
 - **Priority area 3: Navigating ethical and legal dimensions of GenAI.** Students explicitly requested learning about the [[ethics|ethical]] and legal implications of GenAI, including "the ethical frameworks and guidelines governing the development and use of AI [[ai-technologies|technologies]]" (P164), workplace regulations, and how to "ethically use them to avoid copyright/incorrect claims" (P134).
 
-- **Students value co-design and scaffolded, [[discipline-specific-aied|discipline-specific]] guidance.** Practitioner notes stress [[scaffolding]] experiences that build prompting, [[critical-thinking|critical evaluation]], and understanding of how GenAI systems function, embedding [[ethics|ethical]] and legal considerations for responsible engagement, and bridging students' informal, personal use of GenAI to its formal academic and professional applications.
+- **Students value co-design and scaffolded, [[discipline-specific-aied|discipline-specific]] guidance.** Practitioner notes stress [[scaffolding|scaffolding]] experiences that build prompting, [[critical-thinking|critical evaluation]], and understanding of how GenAI systems function, embedding [[ethics|ethical]] and legal considerations for responsible engagement, and bridging students' informal, personal use of GenAI to its formal academic and professional applications.
 
 ## Study Design & Method
 
@@ -43,7 +43,7 @@ confidence: medium
 ## What this means for practice
 
 - **Instructors.** Build GenAI literacy into assessment around the three areas students themselves prioritized: how the tools work and how to prompt them, how they apply across academic and industry contexts, and their ethical and legal dimensions such as copyright and disclosure.
-- **Instructors.** Bridge students' informal personal use into formal academic and professional practice by [[scaffolding]] [[prompt-engineering|prompting]] and [[critical-thinking|critical evaluation]] rather than assuming competence from familiarity.
+- **Instructors.** Bridge students' informal personal use into formal academic and professional practice by [[scaffolding|scaffolding]] [[prompt-engineering|prompting]] and [[critical-thinking|critical evaluation]] rather than assuming competence from familiarity.
 - **Designers.** Co-design the [[curriculum-design|curriculum]] with students: 84% wanted GenAI taught in their units and 85% saw it as essential for employability, yet only 7% had learned about it from their university.
 - **Administrators.** Support [[discipline-specific-aied|discipline-specific]] integration guided by educational values rather than market or technological pressure, and close the gap between institutional offerings and the informal GenAI use students already bring.
 

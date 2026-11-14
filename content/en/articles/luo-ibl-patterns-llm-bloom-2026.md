@@ -14,7 +14,7 @@ audience: [instructional designers, instructors, researchers]
 page_kind: [framework]
 ---
 
-> **Synthesis:** This exploratory study of students interacting with [[llm|LLMs]] during an [[inquiry-based-learning|inquiry-based learning]] data-science writing task used Bloom's taxonomy to analyze behavioral patterns across cognitive levels. Thematic analysis of 117 interview transcripts, 370 interaction records, and 1,694 minutes of screen recordings identified **14 interaction patterns** at different levels of [[prior-knowledge|prior knowledge]]. The study highlights how [[self-efficacy]] and [[metacognition|metacognitive]] monitoring shape LLM use in IBL and calls for guiding planning frameworks and [[scaffolding]] to mitigate AI reliance.
+> **Synthesis:** This exploratory study of students interacting with [[llm|LLMs]] during an [[inquiry-based-learning|inquiry-based learning]] data-science writing task used Bloom's taxonomy to analyze behavioral patterns across cognitive levels. Thematic analysis of 117 interview transcripts, 370 interaction records, and 1,694 minutes of screen recordings identified **14 interaction patterns** at different levels of [[prior-knowledge|prior knowledge]]. The study highlights how [[self-efficacy|self-efficacy]] and [[metacognition|metacognitive]] monitoring shape LLM use in IBL and calls for guiding planning frameworks and [[scaffolding|scaffolding]] to mitigate AI reliance.
 
 ## Key Findings
 
@@ -26,9 +26,9 @@ page_kind: [framework]
 
 ## What this means for practice
 
-- **Instructors.** Aim [[scaffolding]] at specific higher-order thinking stages rather than at LLM use in general, because prior knowledge and [[metacognition|metacognitive]] skill determine whether LLM use deepens [[inquiry-based-learning|inquiry]] or bypasses it, and the 14 patterns vary by [[prior-knowledge]] level.
+- **Instructors.** Aim [[scaffolding|scaffolding]] at specific higher-order thinking stages rather than at LLM use in general, because prior knowledge and [[metacognition|metacognitive]] skill determine whether LLM use deepens [[inquiry-based-learning|inquiry]] or bypasses it, and the 14 patterns vary by [[prior-knowledge|prior knowledge]] level.
 - **Instructors.** Teach [[critical-thinking|critical evaluation]] of LLM output inside the inquiry task itself, since the study's policy implication is explicit training in evaluating responses within LLM-driven environments.
-- **Designers.** Build planning frameworks that keep [[metacognition|metacognitive]] monitoring active and mitigate [[cognitive-offloading|over-reliance]], because [[self-efficacy]] and metacognitive monitoring shaped learning behavior in the LLM-driven environment and their absence correlated with reliance on the AI.
+- **Designers.** Build planning frameworks that keep [[metacognition|metacognitive]] monitoring active and mitigate [[cognitive-offloading|over-reliance]], because [[self-efficacy|self-efficacy]] and metacognitive monitoring shaped learning behavior in the LLM-driven environment and their absence correlated with reliance on the AI.
 - **Researchers.** Follow the exploratory design with larger, objective measurement — the authors plan [[quantitative-research|quantitative]] work with a larger sample and eye-movement data — because the current design cannot clarify causal links between behaviors such as cue design and critical thinking.
 
 ## Limitations

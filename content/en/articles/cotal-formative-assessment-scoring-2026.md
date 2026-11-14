@@ -12,7 +12,7 @@ audience: [assessment designers, instructors]
 methods: [ai-ed-evaluation, benchmark]
 ---
 
-> **Synthesis:** 1. **Evidence-Centered Design (ECD)** — assessments and rubrics aligned to [[curriculum-design|curriculum]] goals from the start 2. **[[human-in-the-loop-ai|Human-in-the-loop]] [[prompt-engineering|prompt engineering]]** — labeled examples and prompts refined iteratively with educators 3. **Chain-of-thought (CoT) prompting + [[active-learning|active learning]]** — [[teacher-role|teacher]] and student [[feedback|feedback loops]] refine questions, rubrics, and [[llm]] prompts across iterations
+> **Synthesis:** 1. **Evidence-Centered Design (ECD)** — assessments and rubrics aligned to [[curriculum-design|curriculum]] goals from the start 2. **[[human-in-the-loop-ai|Human-in-the-loop]] [[prompt-engineering|prompt engineering]]** — labeled examples and prompts refined iteratively with educators 3. **Chain-of-thought (CoT) prompting + [[active-learning|active learning]]** — [[teacher-role|teacher]] and student [[feedback|feedback loops]] refine questions, rubrics, and [[llm|LLM]] prompts across iterations
 
 > Cohn, Ashwin T S, Mohammed & Biswas (2026) introduce **CoTAL** (Chain-of-Thought Prompting + Active Learning): an LLM grading pipeline that couples Evidence-Centered Design with human-in-the-loop prompt engineering and iterative teacher/student feedback refinement. It improves GPT-4's scoring by **up to 38.9% over a non-prompt-engineered baseline** and generalizes across science, computing, and engineering — direct evidence that prompt-engineering quality, not model choice, is often the binding constraint in [[automated-assessment|Automated Grading]].
 
@@ -35,7 +35,7 @@ methods: [ai-ed-evaluation, benchmark]
 - **Assessment designers.** Budget for the prompt pipeline rather than for a bigger model: adding labeled examples, chain-of-thought reasoning chains, and active learning raised average subscore QWK by 10.9% and 24.5% on the Rules and Debugging tasks, and up to 38.9% over a non-prompt-engineered baseline, all with GPT-4.
 - **Assessment designers.** Treat explanations as part of the artifact: CoTAL's outputs justified scores by citing evidence from student responses and linking it to the rubric, but the same model fabricated information or diverged from human preference on 29 of 550 answers, so define a review step for the feedback students actually see.
 - **Instructors.** Run the human-in-the-loop cycle deliberately — teacher interviews and student review of generated scores and explanations — and use that feedback to revise prompts, assessments, and rubrics across iterations, as this study did with 2 teachers and 23 students.
-- **Instructors.** Use the tool where the stakes fit: the authors evaluated CoTAL post hoc on held-out test sets rather than in live classroom use, so keep generated scores as a drafting aid alongside your own judgment for [[formative-assessment]] evidence.
+- **Instructors.** Use the tool where the stakes fit: the authors evaluated CoTAL post hoc on held-out test sets rather than in live classroom use, so keep generated scores as a drafting aid alongside your own judgment for [[formative-assessment|formative assessment]] evidence.
 
 ## Limitations
 

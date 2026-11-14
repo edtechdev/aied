@@ -19,25 +19,25 @@ confidence: high
 
 Prezenski separates two families of AI used in learning:
 
-- **Data-driven systems (LLMs):** [[generative-ai|ChatGPT]] and similar tools are general-purpose systems built on [[machine-learning|machine learning]] — supervised, unsupervised, reinforcement, and self-supervised learning — powered by **self-attention** and **massive scale**. Their strengths (adaptivity, feedback, [[scaffolding]]) come with three serious drawbacks: **bias**, **opacity**, and **[[hallucination-risk|hallucination]]**. These flaws arise from the same statistical paradigm that gives LLMs their power, so they resist easy fixing.
+- **Data-driven systems (LLMs):** [[generative-ai|ChatGPT]] and similar tools are general-purpose systems built on [[machine-learning|machine learning]] — supervised, unsupervised, reinforcement, and self-supervised learning — powered by **self-attention** and **massive scale**. Their strengths (adaptivity, feedback, [[scaffolding|scaffolding]]) come with three serious drawbacks: **bias**, **opacity**, and **[[hallucination-risk|hallucination]]**. These flaws arise from the same statistical paradigm that gives LLMs their power, so they resist easy fixing.
 - **Rule-based systems (intelligent tutoring systems):** Designed specifically for learning, these encode the domain as explicit if-then/production rules (e.g., telling a student solving `2x + 3 = 9` to "get rid of the +3 first"). **Cognitive-model tutors** (e.g., Anderson's Cognitive Tutor) embed a theory of human learning like ACT-R, estimate the learner's knowledge state, and deliver finely targeted feedback. By design they scaffold understanding better than opaque statistical models, but they are costly and time-consuming to build.
 
 ## Blended AI: today's landscape
 
-Most current systems blend rule-based and [[machine-learning]] components:
+Most current systems blend rule-based and [[machine-learning|machine learning]] components:
 
 - **Adaptive learning engines:** ALEKS (50M+ students; Knowledge Space Theory + Bayesian inference + deep learning, ~9% topic-mastery gain; g≈0.30 historically), Squirrel AI (24M+ users), DreamBox Learning, and Khanmigo ([[socratic-method|Socratic]] tutor on a rule-based skill map, 12% accuracy improvement).
-- **[[learning-analytics]] early warning systems** (Purdue Course Signals) merging thresholds with predictive modeling.
-- **Pronunciation/speech tutors** (Duolingo), **[[affective-computing|affective]]/[[multimodal]] tutors** (computer-vision emotion recognition), and **educational robots** with social personas.
+- **[[learning-analytics|learning analytics]] early warning systems** (Purdue Course Signals) merging thresholds with predictive modeling.
+- **Pronunciation/speech tutors** (Duolingo), **[[affective-computing|affective]]/[[multimodal|multimodal]] tutors** (computer-vision emotion recognition), and **educational robots** with social personas.
 
 ## The cognitive paradox of AI
 
-Prezenski identifies what she calls the **cognitive paradox**: AI can support mental-model building, [[reflection|self-reflection]] ([[metacognition]]), sustained attention, and frustration tolerance through timely feedback, tailored instruction, [[game-based-learning|gamification]], and fading scaffolds. But over-reliance produces the opposite:
+Prezenski identifies what she calls the **cognitive paradox**: AI can support mental-model building, [[reflection|self-reflection]] ([[metacognition|metacognition]]), sustained attention, and frustration tolerance through timely feedback, tailored instruction, [[game-based-learning|gamification]], and fading scaffolds. But over-reliance produces the opposite:
 
 - **Rewards undermine [[motivation|intrinsic motivation]]** (Deci & Ryan; Duolingo-style points/streaks shift focus to game maintenance, reduce dopamine sensitivity).
 - **Hint-dependency and excessive scaffolding** promote task-completion over understanding, suppress independent monitoring, and leave learners overwhelmed when AI is absent.
 - **Hyper-engaging content** trains "attenuated attentional control," weakening the ability to sustain focus on books or lectures.
-- **Frictionless guidance** blocks "[[desirable-difficulties|productive struggle]]" and real-world [[problem-solving]] resilience.
+- **Frictionless guidance** blocks "[[desirable-difficulties|productive struggle]]" and real-world [[problem-solving|problem-solving]] resilience.
 
 The net effect: short-term efficiency and [[student-engagement|engagement]] gains risk subordinating [[critical-thinking|critical thinking]], social cognition, and ethical development — a risk of producing students ill-prepared for the messiness of real life.
 
@@ -47,21 +47,21 @@ Learning is social and ethical, not purely cognitive. AI can both facilitate and
 
 - **Equity:** AI trained on datasets that underrepresent marginalized communities offers suboptimal adaptive pathways; e.g., speech models with ~2× higher word-error rates for African American speakers mislabel students (the "Toni" case in Maya's story).
 - **Privacy/surveillance:** granular data collection (clickstreams, facial expressions) makes learners feel "always watched," inhibiting the risk-taking that deep learning requires.
-- **Purpose:** AI optimized for "marketable skills" risks an overly technocratic education that treats students as data points, neglecting civic engagement, ethical reasoning, and [[creativity]]. Against this, Freire's vision of education empowering full human beings is invoked.
+- **Purpose:** AI optimized for "marketable skills" risks an overly technocratic education that treats students as data points, neglecting civic engagement, ethical reasoning, and [[creativity|creativity]]. Against this, Freire's vision of education empowering full human beings is invoked.
 
 ## Human-Centered AI (HCAI)
 
-HCAI extends Human-Centered Design to AI. Shneiderman frames it as combining **high automation with high human control** ("augmentation over automation"); Stanford HAI embeds it in a socio-technical [[governance]] agenda; Schmager et al. define it as emphasizing **human agency**, aligning with **ethical principles**, and considering **context**. Prezenski argues that despite its rhetorical popularity, HCAI is **rarely implemented rigorously** in educational AI: UX is mistaken for human-centeredness, participatory methods/value alignment/ethical reflection are often absent, educators are marginalized (Zawacki-Richter et al.), and stakeholders are consulted late if at all (Alfredo et al.).
+HCAI extends Human-Centered Design to AI. Shneiderman frames it as combining **high automation with high human control** ("augmentation over automation"); Stanford HAI embeds it in a socio-technical [[governance|governance]] agenda; Schmager et al. define it as emphasizing **human agency**, aligning with **ethical principles**, and considering **context**. Prezenski argues that despite its rhetorical popularity, HCAI is **rarely implemented rigorously** in educational AI: UX is mistaken for human-centeredness, participatory methods/value alignment/ethical reflection are often absent, educators are marginalized (Zawacki-Richter et al.), and stakeholders are consulted late if at all (Alfredo et al.).
 
 ### Why HCAI is rare and how to advance it
 
-Reasons include the difficulty of sustained developer–educator collaboration, needs-first processes clashing with fixed-deliverable funding, a lack of hybrid expertise, and EdTech incentives favoring speed/scale/data. Proposals span **policy/funding** (open, public-interest AI), **[[research-methods-aied|research]]** (participatory methods, human-centered evaluation), **educators** (co-designers/evaluators with AI-literacy PD), **industry** (transparency, user control, [[open-source]] principles), **hybrid expertise** development, and **structural governance** (EC Expert Group on AI and Data in Education; NOLAI, the Dutch National Education Lab for AI).
+Reasons include the difficulty of sustained developer–educator collaboration, needs-first processes clashing with fixed-deliverable funding, a lack of hybrid expertise, and EdTech incentives favoring speed/scale/data. Proposals span **policy/funding** (open, public-interest AI), **[[research-methods-aied|research]]** (participatory methods, human-centered evaluation), **educators** (co-designers/evaluators with AI-literacy PD), **industry** (transparency, user control, [[open-source|open source]] principles), **hybrid expertise** development, and **structural governance** (EC Expert Group on AI and Data in Education; NOLAI, the Dutch National Education Lab for AI).
 
 ## Why this matters for the knowledge base
 
-- A bridge between **[[adaptive-learning]]/[[intelligent-tutoring]]** engineering and the **[[ethics]]/[[equity-in-ai-education]]** critique, all through a single Cognitive Load Theory and [[cognitive-offloading|Over-Reliance]] lens.
-- Central reference for Human-Centered AI work (see [[haiml-human-centered-ai-metacognitive-model-2026]]) and the "AI makes us stupid" cognitive-harm debate (cf. [[ai-making-us-stupid]], [[brcic-effortless-trap-productive-struggle-2026]]).
-- Frames the [[teacher-role]] and [[higher-ed]] implications of keeping humans in the loop ([[human-ai-collaboration]], [[ai-literacy]]).
+- A bridge between **[[adaptive-learning|adaptive learning]]/[[intelligent-tutoring|intelligent tutoring]]** engineering and the **[[ethics|ethics]]/[[equity-in-ai-education|equity]]** critique, all through a single Cognitive Load Theory and [[cognitive-offloading|Over-Reliance]] lens.
+- Central reference for Human-Centered AI work (see [[haiml-human-centered-ai-metacognitive-model-2026|Reardon (2026)]]) and the "AI makes us stupid" cognitive-harm debate (cf. [[ai-making-us-stupid|Cash et al. (2026)]], [[brcic-effortless-trap-productive-struggle-2026|Brcic et al. (2026)]]).
+- Frames the [[teacher-role|teacher role]] and [[higher-ed|higher education]] implications of keeping humans in the loop ([[human-ai-collaboration|human AI collaboration]], [[ai-literacy|AI literacy]]).
 
 ## What this means for practice
 
@@ -69,7 +69,7 @@ Reasons include the difficulty of sustained developer–educator collaboration, 
 - **Instructors.** Audit the reward structure of any gamified tool before adopting it — points, streaks, and leaderboards shift attention to maintaining the game and can dampen [[motivation|intrinsic motivation]] — and keep rewards attached to learning rather than to activity.
 - **Instructors.** Pair AI use with peer work deliberately: heavy reliance on [[conversational-ai|chatbots]] can privatize learning and erode empathy and perspective-taking, so schedule debate, group impasse, and perspective-taking tasks alongside individual AI sessions.
 - **Instructors.** Check equity before deployment at course level: speech and adaptive models trained on unrepresentative data have shown roughly 2× higher word-error rates for African American speakers and weaker adaptive pathways for marginalized students, and granular data logging (clickstreams, facial expressions) suppresses the risk-taking that deep learning requires.
-- **Instructors.** Claim a design seat rather than accepting polished UX as human-centeredness: educators are routinely marginalized in educational AI development and consulted late, so ask for co-designer and evaluator roles, [[ai-literacy]] [[educational-development|professional development]], and transparency and user control as procurement conditions.
+- **Instructors.** Claim a design seat rather than accepting polished UX as human-centeredness: educators are routinely marginalized in educational AI development and consulted late, so ask for co-designer and evaluator roles, [[ai-literacy|AI literacy]] [[educational-development|professional development]], and transparency and user control as procurement conditions.
 
 ## Limitations
 

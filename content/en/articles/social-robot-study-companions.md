@@ -24,7 +24,7 @@ confidence: high
 
 ## Study Design & Method
 
-[[open-source]] social robots offer [[accessibility]], repairability, and student empowerment, yet the build itself often presents a barrier: existing platforms either ship pre-assembled, foreclosing [[experiential-learning|hands-on learning]], or expose students to unfamiliar fasteners, opaque wiring, and inaccessible service points that erode [[student-engagement|engagement]]. Working with university students in Guyana and Estonia, the authors applied the Double Diamond framework to co-create the Robot Study Companion (RSC) v4.1: mapping pain points, then redesigning its chassis around twist-lock fasteners, snap-fit joints, and tool-free service latches. The redesign was evaluated across two studies with both developers and first-time builders using the System Usability Scale (SUS) and the NASA-TLX workload instrument.
+[[open-source|Open source]] social robots offer [[accessibility|accessibility]], repairability, and student empowerment, yet the build itself often presents a barrier: existing platforms either ship pre-assembled, foreclosing [[experiential-learning|hands-on learning]], or expose students to unfamiliar fasteners, opaque wiring, and inaccessible service points that erode [[student-engagement|engagement]]. Working with university students in Guyana and Estonia, the authors applied the Double Diamond framework to co-create the Robot Study Companion (RSC) v4.1: mapping pain points, then redesigning its chassis around twist-lock fasteners, snap-fit joints, and tool-free service latches. The redesign was evaluated across two studies with both developers and first-time builders using the System Usability Scale (SUS) and the NASA-TLX workload instrument.
 
 ## What this means for practice
 

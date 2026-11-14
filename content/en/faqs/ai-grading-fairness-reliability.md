@@ -106,6 +106,6 @@ Two failure directions need separate attention. Excessive deductions are the one
 
 ## Where to go next
 
-[[assessment-validity|Assessment validity]] is the concept that decides these questions: whether the evidence supports the inference you want to make. [[automated-assessment]] covers the technology and its measured performance across formats, and [[ai-feedback-at-scale]] handles the adjacent problem of generated comments and whether students act on them.
+[[assessment-validity|Assessment validity]] is the concept that decides these questions: whether the evidence supports the inference you want to make. [[automated-assessment|Automated assessment]] covers the technology and its measured performance across formats, and [[ai-feedback-at-scale]] handles the adjacent problem of generated comments and whether students act on them.
 
 For what a grade should represent once students are using AI, including construct substitution and authenticated process evidence, see [[redesign-assessment-ai-era|redesigning assessment in the AI era]]. For whether detection can substitute for a defensible task design, see [[should-we-use-ai-detectors|whether to use AI detectors]]. For the evaluation question underneath all of it, see [[checking-whether-educational-ai-works|checking whether an educational AI works]].

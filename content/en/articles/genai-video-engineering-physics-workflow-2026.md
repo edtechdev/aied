@@ -21,16 +21,16 @@ confidence: high
 1. **Generated video can serve as synthetic experimental content.** Kinematic data extracted from AI-generated clips fitted the expected models for constant friction, linear drag and quadratic drag.
 2. **Fitted parameters recovered physically meaningful quantities** broadly consistent with literature values under the assumed conditions.
 3. **Prompt specificity governs physical coherence.** More detailed descriptions produced more coherent dynamical behavior, so [[prompt-engineering|prompt formulation]] becomes an explicit stage of the experimental [[design-thinking|design process]] rather than a preliminary convenience.
-4. **The workflow mirrors real experimental practice end to end** — model construction, data acquisition, parameter estimation and model evaluation — using an [[open-source]] tracker and spreadsheet regression.
+4. **The workflow mirrors real experimental practice end to end** — model construction, data acquisition, parameter estimation and model evaluation — using an [[open-source|open source]] tracker and spreadsheet regression.
 5. **The [[pedagogy|pedagogical]] aim is competence, not convenience:** students engage in experimental design and [[quantitative-research|quantitative]] validation rather than watching a demonstration.
 
 ## What the workflow offers when laboratory access is constrained
 
-The value proposition is not that [[video-education|AI video]] replaces a laboratory; it is that it provides *varying* physical regimes on demand, including ones a teaching lab cannot easily produce. That matters for [[inquiry-based-learning]] where the learner must decide what to measure and which model applies, and it is why the paper frames the activity as [[experiential-learning]] rather than as a demonstration. It also sidesteps a real constraint in [[physics-education|physics education]]: apparatus cost and scheduling.
+The value proposition is not that [[video-education|AI video]] replaces a laboratory; it is that it provides *varying* physical regimes on demand, including ones a teaching lab cannot easily produce. That matters for [[inquiry-based-learning|inquiry-based learning]] where the learner must decide what to measure and which model applies, and it is why the paper frames the activity as [[experiential-learning|experiential learning]] rather than as a demonstration. It also sidesteps a real constraint in [[physics-education|physics education]]: apparatus cost and scheduling.
 
 ## The validity question the design must answer
 
-Synthetic data that merely looks plausible would teach students to fit models to artifacts. The authors' checks — agreement with Newton's second law and plausible recovered parameters — are the right first tests, but they are the authors' own validation, not a student learning outcome. Read alongside the wiki's work on [[simulation]] and [[assessment-validity]], the paper defines a workflow that still needs evidence on whether students learn measurement judgment from it, and it inherits the general [[hallucination-risk|reliability]] concerns that attach to generated content used as data.
+Synthetic data that merely looks plausible would teach students to fit models to artifacts. The authors' checks — agreement with Newton's second law and plausible recovered parameters — are the right first tests, but they are the authors' own validation, not a student learning outcome. Read alongside the wiki's work on [[simulation|simulation]] and [[assessment-validity|assessment validity]], the paper defines a workflow that still needs evidence on whether students learn measurement judgment from it, and it inherits the general [[hallucination-risk|reliability]] concerns that attach to generated content used as data.
 
 ## What this means for practice
 

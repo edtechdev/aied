@@ -23,7 +23,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Inoue and Yasutake (2026) test a structural alternative to the fidelity metrics used to evaluate [[privacy|privacy-preserving]] synthetic educational data: the number of connected components of a weekly proximity graph over learners. Across four annual cohorts of Japanese lower-secondary study-habit logs, the synthetic versions reproduce the level and shape of that weekly partition but vary 2.6 to 4.9 times less across the term than the real cohorts, without exception. The check is calibrated on synthetic data of known construction, and it locates a blind spot in [[ai-ed-evaluation]] that a [[learning-analytics]] platform can act on before any real data is touched.
+> **Synthesis:** Inoue and Yasutake (2026) test a structural alternative to the fidelity metrics used to evaluate [[privacy|privacy-preserving]] synthetic educational data: the number of connected components of a weekly proximity graph over learners. Across four annual cohorts of Japanese lower-secondary study-habit logs, the synthetic versions reproduce the level and shape of that weekly partition but vary 2.6 to 4.9 times less across the term than the real cohorts, without exception. The check is calibrated on synthetic data of known construction, and it locates a blind spot in [[ai-ed-evaluation|AI ed evaluation]] that a [[learning-analytics|learning analytics]] platform can act on before any real data is touched.
 
 ## Key Findings
 

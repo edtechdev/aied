@@ -21,11 +21,11 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** This conceptual paper argues that the generative-AI assessment debate has been framed around the wrong question. Detection and [[academic-integrity]] enforcement, it contends, do not answer what evidence is needed to make valid judgments about student learning. Building on [[authentic-assessment|authentic assessment]] and evidence-centered assessment, it proposes Human-Centered Assessment — an approach organized around authentic voice, reflection, judgment, context, process transparency and [[ethics|ethical AI]] integration — and supplies three complementary frameworks that move faculty from principle to assignment redesign. The shift it recommends is from detecting AI to designing assessments that produce richer evidence of thinking, in a world where the artifact alone no longer certifies the learning.
+> **Synthesis:** This conceptual paper argues that the generative-AI [[assessment|assessment]] debate has been framed around the wrong question. Detection and [[academic-integrity|academic integrity]] enforcement, it contends, do not answer what evidence is needed to make valid judgments about student learning. Building on [[authentic-assessment|authentic assessment]] and evidence-centered assessment, it proposes Human-Centered Assessment — an approach organized around authentic voice, reflection, judgment, context, process transparency and [[ethics|ethical AI]] integration — and supplies three complementary frameworks that move faculty from principle to assignment redesign. The shift it recommends is from detecting AI to designing assessments that produce richer evidence of thinking, in a world where the artifact alone no longer certifies the learning.
 
 ## Key Findings
 
-1. The paper argues that [[generative-ai|generative AI]] has not changed the purpose of [[assessment]] but has exposed how much current practice relies on the artifact as a proxy for the thinking behind it.
+1. The paper argues that [[generative-ai|generative AI]] has not changed the purpose of [[assessment|assessment]] but has exposed how much current practice relies on the artifact as a proxy for the thinking behind it.
 2. It introduces Human-Centered Assessment as a conceptual approach organized around six emphases: authentic voice, reflection, judgment, context, process transparency and ethical AI integration.
 3. It presents three complementary frameworks, sequenced from understanding the principles, to evaluating existing assignments, to redesigning assessments for AI-mediated learning environments.
 4. Detection-based responses are treated as insufficient because they address authorship rather than validity, leaving the underlying question of what counts as evidence unanswered.

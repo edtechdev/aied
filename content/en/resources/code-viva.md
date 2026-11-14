@@ -23,7 +23,7 @@ ai_assist:
     agent: hermes-agent
 reviewed_by: [editor]
 ---
-Code Viva runs a written, timed version of an [[oral-assessment|viva]] for every student in a programming
+Code Viva runs a written, timed version of a [[oral-assessment|viva]] for every student in a programming
 course, about fifteen to twenty minutes each, without an instructor in the room. It reads a student's
 submitted code and commit history, writes four to six questions about that student's own functions, names
 and commits, and gives each student a personal link to answer from.
@@ -44,7 +44,7 @@ data.
 
 Instructors of programming courses who want evidence that a student can explain their own code, and who
 would rather talk to a short list of students than to all of them; the commit questions make it a form of
-[[process-oriented-assessment]].
+[[process-oriented-assessment|process-oriented assessment]].
 
 ## Notes and caveats
 

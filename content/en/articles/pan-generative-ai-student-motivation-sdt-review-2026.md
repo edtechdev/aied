@@ -51,7 +51,7 @@ The appraisal verdict is qualified but not damning. Most studies met the criteri
 
 ## SDT forces the question an engagement metric never asks
 
-A [[student-engagement]] measure records that a student used the tool, kept at it, or reported interest. SDT asks a prior question: whether the activity was volitional, and which need it served. That distinction is what lets this review separate fourteen present activities from six absent ones and notice that the absent six are the ones requiring evaluation and challenge. The corpus is built around receiving: feedback, examples, explanations, clarification.
+A [[student-engagement|student engagement]] measure records that a student used the tool, kept at it, or reported interest. SDT asks a prior question: whether the activity was volitional, and which need it served. That distinction is what lets this review separate fourteen present activities from six absent ones and notice that the absent six are the ones requiring evaluation and challenge. The corpus is built around receiving: feedback, examples, explanations, clarification.
 
 The theory also reframes what counts as a motivational result. Personalized feedback can raise reported competence while leaving autonomy untouched, or it can substitute for the student's own judgment. The review cannot adjudicate that, but its coding scheme makes the ambiguity visible, because each activity is tagged to a need category rather than to an outcome variable. A study reporting higher satisfaction after chatbot feedback reads differently once the activity is coded under competence with the autonomy column empty.
 
@@ -67,7 +67,7 @@ Need frustration is the other blind spot. The review states that included studie
 
 ## The measurement critique travels further than any of the findings
 
-The third research question produces the review's most reusable result. Seventeen studies measured the three needs, ten measured engagement, five measured [[self-efficacy]], and the rest spread across enjoyment, grit, flow, writing interest and similar constructs. Nearly all of it is questionnaire data, usually collected once, and often with an instrument the study team wrote for the occasion.
+The third research question produces the review's most reusable result. Seventeen studies measured the three needs, ten measured engagement, five measured [[self-efficacy|self-efficacy]], and the rest spread across enjoyment, grit, flow, writing interest and similar constructs. Nearly all of it is questionnaire data, usually collected once, and often with an instrument the study team wrote for the occasion.
 
 The authors note that [[self-report-measures|self-report]] questionnaires may not capture how motivation develops during actual use, since motivation shifts with task, interaction and support. Their proposed remedy is a mixed design: interviews, learning diaries, observations, and interaction data from the tool itself. They also concede a limit of their own review, that instrument [[assessment-validity|validity]] and reliability were not examined, nor whether an instrument was SDT-based or fit for its context.
 
@@ -76,7 +76,7 @@ That omission matters when reading the tables. Seventeen studies measuring basic
 ## What this means for practice
 
 - **Instructors.** Design for the six absent activities, not the fourteen present ones. Asking students to grade, anticipate, debate with or challenge model output puts them in the judging position that feedback requests do not, and the review found no study of those uses to lean on.
-- **Learning designers.** Treat personalized [[feedback]] as a competence intervention and check separately what it does to autonomy. The review's competence-heavy distribution is a description of what tools currently do, not evidence that the balance is right.
+- **Learning designers.** Treat personalized [[feedback|feedback]] as a competence intervention and check separately what it does to autonomy. The review's competence-heavy distribution is a description of what tools currently do, not evidence that the balance is right.
 - **Researchers measuring motivation.** Report the instrument, its source and its validation, and say whether it is SDT-based. The corpus mixes established scales with purpose-built ones, which makes cross-study comparison impossible even where the construct name matches.
 - **Program leaders.** Read motivational claims from this literature as associations. Most of the evidence is cross-sectional, the quality appraisal found reporting gaps on sampling and blinding, and no study pooled effects.
 

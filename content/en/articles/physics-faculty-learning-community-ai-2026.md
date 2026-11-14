@@ -26,7 +26,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Perl-Nussbaum and Finkelstein document one department's answer to [[generative-ai]] arriving before anyone was ready: a faculty learning community of six biweekly sessions in which physics faculty read their own local data, tested AI against real anonymized student homework in small groups, and built a shared resource repository rather than receiving a training package. The design follows their framework for [[change-management|institutional change]] in the AI era, treating AI as an arrival technology that bypasses the usual evidence base and repositioning the workshop leaders from experts to facilitators of collective inquiry. Sessions moved through course policy, classroom conversation, homework correction, AI-integrated tasks, and assessment, with students treated as partners whose reported use set the agenda.
+> **Synthesis:** Perl-Nussbaum and Finkelstein document one department's answer to [[generative-ai|generative AI]] arriving before anyone was ready: a faculty learning community of six biweekly sessions in which physics faculty read their own local data, tested AI against real anonymized student homework in small groups, and built a shared resource repository rather than receiving a training package. The design follows their framework for [[change-management|institutional change]] in the AI era, treating AI as an arrival technology that bypasses the usual evidence base and repositioning the workshop leaders from experts to facilitators of collective inquiry. Sessions moved through course policy, classroom conversation, homework correction, AI-integrated tasks, and assessment, with students treated as partners whose reported use set the agenda.
 
 ## Key Findings
 1. **Nineteen faculty participated across six biweekly sessions.** Meetings of 60 to 75 minutes drew about ten attendees each, in a large public R1 physics department with a history of systematic education reform.
@@ -56,7 +56,7 @@ Faculty raised assessment concerns in almost every session, and the fifth addres
 ## Limitations
 - The report covers one physics department at a large public R1 institution, with nineteen participants across the series and about ten at any meeting.
 - The authors present no validated [[curriculum-design|curriculum]] and make no claims about changes in student learning, framing the series as one instantiation rather than a model to replicate.
-- The end-of-series evidence is a [[self-report-measures|self-report]] [[reflection]] survey; faculty most valued the collective discussion, while few reported concrete changes to teaching or policy.
+- The end-of-series evidence is a [[self-report-measures|self-report]] [[reflection|reflection]] survey; faculty most valued the collective discussion, while few reported concrete changes to teaching or policy.
 - [[ethics|Ethics of AI]] use and AI in the instructional laboratories were identified in the final session as areas the series had not yet addressed.
 
 ## Citation

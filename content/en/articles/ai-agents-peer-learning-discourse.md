@@ -12,7 +12,7 @@ confidence: medium
 audience: [researchers, instructional designers]
 methods: [benchmark, mixed-methods-research]
 ---
-> **Synthesis:** Mining [[learning-analytics|educational data mining]] discourse from Moltbook, a [[network-analysis|social network]] of over 2.4 million [[agentic-ai|AI agents]] built on the [[open-source|OpenClaw]] framework, reveals [[learning-by-teaching|peer-learning]]-like dynamics across 28,683 posts and 138 comment threads: validation 22%, knowledge extension 18%, application 12%, and [[metacognition|metacognitive]] [[reflection]] 7% (coded by two raters, Cohen's κ=0.78), with a statement-to-question ratio of 11.4:1. The study yields six empirically grounded design hypotheses for [[ai-education|educational AI]].
+> **Synthesis:** Mining [[learning-analytics|educational data mining]] discourse from Moltbook, a [[network-analysis|social network]] of over 2.4 million [[agentic-ai|AI agents]] built on the [[open-source|OpenClaw]] framework, reveals [[learning-by-teaching|peer-learning]]-like dynamics across 28,683 posts and 138 comment threads: validation 22%, knowledge extension 18%, application 12%, and [[metacognition|metacognitive]] [[reflection|reflection]] 7% (coded by two raters, Cohen's κ=0.78), with a statement-to-question ratio of 11.4:1. The study yields six empirically grounded design hypotheses for [[ai-education|educational AI]].
 
 ## Key Findings
 
@@ -26,8 +26,8 @@ methods: [benchmark, mixed-methods-research]
 
 ## Six Design Hypotheses
 
-1. **H1 — AI defaults to telling, not asking.** The 11.4:1 ratio suggests LLMs produce far more declarative than interrogative discourse; explicit [[prompt-engineering]] or [[llm-training-and-fine-tuning|fine-tuning]] for questioning behaviors could make AI peers more effective where inquiry drives learning.
-2. **H2 — Procedural content attracts disproportionate engagement.** Skill-sharing posts receive ~3.5× more comments; AI peers may be especially effective in skill-oriented contexts (coding bootcamps, maker spaces) where procedural knowledge sharing aligns with natural [[llm]] output.
+1. **H1 — AI defaults to telling, not asking.** The 11.4:1 ratio suggests LLMs produce far more declarative than interrogative discourse; explicit [[prompt-engineering|prompt engineering]] or [[llm-training-and-fine-tuning|fine-tuning]] for questioning behaviors could make AI peers more effective where inquiry drives learning.
+2. **H2 — Procedural content attracts disproportionate engagement.** Skill-sharing posts receive ~3.5× more comments; AI peers may be especially effective in skill-oriented contexts (coding bootcamps, maker spaces) where procedural knowledge sharing aligns with natural [[llm|LLM]] output.
 3. **H3 — AI engagement amplifies inequality.** The extreme Gini (0.91) suggests AI communities develop "rich-get-richer" patterns; AI participation may exacerbate rather than mitigate participation inequality unless explicitly designed to engage under-responded content.
 4. **H4 — Validation-before-extension may [[scaffolding|scaffold]] human learners.** The 22% validation followed by 18% extension mirrors human peer learning; AI peers that acknowledge contributions before extending knowledge may be perceived as more supportive.
 5. **H5 — Community framing shapes AI discourse.** [[edtech-platform|Platform]] affordances (submolt structure, upvoting, comment threading, "hot page" algorithm) shape agent discourse and likely contribute to the extreme participation inequality observed.
@@ -43,7 +43,7 @@ The study applies educational data mining to Moltbook, a large-scale community o
 - **Researchers.** Build matched human-AI comparisons before claiming transfer, since this study [[benchmark|benchmarks]] against published human baselines rather than running a controlled human comparison of its own.
 - **Designers.** Prompt or fine-tune explicitly for questioning: the 11.4:1 statement-to-question ratio shows that agent discourse defaults to telling, and only 7% of responses fell into metacognitive reflection.
 - **Designers.** Engineer against participation inequality rather than assuming community structure will handle it — with a Gini coefficient of 0.91 for comments, route agent attention deliberately to under-responded content.
-- **Designers.** Sequence [[feedback]] as validation before extension (22% of responses validated, 18% extended knowledge) and prioritize procedural, skill-sharing content, which drew roughly 3.5× more comments than other posts.
+- **Designers.** Sequence [[feedback|feedback]] as validation before extension (22% of responses validated, 18% extended knowledge) and prioritize procedural, skill-sharing content, which drew roughly 3.5× more comments than other posts.
 
 ## Limitations
 

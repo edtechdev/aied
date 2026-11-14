@@ -41,7 +41,7 @@ The study poses three [[research-methods-aied|research]] questions: (1) What are
 
 ## Findings: Students' Usage Patterns
 
-**Theme 1 — Students used images to capture all context.** Contrary to the expectation of verbal descriptions, students routinely photographed both the physical circuit and the exam assignment and uploaded them to the LLM. The authors attribute this to time pressure and the convenience of photos. This [[multimodal]] preference sets up the central tension of the study: students want to lean on visual evidence, but the AI's visual reasoning is precisely where it fails.
+**Theme 1 — Students used images to capture all context.** Contrary to the expectation of verbal descriptions, students routinely photographed both the physical circuit and the exam assignment and uploaded them to the LLM. The authors attribute this to time pressure and the convenience of photos. This [[multimodal|multimodal]] preference sets up the central tension of the study: students want to lean on visual evidence, but the AI's visual reasoning is precisely where it fails.
 
 ## Findings: LLM Strengths
 

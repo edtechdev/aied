@@ -18,7 +18,7 @@ methods: [quantitative-research]
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Using TALIS 2024 data from 56,669 teachers, with a primary allocation analysis of 24,058 AI users across 46 education systems, this study separates [[generative-ai|AI]] adoption from task allocation: which parts of a [[teacher-role|teacher]]'s work the tool actually enters. AI use rises with perceived task demand, and within a teacher it tracks the task they find harder — but the pattern is not uniform. Lesson planning and [[special-education]] support attract AI (OR = 1.084 and OR = 1.442), while [[assessment]] and marking pull away from it (OR = 0.921), the opposite of what a simple effort-reduction story predicts.
+> **Synthesis:** Using TALIS 2024 data from 56,669 teachers, with a primary allocation analysis of 24,058 AI users across 46 education systems, this study separates [[generative-ai|AI]] adoption from task allocation: which parts of a [[teacher-role|teacher]]'s work the tool actually enters. AI use rises with perceived task demand, and within a teacher it tracks the task they find harder — but the pattern is not uniform. Lesson planning and [[special-education|special education]] support attract AI (OR = 1.084 and OR = 1.442), while [[assessment|assessment]] and marking pull away from it (OR = 0.921), the opposite of what a simple effort-reduction story predicts.
 
 ## Key Findings
 1. **Adoption rises with demand but only modestly.** A one-point increase in average task demand across three matched domains was associated with 8.4% higher odds of reporting any AI use (OR = 1.084, 95% CI [1.050, 1.120], p < .001).

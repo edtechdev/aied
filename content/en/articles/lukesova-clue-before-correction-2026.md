@@ -14,17 +14,17 @@ confidence: high
 audience: [instructors, curriculum designers]
 ---
 
-> **Synthesis:** Lukešová and Jennings (2026) present a generative-AI-supported revision task that promotes learner autonomy and metacognitive [[student-engagement|engagement]] in L2 writing through a **"clue before correction"** strategy: learners receive guided hints and must infer correct solutions rather than being given direct error correction by ChatGPT. With 58 university students (CEFR A1–B1), they found ChatGPT provided structured, adaptive feedback that reduced cognitive load and supported personalized revision — a design that operationalizes learning-from-errors and productive-failure principles with AI.
+> **Synthesis:** Lukešová and Jennings (2026) present a generative-AI-supported revision task that promotes learner autonomy and metacognitive [[student-engagement|engagement]] in L2 writing through a **"clue before correction"** strategy: learners receive guided hints and must infer correct solutions rather than being given direct error correction by ChatGPT. With 58 university students (CEFR A1–B1), they found ChatGPT provided structured, adaptive [[feedback|feedback]] that reduced cognitive load and supported personalized revision — a design that operationalizes learning-from-errors and productive-failure principles with AI.
 
 ## Core design: clue before correction
 
-Unlike traditional [[conversational-ai|chatbot]] use for direct error correction (which positions learners as passive recipients), this activity is intentionally structured to require **active [[problem-solving]]**: students are prompted to infer correct solutions from guided hints. This is a concrete instance of learning from errors/mistakes — the learner is pushed to diagnose and correct their own errors with clue-based [[scaffolding]] rather than being told the answer.
+Unlike traditional [[conversational-ai|chatbot]] use for direct error correction (which positions learners as passive recipients), this activity is intentionally structured to require **active [[problem-solving|problem-solving]]**: students are prompted to infer correct solutions from guided hints. This is a concrete instance of learning from errors/mistakes — the learner is pushed to diagnose and correct their own errors with clue-based [[scaffolding|scaffolding]] rather than being told the answer.
 
 ## Findings
 
 - **Reduced cognitive load:** ChatGPT provided structured, adaptive feedback that reduced cognitive load and supported personalized revision pathways, particularly for more proficient learners (those with sufficient [[prior-knowledge|prior knowledge]]).
 - **[[prompt-engineering|Prompting]] matters:** learner prompting behavior strongly influenced [[ai-feedback-quality|feedback quality]] and depth — prompting is itself a skill learners develop over time, so outcomes vary with proficiency, prompting ability, and model interpretation.
-- **Learning-gains framing:** the paper cites that elaborative [[feedback]] produces significantly higher [[learning-gains|learning gains]] than verification-only feedback (Hattie & Timperley), and that feedback timing matters — supporting the value of clue-based (elaborative) over direct-corrective feedback.
+- **Learning-gains framing:** the paper cites that elaborative [[feedback|feedback]] produces significantly higher [[learning-gains|learning gains]] than verification-only feedback (Hattie & Timperley), and that feedback timing matters — supporting the value of clue-based (elaborative) over direct-corrective feedback.
 - **[[icap-framework|ICAP]]-ME framework:** a new [[pedagogy|pedagogical]] framework extending ICAP to include metacognitive and [[affective-computing|affective]] dimensions, used to analyze AI-mediated learning engagement.
 
 ## Design principles
@@ -33,7 +33,7 @@ The underlying, language-agnostic principles are **error elicitation, clue-based
 
 ## Relevance to the knowledge base
 
-This paper is an empirical example of error-driven, autonomy-supporting AI pedagogy. It connects [[productive-failure]] and learning-from-mistakes to [[language-learning]] and [[generative-ai]], showing how AI can scaffold learners to diagnose and correct their own errors (clue-before-correction) rather than passively receive fixes. It connects to [[metacognition]] (reflective engagement), [[self-regulated-learning]] (autonomy), [[cognitive-offloading|Cognitive Load Theory]], and [[feedback]] (formative, elaborative).
+This paper is an empirical example of error-driven, autonomy-supporting AI pedagogy. It connects [[productive-failure|productive failure]] and learning-from-mistakes to [[language-learning|language learning]] and [[generative-ai|generative AI]], showing how AI can scaffold learners to diagnose and correct their own errors (clue-before-correction) rather than passively receive fixes. It connects to [[metacognition|metacognition]] (reflective engagement), [[self-regulated-learning|self-regulated learning]] (autonomy), [[cognitive-offloading|Cognitive Load Theory]], and [[feedback|feedback]] (formative, elaborative).
 
 ## What this means for practice
 

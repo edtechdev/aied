@@ -20,7 +20,7 @@ pedagogy: [tpack]
 ## Key Findings
 
 - **Technological Knowledge (TK), Pedagogical Knowledge (PK), and Pedagogical Content Knowledge (PCK)** were each significantly associated with teachers' overall TPACK-GenAI.
-- **Technological Pedagogical Knowledge (TPK) serves as a key mediator**, carrying part of the association between other knowledge components and teachers' TPACK-GenAI — consistent with the study's subtitle, the movement "from proficiency to [[pedagogy]]."
+- **Technological Pedagogical Knowledge (TPK) serves as a key mediator**, carrying part of the association between other knowledge components and teachers' TPACK-GenAI — consistent with the study's subtitle, the movement "from proficiency to [[pedagogy|pedagogy]]."
 - [[qualitative-research|Qualitative]] interviews illuminate how teachers translate GenAI proficiency into pedagogically sound classroom decisions, and where support is still needed.
 - Findings reinforce that GenAI integration is a knowledge-and-pedagogy challenge, not merely a tool-access question.
 

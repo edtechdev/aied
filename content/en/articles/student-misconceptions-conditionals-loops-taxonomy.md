@@ -16,7 +16,7 @@ sources: ['raw/papers/2605.26966.md']
 methods: [benchmark, mixed-methods-research]
 ---
 
-> **Synthesis:** Rather than treating every wrong answer as one undifferentiated error, this paper splits novice difficulties with conditionals and loops by the concept students fail to grasp and by how they fail to grasp it. The hierarchy, 5 error categories for selection and 7 for iteration, gives [[cs-education]] researchers and tool builders a shared vocabulary for [[misconceptions]], and shows how one visible error can mask distinct mental models.
+> **Synthesis:** Rather than treating every wrong answer as one undifferentiated error, this paper splits novice difficulties with conditionals and loops by the concept students fail to grasp and by how they fail to grasp it. The hierarchy, 5 error categories for selection and 7 for iteration, gives [[cs-education|CS education]] researchers and tool builders a shared vocabulary for [[misconceptions|misconceptions]], and shows how one visible error can mask distinct mental models.
 
 Eckert and Kautz (Hamburg University of Technology) present a fine-grained taxonomy of novice programmers' difficulties reading and understanding two control-flow constructs: selection and iteration. It was built through the Extended Taxonomy [[design-thinking|Design Process]] (ETDP), which alternates between existing literature and the authors' own data — semi-structured interviews and written tests in introductory programming courses — and aims to give a harmonized framework for classifying student errors and judging whether a discovered error is new or a known facet.
 

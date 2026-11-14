@@ -1,7 +1,7 @@
 ---
 title: English Education (EAP / EFL / ESL)
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -15,7 +15,7 @@ connected_resources: [teacher-dev]
 reviewed_by: [editor]
 ---
 
-> **English education** — the application of AI to the [[teacher-role|teaching]] and learning of English, especially **English for Academic Purposes (EAP)** and English language teaching more broadly (EFL/ESL/L2). This is a [[discipline-specific-aied|discipline-specific]] [[ai-education|AIEd]] strand distinct from both general [[language-learning]] (second/foreign-language acquisition of any language) and [[writing-education]] (writing as a general skill): it centers on English as a target language and academic register, with its own signature pedagogies — communicative competence, genre-based academic writing, corrective feedback, and reading/writing in an academic register — that shape how AI is designed, used, and evaluated.
+> **English education** — the application of AI to the [[teacher-role|teaching]] and learning of English, especially **English for Academic Purposes (EAP)** and English language teaching more broadly (EFL/ESL/L2). This is a [[discipline-specific-aied|discipline-specific]] [[ai-education|AIEd]] strand distinct from both general [[language-learning|language learning]] (second/foreign-language acquisition of any language) and [[writing-education|writing education]] (writing as a general skill): it centers on English as a target language and academic register, with its own signature pedagogies — communicative competence, genre-based academic writing, corrective feedback, and reading/writing in an academic register — that shape how AI is designed, used, and evaluated.
 
 ## Questions to Consider
 
@@ -26,23 +26,23 @@ reviewed_by: [editor]
 
 ## Introduction
 
-English is one of the most AI-affected discipline strands because [[llm|LLMs]] are English-dominant: they are strongest at generating, revising, and evaluating English text, which is exactly what EAP and EFL/ESL instruction centers on. That English-advantage creates a distinctive double edge — powerful [[scaffolding]] for academic English on one hand, and an entrenched bias toward standard academic English that can marginalize multilingual learners on the other.
+English is one of the most AI-affected discipline strands because [[llm|LLMs]] are English-dominant: they are strongest at generating, revising, and evaluating English text, which is exactly what EAP and EFL/ESL instruction centers on. That English-advantage creates a distinctive double edge — powerful [[scaffolding|scaffolding]] for academic English on one hand, and an entrenched bias toward standard academic English that can marginalize multilingual learners on the other.
 
 ## Scope and focus
 
 This concept organizes AI [[research-methods-aied|research]] in **English education** — the subset of language learning where the target language is English (including EFL/ESL/L2 contexts) and the academic-English register (EAP). Core themes:
 
 - **Academic English (EAP):** AI support for the genre-based, discipline-specific English used in higher-education writing, reading, and feedback — distinct from general writing instruction.
-- **English language teaching (EFL/ESL/L2):** [[intelligent-tutoring|AI tutors]], interlocutors, and [[feedback]] tools for learners acquiring English.
-- **English-specific [[assessment]]:** automated evaluation and feedback on English writing and speaking, including EAP writing revision and L2 writing assessment.
+- **English language teaching (EFL/ESL/L2):** [[intelligent-tutoring|AI tutors]], interlocutors, and [[feedback|feedback]] tools for learners acquiring English.
+- **English-specific [[assessment|assessment]]:** automated evaluation and feedback on English writing and speaking, including EAP writing revision and L2 writing assessment.
 - **Reading and literature [[reading-education|readability]]:** [[bird-multimodal-educational-literature-2026|Bird (2026)]] fuses transformer text classification with computational-linguistics features to classify English literature by UK Key Stage, reaching an F1 of 0.996 — a scalable, data-driven complement to genre-based EAP reading support and reading-level alignment.
 - **Linguistic equity:** the tension between AI's English dominance and the needs of multilingual and World Englishes writers.
 
 ## How English education differs from Language Learning
 
-[[language-learning]] is the broader umbrella for acquiring any second/foreign language — spoken, written, and literate — via AI interlocutors, pronunciation tools, and conversational practice. English education is the **English-specific** case, and within it, EAP is a **register-specific** case:
+[[language-learning|Language learning]] is the broader umbrella for acquiring any second/foreign language — spoken, written, and literate — via AI interlocutors, pronunciation tools, and conversational practice. English education is the **English-specific** case, and within it, EAP is a **register-specific** case:
 
-| Dimension | [[language-learning]] | **English education** |
+| Dimension | [[language-learning|language learning]] | **English education** |
 |-----------|----------------------|-----------------------------------|
 | Target language | Any L2 (French, Spanish, Japanese, …) | English specifically |
 | Focus | L2 acquisition generally: [[speech-and-voice-technologies|spoken dialogue]], pronunciation, literacy | English as a target + the academic-English register |
@@ -53,12 +53,12 @@ The two overlap heavily (most English learning is also L2 acquisition), but Engl
 
 ## How English education differs from Writing Education
 
-[[writing-education]] concerns writing as a general cognitive and rhetorical skill — across all languages and disciplines, from composition to academic integrity. English education focuses specifically on **English** and, within EAP, on the **academic register**:
+[[writing-education|Writing education]] concerns writing as a general cognitive and rhetorical skill — across all languages and disciplines, from composition to academic integrity. English education focuses specifically on **English** and, within EAP, on the **academic register**:
 
-| Dimension | [[writing-education]] | **English education** |
+| Dimension | [[writing-education|writing education]] | **English education** |
 |-----------|----------------------|-----------------------------------|
 | Scope | Writing in general (any language, any genre) | English as target language + academic English register |
-| Signature concern | Composition, revision, [[agency]], authorship | EAP genre, academic register, L2/EFL writing, [[feedback-literacy|feedback literacy]] in English |
+| Signature concern | Composition, revision, [[agency|agency]], authorship | EAP genre, academic register, L2/EFL writing, [[feedback-literacy|feedback literacy]] in English |
 | Assessment angle | [[automated-essay-scoring|Automated essay scoring]], writing feedback broadly | English-specific assessment (EAP writing, EFL [[peer-assessment|peer feedback]], L2 writing evaluation) |
 | Equity angle | Bias in writing feedback | Bias + the English-dominance/multilingual tension (World Englishes) |
 
@@ -82,8 +82,8 @@ A Scopus-based synthesis of 54 EFL studies locates the field's most-reported [[l
 - **Exploit AI's strength for academic English, deliberately.** Because models are strongest in English and standard academic English, EAP instructors can deploy AI for genre-based writing, reading-material differentiation ([[genai-differentiated-eap-reading-materials-2026|EAP materials]]), and revision feedback — but should frame AI as a drafting/feedback partner, not an answer engine.
 - **Protect academic-English register and [[feedback-literacy|feedback literacy]].** [[feedback-literacy-scripts-eap-writing|EAP writing revision]] shows feedback is only as productive as the learner's feedback literacy — teach students to interpret, judge, and act on AI feedback, and use second-rater mechanisms to check AI quality.
 - **Watch the English-dominance equity tension.** Models privilege standard academic English, marginalizing World Englishes and multilingual writers ([[genai-linguistic-diversity-academic-writing|World Englishes]], [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]]) — audit feedback for monolingual bias and lowered expectations.
-- **Integrate AI ethically into EAP.** [[alharbi-ethical-genai-eap-2026|Ethical GenAI in EAP]] calls for transparent, responsible use in [[higher-ed]] English teaching that preserves academic integrity.
-- **Expect cautious, preparatory-first adoption.** A [[li-language-educators-genai-review-2026|systematic review of 23 studies]] (Li et al. 2026) finds language educators value [[generative-ai|GenAI]] most for behind-the-scenes preparation — lesson planning, materials creation, and writing support/feedback — while hesitating on direct classroom use, with primary concerns centering on [[academic-integrity|academic integrity]] (plagiarism and [[assessment-validity|assessment validity]]). Adoption is shaped by professional-identity, [[pedagogy|pedagogical]], technical, [[governance|institutional]], and integrity factors, and competency gaps map to episteme (understanding AI's capabilities/limits), techne ([[prompt-engineering]], AI-enhanced task/assessment design, detecting AI-generated text), and phronesis ([[ethics|ethical]] judgment, bias/privacy handling) — so EAP/EFL instructors should build these competencies deliberately and plan a "back-end then classroom" implementation.
+- **Integrate AI ethically into EAP.** [[alharbi-ethical-genai-eap-2026|Ethical GenAI in EAP]] calls for transparent, responsible use in [[higher-ed|higher education]] English teaching that preserves academic integrity.
+- **Expect cautious, preparatory-first adoption.** A [[li-language-educators-genai-review-2026|systematic review of 23 studies]] (Li et al. 2026) finds language educators value [[generative-ai|GenAI]] most for behind-the-scenes preparation — lesson planning, materials creation, and writing support/feedback — while hesitating on direct classroom use, with primary concerns centering on [[academic-integrity|academic integrity]] (plagiarism and [[assessment-validity|assessment validity]]). Adoption is shaped by professional-identity, [[pedagogy|pedagogical]], technical, [[governance|institutional]], and integrity factors, and competency gaps map to episteme (understanding AI's capabilities/limits), techne ([[prompt-engineering|prompt engineering]], AI-enhanced task/assessment design, detecting AI-generated text), and phronesis ([[ethics|ethical]] judgment, bias/privacy handling) — so EAP/EFL instructors should build these competencies deliberately and plan a "back-end then classroom" implementation.
 - **Differentiate by proficiency and need.** [[ai-vs-human-assessment-efl-tpck-2026|EFL assessment]] and adaptive tutoring research support tailoring AI support and evaluation to learners' level rather than one-size-fits-all.
 
 - **Weight technology toward production.** Across 33 TEFL studies, the pooled estimate was small-to-moderate (g = 0.38, reduced to 0.28 by trim-and-fill) and rose with educational level, favoring productive skills — speaking and writing — over receptive ones ([[liu-emerging-tech-tefl-review-2026|Liu, Hashim & Sulaiman (2026)]]).

@@ -76,7 +76,7 @@ One caution belongs with that story. The moderator is a three-item student perce
 - Students were nested in six colleges, but class and college identifiers were unavailable, so clustering was not modeled and the standard errors may be understated.
 - The cognitive-load composite excludes germane load by design, and the authors caution against generalizing to cognitive load as a whole.
 - Attrition from 920 to 784 (136 cases) could not be tested against baseline characteristics, since nonretained cases had no individual records; selective attrition remains possible.
-- The sample is confined to higher vocational colleges in one Chinese province, and [[self-efficacy]], though discussed as theoretical background, was not measured, so it cannot be ruled out as an alternative mechanism.
+- The sample is confined to higher vocational colleges in one Chinese province, and [[self-efficacy|self-efficacy]], though discussed as theoretical background, was not measured, so it cannot be ruled out as an alternative mechanism.
 
 ## Citation
 

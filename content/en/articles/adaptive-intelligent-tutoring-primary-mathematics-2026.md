@@ -34,7 +34,7 @@ Both groups used the same tutor, developed by the research team on the CTAT+Tuto
 
 ## Why isolated difficulty adaptation may not have helped
 
-Three explanations deserve separating. The first is developmental: younger students possess limited [[self-regulated-learning|self-regulation]] and [[metacognition|metacognitive]] monitoring, while [[adaptive-learning|adaptive systems]] presuppose that learners can engage with feedback, regulate effort, and stay focused. The second is the comparison itself: contrasting the [[intelligent-tutoring|adaptive tutor]] with a structurally equivalent non-adaptive one isolates difficulty adaptation but narrows the expected effect, since the added value of adaptivity shrinks against an equivalent digital environment. The third is exposure: 30 min may be too brief for a [[student-modeling|learner model]] to converge. The authors do not conclude that adaptivity is useless; they argue that lowering task complexity is the wrong lever for young learners and that adjusting instructional support instead — more [[scaffolding]], guidance, or hints — is more promising.
+Three explanations deserve separating. The first is developmental: younger students possess limited [[self-regulated-learning|self-regulation]] and [[metacognition|metacognitive]] monitoring, while [[adaptive-learning|adaptive systems]] presuppose that learners can engage with feedback, regulate effort, and stay focused. The second is the comparison itself: contrasting the [[intelligent-tutoring|adaptive tutor]] with a structurally equivalent non-adaptive one isolates difficulty adaptation but narrows the expected effect, since the added value of adaptivity shrinks against an equivalent digital environment. The third is exposure: 30 min may be too brief for a [[student-modeling|learner model]] to converge. The authors do not conclude that adaptivity is useless; they argue that lowering task complexity is the wrong lever for young learners and that adjusting instructional support instead — more [[scaffolding|scaffolding]], guidance, or hints — is more promising.
 
 ## Progression, measurement, and what the trial cannot show
 
@@ -44,14 +44,14 @@ Two exploratory analyses complicate the null result. Mastery-gated progression k
 
 - **Instructors.** A difficulty-adaptive tutor is not automatically better than a fixed sequence: posttest means were 10.30 (SD = 3.86) versus 9.98 (SD = 3.99), with no condition effect (p = .574).
 - **Instructional designers.** Choose progression logic deliberately: mastery gating held adaptive students at unsolved skills (M = 0.58), while non-adaptive students advanced further (M = 0.67).
-- **Designers.** For young learners, adapt the level of support rather than task difficulty: the authors recommend more [[scaffolding]], guidance, or hints when students struggle.
+- **Designers.** For young learners, adapt the level of support rather than task difficulty: the authors recommend more [[scaffolding|scaffolding]], guidance, or hints when students struggle.
 - **Researchers.** Do not read a condition effect from an intervention-derived covariate as causal; the d = 0.46 ANCOVA result is a signal about progression only.
 
 ## Limitations
 
 - The intervention lasted only 30 min; the authors state that the short duration and the field-based design may have constrained observable effects, and no delayed posttest was run.
 - The non-adaptive comparison was equivalent in interface, content, and feedback, which isolates difficulty adaptation but likely narrows the expected effect size.
-- No data-collection year or preregistration identifier is reported, and the tutor is rule-based (CTAT+TutorShop, default BKT parameters), so the null result may not extend to [[llm]] tutors.
+- No data-collection year or preregistration identifier is reported, and the tutor is rule-based (CTAT+TutorShop, default BKT parameters), so the null result may not extend to [[llm|LLM]] tutors.
 
 ## Citation
 

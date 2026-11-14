@@ -14,7 +14,7 @@ page_kind: [synthesis]
 methods: [meta-analysis-systematic-review]
 ---
 
-> **Synthesis:** Alon, Hadar Shoval, and Levkovich (2026) conduct a systematic literature review mapping and analyzing empirical studies that examine bias and representation in educational uses of AI-generated text-to-image tools. Following PRISMA guidelines, they identify 31 peer-reviewed studies published between 2023 and 2025 across [[k-12]], [[higher-ed|higher education]], and professional learning contexts. Using a six-part analytic framework (gender; race, ethnicity, and socioeconomic status; culture and religion; age; body and (dis)ability; and content), they find that biased representation was pervasive: images frequently centered white, male, Western, thin, and non-disabled figures, while diversity related to age, body, and ability was largely overlooked. Most studies relied on image audits and [[qualitative-research|qualitative]] methods, with few experimental or intervention-based designs.
+> **Synthesis:** Alon, Hadar Shoval, and Levkovich (2026) conduct a systematic [[meta-analysis-systematic-review|literature review]] mapping and analyzing empirical studies that examine bias and representation in educational uses of AI-generated text-to-image tools. Following PRISMA guidelines, they identify 31 peer-reviewed studies published between 2023 and 2025 across [[k-12]], [[higher-ed|higher education]], and professional learning contexts. Using a six-part analytic framework (gender; race, ethnicity, and socioeconomic status; culture and religion; age; body and (dis)ability; and content), they find that biased representation was pervasive: images frequently centered white, male, Western, thin, and non-disabled figures, while diversity related to age, body, and ability was largely overlooked. Most studies relied on image audits and [[qualitative-research|qualitative]] methods, with few experimental or intervention-based designs.
 
 ## Key Findings
 
@@ -26,7 +26,7 @@ methods: [meta-analysis-systematic-review]
 
 ## What this means for practice
 
-- **Designers.** Build guided critique into every [[multimodal|text-to-image]] activity — comparison against authoritative sources, identifying where an image functions as evidence versus illustration, and reflective discussion — because learners without [[scaffolding]] treated generated images as realistic depictions.
+- **Designers.** Build guided critique into every [[multimodal|text-to-image]] activity — comparison against authoritative sources, identifying where an image functions as evidence versus illustration, and reflective discussion — because learners without [[scaffolding|scaffolding]] treated generated images as realistic depictions.
 - **Designers.** Treat age, body, and (dis)ability as first-class representation targets: they were the least examined dimensions across the 31 reviewed studies and consistently underrepresented in outputs.
 - **Researchers.** Move from image audits to intervention-based designs with comparable tasks, prompts, and evaluation criteria, since few experimental or intervention studies exist and developmental comparisons remain unsupported.
 - **Researchers.** Report prompts, tool settings, sampling procedures, and model versions in every audit, and favor longitudinal or repeated-prompt designs, because model updates make documented outputs non-reproducible.

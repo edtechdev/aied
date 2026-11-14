@@ -1,7 +1,7 @@
 ---
 title: Institutional AI Infrastructure
 created: "2026-11-12T07:36:15-05:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 connected_resources: [mindrouter, amplify-genai]
 technology: [llm, generative-ai, open-source, edtech-platform]
@@ -19,7 +19,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Institutional AI infrastructure** — the computing, serving, routing and control layer an institution operates so that models can be used across teaching, research and administration under its own rules. It spans the GPUs and clusters that hold the weights, the inference servers that answer requests, the [[llm|gateway]] that meters and routes them, the model cards and audit logs that make the arrangement inspectable, the data pipelines that connect student records to models, and the staff who keep all of it running. It is not the same object as an [[edtech-platform|edtech platform]] (the learner-facing container) or [[governance]] (the policy that constrains both).
+> **Institutional AI infrastructure** — the computing, serving, routing and control layer an institution operates so that models can be used across teaching, research and administration under its own rules. It spans the GPUs and clusters that hold the weights, the inference servers that answer requests, the [[llm|gateway]] that meters and routes them, the model cards and audit logs that make the arrangement inspectable, the data pipelines that connect student records to models, and the staff who keep all of it running. It is not the same object as an [[edtech-platform|edtech platform]] (the learner-facing container) or [[governance|governance]] (the policy that constrains both).
 
 ## Questions to Consider
 
@@ -62,7 +62,7 @@ Three implementations now describe the same architectural move with unusual cons
 
 [[huijts-suilen-institutional-ai-sovereignty-gateway-2025|Huijts and Suilen]] at Fontys ICT separate a ChatGPT-style frontend tied to institutional identity, a routing core that enforces budgets and regional constraints, and a provider layer of local and commercial models. Six months and 300 users later, a \$500 monthly cap had never been breached, and every session opened with a model card naming capabilities, hosting region, cost and alternatives.
 
-[[sheneman-mindrouter-institutional-ai-sovereignty-2026|MindRouter]] pushes the same idea into scheduling. Requests are weighted by role ([[administrator]] 10, faculty 5, staff 2, student 1) through Weighted Deficit Round Robin, and backend selection adds soft scores for latency, load and administrator preference. The gateway keeps the audit log, and it meters energy as well as tokens.
+[[sheneman-mindrouter-institutional-ai-sovereignty-2026|MindRouter]] pushes the same idea into scheduling. Requests are weighted by role ([[administrator|administrator]] 10, faculty 5, staff 2, student 1) through Weighted Deficit Round Robin, and backend selection adds soft scores for latency, load and administrator preference. The gateway keeps the audit log, and it meters energy as well as tokens.
 
 [[rahaman-soa-on-prem-ai-gateway-2026|SPIN at Georgia Tech]] makes the split explicit at the API boundary: LiteLLM and PostgreSQL on a CPU-only virtual machine, vLLM and Triton on GPU nodes inside Slurm, with backend host, port and key resolved from the database at request time. Replacing a model becomes a database update invisible to clients.
 
@@ -70,7 +70,7 @@ The differences are instructive. Fontys governs a multi-provider portfolio, Mind
 
 ## Serving is a policy, not a benchmark
 
-[[rodenbeck-purdue-on-prem-genai-inference-2025|Purdue's two services]] reached over 1000 users on 10+ [[open-source]] models for roughly \$100,000 in hardware, with about 40% active monthly. The decision that matters is that the team kept Ollama rather than vLLM despite vLLM's 4-5x throughput advantage, because supporting many models mattered more than raw speed for a community that wants to try things.
+[[rodenbeck-purdue-on-prem-genai-inference-2025|Purdue's two services]] reached over 1000 users on 10+ [[open-source|open source]] models for roughly \$100,000 in hardware, with about 40% active monthly. The decision that matters is that the team kept Ollama rather than vLLM despite vLLM's 4-5x throughput advantage, because supporting many models mattered more than raw speed for a community that wants to try things.
 
 SPIN's load test gives the other half of the picture. Against a mocked engine at 1000 concurrent requests per second, an 8-vCPU gateway VM reached 76% of the ideal aggregate rate, while 8-worker bare metal reached 98%. The proxy tier is cheap until it is not, and the threshold is measurable rather than mysterious.
 

@@ -1,7 +1,7 @@
 ---
 title: Interpreting and Applying AIEd Research
 created: "2026-09-19T05:41:27-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -28,7 +28,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-The guidance is for people who have to decide something: an instructor wondering whether to change an assignment, an [[administrator]] weighing a pilot, a learning designer building a course, a software developer deciding what a feature should do, or a researcher explaining a finding to any of them.
+The guidance is for people who have to decide something: an instructor wondering whether to change an assignment, an [[administrator|administrator]] weighing a pilot, a learning designer building a course, a software developer deciding what a feature should do, or a researcher explaining a finding to any of them.
 
 Two habits make the difference, and neither needs research training.
 
@@ -44,7 +44,7 @@ Ask these before you spend time, money, or a semester on something.
 
 **1. What was it compared against, and was that comparison fair?** "Students who used the AI did better than students who didn't" only tells you something if the other students were doing something real. If the comparison was business as usual — or nothing — then the finding bundles the tool together with extra time, extra attention and novelty. What to look for: a **control group** that got a credible alternative, and random assignment to the two conditions.
 
-**2. What exactly did they measure?** This is where most exciting claims quietly fail. Test scores, homework quality, [[motivation]], attitudes and [[student-engagement|engagement]] get pooled into a single "achievement" number, or a measure of performance *with the tool present* gets reported as learning. Learning that depends on the tool being there is not the same as learning that lasts. What to look for: what the instrument measured, whether it was validated for that population, and whether an outcome was measured **without** the AI in the room.
+**2. What exactly did they measure?** This is where most exciting claims quietly fail. Test scores, homework quality, [[motivation|motivation]], attitudes and [[student-engagement|engagement]] get pooled into a single "achievement" number, or a measure of performance *with the tool present* gets reported as learning. Learning that depends on the tool being there is not the same as learning that lasts. What to look for: what the instrument measured, whether it was validated for that population, and whether an outcome was measured **without** the AI in the room.
 
 **3. Who was studied, how many, and for how long?** Thirty students in one course is a signal, not a result. A four-week intervention cannot tell you about a year. And a study of students unlike yours is still useful — it is a hypothesis about your setting, not a prediction. What to look for: sample size, how participants were recruited, single site, duration, and whether any subgroup was large enough to analyze.
 
@@ -58,7 +58,7 @@ If you remember one thing, remember that the headline number is usually inflated
 - **A product name is not a teaching method.** Auditing the comparisons behind a prominent meta-analysis, [[weidlich-chatgpt-effect-search-cause-2025|Weidlich et al. (2025)]] found only **21%** had a well-defined treatment, a control group and a valid learning measure — and the reported advantage for "using ChatGPT" came out larger than for purpose-built [[intelligent-tutoring|intelligent tutoring systems]] (g = 0.7 against 0.66), which is a warning sign rather than a triumph.
 - **Performance with the tool is routinely mistaken for learning.** In one [[k-12|K-12]] math study, students practicing with a general-purpose [[conversational-ai|chatbot]] earned better practice grades and then scored **about 17% worse** than peers with no AI access on the closed-book final ([[stanford-evidence-base-ai-k12-2026|Stanford's evidence base for AI in K-12]]).
 - **The field's own reviews do not survive audit.** [[oneill-presumed-effective-meta-analysis-2026|O'Neill's (2026)]] audit of **14 peer-reviewed meta-analyses** claiming AI improves education found that **none** provided a valid basis for the claims it advanced, and among 46 randomly selected primary studies, **61%** presented validity concerns. The problem is not one bad paper; it is a reporting culture.
-- **A review can quantify the reporting skew in the studies it reviewed.** A systematic review of 155 higher-education studies found 117 (75.5%) reported successful implementation, 124 (80.0%) covered short-term impact only, and just 23 (14.8%) reported on [[ethics]], equity or governance failures — the imbalance the checks above describe, measured on the review's own evidence base ([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga (2026)]]).
+- **A review can quantify the reporting skew in the studies it reviewed.** A systematic review of 155 higher-education studies found 117 (75.5%) reported successful implementation, 124 (80.0%) covered short-term impact only, and just 23 (14.8%) reported on [[ethics|ethics]], equity or governance failures — the imbalance the checks above describe, measured on the review's own evidence base ([[ai-higher-ed-service-delivery-systematic-review-2026|Nyamboga (2026)]]).
 - **Self-reports flatter everyone.** People rate their own [[ai-literacy|AI skills]] about **40%** higher than performance measures show, which is why satisfaction and confidence surveys are the weakest evidence you can act on ([[self-report-measures|Self-Report Measures]], [[educational-measurement|Educational Measurement]]).
 - **Most products already in classrooms have no independent evidence at all.** [[instruction-partners-ai-in-action-learning-tour-2026|Instruction Partners' 2025–26 learning tour]] profiled 20 student-facing AI products and found that, of the 16 with complete profiles, only seven had an independent review examining [[learning-gains|student achievement]] across student groups in the US; two were studied only abroad, four had studies underway and three relied on internal data alone. The authors argue that independent causal studies covering priority groups should be the expectation for all student-facing products — not yet the norm for tools schools are already using.
 
@@ -105,7 +105,7 @@ The same checks invert into design requirements, and the evaluation literature c
 - **Measure the unsupported condition.** If your outcome is learning, include a task completed without the tool; assisted performance alone will mislead you as much as it misleads your buyers.
 - **Report how your automated judgments were validated** — the gold standard, the calibration target, who adjudicated disagreements — and report it as reliability rather than quality.
 - **Name the version and the date** in any effectiveness claim, because your next release invalidates it.
-- **Show the counterweights:** cost per student, [[accessibility]], data handling, and what happens to learners on the free tier. See [[ai-use-disclosure|AI Use Disclosure]], [[privacy]] and [[governance]].
+- **Show the counterweights:** cost per student, [[accessibility|accessibility]], data handling, and what happens to learners on the free tier. See [[ai-use-disclosure|AI Use Disclosure]], [[privacy|privacy]] and [[governance|governance]].
 
 ## For readers who want the evidence
 
@@ -119,7 +119,7 @@ The checks above are not folk wisdom; they come from documented failures in this
 
 **[[assessment-validity|Validation]] of automated judgment is part of the result.** Agreement with human coders is a reliability statement, and the ceiling above shows why it is not the same as quality ([[machines-misread-pedagogical-quality|machines misread pedagogical quality]]).
 
-**Tool vintage is a first-class limitation.** A review of AI-assisted assessment notes that its own findings reflect specific model versions at specific times, and that field movement makes any account of model capabilities potentially outdated within months ([[ai-assisted-assessment-instruction-higher-ed-2026|AI-Assisted Assessment and Instruction in Higher Education]]). Scope claims to their generation: "[[generative-ai|generative AI]] improved X" is not portable, while "GPT-4-era tooling, in this task, with this [[scaffolding]]" is.
+**Tool vintage is a first-class limitation.** A review of AI-assisted assessment notes that its own findings reflect specific model versions at specific times, and that field movement makes any account of model capabilities potentially outdated within months ([[ai-assisted-assessment-instruction-higher-ed-2026|AI-Assisted Assessment and Instruction in Higher Education]]). Scope claims to their generation: "[[generative-ai|generative AI]] improved X" is not portable, while "GPT-4-era tooling, in this task, with this [[scaffolding|scaffolding]]" is.
 
 **Benchmark targets move**, so a result that a system saturates or fails today can invert with the next release; saturation and contamination checks belong beside any benchmark-based claim.
 

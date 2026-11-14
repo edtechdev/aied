@@ -57,7 +57,7 @@ Splitting teachers into thirds by student count — fewer than 22 students (113 
 - **Platform designers.** Light-touch prompts can move report use among teachers new to a tutoring system (12.5 percentage points in the first stage) but are wasted on teachers with large classes who already view reports at rates of 75% or higher; routing encouragement toward users with the most room to change behavior is the design lesson.
 - **Teachers.** Reviewing the assignment report after the first assignment is a concrete monitoring lever for completion: at least 2 percentage points more students completed the next assignment overall, and at least 24.5 percentage points more in classes with fewer than 44 students.
 - **Researchers.** In randomized-encouragement and instrumental-variable designs with weak instruments, Anderson-Rubin tests should be reported alongside 2SLS, because point estimates such as the 0.577 and 0.635 completion effects can be inflated and would mislead without the AR confidence interval as anchor.
-- **Evaluation practice.** Teacher-facing [[learning-analytics]] features can be tested causally at scale on a platform, and the nulls are informative: report viewing moved completion but not starting or value-added, so evaluation should measure participation and performance separately rather than expecting a single dashboard to move every outcome.
+- **Evaluation practice.** Teacher-facing [[learning-analytics|learning analytics]] features can be tested causally at scale on a platform, and the nulls are informative: report viewing moved completion but not starting or value-added, so evaluation should measure participation and performance separately rather than expecting a single dashboard to move every outcome.
 
 ## Limitations
 

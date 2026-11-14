@@ -12,9 +12,9 @@ sources: ['raw/papers/duan-ai-anxiety-career-decisions-college-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** **AI anxiety and career decisions** — a structural equation modeling study of 315 Chinese college students (grounded in Career Construction Theory) showing that **AI anxiety directly and negatively predicts career decisions**, and also exerts an adverse indirect effect by undermining **career adaptability** — with the mediating effect accounting for **63.35% of the total effect**. However, the moderating effect of [[self-efficacy]] was insignificant, indicating limited buffering capacity.
+> **Synthesis:** **[[anxiety-and-stress|AI anxiety]] and career decisions** — a structural equation modeling study of 315 Chinese college students (grounded in Career Construction Theory) showing that **AI anxiety directly and negatively predicts career decisions**, and also exerts an adverse indirect effect by undermining **career adaptability** — with the mediating effect accounting for **63.35% of the total effect**. However, the moderating effect of [[self-efficacy|self-efficacy]] was insignificant, indicating limited buffering capacity.
 
-Duan, Li, Lin, & Chen (2026) provide direct empirical evidence that career-related AI anxiety — fear of job displacement, diminished employability, and skill obsolescence — impairs students' career confidence, goal clarity, and decision-making. This is a core empirical anchor for the [[career-development-and-readiness]] concept's link to [[anxiety-and-stress]].
+Duan, Li, Lin, & Chen (2026) provide direct empirical evidence that career-related AI anxiety — fear of job displacement, diminished employability, and skill obsolescence — impairs students' career confidence, goal clarity, and decision-making. This is a core empirical anchor for the [[career-development-and-readiness|career development and readiness]] concept's link to [[anxiety-and-stress|anxiety and stress]].
 
 ## Method
 
@@ -32,7 +32,7 @@ Duan, Li, Lin, & Chen (2026) provide direct empirical evidence that career-relat
 ## What this means for practice
 
 - **Instructors.** Teach [[career-development-and-readiness|career adaptability]] directly, through planned curricula and practical career-planning experiences, because it carried 63.35% of AI anxiety's adverse effect on career decisions — the single largest lever available.
-- **Administrators.** Universalize [[ai-literacy]] and career-planning courses and deepen industry–education integration, so students build decision-making capability before AI [[anxiety-and-stress|anxiety]] erodes it.
+- **Administrators.** Universalize [[ai-literacy|AI literacy]] and career-planning courses and deepen industry–education integration, so students build decision-making capability before AI [[anxiety-and-stress|anxiety]] erodes it.
 - **Faculty developers.** Favor skill-building over confidence-raising: the null moderation result shows that general career self-efficacy does not buffer students against a systemic threat like AI, so programs that only raise self-belief will not close the gap.
 - **Researchers.** Measure career decisions against behavioral criteria — internship applications, career workshop attendance, job offers, and time to employment — because attitudinal scales alone cannot show whether anxiety changes what students actually do.
 

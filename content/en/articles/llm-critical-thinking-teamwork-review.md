@@ -14,13 +14,13 @@ audience: [instructors, administrators, policymakers]
 methods: [meta-analysis-systematic-review]
 ---
 
-> **Synthesis:** Can Large Language Models Foster Critical Thinking, Teamwork, and [[problem-solving]] Skills in [[higher-ed|Higher Education]]?: A [[meta-analysis-systematic-review|Literature Review]]
+> **Synthesis:** Can Large Language Models Foster [[critical-thinking|Critical Thinking]], Teamwork, and [[problem-solving|problem-solving]] Skills in [[higher-ed|Higher Education]]?: A [[meta-analysis-systematic-review|Literature Review]]
 
 ## Key Findings
 
 - Systematic literature review following the **PRISMA 2020 protocol**, searching the **Web of Science Core Collection** for studies published **2023–2024**; of **203 studies screened, 22 articles** were included (10 from search string A, 12 from search string B), and the review is **registered in PROSPERO (CRD420251165731)**.
 - LLMs often produce **incomplete or incorrect responses, [[prompt-engineering|prompting]] students to question, verify, and improve** the information — creating validation-and-correction cycles that the reviewed studies link to enhanced critical thinking and mental independence.
-- LLMs act as **catalysts for collaboration**: supporting idea generation, organization, and [[peer-assessment|peer feedback]], simulating rubric-based evaluations and expert reviews, and democratizing access to knowledge — promoting more equitable [[collaborative-learning]], especially in diverse and large-class settings.
+- LLMs act as **catalysts for collaboration**: supporting idea generation, organization, and [[peer-assessment|peer feedback]], simulating rubric-based evaluations and expert reviews, and democratizing access to knowledge — promoting more equitable [[collaborative-learning|collaborative learning]], especially in diverse and large-class settings.
 - For problem-solving, LLMs help students **explore alternative solutions, incorporate interdisciplinary perspectives, and simulate authentic real-world scenarios** — e.g., [[medical-education|clinical]] and [[ethics|ethical]] dilemmas in health sciences, and prototype testing, debugging, and refinement in [[stem-education|STEM]].
 - LLMs deliver **scalable, timely, personalized feedback** in large courses (near-instant responses reduce delay and dependence on instructor availability) and can **reduce faculty workload** by automating feedback on routine tasks such as drafts, quizzes, and structured assignments.
 - LLMs support **assessment reform**: generating rubrics and varied assessment items aligned with [[learning-gains|learning outcomes]], and shifting assessment from factual recall toward scenario-based, competency-based evaluation.
@@ -31,7 +31,7 @@ The review addressed four research questions (RQ1–RQ4) on how LLMs can foster 
 
 ## Main Findings
 
-- **Critical thinking:** students learn to evaluate the accuracy, consistency, and [[trust|trustworthiness]] of [[llm]]-generated content; effectively framing prompts improves their understanding and analytical skills, engaging them in comparison, synthesis, and assessment.
+- **Critical thinking:** students learn to evaluate the accuracy, consistency, and [[trust|trustworthiness]] of [[llm|LLM]]-generated content; effectively framing prompts improves their understanding and analytical skills, engaging them in comparison, synthesis, and assessment.
 - **Collaboration:** LLMs enrich teamwork by aiding idea generation and peer feedback, simulating expert or peer roles from various fields, and lowering participation barriers in large and diverse classes.
 - **Theory–practice gap:** [[simulation|simulations]], hands-on project work, and instant alternative solutions on error accelerate learning cycles and support self-management and independent learning via anytime/anywhere access.
 - **Feedback at scale:** LLM-supported feedback extends beyond one-way correction to become a social, iterative process, and enables students to generate practice tests and [[self-assessment|self-assessments]] that strengthen [[metacognition|metacognitive]] skills.
@@ -40,11 +40,11 @@ The review addressed four research questions (RQ1–RQ4) on how LLMs can foster 
 
 ## What this means for practice
 
-- **Instructors.** Turn model error into coursework: assign students to question, verify, and correct LLM output, the validation-and-correction cycle the reviewed studies link to [[critical-thinking]] and mental independence.
+- **Instructors.** Turn model error into coursework: assign students to question, verify, and correct LLM output, the validation-and-correction cycle the reviewed studies link to [[critical-thinking|critical thinking]] and mental independence.
 - **Instructors.** Use LLMs to generate practice tests, self-assessments, and rubric-based [[peer-assessment|peer feedback]] so feedback becomes an iterative, social process rather than one-way correction — a move the review ties to stronger [[metacognition|metacognitive]] skill.
 - **Administrators.** Deploy LLMs where feedback delay is the binding constraint, in large-enrollment courses, and pair that with [[generative-ai|GenAI]] literacy in curricula and explicit faculty preparation for responsible use.
 - **Policymakers.** Treat the reported benefits as conditional rather than automatic: the authors argue the impact depends on institutions establishing ethical, equitable, and sustainable adoption frameworks.
-- **Researchers.** Extend the evidence base beyond the review's window — its 22 included articles were published in 2023–2024 only, and no included document examined adoption challenges such as ethics or [[privacy]].
+- **Researchers.** Extend the evidence base beyond the review's window — its 22 included articles were published in 2023–2024 only, and no included document examined adoption challenges such as ethics or [[privacy|privacy]].
 
 ## Limitations
 

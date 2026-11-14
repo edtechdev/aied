@@ -16,7 +16,7 @@ page_kind: [framework]
 
 > **Synthesis:** Three system properties enable the fallacy via two cognitive mediators:
 
-> The [[llm]] fallacy is a **cognitive attribution error** in which users misinterpret LLM-assisted outputs as evidence of their own independent competence, producing a systematic divergence between **perceived and actual capability** (∆C). It is independent of output correctness — it persists whether the AI is accurate or hallucinating.
+> The [[llm|LLM]] fallacy is a **cognitive attribution error** in which users misinterpret LLM-assisted outputs as evidence of their own independent competence, producing a systematic divergence between **perceived and actual capability** (∆C). It is independent of output correctness — it persists whether the AI is accurate or hallucinating.
 
 ## Distinctions from Related Phenomena
 
@@ -55,15 +55,15 @@ Three system properties enable the fallacy via two cognitive mediators:
 ## Relationship to Existing Knowledge Base Concepts
 
 - [[metacognition]] — The LLM fallacy is a metacognitive calibration failure: students cannot accurately monitor their own understanding because fluent AI output creates false fluency signals
-- [[transfer-of-learning]] — Misattribution undermines transfer because students believe they have mastered material they have merely prompted; the gap between perceived and actual capability manifests as transfer failure
-- [[hazra-safetutors-pedagogical-safety-2026]] — SafeTutors' Cognitive (fluency illusion) and [[ethics|Ethical]]-Epistemic (misrepresentation) dimensions are tutoring-specific expressions of the fallacy
-- [[self-regulated-learning]] — Attribution ambiguity disrupts the self-evaluation phase of SRL, preventing accurate causal attribution and adaptation
+- [[transfer-of-learning|Transfer of learning]] — Misattribution undermines transfer because students believe they have mastered material they have merely prompted; the gap between perceived and actual capability manifests as transfer failure
+- [[hazra-safetutors-pedagogical-safety-2026|Hazra et al. (2026)]] — SafeTutors' Cognitive (fluency illusion) and [[ethics|Ethical]]-Epistemic (misrepresentation) dimensions are tutoring-specific expressions of the fallacy
+- [[self-regulated-learning|Self-regulated learning]] — Attribution ambiguity disrupts the self-evaluation phase of SRL, preventing accurate causal attribution and adaptation
 
 ## What this means for practice
 
 - **Instructors.** Require an explain-in-your-own-words step before submission and an unaided re-performance of the same task afterward: the misattribution persists whether the AI output is correct or hallucinated, so fluent work is never by itself evidence of the student's own competence.
-- **Instructors.** Name the mechanism out loud with students — polished, fluent output acts as a metacognitive cue for competence — and have them check their own [[cognitive-offloading|offloading]] rather than read ease as mastery. The fallacy needs a task that demands domain expertise, a seamless interaction, and fluent output, which is exactly AI-assisted writing, coding, and [[problem-solving]].
-- **Assessment designers.** Replace output-only grading with process-aware evidence of the human/system split, such as contribution provenance or an in-class unaided demonstration. AI mediation is invisible to both human and automated evaluators, and grades that rise while [[transfer-of-learning]] does not weaken what a credential signals.
+- **Instructors.** Name the mechanism out loud with students — polished, fluent output acts as a metacognitive cue for competence — and have them check their own [[cognitive-offloading|offloading]] rather than read ease as mastery. The fallacy needs a task that demands domain expertise, a seamless interaction, and fluent output, which is exactly AI-assisted writing, coding, and [[problem-solving|problem-solving]].
+- **Assessment designers.** Replace output-only grading with process-aware evidence of the human/system split, such as contribution provenance or an in-class unaided demonstration. AI mediation is invisible to both human and automated evaluators, and grades that rise while [[transfer-of-learning|transfer of learning]] does not weaken what a credential signals.
 - **Designers.** Cut the system properties that enable the fallacy: surface the reasoner's trace to reduce opacity and require iterative user refinement to reduce interactional immediacy, keeping the boundary between user contribution and system generation salient throughout the task.
 
 ## Limitations

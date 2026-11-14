@@ -27,7 +27,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Sherly, Efendi, Romy and Sudirman (2027) surveyed 200 teachers in North Sumatra Province, Indonesia, and found that [[ai-education|artificial intelligence]] use had no significant direct effect on teacher performance (β = 0.112, p = .087) while work-life balance (β = 0.290) and innovative work behavior (β = 0.110) did, with [[teacher-role|organizational citizenship behavior]] carrying the effect of AI indirectly. The result is read through [[change-management|sociotechnical systems theory]]: a tool changes what teachers do only once it is absorbed into the social and behavioral fabric of a school. The study is correlational and rests on [[self-report-measures]], so it explains the mechanism rather than proving that deploying AI improves instruction.
+> **Synthesis:** Sherly, Efendi, Romy and Sudirman (2027) surveyed 200 teachers in North Sumatra Province, Indonesia, and found that [[ai-education|artificial intelligence]] use had no significant direct effect on teacher performance (β = 0.112, p = .087) while work-life balance (β = 0.290) and innovative work behavior (β = 0.110) did, with [[teacher-role|organizational citizenship behavior]] carrying the effect of AI indirectly. The result is read through [[change-management|sociotechnical systems theory]]: a tool changes what teachers do only once it is absorbed into the social and behavioral fabric of a school. The study is correlational and rests on [[self-report-measures|self-report measures]], so it explains the mechanism rather than proving that deploying AI improves instruction.
 
 ## Key Findings
 

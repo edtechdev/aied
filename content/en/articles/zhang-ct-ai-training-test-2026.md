@@ -14,7 +14,7 @@ confidence: high
 audience: [assessment designers, researchers]
 ---
 
-> **Synthesis:** This study develops and validates the Computational Thinking in AI Training Test (CTAT) — a 34-item multiple-choice instrument built with the Evidence-Centered Design framework and validated via expert review, cognitive interviews, and a field test with 461 higher-education students (analyzed with [[item-response-theory|IRT]]). CTAT shows robust psychometric properties for assessing [[computational-thinking]] within AI-training contexts, and reveals that students struggle most with data representation, logical-operator sequencing, and loop structures.
+> **Synthesis:** This study develops and validates the Computational Thinking in AI Training Test (CTAT) — a 34-item multiple-choice instrument built with the Evidence-Centered Design framework and validated via expert review, cognitive interviews, and a field test with 461 higher-education students (analyzed with [[item-response-theory|IRT]]). CTAT shows robust psychometric properties for assessing [[computational-thinking|computational thinking]] within AI-training contexts, and reveals that students struggle most with data representation, logical-operator sequencing, and loop structures.
 
 ## Key Findings
 

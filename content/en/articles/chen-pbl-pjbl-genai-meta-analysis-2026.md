@@ -27,7 +27,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Pooled controlled studies find that putting [[generative-ai]] inside [[problem-based-learning|problem-based learning]] and [[project-based-learning|project-based learning]] produces better learning than the same courses without it. The benefit is real but probably about half the size the headline figure suggests, because the smallest studies reported the largest gains. How the tool is embedded, and whether students use it together, separates the stronger studies more clearly than which model was chosen.
+> **Synthesis:** Pooled controlled studies find that putting [[generative-ai|generative AI]] inside [[problem-based-learning|problem-based learning]] and [[project-based-learning|project-based learning]] produces better learning than the same courses without it. The benefit is real but probably about half the size the headline figure suggests, because the smallest studies reported the largest gains. How the tool is embedded, and whether students use it together, separates the stronger studies more clearly than which model was chosen.
 
 ## Key Findings
 
@@ -42,13 +42,13 @@ reviewed_by: [editor]
 
 The authors searched eight databases for controlled studies published between January 2023 and April 2026, screened the records to 42 full texts, and kept 22 studies that met a baseline-equivalence threshold — 66 effect sizes in a three-level [[meta-analysis-systematic-review|meta-analysis]], a [[quantitative-research|quantitative synthesis]] of studies that differ in discipline, stage and tool.
 
-It treats PBL and PjBL as one family because GenAI enters both cycles in the same places: both begin with an authentic problem, and PBL asks students to understand and solve it while PjBL asks them to build something that does. The authors propose a four-role account — Problem Framer during problem understanding, Knowledge Scaffold during inquiry, Production Partner during artifact building, and Reflective Critic during evaluation — drawing on mediated action, the zone of proximal development, cognitive load theory and [[self-regulated-learning]]. They call the account interpretive rather than validated: GenAI appears as a [[scaffolding]] resource inside [[human-ai-collaboration]], with [[problem-solving]] judgment left to the learner, a narrower claim than "AI tutor".
+It treats PBL and PjBL as one family because GenAI enters both cycles in the same places: both begin with an authentic problem, and PBL asks students to understand and solve it while PjBL asks them to build something that does. The authors propose a four-role account — Problem Framer during problem understanding, Knowledge Scaffold during inquiry, Production Partner during artifact building, and Reflective Critic during evaluation — drawing on mediated action, the zone of proximal development, cognitive load theory and [[self-regulated-learning|self-regulated learning]]. They call the account interpretive rather than validated: GenAI appears as a [[scaffolding|scaffolding]] resource inside [[human-ai-collaboration|human AI collaboration]], with [[problem-solving|problem-solving]] judgment left to the learner, a narrower claim than "AI tutor".
 
 ## What the numbers showed
 
 Across 52 effects from 20 studies, the pooled learner-internal estimate was g = 0.819, 95% CI [0.655, 0.983]. That is a large effect, but standard error predicted effect size (β = 3.057, p = .009), the PET intercept was not significant, and the PEESE correction brought the estimate to g = 0.378. The authors read this as small-study effects rather than proof of publication bias and present the corrected value as the defensible expectation.
 
-The domains split in a way practitioners will recognize: [[learning-gains|Learning achievement]] and skill performance pooled at g = 0.950, affective and [[motivation]]al outcomes at g = 0.762, [[critical-thinking|higher-order thinking]] at g = 0.635, and collaboration and communication at g = 0.594. Product quality, modeled separately as collaborative output, returned the largest estimate (g = 1.958) on six studies, with a prediction interval crossing zero. Heterogeneity was substantial: I² = 56.31% for learner-internal outcomes, 92.93% for product.
+The domains split in a way practitioners will recognize: [[learning-gains|Learning achievement]] and skill performance pooled at g = 0.950, affective and [[motivation|motivation]]al outcomes at g = 0.762, [[critical-thinking|higher-order thinking]] at g = 0.635, and collaboration and communication at g = 0.594. Product quality, modeled separately as collaborative output, returned the largest estimate (g = 1.958) on six studies, with a prediction interval crossing zero. Heterogeneity was substantial: I² = 56.31% for learner-internal outcomes, 92.93% for product.
 
 ## What separated the stronger studies
 

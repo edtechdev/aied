@@ -12,11 +12,11 @@ confidence: medium
 
 ---
 
-> **Synthesis:** **EduQwen: [[pedagogy|Pedagogical]] RL** — A multi-stage optimization strategy combining [[reinforcement-learning|reinforcement learning]] (DAPO) and supervised [[llm-training-and-fine-tuning|fine-tuning]] (SFT) to enhance the pedagogical knowledge of [[open-source]] LLMs, producing a family of dense 32B-parameter models that achieve state-of-the-art performance on the Cross-Domain Pedagogical Knowledge (CDPK) [[benchmark]], surpassing even much larger proprietary systems such as Gemini-3 Pro. Demonstrates that domain-specialized optimization can transform mid-sized open-source LLMs into true pedagogical domain experts, prioritizing guided learning over answer-giving.
+> **Synthesis:** **EduQwen: [[pedagogy|Pedagogical]] RL** — A multi-stage optimization strategy combining [[reinforcement-learning|reinforcement learning]] (DAPO) and supervised [[llm-training-and-fine-tuning|fine-tuning]] (SFT) to enhance the pedagogical knowledge of [[open-source|open source]] LLMs, producing a family of dense 32B-parameter models that achieve state-of-the-art performance on the Cross-Domain Pedagogical Knowledge (CDPK) [[benchmark|benchmark]], surpassing even much larger proprietary systems such as Gemini-3 Pro. Demonstrates that domain-specialized optimization can transform mid-sized open-source LLMs into true pedagogical domain experts, prioritizing guided learning over answer-giving.
 
 ## Key Findings
 
-The EduQwen project addresses a fundamental misalignment in [[llm]] behavior for education: general-purpose models are optimized for immediate helpfulness — providing answers directly — while effective pedagogy requires guiding learners to discover answers themselves. This gap, labeled the [[correct-answer-trap-ai-tutor]], drives the core [[research-methods-aied|research]] question.
+The EduQwen project addresses a fundamental misalignment in [[llm|LLM]] behavior for education: general-purpose models are optimized for immediate helpfulness — providing answers directly — while effective pedagogy requires guiding learners to discover answers themselves. This gap, labeled the [[correct-answer-trap-ai-tutor|Imran et al. (2026)]], drives the core [[research-methods-aied|research]] question.
 
 **Three-stage optimization pipeline.** The team used a dense Qwen3-32B backbone (chosen over MoE architectures for superior responsiveness to iterative optimization) and applied:
 

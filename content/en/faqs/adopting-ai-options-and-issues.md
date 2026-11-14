@@ -43,7 +43,7 @@ An instructor or a student is making a data decision before a teaching decision.
 
 Know what the tool does well. Generated text is strongest at drafting, restructuring and summarizing, and weakest at arithmetic, citations and anything needing current facts. Know what it costs you too. A free tier is free because the usage is the product or because the tier will change, and either is a reason to keep an exit in mind.
 
-Two questions remain. Who else is affected, since a tool that reshapes a course is a decision for the students in it. And whether it is allowed: read the policy once if there is one, and if there is not, the [[shadow-ai]] evidence suggests you are already making policy by default.
+Two questions remain. Who else is affected, since a tool that reshapes a course is a decision for the students in it. And whether it is allowed: read the policy once if there is one, and if there is not, the [[shadow-ai|shadow AI]] evidence suggests you are already making policy by default.
 
 The blunt heuristic: use the sanctioned tool when it is within reach, and when it is not, write down what you did and why. That record is what protects you if the judgment is questioned later.
 
@@ -59,7 +59,7 @@ A platform you host keeps the data closer. [Amplify GenAI](/aied/resources/ampli
 
 A gateway over mixed providers puts one front door in front of several. It carries quotas, SSO, logging and regional routing; Fontys ran one for 300 users under a \$500 monthly cap that was never breached, and [MindRouter](/aied/resources/mindrouter/) adds role-weighted scheduling and energy metering.
 
-Your own inference is the most expensive shape and the most independent. Purdue's two services reached over 1000 users on 10+ [[open-source]] models for roughly \$100,000 in hardware, before staffing. It answers a regulator without asking a vendor's permission.
+Your own inference is the most expensive shape and the most independent. Purdue's two services reached over 1000 users on 10+ [[open-source|open source]] models for roughly \$100,000 in hardware, before staffing. It answers a regulator without asking a vendor's permission.
 
 The last shape is AI inside tools you already run: a Moodle question type, a discussion platform's AI partner, an essay-feedback tool. Low lift and course-by-course change, with little learned at the center.
 

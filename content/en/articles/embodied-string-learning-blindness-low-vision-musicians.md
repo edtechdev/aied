@@ -13,23 +13,23 @@ audience: [instructors, instructional designers]
 methods: [design-based-research, qualitative-research]
 ---
 
-> **Synthesis:** Bowed string performance depends on fine bodily coordination usually taught through visual demonstration, creating persistent barriers for musicians with blindness and low-vision (BLV). This design study worked with four advanced BLV string musicians and three instructors using practice-video analysis, lesson observation, and expert [[reflection]] to surface embodied, non-visual learning strategies.
+> **Synthesis:** Bowed string performance depends on fine bodily coordination usually taught through visual demonstration, creating persistent barriers for musicians with blindness and low-vision (BLV). This design study worked with four advanced BLV string musicians and three instructors using practice-video analysis, lesson observation, and expert [[reflection|reflection]] to surface embodied, non-visual learning strategies.
 
-The work extends [[special-education]] and special-education-ai by centering disability-led, embodied design rather than retrofitted [[accessibility]]. It complements [[inclusive-learning]] and [[neurodivergent-computing-students]] [[research-methods-aied|research]] on inclusive interfaces, and frames the instructor role through [[equity-in-ai-education]] in one-on-one music training, with implications for [[higher-ed]] and pre-professional contexts where tactile and kinesthetic cues must substitute for demonstration.
+The work extends [[special-education|special education]] and special-education-ai by centering disability-led, embodied design rather than retrofitted [[accessibility|accessibility]]. It complements [[inclusive-learning|inclusive learning]] and [[neurodivergent-computing-students|Zastudil et al. (2026)]] [[research-methods-aied|research]] on inclusive interfaces, and frames the instructor role through [[equity-in-ai-education|equity]] in one-on-one music training, with implications for [[higher-ed|higher education]] and pre-professional contexts where tactile and kinesthetic cues must substitute for demonstration.
 
 ## Key Findings
 
 - The study engaged four advanced BLV string musicians and three instructors through practice-video analysis, lesson observation, and expert reflection to surface how embodied string technique is actually learned non-visually.
 - Instruction conventionally relies on visual demonstration of bowing and fingering, which is inaccessible to BLV learners; the design work identified tactile and kinesthetic cues as substitutes.
 - The co-design surfaced concrete, embodied learning strategies rooted in the musicians' own practice, centering disability-led design over retrofitted accessibility.
-- The findings have implications for pre-professional and [[higher-ed]] training contexts where instructors must learn to teach through haptic, auditory, and proprioceptive channels.
+- The findings have implications for pre-professional and [[higher-ed|higher education]] training contexts where instructors must learn to teach through haptic, auditory, and proprioceptive channels.
 
 ## What this means for practice
 
 - **Instructors.** Teach bowing and fingering through tactile, kinesthetic and auditory cues from the outset when working with BLV string players, instead of treating visual demonstration as the default learners must work around.
 - **Instructors.** Keep feedback low-attention and practice-compatible: the study's participants needed cues that fit into hands-busy, time-sensitive playing rather than interrupting the bow stroke to be inspected.
 - **Instructors.** Build technique cues with the musician rather than for them: the strategies came from practice-video analysis and lesson observation with four advanced BLV violin and viola players and three instructors, with one musician giving feedback on the design concepts.
-- **Designers.** Design [[multimodal]] and AI-supported one-on-one training to preserve tactile and proprioceptive channels rather than defaulting to visual feedback, per [[embodied-learning]] and [[universal-design-for-learning]]: inclusive instruction designed with disabled learners, not retrofitted for them ([[inclusive-learning]]).
+- **Designers.** Design [[multimodal|multimodal]] and AI-supported one-on-one training to preserve tactile and proprioceptive channels rather than defaulting to visual feedback, per [[embodied-learning|embodied learning]] and [[universal-design-for-learning|universal design for learning]]: inclusive instruction designed with disabled learners, not retrofitted for them ([[inclusive-learning|inclusive learning]]).
 
 ## Limitations
 

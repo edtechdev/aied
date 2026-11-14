@@ -13,25 +13,25 @@ page_kind: [evaluation]
 methods: [benchmark]
 ---
 
-> **Synthesis:** Gonnermann-Müller, Haase & Leins (2026) evaluate whether **[[llm]]-generated student personas simulating ADHD profiles** maintain stable and realistic behavioral patterns over time. This addresses a critical question for using LLMs in educational research and [[teacher-education|teacher training]]: can simulated learners reliably represent neurodivergent students?
+> **Synthesis:** Gonnermann-Müller, Haase & Leins (2026) evaluate whether **[[llm|LLM]]-generated student personas simulating ADHD profiles** maintain stable and realistic behavioral patterns over time. This addresses a critical question for using LLMs in educational research and [[teacher-education|teacher training]]: can simulated learners reliably represent neurodivergent students?
 
 ## Why This Matters
 
 Using LLMs to simulate students is an emerging practice in educational research, but the **temporal stability** of these [[simulation|simulations]] — especially for neurodivergent profiles — has been underexamined. If LLM-generated personas drift or become inconsistent, they cannot serve as valid proxies for real students in:
 - Teacher training simulations
-- [[adaptive-learning]] testing
-- [[intelligent-tutoring]] system evaluation
-- [[learning-analytics]] research methodology
+- [[adaptive-learning|Adaptive learning]] testing
+- [[intelligent-tutoring|Intelligent tutoring]] system evaluation
+- [[learning-analytics|Learning analytics]] research methodology
 
 ## Connections to Knowledge Base
 
-This work extends the [[nie-personavlm-long-term-personalization-2026]] discourse on how LLMs represent learners over time, but applies it to **simulation validity** rather than tutoring [[personalized-learning|personalization]]. The focus on ADHD profiles connects to broader [[student-experience]] research and highlights gaps in [[stanford-evidence-base-ai-k12-2026]] — the Stanford SCALE review found few studies with adequate causal inference for [[special-education|special education]] populations.
+This work extends the [[nie-personavlm-long-term-personalization-2026|Nie et al., 2026]] discourse on how LLMs represent learners over time, but applies it to **simulation validity** rather than tutoring [[personalized-learning|personalization]]. The focus on ADHD profiles connects to broader [[student-experience|student experience]] research and highlights gaps in [[stanford-evidence-base-ai-k12-2026|Walker et al. (2026)]] — the Stanford SCALE review found few studies with adequate causal inference for [[special-education|special education]] populations.
 
-The simulation methodology also raises questions about [[hazra-safetutors-pedagogical-safety-2026]] — if tutoring systems are tested on simulated [[neurodiversity|neurodivergent learners]], do the safety assessments generalize? This echoes [[drawedumath-vlm-struggling-students-2026]] concerns about AI systems that underperform with specific student populations.
+The simulation methodology also raises questions about [[hazra-safetutors-pedagogical-safety-2026|Hazra et al. (2026)]] — if tutoring systems are tested on simulated [[neurodiversity|neurodivergent learners]], do the safety assessments generalize? This echoes [[drawedumath-vlm-struggling-students-2026|Lucy et al., 2026]] concerns about AI systems that underperform with specific student populations.
 
 ## Open Questions
 
-- How do LLM-simulated ADHD profiles compare to [[syal-multimodal-dialogue-stem-2026]] systems that work with real neurodivergent students?
+- How do LLM-simulated ADHD profiles compare to [[syal-multimodal-dialogue-stem-2026|Syal et al., 2026]] systems that work with real neurodivergent students?
 - Can temporal stability be improved through [[prompt-engineering|prompt engineering]] or [[llm-training-and-fine-tuning|fine-tuning]]?
 - What is the [[ethics|ethical]] boundary for using [[simulating-students|simulated students]] in [[rct]] designs?
 
@@ -45,8 +45,8 @@ The simulation methodology also raises questions about [[hazra-safetutors-pedago
 
 ## Limitations
 
-- The study covers one diagnostic construct only; generalization to personas combining multiple human characteristics, and to comorbid conditions such as ADHD with [[anxiety-and-stress|anxiety]], remains for future research, and the authors note this limits ecological validity for educational [[simulation]].
-- Only two interaction structures were tested — scripted and unscripted. Other structures such as increasing [[scaffolding]], or supportive versus challenging tutor personas, were not explored, so the minimal intervention for behavioral stability is unknown.
+- The study covers one diagnostic construct only; generalization to personas combining multiple human characteristics, and to comorbid conditions such as ADHD with [[anxiety-and-stress|anxiety]], remains for future research, and the authors note this limits ecological validity for educational [[simulation|simulation]].
+- Only two interaction structures were tested — scripted and unscripted. Other structures such as increasing [[scaffolding|scaffolding]], or supportive versus challenging tutor personas, were not explored, so the minimal intervention for behavioral stability is unknown.
 - Observer-rated behavioral expression was scored by three independent LLM raters blind to persona instructions, so the behavioral stability measures are themselves model-generated rather than human-coded.
 - Between-conversation stability rests on single-turn, context-free instantiations (N = 4,968), and within-conversation stability on 20 conversations of 9 turns (N = 3,952) — a short interaction window relative to the sustained, path-dependent interactions of real tutoring or teacher training.
 

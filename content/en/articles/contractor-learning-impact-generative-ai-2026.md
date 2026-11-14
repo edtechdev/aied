@@ -24,7 +24,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Whether [[generative-ai|generative AI]] builds or erodes human capital has been tested mostly with customized tools — scaffolds, [[guardrails]], hidden tutoring prompts — or in workplace settings that measure productivity rather than learning. Contractor and Reyes ran a randomized experiment at Middlebury College in which [[higher-ed|undergraduates]] studied an unfamiliar topic in proctored, in-person sessions and wrote an analytical essay with or without a standard off-the-shelf [[conversational-ai|chatbot]]. [[learning-gains|Learning]] was measured by unaided knowledge tests and essays immediately and again about a week later. AI access raised immediate test scores, the gain persisted, and how students used the tool — [[scaffolding|augmentation]] versus automation — decided whether the benefit survived its removal.
+> **Synthesis:** Whether [[generative-ai|generative AI]] builds or erodes human capital has been tested mostly with customized tools — scaffolds, [[guardrails|guardrails]], hidden tutoring prompts — or in workplace settings that measure productivity rather than learning. Contractor and Reyes ran a randomized experiment at Middlebury College in which [[higher-ed|undergraduates]] studied an unfamiliar topic in proctored, in-person sessions and wrote an analytical essay with or without a standard off-the-shelf [[conversational-ai|chatbot]]. [[learning-gains|Learning]] was measured by unaided knowledge tests and essays immediately and again about a week later. AI access raised immediate test scores, the gain persisted, and how students used the tool — [[scaffolding|augmentation]] versus automation — decided whether the benefit survived its removal.
 
 ## Key Findings
 
@@ -50,7 +50,7 @@ The authors read that divergence as evidence that the [[writing-education|writin
 
 ## Augmentation, automation, and how students used the tool
 
-Because usage varied, the paper classifies each ChatGPT conversation as augmentation, automation, mixed, or other with an [[llm]] reader, and validates the labels three ways. Automation users leaned on AI for drafting and editing while augmentation users asked it to explain concepts; [[ai-detection|Pangram]] flagged 53.6 percent of automation users' text as AI-generated against 20.9 percent for augmentation users.
+Because usage varied, the paper classifies each ChatGPT conversation as augmentation, automation, mixed, or other with an [[llm|LLM]] reader, and validates the labels three ways. Automation users leaned on AI for drafting and editing while augmentation users asked it to explain concepts; [[ai-detection|Pangram]] flagged 53.6 percent of automation users' text as AI-generated against 20.9 percent for augmentation users.
 
 The split predicts who kept the learning. In Session One, automation users' essay-quality advantage was large, consistent with AI writing the text rather than teaching the student, and their test-score gain was smaller (0.33 SD) than augmentation users' (0.44 SD). By Session Two, automation users' essay effect was indistinguishable from zero and their test-score effect attenuated to 0.19 SD (p = 0.330), while augmentation users still showed 0.29 SD test gains. The authors conclude that the automation trade-off is not inevitable: gains persist when students use AI to scaffold their own effort rather than substitute for it.
 

@@ -62,7 +62,7 @@ A second boundary concerned voice: teachers rewrote outputs so materials still s
 
 ## What sustainable integration would require
 
-Teachers did not ask for more tools. They asked for rules, examples, and time. They wanted to know what their district permitted, which tools had been vetted, and whether AI counted as [[academic-integrity|plagiarism]] — questions that a "go explore it" mandate left unanswered. They wanted professional development from former teachers and a one-page guide to when genAI helps. They wanted students taught to challenge what genAI produces, with [[ethics]] and authorship treated as part of the [[curriculum-design|curriculum]] rather than an afterthought. And they insisted that integration preserve the relational work of teaching: one social studies teacher estimated that only about 2% of students can teach themselves from printed material, while most need a social environment.
+Teachers did not ask for more tools. They asked for rules, examples, and time. They wanted to know what their district permitted, which tools had been vetted, and whether AI counted as [[academic-integrity|plagiarism]] — questions that a "go explore it" mandate left unanswered. They wanted professional development from former teachers and a one-page guide to when genAI helps. They wanted students taught to challenge what genAI produces, with [[ethics|ethics]] and authorship treated as part of the [[curriculum-design|curriculum]] rather than an afterthought. And they insisted that integration preserve the relational work of teaching: one social studies teacher estimated that only about 2% of students can teach themselves from printed material, while most need a social environment.
 
 Read together, these are [[governance|governance]] demands rather than training demands. Opportunities also varied by school within the same district, which converts an individual gap into an [[equity-in-ai-education|equity]] problem: where guidance is absent, the teachers with the most time and collegial support capture the benefit.
 
@@ -77,7 +77,7 @@ Read together, these are [[governance|governance]] demands rather than training 
 
 - All 22 participants came from a single U.S. public school district, so the perspectives may not transfer to districts with different resource levels, governance structures, or genAI approaches.
 - Interviews were conducted remotely over Zoom, which limited observation of contextual cues and the informal rapport that in-person fieldwork affords.
-- The sample was purposively selected through a district [[administrator]]'s recruitment email, which likely over-represents teachers already interested in or using genAI.
+- The sample was purposively selected through a district [[administrator|administrator]]'s recruitment email, which likely over-represents teachers already interested in or using genAI.
 - The study is cross-sectional and does not compare teaching before and after adoption; it describes situated decisions under evolving technical, institutional, social, and ethical constraints.
 - All data are [[self-report-measures|self-reported]] accounts of practice; the researchers did not observe classrooms, audit actual tool use, or measure student outcomes.
 - Interviews took place from March through May 2025, during a policy vacuum that has since closed, so the negotiation described may date quickly as district rules and tools change.

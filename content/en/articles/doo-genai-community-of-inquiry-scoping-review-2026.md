@@ -34,7 +34,7 @@ verified: [citation, numbers, links]
 2. **The evidence base is concentrated.** The United States supplied 8 studies (38.1%) and China 6 (28.6%), 16 of the 21 studies (76.2%) involved undergraduates, and ChatGPT was the named tool in 7 studies (33.3%) while chatbots accounted for 4 (19.0%).
 3. **Cognitive presence clusters in the middle phases.** Generative AI was most consistently associated with exploration and integration, and resolution was the least evident phase across the studies that coded all four phases of the practical inquiry model.
 4. **Research attention is structurally uneven.** Social presence was examined in 13 of 21 studies (61.9%), cognitive presence in 10 (47.6%), and teaching presence in 5 (23.8%); every teaching-presence study examined it alongside another presence.
-5. **Teaching presence appears when AI is given an instructional role.** It was strengthened when AI acted as a tutor, as a co-facilitator beside a teacher, or as the source of [[learning-analytics|learning analytics]], and it did not move when only the type of AI [[feedback]] changed.
+5. **Teaching presence appears when AI is given an instructional role.** It was strengthened when AI acted as a tutor, as a co-facilitator beside a teacher, or as the source of [[learning-analytics|learning analytics]], and it did not move when only the type of AI [[feedback|feedback]] changed.
 6. **Instructional configuration sorts the outcomes.** Discussion-based and task-based designs were most often associated with cognitive presence, embodied AI instructor designs with social presence, and self-regulated learning designs with social presence acting as a pathway to learner autonomy.
 
 ## How the review was assembled

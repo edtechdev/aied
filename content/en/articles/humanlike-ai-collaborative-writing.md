@@ -19,7 +19,7 @@ Three AI-assisted text editor variants were tested along two dimensions:
 - **Temporal**: synchronous (humanlike) vs. asynchronous (machinelike) suggestions
 - **Visual**: presence (humanlike) vs. absence (machinelike) of a cursor
 
-Synchronous suggestions increased efficiency but led to contextual misalignment — the AI's suggestions didn't fit the writer's intent. A visual cursor improved perceived intent understanding but evoked feelings of surveillance that participants described as "eerie." This maps onto emerging concerns in [[becerra-aicofe-feedback-2026]] about the social dynamics of [[student-ai-interaction|AI interaction]] in educational contexts.
+Synchronous suggestions increased efficiency but led to contextual misalignment — the AI's suggestions didn't fit the writer's intent. A visual cursor improved perceived intent understanding but evoked feelings of surveillance that participants described as "eerie." This maps onto emerging concerns in [[becerra-aicofe-feedback-2026|Becerra et al. (2026)]] about the social dynamics of [[student-ai-interaction|AI interaction]] in educational contexts.
 
 ## What this means for practice
 

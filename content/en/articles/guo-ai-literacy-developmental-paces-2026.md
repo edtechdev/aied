@@ -42,7 +42,7 @@ verified: [citation, numbers]
 
 ## Why a simpler version of the same topic is not the answer
 
-The developmental argument is not that [[early-childhood-elementary-ai-education|younger children]] need easier content. It is that the capacities a task loads change: a five-year-old works through symbolic play and sensory experience, a nine-year-old through concrete mechanisms, a fifteen-year-old through systems and consequences. [[developmental-psychology|Developmental research]] constrains what a task can ask, and [[metacognition]] is the clearest case, since [[self-assessment|self-assessment accuracy]] — which most instruments assume — is still forming in the early grades.
+The developmental argument is not that [[early-childhood-elementary-ai-education|younger children]] need easier content. It is that the capacities a task loads change: a five-year-old works through symbolic play and sensory experience, a nine-year-old through concrete mechanisms, a fifteen-year-old through systems and consequences. [[developmental-psychology|Developmental research]] constrains what a task can ask, and [[metacognition|metacognition]] is the clearest case, since [[self-assessment|self-assessment accuracy]] — which most instruments assume — is still forming in the early grades.
 
 Two consequences follow. [[student-ai-interaction|Children's relationship with AI]] is part of the curriculum: primary students treat a [[conversational-ai|chatbot]] as a social companion before they can evaluate what it says, so epistemic vigilance has to be taught alongside the tool. And a single district-wide standard mis-serves both ends of the range.
 
@@ -69,7 +69,7 @@ The remedies point [[process-oriented-assessment|assessment]] toward performance
 ## What this means for practice
 
 - **Instructors:** Plan by developmental band, not by tool — story and sensory work early, analogy and making in upper primary, simulation and critique in lower secondary, team projects later.
-- **Program designers:** Sequence AI literacy across years in the [[curriculum-design|curriculum]] instead of adding a standalone module, and put [[ethics]] inside tasks, not in a closing unit.
+- **Program designers:** Sequence AI literacy across years in the [[curriculum-design|curriculum]] instead of adding a standalone module, and put [[ethics|ethics]] inside tasks, not in a closing unit.
 - **Assessment designers:** Pair self-report with process evidence — dialogue rubrics, revision logs — and score ethical reasoning on the justification, not only the choice.
 - **Administrators:** Treat PACES as a provisional roadmap; fund a primary pilot with observable indicators before adopting a district-wide sequence.
 

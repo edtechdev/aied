@@ -40,7 +40,7 @@ confidence: high
 - **Instructors.** Do not use ChatGPT as a standalone [[summative-assessment|summative]] grader: it overestimated low-quality projects by 14.20 points on average, and 85% of students read its grades as more generous than peers' grades.
 - **Instructors.** Reserve ChatGPT for formative use where detailed feedback supports iteration, and check for the grade–feedback disconnect that 31% of students reported between high scores and critical comments.
 - **Learning designers.** Combine evaluation sources rather than choosing one: peers caught fundamental issues in lower-quality work (r = 0.51 with the instructor in the low tier) while ChatGPT's alignment rose with project quality.
-- **Learning designers.** Train students in both [[peer-assessment]] technique and [[prompt-engineering|prompt engineering]] so they can use ChatGPT's dialogic interactivity while keeping peers' contextual judgment.
+- **Learning designers.** Train students in both [[peer-assessment|peer assessment]] technique and [[prompt-engineering|prompt engineering]] so they can use ChatGPT's dialogic interactivity while keeping peers' contextual judgment.
 - **Researchers.** Analyze grading agreement within quality tiers, because pooled correlations hide the opposite quality gradients for ChatGPT and peers.
 
 ## Limitations

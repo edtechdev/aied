@@ -14,7 +14,7 @@ sources: ['raw/papers/beyond-detection-authentic-assessment-ai-2025.md']
 confidence: high
 ---
 
-> **Synthesis:** Kickbusch, Ashford-Rowe, Kemp, Boreland, and Huijser (2025) argue the dominant [[governance|institutional]] response to [[generative-ai|generative AI]] in [[assessment]] — surveillance and AI detection — **misdiagnoses the problem**: in an AI-mediated world, [[authentic-assessment|authenticity]] cannot be policed into existence; it must be redesigned. They reconceptualize authenticity as constructed where AI is expected, declared, and scrutinized, and offer discipline-agnostic "design for learning" patterns that position AI as a collaborator rather than a cheating application.
+> **Synthesis:** Kickbusch, Ashford-Rowe, Kemp, Boreland, and Huijser (2025) argue the dominant [[governance|institutional]] response to [[generative-ai|generative AI]] in [[assessment|assessment]] — surveillance and [[ai-detection|AI detection]] — **misdiagnoses the problem**: in an AI-mediated world, [[authentic-assessment|authenticity]] cannot be policed into existence; it must be redesigned. They reconceptualize authenticity as constructed where AI is expected, declared, and scrutinized, and offer discipline-agnostic "design for learning" patterns that position AI as a collaborator rather than a cheating application.
 
 ## The case against detection
 
@@ -24,8 +24,8 @@ confidence: high
 
 Not a binary but a continuum across four intersecting dimensions:
 
-1. **Task–context alignment** with contemporary professional practice — judgment, decision-making, and [[problem-solving]] under uncertainty, not superficial workplace replication
-2. **Foregrounding professional judgment and [[ethics]]** — sustainable assessment (Boud & Soler 2016), collaboration (Boud & Bearman 2024), UNESCO 2023 capability framing
+1. **Task–context alignment** with contemporary professional practice — judgment, decision-making, and [[problem-solving|problem-solving]] under uncertainty, not superficial workplace replication
+2. **Foregrounding professional judgment and [[ethics|ethics]]** — sustainable assessment (Boud & Soler 2016), collaboration (Boud & Bearman 2024), UNESCO 2023 capability framing
 3. **Visibility of process** — iteration, critique, rationale; polished outputs can mask superficial understanding, so assessment must reveal the "messiness" of authentic professional work
 4. **Appropriate use of tools** (including AI) within human decision-making — tools as enablers of higher-order capability, not substitutes for it
 
@@ -43,7 +43,7 @@ Stage-appropriate authenticity: early units get constrained, well-[[scaffolding|
 ## Challenges and institutional responsibilities
 
 - **[[equity-in-ai-education|Equity]]**: unequal access to tools deepens divides; institutional provision (fenced AI deployments) reduces back-channel inequality; authentic formats can create *new* barriers (workload, carer/employment constraints) — mitigate with workload modeling, staged scaffolding, modality choice
-- **Ethics and bias**: tools reproduce cultural stereotypes and can be fluent yet unfaithful (Bender et al. 2021); institutions should run privacy/data-protection impact assessments (PIA/DPIA) for assessment AI, vet tools against [[privacy]]/bias/[[accessibility]] criteria, and standardize prompt-log conventions that evidence process without exposing personal data
+- **Ethics and bias**: tools reproduce cultural stereotypes and can be fluent yet unfaithful (Bender et al. 2021); institutions should run privacy/data-protection impact assessments (PIA/DPIA) for assessment AI, vet tools against [[privacy|privacy]]/bias/[[accessibility|accessibility]] criteria, and standardize prompt-log conventions that evidence process without exposing personal data
 - **Load and feasibility**: process artifacts and defenses raise workload; needs modeling and scaffolds
 - **[[educational-development|Staff development]]**: design-led collaboration rather than superficial tool training
 
@@ -52,7 +52,7 @@ Stage-appropriate authenticity: early units get constrained, well-[[scaffolding|
 - **Instructors.** Replace detection-first rules with tasks where tool use is expected and declared: have students critique, adapt, and verify AI outputs (a chatbot-generated market analysis; an AI-produced lesson plan) and grade the judgment they show, not the artifact they submit.
 - **Instructors.** Build visibility of process into the assessment itself — prompt logs, draft iterations, short reflective commentaries with published criteria for depth, criticality, and ethical awareness — so a polished output cannot stand in for understanding.
 - **Instructors.** Stage authenticity deliberately: constrained, [[scaffolding|scaffolded]] tasks in early units, then open complexity, uncertainty, and stakeholder [[student-engagement|engagement]] later, with equivalent-standards modality choice for students who need it.
-- **Administrators.** Stop treating [[ai-detection|detection]] as a strategy of first resort: fund redesign, run privacy/data-protection impact assessments on assessment AI, and vet tools against [[privacy]], bias, [[accessibility]], and auditability criteria.
+- **Administrators.** Stop treating [[ai-detection|detection]] as a strategy of first resort: fund redesign, run privacy/data-protection impact assessments on assessment AI, and vet tools against [[privacy|privacy]], bias, [[accessibility|accessibility]], and auditability criteria.
 - **Administrators.** Provide fenced institutional AI access and model the workload before adding process artifacts and oral defenses, so authentic formats do not become new barriers for students with carer or employment constraints and do not deepen [[equity-in-ai-education|equity]] gaps.
 
 ## Limitations

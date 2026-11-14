@@ -14,7 +14,7 @@ discipline: [cs education]
 institutions: [educational-policy-ai, regulation]
 ---
 
-> **Synthesis:** As [[generative-ai]] disrupts [[higher-ed]], institutions increasingly require students to declare AI use. However, generic binary declarations (e.g., "I used GenAI") fail to capture the nuanced application of these tools across different academic tasks. Micallef & Petrovska argue that establishing transparency is key to protecting [[academic-integrity]], promoting [[ai-literacy]], and shifting the focus from policing to professional practice.
+> **Synthesis:** As [[generative-ai|generative AI]] disrupts [[higher-ed|higher education]], institutions increasingly require students to declare AI use. However, generic binary declarations (e.g., "I used GenAI") fail to capture the nuanced application of these tools across different academic tasks. Micallef & Petrovska argue that establishing transparency is key to protecting [[academic-integrity|academic integrity]], promoting [[ai-literacy|AI literacy]], and shifting the focus from policing to professional practice.
 
 The paper contributes a design artifact: a framework of two task-specific declaration structures — one for writing-focused activities and one for coding assessments — developed for a [[cs-education|Computer Science]] department based on an existing taxonomy of GenAI usage. By categorizing AI usage across specific cognitive and developmental stages (e.g., structural planning vs. textual content generation, or code improvement vs. code generation), the framework encourages students to reflect on their own learning process and clarifies the boundary between acceptable assistance and [[academic-integrity|academic misconduct]].
 
@@ -23,8 +23,8 @@ This [[discipline-specific-aied|domain-specific]] approach is proposed as a foun
 ## What this means for practice
 
 - **Instructors.** Replace the generic binary declaration with the paper's task-specific structures — one for writing-focused activities and one for coding assessments — so students name the cognitive stage the tool touched (for example, structural planning versus textual content generation, or code improvement versus code generation).
-- **Instructors.** Ask for extent, explanation, and example prompts, using the framework's three-point scale, so the declaration becomes a reflective instrument that supports [[academic-integrity]] rather than a compliance artifact.
-- **Instructors.** Read cohort-level declarations pedagogically: a class declaring Extensive use in Code Generation but Minor use in Understanding & Learning tells a different story from the reverse pattern, and should inform [[scaffolding]] and assessment redesign in the next task.
+- **Instructors.** Ask for extent, explanation, and example prompts, using the framework's three-point scale, so the declaration becomes a reflective instrument that supports [[academic-integrity|academic integrity]] rather than a compliance artifact.
+- **Instructors.** Read cohort-level declarations pedagogically: a class declaring Extensive use in Code Generation but Minor use in Understanding & Learning tells a different story from the reverse pattern, and should inform [[scaffolding|scaffolding]] and assessment redesign in the next task.
 - **Administrators.** Pair the framework with explicit institutional guidance on which tools are in scope, because IDE autocomplete, browser-based writing assistants, and search engines with AI-generated summaries sit on a spectrum with conversational tools like ChatGPT.
 - **Administrators.** Position the framework as complementary to policy-level instruments such as the AIAS rather than a substitute — it supplies the granular disclosure layer those instruments do not specify — and do not market it as a misconduct detector.
 

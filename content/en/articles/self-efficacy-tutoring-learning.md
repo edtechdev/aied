@@ -14,7 +14,7 @@ discipline: [math education]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Students with lower baseline [[self-efficacy]] achieved greater learning gains regardless of practice format.
+> **Synthesis:** Students with lower baseline [[self-efficacy|self-efficacy]] achieved greater learning gains regardless of practice format.
 
 ## Key Findings
 
@@ -29,7 +29,7 @@ The study examined how self-efficacy and favorability toward practice shape lear
 
 ## What this means for practice
 
-- **Instructors.** Do not standardize one practice format across a class. The benefits of tutor-based and paper-based practice varied with baseline [[self-efficacy]] and favorability toward the format, so no single format dominated for all learners.
+- **Instructors.** Do not standardize one practice format across a class. The benefits of tutor-based and paper-based practice varied with baseline [[self-efficacy|self-efficacy]] and favorability toward the format, so no single format dominated for all learners.
 - **Instructors.** Steer scaffolded tutor practice toward students with lower baseline self-efficacy. Those students achieved greater learning gains regardless of format, and among them greater favorability toward the tutor was associated with greater gains during tutor practice.
 - **Learners.** Do not expect a tutoring system to change how confident you feel within a week of practice: ITS-based practice did not significantly improve post-training self-efficacy relative to paper practice over the two approximately 40-minute sessions.
 - **Designers.** Treat practice format as a variable to match to [[motivation|motivational]] profile rather than a neutral delivery channel. Students less favorable toward the paper format actually improved more under paper-based practice, which the authors suggest may reflect their seeking support from teachers or peers, or exerting more effort — neither of which the study measured directly.

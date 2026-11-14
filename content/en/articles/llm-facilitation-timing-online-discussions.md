@@ -14,11 +14,11 @@ audience: [researchers, instructors, instructional designers]
 discipline: [language learning]
 ---
 
-> **Synthesis:** This study asks when (not just how) LLMs should facilitate online discussions, creating PEFK, a corpus standardizing and aggregating facilitation datasets, and running the first survey on facilitation timing with expert facilitators and [[llm]]-as-a-judge models.
+> **Synthesis:** This study asks when (not just how) LLMs should facilitate online discussions, creating PEFK, a corpus standardizing and aggregating facilitation datasets, and running the first survey on facilitation timing with expert facilitators and [[llm|LLM]]-as-a-judge models.
 
 Key asymmetry: humans are more cautious while LLMs are excessively eager to facilitate, although both are more certain when judging that facilitation is not needed.
 
-Corrective attempts found trained ModernBert classifiers more reliable than alternative LLM setups, though existing datasets impose a relatively low performance ceiling — a [[benchmark]]-quality finding for automated discussion facilitation.
+Corrective attempts found trained ModernBert classifiers more reliable than alternative LLM setups, though existing datasets impose a relatively low performance ceiling — a [[benchmark|benchmark]]-quality finding for automated discussion facilitation.
 
 For [[online-teaching-and-learning|online learning]], the work informs when AI should intervene in discussion forums (MOOC-style and classroom), connecting facilitation timing to [[student-engagement|engagement]] and moderation [[research-methods-aied|research]].
 
@@ -38,7 +38,7 @@ Automating facilitation has been attempted with encoder-only classifiers, and LL
 
 - **Instructors.** Decide when to intervene, not only what to say: in MOOC-style forums and classroom discussion spaces the timing of an intervention matters as much as its content, since stepping in during a discussion that is going well can irritate participants while staying out when it is not can let a topic derail or escalate.
 - **Instructors.** Keep moderation human for now — expert facilitators in this study were cautious about intervening, while LLM judges were excessively eager, so an uncalibrated model will interject where a person would hold back.
-- **Designers.** Calibrate automated facilitation toward human caution before treating a model as an autonomous agent, and treat the intervene/hold decision as a first-class design parameter of [[human-in-the-loop-ai]] features in [[collaborative-learning]] platforms.
+- **Designers.** Calibrate automated facilitation toward human caution before treating a model as an autonomous agent, and treat the intervene/hold decision as a first-class design parameter of [[human-in-the-loop-ai|human-in-the-loop]] features in [[collaborative-learning|collaborative learning]] platforms.
 - **Researchers.** Invest in annotation infrastructure and larger professional facilitation datasets rather than better [[prompt-engineering|prompting]]: trained ModernBert classifiers were the most reliable approach tested, yet the aggregated PEFK corpus imposed a relatively low performance ceiling.
 
 ## Limitations

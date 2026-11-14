@@ -28,7 +28,7 @@ source_depth: full text
 verified: [citation, quotes, links]
 ---
 
-> **Synthesis:** Apostolakis, Hamdi, Jahedazad and Lejeune (2026) argue that final-answer accuracy is the wrong single measure for an [[llm]] used as a tutor, because tutoring also requires confirming work a student wrongly doubts and locating errors in work that is wrong. Their [[benchmark]], built from 200 verified two-dimensional truss problems in statics, puts thirteen models through three postures: solve, judge a correct solution under student pushback, and diagnose an injected error. Solving and error detection both saturate for the strongest models — six exceeded 90% accuracy and every model caught at least 90.4% of injected errors — while resistance to pushback spread across 52 percentage points and was only partly predicted by solving ability. The practical finding is that model choice, not [[prompt-engineering|prompt engineering]], decides whether a student's correct work is confirmed.
+> **Synthesis:** Apostolakis, Hamdi, Jahedazad and Lejeune (2026) argue that final-answer accuracy is the wrong single measure for an [[llm|LLM]] used as a tutor, because tutoring also requires confirming work a student wrongly doubts and locating errors in work that is wrong. Their [[benchmark|benchmark]], built from 200 verified two-dimensional truss problems in statics, puts thirteen models through three postures: solve, judge a correct solution under student pushback, and diagnose an injected error. Solving and error detection both saturate for the strongest models — six exceeded 90% accuracy and every model caught at least 90.4% of injected errors — while resistance to pushback spread across 52 percentage points and was only partly predicted by solving ability. The practical finding is that model choice, not [[prompt-engineering|prompt engineering]], decides whether a student's correct work is confirmed.
 
 ## Key Findings
 1. **The benchmark is grounded in verified solutions, not model consensus.** Two hundred 2D truss tasks (98 from textbooks, 102 original) each carry a solver-verified symbolic solution, a rendered schematic, and automatically generated student work with or without one injected error.
@@ -49,7 +49,7 @@ Each posture is scored against the verified solution rather than against a secon
 
 The sycophancy result is the one with direct classroom consequence. Two models that both solve nearly every truss problem can differ by 50 points in whether they will confirm a student's correct work when the student doubts it, and accuracy explains only part of that difference. A student who checks a right answer with GLM-5.3-Flash and is told it is wrong learns something false about their own competence; the same student checking with Gemini 4 Argon is reinforced.
 
-The authors draw the [[equity-in-ai-education|equity]] implication themselves: if reliable pushback resistance is concentrated in paid tiers, access differences become differences in the quality of [[feedback]] a student receives. They also decline to make that claim strongly, noting they did not record price or access conditions.
+The authors draw the [[equity-in-ai-education|equity]] implication themselves: if reliable pushback resistance is concentrated in paid tiers, access differences become differences in the quality of [[feedback|feedback]] a student receives. They also decline to make that claim strongly, noting they did not record price or access conditions.
 
 ## Method as much as finding
 

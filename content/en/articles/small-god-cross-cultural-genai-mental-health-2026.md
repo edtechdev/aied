@@ -15,7 +15,7 @@ sources: ['raw/papers/small-god-cross-cultural-genai-mental-health-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Xiang, Bassey and Luo asked repeat users of [[generative-ai|generative AI]] for emotional and mental health support one open question: "What would ChatGPT be like in your imagination?" From 4,387 Prolific respondents screened in April 2024, 270 people across 29 countries answered, 38% of them South African, 27% with at least one mental health diagnosis. [[qualitative-research|Thematic analysis]] produced two meta-themes: an ontological identity, the "what" GenAI is imagined to be, with 11 subthemes across four quadrants; and a functional characterization, the "how" it is described, with 14 subthemes under looking, feeling, knowing, doing and relating. Imaginations ran from server racks to "a small god." A post-hoc count found 33% imagining human characters, 26% anthropomorphic attributes and 15% an omniscient being, which the authors read as comfort and as a pathway to overtrust, dependence and bias wherever [[learners]] turn to [[conversational-ai|chatbots]] for support.
+> **Synthesis:** Xiang, Bassey and Luo asked repeat users of [[generative-ai|generative AI]] for emotional and [[well-being|mental health]] support one open question: "What would ChatGPT be like in your imagination?" From 4,387 Prolific respondents screened in April 2024, 270 people across 29 countries answered, 38% of them South African, 27% with at least one mental health diagnosis. [[qualitative-research|Thematic analysis]] produced two meta-themes: an ontological identity, the "what" GenAI is imagined to be, with 11 subthemes across four quadrants; and a functional characterization, the "how" it is described, with 14 subthemes under looking, feeling, knowing, doing and relating. Imaginations ran from server racks to "a small god." A post-hoc count found 33% imagining human characters, 26% anthropomorphic attributes and 15% an omniscient being, which the authors read as comfort and as a pathway to overtrust, dependence and bias wherever [[learners|learners]] turn to [[conversational-ai|chatbots]] for support.
 
 ## Key Findings
 
@@ -32,7 +32,7 @@ It is a convergent parallel [[mixed-methods-research|mixed-method]] survey repor
 
 ## What GenAI is imagined to be: the ontological identity
 
-Users' mental models travel far from the product category, so plain talk about a tool meets imaginings of persons: a virtual assistant that "makes up for my lack of knowledge," an "old wise woman," "a bunch of nerds behind the screen," or, on the non-human side, server racks, a video-game hologram and something "like energy, not an entity." The abstract-human quadrant matters most for [[well-being]], where spiritual beings become spirit guardians or gods.
+Users' mental models travel far from the product category, so plain talk about a tool meets imaginings of persons: a virtual assistant that "makes up for my lack of knowledge," an "old wise woman," "a bunch of nerds behind the screen," or, on the non-human side, server racks, a video-game hologram and something "like energy, not an entity." The abstract-human quadrant matters most for [[well-being|well-being]], where spiritual beings become spirit guardians or gods.
 
 ## What GenAI is imagined to do: the functional characterization
 
@@ -40,23 +40,23 @@ This framework tells instructors what users expect the system to be good for: ap
 
 ## Culture, the small God, and the risk side
 
-The theme structure held across 29 countries, but imagery borrowed whatever cultural material was available, religion for the small god, holograms from games. Gendered images such as "an intelligent male who wears a suit and is highly educated" echo a 2019 UNESCO report on gender bias, so comparative sampling matters more than generalization. The clinical risk is overdependence and misplaced [[trust]], sharpest where users describe a mind "in my head," paired with [[privacy]] and [[affective-computing|affective]] substitution for human support.
+The theme structure held across 29 countries, but imagery borrowed whatever cultural material was available, religion for the small god, holograms from games. Gendered images such as "an intelligent male who wears a suit and is highly educated" echo a 2019 UNESCO report on gender bias, so comparative sampling matters more than generalization. The clinical risk is overdependence and misplaced [[trust|trust]], sharpest where users describe a mind "in my head," paired with [[privacy|privacy]] and [[affective-computing|affective]] substitution for human support.
 
 ## What this implies for educational use, and the limitations
 
-Schools and counseling services are where [[learners]] meet [[conversational-ai|chatbots]], imaginatively, before any [[pedagogy|pedagogical]] frame arrives: a student who imagines an omniscient friend reads unlimited availability as reliability and fluent confidence as knowledge, the habit [[trust-calibration]] exists to correct. Because a reassuring reply to a disclosure of distress is a relational [[hallucination-risk]], [[guardrails]] must cover escalation to humans, and stereotype-laden imaginings make this a design and [[equity-in-ai-education|equity]] question [[bias-mitigation]] cannot fix later. The sample's spread across the [[global-south|global South]] argues for [[pedagogical-safety]] by design and for [[social-emotional-learning]] and [[culturally-relevant-pedagogy|culturally responsive practice]].
+Schools and counseling services are where [[learners|learners]] meet [[conversational-ai|chatbots]], imaginatively, before any [[pedagogy|pedagogical]] frame arrives: a student who imagines an omniscient friend reads unlimited availability as reliability and fluent confidence as knowledge, the habit [[trust-calibration|trust calibration]] exists to correct. Because a reassuring reply to a disclosure of distress is a relational [[hallucination-risk|hallucination risk]], [[guardrails|guardrails]] must cover escalation to humans, and stereotype-laden imaginings make this a design and [[equity-in-ai-education|equity]] question [[bias-mitigation|bias mitigation]] cannot fix later. The sample's spread across the [[global-south|global South]] argues for [[pedagogical-safety|pedagogical safety]] by design and for [[social-emotional-learning|social-emotional learning]] and [[culturally-relevant-pedagogy|culturally responsive practice]].
 
 ## What this means for practice
 
 - **Instructors.** Have students name what they imagine the tool to be before discussing what it does: 90 of the 270 respondents (33%) imagined a human character.
-- **Instructors.** Build limits into the deployment itself, visible uncertainty, refusals and explicit boundaries, since unlimited availability and fluent confidence are read as reliability by users imagining an omniscient entity, the habit [[trust-calibration]] exists to correct.
+- **Instructors.** Build limits into the deployment itself, visible uncertainty, refusals and explicit boundaries, since unlimited availability and fluent confidence are read as reliability by users imagining an omniscient entity, the habit [[trust-calibration|trust calibration]] exists to correct.
 - **Administrators.** Require human escalation paths in student-facing support deployments, not content filtering alone: a reassuring reply to a distress disclosure is a relational harm.
 - **Designers.** Audit persona defaults, naming, voices and gendered imagery before launch: participants reproduced status-laden images that interface choices can repeat or interrupt.
 
 ## Limitations
 
 - All 270 participants were recruited through Prolific and reported repeated ChatGPT use; 38% came from South Africa and 52.2% identified as Christian, so the deified register may reflect this sample.
-- Imaginations were elicited by one open-ended item in a survey whose qualitative strand alone is reported, so nothing links an imagined role to dependence, [[help-seeking]], [[self-efficacy]] or [[well-being]].
+- Imaginations were elicited by one open-ended item in a survey whose qualitative strand alone is reported, so nothing links an imagined role to dependence, [[help-seeking|help-seeking]], [[self-efficacy|self-efficacy]] or [[well-being|well-being]].
 - Platforms were self-selected rather than assigned, so interface and persona design are confounded with the reported imaginations.
 - Of 334 respondents who completed the [[self-report-measures|questionnaires]], 64 failed a validity check, and two master's-level trainees coded the attribute framework, so the taxonomy may reflect the prompt as much as participants' imagery.
 

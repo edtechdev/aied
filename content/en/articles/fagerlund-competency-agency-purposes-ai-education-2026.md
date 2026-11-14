@@ -21,14 +21,14 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** This [[qualitative-research|qualitative]] interview study asks how teachers describe the purposes of [[ai-education]] and the ways they implement them. Thirteen Finnish teachers from preschool through grade 9, recruited through two national Innokas Network AI development projects run in 2022 to 2024, were interviewed at the midpoint about why students should be taught about and with AI. Interpreting their accounts through Gert Biesta's three domains of educational purpose (qualification, socialization, subjectification), the authors find an exploratory phase of AI education in which skills dominate: qualification was the clearest and most concrete purpose, and it operated even as a pathway to the other two domains. Teachers also wanted students to adopt favorable stances toward AI and to see themselves as future AI-savvy workers, while subjectification, meaning self-determined and personally meaningful engagement with AI, was acknowledged as important but lacked concrete [[pedagogy|instructional strategies]]. The authors propose informed AI agency, a heuristic that places subjectification at the center while treating competencies as its foundation, as a way to seek synergy among the three domains.
+> **Synthesis:** This [[qualitative-research|qualitative]] interview study asks how teachers describe the purposes of [[ai-education|AI education]] and the ways they implement them. Thirteen Finnish teachers from preschool through grade 9, recruited through two national Innokas Network AI development projects run in 2022 to 2024, were interviewed at the midpoint about why students should be taught about and with AI. Interpreting their accounts through Gert Biesta's three domains of educational purpose (qualification, socialization, subjectification), the authors find an exploratory phase of AI education in which skills dominate: qualification was the clearest and most concrete purpose, and it operated even as a pathway to the other two domains. Teachers also wanted students to adopt favorable stances toward AI and to see themselves as future AI-savvy workers, while subjectification, meaning self-determined and personally meaningful engagement with AI, was acknowledged as important but lacked concrete [[pedagogy|instructional strategies]]. The authors propose informed AI [[agency|agency]], a heuristic that places subjectification at the center while treating competencies as its foundation, as a way to seek synergy among the three domains.
 
 ## Key Findings
 
 - Qualification was the clearest and most concrete purpose overall: teachers wanted students to understand AI as a sociotechnical phenomenon and to use AI tools, treating AI both as a target of learning and as an aid to learning.
 - Teachers framed AI as general knowledge comparable to any other primary school subject, yet gave no accounts of how to teach its ubiquity, offering only generic uses of videos and children's books as prompts for discussion.
 - Socialization appeared as encouragement of favorable, even enthusiastic stances toward AI, and as preparation for AI-shaped work, with students positioned as future workers who must meet competency demands.
-- Subjectification, the central domain in Biesta's framework, emerged as personally meaningful AI use, [[reflection]] on data and risk in one's own life, and empowerment to contest AI's authority, yet it rested on generic examples such as discussing and contemplating.
+- Subjectification, the central domain in Biesta's framework, emerged as personally meaningful AI use, [[reflection|reflection]] on data and risk in one's own life, and empowerment to contest AI's authority, yet it rested on generic examples such as discussing and contemplating.
 - The authors propose informed AI agency, a heuristic centered on subjectification, in which competencies serve as explanatory frameworks that help students make self-determined choices within social constraints.
 
 ## Aims, Context, and Design
@@ -37,7 +37,7 @@ This exploratory study works within an abductive paradigm, aiming at [[theory-de
 
 ## Qualification and Socialization in Teachers' Accounts
 
-Teachers treated qualification, the acquisition of competencies, as the most concrete purpose, and it covered AI as both target and tool. Students were to gain factual comprehension of AI as a sociotechnical phenomenon, from [[machine-learning|machine learning]] basics to AI's covert presence in everyday devices, and to build [[ai-literacy]] through hands-on proficiency with image generation, LLMs such as [[generative-ai|ChatGPT]], and AI-powered robotics kits. Others wanted AI to enhance learning itself, as a writing companion, an information search buddy, or a personal tutor. Socialization then shaped how these skills were justified: teachers cultivated excitement about AI, ascribed a "cool" character to it, and promoted optimism over doom rhetoric, while tying qualifications to future roles, framing students as [[career-development-and-readiness|AI-savvy future workers]] meeting mandatory competency requirements described by one teacher as a [[civic-and-political-education|civic]] skill comparable to programming.
+Teachers treated qualification, the acquisition of competencies, as the most concrete purpose, and it covered AI as both target and tool. Students were to gain factual comprehension of AI as a sociotechnical phenomenon, from [[machine-learning|machine learning]] basics to AI's covert presence in everyday devices, and to build [[ai-literacy|AI literacy]] through hands-on proficiency with image generation, LLMs such as [[generative-ai|ChatGPT]], and AI-powered robotics kits. Others wanted AI to enhance learning itself, as a writing companion, an information search buddy, or a personal tutor. Socialization then shaped how these skills were justified: teachers cultivated excitement about AI, ascribed a "cool" character to it, and promoted optimism over doom rhetoric, while tying qualifications to future roles, framing students as [[career-development-and-readiness|AI-savvy future workers]] meeting mandatory competency requirements described by one teacher as a [[civic-and-political-education|civic]] skill comparable to programming.
 
 ## Subjectification and the Proposal of Informed AI Agency
 
@@ -46,13 +46,13 @@ Subjectification, the domain Biesta treats as central, appeared as personally me
 ## What this means for practice
 
 - Do not reduce AI education to technical skills alone; make the "why" explicit so that competencies acquire context from socialization and subjectification rather than standing as ends in themselves.
-- Support [[teacher-role|teachers]] in connecting students' AI skills with responsibility, [[ethics]], and personal [[agency]], and deliberately plan space for subjectification in classroom work.
-- Design professional learning that addresses both the "how" and the "why", complementing technical frameworks such as [[tpack]] with sustained attention to educational purpose.
+- Support [[teacher-role|teachers]] in connecting students' AI skills with responsibility, [[ethics|ethics]], and personal [[agency|agency]], and deliberately plan space for subjectification in classroom work.
+- Design professional learning that addresses both the "how" and the "why", complementing technical frameworks such as [[tpack|TPACK]] with sustained attention to educational purpose.
 - Treat the three domains as contextual judgment rather than a prescriptive template: reflection takes more mediated forms in [[early-childhood-elementary-ai-education|early childhood]] and more societally oriented forms in later schooling.
 
 ## Limitations
 
-- Teachers from preschool to grade 9 were interviewed, so their thinking likely varied with professional circumstances; the subject teachers involved were STEM teachers who may have emphasized [[problem-solving]] perspectives.
+- Teachers from preschool to grade 9 were interviewed, so their thinking likely varied with professional circumstances; the subject teachers involved were STEM teachers who may have emphasized [[problem-solving|problem-solving]] perspectives.
 - All participants were recruited from the same development projects, so somewhat similar ways of thinking are possible despite diverse backgrounds and regions.
 - The evidence rests on interviews only; the authors note that teachers' educational philosophies can be profound and elusive, so their articulation may reveal only partial insights.
 

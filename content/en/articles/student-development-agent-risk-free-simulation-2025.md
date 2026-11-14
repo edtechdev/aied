@@ -23,7 +23,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** Jiang and Zhang (2025) argue that [[ai-education|AIED]] innovations should be evaluated for their developmental consequences before they reach students, since interventions can have irreversible effects, and propose a [[simulating-students|student development agent]] built to do that without administering anything to real learners. Their framework moves the target of simulation from behavior to development: the agent acts, observes how its own developmental state changes, and carries that state into the next round. Its profile is grounded in published research rather than invented — the authors classify 343,238 papers into 14,397 terms and cluster them into a 33-subcategory vocabulary, validated by experts at Gwet's AC1 of .96. A case study on the MAIC [[agentic-ai|multi-agent]] [[edtech-platform|learning platform]] then predicts 42 real students' post-course non-cognitive outcomes from their pre-course profiles: the agent beat the expected-value baseline on RMSE in all five dimensions, though a regression fitted on post-test data — the costly comparison the method is designed to replace — stayed more accurate.
+> **Synthesis:** Jiang and Zhang (2025) argue that [[ai-education|AIED]] innovations should be evaluated for their developmental consequences before they reach students, since interventions can have irreversible effects, and propose a [[simulating-students|student development agent]] built to do that without administering anything to real learners. Their framework moves the target of [[simulation|simulation]] from behavior to development: the agent acts, observes how its own developmental state changes, and carries that state into the next round. Its profile is grounded in published research rather than invented — the authors classify 343,238 papers into 14,397 terms and cluster them into a 33-subcategory vocabulary, validated by experts at Gwet's AC1 of .96. A case study on the MAIC [[agentic-ai|multi-agent]] [[edtech-platform|learning platform]] then predicts 42 real students' post-course non-cognitive outcomes from their pre-course profiles: the agent beat the expected-value baseline on RMSE in all five dimensions, though a regression fitted on post-test data — the costly comparison the method is designed to replace — stayed more accurate.
 
 ## Key Findings
 
@@ -38,7 +38,7 @@ source_depth: full text
 
 ## A profile that carries published evidence
 
-The framework's stated gap is that existing [[llm]]-based student simulation leans on [[prompt-engineering|prompting]] and personas while ignoring what empirical educational research already establishes, and evaluates itself ad hoc. The response is to make the profile a structured object with a literature pipeline behind it, so the agent's behavior is constrained by findings from real educational data rather than by a prompt author's intuition. The four-part approach — categorization and value assignment, empirical findings acquisition, prompt construction, and iterative simulation — is what turns that profile into an agent that can run a course module unattended.
+The framework's stated gap is that existing [[llm|LLM]]-based student simulation leans on [[prompt-engineering|prompting]] and personas while ignoring what empirical educational research already establishes, and evaluates itself ad hoc. The response is to make the profile a structured object with a literature pipeline behind it, so the agent's behavior is constrained by findings from real educational data rather than by a prompt author's intuition. The four-part approach — categorization and value assignment, empirical findings acquisition, prompt construction, and iterative simulation — is what turns that profile into an agent that can run a course module unattended.
 
 ## The case study on MAIC
 
@@ -46,21 +46,21 @@ The testbed is MAIC, an online platform where students interact with six special
 
 ## What the framework claims beyond behavior simulation
 
-The authors argue the significance lies in closing the loop: because the agent's developmental state feeds back into its next actions, the method targets long-term trajectories rather than isolated behaviors, and the synthetic data it produces can complement [[meta-analysis-systematic-review|meta-analysis]] and data mining where raw data for a novel context does not exist. The ethical claim is the sharper one. If the most sensitive stage of AIED innovation — prototyping and early experimentation — can be run on agents, then students are not exposed to interventions whose effects are uncertain, which the authors connect to calls for designed safety nets in AIED research ([[ethics]]).
+The authors argue the significance lies in closing the loop: because the agent's developmental state feeds back into its next actions, the method targets long-term trajectories rather than isolated behaviors, and the synthetic data it produces can complement [[meta-analysis-systematic-review|meta-analysis]] and data mining where raw data for a novel context does not exist. The ethical claim is the sharper one. If the most sensitive stage of AIED innovation — prototyping and early experimentation — can be run on agents, then students are not exposed to interventions whose effects are uncertain, which the authors connect to calls for designed safety nets in AIED research ([[ethics|ethics]]).
 
 ## What this means for practice
 
 - **Researchers evaluating an AIED design.** The framework offers a way to estimate developmental effects before recruiting students, and its baseline is deliberately the cheapest available: the expected value from pre-course scores. Beating that baseline is the minimum bar, not the goal.
 - **Educational technology developers.** The profile structure is the reusable part: environment, endowment, developmental dimensions, actions, and history, with published findings wired into the prompt rather than left to an author's judgment.
 - **Institutions weighing a pilot.** The paper's argument is about harm avoidance at the prototyping stage. Its own reference result is a reminder of the tradeoff: a regression fitted on real students' post-test outcomes remained more accurate, so simulation buys safety and speed at some cost in fidelity.
-- **Researchers designing simulation studies.** The expert-validation step is worth copying. The framework's vocabulary was checked against human categorization (ARI .97, NMI .95), which is what lets the agent's knowledge claims be audited rather than taken on trust ([[ai-ed-evaluation]]).
+- **Researchers designing simulation studies.** The expert-validation step is worth copying. The framework's vocabulary was checked against human categorization (ARI .97, NMI .95), which is what lets the agent's knowledge claims be audited rather than taken on trust ([[ai-ed-evaluation|AI ed evaluation]]).
 
 ## Limitations
 
 - **An initial step, by the authors' own account.** They describe the framework as a first move, naming more expressive and efficient dynamic profiles, generalization to complex real-world settings, and fine-tuned models for long-term reasoning as open problems.
 - **One module, one platform, one course.** The simulation covers the first module of a single MAIC course with 42 students, and the agent's state is reported at module end, so trajectory-level claims rest on a short horizon.
 - **The comparison is not like-for-like, and one result does not favor the method.** The regression reference uses post-test data from real students, which the authors acknowledge inflates it; and on mean absolute error for self-regulated learning the mean baseline scored better than the agent.
-- **Prompt-driven with an unmeasured ceiling.** The agent is built on prompting with structured profiles, and the paper does not test fine-tuned or smaller task-specific models, which its own future-work section identifies as the likely next source of gains ([[limitations-in-aied-research]]).
+- **Prompt-driven with an unmeasured ceiling.** The agent is built on prompting with structured profiles, and the paper does not test fine-tuned or smaller task-specific models, which its own future-work section identifies as the likely next source of gains ([[limitations-in-aied-research|limitations in AIEd research]]).
 
 ## Citation
 

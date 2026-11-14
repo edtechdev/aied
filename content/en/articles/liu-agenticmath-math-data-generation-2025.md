@@ -48,11 +48,11 @@ Readers searching for code will find [a GitHub repository named AgenticMath](htt
 
 - **Budget for filtering and evaluation, not only for generation.** The gains come from the stages that remove weak problems, so a synthesis pipeline without quality gates is likely to waste its data budget.
 - **Score problems before you synthesize from them.** Filtering seed items for complexity, information value, and clarity is cheap and improved downstream results, which is useful when a course already has a problem bank.
-- **Know that the supervision is model-written.** Items generated this way carry no human answer, so anyone reusing such a corpus should check a sample before trusting it for [[assessment]].
+- **Know that the supervision is model-written.** Items generated this way carry no human answer, so anyone reusing such a corpus should check a sample before trusting it for [[assessment|assessment]].
 
 ## Limitations
 
-- **Text only.** The study addresses text-based problems and names [[multimodal]] settings, such as problems with diagrams or visual reasoning, as future work.
+- **Text only.** The study addresses text-based problems and names [[multimodal|multimodal]] settings, such as problems with diagrams or visual reasoning, as future work.
 - **Scale is untested.** Because of computational and resource constraints, the authors did not run synthesis beyond the sizes they report.
 - **One model judges everything.** Scoring, solving, and final evaluation all use GPT-4o-mini (2024-07-18) and human labels are removed, so quality control rests on statistical correction of [[llm|LLM]] ratings.
 

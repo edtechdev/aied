@@ -13,7 +13,7 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** OATutor (Open Adaptive Tutor) is the first open-source adaptive tutoring system built on Intelligent Tutoring System (ITS) principles, developed at UC Berkeley's CAHL Lab. It combines an MIT-licensed, fully engineered codebase with a Creative Commons (CC BY) algebra content library, knowledge tracing, A/B testing infrastructure, and LTI support — designed to democratize adaptive learning research by removing the barrier to replicating and extending experiments that proprietary platforms create.
+> **Synthesis:** OATutor (Open Adaptive Tutor) is the first open-source adaptive tutoring system built on [[intelligent-tutoring|Intelligent Tutoring System]] (ITS) principles, developed at UC Berkeley's CAHL Lab. It combines an MIT-licensed, fully engineered codebase with a Creative Commons (CC BY) algebra content library, [[knowledge-tracing|knowledge tracing]], A/B testing infrastructure, and LTI support — designed to democratize [[adaptive-learning|adaptive learning]] research by removing the barrier to replicating and extending experiments that proprietary platforms create.
 
 Despite decades of validated tutoring principles, no adaptive tutoring system had been both fully featured and open-sourced to the research community. This absence forced adaptive learning research onto a small number of proprietary platforms, raising the barrier to entry for [[research-methods-aied|researchers]] wanting to replicate, extend, or field adaptive-learning experiments. OATutor addresses this gap, delivering a system that others can fork, experiment with, and A/B test component-by-component.
 
@@ -22,7 +22,7 @@ Despite decades of validated tutoring principles, no adaptive tutoring system ha
 OATutor was iteratively developed over three years (from late 2019) with field trials in classrooms and feedback from students, teachers, and researchers. Its core architecture implements established ITS design principles:
 
 - **Hints & worked examples** — on-demand declarative help or full worked solutions, shown one at a time to reduce [[cognitive-offloading|cognitive load]].
-- **[[scaffolding]] / tutored [[problem-solving|problem solving]]** — problems broken into steps with sub-questions that communicate the underlying goal structure.
+- **[[scaffolding|scaffolding]] / tutored [[problem-solving|problem solving]]** — problems broken into steps with sub-questions that communicate the underlying goal structure.
 - **Mastery estimation** — Bayesian Knowledge Tracing (BKT), a Hidden Markov Model that estimates cognitive mastery per skill, so the tutor withholds problems the student is not ready for and advances them when appropriate.
 - **Immediate feedback** — real-time correctness feedback upon answer submission.
 - **Knowledge Component (KC) model** — a centralized skill model mapping each step to skills, defined to promote abstract understanding while remaining fine-grained enough to represent competence.
@@ -40,11 +40,11 @@ Problems are tagged with skills at the step level via a centralized skill model.
 
 ## Significance for the research community
 
-OATutor's design goal is replicability: researchers can run experiments on OATutor, then publish the entire end-to-end framework, content, and platform as a GitHub link for others to replicate, compare, and build on. The open-source, transparent nature also fosters trust and wider adoption. The work is positioned within broader open movements in education — [[open-source]] educational resources, open datasets, and open algorithms (e.g., pyBKT) — and argues it is "long past due" for an ITS-based platform to join them.
+OATutor's design goal is replicability: researchers can run experiments on OATutor, then publish the entire end-to-end framework, content, and platform as a GitHub link for others to replicate, compare, and build on. The open-source, transparent nature also fosters trust and wider adoption. The work is positioned within broader open movements in education — [[open-source|open source]] educational resources, open datasets, and open algorithms (e.g., pyBKT) — and argues it is "long past due" for an ITS-based platform to join them.
 
 ## Connection to the knowledge base
 
-OATutor is a foundational example of [[adaptive-learning]] and [[intelligent-tutoring]] research infrastructure, and a companion system for evaluating [[generative-ai]] tutoring capabilities (see the companion learning-gain study). It connects to [[knowledge-tracing]] (BKT mastery estimation), [[personalized-learning]], and [[math-education]], and its open platform model is directly relevant to the [[intelligent-tutoring|AI Tutoring]] evidence base and to the automated authoring challenges explored in [[ai-tutor-authoring-promptdecipher]].
+OATutor is a foundational example of [[adaptive-learning|adaptive learning]] and [[intelligent-tutoring|intelligent tutoring]] research infrastructure, and a companion system for evaluating [[generative-ai|generative AI]] tutoring capabilities (see the companion learning-gain study). It connects to [[knowledge-tracing|knowledge tracing]] (BKT mastery estimation), [[personalized-learning|personalized learning]], and [[math-education|math education]], and its open platform model is directly relevant to the [[intelligent-tutoring|AI Tutoring]] evidence base and to the automated authoring challenges explored in [[ai-tutor-authoring-promptdecipher|Koyama et al. (2026)]].
 
 ## What this means for practice
 

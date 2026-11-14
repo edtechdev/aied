@@ -62,7 +62,7 @@ The cross-model robustness matters for institutions that cannot standardise on o
 
 ## What this means for practice
 
-- **Instructors.** Teach prompt structure explicitly, not prompting as a knack. A five-component prompt — role, goal, inputs, process constraints, output format — is checkable [[feedback]] material, and in this experiment it lifted rated quality on every model tested.
+- **Instructors.** Teach prompt structure explicitly, not prompting as a knack. A five-component prompt — role, goal, inputs, process constraints, output format — is checkable [[feedback|feedback]] material, and in this experiment it lifted rated quality on every model tested.
 - **Curriculum designers.** Put prompt competence in the assessed [[curriculum-design|curriculum]] rather than in optional study-skills advice. If competence mediates who converts access into gain, leaving it informal reproduces the gap the tool was supposed to close.
 - **[[administrator|Administrators]] and policymakers.** Count competence, not licenses. Provisioning the same model to everyone does not equalise benefit when household capital works through skill; measure and teach the skill.
 - **Researchers.** Treat rated output quality and learning as different outcomes. The experiment here measures what the model produced, not what the student learned, and the next study needs the learning measure.

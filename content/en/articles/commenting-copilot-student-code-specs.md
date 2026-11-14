@@ -15,7 +15,7 @@ confidence: high
 
 > **Synthesis:** Analyzes how students specify intended behavior in natural language to AI code tools (Copilot) across multiple years, deriving a taxonomy of code-generation specifications expressed through comments. As AI tools shift emphasis from writing code to specifying behavior, the study documents what students actually ask of these systems.
 
-Situates in [[llm]]-assisted [[programming-its]] and [[student-experience]] within [[cs-education]] and [[higher-ed]], extending [[reshaping-cs-education-genai]] by characterizing the new 'specification' literacy. It informs [[ai-literacy]] for coding and the design of tools that [[scaffolding|scaffold]] rather than replace student reasoning.
+Situates in [[llm|LLM]]-assisted [[programming-its|Deriyeva et al. (2026)]] and [[student-experience|student experience]] within [[cs-education|CS education]] and [[higher-ed|higher education]], extending [[reshaping-cs-education-genai|Lee et al. (2026)]] by characterizing the new 'specification' literacy. It informs [[ai-literacy|AI literacy]] for coding and the design of tools that [[scaffolding|scaffold]] rather than replace student reasoning.
 
 ## Key Findings
 

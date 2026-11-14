@@ -73,7 +73,7 @@ Every primary comparison holds the text fixed, so the difference cannot come fro
 
 - **Assessment professionals.** Do not pass an attainment estimate or a prior attempt to a grader without an ablation: grade the same answers with and without each piece of context, and report signed error by tail beside QWK.
 - **Platform and product teams.** Re-run that ablation whenever the model, the reasoning setting or the prompt changes: the effect doubled on one model at minimal reasoning, and a new version makes a new instrument.
-- **Instructors.** Treat the student description as part of the instrument, not metadata: a learner model that underestimates a student costs that student up to 0.79 points on identical work, and the [[feedback]] carries it.
+- **Instructors.** Treat the student description as part of the instrument, not metadata: a learner model that underestimates a student costs that student up to 0.79 points on identical work, and the [[feedback|feedback]] carries it.
 - **Researchers.** Report invariance beside agreement, resample the student rather than the answer, and measure group gaps at equal human score allowing for noise.
 
 ## Limitations

@@ -23,7 +23,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** A survey of 1,004 students at three Chinese public universities asks whether the awkwardness of not knowing where one's [[generative-ai]] use sits relative to [[teacher-role|teacher]] expectations — perceived teacher-referenced normative tension — goes together with [[self-report-measures|self-reported]] learning-oriented use. It does, and positively: tension and learning-oriented use coexist rather than sit at opposite ends of one scale. The finding resists the common reading that unsettled norms simply suppress productive use. But the design is cross-sectional and same-source, so the authors are explicit that the association does not establish that tension improves behavior; a reverse direction and shared unmeasured traits fit the data equally well.
+> **Synthesis:** A survey of 1,004 students at three Chinese public universities asks whether the awkwardness of not knowing where one's [[generative-ai|generative AI]] use sits relative to [[teacher-role|teacher]] expectations — perceived teacher-referenced normative tension — goes together with [[self-report-measures|self-reported]] learning-oriented use. It does, and positively: tension and learning-oriented use coexist rather than sit at opposite ends of one scale. The finding resists the common reading that unsettled norms simply suppress productive use. But the design is cross-sectional and same-source, so the authors are explicit that the association does not establish that tension improves behavior; a reverse direction and shared unmeasured traits fit the data equally well.
 
 ## Key Findings
 

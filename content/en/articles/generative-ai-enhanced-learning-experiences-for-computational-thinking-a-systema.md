@@ -19,8 +19,8 @@ methods: [meta-analysis-systematic-review]
 
 - **Young but rapidly growing field.** From 1,198 articles screened in October 2024, the included studies show most GenAI-for-CT interventions focus on undergraduate students and basic programming tasks, frequently using off-the-shelf tools with limited integration into the course.
 - **Four recurring GenAI roles.** GenAI is typically used as a **coder**, **tutor**, **debugger**, or **ideator**, with mixed (sometimes null) effects on learning outcomes depending on how the tool is configured and scaffolded.
-- **The overreliance–under-utilization tension.** Beginners tend to over-rely on GenAI, offloading their thinking (see [[cognitive-offloading]]), while advanced learners may under-use it in complex projects — a two-sided design problem that no single configuration solves.
-- **Coding assistance can support or supplant learning.** Using GenAI to generate or debug code can enhance learning when combined with [[computational-thinking]] concepts in open-ended projects, but can undermine skill acquisition when it bypasses the learner's own algorithmic thinking.
+- **The overreliance–under-utilization tension.** Beginners tend to over-rely on GenAI, offloading their thinking (see [[cognitive-offloading|cognitive offloading]]), while advanced learners may under-use it in complex projects — a two-sided design problem that no single configuration solves.
+- **Coding assistance can support or supplant learning.** Using GenAI to generate or debug code can enhance learning when combined with [[computational-thinking|computational thinking]] concepts in open-ended projects, but can undermine skill acquisition when it bypasses the learner's own algorithmic thinking.
 - **Seven design guidelines** (below) provide actionable direction for educators and system designers.
 
 ## The seven design guidelines
@@ -30,15 +30,15 @@ methods: [meta-analysis-systematic-review]
 3. **Combine GenAI with CT concepts in open-ended projects** — expand GenAI's role beyond solution generation to include coding, debugging, and ideation within tasks that require students to engage CT concepts themselves.
 4. **Explore advanced learning-experience integration** — leverage GenAI in more advanced roles (e.g., as a pair-programmer) to promote higher-order [[student-engagement|engagement]] and [[self-regulated-learning|self-regulated learning]] (e.g., [[socratic-method|Socratic]]-style prompting).
 5. **Measure outcomes for reflection** — embed mechanisms that promote both learner and instructor reflection on GenAI use, since the review finds outcome measurement is often weak.
-6. **Design learning experiences with digital [[ethics]] and integrity in mind** — address privacy, bias, and [[academic-integrity|academic integrity]] concerns, mitigating issues by design (e.g., privacy-by-design).
+6. **Design learning experiences with digital [[ethics|ethics]] and integrity in mind** — address privacy, bias, and [[academic-integrity|academic integrity]] concerns, mitigating issues by design (e.g., privacy-by-design).
 7. **Rethink targeted skills for CT** — evaluate which skills students should actually acquire in CT education, balancing instruction between algorithmic thinking and other CT dimensions.
 
 ## What this means for practice
 
 - **Instructors.** For beginners, position GenAI as a tutor that prompts reasoning rather than a coder or debugger that supplies the solution, and explain the over-reliance risk before students touch the tool.
-- **Instructors.** Differentiate [[scaffolding]] by learner level: the same tool needs tutor-style prompting and controlled, limited use for novices and teenagers, and richer open-ended integration for advanced learners, who often under-use it in complex projects.
+- **Instructors.** Differentiate [[scaffolding|scaffolding]] by learner level: the same tool needs tutor-style prompting and controlled, limited use for novices and teenagers, and richer open-ended integration for advanced learners, who often under-use it in complex projects.
 - **Instructional designers.** Embed GenAI in open-ended projects that require learners to apply [[computational-thinking|computational thinking]] concepts themselves, since more than 80% of the reviewed learning experiences used simple exercises and most targeted basic programming in introductory courses.
-- **Instructional designers.** Build reflection into GenAI-supported activities with [[critical-thinking]] prompts, post-task debriefings, and [[reflection|learning journals]], because only a minority of studies examined how students reflect on their GenAI use or how instructors adapt.
+- **Instructional designers.** Build reflection into GenAI-supported activities with [[critical-thinking|critical thinking]] prompts, post-task debriefings, and [[reflection|learning journals]], because only a minority of studies examined how students reflect on their GenAI use or how instructors adapt.
 - **Researchers.** Measure reflection and instructor adaptation alongside outcomes using new scales that separate over-reliance risk from the conditions for success, since the review found outcome measurement often weak.
 
 ## Limitations

@@ -14,7 +14,7 @@ level: [higher ed]
 methods: [ai-ed-evaluation]
 ---
 
-> **Synthesis:** Yan, Xiong, Li & Chen (2026) reposition LLMs from [[benchmark]] targets to auxiliary evidence sources for interpreting programming-exam difficulty, showing that AI difficulty estimates correlate strongly with student pass rates across parallel-class finals (rho ≈ −0.87 at problem level) while explicitly bounding that these scales must not be used for individual student evaluation or automatic grade adjustment.
+> **Synthesis:** Yan, Xiong, Li & Chen (2026) reposition LLMs from [[benchmark|benchmark]] targets to auxiliary evidence sources for interpreting programming-exam difficulty, showing that AI difficulty estimates correlate strongly with student pass rates across parallel-class finals (rho ≈ −0.87 at problem level) while explicitly bounding that these scales must not be used for individual student evaluation or automatic grade adjustment.
 
 ## Key Findings
 

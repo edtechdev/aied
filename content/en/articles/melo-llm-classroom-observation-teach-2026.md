@@ -30,7 +30,7 @@ methods: [ai-ed-evaluation, benchmark]
 - **Faculty developers.** Treat AI observation output as input to a professional conversation, not as a self-sufficient evaluation: expert [[teacher-role|pedagogical judgment]] stays central and hybrid designs that combine model efficiency with expert interpretation are indicated.
 - **Faculty developers.** Guard against feedback narrowing — because the models privileged explicit verbalized behaviors, review AI-generated [[ai-feedback-quality|feedback]] for what it silently devalues, such as sustained student [[self-regulated-learning|self-regulation]].
 - **Administrators.** Require repeated-measures validation of intra-model variability before scaling any AI classroom-observation system; a single-pass accuracy estimate overstates reliability.
-- **Designers.** Do not treat a text-only pipeline as equivalent to observation, since models working from transcripts lose gesture, eye contact, and tone; prioritize [[multimodal]] capture in new systems.
+- **Designers.** Do not treat a text-only pipeline as equivalent to observation, since models working from transcripts lose gesture, eye contact, and tone; prioritize [[multimodal|multimodal]] capture in new systems.
 
 ## Limitations
 

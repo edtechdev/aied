@@ -1,7 +1,7 @@
 ---
 title: Guardrails
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -11,13 +11,13 @@ connected_faqs: [asynchronous-online-courses-ai]
 reviewed_by: [editor]
 ---
 
-> **Guardrails** are the explicit design mechanisms, constraints, and intervention points that keep an [[ai-education|AI education]] system within pedagogically safe behavior — the *how* that operationalizes the *goal* of [[pedagogical-safety]]. They are the difference between a raw general-purpose [[conversational-ai|chatbot]] and a tutoring tool that reliably preserves learning. Guardrails are not a single feature but a layered set of controls spanning prompt design, knowledge grounding, reward shaping, deployment QA, and ongoing auditing.
+> **Guardrails** are the explicit design mechanisms, constraints, and intervention points that keep an [[ai-education|AI education]] system within pedagogically safe behavior — the *how* that operationalizes the *goal* of [[pedagogical-safety|pedagogical safety]]. They are the difference between a raw general-purpose [[conversational-ai|chatbot]] and a tutoring tool that reliably preserves learning. Guardrails are not a single feature but a layered set of controls spanning prompt design, knowledge grounding, reward shaping, deployment QA, and ongoing auditing.
 
 ## Questions to Consider
 
 - A tutor that gives no wrong answers can still quietly harm learning. What kinds of 'quiet' failures might escape a toxicity check but still undermine how much students actually learn?
 - In a field experiment, an unguarded [[intelligent-tutoring|AI tutor]] raised practice performance but reduced later unassisted exam scores, while a 'hint-not-answer' version eliminated the harm. Why might making students perform better in the moment actually make them learn less?
-- If an AI tutor is engineered to be 'kind' — never pushing back or giving corrective [[feedback]] — how could that be a safety problem rather than a feature? When is agreeable behavior harmful in an educational context?
+- If an AI tutor is engineered to be 'kind' — never pushing back or giving corrective [[feedback|feedback]] — how could that be a safety problem rather than a feature? When is agreeable behavior harmful in an educational context?
 - Guardrails are described as a layered set of controls, from prompting to knowledge grounding to training to auditing. Pick one layer and consider: where could it fail, and what would a different layer catch that it misses?
 - Guardrails themselves can be biased, with refusals and softened answers patterned by [[learner-identity|student identity]]. How would you audit a safety filter to make sure it isn't quietly reproducing inequity while 'protecting' learners?
 - Younger learners are described as least equipped to detect manipulative or sycophantic AI behavior. How does that change what 'safe' should mean for a K-12 AI tool compared with a university one?
@@ -37,7 +37,7 @@ The single most cited empirical demonstration is the [[generative-ai-guardrails-
 
 ### 1. Prompt-level guardrails (the "hint-not-answer" pattern)
 
-The [[generative-ai-guardrails-harm-learning|Bastani]] GPT Tutor design shows the foundational pattern: the prompt instructs the model to **give hints, not answers**, and is seeded with **[[teacher-role|teacher]]-authored problem-specific information** (correct solution, common mistakes, feedback guidance) so its hints are accurate and checkable. Related: [[socratic-method|Socratic]] dialogue and step-by-step [[scaffolding]] requirements that force student articulation before revealing output. This is a [[prompt-engineering]] strategy that preserves [[desirable-difficulties|productive struggle]].
+The [[generative-ai-guardrails-harm-learning|Bastani]] GPT Tutor design shows the foundational pattern: the prompt instructs the model to **give hints, not answers**, and is seeded with **[[teacher-role|teacher]]-authored problem-specific information** (correct solution, common mistakes, feedback guidance) so its hints are accurate and checkable. Related: [[socratic-method|Socratic]] dialogue and step-by-step [[scaffolding|scaffolding]] requirements that force student articulation before revealing output. This is a [[prompt-engineering|prompt engineering]] strategy that preserves [[desirable-difficulties|productive struggle]].
 
 ### 2. Knowledge grounding (RAG)
 
@@ -46,7 +46,7 @@ The [[generative-ai-guardrails-harm-learning|Bastani]] GPT Tutor design shows th
 ### 3. Model-level controls and training
 
 - **Fine-tuning / post-training:** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] uses RL to prioritize guided learning over answer-giving; [[tact-pedagogically-adaptive-esl-tutoring|TACT]] aligns post-training to a tutor-strategy taxonomy via GRPO so models scaffold rather than merely respond. This is the [[llm-training-and-fine-tuning|pedagogical LLM training]] approach to baking safety into behavior.
-- **Unlearning:** [[llm-unlearning-math-privacy|math-unlearning]] applies gradient-based unlearning to strip personally identifying information and harmful content from math tutors (PII output down to 0.1%, toxic rates to 0.0%) while preserving downstream utility — a [[privacy]]-and-safety guardrail at the model level.
+- **Unlearning:** [[llm-unlearning-math-privacy|math-unlearning]] applies gradient-based unlearning to strip personally identifying information and harmful content from math tutors (PII output down to 0.1%, toxic rates to 0.0%) while preserving downstream utility — a [[privacy|privacy]]-and-safety guardrail at the model level.
 - **Reward shaping in RL:** [[pedagogical-safety-rl|pedagogical safety in RL]] formalizes how poorly specified rewards invite "reward hacking" (test-score inflation, [[student-engagement|engagement]] gaming), proposing a four-layer model and detection via discrepancy auditing and policy inversion.
 
 ### 4. Interaction-level guardrails
@@ -60,13 +60,13 @@ The [[generative-ai-guardrails-harm-learning|Bastani]] GPT Tutor design shows th
 
 ### 5. Auditing guardrails for fairness
 
-Guardrails themselves are not neutral: [[paternalistic-filter-llm-history-education|the Paternalistic Filter]] audit shows refusals and softened answers are patterned by student identity and topic sensitivity, reproducing epistemic injustice even while "protecting." Safe guardrails must be audited for differential treatment — a direct case for [[bias-mitigation]] and [[equity-in-ai-education]] in [[governance]] and [[regulation]].
+Guardrails themselves are not neutral: [[paternalistic-filter-llm-history-education|the Paternalistic Filter]] audit shows refusals and softened answers are patterned by student identity and topic sensitivity, reproducing epistemic injustice even while "protecting." Safe guardrails must be audited for differential treatment — a direct case for [[bias-mitigation|bias mitigation]] and [[equity-in-ai-education|equity]] in [[governance|governance]] and [[regulation|regulation]].
 
 **A classifier guardrail's threshold is a policy decision.** Moving a toxicity cutoff from 0.3 to 0.7 cut labeled prompts from 35.62% to 12.4%; on a scam detector it traded 15 false alarms and 18 missed scams for 2 and 36, no cutoff removes both, and a robustness figure means little without its attack ([[ai-security-literacy-k12-framework-2026|Yocam, Vaidyan & Kalathas (2026)]]).
 
 ## Guardrails vs. Pedagogical Safety
 
-- **[[pedagogical-safety]]** is the *principle/goal* — that AI education systems protect learners from harm (content, bias, unsafe advice, manipulation).
+- **[[pedagogical-safety|pedagogical safety]]** is the *principle/goal* — that AI education systems protect learners from harm (content, bias, unsafe advice, manipulation).
 - **Guardrails** are the *mechanisms/techniques* — the concrete design controls (prompting, RAG, training, QA, auditing) that implement that goal.
 
 The two are closely coupled: almost every guardrail technique is a way of achieving [[pedagogy|pedagogical]] safety, and pedagogical safety is almost entirely delivered through guardrails. Guardrails is therefore best understood as the **design and engineering layer** beneath the pedagogical-safety principle, and is also the broader term used across general AI safety (content moderation, jailbreak resistance) before it is specialized for education.
@@ -82,7 +82,7 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 4. **Prefer alignment over refusal.** Reward guidance and scaffolding in training rather than relying on brittle refusal rules.
 5. **Require human oversight.** Teacher-in-the-loop QA before deployment and continuous auditing for differential treatment.
 
-- **Guardrailing procedural tutoring with embedded rules.** [[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu, and Sun (2026)]] instantiate these principles as a concrete, auditable set of guardrails for an [[llm]] math tutor: a **numerical-correctness gate** with an uncertainty guardrail so the tutor never makes an unwarranted epistemic commitment, **output constraints** enforcing brevity and micro-step progression for cognitive-load management, an **anti-spoiler boundary** that institutionalizes the logic-first principle by returning computational agency to the student, and a **goodbye gate** encoding the distinction between authentic completion and premature termination. These rules were consolidated as reproducible prompt-architecture rules validated in a 40-student classroom pilot — a model of translating [[pedagogical-safety|safety]] principles into auditable, replicable guardrails.
+- **Guardrailing procedural tutoring with embedded rules.** [[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu, and Sun (2026)]] instantiate these principles as a concrete, auditable set of guardrails for an [[llm|LLM]] math tutor: a **numerical-correctness gate** with an uncertainty guardrail so the tutor never makes an unwarranted epistemic commitment, **output constraints** enforcing brevity and micro-step progression for cognitive-load management, an **anti-spoiler boundary** that institutionalizes the logic-first principle by returning computational agency to the student, and a **goodbye gate** encoding the distinction between authentic completion and premature termination. These rules were consolidated as reproducible prompt-architecture rules validated in a 40-student classroom pilot — a model of translating [[pedagogical-safety|safety]] principles into auditable, replicable guardrails.
 
 ## Implications for Practice
 
@@ -90,7 +90,7 @@ The two are closely coupled: almost every guardrail technique is a way of achiev
 
 - Judge a tutor by what learners can do unsupported, not by their in-session performance. In the field [[rct]], a GPT-4 tutor left practice accuracy **+48%** higher yet cost students **17%** on the later unsupervised exam, and the "hint-not-answer" build wiped out that loss. Every classroom signal that is generated with the tool present is the inflated one.
 - When you cannot change the tool, change what is graded without it. The unassisted measure is what makes the guardrail question visible at all.
-- Treat "kindness" as a design parameter with a failure mode: a tutor that never pushes back or corrects may satisfy students while removing the corrective [[feedback]] that learning needs.
+- Treat "kindness" as a design parameter with a failure mode: a tutor that never pushes back or corrects may satisfy students while removing the corrective [[feedback|feedback]] that learning needs.
 
 **For developers**
 

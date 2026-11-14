@@ -13,7 +13,7 @@ sources: ['raw/papers/2605.26010.md']
 confidence: high
 ---
 
-> **Synthesis:** This multicenter study (N=243 European secondary students) systematically challenges the 'Digital Native' paradigm by demonstrating a severe confidence-competence gap in digital and AI literacy. Students report near-maximum [[self-efficacy]] in passive digital consumption (browsing, social media) but exhibit a sharp decline when evaluated on active technological creation and algorithmic logic — a collective Dunning-Kruger effect.
+> **Synthesis:** This multicenter study (N=243 European secondary students) systematically challenges the 'Digital Native' paradigm by demonstrating a severe confidence-competence gap in digital and [[ai-literacy|AI literacy]]. Students report near-maximum [[self-efficacy|self-efficacy]] in passive digital consumption (browsing, social media) but exhibit a sharp decline when evaluated on active technological creation and algorithmic logic — a collective Dunning-Kruger effect.
 
 ## The AI Paradox
 A particularly striking finding is the 'AI Paradox': students significantly [[cognitive-offloading|overestimate]] their critical awareness of deepfakes and algorithmic biases compared to their operational AI skills. This creates a false sense of invulnerability against modern misinformation — students believe they can detect fakes but lack the practical skills to do so. This directly connects to emerging [[research-methods-aied|research]] on [[cognitive-offloading-speedup-illusion|cognitive offloading and AI-induced miscalibration]].

@@ -1,7 +1,7 @@
 ---
 title: Humanities and Social Science Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-13T16:20:00-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
@@ -10,7 +10,7 @@ discipline: [humanities education]
 reviewed_by: [editor]
 ---
 
-> **Humanities and Social Science (SSH) Education** — the [[teacher-role|teaching]] of disciplines concerned with human culture, values, meaning, and social life, including history, philosophy, literature, languages, sociology, and the arts. AI in SSH education raises distinctive questions because these fields center on interpretation, critical judgment, authorship, and meaning-making — processes that [[generative-ai|generative AI]] both supports and disrupts. AI here functions less as a tutor of factual content and more as an epistemic mediator that reshapes how students interpret texts, construct arguments, and understand their own [[agency]] as writers and thinkers.
+> **Humanities and Social Science (SSH) Education** — the [[teacher-role|teaching]] of disciplines concerned with human culture, values, meaning, and social life, including history, philosophy, literature, languages, sociology, and the arts. AI in SSH education raises distinctive questions because these fields center on interpretation, critical judgment, authorship, and meaning-making — processes that [[generative-ai|generative AI]] both supports and disrupts. AI here functions less as a tutor of factual content and more as an epistemic mediator that reshapes how students interpret texts, construct arguments, and understand their own [[agency|agency]] as writers and thinkers.
 
 ## Questions to Consider
 
@@ -23,13 +23,13 @@ reviewed_by: [editor]
 
 ## Introduction
 
-SSH education is a distinct subject area, complementary to [[stem-education]] and [[language-learning]]. Because the humanities prize interpretive depth, authorship, and contextual judgment, they pose different AI-integration challenges than STEM — and connect to [[higher-ed]] and [[ai-literacy]] in [[discipline-specific-aied|domain-specific]] ways.
+SSH education is a distinct subject area, complementary to [[stem-education|STEM education]] and [[language-learning|language learning]]. Because the humanities prize interpretive depth, authorship, and contextual judgment, they pose different AI-integration challenges than STEM — and connect to [[higher-ed|higher education]] and [[ai-literacy|AI literacy]] in [[discipline-specific-aied|domain-specific]] ways.
 
-Civic and political education is a sibling subject area to these disciplines rather than a branch of them, and [[civic-and-political-education]] treats it in its own right. The evidence there is thin: eight sources touch the topic and none measures civic learning.
+Civic and political education is a sibling subject area to these disciplines rather than a branch of them, and [[civic-and-political-education|civic and political education]] treats it in its own right. The evidence there is thin: eight sources touch the topic and none measures civic learning.
 
 ### How AI appears in humanities and social science education
 
-- **Restructuring interpretive cognition.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] argues that generative AI acts as an *epistemic mediator* that reconfigures meaning-making, authorship, and learner [[agency]] in SSH education. It identifies three transformations — externalization of interpretive cognition, hybridization of authorship, and emergence of distributed epistemic agency — and three developmental trajectories (AI-dependent, AI-enhanced, AI-critical interpretation). This grounds a developmental-critical [[pedagogy|pedagogical]] model for preserving interpretive depth.
+- **Restructuring interpretive cognition.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] argues that generative AI acts as an *epistemic mediator* that reconfigures meaning-making, authorship, and learner [[agency|agency]] in SSH education. It identifies three transformations — externalization of interpretive cognition, hybridization of authorship, and emergence of distributed epistemic agency — and three developmental trajectories (AI-dependent, AI-enhanced, AI-critical interpretation). This grounds a developmental-critical [[pedagogy|pedagogical]] model for preserving interpretive depth.
 - **What a task lets a reader see decides whether authorship is assessable.** In a model simulation of 148 texts, memoranda and revision defenses scored 3.16 and 3.10 on argumentative visibility against 2.63 for position essays, because the format itself required source explanation or a response to objections ([[liu-argumentative-work-visible-genai-assessment-2026|Liu & Liu (2026)]]).
 - **History education.** [[paternalistic-filter-llm-history-education|Research on LLMs in history education]] examines how AI shapes historical reasoning and source interpretation.
 - **Humanities and social-science students' experiences.** [[genai-impact-chinese-students-hss|GenAI's impact on Chinese humanities and social science students]] and [[acceptance-ai-english-tools-2026|AI acceptance among language/English learners]] document student-facing effects across SSH disciplines.
@@ -41,14 +41,14 @@ Civic and political education is a sibling subject area to these disciplines rat
 
 ### Why it matters
 
-SSH education foregrounds the very capabilities generative AI most challenges — original authorship, interpretive judgment, critical analysis, and context-sensitive meaning-making. SSH education is treated as a critical counterweight to instrumental, skills-based framings of AI: it asks whether AI-supported learning preserves [[critical-thinking]], epistemic responsibility, and interpretive autonomy, connecting to [[critical-pedagogy]] and [[ai-literacy]].
+SSH education foregrounds the very capabilities generative AI most challenges — original authorship, interpretive judgment, critical analysis, and context-sensitive meaning-making. SSH education is treated as a critical counterweight to instrumental, skills-based framings of AI: it asks whether AI-supported learning preserves [[critical-thinking|critical thinking]], epistemic responsibility, and interpretive autonomy, connecting to [[critical-pedagogy|critical pedagogy]] and [[ai-literacy|AI literacy]].
 
 Humanities teaching has begun using agentic AI for source assembly and drafting, which moves the discipline's assessment question from whether text was generated to whether interpretation can be attributed to the student ([[capodieci-humanities-hil-2026|Capodieci et al., 2026]]).
 
 ## Implications for humanities and social-science instructors
 
 - **Treat AI as an epistemic mediator, not a content tutor.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] shows AI reconfigures meaning-making, authorship, and agency in SSH — [[design-education|design pedagogy]] around the three trajectories (AI-dependent, AI-enhanced, AI-critical) and aim for the AI-critical end.
-- **Protect interpretive depth and authorship.** Because the humanities prize judgment and original authorship, guard against AI flattening analysis; make critical [[ai-ed-evaluation|evaluation of AI]] output a learning goal ([[critical-thinking]], [[ai-literacy]]).
+- **Protect interpretive depth and authorship.** Because the humanities prize judgment and original authorship, guard against AI flattening analysis; make critical [[ai-ed-evaluation|evaluation of AI]] output a learning goal ([[critical-thinking|critical thinking]], [[ai-literacy|AI literacy]]).
 - **Use AI deliberately in source work.** [[paternalistic-filter-llm-history-education|History research]] shows AI can shape reasoning and source interpretation — teach students to interrogate AI-mediated historical claims and the filters it applies.
 - **Consider student-facing impacts.** [[genai-impact-chinese-students-hss|Student experience studies]] document how GenAI affects SSH learners; adapt support and integrity framing to real usage rather than assumptions.
 

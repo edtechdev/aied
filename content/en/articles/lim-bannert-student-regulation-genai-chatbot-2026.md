@@ -21,7 +21,7 @@ audience: [instructional designers, instructors]
 - **Chatbot as information source and surface-task helper.** Queries were mostly seeking information (53%), then language support (25%), generating ideas (13%), and correction/repetition (9%). The chatbot was used ~12% of learning time.
 - **Performance benefits but outsourcing risks.** Chatbot users scored higher on the essay, and chatbot interaction frequency correlated positively with high-cognitive writing activities. But students asked the chatbot to "summarize the paragraph into 3 sentences" or "extract only the main ideas" — offloading comprehension, synthesis, and key regulatory decisions (evaluating text relevance, deciding what to read, integrating new knowledge).
 - **Low planning and monitoring.** Both chatbot users and non-users engaged in almost no planning and monitoring; the chatbot potentially replaced reading, a core activity for building an initial knowledge base.
-- **Production deficit.** Students possessed sufficient SRL knowledge and skills but failed to spontaneously engage in [[regulation]] during learning.
+- **Production deficit.** Students possessed sufficient SRL knowledge and skills but failed to spontaneously engage in [[regulation|regulation]] during learning.
 
 ## What this means for practice
 

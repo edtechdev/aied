@@ -25,7 +25,7 @@ methods: [quantitative-research]
 
 ## What this means for practice
 
-- **Teacher educators.** Foreground pedagogical AI knowledge (TPAIK) over technical AI knowledge in [[teacher-education]] coursework, since TAIK alone was insufficient and could slightly reduce students' perceptions of AI for social good.
+- **Teacher educators.** Foreground pedagogical AI knowledge (TPAIK) over technical AI knowledge in [[teacher-education|teacher education]] coursework, since TAIK alone was insufficient and could slightly reduce students' perceptions of AI for social good.
 - **Faculty developers.** Build AI professional learning around [[discipline-specific-aied|subject-specific]] [[pedagogy|teaching methods]] rather than tool training, because TPAIK carried the positive associations with students' perceptions and intentions.
 - **Administrators.** Fund pedagogical capacity before equipment and technical certifications when building [[k-12|K-12]] [[ai-education|AI education]].
 - **Researchers.** Model teacher-to-student pathways as indirect and cross-level rather than assuming AI knowledge transfers directly, because neither TAIK nor TPAIK predicted students' AI knowledge.

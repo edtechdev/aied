@@ -15,7 +15,7 @@ page_kind: [synthesis]
 methods: [meta-analysis-systematic-review]
 ---
 
-> **Synthesis:** Banihashem, Bond, Bergdahl, Khosravi, and Noroozi systematically map the intersection of AI and [[self-regulated-learning|self-regulated learning (SRL)]], reviewing 84 studies via a systematic mapping review across Web of Science, Scopus, IEEE Xplore, ACM Digital, EBSCOHost, Google Scholar, and OpenAlex. Using the "Who–What–How–Why" framework (stakeholders, theory, methods, objectives), they find AI–SRL research predominantly targets [[higher-ed|higher education]] students with minimal attention to [[early-childhood-elementary-ai-education|primary education]] and educators. AI is implemented primarily as an intervention — through adaptive systems and [[personalized-learning|personalization]], prediction and profiling, [[intelligent-tutoring|intelligent tutoring systems]], and assessment and evaluation. The direct impact of AI on SRL focuses mainly on the [[metacognition|metacognitive]] and cognitive aspects, while the **motivational aspect of SRL remains underexplored**, and over one-third of studies did not specify an SRL theory.
+> **Synthesis:** Banihashem, Bond, Bergdahl, Khosravi, and Noroozi systematically map the intersection of AI and [[self-regulated-learning|self-regulated learning (SRL)]], reviewing 84 studies via a systematic mapping review across Web of Science, Scopus, IEEE Xplore, ACM Digital, EBSCOHost, Google Scholar, and OpenAlex. Using the "Who–What–How–Why" framework (stakeholders, theory, methods, objectives), they find AI–SRL research predominantly targets [[higher-ed|higher education]] students with minimal attention to [[early-childhood-elementary-ai-education|primary education]] and educators. AI is implemented primarily as an intervention — through [[adaptive-learning|adaptive systems]] and [[personalized-learning|personalization]], prediction and profiling, [[intelligent-tutoring|intelligent tutoring systems]], and assessment and evaluation. The direct impact of AI on SRL focuses mainly on the [[metacognition|metacognitive]] and cognitive aspects, while the **motivational aspect of SRL remains underexplored**, and over one-third of studies did not specify an SRL theory.
 
 ## Key Findings
 
@@ -28,10 +28,10 @@ methods: [meta-analysis-systematic-review]
 
 ## What this means for practice
 
-- **Learning designers.** Design AI support for the [[motivation|motivational]] dimension — [[self-efficacy]], [[student-engagement|engagement]] — alongside the cognitive and [[metacognition|metacognitive]] [[regulation]] the literature already targets, since motivation is the aspect the mapping found most underexplored.
+- **Learning designers.** Design AI support for the [[motivation|motivational]] dimension — [[self-efficacy|self-efficacy]], [[student-engagement|engagement]] — alongside the cognitive and [[metacognition|metacognitive]] [[regulation|regulation]] the literature already targets, since motivation is the aspect the mapping found most underexplored.
 - **Instructional designers.** Name the [[self-regulated-learning|SRL]] theory a tool is built on and state which phases it supports; over one-third of the mapped studies specified no SRL theory, which leaves effects hard to interpret or reuse.
 - **Learning designers.** Plan AI-SRL support across a term or longer rather than a single module and treat short-term gains as provisional: only about one-third of the mapped studies extended beyond two months.
-- **Instructional designers.** Use AI profiling and prediction to identify at-risk students for timely intervention, and adopt the implementation forms the record supports best — [[adaptive-learning]] and personalization, [[feedback]], and [[assessment|assessment and evaluation]].
+- **Instructional designers.** Use AI profiling and prediction to identify at-risk students for timely intervention, and adopt the implementation forms the record supports best — [[adaptive-learning|adaptive learning]] and personalization, [[feedback|feedback]], and [[assessment|assessment and evaluation]].
 - **Researchers.** Recruit educators and primary-level learners as participants; the mapping shows both are nearly absent from AI-SRL research, and the authors ask for individual- and group-level effects to be reported with effect sizes.
 
 ## Limitations

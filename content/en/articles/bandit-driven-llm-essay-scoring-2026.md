@@ -12,7 +12,7 @@ sources: ['raw/papers/bandit-driven-llm-essay-scoring-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Large language models demonstrate strong capability in [[automated-essay-scoring|automated essay scoring]], but contemporary approaches typically employ fixed prompt selection that fails to address operational cost concerns and evolving optimal configurations. Manakina and Bogdanov propose a cost-aware multi-armed bandit controller that treats each prompt type as an arm, enabling adaptive selection of optimal [[prompt-engineering|prompting]] strategies during inference. On IELTS Writing Task 2 essays, the framework achieves comparable scoring accuracy to exhaustive grid search while reducing [[llm]] calls by 78.4%. The multi-step assessment approach with calibration examples achieves the highest accuracy, and the work produces the first cost-reliability learning curves for essay scoring.
+> **Synthesis:** Large language models demonstrate strong capability in [[automated-essay-scoring|automated essay scoring]], but contemporary approaches typically employ fixed prompt selection that fails to address operational cost concerns and evolving optimal configurations. Manakina and Bogdanov propose a cost-aware multi-armed bandit controller that treats each prompt type as an arm, enabling adaptive selection of optimal [[prompt-engineering|prompting]] strategies during inference. On IELTS Writing Task 2 essays, the framework achieves comparable scoring accuracy to exhaustive grid search while reducing [[llm|LLM]] calls by 78.4%. The multi-step [[assessment|assessment]] approach with calibration examples achieves the highest accuracy, and the work produces the first cost-reliability learning curves for essay scoring.
 
 ## Key Findings
 
@@ -24,7 +24,7 @@ confidence: high
 
 ## What this means for practice
 
-- **Designers.** Put prompt selection under an online controller instead of fixing a template: treat each grading recipe as an arm in a multi-armed bandit and update it on agreement between predicted and examiner scores, which cut [[llm]] calls by 78.4% while holding [[assessment-validity|scoring agreement]].
+- **Designers.** Put prompt selection under an online controller instead of fixing a template: treat each grading recipe as an arm in a multi-armed bandit and update it on agreement between predicted and examiner scores, which cut [[llm|LLM]] calls by 78.4% while holding [[assessment-validity|scoring agreement]].
 - **Designers.** Budget tokens and latency as first-class constraints — track token usage, latency, and agreement together, because few-shot prompts with rubrics and rationales can exceed the context window of mid-tier models.
 - **Designers.** Do not assume more rubric detail improves scoring: the simplified prompt without detailed rubric explanations matched or beat the rubric-heavy variant (QWK 0.485, MAE 0.965) at fewer tokens.
 - **Designers.** Use the multi-step recipe calibrated with annotated high- and low-scoring example essays where accuracy matters most, since it achieved the highest accuracy of the four recipes tested.

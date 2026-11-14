@@ -14,7 +14,7 @@ confidence: high
 discipline: [statistics and data science education]
 ---
 
-> **Synthesis:** Obiuwevwi and colleagues (2026) treat classroom-scale production of **tactile statistical graphics** as a software problem rather than a specialist CAD task. Their three-layer, roughly 1500-line JavaScript pipeline derives tactile design parameters automatically from plate dimensions using tactile-perception research, provides shared chart [[scaffolding]] with five modular builders (scatter, bar, histogram, line and box plots), and optionally uses a [[multimodal]] [[llm]] to extract structured chart specifications from uploaded images — with mandatory [[teacher-role|teacher]] review before print generation. The pipeline produces print-ready binary STL files in under 250 milliseconds, with all five chart types completing in under 60 ms, and it combines research-grounded parameter derivation with single-pass [[assistive-technology|Braille]]-and-English labeling. The authors present it as the first [[open-source]] pipeline that automatically generates 3D-printed tactile statistical graphs from either typed data or chart images, addressing a bottleneck that keeps [[accessibility|accessible]] statistical [[visualization]] rare in classrooms.
+> **Synthesis:** Obiuwevwi and colleagues (2026) treat classroom-scale production of **tactile statistical graphics** as a software problem rather than a specialist CAD task. Their three-layer, roughly 1500-line JavaScript pipeline derives tactile design parameters automatically from plate dimensions using tactile-perception research, provides shared chart [[scaffolding|scaffolding]] with five modular builders (scatter, bar, histogram, line and box plots), and optionally uses a [[multimodal|multimodal]] [[llm|LLM]] to extract structured chart specifications from uploaded images — with mandatory [[teacher-role|teacher]] review before print generation. The pipeline produces print-ready binary STL files in under 250 milliseconds, with all five chart types completing in under 60 ms, and it combines research-grounded parameter derivation with single-pass [[assistive-technology|Braille]]-and-English labeling. The authors present it as the first [[open-source|open source]] pipeline that automatically generates 3D-printed tactile statistical graphs from either typed data or chart images, addressing a bottleneck that keeps [[accessibility|accessible]] statistical [[visualization|visualization]] rare in classrooms.
 
 ## Key Contributions
 
@@ -22,7 +22,7 @@ discipline: [statistics and data science education]
 
 ## Connections to AI in Education
 
-This paper contributes to the growing body of [[research-methods-aied|research]] on AI applications in educational settings, specifically in the domains of [[ai-education]], [[intelligent-tutoring]], and [[equity-in-ai-education]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate [[pedagogy|pedagogical]] oversight.
+This paper contributes to the growing body of [[research-methods-aied|research]] on AI applications in educational settings, specifically in the domains of [[ai-education|AI education]], [[intelligent-tutoring|intelligent tutoring]], and [[equity-in-ai-education|equity]]. The findings have implications for how educators design learning experiences that leverage AI while maintaining appropriate [[pedagogy|pedagogical]] oversight.
 
 ## What this means for practice
 

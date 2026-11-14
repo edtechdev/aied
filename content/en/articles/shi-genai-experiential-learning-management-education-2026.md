@@ -22,7 +22,7 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Shi, Dai, and Zhang (2026) argue that traditional [[business-education|management education]] stays centered on memorization and therefore fails to build the decision-making capability that complex business environments demand. They diagnose three interrelated problems: a disconnection between theory instruction and business practice, a mismatch between textbook content and contemporary needs, and a divide between classroom [[simulation|simulations]] and real-world contexts. Working from a strategic management course as the example, the paper proposes three [[generative-ai|generative AI]] mechanisms for reconfiguring pedagogy: a theory-practice dialogue mechanism, an emerging-knowledge tracking mechanism, and a dynamic business-simulation mechanism. All three move instruction away from validating settled conclusions toward [[experiential-learning|learning through experimentation, failure, and unexpected developments]], positioning generative AI as infrastructure for redesigning [[pedagogy]] rather than as an efficiency tool.
+> **Synthesis:** Shi, Dai, and Zhang (2026) argue that traditional [[business-education|management education]] stays centered on memorization and therefore fails to build the decision-making capability that complex business environments demand. They diagnose three interrelated problems: a disconnection between theory instruction and business practice, a mismatch between textbook content and contemporary needs, and a divide between classroom [[simulation|simulations]] and real-world contexts. Working from a strategic management course as the example, the paper proposes three [[generative-ai|generative AI]] mechanisms for reconfiguring pedagogy: a theory-practice dialogue mechanism, an emerging-knowledge tracking mechanism, and a dynamic business-simulation mechanism. All three move instruction away from validating settled conclusions toward [[experiential-learning|learning through experimentation, failure, and unexpected developments]], positioning generative AI as infrastructure for redesigning [[pedagogy|pedagogy]] rather than as an efficiency tool.
 
 ## Key Findings
 
@@ -37,7 +37,7 @@ ai_assist:
 
 The first is that theory instruction is separated from business practice. A distilled framework is introduced, then validated through a case whose outcome is already known, which turns learning into matching. The authors' example is Nokia's decline, usually reduced to the innovator's dilemma, omitting what made the decision hard: feature phones still generated billions of euros in quarterly profits.
 
-The second is that textbook content lags contemporary needs, a structural risk amplified by uneven [[prior-knowledge]] in digital literacy. Frameworks built for stable macroenvironments struggle to explain cross-sector convergence, and students who meet emerging practice through internships and industry news may conclude that course content has fallen behind, after which [[student-engagement|classroom participation and learning engagement]] tend to decline.
+The second is that textbook content lags contemporary needs, a structural risk amplified by uneven [[prior-knowledge|prior knowledge]] in digital literacy. Frameworks built for stable macroenvironments struggle to explain cross-sector convergence, and students who meet emerging practice through internships and industry news may conclude that course content has fallen behind, after which [[student-engagement|classroom participation and learning engagement]] tend to decline.
 
 The third is the divide between classroom simulations and real-world contexts. Simulations resemble board games with rules fixed in advance and portray the firm as a purely rational actor, so implementation proceeds smoothly where real implementation meets competing internal interests and resistance to change.
 
@@ -53,7 +53,7 @@ The dynamic business-simulation mechanism changes the environment itself. The in
 
 The mechanisms share a change in what AI is for: used as infrastructure, it does more than return answers faster. The emphasis shifts from memorizing established knowledge to engaging with situations that have yet to occur, and the instructor's work moves upstream into designing the prompts and parameters that make a class productively uncertain.
 
-The capability at stake is a different kind of [[problem-solving]]: not risk-free calculation that matches a standard answer, but acting on incomplete and conflicting information. Their concern is [[transfer-of-learning]]: decision habits formed in a protected classroom can become a cognitive liability outside it, because simulated environments filter out uncertainty and reinforce a rule-following mindset.
+The capability at stake is a different kind of [[problem-solving|problem-solving]]: not risk-free calculation that matches a standard answer, but acting on incomplete and conflicting information. Their concern is [[transfer-of-learning|transfer of learning]]: decision habits formed in a protected classroom can become a cognitive liability outside it, because simulated environments filter out uncertainty and reinforce a rule-following mindset.
 
 ## What this means for practice
 

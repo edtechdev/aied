@@ -36,11 +36,11 @@ Output is a ranked set of topic priorities with per-topic decision records expla
 - **Instructor alignment**: Top-5 mediated topics overlapped with instructor concerns on 3/5 topics; Spearman ρ = 0.80
 - **Student difficulty alignment**: ρ = 0.46 (p = .048) — captures something beyond simple difficulty surveys
 - **Isolated learner detection**: Multi-signal integration AUC = 0.96 vs. 0.91 for gap prevalence alone — identified 2 isolated learners not detected by any single signal
-- **[[assessment-validity|Construct validity]]**: Reflective thinking, [[help-seeking]], and [[self-efficacy]] aligned with topic understanding scores
+- **[[assessment-validity|Construct validity]]**: Reflective thinking, [[help-seeking|help-seeking]], and [[self-efficacy|self-efficacy]] aligned with topic understanding scores
 
 ## Why It Matters
 
-This is one of the first systems to operationalize **[[human-ai-collaboration|human-AI co-agency]]** in classroom settings. The interpretable outputs help teachers [[trust]] and act on AI-provided priorities when grades are not yet available. By combining multiple weak signals, the system surfaces students who would otherwise be invisible — a critical capability for [[equity-in-ai-education|equitable instruction]].
+This is one of the first systems to operationalize **[[human-ai-collaboration|human-AI co-agency]]** in classroom settings. The interpretable outputs help teachers [[trust|trust]] and act on AI-provided priorities when grades are not yet available. By combining multiple weak signals, the system surfaces students who would otherwise be invisible — a critical capability for [[equity-in-ai-education|equitable instruction]].
 
 ## What this means for practice
 

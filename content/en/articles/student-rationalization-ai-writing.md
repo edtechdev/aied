@@ -30,7 +30,7 @@ For any given course, the paper finds at least five distinct sites that house co
 4. **Student Self-Policy** — a student's own normative views about appropriate AI use.
 5. **Student Practice** — a student's actual AI-use behavior.
 
-The gaps between these sites are systemic: faculty intention is not always reflected in formal policy, students misremember or reinterpret policy, and actual practice diverges from both. This reveals why [[academic-integrity]] policies communicated at one site often fail to shape behavior at another.
+The gaps between these sites are systemic: faculty intention is not always reflected in formal policy, students misremember or reinterpret policy, and actual practice diverges from both. This reveals why [[academic-integrity|academic integrity]] policies communicated at one site often fail to shape behavior at another.
 
 ## Taxonomy of 23 Rationalizations (Six Classes)
 

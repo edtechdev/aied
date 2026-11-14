@@ -15,11 +15,11 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** LLMs systematically underestimate the difficulty of [[misconceptions|misconception]]-driven items ('The Easy Trap'). While [[llm]] ratings show moderate rank correlation with empirical student difficulty (rho=0.52-0.70), they misclassify several fraction items as easy that are among the hardest for students (e.g., 34% correct). LLMs approximate [[curriculum-design|curricular]] rather than cognitive difficulty.
+> **Synthesis:** LLMs systematically underestimate the difficulty of [[misconceptions|misconception]]-driven items ('The Easy Trap'). While [[llm|LLM]] ratings show moderate rank correlation with empirical student difficulty (rho=0.52-0.70), they misclassify several fraction items as easy that are among the hardest for students (e.g., 34% correct). LLMs approximate [[curriculum-design|curricular]] rather than cognitive difficulty.
 
-**Relevance to [[ai-education|AI in Education]]:** This paper contributes to the understanding of [[automated-assessment]], [[personalized-learning]], and [[student-experience]]. The findings have implications for [[adaptive-learning]] systems, [[formative-assessment]] design, and the broader [[edtech-platform]] landscape. Future work should explore how these results generalize across [[stem-education]] and [[higher-ed]] contexts.
+**Relevance to [[ai-education|AI in Education]]:** This paper contributes to the understanding of [[automated-assessment|automated assessment]], [[personalized-learning|personalized learning]], and [[student-experience|student experience]]. The findings have implications for [[adaptive-learning|adaptive learning]] systems, [[formative-assessment|formative assessment]] design, and the broader [[edtech-platform|edtech platform]] landscape. Future work should explore how these results generalize across [[stem-education|STEM education]] and [[higher-ed|higher education]] contexts.
 
-This [[research-methods-aied|research]] connects to the growing body of work on [[ai-literacy]] and [[teacher-role]], highlighting both the promise and limitations of AI tools in educational settings.
+This [[research-methods-aied|research]] connects to the growing body of work on [[ai-literacy|AI literacy]] and [[teacher-role|teacher role]], highlighting both the promise and limitations of AI tools in educational settings.
 
 ## What this means for practice
 

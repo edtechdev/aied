@@ -15,11 +15,11 @@ page_kind: [synthesis]
 methods: [meta-analysis-systematic-review]
 ---
 
-> **Synthesis:** Mubarrat, Shao, and Min (2026) present the first PRISMA-aligned [[meta-analysis-systematic-review|systematic review]] and comparative synthesis of [[game-based-learning|game-based learning]] (GBL) and gamification in robotics education. Analyzing 95 studies from 12,485 records across four databases (2014–2025), they coded each study's approach, learning context, skill level, modality, [[pedagogy]], and outcomes (κ = .918). Three patterns emerged: (1) approach–context–pedagogy coupling (GBL more prevalent in informal settings while gamification dominated formal classrooms and favored project-based learning); (2) an emphasis on [[cs-education|introductory programming]] and modular kits with limited adoption of advanced software; and (3) a comparative synthesis of outcomes leading to design guidelines.
+> **Synthesis:** Mubarrat, Shao, and Min (2026) present the first PRISMA-aligned [[meta-analysis-systematic-review|systematic review]] and comparative synthesis of [[game-based-learning|game-based learning]] (GBL) and gamification in robotics education. Analyzing 95 studies from 12,485 records across four databases (2014–2025), they coded each study's approach, learning context, skill level, modality, [[pedagogy|pedagogy]], and outcomes (κ = .918). Three patterns emerged: (1) approach–context–pedagogy coupling (GBL more prevalent in informal settings while gamification dominated formal classrooms and favored project-based learning); (2) an emphasis on [[cs-education|introductory programming]] and modular kits with limited adoption of advanced software; and (3) a comparative synthesis of outcomes leading to design guidelines.
 
 ## Key Findings
 
-- Robotics education fosters **[[computational-thinking|computational thinking]], [[creativity]], and [[problem-solving|problem solving]]** but remains challenging due to technical complexity; GBL and gamification offer [[student-engagement|engagement]] benefits, yet their comparative impact was previously unclear.
+- Robotics education fosters **[[computational-thinking|computational thinking]], [[creativity|creativity]], and [[problem-solving|problem solving]]** but remains challenging due to technical complexity; GBL and gamification offer [[student-engagement|engagement]] benefits, yet their comparative impact was previously unclear.
 - This is the **first PRISMA-aligned systematic review** comparing GBL and gamification in robotics education, analyzing **95 studies from 12,485 records** across four databases (2014–2025).
 - **Pattern 1 — approach–context–pedagogy coupling:** GBL is more prevalent in informal settings, while **gamification dominated formal classrooms** (p < .001) and favored **project-based learning** (p = .009).
 - **Pattern 2 — emphasis on introductory programming and modular kits**, with limited adoption of advanced software (~17%) and advanced hardware.
@@ -32,7 +32,7 @@ This is a **PRISMA-aligned systematic literature review** with a comparative syn
 ## What this means for practice
 
 - **Educators.** Match the engagement strategy to the setting: use game-based learning for informal, club-style contexts and gamification for formal classrooms, since across the 95 reviewed studies GBL prevailed in informal settings while gamification dominated formal ones (p < .001).
-- **Educators.** Pair gamification with [[project-based-learning|project-based learning]], the [[pedagogy]] it favored in formal classrooms (p = .009), when designing robotics units.
+- **Educators.** Pair gamification with [[project-based-learning|project-based learning]], the [[pedagogy|pedagogy]] it favored in formal classrooms (p = .009), when designing robotics units.
 - **Educators.** Plan for introductory programming and modular kits, where most of the reviewed studies sit, and budget deliberate support if you intend to adopt advanced software, which only about 17% used.
 - **Instructional designers.** Use the review's comparative design guidelines to choose between GBL and gamification for a given context and skill level rather than defaulting to the more familiar option.
 - **Instructional designers.** Treat the approach–context–pedagogy coupling as a constraint: fix the learning context and the pedagogy it must support first, then choose the engagement strategy that fits both.
@@ -40,7 +40,7 @@ This is a **PRISMA-aligned systematic literature review** with a comparative syn
 ## Limitations
 
 - **Evidence base.** As a systematic review, its conclusions depend on the quality and reporting of the 95 included studies; heterogeneous methods and outcome measures across those studies complicate direct comparison.
-- **Search window.** The 2014–2025 scope predates some recent advances in [[llm]]-powered robotics education.
+- **Search window.** The 2014–2025 scope predates some recent advances in [[llm|LLM]]-powered robotics education.
 - **Scope.** The review focuses on GBL and gamification, so robotics education outside those approaches is not covered.
 
 ## Citation

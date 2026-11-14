@@ -13,7 +13,7 @@ sources: ["raw/papers/10.1016_j.caeo.2026.100347.md"]
 confidence: high
 ---
 
-> **Synthesis:** Chung, Henderson, Slade, Liang, Pepperell, Corbin, and colleagues (2026) report a large-scale multi-institution survey of over 8000 students at four Australian universities on their [[generative-ai|GenAI]] use. Over 80% of students had used GenAI for study-related tasks, with nearly half using it regularly, primarily for editing, summarizing, and idea generation. Usefulness rather than blind [[trust]] or rule compliance appeared to drive [[student-engagement|engagement]]: students adopted GenAI pragmatically, with low trust in its factual accuracy but confidence in managing it as a support tool. Most students learned about the tools informally, and equity gaps were evident, with lower engagement among women, non-binary, [[neurodiversity|neurodivergent]] students, and those with health conditions.
+> **Synthesis:** Chung, Henderson, Slade, Liang, Pepperell, Corbin, and colleagues (2026) report a large-scale multi-institution survey of over 8000 students at four Australian universities on their [[generative-ai|GenAI]] use. Over 80% of students had used GenAI for study-related tasks, with nearly half using it regularly, primarily for editing, summarizing, and idea generation. Usefulness rather than blind [[trust|trust]] or rule compliance appeared to drive [[student-engagement|engagement]]: students adopted GenAI pragmatically, with low trust in its factual accuracy but confidence in managing it as a support tool. Most students learned about the tools informally, and [[equity-in-ai-education|equity]] gaps were evident, with lower engagement among women, non-binary, [[neurodiversity|neurodivergent]] students, and those with health conditions.
 
 ## Key Findings
 
@@ -25,11 +25,11 @@ confidence: high
 
 ## What this means for practice
 
-- **Instructors.** Build guidance around how students already work — editing, summarizing, and idea generation — rather than around rule compliance, since usefulness rather than [[trust]] or policy drove engagement.
+- **Instructors.** Build guidance around how students already work — editing, summarizing, and idea generation — rather than around rule compliance, since usefulness rather than [[trust|trust]] or policy drove engagement.
 - **Instructors.** Make AI use discussable in class: students reported low trust in GenAI's factual accuracy but confidence in managing it as a support tool, so the teaching task is calibration rather than prohibition.
 - **Administrators.** Target [[equity-in-ai-education|equity]] gaps directly, since engagement was proportionately lower among women, non-binary, neurodivergent students, and students with health conditions.
-- **Administrators.** Fund institutional [[ai-literacy]] provision, because most students learned about GenAI informally through self-directed means rather than through university resources.
-- **Administrators.** Rewrite [[academic-integrity]] policy to distinguish prohibited use from the pragmatic, situationally negotiated use that a significant minority reported, instead of relying on blanket bans.
+- **Administrators.** Fund institutional [[ai-literacy|AI literacy]] provision, because most students learned about GenAI informally through self-directed means rather than through university resources.
+- **Administrators.** Rewrite [[academic-integrity|academic integrity]] policy to distinguish prohibited use from the pragmatic, situationally negotiated use that a significant minority reported, instead of relying on blanket bans.
 
 ## Limitations
 

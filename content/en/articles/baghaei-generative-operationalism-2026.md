@@ -44,7 +44,7 @@ Baghaei and Eryilmaz draw on causal realism to state what would discriminate: an
 
 The constructive half of the argument specifies what has to be in place before a model writes items. Researchers articulate the content boundaries of the construct, its relevant facets, the hypothesized response processes, the intended population and the construct-irrelevant processes that should be minimized. The model is then used to instantiate items inside those constraints, not to discover the construct.
 
-This is why the authors treat [[automated-question-generation]] as a design practice rather than a [[prompt-engineering|prompting]] trick. The question a developer should be able to answer is not "how many items did the model produce" but "which facet of the construct is this item sampling, and what would a respondent with a high level of the attribute do differently on it". Where that cannot be answered, the item's provenance — not just its statistics — is what has gone missing.
+This is why the authors treat [[automated-question-generation|automated question generation]] as a design practice rather than a [[prompt-engineering|prompting]] trick. The question a developer should be able to answer is not "how many items did the model produce" but "which facet of the construct is this item sampling, and what would a respondent with a high level of the attribute do differently on it". Where that cannot be answered, the item's provenance — not just its statistics — is what has gone missing.
 
 ## What this means for practice
 

@@ -12,7 +12,7 @@ confidence: high
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Han and Liu (2026) examined how [[generative-ai|generative AI]] reshapes the [[agency]] of early-career researchers in doctoral and postdoctoral training. They define AI dependence as reliance on intelligent tools as the primary source of cognitive support in judgment-intensive research tasks, and read its risk as *epistemic delegation* — the transfer of problem framing, methodological choice, and interpretive authority to the system. Among 420 astronomy doctoral and postdoctoral researchers in China, dependence was negatively associated with research autonomy and research [[self-efficacy]], both positively associated with innovative research behavior; supervisory support weakened the negative associations with autonomy and innovation, while the self-efficacy interaction fell short of significance. The study shifts the debate from AI-enabled productivity to AI-mediated researcher formation.
+> **Synthesis:** Han and Liu (2026) examined how [[generative-ai|generative AI]] reshapes the [[agency|agency]] of early-career researchers in doctoral and postdoctoral training. They define AI dependence as reliance on intelligent tools as the primary source of cognitive support in judgment-intensive research tasks, and read its risk as *epistemic delegation* — the transfer of problem framing, methodological choice, and interpretive authority to the system. Among 420 astronomy doctoral and postdoctoral researchers in China, dependence was negatively associated with research autonomy and research [[self-efficacy|self-efficacy]], both positively associated with innovative research behavior; supervisory support weakened the negative associations with autonomy and innovation, while the self-efficacy interaction fell short of significance. The study shifts the debate from AI-enabled productivity to AI-mediated researcher formation.
 
 ## Key Findings
 1. **AI dependence depresses research agency.** Dependence correlated with lower autonomy (r = −.355) and lower self-efficacy (r = −.321), yet was unrelated to self-reported use frequency (r = −.051, p = .296); supervisory support correlated positively with both (r = .532 and r = .435).
@@ -24,7 +24,7 @@ reviewed_by: [editor]
 
 ## AI Dependence as Epistemic Delegation
 
-The paper's central move is to treat AI dependence not as tool use but as a redistribution of epistemic authority. Decomposing a question, choosing a method, and interpreting results are traditionally the researcher's own cognitive work; when an intelligent system becomes the primary source of cognitive support, those operations migrate to the machine — *epistemic delegation*, an educational risk because [[higher-ed|doctoral education]] must build, not outsource, independent judgment. Delegation differs from [[cognitive-offloading]] and automation reliance, which describe transferred effort or reliance on machine recommendations; delegation concerns who frames a problem, decides what counts as evidence, and owns the final call.
+The paper's central move is to treat AI dependence not as tool use but as a redistribution of epistemic authority. Decomposing a question, choosing a method, and interpreting results are traditionally the researcher's own cognitive work; when an intelligent system becomes the primary source of cognitive support, those operations migrate to the machine — *epistemic delegation*, an educational risk because [[higher-ed|doctoral education]] must build, not outsource, independent judgment. Delegation differs from [[cognitive-offloading|cognitive offloading]] and automation reliance, which describe transferred effort or reliance on machine recommendations; delegation concerns who frames a problem, decides what counts as evidence, and owns the final call.
 
 ## Measuring Reliance in Astronomy Training
 
@@ -36,7 +36,7 @@ A control-only model explained 5.0% of the variance in innovative research behav
 
 ## From Productivity to Researcher Formation
 
-The contribution reframes the question: rather than asking whether generative AI makes early-career research faster, it asks how AI shapes who the researcher becomes, locating the actionable site of intervention in supervisory [[scaffolding]] and [[learner-identity]] formation.
+The contribution reframes the question: rather than asking whether generative AI makes early-career research faster, it asks how AI shapes who the researcher becomes, locating the actionable site of intervention in supervisory [[scaffolding|scaffolding]] and [[learner-identity|learner identity]] formation.
 
 ## What this means for practice
 - **Researchers.** Read heavy reliance on generative AI as a research-agency signal, not just a workflow choice: decide which framing, method, and interpretation decisions stay with you and which have moved to the tool.

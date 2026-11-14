@@ -24,7 +24,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Meyer and colleagues report a pre-registered, multi-semester randomized controlled trial of a non-generative text [[conversational-ai|chatbot]] that sent two to three customized messages a week in two large, asynchronous online [[higher-ed|undergraduate]] courses at Georgia State University (GSU). Pooled across Introduction to American Government (*N* = 1,568) and Principles of Microeconomics (*N* = 915), treated students were four percentage points more likely to earn an A or B (61% of controls) and about two percentage points more likely to attend supplemental instruction tutoring. Effects held across most demographics except one: treated women in Microeconomics earned final grades seven points higher than control women.
+> **Synthesis:** Meyer and colleagues report a pre-registered, multi-semester [[rct|randomized controlled trial]] of a non-generative text [[conversational-ai|chatbot]] that sent two to three customized messages a week in two large, asynchronous online [[higher-ed|undergraduate]] courses at Georgia State University (GSU). Pooled across Introduction to American Government (*N* = 1,568) and Principles of Microeconomics (*N* = 915), treated students were four percentage points more likely to earn an A or B (61% of controls) and about two percentage points more likely to attend supplemental instruction tutoring. Effects held across most demographics except one: treated women in Microeconomics earned final grades seven points higher than control women.
 
 ## Key Findings
 
@@ -44,7 +44,7 @@ GSU is a public research university in Atlanta enrolling more than 52,000 underg
 
 ## What this means for practice
 - [[student-support-and-success|Course-specific outreach]] can close information gaps in large or [[online-teaching-and-learning|online courses]]: the intervention worked through reminders, performance feedback, and invitations to ask questions rather than by teaching content, and the authors treat message customization — targeted by whether a student had a missing assignment or was current on coursework — as the active ingredient, contrasting it with generic due-date notices.
-- Use a trusted sender: encouragement messages were signed by the course teaching assistant, who also handled flagged questions and kept the knowledge base current, creating a low-stakes route to [[help-seeking]].
+- Use a trusted sender: encouragement messages were signed by the course teaching assistant, who also handled flagged questions and kept the knowledge base current, creating a low-stakes route to [[help-seeking|help-seeking]].
 - Budget for [[human-in-the-loop-ai|human oversight]] and for piloting: the assistant reviewed responses daily, monitoring settled under two hours per week after the pilot, and a pilot semester was crucial to building the knowledge base — GSU's existing contracts and staff experience lowered the marginal cost, and the university now runs the tool as status quo.
 - Women in economics may be a priority population: the authors tie the Microeconomics results to women's underrepresentation in the field, framing proactive communication as a route toward [[equity-in-ai-education|greater equity]].
 

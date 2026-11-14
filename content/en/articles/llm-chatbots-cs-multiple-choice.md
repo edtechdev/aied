@@ -14,7 +14,7 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Investigates [[llm]] [[conversational-ai|chatbots]]' performance on 70 MCQs for a university CS lecture on interactive visual data analysis, comparing with [[learning-gains|student performance]]. GPT-4o and GPT-5 significantly outperformed smaller models. A user study in two courses showed that presenting [[generative-ai|ChatGPT]] answers with explanations did NOT generally improve student performance.
+> **Synthesis:** Investigates [[llm|LLM]] [[conversational-ai|chatbots]]' performance on 70 MCQs for a university CS lecture on interactive visual data analysis, comparing with [[learning-gains|student performance]]. GPT-4o and GPT-5 significantly outperformed smaller models. A user study in two courses showed that presenting [[generative-ai|ChatGPT]] answers with explanations did NOT generally improve student performance.
 
 ## Key Findings
 
@@ -26,7 +26,7 @@ page_kind: [evaluation]
 
 ## Study Design & Method
 
-The evaluation proceeded in two phases. First, a technical [[benchmark]]: multiple LLM-based chatbots solved the 70 MCQs under different [[prompt-engineering|prompting]] strategies, with results compared against students' own performance to calibrate what "good enough" means. Second, an educational user study: students in two university CS courses were given chatbot answers with explanations, and their performance was measured against conditions without such support. This two-part design separates raw model competence from actual learning impact.
+The evaluation proceeded in two phases. First, a technical [[benchmark|benchmark]]: multiple LLM-based chatbots solved the 70 MCQs under different [[prompt-engineering|prompting]] strategies, with results compared against students' own performance to calibrate what "good enough" means. Second, an educational user study: students in two university CS courses were given chatbot answers with explanations, and their performance was measured against conditions without such support. This two-part design separates raw model competence from actual learning impact.
 
 ## What this means for practice
 

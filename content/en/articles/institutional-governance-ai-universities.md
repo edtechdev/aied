@@ -15,13 +15,13 @@ institutions: [change-management, educational-policy-ai, regulation]
 methods: [quantitative-research]
 ---
 
-> **Synthesis:** This study analyzes AI policies across higher education institutions in 34 U.S. states, using NLP to uncover a clear divergence: university-level policies emphasize [[privacy|data security]] and risk mitigation, while school-level policies (when they exist) focus on pedagogical applications and tool usage. Relatively few business schools maintain distinct AI policies, creating [[discipline-specific-aied|misalignment with discipline-specific learning objectives]]. The findings highlight the challenges of institutional AI [[governance]] and the tension between centralized [[regulation|compliance-oriented policies]] and the need for discipline-specific pedagogical guidance.
+> **Synthesis:** This study analyzes [[educational-policy-ai|AI policies]] across higher education institutions in 34 U.S. states, using NLP to uncover a clear divergence: university-level policies emphasize [[privacy|data security]] and risk mitigation, while school-level policies (when they exist) focus on pedagogical applications and tool usage. Relatively few business schools maintain distinct AI policies, creating [[discipline-specific-aied|misalignment with discipline-specific learning objectives]]. The findings highlight the challenges of institutional AI [[governance|governance]] and the tension between centralized [[regulation|compliance-oriented policies]] and the need for discipline-specific pedagogical guidance.
 
 ## Research Approach
 
 The study applied [[educational-nlp|natural language processing]] to analyze AI policies from institutions across 34 states:
 
-- **University-wide policies:** Broad [[governance]] frameworks addressing AI use campus-wide
+- **University-wide policies:** Broad [[governance|governance]] frameworks addressing AI use campus-wide
 - **School/department-level policies:** Unit-specific guidelines, primarily in [[business-education|business schools]]
 - **Comparative analysis:** NLP identified thematic differences between governance levels
 
@@ -47,7 +47,7 @@ Comparing business school policies to their host university's policy via cosine 
 
 ## Accreditation Tensions
 
-Because AI adoption is still in a transition state, most institutions are not yet meeting [[business-education|accreditation bodies]]' expectations of unified integration of curriculum, policy, assessment, and infrastructure. The divergence between centralized [[governance]] and local instructional objectives is particularly consequential for [[discipline-specific-aied|finance education]], where both conceptual rigor and technical proficiency are required. Policies that support student competency in emerging [[ai-technologies|technologies]] must move beyond questions of safety and adoption to address how AI is integrated into [[teacher-role|teaching]] and learning.
+Because AI adoption is still in a transition state, most institutions are not yet meeting [[business-education|accreditation bodies]]' expectations of unified integration of curriculum, policy, assessment, and infrastructure. The divergence between centralized [[governance|governance]] and local instructional objectives is particularly consequential for [[discipline-specific-aied|finance education]], where both conceptual rigor and technical proficiency are required. Policies that support student competency in emerging [[ai-technologies|technologies]] must move beyond questions of safety and adoption to address how AI is integrated into [[teacher-role|teaching]] and learning.
 
 ## Proposed Policy Framework
 

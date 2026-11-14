@@ -17,7 +17,7 @@ level: [higher ed]
 
 ## Why rubric generation is a bottleneck in assessment
 
-[[formative-assessment]] is limited partly because developing quality rubrics is resource-intensive: authors must define criteria, observable indicators, and performance descriptors aligned with instructional objectives, then iteratively adapt them across assignments, cohorts, and learning goals. Because rubrics support consistent judgment and clarify expectations, their value derives from validity and appropriateness, not mere presence. The paper positions automated rubric generation as a way to reduce authoring effort and enable more frequent formative assessment, provided AI-produced rubrics can match human scoring outcomes.
+[[formative-assessment|Formative assessment]] is limited partly because developing quality rubrics is resource-intensive: authors must define criteria, observable indicators, and performance descriptors aligned with instructional objectives, then iteratively adapt them across assignments, cohorts, and learning goals. Because rubrics support consistent judgment and clarify expectations, their value derives from validity and appropriateness, not mere presence. The paper positions automated rubric generation as a way to reduce authoring effort and enable more frequent formative assessment, provided AI-produced rubrics can match human scoring outcomes.
 
 ## The HARMOGEN-R pipeline: reasoning-then-synthesis
 
@@ -29,7 +29,7 @@ When four CS-specialist human evaluators scored 308 responses, all four AI rubri
 
 ## Findings for LLM evaluators: the evaluator–rubric interaction
 
-With [[llm]] evaluators the picture reversed. DeepSeek V3 met equivalence for all four rubric sources, while GPT-4.1 and GPT-4o showed systematic negative deviations (harsher grading), most pronounced for structured rubrics — the opposite of the human-evaluator pattern. Structured rubrics produced a pooled mean difference of −4.46 versus −0.66 for free-form. This implies automated-assessment systems should not treat rubric source and evaluator as independent factors, and rubric selection must account for the specific LLM deployed. A variance-based quality-control system flagged only 1.43% of evaluations for human review, suggesting [[automated-assessment|automated assessment]] can cut workload while preserving a mechanism for [[human-in-the-loop-ai|human oversight]].
+With [[llm|LLM]] evaluators the picture reversed. DeepSeek V3 met equivalence for all four rubric sources, while GPT-4.1 and GPT-4o showed systematic negative deviations (harsher grading), most pronounced for structured rubrics — the opposite of the human-evaluator pattern. Structured rubrics produced a pooled mean difference of −4.46 versus −0.66 for free-form. This implies automated-assessment systems should not treat rubric source and evaluator as independent factors, and rubric selection must account for the specific LLM deployed. A variance-based quality-control system flagged only 1.43% of evaluations for human review, suggesting [[automated-assessment|automated assessment]] can cut workload while preserving a mechanism for [[human-in-the-loop-ai|human oversight]].
 
 ## Open-weight versus proprietary generation
 

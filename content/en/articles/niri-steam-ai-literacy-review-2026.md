@@ -13,7 +13,7 @@ confidence: high
 methods: [meta-analysis-systematic-review]
 ---
 
-> **Synthesis:** This PRISMA [[meta-analysis-systematic-review|systematic review]] of 39 studies (2016–2025) examines to what extent STEAM education advances [[ai-literacy|AI literacy]], using the TIECD framework refined into ten AI Literacy Elements (AILEs). It finds STEAM implementations chiefly develop technical literacies — fundamental AI concepts, [[computational-thinking]], [[statistics-and-data-science-education|data literacy]] — while underdeveloping [[ethics|ethical]] awareness, creative imagination, creating with AI, managing AI, and designing AI. Technology disciplines lead; arts, engineering, and integrated STEAM lag.
+> **Synthesis:** This PRISMA [[meta-analysis-systematic-review|systematic review]] of 39 studies (2016–2025) examines to what extent STEAM education advances [[ai-literacy|AI literacy]], using the TIECD framework refined into ten AI Literacy Elements (AILEs). It finds STEAM implementations chiefly develop technical literacies — fundamental AI concepts, [[computational-thinking|computational thinking]], [[statistics-and-data-science-education|data literacy]] — while underdeveloping [[ethics|ethical]] awareness, creative imagination, creating with AI, managing AI, and designing AI. Technology disciplines lead; arts, engineering, and integrated STEAM lag.
 
 ## Key Findings
 
@@ -25,9 +25,9 @@ methods: [meta-analysis-systematic-review]
 
 ## What this means for practice
 
-- **Instructors.** Add the five neglected elements — Ethical Awareness, Creative Imagination, Creating with AI, Managing AI, and Designing AI — to STEAM units you already teach rather than bolting on new lessons; these are the higher-order competencies the knowledge base's critical-AI-literacy and [[reducing-ai-misuse]] strands emphasize, and current STEAM implementations underdevelop them.
+- **Instructors.** Add the five neglected elements — Ethical Awareness, Creative Imagination, Creating with AI, Managing AI, and Designing AI — to STEAM units you already teach rather than bolting on new lessons; these are the higher-order competencies the knowledge base's critical-AI-literacy and [[reducing-ai-misuse|reducing AI misuse]] strands emphasize, and current STEAM implementations underdevelop them.
 - **Instructors.** Audit each unit against the ten AI Literacy Elements before teaching it, checking which elements its tasks actually require learners to evidence — a curriculum whose tasks are all coding and data exercises will not develop the ethical or design elements no matter how the unit is titled.
-- **Designers.** Design tasks that jointly evidence technical fluency, [[ethics]], collaboration with AI, and iterative design, which is the review's own recommendation for rebalancing STEAM toward AI literacy rather than toward technical skill alone.
+- **Designers.** Design tasks that jointly evidence technical fluency, [[ethics|ethics]], collaboration with AI, and iterative design, which is the review's own recommendation for rebalancing STEAM toward AI literacy rather than toward technical skill alone.
 - **Researchers.** Report and measure AI Literacy Elements separately instead of treating [[ai-literacy|AI literacy]] as one outcome; the corpus's technical skew may partly reflect which elements studies choose to instrument, and only element-level measurement can show whether ethics and design gaps are in practice or only in the literature.
 
 ## Limitations

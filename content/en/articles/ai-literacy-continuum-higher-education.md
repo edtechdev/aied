@@ -14,7 +14,7 @@ sources: ['raw/papers/2606.00038.md']
 confidence: high
 ---
 
-> **Synthesis:** Proposes a five-stage developmental continuum (Not Engaged, Uncritical Use, Informed Use, [[critical-thinking|Critical Evaluation]], Improvement) for AI literacy at NC State; the continuum doubles as a diagnostic tool for moving students beyond fluent-but-uncritical tool adoption. Found that reaching higher stages requires discipline-embedded experiences. [[ai-literacy]], [[higher-ed]], [[ethics]], [[educational-development]], [[student-experience]].
+> **Synthesis:** Proposes a five-stage developmental continuum (Not Engaged, Uncritical Use, Informed Use, [[critical-thinking|Critical Evaluation]], Improvement) for AI literacy at NC State; the continuum doubles as a diagnostic tool for moving students beyond fluent-but-uncritical tool adoption. Found that reaching higher stages requires discipline-embedded experiences. [[ai-literacy|AI literacy]], [[higher-ed|higher education]], [[ethics|ethics]], [[educational-development|educational development]], [[student-experience|student experience]].
 
 ## Key Findings
 

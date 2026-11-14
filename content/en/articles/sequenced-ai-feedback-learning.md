@@ -39,7 +39,7 @@ The **positive affective pathway** (students felt more encouraged) was **complet
 
 ### Why Sequenced Feedback Backfired
 - The hint-before-answer structure inadvertently encouraged **trial-and-error behavior** rather than deep processing
-- Students submitted more attempts per task, indicating they were "gaming" the hint system rather than engaging in genuine [[problem-solving]]
+- Students submitted more attempts per task, indicating they were "gaming" the hint system rather than engaging in genuine [[problem-solving|problem-solving]]
 - Higher mental effort was reported but did not translate to better learning — suggesting the effort was directed at navigating the feedback sequence rather than understanding the material
 
 ### Why Direct Feedback Worked
@@ -52,7 +52,7 @@ The **positive affective pathway** (students felt more encouraged) was **complet
 This study challenges the prevailing intuition that more scaffolded, autonomy-supportive feedback is always better. Key takeaways for AI feedback system design:
 
 1. **Engagement ≠ learning**: User satisfaction and behavioral engagement are not reliable proxies for learning gains — designers must measure learning outcomes directly
-2. **Limit resubmission loops**: Systems should cap hint requests or require [[reflection]] between attempts to prevent trial-and-error gaming
+2. **Limit resubmission loops**: Systems should cap hint requests or require [[reflection|reflection]] between attempts to prevent trial-and-error gaming
 3. **Strategic blending**: Consider providing direct corrective feedback first, with optional encouragement and hints available on demand rather than as a mandatory sequence
 4. **[[cognitive-offloading|Cognitive load]] management**: The higher mental effort induced by sequenced feedback did not aid learning — design should channel effort toward understanding rather than navigation
 
@@ -60,14 +60,14 @@ This study challenges the prevailing intuition that more scaffolded, autonomy-su
 
 This paper directly informs several threads in the knowledge base:
 
-- **[[formative-assessment]]**: Direct evidence about AI-generated feedback design — sequencing that feels supportive may undermine formative goals
-- **[[critical-thinking-genai-scaffolding]]**: Vendrell & Johnston's eight design principles for [[llm]] [[scaffolding]] — this study provides empirical evidence that poorly designed scaffolding can harm learning, reinforcing the need for "[[desirable-difficulties|cognitive friction]]" design
-- **[[prober-ai-inquiry-writing]]**: The inverted paradigm (AI asks questions, gates suggestions) offers an alternative to sequenced feedback that may avoid the resubmission trap
-- **[[self-regulated-learning]]**: Sequenced feedback was intended to promote autonomy and SRL, but the behavioral data shows it had the opposite effect — a cautionary tale for SRL-aligned AI design
-- **[[metacognition]]**: The engagement-learning disconnect exemplifies the metacognitive calibration problem — students felt they were learning more with sequenced feedback when they were actually learning less
-- **[[becerra-aicofe-feedback-2026]]**: Multi-LLM collaborative feedback systems must consider feedback sequencing carefully to avoid the pitfalls identified here
-- **[[pedagogy-ai-mistakes]]**: Hosseini's work on deliberately leveraging AI errors connects to the finding that easy, encouraging feedback may be less pedagogically effective than direct correction
-- **[[transfer-of-learning]]**: The learning outcome disparity between conditions raises transfer implications — do sequenced-feedback students retain less when the scaffolding is removed?
+- **[[formative-assessment|formative assessment]]**: Direct evidence about AI-generated feedback design — sequencing that feels supportive may undermine formative goals
+- **[[critical-thinking-genai-scaffolding|Vendrell et al. (2026)]]**: Vendrell & Johnston's eight design principles for [[llm|LLM]] [[scaffolding|scaffolding]] — this study provides empirical evidence that poorly designed scaffolding can harm learning, reinforcing the need for "[[desirable-difficulties|cognitive friction]]" design
+- **[[prober-ai-inquiry-writing|Bi et al. (2026)]]**: The inverted paradigm (AI asks questions, gates suggestions) offers an alternative to sequenced feedback that may avoid the resubmission trap
+- **[[self-regulated-learning|self-regulated learning]]**: Sequenced feedback was intended to promote autonomy and SRL, but the behavioral data shows it had the opposite effect — a cautionary tale for SRL-aligned AI design
+- **[[metacognition|metacognition]]**: The engagement-learning disconnect exemplifies the metacognitive calibration problem — students felt they were learning more with sequenced feedback when they were actually learning less
+- **[[becerra-aicofe-feedback-2026|Becerra et al. (2026)]]**: Multi-LLM collaborative feedback systems must consider feedback sequencing carefully to avoid the pitfalls identified here
+- **[[pedagogy-ai-mistakes|Hosseini (2026)]]**: Hosseini's work on deliberately leveraging AI errors connects to the finding that easy, encouraging feedback may be less pedagogically effective than direct correction
+- **[[transfer-of-learning|transfer of learning]]**: The learning outcome disparity between conditions raises transfer implications — do sequenced-feedback students retain less when the scaffolding is removed?
 
 ## Methodological Strengths
 

@@ -57,7 +57,7 @@ The pattern is more interesting than "offloading is bad." All three dimensions t
 
 Need for cognition is the discriminating variable, and the null results carry the argument. Students who enjoy effortful thinking reported less assistive offloading but not less memory or thinking offloading. The authors read this as evidence that willingness to invest cognitive effort attaches to particular functions rather than to offloading in general, which is exactly the claim a function-based instrument needs to support. They also refuse the causal reading: the design cannot say whether low need for cognition produces delegation or delegation erodes tolerance for difficulty.
 
-What the instrument adds to the [[cognitive-offloading]] literature, then, is measurability. Prior work in this knowledge base establishes that offloading can be compensatory or substitutive and that its meaning depends on regulation; the AI-COS supplies a scored way to ask *which* function a student has delegated, at a level of specificity that a usage-frequency or [[technology-acceptance-model|technology-acceptance]] survey cannot reach.
+What the instrument adds to the [[cognitive-offloading|cognitive offloading]] literature, then, is measurability. Prior work in this knowledge base establishes that offloading can be compensatory or substitutive and that its meaning depends on regulation; the AI-COS supplies a scored way to ask *which* function a student has delegated, at a level of specificity that a usage-frequency or [[technology-acceptance-model|technology-acceptance]] survey cannot reach.
 
 ## What this means for practice
 

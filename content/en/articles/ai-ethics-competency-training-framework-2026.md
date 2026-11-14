@@ -21,13 +21,13 @@ ai_assist:
     agent: hermes-agent
 ---
 
-> **Synthesis:** Prégent and Grinbaum start from a familiar gap: knowing that fairness or oversight matters does not tell an engineer what to build, disclose, or do. Their training framework turns operational AI ethics into four linked competencies — identifying ethical issues, mapping them to requirements, selecting measures, and reasoning through tensions between objectives — and supplies the materials to teach them: an Ethics Checklist organized around the seven ALTAI requirements, a Portfolio of Measures, three exercise types, and trainer guides. Eleven pilot sessions with ethics reviewers, AI engineers, students and policymakers shaped the design, and the authors report the [[pedagogy|pedagogical]] choices those pilots forced, including a reduced version for beginners.
+> **Synthesis:** Prégent and Grinbaum start from a familiar gap: knowing that fairness or oversight matters does not tell an engineer what to build, disclose, or do. Their training framework turns operational [[ethics|AI ethics]] into four linked competencies — identifying ethical issues, mapping them to requirements, selecting measures, and reasoning through tensions between objectives — and supplies the materials to teach them: an Ethics Checklist organized around the seven ALTAI requirements, a Portfolio of Measures, three exercise types, and trainer guides. Eleven pilot sessions with ethics reviewers, AI engineers, students and policymakers shaped the design, and the authors report the [[pedagogy|pedagogical]] choices those pilots forced, including a reduced version for beginners.
 
 ## Key Findings
 1. **The framework decomposes ethics into four explicit tasks.** Issue identification, requirement mapping, measure selection and tension identification are taught in sequence, with the later tasks deliberately placed after the earlier ones.
 2. **An ALTAI-structured checklist anchors issue identification.** The Checklist maps the seven ALTAI requirements to probing questions and is kept deliberately non-exhaustive, a reminder of what not to forget rather than a fixed risk inventory.
 3. **Mapping issues to requirements and selecting measures are where learners stall.** Practitioners reported confidence at recognizing ethical concerns but uncertainty about how to address them, so the framework makes requirement mapping explicit and requires justification for each measure chosen.
-4. **Tension identification comes last because it is hardest.** Participants struggled to articulate [[ethics]] tensions without prior analysis, so limiting the number of measures (typically eight) pushes them toward trade-offs and makes the tensions surface.
+4. **Tension identification comes last because it is hardest.** Participants struggled to articulate [[ethics|ethics]] tensions without prior analysis, so limiting the number of measures (typically eight) pushes them toward trade-offs and makes the tensions surface.
 5. **The pilots changed the materials.** Step 0 of the Checklist is omitted on the design path, and a Beginner version drops measure selection entirely to protect beginners' attention and working memory.
 6. **Facilitator guidance targets two failure patterns.** Beginners reach quick, polarized conclusions — rejecting a system outright for any bias risk — while technical experts narrow to one salient problem and overlook other ethical dimensions.
 
@@ -41,7 +41,7 @@ The framework was piloted in eleven sessions spanning a wide audience: European 
 
 ## Why this belongs in an AI-in-education corpus
 
-The framework is aimed partly at students, and its materials are reusable teaching artifacts rather than a research finding about AI. It speaks to how [[ai-literacy]] is taught at the operational end — how to move from principles to measures — which is where surveys report the largest confidence gap among practitioners. The design lessons transfer beyond AI ethics: make intermediate reasoning inspectable, sequence the hardest reasoning after the analysis that supports it, and reduce the workload for novices by cutting a step rather than simplifying every step.
+The framework is aimed partly at students, and its materials are reusable teaching artifacts rather than a research finding about AI. It speaks to how [[ai-literacy|AI literacy]] is taught at the operational end — how to move from principles to measures — which is where surveys report the largest confidence gap among practitioners. The design lessons transfer beyond AI ethics: make intermediate reasoning inspectable, sequence the hardest reasoning after the analysis that supports it, and reduce the workload for novices by cutting a step rather than simplifying every step.
 
 ## What this means for practice
 - **Instructors.** Sequence ethics teaching so learners identify issues and map them to requirements before they select measures; the pilots showed tensions cannot be discussed until that analysis is done.

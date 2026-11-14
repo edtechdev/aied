@@ -1,7 +1,7 @@
 ---
 title: Affective Tutoring
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ confidence: medium
 reviewed_by: [editor]
 ---
 
-> Integrating emotional awareness into [[intelligent-tutoring|AI tutoring]] systems can yield measurable [[pedagogy|pedagogical]] gains, but the same [[affective-computing|affective]] sophistication risks amplifying harms if learner agency is eroded by empathetic-seeming automation.([[kar-mathbuddy-affective-math-tutoring-2025]])([[favero-critical-ai-tutors-empower-enslave-2025]])
+> Integrating emotional awareness into [[intelligent-tutoring|AI tutoring]] systems can yield measurable [[pedagogy|pedagogical]] gains, but the same [[affective-computing|affective]] sophistication risks amplifying harms if learner agency is eroded by empathetic-seeming automation.([[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]])([[favero-critical-ai-tutors-empower-enslave-2025|Favero et al., 2025]])
 
 ## Questions to Consider
 
@@ -25,14 +25,14 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Affective tutoring is the pedagogical half of [[affective-computing]]: once a system has some reading on a learner's emotional state, what should it do with that reading? The design question is not how to detect frustration but what to change once you believe you have detected it — the pace, the hint level, the tone of feedback, or whether to stop and address the emotion itself. The decision layer is the subject: the strategies tutors map affect onto, the evidence that they help, and the reasons they can backfire. It is not about the learner's own empathy, which is a different outcome with a different evidence base ([[empathy]]), nor about how affect is sensed ([[sensor-and-gaze-analytics|sensor and gaze analytics]]).
+Affective tutoring is the pedagogical half of [[affective-computing|affective computing]]: once a system has some reading on a learner's emotional state, what should it do with that reading? The design question is not how to detect frustration but what to change once you believe you have detected it — the pace, the hint level, the tone of feedback, or whether to stop and address the emotion itself. The decision layer is the subject: the strategies tutors map affect onto, the evidence that they help, and the reasons they can backfire. It is not about the learner's own empathy, which is a different outcome with a different evidence base ([[empathy|empathy]]), nor about how affect is sensed ([[sensor-and-gaze-analytics|sensor and gaze analytics]]).
 
 The clearest worked example is MathBuddy, which models student affect from two modalities:
 
 - **Conversational text** — semantic cues for frustration, confusion, confidence
 - **Facial expressions** — real-time video capture of emotional state
 
-Emotions are aggregated from both modalities and mapped to relevant pedagogical strategies before [[prompt-engineering|prompting]] the [[llm]] tutor, yielding emotionally-aware responses.
+Emotions are aggregated from both modalities and mapped to relevant pedagogical strategies before [[prompt-engineering|prompting]] the [[llm|LLM]] tutor, yielding emotionally-aware responses.
 
 **Results:**
 - **+23 point win rate** improvement over non-affective baseline
@@ -41,7 +41,7 @@ Emotions are aggregated from both modalities and mapped to relevant pedagogical 
 
 The authors read the gain as support for a long-standing hypothesis in educational psychology: emotional state shapes learning, and accounting for it improves tutoring outcomes.
 
-MathBuddy is one system, not the definition of the approach, and the sections below generalize from it. For what the underlying signals can and cannot measure, see [[sensor-and-gaze-analytics]].
+MathBuddy is one system, not the definition of the approach, and the sections below generalize from it. For what the underlying signals can and cannot measure, see [[sensor-and-gaze-analytics|sensor and gaze analytics]].
 
 ## The Risk: Empathy as a Trap
 
@@ -54,7 +54,7 @@ Favero et al. (2025) warn that emotional [[student-engagement|engagement]] with 
 | Affective calibration personalizes pacing | Deep [[personalized-learning|personalization]] can **reduce transfer** to non-adaptive contexts |
 | Facial monitoring signals attentiveness | Continuous video capture raises **privacy concerns** |
 
-The authors argue that emotional risks are part of a broader pattern of **erosion of [[self-efficacy]], [[agency]], and [[well-being]]** when AI use is unchecked.
+The authors argue that emotional risks are part of a broader pattern of **erosion of [[self-efficacy|self-efficacy]], [[agency|agency]], and [[well-being|well-being]]** when AI use is unchecked.
 
 **The risk also falls on people who never open the tutor.** [[shastry-gray-empathy-offloading-2026|Shastry and Gray (2026)]] found that willingness to provide emotional support yourself declines as you believe a system can provide it, and that belief was causal in their second experiment: reading ordinary news coverage about empathic AI was enough to raise offloading, entirely through perceived capacity. Their fourth study adds a social cost the individual-level framing misses. Told that a student had gone to a [[conversational-ai|chatbot]] for support, participants said they would offload less than if the student had gone to a friend. They then wrote fewer empathy words and more indifference words about that student, and rated them as stranger and more desperate. [[social-emotional-learning|Social-emotional]] provision can therefore thin out around the tutor even when nobody using it reports a change.
 
@@ -62,19 +62,19 @@ The authors argue that emotional risks are part of a broader pattern of **erosio
 
 1. **Affective data should inform, not replace, learner autonomy** — The tutor adapts its strategy; the student retains control over disclosure
 2. **Transparency about affect detection** — Students should know when and how their emotions are being inferred
-3. **Affect-as-one-signal-among-many** — Combine with cognitive state (e.g., [[huang-interpretable-knowledge-tracing-2026]]) and behavioral engagement
-4. **Privacy-by-default for [[multimodal]] sensors** — Facial/video data requires stronger protections than text-only inference
+3. **Affect-as-one-signal-among-many** — Combine with cognitive state (e.g., [[huang-interpretable-knowledge-tracing-2026|Huang et al. (2026)]]) and behavioral engagement
+4. **Privacy-by-default for [[multimodal|multimodal]] sensors** — Facial/video data requires stronger protections than text-only inference
 5. **Trigger on trajectories, not point estimates** — Ordered affect shows short-range persistence and directional transitions, and probe-caught reports (self-loops around curiosity and confusion) are a different measurement from self-caught ones (frustration, surprise, conflict), so interventions should key on the sequence rather than summary frequencies ([[epistemic-emotions-collaborative-problem-solving|Anindho et al. (2026)]]).
 
 A boundary on affect inference from dialogue: [[ecnuclaw-k12-personalized-companion|Zhou, Li and Zhang (2026)]] update a five-dimension learner profile at each turn — including an emotional dimension — but extract signals with keyword dictionaries, so a student who expresses frustration without the predefined keywords is not profiled, and profile accuracy has not been validated against expert judgment.
 
 ## Relationship to Broader Safety
 
-Affective tutoring intersects with [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] in the [[motivation|motivational]]-affective harm dimension. An affective tutor that is "too supportive" may suppress the frustration that drives productive struggle and [[self-regulated-learning|self-regulation]]. See also [[llm-fallacy-misattribution]] — students may attribute emotional support to genuine relationship, reinforcing reliance.
+Affective tutoring intersects with [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] in the [[motivation|motivational]]-affective harm dimension. An affective tutor that is "too supportive" may suppress the frustration that drives productive struggle and [[self-regulated-learning|self-regulation]]. See also [[llm-fallacy-misattribution|Kim et al. (2026)]] — students may attribute emotional support to genuine relationship, reinforcing reliance.
 
 ## Common Misconceptions
 
-**"The +23 point win rate shows affective tutors teach better."** It shows something narrower. The comparison is a win rate against a non-affective baseline for one system, MathBuddy, scored across eight pedagogical dimensions and user studies; a win rate is a preference outcome, not a measure of durable learning in a real course. The honest claim is that affect-aware strategy selection beat affect-blind strategy selection on judged response quality, which is a strong result about interaction and a weak one about [[learning-gains]].
+**"The +23 point win rate shows affective tutors teach better."** It shows something narrower. The comparison is a win rate against a non-affective baseline for one system, MathBuddy, scored across eight pedagogical dimensions and user studies; a win rate is a preference outcome, not a measure of durable learning in a real course. The honest claim is that affect-aware strategy selection beat affect-blind strategy selection on judged response quality, which is a strong result about interaction and a weak one about [[learning-gains|learning gains]].
 
 **"If the tutor feels empathetic, the student is being helped."** Feeling understood and being taught are separable, and the gap between them is where the harm sits. [[favero-critical-ai-tutors-empower-enslave-2025|Favero et al.]] identify parasocial dependence as the characteristic failure: a student can form a relationship with a system designed to appear caring while their [[metacognition|metacognitive]] engagement quietly drops, and the empathy itself makes the disengagement harder to notice. The [[llm-fallacy-misattribution|misattribution]] literature is the other edge of the same knife, where students credit the system with genuine relationship.
 

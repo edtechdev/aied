@@ -45,7 +45,7 @@ End users write a median of nine words per message, and conversations peak at te
 
 ## Where teacher intent breaks down
 
-The taxonomy was built deductively from tutoring evaluation frameworks, learning-science work, human–[[student-ai-interaction|AI interaction]] guidelines, and red-teaming, then refined against the data; two workflow codes emerged inductively. Factual failures cover wrong, incomplete, or ungrounded content and boundary violations; workflow failures cover unanswered questions, repetition, and skipped structure; diagnostic failures cover misreading [[prior-knowledge|prior knowledge]], level, or errors; pedagogical failures cover answer dumping and over-[[scaffolding]].
+The taxonomy was built deductively from tutoring evaluation frameworks, learning-science work, human–[[student-ai-interaction|AI interaction]] guidelines, and red-teaming, then refined against the data; two workflow codes emerged inductively. Factual failures cover wrong, incomplete, or ungrounded content and boundary violations; workflow failures cover unanswered questions, repetition, and skipped structure; diagnostic failures cover misreading [[prior-knowledge|prior knowledge]], level, or errors; pedagogical failures cover answer dumping and over-[[scaffolding|scaffolding]].
 
 Missing workflow steps (53.8%) and absent expectation setup (33.4%) outrank every factual error, and the two co-occur in 25.8% of conversations. Within the factual category, guardrail breaches (16.6%) are themselves more common than incorrect content (10.1%). Bots mostly fail at the procedural and relational work of being a teacher-configured [[pedagogical-agent|pedagogical agent]], not at recalling facts.
 

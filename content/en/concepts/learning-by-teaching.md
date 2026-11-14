@@ -1,7 +1,7 @@
 ---
 title: Learning by Teaching
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -24,11 +24,11 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Learning by teaching is the finding, usually traced to the protégé effect, that preparing to teach — and actually explaining to another person or a teachable agent — produces deeper processing than studying alone. The demands of teaching force learners to organize knowledge, anticipate [[misconceptions|misunderstandings]] and generate explanations, which surfaces gaps in their own understanding and strengthens [[metacognition]]. AI enters the idea from both directions: [[intelligent-tutoring|tutoring systems]] and teachable agents can play the student, while a growing literature asks what happens to learning when the machine, rather than the learner, supplies the explanation ([[generative-ai]], [[cs-education]]).
+Learning by teaching is the finding, usually traced to the protégé effect, that preparing to teach — and actually explaining to another person or a teachable agent — produces deeper processing than studying alone. The demands of teaching force learners to organize knowledge, anticipate [[misconceptions|misunderstandings]] and generate explanations, which surfaces gaps in their own understanding and strengthens [[metacognition|metacognition]]. AI enters the idea from both directions: [[intelligent-tutoring|tutoring systems]] and teachable agents can play the student, while a growing literature asks what happens to learning when the machine, rather than the learner, supplies the explanation ([[generative-ai|generative AI]], [[cs-education|CS education]]).
 
 ## The Protégé Effect
 
-Learning by teaching rests on the finding that preparing to teach and actually explaining to another person produces deeper processing than studying alone. The demands of teaching — articulating ideas, anticipating misunderstandings, and answering questions — force learners to organize knowledge, identify gaps in their own understanding, and generate explanations that support retention and transfer. Benefits are most evident in [[collaborative-learning]] contexts and in well-structured domains that support teachable agents (e.g., Betty's Brain). The protégé effect names the mechanism: students put forth more effort and reflect more deeply when they feel responsible for teaching something, so they clarify [[misconceptions]] and fill gaps through explanation and [[metacognition]].
+Learning by teaching rests on the finding that preparing to teach and actually explaining to another person produces deeper processing than studying alone. The demands of teaching — articulating ideas, anticipating misunderstandings, and answering questions — force learners to organize knowledge, identify gaps in their own understanding, and generate explanations that support retention and transfer. Benefits are most evident in [[collaborative-learning|collaborative learning]] contexts and in well-structured domains that support teachable agents (e.g., Betty's Brain). The protégé effect names the mechanism: students put forth more effort and reflect more deeply when they feel responsible for teaching something, so they clarify [[misconceptions|misconceptions]] and fill gaps through explanation and [[metacognition|metacognition]].
 
 ## Teachable Agents: From Rule-Based to Conversational
 
@@ -57,12 +57,12 @@ Two further affordances recur across the evidence:
 
 - **Questions identify knowledge gaps.** LbT systems use learner-generated questions to expose gaps and reinforce comprehension, and [[teaching-ai-vocabulary-lbt-llms-2026|LLM-generated questions]] replace rigid template-based generators.
 - **Teach-back surfaces what clarification misses.** In a 22-participant post-lecture review system, a Peer agent's reflective teach-back consistently exposed gaps between what learners believed they understood and what they could articulate, which lecture-grounded clarification alone had not revealed ([[knowloop-confusion-to-consolidation-2026|Fang & Reidsma (2026)]]).
-- **LbT [[scaffolding|scaffolds]] self-[[regulation]].** Teaching a [[conversational-ai|conversational agent]] fosters [[self-efficacy]] and the implementation of self-regulated learning strategies, and connects LbT to [[desirable-difficulties]] — the effortful act of explaining and correcting is itself a productive struggle that AI's friction-removal would otherwise erase.
+- **LbT [[scaffolding|scaffolds]] self-[[regulation|regulation]].** Teaching a [[conversational-ai|conversational agent]] fosters [[self-efficacy|self-efficacy]] and the implementation of self-regulated learning strategies, and connects LbT to [[desirable-difficulties|desirable difficulties]] — the effortful act of explaining and correcting is itself a productive struggle that AI's friction-removal would otherwise erase.
 - **What predicts tutor learning is knowledge-building, not [[prior-knowledge|prior knowledge]].** Across 23 middle-school tutors, the share of responses that built knowledge rather than restated it predicted conceptual post-test scores (β = .138, p < 0.05) while prior test scores did not predict who produced them, and low-prior tutors who built knowledge finished level with high-prior peers ([[knowledge-building-tutor-learning-2026|Ameen et al., 2026]]).
 
 ## Why It Matters in AI Education
 
-Learning by teaching is the constructive, [[active-learning]] counterpoint to the dominant LLM-as-tutor pattern. Where a tutor gives answers (and risks [[cognitive-offloading|Over-Reliance]]), an LbT setup makes the student the teacher, forcing explanation, gap-detection, and knowledge construction. This positions LbT as a key strategy for turning [[generative-ai|generative AI]] from a crutch into a tool for deeper learning, and connects to [[desirable-difficulties]], [[active-learning]], and [[constructivist]] [[pedagogy]].
+Learning by teaching is the constructive, [[active-learning|active learning]] counterpoint to the dominant LLM-as-tutor pattern. Where a tutor gives answers (and risks [[cognitive-offloading|Over-Reliance]]), an LbT setup makes the student the teacher, forcing explanation, gap-detection, and knowledge construction. This positions LbT as a key strategy for turning [[generative-ai|generative AI]] from a crutch into a tool for deeper learning, and connects to [[desirable-difficulties|desirable difficulties]], [[active-learning|active learning]], and [[constructivist|constructivism]] [[pedagogy|pedagogy]].
 
 ## Putting Learning by Teaching into Practice
 
@@ -85,7 +85,7 @@ The [[research-methods-aied|research]] above converges on a few reusable pattern
 
 ### Tips for developers
 
-- **Prefer hard constraints over persona alone.** Prompting for "uncertainty" or "a student persona" is unreliable; explicitly force errors and a clarification loop. (See [[prompting-teachability-novice-personas-lbt-2026]].)
+- **Prefer hard constraints over persona alone.** Prompting for "uncertainty" or "a student persona" is unreliable; explicitly force errors and a clarification loop. (See [[prompting-teachability-novice-personas-lbt-2026|Miller et al. (2026)]].)
 - **Build a completion criterion.** Define *when the student has explained enough* (Explique used an LLM tool function keyed to the concept's learning objectives) so the interaction ends on understanding, not on a time limit or a fixed turn count.
 - **Log and code the dialogue.** Explique used word-per-minute detection plus LLM semantic coding to classify interactions as Detailed / Minimal / External Content Use — that signal is how you detect circumvention and declining engagement before it becomes a problem.
 - **Give instructors a dashboard.** Completion rates and [[qualitative-research|qualitative]] patterns in teaching interactions let a human intervene when effort drops (Explique's instructors monitored exactly this).

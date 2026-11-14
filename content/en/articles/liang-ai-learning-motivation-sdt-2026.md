@@ -31,7 +31,7 @@ Liang, Chiu, Yau, Meng, Yam, Chai & King (2026) extend Self-Determination Theory
 
 ## What this means for practice
 
-- **Instructors.** Treat [[motivation]] as changeable and design for competence, relatedness, and autonomy throughout the year, because only the students who reached or held the Self-Determined profile showed the largest [[ai-literacy|AI literacy]] gains.
+- **Instructors.** Treat [[motivation|motivation]] as changeable and design for competence, relatedness, and autonomy throughout the year, because only the students who reached or held the Self-Determined profile showed the largest [[ai-literacy|AI literacy]] gains.
 - **Instructors.** Watch for downward transitions and support students who start lower — especially those with less prior AI learning experience — rather than assuming a year of AI instruction will lift everyone.
 - **Designers.** Sustain psychological-need support across the whole [[curriculum-design|curriculum]] instead of front-loading a short AI-literacy unit, since profiles shifted over a full year, not within a single lesson.
 - **Researchers.** Extend [[self-determination-theory|SDT]] measurement into AI learning with behavioral indicators, because the profiles replicated in this domain and predicted learning gains but were captured only by [[self-report-measures|self-report]].

@@ -15,7 +15,7 @@ sources: ['raw/papers/2606.00040.md']
 confidence: high
 ---
 
-> **Synthesis:** Identifies interaction signatures of [[llm]] literacy using [[network-analysis|Epistemic Network Analysis]] (ENA) on logs from 162 students. High-literacy students exhibit iterative, strategic refinement and dense cognitive networking, while low-literacy students rely on direct, linear commands. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-ai]] rather than just syntax mastery.
+> **Synthesis:** Identifies interaction signatures of [[llm|LLM]] literacy using [[network-analysis|Epistemic Network Analysis]] (ENA) on logs from 162 students. High-literacy students exhibit iterative, strategic refinement and dense cognitive networking, while low-literacy students rely on direct, linear commands. This work emphasizes that [[ai-literacy|AI literacy]] is a developmental capacity requiring structured [[scaffolding|scaffolding]] and [[prompt-engineering|prompt engineering]] discipline. It connects to the need for [[curriculum-design|curriculum design]] that targets [[metacognition|metacognition]] and [[agentic-ai|agentic AI]] rather than just syntax mastery.
 
 ## Key Findings
 
@@ -31,11 +31,11 @@ A total of 162 university students (M_age = 20.1) participated in a GenAI-assist
 
 ## What this means for practice
 
-- **Instructors.** Assess [[ai-literacy]] from interaction process, not a single questionnaire score: logs from 162 students, split at the median of a validated GenAI Literacy Test into a high group (n = 89) and a low group (n = 73), produced structurally distinct questioning networks under Epistemic Network Analysis.
+- **Instructors.** Assess [[ai-literacy|AI literacy]] from interaction process, not a single questionnaire score: logs from 162 students, split at the median of a validated GenAI Literacy Test into a high group (n = 89) and a low group (n = 73), produced structurally distinct questioning networks under Epistemic Network Analysis.
 - **Instructors.** Ask students to draft their own summary first and request critique of it, then to refine iteratively: high-literacy networks linked AI Improvement Commands with Clarification Questions and Meta-Commands, an iterative sense-making-then-refinement cycle, whereas low-literacy students paired broad generation commands with basic fact retrieval.
 - **Designers.** Use interaction constraints that force synthesis rather than adoption: the study's custom platform imposed a 30-word limit per prompt and disabled copy-pasting, a directly reproducible lever for other tools.
 - **Instructors.** Treat low-literacy challenge questions as a teaching opening: the challenging-question link appeared in the low-literacy network mainly as a reaction to confusion or [[hallucination-risk|hallucinations]] rather than strategic critique, so make explicit how to question a model's logic.
-- **Designers.** Build [[learning-analytics]] [[visualization|dashboards]] around the observed behavioral markers — the shift from direct generation commands toward iterative refinement — to trigger real-time support instead of end-of-course [[self-report-measures|self-report]].
+- **Designers.** Build [[learning-analytics|learning analytics]] [[visualization|dashboards]] around the observed behavioral markers — the shift from direct generation commands toward iterative refinement — to trigger real-time support instead of end-of-course [[self-report-measures|self-report]].
 
 ## Limitations
 

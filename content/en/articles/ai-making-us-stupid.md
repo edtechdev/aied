@@ -15,7 +15,7 @@ confidence: high
 page_kind: [synthesis]
 ---
 
-> **Synthesis:** A 3-page **perspective** (opinion/review, not an empirical study) addressing whether AI use erodes human cognition. The authors' answer: **not inherently — but the risk is real and follows the [[cognitive-psychology]] principle of *cognitive offloading*.** When people delegate reasoning, writing, memory, or [[problem-solving]] to AI, they forgo the mental practice that builds and maintains those capacities. The threat is **use-dependent**, not intrinsic to the technology: AI that *augments* thinking preserves the underlying processes; AI that *replaces* them outsources exactly the practice that builds expertise.
+> **Synthesis:** A 3-page **perspective** (opinion/review, not an empirical study) addressing whether AI use erodes human cognition. The authors' answer: **not inherently — but the risk is real and follows the [[cognitive-psychology|cognitive psychology]] principle of *[[cognitive-offloading|cognitive offloading]]*.** When people delegate reasoning, writing, memory, or [[problem-solving|problem-solving]] to AI, they forgo the mental practice that builds and maintains those capacities. The threat is **use-dependent**, not intrinsic to the technology: AI that *augments* thinking preserves the underlying processes; AI that *replaces* them outsources exactly the practice that builds expertise.
 
 ## Core distinction: skills vs. basic cognitive abilities
 
@@ -45,13 +45,13 @@ This perspective's answer — that offloading *can* harm but need not — is emp
 
 "It is far too early to say with certainty" the long-term effects. Open questions: prolonged offloading over years/decades; developmental-stage effects (children?); decay as a function of initial skill level and skill type; refresher-training strategies; **designing AI to discourage harmful offloading** (policy levers); whether people can learn to *strategically* offload; impacts on **metacognition** and source-monitoring (misattributing AI output as one's own); effects on dispositions toward thinking.
 
-Notably, the article **cites the PNAS [[guardrails]] paper** (Bastani et al. 2025, [[generative-ai-guardrails-harm-learning]]) and the "[[coach-not-crutch-ai-writing|Coach not crutch]]" preprint (Lira et al. 2025) — making the offloading/crutch mechanism a shared thread across the knowledge base.
+Notably, the article **cites the PNAS [[guardrails|guardrails]] paper** (Bastani et al. 2025, [[generative-ai-guardrails-harm-learning|Bastani et al. (2025)]]) and the "[[coach-not-crutch-ai-writing|Coach not crutch]]" preprint (Lira et al. 2025) — making the offloading/crutch mechanism a shared thread across the knowledge base.
 
 ## Why this matters for the knowledge base
 
-- The canonical **cognitive-offloading** citation [[cognitive-offloading]] needed; this perspective synthesizes the mechanism and the skills-vs-basic-abilities resilience distinction.
-- Conceptual bookend to the empirical [[rct|RCTs]] already in the knowledge base: [[generative-ai-guardrails-harm-learning]] (unguarded tutor *cut* exam scores via crutch/offloading), [[generative-ai-reduced-study-time-math]] (population "[[cognitive-surrender]]"), and contrasts with [[ai-generated-feedback-higher-ed]] (well-architected [[ai-feedback-quality|AI feedback]] *matched* teachers — the "coach not crutch" design).
-- Reinforces [[cognitive-offloading|Over-Reliance]], [[metacognition]] (source-monitoring), [[self-regulated-learning]] (deliberate vs. passive offloading), and [[ai-literacy]] (using AI to augment, not replace).
+- The canonical **cognitive-offloading** citation [[cognitive-offloading|cognitive offloading]] needed; this perspective synthesizes the mechanism and the skills-vs-basic-abilities resilience distinction.
+- Conceptual bookend to the empirical [[rct|RCTs]] already in the knowledge base: [[generative-ai-guardrails-harm-learning|Bastani et al. (2025)]] (unguarded tutor *cut* exam scores via crutch/offloading), [[generative-ai-reduced-study-time-math|Rismanchian et al. (2026)]] (population "[[cognitive-surrender|cognitive surrender]]"), and contrasts with [[ai-generated-feedback-higher-ed|Grion et al. (2026)]] (well-architected [[ai-feedback-quality|AI feedback]] *matched* teachers — the "coach not crutch" design).
+- Reinforces [[cognitive-offloading|Over-Reliance]], [[metacognition|metacognition]] (source-monitoring), [[self-regulated-learning|self-regulated learning]] (deliberate vs. passive offloading), and [[ai-literacy|AI literacy]] (using AI to augment, not replace).
 
 ## What this means for practice
 

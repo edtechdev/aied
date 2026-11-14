@@ -14,7 +14,7 @@ confidence: medium
 level: [secondary, k 12]
 ---
 
-> **Synthesis:** Presents a 24,795-example [[multilingual-learning|multilingual]] instruction dataset for [[teacher-role|teaching]] LLMs to deliver educational content grounded in Indian Knowledge Systems. Spans seven languages and bridges a gap in non-Western [[pedagogy|pedagogical]] content for [[llm-training-and-fine-tuning|instruction tuning]]. Demonstrates that [[discipline-specific-aied|domain-specific]] educational datasets improve [[llm]] performance on culturally grounded knowledge tasks.
+> **Synthesis:** Presents a 24,795-example [[multilingual-learning|multilingual]] instruction dataset for [[teacher-role|teaching]] LLMs to deliver educational content grounded in Indian Knowledge Systems. Spans seven languages and bridges a gap in non-Western [[pedagogy|pedagogical]] content for [[llm-training-and-fine-tuning|instruction tuning]]. Demonstrates that [[discipline-specific-aied|domain-specific]] educational datasets improve [[llm|LLM]] performance on culturally grounded knowledge tasks.
 
 ## Key Findings
 
@@ -33,7 +33,7 @@ IKS-Instruct targets a gap in instruction tuning: existing datasets such as Alpa
 
 - **Software developers.** Fine-tune compact models on domain instruction data instead of renting general-purpose scale: the strongest 7B IKS fine-tune scored 6.39 under the five-judge panel, within 0.15 of Nemotron-Nano's 6.54 at a fraction of the deployment cost.
 - **Software developers.** Anchor every pair in identifiable source material — classical texts, curriculum templates, manually verified sutra demonstrations — rather than free generation, since 67% of auto-generated Vedic mathematics content was wrong before filtering.
-- **Designers.** Budget for bilingual pairs when targeting [[language-learning]] and [[culturally-relevant-pedagogy]] in under-resourced languages: Marathi and Bengali were absent from training, yet fine-tuned models demonstrated Vedic sutras there at a technique-fidelity score of 5.8 against 0.3 for the base model.
+- **Designers.** Budget for bilingual pairs when targeting [[language-learning|language learning]] and [[culturally-relevant-pedagogy|culturally relevant pedagogy]] in under-resourced languages: Marathi and Bengali were absent from training, yet fine-tuned models demonstrated Vedic sutras there at a technique-fidelity score of 5.8 against 0.3 for the base model.
 - **Researchers.** Score with a fixed external judge panel and read absolute values as comparative within that panel only, because version gaps such as 6.39 versus 6.54 are small relative to judge noise.
 
 ## Limitations

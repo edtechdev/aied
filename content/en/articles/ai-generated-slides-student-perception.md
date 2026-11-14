@@ -24,7 +24,7 @@ page_kind: [evaluation]
 
 ## What this means for practice
 
-- **Instructors.** Draft slides with a coding assistant rather than a dedicated education tool or a general-purpose [[llm]]: Cursor and Claude Code produced the most accurate, complete, and pedagogically sound segments from the instructor's existing e-book materials, suggesting that the [[scaffolding]] and structured output formats of coding tools carry over to [[learning-design|instructional design]].
+- **Instructors.** Draft slides with a coding assistant rather than a dedicated education tool or a general-purpose [[llm|LLM]]: Cursor and Claude Code produced the most accurate, complete, and pedagogically sound segments from the instructor's existing e-book materials, suggesting that the [[scaffolding|scaffolding]] and structured output formats of coding tools carry over to [[learning-design|instructional design]].
 - **Instructors.** Budget iteration time for visual consistency: matching AI-generated decks to the instructor's own style required repeated [[prompt-engineering|prompting]], and styling remained inconsistent even after the prompts were refined.
 - **Faculty developers.** Coach colleagues to demonstrate quality alongside disclosure — students associated low quality with AI origin (higher-rated segments drew fewer "AI-generated" guesses), so [[ai-use-disclosure|transparency about AI use]] can backfire unless the material is visibly good.
 - **Instructors.** Ask students to judge the slides specifically; in this study the peer-instruction ratings could also reflect live coding and verbal explanations delivered in the same segment.

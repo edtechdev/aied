@@ -27,7 +27,7 @@ confidence: medium
 
 ## What this means for practice
 
-- **Instructors.** Replace open-ended AI access with a hard design constraint — this study used a zero-paper, fully digitalized assessment workflow — because the constrained phase produced the study's largest gain, in SDP workflow compliance (+1.83 units, d = 3.50); the authors read that as structured [[scaffolding]] succeeding where unstructured AI use does not.
+- **Instructors.** Replace open-ended AI access with a hard design constraint — this study used a zero-paper, fully digitalized assessment workflow — because the constrained phase produced the study's largest gain, in SDP workflow compliance (+1.83 units, d = 3.50); the authors read that as structured [[scaffolding|scaffolding]] succeeding where unstructured AI use does not.
 - **Instructors.** Re-engineer an existing lesson plan under the new constraint rather than writing a fresh one, mirroring the baseline → SDP sequence in which the same teams resubmitted their design.
 - **Faculty developers.** Train teams to write constraint-specific prompts (the SDP prompt set) alongside the general IAT prompts, so the AI supports the required workflow instead of routing around it.
 - **Faculty developers.** Score submissions on all four rubric indices — overall design score, SDP workflow compliance, strategic reflection, and complexity and innovation — so the reflection the constraint forces becomes visible and discussable.

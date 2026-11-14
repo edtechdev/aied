@@ -19,7 +19,7 @@ technology: [edtech-platform]
 
 Key findings highlight that [[equity-in-ai-education|equity-oriented]] [[ai-education|AI education]] for underserved adult populations must address foundational digital literacy gaps, build trust around [[privacy|data privacy]], and connect AI concepts to everyday lived experiences. This challenges the dominant focus on formal [[higher-ed|higher education]] settings for AI literacy initiatives and points toward more inclusive [[lifelong-learning|lifelong learning]] models.
 
-The study contributes design considerations for [[edtech-platform|educational technology]] developers and [[educational-development|educators]] seeking to reach adults outside traditional educational institutions. The community-centered approach offers a replicable model for [[equity-in-ai-education|equity-focused]] AI education that prioritizes relevance, trust, and [[accessibility]] over technical depth.
+The study contributes design considerations for [[edtech-platform|educational technology]] developers and [[educational-development|educators]] seeking to reach adults outside traditional educational institutions. The community-centered approach offers a replicable model for [[equity-in-ai-education|equity-focused]] AI education that prioritizes relevance, trust, and [[accessibility|accessibility]] over technical depth.
 
 ## What this means for practice
 

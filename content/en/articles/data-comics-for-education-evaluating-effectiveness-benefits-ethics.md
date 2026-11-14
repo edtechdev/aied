@@ -15,7 +15,7 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Data comics combine sequential visual narratives with data [[visualization]] to improve [[student-engagement|student engagement]] with [[generative-ai]] in educational settings. This paper evaluates the effectiveness of AI-assisted creation of data comics, finding that they significantly enhance student engagement and comprehension compared to traditional visualization formats. The study also examines [[ethics|ethical]] dimensions including authorship attribution of AI-produced content, accuracy of generated visuals, and the risk of misleading representations. These findings have direct implications for [[k-12]] education, where [[active-learning]] approaches benefit from engaging visual materials.
+> **Synthesis:** Data comics combine sequential visual narratives with data [[visualization|visualization]] to improve [[student-engagement|student engagement]] with [[generative-ai|generative AI]] in educational settings. This paper evaluates the effectiveness of AI-assisted creation of data comics, finding that they significantly enhance student engagement and comprehension compared to traditional visualization formats. The study also examines [[ethics|ethical]] dimensions including authorship attribution of AI-produced content, accuracy of generated visuals, and the risk of misleading representations. These findings have direct implications for [[k-12]] education, where [[active-learning|active learning]] approaches benefit from engaging visual materials.
 
 ## Key Findings
 
@@ -35,7 +35,7 @@ The study used a within-subjects experimental design in which 60 university stud
 - **Instructors.** Earmark comics for multiple-insight questions, where the advantage over conventional visualizations was largest (median 1.000 versus 0.333).
 - **Learners.** Check AI-generated panels against the underlying data before citing them — 45 of the 60 participants raised misinformation as a concern, and hallucinated or altered figures travel silently once embedded in a narrative.
 - **Designers.** Keep panels deliberately sparse: of the 36 participants who named a downside, 18 pointed to information overload, with "too busy" layouts slowing the location of key insights.
-- **Instructors.** Have students document the generative tool, prompt, and source data behind each comic, since 37 participants flagged ambiguous ownership of AI-generated and reprocessed images, and require that kind of transparency from any [[generative-ai]] pipeline used for instructional visuals.
+- **Instructors.** Have students document the generative tool, prompt, and source data behind each comic, since 37 participants flagged ambiguous ownership of AI-generated and reprocessed images, and require that kind of transparency from any [[generative-ai|generative AI]] pipeline used for instructional visuals.
 
 ## Limitations
 

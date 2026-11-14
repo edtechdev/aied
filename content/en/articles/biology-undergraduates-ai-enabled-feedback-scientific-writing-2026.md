@@ -27,7 +27,7 @@ source_depth: full text
 verified: [citation, numbers, links]
 ---
 
-> **Synthesis:** Weston and Long (2026) report a two-case study of [[higher-ed|undergraduate]] biology teams revising a research proposal introduction after receiving [[feedback]] developed by their instructor with a custom [[llm|GPT]] tool. Across both teams, 10 of the 22 comments were fully or partially addressed, and both teams left the same demanding categories unused. The authors conclude that [[generative-ai|generative AI]] supported revision mainly through the content of the feedback, while barriers to implementing it persisted.
+> **Synthesis:** Weston and Long (2026) report a two-case study of [[higher-ed|undergraduate]] biology teams revising a research proposal introduction after receiving [[feedback|feedback]] developed by their instructor with a custom [[llm|GPT]] tool. Across both teams, 10 of the 22 comments were fully or partially addressed, and both teams left the same demanding categories unused. The authors conclude that [[generative-ai|generative AI]] supported revision mainly through the content of the feedback, while barriers to implementing it persisted.
 
 ## Key Findings
 
@@ -64,7 +64,7 @@ Three conditions in the assignment and the course explain why some comments were
 - **Instructors.** Build a revision opportunity into every assignment that carries feedback, so students must act on comments rather than file them.
 - **Instructors.** Require students to explain in writing how they used each feedback comment or why they did not, making their decision-making visible.
 - **Instructors.** Configure and review the feedback-producing tool before students see it, grounding it in the course rubric and knowledge base rather than using a bare [[prompt-engineering|prompt]].
-- **Faculty developers.** Teach [[feedback-literacy|feedback literacy]] alongside scientific writing, since uptake depended on [[self-assessment]] skills, disciplinary understanding, and willingness to invest effort.
+- **Faculty developers.** Teach [[feedback-literacy|feedback literacy]] alongside scientific writing, since uptake depended on [[self-assessment|self-assessment]] skills, disciplinary understanding, and willingness to invest effort.
 - **Instructional designers.** Preserve whole-proposal feedback as a distinct section and scaffold the self-evaluation it demands, because paragraph-specific comments were taken up far more often.
 
 ## Limitations

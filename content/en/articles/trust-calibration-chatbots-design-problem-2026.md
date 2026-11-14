@@ -13,7 +13,7 @@ confidence: high
 page_kind: [framework]
 ---
 
-> **Synthesis:** This Hypothesis and Theory article reframes miscalibrated [[trust-calibration|trust]] in [[llm]] [[conversational-ai|chatbots]] as a design problem, arguing that transparency alone fails because its affordances are inert and wait for the user to act. The authors build a two-dimensional user typology — ability to verify and motivation to verify — and synthesize two families of intervention: [[explainable-ai|interpretability]] affordances that make evaluation possible and engagement mechanisms that make it happen, integrated through Reason's Swiss cheese model into eight testable propositions, with [[ai-literacy]] positioned as the slowest but most durable layer of defense.
+> **Synthesis:** This Hypothesis and Theory article reframes miscalibrated [[trust-calibration|trust]] in [[llm|LLM]] [[conversational-ai|chatbots]] as a design problem, arguing that transparency alone fails because its affordances are inert and wait for the user to act. The authors build a two-dimensional user typology — ability to verify and motivation to verify — and synthesize two families of intervention: [[explainable-ai|interpretability]] affordances that make evaluation possible and engagement mechanisms that make it happen, integrated through Reason's Swiss cheese model into eight testable propositions, with [[ai-literacy|AI literacy]] positioned as the slowest but most durable layer of defense.
 
 ## Key Findings
 
@@ -39,7 +39,7 @@ This is a Hypothesis and Theory (conceptual) contribution, not an empirical stud
 
 - **Instructors.** Teach the distinction between reliability and interpretability as separate judgments about a chatbot answer, and have students rehearse the failure mode that inflates trust most: fabricated but convincingly formatted citations.
 - **Designers.** Build evaluation into the interaction through cooling-off periods, engagement gates, dialogue scaffolds, adaptive friction, and commitment prompts rather than bolting on passive warnings, since information alone does not produce durable recalibration; design for trust that matches what a system can actually do, treating interpretability as a structuring principle rather than an add-on.
-- **Designers.** Match the mechanism to the user and layer the defenses: citation and rationale help motivated users, social verification signals help low-ability users, and a cooling-off period helps the expert who lacks the moment rather than the novice who lacks knowledge, while no single intervention recalibrates trust and [[ai-literacy]] builds the most durable but slowest layer.
+- **Designers.** Match the mechanism to the user and layer the defenses: citation and rationale help motivated users, social verification signals help low-ability users, and a cooling-off period helps the expert who lacks the moment rather than the novice who lacks knowledge, while no single intervention recalibrates trust and [[ai-literacy|AI literacy]] builds the most durable but slowest layer.
 - **Administrators.** Use procurement and policy to make calibration-supporting features mandatory, and keep behavioral data collected for adaptive friction within the session, as dosing on engagement data carries its own privacy obligation.
 - **Researchers.** Test the eight propositions against confidence and behavioral measures together, because the framework's own gap measure records stated confidence rather than the reliance-based willingness the authors define.
 

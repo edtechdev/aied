@@ -19,7 +19,7 @@ institutions: [change-management]
 
 ## Why This Matters
 
-Current technology-adoption models ([[scaffolding]]-like frameworks such as DoI and [[technology-acceptance-model|UTAUT]]) emphasize external conditions, perceived usefulness, and social influence. This study demonstrates that for [[higher-ed|AI in higher education]], these factors are surprisingly weak predictors. Instead, a faculty member's **epistemic interpretation** of AI — their stance on what AI means for disciplinary knowledge production — is the primary driver.
+Current technology-adoption models ([[scaffolding|scaffolding]]-like frameworks such as DoI and [[technology-acceptance-model|UTAUT]]) emphasize external conditions, perceived usefulness, and social influence. This study demonstrates that for [[higher-ed|AI in higher education]], these factors are surprisingly weak predictors. Instead, a faculty member's **epistemic interpretation** of AI — their stance on what AI means for disciplinary knowledge production — is the primary driver.
 
 ## Study Details
 
@@ -32,16 +32,16 @@ Current technology-adoption models ([[scaffolding]]-like frameworks such as DoI 
 ## Connections to Knowledge Base
 
 ### Faculty Development
-This paper challenges the implicit theory behind many [[educational-development]] programs: providing tools, workshops, and institutional support may be insufficient if faculty have not developed a coherent pedagogical orientation toward AI. The Cottrell community is already pedagogically motivated — yet 22% used no AI at all. Faculty development must help instructors articulate *what AI means for their discipline*, not just *how to use it*.
+This paper challenges the implicit theory behind many [[educational-development|educational development]] programs: providing tools, workshops, and institutional support may be insufficient if faculty have not developed a coherent pedagogical orientation toward AI. The Cottrell community is already pedagogically motivated — yet 22% used no AI at all. Faculty development must help instructors articulate *what AI means for their discipline*, not just *how to use it*.
 
 ### Teacher Adoption
-The finding that concerns do not moderate adoption contrasts with [[teacher-ai-adoption-confidence]], where institutional support → confidence → attitudes. This paper suggests a different mechanism: orientation shapes adoption directly, without being mediated by confidence or moderated by concerns. The [[teacher-role]] literature may need to incorporate epistemic dimensions alongside attitudinal ones.
+The finding that concerns do not moderate adoption contrasts with [[teacher-ai-adoption-confidence|Sibug et al., 2026]], where institutional support → confidence → attitudes. This paper suggests a different mechanism: orientation shapes adoption directly, without being mediated by confidence or moderated by concerns. The [[teacher-role|teacher role]] literature may need to incorporate epistemic dimensions alongside attitudinal ones.
 
 ### Institutional Change
-The weak association between institutional initiatives and AI use is a cautionary note for [[institutional-change-framework-ai]] and [[change-management]]: top-down strategic plans and degree programs may have limited impact if they don't engage with faculty pedagogical orientations. Bottom-up, colleague-driven information flow (64% cited department colleagues) suggests peer networks are more influential than central initiatives.
+The weak association between institutional initiatives and AI use is a cautionary note for [[institutional-change-framework-ai|Perl-Nussbaum et al., 2026]] and [[change-management|change management]]: top-down strategic plans and degree programs may have limited impact if they don't engage with faculty pedagogical orientations. Bottom-up, colleague-driven information flow (64% cited department colleagues) suggests peer networks are more influential than central initiatives.
 
 ### AI Literacy
-The orientation construct connects to [[ai-literacy]] at a deeper level: it's not just about knowing what AI can do, but having a coherent philosophy about what AI *should* do in one's discipline. This aligns with the distinction between instrumental and critical AI literacy.
+The orientation construct connects to [[ai-literacy|AI literacy]] at a deeper level: it's not just about knowing what AI can do, but having a coherent philosophy about what AI *should* do in one's discipline. This aligns with the distinction between instrumental and critical AI literacy.
 
 ### Comparison to Computation Integration
 The authors draw a deliberate parallel to the integration of computation into [[physics-education|physics education]] — a decades-long process that succeeded only when faculty communities (e.g., PICUP) developed shared pedagogical frameworks. AI may follow a similar trajectory, where disciplinary communities — not institutions — drive adoption through shared epistemic norms.

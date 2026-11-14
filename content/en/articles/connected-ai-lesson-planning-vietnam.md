@@ -13,7 +13,7 @@ sources: ['raw/papers/2607.28647.md']
 confidence: high
 ---
 
-> **Synthesis:** ConnectED is a [[human-in-the-loop-ai|human-centered]] AI system supporting the full instructional lifecycle in Vietnamese education: [[curriculum-design|curriculum-aligned lesson design]], interactive student learning, and [[feedback|feedback-driven refinement]], built on VietEduQwen, a Vietnamese educational [[llm]] trained with SFT and DPO.
+> **Synthesis:** ConnectED is a [[human-in-the-loop-ai|human-centered]] AI system supporting the full instructional lifecycle in Vietnamese education: [[curriculum-design|curriculum-aligned lesson design]], interactive student learning, and [[feedback|feedback-driven refinement]], built on VietEduQwen, a Vietnamese educational [[llm|LLM]] trained with SFT and DPO.
 
 The system operationalizes the ADDIE framework through structured prompt templates aligned with Vietnam's Official Dispatch No. 5512/BGDDT-GDTrH, where each phase is both a generation step and a [[teacher-role|teacher validation]] gate — keeping teachers in the loop.
 

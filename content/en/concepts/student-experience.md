@@ -1,7 +1,7 @@
 ---
 title: Student Experience
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -30,9 +30,9 @@ reviewed_by: [editor]
 - **Large-scale surveys:** [[ai-in-the-wild-college|AI in the Wild]] analyzes authentic interactions of thousands of college students, while [[genai-availability-grades-satisfaction|availability and satisfaction studies]] correlate AI access with student outcomes. These are [[self-report-measures|self-report measures]]: they capture perceptions and intentions well and behavior only approximately.
 - **Non-use is a reasoned position, not a gap to close.** A cross-institutional UK survey of 7,087 students found 32% did not use GenAI for study at all, with non-users citing wanting to do the work themselves (86%), inaccuracy (81%), and ethical or environmental concerns ([[genai-student-experiences-uk-he-survey-2026|Gow et al., 2026]]).
 - **Interaction patterns:** [[tracing-genai-literacy-interaction-patterns|Tracing GenAI literacy]] maps how students engage with AI across assignments. [[misiejuk-cognitive-offloading-prompting-2026|Prompting analysis]] reveals cognitive engagement levels through prompt structure.
-- **Motivation and agency:** [[ai-availability-student-motivation|AI availability and motivation]] examines whether knowing AI is available changes student effort. [[aied-unfinished-mission-bypass|AIED's unfinished mission]] frames [[agency]] and [[motivation]] as central challenges.
+- **Motivation and agency:** [[ai-availability-student-motivation|AI availability and motivation]] examines whether knowing AI is available changes student effort. [[aied-unfinished-mission-bypass|AIED's unfinished mission]] frames [[agency|agency]] and [[motivation|motivation]] as central challenges.
 - **Perceptions and attitudes:** [[genai-usage-design-students-survey|GenAI usage surveys]] and [[student-mental-models-genai|mental model studies]] investigate how students understand and trust AI.
-- **Equity dimensions:** student-experience intersects with [[equity-in-ai-education]] — AI access and effectiveness vary across student populations.
+- **Equity dimensions:** student-experience intersects with [[equity-in-ai-education|equity]] — AI access and effectiveness vary across student populations.
 
 ## Ways AI impacts students
 
@@ -40,18 +40,18 @@ AI affects students across cognitive, motivational, [[affective-computing|affect
 
 ### Cognitive impacts
 
-- **Positive:** AI can [[scaffolding|scaffold]] learning with [[feedback]], hints, and explanations, supporting understanding, practice, and [[help-seeking]]. Students can use AI to [[ai-literacy|learn how to use AI well]], and well-designed tools keep the learner doing the cognitive work (see [[does-ai-help-students-learn|Does AI help students learn?]]).
-- **Negative:** AI can drive [[cognitive-offloading|over-reliance and cognitive offloading]], where students delegate the reasoning they need to practice. This is the **performance–learning gap**: students do better *with* AI but worse on later unassisted tasks (see [[ai-misuse-learning-harm|AI Misuse and Learning Harm]]). Overuse may also erode [[metacognition]] and [[self-regulated-learning]].
+- **Positive:** AI can [[scaffolding|scaffold]] learning with [[feedback|feedback]], hints, and explanations, supporting understanding, practice, and [[help-seeking|help-seeking]]. Students can use AI to [[ai-literacy|learn how to use AI well]], and well-designed tools keep the learner doing the cognitive work (see [[does-ai-help-students-learn|Does AI help students learn?]]).
+- **Negative:** AI can drive [[cognitive-offloading|over-reliance and cognitive offloading]], where students delegate the reasoning they need to practice. This is the **performance–learning gap**: students do better *with* AI but worse on later unassisted tasks (see [[ai-misuse-learning-harm|AI Misuse and Learning Harm]]). Overuse may also erode [[metacognition|metacognition]] and [[self-regulated-learning|self-regulated learning]].
 
 ### Motivational impacts
 
-- **Positive:** AI can raise [[motivation]] and [[student-engagement|engagement]] by providing personalized, immediate, and low-stakes support — helping students persist and feel competent (see [[self-determination-theory|self-determination]] perspectives on autonomy, competence, and relatedness).
+- **Positive:** AI can raise [[motivation|motivation]] and [[student-engagement|engagement]] by providing personalized, immediate, and low-stakes support — helping students persist and feel competent (see [[self-determination-theory|self-determination]] perspectives on autonomy, competence, and relatedness).
 - **The motivational effect runs through motivation, not through access.** Among 297 students, autonomy support and autonomous motivation for AI use had no direct effect on engagement (β = 0.070 each), while student motivation predicted engagement at β = 0.74 ([[genai-motivation-engagement-2026|Ahmed and Sultan (2026)]]).
-- **Negative:** Knowing AI is available can reduce student effort and motivation to struggle productively ([[ai-availability-student-motivation|AI availability and motivation]], [[wang-safety-gap-productive-struggle-2026|the safety gap]]). Over-reliance can erode [[agency]] and the sense of accomplishment that comes from doing work oneself.
+- **Negative:** Knowing AI is available can reduce student effort and motivation to struggle productively ([[ai-availability-student-motivation|AI availability and motivation]], [[wang-safety-gap-productive-struggle-2026|the safety gap]]). Over-reliance can erode [[agency|agency]] and the sense of accomplishment that comes from doing work oneself.
 
 ### Affective and well-being impacts
 
-- **Positive:** AI can offer low-pressure, on-demand help and reduce anxiety about asking questions, supporting [[well-being]] and confidence.
+- **Positive:** AI can offer low-pressure, on-demand help and reduce anxiety about asking questions, supporting [[well-being|well-being]] and confidence.
 - **Negative:** AI use is associated with [[anxiety-and-stress|anxiety and stress]], including fears about being replaced, uncertain assessment, and the pressure to keep up. Studies such as [[kim-ai-anxiety-comprehensive-analysis|a comprehensive analysis of AI anxiety]] and [[aivaluate-anxiety-assessment-2026|AIvaluate]] document these affective costs. [[shame-guilt-ai-regulation-computing-education|Shame and guilt]] around AI use can drive hiding and selective disclosure, harming honest engagement and [[social-emotional-learning|social-emotional]] well-being. These pressures are local and social rather than written down: see [[social-norms-ai-use|social norms of AI use]]. Assessment conditions add their own pressure: [[harerimana-remote-proctoring-nursing-scoping-2026|a scoping review of remote proctoring in nursing assessment]] finds students anxious about connectivity and about being wrongly accused of cheating, first-time users of an invigilation app describing it as anxiety-inducing and reporting difficulty concentrating while watched, and roughly a fifth hitting browser-extension or connectivity failures despite preparatory resources.
 
 ### Identity impacts
@@ -63,7 +63,7 @@ AI affects students across cognitive, motivational, [[affective-computing|affect
 
 - **Negative:** AI enables new forms of [[academic-integrity|academic dishonesty]] (AI-generated essays, unauthorized completion), driving debates about [[reduce-ai-cheating|detection and reduction]]. This interacts with [[equity-in-ai-education|equity]]: unequal access to, and understanding of, AI tools can widen gaps between students.
 - **Whether a use counts as cheating depends on the discipline.** A [[meta-analysis-systematic-review|systematic review]] of 89 studies found [[stem-education|STEM]] students at +42% net agreement that AI improves performance, while [[humanities-education|humanities]] students showed the highest net agreement that AI use constitutes cheating (+44%) and raises ethical concerns (+58%) ([[ai-tools-academic-work-cheating-2026|Padhy (2026)]]). A course's integrity problem is therefore partly a disciplinary judgment rather than a fixed standard, which is why the rules students encounter vary by department as much as by policy.
-- **Positive/constructive:** AI can support [[authentic-assessment|authentic]], [[process-oriented-assessment|process-oriented]] assessment and [[reflection|reflective practice]] (e.g., [[pedlow-genai-selfassessment-2026|guided self-assessment]]), turning integrity concerns into opportunities for [[ai-literacy]] and responsibility.
+- **Positive/constructive:** AI can support [[authentic-assessment|authentic]], [[process-oriented-assessment|process-oriented]] assessment and [[reflection|reflective practice]] (e.g., [[pedlow-genai-selfassessment-2026|guided self-assessment]]), turning integrity concerns into opportunities for [[ai-literacy|AI literacy]] and responsibility.
 
 Student accounts of integrity are less settled than the dishonesty framing suggests. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa and Mezgebu (2026)]] interviewed 27 undergraduates at an Ethiopian university and found the student body divided against itself: almost all used GenAI or watched peers use it and most credited it with raising their achievement. A minority called coursework use outright misconduct, and the sharpest and most widely shared complaint was fairness — AI users scoring above students who worked honestly. That left some describing it as killing their sense of diligence, and one participant unsure "whether we are benefiting or suffering from the use of AI." The procedure side matters too: [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] coded 1,162 GenAI misconduct cases and found that the evidence most often cited — detector output, similarity reports, AI-typical content patterns — carried the weakest probative value, and that with no minimum evidentiary threshold in the pipeline students with thin cases were pushed toward appeals. Over-inclusive definitions broaden that exposure: [[wright-transcription-not-generation-2026|Wright (2026)]] shows that prohibitions aimed at "[[generative-ai|generative AI]]" can catch tools that merely convert the format of work a student already authored, an over-inclusion that falls hardest on disabled and [[equity-in-ai-education|equity]]-exposed students. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] points the constructive way out, treating integrity as a [[pedagogy|pedagogical]] practice enacted through [[evaluative-judgment|judgment]] — annotated decision trails, verification, [[oral-assessment|oral defense]], version history — rather than compliance secured through surveillance.
 
@@ -73,20 +73,20 @@ Verification can shift how students experience the question: a request to explai
 ### Social and relational impacts
 
 - **Positive:** AI can mediate [[collaborative-learning|collaboration]] and [[human-ai-collaboration|human-AI interaction]], supporting teamwork, peer interaction, and access to diverse perspectives.
-- **Negative:** AI can reduce genuine peer and instructor interaction, create [[ai-sycophancy|sycophantic]] dynamics, and — when operating as an undisclosed teammate — reshape group discourse and [[agency]] in ways learners cannot see or contest (see [[jin-emergent-learner-agency-implicit-hai-2026|emergent learner agency in implicit HAI]]).
+- **Negative:** AI can reduce genuine peer and instructor interaction, create [[ai-sycophancy|sycophantic]] dynamics, and — when operating as an undisclosed teammate — reshape group discourse and [[agency|agency]] in ways learners cannot see or contest (see [[jin-emergent-learner-agency-implicit-hai-2026|emergent learner agency in implicit HAI]]).
 
 ### Long-run / capability impacts
 
-- **Positive:** AI can help students build transferable skills for an AI-integrated workplace — [[lodge-adaptive-capabilities-genai-future-2026|adaptive capabilities]] such as [[ai-literacy]], [[distributed-cognition]], and [[metacognition]] — and raise expectations about AI-skills readiness ([[ithaka-sr-ai-skills-college-graduates-2026|AI-skills expectations for graduates]]).
+- **Positive:** AI can help students build transferable skills for an AI-integrated workplace — [[lodge-adaptive-capabilities-genai-future-2026|adaptive capabilities]] such as [[ai-literacy|AI literacy]], [[distributed-cognition|distributed cognition]], and [[metacognition|metacognition]] — and raise expectations about AI-skills readiness ([[ithaka-sr-ai-skills-college-graduates-2026|AI-skills expectations for graduates]]).
 - **Negative:** An over-reliant or unreflective AI experience can leave students less able to perform without AI, less practiced at independent reasoning, and uncertain of their own capabilities (see [[ai-misuse-learning-harm|AI misuse and learning harm]]).
 
 **Overall:** the same AI tool can support or undermine students depending on design and use. The guardrail throughout is to keep the learner doing the cognitively important work while using AI for support ([[scaffolding|scaffold, do not substitute]]), and to attend to the full range of impacts — not just performance. One configuration shifts where the experience begins: when AI generates the course readings themselves rather than helping with homework, students become auditors of their own [[curriculum-design|curriculum]]. In [[sidorkin-ai-generated-course-readings-2026|Sidorkin's (2026)]] graduate course, students valued the contextual specificity and adjustability of the generated texts and 75 percent agreed they learned more than in a comparable course without an AI companion, yet they had to infer source quality from context because Wikipedia links and peer-reviewed citations appeared in the same lists without labels, and four of 24 survey respondents used dependence language, including one describing themselves as "somewhat codependent on the AI for reassurance and structure."
 
-The longest-run outcomes a student experiences — whether they return next term, accumulate credits, and graduate — are institutional rather than instructional, and [[student-support-and-success]] tracks how AI support affects them: task completion moves readily, persistence and graduation far less so.
+The longest-run outcomes a student experiences — whether they return next term, accumulate credits, and graduate — are institutional rather than instructional, and [[student-support-and-success|student support and success]] tracks how AI support affects them: task completion moves readily, persistence and graduation far less so.
 
 ## Connections
 
-Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive AI dependence), [[ai-literacy]] (skills for effective use), [[cognitive-offloading]] (how AI changes cognitive work), and [[student-engagement|engagement]] (how AI systems measure and respond to student behavior). It is the learner-facing member of the [[stakeholders]] umbrella, and the home for summarizing all the ways AI impacts students.
+Student experience connects to [[cognitive-offloading|Over-Reliance]] (excessive AI dependence), [[ai-literacy|AI literacy]] (skills for effective use), [[cognitive-offloading|cognitive offloading]] (how AI changes cognitive work), and [[student-engagement|engagement]] (how AI systems measure and respond to student behavior). It is the learner-facing member of the [[stakeholders|stakeholders]] umbrella, and the home for summarizing all the ways AI impacts students.
 
 ## Implications for Practice
 

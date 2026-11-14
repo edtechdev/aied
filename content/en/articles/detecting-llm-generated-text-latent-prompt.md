@@ -51,7 +51,7 @@ The method proved robust to adversarial transformation, obtaining the best score
 
 - **Designers.** Deploy a training-free detector instead of retraining one: EchoPrompt needs only an instruction-tuned and base model pair and classifies a sample in under 0.26 seconds, so screening can follow commercial LLM releases without a new labeled corpus.
 - **Designers.** Treat the score as one signal, never as proof of authorship: the authors flag false positives that wrongly flag human writing and false negatives that miss generated text as the harms that matter most in high-stakes settings.
-- **Administrators.** Pair detection with [[human-in-the-loop-ai|human oversight]] and transparent [[governance]] rather than policy that leans on the score alone; robustness to paraphrase attacks comes from modeling the prompt-response relation, which is not evidence about who wrote a passage.
+- **Administrators.** Pair detection with [[human-in-the-loop-ai|human oversight]] and transparent [[governance|governance]] rather than policy that leans on the score alone; robustness to paraphrase attacks comes from modeling the prompt-response relation, which is not evidence about who wrote a passage.
 - **Designers.** Budget proxy and prefix choices as maintenance work: detection depends on the choice of base/instruction-tuned proxy family, and the generic prefix is empirically tuned rather than proven optimal.
 
 ## Limitations

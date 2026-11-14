@@ -14,7 +14,7 @@ page_kind: [synthesis, evaluation]
 methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-aied]
 ---
 
-> **Synthesis:** **Effect of Artificial Intelligence on Learning: A Meta-Meta-Analysis** — A study-level meta-meta-analysis by Bartoš, Bujak, Martinková, and Wagenmakers (2026) that re-analyzes 1,840 effect sizes from 67 published [[meta-analysis-systematic-review|meta-analyses]] of AI/[[llm]] effects on learning. Using publication-bias-adjusted robust Bayesian model-averaging, they find strong evidence of severe [[limitations-in-aied-research|publication bias]] and extreme between-study heterogeneity, and estimate the bias-adjusted average effect at roughly one-third the magnitude reported in the literature (SMD = 0.196), with prediction intervals spanning large negative to large positive effects. They conclude that broad claims of generalized [[learning-gains|learning gains]] from AI/LLMs are premature and the evidence is insufficient to support policy or practice recommendations.
+> **Synthesis:** **Effect of Artificial Intelligence on Learning: A Meta-Meta-Analysis** — A study-level meta-meta-analysis by Bartoš, Bujak, Martinková, and Wagenmakers (2026) that re-analyzes 1,840 effect sizes from 67 published [[meta-analysis-systematic-review|meta-analyses]] of AI/[[llm|LLM]] effects on learning. Using publication-bias-adjusted robust Bayesian model-averaging, they find strong evidence of severe [[limitations-in-aied-research|publication bias]] and extreme between-study heterogeneity, and estimate the bias-adjusted average effect at roughly one-third the magnitude reported in the literature (SMD = 0.196), with prediction intervals spanning large negative to large positive effects. They conclude that broad claims of generalized [[learning-gains|learning gains]] from AI/LLMs are premature and the evidence is insufficient to support policy or practice recommendations.
 
 ## Key Findings
 
@@ -25,7 +25,7 @@ methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-ai
 - **No difference pre- vs. post-[[generative-ai|ChatGPT]].** There was no substantial difference between studies published before vs. after January 2023, undercutting claims that modern [[llm|LLM]] tools specifically produce gains.
 - **Heterogeneity means new studies add almost no information.** An additional infinite-size study would add fewer than three observations' worth of effective sample size given the existing heterogeneity — so accumulating more studies of the current type will barely move estimates. The authors recommend high-quality, large-scale pre-registered studies and registered replication reports analyzed separately.
 - **Direct implications for meta-[[research-methods-aied|research]] quality.** Reporting quality was poor enough that effect sizes could not be recovered from 7 of the meta-analyses. The results also align with re-analyses (Bardach et al.; Bartoš et al. 2025) showing that prominent positive meta-analyses like Wang & Fan (2025) — since retracted — had effects that disappear entirely under publication-bias adjustment.
-- **Caveat on scope.** The estimates capture only short-term, direct effects on traditional learning measures; AI may also reshape education indirectly ([[metacognition]], instruction, feedback, assessment) in ways these metrics miss — so null/heterogeneous average effects may partly reflect measurement misalignment rather than zero educational value.
+- **Caveat on scope.** The estimates capture only short-term, direct effects on traditional learning measures; AI may also reshape education indirectly ([[metacognition|metacognition]], instruction, feedback, assessment) in ways these metrics miss — so null/heterogeneous average effects may partly reflect measurement misalignment rather than zero educational value.
 
 ## What this means for practice
 
@@ -33,14 +33,14 @@ methods: [ai-ed-evaluation, meta-analysis-systematic-review, research-methods-ai
 - **Researchers.** Stop treating additional conventional studies as evidence accumulation — with between-study heterogeneity at τ = 0.869, an additional infinitely large study would add fewer than three observations' worth of effective sample size.
 - **Researchers.** Fund and report pre-registered, large-scale studies or registered replication reports analyzed separately, because the prediction interval for a new study runs from −1.521 to +1.908 standard deviations.
 - **Policymakers.** Do not cite the current meta-analytic literature as support for AI or [[llm|LLM]] deployment rules; subgroup analyses by outcome type, educational field and level, and the role of AI found no group with consistent benefits.
-- **Researchers.** Test the measurement, not only the delivery: these estimates cover short-term, direct effects on traditional learning measures, which can miss indirect change in [[metacognition]], instruction, [[feedback]], and [[assessment]].
+- **Researchers.** Test the measurement, not only the delivery: these estimates cover short-term, direct effects on traditional learning measures, which can miss indirect change in [[metacognition|metacognition]], instruction, [[feedback|feedback]], and [[assessment|assessment]].
 
 ## Limitations
 
 - The analysis is second-order: effect sizes and standard errors could not be recovered from seven of the published meta-analyses, and nine were excluded when re-computed pooled estimates diverged from the originals by more than SMD = 0.05.
 - Of the 1,840 effect size estimates, 632 had no reported publication year, so the pre- versus post-ChatGPT comparison rests on 690 and 518 estimates respectively.
 - The publication-bias adjustment is model-based — Bayesian model averaging over selection models and PET-PEESE — and the authors run a weight-function-only sensitivity analysis precisely because PET-PEESE can over-correct genuine small-study differences.
-- The outcome space is narrow: short-term, direct effects on traditional learning measures, so nothing here speaks to indirect effects such as [[metacognition]], feedback, or assessment change.
+- The outcome space is narrow: short-term, direct effects on traditional learning measures, so nothing here speaks to indirect effects such as [[metacognition|metacognition]], feedback, or assessment change.
 
 ## Citation
 

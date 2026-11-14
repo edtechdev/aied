@@ -15,12 +15,12 @@ confidence: high
 discipline: [statistics and data science education]
 ---
 
-> **Synthesis:** Experimental study comparing Guided vs. Unrestricted [[llm]] access. Explicit training in reasoning-focused scaffolding (stepwise hints, verification) led to significantly better independent performance and [[self-assessment]] calibration compared to uncritical reliance. This work emphasizes that [[ai-literacy]] is a developmental capacity requiring structured [[scaffolding]] and [[prompt-engineering]] discipline. It connects to the need for [[curriculum-design]] that targets [[metacognition]] and [[agentic-ai]] rather than just syntax mastery.
+> **Synthesis:** Experimental study comparing Guided vs. Unrestricted [[llm|LLM]] access. Explicit training in reasoning-focused scaffolding (stepwise hints, verification) led to significantly better independent performance and [[self-assessment|self-assessment]] calibration compared to uncritical reliance. This work emphasizes that [[ai-literacy|AI literacy]] is a developmental capacity requiring structured [[scaffolding|scaffolding]] and [[prompt-engineering|prompt engineering]] discipline. It connects to the need for [[curriculum-design|curriculum design]] that targets [[metacognition|metacognition]] and [[agentic-ai|agentic AI]] rather than just syntax mastery.
 
 ## Key Findings
 
 - In a **four-week quasi-experimental summer program** in an undergraduate Probability and Statistics course, students were organized into three balanced conditions: **no LLM access, unrestricted LLM access, and guided LLM access**.
-- The guided condition used the **same LLM platform** as the unrestricted condition, but students received explicit training and rules intended to promote reasoning-focused [[help-seeking]], stepwise hints, verification, and [[ethics|ethical]] use.
+- The guided condition used the **same LLM platform** as the unrestricted condition, but students received explicit training and rules intended to promote reasoning-focused [[help-seeking|help-seeking]], stepwise hints, verification, and [[ethics|ethical]] use.
 - Guided use was associated with a **clearer [[learning-gains|learning]]-oriented interaction pattern** than unrestricted access, especially in prioritizing reasoning over final answers and requesting stepwise support.
 - Guided-LLM students showed a **promising pattern of stronger no-help quiz performance** during the intervention phase, while unrestricted access appeared more useful for assisted practice completion than for consistently improving independent performance.
 - All quizzes and the delayed [[summative-assessment|final exam]] were completed **without LLM or external assistance**, separating AI-supported practice performance from independent learning; available time measures did not support a simple duration-based explanation, and **self-assessment calibration** suggested better alignment between perceived and demonstrated understanding in the guided condition.
@@ -31,10 +31,10 @@ The design distinguishes between *assigned LLM access* and the *quality of stude
 
 ## What this means for practice
 
-- **Instructors.** Scaffold how students use the model rather than simply granting access: the guided and unrestricted groups shared the same platform, and the guided group showed higher rule-following compliance (2.43/6 vs. 3.21/6, d = 0.81, p = .025) driven mainly by process-oriented [[help-seeking]] and stepwise hints, while conceptual explanation was common in both groups.
+- **Instructors.** Scaffold how students use the model rather than simply granting access: the guided and unrestricted groups shared the same platform, and the guided group showed higher rule-following compliance (2.43/6 vs. 3.21/6, d = 0.81, p = .025) driven mainly by process-oriented [[help-seeking|help-seeking]] and stepwise hints, while conceptual explanation was common in both groups.
 - **Instructors.** Keep high-stakes assessment LLM-free so assisted practice is not mistaken for learning: every quiz and the delayed final exam in this design was completed without LLM or external assistance, and unrestricted access supported practice-task completion more than independent no-help performance.
 - **Learners.** Preserve the reasoning work by asking for stepwise hints rather than final answers and by working in more turns: guided sessions contained more user turns on average (17.21 vs. 10.54) and more user text (2,645 vs. 1,410 characters).
-- **Designers.** Build [[prompt-engineering|prompt]] starters, hint-first workflows, [[reflection]] checkpoints, and verification checklists into the platform, since [[active-learning]] and verification behaviors were only partially adopted even after training — higher-agency strategies require stronger [[scaffolding]].
+- **Designers.** Build [[prompt-engineering|prompt]] starters, hint-first workflows, [[reflection|reflection]] checkpoints, and verification checklists into the platform, since [[active-learning|active learning]] and verification behaviors were only partially adopted even after training — higher-agency strategies require stronger [[scaffolding|scaffolding]].
 - **Instructors.** Teach [[trust-calibration|calibrated trust]] explicitly — when to rely on, question, or verify a [[explainable-ai|model explanation]] — because the guided group had the highest well-calibrated rate (43%) and the strongest self-assessment–performance correlations, an [[ai-literacy|AI literacy]] gain rather than mere confidence.
 
 ## Limitations

@@ -14,11 +14,11 @@ sources: ['raw/papers/rhaimi-productivemath-2025.md']
 confidence: medium
 ---
 
-> **Synthesis:** Rhaimi et al. (2025) present **ProductiveMath**, a generative-AI-powered tool that helps teachers design high-quality [[productive-failure]] problems — a known challenge in PF [[pedagogy]]. Across three studies, they define a rubric for high-quality PF problems, use GPT-4o to generate and evaluate them alongside human raters (finding strong AI-human correlation), and report that seven math teachers rated AI-generated algebra problems as high quality with positive [[usability-research|usability]] perceptions and adoption intent.
+> **Synthesis:** Rhaimi et al. (2025) present **ProductiveMath**, a generative-AI-powered tool that helps teachers design high-quality [[productive-failure|productive failure]] problems — a known challenge in PF [[pedagogy|pedagogy]]. Across three studies, they define a rubric for high-quality PF problems, use GPT-4o to generate and evaluate them alongside human raters (finding strong AI-human correlation), and report that seven math teachers rated AI-generated algebra problems as high quality with positive [[usability-research|usability]] perceptions and adoption intent.
 
 ## The challenge it addresses
 
-Productive Failure engages students in [[problem-solving]] before instruction, but designing effective PF problems is challenging (Kapur, 2015). ProductiveMath addresses this by using [[generative-ai|generative AI]] to support teachers in creating PF problems — lowering the design burden that otherwise makes PF difficult to implement.
+Productive Failure engages students in [[problem-solving|problem-solving]] before instruction, but designing effective PF problems is challenging (Kapur, 2015). ProductiveMath addresses this by using [[generative-ai|generative AI]] to support teachers in creating PF problems — lowering the design burden that otherwise makes PF difficult to implement.
 
 ## Three studies
 
@@ -28,7 +28,7 @@ Productive Failure engages students in [[problem-solving]] before instruction, b
 
 ## Relevance to the knowledge base
 
-This paper connects [[productive-failure]] to [[teacher-role|teacher]] support and [[generative-ai]]: AI can lower the barrier to implementing PF by [[scaffolding]] the creation of high-quality PF problems. It sits alongside the other productive-failure articles as evidence that AI can *support* (here, help design) productive-failure pedagogy, complementing the articles that focus on AI preserving struggle during learning.
+This paper connects [[productive-failure|productive failure]] to [[teacher-role|teacher]] support and [[generative-ai|generative AI]]: AI can lower the barrier to implementing PF by [[scaffolding|scaffolding]] the creation of high-quality PF problems. It sits alongside the other productive-failure articles as evidence that AI can *support* (here, help design) productive-failure pedagogy, complementing the articles that focus on AI preserving struggle during learning.
 
 ## What this means for practice
 

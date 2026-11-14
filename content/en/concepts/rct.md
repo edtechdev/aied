@@ -1,7 +1,7 @@
 ---
 title: RCT
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -42,14 +42,14 @@ Randomization is what distinguishes an RCT from other designs: by randomly assig
 - **A null average can mask offsetting heterogeneity.** A pre-registered RCT randomizing 538 teachers across 24 Turkish schools at school-department level found achievement fell 0.129 SD among below-median teachers while rising 0.054 among above-median ones, and motivation fell 0.111 SD, with a ceiling-compressed exam (control mean 89.2/100) limiting power.([[genai-can-harm-teaching-rct-2026|Sungu, Lira & Duckworth (2026)]])
 - **Pre-registration that fixes the question and the detectable effect.** [[chatbot-outreach-course-performance-2026|Meyer et al. (2026)]] registered both course trials with the Registry of Efficacy and Effectiveness Studies, committing in advance to intent-to-treat estimation and a minimum detectable effect size of about 0.157, and randomized consenting students each term with a second wave at add/drop so late enrollees entered the design rather than the default analysis sample. Pooling 2,483 students across two courses, the effect sits at the A/B threshold (four percentage points) while the pooled numeric-grade change does not survive multiple-comparison correction — a reminder that a registered primary outcome disciplines which of several correlated results is believed.
 - **Randomizing inside intact sections, with a pre-treatment baseline.** [[thoeni-ai-chatbots-higher-education-expectations-evidence-2026|Thoeni & Fryer (2026)]] randomized 454 undergraduates within three intact marketing sections after drop/add and measured all four outcomes at T1, before any student had [[conversational-ai|chatbot]] access, so the term-long comparison rests on a measured baseline rather than an assumed one. The flat result (no group × time interaction reached significance; the largest reported effect was d = 0.050, on interest) is reported alongside adoption — 0.89 logins per week against an assigned once a week — which keeps a null about a weakly used treatment from being read as a null about the tool.
-- **Within-subject crossover, and a control set at best practice.** [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] had each of 194 Harvard life-sciences students work two physics lessons — once in an in-class [[active-learning]] session and once with the course's own AI tutor, in counterbalanced order with pre- and post-tests around each — so every student serves as their own control and the comparison of *delivery modes* is not confounded by who was assigned which. The design's second choice matters as much: the comparator was research-based active learning rather than a lecture, so the advantage (median post-test 4.5 vs. 3.5) is measured against current best practice and cannot be read as "AI beats teaching."
+- **Within-subject crossover, and a control set at best practice.** [[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al. (2025)]] had each of 194 Harvard life-sciences students work two physics lessons — once in an in-class [[active-learning|active learning]] session and once with the course's own AI tutor, in counterbalanced order with pre- and post-tests around each — so every student serves as their own control and the comparison of *delivery modes* is not confounded by who was assigned which. The design's second choice matters as much: the comparator was research-based active learning rather than a lecture, so the advantage (median post-test 4.5 vs. 3.5) is measured against current best practice and cannot be read as "AI beats teaching."
 
 ## Strengths and limitations
 
 - **Strengths:** strongest causal inference; clean outcome measurement; supports effect-size estimation; balances confounders through randomization.
 - **Limitations:** costly and slow; artificial settings can reduce ecological validity; AI tools change faster than trials can run; small samples often underpower detection of meaningful effects; ethical constraints on withholding potentially beneficial AI from a control group. Two of those limits change shape when assignment is clustered: the effective sample becomes the number of *clusters* rather than the number of students, so a trial can be large by headcount and thin by that measure — Liu et al.'s 2,379 students rest on 34 instructor-level clusters — and when uptake is voluntary and low, an intent-to-treat estimate answers whether offering the tool changed outcomes, not whether using it did.
 
-For the fuller treatment of experimental design in AI in education — including when an RCT is appropriate versus quasi-experimental, survey, or computational designs — see [[research-methods-aied]].
+For the fuller treatment of experimental design in AI in education — including when an RCT is appropriate versus quasi-experimental, survey, or computational designs — see [[research-methods-aied|research methods]].
 
 ## Common Misconceptions
 

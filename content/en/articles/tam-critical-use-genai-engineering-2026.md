@@ -24,13 +24,13 @@ page_kind: [framework]
 - **Attitudes and critical use drive intention:** Attitudes toward GenAI and critical use directly and positively influence intention to use GenAI, while perceived ease of use and perceived usefulness have positive indirect effects. Notably, ease of use did not directly shape attitudes, and usefulness did not directly predict intention.
 - **Intention predicts reliance across four domains:** Understanding, assessment, programming, and engineering projects. Students demonstrated moderate reliance overall, with greatest use for understanding-related tasks (clarifying concepts, worked examples) and limited utilization for full assessment [[writing-education|writing]].
 - **Appropriate, not excessive, reliance:** Consistent with Schemmer et al.'s framework, students showed moderate, appropriate reliance — recognizing GenAI's limits for precision-demanding engineering and CS tasks while drawing on it for debugging, formula generation, and design ideation.
-- **Critical use as a core [[ai-literacy]] dimension:** Students who actively evaluate, question, and cross-check GenAI outputs are more motivated to integrate the tools, and this practice safeguards against [[cognitive-offloading|over-reliance]].
+- **Critical use as a core [[ai-literacy|AI literacy]] dimension:** Students who actively evaluate, question, and cross-check GenAI outputs are more motivated to integrate the tools, and this practice safeguards against [[cognitive-offloading|over-reliance]].
 
 ## What this means for practice
 
 - **Instructors.** Teach critical use directly — students who interrogate, validate, and cross-check GenAI outputs were more motivated to use the tools, and this practice is the mechanism that guards against [[cognitive-offloading|over-reliance]].
 - **Instructors.** Set task-specific expectations instead of one blanket rule: students relied most on GenAI for understanding-related tasks and programming, and least for full assessment writing, so policies and [[scaffolding|scaffolds]] should vary by task type.
-- **Faculty developers.** Adopt the paper's three-tiered [[ai-literacy]] approach for engineering and CS/IT programs — evidence-based training for all students, mentoring or small-group support for those needing more, and intensive one-to-one support for students showing persistent difficulty or over-dependence.
+- **Faculty developers.** Adopt the paper's three-tiered [[ai-literacy|AI literacy]] approach for engineering and CS/IT programs — evidence-based training for all students, mentoring or small-group support for those needing more, and intensive one-to-one support for students showing persistent difficulty or over-dependence.
 - **Administrators.** Supply approved platforms, monitored environments, and clear acceptable-use guidelines, and use [[self-assessment|self-assessments]] or [[discipline-specific-aied|discipline-specific]] AI literacy checks to identify students at risk of uncritical use early.
 
 ## Limitations

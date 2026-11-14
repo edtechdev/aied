@@ -44,13 +44,13 @@ The guidelines span four categories:
 - **G4:** AI tools should be easy to understand and frictionless to use
 
 ### Teaching Presence
-- **G7:** AI tools should support learner [[motivation]] and [[student-engagement|engagement]]
+- **G7:** AI tools should support learner [[motivation|motivation]] and [[student-engagement|engagement]]
 - **G8:** AI tools should align with established instructional best practices
 - **G9:** AI tools should support diverse [[pedagogy|pedagogical]] strategies
 - **G11:** AI tools should [[personalized-learning|personalize]] the learning experience
 - **G13:** AI tools should provide substantive educational support (not just surface-level assistance)
 - **G16:** AI tools should align with instructors' personal instructional approach
-- **G17:** AI tools should provide meaningful [[feedback]] and explanations
+- **G17:** AI tools should provide meaningful [[feedback|feedback]] and explanations
 
 ### Social Presence
 - **G18:** AI tools should [[scaffolding|scaffold]] and support learners in developing their social competencies
@@ -72,9 +72,9 @@ The guidelines span four categories:
 
 ## What this means for practice
 
-- **Instructors.** Run the paper's 19 guidelines as a heuristic evaluation before adopting any [[adult-learning]] AI tool, and expect no single tool to satisfy all 19 — the AI-ALOE ecosystem covered the full set only collectively.
+- **Instructors.** Run the paper's 19 guidelines as a heuristic evaluation before adopting any [[adult-learning|adult learning]] AI tool, and expect no single tool to satisfy all 19 — the AI-ALOE ecosystem covered the full set only collectively.
 - **Designers.** Treat adult-life constraints as prerequisites rather than features: mobile access, offline capability, and affordability came directly from learners balancing work, family, and study.
-- **Designers.** Ground tools in andragogy, not just [[pedagogy]]: adult learners are self-directed and problem-oriented, and tools that inherit [[k-12|K-12]] design patterns fit their constraints poorly.
+- **Designers.** Ground tools in andragogy, not just [[pedagogy|pedagogy]]: adult learners are self-directed and problem-oriented, and tools that inherit [[k-12|K-12]] design patterns fit their constraints poorly.
 - **Designers.** Fix the lowest-scoring areas first: data transparency and social/community features scored lowest across the deployed systems, and personalization stayed surface-level — adapting examples and knowledge checks rather than task sequencing or difficulty calibration.
 
 ## Limitations

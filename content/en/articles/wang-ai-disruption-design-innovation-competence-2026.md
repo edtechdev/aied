@@ -55,7 +55,7 @@ The expectation was a buffer: [[critical-thinking|critical thinking]] should wea
 
 ## What this means for practice
 
-For instructors, the usable claim concerns appraisal, not exposure. On the paper's reading, raising or lowering awareness is the wrong lever, since both [[motivation|motivational]] routes are live in one classroom; the lever is how students are taught to read what they notice. That points to verification of AI output, ethical reasoning about bias and authorship, and integration with domain knowledge, differentiated by profile: low-threat tasks for students who hear disruption as a personal verdict, [[ethics]] and quality-assurance work for students whose caution is already reasoned. One subgroup result: the awareness to prevention association was weaker among students with formal AI training (β = 0.186, p < 0.01) than without it (β = 0.300, p < 0.001).
+For instructors, the usable claim concerns appraisal, not exposure. On the paper's reading, raising or lowering awareness is the wrong lever, since both [[motivation|motivational]] routes are live in one classroom; the lever is how students are taught to read what they notice. That points to verification of AI output, ethical reasoning about bias and authorship, and integration with domain knowledge, differentiated by profile: low-threat tasks for students who hear disruption as a personal verdict, [[ethics|ethics]] and quality-assurance work for students whose caution is already reasoned. One subgroup result: the awareness to prevention association was weaker among students with formal AI training (β = 0.186, p < 0.01) than without it (β = 0.300, p < 0.001).
 
 ## Limitations
 

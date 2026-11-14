@@ -49,7 +49,7 @@ Both conditions ran the same objectives, weekly tasks, schedule and assessment f
 
 ## What the interviews add to the model
 
-Twenty experimental participants were interviewed for 30–45 minutes, stratified by post-test performance (seven low, seven medium, six high), and four 90-minute classroom observations were scheduled in weeks 2, 4, 6 and 8. Six themes emerged, and their distribution is the useful part: 19 of 20 reported using the tool to generate ideas and organize arguments, 18 of 20 valued immediate [[feedback]] on drafts, 17 of 20 described comparing suggestions against course materials and assignment criteria before accepting them, 15 of 20 described planning and monitoring their own process, and 17 of 20 reported gains in confidence.
+Twenty experimental participants were interviewed for 30–45 minutes, stratified by post-test performance (seven low, seven medium, six high), and four 90-minute classroom observations were scheduled in weeks 2, 4, 6 and 8. Six themes emerged, and their distribution is the useful part: 19 of 20 reported using the tool to generate ideas and organize arguments, 18 of 20 valued immediate [[feedback|feedback]] on drafts, 17 of 20 described comparing suggestions against course materials and assignment criteria before accepting them, 15 of 20 described planning and monitoring their own process, and 17 of 20 reported gains in confidence.
 
 Observations converged: students revised drafts repeatedly within a session, rewrote prompts when responses were unsatisfactory, and discussed suggestions with classmates and the instructor. The sixth theme cuts the other way. Nine of 20 worried that dependence would reduce originality and independent thinking, with one participant quoted as saying the tool "should help students think, not think for them" — the concern that makes [[cognitive-offloading|over-reliance]] a design problem rather than a side effect.
 
@@ -59,7 +59,7 @@ Two claims live here and they have different warrants. The [[mixed-methods-resea
 
 The construct measuring exposure is also perceptual rather than behavioral. ChatGPT-assisted learning was operationalized as perceived educational usefulness, administered to both groups; control students answered from general impressions while experimental students answered from eight weeks of direct use. A MICOM check did not reject compositional invariance for that construct (c = 0.996, p = 0.381) but was borderline for academic motivation (c = 0.965, p = 0.050), and the paper concedes that compositional invariance is not equivalence of response processes. Predictive performance beat an indicator-average benchmark (p < 0.001) but not a linear-model benchmark (p = 0.081).
 
-The reading these results support is [[constructivist|social-constructivist]] and [[sociocultural-learning|sociocultural]]: the tool acts as [[scaffolding]] inside an instructor-led cycle rather than as a text generator. The trial tests that package; it does not isolate the model.
+The reading these results support is [[constructivist|social-constructivist]] and [[sociocultural-learning|sociocultural]]: the tool acts as [[scaffolding|scaffolding]] inside an instructor-led cycle rather than as a text generator. The trial tests that package; it does not isolate the model.
 
 ## What this means for practice
 

@@ -69,7 +69,7 @@ They also situate the result against prior evidence that was largely correlation
 
 - **Instructors.** Do not assume that better performance during AI-assisted work predicts better performance after it. In all three experiments the assisted group looked stronger while the tool was present; the difference only appeared when it was withdrawn, so build an unaided checkpoint into any task where AI is allowed.
 - **Instructors.** Watch for disengagement rather than wrong answers. The measure that moved most reliably was skipping, and because skipping was explicitly costless it signals motivation rather than ability — worth responding to as a design problem before treating it as a knowledge gap.
-- **Instructional designers.** Keep some difficulty unscaffolded. The paper's own recommendation is to prioritize [[scaffolding]] long-term competence alongside immediate task completion, which means designing moments where students work things out without an assistant in reach.
+- **Instructional designers.** Keep some difficulty unscaffolded. The paper's own recommendation is to prioritize [[scaffolding|scaffolding]] long-term competence alongside immediate task completion, which means designing moments where students work things out without an assistant in reach.
 - **Institutions.** Treat the accumulation argument as a monitoring case, not a proven one. The experiments show short-term erosion after brief exposure; the claim that routine use compounds over years is the authors' inference, and evaluating it needs longitudinal evidence they say does not yet exist.
 
 ## Limitations

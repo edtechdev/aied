@@ -29,7 +29,7 @@ confidence: high
 
 - **Learners.** Read the pitch before adopting the tool: 39% of ads marketed study-card generation or [[conversational-ai|chatbot]] tutoring and 40% touted keeping up with new AI, yet interviewees said the ads rarely swayed them — peer norms and fear of falling behind did.
 - **Learners.** Treat free trials timed to finals and "intentionally vague" language implying utility for cheating as marketing signals, and check what a product is actually for before using it.
-- **Instructors.** Publish clear, consistent dos and don'ts with legitimate use cases and [[privacy]] information, because 51% of students said they would be embarrassed if their academic AI use became known and only 41% had claimed free campus accounts despite 82% using ChatGPT.
+- **Instructors.** Publish clear, consistent dos and don'ts with legitimate use cases and [[privacy|privacy]] information, because 51% of students said they would be embarrassed if their academic AI use became known and only 41% had claimed free campus accounts despite 82% using ChatGPT.
 - **Instructors.** Model openness by stating the AI output you bring into your own teaching and mandating explicit AI-use statements in syllabi, so that disclosure rather than hiding becomes the norm.
 - **Administrators.** Fund [[framing-ai-use-for-students|process-oriented teaching]] with workable student–teacher ratios, since the competitive "get with it or get left behind" logic students internalized favors product over process.
 

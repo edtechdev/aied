@@ -27,7 +27,7 @@ page_kind: [evaluation]
 
 - **Instructors.** Auto-score only the drawings the model is confident about and route the rest to review: the selective strategy defers low-confidence responses to human graders, so [[teacher-role|teacher]] time goes to the visually ambiguous or unconventional drawings that automated scoring handles worst.
 - **Teachers.** Report a confidence value alongside every score instead of a bare proficiency label. Mean confidence correlated positively with scoring accuracy (r = 0.649, p < 0.01), which is what makes a score actionable for deciding when to trust it.
-- **Assessment designers.** Budget for per-item models: the ViT + LoRA scorer trains 0.6M parameters on an 86.4M backbone and scores a response in 1.0355 ms, while the confidence-aware variants take 20.532 ms — all far below [[llm]]-based scoring approaches.
+- **Assessment designers.** Budget for per-item models: the ViT + LoRA scorer trains 0.6M parameters on an 86.4M backbone and scores a response in 1.0355 ms, while the confidence-aware variants take 20.532 ms — all far below [[llm|LLM]]-based scoring approaches.
 - **Assessment designers.** Tune the confidence threshold to the risk you can absorb rather than maximizing coverage, since varying it controls the trade-off between automated coverage and scoring risk in [[automated-assessment|automated scoring]].
 - **Researchers.** Demand confidence-accuracy evidence before calling a scorer classroom-ready: the authors were still conducting expert review to verify the [[qualitative-research|qualitative]] validity of the confidence results.
 

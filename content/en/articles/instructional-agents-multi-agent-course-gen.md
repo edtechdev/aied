@@ -20,7 +20,7 @@ confidence: high
 The framework maps the first three phases of the **ADDIE** framework (Analyze, Design, Develop) onto a multi-agent workflow:
 
 - **Analyze**: Teaching Faculty + Course Coordinator produce an Instructional Foundation Report (objectives, learner profiles, constraints)
-- **Design**: Teaching Faculty + Instructional Designer structure syllabi, slide outlines, and [[assessment]] plans
+- **Design**: Teaching Faculty + Instructional Designer structure syllabi, slide outlines, and [[assessment|assessment]] plans
 - **Develop**: Teaching Assistant generates concrete materials (slides, scripts, assessments); Program Chair reviews from a program-level perspective; Test Student agent supplies [[simulating-students|simulated learner]] feedback
 
 The Teaching Faculty agent serves as the primary authority throughout, maintaining continuous oversight. The authors explicitly scope the work to the first three ADDIE phases, deferring Implementation and Evaluation to human oversight before AI-generated materials reach real students.
@@ -69,7 +69,7 @@ Evaluated across 5 university-level courses (Data Mining, Foundations of [[machi
 ## Limitations
 
 - Focuses on the Analyze, Design, and Develop phases only; Implementation and Evaluation require real-world deployment not covered here.
-- Limited support for rich visual and interactive elements important to modern [[pedagogy]].
+- Limited support for rich visual and interactive elements important to modern [[pedagogy|pedagogy]].
 - Bias analysis was auxiliary only (CEAT-based), not a primary evaluation objective.
 - Human feedback is incorporated mainly through regeneration rather than fine-grained, targeted editing of specific content.
 

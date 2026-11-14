@@ -15,7 +15,7 @@ level: [k 12]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Key limitations exist in both [[llm]]-based tutoring and conventional Deep Knowledge Tracing (DKT):
+> **Synthesis:** Key limitations exist in both [[llm|LLM]]-based tutoring and conventional Deep Knowledge Tracing (DKT):
 
 > Combining [[machine-learning|neural networks]] with symbolic educational knowledge for interpretable, data-efficient, and temporally reliable [[student-modeling|learner modeling]] in [[intelligent-tutoring|intelligent tutoring systems]].
 
@@ -79,7 +79,7 @@ Real-world 6th-grade Maths from Opiq: 167 students, 21,471 interactions, 13 skil
 
 Traditional **Knowledge Tracing (KT)** methods:
 
-- **IRT-based** ([[item-response-theory]]): [[huang-interpretable-knowledge-tracing-2026]] — interpretable difficulty parameters but limited sequential modeling.
+- **IRT-based** ([[item-response-theory|item response theory]]): [[huang-interpretable-knowledge-tracing-2026|Huang et al. (2026)]] — interpretable difficulty parameters but limited sequential modeling.
 - **BKT** ([[knowledge-tracing|Bayesian Knowledge Tracing]]): Explicit prerequisite structures; interpretable but rigid.
 - **DeepKT** (LSTM/Transformer): High predictive capacity but opaque.
 - **Neural-symbolic KT** bridges the gap: retains interpretability of symbolic approaches while leveraging neural networks' representational power.
@@ -89,16 +89,16 @@ Traditional **Knowledge Tracing (KT)** methods:
 The paper positions this under **responsible AI** (Goellner et al., 2024: "human-centered approach fostering user trust through [[ethics|ethical]] decision-making, explainable outcomes, and privacy-preserving implementation"):
 
 1. **Transparency:** Symbolic components make learner state *auditable* — critical for [[hazra-safetutors-pedagogical-safety-2026|safety auditing]].
-2. **Pedagogical validity:** Updates follow educational theory ([[mastery-learning]], repeated-failure signals), not just data patterns.
+2. **Pedagogical validity:** Updates follow educational theory ([[mastery-learning|mastery learning]], repeated-failure signals), not just data patterns.
 3. **Data efficiency:** Practical in real educational settings where large labeled datasets are rare.
 4. **Temporal [[trust|trustworthiness]]:** Predictions don't oscillate wildly — a key requirement for [[student-experience|student trust]] and instructor decision-making.
 
-This contrasts with opaque LLM-based approaches in [[llm-training-and-fine-tuning|tutoring alignment]] and demonstrates a path toward [[finkelstein-principled-ai-education-2025]] — augment, don't displace, pedagogical reasoning.
+This contrasts with opaque LLM-based approaches in [[llm-training-and-fine-tuning|tutoring alignment]] and demonstrates a path toward [[finkelstein-principled-ai-education-2025|Finkelstein (2025)]] — augment, don't displace, pedagogical reasoning.
 
 ## Open Questions
 
 - How does Responsible-DKT scale to larger skill graphs (hundreds of knowledge components)?
-- Can the symbolic rule set be extended with [[discipline-specific-aied|domain-specific]] pedagogical knowledge (e.g., common [[misconceptions]])?
+- Can the symbolic rule set be extended with [[discipline-specific-aied|domain-specific]] pedagogical knowledge (e.g., common [[misconceptions|misconceptions]])?
 - How does this compare to [[nie-personavlm-long-term-personalization-2026|LLM-based longitudinal student modeling]] in both accuracy and interpretability?
 - Is the 13% improvement maintained with more diverse student populations and subject domains?
 

@@ -18,14 +18,14 @@ page_kind: [evaluation]
 
 ## Study Design
 
-An et al. conducted a multi-semester observational study of 999 K–12 students (3 cohorts: Spring 2021, Fall 2021, Fall 2022) using *Decimal Point*, a digital learning game with an underlying [[intelligent-tutoring]] system built with CTAT (Cognitive Tutor Authoring Tools). The game covers decimal concepts and operations across 24 mini-games with multi-level on-demand hints. Students completed pretest, immediate posttest, and one-week delayed posttest assessments.
+An et al. conducted a multi-semester observational study of 999 K–12 students (3 cohorts: Spring 2021, Fall 2021, Fall 2022) using *Decimal Point*, a digital learning game with an underlying [[intelligent-tutoring|intelligent tutoring]] system built with CTAT (Cognitive Tutor Authoring Tools). The game covers decimal concepts and operations across 24 mini-games with multi-level on-demand hints. Students completed pretest, immediate posttest, and one-week delayed posttest assessments.
 
 ## Two Unproductive Hint-Use Indicators
 
 The paper identifies and validates two computationally straightforward behavioral indicators from fine-grained interaction logs:
 
 1. **Premature hint requests** — requesting hints before making any solution attempt. Even when students are uncertain, attempting a solution first before seeking help is more beneficial for learning.
-2. **Superficial hint reading** — advancing through hints too rapidly to reasonably read them (flagged using a 4 words/second reading-speed [[benchmark]]), often skipping directly to the bottom-out hint that reveals the answer.
+2. **Superficial hint reading** — advancing through hints too rapidly to reasonably read them (flagged using a 4 words/second reading-speed [[benchmark|benchmark]]), often skipping directly to the bottom-out hint that reveals the answer.
 
 ## Key Findings
 
@@ -45,14 +45,14 @@ The authors interpret findings through two lenses:
 
 ## Practical Significance
 
-Unlike prior "gaming the system" detectors requiring complex machine-learned models with 24–40 features per action, these two indicators are simple, interpretable, and computable from standard ITS logs — making them practical for [[learning-analytics]] [[visualization|dashboards]] and automated real-time interventions across diverse educational settings.
+Unlike prior "gaming the system" detectors requiring complex machine-learned models with 24–40 features per action, these two indicators are simple, interpretable, and computable from standard ITS logs — making them practical for [[learning-analytics|learning analytics]] [[visualization|dashboards]] and automated real-time interventions across diverse educational settings.
 
 ## What this means for practice
 
-- **Learning analytics designers.** Compute the two flags directly from standard ITS logs — a hint request before any solution attempt, and hint advancement faster than the 4 words/second [[benchmark]] — instead of maintaining a 24–40-feature machine-learned gaming detector; both indicators replicated across all three semesters of the 999-student sample.
+- **Learning analytics designers.** Compute the two flags directly from standard ITS logs — a hint request before any solution attempt, and hint advancement faster than the 4 words/second [[benchmark|benchmark]] — instead of maintaining a 24–40-feature machine-learned gaming detector; both indicators replicated across all three semesters of the 999-student sample.
 - **Instructional designers.** Gate the bottom-out hint behind a minimum [[student-engagement|engagement]] time or a solution attempt; premature hint requests still predicted lower posttest scores (β = −0.14 to −0.28) and lower delayed posttest scores (β = −0.17 to −0.37) after controlling for pretest performance.
 - **Learning analytics designers.** Aim interventions at the students who trigger these behaviors most — both correlated strongly with low pretest scores (ρ = −0.57 to −0.74) — and track delayed posttests, where the negative associations were strongest, rather than immediate posttests alone.
-- **Researchers.** Do not treat improved [[help-seeking]] behavior as evidence of learning: the paper cites prior interventions that changed observed behavior without producing matching gains in [[learning-gains|learning]].
+- **Researchers.** Do not treat improved [[help-seeking|help-seeking]] behavior as evidence of learning: the paper cites prior interventions that changed observed behavior without producing matching gains in [[learning-gains|learning]].
 - **Instructional designers.** Reframe the design question from whether to provide hints to how delivery is structured, aligning hint timing with productive-struggle principles rather than removing [[scaffolding|scaffolds]] altogether.
 
 ## Limitations

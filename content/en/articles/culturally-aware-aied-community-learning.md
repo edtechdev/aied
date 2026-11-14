@@ -14,7 +14,7 @@ confidence: medium
 page_kind: [framework]
 ---
 
-> **Synthesis:** Reports on cross-boundary Community-Based Learning where undergraduate students develop AI-enabled solutions for cultural heritage preservation and sustainable development. The paper argues that AIED [[research-methods-aied|research]] often lacks human-centered grounding and adequate attention to cultural context, and that Community-Based Learning — a [[pedagogy]] rooted in social work — remains underrepresented in AIED, particularly within Asia-Pacific contexts.
+> **Synthesis:** Reports on cross-boundary Community-Based Learning where undergraduate students develop AI-enabled solutions for cultural heritage preservation and sustainable development. The paper argues that AIED [[research-methods-aied|research]] often lacks human-centered grounding and adequate attention to cultural context, and that Community-Based Learning — a [[pedagogy|pedagogy]] rooted in social work — remains underrepresented in AIED, particularly within Asia-Pacific contexts.
 
 **Contributions:** Examines how community-engaged computing operationalizes human-centered [[intelligent-tutoring|AIED]] across three dimensions: education, technology, and culture. Proposes a collaborative framework for [[ai-literacy|culturally-aware AIED]] that fosters multi-stakeholder collaboration while widening participation by dissolving disciplinary silos between social work and computational science.
 
@@ -25,7 +25,7 @@ The framework emphasizes [[equity-in-ai-education|cultural contextualization]] o
 - **Instructors.** Sequence community-engaged AI design as three explicit events rather than an open-ended project: Week 3 field co-design at the museum partner, Week 4 alignment of proposals with named UN [[sustainability|Sustainable Development Goals]] (the project used SDG 4, SDG 8, SDG 11 and SDG 17), and Week 7 mutual validation in front of community partners, staff and peers.
 - **Instructors.** Recruit community partners as co-designers with a defined role — the museum contributed three bilingual (Mandarin/English) educators — so that validation criteria come from the community rather than from the course rubric.
 - **Learners.** Design for the partner's real audience and constraints: the students shipped a bilingual, high-contrast [[culturally-relevant-pedagogy|culturally contextualized]] interface because the museum's audiences read Chinese and English and included visitors needing accessibility support.
-- **Instructors.** Treat learners as knowledge producers by releasing [[collaborative-learning|student work]] as [[open-source]] artifacts and giving students a stated authorial role, which moved them from "data sources" to co-authors analyzing their own learning.
+- **Instructors.** Treat learners as knowledge producers by releasing [[collaborative-learning|student work]] as [[open-source|open source]] artifacts and giving students a stated authorial role, which moved them from "data sources" to co-authors analyzing their own learning.
 - **Administrators.** Keep [[human-in-the-loop-ai|human review]] in the loop for any AI-generated output that reaches the public or a partner, since the reported workflow assumes [[meta-analysis-systematic-review|systematic review]] of AI outputs by the project team.
 
 ## Limitations

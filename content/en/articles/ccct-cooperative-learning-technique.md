@@ -12,15 +12,15 @@ audience: [faculty developers, instructors, instructional designers]
 methods: [mixed-methods-research]
 ---
 
-> **Synthesis:** Artificial intelligence assisted design of a novel cooperative learning technique for [[higher-ed|higher education]]
+> **Synthesis:** Artificial intelligence assisted design of a novel [[collaborative-learning|cooperative learning]] technique for [[higher-ed|higher education]]
 
 ## Key Findings
 
 - A [[mixed-methods-research|mixed-methods]] explanatory sequential study with **67 sophomore prospective teachers** at Hakkari University (Turkey) in the spring 2024–2025 semester: an experimental group of **31** Guidance and Psychological Counseling students (19 female, 12 male) versus a control group of **36** Primary School [[math-education|Mathematics]] [[teacher-role|Teaching]] students, in a theoretical "[[curriculum-design|Curriculum]] Development in Education" course.
 - The intervention was designed by [[prompt-engineering|prompting]] **five AI [[conversational-ai|chatbots]] ([[generative-ai|ChatGPT]], Copilot, DeepSeek, Gemini, Qwen)** with course documents and cooperative learning principles in a single, non-iterative prompt; the [[research-methods-aied|researcher]] selected **Qwen's "Curriculum Concept Constellation Technique (CCCT)"** using a four-criterion rubric (novelty, alignment with cooperative learning principles, course context fit, clarity and practicality) — the other four proposals were judged syntheses or adaptations of existing methods.
-- CCCT has students collaboratively map curriculum concepts as "stars" into visual "constellations," working in heterogeneous teams of 4–6 with assigned roles (Star Finder, Constellation Designer, Metaphor Maker, Visual Artist, Navigator) across a two-week cycle ending in a gallery walk and group [[reflection]].
+- CCCT has students collaboratively map curriculum concepts as "stars" into visual "constellations," working in heterogeneous teams of 4–6 with assigned roles (Star Finder, Constellation Designer, Metaphor Maker, Visual Artist, Navigator) across a two-week cycle ending in a gallery walk and group [[reflection|reflection]].
 - **[[learning-gains|Academic achievement]]:** the experimental group's post-test (M = 51.45, SD = 6.08) significantly outperformed the control (M = 43.89, SD = 10.76), p = 0.001, **g = 0.839**; only the experimental group improved significantly from pre-test (p = 0.005, g = 0.738) while the control showed a weak effect (g = 0.119).
-- **Co-[[regulation]]:** experimental group rose from M = 61.32 to 65.45 (p = 0.043, **g = 0.512**); **attitudes toward cooperativeness** rose from M = 68.03 to 75.19 (p = 0.007, **g = 0.751**).
+- **Co-[[regulation|regulation]]:** experimental group rose from M = 61.32 to 65.45 (p = 0.043, **g = 0.512**); **attitudes toward cooperativeness** rose from M = 68.03 to 75.19 (p = 0.007, **g = 0.751**).
 - [[qualitative-research|Qualitative]] analysis yielded five themes — fostering [[agency|student agency]] and accountability, social cohesion and interpersonal growth, cognitive and [[pedagogy|pedagogical]] [[student-engagement|engagement]], [[collaborative-learning|collaborative learning]] dynamics, and structural/logistical challenges (unequal participation, time constraints).
 
 ## Study Design & Method
@@ -29,8 +29,8 @@ The study used an explanatory sequential mixed-methods design in three phases. P
 
 ## Key Results
 
-- **CCCT mechanics:** groups identify 5–7 key concepts ("stars") such as John Dewey's philosophy, [[behaviorism]], societal needs, and developmental psychology, connect them into "constellations," and invent metaphors for the relationships (e.g., "Behaviorism is the gravitational force pulling all other ideas toward measurable outcomes"); role allocation, constellation creation, a gallery walk, and reflection structure the two weeks.
-- **Mechanism accounts:** participants described CCCT making abstract theoretical content more accessible and memorable (e.g., "When the lesson was conducted with this technique, I actually got more efficiency and it was more fun," P13), attributing gains to interaction, visual elements, shared responsibility, and holistic understanding — consistent with the authors' framing in cognitive elaboration, dual coding, and [[constructivist]] theories.
+- **CCCT mechanics:** groups identify 5–7 key concepts ("stars") such as John Dewey's philosophy, [[behaviorism|behaviorism]], societal needs, and developmental psychology, connect them into "constellations," and invent metaphors for the relationships (e.g., "Behaviorism is the gravitational force pulling all other ideas toward measurable outcomes"); role allocation, constellation creation, a gallery walk, and reflection structure the two weeks.
+- **Mechanism accounts:** participants described CCCT making abstract theoretical content more accessible and memorable (e.g., "When the lesson was conducted with this technique, I actually got more efficiency and it was more fun," P13), attributing gains to interaction, visual elements, shared responsibility, and holistic understanding — consistent with the authors' framing in cognitive elaboration, dual coding, and [[constructivist|constructivism]] theories.
 - **Human–AI division of labor:** the authors stress the process was "AI-generated" rather than "co-design" — chatbots were prompted once and the researcher retained all selection, adaptation, and implementation decisions, with [[human-in-the-loop-ai|human oversight]] judged necessary to contextualize AI output.
 
 ## What this means for practice
@@ -38,7 +38,7 @@ The study used an explanatory sequential mixed-methods design in three phases. P
 - **Teacher educators.** Generate candidate instructional designs by prompting several AI chatbots once with course documents and cooperative-learning principles, then select with an explicit rubric — novelty, alignment with the five essential elements of cooperative learning, fit with the course and time frame, clarity and practicality — since that rubric pass rejected four of the five proposals as syntheses or adaptations of existing methods.
 - **Instructors.** Teach abstract theoretical content through metaphorical, visual mapping: groups that identified 5–7 key concepts, linked them into "constellations," and named the relationships outperformed lecture-based peers on the achievement test (M = 51.45, SD = 6.08 vs. M = 43.89, SD = 10.76, p = 0.001, g = 0.839).
 - **Instructional designers.** Make the division of labor explicit with named roles and a public feedback ritual — Star Finder, Constellation Designer, Metaphor Maker, Visual Artist, and Navigator in heterogeneous groups of 4–5, closing with a gallery walk — rather than leaving coordination to emerge on its own.
-- **Instructors.** Track co-[[regulation]] and cooperativeness alongside achievement when adopting the technique: co-regulated learning rose from M = 61.32 to 65.45 (p = 0.043, g = 0.512) and attitudes toward cooperativeness from M = 68.03 to 75.19 (p = 0.007, g = 0.751), so the collaborative measures move with the content gains.
+- **Instructors.** Track co-[[regulation|regulation]] and cooperativeness alongside achievement when adopting the technique: co-regulated learning rose from M = 61.32 to 65.45 (p = 0.043, g = 0.512) and attitudes toward cooperativeness from M = 68.03 to 75.19 (p = 0.007, g = 0.751), so the collaborative measures move with the content gains.
 - **Teacher educators.** Keep selection, adaptation, and implementation decisions with the human instructor: the authors describe the process as AI-generated rather than co-design, because the chatbots were prompted once and the [[research-methods-aied|researcher]] retained every subsequent decision.
 
 ## Limitations

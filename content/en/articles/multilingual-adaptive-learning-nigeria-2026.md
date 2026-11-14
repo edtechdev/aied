@@ -16,7 +16,7 @@ audience: [instructional designers, institutions]
 
 ## The low-resource multilingual problem
 
-Educational platforms in under-resourced, multilingual settings (such as Nigeria) often struggle with limited [[personalized-learning|personalization]], inadequate language support, and weak [[curriculum-design|curriculum]] internationalization — reducing [[student-engagement|learner engagement]] and inclusivity. The paper frames this as both a linguistic and a computational challenge: learners need content in languages they actually use, but [[llm-training-and-fine-tuning|fine-tuning]] and serving LLMs for low-resource languages must respect severe computational constraints. This connects directly to the knowledge base's concerns about the [[digital-divide]], [[global-south|Global South]] equity, and [[equity-in-ai-education|Equity]].
+Educational platforms in under-resourced, multilingual settings (such as Nigeria) often struggle with limited [[personalized-learning|personalization]], inadequate language support, and weak [[curriculum-design|curriculum]] internationalization — reducing [[student-engagement|learner engagement]] and inclusivity. The paper frames this as both a linguistic and a computational challenge: learners need content in languages they actually use, but [[llm-training-and-fine-tuning|fine-tuning]] and serving LLMs for low-resource languages must respect severe computational constraints. This connects directly to the knowledge base's concerns about the [[digital-divide|digital divide]], [[global-south|Global South]] equity, and [[equity-in-ai-education|Equity]].
 
 ## Platform design and the Nigerian Pidgin corpus
 

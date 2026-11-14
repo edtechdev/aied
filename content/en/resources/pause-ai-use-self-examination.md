@@ -27,7 +27,7 @@ reviewed_by: [editor]
 Every item is grounded in a published paper, and you can expand the citation on any question — before or after answering — to read the exact sentence that motivated it. It is deliberately explicit that it is a reflection tool, **not a validated psychological instrument**, and that it must not be used for clinical, educational or hiring decisions.
 
 ## Who it is for
-Students, instructors and researchers who want a private prompt to examine their own AI habits, and courses that want a discussion starter on [[cognitive-offloading]] without collecting data on anyone. Because it stores nothing, it can be used in a class without an institutional data agreement — the trade-off is that it also cannot tell you anything about your students as a group.
+Students, instructors and researchers who want a private prompt to examine their own AI habits, and courses that want a discussion starter on [[cognitive-offloading|cognitive offloading]] without collecting data on anyone. Because it stores nothing, it can be used in a class without an institutional data agreement — the trade-off is that it also cannot tell you anything about your students as a group.
 
 ## Notes
 Written by Mahbub Ul Alam (SciLifeLab Data Centre, Uppsala University); the design rationale and validation limits are documented in an accompanying preprint, and the source code is public.

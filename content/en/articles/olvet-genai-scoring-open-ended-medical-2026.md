@@ -15,7 +15,7 @@ level: [higher ed]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** **Can Generative Artificial Intelligence Reliably Score Open-Ended Question Assessments in Undergraduate Medical Education?** — This study tested whether [[generative-ai]] (GPT-4) could reliably score [[automated-assessment|open-ended question]] exams in [[medical-education|undergraduate medical education]]. Across three iterations of [[prompt-engineering|rubric engineering]] at two US medical schools, inter-rater reliability between AI and faculty reached substantial-to-almost-perfect levels (weighted kappa up to 0.94) for three of four questions. The authors argue generative AI can [[automated-assessment|score OEQs]] reliably when humans remain in the loop to iteratively refine scoring rubrics based on error pattern analysis.
+> **Synthesis:** **Can Generative Artificial Intelligence Reliably Score Open-Ended Question Assessments in Undergraduate Medical Education?** — This study tested whether [[generative-ai|generative AI]] (GPT-4) could reliably score [[automated-assessment|open-ended question]] exams in [[medical-education|undergraduate medical education]]. Across three iterations of [[prompt-engineering|rubric engineering]] at two US medical schools, inter-rater reliability between AI and faculty reached substantial-to-almost-perfect levels (weighted kappa up to 0.94) for three of four questions. The authors argue generative AI can [[automated-assessment|score OEQs]] reliably when humans remain in the loop to iteratively refine scoring rubrics based on error pattern analysis.
 
 ## Key Findings
 
@@ -32,7 +32,7 @@ page_kind: [evaluation]
 
 - **Assessment professionals.** Budget for iterative rubric engineering before trusting AI scores: reliability between GPT-4 and faculty rose from κw = 0.65 (question 1A) and 0.75 (question 2A) in iteration 1 to κw = 0.94 and 0.88 by iteration 3.
 - **Medical educators.** Keep faculty scoring a subset of exams — low-scoring or randomly selected — to confirm reliability, the safeguard the authors recommend for [[trust-calibration|validity, reliability, reproducibility, and bias]].
-- **[[educational-development|Faculty development]].** Run error-pattern analysis on discrepant responses and use the AI-generated narrative [[feedback]] to locate rubric gaps, but fix rubric wording rather than adding a model answer: supplying one in iteration 3 actually lowered reliability.
+- **[[educational-development|Faculty development]].** Run error-pattern analysis on discrepant responses and use the AI-generated narrative [[feedback|feedback]] to locate rubric gaps, but fix rubric wording rather than adding a model answer: supplying one in iteration 3 actually lowered reliability.
 - **Assessment professionals.** Prefer analytic rubrics for AI scoring and verify any holistic one — the analytic-rubric questions reached κw = 0.88–0.94 while the one holistic-rubric question reached only 0.54.
 - **Medical educators.** Review AI-generated feedback before releasing it: faculty found inaccuracies in GPT-4's narrative feedback, which the authors say risks misleading students about their mastery.
 

@@ -24,7 +24,7 @@ ethics: [ai-misuse-learning-harm]
 foundations: [academic-integrity, agentic-ai, cognitive-offloading, critical-thinking, ai-literacy]
 ---
 
-> **Synthesis:** Febriyanti, Muntoha and Uminar review post-ChatGPT literature from 2023 to 2026 and name a paradox: grades hold or improve while the cognitive work behind them disappears. The mechanism is [[cognitive-offloading]] escalated into what they call metacognitive laziness — delegating planning, monitoring and evaluation to a model, not merely execution. They separate offloading that frees working memory for higher-order reasoning from substitution that bypasses productive struggle, argue that agentic AI breaks output-centric assessment, and locate the remedy in [[process-oriented-assessment|process-oriented assessment]] and "AI fluency" rather than AI literacy. The review reports no corpus count, so its evidence base cannot be audited from the text.
+> **Synthesis:** Febriyanti, Muntoha and Uminar review post-ChatGPT literature from 2023 to 2026 and name a paradox: grades hold or improve while the cognitive work behind them disappears. The mechanism is [[cognitive-offloading|cognitive offloading]] escalated into what they call metacognitive laziness — delegating planning, monitoring and evaluation to a model, not merely execution. They separate offloading that frees working memory for higher-order reasoning from substitution that bypasses productive struggle, argue that [[agentic-ai|agentic AI]] breaks output-centric assessment, and locate the remedy in [[process-oriented-assessment|process-oriented assessment]] and "AI fluency" rather than [[ai-literacy|AI literacy]]. The review reports no corpus count, so its evidence base cannot be audited from the text.
 
 ## Key Findings
 

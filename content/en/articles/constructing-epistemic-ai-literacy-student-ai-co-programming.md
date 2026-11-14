@@ -17,7 +17,7 @@ confidence: high
 page_kind: [framework]
 ---
 
-> **Synthesis:** Epistemic thinking — understanding how knowledge is constructed and justified — plays a central role in [[ai-literacy]], particularly when students co-program with [[generative-ai|generative AI]]. This paper introduces a framework for detecting epistemic aims and processes in [[student-experience]] during programming activities. The analysis reveals that students engage in question construction, AI output evaluation, and solution integration as distinct epistemic processes. These findings inform [[scaffolding]] design for [[cs-education|programming education]] and connect to broader discussions of [[agentic-education-coding]] where students maintain agency while leveraging AI assistance.
+> **Synthesis:** Epistemic thinking — understanding how knowledge is constructed and justified — plays a central role in [[ai-literacy|AI literacy]], particularly when students co-program with [[generative-ai|generative AI]]. This paper introduces a framework for detecting epistemic aims and processes in [[student-experience|student experience]] during programming activities. The analysis reveals that students engage in question construction, AI output evaluation, and solution integration as distinct epistemic processes. These findings inform [[scaffolding|scaffolding]] design for [[cs-education|programming education]] and connect to broader discussions of [[agentic-education-coding|Naboulsi (2026)]] where students maintain agency while leveraging AI assistance.
 
 ## Key Findings
 
@@ -37,8 +37,8 @@ The study operationalizes epistemic constructs that are normally hard to observe
 - **Instructors.** Design for epistemic aims rather than task completion: only 11.1% of interactions coupled mastery-oriented aims with advanced strategies such as epistemic justification, so access to GenAI did not by itself produce learning-oriented use.
 - **Instructors.** Prompt the epistemic moves directly — construct a question, evaluate the AI output, justify why the answer is integrated — because 78.8% of interactions relied on outsourcing and verification-seeking.
 - **Designers.** Instrument the five observable strategies (outsourcing, explanation seeking, verification seeking, prompt monitoring, epistemic justification) so that [[formative-assessment|assessment]] can surface which epistemic process a student is actually running.
-- **Faculty developers.** Move [[ai-literacy]] curricula from tool mechanics to epistemic practice: teach students how to decide what to trust and why, not only how to operate a model.
-- **Researchers.** Use the framework's detection pipeline as a measurement instrument for [[student-experience]] at scale rather than relying on small hand-coded samples.
+- **Faculty developers.** Move [[ai-literacy|AI literacy]] curricula from tool mechanics to epistemic practice: teach students how to decide what to trust and why, not only how to operate a model.
+- **Researchers.** Use the framework's detection pipeline as a measurement instrument for [[student-experience|student experience]] at scale rather than relying on small hand-coded samples.
 
 ## Limitations
 

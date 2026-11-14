@@ -15,7 +15,7 @@ confidence: high
 audience: [instructors, administrators]
 ---
 
-> **Synthesis:** **To disclose or not to disclose** — a [[mixed-methods-research|mixed-methods]] study of 409 Singaporean undergraduates examining why students conceal their [[generative-ai]] use despite [[governance|institutional]] disclosure mandates. Guided by Bandura's Social Cognitive Theory, it finds disclosure is primarily predicted by *relational and social* variables — perceived peer disclosure and comfort with instructors were the strongest predictors, while moral disengagement had weaker effects. Non-disclosure reflects strategic adaptation to perceived peer norms and low interpretive trust in instructors, not moral negligence.
+> **Synthesis:** **To disclose or not to disclose** — a [[mixed-methods-research|mixed-methods]] study of 409 Singaporean undergraduates examining why students conceal their [[generative-ai|generative AI]] use despite [[governance|institutional]] disclosure mandates. Guided by Bandura's Social Cognitive Theory, it finds disclosure is primarily predicted by *relational and social* variables — perceived peer disclosure and comfort with instructors were the strongest predictors, while moral disengagement had weaker effects. Non-disclosure reflects strategic adaptation to perceived peer norms and low interpretive [[trust|trust]] in instructors, not moral negligence.
 
 Qu & Wang (2026) reframe GenAI non-disclosure in [[higher-ed|higher education]] as a *relationally embedded* practice rather than simple cheating. Despite mandates, students frequently conceal their GenAI use, reflecting [[ethics|ethical]] uncertainty and relational risk. The study moves the focus from compliance toward the social environments that make transparency possible.
 
@@ -38,7 +38,7 @@ Qu & Wang (2026) reframe GenAI non-disclosure in [[higher-ed|higher education]] 
 - **Instructors.** Frame disclosure as a [[metacognition|metacognitive]] explanation of how the work was done rather than a confession of wrongdoing, which lowers interpretive risk without adding grading burden.
 - **Instructors.** Run structured peer discussions about GenAI use to make private uncertainty visible — perceived peer disclosure was the strongest predictor, and students overestimate how much their peers conceal.
 - **Administrators.** Embed routine declaration mechanisms in assessment workflows and keep policy communication consistent across departments, since variability amplifies uncertainty and avoidance; detection-and-punishment approaches alone are unlikely to work.
-- **Instructors.** Recognize the "to disclose or not" dilemma as a real source of student [[anxiety-and-stress|stress]] and [[trust]] pressure rather than evidence of moral negligence.
+- **Instructors.** Recognize the "to disclose or not" dilemma as a real source of student [[anxiety-and-stress|stress]] and [[trust|trust]] pressure rather than evidence of moral negligence.
 
 ## Limitations
 

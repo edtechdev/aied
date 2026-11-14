@@ -13,7 +13,7 @@ confidence: medium
 page_kind: [framework, evaluation]
 ---
 
-> **Synthesis:** [[ai-literacy|AI literacy]]-related domains and AI-[[tpack]] readiness among preservice mathematics teachers: A factor-informed structural equation modeling study
+> **Synthesis:** [[ai-literacy|AI literacy]]-related domains and AI-[[tpack|TPACK]] readiness among preservice mathematics teachers: A factor-informed structural equation modeling study
 
 ## Key Findings
 

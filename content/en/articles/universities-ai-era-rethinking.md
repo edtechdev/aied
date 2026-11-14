@@ -27,7 +27,7 @@ The paper's central framework describes four stages of institutional response, r
 1. **Level 0 — Defensive Containment:** AI is treated primarily as a threat to [[academic-integrity|academic integrity]]. Responses focus on restricting use (discouraged or banned in assessment, heavy reliance on invigilated exams) with little or no curriculum redesign — often creating a mismatch between policy and the reality of widespread [[student-ai-interaction|student AI use]].
 2. **Level 1 — Informal or Peripheral Adoption:** Experimentation happens largely at the level of individual educators rather than through institutional strategy, with limited or inconsistent guidance for students, no formal recognition in workload or promotion, and uneven adoption across units. Innovation thus depends on motivated individuals and can burden those [[change-management|leading change]].
 3. **Level 2 — Strategic Integration:** Universities begin embedding AI into [[teacher-role|teaching]] policy and [[curriculum-design|curriculum design]], with clear institutional principles, curriculum redesign for AI-rich environments, professional AI development for educators, and recognition of innovation in workload or funding. Teaching increasingly focuses on reasoning, interpretation, and responsible use.
-4. **Level 3 — AI-Embedded or Transformational Universities:** AI becomes part of core educational infrastructure and the learning ecosystem — integrated into the LMS, assessment, and learning support; curricula centered on AI-supported reasoning rather than content delivery; assessments that evaluate judgment and justification in AI-rich environments; and students working with AI as a cognitive partner in authentic [[problem-solving]].
+4. **Level 3 — AI-Embedded or Transformational Universities:** AI becomes part of core educational infrastructure and the learning ecosystem — integrated into the LMS, assessment, and learning support; curricula centered on AI-supported reasoning rather than content delivery; assessments that evaluate judgment and justification in AI-rich environments; and students working with AI as a cognitive partner in authentic [[problem-solving|problem-solving]].
 
 ## Key Strategic Steps
 
@@ -36,16 +36,16 @@ To move beyond Level 1, the paper recommends concrete institutional actions: **r
 ## Connections to Knowledge Base
 
 - Shares the institutional perspective with  on human/institutional capacity bottlenecks
-- Contrasts with the [[ai-adult-learning-guidelines-dis2026]] focus on learner-facing technology guidelines
-- Extends [[teacher-ai-competency]] from individual educators to institutional competency — institutional readiness is a distinct level above individual educator skill
-- The workload-and-recognition emphasis speaks to [[educational-development]] centers navigating GenAI adoption, and the assessment implications echo [[assessment-validity]] concerns about what assessment means when AI can produce university-level work
-- Relevant to [[regulation]] discussions about higher-[[educational-policy-ai|education policy]] and [[finkelstein-principled-ai-education-2025]] frameworks
+- Contrasts with the [[ai-adult-learning-guidelines-dis2026|Reddig et al. (2026)]] focus on learner-facing technology guidelines
+- Extends [[teacher-ai-competency|teacher AI competency]] from individual educators to institutional competency — institutional readiness is a distinct level above individual educator skill
+- The workload-and-recognition emphasis speaks to [[educational-development|educational development]] centers navigating GenAI adoption, and the assessment implications echo [[assessment-validity|assessment validity]] concerns about what assessment means when AI can produce university-level work
+- Relevant to [[regulation|regulation]] discussions about higher-[[educational-policy-ai|education policy]] and [[finkelstein-principled-ai-education-2025|Finkelstein (2025)]] frameworks
 
 ## Open Questions
 
 - How do different national contexts (US, EU, [[global-south|Global South]]) shape university AI responses?
 - What is the timeline for meaningful institutional transformation vs. superficial adoption?
-- How does institutional rethinking interact with [[finkelstein-principled-ai-education-2025]] frameworks?
+- How does institutional rethinking interact with [[finkelstein-principled-ai-education-2025|Finkelstein (2025)]] frameworks?
 - Which structural incentives most effectively convert informal educator experimentation into scaled, recognized innovation?
 
 ## What this means for practice

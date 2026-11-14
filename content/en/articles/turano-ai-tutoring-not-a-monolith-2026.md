@@ -25,7 +25,7 @@ institutions: [educational-policy-ai]
 - **Dosage is the key driver — and AI struggles to meet it.** AI-led tutoring inherits the dosage evidence base (e.g., ~90-minute weekly threshold) only when scheduled, supervised, and protected within the school day. In a study of 181,000 students on a supplemental math platform, only 5% reached the recommended 30 minutes/week and 41% never logged on; [[teacher-role|teacher]]/school/district factors explained 57% of usage variance. Even AI-only tutoring studies saw 40–47% of students never use the platform.
 - **The student-tutor relationship is central and not replicable by AI.** Relationship-building strategies — especially consistent tutoring with the same tutor — improve engagement, attendance, motivation, and [[learning-gains|learning outcomes]]. AI does not yet replicate human relationships; developers describe using AI strengths rather than replacing relationships.
 - **[[human-in-the-loop-ai|Human oversight]] improves engagement and alignment but not dosage.** Human supervision of AI-led sessions preserved structured learning goals and [[curriculum-design|curriculum]] alignment, but did not by itself get students to the dosage that produces gains.
-- **Safety and privacy are essential [[guardrails]].** Safe direct-to-student AI requires strict student [[privacy|data privacy]] safeguards (enterprise-grade platforms, formal data-protection agreements, PII training) and attention to student-safety guardrails and the depth of unmonitored interaction. Open questions remain about AI companions' effects on developing minds and prosocial development.
+- **Safety and privacy are essential [[guardrails|guardrails]].** Safe direct-to-student AI requires strict student [[privacy|data privacy]] safeguards (enterprise-grade platforms, formal data-protection agreements, PII training) and attention to student-safety guardrails and the depth of unmonitored interaction. Open questions remain about AI companions' effects on developing minds and prosocial development.
 
 ## What this means for practice
 
@@ -40,7 +40,7 @@ institutions: [educational-policy-ai]
 - This is a policy brief that synthesizes existing evidence; it reports no sample, intervention, or analysis of its own, so its conclusions are only as strong as the studies it summarizes.
 - Its dosage and usage [[benchmark|benchmarks]] — the ~90-minute weekly threshold, the recommended 30 minutes per week, and the finding that teacher/school/district factors explained 57% of usage variance — come from human-tutoring and supplemental-platform studies, not from AI-led tutoring trials.
 - The AI-led and AI-only tier rests on emergent evidence: the cited two-district [[rct|RCT]] found human check-ins raised engagement but reading achievement did not improve, and 40–47% of students in AI-only studies never used the platform.
-- Safety questions about direct-to-student AI — data protection, student-safety [[guardrails]], and the developmental effects of AI companions — are flagged as open, so recommendations about unmonitored or AI-only use rest on unresolved risks.
+- Safety questions about direct-to-student AI — data protection, student-safety [[guardrails|guardrails]], and the developmental effects of AI companions — are flagged as open, so recommendations about unmonitored or AI-only use rest on unresolved risks.
 
 ## Citation
 

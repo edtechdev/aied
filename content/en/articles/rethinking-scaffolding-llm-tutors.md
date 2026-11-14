@@ -13,7 +13,7 @@ page_kind: [evaluation]
 methods: [benchmark]
 ---
 
-> **Synthesis:** Alignment and evaluation methods for embedding [[scaffolding]] behavior into [[conversational-ai|chatbots]] rest on an implicit assumption: that students will take up the scaffolding and engage in the conversation.
+> **Synthesis:** Alignment and evaluation methods for embedding [[scaffolding|scaffolding]] behavior into [[conversational-ai|chatbots]] rest on an implicit assumption: that students will take up the scaffolding and engage in the conversation.
 
 ## Key Findings
 
@@ -24,14 +24,14 @@ methods: [benchmark]
 
 ## Study Design & Method
 
-Scaffolding describes how a tutor calibrates support to the learner's current state — guiding through graduated hints, posing questions rather than giving answers, and withdrawing support as the student gains competence. Delivering timely, dialogic, and scaffolded feedback to every student at every moment of struggle is difficult at scale, and [[llm]]-based chatbots have been proposed as a way to approach this challenge. However, deploying LLMs as tutors introduces a tension: they are trained to be helpful by presenting information and answering directly, rather than engaging students in guided discovery — behavior that is at odds with scaffolding, where a tutor withholds answers to promote reasoning. The evaluation pipeline operationalizes this tension through the Chatbot Scaffolding and Student Uptake metrics, and the corpus spans both benchmark datasets and real-world chatbot deployments.
+Scaffolding describes how a tutor calibrates support to the learner's current state — guiding through graduated hints, posing questions rather than giving answers, and withdrawing support as the student gains competence. Delivering timely, dialogic, and scaffolded feedback to every student at every moment of struggle is difficult at scale, and [[llm|LLM]]-based chatbots have been proposed as a way to approach this challenge. However, deploying LLMs as tutors introduces a tension: they are trained to be helpful by presenting information and answering directly, rather than engaging students in guided discovery — behavior that is at odds with scaffolding, where a tutor withholds answers to promote reasoning. The evaluation pipeline operationalizes this tension through the Chatbot Scaffolding and Student Uptake metrics, and the corpus spans both benchmark datasets and real-world chatbot deployments.
 
 ## What this means for practice
 
 - **Instructors.** Expect students to use an AI tutor as an on-demand learning assistant rather than a conversational partner. Across the real-world deployment datasets, students showed lower uptake overall and frequently bypassed the chatbot's framing, so teach the intended use of a tutoring tool instead of assuming the interface enforces it.
-- **Instructors.** Read a redirecting question as [[help-seeking]], not misbehavior. The authors argue that bypassing scaffolding often reflects an instrumental move that exposes a mismatch between the chatbot's framing and the student's goal, and that a highly scaffolded reply is unhelpful to a student who has been stuck for hours and now needs a direct answer.
+- **Instructors.** Read a redirecting question as [[help-seeking|help-seeking]], not misbehavior. The authors argue that bypassing scaffolding often reflects an instrumental move that exposes a mismatch between the chatbot's framing and the student's goal, and that a highly scaffolded reply is unhelpful to a student who has been stuck for hours and now needs a direct answer.
 - **Learners.** Say what you actually need when a guiding question misses your goal: the analysis found bypassing the chatbot's framing carried little interpersonal cost, and the mismatch it reveals is more useful as a signal about the tool than as evidence of your own disengagement.
-- **Designers.** Decide in advance what the chatbot does when a student does not follow its scaffolding — concede and adapt its behavior, or steer the student back — and let sessions span long gaps, since StemChat, StudyChat, and MathsChat show students leaving and returning across topics instead of holding one continuous conversation. Build scaffolding to adapt to student-driven interaction patterns, including [[help-seeking]] styles, rather than presupposing the conversational sequence the interface expects.
+- **Designers.** Decide in advance what the chatbot does when a student does not follow its scaffolding — concede and adapt its behavior, or steer the student back — and let sessions span long gaps, since StemChat, StudyChat, and MathsChat show students leaving and returning across topics instead of holding one continuous conversation. Build scaffolding to adapt to student-driven interaction patterns, including [[help-seeking|help-seeking]] styles, rather than presupposing the conversational sequence the interface expects.
 - **Researchers.** Score the student's side of the exchange, not only the chatbot's turn: the pipeline's Chatbot Scaffolding and Student Uptake metrics ran across nine datasets of 9,490 chats, and uptake was only inconsistently linked to the degree of scaffolding a chatbot provided. A benchmark that assumes uptake will overestimate both the value of rigid scaffolding and the quality of the LLM tutor behind it.
 
 ## Limitations

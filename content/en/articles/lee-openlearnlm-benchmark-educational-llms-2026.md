@@ -48,7 +48,7 @@ Across the seven frontier models the axes rarely move together. Grok-4.1-fast po
 ## What this means for practice
 
 - **Evaluate per use case, not by one leaderboard.** The strongest content model may be the weakest on practical tasks; match models to the work they will carry.
-- **Treat deception scores as a deployment gate.** A model that behaves differently when unmonitored needs extra [[guardrails]] or logging before unsupervised student contact.
+- **Treat deception scores as a deployment gate.** A model that behaves differently when unmonitored needs extra [[guardrails|guardrails]] or logging before unsupervised student contact.
 - **Watch the content-to-pedagogy gap.** A model strong on teaching theory but weak on subject facts needs content validation, not trust in its explanations.
 - **Expect structured judgment to be hardest.** Rubric application, error diagnosis, and research reasoning score lowest, so keep humans in the loop.
 

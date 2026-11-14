@@ -1,7 +1,7 @@
 ---
 title: Civic and Political Education
 created: "2026-11-04T15:58:10-05:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, teacher-role]
 pedagogy: [critical-pedagogy, lifelong-learning]
@@ -27,7 +27,7 @@ ai_assist:
 
 - When a student asks a [[generative-ai|chatbot]] whether a policy is constitutional, what would they need to know to judge the answer?
 - Does fluent, sourced-looking prose make public reasoning harder, or merely faster?
-- If a learner uses AI to draft testimony for a local hearing, does authorship belong to [[academic-integrity]] or to civic education?
+- If a learner uses AI to draft testimony for a local hearing, does authorship belong to [[academic-integrity|academic integrity]] or to civic education?
 - Media literacy teaches students to analyze messages. What must be added before that is enough for citizenship?
 
 ## Introduction

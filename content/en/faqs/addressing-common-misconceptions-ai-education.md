@@ -49,7 +49,7 @@ Five beliefs decide whether the rest of the argument matters. Each takes a real 
 
 In a field experiment with nearly 1,000 high-school [[math-education|mathematics]] students, unrestricted generative-AI access improved performance during assisted practice and reduced later unassisted exam performance. A guardrailed version that supplied hints instead of complete answers eliminated the observed [[ai-misuse-learning-harm|learning harm]] ([[generative-ai-guardrails-harm-learning|Generative AI Without Guardrails Can Harm Learning]]). Both results are real, and they sit on different measures: only one of them is the measure a transcript certifies. The study gives you a direction and no effect size for your course.
 
-Students run the same inference on their own work, and the answer is the same: the product shows what the student and the tool produced together. Four questions asked with the chat window closed tell you what happened. Can they explain the reasoning? Solve a similar problem? Find the weaknesses in the generated answer? Carry the idea into a new context? If the honest answers are no, you are looking at assisted performance under the name of learning. Put one of those four into the [[assessment]] and say so in the rubric.
+Students run the same inference on their own work, and the answer is the same: the product shows what the student and the tool produced together. Four questions asked with the chat window closed tell you what happened. Can they explain the reasoning? Solve a similar problem? Find the weaknesses in the generated answer? Carry the idea into a new context? If the honest answers are no, you are looking at assisted performance under the name of learning. Put one of those four into the [[assessment|assessment]] and say so in the rubric.
 
 ### "Students like the feedback, so the feedback works."
 
@@ -61,7 +61,7 @@ Averages conceal exactly the variation that decides an equity question. Effects 
 
 ### "They reported that they learned a lot."
 
-[[self-report-measures|Self-report measures]] perception, acceptance, [[anxiety-and-stress|anxiety]], and [[self-efficacy]], and it is good at all four. It is not a measure of demonstrated capability, because people can be confident and wrong, or skilled and underconfident. A synthesis of teacher AI-literacy research reports a substantial gap between [[self-assessment]] and measured performance, and the instructors studied overestimated their competence considerably ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]]). Pair every self-report with a task: identify an error in an output, verify a source, choose a use strategy, spot bias or sycophancy, revise a flawed response, calibrate confidence against accuracy. One such item in a survey turns an opinion into a result.
+[[self-report-measures|Self-report measures]] perception, acceptance, [[anxiety-and-stress|anxiety]], and [[self-efficacy|self-efficacy]], and it is good at all four. It is not a measure of demonstrated capability, because people can be confident and wrong, or skilled and underconfident. A synthesis of teacher AI-literacy research reports a substantial gap between [[self-assessment|self-assessment]] and measured performance, and the instructors studied overestimated their competence considerably ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]]). Pair every self-report with a task: identify an error in an output, verify a source, choose a use strategy, spot bias or sycophancy, revise a flawed response, calibrate confidence against accuracy. One such item in a survey turns an opinion into a result.
 
 ### "A simulated student is a cheap stand-in for a real one."
 
@@ -77,7 +77,7 @@ The mirror belief is worse: that AI use cannot be cheating because no person was
 
 ### "If nobody can detect it, there is no downside."
 
-Detection answers a different question from the one that matters. Undetected outsourcing still leaves a student unable to explain the work, answer a follow-up, adapt it, or perform without the tool, and the gap surfaces later in a [[summative-assessment|examination]], a licensure process, an internship, or a first job. Grades drift away from capability while both look fine. That is a credential problem before it is a discipline problem, which is the argument in [[assessment-validity|Assessment Validity]] and [[authentic-assessment|Authentic Assessment]]. For a student, the useful reframe is that the grade is a claim about them, and the claim has to survive the next room it is tested in.
+Detection answers a different question from the one that matters. Undetected outsourcing still leaves a student unable to explain the work, answer a follow-up, adapt it, or perform without the tool, and the gap surfaces later in an [[summative-assessment|examination]], a licensure process, an internship, or a first job. Grades drift away from capability while both look fine. That is a credential problem before it is a discipline problem, which is the argument in [[assessment-validity|Assessment Validity]] and [[authentic-assessment|Authentic Assessment]]. For a student, the useful reframe is that the grade is a claim about them, and the claim has to survive the next room it is tested in.
 
 ### "The problem is how often they use it."
 
@@ -99,7 +99,7 @@ A system that produces the answer and a system that produces a learner are diffe
 
 ### "Give students a powerful tutor and learning will improve."
 
-Access is not an instructional design. The same model supports learning when it requires an attempt first, hints instead of solutions, asks for reasoning, corrects misconceptions, fades support, and ends with an unaided check. It undermines learning when it answers immediately, does the planning, and rewards answer-seeking. The value sits in the [[pedagogy|pedagogical]] wrapper, which is the argument in [[learning-design|Learning Design]] and the design logic behind [[scaffolding]]. Before you roll a tutor out, run one lesson through it yourself and count how many times it lets you avoid thinking.
+Access is not an instructional design. The same model supports learning when it requires an attempt first, hints instead of solutions, asks for reasoning, corrects misconceptions, fades support, and ends with an unaided check. It undermines learning when it answers immediately, does the planning, and rewards answer-seeking. The value sits in the [[pedagogy|pedagogical]] wrapper, which is the argument in [[learning-design|Learning Design]] and the design logic behind [[scaffolding|scaffolding]]. Before you roll a tutor out, run one lesson through it yourself and count how many times it lets you avoid thinking.
 
 ### "A tutor that gives the right answer is a good tutor."
 
@@ -107,7 +107,7 @@ Correctness is necessary and insufficient. A correct answer can arrive too early
 
 ### "More automation and personalization is better."
 
-[[personalized-learning|Personalization]] can support learning and can become over-accommodation. When the system plans, monitors, decides what matters, and completes the hard steps, the student gets faster and less agentic, and [[self-regulated-learning|self-regulation]] is the thing that quietly leaves the room. The design problem is to strip unnecessary barriers while preserving the effort tied to the objective. Features that hold up: mandatory attempts, explanation prompts, delayed hints, adjustable assistance, scaffold fading, reflection on the system's recommendations, periodic unaided practice, and a visible way to override it. [[agentic-ai|Agentic AI]] and [[agency]] cover what happens when the system starts making the decisions.
+[[personalized-learning|Personalization]] can support learning and can become over-accommodation. When the system plans, monitors, decides what matters, and completes the hard steps, the student gets faster and less agentic, and [[self-regulated-learning|self-regulation]] is the thing that quietly leaves the room. The design problem is to strip unnecessary barriers while preserving the effort tied to the objective. Features that hold up: mandatory attempts, explanation prompts, delayed hints, adjustable assistance, scaffold fading, reflection on the system's recommendations, periodic unaided practice, and a visible way to override it. [[agentic-ai|Agentic AI]] and [[agency|agency]] cover what happens when the system starts making the decisions.
 
 ### "A bigger model makes a safer tutor."
 
@@ -131,7 +131,7 @@ A platform provides capabilities. Improvement requires alignment across [[curric
 
 ### "The benchmark score proves it is educationally effective."
 
-A benchmark measures performance under the benchmark's conditions. A model can solve difficult problems, write fluent explanations, and score well on a tutoring rubric while failing to improve retention, [[transfer-of-learning|transfer]], [[self-regulated-learning|self-regulation]], or equitable outcomes. Keep benchmark results separate from technical reliability, pedagogical quality, safety, [[usability-research|usability]], implementation burden, classroom adoption, and unassisted [[learning-gains|learning gains]]. Only field testing with actual learners, a relevant comparison condition, and a sensible outcome measure speaks to the question you are actually deciding ([[benchmark]]). Researchers owe the same discipline in the other direction: say which link in that chain a study occupies.
+A benchmark measures performance under the benchmark's conditions. A model can solve difficult problems, write fluent explanations, and score well on a tutoring rubric while failing to improve retention, [[transfer-of-learning|transfer]], [[self-regulated-learning|self-regulation]], or equitable outcomes. Keep benchmark results separate from technical reliability, pedagogical quality, safety, [[usability-research|usability]], implementation burden, classroom adoption, and unassisted [[learning-gains|learning gains]]. Only field testing with actual learners, a relevant comparison condition, and a sensible outcome measure speaks to the question you are actually deciding ([[benchmark|benchmark]]). Researchers owe the same discipline in the other direction: say which link in that chain a study occupies.
 
 ### "It is reliable, so the scores are valid."
 
@@ -147,7 +147,7 @@ Review is an accountability function, not an error-correction feature, because s
 
 ### "Accessibility, privacy, and equity can be added once the core product works."
 
-These are design requirements. Input modality, reading level, language assumptions, device requirements, data retention, personalization, and model bias decide who can use the system and who gets harmed by it, and retrofitting tends to improve the interface while leaving the workflow, data model, and decision logic intact. Involve affected learners and educators early, test with diverse users, collect the minimum, provide accessible alternatives, and examine differential outcomes. A system whose benefits are inaccessible or unevenly distributed is not educationally effective, whatever its average ([[accessibility]], [[universal-design-for-learning|Universal Design for Learning]], [[privacy]]).
+These are design requirements. Input modality, reading level, language assumptions, device requirements, data retention, personalization, and model bias decide who can use the system and who gets harmed by it, and retrofitting tends to improve the interface while leaving the workflow, data model, and decision logic intact. Involve affected learners and educators early, test with diverse users, collect the minimum, provide accessible alternatives, and examine differential outcomes. A system whose benefits are inaccessible or unevenly distributed is not educationally effective, whatever its average ([[accessibility|accessibility]], [[universal-design-for-learning|Universal Design for Learning]], [[privacy|privacy]]).
 
 ### "A chatbot is safe for children if it blocks toxic content."
 
@@ -195,7 +195,7 @@ It responds to language, uses the conversation, and sometimes retains informatio
 
 ### "One good prompt should produce the right answer."
 
-Output is prompt-sensitive and often non-deterministic, so small changes in wording, context, examples, or assumptions move the response substantially, and asking again is not verifying. Five similar answers can share one mistaken premise. Productive iteration clarifies the goal and constraints, exposes assumptions, requests alternatives, tests against evidence, and checks whether the answer survives a change in the problem. This is a skill, and an unevenly distributed one. A demonstration of a naive student using a chatbot on a take-home examination question stayed "polished but pedagogically thin" at the multistructural level of the SOLO taxonomy, and reaching a usable learning loop took eight rounds of meta-level intervention: signaling overload, requesting simplification, narrowing scope. The authors call the capacity **AI-interaction literacy**, meaning the ability to steer, evaluate, and learn from iterative interaction, and they note the equity sting: because unguided use imposes an interaction-management skill that is unevenly distributed, generative AI "may be most beneficial to already advantaged students" ([[brunnstrom-ai-interaction-literacy-srl-2026|AI-interaction literacy]]). For the self-[[regulation]] demands underneath, see [[developing-ai-tutor|How Do We Develop an Effective AI Tutor?]].
+Output is prompt-sensitive and often non-deterministic, so small changes in wording, context, examples, or assumptions move the response substantially, and asking again is not verifying. Five similar answers can share one mistaken premise. Productive iteration clarifies the goal and constraints, exposes assumptions, requests alternatives, tests against evidence, and checks whether the answer survives a change in the problem. This is a skill, and an unevenly distributed one. A demonstration of a naive student using a chatbot on a take-home examination question stayed "polished but pedagogically thin" at the multistructural level of the SOLO taxonomy, and reaching a usable learning loop took eight rounds of meta-level intervention: signaling overload, requesting simplification, narrowing scope. The authors call the capacity **AI-interaction literacy**, meaning the ability to steer, evaluate, and learn from iterative interaction, and they note the equity sting: because unguided use imposes an interaction-management skill that is unevenly distributed, generative AI "may be most beneficial to already advantaged students" ([[brunnstrom-ai-interaction-literacy-srl-2026|AI-interaction literacy]]). For the self-[[regulation|regulation]] demands underneath, see [[developing-ai-tutor|How Do We Develop an Effective AI Tutor?]].
 
 ### "Young people are already AI literate because they are digital natives."
 
@@ -302,7 +302,7 @@ The interference happens inside the discipline, at the step where the tool perfo
 
 **1.** Take the three beliefs you hear most and write each one as a refutation: the belief, why it looks true, the correction, the replacement, the application. One page, no citations.
 
-**2.** Add one unaided item to an [[assessment]] you already run, and give it enough weight that the result means something.
+**2.** Add one unaided item to an [[assessment|assessment]] you already run, and give it enough weight that the result means something.
 
 **3.** Rewrite one course's AI clause so it names the act and the step, and pick one of the four conditions for each stage of the assignment.
 

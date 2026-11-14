@@ -15,7 +15,7 @@ confidence: high
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** While [[llm]]s now enable rapid generation of learning materials like [[generative-ai]], evaluating the [[pedagogy|pedagogical]] quality of these materials remains an open challenge. This paper proposes an [[automated-assessment|automated assessment]] framework for evaluating interactivity in AI-generated explorable explanations — dynamic, learner-driven content that students can manipulate to discover concepts. The framework addresses the gap between content generation speed and quality assurance, providing metrics for [[formative-assessment]] of learning designs. This connects to [[learning-analytics]] approaches for understanding how students engage with AI-produced educational content in [[higher-ed]] settings.
+> **Synthesis:** While [[llm|LLM]]s now enable rapid generation of learning materials like [[generative-ai|generative AI]], evaluating the [[pedagogy|pedagogical]] quality of these materials remains an open challenge. This paper proposes an [[automated-assessment|automated assessment]] framework for evaluating interactivity in AI-generated explorable explanations — dynamic, learner-driven content that students can manipulate to discover concepts. The framework addresses the gap between content generation speed and quality assurance, providing metrics for [[formative-assessment|formative assessment]] of learning designs. This connects to [[learning-analytics|learning analytics]] approaches for understanding how students engage with AI-produced educational content in [[higher-ed|higher education]] settings.
 
 ## Key Findings
 
@@ -27,7 +27,7 @@ page_kind: [evaluation]
 
 ## Method in Brief
 
-Existing [[benchmark|benchmarks]] give limited insight into dynamic interaction behaviors such as learner-controlled state transitions and context-sensitive system responses — the factors that critically shape learners' conceptual understanding. EE-Eval addresses this by framing interactivity as testable behavioral models rather than an emergent byproduct of [[llm]] generation. The resulting FSM comparison supports pedagogically grounded, actionable [[human-ai-collaboration]] in creating interactive educational content.
+Existing [[benchmark|benchmarks]] give limited insight into dynamic interaction behaviors such as learner-controlled state transitions and context-sensitive system responses — the factors that critically shape learners' conceptual understanding. EE-Eval addresses this by framing interactivity as testable behavioral models rather than an emergent byproduct of [[llm|LLM]] generation. The resulting FSM comparison supports pedagogically grounded, actionable [[human-ai-collaboration|human AI collaboration]] in creating interactive educational content.
 
 ## What this means for practice
 
@@ -35,7 +35,7 @@ Existing [[benchmark|benchmarks]] give limited insight into dynamic interaction 
 - **Designers.** Specify the intended learner-controllable states and transitions as an "ideal" FSM before generating content, so the extracted graph can be compared against pedagogical intent instead of judged on appearance.
 - **Designers.** Read the extracted FSM as a defect list — missing states, state-action pairs without feedback, unreachable transitions — and fix those before publishing an activity built from any of the 6 models tested.
 - **Researchers.** Pair interaction-level signals with outcome measures, because the framework captures pedagogical coherence at the interaction level and not [[learning-gains|learning gains]].
-- **Instructors.** Do not screen generated [[active-learning]] materials on visual or code-execution checks alone; those baselines track surface appearance rather than interaction behavior.
+- **Instructors.** Do not screen generated [[active-learning|active learning]] materials on visual or code-execution checks alone; those baselines track surface appearance rather than interaction behavior.
 
 ## Limitations
 

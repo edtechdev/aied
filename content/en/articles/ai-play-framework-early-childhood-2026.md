@@ -18,7 +18,7 @@ page_kind: [framework]
 
 ## The gap: developmentally grounded AI literacy for early childhood
 
-AI is increasingly present in young children's lives, yet most AI literacy guidance targets older students and relies on technical approaches unsuitable for early childhood. An exploratory review of 145 papers and documents (reduced to 23 key sources) confirmed that recurring AI literacy frameworks — AI4K12's Five Big Ideas (Perception, Representation & Reasoning, Learning, Natural Interaction, Societal Impact), Long & Magerko's competency framework, Digital Promise, CSTA K-12 CS Standards, UNESCO, OECD, European Commission, TeachAI, and the RITEC child-[[well-being]] framework — describe *what* learners should understand but provide little developmentally appropriate guidance for *how* to introduce these ideas through play to Pre-K–K2 learners.
+AI is increasingly present in young children's lives, yet most AI literacy guidance targets older students and relies on technical approaches unsuitable for early childhood. An exploratory review of 145 papers and documents (reduced to 23 key sources) confirmed that recurring AI literacy frameworks — AI4K12's Five Big Ideas (Perception, Representation & Reasoning, Learning, Natural Interaction, Societal Impact), Long & Magerko's competency framework, Digital Promise, CSTA K-12 CS Standards, UNESCO, OECD, European Commission, TeachAI, and the RITEC child-[[well-being|well-being]] framework — describe *what* learners should understand but provide little developmentally appropriate guidance for *how* to introduce these ideas through play to Pre-K–K2 learners.
 
 ## The AI-Play framework
 
@@ -43,9 +43,9 @@ AI-Play was implemented through a family-centered **Hour of Code** event using u
 
 ## What this means for practice
 
-- **Instructors.** Teach AI through unplugged, play-based activities: AI-Play's four components — AI Body (AI is a system built from parts), AI Food (AI learns from examples), AI Brain (AI improves through patterns and feedback), and a Pre/Post-AI ethical lens — make [[ai-literacy]] concepts developmentally appropriate for Pre-K–K2 without technical tools, building on [[game-based-learning]] and [[learning-theories|learning theory]].
+- **Instructors.** Teach AI through unplugged, play-based activities: AI-Play's four components — AI Body (AI is a system built from parts), AI Food (AI learns from examples), AI Brain (AI improves through patterns and feedback), and a Pre/Post-AI ethical lens — make [[ai-literacy|AI literacy]] concepts developmentally appropriate for Pre-K–K2 without technical tools, building on [[game-based-learning|game-based learning]] and [[learning-theories|learning theory]].
 - **Instructors.** Introduce [[ethics|ethical]] AI use alongside the first technical concept rather than after it: the Pre/Post-AI lens of responsibility, [[bias-mitigation|fairness]], and agency recurs across every AI-Play component.
-- **Instructors.** Use the framework as a bridge for non-technical colleagues and families — it was built to lower the barrier to AI literacy beyond formal classrooms, extending the reach of [[k-12]] [[ai-education|AI education]] and connecting to [[computational-thinking]] and [[cs-education]].
+- **Instructors.** Use the framework as a bridge for non-technical colleagues and families — it was built to lower the barrier to AI literacy beyond formal classrooms, extending the reach of [[k-12]] [[ai-education|AI education]] and connecting to [[computational-thinking|computational thinking]] and [[cs-education|CS education]].
 - **Instructors.** Give children repeated exposure rather than a one-off activity: the framework specifies what learners should understand at each developmental stage plus the before, during, and after teacher moves that operationalize each component.
 
 ## Limitations

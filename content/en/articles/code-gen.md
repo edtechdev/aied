@@ -14,21 +14,21 @@ discipline: [cs education]
 level: [higher ed]
 ---
 
-> **Synthesis:** CODE-GEN is a **dual-agent [[rag]]-based [[agentic-ai]] system** for generating and validating coding-comprehension multiple-choice questions, evaluated by 6 SMEs across 7 [[pedagogy|pedagogical]] dimensions (N=288 questions, 2,016 rating pairs). AI excels at criteria-matching and computational verification ([[ai-ed-evaluation|concept alignment 98.6%]], code validity 95.5%), but human expertise remains essential for distractor quality (79.9%) and pedagogically rich feedback — providing an evidence-based division of labor for [[human-in-the-loop-ai]] educational content generation. Its distinctive move is treating the automated Validator's judgment as an *empirical object of study* rather than an assumed capability.
+> **Synthesis:** CODE-GEN is a **dual-agent [[rag|RAG]]-based [[agentic-ai|agentic AI]] system** for generating and validating coding-comprehension multiple-choice questions, evaluated by 6 SMEs across 7 [[pedagogy|pedagogical]] dimensions (N=288 questions, 2,016 rating pairs). AI excels at criteria-matching and computational verification ([[ai-ed-evaluation|concept alignment 98.6%]], code validity 95.5%), but human expertise remains essential for distractor quality (79.9%) and pedagogically rich feedback — providing an evidence-based division of labor for [[human-in-the-loop-ai|human-in-the-loop]] educational content generation. Its distinctive move is treating the automated Validator's judgment as an *empirical object of study* rather than an assumed capability.
 
 **Venue:** [[ai-education|AIED]] 2026 (short paper)
 **ArXiv:** 2604.03926
 
 ### Overview
 
-CODE-GEN (Context-aligned, Output-validated, Dual-agent, Expert-guided GENeration) is a [[human-in-the-loop-ai]] [[agentic-ai]] system for generating contextually grounded multiple-choice coding comprehension questions. It integrates [[rag]] with a dual-agent architecture separating question generation from quality validation.
+CODE-GEN (Context-aligned, Output-validated, Dual-agent, Expert-guided GENeration) is a [[human-in-the-loop-ai|human-in-the-loop]] [[agentic-ai|agentic AI]] system for generating contextually grounded multiple-choice coding comprehension questions. It integrates [[rag|RAG]] with a dual-agent architecture separating question generation from quality validation.
 
 ### Key Findings
 
 1. **AI reliably automates technically grounded dimensions.** Human-validated success rates are high where correctness maps to computational verification and explicit criteria: concept alignment 98.6%, question [[stem-education|stem]] clarity 97.9%, code validity 95.5%, correct answer validity 92.0%, and correct-answer feedback 92.4%.
-2. **Human expertise remains essential for pedagogical judgment.** Distractor quality (79.9% success, 15.6% failure) and distractor [[ai-feedback-quality|feedback quality]] (86.1%) are the weakest dimensions, because assessing whether distractors target common [[misconceptions]] and whether feedback elaborates underlying concepts requires instructional judgment, not just computational correctness.
+2. **Human expertise remains essential for pedagogical judgment.** Distractor quality (79.9% success, 15.6% failure) and distractor [[ai-feedback-quality|feedback quality]] (86.1%) are the weakest dimensions, because assessing whether distractors target common [[misconceptions|misconceptions]] and whether feedback elaborates underlying concepts requires instructional judgment, not just computational correctness.
 3. **Tool augmentation works.** An Arithmetic Expression Evaluator and a Sandboxed Python Runner substantially enhance both generation quality and validation reliability for computationally grounded dimensions.
-4. **Automated evaluators must be validated, not assumed.** [[llm]]-based critique agents exhibit [[hallucination-risk|hallucination]], bias, and inconsistent judgment; CODE-GEN explicitly compares the Validator against human SMEs, showing that without such validation, errors at the evaluation stage risk being amplified rather than corrected.
+4. **Automated evaluators must be validated, not assumed.** [[llm|LLM]]-based critique agents exhibit [[hallucination-risk|hallucination]], bias, and inconsistent judgment; CODE-GEN explicitly compares the Validator against human SMEs, showing that without such validation, errors at the evaluation stage risk being amplified rather than corrected.
 5. **Systematic failure patterns.** False positives (approving syntactically valid but instructionally shallow distractors and surface-mechanics feedback) and false negatives (misinterpreting answer schemas, confusing answer value with option position) reveal where the Validator's judgment breaks down.
 6. **SME–Validator agreement is consistent.** Agreement rates across all dimensions range 82.5%–98.4%, with five of seven dimensions showing standard deviations ≤3.8%, indicating SMEs applied comparable standards despite reviewing different question sets.
 
@@ -75,12 +75,12 @@ CODE-GEN (Context-aligned, Output-validated, Dual-agent, Expert-guided GENeratio
 
 ### Significance for automated-assessment and automated-question-generation
 
-CODE-GEN demonstrates that agentic AI with RAG grounding and tool augmentation can serve as scalable first-line quality control for [[automated-assessment]] item generation. The explicit evaluation of the Validator against human judgment — rather than assuming automated evaluation is reliable — provides an evidence-based framework for determining where AI can be safely delegated and where [[human-in-the-loop-ai]] oversight must be maintained.
+CODE-GEN demonstrates that agentic AI with RAG grounding and tool augmentation can serve as scalable first-line quality control for [[automated-assessment|automated assessment]] item generation. The explicit evaluation of the Validator against human judgment — rather than assuming automated evaluation is reliable — provides an evidence-based framework for determining where AI can be safely delegated and where [[human-in-the-loop-ai|human-in-the-loop]] oversight must be maintained.
 
 ## What this means for practice
 
 - **Designers.** Delegate first the dimensions where correctness is computationally verifiable: human-validated success reached 98.6% for concept alignment, 97.9% for stem clarity, and 95.5% for code validity.
-- **Designers.** Keep expert reviewers on the pedagogical dimensions — distractor quality was the weakest at 79.9% success with 15.6% failure and distractor feedback at 86.1% — because these require anticipating common [[misconceptions]], not checking correctness.
+- **Designers.** Keep expert reviewers on the pedagogical dimensions — distractor quality was the weakest at 79.9% success with 15.6% failure and distractor feedback at 86.1% — because these require anticipating common [[misconceptions|misconceptions]], not checking correctness.
 - **Designers.** Validate an automated [[human-in-the-loop-ai|critique agent]] against experts before trusting its verdicts: SME agreement ranged 82.5%–98.4%, and the Validator both approved instructionally shallow items and confused answer value with option position.
 - **Designers.** Augment both agents with deterministic tools (an arithmetic expression evaluator and a sandboxed Python runner) instead of relying on the model for computation and code execution.
 - **Researchers.** Treat the evaluator's judgment as an empirical object and keep the disagreement cases; the 131 qualitative feedback instances are a usable seed set for pedagogical alignment work.

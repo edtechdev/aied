@@ -15,7 +15,7 @@ sources: ['raw/papers/qualitative-reasoning-game-guidance-2026.md']
 confidence: high
 ---
 
-> **Synthesis:** Jaiswal & Falomir (2026) build the reasoning engine behind a tutoring game. Spatial reasoning correlates strongly with [[stem-education|STEM]] performance, and puzzle games are an attractive way to train it — but giving human-like guidance requires an agent that can draw commonsense inferences about spatial events and explain them. The authors present a hybrid **[[qualitative-research|qualitative]] reasoning** model for *Camelot Jr.*, a block-puzzle game in which a player must build multi-level bridges so that two avatars can meet, combining a qualitative solver for path and support with mathematical center-of-mass stability logic. Because the model reasons symbolically, game states translate directly into interpretable [[feedback]] for [[scaffolding|player guidance]].
+> **Synthesis:** Jaiswal & Falomir (2026) build the reasoning engine behind a tutoring game. Spatial reasoning correlates strongly with [[stem-education|STEM]] performance, and puzzle games are an attractive way to train it — but giving human-like guidance requires an agent that can draw commonsense inferences about spatial events and explain them. The authors present a hybrid **[[qualitative-research|qualitative]] reasoning** model for *Camelot Jr.*, a block-puzzle game in which a player must build multi-level bridges so that two avatars can meet, combining a qualitative solver for path and support with mathematical center-of-mass stability logic. Because the model reasons symbolically, game states translate directly into interpretable [[feedback|feedback]] for [[scaffolding|player guidance]].
 
 ## Key Findings
 
@@ -27,17 +27,17 @@ confidence: high
 
 ## Why an interpretable tutor matters more than a strong solver
 
-A solver that finds the optimal next move is not a tutor. Guidance requires knowing what the player is attempting, whether their construction is stable, and how to describe the problem in terms they can act on — and the explanation is the [[pedagogy|pedagogical]] product. Symbolic [[problem-solving|reasoning]] buys that property directly: the same representation that determines whether a bridge holds can be verbalized as a hint. This is the design logic that connects the paper to the wiki's [[intelligent-tutoring]] and [[game-based-learning]] threads, and it is a useful counterweight to approaches that treat game-based AI tutoring as a prediction problem.
+A solver that finds the optimal next move is not a tutor. Guidance requires knowing what the player is attempting, whether their construction is stable, and how to describe the problem in terms they can act on — and the explanation is the [[pedagogy|pedagogical]] product. Symbolic [[problem-solving|reasoning]] buys that property directly: the same representation that determines whether a bridge holds can be verbalized as a hint. This is the design logic that connects the paper to the wiki's [[intelligent-tutoring|intelligent tutoring]] and [[game-based-learning|game-based learning]] threads, and it is a useful counterweight to approaches that treat game-based AI tutoring as a prediction problem.
 
 ## Open questions the paper raises
 
-The paper is a modeling contribution, so questions of learning gain remain unanswered: whether hints of this kind actually improve spatial reasoning, and for which [[learners]], is not tested here. The authors also note that the solver's qualitative behavior opens the way to metrics — placement options, inventory count, orientation, pruning efficiency — that could quantify how humans navigate spatial path-building, which would let difficulty be calibrated to a learner rather than fixed by level design.
+The paper is a modeling contribution, so questions of learning gain remain unanswered: whether hints of this kind actually improve spatial reasoning, and for which [[learners|learners]], is not tested here. The authors also note that the solver's qualitative behavior opens the way to metrics — placement options, inventory count, orientation, pruning efficiency — that could quantify how humans navigate spatial path-building, which would let difficulty be calibrated to a learner rather than fixed by level design.
 
 ## What this means for practice
 
 - **Designers.** Use the model as a hint engine rather than a solution generator: because the same symbolic representation that decides whether a bridge holds can be verbalized, guidance can be tailored to the player's current attempt instead of revealing the optimal move.
 - **Designers.** Instrument the solver's structural metrics — placement options, inventory count, orientation and pruning efficiency — to calibrate level difficulty to a learner rather than fixing it by level design.
-- **Instructors.** Pair the puzzle with explainable, human-like hints of this kind when the instructional goal is spatial-skill training in stability and path [[visualization]] rather than game mastery.
+- **Instructors.** Pair the puzzle with explainable, human-like hints of this kind when the instructional goal is spatial-skill training in stability and path [[visualization|visualization]] rather than game mastery.
 - **Researchers.** Extend the hybrid qualitative-plus-center-of-mass approach to other physical puzzle games before assuming it generalizes, since the model encodes Camelot Jr.'s specific rules (fixed towers, a limited block inventory, every block used).
 
 ## Limitations

@@ -27,7 +27,7 @@ ai_assist:
 source_depth: full text
 ---
 
-> **Synthesis:** The paper asks whether [[automated-assessment|automated Bloom taxonomy classifiers]] trained on human-curated item banks still work on novel [[automated-question-generation|AI-generated educational questions]]. Baseline transfer is poor: TFPOS-IDF [[machine-learning]] models fall to a macro F1 of 0.48 out of distribution, DistilBERT reaches 0.55, and [[llm|LLMs]] hold 0.79 — but only on the longer, Bloom-verb-rich Scaria set, where splicing questions into sentences lifts XGBoost to 0.59 and BERT to 0.62. On Asyncform splicing does nothing and appending learning objectives is what helps; [[transfer-of-learning|retraining]] on labeled out-of-distribution data is the largest gain of all.
+> **Synthesis:** The paper asks whether [[automated-assessment|automated Bloom taxonomy classifiers]] trained on human-curated item banks still work on novel [[automated-question-generation|AI-generated educational questions]]. Baseline transfer is poor: TFPOS-IDF [[machine-learning|machine learning]] models fall to a macro F1 of 0.48 out of distribution, DistilBERT reaches 0.55, and [[llm|LLMs]] hold 0.79 — but only on the longer, Bloom-verb-rich Scaria set, where splicing questions into sentences lifts XGBoost to 0.59 and BERT to 0.62. On Asyncform splicing does nothing and appending learning objectives is what helps; [[transfer-of-learning|retraining]] on labeled out-of-distribution data is the largest gain of all.
 
 ## Key Findings
 1. **The out-of-distribution drop is steep and graded.** Feature-based ML falls from a macro F1 of 0.88 in distribution to 0.48 on Scaria and 0.20 on Asyncform; DistilBERT goes from 0.89 to 0.55 and 0.30.

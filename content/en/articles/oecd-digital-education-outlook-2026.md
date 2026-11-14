@@ -20,13 +20,13 @@ institutions: [educational-policy-ai]
 
 ## The Core Finding: Performance Is Not Learning
 
-The report's most consequential finding is that general-purpose GenAI tools (ChatGPT, Gemini, Claude) improve the *quality of student outputs* on assignments but this advantage **disappears and sometimes reverses** in exams when AI access is removed. This misalignment between task performance and genuine learning is the report's central argument for why purpose-built educational AI is necessary. When students offload cognitive tasks to chatbots, [[metacognition|metacognitive]] [[student-engagement|engagement]] drops — the mental processes that turn answers into understanding are short-circuited. See [[genai-performance-vs-learning]] and [[cognitive-offloading|Over-Reliance]].
+The report's most consequential finding is that general-purpose GenAI tools (ChatGPT, Gemini, Claude) improve the *quality of student outputs* on assignments but this advantage **disappears and sometimes reverses** in exams when AI access is removed. This misalignment between task performance and genuine learning is the report's central argument for why purpose-built educational AI is necessary. When students offload cognitive tasks to chatbots, [[metacognition|metacognitive]] [[student-engagement|engagement]] drops — the mental processes that turn answers into understanding are short-circuited. See [[genai-performance-vs-learning|Yan et al. (2025)]] and [[cognitive-offloading|Over-Reliance]].
 
 ## Educational GenAI: What Works
 
 Hybrid systems that combine GenAI with explicit [[pedagogy|pedagogical]] models show more promise than general-purpose chatbots. Examples cited include:
 
-- **Socratic Playground (SPL)**: Uses [[socratic-method|Socratic questioning]] to develop subject knowledge, [[critical-thinking|critical thinking]] and [[reflection]] rather than providing direct answers
+- **Socratic Playground (SPL)**: Uses [[socratic-method|Socratic questioning]] to develop subject knowledge, [[critical-thinking|critical thinking]] and [[reflection|reflection]] rather than providing direct answers
 - **Khanmigo**: Withholds answers and guides reasoning through questioning
 - **JeepyTA**: AI [[teacher-role|teaching]] assistant in university contexts rated comparable to human TAs in clarity and accuracy
 - **Tutor Copilot**: Mobilizes less-qualified tutors effectively through AI support
@@ -35,7 +35,7 @@ The report draws a sharp line: GenAI tools "designed or used with an intentional
 
 ## Tutoring: The 9-Percentage-Point Effect
 
-A 9-percentage-point increase in student pass rates when low-experience tutors used AI support, with smaller gains for more experienced tutors. Secondary science teachers in England saw a **31% reduction** in time spent on lesson and resource planning. This supports an augmentation model where AI boosts the least experienced practitioners the most. See [[gurung-hybrid-human-ai-tutoring-2026]].
+A 9-percentage-point increase in student pass rates when low-experience tutors used AI support, with smaller gains for more experienced tutors. Secondary science teachers in England saw a **31% reduction** in time spent on lesson and resource planning. This supports an augmentation model where AI boosts the least experienced practitioners the most. See [[gurung-hybrid-human-ai-tutoring-2026|Gurung et al., 2026]].
 
 ## Teacher Agency: Three Paradigms
 
@@ -53,7 +53,7 @@ Chapter 8 makes the case for purpose-built educational GenAI systems co-created 
 
 ## Collaborative Learning and Creativity
 
-GenAI supports [[collaborative-learning]] in four roles: information hub, personalized material generator, teacher feedback provider, and peer contributor. Studies find small-to-medium improvements in subject learning and large ones in critical thinking and teamwork (Ch.4). For [[creativity]], GenAI works best when used "slowly" for iterative exploration and reflection, not for instant content generation (Ch.5).
+GenAI supports [[collaborative-learning|collaborative learning]] in four roles: information hub, personalized material generator, teacher feedback provider, and peer contributor. Studies find small-to-medium improvements in subject learning and large ones in critical thinking and teamwork (Ch.4). For [[creativity|creativity]], GenAI works best when used "slowly" for iterative exploration and reflection, not for instant content generation (Ch.5).
 
 ## System-Level and Assessment Applications
 

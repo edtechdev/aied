@@ -16,7 +16,7 @@ audience: [instructors, instructional designers, faculty developers]
 
 > **Synthesis:** The guide adopts a middle way between "techno-fixing" and rejecting AI as an existential threat. It argues that:
 
-> A comprehensive educator's guide to integrating [[generative-ai|Generative AI]] into [[multimodal]] [[teacher-role|teaching]], learning, and assessment across [[higher-ed|higher education]]. Built on Kress's social semiotic theory of multimodality, the guide positions GenAI as a 'cyber-social' partner that complements—but cannot replace—human meaning-making. It proposes the **MMLD-AI** unifying model (UDL + ABC [[learning-design|Learning Design]]) and the **Dual-Track Cyber-Social Learning Model** for designing effective [[human-ai-collaboration|human-AI collaboration]].^varga-atkins-educators-guide-multimodal-learning-genai-2025
+> A comprehensive educator's guide to integrating [[generative-ai|Generative AI]] into [[multimodal|multimodal]] [[teacher-role|teaching]], learning, and assessment across [[higher-ed|higher education]]. Built on Kress's social semiotic theory of multimodality, the guide positions GenAI as a 'cyber-social' partner that complements—but cannot replace—human meaning-making. It proposes the **MMLD-AI** unifying model (UDL + ABC [[learning-design|Learning Design]]) and the **Dual-Track Cyber-Social Learning Model** for designing effective [[human-ai-collaboration|human-AI collaboration]].^varga-atkins-educators-guide-multimodal-learning-genai-2025
 
 ## Core Position: Pragmatic, Not Uncritical
 
@@ -32,7 +32,7 @@ The guide adopts a middle way between "techno-fixing" and rejecting AI as an exi
 |-------------|-------------|---------------------|
 | **Individual** | Privacy, data protection, [[equity-in-ai-education|equity]] of access, [[well-being|mental health]], over-reliance | Transparent authorship; approved tools list; scaffolded critical [[student-engagement|engagement]] |
 | **Environment** | Image/video/audio generation uses significantly more energy than text | Mindful use; limit iterations; group demonstrations; digital decluttering |
-| **Knowledge** | Removes sourcing process integral to retention; short-term gains may displace deep learning | Students clarify own understanding *before* consulting AI; metacognitive [[scaffolding]] |
+| **Knowledge** | Removes sourcing process integral to retention; short-term gains may displace deep learning | Students clarify own understanding *before* consulting AI; metacognitive [[scaffolding|scaffolding]] |
 | **Future Jobs** | Entry-level white-collar roles vulnerable to automation | Focus on human strengths: contextual reasoning, ethical judgment, craftsmanship |
 
 ## AI Literacy in Multimodal Contexts
@@ -49,7 +49,7 @@ The guide adopts a middle way between "techno-fixing" and rejecting AI as an exi
 |-------|-----------|
 | **Individual** | Workshops on creative multimodal tasks; prompt crafting practice; reflective assignments documenting AI use |
 | **Module** | Embed GenAI literacy into [[learning-gains|learning outcomes]]; optional multimodal tasks with clear rubrics; creative/reflective critique components |
-| **Program** | Cross-module policies; consistency and transparency via workshops and discussion; alignment with graduate attributes (criticality, [[creativity]], digital fluency) |
+| **Program** | Cross-module policies; consistency and transparency via workshops and discussion; alignment with graduate attributes (criticality, [[creativity|creativity]], digital fluency) |
 | **[[governance|Institutional]]** | Clear policies with checklists; vetted tools; [[privacy|data privacy]] protocols enforced; avoid rigid mandates in favor of flexible guidance |
 
 ## The MMLD-AI Unifying Model
@@ -77,7 +77,7 @@ This complementary model maps human vs. AI strengths across Bloom's taxonomy pro
 |---------|----------------|--------------|---------------------|
 | Knowledge & framing | Contextual understanding; [[embodied-learning|embodied]] knowledge; critical verification | Rapid data retrieval; pattern recognition; broad topical coverage | Humans define purpose and frame problems; AI generates background data and inspiration; humans filter and verify |
 | Interpretation & analysis | Causal reasoning; cultural/ethical awareness; implicit meaning | Correlation analysis; theme identification; feature extraction at scale | AI identifies statistical patterns; humans determine causality, relevance, deeper significance |
-| Application & prototyping | [[situated-learning|Situated]] judgment; adaptive [[problem-solving]]; ethical decision-making; craftsmanship | Rapid simulation; consistent rule application; code/digital artifact generation | AI generates digital prototypes; humans adapt for real-world complexity, apply physical craft, ensure ethics |
+| Application & prototyping | [[situated-learning|Situated]] judgment; adaptive [[problem-solving|problem-solving]]; ethical decision-making; craftsmanship | Rapid simulation; consistent rule application; code/digital artifact generation | AI generates digital prototypes; humans adapt for real-world complexity, apply physical craft, ensure ethics |
 | Synthesis & creation | Novel conceptual blending; purpose-driven integration | Cross-domain pattern integration; combinatorial exploration | AI explores possible combinations; humans evaluate, refine, and integrate meaningfully |
 
 ## Practical Integration: Three Strands
@@ -96,7 +96,7 @@ This complementary model maps human vs. AI strengths across Bloom's taxonomy pro
 
 ### Assessment and Feedback
 - Multimodal assessment: students submit artifacts combining text, image, audio, video
-- AI-assisted peer and [[self-assessment]] with structured rubrics
+- AI-assisted peer and [[self-assessment|self-assessment]] with structured rubrics
 - Educators use GenAI to generate formative feedback at scale, then verify and personalize
 - Transparent: assessment briefs explicitly state when and how GenAI may be used
 
@@ -104,14 +104,14 @@ This complementary model maps human vs. AI strengths across Bloom's taxonomy pro
 
 | Guide Principle | Knowledge Base Connection |
 |-----------------|----------------|
-| Cyber-social partnership (complementary strengths) | [[finkelstein-principled-ai-education-2025]] — "AI must augment, not displace" aligns perfectly |
-| Four costs framework (individual, environment, knowledge, jobs) | [[hazra-safetutors-pedagogical-safety-2026]] — Costs to knowledge overlap with [[cognitive-offloading|cognitive offloading]]; environmental costs are a new dimension |
-| AI literacy levels and scales | [[ai-literacy]] — [[icap-framework|ICAP]] framework; [[collaborative-learning|collaborative learning]]; this guide adds institutional scaling and multimodal specificity |
-| MMLD-AI model (UDL + ABC + six engagement types) | [[adaptive-learning]] — Multi-resolution [[personalized-learning|personalization]]; [[agentic-workflows-education]] — Planning and reflection paradigms |
-| Dual-Track Cyber-Social Model | [[llm-training-and-fine-tuning]] — Reward "guiding" over "answering"; [[human-in-the-loop-ai]] — Human verification of AI outputs |
-| Multimodal assessment redesign | [[authentic-assessment]] — Six-dimensional framework; [[formative-assessment]] — AI-generated feedback with human validation |
-| Scaffolding and metacognition | [[self-regulated-learning]] — UDL's emphasis on [[agency|student agency]]; [[metacognition]] — Cyber-social metacognitive awareness |
-| Faculty development across four scales | [[educational-development]] — CTL pragmatic transition model; this guide adds module-level and program-level strategies |
+| Cyber-social partnership (complementary strengths) | [[finkelstein-principled-ai-education-2025|Finkelstein (2025)]] — "AI must augment, not displace" aligns perfectly |
+| Four costs framework (individual, environment, knowledge, jobs) | [[hazra-safetutors-pedagogical-safety-2026|Hazra et al. (2026)]] — Costs to knowledge overlap with [[cognitive-offloading|cognitive offloading]]; environmental costs are a new dimension |
+| AI literacy levels and scales | [[ai-literacy|AI literacy]] — [[icap-framework|ICAP]] framework; [[collaborative-learning|collaborative learning]]; this guide adds institutional scaling and multimodal specificity |
+| MMLD-AI model (UDL + ABC + six engagement types) | [[adaptive-learning|adaptive learning]] — Multi-resolution [[personalized-learning|personalization]]; [[agentic-workflows-education|Kamalov et al. (2026)]] — Planning and reflection paradigms |
+| Dual-Track Cyber-Social Model | [[llm-training-and-fine-tuning|LLM training and fine-tuning]] — Reward "guiding" over "answering"; [[human-in-the-loop-ai|human-in-the-loop]] — Human verification of AI outputs |
+| Multimodal assessment redesign | [[authentic-assessment|authentic assessment]] — Six-dimensional framework; [[formative-assessment|formative assessment]] — AI-generated feedback with human validation |
+| Scaffolding and metacognition | [[self-regulated-learning|self-regulated learning]] — UDL's emphasis on [[agency|student agency]]; [[metacognition|metacognition]] — Cyber-social metacognitive awareness |
+| Faculty development across four scales | [[educational-development|educational development]] — CTL pragmatic transition model; this guide adds module-level and program-level strategies |
 
 ## Case Study Themes from the Guide
 
@@ -135,7 +135,7 @@ The guide includes 15+ educator case studies spanning:
 
 - **Instructors.** Require critique before adoption: build tasks in which students must extend, adapt, critique, or even abandon genAI output rather than submit it wholesale. The guide names uncritical adoption as its first challenge to creative thinking.
 - **Instructors.** Protect unmediated work. The guide warns that the convenience of these tools can foster dependence that erodes independent research, critical analysis, and [[self-regulated-learning|self-regulation]], so state explicitly when GenAI may support a task and when the task is to be done without it.
-- **Instructional designers.** Insert deliberate pause points for [[reflection]] into AI-mediated tasks: automated summaries and visualizations can supply answers too quickly and compress the stages of the learning cycle where reflection happens.
+- **Instructional designers.** Insert deliberate pause points for [[reflection|reflection]] into AI-mediated tasks: automated summaries and visualizations can supply answers too quickly and compress the stages of the learning cycle where reflection happens.
 - **Faculty developers.** Choose platforms by purpose rather than novelty. Work through the guide's selection checks — the intended learning outcome, whether visuals, audio or video are genuinely needed, students' digital skills and device access, and bias, privacy and representation — and keep the vetted tools list current, because free access and premium tiers change constantly.
 - **Faculty developers.** Design for the tasks students themselves valued: in the project's focus groups, students responded positively to [[authentic-assessment|real-world]] tasks such as building websites or designing exhibitions, which points to assessment artifacts worth the multimodal effort.
 

@@ -15,11 +15,11 @@ confidence: high
 
 > **Synthesis:** Presents FORAP (Framework for Organizing Reusable and Adaptable [[project-based-learning|Project-Based Learning]] projects) and a [[eportfolio|portfolio]] of 14 adoption-ready PjBL packages for computing education. The framework addresses the gap between PjBL's known benefits and its slow classroom adoption by making projects reusable, adaptable, and scalable across contexts.
 
-Anchors in [[active-learning]] and [[active-learning]] practice for [[k-12]] and [[higher-ed]], connecting to [[cs-education]] and [[stem-education]] implementation. It complements [[scaffolding]] approaches by providing structures teachers can adopt without rebuilding from scratch, lowering barriers to [[teacher-role]] adoption of hands-on computing [[pedagogy]].
+Anchors in [[active-learning|active learning]] and [[active-learning|active learning]] practice for [[k-12]] and [[higher-ed|higher education]], connecting to [[cs-education|CS education]] and [[stem-education|STEM education]] implementation. It complements [[scaffolding|scaffolding]] approaches by providing structures teachers can adopt without rebuilding from scratch, lowering barriers to [[teacher-role|teacher role]] adoption of hands-on computing [[pedagogy|pedagogy]].
 
 ## What this means for practice
 
-- **Instructors.** Adopt an existing package instead of building from scratch: FORAP organizes 14 adoption-ready [[project-based-learning]] project packages that are meant to be reused and adapted across course levels rather than rebuilt by each instructor.
+- **Instructors.** Adopt an existing package instead of building from scratch: FORAP organizes 14 adoption-ready [[project-based-learning|project-based learning]] project packages that are meant to be reused and adapted across course levels rather than rebuilt by each instructor.
 - **Instructors.** Budget for maintenance as a first-class cost. The authors note that installation and configuration materials become outdated quickly as dependencies, software versions, and platforms change, so plan a review cycle for every project you adopt.
 - **Instructors.** Decide how AI-assisted development changes the assignment before you deploy it: the authors flag that AI help with coding, debugging, and system integration raises open questions about designing projects and assessments that still promote deep understanding.
 - **Instructors.** Require instructor review of every support material — including AI-drafted or revised ones — for technical correctness and alignment with the learning objectives, since such materials remain instructor-facing infrastructure rather than student handouts.

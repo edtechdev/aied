@@ -49,7 +49,7 @@ The most-cited items are not ethics frameworks. They are capability tests: ChatG
 ## What this means for practice
 
 - **Read a growth curve as an agenda, not a validation.** The field's rapid expansion tracks tool availability, not accumulated evidence about safe use. When adopting an AI tool in a medical [[curriculum-design|curriculum]], the volume of published work on it is not evidence that its governance questions have been answered.
-- **Treat governance as an empirical question.** The authors' own recommendation is that [[governance]] frameworks should be evaluated rather than asserted; that means asking which policy actually changed what a student or patient experienced, and recording it.
+- **Treat governance as an empirical question.** The authors' own recommendation is that [[governance|governance]] frameworks should be evaluated rather than asserted; that means asking which policy actually changed what a student or patient experienced, and recording it.
 - **Check who the evidence comes from.** With the authorship network concentrated in a few countries and institutions, findings about AI in [[medical-education|clinical training]] carry context that may not transfer — particularly for programs outside the English-language, high-resource settings that dominate the corpus.
 - **Pair capability studies with consequence studies.** The citation record rewards measuring model performance on licensing exams. The complementary work — what changes in learning, supervision, error detection or [[equity-in-ai-education|equity]] when those models enter a curriculum — is what the map shows is missing.
 

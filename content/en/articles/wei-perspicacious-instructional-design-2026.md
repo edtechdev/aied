@@ -35,7 +35,7 @@ verified: [citation, numbers, links]
 4. **Cost scales with the deadline, not just the bank.** On a 576-question bank the engine cost \$1.98–4.11 and took 36–158 minutes; a fitted model over 17 production runs explained 97% of variance in completion time.
 5. **Small jobs are dominated by start-up.** A 64-question bank took 21 minutes on a single instance, 92% of it waiting for the instance to start, against 13% overhead for a full course bank.
 6. **[[trust|Trust]] was the stated condition for adoption.** Two participants made use conditional on trusting output, citing [[hallucination-risk|hallucination]] and wanting generation grounded in uploaded source material; the interface currently cannot show why a question was produced.
-7. **Four deployment requirements came out of the study.** Steerability over difficulty, reading level and item type; expressiveness (option-specific [[feedback]], formats beyond multiple choice); provenance; and warm instances or batching for small jobs.
+7. **Four deployment requirements came out of the study.** Steerability over difficulty, reading level and item type; expressiveness (option-specific [[feedback|feedback]], formats beyond multiple choice); provenance; and warm instances or batching for small jobs.
 
 ## How the platform and the study are built
 

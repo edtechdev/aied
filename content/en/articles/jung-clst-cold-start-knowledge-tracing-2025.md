@@ -21,7 +21,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Jung, Yoo, Yoon and Jang align a generative [[llm|large language model]] with [[knowledge-tracing]] by expressing the task itself as natural language and fine-tuning the model on problem-solving histories. Their CLST, trained on fewer than 100 students, matched or beat every ID-based baseline in cold-start scenarios across mathematics, social studies and science, and transferred across subjects when target-domain data was scarce. Fine-tuning proved essential, description-based exercise representation beat ID-based representation, and mastery estimates for related knowledge components moved together.
+> **Synthesis:** Jung, Yoo, Yoon and Jang align a generative [[llm|large language model]] with [[knowledge-tracing|knowledge tracing]] by expressing the task itself as natural language and fine-tuning the model on problem-solving histories. Their CLST, trained on fewer than 100 students, matched or beat every ID-based baseline in cold-start scenarios across mathematics, social studies and science, and transferred across subjects when target-domain data was scarce. Fine-tuning proved essential, description-based exercise representation beat ID-based representation, and mastery estimates for related knowledge components moved together.
 
 ## Key Findings
 

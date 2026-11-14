@@ -29,7 +29,7 @@ foundations: [misconceptions]
 - **Instructors.** Review every generated misconception before class — LLMs such as [[generative-ai|ChatGPT]]-4o may occasionally provide misconceptions based on content errors rather than the intended conceptual target — and keep statements that isolate a single concept.
 - **Instructors.** Run short group presentations in which students identify and explain each LLM-generated misconception, then have groups converse in a [[socratic-method|Socratic]] role-play to work through it.
 - **Instructors.** Assess afterward by re-uploading anonymized student examination answers and lecture notes, using the comparison to judge whether the discussion changed students' [[misconceptions|understanding]].
-- **Instructors.** Teach students to flag absolute qualifiers such as "all" or "every" inside LLM-generated misconceptions, building the [[critical-thinking]] and misinformation-literacy skill the framework is designed to cultivate.
+- **Instructors.** Teach students to flag absolute qualifiers such as "all" or "every" inside LLM-generated misconceptions, building the [[critical-thinking|critical thinking]] and misinformation-literacy skill the framework is designed to cultivate.
 
 ## Limitations
 

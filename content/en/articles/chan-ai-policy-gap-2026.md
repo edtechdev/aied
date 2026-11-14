@@ -28,7 +28,7 @@ institutions: [educational-policy-ai, governance, regulation]
 ethics: [ai-use-disclosure, privacy]
 ---
 
-> **Synthesis:** Chan (2026) analyzed 56 AI-related policy documents from 46 research funding bodies across the US, the UK, Europe, Australia, Singapore, Mainland China and Hong Kong, and found that only 12 of the 46 had a policy written for funding applications and peer review. Human-centeredness and safeguarding dominated the corpus while [[governance]] and AI readiness appeared only in general institutional policies. The contribution is a map of a [[educational-policy-ai|policy layer]] that national AI strategies do not reach — and a record of what funders publish, not of what it changes.
+> **Synthesis:** Chan (2026) analyzed 56 AI-related policy documents from 46 research funding bodies across the US, the UK, Europe, Australia, Singapore, Mainland China and Hong Kong, and found that only 12 of the 46 had a policy written for funding applications and peer review. Human-centeredness and safeguarding dominated the corpus while [[governance|governance]] and AI readiness appeared only in general institutional policies. The contribution is a map of a [[educational-policy-ai|policy layer]] that national AI strategies do not reach — and a record of what funders publish, not of what it changes.
 
 ## Key Findings
 
@@ -45,7 +45,7 @@ The sharpest result is a mismatch with the literature. Studies of national polic
 
 The institutional pattern predicts where rules appear. Funding-specific policies cluster in dedicated research agencies whose mandate is allocating money — the National Science Foundation, the National Institutes of Health. General policies cluster in multi-mission departments where research funding is one function among several — NASA. An agency whose business is grants writes grant rules; a department that also funds research writes the policy its own operations need.
 
-The regional finding reaches the same absence by another route. Chan reads the empty Asian column as centralization: where [[regulation]] arrives as state directives across sectors, funding bodies operate inside them and feel less need to write their own. The consequence for a researcher is concrete: a Hong Kong applicant may face no funding-specific AI condition while a US collaborator faces disclosure requirements, reviewer prohibitions and a contract that carries them. The paper argues this asymmetry could disadvantage Asian institutions in collaborations — an inference from the distribution, not a measured outcome.
+The regional finding reaches the same absence by another route. Chan reads the empty Asian column as centralization: where [[regulation|regulation]] arrives as state directives across sectors, funding bodies operate inside them and feel less need to write their own. The consequence for a researcher is concrete: a Hong Kong applicant may face no funding-specific AI condition while a US collaborator faces disclosure requirements, reviewer prohibitions and a contract that carries them. The paper argues this asymmetry could disadvantage Asian institutions in collaborations — an inference from the distribution, not a measured outcome.
 
 ## What the two missing themes cost
 

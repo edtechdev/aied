@@ -28,7 +28,7 @@ The Crew Scaler framework organizes rapid [[lifelong-learning|upskilling]] as an
 | Knowledge Acquisition | [[llm|LLM]]-assisted domain exploration & extraction | Prerequisite-ordered 4-level hierarchy | Blueprint coverage checks |
 | Content Development | AI-drafted chapters; condensation passes | One-new-element pacing; 70/20/10 review | Fixed templates; six-pass revision |
 | Content Review & Verification | Automated [[hallucination-risk|hallucination]] & faithfulness checks | Defects caught before learners study | SME audit; immutable audit trail |
-| AI-Tutor Coaching | Scalable one-to-one protocolized [[intelligent-tutoring|tutoring]] | Intent- and affect-adaptive protocols | Integrity [[guardrails]]; grounded [[rag|RAG]] |
+| AI-Tutor Coaching | Scalable one-to-one protocolized [[intelligent-tutoring|tutoring]] | Intent- and affect-adaptive protocols | Integrity [[guardrails|guardrails]]; grounded [[rag|RAG]] |
 | Assessment Development | AI-generated items & distractors | Misconception-targeted diagnostic distractors | Blueprint tagging; difficulty distribution |
 
 Humans retain high-judgment roles (blueprint design, SME review, misconception authoring, item rating) while AI absorbs volume work, keeping human expertise in the *multiplier* regime.
@@ -37,7 +37,7 @@ Humans retain high-judgment roles (blueprint design, SME review, misconception a
 
 - **Knowledge hierarchy**: content organized into 4 levels—foundational, building blocks, integrated concepts, advanced—with strict dependency chains
 - **16 tutoring protocols**: including [[socratic-method|Socratic questioning]], worked examples, hint escalation, spaced retrieval, [[productive-failure|productive failure]], and [[affective-tutoring|affective support]] (prioritizing boredom over frustration)
-- **Misconception-keyed distractors**: every assessment item traces to an atomic knowledge item with documented [[misconceptions]]; distractors engineered from misconceptions, not invented ad-hoc
+- **Misconception-keyed distractors**: every assessment item traces to an atomic knowledge item with documented [[misconceptions|misconceptions]]; distractors engineered from misconceptions, not invented ad-hoc
 - **Hallucination verification**: four-type taxonomy (factual, reasoning, contextual, true fabrications) with RAGAS-adapted accuracy standards
 - **530-question assessment bank** tagged to a 10-domain, 53-skill blueprint
 
@@ -54,14 +54,14 @@ Three independent, externally checkable signals:
 The paper identifies four gaps in existing frameworks:
 - **Fragmentation**: no framework covers end-to-end from knowledge acquisition through industry [[formative-assessment|assessment]]
 - **Missing verification**: [[hallucination-risk|hallucination detection]] (~60% rate on post-cutoff questions) is absent from education pipelines
-- **Shallow [[pedagogy]]**: default LLM tutoring achieves only 52–70% correct actions
+- **Shallow [[pedagogy|pedagogy]]**: default LLM tutoring achieves only 52–70% correct actions
 - **Self-referential validation**: most frameworks generate their own success measures rather than facing external standards
 
 ## What this means for practice
 
 - **Instructional designers.** Pair every AI generation step with a verification step rather than publishing AI output directly: the framework puts automated [[hallucination-risk|hallucination]] and faithfulness checks plus an SME audit with an immutable audit trail between drafting and delivery.
 - **Curriculum designers.** Order content along strict prerequisite dependencies across all four hierarchy levels and schedule spaced review, then tag every item to the blueprint — the 530-question bank is keyed to a 10-domain, 53-skill map.
-- **Instructional designers.** Engineer distractors from documented atomic [[misconceptions]] instead of inventing them ad hoc, so an incorrect response diagnoses the misconception rather than only marking the learner wrong.
+- **Instructional designers.** Engineer distractors from documented atomic [[misconceptions|misconceptions]] instead of inventing them ad hoc, so an incorrect response diagnoses the misconception rather than only marking the learner wrong.
 - **Curriculum designers.** Automate volume work and reserve human effort for blueprint design, SME review, misconception authoring, and item rating; the framework's claim is that keeping judgment tasks human is what keeps the verification stages meaningful.
 - **Administrators.** Seek an external standard rather than [[self-report-measures|self-reported]] success: the program's strongest claims are a NASBA [[professional-training|CPE]] accreditation review and a vendor certification exam, not internally defined measures.
 

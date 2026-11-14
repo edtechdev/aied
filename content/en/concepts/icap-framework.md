@@ -1,7 +1,7 @@
 ---
 title: ICAP Framework
 created: "2026-08-14T04:33:38-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -11,7 +11,7 @@ confidence: high
 reviewed_by: [editor]
 ---
 
-> **The ICAP Framework** (Interactive–Constructive–Active–Passive) — a taxonomy of cognitive engagement developed by Michelene Chi that classifies learner behavior into four modes of knowledge change, ordered from least to most cognitively engaged: *passive*, *active*, *constructive*, and *interactive*. In [[ai-education|AI in education]], ICAP provides both a design target (build tools that elicit constructive and interactive engagement rather than passive consumption) and an evaluation lens (measure whether learners and AI systems are actually engaged at the higher modes).([[hingle-collaborative-ai-literacy-2025]])([[icap-cognitive-engagement-llm-agents]])
+> **The ICAP Framework** (Interactive–Constructive–Active–Passive) — a taxonomy of cognitive engagement developed by Michelene Chi that classifies learner behavior into four modes of knowledge change, ordered from least to most cognitively engaged: *passive*, *active*, *constructive*, and *interactive*. In [[ai-education|AI in education]], ICAP provides both a design target (build tools that elicit constructive and interactive engagement rather than passive consumption) and an evaluation lens (measure whether learners and AI systems are actually engaged at the higher modes).([[hingle-collaborative-ai-literacy-2025|Hingle et al., 2025]])([[icap-cognitive-engagement-llm-agents|Do et al., 2026]])
 
 ## Questions to Consider
 
@@ -39,11 +39,11 @@ ICAP is grounded in the assumption that *what learners do* determines how much a
 
 ### A design target for AI tools
 
-ICAP reframes the central design question for AI in education: an AI tool that *answers for* the learner keeps them in passive/active modes, while a tool that *prompts, questions, and [[scaffolding|scaffolds]]* can push learners toward constructive and interactive engagement. This aligns ICAP with [[constructivist]] [[pedagogy]] and with [[active-learning]] research.([[multimodal-learning-genai]])([[hingle-collaborative-ai-literacy-2025]])
+ICAP reframes the central design question for AI in education: an AI tool that *answers for* the learner keeps them in passive/active modes, while a tool that *prompts, questions, and [[scaffolding|scaffolds]]* can push learners toward constructive and interactive engagement. This aligns ICAP with [[constructivist|constructivism]] [[pedagogy|pedagogy]] and with [[active-learning|active learning]] research.([[multimodal-learning-genai|Varga-Atkins et al., 2026]])([[hingle-collaborative-ai-literacy-2025|Hingle et al., 2025]])
 
 ### An evaluation lens for AI agents
 
-ICAP also serves as a measurement framework. In one study, researchers extended ICAP to a 7-point scale to characterize cognitive engagement in collaborative dialogue, then compared trained human annotators with [[llm]]-based labeling (in-context learning, zero-shot [[prompt-engineering|prompting]], and reflective agents). Human interrater reliability (kappa = 0.906–0.998) far exceeded LLM annotation (kappa = 0.541–0.609), highlighting ICAP's role — and current limits — in automated engagement measurement for [[learning-analytics]] pipelines.([[icap-cognitive-engagement-llm-agents]])
+ICAP also serves as a measurement framework. In one study, researchers extended ICAP to a 7-point scale to characterize cognitive engagement in collaborative dialogue, then compared trained human annotators with [[llm|LLM]]-based labeling (in-context learning, zero-shot [[prompt-engineering|prompting]], and reflective agents). Human interrater reliability (kappa = 0.906–0.998) far exceeded LLM annotation (kappa = 0.541–0.609), highlighting ICAP's role — and current limits — in automated engagement measurement for [[learning-analytics|learning analytics]] pipelines.([[icap-cognitive-engagement-llm-agents|Do et al., 2026]])
 
 ### Guiding collaborative-dialogue facilitation
 
@@ -51,21 +51,21 @@ Because interactive engagement is the highest ICAP mode, the framework helps loc
 
 ### ICAP and learning analytics design
 
-ICAP underlies critiques of shallow "engagement" metrics: interacting with a dashboard by clicking filters is *active*, not *interactive*, engagement. Effective learning-analytics designs elicit [[self-assessment]] and two-way dialogue rather than merely displaying data — an implication drawn directly from Chi's framework.([[interactive-learning-dashboards-engagement]])
+ICAP underlies critiques of shallow "engagement" metrics: interacting with a dashboard by clicking filters is *active*, not *interactive*, engagement. Effective learning-analytics designs elicit [[self-assessment|self-assessment]] and two-way dialogue rather than merely displaying data — an implication drawn directly from Chi's framework.([[interactive-learning-dashboards-engagement|Graf et al., 2026]])
 
 ### The Active→Constructive transition as the pivotal step
 
-Although ICAP describes a hierarchy, the most consequential shift for learning is the jump from *Active* to *Constructive* modes (Chi & Boucher, 2023). Active engagement (applying knowledge to similar-but-non-identical scenarios) prepares learners, but it is Constructive engagement — generating explanations, summaries, or new artifacts — that equips them to create new knowledge. This is the crux for AI in education: a tool that keeps learners in the Active mode (e.g., clicking through adaptive practice) may look productive but never pushes them into the constructive generation that yields durable understanding. Collaborative and literacy-focused interventions that deliberately scaffold the Active→Constructive leap tend to show the strongest gains.([[hingle-collaborative-ai-literacy-2025]])
+Although ICAP describes a hierarchy, the most consequential shift for learning is the jump from *Active* to *Constructive* modes (Chi & Boucher, 2023). Active engagement (applying knowledge to similar-but-non-identical scenarios) prepares learners, but it is Constructive engagement — generating explanations, summaries, or new artifacts — that equips them to create new knowledge. This is the crux for AI in education: a tool that keeps learners in the Active mode (e.g., clicking through adaptive practice) may look productive but never pushes them into the constructive generation that yields durable understanding. Collaborative and literacy-focused interventions that deliberately scaffold the Active→Constructive leap tend to show the strongest gains.([[hingle-collaborative-ai-literacy-2025|Hingle et al., 2025]])
 
 The "strongest gains" part of that claim is an inference from the framework rather than a comparison the review ran. The nine-study review behind it (2015–2023) counts how many interventions *included* each mode (9 passive, 5 active, 7 constructive, 8 interactive), reports no effect size by mode, and notes that no included study relied on a single mode, so nothing in it isolates the Active→Constructive leap ([[hingle-collaborative-ai-literacy-2025|Hingle et al., 2025]]). The ordering is Chi's; what the review adds is that practitioners combine modes rather than choose one.
 
 ### ICAP as an adaptive-scaffolding signal in ITS
 
-ICAP's modes can be operationalized as *target states* that an [[intelligent-tutoring|adaptive tutor]] selects among to scaffold cognitive engagement based on an evolving [[student-modeling|student model]]. In a logic ITS, [[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi et al.]] dynamically chose between an *Active* "Guided" worked-example mode and a *Constructive* "Buggy" example mode. Comparing Bayesian Knowledge Tracing (BKT) against Deep [[reinforcement-learning|Reinforcement Learning]] (DRL) and a non-adaptive baseline over 113 students, both adaptive policies improved posttest performance — but in a differentiated way: BKT gave the largest gains to low-prior-knowledge students (helping them catch up), while DRL produced the highest posttest scores among high-prior-knowledge students. This is a concrete demonstration that effectively *personalizing* the ICAP mode of an intelligent tutor depends on modeling the learner's current knowledge — and that no single mode or adaptive method suits every learner. It connects the ICAP hierarchy directly to [[adaptive-learning]] and [[knowledge-tracing]] design.
+ICAP's modes can be operationalized as *target states* that an [[intelligent-tutoring|adaptive tutor]] selects among to scaffold cognitive engagement based on an evolving [[student-modeling|student model]]. In a logic ITS, [[adaptive-scaffolding-cognitive-engagement-its|Dey Tithi et al.]] dynamically chose between an *Active* "Guided" worked-example mode and a *Constructive* "Buggy" example mode. Comparing Bayesian Knowledge Tracing (BKT) against Deep [[reinforcement-learning|Reinforcement Learning]] (DRL) and a non-adaptive baseline over 113 students, both adaptive policies improved posttest performance — but in a differentiated way: BKT gave the largest gains to low-prior-knowledge students (helping them catch up), while DRL produced the highest posttest scores among high-prior-knowledge students. This is a concrete demonstration that effectively *personalizing* the ICAP mode of an intelligent tutor depends on modeling the learner's current knowledge — and that no single mode or adaptive method suits every learner. It connects the ICAP hierarchy directly to [[adaptive-learning|adaptive learning]] and [[knowledge-tracing|knowledge tracing]] design.
 
 ### ICAP as a model of cognitive state for generating human-like agents
 
-Beyond selecting task modes, ICAP has been embedded directly into the *cognitive model* of a generative educational agent. [[cogevolution-student-cognitive-evolution-agent-2026|CogEvolution]] builds an ICAP-based "cognitive depth perceptron" that maps inputs to a probability distribution across the four ICAP levels, fusing this with evolutionary-inspired state updates and [[item-response-theory]] memory retrieval to simulate a student's cognitive evolution (including transitions such as confusion → insight). Ablations show that removing the ICAP perception module collapses the agent's ability to distinguish shallow from deep learning — evidence that the ICAP taxonomy can serve as a fine-grained, internal measure of cognitive engagement for [[simulating-students|student simulation]], not merely an external evaluation lens.
+Beyond selecting task modes, ICAP has been embedded directly into the *cognitive model* of a generative educational agent. [[cogevolution-student-cognitive-evolution-agent-2026|CogEvolution]] builds an ICAP-based "cognitive depth perceptron" that maps inputs to a probability distribution across the four ICAP levels, fusing this with evolutionary-inspired state updates and [[item-response-theory|item response theory]] memory retrieval to simulate a student's cognitive evolution (including transitions such as confusion → insight). Ablations show that removing the ICAP perception module collapses the agent's ability to distinguish shallow from deep learning — evidence that the ICAP taxonomy can serve as a fine-grained, internal measure of cognitive engagement for [[simulating-students|student simulation]], not merely an external evaluation lens.
 
 ### ICAP anchors assessment of reflective GenAI interaction
 
@@ -73,10 +73,10 @@ ICAP's emphasis on generative, process-level engagement has been adopted by asse
 
 ## Implications for design and research
 
-1. **Design for the higher modes.** AI tools should prompt learners to generate, explain, and dialogue — constructive and interactive activity — rather than deliver passive content or act as answer machines.([[multimodal-learning-genai]])
-2. **Engage learners across modes.** Effective [[ai-literacy|AI literacy]] instruction engages learners at multiple ICAP levels — passive exposure, active manipulation, constructive generation, and interactive dialogue — selecting the mode that fits the learning goal.([[hingle-collaborative-ai-literacy-2025]])
-3. **Measure engagement honestly.** ICAP gives researchers and designers a common vocabulary for distinguishing genuine cognitive engagement from mere activity — a corrective to shallow [[student-engagement]].([[icap-cognitive-engagement-llm-agents]])
-4. **Watch the human–LLM annotation gap.** If automated systems are used to code engagement, their systematic shortfall relative to trained humans must be accounted for.([[icap-cognitive-engagement-llm-agents]])
+1. **Design for the higher modes.** AI tools should prompt learners to generate, explain, and dialogue — constructive and interactive activity — rather than deliver passive content or act as answer machines.([[multimodal-learning-genai|Varga-Atkins et al., 2026]])
+2. **Engage learners across modes.** Effective [[ai-literacy|AI literacy]] instruction engages learners at multiple ICAP levels — passive exposure, active manipulation, constructive generation, and interactive dialogue — selecting the mode that fits the learning goal.([[hingle-collaborative-ai-literacy-2025|Hingle et al., 2025]])
+3. **Measure engagement honestly.** ICAP gives researchers and designers a common vocabulary for distinguishing genuine cognitive engagement from mere activity — a corrective to shallow [[student-engagement|student engagement]].([[icap-cognitive-engagement-llm-agents|Do et al., 2026]])
+4. **Watch the human–LLM annotation gap.** If automated systems are used to code engagement, their systematic shortfall relative to trained humans must be accounted for.([[icap-cognitive-engagement-llm-agents|Do et al., 2026]])
 
 Task design, not only tool design, sets the ceiling. Across 829 coded threads in 40 university courses, artifacts produced where dialogue was Constructive or Interactive drew modestly higher peer ratings of final quality ([[zhuang-dialogue-to-task-cognitive-engagement-2026|Zhuang et al. (2026)]]).
 

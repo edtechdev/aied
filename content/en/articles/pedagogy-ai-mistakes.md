@@ -52,11 +52,11 @@ Across components, AI's imperfect outputs serve as catalysts for evaluation, pos
 
 ## Study design and measures
 
-Thirteen students in an asynchronously delivered undergraduate database design course emphasizing [[self-directed-learning|self-directed learning]] completed a [[prior-knowledge]] survey that combined self-reported AI and database literacy (5-point Likert) with objective multiple-choice measures, capturing initial confidence versus actual knowledge.
+Thirteen students in an asynchronously delivered undergraduate database design course emphasizing [[self-directed-learning|self-directed learning]] completed a [[prior-knowledge|prior knowledge]] survey that combined self-reported AI and database literacy (5-point Likert) with objective multiple-choice measures, capturing initial confidence versus actual knowledge.
 
 ### AI literacy and competency
 
-AI literacy/competency was measured with a two-part questionnaire: six self-assessment items adapted from the AILQ and MAILS instruments (covering self-efficacy, application, [[ethics]], and evaluation) and five objective multiple-choice questions spanning three [[generative-ai|generative AI]] domains — conceptual knowledge (tokens, prompts), [[prompt-engineering|prompt engineering]] (few-shot prompting, format instruction), and model adaptation (fine-tuning). Agreement was strongest on ethics (67% agreement, 0% disagreement) and weakest on self-efficacy (45.5%), pointing to uncertainty about applying AI to complex tasks.
+AI literacy/competency was measured with a two-part questionnaire: six self-assessment items adapted from the AILQ and MAILS instruments (covering self-efficacy, application, [[ethics|ethics]], and evaluation) and five objective multiple-choice questions spanning three [[generative-ai|generative AI]] domains — conceptual knowledge (tokens, prompts), [[prompt-engineering|prompt engineering]] (few-shot prompting, format instruction), and model adaptation (fine-tuning). Agreement was strongest on ethics (67% agreement, 0% disagreement) and weakest on self-efficacy (45.5%), pointing to uncertainty about applying AI to complex tasks.
 
 ### DBMS self-reported literacy
 
@@ -83,14 +83,14 @@ The authors acknowledge limitations that constrain causal interpretation: the ab
 
 ## Relationship to existing approaches
 
-- Complements [[socratic-method]]: while Socratic approaches use questions to guide reasoning, mistake pedagogy uses erroneous outputs as the provocation.
-- Extends [[ai-literacy]]: students learn not just to use AI but to critically evaluate its outputs, aided by [[prompt-engineering|prompting strategies]] and critique exercises.
-- Addresses the [[llm-fallacy-misattribution]] problem by making AI's limitations visible and discussable.
-- Contrasts with [[stanford-evidence-base-ai-k12-2026]]: here the AI's imperfection is the feature, not the bug.
-- Aligns with [[active-learning]]: students learn more effectively by actively critiquing and revising solutions than by passively receiving feedback.
-- [[situated-learning|Situated]] in [[self-directed-learning]] (common in [[online-teaching-and-learning|online education]]) and [[self-regulated-learning]], where the design's scaffolded critique-refinement cycle supports metacognitive self-monitoring.
-- Connects to [[cognitive-offloading]]: the pedagogy counters over-reliance on AI by making its errors the subject of scrutiny, rather than allowing students to passively accept AI output.
-- Relates to [[productive-failure]] and [[desirable-difficulties]]: structured confrontation with imperfect output functions as a productive struggle that deepens learning.
+- Complements [[socratic-method|socratic method]]: while Socratic approaches use questions to guide reasoning, mistake pedagogy uses erroneous outputs as the provocation.
+- Extends [[ai-literacy|AI literacy]]: students learn not just to use AI but to critically evaluate its outputs, aided by [[prompt-engineering|prompting strategies]] and critique exercises.
+- Addresses the [[llm-fallacy-misattribution|Kim et al. (2026)]] problem by making AI's limitations visible and discussable.
+- Contrasts with [[stanford-evidence-base-ai-k12-2026|Walker et al. (2026)]]: here the AI's imperfection is the feature, not the bug.
+- Aligns with [[active-learning|active learning]]: students learn more effectively by actively critiquing and revising solutions than by passively receiving feedback.
+- [[situated-learning|Situated]] in [[self-directed-learning|self-directed learning]] (common in [[online-teaching-and-learning|online education]]) and [[self-regulated-learning|self-regulated learning]], where the design's scaffolded critique-refinement cycle supports metacognitive self-monitoring.
+- Connects to [[cognitive-offloading|cognitive offloading]]: the pedagogy counters over-reliance on AI by making its errors the subject of scrutiny, rather than allowing students to passively accept AI output.
+- Relates to [[productive-failure|productive failure]] and [[desirable-difficulties|desirable difficulties]]: structured confrontation with imperfect output functions as a productive struggle that deepens learning.
 
 ## What this means for practice
 

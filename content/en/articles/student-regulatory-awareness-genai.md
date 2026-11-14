@@ -16,7 +16,7 @@ page_kind: [evaluation]
 institutions: [educational-policy-ai, regulation]
 ---
 
-> **Synthesis:** Bischof et al. investigate how students' awareness of [[generative-ai]] regulations relates to their perceived compliance and actual usage behavior in [[higher-ed]]. While previous [[research-methods-aied|research]] mainly examines adoption rates and attitudes, students' awareness of [[governance|institutional]] regulations and their perceived compliance have remained unexplored — an important gap as institutions create and apply [[educational-policy-ai|AI policies]].
+> **Synthesis:** Bischof et al. investigate how students' awareness of [[generative-ai|generative AI]] regulations relates to their perceived compliance and actual usage behavior in [[higher-ed|higher education]]. While previous [[research-methods-aied|research]] mainly examines adoption rates and attitudes, students' awareness of [[governance|institutional]] regulations and their perceived compliance have remained unexplored — an important gap as institutions create and apply [[educational-policy-ai|AI policies]].
 
 The study surveyed 151 undergraduate students in Business Information Systems and E-Government programs at Hochschule Hannover (Germany). Key findings:
 
@@ -24,13 +24,13 @@ The study surveyed 151 undergraduate students in Business Information Systems an
 2. **Regulatory awareness shows only weak to moderate associations** with actual usage behavior — knowing the rules does not strongly predict what students actually do.
 3. **Students primarily rely on privately accessed GenAI tools** (e.g., personal ChatGPT accounts) rather than institutionally provided solutions.
 
-These findings highlight a significant gap between [[regulation|institutional regulations]] and [[student-experience|student practices]]. The paper connects to insights from [[regulation]] on how policies are communicated, and to [[academic-integrity]] debates about effective AI governance. The authors call for improved policy communication and better integration of GenAI into [[teacher-role|teaching]] and learning contexts, recognizing that [[ai-literacy|regulatory awareness alone]] is insufficient to shape student behavior.
+These findings highlight a significant gap between [[regulation|institutional regulations]] and [[student-experience|student practices]]. The paper connects to insights from [[regulation|regulation]] on how policies are communicated, and to [[academic-integrity|academic integrity]] debates about effective AI governance. The authors call for improved policy communication and better integration of GenAI into [[teacher-role|teaching]] and learning contexts, recognizing that [[ai-literacy|regulatory awareness alone]] is insufficient to shape student behavior.
 
 ## What this means for practice
 
 - **Learners.** Do not read general familiarity with AI rules as evidence that a specific use is allowed: among the 127 students who used GenAI tools, only 22 (17.32%) judged their own usage rule-compliant while 92 (72.44%) could not tell, so check each task against the written course guidance before submitting.
 - **Instructors.** Explain rules at the level of concrete practices — writing, programming support, preparing assignments — because awareness of the policy does not produce clarity about applying it: only 39 of 151 respondents (25.83%) knew the regulations existed, and uncertainty about compliance persisted even among students who did.
-- **Instructors.** Attach worked examples of acceptable and unacceptable use to each assignment type instead of issuing one institutional statement; the largest response category for [[generative-ai]] use was uncertainty (92 of 127 users), which points to guidance that is too general to act on.
+- **Instructors.** Attach worked examples of acceptable and unacceptable use to each assignment type instead of issuing one institutional statement; the largest response category for [[generative-ai|generative AI]] use was uncertainty (92 of 127 users), which points to guidance that is too general to act on.
 - **Instructors.** Point students to sanctioned tools and accounts: students relied primarily on privately accessed tools rather than institutionally provided solutions, so name the supported tool and the data it may hold for each course.
 - **Learners.** Raise unresolved cases with the instructor early rather than assuming silence means permission, since uncertainty about rule-compliance was the dominant pattern among users of [[regulation|regulated]] tools.
 

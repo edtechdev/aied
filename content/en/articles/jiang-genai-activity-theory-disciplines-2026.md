@@ -31,9 +31,9 @@ Jiang et al. address the under-studied question of **disciplinary differences** 
 ## What this means for practice
 
 - **Instructors.** State GenAI disclosure expectations explicitly in each course, because disclosure varied significantly by discipline and by course-level policy rather than following a general [[higher-ed|institutional]] norm.
-- **Administrators.** Write discipline-aware GenAI and [[academic-integrity]] guidance instead of one uniform rule; identical policy language lands differently in fields whose course policies, instructor roles, and disciplinary norms diverge.
+- **Administrators.** Write discipline-aware GenAI and [[academic-integrity|academic integrity]] guidance instead of one uniform rule; identical policy language lands differently in fields whose course policies, instructor roles, and disciplinary norms diverge.
 - **Faculty developers.** Help instructors align stated course policy with actual classroom practice, since the contradiction between written rules and tolerated use is itself what shapes students' [[student-engagement|use and disclosure]].
-- **Researchers.** Treat disciplinary activity systems — not individual [[ethics]] — as the unit of analysis when studying GenAI disclosure, which is a socially situated practice.
+- **Researchers.** Treat disciplinary activity systems — not individual [[ethics|ethics]] — as the unit of analysis when studying GenAI disclosure, which is a socially situated practice.
 
 ## Limitations
 

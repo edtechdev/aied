@@ -25,7 +25,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Thoeni and Fryer ran a semester-long randomized controlled field experiment with 454 undergraduates in three sections of a Principles of Marketing course — one asynchronous online and two face-to-face — to test whether a custom [[generative-ai]] retrieval-augmented generation ([[rag]]) chatbot would raise the [[motivation]]al precursors to learning success: individual interest, [[self-efficacy]], [[student-engagement]], and course test performance, within the Model of Domain Learning. Students were randomized within each section after drop/add, measured at T1 before anyone had chatbot access and again at T2 on the final test. Expectations were high and the result was flat: no group × time interaction reached significance for any outcome, and the authors urge universities to weigh [[pedagogy|pedagogical]] value before long-term contracts.
+> **Synthesis:** Thoeni and Fryer ran a semester-long randomized controlled field experiment with 454 undergraduates in three sections of a Principles of Marketing course — one asynchronous online and two face-to-face — to test whether a custom [[generative-ai|generative AI]] retrieval-augmented generation ([[rag|RAG]]) chatbot would raise the [[motivation|motivation]]al precursors to learning success: individual interest, [[self-efficacy|self-efficacy]], [[student-engagement|student engagement]], and course test performance, within the Model of Domain Learning. Students were randomized within each section after drop/add, measured at T1 before anyone had chatbot access and again at T2 on the final test. Expectations were high and the result was flat: no group × time interaction reached significance for any outcome, and the authors urge universities to weigh [[pedagogy|pedagogical]] value before long-term contracts.
 
 ## Key Findings
 
@@ -45,7 +45,7 @@ The experiment ran over a 16-week fall semester with a 12-week treatment period 
 
 It does not license the claim that AI [[conversational-ai|chatbots]] cannot help students learn. The authors' review found no published [[rct]]-based examination of a RAG chatbot in undergraduate education across a full academic term, so this is an early data point from one course, one instructor and three sections. The treatment was also modest: the chatbot lacked session memory, treating every interaction as a first encounter with no [[student-modeling|learner model]], and students used it less than once a week, often asking only for a definition or answering quiz items.
 
-What it does license is skepticism about procurement expectations, and it fits a mechanism the authors find across the literature: when AI supplies answers, the effortful work that produces [[learning-gains]] disappears; when it [[scaffolding|scaffolds]] without answering, that work survives. Pre-2023 [[intelligent-tutoring]] findings, they add, rest on rule-based systems unlike current [[llm|large language models]] and are historical context, not comparable evidence. They also caution that satisfaction is not learning: students liked the chatbot and reported no grade or interest benefit, which the authors liken to a hygiene factor that demotivates only when absent.
+What it does license is skepticism about procurement expectations, and it fits a mechanism the authors find across the literature: when AI supplies answers, the effortful work that produces [[learning-gains|learning gains]] disappears; when it [[scaffolding|scaffolds]] without answering, that work survives. Pre-2023 [[intelligent-tutoring|intelligent tutoring]] findings, they add, rest on rule-based systems unlike current [[llm|large language models]] and are historical context, not comparable evidence. They also caution that satisfaction is not learning: students liked the chatbot and reported no grade or interest benefit, which the authors liken to a hygiene factor that demotivates only when absent.
 
 ## What this means for practice
 
@@ -60,7 +60,7 @@ What it does license is skepticism about procurement expectations, and it fits a
 - The study was confined to three sections of a single course with one instructor, which the authors say limits generalizability; an instructor already skilled at generating interest, or content ill-suited to a chatbot, could have minimized any effect.
 - Introductory marketing is heavy in vocabulary, which may not have offered the chatbot room to differentiate its help; both groups had flash cards.
 - The chatbot lacked session memory, so it could not personalize instruction across sessions or respond to a student's knowledge level, difficulties or interests — a fundamental limitation of many chatbots compared with a human tutor.
-- [[qualitative-research|Qualitative]] data came back too thin for thematic analysis, the study captured only [[self-report-measures]] of study habits, and strategic processing was not collected at all because of reliability concerns and time cost.
+- [[qualitative-research|Qualitative]] data came back too thin for thematic analysis, the study captured only [[self-report-measures|self-report measures]] of study habits, and strategic processing was not collected at all because of reliability concerns and time cost.
 
 ## Citation
 

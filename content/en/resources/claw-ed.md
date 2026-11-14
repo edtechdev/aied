@@ -38,7 +38,7 @@ The project is deliberately model-agnostic. It documents local Ollama models, bu
 
 ## Notes and caveats
 
-The software is free and [[open-source|open source]] under the MIT license for its original code, though third-party components keep their own terms, and running it means paying for your own model inference if you use a hosted model. The project labels itself a teacher-reviewed beta and says plainly in its README that passing its CI does not establish teaching quality across live models, which is the right way to read a green test suite in this space: it verifies the software, not the [[pedagogy]]. It is maintained by MacxLabs and accepts teacher-reviewed sample lessons as contributions.
+The software is free and [[open-source|open source]] under the MIT license for its original code, though third-party components keep their own terms, and running it means paying for your own model inference if you use a hosted model. The project labels itself a teacher-reviewed beta and says plainly in its README that passing its CI does not establish teaching quality across live models, which is the right way to read a green test suite in this space: it verifies the software, not the [[pedagogy|pedagogy]]. It is maintained by MacxLabs and accepts teacher-reviewed sample lessons as contributions.
 
 ## Connected Concepts
 [[learning-design]], [[online-teaching-and-learning]], [[open-source]], [[teacher-ai-competency]]

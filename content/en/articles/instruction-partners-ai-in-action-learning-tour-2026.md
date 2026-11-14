@@ -44,11 +44,11 @@ The report is emphatic that implementation matters as much as design. The same p
 
 ## What the evidence base does and does not support
 
-Of the 16 products with complete profiles, seven have independent reviews that examine student achievement across student groups in the US, two have conducted studies outside the US, four have external studies underway and three look only at internal data. The authors argue that independently evaluated causal studies, covering priority groups, should be the expectation for all student-facing products, which puts [[interpreting-and-applying-aied-research|interpreting the evidence]] in adoption decisions. In literacy, benefits included more writing practice with faster feedback and precise diagnosis of letter sound combinations, while risks included practice disconnected from any text and easy text releveling that lowers cognitive demand. In math, products that captured reasoning rather than only final answers let teachers see thinking, but misdiagnosed [[misconceptions]] sent students back to relearn material they already knew.
+Of the 16 products with complete profiles, seven have independent reviews that examine student achievement across student groups in the US, two have conducted studies outside the US, four have external studies underway and three look only at internal data. The authors argue that independently evaluated causal studies, covering priority groups, should be the expectation for all student-facing products, which puts [[interpreting-and-applying-aied-research|interpreting the evidence]] in adoption decisions. In literacy, benefits included more writing practice with faster feedback and precise diagnosis of letter sound combinations, while risks included practice disconnected from any text and easy text releveling that lowers cognitive demand. In math, products that captured reasoning rather than only final answers let teachers see thinking, but misdiagnosed [[misconceptions|misconceptions]] sent students back to relearn material they already knew.
 
 ## What this means for practice
 
-- **School and system leaders.** Set [[guardrails]] through policy: state where AI has a role in instruction and where it does not, and lock down chatbot access during assignments and assessments.
+- **School and system leaders.** Set [[guardrails|guardrails]] through policy: state where AI has a role in instruction and where it does not, and lock down chatbot access during assignments and assessments.
 - **Before adopting anything, inventory the program.** Start from gaps in your instructional program rather than shopping, pilot at one grade, and decide upfront what conditions a product must meet to scale.
 - **Teachers.** Frame tool use as learning rather than completion, monitor the dashboard during the lesson, and keep the AI an assistant to a goal you set and assess.
 - **Product developers and funders.** Treat implementation as a design problem by specifying what teachers should do during use, and fund independent studies before treating impact claims as established.
@@ -58,7 +58,7 @@ Of the 16 products with complete profiles, seven have independent reviews that e
 - This is a report, not peer-reviewed research: it is [[qualitative-research|qualitative]] and reports no control conditions, effect sizes or standardized outcome measures.
 - The sample was not selected scientifically: products came from what partner systems were already using plus a market scan built to vary grade levels, subjects and designs.
 - Several counts describe the 16 products with complete profiles rather than all 20, and the authors plan to revise the analysis as the tour continues.
-- The report states that it did not analyze [[privacy|data privacy]], technical integration, pricing, how products promote [[ai-literacy]], or environmental impact.
+- The report states that it did not analyze [[privacy|data privacy]], technical integration, pricing, how products promote [[ai-literacy|AI literacy]], or environmental impact.
 
 ## Citation
 

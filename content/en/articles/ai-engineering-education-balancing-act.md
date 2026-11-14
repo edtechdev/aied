@@ -13,7 +13,7 @@ sources: ['raw/papers/2606.16626.md']
 confidence: high
 ---
 
-> **Synthesis:** Based on a questionnaire of 100 higher-education engineering students and a critical [[meta-analysis-systematic-review|literature review]], examines how students use and perceive LLMs. Students value LLMs for writing support, conceptual clarification, coding assistance, and brainstorming, but express concerns about inaccuracies, bias, [[cognitive-offloading|overreliance]], and [[academic-integrity|academic integrity]]. Analyzes two dominant [[metaphors-and-analogies|metaphors]] — [[llm]] as 'oracle' and 'tutor' — showing they cultivate expectations exceeding actual capabilities. Argues students' attachment to LLM efficiency reflects 'cruel optimism' — benefits depend on skills still being developed.
+> **Synthesis:** Based on a questionnaire of 100 higher-education engineering students and a critical [[meta-analysis-systematic-review|literature review]], examines how students use and perceive LLMs. Students value LLMs for writing support, conceptual clarification, coding assistance, and brainstorming, but express concerns about inaccuracies, bias, [[cognitive-offloading|overreliance]], and [[academic-integrity|academic integrity]]. Analyzes two dominant [[metaphors-and-analogies|metaphors]] — [[llm|LLM]] as 'oracle' and 'tutor' — showing they cultivate expectations exceeding actual capabilities. Argues students' attachment to LLM efficiency reflects 'cruel optimism' — benefits depend on skills still being developed.
 
 ## Key Findings
 
@@ -31,10 +31,10 @@ The chapter treats assessment as a key lever, reviewing frameworks such as the A
 ## What this means for practice
 
 - **Instructors.** Gate every adoption decision on purpose: ask why [[generative-ai|GenAI]] is needed for this course or assignment and what added value it delivers before adding it, which is the chapter's own proposed approach.
-- **Instructors.** Make [[ai-literacy]] and verification capacity prerequisites rather than extras, because the efficiency gains students prize are only realized by learners who already have the [[critical-thinking]] and domain expertise to judge AI output — the skills they are there to build.
-- **Learners.** Stop treating the [[llm]] as an oracle or a tutor: it is a probabilistic text generator whose fluent authority exceeds its reliability, and the verification burden lands on you and on your knowledge of the domain.
+- **Instructors.** Make [[ai-literacy|AI literacy]] and verification capacity prerequisites rather than extras, because the efficiency gains students prize are only realized by learners who already have the [[critical-thinking|critical thinking]] and domain expertise to judge AI output — the skills they are there to build.
+- **Learners.** Stop treating the [[llm|LLM]] as an oracle or a tutor: it is a probabilistic text generator whose fluent authority exceeds its reliability, and the verification burden lands on you and on your knowledge of the domain.
 - **Instructors.** Redesign assessment toward contextualization, in-class engagement, and oral or supervised formats for lower-order tasks, which is both the AAA framework reviewed in the chapter and what students themselves proposed (N=27).
-- **Faculty developers.** Support staff in shifting the instructor's role from policing AI use toward reflectively adapting assessment and [[pedagogy]] for AI's possible misuse.
+- **Faculty developers.** Support staff in shifting the instructor's role from policing AI use toward reflectively adapting assessment and [[pedagogy|pedagogy]] for AI's possible misuse.
 
 ## Limitations
 

@@ -13,7 +13,7 @@ confidence: high
 audience: [instructors, faculty developers]
 ---
 
-> **Synthesis:** Brocca and Garassino (2026) use an action [[research-methods-aied|research]] design to examine how [[generative-ai]] novices in [[higher-ed|higher education]] design prompts and evaluate [[llm]] outputs in text linguistics [[teacher-role|teaching]]. Students' reports show novices refine prompts through trial and error, occasionally use in-context examples, or simplify complex instructions; end-of-term reflections reveal limited prompting competence but growing confidence in applying subject-specific knowledge. Students often attribute unsatisfactory results to the LLM rather than their own prompt formulation, and challenges such as anthropomorphizing the models and overgeneralising limited outcomes emerge. The study finds that students engage in metacognitive reflection with LLMs chiefly when disciplinary knowledge is well consolidated, and concludes that limited prompt-design knowledge remains a major obstacle — signaling the need for explicit [[prompt-engineering]] instruction in [[discipline-specific-aied|disciplinary AI use]].
+> **Synthesis:** Brocca and Garassino (2026) use an action [[research-methods-aied|research]] design to examine how [[generative-ai|generative AI]] novices in [[higher-ed|higher education]] design prompts and evaluate [[llm|LLM]] outputs in text linguistics [[teacher-role|teaching]]. Students' reports show novices refine prompts through trial and error, occasionally use in-context examples, or simplify complex instructions; end-of-term reflections reveal limited prompting competence but growing confidence in applying subject-specific knowledge. Students often attribute unsatisfactory results to the LLM rather than their own prompt formulation, and challenges such as anthropomorphizing the models and overgeneralising limited outcomes emerge. The study finds that students engage in metacognitive reflection with LLMs chiefly when disciplinary knowledge is well consolidated, and concludes that limited prompt-design knowledge remains a major obstacle — signaling the need for explicit [[prompt-engineering|prompt engineering]] instruction in [[discipline-specific-aied|disciplinary AI use]].
 
 ## Key Findings
 
@@ -21,9 +21,9 @@ audience: [instructors, faculty developers]
 
 **Limited prompting competence.** End-of-term reflections indicate limited prompting competence despite growing confidence in applying subject-specific knowledge, exposing a gap between perceived and actual AI skill.
 
-**Attribution bias.** Students often attributed unsatisfactory results to the LLM's limitations rather than to their own prompt formulation, a form of misattribution relevant to [[trust-calibration]] and [[ai-literacy]].
+**Attribution bias.** Students often attributed unsatisfactory results to the LLM's limitations rather than to their own prompt formulation, a form of misattribution relevant to [[trust-calibration|trust calibration]] and [[ai-literacy|AI literacy]].
 
-**Metacognition and disciplinary grounding.** Students reported metacognitive reflection with LLMs particularly when disciplinary knowledge was already well consolidated, suggesting [[metacognition]] in AI use depends on domain foundations.
+**Metacognition and disciplinary grounding.** Students reported metacognitive reflection with LLMs particularly when disciplinary knowledge was already well consolidated, suggesting [[metacognition|metacognition]] in AI use depends on domain foundations.
 
 **[[pedagogy|Pedagogical]] implication.** Limited knowledge of prompt design is a major obstacle; the authors argue for explicit prompt-engineering instruction within [[discipline-specific-aied|disciplinary teaching]] to help novices harness LLM potential in [[educational-nlp|text analysis]].
 

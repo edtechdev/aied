@@ -16,7 +16,7 @@ methods: [mixed-methods-research]
 institutions: [change-management]
 ---
 
-> **Synthesis:** This multi-method study of 842 students in Lesotho's low-resource [[higher-ed|higher education]] system integrates [[technology-acceptance-model|UTAUT3]] and Keller's ARCS motivation model to explain [[generative-ai|GenAI]] adoption. Using PLS-SEM, fsQCA, and importance-performance mapping, the authors find that cognitive beliefs (performance expectancy, effort expectancy, social influence, hedonic motivation, habit) explain intention, while ARCS motivational dimensions are stronger determinants of actual use. Multiple equifinal configurational pathways lead to high adoption, with motivation, enjoyment, and habit as core conditions. The study advances a hybrid logic of adoption — cognitive beliefs enable acceptance, motivational experiences sustain engagement, and habit normalizes use — and highlights the contextual sensitivity of acceptance theory in resource-constrained settings.
+> **Synthesis:** This multi-method study of 842 students in Lesotho's low-resource [[higher-ed|higher education]] system integrates [[technology-acceptance-model|UTAUT3]] and Keller's ARCS [[motivation|motivation]] model to explain [[generative-ai|GenAI]] adoption. Using PLS-SEM, fsQCA, and importance-performance mapping, the authors find that cognitive beliefs (performance expectancy, effort expectancy, social influence, hedonic motivation, habit) explain intention, while ARCS motivational dimensions are stronger determinants of actual use. Multiple equifinal configurational pathways lead to high adoption, with motivation, enjoyment, and habit as core conditions. The study advances a hybrid logic of adoption — cognitive beliefs enable acceptance, motivational experiences sustain engagement, and habit normalizes use — and highlights the contextual sensitivity of acceptance theory in resource-constrained settings.
 
 ## Core Finding
 
@@ -28,7 +28,7 @@ The integrated framework posits a two-layer explanation. [[technology-acceptance
 
 ## Configurational Pathways to Adoption
 
-fsQCA revealed multiple equifinal configurations leading to high behavioral intention, with [[motivation]], enjoyment, and habit serving as core conditions across most pathways. This asymmetric (configurational) logic complements the net-effects PLS-SEM findings, showing that distinct combinations of conditions — not isolated predictors — jointly produce adoption. Some pathways functioned even with absent social influence, underscoring the equifinality of adoption routes.
+fsQCA revealed multiple equifinal configurations leading to high behavioral intention, with [[motivation|motivation]], enjoyment, and habit serving as core conditions across most pathways. This asymmetric (configurational) logic complements the net-effects PLS-SEM findings, showing that distinct combinations of conditions — not isolated predictors — jointly produce adoption. Some pathways functioned even with absent social influence, underscoring the equifinality of adoption routes.
 
 ## Contextual Sensitivity in Low-Resource Settings
 
@@ -36,7 +36,7 @@ In Lesotho, structural constraints — unstable connectivity, limited digital in
 
 ## Relevance to the knowledge base
 
-This paper directly extends the knowledge base's coverage of [[technology-acceptance-model|technology acceptance]] and AI adoption in [[higher-ed|higher education]]. It complements organizational adoption studies (e.g., [[alrahmi-org-drivers-ai-adoption-he-2026]]) with a student-level, low-resource perspective, and it connects [[motivation]] to sustained [[student-engagement|engagement]] with [[generative-ai|GenAI]]. Its hybrid acceptance–motivation–habit model informs [[ai-education|AI education]] practice by arguing for motivation-centered design and context-responsive policy rather than uniform technology rollout. It is relevant to [[educational-policy-ai|AI policy]] and to the knowledge base's growing set of adoption-pathway articles.
+This paper directly extends the knowledge base's coverage of [[technology-acceptance-model|technology acceptance]] and AI adoption in [[higher-ed|higher education]]. It complements organizational adoption studies (e.g., [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi (2026)]]) with a student-level, low-resource perspective, and it connects [[motivation|motivation]] to sustained [[student-engagement|engagement]] with [[generative-ai|GenAI]]. Its hybrid acceptance–motivation–habit model informs [[ai-education|AI education]] practice by arguing for motivation-centered design and context-responsive policy rather than uniform technology rollout. It is relevant to [[educational-policy-ai|AI policy]] and to the knowledge base's growing set of adoption-pathway articles.
 
 ## What this means for practice
 

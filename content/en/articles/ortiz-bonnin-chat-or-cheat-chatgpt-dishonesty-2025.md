@@ -13,9 +13,9 @@ sources: ['raw/papers/ortiz-bonnin-chat-or-cheat-chatgpt-dishonesty-2025.md']
 confidence: high
 ---
 
-> **Synthesis:** **Chat or cheat?** — a survey of 468 undergraduates examining how students' Perception of Academic Dishonesty (PAD) and their perceptions of the risks of [[generative-ai|ChatGPT]] are linked to reduced use frequency and intention to use the tool. Findings show a negative relationship between perceived risk and ChatGPT usage, with perceived risk mediating the PAD–usage link: students who perceive academic dishonesty as a serious problem are more aware of ChatGPT's risks and consequently use it less.
+> **Synthesis:** **Chat or cheat?** — a survey of 468 undergraduates examining how students' Perception of [[academic-integrity|Academic Dishonesty]] (PAD) and their perceptions of the risks of [[generative-ai|ChatGPT]] are linked to reduced use frequency and intention to use the tool. Findings show a negative relationship between perceived risk and ChatGPT usage, with perceived risk mediating the PAD–usage link: students who perceive academic dishonesty as a serious problem are more aware of ChatGPT's risks and consequently use it less.
 
-Ortiz-Bonnin & Blahopoulou (2025) address the tension between ChatGPT's educational benefits ([[accessibility]] of information, [[personalized-learning|personalized learning]]) and its risks (inaccurate information, facilitation of [[academic-integrity|academic dishonesty]] such as cheating and [[ai-detection|plagiarism]]). Rather than asking whether students use AI, they ask *why* some students restrain their use — and find that perception of risk is the key gatekeeper.
+Ortiz-Bonnin & Blahopoulou (2025) address the tension between ChatGPT's educational benefits ([[accessibility|accessibility]] of information, [[personalized-learning|personalized learning]]) and its risks (inaccurate information, facilitation of [[academic-integrity|academic dishonesty]] such as cheating and [[ai-detection|plagiarism]]). Rather than asking whether students use AI, they ask *why* some students restrain their use — and find that perception of risk is the key gatekeeper.
 
 ## Method
 
@@ -28,12 +28,12 @@ Ortiz-Bonnin & Blahopoulou (2025) address the tension between ChatGPT's educatio
 - **Perceived risk → lower use.** A negative and significant relationship exists between perceived risk of ChatGPT and both current use frequency and future intention to use it.
 - **Perceived risk mediates PAD.** Perceived risk statistically mediates the relationship between Perception of Academic Dishonesty and ChatGPT usage patterns.
 - **First demonstration of the chain.** This is the first study to show that students with high PAD present higher awareness of ChatGPT's risks, which is associated with lower frequency of use and lower intention to use.
-- **The [[ethics|ethical]]-versus-convenience tension.** Students who take academic dishonesty seriously internalize the risks (accuracy, [[privacy]], [[academic-integrity|integrity]]) and self-limit their AI use accordingly — rather than simply being deterred by [[governance|institutional]] rules.
+- **The [[ethics|ethical]]-versus-convenience tension.** Students who take academic dishonesty seriously internalize the risks (accuracy, [[privacy|privacy]], [[academic-integrity|integrity]]) and self-limit their AI use accordingly — rather than simply being deterred by [[governance|institutional]] rules.
 
 ## What this means for practice
 
 - **Instructors.** Teach the dishonesty dimension explicitly: because higher perception of academic dishonesty (PAD) predicted greater risk awareness and lower ChatGPT use, name what counts as dishonest use and state the penalties rather than leaving rules implicit.
-- **Instructors.** Discuss the risks that actually restrain students — inaccuracy, [[privacy]], plagiarism detection — and pair that with citation and referencing skills and formative feedback, so risk awareness becomes ethical practice instead of [[anxiety-and-stress|anxiety]].
+- **Instructors.** Discuss the risks that actually restrain students — inaccuracy, [[privacy|privacy]], plagiarism detection — and pair that with citation and referencing skills and formative feedback, so risk awareness becomes ethical practice instead of [[anxiety-and-stress|anxiety]].
 - **Instructors.** Treat the risk of being accused of dishonesty as a genuine source of student stress: normalize questions about acceptable AI use and address the fear directly in the course.
 - **Designers.** Reduce perceived risk at the tool level — data protection, cybersecurity, training-data transparency, and citing real references — since students must feel safe before adopting an AI tool responsibly.
 - **Administrators.** Shape the perceived-risk environment rather than only prohibiting or mandating AI, and issue ethical guidelines specific enough to remove the uncertainty the authors link to unethical behavior.

@@ -43,7 +43,7 @@ The review defines [[personalized-learning|personalized learning]] as instructio
 
 The four survivors used different technologies. Three deployed [[llm|large language models]] — a ChatGPT-based mobile tutoring application for C# programming, ChatGPT-generated feedback on weekly MATLAB group code, and student use of [[generative-ai|ChatGPT]] inside a structured prompting framework after [[prompt-engineering|prompt-writing training]]. The fourth was a precision-teaching platform built on a course [[knowledge-graph|knowledge graph]], which diagnosed mastery of individual knowledge points and recommended tiered resources, a design closer to [[mastery-learning|mastery learning]] than to [[intelligent-tutoring|intelligent tutoring]] in the classic sense.
 
-Their comparators were equally varied. Two compared AI-supported instruction with traditional teaching, one with traditional tutorials of equal duration, and one — the only study with an active comparator — with instructor-written [[feedback]] on the same five quality dimensions. Because of that, an "effect" in this review means the contrast between an AI-supported instructional package and whatever its authors chose to compare it with. It is not the isolated contribution of the AI component.
+Their comparators were equally varied. Two compared AI-supported instruction with traditional teaching, one with traditional tutorials of equal duration, and one — the only study with an active comparator — with instructor-written [[feedback|feedback]] on the same five quality dimensions. Because of that, an "effect" in this review means the contrast between an AI-supported instructional package and whatever its authors chose to compare it with. It is not the isolated contribution of the AI component.
 
 ## Reading a pooled 1.01 against its own uncertainty
 
@@ -55,14 +55,14 @@ Sensitivity analyses move the estimate but not the conclusion. Re-scoring Zhou e
 
 ## Why the bundled interventions matter more than the average
 
-Two of the four studies gave the AI group something the control group did not have. In El Fathi et al., students used ChatGPT within a [[constructivist]] inquiry-based prompting framework after three hours of prompt-writing training, while the control attended traditional tutorials of equal duration. In Zhou et al., the precision-teaching platform came with differentiated in-class grouping and assignments used only in the AI cohort, and the comparison crossed academic years. Omitting the first study reduced the pooled estimate to *g* = 0.81.
+Two of the four studies gave the AI group something the control group did not have. In El Fathi et al., students used ChatGPT within a [[constructivist|constructivism]] inquiry-based prompting framework after three hours of prompt-writing training, while the control attended traditional tutorials of equal duration. In Zhou et al., the precision-teaching platform came with differentiated in-class grouping and assignments used only in the AI cohort, and the comparison crossed academic years. Omitting the first study reduced the pooled estimate to *g* = 0.81.
 
 The one study that isolated the AI component found almost nothing. Ouyang et al. compared ChatGPT-generated feedback with instructor-written feedback on the same five dimensions and measured the quality of each group's final programming product: *g* = 0.20 (95% CI −0.55–0.96), consistent with the authors' own non-significant test. That is the cleanest design in the set and the smallest effect in it, which is the pattern a reader should carry away.
 
 ## What this means for practice
 
 - **Instructors.** Do not expect uniform gains from adding an AI tool to a computing or engineering course. The two largest effects came from courses where AI use sat inside a deliberate [[learning-design|instructional design]] — structured prompting, guided practice, regular feedback — rather than from making a tool available.
-- **Course designers.** Treat AI-based personalization as one component of a [[personalized-learning|pedagogical design]], not a substitute for one. When the AI arrives bundled with grouping, training or [[scaffolding]], the evaluation cannot tell you which part worked.
+- **Course designers.** Treat AI-based personalization as one component of a [[personalized-learning|pedagogical design]], not a substitute for one. When the AI arrives bundled with grouping, training or [[scaffolding|scaffolding]], the evaluation cannot tell you which part worked.
 - **Institutions.** Evaluate locally with objective assessments and, where possible, a concurrent comparison group. A historical cohort cannot separate the intervention from everything else that changed between years.
 - **Researchers.** Report post-intervention means, standard deviations, sample sizes and cluster information. Half the analytic difficulty in this review came from values that had to be imputed or reconstructed, and one included report contained an effect size inconsistent with its own descriptives.
 

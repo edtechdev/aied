@@ -25,7 +25,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Song, Hu and Li ran a three-wave, time-lagged survey of 379 first-year business-[[administrator|administration]] students at one Chinese university, measuring six AI-appraisal indicators at Wave 2 — perceived humanlikeness, adaptability and quality of AI, AI use [[anxiety-and-stress|anxiety]], STARA awareness, and AI creative self-efficacy — and career outcomes at Wave 3. A [[latent-profile-analysis|latent profile analysis]] retained four profiles: Positive Empowerment (19.2%), Anxious Acceptance (37.5%), Low-Perception Detached (37.2%) and High-Perception High-Vigilance (6.1%). Learning agility, digital literacy, future work self-salience and perceived university digital support were prospectively associated with membership, chiefly separating Low-Perception Detached from the more engaged profiles, and Positive Empowerment and High-Perception High-Vigilance reported the highest career crafting and self-perceived employability despite opposite levels of threat. The central boundary condition is design: the three waves were only two weeks apart, no causal direction is established, and the smallest profile held 23 students.
+> **Synthesis:** Song, Hu and Li ran a three-wave, time-lagged survey of 379 first-year business-[[administrator|administration]] students at one Chinese university, measuring six AI-appraisal indicators at Wave 2 — perceived humanlikeness, adaptability and quality of AI, AI use [[anxiety-and-stress|anxiety]], STARA awareness, and AI creative [[self-efficacy|self-efficacy]] — and career outcomes at Wave 3. A [[latent-profile-analysis|latent profile analysis]] retained four profiles: Positive Empowerment (19.2%), Anxious Acceptance (37.5%), Low-Perception Detached (37.2%) and High-Perception High-Vigilance (6.1%). Learning agility, digital literacy, future work self-salience and perceived university digital support were prospectively associated with membership, chiefly separating Low-Perception Detached from the more engaged profiles, and Positive Empowerment and High-Perception High-Vigilance reported the highest career crafting and self-perceived employability despite opposite levels of threat. The central boundary condition is design: the three waves were only two weeks apart, no causal direction is established, and the smallest profile held 23 students.
 
 ## Key Findings
 
@@ -41,11 +41,11 @@ Five hundred first-year students were invited, and 379 provided valid matched da
 
 ## What this means for practice
 
-- **Replace one-size-fits-all [[ai-literacy]] training with profile-based support.** The four profiles spanned 19.2% to 37.5% of the sample, and advocates of a uniform program miss the Low-Perception Detached group entirely.
+- **Replace one-size-fits-all [[ai-literacy|AI literacy]] training with profile-based support.** The four profiles spanned 19.2% to 37.5% of the sample, and advocates of a uniform program miss the Low-Perception Detached group entirely.
 - **For detached students, raise relevance before raising anxiety.** Their low threat (−0.328 AI use anxiety, −0.398 STARA awareness) came with the lowest [[self-efficacy|AI creative self-efficacy]] and the lowest career crafting (3.407), so [[discipline-specific-aied|discipline-specific]] tasks and mastery experiences matter more than warnings.
-- **Treat vigilance as engagement, not a problem to suppress.** High-Perception High-Vigilance reported the highest career crafting (4.222) alongside the highest AI use anxiety (1.521), so support should target psychological [[sustainability]] — bounded goals and information-overload management — rather than dampening concern.
+- **Treat vigilance as engagement, not a problem to suppress.** High-Perception High-Vigilance reported the highest career crafting (4.222) alongside the highest AI use anxiety (1.521), so support should target psychological [[sustainability|sustainability]] — bounded goals and information-overload management — rather than dampening concern.
 - **Build the contextual resource.** Perceived university digital support carried the largest single odds ratio into the engaged profiles (OR = 3.728), pointing to accessible [[edtech-platform|platforms]], mentoring and technical assistance.
-- **Do not make the goal uniform positivity.** Anxiety and career preparedness were not opposites, so [[career-development-and-readiness]] programs should assess appraisal accuracy, efficacy and proactive behavior together.
+- **Do not make the goal uniform positivity.** Anxiety and career preparedness were not opposites, so [[career-development-and-readiness|career development and readiness]] programs should assess appraisal accuracy, efficacy and proactive behavior together.
 
 ## Limitations
 

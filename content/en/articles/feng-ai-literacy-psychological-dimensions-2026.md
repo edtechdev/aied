@@ -51,7 +51,7 @@ A Year 6 class and a [[teacher-education|preservice]] teacher therefore call for
 
 ## What the psychological layer contains
 
-The review sorts AI literacy into four interacting constructs — cognition, emotion, psychology and behavior — and treats behavior as emerging from the other three. The psychological dimension splits in two. The cognitive half covers reasoning and cognitive strategies, [[metacognition]], and cognitive readiness, which adds perception, feeling, self-learning and [[self-assessment]] to knowledge preparedness. The non-cognitive half covers [[self-efficacy]], positive attitudes, motivation and volition, and emotional readiness with its regulation and awareness components.
+The review sorts AI literacy into four interacting constructs — cognition, emotion, psychology and behavior — and treats behavior as emerging from the other three. The psychological dimension splits in two. The cognitive half covers reasoning and cognitive strategies, [[metacognition|metacognition]], and cognitive readiness, which adds perception, feeling, self-learning and [[self-assessment|self-assessment]] to knowledge preparedness. The non-cognitive half covers [[self-efficacy|self-efficacy]], positive attitudes, motivation and volition, and emotional readiness with its regulation and awareness components.
 
 The counts are uneven: reasoning appears in twenty articles, attitudes in sixteen, self-efficacy and motivation in nine each, metacognition in eight, cognitive readiness in seven, emotional readiness in six. Elements a questionnaire can ask about directly get measured; regulating one's response to a confident wrong answer is the least studied.
 
@@ -61,7 +61,7 @@ The authors read this as support for importing [[self-determination-theory|self-
 
 The teacher set adds institutional demands. Alongside AI knowledge and skills in pedagogical contexts, [[ethics|AI ethics]] and a [[generative-ai|generative-AI]]-specific dimension, it includes contextual knowledge and continuous professional growth — one a property of the school (devices, policy, timetabling), the other a trajectory. Together they make [[educational-development|professional development]] a continuing condition of literacy rather than a certificate.
 
-The [[administrator]] dimensions are narrower: generic knowledge plus context-specific application, oriented to decisions rather than instruction. That is a different training target, and the evidence is thin.
+The [[administrator|administrator]] dimensions are narrower: generic knowledge plus context-specific application, oriented to decisions rather than instruction. That is a different training target, and the evidence is thin.
 
 The authors also suggest that assessing AI literacy as a single dimension would simplify evaluation and improve cross-country comparability, which sits awkwardly beside their finding that the construct differs by role and develops with age. A composite score can compare systems; it cannot tell a school whether its teachers can place a tool in a lesson.
 

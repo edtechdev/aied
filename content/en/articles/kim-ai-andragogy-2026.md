@@ -27,17 +27,17 @@ Sixty [[adult-learning|adult learners]] from three universities in the eastern U
 
 | Andragogical principle | Component | Scenario prototype | AI type exercised |
 |---|---|---|---|
-| Involvement | Intentionally motivated to learn | AI tutor offering immediate [[personalized-learning|personalized]] [[feedback]], progress tracking, celebration of achievement | [[intelligent-tutoring]] |
+| Involvement | Intentionally motivated to learn | AI tutor offering immediate [[personalized-learning|personalized]] [[feedback|feedback]], progress tracking, celebration of achievement | [[intelligent-tutoring|intelligent tutoring]] |
 | Involvement | Intentionally motivated to learn | AI-powered teachable agent that the learner must teach | [[learning-by-teaching|teachable agents]] |
-| Autonomy | Autonomous learning | Monitoring tools giving [[assessment|adaptive assessment]] and data-driven insight into progress | [[learning-analytics]] |
-| Involvement | [[self-assessment]] | Systems that analyze work, generate [[assessment|rubrics]], and track ongoing performance | [[automated-assessment]] |
-| Experience | Transformative learning | Empathetic chatbot holding emotionally grounded conversations about different perspectives | [[affective-computing]], [[conversational-ai]] |
-| Experience | [[experiential-learning|Experiential learning]] | [[simulation|AI simulations]] (VR/AR) for risk-free practice with complex scenarios | [[intelligent-tutoring]] |
-| Problem-centered | Contextual learning | AI case library that generates and critiques realistic customized case studies | [[problem-based-learning]] |
-| Problem-centered | [[critical-thinking|Critical thinking]] | Interactive dashboard for exploring and analyzing information | [[learning-analytics]] |
-| Problem-centered | [[critical-thinking|Critical thinking]] | Higher-order question generator that prompts introspection and multiple perspectives | [[generative-ai]] |
-| Relevance | Goal orientation | AI planner that breaks large goals into actionable steps and schedules them | [[self-directed-learning]] |
-| Relevance | Personal/professional relevance | AI career coach offering career-path exploration and tailored advice | [[pedagogical-agent]] |
+| Autonomy | Autonomous learning | Monitoring tools giving [[assessment|adaptive assessment]] and data-driven insight into progress | [[learning-analytics|learning analytics]] |
+| Involvement | [[self-assessment|self-assessment]] | Systems that analyze work, generate [[assessment|rubrics]], and track ongoing performance | [[automated-assessment|automated assessment]] |
+| Experience | Transformative learning | Empathetic chatbot holding emotionally grounded conversations about different perspectives | [[affective-computing|affective computing]], [[conversational-ai|conversational AI]] |
+| Experience | [[experiential-learning|Experiential learning]] | [[simulation|AI simulations]] (VR/AR) for risk-free practice with complex scenarios | [[intelligent-tutoring|intelligent tutoring]] |
+| Problem-centered | Contextual learning | AI case library that generates and critiques realistic customized case studies | [[problem-based-learning|problem-based learning]] |
+| Problem-centered | [[critical-thinking|Critical thinking]] | Interactive dashboard for exploring and analyzing information | [[learning-analytics|learning analytics]] |
+| Problem-centered | [[critical-thinking|Critical thinking]] | Higher-order question generator that prompts introspection and multiple perspectives | [[generative-ai|generative AI]] |
+| Relevance | Goal orientation | AI planner that breaks large goals into actionable steps and schedules them | [[self-directed-learning|self-directed learning]] |
+| Relevance | Personal/professional relevance | AI career coach offering career-path exploration and tailored advice | [[pedagogical-agent|pedagogical agent]] |
 
 The scenario set is itself a design contribution: it shows how each andragogical principle can be operationalized as a concrete AI affordance, and it gives designers a checklist that maps tools to adult-learning aims rather than to generic "[[student-engagement|engagement]]."
 
@@ -47,7 +47,7 @@ Across the four andragogical principles, a consistent picture emerges: adult lea
 
 ### Involvement, autonomy, and self-assessment
 
-AI supports **involvement** by sustaining [[motivation]] — sparking questions, tapping interests, offering continuous [[feedback]], and acknowledging effort ("seeing my progress in real time keeps me motivated," P5). It strengthens [[self-directed-learning|autonomy]] by offering choices, creating flexible learning spaces, and promoting [[metacognition|metacognitive]] awareness via AI coaches and interactive [[visualization|dashboards]]. For **self-assessment**, predictive and diagnostic analytics let learners review performance and set realistic goals while retaining control over the reflection process ("AI shows me where I stand without judging me," P11). Throughout, learners value the pairing of human-like [[conversational-ai|conversational]] agents with data-driven dashboards.
+AI supports **involvement** by sustaining [[motivation|motivation]] — sparking questions, tapping interests, offering continuous [[feedback|feedback]], and acknowledging effort ("seeing my progress in real time keeps me motivated," P5). It strengthens [[self-directed-learning|autonomy]] by offering choices, creating flexible learning spaces, and promoting [[metacognition|metacognitive]] awareness via AI coaches and interactive [[visualization|dashboards]]. For **self-assessment**, predictive and diagnostic analytics let learners review performance and set realistic goals while retaining control over the reflection process ("AI shows me where I stand without judging me," P11). Throughout, learners value the pairing of human-like [[conversational-ai|conversational]] agents with data-driven dashboards.
 
 ### Experience: transformative and experiential learning
 
@@ -65,19 +65,19 @@ AI supports **relevance** through goal orientation — real-time progress monito
 
 **Human-in-the-loop (HITL):** Learners want systems that build [[human-in-the-loop-ai|shared mental models]] with them — human-interpretable decision-making so they can understand and anticipate system behavior while the AI continuously learns their expectations, preferences, and goals. They also demand **human-AI co-creation**: *"It's not the system that decides what to offer for my learning journey. I'd like to take part in deciding…"* (P20), letting learners influence generative parameters and model choices as co-creators rather than passive users. This is a direct call to honor [[agency|learner agency]].
 
-**Emotional design:** Aligned with [[affective-computing|affective computing]], learners want AI to *calibrate an appropriate level of reliance* — being explicit about its capabilities, limitations, and sources so they can decide when to [[trust]] or negate its output — and to practice **empathetic communication** that recognizes, understands, and responds to emotional states, cultivating positive emotions (excitement, joy, satisfaction) while managing frustration and [[anxiety-and-stress|anxiety]]. This emotional attunement supports [[well-being]] and [[self-regulated-learning|self-regulation]] in learning.
+**Emotional design:** Aligned with [[affective-computing|affective computing]], learners want AI to *calibrate an appropriate level of reliance* — being explicit about its capabilities, limitations, and sources so they can decide when to [[trust|trust]] or negate its output — and to practice **empathetic communication** that recognizes, understands, and responds to emotional states, cultivating positive emotions (excitement, joy, satisfaction) while managing frustration and [[anxiety-and-stress|anxiety]]. This emotional attunement supports [[well-being|well-being]] and [[self-regulated-learning|self-regulation]] in learning.
 
-**Adaptability:** AI should keep learning from new interactions after deployment rather than remaining frozen on static datasets, graduating from closed [[problem-solving]] to varied real-world problems. It should also be **interoperable**, moving and exchanging data seamlessly across platforms and tools — even enabling [[conversational-ai|multi-agent]] collaboration.
+**Adaptability:** AI should keep learning from new interactions after deployment rather than remaining frozen on static datasets, graduating from closed [[problem-solving|problem-solving]] to varied real-world problems. It should also be **interoperable**, moving and exchanging data seamlessly across platforms and tools — even enabling [[conversational-ai|multi-agent]] collaboration.
 
 ## Relevance to the knowledge base
 
-This paper is the companion to the knowledge base's [[kim-ai-productive-failure-adult-2026]] entry (same author group), and together they form a cohesive picture of how adult learners want AI to *[[scaffolding|scaffold]]* rather than substitute for learning. Here the lens is **andragogy** specifically: it operationalizes Knowles' principles (involvement, experience, problem-centered, relevance) into concrete AI affordances and design guidance. It strongly anchors the [[adult-learning]], [[human-in-the-loop-ai]], and [[affective-computing]] concepts, and connects AI design to [[self-directed-learning|autonomy]] and [[learning-theories]]. Its finding that learners resist over-prescriptive, answer-giving AI reinforces the knowledge base-wide theme of preserving learner agency and judgment in [[human-ai-collaboration|human-AI collaboration]].
+This paper is the companion to the knowledge base's [[kim-ai-productive-failure-adult-2026|Kim et al. (2026)]] entry (same author group), and together they form a cohesive picture of how adult learners want AI to *[[scaffolding|scaffold]]* rather than substitute for learning. Here the lens is **andragogy** specifically: it operationalizes Knowles' principles (involvement, experience, problem-centered, relevance) into concrete AI affordances and design guidance. It strongly anchors the [[adult-learning|adult learning]], [[human-in-the-loop-ai|human-in-the-loop]], and [[affective-computing|affective computing]] concepts, and connects AI design to [[self-directed-learning|autonomy]] and [[learning-theories|learning theories]]. Its finding that learners resist over-prescriptive, answer-giving AI reinforces the knowledge base-wide theme of preserving learner agency and judgment in [[human-ai-collaboration|human-AI collaboration]].
 
 ## What this means for practice
 
 - **Designers.** Build AI that asks reflective questions, challenges assumptions, and verifies rather than supplies answers: participants repeatedly rejected the answer-giving oracle framing ("it's better when AI makes me question my own answer," P3).
-- **Designers.** Make reliance calibratable by having the system state its capabilities, limitations, and sources so learners can decide when to [[trust]] or reject an output.
-- **Designers.** Design for emotional attunement as well as correctness — empathetic communication that recognizes frustration and anxiety while sustaining [[motivation]] and [[self-efficacy|self-direction]].
+- **Designers.** Make reliance calibratable by having the system state its capabilities, limitations, and sources so learners can decide when to [[trust|trust]] or reject an output.
+- **Designers.** Design for emotional attunement as well as correctness — empathetic communication that recognizes frustration and anxiety while sustaining [[motivation|motivation]] and [[self-efficacy|self-direction]].
 - **Designers.** Leave learners in control of the learning path: participants wanted to shape generative parameters and model choices as co-creators rather than accept a system-decided journey (P20).
 - **Instructors.** Map each AI tool to a specific andragogical aim using the study's eleven-scenario set — a teachable agent for involvement, a dashboard for [[self-directed-learning|autonomy]], a case library for problem-centered learning — instead of adopting tools for generic [[student-engagement|engagement]].
 
@@ -86,7 +86,7 @@ This paper is the companion to the knowledge base's [[kim-ai-productive-failure-
 - Twenty adult learners were interviewed from a screened pool of 60 degree-seeking students at three East Coast U.S. universities, so non-degree-holding adults and learners in other cultural and socioeconomic contexts are unrepresented.
 - The data are perceptions collected with storyboards and paper prototypes built by 24 graduate students, not measured [[learning-gains|learning outcomes]], and no authentic deployed AI system was studied over time.
 - Participants reacted to eleven scenarios deliberately designed to map one-to-one onto andragogical principles, so the close fit between AI affordances and andragogy is partly a property of the instrument.
-- Ethical dimensions — data [[privacy]], [[bias-mitigation|algorithmic bias]], and [[trust]] — were not probed in the interviews, and the authors frame the three design principles as design direction rather than validated effects.
+- Ethical dimensions — data [[privacy|privacy]], [[bias-mitigation|algorithmic bias]], and [[trust|trust]] — were not probed in the interviews, and the authors frame the three design principles as design direction rather than validated effects.
 
 ## Citation
 

@@ -14,7 +14,7 @@ level: [k 12, higher ed]
 page_kind: [framework]
 ---
 
-> **Synthesis:** Lu and Zhang (2026) present EduSim-LLM, an [[edtech-platform|educational platform]] that integrates [[llm|large language models]] with robot [[simulation]] to make robotic control accessible to beginners. Recognizing that the integration of natural language understanding into robotic control is a key challenge in human-robot interaction, the platform constructs a language-driven control model that translates natural-language instructions into executable robot behavior sequences in CoppeliaSim. The authors design two human-robot interaction models — direct control and autonomous control — and conduct systematic evaluations of their educational and practical [[accessibility]].
+> **Synthesis:** Lu and Zhang (2026) present EduSim-LLM, an [[edtech-platform|educational platform]] that integrates [[llm|large language models]] with robot [[simulation|simulation]] to make robotic control accessible to beginners. Recognizing that the integration of natural language understanding into robotic control is a key challenge in human-robot interaction, the platform constructs a language-driven control model that translates natural-language instructions into executable robot behavior sequences in CoppeliaSim. The authors design two human-robot interaction models — direct control and autonomous control — and conduct systematic evaluations of their educational and practical [[accessibility|accessibility]].
 
 ## Key Findings
 
@@ -32,7 +32,7 @@ This is a **platform development and evaluation study**. The [[research-methods-
 - **Software developers.** Build a language-driven control layer that translates natural-language instructions into executable robot behavior sequences in a simulator such as CoppeliaSim, so beginners can command a robot without writing low-level code.
 - **Software developers.** Expose two interaction modes — direct step-by-step control and autonomous control — and let learners switch between them, because each suits different tasks and skill levels.
 - **Software developers.** Grade the system against a benchmark spanning instruction complexities before classroom use: across 108 cases on three robot types, success fell from 100% on simple tasks to 94.4% composite and 88.9% complex, so complexity is the failure surface to test.
-- **Instructors.** Use conversational control as the entry point to [[educational-robotics|robotics]] and [[computational-thinking]], and reserve low-level programming for once learners hold the concepts, so novices are not blocked by syntax.
+- **Instructors.** Use conversational control as the entry point to [[educational-robotics|robotics]] and [[computational-thinking|computational thinking]], and reserve low-level programming for once learners hold the concepts, so novices are not blocked by syntax.
 
 ## Limitations
 

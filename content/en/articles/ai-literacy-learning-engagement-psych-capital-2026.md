@@ -35,7 +35,7 @@ Analysis used SPSS for descriptives and correlations and SmartPLS for partial le
 
 ## What this means for practice
 
-- **Instructors.** Pair [[ai-literacy]] coursework with psychological-capital building — [[self-efficacy]], hope, optimism, and resilience — through scaffolded, progressively harder AI-assisted projects, because roughly half of the literacy effect on engagement ran through psychological capital (R² = 0.507 for psychological capital, 0.497 for engagement).
+- **Instructors.** Pair [[ai-literacy|AI literacy]] coursework with psychological-capital building — [[self-efficacy|self-efficacy]], hope, optimism, and resilience — through scaffolded, progressively harder AI-assisted projects, because roughly half of the literacy effect on engagement ran through psychological capital (R² = 0.507 for psychological capital, 0.497 for engagement).
 - **Designers.** Front-load identity work for students with weak professional commitment — professional orientation courses, alumni career [[storytelling-in-education|storytelling]], industry practice, and mentoring that ties content to careers — since commitment nearly doubled the conversion of psychological capital into engagement (conditional effect 0.374 at high commitment versus 0.204 at low).
 - **Instructors.** Differentiate by profile: students high in AI literacy but low in psychological capital benefit most from small-step, achievable [[group-work|group projects]], while students low on both dimensions need foundational support on both at once.
 - **Administrators.** Screen psychological capital and professional commitment inside academic monitoring to flag the two priority groups, and remember that commitment is a moderator rather than a driver — its direct effect on engagement was negligible.
@@ -46,7 +46,7 @@ Analysis used SPSS for descriptives and correlations and SmartPLS for partial le
 - The cross-sectional design precludes strict causal inference; reverse or reciprocal paths (e.g. engaged students seeking out AI literacy) cannot be ruled out. Longitudinal designs or pretest–posttest intervention studies are needed.
 - The sample is confined to undergraduates at four universities in Zhengzhou, limiting generalizability across regions, disciplines, and educational levels.
 - Only psychological capital as a composite construct was tested as a mediator; future work should disaggregate AI self-efficacy, technological resilience, and other specific mediators.
-- Rapid iteration of [[generative-ai|generative AI]] is shifting use from shallow instrumental application toward deep collaborative co-creation, so the conceptualization and measurement of AI literacy — and assessment tools capable of capturing adaptability and [[reflection]] across usage patterns — must evolve accordingly.
+- Rapid iteration of [[generative-ai|generative AI]] is shifting use from shallow instrumental application toward deep collaborative co-creation, so the conceptualization and measurement of AI literacy — and assessment tools capable of capturing adaptability and [[reflection|reflection]] across usage patterns — must evolve accordingly.
 
 ## Citation
 

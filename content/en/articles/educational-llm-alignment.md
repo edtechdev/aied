@@ -16,7 +16,7 @@ assessment: [educational-measurement]
 methods: [benchmark]
 ---
 
-> **Synthesis:** The gap between what LLMs are *capable* of and what actually *benefits learners* — benchmark performance, downstream task quality, and intended educational impact are three distinct and often-misaligned levels.
+> **Synthesis:** The gap between what LLMs are *capable* of and what actually *benefits learners* — [[benchmark|benchmark]] performance, downstream task quality, and intended educational impact are three distinct and often-misaligned levels.
 
 ## The Three-Layer Alignment Problem
 
@@ -37,7 +37,7 @@ The paper demonstrates these three layers are not just loosely coupled — they 
 - **Metrics:** Bias-corrected distance correlation (dCor²) for dependence; Kendall's τ for directional alignment with expert ratings and student VAMs.
 
 ### Finding 1: LLMs Share a Homogeneous "Pedagogy Heuristic"
-[[llm]]-LLM agreement is substantially higher than LLM-human agreement. Models converge on a shared latent heuristic of "good teaching" that doesn't match expert human distinctions. This is attributed to shared pretraining on Internet text lacking authentic classroom discourse.
+[[llm|LLM]]-LLM agreement is substantially higher than LLM-human agreement. Models converge on a shared latent heuristic of "good teaching" that doesn't match expert human distinctions. This is attributed to shared pretraining on Internet text lacking authentic classroom discourse.
 
 ### Finding 2: Benchmark Alignment ≠ Student Impact
 Some models align moderately with expert ratings, but alignment with student learning gains is often **near zero or negative**. Human raters show a real (τ ≈ 0.11–0.14) signal with VAMs; LLMs largely don't. Reasoning-enhanced variants (o1, DeepSeek-R1) showed **no improvement**.
@@ -50,18 +50,18 @@ Choice of LLM and prompting strategy accounts for only ~15% of misalignment; the
 
 ## Broader Implications
 
-1. **Stop benchmarking alone** — High scores on MMLU or even pedagogy-specific [[benchmark|benchmarks]] do not predict beneficial educational impact. See [[teachbench-llm-teaching-evaluation]] for syllabus-grounded alternatives.
+1. **Stop benchmarking alone** — High scores on MMLU or even pedagogy-specific [[benchmark|benchmarks]] do not predict beneficial educational impact. See [[teachbench-llm-teaching-evaluation|Li et al. (2026)]] for syllabus-grounded alternatives.
 2. **Ensembles are not a safety net** — When models share the same flawed pretraining priors, voting and weighting make things worse.
-3. **Pretraining is the intervention point** — The field's focus on post-hoc alignment ([[reinforcement-learning|RLHF]], prompting) misses that shared pretraining corpora embed the core misalignment. See [[llm-training-and-fine-tuning]] for training approaches.
-4. **Measure impact directly** — Practitioners must evaluate against intended student outcomes, not proxy task accuracy. Connects to [[stanford-evidence-base-ai-k12-2026]] demands for causal evidence.
+3. **Pretraining is the intervention point** — The field's focus on post-hoc alignment ([[reinforcement-learning|RLHF]], prompting) misses that shared pretraining corpora embed the core misalignment. See [[llm-training-and-fine-tuning|LLM training and fine-tuning]] for training approaches.
+4. **Measure impact directly** — Practitioners must evaluate against intended student outcomes, not proxy task accuracy. Connects to [[stanford-evidence-base-ai-k12-2026|Walker et al. (2026)]] demands for causal evidence.
 
-This finding is a deep challenge to the [[zerkouk-comprehensive-review-its-2025|ITS effectiveness literature]]: if even the best models can't align with student learning, what does "effective" tutoring AI look like? It also reinforces the [[stanford-evidence-base-ai-k12-2026]] finding that general-purpose AI underperforms pedagogically-designed systems.
+This finding is a deep challenge to the [[zerkouk-comprehensive-review-its-2025|ITS effectiveness literature]]: if even the best models can't align with student learning, what does "effective" tutoring AI look like? It also reinforces the [[stanford-evidence-base-ai-k12-2026|Walker et al. (2026)]] finding that general-purpose AI underperforms pedagogically-designed systems.
 
 ## Open Questions
 
 - Can pretraining on authentic classroom data (not just Internet text) close the alignment gap?
 - Are there tasks where the alignment gap is smaller (e.g., factual tutoring vs. [[qualitative-research|qualitative]] judgment)?
-- How does this interact with [[llm-fallacy-misattribution]] — do students [[trust-calibration|over-trust]] misaligned AI outputs?
+- How does this interact with [[llm-fallacy-misattribution|Kim et al. (2026)]] — do students [[trust-calibration|over-trust]] misaligned AI outputs?
 
 ## What this means for practice
 

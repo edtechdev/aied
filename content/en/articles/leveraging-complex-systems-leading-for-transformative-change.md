@@ -13,7 +13,7 @@ page_kind: [framework]
 institutions: [change-management, educational-policy-ai, governance]
 ---
 
-> **Synthesis:** Dawson and Pardo (2026) argue that [[generative-ai|generative AI]] (GenAI) is precipitating a systemic, paradigmatic transformation of education — not a passing fad — and that traditional bureaucratic leadership structures are ill-suited for its pace, scale, and sociotechnical nature. They introduce the **SPARK framework** (Systems, Problem, Analysis, [[research-methods-aied|Research]], and Knowledge brokerage), a pragmatic model that operationalizes Complexity Leadership Theory (CLT) to help educational leaders navigate the tension between [[governance|institutional]] stability and systemic innovation, translating GenAI-enhanced [[pedagogy]] from isolated pilots into scalable, institutionally embedded practices.
+> **Synthesis:** Dawson and Pardo (2026) argue that [[generative-ai|generative AI]] (GenAI) is precipitating a systemic, paradigmatic transformation of education — not a passing fad — and that traditional bureaucratic leadership structures are ill-suited for its pace, scale, and sociotechnical nature. They introduce the **SPARK framework** (Systems, Problem, Analysis, [[research-methods-aied|Research]], and Knowledge brokerage), a pragmatic model that operationalizes Complexity Leadership Theory (CLT) to help educational leaders navigate the tension between [[governance|institutional]] stability and systemic innovation, translating GenAI-enhanced [[pedagogy|pedagogy]] from isolated pilots into scalable, institutionally embedded practices.
 
 ## Key Findings
 
@@ -31,7 +31,7 @@ This is a theoretical/conceptual paper. Drawing on Kuhn's theory of paradigm shi
 
 - **Administrators.** Diagnose GenAI challenges as adaptive rather than technical, and socialize a precise, contextual problem statement; a goal such as "increase GenAI usage" is too vague to guide institutional action.
 - **Administrators.** Map the system before acting: stocktake the policies, processes, platforms, and stakeholders involved, and identify the governance structures the new practice requires but the institution does not yet have.
-- **Administrators.** Broaden analytics beyond tool uptake to student–[[student-ai-interaction|AI interaction]] traces, authorship and co-production patterns, AI-mediated feedback, bias and fairness concerns, and any shift in [[assessment]] validity.
+- **Administrators.** Broaden analytics beyond tool uptake to student–[[student-ai-interaction|AI interaction]] traces, authorship and co-production patterns, AI-mediated feedback, bias and fairness concerns, and any shift in [[assessment|assessment]] validity.
 - **Administrators.** Broker knowledge through dense, overlapping networks — faculty learning communities, cross-functional teams, student-led initiatives — because high-risk innovations need multiple reinforcing exposures from trusted networks rather than a linear rollout, and distribute agency across staff and students.
 - **Instructors.** Treat pedagogy as the core of the transformation: redesign what counts as evidence of learning and how feedback is generated rather than relying on detection systems, and approach algorithmic [[personalized-learning|personalization]] critically, since it risks narrowing educational purposes and displacing the relational and collective dimensions of learning.
 

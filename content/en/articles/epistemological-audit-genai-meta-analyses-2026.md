@@ -53,7 +53,7 @@ The reported [[limitations-in-aied-research|limitations]] read as a checklist of
 - The audit covers only five meta-analyses and their 87 primary studies, so it characterizes the first synthesis wave after ChatGPT rather than the field's later evidence.
 - The authors' own three-level models are described as exploratory, and their sensitivity analyses are a robustness check rather than a preregistered primary analysis.
 - The reconstructed pool depends on how primary studies were classified by outcome, and 18 of the 87 studies could not be classified at all, so the 79.7% / 11.6% split rests on the classifiable subset of 69.
-- As a preprint it has not yet undergone peer review, and the authors themselves used [[llm]] tools for editing and analysis code, which they declare.
+- As a preprint it has not yet undergone peer review, and the authors themselves used [[llm|LLM]] tools for editing and analysis code, which they declare.
 
 ## Citation
 

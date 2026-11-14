@@ -13,7 +13,7 @@ sources: ['raw/papers/panciroli-ai-literacy-episodes-situated-learning.md']
 confidence: high
 ---
 
-> **Synthesis:** Panciroli, Allegra, Gentile & Rivoltella propose a framework for curricular AI literacy integration built on the **Episode of Situated Learning (ESL)** instrument. ESL is an active [[teacher-role|teaching]] device organized around three verbs — *anticipate, produce, reflect* — that operates at both the micro level (lesson planning) and macro level ([[curriculum-design|curriculum]] construction). The authors situate AI literacy within the broader landscape of new literacies (media, information, data, AI), draw on European AI competence frameworks (EU Digital Education Action Plan, de la Higuera's five pillars, DigComp 2.2), and distinguish direct didactics of AI (learning how AI works) from indirect teaching of AI (learning to collaborate with AI). Both levels fall under an educational mode of "[[explainable-ai|explainability]]" centered on social interaction and school-community participation.
+> **Synthesis:** Panciroli, Allegra, Gentile & Rivoltella propose a framework for curricular [[ai-literacy|AI literacy]] integration built on the **Episode of [[situated-learning|Situated Learning]] (ESL)** instrument. ESL is an active [[teacher-role|teaching]] device organized around three verbs — *anticipate, produce, reflect* — that operates at both the micro level (lesson planning) and macro level ([[curriculum-design|curriculum]] construction). The authors situate AI literacy within the broader landscape of new literacies (media, information, data, AI), draw on European AI competence frameworks (EU Digital Education Action Plan, de la Higuera's five pillars, DigComp 2.2), and distinguish direct didactics of AI (learning how AI works) from indirect teaching of AI (learning to collaborate with AI). Both levels fall under an educational mode of "[[explainable-ai|explainability]]" centered on social interaction and school-community participation.
 
 ## AI literacy within the new literacies landscape
 
@@ -23,8 +23,8 @@ The paper situates [[ai-education|AI education]] within the broader evolution of
 
 The proposal is anchored in existing European frameworks:
 - The **EU Digital Education Action Plan (2021-2027)** identifies digital skills for "literacy, including combating misinformation, teaching computer literacy, [and] knowledge of data-intensive [[ai-technologies|technologies]]."
-- **de la Higuera's five pillars** for building an AI curriculum: (1) Data Awareness, (2) Uncertainty and Randomness, (3) Coding and [[computational-thinking|Computational Thinking]], (4) [[critical-thinking|Critical Thinking]], and (5) **Post-AI Humanism** — the idea that AI forces reconsideration of fundamental truths about the human being (Truth, Experience, [[creativity]], Intelligence).
-- **DigComp 2.2** (Italian Digital Agency, 2022), which addresses new and emerging AI technologies including personal data, interaction with AI systems, IoT, environmental [[sustainability]], new forms of work, virtual/[[virtual-and-augmented-reality|augmented reality]], and robotisation.
+- **de la Higuera's five pillars** for building an AI curriculum: (1) Data Awareness, (2) Uncertainty and Randomness, (3) Coding and [[computational-thinking|Computational Thinking]], (4) [[critical-thinking|Critical Thinking]], and (5) **Post-AI Humanism** — the idea that AI forces reconsideration of fundamental truths about the human being (Truth, Experience, [[creativity|creativity]], Intelligence).
+- **DigComp 2.2** (Italian Digital Agency, 2022), which addresses new and emerging AI technologies including personal data, interaction with AI systems, IoT, environmental [[sustainability|sustainability]], new forms of work, virtual/[[virtual-and-augmented-reality|augmented reality]], and robotisation.
 
 ## Two levels of AI in education
 
@@ -40,7 +40,7 @@ ESL is an active teaching instrument built on three verbs — **anticipate** (st
 
 ## Educational significance
 
-This paper connects [[ai-literacy|AI literacy]] to [[situated-learning|situated learning]] theory as a curricular design strategy. It positions AI competence as something to be developed through active, situated episodes rather than abstract instruction, bridging technical and non-technical disciplines. The "Post-AI Humanism" pillar links to the broader [[philosophy-of-ai-in-education|philosophy of AI in education]] discussion, while the direct/indirect distinction and explainability mode connect to [[learning-design]] and [[k-12]].
+This paper connects [[ai-literacy|AI literacy]] to [[situated-learning|situated learning]] theory as a curricular design strategy. It positions AI competence as something to be developed through active, situated episodes rather than abstract instruction, bridging technical and non-technical disciplines. The "Post-AI Humanism" pillar links to the broader [[philosophy-of-ai-in-education|philosophy of AI in education]] discussion, while the direct/indirect distinction and explainability mode connect to [[learning-design|learning design]] and [[k-12]].
 
 ## Key Findings
 
@@ -53,10 +53,10 @@ This paper connects [[ai-literacy|AI literacy]] to [[situated-learning|situated 
 
 ## What this means for practice
 
-- **Instructors.** Plan [[ai-literacy]] as bounded, timetabled episodes that move through anticipate, produce, and reflect, using the opening phase to surface students' existing pre-knowledge and hypotheses about AI before any tool is used.
+- **Instructors.** Plan [[ai-literacy|AI literacy]] as bounded, timetabled episodes that move through anticipate, produce, and reflect, using the opening phase to surface students' existing pre-knowledge and hypotheses about AI before any tool is used.
 - **Instructors.** Label which of the two jobs an activity serves — direct didactics of AI (definitions, how a model trains on data, its modes of operation) or indirect teaching of AI (using AI to solve a problem and collaborating with it) — and make sure students meet both.
-- **Instructors.** Anchor episodes in real-world [[problem-solving]] and social interaction and run them in an "explainability" mode, so students interrogate how a tool works and where its limits lie rather than only consuming its output.
-- **Instructors.** Reserve reflection time for the post-AI humanism questions — what these systems force us to reconsider about truth, experience, [[creativity]], and intelligence — since the framework treats that pillar as part of the competence, not an add-on.
+- **Instructors.** Anchor episodes in real-world [[problem-solving|problem-solving]] and social interaction and run them in an "explainability" mode, so students interrogate how a tool works and where its limits lie rather than only consuming its output.
+- **Instructors.** Reserve reflection time for the post-AI humanism questions — what these systems force us to reconsider about truth, experience, [[creativity|creativity]], and intelligence — since the framework treats that pillar as part of the competence, not an add-on.
 - **Administrators.** Build the AI curriculum at the macro level as a sequence of episodes that bridges technical and non-technical disciplines, rather than as a standalone technology module bolted onto one subject.
 
 ## Limitations

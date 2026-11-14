@@ -42,7 +42,7 @@ A **3 × 4 between-subjects design** with 274 participants (Mechanical Turk work
 
 ## What this means for practice
 
-- **Designers.** Generate first-draft worked-solution hints with an [[llm]], then run [[hallucination-risk|self-consistency]] — prompt each problem repeatedly and serve the modal answer — before students see them: this took the raw 32% hint-error rate to near zero in the three algebra subjects and 13% in statistics.
+- **Designers.** Generate first-draft worked-solution hints with an [[llm|LLM]], then run [[hallucination-risk|self-consistency]] — prompt each problem repeatedly and serve the modal answer — before students see them: this took the raw 32% hint-error rate to near zero in the three algebra subjects and 13% in statistics.
 - **Designers.** Keep a human quality-check step wherever near-zero error is not achievable; manual checking averaged 37.6 seconds per hint, cheap enough to run across a full content library.
 - **Instructors.** Where verified error rates are not near zero, present AI help as coming from an "imperfect robot" or peer-like source so students evaluate it critically instead of treating it as authoritative.
 - **Designers.** Treat LLM-authored hints as a candidate replacement for costly human authoring only after re-testing error rates in the target domain: disqualification ranged from 25% in Elementary Algebra to 47% in Intermediate Algebra even though generation cost roughly 1/20th of human authoring.

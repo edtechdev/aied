@@ -17,9 +17,9 @@ page_kind: [synthesis]
 
 ## Key Findings
 
-- **Six AI applications support engagement.** The review classifies AI use into: (1) AI chatbots integrated into [[learning-design|online course design]], (2) emotion, facial, voice recognition and eye tracking, (3) [[learning-analytics|machine learning for data analysis]], (4) teacher–student interaction support, (5) personalized [[feedback]] and recommendations, and (6) AI-powered bots in smart learning environments.
+- **Six AI applications support engagement.** The review classifies AI use into: (1) AI chatbots integrated into [[learning-design|online course design]], (2) emotion, facial, voice recognition and eye tracking, (3) [[learning-analytics|machine learning for data analysis]], (4) teacher–student interaction support, (5) personalized [[feedback|feedback]] and recommendations, and (6) AI-powered bots in smart learning environments.
 - **Chatbots foster engagement through timely, personalized support.** AI-powered [[conversational-ai|chatbots]] are effective across learning domains and stages — delivering course information, interactive practice, and information retrieval — with comparative analyses finding them especially effective when deployed for personalized, on-demand assistance.
-- **Affective and behavioral monitoring.** Emotion recognition, facial and voice tracking, and eye tracking enable real-time assessment of behavioral, emotional, and cognitive engagement — recognizing states from boredom and confusion to interest and enjoyment using facial expressions, physiological signals, and voice data.([[affective-computing]])
+- **Affective and behavioral monitoring.** Emotion recognition, facial and voice tracking, and eye tracking enable real-time assessment of behavioral, emotional, and cognitive engagement — recognizing states from boredom and confusion to interest and enjoyment using facial expressions, physiological signals, and voice data.([[affective-computing|affective computing]])
 - **Common data sources and measurement.** Studies rely on video recordings, activity logs, standardized datasets, and surveys; engagement is typically measured through multi-method approaches combining surveys, AI recognition, and coded activity data.
 - **Integration improves insight.** Combining diverse AI tools and data sources provides more accurate, real-time insight into students' cognitive, emotional, and behavioral engagement than single-source approaches.
 
@@ -30,7 +30,7 @@ A [[meta-analysis-systematic-review|systematic literature review]] of 24 peer-re
 ## What this means for practice
 
 - **Instructional designers.** Integrate multiple AI modalities and [[multimodal|data sources]] instead of relying on a single signal — the review's six applications (chatbots, emotion/facial/voice recognition and eye tracking, machine learning analysis, interaction support, personalized feedback, and bots in smart environments) each surface a different facet of engagement.
-- **Learning analytics designers.** Measure [[student-engagement]] across behavioral, emotional, and cognitive dimensions and record which instrument produced each signal, since the reviewed studies draw on video recordings, activity logs, standardized datasets, and surveys.
+- **Learning analytics designers.** Measure [[student-engagement|student engagement]] across behavioral, emotional, and cognitive dimensions and record which instrument produced each signal, since the reviewed studies draw on video recordings, activity logs, standardized datasets, and surveys.
 - **Educators.** Deploy [[conversational-ai|chatbots]] for on-demand course information, interactive practice, and support, the mode in which comparative analyses found them most effective — especially relevant in [[online-teaching-and-learning|online learning]], where [[self-regulated-learning|self-regulation]] demands make sustained engagement harder than in person.
 - **Researchers.** Address the open questions the review identifies: real-time interventions, long-term impacts, [[ethics|ethical considerations]], and the difference between synchronous and asynchronous online learning.
 

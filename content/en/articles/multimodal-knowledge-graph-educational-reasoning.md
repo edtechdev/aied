@@ -12,7 +12,7 @@ audience: [software developers, researchers]
 level: [higher ed]
 ---
 
-> **Synthesis:** This paper introduces an evidence-grounded [[multimodal]] pipeline that constructs provenance-rich [[knowledge-graph|knowledge graphs]] from [[video-education|lecture videos]] by integrating speech transcripts, slide OCR, and vision-language model analysis. Processing three neural-network lectures, the pipeline extracted 172 canonical concepts and 282 typed relationships with 90.38% endpoint coverage, achieving perfect retrieval accuracy on a preliminary test. The approach addresses a key challenge in [[ai-education|educational AI]]: converting rich multimodal lecture content into structured, queryable knowledge representations without losing the evidential provenance that makes them trustworthy.
+> **Synthesis:** This paper introduces an evidence-grounded [[multimodal|multimodal]] pipeline that constructs provenance-rich [[knowledge-graph|knowledge graphs]] from [[video-education|lecture videos]] by integrating speech transcripts, slide OCR, and vision-language model analysis. Processing three neural-network lectures, the pipeline extracted 172 canonical concepts and 282 typed relationships with 90.38% endpoint coverage, achieving perfect retrieval accuracy on a preliminary test. The approach addresses a key challenge in [[ai-education|educational AI]]: converting rich multimodal lecture content into structured, queryable knowledge representations without losing the evidential provenance that makes them trustworthy.
 
 ## Key Findings
 
@@ -60,7 +60,7 @@ Across the three lectures, the model returned 1,155 raw concept and 400 raw rela
 - **Designers.** Require an evidence quotation, frame, or OCR string for every extracted concept and relation, and expose it: the pipeline retained 1,022 of 1,155 raw concept mentions and 312 of 400 relationship mentions through evidence and confidence checks, and that provenance is what lets an instructor inspect or correct a wrong extraction.
 - **Designers.** Set an explicit confidence floor and hold visual-only claims to a stricter bar than transcript- or OCR-backed ones: the 0.55 minimum plus evidence-pool checking is credited with reducing the risk of a structurally plausible graph that no source supports.
 - **Designers.** Track endpoint coverage as a build diagnostic: canonicalization collapsed 1,022 mentions into 172 concepts, and the 90.38% endpoint retention after deduplication is what distinguishes relation losses caused by merging from losses caused by extraction.
-- **Designers.** Use the graph as the structural layer under [[adaptive-learning|adaptive]] and [[student-modeling]] features: typed prerequisite_of edges are the dependency structure a sequencing or diagnosis component reads, and the evidence attached to each edge keeps that layer inspectable.
+- **Designers.** Use the graph as the structural layer under [[adaptive-learning|adaptive]] and [[student-modeling|student modeling]] features: typed prerequisite_of edges are the dependency structure a sequencing or diagnosis component reads, and the evidence attached to each edge keeps that layer inspectable.
 - **Instructors.** Use the typed relations for cross-lecture review and sequencing: edges carry relation type, lecture, and timestamp, so prerequisite_of and component_of edges give learners an evidence-backed path rather than a flat transcript search.
 
 ## Limitations

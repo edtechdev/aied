@@ -26,7 +26,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Zhang, Geng and Qi surveyed 406 university students in Henan, China, in April 2026, asking each participant to recall a specific classmate who had used [[generative-ai|generative AI]] and then to rate that classmate's GenAI use, perceived AI literacy, warmth and competence, and the participant's own [[trust]] in them. GenAI use was negatively associated with interpersonal trust, and perceived warmth and perceived competence each carried part of that association. Perceived AI literacy moderated only the direct path: the negative association was significant when perceived AI literacy was low and non-significant when it was high, while the indirect paths through warmth and competence were unchanged. The design is a single cross-sectional recall survey, so the reported paths are associations rather than effects, and every rating is one student's perception of a remembered peer rather than a measure of a real working relationship.
+> **Synthesis:** Zhang, Geng and Qi surveyed 406 university students in Henan, China, in April 2026, asking each participant to recall a specific classmate who had used [[generative-ai|generative AI]] and then to rate that classmate's GenAI use, perceived [[ai-literacy|AI literacy]], warmth and competence, and the participant's own [[trust|trust]] in them. GenAI use was negatively associated with interpersonal trust, and perceived warmth and perceived competence each carried part of that association. Perceived AI literacy moderated only the direct path: the negative association was significant when perceived AI literacy was low and non-significant when it was high, while the indirect paths through warmth and competence were unchanged. The design is a single cross-sectional recall survey, so the reported paths are associations rather than effects, and every rating is one student's perception of a remembered peer rather than a measure of a real working relationship.
 
 ## Key Findings
 
@@ -52,7 +52,7 @@ The paper's story is that GenAI use is read socially: observers see a heavy user
 - **Treat AI use as a social signal, not only an integrity question.** In this sample, peer trust tracked perceived warmth (β = 0.47) and perceived competence (β = 0.32) more strongly than GenAI use itself, so how a class frames AI use may matter as much as whether it is permitted.
 - **Make reasoning about AI visible.** The negative association between use and trust was significant at low perceived AI literacy (β = −0.23) but not at high (β = 0.03, p = 0.57), which suggests work that surfaces how a student evaluates and checks AI output can shape peers' reading of that student.
 - **Do not expect a literacy framing to change the character judgment.** Perceived AI literacy did not moderate the warmth or competence paths, so presentations about "[[ethics|responsible AI]] use" address the direct trust concern, not the impression of the user's warmth.
-- **Watch peer-rating contexts.** Because students judge one another partly through AI use, [[peer-assessment]] and [[group-work]] routines that make AI use salient without context risk importing that penalty into evaluations of the person.
+- **Watch peer-rating contexts.** Because students judge one another partly through AI use, [[peer-assessment|peer assessment]] and [[group-work|group work]] routines that make AI use salient without context risk importing that penalty into evaluations of the person.
 
 ## Limitations
 

@@ -49,7 +49,7 @@ This is not the fatigue story (the control condition carried similar load with a
 ## What this means for practice
 
 - **Educators.** Test the unassisted residue: assisted accuracy is not evidence that structure was built, since prior tool use came with roughly 32% lower odds of a correct unaided answer.
-- **Educators.** Focus on the hardest items: incentives lengthened time on difficult Stage 2 questions only for students who had worked without the tool (126.4 s vs 84.7 s), so plan the tool's withdrawal and [[scaffolding]] rather than rewards after it.
+- **Educators.** Focus on the hardest items: incentives lengthened time on difficult Stage 2 questions only for students who had worked without the tool (126.4 s vs 84.7 s), so plan the tool's withdrawal and [[scaffolding|scaffolding]] rather than rewards after it.
 - **Educators.** Keep generative AI out of the step the task teaches: the harm case was the tool doing the integration that was the learning objective, while exploratory use looked benign or better.
 - **Educators.** Do not read a flat class average as safety: the preregistered aggregate test was null while item-level modeling found impairment concentrated on difficult questions.
 - **Researchers.** Measure access, extent and type of use separately: nearly 40% of participants with tool access barely used [[conversational-ai|ChatGPT]], diluting any condition-level comparison.

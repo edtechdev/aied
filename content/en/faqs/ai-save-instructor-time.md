@@ -46,7 +46,7 @@ That is reallocation rather than reduction: what you gain from [[generative-ai|g
 
 Quality is uneven in a pattern stable enough to plan around. Blind reviewers preferred AI versions of lesson conclusions and exit tickets 59.7% of the time over materials designed by professionals, and preferred AI material for high school content 59.2% of the time. The saving also grows where your confidence is lowest: teaching outside your own subject is the case with the widest gap between what the tool hands you and what you would have written alone.
 
-Two categories run the other way. On elementary-level material, humans were preferred about 65% of the time for developmental appropriateness. Targeted [[scaffolding|scaffolds]] for [[multilingual-learning|multilingual]] [[learners|learners and students]] in [[special-education]] came back neutral rather than wrong, which is worse than it sounds, since a neutral scaffold is one you rebuild from the start.
+Two categories run the other way. On elementary-level material, humans were preferred about 65% of the time for developmental appropriateness. Targeted [[scaffolding|scaffolds]] for [[multilingual-learning|multilingual]] [[learners|learners and students]] in [[special-education|special education]] came back neutral rather than wrong, which is worse than it sounds, since a neutral scaffold is one you rebuild from the start.
 
 The test that predicts this before you spend an evening on it: can you state the specification precisely enough to check the output? An exit ticket on one objective, yes. Whether a paragraph suits a particular nine-year-old who reads two years behind her class, no.
 
@@ -60,15 +60,15 @@ The caveat is the sentence to carry into the meeting. The bottom quartile showed
 
 ## Measure the saving rather than feel it
 
-Time saving is the claim instructors most reliably get wrong about themselves. Across three pre-registered studies with 2,691 participants, people underestimated how often they used AI and overestimated the time and effort it saved, reporting tasks as faster and easier while objective measures showed no difference. Using the tool earlier in a session predicted using it more later, so the error compounds inside a single afternoon ([[efficiency-gain-illusion-ai-overreliance]]).
+Time saving is the claim instructors most reliably get wrong about themselves. Across three pre-registered studies with 2,691 participants, people underestimated how often they used AI and overestimated the time and effort it saved, reporting tasks as faster and easier while objective measures showed no difference. Using the tool earlier in a session predicted using it more later, so the error compounds inside a single afternoon ([[efficiency-gain-illusion-ai-overreliance|Yu et al. (2026)]]).
 
 What helps is [[metacognition|metacognitive]] calibration, and the cheap version is a log. For two weeks, note start and end times on three recurring tasks, one with the tool and two without. Expect one task with a large genuine saving, several with none, and a couple where the tool added a review step that ate the gain.
 
-Effort and capability also come apart. A within-subjects study of 13 higher-education teachers found AI access cut the perceived cognitive effort of [[learning-design|learning design]] from a median of 6.33 to 3.33 (p = .004), while [[prompt-engineering|prompting]] training layered on top did not improve the quality of the designs ([[pishtari-teacher-ai-training-learning-design-2026]]). Less strain on a Thursday night is a real benefit. It is not evidence the designs improved.
+Effort and capability also come apart. A within-subjects study of 13 higher-education teachers found AI access cut the perceived cognitive effort of [[learning-design|learning design]] from a median of 6.33 to 3.33 (p = .004), while [[prompt-engineering|prompting]] training layered on top did not improve the quality of the designs ([[pishtari-teacher-ai-training-learning-design-2026|Pishtari et al., 2026]]). Less strain on a Thursday night is a real benefit. It is not evidence the designs improved.
 
 ## Keep objectives and final grades on your side
 
-[[reichert-human-centered-llm-chatbot-design-teachers-2026|Participatory design work with six secondary teachers]] produced a boundary worth copying. They designed the system as a bounded expert: capable inside a narrow domain, working under supervision. They wanted help presenting content, generating practice problems and giving formative [[feedback]], and refused to hand over objective-setting or summative [[assessment]], insisting on override for ambiguous cases. What they protected is the core of [[teacher-role|the teacher's role]]: deciding what is worth learning and judging whether it was learned.
+[[reichert-human-centered-llm-chatbot-design-teachers-2026|Participatory design work with six secondary teachers]] produced a boundary worth copying. They designed the system as a bounded expert: capable inside a narrow domain, working under supervision. They wanted help presenting content, generating practice problems and giving formative [[feedback|feedback]], and refused to hand over objective-setting or summative [[assessment|assessment]], insisting on override for ambiguous cases. What they protected is the core of [[teacher-role|the teacher's role]]: deciding what is worth learning and judging whether it was learned.
 
 Grading is the task with the largest apparent payoff and the weakest portability. [[opraise-automated-marking-ai-assessment-2026|The OpRaise benchmark]] ran three frontier models against 761 authentic undergraduate psychology essays from 125 students at three UK universities, with 27 prompt configurations per model. Agreement with human degree bands ran from 35% to 65% depending on institution. Marks compressed toward the middle, so the strongest and weakest essays were graded least accurately, and the models agreed with each other far more than with human markers. The authors' central finding is that evidence gathered in one context does not transfer to another.
 
@@ -84,7 +84,7 @@ You can use [[automated-essay-scoring|automated essay scoring]] if you validate 
 
 ## What will come back at you
 
-**"I tried it and the output was generic."** Most teachers in the research took the first result and edited it by hand rather than iterating with follow-up prompts. A second and third turn that supply your grade level, your reading, your last three quiz items and an example of what good looks like changes the output more than switching tools does. [[ai-literacy]] is the cheap investment, and [[prompt-engineering|prompt refinement]] is where it pays.
+**"I tried it and the output was generic."** Most teachers in the research took the first result and edited it by hand rather than iterating with follow-up prompts. A second and third turn that supply your grade level, your reading, your last three quiz items and an example of what good looks like changes the output more than switching tools does. [[ai-literacy|AI literacy]] is the cheap investment, and [[prompt-engineering|prompt refinement]] is where it pays.
 
 **"If I get faster, the time will be refilled with meetings."** Likely, and the most common way a saving disappears. Put the destination in writing where your chair can see it, before the space fills.
 
@@ -108,4 +108,4 @@ You can use [[automated-essay-scoring|automated essay scoring]] if you validate 
 
 ## Where to go next
 
-[[ai-feedback-at-scale]] takes the feedback question further, and [[faculty-ai-competencies]] with [[faculty-development-ai]] covers what a department can build so this stops depending on individual experimentation. [[redesign-assessment-ai-era]] and [[reduce-ai-cheating]] handle the assessment consequences. [[ai-changing-teaching-workflows]] is the article behind the preparation numbers, and [[human-in-the-loop-ai|human oversight]] is the governing principle.
+[[ai-feedback-at-scale]] takes the feedback question further, and [[faculty-ai-competencies]] with [[faculty-development-ai]] covers what a department can build so this stops depending on individual experimentation. [[redesign-assessment-ai-era]] and [[reduce-ai-cheating]] handle the assessment consequences. [[ai-changing-teaching-workflows|Ler (2026)]] is the article behind the preparation numbers, and [[human-in-the-loop-ai|human oversight]] is the governing principle.

@@ -1,7 +1,7 @@
 ---
 title: Usability Research
 created: "2026-08-24T02:15:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 connected_faqs: [designing-educational-ai-software]
 research_method: [system development, user study, interviews]
@@ -29,21 +29,21 @@ Usability and UX research answer questions like: Can students figure out how to 
 ## Core methods
 
 - **Think-aloud protocols.** Users verbalize their thoughts while performing tasks, revealing comprehension, confusion, and mental models in real time. [[code-anchor-multi-view-visualization|A study of multi-view code visualizations]] and [[learn-framework-responsible-genai-pbl-2026|the LEARN framework]] use think-aloud to understand how learners make sense of AI-assisted tools; [[feedback-futures-genai|feedback futures]] examines how learners process AI-generated feedback.
-- **User studies.** Structured task-based evaluations measure efficiency, error rates, satisfaction, and completion. [[rhaimi-productivemath-2025|ProductiveMath]] evaluates a [[generative-ai]] app's usability in supporting [[productive-failure]] teaching; [[supplynet-visual-exploratory-learning|SupplyNet]] runs a user study of a visual exploratory learning tool; [[llm-chatbots-cs-multiple-choice|LLM chatbots for CS multiple-choice]] assess interaction quality.
+- **User studies.** Structured task-based evaluations measure efficiency, error rates, satisfaction, and completion. [[rhaimi-productivemath-2025|ProductiveMath]] evaluates a [[generative-ai|generative AI]] app's usability in supporting [[productive-failure|productive failure]] teaching; [[supplynet-visual-exploratory-learning|SupplyNet]] runs a user study of a visual exploratory learning tool; [[llm-chatbots-cs-multiple-choice|LLM chatbots for CS multiple-choice]] assess interaction quality.
 - **Interviews and observation.** Qualitative usability interviews and observation capture user experience, preferences, and pain points. [[icub-humanoid-storytelling-llm-hri-2025|A usability study of a storytelling humanoid robot]] uses structured evaluation to ask whether [[parents-and-families|parents]] would let the robot interact with a child; [[genai-architectural-design-studios|AI in design studios]] observes and interviews students using AI in authentic design work.
 - **Systematic usability evaluation.** Heuristic evaluation, cognitive walkthrough, and questionnaire-based UX measures (e.g., SUS) systematically assess usability against established criteria.
 
 ## How usability research appears in the literature
 
 - **AI learning tool evaluation.** [[rhaimi-productivemath-2025|ProductiveMath]], [[supplynet-visual-exploratory-learning|SupplyNet]], and [[anvil-ai-educational-animations|educational animations]] are evaluated for usability and UX.
-- **Human–robot and [[conversational-ai|conversational AI]] interaction.** [[icub-humanoid-storytelling-llm-hri-2025|The humanoid storytelling study]] is an explicit usability study of [[llm]]-powered interaction; [[conversational-ai-agents-umbrella-review-2026|an umbrella review of conversational AI agents]] identifies usability and interaction quality as a recurring theme.
-- **Design and refinement.** Usability findings feed iterative design (see [[design-thinking]] and [[learning-design]]), improving tools before or alongside efficacy testing.
+- **Human–robot and [[conversational-ai|conversational AI]] interaction.** [[icub-humanoid-storytelling-llm-hri-2025|The humanoid storytelling study]] is an explicit usability study of [[llm|LLM]]-powered interaction; [[conversational-ai-agents-umbrella-review-2026|an umbrella review of conversational AI agents]] identifies usability and interaction quality as a recurring theme.
+- **Design and refinement.** Usability findings feed iterative design (see [[design-thinking|design thinking]] and [[learning-design|learning design]]), improving tools before or alongside efficacy testing.
 - **One instrument across contexts, and the ceiling that limits it.** [[mendonca-llm-feedback-perceived-usefulness-programming-2026|Mendonça et al. (2026)]] held domain, task, and instrument constant while educational level varied, so 144 students' ratings of 893 feedback answers and 237 reports compare contexts rather than disciplines — and only perceived accuracy differed across levels. The study also names the limit of this kind of user evaluation: 72.2 to 86.4 percent of students averaged at least 4 of 5, and the authors state that their non-significant differences do not establish equivalence because no margin was set in advance.
 - **Rater design reported as part of the finding.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] had 25 domain-matched experts judge 92 regenerated lectures against a rubric anchored at "a standard [[online-teaching-and-learning|MOOC]] lecture's quality," assigning each video to a single reviewer (k = 1) to spread the panel across more of the lecture set instead of collecting repeat ratings. The trade-off is modeled rather than hidden: a random-intercept model attributes about 35 percent of residual variance to the reviewer (ICC = 0.35) and intervals are reviewer-clustered, which is how an expert panel can report "87 percent at or above the bar" with an honest range.
 
 ## Relationship to other research families
 
-Usability research shares data-collection methods with [[qualitative-research|qualitative research]] (interviews, observation, think-aloud) but differs in *aim*: qualitative research interprets meaning and experience to build understanding and theory, whereas usability research evaluates an artifact against usability/UX criteria. It also overlaps with [[ai-ed-evaluation]] (assessing whether a system works) and with [[educational-measurement|measurement]] (quantifying usability constructs). Usability is treated as a distinct but connected methodological strand — relevant to [[human-ai-collaboration]], [[student-experience]], and the design of effective AI learning tools. See [[research-methods-aied]] for how it fits the broader methods landscape.
+Usability research shares data-collection methods with [[qualitative-research|qualitative research]] (interviews, observation, think-aloud) but differs in *aim*: qualitative research interprets meaning and experience to build understanding and theory, whereas usability research evaluates an artifact against usability/UX criteria. It also overlaps with [[ai-ed-evaluation|AI ed evaluation]] (assessing whether a system works) and with [[educational-measurement|measurement]] (quantifying usability constructs). Usability is treated as a distinct but connected methodological strand — relevant to [[human-ai-collaboration|human AI collaboration]], [[student-experience|student experience]], and the design of effective AI learning tools. See [[research-methods-aied|research methods]] for how it fits the broader methods landscape.
 
 ## Strengths and limitations
 
@@ -54,7 +54,7 @@ Usability research shares data-collection methods with [[qualitative-research|qu
 
 **"A usable system is a good educational system."** Usability research addresses the interaction between person and system, not learning outcomes, and the two come apart in both directions: a pedagogically powerful tool can be abandoned for being frustrating, and a frictionless tool can teach nothing. Ease is a precondition for use, not evidence that the use was worthwhile.
 
-**"Usability is a polish activity at the end of development."** It is a method family with core techniques — observation, task analysis, think-aloud, heuristic review — that shape the design rather than finish it. Discovering the friction after the [[pedagogy]] is fixed tends to produce either a redesign of the interface around the problem or abandonment of the tool.
+**"Usability is a polish activity at the end of development."** It is a method family with core techniques — observation, task analysis, think-aloud, heuristic review — that shape the design rather than finish it. Discovering the friction after the [[pedagogy|pedagogy]] is fixed tends to produce either a redesign of the interface around the problem or abandonment of the tool.
 
 **"Students who abandon a tool lacked motivation."** Abandonment is often the user's correct read of an interaction cost the designer never measured. Since a tool no one uses cannot have an effect, the abandonment rate is an educational outcome in its own right.
 

@@ -26,7 +26,7 @@ ai_assist:
 
 The module outline has a line that says "AI activity" and nobody can say what it replaces. Or an instructor has asked to add a [[conversational-ai|chatbot]] to a course that already works, and your job is to place it without breaking the part that made the course work.
 
-Start from the learning goal and from the activity that produces it. The same model can be a scaffold, a [[socratic-method|Socratic]] partner, a reader of drafts, a [[simulation]], or an answer machine, and which one you get depends on the design rather than the model. Name the mode you are building, put the learner's attempt before any help appears, and keep at least one route through the course that runs without the tool.
+Start from the learning goal and from the activity that produces it. The same model can be a scaffold, a [[socratic-method|Socratic]] partner, a reader of drafts, a [[simulation|simulation]], or an answer machine, and which one you get depends on the design rather than the model. Name the mode you are building, put the learner's attempt before any help appears, and keep at least one route through the course that runs without the tool.
 
 ## The short version
 
@@ -52,7 +52,7 @@ Apply it per task rather than once per tool. Across four teacher-facing cases au
 
 The default pattern that survives contact with a real class: **learner attempts, AI supports, learner evaluates or revises, learner demonstrates understanding.**
 
-In practice that means asking for an initial prediction or solution before any assistance appears, and favoring questions, hints, examples, counterarguments and [[feedback]] over immediate completion. Preserve [[productive-failure|productive failure]] where it serves the learning. Require verification of consequential claims, build in explanation and [[learning-by-teaching|teach-back]], and fade the support as competence grows. Keep some AI-free work so learners can calibrate what they can do alone.
+In practice that means asking for an initial prediction or solution before any assistance appears, and favoring questions, hints, examples, counterarguments and [[feedback|feedback]] over immediate completion. Preserve [[productive-failure|productive failure]] where it serves the learning. Require verification of consequential claims, build in explanation and [[learning-by-teaching|teach-back]], and fade the support as competence grows. Keep some AI-free work so learners can calibrate what they can do alone.
 
 The [[reducing-ai-misuse|Reducing AI Misuse]] synthesis recommends the same shape as a think-first, AI-second, reflect sequence with deliberate evaluation checkpoints.
 
@@ -72,13 +72,13 @@ Two lessons follow for AI design. Put the tool where the sequence intends an act
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] treats time as a designed scaffold rather than a student trait: a self-paced course carries a weekly allowance of about 100 minutes with a target near 20 minutes a day, time-aware reminders, a progress dashboard, and a short end-of-subchapter check of 3 to 12 questions. The baseline that design answers is stark, with nearly 25 percent of over 600 learners starting only in the final week and 95 percent of that group failing.
 
-Read it as a design prompt rather than a proven effect. The paper compares a later course against an earlier one instead of running a [[rct|controlled trial]], so the improvement cannot be separated from the change of cohort and subject, and reminders strong enough to move study timing are also a [[privacy]] question you have to answer in the syllabus.
+Read it as a design prompt rather than a proven effect. The paper compares a later course against an earlier one instead of running a [[rct|controlled trial]], so the improvement cannot be separated from the change of cohort and subject, and reminders strong enough to move study timing are also a [[privacy|privacy]] question you have to answer in the syllabus.
 
 ## Decide what to withhold, and when to restore it
 
 [[refrain-amplify-genai-curriculum-2026|Torres-Sahli and colleagues' "refrain, then amplify" framework]] moves this to program level. Withhold a generative tool while a capacity is forming, then restore it once the student can direct it, judge what it returns, and answer for it, with a hard-to-fake checkpoint at each hinge.
 
-Devices are governed by a forming-versus-[[cognitive-offloading|offloading]] criterion: allowed where they support engaged work, excluded where they drain attention. That turns offloading decisions into a [[curriculum-design|curriculum]] and [[governance]] question that comes before course-level design rather than after it.
+Devices are governed by a forming-versus-[[cognitive-offloading|offloading]] criterion: allowed where they support engaged work, excluded where they drain attention. That turns offloading decisions into a [[curriculum-design|curriculum]] and [[governance|governance]] question that comes before course-level design rather than after it.
 
 ## Check that the alignment is real
 
@@ -100,7 +100,7 @@ Efficiency is the goal of the redesign. Drafting outcomes and rubrics with a mod
 
 **"We do not have time to re-sequence a whole course."** Then re-sequence one module and one assessment. The refrain-then-amplify hinge is one checkpoint, and the think-first sequence is three instructions on a handout.
 
-**"Our AI feature already includes [[guardrails]]."** Guardrails constrain what the model says. They do not decide whether the learner attempted first, whether support fades, or whether an AI-free path exists. Those are design decisions in your course, not settings in the product.
+**"Our AI feature already includes [[guardrails|guardrails]]."** Guardrails constrain what the model says. They do not decide whether the learner attempted first, whether support fades, or whether an AI-free path exists. Those are design decisions in your course, not settings in the product.
 
 ## What to do this week
 
@@ -116,4 +116,4 @@ Efficiency is the goal of the redesign. Drafting outcomes and rubrics with a mod
 
 ## Where to go next
 
-[[learning-design|Instructional Design]], [[active-learning|Active Learning]] and [[scaffolding]] carry the design vocabulary. For the interaction-level defaults that decide whether a designed activity preserves learning, see [[reduce-ai-cheating]] and [[redesign-assessment-ai-era]]. [[designing-educational-ai-software]] covers how the same principles constrain the software itself, and [[developing-ai-tutor]] translates them into a tutor's architecture.
+[[learning-design|Instructional Design]], [[active-learning|Active Learning]] and [[scaffolding|scaffolding]] carry the design vocabulary. For the interaction-level defaults that decide whether a designed activity preserves learning, see [[reduce-ai-cheating]] and [[redesign-assessment-ai-era]]. [[designing-educational-ai-software]] covers how the same principles constrain the software itself, and [[developing-ai-tutor]] translates them into a tutor's architecture.

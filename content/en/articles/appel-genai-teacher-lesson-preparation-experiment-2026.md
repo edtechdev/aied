@@ -45,7 +45,7 @@ The three-arm structure is the paper's main methodological strength. Comparing C
 
 Holding the tasks and incentives constant matters for the same reason. Four concrete preparation tasks — quiz, course mail, textbook-exercise extension, transfer questions — with incentivized effort give the blinded raters something comparable to score, and give the time measure a defined boundary. "Preparation time" in [[self-report-measures|self-reported]] workload surveys is notoriously elastic; time on a specified task set is not.
 
-The blinded rating on weighted criteria is what makes the quality finding meaningful. Expert judgment of lesson materials is exactly the kind of outcome that is susceptible to a fluency illusion, so blinding raters to condition is the minimum bar, and the paper meets it rather than relying on teacher [[self-assessment]] of their own materials.
+The blinded rating on weighted criteria is what makes the quality finding meaningful. Expert judgment of lesson materials is exactly the kind of outcome that is susceptible to a fluency illusion, so blinding raters to condition is the minimum bar, and the paper meets it rather than relying on teacher [[self-assessment|self-assessment]] of their own materials.
 
 ## Why better prompts produced no better materials
 
@@ -53,12 +53,12 @@ The most interesting result is the null on quality despite a clear process chang
 
 There is a practical implication and a research implication. Practically, a professional-development program that teaches prompting should be justified as a workload intervention, since that is the effect the evidence supports, rather than as a quality intervention. For research, the finding predicts that prompt-training studies reporting quality gains are likely either measuring something a longer prompt cannot reach (specific [[pedagogy|pedagogical]] reasoning, say) or comparing against an unusually weak baseline condition.
 
-The result also sits awkwardly with the framing that prompting is a core [[ai-literacy]] competence for teachers. If the trained and untrained routes produce equal materials, then the competence training improved is efficiency in reaching a sufficient artifact, which is worth having but is not the same as judgment about what the artifact should contain.
+The result also sits awkwardly with the framing that prompting is a core [[ai-literacy|AI literacy]] competence for teachers. If the trained and untrained routes produce equal materials, then the competence training improved is efficiency in reaching a sufficient artifact, which is worth having but is not the same as judgment about what the artifact should contain.
 
 ## What this means for practice
 
 - **Faculty developers.** Justify prompting training as a time-saving and workload intervention, because that is what the randomized comparison supports, and do not promise quality gains the evidence does not show on comparable tasks.
-- **[[teacher-role]] Administrators.** Treat preparation-time savings as the primary quantifiable return on GenAI access for teachers, and budget the training as the increment that makes the saving larger rather than as the thing that makes the output better.
+- **[[teacher-role|teacher role]] Administrators.** Treat preparation-time savings as the primary quantifiable return on GenAI access for teachers, and budget the training as the increment that makes the saving larger rather than as the thing that makes the output better.
 - **Instructors.** Expect that investing in prompt detail pays off in fewer correction rounds rather than in a stronger first draft, and decide whether the iteration or the front-loaded prompt suits how you actually work.
 - **Policymakers.** Distinguish access from training when costing a rollout, since the two arms produce different effects (quality from access, additional time savings from training) and only one of them requires a professional-development budget.
 - **Researchers.** Report quality and time as separate outcomes with a blinded rating, because a combined "effectiveness" measure would have obscured the finding that made this study interesting.

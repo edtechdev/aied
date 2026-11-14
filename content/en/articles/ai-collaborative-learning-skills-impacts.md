@@ -13,12 +13,12 @@ audience: [instructors, instructional designers]
 methods: [mixed-methods-research]
 ---
 
-> **Synthesis:** Artificial Intelligence and [[collaborative-learning|Collaborative Learning]]: Impacts on [[creativity]], [[critical-thinking|Critical Thinking]], and [[problem-solving]]
+> **Synthesis:** Artificial Intelligence and [[collaborative-learning|Collaborative Learning]]: Impacts on [[creativity|creativity]], [[critical-thinking|Critical Thinking]], and [[problem-solving|problem-solving]]
 
 ## Key Findings
 
 - [[mixed-methods-research|Mixed-methods]] study of **102 undergraduate students** in interdisciplinary [[project-based-learning|project-based]] courses, of which **96 responses (94.1%) were valid** for analysis; [[qualitative-research|qualitative]] input came from **80 open-ended survey responses** and **15 semi-structured interviews**, triangulated with analysis of student project outputs.
-- **83% of respondents reported that LLMs enhanced creativity** (generating new ideas, offering different perspectives during brainstorming), and **78% said LLMs increased their group's overall productivity** — although **20% felt [[llm]] use decreased individual accountability and contribution**, creating workload imbalances.
+- **83% of respondents reported that LLMs enhanced creativity** (generating new ideas, offering different perspectives during brainstorming), and **78% said LLMs increased their group's overall productivity** — although **20% felt [[llm|LLM]] use decreased individual accountability and contribution**, creating workload imbalances.
 - **81% noted LLMs acted as neutral mediators** that helped resolve differences and speed consensus building, while **17% indicated the presence of LLMs diminished the need for critical [[student-engagement|engagement]]**, with AI suggestions sometimes accepted without discussion.
 - Correlation analysis showed the strongest relationship between **consensus-building impact and productivity impact (r = 0.71)**, followed by collective intelligence and productivity (0.69); AI comfort correlated with perceived creativity impact (0.56) and problem-solving impact (0.59), and digital proficiency showed only moderate correlations (0.52, 0.47, 0.50).
 - **No statistically significant differences** in perceived LLM impact were found across groups based on prior AI use, AI comfort, or digital proficiency — a t-test (t = 1.414, p = 0.2929) and ANOVA (f = 5.33, p = 0.1028) at α = 0.05 both failed to reject the null hypothesis.

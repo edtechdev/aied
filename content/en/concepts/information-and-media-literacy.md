@@ -1,7 +1,7 @@
 ---
 title: "Information and Media Literacy"
 created: "2026-11-05T04:08:36-05:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [information-and-media-literacy, ai-literacy, critical-thinking, academic-integrity]
 pedagogy: [critical-pedagogy]
@@ -20,14 +20,14 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-> **Information and media literacy** are adjacent capabilities that AI is rewriting at the same seam. Information literacy centers on finding and verifying accurate data; media literacy centers on understanding who created a message, how it was constructed, and why. They overlap in their shared goal of building the [[critical-thinking]] that lets people navigate a digital world and spot misinformation — and they now share a second problem: [[generative-ai|generative AI]] produces fluent, plausible content whose origin and intent are hidden, so the provenance question that media literacy always asked has moved into information literacy too.
+> **Information and media literacy** are adjacent capabilities that AI is rewriting at the same seam. Information literacy centers on finding and verifying accurate data; media literacy centers on understanding who created a message, how it was constructed, and why. They overlap in their shared goal of building the [[critical-thinking|critical thinking]] that lets people navigate a digital world and spot misinformation — and they now share a second problem: [[generative-ai|generative AI]] produces fluent, plausible content whose origin and intent are hidden, so the provenance question that media literacy always asked has moved into information literacy too.
 
 ## Questions to Consider
 
 - When a chatbot returns a confident paragraph with three citations, is the student exercising information literacy, media literacy, or neither — and does the assignment make that distinction visible?
 - [[ai-avatars-and-synthetic-instructors|Deepfakes]] and fabricated citations are different failures: one is a false record of the world, the other a false record of the literature. Can one course teach both without teaching each badly?
 - AI detectors and fact-checkers are themselves models with error rates. What happens to a verification [[curriculum-design|curriculum]] when the verification tool is probabilistic?
-- Media literacy has been taught through production — students make media to understand it. If a model now makes the artifact, what part of the [[pedagogy]] survives?
+- Media literacy has been taught through production — students make media to understand it. If a model now makes the artifact, what part of the [[pedagogy|pedagogy]] survives?
 
 ## Introduction
 
@@ -59,7 +59,7 @@ Media literacy's founding questions assumed a maker with a purpose. Deepfakes, v
 
 **Personalized argument is the current persuasion threat model.** [[salvi-conversational-persuasiveness-gpt4-2025|Salvi et al. (2025)]] randomized 900 US adults to ten-minute online debates against a human or GPT-4, with or without six ordinary demographic fields. Unpersonalized GPT-4 was statistically indistinguishable from a human opponent, while personalized GPT-4 raised the odds of post-debate agreement by 81.2% and was more persuasive 64.4% of the time. Participants identified an AI opponent in about three of four debates yet shifted further when they believed the opponent was AI, so source detection did not work as inoculation. The manipulation was invisible in the prose: style measures differed little between conditions, locating the advantage in which arguments were chosen rather than how they were written.
 
-The curriculum evidence suggests schools have not caught up. The expert interviews describe [[teacher-education|teacher training]] as the binding constraint rather than student resistance, and argue for a [[critical-pedagogy]] framing that treats evaluation as ethical and participatory practice instead of tool training. A commissioned report for public service media found provision for 14–19-year-olds tilting toward functional AI skills and away from critical evaluation, despite reviewing more than 40 frameworks and interviewing 35 experts ([[ai-literacies-young-adults-2025|the AI literacies report, 2025]]).
+The curriculum evidence suggests schools have not caught up. The expert interviews describe [[teacher-education|teacher training]] as the binding constraint rather than student resistance, and argue for a [[critical-pedagogy|critical pedagogy]] framing that treats evaluation as ethical and participatory practice instead of tool training. A commissioned report for public service media found provision for 14–19-year-olds tilting toward functional AI skills and away from critical evaluation, despite reviewing more than 40 frameworks and interviewing 35 experts ([[ai-literacies-young-adults-2025|the AI literacies report, 2025]]).
 
 ## AI as a defensive tool — claims and caveats
 

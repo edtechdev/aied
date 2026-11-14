@@ -14,17 +14,17 @@ audience: [instructional designers, researchers]
 page_kind: [framework]
 ---
 
-> **Synthesis:** Prieto and Dimitriadis argue that current [[generative-ai|generative AI]] educational design, oriented toward workforce productivity, pushes learners toward individualism, isolation, [[cognitive-offloading|over-reliance]], and dependence — driven by wider systemic factors and the human tendency to take the easiest path. They contend that [[ethics|human-centered design]] approaches like value-sensitive design are insufficient because they ignore these systemic drivers, and that [[agency]] is effectively a zero-sum game: the more agency bestowed on tools, the less learners retain. The paper proposes an emancipatory vision oriented toward learner flourishing that considers the wider complex systems learners inhabit, offering tentative design principles and an overall design methodology, while acknowledging many open questions remain.
+> **Synthesis:** Prieto and Dimitriadis argue that current [[generative-ai|generative AI]] educational design, oriented toward workforce productivity, pushes learners toward individualism, isolation, [[cognitive-offloading|over-reliance]], and dependence — driven by wider systemic factors and the human tendency to take the easiest path. They contend that [[ethics|human-centered design]] approaches like value-sensitive design are insufficient because they ignore these systemic drivers, and that [[agency|agency]] is effectively a zero-sum game: the more agency bestowed on tools, the less learners retain. The paper proposes an emancipatory vision oriented toward learner flourishing that considers the wider complex systems learners inhabit, offering tentative design principles and an overall design methodology, while acknowledging many open questions remain.
 
 ## The Critique of Current GenAI Design
 
 The paper identifies several "problematic assumptions" underlying most current AIED proposals:
 
-1. That we can build increasingly complex and [[agentic-ai|agentic]] [[ai-technologies|technologies]] without damaging learner [[agency]] and flourishing, when agency may be a zero-sum game.
+1. That we can build increasingly complex and [[agentic-ai|agentic]] [[ai-technologies|technologies]] without damaging learner [[agency|agency]] and flourishing, when agency may be a zero-sum game.
 2. That we can predict the outcomes of introducing complex, stochastic technology into education's hypercomplex system without unwanted side effects.
 3. That education's goal is mainly preparing learners for workforce participation, rather than socializing them into the knowledge, values, and democratic citizenship of their social groups and wider culture.
 
-The authors draw on evidence of "[[cognitive-offloading|over-reliance]]", "[[metacognition|metacognitive]] laziness", social isolation, and lower [[well-being]] linked to naturally-emerging uses of general-purpose GenAI, alongside the learning-performance paradox and environmental costs of adoption.
+The authors draw on evidence of "[[cognitive-offloading|over-reliance]]", "[[metacognition|metacognitive]] laziness", social isolation, and lower [[well-being|well-being]] linked to naturally-emerging uses of general-purpose GenAI, alongside the learning-performance paradox and environmental costs of adoption.
 
 ## Toward Learner Flourishing
 
@@ -32,11 +32,11 @@ Rather than accepting the productivity framing, the paper advances an emancipato
 
 ## What this means for practice
 
-- **Designers.** Build tools and services rather than autonomous [[agentic-ai|agents]], treating [[agency]] as zero-sum: automate only extraneous effort that interferes with learning, not decisions that belong to the learner.
+- **Designers.** Build tools and services rather than autonomous [[agentic-ai|agents]], treating [[agency|agency]] as zero-sum: automate only extraneous effort that interferes with learning, not decisions that belong to the learner.
 - **Designers.** Under-design for appropriation — make systems user-adaptable or purposefully incomplete — and plan from the start to observe how learners and teachers repurpose them in practice.
-- **Designers.** Specify fading [[scaffolding]] and explicit hand-off points, including activities that move attention off the screen into collaboration or the physical environment, and treat learner independence from the tool as the success metric.
-- **Designers.** Avoid design choices that let a stochastic system "pose as a person"; anthropomorphic framing can produce emotional attachment to an [[llm]], so support the emotional aspects of learning without inviting [[cognitive-offloading|dependence]].
-- **Researchers.** Evaluate at multiple levels (learner, classroom, home, school) and across multiple outcomes — [[metacognition]] and [[well-being]], not only knowledge — at both immediate and delayed timeframes, rather than optimizing one metric.
+- **Designers.** Specify fading [[scaffolding|scaffolding]] and explicit hand-off points, including activities that move attention off the screen into collaboration or the physical environment, and treat learner independence from the tool as the success metric.
+- **Designers.** Avoid design choices that let a stochastic system "pose as a person"; anthropomorphic framing can produce emotional attachment to an [[llm|LLM]], so support the emotional aspects of learning without inviting [[cognitive-offloading|dependence]].
+- **Researchers.** Evaluate at multiple levels (learner, classroom, home, school) and across multiple outcomes — [[metacognition|metacognition]] and [[well-being|well-being]], not only knowledge — at both immediate and delayed timeframes, rather than optimizing one metric.
 
 ## Limitations
 

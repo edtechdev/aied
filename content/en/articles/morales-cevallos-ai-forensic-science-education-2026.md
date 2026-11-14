@@ -32,9 +32,9 @@ source_depth: full text
 1. The search, run on 16 July 2026, returned 560 records: 426 from Scopus, 1 from PubMed and 133 from IEEE Xplore, covering publications from 2020 to 2025.
 2. Screening removed 171 records at identification and 361 more at title and abstract review, leaving 28 for full-text assessment; seven review articles were then excluded for carrying no original data, leaving 21 empirical studies.
 3. Three of those 21 met at least one educational criterion and were labeled direct educational evidence. The other 18 evaluated technical performance and were analyzed separately, expressly not as evidence that AI improves learning.
-4. The three educational studies involved 596 Korean school students in an AI and [[creativity]] program, 10 retired forensic experts rating AI crime-scene reports, and 53 digital-forensics professionals surveyed in the MENA region. None involved forensic students or a forensic curriculum.
+4. The three educational studies involved 596 Korean school students in an AI and [[creativity|creativity]] program, 10 retired forensic experts rating AI crime-scene reports, and 53 digital-forensics professionals surveyed in the MENA region. None involved forensic students or a forensic curriculum.
 5. Across the technical corpus, 52.4% of applications were coded at the applied stage, 42.9% at development and 4.7% at the initial stage. Performance was the primary variable in 85.7% of studies and skill development in 14.3%.
-6. The proposed framework has six pillars: computational foundations, interdisciplinary collaboration, [[experiential-learning|experiential learning]], statistical reasoning and [[statistics-and-data-science-education|data literacy]], embedded [[ethics]], and [[educational-development|faculty development]], with [[human-in-the-loop-ai|human oversight]] as a cross-cutting principle.
+6. The proposed framework has six pillars: computational foundations, interdisciplinary collaboration, [[experiential-learning|experiential learning]], statistical reasoning and [[statistics-and-data-science-education|data literacy]], embedded [[ethics|ethics]], and [[educational-development|faculty development]], with [[human-in-the-loop-ai|human oversight]] as a cross-cutting principle.
 
 ## What the review counted, and what it deliberately did not
 
@@ -77,7 +77,7 @@ None of that is tested here. It is a well-argued syllabus written from the failu
 ## Limitations
 
 - Only three of 21 included studies carried direct educational evidence, and the evidence was too heterogeneous in design, population and outcome measure for quantitative synthesis; the review is a mapping exercise, not an effect estimate.
-- The PubMed search returned a single record, which the authors attribute to the restrictive intersection of forensic, AI and education terms; the disciplinary map therefore reflects Scopus coverage and may under-represent [[medical-education]] literature.
+- The PubMed search returned a single record, which the authors attribute to the restrictive intersection of forensic, AI and education terms; the disciplinary map therefore reflects Scopus coverage and may under-represent [[medical-education|medical education]] literature.
 - Two of the three educational studies used professionals rating or reporting on tools rather than learners in a course, and the third was a K-12 program outside forensic science, so the education stream is thinner than its label suggests.
 - The six-pillar framework was not prespecified and underwent no formal development or validation procedure; no content-validity, feasibility or implementation study of the framework is reported.
 - The stage and outcome distributions (52.4%, 42.9%, 4.7%; 85.7% performance, 14.3% skill development) rest on the authors' own coding, and the review reports no inter-rater reliability for those judgments.

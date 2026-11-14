@@ -14,14 +14,14 @@ sources: ['raw/papers/2604.17460.md']
 confidence: medium
 ---
 
-> **Synthesis:** Naboulsi (2026) presents **cc-self-train**, a modular interactive curriculum that teaches the [[agentic-ai|agentic coding tool]] Claude Code *through Claude Code itself* — a reflexive design in which the tool being learned is simultaneously the [[pedagogy|pedagogical]] medium. Responding to the paradox that [[ai-literacy|AI coding tools]] have proliferated rapidly while pedagogical frameworks for mastering them remain scarce, the system operationalizes the [[scaffolding|Gradual Release of Responsibility]] framework as a four-stage persona progression (Guide → Collaborator → Peer → Launcher), adds an adaptive learning layer that observes engagement quality to tune scaffolding at two timescales, and ships an auto-updating design that keeps [[teacher-role|teaching]] materials current as the tool itself evolves. A 27-participant pilot reports statistically significant [[self-efficacy]] gains across all ten assessed skill areas (p < 0.001), with the largest effects on advanced features such as hooks and custom skills.
+> **Synthesis:** Naboulsi (2026) presents **cc-self-train**, a modular interactive curriculum that teaches the [[agentic-ai|agentic coding tool]] Claude Code *through Claude Code itself* — a reflexive design in which the tool being learned is simultaneously the [[pedagogy|pedagogical]] medium. Responding to the paradox that [[ai-literacy|AI coding tools]] have proliferated rapidly while pedagogical frameworks for mastering them remain scarce, the system operationalizes the [[scaffolding|Gradual Release of Responsibility]] framework as a four-stage persona progression (Guide → Collaborator → Peer → Launcher), adds an adaptive learning layer that observes engagement quality to tune scaffolding at two timescales, and ships an auto-updating design that keeps [[teacher-role|teaching]] materials current as the tool itself evolves. A 27-participant pilot reports statistically significant [[self-efficacy|self-efficacy]] gains across all ten assessed skill areas (p < 0.001), with the largest effects on advanced features such as hooks and custom skills.
 
 ## Key Findings
 1. **Pedagogical frameworks lag tool proliferation.** Agentic coding assistants ship features faster than structured curricula can be written, leaving learners dependent on perishable tutorials and trial-and-error rather than a progressive learning path.
-2. **Reflexive "teach the tool with the tool" design.** cc-self-train teaches Claude Code through Claude Code itself, positioning the tool being learned as the pedagogical medium — a design gap no prior [[llm]]-based [[pedagogical-agent|pedagogical agent]] fills.
+2. **Reflexive "teach the tool with the tool" design.** cc-self-train teaches Claude Code through Claude Code itself, positioning the tool being learned as the pedagogical medium — a design gap no prior [[llm|LLM]]-based [[pedagogical-agent|pedagogical agent]] fills.
 3. **Persona progression operationalizes [[scaffolding|Gradual Release of Responsibility]].** A Guide → Collaborator → Peer → Launcher progression maps 1:1 to GRR's four phases, adapting tone and scaffolding depth as the learner advances.
 4. **Engagement quality drives adaptive scaffolding.** A lightweight hook-based observation layer classifies learner interactions, using streak detection for mid-module intervention and aggregate metrics for persona shifts at module boundaries.
-5. **A 27-participant pilot reports significant [[self-efficacy]] gains** across all ten assessed skill areas (p < 0.001), with the largest effects on advanced features like hooks and custom skills.
+5. **A 27-participant pilot reports significant [[self-efficacy|self-efficacy]] gains** across all ten assessed skill areas (p < 0.001), with the largest effects on advanced features like hooks and custom skills.
 
 ## The Paradox in AI Coding Education
 
@@ -34,7 +34,7 @@ The prevailing approach to learning AI coding tools is ad hoc and, critically, p
 - Agentic tools ship breaking changes on a cadence measured in days; nominally current third-party tutorials reference deprecated features within days of publication.
 - None of these resources provides a progressive, hands-on [[curriculum-design|curriculum]] from first contact through advanced [[agentic-ai|multi-agent orchestration]], and none addresses the content decay problem inherent in rapidly evolving tooling.
 
-The cost of this gap is visible at organizational scale: a 2025 MIT NANDA survey found that most enterprise [[generative-ai]] pilots fail to produce measurable impact, locating the failure in a learning gap rather than in the technology itself.
+The cost of this gap is visible at organizational scale: a 2025 MIT NANDA survey found that most enterprise [[generative-ai|generative AI]] pilots fail to produce measurable impact, locating the failure in a learning gap rather than in the technology itself.
 
 ## cc-self-train: Architecture Overview
 
@@ -67,13 +67,13 @@ Self-reports of experience can be inaccurate: a developer who used GitHub Copilo
 2. **Context injection:** a SessionStart hook injects an invisible teaching note into Claude's context, surfacing a struggle or engagement streak as a priority alert.
 3. **Adaptation:** at module boundaries, aggregate signals can bump the learner's Effective Level up or down, adjusting the active persona.
 
-This creates a two-timescale system. The slow clock (Effective Level) adjusts the persona schedule at module boundaries using aggregate statistics; the fast clock (streak detection) triggers scaffolding changes mid-module. An asymmetric response principle governs the fast clock: the system is quicker to increase [[scaffolding]] (responding to struggle streaks immediately) than to withdraw it, on the reasoning that over-scaffolding a strong student briefly costs little while under-scaffolding a struggling student risks permanent disengagement.
+This creates a two-timescale system. The slow clock (Effective Level) adjusts the persona schedule at module boundaries using aggregate statistics; the fast clock (streak detection) triggers scaffolding changes mid-module. An asymmetric response principle governs the fast clock: the system is quicker to increase [[scaffolding|scaffolding]] (responding to struggle streaks immediately) than to withdraw it, on the reasoning that over-scaffolding a strong student briefly costs little while under-scaffolding a struggling student risks permanent disengagement.
 
 The design is grounded in [[student-modeling|learner-modeling]] evidence that engagement quality, not problem difficulty, mediates [[learning-gains|learning gains]], and that sequential failure patterns carry higher informational weight than isolated events. The architecture deliberately trades model sophistication for deployability: it runs entirely through Claude Code's hook system with no external dependencies and no web backend, in contrast to heavier [[intelligent-tutoring|intelligent tutoring systems]].
 
 ## Step-Pacing and Information Load
 
-AI-as-instructor introduces a [[cognitive-offloading|cognitive load]] challenge with no direct parallel in human instruction: an agent can generate thousands of words of instruction in a single response, risking extraneous load that overwhelms working memory. The terminal environment compounds this, presenting information as a linear text stream. cc-self-train introduces **STOP blocks**, explicit pause directives embedded in module files that force the AI to wait for the learner's response, provide a [[reflection]] prompt, and create a natural checkpoint. Step progress is tracked in a per-session state file that survives context compaction and session restarts, and a pre-advancement check returns to any skipped steps before moving to the next module.
+AI-as-instructor introduces a [[cognitive-offloading|cognitive load]] challenge with no direct parallel in human instruction: an agent can generate thousands of words of instruction in a single response, risking extraneous load that overwhelms working memory. The terminal environment compounds this, presenting information as a linear text stream. cc-self-train introduces **STOP blocks**, explicit pause directives embedded in module files that force the AI to wait for the learner's response, provide a [[reflection|reflection]] prompt, and create a natural checkpoint. Step progress is tracked in a per-session state file that survives context compaction and session restarts, and a pre-advancement check returns to any skipped steps before moving to the next module.
 
 ## Automated Quality Assurance
 
@@ -85,19 +85,19 @@ Agentic tools ship breaking changes on a cadence measured in days — a curricul
 
 ## Pilot Evaluation
 
-A pilot with 27 participants showed statistically significant reported [[self-efficacy]] gains across all 10 assessed skill areas (p < 0.001), with the largest effects on advanced features such as hooks and custom skills. The author draws on 18 years of experience as a Microsoft Certified Trainer and positions the pedagogy as enabling [[self-directed-learning|self-directed]], [[lifelong-learning|lifelong]] mastery of rapidly evolving tooling.
+A pilot with 27 participants showed statistically significant reported [[self-efficacy|self-efficacy]] gains across all 10 assessed skill areas (p < 0.001), with the largest effects on advanced features such as hooks and custom skills. The author draws on 18 years of experience as a Microsoft Certified Trainer and positions the pedagogy as enabling [[self-directed-learning|self-directed]], [[lifelong-learning|lifelong]] mastery of rapidly evolving tooling.
 
 ## What this means for practice
 
 - **Instructors.** Make tool mastery a first-class curriculum objective with a progressive path from first contact through multi-agent orchestration, rather than pointing learners at feature documentation and tutorials that go stale within days.
-- **Learners.** Run the material against your own codebase (the BYOP path) so the artifact you build doubles as a [[transfer-of-learning|transfer]] test — the pilot measured only reported [[self-efficacy]], not transfer.
-- **Designers.** Use lightweight hook-based observation instead of heavyweight student models, and respond asymmetrically: raise [[scaffolding]] as soon as a struggle streak appears but withdraw it only at module boundaries.
+- **Learners.** Run the material against your own codebase (the BYOP path) so the artifact you build doubles as a [[transfer-of-learning|transfer]] test — the pilot measured only reported [[self-efficacy|self-efficacy]], not transfer.
+- **Designers.** Use lightweight hook-based observation instead of heavyweight student models, and respond asymmetrically: raise [[scaffolding|scaffolding]] as soon as a struggle streak appears but withdraw it only at module boundaries.
 - **Designers.** Build content-decay handling into the courseware itself: check the learner's installed tool version at onboarding and regenerate the modules before instruction begins.
 
 ## Limitations
 
 - The pilot (n = 27) was a within-subjects pre/post design with no control group, so the reported gains cannot be separated from exposure or practice effects.
-- Outcomes were self-reported [[self-efficacy]] on a coarse Likert scale rather than task-based performance — the author notes a 7-point scale would have discriminated more finely — and participants knew the author had designed the curriculum, inviting demand effects.
+- Outcomes were self-reported [[self-efficacy|self-efficacy]] on a coarse Likert scale rather than task-based performance — the author notes a 7-point scale would have discriminated more finely — and participants knew the author had designed the curriculum, inviting demand effects.
 - All 27 participants were professional software engineers recruited from a single client organization, limiting generalizability, and one advanced participant scored at ceiling on both surveys, leaving 26 of 27 showing improvement.
 - The engagement classifier relies on keyword heuristics and can misclassify (a learner pasting an error message for context is scored as a debugging attempt), the structural test suite verifies curriculum consistency rather than instructional effectiveness, and the local-only design limits further empirical evaluation.
 

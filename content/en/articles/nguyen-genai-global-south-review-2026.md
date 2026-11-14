@@ -36,9 +36,9 @@ The study is a [[meta-analysis-systematic-review|scoping review]] aligned to the
 
 ## What this means for practice
 
-- **Administrators.** Write [[educational-policy-ai|GenAI policy]] that reflects local infrastructure, languages, and cultures rather than importing Western defaults, and pair it with sustained [[educational-development|professional development]] in AI, [[pedagogy]], and [[ethics]]; the review finds governance approaches vary sharply across national contexts.
+- **Administrators.** Write [[educational-policy-ai|GenAI policy]] that reflects local infrastructure, languages, and cultures rather than importing Western defaults, and pair it with sustained [[educational-development|professional development]] in AI, [[pedagogy|pedagogy]], and [[ethics|ethics]]; the review finds governance approaches vary sharply across national contexts.
 - **Administrators.** Audit and subsidize access before scaling deployment: track how GenAI reaches different learner groups and support underserved students, since [[equity-in-ai-education|equity]] is the least-studied of the review's five areas across 75 included studies.
-- **Instructors.** Teach [[ai-literacy]] and [[academic-integrity]] explicitly and redesign assessment so students critique, verify, and justify AI outputs, given the gap between students' stated ethical positions and their reported behavior and the murkier territory of "AI-giarism."
+- **Instructors.** Teach [[ai-literacy|AI literacy]] and [[academic-integrity|academic integrity]] explicitly and redesign assessment so students critique, verify, and justify AI outputs, given the gap between students' stated ethical positions and their reported behavior and the murkier territory of "AI-giarism."
 - **Designers.** Align GenAI-supported tasks with assessment-reform frameworks such as the Artificial Intelligence Assessment Scale, pairing any AI assistance with activities that require students to evaluate what the tools produced.
 - **Researchers.** Prioritize equity-centered, context-specific, methodologically diverse work and stop treating the [[global-south|Global South]] as a single category; the included literature is dominated by student perspectives and by Western-developed acceptance models such as UTAUT and TAM.
 

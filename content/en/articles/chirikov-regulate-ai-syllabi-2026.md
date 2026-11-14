@@ -15,7 +15,7 @@ methods: [quantitative-research]
 institutions: [educational-policy-ai, governance, regulation]
 ---
 
-> **Synthesis:** **How instructors regulate AI in college** — a large-scale longitudinal study by Igor Chirikov (2026) analyzing **31,000+ course syllabi** (2021–2025) from the full course universe of a large public research university. Building a **task-based framework** (adapted from labor economics) of how AI reshapes skill formation via **displacement, augmentation, and reinstatement**, the paper finds instructors are *warming toward AI*: [[regulation]] grew to 55% of courses by Fall 2025, but shifted from restrictive toward permissive, differentiated by task type, and increasingly framed around learning rather than [[academic-integrity|academic integrity]] — with substantial disciplinary variation.
+> **Synthesis:** **How instructors regulate AI in college** — a large-scale longitudinal study by Igor Chirikov (2026) analyzing **31,000+ course syllabi** (2021–2025) from the full course universe of a large public research university. Building a **task-based framework** (adapted from labor economics) of how AI reshapes skill formation via **displacement, augmentation, and reinstatement**, the paper finds instructors are *warming toward AI*: [[regulation|regulation]] grew to 55% of courses by Fall 2025, but shifted from restrictive toward permissive, differentiated by task type, and increasingly framed around learning rather than [[academic-integrity|academic integrity]] — with substantial disciplinary variation.
 
 ## Overview
 
@@ -24,14 +24,14 @@ institutions: [educational-policy-ai, governance, regulation]
 ## Method
 
 - **Data:** Over 31,000 course syllabi representing the full universe of courses at a large public research university in Texas, 2021–2025, tracking the same courses and instructors over time.
-- **Design:** Longitudinal; computational extraction of required course tasks and [[educational-policy-ai|AI policies]] from each syllabus, with [[llm]]-assisted classification validated at 96% agreement with human coding.
+- **Design:** Longitudinal; computational extraction of required course tasks and [[educational-policy-ai|AI policies]] from each syllabus, with [[llm|LLM]]-assisted classification validated at 96% agreement with human coding.
 - **Analysis:** Within-course-instructor fixed-effects estimates plus repeated cross-sections; placebo tests (e.g., oral presentation tasks where AI capabilities are weaker).
 
 ## Key findings
 
 - **Regulation grew rapidly but shifted toward permissiveness.** Explicit AI regulation rose from near zero before ChatGPT to **55% of courses by Fall 2025**. Within-course-instructor estimates show regulation increasing 15.3 pp/year, while the share of fully restrictive policies fell ~5 pp/year and a permissiveness index rose 0.12 points/year — individual instructors moved toward more permissive policies over time.
 - **Task composition predicts regulation.** Each additional writing/coding task required in 2021–22 (pre-ChatGPT) is associated with a ~3 pp higher likelihood of an AI policy by Fall 2025; a course requiring five such tasks is ~15 pp more likely to regulate. A placebo using oral-presentation tasks finds no effect.
-- **Instructors differentiate by task type.** Policies increasingly permit AI for some tasks and restrict it for others (task differentiation +4.5 pp/year). In Fall 2025, instructors most commonly **restrict** drafting/revising (79%) and reasoning/[[problem-solving]] (65%), and most commonly **permit** editing/proofreading (83%), study support/synthesis (80%), and coding (75%). Ideation/planning is most contested (46% permit / 54% restrict).
+- **Instructors differentiate by task type.** Policies increasingly permit AI for some tasks and restrict it for others (task differentiation +4.5 pp/year). In Fall 2025, instructors most commonly **restrict** drafting/revising (79%) and reasoning/[[problem-solving|problem-solving]] (65%), and most commonly **permit** editing/proofreading (83%), study support/synthesis (80%), and coding (75%). Ideation/planning is most contested (46% permit / 54% restrict).
 - **New AI-based tasks are emerging modestly.** Adoption of AI-integrated assignments, [[prompt-engineering|prompting]] exercises, and output-verification activities reached 11% of courses by Fall 2025 (Business leads at 27%; [[humanities-education|Humanities]] lowest at 5%).
 - **Framing shifted from integrity to learning.** Academic-integrity mentions fell from 63% (Spring 2023) to 49% (Fall 2025); references to AI's impact on learning rose from 1% to 29%; attribution requirements rose from 16% to 43%.
 - **Disciplinary variation is pronounced.** Humanities remained most restrictive; Business moved most rapidly toward permissive policies and new AI-based tasks. Larger pre-AI task bundles predict differentiated policies (each additional task → +1.3 pp).

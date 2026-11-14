@@ -54,11 +54,11 @@ Two families of number dominate this literature. Both measure how closely your o
 
 A student can reach a wrong answer by a wrong route that looks like a right one, and no similarity score notices. If reasoning is the thing you care about, the measure has to read it: a rubric applied by a person, or a check written for that particular step.
 
-The Linear Control Systems course assistant reports this the right way. Its best configuration reached a similarity score of **0.4093** against reference answers, with the improvement measured reliably above zero, and the authors state plainly that the numbers measure wording and format ([[lora-finetuned-control-systems-course-qa-2026]]). The score is unimpressive and the paper is still useful, because it says what the score covers.
+The Linear Control Systems course assistant reports this the right way. Its best configuration reached a similarity score of **0.4093** against reference answers, with the improvement measured reliably above zero, and the authors state plainly that the numbers measure wording and format ([[lora-finetuned-control-systems-course-qa-2026|Lu et al., 2026]]). The score is unimpressive and the paper is still useful, because it says what the score covers.
 
 ## Score every output separately
 
-In the WrAFT project, a fine-tuned model reached an agreement score of **0.84** with human graders across 360 held-out TOEFL essays. That is a strong result for grading. The same project's model trained to write feedback produced output that was truncated and unparseable, while simply [[prompt-engineering|prompting]] a different model produced feedback teachers preferred ([[wraft-automated-writing-evaluation-argumentative-2026]]).
+In the WrAFT project, a fine-tuned model reached an agreement score of **0.84** with human graders across 360 held-out TOEFL essays. That is a strong result for grading. The same project's model trained to write feedback produced output that was truncated and unparseable, while simply [[prompt-engineering|prompting]] a different model produced feedback teachers preferred ([[wraft-automated-writing-evaluation-argumentative-2026|Labib et al., 2026]]).
 
 The same failure appears in a second form: a deployment whose grading module scored well and whose feedback arrived cut off mid-sentence and unreadable. Nothing in the headline number said so.
 
@@ -68,7 +68,7 @@ So list the outputs your system produces, then give each one its own measure and
 
 A correlation tells you the model is usually right. It does not tell you what to do on the occasions when it is not. The confidence-routing result is the cleanest template in the evidence, and it is short enough to copy.
 
-Confidence turned out to be a reliable warning sign: when the model was unsure, it was more likely to be wrong (**β = -0.602, p < .001**). The team sent the least confident **20%** of responses to a human. That single rule raised agreement with human grades from **0.78 to 0.82** and cut manual grading work by roughly **80%** ([[know-when-to-trust-ai-scoring-reliability-2026]]).
+Confidence turned out to be a reliable warning sign: when the model was unsure, it was more likely to be wrong (**β = -0.602, p < .001**). The team sent the least confident **20%** of responses to a human. That single rule raised agreement with human grades from **0.78 to 0.82** and cut manual grading work by roughly **80%** ([[know-when-to-trust-ai-scoring-reliability-2026|Organisciak et al., 2026]]).
 
 Look at what the report contains: a threshold, a person, and a saving. "Agreement 0.84" contains none of those, which is why it is hard to act on and easy to argue about.
 
@@ -76,27 +76,27 @@ Look at what the report contains: a threshold, a person, and a saving. "Agreemen
 
 Many teams now use a second model to judge the first. The arrangement is reasonable and the second model is not automatically right.
 
-A study that had a frontier model author hints for an [[intelligent-tutoring|intelligent tutoring system]] found roughly **35%** of them were too general, incorrect, or gave the answer away, and the model's own automated quality checks disagreed with human judgment about which ones were bad ([[reddig-maclellan-personalized-feedback-llm-2026]]).
+A study that had a frontier model author hints for an [[intelligent-tutoring|intelligent tutoring system]] found roughly **35%** of them were too general, incorrect, or gave the answer away, and the model's own automated quality checks disagreed with human judgment about which ones were bad ([[reddig-maclellan-personalized-feedback-llm-2026|Reddig et al., 2025]]).
 
 Practical version: take a sample of about fifty outputs, have a person rate them, and compare that with your checker's ratings. Where the two diverge, you have learned something about the checker. Keep the sample and the disagreement table, because it is also the artifact that answers a reviewer who asks how you know.
 
 ## Measure the quantity itself when the task allows
 
-The cleanest fix is to train the model on the same quantity you intend to measure. A fine-tuned model was trained to reproduce the statistical properties of test questions: how hard each item is, how well it separates stronger from weaker students. It learned those patterns rather than being told them ([[multimodal-item-parameter-estimation-2026]]). Because the target was a property of the assessment itself, the evaluation could be about that property instead of about wording.
+The cleanest fix is to train the model on the same quantity you intend to measure. A fine-tuned model was trained to reproduce the statistical properties of test questions: how hard each item is, how well it separates stronger from weaker students. It learned those patterns rather than being told them ([[multimodal-item-parameter-estimation-2026|Ormerod et al., 2026]]). Because the target was a property of the assessment itself, the evaluation could be about that property instead of about wording.
 
-Report the progression as well as the endpoint. SWIM's writing [[simulation|simulator]] published each stage's score side by side: rubric-based prompting **0.577**, fine-tuning **0.474 ± 0.023**, [[reinforcement-learning|reinforcement learning]] **0.618 ± 0.005** ([[swim-student-writing-simulation-2026]]). A reader can see from that table whether the training did anything. A single final number cannot tell them, and it hides a stage where the fine-tuned model did worse than the prompt.
+Report the progression as well as the endpoint. SWIM's writing [[simulation|simulator]] published each stage's score side by side: rubric-based prompting **0.577**, fine-tuning **0.474 ± 0.023**, [[reinforcement-learning|reinforcement learning]] **0.618 ± 0.005** ([[swim-student-writing-simulation-2026|Do et al., 2026]]). A reader can see from that table whether the training did anything. A single final number cannot tell them, and it hides a stage where the fine-tuned model did worse than the prompt.
 
 ## Compare against something outside your project
 
 Get a baseline first, including a cheap one. The course assistant's model with no grounding scored below a plain keyword search, which is the sort of result that changes the roadmap and costs a day to find.
 
-An outside benchmark then tells you whether your number is any good at all. On the CDPK [[pedagogy]] benchmark, EduQwen reached **96.52%** against Gemini-3 Pro's **90.55%** ([[singh-eduqwen-pedagogical-rl-2026]]). The Pedagogy Benchmark, built from real [[teacher-role|teacher]] professional-development exams and covering **97 models**, found accuracy ranging from **28% to 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
+An outside benchmark then tells you whether your number is any good at all. On the CDPK [[pedagogy|pedagogy]] benchmark, EduQwen reached **96.52%** against Gemini-3 Pro's **90.55%** ([[singh-eduqwen-pedagogical-rl-2026|Singh et al., 2026]]). The Pedagogy Benchmark, built from real [[teacher-role|teacher]] professional-development exams and covering **97 models**, found accuracy ranging from **28% to 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
 
 On a task about teaching, models ranged from poor to good, so a benchmark result places your system somewhere inside a wide range.
 
 ## Test safety over a whole conversation
 
-Most safety testing checks a single exchange. The harms that matter in tutoring accumulate. SafeTutors found that even models built specifically for teaching degrade over a long conversation and can reveal answers they should be withholding ([[hazra-safetutors-pedagogical-safety-2026]]).
+Most safety testing checks a single exchange. The harms that matter in tutoring accumulate. SafeTutors found that even models built specifically for teaching degrade over a long conversation and can reveal answers they should be withholding ([[hazra-safetutors-pedagogical-safety-2026|Hazra et al. (2026)]]).
 
 Run the check across complete conversations, and write the test turns deliberately: the student who is wrong, the one who keeps pushing, the one who tries to talk the model out of its role. A tutor that holds for ten turns and folds on the eleventh fails the test that matters, and a per-reply suite will score it as clean.
 
@@ -104,7 +104,7 @@ Run the check across complete conversations, and write the test turns deliberate
 
 Generating [[simulating-students|simulated students]] instead of recruiting real ones makes evaluation far cheaper. A simulated student is also a measuring instrument, and it can be wrong in the ways instruments are wrong: too cooperative, too fluent, too quick to accept a hint.
 
-The most direct test in the evidence benchmarked simulated and prompted students against **382 held-out dialogues** from the largest public collection of real student-tutor mathematics dialogues, using seven measures covering language, behavior and thinking ([[simulated-students-tutoring-dialogues-2026]]). Other work pushes on realism from different angles: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] trains models to both act and think like students, and history-aware profiles condition the simulation on a student's past rather than a fixed persona ([[history-aware-student-simulation]]).
+The most direct test in the evidence benchmarked simulated and prompted students against **382 held-out dialogues** from the largest public collection of real student-tutor mathematics dialogues, using seven measures covering language, behavior and thinking ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). Other work pushes on realism from different angles: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] trains models to both act and think like students, and history-aware profiles condition the simulation on a student's past rather than a fixed persona ([[history-aware-student-simulation|Duan et al., 2026]]).
 
 If your harness is a simulated student, validate the simulator against real transcripts before you let it grade your tutor.
 
@@ -146,4 +146,4 @@ Simulated students make evaluation free. They make it cheap, and they move the c
 
 ## Where to go next
 
-[[making-ai-better-at-supporting-learning|How can we make AI better at supporting learning in our own subject?]] covers the design side of the same problem. [[training-ai-tutors-to-guide-rather-than-answer]] handles the training route to a tutoring behavior, and [[evaluating-ai-interventions-methods]] is the instructor-facing version of this question, with [[reporting-interpreting-aied-research]] as the research-facing one. The methods sit under [[ai-ed-evaluation]] and [[llm-training-and-fine-tuning]].
+[[making-ai-better-at-supporting-learning|How can we make AI better at supporting learning in our own subject?]] covers the design side of the same problem. [[training-ai-tutors-to-guide-rather-than-answer]] handles the training route to a tutoring behavior, and [[evaluating-ai-interventions-methods]] is the instructor-facing version of this question, with [[reporting-interpreting-aied-research]] as the research-facing one. The methods sit under [[ai-ed-evaluation|AI ed evaluation]] and [[llm-training-and-fine-tuning|LLM training and fine-tuning]].

@@ -14,10 +14,10 @@ audience: [instructors, learning analytics designers, researchers]
 institutions: [regulation]
 ---
 
-> **Synthesis:** This study examines the [[student-modeling]] validity of **delayed start behavior** — when students begin assignments or practice sessions past a recommended start time — as a predictor of learning-gains across multiple subjects. The authors test whether a behavioral detector developed for one academic domain (e.g., [[chemistry-education|chemistry]]) can predict [[learning-gains|learning outcomes]] in another (e.g., [[physics-education|physics]] or statistics), a property they term **cross-subject predictive validity**.
+> **Synthesis:** This study examines the [[student-modeling|student modeling]] validity of **delayed start behavior** — when students begin assignments or practice sessions past a recommended start time — as a predictor of learning-gains across multiple subjects. The authors test whether a behavioral detector developed for one academic domain (e.g., [[chemistry-education|chemistry]]) can predict [[learning-gains|learning outcomes]] in another (e.g., [[physics-education|physics]] or statistics), a property they term **cross-subject predictive validity**.
 
 **Key findings:**
-- Delayed start behavior shows significant predictive validity for learning outcomes across different subjects, indicating it captures a generalizable aspect of [[self-regulated-learning]] rather than being [[discipline-specific-aied|domain-specific]].
+- Delayed start behavior shows significant predictive validity for learning outcomes across different subjects, indicating it captures a generalizable aspect of [[self-regulated-learning|self-regulated learning]] rather than being [[discipline-specific-aied|domain-specific]].
 - Students with higher delayed-start frequency consistently showed lower learning gains, even after controlling for [[prior-knowledge|prior knowledge]] and total time-on-task.
 - The detector generalizes across different learning platforms and content domains, reducing the need to retrain behavioral models per course.
 

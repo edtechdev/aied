@@ -15,11 +15,11 @@ methods: [quantitative-research]
 institutions: [governance]
 ---
 
-> **Synthesis:** Islam, Morshed, and Islam reconceptualize [[ai-literacy]] not merely as an educational or technical skill but as a [[governance]] capacity that supports all 17 UN Sustainable Development Goals. They introduce a six-level AIRE (Artificial Intelligence Reasoning and Ethics) Taxonomy extending Bloom's hierarchy with ethical judgment and strategic foresight, plus an AI–SDG Nexus Framework that maps literacy competencies onto each goal. A survey of 300 professionals in a national context found strong technical awareness but limited ethical and [[governance]] readiness, with ethical reasoning, reflective thinking, and governance literacy emerging as the strongest predictors of sustainable and trustworthy AI use.
+> **Synthesis:** Islam, Morshed, and Islam reconceptualize [[ai-literacy|AI literacy]] not merely as an educational or technical skill but as a [[governance|governance]] capacity that supports all 17 UN [[sustainability|Sustainable Development Goals]]. They introduce a six-level AIRE (Artificial Intelligence Reasoning and [[ethics|Ethics]]) Taxonomy extending Bloom's hierarchy with ethical judgment and strategic foresight, plus an AI–SDG Nexus Framework that maps literacy competencies onto each goal. A survey of 300 professionals in a national context found strong technical awareness but limited ethical and [[governance|governance]] readiness, with ethical reasoning, reflective thinking, and governance literacy emerging as the strongest predictors of sustainable and trustworthy AI use.
 
 ## Introduction
 
-The paper addresses a gap: existing AI-literacy [[research-methods-aied|research]] treats the construct as an educational or technical concept rather than a systemic governance mechanism that ensures ethical alignment across all seventeen [[sustainability|Sustainable Development Goals]]. By linking [[ai-literacy]] to [[ethics]] and [[governance]], the authors position literate publics as a precondition for responsible AI deployment.
+The paper addresses a gap: existing AI-literacy [[research-methods-aied|research]] treats the construct as an educational or technical concept rather than a systemic governance mechanism that ensures ethical alignment across all seventeen [[sustainability|Sustainable Development Goals]]. By linking [[ai-literacy|AI literacy]] to [[ethics|ethics]] and [[governance|governance]], the authors position literate publics as a precondition for responsible AI deployment.
 
 ## The AIRE Taxonomy and AI–SDG Nexus
 
@@ -32,13 +32,13 @@ The study's central contribution is the **AIRE Taxonomy**, a six-level model ext
 5. **Integrate – Ethical Synthesis**: combine ethical judgment with technical understanding.
 6. **Govern – Strategic Foresight**: align AI use with institutional and societal goals.
 
-The **AI–SDG Nexus Framework** systematically maps these AI-literacy competencies onto all seventeen SDGs, and the authors describe AI literacy as an integrative, cross-cutting "18th SDG" heuristic — a cognitive and ethical bridge that channels learning into governance and sustainable development. They distinguish foundational literacy (Recognize–Apply) from advanced competency (Analyze–Govern), preserving the conventional meaning of literacy while extending it into a structured developmental pathway that supports [[curriculum-design]] and [[educational-policy-ai|institutional policy]].
+The **AI–SDG Nexus Framework** systematically maps these AI-literacy competencies onto all seventeen SDGs, and the authors describe AI literacy as an integrative, cross-cutting "18th SDG" heuristic — a cognitive and ethical bridge that channels learning into governance and sustainable development. They distinguish foundational literacy (Recognize–Apply) from advanced competency (Analyze–Govern), preserving the conventional meaning of literacy while extending it into a structured developmental pathway that supports [[curriculum-design|curriculum design]] and [[educational-policy-ai|institutional policy]].
 
 ## Empirical Findings
 
 A survey of 300 participants from diverse professional backgrounds within a national context measured AI-literacy readiness across four domains (Technical & Cognitive, Ethical & Reflective, Socio-Civic & Governance, Sustainability & Risk). Key results:
 
-- Technical awareness of AI was relatively strong, but ethical reasoning and [[governance]] literacy remained limited — revealing gaps in public capacity to manage AI responsibly.
+- Technical awareness of AI was relatively strong, but ethical reasoning and [[governance|governance]] literacy remained limited — revealing gaps in public capacity to manage AI responsibly.
 - Ethical reasoning and reflective thinking were the **strongest predictors** of sustainable and trustworthy AI use.
 - In regression analysis, governance literacy was the strongest predictor of nexus awareness (β = 0.64, p < 0.01), followed by ethical and technical literacy.
 - Governance literacy showed the strongest association with Nexus Awareness (r = 0.67, p < 0.01).

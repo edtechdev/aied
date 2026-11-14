@@ -18,11 +18,11 @@ page_kind: [framework]
 institutions: [change-management]
 ---
 
-> **Synthesis:** Becker, Bauer, Schrader, Bitzenbauer & Veith (2026) analyze 1,189 survey responses from [[physics-education|physics]] students using [[qualitative-research|qualitative]] content analysis and [[latent-profile-analysis|latent class analysis]], identifying two distinct user profiles: 70% are "Pragmatic Users" who use ChatGPT for [[scaffolding]] despite awareness of inaccuracies, and 30% are "Skeptical Non-Users" who avoid it over [[cognitive-offloading|overreliance]] concerns. Both groups make calculated risk-utility trade-offs — challenging one-size-fits-all [[educational-policy-ai|AI policies]] and calling for [[pedagogy|differentiated pedagogy]].
+> **Synthesis:** Becker, Bauer, Schrader, Bitzenbauer & Veith (2026) analyze 1,189 survey responses from [[physics-education|physics]] students using [[qualitative-research|qualitative]] content analysis and [[latent-profile-analysis|latent class analysis]], identifying two distinct user profiles: 70% are "Pragmatic Users" who use ChatGPT for [[scaffolding|scaffolding]] despite awareness of inaccuracies, and 30% are "Skeptical Non-Users" who avoid it over [[cognitive-offloading|overreliance]] concerns. Both groups make calculated risk-utility trade-offs — challenging one-size-fits-all [[educational-policy-ai|AI policies]] and calling for [[pedagogy|differentiated pedagogy]].
 
 ## Summary
 
-This study develops a data-driven typology of [[physics-education|physics]] students' ChatGPT use through qualitative content analysis of 1,189 survey responses and latent class analysis (LCA). Two profiles emerge: Pragmatic Users (70%) who are aware of AI's inaccuracies but use it for conceptual clarification and [[problem-solving]] [[scaffolding|scaffolds]], and Skeptical Non-Users (30%) who avoid the tool over concerns about [[cognitive-offloading|overreliance]] and its potential to hinder independent problem-solving. Both groups demonstrate calculated risk-utility trade-offs rather than uncritical adoption or blanket rejection — challenging [[governance|institutional]] one-size-fits-all AI policies.
+This study develops a data-driven typology of [[physics-education|physics]] students' ChatGPT use through qualitative content analysis of 1,189 survey responses and latent class analysis (LCA). Two profiles emerge: Pragmatic Users (70%) who are aware of AI's inaccuracies but use it for conceptual clarification and [[problem-solving|problem-solving]] [[scaffolding|scaffolds]], and Skeptical Non-Users (30%) who avoid the tool over concerns about [[cognitive-offloading|overreliance]] and its potential to hinder independent problem-solving. Both groups demonstrate calculated risk-utility trade-offs rather than uncritical adoption or blanket rejection — challenging [[governance|institutional]] one-size-fits-all AI policies.
 
 ## Key Findings
 
@@ -35,9 +35,9 @@ This study develops a data-driven typology of [[physics-education|physics]] stud
 
 ## What this means for practice
 
-- **Learners.** Decide which ChatGPT use you are endorsing. The 70% Pragmatic User profile uses the tool for conceptual clarification, finding a starting point, and [[scaffolding]] — keep the answer itself out of the loop, since only 15% of this sample reported using it for direct problem solving.
+- **Learners.** Decide which ChatGPT use you are endorsing. The 70% Pragmatic User profile uses the tool for conceptual clarification, finding a starting point, and [[scaffolding|scaffolding]] — keep the answer itself out of the loop, since only 15% of this sample reported using it for direct problem solving.
 - **Learners.** Target the failure modes this sample actually named: incorrect calculations and difficulty with complex physical problems, not generic AI inaccuracy.
-- **Instructors.** Require students to critically evaluate and justify the reasoning behind AI output, and co-create [[prompt-engineering|prompting]] templates with them; with 70% already using the tool, guided reflective use is what converts adoption into [[ai-literacy]].
+- **Instructors.** Require students to critically evaluate and justify the reasoning behind AI output, and co-create [[prompt-engineering|prompting]] templates with them; with 70% already using the tool, guided reflective use is what converts adoption into [[ai-literacy|AI literacy]].
 - **Instructors.** Respect the refusal. Declining [[generative-ai|generative AI]] remains a valid stance for the 30% Skeptical Non-User profile who prioritize independent problem solving and [[desirable-difficulties|productive struggle]]; offer that group exposure only in low-risk, bounded exploratory or feedback tasks.
 - **Administrators.** Reject one-size-fits-all AI policy. Both profiles make calculated risk-utility trade-offs, so a mandate misreads the skeptical group and a ban misreads the pragmatic majority.
 

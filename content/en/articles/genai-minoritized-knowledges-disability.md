@@ -15,25 +15,25 @@ confidence: high
 sources: ['raw/papers/genai-minoritized-knowledges-disability.md']
 ---
 
-> **Synthesis:** This paper argues that [[generative-ai]] systems in [[higher-ed]] are not epistemically neutral — they actively marginalize non-hegemonic ways of knowing. Drawing on educational sciences, critical technology studies, and disability studies, Tali-Otmani demonstrates how predominantly Anglophone and Western-centric training data reinforces epistemic coloniality. The situation of persons with disabilities provides a particularly clear illustration, where technological architectures confine them to reductive stereotypes or exclude them from the [[design-thinking|design process]] entirely.
+> **Synthesis:** This paper argues that [[generative-ai|generative AI]] systems in [[higher-ed|higher education]] are not epistemically neutral — they actively marginalize non-hegemonic ways of knowing. Drawing on educational sciences, critical technology studies, and disability studies, Tali-Otmani demonstrates how predominantly Anglophone and Western-centric training data reinforces epistemic coloniality. The situation of persons with disabilities provides a particularly clear illustration, where technological architectures confine them to reductive stereotypes or exclude them from the [[design-thinking|design process]] entirely.
 
 ## Double Marginalization
 
-The paper identifies a **double marginalization** for [[inclusive-learning|disabled learners]]: first, their epistemologies are underrepresented in AI training data; second, they are excluded from the design process that shapes AI tools used in education. This compounds existing [[equity-in-ai-education]] challenges documented in [[digital-literacy-illusion]] research, where surface-level AI proficiency masks deeper exclusion. The concept extends [[equity-in-ai-education]] frameworks by focusing on knowledge production rather than just access.
+The paper identifies a **double marginalization** for [[inclusive-learning|disabled learners]]: first, their epistemologies are underrepresented in AI training data; second, they are excluded from the design process that shapes AI tools used in education. This compounds existing [[equity-in-ai-education|equity]] challenges documented in [[digital-literacy-illusion|Rodriguez-Alvarez et al. (2026)]] research, where surface-level AI proficiency masks deeper exclusion. The concept extends [[equity-in-ai-education|equity]] frameworks by focusing on knowledge production rather than just access.
 
 ## Epistemic Coloniality
 
-Training data predominantly sourced from Anglophone, Western academic traditions means that [[generative-ai]] outputs reflect and reinforce those epistemic frameworks. When deployed in higher education without critical awareness, these systems can present non-Western or disability-centered knowledge as less legitimate. This connects to concerns in [[genai-assessment-governance]] about whose standards govern AI use in educational settings.
+Training data predominantly sourced from Anglophone, Western academic traditions means that [[generative-ai|generative AI]] outputs reflect and reinforce those epistemic frameworks. When deployed in higher education without critical awareness, these systems can present non-Western or disability-centered knowledge as less legitimate. This connects to concerns in [[genai-assessment-governance|Gao et al. (2026)]] about whose standards govern AI use in educational settings.
 
 ## Proposed Hybridization
 
-Tali-Otmani explores whether a **[[research-methods-aied|researcher]]-machine hybridization** could preserve epistemic plurality. Rather than rejecting AI tools outright, she examines whether collaborative human-AI processes might surface marginalized perspectives. However, she warns against treating [[bias-mitigation]] through algorithmic correction as a purely palliative strategy — structural limitations persist when the underlying training data and design processes remain unchanged.
+Tali-Otmani explores whether a **[[research-methods-aied|researcher]]-machine hybridization** could preserve epistemic plurality. Rather than rejecting AI tools outright, she examines whether collaborative human-AI processes might surface marginalized perspectives. However, she warns against treating [[bias-mitigation|bias mitigation]] through algorithmic correction as a purely palliative strategy — structural limitations persist when the underlying training data and design processes remain unchanged.
 
 ## What this means for practice
 
 - **Instructors.** Treat [[generative-ai|generative AI]] output as one epistemic voice among several in your course: name which traditions the tools are trained on and require students to bring marginalized knowledge into the discussion rather than defer to the model's framing.
 - **Instructors.** Audit your own AI-supported work — feedback, peer review, course materials — for which literatures and methods the tools privilege, and make that bias an explicit object of instruction instead of leaving it implicit in the workflow.
-- **Instructors.** Go beyond [[accessibility]] when choosing tools for disabled learners: accessibility of the interface is not the same as legitimacy of their knowledge, so check whose epistemologies the system can represent and validate.
+- **Instructors.** Go beyond [[accessibility|accessibility]] when choosing tools for disabled learners: accessibility of the interface is not the same as legitimacy of their knowledge, so check whose epistemologies the system can represent and validate.
 - **Learners.** When the model cannot account for your experience, read that as a gap in the training data rather than a gap in your knowledge, and say so in the record — as the paper puts it, human judgment must remain primary in the knowledge production chain.
 - **Instructors.** Do not treat bias correction as sufficient: the paper argues that algorithmic remedies remain palliative while the underlying corpora and design processes exclude disabled and non-Western epistemologies.
 

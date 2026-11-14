@@ -14,7 +14,7 @@ audience: [instructional designers, researchers]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Puech, Macina, Chatain, Sachan and Kapur (2025) introduce **[[pedagogy|Pedagogical]] Steering** — the problem of getting [[llm]]-based tutors to follow effective [[teacher-role|teaching]] strategies rather than behaving as answer-giving assistants — and present **StratL**, an algorithm that steers an LLM through a predefined multi-turn tutoring plan represented as a transition graph. In a case study, they engineer an LLM tutor for high school math that follows [[productive-failure]] pedagogy, withholding solutions and eliciting multiple solution attempts. A field study with 17 Singaporean students showed StratL significantly increased fidelity to the PF strategy, though the PF tutor was perceived as less "helpful" than a baseline — the central tension between [[learning-gains|learning effectiveness]] and user satisfaction.
+> **Synthesis:** Puech, Macina, Chatain, Sachan and Kapur (2025) introduce **[[pedagogy|Pedagogical]] Steering** — the problem of getting [[llm|LLM]]-based tutors to follow effective [[teacher-role|teaching]] strategies rather than behaving as answer-giving assistants — and present **StratL**, an algorithm that steers an LLM through a predefined multi-turn tutoring plan represented as a transition graph. In a case study, they engineer an LLM tutor for high school math that follows [[productive-failure|productive failure]] pedagogy, withholding solutions and eliciting multiple solution attempts. A field study with 17 Singaporean students showed StratL significantly increased fidelity to the PF strategy, though the PF tutor was perceived as less "helpful" than a baseline — the central tension between [[learning-gains|learning effectiveness]] and user satisfaction.
 
 ## The Pedagogical Steering problem
 
@@ -32,7 +32,7 @@ StratL models a multi-turn tutoring strategy with LLMs. A multi-turn strategy is
 
 ## Relevance to the knowledge base
 
-This paper is the key technical anchor connecting LLM-based [[intelligent-tutoring|tutoring]] to [[productive-failure]] pedagogy. It demonstrates that LLMs must be *steered* to implement productive failure (withhold answers, elicit attempts, help only when necessary) — and that doing so trades perceived helpfulness for learning effectiveness. It connects to [[socratic-method]] (indirect hints and guiding questions), [[cognitive-offloading]] (resisting the urge to hand over solutions), [[scaffolding]] (giving help only when strictly necessary), and the [[human-in-the-loop-ai|design]] of AI tutors. Co-authored by Manu Kapur, the originator of productive failure.
+This paper is the key technical anchor connecting LLM-based [[intelligent-tutoring|tutoring]] to [[productive-failure|productive failure]] pedagogy. It demonstrates that LLMs must be *steered* to implement productive failure (withhold answers, elicit attempts, help only when necessary) — and that doing so trades perceived helpfulness for learning effectiveness. It connects to [[socratic-method|socratic method]] (indirect hints and guiding questions), [[cognitive-offloading|cognitive offloading]] (resisting the urge to hand over solutions), [[scaffolding|scaffolding]] (giving help only when strictly necessary), and the [[human-in-the-loop-ai|design]] of AI tutors. Co-authored by Manu Kapur, the originator of productive failure.
 
 ## What this means for practice
 

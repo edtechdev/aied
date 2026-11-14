@@ -13,14 +13,14 @@ level: [higher ed, k 12]
 sources: ['raw/papers/choi-anchor-aes-2025.md']
 confidence: high
 ---
-> **Synthesis:** Choi, Tate, Ritchie, Nixon & Warschauer (2025) investigate the most practical approach to LLM-based automated essay scoring — prompting — and find that providing anchor papers (example essays with scores) significantly improves LLM-human agreement, bringing it close to human-human scoring reliability. GPT-4o mini achieves comparable results to GPT-4o at substantially lower cost, making accessible, teacher-friendly AES feasible.
+> **Synthesis:** Choi, Tate, Ritchie, Nixon & Warschauer (2025) investigate the most practical approach to LLM-based [[automated-essay-scoring|automated essay scoring]] — prompting — and find that providing anchor papers (example essays with scores) significantly improves LLM-human agreement, bringing it close to human-human scoring reliability. GPT-4o mini achieves comparable results to GPT-4o at substantially lower cost, making accessible, teacher-friendly AES feasible.
 
 ## Key Findings
-1. **Anchor papers are the single most critical prompt component:** Including exemplar, pre-scored essays in prompts dramatically improved LLM-human agreement, raising GPT-4o's quadratic weighted kappa to 0.72 — close to the 0.79 human-human [[benchmark]] and classed as "substantial" agreement
+1. **Anchor papers are the single most critical prompt component:** Including exemplar, pre-scored essays in prompts dramatically improved LLM-human agreement, raising GPT-4o's quadratic weighted kappa to 0.72 — close to the 0.79 human-human [[benchmark|benchmark]] and classed as "substantial" agreement
 2. **GPT-4o mini is a cost-efficient alternative:** It achieved scores within 0.1 QWK of GPT-4o across all prompt types at roughly 200× lower cost, removing a key adoption barrier for educators
 3. **Source materials add little value:** Adding source texts to the prompt raised QWK by only 0.06, whereas adding anchor papers produced a large jump of 0.29 — the gains come from anchors, not context
 4. **Even a single anchor per score level helps:** One anchor per score performed nearly as well as three, and anchoring the extreme scores (1 and 6) beat distributing anchors across intermediate scores
-5. **Prompting beats [[llm-training-and-fine-tuning|fine-tuning]] for [[accessibility]]:** Structured prompting achieved strong holistic scoring without the computational resources and technical expertise that [[llm|fine-tuning]] demands of teachers
+5. **Prompting beats [[llm-training-and-fine-tuning|fine-tuning]] for [[accessibility|accessibility]]:** Structured prompting achieved strong holistic scoring without the computational resources and technical expertise that [[llm|fine-tuning]] demands of teachers
 
 ## Background: Why Prompting Matters for AES
 Traditional [[automated-essay-scoring|Automated Essay Scoring (AES)]] systems depend on supervised learning over large, prompt-specific sets of human-scored essays. Earlier approaches — regression-based models, [[educational-nlp|Latent Semantic Analysis (LSA)]], and machine/deep learning architectures — capture form-related features like grammar and structure but require substantial graded corpora and struggle with deeper semantic meaning. [[llm|Large language models]] change this calculus: pre-trained on massive diverse data, they can evaluate essays holistically without extensive pre-scored examples, reducing the labor that once kept AES out of classrooms like history.
@@ -44,7 +44,7 @@ The strong performance of anchor-inclusive prompts aligns with prior work favori
 - **Instructors.** One anchor per score level is enough, and if only two fit, anchor the extremes: a single anchor per score reached 0.65 QWK against 0.72 for the full set of three per level, and anchors at 1 and 6 reached 0.59 against 0.39 for anchors at 1, 3, and 6.
 - **Instructors.** Score with GPT-4o mini and leave the source texts out: it stayed within 0.1 QWK of GPT-4o across every prompt type at roughly 200 times lower cost, while source materials slightly degraded its performance (keep them for GPT-4o, where they cost no extra teacher effort), which removes the cost barrier that has kept LLM scoring out of under-resourced schools.
 - **Researchers.** Report agreement by score band, not just overall QWK: the best prompt reached about 23% exact agreement on score 6 against 0% for the rubric-only prompt, so distinguishing high-quality essays is where the gains and the failures concentrate — the pattern that supports low-stakes [[formative-assessment|formative assessment]] rather than graded high-stakes use.
-- **Researchers.** Judge prompt variants against the human-human [[benchmark]] of 0.79 QWK rather than against a fine-tuned model, since prompt design, not [[llm|fine-tuning]], is what [[teacher-role|teachers]] can adopt with exemplars they may already use to calibrate human raters.
+- **Researchers.** Judge prompt variants against the human-human [[benchmark|benchmark]] of 0.79 QWK rather than against a fine-tuned model, since prompt design, not [[llm|fine-tuning]], is what [[teacher-role|teachers]] can adopt with exemplars they may already use to calibrate human raters.
 
 ## Limitations
 

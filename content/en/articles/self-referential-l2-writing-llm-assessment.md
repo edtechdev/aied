@@ -24,9 +24,9 @@ Using the ICNALE GRA dataset annotated by up to 80 trained raters and calibrated
 
 ## Connections to Knowledge Base
 - Paradigm shift from [[automated-assessment|Automated Grading]] ranking to profiling
-- Aligns with [[sequenced-ai-feedback-learning]] emphasis on [[ai-feedback-quality|feedback quality]] over quantity
-- Extends [[nie-personavlm-long-term-personalization-2026]] to assessment contexts — profiling over time
-- Complements [[human-in-the-loop-ai]] by identifying where humans vs. AI add value
+- Aligns with [[sequenced-ai-feedback-learning|Cao et al., 2026]] emphasis on [[ai-feedback-quality|feedback quality]] over quantity
+- Extends [[nie-personavlm-long-term-personalization-2026|Nie et al., 2026]] to assessment contexts — profiling over time
+- Complements [[human-in-the-loop-ai|human-in-the-loop]] by identifying where humans vs. AI add value
 
 ## What this means for practice
 

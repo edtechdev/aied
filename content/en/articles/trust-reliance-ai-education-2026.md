@@ -15,25 +15,25 @@ level: [higher ed]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Pitts, Rani & Mildort (2026, [[ai-education|AIED]]) show with 432 undergraduates that **higher [[trust]] in an AI assistant is associated with lower appropriate reliance**: students who trusted the assistant more were worse at discriminating correct from misleading AI suggestions during [[cs-education|Python problem-solving]]. The relationship is non-linear and **moderated by [[ai-literacy|AI literacy]] and [[metacognition|need for cognition]]** — trust is not a safe proxy for appropriate use.
+> **Synthesis:** Pitts, Rani & Mildort (2026, [[ai-education|AIED]]) show with 432 undergraduates that **higher [[trust|trust]] in an AI assistant is associated with lower appropriate reliance**: students who trusted the assistant more were worse at discriminating correct from misleading AI suggestions during [[cs-education|Python problem-solving]]. The relationship is non-linear and **moderated by [[ai-literacy|AI literacy]] and [[metacognition|need for cognition]]** — trust is not a safe proxy for appropriate use.
 
 ## The experiment
 
 - 432 undergraduates solved Python output-prediction problems with recommendations + explanations from an [[llm|AI chatbot]] that included **accurate and intentionally misleading suggestions**
 - **Appropriate reliance** measured behaviorally: accepting correct suggestions, rejecting incorrect ones — a form of [[trust-calibration|calibration]]
-- Surveys captured trust, AI literacy, need for cognition, programming [[self-efficacy]], programming literacy
+- Surveys captured trust, AI literacy, need for cognition, programming [[self-efficacy|self-efficacy]], programming literacy
 
 ## Findings
 
 - **Non-linear trust→reliance relationship**: higher trust → lower appropriate reliance (weaker discrimination between correct/incorrect recommendations)
 - **Moderators: [[ai-literacy|AI literacy]] and [[metacognition|need for cognition]]** significantly shaped how trust translated into reliance behavior
-- Implication: interventions should target *[[trust-calibration|calibration]]* — instructional and system supports that encourage reflective [[ai-ed-evaluation|evaluation of AI]] assistance during [[problem-solving]]
+- Implication: interventions should target *[[trust-calibration|calibration]]* — instructional and system supports that encourage reflective [[ai-ed-evaluation|evaluation of AI]] assistance during [[problem-solving|problem-solving]]
 
 ## What this means for practice
 
 - **Instructors.** Do not read student trust as a proxy for good judgment: in this study higher post-task trust went with lower appropriate reliance (r = -.42, p < .001) and lower task accuracy (r = -.38), so the most confident AI users were the least selective.
 - **Instructors.** Make verification part of the task rather than advice at the side. Since students accepted 86.03% of misleading recommendations while rejecting only 2.37% of correct ones, build in cognitive forcing functions — committing to an answer before seeing the recommendation, or justifying agreement or disagreement afterward.
-- **Instructors.** Aim calibration support at students who already approach AI cautiously: [[ai-literacy]] and [[metacognition|need for cognition]] predicted better [[trust-calibration|appropriate reliance]] mainly at low trust, and that advantage narrowed as trust rose.
+- **Instructors.** Aim calibration support at students who already approach AI cautiously: [[ai-literacy|AI literacy]] and [[metacognition|need for cognition]] predicted better [[trust-calibration|appropriate reliance]] mainly at low trust, and that advantage narrowed as trust rose.
 - **Learners.** Distinguish being able to program from being able to judge an [[llm|AI]] suggestion: task accuracy (61.21%) and appropriate reliance (61.77%) landed at almost the same level, so following the assistant well is not the same as solving the problem well.
 - **Researchers.** Extend reliance measurement beyond a single score. The accept/reject measure collapses careful checking, [[prior-knowledge|prior knowledge]], and superficial cue use into one number, so pair it with justifications, confidence ratings, or response times.
 

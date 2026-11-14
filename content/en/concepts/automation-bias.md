@@ -1,7 +1,7 @@
 ---
 title: Automation Bias
 created: "2026-11-04T18:28:28-05:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 foundations: [cognitive-offloading, human-ai-collaboration, ai-literacy]
 pedagogy: [metacognition]
@@ -26,11 +26,11 @@ ai_assist:
 - Two failures are possible: accepting a wrong recommendation, and rejecting a right one. Which one does your institution's process catch, and which one does it reward?
 - If a dashboard flags a student as at risk, what would you have to know to disagree with it — and where would that knowledge come from?
 - [[trust-calibration|Trust research]] predicts that people who doubt themselves lean hardest on machines. What does it mean that the evidence finds the opposite among students?
-- Whose judgment is being displaced when an AI writes the [[feedback]], sets the grade, or drafts the intervention — and does the [[human-in-the-loop-ai|human in the loop]] have a real opportunity to intervene, or only a formal one?
+- Whose judgment is being displaced when an AI writes the [[feedback|feedback]], sets the grade, or drafts the intervention — and does the [[human-in-the-loop-ai|human in the loop]] have a real opportunity to intervene, or only a formal one?
 
 ## Introduction
 
-Students and [[teacher-role|teachers]] already work beside systems that produce judgments: essay scorers, engagement [[visualization|dashboards]], proctoring detectors, annotation models that manufacture labels, tutoring hints. Each of those outputs reaches a person who must decide whether to accept it, and automation bias names the predictable failure of that person to check. Automation bias belongs to the human side of the problem. Bias inside a model — skewed training data, uneven error rates across groups — is documented on [[bias-mitigation]]. The question here is what happens after the model has spoken.
+Students and [[teacher-role|teachers]] already work beside systems that produce judgments: essay scorers, engagement [[visualization|dashboards]], proctoring detectors, annotation models that manufacture labels, tutoring hints. Each of those outputs reaches a person who must decide whether to accept it, and automation bias names the predictable failure of that person to check. Automation bias belongs to the human side of the problem. Bias inside a model — skewed training data, uneven error rates across groups — is documented on [[bias-mitigation|bias mitigation]]. The question here is what happens after the model has spoken.
 
 The concept matters for education because the humans in the loop are rarely specialists. A teacher deciding whether to trust an algorithmic recommendation about a student is a domain expert with thirty other students in the room and no audit trail. A rater shown a machine score before judging an essay is being asked to disagree with a number that has no visible history. Automation bias is what makes those positions hard, and it is why "a human reviews the output" is weaker as a safeguard than it sounds.
 
@@ -62,7 +62,7 @@ Five sites carry most of the risk, and each has a different person who signs off
 
 ### Teachers deferring to scores and recommendations
 
-The clearest statement of the mechanism is in the teacher-facing work. [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe et al. (2026)]] describe diagnostic systems that see performance and completion time while [[motivation]], learning history and classroom dynamics stay invisible to them, and warn that automation bias can push teachers to defer to recommendations built on that thin slice. Their remedy is not a better score but a different stance: where explanation is weak, teachers must lean harder on their own observation of how students behave while using the AI.
+The clearest statement of the mechanism is in the teacher-facing work. [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe et al. (2026)]] describe diagnostic systems that see performance and completion time while [[motivation|motivation]], learning history and classroom dynamics stay invisible to them, and warn that automation bias can push teachers to defer to recommendations built on that thin slice. Their remedy is not a better score but a different stance: where explanation is weak, teachers must lean harder on their own observation of how students behave while using the AI.
 
 The sharpest gap is at the point of judgment. [[human-in-the-loop-ai-scoring-national-assessment-2026|The national-assessment scoring study (2026)]] has raters review machine scores, and its authors name the untested mechanism directly: whether raters shown AI scores before judging are anchored by them or defer to them is unmeasured, and they propose blinded against non-blinded rater experiments as the next step. The human-in-the-loop claim in that design is therefore an assumption, not a finding — and it is the good version of the design.
 
@@ -70,9 +70,9 @@ A safety-oversight experiment now supplies the measurement in an adjacent settin
 
 ### Analytics dashboards and the human-in-the-loop claim
 
-[[in-the-loop-educational-ai-learning-sciences-2026|The learning-sciences review of in-the-loop educational AI (2026)]] gives the pattern its general form: dashboards infer participation from clicks, automated [[writing-education|writing feedback]] privileges surface features over argument, and early-alert traffic lights pre-interpret trajectories. Automation bias compounds each of them, and the review treats [[trust]] as a sociotechnical outcome shaped by transparency, perceived competence and a meaningful right to override rather than as a stable attitude.
+[[in-the-loop-educational-ai-learning-sciences-2026|The learning-sciences review of in-the-loop educational AI (2026)]] gives the pattern its general form: dashboards infer participation from clicks, automated [[writing-education|writing feedback]] privileges surface features over argument, and early-alert traffic lights pre-interpret trajectories. Automation bias compounds each of them, and the review treats [[trust|trust]] as a sociotechnical outcome shaped by transparency, perceived competence and a meaningful right to override rather than as a stable attitude.
 
-Two designs take the point seriously. [[factria-responsible-institutional-analytics-2026|FACTRIA (2026)]] keeps a human in the loop by refusing to recommend: in a think-aloud study of eleven [[stakeholders]] reading four real analytics cases, coded with Cohen's k of 0.76, the [[conversational-ai|chatbot]] supported interpretation and explicitly declined to make decisions, and its authors flag automation bias and uncritical acceptance as the residual risks. [[ludia-udl-ai-thought-partner-2026|LUDIA (2026)]] routes every output through an educator, then admits the safeguard is weaker than it looks, because the educator most likely to accept a poor suggestion is the one who trusts that LUDIA understands [[universal-design-for-learning|universal design for learning]].
+Two designs take the point seriously. [[factria-responsible-institutional-analytics-2026|FACTRIA (2026)]] keeps a human in the loop by refusing to recommend: in a think-aloud study of eleven [[stakeholders|stakeholders]] reading four real analytics cases, coded with Cohen's k of 0.76, the [[conversational-ai|chatbot]] supported interpretation and explicitly declined to make decisions, and its authors flag automation bias and uncritical acceptance as the residual risks. [[ludia-udl-ai-thought-partner-2026|LUDIA (2026)]] routes every output through an educator, then admits the safeguard is weaker than it looks, because the educator most likely to accept a poor suggestion is the one who trusts that LUDIA understands [[universal-design-for-learning|universal design for learning]].
 
 The conceptual point that binds these together comes from [[extended-minds-coupling-flexibility-2026|the coupling-flexibility account of extended minds (2026)]]: a merely formal opportunity to accept or reject does not place the human inside the production of the judgment if automation bias defeats it. Supervision requires substantive opportunity to intervene, and a reject button nobody presses is not supervision.
 
@@ -92,7 +92,7 @@ A large share of the literature lists automation bias in a threat model without 
 
 ## Where the evidence is thin, mixed, or reversed
 
-**A prediction that failed.** The automation-bias literature predicts that people who doubt their own judgment lean hardest on machines, so low [[self-efficacy]] should produce high over-trust. [[kim-overtrust-ai-literacy-2026|The over-trust study (2026)]] found the opposite sign: confident students adopted [[generative-ai|generative AI]] earlier, accumulated positive experiences, and trusted the tool more. The design is cross-sectional and cannot establish any sequence, which the authors say more than once, so the finding does not overturn the mechanism — but it does show that the classroom version may not run in the direction the laboratory version predicts.
+**A prediction that failed.** The automation-bias literature predicts that people who doubt their own judgment lean hardest on machines, so low [[self-efficacy|self-efficacy]] should produce high over-trust. [[kim-overtrust-ai-literacy-2026|The over-trust study (2026)]] found the opposite sign: confident students adopted [[generative-ai|generative AI]] earlier, accumulated positive experiences, and trusted the tool more. The design is cross-sectional and cannot establish any sequence, which the authors say more than once, so the finding does not overturn the mechanism — but it does show that the classroom version may not run in the direction the laboratory version predicts.
 
 **The decisive experiment is missing.** Nobody has run the blinded versus non-blinded rating comparison that would isolate anchoring by machine scores, so the human-in-the-loop safeguard in scoring rests on plausibility. The same applies to dashboards: the studies describe what teachers are shown, rarely what they do differently because of it.
 

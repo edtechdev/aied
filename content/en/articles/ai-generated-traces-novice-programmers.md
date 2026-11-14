@@ -15,7 +15,7 @@ level: [higher ed]
 page_kind: [evaluation]
 ---
 
-> **Synthesis:** Multi-[[governance|institutional]] study on Generated Animated Traces (GATs) for CS1. Found that mid-engagement students may experience a performance decrement due to coordination costs (Expertise-Reversal Effect). [[cs-education]], [[scaffolding]], [[personalized-learning]], [[stem-education]], [[adaptive-learning]].
+> **Synthesis:** Multi-[[governance|institutional]] study on Generated Animated Traces (GATs) for CS1. Found that mid-engagement students may experience a performance decrement due to coordination costs (Expertise-Reversal Effect). [[cs-education|CS education]], [[scaffolding|scaffolding]], [[personalized-learning|personalized learning]], [[stem-education|STEM education]], [[adaptive-learning|adaptive learning]].
 
 ## Key Findings
 
@@ -27,7 +27,7 @@ page_kind: [evaluation]
 
 ## Study Design & Method
 
-The multi-institutional study compared GATs with textual explanations in introductory programming courses at two universities, one [[teacher-role|teaching]] Python and one teaching Java. Immediate learning performance and [[student-experience|learner experience]] were measured at the point of instruction, followed by end-of-course engagement and exam performance to test longer-term effects. [[student-engagement|Learner engagement]] profiles were derived from the data and used as moderators, allowing the authors to detect [[differential-effects-across-learner-groups|differential effects]] that aggregate analyses could mask. The framing draws on program-[[visualization]] [[research-methods-aied|research]] and [[cognitive-offloading|cognitive load]] theory, in which the effectiveness of visualizations depends on design and context.
+The multi-institutional study compared GATs with textual explanations in introductory programming courses at two universities, one [[teacher-role|teaching]] Python and one teaching Java. Immediate learning performance and [[student-experience|learner experience]] were measured at the point of instruction, followed by end-of-course engagement and exam performance to test longer-term effects. [[student-engagement|Learner engagement]] profiles were derived from the data and used as moderators, allowing the authors to detect [[differential-effects-across-learner-groups|differential effects]] that aggregate analyses could mask. The framing draws on program-[[visualization|visualization]] [[research-methods-aied|research]] and [[cognitive-offloading|cognitive load]] theory, in which the effectiveness of visualizations depends on design and context.
 
 ## What this means for practice
 

@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Multilingual Learning
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-11-13T13:05:00-05:00"
+updated: "2026-11-14T08:32:58-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
@@ -23,7 +23,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Multilingual learning concerns education for learners who study or think in languages other than the dominant ones, and it is a core equity dimension of AI in education: [[generative-ai|generative AI]] is overwhelmingly trained and tuned on high-resource languages, which can systematically disadvantage everyone else. The theme spans technical work (adapting models to low-resource languages and dialectal corpora, [[rag|retrieval]] in non-dominant languages), pedagogical concerns ([[culturally-relevant-pedagogy|locally grounded instruction]]), and structural equity (who can access useful educational AI at all) — which makes it inseparable from the [[digital-divide]] and [[equity-in-ai-education]].
+Multilingual learning concerns education for learners who study or think in languages other than the dominant ones, and it is a core equity dimension of AI in education: [[generative-ai|generative AI]] is overwhelmingly trained and tuned on high-resource languages, which can systematically disadvantage everyone else. The theme spans technical work (adapting models to low-resource languages and dialectal corpora, [[rag|retrieval]] in non-dominant languages), pedagogical concerns ([[culturally-relevant-pedagogy|locally grounded instruction]]), and structural equity (who can access useful educational AI at all) — which makes it inseparable from the [[digital-divide|digital divide]] and [[equity-in-ai-education|equity]].
 
 ## Overview
 
@@ -31,13 +31,13 @@ Multilingual learning is a core equity dimension of [[ai-education|AI in educati
 
 ## Technical approaches
 
-- **Fine-tuning for low-resource languages:** Nwogo et al. (2026) [[multilingual-adaptive-learning-nigeria-2026|fine-tuned an instruction-tuned LLM on a curated Nigerian Pidgin corpus]] within an [[adaptive-learning]] platform, and systematically analyzed quantization (4/5/8-bit) trade-offs between semantic fidelity and computational efficiency — showing that low-resource languages can be served with practical hardware constraints. See also the [[bilingual-llm-lecture-companion-srl-2026|bilingual LLM lecture companion]] for [[self-regulated-learning|self-regulated learning]].
+- **Fine-tuning for low-resource languages:** Nwogo et al. (2026) [[multilingual-adaptive-learning-nigeria-2026|fine-tuned an instruction-tuned LLM on a curated Nigerian Pidgin corpus]] within an [[adaptive-learning|adaptive learning]] platform, and systematically analyzed quantization (4/5/8-bit) trade-offs between semantic fidelity and computational efficiency — showing that low-resource languages can be served with practical hardware constraints. See also the [[bilingual-llm-lecture-companion-srl-2026|bilingual LLM lecture companion]] for [[self-regulated-learning|self-regulated learning]].
 - **Corpus and data equity:** building curated corpora (e.g., Nigerian Pidgin, Indian knowledge systems via [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]]) is a recurring strategy for enabling model output in learners' own languages.
 - **[[speech-and-voice-technologies|Voice-first]] and oral contexts:** [[kutti-ai-voice-first-learning-companion|voice-first companions]] and [[structural-silence-underrepresented-language-ai-2026|structural-silence analyses]] address contexts where text-based AI fails speakers of underrepresented languages.
 
 ## Equity and pedagogy
 
-Multilingual AI must go beyond translation to reflect [[culturally-relevant-pedagogy|culturally relevant pedagogy]] — generating content that is linguistically and contextually appropriate. Studies of [[llm-cultural-relevance-k12|LLM cultural relevance in K-12]] and [[scaffolding-critical-engagement-genai-minority-students|critical engagement with GenAI among minority students]] show that linguistic and cultural alignment shapes whether students actually benefit. Unaddressed, monolingual bias in AI deepens the [[digital-divide]] and undermines [[equity-in-ai-education|Equity]] across the [[global-south|Global South]].
+Multilingual AI must go beyond translation to reflect [[culturally-relevant-pedagogy|culturally relevant pedagogy]] — generating content that is linguistically and contextually appropriate. Studies of [[llm-cultural-relevance-k12|LLM cultural relevance in K-12]] and [[scaffolding-critical-engagement-genai-minority-students|critical engagement with GenAI among minority students]] show that linguistic and cultural alignment shapes whether students actually benefit. Unaddressed, monolingual bias in AI deepens the [[digital-divide|digital divide]] and undermines [[equity-in-ai-education|Equity]] across the [[global-south|Global South]].
 
 Translanguaging is an affordance generative [[conversational-ai|chatbots]] add that earlier language tools lacked. In a [[meta-analysis-systematic-review|systematic review]] of 24 studies, learners asked for contextualized phrases and explanations in their own language as a bridge into the target language — a use the reviewers classify as a new sub-affordance rather than a repackaged one ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
 
@@ -45,21 +45,21 @@ The language cost of tool onboarding is measurable: [[zangari-student-created-ai
 
 ## Assessment bias
 
-Multilingual concerns also affect [[automated-assessment|automated assessment]]: [[ai-scoring-language-bias-physics|AI scoring can exhibit language bias]] (e.g., in [[physics-education|physics]]), penalizing non-native speakers. Ensuring assessment tools are fair across languages is part of [[assessment-validity]].
+Multilingual concerns also affect [[automated-assessment|automated assessment]]: [[ai-scoring-language-bias-physics|AI scoring can exhibit language bias]] (e.g., in [[physics-education|physics]]), penalizing non-native speakers. Ensuring assessment tools are fair across languages is part of [[assessment-validity|assessment validity]].
 
 LLM-based comparative judgment is a case where bias tracked the human baseline rather than the model: scores for Grades 3–6 informational writing converged with researcher rubrics (r = .59–.73) and showed predictive-bias patterns for multilingual learners similar to human scoring, with no evidence that greater model capability or cost improved validity ([[llm-comparative-judgment-writing-screening-2026|Mercer & Reed (2026)]]).
 
 ## Implications for instructors in multilingual contexts
 
 - **Extend AI to learners' own languages, not just English.** Fine-tune or configure models for low-resource and non-dominant languages ([[multilingual-adaptive-learning-nigeria-2026|Nigerian Pidgin platform]]) rather than forcing English-only tools; pair AI with [[rag|RAG]] and local corpora where possible.
-- **Guard assessment against language bias.** [[ai-scoring-language-bias-physics|AI scoring]] can penalize non-native speakers — use language-aware or human-moderated evaluation to protect [[assessment-validity]] and [[equity-in-ai-education|fairness]].
+- **Guard assessment against language bias.** [[ai-scoring-language-bias-physics|AI scoring]] can penalize non-native speakers — use language-aware or human-moderated evaluation to protect [[assessment-validity|assessment validity]] and [[equity-in-ai-education|fairness]].
 - **Reflect culture and context, not just translation.** Multilingual AI must go beyond translation to [[culturally-relevant-pedagogy|culturally relevant pedagogy]] — generate content that is linguistically and contextually appropriate ([[llm-cultural-relevance-k12|K-12 cultural relevance]]).
 - **Pair AI with multilingual support structures.** Use voice-first and oral modes ([[kutti-ai-voice-first-learning-companion|voice-first companions]]) where text-based AI fails, and support [[self-regulated-learning|self-regulation]] in bilingual contexts ([[bilingual-llm-lecture-companion-srl-2026|bilingual lecture companion]]).
-- **Watch the digital divide.** Monolingual bias in AI deepens the [[digital-divide]] and undermines access across the [[global-south]] — plan for equitable infrastructure and access alongside tool choice.
+- **Watch the digital divide.** Monolingual bias in AI deepens the [[digital-divide|digital divide]] and undermines access across the [[global-south]] — plan for equitable infrastructure and access alongside tool choice.
 
 ## Common Misconceptions
 
-- **"The target language should dominate from day one."** In a **systematic review of 24 studies**, learners asked for **contextualized phrases and explanations in their own language as a bridge into the target language** — a use the reviewers classify as a genuinely new sub-affordance rather than a workaround. Home-language support functioned as [[scaffolding]], not as avoidance.
+- **"The target language should dominate from day one."** In a **systematic review of 24 studies**, learners asked for **contextualized phrases and explanations in their own language as a bridge into the target language** — a use the reviewers classify as a genuinely new sub-affordance rather than a workaround. Home-language support functioned as [[scaffolding|scaffolding]], not as avoidance.
 - **"AI language assessment is biased against multilingual writers."** Here the bias tracked the **human baseline rather than the model**: LLM-based comparative judgment on **Grades 3-6 informational writing converged with researcher rubrics (r = .59-.73)** and showed the same pattern the human raters did. That is not evidence of fairness in absolute terms — it is evidence that the model did not introduce a new distortion on top of the existing one.
 - **"Translation-quality output is the useful part."** The bridge use is explanatory and situated, not substitutive. A tool that replaces the learner's own production removes the practice that the bridging was meant to enable.
 

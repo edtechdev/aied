@@ -16,28 +16,28 @@ confidence: high
 audience: [instructors, instructional designers, researchers]
 ---
 
-> **Synthesis:** This [[meta-analysis-systematic-review|scoping review]] analyzed **13 experimental studies** on [[llm]] integration in undergraduate [[cs-education]], examining how intervention design choices shape [[learning-gains|learning outcomes]]. The central finding: **LLM effectiveness depends less on the model itself than on [[pedagogy|pedagogical]] design**.
+> **Synthesis:** This [[meta-analysis-systematic-review|scoping review]] analyzed **13 experimental studies** on [[llm|LLM]] integration in undergraduate [[cs-education|CS education]], examining how intervention design choices shape [[learning-gains|learning outcomes]]. The central finding: **LLM effectiveness depends less on the model itself than on [[pedagogy|pedagogical]] design**.
 
 ### Three Intervention Archetypes
 
 | Type | Studies | Results |
 |------|---------|---------|
 | **Task and Coding Assistant** | 8 | Mixed — Java code quality improved (p < 0.005), but broader academic performance showed no significant difference |
-| **Virtual Tutor or Peer** | 3 | **All three** showed significant improvements — semester-long integrations with scaffolded feedback consistently improved [[computational-thinking]] and performance |
+| **Virtual Tutor or Peer** | 3 | **All three** showed significant improvements — semester-long integrations with scaffolded feedback consistently improved [[computational-thinking|computational thinking]] and performance |
 | **Exam and Quiz Help** | 2 | Mixed depending on implementation |
 
 ### The "Tool Frustration" Paradox
 
-A striking finding: students using [[generative-ai]] tools **without adequate [[scaffolding]] and prompt literacy training** reported significantly higher frustration than controls (p = 0.008, median frustration 14 vs. 9), even when performance was equivalent. This mirrors concerns in the [[cognitive-offloading|Over-Reliance]] and [[critical-engagement-code-completion]] literature — LLM access without pedagogical support can actively harm the learning experience.
+A striking finding: students using [[generative-ai|generative AI]] tools **without adequate [[scaffolding|scaffolding]] and prompt literacy training** reported significantly higher frustration than controls (p = 0.008, median frustration 14 vs. 9), even when performance was equivalent. This mirrors concerns in the [[cognitive-offloading|Over-Reliance]] and [[critical-engagement-code-completion|Hutchison et al. (2026)]] literature — LLM access without pedagogical support can actively harm the learning experience.
 
 ### Design Patterns That Work
 
 The review identifies four design elements that distinguish effective interventions:
 
-1. **Sustained [[scaffolding]]**: Guided explanations, problem decomposition, and gradual reduction of support as competence grows — consistent with Vygotskian principles also discussed in [[learning-design]].
+1. **Sustained [[scaffolding|scaffolding]]**: Guided explanations, problem decomposition, and gradual reduction of support as competence grows — consistent with Vygotskian principles also discussed in [[learning-design|learning design]].
 2. **Transparent interaction patterns**: Students need to understand *how* the LLM is reasoning, not just receive answers.
-3. **Explicit meta-skill instruction**: [[prompt-engineering]] literacy must be taught — students cannot intuit effective prompting strategies.
-4. **Assessment redesign**: Emphasize code evaluation and prompt crafting over code generation, as also recommended in [[reshaping-cs-education-genai]].
+3. **Explicit meta-skill instruction**: [[prompt-engineering|prompt engineering]] literacy must be taught — students cannot intuit effective prompting strategies.
+4. **Assessment redesign**: Emphasize code evaluation and prompt crafting over code generation, as also recommended in [[reshaping-cs-education-genai|Lee et al. (2026)]].
 
 ### Language and Methodological Gaps
 
@@ -46,8 +46,8 @@ Java interventions showed more consistent gains; Python — despite dominance in
 ## What this means for practice
 
 - **Instructors.** Run LLM integration as a semester-long virtual tutor or peer with scaffolded feedback rather than a short-term coding assistant: all three tutor studies improved computational thinking and academic performance, while the eight task-and-coding-assistant studies split across measures.
-- **Instructors.** Teach prompt literacy and supply [[scaffolding]] before granting tool access, since students using LLMs without them reported significantly higher frustration than controls (p = 0.008, median 14 vs. 9) at equivalent performance — integration that skips that support is worse than no integration at all.
-- **Instructional designers.** Build interventions on the four elements the review isolates: sustained scaffolding with gradual withdrawal, transparent interaction patterns, explicit meta-skill instruction in [[prompt-engineering]], and assessment redesigned around code evaluation and prompt crafting.
+- **Instructors.** Teach prompt literacy and supply [[scaffolding|scaffolding]] before granting tool access, since students using LLMs without them reported significantly higher frustration than controls (p = 0.008, median 14 vs. 9) at equivalent performance — integration that skips that support is worse than no integration at all.
+- **Instructional designers.** Build interventions on the four elements the review isolates: sustained scaffolding with gradual withdrawal, transparent interaction patterns, explicit meta-skill instruction in [[prompt-engineering|prompt engineering]], and assessment redesigned around code evaluation and prompt crafting.
 - **Researchers.** Pre-specify outcomes, control conditions, and effect sizes with confidence intervals in any new trial, because the reviewed studies operationalize outcomes inconsistently, define control groups differently, and chronically underreport effect sizes and intervals.
 
 ## Limitations

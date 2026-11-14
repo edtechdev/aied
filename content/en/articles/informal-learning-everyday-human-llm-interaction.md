@@ -12,7 +12,7 @@ sources: ['raw/papers/2607.17643.md']
 confidence: high
 ---
 
-> **Synthesis:** Analyzing 128,569 naturalistic human–LLM conversations, the authors translate learning-science constructs into turn-level behavioral signatures and find that everyday [[llm]] use is not only answer delivery or [[cognitive-offloading|cognitive offloading]]: roughly a third of user turns show cognitive engagement and about one in twenty show the deeper constructive sense-making that [[learning-theories|learning science]] associates with stronger outcomes. Constructive participation is selective and conditionally organized — shaped by user framing, task ecology, interaction depth, and above all by whether assistant turns offer scaffolded support such as feedback and explanation.
+> **Synthesis:** Analyzing 128,569 naturalistic human–LLM conversations, the authors translate learning-science constructs into turn-level behavioral signatures and find that everyday [[llm|LLM]] use is not only answer delivery or [[cognitive-offloading|cognitive offloading]]: roughly a third of user turns show cognitive engagement and about one in twenty show the deeper constructive sense-making that [[learning-theories|learning science]] associates with stronger outcomes. Constructive participation is selective and conditionally organized — shaped by user framing, task ecology, interaction depth, and above all by whether assistant turns offer scaffolded support such as feedback and explanation.
 
 ## Overview
 

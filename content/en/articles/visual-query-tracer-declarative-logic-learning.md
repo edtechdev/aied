@@ -13,20 +13,20 @@ confidence: high
 audience: [instructors, learners]
 ---
 
-> **Synthesis:** Nemo Explain Visualizer (nev) is an interactive visual query tracer and builder for the Datalog reasoner Nemo. Although built for expert users, the authors conducted a [[qualitative-research|qualitative]] study with 14 participants at varying levels of involvement in a university [[knowledge-graph]] course to assess whether such tools help students learn declarative logic programming.
+> **Synthesis:** Nemo Explain Visualizer (nev) is an interactive visual query tracer and builder for the Datalog reasoner Nemo. Although built for expert users, the authors conducted a [[qualitative-research|qualitative]] study with 14 participants at varying levels of involvement in a university [[knowledge-graph|knowledge graph]] course to assess whether such tools help students learn declarative logic programming.
 
-Participants rated the tracer positively for building intuition about query evaluation, illustrating how visualization can act as [[scaffolding]] for otherwise abstract material. The findings sit within [[programming-its]] and [[cs-education]] [[research-methods-aied|research]] on tools that make invisible computation visible, and connect to [[stem-education]] efforts to teach formal methods. They also bear on [[pedagogy-ai-mistakes]] discussions about when automation helps versus hinders conceptual understanding in [[higher-ed]] computing courses.
+Participants rated the tracer positively for building intuition about query evaluation, illustrating how visualization can act as [[scaffolding|scaffolding]] for otherwise abstract material. The findings sit within [[programming-its|Deriyeva et al. (2026)]] and [[cs-education|CS education]] [[research-methods-aied|research]] on tools that make invisible computation visible, and connect to [[stem-education|STEM education]] efforts to teach formal methods. They also bear on [[pedagogy-ai-mistakes|Hosseini (2026)]] discussions about when automation helps versus hinders conceptual understanding in [[higher-ed|higher education]] computing courses.
 
 ## Key Findings
 
 - In a qualitative study with 14 participants spanning different levels of course involvement, the Nemo Explain Visualizer (nev) was well received as an interactive tracer and builder for Datalog query evaluation.
 - Learners reported that tracing queries visually built intuition about how evaluation proceeds, even though the tool was originally designed for expert users rather than students.
-- The tool functioned as [[scaffolding]] by making invisible computation concrete, helping novices connect declarative specifications to their execution semantics.
-- The results support the wider claim that [[visualization]] of formal/symbolic machinery aids learning in declarative logic programming and [[computational-thinking]] development.
+- The tool functioned as [[scaffolding|scaffolding]] by making invisible computation concrete, helping novices connect declarative specifications to their execution semantics.
+- The results support the wider claim that [[visualization|visualization]] of formal/symbolic machinery aids learning in declarative logic programming and [[computational-thinking|computational thinking]] development.
 
 ## What this means for practice
 
-- **Instructors.** Adopt the Nemo Explain Visualizer as [[scaffolding]] in declarative logic programming courses, not only as a developer utility: the 14 participants reported that visual tracing is how they built intuition about query evaluation.
+- **Instructors.** Adopt the Nemo Explain Visualizer as [[scaffolding|scaffolding]] in declarative logic programming courses, not only as a developer utility: the 14 participants reported that visual tracing is how they built intuition about query evaluation.
 - **Instructors.** Expect to prompt novices: less experienced participants only understood the program shortly before the third task and needed hints from the interviewers, while the most experienced participant identified the graph structure and purpose during the first task.
 - **Instructors.** Build validation checks into exercises, such as identifying equivalent ways to unrestrict a query, which most participants answered correctly during the interviews.
 - **Learners.** Trace queries node by node to connect declarative rules to execution semantics, and read the per-node performance strips to see where evaluation time goes.

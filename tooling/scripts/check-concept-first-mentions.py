@@ -69,6 +69,22 @@ EXCLUDE_PAIRS = {
     ("instructional design", "learning-design"),  # distinct concepts
     ("professional development", "educational-development"),
     ("authorship", "academic-integrity"),         # authorship is not (only) integrity
+    # Lexically right, semantically wrong — found while clearing the first-mention
+    # backlog of the 2026-11-14 inline-label sweep.
+    ("systematically review", "meta-analysis-systematic-review"),  # a verb phrase
+    ("deep learning", "machine-learning"),        # the pedagogical sense, or a subfield
+    ("test theory", "educational-measurement"),   # a fragment of "classical test theory"
+    ("classical test theory", "item-response-theory"),  # CTT is not IRT
+    ("digital literacy", "ai-literacy"),          # a neighbouring, distinct construct
+    ("ai competence", "ai-literacy"),             # a measured construct, not the literacy
+    ("ai competency", "ai-literacy"),
+    ("predictive analytics", "learning-analytics"),  # a system use, not the field
+    ("human judgment", "human-in-the-loop-ai"),   # judgment is not a loop
+    ("learning outcomes", "learning-gains"),      # intended outcomes, not measured gains
+    ("study design", "research-methods-aied"),    # a section label, not the methods field
+    ("adaptive testing", "adaptive-learning"),    # CAT is a distinct method
+    ("algorithmic bias", "bias-mitigation"),      # the phenomenon, not its mitigation
+    ("professional education", "professional-training"),
 }
 
 
