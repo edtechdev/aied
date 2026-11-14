@@ -70,4 +70,4 @@ For platform teams, the paper's most practical content is its preprocessing and 
 
 ## Citation
 
-Peng, H. (2026). [*Research on personalized recommendation algorithm for [[open-education|open educational resources]] driven by artificial intelligence*](https://doi.org/10.1007/s43926-026-00431-6). *Discover Internet of Things*, advance online publication (article in press).
+Peng, H. (2026). [*Research on personalized recommendation algorithm for open educational resources driven by artificial intelligence*](https://doi.org/10.1007/s43926-026-00431-6). *Discover Internet of Things*, advance online publication (article in press).

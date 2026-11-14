@@ -59,7 +59,7 @@ En kolay başlangıç ücretsiz, dışarıya verilmiş bir araçtır. Contact No
 
 Ticari bir kiracıda koltuk satın almak, ister [[generative-ai|ChatGPT]] Edu, Microsoft 365 Copilot ister Google Gemini for Education olsun, hızlı tedarik, SSO ve bir yönetici konsolu getirir; model seçimini ve saklamayı satıcıda bırakır.
 
-Kendi barındırdığınız bir platform veriyi daha yakın tutar. [Amplify GenAI](/[[ai-education|aied]]/resources/amplify-genai/) kendi AWS hesabınıza kurulur ve Vanderbilt'in pilotu 1.300 kullanıcıda kullanıcı başına ayda yaklaşık \$3 bildirdi; bunların yarısı tokenlarda \$1'in altındaydı. Bu, GPU olmadan veri denetimi satın alır.
+Kendi barındırdığınız bir platform veriyi daha yakın tutar. [Amplify GenAI](/aied/resources/amplify-genai/) kendi AWS hesabınıza kurulur ve Vanderbilt'in pilotu 1.300 kullanıcıda kullanıcı başına ayda yaklaşık \$3 bildirdi; bunların yarısı tokenlarda \$1'in altındaydı. Bu, GPU olmadan veri denetimi satın alır.
 
 Aracı sağlayıcılar üzerinde bir ağ geçidi, birkaç hizmetin önüne tek bir giriş kapısı koyar. Kotalar, SSO, günlükleme ve bölgesel yönlendirme taşır; Fontys 300 kullanıcı için aylık \$500 tavanının altında bir tane çalıştırdı ve bu tavan hiç aşılmadı, [MindRouter](/aied/resources/mindrouter/) ise role göre ağırlıklı zamanlama ve enerji ölçümü ekler.
 

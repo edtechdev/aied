@@ -81,7 +81,7 @@ In questa lettura, i membri del corpo docente che si chiedono "qual è il senso 
 
 ### Indicazioni pratiche per i progettisti di programmi
 
-Per gli sviluppatori del corpo docente, i dirigenti accademici e gli [[stakeholders|progettisti didattici]] che pianificano la [[educational-development|formazione professionale]] sull'IA, le evidenze della base di conoscenza suggeriscono:
+Per gli sviluppatori del corpo docente, i dirigenti accademici e gli [[stakeholders|progettisti didattici]] che pianificano la formazione professionale sull'IA, le evidenze della base di conoscenza suggeriscono:
 
 **Affrontare i quattro motori dell'adozione, non solo la conoscenza.** Fiducia, atteggiamenti, supporto e preoccupazioni predicono se il corpo docente adotti effettivamente l'IA — un laboratorio basato sulla sola conoscenza che ignori questi elementi difficilmente cambierà la pratica. Progettare lo sviluppo per costruire fiducia attraverso l'uso pratico, fornire supporto continuativo (non una formazione una tantum), e portare attivamente alla luce le preoccupazioni del corpo docente rispondendo a esse. ([[teacher-ai-adoption-confidence]])
 

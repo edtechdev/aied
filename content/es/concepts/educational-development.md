@@ -92,7 +92,7 @@ Desde esta perspectiva, el profesorado que pregunta «¿qué sentido tiene ense�
 
 ### Orientaciones prácticas para quienes diseñan programas
 
-Para quienes desarrollan al profesorado, para los líderes académicos y para los [[stakeholders|diseñadores instruccionales]] que planifican el [[educational-development|desarrollo profesional]] en IA, la evidencia sugiere lo siguiente:
+Para quienes desarrollan al profesorado, para los líderes académicos y para los [[stakeholders|diseñadores instruccionales]] que planifican el desarrollo profesional en IA, la evidencia sugiere lo siguiente:
 
 **Aborde los cuatro motores de la adopción, no solo el conocimiento.** La confianza, las actitudes, el apoyo y las preocupaciones predicen si el profesorado adopta realmente la IA: un taller que solo aporte conocimiento y los ignore difícilmente cambiará la práctica. Diseñe el desarrollo para construir confianza mediante el uso práctico, ofrezca apoyo continuo (no formación puntual) y saque a la luz y responda activamente a las preocupaciones del profesorado.([[teacher-ai-adoption-confidence]])
 

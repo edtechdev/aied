@@ -77,7 +77,7 @@ In deze lezing zijn docenten die vragen "wat is het nut van lesgeven in een GenA
 
 ### Praktische begeleiding voor programmamakers
 
-Voor docentontwikkelaars, academisch leiders en [[stakeholders|onderwijsontwerpers]] die professionele [[educational-development|ontwikkeling]] op het gebied van AI plannen, suggereert het bewijs in de kennisbank:
+Voor docentontwikkelaars, academisch leiders en [[stakeholders|onderwijsontwerpers]] die professionele ontwikkeling op het gebied van AI plannen, suggereert het bewijs in de kennisbank:
 
 **Adresseer de vier adoptiedrijfveren, niet alleen kennis.** Vertrouwen, houdingen, ondersteuning en zorgen voorspellen of docenten AI daadwerkelijk overnemen - een workshop die alleen kennis overdraagt en deze factoren negeert, zal de praktijk waarschijnlijk niet veranderen. Ontwerp ontwikkeling om vertrouwen op te bouwen door hands-on gebruik, bied doorlopende ondersteuning (geen eenmalige training), en breng zorgen van docenten actief aan de oppervlakte en reageer erop.([[teacher-ai-adoption-confidence]])
 

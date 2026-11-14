@@ -24,7 +24,7 @@ ai_assist:
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 
-> A **[[science-education|educação científica]]** — o estudo e a prática de como estudantes aprendem ciências e como ensiná-las, agora sendo remodelados pela IA generativa (LLMs, simulações, laboratórios virtuais e correção por IA) ao longo de [[physics-education|física]], química e [[biology-education|biologia]]. Os artigos de educação científica nesta base de conhecimento revelam um campo negociando uma tensão central: a IA apoia de forma demonstrável a investigação, a correção de mal-entendidos e a avaliação em escala, mas seu valor depende do design instrucional, e ela carrega riscos reais de [[cognitive-offloading|dependência excessiva]], alucinação e aprendizagem desumanizada e movida pelo lucro.
+> A **educação científica** — o estudo e a prática de como estudantes aprendem ciências e como ensiná-las, agora sendo remodelados pela IA generativa (LLMs, simulações, laboratórios virtuais e correção por IA) ao longo de [[physics-education|física]], química e [[biology-education|biologia]]. Os artigos de educação científica nesta base de conhecimento revelam um campo negociando uma tensão central: a IA apoia de forma demonstrável a investigação, a correção de mal-entendidos e a avaliação em escala, mas seu valor depende do design instrucional, e ela carrega riscos reais de [[cognitive-offloading|dependência excessiva]], alucinação e aprendizagem desumanizada e movida pelo lucro.
 
 ## Perguntas para considerar
 

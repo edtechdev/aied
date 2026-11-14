@@ -59,7 +59,7 @@ Najlakši početak je besplatan vanjski alat. AI Tutor Pro tvrtke Contact North 
 
 Kupnja mjesta na komercijalnom tenantu, bilo [[generative-ai|ChatGPT]] Edu, Microsoft 365 Copilot ili Google Gemini for Education, donosi brzu nabavu, SSO i administratorsku konzolu, a odabir modela i zadržavanje ostavlja dobavljaču.
 
-Platforma koju sami hostate drži podatke bliže. [Amplify GenAI](/[[ai-education|aied]]/resources/amplify-genai/) postavlja se u vaš vlastiti AWS račun, a Vanderbiltov pilot izvijestio je o oko \$3 po korisniku mjesečno na 1,300 korisnika, od kojih je polovica potrošila manje od \$1 na tokene. To kupuje kontrolu nad podacima bez GPU-a.
+Platforma koju sami hostate drži podatke bliže. [Amplify GenAI](/aied/resources/amplify-genai/) postavlja se u vaš vlastiti AWS račun, a Vanderbiltov pilot izvijestio je o oko \$3 po korisniku mjesečno na 1,300 korisnika, od kojih je polovica potrošila manje od \$1 na tokene. To kupuje kontrolu nad podacima bez GPU-a.
 
 Pristupnik preko mješovitih pružatelja stavlja jedna ulazna vrata pred nekoliko njih. Nosi kvote, SSO, bilježenje i regionalno usmjeravanje; Fontys je vodio jedan za 300 korisnika pod mjesečnim ograničenjem od \$500 koje nikada nije prekoračeno, a [MindRouter](/aied/resources/mindrouter/) dodaje raspoređivanje s težinama uloga i mjerenje energije.
 

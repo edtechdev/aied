@@ -59,7 +59,7 @@ A legkönnyebb kezdet egy ingyenes, kiszervezett eszköz. A Contact North AI Tut
 
 Licencek vásárlása egy kereskedelmi bérlőn – akár [[generative-ai|ChatGPT]] Edu, Microsoft 365 Copilot vagy Google Gemini for Education – gyors beszerzést, SSO-t és adminisztrátori konzolt hoz, a modellválasztást és a megőrzést pedig a beszállítónál hagyja.
 
-Az általad hosztolt platform közelebb tartja az adatokat. Az [Amplify GenAI](/[[ai-education|aied]]/resources/amplify-genai/) a saját AWS-fiókodba települ, és a Vanderbilt kísérleti projektje körülbelül \$3/felhasználó/hónap költséget jelentett 1 300 felhasználónál, akiknek a fele \$1 alatt fogyasztott tokenből. Ez adatkontrollt ad GPU-k nélkül.
+Az általad hosztolt platform közelebb tartja az adatokat. Az [Amplify GenAI](/aied/resources/amplify-genai/) a saját AWS-fiókodba települ, és a Vanderbilt kísérleti projektje körülbelül \$3/felhasználó/hónap költséget jelentett 1 300 felhasználónál, akiknek a fele \$1 alatt fogyasztott tokenből. Ez adatkontrollt ad GPU-k nélkül.
 
 Egy átjáró több beszállító előtt egyetlen bejáratot teremt. Kvótákat, SSO-t, naplózást és regionális útválasztást hordoz; a Fontys 300 felhasználóra üzemeltetett egyet havi \$500-os plafon alatt, amelyet soha nem léptek túl, a [MindRouter](/aied/resources/mindrouter/) pedig szerepkör szerint súlyozott ütemezést és energiafogyasztás-mérést ad hozzá.
 

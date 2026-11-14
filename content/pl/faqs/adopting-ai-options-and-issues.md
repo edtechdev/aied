@@ -59,7 +59,7 @@ Najłatwiejszy start to bezpłatne narzędzie zewnętrzne. AI Tutor Pro od Conta
 
 Kupowanie miejsc na komercyjnym tenancie, czy to [[generative-ai|ChatGPT]] Edu, Microsoft 365 Copilot czy Google Gemini for Education, przynosi szybkie zaopatrzenie, SSO i konsolę administracyjną, a wybór modelu i retencję pozostawia dostawcy.
 
-Hostowana przez ciebie platforma trzyma dane bliżej. [Amplify GenAI](/[[ai-education|aied]]/resources/amplify-genai/) wdraża się na twoim własnym koncie AWS, a pilotaż Vanderbilta raportował około \$3 na użytkownika miesięcznie przy 1 300 użytkownikach, z których połowa zużywała poniżej \$1 na tokeny. To daje kontrolę nad danymi bez GPU.
+Hostowana przez ciebie platforma trzyma dane bliżej. [Amplify GenAI](/aied/resources/amplify-genai/) wdraża się na twoim własnym koncie AWS, a pilotaż Vanderbilta raportował około \$3 na użytkownika miesięcznie przy 1 300 użytkownikach, z których połowa zużywała poniżej \$1 na tokeny. To daje kontrolę nad danymi bez GPU.
 
 Brama nad mieszanymi dostawcami stawia jedne drzwi frontowe przed kilkoma. Niesie limity, SSO, logowanie i routing regionalny; Fontys prowadził jedną dla 300 użytkowników w ramach miesięcznego limitu \$500, który nigdy nie został przekroczony, a [MindRouter](/aied/resources/mindrouter/) dodaje harmonogramowanie ważone rolami i pomiar energii.
 

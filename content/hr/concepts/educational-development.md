@@ -76,7 +76,7 @@ U tom smislu nastavnici koji pitaju „koji je smisao poučavanja u svijetu gene
 
 ### Praktične smjernice za osmislitelje programa
 
-Za razvijatelje fakultetske nastave, akademske voditelje i [[stakeholders|instruktivne dizajnere]] koji planiraju [[educational-development|profesionalni razvoj]] u području umjetne inteligencije, dokazi baze znanja upućuju na sljedeće:
+Za razvijatelje fakultetske nastave, akademske voditelje i [[stakeholders|instruktivne dizajnere]] koji planiraju profesionalni razvoj u području umjetne inteligencije, dokazi baze znanja upućuju na sljedeće:
 
 **Bavite se četirima pokretačima usvajanja, a ne samo znanjem.** Samopouzdanje, stavovi, podrška i zabrinutosti predviđaju hoće li nastavnici doista usvojiti umjetnu inteligenciju, pa radionica koja se bavi samo znanjem i zanemaruje te čimbenike vjerojatno neće promijeniti praksu. Osmislite razvoj tako da gradi samopouzdanje kroz praktičnu upotrebu, pruža trajnu podršku (a ne jednokratnu obuku) i aktivno iznosi i odgovara na zabrinutosti nastavnika.([[teacher-ai-adoption-confidence]])
 

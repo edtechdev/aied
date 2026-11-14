@@ -25,7 +25,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **[[science-education|L'enseignement des sciences]]** — l'étude et la pratique de la manière dont les élèves apprennent les sciences et dont on les enseigne, un domaine aujourd'hui remodelé par l'IA générative (LLM, simulations, laboratoires virtuels et correction automatique) en [[physics-education|physique]], en chimie et en [[biology-education|biologie]]. La littérature sur l'enseignement des sciences révèle un champ qui négocie une tension centrale : l'IA soutient de manière démontrable la démarche d'investigation, la correction des conceptions erronées et l'évaluation à grande échelle, mais sa valeur dépend de la conception pédagogique, et elle comporte des risques réels de [[cognitive-offloading|délégation excessive]], d'hallucination et d'apprentissage déshumanisé, guidé par le profit.
+> **L'enseignement des sciences** — l'étude et la pratique de la manière dont les élèves apprennent les sciences et dont on les enseigne, un domaine aujourd'hui remodelé par l'IA générative (LLM, simulations, laboratoires virtuels et correction automatique) en [[physics-education|physique]], en chimie et en [[biology-education|biologie]]. La littérature sur l'enseignement des sciences révèle un champ qui négocie une tension centrale : l'IA soutient de manière démontrable la démarche d'investigation, la correction des conceptions erronées et l'évaluation à grande échelle, mais sa valeur dépend de la conception pédagogique, et elle comporte des risques réels de [[cognitive-offloading|délégation excessive]], d'hallucination et d'apprentissage déshumanisé, guidé par le profit.
 
 ## Questions à examiner
 

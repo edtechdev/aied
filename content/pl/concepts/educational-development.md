@@ -76,7 +76,7 @@ W tym ujęciu wykładowcy pytający „jaki jest sens nauczania w świecie GenAI
 
 ### Praktyczne wskazówki dla projektantów programów
 
-Dla developerów kadry, liderów akademickich i [[stakeholders|projektantów nauczania]] planujących [[educational-development|rozwój zawodowy]] w zakresie SI, dowody z bazy wiedzy sugerują:
+Dla developerów kadry, liderów akademickich i [[stakeholders|projektantów nauczania]] planujących rozwój zawodowy w zakresie SI, dowody z bazy wiedzy sugerują:
 
 **Adresuj cztery czynniki adopcji, nie tylko wiedzę.** Pewność siebie, postawy, wsparcie i obawy przewidują, czy wykładowcy faktycznie przyjmą SI - warsztat wyłącznie wiedzowy, który je pomija, prawdopodobnie nie zmieni praktyki. Projektuj rozwój tak, by budował pewność siebie przez praktyczne użycie, zapewniał stałe wsparcie (a nie jednorazowe szkolenie) oraz aktywnie ujawniał obawy wykładowców i na nie odpowiadał.([[teacher-ai-adoption-confidence]])
 

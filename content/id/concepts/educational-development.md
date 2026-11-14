@@ -82,7 +82,7 @@ Dalam kerangka ini, fakultas yang bertanya "apa gunanya mengajar di dunia GenAI?
 
 ### Panduan praktis bagi perancang program
 
-Bagi pengembang fakultas, pemimpin akademik, dan [[stakeholders|perancang instruksional]] yang merencanakan [[educational-development|pengembangan profesional]] AI, bukti dalam basis pengetahuan ini menyarankan:
+Bagi pengembang fakultas, pemimpin akademik, dan [[stakeholders|perancang instruksional]] yang merencanakan pengembangan profesional AI, bukti dalam basis pengetahuan ini menyarankan:
 
 **Tangani empat pendorong adopsi, bukan hanya pengetahuan.** Keyakinan diri, sikap, dukungan, dan kekhawatiran memprediksi apakah fakultas benar-benar mengadopsi AI - lokakarya yang hanya berisi pengetahuan dan mengabaikan hal-hal itu tidak mungkin mengubah praktik. Rancang pengembangan untuk membangun keyakinan diri melalui penggunaan langsung, sediakan dukungan berkelanjutan (bukan pelatihan sekali jalan), dan secara aktif munculkan serta tanggapi kekhawatiran fakultas.([[teacher-ai-adoption-confidence]])
 

@@ -2,7 +2,7 @@
 title: "DeepTutor"
 created: "2026-09-20T17:30:00-04:00"
 type: resource
-summary: "[[intelligent-tutoring|DeepTutor مطالعے]] میں جانچے گئے ٹیوٹرنگ فریم ورک کا اوپن سورس نفاذ، جو اب ایک عام ایجنٹ-نیٹو سیکھنے کے ورک اسپیس بن چکا ہے۔"
+summary: "DeepTutor مطالعے میں جانچے گئے ٹیوٹرنگ فریم ورک کا اوپن سورس نفاذ، جو اب ایک عام ایجنٹ-نیٹو سیکھنے کے ورک اسپیس بن چکا ہے۔"
 url: https://github.com/HKUDS/DeepTutor
 author: "HKU Data Intelligence Lab (HKUDS)"
 resource_type: [software, collection of tools]

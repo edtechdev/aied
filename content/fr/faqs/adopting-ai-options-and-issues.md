@@ -59,7 +59,7 @@ Le départ le plus simple est un outil externalisé gratuit. AI Tutor Pro de Con
 
 L'achat de sièges sur un tenant commercial, qu'il s'agisse de [[generative-ai|ChatGPT]] Edu, de Microsoft 365 Copilot ou de Google Gemini for Education, apporte un approvisionnement rapide, le SSO et une console d'administration, et laisse le choix du modèle et la conservation au fournisseur.
 
-Une plateforme que vous hébergez garde les données plus près. [Amplify GenAI](/[[ai-education|aied]]/resources/amplify-genai/) se déploie dans votre propre compte AWS, et le pilote de Vanderbilt a rapporté environ \$3 par utilisateur et par mois pour 1 300 utilisateurs, dont la moitié sous \$1 de jetons. Cela achète la maîtrise des données sans GPU.
+Une plateforme que vous hébergez garde les données plus près. [Amplify GenAI](/aied/resources/amplify-genai/) se déploie dans votre propre compte AWS, et le pilote de Vanderbilt a rapporté environ \$3 par utilisateur et par mois pour 1 300 utilisateurs, dont la moitié sous \$1 de jetons. Cela achète la maîtrise des données sans GPU.
 
 Une passerelle au-dessus de fournisseurs mixtes place une seule porte d'entrée devant plusieurs d'entre eux. Elle porte les quotas, le SSO, la journalisation et le routage régional ; Fontys en a exploité une pour 300 utilisateurs sous un plafond mensuel de \$500 qui n'a jamais été franchi, et [MindRouter](/aied/resources/mindrouter/) ajoute un ordonnancement pondéré par les rôles et une mesure de l'énergie.
 

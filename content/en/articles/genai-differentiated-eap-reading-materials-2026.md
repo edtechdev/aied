@@ -45,4 +45,4 @@ The study deployed a four-module role-prompted GenAI workflow — barrier analys
 
 ## Citation
 
-Gao, X. (2026). [*From unified to differentiated materials: Generative AI–supported adaptation of [[reading-education|EAP reading materials]]*](https://doi.org/10.3389/fpsyg.2026.1887565).
+Gao, X. (2026). [*From unified to differentiated materials: Generative AI–supported adaptation of EAP reading materials*](https://doi.org/10.3389/fpsyg.2026.1887565).

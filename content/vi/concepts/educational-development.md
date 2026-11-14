@@ -76,7 +76,7 @@ Theo cách lý giải này, những giảng viên đang hỏi "dạy học để
 
 ### Hướng dẫn thực tiễn cho nhà thiết kế chương trình
 
-Đối với nhà phát triển đội ngũ giảng viên, lãnh đạo học thuật và [[stakeholders|nhà thiết kế giảng dạy]] đang lập kế hoạch [[educational-development|phát triển nghề nghiệp]] về AI, bằng chứng của cơ sở kiến thức gợi ý:
+Đối với nhà phát triển đội ngũ giảng viên, lãnh đạo học thuật và [[stakeholders|nhà thiết kế giảng dạy]] đang lập kế hoạch phát triển nghề nghiệp về AI, bằng chứng của cơ sở kiến thức gợi ý:
 
 **Giải quyết cả bốn động lực áp dụng, không chỉ kiến thức.** Sự tự tin, thái độ, sự hỗ trợ và những lo ngại dự báo việc giảng viên có thực sự áp dụng AI hay không; một workshop chỉ cung cấp kiến thức mà bỏ qua những điều này khó có thể thay đổi thực hành. Hãy thiết kế việc phát triển để xây dựng sự tự tin qua sử dụng trực tiếp, cung cấp hỗ trợ liên tục (không phải đào tạo một lần), và chủ động làm lộ ra và phản hồi những lo ngại của giảng viên.([[teacher-ai-adoption-confidence]])
 

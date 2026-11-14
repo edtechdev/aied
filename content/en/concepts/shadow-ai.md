@@ -1,7 +1,7 @@
 ---
 title: Shadow AI
 created: "2026-11-12T07:49:43-05:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T07:06:17-05:00"
 type: concept
 technology: [generative-ai, llm]
 ethics: [privacy, equity-in-ai-education]
@@ -107,7 +107,7 @@ Three sources address shadow AI directly and cannot be ingested here: two closed
 - [Beyond Curiosity: Habit and Organizational Learning Capability as Predictors of Shadow AI](https://doi.org/10.1016/j.chb.2026.109243) — Lovett and Yang, *Computers in Human Behavior*, article 109243, November 2026. Survey evidence from recent workplace AI users, with habit carrying the largest relative-importance weight and personal payment for tools associated with elevated shadow AI.
 - [Shadow AI Isn't a Threat: It's a Signal](https://campustechnology.com/articles/2026/02/04/shadow-ai-isnt-a-threat-its-a-signal.aspx) — Damien Eversmann, *Campus Technology*, February 2026. A practitioner argument that unauthorized use reports an unmet need: faculty drafting lesson plans, researchers spinning up cloud GPUs on departmental cards, and staff pasting sensitive data into consumer tools because the approved path was slower.
 
-- [Shadow AI, [[human-in-the-loop-ai|Human Oversight]], and Institutional Trust: A Socio-technical Model of [[ethics|Responsible AI]] Governance in the Public Sector](https://doi.org/10.1007/978-3-032-38498-0_11) — Jonathan and colleagues, Springer, 2026. PLS-SEM on 214 public sector employees, treating shadow AI as the mechanism linking governance conditions to responsible use.
+- [Shadow AI, Human Oversight, and Institutional Trust: A Socio-technical Model of Responsible AI Governance in the Public Sector](https://doi.org/10.1007/978-3-032-38498-0_11) — Jonathan and colleagues, Springer, 2026. PLS-SEM on 214 public sector employees, treating shadow AI as the mechanism linking governance conditions to responsible use.
 
 ## Connected Concepts
 

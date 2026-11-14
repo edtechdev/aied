@@ -59,7 +59,7 @@ ai_assist:
 
 상용 테넌트의 좌석을 사는 것, 즉 [[generative-ai|ChatGPT]] Edu, Microsoft 365 Copilot, Google Gemini for Education 중 무엇이든 빠른 조달, SSO, 관리자 콘솔을 가져오지만 모델 선택과 보존은 공급업체에 남깁니다.
 
-직접 호스팅하는 플랫폼은 데이터를 더 가까이 둡니다. [Amplify GenAI](/[[ai-education|aied]]/resources/amplify-genai/)는 여러분 자신의 AWS 계정에 배포되며, Vanderbilt의 파일럿은 1,300명 사용자에서 사용자당 월 약 \$3, 그중 절반은 토큰 비용이 \$1 미만이라고 보고했습니다. 그것은 GPU 없이 데이터 통제를 삽니다.
+직접 호스팅하는 플랫폼은 데이터를 더 가까이 둡니다. [Amplify GenAI](/aied/resources/amplify-genai/)는 여러분 자신의 AWS 계정에 배포되며, Vanderbilt의 파일럿은 1,300명 사용자에서 사용자당 월 약 \$3, 그중 절반은 토큰 비용이 \$1 미만이라고 보고했습니다. 그것은 GPU 없이 데이터 통제를 삽니다.
 
 혼합 공급자 위의 게이트웨이는 여러 곳 앞에 하나의 정문을 둡니다. 할당량, SSO, 로깅, 지역 라우팅을 담당합니다. Fontys는 300명 사용자를 위해 월 \$500 상한으로 하나를 운영했고 그 상한은 한 번도 넘지 않았으며, [MindRouter](/aied/resources/mindrouter/)는 역할 가중 스케줄링과 에너지 계량을 더합니다.
 

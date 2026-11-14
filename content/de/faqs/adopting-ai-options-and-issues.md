@@ -59,7 +59,7 @@ Der einfachste Einstieg ist ein kostenloses ausgelagertes Werkzeug. AI Tutor Pro
 
 Der Kauf von Sitzplätzen bei einem kommerziellen Anbieter, sei es [[generative-ai|ChatGPT]] Edu, Microsoft 365 Copilot oder Google Gemini for Education, bringt schnelle Beschaffung, SSO und eine Administrationskonsole und lässt Modellwahl und Aufbewahrung beim Anbieter.
 
-Eine selbst gehostete Plattform hält die Daten näher. [Amplify GenAI](/[[ai-education|aied]]/resources/amplify-genai/) wird in Ihrem eigenen AWS-Konto bereitgestellt, und Vanderbilts Pilot meldete etwa \$3 pro Nutzer und Monat bei 1.300 Nutzern, die Hälfte davon unter \$1 an Tokens. Das kauft Datenkontrolle ohne GPUs.
+Eine selbst gehostete Plattform hält die Daten näher. [Amplify GenAI](/aied/resources/amplify-genai/) wird in Ihrem eigenen AWS-Konto bereitgestellt, und Vanderbilts Pilot meldete etwa \$3 pro Nutzer und Monat bei 1.300 Nutzern, die Hälfte davon unter \$1 an Tokens. Das kauft Datenkontrolle ohne GPUs.
 
 Ein Gateway über gemischte Anbieter stellt einen einzigen Zugang vor mehrere Dienste. Es trägt Quoten, SSO, Protokollierung und regionales Routing; Fontys betrieb eines für 300 Nutzer unter einer monatlichen Obergrenze von \$500, die nie überschritten wurde, und [MindRouter](/aied/resources/mindrouter/) ergänzt rollengewichtete Planung und Energiemessung.
 

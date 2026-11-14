@@ -77,7 +77,7 @@ E szerint az oktatók, akik azt kérdezik, „mi értelme tanítani egy generat�
 
 ### Gyakorlati útmutatás programtervezőknek
 
-Az oktatói fejlesztőket, a tudományos vezetőket és a MI-re vonatkozó [[educational-development|szakmai fejlesztést]] tervező [[stakeholders|oktatástervezőket]] a tudásbázis bizonyítékai a következőkre ösztönzik:
+Az oktatói fejlesztőket, a tudományos vezetőket és a MI-re vonatkozó szakmai fejlesztést tervező [[stakeholders|oktatástervezőket]] a tudásbázis bizonyítékai a következőkre ösztönzik:
 
 **Kezelje a négy elfogadási mozgatórugót, ne csak a tudást.** Az önbizalom, az attitűdök, a támogatás és az aggodalmak jelzik előre, hogy az oktatók valóban átveszik-e a MI-t - egy csak tudásra építő műhely, amely ezeket figyelmen kívül hagyja, valószínűleg nem változtat a gyakorlaton. Tervezze a fejlesztést úgy, hogy gyakorlati használaton keresztül építse az önbizalmat, folyamatos támogatást nyújtson (nem egyszeri képzést), és aktívan hozza felszínre és kezelje az oktatók aggodalmait.([[teacher-ai-adoption-confidence]])
 

@@ -59,7 +59,7 @@ Helpoin aloitus on ilmainen ulkoistettu työkalu. Contact Northin AI Tutor Pro e
 
 Paikkojen ostaminen kaupallisesta vuokraympäristöstä – oli se sitten [[generative-ai|ChatGPT]] Edu, Microsoft 365 Copilot tai Google Gemini for Education – tuo nopean hankinnan, SSO:n ja hallintakonsolin, ja jättää mallin valinnan ja säilytyksen toimittajalle.
 
-Isännöity alusta pitää tiedot lähempänä. [Amplify GenAI](/[[ai-education|aied]]/resources/amplify-genai/) asennetaan omaan AWS-tiliin, ja Vanderbiltin pilotissa raportoitiin noin \$3 käyttäjää kohden kuukaudessa 1,300 käyttäjällä, joista puolet alle \$1 tokeneissa. Se ostaa tietojen hallintaa ilman GPU:ita.
+Isännöity alusta pitää tiedot lähempänä. [Amplify GenAI](/aied/resources/amplify-genai/) asennetaan omaan AWS-tiliin, ja Vanderbiltin pilotissa raportoitiin noin \$3 käyttäjää kohden kuukaudessa 1,300 käyttäjällä, joista puolet alle \$1 tokeneissa. Se ostaa tietojen hallintaa ilman GPU:ita.
 
 Yhdyskäytävä useiden toimittajien päälle tuo yhden etuoven monen eteen. Se kantaa kiintiöt, SSO:n, lokituksen ja alueellisen reitityksen; Fontys ajoi sellaista 300 käyttäjälle \$500 kuukausikatolla, jota ei koskaan ylitetty, ja [MindRouter](/aied/resources/mindrouter/) lisää roolipainotetun ajastuksen ja energiamittauksen.
 

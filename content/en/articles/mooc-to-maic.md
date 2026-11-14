@@ -17,7 +17,7 @@ level: [higher ed]
 
 **ArXiv:** 2409.03512
 **Submitted:** September 2024
-**Published version:** [Journal of [[cs-education|Computer Science]] and Technology (2026)](https://doi.org/10.1007/s11390-025-6000-0)
+**Published version:** [Journal of Computer Science and Technology (2026)](https://doi.org/10.1007/s11390-025-6000-0)
 **Source code (OpenMAIC):** https://github.com/THU-MAIC/OpenMAIC
 
 ### Overview

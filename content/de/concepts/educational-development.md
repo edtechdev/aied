@@ -80,7 +80,7 @@ Nach dieser Darstellung sind Fakultäten, die fragen „what's the point of teac
 
 ### Praktische Anleitung für Programmgestalterinnen und Programmgestalter
 
-Für Fakultätsentwickelnde, akademische Leitungen und [[stakeholders|Instructional Designerinnen und Designer]], die KI-[[educational-development|professionelle Entwicklung]] planen, legt die Evidenz der Wissensbasis nahe:
+Für Fakultätsentwickelnde, akademische Leitungen und [[stakeholders|Instructional Designerinnen und Designer]], die KI-professionelle Entwicklung planen, legt die Evidenz der Wissensbasis nahe:
 
 **Adressieren Sie die vier Übernahmetreiber, nicht nur Wissen.** Zuversicht, Einstellungen, Unterstützung und Bedenken sagen vorher, ob Fakultäten KI tatsächlich übernehmen — ein rein wissensbasierter Workshop, der diese ignoriert, wird Praxis unwahrscheinlich verändern. Gestalten Sie Entwicklung so, dass sie Zuversicht durch praktische Nutzung aufbaut, laufende Unterstützung bietet (nicht einmalige Schulung), und Bedenken der Fakultäten aktiv an die Oberfläche bringt und darauf antwortet.([[teacher-ai-adoption-confidence]])
 

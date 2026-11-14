@@ -77,7 +77,7 @@ Podľa tohto výkladu pedagógovia, ktorí sa pýtajú "aký má zmysel učiť v
 
 ### Praktické usmernenie pre tvorcov programov
 
-Pre rozvojárov pedagógov, akademických lídrov a [[stakeholders|návrhárov výučby]], ktorí plánujú [[educational-development|profesijný rozvoj]] v AI, dôkazy vedomostnej bázy naznačujú:
+Pre rozvojárov pedagógov, akademických lídrov a [[stakeholders|návrhárov výučby]], ktorí plánujú profesijný rozvoj v AI, dôkazy vedomostnej bázy naznačujú:
 
 **Riešte štyri hybné sily prijatia, nielen vedomosti.** Sebadôvera, postoje, podpora a obavy predpovedajú, či pedagógovia AI skutočne prijmú; dielňa zameraná iba na vedomosti, ktorá ich ignoruje, pravdepodobne prax nezmení. Navrhujte rozvoj tak, aby budoval sebadôveru praktickým používaním, poskytoval priebežnú podporu (nie jednorazové školenie) a aktívne zviditeľňoval obavy pedagógov a reagoval na ne.([[teacher-ai-adoption-confidence]])
 

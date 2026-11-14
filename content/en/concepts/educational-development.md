@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-14T07:06:17-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -67,7 +67,7 @@ On this account, faculty asking "what's the point of teaching in a GenAI world?"
 
 ### Practical guidance for program designers
 
-For faculty developers, academic leaders, and [[stakeholders|instructional designers]] planning AI [[educational-development|professional development]], the evidence suggests:
+For faculty developers, academic leaders, and [[stakeholders|instructional designers]] planning AI professional development, the evidence suggests:
 
 **Address the four adoption drivers, not just knowledge.** Confidence, attitudes, support, and concerns predict whether faculty actually adopt AI — a knowledge-only workshop that ignores these is unlikely to change practice. Design development to build confidence through hands-on use, provide ongoing support (not one-shot training), and actively surface and respond to faculty concerns.([[teacher-ai-adoption-confidence]])
 

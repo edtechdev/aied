@@ -59,7 +59,7 @@ ai_assist:
 
 在商业租户上购买席位，不论是 [[generative-ai|ChatGPT]] Edu、Microsoft 365 Copilot 还是 Google Gemini for Education，带来的是快速采购、SSO 和管理控制台，代价是把模型选择和保留策略留给供应商。
 
-自己托管的平台让数据离得更近。[Amplify GenAI](/[[ai-education|aied]]/resources/amplify-genai/) 部署到你自己的 AWS 账户里，范德堡的试点报告称，在 1,300 名用户时每用户每月约 \$3，其中一半人的 token 费用不到 \$1。这买到了不用 GPU 的数据控制。
+自己托管的平台让数据离得更近。[Amplify GenAI](/aied/resources/amplify-genai/) 部署到你自己的 AWS 账户里，范德堡的试点报告称，在 1,300 名用户时每用户每月约 \$3，其中一半人的 token 费用不到 \$1。这买到了不用 GPU 的数据控制。
 
 覆盖多家供应商的网关，在几家前面放一扇统一的门。它承载配额、SSO、日志和区域路由；Fontys 为 300 名用户运行了一个，每月上限 \$500，从未突破；[MindRouter](/aied/resources/mindrouter/) 则增加了按角色加权的调度和能耗计量。
 

@@ -77,7 +77,7 @@ Tässä tulkinnassa opettajat, jotka kysyvät "mitä järkeä opettamisessa on g
 
 ### Käytännön ohjeita ohjelmasuunnittelijoille
 
-Opettajakunnan kehittäjille, akateemisille johtajille ja tekoälyn [[educational-development|ammatillista kehittämistä]] suunnitteleville [[stakeholders|opetussuunnittelijoille]] tietopohjan näyttö ehdottaa seuraavaa:
+Opettajakunnan kehittäjille, akateemisille johtajille ja tekoälyn ammatillista kehittämistä suunnitteleville [[stakeholders|opetussuunnittelijoille]] tietopohjan näyttö ehdottaa seuraavaa:
 
 **Käsittele neljää käyttöönoton ajuria, ei vain tietoa.** Itseluottamus, asenteet, tuki ja huolet ennustavat, ottavatko opettajat tekoälyn todella käyttöön, joten pelkkään tietoon keskittyvä työpaja, joka jättää ne huomiotta, tuskin muuttaa käytäntöä. Suunnittele kehittäminen rakentamaan itseluottamusta käytännön kautta, tarjoa jatkuvaa tukea (ei kertaluontoista koulutusta) ja nosta opettajien huolet aktiivisesti esiin ja vastaa niihin.([[teacher-ai-adoption-confidence]])
 

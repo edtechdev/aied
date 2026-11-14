@@ -59,7 +59,7 @@ Cea mai ușoară pornire este un instrument externalizat gratuit. AI Tutor Pro d
 
 Cumpărarea de locuri pe un tenant comercial, fie [[generative-ai|ChatGPT]] Edu, Microsoft 365 Copilot sau Google Gemini for Education, aduce achiziție rapidă, SSO și o consolă de administrare, și lasă alegerea modelului și păstrarea datelor la furnizor.
 
-O platformă pe care o găzduiești tu ține datele mai aproape. [Amplify GenAI](/[[ai-education|aied]]/resources/amplify-genai/) se implementează în propriul cont AWS, iar pilotul de la Vanderbilt a raportat aproximativ \$3 pe utilizator pe lună la 1.300 de utilizatori, jumătate dintre ei sub \$1 în tokenuri. Asta cumpără control asupra datelor fără GPU-uri.
+O platformă pe care o găzduiești tu ține datele mai aproape. [Amplify GenAI](/aied/resources/amplify-genai/) se implementează în propriul cont AWS, iar pilotul de la Vanderbilt a raportat aproximativ \$3 pe utilizator pe lună la 1.300 de utilizatori, jumătate dintre ei sub \$1 în tokenuri. Asta cumpără control asupra datelor fără GPU-uri.
 
 Un gateway peste furnizori variați pune o singură ușă de intrare în fața mai multora. Oferă cote, SSO, jurnalizare și rutare regională; Fontys a rulat unul pentru 300 de utilizatori sub un plafon lunar de \$500 care nu a fost niciodată depășit, iar [MindRouter](/aied/resources/mindrouter/) adaugă programare ponderată pe roluri și măsurarea energiei.
 

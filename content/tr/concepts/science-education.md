@@ -19,7 +19,7 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-> **[[science-education|Fen eğitimi]]** — öğrencilerin bilimi nasıl öğrendiğinin ve onun nasıl öğretileceğinin incelenmesi ve uygulanması; günümüzde [[physics-education|fizik]], kimya ve [[biology-education|biyoloji]] boyunca üretici YZ (LLM’ler, benzetimler, sanal laboratuvarlar ve YZ puanlaması) tarafından yeniden şekillendirilmektedir. Bu bilgi tabanındaki fen eğitimi makaleleri, temel bir gerginliği müzakere eden bir alanı ortaya koyar: YZ, soru sormaya dayalı öğrenmeyi (inquiry), yanlış kanı düzeltmesini ve ölçekte değerlendirmeyi gösterilebilir biçimde destekler, öte yandan değeri öğretim tasarımına bağlıdır ve [[cognitive-offloading|aşırı güven]], halüsinasyon ve insanlıktan uzak, kâr odaklı öğrenmenin gerçek risklerini taşır.
+> **Fen eğitimi** — öğrencilerin bilimi nasıl öğrendiğinin ve onun nasıl öğretileceğinin incelenmesi ve uygulanması; günümüzde [[physics-education|fizik]], kimya ve [[biology-education|biyoloji]] boyunca üretici YZ (LLM’ler, benzetimler, sanal laboratuvarlar ve YZ puanlaması) tarafından yeniden şekillendirilmektedir. Bu bilgi tabanındaki fen eğitimi makaleleri, temel bir gerginliği müzakere eden bir alanı ortaya koyar: YZ, soru sormaya dayalı öğrenmeyi (inquiry), yanlış kanı düzeltmesini ve ölçekte değerlendirmeyi gösterilebilir biçimde destekler, öte yandan değeri öğretim tasarımına bağlıdır ve [[cognitive-offloading|aşırı güven]], halüsinasyon ve insanlıktan uzak, kâr odaklı öğrenmenin gerçek risklerini taşır.
 
 ## Düşünülmesi Gerekenler
 

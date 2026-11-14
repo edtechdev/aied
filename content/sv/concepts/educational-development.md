@@ -76,7 +76,7 @@ Enligt detta synsätt är lärare som frågar "vad är poängen med att undervis
 
 ### Praktisk vägledning för programdesigners
 
-För lärarutvecklare, akademiska ledare och [[stakeholders|instruktionsdesigners]] som planerar AI-baserad [[educational-development|professionell utveckling]] föreslår kunskapsbasens evidens följande:
+För lärarutvecklare, akademiska ledare och [[stakeholders|instruktionsdesigners]] som planerar AI-baserad professionell utveckling föreslår kunskapsbasens evidens följande:
 
 **Adressera de fyra anammandedrivkrafterna, inte bara kunskap.** Tilltro, attityder, stöd och oro förutsäger om lärare faktiskt anammar AI - en workshop som bara ger kunskap och ignorerar dessa kommer sannolikt inte att förändra praktiken. Designa utvecklingen så att den bygger tilltro genom praktisk användning, ger löpande stöd (inte engångsutbildning) och aktivt synliggör och bemöter lärarnas oro.([[teacher-ai-adoption-confidence]])
 

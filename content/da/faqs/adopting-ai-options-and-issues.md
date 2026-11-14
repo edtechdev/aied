@@ -59,7 +59,7 @@ Den nemmeste start er et gratis, udliciteret værktøj. AI Tutor Pro fra Contact
 
 Køb af pladser hos en kommerciel lejer, hvad enten det er [[generative-ai|ChatGPT]] Edu, Microsoft 365 Copilot eller Google Gemini for Education, giver hurtig indkøb, SSO og en adminkonsol og overlader modelvalg og opbevaring til leverandøren.
 
-En platform, du selv hoster, holder data tættere på. [Amplify GenAI](/[[ai-education|aied]]/resources/amplify-genai/) installeres i din egen AWS-konto, og Vanderbilts pilot rapporterede omkring \$3 pr. bruger pr. måned ved 1.300 brugere, hvoraf halvdelen brugte under \$1 i tokens. Det køber datakontrol uden GPU'er.
+En platform, du selv hoster, holder data tættere på. [Amplify GenAI](/aied/resources/amplify-genai/) installeres i din egen AWS-konto, og Vanderbilts pilot rapporterede omkring \$3 pr. bruger pr. måned ved 1.300 brugere, hvoraf halvdelen brugte under \$1 i tokens. Det køber datakontrol uden GPU'er.
 
 En gateway over blandede udbydere sætter én indgang foran flere. Den bærer kvoter, SSO, logning og regional routing; Fontys kørte en sådan til 300 brugere under et månedligt loft på \$500, som aldrig blev overskredet, og [MindRouter](/aied/resources/mindrouter/) tilføjer rollevægtet planlægning og energimåling.
 

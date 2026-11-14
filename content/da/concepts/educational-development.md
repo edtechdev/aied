@@ -76,7 +76,7 @@ Ifølge denne redegørelse er undervisere, der spørger "hvad er meningen med at
 
 ### Praktisk vejledning til programdesignere
 
-For underviserudviklere, akademiske ledere og [[stakeholders|instruktionsdesignere]], der planlægger AI-relateret [[educational-development|professionel udvikling]], peger vidensbasens evidens på følgende:
+For underviserudviklere, akademiske ledere og [[stakeholders|instruktionsdesignere]], der planlægger AI-relateret professionel udvikling, peger vidensbasens evidens på følgende:
 
 **Adressér de fire indførelsesdrivere, ikke blot viden.** Selvtillid, holdninger, støtte og bekymringer forudsiger, om undervisere faktisk tager AI i brug, og en workshop, der kun handler om viden og ignorerer disse, ændrer næppe praksis. Design udviklingen, så den opbygger selvtillid gennem praktisk brug, giver vedvarende støtte (ikke engangsoplæring) og aktivt bringer undervisernes bekymringer frem og responderer på dem.([[teacher-ai-adoption-confidence]])
 

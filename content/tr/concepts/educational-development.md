@@ -77,7 +77,7 @@ Bu açıklamaya göre, “bir üretici YZ dünyasında öğretmenliğin anlamı 
 
 ### Program tasarımcıları için pratik rehber
 
-Akademik personel geliştiricileri, akademik liderler ve YZ [[educational-development|mesleki gelişimi]] planlayan [[stakeholders|öğretim tasarımcıları]] için bilgi tabanının kanıtı şunu önermektedir:
+Akademik personel geliştiricileri, akademik liderler ve YZ mesleki gelişimi planlayan [[stakeholders|öğretim tasarımcıları]] için bilgi tabanının kanıtı şunu önermektedir:
 
 **Yalnızca bilgiyi değil, dört benimseme iticisini de ele alın.** Güven, tutumlar, destek ve kaygılar, akademik personelin YZ’yi gerçekten benimseyip benimsemediğini öngörür — bunları göz ardı eden yalnızca bilgiye dayalı bir atölye, uygulamayı değiştirme olasılığı düşüktür. Gelişimi, güveni uygulamalı kullanımla oluşturacak, süregelen destek sağlayacak (tek seferlik eğitim değil) ve personelin kaygılarını etkin biçimde yüzeye çıkarıp yanıtlayacak şekilde tasarlayın. ([[teacher-ai-adoption-confidence]])
 

@@ -21,7 +21,7 @@ ai_assist:
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
 
-> **[[science-education|Pendidikan sains]]** — studi dan praktik tentang cara siswa belajar sains dan cara mengajarkannya, yang kini dibentuk ulang AI generatif (LLM, simulasi, laboratorium virtual, dan penilaian berbasis AI) di [[physics-education|fisika]], kimia, dan [[biology-education|biologi]]. Artikel pendidikan sains di sini memperlihatkan bidang yang menegosiasikan ketegangan inti: AI nyata mendukung inkuiri, koreksi miskonsepsi, dan asesmen berskala besar, namun nilainya bergantung pada desain pembelajaran, dan ia berisiko [[cognitive-offloading|ketergantungan berlebih]], halusinasi, serta pembelajaran tak manusiawi yang digerakkan laba.
+> **Pendidikan sains** — studi dan praktik tentang cara siswa belajar sains dan cara mengajarkannya, yang kini dibentuk ulang AI generatif (LLM, simulasi, laboratorium virtual, dan penilaian berbasis AI) di [[physics-education|fisika]], kimia, dan [[biology-education|biologi]]. Artikel pendidikan sains di sini memperlihatkan bidang yang menegosiasikan ketegangan inti: AI nyata mendukung inkuiri, koreksi miskonsepsi, dan asesmen berskala besar, namun nilainya bergantung pada desain pembelajaran, dan ia berisiko [[cognitive-offloading|ketergantungan berlebih]], halusinasi, serta pembelajaran tak manusiawi yang digerakkan laba.
 
 ## Pertanyaan yang Perlu Dipertimbangkan
 

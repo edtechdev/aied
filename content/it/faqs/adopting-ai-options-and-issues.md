@@ -59,7 +59,7 @@ L'inizio più facile è uno strumento esternalizzato gratuito. AI Tutor Pro di C
 
 Acquistare postazioni su un tenant commerciale, che sia [[generative-ai|ChatGPT]] Edu, Microsoft 365 Copilot o Google Gemini for Education, porta un approvvigionamento rapido, SSO e una console di amministrazione, e lascia scelta del modello e conservazione al fornitore.
 
-Una piattaforma che ospiti tu tiene i dati più vicini. [Amplify GenAI](/[[ai-education|aied]]/resources/amplify-genai/) si distribuisce nel tuo account AWS, e il progetto pilota di Vanderbilt ha riportato circa \$3 per utente al mese su 1.300 utenti, metà dei quali sotto \$1 di token. Questo compra il controllo dei dati senza GPU.
+Una piattaforma che ospiti tu tiene i dati più vicini. [Amplify GenAI](/aied/resources/amplify-genai/) si distribuisce nel tuo account AWS, e il progetto pilota di Vanderbilt ha riportato circa \$3 per utente al mese su 1.300 utenti, metà dei quali sotto \$1 di token. Questo compra il controllo dei dati senza GPU.
 
 Un gateway su fornitori misti mette una sola porta d'ingresso davanti a diversi. Porta quote, SSO, logging e instradamento regionale; Fontys ne ha gestito uno per 300 utenti con un tetto mensile di \$500 mai superato, e [MindRouter](/aied/resources/mindrouter/) aggiunge pianificazione ponderata per ruolo e misurazione dell'energia.
 

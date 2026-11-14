@@ -25,7 +25,7 @@ ai_assist:
 
 *Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft.*
 
-> **[[science-education|Naturwissenschaftsbildung]]** — das Studium und die Praxis dessen, wie Lernende Naturwissenschaft lernen und wie man sie unterrichtet, jetzt neu geformt durch generative KI (LLMs, Simulationen, virtuelle Labore und KI-Bewertung) über [[physics-education|Physik]], Chemie und [[biology-education|Biologie]] hinweg. Die Artikel zur Naturwissenschaftsbildung in dieser Wissensbasis offenbaren ein Feld, das eine Kernspannung verhandelt: KI unterstützt erkennbar Erkundung, Korrektur von Missverständnissen und Assessment im großen Maßstab, doch ihr Wert hängt vom Unterrichtsdesign ab, und sie birgt reale Risiken von [[cognitive-offloading|Over-Reliance]], Halluzination und entmenschlichtem, profitorientiertem Lernen.
+> **Naturwissenschaftsbildung** — das Studium und die Praxis dessen, wie Lernende Naturwissenschaft lernen und wie man sie unterrichtet, jetzt neu geformt durch generative KI (LLMs, Simulationen, virtuelle Labore und KI-Bewertung) über [[physics-education|Physik]], Chemie und [[biology-education|Biologie]] hinweg. Die Artikel zur Naturwissenschaftsbildung in dieser Wissensbasis offenbaren ein Feld, das eine Kernspannung verhandelt: KI unterstützt erkennbar Erkundung, Korrektur von Missverständnissen und Assessment im großen Maßstab, doch ihr Wert hängt vom Unterrichtsdesign ab, und sie birgt reale Risiken von [[cognitive-offloading|Over-Reliance]], Halluzination und entmenschlichtem, profitorientiertem Lernen.
 
 ## Fragen zum Nachdenken
 

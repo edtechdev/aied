@@ -59,7 +59,7 @@ Najjednoduchší začiatok je bezplatný externý nástroj. AI Tutor Pro od Cont
 
 Kúpa sedadiel u komerčného nájomcu, či už [[generative-ai|ChatGPT]] Edu, Microsoft 365 Copilot alebo Google Gemini for Education, prináša rýchle obstarávanie, SSO a administrátorskú konzolu, a výber modelu i uchovávanie necháva na dodávateľovi.
 
-Platforma, ktorú hostujete, udrží dáta bližšie. [Amplify GenAI](/[[ai-education|aied]]/resources/amplify-genai/) sa nasadzuje do vášho vlastného účtu AWS a pilot na Vanderbilt University uvádzal približne \$3 na používateľa mesačne pri 1 300 používateľoch, pričom polovica z nich minula na tokeny menej ako \$1. To kupuje kontrolu nad dátami bez GPU.
+Platforma, ktorú hostujete, udrží dáta bližšie. [Amplify GenAI](/aied/resources/amplify-genai/) sa nasadzuje do vášho vlastného účtu AWS a pilot na Vanderbilt University uvádzal približne \$3 na používateľa mesačne pri 1 300 používateľoch, pričom polovica z nich minula na tokeny menej ako \$1. To kupuje kontrolu nad dátami bez GPU.
 
 Brána nad zmiešanými poskytovateľmi postaví pred niekoľko z nich jedny dvere. Prenáša kvóty, SSO, logovanie a regionálne smerovanie; Fontys ju prevádzkoval pre 300 používateľov s mesačným stropom \$500, ktorý sa nikdy neprekročil, a [MindRouter](/aied/resources/mindrouter/) pridáva plánovanie vážené podľa rolí a meranie energie.
 

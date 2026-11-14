@@ -19,7 +19,7 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-> **[[science-education|Elimu ya sayansi]]** — somo na mazoezi ya jinsi wanafunzi wanavyojifunza sayansi na jinsi ya kuifundisha, sasa ikibadilishwa na AI ya kizazi (LLM, simulizi, maabara ya mtandaoni, na upangaji wa alama wa AI) katika [[physics-education|fizikia]], kemia, na [[biology-education|biologia]]. Makala za elimu ya sayansi katika hifadhi hii ya maarifa zinafunua uwanja unaojadiliana msongo mkubwa: AI kwa uthibitisho inaunga mkono uchunguzi, marekebisho ya dhana potofu, na tathmini kwa kiwango kikubwa, lakini thamani yake inategemea muundo wa mafunzo, na inabeba hatari halisi za [[cognitive-offloading|kutegemea kupita kiasi]], hallucination, na kujifunza kwa kudharauliwa na kutawaliwa na faida.
+> **Elimu ya sayansi** — somo na mazoezi ya jinsi wanafunzi wanavyojifunza sayansi na jinsi ya kuifundisha, sasa ikibadilishwa na AI ya kizazi (LLM, simulizi, maabara ya mtandaoni, na upangaji wa alama wa AI) katika [[physics-education|fizikia]], kemia, na [[biology-education|biologia]]. Makala za elimu ya sayansi katika hifadhi hii ya maarifa zinafunua uwanja unaojadiliana msongo mkubwa: AI kwa uthibitisho inaunga mkono uchunguzi, marekebisho ya dhana potofu, na tathmini kwa kiwango kikubwa, lakini thamani yake inategemea muundo wa mafunzo, na inabeba hatari halisi za [[cognitive-offloading|kutegemea kupita kiasi]], hallucination, na kujifunza kwa kudharauliwa na kutawaliwa na faida.
 
 ## Maswali ya Kuzingatia
 

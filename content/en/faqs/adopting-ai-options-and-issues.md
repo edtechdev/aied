@@ -55,7 +55,7 @@ The easiest start is a free outsourced tool. AI Tutor Pro from Contact North nee
 
 Buying seats on a commercial tenant, whether [[generative-ai|ChatGPT]] Edu, Microsoft 365 Copilot or Google Gemini for Education, brings fast procurement, SSO and an admin console, and leaves model choice and retention with the vendor.
 
-A platform you host keeps the data closer. [Amplify GenAI](/[[ai-education|aied]]/resources/amplify-genai/) deploys into your own AWS account, and Vanderbilt's pilot reported about \$3 per user per month at 1,300 users, half of them under \$1 in tokens. That buys data control without GPUs.
+A platform you host keeps the data closer. [Amplify GenAI](/aied/resources/amplify-genai/) deploys into your own AWS account, and Vanderbilt's pilot reported about \$3 per user per month at 1,300 users, half of them under \$1 in tokens. That buys data control without GPUs.
 
 A gateway over mixed providers puts one front door in front of several. It carries quotas, SSO, logging and regional routing; Fontys ran one for 300 users under a \$500 monthly cap that was never breached, and [MindRouter](/aied/resources/mindrouter/) adds role-weighted scheduling and energy metering.
 

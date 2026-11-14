@@ -59,7 +59,7 @@ Titik awal termudah adalah alat dialihdayakan yang gratis. AI Tutor Pro dari Con
 
 Membeli kursi pada penyewa komersial, entah [[generative-ai|ChatGPT]] Edu, Microsoft 365 Copilot, atau Google Gemini for Education, membawa pengadaan cepat, SSO, dan konsol admin, sekaligus menyerahkan pilihan model dan retensi kepada vendor.
 
-Platform yang Anda kelola sendiri menjaga data tetap lebih dekat. [Amplify GenAI](/[[ai-education|aied]]/resources/amplify-genai/) diterapkan ke akun AWS Anda sendiri, dan uji coba Vanderbilt melaporkan sekitar \$3 per pengguna per bulan pada 1.300 pengguna, separuhnya di bawah \$1 untuk token. Itu membeli kendali data tanpa GPU.
+Platform yang Anda kelola sendiri menjaga data tetap lebih dekat. [Amplify GenAI](/aied/resources/amplify-genai/) diterapkan ke akun AWS Anda sendiri, dan uji coba Vanderbilt melaporkan sekitar \$3 per pengguna per bulan pada 1.300 pengguna, separuhnya di bawah \$1 untuk token. Itu membeli kendali data tanpa GPU.
 
 Gateway di atas penyedia campuran menempatkan satu pintu depan di hadapan beberapa penyedia. Ia membawa kuota, SSO, pencatatan log, dan perutean regional; Fontys menjalankan satu untuk 300 pengguna dengan batas bulanan \$500 yang tidak pernah terlampaui, dan [MindRouter](/aied/resources/mindrouter/) menambahkan penjadwalan berbobot peran serta pengukuran energi.
 

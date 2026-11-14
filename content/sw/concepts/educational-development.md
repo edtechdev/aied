@@ -76,7 +76,7 @@ Kwa maelezo haya, wataalam wanaouliza "lengo la kufundisha katika ulimwengu wa G
 
 ### Mwongozo wa vitendo kwa wabuni wa programu
 
-Kwa wasanidi programu za wataalam, viongozi wa kitaaluma, na [[stakeholders|wabuni wa mafunzo]] wanaopanga maendeleo ya kitaalamu ya [[educational-development|AI]], ushahidi wa hifadhi ya maarifa unapendekeza:
+Kwa wasanidi programu za wataalam, viongozi wa kitaaluma, na [[stakeholders|wabuni wa mafunzo]] wanaopanga maendeleo ya kitaalamu ya AI, ushahidi wa hifadhi ya maarifa unapendekeza:
 **Taja hali ya kushindwa, si ukubwa wa athari peke yake.** [[fajardo-ramos-teacher-education-ai-agenda-2026|Fajardo-Ramos, Chiappe na Martínez-Pérez (2026)]] wanaiita uvumbuzi wa kughushi: uwepo wa zana unaashiria maendeleo, muundo wa kufundisha na tathmini unabaki kama ulivyo, viwango vya kupitishwa na [[visualization|dashibodi]] huchukua nafasi ya kujifunza, na mzunguko wa kutolewa kwa teknolojia unaweka mwelekeo. Uchunguzi wao unaiomba programu ya maendeleo kuhalalisha kila zana dhidi ya tatizo lililotajwa la kujifunza kabla ya kuipitisha.
 
 **Shughulikia vichochezi vinne vya kupitishwa, si maarifa tu.** Kujiamini, mitazamo, msaada, na wasiwasi unatabiri kama wataalam wanatumia AI kweli — warsha ya maarifa tu inayopuuza hivi haiwezi kubadilisha mazoezi. Buni maendeleo kujenga kujiamini kupitia matumizi ya vitendo, toa msaada unaoendelea (si mafunzo ya mara moja), na leta wazi na kujibu wasiwasi wa wataalam kwa njia ya kazini.([[teacher-ai-adoption-confidence]])

@@ -59,7 +59,7 @@ Khởi đầu dễ nhất là một công cụ thuê ngoài miễn phí. AI Tuto
 
 Mua ghế trên một tenant thương mại, dù là [[generative-ai|ChatGPT]] Edu, Microsoft 365 Copilot hay Google Gemini for Education, mang lại mua sắm nhanh, SSO và bảng điều khiển quản trị, nhưng để lựa chọn mô hình và lưu giữ cho nhà cung cấp.
 
-Một nền tảng bạn tự lưu trữ giữ dữ liệu gần hơn. [Amplify GenAI](/[[ai-education|aied]]/resources/amplify-genai/) triển khai vào tài khoản AWS của chính bạn, và thí điểm của Vanderbilt báo cáo khoảng \$3 mỗi người dùng mỗi tháng với 1.300 người dùng, một nửa trong số đó dưới \$1 tiền token. Điều đó mua quyền kiểm soát dữ liệu mà không cần GPU.
+Một nền tảng bạn tự lưu trữ giữ dữ liệu gần hơn. [Amplify GenAI](/aied/resources/amplify-genai/) triển khai vào tài khoản AWS của chính bạn, và thí điểm của Vanderbilt báo cáo khoảng \$3 mỗi người dùng mỗi tháng với 1.300 người dùng, một nửa trong số đó dưới \$1 tiền token. Điều đó mua quyền kiểm soát dữ liệu mà không cần GPU.
 
 Một cổng nằm trên nhiều nhà cung cấp hỗn hợp tạo ra một cửa trước cho nhiều nơi. Nó mang hạn ngạch, SSO, ghi log và định tuyến theo khu vực; Fontys vận hành một cổng cho 300 người dùng với mức trần \$500 mỗi tháng chưa từng bị vượt, và [MindRouter](/aied/resources/mindrouter/) bổ sung lập lịch theo trọng số vai trò và đo năng lượng.
 

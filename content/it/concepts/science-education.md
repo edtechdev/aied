@@ -24,7 +24,7 @@ ai_assist:
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-> **[[science-education|Educazione scientifica]]** — lo studio e la pratica di come gli studenti apprendono la scienza e di come insegnarla, oggi rimodellata dall'IA generativa (LLM, simulazioni, laboratori virtuali e valutazione tramite IA) attraverso [[physics-education|fisica]], chimica e [[biology-education|biologia]]. Gli articoli sull'educazione scientifica in questa base di conoscenza rivelano un campo che sta negoziando una tensione centrale: l'IA supporta in modo dimostrabile l'indagine, la correzione delle misconcezioni e la valutazione su larga scala, eppure il suo valore dipende dalla progettazione didattica, e comporta rischi reali di [[cognitive-offloading|sovraccarico cognitivo]], allucinazione e apprendimento disumanizzato e orientato al profitto.
+> **Educazione scientifica** — lo studio e la pratica di come gli studenti apprendono la scienza e di come insegnarla, oggi rimodellata dall'IA generativa (LLM, simulazioni, laboratori virtuali e valutazione tramite IA) attraverso [[physics-education|fisica]], chimica e [[biology-education|biologia]]. Gli articoli sull'educazione scientifica in questa base di conoscenza rivelano un campo che sta negoziando una tensione centrale: l'IA supporta in modo dimostrabile l'indagine, la correzione delle misconcezioni e la valutazione su larga scala, eppure il suo valore dipende dalla progettazione didattica, e comporta rischi reali di [[cognitive-offloading|sovraccarico cognitivo]], allucinazione e apprendimento disumanizzato e orientato al profitto.
 
 ## Domande da considerare
 

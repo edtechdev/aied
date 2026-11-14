@@ -76,7 +76,7 @@ Podle tohoto pojetí pedagogové, kteří se ptají „jaký smysl má učit ve 
 
 ### Praktické doporučení pro tvůrce programů
 
-Pro rozvojové pracovníky, akademické vedení a [[stakeholders|instruční designéry]] plánující [[educational-development|profesní rozvoj]] v AI naznačují důkazy znalostní báze toto:
+Pro rozvojové pracovníky, akademické vedení a [[stakeholders|instruční designéry]] plánující profesní rozvoj v AI naznačují důkazy znalostní báze toto:
 
 **Řešte čtyři hybatele přijetí, ne jen znalosti.** Sebevědomí, postoje, podpora a obavy předpovídají, zda pedagogové AI skutečně přijmou - workshop zaměřený jen na znalosti, který je ignoruje, praxi pravděpodobně nezmění. Navrhujte rozvoj tak, aby budoval sebevědomí praktickým používáním, poskytoval průběžnou podporu (a ne jednorázové školení) a aktivně vynášel na povrch obavy pedagogů a reagoval na ně.([[teacher-ai-adoption-confidence]])
 

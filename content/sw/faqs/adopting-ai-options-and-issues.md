@@ -59,7 +59,7 @@ Mwanzo rahisi zaidi ni zana ya bure iliyokodishwa. AI Tutor Pro kutoka Contact N
 
 Kununua viti kwenye mpangaji wa kibiashara, iwe [[generative-ai|ChatGPT]] Edu, Microsoft 365 Copilot au Google Gemini for Education, huleta ununuzi wa haraka, SSO na konsoli ya msimamizi, na kuacha uchaguzi wa modeli na uhifadhi kwa muuzaji.
 
-Jukwaa unalohifadhi mwenyewe huweka data karibu zaidi. [Amplify GenAI](/[[ai-education|aied]]/resources/amplify-genai/) hupelekwa katika akaunti yako ya AWS, na jaribio la Vanderbilt liliripoti takriban \$3 kwa mtumiaji kwa mwezi kwa watumiaji 1,300, nusu yao chini ya \$1 kwa tokeni. Hiyo hununua udhibiti wa data bila GPU.
+Jukwaa unalohifadhi mwenyewe huweka data karibu zaidi. [Amplify GenAI](/aied/resources/amplify-genai/) hupelekwa katika akaunti yako ya AWS, na jaribio la Vanderbilt liliripoti takriban \$3 kwa mtumiaji kwa mwezi kwa watumiaji 1,300, nusu yao chini ya \$1 kwa tokeni. Hiyo hununua udhibiti wa data bila GPU.
 
 Gateway juu ya watoa huduma mchanganyiko huweka mlango mmoja mbele ya kadhaa. Hubeba kwota, SSO, uwekaji kumbukumbu na uelekezaji wa kikanda; Fontys iliendesha moja kwa watumiaji 300 chini ya kikomo cha mwezi cha \$500 ambacho hakikiukwa kamwe, na [MindRouter](/aied/resources/mindrouter/) huongeza upangaji wenye uzito wa jukumu na upimaji wa nishati.
 

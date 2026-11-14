@@ -77,7 +77,7 @@ O perspectivă informată de teoria conceptelor-prag reformulează integrarea Ge
 
 ### Îndrumări practice pentru designerii de programe
 
-Pentru dezvoltatorii corpului didactic, liderii academici și [[stakeholders|designerii instrucționali]] care planifică [[educational-development|dezvoltarea profesională]] în IA, dovezile din baza de cunoștințe sugerează:
+Pentru dezvoltatorii corpului didactic, liderii academici și [[stakeholders|designerii instrucționali]] care planifică dezvoltarea profesională în IA, dovezile din baza de cunoștințe sugerează:
 
 **Adresați cele patru motoare ale adoptării, nu doar cunoașterea.** Încrederea, atitudinile, sprijinul și îngrijorările prezic dacă profesorii adoptă efectiv IA; un atelier doar despre cunoștințe care le ignoră este puțin probabil să schimbe practica. Proiectați dezvoltarea astfel încât să construiască încredere prin folosire practică, să ofere sprijin continuu (nu formare de o singură dată) și să scoată activ la suprafață și să răspundă îngrijorărilor profesorilor.([[teacher-ai-adoption-confidence]])
 

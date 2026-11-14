@@ -76,7 +76,7 @@ Etter dette resonnementet er ikke fakultetsansatte som spør «hva er poenget me
 
 ### Praktisk veiledning for programdesignere
 
-For fakultetsutviklere, akademiske ledere og [[stakeholders|instruksjonsdesignere]] som planlegger AI-[[educational-development|profesjonell utvikling]], tyder belegget i kunnskapsbasen på følgende:
+For fakultetsutviklere, akademiske ledere og [[stakeholders|instruksjonsdesignere]] som planlegger AI-profesjonell utvikling, tyder belegget i kunnskapsbasen på følgende:
 
 **Adresser de fire adopsjonsdriverne, ikke bare kunnskap.** Selvtillit, holdninger, støtte og bekymringer forutsier om fakultetet faktisk tar i bruk AI - en kunnskapsbasert workshop som ignorerer disse, vil neppe endre praksis. Design utviklingen slik at den bygger selvtillit gjennom praktisk bruk, gir løpende støtte (ikke engangsopplæring) og aktivt bringer fakultetets bekymringer fram i dagen og responderer på dem.([[teacher-ai-adoption-confidence]])
 

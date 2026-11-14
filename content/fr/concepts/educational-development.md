@@ -81,7 +81,7 @@ Dans cette perspective, les enseignants qui demandent « à quoi bon enseigner �
 
 ### Des orientations pratiques pour les concepteurs de programmes
 
-Pour les responsables du développement des enseignants, les dirigeants académiques et les [[stakeholders|concepteurs pédagogiques]] qui planifient un [[educational-development|développement professionnel]] des enseignants sur l'IA, les preuves suggèrent ceci :
+Pour les responsables du développement des enseignants, les dirigeants académiques et les [[stakeholders|concepteurs pédagogiques]] qui planifient un développement professionnel des enseignants sur l'IA, les preuves suggèrent ceci :
 
 **Traiter les quatre moteurs de l'adoption, et pas seulement la connaissance.** La confiance, les attitudes, le soutien et les préoccupations prédisent si les enseignants adoptent effectivement l'IA — un atelier purement cognitif qui les ignore a peu de chances de changer la pratique. Concevoir le développement de manière à construire la confiance par l'usage pratique, fournir un soutien continu (et non une formation ponctuelle), et mettre activement au jour les préoccupations des enseignants pour y répondre. ([[teacher-ai-adoption-confidence]])
 

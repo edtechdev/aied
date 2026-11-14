@@ -80,7 +80,7 @@ Nessa concepção, os docentes que perguntam "qual é o sentido de ensinar em um
 
 ### Orientação prática para desenhistas de programas
 
-Para desenvolvedores docentes, líderes acadêmicos e [[stakeholders|desenhistas instrucionais]] que planejam [[educational-development|desenvolvimento profissional]] em IA, a evidência da base de conhecimento sugere:
+Para desenvolvedores docentes, líderes acadêmicos e [[stakeholders|desenhistas instrucionais]] que planejam desenvolvimento profissional em IA, a evidência da base de conhecimento sugere:
 
 **Aborde os quatro vetores da adoção, e não apenas o conhecimento.** Confiança, atitudes, apoio e preocupações predizem se os docentes de fato adotam a IA — uma oficina focada apenas em conhecimento que ignora esses fatores provavelmente não mudará a prática. Desenhe o desenvolvimento para construir confiança por meio do uso prático, forneça apoio contínuo (não formação pontual) e exponha e responda ativamente às preocupações dos docentes. ([[teacher-ai-adoption-confidence]])
 
