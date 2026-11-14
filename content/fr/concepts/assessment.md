@@ -2,7 +2,7 @@
 connected_resources: [idstack, lesson-md, master-instructional-design]
 title: "Évaluation"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -13,7 +13,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/assessment
-source_updated: "2026-11-11T11:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -29,14 +29,14 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **L'évaluation** — le processus de collecte et d'interprétation de preuves portant sur ce que les apprenants savent et peuvent faire, et les méthodes employées pour évaluer l'apprentissage. L'[[ai-education|IA en éducation]] a fondamentalement refaçonné l'évaluation : elle alimente la [[automated-assessment|notation et le scoring automatisés]], génère et adapte les items d'évaluation, et soulève de profondes questions sur ce que les évaluations mesurent réellement lorsque les étudiants peuvent utiliser l'IA. L'évaluation est le concept parapluie qui organise la couverture, par la base de connaissances, de l'[[formative-assessment|évaluation formative]], de la [[automated-assessment|notation automatisée]], de l'[[assessment-validity|validité]] et de l'[[educational-measurement|mesure en éducation]].
+> **L'évaluation** — le processus de collecte et d'interprétation de preuves portant sur ce que les apprenants savent et peuvent faire, et les méthodes employées pour évaluer l'apprentissage. L'[[ai-education|IA en éducation]] a fondamentalement refaçonné l'évaluation : elle alimente la [[automated-assessment|notation et le scoring automatisés]], génère et adapte les items d'évaluation, et soulève de profondes questions sur ce que les évaluations mesurent réellement lorsque les étudiants peuvent utiliser l'IA. L'évaluation est le concept parapluie qui relie l'[[formative-assessment|évaluation formative]], la [[automated-assessment|notation automatisée]], l'[[assessment-validity|validité]] et l'[[educational-measurement|mesure en éducation]].
 
 ## Questions à examiner
 
 - L'évaluation est définie ici comme la collecte et l'interprétation de preuves portant sur ce que les apprenants savent et peuvent faire. Avant de lire, comment finiriez-vous la phrase « une évaluation est valide si… » — et qu'est-ce qui changerait dans cette réponse si chaque étudiant pouvait secrètement utiliser l'IA pour produire son travail ?
-- La page affirme que la manière dont un étudiant utilise GenAI (intégration évaluative contre recours au raccourci sans esprit critique) prédisait la performance, tandis que la fréquence de son usage ne prédisait rien. Qu'est-ce que cela suggère quant à l'instinct courant de réguler l'IA en limitant son usage ?
+- La manière dont un étudiant utilise GenAI (intégration évaluative contre recours au raccourci sans esprit critique) prédisait la performance, tandis que la fréquence de son usage ne prédisait rien. Qu'est-ce que cela suggère quant à l'instinct courant de réguler l'IA en limitant son usage ?
 - Un apprenant peut livrer un travail de qualité professionnelle qu'il ne peut reproduire sans l'outil — rompant l'inférence entre performance et capacité sous-jacente. Avez-vous déjà vu une « compétence » être attribuée pour un travail que l'étudiant n'aurait pas pu réellement accomplir sans aide ? Qu'est-ce que cela a révélé ?
-- La question constructive que propose la page n'est pas « comment empêcher les étudiants d'utiliser l'IA ? », mais « comment leur permettre un usage réfléchi dans des contextes qui reflètent leur futur travail ? » À quoi ressemblerait l'évaluation dans votre domaine si tel était l'objectif ?
+- La question constructive n'est pas « comment empêcher les étudiants d'utiliser l'IA ? », mais « comment leur permettre un usage réfléchi dans des contextes qui reflètent leur futur travail ? » À quoi ressemblerait l'évaluation dans votre domaine si tel était l'objectif ?
 - Le cadre DRIVE suggère d'évaluer la qualité de l'[[student-engagement|engagement]] d'un étudiant avec GenAI — et pas seulement l'artefact — en examinant s'il pilote stratégiquement les invites et intègre ses propres idées. Que regarderiez-vous pour distinguer une [[student-ai-interaction|interaction avec l'IA]] profonde et réflexive d'une consommation de surface ?
 - L'évaluation médiée par l'IA se diversifie en [[oral-assessment|examens oraux]], portfolios et formats conversationnels, qui réduisent l'anxiété et semblent professionnellement pertinents. Quel format d'évaluation issu de votre propre expérience jugez-vous le plus « résistant à l'IA » — et la résistance est-elle la même chose que la valeur éducative ?
 
@@ -76,7 +76,7 @@ Une revue PRISMA de 25 études ajoute un facteur de risque que le débat sur la 
 
 ## La refonte de l'évaluation à l'ère de l'IA
 
-La question constructive dans la littérature de la base de connaissances sur l'évaluation n'est pas « comment empêcher les étudiants d'utiliser l'IA ? », mais « comment leur permettre de l'utiliser de manière réfléchie dans des contextes qui reflètent leur futur travail ? » Cela recadre l'évaluation autour :
+La question constructive dans la littérature sur l'évaluation n'est pas « comment empêcher les étudiants d'utiliser l'IA ? », mais « comment leur permettre de l'utiliser de manière réfléchie dans des contextes qui reflètent leur futur travail ? » Cela recadre l'évaluation autour :
 
 - **De tâches authentiques et fondées sur le processus**, qui rendent l'usage de l'IA visible et évalué. L'[[authentic-assessment|évaluation authentique]] — examiner la performance des étudiants sur des tâches dignes d'intérêt et réalistes — est la réponse phare au défi de l'IA : toute tâche qu'un [[llm|LLM]] peut crédiblement simuler perd sa validité, si bien que l'authenticité doit être repensée autour d'une [[collaborative-learning|collaboration]] en temps réel, d'une contribution numérique et sociale, et d'une production de sens individuelle. Cela se relie aux [[zhan-boud-du-authentic-assessment-scoping-review-2025|cadres de conception de l'évaluation authentique]], aux [[authentic-products-authenticated-processes-2026|produits authentiques et processus authentifiés]], et à l'[[tool-invariant-framework-agentic-ai|évaluation du processus indépendante de l'outil]].
 - **D'une conception d'évaluation responsable**, fondée sur des preuves de validité ([[responsible-assessment-ai-era-stanford-2026]])

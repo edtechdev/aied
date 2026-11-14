@@ -2,14 +2,14 @@
 connected_resources: [vibes-diy]
 title: "Le constructivisme"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -57,7 +57,7 @@ Le **constructionnisme** est la branche du constructivisme associée à Seymour 
 - **Logo et les micro-mondes.** Papert a co-développé Logo (1967) avec son emblématique « tortue » — un micro-monde de programmation où les enfants explorent la géométrie et d'autres idées puissantes en commandant et en débogant un agent visible. Le débogage est réinterprété comme une part naturelle et précieuse de l'apprentissage, non comme un échec.([[mishra-control-vs-agency-history-2025]])
 - **La construction plutôt que l'instruction.** Le constructionnisme critique l'« instructionnisme » — l'hypothèse selon laquelle [[teacher-role|enseigner]] est le transfert efficace de la connaissance — et positionne au contraire les apprenants comme des [[agentic-ai|agents autonomes]] qui construisent leur compréhension par des projets et de l'expérimentation (Papert, 1980, *Mindstorms*).
 - **Une filiation vers l'[[edtech-platform|EdTech]] moderne.** L'accent mis par Logo sur la création concrète et manuelle sous-tend l'[[game-based-learning]], l'[[project-based-learning]], la [[educational-robotics|robotique]] éducative (LEGO Mindstorms, [[cs-education|Scratch]], les briques programmables) et, plus largement, le mouvement maker.
-- **L'héritage constructionniste dans l'IA.** Le constructionnisme implique que les outils d'IA doivent servir de **matériaux avec lesquels construire** — des outils de pensée et des co-constructeurs créatifs que l'apprenant dirige — plutôt que d'instructeurs fournisseurs de réponses. C'est l'ancêtre direct du cadrage [[genai-mindtool-generative-learning|mindtool]] que la base de connaissances donne de l'IA générative, ainsi que des engagements de conception qui préservent l'[[agency|agentivité de l'apprenant]] sur le processus d'apprentissage.([[educational-robotics-pathways-2026]])
+- **L'héritage constructionniste dans l'IA.** Le constructionnisme implique que les outils d'IA doivent servir de **matériaux avec lesquels construire** — des outils de pensée et des co-constructeurs créatifs que l'apprenant dirige — plutôt que d'instructeurs fournisseurs de réponses. C'est l'ancêtre direct du cadrage [[genai-mindtool-generative-learning|mindtool]] de l'IA générative, ainsi que des engagements de conception qui préservent l'[[agency|agentivité de l'apprenant]] sur le processus d'apprentissage.([[educational-robotics-pathways-2026]])
 
 - **Le constructionnisme à l'ère de l'IA générative : apprendre en écrivant le modèle, pas le code.** L'arrivée d'une IA générant du code a *renouvelé* le constructionnisme comme réponse de conception plutôt qu'elle ne l'a affaibli. Le cadre **Code-to-Learn with Generative AI (CtL-GenAI)** de Gousopoulos synthétise le constructionnisme, la théorie de la charge cognitive, l'[[self-regulated-learning]], le modèle d'engagement [[icap-framework|ICAP]], l'[[productive-failure|échec productif]] et l'étayage [[sociocultural-learning|socioculturel]] pour des lycéens construisant des logiciels avec l'IA. Sa thèse organisatrice — **« l'IA écrit le code, mais l'étudiant écrit le modèle »** — recadre la cible de la construction : lorsque l'IA générative accomplit le travail syntaxe d'écriture du code, la construction de l'apprenant se déplace vers l'élaboration et le débogage du *modèle conceptuel* que le code exprime. CtL-GenAI définit l'auctorialité du modèle comme un construit à quatre facettes et à niveaux ordonnés porteurs d'indicateurs observables, et formalise un modèle de mesure falsifiable à crédit partiel pour tester si un tel apprentissage se produit réellement.([[code-to-learn-genai-artifact-construction-2026]])([[ai-writes-code-student-writes-model-2026]]) C'est le « fabrique quelque chose de partageable et débogue-le » classique du constructionnisme, mis à jour pour que l'artéfact que l'étudiant fabrique et sur lequel il réfléchit soit un modèle mental rendu visible, et non plus seulement du code source — et cela associe la théorie à un programme de mesure explicite, de sorte que la thèse devient empiriquement testable.
 

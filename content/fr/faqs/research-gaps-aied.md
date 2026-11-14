@@ -1,7 +1,7 @@
 ---
 title: "Quelles lacunes notables existe-t-il dans la littérature de recherche sur l'IA en éducation ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-08T05:07:29-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 weight: 45
 type: faq
 foundations: [limitations-in-aied-research]
@@ -13,7 +13,7 @@ level: [higher ed]
 audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/research-gaps-aied
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -36,7 +36,7 @@ ai_assist:
 
 Une échéance de subvention tombe dans huit jours et la section contextuelle a besoin d'une phrase sur ce que ce domaine ne sait pas encore. Ou un collègue a affirmé devant une commission que le tutorat par IA fait progresser les résultats, en citant une expérience de deux ans menée dans 18 collèges, et c'est vous qui devez dire ce que cette étude peut réellement porter. Ou vous choisissez un sujet de thèse et toutes ses versions semblent déjà avoir été traitées.
 
-Les lacunes qui comptent portent sur la force, la spécificité et l'applicabilité. L'IA peut accomplir des tâches éducatives ; les questions ouvertes sont de savoir si une conception particulière produit un bénéfice durable, pour qui, par quel mécanisme et sous quelles conditions. Cette distinction décide de deux choses sur votre bureau : ce qu'il faut étudier ensuite, et ce qu'il faut cesser d'affirmer en attendant. [[limitations-in-aied-research|Limitations de la recherche en IAED]] est le catalogue qui sous-tend cette page. Les preuves concernant les [[intelligent-tutoring|systèmes de tutorat intelligent]], les [[learning-analytics|analytiques]] prédictifs, l'[[generative-ai|IA générative]] et les agents autonomes ne sont pas interchangeables non plus, et la recherche sur l'usage de l'IA pour soutenir l'apprentissage diffère de la recherche sur l'enseignement de l'IA aux personnes, comme l'explique la vue d'ensemble [[ai-education|IA en éducation]].
+Les lacunes qui comptent portent sur la force, la spécificité et l'applicabilité. L'IA peut accomplir des tâches éducatives ; les questions ouvertes sont de savoir si une conception particulière produit un bénéfice durable, pour qui, par quel mécanisme et sous quelles conditions. Cette distinction décide de deux choses sur votre bureau : ce qu'il faut étudier ensuite, et ce qu'il faut cesser d'affirmer en attendant. Le catalogue se trouve dans [[limitations-in-aied-research|Limitations de la recherche en IAED]]. Les preuves concernant les [[intelligent-tutoring|systèmes de tutorat intelligent]], les [[learning-analytics|analytiques]] prédictifs, l'[[generative-ai|IA générative]] et les agents autonomes ne sont pas interchangeables non plus, et la recherche sur l'usage de l'IA pour soutenir l'apprentissage diffère de la recherche sur l'enseignement de l'IA aux personnes, comme l'explique la vue d'ensemble [[ai-education|IA en éducation]].
 
 ## La version courte
 
@@ -92,7 +92,7 @@ Ce qui manque, c'est la validation de toute la chaîne d'évaluation, du comport
 
 L'IA crée deux problèmes d'évaluation liés : elle aide à produire le travail évalué, et elle peut influencer la manière dont ce travail est noté.
 
-L'[[ai-agents-complete-lms-assessment-validity-2026|étude de la base de connaissances sur des agents d'IA accomplissant des tâches évaluées dans un LMS]] documente des agents naviguant dans un cours de licence en direct et terminant des activités évaluées. Cela démontre une capacité qui remet en cause les hypothèses sur les preuves produites par les étudiants. Cela n'établit pas la fréquence de tels usages, et cela n'invalide pas l'évaluation asynchrone comme catégorie.
+Une [[ai-agents-complete-lms-assessment-validity-2026|étude sur des agents d'IA accomplissant des tâches évaluées dans un LMS]] documente des agents naviguant dans un cours de licence en direct et terminant des activités évaluées. Cela démontre une capacité qui remet en cause les hypothèses sur les preuves produites par les étudiants. Cela n'établit pas la fréquence de tels usages, et cela n'invalide pas l'évaluation asynchrone comme catégorie.
 
 La question de recherche est de savoir quelles conceptions soutiennent encore des conclusions défendables sur l'apprenant. Les [[eportfolio|portfolios]], les réflexions, les remises par étapes et les journaux d'activité doivent être validés comme preuves plutôt que présumés établir la paternité ou la compréhension. Les études devraient tester des combinaisons de preuves contre une compétence observée indépendamment, en tenant compte de l'accessibilité, de la charge de travail, de la vie privée et de l'[[anxiety-and-stress|anxiété des étudiants]]. [[assessment-validity|Validité de l'évaluation]] contient le détail.
 
@@ -116,7 +116,7 @@ Les résultats issus d'un cours, d'un établissement, d'une langue ou d'une [[le
 
 La recherche sur l'équité doit aussi séparer accès, compétences et résultats. La synthèse [[digital-divide|Fracture numérique]] est claire : les appareils et l'accès aux outils n'établissent pas une capacité égale d'en bénéficier. [[school-ai-education-readiness-gaps-agency-2026|Does School-Based AI Education Narrow Readiness Gaps?]] a suivi 752 élèves du secondaire inférieur à Hong Kong : les écarts de préparation psychologique se sont réduits tandis que les différences à un test objectif de littératie en IA persistaient. Tous les groupes se sont améliorés, et les inégalités ne se sont pas refermées. Les profils d'apprentissage antérieur n'étaient pas assignés au hasard, si bien que leur rôle causal reste inconnu.
 
-La couverture est mince à des endroits précis. [[differential-effects-across-learner-groups|Effets différenciés entre groupes d'apprenants]] compte la littérature par population : les [[multilingual-learning|apprenants de langue seconde et multilingues]] et les [[inclusive-learning|étudiants en situation de handicap]] constituent les filons les plus profonds, le genre et la [[neurodiversity|neurodiversité]] viennent ensuite, les étudiants de première génération ont deux études dans ce corpus — une sur la différence d'usage et une sur l'estimation de l'effet — et les étudiants internationaux une, les étudiants doués et à haut rendement sont pratiquement non étudiés, et les apprenants réfugiés, immigrés et déplacés n'apparaissent dans aucune. Une base de preuves de cette forme ne peut pas répondre à une question d'équité par agrégation.
+La couverture est mince à des endroits précis. [[differential-effects-across-learner-groups|Effets différenciés entre groupes d'apprenants]] compte la littérature par population : les [[multilingual-learning|apprenants de langue seconde et multilingues]] et les [[inclusive-learning|étudiants en situation de handicap]] constituent les filons les plus profonds, le genre et la [[neurodiversity|neurodiversité]] viennent ensuite, les étudiants de première génération ont deux études — une sur la différence d'usage et une sur l'estimation de l'effet — et les étudiants internationaux une, les étudiants doués et à haut rendement sont pratiquement non étudiés, et les apprenants réfugiés, immigrés et déplacés n'apparaissent dans aucune. Une base de preuves de cette forme ne peut pas répondre à une question d'équité par agrégation.
 
 La capacité varie aussi à l'intérieur d'un même système national. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] ont noté l'intégration de l'IA dans 45 universités nigérianes et trouvé une adoption globale modérée (M = 4.79, étendue 1.83-7.83 sur une échelle de 10 points), le type d'établissement ne prédisant pas l'intégration une fois l'âge et la géographie contrôlés (âge β = 0.43 ; localisation au Sud-Ouest β = 0.31). Les capacités internes étaient corrélées entre elles à r = 0.79-0.80 et les collaborations internationales avec les partenariats industriels à r = 0.74, si bien que les établissements connectés accumulent des avantages cumulatifs. Quelles conceptions de renforcement des capacités changent les résultats dans des établissements plus récents et moins connectés n'a pas été testé.
 
@@ -126,7 +126,7 @@ La priorité de recherche est d'identifier des conceptions qui réduisent les di
 
 À mesure que les systèmes planifient, engagent des actions, conservent de la mémoire et coordonnent des outils, la question éducative devient celle de savoir qui devrait contrôler quelles parties du processus d'apprentissage, et quand ce contrôle devrait se déplacer.
 
-[[agentic-ai-education-scoping-review|Agentic AI in Education: A Scoping Review]] cartographie 474 études et trouve une validation longitudinale limitée, une concentration en [[higher-ed|enseignement supérieur]] et en STEM, et une faible intégration de la théorie éducative : seules 29% des études examinées s'appuyaient explicitement sur une théorie éducative, un résultat qui concerne ce corpus et non l'ensemble des travaux en IAED.
+[[agentic-ai-education-scoping-review|Agentic AI in Education: A Scoping Review]] cartographie 474 études et trouve une validation longitudinale limitée, une concentration en [[higher-ed|enseignement supérieur]] et en STEM, et une faible intégration de la théorie éducative : seules 29% des études examinées s'appuyaient explicitement sur une théorie éducative, un résultat qui concerne ces 474 études et non l'ensemble des travaux en IAED.
 
 Des questions ouvertes s'ensuivent. L'aide initiée par l'apprenant produit-elle des résultats différents de l'aide initiée par l'agent ? L'accompagnement peut-il être retiré à mesure que la compétence se développe sans perte ? Les apprenants conservent-ils la capacité de contester le système ? Les synthèses [[agentic-ai|IA agentique]] et [[human-ai-collaboration|Collaboration humain-IA]] ajoutent l'intervention et la responsabilité des [[teacher-role|enseignants]] dans les dispositifs multi-agents, où personne n'a établi qui répond de la décision d'un agent. Une plus grande autonomie est un choix de conception pédagogique dont la base de preuves reste à construire.
 
@@ -206,4 +206,4 @@ Les enseignants qui veulent la version au niveau de la classe peuvent suivre [[e
 
 ## Où aller ensuite
 
-[[reporting-interpreting-aied-research]] est le pendant de cette page sur le reporting, et [[research-methods-aied|Méthodes de recherche en IA en éducation]] couvre les choix de conception derrière chaque lacune. [[evaluating-ai-interventions-methods]] traite des mesures et des conceptions de comparaison, [[checking-whether-educational-ai-works]] est la version courte de la question de l'efficacité, et [[does-ai-help-students-learn]] rassemble ce que l'on sait de l'apprentissage durable. [[theory-development-aied]] et [[equity-ethics-pedagogical-safety-research]] poussent plus loin les fils théoriques et celui de l'équité.
+[[reporting-interpreting-aied-research]] est le pendant sur le reporting, et [[research-methods-aied|Méthodes de recherche en IA en éducation]] couvre les choix de conception derrière chaque lacune. [[evaluating-ai-interventions-methods]] traite des mesures et des conceptions de comparaison, [[checking-whether-educational-ai-works]] est la version courte de la question de l'efficacité, et [[does-ai-help-students-learn]] rassemble ce que l'on sait de l'apprentissage durable. [[theory-development-aied]] et [[equity-ethics-pedagogical-safety-research]] poussent plus loin les fils théoriques et celui de l'équité.

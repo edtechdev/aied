@@ -1,7 +1,7 @@
 ---
 title: "Capitulation cognitive"
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -13,7 +13,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-11-12T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ ai_assist:
 
 ## Introduction
 
-La capitulation est la disposition derrière la défaillance la plus courante dans l'étude assistée par IA : ne pas trop utiliser l'outil, mais croire sur parole ce qu'il dit. La page sur le [[cognitive-offloading|délestage cognitif]] détient le construit plus ancien et ses données probantes, et celle sur l'[[ai-misuse-learning-harm|usage abusif de l'IA]] détient l'inventaire des préjudices. Cette page existe parce qu'un groupe distinct de travaux nomme et mesure désormais quelque chose que ces deux-là ne saisissent pas tout à fait.
+La capitulation est la disposition derrière la défaillance la plus courante dans l'étude assistée par IA : ne pas trop utiliser l'outil, mais croire sur parole ce qu'il dit. La page sur le [[cognitive-offloading|délestage cognitif]] détient le construit plus ancien et ses données probantes, et celle sur l'[[ai-misuse-learning-harm|usage abusif de l'IA]] détient l'inventaire des préjudices. Un groupe distinct de travaux nomme et mesure désormais quelque chose que ces deux-là ne saisissent pas tout à fait.
 
 Trois choses distinguent la capitulation. Elle porte sur le *jugement*, et non sur l'effort : un étudiant peut consacrer un temps considérable à l'[[prompt-engineering|ingénierie des invites]], à la reformatation et à l'affinage des productions sans jamais une seule fois recourir à son propre critère pour décider si la production est bonne. Elle est souvent *invisible pour l'apprenant* : la signalisation qui accompagne habituellement l'effort — l'hésitation, l'incertitude, le sentiment de ne pas encore savoir — est court-circuitée par le texte fluide. Et elle *n'est pas corrigée de façon fiable par la seule pratique ou les seules incitations*, ce qui est l'endroit où les données probantes se font pointues.
 

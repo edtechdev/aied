@@ -1,7 +1,7 @@
 ---
 title: "L'évaluation sommative"
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T16:20:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -31,9 +31,9 @@ ai_assist:
 ## Questions à examiner
 
 - L'évaluation sommative certifie ce qu'un élève a appris à la fin d'un cours, tandis que l'évaluation formative soutient l'apprentissage pendant celui-ci. Où avez-vous vu la frontière entre les deux se brouiller, et pourquoi importe-t-il qu'elles remplissent des fonctions différentes ?
-- La page présente l'IA générative comme remodelant l'évaluation sommative dans deux directions à la fois : l'IA note les examens, et les élèves utilisent l'IA pour échapper à la mesure fondée sur l'examen. Laquelle de ces deux pressions pensez-vous constituer la plus grande menace pour la validité, et pourquoi ?
+- L'IA générative remodèle l'évaluation sommative dans deux directions à la fois : l'IA note les examens, et les élèves utilisent l'IA pour échapper à la mesure fondée sur l'examen. Laquelle de ces deux pressions pensez-vous constituer la plus grande menace pour la validité, et pourquoi ?
 - Si les tâches non surveillées ou à faire à la maison perdent leur validité parce que l'IA peut produire les réponses, qu'est-ce que cela implique pour la manière dont les évaluations devraient être conçues — et qu'est-ce qui pourrait être sacrifié dans le processus ?
-- La [[research-methods-aied|recherche]] citée dans la page montre que les LLM ne notent pas les essais de la même manière que les humains. Si la notation automatisée est rapide et cohérente mais note différemment, est-ce un problème d'[[bias-mitigation|équité]], une opportunité, ou les deux ?
+- La [[research-methods-aied|recherche]] montre que les correcteurs automatisés ne sont pas d'accord avec les correcteurs humains. Si la notation automatisée est rapide et cohérente mais note différemment, est-ce un problème d'[[bias-mitigation|équité]], une opportunité, ou les deux ?
 - Que signifie un résultat à enjeux élevés (une note, une attestation, une admission) si le travail qui le sous-tend aurait pu être produit par l'IA ? Comment concevriez-vous une évaluation à laquelle vous pourriez réellement faire confiance ?
 
 ## Introduction
@@ -42,7 +42,7 @@ L'évaluation sommative remplit une fonction fondamentalement différente de l'�
 
 ## Les enjeux de l'ère de l'IA : validité et intégrité
 
-Les recherches de la base de connaissances documentent la manière dont l'IA générative a fondamentalement remodelé le paysage de l'évaluation sommative dans deux directions : l'IA est utilisée pour **noter** les examens à grande échelle, et l'IA peut être utilisée par les élèves pour **échapper** à la mesure examinée de leur propre apprentissage.
+Les recherches documentent la manière dont l'IA générative a fondamentalement remodelé le paysage de l'évaluation sommative dans deux directions : l'IA est utilisée pour **noter** les examens à grande échelle, et l'IA peut être utilisée par les élèves pour **échapper** à la mesure examinée de leur propre apprentissage.
 
 - **L'IA comme correcteur.** L'évaluation sommative repose de plus en plus sur la [[automated-assessment|notation automatisée]] des examens, des essais et des réponses courtes. [[llms-do-not-grade-essays-like-humans-2026|La recherche sur la notation des essais par les LLM]] montre que les [[llm|LLM]] ne notent pas les essais de la même manière que les humains, ce qui soulève des questions de validité et d'équité pour la notation automatisée à enjeux élevés. [[llm-automated-assessment-student-self-explanations|L'évaluation par les LLM des auto-explications des élèves]] et [[cong-confidence-asag-2026|la correction automatique des réponses courtes]] explorent la fiabilité de la notation par les LLM dans des contextes sommatifs, tandis que les [[psyscore-essay-scoring-zpd-feedback|cadres psychométriquement conscients]] cherchent à maintenir la notation automatisée digne de confiance et adaptative. Un examen manuscrit de [[chemistry-education|chimie]] générale portant sur 296 élèves illustre pourquoi une supervision sélective est nécessaire : la concordance d'un [[multimodal|LLM multimodal]] avec la notation des assistants d'enseignement sur le score total était élevée (R² = 0.91), or la fiabilité au niveau des items variait fortement selon le format, et les faux positifs (l'IA créditant des réponses réellement fausses) tendent à passer inaperçus parce que les élèves les contestent rarement — si bien qu'un correcteur IA uniforme du type « tout noter » n'est pas défendable pour un usage à enjeux élevés sans renvoi fondé sur le niveau de confiance à des humains ([[cvengros-grading-handwritten-chemistry-ai-2026]]).
 - **La concordance des résultats peut survivre à une notation imprécise au niveau des items.** Comparée à des notes officielles modérées, un LLM multimodal notant 10,364 pages manuscrites de l'Olympiade de physique et de l'université corrélait à r = 0.93–0.96 et retrouvait la même équipe internationale de cinq élèves, bien que la concordance exacte au niveau des sous-questions n'atteigne que 70% — un correcteur se juge aux décisions qu'il éclaire ([[ai-grading-handwritten-physics-2026|Pathak et al. (2026)]]).
@@ -53,10 +53,12 @@ Les recherches de la base de connaissances documentent la manière dont l'IA gé
 
 ## Les formats d'évaluation sommative résistants à l'IA
 
-Un thème clé de la base de connaissances est que **le format de l'évaluation sommative détermine sa résistance à l'IA** — plus une tâche exige une performance en direct, en présentiel et sondée individuellement, plus il est difficile pour les élèves d'y substituer l'IA à leur propre apprentissage.
+Un thème clé de la recherche est que **le format de l'évaluation sommative détermine sa résistance à l'IA** — plus une tâche exige une performance en direct, en présentiel et sondée individuellement, plus il est difficile pour les élèves d'y substituer l'IA à leur propre apprentissage.
+
+Les formats résistants à l'IA défendent la note plutôt que de la repenser : les examens surveillés et les oraux stabilisent les valeurs et les pratiques existantes, si bien que la réforme s'arrête au relevé de notes plutôt qu'à ce que représente une note ([[nieminen-grading-assessment-reform-2026|Nieminen et coll. (2026)]]).
 
 - **Les [[oral-assessment|examens oraux]] et les évaluations orales.** [[fenton-oral-exams-ai-authentic-assessment-2025|Fenton (2025)]] soutient que l'examen oral est un format d'évaluation sommative à la fois de basse technicité et intrinsèquement résistant à l'IA : son dialogue interactif en temps réel teste la compréhension, la [[critical-thinking|pensée critique]] et le raisonnement plutôt que la mémorisation, empêche les élèves d'utiliser l'IA pour générer et mémoriser des réponses, et reflète la pratique professionnelle. Les [[socratic-tests-conversational-assessment|tests socratiques]] et les [[code-review-genai-cs1|entretiens de revue de code]] prolongent cette logique dans une évaluation sommative dynamique, conversationnelle et fondée sur l'entretien.
-- **Les mesures à livre fermé, surveillées et sans assistance.** Des [[generative-ai-reduced-study-time-math|données probantes]] et des [[stromberg-generative-ai-learning-penalty-secondary-2026|données de terrain à grande échelle]] montrent que les examens surveillés à livre fermé — et non les devoirs ou les travaux à la maison gonflés par l'IA — constituent le signal fiable de l'apprentissage réel lorsque les élèves utilisent l'IA. Les cadres d'[[responsible-assessment-ai-era-stanford-2026|évaluation responsable]] intègrent ces mesures sans assistance dans une refonte guidée par la validité. Lorsque les examens restent en ligne, la [[remote-proctoring|surveillance à distance]] reprend ce rôle, et les deux revues que le corpus consacre à la surveillance automatisée relèvent des préoccupations de vie privée et d'[[bias-mitigation|équité]] à côté des gains en matière de détection ([[automated-online-exam-proctoring-decade-review-2026]], [[academic-dishonesty-automated-proctoring-ai-2026]]).
+- **Les mesures à livre fermé, surveillées et sans assistance.** Des [[generative-ai-reduced-study-time-math|données probantes]] et des [[stromberg-generative-ai-learning-penalty-secondary-2026|données de terrain à grande échelle]] montrent que les examens surveillés à livre fermé — et non les devoirs ou les travaux à la maison gonflés par l'IA — constituent le signal fiable de l'apprentissage réel lorsque les élèves utilisent l'IA. Les cadres d'[[responsible-assessment-ai-era-stanford-2026|évaluation responsable]] intègrent ces mesures sans assistance dans une refonte guidée par la validité. Lorsque les examens restent en ligne, la [[remote-proctoring|surveillance à distance]] reprend ce rôle, et deux revues de la surveillance automatisée relèvent des préoccupations de vie privée et d'[[bias-mitigation|équité]] à côté des gains en matière de détection ([[automated-online-exam-proctoring-decade-review-2026]], [[academic-dishonesty-automated-proctoring-ai-2026]]).
 - **Associer une tâche vulnérable à un jumeau confirmatoire.** [[roe-assessment-twins-2026|Roe, Perkins & Giray (2026)]] conservent une tâche vulnérable à l'IA générative pour sa valeur d'apprentissage, mais l'associent à une seconde tâche évaluant les mêmes résultats, rendant la note interdépendante au moyen d'un seuil de confirmation ou d'une pondration, de sorte que le jumeau certifie le résultat.
 
 ## L'évaluation sommative standardisée à enjeux élevés
@@ -65,7 +67,7 @@ L'évaluation sommative à enjeux élevés — examens d'entrée, tests standard
 
 ## Le sommatif et le formatif à l'ère de l'IA
 
-La littérature sur l'évaluation de la base de connaissances souligne systématiquement que l'[[assessment|évaluation]] est plus efficace lorsqu'elle combine des fonctions [[formative-assessment|formatives]] et sommatives — mais l'ère de l'IA aiguise la distinction. Parce que l'IA gonfle la performance sur des tâches à faible enjeu, non surveillées et dont le processus est masqué, **les mesures sommatives (en particulier surveillées, à livre fermé, en présentiel) deviennent le contrôle crucial** de la question de savoir si l'apprentissage a réellement eu lieu. Cela motive une refonte de l'évaluation qui garde des tâches sommatives authentiques et résistantes à l'IA (examens oraux, entretiens de revue de code, examens surveillés, [[eportfolio|portfolios]] fondés sur le processus) comme ancrage de l'[[academic-integrity|intégrité]], tout en utilisant l'évaluation formative pour soutenir l'apprentissage en cours de route. Voir l'[[authentic-assessment|évaluation authentique]] pour la réponse constructive en matière de conception.
+La littérature sur l'évaluation souligne systématiquement que l'[[assessment|évaluation]] est plus efficace lorsqu'elle combine des fonctions [[formative-assessment|formatives]] et sommatives — mais l'ère de l'IA aiguise la distinction. Parce que l'IA gonfle la performance sur des tâches à faible enjeu, non surveillées et dont le processus est masqué, **les mesures sommatives (en particulier surveillées, à livre fermé, en présentiel) deviennent le contrôle crucial** de la question de savoir si l'apprentissage a réellement eu lieu. Cela motive une refonte de l'évaluation qui garde des tâches sommatives authentiques et résistantes à l'IA (examens oraux, entretiens de revue de code, examens surveillés, [[eportfolio|portfolios]] fondés sur le processus) comme ancrage de l'[[academic-integrity|intégrité]], tout en utilisant l'évaluation formative pour soutenir l'apprentissage en cours de route. Voir l'[[authentic-assessment|évaluation authentique]] pour la réponse constructive en matière de conception.
 
 ## Implications pour l'IA en éducation
 

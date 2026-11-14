@@ -2,7 +2,7 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 title: Accessibilité
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -10,7 +10,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ ai_assist:
 
 ## Introduction
 
-L'accessibilité se distingue de trois concepts voisins de cette base de connaissances, tout en leur étant étroitement liée. **[[inclusive-learning|L'apprentissage inclusif]]** constitue le parapluie le plus large pour concevoir une éducation prenant en compte toute la variabilité des apprenants (physique, cognitive, sensorielle, situationnelle). **[[special-education|L'enseignement spécialisé]]** est le domaine pédagogique destiné aux apprenants présentant un handicap diagnostiqué, y compris les aménagements individualisés. **[[universal-design-for-learning|La conception universelle de l'apprentissage]]** est le cadre de conception proactive (moyens multiples d'[[student-engagement|engagement]], de représentation, d'action et d'expression). **L'accessibilité** se situe à l'intérieur de cette constellation comme la *couche technique et procédurale* : supprimer les obstacles à la perception et à l'utilisation du format, plutôt que repenser la pédagogie. Les deux peuvent être distinguées selon un spectre — l'accessibilité demande « tout le monde peut-il accéder à ce contenu et à cet outil ? », tandis que l'accompagnement des élèves handicapés demande « l'enseignement sert-il véritablement chaque apprenant, y compris par des aménagements et un soutien propre au handicap ? ». Les deux importent, et l'IA croise les deux.
+L'accessibilité se distingue de trois concepts voisins, tout en leur étant étroitement liée. **[[inclusive-learning|L'apprentissage inclusif]]** constitue le parapluie le plus large pour concevoir une éducation prenant en compte toute la variabilité des apprenants (physique, cognitive, sensorielle, situationnelle). **[[special-education|L'enseignement spécialisé]]** est le domaine pédagogique destiné aux apprenants présentant un handicap diagnostiqué, y compris les aménagements individualisés. **[[universal-design-for-learning|La conception universelle de l'apprentissage]]** est le cadre de conception proactive (moyens multiples d'[[student-engagement|engagement]], de représentation, d'action et d'expression). **L'accessibilité** se situe à l'intérieur de cette constellation comme la *couche technique et procédurale* : supprimer les obstacles à la perception et à l'utilisation du format, plutôt que repenser la pédagogie. Les deux peuvent être distinguées selon un spectre — l'accessibilité demande « tout le monde peut-il accéder à ce contenu et à cet outil ? », tandis que l'accompagnement des élèves handicapés demande « l'enseignement sert-il véritablement chaque apprenant, y compris par des aménagements et un soutien propre au handicap ? ». Les deux importent, et l'IA croise les deux.
 
 ### Pourquoi la distinction importe
 

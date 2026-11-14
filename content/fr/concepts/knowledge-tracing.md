@@ -1,14 +1,14 @@
 ---
 title: "Traçage des connaissances"
 created: "2026-06-23T10:44:35-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 connected_faqs: [making-simulated-students-behave-like-learners]
 technology: [adaptive-learning, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 audience: [learners]
 confidence: medium
 translation_of: concepts/knowledge-tracing
-source_updated: "2026-11-12T21:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -28,22 +28,22 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Traçage des connaissances** — la modélisation de ce que les apprenants savent au fil du temps, par le suivi de leur performance sur les exercices et la prédiction de leur maîtrise future. C'est le fil de modélisation le plus riche de la base de connaissances, couvrant les approches bayésiennes, d'apprentissage profond et renforcées par les [[llm|grands modèles de langue]] pour suivre les connaissances de l'étudiant à mesure qu'elles évoluent.
+> **Traçage des connaissances** — la modélisation de ce que les apprenants savent au fil du temps, par le suivi de leur performance sur les exercices et la prédiction de leur maîtrise future. C'est le fil de modélisation le plus riche de cette littérature, couvrant les approches bayésiennes, d'apprentissage profond et renforcées par les [[llm|grands modèles de langue]] pour suivre les connaissances de l'étudiant à mesure qu'elles évoluent.
 
 ## Questions à examiner
 
 - Le traçage des connaissances modélise ce que vous savez au fil du temps à partir de votre performance sur les exercices, en suivant quand les connaissances sont acquises et quand elles se dégradent. Que peuvent révéler vos réponses sur la question de savoir si vous « savez » vraiment quelque chose ou si vous l'avez simplement réussi cette fois ?
-- Cette page avertit que « la maîtrise n'est pas l'exactitude » — un apprenant peut sembler maîtriser une compétence tout en l'appliquant systématiquement de travers lorsqu'une condition cachée est violée. Quand avez-vous vu quelqu'un (ou vous-même) donner l'impression de comprendre quelque chose alors qu'il ne le comprenait pas en réalité ?
+- Un apprenant peut sembler avoir maîtrisé une compétence et pourtant l'appliquer systématiquement de travers dès qu'une condition cachée est violée. Quand avez-vous vu quelqu'un (ou vous-même) donner l'impression de comprendre quelque chose alors qu'il ne le comprenait pas en réalité ?
 - Si le traçage des connaissances alimente des systèmes adaptatifs qui décident de ce qu'il faut enseigner ensuite, qu'est-ce qui tourne mal lorsque le modèle prend des réponses correctes pour une véritable maîtrise et fait progresser un étudiant trop tôt ?
 - Le traçage des connaissances prend de nombreuses formes — bayésienne, neuronale, hypergraphique, fondée sur le dialogue, renforcée par les grands modèles de langue. Quels compromis attendriez-vous entre un modèle transparent que vous pouvez expliquer et un modèle puissant mais opaque ?
-- Cette page relie le traçage des connaissances aux étudiants simulés — générant les états de connaissance que le traçage infère normalement de données réelles. Comment la simulation d'apprenants pourrait-elle aider à tester un tuteur avant qu'il ne rencontre de vrais étudiants ?
+- Le traçage des connaissances se relie aussi aux étudiants simulés, qui génèrent les états de connaissance que le traçage infère normalement de données réelles. Comment la simulation d'apprenants pourrait-elle aider à tester un tuteur avant qu'il ne rencontre de vrais étudiants ?
 - Puisque les connaissances se dégradent avec le temps, que devrait faire un système adaptatif de la « maîtrise » passée d'un étudiant une fois qu'il l'a oubliée ? Comment concevriez-vous pour l'oubli, plutôt que de présumer que les connaissances persistent ?
 
 ## Introduction
 
 Le traçage des connaissances transforme les réponses brutes aux exercices en estimations de ce qu'un étudiant a maîtrisé et de ce qu'il lui reste à apprendre. À la différence du simple suivi de l'exactitude, le traçage des connaissances modélise la dynamique temporelle de l'apprentissage — quand les connaissances sont acquises, quand elles se dégradent, et comment les concepts se rapportent les uns aux autres.
 
-## Les approches représentées dans la base de connaissances
+## Les approches représentées dans la recherche
 
 - **Les approches bayésiennes :** [[stanbkt-bayesian-knowledge-tracing]] normalise les implémentations de BKT, tandis que [[mbp-kt-meta-behavioral-knowledge-tracing]] incorpore des signaux méta-comportementaux
 - **Les paramètres BKT comme mesures de résultats d'intervention :** [[zhang-perceptual-scaffolding-desirable-difficulties-math-2026|Zhang et coll. (2026)]] ont ajusté un traçage bayésien des connaissances conditionné par les indices sur 19 952 points de données de 688 élèves de sixième, afin que les paramètres de devinette, d'erreur, d'apprentissage et d'oubli deviennent eux-mêmes les mesures de résultats d'une intervention mathématique à indices perceptuels. Les indices congruents élevaient la devinette et réduisaient l'erreur — un étayage immédiat — tandis que la condition incongruente de couleur présentait la signature de la difficulté souhaitable : devinette à 0,190, mais taux d'apprentissage le plus élevé (0,0379) et taux d'oubli le plus faible (0,0054) des neuf conditions. Les classifications BKT des conditions d'indices concordaient avec celles fondées sur le comportement pour cinq des huit conditions, soutenant les paramètres comme une lentille sur le dilemme de l'assistance.

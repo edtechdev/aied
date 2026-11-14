@@ -1,7 +1,7 @@
 ---
 title: "Pédagogie culturellement pertinente"
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/culturally-relevant-pedagogy
-source_updated: "2026-11-12T21:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ Au-delà de la génération de leçons, la pédagogie culturellement pertinente 
 
 ## Données culturellement ancrées et évaluation
 
-Un ensemble de travaux issus de la base de connaissances traite des lacunes de *contenu* et d'*évaluation* sous-jacentes à la pédagogie culturellement pertinente.
+Un ensemble de travaux traite des lacunes de *contenu* et d'*évaluation* sous-jacentes à la pédagogie culturellement pertinente.
 
 - **Données d'entraînement non occidentales :** IKS-Instruct fournit un **jeu de données d'instructions [[multilingual-learning|multilingue]] de 24,795 exemples** pour enseigner à des [[teacher-role|enseignants]] de LLM les systèmes de savoirs indiens (Indian Knowledge Systems) dans sept [[language-learning|langues]] et selon 41 techniques [[pedagogy|pédagogiques]]. Un modèle 7B compact ajusté au domaine a atteint un score médian de 6.39 attribué par les juges (contre 6.54 pour un modèle généraliste bien plus grand) — tandis que le modèle de base obtenait un score **proche de zéro** sur les dimensions spécifiques aux IKS, ce qui montre à quel point des données culturellement ancrées améliorent la pertinence.
 - **Repères de référence du [[global-south|Sud global]] :** le repère **NSMQ Riddles** puise 1.8K devinettes scientifiques et mathématiques dans 11 ans du National Science and Maths Quiz du Ghana — l'un des premiers repères de [[benchmark|référence]] éducatifs du Sud global — et a montré que les LLM les plus avancés **obtiennent de moins bons résultats que les meilleurs candidats étudiants**, exposant un biais géographique dans la façon dont les modèles sont évalués.
@@ -66,7 +66,7 @@ Un ensemble de travaux issus de la base de connaissances traite des lacunes de *
 
 ## Conseils pratiques
 
-En s'appuyant sur les articles mêmes de la base de connaissances, les éducateurs et les concepteurs peuvent appliquer la pédagogie culturellement pertinente à l'IA :
+En s'appuyant sur la recherche, les éducateurs et les concepteurs peuvent appliquer la pédagogie culturellement pertinente à l'IA :
 
 - **Traitez l'IA comme un générateur de brouillons, non comme une autorité.** Les résultats de Trust et al. sur l'éducation civique montrent que les enseignants doivent injecter la pensée [[critical-thinking|d'ordre supérieur]] et les perspectives multiculturelles que l'IA omet ; le [[human-in-the-loop-ai|jugement humain]] reste essentiel pour l'authenticité culturelle et l'alignement communautaire.
 - **Superposez un contexte démographique et culturel dans les invites et les outils.** CulturAIEd et [[connected-ai-lesson-planning-vietnam|ConnectED]] (un système vietnamien de planification des leçons aligné sur le programme) montrent que des modèles d'invites structurés et localement ancrés, associés à des contrôles de validation par l'enseignant, améliorent l'adéquation culturelle par rapport à une génération générique.

@@ -1,7 +1,7 @@
 ---
 title: "MindRouter"
 created: "2026-11-12T11:16:00-05:00"
-updated: "2026-11-12T11:16:00-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 type: resource
 summary: "Une passerelle d'inférence Apache-2.0 de l'université de l'Idaho qui place un cluster de campus de nœuds GPU vLLM et Ollama derrière une API compatible OpenAI, en ajoutant un ordonnancement équitable, des quotas de jetons par utilisateur, le SSO, la journalisation d'audit et une surveillance en direct des GPU et de l'énergie."
 url: https://github.com/ui-insight/MindRouter
@@ -16,7 +16,7 @@ audience: [administrators, educational technology developers, faculty developers
 level: [higher ed]
 connected_resources: [amplify-genai]
 translation_of: resources/mindrouter
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

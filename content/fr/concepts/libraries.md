@@ -12,9 +12,9 @@ level: [higher ed, adult learning]
 page_kind: [synthesis]
 confidence: medium
 connected_resources: [public-ai-libraries]
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 translation_of: "concepts/libraries"
-source_updated: "2026-11-12T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -37,15 +37,15 @@ ai_assist:
 
 ## Introduction
 
-La bibliothèque est la partie du système éducatif qui a toujours été dans le métier de l'accès à l'information, ce qui explique pourquoi l'IA y arrive moins comme une nouveauté que comme un changement dans la chaîne d'approvisionnement. Deux littératures se rencontrent sur cette page. L'une étudie les bibliothèques comme adoptantes : ce qu'elles font avec l'IA, ce qui les arrête, et comment le travail est réparti entre services techniques, référence, collections, circulation, enseignement et développement du personnel. L'autre étudie les bibliothèques comme infrastructure : le lieu où les étudiants et le public rencontrent la recherche en général, et donc le lieu où un passage de la recherche à la synthèse se fait d'abord sentir.
+La bibliothèque est la partie du système éducatif qui a toujours été dans le métier de l'accès à l'information, ce qui explique pourquoi l'IA y arrive moins comme une nouveauté que comme un changement dans la chaîne d'approvisionnement. Deux littératures se rencontrent dans l'étude des bibliothèques. L'une étudie les bibliothèques comme adoptantes : ce qu'elles font avec l'IA, ce qui les arrête, et comment le travail est réparti entre services techniques, référence, collections, circulation, enseignement et développement du personnel. L'autre étudie les bibliothèques comme infrastructure : le lieu où les étudiants et le public rencontrent la recherche en général, et donc le lieu où un passage de la recherche à la synthèse se fait d'abord sentir.
 
-La page se distingue délibérément de [[librarians|la page sur les bibliothécaires]], qui couvre les personnes et leur rôle professionnel, et de la [[information-and-media-literacy|littératie informationnelle et médiatique]], qui couvre le construit qu'elles enseignent. Cette page porte sur l'institution : ses services, ses systèmes, son modèle de dotation et son obligation publique.
+Le sujet se distingue délibérément de [[librarians|la page sur les bibliothécaires]], qui couvre les personnes et leur rôle professionnel, et de la [[information-and-media-literacy|littératie informationnelle et médiatique]], qui couvre le construit qu'elles enseignent. L'accent porte sur l'institution : ses services, ses systèmes, son modèle de dotation et son obligation publique.
 
 ## Comment l'IA entre dans les opérations des bibliothèques
 
 Une [[meta-analysis-systematic-review|revue systématique]] de 29 études publiées entre 2020 et 2024 organise l'adoption de l'IA en six dimensions — services techniques, services de référence et d'information, services administratifs et circulation, développement des collections, littératie informationnelle et éducation des usagers, et [[educational-development|développement professionnel]] et collaboration — et situe le centre de gravité dans la référence : l'IA pour répondre aux questions directionnelles et de référence immédiate apparaît dans 34.48 % des études examinées, le catalogage et la référence transcrite par chat arrivant ensuite à 27.58 % chacun ([[ayinde-ai-academic-libraries-systematic-review-2026|Ayinde, Ebiefung et Oladokun, 2026]]). La même revue enregistre ce que la littérature sur l'adoption adoucit habituellement : le financement est nommé comme barrière critique dans 48.28 % des études, les lacunes de compétences techniques et la mauvaise qualité des données dans 58.62 %, et la peur de la perte d'emploi dans 13.79 %.
 
-La répartition importe parce qu'elle décrit une bibliothèque qui automatise les parties de son travail déjà transactionnelles — la question directionnelle, la notice de catalogue, la transcription de chat — tandis que le travail exigeant du jugement reste humain. Cela concorde avec les preuves pédagogiques ailleurs dans la base de connaissances : une bibliothécaire intégrée consultée lorsqu'un système de recommandation était le moins confiant traitait surtout des questions d'évaluation des sources, et non des questions de recherche documentaire ([[ai-assisted-seminar-learning-information-literacy-2026|Huang, 2026]]).
+La répartition importe parce qu'elle décrit une bibliothèque qui automatise les parties de son travail déjà transactionnelles — la question directionnelle, la notice de catalogue, la transcription de chat — tandis que le travail exigeant du jugement reste humain. Cela concorde avec les preuves pédagogiques : une bibliothécaire intégrée consultée lorsqu'un système de recommandation était le moins confiant traitait surtout des questions d'évaluation des sources, et non des questions de recherche documentaire ([[ai-assisted-seminar-learning-information-literacy-2026|Huang, 2026]]).
 
 ## La couche de recherche se déplace
 

@@ -1,7 +1,7 @@
 ---
 title: "Déclarations d'utilisation et de divulgation de l'IA"
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-11-10T18:55:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -28,14 +28,14 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Déclarations d'utilisation et de divulgation de l'IA** — les politiques, déclarations et pratiques par lesquelles on demande aux apprenants (ou on les invite) de divulguer leur usage de l'[[generative-ai|IA générative]] dans les travaux académiques. Également appelées déclarations d'usage de l'IA, déclarations de divulgation de l'IA ou déclarations de [[explainable-ai|transparence]], ces mécanismes se situent à l'intersection de l'[[academic-integrity|intégrité académique]], de l'[[ethics|éthique]], de la [[trust|confiance]] et de l'[[assessment|évaluation]] à l'ère de l'IA. La [[research-methods-aied|recherche]] de la base de connaissances montre que la divulgation est loin d'être une simple formalité administrative neutre : elle est façonnée par la peur des sanctions, des politiques ambiguës, une application incohérente, les normes entre pairs, la stigmatisation et les coûts psychologiques de l'auto-accusation — et elle est profondément liée à l'[[self-regulated-learning|apprentissage auto-régulé]] et à la [[help-seeking|recherche d'aide]].
+> **Déclarations d'utilisation et de divulgation de l'IA** — les politiques, déclarations et pratiques par lesquelles on demande aux apprenants (ou on les invite) de divulguer leur usage de l'[[generative-ai|IA générative]] dans les travaux académiques. Également appelées déclarations d'usage de l'IA, déclarations de divulgation de l'IA ou déclarations de [[explainable-ai|transparence]], ces mécanismes se situent à l'intersection de l'[[academic-integrity|intégrité académique]], de l'[[ethics|éthique]], de la [[trust|confiance]] et de l'[[assessment|évaluation]] à l'ère de l'IA. La [[research-methods-aied|recherche]] montre que la divulgation est loin d'être une simple formalité administrative neutre : elle est façonnée par la peur des sanctions, des politiques ambiguës, une application incohérente, les normes entre pairs, la stigmatisation et les coûts psychologiques de l'auto-accusation — et elle est profondément liée à l'[[self-regulated-learning|apprentissage auto-régulé]] et à la [[help-seeking|recherche d'aide]].
 
 ## Questions à examiner
 
-- Si vous étiez un étudiant ayant utilisé l'IA générative pour un devoir, le diriez-vous à votre enseignant ? Cette page suggère que la réponse honnête est largement façonnée par la peur — la recherche montre que la divulgation est rare, motivée par une « [[anxiety-and-stress|anxiété]] de sanction » et par la crainte de s'auto-accuser. Quelles hypothèses sur votre propre comportement de divulgation pourriez-vous avoir besoin de remettre en question ?
+- Si vous étiez un étudiant ayant utilisé l'IA générative pour un devoir, le diriez-vous à votre enseignant ? La réponse honnête est largement façonnée par la peur — la recherche montre que la divulgation est rare, motivée par une « [[anxiety-and-stress|anxiété]] de sanction » et par la crainte de s'auto-accuser. Quelles hypothèses sur votre propre comportement de divulgation pourriez-vous avoir besoin de remettre en question ?
 - La question de conception centrale est ici de savoir si la divulgation fonctionne comme une surveillance ou comme un étayage en faveur d'un engagement éthique. Avant de lire, laquelle de ces deux fonctions supposiez-vous qu'un formulaire de divulgation visait — et pouvez-vous imaginer une manière dont ce même formulaire servirait l'objectif inverse ?
 - Un résultat frappant est que les étudiants qui divulguaient toujours avaient plus de trois fois plus de chances d'être accusés de tricherie — la transparence attirait le soupçon. Si l'honnêteté peut accroître le soupçon, qu'est-ce que cela dit de la façon dont nous devrions concevoir la confiance entre étudiants et enseignants ?
-- Cette page distingue les mécanismes de conformité obligatoire des pratiques de divulgation formative qui développent la littératie en IA et l'auto-régulation. Laquelle de ces deux approches l'approche de votre propre institution ressemble-t-elle le plus, et que faudrait-il changer pour qu'elle devienne l'autre ?
+- La distinction est entre les mécanismes de conformité obligatoire et les pratiques de divulgation formative qui développent la littératie en IA et l'auto-régulation. Laquelle de ces deux approches votre propre institution ressemble-t-elle le plus, et que faudrait-il changer pour qu'elle devienne l'autre ?
 - La recherche relie la dissimulation à une auto-régulation inadaptée, et la divulgation à une recherche d'aide adaptative — rendre visible votre usage de l'IA peut susciter de la part d'un enseignant un étalonnage utile. Quand vous est-il arrivé (en tant qu'apprenant ou [[teacher-role|enseignant]]) de trouver bénéfique de rendre visible votre incertitude ou votre recours à de l'aide, plutôt que de le cacher ?
 - Les normes de divulgation varient selon la discipline, le bagage linguistique et le contexte — avec des implications d'équité lorsque certains étudiants sont plus susceptibles que d'autres d'être pénalisés pour avoir dissimulé. Si vous conceviez une politique de divulgation, comment l'empêcheriez-vous de faire peser une charge inégale sur des apprenants déjà marginalisés ?
 

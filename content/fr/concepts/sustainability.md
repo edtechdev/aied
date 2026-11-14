@@ -1,7 +1,7 @@
 ---
 title: "Durabilité"
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ level: [higher ed, k 12, teacher education]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-11-10T21:15:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -30,9 +30,9 @@ ai_assist:
 
 ## Questions à examiner
 
-- La page distingue deux voies : l'« IA pour la durabilité » (utiliser l'IA pour faire progresser les résultats de durabilité) et l'« IA durable » (réduire l'empreinte environnementale et éthique propre à l'IA). Pouvez-vous imaginer une manière dont un outil d'IA ferait progresser un objectif tout en sapant l'autre ?
+- Le domaine sépare deux voies : l'« IA pour la durabilité » et l'« IA durable ». Pouvez-vous imaginer une manière dont un outil d'IA ferait progresser un objectif tout en sapant l'autre ?
 - L'entraînement et l'exécution de [[llm|grands modèles de langage]] ont une empreinte carbone et hydrique réelle. Lorsqu'un établissement promeut la durabilité comme valeur tout en déployant une IA gourmande en énergie, quelles tensions apparaissent — et qui devrait les arbitrer ?
-- Avant de poursuivre votre lecture, comment définiriez-vous l'« éducation durable » ? La page la traite comme un projet fondé sur des valeurs et centré sur l'humain, distinct de l'usage de l'éducation comme instrument au service de la durabilité — en quoi ces deux approches diffèrent-elles ?
+- Avant de poursuivre votre lecture, comment définiriez-vous l'« éducation durable » ? Elle est traitée comme un projet fondé sur des valeurs et centré sur l'humain, distinct de l'usage de l'éducation comme instrument au service de la durabilité — en quoi ces deux approches diffèrent-elles ?
 - Si l'on attend de l'éducation qu'elle construise la « conscience de la durabilité » des apprenants, quel rôle l'IA pourrait-elle y jouer — et l'intégration de l'IA dans le curriculum pourrait-elle enseigner la durabilité tandis que sa propre empreinte contredirait silencieusement la leçon ?
 - Que signifierait, pour un établissement d'enseignement, d'être véritablement durable dans son usage de l'IA, et lesquelles de ses décisions (achats, déploiement, enseignement) vous semblent les plus déterminantes ?
 
@@ -44,7 +44,7 @@ La voie environnementale présente un manque documenté : [[gillette-partnership
 
 ## La taxonomie en deux parties
 
-La couverture de la base de connaissances, ancrée par [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]], organise le champ en deux voies interconnectées mais distinctes :
+La revue de portée de [[daniel-ai-sustainability-scoping-review-2026|Daniel et al. (2026)]] organise le champ en deux voies interconnectées mais distinctes :
 
 - **L'IA pour la durabilité** — utiliser l'IA pour faire progresser les résultats de durabilité. En éducation, cela inclut l'IA pour la gestion de l'énergie, le suivi du climat, les programmes de campus verts et les curricula intégrant l'IA qui développent la conscience de la durabilité des apprenants (par exemple le cadre AI-SEE pour l'[[engineering-education|enseignement de l'ingénierie]] durable). Cette voie est fondée sur l'agenda mondial de l'éducation au développement durable.
 - **L'IA durable** — réduire les impacts environnementaux et éthiques directs de l'IA elle-même. Cela couvre l'empreinte carbone et hydrique des grands modèles de langage, le déploiement économe en énergie et sur site, ainsi que les cadres éthiques et de gouvernance nécessaires pour garantir que l'usage de l'IA dans l'éducation est lui-même responsable et durable.
@@ -71,7 +71,7 @@ Un axe connexe conçoit la durabilité non seulement comme une préoccupation en
 
 ## Connexions avec d'autres concepts
 
-La durabilité et l'IA en éducation se situe à l'intersection de l'[[ethics|éthique]], de la [[governance|gouvernance]], de l'[[ai-education|IA en éducation]] et des sciences de l'environnement et de l'énergie. Elle puise dans la [[teacher-education|formation des enseignants]] et le [[teacher-role|rôle enseignant]] pour le renforcement des capacités, dans le [[learning-design|design pédagogique]] pour la pédagogie, et se rattache au traitement que la base de connaissances réserve au [[cognitive-offloading|délestage cognitif]] et à la [[critical-thinking|pensée critique]] à travers la grille de l'« apprentissage durable ». Parce que les deux voies sont transversales, la durabilité est un thème fondateur qui apparaît dans l'[[higher-ed|enseignement supérieur]], le K-12 et les contextes professionnels.
+La durabilité et l'IA en éducation se situe à l'intersection de l'[[ethics|éthique]], de la [[governance|gouvernance]], de l'[[ai-education|IA en éducation]] et des sciences de l'environnement et de l'énergie. Elle puise dans la [[teacher-education|formation des enseignants]] et le [[teacher-role|rôle enseignant]] pour le renforcement des capacités, dans le [[learning-design|design pédagogique]] pour la pédagogie, et relie le [[cognitive-offloading|délestage cognitif]] et la [[critical-thinking|pensée critique]] à travers la grille de l'« apprentissage durable ». Parce que les deux voies sont transversales, la durabilité est un thème fondateur qui apparaît dans l'[[higher-ed|enseignement supérieur]], le K-12 et les contextes professionnels.
 
 ## Idées fausses courantes
 

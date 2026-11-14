@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: La métacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/metacognition
-source_updated: "2026-11-12T18:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -35,9 +35,9 @@ ai_assist:
 
 - La « métacognition » consiste à penser à sa propre pensée — savoir ce que l'on sait, se surveiller et ajuster ses stratégies. Lorsque vous étudiez ou résolvez un problème, dans quelle mesure êtes-vous conscient sur le moment de savoir si vous comprenez réellement, par opposition à simplement reconnaître le matériel ?
 - Un résultat frappant : les élèves qui ont utilisé une assistance IA pour la rédaction de dissertations étaient souvent incapables de se rappeler des citations de leurs propres dissertations, parce qu'ils ne s'étaient pas engagés avec le contenu lors de sa production. Lorsqu'un outil produit le résultat, quelle pratique l'apprenant perd-il — et cette pratique est-elle importante ?
-- La page présente la métacognition comme une cible (l'IA peut-elle la construire ?) et un risque (l'IA peut-elle la supprimer ?). Le même outil d'IA pourrait-il renforcer ou affaiblir la métacognition d'un apprenant selon la manière dont il est conçu ou utilisé ? Qu'est-ce qui détermine le sens dans lequel cela bascule ?
+- La métacognition est à la fois une cible (l'IA peut-elle la construire ?) et un risque (l'IA peut-elle la supprimer ?). Le même outil d'IA pourrait-il renforcer ou affaiblir la métacognition d'un apprenant selon la manière dont il est conçu ou utilisé ? Qu'est-ce qui détermine le sens dans lequel cela bascule ?
 - Les prompts structurés qui demandent aux élèves de s'expliquer eux-mêmes, d'évaluer des stratégies ou d'identifier des lacunes préservent l'exigence métacognitive, tandis que l'IA qui se contente de réaliser les tâches la déplace. Si vous conceviez un outil d'étude par IA, que bâtiriez-vous pour qu'il invite à la réflexion au lieu de la remplacer ?
-- La page constate que le fait qu'une utilisation de l'IA soit riche sur le plan métacognitif dépend de la motivation et de la posture de l'apprenant autant que de la technologie. Vous est-il arrivé d'utiliser un outil de manière superficielle puis de vous rendre compte que vous n'aviez rien appris — et qu'y avait-il de différent aux moments où vous l'avez utilisé en profondeur ?
+- La richesse métacognitive dépend de la motivation et de la posture de l'apprenant autant que de l'outil. Vous est-il arrivé d'utiliser un outil de manière superficielle puis de vous rendre compte que vous n'aviez rien appris — et qu'y avait-il de différent aux moments où vous l'avez utilisé en profondeur ?
 
 ## Introduction
 
@@ -176,7 +176,7 @@ Une [[agentic-ai|IA agentique]] proactive peut déplacer la propre boucle métac
 
 - **Le suivi propre de l'évaluateur est aussi un travail métacognitif.** [[hoppe-teachers-diagnostic-skills-ai-formative-assessment-2026|Hoppe, Loibl et Leuders (2026)]] soutiennent qu'une inférence [[cognitive-diagnosis|diagnostique]] générée par l'IA n'est pas une preuve brute mais une interprétation déjà faite, si bien que les enseignants doivent l'intégrer à leurs propres observations dans un processus qu'ils nomment *meta-diagnosis* (méta-diagnostic), décidant délibérément de l'accepter, de la rejeter ou de la modifier. Cela place une seconde boucle métacognitive à côté de celle de l'apprenant : non seulement la manière dont l'élève régule sa pensée avec l'IA, mais aussi la manière dont l'enseignant évalue ce que le système affirme au sujet de cette pensée.
 
-La fonction exécutive est le construit voisin, et le corpus contient un résultat qui les sépare nettement. L'étude de [[wilder-adhd-ai-interview-eye-tracking-2025|Wilder et Stratchan]] portant sur 46 étudiants universitaires présentant un TDAH a constaté qu'une mesure de la flexibilité cognitive par tâche prédisait la performance à l'entretien, tandis que la sous-échelle d'autorégulation du MSLQ ne la prédisait pas (p = 0.312). Savoir comment l'on se régule n'est pas la même chose que pouvoir changer de stratégie sous charge, et une page sur la [[executive-function|fonction exécutive]] détient le versant capacité de cette distinction. Le cadre de [[sidorkin-extended-executive-cognition-2025|Sidorkin]] prend la direction opposée, en traitant la répartition de l'effort entre travail humain et travail machine comme un résultat métacognitif en soi.
+La fonction exécutive est le construit voisin, et un résultat les sépare nettement. L'étude de [[wilder-adhd-ai-interview-eye-tracking-2025|Wilder et Stratchan]] portant sur 46 étudiants universitaires présentant un TDAH a constaté qu'une mesure de la flexibilité cognitive par tâche prédisait la performance à l'entretien, tandis que la sous-échelle d'autorégulation du MSLQ ne la prédisait pas (p = 0.312). Savoir comment l'on se régule n'est pas la même chose que pouvoir changer de stratégie sous charge, et une page sur la [[executive-function|fonction exécutive]] détient le versant capacité de cette distinction. Le cadre de [[sidorkin-extended-executive-cognition-2025|Sidorkin]] prend la direction opposée, en traitant la répartition de l'effort entre travail humain et travail machine comme un résultat métacognitif en soi.
 
 ## Idées fausses courantes
 

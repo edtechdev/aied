@@ -1,14 +1,14 @@
 ---
 title: "Quelles sont les bonnes pratiques pour enseigner l'écriture dans le contexte de l'IA ?"
 created: "2026-09-22T19:14:45-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
 ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -133,7 +133,7 @@ Donnez comme travail disciplinaire la critique du modèle. Fournissez aux étudi
 
 ### Cours de STIM et rapports de laboratoire
 
-Une réserve d'abord : cette base de connaissances rassemble des preuves bien plus solides sur l'écriture académique assistée par IA en général que sur la rédaction de rapports de laboratoire en particulier. La [[pedagogy|pédagogie]] pratique et celle du laboratoire restent sous-documentées, y compris dans la littérature sur [[engineering-education|l'enseignement de l'ingénierie]] ; ce qui suit applique donc des résultats sur l'écriture, la décharge, la validité et l'ingénierie à un cadre que ces études n'ont pas testé.
+Une réserve d'abord : les preuves sont bien plus solides sur l'écriture académique assistée par IA en général que sur la rédaction de rapports de laboratoire en particulier. La [[pedagogy|pédagogie]] pratique et celle du laboratoire restent sous-documentées, y compris dans la littérature sur [[engineering-education|l'enseignement de l'ingénierie]] ; ce qui suit applique donc des résultats sur l'écriture, la décharge, la validité et l'ingénierie à un cadre que ces études n'ont pas testé.
 
 Tracez la frontière autour du raisonnement scientifique plutôt qu'autour de la prose dans son ensemble. Les étudiants restent responsables des observations, des données brutes, des calculs, de l'incertitude, des figures, des choix d'analyse, des résultats et du raisonnement qui relie les preuves à l'affirmation. Une fois ces éléments établis, l'IA peut raisonnablement aider à l'organisation, à la lisibilité, aux transitions et aux conventions disciplinaires, ce qui est la même séparation entre surface et raisonnement que dans [[layer-sensitive-cognitive-offloading-writing-2026|l'étude de Chen]].
 
@@ -157,7 +157,7 @@ Les étudiants tracent eux-mêmes une ligne semblable. Dans un cours de communic
 
 ## Jugez les preuves avant de réécrire le plan de cours
 
-L'argument en faveur de ces dispositifs est prometteur et pas encore assez solide pour justifier une politique universelle unique sur l'écriture avec l'IA. Une partie des meilleures preuves vient d'études de classe substantielles comme [[pairr-ai-peer-review-2025|PAIRR]] et ses 654 étudiants. Le reste repose largement sur des quasi-expériences, de petits échantillons expérimentaux, des analyses conceptuelles et des travaux de 2025-2026 encore récents : [[layer-sensitive-cognitive-offloading-writing-2026|l'étude de Chen sur l'écriture encadrée]] comptait 168 étudiants mais seulement six classes intactes, [[ai-writing-support-stage-ownership-2026|l'étude sur le sentiment de propriété]] utilisait une courte tâche d'écriture expérimentale, et une étude rapportant des gains de qualité immédiats après un entraînement avec ChatGPT ne portait que sur 21 étudiants internationaux de première année et n'établissait pas de [[transfer-of-learning|transfert]] à long terme ([[chatgpt-academic-writing-quality-ownership-2026]]). Ce que la base de connaissances sur [[ai-education|l'IA en éducation]] étaye, c'est un ensemble de principes de conception, et le résultat inter-études le plus fiable qu'elle contient est de préserver l'[[agency|autonomie]] de l'étudiant, le [[evaluative-judgment|jugement évaluatif]], la compétence indépendante, le raisonnement disciplinaire et la rétroaction humaine, tout en utilisant l'IA pour élargir l'accès à la critique, à la pratique, au soutien à la révision et à l'aide linguistique.
+L'argument en faveur de ces dispositifs est prometteur et pas encore assez solide pour justifier une politique universelle unique sur l'écriture avec l'IA. Une partie des meilleures preuves vient d'études de classe substantielles comme [[pairr-ai-peer-review-2025|PAIRR]] et ses 654 étudiants. Le reste repose largement sur des quasi-expériences, de petits échantillons expérimentaux, des analyses conceptuelles et des travaux de 2025-2026 encore récents : [[layer-sensitive-cognitive-offloading-writing-2026|l'étude de Chen sur l'écriture encadrée]] comptait 168 étudiants mais seulement six classes intactes, [[ai-writing-support-stage-ownership-2026|l'étude sur le sentiment de propriété]] utilisait une courte tâche d'écriture expérimentale, et une étude rapportant des gains de qualité immédiats après un entraînement avec ChatGPT ne portait que sur 21 étudiants internationaux de première année et n'établissait pas de [[transfer-of-learning|transfert]] à long terme ([[chatgpt-academic-writing-quality-ownership-2026]]). Ce que la recherche sur [[ai-education|l'IA en éducation]] étaye, c'est un ensemble de principes de conception, et le résultat inter-études le plus fiable est de préserver l'[[agency|autonomie]] de l'étudiant, le [[evaluative-judgment|jugement évaluatif]], la compétence indépendante, le raisonnement disciplinaire et la rétroaction humaine, tout en utilisant l'IA pour élargir l'accès à la critique, à la pratique, au soutien à la révision et à l'aide linguistique.
 
 Ce mélange a une conséquence pratique. Changez un devoir, conservez la trace, et comparez la cohorte suivante à celle-ci sur la même mesure. Une règle que vous pouvez réviser après un semestre vaut plus qu'une politique que vous ne pouvez pas tester, et les petites études citées plus haut ne vous diront pas ce qui se passe dans votre cours.
 
@@ -175,7 +175,7 @@ Ce mélange a une conséquence pratique. Changez un devoir, conservez la trace, 
 
 ## Les objections que vous entendrez
 
-**« Je n'ai pas le temps de lire une trace de plus. »** Alors réduisez la trace : quatre colonnes de tableau de décision, ou cinq minutes d'écriture en classe comme échantillon indépendant. Le corpus ne rapporte aucune donnée sur le temps de correction de ces dispositifs ; l'argument de la charge de travail doit donc être testé sur un devoir plutôt que supposé à partir de cette page.
+**« Je n'ai pas le temps de lire une trace de plus. »** Alors réduisez la trace : quatre colonnes de tableau de décision, ou cinq minutes d'écriture en classe comme échantillon indépendant. Aucune étude ne rapporte de données sur le temps de correction de ces dispositifs ; l'argument de la charge de travail doit donc être testé sur un devoir plutôt que supposé à partir de cette page.
 
 **« Mes étudiants utiliseront l'IA quoi que dise la règle. »** Ils l'utiliseront, et la question de conception est de savoir quelle réponse votre devoir rend la plus facile. Une déclaration qui ne coûte rien et une grille qui récompense le processus font de la déclaration le chemin le moins cher. Ce mécanisme vient de la modélisation et non d'un essai contrôlé d'une politique de déclaration : traitez donc la prédiction comme raisonnable et non confirmée.
 
@@ -185,7 +185,7 @@ Ce mélange a une conséquence pratique. Changez un devoir, conservez la trace, 
 
 **« Le modèle note cette tâche aussi bien que moi. »** Des systèmes calibrés avec des grilles détaillées et des exemples traités peuvent bien noter certaines tâches. Une notation générique, non, et Mathew et al. montrent que le désaccord suit la qualité de la dissertation au lieu de se disperser au hasard, ce qui est le type d'erreur le plus difficile à remarquer. Testez l'outil sur votre propre corpus corrigé avant qu'il touche une note.
 
-**« Cela pénalise les étudiants dont l'anglais académique est plus faible. »** Cela le peut, si la règle traite l'expression et la paternité comme une seule chose. Séparez-les, et auditez la rétroaction par IA pour le schéma constaté par Tan et al., où un texte identique recevait plus d'éloges et moins de critique substantielle dès que des caractéristiques démographiques ou scolaires figuraient dans l'invite. Le corpus documente ce biais. Il ne rapporte pas de correctif testé ; votre propre comparaison est donc la vérification.
+**« Cela pénalise les étudiants dont l'anglais académique est plus faible. »** Cela le peut, si la règle traite l'expression et la paternité comme une seule chose. Séparez-les, et auditez la rétroaction par IA pour le schéma constaté par Tan et al., où un texte identique recevait plus d'éloges et moins de critique substantielle dès que des caractéristiques démographiques ou scolaires figuraient dans l'invite. Ce biais est documenté. Aucun correctif testé n'est rapporté ; votre propre comparaison est donc la vérification.
 
 ## À faire cette semaine
 
@@ -201,4 +201,4 @@ Ce mélange a une conséquence pratique. Changez un devoir, conservez la trace, 
 
 ## Où aller ensuite
 
-Le versant évaluation de cet argument, y compris la conception d'étapes authentifiées, se trouve dans [[redesign-assessment-ai-era]]. Pour le document de politique que les étudiants lisent réellement, voyez [[course-ai-policy]], et pour les outils de rétroaction eux-mêmes, [[ai-feedback-quality]]. [[verify-ai-output]] traite de ce que les étudiants doivent vérifier quand le modèle fournit une affirmation ou une source, et la page de concept [[coach-not-crutch-ai-writing]] énonce la frontière à laquelle cette page ne cesse de revenir.
+Le versant évaluation de cet argument, y compris la conception d'étapes authentifiées, se trouve dans [[redesign-assessment-ai-era]]. Pour le document de politique que les étudiants lisent réellement, voyez [[course-ai-policy]], et pour les outils de rétroaction eux-mêmes, [[ai-feedback-quality]]. [[verify-ai-output]] traite de ce que les étudiants doivent vérifier quand le modèle fournit une affirmation ou une source, et [[coach-not-crutch-ai-writing]] énonce la frontière qui compte le plus.

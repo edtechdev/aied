@@ -1,7 +1,7 @@
 ---
 title: "L'enseignement des STIM"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [teacher-dev]
 translation_of: concepts/stem-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -27,12 +27,12 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **L'enseignement des STIM** — l'enseignement des sciences, des technologies, de l'ingénierie et des mathématiques (science, technology, engineering, and mathematics) est le domaine le plus courant de la [[research-methods-aied|recherche]] sur l'[[ai-education|IA en éducation]] dans la base de connaissances. La structuration des savoirs en STIM, la clarté des réponses justes et fausses, et la nature computationnelle du domaine en font un terrain d'essai idéal pour le [[intelligent-tutoring|tutorat par IA]] et l'évaluation.
+> **L'enseignement des STIM** — l'enseignement des sciences, des technologies, de l'ingénierie et des mathématiques (science, technology, engineering, and mathematics) est le domaine le plus courant de la [[research-methods-aied|recherche]] sur l'[[ai-education|IA en éducation]]. La structuration des savoirs en STIM, la clarté des réponses justes et fausses, et la nature computationnelle du domaine en font un terrain d'essai idéal pour le [[intelligent-tutoring|tutorat par IA]] et l'évaluation.
 
 ## Questions à examiner
 
 - Les STIM sont le domaine le plus courant de la recherche sur l'IA en éducation parce que leurs savoirs sont structurés et comportent des réponses clairement justes ou fausses. Pensez-vous que cela fait des STIM l'endroit le plus facile pour enseigner avec l'IA — ou peut-être l'endroit où les limites de l'IA sont le plus aisément masquées ?
-- La page cite des recherches montrant que l'adoption de l'IA dans les écoles est « stratifiée par discipline » — normalisée en informatique, fortement prohibée en mathématiques. Pourquoi pensez-vous que la culture disciplinaire façonne si fortement l'acceptation de l'IA, et quelles en sont les conséquences pour les élèves ?
+- L'adoption de l'IA dans les écoles est « stratifiée par discipline » : normalisée en informatique, fortement prohibée en mathématiques. Pourquoi pensez-vous que la culture disciplinaire façonne si fortement l'acceptation de l'IA, et quelles en sont les conséquences pour les élèves ?
 - Si un élève en mathématiques utilise l'IA surtout pour vérifier des solutions et obtenir des explications, est-ce un étai ou une béquille ? Qu'est-ce qui détermine la différence, et où traceriez-vous la limite ?
 - Étant donné que les problèmes de STIM ont souvent des réponses vérifiables, quels usages de l'IA en STIM pensez-vous qui construisent réellement la compréhension, par opposition à ceux qui ne produisent qu'un résultat d'apparence correcte ?
 - Comment les qualités mêmes qui font des STIM un terrain idéal pour le tutorat par IA — des réponses claires, l'exactitude calculable — pourraient-elles occulter les parties des sciences et de l'ingénierie qui sont désordonnées, ouvertes et fondées sur le jugement ?

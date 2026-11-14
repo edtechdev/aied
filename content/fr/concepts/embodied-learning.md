@@ -1,14 +1,14 @@
 ---
 title: "Apprentissage incarné"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ ai_assist:
 
 L'apprentissage incarné est étroitement apparenté à l'[[active-learning|apprentissage actif]], à l'[[experiential-learning|apprentissage expérientiel]] et aux théories situées ou [[constructivist|constructivistes]]. L'affirmation clé est qu'un agent physique et manipulable aide les apprenants à relier des idées abstraites à des résultats concrets — un programme qui fait bouger un robot, ou un jeu de rôle avec un robot physique — de façons qu'une interaction purement fondée sur l'écran peut ne pas permettre. La robotique est l'incarnation la plus claire de l'IA en éducation, donnant aux apprenants quelque chose à voir, à toucher et à observer.
 
-## Comment l'apprentissage incarné apparaît dans la recherche de la base de connaissances
+## Comment l'apprentissage incarné apparaît dans la recherche
 
 - **La programmation ancrée :** [[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]] ancre la [[cs-education|programmation à blocs]] dans une exécution robotique incarnée, créant une boucle serrée d'écriture, d'exécution, d'observation et de révision, de sorte que les apprenants voient leur code devenir un comportement.
 - **L'interaction sociale robotique :** les [[educational-robotics|robots sociaux]] employés pour la [[storytelling-in-education|narration]] ([[motibo-digital-storytelling-robots-motivation-2026|MotiBo]], [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]), le jeu de rôle ([[remind-robot-mediated-roleplay-antibullying-2026|REMind]]) et la langue des signes ([[pepper-robot-sign-language-lis-2025|Pepper]]) offrent une interaction sociale incarnée qui soutient l'apprentissage relationnel et [[social-emotional-learning|émotionnel]].
@@ -49,7 +49,7 @@ L'apprentissage incarné est étroitement apparenté à l'[[active-learning|appr
 
 ## L'intelligence incarnée et la critique de l'IA désincarnée
 
-Un second fil, plus théorique, de la recherche de la base de connaissances sur l'incarnation porte sur le rôle du *corps* dans l'apprentissage [[sociocultural-learning|médié par l'IA]] — non pas par des robots physiques, mais par la question de savoir si des [[ai-technologies|systèmes d'IA]] eux-mêmes sont (ou peuvent être) incarnés. Ces travaux mettent en cause la domination des modèles d'IA symboliques et désincarnés, bâtis sur un traitement abstrait de l'information :
+Un second fil, plus théorique, de la recherche sur l'incarnation porte sur le rôle du *corps* dans l'apprentissage [[sociocultural-learning|médié par l'IA]] — non pas par des robots physiques, mais par la question de savoir si des [[ai-technologies|systèmes d'IA]] eux-mêmes sont (ou peuvent être) incarnés. Ces travaux mettent en cause la domination des modèles d'IA symboliques et désincarnés, bâtis sur un traitement abstrait de l'information :
 
 - **L'IA incarnée comme principe de conception.** Le cadre **E3-HOT** soutient que, pour soutenir l'agence cognitive des apprenants et leur [[critical-thinking|pensée d'ordre supérieur]] (plutôt que d'encourager la [[cognitive-offloading|délégation cognitive]]), l'IA devrait être conçue autour d'une *intelligence incarnée* — ancrage situationnel, participation incarnée et création cognitive — au sein d'un environnement d'apprentissage intégrant le virtuel et le réel.([[zhu-e3-hot-embodied-intelligence-sustainable-learning]])
 - **Les limites de l'[[generative-ai|IA générative]] désincarnée.** Des travaux post-cognitivistes soutiennent que les systèmes actuels d'IA générative manquent de proprioception, d'agence multimodale et de pratique incarnée, et plaident pour une « IA incarnée » ancrée dans la situationnalité, l'émergence et le couplage sensorimoteur, en proposant une chorégraphie perceptivo-[[affective-computing|affective]] pour l'interaction humain–[[student-ai-interaction|IA]].([[videla-embodied-ai-education-choreography]])

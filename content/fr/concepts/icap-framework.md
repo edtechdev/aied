@@ -1,7 +1,7 @@
 ---
 title: "Cadre ICAP"
 created: "2026-08-14T04:33:38-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -9,7 +9,7 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-11-10T18:55:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -31,7 +31,7 @@ ai_assist:
 
 - Songez à la dernière fois où vous avez « appris » quelque chose en regardant une vidéo ou en lisant. Le cadre ICAP qualifierait cela de passif. Que retenez-vous réellement d'une exposition passive, par rapport à ce que vous en retenez en l'expliquant à quelqu'un d'autre ?
 - ICAP ordonne l'engagement du passif à l'actif, puis au constructif, puis à l'interactif. Où les outils d'IA que vous avez utilisés ont-ils tendance à maintenir les apprenants — et le fait de cliquer à travers des exercices adaptatifs compte-t-il comme un réel engagement ou comme une simple activité ?
-- La page soutient que le déplacement le plus lourd de conséquences est celui de l'Actif vers le Constructif — produire des explications ou de nouveaux artefacts plutôt que se contenter d'appliquer des connaissances. Pourquoi produire quelque chose de nouveau pourrait-il être l'étape qui transforme réellement la compréhension ?
+- Le déplacement le plus lourd de conséquences est celui de l'Actif vers le Constructif : produire des explications ou de nouveaux artefacts plutôt que se contenter d'appliquer des connaissances. Pourquoi produire quelque chose de nouveau pourrait-il être l'étape qui transforme réellement la compréhension ?
 - Une étude a montré que les experts humains surpassent de loin les modèles d'IA pour l'étiquetage des niveaux d'engagement. Si les systèmes automatisés sous-estiment systématiquement l'engagement, comment devrions-nous traiter les métriques d'« engagement » générées par l'IA ?
 - ICAP montre qu'un outil qui répond à votre place vous maintient passif, tandis qu'un outil qui incite et qui questionne vous pousse vers un engagement constructif et interactif. Quel choix de conception feriez-vous pour vos apprenants ?
 - Le cadre est utilisé à la fois comme cible de conception et comme grille d'évaluation. Comment pourriez-vous utiliser ICAP dans votre propre enseignement ou conception pour déterminer si les apprenants sont réellement engagés, et pas simplement actifs ?

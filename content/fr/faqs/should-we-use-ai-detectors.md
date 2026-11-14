@@ -1,7 +1,7 @@
 ---
 title: "Devrait-on utiliser des détecteurs d'IA ?"
 created: "2026-09-22T19:16:30-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 weight: 85
 foundations: [academic-integrity]
 assessment: [ai-detection, assessment-validity]
@@ -9,7 +9,7 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-source_updated: "2026-11-02T02:47:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/should-we-use-ai-detectors
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -66,7 +66,7 @@ Il y a un problème de données de référence sous tout cela. Les détecteurs s
 
 ## Regardez les chiffres d'exactitude avant d'en citer un
 
-Le test contrôlé le plus solide de la base de connaissances a examiné 642 résumés publiés en anglais, dans quatre domaines et sur deux périodes. À un seuil de 0.50, deux détecteurs commerciaux ont signalé une révision légère par IA conforme aux consignes dans 38-80% des cas, signalé des originaux 2023-25 non modifiés dans 9-15% des cas (hors [[stem-education|STEM]] bien au-dessus du STEM, p<0.001) et, une fois le texte passé par un service d'humanisation, attrapé moins de 4% des réécritures étiquetées IA, soit un taux de faux négatifs supérieur à 96%. Les auteurs parlent d'un cercle vicieux de l'intégrité : les étudiants qui déclarent et révisent légèrement sont ceux que l'outil attrape, et ceux qui cherchent à l'esquiver ne le sont pas. Leur recommandation est explicite : les scores de détecteurs ne devraient jamais servir de preuve autonome d'inconduite ([[karr-ai-detection-humanization-2026]]).
+Le test contrôlé le plus solide a examiné 642 résumés publiés en anglais, dans quatre domaines et sur deux périodes. À un seuil de 0.50, deux détecteurs commerciaux ont signalé une révision légère par IA conforme aux consignes dans 38-80% des cas, signalé des originaux 2023-25 non modifiés dans 9-15% des cas (hors [[stem-education|STEM]] bien au-dessus du STEM, p<0.001) et, une fois le texte passé par un service d'humanisation, attrapé moins de 4% des réécritures étiquetées IA, soit un taux de faux négatifs supérieur à 96%. Les auteurs parlent d'un cercle vicieux de l'intégrité : les étudiants qui déclarent et révisent légèrement sont ceux que l'outil attrape, et ceux qui cherchent à l'esquiver ne le sont pas. Leur recommandation est explicite : les scores de détecteurs ne devraient jamais servir de preuve autonome d'inconduite ([[karr-ai-detection-humanization-2026]]).
 
 Les revues ont cessé d'essayer de classer les outils entre eux. Une [[meta-analysis-systematic-review|revue systématique]] de 90 études publiées entre 2020 et 2026 rapporte que les taux de faux positifs varient si largement selon les outils et les cadres d'évaluation qu'une comparaison [[quantitative-research|quantitative]] directe est impossible, citant parmi les causes les biais algorithmiques et linguistiques, une compréhension contextuelle limitée, des traits linguistiques de surface et des données d'entraînement insuffisamment diversifiées ([[maghami-ai-detection-false-positives-2026|Maghami, Ho et Camilleri (2026)]]). Les remèdes qu'elle nomme sont procéduraux plutôt que techniques : une pratique de détection transparente, une [[human-in-the-loop-ai|relecture humaine]], une littératie en IA, une politique institutionnelle claire et une voie de recours accessible.
 
@@ -104,7 +104,7 @@ Traitez un entretien de vérification comme une étape de la procédure, avec un
 
 Commencez par l'avis. Dites à l'étudiant ce qui a suscité l'inquiétude, en langage clair, et dites à quoi sert l'entretien. Si l'inquiétude vient d'un score de détecteur, dites-le, et dites que le score n'est pas un constat. Annoncez seulement à un étudiant qu'il est accusé de tricherie, et la rencontre devient une défense de sa personne plutôt qu'un compte rendu du travail.
 
-Interrogez ensuite le travail lui-même. Quelle thèse cherchiez-vous à défendre dans cette section. D'où venait cette preuve. Pourquoi l'avez-vous organisée ainsi. Qu'avez-vous écarté. Un étudiant qui a écrit le texte peut répondre à ces questions au niveau des décisions. L'étudiant qui ne l'a pas écrit répondra au niveau du sujet, et la différence apparaît vite sans que personne ait besoin de prouver une intention.
+Interrogez ensuite le travail lui-même. Quelle thèse cherchiez-vous à défendre dans ce passage. D'où venait cette preuve. Pourquoi l'avez-vous organisée ainsi. Qu'avez-vous écarté. Un étudiant qui a écrit le texte peut répondre à ces questions au niveau des décisions. L'étudiant qui ne l'a pas écrit répondra au niveau du sujet, et la différence apparaît vite sans que personne ait besoin de prouver une intention.
 
 Préservez le droit au silence. Refuser de répondre ne concède rien, et une procédure qui traite le refus comme un aveu ne survivra pas à un appel. Consignez ce qui a été demandé, ce qui a été répondu et ce qui a été décliné.
 
@@ -134,7 +134,7 @@ Les normes de preuve viennent ensuite. Les constats d'inconduite exigent des pre
 
 Le périmètre est le troisième point. Les interdictions générales d'IA qui ne séparent pas la transcription et l'OCR de la rédaction générative peuvent retirer un outil d'assistance dont dépendent des étudiants ayant des troubles affectant le contrôle moteur, la lisibilité de l'écriture manuscrite ou la précision de la frappe, dont plusieurs ont été abandonnés et où la transcription par IA comble le vide. C'est une exposition juridique autant qu'une imprécision ([[wright-transcription-not-generation-2026]]). Nommez les outils d'[[assistive-technology|assistance]] et de transcription dans le texte de la politique.
 
-L'achat est le quatrième. Les détecteurs stockent le travail des étudiants sur des serveurs tiers, parfois à l'étranger sous des protections de la [[privacy]] plus faibles, ce qui inscrit la faille, la conservation et la réutilisation commerciale au registre des risques de votre établissement plutôt qu'à la page marketing du fournisseur. Les conditions devraient couvrir la conservation, l'usage pour l'[[llm-training-and-fine-tuning|entraînement de modèles]], le lieu de stockage, la notification de violation et les droits d'appel ([[bassett-ai-detectors-education-2026]]). Le compte rendu de l'exposition juridique dans la base de connaissances se trouve dans [[legal-issues-and-risks]], et il est honnête sur ses limites : il documente des procédures, des catégories de preuves et la fiabilité des instruments, non des issues contentieuses.
+L'achat est le quatrième. Les détecteurs stockent le travail des étudiants sur des serveurs tiers, parfois à l'étranger sous des protections de la [[privacy]] plus faibles, ce qui inscrit la faille, la conservation et la réutilisation commerciale au registre des risques de votre établissement plutôt qu'à la page marketing du fournisseur. Les conditions devraient couvrir la conservation, l'usage pour l'[[llm-training-and-fine-tuning|entraînement de modèles]], le lieu de stockage, la notification de violation et les droits d'appel ([[bassett-ai-detectors-education-2026]]). L'exposition juridique est cartographiée dans [[legal-issues-and-risks]], qui documente des procédures, des catégories de preuves et la fiabilité des instruments, non des issues contentieuses.
 
 Ce qui réduit le risque est procédural. Ne traitez jamais une sortie comme une preuve autonome ou un déclencheur automatique. Documentez la norme que votre procédure applique. Donnez un avis et une véritable possibilité de répondre au dossier. Offrez une vérification quand le dossier ne repose que sur le style. Conservez la piste d'audit qui montre que tout cela a eu lieu.
 
@@ -166,7 +166,7 @@ Un étudiant qui recourt à la transcription parce que la frappe n'est pas fiabl
 
 ## Ce qui va vous revenir dessus
 
-**« Notre fournisseur annonce un taux de faux positifs de 1%. »** Le détecteur sous licence de Vanderbilt affirmait exactement cela, et l'affirmation n'a pas survécu à la tentative de l'université de la valider. Les benchmarks indépendants ne placent aucun outil au-dessus de 80% d'exactitude ([[teichmann-detecting-undetectable-misconduct-2026]]). Demandez l'étude de validation et le corpus utilisé, puis demandez à la refaire vous-même.
+**« Notre fournisseur annonce un taux de faux positifs de 1%. »** Le détecteur sous licence de Vanderbilt affirmait exactement cela, et l'affirmation n'a pas survécu à la tentative de l'université de la valider. Les benchmarks indépendants ne placent aucun outil au-dessus de 80% d'exactitude ([[teichmann-detecting-undetectable-misconduct-2026]]). Demandez l'étude de validation et les données utilisées, puis demandez à la refaire vous-même.
 
 **« Nous ne l'utilisons que comme une pièce parmi d'autres. »** La norme est une preuve satisfaisant à la balance des probabilités, et un score combiné à des marqueurs, des comparaisons de style, des jugements de LLM ou du silence ne la satisfait toujours pas ([[bassett-ai-detectors-education-2026]]). Si la commission n'accepterait pas le raisonnement énoncé à voix haute, le dossier ne devrait pas le contenir.
 
@@ -176,7 +176,7 @@ Un étudiant qui recourt à la transcription parce que la frappe n'est pas fiabl
 
 **« Un étudiant qui n'a rien à cacher n'a rien à craindre. »** L'étude des 642 résumés a trouvé une révision légère conforme signalée dans 38-80% des cas à un seuil de 0.50, et le benchmark kazakh a trouvé 81.4% et 79.6% de passages humains prouvés signalés par des détecteurs tels que publiés ([[karr-ai-detection-humanization-2026]], [[kazakh-ai-text-detectors-2026]]). Un dossier vierge n'offre aucune protection quand le signal est le style. C'est aussi pourquoi les auteurs kazakhs signalent leurs propres taux éducatifs comme le chiffre le plus faible de l'étude, et pourquoi vous ne devriez pas les citer comme un taux sur des dissertations étudiantes.
 
-**« Pouvons-nous simplement exiger une déclaration et traiter l'absence comme une culpabilité ? »** Une déclaration manquante n'est pas une preuve d'usage caché, et la traiter comme telle rend la dissimulation rationnelle. Des cadres précis liés à des étapes cognitives, où la déclaration sincère est protégée de toute pénalité, extraient plus d'informations que la surveillance ([[gonsalves-student-non-compliance-ai-declarations-2025]], [[chang-should-i-tell-my-teacher-ai-disclosure-2026]]). Les preuves de cette page portent sur ce qui produit la déclaration. Elles ne disent rien du nombre de tricheries qu'un régime de déclaration empêche.
+**« Pouvons-nous simplement exiger une déclaration et traiter l'absence comme une culpabilité ? »** Une déclaration manquante n'est pas une preuve d'usage caché, et la traiter comme telle rend la dissimulation rationnelle. Des cadres précis liés à des étapes cognitives, où la déclaration sincère est protégée de toute pénalité, extraient plus d'informations que la surveillance ([[gonsalves-student-non-compliance-ai-declarations-2025]], [[chang-should-i-tell-my-teacher-ai-disclosure-2026]]). Les preuves portent sur ce qui produit la déclaration. Elles ne disent rien du nombre de tricheries qu'un régime de déclaration empêche.
 
 ## À faire cette semaine
 

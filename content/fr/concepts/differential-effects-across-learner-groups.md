@@ -1,7 +1,7 @@
 ---
 title: "Effets différentiels selon les groupes d'apprenants"
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -13,7 +13,7 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Effets différentiels selon les groupes d'apprenants** — ce que la recherche sur l'[[ai-education|IA en éducation]] découvre quant à la manière dont l'*usage* de l'IA et ses *effets* diffèrent selon les types d'apprenants : les [[inclusive-learning|élèves en situation de handicap]] et les élèves [[neurodiversity|neurodivergents]], les apprenants de langue seconde et les apprenants [[multilingual-learning|multilingues]], les filles et les garçons, les élèves minorisés, les élèves issus de milieux à faible revenu, les élèves ruraux, les étudiants de première génération, les étudiants internationaux et les [[adult-learning|apprenants adultes]]. Le schéma qu'il faut retenir est inégal dans deux directions à la fois : certains fils disposent de données probantes réelles (handicap, langue) tandis que d'autres sont presque vides (première génération, internationaux, réfugiés), et même les fils solides établissent rarement qu'un *groupe* diffère — ils établissent qu'un outil a aidé ou nui à un échantillon de ce groupe, ce qui est une affirmation différente. Cette page cartographie ce qui existe, ce qu'il montre, et les raisons méthodologiques pour lesquelles une moyenne de groupe n'est pas une prédiction à propos d'un apprenant.
+> **Effets différentiels selon les groupes d'apprenants** — ce que la recherche sur l'[[ai-education|IA en éducation]] découvre quant à la manière dont l'*usage* de l'IA et ses *effets* diffèrent selon les types d'apprenants : les [[inclusive-learning|élèves en situation de handicap]] et les élèves [[neurodiversity|neurodivergents]], les apprenants de langue seconde et les apprenants [[multilingual-learning|multilingues]], les filles et les garçons, les élèves minorisés, les élèves issus de milieux à faible revenu, les élèves ruraux, les étudiants de première génération, les étudiants internationaux et les [[adult-learning|apprenants adultes]]. Le schéma qu'il faut retenir est inégal dans deux directions à la fois. Certains fils disposent de données probantes réelles (handicap, langue) tandis que d'autres sont presque vides (première génération, internationaux, réfugiés). Même les fils solides établissent rarement qu'un *groupe* diffère : ils établissent qu'un outil a aidé ou nui à un échantillon de ce groupe, ce qui est une affirmation différente. D'un fil à l'autre, ce qui existe, ce qu'il montre et les raisons méthodologiques pour lesquelles une moyenne de groupe n'est pas une prédiction à propos d'un apprenant varient fortement.
 
 ## Questions à examiner
 
@@ -41,14 +41,14 @@ ai_assist:
 - Les recherches sur les élèves en situation de handicap font état d'effets qui varient selon la catégorie de handicap. Si deux catégories se situent à des tailles d'effet très différentes dans une même [[meta-analysis-systematic-review|méta-analyse]], qu'est-ce que cela dit du fait de traiter le « handicap » comme un groupe unique dans une décision de conception ?
 - Plusieurs études montrent que des outils d'IA ne diffèrent *pas* selon le genre dans leurs effets, tandis que d'autres travaux montrent que la [[ai-feedback-quality|rétroaction par l'IA]] et l'écriture assistée par l'IA reproduisent *bien* les stéréotypes de genre lorsque des personas ou des invites les portent. Comment les deux peuvent-ils être vrais à la fois ?
 - La plupart des travaux sur l'équité testent des personas d'étudiants simulés plutôt que de véritables apprenants, parce que les attributs démographiques réels ne sont pas accessibles au modèle au moment de l'inférence dans la plupart des déploiements. Qu'est-ce qu'un audit contrefactuel de personas peut établir, et que ne peut-il pas établir ?
-- En passant en revue les fils de cette page, quels groupes d'apprenants sont réellement représentés dans les études qui sous-tendent la validation de votre outil — et que feriez-vous d'un groupe absent ?
+- Quels groupes d'apprenants sont réellement représentés dans les études qui sous-tendent la validation de votre outil, et que feriez-vous d'un groupe absent ?
 - Une intervention qui élève les résultats pour tous tout en comblant un écart (en aidant le plus les élèves qui étaient en retard) a une histoire d'équité différente de celle d'une intervention qui élève la moyenne. Lorsque vous évaluez un pilote, mesurez-vous l'écart ou la moyenne ?
 
 ## Introduction
 
-Deux questions se cachent dans la phrase « est-ce que l'IA fonctionne pour *ce type* d'étudiant ? ». La première porte sur les effets : un outil produit-il des résultats différents selon les groupes ? La seconde porte sur l'usage : différents groupes adoptent-ils, accèdent-ils ou interagissent-ils différemment avec un même outil, ce qui peut façonner les résultats sans aucun effet différentiel. Cette page traite des deux, groupe par groupe, et dit franchement où s'arrête la littérature.
+Deux questions se cachent dans la phrase « est-ce que l'IA fonctionne pour *ce type* d'étudiant ? ». La première porte sur les effets : un outil produit-il des résultats différents selon les groupes ? La seconde porte sur l'usage : différents groupes adoptent-ils, accèdent-ils ou interagissent-ils différemment avec un même outil, ce qui peut façonner les résultats sans aucun effet différentiel. Les deux questions trouvent une réponse groupe par groupe, et la littérature s'arrête franchement court par endroits.
 
-Elle n'est délibérément pas un doublon de ses voisines. L'[[equity-in-ai-education|Équité dans l'IA en éducation]] porte le cadre normatif et structurel — accès, représentation et équité des résultats, et l'argument sur ce que l'IA en éducation *devrait* faire. L'[[inclusive-learning|Apprentissage inclusif]] porte le cadre de conception, y compris la [[universal-design-for-learning|Conception universelle de l'apprentissage]]. La [[digital-divide|Fracture numérique]] couvre les couches de l'accès et des compétences. [[neurodiversity]], l'[[special-education|Enseignement spécialisé]], l'[[accessibility]] et l'[[multilingual-learning|Apprentissage multilingue]] approfondissent des groupes uniques. Ce qui reste à cette page, c'est la carte transversale des données probantes et la question d'appréciation : comment ces effets sont estimés, quels groupes sont étudiés du tout, et ce qu'un constat au niveau du groupe vous autorise à faire.
+Elle n'est délibérément pas un doublon de ses voisines. L'[[equity-in-ai-education|Équité dans l'IA en éducation]] porte le cadre normatif et structurel — accès, représentation et équité des résultats, et l'argument sur ce que l'IA en éducation *devrait* faire. L'[[inclusive-learning|Apprentissage inclusif]] porte le cadre de conception, y compris la [[universal-design-for-learning|Conception universelle de l'apprentissage]]. La [[digital-divide|Fracture numérique]] couvre les couches de l'accès et des compétences. [[neurodiversity]], l'[[special-education|Enseignement spécialisé]], l'[[accessibility]] et l'[[multilingual-learning|Apprentissage multilingue]] approfondissent des groupes uniques. Ce qui reste, c'est la carte transversale des données probantes et la question d'appréciation : comment ces effets sont estimés, quels groupes sont étudiés du tout, et ce qu'un constat au niveau du groupe vous autorise à faire.
 
 ## Comment les différences entre groupes sont rapportées, et pourquoi la plupart ne peuvent pas l'être
 
@@ -66,7 +66,7 @@ Elle n'est délibérément pas un doublon de ses voisines. L'[[equity-in-ai-educ
 
 ## Handicap et neurodivergence
 
-C'est le fil le plus profond de la base de connaissances, et celui où le rapport est le plus solide.
+Le handicap est le fil le plus profond, et celui où le rapport est le plus solide.
 
 - **Les effets sont réels mais inégalement répartis selon le résultat.** Chez [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang et al. (2024)]], la [[learning-gains|réussite scolaire]] a montré l'effet le plus fort (k = 80, g = 0.929), devant les compétences de la vie quotidienne et autres (g = 0.766) et les compétences socioémotionnelles (k = 144, g = 0.382). Un biais de publication était présent (test d'Egger, β = 2.837, p < .001) ; la méthode trim-and-fill a ramené l'estimation regroupée à g = 0.2694, laquelle demeurait statistiquement significative. Lisez l'effet phare et l'effet ajusté du biais ensemble.
 - **Le champ s'est réorganisé autour de l'[[generative-ai|IA générative]].** La [[assistive-tech-neurodivergent-higher-ed-review-2026|revue de cadrage des technologies d'assistance numérique pour les étudiants neurodivergents]] a examiné 766 références pour retenir 40 études empiriques, dont 15 utilisaient l'IA générative et 11 des formats immersifs. Ce fil est petit et récent plutôt que mature.
@@ -81,7 +81,7 @@ C'est le fil le plus profond de la base de connaissances, et celui où le rappor
 Par le nombre d'articles, c'est le fil le plus large, et il se divise nettement entre effets des outils et torts causés par les outils.
 
 - **Les effets des outils sont prometteurs et bruités.** [[robot-assisted-language-learning-meta-analysis-2026|Wang, Zhang et Zou (2026)]] ont réalisé une méta-analyse de 11 études (17 tailles d'effet, N = 595) sur l'[[language-learning|apprentissage des langues]] assisté par robot et ont trouvé un effet global positif (g = 0.83, IC à 95% [0.46, 1.21]) avec une forte hétérogénéité (I² = 84.4%) ; sur six modérateurs testés, seul le type d'interaction robot-apprenant était significatif. Un socle de données probantes de cette taille soutient un [[benchmark|repère]] provisoire, non une décision d'achat.
-- **L'infrastructure elle-même est inégale avant tout usage d'outil.** [[structural-silence-underrepresented-language-ai-2026|Roy et Roy (2026)]] documentent le fossé des corpus en prenant le bengali pour cas : moins de 0.5% des contenus web mondiaux contre environ 49.5% pour l'anglais, alors que les locuteurs du bengali représentent près de 4% de la population mondiale.
+- **L'infrastructure elle-même est inégale avant tout usage d'outil.** [[structural-silence-underrepresented-language-ai-2026|Roy et Roy (2026)]] documentent le fossé des contenus web en prenant le bengali pour cas : moins de 0.5% des contenus web mondiaux contre environ 49.5% pour l'anglais, alors que les locuteurs du bengali représentent près de 4% de la population mondiale.
 - **La langue d'enseignement change les résultats chez 294 étudiants de l'enseignement supérieur.** La même revue rapporte que des contenus en langue étrangère donnaient des résultats inférieurs à un enseignement en langue maternelle, et qu'un enseignement de l'[[cs-education|programmation]] bilingue surpassait un enseignement uniquement en anglais.
 - **Les détecteurs pénalisent les rédacteurs de langue seconde.** [[hadra-ai-detector-accuracy-efl-2026|Hadra, Cambridge et Mesbah (2026)]] ont testé Turnitin et Originality sur 192 textes : un détecteur classait correctement 48 textes sur 48 rédigés par des professionnels, mais classait mal quatre des 48 textes d'étudiants d'anglais langue étrangère (91.6%). L'asymétrie est le point essentiel — l'erreur frappe le groupe dont l'écriture est déjà examinée à la loupe.
 
@@ -108,24 +108,24 @@ Ce fil est faible en nombre d'articles et fort en mécanisme, parce que les donn
 
 - **La littératie numérique, et non l'usage de l'IA, est le médiateur.** [[ai-divide-ses-personality-primary-education-2026|Wang et collègues (2026)]] ont modélisé des données d'enquête et de registre national portant sur 4,497 élèves de sixième année aux Pays-Bas et ont montré que le lien entre traits de personnalité et réussite scolaire passait par la littératie numérique plutôt que par l'intensité d'usage de l'IA, les différences de littératie numérique étant davantage déterminées par la personnalité que par le statut socioéconomique — l'avantage lié au statut socioéconomique opérant indépendamment de l'engagement envers l'IA. Le cadrage classique fondé sur le seul statut socioéconomique est incomplet.
 - **La géographie peut être la contrainte déterminante.** Le récit d'[[arc-hubs-k12-ai-robotics-rural-2026|ARC]] sur la robotique et l'éducation à l'IA dans le [[k-12|primaire et secondaire]] rapporte que la participation rurale à la FIRST LEGO League a chuté pendant la saison 2020 en distanciel et ne s'est jamais rétablie, tandis que la participation urbaine s'est progressivement rétablie, et identifie le mentorat technique local et soutenu — et non les kits ni le [[curriculum-design|programme]] — comme la contrainte distribuée géographiquement.
-- **Les apprenants adultes constituent un cas de conception distinct,** traité par l'[[adult-learning|Apprentissage des adultes]] et par les travaux de la base de connaissances sur l'andragogie plutôt que par des études portant sur la maternelle à la terminale.
+- **Les apprenants adultes constituent un cas de conception distinct,** traité par l'[[adult-learning|Apprentissage des adultes]] et par la littérature sur l'andragogie plutôt que par des études portant sur la maternelle à la terminale.
 - **L'accès continue de conditionner tout le reste :** voir [[digital-divide|Fracture numérique]] et le constat que l'[[access-not-enough-ai-tutoring-2026|accès au tutorat par l'IA ne suffit pas]] sans intégration [[pedagogy|pédagogique]].
 
 ## Contexte disciplinaire
 
-Le contexte disciplinaire est un axe d'effets différentiels que la carte groupe par groupe de cette page ne portait pas encore : un même outil peut répartir son bénéfice de manière inégale selon les domaines plutôt que selon les données démographiques des étudiants.
+Le contexte disciplinaire est un axe d'effets différentiels supplémentaire : un même outil peut répartir son bénéfice de manière inégale selon les domaines plutôt que selon les données démographiques des étudiants.
 
 - **Un outil peut engager une discipline et en désengager une autre.** Dans une quasi-expérience de deux semaines menée auprès de 130 étudiants de premier cycle répartis en équipes pluridisciplinaires, [[generative-ai|ChatGPT]] a accru l'[[student-engagement|engagement]] physique des étudiants en STIM tout en le réduisant chez les étudiants hors STIM (Q = 9.87, p < .05), et les notes rédigées sans ChatGPT ont obtenu de meilleures notes sur la diversité et l'intégration des idées disciplinaires ([[caeai-chatgpt-interdisciplinary-stem-nonstem-2026|Zhu et al. (2026)]]).
 
 ## Là où les données probantes manquent
 
-Le constat honnête de cette revue tient à la minceur de certains groupes. Chacun d'eux constitue un manque réel dans le socle de données probantes, et non un manque de cette page.
+Le constat honnête de cette revue tient à la minceur de certains groupes. Chacun d'eux constitue un manque réel dans le socle de données probantes.
 
 - **Les étudiants de première génération :** une étude rapporte une différence d'usage plutôt qu'un effet. Dans [[student-ai-inquiry-types-cs2-2026|une étude d'enquête en CS2]], les étudiants en cours de cycle traitaient l'IA comme un partenaire actif de [[problem-solving|résolution de problèmes]], tandis que les étudiants de première génération adoptaient un rôle confirmatoire, orienté vers la validation, et posaient moins de questions dans l'ensemble.
 - **Les étudiants de première génération : la première estimation d'effet, et elle va dans le mauvais sens.** L'[[rct|essai contrôlé randomisé]] de [[liu-course-integrated-ai-tutoring-rct-2026|Liu et al. (2026)]] portant sur un [[intelligent-tutoring|tuteur d'IA]] intégré au cours fournit ce qui manque à l'entrée ci-dessus — un effet différentiel mesuré plutôt qu'un schéma d'usage. Sur l'échantillon complet, l'effet de l'accès au tuteur sur les notes finales était de 2.87 points (0.28 écart-type) plus négatif pour les étudiants de première génération, ce qui implique −5.10 points (−0.50 écart-type) pour eux contre −2.23 points (−0.22 écart-type) pour leurs pairs ; l'effet différentiel était plus fort dans l'échantillon apparié exact (−3.89 points, −0.35 écart-type), et les étudiants de première génération ont aussi perdu davantage de points de devoirs et de consultations de pages de la plateforme. L'étude ne rapporte aucun mécanisme et sa précision varie selon le résultat, mais la direction est inverse du récit de réduction de l'écart : les étudiants ayant le moins d'accès préalable au [[student-support-and-success|soutien scolaire]] ont porté le coût mesuré le plus élevé.
 - **Les étudiants internationaux :** une étude de [[mixed-methods-research|méthodes mixtes]] (enquête n = 60, entretiens n = 14) sur le [[international-students-conversational-ai-adaptation|soutien à l'adaptation interculturelle]].
 - **Les étudiants internationaux : un schéma d'engagement mesuré, et non une estimation d'effet.** Sur 270 étudiants internationaux issus de minorités ethniques répartis dans sept [[business-education|écoles de commerce]] britanniques, l'usage déclaré de l'[[generative-ai]] était associé positivement aux quatre dimensions d'[[student-engagement|engagement]] — le plus fortement à l'engagement agentique (β = 0.429) — les conditions facilitantes (β = 0.369) étant le plus fort prédicteur de l'intention d'usage ([[bjet-genai-engagement-minority-ethnic-students-2026|Adekoya et al. (2026)]]).
-- **Les élèves doués et à haut niveau :** pratiquement non étudiés comme groupe dans ce corpus.
+- **Les élèves doués et à haut niveau :** pratiquement non étudiés comme groupe.
 - **Les apprenants réfugiés, immigrés et déplacés :** aucune étude.
 - **Le genre est encore analysé comme binaire** dans la plupart des travaux ci-dessus, et les catégories de handicap varient selon les études, si bien que la comparaison inter-études du « même » groupe a des limites.
 
@@ -188,9 +188,9 @@ Le constat honnête de cette revue tient à la minceur de certains groupes. Chac
 - [[ai-divide-ses-personality-primary-education-2026]] — 4,497 étudiants : c'est la littératie numérique, et non l'usage de l'IA, qui médiatise l'écart
 - [[arc-hubs-k12-ai-robotics-rural-2026]] — Une participation rurale qui ne s'est jamais rétablie, et le mentorat comme contrainte
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — Une interaction de sous-groupe dont l'intervalle de confiance croise zéro
-- [[student-ai-inquiry-types-cs2-2026]] — Le seul constat d'usage du corpus portant sur la première génération
-- [[international-students-conversational-ai-adaptation]] — La seule étude du corpus portant sur les étudiants internationaux
-- [[liu-course-integrated-ai-tutoring-rct-2026]] — La première estimation d'effet du corpus pour les étudiants de première génération : l'accès au tuteur leur a coûté 0.50 écart-type de note finale contre 0.22 pour leurs pairs (Liu et al. 2026)
+- [[student-ai-inquiry-types-cs2-2026]] — Le seul constat d'usage portant sur la première génération
+- [[international-students-conversational-ai-adaptation]] — La seule étude portant sur les étudiants internationaux
+- [[liu-course-integrated-ai-tutoring-rct-2026]] — La première estimation d'effet pour les étudiants de première génération : l'accès au tuteur leur a coûté 0.50 écart-type de note finale contre 0.22 pour leurs pairs (Liu et al. 2026)
 - [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre : évaluer les interventions d'équité a posteriori dans les systèmes d'alerte précoce contrôlés par un fournisseur
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — Une variable de regroupement fondée sur les connaissances, étayée par des preuves de processus : des groupes appariés sur les connaissances préalables mais différant par la diversité de leurs préconceptions ont mobilisé la même IA différemment (Wang et al. 2026)
 - [[porcaro-ai-grading-benchmark-2026]] — Au-delà de l'accord : 22 correcteurs invités à répondre à des sondes dont la bonne réponse est connue, et la plupart se laissent convaincre (Porcaro 2026)

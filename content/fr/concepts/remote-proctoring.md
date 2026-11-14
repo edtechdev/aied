@@ -1,7 +1,7 @@
 ---
 title: Surveillance à distance des examens
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -10,7 +10,7 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 translation_of: concepts/remote-proctoring
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -30,12 +30,12 @@ ai_assist:
 
 ## Questions à examiner
 
-- Avant de lire, lorsque vous imaginez « l'intégrité académique dans les examens en ligne », quel est votre premier réflexe sur la manière de la préserver — et ce réflexe porte-t-il sur la détection des tricheurs ou sur la construction de la confiance ? La page soutient que ces deux approches traduisent deux philosophies très différentes.
+- Avant de lire, lorsque vous imaginez « l'intégrité académique dans les examens en ligne », quel est votre premier réflexe sur la manière de la préserver — et ce réflexe porte-t-il sur la détection des tricheurs ou sur la construction de la confiance ? Ces deux réflexes traduisent deux philosophies très différentes.
 - La surveillance à distance va d'un humain qui observe par webcam à des systèmes d'IA qui analysent les mouvements des yeux, la posture de la tête et les expressions du visage. Qu'est-ce qu'un système d'IA observe *réellement* lorsqu'il signale un « comportement suspect », et à quel point êtes-vous sûr que regarder ailleurs de l'écran équivaut à tricher ?
-- La page avertit que le contrôle peut être contre-productif : être observé accroît l'[[anxiety-and-stress|anxiété d'examen]], et les étudiants stressés peuvent être *plus* enclins à tricher. Pouvez-vous penser à un moment où une pression ou une surveillance a affecté votre propre performance ? Cette expérience mine-t-elle l'argument en faveur de la surveillance ?
+- La surveillance peut se retourner contre elle-même : l'anxiété monte sous l'observation, et les étudiants stressés peuvent être *plus* enclins à tricher. Pouvez-vous penser à un moment où une pression ou une surveillance a affecté votre propre performance ? Cette expérience mine-t-elle l'argument en faveur de la surveillance ?
 - La surveillance automatisée capte l'espace de vie, le visage et la voix des étudiants, souvent sans véritable choix que de consentir. Où se situe la frontière entre une supervision d'examen raisonnable et une surveillance qui présume les étudiants coupables jusqu'à preuve de leur honnêteté — et qui devrait la tracer ?
 - La recherche montre que la surveillance peut signaler des comportements bénins comme suspects, produisant de fausses accusations, et que la précision du modèle varie selon les populations démographiques et les environnements. Si vous êtes un [[administrator|administrateur]], comment pesez-vous l'intégrité qu'elle récupère face à l'équité et à la confiance qu'elle peut éroder ?
-- La page présente la surveillance comme un outil, non comme une solution — des alternatives existent, comme l'évaluation orale et l'[[process-oriented-assessment|évaluation fondée sur le processus]]. Avant de lire, quelle approche défendriez-vous pour une évaluation à enjeux élevés dans un contexte à distance, et quelle preuve vous ferait changer d'avis ?
+- La surveillance est un outil, non une solution : des alternatives existent, comme l'évaluation orale et l'[[process-oriented-assessment|évaluation fondée sur le processus]]. Avant de lire, quelle approche défendriez-vous pour une évaluation à enjeux élevés dans un contexte à distance, et quelle preuve vous ferait changer d'avis ?
 
 ## Introduction
 

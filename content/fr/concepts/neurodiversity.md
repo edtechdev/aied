@@ -1,7 +1,7 @@
 ---
 title: "Neurodiversité"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,7 +9,7 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-11-12T18:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -29,18 +29,18 @@ ai_assist:
 
 ## Questions à examiner
 
-- La page présente la neurodiversité comme des différences neurologiques étant des variations naturelles plutôt que des déficits à corriger. Comment ce changement de cadrage modifie-t-il ce que devrait être « aider » un apprenant autiste, TDAH ou dyslexique dans votre propre contexte ?
+- La neurodiversité est la thèse selon laquelle les différences neurologiques sont des variations naturelles plutôt que des déficits à corriger. Comment ce changement de cadrage modifie-t-il ce que devrait être « aider » un apprenant autiste, TDAH ou dyslexique dans votre propre contexte ?
 - Imaginez un outil d'IA générative qui produit de longues réponses très textuelles. Quels apprenants neurodivergents pourrait-il aider, et quels apprenants pourrait-il désavantager — et pouvez-vous penser à des choix de conception qui feraient pencher la balance dans un sens ou dans l'autre ?
 - Une IA qui réduit la [[cognitive-offloading|charge cognitive]] peut soutenir les apprenants qui ont du mal avec les fonctions exécutives ou les attentes sociales, alors qu'une IA qui encourage la dépendance peut les saper. Où placez-vous la frontière entre soutien et dépendance excessive pour un apprenant donné ?
-- La page avertit que les outils d'IA qui supposent un style de communication dominant peuvent reconduire les inégalités. Vous souvenez-vous d'un moment où un outil ou une salle de classe « taille unique » a supposé que tout le monde apprenait de la même manière, et de ce qu'il négligeait ?
+- Les outils d'IA qui supposent un style de communication dominant peuvent reconduire les inégalités. Vous souvenez-vous d'un moment où un outil ou une salle de classe « taille unique » a supposé que tout le monde apprenait de la même manière, et de ce qu'il négligeait ?
 - Comment le neurotype d'un apprenant pourrait-il changer la manière dont ses signaux comportementaux sont interprétés dans les analytiques de l'apprentissage ? Quel risque apparaît lorsque l'IA lit l'[[student-engagement|engagement]] ou la difficulté sans savoir comment fonctionne un cerveau particulier ?
-- Les données probantes les plus solides de cette page portent sur un changement de conception général qui a aidé tout le monde et réduit un écart, et non sur un outil construit pour un seul diagnostic. Pourquoi des changements universels pourraient-ils surpasser ceux conditionnés au diagnostic — et qu'est-ce que cela implique quant à la manière dont vous dépenseriez un budget d'accessibilité limité ?
+- Les données probantes les plus solides portent sur un changement de conception général qui a aidé tout le monde et réduit un écart, et non sur un outil construit pour un seul diagnostic. Pourquoi des changements universels pourraient-ils surpasser ceux conditionnés au diagnostic — et qu'est-ce que cela implique quant à la manière dont vous dépenseriez un budget d'accessibilité limité ?
 
 ## Introduction
 
 Le paradigme de la neurodiversité déplace l'objectif du travail sur l'[[special-education|éducation spécialisée]] et l'[[accessibility|accessibilité]], de « réparer l'apprenant » vers « adapter l'environnement ». Il recoupe la [[universal-design-for-learning|conception universelle de l'apprentissage]] et l'[[inclusive-learning|apprentissage inclusif]] mais met l'accent sur l'affirmation de l'identité et une conception fondée sur les forces plutôt que sur l'accommodement comme compensation.
 
-À l'ère de l'IA, ce cadrage devient un critère de conception plutôt qu'un slogan. L'[[generative-ai|IA générative]] offre une promesse réelle pour les apprenants neurodivergents — des moyens alternatifs d'engagement, de représentation et d'expression, un soutien aux fonctions exécutives, et une réduction de la charge extrinsèque — et un risque réel, puisque les outils qui supposent un style de communication dominant, conditionnent le soutien à un diagnostic formel, ou encouragent la dépendance peuvent désavantager précisément les apprenants qu'ils prétendent servir. Cette page dresse la carte de ce que montrent réellement les données probantes, catégorie par catégorie, et des points où elles s'épuisent.
+À l'ère de l'IA, ce cadrage devient un critère de conception plutôt qu'un slogan. L'[[generative-ai|IA générative]] offre une promesse réelle pour les apprenants neurodivergents — des moyens alternatifs d'engagement, de représentation et d'expression, un soutien aux fonctions exécutives, et une réduction de la charge extrinsèque — et un risque réel, puisque les outils qui supposent un style de communication dominant, conditionnent le soutien à un diagnostic formel, ou encouragent la dépendance peuvent désavantager précisément les apprenants qu'ils prétendent servir. Les données probantes sont cartographiées catégorie par catégorie, y compris là où elles s'épuisent.
 
 ## Ce que couvre la recherche
 
@@ -56,7 +56,7 @@ Deux revues définissent la forme du champ, et toutes deux décrivent une fragme
 
 [[neurodivergent-computing-students|Une enquête portant sur 24 étudiants neurodivergents en informatique (autistes et/ou TDAH) et 20 pairs neurotypiques]], accompagnée de quatre entretiens approfondis, a révélé un inconfort significatif face aux devoirs dépourvus de structure claire ou porteurs d'attentes ambiguës — et les mêmes structures qui conviennent aux apprenants neurotypiques dans l'[[active-learning|apprentissage actif]] collaboratif peuvent exclure les pairs neurodivergents. Les auteurs la présentent comme préliminaire et parmi les premières études à centrer les voix neurodivergentes dans l'[[cs-education|enseignement de l'informatique]], ce qui mesure aussi combien peu de données probantes existent.
 
-[[adhd-video-segmentation-computing-education|L'étude sur la segmentation vidéo (Pimenova, Begel et collègues, 2026)]] constitue le résultat individuel le plus solide de cette page. En traitant les [[video-education|vidéos pédagogiques]] comme un problème de traitement a posteriori — les segmentant en blocs d'une seule instruction, avec des pauses fixes pour réduire la charge extrinsèque — elle a amélioré la performance de tout le monde dans un dispositif intra-participants (17 TDAH, 10 non-TDAH), et les erreurs et hésitations des participants TDAH ont chuté jusqu'à la parité avec leurs pairs non-TDAH. Un changement égalisateur qui n'exige ni diagnostic, ni divulgation, ni outil séparé constitue la démonstration la plus probante disponible de [[universal-design-for-learning|conception universelle de l'apprentissage]] par transformation automatisée des contenus.
+[[adhd-video-segmentation-computing-education|L'étude sur la segmentation vidéo (Pimenova, Begel et collègues, 2026)]] constitue le résultat individuel le plus solide des données probantes. En traitant les [[video-education|vidéos pédagogiques]] comme un problème de traitement a posteriori — les segmentant en blocs d'une seule instruction, avec des pauses fixes pour réduire la charge extrinsèque — elle a amélioré la performance de tout le monde dans un dispositif intra-participants (17 TDAH, 10 non-TDAH), et les erreurs et hésitations des participants TDAH ont chuté jusqu'à la parité avec leurs pairs non-TDAH. Un changement égalisateur qui n'exige ni diagnostic, ni divulgation, ni outil séparé constitue la démonstration la plus probante disponible de [[universal-design-for-learning|conception universelle de l'apprentissage]] par transformation automatisée des contenus.
 
 ## Troubles spécifiques de l'apprentissage, dyslexie et délestage cognitif
 

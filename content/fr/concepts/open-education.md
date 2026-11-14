@@ -1,7 +1,7 @@
 ---
 title: "Éducation ouverte"
 created: "2026-10-28T20:30:00-04:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -13,7 +13,7 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/open-education
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -41,13 +41,13 @@ L'éducation ouverte n'est pas l'[[open-source|open source]], et la confusion co
 
 Elles divergent là où cela compte. Une publication open source se juge à la possibilité de reconstruire et d'inspecter le système ; une ressource ouverte se juge à la possibilité, pour un enseignant ayant d'autres étudiants, une autre langue et un autre budget, de l'utiliser réellement. C'est une affirmation pédagogique et non technique : d'où l'argument de pratique que l'éducation ouverte a toujours porté à côté de celui de la licence. [[deimann-rethinking-openness-ai-2026|Deimann et Lukács (2026)]] en donnent la version la plus nette : après vingt-cinq ans de plaidoyer pour l'ouverture, le régime institutionnel au cœur de l'éducation est resté intact, le mouvement s'étant concentré sur des déclarations et des projets de niche.
 
-La littérature de l'ère de l'IA rassemblée dans cette base de connaissances porte sur trois choses à la fois : la ressource, la pratique, et leur survie quand la génération est quasi gratuite. Sur la ressource : qui la fabrique, qui la licence, et si une ressource écrite par une IA compte. Sur la pratique : ce que la pédagogie ouverte demande aux étudiants et ce qu'elle leur apprend de mesurable.
+La littérature de l'ère de l'IA porte sur trois choses à la fois : la ressource, la pratique, et leur survie quand la génération est quasi gratuite. Sur la ressource : qui la fabrique, qui la licence, et si une ressource écrite par une IA compte. Sur la pratique : ce que la pédagogie ouverte demande aux étudiants et ce qu'elle leur apprend de mesurable.
 
 ## Ce que recouvre réellement l'ouverture
 
 Une ressource éducative ouverte (REO) est un contenu publié sous une licence qui autorise la réutilisation, la révision, le remixage et la redistribution. Tout le reste du champ découle de cette autorisation et de l'obligation d'en attribuer la paternité. [[gonzalez-miy-active-learning-mentoring-ai-oer-2026|González Miy (2026)]] montre cette obligation à l'œuvre dans un petit projet : onze participants travaillant en ligne pendant deux semaines ont produit un site de six pages, un [[conversational-ai|agent conversationnel]], un manuel et cinq tutoriels vidéo publiés sous CC BY-NC-SA, et l'ensemble a obtenu un score élevé en transparence mais seulement moyen en licence, reproductibilité, adaptabilité et accessibilité. Ouvert de nom, partiellement ouvert à l'usage.
 
-La littérature sur les licences est granulaire parce que les défaillances le sont. [[ryu-developing-ai-literacy-oer-2026|Ryu (2026)]] construit une grille de sept principes pour évaluer des ressources de littératie en IA sous licence ouverte, à partir d'un corpus raisonné de seize articles centraux, de dix-sept articles complémentaires et de trente-six références ciblées. [[atenas-oer-digital-public-goods-2026|Atenas, Farrow, Caldwell, Costello et Havemann (2026)]] soutiennent que l'unité de gouvernance devrait passer de la ressource à l'infrastructure qui l'héberge : un commun de fichiers isolés sans plateforme maintenue relève de la fragmentation, non du commun.
+La littérature sur les licences est granulaire parce que les défaillances le sont. [[ryu-developing-ai-literacy-oer-2026|Ryu (2026)]] construit une grille de sept principes pour évaluer des ressources de littératie en IA sous licence ouverte, à partir d'un échantillon raisonné de seize articles centraux, de dix-sept articles complémentaires et de trente-six références ciblées. [[atenas-oer-digital-public-goods-2026|Atenas, Farrow, Caldwell, Costello et Havemann (2026)]] soutiennent que l'unité de gouvernance devrait passer de la ressource à l'infrastructure qui l'héberge : un commun de fichiers isolés sans plateforme maintenue relève de la fragmentation, non du commun.
 
 ## L'effondrement de la génération et le tournant des biens publics numériques
 
@@ -71,7 +71,7 @@ Deux autres études montrent la vitesse à laquelle la pratique devient gouverna
 
 L'argument d'[[equity-in-ai-education|équité]] en faveur des contenus ouverts est le plus ancien : une ressource sans prix ne peut être exclue pour des raisons financières. C'est aussi le plus volontiers affirmé et le plus rarement éprouvé. Les versions de l'ère de l'IA sont plus prudentes. Atenas et ses collègues présentent les REO comme un levier pour les communautés marginalisées et pour une participation significative à la collecte de données, en avertissant qu'une dépendance excessive aux ressources générées risque de dévaloriser la [[creativity|créativité]] et le jugement humains. Tlili et ses collègues nomment les mécanismes par lesquels la génération affaiblit ce levier : erreur de traduction, biais des données d'entraînement, et boucle d'[[hallucination-risk|hallucination]] où le contenu généré est recyclé dans les corpus qui entraînent le modèle suivant.
 
-La durabilité intervient deux fois, comme financement et comme énergie. L'argument des biens publics numériques est essentiellement un argument de durabilité : un commun fragmenté de fichiers financés par subventions ne survit pas à ses subventions, alors qu'une infrastructure gouvernée publiquement le pourrait. Le volet environnemental apparaît dans la littérature plus large sur l'ouverture et dans le concept de [[sustainability|durabilité]] de cette base de connaissances, où le coût d'inférence des modèles est déclaré comme une obligation de la pratique ouverte, non comme un supplément d'attention.
+La durabilité intervient deux fois, comme financement et comme énergie. L'argument des biens publics numériques est essentiellement un argument de durabilité : un commun fragmenté de fichiers financés par subventions ne survit pas à ses subventions, alors qu'une infrastructure gouvernée publiquement le pourrait. Le volet environnemental apparaît dans la littérature plus large sur l'ouverture et dans le concept de [[sustainability|durabilité]], où le coût d'inférence des modèles est déclaré comme une obligation de la pratique ouverte, non comme un supplément d'attention.
 
 C'est sur la dimension du [[global-south|Sud global]] que les preuves s'amincissent le plus. Les cas non occidentaux du lot sont réels mais peu nombreux : une résidence de coopération latino-américaine, des enseignants d'universités ouvertes chinoises, et un cadrage de l'infrastructure comme condition préalable de la participation. Les affirmations selon lesquelles l'ouverture redistribue automatiquement les capacités ne sont pas étayées par ces études, et plusieurs d'entre elles le disent.
 

@@ -1,7 +1,7 @@
 ---
 title: "Enseignement de l'ingénierie"
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,7 +12,7 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **L'enseignement de l'ingénierie** — l'étude de la manière dont les étudiants apprennent l'ingénierie et de la façon de l'enseigner efficacement, couvrant comment l'IA transforme la pédagogie, l'évaluation, le développement du corps professoral et la main-d'œuvre de l'ingénierie. Les articles sur l'enseignement de l'ingénierie dans cette base de connaissances se regroupent autour de plusieurs thèmes : le [[engineering-faculty-metaphors-ai-understanding-2026|langage figuré]] qu'emploient les enseignants pour donner un sens à l'IA, la [[ethical-use-ai-engineering-education-review-2026|gouvernance éthique]] de l'usage de l'IA, l'[[multimodal-embodied-cognition-oral-explanations-2026|évaluation incarnée et multimodale]] de la compréhension conceptuelle, et la manière dont l'IA remodèle la [[ai-engineering-computing-workforce-grey-literature-2026|main-d'œuvre de l'ingénierie et de l'informatique]].
+> **L'enseignement de l'ingénierie** — l'étude de la manière dont les étudiants apprennent l'ingénierie et de la façon de l'enseigner efficacement, couvrant comment l'IA transforme la pédagogie, l'évaluation, le développement du corps professoral et la main-d'œuvre de l'ingénierie. La recherche sur l'enseignement de l'ingénierie se regroupe autour de plusieurs thèmes : le [[engineering-faculty-metaphors-ai-understanding-2026|langage figuré]] qu'emploient les enseignants pour donner un sens à l'IA, la [[ethical-use-ai-engineering-education-review-2026|gouvernance éthique]] de l'usage de l'IA, l'[[multimodal-embodied-cognition-oral-explanations-2026|évaluation incarnée et multimodale]] de la compréhension conceptuelle, et la manière dont l'IA remodèle la [[ai-engineering-computing-workforce-grey-literature-2026|main-d'œuvre de l'ingénierie et de l'informatique]].
 
 ## Questions à examiner
 
@@ -42,7 +42,7 @@ ai_assist:
 
 La recherche sur l'enseignement de l'ingénierie est distinctive parce qu'elle se situe à l'intersection de la formation professionnelle et d'un contenu STIM rigoureux. Elle met l'accent sur la [[design-thinking|conception]], la résolution de problèmes, l'apprentissage pratique et en laboratoire, le travail d'équipe, et la préparation des diplômés à la pratique professionnelle. La conception est aussi le terrain qu'elle partage avec l'[[design-education|enseignement du design]], et les deux le divisent selon ce qui peut être vérifié : l'objet évalué en ingénierie admet des artefacts calculables et porte une responsabilité de sécurité publique, tandis que celui de l'enseignement du design est le processus d'atelier qui sous-tend l'artefact — croquis, itération, critique — la preuve même que les outils génératifs peuvent désormais produire sans le processus qui la produisait jadis. L'IA soulève ici des questions distinctives : l'expérience pratique et incarnée compte-t-elle encore lorsque l'IA peut simuler ou automatiser des tâches de conception ; les enjeux professionnels et éthiques de l'usage de l'IA (les décisions des ingénieurs affectent la sécurité publique, les infrastructures et la [[sustainability]]) ; et la manière dont l'IA remodèle les compétences dont les diplômés ont besoin et la main-d'œuvre qu'ils intègrent.
 
-## Comment l'IA apparaît dans la recherche de la base de connaissances sur l'enseignement de l'ingénierie
+## Comment l'IA apparaît dans la recherche sur l'enseignement de l'ingénierie
 
 - **La compréhension du corps professoral et le langage partagé :** [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt et collègues]] analysent les [[metaphors-and-analogies|métaphores]] qu'emploient les enseignants d'ingénierie pour décrire l'IA, et constatent que la plupart la cadrent soit comme un « être social/agent » humain, soit comme un « outil technique », et que les enseignants d'un même département ont souvent des modèles mentaux fondamentalement différents. Parce que les métaphores construisent autant qu'elles contraignent la compréhension, ils soutiennent qu'un langage partagé et exact est essentiel pour l'[[educational-development|développement éducatif]] et les discussions départementales sur l'IA.
 - **L'éthique et l'usage responsable :** [[ethical-use-ai-engineering-education-review-2026|Osunbunmi et collègues]] passent [[meta-analysis-systematic-review|systématiquement en revue]] les études empiriques sur l'IA dans la formation d'ingénieur de premier cycle, et identifient sept formes récurrentes de conseils éthiques (transparence, responsabilité, indépendance et agence des étudiants, vie privée, [[academic-integrity|intégrité académique]], justesse/[[equity-in-ai-education|équité]]/biais, bienfaisance). Ils constatent que les conseils éthiques sont majoritairement destinés aux étudiants et orientés vers la conformité, la responsabilité réciproque du corps professoral et des institutions étant peu développée — une préoccupation qu'accroît l'enjeu direct de l'ingénierie pour la sécurité publique et le [[well-being|bien-être]] sociétal.
@@ -64,11 +64,11 @@ Les préoccupations caractéristiques de l'enseignement de l'ingénierie façonn
 
 ## Connexions avec les concepts apparentés
 
-L'enseignement de l'ingénierie se situe au sein des [[stem-education|STIM]] et rejoint fortement l'[[cs-education|informatique]] (l'informatique et le génie logiciel), les [[math-education|mathématiques]] et la [[physics-education|physique]] (les fondements mathématiques et physiques de l'ingénierie), la [[professional-training|formation professionnelle]] et l'[[educational-development|développement éducatif]] (la préparation de la main-d'œuvre et des enseignants), l'[[assessment|évaluation]] et l'[[ethics|éthique]] (les enjeux professionnels et évaluatifs de l'IA), et l'[[higher-ed|enseignement supérieur]] (le contexte institutionnel). C'est la discipline d'accueil des articles de la base de connaissances issus de l'ASEE.
+L'enseignement de l'ingénierie se situe au sein des [[stem-education|STIM]] et rejoint fortement l'[[cs-education|informatique]] (l'informatique et le génie logiciel), les [[math-education|mathématiques]] et la [[physics-education|physique]] (les fondements mathématiques et physiques de l'ingénierie), la [[professional-training|formation professionnelle]] et l'[[educational-development|développement éducatif]] (la préparation de la main-d'œuvre et des enseignants), l'[[assessment|évaluation]] et l'[[ethics|éthique]] (les enjeux professionnels et évaluatifs de l'IA), et l'[[higher-ed|enseignement supérieur]] (le contexte institutionnel). C'est la discipline d'accueil des articles issus de l'ASEE.
 
 ## Sous-domaines peu couverts
 
-La couverture de l'enseignement de l'ingénierie par la base de connaissances est encore en développement. Les sous-domaines qui gagneraient à recevoir des articles supplémentaires incluent les **[[discipline-specific-aied|pédagogies propres à des]] branches [[pedagogy|disciplinaires]] de l'ingénierie** (génie mécanique, civil, chimique, électrique, logiciel et bio-ingénierie), le **[[design-education|conception]] et l'éducation par la fabrication**, le **projet de synthèse et l'[[project-based-learning|apprentissage par projets]]**, et l'**éducation à l'éthique de l'ingénierie** — là où le rôle de l'IA est susceptible d'être particulièrement décisif.
+La couverture de l'enseignement de l'ingénierie est encore en développement. Les sous-domaines qui gagneraient à recevoir des articles supplémentaires incluent les **[[discipline-specific-aied|pédagogies propres à des]] branches [[pedagogy|disciplinaires]] de l'ingénierie** (génie mécanique, civil, chimique, électrique, logiciel et bio-ingénierie), le **[[design-education|conception]] et l'éducation par la fabrication**, le **projet de synthèse et l'[[project-based-learning|apprentissage par projets]]**, et l'**éducation à l'éthique de l'ingénierie** — là où le rôle de l'IA est susceptible d'être particulièrement décisif.
 
 Cette lacune n'est plus vide dans un domaine : un programme de trois ans en génie biomédical a fait fonctionner l'IA générative comme un étayage encadré de résumé de connaissances et de programmation à l'intérieur d'une séquence d'apprentissage par projets à quatre modules (outils approuvés, aucune donnée de patient, journaux de divulgation) et a rapporté des taux de A de 66,4 % contre 39,1 % pour les cohortes d'avant l'IA ([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. (2026)]]).
 

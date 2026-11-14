@@ -1,7 +1,7 @@
 ---
 title: "Pédagogie critique"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [agency, ai-literacy, critical-thinking, reducing-ai-misuse]
 pedagogy: [critical-pedagogy]
@@ -9,7 +9,7 @@ ethics: [equity-in-ai-education, ethics]
 confidence: high
 connected_resources: [pressing-prompts]
 translation_of: concepts/critical-pedagogy
-source_updated: "2026-11-12T21:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -38,11 +38,11 @@ ai_assist:
 
 ## Introduction
 
-La pédagogie critique se distingue de la [[critical-thinking|pensée critique]]. La pensée critique est une aptitude cognitive — évaluer des arguments, questionner des présupposés, raisonner avec soin — qui peut s'exercer dans presque tous les cadres. La pédagogie critique, en revanche, est une *posture politique et [[ethics|éthique]]* qui relie ces compétences à des questions de pouvoir, de justice, d'[[equity-in-ai-education|équité]] et de transformation sociale. La base de connaissances les traite comme des concepts apparentés mais distincts : la pensée critique demande « ce raisonnement est-il solide ? », tandis que la pédagogie critique demande « à qui cette éducation sert-elle, et le savoir de qui compte ? ».
+La pédagogie critique se distingue de la [[critical-thinking|pensée critique]]. La pensée critique est une aptitude cognitive — évaluer des arguments, questionner des présupposés, raisonner avec soin — qui peut s'exercer dans presque tous les cadres. La pédagogie critique, en revanche, est une *posture politique et [[ethics|éthique]]* qui relie ces compétences à des questions de pouvoir, de justice, d'[[equity-in-ai-education|équité]] et de transformation sociale. Ce sont des concepts apparentés mais distincts : la pensée critique demande « ce raisonnement est-il solide ? », tandis que la pédagogie critique demande « à qui cette éducation sert-elle, et le savoir de qui compte ? ».
 
 ## La pédagogie critique et l'IA en éducation
 
-L'[[ai-education|IA en éducation]] soulève des questions aiguës pour la pédagogie critique, et la base de connaissances documente plusieurs fils :
+L'[[ai-education|IA en éducation]] soulève des questions aiguës pour la pédagogie critique, et plusieurs fils de travaux les abordent :
 
 - **Critique de la « colonisation par l'IA » de l'éducation.** Des chercheurs critiques et féministes soutiennent que l'[[generative-ai|IA générative]] remodèle l'éducation en répétant des schémas d'exploitation et d'extraction coloniales — de données, de travail et de ressources naturelles — enrichissant les puissants aux dépens des communautés marginalisées.([[avraamidou-ai-colonization-science-education]]) Ce cadrage rejette le récit de la « techno-utopie » qui présente l'IA comme une solution miracle neutre.
 - **De la conformité à l'épanouissement humain.** Une revue socialo-humaniste reformule la littératie en IA comme une transformation plutôt que comme une conformité, nommant l'« AIgemony » — l'IA renforçant les asymétries de pouvoir corporatives — et le « ghost work » de ce travail d'étiquetage humain invisible, et exhortant à adopter le mode de « l'être », fait d'engagement actif, plutôt que le mode de « l'avoir », fait de possession ([[mechanical-compliance-human-flourishing-ai-literacy-2026|Rose (2026)]]).
@@ -64,7 +64,7 @@ La pédagogie critique entre dans l'évaluation par la question des intérêts q
 
 ## Le rôle de l'éducateur
 
-Sous l'angle de la pédagogie critique, les éducateurs ne sont pas des transmetteurs neutres de compétences en IA, mais des interlocuteurs critiques et des facilitateurs qui aident les apprenants à interroger la politique de l'IA. Cela rejoint les concepts de [[teacher-role]] et d'[[ai-literacy]] de la base de connaissances, ainsi que la préoccupation plus large pour l'[[equity-in-ai-education]] et la [[reducing-ai-misuse|réduction des usages abusifs]]. La tâche de l'éducateur est de cultiver des espaces où les communautés peuvent collectivement questionner, s'approprier ou refuser l'IA — faisant de l'éducation un lieu d'imagination et de transformation sociale. [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] ajoutent à ce rôle une condition pratique : un travail ouvert de littératie critique en IA n'exige pas des éducateurs qu'ils arrivent en experts de l'IA, seulement qu'ils soient disposés à explorer aux côtés des étudiants — une enquête conjointe d'élèves et d'enseignant sur un système précis, les « laissez-passer électroniques » (qui ne sont pas tous de l'IA), a fait émerger et a travaillé des [[misconceptions]] tout en approfondissant le savoir technique. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran et Arar (2026)]] donnent à ce rôle une forme constructionniste, faite d'éthique du care : ils traitent la [[prompt-engineering|littératie en matière d'invites]] comme un processus rhétorique, éthique et réflexif plutôt que comme une compétence d'optimisation technique, et la phase finale du cadre fait co-concevoir aux étudiants, avec leur enseignant, une politique personnelle d'usage de l'IA, de sorte que les normes régissant l'usage de l'IA en classe soient rédigées par ceux qu'elles régissent plutôt que promulguées à leur endroit.
+Sous l'angle de la pédagogie critique, les éducateurs ne sont pas des transmetteurs neutres de compétences en IA, mais des interlocuteurs critiques et des facilitateurs qui aident les apprenants à interroger la politique de l'IA. Cela rejoint les concepts de [[teacher-role]] et d'[[ai-literacy]], ainsi que la préoccupation plus large pour l'[[equity-in-ai-education]] et la [[reducing-ai-misuse|réduction des usages abusifs]]. La tâche de l'éducateur est de cultiver des espaces où les communautés peuvent collectivement questionner, s'approprier ou refuser l'IA — faisant de l'éducation un lieu d'imagination et de transformation sociale. [[burriss-multimodal-composition-critical-ai-literacy-2026|Burriss et al. (2026)]] ajoutent à ce rôle une condition pratique : un travail ouvert de littératie critique en IA n'exige pas des éducateurs qu'ils arrivent en experts de l'IA, seulement qu'ils soient disposés à explorer aux côtés des étudiants — une enquête conjointe d'élèves et d'enseignant sur un système précis, les « laissez-passer électroniques » (qui ne sont pas tous de l'IA), a fait émerger et a travaillé des [[misconceptions]] tout en approfondissant le savoir technique. [[miles-prompt-literacy-human-centered-genai-framework-2026|Miles, Haber-Curran et Arar (2026)]] donnent à ce rôle une forme constructionniste, faite d'éthique du care : ils traitent la [[prompt-engineering|littératie en matière d'invites]] comme un processus rhétorique, éthique et réflexif plutôt que comme une compétence d'optimisation technique, et la phase finale du cadre fait co-concevoir aux étudiants, avec leur enseignant, une politique personnelle d'usage de l'IA, de sorte que les normes régissant l'usage de l'IA en classe soient rédigées par ceux qu'elles régissent plutôt que promulguées à leur endroit.
 
 ## Implications pour la pratique
 

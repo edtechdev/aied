@@ -1,7 +1,7 @@
 ---
 title: "Portefeuille électronique (e-portfolio)"
 created: "2026-08-20T09:00:00-04:00"
-updated: "2026-11-05T18:24:25-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ discipline: [language learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/eportfolio
-source_updated: "2026-11-12T21:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ Les portefeuilles électroniques sont une forme d'[[authentic-assessment|évalua
 
 ## Les portefeuilles électroniques à l'ère de l'IA
 
-La recherche de la base de connaissances montre que les portefeuilles électroniques occupent une place de plus en plus centrale dans l'intégration productive de l'IA et la refonte de l'évaluation.
+La recherche montre que les portefeuilles électroniques occupent une place de plus en plus centrale dans l'intégration productive de l'IA et la refonte de l'évaluation.
 
 - **L'évaluation par portefeuille est relativement robuste face à l'IA générative.** [[zhan-boud-du-authentic-assessment-scoping-review-2025|Zhan, Boud et Du (2025)]] identifient les **portefeuilles de contribution sociale** et les artefacts co-créés dotés de chaînes de provenance vérifiables parmi les formes d'évaluation authentique les plus robustes face à l'IA générative. [[beyond-detection-authentic-assessment-ai-2025|Beyond detection (2025)]] recommande de même les **portefeuilles annotés / soutenances orales / parcours enregistrés** pour sonder le raisonnement en temps réel, à l'image de la pratique professionnelle.
 - **L'évaluation de portefeuille assistée par l'IA.** [[ni-lam-multiliteracies-ai-portfolio-2026|Ni et Lam (2026)]] étudient les perceptions des étudiants concernant l'**évaluation de portefeuille assistée par l'IA** pour le développement des multilittératies, montrant que l'IA peut soutenir le *processus* du portefeuille (rétroaction, rédaction, réflexion) et renforcer l'engagement, tandis que les étudiants évaluent de manière critique la [[ai-feedback-quality|rétroaction de l'IA]].

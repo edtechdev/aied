@@ -1,12 +1,12 @@
 ---
 title: "Comment l'IA doit-elle être conçue dans l'expérience d'apprentissage ?"
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/designing-ai-into-learning
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -49,7 +49,7 @@ Partez de l'objectif d'apprentissage et de l'activité qui le produit. Le même 
 
 ## Décider ce que l'apprenant fait sans l'outil
 
-La notion de [[pedagogy|Pedagogies and Teaching Strategies]] de la base de connaissances fournit le test : la configuration préserve-t-elle l'activité qui produit l'apprentissage visé ? Répondez par écrit, avant que quiconque choisisse une fonctionnalité.
+La notion de [[pedagogy|Pedagogies and Teaching Strategies]] fournit le test : la configuration préserve-t-elle l'activité qui produit l'apprentissage visé ? Répondez par écrit, avant que quiconque choisisse une fonctionnalité.
 
 [[finkelstein-principled-ai-education-2025|The Principled AI Education Framework]] énonce la règle générale : la technologie devrait augmenter plutôt que déplacer les capacités humaines que l'éducation entend développer. Formulée comme test pour un module, cela signifie nommer la capacité, nommer l'activité qui la construit, et demander si l'IA se trouve à l'intérieur de cette activité ou à côté.
 

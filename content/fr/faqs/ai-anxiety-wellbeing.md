@@ -1,7 +1,7 @@
 ---
 title: "Comment l'IA affecte-t-elle l'anxiété et le bien-être des étudiants, et que pouvons-nous faire ?"
 created: "2026-09-22T19:12:18-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 weight: 60
 type: faq
 pedagogy: [anxiety-and-stress, motivation, self-efficacy, social-emotional-learning, well-being]
@@ -9,7 +9,7 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-anxiety-wellbeing
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -112,7 +112,7 @@ L'objectif est de faire baisser l'anxiété. Kim (2026) a trouvé l'anxiété po
 
 La confiance protège les étudiants du dommage de carrière. Dans le modèle de Duan et al., le [[self-efficacy|sentiment d'efficacité personnelle]] ne l'amortissait pas. C'est l'adaptabilité de carrière qui portait le chemin médiatisé.
 
-C'est un problème de [[student-support-and-success|services aux étudiants]]. La plupart des gestes de cette page sont pédagogiques : pratique à faible enjeu, évaluation guidée de la production de l'IA, révision guidée par la rétroaction et un énoncé des attentes que les étudiants peuvent lire. Connaître l'itinéraire d'orientation est un élément parmi d'autres.
+C'est un problème de [[student-support-and-success|services aux étudiants]]. La plupart des gestes sont pédagogiques : pratique à faible enjeu, évaluation guidée de la production de l'IA, révision guidée par la rétroaction et un énoncé des attentes que les étudiants peuvent lire. Connaître l'itinéraire d'orientation est un élément parmi d'autres.
 
 Un agent conversationnel de bien-être est la réponse passant à l'échelle face à une capacité d'accompagnement insuffisante. La disponibilité est réelle et l'attrait est compréhensible. L'exactitude sur une seule partition de validation n'est pas la preuve qu'un étudiant en détresse s'en trouve mieux, et les questions de classification erronée, de stockage et d'escalade n'ont aucune réponse publiée dans les travaux cités ici.
 
@@ -124,7 +124,7 @@ Un agent conversationnel de bien-être est la réponse passant à l'échelle fac
 
 **« Je suis enseignant de discipline, pas conseiller. »** Personne ne vous demande de traiter qui que ce soit. La pratique à faible enjeu, une tâche de critique et une boucle de révision sont des gestes pédagogiques ordinaires. Le seul résultat qui parle de votre position est la relation enseignant-étudiant au deuxième rang de l'analyse d'importance des variables de Bashir et Afzal (10.0%), devant la qualité du sommeil (9.3%) et le soutien social (7.6%). Les auteurs parlent d'une hypothèse, et c'est un pari raisonnable pour un rôle que vous occupez déjà.
 
-**« Nous n'avons pas de capacité d'accompagnement, donc un outil vaut mieux que rien. »** Peut-être, et cette page ne peut pas trancher. Ce que vous pouvez exiger avant le déploiement, ce sont des réponses écrites sur la validation de l'exactitude, la façon dont le niveau de soutien est décidé, ce qui se passe en cas de classification erronée nuisible, le stockage des divulgations et le fonctionnement de l'escalade vers un humain. Pas de réponses, pas de déploiement. Un étudiant qui se confie à un outil qui classe mal sa situation risque de ne plus se confier.
+**« Nous n'avons pas de capacité d'accompagnement, donc un outil vaut mieux que rien. »** Peut-être, et les preuves ne peuvent pas trancher. Ce que vous pouvez exiger avant le déploiement, ce sont des réponses écrites sur la validation de l'exactitude, la façon dont le niveau de soutien est décidé, ce qui se passe en cas de classification erronée nuisible, le stockage des divulgations et le fonctionnement de l'escalade vers un humain. Pas de réponses, pas de déploiement. Un étudiant qui se confie à un outil qui classe mal sa situation risque de ne plus se confier.
 
 **« Si j'aborde les perspectives de carrière en classe, je sors de ma discipline. »** L'alternative, c'est que les étudiants assemblent leur réponse à partir du marché du travail et les uns des autres. Duan et al. recommandent un travail de planification de carrière dans le cadre du programme, et Dağ et al. le recommandent en parallèle de la littératie en IA. Vous pouvez accueillir la conversation sans prétendre y être expert, et orienter les cas individuels vers les services de carrière.
 

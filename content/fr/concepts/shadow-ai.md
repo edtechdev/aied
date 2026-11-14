@@ -1,7 +1,7 @@
 ---
 title: IA fantôme
 created: "2026-11-12T14:45:00-05:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 technology: [generative-ai, llm]
 ethics: [privacy, equity-in-ai-education]
@@ -11,7 +11,7 @@ discipline: [information technology]
 confidence: high
 contributors: [editor]
 translation_of: concepts/shadow-ai
-source_updated: "2026-11-12T16:32:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -82,7 +82,20 @@ Le troisième est de mesurer ce qui est dépensé et utilisé, y compris la dép
 
 Le quatrième est de traiter la [[ai-literacy|littératie de l'IA]] comme un contrôle, non comme un ajout au [[curriculum-design|curriculum]]. Un enseignant capable de lire une politique de données, de reconnaître les conditions de conservation d'un fournisseur et de caviarder un nom d'étudiant fait une gestion du risque qu'aucun formulaire d'approbation ne remplace.
 
+## Implications pour la pratique
+
+Les développeurs pédagogiques peuvent publier la voie autorisée avec des exemples concrets, dans le langage de l'enseignement plutôt que de l'approvisionnement. Les enseignants de l'étude de district demandaient des règles, une liste validée, des exemples et du temps ; rien de tout cela n'exige une nouvelle plateforme. Un circuit d'approbation qui prend une semaine laisse assez de temps pour qu'un nouveau modèle sorte, si bien que la cible utile se compte en jours.
+
+Les enseignants peuvent adopter les habitudes que les utilisateurs prudents de cette étude avaient déjà. Caviarder les noms d'étudiants avant de coller quoi que ce soit, utiliser un compte institutionnel afin que la trace puisse être auditée, et traiter le texte généré comme un brouillon à vérifier plutôt que comme une autorité à citer.
+
+Les administrateurs peuvent mesurer les dépenses qui n'ont jamais atteint un bon de commande et lire l'usage non approuvé comme un rapport sur un besoin non satisfait. Si un outil gratuit l'emporte parce que l'outil sous licence a une liste d'attente, le problème d'adoption est la file d'attente.
+
+Les équipes informatiques et de politique peuvent transformer l'approbation en une décision d'acheminement. Une passerelle qui liste les modèles approuvés avec leur région, leur coût et des alternatives permet à un enseignant de commencer le jour même — la différence entre une gouvernance qui façonne l'usage et une gouvernance qui le documente après coup.
+
+Les chefs de département peuvent bâtir le soutien collégial qui a permis à certains enseignants de se doter de limites et en a laissé d'autres sans. Un écart qui commence comme une question d'effectifs devient une différence dans ce qu'on demande aux étudiants de faire.
+
 ## Idées fausses courantes
+
 
 **« L'IA fantôme n'est que l'informatique fantôme sous un nouveau nom. »** L'étude allemande trace la distinction : les risques de l'informatique fantôme portent sur l'infrastructure, tandis que ceux de l'IA fantôme portent sur le contenu, le jugement et la trace de ce qui a été produit.
 
@@ -94,7 +107,7 @@ Le quatrième est de traiter la [[ai-literacy|littératie de l'IA]] comme un con
 
 ## Lectures complémentaires
 
-Trois sources traitent directement de l'IA fantôme et ne peuvent être intégrées ici : deux études en accès fermé et un article professionnel. Elles sont liées plutôt qu'intégrées, si bien qu'aucune affirmation de cette page ne repose sur leurs résultats.
+Trois sources traitent directement de l'IA fantôme et ne peuvent être intégrées ici : deux études en accès fermé et un article professionnel. Elles sont liées plutôt qu'intégrées, si bien qu'aucune affirmation ici ne repose sur leurs résultats.
 
 - [Beyond Curiosity: Habit and Organizational Learning Capability as Predictors of Shadow AI](https://doi.org/10.1016/j.chb.2026.109243) — Lovett et Yang, *Computers in Human Behavior*, article 109243, novembre 2026. Des preuves par enquête auprès d'utilisateurs récents de l'IA au travail, où l'habitude porte le poids d'importance relative le plus élevé et où le paiement personnel des outils est associé à une IA fantôme accrue.
 - [Shadow AI Isn't a Threat: It's a Signal](https://campustechnology.com/articles/2026/02/04/shadow-ai-isnt-a-threat-its-a-signal.aspx) — Damien Eversmann, *Campus Technology*, février 2026. Un argument de praticien selon lequel l'usage non autorisé signale un besoin non satisfait : des enseignants rédigeant des plans de cours, des chercheurs montant des GPU cloud sur des cartes de département, et des personnels collant des données sensibles dans des outils grand public parce que la voie approuvée était plus lente.

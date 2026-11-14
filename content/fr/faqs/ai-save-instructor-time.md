@@ -1,12 +1,12 @@
 ---
 title: "Comment l'IA peut-elle me faire gagner du temps en tant qu'enseignant ?"
 created: "2026-09-22T19:16:30-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-save-instructor-time
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -47,7 +47,7 @@ L'essentiel pour la réunion : confiez le premier brouillon et gardez le jugemen
 
 ## Commencez par un travail que vous alliez de toute façon réécrire
 
-Le chiffre le plus solide de cette base de connaissances vient d'un [[rct|essai randomisé]] résumé dans [[ai-changing-teaching-workflows|How AI Is Changing Teaching Workflows]]. Deux cent cinquante-neuf enseignants de sciences utilisant ChatGPT ont passé environ 69% du temps de préparation de cours du groupe témoin, soit une réduction d'environ 31%, et des réviseurs experts en aveugle n'ont trouvé aucune perte de qualité détectable. Les enseignants l'ont réaffecté plutôt que thésaurisé, déplaçant le temps vers la planification, la correction et le travail auprès des étudiants.
+Le chiffre le plus solide vient d'un [[rct|essai randomisé]] résumé dans [[ai-changing-teaching-workflows|How AI Is Changing Teaching Workflows]]. Deux cent cinquante-neuf enseignants de sciences utilisant ChatGPT ont passé environ 69% du temps de préparation de cours du groupe témoin, soit une réduction d'environ 31%, et des réviseurs experts en aveugle n'ont trouvé aucune perte de qualité détectable. Les enseignants l'ont réaffecté plutôt que thésaurisé, déplaçant le temps vers la planification, la correction et le travail auprès des étudiants.
 
 Un second jeu de données dans le même travail, plus de 104.000 messages de plus de 15.000 éducateurs, montre pourquoi l'économie atterrit à des endroits inattendus. L'invite moyenne touche 1.7 catégories à la fois, si bien qu'une simple demande de plan de cours revient avec de la différenciation et un quiz que l'enseignant n'avait pas pensé à demander.
 
@@ -99,7 +99,7 @@ Vous pouvez recourir à la [[automated-essay-scoring|notation automatisée de di
 
 **« Si je deviens plus rapide, le temps sera rerempli de réunions. »** Probablement, et c'est la façon la plus courante dont une économie disparaît. Mettez la destination par écrit là où votre directeur de département peut la voir, avant que l'espace ne se remplisse.
 
-**« La rétroaction par IA lèse les étudiants les plus en difficulté. »** Le quartile inférieur au Brésil n'a rien gagné, et c'est la mise en garde la plus forte de cette page. Associez l'économie à un usage délibéré. L'augmentation de 35% des conversations individuelles est ce que ces classes ont fait des heures, et c'était un choix de l'enseignant.
+**« La rétroaction par IA lèse les étudiants les plus en difficulté. »** Le quartile inférieur au Brésil n'a rien gagné, et c'est la mise en garde la plus forte de la recherche. Associez l'économie à un usage délibéré. L'augmentation de 35% des conversations individuelles est ce que ces classes ont fait des heures, et c'était un choix de l'enseignant.
 
 **« La notation, c'est là que sont réellement mes heures. »** C'est vrai, et c'est aussi là que l'outil est le moins transférable d'un établissement à l'autre. Validez localement ou laissez tomber.
 
@@ -119,4 +119,4 @@ Vous pouvez recourir à la [[automated-essay-scoring|notation automatisée de di
 
 ## Où aller ensuite
 
-[[ai-feedback-at-scale]] pousse plus loin la question de la rétroaction, et [[faculty-ai-competencies]] avec [[faculty-development-ai]] couvrent ce qu'un département peut bâtir pour que cela cesse de dépendre d'expérimentations individuelles. [[redesign-assessment-ai-era]] et [[reduce-ai-cheating]] traitent les conséquences pour l'évaluation. [[ai-changing-teaching-workflows]] est l'article derrière les chiffres de préparation, et [[human-in-the-loop-ai|human oversight]] est le principe sur lequel tourne cette page.
+[[ai-feedback-at-scale]] pousse plus loin la question de la rétroaction, et [[faculty-ai-competencies]] avec [[faculty-development-ai]] couvrent ce qu'un département peut bâtir pour que cela cesse de dépendre d'expérimentations individuelles. [[redesign-assessment-ai-era]] et [[reduce-ai-cheating]] traitent les conséquences pour l'évaluation. [[ai-changing-teaching-workflows]] est l'article derrière les chiffres de préparation, et [[human-in-the-loop-ai|human oversight]] est le principe directeur.

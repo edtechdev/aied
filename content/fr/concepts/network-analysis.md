@@ -1,13 +1,13 @@
 ---
 title: "Analyse de réseaux"
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: concepts/network-analysis
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ ai_assist:
 
 - Quand vous entendez « analyse de réseaux » en éducation, quelles images vous viennent à l'esprit — des cartes d'amitié entre étudiants, des liens entre idées, ou autre chose ? En quoi diffèrent-elles du simple fait de compter combien de fois les choses se produisent ?
 - Supposez que vous vouliez savoir si les étudiants s'engagent réellement avec la rétroaction d'un outil d'écriture assisté par IA, ou s'ils se contentent d'obtenir des réponses. Pourquoi une métrique du type « combien de fois ont-ils cliqué » pourrait-elle manquer l'histoire qu'une séquence d'actions (par exemple, une boucle de révision contre une boucle de conversation) révélerait ?
-- La page distingue l'analyse de réseaux épistémiques, l'analyse de réseaux sociaux et l'analyse des réseaux de transition. Sans connaître les détails, pouvez-vous deviner quelle variante vous utiliseriez pour étudier (a) la manière dont les gens collaborent, (b) quelles idées cooccurrent dans le raisonnement des étudiants, et (c) la manière dont les apprenants se déplacent entre des états au fil du temps ?
+- Trois variantes importent : l'analyse de réseaux épistémiques, l'analyse de réseaux sociaux et l'analyse des réseaux de transition. Sans connaître les détails, pouvez-vous deviner quelle variante vous utiliseriez pour étudier (a) la manière dont les gens collaborent, (b) quelles idées cooccurrent dans le raisonnement des étudiants, et (c) la manière dont les apprenants se déplacent entre des états au fil du temps ?
 - Un chercheur constate que des apprenants de littératie élevée et faible utilisent le même outil d'IA mais produisent des structures de réseaux de raisonnement très différentes. Qu'est-ce que cela vous apprend sur l'évaluation des outils d'IA par un score moyen unique ?
 - Des métriques de réseau comme la « densité » et la « centralité » décrivent si l'interaction est aléatoire ou organisée autour de pivots. Quand un réseau organisé centré sur un apprenant serait-il le signe d'une bonne collaboration — et quand le signe d'un problème ?
 
@@ -37,9 +37,9 @@ ai_assist:
 
 Les méthodes d'analyse de réseaux partagent un principe central : c'est la structure des connexions — et pas seulement leur présence ou leur fréquence — qui porte du sens. Plutôt que de demander « quelle quantité de X s'est produite », elles demandent « comment les éléments sont-ils connectés, et que révèle cette connectivité sur la [[metacognition|cognition]], l'[[collaborative-learning|collaboration]] ou les processus d'apprentissage ? » Cela les rend particulièrement précieuses dans l'IA en éducation, où les chercheurs veulent de plus en plus comprendre le *processus* de l'interaction apprenant–[[student-ai-interaction|IA]] (la manière dont les apprenants naviguent la [[feedback|rétroaction]], le dialogue et la révision) plutôt que le seul produit (scores finaux, taux d'erreurs).
 
-## Variantes utilisées dans le corpus de la base de connaissances
+## Variantes utilisées dans la recherche
 
-- **L'analyse de réseaux épistémiques (ENA)** — la variante la plus courante dans la base de connaissances (abordée dans environ 24 articles). L'ENA modélise la cooccurrence de codes ou de construits au sein de segments de discours ou d'activité, produisant des réseaux qui montrent quelles idées, compétences ou actions épistémiques tendent à être connectées dans un contexte donné. Elle sert à comparer la manière dont différents groupes (par exemple, des apprenants de littératie élevée contre faible, des collaborateurs humains contre IA) structurent leur cognition. ([[tracing-genai-literacy-interaction-patterns]]) ([[hao-human-ai-collaborative-problem-solving-cognition]])
+- **L'analyse de réseaux épistémiques (ENA)** — la variante la plus courante de la littérature (abordée dans environ 24 articles). L'ENA modélise la cooccurrence de codes ou de construits au sein de segments de discours ou d'activité, produisant des réseaux qui montrent quelles idées, compétences ou actions épistémiques tendent à être connectées dans un contexte donné. Elle sert à comparer la manière dont différents groupes (par exemple, des apprenants de littératie élevée contre faible, des collaborateurs humains contre IA) structurent leur cognition. ([[tracing-genai-literacy-interaction-patterns]]) ([[hao-human-ai-collaborative-problem-solving-cognition]])
 - **L'ENA cartographie aussi le discours de compétence des [[teacher-role|éducateurs]].** En appliquant l'analyse de réseaux épistémiques à des entretiens menés avec 24 éducateurs de l'enseignement supérieur en Aotearoa Nouvelle-Zélande, l'étude a modélisé les liens entre sept dimensions du HACC et constaté que les réseaux des éducateurs principaux différaient significativement de ceux des éducateurs confirmés (U = 10,00, p = 0,04) et des éducateurs en début de carrière (U = 7,00, p = 0,01) sur le premier axe ([[dang-human-ai-collaboration-competency-2026|Dang et al. (2026)]]).
 - **L'analyse de réseaux sociaux (SNA)** — modélise les relations entre personnes (apprenants, enseignants, agents) pour révéler les structures de collaboration, l'influence, la centralité et la communauté. Utile pour étudier l'apprentissage [[collaborative-learning|collaboratif]] et par les pairs. ([[misiejuk-cognitive-offloading-prompting-2026]])
 - **L'analyse des réseaux de transition (TNA)** — modélise des séquences temporelles d'états discrets (par exemple, les actions d'un apprenant dans une séance de tutorat) comme un réseau orienté, en quantifiant la probabilité de passer d'un état à l'autre. La TNA sert à révéler les boucles comportementales, les trajectoires et les dynamiques d'appropriation dans l'interaction apprenant–IA. ([[penny-transition-network-analysis-efl-writing-2026]])
@@ -48,13 +48,13 @@ Celles-ci se distinguent d'un **[[knowledge-graph|graphe de connaissances]]**, q
 
 ## L'analyse de réseaux dans la recherche sur l'IA en éducation
 
-Les méthodes de réseau sont utilisées à travers le corpus de données probantes de la base de connaissances pour répondre à des questions que les métriques agrégées ne peuvent pas traiter :
+Les méthodes de réseau sont utilisées à travers les données probantes pour répondre à des questions que les métriques agrégées ne peuvent pas traiter :
 
 - **Ouvrir la « boîte noire » de l'interaction apprenant–IA.** La TNA révèle le *processus* — les boucles et trajectoires comportementales que les apprenants empruntent lorsqu'ils utilisent des outils d'IA (par exemple, une « boucle de révision » contre une « boucle de conversation » dans l'[[writing-education|écriture]] étayée par un [[conversational-ai|agent conversationnel]]) plutôt que la seule production finale. ([[penny-transition-network-analysis-efl-writing-2026]])
 - **Comparer la structuration cognitive entre groupes.** L'ENA montre comment différents groupes connectent différemment les construits — par exemple, comment la [[metacognition|métacognition]] cooccurrent avec la délégation contre le raisonnement humain dans la collaboration humain–IA, révélant différents modes de collaboration. ([[hao-human-ai-collaborative-problem-solving-cognition]])
 - **Retracer les signatures de littératie en IA et d'interaction.** L'ENA appliquée aux journaux d'interaction identifie des régularités distinctes d'usage des [[llm|grands modèles de langue]] (affinage stratégique itératif contre commandes linéaires), distinguant la [[ai-literacy|compétence]] et le développement de l'apprenant. ([[tracing-genai-literacy-interaction-patterns]])
 - **Analyser le discours et le cadrage.** L'ENA est appliquée à des données [[qualitative-research|qualitatives]] et [[multimodal|multimodales]] (par exemple, les cadrages de [[generative-ai|ChatGPT]] sur YouTube dans l'éducation) pour révéler la structure du discours public ou disciplinaire. ([[youtube-frames-chatgpt-education]])
-- **Compléter l'[[self-report-measures|auto-déclaration]] et les métriques de produit.** Parce que les méthodes de réseau utilisent des données comportementales observées, elles peuvent exposer les écarts entre ce que les apprenants affirment et ce qu'ils font réellement — un constat récurrent dans la littérature de la base de connaissances sur l'appropriation de la rétroaction.
+- **Compléter l'[[self-report-measures|auto-déclaration]] et les métriques de produit.** Parce que les méthodes de réseau utilisent des données comportementales observées, elles peuvent exposer les écarts entre ce que les apprenants affirment et ce qu'ils font réellement — un constat récurrent dans la littérature sur l'appropriation de la rétroaction.
 
 - **La structure de graphe comme quantité de validation, et non comme résumé descriptif.** [[synthetic-educational-data-structural-fidelity-2026|Inoue et Yasutake (2026)]] suivent β0 — le nombre de composantes connexes d'un graphe de proximité hebdomadaire entre apprenants à un seuil euclidien fixe — pour tester si des cohortes synthétiques reproduisent les cohortes réelles, le préférant parce qu'il est fixé par le graphe seul, ne nécessite ni optimisation ni germe aléatoire contrairement à la maximisation de la modularité, et reste défini lorsqu'un septième à un tiers des apprenants se retrouvent seuls dans une composante.
 

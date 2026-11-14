@@ -1,7 +1,7 @@
 ---
 title: "Comment éviter que les étudiants ne dépendent excessivement de l'IA ?"
 created: "2026-09-22T19:14:32-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 weight: 80
 type: faq
 foundations: [cognitive-offloading, reducing-ai-misuse]
@@ -11,7 +11,7 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/reducing-over-reliance
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -70,7 +70,7 @@ La séquence testée la plus claire est « réfléchir d'abord, [[generative-ai|
 
 Les données de prompts expliquent l'écart. Dans le groupe régulé, 88.6% des prompts étaient collaboratifs, et c'était le seul type de prompt significativement corrélé à l'originalité indépendante ultérieure. Dans le groupe en usage libre, 70.9% des prompts étaient non collaboratifs et 59.6% demandaient simplement à ChatGPT de générer des idées d'emblée. Le même outil, sollicité de deux façons, a produit deux apprenants différents.
 
-Sur votre feuille de consignes, cela devient une instruction d'ordre : idées, hypothèses ou brouillon d'abord, puis l'outil. Une phrase en haut de la page suffit, à condition que l'étape suivante recueille ce que l'étudiant a écrit.
+Sur votre feuille de consignes, cela devient une instruction d'ordre : idées, hypothèses ou brouillon d'abord, puis l'outil. Une phrase en haut de la feuille suffit, à condition que l'étape suivante recueille ce que l'étudiant a écrit.
 
 Deux détails de classe décident si la séquence tient. Le premier est le temps. Si la phase indépendante se déroule hors classe, certains étudiants ouvriront l'outil d'abord et noteront les idées ensuite. Le second est le recueil. Si rien n'est rendu à cette phase, la séquence n'existe que sur le papier. Une demi-page de notes, recueillie à la fin du cours, suffit à rendre l'ordre réel.
 
@@ -144,7 +144,7 @@ Le contexte compte autant que la personne, et votre cours en contrôle une parti
 
 ## Décider du poids à accorder aux données
 
-Rien dans ce corpus ne teste si une intervention précise contre la dépendance excessive tient d'un contexte ou d'un semestre à l'autre. Le « réfléchir d'abord » repose sur une seule expérience avec N = 196. Le résultat sur la rétention des réponses vient de la synthèse de [[brcic-effortless-trap-productive-struggle-2026|Brcic et Frljic (2026)]] et non d'un essai qui lui soit propre. L'argument de la friction est un commentaire conceptuel sans nouvelles données. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] énonce les limites du modèle : qualité de l'IA exogène et stationnaire, réseau fixe, vérification stylisée. Estimer les valeurs réelles demanderait des traces longitudinales des taux de vérification par tâche, de la force de la preuve sociale et de la façon dont la confiance se met à jour après un usage vérifié plutôt que non vérifié.
+Aucune donnée ne teste si une intervention précise contre la dépendance excessive tient d'un contexte ou d'un semestre à l'autre. Le « réfléchir d'abord » repose sur une seule expérience avec N = 196. Le résultat sur la rétention des réponses vient de la synthèse de [[brcic-effortless-trap-productive-struggle-2026|Brcic et Frljic (2026)]] et non d'un essai qui lui soit propre. L'argument de la friction est un commentaire conceptuel sans nouvelles données. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] énonce les limites du modèle : qualité de l'IA exogène et stationnaire, réseau fixe, vérification stylisée. Estimer les valeurs réelles demanderait des traces longitudinales des taux de vérification par tâche, de la force de la preuve sociale et de la façon dont la confiance se met à jour après un usage vérifié plutôt que non vérifié.
 
 La mesure reste le maillon faible. Les dispositifs d'enquête dominent, et [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] comme [[genai-over-reliance-learning-2026|Gao, Sun et Khan (2026)]] appellent à des suivis longitudinaux et expérimentaux. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] n'a aucune [[educational-measurement|psychométrie]] et a été conçu pour des adultes. La possibilité de combler l'écart d'équité par l'enseignement est théorique plutôt que démontrée.
 
@@ -194,4 +194,4 @@ Il vous reste un pari raisonnable, fait à peu de frais. Changez un devoir, cons
 
 ## Où aller ensuite
 
-La question voisine, celle de savoir si l'IA produit un apprentissage, est traitée dans [[does-ai-help-students-learn]]. [[reduce-ai-cheating]] traite l'intégrité et les limites de la détection, et [[redesign-assessment-ai-era]] couvre l'architecture d'évaluation que cette page suppose. Pour les idées sous-jacentes, voir [[cognitive-offloading]], [[metacognition]] et [[desirable-difficulties]].
+La question voisine, celle de savoir si l'IA produit un apprentissage, est traitée dans [[does-ai-help-students-learn]]. [[reduce-ai-cheating]] traite l'intégrité et les limites de la détection, et [[redesign-assessment-ai-era]] couvre l'architecture d'évaluation que cette approche suppose. Pour les idées sous-jacentes, voir [[cognitive-offloading]], [[metacognition]] et [[desirable-difficulties]].

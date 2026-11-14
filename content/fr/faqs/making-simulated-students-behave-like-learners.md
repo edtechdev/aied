@@ -1,7 +1,7 @@
 ---
 title: "Comment faire en sorte qu'un étudiant simulé se comporte comme un apprenant réel ?"
 created: "2026-10-02T08:36:18-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 weight: 71
 type: faq
 connected_faqs: [checking-whether-educational-ai-works, addressing-common-misconceptions-ai-education, making-ai-better-at-supporting-learning]
@@ -15,7 +15,7 @@ methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
 contributors: [editor]
 translation_of: faqs/making-simulated-students-behave-like-learners
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

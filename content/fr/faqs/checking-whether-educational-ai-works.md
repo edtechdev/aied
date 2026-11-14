@@ -1,7 +1,7 @@
 ---
 title: "Comment savoir si une IA éducative fonctionne correctement, et pas seulement qu'elle obtient de bons scores ?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
@@ -17,7 +17,7 @@ methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
 contributors: [editor]
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-11-12T15:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -64,13 +64,13 @@ L'assistant du cours Linear Control Systems rapporte cela correctement. Sa meill
 
 Dans le projet WrAFT, un modèle affiné atteignait un score d'accord de **0.84** avec des correcteurs humains sur 360 essais TOEFL mis de côté. C'est un résultat solide pour la notation. Le modèle du même projet, entraîné à rédiger de la rétroaction, produisait une sortie tronquée et non analysable, tandis que le simple fait de [[prompt-engineering|solliciter]] un autre modèle produisait une rétroaction que les enseignants préféraient ([[wraft-automated-writing-evaluation-argumentative-2026]]).
 
-La base de connaissances porte la même défaillance sous une seconde forme : un déploiement dont le module de notation obtenait de bons scores et dont la rétroaction arrivait coupée en pleine phrase et illisible. Rien dans le chiffre vedette ne le disait.
+La même défaillance apparaît sous une seconde forme : un déploiement dont le module de notation obtenait de bons scores et dont la rétroaction arrivait coupée en pleine phrase et illisible. Rien dans le chiffre vedette ne le disait.
 
 Dressez donc la liste des productions que votre système génère, puis donnez à chacune sa propre mesure et sa propre condition de réussite. La notation, le texte de rétroaction, le choix des indices et les refus de sécurité échouent de manières différentes, et un score au niveau d'un module ne voit pas au-delà de son propre module.
 
 ## Placer une personne là où le modèle doute
 
-Une corrélation vous dit que le modèle a généralement raison. Elle ne vous dit pas quoi faire les fois où il a tort. Le résultat du routage par confiance est le modèle le plus net de la base de connaissances, et il est assez court pour être recopié.
+Une corrélation vous dit que le modèle a généralement raison. Elle ne vous dit pas quoi faire les fois où il a tort. Le résultat du routage par confiance est le modèle le plus net des données probantes, et il est assez court pour être recopié.
 
 La confiance s'est révélée un signal d'alerte fiable : lorsque le modèle doutait, il avait plus de chances de se tromper (**β = -0.602, p < .001**). L'équipe a envoyé à un humain les **20%** de réponses les moins sûres. Cette seule règle a fait passer l'accord avec les notes humaines de **0.78 à 0.82** et réduit le travail de notation manuelle d'environ **80%** ([[know-when-to-trust-ai-scoring-reliability-2026]]).
 
@@ -108,7 +108,7 @@ Faites tourner la vérification sur des conversations complètes, et écrivez d�
 
 Générer des [[simulating-students|étudiants simulés]] au lieu de recruter de vrais étudiants rend l'évaluation bien moins coûteuse. Un étudiant simulé est aussi un instrument de mesure, et il peut se tromper comme se trompent les instruments : trop coopératif, trop fluide, trop prompt à accepter un indice.
 
-Le test le plus direct de la base de connaissances a comparé des étudiants simulés et des étudiants sollicités par invite à **382 dialogues mis de côté** issus de la plus grande collection publique de dialogues réels de mathématiques entre étudiants et tuteurs, à l'aide de sept mesures couvrant la langue, le comportement et la pensée ([[simulated-students-tutoring-dialogues-2026]]). D'autres travaux attaquent le réalisme par d'autres angles : [[inside-llm-student-simulator-reasoning-2026|INSIDE]] entraîne des modèles à la fois à agir et à penser comme des étudiants, et les profils conscients de l'historique conditionnent la simulation sur le passé d'un étudiant plutôt que sur une persona figée ([[history-aware-student-simulation]]).
+Le test le plus direct des données probantes a comparé des étudiants simulés et des étudiants sollicités par invite à **382 dialogues mis de côté** issus de la plus grande collection publique de dialogues réels de mathématiques entre étudiants et tuteurs, à l'aide de sept mesures couvrant la langue, le comportement et la pensée ([[simulated-students-tutoring-dialogues-2026]]). D'autres travaux attaquent le réalisme par d'autres angles : [[inside-llm-student-simulator-reasoning-2026|INSIDE]] entraîne des modèles à la fois à agir et à penser comme des étudiants, et les profils conscients de l'historique conditionnent la simulation sur le passé d'un étudiant plutôt que sur une persona figée ([[history-aware-student-simulation]]).
 
 Si votre dispositif de test est un étudiant simulé, validez le simulateur contre de vraies transcriptions avant de le laisser noter votre tuteur.
 

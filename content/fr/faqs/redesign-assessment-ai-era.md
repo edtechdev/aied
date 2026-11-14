@@ -1,12 +1,12 @@
 ---
 title: "Comment repenser l'évaluation pour qu'une note me dise encore quelque chose de défendable sur ce que l'étudiant sait ou sait faire ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-source_updated: "2026-10-28T10:45:41-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/redesign-assessment-ai-era
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]

@@ -1,7 +1,7 @@
 ---
 title: "Évaluation de l'IA en éducation"
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [benchmark]
 translation_of: concepts/ai-ed-evaluation
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **L'évaluation de l'IA en éducation (AI-ed evaluation)** — l'ensemble des méthodes, des référentiels et des critères utilisés pour évaluer si les outils d'[[ai-education|IA en éducation]] (tuteurs fondés sur les [[llm]], [[automated-assessment|correcteurs automatisés]], systèmes de rétroaction, agents) fonctionnent réellement — pas seulement au regard de la précision affichée, mais de la fiabilité, de la qualité [[pedagogy|pédagogique]], de la validité et de l'impact réel sur l'apprentissage. Un thème récurrent de la recherche de la base de connaissances est que l'évaluation doit être spécifique au domaine, sensible à la fiabilité, et ancrée dans le jugement humain et les résultats éducatifs plutôt que dans des chiffres de précision agrégés uniques.
+> **L'évaluation de l'IA en éducation (AI-ed evaluation)** — l'ensemble des méthodes, des référentiels et des critères utilisés pour évaluer si les outils d'[[ai-education|IA en éducation]] (tuteurs fondés sur les [[llm]], [[automated-assessment|correcteurs automatisés]], systèmes de rétroaction, agents) fonctionnent réellement — pas seulement au regard de la précision affichée, mais de la fiabilité, de la qualité [[pedagogy|pédagogique]], de la validité et de l'impact réel sur l'apprentissage. Un thème récurrent de la recherche est que l'évaluation doit être spécifique au domaine, sensible à la fiabilité, et ancrée dans le jugement humain et les résultats éducatifs plutôt que dans des chiffres de précision agrégés uniques.
 
 ## Questions à examiner
 
@@ -99,7 +99,7 @@ La vélocité des systèmes évalués est une contrainte supplémentaire. [[ai-t
 
 ## Connexions avec les concepts associés
 
-L'évaluation de l'IA en éducation se situe au cœur des méthodes et des risques de la base de connaissances. Elle opérationnalise l'[[assessment-validity|validité de l'évaluation]], la [[educational-measurement|mesure éducative]] et le [[benchmark|référentiel]] (benchmark) au sein de l'[[assessment|évaluation]] et de l'[[automated-assessment|évaluation automatisée]]. Son appel à la supervision humaine la relie à l'[[human-in-the-loop-ai|IA avec humain dans la boucle]] et au [[teacher-role|rôle de l'enseignant]], tandis que son accent sur la fiabilité la relie au [[hallucination-risk|risque d'hallucination]], à l'[[automated-assessment|évaluation IA sensible à la confiance]] (Confidence Aware AI Assessment) et à la [[trust-calibration|calibration de la confiance]]. La distinction entre évaluer la performance et évaluer l'apprentissage renvoie à la [[genai-performance-vs-learning|performance vs. apprentissage]] et à la [[student-modeling|modélisation de l'étudiant]] ; et l'évaluation des agents pédagogiques renvoie aux [[intelligent-tutoring|tuteurs intelligents]], à l'[[llm-training-and-fine-tuning|entraînement et au fine-tuning des LLM]] et à la [[pedagogical-safety|sécurité pédagogique]].
+L'évaluation de l'IA en éducation se situe au cœur des méthodes et des risques. Elle opérationnalise l'[[assessment-validity|validité de l'évaluation]], la [[educational-measurement|mesure éducative]] et le [[benchmark|référentiel]] (benchmark) au sein de l'[[assessment|évaluation]] et de l'[[automated-assessment|évaluation automatisée]]. Son appel à la supervision humaine la relie à l'[[human-in-the-loop-ai|IA avec humain dans la boucle]] et au [[teacher-role|rôle de l'enseignant]], tandis que son accent sur la fiabilité la relie au [[hallucination-risk|risque d'hallucination]], à l'[[automated-assessment|évaluation IA sensible à la confiance]] (Confidence Aware AI Assessment) et à la [[trust-calibration|calibration de la confiance]]. La distinction entre évaluer la performance et évaluer l'apprentissage renvoie à la [[genai-performance-vs-learning|performance vs. apprentissage]] et à la [[student-modeling|modélisation de l'étudiant]] ; et l'évaluation des agents pédagogiques renvoie aux [[intelligent-tutoring|tuteurs intelligents]], à l'[[llm-training-and-fine-tuning|entraînement et au fine-tuning des LLM]] et à la [[pedagogical-safety|sécurité pédagogique]].
 
 ## Évaluer les gains d'apprentissage
 
@@ -116,7 +116,7 @@ Des référentiels conditionnés au contexte sont nécessaires : [[zhang-tutormo
 - **Un taux d'erreur peut masquer la défaillance qu'il est censé détecter.** [[ai-mediated-input-medical-english-asr-2026|Stanchev (2026)]] a envoyé un enregistrement texte-parole d'un passage d'anglais médical à quatre services [[speech-and-voice-technologies|ASR]] : les deux services gratuits ont renvoyé 87.96% et 88.34% de la référence, tandis que les deux services payants ont renvoyé des aperçus de 32.76% et 55.35% et ont donc affiché des taux d'erreur par mot de 73.21% et 48.77%. Les taux d'erreur élevés provenaient de tokens jamais renvoyés plutôt que de tokens mal entendus ; classer sur le seul taux d'erreur a donc traité une restriction d'exportation comme un échec de transcription. La couverture doit figurer à côté du taux d'erreur chaque fois qu'une métrique automatisée se substitue à l'artefact que voit l'apprenant.
 - **Ancrer les suites d'évaluation sur l'apprentissage mesuré, et non sur des substituts.** Les référentiels de capacité d'enseignement, les barèmes de pédagogie conversationnelle et la latence des tuteurs devraient être validés par rapport aux gains d'apprentissage réels plutôt que traités comme des substituts, et la latence est elle-même un axe d'évaluation car elle détermine si les étudiants s'engagent ou non ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al. (2026)]]).
 - **Une cartographie bibliométrique peut révéler ce qu'une culture d'évaluation récompense.** Sur 1,403 publications en éducation médicale, les travaux les plus cités mesuraient la capacité des modèles, surtout la performance de ChatGPT aux examens d'autorisation d'exercice, tandis que la recherche sur la [[governance|gouvernance]] restait en retrait ; les auteurs appellent donc à une évaluation empirique des cadres de gouvernance plutôt qu'à davantage de tests de capacité ([[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]]).
-- **Les évaluations fondées sur le jugement d'experts ont besoin de leur propre comptabilité de fiabilité.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] ont fait noter par 25 experts appariés au domaine 92 [[video-education|vidéos de cours]] générées, selon un barème ancré sur « la qualité d'un cours [[online-teaching-and-learning|MOOC]] standard », jugeant 87% au niveau ou au-dessus du seuil (moyenne 3.42 sur 5). Chaque vidéo n'a été notée qu'une seule fois par un seul évaluateur (k = 1) ; la conception répartit donc le panel sur l'ensemble du corpus au prix d'une statistique d'accord inter-évaluateurs ; un modèle à intercepts aléatoires a attribué environ 35% de la variance résiduelle à l'évaluateur (ICC = 0.35) et l'article rapporte des intervalles groupés par évaluateur plutôt qu'un chiffre de précision unique. Une évaluation fondée sur le jugement d'experts n'est aussi solide que l'analyse de fiabilité qu'elle publie.
+- **Les évaluations fondées sur le jugement d'experts ont besoin de leur propre comptabilité de fiabilité.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] ont fait noter par 25 experts appariés au domaine 92 [[video-education|vidéos de cours]] générées, selon un barème ancré sur « la qualité d'un cours [[online-teaching-and-learning|MOOC]] standard », jugeant 87% au niveau ou au-dessus du seuil (moyenne 3.42 sur 5). Chaque vidéo n'a été notée qu'une seule fois par un seul évaluateur (k = 1) ; la conception répartit donc le panel sur l'ensemble des vidéos au prix d'une statistique d'accord inter-évaluateurs ; un modèle à intercepts aléatoires a attribué environ 35% de la variance résiduelle à l'évaluateur (ICC = 0.35) et l'article rapporte des intervalles groupés par évaluateur plutôt qu'un chiffre de précision unique. Une évaluation fondée sur le jugement d'experts n'est aussi solide que l'analyse de fiabilité qu'elle publie.
 
 ## Idées fausses courantes
 

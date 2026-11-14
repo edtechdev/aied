@@ -1,12 +1,12 @@
 ---
 title: "Comment puis-je réduire la triche par IA dans mon cours ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/reduce-ai-cheating
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -59,7 +59,7 @@ La synthèse [[reducing-ai-misuse|Réduire le mésusage de l'IA]] classe la refo
 
 Commencez par une étiquette. L'[[ai-assessment-scale-reform|échelle d'évaluation de l'IA (AIAS)]] attribue à chaque devoir un niveau d'usage de l'IA, depuis « aucune IA » en passant par « IA pour le remue-méninges seulement » et « assistance de l'IA avec attribution » jusqu'à « usage complet de l'IA », de sorte que l'attente soit explicite et opposable plutôt que devinée.
 
-Puis changez l'artefact. Une [[meta-analysis-systematic-review|revue systématique]] de 72 études sur l'IA générative en [[cs-education|enseignement de l'informatique]] juge la refonte à la fois faisable et la plus rentable, et isole un geste : ajouter un élément oral ou autrement visible dans le processus à au moins une évaluation à enjeu élevé par cours. Elle le qualifie d'intervention la plus efficace du corpus. La détection est le domaine le plus mince couvert par la revue, avec seulement 3 études, face à 60-80% des étudiants en informatique qui déclarent utiliser l'IA générative dans leurs travaux, généralement sans autorisation explicite de l'enseignant, et 70% d'un échantillon national d'enseignants qui demandent explicitement une formation à la conception d'évaluations résistantes à l'IA ([[kumar-genai-computing-education-systematic-review-2026]]).
+Puis changez l'artefact. Une [[meta-analysis-systematic-review|revue systématique]] de 72 études sur l'IA générative en [[cs-education|enseignement de l'informatique]] juge la refonte à la fois faisable et la plus rentable, et isole un geste : ajouter un élément oral ou autrement visible dans le processus à au moins une évaluation à enjeu élevé par cours. Elle le qualifie d'intervention la plus efficace recensée par la revue. La détection est le domaine le plus mince couvert par la revue, avec seulement 3 études, face à 60-80% des étudiants en informatique qui déclarent utiliser l'IA générative dans leurs travaux, généralement sans autorisation explicite de l'enseignant, et 70% d'un échantillon national d'enseignants qui demandent explicitement une formation à la conception d'évaluations résistantes à l'IA ([[kumar-genai-computing-education-systematic-review-2026]]).
 
 Un cours d'informatique observé sur trois ans montre à quel point un flux de déclaration étayé peut déplacer les comportements. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil et al. (2026)]] exigeaient un brouillon indépendant accompagné d'une liste de contrôle à quatre points, une étape de révision par l'IA sans réécriture, un formulaire de déclaration et une réflexion structurée, un brouillon ou un formulaire manquant valant zéro. L'adoption est passée d'environ deux tiers des étudiants sous une politique volontaire à 93% dans l'année avec étayage ; 81% et 84% des utilisateurs de l'IA déclaraient avoir rejeté ou modifié des suggestions, les correcteurs ont codé 77–81% des copies comme témoignant d'un engagement critique, et l'usage de l'IA ne prédisait pas indépendamment la qualité de la dissertation une fois la capacité d'écriture antérieure contrôlée. C'est un récit d'expérience sur un seul cours, et non un essai contrôlé, mais il montre le travail d'intégrité qui se déplace de la détection vers les conditions dans lesquelles les étudiants déclarent et révisent.
 

@@ -1,7 +1,7 @@
 ---
 title: Auto-évaluation
 created: "2026-09-21T11:21:57-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, self-regulated-learning, scaffolding]
@@ -12,7 +12,7 @@ level: [higher ed]
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 confidence: high
 translation_of: concepts/self-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -70,7 +70,7 @@ Utilisée comme mesure, l'auto-évaluation arrive généralement déguisée en a
 
 L'exactitude est le problème de tête, et le sens est constant. Les preuves les plus nettes viennent d'une étude qui a construit, au sein d'un cadre unique, des mesures auto-déclarées et objectives parallèles de la [[ai-literacy|littératie en IA]] des [[teacher-role|enseignants]]. Sur 288 enseignants du primaire et du secondaire, les corrélations entre les facteurs objectifs et auto-déclarés allaient de r = 0,07 à r = 0,24. L'[[latent-profile-analysis|analyse des profils latents]] a trouvé six profils : 43 enseignants se notaient haut de manière constante tout en obtenant des scores plus faibles à la mesure objective, 59 montraient le schéma inverse, et les profils restants se regroupaient près de la moyenne ou se séparaient selon l'expérience préalable en littératie en IA. Deux mesures d'une seule compétence, construites par la même équipe sur le même construit, ne partagent presque rien.
 
-Le tableau au niveau du domaine correspond à cette étude unique. La revue de 2026 des outils de mesure de la littératie en IA des enseignants par [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore et Maat]] a évalué 33 instruments publiés entre 2019 et 2025 et a constaté que 31 (93,9%) étaient des échelles auto-déclarées de confiance perçue, que deux seulement (6,1%) testaient les connaissances objectivement, et qu'aucun n'utilisait de tâches fondées sur la performance. La lecture des auteurs est celle sur laquelle tourne le visage « mesure » de cette page : un score auto-déclaré enregistre la confiance rapportée plutôt que la capacité, de sorte qu'il ne peut pas tenir lieu de compétence, et ils plaident pour des tâches de performance et une analyse par [[item-response-theory|théorie de la réponse aux items]] en complément de l'auto-évaluation, afin de séparer la capacité validée de la confiance rapportée.
+Le tableau au niveau du domaine correspond à cette étude unique. La revue de 2026 des outils de mesure de la littératie en IA des enseignants par [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore et Maat]] a évalué 33 instruments publiés entre 2019 et 2025 et a constaté que 31 (93,9%) étaient des échelles auto-déclarées de confiance perçue, que deux seulement (6,1%) testaient les connaissances objectivement, et qu'aucun n'utilisait de tâches fondées sur la performance. La lecture des auteurs est ce sur quoi tourne l'argument de mesure : un score auto-déclaré enregistre la confiance rapportée plutôt que la capacité, de sorte qu'il ne peut pas tenir lieu de compétence, et ils plaident pour des tâches de performance et une analyse par [[item-response-theory|théorie de la réponse aux items]] en complément de l'auto-évaluation, afin de séparer la capacité validée de la confiance rapportée.
 
 L'exactitude dépend aussi de ce qui est estimé. Une analyse psychométrique d'une auto-évaluation de la littératie en IA générative fondée sur une taxonomie, menée auprès de 158 membres du personnel et étudiants d'une université, a trouvé un profil inversé, les répondants déclarant la maîtrise de la création avant les fondements conceptuels qui la sous-tendent, et une faible corrélation seulement (r = 0,188) entre les profils étudiants et les profils du corps académique. Une enquête auprès d'étudiants en [[teacher-education|formation des enseignants]] a trouvé la même forme vue de l'autre côté : presque tous (97,8%) jugeaient l'analyse critique des médias importante, tandis que 13,8% seulement disaient que leurs cours la traitaient, et moins de la moitié (44,9%) croyaient avoir les compétences pour analyser de manière critique l'information des médias. La compétence médiatique auto-évaluée tardait par rapport à l'importance auto-évaluée.
 

@@ -1,7 +1,7 @@
 ---
 title: "FPDS Apps and Resources"
 created: "2026-09-25T18:48:15-04:00"
-updated: "2026-11-01T10:09:50-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 type: resource
 summary: "La page de ressources publique des Faculty Professional Development Services du Hillsborough College, qui réunit ses coachs de conception assistés par IA, ses cours Canvas et ses guides d'accessibilité en un seul endroit."
 url: https://fpdshc.github.io/apps/
@@ -18,9 +18,9 @@ ethics: [accessibility, universal-design-for-learning]
 audience: [instructors, faculty developers, instructional designers]
 level: [higher ed]
 confidence: high
-connected_resources: [eduprompts, gemini-notebook, liascript]
+connected_resources: [eduprompts, gemini-notebook, liascript, vibe-coding-center]
 translation_of: resources/fpds-apps-and-resources
-source_updated: "2026-10-24T11:51:12-04:00"
+source_updated: "2026-11-13T08:48:20-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ ai_assist:
 
 ## Ce que vous pouvez en faire
 
-La section IA regroupe quatre coachs conversationnels sur Playlab : un AI Teaching Coach qui associe ce qui bloque la réussite des étudiants à une stratégie fondée sur des preuves, un AI Literacy Design Coach qui adapte l'[[ai-literacy|littératie en IA]] à un cours, un Academic Habits Coach pour les étudiants, et le AI-Era Assignment Design Coach, qui existe aussi sous forme de carnet NotebookLM et de fiche de travail sans IA et traite les devoirs comme une question d'équilibre plutôt que d'invulnérabilité à l'IA. La section porte aussi un cours Canvas de supports de littératie en IA prêts à l'emploi, un parcours à rythme libre AI Petting Zoo, un Gem Gemini pour concevoir des modules en ligne, et cette base de connaissances. L'accessibilité est menée par la propre liste de contrôle Canvas du bureau, qui demande avec quoi vous travaillez et parcourt pages, images, documents, diapositives, PDF, vidéo et liens avant un balayage à l'échelle du cours ; à côté figurent le livre Pressbooks du collège sur l'[[universal-design-for-learning|accessibilité numérique]] et un Gem Gemini qui rédige du texte alternatif. L'enseignement réunit un cours-manuel pour l'[[online-teaching-and-learning|enseignement sur Canvas]], un kit de départ à copier dans votre propre cours, un cours de stratégies fondées sur des preuves avec des éléments Canvas prêts à l'emploi, et une liste de contrôle pour l'enseignement en ligne.
+La section IA regroupe quatre coachs conversationnels sur Playlab : un AI Teaching Coach qui associe ce qui bloque la réussite des étudiants à une stratégie fondée sur des preuves, un AI Literacy Design Coach qui adapte l'[[ai-literacy|littératie en IA]] à un cours, un Academic Habits Coach pour les étudiants, et le AI-Era Assignment Design Coach, qui existe aussi sous forme de carnet NotebookLM et de fiche de travail sans IA et traite les devoirs comme une question d'équilibre plutôt que d'invulnérabilité à l'IA. La section porte aussi un cours Canvas de supports de littératie en IA prêts à l'emploi, un parcours à rythme libre AI Petting Zoo, un Gem Gemini pour concevoir des modules en ligne, et cette base de connaissances. L'accessibilité est menée par la propre liste de contrôle Canvas du bureau, qui demande avec quoi vous travaillez et parcourt pages, images, documents, diapositives, PDF, vidéo et liens avant un balayage à l'échelle du cours ; à côté figurent le livre Pressbooks du collège sur l'[[universal-design-for-learning|accessibilité numérique]] et un Gem Gemini qui rédige du texte alternatif. L'enseignement réunit un cours-manuel pour l'[[online-teaching-and-learning|enseignement sur Canvas]], un kit de départ à copier dans votre propre cours, un cours de stratégies fondées sur des preuves avec des éléments Canvas prêts à l'emploi, et une liste de contrôle pour l'enseignement en ligne. Le pivot est lui-même un site statique construit en vibe-coding — le modèle que le [Vibe-Coding Center](/aied/resources/vibe-coding-center/) documente pour les enseignants qui bâtissent le leur : HTML, CSS et JavaScript simples sur GitHub Pages, sans serveur, et un dépôt sous licence MIT qu'un département peut copier.
 
 ## À qui cela s'adresse
 

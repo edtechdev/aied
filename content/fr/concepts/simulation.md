@@ -2,13 +2,13 @@
 connected_resources: [openmaic, primer]
 title: "Simulation"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-13T18:20:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
 confidence: high
 translation_of: concepts/simulation
-source_updated: "2026-11-10T21:15:00-05:00"
+source_updated: "2026-11-13T16:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ ai_assist:
 ## Questions à examiner
 
 - Rappelez-vous un moment où vous avez appris quelque chose en le faisant dans un environnement sûr et à faible enjeu — un laboratoire, un exercice simulé, un simulateur de vol ou de jeu. Qu'est-ce qui a rendu cette pratique efficace, et que pourrait-on perdre si la simulation était trop réaliste ou pas assez réaliste ?
-- La page soutient que les simulations permettent aux apprenants de commettre des erreurs et d'en voir les conséquences « sans coût réel ». Qu'est-ce qui est gagné, à votre avis, et que peut-on perdre, lorsque le coût d'une erreur tombe à presque zéro ?
+- Les simulations permettent aux apprenants de commettre des erreurs et d'en voir les conséquences « sans coût réel ». Qu'est-ce qui est gagné, à votre avis, et que peut-on perdre, lorsque le coût d'une erreur tombe à presque zéro ?
 - Si une IA peut simuler des patients, des étudiants ou des partenaires de conversation pour la pratique, où traceriez-vous la frontière entre une répétition précieuse et une pratique qui ne se transfère pas à l'interaction humaine réelle ?
 - Pourquoi la conscience qu'a un apprenant des limites d'une simulation — sa [[trust|fiabilité]] — pourrait-elle compter autant que la fidélité avec laquelle elle modélise la réalité ?
 - Comment la même technologie de simulation qui aide quelqu'un à apprendre pourrait-elle aussi l'induire en erreur, et que vous faudrait-il savoir pour distinguer ces deux issues ?
@@ -55,6 +55,7 @@ La simulation se situe au cœur des pédagogies [[experiential-learning|expérie
 - **Le jeu de rôle met l'apprenant dans le rôle.** Là où les agents simulés fournissent l'interlocuteur, le jeu de rôle donne ce rôle à l'apprenant. [[remind-robot-mediated-roleplay-antibullying-2026|Sanoubari et collègues (2026)]] ont fait regarder à 18 enfants de 9 à 10 ans une scène d'intimidation jouée par des robots sociaux, ont réfléchi avec eux à la position de chaque personnage, puis leur ont fait répéter la défense en manipulant un avatar robotique, et ont rendu compte de gains d'[[self-efficacy|auto-efficacité]] perçue pour la défense ainsi que de croyances mieux calibrées sur la question de savoir si affronter un intimidateur l'arrête réellement. Leur cadrage, le théâtre appliqué médiatisé par des robots, garde un animateur humain dans le rôle de Forum Theatre et confine l'automatisation au contrôle narratif, ce qui rappelle utilement que la partie exigeante du jeu de rôle est la réflexion plutôt que la machinerie. [[lock-integrating-ai-online-learning-higher-ed-2025|Lock, Arteaga et Johnson (2025)]] placent le jeu de rôle aux côtés de la simulation parmi les stratégies dont s'inspire l'[[online-teaching-and-learning|apprentissage en ligne]] soutenu par l'IA.
 - **Apprenants simulés :** des modèles du comportement des étudiants permettent aux [[research-methods-aied|chercheurs]] et aux concepteurs de tester les [[intelligent-tutoring|systèmes de tutorat]] et les [[curriculum-design|curricula]] avant le déploiement réel, en fondant la [[student-modeling|modélisation de l'étudiant]] et le [[knowledge-tracing|traçage des connaissances]].
 - **Confiance et fidélité :** la valeur d'une simulation dépend de la fidélité avec laquelle elle modélise le contexte réel — et de la conscience qu'a l'apprenant de ses limites, ce qui rejoint le [[trust-calibration|calibrage de la confiance]].
+- Les simulateurs d'étudiants échouent au test de fidélité là où cela compte : même le meilleur modèle affiné a manqué les erreurs que font les vrais étudiants, et l'incitation a obtenu les pires résultats, si bien qu'un simulateur doit être mesuré avant d'être jugé fiable ([[simulated-students-tutoring-dialogues-2026|Scarlatos et coll. (2026)]]).
 
 - **La similarité humaine est une propriété de l'interaction, non du modèle.** Une fois les deux moteurs rendus derrière le même avatar, un avantage de similarité humaine fondé sur le texte a disparu : les participants ont qualifié le modèle commercial de naturel (54% contre 22%) tandis que la performance de communication était identique ; la voix, la latence et la prise de parole ont remodelé la manière dont la même qualité de dialogue était perçue ([[sophie-clinical-communication-ai-assessment-2026|Hasan et coll. (2026)]]).
 - **L'[[generative-ai|IA générative]] dans l'apprentissage par simulation.** [[genai-scenario-based-healthcare-education-2026|Neto et collègues (2026)]] [[meta-analysis-systematic-review|examinent systématiquement]] l'IA générative dans l'apprentissage par scénarios, par cas, par problèmes et par simulation dans la formation aux professions de santé, constatant des résultats positifs pour les compétences cognitives d'ordre supérieur mais des résultats incohérents ailleurs, avec une [[human-ai-collaboration|collaboration hybride humain-IA]] surpassant les approches entièrement automatisées. [[conversational-agents-business-simulation-gaming-2026|Wenzel, Geiger et Liening (2026)]] développent des agents conversationnels d'IA pour un soutien adaptatif dans les jeux de simulation de gestion, en traitant le manque courant de retour [[formative-assessment|formatif]] et de réflexion structurée dans l'apprentissage par simulation.

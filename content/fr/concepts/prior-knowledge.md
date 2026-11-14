@@ -1,14 +1,14 @@
 ---
 title: Connaissances antérieures
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -31,7 +31,7 @@ ai_assist:
 
 - Qu'avez-vous appris en profondeur, et qu'avez-vous eu du mal à apprendre ? Quelle part de la différence tenait à ce que vous saviez déjà au moment de commencer ?
 - Avoir des connaissances antérieures ne suffit pas — il faut les récupérer et les relier activement. Quand le fait de vous rappeler ce que vous saviez déjà (ou l'échec à le faire) a-t-il changé la qualité de votre apprentissage de quelque chose de nouveau ?
-- Cette page dit que les connaissances antérieures peuvent *interférer* lorsqu'elles sont fausses (une idée fausse). Pouvez-vous penser à une croyance que vous entreteniez et qui a rendu plus difficile l'apprentissage d'une information nouvelle et correcte ?
+- Les connaissances antérieures peuvent *interférer* lorsqu'elles sont fausses (une idée fausse). Pouvez-vous penser à une croyance que vous entreteniez et qui a rendu plus difficile l'apprentissage d'une information nouvelle et correcte ?
 - Une IA générative qui pré-récupère les réponses peut contourner la pratique de récupération qui active les connaissances antérieures. Comment un outil conçu pour vous aider à apprendre pourrait-il en réalité vous empêcher de vous rappeler ce que vous savez ?
 - Si une IA doit estimer votre état de connaissances antérieures pour personnaliser, que se passe-t-il lorsque cette estimation est fausse ? À quel point êtes-vous confiant qu'un système puisse savoir avec précision ce que vous savez déjà ?
 - En quoi « activer les connaissances antérieures » diffère-t-il du simple fait de poser une question aux étudiants avant d'[[teacher-role|enseigner]] ? Qu'est-ce qui rendrait cette activation propre à approfondir l'apprentissage qui suit ?

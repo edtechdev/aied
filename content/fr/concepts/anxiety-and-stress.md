@@ -1,7 +1,7 @@
 ---
 title: "Anxiété et stress"
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
 translation_of: concepts/anxiety-and-stress
-source_updated: "2026-11-12T10:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -125,7 +125,7 @@ Le versant positif : les systèmes d'IA détectent et aident de plus en plus à 
 
 ## Pourquoi cela se distingue du bien-être
 
-Le [[well-being|bien-être]] est l'état positif large (santé émotionnelle, psychologique, sociale) que l'IA peut soutenir ou saper. **L'anxiété et le stress liés à l'IA** est le construit émotionnel spécifique et mesurable au sein de cet espace — il nomme l'affect négatif discret et ses usages productifs, et il dispose de son propre corpus de preuves dédié (stress de la surveillance, anxiété productive face à l'IA, détection du stress pilotée par l'IA). Plutôt que de rivaliser avec le bien-être, cette page développe en profondeur la dimension de l'anxiété et du stress, et renvoie abondamment au [[well-being|bien-être]], à l'[[social-emotional-learning|apprentissage socioémotionnel]], à l'[[affective-computing|informatique affective]] et à la [[remote-proctoring|surveillance des examens à distance]].
+Le [[well-being|bien-être]] est l'état positif large (santé émotionnelle, psychologique, sociale) que l'IA peut soutenir ou saper. **L'anxiété et le stress liés à l'IA** est le construit émotionnel spécifique et mesurable au sein de cet espace — il nomme l'affect négatif discret et ses usages productifs, et il dispose de son propre corpus de preuves dédié (stress de la surveillance, anxiété productive face à l'IA, détection du stress pilotée par l'IA). Plutôt que de rivaliser avec le bien-être, la dimension de l'anxiété et du stress dispose de sa propre littérature, développée en profondeur et reliée au [[well-being|bien-être]], à l'[[social-emotional-learning|apprentissage socioémotionnel]], à l'[[affective-computing|informatique affective]] et à la [[remote-proctoring|surveillance des examens à distance]].
 
 ## Conseils pratiques
 - **Concevoir pour l'anxiété, et pas seulement pour l'intégrité.** Les systèmes de surveillance et de suivi par l'IA devraient minimiser les fausses accusations et le stress de la surveillance, en particulier pour les étudiants novices et vulnérables ; assortir la surveillance d'alternatives accessibles et d'une communication claire.

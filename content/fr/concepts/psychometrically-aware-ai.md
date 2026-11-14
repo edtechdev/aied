@@ -1,13 +1,13 @@
 ---
 title: IA psychométriquement informée
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 ## Questions à examiner
 
 - Une IA note la réponse d'un étudiant et rend un score au ton assuré. Sur quelle base feriez-vous confiance à ce chiffre — et votre réponse change-t-elle lorsque vous apprenez que le modèle n'a été calibré sur aucun standard de mesure ?
-- La page met en garde contre la substitution de la confiance brute du modèle aux preuves psychométriques. Pensez à un moment où vous avez cru une sortie d'IA assurée qui s'est révélée fausse. Qu'est-ce qui rendait sa confiance non méritée, et à quoi aurait ressemblé à la place une sortie « sensible à l'incertitude » ?
+- La confiance brute d'un modèle ne remplace pas les preuves psychométriques. Pensez à un moment où vous avez cru une sortie d'IA assurée qui s'est révélée fausse. Qu'est-ce qui rendait sa confiance non méritée, et à quoi aurait ressemblé à la place une sortie « sensible à l'incertitude » ?
 - Les [[research-methods-aied|recherches]] ont constaté que, sur le même instrument d'évaluation, les structures de réponse humaines et celles des LLM divergent — ce qui signifie qu'un modèle peut bien noter tout en mesurant autre chose que ce que l'examen vise. Si vous étiez un [[teacher-role|enseignant]] utilisant un correcteur IA, comment détecteriez-vous que le test « signifie » quelque chose de différent pour la machine et pour vos étudiants ?
 - La prédiction de la difficulté des items utilise des LLM pour estimer la difficulté d'une question. Avant de lire, considérez ceci : « cette question est-elle difficile ? » est-il un fait portant sur la question, ou sur les personnes (ou les modèles) qui y répondent — et qu'implique cette ambiguïté pour l'usage de l'IA dans le calibrage des examens ?
 - Le calibrage, la fidélité et la validité sont des concepts de la mesure aux sens précis. Lesquels avez-vous réellement examinés dans votre propre pratique d'évaluation, et où pourriez-vous vous appuyer sur une sortie d'IA qui n'a jamais été confrontée à eux ?

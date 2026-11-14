@@ -1,14 +1,14 @@
 ---
 title: Apprentissage par projets
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 pedagogy: [active-learning, collaborative-learning, project-based-learning]
 technology: [educational-robotics]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/project-based-learning
-source_updated: "2026-11-12T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -45,7 +45,7 @@ Le PjBL est étroitement apparenté à l'[[active-learning|apprentissage actif]]
 
 L'apprentissage par projets est étroitement apparenté à — mais distinct de — l'[[problem-based-learning|apprentissage par problèmes]] : tous deux sont centrés sur l'apprenant et mus par le contexte, mais l'apprentissage par problèmes se centre sur un *problème* mal structuré dont la solution exige investigation et construction de connaissances, là où l'apprentissage par projets se centre sur la production d'un *projet* ou d'un artefact tangible. Les deux sont fréquemment confondus, et de nombreux cadres de l'IA dans l'éducation puisent aux deux sources (voir la page [[problem-based-learning|apprentissage par problèmes]] pour le traitement propre à l'ère de l'IA).
 
-### Comment le PjBL apparaît dans les recherches de la base de connaissances
+### Comment le PjBL apparaît dans la recherche
 
 - **Projets de robotique :** [[bots-blocks-project-based-robotics-education-2026|Bots and Blocks]] présente une approche agile de type apprentissage par projets, s'étendant sur un semestre, pour enseigner la robotique dans un programme appliqué de [[cs-education|sciences informatiques]], en répondant à l'écart théorie-pratique.
 - **L'Approche par projet dans la petite enfance avec des agents d'IA :** [[creative-project-approach-ai-early-childhood-2025|Yang, Li et Lee (2025)]] étendent la forme fondatrice du PjBL — l'Approche par projet (Katz et Chard), une investigation collaborative étendue sur un sujet du monde réel — à la [[early-childhood-elementary-ai-education|petite enfance]], en proposant une **Creative Project Approach** en cinq étapes qui intègre des [[agentic-ai|agents d'IA]] et des [[educational-robotics|robots]] (robots programmables et robots sociaux génératifs) dans des projets pour favoriser l'[[creativity|apprentissage créatif]] des jeunes enfants. Les cinq étapes — identifier les besoins d'apprentissage, faciliter l'interaction enfant-robot guidée par l'[[teacher-role|enseignant]], situer l'IA dans des contextes, calibrer l'équilibre automatisation/créativité et évaluer les résultats — maintiennent l'enseignant comme facilitateur guidant l'investigation, positionnant le PjBL comme le véhicule naturel d'un usage de l'IA adapté au développement des plus jeunes apprenants.

@@ -1,7 +1,7 @@
 ---
 title: "Comment l'IA peut-elle soutenir les apprenants multilingues sans mal juger leurs connaissances ni effacer leur voix ?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-06T04:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -51,7 +51,7 @@ Dans une [[biology-education|explication de biologie]], la grammaire est surtout
 
 ## Ce que la recherche soutient, et ce qu'elle ne soutient pas
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez et Arabadzhy (2026)]] ont passé en revue 24 études empiriques sur les [[conversational-ai|chatbots]] génératifs en [[language-learning|apprentissage des langues]]. Leur apport est taxonomique : chaque sous-affordance cataloguée pour les chatbots pré-génératifs persiste, et trois sont nouvelles, dont le **translanguaging**, le passage délibéré d'une langue à l'autre comme partie de l'apprentissage. C'est une carte des usages et des expériences rapportés plutôt qu'une estimation regroupée, et le corpus est géographiquement concentré, la Chine, l'Iran, Taïwan et la Turquie représentant 19 des 24 études et toutes sauf une se déroulant dans des institutions formelles. Le soutien à l'usage de l'explication translinguistique comme geste d'apprentissage n'est pas un soutien à la traduction de chaque devoir.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez et Arabadzhy (2026)]] ont passé en revue 24 études empiriques sur les [[conversational-ai|chatbots]] génératifs en [[language-learning|apprentissage des langues]]. Leur apport est taxonomique : chaque sous-affordance cataloguée pour les chatbots pré-génératifs persiste, et trois sont nouvelles, dont le **translanguaging**, le passage délibéré d'une langue à l'autre comme partie de l'apprentissage. C'est une carte des usages et des expériences rapportés plutôt qu'une estimation regroupée, et les études sont géographiquement concentrées, la Chine, l'Iran, Taïwan et la Turquie représentant 19 des 24 études et toutes sauf une se déroulant dans des institutions formelles. Le soutien à l'usage de l'explication translinguistique comme geste d'apprentissage n'est pas un soutien à la traduction de chaque devoir.
 
 C'est dans l'évaluation que les preuves deviennent plus nettes et les enjeux plus élevés. [[ai-scoring-language-bias-physics|Feser et Tschisgale (2026)]] ont comparé onze approches de notation automatisée aux notes d'experts humains pour les explications de physique de 116 élèves du secondaire et ont trouvé une sous-estimation systématique de la compréhension conceptuelle pour les explications linguistiquement plus faibles, dans chacune des approches. Le plan isole le mécanisme : le même contenu conceptuel, exprimé dans une prose plus faible, obtenait une note plus basse. Ce n'est pas une affirmation sur les étudiants multilingues d'un pays particulier, et c'est exactement le schéma qui fait de la concordance globale de notation un mauvais diagnostic. Un correcteur peut s'accorder en moyenne avec des correcteurs humains tout en se trompant dans une direction cohérente pour les étudiants dont la langue est encore en développement.
 
@@ -73,7 +73,7 @@ Ce sont des usages à tester, pas des interventions validées. Un outil qui réu
 
 ## Protéger le sens et la voix de l'étudiant
 
-Demandez une aide ciblée avant de demander une réécriture, car une réécriture complète est l'endroit où la pensée de l'étudiant quitte la page. Une demande qui vaut la peine d'être enseignée : « Identifie deux endroits où mon sens est obscur. Explique le problème et propose des options. Garde mes exemples et n'ajoute aucune affirmation. » L'étudiant choisit ensuite.
+Demandez une aide ciblée avant de demander une réécriture, car une réécriture complète est l'endroit où la pensée de l'étudiant quitte le brouillon. Une demande qui vaut la peine d'être enseignée : « Identifie deux endroits où mon sens est obscur. Explique le problème et propose des options. Garde mes exemples et n'ajoute aucune affirmation. » L'étudiant choisit ensuite.
 
 Une séquence qui garde le travail du côté de l'étudiant :
 

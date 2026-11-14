@@ -1,7 +1,7 @@
 ---
 title: "Comment rédiger une politique d'usage de l'IA pour un cours et la communiquer aux étudiants ?"
 created: "2026-09-22T19:16:30-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 weight: 70
 type: faq
 foundations: [academic-integrity, framing-ai-use-for-students, reducing-ai-misuse]
@@ -12,7 +12,7 @@ audience: [instructors, curriculum designers]
 level: [higher ed, secondary]
 methods: [qualitative-research]
 institutions: [educational-policy-ai]
-source_updated: "2026-11-12T15:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/course-ai-policy
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -81,7 +81,7 @@ Trois documents, trois fonctions.
 
 **La salle** porte la première énonciation orale. Dites la règle une fois, au moment où elle s'applique pour la première fois, liée au travail qu'ils ont devant eux. Une règle qu'un étudiant rencontre seul est une règle qu'il interprète seul.
 
-Les modalités de divulgation méritent leur propre paragraphe, et ce devrait être le plus concret de la page. Les étudiants qui ont cocréé une politique de cours par questionnement guidé ont priorisé la formation des étudiants et des enseignants, des **procédures de divulgation standardisées**, un soutien institutionnel plus fort et une plus grande participation aux décisions sur l'IA ([[guided-inquiry-genai-course-policy-2026|Hingle et Johri (2026)]]). Dites comment, où et sous quelle forme un étudiant déclare un usage, et dites-le une seule fois.
+Les modalités de divulgation méritent leur propre paragraphe, et ce devrait être le paragraphe le plus concret de la politique. Les étudiants qui ont cocréé une politique de cours par questionnement guidé ont priorisé la formation des étudiants et des enseignants, des **procédures de divulgation standardisées**, un soutien institutionnel plus fort et une plus grande participation aux décisions sur l'IA ([[guided-inquiry-genai-course-policy-2026|Hingle et Johri (2026)]]). Dites comment, où et sous quelle forme un étudiant déclare un usage, et dites-le une seule fois.
 
 [[teaching-intro-ai-course-redesign-bill-of-rights-2026|Pisan (2026)]] a trouvé une version plus forte du même geste : faire du journal de prompts l'artefact noté. Quand un modèle fait la production, le prompt et l'enregistrement de l'interaction sont ce qui vaut la peine d'être versionné, de sorte que la déclaration cesse d'être de la paperasse et devient une preuve que l'étudiant construit.
 

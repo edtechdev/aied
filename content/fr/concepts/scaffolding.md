@@ -1,7 +1,7 @@
 ---
 title: "L'étayage"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -11,7 +11,7 @@ assessment: [feedback]
 confidence: high
 connected_resources: [onmicro-ai]
 translation_of: concepts/scaffolding
-source_updated: "2026-11-11T11:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -35,10 +35,10 @@ ai_assist:
 
 ## Questions à examiner
 
-- Songez à un moment où quelqu'un vous a « aidé » dans quelque chose que vous appreniez, et où l'aide a si bien fait le travail que vous avez moins appris. Où se situe la limite entre un soutien qui vous laisse grandir et un soutien qui vous remplace ? La page soutient qu'il s'agit de la question de conception centrale pour les tuteurs d'IA.
+- Songez à un moment où quelqu'un vous a « aidé » dans quelque chose que vous appreniez, et où l'aide a si bien fait le travail que vous avez moins appris. Où se situe la limite entre un soutien qui vous laisse grandir et un soutien qui vous remplace ? C'est là la question de conception centrale pour les tuteurs d'IA.
 - L'étayage est enraciné dans la zone proximale de développement — assez de soutien pour permettre le progrès, mais pas au point que l'apprentissage soit contourné. À quoi ressemble un « trop de soutien » dans un tuteur d'IA, et pouvez-vous le détecter à partir du seul comportement de l'étudiant ?
 - Un constat clé : les étudiants *préfèrent* souvent les rôles de tuteur d'IA les plus directifs alors même qu'ils *obtiennent de meilleures performances* avec des rôles de collaborateur et d'assistant du [[teacher-role|professeur]]. La préférence de l'apprenant suit-elle fidèlement ce qui est le meilleur pour l'apprentissage — et qu'implique cette divergence pour le fait de laisser les étudiants choisir leur propre étayage ?
-- Un étayage qui ne s'atténue jamais crée une dépendance. La page note que les étayages automatisés risquent de rester statiques au lieu d'être retirés à mesure que la compétence croît. Pourquoi l'« atténuation » est-elle essentielle, et pourquoi un système d'IA pourrait-il échouer à le faire s'il n'est pas délibérément conçu pour cela ?
+- Un étayage qui ne s'atténue jamais crée une dépendance. Les étayages automatisés risquent exactement cela : rester en place à mesure que la compétence croît. Pourquoi l'« atténuation » est-elle essentielle, et pourquoi un système d'IA pourrait-il échouer à le faire s'il n'est pas délibérément conçu pour cela ?
 - Le principe de conception est « étayer, ne pas substituer ». Les étudiants eux-mêmes demandaient une IA qui « ne fournit aucune solution à votre place — vous apprenez toujours car vous devez trouver vous-même la réponse correcte ». Cela correspond-il à la manière dont vous avez vécu une aide efficace, ou avez-vous préféré le raccourci tout en sachant ce qu'il vous coûtait ?
 - Fixez-vous un objectif avant de lire : choisissez une tâche que vous enseignez, et esquissez à quoi ressemble un indice qui préserve l'effort de l'apprenant par rapport à une réponse qui le supprime. Comment saurez-vous que vos indices se situent dans la zone de lutte productive ?
 

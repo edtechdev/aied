@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Apprentissage autodirigé
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -10,7 +10,7 @@ technology: [generative-ai]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/self-directed-learning
-source_updated: "2026-11-12T21:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -32,7 +32,7 @@ ai_assist:
 ## Questions à examiner
 
 - L'apprentissage autodirigé signifie diagnostiquer ses propres besoins, fixer des objectifs et évaluer les résultats avec une structure externe limitée. Avant de lire, à quel point êtes-vous réellement à l'aise pour diriger votre propre apprentissage — et un outil d'IA vous a-t-il déjà rendu *moins* capable de le faire, sans que vous le remarquiez ?
-- La page présente l'apprentissage autodirigé comme à la fois un résultat espéré et une vulnérabilité : la commodité de l'IA générative peut éroder l'autonomie et l'auto-efficacité mêmes que l'apprentissage autodirigé exige. Pourquoi un outil qui vous donne des réponses instantanées rendrait-il *plus difficile* le fait de diriger votre propre apprentissage par la suite ?
+- L'apprentissage autodirigé est à la fois un résultat espéré et une vulnérabilité : la commodité de l'IA générative peut éroder l'autonomie et l'auto-efficacité mêmes que l'apprentissage autodirigé exige. Pourquoi un outil qui vous donne des réponses instantanées rendrait-il *plus difficile* le fait de diriger votre propre apprentissage par la suite ?
 - On a constaté que l'usage irréfléchi de l'IA générative — adopter des sorties sans [[critical-thinking|évaluation critique]] — nuit à l'apprentissage autodirigé à la fois directement et en érodant l'auto-efficacité et la motivation. Vous souvenez-vous d'un moment où vous avez accepté une réponse d'IA sans l'évaluer ? Qu'est-ce que cela vous a coûté, si tant est que cela vous ait coûté quelque chose ?
 - L'apprentissage autodirigé et l'apprentissage autorégulé (SRL) sont étroitement apparentés mais distincts : l'apprentissage autorégulé concerne la [[regulation|régulation]] de l'apprentissage sur le moment, tandis que l'apprentissage autodirigé concerne la responsabilité d'ensemble dans le temps. Où voyez-vous, dans votre propre pratique, la frontière entre « gérer cette tâche » et « diriger mon propre apprentissage » ?
 - Le préjudice de l'usage irréfléchi de l'IA a frappé la motivation plus durement chez certains étudiants et l'auto-efficacité plus durement chez d'autres. Si l'érosion de ces ressources psychologiques est inégale selon les apprenants, quelle préoccupation d'[[equity-in-ai-education|équité]] cela soulève-t-il quant à savoir qui perd le plus à la commodité de l'IA ?
@@ -44,13 +44,13 @@ L'apprentissage autodirigé est un proche voisin de l'[[self-regulated-learning|
 
 ## Comment l'IA générative remodèle l'apprentissage autodirigé
 
-Les [[research-methods-aied|recherches]] de la base de connaissances documentent les deux faces de la relation entre l'IA générative et l'apprentissage autodirigé.
+La recherche documente les deux faces de la relation entre l'IA générative et l'apprentissage autodirigé.
 
 - **L'IA peut soutenir l'apprentissage autodirigé.** L'[[ai-lifelong-learning-policy|IA et l'apprentissage tout au long de la vie]] et la [[self-directed-growth-generative-ai-learning-analytics|croissance autodirigée avec l'IA générative et l'analytique de l'apprentissage]] montrent que les outils d'IA peuvent [[scaffolding|étayer]] l'investigation indépendante, fournir des ressources à la demande et personnaliser les parcours d'apprentissage de manières qui renforcent l'autonomie de l'apprenant. Les [[genai-educational-outcomes-meta-analysis|preuves méta-analytiques]] sur les résultats éducatifs de l'IA générative et l'[[conversational-ai-informal-learning|IA conversationnelle dans l'apprentissage informel]] suggèrent un potentiel positif lorsque l'IA est utilisée comme une ressource que l'apprenant dirige.
 - **Les apprenants veulent un partenaire de réflexion, non un oracle.** Interrogés, les apprenants adultes voulaient que l'IA suscite la réflexion et vérifie plutôt qu'elle ne fournisse des réponses, et qu'elle les laisse maîtres de l'[[recommender-systems-and-learning-paths|parcours d'apprentissage]] plutôt qu'elle ne le prescrive ([[kim-ai-andragogy-2026|Kim et coll. (2026)]]).
 
-- **Déléguer le choix de l'objectif n'est pas la même chose que le soutenir.** La page traite la fixation de l'objectif comme l'acte central de l'apprenant, et les données probantes de benchmark disent que les modèles le font autrement. Face à 175 humains, GPT-5, Claude Sonnet 4.5 et Qwen3 32B ont re-sélectionné l'objectif précédent dans 0,93, 0,93 et 0,94 des essais, contre 0,54 ± 0,18 pour les personnes. L'entropie des objectifs était de 0,12 à 0,20 contre 1,67 ± 0,14, et les invites de chaîne de raisonnement comme de persona n'ont pas comblé l'écart. Un système qui propose quoi apprendre ensuite reproduit une recherche plus étroite que l'apprenant qu'il représente ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al., 2026]]).
-- **L'usage irréfléchi mine l'apprentissage autodirigé.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao et Gu (2026)]] montrent que l'**usage irréfléchi de l'IA générative** — adopter les sorties de l'IA sans évaluation critique — nuit significativement à l'apprentissage autodirigé des étudiants de premier cycle, à la fois directement et par l'érosion de l'[[self-efficacy|auto-efficacité]] et de la [[motivation|motivation]] (le modèle expliquait 75,3% de la variance de l'apprentissage autodirigé ; TUGA β = −0,42). L'effet négatif sur la motivation était plus fort chez les étudiants de sexe masculin, et sur l'auto-efficacité plus fort chez les étudiantes. Cela rejoint le risque plus large de [[cognitive-offloading|dépendance excessive]] documenté dans la base de connaissances.
+- **Déléguer le choix de l'objectif n'est pas la même chose que le soutenir.** Fixer l'objectif est l'acte central de l'apprenant, et les données probantes de benchmark disent que les modèles le font autrement. Face à 175 humains, GPT-5, Claude Sonnet 4.5 et Qwen3 32B ont re-sélectionné l'objectif précédent dans 0,93, 0,93 et 0,94 des essais, contre 0,54 ± 0,18 pour les personnes. L'entropie des objectifs était de 0,12 à 0,20 contre 1,67 ± 0,14, et les invites de chaîne de raisonnement comme de persona n'ont pas comblé l'écart. Un système qui propose quoi apprendre ensuite reproduit une recherche plus étroite que l'apprenant qu'il représente ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al., 2026]]).
+- **L'usage irréfléchi mine l'apprentissage autodirigé.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao et Gu (2026)]] montrent que l'**usage irréfléchi de l'IA générative** — adopter les sorties de l'IA sans évaluation critique — nuit significativement à l'apprentissage autodirigé des étudiants de premier cycle, à la fois directement et par l'érosion de l'[[self-efficacy|auto-efficacité]] et de la [[motivation|motivation]] (le modèle expliquait 75,3% de la variance de l'apprentissage autodirigé ; TUGA β = −0,42). L'effet négatif sur la motivation était plus fort chez les étudiants de sexe masculin, et sur l'auto-efficacité plus fort chez les étudiantes. Cela rejoint le risque plus large de [[cognitive-offloading|dépendance excessive]].
 
 - **Usage non guidé à l'échelle d'une population.** Chez 4 062 étudiants de 136 établissements secondaires allemands, l'usage de l'IA générative pour accomplir des tâches et l'usage orienté vers l'apprentissage ont tous deux augmenté au cours d'une année scolaire (d = 0,35 et 0,33), seuls 5% des étudiants n'ayant jamais utilisé les outils ; un niveau de réussite antérieur plus faible prédisait un usage ultérieur plus important dans les six matières, mais aucune des deux formes d'usage ne prédisait la réussite ultérieure ([[scherer-self-directed-genai-use-secondary-2026|Scherer et coll. (2026)]]).
 

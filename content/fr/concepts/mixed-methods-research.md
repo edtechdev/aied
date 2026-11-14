@@ -1,13 +1,13 @@
 ---
 title: "Recherche à méthodes mixtes"
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-11-10T18:55:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -27,8 +27,8 @@ ai_assist:
 
 ## Questions à examiner
 
-- Supposez qu'une enquête montre que des étudiants déclarent une grande satisfaction à l'égard d'un outil d'IA, mais que les scores aux tests ne s'améliorent pas. Quel nombre est « le bon » ? La page soutient que combiner des fils quantitatifs et qualitatifs permet à chacun d'expliquer l'autre — comment un entretien pourrait-il expliquer ce que les nombres seuls ne peuvent pas ?
-- Une vision courante est que les nombres sont objectifs et les entretiens anecdotiques, si bien que les preuves quantitatives sont supérieures. La page traite au contraire les deux comme complémentaires — ampleur et précision du côté des nombres, profondeur et sens du côté des mots. Quand un nombre sans contexte trompe-t-il davantage qu'un entretien ?
+- Supposez qu'une enquête montre que des étudiants déclarent une grande satisfaction à l'égard d'un outil d'IA, mais que les scores aux tests ne s'améliorent pas. Quel nombre est « le bon » ? Combiner des fils quantitatifs et qualitatifs permet à chacun d'expliquer l'autre. Comment un entretien pourrait-il expliquer ce que les nombres seuls ne peuvent pas ?
+- Une vision courante est que les nombres sont objectifs et les entretiens anecdotiques, si bien que les preuves quantitatives sont supérieures. Les deux sont mieux traités comme complémentaires : ampleur et précision du côté des nombres, profondeur et sens du côté des mots. Quand un nombre sans contexte trompe-t-il davantage qu'un entretien ?
 - Un schéma de conception (explicatif séquentiel) recueille d'abord des données quantitatives, puis utilise des entretiens pour expliquer les résultats surprenants. Pouvez-vous penser à un résultat éducatif qui était déroutant numériquement jusqu'à ce que des récits qualitatifs en révèlent le mécanisme ?
 - La triangulation est la valeur centrale : lorsque des fils indépendants convergent, la confiance augmente, et lorsqu'ils divergent, l'écart lui-même est informatif. Avez-vous déjà eu deux sources de preuves sur une même chose qui se contredisaient — et qu'avez-vous appris du conflit ?
 - Les méthodes mixtes peuvent capter à la fois les effets (quelle ampleur de gain d'apprentissage) et le sens (confiance, identité, autonomie) — des choses qu'aucune enquête ni entretien isolé ne capture. Si vous étudiiez la question de savoir si un outil d'IA aide les étudiants, quelles questions quantitatives et qualitatives associeriez-vous, et dans quel ordre ?
@@ -47,7 +47,7 @@ Sur 394 études de [[generative-ai|GenAI]] dans l'enseignement supérieur, 213 (
 - **Convergent/parallèle.** Les fils quantitatif et qualitatif se déroulent simultanément et sont intégrés dans l'analyse. [[t2i-competence-paradox-2026|L'étude du paradoxe des compétences]] utilise en parallèle des groupes de discussion d'enseignants, une enquête d'étudiants et des entretiens de suivi ; [[fouad-bentley-trust-utility-gap-physics-2026|l'étude sur l'écart confiance–utilité]] combine des preuves d'enquête et d'entretien sur l'adoption de l'IA par les étudiants en physique.
 - **Un fil quantitatif généré par machine.** [[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang et coll. (2026)]] ont généré le fil quantitatif BREQ à partir des transcriptions d’entretiens des participants selon un dispositif convergent — une voie d’intégration qui ne repose pas sur le seul travail humain. Les corrélations LLM–humain allaient de moyennes à élevées (ρ = 0,5 à 0,73), les RMSE de l’item, de la personne et du test quantifiaient la distance par rapport aux réponses humaines, et les items à formulation négative 6, 7 et 11 marquaient le bénéfice de triangulation le plus net, signalant où les preuves d’entretien et d’enquête divergent.
 
-## Comment les méthodes mixtes apparaissent dans la base de connaissances
+## Comment les méthodes mixtes apparaissent dans la recherche
 
 - **Expliquer les mécanismes.** [[same-ai-different-pathways]] combine des fils pour déballer les mécanismes de l'apprentissage médié par l'IA à travers les contextes discipline–institution, là où des différences quantitatives seules seraient opaques.
 - **Compléter les données de résultats par l'expérience.** [[hazra-safetutors-pedagogical-safety-2026|La sécurité des tuteurs d'IA]] associe des indicateurs quantitatifs de préjudice à des récits qualitatifs de [[pedagogy|préjudice pédagogique]] ; [[t2i-competence-paradox-2026]] associe des résultats d'enquête quantitatifs à des récits qualitatifs de négociation de l'identité.

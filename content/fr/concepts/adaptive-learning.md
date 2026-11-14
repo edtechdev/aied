@@ -1,13 +1,13 @@
 ---
 title: "Apprentissage adaptatif"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/adaptive-learning
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,7 @@ ai_assist:
 
 ## Données probantes sur l'efficacité
 
-La base de connaissances documente des données probantes contrastées : les systèmes adaptatifs améliorent les résultats lorsque l'adaptation est fondée sur des [[student-modeling|modèles de l'apprenant]] fiables, mais une adaptation mal calibrée peut nuire à l'apprentissage. La [[personalized-learning|recherche sur la personnalisation]] distingue l'adaptation efficace de la personnalisation superficielle. Des [[khalifeh-redefining-personalized-learning-ai-2026|revues systématiques]] constatent que les apprentissages « adaptatif », « personnalisé », « individualisé » et « sur mesure » sont employés de façon incohérente — de sorte que les tailles d'effet dépendent fortement de la manière dont l'adaptation est opérationnalisée, et le champ appelle à un cadre unifié.
+Les données probantes sont contrastées : les systèmes adaptatifs améliorent les résultats lorsque l'adaptation est fondée sur des [[student-modeling|modèles de l'apprenant]] fiables, mais une adaptation mal calibrée peut nuire à l'apprentissage. La [[personalized-learning|recherche sur la personnalisation]] distingue l'adaptation efficace de la personnalisation superficielle. Des [[khalifeh-redefining-personalized-learning-ai-2026|revues systématiques]] constatent que les apprentissages « adaptatif », « personnalisé », « individualisé » et « sur mesure » sont employés de façon incohérente — de sorte que les tailles d'effet dépendent fortement de la manière dont l'adaptation est opérationnalisée, et le champ appelle à un cadre unifié.
 
 Une revue PRISMA 2020, qui a passé au crible 959 enregistrements pour retenir 22 interventions dans l'enseignement supérieur, compte les parcours adaptatifs et les [[recommender-systems-and-learning-paths|systèmes de recommandation]] parmi les principales applications de l'IA, mais la plupart des études ont amélioré la pratique existante plutôt que de la transformer ([[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikh et al. (2026)]]).
 

@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: "Conception par le design"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed]
 confidence: low
 translation_of: concepts/design-thinking
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Design thinking** — un concept clé de la recherche sur l'[[ai-education|IA en éducation]] : un processus itératif de [[problem-solving|résolution de problèmes]], centré sur l'humain (typiquement Empathize → Define → Ideate → Prototype → Test), qui fait passer les apprenants de la compréhension d'un problème à la production et à l'affinage d'une solution. Exploré à travers 8 articles dans cette base de connaissances.
+> **Design thinking** — un concept clé de la recherche sur l'[[ai-education|IA en éducation]] : un processus itératif de [[problem-solving|résolution de problèmes]], centré sur l'humain (typiquement Empathize → Define → Ideate → Prototype → Test), qui fait passer les apprenants de la compréhension d'un problème à la production et à l'affinage d'une solution. Exploré à travers 8 articles.
 
 ## Questions à examiner
 
@@ -34,14 +34,14 @@ ai_assist:
 - L'IA générative excelle dans l'idéation de début de projet mais peut provoquer une « design fixation » ou un enfermement esthétique si elle est utilisée sans esprit critique. Vous est-il arrivé de vous accrocher à une première suggestion de l'IA et de peiner à envisager des alternatives ?
 - Une étude a montré qu'une IA adversarial qui mettait les designers au défi produisait plus d'itérations, une exploration plus large et de meilleurs designs finals — tout en étant frustrante à utiliser. Quand la friction avec une IA est-elle réellement productive ?
 - Les étudiants qui ont beaucoup utilisé l'IA générative en design ont déclaré qu'elle ne réduisait PAS leur sentiment de paternité ni leur créativité. Cela contredit-il l'inquiétude selon laquelle l'IA érode la paternité de l'œuvre — ou cela dépend-il de la manière dont l'outil est orchestré ?
-- Le design thinking entre dans ce corpus de deux manières : comme compétence enseignée aux apprenants et évaluée chez eux, et comme approche que les enseignants adoptent lorsqu'ils créent des apprentissages soutenus par l'IA. Quel rôle est le plus pertinent pour votre travail, et en quoi cela change-t-il les principes de conception que vous appliqueriez ?
+- Le design thinking entre dans l'enseignement soutenu par l'IA de deux manières : comme compétence enseignée aux apprenants et évaluée chez eux, et comme approche que les enseignants adoptent lorsqu'ils créent des apprentissages soutenus par l'IA. Quel rôle est le plus pertinent pour votre travail, et en quoi cela change-t-il les principes de conception que vous appliqueriez ?
 - En pratique, l'essentiel de l'effort va à la formulation itérative d'[[prompt-engineering|invites]] et à la génération, tandis que l'évaluation des besoins des apprenants et les boucles de rétroaction sont négligées. Que signifie traiter l'IA comme un « collaborateur co-intelligent faillible » plutôt que comme un générateur de contenu ?
 
 ## Introduction
 
-Le design thinking se situe à l'intersection de la créativité, de l'artisanat et de la critique — et c'est de plus en plus le lieu où l'[[generative-ai|IA générative]] et l'[[agentic-ai|IA agentique]] remodèlent la manière dont les étudiants apprennent à concevoir. Dans les articles liés de cette base de connaissances, le design thinking apparaît sous deux rôles distincts : comme *objet [[pedagogy|pédagogique]]* (la compétence enseignée et mesurée) et comme *méthode pédagogique* (le processus que les éducateurs emploient eux-mêmes pour construire des apprentissages soutenus par l'IA). Dans les deux rôles, la même tension revient : les outils génératifs peuvent accélérer l'idéation et élargir la participation, mais leur valeur dépend de la manière dont ils sont orchestrés, du [[feedback]] qu'ils fournissent, et de ce que l'apprenant conserve un sentiment authentique d'[[agency]].
+Le design thinking se situe à l'intersection de la créativité, de l'artisanat et de la critique — et c'est de plus en plus le lieu où l'[[generative-ai|IA générative]] et l'[[agentic-ai|IA agentique]] remodèlent la manière dont les étudiants apprennent à concevoir. Dans la recherche, le design thinking apparaît sous deux rôles distincts : comme *objet [[pedagogy|pédagogique]]* (la compétence enseignée et mesurée) et comme *méthode pédagogique* (le processus que les éducateurs emploient eux-mêmes pour construire des apprentissages soutenus par l'IA). Dans les deux rôles, la même tension revient : les outils génératifs peuvent accélérer l'idéation et élargir la participation, mais leur valeur dépend de la manière dont ils sont orchestrés, du [[feedback]] qu'ils fournissent, et de ce que l'apprenant conserve un sentiment authentique d'[[agency]].
 
-## Données probantes issues de la base de connaissances
+## Données probantes issues de la recherche
 
 - **L'IA générative dans les ateliers de design et l'architecture.** Deux études centrées sur l'architecture ancrent le concept dans la [[arts-design-and-media-education|pédagogie d'atelier]]. [[genai-architecture-education|Gen-AI-tecture]] a montré qu'un outil exécuté localement et [[discipline-specific-aied|propre à la discipline]] renforçait la fluidité créative, élargissait la participation parmi des profils d'apprenants diversifiés, et consolidait la confiance dans les workflows soutenus par l'IA — un signal important pour l'[[equity-in-ai-education|équité]] à mesure que le design visuospatial devient plus accessible. [[genai-architectural-design-studios|GenAI in architectural design studios]] a de même montré que les étudiants utilisaient l'IA générative comme stimuli visuels et ressources d'inspiration dans l'idéation précoce, et comme méthode combinatoire pour élargir l'espace des solutions pendant le développement. Surtout, les deux avertissent que, sans discernement critique, les étudiants risquent la **design fixation** ou l'enfermement esthétique, ce qui reformule le [[teacher-role]] dans l'[[higher-ed|enseignement supérieur]] : transmettre l'artisanat cède la place à l'accompagnement sur comment, quand et pourquoi déléguer l'exploration créative aux modèles génératifs. La [[creativity|créativité]] s'en trouve ainsi préservée, et même amplifiée — mais seulement sous une orchestration pédagogique soigneuse.
 

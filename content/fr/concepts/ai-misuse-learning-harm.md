@@ -1,7 +1,7 @@
 ---
 title: "Usages abusifs de l'IA et préjudices pour l'apprentissage"
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -10,7 +10,7 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-11-12T21:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,7 @@ ai_assist:
 
 ## Introduction
 
-L'usage abusif de l'IA se distingue de l'usage de l'IA. L'usage décrit l'emploi de l'IA comme complément de l'apprentissage — une [[feedback|rétroaction]], un remue-méninges ou une aide à la révision qui maintient le travail cognitif de l'apprenant dans la boucle. L'usage abusif décrit la substitution : déléguer à l'IA les processus mentaux mêmes (rédiger, se remémorer, analyser, réviser) qui bâtissent une compréhension durable. Le préjudice documenté dans le corpus de preuves de la base de connaissances n'est pas que l'usage abusif ne parvient pas à aider ; c'est qu'il dégrade activement la réussite ultérieure, non assistée.
+L'usage abusif de l'IA se distingue de l'usage de l'IA. L'usage décrit l'emploi de l'IA comme complément de l'apprentissage — une [[feedback|rétroaction]], un remue-méninges ou une aide à la révision qui maintient le travail cognitif de l'apprenant dans la boucle. L'usage abusif décrit la substitution : déléguer à l'IA les processus mentaux mêmes (rédiger, se remémorer, analyser, réviser) qui bâtissent une compréhension durable. Le préjudice documenté n'est pas que l'usage abusif ne parvient pas à aider ; c'est qu'il dégrade activement la réussite ultérieure, non assistée.
 
 Les préjudices anticipés sont eux-mêmes documentés : dans des données suédoises d'enquête et de groupes de discussion, [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] rapportent la même crainte à partir de données suédoises : 51% des participants (n = 106) estimaient que l'usage de l'IA générative pouvait freiner le développement individuel, évoquant une érosion de la [[critical-thinking|pensée critique]], de la [[creativity|créativité]] et de l'autonomie plutôt que des infractions aux règles.
 
@@ -117,7 +117,7 @@ La littérature sur le gaming-the-system (l'abus d'indices, les réponses devin�
 
 ## Idées fausses courantes
 
-**« Les étudiants remarqueraient si l'IA nuisait à leur apprentissage. »** Ils ne le remarquent pas, et c'est le fait le plus lourd de conséquences de la page : **les étudiants du groupe lésé n'ont pas perçu qu'ils apprenaient moins.** L'[[self-report-measures|auto-déclaration]] n'est donc pas un signal d'alerte précoce utilisable. Le schéma 48% de pratique en plus / 17% d'examen en moins est invisible pour la personne qui le vit, ce qui explique pourquoi la détection du préjudice doit reposer sur la mesure plutôt que sur le témoignage.
+**« Les étudiants remarqueraient si l'IA nuisait à leur apprentissage. »** Ils ne le remarquent pas, et c'est le fait le plus lourd de conséquences des données probantes : **les étudiants du groupe lésé n'ont pas perçu qu'ils apprenaient moins.** L'[[self-report-measures|auto-déclaration]] n'est donc pas un signal d'alerte précoce utilisable. Le schéma 48% de pratique en plus / 17% d'examen en moins est invisible pour la personne qui le vit, ce qui explique pourquoi la détection du préjudice doit reposer sur la mesure plutôt que sur le témoignage.
 
 **« Le risque, c'est la quantité d'IA qu'un étudiant utilise. »** Le risque tient à ce à quoi l'IA se substitue. L'usage abusif désigne ici le fait de déléguer la rédaction, le rappel ou l'analyse qui bâtit une compréhension durable — une substitution plutôt qu'un complément — et un étudiant peut substituer massivement dans une tâche et compléter de façon productive dans la suivante. Le volume d'usage est la mauvaise variable ; la répartition du travail cognitif est la bonne.
 

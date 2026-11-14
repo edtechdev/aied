@@ -1,7 +1,7 @@
 ---
 title: "L'enseignement des sciences"
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 pedagogy: [inquiry-based-learning]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [science education, stem education]
 confidence: medium
 connected_resources: [teacher-dev]
 translation_of: concepts/science-education
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -25,11 +25,11 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **[[science-education|L'enseignement des sciences]]** — l'étude et la pratique de la manière dont les élèves apprennent les sciences et dont on les enseigne, un domaine aujourd'hui remodelé par l'IA générative (LLM, simulations, laboratoires virtuels et correction automatique) en [[physics-education|physique]], en chimie et en [[biology-education|biologie]]. Les articles sur l'enseignement des sciences de cette base de connaissances révèlent un champ qui négocie une tension centrale : l'IA soutient de manière démontrable la démarche d'investigation, la correction des conceptions erronées et l'évaluation à grande échelle, mais sa valeur dépend de la conception pédagogique, et elle comporte des risques réels de [[cognitive-offloading|délégation excessive]], d'hallucination et d'apprentissage déshumanisé, guidé par le profit.
+> **[[science-education|L'enseignement des sciences]]** — l'étude et la pratique de la manière dont les élèves apprennent les sciences et dont on les enseigne, un domaine aujourd'hui remodelé par l'IA générative (LLM, simulations, laboratoires virtuels et correction automatique) en [[physics-education|physique]], en chimie et en [[biology-education|biologie]]. La littérature sur l'enseignement des sciences révèle un champ qui négocie une tension centrale : l'IA soutient de manière démontrable la démarche d'investigation, la correction des conceptions erronées et l'évaluation à grande échelle, mais sa valeur dépend de la conception pédagogique, et elle comporte des risques réels de [[cognitive-offloading|délégation excessive]], d'hallucination et d'apprentissage déshumanisé, guidé par le profit.
 
 ## Questions à examiner
 
-- La page s'ouvre sur une tension : l'IA soutient de manière démontrable la démarche d'investigation et la correction des conceptions erronées à grande échelle, mais sa valeur dépend entièrement de la conception pédagogique. Avant de lire, pensez à un outil qui vous a semblé puissant mais pédagogiquement vide dans votre enseignement des sciences — qu'est-ce qui a fait la différence ?
+- Une tension centrale traverse les preuves : l'IA soutient de manière démontrable la démarche d'investigation et la correction des conceptions erronées à grande échelle, mais sa valeur dépend entièrement de la conception pédagogique. Avant de lire, pensez à un outil qui vous a semblé puissant mais pédagogiquement vide dans votre enseignement des sciences — qu'est-ce qui a fait la différence ?
 - Lors d'une démarche d'investigation en physique facilitée par l'IA, le système a « inventé » des valeurs de masse que personne n'avait mesurées, sous la pression des élèves. Que révèle cet incident sur le fait de traiter les productions de l'IA comme faisant autorité en sciences, et comment former les élèves à traiter une réponse qui sonne avec assurance ?
 - Les recherches suggèrent que l'IA apporte peut-être aujourd'hui plus de valeur comme générateur de contenu évolutif que comme tuteur interactif — dans une étude, des textes de changement conceptuel bien conçus (écrits par un expert ou par l'IA) ont battu un dialogue avec l'IA piloté par des invites. Cela vous surprend-il, et qu'est-ce que cela suggère quant à l'endroit où se situe réellement, à l'heure actuelle, le bénéfice pédagogique de l'IA en sciences ?
 - L'IA a corrigé 10,364 évaluations manuscrites de physique avec une forte concordance avec les correcteurs humains, alors que les modèles multimodaux accusent encore des lacunes sur le raisonnement complexe et la génération de schémas. Qu'est-ce qui, dans un travail scientifique « authentique, riche en représentations », pourrait résister à l'évaluation automatisée ?

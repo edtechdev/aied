@@ -1,7 +1,7 @@
 ---
 title: Texte réfutatif
 created: "2026-08-26T10:20:00-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition, scaffolding]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [science education]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/refutation-text
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ foundations: [misconceptions]
 
 ## Questions à examiner
 
-- Vous est-il arrivé de « corriger » l'idée fausse d'un étudiant en présentant simplement la bonne réponse, pour voir la conception erronée resurgir plus tard ? La page soutient que les conceptions erronées ne sont pas des lacunes, mais des croyances activement entretenues qui résistent à l'enseignement ordinaire. Qu'est-ce que ce recadrage dit de la raison pour laquelle votre correction a échoué ?
+- Vous est-il arrivé de « corriger » l'idée fausse d'un étudiant en présentant simplement la bonne réponse, pour voir la conception erronée resurgir plus tard ? La croyance persiste parce qu'elle est activement entretenue, et non parce que l'information manquait. Qu'est-ce que ce recadrage dit de la raison pour laquelle votre correction a échoué ?
 - Un texte réfutatif énonce explicitement la conception erronée, la réfute et offre la conception correcte — à la différence d'un texte explicatif standard qui présente simplement la vérité. Pourquoi nommer à voix haute la mauvaise idée aiderait-il à la changer, là où enseigner seulement la bonne idée ne le fait apparemment pas ?
 - La recherche est partagée sur la question de savoir si le dialogue personnalisé par IA bat le texte réfutatif statique : dans une étude, le dialogue interactif a produit un changement de croyance plus ample et plus rapide ; dans une autre, des textes bien conçus ont surpassé une conversation d'IA sollicitée par prompt. Qu'est-ce qui pourrait expliquer ces résultats contradictoires, et que vous apprend-il sur l'idée que « l'interactivité est toujours préférable » ?
 - L'IA peut aujourd'hui générer des textes réfutatifs efficaces d'une qualité égale à ceux des experts, et même générer des conceptions erronées pour amorcer une discussion structurée entre pairs. L'idée d'enseigner délibérément à partir d'idées fausses générées par l'IA vous paraît-elle risquée ou productive — et dans quelles conditions l'essaieriez-vous ?

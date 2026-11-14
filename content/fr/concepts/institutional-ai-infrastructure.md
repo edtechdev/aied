@@ -1,7 +1,7 @@
 ---
 title: Infrastructure institutionnelle d'IA
 created: "2026-11-12T12:35:00-05:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 connected_resources: [mindrouter, amplify-genai]
 technology: [llm, generative-ai, open-source, edtech-platform]
@@ -12,7 +12,7 @@ discipline: [information technology]
 confidence: high
 contributors: [editor]
 translation_of: concepts/institutional-ai-infrastructure
-source_updated: "2026-11-12T14:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -40,7 +40,7 @@ Les établissements ont passé les premières années de l'[[generative-ai|IA g�
 
 Traiter l'IA comme une infrastructure est la réponse. Cela signifie une couche de service partagée, une passerelle qui applique les règles de l'établissement à chaque requête, et assez de télémétrie pour voir le coût, la charge et les défaillances. L'affirmation de la littérature n'est pas que cela coûte moins cher. Elle est que cela fait de l'établissement la partie qui décide, ce qui est un type d'affirmation différent et plus difficile à tester.
 
-Les articles rassemblés ici élargissent aussi ce qui compte comme infrastructure. Deux concernent l'inférence pour le dialogue et l'enseignement, un concerne le bureau du registraire, et un concerne les dossiers d'évaluation. Une fois que l'articulation des cours, l'[[learning-analytics|analyse]] de la charge de travail et l'accumulation de preuves dépendent d'embeddings et d'appels de modèles, l'arrière-bureau fait autant partie de la pile que la baie de GPU. C'est l'argument que cette page avance désormais : l'infrastructure est partout où un établissement a discrètement délégué une décision à un modèle.
+Les articles rassemblés ici élargissent aussi ce qui compte comme infrastructure. Deux concernent l'inférence pour le dialogue et l'enseignement, un concerne le bureau du registraire, et un concerne les dossiers d'évaluation. Une fois que l'articulation des cours, l'[[learning-analytics|analyse]] de la charge de travail et l'accumulation de preuves dépendent d'embeddings et d'appels de modèles, l'arrière-bureau fait autant partie de la pile que la baie de GPU. L'argument est que l'infrastructure est partout où un établissement a discrètement délégué une décision à un modèle.
 
 ## Ce que vous choisissez réellement
 
@@ -98,7 +98,7 @@ Le résultat d'adoption est celui que les planificateurs d'infrastructure devrai
 
 ## L'évaluation comme problème de plomberie
 
-[[mcnamara-aimcai-continuous-assessment-infrastructure-2026|AIM-CAI]] soutient que les preuves nécessaires pour interpréter l'apprentissage existent déjà mais sont fragmentées entre des systèmes incapables de se lire mutuellement. Son cadre comporte six couches fonctionnelles, trois frontières inférentielles qui limitent ce qu'un instantané peut soutenir, et sept exigences de gouvernance dont l'auditabilité, l'estimation de l'incertitude et la reprise humaine. C'est un cadre plutôt qu'un déploiement, et la page le dit.
+[[mcnamara-aimcai-continuous-assessment-infrastructure-2026|AIM-CAI]] soutient que les preuves nécessaires pour interpréter l'apprentissage existent déjà mais sont fragmentées entre des systèmes incapables de se lire mutuellement. Son cadre comporte six couches fonctionnelles, trois frontières inférentielles qui limitent ce qu'un instantané peut soutenir, et sept exigences de gouvernance dont l'auditabilité, l'estimation de l'incertitude et la reprise humaine. C'est un cadre plutôt qu'un déploiement, et les auteurs le disent.
 
 [[lata-ferpa-compliant-local-llm-autograder|LaTA]] fournit le cas plus étroit : un modèle de raisonnement local qui supprime la question [[privacy|FERPA]] liée à l'envoi de travaux étudiants à un fournisseur plutôt que de la gérer. Ensemble, ils suggèrent que l'infrastructure d'évaluation n'est pas une fonctionnalité d'une plateforme d'apprentissage mais un problème distinct avec son propre modèle de données et ses propres modes de défaillance.
 
@@ -111,6 +111,20 @@ Les plateformes hébergées à l'échelle d'un district rapportent le même type
 ## La souveraineté a une dimension d'équité
 
 Une passerelle peut router vers un modèle local qui traite mal la langue de l'établissement, et le silence qui en résulte n'est pas neutre. L'argument de l'infrastructure et celui de la [[digital-divide|fracture numérique]] se rejoignent ici : les établissements dotés de clusters et de personnel gagnent en capacité, et ceux qui n'en ont pas absorbent ce que le fournisseur offre au prix que le fournisseur fixe. Les offres gratuites sont réellement utiles et réellement fragiles, ce qui fait de leur traitement comme stratégie permanente une décision sur les établissements qui sont servis.
+
+## Implications pour la pratique
+
+Les cadres supérieurs peuvent commencer par nommer la forme dans laquelle chaque unité se trouve réellement. Les six formes diffèrent par qui détient les données et qui absorbe les défaillances, et la plupart des établissements en cumulent plusieurs à la fois : un tenant pour le personnel, un outil gratuit dans un département, une plateforme hébergée dans un autre. Un inventaire d'une page de ce qui est utilisé, de où vont les données et de qui peut changer le modèle est plus utile qu'un document de stratégie qui n'en décrit qu'une seule.
+
+Les responsables des TI et des bibliothèques peuvent faire de la passerelle le lieu où la politique s'applique. Fontys, MindRouter et SPIN convergent vers le même contrat : une seule surface d'API, des quotas par utilisateur, l'intégration des identités, un routage régional et une fiche de modèle affichée avant l'envoi de la requête. Une règle qui vit dans un PDF et une règle qui vit dans un routeur sont des objets différents, et seule la seconde tient quand un nouveau modèle apparaît.
+
+Le personnel des finances et des achats peut instrumenter le coût avant de choisir un fournisseur. Les licences par siège, les plateformes hébergées et les passerelles à la consommation récompensent des formes d'usage différentes, et la seule façon de savoir laquelle est la moins chère est de mesurer les jetons, les utilisateurs actifs et la charge de pointe. Le service de Purdue a atteint environ 1000 utilisateurs pour environ 100 000 dollars de matériel ; un pilote hébergé rapporte environ 3 dollars par utilisateur et par mois. Ces chiffres ne sont pas comparables sans le même dénominateur.
+
+Les centres d'enseignement et d'apprentissage peuvent traiter les pilotes sur des paliers gratuits comme des pilotes. Les outils gratuits sont la raison pour laquelle beaucoup d'éducateurs peuvent essayer quoi que ce soit, et ils s'accompagnent de l'absence de piste d'audit, de l'absence de quota et de conditions qui peuvent changer. Un pilote qui réussit devrait passer à une forme que l'établissement peut gouverner.
+
+Les chefs d'établissement sans centre de données peuvent tout de même faire tourner un modèle local. Un ordinateur de bureau reconditionné avec un GPU d'entrée de gamme héberge un petit modèle pour un bâtiment, et le gain de confidentialité est physique plutôt que contractuel. Il reste un système de rétention, si bien que la journalisation et l'accès demeurent des décisions de conception.
+
+Les chefs de département peuvent regarder au-delà de la fenêtre de clavardage. L'articulation des cours, l'analytique de la charge de travail, l'étiquetage et les dossiers d'évaluation sont là où les établissements ont déjà délégué des décisions à un modèle, et ces systèmes exigent la même gouvernance qu'un agent conversationnel, généralement avec moins d'examen.
 
 ## Idées fausses courantes
 

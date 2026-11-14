@@ -1,7 +1,7 @@
 ---
 title: "Avatars IA et instructeurs synthétiques"
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [human-ai-collaboration, teacher-role, academic-integrity]
 pedagogy: [professional-training, experiential-learning, situated-learning, video-education]
@@ -13,7 +13,7 @@ level: [higher ed, teacher education]
 audience: [instructors, instructional designers]
 confidence: medium
 translation_of: concepts/ai-avatars-and-synthetic-instructors
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ ai_assist:
 
 Un avatar IA est une représentation humaine rendue ou animée par un modèle ; un instructeur synthétique est cette représentation placée dans un rôle d'enseignement. Les deux ne se confondent pas avec un agent. [[theelen-classroom-simulations-four-layer-framework-2026|Theelen et coll. (2026)]] séparent la représentation de l'[[agency|agentivité]] : l'avatar est ce qu'un participant voit, tandis que l'acteur derrière lui peut être un pair, un spécialiste de la simulation, un script, un système à règles ou un [[llm|LLM]]. Deux étudiants virtuels identiques peuvent donc offrir des rencontres entièrement différentes.
 
-Cette page est organisée par rôle : quel rôle l'humain synthétique occupe, quelles preuves existent pour lui, et ce que la surface fait à la relation de l'apprenant avec le système. La littérature ci-dessous couvre la vidéo de cours, le tutorat, la simulation clinique, la répétition d'enseignement, le jeu de rôle et l'évaluation.
+Le propos est organisé par rôle : quel rôle l'humain synthétique occupe, quelles preuves existent pour lui, et ce que la surface fait à la relation de l'apprenant avec le système. La littérature ci-dessous couvre la vidéo de cours, le tutorat, la simulation clinique, la répétition d'enseignement, le jeu de rôle et l'évaluation.
 
 ## Six rôles qu'un humain synthétique peut occuper
 

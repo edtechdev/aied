@@ -1,7 +1,7 @@
 ---
 title: "La manière dont l'usage de l'IA est présenté aux étudiants"
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-11-05T19:20:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T12:55:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,7 @@ Le cadrage détermine aussi si les étudiants font l'expérience de l'IA comme d
 
 ### Présenter l'IA comme un outil productif, non comme une menace à bannir
 
-L'intervention de cadrage la plus directement testée dans la base de connaissances est une expérience naturelle de six ans suivant un cours de [[visualization|visualisation]] de données selon trois conditions : avant l'IA générative, IA générative disponible (présente mais non intégrée), et IA générative intégrée (enseignement explicite + encouragement à utiliser l'IA sur les travaux appliqués, interdiction limitée à la partie de vérification des connaissances). Le résultat : le simple fait de *rendre* l'IA accessible a été associé à un usage inefficace ou contraire à l'éthique par les étudiants, tandis que le fait de *présenter et d'intégrer explicitement* son usage approprié a rétabli et amélioré les résultats sur les questions appliquées.([[moral-panic-genai-classroom]]) La leçon est que le cadrage (la manière dont l'IA est positionnée et enseignée) compte autant que la présence de l'outil — encourager un usage approprié vaut mieux que le condamner ou l'ignorer.
+L'intervention de cadrage la plus directement testée est une expérience naturelle de six ans suivant un cours de [[visualization|visualisation]] de données selon trois conditions : avant l'IA générative, IA générative disponible (présente mais non intégrée), et IA générative intégrée (enseignement explicite + encouragement à utiliser l'IA sur les travaux appliqués, interdiction limitée à la partie de vérification des connaissances). Le résultat : le simple fait de *rendre* l'IA accessible a été associé à un usage inefficace ou contraire à l'éthique par les étudiants, tandis que le fait de *présenter et d'intégrer explicitement* son usage approprié a rétabli et amélioré les résultats sur les questions appliquées.([[moral-panic-genai-classroom]]) La leçon est que le cadrage (la manière dont l'IA est positionnée et enseignée) compte autant que la présence de l'outil — encourager un usage approprié vaut mieux que le condamner ou l'ignorer.
 
 ### Communiquer les attentes clairement et de façon répétée — et concevoir en pensant aux étudiants
 
@@ -57,7 +57,7 @@ Parce que la seule conscience des règles ne modifie pas le comportement, un cad
 
 ### Dire le pourquoi, pas seulement le quoi
 
-Le levier de cadrage le plus direct dans la base de connaissances est de fournir la *raison* d'une limite, tâche par tâche, rédigée comme si l'on s'adressait aux étudiants (« vous devrez… », « nous… »). L'étude de cas de conception de [[mccorkle-aligned-genai-course-policy-2025|McCorkle (2025)]] documente le mécanisme : après que des conversations tenues pendant les heures de bureau eurent révélé que les étudiants qui avaient lu une interdiction ne croyaient pas qu'elle s'appliquait à eux, elle a reconstruit la politique de sorte que chaque usage autorisé ou non de l'IA générative fût justifié par l'[[assessment|évaluation]] précise qu'il protège — par exemple, l'aide de l'IA générative pour les objectifs d'apprentissage n'est pas autorisée parce que « j'évalue votre capacité à rédiger des objectifs d'apprentissage spécifiques, mesurables et à un niveau approprié » — et a délivré cette justification à la fois dans le plan de cours et sous forme de rappels au moment opportun, à l'intérieur des consignes de travaux. Un cadrage par la justification est un geste d'[[equity-in-ai-education|équité]] autant qu'un geste de persuasion : il présuppose moins de connaissances partagées sur la paternité de l'œuvre, l'originalité et l'attribution, et il transforme la politique en un dialogue plutôt qu'en un verdict ([[academic-integrity]]).
+Le levier de cadrage le plus direct est de fournir la *raison* d'une limite, tâche par tâche, rédigée comme si l'on s'adressait aux étudiants (« vous devrez… », « nous… »). L'étude de cas de conception de [[mccorkle-aligned-genai-course-policy-2025|McCorkle (2025)]] documente le mécanisme : après que des conversations tenues pendant les heures de bureau eurent révélé que les étudiants qui avaient lu une interdiction ne croyaient pas qu'elle s'appliquait à eux, elle a reconstruit la politique de sorte que chaque usage autorisé ou non de l'IA générative fût justifié par l'[[assessment|évaluation]] précise qu'il protège — par exemple, l'aide de l'IA générative pour les objectifs d'apprentissage n'est pas autorisée parce que « j'évalue votre capacité à rédiger des objectifs d'apprentissage spécifiques, mesurables et à un niveau approprié » — et a délivré cette justification à la fois dans le plan de cours et sous forme de rappels au moment opportun, à l'intérieur des consignes de travaux. Un cadrage par la justification est un geste d'[[equity-in-ai-education|équité]] autant qu'un geste de persuasion : il présuppose moins de connaissances partagées sur la paternité de l'œuvre, l'originalité et l'attribution, et il transforme la politique en un dialogue plutôt qu'en un verdict ([[academic-integrity]]).
 
 ### Transformer l'anxiété et l'incertitude en compétence évaluative
 
@@ -79,6 +79,8 @@ La présentation rejoint la [[motivation|motivation]] par la [[self-determinatio
 
 Les étudiants sont aussi cadrés par les médias et le discours public plus larges autour de l'[[ai-education|IA en éducation]], ce qui façonne leurs attentes de référence avant tout message de l'enseignant. Les analyses du discours public et de la manière dont des plateformes comme YouTube cadrent l'usage de ChatGPT dans l'éducation montrent que les cadres dominants — l'emballement, la catastrophe ou le pragmatisme — influencent la manière dont les apprenants et les [[teacher-role|éducateurs]] abordent la technologie.([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]) Une présentation efficace par les enseignants signifie souvent contrer ou réorienter délibérément ces récits ambiants.
 
+Le cadrage fixe aussi le prix du diplôme en aval : auprès d'environ 1,750 professionnels du recrutement américains, décrire l'usage étudiant de l'IA comme une substitution plutôt qu'une assistance abaissait la probabilité d'entretien et la volonté de négocier un salaire, le plus nettement pour les candidats à forte moyenne ([[boyd-swan-employer-responses-genai-2026|Boyd-Swan & Reynolds, 2026]]).
+
 ## Conseils pratiques
 
 - **Positionner l'IA comme une ressource productive** en enseignant explicitement *quand* et *comment* l'utiliser, plutôt qu'en la bannissant ou en l'ignorant — le cadrage intégré vaut mieux que la condamnation comme que le laissez-faire.
@@ -90,13 +92,13 @@ Les étudiants sont aussi cadrés par les médias et le discours public plus lar
 
 ## Idées fausses courantes
 
-**« Une politique claire dit aux étudiants quelles sont les règles, donc la présentation est superflue. »** Un texte de politique n'est pas un cadrage, et l'écart se voit dans les comportements : la plupart des étudiants utilisent l'IA générative, **beaucoup ne savent pas si leur propre usage est conforme**, et ils se tournent vers des outils accessés de manière privée plutôt que vers ceux fournis par l'établissement. Un étudiant qui ne peut pas dire s'il est en conformité ne reçoit pas de communication, quoi qu'énonce le document, et c'est pourquoi la page place « dire le pourquoi, pas seulement le quoi » dans sa méthode.
+**« Une politique claire dit aux étudiants quelles sont les règles, donc la présentation est superflue. »** Un texte de politique n'est pas un cadrage, et l'écart se voit dans les comportements : la plupart des étudiants utilisent l'IA générative, **beaucoup ne savent pas si leur propre usage est conforme**, et ils se tournent vers des outils accessés de manière privée plutôt que vers ceux fournis par l'établissement. Un étudiant qui ne peut pas dire s'il est en conformité ne reçoit pas de communication, quoi qu'énonce le document, et c'est pourquoi la règle pratique est « dire le pourquoi, pas seulement le quoi ».
 
-**« Publier une politique et fournir un outil sous licence couvre la responsabilité institutionnelle. »** L'accès et l'usage effectif sont des résultats différents, et cette page existe parce que c'est sur le second que se situe le levier. Les [[guardrails|garde-fous]] structurels changent l'environnement automatiquement, mais l'[[scaffolding|étayage]], la formation à la littératie et les politiques d'usage ne prennent racine que lorsque les étudiants sont réellement convaincus de leur bien-fondé : c'est la dépendance à l'adhésion que la page nomme.
+**« Publier une politique et fournir un outil sous licence couvre la responsabilité institutionnelle. »** L'accès et l'usage effectif sont des résultats différents, et cette page existe parce que c'est sur le second que se situe le levier. Les [[guardrails|garde-fous]] structurels changent l'environnement automatiquement, mais l'[[scaffolding|étayage]], la formation à la littératie et les politiques d'usage ne prennent racine que lorsque les étudiants sont réellement convaincus de leur bien-fondé : c'est la dépendance à l'adhésion.
 
 **« Interdire un outil fait disparaître le comportement. »** Cela le déplace vers des outils que vous ne voyez pas. Les étudiants préfèrent déjà les outils accessés de manière privée à ceux fournis par l'établissement, si bien qu'une interdiction pousse l'usage hors du seul environnement où un soutien, une journalisation ou des conseils sont possibles. La tâche de cadrage est de rendre le comportement autorisé attrayant, non de rendre le comportement interdit plus difficile à observer.
 
-**« La présentation relève de la persuasion, donc elle tient plus de la rhétorique que de la conception. »** Le cadrage que décrit cette page s'associe à la conception : des attentes énoncées clairement et de façon répétée *tout en concevant en pensant aux étudiants*. Des messages délivrés au lieu d'une conception pensée pour eux, c'est la version qui échoue, parce que les étudiants perçoivent la différence entre un engagement déclaré et un engagement réel.
+**« La présentation relève de la persuasion, donc elle tient plus de la rhétorique que de la conception. »** Un cadrage efficace s'associe à la conception : des attentes énoncées clairement et de façon répétée *tout en concevant en pensant aux étudiants*. Des messages délivrés au lieu d'une conception pensée pour eux, c'est la version qui échoue, parce que les étudiants perçoivent la différence entre un engagement déclaré et un engagement réel.
 
 ## Concepts liés
 

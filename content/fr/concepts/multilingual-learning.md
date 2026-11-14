@@ -2,14 +2,14 @@
 title: "Apprentissage multilingue"
 connected_resources: [mglearn]
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-11-05T19:20:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T13:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -30,9 +30,9 @@ ai_assist:
 ## Questions à examiner
 
 - La plupart des modèles d'IA sont entraînés d'abord sur des langues à fortes ressources comme l'anglais. Si vous pensez, étudiez ou êtes évalué dans une autre langue, en quoi cela pourrait-il vous désavantager systématiquement — même si l'outil semble « fonctionner » en anglais ?
-- La page avertit qu'un biais monolingue non traité dans l'IA creuse la fracture numérique et sape l'équité, en particulier dans les pays du Sud global. Qu'exige une véritable équité au-delà de la simple traduction du contenu de l'IA dans une autre langue ?
+- Qu'exige une véritable équité au-delà de la simple traduction du contenu de l'IA dans une autre langue ?
 - L'évaluation automatisée peut présenter un biais linguistique, pénalisant les locuteurs non natifs même pour un même raisonnement. Si vous mettiez en œuvre une notation par IA, que vérifieriez-vous pour vous assurer qu'elle est équitable entre les langues, et pas seulement exacte dans une seule ?
-- La page montre que des langues à faibles ressources peuvent être servies en [[llm-training-and-fine-tuning|ajustant finement]] des modèles sur des corpus curatés, même sous des contraintes matérielles pratiques. Quels compromis attendriez-vous entre l'efficience et la fidélité avec laquelle le modèle traite une langue à faibles ressources ?
+- Des langues à faibles ressources peuvent être servies en [[llm-training-and-fine-tuning|ajustant finement]] des modèles sur des corpus curatés, même sous des contraintes matérielles pratiques. Quels compromis attendriez-vous entre l'efficience et la fidélité avec laquelle le modèle traite une langue à faibles ressources ?
 - L'IA multilingue doit aller au-delà de la traduction pour refléter une pédagogie culturellement pertinente — un contenu linguistiquement *et* contextuellement approprié. Comment un contenu parfaitement traduit pourrait-il néanmoins échouer auprès d'un apprenant s'il ignore le contexte et la culture locaux ?
 
 ## Introduction
@@ -54,6 +54,8 @@ L'apprentissage multilingue est une dimension d'équité centrale de l'[[ai-educ
 L'IA multilingue doit aller au-delà de la traduction pour refléter la [[culturally-relevant-pedagogy|pédagogie culturellement pertinente]] — en générant un contenu linguistiquement et contextuellement approprié. Des études sur la [[llm-cultural-relevance-k12|pertinence culturelle des grands modèles de langue dans le primaire et le secondaire]] et sur l'[[scaffolding-critical-engagement-genai-minority-students|engagement critique envers l'IA générative chez les étudiants issus de minorités]] montrent que l'alignement linguistique et culturel détermine si les étudiants en bénéficient réellement. Non traité, le biais monolingue dans l'IA creuse la [[digital-divide|fracture numérique]] et sape l'[[equity-in-ai-education|équité]] dans les pays du [[global-south|Sud global]].
 
 Le translanguaging est une affordance que les [[conversational-ai|agents conversationnels]] génératifs ajoutent et que les outils linguistiques antérieurs n'offraient pas. Dans une [[meta-analysis-systematic-review|revue systématique]] de 24 études, les apprenants demandaient des expressions contextualisées et des explications dans leur propre langue comme passerelle vers la langue cible, un usage que les auteurs de la revue classent comme une nouvelle sous-affordance plutôt que comme un simple réagencement de l'existant ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
+
+Le coût linguistique de l'entrée en formation aux outils est mesurable : [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] ont constaté que les apprenants de l'anglais passaient significativement plus de temps sur un tutoriel guidé de construction d'agents que les locuteurs natifs, tandis que la tâche de conception ouverte ne montrait aucune différence.
 
 ## Biais d'évaluation
 

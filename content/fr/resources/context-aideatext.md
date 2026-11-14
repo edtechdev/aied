@@ -1,7 +1,7 @@
 ---
 title: "conText"
 created: "2026-11-12T11:14:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 type: resource
 summary: "Un tuteur gratuit dans le navigateur qui lit la photo d'un cahier, un PDF ou un texte, puis accompagne l'étudiant par un dialogue socratique en anglais ou en espagnol tout en dessinant un graphe vivant des idées qu'il relie en parlant."
 url: https://context.aideatext.ai/?lang=en
@@ -16,7 +16,7 @@ assessment: [formative-assessment]
 audience: [learners, instructors, faculty developers]
 level: [k 12, higher ed]
 translation_of: resources/context-aideatext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

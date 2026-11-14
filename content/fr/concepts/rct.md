@@ -1,7 +1,7 @@
 ---
 title: ECR (essai contrôlé randomisé)
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/rct
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -32,7 +32,7 @@ ai_assist:
 
 - Si une école vous dit que « les étudiants qui ont utilisé l'outil d'IA ont obtenu de meilleurs scores », pourquoi cela pourrait-il encore ne pas prouver que l'outil a causé le gain — même si la différence est importante ?
 - La randomisation équilibre les facteurs de confusion connus *et inconnus* entre les groupes. Avant de lire, qu'accomplit l'affectation aléatoire que la simple comparaison de deux classes intactes ne peut accomplir, aussi bien appariées qu'elles paraissent ?
-- La page qualifie l'ECR d'étalon-or mais énumère de réels coûts : des cadres artificiels, une IA en évolution rapide qui vieillit les essais, de petits échantillons sous-dimensionnés et des contraintes [[ethics|éthiques]] sur le fait de priver les étudiants d'outils utiles. Lequel de ces arbitrages pensez-vous qu'on ignore le plus souvent dans les titres de la recherche en éducation ?
+- L'ECR est l'étalon-or, mais il comporte de réels coûts : des cadres artificiels, une IA en évolution rapide qui vieillit les essais, de petits échantillons sous-dimensionnés et des contraintes [[ethics|éthiques]] sur le fait de priver les étudiants d'outils utiles. Lequel de ces arbitrages pensez-vous qu'on ignore le plus souvent dans les titres de la recherche en éducation ?
 - Un ECR réunissant 1 174 participants a constaté que l'[[generative-ai|IA générative]] comblait environ les trois quarts d'un écart de productivité lié à la formation. Mais un ECR bien mené peut tout de même porter sur une tâche étroite dans un cadre artificiel. Que devriez-vous vérifier au sujet de la *mesure du résultat* avant de faire confiance à l'affirmation causale ?
 - Considérez directement le problème éthique : si vous aviez de bonnes raisons de croire qu'un [[intelligent-tutoring|tuteur IA]] aide les étudiants à apprendre, est-il défendable de le refuser au hasard à la moitié d'une classe pendant un semestre ? Comment concevriez-vous une étude éthiquement irréprochable qui isole tout de même la cause ?
 

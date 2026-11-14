@@ -1,7 +1,7 @@
 ---
 title: "Évaluation écrite par la parole"
 created: "2026-11-12T13:41:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 type: resource
 summary: "Un modèle d'évaluation en deux temps et un guide de mise en œuvre : une captation observée et non notée du raisonnement d'un étudiant sur une consigne inédite, suivie d'un rendu écrit noté, réalisé à la maison avec un accès libre aux outils d'IA, relié au premier temps par un jugement probatoire, avec une soutenance orale conditionnelle lorsque ce lien n'est pas clair."
 url: https://kellywebbdavies.com/vfwa/
@@ -17,7 +17,7 @@ ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
 translation_of: resources/vfwa
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

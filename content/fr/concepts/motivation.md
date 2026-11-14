@@ -1,7 +1,7 @@
 ---
 title: La motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/motivation
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -30,16 +30,16 @@ ai_assist:
 
 ## Questions à examiner
 
-- La motivation est souvent traitée comme un trait que certains élèves « ont » et que d'autres n'ont pas. La page la décrit plutôt comme des processus psychologiques qui initient, dirigent et soutiennent le comportement — et comme quelque chose de développemental et de socialement étayé. Comment ce recadrage modifie-t-il la question de savoir qui est responsable de la motivation des élèves ?
+- La motivation est souvent traitée comme un trait que certains élèves « ont » et que d'autres n'ont pas. La motivation est plutôt constituée de processus psychologiques qui initient, dirigent et soutiennent le comportement, et de quelque chose de développemental et de socialement étayé. Comment ce recadrage modifie-t-il la question de savoir qui est responsable de la motivation des élèves ?
 - Les outils d'IA peuvent éliminer la friction et rendre l'apprentissage plus accessible, mais ils peuvent aussi réduire l'effort cognitif et la lutte qui soutiennent la motivation intrinsèque. Quand « faciliter » quelque chose l'a-t-il en fait rendu moins motivant ou moins satisfaisant pour vous ?
 - La théorie de l'autodétermination affirme que la motivation intrinsèque croît à partir de l'autonomie, de la compétence et des liens sociaux. Si un [[intelligent-tutoring|tuteur IA]] fait l'essentiel du travail, lequel de ces trois éléments risque-t-il de menacer — et lequel pourrait-il renforcer ?
 - La recherche trouve des profils motivationnels distincts parmi les élèves d'un [[curriculum-design|programme]] d'IA, et le fait d'atteindre un profil autodéterminé prédisait les plus grands gains de littératie de l'IA. Que faudrait-il pour qu'un apprenant passe d'une désengagement passif à une autodétermination authentique dans l'usage de l'IA ?
-- La page rapporte que le soutien des enseignants pilote l'engagement assisté par l'IA largement par le biais des buts de maîtrise-approche et de performance-approche — les orientations d'« approche » plutôt que d'« évitement ». Comment la manière dont un enseignant cadre l'usage de l'IA (« pour bien faire » contre « pour éviter d'avoir l'air de mal faire ») façonne-t-elle le fait que les élèves s'engagent en profondeur ?
+- Le soutien des enseignants pilote l'engagement assisté par l'IA largement par le biais des buts de maîtrise-approche et de performance-approche — les orientations d'« approche » plutôt que d'« évitement ». Comment la manière dont un enseignant cadre l'usage de l'IA (« pour bien faire » contre « pour éviter d'avoir l'air de mal faire ») façonne-t-elle le fait que les élèves s'engagent en profondeur ?
 - Si vous concevez pour la motivation, le but est-il de rendre l'apprentissage plus facile, plus engageant ou plus significativement exigeant ? Où l'[[accessibility|accessibilité]] et la motivation intrinsèque tirent-elles dans des directions opposées ?
 
 ## Introduction
 
-La motivation est un construit fondamental de la recherche en éducation, et l'essor de l'IA en éducation l'a rendue plus déterminante : les outils d'IA peuvent éliminer la friction et rendre l'apprentissage plus accessible, mais ils peuvent aussi réduire l'effort cognitif et la lutte qui soutiennent la motivation intrinsèque et l'apprentissage profond. Les articles de cette base de connaissances explorent la motivation à travers les outils d'IA destinés aux apprenants, les systèmes d'IA destinés aux enseignants, et les mécanismes psychologiques — l'[[self-determination-theory|autodétermination]], l'[[self-efficacy-tutoring-learning|auto-efficacité]], les émotions — par lesquels l'IA façonne le comportement motivé.
+La motivation est un construit fondamental de la recherche en éducation, et l'essor de l'IA en éducation l'a rendue plus déterminante. Une IA qui rend une tâche plus facile peut aussi la rendre moins motivante, puisque l'effort lui-même fait partie de ce qui entretient l'intérêt. La recherche explore la motivation à travers les outils d'IA destinés aux apprenants, les systèmes d'IA destinés aux enseignants, et les mécanismes psychologiques — l'[[self-determination-theory|autodétermination]], l'[[self-efficacy-tutoring-learning|auto-efficacité]], les émotions — par lesquels l'IA façonne le comportement motivé.
 
 - **[[lee-wu-gender-motivation-genai-achievement-2026|Lee & Wu]]** montrent que le sexe et la motivation pilotent un engagement différencié avec l'IA générative, avec des trajectoires distinctes de [[learning-gains|réussite]].
 

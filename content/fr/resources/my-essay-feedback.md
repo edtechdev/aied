@@ -1,7 +1,7 @@
 ---
 title: "MyEssayFeedback"
 created: "2026-11-12T11:20:00-05:00"
-updated: "2026-11-12T11:20:00-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 type: resource
 summary: "Une plateforme de retour par IA contrôlée par l'enseignant pour les dissertations universitaires : invites de retour tirées d'une bibliothèque de ressources éducatives libres de plus de 200 types, réflexions structurées des étudiants sur chaque suggestion de l'IA, tableau de bord enseignant avec synthèse de classe par IA et intégration LTI avec Canvas, Blackboard et Moodle."
 url: https://myessayfeedback.ai/
@@ -16,7 +16,7 @@ ethics: [ai-use-disclosure]
 audience: [instructors, learners, faculty developers]
 level: [higher ed]
 translation_of: resources/my-essay-feedback
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

@@ -1,7 +1,7 @@
 ---
 title: "Analyse par capteurs et suivi du regard"
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -12,7 +12,7 @@ ethics: [privacy, bias-mitigation, neurodiversity, equity-in-ai-education]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-13T12:55:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -37,7 +37,7 @@ ai_assist:
 
 ## Introduction
 
-L'analyse par capteurs et le suivi du regard désignent une famille de méthodes qui transforment des mesures physiques d'un apprenant en inférences éducatives. Les mesures incluent où les yeux se posent et pour combien de temps, l'activité électrique du cuir chevelu, les réponses sudoripares, la variation battement à battement du rythme cardiaque, et la position et le mouvement de la tête et du tronc. Les inférences comprennent l'attention, l'engagement, la charge cognitive, la confusion, le stress et, dans les contextes d'évaluation, le soupçon. Cette page porte spécifiquement sur cette couche de mesure : pour le programme plus large et ses prétentions, voir [[affective-computing]] ; pour la manière dont un tuteur devrait agir sur une inférence une fois qu'il en dispose, voir [[affective-tutoring]].
+L'analyse par capteurs et le suivi du regard désignent une famille de méthodes qui transforment des mesures physiques d'un apprenant en inférences éducatives. Les mesures incluent où les yeux se posent et pour combien de temps, l'activité électrique du cuir chevelu, les réponses sudoripares, la variation battement à battement du rythme cardiaque, et la position et le mouvement de la tête et du tronc. Les inférences comprennent l'attention, l'engagement, la charge cognitive, la confusion, le stress et, dans les contextes d'évaluation, le soupçon. L'accent porte sur cette couche de mesure : pour le programme plus large et ses prétentions, voir [[affective-computing]] ; pour la manière dont un tuteur devrait agir sur une inférence une fois qu'il en dispose, voir [[affective-tutoring]].
 
 L'attrait est simple. Les [[self-report-measures|auto-déclarations]] sont rétrospectives et grossières, et les quiz échantillonnent l'apprentissage à quelques moments. Les capteurs fonctionnent en continu et coûtent peu d'effort conscient à l'apprenant. Cette combinaison a rendu la captation centrale pour l'[[learning-analytics|analytique de l'apprentissage]] et la [[student-modeling|modélisation de l'étudiant]], et produit une vaste littérature où la captation est techniquement impressionnante et l'interprétation mince.
 
@@ -48,6 +48,8 @@ Une [[meta-analysis-systematic-review|revue systématique]] de 23 études associ
 **Le regard et la fixation.** Les oculomètres rapportent où l'œil pointe, combien de temps il s'attarde, quand il fait une saccade et sa dispersion. Les systèmes à l'écran comme WebGazer estiment le regard à partir d'une webcam, tandis que des lunettes suivent l'œil directement. TutorLoop convertit le regard en deux quantités : l'attention comme pourcentage de points de regard dans la zone de contenu, et la charge de travail comme entropie du regard, en partant du principe qu'un regard dispersé traduit la charge cognitive ([[tutorloop-sensor-cognitive-feedback-2026|TutorLoop, 2026]]). Ollie, un assistant informé par le regard destiné aux enfants, définit plutôt des zones d'intérêt dans une image et déclenche une narration lorsqu'un enfant en regarde une ([[gaze-informed-ai-children|Wu et coll., 2026]]).
 
 **L'électroencéphalographie.** L'EEG enregistre les fluctuations de tension à travers le cuir chevelu à haute résolution temporelle. C'est le seul signal de cette famille qui atteint directement l'activité corticale, ce qui explique l'intérêt de la recherche en évaluation. Les systèmes éducatifs utilisent des électrodes sèches et peu de canaux : E3Sense a pris quatre canaux EEG secs à 125 Hz et en a analysé deux frontaux ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et coll., 2026]]). Les dispositifs de recherche font l'inverse : Kosmyna et coll. (2025) ont utilisé un EEG à 32 canaux pour comparer des étudiants écrivant avec un [[llm|LLM]], un moteur de recherche ou aucun outil, et ont trouvé la connectivité neuronale la plus faible dans le groupe LLM ([[your-brain-on-chatgpt-cognitive-debt-essay-writing|Kosmyna et coll., 2025]]). Cette étude est aussi l'avertissement le plus clair sur les preuves à canal unique : son affirmation centrale repose sur une session croisée facultative à laquelle 18 des 54 participants seulement ont assisté.
+
+**Hyperscanning en fNIRS.** Enregistrer deux apprenants à la fois mesure la synchronie inter-cerveaux, et non un seul cerveau : [[ai-exemplar-attribution-creativity-education-2026|Xiaoyong et coll. (2026)]] ont constaté que des exemples attribués à des humains élevaient la synchronie prémotrice et l'unicité des idées, que l'attribution à l'IA l'abaissait, et qu'aucun des gains comportementaux ne survivait au retrait.
 
 **L'activité électrodermale.** L'EDA mesure la conductance des glandes sudoripares, un indice de l'activation sympathique. Elle répond au stress, à l'effort et à l'intensité émotionnelle, et elle ne peut les distinguer. Le même construit apparaît dans des bracelets et dans des électrodes frontales fixées à quelques centimètres l'une de l'autre par un cadre d'oculomètre ([[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan et coll., 2026]]).
 

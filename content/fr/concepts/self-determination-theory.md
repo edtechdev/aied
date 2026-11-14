@@ -1,7 +1,7 @@
 ---
 title: "La théorie de l'autodétermination"
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-education, teacher-ai-competency]
 pedagogy: [motivation, self-determination-theory]
@@ -9,7 +9,7 @@ technology: [affective-computing]
 audience: [learners]
 confidence: high
 translation_of: concepts/self-determination-theory
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 ## Introduction
 
-La SDT est de plus en plus utilisée dans la [[research-methods-aied|recherche]] sur l'IA en éducation comme lentille théorique, tant pour les systèmes d'IA destinés aux apprenants que pour ceux destinés aux enseignants. L'affirmation centrale de la théorie — à savoir que la motivation n'est pas simplement une quantité que les apprenants possèdent, mais une qualité façonnée par l'environnement social et technologique — la rend directement pertinente pour les questions portant sur la manière dont les outils d'IA affectent l'[[student-engagement|engagement]], la persévérance et les [[learning-gains|résultats d'apprentissage]]. Les articles de cette base de connaissances appliquent la SDT dans trois contextes principaux : le développement professionnel des enseignants, l'engagement d'apprentissage médié par l'IA, et l'informatique affective.
+La SDT est de plus en plus utilisée dans la [[research-methods-aied|recherche]] sur l'IA en éducation comme lentille théorique, tant pour les systèmes d'IA destinés aux apprenants que pour ceux destinés aux enseignants. L'affirmation centrale de la théorie — à savoir que la motivation n'est pas simplement une quantité que les apprenants possèdent, mais une qualité façonnée par l'environnement social et technologique — la rend directement pertinente pour les questions portant sur la manière dont les outils d'IA affectent l'[[student-engagement|engagement]], la persévérance et les [[learning-gains|résultats d'apprentissage]]. La recherche applique la SDT dans trois contextes principaux : le développement professionnel des enseignants, l'engagement d'apprentissage médié par l'IA, et l'informatique affective.
 
 ### Thèmes de recherche clés
 

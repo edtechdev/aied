@@ -4,9 +4,9 @@ type: concept
 technology: [ai-technologies, generative-ai, learning-analytics, machine-learning, student-modeling]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-05T19:20:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 translation_of: concepts/machine-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -27,11 +27,11 @@ ai_assist:
 ## Questions à examiner
 
 - Vous avez probablement déjà rencontré des systèmes de recommandation ou des scores de risque qui « apprenaient » à partir de données. À quel point êtes-vous à l'aise avec l'idée qu'un modèle décide quelque chose à votre sujet (un signalement d'élève à risque ou un parcours recommandé, par exemple) en se fondant uniquement sur des régularités observées dans des données historiques ?
-- La page trace une ligne nette entre prédire un risque et intervenir réellement — un score de risque vous dit qu'un élève échouera peut-être, mais pas ce qu'il faut faire. Où avez-vous déjà vu une prédiction présentée comme si elle était déjà une solution ?
+- Une ligne nette sépare le fait de prédire un risque de celui d'intervenir réellement : un score de risque vous dit qu'un élève échouera peut-être, mais pas ce qu'il faut faire. Où avez-vous déjà vu une prédiction présentée comme si elle était déjà une solution ?
 - L'apprentissage automatique peut « hacker » sa propre récompense : un tuteur IA qui optimise l'engagement peut divertir les élèves tout en leur [[teacher-role|enseignant]] peu de choses. Si un système paraît mesurablement performant mais pédagogiquement nuisible, quels indicateurs faut-il surveiller en dehors du nombre qu'il optimise ?
 - Les modèles prédictifs entraînés sur des notes historiques peuvent encoder des biais systémiques, et la [[remote-proctoring|surveillance automatisée des examens]] fait courir des risques de faux positifs qui signalent à tort des comportements normaux. Quand les données portent les biais du passé, dans quelle mesure faut-il faire confiance à une IA qui s'en sert pour prendre des décisions éducatives à fort enjeu ?
 - Certains systèmes d'IA surpassent des méthodes interprétables par un humain tout en restant opaques — on voit qu'ils fonctionnent, mais pas pourquoi. Dans l'éducation, quand l'interprétabilité est-elle un « agréable à avoir » et quand est-elle non négociable ?
-- L'IA générative est souvent traitée comme entièrement nouvelle, mais la page la présente comme le dernier sous-ensemble de l'apprentissage automatique. En quoi voir ChatGPT comme une composante des mêmes mécanismes prédictifs et adaptatifs change-t-il les risques et les limites dont on peut s'attendre à ce qu'il les hérite ?
+- L'IA générative est souvent traitée comme entièrement nouvelle, mais elle est le dernier sous-ensemble de l'apprentissage automatique. En quoi voir ChatGPT comme une composante des mêmes mécanismes prédictifs et adaptatifs change-t-il les risques et les limites dont on peut s'attendre à ce qu'il les hérite ?
 
 ## Introduction
 
@@ -63,7 +63,7 @@ La pratique de validation est une autre source de surconfiance. [[schuetze-knowl
 
 ## L'IA générative comme sous-ensemble
 
-L'[[generative-ai|IA générative]] — les grands modèles de langage et les systèmes [[llm|LLM]] apparentés — se comprend mieux comme un sous-ensemble de l'apprentissage automatique : les mêmes fondements neuronaux et d'entraînement, mais appliqués à la *génération* de contenu (explications, retours, dialogue) plutôt qu'à la classification ou à la prédiction. Elle hérite des préoccupations de validité, de biais et de sécurité du champ tout en y ajoutant de nouvelles, comme l'[[hallucination-risk|hallucination]]. Aux fins de cette base de connaissances, l'apprentissage automatique est le parapluie technique le plus large ; l'IA générative en est la branche contemporaine la plus visible.
+L'[[generative-ai|IA générative]] — les grands modèles de langage et les systèmes [[llm|LLM]] apparentés — se comprend mieux comme un sous-ensemble de l'apprentissage automatique : les mêmes fondements neuronaux et d'entraînement, mais appliqués à la *génération* de contenu (explications, retours, dialogue) plutôt qu'à la classification ou à la prédiction. Elle hérite des préoccupations de validité, de biais et de sécurité du champ tout en y ajoutant de nouvelles, comme l'[[hallucination-risk|hallucination]]. L'apprentissage automatique est le parapluie technique le plus large, et l'IA générative en est la branche contemporaine la plus visible.
 
 ## Formation des enseignants et littératie en apprentissage automatique
 
@@ -75,7 +75,7 @@ L'apprentissage automatique apparaît aussi dans l'éducation comme une *matièr
 
 **« L'apprentissage automatique en éducation est une technologie de prédiction neutre. »** Ses applications portent avec elles les défaillances de gouvernance de la discipline, et la surveillance des examens en est le cas le plus clair : un modèle qui infère quelque chose sur un étudiant à partir de signaux comportementaux ou physiologiques formule une accusation assortie d'un score de confiance, et la base de données probantes de cette inférence est bien plus faible que ne le suggère le rythme de déploiement.
 
-**« L'IA générative a rendu l'apprentissage automatique classique obsolète en éducation. »** Ils font des métiers différents. La prédiction des états de l'apprenant, l'estimation de la difficulté et la prévision de la progression restent des problèmes d'apprentissage automatique classique, et la littérature sur le traçage des connaissances et la calibration des items que documente ce corpus n'est pas servie par un modèle de langue. L'IA générative est un sous-ensemble de l'apprentissage automatique plutôt qu'un remplacement.
+**« L'IA générative a rendu l'apprentissage automatique classique obsolète en éducation. »** Ils font des métiers différents. La prédiction des états de l'apprenant, l'estimation de la difficulté et la prévision de la progression restent des problèmes d'apprentissage automatique classique, et la littérature sur le traçage des connaissances et la calibration des items n'est pas servie par un modèle de langue. L'IA générative est un sous-ensemble de l'apprentissage automatique plutôt qu'un remplacement.
 
 **« La formation des enseignants devrait enseigner les LLM plutôt que l'apprentissage automatique. »** Limiter la littératie à la couche générative laisse les praticiens incapables d'interroger les systèmes prédictifs qui prennent des décisions sur leurs étudiants — et c'est là que se concentrent les erreurs lourdes de conséquences.
 

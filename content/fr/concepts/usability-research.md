@@ -1,7 +1,7 @@
 ---
 title: "La recherche sur l'utilisabilité"
 created: "2026-08-24T02:15:00-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 connected_faqs: [designing-educational-ai-software]
 research_method: [system development, user study, interviews]
@@ -9,7 +9,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
 translation_of: concepts/usability-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -30,10 +30,10 @@ ai_assist:
 ## Questions à examiner
 
 - Vous souvenez-vous d'un outil logiciel — éducatif ou non — pédagogiquement solide ou réellement puissant, que vous avez pourtant cessé d'utiliser parce qu'il était déroutant ou frustrant ? Cet échec est précisément ce que la recherche sur l'utilisabilité cherche à expliquer avant qu'il ne coûte de l'apprentissage.
-- Une hypothèse répandue veut que l'efficacité éducative d'un outil se juge à l'amélioration des gains d'apprentissage. Mais la page soutient qu'un outil peut être inutilisable tout en semblant « fonctionner » dans un essai, ou utilisable tout en échouant à enseigner. Pourquoi une étude montrant des gains d'apprentissage pourrait-elle néanmoins manquer le fait que l'outil est pénible à utiliser dans la pratique ?
+- Une hypothèse répandue veut que l'efficacité éducative d'un outil se juge à l'amélioration des gains d'apprentissage. Mais un outil peut être inutilisable tout en semblant « fonctionner » dans un essai, ou utilisable tout en échouant à enseigner. Pourquoi une étude montrant des gains d'apprentissage pourrait-elle néanmoins manquer le fait que l'outil est pénible à utiliser dans la pratique ?
 - Avant d'aborder les méthodes, comment vous y prendriez-vous pour découvrir si un [[intelligent-tutoring|tuteur IA]] est déroutant, frustrant ou sujet aux erreurs pour les apprenants ? Que feriez-vous ou observeriez-vous réellement — et qu'est-ce que le propre rapport de satisfaction d'un utilisateur manquerait, qu'une observation attentive capterait ?
 - La pensée à voix haute est une méthode centrale : les utilisateurs énoncent leurs pensées pendant qu'ils travaillent, exposant en temps réel la confusion et les modèles mentaux. Si vous étiez un apprenant utilisant un outil d'IA, que pourriez-vous articuler de votre confusion qu'une simple enquête du type « l'avez-vous aimé ? » ne capterait jamais ?
-- La page note que la satisfaction [[self-report-measures|auto-déclarée]] peut diverger de la performance objective — les gens peuvent dire adorer un outil qui les ralentit secrètement, ou sous-estimer un outil qui les aide réellement. Où avez-vous vu cet écart entre ce que les gens disent et ce que montre leur comportement ?
+- La satisfaction [[self-report-measures|auto-déclarée]] peut diverger de la performance objective — les gens peuvent dire adorer un outil qui les ralentit secrètement, ou sous-estimer un outil qui les aide réellement. Où avez-vous vu cet écart entre ce que les gens disent et ce que montre leur comportement ?
 - La recherche sur l'utilisabilité vous dit si un outil est utilisable, non s'il enseigne. Si vous évaluez un outil d'apprentissage fondé sur l'IA, comment combineriez-vous les preuves d'utilisabilité avec les preuves d'apprentissage — et qu'est-ce qu'un outil réussissant les deux pourrait encore ne pas accomplir ?
 
 ## Introduction
@@ -47,17 +47,17 @@ La recherche sur l'utilisabilité et l'UX répond à des questions telles que : 
 - **Les entretiens et l'observation.** Les entretiens d'utilisabilité qualitatifs et l'observation captent l'expérience utilisateur, les préférences et les points de friction. [[icub-humanoid-storytelling-llm-hri-2025|Une étude d'utilisabilité d'un robot humanoïde conteur d'histoires]] recourt à une évaluation structurée pour demander si des [[parents-and-families|parents]] laisseraient le robot interagir avec un enfant ; [[genai-architectural-design-studios|l'IA dans les ateliers de design]] observe et interroge des étudiants utilisant l'IA dans un travail de conception authentique.
 - **L'évaluation systématique de l'utilisabilité.** L'évaluation heuristique, le parcours cognitif et les mesures d'UX par questionnaire (par exemple le SUS) évaluent systématiquement l'utilisabilité au regard de critères établis.
 
-## Comment la recherche sur l'utilisabilité apparaît dans la base de connaissances
+## Comment la recherche sur l'utilisabilité apparaît dans la littérature
 
 - **L'évaluation des outils d'apprentissage fondés sur l'IA.** [[rhaimi-productivemath-2025|ProductiveMath]], [[supplynet-visual-exploratory-learning|SupplyNet]] et [[anvil-ai-educational-animations|les animations éducatives]] sont évalués pour leur utilisabilité et leur UX.
 - **L'interaction humain-robot et l'[[conversational-ai|IA conversationnelle]].** [[icub-humanoid-storytelling-llm-hri-2025|L'étude du robot humanoïde conteur]] est une étude d'utilisabilité explicite de l'interaction propulsée par les [[llm|LLM]] ; [[conversational-ai-agents-umbrella-review-2026|une revue parapluie des agents d'IA conversationnelle]] identifie l'utilisabilité et la qualité de l'interaction comme un thème récurrent.
 - **La conception et l'affinage.** Les constats d'utilisabilité alimentent la conception itérative (voir le [[design-thinking|conception par le design]] et la [[learning-design|conception pédagogique]]), améliorant les outils avant ou parallèlement aux tests d'efficacité.
 - **Un instrument unique à travers les contextes, et le plafond qui le limite.** [[mendonca-llm-feedback-perceived-usefulness-programming-2026|Mendonça et al. (2026)]] ont maintenu constants le domaine, la tâche et l'instrument, tandis que le niveau éducatif variait, de sorte que les notations par 144 étudiants de 893 réponses de rétroaction et 237 rapports comparent les contextes plutôt que les disciplines — et seule l'exactitude perçue différait selon les niveaux. L'étude nomme aussi la limite de ce type d'évaluation par les utilisateurs : de 72.2 à 86.4 pour cent des étudiants se situaient en moyenne au moins à 4 sur 5, et les auteurs déclarent que leurs différences non significatives n'établissent pas l'équivalence, aucune marge n'ayant été fixée à l'avance.
-- **La conception de la notation rapportée comme partie du constat.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] ont fait juger par 25 experts appariés au domaine 92 cours régénérés au regard d'un référentiel ancré à « la qualité d'un cours [[online-teaching-and-learning|MOOC]] standard », en assignant chaque vidéo à un seul évaluateur (k = 1) afin de répartir le panel sur une plus grande part du corpus plutôt que de collecter des notations répétées. Le compromis est modélisé plutôt que dissimulé : un modèle à intercepts aléatoires attribue environ 35 pour cent de la variance résiduelle à l'évaluateur (ICC = 0.35) et les intervalles sont regroupés par évaluateur, ce qui permet à un panel d'experts de rapporter « 87 pour cent au niveau ou au-dessus du seuil » avec une fourchette honnête.
+- **La conception de la notation rapportée comme partie du constat.** [[bespoke-industry-personalized-lecture-videos-2026|Puech et al. (2026)]] ont fait juger par 25 experts appariés au domaine 92 cours régénérés au regard d'un référentiel ancré à « la qualité d'un cours [[online-teaching-and-learning|MOOC]] standard », en assignant chaque vidéo à un seul évaluateur (k = 1) afin de répartir le panel sur une plus grande part de l'ensemble des cours plutôt que de collecter des notations répétées. Le compromis est modélisé plutôt que dissimulé : un modèle à intercepts aléatoires attribue environ 35 pour cent de la variance résiduelle à l'évaluateur (ICC = 0.35) et les intervalles sont regroupés par évaluateur, ce qui permet à un panel d'experts de rapporter « 87 pour cent au niveau ou au-dessus du seuil » avec une fourchette honnête.
 
 ## Relation avec les autres familles de recherche
 
-La recherche sur l'utilisabilité partage ses méthodes de collecte de données avec la [[qualitative-research|recherche qualitative]] (entretiens, observation, pensée à voix haute), mais diffère par sa *finalité* : la recherche qualitative interprète le sens et l'expérience pour construire de la compréhension et de la théorie, tandis que la recherche sur l'utilisabilité évalue un artefact au regard de critères d'utilisabilité et d'UX. Elle recoupe aussi l'[[ai-ed-evaluation|évaluation de l'IA en éducation]] (estimer si un système fonctionne) et la [[educational-measurement|mesure]] (quantifier les construits d'utilisabilité). La base de connaissances traite l'utilisabilité comme un volet méthodologique distinct mais connecté — pertinent pour la [[human-ai-collaboration|collaboration humain-IA]], l'[[student-experience|expérience étudiante]] et la conception d'outils d'apprentissage efficaces fondés sur l'IA. Voir les [[research-methods-aied|méthodes de recherche]] pour comprendre comment elle s'insère dans le paysage méthodologique plus large.
+La recherche sur l'utilisabilité partage ses méthodes de collecte de données avec la [[qualitative-research|recherche qualitative]] (entretiens, observation, pensée à voix haute), mais diffère par sa *finalité* : la recherche qualitative interprète le sens et l'expérience pour construire de la compréhension et de la théorie, tandis que la recherche sur l'utilisabilité évalue un artefact au regard de critères d'utilisabilité et d'UX. Elle recoupe aussi l'[[ai-ed-evaluation|évaluation de l'IA en éducation]] (estimer si un système fonctionne) et la [[educational-measurement|mesure]] (quantifier les construits d'utilisabilité). L'utilisabilité est traitée comme un volet méthodologique distinct mais connecté — pertinent pour la [[human-ai-collaboration|collaboration humain-IA]], l'[[student-experience|expérience étudiante]] et la conception d'outils d'apprentissage efficaces fondés sur l'IA. Voir les [[research-methods-aied|méthodes de recherche]] pour comprendre comment elle s'insère dans le paysage méthodologique plus large.
 
 ## Forces et limites
 

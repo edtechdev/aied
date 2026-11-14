@@ -1,7 +1,7 @@
 ---
 title: "Théories et cadres"
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-11-05T18:24:25-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Théories et cadres (Theories and frameworks)** — l'inventaire de travail des structures explicatives et organisationnelles que cette base de connaissances utilise réellement. Les théories expliquent pourquoi l'apprentissage se produit ([[learning-theories|théories de l'apprentissage]], [[self-determination-theory|théorie de l'autodétermination]], [[sociocultural-learning|théorie socioculturelle]], [[activity-theory-aied|théorie de l'activité]]) ; les cadres organisent les décisions de conception, d'enseignement et d'adoption ([[tpack|TPACK]], [[samr-model|SAMR]], [[technology-acceptance-model|modèles d'adoption des technologies]], [[icap-framework|ICAP]], [[universal-design-for-learning|conception universelle de l'apprentissage]]) ; les modèles rendent les affirmations sur l'apprentissage testables et calculables ([[item-response-theory|théorie de la réponse aux items]], [[assessment-validity|validité de l'évaluation]], [[knowledge-tracing|traçage des connaissances]]). Utilisez cette page pour trouver la lunette sur laquelle repose une étude, ou pour en choisir une pour vos propres travaux.
+> **Théories et cadres (Theories and frameworks)** — l'inventaire de travail des structures explicatives et organisationnelles que la recherche sur l'IA en éducation utilise réellement. Les théories expliquent pourquoi l'apprentissage se produit ([[learning-theories|théories de l'apprentissage]], [[self-determination-theory|théorie de l'autodétermination]], [[sociocultural-learning|théorie socioculturelle]], [[activity-theory-aied|théorie de l'activité]]) ; les cadres organisent les décisions de conception, d'enseignement et d'adoption ([[tpack|TPACK]], [[samr-model|SAMR]], [[technology-acceptance-model|modèles d'adoption des technologies]], [[icap-framework|ICAP]], [[universal-design-for-learning|conception universelle de l'apprentissage]]) ; les modèles rendent les affirmations sur l'apprentissage testables et calculables ([[item-response-theory|théorie de la réponse aux items]], [[assessment-validity|validité de l'évaluation]], [[knowledge-tracing|traçage des connaissances]]). Utilisez l'inventaire pour trouver la lunette sur laquelle repose une étude, ou pour en choisir une pour vos propres travaux.
 
 ## Questions à examiner
 
@@ -37,7 +37,7 @@ ai_assist:
 
 ## Introduction
 
-Chaque tuteur IA, système de rétroaction et tableau de bord incorpore des hypothèses sur la manière dont les gens apprennent, que les concepteurs les énoncent ou non. Cette page rassemble les théories, les cadres et les modèles d'où proviennent ces hypothèses, ordonnés sommairement selon l'ampleur de leur usage dans la littérature de recherche actuelle, et indique brièvement à quoi chacun est utile. Les distinctions entre les trois étiquettes sont réelles mais mineures, et elles sont résumées vers la fin plutôt que traitées comme le sujet. Ce qui importe pratiquement est de savoir sur quelle lunette repose une affirmation, et si cette lunette peut la soutenir.
+Chaque tuteur IA, système de rétroaction et tableau de bord incorpore des hypothèses sur la manière dont les gens apprennent, que les concepteurs les énoncent ou non. L'inventaire rassemble les théories, les cadres et les modèles d'où proviennent ces hypothèses, ordonnés sommairement selon l'ampleur de leur usage dans la littérature de recherche actuelle, et indique brièvement à quoi chacun est utile. Les distinctions entre les trois étiquettes sont réelles mais mineures, et elles sont résumées vers la fin plutôt que traitées comme le sujet. Ce qui importe pratiquement est de savoir sur quelle lunette repose une affirmation, et si cette lunette peut la soutenir.
 
 ## Les théories de l'apprentissage appliquées par la littérature
 
@@ -88,7 +88,7 @@ Celles-ci expliquent des mécanismes : elles nomment les pièces qui font le tra
 
 ## Théories forgées pour l'ère de l'IA
 
-Quatre propositions dans la base de connaissances construisent la théorie plutôt qu'elles ne l'empruntent. Ce sont des pages d'articles plutôt que des nœuds de concepts, parce que chacune constitue un argument unique :
+Quatre propositions construisent la théorie plutôt qu'elles ne l'empruntent. Ce sont des pages d'articles plutôt que des nœuds de concepts, parce que chacune constitue un argument unique :
 
 - **Le [[generativism-learning-theory|générativisme]]** — une nouvelle théorie de l'apprentissage soutenant que les quatre théories classiques présentent des limites conceptuelles significatives à mesure que l'[[generative-ai|IA générative]] prolifère.
 - **La [[learning-with-machines-toward-a-theory-of-epistemic-co-agency|co-agency épistémique]]** — un modèle de la manière dont les apprenants et les systèmes d'IA produisent conjointement des connaissances et de la compréhension.
@@ -106,7 +106,7 @@ Les mots sont employés librement dans la littérature, et la différence mérit
 
 ## Couches connexes
 
-Deux pages voisines portent délibérément sur autre chose. La [[philosophy-of-ai-in-education|philosophie de l'IA en éducation]] pose des questions normatives et conceptuelles — à quoi l'éducation sert-elle, une machine peut-elle enseigner — et ne prédit pas de tailles d'effet ; une étude peut être philosophiquement naïve et théoriquement solide, ou l'inverse. Le [[theory-development-aied|développement théorique]] est la méta-activité de construction, d'emprunt et de révision de la théorie, incluant la critique récurrente selon laquelle une grande partie des travaux en [[ai-education|AIED]] applique la théorie existante plutôt qu'ils ne la testent. Cette page est l'inventaire ; le développement théorique porte sur la production et la révision de l'inventaire.
+Deux pages voisines portent délibérément sur autre chose. La [[philosophy-of-ai-in-education|philosophie de l'IA en éducation]] pose des questions normatives et conceptuelles — à quoi l'éducation sert-elle, une machine peut-elle enseigner — et ne prédit pas de tailles d'effet ; une étude peut être philosophiquement naïve et théoriquement solide, ou l'inverse. Le [[theory-development-aied|développement théorique]] est la méta-activité de construction, d'emprunt et de révision de la théorie, incluant la critique récurrente selon laquelle une grande partie des travaux en [[ai-education|AIED]] applique la théorie existante plutôt qu'ils ne la testent. Rassembler des cadres est un travail de catalogage ; le développement théorique porte sur leur production et leur révision.
 
 ## Choisir une lunette lorsque la question est pratique
 

@@ -1,7 +1,7 @@
 ---
 title: "Comment les parents et les enseignants devraient-ils aborder l'IA avec les enfants de moins de 13 ans ?"
 created: "2026-09-22T19:16:30-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 weight: 75
 type: faq
 foundations: [ai-literacy]
@@ -12,7 +12,7 @@ research_method: [literature review, experiment]
 audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-guidance-children-under-13
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -37,7 +37,7 @@ Les conditions d'utilisation de l'éditeur indiquent que l'outil s'adresse aux u
 
 Trois questions s'entremêlent dans cette demande : ce qu'un enfant de six ans peut faire avec ces systèmes, ce que l'école doit aux familles dont les enfants rencontrent l'IA à la maison, et que faire lorsqu'une interdiction n'est pas la réponse que vous pouvez défendre.
 
-La réponse courte à donner au conseil : modulez l'accès par âge, apprenez aux enfants comment ces systèmes sont construits avant d'en confier un, et gardez un adulte dans la boucle partout où l'enfant ne peut pas juger la sortie. Une interdiction générale est l'option la moins étayée. Aucune étude sur les interdictions fondées sur l'âge n'existe dans cette base de connaissances, et l'essentiel de l'exposition de ce groupe d'âge se produit à la maison, là où un règlement scolaire ne porte pas.
+La réponse courte à donner au conseil : modulez l'accès par âge, apprenez aux enfants comment ces systèmes sont construits avant d'en confier un, et gardez un adulte dans la boucle partout où l'enfant ne peut pas juger la sortie. Une interdiction générale est l'option la moins étayée. Aucune étude sur les interdictions fondées sur l'âge n'existe, et l'essentiel de l'exposition de ce groupe d'âge se produit à la maison, là où un règlement scolaire ne porte pas.
 
 ## La version courte
 
@@ -59,7 +59,7 @@ Leur évaluation repose sur une seule enquête post-exposition auprès de 831 pa
 
 Les deux éditions montrent aussi à quoi sert la frontière. La tranche élémentaire reçoit des activités sur plateforme, étayées et non génératives, de sorte qu'un enfant apprend ce que fait le système sans un système qui lui répond. La tranche avancée associe le raisonnement éthique à un usage génératif supervisé. Les équipes qui attendent que l'engagement suive la sophistication de l'outil constatent généralement l'inverse.
 
-Ce que la gradation vous apporte, c'est un ordre des opérations défendable. Beaucoup d'écoles font l'inverse, achètent le chatbot à l'automne et l'enseignent au printemps ; les données sur cet ordre sont plus bas dans cette page.
+Ce que la gradation vous apporte, c'est un ordre des opérations défendable. Beaucoup d'écoles font l'inverse, achètent le chatbot à l'automne et l'enseignent au printemps, alors que l'ordre défendable est l'inverse.
 
 ## Commencer avec les plus jeunes par le jeu, la fabrication et les machines
 
@@ -73,7 +73,7 @@ Enseigner le fonctionnement des machines appartient aussi à cette tranche. [[ts
 
 ## Faire passer les 9-12 ans à un travail vérifié, essentiellement non génératif
 
-C'est la tranche où les données curriculaires sont les plus solides. [[demir-akar-ai-media-literacy-children-2026|Demir et Akar (2026)]] ont mené un programme de littératie médiatique critique de 18 heures, fondé sur le modèle 5E, auprès de 36 élèves turcs de CM1, couvrant la confidentialité des données, la communication sûre et l'[[ethics|éthique]] des médias, avec un *d* de Cohen intergroupes de 1.12 en lecture, 1.18 en écriture et 1.31 en littératie totale. Un programme qui tient dans un semestre et rapporte des effets de cette taille est le résultat le plus encourageant de cette page.
+C'est la tranche où les données curriculaires sont les plus solides. [[demir-akar-ai-media-literacy-children-2026|Demir et Akar (2026)]] ont mené un programme de littératie médiatique critique de 18 heures, fondé sur le modèle 5E, auprès de 36 élèves turcs de CM1, couvrant la confidentialité des données, la communication sûre et l'[[ethics|éthique]] des médias, avec un *d* de Cohen intergroupes de 1.12 en lecture, 1.18 en écriture et 1.31 en littératie totale. Un programme qui tient dans un semestre et rapporte des effets de cette taille est le résultat le plus encourageant de cette littérature.
 
 Les 9 à 12 ans bénéficient d'une exposition étayée sur des plateformes que l'école a vérifiées, les parties génératives étant réservées à plus tard et supervisées. Une fois que les enfants savent lire, argumenter et vérifier une affirmation, leur apprendre ce que fait un système devient le travail, et l'outil peut entrer comme objet d'étude plutôt que comme aide.
 
@@ -133,7 +133,7 @@ Pour cette tranche d'âge, cela correspond à une séquence : d'abord à son suj
 
 Un document pour le conseil peut promettre une date de révision et une définition de la réussite que votre école peut réellement vérifier : leçons dispensées, enseignants capables de répondre à la question d'un parent, demandes de données traitées par écrit. Revendiquer un gain d'apprentissage dépasserait toutes les études citées ici.
 
-Il n'existe aucune étude sur les interdictions fondées sur l'âge dans cette base de connaissances. Rien ici ne permet de trancher si les interdictions qui apparaissent aujourd'hui dans certains systèmes scolaires fonctionnent, et la version honnête de cette phrase a sa place dans votre document. Ce que les données montrent, c'est que l'alternative à une interdiction n'est pas le laisser-faire. [[moral-panic-genai-classroom|L'étude sur la disponibilité de l'IA générative comparée à son intégration]] a trouvé que rendre l'IA générative disponible sans apprendre aux élèves à l'utiliser était associé à une performance nettement plus faible sur des questions appliquées (ω² = 0.35), tandis qu'enseigner explicitement son usage pour des tâches comme le résumé ramenait la performance appliquée aux niveaux antérieurs à l'IA générative et dépassait la référence sur un questionnaire plus difficile. Cette tranche d'âge peut être enseignée : le programme de CM1 cité plus haut a produit des effets de *d* = 1.12 à 1.31.
+Il n'existe aucune étude sur les interdictions fondées sur l'âge. Rien ici ne permet de trancher si les interdictions qui apparaissent aujourd'hui dans certains systèmes scolaires fonctionnent, et la version honnête de cette phrase a sa place dans votre document. Ce que les données montrent, c'est que l'alternative à une interdiction n'est pas le laisser-faire. [[moral-panic-genai-classroom|L'étude sur la disponibilité de l'IA générative comparée à son intégration]] a trouvé que rendre l'IA générative disponible sans apprendre aux élèves à l'utiliser était associé à une performance nettement plus faible sur des questions appliquées (ω² = 0.35), tandis qu'enseigner explicitement son usage pour des tâches comme le résumé ramenait la performance appliquée aux niveaux antérieurs à l'IA générative et dépassait la référence sur un questionnaire plus difficile. Cette tranche d'âge peut être enseignée : le programme de CM1 cité plus haut a produit des effets de *d* = 1.12 à 1.31.
 
 ## Ce que les écoles font mal
 
@@ -179,4 +179,4 @@ Il n'existe aucune étude sur les interdictions fondées sur l'âge dans cette b
 
 ## Où aller ensuite
 
-[[how-ai-impacts-students]] couvre ce que les outils font à l'apprentissage, et [[incorporating-ai-literacy]] avec [[ai-literacy]] couvre ce qu'il faut enseigner. [[parents-and-families]] et [[early-childhood-elementary-ai-education]] contiennent la base de recherche de cette page, et [[equity-ethics-pedagogical-safety-research]] est où se poursuit l'argument sur la confidentialité et la sécurité. Si votre question porte sur l'évaluation pour des élèves plus âgés, [[should-we-use-ai-detectors]] et [[reduce-ai-cheating]] vont plus loin.
+[[how-ai-impacts-students]] couvre ce que les outils font à l'apprentissage, et [[incorporating-ai-literacy]] avec [[ai-literacy]] couvre ce qu'il faut enseigner. [[parents-and-families]] et [[early-childhood-elementary-ai-education]] contiennent la base de recherche, et [[equity-ethics-pedagogical-safety-research]] est où se poursuit l'argument sur la confidentialité et la sécurité. Si votre question porte sur l'évaluation pour des élèves plus âgés, [[should-we-use-ai-detectors]] et [[reduce-ai-cheating]] vont plus loin.

@@ -1,7 +1,7 @@
 ---
 title: Réduire les mésusages de l'IA
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -10,7 +10,7 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -31,11 +31,11 @@ ai_assist:
 ## Questions à examiner
 
 - Les étudiants qui sous-traitent leurs devoirs à l'IA peuvent voir leurs notes de devoir *monter* tandis que leurs notes à l'[[summative-assessment|examen à livre fermé]] *baissent*. Avant de lire, pourquoi la performance et l'apprentissage pourraient-ils diverger si nettement — et que suggère cet écart sur ce que « réussir » avec l'IA signifie réellement ?
-- La page classe les interventions selon les preuves causales et la portée, et elle place les leviers *structurels* (garde-fous des outils, refonte de l'évaluation) au-dessus des leviers *éducatifs* ([[teacher-role|enseigner]] les bonnes pratiques) — précisément parce que les leviers structurels agissent quelle que soit la motivation d'un étudiant. Êtes-vous d'accord pour dire que changer l'environnement vaut mieux que changer les esprits ? Quel est le risque de s'appuyer sur chacun des deux ?
+- Les interventions se classent selon les preuves causales et la portée, les leviers *structurels* (garde-fous des outils, refonte de l'évaluation) l'emportant sur les leviers *éducatifs* ([[teacher-role|enseigner]] les bonnes pratiques) — précisément parce que les leviers structurels agissent quelle que soit la motivation d'un étudiant. Êtes-vous d'accord pour dire que changer l'environnement vaut mieux que changer les esprits ? Quel est le risque de s'appuyer sur chacun des deux ?
 - Un tuteur à garde-fous, qui donne « un indice et non une réponse », a éliminé le préjudice pour l'apprentissage qu'un tuteur sans garde-fous causait, bien que tous deux parussent utiles. Pensez à un outil d'apprentissage que vous avez vu donner trop facilement les réponses. Où se situe la frontière entre un indice qui étaye et une réponse qui se substitue — et pouvez-vous l'énoncer avant de lire ?
 - Le correctif le plus solide inclut la refonte de l'évaluation : examens en classe sans assistance, soutenances orales, artefacts de processus, récompense du raisonnement plutôt que de la fluidité de surface. Comment vous sentiriez-vous en suivant un cours noté de cette façon, et ce sentiment vous dit-il quelque chose sur la raison pour laquelle ce levier est à la fois efficace et impopulaire ?
 - Les cadres de déclaration d'usage de l'IA, qui forcent les étudiants à situer leur usage par rapport à des stades cognitifs (planification versus génération de contenus), déplacent l'accent de la surveillance vers la pratique professionnelle. Pensez-vous qu'une telle réflexion bâtit véritablement un meilleur jugement, ou enseigne-t-elle seulement aux étudiants à décrire plus habilement le mésusage ?
-- Fixez-vous un objectif avant de lire : identifiez un changement concret dans votre propre cours ou flux de travail qui rendrait le mésusage de l'IA plus difficile, et un qui rendrait l'usage productif plus facile. À lequel des paliers de la page chacun appartiendrait-il ?
+- Fixez-vous un objectif avant de lire : identifiez un changement concret dans votre propre cours ou flux de travail qui rendrait le mésusage de l'IA plus difficile, et un qui rendrait l'usage productif plus facile. À quel palier chacun appartiendrait-il ?
 
 ## Introduction
 
@@ -50,7 +50,7 @@ La littérature sur l'usage responsable ne teste elle-même que rarement la cha�
 
 ## Palier 1 — Directement prouvé pour réduire le préjudice à l'apprentissage
 
-**Conception d'outils d'IA à garde-fous ([[scaffolding|étayage]] « indice et non réponse »).** Dans le constat causal le plus solide de la base de connaissances, un [[rct|ECR]] de terrain a montré qu'un tuteur de type ChatGPT sans garde-fous élevait la performance assistée à la pratique de **+48%** mais réduisait les notes à l'examen sans assistance de **−17%**, tandis qu'un tuteur à garde-fous (des indices au lieu de réponses, plus des informations de problème rédigées par l'enseignant) éliminait entièrement le préjudice. Cela empêche mécaniquement le comportement de « béquille » qu'est la copie de réponses, à l'origine du dommage. Les activités comprennent le tutorat indice-et-non-réponse, l'amorçage des prompts par des solutions correctes et des [[misconceptions|conceptions erronées]] courantes, et l'exigence d'une tentative de l'étudiant avant que la sortie de l'IA ne soit révélée.
+**Conception d'outils d'IA à garde-fous ([[scaffolding|étayage]] « indice et non réponse »).** Dans le constat causal le plus solide de cette littérature, un [[rct|ECR]] de terrain a montré qu'un tuteur de type ChatGPT sans garde-fous élevait la performance assistée à la pratique de **+48%** mais réduisait les notes à l'examen sans assistance de **−17%**, tandis qu'un tuteur à garde-fous (des indices au lieu de réponses, plus des informations de problème rédigées par l'enseignant) éliminait entièrement le préjudice. Cela empêche mécaniquement le comportement de « béquille » qu'est la copie de réponses, à l'origine du dommage. Les activités comprennent le tutorat indice-et-non-réponse, l'amorçage des prompts par des solutions correctes et des [[misconceptions|conceptions erronées]] courantes, et l'exigence d'une tentative de l'étudiant avant que la sortie de l'IA ne soit révélée.
 
 **Retenir la réponse protège pendant la séance sans bâtir la compétence.** [[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al. (2026)]] ont retenu la position agrégée dans un débat [[agentic-ai|multi-agents]] et réduit le basculement vers une position incorrecte de l'IA de 42–60.5% à 5.7–8.2%, mais n'ont trouvé aucun effet d'apprentissage pendant la séance (β = 0.03, p = 0.18) : le garde-fou tenait tant qu'il était en place et laissait le jugement non assisté inchangé.
 
@@ -84,11 +84,11 @@ Les leviers éducatifs prennent un tout autre visage dès lors que l'intégrité
 
 **« Enseigner les risques aux étudiants est le principal levier contre le mésusage. »** C'est le levier qui dépend de la coopération de l'étudiant, et c'est pourquoi il se classe sous les leviers structurels présentés ici. Les garde-fous et la refonte de l'évaluation fonctionnent que l'étudiant choisisse ou non le bon comportement ; les approches éducatives ne fonctionnent qu'avec l'adhésion. La distinction n'est pas morale mais mécanique : un environnement modifié contraint directement le comportement, alors qu'une croyance modifiée doit survivre à la nuit qui précède l'échéance.
 
-**« Si un garde-fou tient pendant la séance, l'apprentissage est acquis. »** Tenir et enseigner sont deux résultats distincts, et le corpus contient un double résultat net. Retenir la position agrégée dans un débat [[agentic-ai|multi-agents]] a réduit le basculement des étudiants vers une position incorrecte de l'IA de 42 à 60,5 % jusqu'à 5,7 à 8,2 %, un effet protecteur important, sans produire **aucun effet d'apprentissage pendant la séance** (β = 0,03, p = 0,18). Le rail a fait son travail de rail et n'est pas devenu un enseignement. Concevoir pour prévenir le mésusage n'est pas concevoir pour apprendre.
+**« Si un garde-fou tient pendant la séance, l'apprentissage est acquis. »** Tenir et enseigner sont deux résultats distincts, et les preuves contiennent un double résultat net. Retenir la position agrégée dans un débat [[agentic-ai|multi-agents]] a réduit le basculement des étudiants vers une position incorrecte de l'IA de 42 à 60,5 % jusqu'à 5,7 à 8,2 %, un effet protecteur important, sans produire **aucun effet d'apprentissage pendant la séance** (β = 0,03, p = 0,18). Le rail a fait son travail de rail et n'est pas devenu un enseignement. Concevoir pour prévenir le mésusage n'est pas concevoir pour apprendre.
 
 **« Détecter le mésusage et le punir est une stratégie de prévention. »** La prévention doit couvrir le correcteur lui-même. L'évaluation en équipe rouge de [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] a constaté que deux des cinq stratégies d'injection indirecte d'invites intégrées dans un fichier de soumission relevaient la note d'une dissertation en échec. Un pipeline qui détecte le mésusage étudiant tout en faisant confiance à un contenu de soumission non examiné n'est défendu que d'un côté.
 
-**« Le mésusage est un problème de motivation des étudiants. »** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher et Calderon (2025)]] remontent la contrainte déterminante d'un niveau, traitant la gouvernance plutôt que le comportement étudiant comme ce qu'il faut changer, et proposent un cadre de 130 indicateurs d'intégrité. Et le préjudice pour l'apprentissage est mesurable à grande échelle : [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei et Wu (2026)]] ont constaté que la sous-traitance des devoirs élevait les notes de devoirs de 18 % tout en *abaissant* les notes d'examen à livre fermé de 20 %, une défaillance de conception qui apparaît exactement dans l'écart dont traite cette page.
+**« Le mésusage est un problème de motivation des étudiants. »** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher et Calderon (2025)]] remontent la contrainte déterminante d'un niveau, traitant la gouvernance plutôt que le comportement étudiant comme ce qu'il faut changer, et proposent un cadre de 130 indicateurs d'intégrité. Et le préjudice pour l'apprentissage est mesurable à grande échelle : [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei et Wu (2026)]] ont constaté que la sous-traitance des devoirs élevait les notes de devoirs de 18 % tout en *abaissant* les notes d'examen à livre fermé de 20 %, une défaillance de conception qui apparaît exactement dans l'écart entre performance et apprentissage.
 
 ## Conseils de mise en œuvre par rôle
 

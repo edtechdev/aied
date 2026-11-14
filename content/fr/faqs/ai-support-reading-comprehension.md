@@ -10,8 +10,8 @@ ethics: [accessibility]
 audience: [instructors, curriculum designers, instructional designers]
 level: [higher ed, secondary, primary education]
 title: "Comment l'IA peut-elle aider à soutenir la lecture et la compréhension en lecture des étudiants ?"
-updated: "2026-11-06T04:40:00-05:00"
-source_updated: "2026-11-06T02:10:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-support-reading-comprehension
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
@@ -29,7 +29,7 @@ Quel que soit le sujet que vous enseignez, vous choisissez des lectures, vous ad
 
 **Trouver et adapter des textes à grande échelle.** L'IA est performante pour localiser des sources, simplifier le vocabulaire, générer des glossaires et transformer un passage en [[study-with-ai|guide d'étude ou résumé]]. Utilisez-la pour les parties mécaniques de la préparation de lecture — balayage, nivellement, extraction des termes clés — et gardez le contrôle humain sur ce qui compte.
 
-**Modéliser le lecteur plutôt que le texte.** Parce que les variables du lecteur portent une grande partie du signal dans la difficulté perçue d'un texte, les outils qui profilent le lecteur prédisent la difficulté perçue mieux que n'importe quelle formule. Dans la plus grande étude de la base de connaissances, 193 lycéens allemands ont évalué 3,954 phrases, et les modèles fondés sur des profils (meilleur RMSE d'ensemble de 0.822 contre une référence moyenne de 1.070) ont battu les scores Flesch des textes, qui jugeaient le même matériau bien plus difficile que ce que les étudiants en ressentaient — 72.8% des annotations étaient faciles ou très faciles ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck et Conrad (2025)]]). La version pratique : les évaluations d'un passage par quelques étudiants battent l'étiquette de n'importe quelle formule.
+**Modéliser le lecteur plutôt que le texte.** Parce que les variables du lecteur portent une grande partie du signal dans la difficulté perçue d'un texte, les outils qui profilent le lecteur prédisent la difficulté perçue mieux que n'importe quelle formule. Dans la plus grande étude de cette littérature, 193 lycéens allemands ont évalué 3,954 phrases, et les modèles fondés sur des profils (meilleur RMSE d'ensemble de 0.822 contre une référence moyenne de 1.070) ont battu les scores Flesch des textes, qui jugeaient le même matériau bien plus difficile que ce que les étudiants en ressentaient — 72.8% des annotations étaient faciles ou très faciles ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck et Conrad (2025)]]). La version pratique : les évaluations d'un passage par quelques étudiants battent l'étiquette de n'importe quelle formule.
 
 ## Où l'IA échoue
 

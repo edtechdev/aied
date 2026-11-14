@@ -1,7 +1,7 @@
 ---
 title: "Quelles sont les bonnes pratiques pour rapporter et interpréter la recherche sur l'IA en éducation ?"
 created: "2026-09-22T19:14:36-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 weight: 65
 type: faq
 foundations: [limitations-in-aied-research, interpreting-and-applying-aied-research]
@@ -11,7 +11,7 @@ research_method: [literature review]
 audience: [researchers]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, benchmark, meta-analysis-systematic-review, research-methods-aied]
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/reporting-interpreting-aied-research
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -74,7 +74,7 @@ Deux habitudes de rédaction l'évitent. Énoncez quel construit l'instrument me
 
 Pour les synthèses, rapportez le traitement des effets dépendants, la variance inter-études, les intervalles de prédiction et l'évaluation du biais de publication. L'I² seul ne suffira pas. O'Neill a trouvé une hétérogénéité rapportée sévère partout où elle était donnée, de 77.2% à 94.4% sur 13 méta-analyses, avec 12 au-dessus de 80%, et jamais résolue : aucune analyse de modérateurs n'atteignait la taille minimale de sous-groupe de dix études. Douze méta-analyses traitaient des tailles d'effet dépendantes issues de la même étude comme indépendantes, ce qui gonfle les preuves apparentes. Seules quatre rapportaient la variance inter-études (τ²) et seulement deux un intervalle de prédiction, et les deux intervalles incluaient zéro. Le biais de publication n'a été validé nulle part dans l'ensemble.
 
-Les chiffres d'hétérogénéité ont besoin de leur modèle, car l'I² dépend de la précision. [[limitations-in-aied-research|Limitations de la recherche en IA en éducation]] documente une synthèse à I² = 82.98% sous un modèle à effets fixes et 15.75% sous effets aléatoires. Un lecteur qui ne reçoit que le premier chiffre ne peut pas dire à quel point le corpus est incohérent. Rapportez τ² et un intervalle de prédiction à côté, ce qui est aussi la convention que demande [[meta-analysis-systematic-review|la littérature de synthèse]].
+Les chiffres d'hétérogénéité ont besoin de leur modèle, car l'I² dépend de la précision. [[limitations-in-aied-research|Limitations de la recherche en IA en éducation]] documente une synthèse à I² = 82.98% sous un modèle à effets fixes et 15.75% sous effets aléatoires. Un lecteur qui ne reçoit que le premier chiffre ne peut pas dire à quel point les études regroupées sont incohérentes. Rapportez τ² et un intervalle de prédiction à côté, ce qui est aussi la convention que demande [[meta-analysis-systematic-review|la littérature de synthèse]].
 
 Remisez ensuite votre propre chiffre vedette. [[bartos-ai-learning-meta-meta-analysis-2026|Bartoš et al. (2026)]] ont combiné 1.840 tailles d'effet issues de 67 méta-analyses et ont trouvé qu'une fois le biais de publication modélisé, l'effet moyen tombe à environ un tiers de la médiane publiée (SMD = 0.196 contre 0.67), avec un intervalle de prédiction de -1.521 à +1.908. Cet intervalle va d'un préjudice substantiel à un bénéfice substantiel pour une étude nouvelle hypothétique. C'est le chiffre le plus utile de l'article et le plus susceptible d'être retiré du résumé.
 

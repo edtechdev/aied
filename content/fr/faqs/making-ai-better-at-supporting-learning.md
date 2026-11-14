@@ -1,7 +1,7 @@
 ---
 title: "Comment rendre l'IA meilleure pour soutenir l'apprentissage dans notre propre discipline ?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, developing-ai-tutor, designing-educational-ai-software]
 weight: 74
 type: faq
@@ -17,7 +17,7 @@ methods: [benchmark]
 ethics: [pedagogical-safety]
 contributors: [editor]
 translation_of: faqs/making-ai-better-at-supporting-learning
-source_updated: "2026-10-28T11:21:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -84,8 +84,8 @@ Notez ce que le résultat de génération d'items implique pour l'ordonnancement
 L'adaptation paie quand vous avez besoin que le modèle tienne une propriété de façon fiable : un niveau de lecture, un format de sortie, un domaine qui lui manque. Le résultat récurrent est que **la visée bat la taille**.
 
 - Trois modèles **8B** affinés sur un [[curriculum-design|programme de lecture]] pour enfants conçu par des experts ont surpassé GPT-4o et Llama 3.3 70B en zéro-shot sur les métriques liées à la difficulté, avec des problèmes de sécurité négligeables. Les auteurs formulent cela comme la **contrôlabilité plutôt que l'échelle** ([[llm-children-reading-story-generation]]).
-- Un jeu d'instructions de **24.795 exemples** ancré dans les systèmes de savoir indiens a produit un affinage **7B** obtenant **6.39** auprès d'un panel externe de cinq juges, à **0.15** d'un modèle de référence général fort pour une fraction du coût de déploiement. Le même modèle de base obtenait **un score proche de zéro sur les dimensions propres au domaine** sans l'affinage ([[iks-instruct-dataset-indian-knowledge]]). Cet écart entre être compétent en général et compétent ici, c'est tout l'argument de l'adaptation au domaine.
-- Un seul adaptateur [[llm-training-and-fine-tuning|LoRA]] entraîné sur environ **3.900** exemples notés mis en commun a amené cinq petits [[open-source|modèles ouverts]] (de 4B à 30B) à parité ou mieux avec un correcteur humain sur deux examens d'informatique ([[llm-graders-computer-science-exams-2026]]). Un adaptateur, un jeu de données, plusieurs modèles de base : c'est la forme de déploiement qu'une petite équipe peut faire tourner.
+- Un jeu d'instructions de **24,795 exemples** ancré dans les systèmes de savoir indiens a produit un affinage **7B** obtenant **6.39** auprès d'un panel externe de cinq juges, à **0.15** d'un modèle de référence général fort pour une fraction du coût de déploiement. Le même modèle de base obtenait **un score proche de zéro sur les dimensions propres au domaine** sans l'affinage ([[iks-instruct-dataset-indian-knowledge]]). Cet écart entre être compétent en général et compétent ici, c'est tout l'argument de l'adaptation au domaine.
+- Un seul adaptateur [[llm-training-and-fine-tuning|LoRA]] entraîné sur environ **3,900** exemples notés mis en commun a amené cinq petits [[open-source|modèles ouverts]] (de 4B à 30B) à parité ou mieux avec un correcteur humain sur deux examens d'informatique ([[llm-graders-computer-science-exams-2026]]). Un adaptateur, un jeu de données, plusieurs modèles de base : c'est la forme de déploiement qu'une petite équipe peut faire tourner.
 
 Le mot *stable* dans le titre porte tout le poids. Le format, la grille, le niveau de lecture et le vocabulaire de domaine sont des cibles stables. Une prose chargée de jugement n'a pas de cible de ce type, et c'est là que l'adaptation échoue, comme le montrent les deux sections suivantes.
 
@@ -111,7 +111,7 @@ C'est la partie que l'enthousiasme saute.
 
 **Le transfert entre modèles.** L'échelle n'est pas un prédicteur fiable de la performance en aval sous adaptation LoRA, et **des hyperparamètres identiques ont produit des comportements qualitativement différents selon les architectures** ([[aiawe-automated-writing-evaluation]]). Une recette qui a marché sur un modèle n'est pas une recette.
 
-**L'architecture plutôt que le nombre de paramètres.** L'affinage de trois modèles ouverts de texte vers image sur 1.000 images de génie nucléaire légendées a substantiellement amélioré Stable Diffusion XL, apporté des gains limités à SD-v3.5-Medium, et produit **aucune amélioration mesurable pour Flux.1** ([[nuclear-diffusion-text-to-image-learning-2026]]).
+**L'architecture plutôt que le nombre de paramètres.** L'affinage de trois modèles ouverts de texte vers image sur 1,000 images de génie nucléaire légendées a substantiellement amélioré Stable Diffusion XL, apporté des gains limités à SD-v3.5-Medium, et produit **aucune amélioration mesurable pour Flux.1** ([[nuclear-diffusion-text-to-image-learning-2026]]).
 
 **Le problème était la validation.** Un GPT-4 de pointe non entraîné produisait environ **35%** d'indices trop généraux, incorrects ou révélant la réponse lorsqu'il rédigeait de la rétroaction de tutorat, et ses propres contrôles automatisés de qualité étaient en désaccord avec le jugement humain ([[reddig-maclellan-personalized-feedback-llm-2026]]). C'est un problème de filtrage, et un LoRA ne le résoudra pas.
 

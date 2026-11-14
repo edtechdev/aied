@@ -1,13 +1,13 @@
 ---
 title: Apprentissage situé
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-01T10:16:27-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: concepts/situated-learning
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -30,12 +30,12 @@ ai_assist:
 - Pensez à quelque chose que vous savez réellement bien faire — une compétence, un métier, un artisanat. L'avez-vous surtout appris d'un enseignement abstrait ou en participant à une communauté réelle qui faisait cette chose ? Qu'est-ce que cela suggère de l'endroit où vit réellement la connaissance ?
 - Lave et Wenger décrivent des novices qui apprennent par la « participation périphérique légitime » — en commençant à la lisière d'une communauté de pratique et en se déplaçant vers l'intérieur. Où avez-vous observé (ou été) un tel nouveau venu, et qu'est-ce qui lui a permis de passer de la périphérie au centre ?
 - Si la connaissance est « située » dans des contextes authentiques, qu'est-ce que cela implique pour la classe traditionnelle, qui sépare délibérément l'apprentissage des situations du monde réel — et pour les outils d'IA conçus pour délivrer des contenus décontextualisés ?
-- La page traite l'apprentissage situé comme une lentille de conception pour l'IA. Comment un système adaptatif ou une simulation pourraient-ils ancrer l'apprentissage dans une pratique authentique plutôt que de le sortir du contexte ?
+- Comment un système adaptatif ou une simulation pourraient-ils ancrer l'apprentissage dans une pratique authentique plutôt que de le sortir du contexte ?
 - Quels obstacles la [[research-methods-aied|recherche]] dit-elle se dresser sur la voie d'un apprentissage conduit par l'IA situé dans des contextes réels, et lesquels avez-vous vus dans votre propre institution ?
 
 ## Introduction
 
-L'apprentissage situé est l'une des théories de l'activité et du contexte au sein du volet des [[learning-theories|théories de l'apprentissage]] de la base de connaissances. Il reprend les thèmes vygotskiens de la construction sociale, mais y ajoute un fort accent sur l'intégration intime du « faire » et de l'« apprendre », et sur l'importance des communautés de pratique. Comme posture éducative, il affronte la scolarisation traditionnelle et standardisée en mettant au premier plan le contexte [[sociocultural-learning|socioculturel]] de l'apprenant comme élément clé de l'acquisition de compétences et de l'appropriation de connaissances pertinentes pour sa réalité.
+L'apprentissage situé est l'une des théories de l'activité et du contexte au sein des [[learning-theories|théories de l'apprentissage]]. Il reprend les thèmes vygotskiens de la construction sociale, mais y ajoute un fort accent sur l'intégration intime du « faire » et de l'« apprendre », et sur l'importance des communautés de pratique. Comme posture éducative, il affronte la scolarisation traditionnelle et standardisée en mettant au premier plan le contexte [[sociocultural-learning|socioculturel]] de l'apprenant comme élément clé de l'acquisition de compétences et de l'appropriation de connaissances pertinentes pour sa réalité.
 
 Dans la littérature sur l'[[ai-education|IA dans l'éducation]], l'apprentissage situé importe parce qu'il fournit une lentille de conception pour l'IA : les [[adaptive-learning|systèmes adaptatifs]], le [[intelligent-tutoring|tutorat intelligent]] dans des scénarios authentiques et les [[virtual-and-augmented-reality|simulations]] [[simulation|immersives]] peuvent ancrer l'éducation conduite par l'IA dans des contextes du monde réel, tandis que l'apprentissage situé offre en retour à l'IA un ancrage porteur de sens dans la pratique et la complexité authentiques. Les deux sont largement traités comme complémentaires, la guidance humaine demeurant essentielle à l'ancrage [[ethics|éthique]].
 
@@ -43,7 +43,7 @@ Dans la littérature sur l'[[ai-education|IA dans l'éducation]], l'apprentissag
 
 ## L'apprentissage situé comme lentille de conception pour l'IA
 
-Les recherches de la base de connaissances traitent l'apprentissage situé non pas comme une simple théorie abstraite, mais comme un cadre concret de conception et d'évaluation de l'IA dans l'éducation :
+La recherche traite l'apprentissage situé non pas comme une simple théorie abstraite, mais comme un cadre concret de conception et d'évaluation de l'IA dans l'éducation :
 
 - **Opportunités et obstacles.** Une revue [[meta-analysis-systematic-review|systématique]] PRISMA de 60 articles (trois décennies) constate que l'IA peut augmenter l'apprentissage situé — par des systèmes adaptatifs ajustés aux besoins évolutifs des étudiants, du tutorat intelligent situé dans des scénarios authentiques, l'automatisation des tâches administratives et un soutien aux enseignants fondé sur les données — tandis que les principaux obstacles sont l'apprentissage passif à sens unique de l'école traditionnelle, une emphase excessive sur les résultats prédéfinis, et la connaissance contextuelle limitée des enseignants. La guidance humaine demeure essentielle à l'ancrage éthique. ([[vargas-situated-learning-ai-review-2024]])
 - **L'IA comme catalyseur reliant l'éducation à la réalité.** L'IA peut agir comme un *catalyseur* de l'apprentissage situé en reliant l'éducation à la réalité et à des contextes authentiques, en permettant un apprentissage ancré dans des scénarios du monde réel. ([[vargas-ai-catalyst-situated-learning-2026]])
@@ -80,7 +80,7 @@ L'apprentissage situé se relie étroitement à l'[[embodied-learning|apprentiss
 ## Articles liés
 - [[ai-cosmos-agentic-infrastructure-situated-learning-2026]] — Des scénarios plus des actifs réutilisables porteurs de provenance battent un assistant ordinaire dans deux essais
 
-- [[vargas-situated-learning-ai-review-2024]] — Revue systématique PRISMA de l'apprentissage situé et de l'IA dans l'éducation (référence principale de cette page)
+- [[vargas-situated-learning-ai-review-2024]] — Revue systématique PRISMA de l'apprentissage situé et de l'IA dans l'éducation (la référence principale)
 - [[genai-educational-outcomes-meta-analysis]]
 - [[li-ai-science-situated-learning-teachers-2025]]
 - [[raffaghelli-situated-ai-ethics-2026]]

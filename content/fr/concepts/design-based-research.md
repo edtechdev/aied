@@ -1,13 +1,13 @@
 ---
 title: "La recherche par conception"
 created: "2026-08-24T02:30:00-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
 methods: [design-based-research, research-methods-aied]
 translation_of: concepts/design-based-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,7 @@ La DBR n'est pas une conception unique mais une boucle itérative, comprenant ty
 
 L'exemple canonique en AIEd est l'[[ai-assisted-collaborative-learning-model-dbr|étude du modèle d'apprentissage collaboratif assisté par IA (AACL)]], qui a mené un cycle DBR en quatre phases — analyse des besoins, conception du modèle, une implémentation en classe de huit semaines avec des étudiants de premier cycle indonésiens, et affinage du modèle — en itérant sur un cycle d'apprentissage en quatre stades (identification du problème → investigation [[collaborative-learning|collaboratif]] assistée par IA → [[problem-solving]] collaborative → réflexion et présentation).
 
-## Comment la DBR apparaît dans la base de connaissances
+## Comment la DBR apparaît dans la recherche
 
 - **Développer des modèles d'apprentissage.** L'[[ai-assisted-collaborative-learning-model-dbr|étude du modèle AACL]] utilise la DBR pour développer et évaluer un modèle d'apprentissage collaboratif assisté par l'IA visant la [[critical-thinking|pensée critique]] et la résolution de problèmes dans l'[[higher-ed|enseignement supérieur]].
 - **Construire une formation des enseignants à la littératie en IA.** [[genai-literacy-training-teacher-education-dbr-2026|Le et al.]] développent et évaluent une intervention DBR de formation à la littératie en [[generative-ai|IA générative]] pour des étudiants en [[teacher-education]] ; [[human-centered-ai-teacher-educators-2026|Baran et al.]] utilisent la DBR entre 2023 et 2025 pour concevoir un apprentissage professionnel centré sur la littératie critique en [[ai-literacy|IA]], fondé sur les principes de l'IA centrée sur l'humain.
@@ -79,9 +79,9 @@ La DBR est la méthode emblématique des [[learning-sciences|sciences de l'appre
 
 **« L'affinage itératif rend la conception immunisée contre les biais de confusion dont souffrent les autres méthodes. »** L'itération échange une menace contre une autre. Affiner une conception en cours d'étude signifie que la version finale diffère de celle qui a produit les premières données probantes, si bien qu'une affirmation sur « l'intervention » couvre plusieurs interventions. Rapporter quelle révision a produit quel résultat est la responsabilité de la discipline, et elle est souvent laissée implicite.
 
-**« Parce que la DBR produit un artefact fonctionnel, elle a démontré son efficacité. »** Une conception qui fonctionne sur le site qui l'a co-produite a démontré une viabilité locale, ce qui est une affirmation différente de l'efficacité. L'artefact porte les adaptations faites pour ce contexte, et le transférer transfère des postulats qui n'ont jamais été énoncés comme tels.
+**« Parce que la DBR produit un artefact fonctionnel, elle a démontré son efficacité. »** Une conception qui fonctionne là où elle a été co-produite a démontré une viabilité locale, ce qui est une affirmation différente de l'efficacité. L'artefact porte les adaptations faites pour ce contexte, et le transférer transfère des postulats qui n'ont jamais été énoncés comme tels.
 
-**« Traiter un instrument comme un artefact de conception révisable s'écarte de la DBR. »** C'est le caractère itératif de la DBR appliqué à la mesure plutôt qu'à l'intervention : une étude de ce corpus a traité la grille elle-même comme l'artefact, en cyclant par co-affinage avec un [[llm|LLM]]. Cette extension mérite d'être notée parce qu'elle fait du développement de l'instrument lui-même une partie des données probantes.
+**« Traiter un instrument comme un artefact de conception révisable s'écarte de la DBR. »** C'est le caractère itératif de la DBR appliqué à la mesure plutôt qu'à l'intervention : une étude a traité la grille elle-même comme l'artefact, en cyclant par co-affinage avec un [[llm|LLM]]. Cette extension mérite d'être notée parce qu'elle fait du développement de l'instrument lui-même une partie des données probantes.
 
 ## Concepts liés
 

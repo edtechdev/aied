@@ -6,9 +6,9 @@ technology: [adaptive-learning, personalized-learning]
 assessment: [assessment]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-13T13:20:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 translation_of: concepts/mastery-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T13:20:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -29,9 +29,9 @@ ai_assist:
 ## Questions à examiner
 
 - La plupart de la scolarité fixe le temps et laisse varier les résultats — chacun progresse après un nombre fixe de semaines. L'apprentissage par la maîtrise inverse cela : les résultats sont maintenus constants tandis que le temps, la rétroaction et la pratique varient. Lequel de ces modèles correspond le mieux à la manière dont vous avez réellement appris quelque chose de difficile ?
-- Une mise en garde critique de la page : « l'exactitude n'est pas la maîtrise. » Un apprenant peut produire des réponses justes tout en manquant une contrainte clé, trompant le système qui déclare la maîtrise trop tôt. Pouvez-vous penser à une compétence pour laquelle être capable de l'exercer correctement ne signifiait pas pour autant que vous compreniez vraiment quand *ne pas* l'exercer ?
+- « L'exactitude n'est pas la maîtrise », et un apprenant peut produire des réponses justes tout en manquant une contrainte clé, trompant le système qui déclare la maîtrise trop tôt. Pouvez-vous penser à une compétence pour laquelle être capable de l'exercer correctement ne signifiait pas pour autant que vous compreniez vraiment quand *ne pas* l'exercer ?
 - L'IA fondée sur la maîtrise accorde aux apprenants l'autonomie de choisir leurs propres tâches, mais des simulations montrent que l'auto-sélection naïve peut produire une sur-pratique massive. Où se situe le juste équilibre entre laisser un apprenant choisir et imposer des contraintes qui maintiennent une progression efficace ?
-- La page insiste sur la rétention durable, et pas seulement sur une performance correcte isolée — c'est pourquoi la maîtrise devrait être suivie d'une pratique espacée. Comment un apprenant pourrait-il paraître « maîtriser » quelque chose aujourd'hui et le perdre en quelques heures ?
+- La rétention durable importe, et pas seulement une performance correcte isolée, ce qui explique pourquoi la maîtrise devrait être suivie d'une pratique espacée. Comment un apprenant pourrait-il paraître « maîtriser » quelque chose aujourd'hui et le perdre en quelques heures ?
 - Si une IA déclare que vous avez « maîtrisé » un sujet, que voudriez-vous qu'elle vérifie avant que vous ne le croyiez — au-delà du fait d'obtenir quelques bonnes réponses ?
 
 ## Introduction

@@ -1,7 +1,7 @@
 ---
 title: "Conception universelle de l'apprentissage"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -32,10 +32,10 @@ ai_assist:
 
 - L'affirmation centrale de l'UDL est que la variabilité des apprenants est la norme, et non l'exception — il faut donc concevoir de multiples voies dès le départ plutôt que de réparer un seul parcours pour ceux qui peinent. Avez-vous tendance à concevoir pour un apprenant « moyen » en ajoutant des aménagements plus tard ? Que risque-t-on de perdre dans cette approche par défaut ?
 - Pensez à un moment où un format particulier (un texte dense, un cours magistral, une seule façon de montrer son travail) vous a exclu, vous ou une personne à qui vous enseigniez. Lequel des trois principes de l'UDL — engagement, représentation ou action/expression — était en jeu, et à quoi aurait ressemblé une alternative flexible ?
-- L'IA générative peut créer des exemples personnalisés, des sous-titres, des résumés et de multiples formats d'évaluation — ce qui semble un cadeau pour l'UDL. Mais la page avertit que l'IA peut aussi encoder des biais et réduire l'[[agency|autonomie de l'apprenant]]. Avant de poursuivre votre lecture, comment un outil conçu pour personnaliser pourrait-il finir par *restreindre* plutôt qu'élargir les parcours d'apprentissage de certains élèves ?
+- L'IA générative peut créer des exemples personnalisés, des sous-titres, des résumés et de multiples formats d'évaluation — ce qui semble un cadeau pour l'UDL. Pourtant, l'IA peut aussi porter des biais et réduire l'[[agency|autonomie de l'apprenant]]. Comment un outil conçu pour personnaliser pourrait-il finir par *restreindre* plutôt qu'élargir les parcours d'apprentissage de certains élèves ?
 - Une [[misconceptions|idée reçue]] fréquente veut que l'UDL signifie abaisser les exigences ou donner à chacun des résultats différents. Examinez un devoir qui permet aux élèves de rendre un essai, une vidéo, un schéma ou du code pour le même résultat d'apprentissage. S'agit-il d'un nivellement par le bas, ou d'une façon plus juste d'évaluer la même compétence ? Défendez votre point de vue.
 - L'UDL transforme « réparer l'apprenant » en « réparer la conception ». Choisissez une expérience d'apprentissage frustrante que vous avez vécue ou conçue. Si l'obstacle était un problème de conception plutôt qu'un problème d'élève, que changeriez-vous à la conception pour l'éliminer pour tout le monde ?
-- La page met en garde contre une IA qui supposerait un seul style de communication ou pénaliserait l'expression neurodivergente. Si vous utilisez ou concevez des outils assistés par l'IA, où les styles « par défaut » pourraient-ils exclure discrètement des apprenants — et que faudrait-il pour l'auditer ?
+- Une IA qui suppose un seul style de communication ou pénalise l'expression neurodivergente peut exclure des apprenants. Si vous utilisez ou concevez des outils assistés par l'IA, où les styles « par défaut » pourraient-ils exclure discrètement des apprenants — et que faudrait-il pour l'auditer ?
 
 ## Introduction
 
@@ -91,7 +91,7 @@ L'UDL transforme « réparer l'apprenant » en « réparer la conception ». Pou
 
 **« Un cours doté de supports accessibles a mis en œuvre la CUA. »** L'accessibilité est l'un des trois principes de la CUA et le plus facile à auditer, si bien qu'elle est souvent le seul à être réalisé. Construire des moyens flexibles d'engagement et d'action et d'expression constitue la plus grande part du cadre, et un cours dont les PDF sont balisés mais dont les évaluations n'admettent qu'un seul format a accompli la fraction mesurable.
 
-**« Les enseignants qui croient être accessibles le sont. »** Croyance et pratique se séparent systématiquement. Les constats au niveau du corps enseignant dans ce corpus montrent que **90 % des répondants croyaient créer un environnement d'apprentissage accessible et 87 % déclaraient prendre activement en compte l'accessibilité** — des taux d'auto-attestation qui ne peuvent pas tous être exacts au vu de ce que les audits trouvent, et un rappel que la mise en œuvre de la CUA ne peut pas être évaluée par enquête de la manière dont elle l'est habituellement.
+**« Les enseignants qui croient être accessibles le sont. »** Croyance et pratique se séparent systématiquement. Les constats au niveau du corps enseignant dans ces études montrent que **90 % des répondants croyaient créer un environnement d'apprentissage accessible et 87 % déclaraient prendre activement en compte l'accessibilité** — des taux d'auto-attestation qui ne peuvent pas tous être exacts au vu de ce que les audits trouvent, et un rappel que la mise en œuvre de la CUA ne peut pas être évaluée par enquête de la manière dont elle l'est habituellement.
 
 **« La CUA signifie concevoir plus soigneusement pour l'étudiant moyen. »** L'affirmation centrale est l'inverse : la variabilité des apprenants est la norme et non l'exception, si bien que la conception offre de multiples parcours dès le départ au lieu de corriger un parcours pour ceux qui échouent. Le rattrapage est ce que la CUA existe pour remplacer, et un parcours unique bien réglé reste un parcours unique.
 

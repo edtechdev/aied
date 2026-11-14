@@ -1,7 +1,7 @@
 ---
 title: "Patrons pédagogiques"
 created: "2026-09-30T16:20:00-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -13,7 +13,7 @@ connected_faqs: [designing-ai-into-learning]
 connected_resources: [learning-design-wiki]
 contributors: [editor]
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-11-12T19:20:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -28,22 +28,22 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Patrons pédagogiques (Pedagogical Patterns)** — les *séquences ordonnées* d'activités que la recherche de cette base de connaissances a testées, avec attention aux endroits où l'[[generative-ai|IA générative]] entre dans la séquence et où le [[human-in-the-loop-ai|jugement humain]] doit demeurer. Là où la [[pedagogy|pédagogie]] catalogue les approches ([[active-learning|apprentissage actif]], [[problem-based-learning|apprentissage par problèmes]], [[collaborative-learning|apprentissage collaboratif]]) et que la [[learning-design|conception pédagogique]] décrit comment un cours est conçu, cette page catalogue ce que les étudiants et les enseignants font réellement, dans quel ordre, et ce qui s'est produit lorsqu'on l'a essayé. PAIRR — brouillon, revue par les pairs, revue par l'IA, réflexion, révision — en est l'exemple le mieux documenté, et le patron qui le sous-tend revient à travers les disciplines : l'effort d'abord, l'IA ensuite, le jugement humain aux enjeux.
+> **Patrons pédagogiques (Pedagogical Patterns)** — les *séquences ordonnées* d'activités que la recherche a testées, avec attention aux endroits où l'[[generative-ai|IA générative]] entre dans la séquence et où le [[human-in-the-loop-ai|jugement humain]] doit demeurer. Là où la [[pedagogy|pédagogie]] catalogue les approches ([[active-learning|apprentissage actif]], [[problem-based-learning|apprentissage par problèmes]], [[collaborative-learning|apprentissage collaboratif]]) et que la [[learning-design|conception pédagogique]] décrit comment un cours est conçu, les patrons ci-dessous cataloguent ce que les étudiants et les enseignants font réellement, dans quel ordre, et ce qui s'est produit lorsqu'on l'a essayé. PAIRR — brouillon, revue par les pairs, revue par l'IA, réflexion, révision — en est l'exemple le mieux documenté, et le patron qui le sous-tend revient à travers les disciplines : l'effort d'abord, l'IA ensuite, le jugement humain aux enjeux.
 
 ## Questions à examiner
 
 - Un patron est une *séquence*, et non un outil. Prenez un devoir que vous enseignez et écrivez l'ordre des gestes que fait un étudiant. À quel endroit de cet ordre l'IA aiderait-elle, et à quel endroit ferait-elle le travail que l'étudiant est censé faire ?
 - Plusieurs patrons ici donnent délibérément à l'IA un rôle *faible* — des indices plutôt que des réponses, des questions plutôt que des corrections. Pourquoi un tuteur délibérément moins serviable produirait-il un meilleur apprentissage, et qu'est-ce que cela implique au sujet des outils d'IA que votre institution achète ?
-- Le patron le mieux étayé de cette page ([[learning-by-teaching|apprendre en enseignant]] à une IA) demande aux étudiants d'expliquer, et il améliore la qualité de l'explication et des questions mais *pas* la remémoration objective. Si vous l'adoptiez, que changeriez-vous à votre manière d'évaluer ?
+- Le patron le mieux étayé ici ([[learning-by-teaching|apprendre en enseignant]] à une IA) demande aux étudiants d'expliquer, et il améliore la qualité de l'explication et des questions mais *pas* la remémoration objective. Si vous l'adoptiez, que changeriez-vous à votre manière d'évaluer ?
 - Lorsque la [[ai-feedback-quality|rétroaction de l'IA]] était de meilleure qualité que celle de l'[[teacher-role|enseignant]], les étudiants ne révisaient pas davantage. Qu'est-ce que cela suggère au sujet de la différence entre produire de la rétroaction et amener les étudiants à l'utiliser ?
 - Les contextes changent la réponse : certains patrons ont été testés en ligne et de manière asynchrone, d'autres en face à face avec un laboratoire. Lesquels pourriez-vous mener dans votre propre cadre sans nouveaux outils, et lesquels exigeraient une infrastructure que vous n'avez pas ?
 - Presque chaque patron ici garde un humain au point du jugement — notation, vérification ou interprétation. Est-ce un choix de conception, une nécessité fondée sur les preuves, ou une limite de ce qui a été testé jusqu'ici ?
 
 ## Introduction
 
-La pédagogie répond à la question *comment devrions-nous enseigner* ; cette page répond à une question plus étroite et plus opérationnelle : **dans quel ordre les gestes devraient-ils se produire, et où l'IA appartient-elle dans cet ordre ?** La distinction importe parce que le même outil produit des résultats opposés selon sa position dans une séquence. Un assistant fondé sur l'IA générative placé avant qu'un étudiant ne tente un problème déprime de manière fiable la performance ultérieure sans assistance ; placé après une tentative, avec des indices plutôt que des réponses, la même classe de systèmes supprime ce préjudice.
+La pédagogie répond à la question *comment devrions-nous enseigner* ; la question, plus étroite et plus opérationnelle, est **dans quel ordre les gestes devraient-ils se produire, et où l'IA appartient-elle dans cet ordre ?** La distinction importe parce que le même outil produit des résultats opposés selon sa position dans une séquence. Un assistant fondé sur l'IA générative placé avant qu'un étudiant ne tente un problème déprime de manière fiable la performance ultérieure sans assistance ; placé après une tentative, avec des indices plutôt que des réponses, la même classe de systèmes supprime ce préjudice.
 
-Chaque patron ci-dessous est rapporté avec un statut probant, parce que la couverture de la base de connaissances est inégale et que la différence importe à quiconque décide quoi adopter :
+Chaque patron ci-dessous est rapporté avec un statut probant, parce que les preuves sont inégales et que la différence importe à quiconque décide quoi adopter :
 
 - **Testé** — au moins un article rapporte un test contrôlé ou comparatif.
 - **Mitigé** — testé, mais sans témoin, avec des résultats contradictoires, ou avec la variable testée enchevêtrée à autre chose.
@@ -53,7 +53,7 @@ Les patrons sont regroupés par la fonction qu'ils servent dans une leçon : pla
 
 ## Les patrons qui placent l'effort avant l'aide
 
-Ces patrons partagent une affirmation structurelle : l'apprenant doit s'engager dans une tentative avant que l'IA ne contribue. C'est la règle de conception la plus constamment étayée dans la base de connaissances.
+Ces patrons partagent une affirmation structurelle : l'apprenant doit s'engager dans une tentative avant que l'IA ne contribue. C'est la règle de conception la plus constamment étayée dans cette littérature.
 
 ### Récupérer ou tenter avant que l'IA ne réponde
 
@@ -73,7 +73,7 @@ La seule étude de terrain qui teste la séquence complète avec un tuteur pilot
 
 **Preuves : mitigées.** Les étudiants diagnostiquent une erreur dans un artefact — un diagramme généré par l'IA violant l'intégrité référentielle, une requête qui abandonne une jointure, un fragment de code d'un [[llm|grand modèle de langue]] — reçoivent des indices qui les forcent à inférer la correction plutôt qu'on ne la leur remette, la réparent, et réfléchissent à quelles parties de la production étaient indignes de confiance.
 
-Une étude pré-post portant sur 13 étudiants dans un cours de bases de données en ligne est passée de 4,25 à 6,83 sur 7 (t(12) ≈ 5,10, p < ,001, d = 1,49) en utilisant des cycles hebdomadaires de critique et d'affinage bâtis sur des cas délibérés de défaillance de l'IA, mais en l'absence de groupe témoin le gain ne peut être séparé du [[curriculum-design|programme d'études]] ni de l'enseignant ([[pedagogy-ai-mistakes|Hosseini, 2026]]). Une [[meta-analysis-systematic-review|revue systématique]] de 72 études sur l'enseignement de l'informatique rapporte que l'analyse des erreurs est une compétence *distincte* : les étudiants performaient significativement moins bien à corriger du code généré par des grands modèles de langue qu'à des tâches d'examen de programmation traditionnelles ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al., 2026]]). Aucun article de la base de connaissances ne rapporte un test contrôlé de l'enseignement par exemples erronés en tant que tel.
+Une étude pré-post portant sur 13 étudiants dans un cours de bases de données en ligne est passée de 4,25 à 6,83 sur 7 (t(12) ≈ 5,10, p < ,001, d = 1,49) en utilisant des cycles hebdomadaires de critique et d'affinage bâtis sur des cas délibérés de défaillance de l'IA, mais en l'absence de groupe témoin le gain ne peut être séparé du [[curriculum-design|programme d'études]] ni de l'enseignant ([[pedagogy-ai-mistakes|Hosseini, 2026]]). Une [[meta-analysis-systematic-review|revue systématique]] de 72 études sur l'enseignement de l'informatique rapporte que l'analyse des erreurs est une compétence *distincte* : les étudiants performaient significativement moins bien à corriger du code généré par des grands modèles de langue qu'à des tâches d'examen de programmation traditionnelles ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al., 2026]]). Aucune étude ne rapporte un test contrôlé de l'enseignement par exemples erronés en tant que tel.
 
 ### Exemples travaillés avec auto-explication
 
@@ -85,7 +85,7 @@ Le nombre d'exemples à donner avant la pratique dépend lui-même du contenu, c
 
 ## Les patrons qui associent la rétroaction de l'IA à la rétroaction humaine
 
-Le constat le plus répliqué de la base de connaissances sur la rétroaction de l'IA est qu'elle fonctionne mieux *combinée* à la rétroaction humaine que seule — et que sa qualité n'est pas ce qui détermine si les étudiants l'utilisent.
+Le constat le plus répliqué sur la rétroaction de l'IA est qu'elle fonctionne mieux *combinée* à la rétroaction humaine que seule — et que sa qualité n'est pas ce qui détermine si les étudiants l'utilisent.
 
 ### PAIRR : revue par les pairs et par l'IA avec réflexion
 
@@ -131,7 +131,7 @@ Une étude de cas portant sur 5 étudiants diplômés dans un cours d'informatio
 
 ### Apprendre en enseignant à un élève d'IA
 
-**Preuves : testé, et c'est le patron le mieux étayé de cette page.** L'étudiant étudie le contenu, puis l'explique à une IA sollicitée pour tenir une posture de novice qui ne révèle jamais l'explication cible ; l'IA demande des explications, des exemples et un raisonnement de vérification, séquencés de l'ordre inférieur à l'ordre supérieur, et persiste jusqu'à ce que l'explication soit satisfaisante.
+**Preuves : testé, et c'est le patron le mieux étayé ici.** L'étudiant étudie le contenu, puis l'explique à une IA sollicitée pour tenir une posture de novice qui ne révèle jamais l'explication cible ; l'IA demande des explications, des exemples et un raisonnement de vérification, séquencés de l'ordre inférieur à l'ordre supérieur, et persiste jusqu'à ce que l'explication soit satisfaisante.
 
 Une quasi-expérience portant sur 68 enseignants en formation initiale a trouvé que le fait d'expliquer à un apprenant novice doté d'IAG obtenait un score plus élevé sur la définition de la classe renversée (M = 4,18 contre 3,29, p < 0,001, r = 0,474) et sur ses activités (M = 4,91 contre 3,06, p < 0,001, r = 0,642), générait des questions plus nombreuses et de meilleure qualité (les deux p < 0,001) — mais ne montrait **aucune différence de groupe sur les questions objectives** (M = 23,18 contre 21,57, p = 0,416) ([[wang-genai-novice-learner-learning-by-teaching-2026|Wang et al., 2026]]). Une expérience de laboratoire randomisée portant sur 41 étudiants a trouvé des scores de test de connaissances plus élevés (ajustés 11,86 contre 10,53, F = 35,54, η² = 0,74) et un code plus clair et plus lisible, mais **aucune différence dans l'exactitude du code** ([[chatgpt-teachable-agent-programming-lbt-2024|Chen et al., 2024]]). Un déploiement de 11 semaines sur 546 étudiants a trouvé que chaque acte d'apprentissage profond supplémentaire était associé à une diminution de 2,7 % des tentatives de quiz attendues (IRR 0,973, p < ,001), la comparaison étant confondue par le temps sur tâche et par la montée, en fin de semestre, du contournement consistant en une réutilisation de contenu externe de 30 à 35 % ([[explique-teachable-agent-algorithms-546-students-2026|Wang et al., 2026]]). La forme constante : des gains en explication et en travail génératif, et non en remémoration objective.
 
@@ -186,7 +186,7 @@ Le patron détermine ce que le contexte exige, et plusieurs patrons n'ont été 
 
 ## Propositions de conception (pas encore testées)
 
-Les patrons ci-dessous proviennent d'un guide pour le corps professoral fourni par le mainteneur de la base de connaissances (*AI-Ready Course Design*, septembre 2026). Ce guide énonce explicitement que ses exemples sont des **propositions de conception, et non des interventions testées**, et aucun article de cette base de connaissances ne les teste. Ils sont consignés ici comme des idées de conception qui valent la peine d'être essayées et évaluées, et ne doivent pas être lus comme des preuves.
+Les patrons ci-dessous proviennent d'un guide pour le corps professoral, *AI-Ready Course Design* (septembre 2026). Ce guide énonce explicitement que ses exemples sont des **propositions de conception, et non des interventions testées**, et aucune étude ne les teste. Ils sont consignés ici comme des idées de conception qui valent la peine d'être essayées et évaluées, et ne doivent pas être lus comme des preuves.
 
 - **Argument + trace de révision** (composition, lettres). Remplacez une remise composée d'une seule dissertation par une thèse initiale, deux passages de source annotés, une dissertation révisée et une note de décision de 150 mots ; autorisez la critique par l'IA après le premier brouillon. Évaluez le lien affirmation–preuve et une suggestion acceptée ou rejetée justifiée par rapport aux sources.
 - **Données + affirmation raisonnée** (sciences, cours de laboratoire). Remplacez un compte rendu de laboratoire poli par des observations brutes, un graphique, une note d'incertitude et une explication reliant les résultats à une affirmation ; l'IA peut critiquer une interprétation fournie, et les étudiants vérifient cette critique par rapport à leurs données.
@@ -201,14 +201,14 @@ Les mises en garde propres au guide s'appliquent : la vidéo enregistrée, les r
 
 - **« Toute pratique fournie par l'IA est de la pratique. »** Une condition de récupération espacée adaptative a produit **les scores de post-test les plus élevés (M = 78,19)** et **a significativement surpassé l'étude assistée par l'IA dirigée par l'apprenant (M = 67,28)**. Le dispositif dirigé par l'apprenant a sous-performé un dispositif structuré : l'autonomie n'est donc pas automatiquement la meilleure conception.
 - **« Étudier avec un [[conversational-ai|chatbot]] vaut mieux qu'étudier sans. »** **Le contre-exemple le tranche** : dans un [[rct|essai randomisé]] portant sur **120 étudiants**, ceux qui travaillaient avec un accès sans restriction à ChatGPT se souvenaient **moins lorsqu'ils étaient testés sans avertissement** que ceux qui n'en avaient pas. L'outil a nui à la rétention dans le dispositif testé.
-- **« Les preuves du patron sont un grand essai regroupé. »** Le **soutien le plus fort est indirect** et provient d'une **expérience randomisée en sujets intérieurs portant sur 26 étudiants**, où l'[[scaffolding|étayage]] à réponse immédiate a performé significativement différemment. Les preuves soutiennent le patron tout en restant minces à l'échelle, et la page doit être lue ainsi.
+- **« Les preuves du patron sont un grand essai regroupé. »** Le **soutien le plus fort est indirect** et provient d'une **expérience randomisée en sujets intérieurs portant sur 26 étudiants**, où l'[[scaffolding|étayage]] à réponse immédiate a performé significativement différemment. Les preuves soutiennent le patron tout en restant minces à l'échelle.
 
 ## Concepts liés
 
-- [[pedagogy]] — le parapluie des approches d'enseignement que cette page opérationnalise en séquences
+- [[pedagogy]] — le parapluie des approches d'enseignement que ces patrons opérationnalisent en séquences
 - [[learning-design]] — là où les patrons sont choisis, séquencés et intégrés dans un cours
 - [[scaffolding]] — le principe de soutien et d'estompage qui gouverne où appartient l'aide de l'IA
-- [[feedback]] — le système que les patrons de rétroaction de cette page instancient
+- [[feedback]] — le système que ces patrons de rétroaction instancient
 - [[formative-assessment]] — la finalité évaluative que servent la plupart de ces patrons
 - [[peer-assessment]] — la moitié humaine des patrons PAIRR et à rétroaction combinée
 - [[ai-feedback-quality]] — pourquoi la qualité de la rétroaction seule ne détermine pas la révision

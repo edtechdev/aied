@@ -2,7 +2,7 @@
 connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 title: "Plateforme edtech"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T19:20:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ ethics: [equity-in-ai-education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/edtech-platform
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Plateforme edtech** — les systèmes numériques, systèmes de gestion de l'apprentissage (LMS), systèmes de tutorat et environnements d'[[online-teaching-and-learning|apprentissage en ligne]] par lesquels l'IA est mise à la disposition des apprenants et des éducateurs. Dans l'[[ai-education|IA en éducation]], la plateforme est la *couche d'infrastructure* qui détermine si une capacité d'IA atteint les étudiants, comment elle est déployée (ouverte contre propriétaire, intégrée contre autonome), et qui peut y accéder, l'adapter et l'évaluer. La recherche menée dans cette base de connaissances examine les plates-formes sous de multiples angles : leur conception, les contraintes qui pèsent sur leur adoption et l'engagement, leur gouvernance institutionnelle et leurs implications en matière d'équité.([[access-not-enough-ai-tutoring-2026]]) ([[oatutor-open-source-adaptive-tutor-2023]])
+> **Plateforme edtech** — les systèmes numériques, systèmes de gestion de l'apprentissage (LMS), systèmes de tutorat et environnements d'[[online-teaching-and-learning|apprentissage en ligne]] par lesquels l'IA est mise à la disposition des apprenants et des éducateurs. Dans l'[[ai-education|IA en éducation]], la plateforme est la *couche d'infrastructure* qui détermine si une capacité d'IA atteint les étudiants, comment elle est déployée (ouverte contre propriétaire, intégrée contre autonome), et qui peut y accéder, l'adapter et l'évaluer. La recherche examine les plates-formes sous de multiples angles : leur conception, les contraintes qui pèsent sur leur adoption et l'engagement, leur gouvernance institutionnelle et leurs implications en matière d'équité.([[access-not-enough-ai-tutoring-2026]]) ([[oatutor-open-source-adaptive-tutor-2023]])
 
 ## Questions à examiner
 
@@ -53,7 +53,7 @@ Les plates-formes dans l'IA en éducation remplissent plusieurs fonctions distin
 - **Collecter et analyser les données d'apprentissage** — le substrat de l'[[learning-analytics|analytique de l'apprentissage]] et de la [[student-modeling|modélisation de l'apprenant]].
 - **Gouverner l'accès et le déploiement** — les décisions relatives à l'[[open-source|code ouvert]] contre au caractère propriétaire, au local contre au cloud, et aux institutions et apprenants qui peuvent l'utiliser.
 
-## Constats clés issus des articles de la base de connaissances
+## Constats clés issus de la recherche
 
 ### L'adoption, et non la capacité, est souvent la contrainte déterminante
 

@@ -1,13 +1,13 @@
 ---
 title: "Apprentissage par le jeu"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/game-based-learning
-source_updated: "2026-11-12T21:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -30,13 +30,13 @@ ai_assist:
 - L'apprentissage par le jeu utilise le jeu lui-même comme support d'apprentissage — on apprend *en* jouant. La ludification se contente de superposer des points, des badges et des niveaux à une activité qui n'est pas un jeu. Selon vous, quelle différence ces deux approches font-elles réellement sur l'apprentissage, par opposition à l'engagement à court terme ?
 - Une revue comparative a montré que l'apprentissage par le jeu était plus répandu dans les contextes informels, tandis que la ludification dominait les salles de classe formelles et favorisait l'apprentissage par projets. Pourquoi, à votre avis, chaque approche a-t-elle trouvé un terrain différent — et qu'est-ce que cela nous apprend sur le contexte où chacune fonctionne le mieux ?
 - La ludification s'appuie sur la théorie de l'autodétermination — [[agency|autonomie]], compétence, affiliation. Si la motivation consiste à satisfaire ces besoins, pourquoi un système de points et de badges peut-il réussir ou échouer selon la manière dont il façonne l'effort perçu et l'attention ?
-- La [[research-methods-aied|recherche]] suggère que le bénéfice motivationnel des dispositifs ludiques et assistés par IA dépend de la manière dont ils façonnent la charge perçue et l'attention, et non de la ludification seule. Quand avez-vous vu un jeu ou des badges stimuler l'engagement sans améliorer réellement l'apprentissage — ou l'inverse ?
+- La ludification est souvent supposée accroître la motivation à elle seule. Que faudrait-il que la [[research-methods-aied|recherche]] montre au sujet de l'effort perçu et de l'attention avant que vous n'attribuiez à un jeu une amélioration de l'apprentissage ? Quand avez-vous vu un jeu ou des badges stimuler l'engagement sans améliorer réellement l'apprentissage — ou l'inverse ?
 
 ## Introduction
 
 Le GBL s'appuie sur les théories de la [[motivation]], de l'[[student-engagement|engagement des apprenants]] et de l'[[active-learning|apprentissage actif]] : les jeux procurent une motivation intrinsèque, une rétroaction immédiate et des contextes de problèmes authentiques. Il recoupe la [[simulation]], l'[[project-based-learning|apprentissage par projets]] et la [[educational-robotics|robotique éducative]]. Le GBL est particulièrement pertinent pour la [[educational-robotics|robotique éducative]], la [[computational-thinking|pensée computationnelle]] et l'[[cs-education|enseignement de l'informatique]], où les jeux peuvent rendre concrets et ludiques des concepts techniques abstraits.
 
-## Comment le GBL apparaît dans la recherche de la base de connaissances
+## Comment le GBL apparaît dans la recherche
 
 - **Éducation à la robotique :** [[game-based-gamified-robotics-education-review-2026|une revue systématique comparative]] de l'apprentissage par le jeu et de la ludification dans l'éducation à la robotique a montré que le GBL était plus répandu dans les contextes informels, tandis que la ludification dominait les salles de classe formelles et favorisait l'[[project-based-learning|apprentissage par projets]].
 - **Jeux médiés par des robots :** [[remind-robot-mediated-roleplay-antibullying-2026|REMind]] est un jeu de rôle médié par un robot destiné à une intervention contre le harcèlement, et [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] utilise la [[storytelling-in-education|narration numérique]] interactive pour stimuler la motivation.
@@ -53,10 +53,10 @@ Le GBL s'appuie sur les théories de la [[motivation]], de l'[[student-engagemen
 
 La **ludification** est l'application d'éléments de conception de jeux (points, badges, niveaux, classements, défis, barres de progression) à des contextes non ludiques afin de motiver et d'engager les utilisateurs. Contrairement à l'apprentissage par le jeu — où l'apprentissage se produit *au travers d'un* jeu — la ludification superpose des mécaniques de jeu à une activité d'apprentissage existante sans en faire un jeu complet. Elle est utilisée en éducation pour stimuler la motivation, l'[[student-engagement|engagement des apprenants]] et la persévérance, et elle est largement appliquée dans les contextes formels de salle de classe.
 
-La ludification s'appuie sur la théorie motivationnelle, en particulier la [[self-determination-theory]] (qui soutient l'autonomie, la compétence et l'affiliation) et sur les cadres de changement comportemental. Elle a montré une synergie particulière avec l'[[project-based-learning|apprentissage par projets]] dans des domaines appliqués comme la robotique. Dans la recherche de la base de connaissances :
+La ludification s'appuie sur la théorie motivationnelle, en particulier la [[self-determination-theory]] (qui soutient l'autonomie, la compétence et l'affiliation) et sur les cadres de changement comportemental. Elle a montré une synergie particulière avec l'[[project-based-learning|apprentissage par projets]] dans des domaines appliqués comme la robotique. La recherche montre :
 
 - **Éducation à la robotique :** la revue comparative a montré que la ludification dominait les salles de classe formelles en éducation à la robotique (p < .001) et favorisait fortement l'[[project-based-learning|apprentissage par projets]] (p = .009), tandis que l'apprentissage par le jeu était plus courant dans les contextes informels.
-- **Engagement et motivation :** la ludification est utilisée à travers la base de connaissances pour accroître l'engagement et la motivation des apprenants dans les contextes d'IA, de [[cs-education|programmation]] et d'apprentissage [[stem-education|STIM]]. La recherche [[genai-motivation-engagement-2026|IA générative, motivation et engagement]] examine comment les éléments ludiques se combinent à l'IA pour soutenir l'intérêt des apprenants. Deux études de 2026 prolongent ces travaux en comparant des conditions ludifiées et assistées par IA à un enseignement traditionnel : [[nasa-tlx-workload-gamified-ai-2026|une étude NASA-TLX]] a mesuré la charge perçue dans des conditions d'apprentissage traditionnel, ludifié et assisté par IA, et [[arcs-motivational-ergonomics-gamified-ai-2026|une étude ARCS]] a examiné l'« ergonomie » motivationnelle dans l'apprentissage ludifié et assisté par IA, avec des implications pour la [[professional-training|formation en milieu professionnel]]. Ensemble, elles montrent que le bénéfice motivationnel des dispositifs ludiques et assistés par IA dépend de la manière dont ils façonnent la [[motivation|charge perçue]], la charge de travail et l'attention (par exemple les dimensions attention/pertinence du modèle ARCS), et non de la ludification seule.
+- **Engagement et motivation :** la ludification est largement utilisée pour accroître l'engagement et la motivation des apprenants dans les contextes d'IA, de [[cs-education|programmation]] et d'apprentissage [[stem-education|STIM]]. La recherche [[genai-motivation-engagement-2026|IA générative, motivation et engagement]] examine comment les éléments ludiques se combinent à l'IA pour soutenir l'intérêt des apprenants. Deux études de 2026 prolongent ces travaux en comparant des conditions ludifiées et assistées par IA à un enseignement traditionnel : [[nasa-tlx-workload-gamified-ai-2026|une étude NASA-TLX]] a mesuré la charge perçue dans des conditions d'apprentissage traditionnel, ludifié et assisté par IA, et [[arcs-motivational-ergonomics-gamified-ai-2026|une étude ARCS]] a examiné l'« ergonomie » motivationnelle dans l'apprentissage ludifié et assisté par IA, avec des implications pour la [[professional-training|formation en milieu professionnel]]. Ensemble, elles montrent que le bénéfice motivationnel des dispositifs ludiques et assistés par IA dépend de la manière dont ils façonnent la [[motivation|charge perçue]], la charge de travail et l'attention (par exemple les dimensions attention/pertinence du modèle ARCS), et non de la ludification seule.
 
 Le GBL et la ludification se relient ensemble à la [[educational-robotics|robotique éducative]], à l'[[student-engagement|engagement des apprenants]], à la [[motivation]], à la [[self-determination-theory|théorie de l'autodétermination]], à l'[[active-learning|apprentissage actif]], à la [[simulation]], à l'[[project-based-learning|apprentissage par projets]] et à la [[computational-thinking|pensée computationnelle]].
 
@@ -81,7 +81,7 @@ Le GBL et la ludification se relient ensemble à la [[educational-robotics|robot
 
 ## Idées fausses courantes
 
-**« L'apprentissage par le jeu assisté par l'IA dispose d'une base de preuves solide. »** La synthèse qui porte cette affirmation est à la fois vaste et mince. Une **revue systématique de 55 études** trouve des effets positifs sur les connaissances, la motivation intrinsèque et l'engagement affectif — mais seules **4 études (7%) atteignent son seuil de haute qualité**. Un effet positif regroupé tiré d'un corpus où 93% des études passent sous la barre de qualité de la revue elle-même est une hypothèse accompagnée d'une littérature, non un constat sur lequel concevoir.
+**« L'apprentissage par le jeu assisté par l'IA dispose d'une base de preuves solide. »** La synthèse qui porte cette affirmation est à la fois vaste et mince. Une **revue systématique de 55 études** trouve des effets positifs sur les connaissances, la motivation intrinsèque et l'engagement affectif — mais seules **4 études (7%) atteignent son seuil de haute qualité**. Un effet positif regroupé tiré d'une littérature où 93% des études passent sous la barre de qualité de la revue elle-même est une hypothèse accompagnée d'une littérature, non un constat sur lequel concevoir.
 
 **« Des effets positifs sur la motivation et sur les connaissances se renforcent mutuellement. »** Ils sont mesurés séparément et, dans la littérature plus large, programmés séparément : [[student-engagement|l'engagement et la réussite]] évoluent selon des calendriers différents, si bien qu'un jeu qui élève la motivation intrinsèque a démontré un seul résultat. Traiter le résultat motivationnel comme une corroboration du résultat cognitif gonfle un constat en deux parties en une affirmation plus forte que la conception ne la soutient.
 

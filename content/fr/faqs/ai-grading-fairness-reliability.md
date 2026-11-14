@@ -1,7 +1,7 @@
 ---
 title: "Puis-je utiliser l'IA pour noter le travail des étudiants de façon équitable et fiable ?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-06T04:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: faq
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -46,11 +46,11 @@ Voici la réponse courte : la notation par IA gagne sa place comme assistante su
 
 Trois arrangements sont appelés « notation par IA » et ils portent des obligations différentes.
 
-Une **assistante de rétroaction** rédige des commentaires ou signale des omissions possibles que vous acceptez, réécrivez ou écartez. Le risque se limite à la qualité des commentaires, et vous lisez tout avant que cela n'atteigne un étudiant. Un **second lecteur** propose des notes par critère ou signale des désaccords pour structurer votre propre notation. Ses erreurs doivent être utiles plutôt que simplement fausses : un signalement qui vous renvoie à une copie que vous auriez notée sans attention vaut la peine. Un **noteur principal** produit des notes qui deviennent des résultats consignés. C'est l'arrangement que les preuves de cette base de connaissances ne soutiennent pas au-delà de cas étroits et validés localement.
+Une **assistante de rétroaction** rédige des commentaires ou signale des omissions possibles que vous acceptez, réécrivez ou écartez. Le risque se limite à la qualité des commentaires, et vous lisez tout avant que cela n'atteigne un étudiant. Un **second lecteur** propose des notes par critère ou signale des désaccords pour structurer votre propre notation. Ses erreurs doivent être utiles plutôt que simplement fausses : un signalement qui vous renvoie à une copie que vous auriez notée sans attention vaut la peine. Un **noteur principal** produit des notes qui deviennent des résultats consignés. C'est l'arrangement que les preuves ne soutiennent pas au-delà de cas étroits et validés localement.
 
 Choisissez l'échelon le plus bas qui répond à votre contrainte réelle. Si votre charge de notation vient de la vérification d'un corrigé fixe, une notation déterministe ordinaire est plus transparente et plus auditable qu'un [[llm|modèle de langue]], et l'étude en pharmacie suggère que l'avantage du LLM sur les items objectifs était en partie un artefact du fait qu'on lui fournissait les bonnes réponses pendant la notation. Réservez le modèle aux travaux qui demandent de l'interprétation, puis vérifiez cette interprétation.
 
-[[automated-assessment|L'évaluation automatisée]] couvre la machinerie plus large de la notation, de la modération et de la génération de rétroaction. Cette page traite la question de jugement qui se trouve en dessous.
+[[automated-assessment|L'évaluation automatisée]] couvre la machinerie plus large de la notation, de la modération et de la génération de rétroaction. La question de jugement qui se trouve en dessous est de savoir si cette machinerie est assez juste et fiable pour consigner une note.
 
 ## Ce que montrent réellement les preuves
 

@@ -1,7 +1,7 @@
 ---
 title: "La formation en soins infirmiers"
 created: "2026-09-17T14:04:21-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [learner-identity]
 pedagogy: [professional-training, self-efficacy]
@@ -13,7 +13,7 @@ level: [higher ed]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/nursing-education
-source_updated: "2026-11-12T21:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ ai_assist:
 
 ## Introduction
 
-La formation en soins infirmiers est le volet clinique de la base de connaissances doté du dossier empirique le plus dense : des revues à l'échelle du système des applications de l'IA, une synthèse [[mixed-methods-research|à méthodes mixtes]] de la simulation alimentée par l'IA, une étude [[qualitative-research|qualitative]] de l'expérience des étudiants et du corps professoral, et une revue intégrative critique de la recherche sur les LLM y siègent côte à côte. Cela fait des soins infirmiers un cas d'essai utile pour les affirmations que le champ plus large de l'[[ai-education|IA en éducation]] avance à propos de la formation clinique.
+La formation en soins infirmiers est le volet clinique de la recherche sur l'IA en éducation doté du dossier empirique le plus dense : des revues à l'échelle du système des applications de l'IA, une synthèse [[mixed-methods-research|à méthodes mixtes]] de la simulation alimentée par l'IA, une étude [[qualitative-research|qualitative]] de l'expérience des étudiants et du corps professoral, et une revue intégrative critique de la recherche sur les LLM y siègent côte à côte. Cela fait des soins infirmiers un cas d'essai utile pour les affirmations que le champ plus large de l'[[ai-education|IA en éducation]] avance à propos de la formation clinique.
 
 Elle doit être tenue distincte de l'[[medical-education|éducation aux professions médicales et de santé]], qui traite les soins infirmiers comme un programme parmi la médecine, la pharmacie, l'art dentaire et les professions paramédicales, et organise son récit autour du problème partagé de la compétence clinique scalable. La littérature sur les soins infirmiers ajoute trois choses que cette page ne peut porter : une frontière de compétence à laquelle les bénéfices documentés de l'IA s'arrêtent ; un cadrage explicitement d'*identité professionnelle*, où la question est qui devient un infirmier plutôt que ce qu'un stagiaire peut faire ; et une couche de main-d'œuvre — l'anxiété des étudiants face à une IA qui remplace les rôles infirmiers, et la vision par le corps professoral des infirmiers comme faiseurs plutôt que destinataires de la transformation numérique des soins de santé.
 
@@ -65,7 +65,7 @@ Le domaine affine aussi trois concepts adjacents. De la [[simulation|simulation]
 ## Ce que le curriculum devrait couvrir, et où la carte est mince
 
 - **Une carte de compétences en douze parties, construite parce qu'il n'en existait aucune pour les soins infirmiers.** [[xiang-ai-nursing-education-kas-framework-2026|Xiang et coll. (2026)]] ont passé au crible 1 750 enregistrements de PubMed, Embase, Web of Science et CNKI jusqu'à 23 études incluses (2022 à 2026, 15 pays, dont 15 revues). Ils ont projeté ces études sur le modèle Connaissances, Attitude et Compétence, produisant trois dimensions et 12 sous-dimensions : connaissances fondamentales, techniques, éthiques et d'application ; [[critical-thinking|pensée critique]], responsabilité, valeurs éthiques, et ouverture et adaptabilité ; et compétences opérationnelles, d'application, de collaboration et d'évaluation. Ils ont comparé les cadres infirmiers existants et les ont trouvés intraduisibles en curriculums : N.U.R.S.E.S. couvre les rôles, AI-ABCs couvre les objectifs, CARE couvre la structure des invites, et aucun ne fournit de parcours [[pedagogy|pédagogique]] ni de méthodes d'évaluation.
-- **L'attention se concentre là où il est facile d'écrire.** Les connaissances éthiques (14 études), la responsabilité (14), les compétences d'application (16) et d'évaluation (18) font consensus ; les connaissances techniques (9), les connaissances d'application (9), les compétences opérationnelles (9) et la collaboration (7) non. C'est la même frontière que cette page documente à partir des preuves de résultats, atteinte par le versant des compétences : le domaine en sait le plus sur ce qu'il faut dire de l'éthique de l'IA et le moins sur la couche opérationnelle dont dépend la sécurité clinique.
+- **L'attention se concentre là où il est facile d'écrire.** Les connaissances éthiques (14 études), la responsabilité (14), les compétences d'application (16) et d'évaluation (18) font consensus ; les connaissances techniques (9), les connaissances d'application (9), les compétences opérationnelles (9) et la collaboration (7) non. C'est la même frontière que les preuves de résultats documentent, atteinte par le versant des compétences : le domaine en sait le plus sur ce qu'il faut dire de l'éthique de l'IA et le moins sur la couche opérationnelle dont dépend la sécurité clinique.
 - **Le remède proposé est une règle de séquencement pour les programmes sous-dotés.** Enseigner les connaissances fondamentales et éthiques avant les connaissances techniques ; la pensée critique, la responsabilité et les valeurs éthiques avant l'ouverture et l'adaptabilité ; l'évaluation et la collaboration avant les compétences opérationnelles complexes. Atteindre la couche technique par la [[simulation]], et là où une simulation de haute fidélité ou en réalité virtuelle est inabordable, par des cas sur écran avec du matériel préenregistré, la démonstration de modèles en libre accès et un travail guidé sur des jeux de données publics. Des substituts hors ligne sont nommés explicitement, dont la discussion de cas et la démonstration conceptuelle de flux de travail d'IA. Le motif déclaré est l'équité : si l'ordre du curriculum suit la distribution de l'infrastructure, la concentration de la recherche aux États-Unis (5 études) et en Chine (3) passe d'un fait bibliométrique à un problème de curriculum.
 - **Les ancrages [[quantitative-research|quantitatifs]] sont des preuves importées, non des résultats de cette revue.** Il a été montré que les connaissances éthiques prédisent l'intégration de l'IA (coefficient standardisé 0,636, p inférieur à 0,001), et qu'une orientation perceptive positive vers l'avenir élève les valeurs éthiques des étudiants (0,308, p inférieur à 0,05). L'évaluation porte l'ancrage clinique le plus solide : un système d'IA a noté la communication thérapeutique avec une corrélation intraclasse supérieure à 0,97, et une implémentation [[rag|augmentée par récupération]] réservait la décision finale au jugement professionnel de l'enseignant.
 

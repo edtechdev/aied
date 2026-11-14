@@ -1,12 +1,12 @@
 ---
 title: "Quelles compétences les enseignants doivent-ils posséder à l'égard de l'IA ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-source_updated: "2026-11-12T06:25:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/faculty-ai-competencies
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -45,7 +45,7 @@ L'essentiel : la technique de l'invite en est la plus petite partie. Les enseign
 
 ## Définissez la compétence avant de réserver la salle
 
-La synthèse [[ai-literacy|littératie en IA]] de la base de connaissances identifie quatre dimensions, et elles constituent un programme utile parce que chacune exige un type de séance différent :
+La synthèse [[ai-literacy|littératie en IA]] identifie quatre dimensions, et elles constituent un programme utile parce que chacune exige un type de séance différent :
 
 - **Compréhension fondamentale** des capacités et des limites de l'IA.
 - **Compétence pratique** dans l'usage des outils d'IA.

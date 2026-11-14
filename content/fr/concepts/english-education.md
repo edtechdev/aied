@@ -1,7 +1,7 @@
 ---
 title: "Enseignement de l'anglais (EAP / EFL / ESL)"
 created: "2026-08-21T12:30:00-04:00"
-updated: "2026-11-06T05:20:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [teacher-dev]
 translation_of: concepts/english-education
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -55,7 +55,7 @@ Ce concept organise la [[research-methods-aied|recherche]] sur l'IA dans l'**ens
 
 L'[[language-learning|apprentissage des langues]] est le parapluie le plus large pour l'acquisition de toute seconde langue ou langue étrangère — orale, écrite et littéraciée — au moyen d'interlocuteurs par IA, d'outils de prononciation et de pratique conversationnelle. L'enseignement de l'anglais en est le cas **propre à l'anglais**, et, en son sein, l'EAP est un cas **propre à un registre** :
 
-| Dimension | [[language-learning]] | **Enseignement de l'anglais (cette page)** |
+| Dimension | [[language-learning]] | **Enseignement de l'anglais** |
 |-----------|----------------------|--------------------------------------------|
 | Langue cible | Toute L2 (français, espagnol, japonais, …) | L'anglais spécifiquement |
 | Axe | L'acquisition en L2 en général : [[speech-and-voice-technologies|dialogue oral]], prononciation, littératie | L'anglais comme langue cible + le registre de l'anglais académique |
@@ -68,7 +68,7 @@ Les deux se recouvrent largement (la majeure partie de l'apprentissage de l'angl
 
 L'[[writing-education|enseignement de l'écriture]] concerne l'écriture comme compétence cognitive et rhétorique générale — à travers toutes les langues et toutes les disciplines, de la rédaction de textes à l'intégrité académique. L'enseignement de l'anglais se concentre spécifiquement sur l'**anglais** et, au sein de l'EAP, sur le **registre académique** :
 
-| Dimension | [[writing-education]] | **Enseignement de l'anglais (cette page)** |
+| Dimension | [[writing-education]] | **Enseignement de l'anglais** |
 |-----------|----------------------|--------------------------------------------|
 | Périmètre | L'écriture en général (toute langue, tout genre) | L'anglais comme langue cible + le registre de l'anglais académique |
 | Préoccupation caractéristique | La rédaction, la révision, l'[[agency|autonomie]], la paternité de l'œuvre | Les genres de l'EAP, le registre académique, l'écriture en L2/EFL, la [[feedback-literacy|littératie de la rétroaction]] en anglais |

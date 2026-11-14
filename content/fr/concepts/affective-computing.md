@@ -1,7 +1,7 @@
 ---
 title: "Informatique affective"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/affective-computing
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **L'informatique affective** en éducation utilise des signaux physiologiques et comportementaux pour percevoir l'émotion de l'apprenant et adapter l'enseignement — voir [[affective-text-wearable-student-health]], [[multimodal-affective-its-presentation]] et [[kar-mathbuddy-affective-math-tutoring-2025]]. La base de connaissances documente aussi les risques émotionnels de l'[[student-ai-interaction|interaction avec l'IA]], notamment [[sycophantic-ai-social-interaction-2026]] et [[shame-guilt-ai-regulation-computing-education]].
+> **L'informatique affective** en éducation utilise des signaux physiologiques et comportementaux pour percevoir l'émotion de l'apprenant et adapter l'enseignement — voir [[affective-text-wearable-student-health]], [[multimodal-affective-its-presentation]] et [[kar-mathbuddy-affective-math-tutoring-2025]]. Les risques émotionnels de l'[[student-ai-interaction|interaction avec l'IA]] importent aussi, notamment [[sycophantic-ai-social-interaction-2026]] et [[shame-guilt-ai-regulation-computing-education]].
 
 ## Questions à examiner
 
@@ -58,7 +58,7 @@ Le tutorat tenant compte des émotions peut produire des gains mesurables, mais 
 
 ## L'informatique affective et l'AIED au sens large
 
-L'informatique affective se situe à l'intersection du [[affective-tutoring|tutorat affectif]] (son application pédagogique), de la [[student-modeling|modélisation de l'apprenant]] (représenter l'apprenant entier, y compris ses émotions) et de l'[[learning-analytics|analytique de l'apprentissage]] (dériver des signaux des données de l'apprenant). Elle est liée à la conception des [[intelligent-tutoring|systèmes de tutorat intelligent]] et à la [[pedagogical-safety|sécurité pédagogique]] — le principe selon lequel l'IA doit soutenir, et non manipuler, l'émotion de l'apprenant. Cette page couvre le domaine et ses preuves ; le [[affective-tutoring|tutorat affectif]] traite de la manière dont un tuteur doit agir sur une lecture de l'affect, et l'[[sensor-and-gaze-analytics|analyse des capteurs et du regard]] traite de ce que les signaux eux-mêmes peuvent étayer.
+L'informatique affective se situe à l'intersection du [[affective-tutoring|tutorat affectif]] (son application pédagogique), de la [[student-modeling|modélisation de l'apprenant]] (représenter l'apprenant entier, y compris ses émotions) et de l'[[learning-analytics|analytique de l'apprentissage]] (dériver des signaux des données de l'apprenant). Elle est liée à la conception des [[intelligent-tutoring|systèmes de tutorat intelligent]] et à la [[pedagogical-safety|sécurité pédagogique]] — le principe selon lequel l'IA doit soutenir, et non manipuler, l'émotion de l'apprenant. La détection de l'affect se distingue de la pédagogie qu'elle alimente : le [[affective-tutoring|tutorat affectif]] traite de la manière dont un tuteur doit agir sur une lecture de l'affect, et l'[[sensor-and-gaze-analytics|analyse des capteurs et du regard]] traite de ce que les signaux eux-mêmes peuvent étayer.
 
 - **Suivi des émotions en classe, en temps réel et en périphérie.** [[emotion-aware-classroom-iot-monitoring-2026|Nguyen et al. (2026)]] ont construit un système d'évaluation de la qualité de la classe tenant compte des émotions, qui fait entrer l'informatique affective dans des contextes authentiques et à grande échelle. Conçu pour des **dispositifs IoT et de périphérie**, le système traite la répartition de charge et la latence tout en coordonnant plusieurs agents pour capter en temps réel les schémas émotionnels et d'engagement des élèves. Il a été évalué sur le **Classroom Emotion Dataset** (1,500 images étiquetées et 300 vidéos de classe issues de vraies classes vietnamiennes du primaire et du secondaire), avec une attention portée à l'interaction affective multi-personnes en conditions réelles — une démonstration du passage de la reconnaissance des émotions, de modèles de laboratoire à un suivi de classe déployable, accompagnée des considérations de vie privée et de [[pedagogical-safety|sécurité pédagogique]] qu'un tel suivi soulève.
 - **Agents d'évaluation émotionnellement intelligents.** [[aivaluate-anxiety-assessment-2026|AIvaluate]], un [[conversational-ai|agent conversationnel]] émotionnellement intelligent augmenté par [[llm|LLM]], a réduit l'[[anxiety-and-stress|anxiété des étudiants]] et la pression sociale pendant des évaluations fondées sur la performance, tout en préservant l'[[usability-research|utilisabilité]].

@@ -1,7 +1,7 @@
 ---
 title: L'évaluation formative
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-11-12T06:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **L'évaluation formative (Formative assessment)** — une évaluation conçue pour éclairer l'enseignement et l'apprentissage en cours, par opposition à l'évaluation [[summative-assessment|sommative]]. En éducation par l'IA, l'évaluation formative est à la fois transformée par l'IA et essentielle à celle-ci : les systèmes d'IA peuvent générer, valider et adapter des items et des rétroactions formatives à grande échelle, tandis que la rétroaction formative est un mécanisme principal par lequel les [[intelligent-tutoring|tuteurs d'IA]] et les [[adaptive-learning|systèmes adaptatifs]] soutiennent l'apprentissage. La [[research-methods-aied|recherche]] de la base de connaissances examine les items formatives générés par l'IA, les rétroactions générées par l'IA, ainsi que la conception et l'évaluation de ces systèmes.
+> **L'évaluation formative (Formative assessment)** — une évaluation conçue pour éclairer l'enseignement et l'apprentissage en cours, par opposition à l'évaluation [[summative-assessment|sommative]]. En éducation par l'IA, l'évaluation formative est à la fois transformée par l'IA et essentielle à celle-ci : les systèmes d'IA peuvent générer, valider et adapter des items et des rétroactions formatives à grande échelle, tandis que la rétroaction formative est un mécanisme principal par lequel les [[intelligent-tutoring|tuteurs d'IA]] et les [[adaptive-learning|systèmes adaptatifs]] soutiennent l'apprentissage. La [[research-methods-aied|recherche]] examine les items formatives générés par l'IA, les rétroactions générées par l'IA, ainsi que la conception et l'évaluation de ces systèmes.
 
 ## Questions à examiner
 
@@ -38,7 +38,7 @@ ai_assist:
 
 ## Introduction
 
-L'évaluation formative est centrale dans l'[[ai-education|IA en éducation]] parce qu'elle se situe à la jonction de l'[[assessment|évaluation]] et de la [[feedback|rétroaction d'apprentissage]]. Sa finalité est de boucler la boucle : faire apparaître ce que les étudiants savent et ignorent, et fournir une rétroaction sur laquelle ils peuvent agir pour s'améliorer. L'IA rend cela réalisable à grande échelle — générer des items, noter les réponses et délivrer une rétroaction individualisée — mais la recherche de la base de connaissances montre que la qualité varie considérablement selon les types d'items, et que la rétroaction n'aide que lorsque les étudiants la mettent effectivement en œuvre.
+L'évaluation formative est centrale dans l'[[ai-education|IA en éducation]] parce qu'elle se situe à la jonction de l'[[assessment|évaluation]] et de la [[feedback|rétroaction d'apprentissage]]. Sa finalité est de boucler la boucle : faire apparaître ce que les étudiants savent et ignorent, et fournir une rétroaction sur laquelle ils peuvent agir pour s'améliorer. L'IA rend cela réalisable à grande échelle — générer des items, noter les réponses et délivrer une rétroaction individualisée — mais la recherche montre que la qualité varie considérablement selon les types d'items, et que la rétroaction n'aide que lorsque les étudiants la mettent effectivement en œuvre.
 
 [[correnti-erevise-validity-argument-formative-assessment-2026|Correnti et al. (2026)]] apportent la preuve qu'un système automatisé d'écriture peut servir une finalité formative authentique : la progression apparaissait dans la qualité de la révision et pas seulement dans les scores de caractéristiques, mais uniquement là où les enseignants intégraient la rétroaction à la discussion de classe.
 
@@ -56,7 +56,7 @@ Les systèmes d'IA génèrent des items d'évaluation formative selon diverses m
 
 ## Les rétroactions générées par l'IA
 
-Un vaste ensemble de recherches de la base de connaissances examine la rétroaction formative générée par l'IA :
+Un vaste ensemble de recherches examine la rétroaction formative générée par l'IA :
 
 - **Le problème de la mise en œuvre :** [[ai-feedback-enactment-workflow-2026|Making AI-Generated Feedback Matter]] (13,037 étudiants ; 51,296 ressources) montre que la valeur de la rétroaction dépend de la question de savoir si les étudiants la *mettent en œuvre* — la condition de la **rétroaction mise en œuvre**, où les étudiants sélectionnent, évaluent et appliquent les suggestions de rétroaction de l'IA, a surpassé une rétroaction simplement dirigée.
 - **La rétroaction de l'IA peut égaler celle d'enseignants experts lorsque la grille porte les critères.** En aveugle sur la source et randomisé sur 47 groupes de projet universitaires, un LLM doté de la grille 0–30 co-construite et d'un exemple n'était pas inférieur *et* était équivalent à la rétroaction experte (+0.23, IC à 90% [−0.46, 0.91]) — c'est la grille, et non le modèle, qui a calibré ([[ai-generated-feedback-higher-ed|Grion et al. (2026)]]).

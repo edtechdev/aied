@@ -1,13 +1,13 @@
 ---
 title: "Diagnostic cognitif"
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-01T10:17:10-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 technology: [intelligent-tutoring, knowledge-tracing, learning-analytics, student-modeling]
 assessment: [assessment, educational-measurement, psychometrically-aware-ai]
 confidence: high
 translation_of: concepts/cognitive-diagnosis
-source_updated: "2026-11-12T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ ai_assist:
 
 - Le diagnostic cognitif infère l'état latent des connaissances d'un apprenant — les concepts, compétences et idées fausses précises qu'il possède ou qui lui manquent — à partir de ses réponses, plutôt que de se contenter de prédire sa note suivante. Avant de lire, quelle différence attendriez-vous entre « prédire la note d'un étudiant » et « diagnostiquer ce qu'il ne comprend réellement pas » ?
 - Une idée clé est le « piège de la bonne réponse » — lorsqu'une réponse juste masque un raisonnement erroné. Vous est-il arrivé d'être convaincu qu'un étudiant avait compris quelque chose parce qu'il avait trouvé la bonne réponse, pour découvrir ensuite une idée fausse sous-jacente ? Comment un diagnostic pourrait-il faire apparaître cela là où une note ne le pourrait pas ?
-- La page distingue le diagnostic cognitif (un instantané statique et fin de ce que l'apprenant détient actuellement) du traçage des connaissances (la dynamique temporelle de la maîtrise au fil du temps). Pourquoi un tuteur intelligent aurait-il besoin des deux — pour savoir ce qui est faux et pour savoir quoi enseigner ensuite ?
+- Le diagnostic cognitif est un instantané statique et fin de ce que l'apprenant détient actuellement ; le traçage des connaissances suit la dynamique temporelle de la maîtrise au fil du temps. Pourquoi un tuteur intelligent aurait-il besoin des deux — pour savoir ce qui est faux et pour savoir quoi enseigner ensuite ?
 - Un principe de conception ici est de séparer le diagnostic de la rétroaction : les tuteurs LLM confirment les étapes correctes mais rejettent à l'excès des raisonnements valides et valident à l'excès des erreurs, et un diagnostic exact ne produit pas de façon fiable une rétroaction actionnable. Pourquoi savoir ce qui est faux pourrait-il néanmoins ne pas produire une prochaine étape utile ?
 - Le diagnostic à l'ère des LLM s'étend des questions à choix multiples aux travaux ouverts, manuscrits et conversationnels. Que pourrait-il se produire de fâcheux si une IA diagnostique une idée fausse à partir d'un travail qu'elle ne peut pas pleinement comprendre — et comment vérifieriez-vous que le diagnostic lui-même est digne de confiance ?
 

@@ -1,7 +1,7 @@
 ---
 title: "Behaviorisme"
 created: "2026-08-16T03:36:31-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [behaviorism, learning-theories]
@@ -9,7 +9,7 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/behaviorism
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -30,8 +30,8 @@ ai_assist:
 ## Questions à examiner
 
 - Le behaviorisme considère l'apprentissage comme un changement du comportement observable, piloté par le stimulus-réponse et le renforcement — et non par des états mentaux internes. Avant de lire, quelles expériences éducatives de votre propre passé étaient construites sur la récompense, la répétition et la rétroaction immédiate ? À quoi réussissaient-elles, et que pouvaient-elles manquer ?
-- Un constat surprenant de cette page est que, même lorsque le discours éducatif épouse de riches théories constructivistes, les implémentations réelles de l'IA sont majoritairement behavioristes — exercices répétitifs, rétroaction immédiate, rythme adaptatif. Pourquoi, à votre avis, la mécanique behavioriste domine-t-elle en pratique alors qu'elle est passée de mode sur le plan théorique ?
-- La page met en garde contre un « piège de Turing » éducatif — utiliser l'IA pour répliquer plutôt que pour augmenter l'enseignement humain. Si un système d'IA optimise les réponses correctes et l'efficacité, que pourrait-il silencieusement évacuer de la construction active des connaissances chez l'apprenant ?
+- Un constat surprenant est que, même lorsque le discours éducatif épouse de riches théories constructivistes, les implémentations réelles de l'IA sont majoritairement behavioristes — exercices répétitifs, rétroaction immédiate, rythme adaptatif. Pourquoi, à votre avis, la mécanique behavioriste domine-t-elle en pratique alors qu'elle est passée de mode sur le plan théorique ?
+- Le champ met en garde contre un « piège de Turing » éducatif : utiliser l'IA pour répliquer plutôt que pour augmenter l'enseignement humain. Si un système d'IA optimise les réponses correctes et l'efficacité, que pourrait-il silencieusement évacuer de la construction active des connaissances chez l'apprenant ?
 - Les dispositifs behavioristes sont décrits comme puissants pour la fluidité fondamentale — vocabulaire, arithmétique, syntaxe du code — mais insuffisants à eux seuls pour un apprentissage de haut niveau, conceptuel ou agentique. Où, dans votre propre apprentissage, une IA d'exercices répétitifs aiderait-elle, et où nuirait-elle activement ?
 - La question de conception posée n'est pas de savoir si le behaviorisme est « juste », mais si la mécanique d'un système donné sert l'objectif d'apprentissage. Comment sauriez-vous si le dispositif de rétroaction immédiate et de rythme adaptatif d'un tuteur IA construit une compréhension véritable et transférable ou donne seulement l'apparence d'une bonne performance observable ?
 

@@ -1,13 +1,13 @@
 ---
 title: "Cognition distribuée"
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [distributed-cognition, embodied-learning, learning-theories, metacognition, situated-learning]
 confidence: high
 translation_of: concepts/distributed-cognition
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -35,16 +35,16 @@ ai_assist:
 
 ## Introduction
 
-C'est un concept de théorie de l'apprentissage au sein du fil [[learning-theories]] de la base de connaissances, étroitement apparenté à l'[[embodied-learning|apprentissage incarné]], à l'[[situated-learning|apprentissage situé]] et au [[cognitive-offloading|délestage cognitif]]. La cognition distribuée (DCog), issue des travaux d'Edwin Hutchins et de ses collègues, décrit comment des processus cognitifs tels que la mémoire, le raisonnement et la [[problem-solving|résolution de problèmes]] se répartissent entre de multiples agents et systèmes matériels plutôt que de résider dans une seule tête. Dans l'[[ai-education|IA en éducation]], cela importe parce que les systèmes d'IA fonctionnent de plus en plus comme de véritables partenaires cognitifs qui portent une part de la charge de pensée, ce qui pose la question de *l'endroit* où l'apprentissage se produit réellement et de *qui* est responsable.
+C'est un concept de théorie de l'apprentissage au sein du fil [[learning-theories]], étroitement apparenté à l'[[embodied-learning|apprentissage incarné]], à l'[[situated-learning|apprentissage situé]] et au [[cognitive-offloading|délestage cognitif]]. La cognition distribuée (DCog), issue des travaux d'Edwin Hutchins et de ses collègues, décrit comment des processus cognitifs tels que la mémoire, le raisonnement et la [[problem-solving|résolution de problèmes]] se répartissent entre de multiples agents et systèmes matériels plutôt que de résider dans une seule tête. Dans l'[[ai-education|IA en éducation]], cela importe parce que les systèmes d'IA fonctionnent de plus en plus comme de véritables partenaires cognitifs qui portent une part de la charge de pensée, ce qui pose la question de *l'endroit* où l'apprentissage se produit réellement et de *qui* est responsable.
 
 ## Comment l'IA déplace la distribution de la cognition
 
-Les systèmes d'IA génératifs et interactifs redistribuent le travail cognitif de façons que les outils antérieurs ne permettaient pas. La base de connaissances documente plusieurs dimensions de ce déplacement :
+Les systèmes d'IA génératifs et interactifs redistribuent le travail cognitif de façons que les outils antérieurs ne permettaient pas. Plusieurs dimensions de ce déplacement importent :
 
 - **L'IA comme partenaire cognitif et co-régulateur.** L'IA peut agir comme un [[scaffolding|étay]], un soutien métacognitif, un système de mémoire externe et un partenaire de décision dans la co-[[regulation]] de la pensée et de l'apprentissage.([[ai-cognitive-partner-co-regulation-learning]]) Cela positionne la cognition comme co-régulée entre l'apprenant et le système plutôt que gérée individuellement.
 - **Le volume d'usage de l'IA ne révèle pas quelle forme de travail distribué se produit :** [[cognitive-offloading-llm-synthesis-writing|Poquet et coll. (2026)]] ont constaté que les profils fondés sur le volume de 97 apprenants différaient par les [[prior-knowledge|connaissances préalables]] et l'autorat, mais non par les [[prompt-engineering|invites]] de rôle actif ou de niveau de compréhension, si bien qu'une activité partagée et une division du travail peuvent accompagner un même volume d'usage.
 - **Redistribution de l'agence et de la responsabilité.** Des cadres comme la **cognition d'ensemble** reconceptualisent la pensée comme émergeant d'une interaction dynamique entre l'humain et l'[[student-ai-interaction|IA]], distinguant l'*agence fonctionnelle* de l'IA (sa capacité à influencer les résultats sans conscience) de la *responsabilité morale* (qui demeure humaine).([[ensemble-cognition-philosophy-ai-education]]) La cognition distribuée reformule ainsi qui répond de l'apprentissage.
-- **La tension entre efficacité et régulation.** Les travaux empiriques montrent un arbitrage : les systèmes humain-IA qui distribuent le raisonnement le plus efficacement (par exemple par raisonnement délégué) atteignent une performance de tâche plus élevée mais peuvent réduire l'[[student-engagement|engagement]] autorégulateur des apprenants.([[hao-human-ai-collaborative-problem-solving-cognition]]) C'est le visage empirique des risques de [[cognitive-offloading|délestage cognitif]] et de sur-[[cognitive-offloading|dépendance]] que documente la base de connaissances.
+- **La tension entre efficacité et régulation.** Les travaux empiriques montrent un arbitrage : les systèmes humain-IA qui distribuent le raisonnement le plus efficacement (par exemple par raisonnement délégué) atteignent une performance de tâche plus élevée mais peuvent réduire l'[[student-engagement|engagement]] autorégulateur des apprenants.([[hao-human-ai-collaborative-problem-solving-cognition]]) C'est le visage empirique des risques de [[cognitive-offloading|délestage cognitif]] et de sur-[[cognitive-offloading|dépendance]].
 - **La médiation dans la collaboration.** L'IA peut agir comme un *médiateur [[pedagogy|pédagogique]]* qui orchestre l'interaction, la fabrication de sens épistémique et les processus de régulation dans l'[[collaborative-learning|apprentissage collaboratif]], redistribuant agence, autorité et responsabilité entre acteurs humains et non humains.([[niari-ai-pedagogical-mediator-collaborative-learning]])
 - **La configuration de l'accès distribue la cognition au sein du groupe.** [[xu-genai-collaborative-space-2026|Xu et al. (2026)]] montrent que *la manière dont* une équipe partage l'IA générative détermine la distribution de la cognition : le travail synchrone sur une interface unique et partagée soutient un modèle cognitif commun (invites collectives, mémoire externe partagée), tandis que l'usage privé asynchrone le fragmente, les productions étant sélectivement réétiquetées avant d'être partagées. L'IA générative fonctionne ainsi à la fois comme un participant cognitif distribué et comme un espace collaboratif interactif dont la perméabilité doit être conçue (le contexte partagé entre, les idées privées ne reviennent pas automatiquement).
 - **Les enseignants aussi vivent une distribution dominée par l'IA plutôt que complémentaire.** La même logique d'efficacité-régulation s'applique au versant [[teacher-role|enseignant]] de la conception de leçon : [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] ont constaté que les enseignants novices délèguent une large part de la charge cognitive de conception pédagogique au système d'IA (une distribution dominée par l'IA, acceptant largement les réponses), tandis que les enseignants expérimentés et compétents en IA parviennent à une distribution complémentaire dans laquelle l'expertise pédagogique et le soutien informatique de l'IA se renforcent mutuellement — et, parce que l'[[generative-ai|IA générative]] génère et co-construit l'information plutôt que de simplement la stocker, ils formulent cela comme une *cognition partagée participative*, et non comme un simple usage d'outil.
@@ -55,7 +55,7 @@ Les systèmes d'IA génératifs et interactifs redistribuent le travail cognitif
 
 ## La cognition distribuée et les perspectives apparentées
 
-La base de connaissances traite la cognition distribuée aux côtés de ses traditions théoriques voisines, qui se recouvrent sans être identiques :
+La cognition distribuée côtoie des traditions théoriques voisines, qui se recouvrent sans être identiques :
 
 - **L'[[situated-learning|apprentissage situé / la cognition située]]** souligne que la cognition et l'apprentissage sont inséparables du contexte authentique et des communautés de pratique dans lesquels ils se produisent — un complément à l'attention que la DCog porte à la *distribution* cognitive entre systèmes.
 - **L'[[embodied-learning|apprentissage incarné]]** souligne le rôle du corps et de l'interaction sensorimotrice, soutenant que la pensée est ancrée dans l'engagement corporel plutôt que dans la manipulation abstraite de symboles.
@@ -68,7 +68,7 @@ La base de connaissances traite la cognition distribuée aux côtés de ses trad
 
 ## Pourquoi elle importe pour la conception et l'évaluation de l'IA
 
-La cognition distribuée fournit à la fois une lentille de conception et une lentille d'évaluation. Pour la conception, elle demande comment répartir le travail cognitif entre apprenants et IA de manière à préserver (et non à éroder) l'agence, la [[metacognition|métacognition]] et l'autorégulation de l'apprenant humain. Pour l'évaluation, elle reformule les mesures de succès : au lieu de demander seulement « la performance s'est-elle améliorée ? », la DCog demande si la distribution de la cognition soutient un apprentissage durable, l'agence épistémique et la justice éducative — une perspective qui rejoint les préoccupations de la base de connaissances pour l'[[ai-ed-evaluation|évaluation d'une intervention d'IA en éducation]] et les [[learning-theories|théories de l'apprentissage]].
+La cognition distribuée fournit à la fois une lentille de conception et une lentille d'évaluation. Pour la conception, elle demande comment répartir le travail cognitif entre apprenants et IA de manière à préserver (et non à éroder) l'agence, la [[metacognition|métacognition]] et l'autorégulation de l'apprenant humain. Pour l'évaluation, elle reformule les mesures de succès : au lieu de demander seulement « la performance s'est-elle améliorée ? », la DCog demande si la distribution de la cognition soutient un apprentissage durable, l'agence épistémique et la justice éducative — une perspective qui rejoint les préoccupations de l'[[ai-ed-evaluation|évaluation d'une intervention d'IA en éducation]] et des [[learning-theories|théories de l'apprentissage]].
 
 Fowlin et al. (2026) opérationnalisent cette répartition comme une séquence en deux phases : construire d'abord les compétences fondamentales sans IA, puis introduire l'IA comme partenaire cognitif dont les suggestions sont évaluées de manière critique par les étudiants, afin de prévenir la perte de compétences liée à l'automatisation ([[fowlin-operationalizing-learning-principles-ai|Fowlin et al. (2026)]]).
 

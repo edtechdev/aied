@@ -1,7 +1,7 @@
 ---
 title: "La conception de programme d'études"
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-11-05T19:07:26-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks, learning-commons]
 translation_of: concepts/curriculum-design
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T13:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ ai_assist:
 
 ## Introduction
 
-La conception de programme traite du *quoi* de l'éducation au niveau du cursus, en complément de l'[[learning-design]] qui traite du *comment* au niveau du cours. Les articles de cette base de connaissances explorent comment l'IA remodèle les programmes dans toutes les disciplines — du génie logiciel à l'architecture en passant par l'éducation verte — et comment les éducateurs conçoivent des programmes qui intègrent la littératie en IA sans sacrifier les fondamentaux disciplinaires.
+La conception de programme traite du *quoi* de l'éducation au niveau du cursus, en complément de l'[[learning-design]] qui traite du *comment* au niveau du cours. La recherche explore comment l'IA remodèle les programmes dans toutes les disciplines — du génie logiciel à l'architecture en passant par l'éducation verte — et comment les éducateurs conçoivent des programmes qui intègrent la littératie en IA sans sacrifier les fondamentaux disciplinaires.
 
 ## Thèmes clés de la recherche
 
@@ -56,7 +56,7 @@ La pondération change ce que rapporte une analyse de programme : [[genai-curric
 
 **La structure modulaire survit à l'actualité du contenu.** Un schéma revient lorsque le champ évolue plus vite que le cycle de révision : un noyau stable de [[ai-literacy|littératie en IA]], d'appréciation critique, de détection des biais et d'[[ethics|éthique]], avec des contenus spécialisés et des outils disponibles localement rattachés comme modules et révisés tous les six à douze mois ([[bursic-ai-residency-education-curriculum-2026|Bursic et al. (2026)]]). La [[medical-education|formation médicale postdoctorale]] est le cas énoncé, mais le principe se généralise : le programme s'engage sur des compétences qui survivent au renouvellement des outils et planifie le remplacement de la couche propre aux outils.
 
-
+**Le contenu éthique a besoin d'un cadre d'adaptation, pas seulement de sensibilisation.** Chez 584 étudiants de premier cycle sans programme d'IA, la compétence élevait la conscience éthique (β = 0.644), ce qui augmentait l'anxiété (β = 0.439) ; nommer les problèmes sans enseigner comment ils sont gouvernés fait de la conscience le facteur de stress ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu et coll. (2026)]]).
 
 **L'intégration de la littératie en IA** intègre les compétences en IA dans toutes les disciplines. **[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** fournit un cadre de littératie en IA étayé, applicable à tous les âges et à tous les stades éducatifs, traitant les [[digital-divide|fractures numériques]] de deuxième et de troisième niveau. **[[tracing-genai-literacy-interaction-patterns]]** examine comment la littératie en IA se développe à travers les patrons d'interaction. **[[hingle-collaborative-ai-literacy-2025]]** explore des approches collaboratives du développement de programme de littératie en IA, en lien avec l'[[collaborative-learning]].
 

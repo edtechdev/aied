@@ -1,13 +1,13 @@
 ---
 title: "Quelles mesures et méthodes de recherche un enseignant peut-il utiliser pour évaluer les interventions liées à l'IA ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 weight: 55
 audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/evaluating-ai-interventions-methods
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]

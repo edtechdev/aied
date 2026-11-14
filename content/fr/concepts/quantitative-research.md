@@ -1,14 +1,14 @@
 ---
 title: Recherche quantitative
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-11-12T14:45:00-05:00"
+source_updated: "2026-11-13T09:46:01-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 - « Les étudiants qui utilisent un [[intelligent-tutoring|tuteur IA]] obtiennent de meilleurs scores » — avant de lire, s'agit-il d'une affirmation sur la causalité ou sur la corrélation, et quel élément de preuve unique convertirait l'une en l'autre ?
 - Une enquête transversale peut tester un modèle médiationnel complexe sans jamais établir de causalité. Pourquoi deux variables pourraient-elles être corrélées dans une enquête même lorsque aucune des deux ne cause l'autre ? Pouvez-vous imaginer une manière d'être réellement induit en erreur par une telle corrélation en éducation ?
-- Les instruments quantitatifs ne valent que ce qu'ils mesurent — et cette page note que des instruments peuvent mesurer le mauvais construit. Lorsque vous remplissez un questionnaire d'auto-déclaration sur la « confiance » ou l'« engagement », que pourrait-il capter à la place, et comment le découvririez-vous ?
+- Les instruments quantitatifs ne valent que ce qu'ils mesurent, et des instruments peuvent mesurer le mauvais construit. Lorsque vous remplissez un questionnaire d'auto-déclaration sur la « confiance » ou l'« engagement », que pourrait-il capter à la place, et comment le découvririez-vous ?
 - Un essai randomisé assigne aléatoirement des apprenants à des conditions pour estimer un effet causal. Qu'est-ce qui rend l'assignation aléatoire puissante, et quels problèmes pratiques et éthiques surgissent lorsque le « traitement » est un outil d'IA potentiellement utile que l'on refuse à certains étudiants ?
 - Les conceptions longitudinales suivent les mêmes apprenants dans le temps — essentiel pour distinguer la performance gonflée par l'IA de l'apprentissage durable. Pourquoi un instantané unique de scores élevés ne révélerait-il pas si l'apprentissage a réellement eu lieu ?
 - Le travail quantitatif fournit l'ampleur et la puissance causale ; le travail qualitatif fournit la profondeur et le sens. Avant de lire l'appariement, où pensez-vous que les nombres seuls vous ont le plus vraisemblablement induit en erreur sur une affirmation d'apprentissage, et quelle méthode ajouteriez-vous pour le vérifier ?
@@ -46,7 +46,7 @@ La recherche quantitative couvre les conceptions descriptives (mesurer la préva
 La mesure répétée des mêmes apprenants transforme une corrélation en trajectoire : les modèles de panel séparent un trait stable d'un changement propre à l'occasion, et les modèles de croissance estiment la forme et le rythme du changement entre les vagues. Les familles de devis, les menaces qui mordent dans les études sur l'IA (attrition, dérive des outils, performance assistée) et les exemples les plus solides du corpus sont traités dans la page sur la [[longitudinal-research|recherche longitudinale]].
 
 ### L'enquête et la recherche corrélationnelle
-Les enquêtes transversales mesurent les attitudes auto-déclarées, les perceptions, la motivation, l'[[self-efficacy]] et l'acceptation technologique, souvent modélisées par régression ou par modélisation par équations structurelles (SEM/PLS-SEM) pour tester des relations et des médiateurs hypothétiques. Celles-ci dominent le corpus de la base de connaissances, en particulier pour les questions d'acceptation, de motivation et de mécanismes psychologiques. [[acceptance-ai-english-tools-2026|L'acceptation des outils d'anglais assistés par l'IA]] s'appuie sur le [[technology-acceptance-model|TAM]] avec la SEM ; [[tian-genai-learning-adoption-pathways-2026|les trajectoires d'adoption de l'IA générative]] utilisent la PLS-SEM, la fsQCA et la cartographie importance-performance ; la [[teacher-education-ai-literacy-sdt-2026|littératie IA des enseignants]] utilise des enquêtes validées factoriellement fondées sur la [[self-determination-theory]].
+Les enquêtes transversales mesurent les attitudes auto-déclarées, les perceptions, la motivation, l'[[self-efficacy]] et l'acceptation technologique, souvent modélisées par régression ou par modélisation par équations structurelles (SEM/PLS-SEM) pour tester des relations et des médiateurs hypothétiques. Celles-ci dominent la littérature, en particulier pour les questions d'acceptation, de motivation et de mécanismes psychologiques. [[acceptance-ai-english-tools-2026|L'acceptation des outils d'anglais assistés par l'IA]] s'appuie sur le [[technology-acceptance-model|TAM]] avec la SEM ; [[tian-genai-learning-adoption-pathways-2026|les trajectoires d'adoption de l'IA générative]] utilisent la PLS-SEM, la fsQCA et la cartographie importance-performance ; la [[teacher-education-ai-literacy-sdt-2026|littératie IA des enseignants]] utilise des enquêtes validées factoriellement fondées sur la [[self-determination-theory]].
 
 - **Forces :** de grands échantillons ; une couverture large et peu coûteuse ; le test de modèles médiationnels complexes ; la faisabilité pour des attitudes difficiles à observer.
 - **Limites :** les données transversales ne peuvent établir de causalité ; le biais d'auto-déclaration ; l'échantillonnage de commodité limite la généralisabilité ; les médiateurs sont inférés de la covariance, non de la manipulation. Voir [[self-report-measures]] pour le traitement côté instrument de ces limites.
@@ -71,11 +71,11 @@ Les conceptions longitudinales suivent les mêmes apprenants dans le temps, capt
 Les comparaisons entre jeux de données ont besoin d'un point de travail fixe : un contrôle structurel de données éducatives synthétiques a constaté qu'analyser chaque jeu de données à son propre seuil inversait un contraste qui tenait à un point partagé, et que sa comparaison par substitut n'exigeait que les données synthétiques et des permutations d'elles-mêmes — un nul fondé sur les permutations plutôt qu'un seuil absolu ([[synthetic-educational-data-structural-fidelity-2026|Inoue & Yasutake (2026)]]).
 
 ### La quantification computationnelle et psychométrique
-Les méthodes quantitatives incluent aussi la mesure directe des construits par des instruments — le domaine de l'[[educational-measurement]] et de l'[[item-response-theory]]. Le [[jin-glat-genai-literacy-assessment|GLAT]] de la base de connaissances est un instrument quantitatif de 20 items validé par la TRI ; les [[educational-measurement|instruments de mesure]] portant sur l'[[ai-literacy|littératie en IA]], l'acceptation et l'auto-efficacité fournissent les échelles validées dont dépendent la recherche par enquête et par expérience.
+Les méthodes quantitatives incluent aussi la mesure directe des construits par des instruments — le domaine de l'[[educational-measurement]] et de l'[[item-response-theory]]. Le [[jin-glat-genai-literacy-assessment|GLAT]] est un instrument quantitatif de 20 items validé par la TRI ; les [[educational-measurement|instruments de mesure]] portant sur l'[[ai-literacy|littératie en IA]], l'acceptation et l'auto-efficacité fournissent les échelles validées dont dépendent la recherche par enquête et par expérience.
 
 L'analyse bibliométrique est une autre famille quantitative : [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram et al. (2026)]] cartographient 1,403 publications en [[medical-education|éducation médicale]] à travers des réseaux de cooccurrence de pays, d'institutions et de mots-clés, lisant la forme d'une littérature plutôt que d'en évaluer les études, ce qui fait de leur conclusion, selon laquelle la recherche sur la [[governance|gouvernance]] n'a pas suivi le rythme des tests de capacités, une affirmation sur le champ et non sur l'apprentissage.
 
-## Comment la recherche quantitative apparaît dans la base de connaissances
+## Comment la recherche quantitative apparaît dans l'IA en éducation
 
 - **Efficience et affirmations causales.** Les essais randomisés et les quasi-expériences testent si les outils d'IA améliorent l'apprentissage ([[access-not-enough-ai-tutoring-2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention]]).
 
@@ -83,7 +83,7 @@ L'analyse bibliométrique est une autre famille quantitative : [[sriram-ethical-
 - **Modélisation des mécanismes.** La SEM/PLS-SEM teste les médiateurs et modérateurs de l'adoption de l'IA et de l'apprentissage ([[tian-genai-learning-adoption-pathways-2026]], [[acceptance-ai-english-tools-2026]], [[teacher-education-ai-literacy-sdt-2026]]).
 
 - **Modèles de panel qui séparent les effets intra-personne des effets inter-personnes.** [[genai-reliance-human-agency-collaborative-learning-2026|Wu et Lu (2026)]] estiment un modèle de panel à effets aléatoires croisés sur trois vagues de données d'écriture collaborative, ce qui sépare les différences stables entre étudiants de l'ordre temporel intra-personne — la distinction qui autorise à lire l'accroissement de la dépendance comme précédant une chute de l'agence perçue plutôt que comme l'accompagnant simplement.
-- **Mesure et développement d'échelles.** La base de connaissances documente le développement et la validation d'instruments quantitatifs ([[jin-glat-genai-literacy-assessment|GLAT]], [[educational-measurement]]).
+- **Mesure et développement d'échelles.** Le développement et la validation d'instruments quantitatifs sont bien documentés ([[jin-glat-genai-literacy-assessment|GLAT]], [[educational-measurement]]).
 
 - **Performance contre apprentissage durable.** [[barcaui-chatgpt-cognitive-crutch-knowledge-retention-2025|Barcaui (2025)]] randomise 120 étudiants vers une étude assistée par l'IA ou traditionnelle et mesure la rétention par un test surprise de 20 questions 45 jours après l'intervention, si bien que le résultat est ce qui a survécu au délai plutôt que ce qui est apparu à la fin de la séance.
 
@@ -91,6 +91,8 @@ L'analyse bibliométrique est une autre famille quantitative : [[sriram-ethical-
 
 - **Forces :** la précision et la puissance statistique ; la généralisabilité à des populations définies ; l'inférence causale (avec les conceptions expérimentales) ; une couverture efficiente sur de grands échantillons ; un caractère cumulatif et comparable d'une étude à l'autre.
 - **Limites :** elle capte ce qui est mesurable, manquant souvent le processus, le sens et le contexte (voir [[qualitative-research]]) ; le biais d'auto-déclaration ; les instruments peuvent mesurer le mauvais construit (voir [[educational-measurement|les problèmes de mesure]]) ; la corrélation sans causalité ; un caractère artificiel et lent relativement au changement de l'IA.
+- 
+**Le regroupement peut échouer à l'échelle d'une revue.** Une revue PRISMA de 103 études sur l'IA générative dans l'enseignement supérieur n'a réalisé aucune méta-analyse parce que les conceptions, les comparateurs et les mesures étaient trop hétérogènes, rapportant à la place un accord sur la typologie des résultats de κ = 0,781 ([[generative-ai-higher-education-systematic-review-2026|Hawi et Samaha (2026)]]).
 
 Les méthodes quantitatives et [[qualitative-research|qualitatives]] sont complémentaires — le travail quantitatif fournit l'ampleur et la puissance causale, le travail qualitatif fournit la profondeur et le sens. Les [[mixed-methods-research|conceptions mixtes]] les combinent. Voir [[research-methods-aied]] pour la comparaison complète des méthodes et les contrastes entre les conceptions expérimentales, par enquête, qualitatives et autres.
 

@@ -1,7 +1,7 @@
 ---
 title: "Administrateurs"
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: medium
 institutions: [educational-policy-ai]
 translation_of: concepts/administrator
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T09:46:01-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -59,20 +59,21 @@ L'adoption de l'IA dans l'éducation n'est pas purement une décision de classe 
 
 ## Connexions
 
-La perspective de l'administrateur est liée à la [[educational-policy-ai|politique éducative et l'IA]] (élaboration des politiques), à la [[governance|gouvernance]] et à la [[regulation|réglementation]] (gouvernance), aux [[edtech-platform|plateformes éducatives]] (approvisionnement et infrastructure), à l'[[learning-analytics|analytique de l'apprentissage]] (données institutionnelles) et à l'[[higher-ed|enseignement supérieur]]. Les décisions des administrateurs permettent ou contraignent le travail d'[[educational-development|développement pédagogique]], sur le [[teacher-role|rôle de l'enseignant]] et sur l'[[ai-literacy|IA et la littératie]] traité ailleurs dans la base de connaissances.
+La perspective de l'administrateur est liée à la [[educational-policy-ai|politique éducative et l'IA]] (élaboration des politiques), à la [[governance|gouvernance]] et à la [[regulation|réglementation]] (gouvernance), aux [[edtech-platform|plateformes éducatives]] (approvisionnement et infrastructure), à l'[[learning-analytics|analytique de l'apprentissage]] (données institutionnelles) et à l'[[higher-ed|enseignement supérieur]]. Les décisions des administrateurs permettent ou contraignent le travail d'[[educational-development|développement pédagogique]], sur le [[teacher-role|rôle de l'enseignant]] et sur l'[[ai-literacy|IA et la littératie]] qui en dépendent.
 
 ## Implications pour la pratique
 **Pour les administrateurs**
 
 - Budgétez le poste de direction, pas seulement le document de stratégie. Quand 49 % déclarent l'IA prioritaire et 7 % créent des postes de direction, la contrainte déterminante est l'allocation et non la conviction.
 - Demandez sur quoi un outil pourra être évalué avant de signer. Si le contrat ne permet pas l'accès aux résultats, aux données d'audit ou au détail d'usage, l'établissement a acheté une capacité qu'il ne peut pas évaluer.
+- **Réglez le rattachement administratif avant le déploiement.** Installez un canal de soutien centralisé là où se trouvent déjà ses données, et traitez le partage inter-services des données comme une infrastructure d'évaluation : à CSUN, la tutelle du bureau du registraire a fait durer le programme quatre ans, tandis que des dossiers non partagés ont laissé la plupart des campagnes ciblées inévaluables ([[mata-sustaining-ai-enabled-student-support-2026|Mata, Russell et Page (2026)]]).
 - Enquêtez sur l'usage réel plutôt que sur l'usage autorisé, car les deux divergent et le chiffre non autorisé est celui qui porte le risque auquel vous êtes déjà exposé.
 - Ordonnez la politique avant le déploiement là où le levier existe encore. Une fois l'usage répandu, la politique devient une négociation avec une pratique déjà stabilisée.
 
 ## Idées fausses courantes
 
 - **« Priorité stratégique implique capacité stratégique. »** [[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]] a constaté que seuls **7 % des établissements avaient créé des postes de direction supérieure dédiés à l'IA**, alors que **49 % traitaient l'IA comme une priorité stratégique**. L'écart n'est pas de l'indifférence — l'intention est déclarée alors que la structure qui la porterait n'a pas été financée. Lire une stratégie d'IA publiée comme une preuve de maturité institutionnelle surestime ce qui existe.
-- **« Les chiffres d'adoption mesurent la maturité. »** L'usage déclaré et l'usage gouverné sont des quantités différentes, et les données probantes de cette page les séparent : les établissements déclarent une intention stratégique à environ la moitié de la population et une capacité de direction à moins d'un dixième. Une enquête montrant que le personnel utilise l'IA vous dit ce que des individus ont déjà fait sans autorisation, pas ce que l'établissement peut soutenir ou superviser.
+- **« Les chiffres d'adoption mesurent la maturité. »** L'usage déclaré et l'usage gouverné sont des quantités différentes, et les données probantes les séparent : les établissements déclarent une intention stratégique à environ la moitié de la population et une capacité de direction à moins d'un dixième. Une enquête montrant que le personnel utilise l'IA vous dit ce que des individus ont déjà fait sans autorisation, pas ce que l'établissement peut soutenir ou superviser.
 - **« L'approvisionnement est une étape administrative. »** Là où la capacité est achetée plutôt que construite, les termes du contrat décident de ce qui devient possible ensuite — propriété des données, accès à l'audit, et la possibilité même d'évaluer l'outil. Une décision de fournisseur traitée comme une tâche d'achat ferme des questions d'évaluation que l'établissement n'a pas encore posées.
 - **« La gouvernance peut suivre l'adoption. »** L'affirmation de séquençage est courante et non étayée ici : les données probantes documentent le schéma inverse, les structures de politique et de direction accusant un retard sur un usage déjà en cours. Une gouvernance conçue comme à bâtir après le déploiement est une gouvernance bâtie avec moins de levier.
 

@@ -1,7 +1,7 @@
 ---
 title: "Partenariats pédagogiques"
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -10,7 +10,7 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,7 @@ Les partenariats pédagogiques, aussi appelés **étudiants comme partenaires (S
 
 Le partenariat pédagogique met au défi l'hypothèse enracinée selon laquelle les étudiants ne peuvent pas être crus habilités à collaborer à l'enseignement et à l'apprentissage, et il perturbe activement les hiérarchies traditionnelles centrées sur le corps professoral. Il recoupe conceptuellement l'[[collaborative-learning|apprentissage collaboratif]], l'[[agency|autonomie de l'apprenant]] et l'[[student-engagement|engagement étudiant]], mais il se distingue en centrant les étudiants dans la *conception* de l'éducation elle-même — programme d'études, évaluation, activités d'enseignement, ressources éducatives ouvertes et politique — plutôt que comme simples participants actifs au sein d'un cours préconçu.
 
-À l'ère de l'[[generative-ai|IA générative]], le partenariat pédagogique a pris une urgence nouvelle. Alors que l'IA amplifie les récits déficitaires qui présentent les étudiants soit comme des fraudeurs, soit comme des victimes (voir l'[[ai-misuse-learning-harm|usage abusif de l'IA et les préjudices pour l'apprentissage]] et [[framing-ai-use-for-students|la manière dont l'usage de l'IA est présenté aux étudiants]]), le partenariat offre un contre-récit : plutôt que de surveiller les étudiants ou de présumer l'usage abusif, les éducateurs et les institutions peuvent engager les étudiants comme co-concepteurs des politiques, des outils et des pratiques liées à l'IA. Cela se reflète à travers la recherche de la base de connaissances — d'étudiants co-concevant des politiques d'IA de cours à la co-création d'outils d'IA personnalisés et à la co-construction de critères d'évaluation.
+À l'ère de l'[[generative-ai|IA générative]], le partenariat pédagogique a pris une urgence nouvelle. Alors que l'IA amplifie les récits déficitaires qui présentent les étudiants soit comme des fraudeurs, soit comme des victimes (voir l'[[ai-misuse-learning-harm|usage abusif de l'IA et les préjudices pour l'apprentissage]] et [[framing-ai-use-for-students|la manière dont l'usage de l'IA est présenté aux étudiants]]), le partenariat offre un contre-récit : plutôt que de surveiller les étudiants ou de présumer l'usage abusif, les éducateurs et les institutions peuvent engager les étudiants comme co-concepteurs des politiques, des outils et des pratiques liées à l'IA. Cela se reflète à travers la recherche : d'étudiants co-concevant des politiques d'IA de cours à la co-création d'outils d'IA personnalisés et à la co-construction de critères d'évaluation.
 
 ## Formes et portée du partenariat
 
@@ -58,7 +58,7 @@ Le partenariat peut prendre de nombreuses formes et opérer à plusieurs échell
 
 ## Partenariat pédagogique et IA en éducation
 
-L'intersection du partenariat pédagogique et de l'IA est l'un des fils à la croissance la plus rapide de la base de connaissances. Thèmes clés :
+L'intersection du partenariat pédagogique et de l'IA est l'un des fils à la croissance la plus rapide du domaine. Thèmes clés :
 
 - **Les étudiants comme co-concepteurs des politiques d'IA.** Plutôt que d'imposer aux étudiants des règles d'IA, le partenariat positionne les étudiants comme co-créateurs de politiques d'IA au niveau du cours et de l'institution. Par exemple, une activité d'enquête guidée dans laquelle des étudiants co-concevaient une politique de cours sur l'[[generative-ai|IA générative]] a fait émerger les priorités des étudiants autour de la formation, de la divulgation standardisée, du soutien institutionnel et de l'implication dans la prise de décision ([[guided-inquiry-genai-course-policy-2026]]).
 - **Les étudiants comme co-créateurs d'outils d'IA.** Dans les cadres d'étudiants comme partenaires, les étudiants ont co-conçu et affiné des [[conversational-ai|agents conversationnels]] personnalisés alignés sur des objectifs pédagogiques — une approche qui étend le paradigme SaP pour inclure les outils d'IA eux-mêmes et positionne la voix des étudiants comme centrale pour une innovation responsable en matière d'IA ([[lo-co-creating-custom-gpts-sap-2026]]).
@@ -97,7 +97,7 @@ Le partenariat pédagogique est apparenté à, mais distinct de, plusieurs conce
 
 ## Implications pratiques
 
-Pour les éducateurs et les institutions cherchant à adopter le partenariat pédagogique, la recherche de la base de connaissances suggère :
+Pour les éducateurs et les institutions cherchant à adopter le partenariat pédagogique, la recherche suggère :
 
 1. **Commencer petit et itérer.** Commencez par un projet borné — un pilote avec un nombre limité de participants — et honorez l'effort des participants par une reconnaissance (emploi, crédits, certificats, publication).
 2. **Bâtir sur les infrastructures existantes.** Les programmes d'[[educational-development|développement pédagogique du corps enseignant]], les relations d'emploi étudiant et les partenariats inter-campus fournissent des fondements pour adapter la pratique du partenariat.

@@ -1,7 +1,7 @@
 ---
 title: "NowComment"
 created: "2026-11-12T11:22:00-05:00"
-updated: "2026-11-12T11:22:00-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 type: resource
 summary: "Une plateforme d'annotation gratuite avec compte où la discussion filaire s'attache à des phrases, des régions d'image et des horodatages vidéo précis, et où des « partenaires de réflexion IA » fondés sur OpenAI peuvent rédiger une réponse sur un passage sélectionné que l'étudiant modifie avant de publier."
 url: https://nowcomment.com/
@@ -16,7 +16,7 @@ assessment: [peer-assessment, ai-feedback-quality, formative-assessment]
 audience: [instructors, learners, faculty developers]
 level: [k 12, higher ed]
 translation_of: resources/nowcomment
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

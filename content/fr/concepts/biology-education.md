@@ -1,7 +1,7 @@
 ---
 title: "Enseignement de la biologie"
 created: "2026-08-19T13:10:00-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/biology-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ ai_assist:
 
 ## Introduction
 
-La recherche sur l'enseignement de la biologie et l'IA se regroupe autour d'une tension : l'IA a révolutionné la *recherche* en biologie (AlphaFold, les « omiques », la biologie computationnelle), alors que son adoption dans l'*enseignement* de la biologie est restée prudente, sur fond d'inquiétudes concernant la tricherie par IA générative, la désinformation et l'érosion de la pensée critique. Les articles de la base de connaissances consacrés à la biologie examinent collectivement comment les outils d'IA fonctionnent comme assistants d'enseignement en laboratoire, comment la littératie en IA peut être intégrée aux cours de biologie, comment la pensée critique doit être protégée à l'ère de l'IA, et comment des outils d'IA spécialisés soutiennent le travail de terrain et l'identification d'espèces.
+La littérature sur l'enseignement de la biologie et l'IA se regroupe autour d'une tension. Les méthodes computationnelles ont transformé la découverte biologique (AlphaFold, les « omiques », la biologie computationnelle), tandis que la pratique de classe a progressé avec prudence, sur fond d'inquiétudes concernant la tricherie par IA générative, la désinformation et l'érosion de la pensée critique. La littérature biologique examine collectivement comment les outils d'IA fonctionnent comme assistants d'enseignement en laboratoire, comment la littératie en IA peut être intégrée aux cours de biologie, comment la pensée critique doit être protégée à l'ère de l'IA, et comment des outils d'IA spécialisés soutiennent le travail de terrain et l'identification d'espèces.
 
 ### Key research themes
 
@@ -50,7 +50,7 @@ La recherche sur l'enseignement de la biologie et l'IA se regroupe autour d'une 
 
 **La littératie en IA intégrée aux programmes de biologie.** **[[zha-ai-literacy-biology-case-study|Zha et al.]]** ont intégré les concepts d'apprentissage automatique et de réseaux de neurones à un cours de biologie de lycée à honorifiques, constatant des gains significatifs en connaissances sur l'IA et que le contexte biologique soutenait l'apprentissage de l'IA — une preuve en faveur de l'intégration de la littératie en IA dans les [[stem-education|STIM]] plutôt que de sa relégation aux activités parascolaires. **[[chatgpt-math-biology-challenge-based-learning-2025|Elizondo-García et al.]]** ont utilisé ChatGPT dans le cadre d'un **apprentissage par défi** en biologie et en mathématiques, constatant que les étudiants valorisaient l'immédiateté mais s'inquiétaient de la véracité, du remplacement des [[teacher-role|enseignants]] et de l'érosion des compétences — appelant à des codes d'intégrité académique et une éthique d'usage de l'IA actualisés.
 
-**La pensée critique à l'ère de l'IA.** **[[critical-thinking-biological-sciences-ai-2025|Papaneophytou et Nicolaou]]** soutiennent qu'à mesure que l'IA façonne la recherche biologique, la **pensée critique** — scepticisme, compréhension contextuelle et raisonnement éthique — doit être délibérément cultivée, la [[human-in-the-loop-ai|supervision humaine]] demeurant indispensable pour valider les productions de l'IA et prévenir les [[equity-in-ai-education|biais]]. Cela rejoint les préoccupations transversales à la base de connaissances que sont la [[reducing-ai-misuse|réduction des usages abusifs de l'IA]] et le [[cognitive-offloading|délestage cognitif]].
+**La pensée critique à l'ère de l'IA.** **[[critical-thinking-biological-sciences-ai-2025|Papaneophytou et Nicolaou]]** soutiennent que l'enseignement de la biologie doit faire de la **pensée critique** — scepticisme, compréhension contextuelle, raisonnement éthique — un objectif d'apprentissage explicite, car la [[human-in-the-loop-ai|supervision humaine]] demeure indispensable pour valider les productions de l'IA et prévenir les [[equity-in-ai-education|biais]]. Cela rejoint les préoccupations plus larges que sont la [[reducing-ai-misuse|réduction des usages abusifs de l'IA]] et le [[cognitive-offloading|délestage cognitif]].
 
 **La pratique de l'argumentation socratique assistée par l'IA dans la formation des enseignants.** Une quasi-expérience menée auprès de 124 futurs enseignants de biologie a montré qu'un [[socratic-method|tuteur socratique]] ChatGPT-4 portant sur des questions socioscientifiques relevait la qualité de l'argumentation par rapport à une discussion entre pairs hors ligne (3.91 contre 3.21, F(1,121) = 14.23, p < .001), avec les gains les plus importants en réfutation et en production de contre-preuves ([[genai-socratic-tutor-biology-argumentation-2026|Ergasheva et al., 2026]]).
 

@@ -1,7 +1,7 @@
 ---
 title: "Teacher Hive"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-10T23:05:00-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 type: resource
 summary: "Plateforme d'hébergement gratuite de Tony Vincent où les enseignants publient des applications web de classe générées par IA, les partagent par lien ou code QR et parcourent des centaines d'applications créées par d'autres enseignants."
 url: https://teacherhive.app/
@@ -14,7 +14,7 @@ foundations: [teacher-ai-competency]
 technology: [generative-ai]
 audience: [instructors, instructional designers]
 level: [k 12, teacher education]
-source_updated: "2026-11-10T19:52:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/teacher-hive
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -31,7 +31,7 @@ ai_assist:
 
 ## Ce que vous pouvez faire avec
 
-**Parcourir** les applications publiées par collection — pauses cognitives, ELA, mathématiques, sciences, études sociales, outils pour enseignants — puis **Publier** une application en collant du HTML, en ajoutant un nom, une description, une icône et une attribution d'IA. Chaque application reçoit une page d'information avec un bouton Lancer et un affichage QR, et s'ouvre sans marque ni connexion élève. Une couche **Superpowers** optionnelle ajoute des réponses enregistrées, des appels d'IA, le courriel et le stockage de fichiers, facturés selon l'offre. Pour une application unique qui n'a pas besoin de galerie, deux alternatives gratuites fonctionnent par glisser-déposer : [Cloudflare Drop](https://www.cloudflare.com/drop/) publie un dossier, un zip ou un fichier HTML unique à une adresse workers.dev sans compte, à condition que le déploiement soit revendiqué dans les 60 minutes, et [Netlify Drop](https://app.netlify.com/drop) publie les mêmes entrées à un lien public sur son offre gratuite.
+**Parcourir** les applications publiées par collection (pauses cognitives, ELA, mathématiques, sciences, études sociales, outils pour enseignants), puis **Publier** une application en collant du HTML, en ajoutant un nom, une description, une icône et une attribution d'IA. Chaque application reçoit une page d'information avec un bouton Lancer et un affichage QR, et s'ouvre sans marque ni connexion élève. Une couche **Superpowers** optionnelle ajoute des réponses enregistrées, des appels d'IA, le courriel et le stockage de fichiers, facturés selon l'offre. Pour une application unique qui n'a pas besoin de galerie, deux alternatives gratuites fonctionnent par glisser-déposer : [Cloudflare Drop](https://www.cloudflare.com/drop/) publie un dossier, un zip ou un fichier HTML unique à une adresse workers.dev sans compte, à condition que le déploiement soit revendiqué dans les 60 minutes, et [Netlify Drop](https://app.netlify.com/drop) publie les mêmes entrées à un lien public sur son offre gratuite.
 
 ## À qui cela s'adresse
 

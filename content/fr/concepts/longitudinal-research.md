@@ -1,14 +1,14 @@
 ---
 title: Recherche longitudinale
 created: "2026-11-12T14:28:00-05:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
 methods: [longitudinal-research, research-methods-aied, quantitative-research]
 contributors: [editor]
 translation_of: concepts/longitudinal-research
-source_updated: "2026-11-12T14:28:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -36,13 +36,13 @@ La recherche longitudinale est une famille de conceptions plutôt qu'une méthod
 
 Ce gain est souvent surestimé. Le corpus contient une centaine d'articles qui se décrivent comme longitudinaux, et ils vont d'analyses de tendance sur quatre semestres à une seule comparaison pré/post. L'étiquette est devenue un signal de qualité, ce qui rend utile la précision sur ce que chaque conception soutient. Une enquête répétée peut montrer qu'une distribution s'est déplacée. Un modèle de panel peut montrer qu'une personne s'est déplacée par rapport à sa propre ligne de base. Un modèle de croissance peut montrer que le rythme du déplacement diffère entre les personnes et que deux processus évoluent ensemble. Seules certaines conceptions dotées d'une mesure de résultat aux deux extrémités peuvent commencer à traiter la question de savoir si l'outil a causé le changement.
 
-Le reste de cette page expose ce que les études longitudinales les plus solides du corpus établissent réellement, les familles de conceptions auxquelles elles appartiennent, et les menaces qui les fragilisent le plus souvent dans la recherche sur l'IA en particulier.
+Les études les plus solides établissent moins que leurs étiquettes ne le suggèrent, et les familles de conceptions diffèrent par ce que chacune peut soutenir.
 
 ## Changement intra-individuel et différence inter-individuelle
 
 La distinction qui fait le plus de travail est celle entre un trait stable et un état propre à l'occasion. Xu (2026) a mesuré la [[feedback-literacy|littératie de la rétroaction par l'IA]] et l'[[student-engagement|engagement agentique]] chez 480 étudiants de premier cycle chinois à trois reprises, à six semaines d'intervalle, et a utilisé un modèle de panel croisé à intercept aléatoire pour séparer les deux niveaux. La corrélation des traits stables était de r = 0.315 (p < 0.001) ; les chemins croisés intra-individuels racontaient une autre histoire sur le construit qui bougeait en premier. Sans cette séparation, une corrélation transversale entre les deux aurait été rapportée comme preuve d'une relation, et elle aurait été ambiguë : les personnes globalement plus littératiées en rétroaction peuvent aussi être globalement plus engagées, sans que l'une change l'autre.
 
-C'est la contribution centrale de la conception. La plupart des questions de ce corpus — la rétroaction par l'IA construit-elle l'engagement, la dépendance érode-t-elle l'autorégulation, l'usage prédit-il le bien-être — sont des questions sur le changement, et une mesure unique ne peut répondre à une question sur le changement, quelle que soit la taille de l'échantillon.
+C'est la contribution centrale de la conception. La plupart des questions de cette littérature — la rétroaction par l'IA construit-elle l'engagement, la dépendance érode-t-elle l'autorégulation, l'usage prédit-il le bien-être — sont des questions sur le changement, et une mesure unique ne peut répondre à une question sur le changement, quelle que soit la taille de l'échantillon.
 
 ## Trajectoires et ce qui covarie avec elles
 
@@ -83,11 +83,23 @@ Quatre problèmes reviennent, et les deux derniers sont propres à ce domaine.
 
 **La performance assistée prise pour de l'apprentissage.** Un gain mesuré avec l'outil disponible peut montrer ce que l'apprenant sait faire avec un soutien, non ce qu'il a intériorisé. La distinction est la même que celle qui sépare l'[[scaffolding|étayage]] du développement, et les conceptions longitudinales ne la résolvent pas, sauf si les vagues ultérieures incluent une mesure non assistée.
 
+## Implications pour la pratique
+
+Les enseignants peuvent cesser de lire une enquête unique de fin de semestre comme la preuve qu'un changement a fonctionné. Une distribution qui s'est déplacée entre deux semestres peut refléter une nouvelle cohorte, un nouveau régime d'évaluation ou un instrument qui a perdu sa nouveauté. Une comparaison des mêmes étudiants avec leurs propres scores antérieurs répond à une question plus étroite et plus utile.
+
+Les responsables de programme peuvent planifier l'évaluation par vagues. Trois mesures ou plus sur un programme permettent à un département d'estimer une pente plutôt que de comparer deux points, et rapporter l'attrition à chaque vague empêche une moyenne en hausse de masquer les étudiants qui sont partis.
+
+Les responsables du développement pédagogique peuvent évaluer le développement professionnel de la même manière, avec des mesures répétées et au moins une tâche réalisée sans l'outil. Une série d'ateliers qui élève la confiance et l'usage tout en laissant la performance non assistée inchangée a montré quelque chose sur les attitudes, et la distinction mérite d'être rapportée aux personnes qui financent la série suivante.
+
+Les administrateurs peuvent consigner ce qui a changé pendant une étude ou un projet pilote : versions de modèles, changements de licence, mises à jour d'interface. Un semestre suffit pour que l'outil devienne un autre traitement, et la documentation coûte peu face à l'explication d'un saut inexpliqué.
+
+Les chercheurs peuvent maintenir deux affirmations distinctes dans leurs propres écrits. L'ordre temporel étaye la préséance, non la causalité, et une paire pré/post est un plan à mesures répétées plutôt qu'une trajectoire.
+
 ## Ce que les conceptions longitudinales ne peuvent pas faire
 
-Elles n'établissent pas la causalité à elles seules. L'ordre temporel est nécessaire mais non suffisant : une variable non mesurée qui change selon le même calendrier — un nouveau régime d'évaluation, une réforme du curriculum, un effet de cohorte — peut produire le même schéma. Elles coûtent cher en temps des participants, ce qui plafonne la taille des échantillons et impose souvent l'auto-déclaration. Et un semestre est court : les questions développementales, au sens où la [[developmental-psychology|psychologie du développement]] emploie le terme, exigent des années, et presque rien dans ce corpus ne les couvre.
+Elles n'établissent pas la causalité à elles seules. L'ordre temporel est nécessaire mais non suffisant : une variable non mesurée qui change selon le même calendrier — un nouveau régime d'évaluation, une réforme du curriculum, un effet de cohorte — peut produire le même schéma. Elles coûtent cher en temps des participants, ce qui plafonne la taille des échantillons et impose souvent l'auto-déclaration. Et un semestre est court : les questions développementales, au sens où la [[developmental-psychology|psychologie du développement]] emploie le terme, exigent des années, et presque rien dans cette littérature ne les couvre.
 
-## Comment cela apparaît dans la base de connaissances
+## Comment cela apparaît dans la recherche
 
 Les exemples les plus solides se concentrent dans l'enseignement supérieur, où un semestre fournit un cadre naturel : le panel à trois vagues de Xu, le modèle de croissance à cinq vagues de Zhang et Tang, le semestre de données d'autorégulation de Song, la quasi-expérience de neuf semaines de Melanou. La formation des enseignants apporte l'étude de tendance. Le travail longitudinal au niveau scolaire est plus mince, et l'article sur le LMS au collège qui porte « longitudinal » dans son identifiant est une proposition de conception plutôt qu'une étude longitudinale — un rappel que l'étiquette dans un titre n'est pas la conception.
 

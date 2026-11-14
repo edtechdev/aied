@@ -1,14 +1,14 @@
 ---
 title: "L'apprentissage tout au long de la vie"
 created: "2026-05-09T10:44:35-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/lifelong-learning
-source_updated: "2026-11-12T21:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -29,8 +29,8 @@ ai_assist:
 ## Questions à examiner
 
 - Songez à la dernière compétence nouvelle que vous avez acquise en dehors de la scolarité formelle — au travail, en ligne ou en autodidacte. Qui a décidé quoi apprendre, comment l'apprendre, et quand vous étiez « arrivé au bout » ? Comment l'IA changerait-elle ce tableau ?
-- Une question centrale de la page est celle de l'autonomie : à mesure que l'IA participe à l'identification de vos besoins d'apprentissage, à la fixation de vos objectifs et même à la production de contenus, que reste-t-il de réellement [[self-directed-learning|autodirigé]] dans votre propre apprentissage ?
-- L'éducation formelle traite le temps comme fixe et les cursus comme séquentiels. La page propose les « graphes Learnity » — des unités de connaissances interconnectées que les apprenants parcourent librement tout au long de leur vie. Que gagnez-vous, et que risquez-vous de perdre, à libérer l'apprentissage d'une séquence fixée ?
+- Une question centrale est celle de l'autonomie : à mesure que l'IA participe à l'identification de vos besoins d'apprentissage, à la fixation de vos objectifs et même à la production de contenus, que reste-t-il de réellement [[self-directed-learning|autodirigé]] dans votre propre apprentissage ?
+- L'éducation formelle traite le temps comme fixe et les cursus comme séquentiels. Une conception proposée, les « graphes Learnity », offre des unités de connaissances interconnectées que les apprenants parcourent librement tout au long de leur vie. Que gagnez-vous, et que risquez-vous de perdre, à libérer l'apprentissage d'une séquence fixée ?
 - L'IA peut à la fois soutenir les apprenants adultes et changer les compétences que les adultes doivent continuellement actualiser. Si l'IA ne cesse de reconfigurer votre domaine, dans quelles capacités investiriez-vous qu'aucun outil ne peut simplement vous donner ?
 - L'apprentissage tout au long de la vie est souvent présenté comme une responsabilité individuelle. Mais l'accès sur l'ensemble de la vie est aussi une question d'équité. Qui dispose du temps, des ressources et du soutien nécessaires pour continuer d'apprendre à l'âge adulte — et comment l'IA pourrait-elle élargir ou réduire cet écart ?
 

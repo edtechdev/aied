@@ -1,7 +1,7 @@
 ---
 title: "Les technologies de la parole et de la voix"
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 technology: [generative-ai, multimodal]
 assessment: [assessment]
@@ -11,7 +11,7 @@ audience: [instructors, learners, researchers, instructional designers]
 level: [k 12, higher ed, adult learning]
 discipline: [language learning]
 translation_of: concepts/speech-and-voice-technologies
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Les [[ai-technologies|Technologies de l'IA]] de la parole et de la voix** — la famille de systèmes d'IA dans lesquels le canal parlé porte l'interaction : la reconnaissance automatique de la parole (ASR) qui transcrit, analyse et note ce qu'un apprenant dit ; la synthèse vocale (TTS) qui produit des consignes sous forme de narration ou de dialogue ; les agents vocaux d'abord (voice-first) qui tiennent une conversation parlée en temps réel avec les apprenants ; et la capture et la notation automatisées de la performance orale. Là où la recherche sur les [[conversational-ai|agents conversationnels]] porte surtout sur les agents textuels et où l'[[language-learning|apprentissage des langues]] couvre largement la pédagogie des langues secondes, cette page suit l'audio lui-même — ce qu'une interface vocale change à l'apprentissage, ce qu'elle coûte, et qui elle inclut ou exclut lorsque l'interface est une voix plutôt qu'un écran.
+> **Les [[ai-technologies|Technologies de l'IA]] de la parole et de la voix** — la famille de systèmes d'IA dans lesquels le canal parlé porte l'interaction : la reconnaissance automatique de la parole (ASR) qui transcrit, analyse et note ce qu'un apprenant dit ; la synthèse vocale (TTS) qui produit des consignes sous forme de narration ou de dialogue ; les agents vocaux d'abord (voice-first) qui tiennent une conversation parlée en temps réel avec les apprenants ; et la capture et la notation automatisées de la performance orale. Là où la recherche sur les [[conversational-ai|agents conversationnels]] porte surtout sur les agents textuels et où l'[[language-learning|apprentissage des langues]] couvre largement la pédagogie des langues secondes, l'accent porte sur l'audio lui-même : ce qu'une interface vocale change à l'apprentissage, ce qu'elle coûte, et qui elle inclut ou exclut lorsque l'interface est une voix plutôt qu'un écran.
 
 ## Questions à examiner
 
@@ -36,7 +36,7 @@ ai_assist:
 - Deux constats vont à l'encontre de l'intuition : les étudiants qui lisaient le plus intensément la production de l'IA durant les tâches d'interprétation avaient la fluidité d'élocution la plus faible, et un apprenant qui a répondu en deux mots a été jugé correct tandis qu'une réponse parlée plus complète a été signalée. Dans quelle mesure une interface vocale mesure-t-elle la fluidité verbale plutôt que la compréhension ?
 - Un agent vocal à accent britannique était traité comme un outil, tandis que des agents à accent indien et afro-américain étaient anthropomorphisés et traités comme des pairs dans des travaux de [[group-work|groupe]] au [[k-12|primaire et secondaire]]. Si l'accent change la manière dont un apprenant se relie à un agent, qui devrait décider de la voix avec laquelle un produit éducatif est livré ?
 - Les systèmes vocaux d'abord et hors ligne existent surtout pour atteindre des apprenants que l'[[edtech-platform|EdTech]] fondée sur l'écran excluait — les enfants aveugles, les apprenants sourds et malentendants, les apprenants dans des ateliers sans connectivité. Que faudrait-il pour que l'accessibilité soit l'hypothèse de départ d'un produit de parole plutôt qu'un correctif tardif ?
-- Presque chaque affirmation de cette page provient d'une étude courte, à site unique et fondée sur l'autodéclaration, avec un ordre de présentation fixe. Laquelle de ces conclusions auriez-vous assez confiance pour changer votre évaluation ou la conception de votre leçon avant qu'une réplication n'existe ?
+- Presque chaque affirmation repose sur une étude courte, à site unique et fondée sur l'autodéclaration, avec un ordre de présentation fixe. Laquelle de ces conclusions auriez-vous assez confiance pour changer votre évaluation ou la conception de votre leçon avant qu'une réplication n'existe ?
 
 ## Introduction
 
@@ -90,7 +90,7 @@ Le bilan d'accessibilité de la technologie de la parole est mitigé : le même 
 
 AkoVoice ajoute deux considérations d'équité qui apparaissent rarement ensemble. D'abord les données : les enregistrements étaient chiffrés au repos, hébergés localement et supprimés au bout de 90 jours, et les auteurs traitent la voix d'un participant comme une expression personnelle et culturelle plutôt que comme une ressource pour entraîner des modèles ou construire des profils biométriques — une position qui compte parce que l'EU AI Act classe comme à haut risque l'IA utilisée pour évaluer les résultats d'apprentissage dans la [[professional-training|formation professionnelle]]. Ensuite l'accent et le registre : la précision de la parole vers le texte n'a pas été entièrement testée à travers les accents des apprenants, et des critères de grille comme « engaging » ont été signalés comme culturellement spécifiques et potentiellement pénalisants pour les locuteurs de langue seconde, ce qui a motivé un champ de notes d'examen. Mis en regard des constats sur l'accent dans les travaux de groupe au primaire et secondaire et de l'hypothèse visuelle quasi totale de l'edtech dominante, le schéma est que l'interface vocale supprime les barrières de la vue, de la vitesse de lecture et de la connectivité, tout en laissant ouvertes celles de l'accent, de la précision de la reconnaissance, du coût du matériel et du registre culturel.
 
-Vérification de portée. Cette page porte sur le canal parlé et la technologie qui le porte. Pour la pédagogie des langues secondes au sens large — le développement de l'écriture, l'exactitude grammaticale, la motivation, la pratique des enseignants — rendez-vous sur [[language-learning]], qui couvre l'enseignement en L2 assisté par l'IA et traite la parole comme un courant parmi d'autres. Pour les agents conversationnels textuels et la conception de dialogue indépendamment de la modalité, rendez-vous sur [[conversational-ai]] ; plusieurs articles ici mobilisent le dialogue, mais leur question porte sur la parole, et non sur la formulation d'invites à un modèle de conversation. Pour les lecteurs d'écran, le sous-titrage, les graphiques tactiles et les outils d'assistance qui ne sont pas principalement fondés sur la parole, rendez-vous sur [[assistive-technology]], qui se situe dans les courants plus larges de l'[[accessibility|accessibilité]] et de l'[[inclusive-learning|apprentissage inclusif]] de ce wiki.
+Vérification de portée. Le sujet est le canal parlé et la technologie qui le porte. Pour la pédagogie des langues secondes au sens large — le développement de l'écriture, l'exactitude grammaticale, la motivation, la pratique des enseignants — rendez-vous sur [[language-learning]], qui couvre l'enseignement en L2 assisté par l'IA et traite la parole comme un courant parmi d'autres. Pour les agents conversationnels textuels et la conception de dialogue indépendamment de la modalité, rendez-vous sur [[conversational-ai]] ; plusieurs articles ici mobilisent le dialogue, mais leur question porte sur la parole, et non sur la formulation d'invites à un modèle de conversation. Pour les lecteurs d'écran, le sous-titrage, les graphiques tactiles et les outils d'assistance qui ne sont pas principalement fondés sur la parole, rendez-vous sur [[assistive-technology]], qui relève des concepts plus larges d'[[accessibility|accessibilité]] et d'[[inclusive-learning|apprentissage inclusif]].
 
 ## Ce qui reste incertain
 

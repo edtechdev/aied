@@ -1,7 +1,7 @@
 ---
 title: "Comment l'IA peut-elle assister la recherche en éducation ?"
 created: "2026-10-05T11:23:36-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -17,7 +17,7 @@ page_kind: [evaluation]
 confidence: medium
 contributors: [editor]
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -80,7 +80,7 @@ L'étape de vérification a donc besoin d'un étalon qui ne soit ni la productio
 
 La recherche générative résume, recommande, synthétise et converse, ce qui déstabilise l'ancien agencement où le système localise et le lecteur interprète ([[genai-academic-search-workshop]]). Traitez-la comme un outil de découverte. Le rapport d'atelier porte deux mises en garde : la capacité est inégale, les chercheurs très cités étant reconstruits à environ deux fois le taux de leurs pairs moins cités, et une [[librarians|bibliothécaire]] a décrit un déficit de confiance où les étudiants faisaient trop confiance à la recherche générative tandis que le corps enseignant s'en méfiait.
 
-La vérification des références est l'endroit où cela devient non négociable, et les défaillances se concentrent dans le champ des auteurs, celui qui porte le crédit. [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] ont audité 723.930 publications et 15.872.533 références et vérifié 30 références fabriquées dans 14 articles d'enseignement de l'informatique, tous de 2025 et 2026. Dix-sept des 30 étaient des hybrides : un titre réel associé à des auteurs fabriqués ou incorrects. Le compte vérifié dans un colloque technique est passé de 3 en 2025 à 17 en 2026, soit 2.3% des articles de ce colloque cette année-là. Leur total est une borne inférieure délibérée, et les vérificateurs automatisés héritent des défauts des métadonnées qu'ils traitent comme vérité de référence. Vérifiez les auteurs d'abord.
+La vérification des références est l'endroit où cela devient non négociable, et les défaillances se concentrent dans le champ des auteurs, celui qui porte le crédit. [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] ont audité 723,930 publications et 15,872,533 références et vérifié 30 références fabriquées dans 14 articles d'enseignement de l'informatique, tous de 2025 et 2026. Dix-sept des 30 étaient des hybrides : un titre réel associé à des auteurs fabriqués ou incorrects. Le compte vérifié dans un colloque technique est passé de 3 en 2025 à 17 en 2026, soit 2.3% des articles de ce colloque cette année-là. Leur total est une borne inférieure délibérée, et les vérificateurs automatisés héritent des défauts des métadonnées qu'ils traitent comme vérité de référence. Vérifiez les auteurs d'abord.
 
 ## Traitez un score automatisé comme une hypothèse à tester
 

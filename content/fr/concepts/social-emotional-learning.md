@@ -1,7 +1,7 @@
 ---
 title: "L'apprentissage socioémotionnel"
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,7 @@ ai_assist:
 ## Questions à examiner
 
 - Le cadre CASEL énumère cinq compétences : la conscience de soi, la gestion de soi, la conscience sociale, les compétences relationnelles et la prise de décision responsable. Lesquelles pensez-vous qu'un [[intelligent-tutoring|tuteur IA]] pourrait soutenir, et lesquelles soupçonnez-vous qu'il ne peut pas ?
-- La page distingue l'apprentissage socioémotionnel de l'intelligence émotionnelle. Avant de lire plus loin, comment décririez-vous la différence, et pourquoi cette distinction pourrait-elle compter pour la manière dont les écoles les abordent ?
+- Avant de lire plus loin, comment décririez-vous la différence entre l'apprentissage socioémotionnel et l'intelligence émotionnelle, et pourquoi cette distinction pourrait-elle compter pour la manière dont les écoles les abordent ?
 - Si la littératie technique en IA seule est « insuffisante » pour naviguer l'apprentissage médié par l'IA, que pensez-vous qu'il manque — et qu'est-ce que cela implique pour la manière dont vous préparez les élèves (ou vous-même) ?
 - Comment une forte dépendance à l'IA pourrait-elle remodeler la sociabilité, l'empathie ou le sentiment de confiance d'un élève — et ces changements sont-ils quelque chose que l'éducation devrait activement anticiper par la conception ?
 - La [[research-methods-aied|recherche]] suggère que le SEL soutient les dimensions relationnelles de l'apprentissage que l'IA doit « compléter plutôt que remplacer ». Où avez-vous vu une technologie renforcer une relation humaine, et où a-t-elle discrètement pris sa place ?
@@ -56,7 +56,7 @@ L'apprentissage socioémotionnel est étroitement lié à l'intelligence émotio
 
 ## Sous-thèmes potentiels du SEL dans la recherche à l'ère de l'IA
 
-La recherche de la base de connaissances regroupe le SEL en plusieurs sous-thèmes distincts, chacun ayant sa propre base de données probantes :
+La recherche regroupe le SEL en plusieurs sous-thèmes distincts, chacun ayant sa propre base de données probantes :
 
 ### L'auto-efficacité et la confiance
 Une compétence centrale du SEL (conscience de soi / gestion de soi) qui conditionne fortement la manière dont les élèves interagissent avec l'IA. [[student-dependency-on-ai-literacy-self-efficacy-2026|La dépendance des élèves à l'IA]] (478 étudiants israéliens de l'enseignement supérieur) a montré que, si les dimensions de la littératie en IA fondées sur les compétences étaient associées de manière *positive* à la dépendance à l'IA, l'**auto-efficacité** — tant académique que spécifique à l'IA — et la [[regulation|régulation de l'effort]] étaient associées de manière *négative* — ce qui signifie que la littératie en IA seule ne protège pas de la dépendance ; l'[[self-efficacy|auto-efficacité]], oui. [[self-efficacy-tutoring-learning|Cen et al. (EC-TEL 2026)]] ont constaté que les élèves dont l'auto-efficacité initiale était plus faible obtenaient de plus grands gains d'apprentissage quel que soit le format de pratique, et que la préférence pour le tuteur comptait davantage pour la pratique fondée sur le tuteuriat — soulignant la valeur d'adapter la pratique aux profils motivationnels. Concepts liés : [[self-efficacy]], [[motivation]], [[agency]].

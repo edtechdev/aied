@@ -5,9 +5,9 @@ type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-05T18:24:25-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 translation_of: concepts/visualization
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -31,11 +31,11 @@ ai_assist:
 
 ## Questions à examiner
 
-- Un graphique ou un tableau de bord peut rendre les données claires — mais voir simplement une visualisation est-il la même chose que la comprendre ? Les [[research-methods-aied|recherches]] de la page suggèrent que la manière dont on interagit avec une visualisation compte plus que le graphique lui-même. Rappelez-vous un tableau de bord ou un graphique que vous avez regardé sans réellement en apprendre quelque chose. Que manquait-il au simple affichage ?
+- Un graphique ou un tableau de bord peut rendre les données claires — mais voir simplement une visualisation est-il la même chose que la comprendre ? Les [[research-methods-aied|recherches]] suggèrent que la manière dont on interagit avec une visualisation compte plus que le graphique lui-même. Rappelez-vous un tableau de bord ou un graphique que vous avez regardé sans réellement en apprendre quelque chose. Que manquait-il au simple affichage ?
 - Les tableaux de bord d'apprentissage conventionnels suivent un modèle de type « montrer les données, espérer l'insight ». Le constat présenté ici est que les apprenants qui répondent à des questions sur leurs données *avant* de voir les métriques réfléchissent et se calibrent mieux que ceux qui regardent passivement des graphiques. Pourquoi être contraint de prédire d'abord pourrait-il changer ce que l'on retire de la vue des données réelles ?
-- L'IA peut aujourd'hui générer des visualisations exactes de contenus spécialisés de [[stem-education|STM]] : après [[llm-training-and-fine-tuning|affinage]] sur des concepts nucléaires, un modèle texte-image est passé de 12% à 78% sur ce domaine. Mais la page constate aussi qu'aucun modèle n'est uniformément compétent. Où feriez-vous confiance à un visuel généré par l'IA, et où insisteriez-vous pour le confronter à un expert humain ?
+- L'IA peut aujourd'hui générer des visualisations exactes de contenus spécialisés de [[stem-education|STM]] : après [[llm-training-and-fine-tuning|affinage]] sur des concepts nucléaires, un modèle texte-image est passé de 12% à 78% sur ce domaine. Mais aucun modèle n'est uniformément compétent. Où feriez-vous confiance à un visuel généré par l'IA, et où insisteriez-vous pour le confronter à un expert humain ?
 - Les participants à une étude ont trouvé les bandes dessinées de données générées par l'IA plus engageantes et plus compréhensibles, mais beaucoup ont aussi signalé le risque de désinformation et la surcharge d'information. Comment pesez-vous l'attrait d'un visuel IA convaincant face à son potentiel à tromper — et que vérifieriez-vous avant de lui faire confiance ou de l'utiliser ?
-- La page avertit que la *confiance* d'un modèle n'est pas sa *fiabilité* : les systèmes peuvent diverger fortement sur les jugements de gravité tout en réussissant les construits de base. Si vous vous appuyiez sur un outil d'IA pour évaluer des diapositives, des dissertations ou des données, comment découvrirez-vous les endroits où sa confiance dissimule une erreur sérieuse ?
+- La *confiance* d'un modèle n'est pas sa *fiabilité* : les systèmes peuvent diverger fortement sur les jugements de gravité tout en réussissant les construits de base. Si vous vous appuyiez sur un outil d'IA pour évaluer des diapositives, des dissertations ou des données, comment découvrirez-vous les endroits où sa confiance dissimule une erreur sérieuse ?
 - Une étude a montré que les étudiants portaient l'essentiel de leur regard sur le code malgré des étayages visuels élaborés — les aides visuelles ne captaient simplement pas l'attention de chacun. Qu'est-ce que cela suggère quant à l'hypothèse qu'un beau diagramme ou un beau tableau de bord aidera automatiquement tous les apprenants à s'engager ? Quoi d'autre que les visuels façonne la manière dont les gens utilisent réellement un outil ?
 
 ## Introduction

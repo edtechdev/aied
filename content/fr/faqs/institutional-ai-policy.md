@@ -1,7 +1,7 @@
 ---
 title: "Comment rédiger et mettre en œuvre une politique institutionnelle sur l'IA ?"
 created: "2026-09-22T19:12:18-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 weight: 65
 type: faq
 connected_faqs: [course-ai-policy, equity-ethics-pedagogical-safety-research, adopting-ai-options-and-issues]
@@ -10,7 +10,7 @@ research_method: [policy analysis, literature review, delphi]
 audience: [administrators, policymakers, institutions]
 level: [higher ed]
 institutions: [change-management, educational-policy-ai, governance]
-source_updated: "2026-11-12T15:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/institutional-ai-policy
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -91,7 +91,7 @@ Ce paragraphe règle aussi une question d'achat. Si les tests de biais et la tra
 
 C'est la décision sur laquelle la plupart des politiques échouent, et elle est mesurable par les deux bouts.
 
-D'abord l'enquête auprès du corps enseignant. [[watson-rainie-ai-challenge-faculty-survey-2026|L'enquête AAC&U/Elon auprès de 1.057 enseignants américains (Watson et Rainie, 2026)]] a trouvé que 87% avaient créé leurs propres règles pour les étudiants sur l'usage de l'[[generative-ai|IA générative]], tandis que 48% disaient que leur établissement avait écrit des lignes directrices et 35% que leur département l'avait fait. Sur la structure, 55% signalaient un groupe de travail ou de supervision, 37% de nouveaux cours centrés sur l'IA, 17% une majeure ou une mineure en IA, 16% de nouveaux services de direction académique, et 13% avaient adopté la littératie en IA comme acquis d'apprentissage de formation générale. L'échantillon n'est pas scientifique et les auteurs disent qu'il n'est pas généralisable. L'asymétrie tient quand même : les règles que les étudiants rencontrent réellement sont écrites par l'enseignant en face d'eux.
+D'abord l'enquête auprès du corps enseignant. [[watson-rainie-ai-challenge-faculty-survey-2026|L'enquête AAC&U/Elon auprès de 1,057 enseignants américains (Watson et Rainie, 2026)]] a trouvé que 87% avaient créé leurs propres règles pour les étudiants sur l'usage de l'[[generative-ai|IA générative]], tandis que 48% disaient que leur établissement avait écrit des lignes directrices et 35% que leur département l'avait fait. Sur la structure, 55% signalaient un groupe de travail ou de supervision, 37% de nouveaux cours centrés sur l'IA, 17% une majeure ou une mineure en IA, 16% de nouveaux services de direction académique, et 13% avaient adopté la littératie en IA comme acquis d'apprentissage de formation générale. L'échantillon n'est pas scientifique et les auteurs disent qu'il n'est pas généralisable. L'asymétrie tient quand même : les règles que les étudiants rencontrent réellement sont écrites par l'enseignant en face d'eux.
 
 Puis le compte des traductions. [[genai-policies-higher-ed-computing|Ganguly et al. (2026)]] ont analysé 116 politiques institutionnelles sur l'IA générative de 131 universités R1, avec 98 programmes de cours d'informatique de 54 de ces établissements. Les établissements encourageaient surtout l'usage de l'IA générative (73, 63%) tandis que 31 (27%) le décourageaient. Au niveau des cours, 90 programmes (92%) donnaient des lignes directrices explicites, mais 49 (50%) interdisaient purement et simplement l'IA générative, 40 (41%) autorisaient un usage partiel pour des activités spécifiées et 7 (7%) communiquaient un encouragement. Seuls 47 des 131 établissements avaient à la fois une politique institutionnelle et une traduction décelable au niveau des cours.
 
@@ -127,7 +127,7 @@ Un seul document peut porter toutes les obligations. Il peut les porter et n'en 
 
 Le corps enseignant suivra une fois la politique publiée. 87% des enseignants avaient écrit leurs propres règles avant que leur établissement n'en publie une. La contre-mesure est le développement professionnel, les exemples travaillés et le leadership distributif. Un courriel de rappel ne déplace rien.
 
-Les étudiants ignorent les politiques, donc la clarté est perdue avec eux. [[ai-adaptation-gap-higher-education-2026|Braun et Khafizov (2026)]] ont interrogé 1.809 étudiants, 250 enseignants et 62 membres du personnel administratif d'une université de [[teacher-education|formation des enseignants]]. Les étudiants rapportaient une intensité d'usage de l'IA et une utilité perçue plus élevées, tandis que les enseignants et le personnel rapportaient des préoccupations d'intégrité plus fortes, et les étudiants percevaient la clarté des politiques comme plus grande que les enseignants. Ce qui les fait bouger, c'est de savoir si l'outil est assez utile pour valoir la peine de suivre une règle à son sujet.
+Les étudiants ignorent les politiques, donc la clarté est perdue avec eux. [[ai-adaptation-gap-higher-education-2026|Braun et Khafizov (2026)]] ont interrogé 1,809 étudiants, 250 enseignants et 62 membres du personnel administratif d'une université de [[teacher-education|formation des enseignants]]. Les étudiants rapportaient une intensité d'usage de l'IA et une utilité perçue plus élevées, tandis que les enseignants et le personnel rapportaient des préoccupations d'intégrité plus fortes, et les étudiants percevaient la clarté des politiques comme plus grande que les enseignants. Ce qui les fait bouger, c'est de savoir si l'outil est assez utile pour valoir la peine de suivre une règle à son sujet.
 
 ## Ce qui va vous revenir dessus
 

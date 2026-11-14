@@ -1,7 +1,7 @@
 ---
 title: "L'expérience étudiante"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [well-being]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, ai-anxiety-wellbeing]
 confidence: high
 translation_of: concepts/student-experience
-source_updated: "2026-11-12T21:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -27,11 +27,11 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **L'expérience étudiante (Student experience)** — la manière dont les apprenants perçoivent, interagissent avec et sont affectés par les outils d'IA dans les contextes éducatifs. Avec plus de 85 articles dans la base de connaissances, l'expérience étudiante est l'une des dimensions les plus étudiées de l'[[ai-education|IA en éducation]]. L'IA a sur les étudiants des effets à la fois positifs et négatifs, et un même outil peut à la fois aider et nuire selon la manière dont il est conçu et utilisé.
+> **L'expérience étudiante (Student experience)** — la manière dont les apprenants perçoivent, interagissent avec et sont affectés par les outils d'IA dans les contextes éducatifs. Avec plus de 85 études, l'expérience étudiante est l'une des dimensions les plus étudiées de l'[[ai-education|IA en éducation]]. L'IA a sur les étudiants des effets à la fois positifs et négatifs, et un même outil peut à la fois aider et nuire selon la manière dont il est conçu et utilisé.
 
 ## Questions à examiner
 
-- La page affirme que l'IA affecte les étudiants dans les deux sens, souvent simultanément — un même outil peut à la fois aider et nuire selon sa conception et son usage. Pouvez-vous donner un exemple tiré de votre propre expérience où l'IA a aidé et nui en même temps ?
+- L'IA affecte les étudiants dans les deux sens, souvent simultanément : un même outil peut à la fois aider et nuire selon sa conception et son usage. Pouvez-vous donner un exemple tiré de votre propre expérience où l'IA a aidé et nui en même temps ?
 - Elle décrit un « écart entre performance et apprentissage » : les étudiants réussissent mieux avec l'IA mais moins bien sur des tâches ultérieures non assistées. Comment pensez-vous que cet écart apparaît, et que faudrait-il pour le combler ?
 - Si la dépendance excessive à l'IA signifie déléguer le raisonnement que vous avez justement besoin d'exercer, où traceriez-vous la frontière entre une aide légitime et une délégation qui érode l'apprentissage ?
 - La [[research-methods-aied|recherche]] demande si le simple fait de savoir que l'IA est disponible change l'effort des étudiants. Pensez-vous que la conscience de l'IA pousse les étudiants à travailler davantage, moins, ou différemment — et comment mettriez-vous votre conviction à l'épreuve ?

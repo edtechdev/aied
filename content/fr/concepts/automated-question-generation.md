@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: "Génération automatisée de questions"
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/automated-question-generation
-source_updated: "2026-11-12T06:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -30,19 +30,19 @@ ai_assist:
 
 ## Questions à examiner
 
-- La génération automatisée de questions produit des items d'évaluation à partir d'un matériau source, à grande échelle — mais cette page avertit que la qualité varie énormément selon les types d'items. Avant de lire, quel type d'item devineriez-vous que l'IA produit le plus sûrement : les questions à choix multiples, les réponses courtes ou le code — et pourquoi ?
+- La génération automatisée de questions produit des items d'évaluation à partir d'un matériau source, à grande échelle — mais la qualité varie énormément selon les types d'items. Avant de lire, quel type d'item devineriez-vous que l'IA produit le plus sûrement : les questions à choix multiples, les réponses courtes ou le code — et pourquoi ?
 - Le défi central est le contrôle de la qualité : les LLM peuvent générer des questions factuellement incorrectes. Un pipeline a réduit l'hallucination de 62% en ajoutant une boucle de génération puis de validation-affinage. Pourquoi, à votre avis, demander à l'IA de valider ses propres questions les améliorerait-elle réellement plutôt que de simplement entériner ses propres productions ?
 - La [[research-methods-aied|recherche]] montre que les questions générées peuvent pencher vers les niveaux inférieurs de la pensée (la mémorisation) à moins d'être explicitement conçues pour des objectifs de niveau supérieur. Si vous utilisiez l'IA pour construire des items d'entraînement, comment sauriez-vous s'ils entraînent une compréhension véritable ou seulement la mémorisation ?
-- Le calibrage de la difficulté compte : les estimations de difficulté de l'IA sont fortement corrélées à la performance des étudiants, mais la page met en garde contre un usage abusif à enjeux élevés. Quand une question que l'IA juge de « bonne difficulté » serait-elle néanmoins la mauvaise question à poser à un apprenant donné ?
+- Le calibrage de la difficulté compte : les estimations de difficulté de l'IA sont fortement corrélées à la performance des étudiants, mais un usage à enjeux élevés appelle la prudence. Quand une question que l'IA juge de « bonne difficulté » serait-elle néanmoins la mauvaise question à poser à un apprenant donné ?
 - La génération sensible à l'[[accessibility|accessibilité]] construit des questions adaptées aux apprenants sourds et malentendants, affinées en partenariat avec la communauté cible. Que suggère cet exemple sur la raison pour laquelle la génération de questions ne peut pas être traitée comme un problème purement technique ou relevant du seul contenu ?
 
 ## Introduction
 
-La génération automatisée de questions importe parce que les items d'évaluation sont coûteux à créer à la main, et que l'IA peut les produire rapidement et à grande échelle. Cependant, la recherche de la base de connaissances montre que les items générés doivent être validés du point de vue de l'exactitude, de la pertinence et de la difficulté, et que les différents types d'items (QCM, réponses courtes, code) varient quant à la fiabilité avec laquelle ils peuvent être générés. L'AQG se situe donc à l'intersection de l'[[generative-ai|IA générative]], du [[educational-nlp|TAL éducatif]] et de la [[educational-measurement|mesure en éducation]].
+La génération automatisée de questions importe parce que les items d'évaluation sont coûteux à créer à la main, et que l'IA peut les produire rapidement et à grande échelle. Cependant, la recherche montre que les items générés doivent être validés du point de vue de l'exactitude, de la pertinence et de la difficulté, et que les différents types d'items (QCM, réponses courtes, code) varient quant à la fiabilité avec laquelle ils peuvent être générés. L'AQG se situe donc à l'intersection de l'[[generative-ai|IA générative]], du [[educational-nlp|TAL éducatif]] et de la [[educational-measurement|mesure en éducation]].
 
 ## Approaches to question generation
 
-La recherche de la base de connaissances illustre plusieurs approches :
+La recherche illustre plusieurs approches :
 
 - **Les pipelines générer-puis-valider :** [[generate-then-validate-question-gen|Generate-Then-Validate]] introduit une boucle de génération → validation → affinage qui réduit l'hallucination des LLM de 62% par rapport à la génération directe, atteignant 89% d'exactitude sur les jeux de données [[stem-education|STIM]] et une amélioration de 23% de la pertinence. L'étape de validation filtre les items invalides ou de faible qualité, et les items échoués déclenchent une régénération avec des invites correctives.
 - **La génération fondée sur le traçage des connaissances :** [[kt4eqg-personalized-question-generation|KT4EQG]] génère des questions d'exercice personnalisées guidées par le [[knowledge-tracing|traçage des connaissances]], adaptant les items à l'état des connaissances de chaque apprenant plutôt qu'en générant des questions génériques.

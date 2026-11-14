@@ -1,7 +1,7 @@
 ---
 title: "Enseignement du droit"
 created: "2026-09-18T05:10:00-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking, reducing-ai-misuse]
 pedagogy: [career-development-and-readiness, experiential-learning, professional-training, socratic-method]
@@ -15,7 +15,7 @@ audience: [instructors, curriculum designers, administrators, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-education
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -41,9 +41,9 @@ ai_assist:
 
 ## Introduction
 
-L'enseignement du droit prépare les étudiants à une profession réglementée dotée de ses propres règles de déontologie, de son propre organe d'accréditation et de son propre examen de sélection, ce qui en fait la discipline de la base de connaissances où l'[[educational-policy-ai|politique éducative]], la [[regulation|réglementation]] professionnelle et la validité de l'évaluation se croisent le plus étroitement. Il se situe aux côtés de l'[[medical-education|enseignement des professions de santé]] et de l'[[nursing-education|enseignement des soins infirmiers]] comme une discipline de [[professional-training|formation professionnelle]] plutôt qu'une matière scolaire, mais sa caractéristique distinctive est procédurale : l'essentiel de ce que les écoles de droit doivent décider n'est pas *comment* enseigner avec l'IA mais *ce que les règles de déontologie professionnelle exigent* d'un diplômé qui exercera avec elle.
+L'enseignement du droit prépare les étudiants à une profession réglementée dotée de ses propres règles de déontologie, de son propre organe d'accréditation et de son propre examen de sélection, ce qui en fait la discipline où l'[[educational-policy-ai|politique éducative]], la [[regulation|réglementation]] professionnelle et la validité de l'évaluation se croisent le plus étroitement. Il se situe aux côtés de l'[[medical-education|enseignement des professions de santé]] et de l'[[nursing-education|enseignement des soins infirmiers]] comme une discipline de [[professional-training|formation professionnelle]] plutôt qu'une matière scolaire, mais sa caractéristique distinctive est procédurale : l'essentiel de ce que les écoles de droit doivent décider n'est pas *comment* enseigner avec l'IA mais *ce que les règles de déontologie professionnelle exigent* d'un diplômé qui exercera avec elle.
 
-Le corpus de données probantes est actuellement mince et dominé par les politiques. Un article substantiel ancre la page : [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski et Hurley (2025)]] ont enquêté sur les politiques institutionnelles en matière d'IA générative dans les écoles de droit américaines agréées par l'ABA et les ont comparées, puis ont proposé un cadre de gouvernance. Ce déséquilibre est en soi un résultat, et la page le signale plutôt que de le dissimuler.
+Le corpus de données probantes est actuellement mince et dominé par les politiques. Un article substantiel porte l'essentiel : [[gutowski-hurley-genai-policy-legal-education-2025|Gutowski et Hurley (2025)]] ont enquêté sur les politiques institutionnelles en matière d'IA générative dans les écoles de droit américaines agréées par l'ABA et les ont comparées, puis ont proposé un cadre de gouvernance. Ce déséquilibre est en soi un résultat, et il est énoncé clairement plutôt que dissimulé.
 
 Des données probantes expérimentales commencent à arriver : [[xie-genai-mystery-game-legal-education-2026|Xie et coll. (2026)]] ont randomisé 84 étudiants de premier cycle en droit entre un jeu de rôle policier rédigé par IA générative et le cours magistral du même enseignant, et le groupe du jeu a obtenu des scores bien plus élevés à un post-test de connaissances et de raisonnement (*η*² partiel = 0.566).
 
@@ -83,13 +83,13 @@ Dans une expérience en contexte juridique, 186 décideurs profanes statuant sur
 
 **Les normes de divulgation sont incertaines et ont des conséquences.** Gutowski et Hurley rapportent un désaccord sur le point de savoir si tout usage de l'IA doit être divulgué, des propositions de formulaires de divulgation par les étudiants, et l'absence de consensus sur les pratiques de citation, le Bluebook restant silencieux sur la citation de l'IA générative. Ils prévoient aussi que les exigences de divulgation finiront par paraître aussi futiles que mentionner qu'un étudiant a utilisé un moteur de recherche, ce qui est une prédiction sur la durée de vie des règles en train d'être écrites.
 
-**La déontologie professionnelle accompagne le diplômé.** Le devoir de compétence technologique de l'ABA et ses orientations sur la confidentialité, la supervision et la franchise envers le tribunal s'appliquent aux juristes en exercice qui utilisent ces outils, et les écoles de droit héritent de la charge de les enseigner. C'est pourquoi la discipline rejoint directement le travail de la base de connaissances sur l'[[ai-use-disclosure|divulgation des usages de l'IA]] et sur les [[legal-issues-and-risks|questions juridiques et les risques]] qui apparaissent lorsque les institutions gouvernent mal l'IA.
+**La déontologie professionnelle accompagne le diplômé.** Le devoir de compétence technologique de l'ABA et ses orientations sur la confidentialité, la supervision et la franchise envers le tribunal s'appliquent aux juristes en exercice qui utilisent ces outils, et les écoles de droit héritent de la charge de les enseigner. C'est pourquoi la discipline rejoint directement l'[[ai-use-disclosure|divulgation des usages de l'IA]] et sur les [[legal-issues-and-risks|questions juridiques et les risques]] qui apparaissent lorsque les institutions gouvernent mal l'IA.
 
 ## Questions ouvertes
 
 - Les cours de rédaction juridique assistée par l'IA développent-ils encore l'analyse que suppose l'obtention du titre, ou forment-ils une fluidité que l'examen du barreau ne parvient pas non plus à détecter ?
 - Qu'advient-il de l'enseignement socratique si la lecture préparatoire est régulièrement déléguée, et le silence de la classe à ce sujet est-il un problème de mesure ou un problème de conception ?
-- L'enseignement du droit forme les personnes qui plaideront et réglementeront l'[[ai-education|IA en éducation]]. Cela en fait-il le lieu naturel pour mettre à l'épreuve le travail de la base de connaissances sur le risque juridique, ou bien cela déforme-t-il l'attention vers les écoles de droit aux politiques les plus bruyantes ?
+- L'enseignement du droit forme les personnes qui plaideront et réglementeront l'[[ai-education|IA en éducation]]. Cela en fait-il le lieu naturel pour mettre à l'épreuve le travail sur le risque juridique, ou bien cela déforme-t-il l'attention vers les écoles de droit aux politiques les plus bruyantes ?
 
 ## Idées fausses courantes
 

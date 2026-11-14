@@ -1,7 +1,7 @@
 ---
 title: Modèle SAMR
 created: "2026-09-10T09:50:00-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [educational-development, learning-design, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
@@ -10,7 +10,7 @@ audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/samr-model
-source_updated: "2026-11-02T09:55:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ SAMR décrit la profondeur de la transformation technologique des tâches d'appr
 
 SAMR est fréquemment associé au [[icap-framework|cadre ICAP]] parce que les deux s'alignent : les quatre scénarios cuisine-apprentissage de [[thermomix-genai-education-analogy-2026|Rummel, Nachtigall et Panadero (2026)]] projettent les modes d'[[student-engagement|engagement]] ICAP sur les niveaux SAMR — ICAP *Passive* avec SAMR *Substitution*, *Active* avec *Augmentation*, *Constructive* avec *Modification*, et *Interactive* avec *Redefinition* — illustrant une progression de la délégation passive à la co-construction interactive.
 
-## Preuves issues de la base de connaissances
+## Preuves issues de la recherche
 
 - **L'intégration de l'IA dans l'enseignement supérieur est largement incrémentale, non transformative.** [[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikh et coll. (2026)]], dans une revue systématique PRISMA de 22 études d'intervention triées parmi 959 enregistrements, ont noté l'intégration de l'IA avec le modèle SAMR et ont constaté que la plupart des études se regroupaient au niveau **Substitution ou Augmentation**, moins nombreuses à la Modification, et une seule approchant la Redefinition. L'IA était typiquement introduite pour améliorer la pratique existante — dominée par l'[[automated-assessment|automatisation de l'évaluation]] et le soutien à l'[[personalized-learning|apprentissage personnalisé]] — plutôt que pour reconceptualiser les curricula ou les [[learning-gains|résultats d'apprentissage]].
 - **SAMR est une lentille analytique courante pour le changement de [[curriculum-design|programme]] mené par l'IA générative.** [[rewriting-curriculum-genai-pedagogy-2026|Sabani et coll. (2026)]] projettent cinq glissements curriculaires (du statique au dynamique, de la transmission à la capacité, du local à l'[[governance|institutionnel]]) sur des lentilles établies, dont SAMR et l'alignement constructif, en utilisant le modèle pour clarifier les mécanismes [[pedagogy|pédagogiques]] par lesquels l'IA générative remodèle le curriculum.
@@ -66,7 +66,7 @@ Trois cadres sont fréquemment confondus mais répondent à des questions distin
 - **[[tpack|TPACK]]** décrit les *connaissances* dont un enseignant a besoin pour intégrer la technologie efficacement — l'interaction des connaissances technologiques, pédagogiques et de contenu, étendue à l'ère de l'IA à AI-TPACK/GenAI-TPACK.
 - **SAMR** classe *à quel point* une technologie transforme une tâche d'apprentissage, de l'amélioration à la redéfinition.
 
-SAMR se comprend au mieux comme une lentille de profondeur d'intégration utilisée dans la planification et l'évaluation, complétant la théorie de l'adoption (qui explique l'appropriation) et TPACK (qui explique la capacité de l'enseignant). À l'ère de l'IA, il s'utilise le plus productivement pour demander si l'IA générative est appliquée pour améliorer des tâches existantes ou pour rendre possibles des tâches authentiquement nouvelles — une distinction qui parcourt toute la recherche de la base de connaissances sur l'évaluation et le curriculum.
+SAMR se comprend au mieux comme une lentille de profondeur d'intégration utilisée dans la planification et l'évaluation, complétant la théorie de l'adoption (qui explique l'appropriation) et TPACK (qui explique la capacité de l'enseignant). À l'ère de l'IA, il s'utilise le plus productivement pour demander si l'IA générative est appliquée pour améliorer des tâches existantes ou pour rendre possibles des tâches authentiquement nouvelles — une distinction qui parcourt toute la recherche sur l'évaluation et le curriculum.
 
 ## Implications pour la pratique
 

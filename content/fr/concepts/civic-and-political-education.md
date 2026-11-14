@@ -1,7 +1,7 @@
 ---
 title: "Éducation civique et politique"
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, teacher-role]
 pedagogy: [critical-pedagogy, lifelong-learning]
@@ -13,7 +13,7 @@ level: [k 12, higher ed, teacher education]
 audience: [instructors, curriculum designers, policymakers]
 confidence: low
 translation_of: concepts/civic-and-political-education
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Éducation civique et politique** — la part de la scolarité qui prépare les personnes à comprendre les institutions, à raisonner sur les problèmes publics et à agir comme citoyens plutôt que comme individus privés. [[civic-education-ai-lesson-plans|Trust et coll. (2025)]] la traitent comme un domaine aux objectifs distinctifs : engagement critique envers le pouvoir, perspectives multiculturelles et action sur les questions sociales. La base de connaissances nomme le sujet mais détient peu de preuves à son propos.
+> **Éducation civique et politique** — la part de la scolarité qui prépare les personnes à comprendre les institutions, à raisonner sur les problèmes publics et à agir comme citoyens plutôt que comme individus privés. [[civic-education-ai-lesson-plans|Trust et coll. (2025)]] la traitent comme un domaine aux objectifs distinctifs : engagement critique envers le pouvoir, perspectives multiculturelles et action sur les questions sociales. La littérature nomme le sujet mais détient peu de preuves à son propos.
 
 ## Questions à examiner
 
@@ -36,7 +36,7 @@ ai_assist:
 
 ## Introduction
 
-L'éducation civique et politique couvre la manière dont l'école prépare les personnes à la vie publique : structures gouvernementales, droits et obligations des citoyens, raisonnement public sur des problèmes contestés, participation aux décisions collectives, et [[information-and-media-literacy|compétences informationnelles]] qu'exige l'argumentation publique. [[critical-media-literacy-education-2026|Santos-Albardía et coll. (2025)]] décrivent l'objectif comme une citoyenneté participative et critique, non une maîtrise des outils. [[nkalanga-digital-borders-civic-literacy-2026|Nkalanga (2026)]] la situe dans les sciences sociales, la géographie et l'orientation à la vie, où la citoyenneté et les droits humains sont déjà enseignés. Cette page définit le territoire et consigne ce que le corpus contient : des travaux adjacents, non une littérature sur l'éducation civique.
+L'éducation civique et politique couvre la manière dont l'école prépare les personnes à la vie publique : structures gouvernementales, droits et obligations des citoyens, raisonnement public sur des problèmes contestés, participation aux décisions collectives, et [[information-and-media-literacy|compétences informationnelles]] qu'exige l'argumentation publique. [[critical-media-literacy-education-2026|Santos-Albardía et coll. (2025)]] décrivent l'objectif comme une citoyenneté participative et critique, non une maîtrise des outils. [[nkalanga-digital-borders-civic-literacy-2026|Nkalanga (2026)]] la situe dans les sciences sociales, la géographie et l'orientation à la vie, où la citoyenneté et les droits humains sont déjà enseignés. Le territoire est défini par des travaux adjacents plutôt que par une littérature sur l'éducation civique.
 
 ## Ce que couvre l'éducation civique
 
@@ -56,7 +56,7 @@ Trois mécanismes reviennent. Premièrement, les preuves fabriquées : un modèl
 
 L'apprenant est aussi un producteur, qui écrit aux responsables et fait circuler des preuves. La question civique n'est pas de savoir si l'IA a aidé le texte. Elle est de savoir si l'étudiant peut assumer l'affirmation et répondre aux objections.
 
-[[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz et Castro Samayoa (2026)]] énoncent le cas civique en termes de théorie politique plutôt qu'en termes de test. Leur argument est que la contribution de l'éducation à la démocratie est la pratique de l'[[critical-thinking|évaluation critique]], et que l'IA générative retire la pratique plutôt que le contenu. Externaliser l'enquête, l'analyse, l'évaluation et la synthèse à un modèle raccourcit l'exercice qui construit ces capacités, tant au primaire et au secondaire qu'à l'[[higher-ed|université]]. Ils nomment trois mécanismes : la disparition de la [[desirable-difficulties|friction productive]], le [[automation-bias|biais d'automatisation]] et un cadre d'efficacité qui traite le but du travail scolaire comme l'achèvement d'une tâche. Les enjeux qu'ils y attachent sont les plus grands du corpus et les moins étayés : les gouvernements autoritaires, écrivent-ils, prospèrent lorsque les citoyens ne peuvent pas évaluer les affirmations de vérité, et des régimes ont supprimé l'alphabétisation à cette fin. Leur remède est une paire de littératies et un engagement de conception — littératie critique en IA et en médias, et le processus plutôt que le produit. L'essai fournit la justification que cette page assemble autrement pièce par pièce, et il ne fournit aucune donnée propre.
+[[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz et Castro Samayoa (2026)]] énoncent le cas civique en termes de théorie politique plutôt qu'en termes de test. Leur argument est que la contribution de l'éducation à la démocratie est la pratique de l'[[critical-thinking|évaluation critique]], et que l'IA générative retire la pratique plutôt que le contenu. Externaliser l'enquête, l'analyse, l'évaluation et la synthèse à un modèle raccourcit l'exercice qui construit ces capacités, tant au primaire et au secondaire qu'à l'[[higher-ed|université]]. Ils nomment trois mécanismes : la disparition de la [[desirable-difficulties|friction productive]], le [[automation-bias|biais d'automatisation]] et un cadre d'efficacité qui traite le but du travail scolaire comme l'achèvement d'une tâche. Les enjeux qu'ils y attachent sont les plus grands de la littérature et les moins étayés : les gouvernements autoritaires, écrivent-ils, prospèrent lorsque les citoyens ne peuvent pas évaluer les affirmations de vérité, et des régimes ont supprimé l'alphabétisation à cette fin. Leur remède est une paire de littératies et un engagement de conception — littératie critique en IA et en médias, et le processus plutôt que le produit. L'essai fournit la justification que l'on assemble autrement pièce par pièce, et il ne fournit aucune donnée propre.
 
 [[nkalanga-digital-borders-civic-literacy-2026|Nkalanga (2026)]] ajoute un mécanisme que le cadrage par l'intégrité manque. À partir du régime frontalier sud-africain médié par l'IA, l'article dérive cinq exigences de littératie numérique civique : transparence algorithmique, droits sur les données, reconnaissance des biais, contestation des droits et [[governance|gouvernance participative]]. Une personne qui ne peut pas reconnaître qu'une décision était algorithmique, ni trouver la voie de recours, a perdu une capacité civique plutôt qu'une compétence technique.
 
@@ -68,15 +68,15 @@ L'ajout civique n'est pas une compétence d'évaluation supplémentaire. C'est l
 
 Les cadres couvrent mieux la première moitié. Nkalanga constate que DigComp 2.1 inclut la [[statistics-and-data-science-education|littératie des données]] et la sécurité numérique mais laisse la responsabilité algorithmique hors de ses domaines de compétence. Les standards sud-africains de technologie de l'information et de sciences sociales portent peu de contenu de littératie numérique, et le programme de géographie ne contient rien sur les systèmes algorithmiques. Le résultat est des utilisateurs d'outils compétents qui ne peuvent pas interroger une décision prise à leur sujet.
 
-## Ce que la base de connaissances contient, et ce qu'elle ne contient pas
+## Ce que couvrent les preuves, et ce qu'elles ne couvrent pas
 
 Les neuf sources pertinentes sont hétérogènes. Trust et coll. fournissent la seule grande analyse de contenu civique. Nkalanga a synthétisé 53 documents sans données primaires. Santos-Albardía et coll. ont interrogé sept experts et sondé 141 étudiants d'une seule université. [[fagerlund-competency-agency-purposes-ai-education-2026|Une étude finlandaise par entretiens]] auprès de 13 enseignants a trouvé la qualification dominante dans les récits de l'[[ai-education|éducation en IA]], tandis que la subjectivation manquait de stratégies concrètes. Zhai et coll. offrent un cadre et Rudolph et coll. un éditorial ; Muñiz et Castro Samayoa argumentent le cas démocratique à partir de la théorie politique. [[ai-lifelong-learning-policy|Theodora et Tselios (2026)]] demandent si l'[[adult-learning|apprentissage adulte]] sert des besoins économiques ou la participation civique. [[generative-ai-governance-education-scoping-review-2026|Elmahjub et coll. (2026)]] trouvent la démocratie et l'état de droit nommés dans 92 des 160 documents de gouvernance, mais la force juridique dans quatre.
 
-Le corpus contient neuf sources qui touchent l'éducation civique et politique, et aucune ne mesure l'apprentissage civique. L'énoncé le plus complet des enjeux est un essai plutôt qu'une étude, et aucune étude de cette base de connaissances ne teste si des étudiants exposés à un enseignement civique médié par l'IA deviennent mieux informés, plus participatifs ou plus résistants à la manipulation.
+Neuf sources touchent l'éducation civique et politique, et aucune ne mesure l'apprentissage civique. L'énoncé le plus complet des enjeux est un essai plutôt qu'une étude, et aucune étude de cette littérature ne teste si des étudiants exposés à un enseignement civique médié par l'IA deviennent mieux informés, plus participatifs ou plus résistants à la manipulation.
 
 La lacune est précise. Rien ne mesure si les étudiants peuvent vérifier une affirmation générée contre une source primaire, identifier une décision algorithmique et trouver une voie de recours, ou produire une écriture publique qui résiste à l'examen. Les chiffres de préparation de l'enquête sur la littératie médiatique sont [[self-report-measures|auto-évalués]], si bien qu'ils décrivent la confiance plutôt que la compétence.
 
-Un programme de recherche exigerait des mesures initiales et finales de connaissance civique, de raisonnement public et de vérification des sources, à l'aide de tâches contenant des fabrications plantées. Il exigerait des mesures comportementales de participation, des tâches de production notées pour l'exactitude des affirmations et l'attribution, et des tests pour savoir si les apprenants peuvent contester une décision plutôt que la décrire. Il exigerait des conditions de classe, une [[teacher-education|préparation des enseignants]] et des données d'[[equity-in-ai-education|équité]], en particulier en Afrique du Sud, où Nkalanga rapporte environ 16 000 écoles sans laboratoire informatique et cadre ce déficit comme un problème d'équité du [[global-south|Sud global]]. D'ici là, cette page est une carte d'une lacune.
+Un programme de recherche exigerait des mesures initiales et finales de connaissance civique, de raisonnement public et de vérification des sources, à l'aide de tâches contenant des fabrications plantées. Il exigerait des mesures comportementales de participation, des tâches de production notées pour l'exactitude des affirmations et l'attribution, et des tests pour savoir si les apprenants peuvent contester une décision plutôt que la décrire. Il exigerait des conditions de classe, une [[teacher-education|préparation des enseignants]] et des données d'[[equity-in-ai-education|équité]], en particulier en Afrique du Sud, où Nkalanga rapporte environ 16 000 écoles sans laboratoire informatique et cadre ce déficit comme un problème d'équité du [[global-south|Sud global]]. D'ici là, ce qui existe est une carte d'une lacune.
 
 ## Idées fausses courantes
 

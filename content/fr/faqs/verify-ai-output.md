@@ -1,7 +1,7 @@
 ---
 title: "Comment apprendre aux étudiants à vérifier les productions de l'IA ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 weight: 65
 type: faq
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-thinking]
@@ -9,7 +9,7 @@ ethics: [hallucination-risk, trust-calibration]
 research_method: [experiment, literature review, survey]
 audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/verify-ai-output
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -154,4 +154,4 @@ Méfiez-vous du sentiment que la prose se lit bien. Des novices à qui l'on dema
 
 ## Où aller ensuite
 
-[[incorporating-ai-literacy]] traite de la construction de la compréhension que cette page met en œuvre, et [[ai-literacy-evidence]] traite de ce que vaut ce travail de littératie. [[reducing-over-reliance]] traite du versant conceptuel pour les étudiants qui s'appuient sur l'outil, [[study-with-ai]] est le compagnon destiné aux étudiants, et [[asynchronous-online-courses-ai]] couvre la version de ce problème sans séance de cours où inscrire une vérification. Sur la rétroaction que les étudiants vérifient, voyez [[ai-feedback-quality]] et [[hallucination-risk]].
+[[incorporating-ai-literacy]] traite de la construction de la compréhension que cette page met en œuvre, et [[ai-literacy-evidence]] traite de ce que vaut ce travail de littératie. [[reducing-over-reliance]] traite du versant conception pour les étudiants qui s'appuient sur l'outil, [[study-with-ai]] est le compagnon destiné aux étudiants, et [[asynchronous-online-courses-ai]] couvre la version de ce problème sans séance de cours où inscrire une vérification. Sur la rétroaction que les étudiants vérifient, voyez [[ai-feedback-quality]] et [[hallucination-risk]].

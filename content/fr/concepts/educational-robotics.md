@@ -1,7 +1,7 @@
 ---
 title: "Les robots en éducation"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Les robots en éducation (robotique éducative)** — l'usage de robots physiques ou simulés comme outils d'[[teacher-role|enseignement]] et d'apprentissage. La robotique éducative couvre un large spectre : des kits programmables qui enseignent la pensée informatique et la programmation, aux robots humanoïdes et d'assistance sociale qui tutorisent, racontent des histoires, miment la langue des signes ou répètent des compétences sociales. On la valorise pour ce qu'elle favorise — la [[problem-solving|résolution de problèmes]], la [[critical-thinking|pensée critique]], la [[creativity|créativité]] et l'engagement dans les STIM — et pour le fait de rendre les concepts informatiques abstraits tangibles par l'interaction incarnée. Le corpus de robotique de la base de connaissances couvre la programmation intégrée au [[curriculum-design|programme]], les tuteurs conversationnels alimentés par LLM, les robots d'[[storytelling-in-education|assistance sociale et de narration]], et le jeu de rôle pour l'apprentissage socioémotionnel. Il est sous-tendu par deux domaines étroitement apparentés, absorbés ici : les **robots sociaux** (des robots conçus pour l'interaction sociale et la construction de relations) et l'**interaction humain-robot (IHR)** (l'étude de la manière dont les gens perçoivent les robots, leur font confiance et apprennent avec eux).
+> **Les robots en éducation (robotique éducative)** — l'usage de robots physiques ou simulés comme outils d'[[teacher-role|enseignement]] et d'apprentissage. La robotique éducative couvre un large spectre : des kits programmables qui enseignent la pensée informatique et la programmation, aux robots humanoïdes et d'assistance sociale qui tutorisent, racontent des histoires, miment la langue des signes ou répètent des compétences sociales. On la valorise pour ce qu'elle favorise — la [[problem-solving|résolution de problèmes]], la [[critical-thinking|pensée critique]], la [[creativity|créativité]] et l'engagement dans les STIM — et pour le fait de rendre les concepts informatiques abstraits tangibles par l'interaction incarnée. Les preuves en robotique couvrent la programmation intégrée au [[curriculum-design|programme]], les tuteurs conversationnels alimentés par LLM, les robots d'[[storytelling-in-education|assistance sociale et de narration]], et le jeu de rôle pour l'apprentissage socioémotionnel. Il est sous-tendu par deux domaines étroitement apparentés, absorbés ici : les **robots sociaux** (des robots conçus pour l'interaction sociale et la construction de relations) et l'**interaction humain-robot (IHR)** (l'étude de la manière dont les gens perçoivent les robots, leur font confiance et apprennent avec eux).
 
 ## Questions à examiner
 

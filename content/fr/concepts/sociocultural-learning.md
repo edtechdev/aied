@@ -1,14 +1,14 @@
 ---
 title: "L'apprentissage socioculturel"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/sociocultural-learning
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ ai_assist:
 ## Questions à examiner
 
 - La zone proximale de développement de Vygotsky est l'écart entre ce que vous pouvez faire seul et ce que vous pouvez faire avec de l'aide. Rappelez un moment où une indication arrivée à point nommé vous a permis d'accomplir quelque chose que vous ne pouviez faire seul — qu'est-ce qui rendait cette aide efficace, et quand aurait-elle pu trop en dévoiler ?
-- La page affirme que la pensée humaine est « médiatisée » par des outils culturels comme le langage et l'écriture, qui réorganisent notre manière de raisonner. Si c'est vrai, comment devrions-nous considérer un [[conversational-ai|agent conversationnel]] d'IA comme une nouvelle sorte d'outil de pensée — et comment pourrait-il changer ce que « savoir » signifie ?
+- La pensée humaine est « médiatisée » par des outils culturels comme le langage et l'écriture, qui réorganisent notre manière de raisonner. Si c'est vrai, comment devrions-nous considérer un [[conversational-ai|agent conversationnel]] d'IA comme une nouvelle sorte d'outil de pensée — et comment pourrait-il changer ce que « savoir » signifie ?
 - La théorie socioculturelle dit que la cognition est distribuée entre les personnes, les artefacts et les environnements, plutôt qu'à l'intérieur de têtes individuelles. Cela correspond-il à votre expérience de la manière dont vous accomplissez réellement les choses, et qu'est-ce que cela signifierait pour la conception de l'apprentissage si c'est vrai ?
 - Si l'apprentissage se produit d'abord entre les personnes et seulement ensuite au sein de l'individu, quels sont les risques d'un tuteur IA qui permet à un élève d'interagir surtout avec une machine plutôt qu'avec des pairs ou un humain plus savant ?
 - Comment décideriez-vous du degré de soutien qu'un tuteur IA devrait fournir pour qu'un apprenant progresse sans que la réponse lui soit simplement livrée ?

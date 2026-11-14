@@ -1,7 +1,7 @@
 ---
 title: "Comment l'IA peut-elle soutenir les apprenants en situation de handicap et neurodivergents dans mon cours ?"
 created: "2026-09-22T19:14:45-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 weight: 65
 type: faq
 methods: [meta-analysis-systematic-review]
@@ -9,7 +9,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-disabled-neurodivergent-learners
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -32,7 +32,7 @@ ai_assist:
 
 La lettre d'aménagement nomme un étudiant, un cours et un outil dont vous n'avez jamais entendu parler. Ou bien un étudiant a demandé, raisonnablement, s'il peut continuer d'utiliser son logiciel de reconnaissance vocale pendant un examen chronométré, et la règle de votre cours sur l'IA dit aucune IA de quelque sorte que ce soit. Ou encore le bureau de l'accessibilité veut une réponse d'ici vendredi sur l'opportunité d'acheter une licence pour un outil de lecture, et les preuves du fournisseur se résument à un témoignage venu d'un autre campus.
 
-La réponse qui survit aux trois situations : partez de la barrière que la tâche crée, utilisez les outils qui ont réellement été mesurés, et enseignez tout ce que vous adoptez. Deux règles importent plus que tout choix de produit. Nommez la transcription et l'OCR dans votre politique sur l'IA comme des aménagements à part entière, et donnez de la structure au devoir au lieu de demander aux étudiants de la déduire. Soyez lucide sur les preuves : le chiffre le plus solide de cette page vient de contextes d'éducation spécialisée de la prématernelle à la 12e année utilisant surtout de l'IA antérieure aux modèles génératifs, et la littérature du supérieur est une carte de ce qui a été tenté.
+La réponse qui survit aux trois situations : partez de la barrière que la tâche crée, utilisez les outils qui ont réellement été mesurés, et enseignez tout ce que vous adoptez. Deux règles importent plus que tout choix de produit. Nommez la transcription et l'OCR dans votre politique sur l'IA comme des aménagements à part entière, et donnez de la structure au devoir au lieu de demander aux étudiants de la déduire. Soyez lucide sur les preuves : le chiffre le plus solide vient de contextes d'éducation spécialisée de la prématernelle à la 12e année utilisant surtout de l'IA antérieure aux modèles génératifs, et la littérature du supérieur est une carte de ce qui a été tenté.
 
 ## La version courte
 
@@ -58,11 +58,11 @@ La même prudence vaut pour les statistiques de groupe. [[differential-effects-a
 
 ## Utilisez ce qui a été mesuré, et lisez l'étiquette
 
-Le résultat [[quantitative-research|quantitatif]] le plus solide de cette page est aussi le plus général, et il vient avec des limites que vous devez emporter dans la décision d'achat.
+Le résultat [[quantitative-research|quantitatif]] le plus solide est aussi le plus général, et il vient avec des limites que vous devez emporter dans la décision d'achat.
 
 [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang, Carter, Liu et Peng (2024)]] ont synthétisé 29 études (quasi) expérimentales sur des interventions fondées sur l'IA pour des [[inclusive-learning|étudiants handicapés]] : 239 tailles d'effet issues de 41 échantillons indépendants, un effet global moyen statistiquement significatif sur les résultats d'apprentissage de g de Hedges = 0.588 (IC à 95% [0.349, 0.826], p < .01), et une forte hétérogénéité inter-études. La performance académique constituait le plus grand sous-groupe de résultats (k = 80, g = 0.929) et les compétences socio-émotionnelles le plus petit (k = 144, g = 0.382). Les logiciels, c'est-à-dire la [[speech-and-voice-technologies|reconnaissance vocale]], les systèmes experts et les [[intelligent-tutoring|systèmes de tutorat intelligent]], obtenaient de bons résultats (k = 74, g = 0.959) et les [[educational-robotics|robots]] des résultats modérés (k = 144, g = 0.509), tandis que la réalité virtuelle intelligente (g = 0.528) n'était pas significative. Un biais de publication était présent (β d'Egger = 2.837, p < .001) ; la méthode trim-and-fill a réduit l'estimation à g = 0.269, toujours significative.
 
-Toutes les études portaient sur la prématernelle à la 12e année. 96.6% utilisaient un enseignement par étapes en contexte d'éducation spécialisée ou clinique, et la plupart utilisaient une IA plus ancienne fondée sur des règles plutôt que l'[[generative-ai|IA générative]]. Cela appuie une adoption prudente de logiciels pédagogiques structurés. Cela ne se transpose pas à un agent conversationnel polyvalent, et le traiter comme si c'était le cas est l'erreur la plus coûteuse disponible sur cette page.
+Toutes les études portaient sur la prématernelle à la 12e année. 96.6% utilisaient un enseignement par étapes en contexte d'éducation spécialisée ou clinique, et la plupart utilisaient une IA plus ancienne fondée sur des règles plutôt que l'[[generative-ai|IA générative]]. Cela appuie une adoption prudente de logiciels pédagogiques structurés. Cela ne se transpose pas à un agent conversationnel polyvalent, et le traiter comme si c'était le cas est l'erreur la plus coûteuse disponible.
 
 Trois résultats plus modestes montrent ce qu'un seul outil peut faire quand la barrière est étroite. Chacun a été testé sur une poignée d'apprenants, alors traitez-les comme des expérimentations réversibles et peu coûteuses plutôt que comme une infrastructure.
 
@@ -90,7 +90,7 @@ La défaillance documentée est un aménagement fourni sans accompagnement. Dans
 
 Deux choses rendent cette défaillance probable, et les deux sont institutionnelles. [[shin-ai-policies-sld-2026|Shin et al. (2026)]] ont utilisé une modélisation thématique par grand modèle de langage et deux rondes d'enquêtes Delphi avec 17 experts sur 12 documents américains de [[educational-policy-ai|politique d'IA en éducation]] de 2015 à 2025. La préparation des éducateurs est l'un de leurs cinq thèmes validés, portant 4 des 36 énoncés, et les experts classaient l'autonomisation des étudiants et l'[[ai-literacy|littératie en IA]] comme les plus essentiels : ces étudiants devraient apprendre à utiliser l'IA de manière responsable et autonome, la vigilance contre la dépendance excessive étant enseignée comme partie de la même compétence. Les auteurs de [[ludia-udl-ai-thought-partner-2026|LUDIA]] nomment l'obstacle « l'écart entre savoir et faire » : les conseils existent en abondance, sont rédigés en termes généraux, et une barrière est toujours particulière à cette salle, cette semaine.
 
-Ce que la page ne peut pas vous donner, c'est un protocole de formation. Il n'existe pas de lignes directrices formelles fondées sur des preuves pour aider les éducateurs ou les familles à mettre en œuvre l'IA pour ces apprenants, de sorte que la quantité d'enseignement, sa séquence et la personne qui le dispense relèvent du jugement. La jurisprudence fixe le plancher plutôt que la norme : l'étudiant doit finir capable de faire la chose, et quelqu'un doit être responsable de l'y amener.
+Ce que les preuves ne peuvent pas vous donner, c'est un protocole de formation. Il n'existe pas de lignes directrices formelles fondées sur des preuves pour aider les éducateurs ou les familles à mettre en œuvre l'IA pour ces apprenants, de sorte que la quantité d'enseignement, sa séquence et la personne qui le dispense relèvent du jugement. La jurisprudence fixe le plancher plutôt que la norme : l'étudiant doit finir capable de faire la chose, et quelqu'un doit être responsable de l'y amener.
 
 ## Inscrivez la transcription et l'OCR dans la règle sur l'IA, nommément
 
@@ -98,7 +98,7 @@ Ce que la page ne peut pas vous donner, c'est un protocole de formation. Il n'ex
 
 Une règle rédigée comme « aucune IA » peut donc retirer à l'étudiant son principal moyen de produire un travail lisible. Personne n'a encore mesuré l'ampleur de ce déplacement, ce qui est une raison d'être explicite plutôt que d'attendre le chiffre. Nommez la transcription et l'OCR comme aménagements dans la politique, à côté des interdictions de rédaction générative, afin que les deux questions soient tranchées séparément. L'exposition que cela crée pour l'institution relève de [[legal-issues-and-risks|Questions et risques juridiques]].
 
-C'est une correction d'une ligne dans la plupart des documents, et c'est la ligne aux conséquences les plus lourdes de la page.
+C'est une correction d'une ligne dans la plupart des documents, et c'est la ligne aux conséquences les plus lourdes de la politique.
 
 ## Donnez de la structure là où le devoir la suppose
 
@@ -112,7 +112,7 @@ Les effets agrégés vous donnent une direction. Ils ne vous disent pas si l'out
 
 Trois mises en garde devraient façonner cette mesure. La première est que l'ordre des sous-groupes est suggestif plutôt qu'établi : aucun modérateur de quelque type que ce soit n'a atteint la signification dans la méta-analyse de 2024, donc des classements comme les [[learning-by-teaching|agents enseignables]] (g = 1.100) devant les coachs socio-émotionnels (g = 0.336), ou l'interaction dyadique devant la triadique (g = 0.973 contre g = 0.385), ne devraient pas être traités comme acquis. La direction de l'effet est étayée ; la taille, l'optimum de conception et la durabilité de tout gain ne le sont pas.
 
-La deuxième est que ce corpus décrit des déploiements et des perceptions plus que de l'apprentissage mesuré. L'attention (n = 4) et la communication sociale (n = 5) sont les barrières les moins étudiées, et la rareté des plans (quasi) expérimentaux et longitudinaux explique que le travail sur le supérieur soit un examen de portée plutôt qu'une méta-analyse. La couverture penche vers le premier cycle et l'hémisphère Nord, la recherche portait sur des travaux évalués par les pairs en anglais, et les étudiants de cycles supérieurs sont sous-représentés. L'engagement et la satisfaction sont de faibles indicateurs.
+La deuxième est que la littérature décrit des déploiements et des perceptions plus que de l'apprentissage mesuré. L'attention (n = 4) et la communication sociale (n = 5) sont les barrières les moins étudiées, et la rareté des plans (quasi) expérimentaux et longitudinaux explique que le travail sur le supérieur soit un examen de portée plutôt qu'une méta-analyse. La couverture penche vers le premier cycle et l'hémisphère Nord, la recherche portait sur des travaux évalués par les pairs en anglais, et les étudiants de cycles supérieurs sont sous-représentés. L'engagement et la satisfaction sont de faibles indicateurs.
 
 La troisième est qu'un outil qui corrige une barrière peut en laisser une autre. Vérifiez l'outil contre la difficulté précise que l'étudiant rapporte, qu'il s'agisse de lecture et d'écriture, de gestion de l'étude, d'attention ou de communication sociale, et évaluez contre cette difficulté plutôt que contre ce que l'étudiant a ressenti à propos du produit. Demandez à l'étudiant ce qu'il faut compter. Les participants de Zastudil et al. et les intervenants des forums de Rezazadegan et al. décrivent tous leurs besoins avec plus de précision que les produits conçus pour eux.
 
@@ -134,13 +134,13 @@ Un diagnostic me dit quel outil acheter. Les barrières traversent les diagnosti
 
 Un aménagement est un arrangement personnel, donc la solution appartient à l'étudiant. Certains le sont, et ceux qui valent la peine d'être généralisés sont ceux que vous auriez conçus de toute façon. La segmentation a aidé tous les apprenants de son étude. Les changements de conception suppriment l'étape de divulgation, et avec elle la stigmatisation.
 
-L'engagement et la satisfaction montrent que l'outil a fonctionné. Ils montrent que l'étudiant l'a aimé. Ce corpus est surtout fait de déploiements et de perceptions, et seulement 6 des 40 études du supérieur servaient plus d'une barrière, de sorte qu'un étudiant satisfait n'est pas encore la preuve qu'une barrière est tombée.
+L'engagement et la satisfaction montrent que l'outil a fonctionné. Ils montrent que l'étudiant l'a aimé. La littérature est surtout faite de déploiements et de perceptions, et seulement 6 des 40 études du supérieur servaient plus d'une barrière, de sorte qu'un étudiant satisfait n'est pas encore la preuve qu'une barrière est tombée.
 
 L'outil porte le soutien, et l'enseignement est un extra. La jurisprudence traite un outil non enseigné comme la défaillance, et les experts en politique classaient l'autonomisation des étudiants et la littératie en IA comme leur thème le plus essentiel. Budgétez le temps d'enseignement avec la licence.
 
 ## Ce qui vous reviendra dessus
 
-**« Nous ne pouvons pas exiger un outil pour tout le monde. »** Là où l'outil est un élément de conception, l'exiger est précisément le but. La segmentation vidéo avec pauses fixes a amélioré tous les apprenants et ramené les erreurs et les hésitations des participants ayant un TDAH à parité, ce qui est le résultat de conception universelle qui supprime le besoin de divulgation. Les réglages accessibles par défaut portent la même logique : la lecture à voix haute, l'OCR et les outils de mise à niveau du texte reviennent dans les énoncés de politique validés par Shin et al. Leur corpus montre aussi le chemin qu'il reste à parcourir, puisque seulement 2 des 12 documents traitent spécifiquement des troubles de l'apprentissage, tandis que 18 thèmes présents dans les politiques générales sur l'IA ou sur d'autres handicaps, dont la [[privacy|protection des données]], la gestion du risque juridique et les lignes directrices éthiques, sont absents des politiques sur les troubles spécifiques de l'apprentissage.
+**« Nous ne pouvons pas exiger un outil pour tout le monde. »** Là où l'outil est un élément de conception, l'exiger est précisément le but. La segmentation vidéo avec pauses fixes a amélioré tous les apprenants et ramené les erreurs et les hésitations des participants ayant un TDAH à parité, ce qui est le résultat de conception universelle qui supprime le besoin de divulgation. Les réglages accessibles par défaut portent la même logique : la lecture à voix haute, l'OCR et les outils de mise à niveau du texte reviennent dans les énoncés de politique validés par Shin et al. Leur ensemble de documents montre aussi le chemin qu'il reste à parcourir, puisque seulement 2 des 12 documents traitent spécifiquement des troubles de l'apprentissage, tandis que 18 thèmes présents dans les politiques générales sur l'IA ou sur d'autres handicaps, dont la [[privacy|protection des données]], la gestion du risque juridique et les lignes directrices éthiques, sont absents des politiques sur les troubles spécifiques de l'apprentissage.
 
 **« Le sous-titrage et la traduction ne sont pas du [[student-support-and-success|soutien académique]]. »** Le sous-titrage est un début, pas l'ensemble de l'accès à la langue. Les questions visuelles et émotionnelles de Chen et al. existent parce qu'une transcription seule laisse un apprenant sourd reconstruire un contexte que la vidéo n'a jamais énoncé. Le classement des experts en politique contredit aussi l'objection. Leurs 36 énoncés validés se répartissent en cinq thèmes, l'apprentissage inclusif et [[personalized-learning|personnalisé]] étant le plus important avec 11 (30.56%) et l'[[ethics|éthique]], l'équité et l'inclusion avec 9 (25.00%), et la préparation des éducateurs avec 4 (11.11%), pourtant les experts classaient l'autonomisation des étudiants et la littératie en IA comme les plus essentiels des cinq, avec 6 énoncés (16.67%), à égalité avec l'évaluation et la recherche.
 

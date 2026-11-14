@@ -1,7 +1,7 @@
 ---
 title: "Comment gérer l'IA dans les travaux de groupe et collaboratifs ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 weight: 60
 type: faq
 foundations: [academic-integrity, agency]
@@ -11,7 +11,7 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/group-work-ai
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -97,7 +97,7 @@ Associez la note de groupe à une composante individuelle : une [[oral-assessmen
 
 Leurs limites voyagent avec la citation : une seule base de données, des articles de revues seulement, aucune attention à l'[[ethics|éthique]] ni à la vie privée, les deux premières années de la technologie, et aucun instrument d'évaluation du risque de biais appliqué. Lisez « catalyseurs » comme une description de pratiques observées, non comme un résultat mesuré.
 
-La détection est le mauvais instrument pour trier les contributions individuelles : aucune de ces six études ne teste les détecteurs en contexte de groupe, et les problèmes de détection au niveau individuel sont documentés ailleurs dans cette base de connaissances. La retenue demande à être interprétée avant d'être corrigée. Chen et Zou avertissent qu'un groupe qui renonce à l'IA peut éviter quelque chose d'inconnu plutôt qu'exercer une [[self-regulated-learning|autorégulation]] délibérée, et les deux appellent des réponses différentes : l'une est un problème d'enseignement, l'autre une position réfléchie que vous pouvez noter.
+La détection est le mauvais instrument pour trier les contributions individuelles : aucune de ces six études ne teste les détecteurs en contexte de groupe, et les problèmes de détection au niveau individuel sont bien documentés. La retenue demande à être interprétée avant d'être corrigée. Chen et Zou avertissent qu'un groupe qui renonce à l'IA peut éviter quelque chose d'inconnu plutôt qu'exercer une [[self-regulated-learning|autorégulation]] délibérée, et les deux appellent des réponses différentes : l'une est un problème d'enseignement, l'autre une position réfléchie que vous pouvez noter.
 
 Les coéquipiers simulés ne tranchent pas la question non plus. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] a affiné des [[llm|agents LLM]] sur des dialogues réels de participants (adaptateurs [[llm-training-and-fine-tuning|LoRA]]/QLoRA sur LLaMA 3.2-3B) pour modéliser 48 participants sur 3.824 tours et six codes thématiques, puis a comparé les discours réels et simulés par [[network-analysis|analyse de réseau épistémique]]. Le réseau simulé atteignait une distance de 0.17 par rapport au réseau empirique, sous le seuil de 0.30, avec une valeur p de permutation de 0.65, statistiquement indiscernable, bien qu'il ait légèrement surestimé les liens « contraintes techniques » et « conception » et sous-représenté les paramètres de données et de performance. C'est un article de cadre à confiance moyenne, et il soutient une seule affirmation : des agents propres à chaque participant peuvent reproduire un discours collaboratif réaliste. Il ne montre pas que les étudiants apprennent davantage avec des coéquipiers simulés.
 

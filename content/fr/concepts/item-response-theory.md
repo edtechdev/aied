@@ -1,13 +1,13 @@
 ---
 title: "Théorie de la réponse à l'item"
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T12:55:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,7 @@ L'IRT traite l'aptitude (θ) et les paramètres des items (difficulté, discrimi
 - **La calibration par division pour régner sur des banques en évolution continue :** [[bayesian-consensus-irt-item-banks-2026|Jewsbury et coll. (2026)]] traitent la recalibration de l'IRT comme un problème de mise à l'échelle plutôt que comme un problème d'ajustement. Lorsque la génération d'items fondée sur l'IA et la prédiction des paramètres fondée sur les traits rendent une banque plus grande, plus creuse et continuellement mise à jour, le réajustement de l'historique complet des réponses à chaque mise à jour devient régulièrement plus coûteux ; leur *calibration par consensus* calibre plutôt chaque période une seule fois, et combine une nouvelle période avec les postérieures déjà calculées des périodes antérieures. Deux traits la distinguent des travaux existants de division pour régner en IRT : les périodes ne partagent pas de métrique latente, de sorte que chacune est reliée à une métrique de référence par un critère de Haebara robuste résolu *séparément pour chaque tirage postérieur* (reportant l'erreur de liaison dans les postérieures liées), et chaque période constitue son propre ajustement hiérarchique, contribuant un a priori estimé, de sorte que le produit naïf des postérieures doit voir ce a priori divisé et un a priori de consensus réinstallé — ce qui se réduit à la règle du comité bayésien lorsque les a priori sont fixés. Contre un repère regroupé sur quatre périodes trimestrielles du Duolingo English Test, les moyennes postérieures s'accordaient à r = .998 (difficulté) et .991 (log-discrimination), avec des écarts-types postérieurs à r = .970 et .920, laissant une sous-dispersion légère (rapport d'écarts-types 0.91–0.98) qui était la plus forte dans le tertile d'exposition par période le plus faible. C'est la calibration IRT réingéniérée pour les conditions de passation que créent les banques d'items générées par l'IA.
 - **Combien rarement l'IRT ancre la validation des instruments :** une appréciation des instruments de [[ai-literacy|littératie en IA]] des [[teacher-role|enseignants]] quantifie l'absence de l'IRT plutôt que son usage. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore et Maat (2026)]] ont noté 33 instruments au regard d'une matrice de décision adaptée de COSMIN et de Terwee et coll. (2007) ; la validité structurelle était forte, 24 instruments (72.7%) étant de niveau A grâce à l'analyse factorielle confirmatoire, la modélisation PLS-SEM ou la modélisation IRT, mais aucun n'employait l'IRT ou Rasch comme donnée probante primaire, et seulement cinq instruments (15.2%) rapportaient des données probantes d'invariance de mesure ou de fonctionnement différentiel des items. Les auteurs plaident pour l'IRT et les tâches de performance aux côtés de l'[[self-assessment|autoévaluation]], afin de séparer la capacité validée de la confiance déclarée.
 - **Une alternative causale à l'IRT associative.** [[causal-modeling-competency-assessment-2026|Mangili et coll. (2026)]] soutiennent que l'IRT et les modèles d'apprenant fondés sur les réseaux bayésiens ne peuvent exprimer ni interventions ni contrefactuels, et élicitent plutôt des équations structurelles auprès d'experts ; sur une batterie de tests adaptatifs de 109 étudiants, le modèle élicité était légèrement moins prédictif (−287 contre −277 de log-vraisemblance de test), mais il supportait des requêtes contrefactuelles sur l'aide.
+- [[ai-second-language-listening-speaking-assessment-2025|Goh et Aryadoust (2025)]] poussent la limite : l'IRT répond à des questions de population, alors que l'évaluation comme apprentissage demande si un individu a changé, ce qui exige selon eux des modèles idiographiques comme les approches de Markov latent.
 
 ## Connexions
 

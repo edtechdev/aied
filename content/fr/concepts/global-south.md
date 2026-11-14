@@ -1,7 +1,7 @@
 ---
 title: "Sud global"
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -32,7 +32,7 @@ ai_assist:
 - Si un système d'IA performe bien sur des tests de référence construits à partir de données occidentales et anglophones, quelle confiance devriez-vous accorder au fait qu'il fonctionnera aussi bien pour vos étudiants ? Que voudriez-vous vérifier avant de lui faire confiance dans votre propre contexte ?
 - Imaginez un outil d'apprentissage dont les données d'entraînement et les métriques d'évaluation ont toutes été développées dans le Nord global. Quelles hypothèses sur la langue, les traditions de connaissance et les réalités éducatives pourrait-il encoder silencieusement — et qui est le plus susceptible d'être déformé par elles ?
 - Lorsque l'adoption de l'IA est étudiée, quelles salles de classe et quelles institutions tendent à dominer le corpus de données probantes ? Comment cela pourrait-il biaiser ce que nous croyons savoir quant à savoir si l'IA « fonctionne » en éducation ?
-- Cette page plaide pour traiter les épistémologies vécues et communautaires des apprenants comme faisant autorité, et pas seulement comme des ajouts aux modèles occidentaux. Que faudrait-il pour que votre propre pratique ou recherche liée à l'IA centre le savoir local plutôt que de l'importer d'ailleurs ?
+- Les épistémologies vécues et communautaires des apprenants doivent être traitées comme faisant autorité, et pas seulement comme des ajouts aux modèles occidentaux. Que faudrait-il pour que votre propre pratique ou recherche liée à l'IA centre le savoir local plutôt que de l'importer d'ailleurs ?
 - Les contraintes de ressources sont un thème récurrent dans les contextes du Sud global. Comment la promesse d'un soutien par l'IA peu coûteux et évolutif pourrait-elle à la fois réduire et creuser les écarts d'opportunité existants, selon la manière dont elle est conçue et déployée ?
 - Comment pourriez-vous déterminer si une technologie « adoptée » dans un contexte donné l'a été réellement parce qu'elle correspondait aux conditions locales — ou parce qu'on a supposé qu'elle se transférait ? Quelle donnée probante distinguerait les deux ?
 
@@ -40,9 +40,9 @@ ai_assist:
 
 ## Pourquoi cela compte pour l'AIED
 
-La recherche dominante sur l'IA et sur les technologies éducatives a historiquement été dominée par des ensembles de données et des contextes [[governance|institutionnels]] occidentaux et anglophones. Cela crée deux problèmes : (1) les [[ai-technologies|systèmes d'IA]] entraînés sur de telles données peuvent sous-performer ou déformer les apprenants dans les contextes du Sud global, et (2) les [[benchmark|repères de référence]] d'évaluation construits dans le Nord global peuvent ne pas refléter les réalités éducatives, les langues ou les traditions de connaissance des autres régions. La recherche issue des contextes du Sud global dans cette base de connaissances couvre des ensembles de données, des repères de référence et des études d'adoption technologique ancrés culturellement, avec des implications pour la [[ai-literacy|littératie en IA]] et pour l'enseignement [[higher-ed|supérieur]] et [[k-12|primaire et secondaire]].
+La recherche dominante sur l'IA et sur les technologies éducatives a historiquement été dominée par des ensembles de données et des contextes [[governance|institutionnels]] occidentaux et anglophones. Cela crée deux problèmes : (1) les [[ai-technologies|systèmes d'IA]] entraînés sur de telles données peuvent sous-performer ou déformer les apprenants dans les contextes du Sud global, et (2) les [[benchmark|repères de référence]] d'évaluation construits dans le Nord global peuvent ne pas refléter les réalités éducatives, les langues ou les traditions de connaissance des autres régions. La recherche issue des contextes du Sud global couvre des ensembles de données, des repères de référence et des études d'adoption technologique ancrés culturellement, avec des implications pour la [[ai-literacy|littératie en IA]] et pour l'enseignement [[higher-ed|supérieur]] et [[k-12|primaire et secondaire]].
 
-## Les applications dans la base de connaissances
+## Applications
 
 - **Données et repères de référence ancrés culturellement :** [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] fournit un ensemble de données d'instructions [[multilingual-learning|multilingue]] sur les systèmes de connaissance indiens ; [[nsmq-riddles-science-math-benchmark|NSMQ Riddles]] introduit un repère de référence [[stem-education|STIM]] ghanéen, l'un des premiers ensembles de données d'évaluation éducative du Sud global.
 - **Conscience de l'éthique de l'IA dans l'enseignement supérieur ghanéen :** [[ai-ethical-awareness-ghana-students-2026|Acquah et coll. (2026)]] ont validé une échelle de conscience éthique de l'IA à trois facteurs (autonomie, bienfaisance, équité) auprès de 509 étudiants [[higher-ed|universitaires]] au Ghana, trouvant cinq profils latents allant d'une conscience uniformément très élevée à un petit groupe n'en ayant presque aucune — plus faible sur la bienfaisance — et aucune différence selon le genre, fournissant ainsi un point d'ancrage de mesure du Sud global à la littérature sur l'[[ethics|éthique]] de l'IA.

@@ -1,7 +1,7 @@
 ---
 title: "Recommandations sur l'IA selon l'âge"
 created: "2026-11-12T13:44:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 type: resource
 summary: "Un guide interactif du Compass Collaborative de la Harvard Graduate School of Education qui associe neuf tranches d'âge, de 0–2 à 26–40, à dix domaines du développement et demande, à chaque intersection, ce qui est en cours de développement, quelles recherches sur l'IA existent et comment l'IA pourrait aider ou entraver — explicitement comme des hypothèses et non des résultats établis."
 url: https://compass.gse.harvard.edu/explore/
@@ -16,7 +16,7 @@ technology: [generative-ai]
 audience: [parents and families, instructors, administrators, learners, policymakers, researchers]
 level: [preschool, primary education, secondary, higher ed, adult learning]
 translation_of: resources/ai-guidance-by-age
-source_updated: "2026-11-12T13:50:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -47,7 +47,7 @@ Le guide est honnête sur son propre statut, et la page doit être lue de la mê
 
 Deux limites supplémentaires comptent pour l'enseignement. Les recommandations sont des invitations à concevoir, non des interventions testées ; rien sur le site ne rapporte de résultat. Et la structure par tranches d'âge impose une grille grossière à un développement qui varie à l'intérieur des tranches, selon les cultures et les contextes, ce que le guide reconnaît lui-même.
 
-Le cadrage à retenir pour la pratique est celui du site lui-même : garder la boucle humaine, puis déterminer où l'IA s'y insère, plutôt que de placer un point de contrôle humain dans une boucle qui appartient à la machine — la même préoccupation que le corpus consigne comme risque de [[cognitive-offloading|déchargement cognitif]] lorsqu'un outil reprend la partie de la tâche qui faisait le travail développemental.
+Le cadrage à retenir pour la pratique est celui du site lui-même : garder la boucle humaine, puis déterminer où l'IA s'y insère, plutôt que de placer un point de contrôle humain dans une boucle qui appartient à la machine — la même préoccupation que la recherche consigne comme risque de [[cognitive-offloading|déchargement cognitif]] lorsqu'un outil reprend la partie de la tâche qui faisait le travail développemental.
 
 ## Concepts liés
 

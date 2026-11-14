@@ -1,7 +1,7 @@
 ---
 title: "Apprendre en enseignant"
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -9,7 +9,7 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -31,7 +31,7 @@ ai_assist:
 
 - Rappelez-vous un moment où vous n'avez vraiment compris quelque chose qu'après l'avoir expliqué à quelqu'un d'autre. Que se passait-il mentalement — et pourquoi l'enseignement produit-il, selon vous, une compréhension plus profonde que le simple fait d'étudier seul ?
 - Une opinion courante veut que l'enseignement soit réservé aux experts, et que les novices n'aient rien à offrir. Or, « apprendre en enseignant » repose sur la prémisse inverse : se préparer à enseigner vous force à organiser le savoir et à trouver vos propres lacunes. Comment cela recadre-t-il la question de savoir qui bénéficie de l'enseignement ?
-- Cette page décrit les « agents enseignables » — des logiciels que les étudiants enseignent dans le cadre de leur apprentissage. Avec un grand modèle de langue, vous pouvez configurer un chatbot en tutoré novice faillible qui pose des questions et fait des erreurs. Que faudrait-il concevoir dans un tel tutoré pour qu'il améliore réellement l'apprentissage, au lieu de simplement bavarder ?
+- Les « agents enseignables » sont des logiciels que les étudiants enseignent dans le cadre de leur apprentissage. Avec un grand modèle de langue, vous pouvez configurer un chatbot en tutoré novice faillible qui pose des questions et fait des erreurs. Que faudrait-il concevoir dans un tel tutoré pour qu'il améliore réellement l'apprentissage, au lieu de simplement bavarder ?
 - Un défi est l'« ingénierie de la faillibilité » : les modèles d'IA sont entraînés à donner des réponses expertes et fluides, ce qui est l'opposé du novice en difficulté que le paradigme apprendre en enseignant recherche. Pourquoi un tutoré sujet aux erreurs pourrait-il être plus efficace pour l'apprentissage qu'un tutoré correct ?
 - Un agent enseignable fondé sur ChatGPT a amélioré l'apprentissage, mais sa tendance à générer du code correct a limité la pratique de la correction d'erreurs. Comment un outil qui donne toujours la bonne réponse pourrait-il léser l'apprenant qui a besoin de s'exercer à repérer et à corriger les erreurs ?
 - Si vous deviez concevoir une activité d'apprentissage en enseignant pour votre propre classe, qu'est-ce qui rendrait la tâche d'enseignement *contraignante* au point que les étudiants y investissent un véritable effort, au lieu de copier-coller une réponse ?
@@ -48,7 +48,7 @@ Apprendre en enseignant repose sur le constat que se préparer à enseigner et e
 
 Les **agents enseignables** sont les systèmes logiciels par lesquels l'apprentissage en enseignant est opérationnalisé — un apprenant enseigne un système dans le cadre de son apprentissage. Les agents enseignables traditionnels étaient fondés sur des règles ou sur la recherche documentaire, et ne pouvaient répondre qu'à un nombre limité de commandes ; leur limitation principale était l'incapacité de mener un dialogue en langage naturel. Les [[llm|grands modèles de langue]] changent cela : ils peuvent adopter souplement des rôles par l'[[prompt-engineering|ingénierie des invites]] — y compris le rôle d'un « tutoré » qui pose des questions ou fait des erreurs — et mener un dialogue ouvert, rendant le LbT possible dans des domaines moins structurés (l'écriture, le vocabulaire) que ce n'était le cas auparavant.
 
-Le corpus de données probantes de la base de connaissances rattache ce déplacement aux **agents enseignables conversationnels fondés sur les grands modèles de langue** :
+Les données probantes rattachent ce déplacement aux **agents enseignables conversationnels fondés sur les grands modèles de langue** :
 
 - **ChatGPT comme agent enseignable** ([[chatgpt-teachable-agent-programming-lbt-2024|Chen et coll.]]) soutient le LbT en programmation, améliorant les gains de connaissance, la capacité de programmation et l'[[self-regulated-learning|apprentissage autorégulé]] — bien que sa tendance à générer du code correct limite la pratique de la correction d'erreurs.
 - **Explique à grande échelle** ([[explique-teachable-agent-algorithms-546-students-2026|Wang et coll.]]) a déployé un agent enseignable par IA (Algorithm Apprentice) auprès de 546 étudiants sur un semestre de 11 semaines, montrant que le dialogue orienté vers l'explication prédit moins de soumissions de quiz incorrectes, tandis que la réutilisation de contenus externes en prédit davantage.
@@ -67,7 +67,7 @@ Un défi de conception central pour les agents enseignables fondés sur les gran
 
 ## Questionnement, autorégulation et apprentissage actif
 
-Deux affordances supplémentaires reviennent à travers la base de connaissances :
+Deux affordances supplémentaires reviennent à travers les données probantes :
 
 - **Les questions identifient les lacunes de connaissance.** Les systèmes de LbT emploient les questions générées par l'apprenant pour exposer les lacunes et renforcer la compréhension, et les [[teaching-ai-vocabulary-lbt-llms-2026|questions générées par les grands modèles de langue]] remplacent les générateurs rigides fondés sur des modèles types.
 - **Le réenseignement fait apparaître ce que la clarification manque.** Dans un système de révision post-cours réunissant 22 participants, le réenseignement réflexif d'un agent Pair a constamment exposé les écarts entre ce que les apprenants croyaient avoir compris et ce qu'ils pouvaient articuler, que la clarification fondée sur le cours seule n'avait pas révélés ([[knowloop-confusion-to-consolidation-2026|Fang et Reidsma (2026)]]).
@@ -122,7 +122,7 @@ La [[research-methods-aied|recherche]] ci-dessus converge vers quelques patrons 
 
 ## Concepts liés
 
-- [[pedagogical-patterns]] — Expliquer à un élève-IA : la séquence la mieux étayée de la base de connaissances
+- [[pedagogical-patterns]] — Expliquer à un élève-IA : la séquence la mieux étayée de la littérature
 - [[generative-ai]]
 - [[active-learning]]
 - [[constructivist]]

@@ -1,13 +1,13 @@
 ---
 title: "Quel est l'impact de l'IA sur les étudiants ?"
 created: "2026-09-22T19:14:32-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 weight: 82
 foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/how-ai-impacts-students
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -78,7 +78,7 @@ Quand l'IA produit le texte, le résultat peut cesser de vous sembler vôtre, et
 
 L'usage de l'IA est associé à l'[[anxiety-and-stress|anxiété et au stress]], à propos du remplacement, des évaluations que vous ne pouvez pas anticiper et de la difficulté à suivre (voir l'[[kim-ai-anxiety-comprehensive-analysis|analyse complète de l'anxiété liée à l'IA]]). Association est le mot juste, et la littérature de mesure y prend garde.
 
-Zhang, Shi et Lu ont interrogé 1.484 étudiants de premier cycle et ont trouvé l'anxiété liée à l'IA négativement corrélée à la motivation académique (r = -0.175) et à la [[regulation|régulation]] émotionnelle (r = -0.172), la régulation émotionnelle médiant partiellement le chemin de l'anxiété vers la motivation (effet indirect = -0.076). La durée d'usage quotidien ne prédisait presque rien (r = 0.053). Leur conclusion est que l'enseignement de la littératie doit s'associer à un soutien à la régulation émotionnelle et à la [[metacognition|métacognition]], et non simplement élargir l'accès aux outils ([[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang et al., anxiété liée à l'IA et motivation académique]]).
+Zhang, Shi et Lu ont interrogé 1,484 étudiants de premier cycle et ont trouvé l'anxiété liée à l'IA négativement corrélée à la motivation académique (r = -0.175) et à la [[regulation|régulation]] émotionnelle (r = -0.172), la régulation émotionnelle médiant partiellement le chemin de l'anxiété vers la motivation (effet indirect = -0.076). La durée d'usage quotidien ne prédisait presque rien (r = 0.053). Leur conclusion est que l'enseignement de la littératie doit s'associer à un soutien à la régulation émotionnelle et à la [[metacognition|métacognition]], et non simplement élargir l'accès aux outils ([[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang et al., anxiété liée à l'IA et motivation académique]]).
 
 Une mise en garde avant de vous diagnostiquer. Une synthèse critique de 51 documents sur l'[[conversational-ai|IA conversationnelle]] constate que confiance, dépendance, dépendance excessive, attachement et addiction sont régulièrement confondus, et que les corrélats transversaux avec la solitude, l'anxiété, la fatigue, la procrastination et un [[critical-thinking|esprit critique]] plus faible n'établissent pas de causalité. Un usage fréquent n'est pas une dépendance sans perte de contrôle ou préjudice fonctionnel, donc une semaine chargée n'est pas un trouble ([[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan, synthèse sur l'engagement et la dépendance envers l'IA conversationnelle]]).
 

@@ -1,7 +1,7 @@
 ---
 title: "Conduite du changement"
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -10,7 +10,7 @@ confidence: medium
 institutions: [change-management]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T07:48:20-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -33,9 +33,9 @@ ai_assist:
 - La conduite du changement est ici décrite comme le gouvernement d'une adaptation continue dans l'incertitude, parce que l'IA générative est arrivée dans les classes avant que les preuves pédagogiques ne s'accumulent. Que signifie conduire le changement lorsqu'on ne peut attendre les meilleures pratiques mais qu'on ne peut pas non plus mettre à l'échelle de façon responsable des innovations non éprouvées ?
 - Un obstacle récurrent est l'écart entre l'intention politique descendante et la réalité de la classe — par exemple des politiques qui encouragent l'IA générative alors que les programmes de cours l'interdisent, laissant les enseignants improviser. Pourquoi, à votre avis, la politique et la pratique se séparent-elles si facilement autour de l'IA ?
 - La [[research-methods-aied|recherche]] constate que l'orientation pédagogique d'un enseignant — ce qu'il croit que l'IA signifie pour le savoir disciplinaire — est le plus fort prédicteur de l'adoption, alors que les initiatives institutionnelles et les données démographiques sont d'étonnamment faibles prédicteurs. Qu'est-ce que cela suggère quant à l'endroit où les efforts de changement devraient concentrer leur énergie ?
-- La page note que seuls 7% des établissements ont créé des postes de direction de l'IA de haut niveau alors que 49% considèrent l'IA comme une priorité stratégique. Qu'est-ce que cela signifie, à votre avis, lorsqu'un établissement qualifie une chose de stratégique mais ne la dote pas d'un leadership ?
+- Près de la moitié des établissements considèrent l'IA comme une priorité stratégique ; 7% ont créé un poste de direction senior pour elle. Qu'est-ce que cela signifie, à votre avis, lorsqu'un établissement qualifie une chose de stratégique mais ne la dote pas d'un leadership ?
 - Un modèle de jeu de coordination explique pourquoi les déclarations de politique échouent seules : l'[[student-ai-interaction|usage de l'IA par les étudiants]] est un processus collectif de formation des normes, et de petits changements bien calibrés des incitations à l'évaluation peuvent déclencher des bascules rapides à l'échelle de la cohorte vers un usage responsable. En quoi modifier les incitations à l'évaluation pourrait-il faire plus que ce qu'une politique publiée ne fera jamais ?
-- La page avertit qu'une adoption fragmentée élargit les écarts existants — l'inclusion, l'équité et la durabilité sont souvent négligées même là où les principes éthiques fondamentaux sont adoptés. Quels [[learners|apprenants]] ou quels établissements soupçonnez-vous de perdre lorsque le changement est conduit de façon inégale, et comment les maintiendriez-vous au centre ?
+- Une adoption qui progresse de façon inégale peut laisser de côté l'inclusion, l'équité et la durabilité, même là où les principes éthiques sont approuvés. Quels [[learners|apprenants]] ou quels établissements soupçonnez-vous de perdre lorsque le changement est conduit de façon inégale, et comment les maintiendriez-vous au centre ?
 
 ## Introduction
 
@@ -59,6 +59,8 @@ Les travaux académiques convergent vers plusieurs leviers de conduite du change
 **La réforme de l'évaluation** est un champ de bataille central de la conduite du changement. L'[[ai-assessment-scale-reform|étude sur l'AI Assessment Scale]] montre la mise en œuvre du cadre entravée par des incohérences entre départements, des pressions de charge de travail et de l'incertitude, les personnels décrivant le processus comme « un peu de chaos et de folie ». L'[[ethical-ai-higher-ed-game-theory|modèle de jeu de coordination]] offre un compte formel de la raison pour laquelle les déclarations de politique échouent seules : l'usage de l'IA par les étudiants est un processus collectif de formation des normes, et de petits changements bien calibrés des incitations à l'évaluation réflexive peuvent déclencher des bascules rapides à l'échelle de la cohorte vers un usage responsable, alors que des incitations faibles ou désalignées laissent persister les pratiques opportunistes. Cela soutient une gouvernance menée par la pédagogie plutôt que par la surveillance. L'[[ai-adaptation-gap-higher-education-2026|enquête sur l'écart d'adaptation à l'IA]] ajoute une dimension de [[stakeholders|parties prenantes]] : les étudiants déclarent une intensité d'usage de l'IA et une utilité perçue plus élevées que le corps enseignant et le personnel administratif, alors que ces derniers font état de préoccupations plus fortes en matière d'[[academic-integrity|intégrité académique]] — et l'utilité perçue pilote la [[trust|confiance]] (β = 0.402) plus fortement que la clarté de la politique institutionnelle (β = 0.223).
 
 Un atelier sur les pratiques d'évaluation réunissant 73 éducateurs en informatique fournit la contrepartie du côté de la classe. Presque chaque changement décrit par les participants avait été opéré par un enseignant individuel dans un seul cours, sans coordination institutionnelle — des collègues d'un même département adoptant des positions opposées sans rien pour les concilier — et la réponse curriculaire que préconise le rapport ne se conclura pas à temps pour aider les étudiants actuellement inscrits ; on a aussi observé que la difficulté des devoirs se périme sur un cycle d'environ un semestre, ce qui fait du calibrage par rapport à la capacité actuelle des modèles un atout institutionnel périssable plutôt qu'une décision ponctuelle ([[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]).
+
+**Le même usage d'un outil peut innover ou épuiser, et l'établissement décide lequel.** [[ding-genai-colleague-teacher-depletion-2026|Ding et coll. (2026)]] ont interrogé 436 enseignants en design à l'université et trouvé deux trajectoires significatives issues de l'usage de l'IA générative. L'une passe par l'[[self-efficacy|auto-efficacité]] pédagogique (β = 0.322) et le bien-être (β = 0.300) vers un travail plus innovant et moins de retrait ; l'autre passe par l'anxiété liée à l'IA (β = 0.268) et le stress professionnel (β = 0.262) vers l'inverse. Le soutien organisationnel perçu renforçait les liens habilitants (b = 0.153 et b = 0.176), tandis que la rupture du contrat psychologique renforçait les liens épuisants (b = 0.171 et b = 0.194). Le soutien n'est pas un supplément de moral : il aide à décider quelle trajectoire emprunte un déploiement.
 
 ## Implications
 
@@ -97,6 +99,7 @@ La conduite du changement est le complément institutionnel de l'intégration au
 
 ## Articles liés
 
+- [[ding-genai-colleague-teacher-depletion-2026]] — 436 enseignants en design : l'usage de l'IA générative augmente à la fois l'auto-efficacité et l'anxiété liée à l'IA, et le soutien organisationnel décide quelle trajectoire domine (Ding et coll., 2026)
 - [[mata-sustaining-ai-enabled-student-support-2026]] — Faire durer un soutien aux étudiants permis par l'IA : étude de mise en œuvre et d'impact sur quatre ans d'un chatbot institutionnel (Mata, Russell et Page 2026)
 - [[institutional-change-framework-ai]] — cadre à six dimensions pour adapter les modèles de changement institutionnel à l'IA comme technologie d'arrivée
 - [[leveraging-complex-systems-leading-for-transformative-change]] — cadre SPARK et leadership de la complexité pour un changement transformateur

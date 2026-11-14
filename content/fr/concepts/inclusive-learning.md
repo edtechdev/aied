@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: "Apprentissage inclusif"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T12:55:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -31,7 +31,7 @@ ai_assist:
 ## Questions à examiner
 
 - Un outil accessible ne garantit pas un enseignement inclusif, et une technologie d'assistance ne garantit pas une autonomie réelle. Quelle est la différence entre lever un obstacle lié à un format et concevoir une éducation où chacun peut participer de manière signifiante ?
-- La page distingue apprentissage inclusif, accessibilité, technologie d'assistance, éducation spécialisée et conception universelle. Où se situe l'IA en éducation dans votre propre contexte — et à quelle question cherchez-vous réellement à répondre ?
+- L'apprentissage inclusif est le terme chapeau, et les quatre concepts qu'il englobe répondent chacun à une question différente. Où se situe l'IA en éducation dans votre propre contexte — et à quelle question cherchez-vous réellement à répondre ?
 - Une étude a montré que des vidéos segmentées par l'IA avec des pauses fixes supprimaient l'écart de performance entre apprenants TDAH et non-TDAH. Comment la conception pour les besoins d'un groupe peut-elle améliorer l'apprentissage de tout le monde ?
 - Les systèmes d'IA sont décrits comme risquant de créer de nouveaux écarts d'accessibilité alors même qu'ils en suppriment d'anciens. Quel type d'apprenant un outil d'IA textuel, visuel et toujours en ligne pourrait-il silencieusement exclure ?
 - La recherche sur l'évaluation inclusive met au jour une tension entre les mesures anti-tricherie et la prise en compte des apprenants ayant des besoins de traitement visuel. Lorsque sécurité et accessibilité s'opposent, comment ce compromis devrait-il être tranché — et par qui ?
@@ -43,11 +43,11 @@ L'apprentissage inclusif est l'engagement de conception selon lequel l'éducatio
 
 ## Comment les concepts apparentés s'articulent
 
-L'apprentissage inclusif est le concept **parapluie** ; les pages ci-dessous se situent à l'intérieur, chacune répondant à une question différente. Elles se recouvrent mais ne sont pas interchangeables — savoir à laquelle appartient une affirmation garde la base de connaissances précise :
+L'apprentissage inclusif est le concept **parapluie** ; les pages ci-dessous se situent à l'intérieur, chacune répondant à une question différente. Elles se recouvrent mais ne sont pas interchangeables — savoir à laquelle appartient une affirmation garde l'analyse précise :
 
 | Concept | Question centrale à laquelle il répond | Focale typique |
 |---|---|---|
-| **Apprentissage inclusif** *(cette page)* | Comment [[design-education|concevoir l'éducation]] pour que tous les apprenants puissent participer de manière signifiante ? | La conception globale de l'enseignement face à la variabilité des apprenants |
+| **Apprentissage inclusif** *(le terme chapeau)* | Comment [[design-education|concevoir l'éducation]] pour que tous les apprenants puissent participer de manière signifiante ? | La conception globale de l'enseignement face à la variabilité des apprenants |
 | **[[accessibility]]** | Chacun peut-il percevoir et utiliser le *format/le support* ? | Sous-titres, texte alternatif, transcriptions, contraste, compatibilité clavier/lecteur d'écran, WCAG |
 | **[[assistive-technology]]** | Quels outils/équipements comblent l'écart d'accès d'un individu ? | Lecteurs d'écran, synthèse et reconnaissance vocales, braille/tactile, sous-titrage, adaptations par l'IA |
 | **[[special-education]]** | Comment dispenser un enseignement à des apprenants ayant un handicap diagnostiqué ? | PEI, adaptations individualisées, tutorat spécifique au handicap — **terme relevant avant tout du [[k-12|K-12]] (IDEA/droit à l'accompagnement)** |
@@ -55,7 +55,7 @@ L'apprentissage inclusif est le concept **parapluie** ; les pages ci-dessous se 
 
 En pratique : la **conception universelle de l'apprentissage (UDL)** est la philosophie de conception qui *prévient* les obstacles ; l'**accessibilité** est la propriété qui supprime les obstacles de *format* ; la **technologie d'assistance** est la couche d'*outils* que les individus utilisent ; l'**éducation spécialisée** est le domaine *pédagogique* des handicaps diagnostiqués — et c'est avant tout un terme du **K-12**, tandis que dans l'[[higher-ed|enseignement supérieur]] (et de plus en plus aussi au K-12), le cadre le plus courant est celui de la [[universal-design-for-learning|conception universelle de l'apprentissage]]. L'**apprentissage inclusif** est le parapluie qui les réunit autour de l'objectif partagé d'une participation équitable. Un outil accessible ne garantit pas un enseignement inclusif, et une technologie d'assistance ne garantit pas une autonomie réelle — c'est pourquoi le parapluie doit les embrasser tous.
 
-L'apprentissage inclusif se situe à l'intersection de [[equity-in-ai-education|l'équité dans l'IA en éducation]], du [[learning-design|design de l'apprentissage]] et de [[special-education|l'éducation spécialisée]], et s'appuie sur la couche d'outils concrets que constituent [[assistive-technology|les technologies d'assistance]] ainsi que sur la propriété de conception qu'est [[accessibility|l'accessibilité]]. À la différence d'aménagements étroits qui rajoutent l'accès à des systèmes existants, la perspective de l'apprentissage inclusif — ancrée dans la [[universal-design-for-learning|conception universelle de l'apprentissage]] — soutient que les environnements devraient être conçus d'emblée pour toute l'étendue de la diversité humaine. Les articles de cette base de connaissances explorent comment l'IA peut le permettre, par la transformation automatisée des contenus, des interfaces d'évaluation adaptatives, et des outils conçus à partir de l'expérience vécue des utilisateurs [[neurodiversity|neurodivergents]] comme point de départ.
+L'apprentissage inclusif se situe à l'intersection de [[equity-in-ai-education|l'équité dans l'IA en éducation]], du [[learning-design|design de l'apprentissage]] et de [[special-education|l'éducation spécialisée]], et s'appuie sur la couche d'outils concrets que constituent [[assistive-technology|les technologies d'assistance]] ainsi que sur la propriété de conception qu'est [[accessibility|l'accessibilité]]. À la différence d'aménagements étroits qui rajoutent l'accès à des systèmes existants, la perspective de l'apprentissage inclusif — ancrée dans la [[universal-design-for-learning|conception universelle de l'apprentissage]] — soutient que les environnements devraient être conçus d'emblée pour toute l'étendue de la diversité humaine. La recherche explore comment l'IA peut le permettre, par la transformation automatisée des contenus, des interfaces d'évaluation adaptatives, et des outils conçus à partir de l'expérience vécue des utilisateurs [[neurodiversity|neurodivergents]] comme point de départ.
 
 ### Thèmes de recherche clés
 
@@ -79,6 +79,7 @@ Les vidéos riches en équations peuvent être rendues accessibles plutôt que t
 
 **Des outils accessibles en pratique** montrent comment l'IA peut élargir la participation. **[[suacode-african-students-motivations|SuaCode]]** a démontré que des cours de programmation sur smartphone atteignent des étudiants dans des contextes africains à faibles ressources où moins de 1% disposent de compétences en programmation. **[[embodied-string-learning-blindness-low-vision-musicians|Pimenova et al.]]** ont travaillé avec des musiciens aveugles et malvoyants pour développer des stratégies d'apprentissage non visuelles, en plaçant au centre un [[embodied-learning|design incarné]] guidé par le handicap. **[[ludia-udl-ai-thought-partner-2026|LUDIA]]** fournit un partenaire de réflexion par IA gratuit, privé et multilingue reliant les enseignants aux principes de la conception universelle de l'apprentissage. **[[special-r1-rl-special-education|Special-R1]]** étend l'[[reinforcement-learning|apprentissage par renforcement]] à la modélisation de la diversité cognitive et communicative à travers les profils de handicap.
 
+**La politique prend du retard sur le déploiement.** Aucune des 100 universités les mieux classées n'avait de politique d'accessibilité de l'IA, alors que 93% déployaient des services de campus alimentés par l'IA ([[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]]).
 ### Connexions avec les concepts voisins
 
 L'apprentissage inclusif est profondément relié à [[equity-in-ai-education|l'équité dans l'IA en éducation]] — l'accessibilité n'est pas seulement une préoccupation technique mais la question de savoir qui peut participer à l'apprentissage. Il se relie à [[accessibility|l'accessibilité]] comme couche d'accès concrète et à [[assistive-technology|la technologie d'assistance]] comme couche d'outils, à [[universal-design-for-learning|la conception universelle de l'apprentissage]] comme fondement théorique, à [[special-education|l'éducation spécialisée]] pour les approches spécifiques au handicap, au [[learning-design|design de l'apprentissage]] pour la structuration des cours et des outils, et à [[neurodiversity|la neurodiversité]] comme grille de lecture qui recadre la différence comme diversité plutôt que comme déficit. Les travaux sur les robots en langue des signes et les outils tactiles relient l'accessibilité à la [[educational-robotics|robotique éducative]] et à [[educational-nlp|l'nlp éducative]], tandis que la simplification de textes la relie aux [[sociocultural-learning|apprentissages socioculturels]] et à l'[[adaptive-learning|apprentissage adaptatif]]. Les liens avec l'[[ai-education|IA en éducation]] et l'[[generative-ai|IA générative]] mettent en lumière à la fois la promesse (l'adaptation automatisée des contenus) et le péril (des systèmes d'IA qui reproduisent l'exclusion).
@@ -97,7 +98,7 @@ L'apprentissage inclusif est profondément relié à [[equity-in-ai-education|l'
 
 **« Un outil accessible est un cours inclusif. »** L'accessibilité répond à une question — chacun peut-il percevoir le format et agir sur lui — ce qui est nécessaire et très loin de suffire. L'apprentissage inclusif demande aussi quels outils comblent l'[[digital-divide|écart d'accès]] d'un individu et comment la conception doit anticiper la variation plutôt que la rattraper après coup. Une interface compatible avec un lecteur d'écran, dans un cours dont la structure d'évaluation présuppose une pièce calme, un haut débit fiable et un temps ininterrompu, a résolu le problème d'affichage et laissé intact le problème de participation.
 
-**« Fournir une technologie d'assistance fournit de la capacité d'agir. »** Les deux sont distincts, et le cadrage même de la page le dit : la technologie d'assistance ne garantit pas une capacité d'agir significative. Un outil qui permet à un apprenant d'accomplir la tâche requise peut aussi l'orienter vers la version la plus étroite de celle-ci, et la différence entre un étayage et un plafond est invisible dans une métrique d'adoption.
+**« Fournir une technologie d'assistance fournit de la capacité d'agir. »** Les deux sont distincts : la technologie d'assistance ne garantit pas une capacité d'agir significative. Un outil qui permet à un apprenant d'accomplir la tâche requise peut aussi l'orienter vers la version la plus étroite de celle-ci, et la différence entre un étayage et un plafond est invisible dans une métrique d'adoption.
 
 **« Les étudiants en difficulté devraient simplement apprendre à mieux formuler leurs invites. »** Cela convertit un défaut du système en déficit de l'apprenant. À tâche sous-jacente tenue fixe, l'exactitude du modèle n'a progressé que de **82,4 % pour une formulation de faible littératie à 83,4 % pour une formulation experte** — un écart d'un point — tandis qu'exiger de mieux [[prompt-engineering|formuler]] ajoute une nouvelle exclusion à celle qui existe déjà. Le levier réside dans le traitement, côté système, de la variation linguistique, non dans un entraînement correctif aux invites.
 

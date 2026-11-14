@@ -1,7 +1,7 @@
 ---
 title: "Technologies d'assistance"
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-11-05T18:24:25-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
@@ -9,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -34,9 +34,9 @@ ai_assist:
 ## Questions à examiner
 
 - Les technologies d'assistance constituent la couche d'outils de l'accessibilité — les dispositifs et logiciels précis que les individus utilisent pour combler les écarts d'accès. Avant de lire, considériez-vous l'accessibilité et les technologies d'assistance comme une seule et même chose ? En quoi les traiter comme distinctes pourrait changer votre façon de concevoir des environnements d'apprentissage ?
-- La [[research-methods-aied|recherche]] montre que les interventions fondées sur l'IA produisent un effet positif moyen sur les [[learning-gains|résultats d'apprentissage]] des étudiants en situation de handicap (g = 0.588). Or la page avertit que les outils d'accès ne garantissent pas à eux seuls un enseignement inclusif ni l'autonomie de l'apprenant. Quelle est la différence entre donner accès à un étudiant et réellement l'inclure ?
-- La page note que les documents américains de politique en matière d'IA n'abordent guère les technologies d'assistance ni les aménagements pour les étudiants présentant des troubles spécifiques de l'apprentissage. Pourquoi, à votre avis, les aménagements passent-ils si facilement à travers les mailles des politiques d'IA — et qui y perd ?
-- L'[[generative-ai|IA générative]] peut sous-titrer automatiquement, simplifier des textes et produire des alternatives tactiles — ce qui réduit le coût de l'adaptation. Mais la page invite à évaluer la qualité des alternatives produites par l'IA du point de vue de l'exactitude [[pedagogy|pédagogique]]. Que pourrait-il arriver de fâcheux si une version « simplifiée » ou « tactile » déformait le contenu qu'elle est censée rendre accessible ?
+- La [[research-methods-aied|recherche]] sur les interventions fondées sur l'IA rapporte des [[learning-gains|gains]] pour les étudiants en situation de handicap. Or les outils d'accès ne garantissent pas à eux seuls un enseignement inclusif ni l'autonomie de l'apprenant. Quelle est la différence entre donner accès à un étudiant et réellement l'inclure ?
+- Pourquoi les documents américains de politique en matière d'IA n'abordent-ils guère les technologies d'assistance ni les aménagements pour les étudiants présentant des troubles spécifiques de l'apprentissage, et qui y perd lorsque les aménagements passent à travers les mailles ?
+- L'[[generative-ai|IA générative]] peut sous-titrer automatiquement, simplifier des textes et produire des alternatives tactiles — ce qui réduit le coût de l'adaptation. Mais que devez-vous vérifier à la main dans une alternative produite par l'IA avant de faire confiance à son exactitude [[pedagogy|pédagogique]] ? Que pourrait-il arriver de fâcheux si une version « simplifiée » ou « tactile » déformait le contenu qu'elle est censée rendre accessible ?
 - L'IA étend les outils d'assistance, des compagnons d'apprentissage vocaux aux graphiques tactiles en passant par les outils de langue des signes. En tant qu'éducateur ou concepteur, quel obstacle propre à un apprenant voudriez-vous traiter en premier avec l'IA — et que vous faudrait-il savoir sur cet apprenant avant de choisir un outil ?
 
 ## Introduction
@@ -60,7 +60,7 @@ Une revue de cadrage de 2026 portant sur les [[ai-technologies|Technologies de l
 - **Assortir l'outil à l'apprenant et à la tâche.** Les lecteurs d'écran, les sous-titres, la parole et les sorties tactiles traitent chacun des obstacles différents — choisissez en fonction des besoins de la personne et du format du contenu.
 - **Exploiter l'IA pour réduire le coût des adaptations d'assistance.** L'IA peut sous-titrer automatiquement, simplifier des textes et produire des alternatives, mais évaluez la qualité des productions du point de vue de l'exactitude pédagogique.
 - **Ancrer l'offre dans les politiques.** Référez-vous à l'Assistive Technology Act, à l'IDEA et aux WCAG lorsque vous achetez ou construisez des outils d'IA.
-- **Énoncez la fonction que remplit le soutien — et évaluez-le au regard de cette fonction.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] distinguent la compensation (évaluée par l'accès et la participation) du [[scaffolding|étayage]] (les décisions avec soutien) et du développement (l'usage de stratégies après l'estompement ou le transfert). Ils ajoutent une règle visant la mise en garde de cette page : le soutien à l'accessibilité n'est pas de la remédiation — le fait qu'un outil constitue un aménagement, un enseignement de stratégies ou un soutien pratique temporaire « devrait être énoncé dans le plan d'apprentissage ».
+- **Énoncez la fonction que remplit le soutien — et évaluez-le au regard de cette fonction.** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou et al. (2026)]] distinguent la compensation (évaluée par l'accès et la participation) du [[scaffolding|étayage]] (les décisions avec soutien) et du développement (l'usage de stratégies après l'estompement ou le transfert). Ils ajoutent une règle pour cette mise en garde : le soutien à l'accessibilité n'est pas de la remédiation — le fait qu'un outil constitue un aménagement, un enseignement de stratégies ou un soutien pratique temporaire « devrait être énoncé dans le plan d'apprentissage ».
 
 ## Idées fausses courantes
 

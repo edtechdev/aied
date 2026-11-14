@@ -1,7 +1,7 @@
 ---
 title: Évaluation orientée sur le processus
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [process-feedback, code-viva, vfwa]
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-11-12T15:20:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,7 @@ L'évaluation dans l'[[higher-ed|enseignement supérieur]] a longtemps inféré 
 
 Il est utile de préciser ce que le concept n'est pas. Ce n'est pas l'[[authentic-assessment|évaluation authentique]], qui demande si une tâche reflète une pratique réelle digne d'intérêt ; Thapa et Lewis maintiennent les axes séparés et insistent sur le fait qu'une tâche authentique dont le produit unique est non supervisé reste exposée. Ce n'est pas l'[[ai-detection|détection d'IA]], qui demande si l'outil a été utilisé plutôt que comment une décision a été prise. Et ce n'est pas l'[[automated-assessment|évaluation automatisée]], qui concerne qui ou quoi effectue la correction : un [[eportfolio|portefeuille]] échelonné corrigé par une machine peut être orienté sur le processus, et une dissertation finale corrigée par un humain peut ne pas l'être. Le concept concerne les preuves recueillies, sur quelle période et dans quelles conditions elles sont produites.
 
-L'idée est passée d'une proposition à une recommandation récurrente dans toute la base de connaissances. Elle apparaît comme priorité nommée dans le programme de l'[[ai-education|AIED]] relatif à l'[[agency|agentivité]] et à la [[motivation|motivation]] des apprenants, comme agenda de recherche organisateur du problème de la [[transfer-of-learning|rétention et du transfert]] dans les travaux sur la [[genai-performance-vs-learning|performance opposée à l'apprentissage]], comme « Black Box Assessment » dans le récit que font Brunnström et Palmqvist de l'[[self-regulated-learning|apprentissage autorégulé]] avec l'IA, et comme demande émanant de formateurs d'enseignants en exercice qui ont constaté que leurs travaux écrits à domicile ne pouvaient plus du tout attester d'un apprentissage.
+L'idée est passée d'une proposition à une recommandation récurrente dans toute la recherche. Elle apparaît comme priorité nommée dans le programme de l'[[ai-education|AIED]] relatif à l'[[agency|agentivité]] et à la [[motivation|motivation]] des apprenants, comme agenda de recherche organisateur du problème de la [[transfer-of-learning|rétention et du transfert]] dans les travaux sur la [[genai-performance-vs-learning|performance opposée à l'apprentissage]], comme « Black Box Assessment » dans le récit que font Brunnström et Palmqvist de l'[[self-regulated-learning|apprentissage autorégulé]] avec l'IA, et comme demande émanant de formateurs d'enseignants en exercice qui ont constaté que leurs travaux écrits à domicile ne pouvaient plus du tout attester d'un apprentissage.
 
 ## À quoi ressemblent les preuves de processus dans la pratique
 

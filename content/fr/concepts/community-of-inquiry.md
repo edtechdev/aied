@@ -1,7 +1,7 @@
 ---
 title: "Communauté d'enquête"
 created: "2026-08-23T15:30:00-04:00"
-updated: "2026-11-07T15:44:15-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/community-of-inquiry
-source_updated: "2026-11-07T14:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -51,7 +51,7 @@ La CoI est ancrée dans les traditions pragmatiques [[constructivist|constructiv
 
 ## CoI as a framework for online teaching
 
-La CoI est née dans l'[[online-teaching-and-learning|enseignement et l'apprentissage en ligne]], avec lesquels elle reste le plus fortement associée. Elle fournit un vocabulaire pour diagnostiquer *pourquoi* un cours en ligne fonctionne ou échoue : un faible [[student-engagement|engagement]] et l'isolement dans les cours asynchrones sont habituellement des échecs des présences sociale et enseignante, alors qu'une discussion de surface reflète souvent une faible présence cognitive. Cela fait de la CoI une lentille de conception pratique pour les conditions mêmes que le médium en ligne crée — la disparition de la coprésence physique, le besoin d'une construction délibérée de communauté, et la structuration de la discussion qui se substitue au contact en face à face. À l'ère de l'[[generative-ai|IA générative]], la CoI est aussi l'endroit où les enseignants en ligne affrontent les questions nouvelles les plus difficiles : qui est « présent » lorsque des agents [[llm|LLM]] publient, modèrent ou répondent, et comment garder les trois présences signifiantes lorsque le discours généré par la machine peut les imiter. La page de la base de connaissances sur l'enseignement en ligne traite donc la communauté d'enquête comme le cadre central du volet de présence sociale et de construction de communauté de sa pratique recommandée.
+La CoI est née dans l'[[online-teaching-and-learning|enseignement et l'apprentissage en ligne]], avec lesquels elle reste le plus fortement associée. Elle fournit un vocabulaire pour diagnostiquer *pourquoi* un cours en ligne fonctionne ou échoue : un faible [[student-engagement|engagement]] et l'isolement dans les cours asynchrones sont habituellement des échecs des présences sociale et enseignante, alors qu'une discussion de surface reflète souvent une faible présence cognitive. Cela fait de la CoI une lentille de conception pratique pour les conditions mêmes que le médium en ligne crée — la disparition de la coprésence physique, le besoin d'une construction délibérée de communauté, et la structuration de la discussion qui se substitue au contact en face à face. À l'ère de l'[[generative-ai|IA générative]], la CoI est aussi l'endroit où les enseignants en ligne affrontent les questions nouvelles les plus difficiles : qui est « présent » lorsque des agents [[llm|LLM]] publient, modèrent ou répondent, et comment garder les trois présences signifiantes lorsque le discours généré par la machine peut les imiter. La communauté d'enquête constitue donc le cadre central du volet de présence sociale et de construction de communauté de sa pratique recommandée.
 
 ## CoI under generative-AI pressure
 
@@ -73,7 +73,7 @@ Les auteurs mêmes du cadre fournissent une taxonomie des rôles pour cette cond
 ## Practical implications
 
 - La relation entre l'implication de l'IA générative et la qualité de l'enquête est **conditionnée par la responsabilité humaine**, et non linéaire : une forte présence peut survenir avec une implication élevée ou faible de l'IA générative lorsque la responsabilité est forte, et une faible présence dans les deux cas lorsque la responsabilité est faible.
-- L'[[assessment|évaluation]] de l'enquête devrait passer des productions finales polies à des **preuves sensibles au processus** — les traces d'[[prompt-engineering|formulation des invites]] et de révision, les pratiques de divulgation et d'attribution, les gestes de vérification, et les journaux d'interaction. Cela s'aligne sur le mouvement plus large de la base de connaissances vers une évaluation [[authentic-assessment|authentique]] et [[process-oriented-assessment|révélant le processus]], et à l'écart des réponses fondées sur la détection.
+- L'[[assessment|évaluation]] de l'enquête devrait passer des productions finales polies à des **preuves sensibles au processus** — les traces d'[[prompt-engineering|formulation des invites]] et de révision, les pratiques de divulgation et d'attribution, les gestes de vérification, et les journaux d'interaction. Cela s'aligne sur le mouvement plus large vers une évaluation [[authentic-assessment|authentique]] et [[process-oriented-assessment|révélant le processus]], et à l'écart des réponses fondées sur la détection.
 - Pédagogiquement, les apprenants ont souvent besoin d'une formation explicite (par ex. une pratique [[simulation|fondée sur la simulation]] avec des rôles scriptés et des points de décision liés à l'IA générative) pour soutenir une enquête authentique dans des conditions d'IA générative — et les enseignants devraient montrer comment interroger les productions générées, ce qui suppose de bâtir l'[[ai-literacy|IA literacy]], l'[[critical-thinking|évaluation critique]] et une [[trust-calibration|confiance]] calibrée.
 
 ## Idées fausses courantes

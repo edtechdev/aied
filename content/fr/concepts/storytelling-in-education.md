@@ -1,7 +1,7 @@
 ---
 title: "Le récit en éducation"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -9,7 +9,7 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 ## Questions à examiner
 
 - Pensez à une leçon ou à un concept dont vous vous souvenez vivement parce qu'il vous a été transmis sous forme d'histoire. Qu'est-ce que le récit a ajouté qu'une explication simple n'aurait pas apporté, et cette force peut-elle survivre à une délégation à une IA ou à un robot ?
-- La page décrit des récits médiés par des robots et des LLM qui répondent à l'apprenant et soutiennent la co-création. Qu'imaginez-vous qui soit gagné — et potentiellement perdu — lorsqu'une histoire est construite conjointement avec une machine plutôt que racontée par une personne ?
+- Des récits médiés par des robots et des LLM répondent à l'apprenant et soutiennent la co-création. Qu'imaginez-vous qui soit gagné — et potentiellement perdu — lorsqu'une histoire est construite conjointement avec une machine plutôt que racontée par une personne ?
 - Si le récit développe l'engagement, la créativité et le lien émotionnel, où son usage en éducation peut-il aller au-delà du simple divertissement — et où risque-t-il de substituer l'émotion à la compréhension ?
 - Un conteur robot a accru l'engagement comportemental et cognitif par rapport au papier et à PowerPoint dans la [[research-methods-aied|recherche]] citée. Faites-vous confiance à la traduction de cet engagement en apprentissage, ou la nouveauté du robot pourrait-elle faire tout le travail ?
 - Comment pourriez-vous déterminer si un apprenant construit réellement du sens à partir d'une histoire co-créée par une IA, plutôt qu'il ne fait que savourer l'expérience interactive ?
@@ -39,7 +39,7 @@ ai_assist:
 
 Le récit prend appui sur la [[motivation|motivation]], l'[[student-engagement|engagement des étudiants]] et les théories [[constructivist|constructivistes]] de [[learning-theories|l'apprentissage]]. Il soutient l'[[language-learning|apprentissage des langues]], la [[creativity|créativité]], l'[[social-emotional-learning|apprentissage socioémotionnel]] et la compréhension. À l'ère de l'IA, le récit médié par les robots et propulsé par les [[llm|LLM]] rend possible la co-création, où les apprenants et les [[agentic-ai|agents IA]] construisent ensemble des histoires, ainsi qu'un récit interactif qui répond à l'apprenant.
 
-## Comment le récit apparaît dans les recherches de la base de connaissances
+## Comment le récit apparaît dans la recherche
 
 - **Le récit médié par les robots :** [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] utilise un robot de récit numérique interactif d'apparence humaine et constate des gains significatifs d'engagement comportemental et cognitif par rapport aux méthodes sur papier et sur PowerPoint ; [[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]] permet aux enseignants de créer, à partir de contenus de [[curriculum-design|programme]], des activités de récit scénarisées propulsées par des LLM.
 - **Les gains d'engagement ont une taille, et la motivation ne suivait pas.** MotiBo a devancé de 27,06% et 30,00% les méthodes sur papier et sur PowerPoint pour l'engagement comportemental et cognitif (p < .05 dans les deux cas), tandis que la motivation intrinsèque augmentait de 20,21% sans atteindre la signification (p = .07). L'engagement a bougé, la motivation n'a pas franchi son seuil, et la quasi-expérience de cinq jours n'a mesuré aucune issue d'apprentissage ([[motibo-digital-storytelling-robots-motivation-2026|Fung & Lui, 2026]]).

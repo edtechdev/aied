@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: "Réduction des biais"
 created: "2026-07-14T10:44:35-04:00"
-updated: "2026-11-06T04:50:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [ai-bias-fairness-education]
 translation_of: concepts/bias-mitigation
-source_updated: "2026-11-06T01:55:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -32,7 +32,7 @@ ai_assist:
 
 ## Questions à examiner
 
-- Le biais peut entrer à n'importe quelle étape de la chaîne de traitement de l'IA — données d'entraînement, comportement du modèle, invites, notation, déploiement. Avant de lire, où dans cette chaîne vous attendiez-vous à ce que réside le biais ? Cette page suggère qu'il peut apparaître presque n'importe où. Quel est un endroit auquel vous n'aviez pas pensé ?
+- Le biais peut entrer à n'importe quelle étape de la chaîne de traitement de l'IA — données d'entraînement, comportement du modèle, invites, notation, déploiement. Avant de lire, où dans cette chaîne vous attendiez-vous à ce que réside le biais ? Il peut apparaître presque n'importe où. Quel est un endroit auquel vous n'aviez pas pensé ?
 - La [[research-methods-aied|recherche]] montre que la notation par IA en [[physics-education|physique]] sous-estime systématiquement les étudiants dont les explications textuelles sont de qualité linguistique inférieure — l'IA note la langue, non la compréhension. Pourquoi un système qui s'accorde bien avec les évaluateurs humains dans l'ensemble pourrait-il néanmoins pénaliser systématiquement les rédacteurs non natifs ou moins fluides ?
 - Une étude a constaté qu'une invite genrée conduit les dissertations des étudiants à afficher un « écart agentique » plus important et un contenu plus stéréotypé selon le genre — le biais s'est transféré de l'outil vers le propre travail de l'apprenant. Qu'est-ce que cela dit du biais, non pas seulement comme note inéquitable mais comme force capable de remodeler ce que les étudiants produisent et la vision qu'ils ont d'eux-mêmes ?
 - Une autre étude a montré que les LLM déplacent la rétroaction dans des directions conformes aux stéréotypes lorsque le système est personnalisé avec des attributs d'étudiants — s'appuyant sur les éloges et adoucissant la critique pour les étudiants « marqués », même lorsque les dissertations sont identiques. En quoi une rétroaction biaisée « gentiment » pourrait-elle être plus nocive qu'une note manifestement fausse, parce qu'elle est plus difficile à détecter ?
@@ -49,7 +49,7 @@ L'équité est la dimension la moins examinée de la littérature comparant nota
 
 ## Sources of bias
 
-La recherche de la base de connaissances documente l'entrée du biais à de multiples points de la chaîne de traitement :
+La recherche documente l'entrée du biais à de multiples points de la chaîne de traitement :
 
 - **Biais linguistique et de notation :** la [[ai-scoring-language-bias-physics|notation par IA en physique]] sous-estime systématiquement la compréhension conceptuelle des étudiants dont les explications textuelles sont de qualité linguistique inférieure — l'IA note la langue, non la compréhension, pénalisant les rédacteurs non natifs ou moins fluides. C'est un échec direct de validité et d'équité dans la [[automated-assessment|notation automatisée]].
 - **Transfert du biais de genre dans l'écriture assistée par LLM :** [[gender-bias-transfer-llm-writing|Contaminated Collaboration]] montre que lorsque les étudiants écrivent avec une invite LLM genrée, leurs dissertations affichent un écart agentique significativement plus important et davantage de suggestions professionnelles stéréotypées selon le genre (N=123) ; le transfert de biais est asymétrique, supprimant l'autonomie dans les dissertations ciblant les femmes. Une étude de vérification (N=1.600 dissertations de LLM, R²=.399) confirme qu'une invite genrée induit un langage différencié selon le genre.
@@ -69,7 +69,7 @@ La recherche de la base de connaissances documente l'entrée du biais à de mult
 
 ## Mitigation approaches
 
-La recherche de la base de connaissances illustre plusieurs stratégies complémentaires :
+La recherche illustre plusieurs stratégies complémentaires :
 
 - **La modélisation sensible à l'équité :** [[fair-explainable-edu-recommendations|le cadre hybride HKG-GRU]] intègre la **Group Distributionally Robust Optimization (GroupDRO)** pour l'équité, aux côtés de l'explicabilité et de la stabilité contrefactuelle, évaluée sur des journaux Moodle (152 étudiants, environ 150k interactions). Il démontre que les systèmes de recommandation peuvent être entraînés à être équitables et transparents, et pas seulement exacts.
 - **Les estimateurs de débiaisement :** l'[[temporal-smoothness-debiased-kt|apprentissage Temporal Smoothness Doubly Robust (TSDR)]] combine un modèle de propension et un modèle d'imputation d'erreur, conservant l'absence de biais si l'un ou l'autre est correct, pour supprimer le biais de sélection des estimations de maîtrise du traçage des connaissances.
@@ -105,7 +105,7 @@ La réduction des biais est le mécanisme technique par lequel l'[[equity-in-ai-
 - **Combiner réduction technique et humaine :** associer les algorithmes de débiaisement à une supervision avec intervention humaine, en particulier pour les cas à enjeux élevés ou peu confiants.
 
 
-Tout ce qui figure sur cette page concerne le biais à l'intérieur du système. Le [[automation-bias|biais d'automatisation]] concerne le biais chez la personne qui lit la production du système — accepter une recommandation qu'un être humain aurait remise en question s'il y était parvenu seul — et il survit même lorsque le modèle est exact.
+L'atténuation des biais concerne le biais à l'intérieur du système. Le [[automation-bias|biais d'automatisation]] concerne le biais chez la personne qui lit la production du système — accepter une recommandation qu'un être humain aurait remise en question s'il y était parvenu seul — et il survit même lorsque le modèle est exact.
 
 ## Idées fausses courantes
 
@@ -117,7 +117,7 @@ Tout ce qui figure sur cette page concerne le biais à l'intérieur du système.
 
 - [[differential-effects-across-learner-groups]]
 
-- [[automation-bias]] — l'échec du côté du lecteur que cette page ne couvre pas : accepter une recommandation sans la vérifier
+- [[automation-bias]] — l'échec du côté du lecteur : accepter une recommandation sans la vérifier
 - [[explainable-ai]]
 - [[guardrails]]
 - [[equity-in-ai-education]]

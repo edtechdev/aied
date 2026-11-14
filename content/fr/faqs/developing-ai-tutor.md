@@ -1,7 +1,7 @@
 ---
 title: "Quelles sont les bonnes pratiques pour développer un tuteur d'IA efficace ?"
 created: "2026-09-22T19:14:32-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T20:20:00-05:00"
 weight: 74
 audience: [educational technology developers, software developers, instructional designers]
 type: faq
@@ -12,7 +12,7 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/developing-ai-tutor
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]

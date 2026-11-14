@@ -1,7 +1,7 @@
 ---
 title: "Éducation à l'environnement"
 created: "2026-09-20T12:40:00-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [inquiry-based-learning, situated-learning, critical-pedagogy]
@@ -11,7 +11,7 @@ institutions: [educational-policy-ai, governance]
 discipline: [environmental education]
 confidence: medium
 translation_of: concepts/environmental-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **L'éducation à l'environnement** — enseigner le climat, le développement durable et le monde naturel, ce qui, dans l'[[ai-education|IA en éducation]], est devenu deux choses à la fois : une matière que l'IA peut soutenir par un apprentissage [[inquiry-based-learning|par enquête]] et [[situated-learning|situé]], et un coût que l'IA impose, puisque les [[llm|grands modèles de langue]] énergivores qui tournent sur l'ordinateur portable de chaque étudiant portent une empreinte environnementale propre. La base de connaissances traite les deux moitiés ensemble, parce que l'éducation à la [[sustainability|durabilité]] dispensée par un outil à forte intensité carbone soulève une question qu'aucun cadre unique ne résout à lui seul.
+> **L'éducation à l'environnement** — enseigner le climat, le développement durable et le monde naturel, ce qui, dans l'[[ai-education|IA en éducation]], est devenu deux choses à la fois : une matière que l'IA peut soutenir par un apprentissage [[inquiry-based-learning|par enquête]] et [[situated-learning|situé]], et un coût que l'IA impose, puisque les [[llm|grands modèles de langue]] énergivores qui tournent sur l'ordinateur portable de chaque étudiant portent une empreinte environnementale propre. Les deux moitiés sont traitées ensemble, parce que l'éducation à la [[sustainability|durabilité]] dispensée par un outil à forte intensité carbone soulève une question qu'aucun cadre unique ne résout à lui seul.
 
 ## Questions à examiner
 
@@ -38,7 +38,7 @@ ai_assist:
 
 ## Introduction
 
-L'**éducation à l'environnement** développe la compréhension qu'ont les apprenants des systèmes écologiques, du climat et de l'interdépendance entre l'humain et son environnement, ainsi que les dispositions et les compétences pour agir en conséquence — souvent désignée institutionnellement comme l'éducation au développement durable (EDD) ou l'« éducation verte ». Dans un contexte d'IA en éducation, le terme porte une tension que le corpus rencontre sans toujours la nommer : **l'IA comme outil pour l'éducation à l'environnement** (enseigner les contenus sur le climat et le développement durable au moyen d'outils génératifs) et **l'empreinte environnementale de l'IA elle-même** (le coût en carbone, en eau et en énergie des modèles que les établissements déploient). Ce sont des questions distinctes, avec des données probantes, des acteurs et des remèdes différents ; les confondre — comme le font plusieurs articles et la plupart des documents stratégiques — rend impossible de dire qui est responsable de quoi.([[daniel-ai-sustainability-scoping-review-2026]])([[aied-carbon-footprint-reporting]])
+L'**éducation à l'environnement** développe la compréhension qu'ont les apprenants des systèmes écologiques, du climat et de l'interdépendance entre l'humain et son environnement, ainsi que les dispositions et les compétences pour agir en conséquence. Elle est souvent désignée institutionnellement comme l'éducation au développement durable (EDD) ou l'« éducation verte ». Dans un contexte d'IA en éducation, le terme porte une tension qui traverse le domaine sans toujours être nommée. La tension oppose **l'IA comme outil pour l'éducation à l'environnement** (enseigner les contenus sur le climat et le développement durable au moyen d'outils génératifs) à **l'empreinte environnementale de l'IA elle-même** (le coût en carbone, en eau et en énergie des modèles que les établissements déploient). Ce sont des questions distinctes, avec des données probantes, des acteurs et des remèdes différents ; les confondre — comme le font plusieurs articles et la plupart des documents stratégiques — rend impossible de dire qui est responsable de quoi.([[daniel-ai-sustainability-scoping-review-2026]])([[aied-carbon-footprint-reporting]])
 
 ## Deux choses appelées « éducation à l'environnement avec l'IA »
 
@@ -57,9 +57,9 @@ Deux études plus modestes portent sur le volet conception. Une [[learning-desig
 
 ## L'empreinte environnementale de l'IA dans l'éducation
 
-C'est ici que le corpus est le plus mince. Une revue de l'ensemble des 396 articles des actes de l'AIED 2025 a mis au jour une « adoption des grands modèles de langue sans déclaration » : la plupart des projets utilisent des [[llm|grands modèles de langue]], 85 articles ont déclaré un coût de calcul, et seulement 57 ont mentionné un impact environnemental — en employant des métriques incompatibles, de sorte que le domaine ne peut pas agréger ses propres données probantes. Les auteurs soutiennent que le fait de ne pas déclarer le coût environnemental constitue en soi une préoccupation [[ethics|éthique]], et proposent une méthode [[open-source|open source]] (CodeCarbon associée à une estimation des FLOPs à deux paramètres pour les modèles propriétaires).([[aied-carbon-footprint-reporting]])
+C'est ici que les données probantes sont les plus minces. Une revue de l'ensemble des 396 articles des actes de l'AIED 2025 a mis au jour une « adoption des grands modèles de langue sans déclaration » : la plupart des projets utilisent des [[llm|grands modèles de langue]], 85 articles ont déclaré un coût de calcul, et seulement 57 ont mentionné un impact environnemental — en employant des métriques incompatibles, de sorte que le domaine ne peut pas agréger ses propres données probantes. Les auteurs soutiennent que le fait de ne pas déclarer le coût environnemental constitue en soi une préoccupation [[ethics|éthique]], et proposent une méthode [[open-source|open source]] (CodeCarbon associée à une estimation des FLOPs à deux paramètres pour les modèles propriétaires).([[aied-carbon-footprint-reporting]])
 
-Du côté de l'apprenant, une interface de rétroaction écologique exposant le compromis latence-carbone pendant l'usage en direct d'un grand modèle de langue a été étudiée auprès de 89 étudiants de premier cycle en informatique dans un cours d'éthique du calcul : les étudiants ont choisi le mode le moins carboné dans environ 45% des interactions à faible latence, mais dans moins de 5% des cas à latence élevée, et la conscience du développement durable a augmenté significativement ce choix. L'échantillon est petit et inhabituellement bien informé sur le plan technique, mais c'est la seule donnée probante directe du corpus montrant que l'information sur l'empreinte fait bouger les apprenants — et elle suggère que la contrainte déterminante est la patience, non les valeurs.([[llm-environmental-impact-student-usage-2026]])
+Du côté de l'apprenant, une interface de rétroaction écologique exposant le compromis latence-carbone pendant l'usage en direct d'un grand modèle de langue a été étudiée auprès de 89 étudiants de premier cycle en informatique dans un cours d'éthique du calcul : les étudiants ont choisi le mode le moins carboné dans environ 45% des interactions à faible latence, mais dans moins de 5% des cas à latence élevée, et la conscience du développement durable a augmenté significativement ce choix. L'échantillon est petit et inhabituellement bien informé sur le plan technique, mais c'est la seule donnée probante directe montrant que l'information sur l'empreinte fait bouger les apprenants — et elle suggère que la contrainte déterminante est la patience, non les valeurs.([[llm-environmental-impact-student-usage-2026]])
 
 Les données probantes sur l'atténuation proviennent d'un assistant de base de connaissances en [[cs-education|informatique]] déployé sur site, sur un seul GPU grand public (12 Go de VRAM), avec des contenus sous licence ouverte : 1.8 mWh par requête au mieux — environ 0.54 Wh pour une classe de 30 étudiants soumettant dix requêtes chacun — avec un [[llm-training-and-fine-tuning|ajustement fin]] conscient de la quantification qui contient à la fois la perte de précision et l'augmentation de l'[[hallucination-risk|hallucination]] que la seule compression avait provoquée. C'est un repère de référence d'ingénierie, non une étude d'apprentissage, mais il montre que la question de l'empreinte a des leviers de conception (ancrage, quantification, lieu de déploiement), et pas seulement des leviers de discipline d'usage.([[shen-sustainable-ai-knowledge-base-cs-education-2026]])
 
@@ -82,7 +82,7 @@ La [[meta-analysis-systematic-review|revue de cadrage]] qui organise cette litt�
 1. **Nommez la question à laquelle vous répondez.** Les stratégies qui emploient le mot « durabilité » à la fois pour l'IA au service de l'enseignement du climat et pour l'empreinte propre de l'IA masquent le déficit de responsabilité que relèvent [[daniel-ai-sustainability-scoping-review-2026|Daniel et coll. (2026)]] ; gardez les agendas séparés, avec des responsables distincts.
 2. **Traitez la déclaration d'empreinte comme une infrastructure de champ.** Déclarer le calcul et le carbone aux côtés de la précision — avec un énoncé de durabilité même lorsque la mesure est imparfaite — est la seule issue au problème des métriques incompatibles.
 3. **Concevez pour l'apprenant impatient.** Si l'option la moins carbonée coûte de la latence perçue, la plupart des étudiants ne la prendront pas : maintenez la latence basse, exposez les contrôles et décrivez l'impact en termes de résultats concrets, non en unités de carbone abstraites.
-4. **Préférez un déploiement plus léger là où la pédagogie le permet.** Ancrer un modèle dans un corpus local sous licence et le quantifier avec ajustement fin a donné une précision utilisable pour une fraction de l'énergie — réutilisez ce schéma avant de passer à l'inférence en nuage à grande échelle.
+4. **Préférez un déploiement plus léger là où la pédagogie le permet.** Ancrer un modèle dans un jeu de données local sous licence et le quantifier avec ajustement fin a donné une précision utilisable pour une fraction de l'énergie — réutilisez ce schéma avant de passer à l'inférence en nuage à grande échelle.
 5. **Développez la capacité des enseignants par l'élaboration de matériels, non par des campagnes de sensibilisation,** et comblez le manque de données du [[global-south|Sud global]] plutôt que d'importer des données probantes des contextes nord-américain et européen.
 
 ## Idées fausses courantes

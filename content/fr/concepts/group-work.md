@@ -1,7 +1,7 @@
 ---
 title: "Travail en groupe"
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-11-10T19:35:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -42,19 +42,19 @@ ai_assist:
 
 ## Introduction
 
-Le travail en groupe occupe une place distinctive dans l'[[higher-ed|enseignement supérieur]] et la [[professional-training|formation professionnelle]] : il est valorisé pour ce qu'il construit en matière de collaboration, de communication et de responsabilité partagée, et il est pédagogiquement central dans les programmes à orientation professionnelle comme la [[teacher-education|formation des enseignants]]. Sa promesse n'est cependant pas automatiquement réalisée. Enseignants comme étudiants signalent des obstacles à une collaboration efficace, et un produit de groupe noté porte simultanément deux revendications différentes — sur ce que le groupe a accompli et sur ce que chaque individu a appris. L'IA, et l'[[generative-ai|IA générative]] en particulier, exerce une pression sur les deux : elle change la manière dont le travail peut être divisé, la facilité avec laquelle les contributions peuvent être fusionnées, et la manière dont la pensée de chaque membre peut être distinguée de la production d'un outil. Une grande partie des travaux de la base de connaissances sur l'apprentissage collaboratif concerne le travail en groupe, et cette page s'appuie sur plusieurs de ses fils plutôt que sur une étude unique.
+Le travail en groupe occupe une place distinctive dans l'[[higher-ed|enseignement supérieur]] et la [[professional-training|formation professionnelle]] : il est valorisé pour ce qu'il construit en matière de collaboration, de communication et de responsabilité partagée, et il est pédagogiquement central dans les programmes à orientation professionnelle comme la [[teacher-education|formation des enseignants]]. Sa promesse n'est cependant pas automatiquement réalisée. Enseignants comme étudiants signalent des obstacles à une collaboration efficace, et un produit de groupe noté porte simultanément deux revendications différentes — sur ce que le groupe a accompli et sur ce que chaque individu a appris. L'IA, et l'[[generative-ai|IA générative]] en particulier, exerce une pression sur les deux : elle change la manière dont le travail peut être divisé, la facilité avec laquelle les contributions peuvent être fusionnées, et la manière dont la pensée de chaque membre peut être distinguée de la production d'un outil. Une grande partie des travaux sur l'apprentissage collaboratif concerne le travail en groupe, et plusieurs de ses fils importent plutôt qu'une étude unique.
 
 ## Pourquoi le travail en groupe est difficile par conception
 
 - **Le passager clandestin et la paresse sociale.** Certains membres réduisent leur contribution et la charge de travail est redistribuée vers les pairs les plus engagés. L'ampleur de la tâche, la taille du groupe et la [[writing-education|composition]] en accroissent la probabilité ; les mécanismes de responsabilité et l'efficacité collective la réduisent.
-- **La responsabilité est relationnelle autant que structurelle.** À Hong Kong — où l'une des études de la base de connaissances sur l'évaluation en groupe a été menée — des étudiants de premier cycle ont souvent choisi de *ne pas* signaler le passager clandestin afin de préserver les relations interpersonnelles, accomplissant eux-mêmes le travail au lieu d'affronter le problème. L'[[agency|autonomie]] des étudiants peut donc prendre la forme de la poursuite de la note tout en évitant le conflit.
+- **La responsabilité est relationnelle autant que structurelle.** À Hong Kong, où l'une des études sur l'évaluation en groupe a été menée, des étudiants de premier cycle ont souvent choisi de *ne pas* signaler le passager clandestin afin de préserver les relations interpersonnelles, accomplissant eux-mêmes le travail au lieu d'affronter le problème. L'[[agency|autonomie]] des étudiants peut donc prendre la forme de la poursuite de la note tout en évitant le conflit.
 - **La collaboration doit être conçue, non présupposée.** Lorsqu'une tâche peut être partitionnée en sous-tâches indépendantes, les étudiants empruntent cette voie et le groupe devient un format de soumission plutôt qu'une entreprise intellectuelle conjointe. [[chen-zou-genai-group-assessment-agency-2026|Chen et Zou (2026)]] ont trouvé trois de leurs quinze groupes faisant exactement cela — divisant le travail, travaillant sur des « plateformes individuelles » et ne mutualisant jamais leurs capacités individuelles d'IA générative, même lorsque la cohérence était un critère d'évaluation explicite.
 - **Le processus plutôt que le produit.** Le travail en groupe est le plus solide lorsque le processus est évalué aux côtés de la production, ce qui requiert une [[peer-assessment|évaluation par les pairs]] ou d'autres étapes intermédiaires visibles, plutôt qu'un seul artefact final.
 - **L'[[equity-in-ai-education|équité]] et l'[[inclusive-learning|inclusion]].** Les normes de contribution, la langue et la confiance se répartissent inégalement à l'intérieur des groupes. Les [[neurodivergent-computing-students|étudiants neurodivergents]] déclarent avoir besoin de travaux structurés, de petites équipes stables et de rôles explicitement définis — des exigences que les outils de collaboration avec l'IA, souvent conçus pour l'apprenant « moyen », ne parviennent pas régulièrement à satisfaire.
 
 ## Comment l'IA change le travail en groupe
 
-La recherche sur l'IA dans le travail en groupe porte sur deux choses distinctes : ce que l'IA ajoute à la *tâche* d'un groupe, et ce que l'IA fait au *processus* du groupe. Les deux importent, et les résultats de la base de connaissances couvrent l'un et l'autre.
+La recherche sur l'IA dans le travail en groupe porte sur deux choses distinctes : ce que l'IA ajoute à la *tâche* d'un groupe, et ce que l'IA fait au *processus* du groupe. Les deux importent, et les résultats couvrent l'un et l'autre.
 
 ### L'IA comme infrastructure de coordination
 

@@ -1,7 +1,7 @@
 ---
 title: "Enseignement du design"
 created: "2026-09-17T14:04:29-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -12,7 +12,7 @@ audience: [instructors, instructional designers, curriculum designers, faculty d
 level: [higher ed]
 confidence: high
 translation_of: concepts/design-education
-source_updated: "2026-11-04T15:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **L'enseignement du design** — la formation professionnelle des designers dans les disciplines d'atelier : design de produit, de service, d'interaction, d'intérieur et d'architecture, enseignée par un travail de projet itératif dans lequel l'objet évalué est autant le processus qui sous-tend un artefact que l'artefact lui-même. Ses traits distinctifs sont l'atelier et la critique comme lieu d'apprentissage, la trace visible du processus (croquis, modèles intermédiaires, itérations) comme indicateur principal de l'apprentissage, et le fait que la [[generative-ai|génération]] rend aujourd'hui peu coûteux à produire le résultat poli sur lequel les étudiants sont notés. Cela fait de l'enseignement du design un cas d'épreuve pour la [[creativity]], le [[design-thinking]], l'[[assessment-validity]] et la [[professional-training]].
+> **L'enseignement du design** — la formation professionnelle des designers dans les disciplines d'atelier : design de produit, de service, d'interaction, d'intérieur et d'architecture, enseignée par un travail de projet itératif dans lequel l'objet évalué est autant le processus qui sous-tend un artefact que l'artefact lui-même. Ses traits distinctifs sont l'atelier et la critique comme cadre d'apprentissage, la trace visible du processus (croquis, modèles intermédiaires, itérations) comme indicateur principal de l'apprentissage, et le fait que la [[generative-ai|génération]] rend aujourd'hui peu coûteux à produire le résultat poli sur lequel les étudiants sont notés. Cela fait de l'enseignement du design un cas d'épreuve pour la [[creativity]], le [[design-thinking]], l'[[assessment-validity]] et la [[professional-training]].
 
 ## Questions à examiner
 
@@ -39,7 +39,7 @@ ai_assist:
 
 ## Introduction
 
-L'enseignement du design est plus étroit que l'[[arts-design-and-media-education|enseignement des arts, du design et des médias]], qui couvre ensemble les disciplines d'atelier et de spectacle — architecture, musique, arts visuels, médias et [[storytelling-in-education|narration numérique]]. Cette page traite des disciplines professionnelles du design et de leur filière de formation : l'[[eportfolio|évaluation par portfolio]], les attentes d'accréditation, l'[[career-development-and-readiness|employabilité]], et une culture de pratique qui a absorbé les outils génératifs plus vite que ses programmes.
+L'enseignement du design est plus étroit que l'[[arts-design-and-media-education|enseignement des arts, du design et des médias]], qui couvre ensemble les disciplines d'atelier et de spectacle — architecture, musique, arts visuels, médias et [[storytelling-in-education|narration numérique]]. Le sujet est les disciplines professionnelles du design et leur filière de formation : l'[[eportfolio|évaluation par portfolio]], les attentes d'accréditation, l'[[career-development-and-readiness|employabilité]], et une culture de pratique qui a absorbé les outils génératifs plus vite que ses programmes.
 
 Il se distingue aussi du [[design-thinking]], une méthode de [[problem-solving|résolution de problèmes]] centrée sur l'humain enseignée dans la gestion, l'éducation et le droit comme compétence transférable. Dans l'enseignement du design, le processus n'est pas une méthode appliquée à une discipline ; il *est* la discipline, et l'atelier est le lieu où il est enseigné, supervisé et évalué. L'[[engineering-education|enseignement de l'ingénierie]] est le voisin professionnel le plus proche — lui aussi lourd de conception, lui aussi comptable de la pratique — mais l'évaluation en ingénierie repose sur des artefacts calculables et sur une responsabilité de sécurité publique, tandis que celle du design repose sur la critique et sur des traces de processus que les outils génératifs peuvent visiblement simuler.
 

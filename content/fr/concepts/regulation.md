@@ -1,7 +1,7 @@
 ---
 title: Réglementation de l'IA dans l'éducation
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [academic-integrity]
 ethics: [equity-in-ai-education, ethics, privacy, pedagogical-safety]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/regulation
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -26,20 +26,20 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **La réglementation de l'IA** — les lois, politiques et cadres de gouvernance qui contrôlent la manière dont l'IA est développée et déployée dans les milieux éducatifs. Dans la base de connaissances, la réglementation couvre la politique gouvernementale, la gouvernance institutionnelle et l'[[self-regulated-learning|autorégulation]] de l'industrie.
+> **La réglementation de l'IA** — les lois, politiques et cadres de gouvernance qui contrôlent la manière dont l'IA est développée et déployée dans les milieux éducatifs. La réglementation couvre la politique gouvernementale, la gouvernance institutionnelle et l'[[self-regulated-learning|autorégulation]] de l'industrie.
 
 ## Questions à examiner
 
 - Les outils d'IA sont déployés dans les classes bien plus vite que des règles ne peuvent être écrites. Avant de lire, qui, selon vous, fixe réellement les règles effectives à l'heure actuelle — les législateurs, les institutions, les développeurs, ou les enseignants qui improvisent sur le moment ?
-- La page distingue la réglementation (lois et règles contraignantes) de la gouvernance (les normes et structures plus larges). Pourquoi cette distinction importe-t-elle ? À quoi ressemble une institution dotée d'une forte gouvernance mais d'une réglementation faible, et cette situation est-elle stable ?
+- La réglementation désigne les lois et règles contraignantes ; la gouvernance désigne les normes et structures plus larges. Pourquoi cette distinction importe-t-elle ? À quoi ressemble une institution dotée d'une forte gouvernance mais d'une réglementation faible, et cette situation est-elle stable ?
 - La réglementation « contraint et rend possible à la fois » — elle fixe des frontières tout en créant les conditions d'une intégration équitable et sûre. Pouvez-vous penser à une règle qui limiterait simultanément le mésusage et étendrait l'usage responsable, ou la tension est-elle inévitable ?
 - Les cadres éthiques se durcissent de plus en plus en règles contraignantes, et les exigences de sécurité agissent comme une réglementation de fait. Voyez-vous les principes éthiques devenir des règles exécutoires comme un progrès, ou comme une manière de paraître responsable sans réels moyens de coercition — et comment distingueriez-vous les deux ?
-- La base de connaissances documente un « fossé de gouvernance » persistant entre la vitesse de déploiement et la maturité réglementaire, inégal selon les juridictions et les niveaux d'enseignement. En tant que [[teacher-role|enseignant]] ou développeur, comment un environnement réglementaire incohérent affecte-t-il vos décisions quotidiennes sur l'IA à utiliser ?
+- Un « fossé de gouvernance » persistant sépare la vitesse de déploiement de la maturité réglementaire, et il est inégal selon les juridictions et les niveaux d'enseignement. En tant que [[teacher-role|enseignant]] ou développeur, comment un environnement réglementaire incohérent affecte-t-il vos décisions quotidiennes sur l'IA à utiliser ?
 - La [[research-methods-aied|recherche]] sur la conscience réglementaire des étudiants demande si les [[learners|apprenants]] connaissent réellement les règles et les respectent. Avant de lire, dans quelle mesure pensez-vous que la plupart des étudiants comprennent les règles d'IA auxquelles ils sont soumis — et à qui incombe la responsabilité lorsqu'ils ne les comprennent pas ?
 
 ## Introduction
 
-La réglementation est la couche juridique et politique de la [[governance|gouvernance de l'IA]] : elle fixe les règles, les normes et les mécanismes d'application contraignants que la gouvernance institutionnelle traduit en pratique. Là où la gouvernance est le large cadre de normes et de structures, la réglementation fournit les règles faisant autorité — des lois nationales sur l'IA et des statuts de [[privacy|protection des données]] aux politiques institutionnelles d'usage acceptable et aux lignes directrices professionnelles. Un thème récurrent dans les recherches de la base de connaissances est que la réglementation tarde à suivre le déploiement de l'IA, laissant les institutions improviser une gouvernance dans l'intervalle.
+La réglementation est la couche juridique et politique de la [[governance|gouvernance de l'IA]] : elle fixe les règles, les normes et les mécanismes d'application contraignants que la gouvernance institutionnelle traduit en pratique. Là où la gouvernance est le large cadre de normes et de structures, la réglementation fournit les règles faisant autorité — des lois nationales sur l'IA et des statuts de [[privacy|protection des données]] aux politiques institutionnelles d'usage acceptable et aux lignes directrices professionnelles. Un thème récurrent dans la recherche est que la réglementation tarde à suivre le déploiement de l'IA, laissant les institutions improviser une gouvernance dans l'intervalle.
 
 ## Paysage réglementaire
 
@@ -52,7 +52,7 @@ La réglementation est la couche juridique et politique de la [[governance|gouve
 
 ## Le fossé de gouvernance
 
-La base de connaissances documente un fossé persistant entre la vitesse de déploiement de l'IA et la maturité réglementaire. Les [[institutional-change-framework-ai|cadres de changement institutionnel]] et les recherches sur la réglementation plaident pour une [[governance|gouvernance]] proactive plutôt que pour une politique réactive. Des études sur et les [[raza-farooq-aied-review-2020-2025|revues complètes de l'AIED]] soulignent que la réglementation est inégale selon les juridictions et les niveaux d'enseignement, créant un environnement opératoire incohérent pour les enseignants, les étudiants et les développeurs.
+La maturité réglementaire n'a pas suivi le rythme du déploiement de l'IA. Les [[institutional-change-framework-ai|cadres de changement institutionnel]] et les recherches sur la réglementation plaident pour une [[governance|gouvernance]] proactive plutôt que pour une politique réactive. Des études sur et les [[raza-farooq-aied-review-2020-2025|revues complètes de l'AIED]] soulignent que la réglementation est inégale selon les juridictions et les niveaux d'enseignement, créant un environnement opératoire incohérent pour les enseignants, les étudiants et les développeurs.
 
 Les systèmes [[agentic-ai|agentiques]] ouvrent un fossé supplémentaire. Dans une analyse documentaire de 12 universités, [[wong-sun-agentic-ai-assessment-governance-2026|Wong et Sun (2026)]] ont constaté qu'aucun document comparable ne traitait le cas d'un agent se connectant à un système de gestion de l'apprentissage, détenant les identifiants d'un étudiant ou agissant en son nom, alors que plusieurs cas conscients de l'agentivité posaient des limites explicites de délégation et d'accès.
 

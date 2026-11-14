@@ -1,7 +1,7 @@
 ---
 title: "Apprenants adultes"
 created: "2026-08-06T10:43:53-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [professional-training]
@@ -11,7 +11,7 @@ confidence: medium
 methods: [usability-research]
 technology: [edtech-platform]
 translation_of: concepts/adult-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -27,12 +27,12 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **L'apprentissage des adultes** — la théorie et la pratique de l'éducation des adultes (andragogie), et la manière dont les outils et technologies d'IA peuvent être conçus pour soutenir l'[[agency|autonomie]], l'expérience préalable et la pertinence réelle des apprenants adultes. Exploré à travers 13 articles de cette base de connaissances.
+> **L'apprentissage des adultes** — la théorie et la pratique de l'éducation des adultes (andragogie), et la manière dont les outils et technologies d'IA peuvent être conçus pour soutenir l'[[agency|autonomie]], l'expérience préalable et la pertinence réelle des apprenants adultes. Exploré à travers 13 articles.
 
 ## Questions à examiner
 
 - La théorie de l'apprentissage des adultes suppose que les apprenants sont [[self-directed-learning|autodirigés]], s'appuient sur leur expérience de vie et recherchent une pertinence concrète. Mais si l'IA accomplit une grande partie du travail cognitif, un apprenant qui réalise une tâche sans aide visible prouve-t-il réellement qu'il l'a dirigée ? Qu'est-ce qui vous convaincrait qu'il l'a fait ?
-- L'indépendance comportementale à l'égard d'un outil ne garantit plus que l'apprenant a dirigé l'apprentissage. Si vous conceviez une IA pour des apprenants adultes, que rechercheriez-vous pour confirmer une authentique autodirection plutôt qu'une discrète délégation ?
+- Si vous conceviez une IA pour des apprenants adultes, que rechercheriez-vous pour confirmer une authentique autodirection plutôt qu'une discrète délégation ?
 - Les lignes directrices de conception pour les outils d'IA destinés aux adultes insistent sur l'insertion dans une vie bien remplie — compatible avec le mobile, fonctionnant hors ligne, reliée à des problèmes réels. Lesquelles de ces caractéristiques importent le plus pour votre propre apprentissage, et que coûte à l'apprenant un outil qui les ignore ?
 - Les apprenants adultes étudient souvent au travail ou à la maison, si bien que la diffusion en ligne domine — apportant de la souplesse mais aussi des risques de délestage et des questions d'intégrité. Comment la commodité de l'assistance par l'IA interagit-elle avec l'objectif d'un apprentissage durable pour un adulte très occupé ?
 - La recherche a constaté qu'aucun système d'IA pour l'apprentissage des adultes ne satisfaisait à lui seul toutes les lignes directrices de conception — l'écosystème complet était nécessaire. Qu'est-ce que cela suggère quant à l'attente qu'un seul outil réponde aux besoins de chaque apprenant ?
@@ -40,7 +40,7 @@ ai_assist:
 
 ## Introduction
 
-Ancré dans le modèle andragogique de Knowles, l'apprentissage des adultes suppose que les apprenants sont autodirigés, s'appuient sur leur expérience de vie, sont motivés par des buts immédiats et pratiques, et en retirent le plus grand bénéfice lorsque l'apprentissage se relie à leurs rôles concrets. Ces hypothèses importent pour la conception de l'IA, car l'IA générative peut désormais participer à presque toutes les étapes de l'apprentissage — l'identification des besoins, la fixation des objectifs, l'interprétation de l'information, la production de résultats et l'évaluation de la performance. Lorsque l'IA accompare une si grande part du travail cognitif, l'indépendance comportementale à l'égard de l'outil ne garantit plus que l'apprenant a réellement dirigé l'apprentissage. La recherche de cette base de connaissances recadre en conséquence l'autodirection comme un objectif de conception actif plutôt que comme une hypothèse par défaut, et évalue l'IA destinée à l'apprentissage des adultes au regard de critères tels que la propriété de l'objectif, le contrôle de la délégation et la récupérabilité cognitive.
+Ancré dans le modèle andragogique de Knowles, l'apprentissage des adultes suppose que les apprenants sont autodirigés, s'appuient sur leur expérience de vie, sont motivés par des buts immédiats et pratiques, et en retirent le plus grand bénéfice lorsque l'apprentissage se relie à leurs rôles concrets. Ces hypothèses importent pour la conception de l'IA, car l'IA générative peut désormais participer à presque toutes les étapes de l'apprentissage — l'identification des besoins, la fixation des objectifs, l'interprétation de l'information, la production de résultats et l'évaluation de la performance. Lorsque l'IA accompare une si grande part du travail cognitif, l'indépendance comportementale à l'égard de l'outil ne garantit plus que l'apprenant a réellement dirigé l'apprentissage. La recherche recadre en conséquence l'autodirection comme un objectif de conception actif plutôt que comme une hypothèse par défaut, et évalue l'IA destinée à l'apprentissage des adultes au regard de critères tels que la propriété de l'objectif, le contrôle de la délégation et la récupérabilité cognitive.
 
 ## Données probantes issues des articles liés
 
@@ -50,7 +50,7 @@ Ancré dans le modèle andragogique de Knowles, l'apprentissage des adultes supp
 
 ## Liens avec les concepts apparentés
 
-L'apprentissage des adultes se situe à l'intersection de plusieurs concepts étroitement liés dans cette base de connaissances. L'[[higher-ed|enseignement supérieur]] fournit le contexte institutionnel dans lequel se déroule une grande part de l'apprentissage des adultes et de l'apprentissage à distance, tandis que la [[professional-training|formation professionnelle]] couvre sa dimension liée au monde du travail et l'[[lifelong-learning|apprentissage tout au long de la vie]] sa dimension d'éducation continue. L'[[vocational-education|enseignement et la formation professionnels]] est le concept voisin qui nomme un métier plutôt qu'un apprenant : l'apprentissage des adultes décrit ce que les apprenants apportent à tout contexte — autodirection, expérience préalable, buts pratiques immédiats. L'EFP désigne la préparation initiale et proche de la pratique à un métier ou à un rôle technique nommé, jugée par la compétence démontrée avec les équipements et encadrée par les systèmes de qualification plutôt que par des dispositions andragogiques. L'[[online-teaching-and-learning|enseignement et l'apprentissage en ligne]] sont le médium de diffusion dominant pour les apprenants adultes — qui étudient souvent au travail ou à la maison — si bien que ses affordances (accès 24h/24 et 7j/7, soutien asynchrone) et ses risques ([[academic-integrity|intégrité]], [[cognitive-offloading|délestage]]) sont centraux pour la [[learning-design|conception de l'apprentissage]] des adultes. L'[[self-regulated-learning|apprentissage autorégulé]] et l'[[agency|autonomie]] nomment les capacités de l'apprenant que l'IA doit protéger plutôt qu'éroder, et le [[cognitive-offloading|délestage cognitif]] saisit le mécanisme par lequel l'IA peut les soutenir ou les saper. L'[[inclusive-learning|apprentissage inclusif]] et l'[[equity-in-ai-education|équité]] dans l'IA en éducation cadrent les obligations d'équité des outils d'IA destinés aux adultes, l'[[human-in-the-loop-ai|IA avec intervention humaine]] nomme le patron de conception qui maintient les humains responsables, et l'[[scaffolding|étayage]] décrit le soutien gradué que de tels outils devraient fournir.
+L'apprentissage des adultes se situe à l'intersection de plusieurs concepts étroitement liés. L'[[higher-ed|enseignement supérieur]] fournit le contexte institutionnel dans lequel se déroule une grande part de l'apprentissage des adultes et de l'apprentissage à distance, tandis que la [[professional-training|formation professionnelle]] couvre sa dimension liée au monde du travail et l'[[lifelong-learning|apprentissage tout au long de la vie]] sa dimension d'éducation continue. L'[[vocational-education|enseignement et la formation professionnels]] est le concept voisin qui nomme un métier plutôt qu'un apprenant : l'apprentissage des adultes décrit ce que les apprenants apportent à tout contexte — autodirection, expérience préalable, buts pratiques immédiats. L'EFP désigne la préparation initiale et proche de la pratique à un métier ou à un rôle technique nommé, jugée par la compétence démontrée avec les équipements et encadrée par les systèmes de qualification plutôt que par des dispositions andragogiques. L'[[online-teaching-and-learning|enseignement et l'apprentissage en ligne]] sont le médium de diffusion dominant pour les apprenants adultes — qui étudient souvent au travail ou à la maison — si bien que ses affordances (accès 24h/24 et 7j/7, soutien asynchrone) et ses risques ([[academic-integrity|intégrité]], [[cognitive-offloading|délestage]]) sont centraux pour la [[learning-design|conception de l'apprentissage]] des adultes. L'[[self-regulated-learning|apprentissage autorégulé]] et l'[[agency|autonomie]] nomment les capacités de l'apprenant que l'IA doit protéger plutôt qu'éroder, et le [[cognitive-offloading|délestage cognitif]] saisit le mécanisme par lequel l'IA peut les soutenir ou les saper. L'[[inclusive-learning|apprentissage inclusif]] et l'[[equity-in-ai-education|équité]] dans l'IA en éducation cadrent les obligations d'équité des outils d'IA destinés aux adultes, l'[[human-in-the-loop-ai|IA avec intervention humaine]] nomme le patron de conception qui maintient les humains responsables, et l'[[scaffolding|étayage]] décrit le soutien gradué que de tels outils devraient fournir.
 
 ## Implications pour les enseignants et les concepteurs de l'éducation des adultes
 

@@ -1,7 +1,7 @@
 ---
 title: "Comment l'IA peut-elle m'aider à donner de meilleures rétroactions à grande échelle ?"
 created: "2026-09-22T19:12:18-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 weight: 70
 type: faq
 technology: [human-in-the-loop-ai]
@@ -10,7 +10,7 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-source_updated: "2026-11-11T09:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-feedback-at-scale
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -101,7 +101,7 @@ Aldino et al. trouvent le même schéma « assister puis vérifier » dans la pr
 
 Douze des 21 enseignants d'Aldino et al. ont fait d'autres révisions au niveau des phrases, et le schéma dominant était la calibration du ton : atténuer les louanges (f = 11), supprimer des suggestions (f = 9), supprimer des encouragements (f = 8). Les révisions se concentraient sur la dimension relationnelle, en particulier la relation étudiant-enseignant (f = 24). Ils protégeaient l'authenticité et la voix professionnelle, et ce travail ne s'automatise pas.
 
-Les étudiants sont l'autre versant de cette vérification, et leur récit de la division du travail est proche de celui que recommande cette page. Dans des groupes de discussion réunissant 20 étudiants de premier cycle, la rétroaction de l'enseignant était valorisée pour son caractère relationnel, personnalisé et porté par l'expertise, tandis que la rétroaction générée par l'IA paraissait impersonnelle et potentiellement injuste ; ces mêmes étudiants se montraient ouverts à un modèle hybride dans lequel l'enseignant lit leur travail et complète les commentaires du modèle ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). La même étude a trouvé que leurs jugements s'accordaient avec ceux de ChatGPT sur la spécificité et le caractère actionnable mais divergeaient sur la ponctualité et la positivité, si bien que les dimensions sur lesquelles le verdict d'un modèle peut être cru sont plus étroites que la grille entière.
+Les étudiants sont l'autre versant de cette vérification, et leur récit de la division du travail est proche de celle qui est recommandée. Dans des groupes de discussion réunissant 20 étudiants de premier cycle, la rétroaction de l'enseignant était valorisée pour son caractère relationnel, personnalisé et porté par l'expertise, tandis que la rétroaction générée par l'IA paraissait impersonnelle et potentiellement injuste ; ces mêmes étudiants se montraient ouverts à un modèle hybride dans lequel l'enseignant lit leur travail et complète les commentaires du modèle ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). La même étude a trouvé que leurs jugements s'accordaient avec ceux de ChatGPT sur la spécificité et le caractère actionnable mais divergeaient sur la ponctualité et la positivité, si bien que les dimensions sur lesquelles le verdict d'un modèle peut être cru sont plus étroites que la grille entière.
 
 ## Apprendre aux étudiants à lire le commentaire
 
@@ -153,6 +153,6 @@ Les notes de satisfaction vous disent que les commentaires sont exacts. Dans le 
 
 ## Où aller ensuite
 
-[[feedback]] est le concept chapeau de tout le système : la fourniture, la boucle, la reprise et le contexte d'évaluation. [[ai-feedback-quality|La qualité de la rétroaction par IA]] couvre ce qui rend les commentaires générés exacts, utiles, opportuns et pédagogiquement solides, et cette page est le milieu pratique, sur les combinaisons de ces éléments qui produisent une meilleure rétroaction à l'échelle.
+[[feedback]] est le concept chapeau de tout le système : la fourniture, la boucle, la reprise et le contexte d'évaluation. [[ai-feedback-quality|La qualité de la rétroaction par IA]] couvre ce qui rend les commentaires générés exacts, utiles, opportuns et pédagogiquement solides, et la question pratique est de savoir quelles combinaisons de ces éléments produisent une meilleure rétroaction à l'échelle.
 
 Les questions sur ce qu'une note devrait signifier une fois l'IA impliquée, y compris la substitution de construit, les preuves de processus authentifiées et les règles d'intégrité, relèvent de [[redesign-assessment-ai-era|repenser l'évaluation à l'ère de l'IA]] et de [[assessment-validity|la validité de l'évaluation]] plutôt que d'ici. Pour le cas particulier de l'enseignement de l'écriture, voir [[writing-instruction-ai-best-practices|les bonnes pratiques pour l'enseignement de l'écriture dans le contexte de l'IA]].

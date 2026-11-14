@@ -1,7 +1,7 @@
 ---
 title: Les garde-fous
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -9,7 +9,7 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -33,7 +33,7 @@ ai_assist:
 - Dans une expérience de terrain, un [[intelligent-tutoring|tuteur d'IA]] sans garde-fous a amélioré la performance en exercice mais réduit les notes à un examen ultérieur sans assistance, tandis qu'une version « indice plutôt que réponse » a éliminé le préjudice. Pourquoi améliorer la performance des étudiants sur le moment pourrait-elle en fait les faire apprendre moins ?
 - Si un tuteur d'IA est conçu pour être « bienveillant » — ne contredisant jamais et ne donnant jamais de [[feedback|rétroaction]] corrective — comment cela pourrait-il constituer un problème de sécurité plutôt qu'une fonctionnalité ? Quand le comportement accommodant est-il nuisible dans un contexte éducatif ?
 - Les garde-fous sont décrits comme un ensemble stratifié de contrôles, allant du prompting à l'ancrage des connaissances, en passant par l'entraînement et l'audit. Choisissez une couche et demandez-vous : où pourrait-elle échouer, et qu'est-ce qu'une autre couche attraperait qu'elle rate ?
-- La page note que les garde-fous eux-mêmes peuvent être biaisés — refus et réponses édulcorées structurés selon l'[[learner-identity|identité de l'étudiant]]. Comment auditeriez-vous un filtre de sécurité pour vous assurer qu'il ne reproduit pas silencieusement l'iniquité tout en « protégeant » les apprenants ?
+- Les garde-fous eux-mêmes peuvent être biaisés — refus et réponses édulcorées structurés selon l'[[learner-identity|identité de l'étudiant]]. Comment auditeriez-vous un filtre de sécurité pour vous assurer qu'il ne reproduit pas silencieusement l'iniquité tout en « protégeant » les apprenants ?
 - Les apprenants plus jeunes sont décrits comme les moins outillés pour détecter un comportement d'IA manipulateur ou complaisant. Comment cela change-t-il ce que « sûr » devrait signifier pour un outil d'IA destiné à la K-12 par rapport à l'université ?
 
 ## Introduction

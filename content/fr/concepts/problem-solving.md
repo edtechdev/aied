@@ -1,14 +1,14 @@
 ---
 title: Résolution de problèmes
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-05T18:23:46-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
 translation_of: concepts/problem-solving
-source_updated: "2026-11-12T21:50:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -24,12 +24,12 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Résolution de problèmes** — le processus consistant à formuler, analyser et résoudre des défis nouveaux ou complexes — est une compétence fondamentale du XXIe siècle que les outils d'IA amplifient et menacent tout à la fois. À travers les articles de la base de connaissances, l'IA générative fonctionne comme un soutien, un partenaire dialogique et un moteur de réponses, et sa valeur éducative dépend de ce que les apprenants demeurent les décideurs principaux ou qu'ils externalisent leur raisonnement vers la machine. Cette tension entre efficience et engagement cognitif et régulateur plus profond de l'[[student-engagement|étudiant]] définit la [[research-methods-aied|recherche]] actuelle sur l'IA et la résolution de problèmes.
+> **Résolution de problèmes** — le processus consistant à formuler, analyser et résoudre des défis nouveaux ou complexes — est une compétence fondamentale du XXIe siècle que les outils d'IA amplifient et menacent tout à la fois. À travers les études examinées ici, l'IA générative fonctionne comme un soutien, un partenaire dialogique et un moteur de réponses, et sa valeur éducative dépend de ce que les apprenants demeurent les décideurs principaux ou qu'ils externalisent leur raisonnement vers la machine. Cette tension entre efficience et engagement cognitif et régulateur plus profond de l'[[student-engagement|étudiant]] définit la [[research-methods-aied|recherche]] actuelle sur l'IA et la résolution de problèmes.
 
 ## Questions à examiner
 
 - Pensez à un problème vraiment difficile que vous avez bien résolu. Qu'est-ce qui rendait la lutte productive, et qu'est-ce qui aurait été perdu si quelqu'un vous avait simplement remis la réponse ?
-- Cette page décrit une « dette cognitive » : déléguer le raisonnement à l'IA produit le bon produit au prix de la compréhension. Vous est-il déjà arrivé d'obtenir la bonne réponse sans vraiment la comprendre ? Quel en a été le coût par la suite ?
+- La « dette cognitive » nomme le problème : déléguer le raisonnement à l'IA produit le bon produit au prix de la compréhension. Vous est-il déjà arrivé d'obtenir la bonne réponse sans vraiment la comprendre ? Quel en a été le coût par la suite ?
 - Les outils d'IA aident les étudiants à explorer de multiples perspectives et à générer leurs propres problèmes — mais ils peuvent aussi encourager la « paresse métacognitive ». Comment distinguer l'IA comme partenaire de réflexion de l'IA comme substitut à la réflexion ?
 - Une expérience a constaté que les retours réflexifs et hybrides surpassaient le retour direct de l'IA sur le transfert différé sans IA. Pourquoi un retour qui vous fait faire plus de travail mène-t-il à un apprentissage qui dure plus longtemps ?
 - Comment le fait d'[[teacher-role|enseigner]] aux étudiants à *poser* leurs propres problèmes (plutôt qu'à seulement résoudre ceux qu'on leur donne) soutient-il le transfert et l'auto-apprentissage ? Quand le fait de générer une question vous a-t-il plus appris que d'y répondre ?
@@ -43,7 +43,7 @@ Pourtant, ces mêmes outils peuvent éroder la compétence même qu'ils prétend
 
 ### La résolution de problèmes dans la recherche sur l'IA en éducation
 
-Les articles de la base de connaissances abordent la résolution de problèmes par des lentilles distinctes mais convergentes. Une [[llm-critical-thinking-teamwork-review|revue systématique PRISMA]] constate que les LLM produisent souvent des réponses incomplètes ou incorrectes, incitant les étudiants à questionner, vérifier et améliorer l'information — transformant les imperfections du modèle en cycles de validation-et-correction qui renforcent la [[critical-thinking|pensée critique]] et l'indépendance intellectuelle. Plutôt que de traiter les problèmes comme donnés, d'autres travaux mettent au premier plan la *formulation de problèmes* : [[genai-assisted-problem-posing-physics-2026|entraîner les étudiants à générer leurs propres problèmes de physique]] soutient le [[transfer-of-learning|transfert]] et l'auto-apprentissage, et les [[dai-chatbots-problem-posing-primary-2026|chatbots d'IA générative]] ont amélioré la qualité de formulation de problèmes des élèves du primaire et réduit la charge cognitive dans l'[[inquiry-based-learning|apprentissage par investigation]].
+La littérature aborde la résolution de problèmes par des lentilles distinctes mais convergentes. Une [[llm-critical-thinking-teamwork-review|revue systématique PRISMA]] constate que les LLM produisent souvent des réponses incomplètes ou incorrectes, incitant les étudiants à questionner, vérifier et améliorer l'information — transformant les imperfections du modèle en cycles de validation-et-correction qui renforcent la [[critical-thinking|pensée critique]] et l'indépendance intellectuelle. Plutôt que de traiter les problèmes comme donnés, d'autres travaux mettent au premier plan la *formulation de problèmes* : [[genai-assisted-problem-posing-physics-2026|entraîner les étudiants à générer leurs propres problèmes de physique]] soutient le [[transfer-of-learning|transfert]] et l'auto-apprentissage, et les [[dai-chatbots-problem-posing-primary-2026|chatbots d'IA générative]] ont amélioré la qualité de formulation de problèmes des élèves du primaire et réduit la charge cognitive dans l'[[inquiry-based-learning|apprentissage par investigation]].
 
 Le soutien et l'évaluation sont également centraux. Les [[adaptive-ai-scaffold-collaborative-problem-solving-2026|soutiens IA adaptatifs]] dérivés de la fouille de séquences appliquée aux profils de processus d'étudiants individuels augmentent la performance sur la tâche en résolution de problèmes collaboratifs en [[math-education|mathématiques]] — bien qu'un soutien maximal ait aussi accru les comportements scriptés. C'est la structure interne du soutien, et non sa seule présence, qui l'empêche de se réduire à donner la réponse. Un tuteur LLM guidé par des règles, construit comme un enchaînement de diagnostic, de sélection d'intention et de génération de réponses contraintes, a maintenu le tuteur et les élèves dans le script de tours de parole prévu dans 36 des 40 séances réelles de CM2 (90 %), et ses garde-fous anti-spoiler et de complétion seule ont réduit les réponses données prématurément ([[rule-integrated-llm-tutoring-primary-math-2026|Looi, Liu et Sun, 2026]]). La thèse de conception la plus forte des auteurs est soustractive : l'arithmétique est restée hors du rôle du tuteur et a été rendue à l'élève, après que le tuteur a produit une arithmétique incorrecte dans 4 des 40 séances.
 

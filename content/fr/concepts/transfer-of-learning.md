@@ -1,7 +1,7 @@
 ---
 title: "Transfert des apprentissages"
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -9,7 +9,7 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: concepts/transfer-of-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -29,12 +29,12 @@ ai_assist:
 
 ## Questions à examiner
 
-- Voici un schéma frappant que la page documente : les étudiants montrent souvent des gains immédiats sur des tâches assistées par IA, mais ces gains peuvent s'évanouir — voire s'inverser — lorsque l'IA est retirée. Avant de lire les explications, pourquoi, selon vous, un outil qui aide clairement sur le moment pourrait-il finalement laisser les étudiants plus mal lotis sans lui ?
+- Voici un schéma frappant : les étudiants montrent souvent des gains immédiats sur des tâches assistées par IA, mais ces gains peuvent s'évanouir — voire s'inverser — lorsque l'IA est retirée. Avant de lire les explications, pourquoi, selon vous, un outil qui aide clairement sur le moment pourrait-il finalement laisser les étudiants plus mal lotis sans lui ?
 - Rappelez-vous quelque chose que vous avez appris à faire avec un tuteur, une calculatrice ou un assistant, puis que vous avez dû faire seul. La compétence s'est-elle transférée, ou vous sentiez-vous dépendant de l'aide ? Qu'est-ce qui différenciait les expériences qui se transféraient bien de celles qui ne se transféraient pas ?
 - Une intuition courante veut que « la pratique est la pratique » — que faire une tâche avec de l'aide développe la même compétence que la faire seul. En quoi cette intuition peut-elle induire en erreur, surtout lorsque l'aide est une IA qui accomplit le raisonnement à votre place au lieu de vous y guider ?
-- La page établit une distinction entre les « effets avec » une technologie et les « effets de » celle-ci — mieux performer en utilisant l'outil, par opposition à devenir plus capable sans lui. Si vous êtes enseignant, concepteur ou étudiant, lequel de ces deux est votre véritable objectif, et comment sauriez-vous que vous l'avez atteint ?
+- La distinction est entre les « effets avec » une technologie et les « effets de » celle-ci — mieux performer en utilisant l'outil, par opposition à devenir plus capable sans lui. Si vous êtes enseignant, concepteur ou étudiant, lequel de ces deux est votre véritable objectif, et comment sauriez-vous que vous l'avez atteint ?
 - Les données suggèrent que la quantité de travail cognitif que vous déléguez importe : délester les tâches de surface comme la grammaire nuit moins au transfert que délester le raisonnement profond et la structure. Pensez à la dernière fois que vous avez utilisé l'IA sur un devoir. Quelle « couche » avez-vous déléguée, et que prédit votre choix sur ce que vous retiendriez ?
-- La page propose des conditions susceptibles de favoriser un transfert positif — des [[pedagogy|garde-fous pédagogiques]] ([[guardrails|garde-fous]]), un soutien qui s'estompe, une calibration à la préparation de l'apprenant. Si vous conceviez (ou étiez l'utilisateur d') un outil d'apprentissage par IA, qu'exigeriez-vous pour que les gains obtenus en l'utilisant deviennent une capacité durable sans lui ?
+- Plusieurs conditions pourraient favoriser un transfert positif — des [[pedagogy|garde-fous pédagogiques]] ([[guardrails|garde-fous]]), un soutien qui s'estompe, une calibration à la préparation de l'apprenant. Si vous conceviez (ou étiez l'utilisateur d') un outil d'apprentissage par IA, qu'exigeriez-vous pour que les gains obtenus en l'utilisant deviennent une capacité durable sans lui ?
 
 ## Introduction
 
@@ -100,7 +100,7 @@ Cela rejoint la recherche sur l'[[intelligent-tutoring|tutorat par IA]] montrant
 3. **Différences individuelles :** les étudiants à [[prior-knowledge|connaissances préalables]] élevées souffrent-ils moins d'une perte de transfert que les novices ?
 4. **Remédiation des compétences :** des séances de pratique explicitement « sans IA » peuvent-elles inverser la dépendance à l'outil ?
 
-La question de l'échelle de temps dispose désormais d'une formalisation. [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]] nomme *lessivage cognitif* l'intervalle qui suit le retrait de l'outil et lui donne quatre issues candidates : rebond élastique, plateau partiel, étayage latent et sur-récupération. La réversibilité, soutient l'article, est ce qui détermine la gravité, et il propose un protocole préenregistrable à trois bras sur vingt-deux semaines pour la mesurer. Les études ci-dessus ont testé le transfert quelques heures après la fin de l'assistance, de sorte que les semaines suivantes constituent la part de la première question ouverte de cette page qui reste véritablement non mesurée.
+La question de l'échelle de temps dispose désormais d'une formalisation. [[cognitive-washout-ai-skill-decay-2026|Yajee (2026)]] nomme *lessivage cognitif* l'intervalle qui suit le retrait de l'outil et lui donne quatre issues candidates : rebond élastique, plateau partiel, étayage latent et sur-récupération. La réversibilité, soutient l'article, est ce qui détermine la gravité, et il propose un protocole préenregistrable à trois bras sur vingt-deux semaines pour la mesurer. Les études ci-dessus ont testé le transfert quelques heures après la fin de l'assistance, de sorte que les semaines suivantes constituent la part de la première question ouverte qui reste véritablement non mesurée.
 
 ### Connexions avec les concepts liés
 
@@ -108,7 +108,7 @@ Le transfert des apprentissages est lié à la [[metacognition]] (auto-surveilla
 
 ## Idées fausses courantes
 
-**« Des gains sur des tâches assistées par l'IA démontrent un apprentissage transférable. »** C'est le schéma inverse que le corpus trouve : **les cinq études** de la synthèse présentée ici rapportent un transfert **négatif ou nul** lorsque l'IA généraliste constitue l'intervention — des lycéens de mathématiques ayant de meilleures notes de pratique obtenant **environ 17 % de moins** aux examens sans documents, et une étude de rédaction où **83 %** des étudiants ne parvenaient pas à se rappeler leurs propres citations. La performance assistée immédiate est la mesure la moins transférable dont on dispose.
+**« Des gains sur des tâches assistées par l'IA démontrent un apprentissage transférable. »** C'est le schéma inverse que les données probantes révèlent : **les cinq études** de la synthèse présentée ici rapportent un transfert **négatif ou nul** lorsque l'IA généraliste constitue l'intervention — des lycéens de mathématiques ayant de meilleures notes de pratique obtenant **environ 17 % de moins** aux examens sans documents, et une étude de rédaction où **83 %** des étudiants ne parvenaient pas à se rappeler leurs propres citations. La performance assistée immédiate est la mesure la moins transférable dont on dispose.
 
 **« Si un étudiant peut le faire avec l'IA, il sait le faire. »** C'est la définition de l'échec, non son absence. Le transfert exige que la capacité survive au retrait du soutien, et les études qui testent ce retrait constatent que la capacité se trouvait dans l'outil. Un apprenant capable de produire un artefact pendant que le raisonnement s'accomplit ailleurs a été formé à une autre compétence : opérer l'outil.
 

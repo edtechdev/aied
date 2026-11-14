@@ -1,14 +1,14 @@
 ---
 title: "Que disent les données probantes sur les interventions de littératie en IA dans l'enseignement supérieur ?"
 created: "2026-09-22T19:10:56-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 weight: 50
 foundations: [ai-literacy]
 assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
 audience: [instructors, researchers, administrators]
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-literacy-evidence
 translation_note: "Traduction automatique de la page anglaise, non encore relue par une personne de langue maternelle."
 contributors: [editor]
@@ -47,7 +47,7 @@ La réponse pour cette salle, et l'état des preuves dans l'[[higher-ed|enseigne
 
 ## Construisez la séquence autour d'une critique
 
-L'exemple de classe le plus solide de la base de connaissances vient de la psychologie de premier cycle. Richmond et Nicholls ont demandé aux étudiants d'évaluer un communiqué de presse généré par [[generative-ai|ChatGPT]] selon leur propre grille de cours, de nommer les erreurs et de le réviser. Les étudiants ont généralement vu que la prose était soignée et que le contenu déformait les objectifs, les méthodes et les résultats de la recherche. Par rapport à la cohorte précédente de [[peer-assessment|évaluation par les pairs]], le groupe de critique de l'IA a légèrement mieux réussi la révision du script qui suivait (*d* = 0.36), sans avantage significatif sur la vidéo finale ([[richmond-nicholls-genai-psych-feedback-ai-literacies]]).
+L'exemple de classe le plus solide vient de la psychologie de premier cycle. Richmond et Nicholls ont demandé aux étudiants d'évaluer un communiqué de presse généré par [[generative-ai|ChatGPT]] selon leur propre grille de cours, de nommer les erreurs et de le réviser. Les étudiants ont généralement vu que la prose était soignée et que le contenu déformait les objectifs, les méthodes et les résultats de la recherche. Par rapport à la cohorte précédente de [[peer-assessment|évaluation par les pairs]], le groupe de critique de l'IA a légèrement mieux réussi la révision du script qui suivait (*d* = 0.36), sans avantage significatif sur la vidéo finale ([[richmond-nicholls-genai-psych-feedback-ai-literacies]]).
 
 La littérature dont ces exemples proviennent s'appuie sur des interventions courtes, de l'[[self-regulated-learning|auto-déclaration]] et des travaux fondés sur la conception, et cette étude porte deux de ces limites. La comparaison était historique, si bien qu'une cohorte mieux préparée produirait le même schéma. L'avantage apparaissait aussi sur l'artefact intermédiaire et disparaissait sur le produit fini, ce à quoi on s'attendrait si la critique avait enseigné la révision.
 
@@ -67,7 +67,7 @@ Une [[liu-ai-literacy-interventions-meta-analysis-2026|méta-analyse à trois ni
 
 Les auteurs lisent leur propre résultat comme un argument pour dépasser les connaissances au profit des compétences, des pratiques, de l'éthique et des attitudes, par une pédagogie réflexive intégrée et une conception [[culturally-relevant-pedagogy|culturellement pertinente]]. Pour un comité, deux implications font le travail. Le résultat que vous mesurez façonne l'effet que vous trouvez, donc choisissez le résultat qui vous importe réellement. Un intervalle de prédiction aussi large plaide pour un pilote local.
 
-La mesure est l'endroit où la plupart des revendications de programme échouent. Le test de performance validé **GLAT** prédisait la performance sur une tâche universitaire assistée par IA. Une mesure de littératie ChatGPT [[self-report-measures|auto-déclarée]] ne la prédisait pas ([[jin-glat-genai-literacy-assessment]] ; [[ai-literacy-assessment-misalignment]]). Dans toute la base de connaissances, la compétence en IA déclarée et démontrée divergent substantiellement, ce qui fait de la [[educational-measurement|mesure éducative]] et de la [[assessment-validity|validité de l'évaluation]] des parties de la conception plutôt qu'un ajout tardif dans l'[[ai-ed-evaluation|évaluation]].
+La mesure est l'endroit où la plupart des revendications de programme échouent. Le test de performance validé **GLAT** prédisait la performance sur une tâche universitaire assistée par IA. Une mesure de littératie ChatGPT [[self-report-measures|auto-déclarée]] ne la prédisait pas ([[jin-glat-genai-literacy-assessment]] ; [[ai-literacy-assessment-misalignment]]). Dans la littérature, la compétence en IA déclarée et démontrée divergent substantiellement, ce qui fait de la [[educational-measurement|mesure éducative]] et de la [[assessment-validity|validité de l'évaluation]] des parties de la conception plutôt qu'un ajout tardif dans l'[[ai-ed-evaluation|évaluation]].
 
 Burriss et al. précisent ce qui compte. Leur étude auprès de 22 élèves de onzième année composant des messages d'intérêt public vidéo sur l'éthique de l'IA soutient que les échelles de littératie et les cadres de compétences existants supposent une performance mesurable individuellement, ce qui exclut l'expression collaborative et créative. Ils proposent des réflexions d'étudiants, des artefacts [[multimodal|multimodaux]] et un discours civique comme compléments aux mesures conventionnelles. Leurs étudiants ont développé une compréhension critique de l'éthique de l'IA par une [[critical-pedagogy|pédagogie critique]] collaborative, ce qui remet en cause les conceptions de la littératie comme liste de compétences ainsi que les instruments bâtis sur elles. Quinze des 18 réponses de fin d'unité confirmaient de nouveaux apprentissages, et les auteurs notent que le projet résiste à l'[[summative-assessment|évaluation sommative]] traditionnelle ([[burriss-multimodal-composition-critical-ai-literacy-2026]]).
 
@@ -115,7 +115,7 @@ La littératie est une compétence qui se transfère d'un outil à l'autre. Dai 
 
 **« Le certificat est le mécanisme de redevabilité. »** Wu et Li ont trouvé que la compétence des enseignants était la contrainte déterminante, et que l'adaptabilité interculturelle pesait le moins. Un certificat enregistre que quelqu'un a terminé quelque chose.
 
-**« Nos enseignants ne sont pas prêts à enseigner cela. »** Les preuves sont d'accord. La capacité des enseignants était le plus grand écart dans les données de Wu et Li, et aucune étude de cette page ne teste comment le combler.
+**« Nos enseignants ne sont pas prêts à enseigner cela. »** Les preuves sont d'accord. La capacité des enseignants était le plus grand écart dans les données de Wu et Li, et aucune étude ne teste comment le combler.
 
 ## À faire cette semaine
 

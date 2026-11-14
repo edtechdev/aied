@@ -2,7 +2,7 @@
 
 title: "Enseignement de la chimie"
 created: "2026-08-19T12:55:00-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 connected_resources: [teacher-dev]
 foundations: [ai-literacy, philosophy-of-ai-in-education]
@@ -12,7 +12,7 @@ discipline: [chemistry education, stem education]
 level: [higher ed, k 12, teacher education]
 confidence: high
 translation_of: concepts/chemistry-education
-source_updated: "2026-11-12T10:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -32,11 +32,11 @@ ai_assist:
 
 ## Questions à examiner
 
-- La chimie associe des concepts abstraits et submicroscopiques, une notation symbolique spécialisée et la pratique concrète du laboratoire. Avant de lire, laquelle de ces trois exigences distinctes pensez-vous que l'IA traite bien, et laquelle pourrait-elle avoir du mal à traiter — d'autant que la page avertit de l'échec des LLM sur les tâches [[quantitative-research|quantitatives]] rigoureuses et de raisonnement spatial ?
+- La chimie associe des concepts abstraits et submicroscopiques, une notation symbolique spécialisée et la pratique concrète du laboratoire. Avant de lire, laquelle de ces trois exigences distinctes pensez-vous que l'IA traite bien, et laquelle pourrait-elle avoir du mal à traiter — d'autant que les preuves documentent l'échec des LLM sur les tâches [[quantitative-research|quantitatives]] rigoureuses et de raisonnement spatial ?
 - Une étude a fait concevoir des protocoles de travaux pratiques par les étudiants avec l'IA, les mettre en œuvre concrètement et les faire valider par des professionnels — augmentant significativement la confiance expérimentale et la pensée critique tout en faisant évoluer le rôle du personnel de la démonstration vers l'accompagnement. Qu'est-ce qui distingue cette « IA pour la conception expérimentale » du simple fait de demander des réponses à l'IA ?
 - Les preuves systématiques montrent que les LLM peuvent définir des termes de chimie fondamentaux mais se comportent mal sur les tâches quantitatives rigoureuses, peinent sur le raisonnement spatial (comme la RMN) et font preuve de trop de confiance. Si une IA vous donne avec assurance une réponse fausse à un problème de chimie difficile, comment la détecteriez-vous — et quelle compétence cette détection exige-t-elle ?
 - La recherche propose d'attribuer à l'IA des rôles distincts selon le niveau de réussite — un tuteur Patient pour les élèves faibles, un Coach Personnel pour le niveau intermédiaire, et un Partenaire de Discussion Intellectuelle pour les élèves forts. Pourquoi, à votre avis, un même outil d'IA devrait-il jouer des rôles différents selon les étudiants, et qu'est-ce que cela exige de l'enseignant humain ?
-- La page avertit d'une « dérive épistémique » — le recours à des algorithmes opaques détachant l'enquête scientifique de la compréhension causale. Si l'IA prédit un résultat expérimental, quand cette prédiction vous aide-t-elle à comprendre la chimie, et quand remplace-t-elle silencieusement la compréhension elle-même ?
+- La « dérive épistémique » est le risque : le recours à des algorithmes opaques détache l'enquête scientifique de la compréhension causale. Si l'IA prédit un résultat expérimental, quand cette prédiction vous aide-t-elle à comprendre la chimie, et quand remplace-t-elle silencieusement la compréhension elle-même ?
 
 ## Introduction
 

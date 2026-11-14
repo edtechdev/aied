@@ -1,7 +1,7 @@
 ---
 title: "Littératie en rétroaction"
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-11-05T18:53:37-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T16:20:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -39,9 +39,11 @@ ai_assist:
 
 La littératie en rétroaction importe parce qu'une rétroaction bien conçue n'aide que les étudiants capables de l'interpréter et d'agir en conséquence. Un étudiant incapable d'évaluer si une rétroaction générée par l'IA est exacte, ou qui ne sait pas comment transformer une rétroaction en révision concrète, apprend beaucoup moins de la même rétroaction qu'un camarade dont la littératie est plus élevée. Alors que l'IA refonde la production de rétroaction, la littératie en rétroaction est devenue une condition auxiliaire déterminante de la question de savoir si la rétroaction par IA améliore l'apprentissage.
 
+[[corbin-recognition-feedback-2026|Corbin, Tai et Flenady (2026)]] placent la reconnaissance avant la littératie : un étudiant doit accorder à celui qui donne la rétroaction la légitimité de le guider, et se voir accorder la légitimité de répondre, faute de quoi la littératie n'a rien sur quoi travailler.
+
 ## Ce qu'est la littératie en rétroaction
 
-La littératie en rétroaction est largement pensée comme un ensemble de capacités interdépendantes — la capacité à apprécier la rétroaction, à porter un jugement, à gérer les affects et à passer à l'action (d'après Carless & Boud). Les articles de la base de connaissances regroupent la littératie en rétroaction autour de plusieurs capacités :
+La littératie en rétroaction est largement pensée comme un ensemble de capacités interdépendantes — la capacité à apprécier la rétroaction, à porter un jugement, à gérer les affects et à passer à l'action (d'après Carless & Boud). La littérature regroupe la littératie en rétroaction autour de plusieurs capacités :
 
 - **Rechercher et solliciter la rétroaction** — demander activement une rétroaction plutôt que la recevoir passivement.
 - **Porter un jugement** — évaluer l'exactitude et l'utilité de la rétroaction, y compris lorsqu'elle est produite par l'IA.

@@ -1,7 +1,7 @@
 ---
 title: "IA explicable"
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-11-11T06:42:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -36,7 +36,7 @@ ai_assist:
 - Lorsqu'un [[intelligent-tutoring|tuteur par IA]] vous dit pourquoi un indice a été donné, explique-t-il le *contenu enseigné* ou la *décision du système* ? Pouvez-vous nommer trois exemples de chacun dans votre propre usage de l'IA éducative ?
 - Qui a besoin d'explications en éducation — et les apprenants, les enseignants et les décideurs publics en ont-ils besoin du *même* type ? À quoi chacun emploierait-il une explication ?
 - Un système d'IA signale qu'un étudiant risque d'abandonner. Que doit savoir un [[teacher-role|enseignant]] pour agir en conséquence, par rapport à ce que l'étudiant doit savoir ? La même explication convient-elle aux deux ?
-- Cette page soutient que la *qualité* de l'explication compte davantage que sa *disponibilité*. Qu'est-ce qui fait échouer une explication techniquement présente — vous souvenez-vous d'un moment où une explication était là, mais inutile, ou pire, trompeuse ?
+- La *qualité* de l'explication compte davantage que sa *disponibilité*. Qu'est-ce qui fait échouer une explication techniquement présente — vous souvenez-vous d'un moment où une explication était là, mais inutile, ou pire, trompeuse ?
 - La [[trust-calibration|confiance]] et l'explication sont liées mais non identiques. Pourquoi une explication fluide et assurée pourrait-elle créer une confiance *fausse* dans un système défaillant — et comment détecteriez-vous que cela se produit ?
 
 ## Introduction
@@ -86,7 +86,7 @@ L'explication n'est pas toujours un facteur d'égalisation. Dans une expérience
 
 Les citations fonctionnent comme un indice de crédibilité plutôt que comme une preuve d'exactitude : l'ajout de citations et de signaux d'autorité à une interface de débat a fait passer l'abandon d'un jugement correct au profit de la position de l'IA de 15.0% à 31.8%, et les cas cités étaient parfois mal attribués ou fictifs ([[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et coll., 2026]]).
 
-Deux mises en garde aiguisent encore ce constat, que la contribution la plus récente du wiki sur le sujet place au centre. Premièrement, la machinerie d'explication n'est pas elle-même neutre : des méthodes a posteriori comme LIME et SHAP peuvent être infidèles au comportement réel du modèle, de sorte qu'une explication techniquement présente peut tromper plutôt qu'informer ([[lund-socially-accountable-data-science-xai-2026|Lund et coll. 2026]], s'appuyant sur Chuan et coll. 2024). Deuxièmement, **l'explication n'est pas la reddition de comptes**. Un exposé des variables qui ont piloté une prédiction ne révèle ni si ces variables étaient appropriées à l'usage, ni si les données d'entraînement étaient représentatives, ni si la conception du système traduisait un jugement solide ; les explications peuvent créer l'apparence de la transparence tout en laissant intactes les conditions structurelles qui ont produit une décision (Mittelstadt et coll. 2019). Pour l'éducation, cela signifie que la question à continuer de poser n'est pas de savoir si une explication a été produite, mais si la personne qui la reçoit — un étudiant, un enseignant, un conseiller — pouvait la comprendre, agir en conséquence, ou contester la décision qui la sous-tend. La même défaillance de lisibilité apparaît du côté de la sécurité de l'[[automated-assessment|évaluation automatisée]] : [[humble-prompt-injection-ai-grading-red-team-2026|le test d'intrusion mené par Humble (2026) sur un outil de notation par IA]] a montré que celui-ci désactivait silencieusement le dialogue après avoir bloqué une injection d'invite et — bien qu'il eût annoncé qu'il ne suivrait jamais les instructions embarquées — les suivait dans six exécutions supplémentaires sur le même fichier, ne laissant à l'utilisateur aucun signal fiable sur lequel fonder sa confiance.
+Deux mises en garde aiguisent encore ce constat, toutes deux centrales dans les travaux les plus récents sur le sujet. Premièrement, la machinerie d'explication n'est pas elle-même neutre : des méthodes a posteriori comme LIME et SHAP peuvent être infidèles au comportement réel du modèle, de sorte qu'une explication techniquement présente peut tromper plutôt qu'informer ([[lund-socially-accountable-data-science-xai-2026|Lund et coll. 2026]], s'appuyant sur Chuan et coll. 2024). Deuxièmement, **l'explication n'est pas la reddition de comptes**. Un exposé des variables qui ont piloté une prédiction ne révèle ni si ces variables étaient appropriées à l'usage, ni si les données d'entraînement étaient représentatives, ni si la conception du système traduisait un jugement solide ; les explications peuvent créer l'apparence de la transparence tout en laissant intactes les conditions structurelles qui ont produit une décision (Mittelstadt et coll. 2019). Pour l'éducation, cela signifie que la question à continuer de poser n'est pas de savoir si une explication a été produite, mais si la personne qui la reçoit — un étudiant, un enseignant, un conseiller — pouvait la comprendre, agir en conséquence, ou contester la décision qui la sous-tend. La même défaillance de lisibilité apparaît du côté de la sécurité de l'[[automated-assessment|évaluation automatisée]] : [[humble-prompt-injection-ai-grading-red-team-2026|le test d'intrusion mené par Humble (2026) sur un outil de notation par IA]] a montré que celui-ci désactivait silencieusement le dialogue après avoir bloqué une injection d'invite. Après avoir annoncé qu'il ne suivrait jamais les instructions embarquées, il les a suivies dans six exécutions supplémentaires sur le même fichier, ne laissant à l'utilisateur aucun signal fiable sur lequel fonder sa confiance.
 
 **L'explicabilité par la conception** est une réponse au problème de fidélité des méthodes a posteriori. [[li-explainable-trustworthy-llm-teacher-assessment-2025|Li, Yang et Fang (2025)]] paramètrent un décodeur d'explication par la même représentation fusionnée et la même note prédite qui décident de l'[[assessment|évaluation]], de sorte qu'une note faible sur un questionnement [[formative-assessment|formatif]] produit une justification nommant l'insuffisance des questions de sondage, et l'associent à une attention à double volet portant sur les références des programmes et sur les gestes propres à la grille disciplinaire. L'alignement de l'attention sur la grille atteint 78.0% contre 41.7% pour GPT-4 en zero-shot et 32.1% pour BERT, et la fidélité est sondée par suppression contrefactuelle des passages critiques pour la grille, parallèlement à des évaluations humaines sur une liste de contrôle ancrée dans la grille, ce qui donne un score de crédibilité de l'explication de 0.78 — une augmentation de 0.31 par rapport à BERT-base. L'audit montre aussi où l'affirmation architecturale s'amincit : sur les indices émotionnels, le modèle alloue 28.4% du poids d'attention contre 15.2% pour un expert (alignement 0.53), avec un cas d'échec attribuant 28% au token « frustrated », ce que les auteurs lisent comme un surajustement à l'affect plutôt qu'à la pédagogie, et qu'ils désignent comme un axe d'amélioration. Intégrer les explications dans le chemin de décision les rend plus fidèles que les justifications a posteriori ; cela ne les rend pas correctes.
 
@@ -132,7 +132,6 @@ Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., K
 - [[recommender-systems-and-learning-paths]]
 
 ## Articles liés
-
 - [[kares-xai-evaluation-alignment-2027]] — 166 participants, trois méthodes de saillance : satisfaction et confiance stables, performance à la tâche et métriques de fidélité en désaccord (Kares et al., 2027)
 - [[lund-socially-accountable-data-science-xai-2026]] — Un cadre à quatre piliers (réponse, responsabilité, application, réflexivité) pour enseigner l'XAI comme pratique de reddition de comptes (Lund et coll. 2026)
 - [[ko-hughes-vsd-student-centered-its-2026]] — Conception sensible aux valeurs d'un ITS centré sur l'étudiant (explications collaboratives ou brutes)

@@ -1,7 +1,7 @@
 ---
 title: Normes sociales de l'usage de l'IA
 created: "2026-09-23T09:54:12-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 connected_faqs: [course-ai-policy, reduce-ai-cheating, should-we-use-ai-detectors]
 type: concept
 foundations: [academic-integrity, framing-ai-use-for-students, learner-identity]
@@ -13,7 +13,7 @@ audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/social-norms-ai-use
-source_updated: "2026-11-12T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Les normes sociales de l'usage de l'IA** — les règles informelles, appliquées localement, qui décident du moment où les apprenants et les enseignants peuvent utiliser l'IA générative, de l'ouverture avec laquelle ils peuvent l'admettre, et de ce qui compte comme [[academic-integrity|triche]] dans la pratique plutôt que dans la politique. Le corpus est mince sur les normes comme sujet et épais sur les mécanismes qui les produisent. Les apprenants ne peuvent pas inférer de manière fiable l'usage de l'IA des uns et des autres : la corrélation médiane entre les estimations d'un observateur et son propre profil d'usage [[self-report-measures|auto-déclaré]] était de r = 0,73 aux deux vagues, et l'exactitude du classement pour le *type* d'usage de l'IA était de r = 0,34 à la seconde vague. [[shame-guilt-ai-regulation-computing-education|La honte et la culpabilité régulent la visibilité plutôt que l'usage]], produisant dissimulation et divulgation sélective au lieu d'un changement de comportement. Les normes disciplinaires divergent fortement : des devoirs intégrant l'IA sont apparus dans 27% des syllabus de gestion et 5% des syllabus d'humanités sur 31 000 cours. Et la littérature formelle d'[[ethics|éthique]] achemine aux utilisateurs finaux les normes les moins nombreuses et les moins actionnables, ce qui signifie que les personnes soumises aux normes de la classe sont largement absentes des documents qui les discutent.
+> **Les normes sociales de l'usage de l'IA** — les règles informelles, appliquées localement, qui décident du moment où les apprenants et les enseignants peuvent utiliser l'IA générative, de l'ouverture avec laquelle ils peuvent l'admettre, et de ce qui compte comme [[academic-integrity|triche]] dans la pratique plutôt que dans la politique. La recherche est mince sur les normes comme sujet et épaisse sur les mécanismes qui les produisent. Les apprenants ne peuvent pas inférer de manière fiable l'usage de l'IA des uns et des autres : la corrélation médiane entre les estimations d'un observateur et son propre profil d'usage [[self-report-measures|auto-déclaré]] était de r = 0,73 aux deux vagues, et l'exactitude du classement pour le *type* d'usage de l'IA était de r = 0,34 à la seconde vague. [[shame-guilt-ai-regulation-computing-education|La honte et la culpabilité régulent la visibilité plutôt que l'usage]], produisant dissimulation et divulgation sélective au lieu d'un changement de comportement. Les normes disciplinaires divergent fortement : des devoirs intégrant l'IA sont apparus dans 27% des syllabus de gestion et 5% des syllabus d'humanités sur 31 000 cours. Et la littérature formelle d'[[ethics|éthique]] achemine aux utilisateurs finaux les normes les moins nombreuses et les moins actionnables, ce qui signifie que les personnes soumises aux normes de la classe sont largement absentes des documents qui les discutent.
 
 ## Questions à examiner
 
@@ -45,7 +45,7 @@ ai_assist:
 
 La [[regulation|réglementation]] formelle de l'[[ai-education|IA en éducation]] arrive sous forme de politique : déclarations d'usage acceptable, clauses de syllabus, procédures d'[[ai-detection|détection]], systèmes de [[remote-proctoring|surveillance]], codes d'honneur. Tout ce que les étudiants éprouvent réellement, cependant, se situe sous cette couche. Un camarade de classe qui ne mentionne jamais utiliser ChatGPT, un enseignant qui dit « je me moque de la manière dont vous l'écrivez » puis l'interdit dans le syllabus, un groupe d'étude qui s'est discrètement mis d'accord sur ce qui est juste, un département où tout le suppose que la courbe de notation a déjà changé. Ce sont des normes : des attentes partagées quant au comportement acceptable, appliquées par l'approbation, la désapprobation et le risque d'être vu.
 
-Cette page rassemble ce que la base de preuves dit de cette couche. Il convient de bien la distinguer, parce que l'expression « [[curriculum-design|curriculum]] caché » est souvent utilisée de manière relâchée pour désigner tout ce qui est officieux. Ici, le sujet est plus étroit : les règles opératoires sur l'usage de l'IA, la manière dont elles se forment, dont elles sont appliquées, et la faiblesse du lien qui les unit aux règles écrites. Le corpus ne compte presque aucune étude qui mesure directement les normes, ce qui est en soi un constat. Ce qu'il comporte, ce sont des preuves répétées sur les mécanismes : l'inférence, la divulgation, l'émotion, et la variation disciplinaire qui façonne ce que toute norme locale peut devenir.
+La base de preuves a beaucoup à dire sur cette couche. Il convient de bien distinguer celle-ci, parce que l'expression « [[curriculum-design|curriculum]] caché » est souvent utilisée de manière relâchée pour désigner tout ce qui est officieux. Ici, le sujet est plus étroit : les règles opératoires sur l'usage de l'IA, la manière dont elles se forment, dont elles sont appliquées, et la faiblesse du lien qui les unit aux règles écrites. Presque aucune étude ne mesure directement les normes, ce qui est en soi un constat. Ce dont elle dispose, ce sont des preuves répétées sur les mécanismes : l'inférence, la divulgation, l'émotion, et la variation disciplinaire qui façonne ce que toute norme locale peut devenir.
 
 ## Ce que les étudiants croient les uns des autres
 

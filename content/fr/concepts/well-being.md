@@ -1,7 +1,7 @@
 ---
 title: "Le bien-être"
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-11-12T23:30:00-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 translation_of: concepts/well-being
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T08:02:30-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -35,9 +35,9 @@ ai_assist:
 
 ## Questions à examiner
 
-- Le bien-être en éducation est souvent traité comme une préoccupation « douce » ou secondaire face aux résultats d'apprentissage. Mais la page le cadre comme une dimension centrale et concevable de l'intégration de l'IA. Pensez-vous le bien-être des apprenants et des enseignants comme une chose à concevoir, ou comme un sous-produit que l'on peut vérifier plus tard ? Que le champ pourrait-il perdre à le traiter comme une pensée tardive ?
+- Le bien-être en éducation est souvent traité comme une préoccupation « douce » ou secondaire face aux résultats d'apprentissage. Mais il s'agit d'une dimension centrale et concevable de l'intégration de l'IA. Pensez-vous le bien-être des apprenants et des enseignants comme une chose à concevoir, ou comme un sous-produit que l'on peut vérifier plus tard ? Que le champ pourrait-il perdre à le traiter comme une pensée tardive ?
 - Songez à la manière dont l'usage de l'IA a affecté votre propre confiance ou celle de vos étudiants, votre anxiété, votre sentiment d'appartenance ou votre agentivité — en mieux et en pis. Quelle est une manière concrète dont l'IA a changé votre expérience émotionnelle de l'apprentissage ou de l'enseignement, au-delà du simple confort ?
-- La page note que l'usage de l'IA est entrelacé avec l'anxiété — au sujet de l'intégrité académique, de la question de savoir si le recours à l'IA signale une faiblesse, de la dépendance excessive. Où avez-vous vu l'IA induire de l'anxiété plutôt que la soulager, et qui, dans cette situation, était le plus affecté ?
+- L'usage de l'IA est entrelacé avec l'anxiété : au sujet de l'intégrité académique, de la question de savoir si le recours à l'IA signale une faiblesse, de la dépendance excessive. Où avez-vous vu l'IA induire de l'anxiété plutôt que la soulager, et qui, dans cette situation, était le plus affecté ?
 - Une intuition répandue veut que l'IA réduise le stress en prenant en charge les tâches difficiles. Où l'inverse pourrait-il être vrai — une IA qui abaisse l'effort à court terme tout en augmentant l'anxiété quant à la compétence, à l'intégrité, ou au fait de « ne pas vraiment savoir le faire » ? Comment mesureriez-vous même une évolution du bien-être plutôt que la seule production ?
 - Le bien-être couvre les dimensions émotionnelle, psychologique (finalité, [[agency|autonomie]], compétence) et sociale (appartenance, relations). Choisissez-en une. Comment un outil d'IA pourrait-il discrètement l'améliorer ou la miner dans un cadre d'apprentissage — et que chercheriez-vous comme preuve ?
 - Le bien-être des enseignants — charge de travail, anxiété face à une technologie disruptive, capacité d'offrir un soutien émotionnel — est tout autant en jeu que celui des étudiants. Si vous êtes éducateur ou dirigeant, que faudrait-il pour que l'intégration de l'IA soutienne le bien-être des éducateurs plutôt qu'elle n'ajoute à la pression, et qui devrait en être comptable ?
@@ -71,6 +71,8 @@ Un modèle d'équations structurelles portant sur 502 enseignants-chercheurs uni
 - **L'éthique et l'IA responsable :** le bien-être est une considération éthique centrale dans l'[[ai-education|IA en éducation]], en lien avec l'[[ethics|éthique]] et l'impératif de concevoir une IA qui soutienne plutôt qu'elle ne nuise à la santé mentale et à l'appartenance des apprenants.
 - **L'anxiété liée aux détecteurs comme risque pour le bien-être.** [[sovereign-hive-titl-further-education-2026|Herron (2026)]] nomme la « flagxiety » — l'anxiété induite par la crainte d'allégations non fiables de la part des [[ai-detection|détecteurs d'IA]] — et soutient que les apprenants marginalisés de l'enseignement supérieur court, dont l'unicité cognitive peut être lue comme une faute, ont besoin d'une régulation relationnelle plutôt que d'une interface non régulée susceptible de déclencher un arrêt cognitif.
 
+**Pour les enseignants, la compétence n'atteint le bien-être que par la satisfaction professionnelle.** [[kayali-ai-literacy-tpack-wellbeing-2026|Kayalı et al. (2026)]] ont modélisé 350 enseignants en exercice et constaté que la [[ai-literacy|littératie en IA]] alimentait fortement chaque composante du AI-TPACK (β = 0.65 à 0.73), mais les composantes se séparaient sur la satisfaction : la connaissance technologique du contenu en IA l'élevait (β = 0.41) tandis que la connaissance technique seule l'abaissait (β = −0.30). La satisfaction portait ensuite l'effet vers le bien-être émotionnel, psychologique et social (β = 0.42, 0.68 et 0.57) sans qu'aucun chemin direct ne subsiste — bien que le modèle n'explique que 11 pour cent de la satisfaction.
+
 ## Le bien-être comme considération de conception
 
 Un thème récurrent est que le bien-être devrait être une considération délibérée de conception dans l'IA en éducation, et non une pensée tardive. Cela signifie : concevoir l'IA pour qu'elle soutienne les relations humaines plutôt qu'elle ne les remplace ; garantir que les étudiants peuvent maintenir leur agentivité et leur confiance, plutôt que de faire l'expérience d'une [[anxiety-and-stress|anxiété induite par l'IA]] ou d'une dépendance excessive ; soutenir la capacité et le bien-être des éducateurs à mesure qu'ils intègrent l'IA ; et [[ai-ed-evaluation|évaluer les systèmes d'IA]] non seulement pour leurs [[learning-gains|résultats d'apprentissage]], mais aussi pour leurs effets sur le bien-être des étudiants et des enseignants. Les [[research-methods-aied|recherches]] relient le bien-être à la [[motivation|motivation]], à l'[[self-regulated-learning|apprentissage autorégulé]] et à l'[[student-experience|expérience étudiante]] (appartenance et engagement). [[daoism-ai-education-philosophy-2026|Xie (2026)]] plaide pour une finalité éducative assortie : l'idéal antagoniste du « Zhenren » (真人) taoïste remplace l'optimisation sans friction par une « intégralité cultivée », réimaginant l'apprentissage comme l'intégration harmonieuse de soi, de la société et du cosmos, et insistant sur le fait que « aucun étudiant n'est un simple jeu de données à gérer, mais un être entier capable d'atteindre l'équanimité ».
@@ -90,7 +92,7 @@ Le soutien émotionnel et le lien social peuvent évoluer en sens opposés au se
 ## Idées fausses courantes
 
 - **« L'approbation des étudiants indique que le bien-être est soutenu. »** Parmi **551 étudiants de première année**, **82,76 % approuvaient l'intégration** de contenus numériques et intelligents — et **une forte approbation coexistait avec la tension, tandis que la pression des tâches liée à l'IA affaiblissait le bénéfice**. L'approbation et la tension montent ensemble, si bien que les enquêtes de satisfaction induisent en erreur précisément ici.
-- **« Le soutien au bien-être est culturellement neutre. »** [[culturally-aware-student-stress-chatbot-2026|Bashir et Afzal (2026)]] décrivent Sukoon, un outil hybride de soutien au bien-être, comme **culturellement situé** — et le cadrage de la page elle-même en note les limites. Une conception du soutien qui présume un étudiant universel lit mal la population.
+- **« Le soutien au bien-être est culturellement neutre. »** [[culturally-aware-student-stress-chatbot-2026|Bashir et Afzal (2026)]] décrivent Sukoon, un outil hybride de soutien au bien-être, comme **culturellement situé** — et le cadrage de l'étude elle-même en note les limites. Une conception du soutien qui présume un étudiant universel lit mal la population.
 - **« La pression des tâches est étrangère à la technologie. »** Le constat est que la **pression des tâches** liée à l'IA affaiblissait le bénéfice de l'intégration, ce qui place la charge de travail à l'intérieur des effets de la technologie plutôt qu'à côté.
 
 ## Concepts liés
@@ -109,6 +111,7 @@ Le soutien émotionnel et le lien social peuvent évoluer en sens opposés au se
 
 ## Articles liés
 
+- [[kayali-ai-literacy-tpack-wellbeing-2026]] — 350 enseignants : le AI-TCK élève la satisfaction professionnelle tandis que le AI-TK l'abaisse, et la satisfaction est la seule voie vers le bien-être (Kayalı et al., 2026)
 - [[ai-chatbots-emotional-support-human-connection-2025]] — 819 étudiants ont bien noté les chatbots et craignaient surtout la perte du lien humain
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — La friction, le sens et la solitude comme signal biologique
 - [[zhang-ai-anxiety-academic-motivation-emotion-2026]] — La relation entre l'anxiété liée à l'IA et la motivation académique

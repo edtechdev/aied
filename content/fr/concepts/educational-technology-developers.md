@@ -2,7 +2,7 @@
 connected_resources: [playlab]
 title: "Les développeurs de technologie éducative"
 created: "2026-09-17T15:20:00-04:00"
-updated: "2026-11-05T18:33:20-05:00"
+updated: "2026-11-13T19:05:00-05:00"
 type: concept
 foundations: [educational-development, learning-design]
 technology: [learning-analytics, edtech-platform, open-source]
@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [design-based-research]
 translation_of: concepts/educational-technology-developers
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **Les développeurs de technologie éducative** — les personnes et les organisations qui construisent la technologie éducative : concepteurs de produits, développeurs de logiciels, ingénieurs de l'apprentissage, concepteurs d'analytique de l'apprentissage, et les entreprises d'edtech, les laboratoires universitaires et les projets [[open-source|libres]] dans lesquels ils travaillent. Dans l'[[ai-education|IA en éducation]], c'est le rôle qui transforme une capacité de modèle en quelque chose qu'un [[teacher-role|enseignant]] ou un apprenant peut réellement utiliser, et il porte des décisions qu'aucune étape ultérieure ne peut défaire : sur quelles données une affirmation de conception repose, dans quelle mesure un pipeline d'[[learning-analytics|analytique]] ou un système d'[[intelligent-tutoring|tutorat]] est ancré dans les matériaux sous licence de l'institution elle-même, si les enseignants et les apprenants sont inclus dans la conception, quelles hypothèses de [[learning-design|conception pédagogique]] sont inscrites dans les valeurs par défaut, et ce qu'il advient du produit après la fin du financement. À travers les rapports de systèmes et les études de déploiement de la base de connaissances, la leçon récurrente est que le contexte de déploiement, et non le modèle, constitue généralement la contrainte déterminante.
+> **Les développeurs de technologie éducative** — les personnes et les organisations qui construisent la technologie éducative : concepteurs de produits, développeurs de logiciels, ingénieurs de l'apprentissage, concepteurs d'analytique de l'apprentissage, et les entreprises d'edtech, les laboratoires universitaires et les projets [[open-source|libres]] dans lesquels ils travaillent. Dans l'[[ai-education|IA en éducation]], c'est le rôle qui transforme une capacité de modèle en quelque chose qu'un [[teacher-role|enseignant]] ou un apprenant peut réellement utiliser, et il porte des décisions qu'aucune étape ultérieure ne peut défaire : sur quelles données une affirmation de conception repose, dans quelle mesure un pipeline d'[[learning-analytics|analytique]] ou un système d'[[intelligent-tutoring|tutorat]] est ancré dans les matériaux sous licence de l'institution elle-même, si les enseignants et les apprenants sont inclus dans la conception, quelles hypothèses de [[learning-design|conception pédagogique]] sont inscrites dans les valeurs par défaut, et ce qu'il advient du produit après la fin du financement. À travers les rapports de systèmes et les études de déploiement, la leçon récurrente est que le contexte de déploiement, et non le modèle, constitue généralement la contrainte déterminante.
 
 ## Questions à examiner
 
@@ -39,7 +39,7 @@ ai_assist:
 
 ## Introduction
 
-Le développeur se situe un niveau au-dessous de la plateforme. [[edtech-platform]] décrit le système déployé et la partie prenante qu'il devient une fois dans une école ou une université ; cette page porte sur les personnes qui décident de ce que fait ce système. La distinction importe parce que les constats au niveau de la plateforme — faible adoption, [[equity-in-ai-education|biais d'équité]], friction d'approvisionnement — sont généralement des conséquences de choix de conception faits plus tôt, par quelqu'un qui n'a jamais rencontré les apprenants.
+Le développeur se situe un niveau au-dessous de la plateforme. [[edtech-platform]] décrit le système déployé et la partie prenante qu'il devient une fois dans une école ou une université ; ce sont les développeurs qui décident de ce que fait ce système. La distinction importe parce que les constats au niveau de la plateforme — faible adoption, [[equity-in-ai-education|biais d'équité]], friction d'approvisionnement — sont généralement des conséquences de choix de conception faits plus tôt, par quelqu'un qui n'a jamais rencontré les apprenants.
 
 Le rôle se distingue aussi de ses voisins. Le [[learning-design|conception pédagogique]] et la [[curriculum-design|conception de programmes]] conçoivent un cours pour une cohorte connue ; un développeur de technologie conçoit un produit que de nombreux cours, enseignés par des gens qu'il n'a jamais rencontrés, utiliseront — c'est pourquoi les valeurs par défaut, la configurabilité et la documentation portent un poids pédagogique. L'[[educational-development|développement éducatif]] soutient le personnel enseignant d'une institution depuis l'intérieur ; les développeurs se tiennent à l'extérieur ou aux côtés, fournissant les outils que ce personnel est ensuite invité à adopter. Et la [[design-based-research|recherche fondée sur la conception]] est le standard de données probantes que l'on demande de plus en plus à ces développeurs de satisfaire : itératif, contextuel, et rapporté avec ses propres limites.
 
