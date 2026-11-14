@@ -1,7 +1,7 @@
 ---
 title: Problem-Based Learning
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-14T12:19:30-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -45,6 +45,8 @@ The three-level meta-analysis that pools GenAI-supported PBL with project-based 
 - **Domain implementations.** PBL frameworks for [[engineering-education|biomedical engineering]] use GenAI for summarization and coding support with replication packages ([[pbl-biomedical-engineering-genai-2026|Nnamdi et al. 2026]]); AI-supported PBL enhances [[computational-thinking|computational thinking]] in [[educational-robotics|robotics]] ([[ai-pbl-computational-thinking-2026|AI-supported PBL for computational thinking]]); and genAI-enabled virtual patients support medical history-taking tutorials ([[genai-simulate-patient-history-pbl-2026|Mool et al. 2026]]).
 - **Evidence synthesis.** [[educators-engagement-ai-pbl-review-2026|Amdan et al. (2026)]] [[meta-analysis-systematic-review|systematically review]] 50 studies (2015–2024) on educators' engagement with AI in PBL within a [[human-ai-collaboration|human-computer interaction]] framework.
 - **GenAI in scenario-based PBL.** [[genai-scenario-based-healthcare-education-2026|Neto and colleagues (2026)]] include problem-based learning among the scenario-based approaches in their systematic review of GenAI in healthcare education, finding that [[prompt-engineering|prompt design]] functions as instructional specification and that hybrid human-AI collaboration outperforms fully automated approaches. The review highlights the need for stronger alignment of generated content with instructional frameworks and more reproducible prompting practices in PBL contexts.
+
+- **Staged withdrawal turns the final choice into a judgment task.** In [[abril-jimenez-human-centred-engineering-genai-2026|Abril-Jimenez et al. (2026)]], 105 second-year engineering students used GenAI to explore a problem and build prototypes, then selected a solution with the tools deliberately restricted and criteria set in advance. The authors credit that restriction, not the tool, with the critical evaluation.
 
 - **AI can carry the tutor's knowledge delivery but not the social regulation of group learning.** In a four-week pharmacology quasi-experiment, [[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty & Rao (2026)]] found AI-mediated PBL matched facilitator-led academic gains (between-group p = 0.474), while facilitator-led groups retained advantages in group dynamics (26.51 vs 24.74, p = 0.035) and critical thinking (14.75 vs 13.09, p < 0.001).
 
