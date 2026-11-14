@@ -35,7 +35,7 @@ def audit(path, en):
     if fm.get('issue') != 4: probs.append(f"issue={fm.get('issue')}")
     created = fm.get('created')
     created = created.isoformat() if hasattr(created, 'isoformat') else str(created)
-    if created != '2026-11-14T08:00:00-05:00': probs.append(f"created={created}")
+    if created != '2026-11-14T04:30:00-05:00': probs.append(f"created={created}")
     if fm.get('status') != 'published': probs.append(f"status={fm.get('status')}")
     if fm.get('spotlight') != ['assessment-validity', 'automated-assessment', 'writing-education', 'educational-policy-ai', 'shadow-ai']:
         probs.append(f"spotlight={fm.get('spotlight')}")
