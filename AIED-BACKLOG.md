@@ -7,7 +7,22 @@
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
 **Last updated:** 2026-11-15
-**Total backlog:** 36 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Total backlog:** 41 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+
+## OpenAlex weekly topic sweep (2026-11-15)
+
+The topic sweep returned 395 candidates for the 7 days to 2026-11-15 (25 dropped as already
+rejected). Five were selected as worth ingesting — a mapping review of randomized evidence, two
+systematic reviews in disciplines the corpus covers thinly, a scoping review of adaptive and
+co-regulation designs, and a controlled study of LLM scaffolds and delayed cost — and none was
+ingested this week, because the run's full-text budget went to the eight RSS articles above. All
+five are open access at their landing pages.
+
+- [Mapping randomized evidence on artificial intelligence-based educational interventions](https://doi.org/10.1186/s12909-026-10834-2) — [DOI: 10.1186/s12909-026-10834-2](https://doi.org/10.1186/s12909-026-10834-2)
+- [Scaffold or Crutch? Immediate Benefits and an Unresolved Delayed Cost of LLM-Assisted Learning](https://doi.org/10.3390/computers15110827) — [DOI: 10.3390/computers15110827](https://doi.org/10.3390/computers15110827)
+- [From Learner Modeling to Human–AI Co-Regulation: A Systematic Scoping Review of Adaptive Learning Designs](https://doi.org/10.12688/f1000research.191923.1) — [DOI: 10.12688/f1000research.191923.1](https://doi.org/10.12688/f1000research.191923.1)
+- [Generative Artificial Intelligence in High School Science Education: A Systematic Review](https://doi.org/10.60027/jelr.2026.e3979) — [DOI: 10.60027/jelr.2026.e3979](https://doi.org/10.60027/jelr.2026.e3979)
+- [A hybrid bibliometric and systematic review of generative AI in engineering education](https://doi.org/10.1007/s44217-026-02401-0) — [DOI: 10.1007/s44217-026-02401-0](https://doi.org/10.1007/s44217-026-02401-0)
 
 ## Weekly journal RSS scan (2026-11-15)
 
