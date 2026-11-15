@@ -8,6 +8,12 @@ technology: [adaptive-learning, intelligent-tutoring, conversational-ai, generat
 level: [primary education, k 12]
 confidence: medium
 reviewed_by: [editor]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: drafting
+    date: "2026-11-15"
+    agent: hermes-agent
 ---
 
 > **Synthesis:** AI in primary education is used mainly to differentiate practice in early literacy and numeracy, to draft materials for teachers, and to give children something to ask questions of. The best-controlled studies show small gains that depend on [[teacher-role|teacher]] orchestration rather than the model, and a trial built to isolate [[adaptive-learning|adaptivity]] found no advantage for it. This page covers what the evidence supports in tutoring, reading, writing, and [[ai-literacy|AI literacy]], and why class-level deployment changes what good practice means at ages five to eleven.

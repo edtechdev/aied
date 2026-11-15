@@ -11,10 +11,11 @@ translation_of: concepts/graduate-education
 source_updated: "2026-11-15T06:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
-  - model: deepseek/deepseek-v4.1-flash
+  - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-15"
     agent: hermes-agent
+contributors: [editor]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*

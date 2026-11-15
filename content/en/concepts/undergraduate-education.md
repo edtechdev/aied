@@ -9,6 +9,12 @@ technology: [generative-ai, conversational-ai, intelligent-tutoring, llm]
 level: [undergraduate, higher ed]
 confidence: medium
 reviewed_by: [editor]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: drafting
+    date: "2026-11-15"
+    agent: hermes-agent
 ---
 
 > **Synthesis:** Undergraduate education is where AI meets the largest classes and the most standardized [[assessment]]: first- and second-year gateway courses in which one instructor teaches several hundred students against a shared rubric. The trials at this level split along design rather than model. A tutor built from a course's own pedagogy beat in-class [[active-learning|active learning]], while a well-grounded course assistant deployed without instructional integration lowered grades and participation. The strongest evidence concerns [[feedback]] at scale, [[help-seeking]] [[scaffolding|scaffolds]], verified study material and outreach that moves administrative deadlines; the weakest concerns claims that a general assistant raises what students can do unaided.

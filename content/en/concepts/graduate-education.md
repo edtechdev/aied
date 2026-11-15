@@ -8,6 +8,12 @@ technology: [generative-ai, llm, simulation, intelligent-tutoring, learning-anal
 level: [graduate, higher ed]
 confidence: medium
 reviewed_by: [editor]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: drafting
+    date: "2026-11-15"
+    agent: hermes-agent
 ---
 
 > **Synthesis:** Graduate education is the level at which AI stops being a study aid and starts competing with the artifact a degree certifies: the thesis chapter, the diagnostic read, the clinical encounter, the admissions essay. The studies that exist cluster in professional and clinical programs, where tutoring, simulated patients, and decision support produce short-term gains, and in the [[assessment]] literature, where the same tools weaken the evidential value of unsupervised text. Supervision is the least studied and most consequential setting, and its evidence is now measured but correlational, with most guidance still design argument.

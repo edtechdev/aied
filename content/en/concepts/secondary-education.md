@@ -8,6 +8,12 @@ technology: [generative-ai, intelligent-tutoring, llm]
 level: [secondary, middle school, k 12]
 confidence: medium
 reviewed_by: [editor]
+contributors: [editor]
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: drafting
+    date: "2026-11-15"
+    agent: hermes-agent
 ---
 
 > **Synthesis:** Secondary education is the band where [[generative-ai|generative AI]] use is ordinary and measured [[learning-gains|learning gains]] are smaller than the claims made for it. A two-year trial in ordinary middle schools produced about 0.06–0.08 SD a year, and the K-12 [[intelligent-tutoring|intelligent tutoring]] [[meta-analysis-systematic-review|meta-analysis]] about g = 0.27, because [[student-engagement|engagement]] and [[help-seeking|help-seeking]] bound the effect rather than model capability. Students prefer the tool that does more of the cognitive work, and [[ai-detection|detectors]] separate whole essays but not sentences. The evidence runs from exam revision through [[writing-education|writing]] and authorship to marking, detection, and the middle-school years where use outruns skepticism.
@@ -38,7 +44,7 @@ The same students adopt fastest. In Switzerland, 84% of 14–19-year-olds report
 
 ## Tutoring, revision, and the engagement problem
 
-- **Access is not use.** In 18 Tennessee middle schools, Khanmigo raised math achievement 0.06–0.08 SD a year at about $15 per student, close to the gain from the same Khan Academy practice without AI. Ninety-six percent of students tried it, but the median student messaged it in 17% of sessions containing a mistake ([[one-click-away-khanmigo-two-year-school-experiment-2026|Oreopoulos and Low, 2026]]).
+- **Access is not use.** In 18 Tennessee middle schools, Khanmigo raised math achievement 0.06–0.08 SD a year at about \$15 per student, close to the gain from the same Khan Academy practice without AI. Ninety-six percent of students tried it, but the median student messaged it in 17% of sessions containing a mistake ([[one-click-away-khanmigo-two-year-school-experiment-2026|Oreopoulos and Low, 2026]]).
 
 - **A person in the room changes the experience of difficulty.** Among 149 sixth-form students working above curriculum level, stress was reported by 32.0% of open-web searchers, 19.2% of GenAI tutor users, and 5.8% of those with a human tutor. No learning outcome was measured ([[ennion-human-tutoring-genai-tutoring-search-2026|Ennion and McLellan, 2026]]).
 
@@ -96,7 +102,7 @@ Secondary sits between [[primary-education]] and [[undergraduate-education]], an
 
 **For school leaders**
 
-- Budget from realized use. A $15 license is not a program; the effect depends on scheduling, teacher [[prompt-engineering|prompting]], and progress monitoring.
+- Budget from realized use. A \$15 license is not a program; the effect depends on scheduling, teacher [[prompt-engineering|prompting]], and progress monitoring.
 - Set expectations at 0.06–0.08 SD a year for tutoring in ordinary classrooms and about 0.27 for intelligent tutoring. Do not promise gap closure from either.
 - Keep detector output out of misconduct findings. Require drafts, version history, or [[oral-assessment|oral defense]], because whole-text scores move under one rewrite.
 
