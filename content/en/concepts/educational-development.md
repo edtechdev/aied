@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-14T21:52:00-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -40,6 +40,8 @@ Educational development is the professional and institutional work through which
 - **AI-mediated professional reflection.** The Reflective Triangle Model positions AI as a cognitive mediator across [[reflection|self-reflection]], collaborative reflection, and community reflection in a professional learning community, tested in a four-week feasibility case with six teachers; the boundary it draws is that individual insight does not automatically become shared professional knowledge ([[reflective-triangle-model-teacher-ai-2026|Nguyen (2026)]]).
 - **[[governance|governance]] and policy:** [[genai-policies-higher-ed-computing|Institutional AI policy analysis]] documents the gap between institutional ambitions and faculty support capacity.
 - **AI literacy is institutionally invisible.** A [[meta-analysis-systematic-review|systematic review]] of 32 studies of language-teacher AI literacy found it absent from workload models, promotion policies and resource allocation, with development fragmented and accountability displaced across institutions and agencies — so literacy development defaults to individual effort rather than structural support ([[governing-unseen-ai-literacy-language-teachers-2026|Deng, Çelik & Duran, 2026]]).
+
+- **Constructionist workshops need a map.** Three 50-minute sessions moved 20 to 25 faculty from playful prompting to reusable teaching materials, yet participants new to AI asked for a conceptual briefing before the sandbox ([[fischer-learning-by-making-faculty-development-2026|Fischer (2026)]]).
 
 ### Metaphors and shared language in educational development
 

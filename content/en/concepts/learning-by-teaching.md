@@ -1,7 +1,7 @@
 ---
 title: Learning by Teaching
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-14T21:52:00-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -50,6 +50,8 @@ A central design challenge for LLM-based teachable agents is that LLMs are train
 - **[[socrates-students-instructors-llms-lbt-2025|Engineered knowledge gaps]]** (Yang et al.) design problems the LLM cannot solve without knowledge only the student possesses, making teaching a necessity and countering the passive over-reliance of LLM-as-tutor use.
 - **Explique's apprentice constraints** (Wang et al.) instruct the tutee to (a) stay a novice, (b) keep requesting clarification until the student's explanation is accurate, and (c) never reveal the target explanation — and to *resist* students who try to reverse the roles and have the tutee explain back.
 - **Unlearning as a weights-level route to fallibility.** Machine unlearning suppresses 16 targeted knowledge components in Mistral-7B, dropping accuracy from about 0.75 at a 10% forgetting ratio to below 0.5 at 40% while the base model held near 0.85. The suppressed knowledge returned through supervised relearning and coach-guided dialogue, so the tutee's knowledge level is a dial rather than an assertion ([[simulating-novice-students-machine-unlearning-2026|Song, Guo & Lin, 2026]]).
+
+- **Supervision as the tutee task.** In a two-course design case, students hire, onboard and coach a general-purpose assistant, then document what it got wrong; the instructors report that explaining conventions to the tool clarified those conventions for the student ([[rodak-braddock-hire-ai-personal-assistants-2025|Rodak & Braddock, 2025]]).
 
 ## Questioning, Self-Regulation, and Active Learning
 

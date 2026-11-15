@@ -1,7 +1,7 @@
 ---
 title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-14T21:52:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -72,6 +72,8 @@ Learning design is the bridge discipline of [[ai-education|AI in education]] —
 ## Co-design and what must stay human
 
 Co-design is the part of design practice where the relational work is least substitutable. [[zeivots-postdigital-co-design-genai-2025|Zeivots et al. (2025)]] treat [[generative-ai|GenAI]] as an unreliable collaborator rather than a drafting tool, and build a three-phase sequence around that unreliability: the model provokes, pluralises and facilitates, while the group interrogates its framings, generates counter-narratives and holds the deliberation itself. What stays human is the negotiation — which voices are missing, which framing the group adopts, and what the shared understanding will be. The article is a collective forum of nineteen authors with no experiment, so the sequence is a proposal about practice rather than a tested method.
+
+A three-course MOOC series makes the designer's own workflow the object of instruction, splitting tool-specific demonstrations from evergreen design principles so the material survives model releases ([[quintana-generative-ai-learning-design-partner-2025|Quintana et al. (2025)]]).
 
 ## How learning design determines learning gains
 

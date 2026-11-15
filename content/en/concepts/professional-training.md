@@ -2,7 +2,7 @@
 connected_resources: [master-instructional-design]
 title: Workplace Learning
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-14T21:52:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 technology: [generative-ai, llm, simulation]
@@ -69,6 +69,8 @@ A six-week AI-supported program with 105 chemistry teachers aimed at the researc
 - **Exposure and repetition, not demographics, track favorable perceptions.** In a [[mixed-methods-research|mixed-methods]] study of 302 Turkish primary mathematics teachers ([[cigerci-primary-teachers-perceptions-ai-mathematics-2026|Ciğerci and Uygun, 2026]]), prior AI training (t = 3.661) and frequency of AI use (F = 41.280) were the variables most consistently associated with positive views, while willingness (M = 3.98) and attitudes (M = 3.82) sat well above personal experience (M = 3.00). The authors treat prior training as the clearest lever schools can act on, which points to repeated, sustained use rather than a single introduction.
 - **Role rotation as the load-bearing structure.** A design-based study of 62 pre-service educational psychologists in Kazakhstan ([[kenzhebayeva-ai-role-rotation-pedagogical-model-2026|Kenzhebayeva et al., 2026]]) rotated students through four professional positions over eight weeks, with generative AI supplying preliminary ideas. The authors argue the value lay in the rotation rather than in the tool, since each role framed the same case differently, and later cycles showed more requests for theoretical justification. They report engagement rather than measured gains, having collected no pre-post competence measures.
 - **A checklist for entering Agile work.** Backlogs from 211 student teams yielded 17 mistake types and a checklist; Master's teams that attended the checklist workshop averaged 1.67 mistake categories against 2.6 ([[spichkova-genai-agile-requirements-2026|Spichkova (2026)]]).
+
+- **A course built for L&D practitioners, revised four times.** A five-week asynchronous elective became ten weeks after students asked for more time; tool cost, ethics before sign-up and tool currency drove the other changes, all recorded in a Learning Engineering change log ([[da-silva-ai-course-learning-development-2025|da Silva (2025)]]).
 
 ## Distinct from academic education
 

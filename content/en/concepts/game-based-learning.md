@@ -1,7 +1,7 @@
 ---
 title: Game-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-14T21:52:00-05:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
@@ -35,6 +35,8 @@ GBL is grounded in [[motivation|motivation]], [[student-engagement|student engag
 - **Students as game designers rather than players:** [[karampa-students-game-designers-ai-literacy-2026|Karampa et al. (2026)]] had 22 primary students aged 8-12 design an augmented escape board game about misinformation, stacking [[project-based-learning|project-based learning]] with [[design-thinking|design thinking]] and the Room2Educ8 escape-room framework. Composite [[ai-literacy|AI literacy]] on a 20-item DigComp 3.0 questionnaire rose from 3.684 to 4.309 on a 5-point scale, t(21) = −21.086, p < .001, with all five competence areas improving. The class generated 11 proposals with AI prompts and merged them into one buildable game. [[self-report-measures|Self-report]], one class, and no control group.
 
 - **Split the AI into a dialogue coach and a difficulty engine.** An AI-enhanced Roblox environment for upper-secondary computational thinking paired a GPT-4 non-player character, capped at two to three sentences and barred from giving answers, with a rule-based engine that set difficulty from time-to-solution and error rate ([[hengsawat-ai-game-based-learning-computational-thinking-2026|Hengsawat, Junruang & Kanjug, 2026]]).
+
+- **Escape rooms with an in-game chatbot.** A two-month build produced a browser-based 3D escape room for K-12 cybersecurity, with a GPT-4o panel embedded as a robot students can question; teachers joined the second iteration and closed a shortcut in the puzzle chain ([[na-yang-escape-room-cybersecurity-2026|Na & Yang (2026)]]).
 
 ## Gamification
 
