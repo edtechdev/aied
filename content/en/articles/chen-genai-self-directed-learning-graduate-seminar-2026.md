@@ -22,7 +22,7 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: drafting
-    date: 2026-11-15
+    date: "2026-11-15"
     agent: Hermes-Agent
 ---
 > **Synthesis:** A 16-week graduate Training and Development Seminar in Taiwan measured self-directed learning and course motivation before and after a semester of AI-supported professional training work. Both totals rose across all responses (self-directed learning 80.62 to 87.38; ARCS motivation 98.08 to 106.54), and eight matchable records gained 7.25 and 9.88 points on average (exact p-values .015625 and .03125). Reflections describe AI as an always-available structuring aid with obvious professional relevance, alongside worry about dependence and self-doubt. With no comparison group, it documents plausible change in one seminar, not an effect of AI support.

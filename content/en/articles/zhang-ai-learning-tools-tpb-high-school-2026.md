@@ -23,7 +23,7 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: drafting
-    date: 2026-11-15
+    date: "2026-11-15"
     agent: Hermes-Agent
 ---
 
