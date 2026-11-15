@@ -6,6 +6,7 @@ type: article
 pedagogy: [game-based-learning, motivation, student-engagement]
 technology: [generative-ai]
 research_method: [system development]
+page_kind: [implementation]
 level: [higher ed]
 sources: ['raw/papers/ai-gamification-security-education-2026.md']
 confidence: high

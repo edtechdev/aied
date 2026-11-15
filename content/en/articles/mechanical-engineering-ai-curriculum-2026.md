@@ -7,6 +7,7 @@ foundations: [ai-education, computational-thinking, curriculum-design]
 pedagogy: [project-based-learning]
 technology: [machine-learning, open-source]
 research_method: [system development, design and evaluation study]
+page_kind: [design case]
 discipline: [engineering education, stem education]
 sources: ['raw/papers/mechanical-engineering-ai-curriculum-2026.md']
 confidence: high

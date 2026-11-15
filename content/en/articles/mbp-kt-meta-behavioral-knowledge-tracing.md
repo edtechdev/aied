@@ -6,6 +6,7 @@ type: article
 technology: [adaptive-learning, knowledge-tracing, learning-analytics]
 methods: [benchmark]
 research_method: [system development]
+page_kind: [framework]
 audience: [learners, software developers]
 sources: ['raw/papers/2605.08697.md']
 confidence: medium

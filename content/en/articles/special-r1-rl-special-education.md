@@ -7,6 +7,7 @@ pedagogy: [scaffolding]
 technology: [intelligent-tutoring, llm, personalized-learning, reinforcement-learning]
 audience: [software developers]
 research_method: [system development]
+page_kind: [framework]
 level: [special education, k 12]
 sources: ['raw/papers/2605.30670.md']
 confidence: high

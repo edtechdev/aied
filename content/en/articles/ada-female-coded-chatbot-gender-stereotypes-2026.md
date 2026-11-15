@@ -9,6 +9,7 @@ ethics: [equity-in-ai-education]
 sources: ['raw/papers/ada-female-coded-chatbot-gender-stereotypes-2026.md']
 confidence: high
 research_method: [quasi-experiment, system development]
+page_kind: [evaluation]
 discipline: [math education, stem education]
 audience: [instructors, instructional designers]
 level: [secondary, k 12]

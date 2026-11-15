@@ -6,6 +6,7 @@ type: article
 foundations: [design-thinking]
 technology: [educational-robotics, generative-ai, intelligent-tutoring, llm]
 research_method: [system development]
+page_kind: [implementation]
 level: [higher ed]
 sources: ['raw/papers/vonschallen-teachy-mini-gsr-2026.md']
 confidence: high

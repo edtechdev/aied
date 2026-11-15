@@ -9,6 +9,7 @@ updated: "2026-09-19T07:04:04-04:00"
 sources: ['raw/papers/luminote-llm-vr-stage-lighting-education-2026.md']
 confidence: high
 research_method: [system development, user study]
+page_kind: [implementation]
 discipline: [humanities education]
 level: [higher ed]
 audience: [instructors, instructional designers, learners]

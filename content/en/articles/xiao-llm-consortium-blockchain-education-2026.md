@@ -10,6 +10,7 @@ methods: [benchmark]
 ethics: [privacy, trust]
 audience: [software developers]
 research_method: [system development]
+page_kind: [framework]
 level: [higher ed]
 sources: ['raw/papers/xiao-llm-consortium-blockchain-education-2026.md']
 confidence: high

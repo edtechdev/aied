@@ -7,6 +7,7 @@ technology: [educational-nlp, llm]
 assessment: [automated-assessment, feedback, formative-assessment]
 methods: [benchmark]
 research_method: [system development]
+page_kind: [implementation]
 discipline: [language learning]
 sources: ['raw/papers/bert-discourse-english-teaching-2026.md']
 confidence: high

@@ -8,6 +8,7 @@ technology: [llm]
 assessment: [automated-assessment, feedback, formative-assessment]
 audience: [software developers]
 research_method: [system development]
+page_kind: [implementation]
 discipline: [writing education]
 sources: ['raw/papers/2606.20287.md']
 confidence: high

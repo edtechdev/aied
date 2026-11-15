@@ -7,6 +7,7 @@ pedagogy: [metacognition, scaffolding]
 technology: [adaptive-learning, intelligent-tutoring, llm, edtech-platform]
 assessment: [formative-assessment]
 research_method: [system development]
+page_kind: [implementation]
 level: [higher ed]
 sources: ['raw/papers/2605.06963.md']
 confidence: medium

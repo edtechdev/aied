@@ -6,6 +6,7 @@ type: article
 pedagogy: [learning-by-teaching]
 technology: [generative-ai, intelligent-tutoring, llm]
 research_method: [system development]
+page_kind: [implementation]
 discipline: [language learning]
 audience: [learners]
 sources: ['raw/papers/raw-uchida-vocab-teaching-ai.md']

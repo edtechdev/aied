@@ -6,6 +6,7 @@ type: article
 technology: [adaptive-learning, intelligent-tutoring, llm, rag]
 assessment: [formative-assessment]
 research_method: [system development]
+page_kind: [implementation]
 discipline: [stem education]
 audience: [learners]
 level: [higher ed]

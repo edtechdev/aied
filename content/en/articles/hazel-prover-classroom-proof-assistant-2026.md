@@ -9,6 +9,7 @@ assessment: [feedback, formative-assessment]
 methods: [design-based-research]
 audience: [software developers]
 research_method: [system development]
+page_kind: [implementation]
 discipline: [cs education, math education]
 sources: ['raw/papers/hazel-prover-classroom-proof-assistant-2026.md']
 confidence: high

@@ -5,6 +5,7 @@ updated: "2026-09-16T15:47:46-04:00"
 type: article
 technology: [intelligent-tutoring, learning-analytics, llm, personalized-learning, rag, edtech-platform]
 research_method: [system development]
+page_kind: [framework]
 discipline: [stem education]
 audience: [learners]
 level: [higher ed]

@@ -6,6 +6,7 @@ type: article
 foundations: [ai-education]
 technology: [adaptive-learning, generative-ai, knowledge-graph, knowledge-tracing, multimodal, student-modeling]
 research_method: [system development]
+page_kind: [implementation]
 sources: ['raw/papers/2608.03161v1.md']
 confidence: high
 audience: [software developers, researchers]

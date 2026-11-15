@@ -9,6 +9,7 @@ technology: [intelligent-tutoring, llm]
 assessment: [feedback, formative-assessment]
 audience: [instructors, software developers]
 research_method: [system development]
+page_kind: [implementation]
 discipline: [cs education]
 sources: ['raw/papers/2607.06074.md']
 confidence: high

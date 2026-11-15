@@ -7,6 +7,7 @@ foundations: [cognitive-offloading]
 pedagogy: [creativity, scaffolding]
 technology: [generative-ai, human-in-the-loop-ai, knowledge-graph, llm, rag]
 research_method: [system development, interviews]
+page_kind: [implementation]
 discipline: [writing education]
 sources: ['raw/papers/veriforge-narrative-drafting-scaffolding-2026.md']
 confidence: high

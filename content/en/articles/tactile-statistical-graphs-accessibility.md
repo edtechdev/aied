@@ -8,6 +8,7 @@ technology: [adaptive-learning, generative-ai, llm, rag, visualization]
 ethics: [equity-in-ai-education]
 audience: [researchers, instructors]
 research_method: [system development]
+page_kind: [implementation]
 level: [special education, k 12, higher ed]
 sources: ['raw/papers/2607.01214.md']
 confidence: high

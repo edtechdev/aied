@@ -6,6 +6,7 @@ type: article
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
 research_method: [experiment, system development]
+page_kind: [design case]
 discipline: [stem education]
 audience: [instructors]
 level: [higher ed]

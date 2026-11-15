@@ -7,6 +7,7 @@ technology: [adaptive-learning, intelligent-tutoring, personalized-learning]
 ethics: [equity-in-ai-education]
 audience: [software developers]
 research_method: [system development]
+page_kind: [implementation]
 level: [special education, k 12]
 sources: ['raw/papers/2607.22377.md']
 confidence: high

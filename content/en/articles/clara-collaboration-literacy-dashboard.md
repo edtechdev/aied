@@ -6,6 +6,7 @@ type: article
 pedagogy: [collaborative-learning]
 technology: [generative-ai, knowledge-tracing, learning-analytics, llm, rag, visualization, edtech-platform]
 research_method: [system development]
+page_kind: [implementation]
 level: [higher ed]
 sources: ['raw/papers/2605.17259.md']
 confidence: high

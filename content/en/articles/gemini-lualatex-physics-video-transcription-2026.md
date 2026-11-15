@@ -6,6 +6,7 @@ type: article
 technology: [generative-ai, llm, multimodal]
 ethics: [accessibility, universal-design-for-learning]
 research_method: [system development]
+page_kind: [implementation]
 discipline: [physics education]
 sources: ['raw/papers/gemini-lualatex-physics-video-transcription-2026.md']
 confidence: high

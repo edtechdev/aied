@@ -9,6 +9,7 @@ level: [k 12]
 sources: ['raw/papers/thomas-breaking-learning-system-wall-2026.md']
 confidence: medium
 research_method: [system development]
+page_kind: [implementation]
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free

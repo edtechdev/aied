@@ -7,6 +7,7 @@ foundations: [agentic-ai, educational-development, learning-design, teacher-role
 technology: [llm, edtech-platform]
 assessment: [automated-assessment]
 research_method: [system development]
+page_kind: [framework]
 audience: [instructors, faculty developers, software developers]
 level: [higher ed]
 sources: ['raw/papers/instructional-agents-multi-agent-course-gen.md']

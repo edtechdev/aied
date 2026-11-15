@@ -9,6 +9,7 @@ ethics: [multilingual-learning]
 sources: ['raw/papers/personalized-educational-video-generation-2026.md']
 confidence: high
 research_method: [system development, user study]
+page_kind: [implementation]
 discipline: [science education, math education]
 audience: [instructors, learners]
 level: k 12

@@ -7,6 +7,7 @@ technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-an
 assessment: [automated-assessment, automated-question-generation]
 methods: [benchmark]
 research_method: [system development]
+page_kind: [implementation]
 level: [higher ed]
 sources: ['raw/papers/2605.23933.md']
 confidence: medium

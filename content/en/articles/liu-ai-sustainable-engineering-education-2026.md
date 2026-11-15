@@ -6,6 +6,7 @@ type: article
 foundations: [human-ai-collaboration, learning-design]
 technology: [personalized-learning]
 research_method: [system development]
+page_kind: [framework]
 discipline: [engineering education, environmental education]
 level: [higher ed]
 sources: ['raw/papers/liu-ai-sustainable-engineering-education-2026.md']

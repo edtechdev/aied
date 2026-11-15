@@ -7,6 +7,7 @@ foundations: [agentic-ai, ai-education, learning-design, teacher-role]
 pedagogy: [pedagogy, scaffolding]
 technology: [generative-ai, human-in-the-loop-ai]
 research_method: [system development, user study]
+page_kind: [framework]
 audience: [instructors]
 sources: ['raw/papers/ai-video-dual-gatekeeping-2026.md']
 confidence: high

@@ -6,6 +6,7 @@ type: article
 pedagogy: [experiential-learning]
 technology: [ai-technologies, generative-ai, llm, pedagogical-agent]
 research_method: [system development]
+page_kind: [design case]
 discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/patel-genai-cybersecurity-ocr-multimodal-2025.md']

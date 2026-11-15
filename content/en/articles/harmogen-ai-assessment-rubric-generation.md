@@ -7,6 +7,7 @@ technology: [generative-ai, llm]
 assessment: [assessment, automated-assessment, formative-assessment]
 audience: [software developers]
 research_method: [system development]
+page_kind: [framework]
 discipline: [cs education]
 sources: ['raw/papers/harmogen-ai-assessment-rubric-generation.md']
 confidence: high

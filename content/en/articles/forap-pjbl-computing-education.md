@@ -6,6 +6,7 @@ type: article
 foundations: [teacher-role]
 pedagogy: [active-learning, project-based-learning, scaffolding]
 research_method: [system development]
+page_kind: [framework]
 discipline: [stem education]
 audience: [instructors]
 level: [k 12, higher ed]

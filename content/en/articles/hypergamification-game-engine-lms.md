@@ -6,6 +6,7 @@ type: article
 pedagogy: [active-learning, online-teaching-and-learning, student-engagement]
 technology: [learning-analytics, edtech-platform]
 research_method: [system development]
+page_kind: [framework]
 audience: [learners]
 level: [k 12, higher ed]
 sources: ['raw/papers/2607.29300.md']

@@ -6,6 +6,7 @@ type: article
 technology: [adaptive-learning, llm, personalized-learning]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 research_method: [system development]
+page_kind: [implementation]
 sources: ['raw/papers/2608.15738.md']
 confidence: high
 discipline: [language learning]

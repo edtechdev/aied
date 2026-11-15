@@ -6,6 +6,7 @@ type: article
 foundations: [human-ai-collaboration]
 technology: [intelligent-tutoring]
 research_method: [system development, user study]
+page_kind: [implementation]
 discipline: [stem education]
 audience: [learners]
 level: [higher ed, k 12]

@@ -6,6 +6,7 @@ type: article
 pedagogy: [active-learning, metacognition, scaffolding, self-regulated-learning]
 technology: [intelligent-tutoring, llm]
 research_method: [system development]
+page_kind: [framework]
 sources: ['raw/papers/2606.22349.md']
 confidence: high
 audience: [researchers, instructional designers]

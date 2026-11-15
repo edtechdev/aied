@@ -8,6 +8,7 @@ technology: [generative-ai, intelligent-tutoring, llm, prompt-engineering, rag]
 pedagogy: [professional-training]
 audience: [software developers]
 research_method: [system development]
+page_kind: [evaluation]
 discipline: [math education]
 sources: ['raw/papers/lin-llm-interactive-lesson-generation.md']
 confidence: high

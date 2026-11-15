@@ -7,6 +7,7 @@ pedagogy: [active-learning, scaffolding]
 technology: [generative-ai, llm, llm-training-and-fine-tuning, personalized-learning]
 audience: [software developers]
 research_method: [system development, experiment]
+page_kind: [implementation]
 sources: ['raw/papers/2607.12235.md']
 confidence: medium
 level: [secondary]

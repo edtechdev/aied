@@ -8,6 +8,7 @@ technology: [llm, personalized-learning, open-source]
 methods: [benchmark]
 audience: [software developers]
 research_method: [system development]
+page_kind: [implementation]
 discipline: [language learning]
 sources: ['raw/papers/2607.23322.md']
 confidence: medium

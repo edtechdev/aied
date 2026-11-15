@@ -6,6 +6,7 @@ type: article
 foundations: [ai-education, learning-design]
 ethics: [accessibility, equity-in-ai-education, universal-design-for-learning]
 research_method: [system development]
+page_kind: [implementation]
 level: [teacher education]
 sources: ['raw/papers/ludia-udl-ai-thought-partner-2026.md']
 confidence: high

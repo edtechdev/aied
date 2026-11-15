@@ -6,6 +6,7 @@ type: article
 technology: [affective-computing, affective-tutoring, intelligent-tutoring, llm-training-and-fine-tuning, rag, open-source]
 audience: [software developers]
 research_method: [system development, user study]
+page_kind: [implementation]
 discipline: [math education]
 level: [k 12]
 sources: ['raw/papers/kar-mathbuddy-affective-math-tutoring-2025.md']

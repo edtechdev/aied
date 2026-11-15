@@ -8,6 +8,7 @@ assessment: [assessment, assessment-validity, automated-assessment, automated-es
 methods: [benchmark]
 audience: [software developers]
 research_method: [system development]
+page_kind: [framework]
 sources: ['raw/papers/zhang-races-consistent-essay-scoring-llms-2026.md']
 confidence: high
 discipline: [writing education]

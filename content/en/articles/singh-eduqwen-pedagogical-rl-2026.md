@@ -7,6 +7,7 @@ technology: [llm, llm-training-and-fine-tuning, rag, reinforcement-learning, ope
 ethics: [pedagogical-safety]
 audience: [software developers]
 research_method: [system development]
+page_kind: [implementation]
 sources: ['raw/papers/singh-eduqwen-pedagogical-rl-2026.md']
 confidence: medium
 

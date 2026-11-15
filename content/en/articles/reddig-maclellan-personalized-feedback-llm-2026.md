@@ -9,6 +9,7 @@ methods: [benchmark]
 sources: ['raw/papers/reddig-maclellan-personalized-feedback-llm-2026.md']
 confidence: high
 research_method: [system development]
+page_kind: [implementation]
 discipline: [math education]
 audience: [instructional designers, instructors, researchers]
 level: [higher ed]

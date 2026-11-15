@@ -6,6 +6,7 @@ type: article
 foundations: [learning-design, teacher-role]
 technology: [generative-ai, llm, multimodal, visualization]
 research_method: [system development]
+page_kind: [implementation]
 discipline: [cs education]
 audience: [instructors]
 level: [higher ed]

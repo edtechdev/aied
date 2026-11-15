@@ -6,6 +6,7 @@ type: article
 foundations: [ai-literacy, teacher-role]
 technology: [adaptive-learning, generative-ai, personalized-learning]
 research_method: [system development]
+page_kind: [implementation]
 audience: [instructors]
 level: [k 12]
 sources: ['raw/papers/2606.17633.md']

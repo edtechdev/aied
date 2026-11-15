@@ -9,6 +9,7 @@ assessment: [assessment, automated-question-generation, educational-measurement,
 sources: ['raw/papers/proiqa-math-item-quality-assessment-2026.md']
 confidence: high
 research_method: [system development]
+page_kind: [implementation]
 discipline: [math education]
 level: [primary education, k 12]
 audience: [researchers, assessment designers, software developers]

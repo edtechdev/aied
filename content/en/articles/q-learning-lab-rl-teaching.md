@@ -6,6 +6,7 @@ type: article
 pedagogy: [active-learning, scaffolding, self-regulated-learning]
 technology: [llm, reinforcement-learning, visualization]
 research_method: [system development]
+page_kind: [implementation]
 discipline: [stem education]
 level: [higher ed]
 sources: ['raw/papers/2607.10802.md']

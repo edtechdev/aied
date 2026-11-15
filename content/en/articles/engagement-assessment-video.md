@@ -8,6 +8,7 @@ technology: [adaptive-learning, affective-computing, affective-tutoring, learnin
 assessment: [feedback, formative-assessment]
 audience: [software developers]
 research_method: [system development, user study]
+page_kind: [implementation]
 level: [higher ed]
 sources: ['raw/papers/2605.01238.md']
 confidence: medium

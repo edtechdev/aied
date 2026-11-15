@@ -9,6 +9,7 @@ pedagogy: []
 sources: ['raw/papers/llm-common-modeling-mistakes-formalisms-2026.md']
 confidence: high
 research_method: [system development, design and evaluation study]
+page_kind: [evaluation]
 discipline: [cs education]
 level: [higher ed]
 audience: [instructors, researchers, software developers]

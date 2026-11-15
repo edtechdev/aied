@@ -8,6 +8,7 @@ pedagogy: [scaffolding]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal, prompt-engineering]
 assessment: [formative-assessment]
 research_method: [system development]
+page_kind: [implementation]
 audience: [learners, instructors, software developers]
 level: [higher ed]
 confidence: high

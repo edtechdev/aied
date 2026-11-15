@@ -6,6 +6,7 @@ type: article
 pedagogy: [collaborative-learning, scaffolding]
 technology: [generative-ai]
 research_method: [instrument development, system development, user study]
+page_kind: [framework]
 level: [higher ed]
 sources: ['raw/papers/aper-chatbot-collective-efficacy.md']
 confidence: high

@@ -7,6 +7,7 @@ pedagogy: [lifelong-learning, self-regulated-learning]
 technology: [learning-analytics, multimodal, personalized-learning, student-modeling]
 assessment: [feedback]
 research_method: [system development]
+page_kind: [framework]
 discipline: [language learning]
 sources: ['raw/papers/2608.08990.md']
 confidence: high

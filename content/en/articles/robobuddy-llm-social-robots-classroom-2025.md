@@ -8,6 +8,7 @@ pedagogy: [storytelling-in-education]
 technology: [educational-robotics, llm]
 ethics: [inclusive-learning]
 research_method: [system development]
+page_kind: [implementation]
 audience: [instructors]
 sources: ['raw/papers/tozadore-robobuddy-llm-social-robots-2025.md']
 confidence: medium

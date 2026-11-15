@@ -6,6 +6,7 @@ type: article
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring, llm, personalized-learning]
 research_method: [system development, case study]
+page_kind: [implementation]
 level: [k 12]
 sources: ['raw/papers/2606.18030.md']
 confidence: high

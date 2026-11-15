@@ -8,6 +8,7 @@ technology: [generative-ai, intelligent-tutoring, llm, llm-training-and-fine-tun
 ethics: [privacy]
 audience: [software developers]
 research_method: [system development]
+page_kind: [implementation]
 confidence: high
 sources: [raw/papers/2510.05087.md]
 ---

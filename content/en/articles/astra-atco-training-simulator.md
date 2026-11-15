@@ -6,6 +6,7 @@ type: article
 pedagogy: [active-learning, professional-training]
 technology: [adaptive-learning, intelligent-tutoring, llm, simulation]
 research_method: [system development]
+page_kind: [implementation]
 sources: ['raw/papers/2606.18319.md']
 confidence: medium
 discipline: [vocational education]

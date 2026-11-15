@@ -7,6 +7,7 @@ technology: [adaptive-learning, intelligent-tutoring, llm, personalized-learning
 sources: ['raw/papers/2609.03402.md']
 confidence: high
 research_method: [system development, user study]
+page_kind: [framework]
 audience: [researchers, instructional designers]
 level: [higher ed]
 ---

@@ -7,6 +7,7 @@ technology: [intelligent-tutoring, llm]
 ethics: [privacy, pedagogical-safety]
 audience: [software developers]
 research_method: [system development]
+page_kind: [framework]
 level: [k 12]
 sources: ['raw/papers/caeai-llm-unlearning-math.md']
 confidence: medium

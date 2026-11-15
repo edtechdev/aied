@@ -5,6 +5,7 @@ updated: "2026-09-19T11:14:39-04:00"
 type: article
 foundations: [curriculum-design]
 research_method: [system development]
+page_kind: [implementation]
 discipline: [cs education]
 audience: [learners, administrators]
 level: [higher ed]

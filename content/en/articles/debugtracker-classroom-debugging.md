@@ -6,6 +6,7 @@ type: article
 technology: [intelligent-tutoring, learning-analytics]
 assessment: [feedback, formative-assessment]
 research_method: [system development]
+page_kind: [implementation]
 discipline: [cs education]
 audience: [learners]
 level: [higher ed]

@@ -12,6 +12,7 @@ ethics: [ethics]
 sources: ['raw/papers/2609.11529.md']
 confidence: high
 research_method: [system development, thematic analysis]
+page_kind: [implementation]
 discipline: [stem education, engineering education]
 audience: [instructors, curriculum designers, researchers]
 level: [higher ed]

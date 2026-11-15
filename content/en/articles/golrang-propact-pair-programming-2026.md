@@ -8,13 +8,14 @@ technology: [adaptive-learning, intelligent-tutoring, rag, affective-tutoring, l
 assessment: [formative-assessment]
 audience: [software developers, instructional designers, instructors]
 research_method: [system development, experiment]
+page_kind: [implementation]
 discipline: [cs education]
 sources: ['raw/papers/golrang-propact-pair-programming-2026.md']
 confidence: medium
 level: [higher ed]
 ---
 
-> **Synthesis:** **ProPACT** (Proactive AI-Driven Adaptive Collaborative Tutor) is an adaptive tutoring system for pair programming that treats **collaboration itself as the object of instruction.** Unlike individual-centric, reactive systems, it builds a real-time model of *dyadic* learning from [[multimodal|multimodal]] sensing and intervenes *before* collaborative breakdowns occur. Three signals define that model: Joint Visual Attention (JVA), Joint Mental Effort (JME), and individual Mental Effort (ME), each discretized against a resting baseline using a ±2SD criterion. An XGBoost forecaster predicts sub-optimal collaboration states up to 30 seconds ahead, driving a five-tier [[scaffolding|scaffolding]] hierarchy that escalates from doing nothing to a directive hint only as a last resort. In a within-subjects study with 26 dyads (52 CS and engineering students), ProPACT feedback produced higher debugging success, faster debugging, and greater feedback uptake than a no-feedback control, with post-intervention gains in JVA and JME suggesting durable collaborative [[regulation|regulation]]. The work reframes the unit of [[intelligent-tutoring|tutoring]] as the pair rather than the person.
+> **Synthesis:** **ProPACT** (Proactive AI-Driven Adaptive Collaborative Tutor) is an adaptive tutoring system for pair programming that treats **collaboration itself as the object of instruction.** Unlike individual-centric, reactive systems, it builds a real-time model of *dyadic* learning from [[multimodal|multimodal]] sensing and intervenes *before* collaborative breakdowns occur. Three signals define that model: Joint Visual Attention (JVA), Joint Mental Effort (JME), and individual Mental Effort (ME), each discretized against a resting baseline using a ±2SD criterion. An XGBoost forecaster predicts sub-optimal collaboration states up to 30 seconds ahead, driving a five-tier [[scaffolding|scaffolding]] hierarchy that escalates from doing nothing to a directive hint only as a last resort. In a within-subjects study with 26 pairs of computer science and engineering students, ProPACT feedback produced higher debugging success, faster debugging, and greater feedback uptake than a no-feedback control, with post-intervention gains in JVA and JME suggesting durable collaborative [[regulation|regulation]]. The work reframes the unit of [[intelligent-tutoring|tutoring]] as the pair rather than the person.
 
 ## Key Findings
 
@@ -23,7 +24,7 @@ level: [higher ed]
 3. **A five-tier hierarchy delivers minimally intrusive help.** Escalation runs A1 (do nothing), A2 (GitHub Copilot), A3 (gaze-awareness cue), A4 (dialogue prompt), A5 (directive hint), used only when signals show rising breakdown risk.
 4. **Collaborative skill gains persist.** Beyond immediate task outcomes, dyads showed post-intervention increases in JVA and JME, indicating that the system scaffolded durable collaborative [[regulation|regulation]] rather than providing momentary assistance.
 5. **Support is graduated, not answer-giving.** ProPACT mimics a skilled pair-programming mentor, structuring collaboration within each pair's [[sociocultural-learning|zone of proximal development]] rather than giving solutions, and partners must monitor their own [[metacognition|metacognition]].
-6. **Boundaries of the evidence.** The 52-student within-subjects design cannot show whether better dyadic regulation transfers to unsupervised pair work, and deployment depends on eye-tracking hardware, limiting [[learning-gains|learning gains]] claims.
+6. **Boundaries of the evidence.** The 26-pair within-subjects design cannot show whether better dyadic regulation transfers to unsupervised pair work, and deployment depends on eye-tracking hardware, limiting [[learning-gains|learning gains]] claims.
 
 ## The Dyadic Learner Model
 
@@ -53,7 +54,7 @@ The gaze-awareness tool surfaces the partner's attentional focus rather than sup
 
 ## Key Results
 
-In a within-subjects study with 26 pair-programming dyads (52 CS and engineering students), ProPACT feedback was compared against a no-feedback control. Feedback-condition dyads solved debugging tasks more often and more quickly, and followed the system's suggestions more readily (uptake: *F*[49.81] = −17.69, *p* < .0001). Post-intervention gains in JVA and JME point to improved collaborative [[regulation|regulation]] beyond immediate task completion, suggesting the scaffolding left a residue of better joint attention rather than merely speeding up one task. The authors read this as evidence that real-time dyadic regulation is tractable in realistic programming settings and that [[student-engagement|engagement]] and effort synchrony can be monitored without interrupting the work itself. Gains held for both outcome and process measures.
+In a within-subjects study with 26 pairs of computer science and engineering students (19 female, 33 male), ProPACT feedback was compared against a no-feedback control. Feedback-condition dyads solved debugging tasks more often and more quickly, and followed the system's suggestions more readily (uptake: *F*[49.81] = −17.69, *p* < .0001). Post-intervention gains in JVA and JME point to improved collaborative [[regulation|regulation]] beyond immediate task completion, suggesting the scaffolding left a residue of better joint attention rather than merely speeding up one task. The authors read this as evidence that real-time dyadic regulation is tractable in realistic programming settings and that [[student-engagement|engagement]] and effort synchrony can be monitored without interrupting the work itself. Gains held for both outcome and process measures.
 
 ## Tutoring-Specific Design and Implications
 
