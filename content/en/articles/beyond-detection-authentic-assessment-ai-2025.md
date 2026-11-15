@@ -9,6 +9,7 @@ technology: [generative-ai]
 assessment: [ai-detection, assessment, assessment-validity, authentic-assessment]
 audience: [instructors, administrators]
 research_method: [theoretical analysis, position paper]
+page_kind: [commentary]
 level: [higher ed]
 sources: ['raw/papers/beyond-detection-authentic-assessment-ai-2025.md']
 confidence: high

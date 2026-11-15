@@ -6,7 +6,7 @@ type: article
 published: "2026"
 sources: ['raw/papers/aalhe-genai-assessment-continuous-improvement-2026.md']
 confidence: high
-page_kind: [framework]
+page_kind: [commentary]
 research_method: [position paper]
 discipline: []
 level: [higher ed]

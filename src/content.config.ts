@@ -238,6 +238,7 @@ const structuredMeta = {
         'evaluation',
         'design case',
         'implementation',
+        'commentary',
     ),
 };
 

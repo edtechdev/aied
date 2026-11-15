@@ -13,7 +13,7 @@ discipline: [learning sciences]
 research_method: [theoretical analysis, position paper]
 level: [k 12, higher ed]
 audience: [instructors, instructional designers, researchers, learners]
-page_kind: [framework]
+page_kind: [commentary]
 sources: ['raw/papers/developing-effective-genai-users-motivation-2026.md']
 confidence: high
 ---

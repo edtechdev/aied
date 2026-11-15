@@ -9,7 +9,7 @@ source_depth: full text
 confidence: medium
 evidence_context: educational
 research_method: [position paper]
-page_kind: [framework]
+page_kind: [commentary]
 level: [higher ed]
 audience: [instructors, assessment designers, curriculum designers, administrators]
 discipline: [writing education, legal education, engineering education]

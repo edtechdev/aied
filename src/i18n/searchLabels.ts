@@ -85,6 +85,7 @@ export const PAGE_KIND_VALUE_LABELS: Record<string, string> = {
   evaluation: 'Evaluation',
   'design case': 'Design case',
   implementation: 'Implementation',
+  commentary: 'Commentary',
 };
 
 const EN_STARTER_QUERIES = [

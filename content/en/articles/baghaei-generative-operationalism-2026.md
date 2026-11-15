@@ -5,7 +5,7 @@ updated: "2026-11-11T09:14:26-05:00"
 type: article
 evidence_context: educational
 published: 2026-11-10
-page_kind: [framework]
+page_kind: [commentary]
 research_method: [position paper]
 audience: [researchers, assessment designers, assessment professionals]
 sources: ['raw/papers/baghaei-generative-operationalism-2026.md']

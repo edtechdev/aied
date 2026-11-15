@@ -10,7 +10,7 @@ audience: [instructors]
 level: [higher ed]
 sources: ['raw/papers/2605.24688.md']
 confidence: high
-page_kind: [framework]
+page_kind: [commentary]
 institutions: [educational-policy-ai]
 ---
 

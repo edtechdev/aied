@@ -10,7 +10,7 @@ institutions: [change-management]
 research_method: [position paper]
 level: [higher ed, adult learning]
 audience: [instructors, administrators]
-page_kind: [framework]
+page_kind: [commentary]
 sources: ['raw/papers/panda-editorial-digital-transformation-open-education-2026.md']
 source_url: "https://doi.org/10.56059/9wnfzc93"
 confidence: high

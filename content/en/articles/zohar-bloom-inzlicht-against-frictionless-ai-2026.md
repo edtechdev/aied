@@ -9,7 +9,7 @@ technology: [generative-ai]
 ethics: [ai-sycophancy]
 research_method: [position paper]
 audience: [researchers, instructors, policymakers]
-page_kind: [framework]
+page_kind: [commentary]
 sources: ['raw/papers/zohar-bloom-inzlicht-against-frictionless-ai-2026.md']
 confidence: high
 level: [higher ed]

@@ -5,7 +5,7 @@ updated: "2026-11-11T08:35:00-05:00"
 type: article
 evidence_context: educational
 published: "2026"
-page_kind: [framework]
+page_kind: [commentary]
 research_method: [position paper]
 discipline: [medical education]
 level: [higher ed]

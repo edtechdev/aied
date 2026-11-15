@@ -5,7 +5,7 @@ updated: "2026-11-04T15:58:10-05:00"
 type: article
 sources: ['raw/papers/10.1080_02602938.2026.2661367.md']
 confidence: high
-page_kind: [framework]
+page_kind: [commentary]
 research_method: [position paper, theoretical analysis]
 audience: [instructors, administrators, assessment designers, assessment professionals, institutions, policymakers, researchers]
 level: [higher ed]

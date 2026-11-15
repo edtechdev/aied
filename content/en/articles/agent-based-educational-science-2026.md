@@ -10,7 +10,7 @@ methods: [research-methods-aied]
 research_method: [position paper, theoretical analysis]
 level: [higher ed]
 audience: [researchers, institutions]
-page_kind: [framework]
+page_kind: [commentary]
 sources: ['raw/papers/agent-based-educational-science-2026.md']
 confidence: high
 ---

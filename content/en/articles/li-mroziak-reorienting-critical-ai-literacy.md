@@ -8,6 +8,7 @@ pedagogy: [critical-pedagogy, sociocultural-learning]
 ethics: [equity-in-ai-education, ethics]
 audience: [instructors]
 research_method: [position paper]
+page_kind: [commentary]
 sources: ['raw/papers/li-mroziak-reorienting-critical-ai-literacy.md']
 confidence: high
 level: [k 12, higher ed]

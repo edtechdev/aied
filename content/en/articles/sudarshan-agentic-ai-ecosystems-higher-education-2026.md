@@ -20,7 +20,7 @@ research_method: [position paper, thematic analysis]
 discipline: [learning sciences]
 audience: [researchers, instructors, administrators]
 level: [higher ed, undergraduate]
-page_kind: [framework]
+page_kind: [commentary]
 ---
 
 > **Synthesis:** Sudarshan, Sisodia, Ramachandra, Batra, and Chong Leng Leng (2026) argue that AI in [[higher-ed|higher education]] has stalled at the level of the isolated tool. Agents for tutoring, grading, scheduling, and [[learning-analytics|analytics]] work well inside narrow functions but do not coordinate, so institutions cannot align planning or adaptive decisions across learning, teaching, and administration. They ground this in an inductive thematic analysis of published studies of AI agents in undergraduate education, coded for functional role, architecture, inclusion features, and limitations. Four themes emerge: functional fragmentation of task-specific tools, a shift from single-agent to [[agentic-ai|multi-agent]] systems, limited cross-functional integration, and thin attention to inclusivity and [[accessibility|accessibility]]. The contribution is a unified multi-stakeholder framework in which learning, teaching, inclusion, and institutional agents form one coordinated ecosystem across a layered architecture of interfaces, agent coordination, and data infrastructure. Its distinctive claim: inclusive practice can be embedded in that architecture rather than added later, so coordinated [[adaptive-learning|adaptive]] and [[multimodal|multimodal]] interventions can support diverse learners, including students with special educational needs.

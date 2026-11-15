@@ -13,7 +13,7 @@ ethics: [ai-sycophancy, hallucination-risk, bias-mitigation, equity-in-ai-educat
 research_method: [theoretical analysis, position paper]
 level: [k 12, higher ed, secondary]
 audience: [instructors, instructional designers, researchers, learners, educational technology developers]
-page_kind: [framework]
+page_kind: [commentary]
 sources: ['raw/papers/educating-minds-generative-ai-2026.md']
 confidence: high
 ---

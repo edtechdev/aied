@@ -6,7 +6,7 @@ type: article
 sources: ['raw/papers/ai-refusal-higher-education-diagnostic-non-use-2026.md']
 confidence: medium
 published: "2026-06-30"
-page_kind: [framework]
+page_kind: [commentary]
 research_method: [position paper]
 level: [higher ed]
 audience: [administrators, instructors, researchers, policymakers]

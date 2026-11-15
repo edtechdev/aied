@@ -7,7 +7,7 @@ published: "2026"
 source_url: "https://doi.org/10.1177/23779608261476555"
 sources: ['raw/papers/shankar-institutional-ecosystems-ai-nursing-2026.md']
 confidence: high
-page_kind: [framework]
+page_kind: [commentary]
 research_method: [position paper]
 discipline: [nursing education]
 level: [higher ed]

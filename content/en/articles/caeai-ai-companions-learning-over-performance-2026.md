@@ -10,7 +10,7 @@ ethics: [trust-calibration, equity-in-ai-education, explainable-ai, privacy, inc
 institutions: [governance, change-management]
 research_method: [position paper]
 audience: [researchers, instructional designers, instructors, institutions, policymakers, learners, educational technology developers]
-page_kind: [framework]
+page_kind: [commentary]
 sources: ['raw/papers/caeai2026-ai-companions-learning-over-performance.md']
 confidence: high
 reviewed_by: [editor]

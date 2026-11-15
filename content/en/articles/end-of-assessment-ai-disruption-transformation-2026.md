@@ -8,6 +8,7 @@ assessment: [assessment, assessment-validity, automated-assessment, educational-
 ethics: [bias-mitigation, equity-in-ai-education]
 audience: [administrators, instructors]
 research_method: [position paper, theoretical analysis]
+page_kind: [commentary]
 level: [higher ed]
 sources: ['raw/papers/end-of-assessment-ai-disruption-transformation-2026.md']
 confidence: medium

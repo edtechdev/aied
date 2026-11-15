@@ -8,6 +8,7 @@ pedagogy: [metacognition, self-regulated-learning, scaffolding, motivation, self
 technology: [generative-ai, llm]
 assessment: [assessment, learning-gains, process-oriented-assessment]
 research_method: [position paper]
+page_kind: [commentary]
 level: [higher ed, k 12]
 sources: ['raw/papers/2605.13731.md']
 confidence: high

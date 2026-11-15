@@ -8,7 +8,7 @@ technology: [generative-ai, open-source]
 ethics: [equity-in-ai-education]
 research_method: [position paper]
 audience: [policymakers, instructors]
-page_kind: [framework]
+page_kind: [commentary]
 sources: ['raw/papers/tlili-double-edged-sword-oer-generative-ai-2026.md']
 source_url: "https://doi.org/10.37074/jalt.2026.9.1.6"
 confidence: high

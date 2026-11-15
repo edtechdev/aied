@@ -6,7 +6,7 @@ type: article
 published: "2026"
 sources: ['raw/papers/muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026.md']
 confidence: high
-page_kind: [synthesis]
+page_kind: [commentary]
 research_method: [position paper]
 discipline: []
 level: [k 12, higher ed]
