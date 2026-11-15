@@ -168,7 +168,22 @@ done
 
 ARGS=()
 for msg in "${MESSAGES[@]}"; do ARGS+=(-m "$msg"); done
-[[ -n "$MESSAGE_FILE" ]] && ARGS+=(-F "$MESSAGE_FILE")
+# The trailers below are the only copy a commit should carry. A message file that
+# already ends with them (written by hand or copied from a previous commit) used to
+# produce each trailer twice, so strip any caller-supplied block before appending.
+if [[ -n "$MESSAGE_FILE" ]]; then
+  CLEAN_MSG="$(mktemp)"
+  python3 - "$MESSAGE_FILE" > "$CLEAN_MSG" <<'PY'
+import re, sys
+lines = open(sys.argv[1]).read().rstrip().splitlines()
+while lines and re.match(r'^(AI-Model|AI-Role|AI-Agent|Human-Review):', lines[-1].strip()):
+    lines.pop()
+    while lines and not lines[-1].strip():
+        lines.pop()
+print("\n".join(lines))
+PY
+  ARGS+=(-F "$CLEAN_MSG")
+fi
 for m in "${MODELS[@]}"; do ARGS+=(--trailer "AI-Model: $m"); done
 if [[ ${#ROLES[@]} -gt 0 ]]; then
   ARGS+=(--trailer "AI-Role: $(IFS=', '; echo "${ROLES[*]}")")
