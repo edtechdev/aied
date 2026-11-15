@@ -1,15 +1,15 @@
 ---
 title: "10 phát hiện hàng đầu từ nghiên cứu AI trong giáo dục mà giảng viên nên biết là gì?"
 created: "2026-08-24T09:42:00-04:00"
+updated: "2026-11-14T18:10:00-05:00"
 connected_faqs: [addressing-common-misconceptions-ai-education, does-ai-help-students-learn, reduce-ai-cheating, faculty-ai-competencies]
 weight: 100
 foundations: [ai-education, ai-literacy, cognitive-offloading, teacher-role]
 assessment: [assessment]
 research_method: [literature review]
-audience: [instructors]
-updated: "2026-10-29T16:56:07-04:00"
+audience: [instructors, faculty developers, educational technology developers, administrators, researchers]
 translation_of: faqs/top-10-findings-ai-education-instructors
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-14T18:10:00-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -17,156 +17,138 @@ ai_assist:
     role: translation
     date: "2026-10-29"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-14"
+    agent: hermes-agent
 ---
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
 
-Đó là tuần trước khi học kỳ bắt đầu, hoặc tuần sau bài nộp lớn đầu tiên, và ai đó đã hỏi bạn một điều bạn không thể trả lời bằng kinh nghiệm: sinh viên được phép làm gì với AI trong bài tập này, và điểm số khi đó chứng minh điều gì. Có thể một bài luận mang về nhà được trau chuốt theo cách không khớp với bài làm trước đó của sinh viên. Có thể khoa của bạn đang viết chính sách AI và muốn môn học của bạn tuân theo trước thứ Sáu. Có thể một sinh viên đang khiếu nại điểm và bạn không thể chứng minh bài làm đó thể hiện điều gì.
+Mười nghiên cứu này liên quan trực tiếp đến những quyết định giảng viên phải đưa ra: giao bài gì, đánh giá thế nào, mua công cụ nào, xây dựng chúng ra sao, và làm sao biết việc học đã diễn ra. Mỗi mục nêu nghiên cứu, kết quả và thực hành mà nó thay đổi.
 
-Kết luận cốt lõi từ nghiên cứu mà cơ sở kiến thức này đã tập hợp: cách bạn đưa [[generative-ai|AI sinh tạo]] vào hoạt động quyết định liệu nó củng cố tư duy hay thay thế tư duy. Đòn bẩy bạn kiểm soát là thiết kế nhiệm vụ. Phép thử của mọi thiết kế là điều sinh viên còn làm được khi không có công cụ. Mười phát hiện mà trang này được đặt tên theo nằm bên dưới, sắp xếp theo quyết định mà mỗi phát hiện phục vụ.
+## Mười nghiên cứu
 
-## Tóm tắt
+**1. Chỉ cần cho dùng chatbot thông thường đã làm điểm thi giảm 17% ([[generative-ai-guardrails-harm-learning|Bastani et al., 2025]]).**
 
-**1.** Gọi tên tư duy mà bài tập tồn tại để tạo ra, rồi giao cho AI một việc không thực hiện tư duy đó.
+Gần 1,000 học sinh trung học ở Thổ Nhĩ Kỳ, trong khoảng 50 lớp, đã học ba buổi toán trên cùng một nội dung. Một nhóm có cửa sổ chat GPT-4 thông thường trong lúc luyện tập. Một nhóm có gia sư xây trên cùng mô hình với [[guardrails|rào chắn]] do giáo viên viết: gợi ý thay cho đáp án, kèm lời giải đúng và các lỗi thường gặp nhúng trong prompt. Nhóm đối chứng không có AI. Mỗi buổi kết thúc bằng [[summative-assessment|bài thi đóng sách]] với các bài toán tương tự, khi công cụ đã bị lấy đi.
 
-**2.** Đặt quy định AI theo từng bài tập chứ không theo cả môn học, và viết lý do bên cạnh, ở nơi sinh viên sẽ đọc.
+Nhóm chat thông thường đạt điểm cao hơn đối chứng 48% trong lúc luyện tập và thấp hơn đối chứng 17% ở bài thi. Những học sinh chưa từng chạm vào AI làm tốt hơn họ. Nhóm có rào chắn tăng 127% khi luyện tập và hòa ở bài thi. Tác hại biến mất, và không có lợi thế học tập nào xuất hiện thay vào đó. Nhật ký chat giải thích sự phân đôi: nhóm không có rào chắn xin đáp án rồi dừng lại, còn nhóm có rào chắn thử giải, xin gợi ý và tiến bộ ngay trong buổi đầu.
 
-**3.** Đưa ít nhất một bước được chấm điểm trong mỗi chương mà sinh viên hoàn thành khi không có AI.
+Với giảng viên, “cho phép dùng AI” không phải là một chính sách. Giao diện quyết định công cụ trở thành kênh gợi ý hay cỗ máy đáp án, và một chatbot phổ thông mặc định nghiêng về cái thứ hai. Một cửa sổ chat để mở trong lúc luyện tập khiến những sinh viên dựa vào nó nhiều nhất phải trả giá.
 
-**4.** Đánh giá hoạt động bằng điều sinh viên làm được sau vài tuần, không có trợ giúp, chứ không bằng chất lượng bài nộp.
+Quản trị viên có thể đặt kết quả này đối chiếu với lập luận mua sắm rằng một mô hình mạnh hơn sẽ sửa được sư phạm. Mô hình ở hai nhánh hoàn toàn giống nhau.
 
-**5.** Hỏi sinh viên đã dùng công cụ thế nào, và chấm việc kiểm chứng chứ không chấm số lần đăng nhập.
+Xem thêm: [[training-ai-tutors-to-guide-rather-than-answer|Huấn luyện gia sư để hướng dẫn thay vì cho đáp án]]
 
-**6.** Xem thiết kế giúp những sinh viên nào, vì con số trung bình che giấu những người bị nó bỏ lại.
+**2. Một gia sư xây trên chính sư phạm của môn học vượt lớp học chủ động, trong ít thời gian hơn ([[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al., 2025]]).**
 
-## Quyết định bài tập để làm gì
+Physical Sciences 2 là môn vật lý nhập môn của Harvard dành cho sinh viên ngành khoa học sự sống. Mùa thu 2023, 194 sinh viên trong một thử nghiệm chéo học hai bài hai lần, một lần ở lớp [[active-learning|học chủ động]] của môn học và một lần qua gia sư xây cho môn học, với bài kiểm tra trước và sau quanh mỗi phiên bản.
 
-Viết một câu nêu tên năng lực trước khi bạn chạm vào công cụ: cuối chương này sinh viên phải làm được điều gì mà đầu chương chưa làm được? Câu trả lời có thể là: xây dựng một lập luận từ bằng chứng, viết một chứng minh, đi đến một chẩn đoán, đưa ra một quyết định thiết kế trong các ràng buộc. Nếu bạn không gọi tên được, quy định AI sẽ tùy tiện và sinh viên sẽ nhận ra.
+Sinh viên học được nhiều hơn với gia sư. Trung vị bài kiểm tra sau là 4.5 so với 3.5, trung vị [[learning-gains|mức tiến bộ học tập]] cao hơn gấp đôi so với lớp, và ước lượng phân vị của hiệu ứng chạy từ 0.73 đến 1.3 độ lệch chuẩn. Họ dành trung vị 49 phút với gia sư so với khoảng 60 phút trên lớp, và 83% đánh giá lời giải thích của nó ngang bằng hoặc tốt hơn giảng viên. Điểm gắn kết và động lực tăng. Mức hứng thú và tư duy phát triển không khác biệt.
 
-Hai hướng nghiên cứu giải thích vì sao điều này phải đứng đầu. [[productive-failure|Thất bại có ích]] là phát hiện rằng người học thường ghi nhớ nhiều hơn khi họ thử giải một vấn đề trước khi được chỉ cách, nên ma sát đôi khi chính là cơ chế chứ không phải chướng ngại cần dỡ bỏ. [[icap-framework|Khung ICAP]] dự báo việc học khác nhau từ cách dùng thụ động, chủ động, kiến tạo và tương tác với cùng một tài liệu. Cả hai cùng chỉ vào một câu hỏi thiết kế: sinh viên đang làm gì trong khi công cụ mở?
+Kết quả dựa trên thiết kế. Gia sư thực hiện đúng những động tác như lớp học: ví dụ đã giải, gợi ý theo bậc, câu hỏi tự giải thích, trình tự bám theo nghiên cứu về cách học vật lý. So sánh là với học chủ động, không phải bài giảng, nên phản đối quen thuộc rằng bất cứ thứ gì cũng tốt hơn bài giảng không áp dụng ở đây.
 
-Ví dụ rõ nhất trong tập nghiên cứu đến từ so sánh một chatbot dựa trên lý thuyết, có giàn giáo cho phần giải thích của sinh viên, với ChatGPT thông thường và cách dạy như cũ. Khác biệt tức thời không có ý nghĩa thống kê. Bốn tuần sau, nhóm có giàn giáo giữ được nhiều kiến thức khái niệm hơn. Đó là một nghiên cứu và không phải hiệu ứng phổ quát, và nội dung hữu ích của nó là hình dạng của kết quả: thiết kế có thể nặng hơn năng lực mô hình, vì điều phân biệt các điều kiện là việc hoạt động yêu cầu sinh viên làm gì.
+Người phát triển đội ngũ giảng viên có ở đây lập luận mạnh nhất hiện có rằng thiết kế gia sư là công việc chương trình dạy học, không phải mua sắm. Với các đội sản phẩm, mức chuẩn rất cụ thể: ngang bằng một lớp học chủ động, trong ít thời gian hơn, dùng đúng những động tác giảng dạy đó.
 
-[[kumar-genai-computing-education-systematic-review-2026|Tổng quan hệ thống 72 nghiên cứu giáo dục máy tính có bình duyệt]] đi đến cùng tầng đó từ hướng ngược lại. Nó gọi việc tương tác phê phán với đầu ra của AI là “cơ chế chung liên kết mọi can thiệp hiệu quả trong tập nghiên cứu” và đề nghị [[scaffolding|tiếp cận theo bậc]], chỉ đưa AI sinh tạo vào sau khi năng lực nền tảng đã được chứng minh. Không tuyên bố nào nói về việc bạn cấp phép sản phẩm nào.
+Xem thêm: [[developing-ai-tutor|Thực hành tốt nhất để phát triển một gia sư AI]]
 
-## Giao cho AI một việc không phải tư duy bạn đang chấm
+**3. Gia sư AI ngang bằng gia sư người có chuyên môn ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al., 2026]]).**
 
-Nhiều thập kỷ [[intelligent-tutoring|nghiên cứu gia sư thông minh]] mô tả mô thức hiệu quả: chẩn đoán sinh viên hiểu gì, đặt câu hỏi, đưa gợi ý theo bậc, yêu cầu họ giải thích, đưa phản hồi. Mọi thứ trừ việc đưa ra lời giải. Công trình hiện nay về [[pedagogical-agent|tác tử sư phạm]] vạch cùng ranh giới giữa hành vi dạy và việc sản xuất đáp án, và [[thermomix-genai-education-analogy-2026|phép so sánh Thermomix]] làm điều đó cụ thể. Một thiết bị có thể nấu ăn thay bạn, khi đó bạn mất kỹ năng, hoặc có thể làm bạn đồng hành thử nghiệm cho những ý tưởng bạn vẫn phải tự hiểu. Những chế độ đó ánh xạ vào ICAP: thụ động, chủ động, kiến tạo, tương tác.
+StudentBench gộp 2,469 phiên gia sư với 2,383 người lớn ôn thi GRE, dùng 13 gia sư AI xây trên 12 mô hình, gia sư người trực tiếp và một nhóm đối chứng video. Kết quả là mức tiến bộ học tập trên các câu hỏi Định lượng và Ngôn ngữ.
 
-Những công cụ hẹp cho thấy cùng nguyên tắc. Một [[structrag-diagram-reasoning-ai-tutoring|gia sư đọc sơ đồ kỹ thuật theo cấu trúc]] đạt F1 cấp cạnh 93.0% so với độ chính xác toàn sơ đồ 89.3%, nghĩa là nó có thể chỉ ra những liên kết cụ thể bị thiếu hoặc bị đọc sai ngay cả khi toàn bộ sơ đồ sai. Đó là phản hồi sinh viên có thể hành động theo, thay vì đạt hay không đạt.
+Gia sư AI gộp lại tương đương về thống kê với gia sư người có chuyên môn, trong phạm vi một phần tư độ lệch chuẩn, và cả hai vượt đối chứng khoảng sáu điểm phần trăm: 6.86 ở Định lượng và 5.47 ở Ngôn ngữ, tức khoảng một rưỡi đến hai đáp án đúng thêm mỗi phần. Gia sư AI bị đánh giá yếu hơn ở việc lập kế hoạch bài học và tạo bài tập, những việc gia sư người làm tốt hơn.
 
-Câu hỏi khó hơn là gia sư được phép đề xuất gì. Khi một [[tuo-armada-multi-agent-debate-overreliance-2026|cuộc tranh luận đa tác tử]] thay “đây là đáp án của AI” bằng một cuộc thảo luận mà vị trí ưu tiên của chính nó bị giữ kín, việc chuyển sang vị trí AI sai gây hại giảm từ 42-60.5% xuống 5.7-8.2%. Việc chấp nhận vị trí AI đúng cũng giảm, từ 61.1-72.3% xuống 22.1-33.3%. Giữ kín khuyến nghị bảo vệ phán đoán ban đầu của sinh viên và để việc sửa sai cho tranh luận, nên thiết kế đánh đổi khả năng sửa lỗi lấy ít lần rẽ sai đầy tự tin hơn. Hãy quyết định bạn muốn điều nào trong hai điều đó từ cuộc trao đổi trước khi viết prompt.
+Với quản trị viên, phép tính nhân sự thay đổi với việc ôn thi được xác định rõ. Khi một gia sư có giấy phép ngang bằng gia sư người trong phạm vi một phần tư độ lệch chuẩn, quyết định là về chi phí và độ phủ, và hiệu quả không còn là câu hỏi. Nhà nghiên cứu sẽ ghi nhận ranh giới: tương đương không phải vượt trội, và một bài thi chuẩn hóa là kết quả dễ nhất để máy ngang bằng.
 
-Trong lớp, điều này rẻ để thực hiện. Một trình tự [[socratic-method|Socratic]] là mô thức để hướng tới, với công cụ đặt câu hỏi thay vì trả lời. Hãy bảo sinh viên xin “một gợi ý”, “hỏi tôi câu hỏi”, hoặc “phê bình lập luận của tôi”, và biến “giải bài này” thành trường hợp bất thường. Bạn đang thay đổi động từ mặc định của tương tác, và đó là phần sinh viên thực sự kiểm soát.
+Người phát triển đội ngũ giảng viên có thể nhìn vào chỗ gia sư người giữ được lợi thế: chẩn đoán người học cần gì tiếp theo, và xây dựng trình tự nối tiếp từ đó.
 
-Một giới hạn đáng nói rõ. Phần lớn bằng chứng này đến từ các nhiệm vụ ngắn trong một số ít môn học, và không có gì hứa rằng một gia sư chuyên đưa gợi ý sẽ nâng điểm thi trong lớp của bạn. Với câu hỏi đó bạn cần thử nghiệm ngẫu nhiên bàn ở dưới, và kết quả của nó thì tỉnh người.
+Xem thêm: [[intelligent-tutoring|Gia sư thông minh]]
 
-## Đặt quy định trên bài tập, và nói vì sao
+**4. Ba ngày sau, ghi chép đánh bại việc hỏi chatbot ([[kreijkes-llm-note-taking-reading-comprehension-2026|Kreijkes et al., 2026]]).**
 
-Một khung hữu ích tách ba trường hợp. Hạn chế AI khi năng lực độc lập là thứ bạn đang đo. Dùng AI làm giàn giáo khi sự trợ giúp có giới hạn không làm phương hại năng lực đó. Yêu cầu dùng AI khi cộng tác người-AI thành thạo tự nó là thứ sinh viên phải học. Hầu hết môn học chứa cả ba, ở các tuần khác nhau, nên một quy định duy nhất ở cấp môn học luôn thất bại ở các rìa.
+Kreijkes và đồng nghiệp chạy một thử nghiệm đăng ký trước ở bảy trường trung học Anh. 405 học sinh lớp 10 học hai trong ba điều kiện trên một đoạn văn lịch sử: một chatbot có thể trả lời câu hỏi về đoạn đó, ghi chép, hoặc cả hai. Ba ngày sau, họ làm bài thi đóng sách về ghi nhớ nguyên văn, đọc hiểu và [[retrieval-spacing-interleaving|nhớ lại tự do]].
 
-[[zou-is-this-a-trap-student-teachers-genai-2026|Nghiên cứu phương pháp hỗn hợp trên 85 giáo viên tập sự]] cho thấy một quy định không kèm lý do tạo ra gì. 62.4% mẫu từ chối dùng AI sinh tạo ngay cả khi được phép, và 41.5% trong số những người từ chối nêu lý do sợ bị buộc tội [[academic-integrity|đạo văn]]. 9 trong 11 người được phỏng vấn đọc bản thân chính sách cho phép như một cái bẫy. Trong cùng nghiên cứu, chỉ 37.6% dùng AI sinh tạo được phép, lựa chọn của họ bám theo văn hóa chương trình và [[assessment|thiết kế đánh giá]] hơn là sự cho phép của bất kỳ môn học nào, và các tuyên bố công bố của chính họ báo cáo thấp hơn mức dùng thực tế ở mọi môn học.
+Ghi chép đánh bại chatbot trên cả ba thước đo, khoảng nửa độ lệch chuẩn ở ghi nhớ và gần bốn phần mười ở đọc hiểu. Ghi chép cộng chatbot đánh bại chatbot đơn thuần ở hai trong ba và không làm gì cho nhớ lại tự do, còn ghi chép đơn thuần mạnh hơn tổ hợp. Ở điều kiện kết hợp, khoảng một phần tư học sinh chép đầu ra của chatbot vào vở. Học sinh vẫn đánh giá chatbot dễ hơn, hữu ích hơn và thú vị hơn việc viết.
 
-Hãy đọc những con số đó như một bản yêu cầu thiết kế. Một sự cho phép không nêu mục đích trông như một cái bẫy, và một lệnh cấm không nêu mục đích trông như chướng ngại để đi vòng. Điều sinh viên phản ứng là lý lẽ gắn với nhiệm vụ này. Hãy đặt quy định vào đề bài, một dòng, và làm cho dòng đó cụ thể đủ để sinh viên biết liệu sự trợ giúp họ sắp nhận có làm suy yếu thứ bạn đang chấm hay không.
+Giảng viên có ở đây bằng chứng trực tiếp rằng một trợ lý đọc có thể thay thế việc đọc. Nếu mục đích của bài tập là hiểu một văn bản, [[writing-education|việc viết chính là việc hiểu]], và một công cụ trả lời câu hỏi về đoạn văn sẽ lấy đi phần luyện tập. Hãy giữ việc ghi chép. Nếu bạn cho phép chatbot, hãy yêu cầu thứ nó không thể cung cấp: một so sánh, một thách thức với văn bản, hoặc một bản tóm tắt viết sau khi đóng công cụ.
 
-## Chấm một thứ sinh viên làm mà không có công cụ
+Xem thêm: [[ai-support-reading-comprehension|AI hỗ trợ đọc hiểu]]
 
-Đây là bước làm nên công việc, và bằng chứng ở đây là rõ ràng nhất trên trang.
+**5. Thời gian học giảm 27%, và ghi nhớ giảm theo ([[generative-ai-reduced-study-time-math|Rismanchian et al., 2026]]).**
 
-Tổng quan 72 nghiên cứu cho thấy AI sinh tạo nâng đáng tin cậy tỉ lệ hoàn thành ngắn hạn và giảm thời gian làm bài trong 36 nghiên cứu, điều các tác giả coi là kết quả được tái lập tốt nhất trong tập nghiên cứu, và những lợi ích hiệu quả đó “không chuyển thành hiệu suất độc lập” trong 21 nghiên cứu. Một [[yan-cognitive-outsourcing-genai-assessments-2026|nghiên cứu think-aloud trên 38 sinh viên đại học]] cho thấy điều đó xảy ra thế nào trong trường hợp thông thường. [[cognitive-offloading|Giảm tải nhận thức]] gây hại nhất cho việc học khi AI thực hiện phần lập luận mà sinh viên lẽ ra phải luyện. Ở đó, 76.32% dừng lại ở mô thức hỏi, đáp, dừng trong một lượt, và chỉ 21.06% xen kẽ dùng AI với đọc và viết độc lập. Nhóm lớn nhất, 31 trên 38, mô tả mục tiêu thành thạo, làm việc thành các lượt đơn lẻ phân mảnh, rồi báo cáo phụ thuộc quá mức, tự mãn về mặt tinh thần, và quên nhanh; một người nói “tốc độ bạn quên nó cũng rất nhanh”. Một [[critical-thinking-paradox-genai-learning-2026|bài khung 2026]] đặt tên cho mô thức này. Điểm số và sản phẩm tăng trong khi công việc trí tuệ tạo ra học tập bền vững giảm.
+Bảng dữ liệu mười năm từ nền tảng ALEKS, bao gồm 3.2 triệu tương tác học tập và 12.2 triệu thời gian phản hồi bài đánh giá xếp lớp, cho thấy học sinh đã làm gì sau khi ChatGPT xuất hiện. Thiết kế so sánh các dạng bài có thể dán vào chatbot (bài toán đố dạng văn bản) với các dạng đòi hỏi thao tác đồ thị bên trong nền tảng, trong cùng một chương trình.
 
-Thử nghiệm ngẫu nhiên giải quyết cuộc tranh luận cho ít nhất một bối cảnh. Một [[bassner-performance-learning-dissociation-ai-programming-2026|thử nghiệm ngẫu nhiên có đối chứng ba nhánh với 275 sinh viên CS1]] so sánh một gia sư đưa gợi ý có giữ lại lời giải đầy đủ, ChatGPT không hạn chế, và tài nguyên web truyền thống. Điểm bài tập tách rõ: 71.84% cho ChatGPT so với 29.85% cho nhóm đối chứng không AI, gia sư đưa gợi ý ở 57.50%. Mức tăng kiến thức khái niệm không khác nhau chút nào giữa ba nhánh, ở 0.83, 0.71 và 0.85 điểm (thời gian × nhóm p = .773). Cả hai điều kiện AI đều giảm thất vọng và tải ngoại lai, và chỉ gia sư đưa gợi ý nâng động lực nội tại. Công cụ được sinh viên đánh giá hữu ích hơn và dễ hơn cũng là công cụ giảm nhiều nhất quá trình xử lý tạo ra học tập.
+Thời gian trên các bài dễ bị AI xử lý giảm 2.8% mỗi quý ở sinh viên đại học, 26.9% qua mười một quý. Học sinh trung học phổ thông giảm 31.3%, trung học cơ sở 9.0%, và học sinh lớp năm không có thay đổi đo được. Mức giảm biến mất hoàn toàn dưới [[remote-proctoring|giám sát thi]], và đây là phép thử quyết định: khi không có công cụ, sinh viên dành đúng lượng thời gian cũ. Các câu hỏi ghi nhớ có giám sát cho thấy mức giảm tích lũy 25% về khả năng trả lời đúng.
 
-Lưu ý điều thiết kế đó không thể chống đỡ. Đó là một môn học, một học kỳ, một ngôn ngữ, và điểm bài tập theo cấu trúc là hiệu suất có trợ giúp, đúng thước đo mà nghiên cứu cảnh báo đừng tin. Nó không cho thấy gia sư vô dụng. Nó cho thấy kết quả bạn chọn đo quyết định câu trả lời bạn nhận, và sở thích của sinh viên không phải thước đo học tập.
+Độ dốc theo tuổi là tín hiệu thiết kế cho các đội sản phẩm. Thời gian luyện tập là biến số dịch chuyển, và nó dịch chuyển mạnh nhất ở nơi dễ giao việc nhất. Với giảng viên, thời gian trên nhiệm vụ là cảnh báo sớm rẻ tiền: một nhóm hoàn thành đúng những bài đó nhanh hơn nhiều có lẽ không học cùng một thứ.
 
-Vậy hãy chấm phiên bản không có trợ giúp. Một nhiệm vụ mỗi chương nơi sinh viên truy hồi, giải thích, giải hoặc bảo vệ ý tưởng khi không có AI, và cho nó điểm thật. Lập luận về hiệu lực đằng sau điều này nằm ở [[assessment-validity|hiệu lực đánh giá]]: một sản phẩm mang về nhà trau chuốt không còn cho thấy người nộp nó có năng lực mà sản phẩm đó thể hiện. [[redesign-assessment-ai-era]] triển khai toàn bộ kiến trúc, gồm bước xác thực rẻ cho lớp đông.
+Xem thêm: [[reducing-over-reliance|Giảm phụ thuộc quá mức vào AI]]
 
-## Thay đổi bài tập bạn đã có, không phải cả môn học
+**6. Điểm bài tập về nhà tăng 18% trong khi bài thi đóng sách giảm 20% ([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg et al., 2026]]).**
 
-Hầu hết giảng viên hỏi câu này không xây môn học mới. Họ có một bài luận học kỳ, một báo cáo thí nghiệm, hoặc một bộ bài tập đã hiệu quả nhiều năm, và họ muốn biết đặt đường nối ở đâu. Hãy tách bài tập từng bước, hỏi mỗi bước bạn đang đánh giá gì ở đó, và để câu trả lời đặt ranh giới. Đó là phương pháp cấp nhiệm vụ được ghi trong [[mccorkle-aligned-genai-course-policy-2025|công trình về chính sách môn học căn chỉnh của McCorkle]], và một lượt trên bài tập gây tranh cãi nhất thường đủ để thấy hình dạng của nó.
+26,811 học sinh lớp 7 đến 12 ở Trung Quốc, theo dõi 30 tháng, với AI sinh tạo được áp dụng ở các thời điểm khác nhau giữa các nhóm. Điểm bài tập về nhà tăng 18% và thời gian hoàn thành giảm 30%, từ 64 xuống 45 phút. Bài thi đóng sách hàng tháng giảm 20% so với trung bình cơ sở trong vòng sáu tháng, và các kỳ thi tuyển sinh có hệ số cao giảm 18% đến 24% sau khoảng hai năm.
 
-Một bài luận học kỳ mười trang thường tách như sau. Chọn đề tài và tìm nguồn là nơi phán đoán sống, nên một công cụ đề xuất luận điểm hoặc lắp danh mục đọc đã thực hiện phần bạn đang chấm. Tổng hợp và lập luận chính là cấu trúc. Định dạng trích dẫn, kiểm tra tài liệu tham khảo, và biên tập ngôn ngữ là những bước mà việc dùng công cụ không hiện ra trong cấu trúc của bạn, và cấm nó ở đó chẳng được gì ngoài sự bực bội. Hãy nói điều đó trong đề bài, từng bước, trong một bảng ngắn nếu bạn muốn.
+Thời điểm cho thấy cơ chế. Khoảng 81% người dùng AI hoàn thành bài tập nhanh hơn học sinh không dùng AI nhanh nhất và sau đó làm bài thi kém. Thiểu số giữ thời gian làm bài tương đương người không dùng học tốt như mọi người. Tổn thất lớn nhất ở khoa học xã hội, rồi STEM, rồi ngôn ngữ, và lớn hơn ở học sinh có thành tích cao.
 
-Rồi làm cho bước giữa hiện ra. Yêu cầu một bản giải trình có chú giải dài một trang, nộp kèm bài, nêu hai nguồn sinh viên đã loại và vì sao, một tuyên bố họ đã sửa sau khi kiểm tra, và chỗ họ chọn không theo một gợi ý. Chấm nó với cùng độ cụ thể bạn dùng cho phần văn. Một bản giải trình chỉ có trọng lượng nếu sinh viên bỏ nó mất nhiều hơn được; vì vậy hãy cho nó đủ điểm để phép tính rõ ràng.
+Hoàn thành bài tập về nhà là thước đo thay thế tồi cho thành tích, và khoảng cách xuất hiện trong vòng sáu tháng, rất lâu trước khi kết quả thi tuyển sinh thay đổi. Giảng viên có thể hành động sớm hơn: giữ bằng chứng được chấm điểm ở dạng đóng sách, và coi bài làm ở nhà là phần luyện tập mà thời gian hoàn thành có thể nhìn thấy.
 
-Một bộ bài tập dễ hơn và đường nối nằm ở chỗ khác. Đáp án không phải cấu trúc; chọn phương pháp và chẩn đoán lỗi mới là. Yêu cầu bước đầu của mỗi bài, bằng lời của sinh viên, trước khi mở công cụ, và làm một bài của bộ ngay trong lớp khi không có gì. Đó là thay đổi nhỏ hơn vẻ ngoài, và nó biến bộ bài tập từ sản phẩm bạn không kiểm chứng được thành bản ghi cách sinh viên suy nghĩ.
+Xem thêm: [[checking-whether-educational-ai-works|Kiểm tra xem AI giáo dục có hiệu quả không]]
 
-Với báo cáo thí nghiệm, đường nối thường là diễn giải dữ liệu và phân tích sai số. Hãy để công cụ định dạng bảng và kiểm đơn vị. Giữ việc diễn giải, việc chọn cái gì là bất thường, và giải thích sự lệch với kết quả mong đợi trong tay sinh viên, và chấm những thứ đó với điểm kèm theo.
+**7. Mọi gia sư được thử đều thất bại về sư phạm, và thất bại nặng hơn qua một cuộc trò chuyện ([[hazra-safetutors-pedagogical-safety-2026|Hazra et al., 2026]]).**
 
-Mô thức tổng quát hóa: định vị bước nơi năng lực sống, bảo vệ bước đó, giải phóng phần còn lại, và đặt bằng chứng quá trình ở nơi có điểm. Điều bạn đang tránh là kiểu thiết kế lại thay đổi cách công việc được tạo ra mà không thay đổi điều điểm số có thể chống đỡ.
+SafeTutors thử 11 gia sư, từ các mô hình trọng số mở 3.8B đến 72B cộng GPT-5-mini, ở toán, vật lý và hóa học, đối chiếu với một phân loại gồm 11 chiều và 48 rủi ro phụ rút từ [[learning-theories|khoa học học tập]]. Các nhóm thất bại của nó mang tính sư phạm: tiết lộ đáp án quá mức, củng cố hiểu sai, và từ bỏ [[scaffolding|giàn giáo]]. Mỗi loại trông có vẻ hữu ích ngay lúc đó, vì học sinh nhận được đáp án đúng nhanh chóng.
 
-## Đánh giá công cụ phản hồi và chấm điểm bằng hiệu suất về sau
+Mọi mô hình đều cho thấy tác hại sư phạm rộng. Mô hình lớn hơn không an toàn hơn một cách đáng tin, và mức hữu ích chung chỉ tương quan yếu với an toàn sư phạm. Tỷ lệ tác hại tăng từ 17.7% ở trao đổi một lượt lên 77.8% ở các cuộc trò chuyện năm đến tám lượt.
 
-[[ai-feedback-quality|Phản hồi của AI]] có thể kịp thời, cụ thể, mở rộng được, và được sinh viên chấp nhận, kể cả trong [[higher-ed|giáo dục đại học]]. Việc nó có dạy hay không phụ thuộc vào độ chính xác, sự phù hợp [[pedagogy|sư phạm]], và [[feedback-literacy|năng lực đọc phản hồi]] của sinh viên, khả năng đánh giá phản hồi và hành động theo nó. Nếu bạn đang cân nhắc nó để phản hồi hoặc chấm điểm, những con số dưới đây là thứ cần mang vào cuộc họp mua sắm.
+Đánh giá một lượt không phải bằng chứng về một gia sư an toàn, và các đội sản phẩm nên thiết kế việc kiểm thử dựa trên điều đó. Một mô hình vượt qua kiểm tra hữu ích và an toàn một lần có thể thất bại ở phần lớn một cuộc trò chuyện thật. Quản trị viên mua gia sư cần ba câu trả lời: nó có giữ lại lời giải không, nó có dò hiểu sai không, và nó có trụ được qua một phiên không. Một buổi trình diễn của nhà cung cấp với một lượt trao đổi không cung cấp câu nào trong ba câu đó.
 
-[[mcinnes-salvaging-constructive-alignment-genai-2026|Phân tích phê phán 14 tài liệu hướng dẫn của cơ sở]] phát hiện prompt chung chung tạo ra kết quả, hoạt động và đánh giá tách rời nhau. Công cụ không thể biết một chủ đề liên kết chặt đến đâu, nên phản hồi của nó vẫn chung chung thay vì chính xác về chẩn đoán.
+Xem thêm: [[pedagogical-safety|An toàn sư phạm]]
 
-Cấu hình thực sự làm chất lượng thay đổi, đo được. Trong một [[teacher-ai-literacy-prompt-feedback-quality-2026|nghiên cứu về phản hồi AI trên mục tiêu học tập]], chỉ mô hình giải thích 26.9% biến thiên chất lượng phản hồi và thêm prompt nâng lên 42.8%, tức thêm 15.9%. Đặc điểm prompt duy nhất có ý nghĩa là thuật ngữ chuyên ngành; đổi nó thành cách diễn đạt thường ngày làm phản hồi kém đi rõ rệt. Việc chọn mô hình cũng quan trọng: Claude 3 và Gemini Advanced tạo phản hồi được đánh giá thấp hơn rõ rệt so với ChatGPT-4.
+**8. Các vụ vi phạm dựa trên bằng chứng mỏng hơn những gì cáo buộc gợi ý ([[munoz-misconduct-allegation-evidence-2026|Munoz et al., 2026]]).**
 
-Chấm điểm còn lung lay hơn. Một [[llm-automated-grading-programming-comparison-2026|so sánh 18 mô hình ngôn ngữ chấm 6,081 bài nộp lập trình]] cho điểm trung bình từ 0.290 đến 0.608 tùy mô hình, với tỉ lệ khớp chính xác thấp nhất 0.20 ở một số mô hình và cao nhất 0.74. Hai sinh viên với bài làm giống hệt có thể được chấm khác nhau tùy khoa cấp phép mô hình nào.
+Munoz và đồng nghiệp mã hóa mọi vụ vi phạm liên quan AI sinh tạo tại một trường đại học Australia trong ba năm: 1,162 vụ với 1,855 mục bằng chứng, mỗi mục được đánh giá về độ liên quan, độ tin cậy và sức mạnh suy luận.
 
-Rồi có câu hỏi sinh viên quan tâm, là liệu phản hồi có thay đổi điều họ làm được về sau. Một [[llm-feedback-handwritten-mathematics-exam-performance-2026|triển khai kéo dài một học kỳ trong môn toán đại học]] với 343 sinh viên tiếng Anh và 236 sinh viên tiếng Hà Lan tạo nhận xét cá nhân hóa và bài tập luyện từ ảnh bài làm. Người đánh giá xếp bài tập luyện mạnh nhất và độ chính xác chẩn đoán cùng độ rõ ràng yếu nhất. Thử nghiệm chéo ngẫu nhiên trên các câu thi liên kết không tìm thấy khác biệt có ý nghĩa thống kê sau điều chỉnh (pHolm = 0.104), và việc đi học bám theo điểm thi rõ hơn nhiều so với việc được tiếp xúc phản hồi (ρ = 0.49 và 0.54, cả hai p < 0.001). Phản hồi sinh viên coi trọng và hành động theo không phải phản hồi tạo ra học tập đo được.
+Cáo buộc liên quan AI sinh tạo tăng từ 11.9% số vụ vi phạm năm 2023 lên 36.9% năm 2025, trong khi tổng số vụ không đổi. 58 vụ, 5% tổng số vụ AI sinh tạo, chỉ dựa trên lời khẳng định, không có mục bằng chứng nào. Đầu ra của công cụ phát hiện hiếm và yếu: báo cáo Turnitin hoặc báo cáo tương đồng không có sức mạnh suy luận ở 73 mục, và đầu ra GPTZero độc lập có độ tin cậy thấp ở 69 mục. Bằng chứng mạnh nhất đến từ cuộc điều tra chứ không phải cáo buộc, với lời thừa nhận qua phỏng vấn trực tiếp ở 410 mục đạt 97.2% mạnh. [[hallucination-risk|Tài liệu tham khảo bịa đặt]] là thay đổi cấu trúc lớn nhất, 22.3% số mục, tăng từ 10.4% năm 2023 lên 30.0% năm 2025.
 
-Có một cái bẫy nữa nếu bạn để mô hình chấm. Trong một [[llm-grading-self-preference-bias-2026|nghiên cứu 1,426 luận án tâm lý học trải mười năm học]], cả bốn giám khảo AI cho điểm thấp nhất với bài do sinh viên viết và cao nhất với bài do AI viết. 10 trong 16 so sánh đủ lớn để những khác biệt cỡ đó là hiếm trong nghiên cứu giáo dục, lên tới mức chênh lệch lớn nhất từng quan sát được, và thiên lệch mạnh nhất với văn bản do AI tạo hoàn toàn. Một giám khảo có thể thưởng văn bản vì nó giống máy ngay cả khi chỉ dẫn nói phải đánh giá nội dung.
+Với quản trị viên, bài học là về thủ tục. Một vụ dựa trên điểm của công cụ phát hiện sẽ không trụ được khi bị kháng nghị, và một cuộc điều tra bắt đầu từ công cụ thay vì từ phỏng vấn tạo ra hồ sơ yếu. Giảng viên có thể hành động trên thứ lặp đi lặp lại: tài liệu tham khảo bịa đặt là phổ biến, và kiểm tra tài liệu tham khảo thì rẻ.
 
-## Tách những sinh viên thiết kế giúp khỏi những người nó bỏ lại
+Xem thêm: [[should-we-use-ai-detectors|Dùng công cụ phát hiện AI]]
 
-Một cải thiện trung bình có thể che giấu một môn học nơi người giỏi mạnh lên và người yếu bị đối xử tệ hơn. [[digital-divide|Khoảng cách số]] nay chạy theo ít nhất ba đường: tiếp cận công cụ, kỹ năng dùng chúng, và ai thực sự nhận được kết quả hữu ích. Chỉ kỹ năng viết prompt tạo ra một “đặc quyền prompt” trong đó người dùng có kinh nghiệm hơn nhận đầu ra tốt hơn từ cùng một hệ thống.
+**9. Sự tự tin của giáo viên về hiểu biết AI của mình gần như không khớp với kỹ năng được đo ([[ai-literacy-assessment-misalignment|Zhang et al., 2026]]).**
 
-Tổng quan 72 nghiên cứu tách hai cơ chế. Khoảng cách kỹ năng xuất hiện khi sinh viên có [[prior-knowledge|kiến thức nền]] mạnh hơn chuyển trợ giúp thành lợi ích bền vững trong khi sinh viên chưa được chuẩn bị tốt thay thế nó bằng luyện tập. Khoảng cách nguồn lực xuất hiện khi internet ổn định và truy cập trả phí duy trì việc dùng công cụ tốt hơn giữa các cơ sở. Chỉ sáu nghiên cứu trong tập nghiên cứu xem xét trực tiếp công bằng, điều các tác giả coi là vấn đề chứ không phải chú thích; [[equity-in-ai-education|công bằng trong giáo dục AI]] là nơi lập luận đó được phát triển.
+288 giáo viên K-12 hoàn thành một khảo sát tự báo cáo về hiểu biết AI và một thước đo hiệu suất khách quan xây trên cùng khung: Khái niệm, Sử dụng, Đánh giá và Đạo đức. Tương quan giữa hai thứ chạy từ 0.07 đến 0.24.
 
-Trợ giúp có thể thu hẹp khoảng cách khi những sinh viên cần nó là những người tham gia. Một [[co-learning-ai-agent-hidden-rules-2026|nghiên cứu bốn thử nghiệm về người học khám phá quy tắc ẩn với sự trợ giúp của tác tử AI]] phát hiện trợ giúp giảm số nước đi cần thiết 33-52%, và lợi ích tập trung ở những người kém nhất trong khi người học mạnh hầu như không bị ảnh hưởng. Đó là phiên bản lạc quan, và nó phụ thuộc vào việc những sinh viên cần trợ giúp nhất là những người dùng nó tốt, điều mà khoảng cách kỹ năng gợi ý họ sẽ không làm được nếu không được dạy.
+Phân tích hồ sơ tiềm ẩn tìm ra sáu nhóm. 43 giáo viên tự đánh giá mình luôn cao trong khi điểm thấp hơn trên thước đo khách quan. 59 cho thấy điều ngược lại. Phần còn lại tập trung gần trung bình hoặc tách theo kinh nghiệm trước đó với AI.
 
-## Giữ những quyết định hệ trọng với con người
+Với người phát triển đội ngũ giảng viên, [[self-assessment|tự đánh giá]] không phải là phân tích nhu cầu. Một khảo sát hỏi giáo viên họ tự tin đến đâu sẽ cấp vốn thừa cho người tự tin và phục vụ thiếu người ít nói, và những nhóm đó không phải nhóm có năng lực và nhóm đang chật vật. Các nhiệm vụ hiệu suất ngắn tách họ ra. Nhà nghiên cứu nên coi tương quan thấp là cảnh báo về đo lường: bất kỳ nghiên cứu nào về [[ai-literacy|hiểu biết AI]] xây trên [[self-report-measures|tự báo cáo]] là đang đo sự tự tin.
 
-Năng lực AI của giảng viên không ở chỗ cuộc trò chuyện chính sách giả định. Ở [[science-educators-ai-literacy-postqualification-2026|giáo viên khoa học đã hoàn thành đào tạo AI]], năng lực AI trung bình là 16.7 trên 30, dưới mẫu tham chiếu 18.79, và không liên quan đến tuổi, giới tính, số năm công tác, hay mức độ đã dùng AI. Một [[ai-tpack-mathematics-teacher-education-2026|khảo sát 412 giáo viên toán tương lai]] thấy mức sẵn sàng ở giai đoạn sớm, với niềm tin về dạy học cao nhất ở trung bình 5.24 trên thang 7 điểm và kiến thức kỹ thuật về AI thấp nhất ở 4.23.
+Xem thêm: [[faculty-development-ai|Phát triển đội ngũ giảng viên thay đổi thực hành]]
 
-Đó là lập luận cho công cụ có giới hạn, không phải công cụ tự trị. Phân tích tài liệu hướng dẫn đề xuất một tác tử [[rag|tăng cường truy hồi]] được cấu hình ở cấp cơ sở, dẫn dắt tư duy mà không cung cấp đáp án, đánh dấu sự lệch chuẩn, và chuyển lên người ở các rìa, với thẩm quyền được mô tả là “phái sinh và có giới hạn”. Có bằng chứng trực tiếp cho việc giữ người trong vòng lặp thay vì trước mặt nó: một [[instructional-agents-multi-agent-course-gen|hệ thống tạo tài liệu môn học]] được điểm tốt hơn khi người vẫn tham gia, với chế độ có nhiều đầu vào của người nhất cải thiện điểm người đánh giá 0.5-0.9 điểm so với chế độ hoàn toàn tự trị. Người đánh giá tự trị của nó tụ lại chặt quanh 2.9-3.1 trong khi người đánh giá của con người trải rộng và phân biệt tốt hơn, nên các tác giả giữ phán đoán của con người làm tín hiệu chất lượng chính.
+**10. Chấm điểm bằng AI trừng phạt học sinh viết kém hơn ([[ai-scoring-language-bias-physics|Feser and Tschisgale, 2026]]).**
 
-Phiên bản thực dụng cho một môn học: để AI soạn thảo, sắp xếp và đánh dấu. Giữ độ chính xác, công bằng, quyền riêng tư, và mọi quyết định về tiến trình của sinh viên dưới [[human-in-the-loop-ai|sự giám sát có ý nghĩa của con người]]. Những rủi ro khiến điều này cần thiết là bộ quen thuộc: thiên lệch, quyền riêng tư, minh bạch, [[agency|tính tự chủ]] của người học, trách nhiệm giải trình, và [[pedagogical-safety|an toàn sư phạm]]. Danh sách đó là lý do [[teacher-ai-competency|năng lực AI sư phạm]] quan trọng hơn sự quen thuộc kỹ thuật.
+116 bài giải thích vật lý của học sinh trung học được 9 cách tiếp cận học máy và 2 cách tiếp cận mô hình ngôn ngữ lớn chấm, rồi so với điểm của chuyên gia người. Mức đồng thuận với chuyên gia chạy từ 67.2% đến 78.4%, nghe có vẻ chấp nhận được cho đến khi tách các lỗi ra.
 
-## Giảng viên hiểu sai gì về điều này
+Mọi cách tiếp cận đều đánh giá thấp hiểu biết khái niệm với các bài giải thích có chất lượng ngôn ngữ thấp hơn. Thiên lệch chỉ chạy một chiều: bài viết mạnh không bị thổi phồng. Mô thức này phản chiếu điều đã được báo cáo về chính giáo viên vật lý, cho thấy khó khăn nằm ở việc suy ra hiểu biết từ văn xuôi, với người cũng như với mô hình.
 
-**“Bài làm trau chuốt trước mặt tôi là bằng chứng sinh viên làm được.”** Đó là bằng chứng bài làm trau chuốt. Khoảng cách 71.84% so với 29.85% trên điểm bài tập, với mức tăng khái niệm phẳng trong cùng thử nghiệm, và 36 nghiên cứu trong tổng quan tìm thấy hiệu quả mà không chuyển giao, đều mô tả khoảng cách giữa hiệu suất có trợ giúp và năng lực. Nếu sản phẩm là thứ duy nhất bạn chấm, thì sản phẩm là tất cả những gì bạn đã đo.
+Nhân viên đánh giá và đội sản phẩm cần báo cáo tỷ lệ đánh giá thấp theo chất lượng ngôn ngữ, không chỉ mức đồng thuận tổng thể với chuyên gia, vì con số trung bình che giấu nhóm bị tổn hại. Với những người chấm [[multilingual-learning|người học đa ngữ]], hãy chuyển các câu trả lời có chất lượng ngôn ngữ thấp sang [[human-in-the-loop-ai|con người xem xét]] hoặc thiết kế nhiệm vụ không phụ thuộc văn xuôi.
 
-**“Nếu AI là gia sư thì nó ở đúng phía của ranh giới.”** Nhãn hiệu không mang bảo đảm. Trong thử nghiệm CS1, gia sư đưa gợi ý tránh được thiệt hại mà ChatGPT không hạn chế gây ra trên bài tập, và vẫn không tạo lợi thế khái niệm nào so với không có AI. Giữ lại đáp án cuối không giống giữ lại lập luận, và một gia sư có thể làm điều thứ hai trong khi trông như chỉ làm điều thứ nhất.
+Xem thêm: [[ai-grading-fairness-reliability|Chấm điểm AI công bằng và đáng tin cậy]]
 
-**“Một công cụ phát hiện, hay một quy định chặt hơn, giải quyết vấn đề liêm chính.”** Phát hiện chỉ giải quyết một phản ứng trong nhiều phản ứng. Nghiên cứu trên giáo viên tập sự phát hiện nỗi sợ bị buộc tội đàn áp việc dùng được phép, văn hóa chương trình dự báo hành vi tốt hơn bất kỳ chính sách môn học nào, và tự khai báo báo cáo thấp hơn mức dùng ở mọi môn học. Một quy định chặt hơn thay đổi điều sinh viên che giấu, không thay đổi điều họ học.
+## Mười nghiên cứu có gì chung
 
-**“Một quy định AI cho cả môn học công bằng hơn và đơn giản hơn.”** Đơn giản hơn, đúng. Bằng chứng ủng hộ quy định đặt theo từng bài tập, vì ba trường hợp, hạn chế, giàn giáo, và yêu cầu, cùng tồn tại trong hầu hết môn học và cùng một sự cho phép mang nghĩa khác nhau trong báo cáo thí nghiệm và trong bài phản tư. Những lập trường bao trùm cũng là thứ sinh viên dễ đi vòng nhất.
+Ba nghiên cứu đo hai thứ cùng lúc: học sinh tạo ra gì với công cụ, và làm được gì khi không có nó. Bastani, Rismanchian và Strömberg đều thấy hai thứ tách ra, và chỉ thước đo không có trợ giúp mới hành xử như việc học. Bốn nghiên cứu xoay quanh một lựa chọn thiết kế chứ không phải mô hình: rào chắn ở Bastani, sư phạm nhúng trong gia sư Kestin, việc viết mà Kreijkes giữ trong nhiệm vụ, và bối cảnh nhiều lượt mà SafeTutors thử. Ba nghiên cứu xem xét hệ thống quanh công cụ, nghĩa là bằng chứng dùng trong các vụ vi phạm, cách đo năng lực giáo viên, và các giả định ngôn ngữ trong [[automated-assessment|chấm điểm tự động]]. StudentBench thiết lập tương đương trên một bài thi chuẩn hóa, kết quả duy nhất mà máy dễ ngang bằng người nhất. Bastani xuất hiện ở hai nhóm vì nó cung cấp cả khoảng cách lẫn cách sửa thiết kế.
 
-**“Sinh viên nói công cụ giúp họ là đang học từ nó.”** Sự hài lòng là một [[self-report-measures|thước đo tự báo cáo]], và trong thử nghiệm CS1 điều kiện được đánh giá cao nhất là điều kiện giảm nhiều nhất quá trình xử lý đằng sau việc học. Triển khai môn toán thấy cùng sự tách rời: phản hồi sinh viên coi trọng, không khác biệt thi có ý nghĩa.
+Còn lại ba câu hỏi đáng mang vào bất kỳ quyết định nào về môn học hay sản phẩm. Học sinh phải làm được gì khi không có công cụ? Hoạt động yêu cầu họ làm gì trong khi công cụ mở? Bằng chứng nào sẽ cho thấy khác biệt sau một tháng?
 
-**“Năng lực AI là kỹ năng prompt, và sinh viên học nó bằng cách dùng công cụ.”** Các khung coi [[ai-literacy|năng lực AI]] là hiểu biết khái niệm, kỹ năng vận hành, [[critical-thinking|đánh giá phê phán]], phán đoán [[ethics|đạo đức]], và nhận thức về giới hạn. Tổng quan nói rõ rằng [[prompt-engineering|kỹ thuật prompt]], kiểm chứng đầu ra, và phân tích lỗi AI là những kỹ năng có thể dạy được mà không phát triển qua việc tiếp xúc. Những giáo viên khoa học đã qua đào tạo đạt 16.7 trên 30 là phiên bản thực nghiệm của tuyên bố đó.
+## Chỗ bằng chứng còn mỏng
 
-**“Vấn đề công bằng là tiếp cận.”** Tiếp cận là một trong ba đường. Kỹ năng và ai nhận được kết quả hữu ích là hai đường còn lại, và chỉ sáu nghiên cứu trong tập nghiên cứu xem xét trực tiếp bất kỳ điều nào. Trao cho mọi sinh viên một giấy phép chỉ giải quyết một phần ba dễ nhất.
+Các nghiên cứu này chia sẻ [[limitations-in-aied-research|những hạn chế của nghiên cứu AIEd]] nói chung. Hai trong số lớn nhất diễn ra ở Thổ Nhĩ Kỳ và Trung Quốc, ba ở Hoa Kỳ, một ở Anh, một ở Australia, và nghiên cứu chấm điểm ở Đức. Một là bộ đánh giá chuẩn của các mô hình thương mại chứ không phải nghiên cứu thực địa. Toán trung học chiếm ưu thế, tiếp theo là vật lý và tin học. Rất ít nghiên cứu xem xét [[humanities-education|viết trong khoa học nhân văn]] ở quy mô lớn, giáo dục nghề nghiệp, hay học sinh khuyết tật.
 
-## Những gì sẽ quay lại với bạn
+Chỉ bảng dữ liệu Trung Quốc và bảng ALEKS quan sát sinh viên hơn hai năm sau khi áp dụng, và các tác giả Trung Quốc lập luận rằng nghiên cứu ngắn hơn đánh giá thấp một cách hệ thống mức phạt dài hạn. Sáu trong số các kết quả này là bản in trước hoặc bài làm việc chưa hoàn tất bình duyệt: StudentBench, Rismanchian, Strömberg, SafeTutors, Zhang và Feser. Các nghiên cứu Bastani, Kestin, Kreijkes và Munoz được công bố trên tạp chí bình duyệt.
 
-**“Sinh viên tôi nói AI giúp họ.”** Nó thường thực sự giúp với công việc trước mặt, và phát hiện là về điều còn lại sau đó. Hỏi họ còn làm được gì khi không có trợ giúp và bạn nhận câu trả lời khác, đó là lý do bước được chấm không có AI tồn tại.
+Kết quả rỗng và âm là hiếm trong tài liệu này, nên bản ghi đã công bố có lẽ phóng đại tần suất AI giúp ích. Những nghiên cứu này là hướng dẫn hiện tốt nhất về mười quyết định, và không nghiên cứu nào trong số đó khép lại một câu hỏi.
 
-**“Tôi dạy 200 sinh viên. Tôi không thể đọc bản nháp hay kiểm tra vấn đáp.”** Bạn không phải đọc mọi thứ. Một bài áp dụng trong lớp hoặc một đoạn giải thích ghi âm ngắn trong bài tập hệ trọng nhất, cộng một kiểm tra lấy mẫu trên bài làm trông không khớp với các lần nộp trước, bao phủ phần lớn rủi ro. Nộp theo giai đoạn, giải trình có chú giải, và [[eportfolio|hồ sơ quá trình]] mở rộng được; chấm việc kiểm chứng một đầu ra AI cố tình có lỗi cũng vậy.
+## Đi tiếp từ đâu
 
-**“Phát hiện là tất cả những gì chúng tôi có.”** Công cụ phát hiện có vấn đề về độ tin cậy và công bằng đã được ghi nhận, và hiệu lực là vấn đề khó hơn: một sản phẩm mang về nhà trau chuốt không còn cho thấy người nộp nó có năng lực. Bằng chứng quá trình rẻ hơn một cuộc chạy đua vũ trang và tạo ra thứ bạn bảo vệ được khi có khiếu nại.
-
-**“Cấm là đơn giản hơn.”** Đơn giản hơn, và nó thường thất bại. Việc áp dụng trong nghiên cứu giáo viên tập sự bám theo văn hóa chương trình hơn là chính sách của bất kỳ môn học nào, và công bố báo cáo thấp hơn mức dùng thực tế ở mọi môn học. Một lệnh cấm cũng lấy đi khả năng thấy sinh viên sẽ dùng công cụ thế nào khi họ ra trường.
-
-**“Tôi không dạy AI. Đây không phải môn của tôi.”** Các phát hiện là về môn của bạn. Khi AI thực hiện phần luyện tập mà môn học của bạn tồn tại để cung cấp, đó đúng là lúc nó can thiệp, và sự can thiệp hiện ra trong đánh giá của bạn dù bạn có nhắc đến công cụ hay không.
-
-**“Bằng chứng còn quá mới để hành động.”** Đúng một phần, và nó cắt cả hai chiều. Phần lớn tập nghiên cứu là can thiệp ngắn, nghiên cứu [[self-report-measures|tự báo cáo]], một ngành hẹp, hoặc công trình 2025 và 2026, và các tuyên bố từ [[intelligent-tutoring|nghiên cứu gia sư thông minh]] trưởng thành mạnh hơn tuyên bố về [[conversational-ai|chatbot]] đa dụng không hạn chế. Ở đâu một tuyên bố nay có thử nghiệm ngẫu nhiên chống lưng, sự tách rời hiệu suất và học tập trong thử nghiệm CS1 và kết quả phản hồi trong triển khai môn toán, thì thử nghiệm đó được trích ở đây. Ở đâu không có, hãy coi phát hiện là hướng dẫn tốt nhất hiện có chứ không phải luật đã ngã ngũ, và hãy hoài nghi nhất với kết quả chỉ cho thấy sự hài lòng, tốc độ làm bài, chất lượng đầu ra, hoặc hiệu suất có trợ giúp tức thời.
-
-## Việc cần làm trong tuần này
-
-**1.** Chọn bài tập mà bạn thấy khó bảo vệ nhất. Viết câu năng lực ở đầu đề bài.
-
-**2.** Thêm một bước chạy không có AI: một bài áp dụng năm phút trong lớp, một đoạn giải thích ghi âm ngắn, hoặc một đoạn viết ngay trong phòng học. Cho nó điểm thật.
-
-**3.** Nêu điều kiện AI cho bài tập đó và thêm một dòng lý do. Nếu bài tập trộn nhiều bước, nói rõ bước nào là bước nào.
-
-**4.** Viết lại một prompt bạn đưa cho sinh viên từ “giải bài này” thành “cho tôi một gợi ý và hỏi tôi một câu hỏi”, và nói cho họ biết vì sao.
-
-**5.** Trước khi học kỳ bắt đầu, mang thay đổi đó tới trưởng chương trình và tới người phê duyệt các điều chỉnh hỗ trợ, để lần khiếu nại đầu tiên không đồng thời là cuộc trò chuyện đầu tiên.
-
-## Đi tiếp từ đây
-
-Để có phiên bản theo từng bên liên quan của những hiểu nhầm này, xem [[addressing-common-misconceptions-ai-education]]. Với các yêu cầu thiết kế mà những phát hiện về công bằng và phán đoán của con người ngụ ý, xem [[equity-ethics-pedagogical-safety-research]]. [[redesign-assessment-ai-era]] đi xa hơn ở nửa đánh giá, và [[does-ai-help-students-learn]] là tổng quan bằng chứng đằng sau các tuyên bố trên trang này. Nếu bạn đang chọn giữa thiết kế lại và cưỡng chế, [[reduce-ai-cheating]] và [[course-ai-policy]] là các trang đồng hành.
+[[does-ai-help-students-learn|AI có giúp học sinh học không?]] là bản đánh giá bằng chứng rộng hơn đứng sau những tuyên bố này. [[redesign-assessment-ai-era|Nên thiết kế lại đánh giá thế nào cho thời đại AI?]] đi xa hơn ở nửa phần đánh giá. Với các vụ liêm chính, [[reduce-ai-cheating|Làm sao giảm gian lận AI?]] bao quát bằng chứng quy trình và chính sách. Với các phát hiện về phát triển chuyên môn, [[faculty-ai-competencies|Giảng viên cần những năng lực AI nào?]] là trang đồng hành, còn [[addressing-common-misconceptions-ai-education|Làm sao ứng phó những hiểu lầm phổ biến về AI trong giáo dục?]] xử lý những phản đối bạn có thể nghe từ đồng nghiệp.

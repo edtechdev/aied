@@ -1,15 +1,15 @@
 ---
-title: "Hvilke ti hovedfund fra forskningen i AI i uddannelse bør undervisere kende til?"
+title: "Hvilke 10 væsentlige fund fra forskningen i AI i uddannelse bør undervisere kende til?"
 created: "2026-08-24T09:42:00-04:00"
+updated: "2026-11-14T18:10:00-05:00"
 connected_faqs: [addressing-common-misconceptions-ai-education, does-ai-help-students-learn, reduce-ai-cheating, faculty-ai-competencies]
 weight: 100
 foundations: [ai-education, ai-literacy, cognitive-offloading, teacher-role]
 assessment: [assessment]
 research_method: [literature review]
-audience: [instructors]
-updated: "2026-10-29T12:23:33-04:00"
+audience: [instructors, faculty developers, educational technology developers, administrators, researchers]
 translation_of: faqs/top-10-findings-ai-education-instructors
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-14T18:10:00-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -17,156 +17,138 @@ ai_assist:
     role: translation
     date: "2026-10-29"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-14"
+    agent: hermes-agent
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
 
-Det er ugen før semesterstart, eller ugen efter den første store aflevering, og nogen har stillet dig et spørgsmål, du ikke kan svare på ud fra erfaring: hvad de studerende må gøre med AI i denne opgave, og hvad karakteren så beviser. Måske er en hjemmeopgave kommet tilbage poleret på en måde, der ikke passer med den studerendes tidligere arbejde. Måske skriver din afdeling en AI-politik og vil have dit kursus til at passe ind inden fredag. Måske klager en studerende over en karakter, og du kan ikke vise, hvad arbejdet dokumenterer.
+Disse ti studier har direkte betydning for de beslutninger, undervisere træffer: hvad der skal stilles som opgave, hvordan den bedømmes, hvilke værktøjer der købes, hvordan de bygges, og hvordan man afgør, om der er sket læring. Hvert punkt giver studiet, resultatet og den praksis, det ændrer.
 
-Bundlinjen i den forskning, denne vidensbase har samlet: hvordan du bygger [[generative-ai|generativ AI]] ind i aktiviteten, afgør, om den styrker tænkningen eller erstatter den. Det håndtag, du styrer, er udformningen af opgaven. Prøven på ethvert design er, hvad de studerende stadig kan, når værktøjet er væk. De ti fund, siden har navn efter, står nedenfor, sorteret efter den beslutning, hver af dem oplyser.
+## De ti studier
 
-## Den korte version
+**1. Adgang til en almindelig chatbot sænkede eksamensresultaterne med 17 % ([[generative-ai-guardrails-harm-learning|Bastani et al., 2025]]).**
 
-**1.** Navngiv den tænkning, opgaven findes for at frembringe, og giv derefter AI en rolle, der ikke udfører den tænkning.
+Næsten 1.000 gymnasieelever i Tyrkiet, i omkring 50 klasser, arbejdede sig gennem tre matematiksessioner med samme stof. En gruppe havde et almindeligt GPT-4-chatvindue under træningen. En anden havde en tutor bygget på samme model med lærerskrevne [[guardrails|sikkerhedsrammer]]: hints i stedet for svar, med den rigtige løsning og almindelige fejl indlejret i prompten. Kontrolgruppen havde ingen AI. Hver session sluttede med en [[summative-assessment|eksamen uden hjælpemidler]] om lignende opgaver, hvor værktøjet var væk.
 
-**2.** Sæt AI-reglen for den enkelte opgave i stedet for for kurset, og skriv begrundelsen ved siden af, hvor de studerende læser den.
+Gruppen med den almindelige chat scorede 48 % over kontrolgruppen under træningen og 17 % under kontrolgruppen til eksamen. Elever, der aldrig rørte AI, klarede sig bedre end dem. Den beskyttede gruppe vandt 127 % i træningen og gik lige op til eksamen. Skaden forsvandt, og der kom ingen læringsfordel i stedet. Chatloggene forklarer opdelingen: den ubeskyttede gruppe bad om svar og stoppede, mens den beskyttede gruppe forsøgte sig med opgaverne, bad om hints og forbedrede sig inden for den første session.
 
-**3.** Læg mindst ét bedømt trin ind i hvert forløb, som den studerende gennemfører uden AI til stede.
+For undervisere er »AI tilladt« ikke en politik. Grænsefladen afgør, om værktøjet bliver en hintkanal eller en svarmaskine, og en almindelig chatbot er som standard det sidste. Et chatvindue, der står åbent under træningen, koster de studerende mest, som læner sig mest op ad det.
 
-**4.** Vurder aktiviteten efter, hvad de studerende kan uger senere, uden hjælp, i stedet for efter kvaliteten af det, de afleverer.
+Administratorer kan stille det samme resultat op mod indkøbsargumentet om, at en stærkere model løser pædagogikken. Modellen var identisk i begge arme.
 
-**5.** Spørg, hvordan de studerende brugte værktøjet, og bedøm verifikationen i stedet for login.
+Se også: [[training-ai-tutors-to-guide-rather-than-answer|At træne en tutor til at vejlede i stedet for at svare]]
 
-**6.** Se på, hvilke studerende designet hjælper, for et gennemsnit skjuler dem, det taber.
+**2. En tutor bygget på kursets egen pædagogik slog kurset med aktiv læring, på kortere tid ([[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al., 2025]]).**
 
-## Beslut hvad opgaven skal bruges til
+Physical Sciences 2 er Harvards introduktionskursus i fysik for studerende i biovidenskab. I efteråret 2023 gennemgik 194 studerende i et crossover-forsøg to lektioner to gange, en gang i kursets [[active-learning|aktive læring]] og en gang gennem en tutor bygget til kurset, med præ- og posttests omkring hver version.
 
-Skriv én sætning, der navngiver kompetencen, før du rører ved værktøjet: hvad skal en studerende kunne ved slutningen af dette forløb, som de ikke kunne i begyndelsen? Svaret kan være: opbygge et argument ud fra evidens, skrive et bevis, nå frem til en diagnose, træffe en designbeslutning under begrænsninger. Hvis du ikke kan navngive det, bliver AI-reglen vilkårlig, og de studerende vil bemærke det.
+De studerende lærte mere med tutoren. Medianen på posttesten var 4,5 mod 3,5, medianen for [[learning-gains|læringsudbytte]] var mere end dobbelt så stor som kursets, og kvantilskøn af effekten lå fra 0,73 til 1,3 standardafvigelser. De brugte i median 49 minutter med tutoren mod cirka 60 minutter i klassen, og 83 % vurderede dens forklaringer som lige så gode som eller bedre end deres underviseres. Vurderingerne af engagement og motivation steg. Glæde og growth mindset var uændrede.
 
-To forskningslinjer forklarer, hvorfor dette kommer først. [[productive-failure|Produktiv fiasko]] er fundet, at lærende ofte beholder mere, når de forsøger sig på et problem, før de får vist hvordan, så friktion er nogle gange mekanismen snarere end en forhindring, der skal fjernes. [[icap-framework|ICAP-rammeværket]] forudsiger forskellig læring ved passiv, aktiv, konstruktiv og interaktiv brug af det samme materiale. Begge peger på ét designspørgsmål: hvad laver den studerende, mens værktøjet er åbent?
+Resultatet hviler på designet. Tutoren kørte de samme træk som klassen: gennemarbejdede eksempler, gradvise hints, selvforklaringer og en sekvens, der følger forskningen i, hvordan fysik læres. Sammenligningen var mod aktiv læring, ikke forelæsning, så den almindelige indvending om, at hvad som helst slår en forelæsning, gælder ikke her.
 
-Den klareste illustration i korpusset kommer fra en sammenligning af en teoribaseret chatbot, der stilladserede de studerendes forklaringer, med almindelig ChatGPT og undervisning som sædvanligt. De umiddelbare forskelle var ikke signifikante. Fire uger senere huskede den stilladserede gruppe mere begrebslig viden. Det er ét studie og ikke en universel effekt, og dets nyttige indhold er formen på resultatet: design kan veje tungere end modellens formåen, for det, der adskilte betingelserne, var, hvad aktiviteten bad de studerende om at gøre.
+Underviserudviklere har her det stærkeste tilgængelige argument for, at tutordesign er læseplansarbejde og ikke indkøb. For produktteams er kravet konkret: match et undervisningslokale med aktiv læring, på kortere tid, med de samme undervisningstræk.
 
-Den [[kumar-genai-computing-education-systematic-review-2026|systematiske gennemgang af 72 fagfællebedømte studier i datamatisk uddannelse]] når det samme lag fra den anden side. Den kalder kritisk engagement med AI-output »den fælles mekanisme, der forbinder hver effektiv intervention i korpusset« og anbefaler [[scaffolding|gradvis adgang]], hvor generativ AI først introduceres, efter at grundlæggende kompetence er påvist. Ingen af påstandene handler om, hvilket produkt du licenserer.
+Se også: [[developing-ai-tutor|Bedste praksis for at udvikle en AI-tutor]]
 
-## Giv AI en rolle, der ikke er den tænkning, du bedømmer
+**3. AI-tutoring matchede menneskelige eksperttutorer ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al., 2026]]).**
 
-Årtiers [[intelligent-tutoring|forskning i intelligent tutoring]] beskriver det mønster, der virker: diagnosticer, hvad den studerende forstår, stil spørgsmål, giv gradvise hints, bed om en forklaring, giv feedback. Alt undtagen at overlade løsningen. Nutidigt arbejde med [[pedagogical-agent|pædagogiske agenter]] drager samme grænse mellem undervisningsadfærd og svarsproduktion, og [[thermomix-genai-education-analogy-2026|Thermomix-analogien]] gør det konkret. En maskine kan lave maden for dig, og så mister du færdigheden, eller den kan fungere som testpartner for idéer, du stadig selv skal skabe mening i. De tilstande svarer til ICAP: passiv, aktiv, konstruktiv, interaktiv.
+StudentBench samlede 2.469 tutoringsessioner med 2.383 voksne, der forberedte sig til GRE, ved hjælp af 13 AI-tutorer bygget på 12 modeller, menneskelige tutorer i realtid og en videokontrol. Udfaldet var læringsudbytte på kvantitative og verbale opgaver.
 
-Smalere værktøjer viser samme princip. En [[structrag-diagram-reasoning-ai-tutoring|tutor, der læser tekniske diagrammer strukturelt]], nåede 93,0 % F1 på kantniveau mod 89,3 % nøjagtighed på hele diagrammet, hvilket betyder, at den kan navngive de specifikke forbindelser, der mangler eller er læst forkert, selv når hele diagrammet er galt. Det er feedback, en studerende kan handle på, i stedet for bestået eller ikke bestået.
+Samlet AI-tutoring var statistisk ækvivalent med eksperttutoring udført af mennesker, inden for en kvart standardafvigelse, og begge slog kontrolgruppen med omkring seks procentpoint: 6,86 i Quantitative og 5,47 i Verbal, eller cirka halvanden til to ekstra rigtige svar pr. sektion. AI-tutorerne blev vurderet svagere på lektionsplanlægning og på at skabe øvelsesopgaver, hvor de menneskelige tutorer var bedre.
 
-Det sværere spørgsmål er, hvad tutoren må anbefale. Da en [[tuo-armada-multi-agent-debate-overreliance-2026|debat mellem flere agenter]] erstattede »her er AI'ens svar« med en drøftelse, hvor dens egen foretrukne holdning blev tilbageholdt, faldt skadelig skift til en forkert AI-holdning fra 42-60,5 % til 5,7-8,2 %. Tilslutning til en korrekt AI-holdning faldt også, fra 61,1-72,3 % til 22,1-33,3 %. At tilbageholde en anbefaling beskytter den studerendes oprindelige vurdering og overlader korrektionen til overvejelse, så designet bytter fejlretning for færre selvsikre forkerte sving. Beslut, hvilken af de to du vil have ud af udvekslingen, før du skriver prompten.
+For administratorer ændrer bemandingsregnestykket sig ved veldefineret testforberedelse. Når en licenseret tutor matcher en menneskelig tutor på en fjerdedel af en standardafvigelse, handler beslutningen om pris og dækning, og effektivitet er ikke længere spørgsmålet. Forskere vil bemærke grænsen: ækvivalens er ikke overlegenhed, og en standardiseret test er det udfald, en maskine lettest kan matche.
 
-I undervisningen er det billigt at implementere. En [[socratic-method|sokratisk]] sekvens er mønsteret at sigte efter, hvor værktøjet spørger i stedet for at svare. Fortæl de studerende, at de skal bede om »ét hint«, »stil mig spørgsmål« eller »kritiser min ræsonnering«, og gør »løs det her« til undtagelsen. Du ændrer interaktionens standardverbum, og det er den del, de studerende faktisk styrer.
+Underviserudviklere kan se på, hvor de menneskelige tutorer beholdt en fordel: at diagnosticere, hvad en studerende har brug for næste gang, og at bygge den sekvens, der følger af det.
 
-Én grænse er værd at nævne klart. Det meste af denne evidens kommer fra korte opgaver i en håndfuld kurser, og intet af det lover, at en tutor, der giver hints, hæver eksamensresultaterne på dit hold. Til det spørgsmål har du brug for det randomiserede forsøg, der diskuteres nedenfor, og resultatet er nøgternt.
+Se også: [[intelligent-tutoring|Intelligent tutoring]]
 
-## Sæt reglen for den enkelte opgave, og begrund den
+**4. At skrive notater slog at spørge en chatbot, tre dage senere ([[kreijkes-llm-note-taking-reading-comprehension-2026|Kreijkes et al., 2026]]).**
 
-Et brugbart rammeværk skelner mellem tre tilfælde. Begræns AI, når det er uafhængig kompetence, du måler. Stilladsér det, når afgrænset hjælp ikke kompromitterer den kompetence. Kræv det, når dygtigt menneske-AI-samarbejde selv er det, de studerende skal lære. De fleste kurser indeholder alle tre, i forskellige uger, og det er derfor, en enkelt regel på kursusniveau bliver ved med at svigte i kanterne.
+Kreijkes og kolleger kørte et forhåndsregistreret eksperiment på syv engelske sekundære skoler. 405 elever i 10. klasse gennemgik to af tre betingelser med en historisk tekst: en chatbot, der kunne svare på spørgsmål om den, notatagning, eller begge. Tre dage senere tog de eksamener uden hjælpemidler i bogstavelig retention, forståelse og [[retrieval-spacing-interleaving|fri genkaldelse]].
 
-Den [[zou-is-this-a-trap-student-teachers-genai-2026|mixed-methods-undersøgelse af 85 lærerstuderende]] viser, hvad en regel uden begrundelse frembringer. 62,4 % af stikprøven undlod at bruge generativ AI, selv hvor det var tilladt, og 41,5 % af dem, der undlod, angav frygt for at blive anklaget for [[academic-integrity|plagiering]]. 9 af 11 interviewpersoner læste den tilladende politik som en fælde. I samme undersøgelse brugte kun 37,6 % tilladt generativ AI overhovedet, deres valg fulgte uddannelseskulturen og [[assessment|bedømmelsesdesignet]] mere end noget enkeltkursus' tilladelse, og deres egne erklæringer underrapporterede den faktiske brug i hvert eneste kursus.
+Notater slog chatbotten på alle tre mål, med omkring en halv standardafvigelse på retention og tæt på fire tiendedele på forståelse. Notater plus chatbot slog chatbotten alene på to af de tre og gjorde intet for fri genkaldelse, og notater alene var stærkere end kombinationen. I den kombinerede betingelse kopierede omkring en fjerdedel af eleverne chatbotens output ind i deres notater. Eleverne vurderede stadig chatbotten som lettere, mere hjælpsom og mere underholdende end at skrive.
 
-Læs de tal som en designbrief. En tilladelse uden angivet formål ligner en fælde, og et forbud uden angivet formål ligner en forhindring, man skal uden om. Det, de studerende reagerer på, er begrundelsen, der er knyttet til netop denne opgave. Sæt reglen i opgavebeskrivelsen, én linje, og gør linjen så konkret, at en studerende kan se, om den hjælp, de er ved at tage imod, underminerer det, du bedømmer.
+Undervisere har her direkte evidens for, at en læseassistent kan erstatte læsningen. Hvis pointen med opgaven er at forstå en tekst, [[writing-education|er skrivningen forståelsen]], og et værktøj, der svarer på spørgsmål om teksten, fjerner øvelsen. Behold notaterne. Hvis du tillader chatbotten, bed om noget, den ikke kan levere: en sammenligning, en udfordring af teksten eller et resumé skrevet, efter værktøjet er lukket.
 
-## Bedøm noget, den studerende har lavet uden værktøjet
+Se også: [[ai-support-reading-comprehension|AI-støtte til læseforståelse]]
 
-Det er det trin, der gør arbejdet, og evidensen her er den mindst tvetydige på siden.
+**5. Studietiden faldt 27 %, og retentionen faldt med den ([[generative-ai-reduced-study-time-math|Rismanchian et al., 2026]]).**
 
-Gennemgangen af 72 studier fandt, at generativ AI pålideligt hævede kortvarig færdiggørelse og skar tid på opgaven i 36 studier, hvilket forfatterne behandler som det bedst replikerede resultat i korpusset, og at disse effektivitetsgevinster »ikke overføres til uafhængig præstation« i 21 studier. En [[yan-cognitive-outsourcing-genai-assessments-2026|tænke-højt-undersøgelse af 38 bachelorstuderende]] viser, hvordan det sker i det almindelige tilfælde. [[cognitive-offloading|Kognitiv udlicitering]] er hårdest for læringen, når AI'en udfører den ræsonnering, den studerende skulle have øvet. Der blev 76,32 % i et mønster med ét trin, spørg, få svar, stop, og kun 21,06 % skiftede mellem AI-brug og selvstændig læsning og skrivning. Den største gruppe, 31 af 38, beskrev mestringsmål, arbejdede i fragmenterede enkelttrin og rapporterede derefter overafhængighed, mental tilbagelænethed og hurtig glemsel; en af dem formulerede det som »den hastighed, hvormed du glemmer det, er også meget hurtig«. En [[critical-thinking-paradox-genai-learning-2026|rammeartikel fra 2026]] giver mønsteret dets navn. Karakterer og produkter stiger, mens det mentale arbejde, der frembringer varig læring, falder.
+Et tiårigt panel fra ALEKS-platformen, der dækker 3,2 millioner læringsinteraktioner og 12,2 millioner svartider i placeringsvurderingen, viser, hvad studerende gjorde, efter ChatGPT kom. Designet sammenligner opgavetyper, der kan indsættes i en chatbot (tekstbaserede ordproblemer), med typer, der kræver at manipulere en graf inde i platformen, inden for samme curriculum.
 
-Det randomiserede forsøg afgør diskussionen for mindst én kontekst. Et [[bassner-performance-learning-dissociation-ai-programming-2026|trearmet RCT med 275 CS1-studerende]] sammenlignede en hintgivende tutor, der tilbageholdt fulde løsninger, ubegrænset ChatGPT og traditionelle webressourcer. Øvelsesresultaterne skilte sig skarpt: 71,84 % for ChatGPT mod 29,85 % for kontrolgruppen uden AI, med den hintgivende tutor på 57,50 %. Gevinsterne i begrebslig viden adskilte sig slet ikke mellem de tre arme, med 0,83, 0,71 og 0,85 point (tid × gruppe p = 0,773). Begge AI-betingelser sænkede frustration og uvedkommende belastning, og kun den hintgivende tutor hævede den indre motivation. Det værktøj, de studerende vurderede som mere hjælpsomt og lettere, var også det, der mest reducerede den bearbejdning, der frembringer læring.
+Tiden på de AI-følsomme opgaver faldt 2,8 % pr. kvartal blandt universitetsstuderende, 26,9 % over elleve kvartaler. Gymnasieelever faldt 31,3 %, mellemskolen 9,0 %, og femteklasserne viste ingen målbar ændring. Faldet forsvandt helt under [[remote-proctoring|tilsyn]], og det er den afgørende test: når værktøjet ikke var tilgængeligt, brugte eleverne den samme tid som før. Retentionselementer under tilsyn viste et kumulativt fald på 25 % i oddsene for et rigtigt svar.
 
-Læg mærke til, hvad det design ikke kan understøtte. Det er ét kursus, ét semester, ét sprog, og øvelsesresultaterne er assisteret præstation af natur, hvilket netop er det mål, undersøgelsen advarer imod at stole på. Det viser ikke, at tutorer er ubrugelige. Det viser, at det udfald, du vælger at måle, afgør det svar, du får, og at de studerendes præference ikke er et læringsmål.
+Aldersgradienten er et designsignal for produktteams. Øvelsestiden er den variabel, der flytter sig, og den flytter sig mest, hvor opgaven er lettest at aflevere. For undervisere er tid på opgaven en billig tidlig advarsel: en årgang, der færdiggør de samme opgaver meget hurtigere, lærer sandsynligvis noget andet.
 
-Så bedøm versionen uden hjælp. Én opgave pr. forløb, hvor de studerende henter, forklarer, løser eller forsvarer idéer uden AI til stede, og sæt rigtige point på den. Gyldighedsargumentet bag står i [[assessment-validity|bedømmelsesgyldighed]]: et poleret hjemmeprodukt viser ikke længere, at den person, der afleverede det, har den kompetence, produktet udviser. [[redesign-assessment-ai-era]] gennemgår hele arkitekturen, herunder det billige autentificerede trin til store hold.
+Se også: [[reducing-over-reliance|At reducere overafhængighed af AI]]
 
-## Ændr den opgave, du allerede har, ikke hele kurset
+**6. Lektiekarakterer steg 18 %, mens eksamener uden hjælpemidler faldt 20 % ([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg et al., 2026]]).**
 
-De fleste undervisere, der stiller dette spørgsmål, bygger ikke et nyt kursus. De har en semesteropgave, en laboratorierapport eller et opgavesæt, der har virket i årevis, og de vil vide, hvor de skal lægge snittet. Tag opgaven fra hinanden trin for trin, spørg ved hvert trin, hvad du bedømmer der, og lad svaret sætte grænsen. Det er den opgaveniveau-metode, der er dokumenteret i [[mccorkle-aligned-genai-course-policy-2025|McCorkles arbejde med afstemt kursuspolitik]], og én gennemgang af din mest omstridte opgave er som regel nok til at se formen.
+26.811 elever i 7. til 12. klasse i Kina, fulgt i 30 måneder, med generativ AI indført på forskellige tidspunkter i årgangene. Lektiekaraktererne steg 18 %, og færdiggørelsestiden faldt 30 %, fra 64 til 45 minutter. Månedlige eksamener uden hjælpemidler faldt 20 % af udgangsgennemsnittet inden for seks måneder, og afgørende adgangseksamener faldt 18 % til 24 % efter omkring to år.
 
-En ti sider lang semesteropgave skiller typisk sådan. Emnevalg og kildehentning er der, hvor dømmekraften bor, så et værktøj, der foreslår en tese eller samler litteraturlisten, har udført den del, du bedømmer. Syntese og argumentation er selve konstruktet. Citationsformatering, referencetjek og sproglig redigering er trin, hvor værktøjsbrug er usynligt for dit konstrukt, og et forbud der køber dig intet andet end irritation. Sig det i opgavebeskrivelsen, trin for trin, i en kort tabel hvis du vil.
+Timingen viser mekanismen. Omkring 81 % af AI-brugerne færdiggjorde lektierne hurtigere end den hurtigste elev uden AI og klarede sig derefter dårligt til eksamen. Det mindretal, der holdt lektietiden sammenlignelig med ikke-brugernes, lærte lige så godt som alle andre. Tabene var størst i samfundsfag, derefter STEM, derefter sprog, og større for højtpræsterende elever.
 
-Gør så det midterste trin synligt. Bed om en annoteret begrundelse på én side, afleveret sammen med opgaven, der nævner to kilder, den studerende afviste og hvorfor, ét udsagn de reviderede efter at have tjekket, og hvor de valgte ikke at følge et forslag. Bedøm den med samme konkrethed, som du bruger på prosaen. En begrundelse vejer kun noget, hvis en studerende, der springer den over, taber mere end de vinder ved at springe over, så giv den nok point til, at regnestykket er indlysende.
+At færdiggøre lektier er en dårlig proxy for præstation, og gabet viser sig inden for seks måneder, længe før adgangseksamensresultater flytter sig. Undervisere kan handle tidligere: hold bedømt evidens uden hjælpemidler, og behandl hjemmearbejde som øvelse, hvis færdiggørelsestid er synlig.
 
-Et opgavesæt er lettere, og snittet ligger et andet sted. Svarene er ikke konstruktet; metodevalg og fejldiagnose er. Kræv første trin af hvert problem, med den studerendes egne ord, før noget værktøj åbnes, og kør ét problem fra sættet i timen uden hjælpemidler. Det er en mindre ændring, end det lyder, og den forvandler sættet fra et produkt, du ikke kan verificere, til en registrering af, hvordan den studerende tænkte.
+Se også: [[checking-whether-educational-ai-works|At afgøre, om AI i uddannelse virker]]
 
-For en laboratorierapport er snittet som regel datafortolkningen og fejlanalysen. Lad værktøjet formatere tabellen og tjekke enhederne. Hold fortolkningen, valget af hvad der tæller som afvigende, og forklaringen på uoverensstemmelse med det forventede resultat i den studerendes hænder, og bedøm dem med point på.
+**7. Hver testet tutor fejlede på pædagogik, og fejlede værre i løbet af en samtale ([[hazra-safetutors-pedagogical-safety-2026|Hazra et al., 2026]]).**
 
-Mønsteret kan generaliseres: find det trin, hvor kompetencen bor, beskyt det trin, frigør resten, og læg processens bevis der, hvor pointene er. Det, du undgår, er det redesign, der ændrer, hvordan arbejdet produceres, uden at ændre, hvad karakteren kan understøtte.
+SafeTutors testede 11 tutorer, fra open-weight-modeller på 3,8B til 72B plus GPT-5-mini, i matematik, fysik og kemi, mod en taksonomi på 11 dimensioner og 48 underrisici hentet fra [[learning-theories|læringsvidenskab]]. Deres fejlkategorier er pædagogiske: overdreven afsløring af svar, forstærkning af misforståelser og opgivelse af [[scaffolding|stilladsering]]. Hver af dem virker hjælpsom i øjeblikket, fordi den studerende hurtigt får et rigtigt svar.
 
-## Vurder feedback- og bedømmelsesværktøjer efter senere præstation
+Hver model viste bred pædagogisk skade. Større modeller var ikke pålideligt sikrere, og generel hjælpsomhed korrelerede kun svagt med pædagogisk sikkerhed. Skadesraterne steg fra 17,7 % i enkeltrundeudvekslinger til 77,8 % i samtaler på fem til otte runder.
 
-[[ai-feedback-quality|AI-feedback]] kan være rettidig, konkret, skalerbar og acceptabel for de studerende, også i [[higher-ed|videregående uddannelse]]. Om den underviser, afhænger af nøjagtighed, [[pedagogy|pædagogisk]] pasform og de studerendes [[feedback-literacy|feedbackkompetence]], deres evne til at vurdere feedback og handle på den. Hvis du overvejer den til feedback eller bedømmelse, er tallene nedenfor dem, du skal tage med til indkøbssamtalen.
+Enkeltrundevurderinger er ikke evidens for en sikker tutor, og produktteams bør designe deres testning efter det. En model, der består en engangskontrol af hjælpsomhed og sikkerhed, kan fejle i det meste af en rigtig samtale. Administratorer, der køber en tutor, har brug for tre svar: holder den løsninger tilbage, undersøger den misforståelser, og holder den hele en session igennem. En leverandørdemo med én udveksling giver ingen af dem.
 
-En [[mcinnes-salvaging-constructive-alignment-genai-2026|kritisk analyse af 14 institutionelle vejledningsdokumenter]] fandt, at generiske prompter producerer læringsmål, aktiviteter og bedømmelser isoleret. Værktøjet kan ikke vide, hvor indbyrdes forbundet et emne er, så dets feedback forbliver generel i stedet for diagnostisk præcis.
+Se også: [[pedagogical-safety|Pædagogisk sikkerhed]]
 
-Konfiguration flytter kvaliteten, målbart. I en [[teacher-ai-literacy-prompt-feedback-quality-2026|undersøgelse af AI-feedback på læringsmål]] forklarede modellen alene 26,9 % af variationen i feedbackkvalitet, og tilføjelsen af prompten hævede det til 42,8 %, altså 15,9 % ekstra. Den ene promptegenskab, der betød noget, var fagspecifik terminologi; at bytte den ud med hverdagsparafraser gjorde feedbacken betydeligt dårligere. Modelvalg betød også noget: Claude 3 og Gemini Advanced producerede betydeligt lavere vurderet feedback end ChatGPT-4.
+**8. Sager om forseelser hviler på tyndere evidens, end anklagerne antyder ([[munoz-misconduct-allegation-evidence-2026|Munoz et al., 2026]]).**
 
-Bedømmelse er endnu mere usikker. En [[llm-automated-grading-programming-comparison-2026|sammenligning af 18 sprogmodeller, der bedømte 6.081 programmeringsafleveringer]] fandt gennemsnitskarakterer fra 0,290 til 0,608 afhængigt af modellen, med eksakt enighedsrate så lav som 0,20 for nogle og 0,74 i bedste fald. To studerende med identisk arbejde kan få forskellige karakterer afhængigt af, hvilken model afdelingen licenserede.
+Munoz og kolleger kodede hver sag om generativ-AI-forseelse på et australsk universitet over tre år: 1.162 sager med 1.855 evidenselementer, hver vurderet efter relevans, troværdighed og inferentiel styrke.
 
-Så er der spørgsmålet, de studerende bekymrer sig om, nemlig om feedbacken ændrer, hvad de kan senere. En [[llm-feedback-handwritten-mathematics-exam-performance-2026|semesterlang udrulning i et bachelor-matematikkursus]] med 343 engelske og 236 hollandske studerende genererede individuelle kommentarer og øvelsesopgaver ud fra fotograferede svarark. Bedømmerne vurderede øvelsesopgaverne som det stærkeste og diagnostisk specificitet og klarhed som det svageste. Det randomiserede crossover på sammenkædede eksamensspørgsmål fandt ingen statistisk signifikant forskel efter justering (pHolm = 0,104), og fremmøde fulgte eksamensresultater langt klarere end feedbackeksponering (ρ = 0,49 og 0,54, begge p < 0,001). Feedback, som de studerende værdsætter og handler på, er ikke det samme som feedback, der frembringer målbar læring.
+Anklager om generativ AI steg fra 11,9 % af forseelsessagerne i 2023 til 36,9 % i 2025, mens det samlede sagstal var fladt. 58 sager, 5 % af det samlede antal GenAI-sager, hvilede alene på en påstand uden ét eneste evidenselement. Detektoroutput var sjældent og svagt: Turnitin- eller lighedsrapporter havde ingen inferentiel styrke i 73 elementer, og selvstændigt GPTZero-output havde lav troværdighed i 69. Den stærkeste evidens kom fra undersøgelsen snarere end anklagen, med mundtlige tilståelser i 410 elementer, hvor 97,2 % var stærke. [[hallucination-risk|Fabrikerede referencer]] var det største strukturelle skift, 22,3 % af elementerne, med en stigning fra 10,4 % i 2023 til 30,0 % i 2025.
 
-Der er en yderligere fælde, hvis du lader en model bedømme. I en [[llm-grading-self-preference-bias-2026|undersøgelse af 1.426 psykologiske afhandlinger fordelt over ti akademiske år]] gav alle fire AI-bedømmere studerendes eget arbejde lavest og AI-skrevet arbejde højest. 10 af 16 sammenligninger var så store, at forskelle af den størrelse er sjældne i uddannelsesforskning, op til det største observerede gab, og biasen var stærkest for fuldt AI-genereret tekst. En bedømmer kan belønne tekst for at være maskinagtig, selv når dens instruktioner siger, at den skal vurdere indhold.
+For administratorer er læren proceduremæssig. En sag bygget på en detektorscore overlever ikke en klage, og en undersøgelse, der starter med værktøjet i stedet for interviewet, producerer svage sagsakter. Undervisere kan handle på det artefakt, der bliver ved med at dukke op: fabrikerede referencer er almindelige, og et referencetjek er billigt.
 
-## Skeln mellem de studerende, designet hjælper, og dem, det taber
+Se også: [[should-we-use-ai-detectors|At bruge AI-detektorer]]
 
-En gennemsnitlig forbedring kan skjule et kursus, hvor de stærke bliver stærkere, og de svage får en dårligere aftale. Det [[digital-divide|digitale skel]] løber nu langs mindst tre linjer: adgang til værktøjer, færdighed i at bruge dem, og hvem der faktisk får et brugbart resultat. Promptfærdighed alene frembringer et »prompt-privilegium«, hvor mere erfarne brugere får bedre output fra det samme system.
+**9. Underviseres selvtillid til deres AI-kompetence følger næsten ikke deres målte færdighed ([[ai-literacy-assessment-misalignment|Zhang et al., 2026]]).**
 
-Gennemgangen af 72 studier skelner mellem to mekanismer. Et færdighedsgab opstår, hvor studerende med stærkere [[prior-knowledge|forhåndsviden]] omsætter hjælp til varige gevinster, mens dårligt forberedte studerende erstatter øvelsen med den. Et ressourcegab opstår, hvor pålideligt internet og betalt adgang understøtter bedre værktøjsbrug på tværs af institutioner. Kun seks studier i korpusset undersøgte ligestilling direkte, hvilket forfatterne behandler som problemet snarere end en fodnote; [[equity-in-ai-education|ligestilling i AI-uddannelse]] er der, hvor det argument udvikles.
+288 K-12-undervisere gennemførte en selvrapporteringsundersøgelse om AI-kompetence og et objektivt præstationsmål bygget på samme ramme: Concept, Use, Evaluate og Ethics. Korrelationerne mellem de to lå fra 0,07 til 0,24.
 
-Hjælp kan lukke et gab, når det er de studerende, der har brug for den, som bruger den. En [[co-learning-ai-agent-hidden-rules-2026|undersøgelse med fire eksperimenter af lærende, der opdager skjulte regler med en AI-agents hjælp]] fandt, at hjælpen skar nødvendige træk med 33-52 %, og at fordelen samlede sig hos de svageste, mens stærkere lærende stort set var upåvirkede. Det er den håbefulde version, og den afhænger af, at de studerende, der har mest brug for hjælpen, er dem, der bruger den godt, hvilket færdighedsgabet tyder på, at de ikke magter uden undervisning.
+Latent profilanalyse fandt seks grupper. 43 undervisere vurderede sig selv konsekvent højt, mens de scorede lavere på det objektive mål. 59 viste det modsatte. Resten samlede sig omkring gennemsnittet eller delte sig efter forudgående erfaring med AI.
 
-## Lad de afgørende beslutninger blive hos et menneske
+For underviserudviklere er [[self-assessment|selvvurdering]] ikke en behovsanalyse. En undersøgelse, der spørger undervisere, hvor sikre de er, vil overfinansiere de selvsikre og underbetjene de fåmælte, og de grupper er ikke de kompetente og de kæmpende. Korte præstationsopgaver skiller dem. Forskere bør behandle de lave korrelationer som en advarsel om målingen: enhver undersøgelse af [[ai-literacy|AI-kompetence]], der bygger på [[self-report-measures|selvrapportering]], måler selvtillid.
 
-Undervisernes AI-kompetence er ikke der, hvor politiksamtalen antager. Blandt [[science-educators-ai-literacy-postqualification-2026|naturfagslærere, der allerede havde gennemført AI-uddannelse]], var den gennemsnitlige AI-kompetence 16,7 ud af 30, under referencesamplets 18,79, og den var ikke relateret til alder, køn, anciennitet eller hvor meget de havde brugt AI. En [[ai-tpack-mathematics-teacher-education-2026|undersøgelse af 412 kommende matematiklærere]] fandt parathed på et tidligt stadium, med undervisningsoverbevisninger højest ved et gennemsnit på 5,24 på en 7-punktsskala og teknisk AI-viden lavest ved 4,23.
+Se også: [[faculty-development-ai|Underviserudvikling, der ændrer praksis]]
 
-Det er et argument for afgrænsede værktøjer, ikke autonome. Vejledningsdokumentanalysen foreslår en institutionelt konfigureret [[rag|hentningsforstærket]] agent, der guider tænkning uden at levere svar, markerer manglende overensstemmelse og eskalerer til et menneske i kanterne, med myndighed beskrevet som »afledt og afgrænset«. Der er direkte evidens for at holde mennesker i løkken snarere end foran den: et [[instructional-agents-multi-agent-course-gen|system til generering af kursusmateriale]] scorede bedre, når mennesker var involveret, og den tilstand med mest menneskelig indsats forbedrede bedømmernes score med 0,5-0,9 point over den fuldt autonome tilstand. Dets autonome bedømmere klumpede tæt omkring 2,9-3,1, mens menneskelige evaluatorer spredte sig og diskriminerede mere, så forfatterne beholdt menneskelig dømmekraft som det primære kvalitetssignal.
+**10. AI-bedømmelse straffer studerende, der skriver dårligere ([[ai-scoring-language-bias-physics|Feser og Tschisgale, 2026]]).**
 
-Den praktiske version til et kursus: lad AI udkaste, sortere og markere. Hold nøjagtighed, retfærdighed, privatliv og enhver beslutning om en studerendes progression under [[human-in-the-loop-ai|meningsfuldt menneskeligt tilsyn]]. Risiciene, der gør dette nødvendigt, er det velkendte sæt: bias, privatliv, gennemsigtighed, den lærendes [[agency|autonomi]], ansvarlighed og [[pedagogical-safety|pædagogisk sikkerhed]]. Den liste er grunden til, at [[teacher-ai-competency|pædagogisk AI-kompetence]] betyder mere end teknisk kendskab.
+116 gymnasieelevers fysikforklaringer blev bedømt af 9 machine learning-tilgange og 2 store sprogmodeltilgange og derefter sammenlignet med menneskelige ekspertvurderinger. Overensstemmelsen med eksperterne lå fra 67,2 % til 78,4 %, hvilket lyder acceptabelt, indtil fejlene opdeles.
 
-## Det, undervisere tager fejl af her
+Hver tilgang undervurderede begrebslig forståelse for forklaringer af lavere sproglig kvalitet. Biasen gik én vej: stærkere skrivning blev ikke overvurderet. Mønstret spejler, hvad der er rapporteret for fysiklærere selv, hvilket tyder på, at vanskeligheden ligger i at udlede forståelse af prosa, for mennesker lige så vel som for modeller.
 
-**»Det polerede arbejde foran mig er bevis på, at den studerende kan gøre det.«** Det er bevis på, at arbejdet er poleret. Spredningen på 71,84 % mod 29,85 % i øvelsesresultater, med begrebsgevinster flade i samme forsøg, og de 36 studier i gennemgangen, der fandt effektivitet uden overførsel, beskriver alle afstanden mellem assisteret præstation og kompetence. Hvis produktet er det eneste, du bedømmer, er produktet alt, hvad du har målt.
+Bedømmelsespersonale og produktteams skal rapportere undervurderingsrater efter sproglig kvalitet, ikke kun den samlede overensstemmelse med eksperter, fordi gennemsnittet skjuler den gruppe, der rammes. For alle, der bedømmer [[multilingual-learning|flersprogede lærende]], bør svar med lav sproglig kvalitet sendes til [[human-in-the-loop-ai|menneskelig gennemgang]], eller opgaverne bør designes, så de ikke afhænger af prosa.
 
-**»Hvis AI'en er en tutor, er den på den rigtige side af stregen.«** Etiketten bærer ikke garantien. I CS1-forsøget undgik den hintgivende tutor den skade, som ubegrænset ChatGPT gjorde på øvelser, og gav stadig ingen begrebslig fordel over for ingen AI overhovedet. At tilbageholde det endelige svar er ikke det samme som at tilbageholde ræsonneringen, og en tutor kan gøre det andet, mens den ser ud til kun at gøre det første.
+Se også: [[ai-grading-fairness-reliability|Fair og pålidelig AI-bedømmelse]]
 
-**»En detektor eller en strengere regel løser integritetsproblemet.«** Detektion håndterer ét svar ud af flere. Undersøgelsen af lærerstuderende fandt, at frygt for anklage undertrykte tilladt brug, at uddannelseskulturen forudsagde adfærd bedre end nogen kursuspolitik, og at selvdeklarationer underrapporterede brug i hvert eneste kursus. En strengere regel ændrer, hvad de studerende skjuler, ikke hvad de lærer.
+## Hvad de ti har til fælles
 
-**»Én AI-regel for hele kurset er mere retfærdig og enklere.«** Enklere, ja. Evidensen taler for regler sat pr. opgave, fordi de tre tilfælde, begræns, stilladsér og kræv, findes side om side i de fleste kurser, og den samme tilladelse betyder forskellige ting i en laboratorierapport og i en refleksion. Generelle holdninger er også dem, de studerende lettest går uden om.
+Tre af studierne måler to ting på én gang: hvad studerende producerer med værktøjet, og hvad de kan uden det. Bastani, Rismanchian og Strömberg finder alle, at de to divergerer, og kun det uhjulpne mål opfører sig som læring. Fire handler om et designvalg snarere end om modellen: guardrails hos Bastani, pædagogikken bygget ind i Kestin-tutoren, skrivningen Kreijkes beholdt i opgaven, og multi-turn-rammen SafeTutors testede. Tre undersøger systemet omkring værktøjet, nemlig evidensen i forseelsessager, måden underviserkompetence måles på, og de sproglige antagelser i [[automated-assessment|automatiseret bedømmelse]]. StudentBench fastslår paritet på en standardiseret test, det ene udfald, hvor en maskine lettest kan matche et menneske. Bastani optræder i to grupper, fordi den leverer både gabet og designrettelsen.
 
-**»Studerende, der siger, at værktøjet hjælper, lærer af det.«** Tilfredshed er et [[self-report-measures|selvrapporteringsmål]], og i CS1-forsøget var den højest vurderede betingelse den, der mest reducerede bearbejdningen bag læring. Matematikudrulningen fandt samme kløft: feedback, de studerende værdsatte, ingen signifikant eksamensforskel.
+Det efterlader tre spørgsmål, der er værd at tage med ind i enhver kursus- eller produktbeslutning. Hvad skal den studerende kunne, når værktøjet er væk? Hvad beder aktiviteten dem om at gøre, mens det er åbent? Hvilken evidens ville vise forskellen en måned senere?
 
-**»AI-kompetence er promptfærdighed, og de studerende tilegner sig den ved at bruge værktøjet.«** Rammeværker behandler [[ai-literacy|AI-kompetence]] som begrebslig forståelse, operationel færdighed, [[critical-thinking|kritisk evaluering]], [[ethics|etisk]] dømmekraft og bevidsthed om grænser. Gennemgangen er eksplicit om, at [[prompt-engineering|prompt engineering]], verifikation af output og analyse af AI-fejl er lærbare færdigheder, der ikke udvikles gennem eksponering. De uddannede naturfagslærere, der scorede 16,7 ud af 30, er den empiriske version af den påstand.
+## Hvor denne evidens er tynd
 
-**»Ligestillingsproblemet er adgang.«** Adgang er én af tre linjer. Færdighed og hvem der får et brugbart resultat er de to andre, og kun seks studier i korpusset undersøgte noget af det direkte. At give hver studerende en licens løser den letteste tredjedel.
+Disse studier deler [[limitations-in-aied-research|begrænsningerne i AIEd-forskningen]] som helhed. To af de største foregår i Tyrkiet og Kina, tre i USA, en i England, en i Australien og bedømmelsesstudiet i Tyskland. Et er et benchmark for kommercielle modeller snarere end et feltstudie. Matematik på ungdomsuddannelserne dominerer, med fysik og datalogi næst. Meget få studier ser på [[humanities-education|humanistisk skrivning]] i stor skala, på erhvervsuddannelse eller på studerende med handicap.
 
-## Det, du vil få igen
+Kun det kinesiske panel og ALEKS-panelet observerer studerende i mere end to år efter indførelsen, og de kinesiske forfattere argumenterer for, at kortere studier systematisk undervurderer den langsigtede straf. Seks af disse resultater er preprints eller working papers, der ikke har gennemført fagfællebedømmelse: StudentBench, Rismanchian, Strömberg, SafeTutors, Zhang og Feser. Studierne af Bastani, Kestin, Kreijkes og Munoz er udgivet i fagfællebedømte tidsskrifter.
 
-**»Mine studerende siger, at AI hjælper dem.«** Det hjælper som regel med arbejdet foran dem, og fundet handler om, hvad der er tilbage bagefter. Spørg, hvad de stadig kan uden hjælp, og du får et andet svar, og det er grunden til, at det uassisterede bedømte trin findes.
-
-**»Jeg underviser 200 studerende. Jeg kan ikke læse udkast eller køre mundtlige tjek.«** Du behøver ikke læse alt. Én anvendelse i timen eller en kort indspillet forklaring i den mest afgørende opgave, plus et stikprøvetjek af arbejde, der ser uforeneligt ud med tidligere afleveringer, dækker det meste af risikoen. Trinvis aflevering, annoterede begrundelser og proces-[[eportfolio|porteføljer]] skalerer; det gør bedømmelse af verifikationen af et bevidst fejlbehæftet AI-output også.
-
-**»Detektion er alt, vi har.«** Detektorer har dokumenterede pålideligheds- og retfærdighedsproblemer, og gyldighed er det sværere problem: et poleret hjemmeprodukt viser ikke længere, at den person, der afleverede det, har kompetencen. Procesbevis er billigere end et våbenkapløb og producerer noget, du kan forsvare i en klagesag.
-
-**»At forbyde det er enklere.«** Enklere, og det fejler som regel. Tilslutning i undersøgelsen af lærerstuderende fulgte uddannelseskulturen snarere end nogen enkeltkursus' politik, og erklæringer underrapporterede den faktiske brug i hvert eneste kursus. Et forbud fjerner også din mulighed for at se, hvordan de studerende ville bruge værktøjet, når de forlader uddannelsen.
-
-**»Jeg underviser ikke i AI. Det er ikke mit fag.«** Fundene handler om dit fag. Når AI udfører den øvelse, dit kursus findes for at give, er det netop der, den forstyrrer, og forstyrrelsen viser sig i dine bedømmelser, uanset om du nævner værktøjet.
-
-**»Evidensen er for ny at handle på.«** Delvist sandt, og det skærer begge veje. Meget af korpusset er korte interventioner, [[self-report-measures|selvrapporterings]]studier, enkelte fag eller arbejde fra 2025 og 2026, og påstande fra moden [[intelligent-tutoring]]-forskning er stærkere end påstande om ubegrænsede generelle [[conversational-ai|chatbots]]. Hvor en påstand nu har et randomiseret forsøg bag sig, dissociationen mellem præstation og læring i CS1-forsøget og feedbackresultatet i matematikudrulningen, citeres forsøget her. Hvor den ikke har, skal du behandle fundet som den bedste tilgængelige vejledning snarere end fast lov, og være mest skeptisk over for resultater, der kun viser tilfredshed, opgavehastighed, outputkvalitet eller umiddelbar assisteret præstation.
-
-## Det, du kan gøre i denne uge
-
-**1.** Vælg den ene opgave, du er mindst tryg ved at forsvare. Skriv kompetencesætningen øverst i opgavebeskrivelsen.
-
-**2.** Tilføj ét trin, der kører uden AI til stede: en anvendelse på fem minutter i timen, en kort indspillet forklaring eller et afsnit skrevet i lokalet. Giv det rigtige point.
-
-**3.** Angiv AI-betingelsen for den opgave, og tilføj én linje begrundelse. Hvis opgaven blander trin, sig hvilke trin der er hvilke.
-
-**4.** Omskriv én prompt, du giver de studerende, fra »løs det her« til »giv mig ét hint og stil mig et spørgsmål«, og fortæl dem hvorfor.
-
-**5.** Før semesterstart tager du ændringen til din uddannelsesleder og til den, der godkender særlige vilkår, så den første klage ikke også bliver den første samtale.
+Null- og negativeresultater er sjældne i denne litteratur, så den udgivne rekord overdriver sandsynligvis, hvor ofte AI hjælper. Disse studier er den bedste nuværende vejledning om ti beslutninger, og ingen af dem afgør et spørgsmål.
 
 ## Hvor du kan gå videre
 
-For den interessent-for-interessent version af disse misforståelser, se [[addressing-common-misconceptions-ai-education]]. For de designkrav, der følger af fundene om ligestilling og menneskelig dømmekraft, se [[equity-ethics-pedagogical-safety-research]]. [[redesign-assessment-ai-era]] fører bedømmelseshalvdelen videre, og [[does-ai-help-students-learn]] er evidensgennemgangen bag påstandene på denne side. Hvis du vælger mellem redesign og håndhævelse, er [[reduce-ai-cheating]] og [[course-ai-policy]] følgesiderne.
+[[does-ai-help-students-learn|Hjælper AI studerende med at lære?]] er den bredere evidensgennemgang bag disse påstande. [[redesign-assessment-ai-era|Hvordan bør bedømmelse redesignes til AI-æraen?]] fører bedømmelseshalvdelen videre. For integritetssagerne dækker [[reduce-ai-cheating|Hvordan reducerer jeg AI-snyd?]] procesevidens og retningslinjer. For fundene om faglig udvikling er [[faculty-ai-competencies|Hvilke AI-kompetencer har undervisere brug for?]] søstersiden, og [[addressing-common-misconceptions-ai-education|Hvordan kan vi håndtere almindelige misforståelser om AI i uddannelse?]] tager de indvendinger, du sandsynligvis hører fra kolleger.

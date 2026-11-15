@@ -6,10 +6,10 @@ weight: 100
 foundations: [ai-education, ai-literacy, cognitive-offloading, teacher-role]
 assessment: [assessment]
 research_method: [literature review]
-audience: [instructors]
-updated: "2026-10-29T12:11:34-04:00"
+audience: [instructors, faculty developers, educational technology developers, administrators, researchers]
+updated: "2026-11-14T18:10:00-05:00"
 translation_of: faqs/top-10-findings-ai-education-instructors
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-14T18:10:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -17,156 +17,138 @@ ai_assist:
     role: translation
     date: "2026-10-29"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-14"
+    agent: hermes-agent
 ---
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
 
-Je týždeň pred začiatkom výučby, alebo týždeň po prvom veľkom odovzdaní, a niekto sa vás spýtal niečo, čo zo skúsenosti neviete zodpovedať: čo študenti smú pri tejto úlohe robiť s AI a čo potom známka dokazuje. Možno sa vám vrátila esej písaná doma, vypracovaná tak, že nezodpovedá skoršej práci toho študenta. Možno vaša katedra píše pravidlá pre AI a chce, aby váš kurz do piatka zodpovedal im. Možno sa študent odvoláva proti známke a vy neviete preukázať, čo práca dokazuje.
+Týchto desať štúdií sa priamo dotýka rozhodnutí, ktoré učitelia robia: čo zadať, ako to hodnotiť, aké nástroje kúpiť, ako ich vytvoriť a ako rozpoznať, či sa učenie skutočne udialo. Každý záznam uvádza štúdiu, jej výsledok a prax, ktorú mení.
 
-Hlavný záver z výskumu, ktorý táto vedomostná báza zhromaždila: to, ako [[generative-ai|generatívnu AI]] zabudujete do činnosti, rozhoduje o tom, či myslenie posilní, alebo ho nahradí. Páka, ktorú máte v rukách, je dizajn úlohy. Skúškou každého dizajnu je to, čo študenti ešte dokážu, keď nástroj zmizne. Desať zistení, podľa ktorých je táto stránka pomenovaná, nájdete nižšie, zoradených podľa rozhodnutia, ktorému každé z nich slúži.
+## Desať štúdií
 
-## Krátka verzia
+**1. Voľný prístup k chatbotu znížil skóre skúšky o 17 % ([[generative-ai-guardrails-harm-learning|Bastani et al., 2025]]).**
 
-**1.** Pomenujte myslenie, ktoré má úloha vyvolať, a potom dajte AI prácu, ktorá to myslenie nevykonáva.
+Takmer 1 000 stredoškolákov v Turecku, v približne 50 triedach, prešlo tromi matematickými stretnutiami s rovnakým obsahom. Jedna skupina mala počas precvičovania obyčajné chatovacie okno GPT-4. Ďalšia mala doučovateľa postaveného na tom istom modeli s [[guardrails|usmerneniami]], ktoré napísali učitelia: nápovedy namiesto odpovedí, so správnym riešením a bežnými chybami vloženými do promptu. Kontrolná skupina nemala žiadnu AI. Každé stretnutie sa skončilo [[summative-assessment|skúškou bez pomôcok]] na podobné úlohy, pričom nástroj už nebol k dispozícii.
 
-**2.** Stanovte pravidlo pre AI pri každej úlohe, nie pre celý kurz, a napíšte dôvod vedľa neho tam, kde si ho študenti prečítajú.
+Skupina s obyčajným chatom dosiahla počas precvičovania o 48 % viac než kontrola a na skúške o 17 % menej. Študenti, ktorí sa AI nikdy nedotkli, boli lepší než oni. Chránená skupina získala v precvičovaní 127 % a na skúške dosiahla rovnakú úroveň ako kontrola. Škoda zmizla a na jej miesto sa neobjavila žiadna výhoda v učení. Záznamy chatu vysvetľujú to rozdelenie: nechránená skupina žiadala odpovede a skončila, kým chránená skupina sa pokúšala riešiť úlohy, pýtala si nápovedy a zlepšovala sa už počas prvého stretnutia.
 
-**3.** Do každej jednotky zaradte aspoň jeden hodnotený krok, ktorý študent absolvuje bez prítomnosti AI.
+Pre učiteľov nie je „AI povolená“ politikou. O tom, či sa nástroj stane kanálom nápovedí alebo automatom na odpovede, rozhoduje rozhranie a všeobecný chatbot sa predvolene správa ako to druhé. Chatovacie okno ponechané otvorené počas precvičovania stojí najviac tých študentov, ktorí sa oň opierajú najviac.
 
-**4.** Posudzujte činnosť podľa toho, čo študenti dokážu o týždne neskôr bez pomoci, a nie podľa kvality toho, čo odovzdajú.
+Vedúci pracovníci môžu tento výsledok postaviť proti tvrdeniu z obstarávania, že silnejší model rieši pedagogiku. Model bol v oboch ramenách rovnaký.
 
-**5.** Pýtajte sa, ako študenti nástroj používali, a hodnotte overovanie, nie prihlásenia.
+Pozri aj: [[training-ai-tutors-to-guide-rather-than-answer|Trénovať doučovateľa, aby viedol, a nie odpovedal]]
 
-**6.** Sledujte, ktorým študentom dizajn pomáha, pretože priemer skrýva tých, ktorých zhadzuje.
+**2. Doučovateľ postavený na vlastnej pedagogike kurzu prekonal triedu s aktívnym učením, a to za menej času ([[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin et al., 2025]]).**
 
-## Rozhodnite, na čo má úloha slúžiť
+Physical Sciences 2 je úvodný kurz fyziky na Harvarde pre študentov prírodných vied so zameraním na životné vedy. Na jeseň 2023 sa 194 študentov v skríženom pokuse zúčastnilo dvoch lekcií dvakrát, raz v triede s [[active-learning|aktívnym učením]] kurzu a raz prostredníctvom doučovateľa vytvoreného pre kurz, pričom pred každou verziou a po nej absolvovali testy.
 
-Napíšte jednu vetu, ktorá pomenuje schopnosť, ešte predtým, než sa dotknete nástroja: čo má študent na konci tejto jednotky dokázať, čo na začiatku nedokázal? Odpoveď môže byť: zostaviť argument z dôkazov, napísať dôkaz, dospieť k diagnóze, urobiť dizajnové rozhodnutie v rámci obmedzení. Ak to nedokážete pomenovať, pravidlo pre AI bude svojvoľné a študenti si to všimnú.
+Študenti sa s doučovateľom naučili viac. Medián po teste bol 4,5 oproti 3,5, medián [[learning-gains|prírastkov v učení]] bol viac než dvojnásobný oproti triede a kvantilové odhady účinku sa pohybovali od 0,73 do 1,3 smerodajnej odchýlky. S doučovateľom strávili medián 49 minút oproti približne 60 minútam v triede a 83 % z nich hodnotilo jeho vysvetlenia ako rovnako dobré alebo lepšie než vysvetlenia svojich učiteľov. Hodnotenia angažovanosti a motivácie stúpli. Pôžitok a rastové nastavenie mysle sa nelíšili.
 
-Dve línie práce vysvetľujú, prečo to prichádza na prvé miesto. [[productive-failure|Produktívne zlyhanie]] je zistenie, že žiaci si často uchovajú viac, keď sa o problém pokúsia predtým, než im ukážete postup, takže trenie je niekedy mechanizmom, a nie prekážkou, ktorú treba odstrániť. [[icap-framework|Rámec ICAP]] predpovedá odlišné učenie pri pasívnom, aktívnom, konštruktívnom a interaktívnom používaní toho istého materiálu. Obe ukazujú na jednu dizajnovú otázku: čo študent robí, kým je nástroj otvorený?
+Výsledok stojí na dizajne. Doučovateľ používal rovnaké postupy ako trieda: vypracované príklady, stupňované nápovedy, výzvy na sebavysvetlenie, sledovanie, ktoré vychádza z výskumu o tom, ako sa fyzika učí. Porovnanie bolo s aktívnym učením, nie s prednáškou, takže bežná námietka, že čokoľvek prekoná prednášku, tu neplatí.
 
-Najjasnejšiu ilustráciu v korpuse poskytuje porovnanie chatbota vychádzajúceho z teórie, ktorý podopieral vysvetlenia študentov lešením, s bežným ChatGPT a s bežnou výučbou. Bezprostredné rozdiely neboli významné. O štyri týždne neskôr si skupina s lešením uchovala viac konceptuálnych vedomostí. Je to jedna štúdia, nie univerzálny účinok, a jej užitočný obsah spočíva v tvare výsledku: dizajn môže prevážiť schopnosti modelu, pretože podmienky od seba oddeľovalo to, čo činnosť od študentov žiadala.
+Rozvojoví pracovníci pre učiteľov tu majú najsilnejší dostupný argument, že dizajn doučovateľa je práca na kurikule, nie obstarávanie. Pre produktové tímy je latka konkrétna: vyrovnať sa triede s aktívnym učením, za menej času a s rovnakými vyučovacími postupmi.
 
-[[kumar-genai-computing-education-systematic-review-2026|Systematický prehľad 72 recenzovaných štúdií z oblasti vzdelávania v informatike]] dospieva k tej istej vrstve z opačnej strany. Kritické zaobchádzanie s výstupom AI nazýva „spoločným mechanizmom, ktorý spája každú účinnú intervenciu v korpuse“ a odporúča [[scaffolding|postupný prístup]], teda zavádzať generatívnu AI až po preukázaní základnej kompetencie. Ani jedno tvrdenie nie je o tom, ktorý produkt si licencujete.
+Pozri aj: [[developing-ai-tutor|Osvedčené postupy pri vývoji doučovateľa AI]]
 
-## Dajte AI prácu, ktorá nie je myslením, ktoré hodnotíte
+**3. Doučovanie od AI dosiahlo úroveň expertných ľudských doučovateľov ([[studentbench-ai-human-tutoring-gre-2026|Northcutt et al., 2026]]).**
 
-Desaťročia [[intelligent-tutoring|výskumu inteligentného doučovania]] opisujú vzorec, ktorý funguje: diagnostikujte, čomu študent rozumie, kladte otázky, poskytujte postupné nápovedy, žiadajte vysvetlenie, dávajte spätnú väzbu. Všetko okrem odovzdania riešenia. Súčasná [[pedagogical-agent|práca s pedagogickým agentom]] robí tú istú hranicu medzi vyučovacím správaním a produkovaním odpovedí a [[thermomix-genai-education-analogy-2026|analógia s Thermomixom]] to robí konkrétnym. Jeden spotrebič môže variť za vás, a vtedy o zručnosť prídete, alebo môže pôsobiť ako partner pri testovaní nápadov, ktorým ešte musíte porozumieť. Tieto režimy zodpovedajú ICAP: pasívny, aktívny, konštruktívny, interaktívny.
+StudentBench spojil 2 469 doučovacích sedení s 2 383 dospelými, ktorí sa pripravovali na GRE, pričom použil 13 doučovateľov AI postavených na 12 modeloch, živých ľudských doučovateľov a video kontrolu. Výsledkom bol prírastok v učení pri kvantitatívnych a verbálnych položkách.
 
-Úzke nástroje ukazujú ten istý princíp. [[structrag-diagram-reasoning-ai-tutoring|Doučovací systém, ktorý číta inžinierske diagramy štrukturálne]], dosiahol 93,0 % F1 na úrovni hrán oproti 89,3 % presnosti celého diagramu, čo znamená, že dokáže pomenovať konkrétne chýbajúce alebo nesprávne prečítané spojenia aj vtedy, keď je celý diagram nesprávny. To je spätná väzba, s ktorou študent dokáže pracovať, namiesto verdiktu prešiel či neprešiel.
+Združené doučovanie od AI bolo štatisticky rovnocenné s doučovaním od expertných ľudí, a to v rozmedzí štvrtiny smerodajnej odchýlky, a obe prekonali kontrolu približne o šesť percentuálnych bodov: 6,86 v kvantitatívnej a 5,47 vo verbálnej časti, teda približne o jeden a pol až dva ďalšie správne body na sekciu. Doučovatelia AI boli hodnotení slabšie v plánovaní lekcií a vo vytváraní cvičných úloh, v čom boli ľudskí doučovatelia lepší.
 
-Ťažšia otázka je, čo smie doučovací systém odporučiť. Keď [[tuo-armada-multi-agent-debate-overreliance-2026|debata viacerých agentov]] nahradila vetu „tu je odpoveď AI“ diskusiou, ktorá svoju vlastnú preferovanú pozíciu zadržala, škodlivé prepnutie na nesprávnu pozíciu AI kleslo zo 42-60,5 % na 5,7-8,2 %. Prijatie správnej pozície AI tiež kleslo, z 61,1-72,3 % na 22,1-33,3 %. Zadržanie odporúčania chráni pôvodný úsudok študenta a opravu ponecháva na uvažovaní, takže dizajn vymieňa opravu chýb za menej sebaistých nesprávnych odbočení. Rozhodnite sa, ktoré z tých dvoch od výmeny chcete, skôr než napíšete prompt.
+Pre vedúcich pracovníkov sa pri dobre vymedzenej príprave na testy mení aritmetika personálneho zabezpečenia. Keď licencovaný doučovateľ dosahuje úroveň ľudského doučovateľa v rozmedzí štvrtiny smerodajnej odchýlky, rozhodnutie sa týka nákladov a pokrytia a účinnosť prestáva byť otázkou. Výskumníci si všimnú hranicu: rovnocennosť nie je prevaha a štandardizovaný test je pre stroj najľahší výsledok na dosiahnutie.
 
-V triede je to lacné na realizáciu. Vzorom, o ktorý sa treba snažiť, je [[socratic-method|sokratovská]] postupnosť, v ktorej sa nástroj pýta, a nie odpovedá. Povedzte študentom, aby žiadali „jednu nápovedu“, „pýtaj sa ma“ alebo „kritizuj moje uvažovanie“, a „vyrieš to“ nech je výnimkou. Meníte predvolené sloveso interakcie, a to je časť, ktorú študenti skutočne ovládajú.
+Rozvojoví pracovníci pre učiteľov sa môžu pozrieť na to, kde si ľudskí doučovatelia udržali výhodu: diagnostikovanie toho, čo študent potrebuje ďalej, a zostavenie postupnosti, ktorá z toho vyplýva.
 
-Jedno obmedzenie treba povedať priamo. Väčšina týchto dôkazov pochádza z krátkych úloh v hŕstke kurzov a žiadny z nich nesľubuje, že doučovací systém dávajúci nápovedy zvýši skóre skúšky vo vašej skupine. Na túto otázku potrebujete randomizovaný pokus, o ktorom hovoríme nižšie, a jeho výsledok je triezvy.
+Pozri aj: [[intelligent-tutoring|Inteligentné doučovanie]]
 
-## Stanovte pravidlo pri úlohe a povedzte prečo
+**4. Písanie poznámok prekonalo pýtanie sa chatbota, o tri dni neskôr ([[kreijkes-llm-note-taking-reading-comprehension-2026|Kreijkes et al., 2026]]).**
 
-Užitočný rámec oddeľuje tri prípady. Obmedzte AI, keď meriate samostatnú kompetenciu. Podoprite ju lešením, keď ohraničená pomoc túto kompetenciu nenaruší. Vyžadujte ju, keď sa študenti majú naučiť práve zručnú spoluprácu človeka a AI. Väčšina kurzov obsahuje všetky tri, v rôznych týždňoch, a preto jedno pravidlo na úrovni kurzu stále zlyháva na okrajoch.
+Kreijkes a kolegovia uskutočnili preregistrovaný experiment v siedmich anglických stredných školách. 405 študentov desiateho ročníka prešlo dvoma z troch podmienok pri texte z dejepisu: chatbot, ktorý mohol odpovedať na otázky o ňom, písanie poznámok, alebo oboje. O tri dni neskôr absolvovali testy bez pomôcok z doslovného zapamätania, porozumenia a [[retrieval-spacing-interleaving|voľného vybavenia]].
 
-[[zou-is-this-a-trap-student-teachers-genai-2026|Zmiešaný výskum 85 budúcich učiteľov]] ukazuje, čo pravidlo bez dôvodu produkuje. 62,4 % vzorky odmietlo používať generatívnu AI aj tam, kde bola povolená, a 41,5 % z tých, ktorí odmietli, uviedlo strach z obvinenia z [[academic-integrity|plagiátorstva]]. 9 z 11 opýtaných vnímalo samotné povolenie ako pascu. V tej istej štúdii používalo povolenú generatívnu AI vôbec len 37,6 %, ich voľby sledovali skôr kultúru programu a [[assessment|dizajn hodnotenia]] než povolenie jedného kurzu, a ich vlastné vyhlásenia o použití podhodnocovali skutočné používanie v každom kurze.
+Poznámky prekonali chatbot vo všetkých troch mierach, približne o pol smerodajnej odchýlky v zapamätaní a takmer o štyri desatiny v porozumení. Poznámky plus chatbot prekonali samotný chatbot v dvoch z troch prípadov a nič nepriniesli pre voľné vybavenie, a samotné poznámky boli silnejšie než kombinácia. V kombinovanej podmienke približne štvrtina študentov skopírovala výstup chatbota do svojich poznámok. Študenti napriek tomu hodnotili chatbot ako ľahší, užitočnejší a príjemnejší než písanie.
 
-Čítajte tie čísla ako zadanie pre dizajn. Povolenie bez uvedeného účelu vyzerá ako pasca a zákaz bez uvedeného účelu vyzerá ako prekážka, ktorú treba obísť. Študenti reagujú na odôvodnenie pripojené k tejto úlohe. Dajte pravidlo do zadania úlohy, na jeden riadok, a urobte ten riadok natoľko konkrétnym, aby študent vedel rozoznať, či pomoc, ktorú sa chystá prijať, podkopáva to, čo hodnotíte.
+Učitelia tu majú priamy dôkaz, že asistent na čítanie môže nahradiť čítanie. Ak má úloha slúžiť na porozumenie textu, [[writing-education|písanie je porozumením]] a nástroj, ktorý odpovedá na otázky o texte, odstraňuje precvičovanie. Poznámky si ponechajte. Ak chatbot povolíte, žiadajte niečo, čo nedokáže poskytnúť: porovnanie, spochybnenie textu alebo zhrnutie napísané po zatvorení nástroja.
 
-## Hodnoťte niečo, čo študent vytvoril bez nástroja
+Pozri aj: [[ai-support-reading-comprehension|Podpora AI pri porozumení čítanému]]
 
-Toto je krok, ktorý robí prácu, a dôkazy sú tu najmenej nejednoznačné na celej stránke.
+**5. Čas štúdia klesol o 27 % a spolu s ním kleslo aj zapamätanie ([[generative-ai-reduced-study-time-math|Rismanchian et al., 2026]]).**
 
-Prehľad 72 štúdií zistil, že generatívna AI spoľahlivo zvyšovala krátkodobé dokončenie a v 36 štúdiách skrátila čas na úlohe, čo autori považujú za najlepšie replikovaný výsledok v korpuse, a tieto prírastky efektívnosti sa v 21 štúdiách „neprenášajú do samostatného výkonu“. [[yan-cognitive-outsourcing-genai-assessments-2026|Štúdia 38 študentov bakalárskeho štúdia metódou uvažovania nahlas]] ukazuje, ako sa to deje v bežnom prípade. [[cognitive-offloading|Kognitívne odľahčenie]] najviac škodí učeniu vtedy, keď AI vykonáva uvažovanie, ktoré mal študent precvičovať. Tam 76,32 % zostalo vo vzorci jednej výmeny, teda opýtať sa, dostať odpoveď a skončiť, a len 21,06 % striedalo používanie AI so samostatným čítaním a písaním. Najväčšia skupina, 31 z 38, opisovala ciele zvládnutia, pracovala v roztrieštených jednotlivých výmenách a potom uvádzala nadmernú závislosť, duševnú pohodlnosť a rýchle zabúdanie; jeden z nich to vyjadril slovami „rýchlosť, akou to zabúdate, je tiež veľmi vysoká“. [[critical-thinking-paradox-genai-learning-2026|Rámcový článok z roku 2026]] dáva tomuto vzorcu meno. Známky a produkty rastú, kým duševná práca, ktorá vytvára trváce učenie, klesá.
+Desaťročný panel z platformy ALEKS, ktorý zahŕňa 3,2 milióna učebných interakcií a 12,2 milióna časov odpovedí v rozraďovacom hodnotení, ukazuje, čo študenti robili po príchode ChatGPT. Dizajn porovnáva typy úloh, ktoré sa dajú vložiť do chatbota (textové slovné úlohy), s typmi, ktoré vyžadujú manipuláciu s grafom v rámci platformy, a to v tom istom kurikule.
 
-Randomizovaný pokus uzatvára spor aspoň pre jedno prostredie. [[bassner-performance-learning-dissociation-ai-programming-2026|Randomizovaný pokus s tromi ramenami a 275 študentmi kurzu CS1]] porovnal doučovací systém poskytujúci nápovedy, ktorý zadržiaval úplné riešenia, neobmedzený ChatGPT a tradičné webové zdroje. Skóre cvičení sa ostro oddelilo: 71,84 % pre ChatGPT oproti 29,85 % pre kontrolnú skupinu bez AI, pričom doučovací systém s nápovedami dosiahol 57,50 %. Prírastky konceptuálnych vedomostí sa medzi tromi ramenami vôbec nelíšili, dosiahli 0,83, 0,71 a 0,85 bodu (čas × skupina p = 0,773). Obe podmienky s AI znížili frustráciu a vedľajšiu záťaž a len doučovací systém s nápovedami zvýšil vnútornú motiváciu. Nástroj, ktorý študenti hodnotili ako užitočnejší a ľahší, bol zároveň ten, ktorý najviac znížil spracovanie, ktoré vytvára učenie.
+Čas strávený na úlohách náchylných na AI klesal u vysokoškolákov o 2,8 % za štvrťrok, teda o 26,9 % za jedenásť štvrťrokov. U stredoškolákov klesol o 31,3 %, u žiakov druhého stupňa o 9,0 % a u piatakov sa neprejavila žiadna zistiteľná zmena. Pokles úplne zmizol pri [[remote-proctoring|dohľade]], čo je rozhodujúci test: keď nástroj nebol dostupný, študenti trávili rovnaký čas ako predtým. Položky zapamätania pod dohľadom ukázali 25 % kumulatívny pokles šance na správnu odpoveď.
 
-Všimnite si, čo taký dizajn nemôže podporiť. Je to jeden kurz, jeden semester, jeden jazyk a skóre cvičení je z podstaty asistovaný výkon, teda práve tá miera, pred ktorou štúdia varuje. Neukazuje, že doučovacie systémy sú zbytočné. Ukazuje, že výsledok, ktorý sa rozhodnete merať, určuje odpoveď, ktorú dostanete, a že preferencia študentov nie je mierou učenia.
+Vekový gradient je pre produktové tímy signálom o dizajne. Premennou, ktorá sa hýbe, je čas precvičovania a hýbe sa najviac tam, kde je úlohu najľahšie odovzdať. Pre učiteľov je čas strávený úlohou lacným včasným varovaním: kohorta, ktorá rovnaké úlohy dokončí oveľa rýchlejšie, sa pravdepodobne neučí to isté.
 
-Takže hodnoťte verziu bez pomoci. Jedna úloha na jednotku, v ktorej študenti vybavujú, vysvetľujú, riešia alebo obhajujú myšlienky bez prítomnosti AI, a dajte na ňu skutočné body. Argument validity za tým je v [[assessment-validity|validite hodnotenia]]: vypracovaný domáci artefakt už neukazuje, že osoba, ktorá ho odovzdala, má kompetenciu, ktorú artefakt zobrazuje. [[redesign-assessment-ai-era|Preprojektovanie hodnotenia v ére AI]] rozoberá celú architektúru vrátane lacného overeného kroku pre veľké kurzy.
+Pozri aj: [[reducing-over-reliance|Znižovanie nadmernej závislosti od AI]]
 
-## Zmeňte úlohu, ktorú už máte, nie celý kurz
+**6. Známky z domácich úloh stúpli o 18 %, kým skúšky bez pomôcok klesli o 20 % ([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg et al., 2026]]).**
 
-Väčšina vyučujúcich, ktorí kladú túto otázku, nestavia nový kurz. Majú seminárnu prácu, protokol z laboratória alebo sadu príkladov, ktorá funguje roky, a chcú vedieť, kam umiestniť šev. Rozoberte úlohu krok za krokom, pri každom kroku sa spýtajte, čo tam hodnotíte, a nech odpoveď určí hranicu. To je metóda na úrovni úlohy zdokumentovaná v [[mccorkle-aligned-genai-course-policy-2025|McCorkleho práci o zosúladených pravidlách kurzu]], a jeden prechod vašou najspornejšou úlohou zvyčajne stačí na to, aby ste videli jej tvar.
+26 811 študentov v ročníkoch 7 až 12 v Číne, sledovaných 30 mesiacov, pričom generatívna AI bola v kohortách zavádzaná v rôznom čase. Skóre domácich úloh stúplo o 18 % a čas dokončenia klesol o 30 %, zo 64 na 45 minút. Mesačné skúšky bez pomôcok klesli o 20 % oproti priemeru základnej úrovne v priebehu šiestich mesiacov a prijímacie skúšky s vysokými stávkami klesli o 18 % až 24 % po približne dvoch rokoch.
 
-Desaťstranová seminárna práca sa zvyčajne delí takto. Výber témy a vyhľadávanie zdrojov je miesto, kde žije úsudok, takže nástroj, ktorý navrhne tézu alebo zostaví zoznam čítania, vykonal tú časť, ktorú hodnotíte. Syntéza a argument sú samotným konštruktom. Formátovanie citácií, kontrola odkazov a jazyková úprava sú kroky, v ktorých je používanie nástroja pre váš konštrukt neviditeľné, a zakazovať ho tam vám neprinesie nič okrem nevôle. Povedzte to v zadaní úlohy, krok za krokom, ak chcete, v krátkej tabuľke.
+Načasovanie ukazuje mechanizmus. Približne 81 % používateľov AI dokončilo domácu úlohu rýchlejšie než najrýchlejší študent bez AI a potom si na skúškach viedlo slabo. Menšina, ktorá si udržala čas na domácu úlohu porovnateľný s nepoužívateľmi, sa učila rovnako dobre ako ktokoľvek iný. Straty boli najväčšie v spoločenských vedách, potom v STEM a potom v jazykoch, a väčšie u výkonných študentov.
 
-Potom urobte stredný krok viditeľným. Žiadajte jednostranové anotované odôvodnenie, odovzdané spolu s prácou, ktoré pomenuje dva zdroje, ktoré študent odmietol, a prečo, jedno tvrdenie, ktoré po overení prepracoval, a miesto, kde sa rozhodol nenasledovať návrh. Hodnoťte ho s rovnakou konkrétnosťou, akú používate pri próze. Odôvodnenie má váhu len vtedy, keď študent, ktorý ho vynechá, stratí viac, než získa vynechaním, takže dajte mu toľko bodov, aby bola aritmetika zjavná.
+Dokončenie domácej úlohy je slabou náhradou za dosiahnutý výsledok a rozdiel sa objaví do šiestich mesiacov, dávno predtým, než sa pohne výsledok prijímacích skúšok. Učitelia môžu konať skôr: hodnotené dôkazy ponechajte bez pomôcok a domácu prácu berte ako precvičovanie, ktorého čas dokončenia je viditeľný.
 
-Sada príkladov je ľahšia a šev leží inde. Odpovede nie sú konštruktom; výber metódy a diagnostika chýb áno. Vyžadujte prvý krok každého príkladu, vlastnými slovami študenta, skôr než sa otvorí akýkoľvek nástroj, a jeden príklad zo sady riešte v triede bez akýchkoľvek pomôcok. Je to menšia zmena, než to znie, a mení sadu z produktu, ktorý neviete overiť, na záznam toho, ako študent myslel.
+Pozri aj: [[checking-whether-educational-ai-works|Overovanie, či vzdelávacia AI funguje]]
 
-Pri protokole z laboratória je šev zvyčajne interpretácia dát a analýza chýb. Nechajte nástroj naformátovať tabuľku a skontrolovať jednotky. Interpretáciu, voľbu toho, čo sa počíta za anomáliu, a vysvetlenie nesúladu s očakávaným výsledkom, ponechajte v rukách študenta a hodnotte ich s pridelenými bodmi.
+**7. Každý testovaný doučovateľ zlyhal v pedagogike a v rozhovore zlyhával horšie ([[hazra-safetutors-pedagogical-safety-2026|Hazra et al., 2026]]).**
 
-Vzorec sa zovšeobecňuje: nájdite krok, v ktorom žije schopnosť, chráňte ten krok, uvoľnite ostatné a dôkaz o postupe umiestnite tam, kde sú body. Čomu sa vyhýbate, je prestavba, ktorá mení to, ako práca vzniká, bez toho, aby zmenila to, čo známka dokáže podporiť.
+SafeTutors testoval 11 doučovateľov, od modelov s otvorenými váhami od 3,8B do 72B až po GPT-5-mini, v matematike, fyzike a chémii, proti taxonómii 11 dimenzií a 48 čiastkových rizík odvodených z [[learning-theories|vedy o učení]]. Jeho kategórie zlyhania sú pedagogické: nadmerné prezrádzanie odpovedí, upevňovanie mylných predstáv a opúšťanie [[scaffolding|lešenia]]. Každé z nich v danom okamihu vyzerá užitočne, pretože študent rýchlo dostane správnu odpoveď.
 
-## Nástroje na spätnú väzbu a známkovanie posudzujte podľa neskoršieho výkonu
+Každý model vykazoval širokú pedagogickú škodu. Väčšie modely neboli spoľahlivo bezpečnejšie a všeobecná užitočnosť korelovala s pedagogickou bezpečnosťou len slabo. Miera škody stúpla zo 17,7 % pri jednokolových výmenách na 77,8 % v rozhovoroch o piatich až ôsmich kolách.
 
-[[ai-feedback-quality|Spätná väzba od AI]] môže byť včasná, konkrétna, škálovateľná a prijateľná pre študentov, a to aj vo [[higher-ed|vysokoškolskom vzdelávaní]]. Či učí, závisí od presnosti, [[pedagogy|pedagogickej]] vhodnosti a [[feedback-literacy|gramotnosti študentov v oblasti spätnej väzby]], teda ich schopnosti spätnú väzbu posúdiť a konať podľa nej. Ak o nej uvažujete pri spätnej väzbe alebo známkovaní, čísla nižšie sú tie, ktoré si vezmite na rokovanie o nákupe.
+Jednokolové hodnotenia nie sú dôkazom bezpečného doučovateľa a produktové tímy by okolo toho mali stavať svoje testovanie. Model, ktorý prejde jednorazovou kontrolou užitočnosti a bezpečnosti, môže zlyhať vo väčšine skutočného rozhovoru. Vedúci pracovníci kupujúci doučovateľa potrebujú tri odpovede: zadržiava riešenia, skúma mylné predstavy a vydrží celé sedenie. Ukážka od dodávateľa s jednou výmenou neposkytuje ani jednu z nich.
 
-[[mcinnes-salvaging-constructive-alignment-genai-2026|Kritická analýza 14 dokumentov s inštitucionálnymi usmerneniami]] zistila, že všeobecné prompty produkujú výsledky, činnosti a hodnotenia izolovane. Nástroj nemôže vedieť, ako prepojená je téma, takže jeho spätná väzba zostáva všeobecná namiesto diagnosticky presnej.
+Pozri aj: [[pedagogical-safety|Pedagogická bezpečnosť]]
 
-Konfigurácia kvalitu merateľne posúva. V [[teacher-ai-literacy-prompt-feedback-quality-2026|štúdii spätnej väzby AI k cieľom učenia]] samotný model vysvetlil 26,9 % variácie v kvalite spätnej väzby a pridanie promptu to zvýšilo na 42,8 %, teda o ďalších 15,9 %. Jediným znakom promptu, ktorý mal význam, bola odborná terminológia; jej nahradenie bežnými parafrázami spätnú väzbu výrazne zhoršilo. Záležal aj výber modelu: Claude 3 a Gemini Advanced produkovali výrazne horšie hodnotenú spätnú väzbu než ChatGPT-4.
+**8. Prípady porušenia pravidiel stoja na tenších dôkazoch, než naznačujú obvinenia ([[munoz-misconduct-allegation-evidence-2026|Munoz et al., 2026]]).**
 
-Známkovanie je ešte vratkejšie. [[llm-automated-grading-programming-comparison-2026|Porovnanie 18 jazykových modelov na 6 081 programátorských odovzdaniach]] zistilo priemerné známky od 0,290 do 0,608 podľa modelu, s mierou presnej zhody až 0,20 pri niektorých a 0,74 v najlepšom prípade. Dvaja študenti s rovnakou prácou môžu dostať rôznu známku podľa toho, ktorý model katedra licencovala.
+Munoz a kolegovia zakódovali každý prípad porušenia pravidiel súvisiaci s generatívnou AI na jednej austrálskej univerzite za tri roky: 1 162 prípadov s 1 855 dôkazovými položkami, pričom každá bola hodnotená z hľadiska relevantnosti, dôveryhodnosti a dôkaznej sily.
 
-Potom je tu otázka, ktorá študentov zaujíma, teda či spätná väzba mení to, čo dokážu neskôr. [[llm-feedback-handwritten-mathematics-exam-performance-2026|Semestrálne nasadenie v kurze matematiky pre bakalárov]] s 343 študentmi angličtiny a 236 študentmi holandčiny generovalo individuálne komentáre a cvičné príklady z odfotografovaných odpoveďových hárkov. Hodnotitelia označili cvičné príklady za najsilnejšie a diagnostickú konkrétnosť a zrozumiteľnosť za najslabšie. Randomizované kríženie na prepojených skúškových otázkach nenašlo po úprave štatisticky významný rozdiel (pHolm = 0,104) a účasť sledovala skúškové skóre oveľa zreteľnejšie než vystavenie spätnej väzbe (ρ = 0,49 a 0,54, obe p < 0,001). Spätná väzba, ktorú študenti oceňujú a podľa ktorej konajú, nie je to isté ako spätná väzba, ktorá vytvára merateľné učenie.
+Obvinenia z generatívnej AI stúpli z 11,9 % prípadov porušenia pravidiel v roku 2023 na 36,9 % v roku 2025, kým celkový objem prípadov zostal rovnaký. 58 prípadov, teda 5 % z celkového počtu prípadov GenAI, stálo len na tvrdení bez akejkoľvek dôkazovej položky. Výstup detektorov bol zriedkavý a slabý: správy Turnitin alebo o podobnosti nemali dôkaznú silu v 73 položkách a samostatný výstup GPTZero mal nízku dôveryhodnosť v 69 položkách. Najsilnejšie dôkazy prišli z vyšetrovania, nie z obvinenia, pričom ústne priznania z rozhovorov tvorili 410 položiek s 97,2 % silou. [[hallucination-risk|Vymyslené odkazy]] boli najväčším štrukturálnym posunom, 22,3 % položiek, s rastom z 10,4 % v roku 2023 na 30,0 % v roku 2025.
 
-Ak necháte známkovať model, existuje ďalšia pasca. V [[llm-grading-self-preference-bias-2026|štúdii 1 426 psychologických dizertačných prác z desiatich akademických rokov]] všetci štyria hodnotitelia AI ohodnotili študentmi písanú prácu najnižšie a AI písanú prácu najvyššie. 10 zo 16 porovnaní bolo natoľko veľkých, že rozdiely tejto veľkosti sú vo výskume vzdelávania zriedkavé, až po najväčšiu pozorovanú medzeru, a skreslenie bolo najsilnejšie pri plne AI generovanom texte. Hodnotiteľ môže odmeniť text za to, že je strojový, aj keď jeho pokyny hovoria posudzovať obsah.
+Pre vedúcich pracovníkov je ponaučenie procedurálne. Prípad postavený na skóre detektora neprežije odvolanie a vyšetrovanie, ktoré sa začína nástrojom namiesto rozhovoru, produkuje slabé spisy. Učitelia môžu konať na základe artefaktu, ktorý sa stále objavuje: vymyslené odkazy sú bežné a kontrola odkazov je lacná.
 
-## Oddeľte študentov, ktorým dizajn pomáha, od tých, ktorých zhadzuje
+Pozri aj: [[should-we-use-ai-detectors|Používanie detektorov AI]]
 
-Priemerné zlepšenie môže skryť kurz, v ktorom silní ešte zosilnejú a slabí dopadnú horšie. [[digital-divide|Digitálna priepasť]] dnes prebieha pozdĺž aspoň troch línií: prístup k nástrojom, zručnosť v ich používaní a to, kto skutočne získa užitočný výsledok. Už len zručnosť v promptovaní vytvára „promptové privilégium“, v ktorom skúsenejší používatelia dostávajú z toho istého systému lepší výstup.
+**9. Sebadôvera učiteľov vo vlastnú AI gramotnosť takmer nesleduje ich meranú zručnosť ([[ai-literacy-assessment-misalignment|Zhang et al., 2026]]).**
 
-Prehľad 72 štúdií oddeľuje dva mechanizmy. Medzera v zručnostiach sa objavuje tam, kde študenti so silnejšími [[prior-knowledge|predchádzajúcimi vedomosťami]] premieňajú pomoc na trváce prírastky, kým slabšie pripravení študenti ju nahradzujú praxou. Medzera v zdrojoch sa objavuje tam, kde spoľahlivý internet a platený prístup udržiavajú lepšie používanie nástrojov naprieč inštitúciami. Len šesť štúdií v korpuse skúmalo rovnosť priamo, čo autori považujú za problém, a nie za poznámku pod čiarou; [[equity-in-ai-education|rovnosť vo vzdelávaní s AI]] je miesto, kde sa tento argument rozvíja.
+288 učiteľov základných a stredných škôl vyplnilo sebavýpovedný prieskum AI gramotnosti a objektívnu mieru výkonu postavenú na tom istom rámci: koncept, používanie, hodnotenie a etika. Korelácie medzi nimi sa pohybovali od 0,07 do 0,24.
 
-Pomoc dokáže medzeru zavrieť, keď sa zapájajú práve tí študenti, ktorí ju potrebujú. [[co-learning-ai-agent-hidden-rules-2026|Štúdia so štyrmi experimentmi, v ktorej sa žiaci s pomocou agenta AI učili objavovať skryté pravidlá]], zistila, že pomoc znížila potrebný počet ťahov o 33-52 % a prínos sa sústredil na najslabších, kým silnejší žiaci zostali väčšinou nedotknutí. To je nádejná verzia a závisí od toho, či práve študenti, ktorí pomoc najviac potrebujú, ju aj dobre využijú, čo podľa medzery v zručnostiach bez výučby nezvládnu.
+Analýza latentných profilov našla šesť skupín. 43 učiteľov sa hodnotilo trvalo vysoko, pričom v objektívnej miere dosiahli nižšie skóre. 59 vykazovalo opak. Zvyšok sa zoskupil okolo priemeru alebo sa rozdelil podľa predchádzajúcich skúseností s AI.
 
-## Závažné rozhodnutia nechajte na človeku
+Pre rozvojových pracovníkov pre učiteľov nie je [[self-assessment|sebahodnotenie]] analýzou potrieb. Prieskum, ktorý sa učiteľov pýta, akí sú si istí, prefinancuje sebaistých a nedostatočne obslúži tichých, a tieto skupiny nie sú totožné s kompetentnými a tými, ktorí zápasia. Krátke výkonové úlohy ich od seba oddelia. Výskumníci by mali nízke korelácie brať ako varovanie o meraní: každá štúdia [[ai-literacy|AI gramotnosti]] postavená na [[self-report-measures|sebavýpovedi]] meria sebadôveru.
 
-AI gramotnosť vyučujúcich nie je tam, kde ju rozhovor o pravidlách predpokladá. Medzi [[science-educators-ai-literacy-postqualification-2026|učiteľmi prírodných vied, ktorí už absolvovali školenie o AI]], bola priemerná AI gramotnosť 16,7 z 30, teda pod úrovňou referenčnej vzorky 18,79, a nesúvisela s vekom, pohlavím, rokmi praxe ani s tým, ako veľmi AI používali. [[ai-tpack-mathematics-teacher-education-2026|Prieskum 412 budúcich učiteľov matematiky]] zistil pripravenosť v skorom štádiu, pričom vyučovacie presvedčenia boli najvyššie s priemerom 5,24 na 7-bodovej škále a technické vedomosti o AI najnižšie s 4,23.
+Pozri aj: [[faculty-development-ai|Rozvoj učiteľov, ktorý mení prax]]
 
-To je argument pre ohraničené nástroje, nie pre autonómne. Analýza usmerňujúcich dokumentov navrhuje inštitucionálne nakonfigurovaného [[rag|agenta rozšíreného vyhľadávaním]], ktorý vedie myslenie bez poskytovania odpovedí, označuje nesúlady a na okrajoch eskaluje na človeka, pričom jeho právomoc opisuje ako „odvodenú a ohraničenú“. Existuje priamy dôkaz pre to, aby ľudia zostali v slučke, a nie pred ňou: [[instructional-agents-multi-agent-course-gen|systém na generovanie materiálov kurzu]] dosiahol lepšie skóre vtedy, keď ľudia zostali zapojení, pričom režim s najväčším ľudským vstupom zlepšil hodnotenie recenzentov o 0,5-0,9 bodu oproti plne autonómnemu režimu. Jeho autonómni recenzenti sa tesne zhlukovali okolo 2,9-3,1, kým ľudskí hodnotitelia sa rozprestierali a rozlišovali viac, preto autori ponechali ľudský úsudok ako hlavný signál kvality.
+**10. Hodnotenie AI znevýhodňuje študentov, ktorí píšu horšie ([[ai-scoring-language-bias-physics|Feser a Tschisgale, 2026]]).**
 
-Praktická verzia pre kurz: nechajte AI navrhovať, triediť a označovať. Presnosť, spravodlivosť, súkromie a akékoľvek rozhodnutie o postupe študenta ponechajte pod [[human-in-the-loop-ai|zmysluplným ľudským dohľadom]]. Riziká, ktoré to robia nevyhnutným, sú známa zostava: predsudky, súkromie, transparentnosť, [[agency|agentúra]] študenta, zodpovednosť a [[pedagogical-safety|pedagogická bezpečnosť]]. Pre ten zoznam záleží [[teacher-ai-competency|pedagogická kompetencia v oblasti AI]] viac než technická oboznámenosť.
+Vysvetlenia z fyziky od 116 stredoškolákov boli ohodnotené 9 prístupmi strojového učenia a 2 prístupmi veľkých jazykových modelov a potom porovnané s hodnotením expertov. Zhoda s expertmi sa pohybovala od 67,2 % do 78,4 %, čo znie prijateľne, kým sa chyby nerozložia.
 
-## V čom sa vyučujúci v tomto mýlia
+Každý prístup podcenil konceptuálne porozumenie pri vysvetleniach s nižšou jazykovou kvalitou. Skreslenie išlo jedným smerom: silnejšie písanie nebolo nafúknuté. Vzorec zrkadlí to, čo bolo hlásené pri samotných učiteľoch fyziky, čo naznačuje, že ťažkosť spočíva vo vyvodzovaní porozumenia z prózy, a to u ľudí rovnako ako u modelov.
 
-**„Vypracovaná práca predo mnou je dôkaz, že to študent dokáže.“** Je to dôkaz, že práca je vypracovaná. Rozptyl 71,84 % oproti 29,85 % v skóre cvičení, s plochými konceptuálnymi prírastkami v tom istom pokuse, a 36 štúdií v prehľade, ktoré našli efektívnosť bez prenosu, to všetko opisuje vzdialenosť medzi asistovaným výkonom a schopnosťou. Ak je artefakt jediné, čo hodnotíte, artefakt je všetko, čo ste zmerali.
+Pracovníci zodpovední za hodnotenie a produktové tímy musia uvádzať mieru podcenenia podľa jazykovej kvality, nie len celkovú zhodu s expertmi, pretože priemer skrýva skupinu, ktorá utrpí. Kto hodnotí [[multilingual-learning|mnohojazyčných študentov]], mal by odpovede s nízkou jazykovou kvalitou posielať na [[human-in-the-loop-ai|ľudské posúdenie]] alebo navrhovať úlohy, ktoré nezávisia od prózy.
 
-**„Ak je AI doučovací systém, je na správnej strane hranice.“** Označenie so sebou nenesie záruku. V pokuse s CS1 sa doučovací systém s nápovedami vyhol škode, ktorú na cvičeniach spôsobil neobmedzený ChatGPT, a napriek tomu nepriniesol žiadnu konceptuálnu výhodu oproti žiadnej AI. Zadržať konečnú odpoveď nie je to isté ako zadržať uvažovanie, a doučovací systém môže robiť druhé, kým to vyzerá, že robí len prvé.
+Pozri aj: [[ai-grading-fairness-reliability|Spravodlivé a spoľahlivé hodnotenie AI]]
 
-**„Detektor alebo prísnejšie pravidlo vyrieši problém integrity.“** Detekcia rieši jednu odpoveď z niekoľkých. Štúdia s budúcimi učiteľmi zistila, že strach z obvinenia potlačil povolené používanie, že kultúra programu predpovedala správanie lepšie než akékoľvek pravidlo kurzu a že vlastné vyhlásenia podhodnocovali používanie v každom kurze. Prísnejšie pravidlo mení to, čo študenti zatajujú, nie to, čo sa naučia.
+## Čo má týchto desať spoločné
 
-**„Jedno pravidlo pre celý kurz je spravodlivejšie a jednoduchšie.“** Jednoduchšie áno. Dôkazy podporujú pravidlá stanovené pri jednotlivých úlohách, pretože tri prípady, obmedziť, podoprieť lešením a vyžadovať, koexistujú vo väčšine kurzov a to isté povolenie znamená niečo iné v laboratórnom protokole a niečo iné v reflexii. Paušálne postoje sú tiež tie, ktoré študenti najľahšie obchádzajú.
+Tri štúdie merajú dve veci naraz: čo študenti vytvoria s nástrojom a čo dokážu bez neho. Bastani, Rismanchian a Strömberg všetci nachádzajú rozchod medzi nimi a ako učenie sa správa iba miera bez pomoci. Štyri závisia od dizajnového rozhodnutia, nie od modelu: usmernenia u Bastaniho, pedagogika zabudovaná do Kestinovho doučovateľa, písanie, ktoré Kreijkes ponechal v úlohe, a viackolové nastavenie, ktoré testoval SafeTutors. Tri skúmajú systém okolo nástroja, teda dôkazy použité v prípadoch porušenia pravidiel, spôsob merania kompetencie učiteľov a jazykové predpoklady v [[automated-assessment|automatickom hodnotení]]. StudentBench ustanovuje rovnocennosť na štandardizovanom teste, teda výsledok, v ktorom sa stroj najľahšie vyrovná človeku. Bastani sa objavuje v dvoch skupinách, pretože poskytuje aj medzeru, aj dizajnovú opravu.
 
-**„Študenti, ktorí hovoria, že nástroj pomáha, sa z neho učia.“** Spokojnosť je [[self-report-measures|sebavýpovedná miera]] a v pokuse s CS1 bola najlepšie hodnotenou podmienkou práve tá, ktorá najviac znížila spracovanie za učením. Nasadenie v matematike našlo rovnaký rozkol: spätná väzba, ktorú študenti oceňovali, a žiadny významný rozdiel v skúške.
+Zostávajú tri otázky, ktoré sa oplatí preniesť do každého rozhodnutia o kurze alebo produkte. Čo by mal študent dokázať, keď nástroj zmizne? Čo od neho činnosť žiada, kým je otvorený? Aký dôkaz by o mesiac ukázal rozdiel?
 
-**„AI gramotnosť je zručnosť promptovania a študenti ju získajú používaním nástroja.“** Rámce považujú [[ai-literacy|AI gramotnosť]] za konceptuálne porozumenie, operačnú zručnosť, [[critical-thinking|kritické hodnotenie]], [[ethics|etický]] úsudok a vedomie obmedzení. Prehľad výslovne uvádza, že [[prompt-engineering|prompt engineering]], overovanie výstupov a analyzovanie chýb AI sú naučiteľné zručnosti, ktoré sa nerozvíjajú vystavením. Vyškolení učitelia prírodných vied so skóre 16,7 z 30 sú empirickou verziou tohto tvrdenia.
+## Kde sú tieto dôkazy slabé
 
-**„Problém rovnosti je prístup.“** Prístup je jedna z troch línií. Zručnosť a to, kto získa užitočný výsledok, sú ďalšie dve, a len šesť štúdií v korpuse skúmalo čokoľvek z toho priamo. Dať každému študentovi licenciu rieši najľahšiu tretinu.
+Tieto štúdie zdieľajú [[limitations-in-aied-research|obmedzenia výskumu AI vo vzdelávaní]] ako celku. Dve z najväčších sa odohrávajú v Turecku a Číne, tri v Spojených štátoch, jedna v Anglicku, jedna v Austrálii a hodnotiaca štúdia v Nemecku. Jedna je referenčným meraním komerčných modelov, nie terénnou štúdiou. Dominuje stredoškolská matematika, nasledujú fyzika a informatika. Veľmi málo štúdií skúma [[humanities-education|písanie v humanitných vedách]] vo veľkom rozsahu, odborné vzdelávanie alebo študentov so zdravotným postihnutím.
 
-## Čo sa vám vráti
+Iba čínsky panel a panel ALEKS pozorujú študentov viac než dva roky po zavedení a čínski autori tvrdia, že kratšie štúdie systematicky podceňujú dlhodobú sankciu. Šesť z týchto výsledkov sú preprinty alebo pracovné dokumenty, ktoré neprešli recenzným konaním: StudentBench, Rismanchian, Strömberg, SafeTutors, Zhang a Feser. Štúdie Bastani, Kestin, Kreijkes a Munoz sú publikované v recenzovaných časopisoch.
 
-**„Moji študenti hovoria, že im AI pomáha.“** Zvyčajne im pomáha s prácou, ktorú majú pred sebou, a to zistenie je o tom, čo zostane potom. Opýtajte sa, čo ešte dokážu bez pomoci, a dostanete inú odpoveď, a preto existuje hodnotený krok bez pomoci.
-
-**„Učím 200 študentov. Nemôžem čítať koncepty ani robiť ústne kontroly.“** Nemusíte čítať všetko. Jedna aplikácia v triede alebo krátke nahraté vysvetlenie v úlohe s najvyššou váhou, plus náhodná kontrola prác, ktoré vyzerajú nekonzistentné s predchádzajúcimi odovzdaniami, pokrýva väčšinu rizika. Etapové odovzdávanie, anotované odôvodnenia a procesné [[eportfolio|portfóliá]] sa škálujú; takisto sa škáluje hodnotenie overovania zámerne chybného výstupu AI.
-
-**„Detekcia je všetko, čo máme.“** Detektory majú zdokumentované problémy so spoľahlivosťou a spravodlivosťou a validita je ťažší problém: vypracovaný domáci produkt už neukazuje, že osoba, ktorá ho odovzdala, má tú kompetenciu. Dôkaz o postupe je lacnejší než preteky v zbrojení a prináša niečo, čo dokážete obhájiť pri odvolaní.
-
-**„Zakázať to je jednoduchšie.“** Jednoduchšie, a zvyčajne to zlyhá. Prijímanie v štúdii s budúcimi učiteľmi sledovalo kultúru programu, a nie pravidlo jedného kurzu, a vyhlásenia podhodnocovali skutočné používanie v každom kurze. Zákaz vám tiež berie možnosť vidieť, ako by študenti nástroj používali, keď odídu.
-
-**„Neučím o AI. To nie je môj predmet.“** Tie zistenia sú o vašom predmete. Keď AI vykonáva prax, ktorú má váš kurz poskytovať, práve vtedy zasahuje, a tento zásah sa prejaví vo vašich hodnoteniach bez ohľadu na to, či nástroj spomeniete.
-
-**„Dôkazy sú príliš nové na to, aby sa podľa nich dalo konať.“** Sčasti pravda, a platí to na obe strany. Veľká časť korpusu sú krátke intervencie, [[self-report-measures|sebavýpovedné]] štúdie, jediné disciplíny alebo práce z rokov 2025 a 2026, a tvrdenia z vyzretého [[intelligent-tutoring|výskumu inteligentného doučovania]] sú silnejšie než tvrdenia o neobmedzených univerzálnych [[conversational-ai|chatbotoch]]. Kde má tvrdenie dnes za sebou randomizovaný pokus, teda oddelenie výkonu a učenia v pokuse s CS1 a výsledok spätnej väzby v nasadení v matematike, ten pokus je tu citovaný. Kde ho nemá, berte zistenie ako najlepšie dostupné usmernenie, a nie ako ustálené právo, a buďte najskeptickejší k výsledkom, ktoré ukazujú len spokojnosť, rýchlosť úlohy, kvalitu výstupu alebo bezprostredný asistovaný výkon.
-
-## Čo urobiť tento týždeň
-
-**1.** Vyberte jednu úlohu, ktorú najťažšie obhájite. Napíšte vetu o schopnosti na začiatok zadania úlohy.
-
-**2.** Pridajte jeden krok, ktorý prebieha bez prítomnosti AI: päťminútovú aplikáciu v triede, krátke nahraté vysvetlenie alebo odsek napísaný v miestnosti. Dajte mu skutočné body.
-
-**3.** Uveďte podmienku pre AI pri tejto úlohe a pridajte jeden riadok odôvodnenia. Ak úloha mieša kroky, povedzte, ktoré kroky sú ktoré.
-
-**4.** Prepíšte jeden prompt, ktorý dávate študentom, z „vyrieš to“ na „daj mi jednu nápovedu a polož mi otázku“, a povedzte im prečo.
-
-**5.** Pred začiatkom semestra vezmite zmenu k vedúcemu programu a k tomu, kto schvaľuje úpravy podmienok, aby prvé odvolanie nebolo zároveň prvým rozhovorom.
+Nulové a negatívne výsledky sú v tejto literatúre zriedkavé, takže publikovaný záznam pravdepodobne nadhodnocuje, ako často AI pomáha. Tieto štúdie sú najlepším súčasným usmernením pre desať rozhodnutí a žiadna z nich otázku neuzatvára.
 
 ## Kam ďalej
 
-Pre verziu týchto nedorozumení podľa jednotlivých zainteresovaných strán pozrite [[addressing-common-misconceptions-ai-education]]. Pre dizajnové požiadavky, ktoré vyplývajú zo zistení o rovnosti a ľudskom úsudku, pozrite [[equity-ethics-pedagogical-safety-research]]. [[redesign-assessment-ai-era|Preprojektovanie hodnotenia v ére AI]] posúva hodnotiacu polovicu ďalej a [[does-ai-help-students-learn]] je prehľad dôkazov za tvrdeniami na tejto stránke. Ak sa rozhodujete medzi prestavbou a vynucovaním, [[reduce-ai-cheating]] a [[course-ai-policy]] sú sprievodné stránky.
+[[does-ai-help-students-learn|Pomáha AI študentom učiť sa?]] je širší prehľad dôkazov za týmito tvrdeniami. [[redesign-assessment-ai-era|Ako by sa malo hodnotenie prepracovať pre éru AI?]] rozvíja hodnotiacu polovicu ďalej. Pre prípady akademickej integrity [[reduce-ai-cheating|Ako znížiť podvádzanie s AI?]] pokrýva procesné dôkazy a politiku. Pre zistenia o profesijnom rozvoji je sprievodnou stránkou [[faculty-ai-competencies|Aké kompetencie v oblasti AI potrebujú učitelia?]] a [[addressing-common-misconceptions-ai-education|Ako môžeme riešiť bežné mylné predstavy o AI vo vzdelávaní?]] sa zaoberá námietkami, ktoré pravdepodobne začujete od kolegov.
