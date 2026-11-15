@@ -70,7 +70,7 @@ updated: "YYYY-MM-DDTHH:MM:SS±HH:MM"  # quote + full timestamp; bump on signifi
 type: article
 sources: ['raw/papers/{arxiv_id}.md']
 confidence: high
-page_kind: [framework]  # what kind of page: framework | synthesis | evaluation
+page_kind: [framework]  # framework | synthesis | evaluation | design case | implementation
 research_method: [systematic review, survey]  # how the study was done (optional)
 discipline: [math education, physics education]  # optional
 audience: [instructors, learners, researchers, administrators]  # intended audience (optional)

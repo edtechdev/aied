@@ -6,7 +6,7 @@ type: article
 published: "2026-09-17"
 sources: ['raw/papers/colearn-agentic-tutor-co-learning-loop-2026.md']
 confidence: high
-page_kind: [framework]
+page_kind: [implementation]
 research_method: [system development, user study]
 discipline: [biology education, chemistry education]
 audience: [instructors, researchers, software developers]

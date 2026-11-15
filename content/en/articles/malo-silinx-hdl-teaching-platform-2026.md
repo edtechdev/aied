@@ -5,7 +5,7 @@ updated: "2026-11-11T09:14:54-05:00"
 type: article
 evidence_context: educational
 published: 2026-11-09
-page_kind: [framework]
+page_kind: [implementation]
 research_method: [system development]
 discipline: [cs education, engineering education]
 level: [higher ed, undergraduate]

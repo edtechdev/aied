@@ -9,6 +9,7 @@ pedagogy: []
 sources: ['raw/papers/pulla-parsons-problem-tool-2026.md']
 confidence: high
 research_method: [system development]
+page_kind: [implementation]
 discipline: [cs education]
 level: [higher ed]
 audience: [instructors, software developers, learning analytics designers]

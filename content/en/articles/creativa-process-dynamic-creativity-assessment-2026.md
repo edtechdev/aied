@@ -10,7 +10,7 @@ methods: [quantitative-research]
 research_method: [instrument development, system development]
 level: [higher ed, k 12]
 audience: [researchers, assessment designers, instructors]
-page_kind: [framework]
+page_kind: [implementation]
 sources: ['raw/papers/creativa-process-dynamic-creativity-assessment-2026.md']
 confidence: high
 ---

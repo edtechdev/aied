@@ -8,6 +8,7 @@ pedagogy: [game-based-learning, inquiry-based-learning, scaffolding, collaborati
 technology: [conversational-ai, llm, generative-ai]
 assessment: [feedback, formative-assessment]
 research_method: [system development]
+page_kind: [design case]
 discipline: [science education]
 level: [middle school]
 audience: [instructors, educational technology developers, instructional designers, researchers]

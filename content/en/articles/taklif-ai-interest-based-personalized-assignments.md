@@ -7,6 +7,7 @@ technology: [generative-ai, intelligent-tutoring, llm, personalized-learning, ed
 assessment: [automated-question-generation]
 ethics: [culturally-relevant-pedagogy]
 research_method: [system development, user study]
+page_kind: [implementation]
 level: [higher ed]
 sources: ['raw/papers/2605.05842.md']
 confidence: medium

@@ -6,6 +6,7 @@ type: article
 pedagogy: [mastery-learning]
 technology: [adaptive-learning, generative-ai]
 research_method: [system development]
+page_kind: [implementation]
 audience: [learners, software developers]
 sources: ['raw/papers/2607.25096.md']
 confidence: high

@@ -10,6 +10,7 @@ methods: [benchmark]
 sources: ['raw/papers/cogevol-learning-environment-generation-2026.md']
 confidence: high
 research_method: [system development]
+page_kind: [implementation]
 audience: [instructional designers, software developers]
 ---
 

@@ -3,6 +3,7 @@ title: "Designing an Aligned Generative AI Course Policy: An Equitable and Trans
 created: "2026-09-10T15:08:00-04:00"
 updated: "2026-09-19T10:56:42-04:00"
 type: article
+page_kind: [design case]
 foundations: [academic-integrity, curriculum-design, educational-development, framing-ai-use-for-students]
 technology: [generative-ai]
 assessment: [assessment, authentic-assessment]

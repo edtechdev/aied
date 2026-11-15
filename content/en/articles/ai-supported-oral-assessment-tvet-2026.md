@@ -11,6 +11,7 @@ pedagogy: [professional-training]
 sources: ['raw/papers/ai-supported-oral-assessment-tvet-2026.md']
 confidence: high
 research_method: [system development]
+page_kind: [design case]
 discipline: [vocational education]
 audience: [assessment designers, instructors, institutions]
 level: [higher ed]

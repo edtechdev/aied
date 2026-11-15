@@ -11,7 +11,7 @@ audience: [instructors, faculty developers]
 level: [higher ed]
 sources: ['raw/papers/2603.18189.md']
 confidence: medium
-page_kind: [framework]
+page_kind: [implementation]
 ---
 
 > **Synthesis:** [[higher-ed|Higher education]] instructors often lack timely and pedagogically grounded support. Universities operate teaching and learning centers that offer workshops and consultations, but these resources face key limitations: support may not be available at the moment of need, feedback is often generic rather than tailored to an instructor's background, and some educators hesitate to seek direct help for fear of appearing unskilled. General-purpose [[llm|LLMs]] like [[generative-ai|ChatGPT]] are widely accessible, but their responses are typically generic and rarely apply evidence-based principles in a pedagogically scaffolded way. TeachingCoach is a pedagogically grounded [[conversational-ai|chatbot]] that simulates the role of a teaching expert and delivers conversational guidance on instructional practice through problem identification, diagnosis, and strategy development.

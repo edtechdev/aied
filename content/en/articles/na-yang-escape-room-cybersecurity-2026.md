@@ -8,7 +8,7 @@ source_depth: full text
 confidence: low
 evidence_context: educational
 research_method: [system development]
-page_kind: [framework]
+page_kind: [design case]
 level: [k 12]
 audience: [educational technology developers, instructors]
 discipline: [cs education, information technology]

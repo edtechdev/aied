@@ -6,6 +6,7 @@ type: article
 pedagogy: [active-learning, professional-training]
 technology: [generative-ai, intelligent-tutoring, llm, simulation, visualization]
 research_method: [system development, user study]
+page_kind: [implementation]
 sources: ['raw/papers/2606.24694.md']
 confidence: high
 discipline: [business education]

@@ -83,6 +83,8 @@ export const PAGE_KIND_VALUE_LABELS: Record<string, string> = {
   framework: 'Framework',
   synthesis: 'Synthesis',
   evaluation: 'Evaluation',
+  'design case': 'Design case',
+  implementation: 'Implementation',
 };
 
 const EN_STARTER_QUERIES = [

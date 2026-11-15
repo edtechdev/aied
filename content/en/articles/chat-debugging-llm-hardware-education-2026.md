@@ -6,6 +6,7 @@ type: article
 pedagogy: [scaffolding]
 technology: [llm]
 research_method: [system development]
+page_kind: [implementation]
 discipline: [cs education, stem education]
 audience: [learners]
 level: [higher ed]

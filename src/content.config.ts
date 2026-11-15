@@ -236,6 +236,8 @@ const structuredMeta = {
         'framework',
         'synthesis',
         'evaluation',
+        'design case',
+        'implementation',
     ),
 };
 

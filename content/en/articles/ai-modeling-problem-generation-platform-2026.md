@@ -9,6 +9,7 @@ foundations: [curriculum-design, learning-design]
 technology: [generative-ai, intelligent-tutoring]
 confidence: medium
 research_method: [system development, case study]
+page_kind: [implementation]
 discipline: [math education]
 audience: [instructors, curriculum designers, instructional designers]
 level: [secondary]
