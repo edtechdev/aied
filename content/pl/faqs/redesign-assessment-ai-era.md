@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-10-29T15:22:02-04:00"
+updated: "2026-11-15T15:47:44-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-10-28T10:45:41-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -86,7 +86,7 @@ Cel ma znaczenie tak samo jak mechanika. [[ai-agents-joyful-assessment-third-spa
 
 **„Akredytacja i zatwierdzanie programu nie ruszą się tak szybko.”** Powyższe badanie wskazuje długie terminy i ograniczenia akredytacyjne przy dużych rocznikach jako główne tarcie. Pojedynczy kurs może zmienić to, co dzieje się wewnątrz istniejącego zadania, nie zmieniając jego nazwy, wagi ani efektów uczenia się, i to zwykle wystarcza na start.
 
-**„To karze studentów lękliwych i studentów z niepełnosprawnościami.”** Może karać. Ustne elementy na żywo wymagają dostosowań zaplanowanych z wyprzedzeniem, wyboru formatu tam, gdzie konstrukt na to pozwala, oraz uwagi na różnice językowe i stronniczość oceniającego. Weryfikować trzeba kompetencję, a nie warunki jej prezentacji.
+**„To karze studentów lękliwych i [[inclusive-learning|studentów z niepełnosprawnościami]].”** Może karać. Ustne elementy na żywo wymagają dostosowań zaplanowanych z wyprzedzeniem, wyboru formatu tam, gdzie konstrukt na to pozwala, oraz uwagi na różnice językowe i stronniczość oceniającego. Weryfikować trzeba kompetencję, a nie warunki jej prezentacji.
 
 **„Trzeba po prostu kupić detektor.”** Wynik dotyczący rozróżniania przemawia przeciw temu jako kręgosłupowi projektu: jeśli fałszywe alarmy rosną szybciej niż trafne wykrycia, silniejsze monitorowanie czyni ukrywanie względnie bardziej atrakcyjnym. Wykrywanie może mieć miejsce w odpowiedzi, która także przeprojektowuje zadanie, a [[should-we-use-ai-detectors|argument o detektorach]] omawia ten spór.
 

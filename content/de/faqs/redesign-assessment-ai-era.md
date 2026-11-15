@@ -1,14 +1,14 @@
 ---
 title: "Wie gestalte ich Assessment neu, damit eine Note weiterhin etwas Vertretbares darüber sagt, was die Person weiß oder kann?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-15T15:41:17-05:00"
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-10-28T10:45:41-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ Die kurze Antwort: Entscheiden Sie, wovon die Note Beleg sein **soll**, bauen Si
 
 ## Entscheiden Sie, wovon die Note Beleg ist
 
-Beginnen Sie damit, ausdrücklich zu benennen, welche Fähigkeit die Note repräsentieren soll. Bewerten Sie, was eine studierende Person selbstständig kann, was sie mit KI angemessen erreichen kann, ihre Fähigkeit, KI zu beurteilen und anzuleiten, oder eine Kombination davon? Die [[assessment-validity|Assessmentvalidität]] der Wissensbasis behandelt das als Validitätsproblem: Ein poliertes Artefakt ist kein ausreichender Beleg mehr dafür, dass die studierende Person über die Fähigkeit verfügt, die das Artefakt offenbar zeigt. Das ist die prüfungsseitige Hälfte desselben Arguments; die durchsetzungsseitige Hälfte steht in [[reduce-ai-cheating]], und die allgemeine Validitätsrahmung zieht sich durch [[evaluating-ai-interventions-methods]].
+Beginnen Sie damit, ausdrücklich zu benennen, welche Fähigkeit die Note repräsentieren soll. Bewerten Sie, was eine studierende Person selbstständig kann, was sie mit KI angemessen erreichen kann, ihre Fähigkeit, KI zu beurteilen und anzuleiten, oder eine Kombination davon? [[assessment-validity|Assessmentvalidität]] behandelt das als Validitätsproblem: Ein poliertes Artefakt ist kein ausreichender Beleg mehr dafür, dass die studierende Person über die Fähigkeit verfügt, die das Artefakt offenbar zeigt. Das ist die prüfungsseitige Hälfte desselben Arguments; die durchsetzungsseitige Hälfte steht in [[reduce-ai-cheating]], und die allgemeine Validitätsrahmung zieht sich durch [[evaluating-ai-interventions-methods]].
 
 Sagen Sie die Antwort im Syllabus, im Aufgabenzettel und in der Rubrik. Studierende lesen drei Dokumente und befolgen das, das am konkretesten ist. „KI-Nutzung ist mit Quellenangabe erlaubt" ist keine Aussage darüber, was Sie messen, und gibt einer studierenden Person keine Möglichkeit zu wissen, ob die erlaubte Nutzung das untergräbt, was Sie benoten.
 
@@ -110,4 +110,4 @@ Der Zweck zählt so viel wie die Mechanik. [[ai-agents-joyful-assessment-third-s
 
 ## Wohin als Nächstes
 
-Das Validitätsargument hinter der ganzen Seite steht in [[assessment-validity]]; das durchsetzungsseitige Gegenstück ist [[reduce-ai-cheating]], mit [[course-ai-policy]] daneben. [[writing-instruction-ai-best-practices]] behandelt die Formulierungen, die Studierende tatsächlich befolgen, und [[evaluating-ai-interventions-methods]] behandelt, ob das Werkzeug, um das Sie herum gestalten, überhaupt funktioniert.
+Das Validitätsargument hinter der ganzen Seite steht in [[assessment-validity|Assessmentvalidität]]; das durchsetzungsseitige Gegenstück ist [[reduce-ai-cheating]], mit [[course-ai-policy]] daneben. [[writing-instruction-ai-best-practices]] behandelt die Formulierungen, die Studierende tatsächlich befolgen, und [[evaluating-ai-interventions-methods]] behandelt, ob das Werkzeug, um das Sie herum gestalten, überhaupt funktioniert.

@@ -8,9 +8,9 @@ foundations: [ai-education]
 technology: [generative-ai, intelligent-tutoring]
 ethics: [bias-mitigation, equity-in-ai-education, privacy, inclusive-learning]
 audience: [instructors, administrators, software developers, researchers]
-updated: "2026-11-08T04:27:04-05:00"
+updated: "2026-11-15T15:42:16-05:00"
 translation_of: "faqs/ai-bias-fairness-education"
-source_updated: "2026-11-06T02:15:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -60,4 +60,4 @@ Uprzedzenia i niesprawiedliwość w SI w edukacji to nie jeden problem. Badania 
 
 ## Gdzie szukać głębiej
 
-Strona [[bias-mitigation]] kataloguje źródła i podejścia do łagodzenia w całym potoku; [[equity-in-ai-education]] obejmuje wymiary dostępu, reprezentacji i wyników wraz z dowodami dla każdego z nich; [[automation-bias]] obejmuje błąd po stronie czytelnika — zbytnie zaufanie do stronniczej lub po prostu błędnej rekomendacji; a [[differential-effects-across-learner-groups]] zbiera badania śledzące, jak to samo narzędzie różnie trafia do różnych grup.
+[[bias-mitigation|Łagodzenie obciążeń]] obejmuje źródła i podejścia w całym potoku; [[equity-in-ai-education|równość w edukacji ze SI]] obejmuje wymiary dostępu, reprezentacji i wyników wraz z dowodami dla każdego z nich; [[automation-bias|obciążenie automatyzacją]] obejmuje błąd po stronie czytelnika — zbytnie zaufanie do stronniczej lub po prostu błędnej rekomendacji; a [[differential-effects-across-learner-groups|zróżnicowane efekty między grupami uczących się]] zbiera badania śledzące, jak to samo narzędzie różnie trafia do różnych grup.

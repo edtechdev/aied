@@ -14,9 +14,9 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:44:42-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -75,7 +75,7 @@ Krok weryfikacji wymaga więc standardu złotego, który nie jest ani wynikiem m
 
 ## Szukać szybko, a potem sprawdzić każde źródło samodzielnie
 
-Wyszukiwanie generatywne streszcza, rekomenduje, syntetyzuje i prowadzi rozmowę, co podważa dawniejszy układ, w którym system lokalizuje, a czytelnik interpretuje ([[genai-academic-search-workshop]]). Warto traktować je jako narzędzie odkrywania. Raport z warsztatu niesie dwie ostrożności: możliwości są nierówne, a badaczy o wysokiej cytowalności odtwarzano mniej więcej dwa razy częściej niż mniej cytowanych rówieśników, oraz [[librarians|bibliotekarz]] opisał lukę zaufania, w której studenci nadmiernie ufali wyszukiwaniu generatywnemu, a kadra mu nie ufała.
+Wyszukiwanie generatywne streszcza, rekomenduje, syntetyzuje i prowadzi rozmowę, co podważa dawniejszy układ, w którym system lokalizuje, a czytelnik interpretuje ([[genai-academic-search-workshop|Liu i in., 2026]]). Warto traktować je jako narzędzie odkrywania. Raport z warsztatu niesie dwie ostrożności: możliwości są nierówne, a badaczy o wysokiej cytowalności odtwarzano mniej więcej dwa razy częściej niż mniej cytowanych rówieśników, oraz [[librarians|bibliotekarz]] opisał lukę zaufania, w której studenci nadmiernie ufali wyszukiwaniu generatywnemu, a kadra mu nie ufała.
 
 Weryfikacja referencji to miejsce, w którym staje się to niepodlegające negocjacji, a porażki skupiają się w polu autorów, czyli tam, gdzie zapisuje się uznanie. [[citation-errors-hallucinations-computing-education-2026|Denny i in. (2026)]] przeanalizowali 723 930 publikacji i 15 872 533 referencji i zweryfikowali 30 sfabrykowanych referencji w 14 pracach z edukacji informatycznej, wszystkie z lat 2025 i 2026. Siedemnaście z tych 30 było hybrydami: prawdziwy tytuł przypisany do sfabrykowanych lub błędnych autorów. Zweryfikowana liczba na jednym sympozjum technicznym wzrosła z 3 w 2025 roku do 17 w 2026, w 2,3% prac w materiałach z tego roku. Ich suma jest świadomie dolnym ograniczeniem, a automatyczne sprawdzarki dziedziczą wady metadanych, które traktują jako prawdę. Sprawdzać autorów najpierw.
 
@@ -107,7 +107,7 @@ Zdefiniować kryteria z góry i trzymać je widoczne. Małe badanie lokalne nie 
 
 Raportować rolę SI, przeprowadzoną weryfikację i ograniczenia projektu z jednym kursem i jednym badaczem. Opis przebiegu pracy nie jest wynikiem o skuteczności.
 
-Traktować symulowanie kohorty jako opcję zaawansowaną, a nie domyślną. Symulowani uczący się pokrywają zwykle najłatwiejszy kwadrant rzeczywistych zachowań studentów i rzadko są walidowani po użyciu ([[simulating-students]]). Warto przeczytać [[making-simulated-students-behave-like-learners]], zanim zaufa się werdyktowi [[simulation|symulatora]].
+Traktować symulowanie kohorty jako opcję zaawansowaną, a nie domyślną. Symulowani uczący się pokrywają zwykle najłatwiejszy kwadrant rzeczywistych zachowań studentów i rzadko są walidowani po użyciu ([[simulating-students|symulowanych studentów]]). Warto przeczytać [[making-simulated-students-behave-like-learners]], zanim zaufa się werdyktowi [[simulation|symulatora]].
 
 ## Co badacze rozumieją tu błędnie
 
@@ -147,4 +147,4 @@ SI zdejmuje pracę z projektu. Studium przypadku z 115 dni wykazało, że delego
 
 ## Dokąd dalej
 
-Pytania towarzyszące to [[evaluating-ai-interventions-methods]] o tym, jak mierzyć interwencję, [[reporting-interpreting-aied-research]] o raportowaniu systemu i własnego użycia SI oraz [[research-gaps-aied]] o tym, gdzie literatura jest cienka. [[equity-ethics-pedagogical-safety-research]] obejmuje dane studentów, a [[ai-assisted-educational-research]] jest pełną stroną pojęcia, na której opiera się ta strona.
+Pytania towarzyszące to [[evaluating-ai-interventions-methods]] o tym, jak mierzyć interwencję, [[reporting-interpreting-aied-research]] o raportowaniu systemu i własnego użycia SI oraz [[research-gaps-aied]] o tym, gdzie literatura jest cienka. [[equity-ethics-pedagogical-safety-research]] obejmuje dane studentów, a [[ai-assisted-educational-research|badania edukacyjne wspierane przez SI]] to pełna strona pojęcia, na której opiera się ta strona.

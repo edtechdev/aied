@@ -1,7 +1,7 @@
 ---
 title: "Wie soll ich KI nutzen, um wirksam zu lernen?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-15T15:44:25-05:00"
 connected_faqs: [reducing-over-reliance, verify-ai-output, how-ai-impacts-students, ai-anxiety-wellbeing]
 weight: 60
 type: faq
@@ -13,7 +13,7 @@ audience: [learners, instructors]
 level: [higher ed, secondary]
 connected_resources: [gemini-notebook]
 translation_of: faqs/study-with-ai
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

@@ -8,9 +8,9 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:46:36-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:

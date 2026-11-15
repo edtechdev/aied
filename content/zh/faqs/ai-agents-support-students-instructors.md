@@ -1,11 +1,11 @@
 ---
 title: "人工智能智能体如何支持学生与教师？"
 created: "2026-09-22T20:06:03-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-15T15:43:33-05:00"
 weight: 66
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -74,7 +74,7 @@ ai_assist:
 
 ## 为关停做计划
 
-随机试验显示，短暂的 AI 帮助可能压低随后无辅助的表现，而帮助撤除之后的那段区间，[[cognitive-washout-ai-skill-decay-2026|认知冲刷]]，几乎完全没有被测量。本页背后的综述建立在一项覆盖 474 项研究的[[meta-analysis-systematic-review|范围综述]]之上，并发现这些工作集中在[[higher-ed|高等教育]]、[[stem-education|STEM]]、短期设计与基于文本的辅导，只有少数明确扎根于教育理论。一个在许可证到期时就结束的试点，测量的是错误的窗口。
+随机试验显示，短暂的 AI 帮助可能压低随后无辅助的表现，而帮助撤除之后的那段区间，[[cognitive-washout-ai-skill-decay-2026|认知冲刷]]，几乎完全没有被测量。一项覆盖 474 项研究的[[meta-analysis-systematic-review|范围综述]]发现，这些工作集中在[[higher-ed|高等教育]]、[[stem-education|STEM]]、短期设计与基于文本的辅导，只有少数明确扎根于教育理论。一个在许可证到期时就结束的试点，测量的是错误的窗口。
 
 ## 管理者会弄错的地方
 
@@ -104,4 +104,4 @@ ai_assist:
 
 ## 接下来可以去哪里
 
-[[developing-ai-tutor|开发 AI 辅导系统]]讲的是面向学生的构建，从目标到帮助阶梯，而[[evaluating-ai-interventions-methods|评估 AI 干预的方法]]讲的是这东西是否奏效。[[intelligent-tutoring|智能辅导]]与[[ai-literacy|AI 素养]]提供本页所假定的设计词汇。
+[[developing-ai-tutor|开发 AI 辅导系统]]讲的是面向学生的构建，从目标到帮助阶梯，而[[evaluating-ai-interventions-methods|评估 AI 干预的方法]]讲的是这东西是否奏效。[[intelligent-tutoring|智能辅导]]与[[ai-literacy|AI 素养]]提供建议所假定的设计词汇。

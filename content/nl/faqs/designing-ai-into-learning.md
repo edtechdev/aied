@@ -6,9 +6,9 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-11-01T11:35:17-05:00"
+updated: "2026-11-15T15:46:36-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
 
-De modulebeschrijving heeft een regel die ‘AI-activiteit’ zegt en niemand kan vertellen wat die vervangt. Of een docent heeft gevraagd een chatbot toe te voegen aan een cursus die al werkt, en uw taak is hem te plaatsen zonder het deel te breken dat de cursus liet werken.
+De modulebeschrijving heeft een regel die ‘AI-activiteit’ zegt en niemand kan vertellen wat die vervangt. Of een docent heeft gevraagd een [[conversational-ai|chatbot]] toe te voegen aan een cursus die al werkt, en uw taak is hem te plaatsen zonder het deel te breken dat de cursus liet werken.
 
 Begin bij het leerdoel en bij de activiteit die het oplevert. Hetzelfde model kan een scaffold zijn, een [[socratic-method|socratische]] gesprekspartner, een lezer van conceptteksten, een [[simulation|simulatie]] of een antwoordmachine, en welke u krijgt hangt af van het ontwerp in plaats van het model. Benoem de modus die u bouwt, zet de poging van de leerling vóór er hulp verschijnt, en houd minstens één route door de cursus die zonder de tool loopt.
 
@@ -72,7 +72,7 @@ Twee lessen volgen voor AI-ontwerp. Zet de tool waar de volgorde een activiteits
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] behandelt tijd als een ontworpen steiger in plaats van als een eigenschap van de student: een cursus in eigen tempo heeft een wekelijkse toewijzing van ongeveer 100 minuten met een doel nabij 20 minuten per dag, tijdbewuste herinneringen, een voortgangsdashboard en een korte controle van 3 tot 12 vragen aan het eind van elke subparagraaf. De basislijn waarop dat ontwerp antwoordt, is schril: bijna 25 procent van meer dan 600 lerenden begon pas in de laatste week, en 95 procent van die groep zakte.
 
-Lees het als een ontwerpopdracht, niet als een bewezen effect. Het artikel vergelijkt een latere cursus met een eerdere in plaats van een gecontroleerde proef uit te voeren, dus de verbetering valt niet te scheiden van de verandering van cohort en vak, en herinneringen die sterk genoeg zijn om de studietiming te verschuiven, zijn ook een [[privacy]]-kwestie die u in de syllabus moet beantwoorden.
+Lees het als een ontwerpopdracht, niet als een bewezen effect. Het artikel vergelijkt een latere cursus met een eerdere in plaats van een [[rct|gecontroleerde proef]] uit te voeren, dus de verbetering valt niet te scheiden van de verandering van cohort en vak, en herinneringen die sterk genoeg zijn om de studietiming te verschuiven, zijn ook een [[privacy]]-kwestie die u in de syllabus moet beantwoorden.
 
 ## Bepaal wat u onthoudt, en wanneer u het herstelt
 
@@ -100,7 +100,7 @@ Efficiëntie is het doel van het herontwerp. Uitkomsten en rubrics met een model
 
 **‘We hebben geen tijd om een hele cursus te herschikken.’** Herschik dan één module en één toets. De scharnier van eerst onthouden en dan versterken is één controlepunt, en de volgorde van eerst denken is drie instructies op een handout.
 
-**‘Onze AI-functie heeft al vangrails.’** Vangrails beperken wat het model zegt. Ze beslissen niet of de leerling eerst een poging deed, of de ondersteuning afbouwt, of er een AI-vrij pad bestaat. Dat zijn ontwerpbeslissingen in uw cursus, geen instellingen in het product.
+**‘Onze AI-functie heeft al [[guardrails|vangrails]].’** Vangrails beperken wat het model zegt. Ze beslissen niet of de leerling eerst een poging deed, of de ondersteuning afbouwt, of er een AI-vrij pad bestaat. Dat zijn ontwerpbeslissingen in uw cursus, geen instellingen in het product.
 
 ## Wat u deze week kunt doen
 

@@ -10,9 +10,9 @@ technology: [educational-nlp, generative-ai, llm]
 ethics: [accessibility]
 audience: [instructors, curriculum designers, instructional designers]
 level: [higher ed, secondary, primary education]
-updated: "2026-11-08T04:27:04-05:00"
+updated: "2026-11-15T15:40:36-05:00"
 translation_of: "faqs/ai-support-reading-comprehension"
-source_updated: "2026-11-06T02:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Se insegni una qualsiasi materia, scegli le letture, adatti i testi e decidi se 
 
 **Trovare e adattare testi su larga scala.** L'IA è forte nel localizzare fonti, semplificare il vocabolario, generare glossari e trasformare un brano in una [[study-with-ai|guida allo studio o un riassunto]]. Usala per le parti meccaniche della preparazione alla lettura — scansionare, livellare, estrarre i termini chiave — e tieni il controllo umano su ciò che conta.
 
-**Modellare il lettore invece del testo.** Poiché le variabili del lettore portano gran parte del segnale su quanto un testo appare difficile, gli strumenti che profilano il lettore predicono la difficoltà percepita meglio di qualsiasi formula. Nello studio più ampio della base di conoscenze, 193 studenti tedeschi delle superiori hanno valutato 3.954 frasi, e i modelli basati sul profilo (RMSE migliore dell'ensemble 0,822 contro una baseline media di 1,070) hanno battuto i punteggi Flesch dei testi, che valutavano lo stesso materiale molto più difficile di come gli studenti lo vivevano — il 72,8% delle annotazioni era facile o molto facile ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck e Conrad, 2025]]). La versione pratica: le valutazioni di qualche studente su un brano battono l'etichetta di qualsiasi formula.
+**Modellare il lettore invece del testo.** Poiché le variabili del lettore portano gran parte del segnale su quanto un testo appare difficile, gli strumenti che profilano il lettore predicono la difficoltà percepita meglio di qualsiasi formula. Nello studio più ampio di questa letteratura, 193 studenti tedeschi delle superiori hanno valutato 3.954 frasi, e i modelli basati sul profilo (RMSE migliore dell'ensemble 0,822 contro una baseline media di 1,070) hanno battuto i punteggi Flesch dei testi, che valutavano lo stesso materiale molto più difficile di come gli studenti lo vivevano — il 72,8% delle annotazioni era facile o molto facile ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck e Conrad, 2025]]). La versione pratica: le valutazioni di qualche studente su un brano battono l'etichetta di qualsiasi formula.
 
 ## Dove l'IA non basta
 

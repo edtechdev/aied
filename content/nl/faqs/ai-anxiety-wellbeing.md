@@ -9,9 +9,9 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:47:00-05:00"
 translation_of: faqs/ai-anxiety-wellbeing
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -105,7 +105,7 @@ Het doel is de angst omlaag te brengen. Kim (2026) vond angst positief samenhang
 
 Vertrouwen beschermt studenten tegen de loopbaanschade. In het model van Duan et al. buffert [[self-efficacy|zelfeffectiviteit]] die schade niet. Loopbaanadaptiviteit droeg het gemedieerde pad.
 
-Dit is een probleem van de [[student-support-and-success|studentendiensten]]. De meeste stappen op deze pagina zijn didactisch: oefening met lage inzet, begeleide evaluatie van AI-output, herziening op basis van feedback, en een uitleg van verwachtingen die studenten kunnen lezen. De doorverwijsroute kennen is daar één item van.
+Dit is een probleem van de [[student-support-and-success|studentendiensten]]. De meeste stappen zijn didactisch: oefening met lage inzet, begeleide evaluatie van AI-output, herziening op basis van feedback, en een uitleg van verwachtingen die studenten kunnen lezen. De doorverwijsroute kennen is daar één item van.
 
 Een welzijnschatbot is het schaalbare antwoord op dunne begeleidingscapaciteit. Beschikbaarheid is echt en de aantrekkingskracht is begrijpelijk. Accuratesse op één hold-outsplit is geen bewijs dat een student in nood er beter van af is, en de vragen over verkeerde classificatie, opslag en escalatie hebben in het hier aangehaalde werk geen gepubliceerde antwoorden.
 
@@ -117,7 +117,7 @@ Een welzijnschatbot is het schaalbare antwoord op dunne begeleidingscapaciteit. 
 
 **"Ik ben vakdocent, geen begeleider."** Niemand vraagt u iemand te behandelen. Oefening met lage inzet, een kritiektaak en een herzieningslus zijn gewone didactische stappen. De ene bevinding die over uw positie gaat, is dat de leraar-studentrelatie tweede staat in de analyse van kenmerkbelang van Bashir en Afzal (10,0%), boven slaapkwaliteit (9,3%) en sociale steun (7,6%). De auteurs noemen het een hypothese, en het is een redelijke gok voor een rol die u al vervult.
 
-**"Wij hebben geen begeleidingscapaciteit, dus een tool is beter dan niets."** Mogelijk, en deze pagina kan dat niet beslechten. Wat u vóór invoering kunt eisen, zijn schriftelijke antwoorden over validatie van accuratesse, hoe het steunniveau wordt bepaald, wat er gebeurt bij een schadelijke verkeerde classificatie, hoe onthullingen worden opgeslagen en hoe escalatie naar een mens werkt. Geen antwoorden, geen invoering. Een student die iets onthult aan een tool die het verkeerd opbergt, onthult het misschien niet nog eens.
+**"Wij hebben geen begeleidingscapaciteit, dus een tool is beter dan niets."** Mogelijk, en het bewijs kan dat niet beslechten. Wat u vóór invoering kunt eisen, zijn schriftelijke antwoorden over validatie van accuratesse, hoe het steunniveau wordt bepaald, wat er gebeurt bij een schadelijke verkeerde classificatie, hoe onthullingen worden opgeslagen en hoe escalatie naar een mens werkt. Geen antwoorden, geen invoering. Een student die iets onthult aan een tool die het verkeerd opbergt, onthult het misschien niet nog eens.
 
 **"Als ik loopbaanperspectieven in de les aansnijd, treed ik buiten mijn vak."** Het alternatief is dat studenten hun antwoord samenstellen uit de arbeidsmarkt en van elkaar. Duan et al. bevelen loopbaanoriëntatie aan als deel van het academische programma, en Dağ et al. bevelen het aan naast AI-geletterdheid. U kunt het gesprek gastheer zijn zonder er expertise over te claimen, en de individuele gevallen doorverwijzen naar loopbaandiensten.
 

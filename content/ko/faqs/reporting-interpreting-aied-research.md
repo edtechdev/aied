@@ -1,7 +1,7 @@
 ---
 title: "교육에서 AI 연구를 보고하고 해석하는 모범 사례는 무엇입니까?"
 created: "2026-09-16T15:05:00-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-15T15:46:45-05:00"
 connected_faqs: [checking-whether-educational-ai-works, research-gaps-aied, evaluating-ai-interventions-methods]
 weight: 65
 type: faq
@@ -13,7 +13,7 @@ audience: [researchers]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, benchmark, meta-analysis-systematic-review, research-methods-aied]
 translation_of: faqs/reporting-interpreting-aied-research
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -51,9 +51,9 @@ ai_assist:
 
 이것이 대부분의 투고가 실패하는 점검입니다. RAISE 프레임워크(*Reporting AI Studies in Education*, Allison 2026)는 열 개의 주제 영역에 걸친 30개 항목 점검표이고, 그 진단적 주장은 구체적입니다. 투고물은 어떤 모델이 사용되었는지, 어떻게 구성되었는지, 어떤 역할을 했는지, 인간 행위자가 그 출력을 설계하거나 검토했는지를 습관적으로 빠뜨립니다. 그러면 심사자에게는 답할 수 없는 네 가지 질문이 남습니다. AI는 정확히 무엇을 하고 있었는가? 그것이 필요했는가? 이것은 재현 가능한가? 학습 주장은 신뢰할 수 있는가?
 
-RAISE는 교육적 정당화에서 시작해 API 수준 명세, [[student-ai-interaction|학습자-AI 상호작용]], 접근성과 문화적 적합성, 참가자와 환경, 인간 관여, 설계, 윤리, 투명성과 재현성, 그리고 한계까지 이어집니다. 그 동반 문서인 윤리 및 위험 매트릭스는 학습자의 [[agency|주체성]], [[equity-in-ai-education|형평성]], 데이터 [[governance]]와 알고리즘적 투명성에 대한 위험을 다룹니다. [[tep-aied-model-reporting-2026|Hwang, Xie, Wah, Gašević (2026)]]는 간소화된 대안을 제시합니다. TEP-AIED는 투명성, 윤리, 교수법을 하나의 상호의존적 구조로 접고, 일곱 개 논문 절에 대응하는 지침 표를 제공하며, 저자들에게 "Transparency, Ethics, and Pedagogy Considerations"라는 제목의 방법 하위 절을 추가하라고 요청합니다. 그 이유는 실용적입니다. RAISE는 포괄적이어서 일상적 실증 연구에 너무 세분화되어 있습니다. 공개는 [[ai-use-disclosure]] 아래에 놓이며, [[privacy]]와 [[ethics]] 주장을 검증 가능하게 만드는 것입니다.
+RAISE는 교육적 정당화에서 시작해 API 수준 명세, [[student-ai-interaction|학습자-AI 상호작용]], 접근성과 문화적 적합성, 참가자와 환경, 인간 관여, 설계, 윤리, 투명성과 재현성, 그리고 한계까지 이어집니다. 그 동반 문서인 윤리 및 위험 매트릭스는 학습자의 [[agency|주체성]], [[equity-in-ai-education|형평성]], 데이터 [[governance|거버넌스]]와 알고리즘적 투명성에 대한 위험을 다룹니다. [[tep-aied-model-reporting-2026|Hwang, Xie, Wah, Gašević (2026)]]는 간소화된 대안을 제시합니다. TEP-AIED는 투명성, 윤리, 교수법을 하나의 상호의존적 구조로 접고, 일곱 개 논문 절에 대응하는 지침 표를 제공하며, 저자들에게 "Transparency, Ethics, and Pedagogy Considerations"라는 제목의 방법 하위 절을 추가하라고 요청합니다. 그 이유는 실용적입니다. RAISE는 포괄적이어서 일상적 실증 연구에 너무 세분화되어 있습니다. 공개는 [[ai-use-disclosure|AI 사용 공개]] 아래에 놓이며, [[privacy|프라이버시]]와 [[ethics|윤리]] 주장을 검증 가능하게 만드는 것입니다.
 
-RAISE에서 교육적 정당화가 먼저인 이유는 AI가 중립적 도구가 아니기 때문입니다. 가치는 학습 문제, 이론적 근거, 목표에서 결과 측정치로 이어지는 대응 사이의 정합성에 달려 있습니다. [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]]은 감사한 메타분석 14편 중 두 편을 제외한 모두가 처치를 도구, 즉 [[generative-ai|ChatGPT]]나 GenAI 또는 일반적 "AI"로 정의했다는 것을 발견했습니다. 제품 이름은 [[pedagogy]]가 아닙니다. ChatGPT에 대한 노출을 하나의 공통 개입으로 취급하는 것은 "종이"의 효과를 메타분석하는 것과 비슷합니다.
+RAISE에서 교육적 정당화가 먼저인 이유는 AI가 중립적 도구가 아니기 때문입니다. 가치는 학습 문제, 이론적 근거, 목표에서 결과 측정치로 이어지는 대응 사이의 정합성에 달려 있습니다. [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]]은 감사한 메타분석 14편 중 두 편을 제외한 모두가 처치를 도구, 즉 [[generative-ai|ChatGPT]]나 GenAI 또는 일반적 "AI"로 정의했다는 것을 발견했습니다. 제품 이름은 [[pedagogy|교수법]]가 아닙니다. ChatGPT에 대한 노출을 하나의 공통 개입으로 취급하는 것은 "종이"의 효과를 메타분석하는 것과 비슷합니다.
 
 [[weidlich-chatgpt-effect-search-cause-2025|Weidlich 등 (2025)]]은 일차 연구에 대해 같은 논증을 합니다. 저명한 메타분석 배후의 비교들 중 일부를 감사한 결과, 잘 정의된 처치, 통제군, 타당한 학습 측정치를 갖춘 것은 21%뿐이었습니다. 보고된 효과 크기(g = 0.7)는 목적에 맞게 설계된 [[intelligent-tutoring|지능형 튜터링 시스템]]의 효과 크기(0.66)도 넘었고, 그 격차는 경고 신호입니다. 목적에 맞게 설계된 튜터링을 능가하는 처치는 아마 하나의 라벨을 쓰고 있는 서로 다른 것들의 묶음일 것입니다.
 
@@ -61,9 +61,9 @@ RAISE에서 교육적 정당화가 먼저인 이유는 AI가 중립적 도구가
 
 ## 측정치가 어떤 주장을 허용하는지 정하십시오
 
-O'Neill의 46편 무작위 선정 일차 연구 증거 감사에서 28편(61%)이 타당성 우려를 보였습니다. 종속변수 불일치가 가장 흔했고(n = 15), 독립변수 불일치(n = 11), 실험 설계 문제(n = 7), 자료 추출 문제(n = 6), 통제군 부재(n = 6), 무작위 배정이 아닌 집단 배정(n = 6)이 뒤를 이었습니다. 다차원적 결과는 서로 교환 가능한 것처럼 습관적으로 통합되었고, 시험 점수, 숙제 품질, [[motivation]], [[self-efficacy]], 태도, [[student-engagement|참여]]가 하나의 "학업 성취" 숫자로 접혔습니다.
+O'Neill의 46편 무작위 선정 일차 연구 증거 감사에서 28편(61%)이 타당성 우려를 보였습니다. 종속변수 불일치가 가장 흔했고(n = 15), 독립변수 불일치(n = 11), 실험 설계 문제(n = 7), 자료 추출 문제(n = 6), 통제군 부재(n = 6), 무작위 배정이 아닌 집단 배정(n = 6)이 뒤를 이었습니다. 다차원적 결과는 서로 교환 가능한 것처럼 습관적으로 통합되었고, 시험 점수, 숙제 품질, [[motivation|동기]], [[self-efficacy|자기효능감]], 태도, [[student-engagement|참여]]가 하나의 "학업 성취" 숫자로 접혔습니다.
 
-두 가지 보고 습관이 그것을 막습니다. 도구가 어떤 구성개념을 측정하는지, 그리고 그것이 그 모집단에 대해 타당화되었는지를 밝히십시오. [[self-report-measures]]는 지각 기반 측정치가 행동에서 어디서 갈라지는지 보여 주고, [[assessment-validity]]는 구성 타당도를 다룹니다. 그다음 학습자의 도움에 대한 신념에 의존하지 않는 결과를 보고하십시오. 보조 아래의 즉각적 과제 수행은 [[learning-gains|학습 이득]]이 아니며, [[cognitive-offloading|인지적 오프로딩]]이 둘을 가장 그럴듯하게 갈라놓는 메커니즘입니다. [[verification-quality-reliance-calibration-genai-2026|493건의 기록과 14편의 우선순위 연구에 대한 2026년 소규모 고찰]]은 검증 성공과 그에 따른 의존 결정을 독립적으로 판정된 출력 품질 기준에 대조해 함께 측정한 연구가 하나도 없다는 것을, 그리고 즉각적 수행을 넘어 지연된 유지나 [[transfer-of-learning|전이]]까지 본 연구는 거의 없다는 것을 발견했습니다.
+두 가지 보고 습관이 그것을 막습니다. 도구가 어떤 구성개념을 측정하는지, 그리고 그것이 그 모집단에 대해 타당화되었는지를 밝히십시오. [[self-report-measures|자기보고]]는 지각 기반 측정치가 행동에서 어디서 갈라지는지 보여 주고, [[assessment-validity|평가 타당도]]는 구성 타당도를 다룹니다. 그다음 학습자의 도움에 대한 신념에 의존하지 않는 결과를 보고하십시오. 보조 아래의 즉각적 과제 수행은 [[learning-gains|학습 이득]]이 아니며, [[cognitive-offloading|인지적 오프로딩]]이 둘을 가장 그럴듯하게 갈라놓는 메커니즘입니다. [[verification-quality-reliance-calibration-genai-2026|493건의 기록과 14편의 우선순위 연구에 대한 2026년 소규모 고찰]]은 검증 성공과 그에 따른 의존 결정을 독립적으로 판정된 출력 품질 기준에 대조해 함께 측정한 연구가 하나도 없다는 것을, 그리고 즉각적 수행을 넘어 지연된 유지나 [[transfer-of-learning|전이]]까지 본 연구는 거의 없다는 것을 발견했습니다.
 
 한계를 논의 절에서 명시하십시오. 도구를 열어 둔 채 치른 퀴즈를 측정한 연구는 보조된 수행에 관한 주장을 뒷받침할 수 있습니다. 학생들이 무엇을 배웠는지에 관한 주장은 뒷받침할 수 없고, 그 문장은 한 줄이면 됩니다.
 
@@ -85,13 +85,13 @@ O'Neill의 46편 무작위 선정 일차 연구 증거 감사에서 28편(61%)�
 
 ## 자동화된 판단을 검증하십시오
 
-[[ai-ed-evaluation|AIED 평가]]는 점점 더 채점을 모델에 위임하고 있고, 그래서 검증 절차는 부록이 아니라 결과의 일부가 됩니다. Khan Academy는 자사의 [[intelligent-tutoring|AI 튜터]] 지표에 관해, 인지적 참여가 인간 교수법 전문가에 대해 F1 0.83으로 보정된 [[llm]] 판정자에 의해 채점된다는 것과, 그 지표의 변동이 오프라인 평가가 아니라 다섯 달 동안의 40건이 넘는 실시간 실험에서 나왔다는 것을 보고합니다([[ai-tutoring-quality-k12-methodologies-2026|Udeshi 등 2026]]). [[machines-misread-pedagogical-quality|Tseng 등 (2026)]]은 [[formative-assessment|사전 문항]] 품질에 관한 인간-기계 불일치가 무작위가 아니라 체계적이라는 것, 그리고 루브릭의 조작적 정의가 근거 우선 [[prompt-engineering|프롬프팅]]보다 중요하다는 것을 보여 줍니다.
+[[ai-ed-evaluation|AIED 평가]]는 점점 더 채점을 모델에 위임하고 있고, 그래서 검증 절차는 부록이 아니라 결과의 일부가 됩니다. Khan Academy는 자사의 [[intelligent-tutoring|AI 튜터]] 지표에 관해, 인지적 참여가 인간 교수법 전문가에 대해 F1 0.83으로 보정된 [[llm|LLM]] 판정자에 의해 채점된다는 것과, 그 지표의 변동이 오프라인 평가가 아니라 다섯 달 동안의 40건이 넘는 실시간 실험에서 나왔다는 것을 보고합니다([[ai-tutoring-quality-k12-methodologies-2026|Udeshi 등 2026]]). [[machines-misread-pedagogical-quality|Tseng 등 (2026)]]은 [[formative-assessment|사전 문항]] 품질에 관한 인간-기계 불일치가 무작위가 아니라 체계적이라는 것, 그리고 루브릭의 조작적 정의가 근거 우선 [[prompt-engineering|프롬프팅]]보다 중요하다는 것을 보여 줍니다.
 
 인간 코더와의 일치는 품질과 별개의 것이고, 일치를 품질인 것처럼 보고하는 것은 심사자의 표적입니다. [[agreement-not-quality-llm-coding-verification|Liu 등 (2026)]]은 독립적 전문가가 출처를 모르는 상태에서 855쌍의 코드 집합을 판정하게 했습니다. 인간-LLM 일치는 평균 자카드 0.30이었고 인간-인간 일치는 0.52였으며, 맹검 검증자는 인간 코딩과 기계 코딩을 구별할 수 없는 비율로 선호했습니다(51.5% 대 48.5%, p = 0.537). 보정 목표, 기준 표준, 그리고 불일치를 판정한 사람을 보고하십시오. 그 세 항목이 독자로 하여금 자동화된 점수가 얼마나 무게를 실을 수 있는지 판단하게 합니다.
 
 ## 비용과 자신의 사용을 공개하십시오
 
-AIED 2025 학회 논문 전수를 검토한 연구는 공개 없는 LLM 도입의 패턴을 발견했습니다. 대부분의 프로젝트가 LLM을 사용했지만, 자원 소비나 탄소 발자국을 보고한 곳은 손에 꼽을 정도였습니다. 그 논문은 로컬 및 클라우드 하드웨어를 위한 측정 도구를 갖춘 [[open-source|오픈소스]] 방법과, 파라미터 수가 공개되지 않은 프런티어 모델의 계산 비용을 추정하는 공식을 제공합니다. 그 논증은 이런 비용을 보고하지 않는 것 자체가 윤리적 문제라는 것입니다. 데이터 거버넌스, 동의, 접근성, 문화적 적합성은 같은 단락에 속합니다(RAISE 항목, [[universal-design-for-learning]], [[accessibility]]). 더 완전한 논의는 [[equity-ethics-pedagogical-safety-research]]에 있습니다.
+AIED 2025 학회 논문 전수를 검토한 연구는 공개 없는 LLM 도입의 패턴을 발견했습니다. 대부분의 프로젝트가 LLM을 사용했지만, 자원 소비나 탄소 발자국을 보고한 곳은 손에 꼽을 정도였습니다. 그 논문은 로컬 및 클라우드 하드웨어를 위한 측정 도구를 갖춘 [[open-source|오픈소스]] 방법과, 파라미터 수가 공개되지 않은 프런티어 모델의 계산 비용을 추정하는 공식을 제공합니다. 그 논증은 이런 비용을 보고하지 않는 것 자체가 윤리적 문제라는 것입니다. 데이터 거버넌스, 동의, 접근성, 문화적 적합성은 같은 단락에 속합니다(RAISE 항목, [[universal-design-for-learning|보편적 학습 설계]], [[accessibility|접근성]]). 더 완전한 논의는 [[equity-ethics-pedagogical-safety-research]]에 있습니다.
 
 연구 과정에서 여러분 자신의 AI 사용도 같은 공개를 필요로 합니다. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta와 Lin의 PRISMA-LLM 분석]]은 고찰 자동화 논문 888편을 통해 이 보고가 얼마나 고르지 않은지 보여 줍니다. 2023년 이후 소프트웨어 및 제품 논문의 38.0%는 평가를 전혀 보고하지 않았고, LLM 논문은 9.3%였습니다. 평균 보고 충실도는 LLM 논문 6.3, 소프트웨어 및 제품 논문 3.3이었습니다. LLM 사용의 84.1%가 독점 또는 호스팅 시스템에 의존했고, 공개 가중치는 4.9%뿐이었습니다. 그들의 프레임워크는 구현 공개와 결과 민감 평가를 다섯 개의 공개 등급에 걸쳐 분리하며, 이는 고찰 안에서 도구가 무엇을 했는지 서술하는 데 쓸 만한 템플릿입니다.
 
@@ -143,4 +143,4 @@ AIED 2025 학회 논문 전수를 검토한 연구는 공개 없는 LLM 도입�
 
 ## 다음으로 갈 곳
 
-[[research-methods-aied|AI 교육의 연구 방법]]은 이런 보고 결정 아래에 있는 설계 선택을 다루고, [[limitations-in-aied-research|AIEd 연구의 한계]]는 숫자가 붙은 실패 양식의 목록입니다. [[interpreting-and-applying-aied-research|AIEd 연구의 해석과 적용]]은 같은 문제의 독자 쪽이고, [[does-ai-help-students-learn|지속적 학습에 관한 증거]]는 이 측정치들이 대개 도달하려는 대상이며, [[evaluating-ai-interventions-methods]]는 측정치와 비교 설계를 다루고, [[checking-whether-educational-ai-works]]는 같은 질문의 더 짧은 판본입니다. 이 문헌이 채우지 못한 공백은 [[research-gaps-aied]]를 보십시오.
+[[research-methods-aied|AI 교육의 연구 방법]]은 이런 보고 결정 아래에 있는 설계 선택을 다루고, [[limitations-in-aied-research|AIEd 연구의 한계]]는 숫자가 붙은 실패 양식의 목록입니다. [[interpreting-and-applying-aied-research|AIEd 연구의 해석과 적용]]은 같은 문제의 독자 쪽이고, [[does-ai-help-students-learn|지속적 학습에 관한 증거]]는 이 측정치들이 대개 도달하려는 대상이며, [[evaluating-ai-interventions-methods]]는 측정치와 비교 설계를 다루고, [[checking-whether-educational-ai-works]]는 같은 질문의 더 짧은 판본입니다. 이 문헌이 채우지 못한 공백은 [[research-gaps-aied|AIEd 연구 격차]]를 보십시오.

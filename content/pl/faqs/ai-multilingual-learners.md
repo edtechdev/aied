@@ -1,7 +1,7 @@
 ---
 title: "Jak AI może wspierać studentów wielojęzycznych, nie oceniając błędnie ich wiedzy i nie wymazując ich głosu?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:51:00-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
@@ -51,11 +51,11 @@ Zapisz decyzję tam, gdzie studenci mogą ją przeczytać. Jeśli studenci mogą
 
 ## Co wspierają badania, a czego nie
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez i Arabadzhy (2026)]] przejrzeli 24 badania empiryczne nad [[conversational-ai|chatbotami]] generatywnymi w [[language-learning|uczeniu się języków]]. Ich wkład jest taksonomiczny: każda podmożliwość skatalogowana dla chatbotów przedgeneratywnych się utrzymuje, a trzy są nowe, w tym **translanguaging**, świadome przechodzenie między językami jako część uczenia się. To mapa zgłaszanych zastosowań i doświadczeń, a nie zbiorczy szacunek, a korpus jest skoncentrowany geograficznie: Chiny, Iran, Tajwan i Turcja odpowiadają za 19 z 24 badań, a wszystkie poza jednym mieszczą się w instytucjach formalnych. Wsparcie dla używania wyjaśnienia między językami jako ruchu uczenia się nie jest wsparciem dla tłumaczenia każdego zadania.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez i Arabadzhy (2026)]] przejrzeli 24 badania empiryczne nad [[conversational-ai|chatbotami]] generatywnymi w [[language-learning|uczeniu się języków]]. Ich wkład jest taksonomiczny: każda podmożliwość skatalogowana dla chatbotów przedgeneratywnych się utrzymuje, a trzy są nowe, w tym **translanguaging**, świadome przechodzenie między językami jako część uczenia się. To mapa zgłaszanych zastosowań i doświadczeń, a nie zbiorczy szacunek, a badania są skoncentrowane geograficznie: Chiny, Iran, Tajwan i Turcja odpowiadają za 19 z 24 badań, a wszystkie poza jednym mieszczą się w instytucjach formalnych. Wsparcie dla używania wyjaśnienia między językami jako ruchu uczenia się nie jest wsparciem dla tłumaczenia każdego zadania.
 
 Ocenianie to miejsce, gdzie dowody się wyostrzają, a stawka rośnie. [[ai-scoring-language-bias-physics|Feser i Tschisgale (2026)]] porównali jedenaście podejść do automatycznego oceniania z ocenami ludzkich ekspertów dla wyjaśnień fizycznych 116 uczniów szkół średnich i stwierdzili systematyczne niedoszacowanie rozumienia pojęciowego dla wyjaśnień słabszych językowo, w każdym bez wyjątku podejściu. Projekt izoluje mechanizm: ta sama treść pojęciowa wyrażona słabszą prozą została oceniona niżej. To nie jest twierdzenie o wielojęzycznych studentach jakiegokolwiek kraju i jest to dokładnie ten wzorzec, który czyni ogólną zgodność ocen słabą diagnostyką. Oceniający może zgadzać się z ludzkimi oceniającymi średnio, a jednocześnie mylić się w spójnym kierunku wobec studentów, których język dopiero się rozwija.
 
-Synteza [[multilingual-learning]] opisuje badania nad przesiewaniem pisania, które pokazują wielojęzyczne wzorce obciążenia predykcyjnego przypominające ludzkie obciążenia oceniania. Przeczytaj te trzy ustalenia razem, a lekcja operacyjna jest wąska: ani „AI usuwa ludzkie obciążenie”, ani „AI dodaje obciążenie językowe” nie jest użyteczną regułą. Potrzebujesz sprawdzenia zadania, populacji i języka w punkcie, w którym ocena staje się stopniem.
+Synteza [[multilingual-learning|uczenia się wielojęzycznego]] opisuje badania nad przesiewaniem pisania, które pokazują wielojęzyczne wzorce obciążenia predykcyjnego przypominające ludzkie obciążenia oceniania. Przeczytaj te trzy ustalenia razem, a lekcja operacyjna jest wąska: ani „AI usuwa ludzkie obciążenie”, ani „AI dodaje obciążenie językowe” nie jest użyteczną regułą. Potrzebujesz sprawdzenia zadania, populacji i języka w punkcie, w którym ocena staje się stopniem.
 
 ## Daj narzędziu konkretną rolę wspierającą
 
@@ -73,7 +73,7 @@ To zastosowania do pilotażu, a nie zweryfikowane interwencje. Narzędzie, któr
 
 ## Chroń znaczenie i głos studenta
 
-Proś o ukierunkowaną pomoc, zanim poprosisz o przepisanie, bo całe przepisanie to miejsce, w którym myślenie studenta schodzi ze strony. Prośba warta nauczania: „Wskaż dwa miejsca, w których moje znaczenie jest niejasne. Wyjaśnij problem i zaproponuj opcje. Zachowaj moje przykłady i nie dodawaj twierdzeń”. Potem student wybiera.
+Proś o ukierunkowaną pomoc, zanim poprosisz o przepisanie, bo całe przepisanie to miejsce, w którym myślenie studenta schodzi z tekstu. Prośba warta nauczania: „Wskaż dwa miejsca, w których moje znaczenie jest niejasne. Wyjaśnij problem i zaproponuj opcje. Zachowaj moje przykłady i nie dodawaj twierdzeń”. Potem student wybiera.
 
 Sekwencja, która zostawia pracę przy studencie:
 
@@ -120,6 +120,6 @@ Zapewnij wykonalne alternatywy. Studenci potrzebują jasnej drogi do ludzkiego w
 
 ## Dokąd dalej
 
-[[multilingual-learning]] to strona pojęcia dla języka, translanguagingu i oceniania w nauczaniu zapośredniczonym przez AI, a [[assessment-validity|trafność oceniania]] jest standardem dla tego, czy wynik wspiera wnioskowanie, które przeprowadzasz. [[differential-effects-across-learner-groups]] obejmuje to, jak szukać wzorców podgrup, zamiast je zakładać.
+[[multilingual-learning|Uczenie się wielojęzyczne]] to strona pojęcia dla języka, translanguagingu i oceniania w nauczaniu zapośredniczonym przez AI, a [[assessment-validity|trafność oceniania]] jest standardem dla tego, czy wynik wspiera wnioskowanie, które przeprowadzasz. [[differential-effects-across-learner-groups|Zróżnicowane efekty między grupami uczących się]] obejmuje to, jak szukać wzorców podgrup, zamiast je zakładać.
 
 O przypadku nauczania pisania, gdzie język jest konstruktem, zobacz [[writing-instruction-ai-best-practices|najlepsze praktyki nauczania pisania]]. O tym, czy automatycznemu ocenianiu można w ogóle ufać w twoim otoczeniu, zobacz [[ai-grading-fairness-reliability|ocenianie przez AI]] i [[checking-whether-educational-ai-works|sprawdzanie, czy edukacyjna AI działa]].

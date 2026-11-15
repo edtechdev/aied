@@ -11,8 +11,9 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
-translation_of: "faqs/developing-ai-tutor"
-source_updated: "2026-10-28T11:21:07-04:00"
+updated: "2026-11-15T15:48:47-05:00"
+translation_of: faqs/developing-ai-tutor
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -56,7 +57,7 @@ Tre elenchi, scritti prima che qualcuno scelga un modello:
 
 La letteratura sul [[intelligent-tutoring|tutoraggio intelligente]] sostiene che l'efficacia dipende dalla progettazione [[pedagogy|pedagogica]] e non solo dalla capacità del modello, e il fallimento è facile da costruire per caso. Un tutor ottimizzato per «finire il problema» minerà un tutor ottimizzato per «imparare a risolvere il problema» pur superando ogni test funzionale che scrivi, perché entrambi producono risposte finali corrette. La differenza sta in ciò che lo studente ha fatto tra la domanda e la risposta.
 
-Il secondo elenco è il punto in cui i team di sviluppo diventano concreti. Prendi un'etichetta di padronanza come «padronanza delle derivate» e rifiuta che significhi produrre la derivata corretta. Spezzala in: riconoscere quando una derivata è appropriata, interpretarla come tasso di variazione istantaneo, scegliere la regola, eseguire la procedura, spiegare perché la scelta era giusta, controllare la plausibilità e applicarla a un problema non familiare. Ognuna di queste è una cosa separata da registrare, e ognuna implica una risposta diversa quando manca. Questa scomposizione è anche la difesa contro la [[correct-answer-trap-misconceptions|trappola della risposta corretta]], in cui lo studente arriva alla risposta giusta con un ragionamento difettoso e le tue analitiche registrano un successo. [[correct-answer-trap-ai-tutor|Catching the Correct Answer Trap]] e [[zhang-tutormoments-2026|When Help is Unhelpful]] descrivono entrambi versioni di quel fallimento in produzione.
+Il secondo elenco è il punto in cui i team di sviluppo diventano concreti. Prendi un'etichetta di padronanza come «padronanza delle derivate» e rifiuta che significhi produrre la derivata corretta. Spezzala in: riconoscere quando una derivata è appropriata, interpretarla come tasso di variazione istantaneo, scegliere la regola, eseguire la procedura, spiegare perché la scelta era giusta, controllare la plausibilità e applicarla a un problema non familiare. Ognuna di queste è una cosa separata da registrare, e ognuna implica una risposta diversa quando manca. Questa scomposizione è anche la difesa contro la [[correct-answer-trap-misconceptions|trappola della risposta corretta]], in cui lo studente arriva alla risposta giusta con un ragionamento difettoso e le tue [[learning-analytics|analitiche]] registrano un successo. [[correct-answer-trap-ai-tutor|Catching the Correct Answer Trap]] e [[zhang-tutormoments-2026|When Help is Unhelpful]] descrivono entrambi versioni di quel fallimento in produzione.
 
 ## Costruisci il modello dello studente prima della conversazione
 
@@ -116,7 +117,7 @@ Verifica la fuga della risposta, il rafforzamento dei fraintendimenti, l'eccesso
 
 ## Metti l'architettura dei dati nello stesso documento di progettazione
 
-Raccogli solo i dati dello studente pedagogicamente necessari, e sai dire perché esiste ogni campo. Dove conservi memoria persistente o un [[student-modeling|modello dello studente]], rendi il suo scopo visibile allo studente, dagli un controllo adeguato su di esso, proteggi le informazioni sensibili, definisci la conservazione e indirizza le decisioni con conseguenze a un insegnante o a un altro punto di controllo [[human-in-the-loop-ai|umano]]. Un modello dello studente che accumula in silenzio una stima di confidenza che lo studente non vede mai è un problema di protezione dei dati e un problema pedagogico.
+Raccogli solo i dati dello studente pedagogicamente necessari, e sai dire perché esiste ogni campo. Dove conservi memoria persistente o un [[student-modeling|modello dello studente]], rendi il suo scopo visibile allo studente, dagli un controllo adeguato su di esso, proteggi le informazioni sensibili, definisci la conservazione e indirizza le decisioni con conseguenze a un insegnante o a un altro punto di controllo [[human-in-the-loop-ai|umano]]. Un modello dello studente che accumula in silenzio una stima di confidenza che lo studente non vede mai è un problema di [[privacy|protezione dei dati]] e un problema pedagogico.
 
 Verifica il comportamento tra background linguistici, livelli di abilità, contesti culturali, bisogni di [[accessibility|accessibilità]] e livelli di [[prior-knowledge|conoscenza pregressa]] ed esperienza con l'IA. Prestazioni differenziali sullo stesso obiettivo sono un bug con uno studente attaccato, e non compariranno nel tuo numero aggregato di accuratezza.
 
@@ -211,11 +212,11 @@ Il coinvolgimento è l'obiettivo. Lunghezza della conversazione e numero di sess
 
 **«Gli studenti lo adorano e il completamento è salito.»** Entrambi i fatti sono compatibili con un sistema che risponde bene alle domande e non insegna nulla. Lo studio su 6.000 studenti ha trovato progresso più lento e meno domande tentate insieme a una migliore accuratezza, quindi anche un calo del completamento non è automaticamente una cattiva notizia. Riporta la prestazione non assistita accanto ai numeri di coinvolgimento e lascia che i due si contraddicano in pubblico.
 
-**«Non possiamo fare uno studio randomizzato.»** Puoi fare un confronto entro lo stesso studente senza randomizzazione: lo stesso obiettivo, assistito durante l'unità, testato senza assistenza due settimane dopo, con il punteggio assistito riportato accanto. Quella progettazione risponde alla domanda di prodotto e non richiede un braccio di controllo. Quello che non può dirti è il controfattuale per gli studenti che non hanno mai usato il tutor.
+**«Non possiamo fare uno studio [[rct|randomizzato]].»** Puoi fare un confronto entro lo stesso studente senza randomizzazione: lo stesso obiettivo, assistito durante l'unità, testato senza assistenza due settimane dopo, con il punteggio assistito riportato accanto. Quella progettazione risponde alla domanda di prodotto e non richiede un braccio di controllo. Quello che non può dirti è il controfattuale per gli studenti che non hanno mai usato il tutor.
 
-**«Il modello è un'API di un fornitore, quindi il comportamento di aiuto non è nelle nostre mani.»** I gradini vivono nel tuo strato di orchestrazione, e il risultato dell'esperimento sui guardrail è venuto dal cambiare ciò che al tutor era permesso dire, non dal cambiare modello. Aspettati che il post-addestramento del fornitore spinga verso risposte immediate, perché l'utilità è ciò per cui è stato ottimizzato, e metti la moderazione nel tuo codice.
+**«Il modello è un'API di un fornitore, quindi il comportamento di aiuto non è nelle nostre mani.»** I gradini vivono nel tuo strato di orchestrazione, e il risultato dell'esperimento sui guardrail è venuto dal cambiare ciò che al tutor era permesso dire, non dal cambiare modello. Aspettati che il [[llm-training-and-fine-tuning|post-addestramento]] del fornitore spinga verso risposte immediate, perché l'utilità è ciò per cui è stato ottimizzato, e metti la moderazione nel tuo codice.
 
-**«Gli insegnanti non useranno un altro cruscotto.»** Non useranno quello che emette diagnostica continua, che la rassegna K-12 ha trovato distogliere l'attenzione dalla loro osservazione diretta. Dagli un piccolo numero di segnali interpretabili, un modo per accettare o respingere ogni raccomandazione e tempo nella settimana per guardarli.
+**«Gli insegnanti non useranno un altro cruscotto.»** Non useranno quello che emette diagnostica continua, che la rassegna [[k-12|K-12]] ha trovato distogliere l'attenzione dalla loro osservazione diretta. Dagli un piccolo numero di segnali interpretabili, un modo per accettare o respingere ogni raccomandazione e tempo nella settimana per guardarli.
 
 **«Non abbiamo esperti di disciplina in organico.»** Allora il tutor insegnerà metodo generico e la notazione del corso andrà alla deriva entro un semestre. Un esperto di materia per due giorni in fase di progettazione, che scriva l'elenco dei fraintendimenti e l'elenco dei metodi approvati, è la voce più economica del progetto ed è quella che i team tagliano per prima.
 

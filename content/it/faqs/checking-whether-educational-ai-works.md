@@ -1,7 +1,7 @@
 ---
 title: "Come sappiamo che un'IA educativa funziona correttamente e non solo che ottiene buoni punteggi?"
 created: "2026-10-14T21:55:00-04:00"
-connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
 foundations: [ai-education]
@@ -28,8 +28,9 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-translation_of: "faqs/checking-whether-educational-ai-works"
-source_updated: "2026-10-28T11:26:02-04:00"
+updated: "2026-11-15T15:48:26-05:00"
+translation_of: faqs/checking-whether-educational-ai-works
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ---
 
@@ -65,7 +66,7 @@ L'assistente del corso Linear Control Systems lo riporta nel modo giusto. La sua
 
 ## Valuta ogni output separatamente
 
-Nel progetto WrAFT, un modello fine-tuned ha raggiunto un punteggio di accordo di **0,84** con i valutatori umani su 360 saggi TOEFL tenuti fuori dal training. È un risultato forte per la correzione. Il modello dello stesso progetto addestrato a scrivere feedback ha prodotto output troncati e non analizzabili, mentre il semplice prompting di un modello diverso ha prodotto feedback che gli insegnanti preferivano ([[wraft-automated-writing-evaluation-argumentative-2026]]).
+Nel progetto WrAFT, un modello fine-tuned ha raggiunto un punteggio di accordo di **0,84** con i valutatori umani su 360 saggi TOEFL tenuti fuori dal training. È un risultato forte per la correzione. Il modello dello stesso progetto addestrato a scrivere feedback ha prodotto output troncati e non analizzabili, mentre il semplice [[prompt-engineering|prompting]] di un modello diverso ha prodotto feedback che gli insegnanti preferivano ([[wraft-automated-writing-evaluation-argumentative-2026]]).
 
 La knowledge base porta lo stesso fallimento in una seconda forma: un impiego il cui modulo di correzione otteneva buoni punteggi e il cui feedback arrivava tagliato a metà frase e illeggibile. Nulla nel numero di richiamo lo diceva.
 
@@ -91,13 +92,13 @@ Versione pratica: prendi un campione di circa cinquanta output, falli valutare a
 
 La correzione più pulita è addestrare il modello sulla stessa quantità che intendi misurare. Un modello fine-tuned è stato addestrato a riprodurre le proprietà statistiche delle domande dei test: quanto è difficile ciascun item, quanto bene separa gli studenti più forti dai più deboli. Ha imparato quei pattern invece di sentirseli dire ([[multimodal-item-parameter-estimation-2026]]). Poiché l'obiettivo era una proprietà della valutazione stessa, la valutazione del modello poteva riguardare quella proprietà invece della formulazione.
 
-Riporta anche la progressione, non solo il punto di arrivo. Il simulatore di scrittura SWIM ha pubblicato il punteggio di ogni fase fianco a fianco: prompting basato su rubrica **0,577**, fine-tuning **0,474 ± 0,023**, apprendimento per rinforzo **0,618 ± 0,005** ([[swim-student-writing-simulation-2026]]). Da quella tabella un lettore vede se il training ha fatto qualcosa. Un unico numero finale non glielo può dire, e nasconde una fase in cui il modello fine-tuned ha fatto peggio del prompt.
+Riporta anche la progressione, non solo il punto di arrivo. Il [[simulation|simulatore]] di scrittura SWIM ha pubblicato il punteggio di ogni fase fianco a fianco: prompting basato su rubrica **0,577**, fine-tuning **0,474 ± 0,023**, [[reinforcement-learning|apprendimento per rinforzo]] **0,618 ± 0,005** ([[swim-student-writing-simulation-2026]]). Da quella tabella un lettore vede se il training ha fatto qualcosa. Un unico numero finale non glielo può dire, e nasconde una fase in cui il modello fine-tuned ha fatto peggio del prompt.
 
 ## Confronta con qualcosa fuori dal tuo progetto
 
 Ottieni prima una linea di base, anche economica. Il modello dell'assistente del corso senza ancoraggio ha ottenuto meno di una semplice ricerca per parole chiave, che è il tipo di risultato che cambia la roadmap e costa un giorno per scoprirlo.
 
-Un benchmark esterno ti dice poi se il tuo numero vale qualcosa. Sul benchmark pedagogico CDPK, EduQwen ha raggiunto il **96,52%** contro il **90,55%** di Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Il Pedagogy Benchmark, costruito da esami reali di sviluppo professionale degli insegnanti e che copre **97 modelli**, ha trovato un'accuratezza che va dal **28% all'89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
+Un benchmark esterno ti dice poi se il tuo numero vale qualcosa. Sul [[pedagogy|benchmark pedagogico]] CDPK, EduQwen ha raggiunto il **96,52%** contro il **90,55%** di Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Il Pedagogy Benchmark, costruito da esami reali di sviluppo professionale degli [[teacher-role|insegnanti]] e che copre **97 modelli**, ha trovato un'accuratezza che va dal **28% all'89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
 
 Su un compito che riguarda l'insegnamento, i modelli andavano da scarsi a buoni, per cui un risultato di benchmark colloca il tuo sistema da qualche parte dentro un intervallo ampio.
 
@@ -109,7 +110,7 @@ Esegui il controllo su conversazioni complete, e scrivi i turni di prova deliber
 
 ## Verifica lo studente simulato prima di fidarti
 
-Generare studenti simulati invece di reclutarne di reali rende la valutazione molto più economica. Uno studente simulato è anche uno strumento di misura, e può sbagliare nei modi in cui sbagliano gli strumenti: troppo collaborativo, troppo fluente, troppo pronto ad accettare un suggerimento.
+Generare [[simulating-students|studenti simulati]] invece di reclutarne di reali rende la valutazione molto più economica. Uno studente simulato è anche uno strumento di misura, e può sbagliare nei modi in cui sbagliano gli strumenti: troppo collaborativo, troppo fluente, troppo pronto ad accettare un suggerimento.
 
 Il test più diretto nella knowledge base ha messo a confronto studenti simulati e studenti istruiti da prompt con **382 dialoghi tenuti fuori dal training** provenienti dalla più grande raccolta pubblica di dialoghi reali studente-tutor in matematica, usando sette misure che coprono linguaggio, comportamento e pensiero ([[simulated-students-tutoring-dialogues-2026]]). Altri lavori spingono sul realismo da angolazioni diverse: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] addestra i modelli ad agire e a pensare come studenti, e i profili consapevoli della storia condizionano la simulazione sul passato di uno studente invece che su una persona fissa ([[history-aware-student-simulation]]).
 

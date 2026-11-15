@@ -1,7 +1,7 @@
 ---
 title: "Wie lehre ich Studierende, KI-Ausgaben zu verifizieren?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-15T15:44:25-05:00"
 connected_faqs: [incorporating-ai-literacy, study-with-ai, reducing-over-reliance, asynchronous-online-courses-ai]
 weight: 65
 type: faq
@@ -11,7 +11,7 @@ research_method: [experiment, literature review, survey]
 audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
 translation_of: faqs/verify-ai-output
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,7 @@ Verifikation ist eine Abfolge, die Sie in eine Aufgabe einbauen können. Legen S
 
 [[verification-quality-reliance-calibration-genai-2026|Wei und Shang (2026)]] begutachten 493 deduplizierte Datensätze und ordnen 14 vorrangige empirische Studien zu, und sie trennen dabei sieben Dinge, die „kritische KI-Nutzung“ zu einem einzigen zusammenfallen lässt: epistemische Bewertung, Initiierung der Verifikation, Prozessqualität, Verifikationserfolg, Abhängigkeitsentscheidungen, unmittelbare Aufgabenleistung und eigenständiges Lernen. Ihre Rubrik sagt „Quellen geprüft“, und das liegt auf Stufe zwei und sagt Ihnen nichts darüber, ob die Prüfung kompetent war oder ob sie die Antwort der studierenden Person verändert hat. Initiierung ist nicht Erfolg. Ein starkes Vorgehen kann ergebnislos enden, ein schwaches kann auf die richtige Antwort treffen, und eine studierende Person, die eine Suche ausgeführt hat und verwirrt geblieben ist, erhält dieselbe Punktzahl wie eine, die die Frage geklärt hat.
 
-Dieselbe Übersicht zieht eine zweite Linie, die zwischen [[trust]] und Abhängigkeit verläuft. [[trust-calibration|Abhängigkeitskalibrierung]] fragt, ob eine Abhängigkeitsentscheidung angesichts der tatsächlichen Qualität der Ausgabe angemessen war, was das Urteil an eine Entscheidung und eine Ausgabe bindet. Eine begutachtete Studie fand, dass falsche [[generative-ai|ChatGPT]]-Informationen das berichtete Vertrauen der Teilnehmenden verschoben, und hielt nie fest, ob diese später eine bestimmte Empfehlung annahmen oder ablehnten. Eine andere Studie protokollierte Annahme- und Ablehnungsentscheidungen zu ChatGPT-[[feedback]] bei 78 Translationsstudierenden, doch ohne unabhängige Expertenbewertung lässt sich eine Annahme nicht angemessen und eine Ablehnung nicht begründet nennen. Ohne Grundwahrheit über die Qualität der Ausgabe lässt sich Abhängigkeit überhaupt nicht klassifizieren.
+Dieselbe Übersicht zieht eine zweite Linie, die zwischen [[trust|Vertrauen]] und Abhängigkeit verläuft. [[trust-calibration|Abhängigkeitskalibrierung]] fragt, ob eine Abhängigkeitsentscheidung angesichts der tatsächlichen Qualität der Ausgabe angemessen war, was das Urteil an eine Entscheidung und eine Ausgabe bindet. Eine begutachtete Studie fand, dass falsche [[generative-ai|ChatGPT]]-Informationen das berichtete Vertrauen der Teilnehmenden verschoben, und hielt nie fest, ob diese später eine bestimmte Empfehlung annahmen oder ablehnten. Eine andere Studie protokollierte Annahme- und Ablehnungsentscheidungen zu ChatGPT-[[feedback|Rückmeldung]] bei 78 Translationsstudierenden, doch ohne unabhängige Expertenbewertung lässt sich eine Annahme nicht angemessen und eine Ablehnung nicht begründet nennen. Ohne Grundwahrheit über die Qualität der Ausgabe lässt sich Abhängigkeit überhaupt nicht klassifizieren.
 
 Das ist die Designfolge, und es ist das Erste, was zu reparieren ist. Bevor Sie eine Verifikationsaufgabe stellen, schreiben Sie zwei kurze Beschreibungen: wie eine korrekte Ausgabe für diese Aufgabe aussieht, und wie eine plausible, aber falsche Ausgabe aussieht. Je eine reicht. Die Studierenden haben dann einen Maßstab, gegen den sie prüfen können, und Sie haben etwas, woran Sie die Prüfung bewerten können, außer daran, ob die studierende Person sorgfältig klingt.
 
@@ -73,7 +73,7 @@ Autorenfelder scheitern häufiger als jeder andere Teil einer generierten Refere
 
 Gousopoulos formalisiert dieselbe Trennung als Signalerkennungsproblem mit zwei unabhängigen Parametern. Sensitivität ist die Fähigkeit, korrekte von fehlerhafter Ausgabe zu unterscheiden; Kriterium ist, wo die lernende Person die Schwelle für Ablehnung setzt. Überabhängigkeit teilt sich entlang dieser Linie. Warnungen, Checklisten und Halluzinations-Prompts verschieben das Kriterium und verändern, wann eine studierende Person ablehnt. Fachliche Unterweisung, durchgearbeitete Vergleiche und Übung mit eingesäten Fehlern erhöhen die Sensitivität, weil die lernende Person dann unterscheiden kann. Eine studierende Person, die fehlerhafte Ausgabe annimmt, kann ein Kriteriumsproblem oder ein Sensitivitätsproblem haben, und die beiden brauchen unterschiedliche Lehre.
 
-Die Voraussetzung ist unbequem. Verifikationsunterweisung ist nur dort bildend, wo die Sensitivität über null liegen kann, was genug Fachwissen verlangt, um korrekte von falscher Ausgabe zu unterscheiden. In derselben Durchsicht gelang es Novizen, die von einem [[llm]] erzeugten Code erklären sollten, bei etwa einem Drittel der Aufgaben, sodass die Beurteilung von KI-Feedback oder Code gegen das eigene Nachdenken nur dort eine echte Prüfung ist, wo dieses Nachdenken Substanz hat. Wenn Ihre Studierenden das fachliche Denken noch nicht ohne Hilfe leisten können, kaufen weitere Warnungen nichts. Lehren Sie den Inhalt und hängen Sie die Prüfung daran.
+Die Voraussetzung ist unbequem. Verifikationsunterweisung ist nur dort bildend, wo die Sensitivität über null liegen kann, was genug Fachwissen verlangt, um korrekte von falscher Ausgabe zu unterscheiden. In derselben Durchsicht gelang es Novizen, die von einem [[llm|Große Sprachmodelle (LLMs)]] erzeugten Code erklären sollten, bei etwa einem Drittel der Aufgaben, sodass die Beurteilung von KI-Feedback oder Code gegen das eigene Nachdenken nur dort eine echte Prüfung ist, wo dieses Nachdenken Substanz hat. Wenn Ihre Studierenden das fachliche Denken noch nicht ohne Hilfe leisten können, kaufen weitere Warnungen nichts. Lehren Sie den Inhalt und hängen Sie die Prüfung daran.
 
 Eine weitere Warnung gehört ins Design: Interventionen, die unangemessene Annahme verringern, müssen auch darauf geprüft werden, ob sie brauchbare Unterstützung ungewollt zurückweisen. Lassen Sie Raum dafür, dass eine studierende Person gute Ausgabe aus einem genannten Grund annimmt.
 
@@ -151,4 +151,4 @@ Misstrauen Sie dem Gefühl, dass die Prosa sich gut liest. Novizen, die LLM-gene
 
 ## Wohin als Nächstes
 
-[[incorporating-ai-literacy]] behandelt, wie Sie das Verständnis aufbauen, das diese Seite einsetzt, und [[ai-literacy-evidence]] behandelt, was diese Kompetenzarbeit wert ist. [[reducing-over-reliance]] behandelt die Designseite von Studierenden, die sich auf das Werkzeug stützen, [[study-with-ai]] ist der Begleiter für Studierende, und [[asynchronous-online-courses-ai]] behandelt die Version dieses Problems, in der es keine Sitzung gibt, in die sich eine Prüfung legen ließe. Zum Feedback, das Studierende prüfen, siehe [[ai-feedback-quality]] und [[hallucination-risk]].
+[[incorporating-ai-literacy]] behandelt, wie Sie das Verständnis aufbauen, das diese Seite einsetzt, und [[ai-literacy-evidence]] behandelt, was diese Kompetenzarbeit wert ist. [[reducing-over-reliance]] behandelt die Designseite von Studierenden, die sich auf das Werkzeug stützen, [[study-with-ai]] ist der Begleiter für Studierende, und [[asynchronous-online-courses-ai]] behandelt die Version dieses Problems, in der es keine Sitzung gibt, in die sich eine Prüfung legen ließe. Zum Feedback, das Studierende prüfen, siehe [[ai-feedback-quality|Qualität von KI-Feedback]] und [[hallucination-risk|Halluzinationsrisiko]].

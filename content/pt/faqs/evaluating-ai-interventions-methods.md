@@ -1,14 +1,14 @@
 ---
 title: "Que medidas e métodos de pesquisa um instrutor pode usar para avaliar intervenções relacionadas à IA?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T08:28:16-04:00"
+updated: "2026-11-15T15:37:46-05:00"
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -72,7 +72,7 @@ Um ganho pré/pós mostra que a intervenção funcionou. Mostra que as notas sub
 
 Tamanhos de efeito publicados se transferem para a minha turma. As 14 meta-análises de O'Neill não sustentavam as alegações construídas sobre elas, e ambos os intervalos de predição relatados incluíam zero.
 
-Os painéis analíticos da plataforma medem a qualidade do ensino. O agente em terceiro lugar de Zhang ficou em último numa rubrica de especialistas.
+Os [[learning-analytics|painéis analíticos]] da plataforma medem a qualidade do ensino. O agente em terceiro lugar de Zhang ficou em último numa rubrica de especialistas.
 
 ## O que vai voltar contra você
 

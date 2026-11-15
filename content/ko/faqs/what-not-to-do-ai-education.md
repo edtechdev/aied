@@ -1,9 +1,9 @@
 ---
 title: "교육자들은 AI와 관련해 무엇을 피해야 하는가?"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-11T06:20:00-05:00"
+updated: "2026-11-15T15:43:03-05:00"
 type: faq
-connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors]
+connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors, adopting-ai-options-and-issues]
 weight: 90
 foundations: [misconceptions, reducing-ai-misuse, ai-literacy, limitations-in-aied-research]
 pedagogy: [reflection, professional-training]
@@ -12,7 +12,7 @@ assessment: [assessment-validity, ai-detection, self-report-measures, feedback]
 ethics: [privacy, pedagogical-safety, equity-in-ai-education, accessibility, automation-bias]
 audience: [instructors, learners, parents and families, faculty developers, software developers, administrators, researchers]
 translation_of: faqs/what-not-to-do-ai-education
-source_updated: "2026-11-11T06:20:00-05:00"
+source_updated: "2026-11-14T04:30:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -24,25 +24,25 @@ ai_assist:
 
 *영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다.*
 
-교육에서 AI에 관한 지침 대부분은 무엇을 시도할지 서술합니다. 이 페이지는 그 반대의 목록입니다. 근거가 그만두라고 말하는 실천을, 그것을 그만두어야 할 역할별로 정리했습니다. 잘못된 신념은 다른 곳에서 다룹니다. [[addressing-common-misconceptions-ai-education|오해 FAQ]]가 그 역할을 하고, [[misconceptions]] 개념 페이지가 그것이 왜 지속되는지 설명합니다. 연구가 아직 말해 줄 수 없는 것은 [[limitations-in-aied-research|AIEd 연구의 한계]]에서 다룹니다. 여기서 다루는 것은 신념 다음 단계입니다. 사람들이 실제로 무엇을 하고, 그것이 무엇을 치르게 하며, 대신 무엇을 해야 하는가입니다.
+교육에서 AI에 관한 지침 대부분은 무엇을 시도할지 말합니다. 근거가 그만두라고 말하는 실천은 그것을 그만두어야 할 역할별로 정리했습니다. 잘못된 신념은 다른 곳에서 다룹니다. [[addressing-common-misconceptions-ai-education|오해 FAQ]]가 그 역할을 하고, [[misconceptions|오해]] 개념 페이지가 그것이 왜 지속되는지 설명합니다. 연구가 아직 말해 줄 수 없는 것은 [[limitations-in-aied-research|AIEd 연구의 한계]]에 속합니다. 이어지는 내용은 사람들이 실제로 무엇을 하고, 그것이 무엇을 치르게 하며, 대신 무엇을 해야 하는가입니다.
 
 세 가지 실패가 모든 역할에서 되풀이됩니다.
 
-1. **대체.** 도구가 학습자가 해야 할 사고를 대신 수행하고, 그 산출물은 학습자가 한 것처럼 채점됩니다. 제출된 에세이는 모델이 무엇을 할 수 있는지를 기록할 뿐, 학생이 무엇을 할 수 있는지를 기록하지 않습니다.
-2. **값싸게 얻은 증거.** 자신감, 유창성, 참여, 완료율처럼 수집하기 쉬운 신호가 그것이 보여 줄 수 없는 것의 증거로 취급됩니다. 대시보드는 개인 교습 세션에 40분을 보냈다고 보고할 수 있지만, 누군가 이차방정식을 배웠는지는 보고할 수 없습니다.
-3. **호소에 맡긴 구조.** 경고, 정책 문장, 교육 한 번이 인터페이스 설계, 평가 설계, 거버넌스가 해야 할 일을 대신하도록 요구받습니다. 강의계획서에는 책임 있게 AI를 사용하라고 적혀 있지만, 튜터는 첫 프롬프트에서 완성된 답을 건넵니다.
+1. **도구가 사고를 대신합니다.** 학습자가 무언가를 풀어 내야 하는데 도구가 그 부분을 대신하고, 결과는 학습자 자신의 것처럼 채점됩니다. 제출된 에세이는 학생이 무엇을 할 수 있는지가 아니라 모델이 무엇을 할 수 있는지를 보여 줍니다.
+2. **학습을 보여 주지 않는 숫자.** 자신감, 유창성, 참여, 완료율처럼 세기 쉬운 것이 학습이 일어났다는 증거로 취급됩니다. 대시보드는 개인 교습 세션에 40분을 보냈다고 보여 줄 수 있습니다. 누군가 이차방정식을 배웠는지는 보여 줄 수 없습니다.
+3. **설정이 해야 할 일을 규칙에 맡기는 것.** 경고, 강의계획서의 한 문장, 교육 한 번이 과제, 소프트웨어, 정책만이 할 수 있는 일을 대신하도록 요구받습니다. 강의계획서에는 책임 있게 AI를 사용하라고 적혀 있지만, 과제는 여전히 챗봇이 1분 만에 끝낼 수 있고, 튜터는 첫 프롬프트에서 완성된 답을 건넵니다. 사람들에게 다르게 행동하라고 말하는 것은 과제나 도구가 허용하는 것을 바꾸지 못합니다.
 
 ## 요약
 
-**1.** 산출물을 그것을 만들어 낸 역량의 증거로 채점하거나, 인용하거나, 홍보하지 마십시오.
+**1.** 도구가 만든 것을 학생이 만든 것처럼 채점하거나, 인용하거나, 홍보하지 마십시오.
 
-**2.** 매번 보조를 받은 측정치와 함께 보조 없는 측정치를 수집하십시오.
+**2.** 학생이 도구와 함께 무엇을 할 수 있는지 옆에, 도구 없이 무엇을 할 수 있는지를 측정하십시오.
 
 **3.** 유창성, 자신감, 참여를 학습이 아니라 사용의 특성으로 다루십시오.
 
-**4.** 안전장치는 경고가 아니라 작업 흐름 안에 두십시오.
+**4.** 안전장치는 경고가 아니라 과제나 소프트웨어 안에 두십시오.
 
-**5.** 도구가 볼 수 있는 데이터는 보관되고, 결합되고, 유출될 것이라고 가정하십시오.
+**5.** 도구가 볼 수 있는 것은 무엇이든 저장되고, 다른 데이터와 결합되고, 결국 유출될 것이라고 가정하십시오.
 
 **6.** 주장에 시연은 있고 비교는 없다면, 그것은 마케팅입니다.
 
@@ -157,8 +157,8 @@ ai_assist:
 ## 다음에 볼 곳
 
 - [[addressing-common-misconceptions-ai-education]]: 이 실천들 뒤에 있는 신념, 그리고 훈계조 없이 그것을 교정하는 방법.
-- [[limitations-in-aied-research]]: 근거 기반이 아직 뒷받침할 수 없는 것.
-- [[reducing-ai-misuse]]: 오용에 대한 구조적 지렛대, 그리고 그것이 호소를 이기는 이유.
-- [[pedagogical-safety]]: 모든 콘텐츠 점검을 통과하면서도 튜터가 학습자에게 할 수 있는 것.
+- [[limitations-in-aied-research|AIEd 연구의 한계]]: 근거 기반이 아직 뒷받침할 수 없는 것.
+- [[reducing-ai-misuse|AI 오용 줄이기]]: 오용을 막는 과제와 소프트웨어의 변화, 그리고 그것이 상기시키기보다 나은 이유.
+- [[pedagogical-safety|교수법적 안전]]: 모든 콘텐츠 점검을 통과하면서도 튜터가 학습자에게 할 수 있는 것.
 - [[should-we-use-ai-detectors]]: 탐지기 근거의 전모.
 - [[checking-whether-educational-ai-works]]: 도입 전에 주장을 평가하는 방법.

@@ -14,9 +14,9 @@ discipline: [writing education]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T14:57:55-04:00"
+updated: "2026-11-15T15:46:36-05:00"
 translation_of: faqs/making-ai-better-at-supporting-learning
-source_updated: "2026-10-28T11:21:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,7 @@ Training is echt en soms nodig. Het is het derde of vierde ding dat u probeert, 
 
 Voordat u iets verandert, logt u wat een gewone prompt teruggeeft. Log daarna wat een triviale methode teruggeeft.
 
-De studie naar de [[shen-sustainable-ai-knowledge-base-cs-education-2026|cursuskennisbankassistent]] is alleen hierom al het lezen waard. Een lokaal LLM zonder retrieval haalde **52,3%** nauwkeurigheid. Een TF-IDF-baseline, een lexicale methode van decennia oud, haalde **55,4%**. Het model was slechter dan de klassieke methode.
+De studie naar de [[shen-sustainable-ai-knowledge-base-cs-education-2026|cursuskennisbankassistent]] is alleen hierom al het lezen waard. Een lokaal [[llm|LLM]] zonder retrieval haalde **52,3%** nauwkeurigheid. Een TF-IDF-baseline, een lexicale methode van decennia oud, haalde **55,4%**. Het model was slechter dan de klassieke methode.
 
 Sla deze stap over en u kunt niet zeggen of uw fine-tune hielp. Erger nog, u kunt een systeem uitleveren dat een zoekopdracht op trefwoorden verslaat en dat pas ontdekken wanneer een assistent het ter sprake brengt. Twee getallen in een spreadsheet, in een middag verzameld, beschermen de rest van het budget.
 
@@ -60,9 +60,9 @@ Sla deze stap over en u kunt niet zeggen of uw fine-tune hielp. Erger nog, u kun
 
 Het toevoegen van [[rag|retrieval-augmented generation]] over de cursusmaterialen, zonder enige fine-tuning, tilde datzelfde systeem van 52,3% naar **66,6%**. Die winst kwam uit een index, en ze komt met een eigenschap die een trainingsrun niet heeft: wanneer uw documenten veranderen, herindexeert u.
 
-Twee andere resultaten wijzen dezelfde kant op. Een PRISMA-review van 23 empirische studies naar het aanpassen van AI voor [[writing-education|schrijfonderwijs]] vond **prompt engineering dominant (N = 13), vóór fine-tuning (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Waar een kennisbank actueel moet blijven, is retrieval de enige hendel die actueel blijft zonder een trainingsklus opnieuw te draaien.
+Twee andere resultaten wijzen dezelfde kant op. Een [[meta-analysis-systematic-review|PRISMA]]-review van 23 empirische studies naar het aanpassen van AI voor [[writing-education|schrijfonderwijs]] vond **[[prompt-engineering|prompt engineering]] dominant (N = 13), vóór fine-tuning (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Waar een kennisbank actueel moet blijven, is retrieval de enige hendel die actueel blijft zonder een trainingsklus opnieuw te draaien.
 
-Retrieval heeft ook een pedagogische vorm. Een model gronden in uw eigen uitgewerkte voorbeelden en rubrieken is hoe het binnen de [[scaffolding|scaffolding die u hebt ontworpen]] blijft, antwoordend op het niveau dat u hebt gezet in plaats van af te drijven naar algemeen advies. Die afwijking is de meest gehoorde klacht over kant-en-klare tutoren, en het is vaker een retrievalprobleem dan een gewichtenprobleem.
+Retrieval heeft ook een [[pedagogy|pedagogische]] vorm. Een model gronden in uw eigen uitgewerkte voorbeelden en rubrieken is hoe het binnen de [[scaffolding|scaffolding die u hebt ontworpen]] blijft, antwoordend op het niveau dat u hebt gezet in plaats van af te drijven naar algemeen advies. Die afwijking is de meest gehoorde klacht over kant-en-klare tutoren, en het is vaker een retrievalprobleem dan een gewichtenprobleem.
 
 ## Schrijf de prompt tegen uw rubriek, en let op het plateau
 
@@ -79,9 +79,9 @@ Let op wat het resultaat over itembouw impliceert voor de volgorde. De fine-tune
 
 Aanpassing loont wanneer u wilt dat het model een eigenschap betrouwbaar vasthoudt: een leesniveau, een uitvoerformaat, een domein dat het mist. De terugkerende bevinding is dat **gerichtheid het wint van omvang**.
 
-- Drie **8B**-modellen die waren fine-getuned op een door experts ontworpen leescurriculum voor kinderen presteerden beter dan zero-shot GPT-4o en Llama 3.3 70B op moeilijkheidsgerelateerde maten, met verwaarloosbare veiligheidsproblemen. De auteurs noemen dit **beheersbaarheid boven schaal** ([[llm-children-reading-story-generation]]).
+- Drie **8B**-modellen die waren fine-getuned op een door experts ontworpen [[curriculum-design|leescurriculum]] voor kinderen presteerden beter dan zero-shot GPT-4o en Llama 3.3 70B op moeilijkheidsgerelateerde maten, met verwaarloosbare veiligheidsproblemen. De auteurs noemen dit **beheersbaarheid boven schaal** ([[llm-children-reading-story-generation]]).
 - Een instructiedataset van **24.795 voorbeelden**, gegrond in Indiase kennissystemen, leverde een **7B**-fine-tune op die **6,39** scoorde bij een extern panel van vijf beoordelaars, binnen **0,15** van een sterk algemeen referentiemodel tegen een fractie van de uitrolkosten. Hetzelfde basismodel scoorde **bijna nul op domeinspecifieke dimensies** zonder de fine-tune ([[iks-instruct-dataset-indian-knowledge]]). Die kloof tussen algemeen bekwaam en hier bekwaam is de hele zaak voor domeinaanpassing.
-- Een enkele [[llm-training-and-fine-tuning|LoRA]]-adapter, getraind op ongeveer **3.900** samengevoegde beoordeelde voorbeelden, bracht vijf kleine open modellen (4B tot 30B) op het niveau van of beter dan een menselijke beoordelaar bij twee informatica-examens ([[llm-graders-computer-science-exams-2026]]). Eén adapter, één dataset, meerdere basismodellen: dat is de vorm van uitrol die een klein team kan draaien.
+- Een enkele [[llm-training-and-fine-tuning|LoRA]]-adapter, getraind op ongeveer **3.900** samengevoegde beoordeelde voorbeelden, bracht vijf kleine [[open-source|open modellen]] (4B tot 30B) op het niveau van of beter dan een menselijke beoordelaar bij twee informatica-examens ([[llm-graders-computer-science-exams-2026]]). Eén adapter, één dataset, meerdere basismodellen: dat is de vorm van uitrol die een klein team kan draaien.
 
 Het woord *stabiel* in de kop draagt het gewicht. Formaat, rubriek, leesniveau en domeinwoordenschat zijn stabiele doelen. Proza vol oordeel heeft zo'n doel niet, en daar faalt aanpassing, zoals de volgende twee secties laten zien.
 
@@ -89,7 +89,7 @@ Het woord *stabiel* in de kop draagt het gewicht. Formaat, rubriek, leesniveau e
 
 Aanpassing leert een model *wat het moet produceren*. Natraining leert het *hoe het zich moet gedragen*. Voor tutoring is dat onderscheid het hele probleem: algemene modellen zijn nagetraind op menselijke voorkeur voor behulpzaamheid, wat betekent snel antwoorden, en onderwijzen vereist het antwoord achterhouden.
 
-De sterkste onderwijskundige resultaten in dit corpus zitten hier. Het beloningsmodel van EduQwen gaf expliciet prioriteit aan **sturende reacties boven directe antwoorden**, en de drietrapspijplijn haalde **96,52%** op de CDPK-benchmark tegen **90,55%** van Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). De schrijfsimulator van SWIM ging van op de rubriek gegronde prompting (beste QWK **0,577**) naar supervised fine-tuning (**0,474 ± 0,023**) naar reinforcement learning (**0,618 ± 0,005**) over elk kenmerk en elke prompt ([[swim-student-writing-simulation-2026]]).
+De sterkste onderwijskundige resultaten in dit corpus zitten hier. Het beloningsmodel van EduQwen gaf expliciet prioriteit aan **sturende reacties boven directe antwoorden**, en de drietrapspijplijn haalde **96,52%** op de CDPK-benchmark tegen **90,55%** van Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). De [[simulation|schrijfsimulator]] van SWIM ging van op de rubriek gegronde prompting (beste QWK **0,577**) naar supervised fine-tuning (**0,474 ± 0,023**) naar [[reinforcement-learning|reinforcement learning]] (**0,618 ± 0,005**) over elk kenmerk en elke prompt ([[swim-student-writing-simulation-2026]]).
 
 Lees de SWIM-getallen zorgvuldig, want de middelste stap ging achteruit. Supervised fine-tuning op demonstraties maakte de simulator slechter dan de prompt waarmee hij begon, en alleen het beloningssignaal herstelde het verlies en versloeg daarna de baseline. Als uw plan stopt bij supervised fine-tuning, is het plan misschien een omweg.
 
@@ -125,7 +125,7 @@ De kosten die u gemakkelijk onderschat is de evaluatie, en die is groter dan de 
 
 ## Kalibreer wat u verwacht
 
-Model- en promptkeuze samen verklaren slechts ongeveer **15%** van de misuitlijning tussen LLM's en leerwinst van studenten, en in die studie maakten benchmarkweging en ensembles met unanimiteit-stemming de uitlijning *slechter* ([[educational-llm-alignment]]). Pretrainingsdata is de dominante hendel op hoe een model zich gedraagt, en het is de enige hendel die u niet kunt overhalen.
+Model- en promptkeuze samen verklaren slechts ongeveer **15%** van de misuitlijning tussen LLM's en [[learning-gains|leerwinst]] van studenten, en in die studie maakten benchmarkweging en ensembles met unanimiteit-stemming de uitlijning *slechter* ([[educational-llm-alignment]]). Pretrainingsdata is de dominante hendel op hoe een model zich gedraagt, en het is de enige hendel die u niet kunt overhalen.
 
 Niets daarvan pleit tegen het werk hierboven. Het pleit tegen de verwachting dat een fine-tune een ontwerpprobleem oplost. Als het probleem is dat uw tutor te graag antwoordt, kan training dat aanpakken. Als het probleem is dat uw lerenden zich er niet mee bezighouden, doet training dat niet, en het getal van 15% zegt dat het geld elders beter is besteed.
 

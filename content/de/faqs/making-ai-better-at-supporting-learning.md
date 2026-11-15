@@ -1,7 +1,7 @@
 ---
 title: "Wie können wir KI darin besser machen, Lernen in unserem eigenen Fach zu unterstützen?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-15T15:44:25-05:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, developing-ai-tutor, designing-educational-ai-software]
 weight: 74
 type: faq
@@ -16,7 +16,7 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: faqs/making-ai-better-at-supporting-learning
-source_updated: "2026-10-28T11:21:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -173,4 +173,4 @@ Ein Rezept, das auf einem Modell funktionierte, funktioniert auch auf dem nächs
 
 ## Wohin als Nächstes
 
-[[training-ai-tutors-to-guide-rather-than-answer|Wie trainieren wir einen KI-Tutor so, dass er Studierende anleitet, statt ihnen zu antworten?]] behandelt die Hälfte des Nachtrainings im Detail. [[checking-whether-educational-ai-works|Woran erkennen wir, ob eine KI in der Bildung korrekt arbeitet?]] behandelt, wie man erkennt, ob irgendetwas davon gewirkt hat. [[developing-ai-tutor|Was sind Best Practices für die Entwicklung eines wirksamen KI-Tutors?]] ist die Interaktionsdesign-Seite desselben Ziels, und [[designing-educational-ai-software|Was sind Best Practices für das Design von Bildungssoftware mit KI?]] behandelt das umgebende System. Die vollständige Konzeptseite ist [[llm-training-and-fine-tuning]].
+[[training-ai-tutors-to-guide-rather-than-answer|Wie trainieren wir einen KI-Tutor so, dass er Studierende anleitet, statt ihnen zu antworten?]] behandelt die Hälfte des Nachtrainings im Detail. [[checking-whether-educational-ai-works|Woran erkennen wir, ob eine KI in der Bildung korrekt arbeitet?]] behandelt, wie man erkennt, ob irgendetwas davon gewirkt hat. [[developing-ai-tutor|Was sind Best Practices für die Entwicklung eines wirksamen KI-Tutors?]] ist die Interaktionsdesign-Seite desselben Ziels, und [[designing-educational-ai-software|Was sind Best Practices für das Design von Bildungssoftware mit KI?]] behandelt das umgebende System. Die vollständige Konzeptseite ist [[llm-training-and-fine-tuning|LLM-Training und Feinabstimmung]].

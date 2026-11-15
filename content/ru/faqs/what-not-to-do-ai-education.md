@@ -1,9 +1,9 @@
 ---
 title: "Чего педагогам следует избегать в работе с ИИ?"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-11T06:20:00-05:00"
+updated: "2026-11-15T15:42:28-05:00"
 type: faq
-connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors]
+connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors, adopting-ai-options-and-issues]
 weight: 90
 foundations: [misconceptions, reducing-ai-misuse, ai-literacy, limitations-in-aied-research]
 pedagogy: [reflection, professional-training]
@@ -12,7 +12,7 @@ assessment: [assessment-validity, ai-detection, self-report-measures, feedback]
 ethics: [privacy, pedagogical-safety, equity-in-ai-education, accessibility, automation-bias]
 audience: [instructors, learners, parents and families, faculty developers, software developers, administrators, researchers]
 translation_of: faqs/what-not-to-do-ai-education
-source_updated: "2026-11-11T06:20:00-05:00"
+source_updated: "2026-11-14T04:30:00-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
@@ -157,8 +157,8 @@ ai_assist:
 ## Куда идти дальше
 
 - [[addressing-common-misconceptions-ai-education]]: убеждения, стоящие за этими практиками, и как исправлять их без снисходительности.
-- [[limitations-in-aied-research]]: что доказательная база пока не может поддержать.
-- [[reducing-ai-misuse]]: структурные рычаги против недобросовестного использования и почему они лучше увещевания.
-- [[pedagogical-safety]]: что репетитор может сделать с обучающимся, проходя при этом все проверки содержания.
+- [[limitations-in-aied-research|Ограничения исследований ИИ в образовании]]: что доказательная база пока не может поддержать.
+- [[reducing-ai-misuse|Снижение злоупотреблений ИИ]]: структурные рычаги против недобросовестного использования и почему они лучше увещевания.
+- [[pedagogical-safety|Педагогическая безопасность]]: что репетитор может сделать с обучающимся, проходя при этом все проверки содержания.
 - [[should-we-use-ai-detectors]]: доказательства о детекторах в полном виде.
 - [[checking-whether-educational-ai-works]]: как оценить утверждение до того, как вы его примете.

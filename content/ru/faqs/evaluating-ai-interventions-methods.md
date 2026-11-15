@@ -1,13 +1,14 @@
 ---
 title: "Какие измерения и методы исследования может использовать преподаватель для оценки ИИ-интервенций?"
 created: "2026-10-13T21:30:00-04:00"
+updated: "2026-11-15T15:52:51-05:00"
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:
@@ -71,7 +72,7 @@ ai_assist:
 
 Опубликованные размеры эффекта переносятся на мою группу. 14 метаанализов O'Neill не смогли обосновать построенные на них утверждения, и оба сообщённых интервала предсказания включали ноль.
 
-Аналитика платформы измеряет качество преподавания. Агент Zhang, занявший третье место, оказался последним по экспертной рубрике.
+[[learning-analytics|Аналитика платформы]] измеряет качество преподавания. Агент Zhang, занявший третье место, оказался последним по экспертной рубрике.
 
 ## Возражения, которые вы услышите
 

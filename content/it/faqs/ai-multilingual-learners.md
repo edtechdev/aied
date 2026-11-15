@@ -1,7 +1,7 @@
 ---
 title: "Come può l'IA sostenere gli studenti multilingui senza fraintendere le loro conoscenze o cancellare la loro voce?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:40:11-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
@@ -51,7 +51,7 @@ Scrivi la decisione dove gli studenti possono leggerla. Se gli studenti possono 
 
 ## Cosa sostiene la ricerca e cosa no
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez e Arabadzhy (2026)]] hanno passato in rassegna 24 studi empirici sui [[conversational-ai|chatbot]] generativi nell'[[language-learning|apprendimento delle lingue]]. Il loro contributo è tassonomico: ogni sotto-funzionalità catalogata per i chatbot pre-generativi persiste, e tre sono nuove, tra cui il **translanguaging**, il passaggio deliberato tra lingue come parte dell'apprendimento. È una mappa di usi ed esperienze riportati, non una stima aggregata, e il corpus è concentrato geograficamente, con Cina, Iran, Taiwan e Turchia che coprono 19 dei 24 studi e tutti tranne uno ambientati dentro istituzioni formali. Il sostegno all'uso della spiegazione interlinguistica come mossa di apprendimento non è un sostegno alla traduzione di ogni compito.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez e Arabadzhy (2026)]] hanno passato in rassegna 24 studi empirici sui [[conversational-ai|chatbot]] generativi nell'[[language-learning|apprendimento delle lingue]]. Il loro contributo è tassonomico: ogni sotto-funzionalità catalogata per i chatbot pre-generativi persiste, e tre sono nuove, tra cui il **translanguaging**, il passaggio deliberato tra lingue come parte dell'apprendimento. È una mappa di usi ed esperienze riportati, non una stima aggregata, e gli studi sono concentrati geograficamente, con Cina, Iran, Taiwan e Turchia che coprono 19 dei 24 studi e tutti tranne uno ambientati dentro istituzioni formali. Il sostegno all'uso della spiegazione interlinguistica come mossa di apprendimento non è un sostegno alla traduzione di ogni compito.
 
 La valutazione è il punto in cui l'evidenza si fa più netta e la posta in gioco sale. [[ai-scoring-language-bias-physics|Feser e Tschisgale (2026)]] hanno confrontato undici approcci di valutazione automatizzata con punteggi di esperti umani su spiegazioni di fisica di 116 studenti delle scuole secondarie e hanno trovato una sottostima sistematica della comprensione concettuale per le spiegazioni linguisticamente più deboli, in ognuno degli approcci. Il disegno isola il meccanismo: lo stesso contenuto concettuale, espresso in una prosa più debole, otteneva un punteggio inferiore. Non è un'affermazione sugli studenti multilingui di un paese particolare, ed è esattamente il pattern che rende l'accordo complessivo di punteggio una diagnosi scarsa. Un valutatore può concordare in media con i correttori umani sbagliando in una direzione coerente per gli studenti la cui lingua è ancora in sviluppo.
 
@@ -73,7 +73,7 @@ Questi sono usi da sperimentare, non interventi validati. Uno strumento che funz
 
 ## Proteggi il significato e la voce dello studente
 
-Chiedi aiuto mirato prima di chiedere una riscrittura, perché è nella riscrittura completa che il pensiero dello studente esce dalla pagina. Una richiesta che vale la pena insegnare: «Individua due punti in cui il mio significato non è chiaro. Spiega il problema e offri opzioni. Mantieni i miei esempi e non aggiungere affermazioni.» Poi sceglie lo studente.
+Chiedi aiuto mirato prima di chiedere una riscrittura, perché è nella riscrittura completa che il pensiero dello studente esce dalla bozza. Una richiesta che vale la pena insegnare: «Individua due punti in cui il mio significato non è chiaro. Spiega il problema e offri opzioni. Mantieni i miei esempi e non aggiungere affermazioni.» Poi sceglie lo studente.
 
 Una sequenza che lascia il lavoro allo studente:
 

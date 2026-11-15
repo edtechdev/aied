@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
 audience: [instructors, instructional designers]
-updated: "2026-10-29T14:58:40-04:00"
+updated: "2026-11-15T15:46:36-05:00"
 translation_of: faqs/incorporating-ai-literacy
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ De kern: voeg een stap toe aan werk dat u al beoordeelt, waarin studenten zich e
 
 ## Voeg geen les toe, voeg een stap toe aan werk dat u al beoordeelt
 
-De standaardbeweging van instellingen is een losse module, meestal vroeg in het blok, over hoe grote taalmodellen werken en hoe u prompts schrijft. De [[ai-literacy]]-synthese pleit voor een andere ordening: studenten ontwikkelen bruikbaardere geletterdheid wanneer ze AI binnen authentieke cursustaken gebruiken, bevragen, verifiëren, bekritiseren en er beslissingen over nemen, herhaaldelijk. De beweging naar kritische evaluatie is het duidelijkst waar die ervaringen aanhoudend en ingebed zijn in plaats van eenmalig aangeboden ([[ai-literacy-continuum-higher-education|Een praktisch continuüm van vijf stadia voor AI-geletterdheid in het hoger onderwijs]]).
+De standaardbeweging van instellingen is een losse module, meestal vroeg in het blok, over hoe [[llm|grote taalmodellen]] werken en hoe u prompts schrijft. De [[ai-literacy]]-synthese pleit voor een andere ordening: studenten ontwikkelen bruikbaardere geletterdheid wanneer ze AI binnen authentieke cursustaken gebruiken, bevragen, verifiëren, bekritiseren en er beslissingen over nemen, herhaaldelijk. De beweging naar kritische evaluatie is het duidelijkst waar die ervaringen aanhoudend en ingebed zijn in plaats van eenmalig aangeboden ([[ai-literacy-continuum-higher-education|Een praktisch continuüm van vijf stadia voor AI-geletterdheid in het hoger onderwijs]]).
 
 Het [[quantitative-research|kwantitatieve]] bewijs wijst dezelfde kant op. Een [[liu-ai-literacy-interventions-meta-analysis-2026|meta-analyse van 59 interventies voor AI-geletterdheid]] vond de grootste effecten voor geïntegreerde en reflectieve pedagogieken. Ze waarschuwt ook dat kennisgerichte interventies grotere *gemeten* effecten laten zien dan interventies die op vaardigheden, houdingen of ethiek gericht zijn. Houd dat in gedachten wanneer u kiest wat u meet.
 
@@ -79,11 +79,11 @@ U hoeft het ontwerp niet te bedenken. Verschillende zijn gedocumenteerd, en elk 
 
 Economiestudenten lossen eerst een probleem op, vragen een GenAI-antwoord, vergelijken dat met hun eigen redenering, bekritiseren de AI, reflecteren en bespreken dan met medestudenten ([[beck-genai-literacy-economics-hands-on|Generatieve AI-geletterdheid in economie bevorderen]]).
 
-Psychologiestudenten evalueren een door ChatGPT gegenereerd persbericht tegen een cursusrubriek, benoemen de zwakke punten en herzien het, wat disciplinaire en feedbackgeletterdheid in dezelfde taak ontwikkelt ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Generatieve AI gebruiken om psychologische, feedback- en AI-geletterdheid te bevorderen]]).
+Psychologiestudenten evalueren een door ChatGPT gegenereerd persbericht tegen een cursusrubriek, benoemen de zwakke punten en herzien het, wat disciplinaire en [[feedback-literacy|feedbackgeletterdheid]] in dezelfde taak ontwikkelt ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Generatieve AI gebruiken om psychologische, feedback- en AI-geletterdheid te bevorderen]]).
 
 Biologie integreert de activiteiten in disciplinair leren in plaats van een apart technisch onderwerp te onderwijzen ([[zha-ai-literacy-biology-case-study|AI-geletterdheid integreren in een biologieles]]). Cursuswerk voor databases en ontwerp gebruikt faalanalyse als leeractiviteit, waarbij studenten door AI gegenereerde fouten analyseren en itereren op prompts en oplossingen ([[pedagogy-ai-mistakes|De pedagogiek van AI-fouten]]). Het LearnAI-model bedt just-in-time AI-cocreatie in over disciplines heen in plaats van één generieke module te draaien ([[learnai-just-in-time-ai-cocreation-university-2026|LearnAI: just-in-time AI-cocreatie over disciplines heen]]).
 
-Eén waarschuwing komt met een getal. Een herontworpen inleidende cursus deeltjesfysica stond generatieve AI toe als expliciete partner bij onderzoekvormige problemen, en een onondersteund schriftelijk tentamen leverde een gemiddelde op van 20,6 van de 80, waarbij slechts twee studenten 40 haalden ([[ai-particle-physics-education-redesign-2026|AI in het deeltjesfysicaonderwijs]]). Ondersteunde prestatie en zelfstandig oproepbare kennis zijn verschillende prestaties. De auteurs pleiten voor het vroeg onderwijzen van AI-geletterdheid, inclusief verificatie en het behandelen van AI als leraar in plaats van als kopieerapparaat, naast toegewijde onondersteunde oefening. [[physics-education|Natuurkundeonderwijs]] heeft het vollediger dossier.
+Eén waarschuwing komt met een getal. Een herontworpen inleidende cursus deeltjesfysica stond generatieve AI toe als expliciete partner bij onderzoekvormige problemen, en een onondersteund schriftelijk tentamen leverde een gemiddelde op van 20,6 van de 80, waarbij slechts twee studenten 40 haalden ([[ai-particle-physics-education-redesign-2026|AI in het deeltjesfysicaonderwijs]]). Ondersteunde prestatie en zelfstandig oproepbare kennis zijn verschillende prestaties. De auteurs pleiten voor het vroeg onderwijzen van AI-geletterdheid, inclusief verificatie en het behandelen van AI als [[teacher-role|leraar]] in plaats van als kopieerapparaat, naast toegewijde onondersteunde oefening. [[physics-education|Natuurkundeonderwijs]] heeft het vollediger dossier.
 
 Er is ook een versie waarin studenten iets maken voor een echt publiek. Burriss et al. lieten 22 leerlingen uit het elfde leerjaar videopublieksvoorlichtingen maken over de AI-[[ethics]]kwesties die zij meemaakten: schooltoezicht, elektronische „pasjes” en beschuldigingen van algoritmisch [[academic-integrity|plagiaat]]. De eenheid putte uit Critical Posthumanist Literacy en [[multimodal|multimodale compositie]]. Studenten portretteerden schade als voortkomend uit verstrengelde mens-machineverantwoordelijkheid in plaats van uit een schurkachtige tool, keerden het fraudeverhaal om richting het overmatige vertrouwen van volwassenen op foutieve AI, en sloten af op [[agency]] („de oplossing is binnen ons bereik”). De auteurs plaatsen [[storytelling-in-education|storytelling]] en collaboratieve productie in het centrum van [[critical-pedagogy|kritische AI-geletterdheidspedagogiek]], en betogen dat het componeren *over* AI voor een echt publiek kritische bekwaamheid ontwikkelt die competentieschalen niet kunnen zien ([[burriss-multimodal-composition-critical-ai-literacy-2026|"Young Scholar[s] on the Beat"]]). Die claim is een argument uit één eenheid met 22 studenten, dus lees haar als ontwerpidee in plaats van als effectschatting.
 
@@ -117,7 +117,7 @@ Betere prompts lossen het model niet op. In onderzoek naar contextuele sycophanc
 
 AI-geletterdheid betekent prompting onderwijzen. Prompting is het zichtbare deel. Studenten kunnen technisch bekwaam worden met deze tools en toch slechte beoordelaars blijven van wat eruit komt, en de afhankelijkheidsbevinding hierboven wijst dezelfde kant op.
 
-Eén sessie dekt het. Een sessie kan woordenschat introduceren. Het bewijs voor herhaalde oefening op echt cursusmateriaal is sterker, en de meta-analyse van 59 interventies vond de grootste effecten waar het werk geïntegreerd en reflectief was.
+Eén sessie dekt het. Een sessie kan woordenschat introduceren. Het bewijs voor herhaalde oefening op echt cursusmateriaal is sterker, en de [[meta-analysis-systematic-review|meta-analyse]] van 59 interventies vond de grootste effecten waar het werk geïntegreerd en reflectief was.
 
 Studenten die deze tools dagelijks gebruiken, kunnen output al evalueren. Yan et al. vonden 76,32% van 38 bachelorstudenten in een patroon van één beurt, en de informaticasynthese vond studenten significant slechter in het corrigeren van door AI gegenereerde code dan in gewone programmeertentamentaken. Vertrouwdheid met de interface is geen kalibratie.
 

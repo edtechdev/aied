@@ -1,14 +1,14 @@
 ---
 title: "Wie sollte KI in die Lernerfahrung designed werden?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-15T15:44:25-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 audience: [instructional designers, instructors]
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -120,4 +120,4 @@ Effizienz ist das Ziel der Neugestaltung. Lernziele und Rubriken mit einem Model
 
 ## Wohin als Nächstes
 
-[[learning-design|Instructional Design]], [[active-learning|Aktives Lernen]] und [[scaffolding]] liefern das Designvokabular. Zu den Voreinstellungen auf Interaktionsebene, die entscheiden, ob eine gestaltete Aktivität das Lernen erhält, siehe [[reduce-ai-cheating]] und [[redesign-assessment-ai-era]]. [[designing-educational-ai-software]] behandelt, wie dieselben Prinzipien die Software selbst beschränken, und [[developing-ai-tutor]] übersetzt sie in die Architektur eines Tutors.
+[[learning-design|Instructional Design]], [[active-learning|Aktives Lernen]] und [[scaffolding|Scaffolding (Gerüstbildung)]] liefern das Designvokabular. Zu den Voreinstellungen auf Interaktionsebene, die entscheiden, ob eine gestaltete Aktivität das Lernen erhält, siehe [[reduce-ai-cheating]] und [[redesign-assessment-ai-era]]. [[designing-educational-ai-software]] behandelt, wie dieselben Prinzipien die Software selbst beschränken, und [[developing-ai-tutor]] übersetzt sie in die Architektur eines Tutors.

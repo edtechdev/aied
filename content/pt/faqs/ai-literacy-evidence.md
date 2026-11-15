@@ -1,7 +1,7 @@
 ---
 title: "Quais são as evidências sobre intervenções de alfabetização em IA no ensino superior?"
 created: "2026-08-24T09:52:00-04:00"
-updated: "2026-10-29T08:28:16-04:00"
+updated: "2026-11-15T15:37:46-05:00"
 connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50
 foundations: [ai-literacy]
@@ -9,7 +9,7 @@ assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
 translation_of: faqs/ai-literacy-evidence
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -55,7 +55,7 @@ A [[meta-analysis-systematic-review|revisão sistemática]] de Hingle e Johri or
 
 O **AI Literacy Continuum** da NC State descreve uma progressão de *Not Yet Engaged* e *Uncritical Use* passando por *Informed Use*, *[[critical-thinking|Critical Evaluation]]* e *Improvement*, e foi implementado com mais de 330 participantes em cursos e oficinas ([[ai-literacy-continuum-higher-education]]). Suas observações sugerem uma cisão: experiências breves moveram os estudantes para o uso informado, enquanto a avaliação crítica e o aprimoramento apareceram principalmente em trabalho sustentado e embutido na disciplina. Não houve medida pré/pós validada nem grupo de comparação, então esta é evidência baseada em prática.
 
-A formação de professores mostra o mesmo teto por outro ângulo. A intervenção [[design-based-research|baseada em design]] de Le et al. foi pilotada com 14 estudantes de mestrado e avaliada com 29 estudantes de [[teacher-education|formação docente]]. A [[self-efficacy|autoeficácia]] relatada em competência de IA subiu e os estudantes se deslocaram para uma consideração [[pedagogy|pedagógica]] mais crítica da IA generativa, enquanto os ganhos em ética alcançaram apenas significância marginal. Um estudo pequeno e baseado em design desse formato não consegue estabelecer competência ([[genai-literacy-training-teacher-education-dbr-2026]]).
+A [[teacher-role|formação de professores]] mostra o mesmo teto por outro ângulo. A intervenção [[design-based-research|baseada em design]] de Le et al. foi pilotada com 14 estudantes de mestrado e avaliada com 29 estudantes de [[teacher-education|formação docente]]. A [[self-efficacy|autoeficácia]] relatada em competência de IA subiu e os estudantes se deslocaram para uma consideração [[pedagogy|pedagógica]] mais crítica da IA generativa, enquanto os ganhos em ética alcançaram apenas significância marginal. Um estudo pequeno e baseado em design desse formato não consegue estabelecer competência ([[genai-literacy-training-teacher-education-dbr-2026]]).
 
 ## Meça o que os estudantes conseguem fazer
 
@@ -89,7 +89,7 @@ A pergunta que decorre é a que se deve fazer ao seu próprio programa: a creden
 
 ## O que este público erra
 
-Uma oficina é um currículo. As observações do Continuum colocam a avaliação crítica e o aprimoramento em trabalho sustentado e embutido na disciplina, e Le et al. moveram a autoeficácia sem estabelecer competência.
+Uma oficina é um [[curriculum-design|currículo]]. As observações do Continuum colocam a avaliação crítica e o aprimoramento em trabalho sustentado e embutido na disciplina, e Le et al. moveram a autoeficácia sem estabelecer competência.
 
 Confiança é uma proxy de letramento. O resultado do GLAT é direto: um teste de desempenho predisse o desempenho na tarefa e uma medida de autorrelato não.
 

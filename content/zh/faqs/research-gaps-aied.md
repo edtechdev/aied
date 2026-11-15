@@ -1,7 +1,7 @@
 ---
 title: "关于教育中人工智能的研究文献有哪些值得注意的空白？"
 created: "2026-09-22T19:50:48-04:00"
-updated: "2026-11-08T05:07:30-05:00"
+updated: "2026-11-15T15:43:33-05:00"
 weight: 45
 type: faq
 foundations: [limitations-in-aied-research]
@@ -13,7 +13,7 @@ level: [higher ed]
 audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/research-gaps-aied
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -92,7 +92,7 @@ ai_assist:
 
 AI 带来两个相互关联的评估问题：它帮助生产被评估的作品，它也能影响这份作品如何被评分。
 
-知识库中[[ai-agents-complete-lms-assessment-validity-2026|关于 AI 智能体完成 LMS 评估任务的研究]]记录了智能体在真实的本科课程中穿行并完成被评估的活动。这展示了一种能力，它动摇了关于学生产出证据的假设。它并没有确立这种用法有多普遍，也没有推翻异步评估这一类别。
+[[ai-agents-complete-lms-assessment-validity-2026|关于 AI 智能体完成 LMS 评估任务的研究]]记录了智能体在真实的本科课程中穿行并完成被评估的活动。这展示了一种能力，它动摇了关于学生产出证据的假设。它并没有确立这种用法有多普遍，也没有推翻异步评估这一类别。
 
 研究问题是：哪些设计仍能支持关于学习者的可辩护结论。[[eportfolio|作品集]]、反思、分阶段提交与活动日志都需要作为证据被验证，而不能假定它们能确立作者身份或理解。研究应当把多种证据的组合与独立观察到的能力作对照检验，同时考虑无障碍、工作量、隐私与[[anxiety-and-stress|学生焦虑]]。[[assessment-validity|评估效度]]保留了细节。
 

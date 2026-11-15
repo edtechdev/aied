@@ -1,7 +1,7 @@
 ---
 title: "AI가 생성한 퀴즈와 시험 문항이 실제로 좋은지 어떻게 확인할까요?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-15T15:38:46-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-05T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 강의 노트로 문항 스무 개를 요청합니다. 정답 키, 해설, 난이도 표시, 블룸 분류 범주가 붙은, 이미 완성된 것처럼 보이는 형식의 문서로 돌아옵니다. 곧 그 위에 여러분의 이름이 올라갑니다.
 
-동료에게 줄 짧은 답은 이렇습니다. 생성된 문항은 후보이지 평가가 아닙니다. 각 문항을 직접 풀어 보고, 그 문항이 학생에게 실제로 무엇을 요구하는지 확인하고, 채점에 들어가기 전에 학생이 어떻게 반응하는지 알아보십시오. 이 지식 기반의 가장 큰 두 연구에서 흥미로운 신호는 생성이 작동한다는 것이 아니라 어디서 실패하는가입니다. 강좌별 워크플로 안에서 반복 생성하는 방식은 71개 대학 학급에서 쓸 만한 객관식 시험을 만들어 냈습니다([[assessing-quality-ai-generated-exams-field-2025|Isley 등, 2025]]). 배포된 문항 311개를 감사한 데이터 과학 연구에서는 모델의 난이도 표시가 함께 생성한 블룸 수준과는 거의 완벽하게 일치했지만(Spearman ρ = 0.90) 학생들이 실제로 받은 점수와는 ρ = 0.06으로 일치했습니다([[student-llm-use-ai-question-difficulty-data-science-2026|An과 Wang, 2026]]). 그 표시는 문항의 측정값이 아니라 프롬프트에 대한 설명이었습니다.
+동료에게 줄 짧은 답은 이렇습니다. 생성된 문항은 후보이지 평가가 아닙니다. 각 문항을 직접 풀어 보고, 그 문항이 학생에게 실제로 무엇을 요구하는지 확인하고, 채점에 들어가기 전에 학생이 어떻게 반응하는지 알아보십시오. 가장 큰 두 연구에서 흥미로운 신호는 생성이 작동한다는 것이 아니라 어디서 실패하는가입니다. 강좌별 워크플로 안에서 반복 생성하는 방식은 71개 대학 학급에서 쓸 만한 객관식 시험을 만들어 냈습니다([[assessing-quality-ai-generated-exams-field-2025|Isley 등, 2025]]). 배포된 문항 311개를 감사한 데이터 과학 연구에서는 모델의 난이도 표시가 함께 생성한 블룸 수준과는 거의 완벽하게 일치했지만(Spearman ρ = 0.90) 학생들이 실제로 받은 점수와는 ρ = 0.06으로 일치했습니다([[student-llm-use-ai-question-difficulty-data-science-2026|An과 Wang, 2026]]). 그 표시는 문항의 측정값이 아니라 프롬프트에 대한 설명이었습니다.
 
 ## 간략한 버전
 
@@ -120,6 +120,6 @@ ai_assist:
 
 ## 다음으로 갈 곳
 
-[[automated-question-generation]]은 생성 방법과 그 측정된 품질에 대한 개념 페이지이고, [[educational-measurement]]는 문항 분석, 신뢰도, 시범 적용이 겨우 암시하는 심리측정을 다룹니다. 둘 다 전체 주기가 섬기는 기준인 [[assessment-validity|평가 타당도]] 아래에 있습니다.
+[[automated-question-generation|자동 문제 생성]]은 생성 방법과 그 측정된 품질에 대한 개념 페이지이고, [[educational-measurement|교육 측정]]은 문항 분석, 신뢰도, 시범 적용이 겨우 암시하는 심리측정을 다룹니다. 둘 다 전체 주기가 섬기는 기준인 [[assessment-validity|평가 타당도]] 아래에 있습니다.
 
 같은 문제의 판단 쪽은 [[ai-grading-fairness-reliability|AI 채점]]에 속합니다. 좋은 문항을 나쁘게 채점한 것은 나쁜 문항을 잘 채점한 것보다 나을 게 없기 때문입니다. 학생이 AI를 사용할 수 있을 때 성적이 무엇을 나타내야 하는지라는 더 넓은 질문은 [[redesign-assessment-ai-era|AI 시대의 평가 재설계]]를 보십시오.

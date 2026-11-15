@@ -1,7 +1,7 @@
 ---
 title: "在人工智能教育研究中，报告与解读研究结果的最佳实践是什么？"
 created: "2026-09-22T19:49:15-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-15T15:45:12-05:00"
 weight: 65
 type: faq
 foundations: [limitations-in-aied-research, interpreting-and-applying-aied-research]
@@ -11,7 +11,7 @@ research_method: [literature review]
 audience: [researchers]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, benchmark, meta-analysis-systematic-review, research-methods-aied]
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/reporting-interpreting-aied-research
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]

@@ -6,8 +6,9 @@ weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
+updated: "2026-11-15T15:43:50-05:00"
 translation_of: faqs/incorporating-ai-literacy
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -41,7 +42,7 @@ Il punto essenziale: aggiungi un passo a un lavoro che già valuti, in cui gli s
 
 ## Non aggiungere una lezione, aggiungi un passo a un lavoro che già valuti
 
-La mossa istituzionale predefinita è un modulo a sé stante, di solito all'inizio del semestre, su come funzionano i grandi modelli linguistici e su come scrivere i prompt. La sintesi [[ai-literacy]] sostiene un assetto diverso: gli studenti sviluppano un'alfabetizzazione più utile quando usano, interrogano, verificano, criticano e decidono sull'IA dentro compiti autentici del corso, ripetutamente. Il movimento verso la valutazione critica è più evidente dove quelle esperienze sono sostenute e incorporate invece che erogate una volta sola ([[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]]).
+La mossa istituzionale predefinita è un modulo a sé stante, di solito all'inizio del semestre, su come funzionano i [[llm|grandi modelli linguistici]] e su come scrivere i prompt. La sintesi [[ai-literacy]] sostiene un assetto diverso: gli studenti sviluppano un'alfabetizzazione più utile quando usano, interrogano, verificano, criticano e decidono sull'IA dentro compiti autentici del corso, ripetutamente. Il movimento verso la valutazione critica è più evidente dove quelle esperienze sono sostenute e incorporate invece che erogate una volta sola ([[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]]).
 
 L'evidenza [[quantitative-research|quantitativa]] punta nella stessa direzione. Una [[liu-ai-literacy-interventions-meta-analysis-2026|meta-analisi di 59 interventi di alfabetizzazione all'IA]] ha trovato gli effetti più grandi per le pedagogie integrate e riflessive. Avverte anche che gli interventi centrati sulla conoscenza mostrano effetti *misurati* più grandi di quelli che puntano a competenze, atteggiamenti o etica. Tienilo presente quando scegli cosa misurare.
 
@@ -81,11 +82,11 @@ Non devi inventare tu il progetto. Diversi sono documentati, e ciascuno è abbas
 
 Gli studenti di economia risolvono prima un problema, ottengono una risposta della GenAI, la confrontano con il loro ragionamento, criticano l'IA, riflettono, poi discutono con i pari ([[beck-genai-literacy-economics-hands-on|Fostering Generative AI Literacy in Economics]]).
 
-Gli studenti di psicologia valutano un comunicato stampa generato da ChatGPT contro una rubrica del corso, ne identificano i punti deboli e lo revisionano, cosa che sviluppa alfabetizzazione disciplinare e al feedback nello stesso compito ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Using Generative AI to Promote Psychological, Feedback, and AI Literacies]]).
+Gli studenti di psicologia valutano un comunicato stampa generato da ChatGPT contro una rubrica del corso, ne identificano i punti deboli e lo revisionano, cosa che sviluppa alfabetizzazione disciplinare e [[feedback-literacy|alfabetizzazione al feedback]] nello stesso compito ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Using Generative AI to Promote Psychological, Feedback, and AI Literacies]]).
 
 Biologia integra le attività nell'apprendimento disciplinare invece di insegnare un argomento tecnico separato ([[zha-ai-literacy-biology-case-study|Integrating AI Literacy Education in a Biology Class]]). Un corso su basi di dati e progettazione usa l'analisi dei fallimenti come attività di apprendimento, con gli studenti che analizzano errori generati dall'IA e iterano su prompt e soluzioni ([[pedagogy-ai-mistakes|The Pedagogy of AI Mistakes]]). Il modello LearnAI incorpora la co-creazione giust-in-time con l'IA attraverso le discipline invece di gestire un unico modulo generico ([[learnai-just-in-time-ai-cocreation-university-2026|LearnAI: Just-in-Time AI Co-Creation Across Disciplines]]).
 
-Un avvertimento arriva con un numero. Un corso introduttivo di fisica delle particelle riprogettato consentiva l'IA generativa come partner esplicito su problemi di forma di ricerca, e un esame scritto senza assistenza ha restituito una media di 20,6 su 80, con solo due studenti che hanno raggiunto 40 ([[ai-particle-physics-education-redesign-2026|AI in particle physics education]]). Prestazione assistita e conoscenza recuperabile in modo indipendente sono conquiste distinte. Gli autori sostengono di insegnare presto l'alfabetizzazione all'IA, compresa la verifica e il trattare l'IA come un insegnante anziché un copiatore, insieme a una pratica dedicata senza assistenza. La [[physics-education|didattica della fisica]] ha il caso più completo.
+Un avvertimento arriva con un numero. Un corso introduttivo di fisica delle particelle riprogettato consentiva l'IA generativa come partner esplicito su problemi di forma di ricerca, e un esame scritto senza assistenza ha restituito una media di 20,6 su 80, con solo due studenti che hanno raggiunto 40 ([[ai-particle-physics-education-redesign-2026|AI in particle physics education]]). Prestazione assistita e conoscenza recuperabile in modo indipendente sono conquiste distinte. Gli autori sostengono di insegnare presto l'alfabetizzazione all'IA, compresa la verifica e il trattare l'IA come un [[teacher-role|insegnante]] anziché un copiatore, insieme a una pratica dedicata senza assistenza. La [[physics-education|didattica della fisica]] ha il caso più completo.
 
 C'è anche una versione in cui gli studenti producono qualcosa per un pubblico reale. Burriss et al. hanno fatto comporre a 22 studenti dell'undicesimo anno annunci di servizio pubblico in video sulle questioni di [[ethics|etica]] dell'IA con cui convivevano: sorveglianza scolastica, "lasciapassare" elettronici e accuse algoritmiche di [[academic-integrity|plagio]]. L'unità si rifaceva alla Critical Posthumanist Literacy e alla [[multimodal|composizione multimodale]]. Gli studenti rappresentavano il danno come emergente da una responsabilità uomo-macchina aggrovigliata anziché da uno strumento malvagio, ribaltavano la narrazione della frode verso l'eccessiva fiducia degli adulti in un'IA difettosa, e chiudevano sull'[[agency|agentività]] ("la soluzione è a portata di mano"). Gli autori collocano la [[storytelling-in-education|narrazione]] e la produzione collaborativa al centro di una [[critical-pedagogy|pedagogia critica dell'alfabetizzazione all'IA]], e sostengono che comporre *sull'IA* per un pubblico reale sviluppa una competenza critica che le scale di competenza non vedono ([[burriss-multimodal-composition-critical-ai-literacy-2026|"Young Scholar[s] on the Beat"]]). Quella tesi è un argomento tratto da una sola unità con 22 studenti, quindi leggila come un'idea di progettazione più che come una dimensione dell'effetto.
 
@@ -119,7 +120,7 @@ L'[[equity-in-ai-education|equità]] attraversa tutto questo. Gli studenti arriv
 
 Alfabetizzazione all'IA significa insegnare a scrivere prompt. Il prompting è la parte visibile. Gli studenti possono diventare tecnicamente esperti con questi strumenti restando cattivi giudici di ciò che ne esce, e il risultato sulla dipendenza qui sopra punta nella stessa direzione.
 
-Una sessione basta. Una sessione può introdurre il vocabolario. L'evidenza sulla pratica ripetuta su materiale reale del corso è più solida, e la meta-analisi di 59 interventi ha trovato gli effetti più grandi dove il lavoro era integrato e riflessivo.
+Una sessione basta. Una sessione può introdurre il vocabolario. L'evidenza sulla pratica ripetuta su materiale reale del corso è più solida, e la [[meta-analysis-systematic-review|meta-analisi]] di 59 interventi ha trovato gli effetti più grandi dove il lavoro era integrato e riflessivo.
 
 Gli studenti che usano questi strumenti ogni giorno sanno già valutare l'output. Yan et al. hanno trovato il 76,32% di 38 studenti universitari in un pattern a turno unico, e la sintesi sulla formazione informatica ha trovato studenti significativamente peggiori nel correggere codice generato dall'IA che nei normali compiti d'esame di programmazione. La familiarità con l'interfaccia non è calibrazione.
 

@@ -12,8 +12,9 @@ research_method: [literature review]
 level: [higher ed]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
+updated: "2026-11-15T15:46:40-05:00"
 translation_of: faqs/research-gaps-aied
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:

@@ -1,8 +1,8 @@
 ---
 title: "Woran erkennen wir, dass eine Bildungs-KI richtig funktioniert und nicht nur gut punktet?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-11-07T20:28:28-05:00"
-connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
+updated: "2026-11-15T15:44:25-05:00"
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
 foundations: [ai-education]
@@ -16,7 +16,7 @@ confidence: high
 methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -150,4 +150,4 @@ Simulierte Studierende machen Evaluation kostenlos. Sie machen sie billig, und s
 
 ## Wohin als Nächstes
 
-[[making-ai-better-at-supporting-learning|Wie können wir KI besser darin machen, das Lernen im eigenen Fach zu unterstützen?]] behandelt die Designseite desselben Problems. [[training-ai-tutors-to-guide-rather-than-answer]] behandelt den Trainingsweg zu einem Tutoring-Verhalten, und [[evaluating-ai-interventions-methods]] ist die lehrkraftgerichtete Version dieser Frage, mit [[reporting-interpreting-aied-research]] als der forschungsgerichteten. Die Methoden liegen unter [[ai-ed-evaluation]] und [[llm-training-and-fine-tuning]].
+[[making-ai-better-at-supporting-learning|Wie können wir KI besser darin machen, das Lernen im eigenen Fach zu unterstützen?]] behandelt die Designseite desselben Problems. [[training-ai-tutors-to-guide-rather-than-answer]] behandelt den Trainingsweg zu einem Tutoring-Verhalten, und [[evaluating-ai-interventions-methods]] ist die lehrkraftgerichtete Version dieser Frage, mit [[reporting-interpreting-aied-research]] als der forschungsgerichteten. Die Methoden liegen unter [[ai-ed-evaluation|Evaluation von KI in der Bildung]] und [[llm-training-and-fine-tuning|LLM-Training und Feinabstimmung]].

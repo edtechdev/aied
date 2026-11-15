@@ -10,9 +10,9 @@ technology: [educational-nlp, generative-ai, llm]
 ethics: [accessibility]
 audience: [instructors, curriculum designers, instructional designers]
 level: [higher ed, secondary, primary education]
-updated: "2026-11-07T17:28:19-05:00"
+updated: "2026-11-15T15:38:46-05:00"
 translation_of: "faqs/ai-support-reading-comprehension"
-source_updated: "2026-11-06T02:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 **大规模地查找与改编文本。** AI 擅长定位来源、简化词汇、生成词汇表，以及把一段文字变成[[study-with-ai|学习指南或摘要]]。把它用在阅读准备的机械部分 —— 扫描、分级、抽取关键术语 —— 而在要紧之处保留人工核查。
 
-**为读者建模，而不是为文本建模。** 由于读者变量承载了一段文本感觉有多难的大部分信号，为读者做画像的工具比任何公式都更好地预测感知难度。在知识库规模最大的研究中，193 名德国高中学生为 3,954 个句子评分，基于画像的模型（最佳集成 RMSE 0.822，均值基线为 1.070）胜过文本的 Flesch 分数，后者把同一材料评得远难于学生的体验 —— 72.8% 的标注为容易或很容易（[[thome-perceived-text-complexity-student-profiles-2025|Thome、Hertweck 与 Conrad，2025]]）。实践版本是：几个学生对一段文字的评分胜过任何公式的标签。
+**为读者建模，而不是为文本建模。** 由于读者变量承载了一段文本感觉有多难的大部分信号，为读者做画像的工具比任何公式都更好地预测感知难度。在这批文献中规模最大的研究中，193 名德国高中学生为 3,954 个句子评分，基于画像的模型（最佳集成 RMSE 0.822，均值基线为 1.070）胜过文本的 Flesch 分数，后者把同一材料评得远难于学生的体验 —— 72.8% 的标注为容易或很容易（[[thome-perceived-text-complexity-student-profiles-2025|Thome、Hertweck 与 Conrad，2025]]）。实践版本是：几个学生对一段文字的评分胜过任何公式的标签。
 
 ## AI 在哪里不够
 

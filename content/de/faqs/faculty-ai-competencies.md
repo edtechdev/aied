@@ -1,14 +1,14 @@
 ---
 title: "Welche Kompetenzen braucht die Fakultät in Bezug auf KI?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-15T15:46:13-05:00"
 connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -59,13 +59,15 @@ Schreiben Sie die Liste auf, bevor Sie die Sitzungen planen. Vier Dimensionen pl
 
 [[self-report-measures|Selbstauskunft]] zur KI-Kompetenz kann erheblich von der gezeigten Fähigkeit abweichen, und das ist die praktischste Warnung dieser Literatur für alle, die Fakultätsentwicklung betreiben. Eine Zufriedenheitsumfrage am Ende eines Workshops misst, wie sich der Workshop angefühlt hat.
 
+Eine Umfrage lässt sich sogar zu gut vorhersagen. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] ordneten 314 von 315 Lehrenden mit einer 300-Item-Skala (α = 0.997) und ohne Faktoranalyse Kompetenzbändern zu, und die institutionelle Zugehörigkeit trug am meisten bei — ein Zeichen dafür, dass die Werte erfassten, wo Menschen arbeiten, nicht was sie können.
+
 Die Forschung zu [[agentic-ai|Multiagenten]]-Workflows von Lehrkräften liefert einen zweiten Grund zu testen statt zu fragen: Systemdenken, pädagogische Überzeugungen und [[self-efficacy|Selbstwirksamkeit]] wirken bei der KI-Integration zusammen, sodass dieselbe Sitzung bei zwei Fakultätsangehörigen mit demselben fachlichen Hintergrund unterschiedlich ankommt. Das spricht für differenzierte Programme und gegen den Einheitsworkshop, den die meisten Institutionen anbieten.
 
 Die billige Version der Leistungsbewertung ist eine Aufgabe, kein Instrument. Bitten Sie jede Teilnehmerin und jeden Teilnehmer, eine Aufgabe mitzubringen, sie während der Sitzung mit dem Modell zu überarbeiten und die Überarbeitung dann einer Kollegin zu verteidigen: was sich geändert hat, was sie jetzt bewertet, wofür die studierende Person nicht mehr benotet werden kann. Das dauert zwanzig Minuten und sagt Ihnen mehr als jede Bewertungsskala am Tagesende.
 
 ## Erwarten Sie, dass die Schwachstelle die Integration ist
 
-Neuere Hochschulforschung beziffert, wo die Kompetenz von Fakultätsangehörigen stark ist und wo sie einbricht. [[sutedjo-faculty-genai-tpack-21-2026|Eine Befragung von 127 Fakultätsangehörigen an einer großen US-Forschungsuniversität]] mit dem [[tpack]]-21-Instrument fand selbst wahrgenommenes [[pedagogy|pädagogisches]] Inhaltswissen hoch (M = 4.70) und [[tpack|Inhaltswissen]] nahe der Decke (M = 5.15). Die technologieintegrierten Domänen lagen deutlich niedriger: technologisch-pädagogisches Wissen (M = 2.62), technologisch-inhaltliches Wissen (M = 2.75) und ganzheitliches TPACK (M = 2.55, der niedrigste von sieben Werten).
+Neuere Hochschulforschung beziffert, wo die Kompetenz von Fakultätsangehörigen stark ist und wo sie einbricht. [[sutedjo-faculty-genai-tpack-21-2026|Eine Befragung von 127 Fakultätsangehörigen an einer großen US-Forschungsuniversität]] mit dem [[tpack|Technologisches pädagogisches Inhaltswissen (TPACK)]]-21-Instrument fand selbst wahrgenommenes [[pedagogy|pädagogisches]] Inhaltswissen hoch (M = 4.70) und [[tpack|Inhaltswissen]] nahe der Decke (M = 5.15). Die technologieintegrierten Domänen lagen deutlich niedriger: technologisch-pädagogisches Wissen (M = 2.62), technologisch-inhaltliches Wissen (M = 2.75) und ganzheitliches TPACK (M = 2.55, der niedrigste von sieben Werten).
 
 Lesen Sie die Lücke richtig. Das sind Menschen, die ihr Fach kennen und wissen, wie man es lehrt, und die nicht wissen, wie man ein Modell zu einem Teil von beidem macht. Fachliche Expertise sagte das Wissen zur GenKI-Integration nicht voraus (CK-Korrelationen r = .11 bis .15, alle nicht signifikant), ein Programm kann also nicht annehmen, dass Fachbeherrschung übertragen wird. Es muss Kompetenz durch gezielte, [[discipline-specific-aied|fachspezifische]] Arbeit aufbauen.
 
@@ -85,7 +87,7 @@ Qualitätsgewinne belegen nicht, dass die Praxis verinnerlicht wurde. Dreizehn L
 
 ## Decken Sie die Teile der Rolle jenseits der Lehre ab
 
-Kompetenz ist auch eine institutionelle Frage, und die meisten Frameworks beantworten nur einen Teil davon. [[crompton-faculty-technology-integration-standards-2026|Design-basierte Forschung mit 114 Teilnehmenden an 28 US-Institutionen und in 11 Ländern]] ergab sechs Technologiestandards für Fakultätsangehörige, die die gesamte akademische Rolle umfassen: Lehrende, Koordinierende, Leitende, Forschende, Lernende und Beitragende. Der Grund der Autorinnen und Autoren, sie zu bauen, ist der nützliche Teil. Bestehende Frameworks ([[tpack]], [[samr-model|SAMR]]) und Standards für Lehrkräfte (ISTE, UNESCO, DigCompEdu) adressieren [[k-12]]-Lehrkräfte oder decken nur die Lehrdimension ab.
+Kompetenz ist auch eine institutionelle Frage, und die meisten Frameworks beantworten nur einen Teil davon. [[crompton-faculty-technology-integration-standards-2026|Design-basierte Forschung mit 114 Teilnehmenden an 28 US-Institutionen und in 11 Ländern]] ergab sechs Technologiestandards für Fakultätsangehörige, die die gesamte akademische Rolle umfassen: Lehrende, Koordinierende, Leitende, Forschende, Lernende und Beitragende. Der Grund der Autorinnen und Autoren, sie zu bauen, ist der nützliche Teil. Bestehende Frameworks ([[tpack|Technologisches pädagogisches Inhaltswissen (TPACK)]], [[samr-model|SAMR]]) und Standards für Lehrkräfte (ISTE, UNESCO, DigCompEdu) adressieren [[k-12]]-Lehrkräfte oder decken nur die Lehrdimension ab.
 
 Für Faculty Developer rahmt das die Anfrage neu. Ein Fachbereich, der einen KI-Workshop für seine Lehrenden erbittet, fragt nach einer von sechs Rollen. Die Koordinierenden desselben Fachbereichs treffen Entscheidungen auf Programmebene, seine Forschenden schreiben mit diesen Werkzeugen, und seine Leitenden genehmigen Anschaffungen. Eine Sitzung kann nicht alle bedienen, und das Gegenteil anzunehmen ist der Weg, auf dem ein Programm hohe Teilnahme und keine Veränderung in der Praxis erreicht.
 

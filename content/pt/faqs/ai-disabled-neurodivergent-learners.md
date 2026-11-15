@@ -1,7 +1,7 @@
 ---
 title: "Como a IA pode apoiar estudantes com deficiência e neurodivergentes no meu curso?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:37:46-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, reducing-over-reliance]
 weight: 65
 type: faq
@@ -11,7 +11,7 @@ research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
 translation_of: faqs/ai-disabled-neurodivergent-learners
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -161,4 +161,4 @@ A ferramenta carrega o apoio, e o ensino é um extra. A jurisprudência trata um
 
 ## Para onde ir agora
 
-[[universal-design-for-learning]] cobre a abordagem de design que previne barreiras antes que apareçam, [[assistive-technology]] a camada de ferramentas que o estudante usa, [[accessibility]] se um formato pode ser percebido e operado de todo, e [[neurodiversity]] a lente que trata a diferença como diversidade e não como déficit, todas sob o guarda-chuva de [[inclusive-learning]]. [[reducing-over-reliance]] cobre os efeitos de dependência excessiva e de inversão que decidem se uma ferramenta continua ajudando, e [[equity-ethics-pedagogical-safety-research|incorporar equidade, acessibilidade, privacidade, ética e segurança pedagógica à pesquisa em IAED]] cobre as obrigações do lado da pesquisa.
+[[universal-design-for-learning|Desenho Universal para a Aprendizagem]] cobre a abordagem de design que previne barreiras antes que apareçam, [[assistive-technology|tecnologia assistiva]] a camada de ferramentas que o estudante usa, [[accessibility|acessibilidade]] se um formato pode ser percebido e operado de todo, e [[neurodiversity|neurodiversidade]] a lente que trata a diferença como diversidade e não como déficit, todas sob o guarda-chuva de [[inclusive-learning|aprendizagem inclusiva]]. [[reducing-over-reliance]] cobre os efeitos de dependência excessiva e de inversão que decidem se uma ferramenta continua ajudando, e [[equity-ethics-pedagogical-safety-research|incorporar equidade, acessibilidade, privacidade, ética e segurança pedagógica à pesquisa em IAED]] cobre as obrigações do lado da pesquisa.

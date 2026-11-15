@@ -1,7 +1,7 @@
 ---
 title: "Was belegen die Studien zu KI-Kompetenz-Interventionen in der Hochschulbildung?"
 created: "2026-08-24T09:52:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-15T15:44:25-05:00"
 connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ research_method: [literature review]
 level: [higher ed]
 audience: [instructors, researchers, administrators]
 translation_of: faqs/ai-literacy-evidence
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -64,7 +64,7 @@ Eine [[liu-ai-literacy-interventions-meta-analysis-2026|dreistufige Metaanalyse 
 
 Die Autorinnen und Autoren lesen ihr eigenes Ergebnis als Argument dafür, über Wissen hinaus zu Fertigkeiten, Praktiken, Ethik und Haltungen zu gehen, durch integrierte reflexive Pädagogik und [[culturally-relevant-pedagogy|kulturell relevante]] Gestaltung. Für einen Ausschuss leisten zwei Implikationen die Arbeit. Das Ergebnis, das Sie messen, formt den Effekt, den Sie finden, also wählen Sie das Ergebnis, das Ihnen tatsächlich wichtig ist. Ein so breites Prädiktionsintervall spricht für einen lokalen Piloten.
 
-Die Messung ist der Punkt, an dem die meisten Programmbehauptungen scheitern. Der validierte Performanztest **GLAT** sagte die Leistung in einer KI-gestützten hochschulischen Aufgabe vorher. Ein [[self-report-measures|Selbstauskunftsmaß]] zur ChatGPT-Kompetenz tat das nicht ([[jin-glat-genai-literacy-assessment]]; [[ai-literacy-assessment-misalignment]]). Über die Wissensbasis hinweg divergieren berichtete und gezeigte KI-Kompetenz erheblich, was [[educational-measurement|Bildungsmessung]] und [[assessment-validity|Assessmentvalidität]] zu einem Teil des Designs macht statt zu einem Nachgedanken in der [[ai-ed-evaluation|Evaluation]].
+Die Messung ist der Punkt, an dem die meisten Programmbehauptungen scheitern. Der validierte Performanztest **GLAT** sagte die Leistung in einer KI-gestützten hochschulischen Aufgabe vorher. Ein [[self-report-measures|Selbstauskunftsmaß]] zur ChatGPT-Kompetenz tat das nicht ([[jin-glat-genai-literacy-assessment]]; [[ai-literacy-assessment-misalignment]]). Über die Literatur hinweg divergieren berichtete und gezeigte KI-Kompetenz erheblich, was [[educational-measurement|Bildungsmessung]] und [[assessment-validity|Assessmentvalidität]] zu einem Teil des Designs macht statt zu einem Nachgedanken in der [[ai-ed-evaluation|Evaluation]].
 
 Burriss et al. schärfen, was zählt. Ihre Studie mit 22 Studierenden der elften Klassenstufe, die Video-Public-Service-Annoncen zur KI-Ethik verfassten, argumentiert, dass bestehende Kompetenzskalen und Kompetenzframeworks individuell messbare Performanz voraussetzen, was kollaborativen und kreativen Ausdruck ausschließt. Sie schlagen Studierendenreflexionen, [[multimodal|multimodale]] Artefakte und zivilgesellschaftlichen Diskurs als Ergänzungen zu konventionellen Maßen vor. Ihre Studierenden entwickelten kritisches Verständnis von KI-Ethik durch kollaborative [[critical-pedagogy|kritische Pädagogik]], und das stellt Fertigkeitslisten-Konzeptionen von Kompetenz infrage, zusammen mit den Instrumenten, die darauf gebaut sind. Fünfzehn von 18 Antworten am Ende der Einheit bestätigten neues Lernen, und die Autoren merken an, dass das Projekt sich traditioneller [[summative-assessment|summativer Bewertung]] widersetzt ([[burriss-multimodal-composition-critical-ai-literacy-2026]]).
 
@@ -128,4 +128,4 @@ Kompetenz ist eine Fertigkeit, die über Werkzeuge hinweg transferiert. Dai und 
 
 ## Wohin als Nächstes
 
-[[incorporating-ai-literacy|Wie sollte ich KI-Kompetenz in meinen Kurs integrieren?]] führt die Designfrage in die Kursplanung. [[ai-literacy]] hält das Konzept und seine Messdebatte, und [[research-gaps-aied|die Seite zu Forschungslücken]] behandelt, wo diese Literatur noch dünn ist.
+[[incorporating-ai-literacy|Wie sollte ich KI-Kompetenz in meinen Kurs integrieren?]] führt die Designfrage in die Kursplanung. [[ai-literacy|KI-Kompetenz]] hält das Konzept und seine Messdebatte, und [[research-gaps-aied|die Seite zu Forschungslücken]] behandelt, wo diese Literatur noch dünn ist.

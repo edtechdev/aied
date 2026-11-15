@@ -1,7 +1,7 @@
 ---
 title: "효과적인 AI 튜터를 개발하는 모범 사례는 무엇입니까?"
 created: "2026-08-29T20:36:43-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-15T15:46:45-05:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, designing-educational-ai-software]
 weight: 74
 type: faq
@@ -13,7 +13,7 @@ discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
 translation_of: faqs/developing-ai-tutor
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -63,7 +63,7 @@ ai_assist:
 
 학습자 모형은 두 종류의 상태를 담습니다. 개념별 추정(극한: 발달 중, 거듭제곱 규칙: 숙달, 곱 규칙: 발달 중, 연쇄 규칙: 입증되지 않음)과 각각의 근거와 신뢰도를 동반한 오개념 가설입니다. 둘을 분리해 두십시오. 개념 추정은 난이도 선택을 이끕니다. 가설은 다음 질문을 이끕니다.
 
-[[llm]]이 스스로 진단하게 두는 것은 조심하십시오. [[benchmark|벤치마킹]]은 LLM 튜터가 명백히 올바른 추론은 알아보면서도 때로 타당한 대안을 거부하거나 틀린 추론을 수용한다는 것을 발견했습니다. 좋은 사례는 알아보고 모호한 사례는 잘못 읽는 모형은 도움이 필요한 바로 그 학생들에게 실패합니다. 결과가 중대한 영역에서 살아남는 구조는 **구조화된 진단 + 유연한 LLM 대화**이며, [[yasir-llm-tutoring-agents-2026|옳은 것은 확인하고 나머지는 놓치기]]가 기술하는 배치입니다. 여러분 자신의 탐지기가 학생이 아마 무엇을 했는지 확립하고, 모형은 그 발견을 중심으로 대화를 씁니다.
+[[llm|LLM]]이 스스로 진단하게 두는 것은 조심하십시오. [[benchmark|벤치마킹]]은 LLM 튜터가 명백히 올바른 추론은 알아보면서도 때로 타당한 대안을 거부하거나 틀린 추론을 수용한다는 것을 발견했습니다. 좋은 사례는 알아보고 모호한 사례는 잘못 읽는 모형은 도움이 필요한 바로 그 학생들에게 실패합니다. 결과가 중대한 영역에서 살아남는 구조는 **구조화된 진단 + 유연한 LLM 대화**이며, [[yasir-llm-tutoring-agents-2026|옳은 것은 확인하고 나머지는 놓치기]]가 기술하는 배치입니다. 여러분 자신의 탐지기가 학생이 아마 무엇을 했는지 확립하고, 모형은 그 발견을 중심으로 대화를 씁니다.
 
 진단에 모형이 건너뛸 수 없는 명시적 순서를 주십시오. 탐지, 검증, 응답입니다. 모형은 [[misconceptions|오개념]]을 가설로 제안할 수 있지만, 튜터가 그것에 응답하기 전에 학생의 실제 작업이나 표적 질문으로 검증해야 합니다. 그 단계가 없으면 시스템이 증거를 지어내고 학생이 하지 않은 실수에 대해 가르치는데, 이는 쓸모없을 뿐 아니라 다소 모욕적입니다.
 

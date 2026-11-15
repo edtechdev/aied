@@ -28,8 +28,9 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+updated: "2026-11-15T15:40:57-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ---
 
@@ -51,7 +52,7 @@ La risposta breve per quella riunione: l'IA può prendersi la ricerca, un primo 
 
 **5.** Verifica a mano ogni riferimento, autori per primi, ogni volta che l'IA ha toccato la scrittura.
 
-**6.** Registra prompt, versioni del modello e versioni del corpus, e metti in budget le ore per farlo.
+**6.** Registra prompt, versioni del modello e versioni del dataset, e metti in budget le ore per farlo.
 
 ## Decidi a cosa può accedere l'IA prima che il progetto inizi
 
@@ -67,7 +68,7 @@ La maggior parte del beneficio viene da due decisioni di progettazione. Scrivi r
 
 ## Fissa il codebook prima che il modello legga qualsiasi cosa
 
-L'[[qualitative-research|analisi qualitativa]] è la fase in cui l'interpretazione è il prodotto. Costrutti, rubriche di codifica e dati di addestramento sono decisioni umane più che output di modello ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]), il che significa che il codebook va fissato prima che un passaggio automatizzato scorra sul corpus. L'alternativa è uno schema di codifica scritto intorno a ciò che il modello si è trovato a far emergere, e i temi descrivono allora la lettura dello strumento sui tuoi dati.
+L'[[qualitative-research|analisi qualitativa]] è la fase in cui l'interpretazione è il prodotto. Costrutti, rubriche di codifica e dati di addestramento sono decisioni umane più che output di modello ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]), il che significa che il codebook va fissato prima che un passaggio automatizzato scorra sul dataset. L'alternativa è uno schema di codifica scritto intorno a ciò che il modello si è trovato a far emergere, e i temi descrivono allora la lettura dello strumento sui tuoi dati.
 
 La delega può essere più fine dell'aut-aut. [[agreement-not-quality-llm-coding-verification|Uno studio di verifica cieca]] ha classificato 15 di 72 item del codebook come dimostrabilmente bisognosi di competenza umana, 12 come meglio serviti da un modello e 16 come adatti a un triage basato sulla confidenza. Ordina i tuoi item in quel modo e il risparmio di lavoro cade dove è sicuro.
 
@@ -96,13 +97,13 @@ Il fallimento è concreto. In [[zhang-platform-scores-miss-ai-teaching-agents-20
 
 L'adozione ha corso più della rendicontazione. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta and Lin (2026)]] hanno analizzato 888 articoli sull'automazione delle rassegne: dal 2023, il 38,0% degli articoli su software e prodotti non riportava alcuna valutazione, contro il 9,3% degli articoli sugli LLM, e l'accesso al modello era schiacciantemente proprietario (84,1%). Nemmeno una valutazione complessivamente favorevole implicava l'idoneità alla delega, poiché il 52% di 118 articoli sugli LLM con soli esiti positivi riportava comunque una preoccupazione che il flusso di lavoro stava sotto la soglia richiesta dal suo ruolo. Il loro quadro [[meta-analysis-systematic-review|PRISMA]]-LLM separa la divulgazione dell'implementazione dalla valutazione sensibile alle conseguenze e tratta i suoi cinque livelli come livelli di divulgazione più che di rischio.
 
-La versione pratica: nomina il sistema e la sua versione, i prompt, la versione del corpus, cosa ha controllato un umano e dove ha fallito. Tieni i log di prompt e risposte, perché un elenco fluente di temi generati sembra inevitabile molto prima che il suo lavoro probatorio sia iniziato ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
+La versione pratica: nomina il sistema e la sua versione, i prompt, la versione del dataset, cosa ha controllato un umano e dove ha fallito. Tieni i log di prompt e risposte, perché un elenco fluente di temi generati sembra inevitabile molto prima che il suo lavoro probatorio sia iniziato ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
 Metti in budget anche le ore. [[persistent-ai-agents-academic-research|Uno studio di caso di 115 giorni con un solo ricercatore]] su un agente di ricerca persistente ha trovato che il pattern più forte era l'espansione della capacità più che una sostituzione di lavoro dimostrata: man mano che memoria e procedure si accumulavano, il perimetro del lavoro delegato cresceva mentre l'apporto umano non si riduceva.
 
 ## Conduci l'indagine del praticante con le stesse regole su scala più piccola
 
-Se sei un docente che studia il proprio corso, stai lavorando nel filone più esile del corpus. [[ai-assisted-educational-research|AI-Assisted Educational Research]] lo dichiara come un vuoto più che come un risultato: l'indagine del praticante assistita dall'IA è plausibilmente diffusa e quasi non documentata, e l'evidenza sull'automazione delle rassegne e quella bibliometrica non stabiliscono come un docente dovrebbe studiare il proprio insegnamento.
+Se sei un docente che studia il proprio corso, stai lavorando nel filone meno studiato di questa letteratura. [[ai-assisted-educational-research|AI-Assisted Educational Research]] lo dichiara come un vuoto più che come un risultato: l'indagine del praticante assistita dall'IA è plausibilmente diffusa e quasi non documentata, e l'evidenza sull'automazione delle rassegne e quella bibliometrica non stabiliscono come un docente dovrebbe studiare il proprio insegnamento.
 
 Ciò che si trasferisce è un insieme di disposizioni:
 

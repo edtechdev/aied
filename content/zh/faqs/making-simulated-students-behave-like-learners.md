@@ -1,7 +1,7 @@
 ---
 title: "如何让模拟学生表现得像真实学习者？"
 created: "2026-10-02T08:36:18-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-15T15:44:17-05:00"
 weight: 71
 type: faq
 connected_faqs: [checking-whether-educational-ai-works, addressing-common-misconceptions-ai-education, making-ai-better-at-supporting-learning]
@@ -13,7 +13,7 @@ level: [higher ed, k 12]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/making-simulated-students-behave-like-learners
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -128,7 +128,7 @@ SWIM 是提示、微调和强化学习三者最清楚的比较，因为它把每
 
 **“GRPO 赢了有监督微调，所以我们应该用 RL 训练。”** 确实赢了，0.618 对 0.474。低熟练度形态在两种情况下都仍然难，拼写和语法错误太少；而在另一个基准上，偏好优化只勉强胜过微调，并在错误上落败。核查你的用例依赖的是哪一个属性。
 
-**“最弱的学习者只占我们用户的一小片。”** 他们在本页的每一种方法上都是最难的案例，而覆盖面的发现说模拟聚集在最容易的那个象限。如果你的模拟器将被用来对学得吃力的学生下结论，这个缺口应当写进报告里。
+**“最弱的学习者只占我们用户的一小片。”** 他们是每一种受测方法里最难的案例，而覆盖面的发现说模拟聚集在最容易的那个象限。如果你的模拟器将被用来对学得吃力的学生下结论，这个缺口应当写进报告里。
 
 ## 本周可以做的事
 
@@ -144,4 +144,4 @@ SWIM 是提示、微调和强化学习三者最清楚的比较，因为它把每
 
 ## 接下来可以去哪里
 
-[[simulating-students]]是完整的概念页。[[checking-whether-educational-ai-works]]讲如何评估你拿来与模拟器对照的那些系统，[[making-ai-better-at-supporting-learning]]讲本页微调结果背后的训练方法。[[addressing-common-misconceptions-ai-education]]讨论模拟学生能否在研究里代替真实学习者。
+[[simulating-students]]是完整的概念页。[[checking-whether-educational-ai-works]]讲如何评估你拿来与模拟器对照的那些系统，[[making-ai-better-at-supporting-learning]]讲这些微调结果背后的训练方法。[[addressing-common-misconceptions-ai-education]]讨论模拟学生能否在研究里代替真实学习者。

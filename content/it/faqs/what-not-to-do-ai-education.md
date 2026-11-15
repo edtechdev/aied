@@ -1,9 +1,9 @@
 ---
 title: "Che cosa dovrebbero evitare di fare gli educatori con l'IA?"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-11T06:20:00-05:00"
+updated: "2026-11-15T15:46:40-05:00"
 type: faq
-connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors]
+connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors, adopting-ai-options-and-issues]
 weight: 90
 foundations: [misconceptions, reducing-ai-misuse, ai-literacy, limitations-in-aied-research]
 pedagogy: [reflection, professional-training]
@@ -12,7 +12,7 @@ assessment: [assessment-validity, ai-detection, self-report-measures, feedback]
 ethics: [privacy, pedagogical-safety, equity-in-ai-education, accessibility, automation-bias]
 audience: [instructors, learners, parents and families, faculty developers, software developers, administrators, researchers]
 translation_of: faqs/what-not-to-do-ai-education
-source_updated: "2026-11-11T06:20:00-05:00"
+source_updated: "2026-11-14T04:30:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -157,8 +157,8 @@ Nessuna di queste cautele significa che lo strumento sia sempre sbagliato. Un ri
 ## Dove andare adesso
 
 - [[addressing-common-misconceptions-ai-education]]: le convinzioni dietro queste pratiche, e come correggerle senza sufficienza.
-- [[limitations-in-aied-research]]: ciò che la base di evidenze non può ancora sostenere.
-- [[reducing-ai-misuse]]: leve strutturali contro l'uso improprio, e perché battono l'esortazione.
-- [[pedagogical-safety]]: cosa può fare un tutor a un discente superando ogni controllo sui contenuti.
+- [[limitations-in-aied-research|Limiti della ricerca sull'AIEd]]: ciò che la base di evidenze non può ancora sostenere.
+- [[reducing-ai-misuse|Ridurre l'uso improprio dell'IA]]: leve strutturali contro l'uso improprio, e perché battono l'esortazione.
+- [[pedagogical-safety|Sicurezza pedagogica]]: cosa può fare un tutor a un discente superando ogni controllo sui contenuti.
 - [[should-we-use-ai-detectors]]: le prove sui rilevatori per intero.
 - [[checking-whether-educational-ai-works]]: come valutare un'affermazione prima di adottarla.

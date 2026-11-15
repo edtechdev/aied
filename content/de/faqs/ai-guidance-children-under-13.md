@@ -1,7 +1,7 @@
 ---
 title: "Wie sollten Eltern und Pädagogische Fachkräfte mit Kindern unter 13 Jahren an KI herangehen?"
 created: "2026-09-16T15:25:00-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-15T15:43:57-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, incorporating-ai-literacy, how-ai-impacts-students]
 weight: 75
 type: faq
@@ -14,7 +14,7 @@ audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: faqs/ai-guidance-children-under-13
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ Ihre Evaluation ist eine einzelne Befragung nach der Exposition mit 831 Teilnehm
 
 Die beiden Ausgaben zeigen auch, wofür die Grenze da ist. Das Grundschulband bekommt plattformbasierte Aktivitäten, die angeleitet und nicht-generativ sind, sodass ein Kind lernt, was das System tut, ohne ein System, das zurückredet. Das fortgeschrittene Band verbindet ethisches Denken mit beaufsichtigter generativer Nutzung. Mitarbeitende, die erwarten, dass das Engagement mit der Raffinesse des Werkzeugs steigt, finden meist das Gegenteil.
 
-Was die Stufung Ihnen verschafft, ist eine vertretbare Reihenfolge der Schritte. Viele Schulen machen es umgekehrt, kaufen den Chatbot im Herbst und unterrichten im Frühjahr darüber, und die Evidenz zu dieser Reihenfolge steht weiter unten auf dieser Seite.
+Was die Stufung Ihnen verschafft, ist eine vertretbare Reihenfolge der Schritte. Viele Schulen machen es umgekehrt, kaufen den Chatbot im Herbst und unterrichten im Frühjahr darüber, wobei die vertretbare Reihenfolge die umgekehrte ist.
 
 ## Die jüngsten Kinder mit Spiel, Machen und Maschinen beginnen
 
@@ -130,7 +130,7 @@ Für dieses Altersband bildet das eine Abfolge ab: zuerst über sie und durch ih
 
 Ein Ausschusspapier kann ein Überprüfungsdatum zusagen und eine Definition von Erfolg, die Ihre Schule tatsächlich prüfen kann: unterrichtete Lektionen, Lehrkräfte, die die Frage einer Elternschaft beantworten können, schriftlich beantwortete Datenanfragen. Einen Lernzuwachs zu behaupten, würde jede hier zitierte Studie überdehnen.
 
-Es gibt keine Studie zu altersbasierten Verboten in dieser Wissensbasis. Nichts hier kann klären, ob die Verbote funktionieren, die in manchen Schulsystemen jetzt auftauchen, und die ehrliche Version dieses Satzes gehört in Ihr Ausschusspapier. Was die Evidenz zeigt, ist, dass die Alternative zum Verbot nicht Laissez-faire ist. [[moral-panic-genai-classroom|Die Studie zu Verfügbarkeit versus Integration von GenAI]] fand, dass GenAI verfügbar zu machen, ohne Schülerinnen und Schülern beizubringen, wie sie sie nutzen, mit signifikant niedrigerer Leistung bei angewandten Fragen verbunden war (ω² = 0.35), während der ausdrückliche Unterricht ihrer Nutzung für Aufgaben wie Zusammenfassen die angewandte Leistung auf das Niveau vor GenAI zurückbrachte und bei einem schwierigeren Quiz den Ausgangswert übertraf. Dieses Altersband lässt sich unterrichten: Das Viertklässler-Programm oben erzeugte Effekte von *d* = 1.12 bis 1.31.
+Es gibt keine Studie zu altersbasierten Verboten. Nichts hier kann klären, ob die Verbote funktionieren, die in manchen Schulsystemen jetzt auftauchen, und die ehrliche Version dieses Satzes gehört in Ihr Ausschusspapier. Was die Evidenz zeigt, ist, dass die Alternative zum Verbot nicht Laissez-faire ist. [[moral-panic-genai-classroom|Die Studie zu Verfügbarkeit versus Integration von GenAI]] fand, dass GenAI verfügbar zu machen, ohne Schülerinnen und Schülern beizubringen, wie sie sie nutzen, mit signifikant niedrigerer Leistung bei angewandten Fragen verbunden war (ω² = 0.35), während der ausdrückliche Unterricht ihrer Nutzung für Aufgaben wie Zusammenfassen die angewandte Leistung auf das Niveau vor GenAI zurückbrachte und bei einem schwierigeren Quiz den Ausgangswert übertraf. Dieses Altersband lässt sich unterrichten: Das Viertklässler-Programm oben erzeugte Effekte von *d* = 1.12 bis 1.31.
 
 ## Was Schulen falsch machen
 

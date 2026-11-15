@@ -7,8 +7,9 @@ foundations: [ai-literacy]
 assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
-translation_of: "faqs/ai-literacy-evidence"
-source_updated: "2026-10-28T11:47:13-04:00"
+updated: "2026-11-15T15:43:50-05:00"
+translation_of: faqs/ai-literacy-evidence
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -54,7 +55,7 @@ La [[meta-analysis-systematic-review|revisione sistematica]] di Hingle e Johri o
 
 L'**AI Literacy Continuum** della NC State descrive una progressione da *Not Yet Engaged* e *Uncritical Use* a *Informed Use*, *[[critical-thinking|Critical Evaluation]]* e *Improvement*, ed è stato attuato con più di 330 partecipanti tra corsi e laboratori ([[ai-literacy-continuum-higher-education]]). Le sue osservazioni suggeriscono una spaccatura: le esperienze brevi spostavano gli studenti verso l'uso informato, mentre la valutazione critica e il miglioramento emergevano soprattutto nel lavoro prolungato e incorporato nella disciplina. Non c'erano una misura pre/post validata né un gruppo di confronto, quindi sono prove basate sulla pratica.
 
-La formazione degli insegnanti mostra lo stesso tetto da un'altra angolazione. L'intervento [[design-based-research|basato sulla progettazione]] di Le et al. è stato sperimentato con 14 studenti di magistrale e valutato con 29 studenti di [[teacher-education|formazione docenti]]. L'[[self-efficacy|autoefficacia]] dichiarata in materia di IA è salita e gli studenti si sono spostati verso una considerazione [[pedagogy|pedagogica]] più critica dell'IA generativa, mentre i guadagni sull'etica hanno raggiunto solo una significatività marginale. Uno studio basato sulla progettazione di quelle dimensioni non può stabilire la competenza ([[genai-literacy-training-teacher-education-dbr-2026]]).
+La formazione degli [[teacher-role|insegnanti]] mostra lo stesso tetto da un'altra angolazione. L'intervento [[design-based-research|basato sulla progettazione]] di Le et al. è stato sperimentato con 14 studenti di magistrale e valutato con 29 studenti di [[teacher-education|formazione docenti]]. L'[[self-efficacy|autoefficacia]] dichiarata in materia di IA è salita e gli studenti si sono spostati verso una considerazione [[pedagogy|pedagogica]] più critica dell'IA generativa, mentre i guadagni sull'etica hanno raggiunto solo una significatività marginale. Uno studio basato sulla progettazione di quelle dimensioni non può stabilire la competenza ([[genai-literacy-training-teacher-education-dbr-2026]]).
 
 ## Misura che cosa sanno fare gli studenti
 
@@ -88,7 +89,7 @@ La domanda che segue è quella da porre al tuo programma: il credito certifica u
 
 ## Che cosa sbaglia questo pubblico
 
-Un laboratorio è un curriculum. Le osservazioni del Continuum collocano la valutazione critica e il miglioramento nel lavoro prolungato e incorporato nella disciplina, e Le et al. hanno mosso l'autoefficacia senza stabilire la competenza.
+Un laboratorio è un [[curriculum-design|curriculum]]. Le osservazioni del Continuum collocano la valutazione critica e il miglioramento nel lavoro prolungato e incorporato nella disciplina, e Le et al. hanno mosso l'autoefficacia senza stabilire la competenza.
 
 La fiducia è un proxy dell'alfabetizzazione. Il risultato GLAT è diretto: un test di prestazione prevedeva la prestazione nel compito e una misura autodichiarata no.
 

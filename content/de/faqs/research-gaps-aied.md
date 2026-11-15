@@ -1,7 +1,7 @@
 ---
 title: "Was sind bemerkenswerte Lücken in der Forschungsliteratur zu KI in der Bildung?"
 created: "2026-08-24T14:10:00-04:00"
-updated: "2026-11-08T05:07:29-05:00"
+updated: "2026-11-15T15:44:25-05:00"
 connected_faqs: [reporting-interpreting-aied-research, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research]
 weight: 45
 type: faq
@@ -15,7 +15,7 @@ audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
 translation_of: faqs/research-gaps-aied
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -75,7 +75,7 @@ Die verbleibende Lücke betrifft Verläufe von Fähigkeit, und ein zusätzlicher
 
 Weiterhin offen: der Beitrag und das Timing erster unabhängiger Versuche, von Selbsterklärung, Peer-Input, korrigierendem Feedback, Hinweisen und auslaufender Unterstützung, und wie jedes davon mit [[prior-knowledge|Vorwissen]] und Aufgabenschwierigkeit interagiert.
 
-Die Theorielücke läuft daneben her. Eine [[learning-theories|Lerntheorie]] zu benennen ist nicht, sie zu testen. Eine Studie braucht eine theoretische Vorhersage, die an ein konkretes Systemverhalten gebunden ist, und ein messbares Lernprozessmaß, und statistische Mediation informiert diese Erklärung, ohne einen kausalen Mechanismus zu etablieren. [[theory-development-aied|Theorieentwicklung in AIED]] und [[scaffolding]] führen das Argument weiter.
+Die Theorielücke läuft daneben her. Eine [[learning-theories|Lerntheorie]] zu benennen ist nicht, sie zu testen. Eine Studie braucht eine theoretische Vorhersage, die an ein konkretes Systemverhalten gebunden ist, und ein messbares Lernprozessmaß, und statistische Mediation informiert diese Erklärung, ohne einen kausalen Mechanismus zu etablieren. [[theory-development-aied|Theorieentwicklung in AIED]] und [[scaffolding|Scaffolding (Gerüstbildung)]] führen das Argument weiter.
 
 ## Validieren Sie das Maß, bevor Sie es interpretieren
 
@@ -117,7 +117,7 @@ Die Abdeckung ist an bestimmten Stellen dünn. [[differential-effects-across-lea
 
 Auch innerhalb eines einzigen nationalen Systems variiert die Kapazität. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye et al. (2026)]] bewerteten die KI-Integration an 45 nigerianischen Universitäten und fanden eine moderate Gesamtdurchdringung (M = 4.79, Spanne 1.83-7.83 auf einer 10-Punkte-Skala), wobei der Institutionstyp die Integration nicht vorhersagte, sobald Alter und Geografie kontrolliert wurden (Alter β = 0.43; Lage im Südwesten β = 0.31). Interne Kapazitäten korrelierten untereinander mit r = 0.79-0.80 und internationale Kooperationen mit Industriepartnerschaften mit r = 0.74, sodass vernetzte Institutionen kumulierende Vorteile anhäufen. Welche Kapazitätsaufbau-Designs an neueren, weniger vernetzten Institutionen Outcomes verändern, ist ungetestet.
 
-Die Forschungspriorität ist, Designs zu identifizieren, die Unterschiede in demonstrierter Fähigkeit, Partizipation und [[agency]] verringern, wobei Teilgruppen-Outcomes und Belastungen neben durchschnittlichen Zuwächsen berichtet werden. Barrierefreiheit trägt ihre eigene ungelöste Frage: ob ein Design eine Barriere für Partizipation entfernt oder eine Fähigkeit ersetzt, die die lernende Person eigentlich entwickeln soll. Siehe [[equity-in-ai-education|Gerechtigkeit in der KI-Bildung]] und [[accessibility|Barrierefreiheit]].
+Die Forschungspriorität ist, Designs zu identifizieren, die Unterschiede in demonstrierter Fähigkeit, Partizipation und [[agency|Handlungsfähigkeit der Lernenden]] verringern, wobei Teilgruppen-Outcomes und Belastungen neben durchschnittlichen Zuwächsen berichtet werden. Barrierefreiheit trägt ihre eigene ungelöste Frage: ob ein Design eine Barriere für Partizipation entfernt oder eine Fähigkeit ersetzt, die die lernende Person eigentlich entwickeln soll. Siehe [[equity-in-ai-education|Gerechtigkeit in der KI-Bildung]] und [[accessibility|Barrierefreiheit]].
 
 ## Sagen Sie, wer die Kontrolle hat, und wann sie wechselt
 
@@ -131,7 +131,7 @@ Offene Fragen folgen. Erzeugt von Lernenden initiierte Hilfe andere Outcomes als
 
 Pädagogische Sicherheit reicht über faktische Genauigkeit und verbotene Anfragen hinaus. Ein Tutor kann eine korrekte Antwort geben und dabei die Gelegenheit der lernenden Person zum Denken entfernen, eine Fehlvorstellung verstärken oder Abhängigkeit aufbauen. [[pedagogical-safety|Pädagogische Sicherheit]] behandelt das Konstrukt.
 
-[[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] identifiziert Fehler, darunter übermäßige Antwortoffenlegung und Aufgabe von Scaffolding, mit substanziell mehr Fehlern unter Multi-Turn-Tests. Das sind [[benchmark]]-Befunde unter spezifizierten Bedingungen, keine Schätzungen, wie oft Schaden in Klassenzimmern auftritt.
+[[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] identifiziert Fehler, darunter übermäßige Antwortoffenlegung und Aufgabe von Scaffolding, mit substanziell mehr Fehlern unter Multi-Turn-Tests. Das sind [[benchmark|Benchmark (Vergleichsmaßstab)]]-Befunde unter spezifizierten Bedingungen, keine Schätzungen, wie oft Schaden in Klassenzimmern auftritt.
 
 Was geschieht, wenn diese Fehler bei anhaltender Nutzung auf echte Lernende treffen, ist unbekannt. Welche vorübergehende Verwirrung erzeugen, welche persistierende Fehlvorstellungen, welche Motivation senken und welche unabhängige Fähigkeit schwächen, wurde nicht gemessen. Ebenso wenig hat jemand etabliert, welche Schutzmaßnahmen diese Risiken senken, ohne übermäßige Verweigerung oder Frustration zu erzeugen. Längerfristige Arbeit muss außerdem Vertrauen, Bereitschaft, menschliche Hilfe zu suchen, [[agency|Handlungsfähigkeit der Lernenden]] und Beziehungen zu Peers und Lehrkräften als Outcomes führen. Für Kinder erfordert das entwicklungsangemessene Studien, die Systemverhalten mit Bildungs- und Beziehungsoutcomes verbinden.
 
@@ -203,4 +203,4 @@ Lehrende, die die klassenraumbezogene Version wollen, können [[evaluating-ai-in
 
 ## Wohin als Nächstes
 
-[[reporting-interpreting-aied-research]] ist das Berichts-Gegenstück zu dieser Seite, und [[research-methods-aied|Forschungsmethoden in KI in der Bildung]] behandelt die Designentscheidungen hinter jeder Lücke. [[evaluating-ai-interventions-methods]] handhabt Maße und Vergleichsdesigns, [[checking-whether-educational-ai-works]] ist die kürzere Version der Wirksamkeitsfrage, und [[does-ai-help-students-learn]] sammelt, was über dauerhaftes Lernen bekannt ist. [[theory-development-aied]] und [[equity-ethics-pedagogical-safety-research]] führen die Theorie- und Gerechtigkeitsstränge weiter.
+[[reporting-interpreting-aied-research]] ist das Berichts-Gegenstück zu dieser Seite, und [[research-methods-aied|Forschungsmethoden in KI in der Bildung]] behandelt die Designentscheidungen hinter jeder Lücke. [[evaluating-ai-interventions-methods]] handhabt Maße und Vergleichsdesigns, [[checking-whether-educational-ai-works]] ist die kürzere Version der Wirksamkeitsfrage, und [[does-ai-help-students-learn]] sammelt, was über dauerhaftes Lernen bekannt ist. [[theory-development-aied|Theorieentwicklung in der KI in der Bildung]] und [[equity-ethics-pedagogical-safety-research]] führen die Theorie- und Gerechtigkeitsstränge weiter.

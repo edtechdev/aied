@@ -6,9 +6,9 @@ weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-updated: "2026-10-29T14:57:55-04:00"
+updated: "2026-11-15T15:46:36-05:00"
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,8 @@ Schrijf de lijst op voordat u de sessies plant. Vier dimensies plus een didactis
 ## Beoordeel prestatie in plaats van vertrouwen
 
 [[self-report-measures|Zelfgerapporteerde]] AI-geletterdheid kan flink afwijken van aangetoonde bekwaamheid, en dat is de meest praktische waarschuwing in deze literatuur voor iedereen die docentontwikkeling verzorgt. Een vertrouwensenquête aan het eind van een workshop meet hoe de workshop aanvoelde.
+
+Een enquête kan zelfs te goed voorspeld worden. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] deelden 314 van 315 docenten in bekwaamheidsbanden in op basis van een schaal van 300 items met α = 0,997 en zonder factoranalyse, en institutionele affiliatie was de grootste bijdrage — een teken dat de scores volgden waar mensen werken, niet wat zij kunnen.
 
 Onderzoek naar [[agentic-ai|multi-agent]]-workflows van docenten geeft een tweede reden om te toetsen in plaats van te vragen: systeemdenken, didactische overtuigingen en [[self-efficacy]] werken op elkaar in bij AI-integratie, dus dezelfde sessie landt anders bij twee docenten met dezelfde vakachtergrond. Dat pleit voor gedifferentieerd aanbod, en tegen de aanpak met één maat voor iedereen die de meeste instellingen hanteren.
 
@@ -103,7 +105,7 @@ Inhoudsexperts werken de integratie zelf wel uit. Inhoudskennis voorspelde integ
 
 Eén kader dekt iedereen. De standaard met zes rollen bestaat omdat TPACK, SAMR en de grote docentstandaarden alleen K-12-docenten of alleen de onderwijsdimensie dekken.
 
-Verzet is een kennisgat dat gevuld moet worden. Risico-aversie voorspelde intentie negatief, en het identiteitswerk beschrijft docenten die redeneren vanuit didactische waarden. Een deel van wat op tegenzin lijkt, is een verdedigbare positie over overmatige afhankelijkheid bij studenten.
+Verzet is een kennisgat dat gevuld moet worden. Risico-aversie voorspelde intentie negatief, en het [[learner-identity|identiteitswerk]] beschrijft docenten die redeneren vanuit didactische waarden. Een deel van wat op tegenzin lijkt, is een verdedigbare positie over overmatige afhankelijkheid bij studenten.
 
 ## Wat er op u afkomt
 

@@ -1,7 +1,7 @@
 ---
 title: "Como fazemos um estudante simulado se comportar como um aprendiz real?"
 created: "2026-10-02T08:36:18-04:00"
-updated: "2026-10-29T08:28:16-04:00"
+updated: "2026-11-15T15:37:46-05:00"
 weight: 71
 type: faq
 connected_faqs: [checking-whether-educational-ai-works, addressing-common-misconceptions-ai-education, making-ai-better-at-supporting-learning]
@@ -14,7 +14,7 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
 translation_of: faqs/making-simulated-students-behave-like-learners
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -48,11 +48,11 @@ Antes da próxima demonstração, você precisa disso com clareza: pedir a um mo
 
 ## Decida qual pergunta o simulador está respondendo
 
-Três trabalhos ficam colapsados sob "estudante simulado", e eles precisam de maquinaria diferente. Ensaiar um professor ou um tutor precisa de um parceiro que se comporte de forma plausível sob pressão. Auditar como uma IA trata perfis diferentes de aprendizes precisa de cobertura dos perfis que lhe importam. Prever resultados de um curso precisa de uma distribuição de aprendizes, e não de um indivíduo convincente. Um simulador construído para o primeiro trabalho vai decepcionar você no terceiro, e a evidência abaixo insiste em separá-los.
+Três trabalhos ficam colapsados sob "estudante simulado", e eles precisam de maquinaria diferente. Ensaiar um [[teacher-role|professor]] ou um tutor precisa de um parceiro que se comporte de forma plausível sob pressão. Auditar como uma IA trata perfis diferentes de aprendizes precisa de cobertura dos perfis que lhe importam. Prever resultados de um curso precisa de uma distribuição de aprendizes, e não de um indivíduo convincente. Um simulador construído para o primeiro trabalho vai decepcionar você no terceiro, e a evidência abaixo insiste em separá-los.
 
 ## Nomeie os aprendizes que você não está cobrindo
 
-O achado mais útil para quem está prestes a confiar em um simulador é sobre cobertura. Doze professores que tutoraram estudantes de LLM relataram linguagem excessivamente complexa, emoção ausente, atenção não natural e saltos de conhecimento inexplicados, e as simulações representavam apenas um dos quatro quadrantes reais de comportamento de estudantes ([[llm-student-simulation-teacher-insights|Martynova et al., 2026]]). O quadrante que cobriram era o mais fácil de simular.
+O achado mais útil para quem está prestes a confiar em um simulador é sobre cobertura. Doze professores que tutoraram estudantes de [[llm|LLM]] relataram linguagem excessivamente complexa, emoção ausente, atenção não natural e saltos de conhecimento inexplicados, e as [[simulation|simulações]] representavam apenas um dos quatro quadrantes reais de comportamento de estudantes ([[llm-student-simulation-teacher-insights|Martynova et al., 2026]]). O quadrante que cobriram era o mais fácil de simular.
 
 Isso importa porque quase ninguém verifica. Apenas 3% dos estudos que simulam aprendizes validam seu simulador depois do uso. Se você construir um e pular a validação, você está na maioria esmagadora, e também é a razão pela qual essa estatística continua citável.
 
@@ -68,13 +68,13 @@ Duas notas desse estudo. A escolha de modelo não é unidimensional, já que um 
 
 Se o modelo sabe demais, você pode nomear o estado em que ele deveria estar ou subtrair o conhecimento que ele não deveria ter.
 
-**Condicione a um estado epistêmico.** Um quadro sem treinamento constrói o protótipo cognitivo de cada estudante a partir de um [[knowledge-graph|grafo de conhecimento]] e pontua candidatos de busca em feixe contra ele, relatando melhora de 100% na acurácia da simulação ([[simulating-students-diverse-cognitive-levels-2025|Wu et al., 2025]]). Sua qualidade sobe com o nível cognitivo do estudante, então aprendizes mais fracos continuam sendo o caso mais difícil, o que é lamentável dado que normalmente são o ponto. Modelar dinâmicas cognitivas em vez de uma persona estática vai além: as atualizações de estado do CogEvolution baseadas em ICAP alcançaram R²LC = 0,92, onde agentes estáticos chegam a 0,45, e caíram para 0,58 sem seu módulo ICAP ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et al., 2026]]).
+**Condicione a um estado epistêmico.** Um quadro sem treinamento constrói o protótipo cognitivo de cada estudante a partir de um [[knowledge-graph|grafo de conhecimento]] e pontua candidatos de busca em feixe contra ele, relatando melhora de 100% na acurácia da simulação ([[simulating-students-diverse-cognitive-levels-2025|Wu et al., 2025]]). Sua qualidade sobe com o nível cognitivo do estudante, então aprendizes mais fracos continuam sendo o caso mais difícil, o que é lamentável dado que normalmente são o ponto. Modelar dinâmicas cognitivas em vez de uma persona estática vai além: as atualizações de estado do CogEvolution baseadas em [[icap-framework|ICAP]] alcançaram R²LC = 0,92, onde agentes estáticos chegam a 0,45, e caíram para 0,58 sem seu módulo ICAP ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et al., 2026]]).
 
 **Remova o conhecimento.** Suprimir 16 componentes de conhecimento específicos no Mistral-7B derrubou a acurácia de cerca de 0,75 com uma taxa de esquecimento de 10% para abaixo de 0,5 com 40%, enquanto o modelo base se manteve perto de 0,85. O conhecimento suprimido se mostrou recuperável por reaprendizagem supervisionada e diálogo guiado por coaching ([[simulating-novice-students-machine-unlearning-2026|Song, Guo e Lin, 2026]]). Isso é o mais próximo de fabricar um novato diretamente, e a recuperabilidade vira uma vantagem se você quer que o simulador aprenda durante uma sessão.
 
 ## Roteirize os turnos, não a persona
 
-A estabilidade da persona acaba sendo um problema de desenho de interação e não de escolha de modelo. Cruzando cinco LLMs com três desenhos de prompt e quatro personas de intensidade de TDAH, interações roteirizadas ancoradas em tarefas eliminaram a deriva comportamental avaliada por observadores, em até 97% contra diálogo não roteirizado. Sem instruções explícitas de persona, a representação basal de estudantes pendia para sintomas altos de TDAH ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase e Leins, 2026]]).
+A estabilidade da persona acaba sendo um problema de desenho de interação e não de escolha de modelo. Cruzando cinco LLMs com três desenhos de prompt e quatro personas de intensidade de [[neurodiversity|TDAH]], interações roteirizadas ancoradas em tarefas eliminaram a deriva comportamental avaliada por observadores, em até 97% contra diálogo não roteirizado. Sem instruções explícitas de persona, a representação basal de estudantes pendia para sintomas altos de TDAH ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase e Leins, 2026]]).
 
 Se o seu simulador deriva, olhe para o que você pede a ele turno a turno antes de trocar de modelo ou reescrever a descrição do estudante.
 
@@ -90,9 +90,9 @@ A fidelidade no nível da ação tem seu próprio limite. Simuladores de estudan
 
 Duas comparações mostram quanto custa a validação.
 
-Comparar nove métodos de simulação com sete métricas baseadas em referência em 382 diálogos reservados do maior corpus público de diálogos reais de matemática entre estudante e tutor mostrou que o prompting ficou atrás do ajuste fino em atos de diálogo (0,4998 contra 0,6840), ROUGE-L (0,1648 contra 0,3212) e similaridade de cosseno (0,5460 contra 0,7390). O melhor método testado, otimização de preferência em um modelo de 8B, superou o ajuste fino supervisionado apenas marginalmente e foi pior em erros, e uma avaliação humana com três tutores reproduziu esse ranking ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). O topo dessa escada fica perto do meio, então a linha de base que você reporta decide o quão impressionante o seu próprio número parece.
+Comparar nove métodos de simulação com sete métricas baseadas em referência em 382 diálogos reservados do maior corpus público de diálogos reais de matemática entre estudante e tutor mostrou que o prompting ficou atrás do [[llm-training-and-fine-tuning|ajuste fino]] em atos de diálogo (0,4998 contra 0,6840), ROUGE-L (0,1648 contra 0,3212) e similaridade de cosseno (0,5460 contra 0,7390). O melhor método testado, otimização de preferência em um modelo de 8B, superou o ajuste fino supervisionado apenas marginalmente e foi pior em erros, e uma avaliação humana com três tutores reproduziu esse ranking ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). O topo dessa escada fica perto do meio, então a linha de base que você reporta decide o quão impressionante o seu próprio número parece.
 
-O SWIM é a comparação mais clara entre prompting, ajuste fino e aprendizagem por reforço, porque pontua cada redação gerada contra um perfil de traço alvo em vez de julgá-la impressionisticamente. O prompting fundamentado em rubrica deu controle limitado mesmo para modelos proprietários fortes, com o melhor QWK médio de traço de 0,577 (Claude Sonnet) e 0,422 (GPT-5.4), e quase zero para um modelo aberto de 7B. O ajuste fino supervisionado em pares reais de nota-redação chegou a 0,474 ± 0,023 para esse modelo de 7B. O GRPO com uma recompensa derivada de pontuação automatizada de redações chegou a 0,618 ± 0,005, com ganhos se mantendo em dois avaliadores independentes contra os quais a política nunca treinou ([[swim-student-writing-simulation-2026]]).
+O SWIM é a comparação mais clara entre prompting, ajuste fino e aprendizagem por reforço, porque pontua cada redação gerada contra um perfil de traço alvo em vez de julgá-la impressionisticamente. O prompting fundamentado em rubrica deu controle limitado mesmo para modelos proprietários fortes, com o melhor QWK médio de traço de 0,577 (Claude Sonnet) e 0,422 (GPT-5.4), e quase zero para um modelo aberto de 7B. O ajuste fino supervisionado em pares reais de nota-redação chegou a 0,474 ± 0,023 para esse modelo de 7B. O GRPO com uma recompensa derivada de [[automated-essay-scoring|pontuação automatizada de redações]] chegou a 0,618 ± 0,005, com ganhos se mantendo em dois avaliadores independentes contra os quais a política nunca treinou ([[swim-student-writing-simulation-2026|Do et al., 2026]]).
 
 O prompting também produziu uma população idealizada em vez de realista: escore geral normalizado médio de 0,74 contra 0,58 dos estudantes reais, e comprimento mediano de 304 palavras contra 167. Os modelos treinados recuperaram as distribuições humanas de nota e comprimento sem qualquer supervisão de comprimento. Uma coisa continuou difícil: a forma autêntica de baixa proficiência. Modelos treinados recuperaram a sintaxe, mas escreveram poucos erros de ortografia e gramática, enquanto o prompting simulava fraqueza por corrupção superficial, erros de ortografia espalhados sobre prosa competente.
 
@@ -100,7 +100,7 @@ O realismo de superfície é um teste fraco nas duas direções. Em um estudo ce
 
 ## Verifique se uma descrição resolveria
 
-Antes de construir uma coorte, verifique a opção mais barata. Para avaliar uma experiência de aprendizagem on-line antes de os estudantes se engajarem, prever evasão e conclusão e dar retorno de design, um único agente web "descritivo" que percorre a aula e produz uma descrição rica da experiência superou a simulação direta de uma população de estudantes.
+Antes de construir uma coorte, verifique a opção mais barata. Para avaliar uma experiência de [[online-teaching-and-learning|aprendizagem on-line]] antes de os estudantes se engajarem, prever evasão e conclusão e dar retorno de design, um único agente web "descritivo" que percorre a aula e produz uma descrição rica da experiência superou a simulação direta de uma população de estudantes.
 
 Os estudantes simulados naquela comparação mostraram alcance comportamental muito menor que aprendizes reais: em 100 agentes e cinco aulas de teste, reproduziram apenas cerca de 4% dos caminhos que estudantes reais percorreram, ao mesmo tempo em que custaram substancialmente mais computação. O pipeline descrever-e-então-prever alcançou a melhor previsão de distribuição de evasão em um curso CS1 global massivo, com JSD média de 0,060 ([[ai-web-agents-lesson-design-2025|Wang, Mitchell e Piech, 2025]]).
 
@@ -144,4 +144,4 @@ Simular uma população é a opção minuciosa. Em 100 agentes, as simulações 
 
 ## Para onde ir a seguir
 
-[[simulating-students]] é a página conceitual completa. [[checking-whether-educational-ai-works]] cobre a avaliação dos sistemas que você testa contra um simulador, e [[making-ai-better-at-supporting-learning]] cobre os métodos de treinamento por trás dos resultados de ajuste fino aqui. [[addressing-common-misconceptions-ai-education]] trata de se estudantes simulados podem substituir aprendizes reais na pesquisa.
+[[simulating-students|estudantes simulados]] é a página conceitual completa. [[checking-whether-educational-ai-works]] cobre a avaliação dos sistemas que você testa contra um simulador, e [[making-ai-better-at-supporting-learning]] cobre os métodos de treinamento por trás dos resultados de ajuste fino aqui. [[addressing-common-misconceptions-ai-education]] trata de se estudantes simulados podem substituir aprendizes reais na pesquisa.

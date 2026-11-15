@@ -1,14 +1,14 @@
 ---
 title: "제 강의에 AI 리터러시를 어떻게 통합해야 할까요?"
 created: "2026-08-24T09:50:00-04:00"
-updated: "2026-11-08T00:06:30-05:00"
+updated: "2026-11-15T15:46:45-05:00"
 connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
 translation_of: faqs/incorporating-ai-literacy
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ ai_assist:
 
 ## 수업을 하나 더하지 말고, 이미 채점하는 과제에 단계를 하나 더하십시오
 
-기관의 기본 행보는 대개 학기 초에 [[llm|대규모 언어모델]]이 어떻게 작동하는지, 프롬프트를 어떻게 쓰는지를 다루는 독립 모듈을 두는 것입니다. [[ai-literacy]] 종합은 다른 배치를 주장합니다. 학생들은 실제 강좌 과제 안에서 AI를 사용하고, 의심하고, 검증하고, 비판하고, 결정할 때 더 유용한 리터러시를 발달시키며, 그것도 반복해서 그렇습니다. 비판적 평가로의 이동은 그러한 경험이 한 번 전달되는 것이 아니라 지속적으로 내장될 때 가장 분명하게 드러납니다 ([[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]]).
+기관의 기본 행보는 대개 학기 초에 [[llm|대규모 언어모델]]이 어떻게 작동하는지, 프롬프트를 어떻게 쓰는지를 다루는 독립 모듈을 두는 것입니다. [[ai-literacy|AI 리터러시]] 종합은 다른 배치를 주장합니다. 학생들은 실제 강좌 과제 안에서 AI를 사용하고, 의심하고, 검증하고, 비판하고, 결정할 때 더 유용한 리터러시를 발달시키며, 그것도 반복해서 그렇습니다. 비판적 평가로의 이동은 그러한 경험이 한 번 전달되는 것이 아니라 지속적으로 내장될 때 가장 분명하게 드러납니다 ([[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]]).
 
 [[quantitative-research|양적]] 증거도 같은 방향을 가리킵니다. [[liu-ai-literacy-interventions-meta-analysis-2026|AI 리터러시 중재 59편의 메타분석]]은 통합적이고 성찰적인 교수법에서 가장 큰 효과를 발견했습니다. 다만 지식 중심 중재가 기술, 태도, 윤리를 겨냥한 중재보다 *측정된* 효과가 더 크다는 점도 경고합니다. 무엇을 측정할지 고를 때 이를 염두에 두십시오.
 
@@ -52,11 +52,11 @@ ai_assist:
 
 ## 도구가 답하기 전에 학생이 먼저 확정하게 하십시오
 
-먼저 생각하고, AI는 그다음입니다. 학생에게 무엇을 참조하기 전에 초기 해석, 해법, 논증, 예측 또는 초안을 형성하게 하십시오. 그다음 자기 사고를 출력과 비교하고, 일치점과 불일치점을 명명하고, 주장을 검증하고, 무엇을 받아들일지 결정합니다. 그래야 도구가 그 과제가 발달시키려는 인지 작업을 대체하지 못합니다. [[cognitive-offloading]]와 [[ai-misuse-learning-harm]] 뒤에 있는 우려가 바로 그것입니다. 즉각적 수행은 좋아지는데 독립적 학습은 나빠질 수 있습니다.
+먼저 생각하고, AI는 그다음입니다. 학생에게 무엇을 참조하기 전에 초기 해석, 해법, 논증, 예측 또는 초안을 형성하게 하십시오. 그다음 자기 사고를 출력과 비교하고, 일치점과 불일치점을 명명하고, 주장을 검증하고, 무엇을 받아들일지 결정합니다. 그래야 도구가 그 과제가 발달시키려는 인지 작업을 대체하지 못합니다. [[cognitive-offloading|인지적 오프로딩]]와 [[ai-misuse-learning-harm]] 뒤에 있는 우려가 바로 그것입니다. 즉각적 수행은 좋아지는데 독립적 학습은 나빠질 수 있습니다.
 
 그 구조가 없을 때 벌어지는 일은 잘 문서화되어 있습니다. 학부생 38명을 대상으로 한 Yan 등의 presage-process-product 연구는 76.32%가 질문 한 번, 답 받기, 중단의 단일 턴 패턴에 의존했고, 78.94%가 생성형 AI를 착수 전이나 초안 작성 후에만 통합했다는 것을 발견했습니다. 숙달 지향 학생들조차 표면적 과정으로 흘렀습니다. 저자들은 이 결과를 효율성 역설이라고 부릅니다. 속도를 얻는 대가로 도식을 만드는 인지 작업을 잃는 것이고, 한 학생의 말을 인용합니다. "잊어버리는 속도도 아주 빠릅니다." 이들은 원인을 제도적 공백에서 찾습니다. 교수자들이 베끼기를 금지하면서 생산적 사용은 거의 가르치지 않는 상태입니다 ([[yan-cognitive-outsourcing-genai-assessments-2026|From cognitive outsourcing to reallocation]]).
 
-과정 산출물을 요구하는 것이 값싼 해법입니다. 대화 이력, 성찰 노트, 수정 로그 중 무엇이든 작업 흐름을 가시화하고, [[metacognition]]이 붙을 곳을 주고, [[self-regulated-learning|자기 조절]]을 채점 가능한 것으로 바꿉니다. 또한 부정행위 논의에 필요했을 증거를 여러분에게 제공합니다.
+과정 산출물을 요구하는 것이 값싼 해법입니다. 대화 이력, 성찰 노트, 수정 로그 중 무엇이든 작업 흐름을 가시화하고, [[metacognition|메타인지]]이 붙을 곳을 주고, [[self-regulated-learning|자기 조절]]을 채점 가능한 것으로 바꿉니다. 또한 부정행위 논의에 필요했을 증거를 여러분에게 제공합니다.
 
 ## 비판에 점수를 부여하십시오
 
@@ -88,7 +88,7 @@ ai_assist:
 
 주의 하나에는 숫자가 따라붙습니다. 재설계된 입문 입자물리학 강좌가 연구형 문제에서 생성형 AI를 명시적 파트너로 허용했는데, 도움 없는 필기 시험의 평균은 80점 만점에 20.6점이었고 40점에 도달한 학생은 두 명뿐이었습니다 ([[ai-particle-physics-education-redesign-2026|AI in particle physics education]]). 도움을 받은 수행과 독립적으로 인출 가능한 지식은 별개의 성취입니다. 저자들은 검증을 포함한 AI 리터러시를, 그리고 AI를 베끼는 도구가 아니라 [[teacher-role|교사]]로 다루는 태도를 일찍 가르치면서 전용의 도움 없는 연습을 함께 두라고 주장합니다. 더 완전한 사례는 [[physics-education|물리교육]]에 있습니다.
 
-실제 독자를 위해 학생들이 무언가를 만드는 판본도 있습니다. Burriss 등은 11학년 학생 22명에게 자신들이 겪은 AI [[ethics]] 문제, 곧 학교 감시, 전자 "복도 통행증", 알고리즘에 의한 [[academic-integrity|표절]] 고발에 관한 공익광고 영상을 제작하게 했습니다. 이 단원은 Critical Posthumanist Literacy와 [[multimodal|복합양식 작문]]에 기대었습니다. 학생들은 해악을 악당 같은 도구가 아니라 인간과 기계의 뒤엉킨 책임에서 나오는 것으로 그렸고, 부정행위 서사를 결함 있는 AI에 과잉 의존하는 어른들 쪽으로 돌려세웠으며, [[agency]]로 마무리했습니다("해법은 우리 손이 닿는 곳에 있습니다"). 저자들은 [[storytelling-in-education|스토리텔링]]과 협력적 제작을 [[critical-pedagogy|비판적 AI 리터러시 교수법]]의 중심에 두고, 실제 독자를 위해 AI *에 관해* 작문하는 일이 역량 척도로는 볼 수 없는 비판적 능력을 발달시킨다고 주장합니다 ([[burriss-multimodal-composition-critical-ai-literacy-2026|"Young Scholar[s] on the Beat"]]). 그 주장은 학생 22명의 한 단원에서 나온 논변이므로, 효과 크기가 아니라 설계 아이디어로 읽으십시오.
+실제 독자를 위해 학생들이 무언가를 만드는 판본도 있습니다. Burriss 등은 11학년 학생 22명에게 자신들이 겪은 AI [[ethics|윤리]] 문제, 곧 학교 감시, 전자 "복도 통행증", 알고리즘에 의한 [[academic-integrity|표절]] 고발에 관한 공익광고 영상을 제작하게 했습니다. 이 단원은 Critical Posthumanist Literacy와 [[multimodal|복합양식 작문]]에 기대었습니다. 학생들은 해악을 악당 같은 도구가 아니라 인간과 기계의 뒤엉킨 책임에서 나오는 것으로 그렸고, 부정행위 서사를 결함 있는 AI에 과잉 의존하는 어른들 쪽으로 돌려세웠으며, [[agency|주체성]]로 마무리했습니다("해법은 우리 손이 닿는 곳에 있습니다"). 저자들은 [[storytelling-in-education|스토리텔링]]과 협력적 제작을 [[critical-pedagogy|비판적 AI 리터러시 교수법]]의 중심에 두고, 실제 독자를 위해 AI *에 관해* 작문하는 일이 역량 척도로는 볼 수 없는 비판적 능력을 발달시킨다고 주장합니다 ([[burriss-multimodal-composition-critical-ai-literacy-2026|"Young Scholar[s] on the Beat"]]). 그 주장은 학생 22명의 한 단원에서 나온 논변이므로, 효과 크기가 아니라 설계 아이디어로 읽으십시오.
 
 ## 값싼 곳에서는 사회적으로 하십시오
 
@@ -98,7 +98,7 @@ ai_assist:
 
 ## 과제로 판단력을 평가하십시오
 
-학생들은 자신이 AI를 얼마나 잘 평가하는지 과대평가하고, [[self-report-measures|자기보고]] 확신 문항은 그 오류를 드러내기보다 확인해 줍니다. 지식베이스는 자기보고 AI 리터러시와 수행 기반 AI 리터러시 사이의 유의한 불일치를 문서화하고 수행 평가를 권고합니다 ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs Performance Misalignment]]; [[jin-glat-genai-literacy-assessment|GLAT]]).
+학생들은 자신이 AI를 얼마나 잘 평가하는지 과대평가하고, [[self-report-measures|자기보고]] 확신 문항은 그 오류를 드러내기보다 확인해 줍니다. 자기보고 AI 리터러시와 수행 기반 AI 리터러시 사이에는 유의한 불일치가 있으며, 증거는 수행 평가를 권고합니다 ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs Performance Misalignment]]; [[jin-glat-genai-literacy-assessment|GLAT]]).
 
 확신 문항 대신 할 일을 주십시오. 오류를 탐지하고, 출처를 검증하고, 출력을 개선하고, 한계를 설명하고, 특정 과제에 특정 AI 사용이 왜 적절한지 정당화하는 것입니다.
 
@@ -128,7 +128,7 @@ AI 리터러시란 프롬프트를 가르치는 것이다. 프롬프트는 눈�
 
 비판적 평가는 교과 지식에서 전이된다. 전이되지 않습니다. 그래서 컴퓨팅 결과가 중요합니다. 올바른 코드를 쓸 수 있는 학생이 다른 사람이 쓴 틀린 코드를 진단할 수 있는 것은 아니고, 같은 간극이 산문에서도 나타납니다.
 
-확신은 쓸 만한 대리 지표다. 이 문헌에서 자기보고와 수행은 갈리고, 그 갈림은 체계적일 만큼 커서 지식베이스가 수행 측정을 권고합니다. 시연을 요구하십시오.
+확신은 쓸 만한 대리 지표다. 이 문헌에서 자기보고와 수행은 갈리고, 그 갈림은 체계적일 만큼 커서 수행 측정이 권고됩니다. 시연을 요구하십시오.
 
 ## 되돌아올 반론들
 
@@ -158,4 +158,4 @@ AI 리터러시란 프롬프트를 가르치는 것이다. 프롬프트는 눈�
 
 ## 다음에 볼 곳
 
-[[ai-literacy-evidence|고등교육에서 AI 리터러시 중재에 관한 증거는 무엇입니까?]]는 이 근거 기반이 얼마나 강하고 어디서 얇아지는지에 대한 정직한 평가입니다. [[how-ai-impacts-students]]는 학생 쪽을, [[verify-ai-output]]은 학생에게 필요한 검증 습관을 다루고, 수업이 아니라 측정 도구를 만들고 있다면 [[ai-literacy-assessment-misalignment]]로 가십시오. [[cognitive-offloading]]는 먼저 확정하기 규칙 아래의 기제를 설명합니다.
+[[ai-literacy-evidence|고등교육에서 AI 리터러시 중재에 관한 증거는 무엇입니까?]]는 이 근거 기반이 얼마나 강하고 어디서 얇아지는지에 대한 정직한 평가입니다. [[how-ai-impacts-students]]는 학생 쪽을, [[verify-ai-output]]은 학생에게 필요한 검증 습관을 다루고, 수업이 아니라 측정 도구를 만들고 있다면 [[ai-literacy-assessment-misalignment]]로 가십시오. [[cognitive-offloading|인지적 오프로딩]]는 먼저 확정하기 규칙 아래의 기제를 설명합니다.

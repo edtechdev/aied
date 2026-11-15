@@ -1,7 +1,7 @@
 ---
 title: "AIが当たり前になった職業のために、学生は何を学ぶべきですか？"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-15T15:43:36-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -48,6 +48,8 @@ ai_assist:
 [[ithaka-sr-ai-skills-college-graduates-2026|Ithaka S+Rの報告]]は、米国の4年制大学の教員500人に、7つのカテゴリーにわたる枠組みの26の技能を評定させ、その評定を、枠組みの著者らが調査した雇用主のパネルと比較しました。不一致は無作為ではなく体系的です。教員はAIの限界、出典の表示、人間の説明責任を上位に置き、雇用主はワークフローの設計、自動化、人間とAIのチーミングをより高く置きました。
 
 この隔たりについて魅力的な読み方が2つあり、どちらも誤っています。1つは、教員が労働市場より遅れているという読み方。もう1つは、雇用主が従順さを求めているという読み方です。より有用な読み方は、それぞれの群が同じ仕事の異なる半分を記述しているというものであり、片方の半分しかできない卒業生はどちらにも備えができていません。結果がなぜ誤りかを説明できない学生は、ワークフローを信頼する雇用主には役に立ちません。AIの出力を批判できるだけの学生は、課題を完成させる必要のある雇用主には役に立ちません。
+
+雇用主のシグナルをカリキュラムの変更に変えること自体が、意思決定の節目を伴うプロセスです。[[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale（2026年）]]は6つの段階——感知、利害関係者による検証、プログラムの診断、カリキュラムの再設計、実施と能力、成果のレビュー——を提案し、それぞれに名前の付いた決定権と責任のある成果物を置き、AIをパターン検出やコンピテンシー・マッピングといった限定された支援機能に留めています。それは評価ではなく提案ですが、諮問委員会の依頼が通常飛ばす手順に名前を与えています。
 
 この証拠の限界は重要です。これらは調査から得られた表明された優先順位であり、報告は、どんなカリキュラムがよりよい採用、よりよいパフォーマンス、よりよい報酬を生むかを示していません。報告が与えるのは、あなたの学生が、AIに支援されたワークフローについて論じるのではなく、それを完成させ確認する練習をしたことがあるかどうかを問う、擁護できる理由です。
 
@@ -125,6 +127,6 @@ ai_assist:
 
 ## 次に行くべき場所
 
-[[career-development-and-readiness]]は、雇用可能性、適応性、労働力についての証拠の概念ページであり、[[ai-literacy]]はツールの操作を越えたリテラシーの意味を扱います。特定のコースに組み込むことについては、[[incorporating-ai-literacy|AIリテラシーの組み込み]]と[[faculty-ai-competencies|教員に必要な能力]]を参照してください。
+[[career-development-and-readiness|キャリア開発と準備]]は、雇用可能性、適応性、労働力についての証拠の概念ページであり、[[ai-literacy|AIリテラシー]]はツールの操作を越えたリテラシーの意味を扱います。特定のコースに組み込むことについては、[[incorporating-ai-literacy|AIリテラシーの組み込み]]と[[faculty-ai-competencies|教員に必要な能力]]を参照してください。
 
 支援を受けたパフォーマンスと独立したパフォーマンスを区別できるようにする[[assessment|評価の設計]]については、[[redesign-assessment-ai-era|AI時代の評価の再設計]]と[[ai-grading-fairness-reliability|AI採点]]を参照してください。支援が依存にならないようにする方法については、[[reducing-over-reliance|過度の依存を減らす]]を参照してください。

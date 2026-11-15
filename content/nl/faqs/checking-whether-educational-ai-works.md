@@ -1,7 +1,7 @@
 ---
 title: "Hoe weten we of een educatieve AI correct werkt en niet alleen goed scoort?"
 created: "2026-10-02T08:07:09-04:00"
-connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
 foundations: [ai-education]
@@ -14,9 +14,9 @@ discipline: [writing education, math education]
 confidence: high
 methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
-updated: "2026-10-29T14:57:54-04:00"
+updated: "2026-11-15T15:46:36-05:00"
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -84,13 +84,13 @@ Praktische versie: neem een steekproef van ongeveer vijftig uitvoeren, laat een 
 
 De schoonste oplossing is het model trainen op dezelfde grootheid die u wilt meten. Een fijngetuned model werd getraind om de statistische eigenschappen van toetsvragen te reproduceren: hoe moeilijk elk item is, hoe goed het sterkere van zwakkere studenten scheidt. Het leerde die patronen in plaats van ze te horen te krijgen ([[multimodal-item-parameter-estimation-2026|studie naar het schatten van itemparameters]]). Omdat het doel een eigenschap van de toetsing zelf was, kon de evaluatie over die eigenschap gaan in plaats van over formulering.
 
-Rapporteer de ontwikkeling en niet alleen het eindpunt. De schrijfsimulator SWIM publiceerde de score van elke fase naast elkaar: prompten met een rubric **0,577**, fijn tunen **0,474 ± 0,023**, reinforcement learning **0,618 ± 0,005** ([[swim-student-writing-simulation-2026|SWIM]]). Een lezer kan aan die tabel zien of de training iets deed. Een enkel eindgetal kan dat niet vertellen, en het verbergt een fase waarin het fijngetunede model slechter deed dan de prompt.
+Rapporteer de ontwikkeling en niet alleen het eindpunt. De [[simulation|schrijfsimulator]] SWIM publiceerde de score van elke fase naast elkaar: [[prompt-engineering|prompten]] met een rubric **0,577**, fijn tunen **0,474 ± 0,023**, [[reinforcement-learning|reinforcement learning]] **0,618 ± 0,005** ([[swim-student-writing-simulation-2026|SWIM]]). Een lezer kan aan die tabel zien of de training iets deed. Een enkel eindgetal kan dat niet vertellen, en het verbergt een fase waarin het fijngetunede model slechter deed dan de prompt.
 
 ## Vergelijk met iets buiten uw project
 
 Zoek eerst een basislijn, ook een goedkope. Het model van de cursusassistent zonder grounding scoorde onder een gewone zoekopdracht op trefwoorden, wat het soort resultaat is dat de roadmap verandert en een dag kost om te vinden.
 
-Een externe benchmark vertelt u vervolgens of uw getal überhaupt ergens goed voor is. Op de CDPK-pedagogiekbenchmark haalde EduQwen **96,52%** tegen **90,55%** van Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026|Singh et al.]]). De Pedagogy Benchmark, gebouwd uit echte examens voor de professionele ontwikkeling van docenten en **97 modellen** omvattend, vond nauwkeurigheid van **28% tot 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
+Een externe benchmark vertelt u vervolgens of uw getal überhaupt ergens goed voor is. Op de CDPK-[[pedagogy|pedagogiek]]benchmark haalde EduQwen **96,52%** tegen **90,55%** van Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026|Singh et al., 2026]]). De Pedagogy Benchmark, gebouwd uit echte examens voor de professionele ontwikkeling van [[teacher-role|docenten]] en **97 modellen** omvattend, vond nauwkeurigheid van **28% tot 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
 
 Op een taak over lesgeven liepen modellen van slecht tot goed, dus een benchmarkresultaat plaatst uw systeem ergens binnen een brede bandbreedte.
 
@@ -102,7 +102,7 @@ Voer de controle uit over volledige gesprekken, en schrijf de testbeurten bewust
 
 ## Controleer de gesimuleerde student voordat u die vertrouwt
 
-Gesimuleerde studenten genereren in plaats van echte werven maakt evaluatie veel goedkoper. Een gesimuleerde student is ook een meetinstrument, en dat kan fout zijn op de manieren waarop instrumenten fout zijn: te meewerkend, te vloeiend, te snel geneigd een hint te accepteren.
+Het genereren van [[simulating-students|gesimuleerde studenten]] in plaats van het werven van echte maakt evaluatie veel goedkoper. Een gesimuleerde student is ook een meetinstrument, en dat kan fout zijn op de manieren waarop instrumenten fout zijn: te meewerkend, te vloeiend, te snel geneigd een hint te accepteren.
 
 De meest directe test in de kennisbank benchmarkte gesimuleerde en gepromptde studenten tegen **382 achtergehouden dialogen** uit de grootste openbare verzameling echte wiskundedialogen tussen student en tutor, met zeven maten voor taal, gedrag en denken ([[simulated-students-tutoring-dialogues-2026|studie met gesimuleerde studenten]]). Ander werk duwt vanuit andere hoeken op realisme: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] traint modellen om zowel te handelen als te denken als studenten, en geschiedenisbewuste profielen conditioneren de simulatie op het verleden van een student in plaats van op een vast persona ([[history-aware-student-simulation|geschiedenisbewuste studentensimulatie]]).
 

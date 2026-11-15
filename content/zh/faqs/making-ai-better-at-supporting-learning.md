@@ -1,7 +1,7 @@
 ---
 title: "我们如何让 AI 更好地支持我们自己学科中的学习？"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-15T15:43:33-05:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, developing-ai-tutor, designing-educational-ai-software]
 weight: 74
 type: faq
@@ -16,7 +16,7 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: faqs/making-ai-better-at-supporting-learning
-source_updated: "2026-10-28T11:21:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -34,7 +34,7 @@ ai_assist:
 
 工单上写着“用我们的课程材料微调模型”。预算批了，下个月的 GPU 也订好了，一位研究生被安排去整理数据集。会议里没有人问过：在同样的问题上，一条朴素提示能得多少分，一次关键词检索能得多少分。
 
-先问这两个问题。在这个知识库里，通用模型与一个懂这门课的模型之间的差距，主要是“有据可依”和“提示”的问题，而支持这个顺序的证据异常直接：一项课程助手研究发现，第一位的决策是检索而不是模型，而一个没有任何依据的通用模型，得分*低于*一个朴素的 TF-IDF 基线。
+先问这两个问题。通用模型与一个懂这门课的模型之间的差距，主要是“有据可依”和“提示”的问题，而支持这个顺序的证据异常直接：一项课程助手研究发现，第一位的决策是检索而不是模型，而一个没有任何依据的通用模型，得分*低于*一个朴素的 TF-IDF 基线。
 
 训练是真实的，有时也是必要的。但它是第三或第四个该试的东西，下面的工作按顺序排列，好让你在花掉这一季的算力之前，先弄清自己实际需要哪一级台阶。
 
@@ -93,7 +93,7 @@ ai_assist:
 
 适配教模型*产出什么*。后训练教它*如何行事*。对辅导来说，这个区分就是全部问题：通用模型是在人类对“有用”的偏好上做过后训练的，“有用”意味着尽快作答，而教学要求把答案留住不给。
 
-这个语料库里最强的教育结果就在这里。EduQwen 的奖励模型明确把**引导式回应置于直接答案之上**，它的三阶段流水线在 CDPK 基准上达到 **96.52%**，而 Gemini-3 Pro 为 **90.55%**（[[singh-eduqwen-pedagogical-rl-2026]]）。SWIM 的写作[[simulation|模拟器]]从基于量规的提示（最佳 QWK **0.577**），到监督微调（**0.474 ± 0.023**），再到[[reinforcement-learning|强化学习]]（**0.618 ± 0.005**），在每一个特质和提示上都如此（[[swim-student-writing-simulation-2026]]）。
+最强的教育结果就在这里。EduQwen 的奖励模型明确把**引导式回应置于直接答案之上**，它的三阶段流水线在 CDPK 基准上达到 **96.52%**，而 Gemini-3 Pro 为 **90.55%**（[[singh-eduqwen-pedagogical-rl-2026]]）。SWIM 的写作[[simulation|模拟器]]从基于量规的提示（最佳 QWK **0.577**），到监督微调（**0.474 ± 0.023**），再到[[reinforcement-learning|强化学习]]（**0.618 ± 0.005**），在每一个特质和提示上都如此（[[swim-student-writing-simulation-2026]]）。
 
 SWIM 的这些数字要仔细读，因为中间那一步是往回走的。用示范做监督微调，让模拟器比它出发时的那条提示更差，只有奖励信号把损失找了回来，然后才超过基线。如果你的计划停在监督微调，这个计划可能是一段绕路。
 

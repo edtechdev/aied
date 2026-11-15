@@ -1,7 +1,7 @@
 ---
 title: "Como pais e professores devem abordar a IA com crianças menores de 13 anos?"
 created: "2026-09-16T15:25:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:37:46-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, incorporating-ai-literacy, how-ai-impacts-students]
 weight: 75
 type: faq
@@ -14,7 +14,7 @@ audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: faqs/ai-guidance-children-under-13
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -34,7 +34,7 @@ Os termos do fornecedor dizem que a ferramenta é para usuários de 13 anos ou m
 
 Três perguntas estão emaranhadas nesse pedido: o que uma criança de seis anos pode fazer com esses sistemas, o que a escola deve às famílias cujos filhos encontram a IA em casa, e o que fazer quando a proibição não é a resposta que você consegue defender.
 
-A resposta curta que você pode levar ao conselho: escalone o acesso por idade, ensine às crianças como esses sistemas são construídos antes de entregar um deles, e mantenha um adulto no circuito onde a criança não consegue julgar a saída. Uma proibição geral é a opção com menos evidência por trás. Não existe estudo sobre proibições por idade nesta base de conhecimento, e a maior parte da exposição dessa faixa etária acontece em casa, onde uma regra escolar não alcança.
+A resposta curta que você pode levar ao conselho: escalone o acesso por idade, ensine às crianças como esses sistemas são construídos antes de entregar um deles, e mantenha um adulto no circuito onde a criança não consegue julgar a saída. Uma proibição geral é a opção com menos evidência por trás. Não existe estudo sobre proibições por idade, e a maior parte da exposição dessa faixa etária acontece em casa, onde uma regra escolar não alcança.
 
 ## A versão curta
 
@@ -56,11 +56,11 @@ A avaliação deles é um único levantamento pós-exposição com 831 participa
 
 As duas edições também mostram para que serve a fronteira. A faixa elementar recebe atividades baseadas em plataforma, com scaffolding e não generativas, de modo que a criança aprende o que o sistema faz sem um sistema que responde de volta. A faixa avançada acopla raciocínio ético ao uso generativo supervisionado. Equipes que esperam que o engajamento acompanhe a sofisticação da ferramenta costumam encontrar o contrário.
 
-O que a estratificação compra é uma ordem de operações defensável. Muitas escolas fazem isso ao contrário, comprando o chatbot no outono e ensinando sobre ele na primavera, e a evidência sobre essa ordem está mais abaixo nesta página.
+O que a estratificação compra é uma ordem de operações defensável. Muitas escolas fazem isso ao contrário, comprando o chatbot no outono e ensinando sobre ele na primavera, quando a ordem defensável é a inversa.
 
 ## Comece as crianças mais novas com brincadeira, fabricação e máquinas
 
-[[play-ai-pre-k-kindergarten-ai-literacy-2026|Play With AI]] é um [[curriculum-design|currículo]] de pré-escola e jardim de infância centrado no brincar, construído sobre [[embodied-learning|brincadeira corporificada]], programação tangível como ponte procedural, diálogo guiado como [[scaffolding]] reflexivo e co-design com professores como âncora de [[sustainability|sustentabilidade]]. Ao longo dos ciclos de design, o conforto autorrelatado dos professores aumentou, e as crianças raciocinaram sobre a IA como algo projetado por humanos, construíram sequenciamento e depuração por meio de programação tangível, e refletiram sobre justiça em diálogos guiados. [[ai-play-framework-early-childhood-2026|AI-Play]] segue a rota desconectada, com atividades sem tela que os pais podem conduzir em casa.
+[[play-ai-pre-k-kindergarten-ai-literacy-2026|Play With AI]] é um [[curriculum-design|currículo]] de pré-escola e jardim de infância centrado no brincar, construído sobre [[embodied-learning|brincadeira corporificada]], programação tangível como ponte procedural, diálogo guiado como [[scaffolding|andaimento]] reflexivo e co-design com professores como âncora de [[sustainability|sustentabilidade]]. Ao longo dos ciclos de design, o conforto autorrelatado dos professores aumentou, e as crianças raciocinaram sobre a IA como algo projetado por humanos, construíram sequenciamento e depuração por meio de programação tangível, e refletiram sobre justiça em diálogos guiados. [[ai-play-framework-early-childhood-2026|AI-Play]] segue a rota desconectada, com atividades sem tela que os pais podem conduzir em casa.
 
 Para os mais novos, o risco é a crença. [[creative-project-approach-ai-early-childhood-2025|Yang, Li e Lee (2025)]] alertam que robôs sociais generativos podem produzir conteúdo que crianças pré-operacionais aceitam como verdadeiro, que esses sistemas não são calibrados ao desenvolvimento no feedback que dão, e que seu custo e disponibilidade ampliam [[digital-divide|divisões]] já existentes. [[ai-toys-child-development-2026|Xu, Girouard e Shi (2026)]] descrevem o mecanismo como uma redistribuição de autonomia na brincadeira: o controle se desloca para a interação criança-brinquedo, restringindo a brincadeira quando o brinquedo a organiza e a possibilitando quando o brinquedo segue a imaginação da criança. O mesmo brinquedo pode fazer uma coisa ou outra, e é por isso que a presença do adulto é a variável de design que você controla.
 
@@ -70,7 +70,7 @@ Ensinar como as máquinas funcionam também pertence a esta faixa. [[tsingidou-c
 
 ## Passe os jovens de 9 a 12 anos para trabalho verificado e majoritariamente não generativo
 
-Esta é a faixa em que a evidência curricular é mais forte. [[demir-akar-ai-media-literacy-children-2026|Demir e Akar (2026)]] conduziram um programa de letramento midiático crítico de 18 horas, baseado no modelo 5E, com 36 alunos turcos do quarto ano, cobrindo privacidade de dados, comunicação segura e [[ethics|ética]] midiática, com *d* de Cohen entre grupos de 1,12 para leitura, 1,18 para escrita e 1,31 para letramento total. Um programa que cabe em um único semestre e relata efeitos desse tamanho é o resultado mais encorajador desta página.
+Esta é a faixa em que a evidência curricular é mais forte. [[demir-akar-ai-media-literacy-children-2026|Demir e Akar (2026)]] conduziram um programa de letramento midiático crítico de 18 horas, baseado no modelo 5E, com 36 alunos turcos do quarto ano, cobrindo privacidade de dados, comunicação segura e [[ethics|ética]] midiática, com *d* de Cohen entre grupos de 1,12 para leitura, 1,18 para escrita e 1,31 para letramento total. Um programa que cabe em um único semestre e relata efeitos desse tamanho é o resultado mais encorajador desta literatura.
 
 Dos 9 aos 12 anos, a exposição é com scaffolding, em plataformas que a escola verificou, com as partes generativas reservadas para depois e supervisionadas. Uma vez que as crianças conseguem ler, argumentar e checar uma afirmação, ensinar o que um sistema está fazendo passa a ser o trabalho, e a ferramenta pode entrar como objeto de estudo em vez de ajudante.
 
@@ -82,7 +82,7 @@ Presuma que a responsabilidade ficará pouco clara a menos que você a resolva p
 
 [[family-school-autonomy-support-genai-2026|Fan, Li e Zhang (2026)]] formalizam os arranjos como modelos aditivo, sinérgico e compensatório, e afirmam claramente que a versão sinérgica não tem evidência de apoio. Um arranjo família-escola que funcione tem de ser construído de propósito, o que significa dizer aos pais o que fazer em casa e não apenas o que não fazer.
 
-A divulgação é tarefa da escola, não investigação da família. Escreva quais ferramentas a escola usa, que dados elas guardam e como uma família pode perguntar. [[privacy]], [[pedagogical-safety]] e [[ai-use-disclosure]] cobrem a substância, e [[equity-ethics-pedagogical-safety-research|a síntese sobre equidade, ética, privacidade e segurança]] cobre o quanto tudo isso é frágil na prática.
+A divulgação é tarefa da escola, não investigação da família. Escreva quais ferramentas a escola usa, que dados elas guardam e como uma família pode perguntar. [[privacy|privacidade]], [[pedagogical-safety|segurança pedagógica]] e [[ai-use-disclosure|divulgação do uso de IA]] cobrem a substância, e [[equity-ethics-pedagogical-safety-research|a síntese sobre equidade, ética, privacidade e segurança]] cobre o quanto tudo isso é frágil na prática.
 
 ## Verifique a ferramenta antes de adotá-la
 
@@ -130,7 +130,7 @@ Para esta faixa etária, isso corresponde a uma sequência: sobre e moldando pri
 
 Um documento para o conselho pode prometer uma data de revisão e uma definição de sucesso que sua escola consiga realmente verificar: aulas dadas, professores capazes de responder à pergunta de um pai, pedidos de dados respondidos por escrito. Alegar um ganho de aprendizagem extrapolaria todos os estudos citados aqui.
 
-Não existe estudo sobre proibições por idade nesta base de conhecimento. Nada aqui resolve se as proibições que agora aparecem em alguns sistemas escolares funcionam, e a versão honesta dessa frase pertence ao seu documento para o conselho. O que a evidência mostra é que a alternativa a uma proibição não é laissez-faire. [[moral-panic-genai-classroom|O estudo sobre disponibilidade versus integração de IA generativa]] constatou que disponibilizar IA generativa sem ensinar os estudantes a usá-la esteve associado a desempenho significativamente menor em questões aplicadas (ω² = 0,35), enquanto ensinar explicitamente seu uso para tarefas como resumir devolveu o desempenho aplicado aos níveis pré-IA e superou a linha de base em um quiz mais difícil. Esta faixa etária pode ser ensinada: o programa de quarto ano acima produziu efeitos de *d* = 1,12 a 1,31.
+Não existe estudo sobre proibições por idade. Nada aqui resolve se as proibições que agora aparecem em alguns sistemas escolares funcionam, e a versão honesta dessa frase pertence ao seu documento para o conselho. O que a evidência mostra é que a alternativa a uma proibição não é laissez-faire. [[moral-panic-genai-classroom|O estudo sobre disponibilidade versus integração de IA generativa]] constatou que disponibilizar IA generativa sem ensinar os estudantes a usá-la esteve associado a desempenho significativamente menor em questões aplicadas (ω² = 0,35), enquanto ensinar explicitamente seu uso para tarefas como resumir devolveu o desempenho aplicado aos níveis pré-IA e superou a linha de base em um quiz mais difícil. Esta faixa etária pode ser ensinada: o programa de quarto ano acima produziu efeitos de *d* = 1,12 a 1,31.
 
 ## O que as escolas erram
 
@@ -176,4 +176,4 @@ Não existe estudo sobre proibições por idade nesta base de conhecimento. Nada
 
 ## Para onde ir a seguir
 
-[[how-ai-impacts-students]] cobre o que as ferramentas fazem com a aprendizagem, e [[incorporating-ai-literacy]] com [[ai-literacy]] cobre o que ensinar. [[parents-and-families]] e [[early-childhood-elementary-ai-education]] sustentam a base de pesquisa desta página, e [[equity-ethics-pedagogical-safety-research]] é onde o argumento sobre privacidade e segurança continua. Se sua pergunta é o lado da avaliação para estudantes mais velhos, [[should-we-use-ai-detectors]] e [[reduce-ai-cheating]] levam mais longe.
+[[how-ai-impacts-students]] cobre o que as ferramentas fazem com a aprendizagem, e [[incorporating-ai-literacy]] com [[ai-literacy|letramento em IA]] cobre o que ensinar. [[parents-and-families|pais e famílias]] e [[early-childhood-elementary-ai-education|educação infantil e ensino fundamental]] sustentam a base de pesquisa desta página, e [[equity-ethics-pedagogical-safety-research]] é onde o argumento sobre privacidade e segurança continua. Se sua pergunta é o lado da avaliação para estudantes mais velhos, [[should-we-use-ai-detectors]] e [[reduce-ai-cheating]] levam mais longe.

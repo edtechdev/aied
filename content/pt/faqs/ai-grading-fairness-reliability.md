@@ -1,7 +1,7 @@
 ---
 title: "Posso usar IA para corrigir o trabalho dos estudantes com justiça e confiabilidade?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:37:46-05:00"
 type: faq
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
@@ -46,11 +46,11 @@ Aqui está a resposta curta: a correção por IA conquista seu lugar como assist
 
 Três arranjos são chamados de "correção por IA" e carregam obrigações diferentes.
 
-Um **assistente de feedback** rascunha comentários ou sinaliza omissões possíveis para você aceitar, reescrever ou descartar. O risco fica confinado à qualidade do comentário, e você lê tudo antes que chegue a um estudante. Um **segundo leitor** propõe notas por critério ou sinaliza discordâncias para estruturar a sua própria correção. Os erros dele precisam ser úteis, não apenas errados: uma sinalização que te devolve a uma entrega que você teria corrigido com descuido vale a pena. Um **avaliador principal** produz notas que se tornam notas registradas. É o arranjo que a evidência desta base de conhecimento não sustenta fora de casos estreitos e validados localmente.
+Um **assistente de feedback** rascunha comentários ou sinaliza omissões possíveis para você aceitar, reescrever ou descartar. O risco fica confinado à qualidade do comentário, e você lê tudo antes que chegue a um estudante. Um **segundo leitor** propõe notas por critério ou sinaliza discordâncias para estruturar a sua própria correção. Os erros dele precisam ser úteis, não apenas errados: uma sinalização que te devolve a uma entrega que você teria corrigido com descuido vale a pena. Um **avaliador principal** produz notas que se tornam notas registradas. É o arranjo que a evidência não sustenta fora de casos estreitos e validados localmente.
 
 Escolha o degrau mais baixo que atende à sua restrição real. Se sua carga de correção vem de conferir um gabarito fixo, a pontuação determinística comum é mais transparente e auditável que um [[llm|modelo de linguagem]], e o estudo de farmácia sugere que a vantagem do LLM nos itens objetivos era em parte um artefato de receber as respostas corretas durante a correção. Reserve o modelo para trabalho que exige interpretação e depois confira essa interpretação.
 
-[[automated-assessment|Avaliação automatizada]] cobre a maquinaria mais ampla de pontuação, moderação e geração de feedback. Esta página é a questão de julgamento que está por baixo disso.
+[[automated-assessment|Avaliação automatizada]] cobre a maquinaria mais ampla de pontuação, moderação e geração de feedback. A questão de julgamento por baixo disso é se alguma dessa maquinaria é justa e confiável o suficiente para registrar uma nota.
 
 ## O que a evidência realmente mostra
 
@@ -110,6 +110,6 @@ Duas direções de falha precisam de atenção separada. Deduções excessivas s
 
 ## Para onde ir a seguir
 
-[[assessment-validity|Validade da avaliação]] é o conceito que decide estas questões: se a evidência sustenta a inferência que você quer fazer. [[automated-assessment]] cobre a tecnologia e seu desempenho medido entre formatos, e [[ai-feedback-at-scale]] trata do problema adjacente dos comentários gerados e de se os estudantes agem sobre eles.
+[[assessment-validity|Validade da avaliação]] é o conceito que decide estas questões: se a evidência sustenta a inferência que você quer fazer. [[automated-assessment|avaliação automatizada]] cobre a tecnologia e seu desempenho medido entre formatos, e [[ai-feedback-at-scale]] trata do problema adjacente dos comentários gerados e de se os estudantes agem sobre eles.
 
 Para o que uma nota deve representar quando os estudantes usam IA, incluindo substituição de construto e evidência autenticada de processo, veja [[redesign-assessment-ai-era|redesenhar a avaliação na era da IA]]. Para saber se a detecção pode substituir um desenho de tarefa defensável, veja [[should-we-use-ai-detectors|se devemos usar detectores de IA]]. Para a questão de avaliação que está por baixo de tudo, veja [[checking-whether-educational-ai-works|verificar se uma IA educacional funciona]].

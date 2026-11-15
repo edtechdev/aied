@@ -1,6 +1,7 @@
 ---
 title: "Какие существуют значимые пробелы в исследовательской литературе по ИИ в образовании?"
 created: "2026-10-13T13:46:00-04:00"
+updated: "2026-11-15T15:52:51-05:00"
 connected_faqs: [reporting-interpreting-aied-research, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research]
 weight: 45
 type: faq
@@ -13,7 +14,7 @@ level: [higher ed]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
 translation_of: faqs/research-gaps-aied
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]
 ai_assist:

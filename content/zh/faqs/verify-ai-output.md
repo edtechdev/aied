@@ -1,7 +1,7 @@
 ---
 title: "我该如何教学生核查人工智能的输出？"
 created: "2026-09-22T19:41:47-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-15T15:44:17-05:00"
 weight: 65
 type: faq
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, critical-thinking]
@@ -9,7 +9,7 @@ ethics: [hallucination-risk, trust-calibration]
 research_method: [experiment, literature review, survey]
 audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/verify-ai-output
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -154,4 +154,4 @@ Gousopoulos 直接推出了后果。如果 AI 能产出那件产物，产物就�
 
 ## 下一步去哪里
 
-[[incorporating-ai-literacy]]讲如何搭起本页所用的那层理解，[[ai-literacy-evidence]]讲那项素养工作值多少。[[reducing-over-reliance]]处理依赖工具的学生在教学设计上该怎么做，[[study-with-ai]]是面向学生的姊妹篇，[[asynchronous-online-courses-ai]]则处理没有课堂可排核查的那种版本。关于学生正在核查的反馈，见[[ai-feedback-quality]]和[[hallucination-risk]]。
+[[incorporating-ai-literacy]]讲如何搭起核查所依赖的那层理解，[[ai-literacy-evidence]]讲那项素养工作值多少。[[reducing-over-reliance]]处理依赖工具的学生在教学设计上该怎么做，[[study-with-ai]]是面向学生的姊妹篇，[[asynchronous-online-courses-ai]]则处理没有课堂可排核查的那种版本。关于学生正在核查的反馈，见[[ai-feedback-quality]]和[[hallucination-risk]]。

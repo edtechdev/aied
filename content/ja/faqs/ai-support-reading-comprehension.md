@@ -10,9 +10,9 @@ technology: [educational-nlp, generative-ai, llm]
 ethics: [accessibility]
 audience: [instructors, curriculum designers, instructional designers]
 level: [higher ed, secondary, primary education]
-updated: "2026-11-07T20:36:28-05:00"
+updated: "2026-11-15T15:43:36-05:00"
 translation_of: "faqs/ai-support-reading-comprehension"
-source_updated: "2026-11-06T02:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 **テキストを大規模に見つけ、調整する。** AIは、資料の所在を突き止めること、語彙を簡単にすること、用語集を作ること、一節を[[study-with-ai|学習ガイドや要約]]に変えることが得意です。読みの準備の機械的な部分——走査、レベル分け、重要語の抽出——に使い、重要な点には人間の確認を残してください。
 
-**テキストではなく読者をモデル化する。** 読者の変数が、テキストの難しさの感じ方における信号の多くを担うため、読者をプロファイリングするツールは、どの公式よりもよく知覚された難易度を予測します。この知識ベースで最大の研究では、193人のドイツの高校生が3,954文を評定し、プロファイルに基づくモデル（最良のアンサンブルのRMSE 0.822、平均ベースラインは1.070）が、テキストのFleschスコアを上回りました。Fleschスコアは同じ教材を学生が経験したよりずっと難しいと評価しており、注釈の72.8%は易しいまたは非常に易しいでした（[[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad、2025年]]）。実践的な形では、数人の学生による一節の評定が、どの公式のラベルよりも優れています。
+**テキストではなく読者をモデル化する。** 読者の変数が、テキストの難しさの感じ方における信号の多くを担うため、読者をプロファイリングするツールは、どの公式よりもよく知覚された難易度を予測します。この文献で最大の研究では、193人のドイツの高校生が3,954文を評定し、プロファイルに基づくモデル（最良のアンサンブルのRMSE 0.822、平均ベースラインは1.070）が、テキストのFleschスコアを上回りました。Fleschスコアは同じ教材を学生が経験したよりずっと難しいと評価しており、注釈の72.8%は易しいまたは非常に易しいでした（[[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad、2025年]]）。実践的な形では、数人の学生による一節の評定が、どの公式のラベルよりも優れています。
 
 ## AIが及ばないところ
 

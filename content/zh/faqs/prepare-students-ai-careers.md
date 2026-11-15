@@ -1,7 +1,7 @@
 ---
 title: "在 AI 已成常态的职业里，学生该学什么？"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-15T15:40:01-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -48,6 +48,8 @@ ai_assist:
 [[ithaka-sr-ai-skills-college-graduates-2026|Ithaka S+R 的报告]]请 500 名美国四年制高校教师为一个横跨七个类别的框架里的 26 项技能打分，并把他们的评分与框架作者调查的一个雇主小组相比。分歧是系统性的，不是随机的：教师把 AI 的局限、署名与人的问责排在最前，雇主则把工作流设计、自动化与人机协作排得更高。
 
 对这个落差有两种诱人的解读，而两种都错。第一种是教师落后于劳动力市场。第二种是雇主想要服从。更有用的解读是：每一组描述的是同一份工作的不同一半，而一个只会做一半的毕业生对两边都没准备好。一个说不清结果为什么错的学生，对一个信任工作流的雇主没有用；一个只会批评 AI 输出的学生，对一个需要把任务做完的雇主也没有用。
+
+把雇主的信号变成课程改动，本身就是一个带有决策点的过程。[[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale（2026）]]提出六个阶段——感知、利益相关者验证、项目诊断、课程再设计、实施与能力建设、结果审查——每个阶段都有一项明确的决策权和一项可问责的产出，并把 AI 限定在模式检测、能力映射等有边界的支持功能上。这是一项提议，不是一次评估，但它点出了顾问小组的请求通常会跳过的那些步骤。
 
 这份证据的局限要紧。这些是调查中的自报优先项，报告并没有显示任何课程能带来更好的录用、更好的绩效或更好的薪酬。它给你的，是一个站得住的理由去问：你的学生有没有真正练过把一个 AI 支持的工作流做完并核查，而不只是谈论它。
 
@@ -125,6 +127,6 @@ ai_assist:
 
 ## 接下来可以去哪里
 
-[[career-development-and-readiness]] 是讲就业力、适应力与劳动力证据的概念页，[[ai-literacy]] 覆盖素养在工具操作之外意味着什么。要把它做进一门具体的课，见[[incorporating-ai-literacy|把 AI 素养纳入课程]]与[[faculty-ai-competencies|教师需要哪些能力]]。
+[[career-development-and-readiness|职业发展与准备]] 是讲就业力、适应力与劳动力证据的概念页，[[ai-literacy|AI 素养]] 覆盖素养在工具操作之外意味着什么。要把它做进一门具体的课，见[[incorporating-ai-literacy|把 AI 素养纳入课程]]与[[faculty-ai-competencies|教师需要哪些能力]]。
 
 关于让有支持的表现与独立表现可区分的[[assessment|评估设计]]，见[[redesign-assessment-ai-era|AI 时代的评估重设计]]与[[ai-grading-fairness-reliability|AI 评分]]。关于如何让支持不变成依赖，见[[reducing-over-reliance|减少过度依赖]]。

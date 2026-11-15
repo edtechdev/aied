@@ -14,9 +14,9 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:46:36-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:

@@ -1,7 +1,7 @@
 ---
 title: "我们应当使用人工智能检测工具吗？"
 created: "2026-09-22T19:42:07-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-15T15:42:33-05:00"
 weight: 85
 foundations: [academic-integrity]
 assessment: [ai-detection, assessment-validity]
@@ -9,7 +9,7 @@ ethics: [equity-in-ai-education, trust, privacy, ai-use-disclosure]
 level: [higher ed]
 audience: [instructors, administrators, assessment professionals]
 institutions: [educational-policy-ai, governance]
-source_updated: "2026-11-02T02:47:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/should-we-use-ai-detectors
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -66,7 +66,7 @@ ai_assist:
 
 ## 先看准确率数字，再决定引用哪一个
 
-知识库中最强的受控测试考察了 642 篇已发表的英文摘要，覆盖四个领域、两个时间段。在 0.50 阈值下，两个商用检测器对符合指南的轻度 AI 编辑标出 38-80%，对未经改动的 2023-25 年原文标出 9-15%（非 [[stem-education|STEM]] 远高于 STEM，p<0.001）；而一旦文本经过一次“人性化”服务处理，它们只抓到不到 4% 的 AI 标注改写，假阴性率高于 96%。作者称这是一个诚信上的 catch-22：被工具抓到的，恰恰是如实申报并轻度编辑的学生；一心想规避它的学生反而抓不到。他们的建议很明确——检测器分数绝不应作为单独的违纪证据（[[karr-ai-detection-humanization-2026]]）。
+最强的受控测试考察了 642 篇已发表的英文摘要，覆盖四个领域、两个时间段。在 0.50 阈值下，两个商用检测器对符合指南的轻度 AI 编辑标出 38-80%，对未经改动的 2023-25 年原文标出 9-15%（非 [[stem-education|STEM]] 远高于 STEM，p<0.001）；而一旦文本经过一次“人性化”服务处理，它们只抓到不到 4% 的 AI 标注改写，假阴性率高于 96%。作者称这是一个诚信上的 catch-22：被工具抓到的，恰恰是如实申报并轻度编辑的学生；一心想规避它的学生反而抓不到。他们的建议很明确——检测器分数绝不应作为单独的违纪证据（[[karr-ai-detection-humanization-2026|Karr 等，2026]]）。
 
 综述已经不再试图给工具排座次。一项涵盖 2020 至 2026 年间 90 项研究的[[meta-analysis-systematic-review|系统综述]]报告称，假阳性率在不同工具和评估情境之间差异如此之大，以至于直接的[[quantitative-research|定量]]比较无法进行；报告列举的成因包括算法与语言偏见、语境理解有限、表层语言特征以及训练数据多样性不足（[[maghami-ai-detection-false-positives-2026|Maghami、Ho 与 Camilleri（2026）]]）。它提出的补救办法是程序性的而非技术性的：透明的检测实践、[[human-in-the-loop-ai|人工复核]]、AI 素养、明确的机构政策，以及可及的申诉渠道。
 
@@ -134,7 +134,7 @@ ai_assist:
 
 范围第三。一刀切的 AI 禁令若不能把转录和 OCR 与生成式起草分开，就可能撤掉一些学生所依赖的辅助工具——他们在运动控制、手写字迹的可辨性或打字的准确性上有状况，其中若干工具已停产，由 AI 转录填补空缺。这既是法律风险，也是不精确（[[wright-transcription-not-generation-2026]]）。在政策文本里点明[[assistive-technology|辅助]]与转录工具。
 
-采购第四。检测器把学生作业存在第三方服务器上，有时在[[privacy]]保护更弱的海外，这把泄露、留存和后续商业使用放进你机构的风险登记册，而不是供应商的营销页。条款应覆盖留存、用于[[llm-training-and-fine-tuning|模型训练]]、存储地点、泄露通知和申诉权（[[bassett-ai-detectors-education-2026]]）。知识库对法律风险的叙述在 [[legal-issues-and-risks]] 里，而且它对自己的限度很诚实：它记录的是程序、证据类别和工具可靠性，不是已判决的结果。
+采购第四。检测器把学生作业存在第三方服务器上，有时在[[privacy]]保护更弱的海外，这把泄露、留存和后续商业使用放进你机构的风险登记册，而不是供应商的营销页。条款应覆盖留存、用于[[llm-training-and-fine-tuning|模型训练]]、存储地点、泄露通知和申诉权（[[bassett-ai-detectors-education-2026|Bassett 等（2026）]]）。法律风险在 [[legal-issues-and-risks|法律问题与风险]] 里得到梳理，其中记录的是程序、证据类别和工具可靠性，不是已判决的结果。
 
 降低风险靠程序。永不把输出当作单独证据或自动触发器。记录你的程序所适用的标准。给予通知和一次有记录的、真正的回应机会。当案子只靠风格时提供核验。保留能显示这一切都发生过的审计轨迹。
 

@@ -1,7 +1,7 @@
 ---
 title: "Wie beeinflusst KI Studierende?"
 created: "2026-08-27T07:59:08-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-15T15:44:25-05:00"
 connected_faqs: [does-ai-help-students-learn, study-with-ai, ai-anxiety-wellbeing, ai-guidance-children-under-13]
 weight: 82
 foundations: [ai-literacy, cognitive-offloading, learner-identity]
@@ -9,7 +9,7 @@ pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
 translation_of: faqs/how-ai-impacts-students
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,7 @@ Personalisierte, unmittelbare Unterstützung mit niedrigen Einsätzen kann [[mot
 
 ## Behalten Sie den Schritt, den Sie lernen wollen
 
-KI lädt zu [[cognitive-offloading|kognitiver Entlastung]] ein, also dazu, das Schlussfolgern abzugeben, das Sie eigentlich üben sollten. Der klarste Fall ist eine Feld-[[rct|RCT]], in der ein ungeschützter [[intelligent-tutoring|KI-Tutor]] die Übungsleistung verbesserte und die spätere Prüfungsleistung senkte ([[ai-misuse-learning-harm]]). Sie werden besser in der tutoriell begleiteten Aufgabe und kein bisschen besser in dem, was die Prüfung misst. Übermäßige Nutzung kann auch [[metacognition|Metakognition]] und [[self-regulated-learning|Selbstregulation]] abnutzen, sodass Sie die Fähigkeit verlieren zu erkennen, ob Sie etwas wissen.
+KI lädt zu [[cognitive-offloading|kognitiver Entlastung]] ein, also dazu, das Schlussfolgern abzugeben, das Sie eigentlich üben sollten. Der klarste Fall ist eine Feld-[[rct|RCT]], in der ein ungeschützter [[intelligent-tutoring|KI-Tutor]] die Übungsleistung verbesserte und die spätere Prüfungsleistung senkte ([[ai-misuse-learning-harm|KI-Missbrauch und Lernschaden]]). Sie werden besser in der tutoriell begleiteten Aufgabe und kein bisschen besser in dem, was die Prüfung misst. Übermäßige Nutzung kann auch [[metacognition|Metakognition]] und [[self-regulated-learning|Selbstregulation]] abnutzen, sodass Sie die Fähigkeit verlieren zu erkennen, ob Sie etwas wissen.
 
 Eine Synthese von 2026 über 72 Studien in der [[cs-education|Informatikbildung]] setzt Zahlen darauf. [[generative-ai|Generative KI]] erhöhte zuverlässig die kurzfristige Fertigstellung und senkte die Aufgabenzeit über 36 Studien. Die Gewinne „übertragen sich nicht auf eigenständige Leistung", über 21 Studien hinweg. Der Nutzen hing vom [[prior-knowledge|Vorwissen]] ab: Gut vorbereitete Studierende verwandelten Hilfe in dauerhafte Fähigkeit, und schlechter vorbereitete nutzten sie als Krücke, die [[productive-failure|produktives Scheitern]] entfernte, was die Kompetenzlücken innerhalb eines Kursraums vergrößerte ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al., systematic review]]).
 
@@ -75,7 +75,7 @@ Wenn KI den Text produziert, kann sich das Ergebnis nicht mehr nach Ihrem anfüh
 
 KI-Nutzung ist mit [[anxiety-and-stress|Angst und Stress]] verbunden — davor, ersetzt zu werden, vor einer Prüfung, die Sie nicht vorhersehen können, und davor, nicht mitzuhalten (siehe [[kim-ai-anxiety-comprehensive-analysis|comprehensive analysis of AI anxiety]]). Assoziation ist das richtige Wort, und die Messliteratur ist darin sorgfältig.
 
-Zhang, Shi und Lu befragten 1.484 Studierende im Grundstudium und fanden, dass KI-Angst negativ mit akademischer Motivation (r = -0.175) und mit Emotions[[regulation]] (r = -0.172) korrelierte, wobei Emotionsregulation den Pfad von Angst zu Motivation teilweise vermittelte (indirekter Effekt = -0.076). Die tägliche Nutzungsdauer sagte fast nichts vorher (r = 0.053). Ihre Folgerung ist, dass Kompetenzvermittlung mit Emotionsregulation und [[metacognition|metakognitiver]] Unterstützung gepaart werden sollte, nicht einfach mit mehr Werkzeugzugang ([[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang et al., AI anxiety and academic motivation]]).
+Zhang, Shi und Lu befragten 1.484 Studierende im Grundstudium und fanden, dass KI-Angst negativ mit akademischer Motivation (r = -0.175) und mit Emotions[[regulation|KI-Regulierung in der Bildung]] (r = -0.172) korrelierte, wobei Emotionsregulation den Pfad von Angst zu Motivation teilweise vermittelte (indirekter Effekt = -0.076). Die tägliche Nutzungsdauer sagte fast nichts vorher (r = 0.053). Ihre Folgerung ist, dass Kompetenzvermittlung mit Emotionsregulation und [[metacognition|metakognitiver]] Unterstützung gepaart werden sollte, nicht einfach mit mehr Werkzeugzugang ([[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang et al., AI anxiety and academic motivation]]).
 
 Eine Warnung, bevor Sie sich selbst diagnostizieren. Eine kritische Synthese von 51 Datensätzen zu [[conversational-ai|konversationeller KI]] findet, dass Vertrauen, Verlass, Überabhängigkeit, Bindung und Abhängigkeit routinemäßig vermischt werden, und dass die querschnittlichen Korrelate mit Einsamkeit, Angst, Erschöpfung, Aufschieben und schwächerem [[critical-thinking|kritischem Denken]] keine Kausalität belegen. Häufige Nutzung ist keine Abhängigkeit ohne beeinträchtigte Kontrolle oder funktionalen Schaden, eine schwere Woche ist also keine Störung ([[yan-conversational-ai-engagement-dependence-synthesis-2026|Yan, conversational AI engagement and dependence synthesis]]).
 
@@ -83,7 +83,7 @@ Die emotionale Seite kann auch gut sein. In einer [[qualitative-research|qualita
 
 ## Was Studierende über KI und ihr eigenes Lernen falsch verstehen
 
-**Eine bessere Abgabe heißt, dass Sie mehr gelernt haben.** Die Synthese zur Informatikbildung fand kurzfristige Fertigstellung über 36 Studien steigend, während die Gewinne über 21 Studien nicht übertragen wurden ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al., systematic review]]), und die Feld-[[rct|RCT]] fand eine Verbesserung beim Üben und eine sinkende spätere Prüfungsleistung ([[ai-misuse-learning-harm]]). Das Dokument und das Gelernte sind zwei Ausgaben, und nur eine davon wird bewertet.
+**Eine bessere Abgabe heißt, dass Sie mehr gelernt haben.** Die Synthese zur Informatikbildung fand kurzfristige Fertigstellung über 36 Studien steigend, während die Gewinne über 21 Studien nicht übertragen wurden ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al., systematic review]]), und die Feld-[[rct|RCT]] fand eine Verbesserung beim Üben und eine sinkende spätere Prüfungsleistung ([[ai-misuse-learning-harm|KI-Missbrauch und Lernschaden]]). Das Dokument und das Gelernte sind zwei Ausgaben, und nur eine davon wird bewertet.
 
 **Mehr nutzen wird Ihre Angst davor beheben.** Angst korrelierte mit geringerer Motivation und geringerer Emotionsregulation, während die tägliche Nutzungsdauer fast nichts vorhersagte (r = 0.053), mehr Stunden sind also nicht der Hebel ([[zhang-ai-anxiety-academic-motivation-emotion-2026|Zhang et al., AI anxiety and academic motivation]]). Der Hebel in dieser Studie ist Emotionsregulation und metakognitive Unterstützung.
 
@@ -93,13 +93,13 @@ Die emotionale Seite kann auch gut sein. In einer [[qualitative-research|qualita
 
 ## Was Ihre Freunde sagen werden
 
-**„Es ist nur ein Werkzeug, wie ein Taschenrechner."** Ein Taschenrechner nimmt Arithmetik weg, die Sie schon gelernt haben. Die [[rct|RCT]] und die Synthese beschreiben ein Werkzeug, das Schlussfolgern wegnehmen kann, das Sie noch nicht gelernt haben, weshalb dieselbe Nutzung eine studierende Person stärker und eine andere schwächer zurücklässt ([[ai-misuse-learning-harm]], [[kumar-genai-computing-education-systematic-review-2026|Kumar et al., systematic review]]).
+**„Es ist nur ein Werkzeug, wie ein Taschenrechner."** Ein Taschenrechner nimmt Arithmetik weg, die Sie schon gelernt haben. Die [[rct|RCT]] und die Synthese beschreiben ein Werkzeug, das Schlussfolgern wegnehmen kann, das Sie noch nicht gelernt haben, weshalb dieselbe Nutzung eine studierende Person stärker und eine andere schwächer zurücklässt ([[ai-misuse-learning-harm|KI-Missbrauch und Lernschaden]], [[kumar-genai-computing-education-systematic-review-2026|Kumar et al., systematic review]]).
 
 **„Ich nutze es nur zum Bearbeiten, das zählt also nicht."** Bearbeitung ist in vielen Kursen legitim, und sie ist auch die Nutzung, die am ehesten auffällt, was ein Argument dafür ist, sie offenzulegen. Was zählt, legt Ihr Kurs fest, holen Sie die Antwort also schriftlich.
 
 **„Wenn ich aufhöre, falle ich zurück."** Die kurzfristigen Gewinne sind real, und die Übertragung ist der schwache Teil ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al., systematic review]]). Zurückfallen misst sich daran, was Sie in einem Raum ohne Werkzeug können, und dort finden die Prüfung, das Praktikum und das Vorstellungsgespräch statt.
 
-**„Meine Noten sind gut, also stimmt etwas nicht."** Noten sind ein Leistungsmaß, und die Lücke zwischen Leistung und Lernen ist genau der Fall, in dem sie gut aussehen ([[ai-misuse-learning-harm]]). Wenn Sie wissen wollen, ob Sie etwas gelernt haben, fragen Sie, was Sie ohne das Werkzeug könnten.
+**„Meine Noten sind gut, also stimmt etwas nicht."** Noten sind ein Leistungsmaß, und die Lücke zwischen Leistung und Lernen ist genau der Fall, in dem sie gut aussehen ([[ai-misuse-learning-harm|KI-Missbrauch und Lernschaden]]). Wenn Sie wissen wollen, ob Sie etwas gelernt haben, fragen Sie, was Sie ohne das Werkzeug könnten.
 
 ## Was Sie diese Woche tun können
 
@@ -115,4 +115,4 @@ Die emotionale Seite kann auch gut sein. In einer [[qualitative-research|qualita
 
 ## Wohin als Nächstes
 
-[[does-ai-help-students-learn|Does using AI actually help students learn?]] ist die Evidenzfrage hinter dieser Seite, und [[study-with-ai]] behandelt Arbeitsroutinen. [[ai-anxiety-wellbeing]] führt die Angstseite weiter, und [[guardrails]] erklärt, wie aus einem Scaffold ein Ersatz wird. Die Kursdesign-Perspektive steht in [[incorporating-ai-literacy|How should I incorporate AI literacy into my course?]] und [[ai-literacy-evidence|What is the evidence on AI literacy interventions in higher education?]].
+[[does-ai-help-students-learn|Does using AI actually help students learn?]] ist die Evidenzfrage hinter dieser Seite, und [[study-with-ai]] behandelt Arbeitsroutinen. [[ai-anxiety-wellbeing]] führt die Angstseite weiter, und [[guardrails|Leitplanken]] erklärt, wie aus einem Scaffold ein Ersatz wird. Die Kursdesign-Perspektive steht in [[incorporating-ai-literacy|How should I incorporate AI literacy into my course?]] und [[ai-literacy-evidence|What is the evidence on AI literacy interventions in higher education?]].

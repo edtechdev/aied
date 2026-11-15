@@ -6,9 +6,9 @@ weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-updated: "2026-10-29T15:22:01-04:00"
+updated: "2026-11-15T15:43:08-05:00"
 translation_of: faqs/ai-save-instructor-time
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -50,7 +50,7 @@ To przesunięcie, a nie redukcja: z [[generative-ai|generatywnego SI]] dostaje s
 
 Jakość jest nierówna w schemacie dość stałym, by planować wokół niego. Zaślepieni recenzenci woleli wersje SI podsumowań lekcji i biletów wyjściowych w 59,7% przypadków od materiałów zaprojektowanych przez profesjonalistów, a materiał SI do treści licealnych woleli w 59,2% przypadków. Oszczędność rośnie też tam, gdzie pewność siebie jest najniższa: nauczanie poza własnym przedmiotem to przypadek o najszerszej luce między tym, co daje narzędzie, a tym, co napisałoby się samemu.
 
-Dwie kategorie idą w drugą stronę. Na materiale na poziomie szkoły podstawowej ludzie byli preferowani w około 65% przypadków pod względem trafności rozwojowej. Celowe [[scaffolding|rusztowania]] dla osób uczących się [[multilingual-learning|wielojęzycznie]] i uczniów w [[special-education|kształceniu specjalnym]] wracały neutralne, a nie błędne, co jest gorsze, niż brzmi, bo neutralne rusztowanie to takie, które odbudowuje się od zera.
+Dwie kategorie idą w drugą stronę. Na materiale na poziomie szkoły podstawowej ludzie byli preferowani w około 65% przypadków pod względem trafności rozwojowej. Celowe [[scaffolding|rusztowania]] dla [[multilingual-learning|wielojęzycznych]] [[learners|uczących się]] i uczniów w [[special-education|kształceniu specjalnym]] wracały neutralne, a nie błędne, co jest gorsze, niż brzmi, bo neutralne rusztowanie to takie, które odbudowuje się od zera.
 
 Test, który to przewiduje, zanim poświęci się na to cały wieczór: czy da się podać specyfikację dość precyzyjnie, by sprawdzić wynik? Bilet wyjściowy z jednego celu, tak. Czy akapit pasuje do konkretnego dziewięcioletniego ucznia czytającego dwa lata poniżej poziomu klasy, nie.
 
@@ -64,11 +64,11 @@ Zastrzeżenie to zdanie do zabrania na zebranie. Dolny kwartyl nie poprawił si�
 
 ## Mierzyć oszczędność, a nie ją czuć
 
-Oszczędność czasu to twierdzenie, co do którego prowadzący najpewniej mylą się o sobie. W trzech przedrejestrowanych badaniach z 2 691 uczestnikami ludzie nie doceniali, jak często używali SI, i przeceniali czas i wysiłek, które im to oszczędziło, opisując zadania jako szybsze i łatwiejsze, podczas gdy obiektywne miary nie pokazywały różnicy. Użycie narzędzia wcześniej w sesji przewidywało używanie go więcej później, więc błąd kumuluje się w ciągu jednego popołudnia ([[efficiency-gain-illusion-ai-overreliance]]).
+Oszczędność czasu to twierdzenie, co do którego prowadzący najpewniej mylą się o sobie. W trzech przedrejestrowanych badaniach z 2 691 uczestnikami ludzie nie doceniali, jak często używali SI, i przeceniali czas i wysiłek, które im to oszczędziło, opisując zadania jako szybsze i łatwiejsze, podczas gdy obiektywne miary nie pokazywały różnicy. Użycie narzędzia wcześniej w sesji przewidywało używanie go więcej później, więc błąd kumuluje się w ciągu jednego popołudnia ([[efficiency-gain-illusion-ai-overreliance|iluzja przyrostu efektywności]]).
 
 Pomaga kalibracja [[metacognition|metapoznawcza]], a jej tania wersja to dziennik. Przez dwa tygodnie notować godziny rozpoczęcia i zakończenia trzech powtarzalnych zadań, jednego z narzędziem i dwóch bez. Należy oczekiwać jednego zadania z dużą realną oszczędnością, kilku bez żadnej i paru, w których narzędzie dodało krok przeglądu, który zjadł zysk.
 
-Wysiłek i zdolność też się rozchodzą. Badanie w schemacie wewnątrzobiektowym z 13 nauczycielami akademickimi pokazało, że dostęp do SI obniżył postrzegany wysiłek poznawczy przy [[learning-design|projektowaniu uczenia się]] z mediany 6,33 do 3,33 (p = 0,004), podczas gdy dołożony trening [[prompt-engineering|promptowania]] nie poprawił jakości projektów ([[pishtari-teacher-ai-training-learning-design-2026]]). Mniejszy wysiłek w czwartkowy wieczór to realna korzyść. To nie jest dowód, że projekty się poprawiły.
+Wysiłek i zdolność też się rozchodzą. Badanie w schemacie wewnątrzobiektowym z 13 nauczycielami akademickimi pokazało, że dostęp do SI obniżył postrzegany wysiłek poznawczy przy [[learning-design|projektowaniu uczenia się]] z mediany 6,33 do 3,33 (p = 0,004), podczas gdy dołożony trening [[prompt-engineering|promptowania]] nie poprawił jakości projektów ([[pishtari-teacher-ai-training-learning-design-2026|badanie w schemacie wewnątrzobiektowym z 13 nauczycielami akademickimi]]). Mniejszy wysiłek w czwartkowy wieczór to realna korzyść. To nie jest dowód, że projekty się poprawiły.
 
 ## Zostawić cele i oceny końcowe po swojej stronie
 
@@ -80,7 +80,7 @@ Z [[automated-essay-scoring|automatycznego oceniania esejów]] można korzystać
 
 ## Co nauczyciele akademiccy rozumieją błędnie
 
-**„31% to moja liczba.”** To 259 nauczycieli [[science-education|przedmiotów przyrodniczych]] ze szkół w systemie K-12 przy przygotowaniu lekcji. Kierunek się przenosi; wielkość nie. Seminarium oparte na dyskusji może oszczędzić mniej, a kurs laboratoryjny z ograniczeniami bezpieczeństwa może nie oszczędzić nic w tej części, w której najbardziej chciano pomocy.
+**„31% to moja liczba.”** To 259 [[k-12|nauczycieli K-12]] [[science-education|przedmiotów przyrodniczych]] przy przygotowaniu lekcji. Kierunek się przenosi; wielkość nie. Seminarium oparte na dyskusji może oszczędzić mniej, a kurs laboratoryjny z ograniczeniami bezpieczeństwa może nie oszczędzić nic w tej części, w której najbardziej chciano pomocy.
 
 **„Oszczędzanie czasu jest celem.”** Eksperyment w Brazylii jest kontrprzykładem. Godziny przyszły za darmo, a dolny kwartyl nie zyskał nic. Celem jest to, co godziny kupują.
 

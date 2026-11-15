@@ -1,7 +1,7 @@
 ---
 title: "我如何撰写课程人工智能政策并向学生说明？"
 created: "2026-09-22T19:42:07-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-15T15:44:17-05:00"
 weight: 70
 type: faq
 foundations: [academic-integrity, framing-ai-use-for-students, reducing-ai-misuse]
@@ -12,7 +12,7 @@ audience: [instructors, curriculum designers]
 level: [higher ed, secondary]
 methods: [qualitative-research]
 institutions: [educational-policy-ai]
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/course-ai-policy
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -81,7 +81,7 @@ McCorkle 的方法分四轮。盘点学期项目中的每一项任务，对每�
 
 **教室**承载第一次口头陈述。在规则第一次适用的时刻说一遍，并系到他们面前的作品上。一条学生独自遇到的规则，就是一条他会独自解释的规则。
 
-披露的具体做法需要单独一段，而且应当是这一页上最具体的一段。通过引导性探究共同设计课程政策的学生，把“对学生和教师的培训”、**标准化的披露程序**、更强的机构支持，以及更多地参与关于 AI 的决定，排在优先位置（[[guided-inquiry-genai-course-policy-2026|Hingle 与 Johri（2026）]]）。说明学生如何、在哪里、以什么形式申报使用，并且只说一遍。
+披露的具体做法需要单独一段，而且应当是政策里最具体的一段。通过引导性探究共同设计课程政策的学生，把“对学生和教师的培训”、**标准化的披露程序**、更强的机构支持，以及更多地参与关于 AI 的决定，排在优先位置（[[guided-inquiry-genai-course-policy-2026|Hingle 与 Johri（2026）]]）。说明学生如何、在哪里、以什么形式申报使用，并且只说一遍。
 
 [[teaching-intro-ai-course-redesign-bill-of-rights-2026|Pisan（2026）]]发现了同一个做法的更强版本：把提示词日志变成被评的作品。当模型承担了生产，提示词和交互记录才是值得做版本管理的东西，于是声明不再是文书工作，而变成学生正在构建的证据。
 

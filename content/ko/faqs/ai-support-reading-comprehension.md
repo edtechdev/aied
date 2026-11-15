@@ -10,9 +10,9 @@ technology: [educational-nlp, generative-ai, llm]
 ethics: [accessibility]
 audience: [instructors, curriculum designers, instructional designers]
 level: [higher ed, secondary, primary education]
-updated: "2026-11-08T00:26:41-05:00"
+updated: "2026-11-15T15:38:28-05:00"
 translation_of: "faqs/ai-support-reading-comprehension"
-source_updated: "2026-11-06T02:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 **텍스트를 대규모로 찾고 각색합니다.** AI는 출처를 찾고, 어휘를 단순화하고, 용어집을 생성하고, 한 구절을 [[study-with-ai|학습 가이드나 요약]]으로 바꾸는 데 강합니다. 읽기 준비의 기계적 부분 — 훑어보기, 수준 맞추기, 핵심 용어 뽑기 — 에 사용하고, 중요한 것에는 사람의 점검을 남겨 두십시오.
 
-**텍스트가 아니라 독자를 모델링합니다.** 독자 변수가 텍스트가 얼마나 어렵게 느껴지는지의 신호의 상당 부분을 담기 때문에, 독자를 프로파일링하는 도구는 어떤 공식보다 지각된 난이도를 더 잘 예측합니다. 지식 베이스의 가장 큰 연구에서 독일 고등학생 193명이 문장 3,954개를 평정했고, 프로파일 기반 모형(최적 앙상블 RMSE 0.822 대 평균 기준선 1.070)이 텍스트의 Flesch 점수를 앞섰습니다. Flesch 점수는 같은 자료를 학생들이 경험한 것보다 훨씬 어렵게 평정했으며, 주석의 72.8%가 쉽거나 매우 쉬웠습니다([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad, 2025]]). 실천적으로 말하면 이렇습니다. 학생 몇 명의 구절 평정이 어떤 공식의 라벨보다 낫습니다.
+**텍스트가 아니라 독자를 모델링합니다.** 독자 변수가 텍스트가 얼마나 어렵게 느껴지는지의 신호의 상당 부분을 담기 때문에, 독자를 프로파일링하는 도구는 어떤 공식보다 지각된 난이도를 더 잘 예측합니다. 이 문헌에서 가장 큰 연구에서 독일 고등학생 193명이 문장 3,954개를 평정했고, 프로파일 기반 모형(최적 앙상블 RMSE 0.822 대 평균 기준선 1.070)이 텍스트의 Flesch 점수를 앞섰습니다. Flesch 점수는 같은 자료를 학생들이 경험한 것보다 훨씬 어렵게 평정했으며, 주석의 72.8%가 쉽거나 매우 쉬웠습니다([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad, 2025]]). 실천적으로 말하면 이렇습니다. 학생 몇 명의 구절 평정이 어떤 공식의 라벨보다 낫습니다.
 
 ## AI가 부족한 지점
 

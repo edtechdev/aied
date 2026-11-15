@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:42:16-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -75,6 +75,8 @@ Mechanizm wyjaśnia, dlaczego kolejność ma większe znaczenie niż narzędzie.
 Informacja zwrotna rówieśnicza ma własne miejsce w tej sekwencji. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen i Yan (2026)]] prowadzili dwie równoległe klasy języka angielskiego (N = 118 studentów pierwszego roku studiów licencjackich w Chinach; GenAI n = 56, rówieśnicy n = 62) przez trzy cykle [[self-assessment|samooceny]] w ciągu jednego semestru. [[scaffolding|Rusztowanie]] GenAI poprawiło kompetencje w zakresie informacji zwrotnej nieznacznie, ale istotnie, w porównaniu z recenzją rówieśniczą (ANCOVA p = 0,049, ηp² = 0,03). Studenci z GenAI dopracowywali prompty iteracyjnie i weryfikowali lub kwestionowali niedokładne wyniki. Studenci z grupy rówieśniczej wybierali źródła według wygody społecznej, a ich osąd wartościujący był zniekształcany przez stronniczość przyjaźni. Recenzja rówieśnicza zachowała odrębną wartość dla świadomości odbiorcy, dlatego autorzy proponują wieloetapowe projekty z anonimową informacją zwrotną rówieśniczą, a nie zastąpienie jej.
 
 Przewaga Gu i wsp. była niewielka i autorzy czytają ją jako realną, ale nie przełomową samą w sobie. Pracę wspierającą wykonało rusztowanie nauczyciela, wytyczne do promptów i karty pracy.
+
+Źródło może mieć mniejsze znaczenie niż zegar. Wśród 391 niemieckich uczniów szkół średnich informacja zwrotna pisana przez nauczyciela i informacja zwrotna z LLM nie dały istotnej różnicy w poprawkach, późniejszym pisaniu, czasie na zadaniu ani w postrzeganiu; bayesowskie rozkłady a posteriori przechylały się ku informacji zwrotnej nauczyciela w późniejszym pisaniu, ale zachowywały od jednej czwartej do dwóch piątych masy w regionie równoważności, a tylko natychmiastowa informacja zwrotna SI uzyskała lepsze oceny użyteczności i motywacji ([[meyer-teacher-ai-feedback-writing-2026|Meyer i in., 2026]]). Jeśli pierwszy komentarz może dotrzeć, gdy student wciąż poprawia tekst, to wyczucie czasu jest częścią projektu, który wykonuje tę pracę.
 
 ## Wręczenie modelowi rubryki, a potem wymuszenie widocznych kroków
 

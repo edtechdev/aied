@@ -1,7 +1,7 @@
 ---
 title: "고등교육에서 AI 리터러시 중재의 증거는 무엇인가?"
 created: "2026-08-24T09:52:00-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-15T15:45:28-05:00"
 connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50
 foundations: [ai-literacy]
@@ -9,7 +9,7 @@ assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
 translation_of: faqs/ai-literacy-evidence
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -43,11 +43,11 @@ ai_assist:
 
 ## 비판을 중심으로 흐름을 구성하십시오
 
-지식베이스에서 가장 강력한 교실 사례는 학부 심리학에서 나옵니다. Richmond와 Nicholls는 학생들에게 [[generative-ai|ChatGPT]]가 생성한 보도자료를 자기 강좌 루브릭에 대조해 채점하게 하고, 오류를 지목하게 하고, 그것을 수정하게 했습니다. 학생들은 대체로 문장이 매끄럽지만 내용이 연구 목적, 방법, 결과를 왜곡했다는 것을 알아차렸습니다. 이전 [[peer-assessment|동료 평가]] 코호트와 비교해 AI 비판 집단은 뒤이은 스크립트 수정에서 소폭 더 나은 성과를 냈고(*d* = 0.36), 최종 영상에서는 유의한 우위가 없었습니다([[richmond-nicholls-genai-psych-feedback-ai-literacies]]).
+가장 강력한 교실 사례는 학부 심리학에서 나옵니다. Richmond와 Nicholls는 학생들에게 [[generative-ai|ChatGPT]]가 생성한 보도자료를 자기 강좌 루브릭에 대조해 채점하게 하고, 오류를 지목하게 하고, 그것을 수정하게 했습니다. 학생들은 대체로 문장이 매끄럽지만 내용이 연구 목적, 방법, 결과를 왜곡했다는 것을 알아차렸습니다. 이전 [[peer-assessment|동료 평가]] 코호트와 비교해 AI 비판 집단은 뒤이은 스크립트 수정에서 소폭 더 나은 성과를 냈고(*d* = 0.36), 최종 영상에서는 유의한 우위가 없었습니다([[richmond-nicholls-genai-psych-feedback-ai-literacies]]).
 
 이 사례들이 나온 문헌은 짧은 중재, [[self-regulated-learning|자기보고]], 설계 기반 연구에 기대고 있고, 이 연구도 그중 두 가지 한계를 안고 있습니다. 비교가 역사적이었으므로 더 잘 준비된 코호트라도 같은 양상이 나타났을 것입니다. 또한 우위는 중간 산출물에서 나타났다가 완성된 산출물에서는 사라졌는데, 이는 비판이 수정을 가르쳤다면 예상할 수 있는 결과입니다.
 
-Beck과 Brodersen은 같은 수법을 경제학 강좌에 넣었습니다. 학생들이 실제 문제를 스스로 풀거나 해석한 뒤, ChatGPT의 응답을 받아 둘을 비교하고, AI를 비판하고, 성찰하고, 동료와 토론합니다. 그들의 설계는 AI 리터러시를 강좌가 이미 운영하던 [[active-learning]] 루틴, 예컨대 Think-Pair-Share에 접어 넣습니다. 그 기여는 전이 가능한 [[learning-design|수업 설계]]이며, 실험이 아니라 교실 사용으로 뒷받침됩니다([[beck-genai-literacy-economics-hands-on]]).
+Beck과 Brodersen은 같은 수법을 경제학 강좌에 넣었습니다. 학생들이 실제 문제를 스스로 풀거나 해석한 뒤, ChatGPT의 응답을 받아 둘을 비교하고, AI를 비판하고, 성찰하고, 동료와 토론합니다. 그들의 설계는 AI 리터러시를 강좌가 이미 운영하던 [[active-learning|능동 학습]] 루틴, 예컨대 Think-Pair-Share에 접어 넣습니다. 그 기여는 전이 가능한 [[learning-design|수업 설계]]이며, 실험이 아니라 교실 사용으로 뒷받침됩니다([[beck-genai-literacy-economics-hands-on]]).
 
 ## 학생들이 이미 듣는 강좌 안에 넣으십시오
 
@@ -63,7 +63,7 @@ NC State의 **AI 리터러시 연속체**는 *아직 관여하지 않음*과 *�
 
 저자들은 자기 결과를 지식에서 기술, 실천, 윤리, 태도로 나아가라는 논거로 읽으며, 그 경로는 통합적 성찰 교수법과 [[culturally-relevant-pedagogy|문화적으로 적합한]] 설계를 통과합니다. 위원회에 필요한 함의는 두 가지입니다. 측정하는 성과가 발견되는 효과를 규정하므로, 실제로 관심 있는 성과를 고르십시오. 그렇게 넓은 예측구간은 지역 파일럿을 권합니다.
 
-측정은 대부분의 프로그램 주장이 무너지는 지점입니다. 검증된 **GLAT** 수행 검사는 AI 지원 고등교육 과제의 수행을 예측했습니다. [[self-report-measures|자기보고]]식 ChatGPT 리터러시 척도는 예측하지 못했습니다([[jin-glat-genai-literacy-assessment]]; [[ai-literacy-assessment-misalignment]]). 지식베이스 전반에서 보고된 AI 역량과 입증된 AI 역량은 상당히 갈라지므로, [[educational-measurement|교육 측정]]과 [[assessment-validity|평가 타당도]]는 [[ai-ed-evaluation|평가]] 단계의 나중 생각이 아니라 설계의 일부가 됩니다.
+측정은 대부분의 프로그램 주장이 무너지는 지점입니다. 검증된 **GLAT** 수행 검사는 AI 지원 고등교육 과제의 수행을 예측했습니다. [[self-report-measures|자기보고]]식 ChatGPT 리터러시 척도는 예측하지 못했습니다([[jin-glat-genai-literacy-assessment]]; [[ai-literacy-assessment-misalignment]]). 보고된 AI 역량과 입증된 AI 역량은 상당히 갈라지므로, [[educational-measurement|교육 측정]]과 [[assessment-validity|평가 타당도]]는 [[ai-ed-evaluation|평가]] 단계의 나중 생각이 아니라 설계의 일부가 됩니다.
 
 Burriss 외는 무엇이 증거로 인정되는지를 더 날카롭게 만듭니다. AI 윤리에 관한 영상 공익광고를 제작한 11학년 학생 22명에 대한 그들의 연구는 기존 리터러시 척도와 역량 프레임워크가 개별적으로 측정 가능한 수행을 전제하며, 그 전제가 협력적이고 창의적인 표현을 배제한다고 주장합니다. 그들은 학생 성찰, [[multimodal|다중양식]] 산출물, 시민적 담론을 관행적 측정의 보완물로 제안합니다. 그들의 학생들은 협력적 [[critical-pedagogy|비판적 교수법]]을 통해 비판적 AI 윤리 이해를 발달시켰고, 그것은 기능 목록식 리터러시 개념과 그 위에 세워진 도구들에 의문을 던집니다. 단원 말 응답 18개 중 15개가 새로운 학습을 확인했으며, 저자들은 이 프로젝트가 전통적인 [[summative-assessment|총괄평가]]에 저항한다고 밝힙니다([[burriss-multimodal-composition-critical-ai-literacy-2026]]).
 

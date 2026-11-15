@@ -1,7 +1,7 @@
 ---
 title: "학생들이 AI에 과잉 의존하지 않게 하려면 어떻게 해야 합니까?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-15T15:46:45-05:00"
 connected_faqs: [study-with-ai, verify-ai-output, asynchronous-online-courses-ai, ai-disabled-neurodivergent-learners]
 weight: 80
 type: faq
@@ -13,7 +13,7 @@ research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
 translation_of: faqs/reducing-over-reliance
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -191,4 +191,4 @@ ai_assist:
 
 ## 다음에 볼 곳
 
-AI가 애초에 학습을 낳는지라는 이웃 질문은 [[does-ai-help-students-learn]]에서 다룹니다. [[reduce-ai-cheating]]은 진실성과 탐지의 한계를, [[redesign-assessment-ai-era]]는 이 페이지가 전제하는 평가 구조를 다룹니다. 바탕 개념은 [[cognitive-offloading]], [[metacognition]], [[desirable-difficulties]]를 보십시오.
+AI가 애초에 학습을 낳는지라는 이웃 질문은 [[does-ai-help-students-learn|AI가 학생 학습에 도움이 되는가]]에서 다룹니다. [[reduce-ai-cheating]]은 진실성과 탐지의 한계를, [[redesign-assessment-ai-era]]는 이 페이지가 전제하는 평가 구조를 다룹니다. 바탕 개념은 [[cognitive-offloading|인지적 오프로딩]], [[metacognition|메타인지]], [[desirable-difficulties|바람직한 어려움]]를 보십시오.

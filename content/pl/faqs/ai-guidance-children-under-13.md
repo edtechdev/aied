@@ -12,9 +12,9 @@ research_method: [literature review, experiment]
 audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:43:08-05:00"
 translation_of: faqs/ai-guidance-children-under-13
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,7 @@ Ich ewaluacja to pojedyncze badanie ankietowe po ekspozycji, z 831 uczestnikami,
 
 Te dwie edycje pokazują też, po co jest granica. Pasmo podstawowe dostaje platformowe aktywności, które są rusztowane i niegeneratywne, więc dziecko uczy się, co system robi, bez systemu, który odpowiada. Pasmo zaawansowane wiąże rozumowanie etyczne z nadzorowanym użyciem generatywnym. Personel, który oczekuje, że zaangażowanie pójdzie za złożonością narzędzia, zwykle spotyka się z czymś przeciwnym.
 
-Stopniowanie daje obronny porządek działań. Wiele szkół robi to odwrotnie: kupuje chatbota jesienią, a uczy o nim wiosną, a dowody na temat takiego porządku są niżej na tej stronie.
+Stopniowanie daje obronny porządek działań. Wiele szkół robi to odwrotnie: kupuje chatbota jesienią, a uczy o nim wiosną, a obronny porządek jest odwrotny.
 
 ## Zacząć od najmłodszych: zabawa, tworzenie i maszyny
 

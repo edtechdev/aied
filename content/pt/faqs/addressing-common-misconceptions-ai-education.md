@@ -1,8 +1,8 @@
 ---
 title: "Como podemos abordar as concepções errôneas mais comuns sobre a IA na educação?"
 created: "2026-09-04T04:39:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
-connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
+updated: "2026-11-15T15:37:46-05:00"
+connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]
 technology: [prompt-engineering]
@@ -11,7 +11,7 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 institutions: [governance]
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ ai_assist:
 
 Sua pró-reitoria quer uma folha de uma página sobre "mitos da IA" para a reunião do corpo docente da primavera. Ou um conselheiro leu que os chatbots estão destruindo o pensamento crítico e quer uma posição até sexta-feira. Ou você é a pessoa que precisa explicar, por escrito, por que o departamento não vai simplesmente proibir a ferramenta, e já esgotou as maneiras de dizer que uma proibição não é uma pedagogia.
 
-Toda crença desta página parte de algo que uma pessoa razoável já viu. Prosa fluente de fato parece precisa. Um trabalho polido de fato parece aprendizagem. Um tutor que responde à pergunta de fato parece ajuda, e uma política com a palavra "proibido" de fato parece uma decisão. A correção que funciona nomeia o que a observação não consegue lhe dizer e, em seguida, entrega uma verificação que a pessoa pode rodar na segunda-feira.
+Cada uma dessas crenças parte de algo que uma pessoa razoável já viu. Prosa fluente de fato parece precisa. Um trabalho polido de fato parece aprendizagem. Um tutor que responde à pergunta de fato parece ajuda, e uma política com a palavra "proibido" de fato parece uma decisão. A correção que funciona nomeia o que a observação não consegue lhe dizer e, em seguida, entrega uma verificação que a pessoa pode rodar na segunda-feira.
 
 Aqui está a resposta, em uma só frase: o efeito educacional da IA depende de quem a usa, para qual tarefa, que pensamento a ferramenta realiza, que responsabilidade permanece com a pessoa e como a aprendizagem é avaliada. Confiança, velocidade, engajamento e conclusão da tarefa são características do uso. Nenhuma delas é evidência de que a capacidade mudou.
 
@@ -47,7 +47,7 @@ Aqui está a resposta, em uma só frase: o efeito educacional da IA depende de q
 
 ## Decida o que conta como evidência de que houve aprendizagem
 
-Cinco crenças decidem se o resto desta página importa. Cada uma toma um sinal real e lê nele uma conclusão que o sinal não sustenta.
+Cinco crenças decidem se o resto do argumento importa. Cada uma toma um sinal real e lê nele uma conclusão que o sinal não sustenta.
 
 ### "Eles se saíram melhor com a ferramenta aberta, então aprenderam mais."
 
@@ -65,11 +65,11 @@ Médias escondem exatamente a variação que decide uma questão de equidade. Os
 
 ### "Eles relataram que aprenderam muito."
 
-[[self-report-measures|O autorrelato]] mede percepção, aceitação, [[anxiety-and-stress|ansiedade]] e [[self-efficacy|autoeficácia]], e é bom nas quatro. Não é uma medida de capacidade demonstrada, porque as pessoas podem estar confiantes e erradas, ou habilidosas e pouco confiantes. A síntese da wiki sobre pesquisa de letramento em IA de professores relata uma lacuna substancial entre [[self-assessment|autoavaliação]] e desempenho medido, e os instrutores nela superestimaram consideravelmente a própria competência ([[ai-literacy-assessment-misalignment|Avaliação de Letramento em IA: Desalinhamento entre Autorrelato e Desempenho]]). Pareie todo autorrelato com uma tarefa: identificar um erro numa saída, verificar uma fonte, escolher uma estratégia de uso, detectar viés ou bajulação, revisar uma resposta falha, calibrar a confiança contra a precisão. Um item assim num questionário transforma uma opinião em resultado.
+[[self-report-measures|O autorrelato]] mede percepção, aceitação, [[anxiety-and-stress|ansiedade]] e [[self-efficacy|autoeficácia]], e é bom nas quatro. Não é uma medida de capacidade demonstrada, porque as pessoas podem estar confiantes e erradas, ou habilidosas e pouco confiantes. Uma síntese da pesquisa sobre letramento em IA de professores relata uma lacuna substancial entre [[self-assessment|autoavaliação]] e desempenho medido, e os instrutores estudados superestimaram consideravelmente a própria competência ([[ai-literacy-assessment-misalignment|Avaliação de Letramento em IA: Desalinhamento entre Autorrelato e Desempenho]]). Pareie todo autorrelato com uma tarefa: identificar um erro numa saída, verificar uma fonte, escolher uma estratégia de uso, detectar viés ou bajulação, revisar uma resposta falha, calibrar a confiança contra a precisão. Um item assim num questionário transforma uma opinião em resultado.
 
 ### "Um estudante simulado é um substituto barato para um real."
 
-Simulação é útil para prototipar, testar sob estresse e gerar cenários, e não é evidência sobre aprendizagem humana até ter sido validada contra pessoas. Um modelo pode imitar a linguagem da confusão sem a persistência, a motivação, o conhecimento prévio, a emoção ou a trajetória de desenvolvimento de um estudante, e a pesquisa resumida na wiki encontrou estudantes simulados abandonando um equívoco atribuído após correção mínima, o que levanta dúvidas sobre se eles representam mudança conceitual ([[simulating-students|Simulação de Estudantes]], [[llm-student-simulation-misconception-faithfulness|Simulating Students or Sycophantic Problem Solving?]]). Use-os para encontrar as falhas no seu prompt antes que estudantes reais o encontrem, e então trate qualquer alegação sobre estudantes como não validada.
+Simulação é útil para prototipar, testar sob estresse e gerar cenários, e não é evidência sobre aprendizagem humana até ter sido validada contra pessoas. Um modelo pode imitar a linguagem da confusão sem a persistência, a motivação, o conhecimento prévio, a emoção ou a trajetória de desenvolvimento de um estudante, e a pesquisa sobre estudantes simulados encontrou que eles abandonavam um equívoco atribuído após correção mínima, o que levanta dúvidas sobre se eles representam mudança conceitual ([[simulating-students|Simulação de Estudantes]], [[llm-student-simulation-misconception-faithfulness|Simulating Students or Sycophantic Problem Solving?]]). Use-os para encontrar as falhas no seu prompt antes que estudantes reais o encontrem, e então trate qualquer alegação sobre estudantes como não validada.
 
 ## Defina a condição de uso de IA na etapa que carrega a aprendizagem
 
@@ -111,7 +111,7 @@ A correção é necessária e insuficiente. Uma resposta correta pode chegar ced
 
 ### "Mais automação e personalização é melhor."
 
-A [[personalized-learning|personalização]] pode apoiar a aprendizagem e pode se tornar acomodação excessiva. Quando o sistema planeja, monitora, decide o que importa e completa as etapas difíceis, o estudante fica mais rápido e menos autônomo, e a [[self-regulated-learning|autorregulação]] é o que sai discretamente da sala. O problema de desenho é remover barreiras desnecessárias preservando o esforço ligado ao objetivo. Recursos que se sustentam: tentativas obrigatórias, prompts de explicação, dicas adiadas, assistência ajustável, retirada gradual do scaffolding, reflexão sobre as recomendações do sistema, prática periódica sem auxílio e uma forma visível de sobrepor a decisão. [[agentic-ai|IA Agentiva]] e [[agency]] cobrem o que acontece quando o sistema começa a tomar as decisões.
+A [[personalized-learning|personalização]] pode apoiar a aprendizagem e pode se tornar acomodação excessiva. Quando o sistema planeja, monitora, decide o que importa e completa as etapas difíceis, o estudante fica mais rápido e menos autônomo, e a [[self-regulated-learning|autorregulação]] é o que sai discretamente da sala. O problema de desenho é remover barreiras desnecessárias preservando o esforço ligado ao objetivo. Recursos que se sustentam: tentativas obrigatórias, prompts de explicação, dicas adiadas, assistência ajustável, retirada gradual do scaffolding, reflexão sobre as recomendações do sistema, prática periódica sem auxílio e uma forma visível de sobrepor a decisão. [[agentic-ai|IA Agentiva]] e [[agency|agência]] cobrem o que acontece quando o sistema começa a tomar as decisões.
 
 ### "Um modelo maior produz um tutor mais seguro."
 
@@ -143,7 +143,7 @@ Confiabilidade é consistência; validade é se a interpretação e o uso da not
 
 ### "Uma conversa bem comportada mostra que o tutor é seguro."
 
-Danos educacionais se acumulam ao longo de uma interação. Um sistema pode responder adequadamente a um prompt e então, ao longo dos turnos, começar a fornecer respostas, reforçar um equívoco, estimular a dependência ou sair do seu papel de tutor. O benchmark SafeTutors, resumido na wiki, encontrou falhas de dano pedagógico crescendo acentuadamente quando os sistemas foram avaliados em múltiplos turnos em vez de um único intercâmbio ([[hazra-safetutors-pedagogical-safety-2026|AI Tutor Safety and Pedagogical Harms]]). Exija conversas sustentadas, erros repetidos do estudante, tentativas de resposta direta, cenários emocionais e relacionais, prompting adversarial e uma medida de dependência ao longo do tempo. Evidência de benchmark desse tipo não é uma estimativa de aprendizagem em sala, e é o mínimo sobre o que uma alegação de segurança deve se apoiar.
+Danos educacionais se acumulam ao longo de uma interação. Um sistema pode responder adequadamente a um prompt e então, ao longo dos turnos, começar a fornecer respostas, reforçar um equívoco, estimular a dependência ou sair do seu papel de tutor. O benchmark SafeTutors encontrou falhas de dano pedagógico crescendo acentuadamente quando os sistemas foram avaliados em múltiplos turnos em vez de um único intercâmbio ([[hazra-safetutors-pedagogical-safety-2026|AI Tutor Safety and Pedagogical Harms]]). Exija conversas sustentadas, erros repetidos do estudante, tentativas de resposta direta, cenários emocionais e relacionais, prompting adversarial e uma medida de dependência ao longo do tempo. Evidência de benchmark desse tipo não é uma estimativa de aprendizagem em sala, e é o mínimo sobre o que uma alegação de segurança deve se apoiar.
 
 ### "A revisão humana é um remendo temporário até os modelos melhorarem."
 
@@ -151,7 +151,7 @@ A revisão é uma função de responsabilização, não um recurso de correção
 
 ### "Acessibilidade, privacidade e equidade podem ser acrescentadas depois que o produto central funciona."
 
-Estes são requisitos de desenho. Modalidade de entrada, nível de leitura, suposições de idioma, requisitos de dispositivo, retenção de dados, personalização e viés do modelo decidem quem pode usar o sistema e quem é prejudicado por ele, e adaptar depois tende a melhorar a interface deixando intactos o fluxo de trabalho, o modelo de dados e a lógica de decisão. Envolva estudantes e educadores afetados desde cedo, teste com usuários diversos, colete o mínimo, ofereça alternativas acessíveis e examine resultados diferenciais. Um sistema cujos benefícios são inacessíveis ou distribuídos de forma desigual não é educacionalmente eficaz, qualquer que seja sua média ([[accessibility]], [[universal-design-for-learning|Desenho Universal para a Aprendizagem]], [[privacy]]).
+Estes são requisitos de desenho. Modalidade de entrada, nível de leitura, suposições de idioma, requisitos de dispositivo, retenção de dados, personalização e viés do modelo decidem quem pode usar o sistema e quem é prejudicado por ele, e adaptar depois tende a melhorar a interface deixando intactos o fluxo de trabalho, o modelo de dados e a lógica de decisão. Envolva estudantes e educadores afetados desde cedo, teste com usuários diversos, colete o mínimo, ofereça alternativas acessíveis e examine resultados diferenciais. Um sistema cujos benefícios são inacessíveis ou distribuídos de forma desigual não é educacionalmente eficaz, qualquer que seja sua média ([[accessibility|acessibilidade]], [[universal-design-for-learning|Desenho Universal para a Aprendizagem]], [[privacy|privacidade]]).
 
 ### "Um chatbot é seguro para crianças se bloquear conteúdo tóxico."
 
@@ -175,7 +175,7 @@ Ele demonstra o desempenho de uma pessoa mais uma ferramenta. A competência apa
 
 ### "Letramento em IA significa saber escrever um bom prompt."
 
-Escrever prompts é uma habilidade operacional. O escopo que importa para um professor ou um funcionário é mais amplo: o que os [[ai-technologies|sistemas de IA]] conseguem e não conseguem fazer de forma confiável, como avaliar precisão e viés, como a IA afeta a validade da avaliação, quando o descarregamento se torna deslocamento, os requisitos de privacidade e acessibilidade, como o uso se encaixa na disciplina e quando não usar de modo algum. A síntese da wiki encontrou professores superestimando substancialmente sua competência em IA quando autorrelatos foram comparados com medidas de desempenho, e a competência demonstrada previu a integração em sala muito melhor do que a confiança ([[ai-literacy-assessment-misalignment|Avaliação de Letramento em IA: Desalinhamento entre Autorrelato e Desempenho]]). Técnicas de prompt também envelhecem mais rápido do que o julgamento. Ensine [[prompt-engineering|Engenharia de Prompt]] como habilidade e avalie [[teacher-ai-competency|Competência Docente em IA]] como a mais ampla.
+Escrever prompts é uma habilidade operacional. O escopo que importa para um professor ou um funcionário é mais amplo: o que os [[ai-technologies|sistemas de IA]] conseguem e não conseguem fazer de forma confiável, como avaliar precisão e viés, como a IA afeta a validade da avaliação, quando o descarregamento se torna deslocamento, os requisitos de privacidade e acessibilidade, como o uso se encaixa na disciplina e quando não usar de modo algum. Uma síntese da evidência encontrou professores superestimando substancialmente sua competência em IA quando autorrelatos foram comparados com medidas de desempenho, e a competência demonstrada previu a integração em sala muito melhor do que a confiança ([[ai-literacy-assessment-misalignment|Avaliação de Letramento em IA: Desalinhamento entre Autorrelato e Desempenho]]). Técnicas de prompt também envelhecem mais rápido do que o julgamento. Ensine [[prompt-engineering|Engenharia de Prompt]] como habilidade e avalie [[teacher-ai-competency|Competência Docente em IA]] como a mais ampla.
 
 ### "O conhecimento disciplinar fundamental está obsoleto porque a IA pode recuperá-lo."
 
@@ -199,11 +199,11 @@ Ele responde à linguagem, usa a conversa e às vezes retém informação, o que
 
 ### "Um bom prompt deve produzir a resposta certa."
 
-A saída é sensível ao prompt e muitas vezes não determinística, então pequenas mudanças de redação, contexto, exemplos ou suposições movem a resposta substancialmente, e perguntar de novo não é verificar. Cinco respostas parecidas podem compartilhar uma mesma premissa equivocada. Iteração produtiva esclarece o objetivo e as restrições, expõe suposições, pede alternativas, testa contra evidências e verifica se a resposta sobrevive a uma mudança no problema. Isso é uma habilidade, e uma habilidade distribuída de forma desigual. Uma demonstração de um estudante ingênuo usando um chatbot numa questão de prova para fazer em casa permaneceu "polida, mas pedagogicamente rasa" no nível multistrutural da taxonomia SOLO, e chegar a um ciclo de aprendizagem utilizável exigiu oito rodadas de intervenção em nível meta: sinalizar sobrecarga, pedir simplificação, estreitar o escopo. Os autores chamam essa capacidade de **letramento em interação com IA**, ou seja, a capacidade de conduzir, avaliar e aprender com a interação iterativa, e observam a ferroada da equidade: como o uso não guiado impõe uma habilidade de gestão da interação distribuída de forma desigual, a IA generativa "pode ser mais benéfica para estudantes já privilegiados" ([[brunnstrom-ai-interaction-literacy-srl-2026|letramento em interação com IA]]). Para as exigências de [[regulation]] por baixo disso, veja [[developing-ai-tutor|Como Desenvolver um Tutor de IA Eficaz?]].
+A saída é sensível ao prompt e muitas vezes não determinística, então pequenas mudanças de redação, contexto, exemplos ou suposições movem a resposta substancialmente, e perguntar de novo não é verificar. Cinco respostas parecidas podem compartilhar uma mesma premissa equivocada. Iteração produtiva esclarece o objetivo e as restrições, expõe suposições, pede alternativas, testa contra evidências e verifica se a resposta sobrevive a uma mudança no problema. Isso é uma habilidade, e uma habilidade distribuída de forma desigual. Uma demonstração de um estudante ingênuo usando um chatbot numa questão de prova para fazer em casa permaneceu "polida, mas pedagogicamente rasa" no nível multistrutural da taxonomia SOLO, e chegar a um ciclo de aprendizagem utilizável exigiu oito rodadas de intervenção em nível meta: sinalizar sobrecarga, pedir simplificação, estreitar o escopo. Os autores chamam essa capacidade de **letramento em interação com IA**, ou seja, a capacidade de conduzir, avaliar e aprender com a interação iterativa, e observam a ferroada da equidade: como o uso não guiado impõe uma habilidade de gestão da interação distribuída de forma desigual, a IA generativa "pode ser mais benéfica para estudantes já privilegiados" ([[brunnstrom-ai-interaction-literacy-srl-2026|letramento em interação com IA]]). Para as exigências de [[regulation|regulação]] por baixo disso, veja [[developing-ai-tutor|Como Desenvolver um Tutor de IA Eficaz?]].
 
 ### "Os jovens já são letrados em IA porque são nativos digitais."
 
-Familiaridade com produtos digitais não é a capacidade de avaliar IA. Um estudante pode abrir um chatbot, gerar uma imagem e pedir uma resposta sendo incapaz de verificar uma afirmação, identificar evidência fabricada, detectar viés ou bajulação, proteger informações pessoais, decidir o que não delegar ou explicar como a IA moldou o trabalho. A wiki resume pesquisas em que a confiança com tecnologia cotidiana não se transferiu para o raciocínio algorítmico, a criação tecnológica ou a avaliação crítica da IA ([[digital-literacy-illusion|A Ilusão da Competência]]). O letramento é ensinado e demonstrado; idade e frequência de uso não o conferem.
+Familiaridade com produtos digitais não é a capacidade de avaliar IA. Um estudante pode abrir um chatbot, gerar uma imagem e pedir uma resposta sendo incapaz de verificar uma afirmação, identificar evidência fabricada, detectar viés ou bajulação, proteger informações pessoais, decidir o que não delegar ou explicar como a IA moldou o trabalho. Pesquisas mostram que a confiança com tecnologia cotidiana não se transferiu para o raciocínio algorítmico, a criação tecnológica ou a avaliação crítica da IA ([[digital-literacy-illusion|A Ilusão da Competência]]). O letramento é ensinado e demonstrado; idade e frequência de uso não o conferem.
 
 ### "Estudantes que usam IA são preguiçosos ou desonestos."
 
@@ -231,7 +231,7 @@ Automatizar tarefas não é substituir a função educacional. Redigir exemplos,
 
 ## O que as pessoas que conduzem isso erram
 
-Os equívocos acima pertencem ao público para o qual a página foi escrita. Estes pertencem às pessoas que escrevem o memorando, e são a razão pela qual boas correções não chegam a lugar algum.
+O primeiro conjunto pertence ao público que estas correções visam. O segundo pertence às pessoas que escrevem o memorando, e são a razão pela qual boas correções não chegam a lugar algum.
 
 ### "Orientado por dados significa objetivo."
 
@@ -261,7 +261,7 @@ A vergonha produz defensividade e ocultação, e mensagens como "só estudantes 
 
 A mecânica é curta o bastante para usar numa reunião de corpo docente. Nomeie a crença, diga por que ela parece verdadeira, rejeite-a claramente, explique a falha, ofereça o modelo melhor e entregue uma aplicação.
 
-A versão resolvida, que você pode adaptar a qualquer item desta página:
+A versão resolvida, que você pode adaptar a qualquer concepção da lista:
 
 > **Equívoco:** "Uma boa tarefa gerada por IA mostra que o estudante aprendeu."
 > **Refutação:** "Isso não é necessariamente verdade. O produto mostra o que o estudante e a IA produziram juntos, mas não revela qual raciocínio o estudante executou."
@@ -306,7 +306,7 @@ A interferência acontece dentro da disciplina, na etapa em que a ferramenta exe
 
 **1.** Pegue as três crenças que você mais ouve e escreva cada uma como uma refutação: a crença, por que ela parece verdadeira, a correção, a substituição, a aplicação. Uma página, sem citações.
 
-**2.** Acrescente um item sem auxílio a uma [[assessment]] que você já aplica, e dê a ele peso suficiente para que o resultado signifique algo.
+**2.** Acrescente um item sem auxílio a uma [[assessment|avaliação]] que você já aplica, e dê a ele peso suficiente para que o resultado signifique algo.
 
 **3.** Reescreva a cláusula de IA de um curso para que ela nomeie o ato e a etapa, e escolha uma das quatro condições para cada fase da tarefa.
 

@@ -1,7 +1,7 @@
 ---
 title: "Como podemos fazer a IA apoiar melhor a aprendizagem na nossa própria disciplina?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-10-29T08:28:16-04:00"
+updated: "2026-11-15T15:37:46-05:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, developing-ai-tutor, designing-educational-ai-software]
 weight: 74
 type: faq
@@ -17,7 +17,7 @@ methods: [benchmark]
 ethics: [pedagogical-safety]
 contributors: [editor]
 translation_of: faqs/making-ai-better-at-supporting-learning
-source_updated: "2026-10-28T11:21:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -56,7 +56,7 @@ O treinamento é real e às vezes necessário. É a terceira ou a quarta coisa a
 
 Antes de mudar qualquer coisa, registre o que um prompt simples devolve. Depois registre o que um método trivial devolve.
 
-O estudo do [[shen-sustainable-ai-knowledge-base-cs-education-2026|assistente de base de conhecimento do curso]] vale a leitura só por isso. Um LLM local sem recuperação alcançou **52,3%** de acurácia. Uma linha de base TF-IDF, um método lexical com décadas de idade, alcançou **55,4%**. O modelo era pior que o método clássico.
+O estudo do [[shen-sustainable-ai-knowledge-base-cs-education-2026|assistente de base de conhecimento do curso]] vale a leitura só por isso. Um [[llm|LLM]] local sem recuperação alcançou **52,3%** de acurácia. Uma linha de base TF-IDF, um método lexical com décadas de idade, alcançou **55,4%**. O modelo era pior que o método clássico.
 
 Pule esta etapa e você não consegue dizer se seu ajuste fino ajudou. Pior: você pode colocar em produção um sistema que uma busca por palavras-chave supera e só descobrir quando um monitor mencionar. Dois números numa planilha, obtidos numa tarde, protegem o resto do orçamento.
 
@@ -64,18 +64,18 @@ Pule esta etapa e você não consegue dizer se seu ajuste fino ajudou. Pior: voc
 
 Acrescentar [[rag|geração aumentada por recuperação]] sobre os materiais do curso, sem nenhum ajuste fino, elevou esse mesmo sistema de 52,3% para **66,6%**. Esse ganho veio de um índice, e vem com uma propriedade que uma rodada de treinamento não tem: quando seus documentos mudam, você reindexa.
 
-Dois outros resultados apontam na mesma direção. Uma revisão PRISMA de 23 estudos empíricos sobre personalização de IA para [[writing-education|ensino de escrita]] descobriu a **engenharia de prompt dominante (N = 13), à frente do ajuste fino (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Onde uma base de conhecimento tem de se manter atual, a recuperação é a única alavanca que se mantém atual sem rodar de novo um treinamento.
+Dois outros resultados apontam na mesma direção. Uma [[meta-analysis-systematic-review|revisão PRISMA]] de 23 estudos empíricos sobre personalização de IA para [[writing-education|ensino de escrita]] descobriu a **[[prompt-engineering|engenharia de prompt]] dominante (N = 13), à frente do ajuste fino (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026|Luo, 2026]]). Onde uma base de conhecimento tem de se manter atual, a recuperação é a única alavanca que se mantém atual sem rodar de novo um treinamento.
 
-A recuperação também tem uma forma pedagógica. Ancorar um modelo nos seus próprios exemplos resolvidos e rubricas é como ele fica dentro do [[scaffolding|scaffolding]] que você desenhou, respondendo no nível que você definiu em vez de derivar para conselhos genéricos. Essa deriva é a queixa mais comum sobre tutores prontos de prateleira, e é um problema de recuperação mais vezes do que um problema de pesos.
+A recuperação também tem uma forma [[pedagogy|pedagógica]]. Ancorar um modelo nos seus próprios exemplos resolvidos e rubricas é como ele fica dentro do [[scaffolding|scaffolding]] que você desenhou, respondendo no nível que você definiu em vez de derivar para conselhos genéricos. Essa deriva é a queixa mais comum sobre tutores prontos de prateleira, e é um problema de recuperação mais vezes do que um problema de pesos.
 
 ## Escreva o prompt contra a sua rubrica e observe o platô
 
 O trabalho de prompt não é um preliminar que você faz enquanto espera a GPU. Dois resultados mostram o que ele alcança sozinho:
 
-- **Prompt guiado por rubrica, refinado de forma iterativa e conjunta, elevou a concordância entre LLM e humano em trabalhos de projeto de estudantes de 54,75% para 81,25%** (alfa de Cronbach de 0,393 para 0,798), sem nenhum ajuste fino ([[yasar-llms-iterative-pedagogical-design-2026]]).
-- Um prompt personalizado ancorado na literatura eliciou [[misconceptions|equívocos]] matemáticos alvo com presença de **0,98**, contra **0,40** de um prompt amplo ([[zhuang-zhang-chatgpt-math-teacher-education-2026]]).
+- **Prompt guiado por rubrica, refinado de forma iterativa e conjunta, elevou a concordância entre LLM e humano em trabalhos de projeto de estudantes de 54,75% para 81,25%** (alfa de Cronbach de 0,393 para 0,798), sem nenhum ajuste fino ([[yasar-llms-iterative-pedagogical-design-2026|Yaşar et al., 2026]]).
+- Um prompt personalizado ancorado na literatura eliciou [[misconceptions|equívocos]] matemáticos alvo com presença de **0,98**, contra **0,40** de um prompt amplo ([[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang et al., 2025]]).
 
-O sinal prático é o **platô**. No estudo de geração de itens, o refinamento iterativo do prompt parou de melhorar, e o ajuste fino do GPT-4.1 *sobre o prompt otimizado* acrescentou então o ganho restante ([[gpt-item-generation-l2-listening-2026]]). Um platô depois de trabalho real de prompt é evidência de que o treinamento tem espaço para acrescentar algo. Recorrer ao treinamento antes de chegar a um é adivinhar, e adivinhar custa um mês.
+O sinal prático é o **platô**. No estudo de geração de itens, o refinamento iterativo do prompt parou de melhorar, e o ajuste fino do GPT-4.1 *sobre o prompt otimizado* acrescentou então o ganho restante ([[gpt-item-generation-l2-listening-2026|Aryadoust et al., 2026]]). Um platô depois de trabalho real de prompt é evidência de que o treinamento tem espaço para acrescentar algo. Recorrer ao treinamento antes de chegar a um é adivinhar, e adivinhar custa um mês.
 
 Note o que o resultado da geração de itens implica sobre sequenciamento. O ajuste fino foi construído sobre o prompt otimizado, então o trabalho de prompt não foi desperdiçado quando a equipe finalmente treinou. O degrau barato é também a especificação do caro.
 
@@ -83,9 +83,9 @@ Note o que o resultado da geração de itens implica sobre sequenciamento. O aju
 
 A adaptação compensa quando você precisa que o modelo sustente uma propriedade de forma confiável: um nível de leitura, um formato de saída, um domínio que ele não tem. O resultado recorrente é que **mirar bem vence o tamanho**.
 
-- Três modelos **8B** ajustados finamente em um currículo infantil de leitura concebido por especialistas superaram o GPT-4o e o Llama 3.3 70B em zero-shot em métricas relacionadas a dificuldade, com problemas de segurança negligenciáveis. Os autores enquadram isso como **controlabilidade em vez de escala** ([[llm-children-reading-story-generation]]).
-- Um conjunto de instruções de **24.795 exemplos** ancorado nos Sistemas de Conhecimento Indianos produziu um ajuste fino **7B** com **6,39** em um painel externo de cinco juízes, a **0,15** de um modelo de referência geral forte, por uma fração do custo de implantação. O mesmo modelo-base pontuou **perto de zero em dimensões específicas do domínio** sem o ajuste fino ([[iks-instruct-dataset-indian-knowledge]]). Essa distância entre ser competente em geral e ser competente aqui é todo o argumento para a adaptação de domínio.
-- Um único adaptador [[llm-training-and-fine-tuning|LoRA]] treinado em cerca de **3.900** exemplos corrigidos reunidos levou cinco pequenos modelos abertos (de 4B a 30B) à paridade ou melhor que um avaliador humano em duas provas de ciência da computação ([[llm-graders-computer-science-exams-2026]]). Um adaptador, um conjunto de dados, vários modelos-base: esse é o formato de implantação que uma equipe pequena consegue operar.
+- Três modelos **8B** ajustados finamente em um [[curriculum-design|currículo]] infantil de leitura concebido por especialistas superaram o GPT-4o e o Llama 3.3 70B em zero-shot em métricas relacionadas a dificuldade, com problemas de segurança negligenciáveis. Os autores enquadram isso como **controlabilidade em vez de escala** ([[llm-children-reading-story-generation|Shen et al. (2026)]]).
+- Um conjunto de instruções de **24.795 exemplos** ancorado nos Sistemas de Conhecimento Indianos produziu um ajuste fino **7B** com **6,39** em um painel externo de cinco juízes, a **0,15** de um modelo de referência geral forte, por uma fração do custo de implantação. O mesmo modelo-base pontuou **perto de zero em dimensões específicas do domínio** sem o ajuste fino ([[iks-instruct-dataset-indian-knowledge|Singaravelu et al., 2026]]). Essa distância entre ser competente em geral e ser competente aqui é todo o argumento para a adaptação de domínio.
+- Um único adaptador [[llm-training-and-fine-tuning|LoRA]] treinado em cerca de **3.900** exemplos corrigidos reunidos levou cinco pequenos [[open-source|modelos abertos]] (de 4B a 30B) à paridade ou melhor que um avaliador humano em duas provas de ciência da computação ([[llm-graders-computer-science-exams-2026|Habibullah et al., 2026]]). Um adaptador, um conjunto de dados, vários modelos-base: esse é o formato de implantação que uma equipe pequena consegue operar.
 
 A palavra *estável* no título carrega o peso. Formato, rubrica, nível de leitura e vocabulário de domínio são alvos estáveis. Prosa carregada de julgamento não tem alvo assim, e é aí que a adaptação falha, como mostram as duas próximas seções.
 
@@ -93,13 +93,13 @@ A palavra *estável* no título carrega o peso. Formato, rubrica, nível de leit
 
 A adaptação ensina ao modelo *o que produzir*. O pós-treinamento ensina *como se comportar*. Para a tutoria essa distinção é o problema inteiro: modelos gerais são pós-treinados segundo a preferência humana por utilidade, o que significa responder prontamente, e ensinar exige retomar a resposta.
 
-Os resultados educacionais mais fortes neste corpus estão aqui. O modelo de recompensa do EduQwen priorizou explicitamente **respostas que orientam em vez de respostas diretas**, e seu pipeline de três estágios alcançou **96,52%** no benchmark CDPK contra os **90,55%** do Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). O simulador de escrita do SWIM passou do prompt ancorado em rubrica (melhor QWK **0,577**) para o ajuste fino supervisionado (**0,474 ± 0,023**) e depois para a aprendizagem por reforço (**0,618 ± 0,005**) em todos os traços e prompts ([[swim-student-writing-simulation-2026]]).
+Os resultados educacionais mais fortes neste corpus estão aqui. O modelo de recompensa do EduQwen priorizou explicitamente **respostas que orientam em vez de respostas diretas**, e seu pipeline de três estágios alcançou **96,52%** no benchmark CDPK contra os **90,55%** do Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026|Singh et al., 2026]]). O [[simulation|simulador]] de escrita do SWIM passou do prompt ancorado em rubrica (melhor QWK **0,577**) para o ajuste fino supervisionado (**0,474 ± 0,023**) e depois para a [[reinforcement-learning|aprendizagem por reforço]] (**0,618 ± 0,005**) em todos os traços e prompts ([[swim-student-writing-simulation-2026|Do et al., 2026]]).
 
 Leia os números do SWIM com cuidado, porque a etapa do meio andou para trás. O ajuste fino supervisionado em demonstrações tornou o simulador pior que o prompt de onde partiu, e só o sinal de recompensa recuperou a perda e superou a linha de base. Se o seu plano para no ajuste fino supervisionado, o plano pode ser um desvio.
 
 ## Supervisione no nível da etapa
 
-Um achado aqui é fácil de deixar passar e caro de ignorar: **a qualidade da supervisão vence a quantidade de supervisão**. Modelos ajustados por instrução aprenderam equívocos de álgebra somente quando treinados em **traços de solução no nível da etapa**. Treinados apenas com respostas finais, a acurácia ficou **abaixo de 30% em todos os tamanhos de dados** ([[misconception-acquisition-dynamics-llms-2026]]).
+Um achado aqui é fácil de deixar passar e caro de ignorar: **a qualidade da supervisão vence a quantidade de supervisão**. Modelos ajustados por instrução aprenderam equívocos de álgebra somente quando treinados em **traços de solução no nível da etapa**. Treinados apenas com respostas finais, a acurácia ficou **abaixo de 30% em todos os tamanhos de dados** ([[misconception-acquisition-dynamics-llms-2026|Liu et al., 2026]]).
 
 Se seus exemplos de treinamento são pares de pergunta e resposta correta, você está treinando a coisa errada, e acrescentar exemplos não conserta isso. O que você precisa é do trabalho intermediário: o caminho errado, a etapa em que o estudante se desviou, a correção. Coletar isso é um problema de engenharia de dados com uma restrição pedagógica, e normalmente significa registrar sessões em vez de raspar gabaritos.
 
@@ -107,13 +107,13 @@ Se seus exemplos de treinamento são pares de pergunta e resposta correta, você
 
 Esta é a parte que o entusiasmo pula.
 
-**Texto carregado de julgamento.** No WrAFT, o mesmo projeto que ajustou com sucesso para *pontuar* redações (QWK 0,84) produziu saída truncada e não analisável quando ajustou para *feedback*, enquanto o prompt direto no Claude 3.7 produziu o feedback que os professores avaliaram como o melhor ([[wraft-automated-writing-evaluation-argumentative-2026]]). O ajuste fino ensinou ao modelo alcançar uma pontuação, e pontuar foi a única coisa que ele aprendeu.
+**Texto carregado de julgamento.** No WrAFT, o mesmo projeto que ajustou com sucesso para *pontuar* redações (QWK 0,84) produziu saída truncada e não analisável quando ajustou para *feedback*, enquanto o prompt direto no Claude 3.7 produziu o feedback que os professores avaliaram como o melhor ([[wraft-automated-writing-evaluation-argumentative-2026|Labib et al., 2026]]). O ajuste fino ensinou ao modelo alcançar uma pontuação, e pontuar foi a única coisa que ele aprendeu.
 
-**Transferência entre modelos.** A escala não é um preditor confiável de desempenho posterior sob adaptação LoRA, e **hiperparâmetros idênticos produziram comportamento qualitativamente diferente entre arquiteturas** ([[aiawe-automated-writing-evaluation]]). Uma receita que funcionou em um modelo não é uma receita.
+**Transferência entre modelos.** A escala não é um preditor confiável de desempenho posterior sob adaptação LoRA, e **hiperparâmetros idênticos produziram comportamento qualitativamente diferente entre arquiteturas** ([[aiawe-automated-writing-evaluation|Gayed, 2026]]). Uma receita que funcionou em um modelo não é uma receita.
 
-**Arquitetura acima da contagem de parâmetros.** O ajuste fino de três modelos abertos de texto para imagem com 1.000 imagens de engenharia nuclear com legendas melhorou substancialmente o Stable Diffusion XL, deu ganhos limitados ao SD-v3.5-Medium e produziu **nenhuma melhoria mensurável no Flux.1** ([[nuclear-diffusion-text-to-image-learning-2026]]).
+**Arquitetura acima da contagem de parâmetros.** O ajuste fino de três modelos abertos de texto para imagem com 1.000 imagens de engenharia nuclear com legendas melhorou substancialmente o Stable Diffusion XL, deu ganhos limitados ao SD-v3.5-Medium e produziu **nenhuma melhoria mensurável no Flux.1** ([[nuclear-diffusion-text-to-image-learning-2026|Radaideh et al., 2026]]).
 
-**O problema era a validação.** Um GPT-4 de fronteira sem treinamento produziu cerca de **35%** de dicas demasiado genéricas, incorretas ou que revelavam a resposta ao redigir feedback de tutoria, e suas próprias checagens automatizadas de qualidade discordaram do julgamento humano ([[reddig-maclellan-personalized-feedback-llm-2026]]). Isso é um problema de filtragem, e um LoRA não vai resolvê-lo.
+**O problema era a validação.** Um GPT-4 de fronteira sem treinamento produziu cerca de **35%** de dicas demasiado genéricas, incorretas ou que revelavam a resposta ao redigir feedback de tutoria, e suas próprias checagens automatizadas de qualidade discordaram do julgamento humano ([[reddig-maclellan-personalized-feedback-llm-2026|Reddig et al., 2025]]). Isso é um problema de filtragem, e um LoRA não vai resolvê-lo.
 
 O padrão nos quatro: a adaptação move um modelo de forma confiável na direção de um alvo que você consegue especificar e pontuar. Ela não acrescenta julgamento, e um pipeline sem checagem vai colocar saída ruim em produção de qualquer forma.
 
@@ -121,15 +121,15 @@ O padrão nos quatro: a adaptação move um modelo de forma confiável na direç
 
 Para o degrau da adaptação, o patamar é mais baixo do que a maioria das equipes supõe: **algumas centenas a alguns milhares de exemplos e uma única GPU**. O LoRA treina um número pequeno de parâmetros acrescentados e mantém os pesos-base congelados, então vários modelos podem ser servidos a partir de um adaptador.
 
-O posto é uma troca, e não um botão a maximizar. O ganho por milhão de parâmetros do adaptador caiu monotonicamente conforme o posto subia, e o alinhamento no nível do curso era uma decisão de escala e posto, não uma melhoria gratuita ([[lora-finetuned-control-systems-course-qa-2026]]).
+O posto é uma troca, e não um botão a maximizar. O ganho por milhão de parâmetros do adaptador caiu monotonicamente conforme o posto subia, e o alinhamento no nível do curso era uma decisão de escala e posto, não uma melhoria gratuita ([[lora-finetuned-control-systems-course-qa-2026|Lu et al., 2026]]).
 
-Quais camadas adaptar também é uma escolha real. Atualizar **apenas as últimas quatro camadas Transformer** de um analisador de discurso baseado em BERT superou tanto adaptar só a camada superior quanto o ajuste fino em profundidade total ([[bert-discourse-english-teaching-2026]]). Três configurações, três resultados diferentes, e a mais barata venceu.
+Quais camadas adaptar também é uma escolha real. Atualizar **apenas as últimas quatro camadas Transformer** de um analisador de discurso baseado em BERT superou tanto adaptar só a camada superior quanto o ajuste fino em profundidade total ([[bert-discourse-english-teaching-2026|Wang et al., 2026]]). Três configurações, três resultados diferentes, e a mais barata venceu.
 
 O custo fácil de subestimar é a avaliação, que é maior que a conta de computação. Veja [[checking-whether-educational-ai-works|Como sabemos se uma IA educacional está funcionando corretamente, e não apenas pontuando bem?]]
 
 ## Calibre o que você espera
 
-A escolha do modelo e a escolha do prompt juntas respondem por apenas cerca de **15%** do desalinhamento entre LLMs e ganhos de aprendizagem dos estudantes, e naquele estudo ensembles com ponderação por benchmark e votação unânime tornaram o alinhamento *pior* ([[educational-llm-alignment]]). Os dados de pré-treinamento são a alavanca dominante sobre como um modelo se comporta, e é a única alavanca que você não consegue puxar.
+A escolha do modelo e a escolha do prompt juntas respondem por apenas cerca de **15%** do desalinhamento entre LLMs e [[learning-gains|ganhos de aprendizagem]] dos estudantes, e naquele estudo ensembles com ponderação por benchmark e votação unânime tornaram o alinhamento *pior* ([[educational-llm-alignment|Hardy et al. (2026)]]). Os dados de pré-treinamento são a alavanca dominante sobre como um modelo se comporta, e é a única alavanca que você não consegue puxar.
 
 Nada disso argumenta contra o trabalho acima. Argumenta contra esperar que um ajuste fino conserte um problema de desenho. Se o problema é que seu tutor responde com prontidão demais, o treinamento pode resolver. Se o problema é que seus aprendizes não se engajam com ele, o treinamento não resolve, e a cifra de 15% diz que o dinheiro é melhor gasto em outro lugar.
 
@@ -173,4 +173,4 @@ O ajuste fino supervisionado é a etapa intermediária segura antes da aprendiza
 
 ## Para onde ir a seguir
 
-[[training-ai-tutors-to-guide-rather-than-answer|Como treinamos um tutor de IA para orientar os estudantes em vez de dar as respostas?]] cobre a metade do pós-treinamento em detalhe. [[checking-whether-educational-ai-works|Como sabemos se uma IA educacional está funcionando corretamente?]] cobre como saber se algo disso funcionou. [[developing-ai-tutor|Quais são as boas práticas para desenvolver um tutor de IA eficaz?]] é o lado do desenho de interação do mesmo objetivo, e [[designing-educational-ai-software|Quais são as boas práticas para projetar software educacional com IA?]] cobre o sistema ao redor. A página conceitual completa é [[llm-training-and-fine-tuning]].
+[[training-ai-tutors-to-guide-rather-than-answer|Como treinamos um tutor de IA para orientar os estudantes em vez de dar as respostas?]] cobre a metade do pós-treinamento em detalhe. [[checking-whether-educational-ai-works|Como sabemos se uma IA educacional está funcionando corretamente?]] cobre como saber se algo disso funcionou. [[developing-ai-tutor|Quais são as boas práticas para desenvolver um tutor de IA eficaz?]] é o lado do desenho de interação do mesmo objetivo, e [[designing-educational-ai-software|Quais são as boas práticas para projetar software educacional com IA?]] cobre o sistema ao redor. A página conceitual completa é [[llm-training-and-fine-tuning|ajuste fino]].

@@ -1,7 +1,7 @@
 ---
 title: "교육에서 AI에 관한 연구 문헌에서 주목할 만한 격차는 무엇입니까?"
 created: "2026-08-24T14:10:00-04:00"
-updated: "2026-11-08T05:07:29-05:00"
+updated: "2026-11-15T15:46:45-05:00"
 connected_faqs: [reporting-interpreting-aied-research, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research]
 weight: 45
 type: faq
@@ -14,7 +14,7 @@ level: [higher ed]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
 translation_of: faqs/research-gaps-aied
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -74,7 +74,7 @@ AI를 사용하는 동안의 수행 개선은 지원이 끝난 뒤에도 남는 
 
 여전히 열려 있는 것은 최초의 독립적 시도, 자기 설명, 동료 투입, 교정적 피드백, 힌트, 지원 감소의 기여와 시점, 그리고 각각이 [[prior-knowledge|사전 지식]] 및 과제 난이도와 상호작용하는 방식입니다.
 
-이론 격차도 나란히 있습니다. [[learning-theories|학습 이론]]의 이름을 대는 것은 그것을 검증하는 것이 아닙니다. 연구에는 특정 시스템 행동에 연결된 이론적 예측과 측정 가능한 학습 과정이 필요하며, 통계적 매개는 인과 기제를 확립하지 않은 채 그 설명에 정보를 더할 뿐입니다. [[theory-development-aied|AI 교육의 이론 개발]]과 [[scaffolding]]이 논의를 더 밀고 나갑니다.
+이론 격차도 나란히 있습니다. [[learning-theories|학습 이론]]의 이름을 대는 것은 그것을 검증하는 것이 아닙니다. 연구에는 특정 시스템 행동에 연결된 이론적 예측과 측정 가능한 학습 과정이 필요하며, 통계적 매개는 인과 기제를 확립하지 않은 채 그 설명에 정보를 더할 뿐입니다. [[theory-development-aied|AI 교육의 이론 개발]]과 [[scaffolding|비계]]이 논의를 더 밀고 나갑니다.
 
 ## 해석하기 전에 측정 도구를 검증하십시오
 
@@ -116,7 +116,7 @@ AI 리터러시 중재 연구는 종합할 만큼 충분합니다. [[liu-ai-lite
 
 역량은 단일 국가 체계 안에서도 다릅니다. [[adeniranye-ai-integration-nigerian-higher-education-2026|Adeniranye 등(2026)]]은 나이지리아 대학 45곳의 AI 통합을 점수화해 전반적으로 중간 수준의 도입(M = 4.79, 10점 척도에서 범위 1.83-7.83)을 발견했으며, 연령과 지리를 통제하면 기관 유형이 통합을 예측하지 못했습니다(연령 β = 0.43; 남서부 소재 β = 0.31). 내부 역량은 r = 0.79-0.80으로, 국제 협력은 산업 파트너십과 r = 0.74로 상호상관되어, 연결된 기관이 복리로 이점을 축적합니다. 더 새롭고 덜 연결된 기관에서 어떤 역량 구축 설계가 성과를 바꾸는지는 검증되지 않았습니다.
 
-연구 우선순위는 입증된 역량, 참여, [[agency|주체성]]의 차이를 줄이는 설계를 식별하는 것이며, 평균 이득과 함께 하위집단 성과와 부담을 보고하는 것입니다. 접근성은 자체적인 미해결 질문을 안고 있습니다. 설계가 참여의 장벽을 제거하는지, 아니면 학습자가 개발해야 할 역량을 대체하는지입니다. [[equity-in-ai-education|AI 교육의 형평성]]과 [[accessibility]]를 보십시오.
+연구 우선순위는 입증된 역량, 참여, [[agency|주체성]]의 차이를 줄이는 설계를 식별하는 것이며, 평균 이득과 함께 하위집단 성과와 부담을 보고하는 것입니다. 접근성은 자체적인 미해결 질문을 안고 있습니다. 설계가 참여의 장벽을 제거하는지, 아니면 학습자가 개발해야 할 역량을 대체하는지입니다. [[equity-in-ai-education|AI 교육의 형평성]]과 [[accessibility|접근성]]를 보십시오.
 
 ## 누가 통제권을 쥐고 있는지, 언제 그것이 바뀌는지 밝히십시오
 
@@ -150,7 +150,7 @@ AI 리터러시 중재 연구는 종합할 만큼 충분합니다. [[liu-ai-lite
 
 [[agarwal-ethical-values-norms-aied-2026|Agarwal 등]]은 25편의 논문을 검토해 윤리 문헌에서 최종 사용자가 대체로 수동적이고 학생의 목소리가 사실상 부재하며, 가치 간의 긴장과 이해관계자 간의 권력 비대칭이 있음을 발견했습니다. 그것은 검토된 문헌을 기술합니다. 학생이 AIED 설계에 결코 참여하지 않는다는 주장은 아닙니다.
 
-빠진 것은 어떤 거버넌스 배열이 측정 가능한 차이를 만드는지에 관한 증거입니다. 학생과 교사의 참여가 조달, 도구 설계, 평가 규칙, 실수 이후의 구제를 바꿉니까? 인간 검토 절차가 중대한 오류를 잡습니까? AI 사용을 하라는 사람들에게 AI 사용의 대안이 실제로 제공됩니까? 사생활 연구에도 유사한 격차가 있습니다. 추가 데이터 수집의 교육적 가치는 보통 가정되며, 데이터를 최소화하는 설계가 더 침습적인 설계와 학습 및 학습자 자율성 양쪽에서 비교된 경우는 드뭅니다. [[governance|AI 거버넌스]]와 [[privacy]]를 보십시오.
+빠진 것은 어떤 거버넌스 배열이 측정 가능한 차이를 만드는지에 관한 증거입니다. 학생과 교사의 참여가 조달, 도구 설계, 평가 규칙, 실수 이후의 구제를 바꿉니까? 인간 검토 절차가 중대한 오류를 잡습니까? AI 사용을 하라는 사람들에게 AI 사용의 대안이 실제로 제공됩니까? 사생활 연구에도 유사한 격차가 있습니다. 추가 데이터 수집의 교육적 가치는 보통 가정되며, 데이터를 최소화하는 설계가 더 침습적인 설계와 학습 및 학습자 자율성 양쪽에서 비교된 경우는 드뭅니다. [[governance|AI 거버넌스]]와 [[privacy|프라이버시]]를 보십시오.
 
 ## 연구를 재구성 가능하게 만드십시오
 
@@ -202,4 +202,4 @@ AIED는 유난히 어려운 재현성 문제를 안고 있습니다. 연구들�
 
 ## 다음으로 갈 곳
 
-[[reporting-interpreting-aied-research]]는 이 페이지의 보고 대응편이고, [[research-methods-aied|AI 교육의 연구 방법]]은 각 격차 뒤에 있는 설계 선택을 다룹니다. [[evaluating-ai-interventions-methods]]는 측정과 비교 설계를 다루고, [[checking-whether-educational-ai-works]]는 효과 질문의 짧은 버전이며, [[does-ai-help-students-learn]]은 지속적 학습에 관해 알려진 것을 모읍니다. [[theory-development-aied]]와 [[equity-ethics-pedagogical-safety-research]]는 이론과 형평성의 줄기를 더 밀고 나갑니다.
+[[reporting-interpreting-aied-research]]는 이 페이지의 보고 대응편이고, [[research-methods-aied|AI 교육의 연구 방법]]은 각 격차 뒤에 있는 설계 선택을 다룹니다. [[evaluating-ai-interventions-methods]]는 측정과 비교 설계를 다루고, [[checking-whether-educational-ai-works]]는 효과 질문의 짧은 버전이며, [[does-ai-help-students-learn|AI가 학생 학습에 도움이 되는가]]은 지속적 학습에 관해 알려진 것을 모읍니다. [[theory-development-aied]]와 [[equity-ethics-pedagogical-safety-research]]는 이론과 형평성의 줄기를 더 밀고 나갑니다.

@@ -1,7 +1,7 @@
 ---
 title: "AI 如何支持多语学习者，同时既不误判他们的知识，也不抹掉他们的声音？"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-15T15:39:49-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -51,11 +51,11 @@ ai_assist:
 
 ## 研究支持什么，不支持什么
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez 与 Arabadzhy（2026）]]综述了 24 项关于生成式[[conversational-ai|聊天机器人]]在[[language-learning|语言学习]]中应用的实证研究。他们的贡献是分类学上的：为前生成式聊天机器人编目的每一种子可供性都延续下来，另有三项是新的，其中包括 **translanguaging**（超语实践），即作为学习一部分的有意跨语言移动。那是一张已报告用途与体验的地图，不是合并估计，而且语料在地理上集中：中国、伊朗、台湾与土耳其占 24 项研究中的 19 项，且除一组之外都在正规机构内。支持把跨语言解释当作一种学习动作，不等于支持翻译每一项作业。
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez 与 Arabadzhy（2026）]]综述了 24 项关于生成式[[conversational-ai|聊天机器人]]在[[language-learning|语言学习]]中应用的实证研究。他们的贡献是分类学上的：为前生成式聊天机器人编目的每一种子可供性都延续下来，另有三项是新的，其中包括 **translanguaging**（超语实践），即作为学习一部分的有意跨语言移动。那是一张已报告用途与体验的地图，不是合并估计，而且这些研究在地理上集中：中国、伊朗、台湾与土耳其占 24 项研究中的 19 项，且除一组之外都在正规机构内。支持把跨语言解释当作一种学习动作，不等于支持翻译每一项作业。
 
 评估是证据变锋利、利害也上升的地方。[[ai-scoring-language-bias-physics|Feser 与 Tschisgale（2026）]]把 11 种自动评分方法与人类专家对 116 名中学生物理解释的评分相比较，在每一种方法里都发现对语言较弱的解释系统性地低估概念理解。这个设计隔离出了机制：同样的概念内容，用较弱的文字表达，就评得更低。这不是关于某个国家多语学生的断言，而它恰恰是让总体评分一致率成为糟糕诊断的那种模式。一个评分者可以在平均上与人类阅卷人一致，同时对语言仍在发展的学生朝一个固定方向出错。
 
-[[multilingual-learning]] 那篇综述描述了写作筛查研究，其中多语者的预测性偏倚模式与人类评分偏倚相似。把三项发现放在一起读，操作上的教训很窄：“AI 消除人类偏见”和“AI 增加语言偏见”都不是有用的规则。你需要的是在分数变成成绩的那个点上，对任务、人群与语言做一次核查。
+[[multilingual-learning|多语学习]] 那篇综述描述了写作筛查研究，其中多语者的预测性偏倚模式与人类评分偏倚相似。把三项发现放在一起读，操作上的教训很窄：“AI 消除人类偏见”和“AI 增加语言偏见”都不是有用的规则。你需要的是在分数变成成绩的那个点上，对任务、人群与语言做一次核查。
 
 ## 给工具一个具体的支持角色
 
@@ -73,7 +73,7 @@ ai_assist:
 
 ## 保护学生的意思与声音
 
-先要定向的帮助，再要重写，因为整篇重写正是学生的思考离开纸面的地方。一个值得教的请求：“指出我意思不清的两处。解释问题并给出选项。保留我的例子，不要添加主张。”然后由学生选择。
+先要定向的帮助，再要重写，因为整篇重写正是学生的思考离开草稿的地方。一个值得教的请求：“指出我意思不清的两处。解释问题并给出选项。保留我的例子，不要添加主张。”然后由学生选择。
 
 一条把工作留在学生手里的次序：
 
@@ -120,6 +120,6 @@ ai_assist:
 
 ## 接下来可以去哪里
 
-[[multilingual-learning]] 是讲语言、超语实践与 AI 中介教学中的评估的概念页，[[assessment-validity|评估效度]]是判断一个分数是否支持你所做推断的标准。[[differential-effects-across-learner-groups]] 讲如何去找子群模式，而不是假定它们。
+[[multilingual-learning|多语学习]] 是讲语言、超语实践与 AI 中介教学中的评估的概念页，[[assessment-validity|评估效度]]是判断一个分数是否支持你所做推断的标准。[[differential-effects-across-learner-groups|学习者群体间的差异效应]] 讲如何去找子群模式，而不是假定它们。
 
 关于语言就是构念的写作教学情形，见[[writing-instruction-ai-best-practices|写作教学的最佳实践]]。关于在你自己的场景里自动评分是否可信，见[[ai-grading-fairness-reliability|AI 评分]]与[[checking-whether-educational-ai-works|检验一个教育 AI 是否有效]]。

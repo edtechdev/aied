@@ -1,14 +1,14 @@
 ---
 title: "关于高等教育中的人工智能素养干预，有哪些证据？"
 created: "2026-09-22T19:41:47-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-15T15:43:33-05:00"
 weight: 50
 foundations: [ai-literacy]
 assessment: [educational-measurement]
 research_method: [literature review]
 audience: [instructors, researchers, administrators]
 level: [higher ed]
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-literacy-evidence
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -47,7 +47,7 @@ ai_assist:
 
 ## 围绕一次批判来搭序列
 
-知识库中最强的课堂例子来自本科心理学。Richmond 与 Nicholls 让学生用自己课程的量规给一份 [[generative-ai|ChatGPT]] 生成的媒体通稿打分，指出错误，然后改写。学生普遍看得出文风很光滑，而内容曲解了研究目的、方法与发现。与上一届[[peer-assessment|同伴评价]]的班级相比，AI 批判组在随后的脚本修订上略好（*d* = 0.36），在最终视频上没有显著优势（[[richmond-nicholls-genai-psych-feedback-ai-literacies]]）。
+最强的课堂例子来自本科心理学。Richmond 与 Nicholls 让学生用自己课程的量规给一份 [[generative-ai|ChatGPT]] 生成的媒体通稿打分，指出错误，然后改写。学生普遍看得出文风很光滑，而内容曲解了研究目的、方法与发现。与上一届[[peer-assessment|同伴评价]]的班级相比，AI 批判组在随后的脚本修订上略好（*d* = 0.36），在最终视频上没有显著优势（[[richmond-nicholls-genai-psych-feedback-ai-literacies]]）。
 
 这些例子所属的文献依赖短程干预、[[self-regulated-learning|自我报告]]和基于设计的工作，而这项研究带着其中两条局限。对照是历史对照，所以一个准备更充分的同期班级也会产生同样的模式。优势出现在中间作品上，在成品上消失了——如果这次批判真的教会了修订，这正是你会看到的。
 
@@ -67,7 +67,7 @@ Hingle 与 Johri 的[[meta-analysis-systematic-review|系统综述]]用 [[icap-f
 
 作者把自己的结果读成一个论证：应当越过知识，走向技能、实践、伦理和态度，途径是整合的反思性教学法与[[culturally-relevant-pedagogy|文化相关]]的设计。对一个委员会来说，两条含义就够了。你测量的结果塑造你发现的效应，所以要挑你真正在意的那个结果。这么宽的预测区间，正是在论证应当先做本地试点。
 
-测量是大多数项目主张失败的地方。经过验证的 **GLAT** 表现测试预测了学生在 AI 辅助的高等教育任务上的表现。一份[[self-report-measures|自我报告]]的 ChatGPT 素养测量则没有（[[jin-glat-genai-literacy-assessment]]；[[ai-literacy-assessment-misalignment]]）。在整座知识库里，自报的 AI 能力与展示出来的 AI 能力差距很大，这使[[educational-measurement|教育测量]]和[[assessment-validity|评价效度]]成为设计的一部分，而不是[[ai-ed-evaluation|评估]]里的事后补充。
+测量是大多数项目主张失败的地方。经过验证的 **GLAT** 表现测试预测了学生在 AI 辅助的高等教育任务上的表现。一份[[self-report-measures|自我报告]]的 ChatGPT 素养测量则没有（[[jin-glat-genai-literacy-assessment]]；[[ai-literacy-assessment-misalignment]]）。在这批文献里，自报的 AI 能力与展示出来的 AI 能力差距很大，这使[[educational-measurement|教育测量]]和[[assessment-validity|评价效度]]成为设计的一部分，而不是[[ai-ed-evaluation|评估]]里的事后补充。
 
 Burriss 等人把“算什么”说得更清楚。他们对 22 名十一年级学生制作关于 AI 伦理的视频公益广告的研究主张，现有的素养量表和能力框架都假定表现可以被个体单独测量，而这排除了协作性与创造性的表达。他们提出用学生反思、[[multimodal|多模态]]作品和公共话语作为常规测量的补充。他们的学生通过协作的[[critical-pedagogy|批判性教学法]]发展出批判性的 AI 伦理理解，这挑战了把素养当作技能清单的观念，也挑战了建立在其上的工具。18 份单元末回应中有 15 份确认了新的学习，作者也指出这个项目抗拒传统的[[summative-assessment|终结性评价]]（[[burriss-multimodal-composition-critical-ai-literacy-2026]]）。
 
@@ -115,7 +115,7 @@ Burriss 等人把“算什么”说得更清楚。他们对 22 名十一年级�
 
 **“证书就是问责机制。”** Wu 与 Li 发现教师能力才是绑定的约束，而跨文化适应性的权重最低。一张证书记录的是某人完成了某事。
 
-**“我们的教师还没准备好教这个。”** 证据同意这一点。教师能力是 Wu 与 Li 数据里最大的落差，而本页没有任何研究检验如何补上它。
+**“我们的教师还没准备好教这个。”** 证据同意这一点。教师能力是 Wu 与 Li 数据里最大的落差，而没有任何研究检验如何补上它。
 
 ## 本周能做
 

@@ -1,13 +1,13 @@
 ---
 title: "Como redesenho a avaliação para que uma nota ainda me diga algo defensável sobre o que o estudante sabe ou consegue fazer?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T08:28:16-04:00"
+updated: "2026-11-15T15:37:46-05:00"
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-10-28T10:45:41-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ A resposta curta: decida do que a nota deve ser evidência, coloque pelo menos u
 
 ## Decida do que a nota é evidência
 
-Comece declarando explicitamente qual capacidade a nota deve representar. Você está avaliando o que um estudante consegue fazer de forma independente, o que ele consegue realizar de modo apropriado com IA, a capacidade dele de avaliar e dirigir a IA, ou alguma combinação disso? A página [[assessment-validity|Validade da Avaliação]] desta base de conhecimento trata isso como um problema de validade: um artefato polido não é mais evidência suficiente de que o estudante possui a capacidade aparentemente demonstrada por esse artefato. Esta é a metade da avaliação do mesmo argumento; a metade da fiscalização está em [[reduce-ai-cheating]], e o enquadramento geral de validade percorre [[evaluating-ai-interventions-methods]].
+Comece declarando explicitamente qual capacidade a nota deve representar. Você está avaliando o que um estudante consegue fazer de forma independente, o que ele consegue realizar de modo apropriado com IA, a capacidade dele de avaliar e dirigir a IA, ou alguma combinação disso? [[assessment-validity|Validade da avaliação]] trata isso como um problema de validade: um artefato polido não é mais evidência suficiente de que o estudante possui a capacidade aparentemente demonstrada por esse artefato. Esta é a metade da avaliação do mesmo argumento; a metade da fiscalização está em [[reduce-ai-cheating]], e o enquadramento geral de validade percorre [[evaluating-ai-interventions-methods]].
 
 Diga a resposta no plano de ensino, na folha da tarefa e na rubrica. Os estudantes leem três documentos e cumprem aquele que é mais específico. "O uso de IA é permitido com reconhecimento" não é uma declaração do que você está medindo, e não dá ao estudante nenhum modo de saber se o uso permitido enfraquece justamente o que você avalia.
 
@@ -89,7 +89,7 @@ O propósito importa tanto quanto a mecânica. [[ai-agents-joyful-assessment-thi
 
 **"O credenciamento e a aprovação do programa não vão se mover tão rápido."** O estudo acima nomeia prazos longos e restrições de credenciamento de turmas grandes como o atrito central. Um único curso pode mudar o que acontece dentro de uma avaliação existente sem mudar seu nome, seu peso ou seus resultados de aprendizagem, e isso normalmente basta para começar.
 
-**"Isso penaliza estudantes ansiosos e estudantes com deficiência."** Pode penalizar. Componentes orais ao vivo exigem adaptações planejadas com antecedência, uma escolha de formato onde o construto permitir, e atenção à diferença linguística e ao viés do avaliador. Verifique a capacidade, não as condições de desempenho.
+**"Isso penaliza estudantes ansiosos e [[inclusive-learning|estudantes com deficiência]]."** Pode penalizar. Componentes orais ao vivo exigem adaptações planejadas com antecedência, uma escolha de formato onde o construto permitir, e atenção à diferença linguística e ao viés do avaliador. Verifique a capacidade, não as condições de desempenho.
 
 **"Deveríamos simplesmente comprar um detector."** O resultado sobre discriminação argumenta contra isso como espinha dorsal do desenho: se os falsos positivos crescem mais rápido que os verdadeiros, um monitoramento mais forte torna o encobrimento relativamente mais atraente. A detecção pode ter um lugar em uma resposta que também reformula a tarefa, e [[should-we-use-ai-detectors]] cobre esse argumento.
 

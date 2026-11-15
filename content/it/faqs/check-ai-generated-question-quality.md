@@ -1,7 +1,7 @@
 ---
 title: "Come faccio a capire se le domande di quiz ed esami generate dall'IA sono davvero buone?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:40:36-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-05T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Chiedi venti domande dai tuoi appunti delle lezioni. Te le restituiscono con chiavi di risposta, spiegazioni, etichette di difficoltà e categorie della tassonomia di Bloom, in un documento formattato che sembra finito. Il tuo nome sta per finirci sopra.
 
-Ecco la risposta breve: le domande generate sono candidate, non una valutazione. Risolvi ogni domanda da solo, controlla cosa l'item chiede davvero di fare a uno studente e scopri come gli studenti vi rispondono prima che conti. Nei due studi più ampi di questa base di conoscenza, il segnale interessante non è che la generazione funziona, ma dove fallisce. Una generazione iterativa dentro un flusso di lavoro specifico per il corso ha prodotto esami a scelta multipla utilizzabili in 71 corsi universitari ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). In un audit di scienza dei dati su 311 domande somministrate, le etichette di difficoltà del modello seguivano quasi perfettamente i livelli di Bloom che aveva generato insieme a esse (ρ di Spearman = 0,90) mentre seguivano il punteggio effettivo degli studenti a ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An e Wang, 2026]]). L'etichetta era una descrizione del prompt, non una misura dell'item.
+Ecco la risposta breve: le domande generate sono candidate, non una valutazione. Risolvi ogni domanda da solo, controlla cosa l'item chiede davvero di fare a uno studente e scopri come gli studenti vi rispondono prima che conti. Nei due studi più ampi, il segnale interessante non è che la generazione funziona, ma dove fallisce. Una generazione iterativa dentro un flusso di lavoro specifico per il corso ha prodotto esami a scelta multipla utilizzabili in 71 corsi universitari ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). In un audit di scienza dei dati su 311 domande somministrate, le etichette di difficoltà del modello seguivano quasi perfettamente i livelli di Bloom che aveva generato insieme a esse (ρ di Spearman = 0,90) mentre seguivano il punteggio effettivo degli studenti a ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An e Wang, 2026]]). L'etichetta era una descrizione del prompt, non una misura dell'item.
 
 ## La versione breve
 

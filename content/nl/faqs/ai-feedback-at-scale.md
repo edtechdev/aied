@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:46:36-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -75,6 +75,8 @@ Het mechanisme verklaart waarom de volgorde meer uitmaakt dan het hulpmiddel. Di
 Feedback van medestudenten verdient haar eigen plaats in de reeks. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen en Yan (2026)]] lieten twee parallelle Engelse klassen (N = 118 eerstejaarsstudenten in China; GenAI n = 56, medestudenten n = 62) drie cycli van [[self-assessment|zelfbeoordeling]] doorlopen in één semester. GenAI-[[scaffolding|scaffolding]] verbeterde de feedbackgeletterdheid licht maar significant ten opzichte van peerreview door medestudenten (ANCOVA p = 0,049, ηp² = 0,03). Studenten in de GenAI-groep verfijnden prompts iteratief en verifieerden of betwistten onnauwkeurige output. Studenten in de peergroep kozen bronnen op sociale gemakkelijkheid en hun evaluatieve oordeel raakte vertekend door vriendschapsbias. Peerreview behield een eigen waarde voor publieksbewustzijn, en daarom stellen de auteurs meerfasige ontwerpen voor met anonieme feedback van medestudenten in plaats van vervanging.
 
 Het voordeel van Gu et al. was klein, en zij lazen het als reëel maar niet op zichzelf transformerend. Scaffolding door de docent, promptrichtlijnen en werkbladen deden het ondersteunende werk.
+
+De bron kan minder uitmaken dan de timing. Bij 391 Duitse middelbare scholieren leidden door docenten geschreven en LLM-feedback tot geen significant verschil in herzieningen, later schrijven, tijd op de taak of percepties; Bayesiaanse posteriors neigden bij later schrijven naar docentfeedback, maar hielden een kwart tot twee vijfde van de massa binnen het equivalentiegebied, en alleen onmiddellijke AI-feedback kreeg betere scores op bruikbaarheid en motivatie ([[meyer-teacher-ai-feedback-writing-2026|Meyer et al., 2026]]). Als een eerste commentaar kan arriveren terwijl de student nog aan het herzien is, is die timing onderdeel van het ontwerp dat het werk doet.
 
 ## Geef het model een rubric en laat het dan zijn stappen tonen
 

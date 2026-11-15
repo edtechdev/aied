@@ -1,7 +1,7 @@
 ---
 title: "我怎样才能让学生不过度依赖人工智能？"
 created: "2026-09-22T19:50:28-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-15T15:44:17-05:00"
 weight: 80
 type: faq
 foundations: [cognitive-offloading, reducing-ai-misuse]
@@ -11,7 +11,7 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/reducing-over-reliance
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -144,7 +144,7 @@ ai_assist:
 
 ## 决定这些证据能承担多少分量
 
-这个语料库里没有任何研究检验过某个具体的过度依赖干预能否跨情境、跨学期成立。先想后写只依托一项 N = 196 的实验。扣住答案的结果来自 [[brcic-effortless-trap-productive-struggle-2026|Brcic 和 Frljic（2026）]] 的综述，而不是他们自己的试验。摩擦论证是一篇没有新数据的概念性评论。[[ai-overreliance-complex-adaptive-system-2026|Biswas（2026）]] 说明了模型的局限：外生的、平稳的 AI 质量，固定的网络，风格化的核验。要估计真实取值，需要按任务记录的核验率、社会证明强度，以及信任在核实与未核实使用之后如何更新的纵向轨迹。
+没有任何研究检验过某个具体的过度依赖干预能否跨情境、跨学期成立。先想后写只依托一项 N = 196 的实验。扣住答案的结果来自 [[brcic-effortless-trap-productive-struggle-2026|Brcic 和 Frljic（2026）]] 的综述，而不是他们自己的试验。摩擦论证是一篇没有新数据的概念性评论。[[ai-overreliance-complex-adaptive-system-2026|Biswas（2026）]] 说明了模型的局限：外生的、平稳的 AI 质量，固定的网络，风格化的核验。要估计真实取值，需要按任务记录的核验率、社会证明强度，以及信任在核实与未核实使用之后如何更新的纵向轨迹。
 
 测量仍是最弱的一环。调查研究占主导，[[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich（2025）]] 和 [[genai-over-reliance-learning-2026|Gao、Sun 和 Khan（2026）]] 都呼吁做纵向和实验的后续研究。[[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] 没有[[educational-measurement|心理测量学]]依据，而且是为成年人设计的。公平差距能否靠教学弥合，目前只是理论推断，尚未得到实证。
 
@@ -194,4 +194,4 @@ ai_assist:
 
 ## 接下来可以去哪里
 
-相邻的那个问题——AI 到底能不能带来学习——见 [[does-ai-help-students-learn]]。[[reduce-ai-cheating]] 处理诚信与检测的限度，[[redesign-assessment-ai-era]] 覆盖本页所假定的测评架构。背后的概念见 [[cognitive-offloading]]、[[metacognition]] 和 [[desirable-difficulties]]。
+相邻的那个问题——AI 到底能不能带来学习——见 [[does-ai-help-students-learn]]。[[reduce-ai-cheating]] 处理诚信与检测的限度，[[redesign-assessment-ai-era]] 覆盖所假定的测评架构。背后的概念见 [[cognitive-offloading]]、[[metacognition]] 和 [[desirable-difficulties]]。

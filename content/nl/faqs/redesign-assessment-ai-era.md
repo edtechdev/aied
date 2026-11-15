@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-10-29T14:57:55-04:00"
+updated: "2026-11-15T15:46:36-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-10-28T10:45:41-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -86,7 +86,7 @@ Het doel doet er evenveel toe als de mechaniek. [[ai-agents-joyful-assessment-th
 
 **'Accreditatie en opleidingsgoedkeuring gaan niet zo snel.'** De studie hierboven noemt lange doorlooptijden en accreditatiebeperkingen bij grote cohorten als de centrale wrijving. Een enkel vak kan veranderen wat er binnen een bestaande toetsing gebeurt zonder de naam, het gewicht of de leeruitkomsten te wijzigen, en dat is meestal genoeg om te beginnen.
 
-**'Dit benadeelt angstige studenten en studenten met een beperking.'** Dat kan. Live mondelinge onderdelen vragen om aanpassingen die vooraf zijn gepland, om een keuze in vorm waar de constructie dat toelaat, en om aandacht voor taalkundige verschillen en vertekening bij de beoordelaar. Verifieer de bekwaamheid, niet de omstandigheden waaronder wordt gepresteerd.
+**'Dit benadeelt angstige studenten en [[inclusive-learning|studenten met een beperking]].'** Dat kan. Live mondelinge onderdelen vragen om aanpassingen die vooraf zijn gepland, om een keuze in vorm waar de constructie dat toelaat, en om aandacht voor taalkundige verschillen en vertekening bij de beoordelaar. Verifieer de bekwaamheid, niet de omstandigheden waaronder wordt gepresteerd.
 
 **'We kunnen beter gewoon een detector kopen.'** Het resultaat over onderscheidend vermogen pleit ertegen om die als ruggengraat van het ontwerp te nemen: als fout-positieven sneller stijgen dan terecht-positieven, maakt sterkere monitoring verberging relatief aantrekkelijker. Detectie kan een plaats hebben in een reactie die de taak ook herontwerpt, en [[should-we-use-ai-detectors|moeten we AI-detectoren gebruiken]] behandelt dat argument.
 

@@ -5,8 +5,9 @@ connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-an
 weight: 66
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
+updated: "2026-11-15T15:43:21-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -42,7 +43,7 @@ Un [[agentic-ai|agente]] pianifica, chiama strumenti, mantiene il contesto, divi
 
 [[agentic-workflows-education|Agentic Workflows in Education]] nomina quattro capacità ricorrenti: riflessione, pianificazione, uso di strumenti e collaborazione multi-agente. Ognuna aggiunge un costo accanto alla possibilità: in [[explainable-ai|interpretabilità]], coordinamento, [[trust-calibration|fiducia]], latenza e supervisione.
 
-I ruoli lato studente vanno dal tutoraggio [[adaptive-learning|adattivo]] e dalla pianificazione dello studio al feedback [[formative-assessment|formativo]], alla [[problem-solving|risoluzione guidata dei problemi]] e alla generazione di esercizi, fino alle raccomandazioni sui prerequisiti e alla [[metacognition|riflessione metacognitiva]] e al [[prompt-engineering|prompting]] riflessivo. I ruoli lato insegnante coprono lo sviluppo di materiali, la [[automated-question-generation|generazione e validazione delle domande]], la selezione del feedback, le [[learning-analytics|analitiche]] del corso, la progettazione didattica, il recupero di risorse e l'orchestrazione di sotto-agenti specializzati.
+I ruoli lato studente vanno dal tutoraggio [[adaptive-learning|adattivo]] e dalla pianificazione dello studio al feedback [[formative-assessment|formativo]], alla [[problem-solving|risoluzione guidata dei problemi]] e alla generazione di esercizi, fino alle raccomandazioni sui prerequisiti e alla [[metacognition|riflessione metacognitiva]] e al [[prompt-engineering|prompting]] riflessivo. I ruoli lato insegnante coprono lo sviluppo di materiali, la [[automated-question-generation|generazione e validazione delle domande]], la selezione del feedback, le [[learning-analytics|analitiche]] del corso, la [[learning-design|progettazione didattica]], il recupero di risorse e l'orchestrazione di sotto-agenti specializzati.
 
 Due di questi sono più sicuri in una fase iniziale, perché entrambi producono un artefatto che una persona legge prima degli studenti: un generatore di domande affiancato a un validatore, e una bozza che un insegnante modifica.
 

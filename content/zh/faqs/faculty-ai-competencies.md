@@ -1,12 +1,12 @@
 ---
 title: "在人工智能方面，教师需要具备哪些能力？"
 created: "2026-09-22T19:41:47-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-15T15:43:55-05:00"
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/faculty-ai-competencies
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -45,7 +45,7 @@ ai_assist:
 
 ## 在订房间之前先界定这项能力
 
-知识库的[[ai-literacy|AI 素养]]综述识别出四个维度，而它们是一份有用的议程，因为每一个维度都需要一种不同的场次：
+[[ai-literacy|AI 素养]]综述识别出四个维度，而它们是一份有用的议程，因为每一个维度都需要一种不同的场次：
 
 - 对 AI 能力与局限的**基础理解**。
 - 使用 AI 工具的**实践能力**。
@@ -61,6 +61,8 @@ ai_assist:
 ## 评估表现，而不是信心
 
 [[self-report-measures|自我报告]]的 AI 素养可能与展现出来的能力相去甚远，而这是这批文献里对任何做教师发展的人最实用的一条警告。工作坊结束时的一份信心问卷，测的是这场工作坊给人的感觉。
+
+调查甚至可能被预测得过于准确。[[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez 等人（2026）]]用一份 300 题的量表（α = 0.997，未做因子分析）把 315 名教师中的 314 名归入能力档位，而机构隶属是最大的贡献因素——这说明分数追踪的是人们在哪里工作，而不是他们能做什么。
 
 关于教师[[agentic-ai|多智能体]]工作流的研究给出了要测而不是要问的第二个理由：系统思维、教学信念与[[self-efficacy|自我效能]]在 AI 整合中相互作用，所以同一场次落在两位学科背景相同的教师身上会有不同效果。这支持差异化设计，反对多数机构在做的那个一刀切的工具工作坊。
 

@@ -14,9 +14,9 @@ discipline: [writing education]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T15:22:02-04:00"
+updated: "2026-11-15T15:46:36-05:00"
 translation_of: faqs/making-ai-better-at-supporting-learning
-source_updated: "2026-10-28T11:21:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,7 @@ Trenowanie jest realne i czasem konieczne. To trzecia lub czwarta rzecz do wypr�
 
 Zanim cokolwiek zostanie zmienione, należy zapisać, co zwraca zwykły prompt. Potem zapisać, co zwraca trywialna metoda.
 
-[[shen-sustainable-ai-knowledge-base-cs-education-2026|Badanie asystenta bazy wiedzy dla kursu]] warto przeczytać choćby dla tego jednego ustalenia. Lokalny LLM bez wyszukiwania osiągnął **52,3%** trafności. Punkt odniesienia TF-IDF, metoda leksykalna sprzed dziesięcioleci, osiągnął **55,4%**. Model był gorszy od metody klasycznej.
+[[shen-sustainable-ai-knowledge-base-cs-education-2026|Badanie asystenta bazy wiedzy dla kursu]] warto przeczytać choćby dla tego jednego ustalenia. Lokalny [[llm|LLM]] bez wyszukiwania osiągnął **52,3%** trafności. Punkt odniesienia TF-IDF, metoda leksykalna sprzed dziesięcioleci, osiągnął **55,4%**. Model był gorszy od metody klasycznej.
 
 Pominięcie tego kroku oznacza, że nie da się stwierdzić, czy dostrojenie pomogło. Co gorsza, można wdrożyć system, który bije wyszukiwanie po słowach kluczowych, i dowiedzieć się o tym dopiero wtedy, gdy wspomni o tym asystent dydaktyczny. Dwie liczby w arkuszu, uzyskane w jedno popołudnie, chronią resztę budżetu.
 
@@ -60,18 +60,18 @@ Pominięcie tego kroku oznacza, że nie da się stwierdzić, czy dostrojenie pom
 
 Dodanie [[rag|generowania wspomaganego wyszukiwaniem]] po materiałach kursowych, bez żadnego dostrajania, podniosło ten sam system z 52,3% do **66,6%**. Ten przyrost pochodził z indeksu i ma właściwość, której przebieg trenowania nie ma: gdy dokumenty się zmieniają, indeksuje się je ponownie.
 
-Dwa inne wyniki wskazują w tę samą stronę. Przegląd PRISMA 23 badań empirycznych nad dostosowywaniem SI do [[writing-education|nauczania pisania]] wykazał **przewagę inżynierii promptów (N = 13) nad dostrajaniem (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Gdzie baza wiedzy musi pozostawać aktualna, wyszukiwanie jest jedyną dźwignią, która pozostaje aktualna bez ponownego uruchamiania zadania treningowego.
+Dwa inne wyniki wskazują w tę samą stronę. [[meta-analysis-systematic-review|Przegląd PRISMA]] 23 badań empirycznych nad dostosowywaniem SI do [[writing-education|nauczania pisania]] wykazał **przewagę [[prompt-engineering|inżynierii promptów]] (N = 13) nad dostrajaniem (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026|Luo, 2026]]). Gdzie baza wiedzy musi pozostawać aktualna, wyszukiwanie jest jedyną dźwignią, która pozostaje aktualna bez ponownego uruchamiania zadania treningowego.
 
-Wyszukiwanie ma też formę pedagogiczną. Osadzenie modelu we własnych rozwiązanych przykładach i rubrykach to sposób, w jaki model pozostaje w obrębie [[scaffolding|rusztowania]], które zaprojektowano, odpowiadając na poziomie, który został ustalony, zamiast dryfować w ogólne porady. Ten dryf jest najczęstszą skargą dotyczącą gotowych tutorów i częściej jest problemem wyszukiwania niż problemem wag.
+Wyszukiwanie ma też formę [[pedagogy|pedagogiczną]]. Osadzenie modelu we własnych rozwiązanych przykładach i rubrykach to sposób, w jaki model pozostaje w obrębie [[scaffolding|rusztowania]], które zaprojektowano, odpowiadając na poziomie, który został ustalony, zamiast dryfować w ogólne porady. Ten dryf jest najczęstszą skargą dotyczącą gotowych tutorów i częściej jest problemem wyszukiwania niż problemem wag.
 
 ## Pisz prompt pod rubrykę i wypatruj plateau
 
 Praca nad promptem nie jest wstępem, który robi się w oczekiwaniu na kartę GPU. Dwa wyniki pokazują, co osiąga sama:
 
-- **Promptowanie kierowane rubryką, iteracyjnie współdopracowywane, podniosło zgodność LLM z człowiekiem w pracach projektowych studentów z 54,75% do 81,25%** (alfa Cronbacha od 0,393 do 0,798), bez żadnego dostrajania ([[yasar-llms-iterative-pedagogical-design-2026]]).
-- Prompt oparty na literaturze i dostosowany do kontekstu wywoływał docelowe matematyczne [[misconceptions|błędne przekonania]] na poziomie **0,98** obecności, wobec **0,40** przy promptcie ogólnym ([[zhuang-zhang-chatgpt-math-teacher-education-2026]]).
+- **Promptowanie kierowane rubryką, iteracyjnie współdopracowywane, podniosło zgodność LLM z człowiekiem w pracach projektowych studentów z 54,75% do 81,25%** (alfa Cronbacha od 0,393 do 0,798), bez żadnego dostrajania ([[yasar-llms-iterative-pedagogical-design-2026|Yaşar i in., 2026]]).
+- Prompt oparty na literaturze i dostosowany do kontekstu wywoływał docelowe matematyczne [[misconceptions|błędne przekonania]] na poziomie **0,98** obecności, wobec **0,40** przy promptcie ogólnym ([[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang i in., 2025]]).
 
-Praktycznym sygnałem jest **plateau**. W badaniu nad generowaniem pozycji iteracyjne dopracowywanie promptu przestało przynosić poprawę, a dostrojenie GPT-4.1 *na zoptymalizowanym promptcie* dodało wtedy pozostały przyrost ([[gpt-item-generation-l2-listening-2026]]). Plateau po rzeczywistej pracy nad promptem jest dowodem, że trenowanie ma co dodać. Sięganie po trenowanie przed osiągnięciem plateau jest zgadywaniem, a zgadywanie kosztuje miesiąc.
+Praktycznym sygnałem jest **plateau**. W badaniu nad generowaniem pozycji iteracyjne dopracowywanie promptu przestało przynosić poprawę, a dostrojenie GPT-4.1 *na zoptymalizowanym promptcie* dodało wtedy pozostały przyrost ([[gpt-item-generation-l2-listening-2026|Aryadoust i in., 2026]]). Plateau po rzeczywistej pracy nad promptem jest dowodem, że trenowanie ma co dodać. Sięganie po trenowanie przed osiągnięciem plateau jest zgadywaniem, a zgadywanie kosztuje miesiąc.
 
 Warto zauważyć, co wynik z generowania pozycji mówi o kolejności. Dostrojenie zbudowano na zoptymalizowanym promptcie, więc praca nad promptem nie poszła na marne, gdy zespół ostatecznie trenował. Tani szczebel jest też specyfikacją dla drogiego.
 
@@ -79,9 +79,9 @@ Warto zauważyć, co wynik z generowania pozycji mówi o kolejności. Dostrojeni
 
 Adaptacja się opłaca, gdy model ma niezawodnie trzymać jakąś właściwość: poziom czytelności, format wyniku, dziedzinę, której mu brakuje. Powracający wynik jest taki, że **celowanie bije rozmiar**.
 
-- Trzy modele **8B** dostrojone na zaprojektowanym przez ekspertów programie czytania dla dzieci przewyższyły GPT-4o i Llama 3.3 70B w trybie zero-shot w metrykach związanych z trudnością, przy nieistotnych problemach z bezpieczeństwem. Autorzy ujmują to jako **kontrolowalność ponad skalę** ([[llm-children-reading-story-generation]]).
-- Zbiór instrukcji liczący **24 795 przykładów**, osadzony w indyjskich systemach wiedzy, dał dostrojenie **7B** ocenione na **6,39** przez zewnętrzny panel pięciu sędziów, w granicach **0,15** od mocnego ogólnego modelu referencyjnego, przy ułamku kosztu wdrożenia. Ten sam model bazowy bez dostrojenia uzyskał **wynik bliski zeru w wymiarach dziedzinowych** ([[iks-instruct-dataset-indian-knowledge]]). Ta luka między kompetencją ogólną a kompetencją tu jest całym uzasadnieniem adaptacji dziedzinowej.
-- Pojedynczy adapter [[llm-training-and-fine-tuning|LoRA]] wytrenowany na około **3 900** połączonych ocenionych przykładach doprowadził pięć małych otwartych modeli (od 4B do 30B) do równości lub przewagi nad człowiekiem oceniającym na dwóch egzaminach z informatyki ([[llm-graders-computer-science-exams-2026]]). Jeden adapter, jeden zbiór danych, kilka modeli bazowych: to kształt wdrożenia, który może prowadzić mały zespół.
+- Trzy modele **8B** dostrojone na zaprojektowanym przez ekspertów [[curriculum-design|programie czytania]] dla dzieci przewyższyły GPT-4o i Llama 3.3 70B w trybie zero-shot w metrykach związanych z trudnością, przy nieistotnych problemach z bezpieczeństwem. Autorzy ujmują to jako **kontrolowalność ponad skalę** ([[llm-children-reading-story-generation|Shen i in. (2026)]]).
+- Zbiór instrukcji liczący **24 795 przykładów**, osadzony w indyjskich systemach wiedzy, dał dostrojenie **7B** ocenione na **6,39** przez zewnętrzny panel pięciu sędziów, w granicach **0,15** od mocnego ogólnego modelu referencyjnego, przy ułamku kosztu wdrożenia. Ten sam model bazowy bez dostrojenia uzyskał **wynik bliski zeru w wymiarach dziedzinowych** ([[iks-instruct-dataset-indian-knowledge|Singaravelu i in., 2026]]). Ta luka między kompetencją ogólną a kompetencją tu jest całym uzasadnieniem adaptacji dziedzinowej.
+- Pojedynczy adapter [[llm-training-and-fine-tuning|LoRA]] wytrenowany na około **3 900** połączonych ocenionych przykładach doprowadził pięć małych [[open-source|otwartych modeli]] (od 4B do 30B) do równości lub przewagi nad człowiekiem oceniającym na dwóch egzaminach z informatyki ([[llm-graders-computer-science-exams-2026|Habibullah i in., 2026]]). Jeden adapter, jeden zbiór danych, kilka modeli bazowych: to kształt wdrożenia, który może prowadzić mały zespół.
 
 Słowo *stabilny* w nagłówku dźwiga ciężar. Format, rubryka, poziom czytelności i słownik dziedzinowy są celami stabilnymi. Proza nasycona osądem takiego celu nie ma i właśnie tam adaptacja zawodzi, co pokazują dwa następne rozdziały.
 
@@ -89,13 +89,13 @@ Słowo *stabilny* w nagłówku dźwiga ciężar. Format, rubryka, poziom czyteln
 
 Adaptacja uczy model *co wytwarzać*. Dotrenowanie uczy go *jak się zachowywać*. W tutoringu ta różnica jest całym problemem: modele ogólne są dotrenowywane na ludzkich preferencjach co do pomocności, co oznacza szybkie odpowiadanie, a nauczanie wymaga powstrzymania odpowiedzi.
 
-Najsilniejsze wyniki edukacyjne w tym korpusie są tutaj. Model nagrody EduQwen wprost przedkładał **prowadzenie odpowiedzi nad odpowiadanie wprost**, a jego trzystopniowy potok osiągnął **96,52%** na benchmarku CDPK wobec **90,55%** Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Symulator pisania SWIM przeszedł od promptowania osadzonego w rubryce (najlepszy QWK **0,577**) do nadzorowanego dostrajania (**0,474 ± 0,023**), a potem do uczenia ze wzmocnieniem (**0,618 ± 0,005**) w każdej cesze i każdym promptcie ([[swim-student-writing-simulation-2026]]).
+Najsilniejsze wyniki edukacyjne w tym korpusie są tutaj. Model nagrody EduQwen wprost przedkładał **prowadzenie odpowiedzi nad odpowiadanie wprost**, a jego trzystopniowy potok osiągnął **96,52%** na benchmarku CDPK wobec **90,55%** Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026|Singh i in., 2026]]). [[simulation|Symulator]] pisania SWIM przeszedł od promptowania osadzonego w rubryce (najlepszy QWK **0,577**) do nadzorowanego dostrajania (**0,474 ± 0,023**), a potem do [[reinforcement-learning|uczenia ze wzmocnieniem]] (**0,618 ± 0,005**) w każdej cesze i każdym promptcie ([[swim-student-writing-simulation-2026|Do i in., 2026]]).
 
 Liczby SWIM trzeba czytać uważnie, bo środkowy krok poszedł wstecz. Nadzorowane dostrajanie na demonstracjach pogorszyło symulator względem promptu, od którego zaczynał, i dopiero sygnał nagrody odzyskał stratę, a potem pobił punkt odniesienia. Jeśli plan zatrzymuje się na nadzorowanym dostrajaniu, plan może być objazdem.
 
 ## Nadzoruj na poziomie kroków
 
-Jedno ustalenie jest łatwe do przeoczenia i kosztowne do zignorowania: **jakość nadzoru bije ilość nadzoru**. Modele dostrojone instrukcyjnie uczyły się błędnych przekonań algebraicznych tylko wtedy, gdy trenowano je na **śladach rozwiązań na poziomie kroków**. Trenowane na samych odpowiedziach końcowych utrzymywały trafność **poniżej 30% przy każdym rozmiarze danych** ([[misconception-acquisition-dynamics-llms-2026]]).
+Jedno ustalenie jest łatwe do przeoczenia i kosztowne do zignorowania: **jakość nadzoru bije ilość nadzoru**. Modele dostrojone instrukcyjnie uczyły się błędnych przekonań algebraicznych tylko wtedy, gdy trenowano je na **śladach rozwiązań na poziomie kroków**. Trenowane na samych odpowiedziach końcowych utrzymywały trafność **poniżej 30% przy każdym rozmiarze danych** ([[misconception-acquisition-dynamics-llms-2026|Liu i in., 2026]]).
 
 Jeśli przykłady treningowe to pary pytanie i poprawna odpowiedź, model uczy się niewłaściwej rzeczy, a dodawanie przykładów tego nie naprawi. Potrzebna jest praca pośrednia: błędny zwrot, krok, w którym student zbłądził, korekta. Zbieranie tego jest problemem inżynierii danych z ograniczeniem pedagogicznym i zwykle oznacza rejestrowanie sesji, a nie zbieranie kluczy odpowiedzi.
 
@@ -103,13 +103,13 @@ Jeśli przykłady treningowe to pary pytanie i poprawna odpowiedź, model uczy s
 
 To jest część, którą entuzjazm pomija.
 
-**Proza nasycona osądem.** W WrAFT ten sam projekt, który z powodzeniem dostroił model do *oceniania* esejów (QWK 0,84), dawał ucięty i nieparsowalny wynik, gdy dostrajał go do *informacji zwrotnej*, podczas gdy bezpośrednie promptowanie Claude 3.7 dało informację zwrotną najwyżej ocenioną przez nauczycieli ([[wraft-automated-writing-evaluation-argumentative-2026]]). Dostrajanie nauczyło model trafiać w ocenę i ocenianie było jedyną rzeczą, której się nauczył.
+**Proza nasycona osądem.** W WrAFT ten sam projekt, który z powodzeniem dostroił model do *oceniania* esejów (QWK 0,84), dawał ucięty i nieparsowalny wynik, gdy dostrajał go do *informacji zwrotnej*, podczas gdy bezpośrednie promptowanie Claude 3.7 dało informację zwrotną najwyżej ocenioną przez nauczycieli ([[wraft-automated-writing-evaluation-argumentative-2026|Labib i in., 2026]]). Dostrajanie nauczyło model trafiać w ocenę i ocenianie było jedyną rzeczą, której się nauczył.
 
-**Transfer między modelami.** Skala nie jest pewnym predyktorem wyników dalszych przy adaptacji LoRA, a **identyczne hiperparametry dawały jakościowo różne zachowanie w różnych architekturach** ([[aiawe-automated-writing-evaluation]]). Przepis, który zadziałał na jednym modelu, nie jest przepisem.
+**Transfer między modelami.** Skala nie jest pewnym predyktorem wyników dalszych przy adaptacji LoRA, a **identyczne hiperparametry dawały jakościowo różne zachowanie w różnych architekturach** ([[aiawe-automated-writing-evaluation|Gayed, 2026]]). Przepis, który zadziałał na jednym modelu, nie jest przepisem.
 
-**Architektura ponad liczbę parametrów.** Dostrojenie trzech otwartych modeli tekst-na-obraz na 1 000 podpisanych obrazach z inżynierii jądrowej znacznie poprawiło Stable Diffusion XL, dało ograniczone przyrosty dla SD-v3.5-Medium i **nie dało żadnej mierzalnej poprawy dla Flux.1** ([[nuclear-diffusion-text-to-image-learning-2026]]).
+**Architektura ponad liczbę parametrów.** Dostrojenie trzech otwartych modeli tekst-na-obraz na 1 000 podpisanych obrazach z inżynierii jądrowej znacznie poprawiło Stable Diffusion XL, dało ograniczone przyrosty dla SD-v3.5-Medium i **nie dało żadnej mierzalnej poprawy dla Flux.1** ([[nuclear-diffusion-text-to-image-learning-2026|Radaideh i in., 2026]]).
 
-**Problem był w walidacji.** Model GPT-4 z czołówki, bez dostrojenia, wytwarzał około **35%** zbyt ogólnych, błędnych lub zdradzających odpowiedź podpowiedzi przy tworzeniu informacji zwrotnej w tutoringu, a jego własne automatyczne kontrole jakości nie zgadzały się z osądem człowieka ([[reddig-maclellan-personalized-feedback-llm-2026]]). To problem filtrowania i LoRA go nie rozwiąże.
+**Problem był w walidacji.** Model GPT-4 z czołówki, bez dostrojenia, wytwarzał około **35%** zbyt ogólnych, błędnych lub zdradzających odpowiedź podpowiedzi przy tworzeniu informacji zwrotnej w tutoringu, a jego własne automatyczne kontrole jakości nie zgadzały się z osądem człowieka ([[reddig-maclellan-personalized-feedback-llm-2026|Reddig i in., 2025]]). To problem filtrowania i LoRA go nie rozwiąże.
 
 Wzór we wszystkich czterech przypadkach: adaptacja niezawodnie przesuwa model w stronę celu, który można określić i ocenić. Nie dodaje osądu, a potok bez sprawdzenia i tak wypuści zły wynik.
 
@@ -117,15 +117,15 @@ Wzór we wszystkich czterech przypadkach: adaptacja niezawodnie przesuwa model w
 
 Dla szczebla adaptacji próg jest niższy, niż zakłada większość zespołów: **kilkaset do kilku tysięcy przykładów i jedna karta GPU**. LoRA trenuje niewielką liczbę dodanych parametrów i pozostawia wagi bazowe zamrożone, więc kilka modeli można obsługiwać z jednego adaptera.
 
-Ranga jest kompromisem, a nie pokrętłem do maksymalizacji. Przyrost na milion parametrów adaptera spadał monotonicznie wraz ze wzrostem rangi, a wyrównanie do poziomu kursu było decyzją o skali i randze, a nie darmowym ulepszeniem ([[lora-finetuned-control-systems-course-qa-2026]]).
+Ranga jest kompromisem, a nie pokrętłem do maksymalizacji. Przyrost na milion parametrów adaptera spadał monotonicznie wraz ze wzrostem rangi, a wyrównanie do poziomu kursu było decyzją o skali i randze, a nie darmowym ulepszeniem ([[lora-finetuned-control-systems-course-qa-2026|Lu i in., 2026]]).
 
-To, które warstwy się adaptuje, też jest realnym wyborem. Aktualizacja **tylko czterech ostatnich warstw Transformera** w analizatorze dyskursu opartym na BERT przewyższyła zarówno adaptację tylko górnej warstwy, jak i dostrajanie pełnej głębokości ([[bert-discourse-english-teaching-2026]]). Trzy konfiguracje, trzy różne wyniki, i najtańsza wygrała.
+To, które warstwy się adaptuje, też jest realnym wyborem. Aktualizacja **tylko czterech ostatnich warstw Transformera** w analizatorze dyskursu opartym na BERT przewyższyła zarówno adaptację tylko górnej warstwy, jak i dostrajanie pełnej głębokości ([[bert-discourse-english-teaching-2026|Wang i in., 2026]]). Trzy konfiguracje, trzy różne wyniki, i najtańsza wygrała.
 
 Koszt, który łatwo zaniżyć, to ewaluacja, większa niż rachunek za obliczenia. Zobacz [[checking-whether-educational-ai-works|Jak sprawdzić, czy edukacyjna SI działa poprawnie, a nie tylko dobrze ocenia?]].
 
 ## Skalibruj oczekiwania
 
-Wybór modelu i promptu odpowiadają razem tylko za około **15%** niedopasowania między LLM a przyrostami uczenia się studentów, a w tym badaniu zestawy ważone benchmarkiem i głosowanie jednomyślne pogarszały wyrównanie ([[educational-llm-alignment]]). Dane pretreningowe są dominującą dźwignią zachowania modelu i jedyną, której nie można pociągnąć.
+Wybór modelu i promptu odpowiadają razem tylko za około **15%** niedopasowania między LLM a [[learning-gains|przyrostami uczenia się]] studentów, a w tym badaniu zestawy ważone benchmarkiem i głosowanie jednomyślne pogarszały wyrównanie ([[educational-llm-alignment|Hardy i in. (2026)]]). Dane pretreningowe są dominującą dźwignią zachowania modelu i jedyną, której nie można pociągnąć.
 
 Nic z tego nie argumentuje przeciw powyższej pracy. Argumentuje przeciw oczekiwaniu, że dostrojenie naprawi problem projektowy. Jeśli problem polega na tym, że tutor odpowiada zbyt chętnie, trenowanie może temu zaradzić. Jeśli problem polega na tym, że uczący się nie angażują się w niego, trenowanie tego nie zrobi, a liczba 15% mówi, że pieniądze lepiej wydać gdzie indziej.
 

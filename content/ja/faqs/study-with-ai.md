@@ -1,8 +1,8 @@
 ---
 title: "AIをどう使えば効果的に学べるのか？"
 created: "2026-10-10T23:06:28-04:00"
-updated: "2026-11-07T20:30:41-05:00"
-source_updated: "2026-10-28T11:47:13-04:00"
+updated: "2026-11-15T15:43:36-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [reducing-over-reliance, verify-ai-output, how-ai-impacts-students, ai-anxiety-wellbeing]
 weight: 60
 type: faq

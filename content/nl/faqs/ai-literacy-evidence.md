@@ -8,9 +8,9 @@ assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
 audience: [instructors, researchers, administrators]
-updated: "2026-10-29T14:57:54-04:00"
+updated: "2026-11-15T15:46:36-05:00"
 translation_of: faqs/ai-literacy-evidence
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,7 @@ De [[meta-analysis-systematic-review|systematische review]] van Hingle en Johri 
 
 Het **AI Literacy Continuum** van NC State beschrijft een progressie van *Nog niet betrokken* en *Onkritisch gebruik* via *Geïnformeerd gebruik*, *[[critical-thinking|Kritische evaluatie]]* en *Verbetering*, en werd geïmplementeerd met meer dan 330 deelnemers verspreid over vakken en workshops ([[ai-literacy-continuum-higher-education]]). De observaties wijzen op een splitsing: korte ervaringen bewogen studenten richting geïnformeerd gebruik, terwijl kritische evaluatie en verbetering vooral opdoken in langdurig werk dat in de discipline was ingebed. Er was geen gevalideerde voor- en nameting en geen controlegroep, dus dit is praktijkgebaseerd bewijs.
 
-De lerarenopleiding laat hetzelfde plafond vanaf een andere kant zien. De [[design-based-research|ontwerpgerichte]] interventie van Le et al. werd beproefd met 14 masterstudenten en geëvalueerd met 29 studenten uit de [[teacher-education|lerarenopleiding]]. Gerapporteerde AI-competentie en [[self-efficacy|zelfeffectiviteit]] stegen en studenten bewogen richting een kritischer [[pedagogy|pedagogische]] beschouwing van GenAI, terwijl de winst op ethiek slechts marginaal significant was. Een klein ontwerpgericht onderzoek van die vorm kan bekwaamheid niet vaststellen ([[genai-literacy-training-teacher-education-dbr-2026]]).
+[[teacher-role|De lerarenopleiding]] laat hetzelfde plafond vanaf een andere kant zien. De [[design-based-research|ontwerpgerichte]] interventie van Le et al. werd beproefd met 14 masterstudenten en geëvalueerd met 29 studenten uit de [[teacher-education|lerarenopleiding]]. Gerapporteerde AI-competentie en [[self-efficacy|zelfeffectiviteit]] stegen en studenten bewogen richting een kritischer [[pedagogy|pedagogische]] beschouwing van GenAI, terwijl de winst op ethiek slechts marginaal significant was. Een klein ontwerpgericht onderzoek van die vorm kan bekwaamheid niet vaststellen ([[genai-literacy-training-teacher-education-dbr-2026]]).
 
 ## Meet wat studenten kunnen
 
@@ -86,7 +86,7 @@ De vraag die daaruit volgt, is de vraag om aan uw eigen programma te stellen: ce
 
 ## Wat dit publiek verkeerd doet
 
-Een workshop is een curriculum. De observaties van het Continuum plaatsen kritische evaluatie en verbetering in langdurig werk dat in de discipline is ingebed, en Le et al. bewogen zelfeffectiviteit zonder bekwaamheid vast te stellen.
+Een workshop is een [[curriculum-design|curriculum]]. De observaties van het Continuum plaatsen kritische evaluatie en verbetering in langdurig werk dat in de discipline is ingebed, en Le et al. bewogen zelfeffectiviteit zonder bekwaamheid vast te stellen.
 
 Zelfvertrouwen is een proxy voor geletterdheid. Het GLAT-resultaat is direct: een prestatietest voorspelde taakprestatie en een zelfrapportagemaat niet.
 

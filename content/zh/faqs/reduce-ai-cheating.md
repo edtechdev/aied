@@ -1,12 +1,12 @@
 ---
 title: "我怎样才能减少课程中的人工智能作弊？"
 created: "2026-09-22T19:51:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-15T15:42:03-05:00"
 weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/reduce-ai-cheating
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -59,15 +59,15 @@ ai_assist:
 
 从标签开始。[[ai-assessment-scale-reform|AI 评估量表（AIAS）]]给每份作业一个 AI 使用等级，从“不使用 AI”，经过“只用于头脑风暴”和“使用 AI 并注明来源”，一直到“完全使用 AI”，这样期望就是明确的、可执行的，而不是靠推断。
 
-然后改作品本身。一项覆盖 72 项研究的[[meta-analysis-systematic-review|系统综述]]考察生成式 AI 在[[cs-education|计算机教育]]中的应用，把重新设计评为既可行又最具杠杆的做法，并特别指出一步：在每门课程里至少为一项高利害评价加入口头或其他使过程可见的环节。它称之为整个语料中最有效的单一干预。检测是这篇综述覆盖得最薄的领域，只有 3 项研究，而 60-80% 的计算机专业学生报告在课程作业中使用生成式 AI，通常并未获得教师的明确许可，另有一个全国性教师样本中 70% 的人明确要求获得关于抗 AI 评价设计的培训（[[kumar-genai-computing-education-systematic-review-2026]]）。
+然后改作品本身。一项覆盖 72 项研究的[[meta-analysis-systematic-review|系统综述]]考察生成式 AI 在[[cs-education|计算机教育]]中的应用，把重新设计评为既可行又最具杠杆的做法，并特别指出一步：在每门课程里至少为一项高利害评价加入口头或其他使过程可见的环节。它称之为这篇综述中最有效的单一干预。检测是这篇综述覆盖得最薄的领域，只有 3 项研究，而 60-80% 的计算机专业学生报告在课程作业中使用生成式 AI，通常并未获得教师的明确许可，另有一个全国性教师样本中 70% 的人明确要求获得关于抗 AI 评价设计的培训（[[kumar-genai-computing-education-systematic-review-2026]]）。
 
 一门为期三年的计算机课程展示了有脚手架的披露工作流能把行为推到多远。[[shakil-scaffolding-genai-ethical-essay-2026|Shakil 等（2026）]]要求先交一份独立草稿并附四项清单，再进行一个“由 AI 精修而非重写”的步骤，随后提交披露表与结构化反思，缺少草稿或表格即得零分。采用率从自愿政策下约三分之二的学生上升到有脚手架那一年的 93%；81% 与 84% 的 AI 使用者报告拒绝或修改了建议，评分者对 77–81% 的提交编码出批判性投入，而在控制先前写作能力之后，AI 使用并不独立预测论文质量。这是一份单门课程的经验报告，不是对照试验，但它显示诚信工作正从检测转向学生披露与修改的条件。
 
 这份菜单，大致按每个选项在一门大课上能撑住的程度排序。
 
-无辅助、课堂内、闭卷：监考考试、测验、限时写作。给这些更高的权重，因为被 AI 抬高的正是课后作业这件成品。[[oral-assessment|口试]]和答辩出于同样的理由有效，因为实时对话难以外包（[[fenton-oral-exams-ai-authentic-assessment-2025]]）。
+无辅助、课堂内、闭卷：监考考试、测验、限时写作。给这些更高的权重，因为被 AI 抬高的正是课后作业这件成品。[[oral-assessment|口试]]和答辩出于同样的理由有效，因为实时对话难以外包（[[fenton-oral-exams-ai-authentic-assessment-2025|Fenton，2025]]）。
 
-过程性材料：草稿、推理轨迹、带批注的“展示你的思考”、修改日志，让*过程*可见，而不只是成品（[[authentic-products-authenticated-processes-2026]]）。[[authentic-assessment|真实任务]]与它们配合使用：本地案例、实习材料、学生自己的数据，任何难以委托出去的东西（[[kirsanov-beyond-detection-ai-online-assessments-2026]]）。
+过程性材料：草稿、推理轨迹、带批注的“展示你的思考”、修改日志，让*过程*可见，而不只是成品（[[authentic-products-authenticated-processes-2026|Tsiligkiris，2026]]）。[[authentic-assessment|真实任务]]与它们配合使用：本地案例、实习材料、学生自己的数据，任何难以委托出去的东西（[[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov 等，2026]]）。
 
 按学生做任务变体，让每个学生拿到一份表面不同但构念等价的版本，抄袭就在结构上毫无用处。要把这个保证看作以模型能力为条件的：[[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]]发现前沿生成器在联合诚信分数上只能达到 0.81-0.88，而非前沿模型跌到 0.50-0.55。如果你的变体并不等价，你买到的是防分享，代价是学生之间的不公平。
 

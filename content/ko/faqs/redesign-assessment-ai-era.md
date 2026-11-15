@@ -1,13 +1,13 @@
 ---
 title: "평가를 어떻게 재설계하면 성적이 학생이 알고 있거나 할 수 있는 것에 대해 여전히 방어 가능한 무언가를 말해 줄 수 있습니까?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-15T15:43:03-05:00"
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-10-28T10:45:41-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -109,4 +109,4 @@ ai_assist:
 
 ## 다음으로 갈 곳
 
-이 페이지 전체의 배후에 있는 타당성 논증은 [[assessment-validity]]에 있고, 집행 쪽 동반 문서는 [[reduce-ai-cheating]]이며 그 옆에 [[course-ai-policy]]가 있습니다. [[writing-instruction-ai-best-practices]]는 학생들이 실제로 따르는 문구를 다루고, [[evaluating-ai-interventions-methods]]는 여러분이 설계하고 있는 도구가 애초에 작동하는지 다룹니다.
+이 페이지 전체의 배후에 있는 타당성 논증은 [[assessment-validity|평가 타당도]]에 있고, 집행 쪽 동반 문서는 [[reduce-ai-cheating]]이며 그 옆에 [[course-ai-policy]]가 있습니다. [[writing-instruction-ai-best-practices]]는 학생들이 실제로 따르는 문구를 다루고, [[evaluating-ai-interventions-methods]]는 여러분이 설계하고 있는 도구가 애초에 작동하는지 다룹니다.

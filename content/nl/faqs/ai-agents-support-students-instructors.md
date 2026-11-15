@@ -6,9 +6,9 @@ weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-updated: "2026-10-29T14:57:54-04:00"
+updated: "2026-11-15T15:46:36-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Een [[agentic-ai|agent]] plant, roept hulpmiddelen aan, houdt context vast, spli
 
 [[agentic-workflows-education|Agentische workflows in het onderwijs]] noemt vier terugkerende vermogens: reflectie, planning, gebruik van hulpmiddelen en samenwerking tussen meerdere agents. Elk daarvan voegt een kostenpost toe naast de mogelijkheid, in [[explainable-ai|uitlegbaarheid]], coördinatie, [[trust-calibration|vertrouwen]], latentie en toezicht.
 
-De rollen aan studentenzijde lopen van [[adaptive-learning|adaptief]] tutoren en studieplanning via [[formative-assessment|formatieve]] feedback, begeleid [[problem-solving|probleemoplossen]] en het genereren van oefeningen tot aanbevelingen over voorkennis en reflectieve [[metacognition|metacognitieve]] [[prompt-engineering|prompting]]. De rollen aan docentenzijde omvatten materiaalontwikkeling, [[automated-question-generation|vraaggeneratie]] en validatie, triage van feedback, [[learning-analytics|analytics]] over de cursus, onderwijskundig ontwerp, het ophalen van bronnen en de orkestratie van gespecialiseerde subagents.
+De rollen aan studentenzijde lopen van [[adaptive-learning|adaptief]] tutoren en studieplanning via [[formative-assessment|formatieve]] feedback, begeleid [[problem-solving|probleemoplossen]] en het genereren van oefeningen tot aanbevelingen over voorkennis en reflectieve [[metacognition|metacognitieve]] [[prompt-engineering|prompting]]. De rollen aan docentenzijde omvatten materiaalontwikkeling, [[automated-question-generation|vraaggeneratie]] en validatie, triage van feedback, [[learning-analytics|analytics]] over de cursus, [[learning-design|onderwijskundig ontwerp]], het ophalen van bronnen en de orkestratie van gespecialiseerde subagents.
 
 Twee daarvan zijn vroeg veiliger, omdat beide een artefact opleveren dat een mens leest voordat studenten dat doen: een vraaggenerator gekoppeld aan een validator, en tekst die een docent bewerkt.
 

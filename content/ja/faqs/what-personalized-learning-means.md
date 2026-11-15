@@ -1,7 +1,7 @@
 ---
 title: "パーソナライズド・ラーニングとは実際に何を意味し、いつ役に立つのですか？"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-15T15:43:36-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -28,7 +28,7 @@ ai_assist:
 
 プラットフォームは、すべての学生にパーソナライズされた体験を約束します。練習問題の順序を組み替えたり、サッカーへの興味に合わせて説明を書き直したり、先週の会話を覚えていたり、学生が次に何を学ぶかを選んだりするかもしれません。その4つはすべてパーソナライズと呼ばれ、その形に近い形で試されたものは1つだけです。
 
-短い答えはこうです。パーソナライズとは学習体験のどこかの部分への変更を指し、その価値は3つのことに依存します。何が適応されるのか、適応を駆動する証拠は何か、そしてその変更があなたの意図する学習を改善するかどうかです。見慣れた例や反応のよい会話は、何も教えていないのに個別的に感じられます。効果のある適応は目に見えないこともあります。この知識ベースで最も明瞭な実験結果は狭いものです。10の台北の高校にわたる5か月のPython認定コースで、適応的な問題の順序づけに無作為化された学生は、固定の順序と同一の[[conversational-ai|チャットボット]]へのアクセスを持つ学生よりも、対面の支援なしの[[summative-assessment|最終試験]]でおよそ0.150標準偏差高く得点しました（[[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chungら、2026年]]）。それは特定の条件下での順序づけを支えます。パーソナライズとして売られるすべてを検証するものではありません。
+短い答えはこうです。パーソナライズとは学習体験のどこかの部分への変更を指し、その価値は3つのことに依存します。何が適応されるのか、適応を駆動する証拠は何か、そしてその変更があなたの意図する学習を改善するかどうかです。見慣れた例や反応のよい会話は、何も教えていないのに個別的に感じられます。効果のある適応は目に見えないこともあります。最も明瞭な実験結果は狭いものです。10の台北の高校にわたる5か月のPython認定コースで、適応的な問題の順序づけに無作為化された学生は、固定の順序と同一の[[conversational-ai|チャットボット]]へのアクセスを持つ学生よりも、対面の支援なしの[[summative-assessment|最終試験]]でおよそ0.150標準偏差高く得点しました（[[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chungら、2026年]]）。それは特定の条件下での順序づけを支えます。パーソナライズとして売られるすべてを検証するものではありません。
 
 ## 短いまとめ
 

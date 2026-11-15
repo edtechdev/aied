@@ -1,7 +1,7 @@
 ---
 title: "我该怎么检查 AI 生成的测验题和考题究竟好不好？"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-15T15:38:53-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-05T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 你让 AI 根据讲课笔记出二十道题。它回来的是一份带答案键、解析、难度标签和 Bloom 分类的、排好版的文档，看上去已经完工。而你的名字就要签上去了。
 
-简短回答是这样的：生成的题目是候选，不是一次评估。每一道你自己先做一遍，看清这道题要求学生实际做什么，并在它被计分之前弄清学生怎么回应它。在本知识库最大的两项研究里，有意思的信号不是生成有效，而是它在哪儿失效。在课程专属的工作流里做的迭代式生成，为 71 个大学班级产出了可用的选择题考试（[[assessing-quality-ai-generated-exams-field-2025|Isley 等人，2025]]）。在一项对 311 道已部署题目的数据科学审查中，模型的难度标签与它同时生成的 Bloom 层级几乎完全吻合（Spearman ρ = 0.90），而与学生的实际得分只有 ρ = 0.06（[[student-llm-use-ai-question-difficulty-data-science-2026|An 与 Wang，2026]]）。那个标签描述的是提示词，不是对题目的测量。
+简短回答如下：生成的题目是候选，不是一次评估。每一道你自己先做一遍，看清这道题要求学生实际做什么，并在它被计分之前弄清学生怎么回应它。在这两项最大的研究里，有意思的信号不是生成有效，而是它在哪儿失效。在课程专属的工作流里做的迭代式生成，为 71 个大学班级产出了可用的选择题考试（[[assessing-quality-ai-generated-exams-field-2025|Isley 等人，2025]]）。在一项对 311 道已部署题目的数据科学审查中，模型的难度标签与它同时生成的 Bloom 层级几乎完全吻合（Spearman ρ = 0.90），而与学生的实际得分只有 ρ = 0.06（[[student-llm-use-ai-question-difficulty-data-science-2026|An 与 Wang，2026]]）。那个标签描述的是提示词，不是对题目的测量。
 
 ## 简版要点
 
@@ -120,6 +120,6 @@ ai_assist:
 
 ## 接下来可以去哪里
 
-[[automated-question-generation]] 是讲生成方法及其测得质量的概念页，[[educational-measurement]] 覆盖题目分析、信度，以及一次试用只是比划了一下的心理测量。两者都在[[assessment-validity|评估效度]]之下，而整个循环服务的就是这个标准。
+[[automated-question-generation|题目生成]] 是讲生成方法及其测得质量的概念页，[[educational-measurement|教育测量]] 覆盖题目分析、信度，以及一次试用只是比划了一下的心理测量。两者都在[[assessment-validity|评估效度]]之下，而整个循环服务的就是这个标准。
 
 同一个问题的判断侧属于[[ai-grading-fairness-reliability|AI 评分]]，因为一道好题被拙劣地评分，并不比一道坏题被很好地评分更好。关于学生能用 AI 时一个分数应当代表什么的更大问题，见[[redesign-assessment-ai-era|AI 时代的评估重设计]]。

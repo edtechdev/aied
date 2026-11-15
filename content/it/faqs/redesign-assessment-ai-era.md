@@ -16,8 +16,9 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
-translation_of: "faqs/redesign-assessment-ai-era"
-source_updated: "2026-10-28T10:45:41-04:00"
+updated: "2026-11-15T15:42:15-05:00"
+translation_of: faqs/redesign-assessment-ai-era
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ---
 
@@ -41,7 +42,7 @@ La risposta breve: decidi **di cosa** il voto deve essere prova, inserisci nel c
 
 ## Decidi di cosa il voto è prova
 
-Comincia dichiarando esplicitamente quale capacità il voto dovrebbe rappresentare. Stai valutando cosa sa fare uno studente in modo indipendente, cosa riesce a fare in modo appropriato con l'IA, la sua capacità di valutare e dirigere l'IA, o una combinazione di queste? La [[assessment-validity|validità della valutazione]] della knowledge base tratta questo come un problema di validità: un elaborato rifinito non è più un'evidenza sufficiente che lo studente possieda la capacità apparentemente dimostrata da quell'elaborato. Questa è la metà del lato valutativo dello stesso argomento; la metà del lato applicativo è in [[reduce-ai-cheating]], e l'inquadramento generale della validità attraversa [[evaluating-ai-interventions-methods]].
+Comincia dichiarando esplicitamente quale capacità il voto dovrebbe rappresentare. Stai valutando cosa sa fare uno studente in modo indipendente, cosa riesce a fare in modo appropriato con l'IA, la sua capacità di valutare e dirigere l'IA, o una combinazione di queste? La [[assessment-validity|validità della valutazione]] tratta questo come un problema di validità: un elaborato rifinito non è più un'evidenza sufficiente che lo studente possieda la capacità apparentemente dimostrata da quell'elaborato. Questa è la metà del lato valutativo dello stesso argomento; la metà del lato applicativo è in [[reduce-ai-cheating]], e l'inquadramento generale della validità attraversa [[evaluating-ai-interventions-methods]].
 
 Di' la risposta nel programma, nel foglio del compito e nella rubrica. Gli studenti leggono tre documenti e si adeguano a quello che è più specifico. «L'uso dell'IA è permesso con dichiarazione» non è una dichiarazione di cosa stai misurando, e non dà a uno studente alcun modo di sapere se l'uso permesso intacca la cosa che stai valutando.
 
@@ -89,7 +90,7 @@ Lo scopo conta quanto la meccanica. [[ai-agents-joyful-assessment-third-space-20
 
 **«L'accreditamento e l'approvazione del programma non si muoveranno così in fretta.»** Lo studio sopra nomina i tempi lunghi e i vincoli di accreditamento delle coorti numerose come l'attrito centrale. Un singolo corso può cambiare ciò che accade dentro una valutazione esistente senza cambiarne il nome, il peso o i risultati di apprendimento, e di solito questo basta per iniziare.
 
-**«Questo penalizza gli studenti ansiosi e gli studenti con disabilità.»** Può succedere. Le componenti orali dal vivo richiedono adattamenti pianificati in anticipo, una scelta del formato dove il costrutto lo permette, e attenzione alla differenza linguistica e al bias del valutatore. Verifica la capacità, non le condizioni di prestazione.
+**«Questo penalizza gli studenti ansiosi e gli [[inclusive-learning|studenti con disabilità]].»** Può succedere. Le componenti orali dal vivo richiedono adattamenti pianificati in anticipo, una scelta del formato dove il costrutto lo permette, e attenzione alla differenza linguistica e al bias del valutatore. Verifica la capacità, non le condizioni di prestazione.
 
 **«Dovremmo solo comprare un rilevatore.»** Il risultato sulla discriminazione argomenta contro di esso come spina dorsale del progetto: se i falsi positivi crescono più rapidamente dei veri positivi, un monitoraggio più forte rende il nascondere relativamente più attraente. Il rilevamento può avere un posto in una risposta che riprogetta anche il compito, e [[should-we-use-ai-detectors]] copre quell'argomento.
 

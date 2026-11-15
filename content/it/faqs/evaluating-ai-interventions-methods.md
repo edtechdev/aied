@@ -6,8 +6,9 @@ weight: 55
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-translation_of: "faqs/evaluating-ai-interventions-methods"
-source_updated: "2026-10-28T11:47:13-04:00"
+updated: "2026-11-15T15:43:21-05:00"
+translation_of: faqs/evaluating-ai-interventions-methods
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -71,7 +72,7 @@ Un guadagno pre/post mostra che l'intervento ha funzionato. Mostra che i puntegg
 
 Le dimensioni dell'effetto pubblicate si trasferiscono alla mia classe. Le 14 meta-analisi di O'Neill non potevano sostenere le affermazioni costruite su di esse, ed entrambi gli intervalli di previsione riportati includevano lo zero.
 
-Le analytics della piattaforma misurano la qualità dell'insegnamento. L'agente terzo nella classifica di Zhang era ultimo nella rubrica degli esperti.
+Le [[learning-analytics|analytics]] della piattaforma misurano la qualità dell'insegnamento. L'agente terzo nella classifica di Zhang era ultimo nella rubrica degli esperti.
 
 ## Cosa ti tornerà indietro
 

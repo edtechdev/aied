@@ -1,7 +1,7 @@
 ---
 title: "我应当如何处理小组与合作作业中的人工智能？"
 created: "2026-09-22T19:50:48-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-15T15:39:17-05:00"
 weight: 60
 type: faq
 foundations: [academic-integrity, agency]
@@ -11,7 +11,7 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/group-work-ai
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -96,9 +96,9 @@ Chen 与 Zou 展示了这件事有多难靠偶然达成。三种[[agency|能动�
 
 他们的局限随引文一同成立：单一数据库、仅期刊论文、未关注[[ethics|伦理]]或隐私、技术的头两年、未使用偏倚风险工具。把“催化剂”读作对观察到的实践的一种描述，而不是一项实测结果。
 
-检测不是用来区分个人贡献的合适工具：这六项研究没有一项在小组情境中检验检测器，而检测在个人层面的问题已在本知识库其他地方记录。克制在被纠正之前需要被解读。Chen 与 Zou 提醒，一个拒绝 AI 的小组可能是在回避不熟悉的东西，而不是在行使有意的[[self-regulated-learning|自我调节]]，而这两者需要不同的回应：一个是教学问题，另一个是一个你可以评分的、经过考虑的主张。
+检测不是用来区分个人贡献的合适工具：这六项研究没有一项在小组情境中检验检测器，而检测在个人层面的问题已有充分记录。克制在被纠正之前需要被解读。Chen 与 Zou 提醒，一个拒绝 AI 的小组可能是在回避不熟悉的东西，而不是在行使有意的[[self-regulated-learning|自我调节]]，而这两者需要不同的回应：一个是教学问题，另一个是一个你可以评分的、经过考虑的主张。
 
-模拟队友也解决不了这个问题。[[llm-agents-collaborative-problem-solving-simulation-2026|Fang（2026）]]在真实参与者对话上微调 [[llm]] 智能体（在 LLaMA 3.2-3B 上的 [[llm-training-and-fine-tuning|LoRA]]/QLoRA 适配器），以 3,824 个轮次和六个主题编码为 48 名参与者建模，然后用[[network-analysis|认知网络分析]]比较真实与模拟的话语。模拟网络与经验网络的距离为 0.17，低于 0.30 的阈值，置换检验 p 值为 0.65，统计上不可区分，尽管它略微高估了技术约束与设计的连结，低估了数据与性能参数。这是一篇中等信心度的框架论文，它支持一个主张：针对具体参与者的智能体可以复现真实的协作话语。它没有表明学生从模拟队友那里学到更多。
+模拟队友也解决不了这个问题。[[llm-agents-collaborative-problem-solving-simulation-2026|Fang（2026）]]在真实参与者对话上微调 [[llm|LLM]] 智能体（在 LLaMA 3.2-3B 上的 [[llm-training-and-fine-tuning|LoRA]]/QLoRA 适配器），以 3,824 个轮次和六个主题编码为 48 名参与者建模，然后用[[network-analysis|认知网络分析]]比较真实与模拟的话语。模拟网络与经验网络的距离为 0.17，低于 0.30 的阈值，置换检验 p 值为 0.65，统计上不可区分，尽管它略微高估了技术约束与设计的连结，低估了数据与性能参数。这是一篇中等信心度的框架论文，它支持一个主张：针对具体参与者的智能体可以复现真实的协作话语。它没有表明学生从模拟队友那里学到更多。
 
 ## 按成员相信什么来编组，而不是按谁和谁是朋友
 
@@ -151,4 +151,4 @@ AI 会成为共同的参照点还是仅仅一个查询工具，部分取决于�
 
 ## 接下来去哪里
 
-[[group-work]]和[[collaborative-learning]]承载了关于小组评估以及什么让协作有成效的基础证据。[[course-ai-policy]]覆盖学生真正会读的课程层面措辞，[[redesign-assessment-ai-era]]覆盖这件事所处的评估再设计，而[[academic-integrity]]是处理不端行为那一侧的地方。
+[[group-work|小组作业]]和[[collaborative-learning|协作学习]]承载了关于小组评估以及什么让协作有成效的基础证据。[[course-ai-policy]]覆盖学生真正会读的课程层面措辞，[[redesign-assessment-ai-era]]覆盖这件事所处的评估再设计，而[[academic-integrity]]是处理不端行为那一侧的地方。

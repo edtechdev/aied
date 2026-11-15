@@ -11,9 +11,9 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
-updated: "2026-10-29T14:58:40-04:00"
+updated: "2026-11-15T15:46:36-05:00"
 translation_of: faqs/reducing-over-reliance
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ De kern: overmatige afhankelijkheid is vooral een kwestie van plaatsing. De ontw
 
 **5.** Timing van de reflectievraag: kies de fase van de taak die zij nog kan veranderen.
 
-**6.** Kijk wie uw ontwerp achterlaat, op basis van voorkennis in plaats van gemiddelde.
+**6.** Kijk wie uw ontwerp achterlaat, op basis van [[prior-knowledge|voorkennis]] in plaats van gemiddelde.
 
 ## Bepaal of u een probleem hebt, of alleen veel gebruik
 
@@ -59,7 +59,7 @@ Gedragsinstrumenten zijn dunner gezaaid. [[pause-ai-cognitive-offloading-self-re
 
 ## Zet de poging van de student vóór de tool
 
-De duidelijkste geteste volgorde is "eerst denken, dan ChatGPT". [[think-first-chatgpt-later-2026|Wong en Qiu (2026)]] deelden N = 196 studenten in om zelfstandig te werken, om ChatGPT vrij te gebruiken, of om in een gereguleerde conditie te werken: bedenk uw eigen ideeën, werk samen met ChatGPT om ze te verbeteren en te evalueren, en verfijn en lever daarna zelfstandig één oplossing in. De vrijgebruikgroep produceerde creatiever werk op de ondersteunde taak en zakte terug naar het niveau van alleen mensen op een latere, moeilijkere taak zonder ChatGPT. De gereguleerde groep liet geen direct voordeel zien en presteerde daarna beter dan beide andere groepen op zelfstandige creativiteit.
+De duidelijkste geteste volgorde is "eerst denken, dan [[generative-ai|ChatGPT]]". [[think-first-chatgpt-later-2026|Wong en Qiu (2026)]] deelden N = 196 studenten in om zelfstandig te werken, om ChatGPT vrij te gebruiken, of om in een gereguleerde conditie te werken: bedenk uw eigen ideeën, werk samen met ChatGPT om ze te verbeteren en te evalueren, en verfijn en lever daarna zelfstandig één oplossing in. De vrijgebruikgroep produceerde creatiever werk op de ondersteunde taak en zakte terug naar het niveau van alleen mensen op een latere, moeilijkere taak zonder ChatGPT. De gereguleerde groep liet geen direct voordeel zien en presteerde daarna beter dan beide andere groepen op zelfstandige [[creativity|creativiteit]].
 
 Promptdata verklaren het verschil. In de gereguleerde groep was 88,6% van de prompts samenwerkend, en dat was het enige prompttype dat significant samenhing met latere zelfstandige originaliteit. In de vrijgebruikgroep was 70,9% van de prompts niet-samenwerkend en vroeg 59,6% ChatGPT ronduit om ideeën te genereren. Dezelfde tool, op twee manieren bevraagd, leverde twee verschillende leerlingen op.
 
@@ -75,7 +75,7 @@ Twee klassendetails bepalen of de volgorde standhoudt. Het eerste is tijd. Als d
 
 Praktisch betekent dat bewaakte AI midden in de taak, waar hints, uitgewerkte voorbeelden en oefenitems het werk doen, en een beveiligde controle aan het eind. Het maakt ook van een AI-gebruiksbeleid een plaatsingsregel per vaardigheid, die gemakkelijker te schrijven en gemakkelijker te verdedigen is dan een lijst verboden.
 
-Een hint is een vraag over de volgende stap van de student, een uitgewerkt voorbeeld van een vergelijkbaar probleem, of een verwijzing naar de relevante passage. Een antwoord is een afgeronde zin die de student kan plakken. De meeste algemene chatbots produceren standaard het tweede, in vloeiend proza dat als hulp leest, en daarom weegt de configuratie zwaarder dan de bedoelingen van de student.
+Een hint is een vraag over de volgende stap van de student, een uitgewerkt voorbeeld van een vergelijkbaar probleem, of een verwijzing naar de relevante passage. Een antwoord is een afgeronde zin die de student kan plakken. De meeste algemene [[conversational-ai|chatbots]] produceren standaard het tweede, in vloeiend proza dat als hulp leest, en daarom weegt de configuratie zwaarder dan de bedoelingen van de student.
 
 ## Eis de controle, en maak haar zichtbaar
 
@@ -97,7 +97,7 @@ Kies een fout die bescheiden en controleerbaar is, zoals een bron die niet besta
 
 Het ondersteunde product is een slechte proxy voor bekwaamheid, dus minstens één beoordeeld moment moet zonder de tool plaatsvinden. De latere ongesteunde taak van [[think-first-chatgpt-later-2026|Wong en Qiu (2026)]] is die meting. Hun groep die alleen met mensen werkte, ging ook achteruit op de moeilijkere vervolgtaak, wat de simpele versie van de oplossing uitsluit: de tool weghalen zonder de lerende te ondersteunen is geen interventie.
 
-Afwisselende modi hebben steun. PAUSE rapporteert de uitkomst van sessie vier bij Kosmyna et al. (2025), waar deelnemers die alleen met hun hoofd werkten en later ChatGPT gebruikten, beter presteerden dan aanhoudende LLM-gebruikers. Verantwoording werkt ook via uitleg: Makransky et al. (2025) vonden dat een tutoring-chatbot die studenten aanspoorde ideeën te verbinden en hun redenering uit te leggen, betere toetsprestaties opleverde dan traditioneel onderwijs.
+Afwisselende modi hebben steun. PAUSE rapporteert de uitkomst van sessie vier bij Kosmyna et al. (2025), waar deelnemers die alleen met hun hoofd werkten en later ChatGPT gebruikten, beter presteerden dan aanhoudende [[llm|LLM]]-gebruikers. Verantwoording werkt ook via uitleg: Makransky et al. (2025) vonden dat een tutoring-chatbot die studenten aanspoorde ideeën te verbinden en hun redenering uit te leggen, betere toetsprestaties opleverde dan traditioneel onderwijs.
 
 Voor een vak: wissel af, ondersteund werk in de oefening, ongesteund werk waar het telt. Lees het ondersteunde stuk als een verslag van prestatie onder goede omstandigheden, en het ongesteunde stuk als het bewijs over leren. Ze vergelijken is ook het nuttigste gesprek dat u kunt hebben met een student die zijn cijfer niet begrijpt.
 
@@ -127,7 +127,7 @@ De formulering van de prompt doet er minder toe dan haar positie. Vraag vóór e
 
 ## Verwacht dat het risico zich ophoopt
 
-[[lodge-loble-cognitive-offloading-2026|Lodge en Loble (2026)]] situeren het risico in voorkennis en zelfregulatie en noemen een **metacognitieve rechtvaardigheidskloof**: AI goed gebruiken vraagt om hulpbronnen die beginners missen, dus de studenten die de oefening het meest nodig hebben, besteden het leren zelf het liefst uit. Zij rapporteren dat 80% van de Australische studenten al AI gebruikt en dat twee derde van de docenten in de onderbouw van het voortgezet onderwijs dat doet (OECD 2025).
+[[lodge-loble-cognitive-offloading-2026|Lodge en Loble (2026)]] situeren het risico in voorkennis en zelfregulatie en noemen een **metacognitieve [[equity-in-ai-education|rechtvaardigheidskloof]]**: AI goed gebruiken vraagt om hulpbronnen die beginners missen, dus de studenten die de oefening het meest nodig hebben, besteden het leren zelf het liefst uit. Zij rapporteren dat 80% van de Australische studenten al AI gebruikt en dat twee derde van de docenten in de onderbouw van het voortgezet onderwijs dat doet (OECD 2025).
 
 Leeftijd en gewoonte hangen met hetzelfde patroon samen. [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] vond dat deelnemers van 17 tot 25 jaar meer AI-afhankelijkheid en offloading en minder kritisch denken lieten zien dan deelnemers van 46 jaar en ouder, en dat opleidingsniveau een betere voorspeller was van kritisch denken, ongeacht AI-gebruik (r = +0,34), met een significante interactie die erop wijst dat opleidingsniveau het negatieve effect verzacht. [[genai-over-reliance-learning-2026|Gao, Sun en Khan (2026)]] vonden dat polychroniciteit, de neiging tot multitasken, het pad modereert, waarbij studenten met hoge polychroniciteit een groter risico lopen.
 
@@ -139,27 +139,27 @@ Context telt even zwaar als persoon, en uw vak bepaalt een deel van de context. 
 
 Niets in dit corpus toetst of een specifieke interventie tegen overmatige afhankelijkheid standhoudt over settings of semesters heen. Eerst-denken rust op één experiment met N = 196. Het resultaat met het achterhouden van antwoorden komt uit de synthese van [[brcic-effortless-trap-productive-struggle-2026|Brcic en Frljic (2026)]] en niet uit een eigen trial. Het wrijvingsargument is een conceptuele comment zonder nieuwe data. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] noemt de grenzen van het model: exogene stationaire AI-kwaliteit, een vast netwerk, gestileerde verificatie. De werkelijke waarden schatten zou longitudinale sporen vereisen van verificatiepercentages per taak, de sterkte van sociaal bewijs, en hoe vertrouwen zich bijwerkt na geverifieerd versus ongeverifieerd gebruik.
 
-Meting blijft de zwakste schakel. Surveyontwerpen overheersen, en zowel [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] als [[genai-over-reliance-learning-2026|Gao, Sun en Khan (2026)]] vragen om longitudinale en experimentele vervolgstudies. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] heeft geen psychometrie en is gebouwd voor volwassenen. Of de rechtvaardigheidskloof door onderwijs kan worden gedicht, is theoretisch beargumenteerd en niet aangetoond.
+Meting blijft de zwakste schakel. Surveyontwerpen overheersen, en zowel [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] als [[genai-over-reliance-learning-2026|Gao, Sun en Khan (2026)]] vragen om longitudinale en experimentele vervolgstudies. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] heeft geen [[educational-measurement|psychometrie]] en is gebouwd voor volwassenen. Of de rechtvaardigheidskloof door onderwijs kan worden gedicht, is theoretisch beargumenteerd en niet aangetoond.
 
 Dat laat u achter met een redelijke gok, goedkoop uitgevoerd. Verander één opdracht, houd de ongesteunde meting aan, en kijk of de kloof tussen ondersteund en ongesteund werk smaller wordt. Bouw geen vak om op de kracht van deze getallen.
 
 ## Wat docenten hier verkeerd doen
 
-**De studenten die het meest gebruiken, zijn degenen in de problemen.** Frequentie is wat surveys vastleggen en dashboards tonen, en zij is het construct niet. Een student die elk antwoord controleert en uw materiaal citeert, kan AI dagelijks gebruiken en het goed doen. Een student die één keer per week de eerste output inlevert, heeft het probleem.
+**De studenten die het meest gebruiken, zijn degenen in de problemen.** Frequentie is wat surveys vastleggen en [[visualization|dashboards]] tonen, en zij is het construct niet. Een student die elk antwoord controleert en uw materiaal citeert, kan AI dagelijks gebruiken en het goed doen. Een student die één keer per week de eerste output inlevert, heeft het probleem.
 
 **Een verbod haalt het risico weg.** De sterkste resultaten hier komen uit plaatsing, en de arm met alleen mensen in het experiment van Wong en Qiu ging ook achteruit op de moeilijkere vervolgtaak. De tool weghalen zonder de lerende te ondersteunen laat de moeilijkheid waar zij was.
 
-**Goedkoper controleren lost verificatie op.** Het controleren gemakkelijker maken was de zwakste hefboom in het model van Biswas, omdat het obstakel sociaal is. Een betere plagiaatscanner zorgt er niet voor dat een student de bron leest.
+**Goedkoper controleren lost verificatie op.** Het controleren gemakkelijker maken was de zwakste hefboom in het model van Biswas, omdat het obstakel sociaal is. Een betere [[academic-integrity|plagiaatscanner]] zorgt er niet voor dat een student de bron leest.
 
 **Een gebruiksdashboard vertelt mij wie er offloadt.** De items van PAUSE registreren wanneer en hoe vaak AI een werkstroom binnenkomt, en de auteurs wijzen zelf op het validiteitsprobleem. Een zorgvuldige scafolder scoort als offloader, dus op die getallen handelen straft de studenten die u juist wilt houden.
 
 **Vloeiendheid en tevredenheid laten zien dat het ontwerp werkt.** Dat is de illusie die [[lodge-loble-cognitive-offloading-2026|Lodge en Loble (2026)]] in hun prestatieparadox beschrijven: werk voelt soepel en studenten presteren op dat moment goed terwijl zij minder onthouden. Ongesteunde prestatie en uitgestelde [[transfer-of-learning|transfer]] zijn de maten die de vraag beantwoorden.
 
-**Leer studenten AI-geletterdheid en het probleem verdwijnt.** [[lodge-loble-cognitive-offloading-2026|Lodge en Loble (2026)]] waarschuwen dat te veel investeren in AI-geletterdheid gericht op studenten weleens de verkeerde besteding kan zijn, gezien wat beginners missen.
+**Leer studenten [[ai-literacy|AI-geletterdheid]] en het probleem verdwijnt.** [[lodge-loble-cognitive-offloading-2026|Lodge en Loble (2026)]] waarschuwen dat te veel investeren in AI-geletterdheid gericht op studenten weleens de verkeerde besteding kan zijn, gezien wat beginners missen.
 
 ## Wat er op u afkomt
 
-**"Dit is gewoon goede didactiek met een nieuwe naam."** Deels. Scaffolding, formatieve feedback en productieve worsteling zijn oude ideeën. Wat nieuwer is, is de ordening: zichtbare verificatie versloeg goedkopere verificatie, en de twee momenten die het beschermen waard zijn, zijn de eerste moeilijke poging en de laatste ongesteunde controle. Doe de vertrouwde dingen in de nieuwe volgorde.
+**"Dit is gewoon goede [[pedagogy|didactiek]] met een nieuwe naam."** Deels. [[scaffolding|Scaffolding]], formatieve feedback en productieve worsteling zijn oude ideeën. Wat nieuwer is, is de ordening: zichtbare verificatie versloeg goedkopere verificatie, en de twee momenten die het beschermen waard zijn, zijn de eerste moeilijke poging en de laatste ongesteunde controle. Doe de vertrouwde dingen in de nieuwe volgorde.
 
 **"Ik kan dat niet controleren."** Dat kunt u niet, en het bewijs zegt dat u het niet moet proberen. Plaatsing leverde het sterkste resultaat op. Ontwerp de taak zo dat het gebruik van de tool op het verkeerde moment zichtbaar wordt in het werk zelf, als een antwoord dat de student niet kan uitleggen of een verificatiestap die ontbreekt.
 

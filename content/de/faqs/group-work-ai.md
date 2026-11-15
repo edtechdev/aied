@@ -1,7 +1,7 @@
 ---
 title: "Wie gehe ich mit KI in Gruppen- und Kollaborationsaufgaben um?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-15T15:39:32-05:00"
 connected_faqs: [course-ai-policy, asynchronous-online-courses-ai]
 weight: 60
 type: faq
@@ -13,7 +13,7 @@ research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
 translation_of: faqs/group-work-ai
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -93,7 +93,7 @@ Paaren Sie die Gruppennote mit einer individuellen Komponente: einer [[oral-asse
 
 Ihre Einschränkungen gehören zur Zitation: eine einzige Datenbank, nur Zeitschriftenartikel, keine Beachtung von [[ethics|Ethik]] oder Privatsphäre, die ersten zwei Jahre der Technologie und kein angewandtes Bias-Risiko-Instrument. Lesen Sie „Katalysatoren“ als Beschreibung beobachteter Praxis, nicht als gemessenes Ergebnis.
 
-Detektion ist das falsche Instrument, um individuelle Beiträge zu sortieren: Keine dieser sechs Studien testet Detektoren in Gruppensettings, und die Probleme von Detektion auf der Ebene einzelner Personen sind an anderer Stelle in dieser Wissensbasis dokumentiert. Zurückhaltung muss interpretiert werden, bevor sie korrigiert werden muss. Chen und Zou warnen, dass eine Gruppe, die KI ablehnt, vielleicht etwas Unvertrautem ausweicht, statt bewusste [[self-regulated-learning|Selbstregulation]] auszuüben, und die beiden Fälle verlangen unterschiedliche Antworten: Das eine ist ein Lehrproblem, das andere eine überlegte Position, die Sie bewerten können.
+Detektion ist das falsche Instrument, um individuelle Beiträge zu sortieren: Keine dieser sechs Studien testet Detektoren in Gruppensettings, und die Probleme von Detektion auf der Ebene einzelner Personen sind an anderer Stelle gut dokumentiert. Zurückhaltung muss interpretiert werden, bevor sie korrigiert werden muss. Chen und Zou warnen, dass eine Gruppe, die KI ablehnt, vielleicht etwas Unvertrautem ausweicht, statt bewusste [[self-regulated-learning|Selbstregulation]] auszuüben, und die beiden Fälle verlangen unterschiedliche Antworten: Das eine ist ein Lehrproblem, das andere eine überlegte Position, die Sie bewerten können.
 
 Auch simulierte Teammitglieder entscheiden die Frage nicht. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] fine-tunte [[llm|LLM]]-Agenten auf echtem Dialog von Teilnehmenden ([[llm-training-and-fine-tuning|LoRA/QLoRA]]-Adapter auf LLaMA 3.2-3B), um 48 Teilnehmende über 3,824 Turns und sechs thematische Codes zu modellieren, und verglich dann realen und simulierten Diskurs mit [[network-analysis|Epistemic Network Analysis]]. Das simulierte Netzwerk erreichte einen Abstand von 0.17 zum empirischen Netzwerk, unter dem Schwellenwert von 0.30, mit einem Permutations-p-Wert von 0.65, also statistisch nicht unterscheidbar, obwohl es Technische Einschränkungen und Design-Verbindungen leicht überbetonte und Daten- und Leistungsparameter unterrepräsentierte. Es ist ein Framework-Paper mit mittlerer Konfidenz, und es stützt eine Aussage: teilnehmendenspezifische Agenten können realistischen kollaborativen Diskurs reproduzieren. Es zeigt nicht, dass Studierende von simulierten Teammitgliedern mehr lernen.
 
@@ -148,4 +148,4 @@ Detektion kann Ihnen sagen, wer was getan hat. Keine dieser Studien testet sie i
 
 ## Wohin als Nächstes
 
-[[group-work]] und [[collaborative-learning]] tragen die zugrunde liegende Evidenz zur Gruppenbewertung und dazu, was Zusammenarbeit produktiv macht. [[course-ai-policy]] behandelt die Formulierung auf Kursebene, die Studierende tatsächlich lesen, [[redesign-assessment-ai-era]] behandelt das Assessment-Redesign, in das dies gehört, und [[academic-integrity]] ist der Ort, an dem die Seite des Fehlverhaltens behandelt wird.
+[[group-work|Gruppenarbeit]] und [[collaborative-learning|kollaboratives Lernen]] tragen die zugrunde liegende Evidenz zur Gruppenbewertung und dazu, was Zusammenarbeit produktiv macht. [[course-ai-policy]] behandelt die Formulierung auf Kursebene, die Studierende tatsächlich lesen, [[redesign-assessment-ai-era]] behandelt das Assessment-Redesign, in das dies gehört, und [[academic-integrity|akademische Integrität]] ist der Ort, an dem die Seite des Fehlverhaltens behandelt wird.

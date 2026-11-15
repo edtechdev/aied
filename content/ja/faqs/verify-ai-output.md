@@ -1,8 +1,8 @@
 ---
 title: "学生にAIの出力を検証する方法をどう教えればよいでしょうか？"
 created: "2026-10-10T23:07:06-04:00"
-updated: "2026-11-07T20:33:50-05:00"
-source_updated: "2026-10-28T11:43:14-04:00"
+updated: "2026-11-15T15:43:36-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [incorporating-ai-literacy, study-with-ai, reducing-over-reliance, asynchronous-online-courses-ai]
 weight: 65
 type: faq

@@ -1,7 +1,7 @@
 ---
 title: "Wie kann KI Bildungsforschung unterstützen?"
 created: "2026-10-05T11:23:36-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-15T15:46:26-05:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -16,7 +16,7 @@ level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ Die kurze Antwort für dieses Treffen: KI kann die Suche, einen ersten Screening
 
 **5.** Prüfen Sie jede Referenz von Hand, zuerst die Autorinnen und Autoren, wann immer KI am Text beteiligt war.
 
-**6.** Protokollieren Sie Prompts, Modellversionen und Korpusversionen, und planen Sie die Stunden dafür ein.
+**6.** Protokollieren Sie Prompts, Modellversionen und Datensatzversionen, und planen Sie die Stunden dafür ein.
 
 ## Entscheiden Sie vor Projektbeginn, was KI berühren darf
 
@@ -92,13 +92,13 @@ Der Fehler ist konkret. In [[zhang-platform-scores-miss-ai-teaching-agents-2026|
 
 Die Verbreitung ist der Berichterstattung vorausgelaufen. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta und Lin (2026)]] analysierten 888 Arbeiten zur Review-Automatisierung: Seit 2023 berichteten 38.0% der Software- und Produktarbeiten überhaupt keine Evaluation, gegenüber 9.3% der LLM-Arbeiten, und der Modellzugang war überwiegend proprietär (84.1%). Eine günstige Gesamtbewertung implizierte auch keine Eignung für Delegation, denn 52% von 118 ausschließlich positiven LLM-Arbeiten berichteten weiterhin eine Sorge, dass der Arbeitsablauf unter der Schwelle blieb, die ihre Rolle verlangt. Ihr [[meta-analysis-systematic-review|PRISMA]]-LLM-Rahmenwerk trennt die Offenlegung der Implementierung von der folgenbewussten Evaluation und behandelt seine fünf Stufen als Offenlegungsstufen, nicht als Risikostufen.
 
-Die praktische Version: Nennen Sie das System und seine Version, die Prompts, die Korpusversion, was ein Mensch geprüft hat und wo es versagt hat. Führen Sie Prompt-und-Antwort-Protokolle, denn eine flüssige generierte Themenliste wirkt lange unvermeidlich, bevor ihre beweisende Arbeit überhaupt begonnen hat ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
+Die praktische Version: Nennen Sie das System und seine Version, die Prompts, die Datensatzversion, was ein Mensch geprüft hat und wo es versagt hat. Führen Sie Prompt-und-Antwort-Protokolle, denn eine flüssige generierte Themenliste wirkt lange unvermeidlich, bevor ihre beweisende Arbeit überhaupt begonnen hat ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
 Kalkulieren Sie auch die Stunden. [[persistent-ai-agents-academic-research|Eine 115-tägige Einzelfallstudie mit einer einzigen Forscherin]] zu einem persistenten Forschungsagenten fand als stärkstes Muster Kapazitätserweiterung statt nachgewiesener Arbeitsersetzung: Während Gedächtnis und Verfahrensweisen anwuchsen, wuchs der Umfang der delegierten Arbeit, während der Beitrag des Menschen nicht kleiner wurde.
 
 ## Führen Sie Praktikerforschung mit denselben Regeln im kleineren Maßstab durch
 
-Wenn Sie ein Lehrender sind, der den eigenen Kurs untersucht, arbeiten Sie im dünnsten Strang des Korpus. [[ai-assisted-educational-research|AI-Assisted Educational Research]] benennt das als Lücke und nicht als Befund: KI-unterstützte Praktikerforschung ist plausibel weit verbreitet und fast undokumentiert, und die Evidenz zur Review-Automatisierung und zur Bibliometrie entscheidet nicht, wie ein Lehrender das eigene Unterrichten untersuchen sollte.
+Wenn Sie ein Lehrender sind, der den eigenen Kurs untersucht, arbeiten Sie im am wenigsten untersuchten Strang dieser Literatur. [[ai-assisted-educational-research|AI-Assisted Educational Research]] benennt das als Lücke und nicht als Befund: KI-unterstützte Praktikerforschung ist plausibel weit verbreitet und fast undokumentiert, und die Evidenz zur Review-Automatisierung und zur Bibliometrie entscheidet nicht, wie ein Lehrender das eigene Unterrichten untersuchen sollte.
 
 Was übertragbar ist, ist eine Reihe von Haltungen:
 
@@ -110,7 +110,7 @@ Legen Sie Ihre Kriterien vorab fest und halten Sie sie sichtbar. Eine kleine lok
 
 Berichten Sie die Rolle der KI, die Prüfung, die Sie vorgenommen haben, und die Grenzen eines Designs mit einem einzigen Kurs und einer einzigen Forscherin. Ein Bericht über einen Arbeitsablauf ist kein Wirksamkeitsergebnis.
 
-Behandeln Sie die Simulation einer Kohorte als fortgeschrittene Option und nicht als Standard. Simulierte Lernende decken tendenziell den einfachsten Quadranten realen Studierendenverhaltens ab und werden nach der Nutzung selten validiert ([[simulating-students]]). Lesen Sie [[making-simulated-students-behave-like-learners]], bevor Sie dem Urteil eines [[simulation|Simulators]] vertrauen.
+Behandeln Sie die Simulation einer Kohorte als fortgeschrittene Option und nicht als Standard. Simulierte Lernende decken tendenziell den einfachsten Quadranten realen Studierendenverhaltens ab und werden nach der Nutzung selten validiert ([[simulating-students|simulierende Studierende]]). Lesen Sie [[making-simulated-students-behave-like-learners]], bevor Sie dem Urteil eines [[simulation|Simulators]] vertrauen.
 
 ## Was Forschende hier falsch machen
 
@@ -150,4 +150,4 @@ KI nimmt Arbeit aus dem Projekt. Die 115-tägige Fallstudie fand einen wachsende
 
 ## Wohin als Nächstes
 
-Die begleitenden Fragen sind [[evaluating-ai-interventions-methods]] dazu, wie man eine Intervention misst, [[reporting-interpreting-aied-research]] zum Berichten des Systems und der eigenen KI-Nutzung und [[research-gaps-aied]] dazu, wo die Literatur dünn ist. [[equity-ethics-pedagogical-safety-research]] behandelt studentische Daten, und [[ai-assisted-educational-research]] ist die vollständige Konzeptseite hinter dieser.
+Die begleitenden Fragen sind [[evaluating-ai-interventions-methods]] dazu, wie man eine Intervention misst, [[reporting-interpreting-aied-research]] zum Berichten des Systems und der eigenen KI-Nutzung und [[research-gaps-aied]] dazu, wo die Literatur dünn ist. [[equity-ethics-pedagogical-safety-research]] behandelt studentische Daten, und [[ai-assisted-educational-research|KI-gestützte Bildungsforschung]] ist die vollständige Konzeptseite hinter dieser.

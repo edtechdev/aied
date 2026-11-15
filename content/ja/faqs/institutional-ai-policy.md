@@ -1,8 +1,8 @@
 ---
 title: "機関の AI 方針をどう書き、どう実施するか？"
 created: "2026-10-10T23:04:27-04:00"
-updated: "2026-11-07T20:30:41-05:00"
-connected_faqs: [course-ai-policy, equity-ethics-pedagogical-safety-research]
+updated: "2026-11-15T15:43:36-05:00"
+connected_faqs: [course-ai-policy, equity-ethics-pedagogical-safety-research, adopting-ai-options-and-issues]
 weight: 65
 type: faq
 ethics: [equity-in-ai-education, ethics, privacy]
@@ -11,7 +11,7 @@ audience: [administrators, policymakers, institutions]
 level: [higher ed]
 institutions: [change-management, educational-policy-ai, governance]
 translation_of: faqs/institutional-ai-policy
-source_updated: "2026-10-28T11:39:28-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -49,9 +49,11 @@ ai_assist:
 
 文言より先に適用範囲です。[[institutional-governance-ai-universities|ManikondaとOutlaw（2026年）]]は、米国のR1およびR2大学149校のAI方針をクロールし、34州にわたる130の大学レベルの方針を検証しました。その登録簿は指示的ではなく助言的です。方針の95%が明確さと強度のスコアで負の値を持ち、「〜してよい」「〜できる」といった弱い言葉が「〜しなければならない」「禁止」といった指示に勝っています。
 
-それらの文書が何を優先しているかは、著者がその文書を何のためと考えたかを教えます。大学レベルの方針はデータセキュリティ、リスク軽減、調達、法的準拠を扱い、[[pedagogy|教育的な指針]]はほとんどありません。存在する学部レベルの方針は教育と[[ai-literacy]]に集中しています。自前の方針を持っていたのは8つの[[business-education|ビジネススクール]]だけで、それらは8件のうち6件で母体の枠組みと異なっていました。
+それらの文書が何を優先しているかは、著者がその文書を何のためと考えたかを教えます。大学レベルの方針はデータセキュリティ、リスク軽減、調達、法的準拠を扱い、[[pedagogy|教育的な指針]]はほとんどありません。存在する学部レベルの方針は教育と[[ai-literacy|AIリテラシー]]に集中しています。自前の方針を持っていたのは8つの[[business-education|ビジネススクール]]だけで、それらは8件のうち6件で母体の枠組みと異なっていました。
 
 著者たちが提案する解決策は層状の構造です。大学全体のリスク管理層、学科レベルの方針、教員と学生を含む学科間委員会です。それを採用すれば、評議会で擁護できる適用範囲の一文が得られます。この文書は機関のリスクを管理し、教育上の判断はその仕事を評定する学科にあります。層状化はまた、40ページを生まずに曖昧さという非難に答えます。
+
+2つ目の隙間は生産の側にあります。その政策群では、ほとんどが学生と職員がAIで何をするかを統治しており、機関がAIで作る教材を統治するものはごくわずかです。Chew（2026年）はこの欠落を構造的なものだと論じます。AIが生成した画像、事例、試験問題は教育内容としてカリキュラムに入り、そこでのはっきりした誤りはすべての学習者に届き、学生の誤りのようには信号を生まないことがあります（[[chew-ai-content-governance-medical-education-2026|Chew、2026年]]）。学習者の利用で止まる方針は、より結果の大きい利用を扱わないままにします。それを埋める4つの条項は、何が使われているかを知ること、学習者が見る前に試すこと、撤回を含む知見に基づいて行動すること、承認済みツールの漂流を監視することです。
 
 ## 拘束力のある条項を書くか、削除するか
 

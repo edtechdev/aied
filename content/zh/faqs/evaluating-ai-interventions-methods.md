@@ -1,13 +1,13 @@
 ---
 title: "教师可以用哪些测量工具与研究方法去评价与人工智能相关的干预？"
 created: "2026-09-22T19:50:48-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-15T15:45:12-05:00"
 weight: 55
 audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/evaluating-ai-interventions-methods
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]

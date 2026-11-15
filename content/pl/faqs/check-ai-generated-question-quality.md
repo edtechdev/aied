@@ -1,7 +1,7 @@
 ---
 title: "Jak sprawdzić, czy wygenerowane przez AI pytania quizowe i egzaminacyjne są rzeczywiście dobre?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:44:00-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-05T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
@@ -121,6 +121,6 @@ Dla studentów generujących własne pytania ćwiczeniowe obowiązuje ta sama za
 
 ## Dokąd dalej
 
-[[automated-question-generation]] to strona pojęcia dla metod generowania i ich zmierzonej jakości, a [[educational-measurement]] obejmuje analizę zadań, rzetelność i psychometrię, na którą pilotaż tylko wskazuje. Oba leżą pod [[assessment-validity|trafnością oceniania]], która jest standardem, któremu służy cały cykl.
+[[automated-question-generation|Automatyczne generowanie pytań]] to strona pojęcia dla metod generowania i ich zmierzonej jakości, a [[educational-measurement|pomiar edukacyjny]] obejmuje analizę zadań, rzetelność i psychometrię, na którą pilotaż tylko wskazuje. Oba leżą pod [[assessment-validity|trafnością oceniania]], która jest standardem, któremu służy cały cykl.
 
 Strona osądu tego samego problemu należy do [[ai-grading-fairness-reliability|oceniania przez AI]], bo dobre zadanie ocenione źle nie jest lepsze od złego zadania ocenionego dobrze. O szerszym pytaniu, co ocena powinna reprezentować, gdy studenci mogą korzystać z AI, zobacz [[redesign-assessment-ai-era|przeprojektowanie oceniania w erze AI]].

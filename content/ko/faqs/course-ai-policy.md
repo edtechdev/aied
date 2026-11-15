@@ -1,8 +1,8 @@
 ---
 title: "강좌 AI 정책을 어떻게 작성하고 학생들에게 어떻게 전달합니까?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-08T00:14:58-05:00"
-connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, institutional-ai-policy, asynchronous-online-courses-ai]
+updated: "2026-11-15T15:45:28-05:00"
+connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, institutional-ai-policy, asynchronous-online-courses-ai, adopting-ai-options-and-issues]
 weight: 70
 type: faq
 foundations: [academic-integrity, framing-ai-use-for-students, reducing-ai-misuse]
@@ -14,7 +14,7 @@ level: [higher ed, secondary]
 methods: [qualitative-research]
 institutions: [educational-policy-ai]
 translation_of: faqs/course-ai-policy
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -164,4 +164,4 @@ Chirikov가 발견한 상당한 학문 분야별·과제별 차이는 모든 사
 
 ## 다음으로 갈 곳
 
-거버넌스, 데이터 정책, 조달, 검토 주기는 [[institutional-ai-policy|기관 AI 정책을 어떻게 쓰고 시행합니까?]]의 몫이고, 기관과 교육구가 명령하는 규칙은 [[educational-policy-ai]]와 [[governance]]에 있습니다. 성적이 여전히 방어 가능한 추론을 뒷받침하도록 과제를 다시 세우는 일은 [[redesign-assessment-ai-era]]에, 시행 논증은 [[reduce-ai-cheating]]에, 탐지기 결정은 [[should-we-use-ai-detectors]]에, 표기 체계는 [[ai-assessment-scale-reform]]에 있습니다.
+거버넌스, 데이터 정책, 조달, 검토 주기는 [[institutional-ai-policy|기관 AI 정책을 어떻게 쓰고 시행합니까?]]의 몫이고, 기관과 교육구가 명령하는 규칙은 [[educational-policy-ai|교육 AI 정책]]와 [[governance|거버넌스]]에 있습니다. 성적이 여전히 방어 가능한 추론을 뒷받침하도록 과제를 다시 세우는 일은 [[redesign-assessment-ai-era]]에, 시행 논증은 [[reduce-ai-cheating]]에, 탐지기 결정은 [[should-we-use-ai-detectors]]에, 표기 체계는 [[ai-assessment-scale-reform]]에 있습니다.

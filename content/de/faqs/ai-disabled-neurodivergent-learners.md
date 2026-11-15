@@ -1,7 +1,7 @@
 ---
 title: "Wie kann KI behinderte und neurodivergente Lernende in meinem Kurs unterstützen?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-15T15:45:14-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, reducing-over-reliance]
 weight: 65
 type: faq
@@ -11,7 +11,7 @@ research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
 translation_of: faqs/ai-disabled-neurodivergent-learners
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -55,17 +55,17 @@ Dieselbe Vorsicht gilt für Gruppenstatistiken. [[differential-effects-across-le
 
 ## Nutzen Sie, was gemessen wurde, und lesen Sie das Label
 
-Das stärkste [[quantitative-research|quantitative]] Ergebnis auf dieser Seite ist zugleich das allgemeinste, und es kommt mit Grenzen, die Sie in die Kaufentscheidung mitnehmen sollten.
+Das stärkste [[quantitative-research|quantitative]] Ergebnis ist zugleich das allgemeinste, und es kommt mit Grenzen, die Sie in die Kaufentscheidung mitnehmen sollten.
 
 [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang, Carter, Liu und Peng (2024)]] synthetisierten 29 (quasi-)experimentelle Studien zu KI-basierten Interventionen für [[inclusive-learning|Studierende mit Behinderungen]]: 239 Effektstärken aus 41 unabhängigen Stichproben, einen statistisch signifikanten mittleren Gesamteffekt auf die Lernergebnisse von Hedges' g = 0.588 (95%-KI [0.349, 0.826], p < .01) und eine hohe Heterogenität zwischen den Studien. Akademische Leistung war die größte Ergebnisteilgruppe (k = 80, g = 0.929) und sozioemotionale Fähigkeiten die kleinste (k = 144, g = 0.382). Computersoftware, also [[speech-and-voice-technologies|Spracherkennung]], Expertensysteme und [[intelligent-tutoring|intelligente Tutorsysteme]], schnitt stark ab (k = 74, g = 0.959) und [[educational-robotics|Roboter]] mittelmäßig (k = 144, g = 0.509), während intelligente VR (g = 0.528) nicht signifikant war. Publikationsbias lag vor (Egger's β = 2.837, p < .001); Trim-and-fill reduzierte die Schätzung auf g = 0.269, weiterhin signifikant.
 
-Jede Studie war PK-12. 96.6% nutzten schrittbasierte Unterweisung in Sonderbildungs- oder klinischen Settings, und die meisten nutzten ältere regelbasierte KI statt [[generative-ai|generativer KI]]. Das stützt eine vorsichtige Übernahme strukturierter Lernsoftware. Auf einen Allzweck-Chatbot lässt es sich nicht übertragen, und es zu behandeln, als wäre es so, ist der teuerste Fehler, der auf dieser Seite möglich ist.
+Jede Studie war PK-12. 96.6% nutzten schrittbasierte Unterweisung in Sonderbildungs- oder klinischen Settings, und die meisten nutzten ältere regelbasierte KI statt [[generative-ai|generativer KI]]. Das stützt eine vorsichtige Übernahme strukturierter Lernsoftware. Auf einen Allzweck-Chatbot lässt es sich nicht übertragen, und es zu behandeln, als wäre es so, ist der teuerste Fehler, der hier möglich ist.
 
 Drei kleinere Ergebnisse zeigen, was ein einzelnes Werkzeug leisten kann, wenn die Barriere eng ist. Jedes wurde an einer Handvoll Lernender getestet; behandeln Sie sie daher als kostengünstige, umkehrbare Experimente und nicht als Infrastruktur.
 
 Für die Aufmerksamkeit segmentierten [[adhd-video-segmentation-computing-education|Pimenova, Begel und Kollegen (2026)]] [[video-education|Unterrichtsvideos]] nachträglich in Abschnitte mit je einer Anweisung und festen Pausen. Mit 17 Lernenden mit ADHS und 10 ohne verbesserte es alle und brachte die Fehler und Zögerlichkeiten der ADHS-Teilnehmenden auf Parität. Der egalisierende Effekt kam aus einer leichtgewichtigen Transformation des Materials.
 
-Für den Sprachzugang ergänzten [[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al. (2026)]] einem [[llm]]-Basissatz visuelle Fragen (Zeitstempel, an denen visuelle Information wahrscheinlich falsch gelesen wird) und Emotionsfragen (Zeitstempel, an denen frühere gehörlose und schwerhörige Lernende Frustration berichteten) und erzeugten damit 30 Fragen, zehn pro Strategie. Mit 16 Lernenden lag die [[self-efficacy|Selbstwirksamkeit]] im Mittel bei 5.70 (SD = 1.12) auf einer Sieben-Punkte-Skala, und visuelle Fragen wurden von gehörlosen Teilnehmenden häufiger gewählt als von schwerhörigen.
+Für den Sprachzugang ergänzten [[llm-question-generation-deaf-hard-of-hearing-2026|Chen et al. (2026)]] einem [[llm|Große Sprachmodelle (LLMs)]]-Basissatz visuelle Fragen (Zeitstempel, an denen visuelle Information wahrscheinlich falsch gelesen wird) und Emotionsfragen (Zeitstempel, an denen frühere gehörlose und schwerhörige Lernende Frustration berichteten) und erzeugten damit 30 Fragen, zehn pro Strategie. Mit 16 Lernenden lag die [[self-efficacy|Selbstwirksamkeit]] im Mittel bei 5.70 (SD = 1.12) auf einer Sieben-Punkte-Skala, und visuelle Fragen wurden von gehörlosen Teilnehmenden häufiger gewählt als von schwerhörigen.
 
 Für Lesen und Schreiben werteten [[dyslexlens-dyslexic-learners-ai|Rezazadegan et al. (2026)]] die eigenen Forumsdiskussionen legasthener Lernender aus. Diese Lernenden schätzten KI für die Unterstützung der Schriftsprache und berichteten uneinheitliche Ausgabequalität sowie einen Mangel an [[equity-in-ai-education|gerechten]] Nachteilsausgleichen. Die Inkonsistenz ist selbst eine Barriere: Ein Werkzeug, auf das man sich nicht verlassen kann, schafft Arbeit statt sie zu beseitigen.
 
@@ -87,15 +87,15 @@ Der dokumentierte Fehlschlag ist ein Nachteilsausgleich ohne Unterweisung. In *W
 
 Zwei Umstände machen diesen Fehlschlag wahrscheinlich, und beide sind institutionell. [[shin-ai-policies-sld-2026|Shin et al. (2026)]] nutzten LLM-basierte Themenmodellierung und zwei Runden von Delphi-Befragungen mit 17 Fachleuten zu 12 US-amerikanischen [[educational-policy-ai|bildungspolitischen Dokumenten]] zu KI aus den Jahren 2015 bis 2025. Die Vorbereitung der Lehrkräfte ist eines ihrer fünf validierten Themen mit 4 von 36 Items, und die Fachleute bewerteten die Selbstbefähigung der Lernenden und [[ai-literacy|KI-Kompetenz]] als am wichtigsten: Diese Lernenden sollten lernen, KI verantwortungsvoll und selbstständig zu nutzen, wobei die Vorsicht vor Überabhängigkeit als Teil derselben Fähigkeit gelehrt werden sollte. Die Autorinnen und Autoren von [[ludia-udl-ai-thought-partner-2026|LUDIA]] benennen als Hindernis die „Kluft zwischen Wissen und Handeln“: Es gibt reichlich Leitfäden, sie sind allgemein formuliert, und eine Barriere ist immer eigentümlich für diesen Raum und diese Woche.
 
-Was diese Seite Ihnen nicht geben kann, ist ein Schulungsprotokoll. Es existieren keine formalen evidenzbasierten Leitlinien, die Lehrkräften oder Familien helfen, KI für diese Lernenden umzusetzen; wie viel Unterweisung es braucht, in welcher Reihenfolge und von wem sie kommt, bleibt eine Ermessensfrage. Die Rechtsprechung setzt die Untergrenze und nicht den Standard: Der Studierende muss am Ende in der Lage sein, die Sache zu tun, und jemand muss dafür rechenschaftspflichtig sein, ihn dorthin zu bringen.
+Was die Evidenz Ihnen nicht geben kann, ist ein Schulungsprotokoll. Es existieren keine formalen evidenzbasierten Leitlinien, die Lehrkräften oder Familien helfen, KI für diese Lernenden umzusetzen; wie viel Unterweisung es braucht, in welcher Reihenfolge und von wem sie kommt, bleibt eine Ermessensfrage. Die Rechtsprechung setzt die Untergrenze und nicht den Standard: Der Studierende muss am Ende in der Lage sein, die Sache zu tun, und jemand muss dafür rechenschaftspflichtig sein, ihn dorthin zu bringen.
 
 ## Schreiben Sie Transkription und OCR namentlich in die KI-Regel
 
 [[wright-transcription-not-generation-2026|Wright (2026)]] argumentiert, dass Regeln, die jede „KI-Nutzung“ gleich behandeln, zu weit greifen, weil sie Sprach-zu-Text-Transkription und OCR nicht vom generativen Entwerfen trennen. Studierende mit Erkrankungen, die die Feinmotorik, die Lesbarkeit der Handschrift oder die Tippgenauigkeit betreffen, haben sich auf eigenständige Sprach-zu-Text-Produkte wie Dragon NaturallySpeaking und eigenständige OCR verlassen; mehrere davon wurden eingestellt oder verschlechtert, und KI-gestützte Transkription füllt die funktionale Lücke.
 
-Eine als „keine KI“ formulierte Regel kann dem Studierenden daher das wichtigste Mittel nehmen, lesbare Arbeit zu erzeugen. Niemand hat das Ausmaß dieser Verdrängung bisher gemessen, und genau das ist ein Grund, ausdrücklich zu sein, statt auf die Zahl zu warten. Nennen Sie Transkription und OCR in der Richtlinie als Nachteilsausgleich, neben den Verboten für das Entwerfen, damit die beiden Fragen getrennt entschieden werden. Die Exposition, die das für die Institution schafft, gehört zu [[legal-issues-and-risks]].
+Eine als „keine KI“ formulierte Regel kann dem Studierenden daher das wichtigste Mittel nehmen, lesbare Arbeit zu erzeugen. Niemand hat das Ausmaß dieser Verdrängung bisher gemessen, und genau das ist ein Grund, ausdrücklich zu sein, statt auf die Zahl zu warten. Nennen Sie Transkription und OCR in der Richtlinie als Nachteilsausgleich, neben den Verboten für das Entwerfen, damit die beiden Fragen getrennt entschieden werden. Die Exposition, die das für die Institution schafft, gehört zu [[legal-issues-and-risks|Rechtliche Fragen und Risiken]].
 
-Das ist in den meisten Dokumenten eine Korrektur von einer Zeile, und es ist die folgenreichste Zeile auf dieser Seite.
+Das ist in den meisten Dokumenten eine Korrektur von einer Zeile, und es ist die folgenreichste Zeile in der Richtlinie.
 
 ## Geben Sie Struktur, wo die Aufgabe sie voraussetzt
 
@@ -131,7 +131,7 @@ Eine Diagnose sagt mir, welches Werkzeug ich kaufen soll. Die Barrieren verlaufe
 
 Ein Nachteilsausgleich ist eine persönliche Regelung, also liegt die Lösung beim Studierenden. Manche sind es, und diejenigen, die es wert sind, verallgemeinert zu werden, sind die, die Sie ohnehin entworfen hätten. Die Segmentierung half in ihrer Studie jedem Lernenden. Designänderungen nehmen den Schritt der Offenlegung weg und mit ihm das Stigma.
 
-Engagement und Zufriedenheit zeigen, dass das Werkzeug funktioniert hat. Sie zeigen, dass es dem Studierenden gefallen hat. Dieser Korpus besteht überwiegend aus Einsätzen und Wahrnehmungen, und nur 6 von 40 Hochschulstudien dienten mehr als einer Barriere; ein zufriedener Studierender ist also noch kein Beleg dafür, dass eine Barriere gefallen ist.
+Engagement und Zufriedenheit zeigen, dass das Werkzeug funktioniert hat. Sie zeigen, dass es dem Studierenden gefallen hat. Die Literatur besteht überwiegend aus Einsätzen und Wahrnehmungen, und nur 6 von 40 Hochschulstudien dienten mehr als einer Barriere; ein zufriedener Studierender ist also noch kein Beleg dafür, dass eine Barriere gefallen ist.
 
 Das Werkzeug trägt die Unterstützung, und das Unterrichten ist ein Zusatz. Die Rechtsprechung behandelt ein nicht unterwiesenes Werkzeug als den Fehlschlag, und die Fachleute für Politik bewerteten die Selbstbefähigung der Lernenden und die KI-Kompetenz als ihr wichtigstes Thema. Budgetieren Sie die Unterrichtszeit mit der Lizenz.
 
@@ -161,4 +161,4 @@ Das Werkzeug trägt die Unterstützung, und das Unterrichten ist ein Zusatz. Die
 
 ## Wie es weitergeht
 
-[[universal-design-for-learning]] behandelt den Designansatz, der Barrieren verhindert, bevor sie entstehen, [[assistive-technology]] die Werkzeugschicht, die ein Studierender nutzt, [[accessibility]] die Frage, ob ein Format überhaupt wahrgenommen und bedient werden kann, und [[neurodiversity]] die Linse, die Differenz als Vielfalt statt als Defizit behandelt, alles unter dem Dach von [[inclusive-learning]]. [[reducing-over-reliance]] behandelt die Überabhängigkeits- und Inversionseffekte, die entscheiden, ob ein Werkzeug weiterhilft, und [[equity-ethics-pedagogical-safety-research|Gerechtigkeit, Barrierefreiheit, Datenschutz, Ethik und pädagogische Sicherheit in die KIED-Forschung einbeziehen]] behandelt die Verpflichtungen auf der Forschungsseite.
+[[universal-design-for-learning|Universelles Design für das Lernen (UDL)]] behandelt den Designansatz, der Barrieren verhindert, bevor sie entstehen, [[assistive-technology|Assistive Technologien]] die Werkzeugschicht, die ein Studierender nutzt, [[accessibility|Barrierefreiheit]] die Frage, ob ein Format überhaupt wahrgenommen und bedient werden kann, und [[neurodiversity|Neurodiversität]] die Linse, die Differenz als Vielfalt statt als Defizit behandelt, alles unter dem Dach von [[inclusive-learning|Inklusives Lernen]]. [[reducing-over-reliance]] behandelt die Überabhängigkeits- und Inversionseffekte, die entscheiden, ob ein Werkzeug weiterhilft, und [[equity-ethics-pedagogical-safety-research|Gerechtigkeit, Barrierefreiheit, Datenschutz, Ethik und pädagogische Sicherheit in die KIED-Forschung einbeziehen]] behandelt die Verpflichtungen auf der Forschungsseite.

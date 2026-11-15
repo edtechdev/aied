@@ -9,8 +9,9 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
+updated: "2026-11-15T15:40:11-05:00"
 translation_of: faqs/ai-anxiety-wellbeing
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -108,7 +109,7 @@ L'obiettivo è far scendere l'ansia. Kim (2026) ha trovato l'ansia associata pos
 
 La fiducia in sé protegge gli studenti dal danno alla carriera. Nel modello di Duan et al., l'[[self-efficacy|autoefficacia]] non lo attenuava. È stata l'adattabilità professionale a portare il percorso mediato.
 
-Questo è un problema dei [[student-support-and-success|servizi per gli studenti]]. Gran parte delle mosse di questa pagina sono didattiche: pratica a basso rischio, valutazione guidata dell'output dell'IA, revisione guidata dal feedback e una dichiarazione delle aspettative che gli studenti possono leggere. Conoscere la via di invio è una voce tra le altre.
+Questo è un problema dei [[student-support-and-success|servizi per gli studenti]]. Gran parte delle mosse sono didattiche: pratica a basso rischio, valutazione guidata dell'output dell'IA, revisione guidata dal feedback e una dichiarazione delle aspettative che gli studenti possono leggere. Conoscere la via di invio è una voce tra le altre.
 
 Un chatbot per il benessere è la risposta scalabile a una capacità di consulenza scarsa. La disponibilità è reale e l'attrattiva è comprensibile. L'accuratezza su un'unica suddivisione di validazione non è prova che uno studente in difficoltà stia meglio, e le questioni di classificazione errata, conservazione ed escalation non hanno risposte pubblicate nel lavoro citato qui.
 
@@ -120,7 +121,7 @@ Un chatbot per il benessere è la risposta scalabile a una capacità di consulen
 
 **«Sono un docente di materia, non un consulente.»** Nessuno ti chiede di curare qualcuno. La pratica a basso rischio, un compito di critica e un ciclo di revisione sono mosse didattiche ordinarie. L'unico risultato che parla della tua posizione è la relazione docente-studente al secondo posto nell'analisi dell'importanza delle variabili di Bashir e Afzal (10,0%), sopra la qualità del sonno (9,3%) e il supporto sociale (7,6%). Gli autori la chiamano ipotesi, ed è una scommessa ragionevole per un ruolo che occupi già.
 
-**«Non abbiamo capacità di consulenza, quindi uno strumento è meglio di niente.»** Forse, e questa pagina non può risolverlo. Quello su cui puoi insistere prima della messa in funzione sono risposte scritte su validazione dell'accuratezza, come si decide il livello di supporto, cosa succede in caso di classificazione errata dannosa, come vengono conservate le rivelazioni e come funziona l'escalation a una persona. Nessuna risposta, nessuna messa in funzione. Uno studente che si rivela a uno strumento che archivia male la sua rivelazione potrebbe non rivelarsi di nuovo.
+**«Non abbiamo capacità di consulenza, quindi uno strumento è meglio di niente.»** Forse, e le prove non possono risolverlo. Quello su cui puoi insistere prima della messa in funzione sono risposte scritte su validazione dell'accuratezza, come si decide il livello di supporto, cosa succede in caso di classificazione errata dannosa, come vengono conservate le rivelazioni e come funziona l'escalation a una persona. Nessuna risposta, nessuna messa in funzione. Uno studente che si rivela a uno strumento che archivia male la sua rivelazione potrebbe non rivelarsi di nuovo.
 
 **«Se sollevo il tema delle prospettive di carriera in classe, esco dalla mia materia.»** L'alternativa è che gli studenti si costruiscano la risposta dal mercato del lavoro e tra loro. Duan et al. raccomandano il lavoro di pianificazione della carriera come parte del programma accademico, e Dağ et al. lo raccomandano accanto all'alfabetizzazione all'IA. Puoi ospitare la conversazione senza pretendere competenza in materia, e indirizzare i casi individuali ai servizi di orientamento.
 
@@ -138,4 +139,4 @@ Un chatbot per il benessere è la risposta scalabile a una capacità di consulen
 
 ## Dove andare adesso
 
-[[anxiety-and-stress]] è il trattamento concettuale dell'emozione in sé, compreso lo stress da sorveglianza, il lato produttivo dell'ansia e l'ansia dei docenti. [[well-being]] copre la cornice dello stato positivo nelle dimensioni emotiva, psicologica e sociale. Per il quadro generale, [[how-ai-impacts-students]] tratta l'impatto generale dell'IA sugli studenti, e [[redesign-assessment-ai-era]] copre il lato valutativo di una risposta istituzionale. [[career-development-and-readiness]] è dove continua l'argomento sulla carriera.
+[[anxiety-and-stress|Ansia e stress]] è il trattamento concettuale dell'emozione in sé, compreso lo stress da sorveglianza, il lato produttivo dell'ansia e l'ansia dei docenti. [[well-being|Benessere]] copre la cornice dello stato positivo nelle dimensioni emotiva, psicologica e sociale. Per il quadro generale, [[how-ai-impacts-students]] tratta l'impatto generale dell'IA sugli studenti, e [[redesign-assessment-ai-era]] copre il lato valutativo di una risposta istituzionale. [[career-development-and-readiness|Lo sviluppo di carriera]] è dove continua l'argomento sulla carriera.

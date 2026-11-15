@@ -1,7 +1,7 @@
 ---
 title: "Como a IA pode apoiar estudantes multilíngues sem julgar mal o que eles sabem ou apagar a voz deles?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:37:46-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
@@ -51,7 +51,7 @@ Escreva a decisão onde os estudantes possam lê-la. Se os estudantes podem trad
 
 ## O que a pesquisa sustenta, e o que não sustenta
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez e Arabadzhy (2026)]] revisaram 24 estudos empíricos sobre [[conversational-ai|chatbots]] generativos na [[language-learning|aprendizagem de línguas]]. A contribuição deles é taxonômica: toda subpossibilidade catalogada para chatbots pré-generativos persiste, e três são novas, entre elas a **translinguagem**, o movimento deliberado entre línguas como parte da aprendizagem. Isso é um mapa de usos e experiências relatados, não uma estimativa agrupada, e o corpus é geograficamente concentrado, com China, Irã, Taiwan e Turquia respondendo por 19 dos 24 estudos e todos menos um ambientados dentro de instituições formais. Sustentar o uso de explicação entre línguas como movimento de aprendizagem não é sustentar a tradução de toda tarefa.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez e Arabadzhy (2026)]] revisaram 24 estudos empíricos sobre [[conversational-ai|chatbots]] generativos na [[language-learning|aprendizagem de línguas]]. A contribuição deles é taxonômica: toda subpossibilidade catalogada para chatbots pré-generativos persiste, e três são novas, entre elas a **translinguagem**, o movimento deliberado entre línguas como parte da aprendizagem. Isso é um mapa de usos e experiências relatados, não uma estimativa agrupada, e os estudos são geograficamente concentrados, com China, Irã, Taiwan e Turquia respondendo por 19 dos 24 estudos e todos menos um ambientados dentro de instituições formais. Sustentar o uso de explicação entre línguas como movimento de aprendizagem não é sustentar a tradução de toda tarefa.
 
 A avaliação é onde a evidência fica mais afiada e os riscos sobem. [[ai-scoring-language-bias-physics|Feser e Tschisgale (2026)]] compararam onze abordagens de pontuação automatizada com notas de especialistas humanos para explicações de física de 116 estudantes do ensino médio e encontraram subestimação sistemática da compreensão conceitual nas explicações linguisticamente mais fracas, em todas as abordagens, sem exceção. O desenho isola o mecanismo: o mesmo conteúdo conceitual, expresso em prosa mais fraca, recebeu nota menor. Não é uma afirmação sobre os estudantes multilíngues de nenhum país em particular, e é exatamente o padrão que faz da concordância global de pontuação um diagnóstico ruim. Um avaliador pode concordar com avaliadores humanos na média e errar em uma direção consistente para os estudantes cuja língua ainda está em desenvolvimento.
 
@@ -73,7 +73,7 @@ Esses são usos para pilotar, não intervenções validadas. Uma ferramenta que 
 
 ## Proteja o sentido e a voz do estudante
 
-Peça ajuda pontual antes de pedir uma reescrita, porque é na reescrita inteira que o pensamento do estudante sai da página. Um pedido que vale ensinar: "Identifique dois pontos em que o meu sentido está pouco claro. Explique o problema e ofereça opções. Mantenha os meus exemplos e não acrescente afirmações." Depois o estudante escolhe.
+Peça ajuda pontual antes de pedir uma reescrita, porque é na reescrita inteira que o pensamento do estudante sai do rascunho. Um pedido que vale ensinar: "Identifique dois pontos em que o meu sentido está pouco claro. Explique o problema e ofereça opções. Mantenha os meus exemplos e não acrescente afirmações." Depois o estudante escolhe.
 
 Uma sequência que mantém o trabalho com o estudante:
 
@@ -120,6 +120,6 @@ Ofereça alternativas viáveis. Os estudantes precisam de um caminho claro para 
 
 ## Para onde ir a seguir
 
-[[multilingual-learning]] é a página de conceito para língua, translinguagem e avaliação no ensino mediado por IA, e [[assessment-validity|validade da avaliação]] é o padrão para saber se uma pontuação sustenta a inferência que você está fazendo. [[differential-effects-across-learner-groups]] cobre como procurar padrões de subgrupo em vez de supô-los.
+[[multilingual-learning|aprendizagem multilíngue]] é a página de conceito para língua, translinguagem e avaliação no ensino mediado por IA, e [[assessment-validity|validade da avaliação]] é o padrão para saber se uma pontuação sustenta a inferência que você está fazendo. [[differential-effects-across-learner-groups|efeitos diferenciais entre grupos de aprendizes]] cobre como procurar padrões de subgrupo em vez de supô-los.
 
 Para o caso do ensino de escrita em que a língua é o construto, veja [[writing-instruction-ai-best-practices|boas práticas para o ensino de escrita]]. Para saber se a pontuação automatizada pode ser confiável no seu contexto, veja [[ai-grading-fairness-reliability|correção por IA]] e [[checking-whether-educational-ai-works|verificar se uma IA educacional funciona]].

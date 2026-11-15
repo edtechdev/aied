@@ -1,14 +1,14 @@
 ---
 title: "Como a IA pode me poupar tempo como professor?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T08:28:16-04:00"
+updated: "2026-11-15T15:37:46-05:00"
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
 translation_of: faqs/ai-save-instructor-time
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ Isso é realocação, não redução: o que você ganha com a [[generative-ai|IA
 
 A qualidade é desigual em um padrão estável o bastante para planejar em torno dele. Revisores cegos preferiram as versões de IA de conclusões de aula e tickets de saída em 59,7% das vezes, contra materiais desenhados por profissionais, e preferiram material de IA para conteúdo do ensino médio em 59,2% das vezes. A economia também cresce onde sua confiança é menor: ensinar fora da sua própria disciplina é o caso com a maior distância entre o que a ferramenta entrega e o que você teria escrito sozinho.
 
-Duas categorias correm no sentido oposto. Em material de nível fundamental, humanos foram preferidos em cerca de 65% das vezes por adequação ao desenvolvimento. [[scaffolding|Scaffolds]] direcionados para aprendizes [[multilingual-learning|multilíngues]] e estudantes da [[special-education|educação especial]] voltaram neutros em vez de errados, o que é pior do que parece, já que um scaffold neutro é um que você reconstrói desde o início.
+Duas categorias correm no sentido oposto. Em material de nível fundamental, humanos foram preferidos em cerca de 65% das vezes por adequação ao desenvolvimento. [[scaffolding|Scaffolds]] direcionados para aprendizes [[multilingual-learning|multilíngues]] e [[learners|estudantes]] da [[special-education|educação especial]] voltaram neutros em vez de errados, o que é pior do que parece, já que um scaffold neutro é um que você reconstrói desde o início.
 
 O teste que prevê isso antes de você gastar uma noite: você consegue enunciar a especificação com precisão suficiente para conferir a saída? Um ticket de saída sobre um objetivo, sim. Se um parágrafo serve para uma criança de nove anos específica que lê dois anos abaixo da turma, não.
 
@@ -84,7 +84,7 @@ Você pode usar [[automated-essay-scoring|correção automatizada de redações]
 
 ## O que os professores erram
 
-**"Os 31% são o meu número."** São 259 professores de [[science-education|ciências]] da educação básica (K-12) em preparação de aula. A direção viaja; o tamanho, não. Um seminário construído sobre discussão pode economizar menos, e um curso de laboratório com restrições de segurança pode não economizar nada na parte em que você mais queria ajuda.
+**"Os 31% são o meu número."** São 259 professores de [[science-education|ciências]] do [[k-12|K-12]] em preparação de aula. A direção viaja; o tamanho, não. Um seminário construído sobre discussão pode economizar menos, e um curso de laboratório com restrições de segurança pode não economizar nada na parte em que você mais queria ajuda.
 
 **"Economizar tempo é o objetivo."** O experimento do Brasil é o contraexemplo. As horas vieram de graça e o quartil inferior não ganhou nada. O objetivo é o que as horas compram.
 

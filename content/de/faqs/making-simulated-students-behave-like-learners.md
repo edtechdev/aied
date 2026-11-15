@@ -1,7 +1,7 @@
 ---
 title: "Wie bringen wir einen simulierten Studenten dazu, sich wie ein echter Lernender zu verhalten?"
 created: "2026-10-02T08:36:18-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-15T15:44:25-05:00"
 weight: 71
 type: faq
 connected_faqs: [checking-whether-educational-ai-works, addressing-common-misconceptions-ai-education, making-ai-better-at-supporting-learning]
@@ -14,7 +14,7 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
 translation_of: faqs/making-simulated-students-behave-like-learners
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -144,4 +144,4 @@ Eine Population zu simulieren ist die gründliche Option. Über 100 Agenten deck
 
 ## Wohin als Nächstes
 
-[[simulating-students]] ist die vollständige Konzeptseite. [[checking-whether-educational-ai-works]] behandelt die Bewertung der Systeme, gegen die Sie testen, und [[making-ai-better-at-supporting-learning]] behandelt die Trainingsmethoden hinter den Fine-Tuning-Ergebnissen hier. [[addressing-common-misconceptions-ai-education]] nimmt auf, ob simulierte Studierende in der Forschung für echte Lernende einstehen können.
+[[simulating-students|Simulation von Lernenden]] ist die vollständige Konzeptseite. [[checking-whether-educational-ai-works]] behandelt die Bewertung der Systeme, gegen die Sie testen, und [[making-ai-better-at-supporting-learning]] behandelt die Trainingsmethoden hinter den Fine-Tuning-Ergebnissen hier. [[addressing-common-misconceptions-ai-education]] nimmt auf, ob simulierte Studierende in der Forschung für echte Lernende einstehen können.

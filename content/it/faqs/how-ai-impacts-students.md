@@ -7,8 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
+updated: "2026-11-15T15:43:21-05:00"
 translation_of: faqs/how-ai-impacts-students
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -24,7 +25,7 @@ ai_assist:
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-Usi l'IA per i lavori del corso e va tutto bene, solo che l'esame a libro chiuso sembrava leggere gli appunti di qualcun altro. Oppure un amico dice che non ha scritto niente e ha comunque preso il massimo dei voti, e ti chiedi cosa significhi per te. Oppure hai cominciato a fare più domande a un chatbot di quante ne fai al tuo docente.
+Usi l'IA per i lavori del corso e va tutto bene, solo che l'[[summative-assessment|esame a libro chiuso]] sembrava leggere gli appunti di qualcun altro. Oppure un amico dice che non ha scritto niente e ha comunque preso il massimo dei voti, e ti chiedi cosa significhi per te. Oppure hai cominciato a fare più domande a un chatbot di quante ne fai al tuo docente.
 
 La risposta breve, in una forma che puoi ripetere a un amico: l'IA serve dove ti serve un feedback e non serve dove ti serve pratica. Tieni per te il passaggio di ragionamento, mettiti alla prova senza lo strumento prima di consegnare, e sii trasparente su quello che hai usato. Il resto di questa pagina spiega perché questo regge e come si presenta un martedì sera.
 

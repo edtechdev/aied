@@ -1,14 +1,14 @@
 ---
 title: "教員にはAIに関してどのような能力が必要ですか?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-07T20:33:50-05:00"
+updated: "2026-11-15T15:43:36-05:00"
 connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -58,6 +58,8 @@ FD委員会の1月の枠は1つしかなく、教務担当副学長はそれをA
 ## 自信ではなく実演で評価する
 
 [[self-report-measures|自己申告]]のAIリテラシーは、示された能力と大きく食い違うことがあります。これは、FDを運営する誰にとってもこの文献で最も実用的な警告です。ワークショップの最後の自信調査が測るのは、ワークショップの感触です。
+
+調査は、あまりにうまく予測できてしまうことさえあります。[[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choezら（2026年）]]は、α = 0.997の300項目尺度を用い、因子分析も行わずに、315人の教員のうち314人を能力帯に分類しました。最大の寄与因子は所属機関で、これはスコアが人々に何ができるかではなく、どこで働いているかを追っていたしるしです。
 
 教員の[[agentic-ai|マルチエージェント]]・ワークフローの研究は、尋ねるのではなく試すべき2つ目の理由を加えます。システム思考、教育的信念、[[self-efficacy|自己効力感]]がAI統合の中で相互作用するので、同じセッションでも同じ教科的背景を持つ2人の教員には違う形で届きます。それは差別化されたプログラム編成を支持し、ほとんどの機関が行う画一的なツールのワークショップに反対します。
 

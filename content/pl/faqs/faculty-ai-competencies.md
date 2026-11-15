@@ -6,9 +6,9 @@ weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-updated: "2026-10-29T15:22:02-04:00"
+updated: "2026-11-15T15:44:42-05:00"
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,8 @@ Listę trzeba spisać przed planowaniem sesji. Cztery wymiary plus warstwa dydak
 ## Oceniać wyniki, a nie pewność siebie
 
 [[self-report-measures|Samoopisowe]] kompetencje w zakresie SI mogą znacznie odbiegać od wykazanej zdolności, i to jest najbardziej praktyczne ostrzeżenie w tej literaturze dla każdego, kto prowadzi rozwój kadry. Ankieta pewności siebie na końcu warsztatu mierzy wrażenie, jakie warsztat zostawił.
+
+Ankietę można nawet przewidzieć zbyt dobrze. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez i in. (2026)]] zaklasyfikowali 314 z 315 nauczycieli akademickich do pasm kompetencji na podstawie skali 300 pozycji z α = 0,997, bez analizy czynnikowej, a największy wkład miała przynależność instytucjonalna — znak, że wyniki śledziły, gdzie ludzie pracują, a nie co potrafią.
 
 Badania nad [[agentic-ai|wieloagentowymi]] przepływami pracy nauczycieli dodają drugi powód, by testować, a nie pytać: myślenie systemowe, przekonania dydaktyczne i [[self-efficacy|poczucie własnej skuteczności]] współdziałają w integracji SI, więc ta sama sesja trafia inaczej u dwóch osób z tym samym zapleczem przedmiotowym. To przemawia za zróżnicowanym programem i przeciw uniwersalnemu warsztatowi narzędziowemu, który prowadzi większość instytucji.
 
@@ -103,7 +105,7 @@ Eksperci przedmiotowi sami rozpracują integrację. Wiedza o treści nie przewid
 
 Jedne ramy obejmą wszystkich. Standard sześciu ról istnieje dlatego, że TPACK, SAMR i główne standardy dla edukatorów obejmują nauczycieli K-12 albo wyłącznie wymiar nauczania.
 
-Opór to luka w wiedzy do wypełnienia. Niechęć do ryzyka negatywnie przewidywała zamiar, a praca nad tożsamością opisuje nauczycieli rozumujących z wartości dydaktycznych. Część tego, co wygląda na niechęć, jest stanowiskiem, którego da się bronić, w sprawie nadmiernego polegania studentów.
+Opór to luka w wiedzy do wypełnienia. Niechęć do ryzyka negatywnie przewidywała zamiar, a [[learner-identity|praca nad tożsamością]] opisuje nauczycieli rozumujących z wartości dydaktycznych. Część tego, co wygląda na niechęć, jest stanowiskiem, którego da się bronić, w sprawie nadmiernego polegania studentów.
 
 ## Co się na Tobie odbije
 

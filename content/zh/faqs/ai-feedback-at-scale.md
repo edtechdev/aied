@@ -1,7 +1,7 @@
 ---
 title: "人工智能如何帮助我在大规模教学中给出更好的反馈？"
 created: "2026-09-22T20:06:03-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-15T15:40:01-05:00"
 weight: 70
 type: faq
 technology: [human-in-the-loop-ai]
@@ -10,7 +10,7 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-feedback-at-scale
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -83,6 +83,8 @@ ai_assist:
 
 Gu 等人的优势很小，他们的解读是：真实，但单靠它本身并不具有变革性。教师的脚手架、提示指南与学习单承担了支撑性的工作。
 
+来源可能不如时机重要。在 391 名德国中学生中，教师撰写的反馈与 LLM 反馈在修改、后续写作、任务用时或感受上没有显著差异；贝叶斯后验在后续写作上偏向教师反馈，但仍有四分之一到五分之二的质量落在等效区间内，只有即时 AI 反馈在有用性与动机评分上更高（[[meyer-teacher-ai-feedback-writing-2026|Meyer 等人，2026]]）。如果第一轮评语能在学生还在修改时到达，那么这个时机本身就是设计的一部分，在起作用。
+
 ## 给模型一份量规，再让它把步骤摆出来
 
 按量规生成是其中可自动化的部分。
@@ -151,6 +153,6 @@ Aldino 等人研究的 21 位教师中有 12 位做了进一步的句子层面�
 
 ## 接下来可以去哪里
 
-[[feedback|反馈]]是整个系统的伞状概念：提供、回路、采纳与评估情境。[[ai-feedback-quality|AI 反馈质量]]讲的是什么让生成的评语准确、有用、及时且在教法上站得住，而本页是实践上的中间层，讨论这些部分的哪些组合能在大规模下产生更好的反馈。
+[[feedback|反馈]]是整个系统的伞状概念：提供、回路、采纳与评估情境。[[ai-feedback-quality|AI 反馈质量]]讲的是什么让生成的评语准确、有用、及时且在教法上站得住，而实践问题是，这些部分的哪些组合能在大规模下产生更好的反馈。
 
 关于一旦有 AI 介入、一个分数应当意味着什么的问题，包括构念替代、可验证的过程证据与诚信规则，属于[[redesign-assessment-ai-era|AI 时代的评估重设计]]与[[assessment-validity|评估效度]]，而不在本页。写作教学这一特殊情况，见[[writing-instruction-ai-best-practices|AI 情境下写作教学的最佳实践]]。

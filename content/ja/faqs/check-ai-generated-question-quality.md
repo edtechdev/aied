@@ -1,7 +1,7 @@
 ---
 title: "AIが生成した小テストや試験問題が実際に良いかどうかは、どうやって確認すればよいですか？"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-15T15:43:36-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-05T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 講義ノートから20問を作るよう頼みます。解答キー、解説、難易度のラベル、ブルームの分類のカテゴリーが付いて、仕上がったように見える文書で返ってきます。そこにあなたの名前が載ろうとしています。
 
-短い答えはこうです。生成された問題は候補であって、評価ではありません。1問ずつ自分で解き、その項目が学生に実際に何を求めるのかを確かめ、点数になる前に学生がどう反応するかを見てください。この知識ベースにある2つの最大の研究で、興味深い信号は、生成が機能することではなく、どこで失敗するかです。コース固有のワークフローの内部での反復的な生成は、71の大学クラスにわたって使える多肢選択の試験を生みました（[[assessing-quality-ai-generated-exams-field-2025|Isleyら、2025年]]）。311問の配備済み問題を対象としたデータサイエンスの監査では、モデルの難易度ラベルは、同時に生成したブルームの段階とほぼ完全に一致し（Spearman ρ = 0.90）、学生が実際に得た点数とはρ = 0.06でしか一致しませんでした（[[student-llm-use-ai-question-difficulty-data-science-2026|AnとWang、2026年]]）。ラベルは項目の測定ではなく、プロンプトの記述でした。
+短い答えはこうです。生成された問題は候補であって、評価ではありません。1問ずつ自分で解き、その項目が学生に実際に何を求めるのかを確かめ、点数になる前に学生がどう反応するかを見てください。最大の2つの研究では、興味深い信号は、生成が機能することではなく、どこで失敗するかです。コース固有のワークフローの内部での反復的な生成は、71の大学クラスにわたって使える多肢選択の試験を生みました（[[assessing-quality-ai-generated-exams-field-2025|Isleyら、2025年]]）。311問の配備済み問題を対象としたデータサイエンスの監査では、モデルの難易度ラベルは、同時に生成したブルームの段階とほぼ完全に一致し（Spearman ρ = 0.90）、学生が実際に得た点数とはρ = 0.06でしか一致しませんでした（[[student-llm-use-ai-question-difficulty-data-science-2026|AnとWang、2026年]]）。ラベルは項目の測定ではなく、プロンプトの記述でした。
 
 ## 短いまとめ
 

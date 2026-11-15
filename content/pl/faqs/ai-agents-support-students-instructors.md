@@ -6,9 +6,9 @@ weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-updated: "2026-10-29T15:22:01-04:00"
+updated: "2026-11-15T15:41:35-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Pokaz dostawcy trwa czterdzieści minut. Agent czyta sylabus, pisze szkic quizu 
 
 [[agentic-workflows-education|Przepływy pracy agentowej w edukacji]] wymieniają cztery powracające zdolności: refleksję, planowanie, użycie narzędzi i współpracę wielu agentów. Każda z nich dodaje koszt obok możliwości, w [[explainable-ai|wyjaśnialności]], koordynacji, [[trust-calibration|zaufaniu]], opóźnieniu i nadzorze.
 
-Role po stronie studenta rozciągają się od [[adaptive-learning|adaptacyjnej]] tutoryzacji i planowania nauki, przez [[formative-assessment|kształtującą]] informację zwrotną, prowadzone [[problem-solving|rozwiązywanie problemów]] i generowanie ćwiczeń, po rekomendacje dotyczące wiedzy wstępnej i refleksyjne [[metacognition|metapoznawcze]] [[prompt-engineering|promptowanie]]. Role po stronie prowadzącego obejmują tworzenie materiałów, [[automated-question-generation|generowanie pytań]] i ich walidację, triaż informacji zwrotnej, [[learning-analytics|analitykę]] kursu, projektowanie dydaktyczne, wyszukiwanie zasobów i orkiestrację wyspecjalizowanych podagentów.
+Role po stronie studenta rozciągają się od [[adaptive-learning|adaptacyjnej]] tutoryzacji i planowania nauki, przez [[formative-assessment|kształtującą]] informację zwrotną, prowadzone [[problem-solving|rozwiązywanie problemów]] i generowanie ćwiczeń, po rekomendacje dotyczące wiedzy wstępnej i refleksyjne [[metacognition|metapoznawcze]] [[prompt-engineering|promptowanie]]. Role po stronie prowadzącego obejmują tworzenie materiałów, [[automated-question-generation|generowanie pytań]] i ich walidację, triaż informacji zwrotnej, [[learning-analytics|analitykę]] kursu, [[learning-design|projektowanie dydaktyczne]], wyszukiwanie zasobów i orkiestrację wyspecjalizowanych podagentów.
 
 Dwie z tych ról są bezpieczniejsze na wczesnym etapie, bo obie dają produkt, który człowiek czyta przed studentami: generator pytań połączony z walidatorem oraz szkic, który nauczyciel redaguje.
 

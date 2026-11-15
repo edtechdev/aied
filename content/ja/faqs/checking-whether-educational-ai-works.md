@@ -1,8 +1,8 @@
 ---
 title: "教育 AI が正しく機能していると、どうすれば分かるか——高得点を取っているだけではないと？"
 created: "2026-10-10T22:54:48-04:00"
-updated: "2026-11-07T20:30:41-05:00"
-connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
+updated: "2026-11-15T15:43:36-05:00"
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
 foundations: [ai-education]
@@ -16,7 +16,7 @@ confidence: high
 methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:

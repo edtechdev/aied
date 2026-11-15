@@ -1,14 +1,14 @@
 ---
 title: "Come dovrebbe essere progettata l'IA nell'esperienza di apprendimento?"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-01T11:34:42-05:00"
+updated: "2026-11-15T15:40:57-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 contributors: [editor]
 translation_of: "faqs/designing-ai-into-learning"
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -27,7 +27,7 @@ ai_assist:
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-Lo schema del modulo ha una riga che dice "attività con IA" e nessuno sa dire cosa sostituisce. Oppure un docente ha chiesto di aggiungere un chatbot a un corso che già funziona, e il tuo compito è collocarlo senza rompere la parte che faceva funzionare il corso.
+Lo schema del modulo ha una riga che dice "attività con IA" e nessuno sa dire cosa sostituisce. Oppure un docente ha chiesto di aggiungere un [[conversational-ai|chatbot]] a un corso che già funziona, e il tuo compito è collocarlo senza rompere la parte che faceva funzionare il corso.
 
 Parti dall'obiettivo di apprendimento e dall'attività che lo produce. Lo stesso modello può essere un'impalcatura, un partner [[socratic-method|socratico]], un lettore di bozze, una [[simulation|simulazione]] o una macchina di risposte, e quale delle cinque ottieni dipende dal progetto, non dal modello. Nomina la modalità che stai costruendo, metti il tentativo dello studente prima che compaia qualsiasi aiuto, e mantieni almeno un percorso attraverso il corso che funzioni senza lo strumento.
 
@@ -75,7 +75,7 @@ Ne seguono due lezioni per il progetto dell'IA. Metti lo strumento dove la seque
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] tratta il tempo come un'impalcatura progettata e non come un tratto dello studente: un corso a ritmo autonomo prevede una dotazione settimanale di circa 100 minuti con un obiettivo vicino ai 20 minuti al giorno, promemoria consapevoli del tempo, una dashboard dei progressi e un breve controllo di fine sottocapitolo di 3 a 12 domande. La linea di base a cui questo progetto risponde è netta: quasi il 25 per cento di oltre 600 studenti inizia solo nell'ultima settimana e il 95 per cento di quel gruppo fallisce.
 
-Leggilo come uno spunto di progetto e non come un effetto dimostrato. L'articolo confronta un corso successivo con uno precedente invece di condurre una prova controllata, quindi il miglioramento non è separabile dal cambio di coorte e di materia, e promemoria abbastanza forti da spostare i tempi di studio sono anche una questione di [[privacy|privacy dei dati]] a cui bisogna rispondere nel programma del corso.
+Leggilo come uno spunto di progetto e non come un effetto dimostrato. L'articolo confronta un corso successivo con uno precedente invece di condurre una [[rct|prova controllata]], quindi il miglioramento non è separabile dal cambio di coorte e di materia, e promemoria abbastanza forti da spostare i tempi di studio sono anche una questione di [[privacy|privacy dei dati]] a cui bisogna rispondere nel programma del corso.
 
 ## Decidi cosa trattenere, e quando ripristinarlo
 
@@ -103,7 +103,7 @@ L'efficienza è l'obiettivo della riprogettazione. Redigere esiti e rubriche con
 
 **"Non abbiamo tempo di ri-sequenziare un corso intero."** Allora ri-sequenzia un modulo e una valutazione. Lo snodo trattenere-poi-amplificare è un checkpoint, e la sequenza pensa prima sono tre istruzioni su una dispensa.
 
-**"La nostra funzione di IA ha già i guardrail."** I guardrail vincolano ciò che il modello dice. Non decidono se lo studente ha tentato prima, se il supporto si ritira o se esiste un percorso senza IA. Quelle sono decisioni di progetto nel tuo corso, non impostazioni nel prodotto.
+**"La nostra funzione di IA ha già i [[guardrails|guardrail]]."** I guardrail vincolano ciò che il modello dice. Non decidono se lo studente ha tentato prima, se il supporto si ritira o se esiste un percorso senza IA. Quelle sono decisioni di progetto nel tuo corso, non impostazioni nel prodotto.
 
 ## Cosa fare questa settimana
 

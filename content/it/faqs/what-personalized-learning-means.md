@@ -1,7 +1,7 @@
 ---
 title: "Cosa significa davvero apprendimento personalizzato, e quando aiuta?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:40:36-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
@@ -28,7 +28,7 @@ ai_assist:
 
 La piattaforma promette un'esperienza personalizzata per ogni studente. Può riordinare le domande di pratica, riscrivere una spiegazione intorno all'interesse di uno studente per il calcio, ricordare la conversazione della settimana scorsa o scegliere cosa studierà dopo lo studente. Tutte e quattro queste cose vengono chiamate personalizzazione, e solo una è stata testata in una forma anche solo simile.
 
-Ecco la risposta breve: la personalizzazione indica un cambiamento in qualche parte dell'esperienza di apprendimento, e il suo valore dipende da tre cose: cosa viene adattato, quale evidenza guida l'adattamento e se il cambiamento migliora l'apprendimento che intendi. Un esempio familiare o una conversazione reattiva possono sembrare personali senza insegnare nulla. Un adattamento efficace può essere invisibile. Il risultato sperimentale più chiaro in questa base di conoscenza è ristretto: in un corso di certificazione Python di cinque mesi in dieci scuole superiori di Taipei, gli studenti randomizzati a un sequenziamento adattivo dei problemi hanno ottenuto circa 0,150 deviazioni standard in più in un [[summative-assessment|esame finale]] in presenza e senza assistenza rispetto agli studenti con una sequenza fissa e identico accesso al [[conversational-ai|chatbot]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). Questo sostiene il sequenziamento in condizioni specificate. Non valida tutto ciò che viene venduto come personalizzato.
+Ecco la risposta breve: la personalizzazione indica un cambiamento in qualche parte dell'esperienza di apprendimento, e il suo valore dipende da tre cose: cosa viene adattato, quale evidenza guida l'adattamento e se il cambiamento migliora l'apprendimento che intendi. Un esempio familiare o una conversazione reattiva possono sembrare personali senza insegnare nulla. Un adattamento efficace può essere invisibile. Il risultato sperimentale più chiaro in questa letteratura è ristretto: in un corso di certificazione Python di cinque mesi in dieci scuole superiori di Taipei, gli studenti randomizzati a un sequenziamento adattivo dei problemi hanno ottenuto circa 0,150 deviazioni standard in più in un [[summative-assessment|esame finale]] in presenza e senza assistenza rispetto agli studenti con una sequenza fissa e identico accesso al [[conversational-ai|chatbot]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). Questo sostiene il sequenziamento in condizioni specificate. Non valida tutto ciò che viene venduto come personalizzato.
 
 ## La versione breve
 

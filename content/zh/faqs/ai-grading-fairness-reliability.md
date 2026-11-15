@@ -1,7 +1,7 @@
 ---
 title: "我可以用 AI 公平、可靠地给学生作业评分吗？"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-15T15:39:17-05:00"
 type: faq
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -46,11 +46,11 @@ ai_assist:
 
 有三种安排都被叫作“AI 评分”，它们承担的义务并不相同。
 
-**反馈助手**为你起草评语，或标出可能的遗漏，由你接受、改写或丢弃。风险被限制在评语质量上，而且每一条到你学生手上之前你都读过。**第二阅卷人**提出分项分数，或标出分歧，用来组织你自己的评阅。它的错误必须有用，而不能只是错：一个把你拉回某份你本来会草草批过的作业的标记，值得拥有。**主评分者**产出的分数会成为记录成绩。这正是本知识库的证据在狭窄的、经本地验证的案例之外并不支持的安排。
+**反馈助手**为你起草评语，或标出可能的遗漏，由你接受、改写或丢弃。风险被限制在评语质量上，而且每一条到你学生手上之前你都读过。**第二阅卷人**提出分项分数，或标出分歧，用来组织你自己的评阅。它的错误必须有用，而不能只是错：一个把你拉回某份你本来会草草批过的作业的标记，值得拥有。**主评分者**产出的分数会成为记录成绩。这正是证据在狭窄的、经本地验证的案例之外并不支持的安排。
 
 选能解决你实际约束的最低一档。如果你的评阅负担来自核对一份固定的答案键，普通的确定性评分比[[llm|语言模型]]更透明、更可审计，而那项药学研究提示，LLM 在客观题上的优势有一部分是评分时把正确答案交给它造成的。把模型留给需要解释的工作，然后去核查那份解释。
 
-[[automated-assessment|自动化评估]]覆盖评分、审核与反馈生成的整套机制。本页讲的是它底下那个判断问题。
+[[automated-assessment|自动化评估]]覆盖评分、审核与反馈生成的整套机制。它底下那个判断问题是，这套机制里是否有任何部分足够公平、可靠，可以记录成绩。
 
 ## 证据究竟说明了什么
 
@@ -110,6 +110,6 @@ ai_assist:
 
 ## 接下来可以去哪里
 
-[[assessment-validity|评估效度]]是决定这些问题的概念：证据是否支持你想做的推断。[[automated-assessment]] 覆盖这项技术及其在各题型上测得的性能，而 [[ai-feedback-at-scale]] 处理邻近的问题：生成的评语，以及学生是否会照着做。
+[[assessment-validity|评估效度]]是决定这些问题的概念：证据是否支持你想做的推断。[[automated-assessment|自动化评估]] 覆盖这项技术及其在各题型上测得的性能，而 [[ai-feedback-at-scale]] 处理邻近的问题：生成的评语，以及学生是否会照着做。
 
 关于学生已经在用 AI 时一个分数应当代表什么，包括构念替代与可验证的过程证据，见[[redesign-assessment-ai-era|AI 时代的评估重设计]]。关于检测能否替代一个站得住的任务设计，见[[should-we-use-ai-detectors|是否该使用 AI 检测工具]]。关于这一切底下那个评价问题，见[[checking-whether-educational-ai-works|检验一个教育 AI 是否有效]]。

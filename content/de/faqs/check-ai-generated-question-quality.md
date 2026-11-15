@@ -1,7 +1,7 @@
 ---
 title: "Wie prüfe ich, ob KI-generierte Quiz- und Prüfungsfragen wirklich gut sind?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-15T15:40:02-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-05T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Sie bitten um zwanzig Fragen aus Ihren Vorlesungsnotizen. Zurück kommen sie mit Lösungsschlüsseln, Erklärungen, Schwierigkeitslabels und Bloom-Taxonomie-Kategorien, in einem formatierten Dokument, das fertig aussieht. Ihr Name kommt bald darauf.
 
-Kurze Antwort für eine Kollegin: generierte Fragen sind Kandidaten, kein Assessment. Lösen Sie jede selbst, prüfen Sie, was ein Item von einer studierenden Person tatsächlich verlangt, und finden Sie heraus, wie Studierende darauf reagieren, bevor es zählt. In den beiden größten Studien dieser Wissensbasis ist das interessante Signal nicht, dass Generierung funktioniert, sondern wo sie scheitert. Iterative Generierung innerhalb eines kursspezifischen Workflows produzierte brauchbare Multiple-Choice-Prüfungen in 71 College-Klassen ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). In einem Data-Science-Audit von 311 eingesetzten Fragen folgten die Schwierigkeitslabels des Modells den Bloom-Stufen, die es daneben erzeugt hatte, nahezu perfekt (Spearman ρ = 0.90), während sie dem, was Studierende tatsächlich erreichten, mit ρ = 0.06 folgten ([[student-llm-use-ai-question-difficulty-data-science-2026|An und Wang, 2026]]). Das Label war eine Beschreibung des Prompts, keine Messung des Items.
+Kurze Antwort für eine Kollegin: generierte Fragen sind Kandidaten, kein Assessment. Lösen Sie jede selbst, prüfen Sie, was ein Item von einer studierenden Person tatsächlich verlangt, und finden Sie heraus, wie Studierende darauf reagieren, bevor es zählt. In den beiden größten Studien ist das interessante Signal nicht, dass Generierung funktioniert, sondern wo sie scheitert. Iterative Generierung innerhalb eines kursspezifischen Workflows produzierte brauchbare Multiple-Choice-Prüfungen in 71 College-Klassen ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). In einem Data-Science-Audit von 311 eingesetzten Fragen folgten die Schwierigkeitslabels des Modells den Bloom-Stufen, die es daneben erzeugt hatte, nahezu perfekt (Spearman ρ = 0.90), während sie dem, was Studierende tatsächlich erreichten, mit ρ = 0.06 folgten ([[student-llm-use-ai-question-difficulty-data-science-2026|An und Wang, 2026]]). Das Label war eine Beschreibung des Prompts, keine Messung des Items.
 
 ## Die Kurzfassung
 
@@ -120,6 +120,6 @@ Für Studierende, die eigene Übungsfragen generieren, gilt dieselbe Regel auf i
 
 ## Wohin als Nächstes
 
-[[automated-question-generation]] ist die Konzeptseite für Generierungsmethoden und ihre gemessene Qualität, und [[educational-measurement]] deckt Itemanalyse, Reliabilität und die Psychometrie ab, auf die ein Pilot nur zeigt. Beide stehen unter [[assessment-validity|Assessmentvalidität]], dem Maßstab, dem der ganze Zyklus dient.
+[[automated-question-generation|Automatisierte Fragengenerierung]] ist die Konzeptseite für Generierungsmethoden und ihre gemessene Qualität, und [[educational-measurement|Bildungsmessung]] deckt Itemanalyse, Reliabilität und die Psychometrie ab, auf die ein Pilot nur zeigt. Beide stehen unter [[assessment-validity|Assessmentvalidität]], dem Maßstab, dem der ganze Zyklus dient.
 
 Die Urteilsseite desselben Problems gehört zu [[ai-grading-fairness-reliability|KI-Benotung]], denn ein gutes Item, schlecht benotet, ist nicht besser als ein schlechtes Item, gut benotet. Die weitere Frage, was eine Note bedeuten soll, wenn Studierende KI nutzen können, behandelt [[redesign-assessment-ai-era|Assessment im KI-Zeitalter neu gestalten]].

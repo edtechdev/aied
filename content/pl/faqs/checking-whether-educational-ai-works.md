@@ -1,7 +1,7 @@
 ---
 title: "Skąd wiadomo, że edukacyjna SI działa poprawnie, a nie tylko dobrze ocenia?"
 created: "2026-10-02T08:07:09-04:00"
-connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
 foundations: [ai-education]
@@ -14,9 +14,9 @@ discipline: [writing education, math education]
 confidence: high
 methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
-updated: "2026-10-29T15:22:01-04:00"
+updated: "2026-11-15T15:44:00-05:00"
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -58,7 +58,7 @@ Asystent kursu Linear Control Systems raportuje to we właściwy sposób. Jego n
 
 ## Oceniać każdy wynik osobno
 
-W projekcie WrAFT dostrojony model osiągnął wynik zgodności **0,84** z ludzkimi oceniającymi na 360 odłożonych esejach TOEFL. To mocny wynik w ocenianiu. Model z tego samego projektu trenowany do pisania informacji zwrotnej produkował tekst ucięty i nie do sparsowania, podczas gdy samo promptowanie innego modelu dawało informację zwrotną, którą nauczyciele preferowali ([[wraft-automated-writing-evaluation-argumentative-2026|projekt WrAFT dotyczący automatycznej oceny esejów argumentacyjnych]]).
+W projekcie WrAFT dostrojony model osiągnął wynik zgodności **0,84** z ludzkimi oceniającymi na 360 odłożonych esejach TOEFL. To mocny wynik w ocenianiu. Model z tego samego projektu trenowany do pisania informacji zwrotnej produkował tekst ucięty i nie do sparsowania, podczas gdy samo [[prompt-engineering|promptowanie]] innego modelu dawało informację zwrotną, którą nauczyciele preferowali ([[wraft-automated-writing-evaluation-argumentative-2026|projekt WrAFT dotyczący automatycznej oceny esejów argumentacyjnych]]).
 
 Ta baza wiedzy niesie tę samą porażkę w drugiej formie: wdrożenie, w którym moduł oceniania wypadł dobrze, a informacja zwrotna przychodziła ucięta w połowie zdania i nieczytelna. Nic w liczbie z nagłówka o tym nie mówiło.
 
@@ -84,13 +84,13 @@ Wersja praktyczna: wziąć próbkę około pięćdziesięciu wyników, zlecić i
 
 Najczystsze rozwiązanie to trenować model na tej samej wielkości, którą zamierza się mierzyć. Dostrojony model trenowano do odtwarzania właściwości statystycznych pytań testowych: jak trudna jest każda pozycja, jak dobrze oddziela silniejszych od słabszych studentów. Nauczył się tych wzorców, zamiast dostać je wprost ([[multimodal-item-parameter-estimation-2026|multimodalne szacowanie parametrów pozycji]]). Ponieważ celem była właściwość samego testu, ewaluacja mogła dotyczyć tej właściwości, a nie brzmienia.
 
-Raportować zarówno kolejne etapy, jak i punkt końcowy. Symulator pisania SWIM opublikował wyniki każdego etapu obok siebie: promptowanie z rubryką **0,577**, dostrajanie **0,474 ± 0,023**, uczenie ze wzmocnieniem **0,618 ± 0,005** ([[swim-student-writing-simulation-2026|symulacja pisania studenta SWIM]]). Z tej tabeli czytelnik widzi, czy trening cokolwiek dał. Pojedyncza końcowa liczba tego nie powie i ukrywa etap, na którym dostrojony model wypadł gorzej niż prompt.
+Raportować zarówno kolejne etapy, jak i punkt końcowy. [[simulation|Symulator]] pisania SWIM opublikował wyniki każdego etapu obok siebie: promptowanie z rubryką **0,577**, dostrajanie **0,474 ± 0,023**, [[reinforcement-learning|uczenie ze wzmocnieniem]] **0,618 ± 0,005** ([[swim-student-writing-simulation-2026|symulacja pisania studenta SWIM]]). Z tej tabeli czytelnik widzi, czy trening cokolwiek dał. Pojedyncza końcowa liczba tego nie powie i ukrywa etap, na którym dostrojony model wypadł gorzej niż prompt.
 
 ## Porównywać z czymś spoza własnego projektu
 
 Najpierw punkt odniesienia, także tani. Model asystenta kursu bez ugruntowania wypadł poniżej zwykłego wyszukiwania po słowach kluczowych, a to ten rodzaj wyniku, który zmienia plan rozwoju i kosztuje dzień, żeby go znaleźć.
 
-Zewnętrzny benchmark mówi potem, czy ta liczba jest w ogóle coś warta. W benchmarku pedagogicznym CDPK EduQwen osiągnął **96,52%** wobec **90,55%** Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026|EduQwen i uczenie ze wzmocnieniem pedagogicznym]]). Pedagogy Benchmark, zbudowany z prawdziwych egzaminów doskonalenia zawodowego nauczycieli i obejmujący **97 modeli**, wykazał trafność od **28% do 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre i in., 2025]]).
+Zewnętrzny benchmark mówi potem, czy ta liczba jest w ogóle coś warta. W [[pedagogy|benchmarku pedagogicznym]] CDPK EduQwen osiągnął **96,52%** wobec **90,55%** Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026|EduQwen i uczenie ze wzmocnieniem pedagogicznym]]). Pedagogy Benchmark, zbudowany z prawdziwych egzaminów doskonalenia zawodowego [[teacher-role|nauczycieli]] i obejmujący **97 modeli**, wykazał trafność od **28% do 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre i in., 2025]]).
 
 W zadaniu o nauczaniu modele rozciągały się od słabych do dobrych, więc wynik benchmarku umieszcza system gdzieś wewnątrz szerokiego zakresu.
 
@@ -102,7 +102,7 @@ Sprawdzenie trzeba przeprowadzić na pełnych rozmowach i celowo napisać tury t
 
 ## Sprawdzić symulowanego studenta, zanim zaufa się jego osądom
 
-Generowanie symulowanych studentów zamiast rekrutowania prawdziwych czyni ewaluację znacznie tańszą. Symulowany student jest też narzędziem pomiarowym i może być błędny tak, jak mylą się narzędzia: zbyt ugodowy, zbyt płynny, zbyt szybki w przyjmowaniu podpowiedzi.
+Generowanie [[simulating-students|symulowanych studentów]] zamiast rekrutowania prawdziwych czyni ewaluację znacznie tańszą. Symulowany student jest też narzędziem pomiarowym i może być błędny tak, jak mylą się narzędzia: zbyt ugodowy, zbyt płynny, zbyt szybki w przyjmowaniu podpowiedzi.
 
 Najbardziej bezpośredni test w bazie wiedzy porównał symulowanych i promptowanych studentów z **382 odłożonymi dialogami** z największego publicznego zbioru prawdziwych dialogów matematycznych studenta z tutorem, przy siedmiu miarach obejmujących język, zachowanie i myślenie ([[simulated-students-tutoring-dialogues-2026|symulowani studenci w dialogach tutoringowych]]). Inne prace naciskają na realizm z różnych stron: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] trenuje modele, żeby zarówno działały, jak i myślały jak studenci, a profile uwzględniające historię uzależniają symulację od przeszłości studenta, a nie od stałej persony ([[history-aware-student-simulation|symulacja studenta świadoma historii]]).
 

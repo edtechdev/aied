@@ -1,13 +1,13 @@
 ---
 title: "教育者はAI関連の介入を評価するために、どのような測定方法や研究方法を用いることができるでしょうか。"
 created: "2026-10-10T23:04:26-04:00"
-updated: "2026-11-07T20:33:50-05:00"
+updated: "2026-11-15T15:43:36-05:00"
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/evaluating-ai-interventions-methods
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]

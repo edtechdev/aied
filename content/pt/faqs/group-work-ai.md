@@ -1,7 +1,7 @@
 ---
 title: "Como devo lidar com a IA em tarefas em grupo e colaborativas?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:37:46-05:00"
 connected_faqs: [course-ai-policy, asynchronous-online-courses-ai]
 weight: 60
 type: faq
@@ -13,7 +13,7 @@ research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
 translation_of: faqs/group-work-ai
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -93,7 +93,7 @@ Pareie a nota do grupo com um componente individual: uma [[oral-assessment|defes
 
 Suas limitações viajam junto com a citação: uma única base de dados, apenas artigos de periódico, nenhuma atenção a [[ethics|ética]] ou privacidade, os dois primeiros anos da tecnologia e nenhum instrumento de risco de viés aplicado. Leia "catalisadores" como descrição da prática observada, não como resultado medido.
 
-A detecção é o instrumento errado para separar contribuições individuais: nenhum destes seis estudos testa detectores em contextos de grupo, e os problemas da detecção no nível individual estão documentados em outro lugar desta base de conhecimento. A contenção precisa ser interpretada antes de ser corrigida. Chen e Zou advertem que um grupo que recusa a IA pode estar evitando algo desconhecido em vez de exercer [[self-regulated-learning|autorregulação]] deliberada, e as duas situações pedem respostas diferentes: uma é um problema de ensino, a outra é uma posição refletida que você pode avaliar.
+A detecção é o instrumento errado para separar contribuições individuais: nenhum destes seis estudos testa detectores em contextos de grupo, e os problemas da detecção no nível individual estão bem documentados. A contenção precisa ser interpretada antes de ser corrigida. Chen e Zou advertem que um grupo que recusa a IA pode estar evitando algo desconhecido em vez de exercer [[self-regulated-learning|autorregulação]] deliberada, e as duas situações pedem respostas diferentes: uma é um problema de ensino, a outra é uma posição refletida que você pode avaliar.
 
 Colegas simulados também não resolvem a questão. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] ajustou agentes [[llm|LLM]] com diálogo real de participantes (adaptadores [[llm-training-and-fine-tuning|LoRA]]/QLoRA em LLaMA 3.2-3B) para modelar 48 participantes ao longo de 3.824 turnos e seis códigos temáticos, e então comparou o discurso real e o simulado com [[network-analysis|Análise de Rede Epistêmica]]. A rede simulada alcançou uma distância de 0,17 da rede empírica, abaixo do limiar de 0,30, com valor de p de permutação de 0,65, estatisticamente indistinguível, embora tenha enfatizado ligeiramente demais as ligações de Restrições Técnicas e Design e sub-representado Parâmetros de Dados e Desempenho. É um artigo de arcabouço, com confiança média, e sustenta uma afirmação: agentes específicos de participantes conseguem reproduzir discurso colaborativo realista. Não mostra que estudantes aprendem mais com colegas simulados.
 
@@ -148,4 +148,4 @@ A detecção consegue lhe dizer quem fez o quê. Nenhum destes estudos a testa e
 
 ## Para onde ir em seguida
 
-[[group-work]] e [[collaborative-learning]] trazem a evidência de base sobre avaliação em grupo e sobre o que torna a colaboração produtiva. [[course-ai-policy]] cobre a redação no nível do curso que os estudantes de fato leem, [[redesign-assessment-ai-era]] cobre o redesenho da avaliação dentro do qual isso se insere, e [[academic-integrity]] é onde o lado da má conduta é tratado.
+[[group-work|trabalho em grupo]] e [[collaborative-learning|aprendizagem colaborativa]] trazem a evidência de base sobre avaliação em grupo e sobre o que torna a colaboração produtiva. [[course-ai-policy]] cobre a redação no nível do curso que os estudantes de fato leem, [[redesign-assessment-ai-era]] cobre o redesenho da avaliação dentro do qual isso se insere, e [[academic-integrity|integridade acadêmica]] é onde o lado da má conduta é tratado.

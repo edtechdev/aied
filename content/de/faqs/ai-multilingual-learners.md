@@ -1,7 +1,7 @@
 ---
 title: "Wie kann KI mehrsprachige Lernende unterstützen, ohne ihr Wissen falsch zu beurteilen oder ihre Stimme zu löschen?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-15T15:39:22-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
@@ -51,11 +51,11 @@ Schreiben Sie die Entscheidung dort auf, wo Studierende sie lesen können. Wenn 
 
 ## Was die Forschung stützt und was nicht
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez und Arabadzhy (2026)]] werteten 24 empirische Studien zu generativen [[conversational-ai|Chatbots]] im [[language-learning|Sprachenlernen]] aus. Ihr Beitrag ist taxonomisch: Jede für prägenerative Chatbots katalogisierte Teilaffordanz besteht fort, und drei sind neu, darunter **Translanguaging**, die bewusste Bewegung zwischen Sprachen als Teil des Lernens. Das ist eine Landkarte berichteter Nutzungen und Erfahrungen und keine gepoolte Schätzung, und der Korpus ist geografisch konzentriert, wobei China, Iran, Taiwan und die Türkei 19 der 24 Studien stellen und alle bis auf ein Set in formalen Institutionen liegen. Stützung dafür, sprachübergreifende Erklärung als Lernbewegung zu nutzen, ist keine Stützung dafür, jede Aufgabe zu übersetzen.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez und Arabadzhy (2026)]] werteten 24 empirische Studien zu generativen [[conversational-ai|Chatbots]] im [[language-learning|Sprachenlernen]] aus. Ihr Beitrag ist taxonomisch: Jede für prägenerative Chatbots katalogisierte Teilaffordanz besteht fort, und drei sind neu, darunter **Translanguaging**, die bewusste Bewegung zwischen Sprachen als Teil des Lernens. Das ist eine Landkarte berichteter Nutzungen und Erfahrungen und keine gepoolte Schätzung, und die Studien sind geografisch konzentriert, wobei China, Iran, Taiwan und die Türkei 19 der 24 Studien stellen und alle bis auf ein Set in formalen Institutionen liegen. Stützung dafür, sprachübergreifende Erklärung als Lernbewegung zu nutzen, ist keine Stützung dafür, jede Aufgabe zu übersetzen.
 
 Das Assessment ist der Ort, an dem die Evidenz schärfer wird und die Einsätze steigen. [[ai-scoring-language-bias-physics|Feser und Tschisgale (2026)]] verglichen elf automatisierte Bewertungsansätze mit menschlichen Expertenbewertungen für Physikerklärungen von 116 Schülerinnen und Schülern der Sekundarstufe und fanden eine systematische Unterschätzung des konzeptuellen Verständnisses bei sprachlich schwächeren Erklärungen, in jedem einzelnen Ansatz. Das Design isoliert den Mechanismus: derselbe konzeptuelle Inhalt, in schwächerer Prosa ausgedrückt, wurde niedriger benotet. Das ist keine Aussage über die mehrsprachigen Studierenden eines bestimmten Landes, und es ist genau das Muster, das die Übereinstimmung der Gesamtbewertung zu einem schlechten Diagnostikum macht. Eine Bewertung kann im Durchschnitt mit menschlichen Bewertenden übereinstimmen und sich dabei in eine konsistente Richtung irren, und zwar für die Studierenden, deren Sprache sich noch entwickelt.
 
-Die Synthese [[multilingual-learning]] beschreibt Forschung zum Schreibscreening, die mehrsprachige prädiktive Verzerrungsmuster zeigt, die menschlichen Bewertungsverzerrungen ähneln. Lesen Sie die drei Befunde zusammen, und die operative Lehre ist eng: Weder „KI entfernt menschliche Verzerrung" noch „KI fügt sprachliche Verzerrung hinzu" ist eine brauchbare Regel. Was Sie brauchen, ist eine Prüfung der Aufgabe, der Population und der Sprache an dem Punkt, an dem aus einer Punktzahl eine Note wird.
+Die Synthese [[multilingual-learning|Mehrsprachiges Lernen]] beschreibt Forschung zum Schreibscreening, die mehrsprachige prädiktive Verzerrungsmuster zeigt, die menschlichen Bewertungsverzerrungen ähneln. Lesen Sie die drei Befunde zusammen, und die operative Lehre ist eng: Weder „KI entfernt menschliche Verzerrung" noch „KI fügt sprachliche Verzerrung hinzu" ist eine brauchbare Regel. Was Sie brauchen, ist eine Prüfung der Aufgabe, der Population und der Sprache an dem Punkt, an dem aus einer Punktzahl eine Note wird.
 
 ## Geben Sie dem Werkzeug eine spezifische unterstützende Rolle
 
@@ -73,7 +73,7 @@ Das sind Nutzungen zum Pilotieren, keine validierten Interventionen. Ein Werkzeu
 
 ## Schützen Sie die Bedeutung und die Stimme der studierenden Person
 
-Bitten Sie um gezielte Hilfe, bevor Sie um eine Umschreibung bitten, denn bei einer vollständigen Umschreibung verlässt das Denken der studierenden Person die Seite. Eine Bitte, die es wert ist, gelehrt zu werden: „Benennen Sie zwei Stellen, an denen meine Bedeutung unklar ist. Erklären Sie das Problem und bieten Sie Optionen an. Behalten Sie meine Beispiele und fügen Sie keine Behauptungen hinzu." Die studierende Person wählt dann.
+Bitten Sie um gezielte Hilfe, bevor Sie um eine Umschreibung bitten, denn bei einer vollständigen Umschreibung verlässt das Denken der studierenden Person den Entwurf. Eine Bitte, die es wert ist, gelehrt zu werden: „Benennen Sie zwei Stellen, an denen meine Bedeutung unklar ist. Erklären Sie das Problem und bieten Sie Optionen an. Behalten Sie meine Beispiele und fügen Sie keine Behauptungen hinzu." Die studierende Person wählt dann.
 
 Eine Sequenz, die die Arbeit bei der studierenden Person lässt:
 
@@ -120,6 +120,6 @@ Bieten Sie brauchbare Alternativen. Studierende brauchen einen klaren Weg zu men
 
 ## Wohin als Nächstes
 
-[[multilingual-learning]] ist die Konzeptseite für Sprache, Translanguaging und Assessment in KI-vermitteltem Unterricht, und [[assessment-validity|Assessmentvalidität]] ist der Maßstab dafür, ob eine Punktzahl die Inferenz stützt, die Sie ziehen. [[differential-effects-across-learner-groups]] deckt ab, wie Sie nach Teilgruppenmustern suchen, statt sie anzunehmen.
+[[multilingual-learning|Mehrsprachiges Lernen]] ist die Konzeptseite für Sprache, Translanguaging und Assessment in KI-vermitteltem Unterricht, und [[assessment-validity|Assessmentvalidität]] ist der Maßstab dafür, ob eine Punktzahl die Inferenz stützt, die Sie ziehen. [[differential-effects-across-learner-groups|Differentielle Effekte zwischen Lerngruppen]] deckt ab, wie Sie nach Teilgruppenmustern suchen, statt sie anzunehmen.
 
 Für den Fall der Schreibdidaktik, in dem die Sprache das Konstrukt ist, siehe [[writing-instruction-ai-best-practices|Best Practices für Schreibdidaktik im Kontext von KI]]. Ob automatisierter Bewertung in Ihrem Setting überhaupt zu trauen ist, behandeln [[ai-grading-fairness-reliability|KI-Benotung]] und [[checking-whether-educational-ai-works|ob eine Bildungs-KI funktioniert]].

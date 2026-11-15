@@ -1,7 +1,7 @@
 ---
 title: "Posso usare l'IA per valutare il lavoro degli studenti in modo equo e affidabile?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:40:11-05:00"
 type: faq
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
@@ -46,11 +46,11 @@ Ecco la risposta breve: la valutazione con l'IA si guadagna un posto come assist
 
 Tre assetti vengono chiamati «valutazione con l'IA» e comportano obblighi diversi.
 
-Un **assistente al feedback** abbozza commenti o segnala possibili omissioni che puoi accettare, riscrivere o scartare. Il rischio resta confinato alla qualità dei commenti, e tu leggi tutto prima che arrivi a uno studente. Un **secondo lettore** propone punteggi per criterio o segnala disaccordi per strutturare la tua correzione. I suoi errori devono essere utili e non solo sbagliati: una segnalazione che ti riporta su un elaborato che avresti corretto distrattamente vale la pena. Un **valutatore principale** produce punteggi che diventano voti registrati. È l'assetto che l'evidenza di questa base di conoscenza non sostiene al di fuori di casi ristretti e validati localmente.
+Un **assistente al feedback** abbozza commenti o segnala possibili omissioni che puoi accettare, riscrivere o scartare. Il rischio resta confinato alla qualità dei commenti, e tu leggi tutto prima che arrivi a uno studente. Un **secondo lettore** propone punteggi per criterio o segnala disaccordi per strutturare la tua correzione. I suoi errori devono essere utili e non solo sbagliati: una segnalazione che ti riporta su un elaborato che avresti corretto distrattamente vale la pena. Un **valutatore principale** produce punteggi che diventano voti registrati. È l'assetto che l'evidenza non sostiene al di fuori di casi ristretti e validati localmente.
 
 Scegli il gradino più basso che risponde al tuo vincolo reale. Se il carico di correzione deriva dal controllo di una chiave di risposta fissa, la normale correzione deterministica è più trasparente e verificabile di un [[llm|modello linguistico]], e lo studio di farmacia suggerisce che il vantaggio dell'LLM sugli item oggettivi era in parte un artefatto dell'avergli fornito le risposte corrette durante la valutazione. Riserva il modello ai lavori che richiedono interpretazione, e poi verifica quell'interpretazione.
 
-[[automated-assessment|La valutazione automatizzata]] copre il macchinario più ampio di attribuzione dei punteggi, moderazione e generazione di feedback. Questa pagina è la questione di giudizio che sta sotto.
+[[automated-assessment|La valutazione automatizzata]] copre il macchinario più ampio di attribuzione dei punteggi, moderazione e generazione di feedback. La questione di giudizio che sta sotto è se quel macchinario sia abbastanza equo e affidabile da registrare un voto.
 
 ## Cosa mostra davvero l'evidenza
 

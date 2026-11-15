@@ -1,7 +1,7 @@
 ---
 title: "AI가 다국어 학습자의 지식을 오판하지 않고 목소리를 지우지 않으면서 도울 수 있을까요?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-07T23:52:37-05:00"
+updated: "2026-11-15T15:43:03-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
@@ -55,7 +55,7 @@ ai_assist:
 
 증거가 더 날카로워지고 판돈이 커지는 곳은 평가입니다. [[ai-scoring-language-bias-physics|Feser와 Tschisgale(2026)]]은 중등학생 116명의 물리 설명에 대해 열한 가지 자동 채점 접근을 인간 전문가 점수와 비교하고, 언어적으로 더 약한 설명에서 개념 이해를 체계적으로 과소평가하는 것을 모든 접근에서 하나도 빠짐없이 발견했습니다. 그 설계는 기제를 분리합니다. 같은 개념 내용을 더 약한 문장으로 표현했을 때 더 낮게 채점된 것입니다. 이것은 특정 국가의 다국어 학생에 관한 주장이 아니며, 전체 채점 일치도를 나쁜 진단으로 만드는 바로 그 패턴입니다. 채점자는 평균적으로 인간 채점자와 일치하면서, 언어가 아직 발달 중인 학생들에게는 일관된 방향으로 오류를 낼 수 있습니다.
 
-[[multilingual-learning]] 종합은 인간 채점 편향과 닮은 다국어 예측 편향 패턴을 보여 주는 작문 선별 연구를 기술합니다. 세 발견을 함께 읽으면 운영적 교훈은 좁습니다. "AI가 인간 편향을 없앤다"도 "AI가 언어 편향을 더한다"도 유용한 규칙이 아닙니다. 필요한 것은 점수가 성적이 되는 지점에서 과제, 모집단, 언어에 대한 확인입니다.
+[[multilingual-learning|다언어 학습]] 종합은 인간 채점 편향과 닮은 다국어 예측 편향 패턴을 보여 주는 작문 선별 연구를 기술합니다. 세 발견을 함께 읽으면 운영적 교훈은 좁습니다. "AI가 인간 편향을 없앤다"도 "AI가 언어 편향을 더한다"도 유용한 규칙이 아닙니다. 필요한 것은 점수가 성적이 되는 지점에서 과제, 모집단, 언어에 대한 확인입니다.
 
 ## 도구에 구체적인 지원 역할을 주십시오
 
@@ -120,6 +120,6 @@ ai_assist:
 
 ## 다음으로 갈 곳
 
-[[multilingual-learning]]은 AI 매개 교수에서 언어, 언어 넘나들기, 평가에 관한 개념 페이지이고, [[assessment-validity|평가 타당도]]는 점수가 여러분이 하는 추론을 지지하는지에 대한 기준입니다. [[differential-effects-across-learner-groups]]는 하위 집단 패턴을 가정하지 않고 찾아보는 방법을 다룹니다.
+[[multilingual-learning|다언어 학습]]은 AI 매개 교수에서 언어, 언어 넘나들기, 평가에 관한 개념 페이지이고, [[assessment-validity|평가 타당도]]는 점수가 여러분이 하는 추론을 지지하는지에 대한 기준입니다. [[differential-effects-across-learner-groups|학습자 집단 간 차별적 효과]]는 하위 집단 패턴을 가정하지 않고 찾아보는 방법을 다룹니다.
 
 언어가 구성개념인 작문 교육 사례는 [[writing-instruction-ai-best-practices|작문 교육 모범 사례]]를 보십시오. 자동 채점을 여러분의 환경에서 신뢰할 수 있는지는 [[ai-grading-fairness-reliability|AI 채점]]과 [[checking-whether-educational-ai-works|교육용 AI가 작동하는지 확인하기]]를 보십시오.

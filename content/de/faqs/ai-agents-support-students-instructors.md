@@ -1,14 +1,14 @@
 ---
 title: "Wie können KI-Agenten Studierende und Lehrende unterstützen?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-15T15:44:25-05:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
 weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -102,4 +102,4 @@ Zugang schließt die Gerechtigkeitslücke. Ungleicher Zugang zu leistungsfähige
 
 ## Wohin als Nächstes
 
-[[developing-ai-tutor]] behandelt den Aufbau für Studierende vom Ziel bis zur Hilfeleiter, und [[evaluating-ai-interventions-methods]] behandelt, ob die Sache gewirkt hat. [[intelligent-tutoring]] und [[ai-literacy]] liefern das Designvokabular, das diese Seite voraussetzt.
+[[developing-ai-tutor]] behandelt den Aufbau für Studierende vom Ziel bis zur Hilfeleiter, und [[evaluating-ai-interventions-methods]] behandelt, ob die Sache gewirkt hat. [[intelligent-tutoring|Intelligentes Tutoring]] und [[ai-literacy|KI-Kompetenz]] liefern das Designvokabular, das diese Seite voraussetzt.

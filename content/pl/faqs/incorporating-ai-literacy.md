@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
 audience: [instructors, instructional designers]
-updated: "2026-10-29T15:22:02-04:00"
+updated: "2026-11-15T15:51:21-05:00"
 translation_of: faqs/incorporating-ai-literacy
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ Wniosek: dodać krok do pracy, którą już się ocenia, tak aby studenci najpie
 
 ## Nie dodawać lekcji, dodać krok do pracy, którą już się ocenia
 
-Domyślnym ruchem instytucji jest osobny moduł, zwykle wczesną w semestrze, o tym, jak działają duże modele językowe i jak pisać prompty. Synteza na stronie [[ai-literacy|Kompetencje w zakresie SI]] argumentuje za innym układem: studenci rozwijają użyteczniejsze kompetencje, gdy używają SI, pytają o nią, weryfikują ją, krytykują i decydują o niej w autentycznych zadaniach kursowych, wielokrotnie. Ruch w stronę krytycznej oceny jest najbardziej widoczny tam, gdzie takie doświadczenia są podtrzymywane i osadzone, a nie dostarczone raz ([[ai-literacy-continuum-higher-education|Praktyczne pięcioetapowe kontinuum kompetencji w zakresie SI w szkolnictwie wyższym]]).
+Domyślnym ruchem instytucji jest osobny moduł, zwykle wczesną w semestrze, o tym, jak działają [[llm|duże modele językowe]] i jak pisać prompty. Synteza na stronie [[ai-literacy|Kompetencje w zakresie SI]] argumentuje za innym układem: studenci rozwijają użyteczniejsze kompetencje, gdy używają SI, pytają o nią, weryfikują ją, krytykują i decydują o niej w autentycznych zadaniach kursowych, wielokrotnie. Ruch w stronę krytycznej oceny jest najbardziej widoczny tam, gdzie takie doświadczenia są podtrzymywane i osadzone, a nie dostarczone raz ([[ai-literacy-continuum-higher-education|Praktyczne pięcioetapowe kontinuum kompetencji w zakresie SI w szkolnictwie wyższym]]).
 
 Dowody [[quantitative-research|ilościowe]] wskazują ten sam kierunek. [[liu-ai-literacy-interventions-meta-analysis-2026|Metaanaliza 59 interwencji rozwijających kompetencje w zakresie SI]] wykazała największe efekty dla pedagogik zintegrowanych i refleksyjnych. Ostrzega też, że interwencje skoncentrowane na wiedzy dają większe *mierzone* efekty niż te ukierunkowane na umiejętności, postawy lub etykę. Warto o tym pamiętać, wybierając, co się mierzy.
 
@@ -79,11 +79,11 @@ Nie trzeba wymyślać projektu. Kilka jest udokumentowanych i każdy jest wystar
 
 Studenci ekonomii najpierw rozwiązują problem, potem otrzymują odpowiedź GenAI, porównują ją z własnym rozumowaniem, krytykują SI, zastanawiają się nad własnym rozumowaniem, a następnie dyskutują z rówieśnikami ([[beck-genai-literacy-economics-hands-on|Kształtowanie kompetencji w zakresie generatywnej SI w ekonomii]]).
 
-Studenci psychologii oceniają komunikat medialny wygenerowany przez ChatGPT według rubryki kursu, wskazują słabości i go poprawiają, co rozwija kompetencje dziedzinowe i kompetencje w zakresie informacji zwrotnej w jednym zadaniu ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Wykorzystanie generatywnej SI do rozwijania kompetencji psychologicznych, w zakresie informacji zwrotnej i w zakresie SI]]).
+Studenci psychologii oceniają komunikat medialny wygenerowany przez ChatGPT według rubryki kursu, wskazują słabości i go poprawiają, co rozwija kompetencje dziedzinowe i [[feedback-literacy|kompetencje w zakresie informacji zwrotnej]] w jednym zadaniu ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Wykorzystanie generatywnej SI do rozwijania kompetencji psychologicznych, w zakresie informacji zwrotnej i w zakresie SI]]).
 
 Biologia włącza te aktywności w uczenie się dziedzinowe, zamiast uczyć osobnego tematu technicznego ([[zha-ai-literacy-biology-case-study|Integracja edukacji w zakresie SI na zajęciach z biologii]]). Kursy baz danych i projektowania wykorzystują analizę porażek jako aktywność uczenia się: studenci analizują błędy wygenerowane przez SI i iterują na promptach i rozwiązaniach ([[pedagogy-ai-mistakes|Pedagogika błędów SI]]). Model LearnAI osadza wspólne tworzenie z SI w trybie just-in-time w różnych dyscyplinach, zamiast prowadzić jeden ogólny moduł ([[learnai-just-in-time-ai-cocreation-university-2026|LearnAI: wspólne tworzenie z SI w trybie just-in-time w różnych dyscyplinach]]).
 
-Jedna ostrożność wiąże się z liczbą. Przeprojektowany wstępny kurs fizyki cząstek elementarnych dopuszczał generatywną SI jako wyraźnego partnera w zadaniach o kształcie badawczym, a pisemny egzamin bez wsparcia dał średnią 20,6 na 80 punktów, przy czym tylko dwóch studentów osiągnęło 40 ([[ai-particle-physics-education-redesign-2026|SI w edukacji fizyki cząstek elementarnych]]). Wynik z pomocą i wiedza dostępna samodzielnie to odrębne osiągnięcia. Autorzy argumentują za wczesnym nauczaniem kompetencji w zakresie SI, w tym weryfikacji i traktowania SI jako nauczyciela, a nie kopiarki, obok dedykowanego ćwiczenia bez wsparcia. [[physics-education|Edukacja fizyczna]] ma pełniejsze omówienie.
+Jedna ostrożność wiąże się z liczbą. Przeprojektowany wstępny kurs fizyki cząstek elementarnych dopuszczał generatywną SI jako wyraźnego partnera w zadaniach o kształcie badawczym, a pisemny egzamin bez wsparcia dał średnią 20,6 na 80 punktów, przy czym tylko dwóch studentów osiągnęło 40 ([[ai-particle-physics-education-redesign-2026|SI w edukacji fizyki cząstek elementarnych]]). Wynik z pomocą i wiedza dostępna samodzielnie to odrębne osiągnięcia. Autorzy argumentują za wczesnym nauczaniem kompetencji w zakresie SI, w tym weryfikacji i traktowania SI jako [[teacher-role|nauczyciela]], a nie kopiarki, obok dedykowanego ćwiczenia bez wsparcia. [[physics-education|Edukacja fizyczna]] ma pełniejsze omówienie.
 
 Jest też wersja, w której studenci tworzą coś dla realnej publiczności. Burriss i in. poprosili 22 uczniów jedenastej klasy o przygotowanie wideo spotów społecznych o kwestiach [[ethics|etycznych]] związanych z SI, z którymi żyli: nadzorze w szkole, elektronicznych „przepustkach” i oskarżeniach o [[academic-integrity|plagiat]] formułowanych algorytmicznie. Jednostka czerpała z krytycznej piśmienności posthumanistycznej i [[multimodal|kompozycji multimodalnej]]. Studenci przedstawiali szkodę jako wyłaniającą się z splątanej odpowiedzialności ludzi i maszyn, a nie ze złowrogiego narzędzia, odwrócili narrację o oszustwie w stronę nadmiernego polegania dorosłych na wadliwej SI i zamknęli całość na [[agency|sprawczości]] („rozwiązanie jest w naszym zasięgu”). Autorzy umieszczają [[storytelling-in-education|opowiadanie historii]] i wspólną produkcję w centrum [[critical-pedagogy|krytycznej pedagogiki kompetencji w zakresie SI]] i argumentują, że tworzenie *o* SI dla realnej publiczności rozwija kompetencję krytyczną, której skale kompetencji nie widzą ([[burriss-multimodal-composition-critical-ai-literacy-2026|„Young Scholar[s] on the Beat”]]). To twierdzenie jest argumentem z jednej jednostki z 22 uczniami, więc warto czytać je jako pomysł projektowy, a nie wielkość efektu.
 
@@ -117,7 +117,7 @@ Lepsze prompty nie naprawiają modelu. W badaniach nad sykofancją kontekstową 
 
 Kompetencje w zakresie SI oznaczają nauczanie promptowania. Promptowanie jest częścią widoczną. Studenci mogą stać się biegli technicznie w tych narzędziach, pozostając słabymi sędziami tego, co z nich wychodzi, a przytoczony wyżej wynik dotyczący zależności wskazuje ten sam kierunek.
 
-Wystarczy jedna sesja. Sesja może wprowadzić słownictwo. Dowody na powtarzaną praktykę na realnym materiale kursowym są mocniejsze, a metaanaliza 59 interwencji wykazała największe efekty tam, gdzie praca była zintegrowana i refleksyjna.
+Wystarczy jedna sesja. Sesja może wprowadzić słownictwo. Dowody na powtarzaną praktykę na realnym materiale kursowym są mocniejsze, a [[meta-analysis-systematic-review|metaanaliza]] 59 interwencji wykazała największe efekty tam, gdzie praca była zintegrowana i refleksyjna.
 
 Studenci, którzy używają tych narzędzi codziennie, potrafią już oceniać wyniki. Yan i in. stwierdzili, że 76,32% z 38 studentów studiów licencjackich działało w schemacie jednego pytania, a synteza dotycząca edukacji informatycznej pokazała, że studenci wypadają istotnie gorzej przy poprawianiu kodu wygenerowanego przez SI niż przy zwykłych zadaniach egzaminacyjnych z programowania. Znajomość interfejsu nie jest kalibracją.
 
@@ -155,4 +155,4 @@ Pewność siebie jest użytecznym wskaźnikiem zastępczym. W tej literaturze sa
 
 ## Dokąd dalej
 
-[[ai-literacy-evidence|Jakie są dowody na interwencje rozwijające kompetencje w zakresie SI w szkolnictwie wyższym?]] to uczciwa ocena tego, jak mocna jest ta baza i gdzie się przerzedza. [[how-ai-impacts-students]] obejmuje stronę studencką, [[verify-ai-output]] obejmuje nawyk weryfikacji, którego studenci potrzebują, a [[ai-literacy-assessment-misalignment]] jest miejscem, do którego warto zajrzeć, budując miarę, a nie lekcję. [[cognitive-offloading]] wyjaśnia mechanizm leżący pod zasadą zajęcia stanowiska.
+[[ai-literacy-evidence|Jakie są dowody na interwencje rozwijające kompetencje w zakresie SI w szkolnictwie wyższym?]] to uczciwa ocena tego, jak mocna jest ta baza i gdzie się przerzedza. [[how-ai-impacts-students|Jak SI wpływa na studentów]] obejmuje stronę studencką, [[verify-ai-output|weryfikacja]] obejmuje nawyk, którego studenci potrzebują, a [[ai-literacy-assessment-misalignment|Zhang i in., 2026]] jest miejscem, do którego warto zajrzeć, budując miarę, a nie lekcję. [[cognitive-offloading|Odciążanie poznawcze]] wyjaśnia mechanizm leżący pod zasadą zajęcia stanowiska.

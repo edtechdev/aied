@@ -1,7 +1,7 @@
 ---
 title: "Wie beeinflusst KI Angst und Wohlbefinden von Studierenden, und was können wir tun?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-07T20:05:55-05:00"
+updated: "2026-11-15T15:40:20-05:00"
 connected_faqs: [how-ai-impacts-students, study-with-ai]
 weight: 60
 type: faq
@@ -11,7 +11,7 @@ research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
 translation_of: faqs/ai-anxiety-wellbeing
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -109,7 +109,7 @@ Das Ziel ist, die Angst zu senken. Kim (2026) fand Angst positiv mit Verifikatio
 
 Selbstvertrauen schützt Studierende vor dem Karriereschaden. Im Modell von Duan et al. pufferte [[self-efficacy]] ihn nicht. Karriereanpassungsfähigkeit trug den mediierten Pfad.
 
-Das ist ein Problem der [[student-support-and-success|Studierendenservices]]. Die meisten Schritte auf dieser Seite sind unterrichtlich: risikoarme Übung, angeleitete Bewertung von KI-Ausgaben, feedbackgetriebene Überarbeitung und eine Erklärung von Erwartungen, die Studierende lesen können. Den Weiterverweisungsweg zu kennen ist ein Punkt darunter.
+Das ist ein Problem der [[student-support-and-success|Studierendenservices]]. Die meisten Schritte sind unterrichtlich: risikoarme Übung, angeleitete Bewertung von KI-Ausgaben, feedbackgetriebene Überarbeitung und eine Erklärung von Erwartungen, die Studierende lesen können. Den Weiterverweisungsweg zu kennen ist ein Punkt darunter.
 
 Ein Wohlbefinden-Chatbot ist die skalierbare Antwort auf dünne Beratungskapazität. Die Verfügbarkeit ist real und die Attraktivität verständlich. Genauigkeit auf einem einzelnen Hold-out-Split ist kein Beleg dafür, dass einem belasteten Studierenden besser geholfen ist, und die Fragen zu Fehlklassifikation, Speicherung und Eskalation haben in den hier zitierten Arbeiten keine veröffentlichten Antworten.
 
@@ -121,7 +121,7 @@ Ein Wohlbefinden-Chatbot ist die skalierbare Antwort auf dünne Beratungskapazit
 
 **„Ich bin Fachlehrende, keine Beraterin."** Niemand bittet Sie, jemanden zu behandeln. Risikoarme Übung, eine Kritikaufgabe und eine Überarbeitungsschleife sind gewöhnliche unterrichtliche Schritte. Der eine Befund, der zu Ihrer Position spricht, ist die Lehrenden-Studierenden-Beziehung auf Platz zwei in Bashir und Afzals Merkmalsbedeutungsanalyse (10.0%), über Schlafqualität (9.3%) und sozialer Unterstützung (7.6%). Die Autorinnen und Autoren nennen es eine Hypothese, und es ist eine vernünftige Wette für eine Rolle, die Sie ohnehin ausfüllen.
 
-**„Wir haben keine Beratungskapazität, also ist ein Werkzeug besser als nichts."** Möglicherweise, und diese Seite kann das nicht entscheiden. Worauf Sie vor dem Einsatz bestehen können, sind schriftliche Antworten zur Validierung der Genauigkeit, dazu, wie die Unterstützungsstufe entschieden wird, was bei einer schädlichen Fehlklassifikation passiert, wie Offenlegungen gespeichert werden und wie die Eskalation an einen Menschen funktioniert. Keine Antworten, kein Einsatz. Ein Studierender, der sich einem Werkzeug anvertraut, das es falsch ablegt, vertraut sich vielleicht nicht wieder an.
+**„Wir haben keine Beratungskapazität, also ist ein Werkzeug besser als nichts."** Möglicherweise, und die Evidenz kann das nicht entscheiden. Worauf Sie vor dem Einsatz bestehen können, sind schriftliche Antworten zur Validierung der Genauigkeit, dazu, wie die Unterstützungsstufe entschieden wird, was bei einer schädlichen Fehlklassifikation passiert, wie Offenlegungen gespeichert werden und wie die Eskalation an einen Menschen funktioniert. Keine Antworten, kein Einsatz. Ein Studierender, der sich einem Werkzeug anvertraut, das es falsch ablegt, vertraut sich vielleicht nicht wieder an.
 
 **„Wenn ich im Kurs über Berufsaussichten spreche, überschreite ich mein Fach."** Die Alternative ist, dass Studierende ihre Antwort aus dem Arbeitsmarkt und voneinander zusammensetzen. Duan et al. empfehlen Berufsplanungsarbeit als Teil des akademischen Programms, und Dağ et al. empfehlen sie zusammen mit KI-Kompetenz. Sie können das Gespräch führen, ohne Expertise darin zu beanspruchen, und die Einzelfälle an die Karriereberatung weiterleiten.
 
@@ -139,4 +139,4 @@ Ein Wohlbefinden-Chatbot ist die skalierbare Antwort auf dünne Beratungskapazit
 
 ## Wohin als Nächstes
 
-[[anxiety-and-stress]] ist die konzeptuelle Behandlung der Emotion selbst, einschließlich Proctoring-Stress, der produktiven Seite von Angst und der Angst von Lehrenden. [[well-being]] deckt die Rahmung des positiven Zustands über emotionale, psychologische und soziale Dimensionen ab. Für das umgebende Bild behandelt [[how-ai-impacts-students]] die allgemeinen Auswirkungen von KI auf Studierende, und [[redesign-assessment-ai-era]] deckt die Prüfungsseite einer institutionellen Antwort ab. [[career-development-and-readiness]] ist der Ort, an dem das Karriereargument weitergeht.
+[[anxiety-and-stress|Angst und Stress]] ist die konzeptuelle Behandlung der Emotion selbst, einschließlich Proctoring-Stress, der produktiven Seite von Angst und der Angst von Lehrenden. [[well-being|Wohlbefinden]] deckt die Rahmung des positiven Zustands über emotionale, psychologische und soziale Dimensionen ab. Für das umgebende Bild behandelt [[how-ai-impacts-students]] die allgemeinen Auswirkungen von KI auf Studierende, und [[redesign-assessment-ai-era]] deckt die Prüfungsseite einer institutionellen Antwort ab. [[career-development-and-readiness|Berufliche Entwicklung und Berufsreife]] ist der Ort, an dem das Karriereargument weitergeht.

@@ -1,7 +1,7 @@
 ---
 title: "Como a IA pode auxiliar a pesquisa educacional?"
 created: "2026-10-05T11:23:36-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:37:46-05:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -16,7 +16,7 @@ level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -78,7 +78,7 @@ Assim, a etapa de verificação precisa de um padrão-ouro que não seja nem a p
 
 ## Busque rápido, depois confira cada fonte você mesmo
 
-A busca generativa resume, recomenda, sintetiza e conversa, o que desestabiliza o arranjo anterior em que o sistema localiza e o leitor interpreta ([[genai-academic-search-workshop]]). Trate-a como ferramenta de descoberta. O relatório do workshop traz duas cautelas: a capacidade é desigual, com acadêmicos altamente citados reconstruídos a cerca de o dobro da taxa de pares menos citados, e uma [[librarians|bibliotecária]] descreveu uma lacuna de confiança em que os estudantes confiavam demais na busca generativa enquanto o corpo docente desconfiava dela.
+A busca generativa resume, recomenda, sintetiza e conversa, o que desestabiliza o arranjo anterior em que o sistema localiza e o leitor interpreta ([[genai-academic-search-workshop|Liu et al., 2026]]). Trate-a como ferramenta de descoberta. O relatório do workshop traz duas cautelas: a capacidade é desigual, com acadêmicos altamente citados reconstruídos a cerca de o dobro da taxa de pares menos citados, e uma [[librarians|bibliotecária]] descreveu uma lacuna de confiança em que os estudantes confiavam demais na busca generativa enquanto o corpo docente desconfiava dela.
 
 A verificação de referências é onde isso se torna não negociável, e as falhas se concentram no campo de autoria, aquele que carrega o crédito. [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] auditaram 723.930 publicações e 15.872.533 referências e verificaram 30 referências fabricadas em 14 artigos de educação em computação, todos de 2025 e 2026. Dezessete das 30 eram híbridos: um título real anexado a autores fabricados ou incorretos. A contagem verificada em um simpósio técnico subiu de 3 em 2025 para 17 em 2026, em 2,3% dos artigos dos anais daquele ano. O total deles é deliberadamente um limite inferior, e verificadores automatizados herdam as falhas dos metadados que tratam como verdade de base. Confira os autores primeiro.
 
@@ -110,7 +110,7 @@ Predefina seus critérios e mantenha-os visíveis. Um pequeno estudo local não 
 
 Relate o papel da IA, a verificação que você fez e os limites de um design de curso único e investigador único. Um relato de fluxo de trabalho não é um resultado de eficácia.
 
-Trate a simulação de uma coorte como opção avançada, não padrão. Aprendizes simulados tendem a cobrir o quadrante mais fácil do comportamento real de estudantes e raramente são validados após o uso ([[simulating-students]]). Leia [[making-simulated-students-behave-like-learners]] antes de confiar no veredito de um [[simulation|simulador]].
+Trate a simulação de uma coorte como opção avançada, não padrão. Aprendizes simulados tendem a cobrir o quadrante mais fácil do comportamento real de estudantes e raramente são validados após o uso ([[simulating-students|estudantes simulados]]). Leia [[making-simulated-students-behave-like-learners]] antes de confiar no veredito de um [[simulation|simulador]].
 
 ## O que pesquisadores erram sobre isso
 
@@ -150,4 +150,4 @@ A IA tira trabalho do projeto. O estudo de caso de 115 dias constatou escopo del
 
 ## Para onde ir em seguida
 
-As questões companheiras são [[evaluating-ai-interventions-methods]], sobre como medir uma intervenção, [[reporting-interpreting-aied-research]], sobre relatar o sistema e o seu próprio uso de IA, e [[research-gaps-aied]], sobre onde a literatura é fina. [[equity-ethics-pedagogical-safety-research]] cobre os dados dos estudantes, e [[ai-assisted-educational-research]] é a página conceitual completa por trás desta.
+As questões companheiras são [[evaluating-ai-interventions-methods]], sobre como medir uma intervenção, [[reporting-interpreting-aied-research]], sobre relatar o sistema e o seu próprio uso de IA, e [[research-gaps-aied]], sobre onde a literatura é fina. [[equity-ethics-pedagogical-safety-research]] cobre os dados dos estudantes, e [[ai-assisted-educational-research|Pesquisa Educacional Assistida por IA]] é a página conceitual completa por trás desta.

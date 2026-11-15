@@ -1,7 +1,7 @@
 ---
 title: "効果的な AI チューターを開発するためのベストプラクティスは何か？"
 created: "2026-10-10T22:54:48-04:00"
-updated: "2026-11-07T20:36:15-05:00"
+updated: "2026-11-15T15:43:36-05:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, designing-educational-ai-software]
 weight: 74
 type: faq
@@ -13,7 +13,7 @@ discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
 translation_of: faqs/developing-ai-tutor
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:

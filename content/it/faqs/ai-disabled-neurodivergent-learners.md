@@ -9,8 +9,9 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
+updated: "2026-11-15T15:42:15-05:00"
 translation_of: faqs/ai-disabled-neurodivergent-learners
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -28,7 +29,7 @@ ai_assist:
 
 La lettera di accomodamento nomina uno studente, un corso e uno strumento di cui non hai mai sentito parlare. Oppure uno studente ti ha chiesto, ragionevolmente, se può continuare a usare il suo software di dettatura in un esame a tempo, e la regola del tuo corso sull'IA dice nessuna IA di alcun tipo. Oppure l'ufficio accessibilità vuole una risposta entro venerdì se dare in licenza uno strumento di lettura, e l'evidenza del fornitore è una testimonianza di un altro campus.
 
-La risposta che sopravvive a tutti e tre i casi: parti dalla barriera che il compito crea, usa gli strumenti che sono stati davvero misurati e insegna qualunque cosa adotti. Due regole contano più di qualsiasi scelta di prodotto. Nomina trascrizione e OCR nella tua politica sull'IA come accomodamenti a sé, e dai struttura al compito invece di chiedere agli studenti di inferirla. Sii lucido sulle evidenze: il numero più forte di questa pagina viene da contesti di educazione speciale PK-12 che usavano in prevalenza IA precedente a quella generativa, e la letteratura sull'istruzione superiore è una mappa di ciò che è stato provato.
+La risposta che sopravvive a tutti e tre i casi: parti dalla barriera che il compito crea, usa gli strumenti che sono stati davvero misurati e insegna qualunque cosa adotti. Due regole contano più di qualsiasi scelta di prodotto. Nomina trascrizione e OCR nella tua politica sull'IA come accomodamenti a sé, e dai struttura al compito invece di chiedere agli studenti di inferirla. Sii lucido sulle evidenze: il numero più forte viene da contesti di educazione speciale PK-12 che usavano in prevalenza IA precedente a quella generativa, e la letteratura sull'istruzione superiore è una mappa di ciò che è stato provato.
 
 ## La versione breve
 
@@ -54,11 +55,11 @@ La stessa cautela vale per le statistiche di gruppo. [[differential-effects-acro
 
 ## Usa ciò che è stato misurato, e leggi l'etichetta
 
-Il risultato [[quantitative-research|quantitativo]] più forte di questa pagina è anche il più generale, e arriva con limiti che dovresti portare nella decisione di acquisto.
+Il risultato [[quantitative-research|quantitativo]] più forte è anche il più generale, e arriva con limiti che dovresti portare nella decisione di acquisto.
 
 [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang, Carter, Liu e Peng (2024)]] hanno sintetizzato 29 studi (quasi-)sperimentali su interventi basati sull'IA per [[inclusive-learning|studenti con disabilità]]: 239 dimensioni dell'effetto da 41 campioni indipendenti, un effetto medio complessivo statisticamente significativo sugli esiti di apprendimento di g = 0,588 (IC 95% [0,349, 0,826], p < .01) e un'eterogeneità elevata tra studi. La prestazione accademica era il sottogruppo di esito più ampio (k = 80, g = 0,929) e le competenze socioemotive il più piccolo (k = 144, g = 0,382). Il software per computer, cioè [[speech-and-voice-technologies|riconoscimento vocale]], sistemi esperti e [[intelligent-tutoring|sistemi di tutoring intelligente]], ha performato bene (k = 74, g = 0,959) e i [[educational-robotics|robot]] moderatamente (k = 144, g = 0,509), mentre la realtà virtuale intelligente (g = 0,528) non era significativa. Il bias di pubblicazione era presente (β di Egger = 2,837, p < .001); il trim-and-fill ha ridotto la stima a g = 0,269, ancora significativa.
 
-Ogni studio era PK-12. Il 96,6% usava istruzione a passi in contesti di educazione speciale o clinici, e la maggior parte usava IA più vecchia, basata su regole, invece che [[generative-ai|IA generativa]]. Questo sostiene un'adozione cauta del software didattico strutturato. Non si trasferisce a un chatbot generalista, e trattarlo come se lo facesse è l'errore più costoso disponibile su questa pagina.
+Ogni studio era PK-12. Il 96,6% usava istruzione a passi in contesti di educazione speciale o clinici, e la maggior parte usava IA più vecchia, basata su regole, invece che [[generative-ai|IA generativa]]. Questo sostiene un'adozione cauta del software didattico strutturato. Non si trasferisce a un chatbot generalista, e trattarlo come se lo facesse è l'errore più costoso disponibile.
 
 Tre risultati più piccoli mostrano cosa può fare un singolo strumento quando la barriera è stretta. Ciascuno è stato testato su una manciata di studenti, quindi trattali come esperimenti reversibili a basso costo e non come infrastruttura.
 
@@ -95,7 +96,7 @@ Ciò che la pagina non può darti è un protocollo di formazione. Non esistono l
 
 Una regola scritta come "nessuna IA" può quindi togliere allo studente il mezzo principale per produrre un lavoro leggibile. Nessuno ha ancora misurato la scala di quella sostituzione, ed è una ragione per essere espliciti invece di aspettare il numero. Nomina trascrizione e OCR come accomodamenti nella politica, accanto ai divieti sulla stesura, così le due domande si decidono separatamente. L'esposizione che questo crea per l'istituzione appartiene a [[legal-issues-and-risks]].
 
-È una correzione di una riga nella maggior parte dei documenti, ed è la riga con le conseguenze più alte della pagina.
+È una correzione di una riga nella maggior parte dei documenti, ed è la riga con le conseguenze più alte della politica.
 
 ## Dai struttura dove il compito la presuppone
 
@@ -131,7 +132,7 @@ Una diagnosi mi dice quale strumento comprare. Le barriere tagliano le diagnosi,
 
 Un accomodamento è una disposizione personale, quindi la soluzione appartiene allo studente. Alcuni lo sono, e quelli che vale la pena generalizzare sono quelli che avresti progettato comunque. La segmentazione ha aiutato ogni studente del suo studio. I cambiamenti di progettazione eliminano il passaggio della dichiarazione, e con esso lo stigma.
 
-Coinvolgimento e soddisfazione mostrano che lo strumento ha funzionato. Mostrano che allo studente è piaciuto. Questo corpus è in prevalenza dispiegamenti e percezioni, e solo 6 dei 40 studi sull'istruzione superiore servivano più di una barriera, quindi uno studente soddisfatto non è ancora prova che una barriera sia caduta.
+Coinvolgimento e soddisfazione mostrano che lo strumento ha funzionato. Mostrano che allo studente è piaciuto. La letteratura è in prevalenza dispiegamenti e percezioni, e solo 6 dei 40 studi sull'istruzione superiore servivano più di una barriera, quindi uno studente soddisfatto non è ancora prova che una barriera sia caduta.
 
 Lo strumento porta il supporto, e insegnare è un extra. La giurisprudenza tratta uno strumento non insegnato come il fallimento, e gli esperti di politica hanno classificato l'empowerment degli studenti e l'alfabetizzazione all'IA come il loro tema più essenziale. Metti nel budget il tempo di insegnamento insieme alla licenza.
 

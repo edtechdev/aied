@@ -1,8 +1,8 @@
 ---
 title: "Wie können wir verbreitete Fehlvorstellungen über KI in der Bildung ausräumen?"
 created: "2026-09-04T04:39:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
-connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
+updated: "2026-11-15T15:44:25-05:00"
+connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]
 technology: [prompt-engineering]
@@ -12,7 +12,7 @@ weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ Fünf Überzeugungen entscheiden darüber, ob der Rest dieser Seite von Belang i
 
 In einem Feldexperiment mit fast 1.000 Gymnasiastinnen und Gymnasiasten im Fach [[math-education|Mathematik]] verbesserte uneingeschränkter Zugang zu generativer KI die Leistung während der begleiteten Übung und verringerte die spätere Prüfungsleistung ohne Unterstützung. Eine mit Leitplanken versehene Version, die Hinweise statt vollständiger Lösungen lieferte, beseitigte den beobachteten [[ai-misuse-learning-harm|Lernschaden]] ([[generative-ai-guardrails-harm-learning|Generative KI ohne Leitplanken kann dem Lernen schaden]]). Beide Ergebnisse sind real, und sie liegen auf verschiedenen Maßen: Nur eines davon ist das Maß, das ein Zeugnis bescheinigt. Die Studie gibt Ihnen eine Richtung und keine Effektstärke für Ihren Kurs.
 
-Studierende ziehen dieselbe Schlussfolgerung über ihre eigene Arbeit, und die Antwort ist dieselbe: Das Produkt zeigt, was der Studierende und das Werkzeug gemeinsam erzeugt haben. Vier Fragen, gestellt bei geschlossenem Chatfenster, sagen Ihnen, was passiert ist. Können sie die Argumentation erklären? Ein ähnliches Problem lösen? Die Schwächen in der generierten Antwort finden? Die Idee in einen neuen Kontext tragen? Wenn die ehrlichen Antworten Nein lauten, betrachten Sie begleitete Leistung unter dem Namen Lernen. Setzen Sie eine dieser vier in das [[assessment]] und sagen Sie es in der Bewertungsmatrix.
+Studierende ziehen dieselbe Schlussfolgerung über ihre eigene Arbeit, und die Antwort ist dieselbe: Das Produkt zeigt, was der Studierende und das Werkzeug gemeinsam erzeugt haben. Vier Fragen, gestellt bei geschlossenem Chatfenster, sagen Ihnen, was passiert ist. Können sie die Argumentation erklären? Ein ähnliches Problem lösen? Die Schwächen in der generierten Antwort finden? Die Idee in einen neuen Kontext tragen? Wenn die ehrlichen Antworten Nein lauten, betrachten Sie begleitete Leistung unter dem Namen Lernen. Setzen Sie eine dieser vier in das [[assessment|Leistungsbeurteilung]] und sagen Sie es in der Bewertungsmatrix.
 
 ### „Studierende mögen das Feedback, also funktioniert das Feedback."
 
@@ -66,7 +66,7 @@ Durchschnitte verbergen genau die Variation, die eine Gerechtigkeitsfrage entsch
 
 ### „Sie berichteten, dass sie viel gelernt haben."
 
-[[self-report-measures|Selbstauskunft]] misst Wahrnehmung, Akzeptanz, [[anxiety-and-stress|Angst]] und [[self-efficacy]], und sie ist in allen vier Bereichen gut. Sie ist kein Maß für nachgewiesene Fähigkeit, weil Menschen selbstsicher und falsch liegen können oder kompetent und zu wenig selbstsicher. Die Synthese der Wissensbasis zur KI-Kompetenzforschung unter Lehrkräften berichtet eine erhebliche Lücke zwischen [[self-assessment|Selbsteinschätzung]] und gemessener Leistung, und die Lehrkräfte darin überschätzten ihre Kompetenz beträchtlich ([[ai-literacy-assessment-misalignment|KI-Kompetenzbewertung: Abweichung zwischen Selbstauskunft und Leistung]]). Paaren Sie jede Selbstauskunft mit einer Aufgabe: einen Fehler in einer Ausgabe finden, eine Quelle prüfen, eine Nutzungsstrategie wählen, Bias oder Sycophancy erkennen, eine fehlerhafte Antwort überarbeiten, Selbstvertrauen gegen Genauigkeit kalibrieren. Ein solches Item in einer Umfrage verwandelt eine Meinung in ein Ergebnis.
+[[self-report-measures|Selbstauskunft]] misst Wahrnehmung, Akzeptanz, [[anxiety-and-stress|Angst]] und [[self-efficacy|Selbstwirksamkeit]], und sie ist in allen vier Bereichen gut. Sie ist kein Maß für nachgewiesene Fähigkeit, weil Menschen selbstsicher und falsch liegen können oder kompetent und zu wenig selbstsicher. Die Synthese der Wissensbasis zur KI-Kompetenzforschung unter Lehrkräften berichtet eine erhebliche Lücke zwischen [[self-assessment|Selbsteinschätzung]] und gemessener Leistung, und die Lehrkräfte darin überschätzten ihre Kompetenz beträchtlich ([[ai-literacy-assessment-misalignment|KI-Kompetenzbewertung: Abweichung zwischen Selbstauskunft und Leistung]]). Paaren Sie jede Selbstauskunft mit einer Aufgabe: einen Fehler in einer Ausgabe finden, eine Quelle prüfen, eine Nutzungsstrategie wählen, Bias oder Sycophancy erkennen, eine fehlerhafte Antwort überarbeiten, Selbstvertrauen gegen Genauigkeit kalibrieren. Ein solches Item in einer Umfrage verwandelt eine Meinung in ein Ergebnis.
 
 ### „Eine simulierte Studierende ist ein billiger Ersatz für eine echte."
 
@@ -104,7 +104,7 @@ Ein System, das die Antwort produziert, und ein System, das einen Lernenden prod
 
 ### „Geben Sie den Studierenden einen starken Tutor, und das Lernen wird besser."
 
-Zugang ist kein Unterrichtsdesign. Dasselbe Modell unterstützt Lernen, wenn es zuerst einen Versuch verlangt, Hinweise statt Lösungen gibt, nach der Argumentation fragt, Fehlvorstellungen korrigiert, Unterstützung ausblendet und mit einer Prüfung ohne Hilfsmittel endet. Es untergräbt Lernen, wenn es sofort antwortet, die Planung übernimmt und die Suche nach Antworten belohnt. Der Wert liegt in der [[pedagogy|pädagogischen]] Hülle, was das Argument in [[learning-design|Lerndesign]] und die Designlogik hinter [[scaffolding]] ist. Bevor Sie einen Tutor ausrollen, führen Sie eine Unterrichtsstunde selbst damit durch und zählen Sie, wie oft er Ihnen erlaubt, das Denken zu vermeiden.
+Zugang ist kein Unterrichtsdesign. Dasselbe Modell unterstützt Lernen, wenn es zuerst einen Versuch verlangt, Hinweise statt Lösungen gibt, nach der Argumentation fragt, Fehlvorstellungen korrigiert, Unterstützung ausblendet und mit einer Prüfung ohne Hilfsmittel endet. Es untergräbt Lernen, wenn es sofort antwortet, die Planung übernimmt und die Suche nach Antworten belohnt. Der Wert liegt in der [[pedagogy|pädagogischen]] Hülle, was das Argument in [[learning-design|Lerndesign]] und die Designlogik hinter [[scaffolding|Scaffolding (Gerüstbildung)]] ist. Bevor Sie einen Tutor ausrollen, führen Sie eine Unterrichtsstunde selbst damit durch und zählen Sie, wie oft er Ihnen erlaubt, das Denken zu vermeiden.
 
 ### „Ein Tutor, der die richtige Antwort gibt, ist ein guter Tutor."
 
@@ -112,7 +112,7 @@ Korrektheit ist notwendig und nicht hinreichend. Eine richtige Antwort kann zu f
 
 ### „Mehr Automatisierung und Personalisierung ist besser."
 
-[[personalized-learning|Personalisierung]] kann Lernen unterstützen und kann zu Überanpassung werden. Wenn das System plant, überwacht, entscheidet, was wichtig ist, und die schwierigen Schritte erledigt, wird der Studierende schneller und weniger handlungsfähig, und [[self-regulated-learning|Selbstregulation]] ist das, was den Raum leise verlässt. Das Designproblem ist, unnötige Barrieren zu entfernen und dabei die Anstrengung zu erhalten, die an das Ziel gebunden ist. Funktionen, die standhalten: verpflichtende Versuche, Aufforderungen zum Erklären, verzögerte Hinweise, anpassbare Unterstützung, Ausblenden von Gerüsten, Reflexion über die Empfehlungen des Systems, regelmäßige Übung ohne Hilfsmittel und ein sichtbarer Weg, es zu übergehen. [[agentic-ai|Agentische KI]] und [[agency]] behandeln, was passiert, wenn das System beginnt, die Entscheidungen zu treffen.
+[[personalized-learning|Personalisierung]] kann Lernen unterstützen und kann zu Überanpassung werden. Wenn das System plant, überwacht, entscheidet, was wichtig ist, und die schwierigen Schritte erledigt, wird der Studierende schneller und weniger handlungsfähig, und [[self-regulated-learning|Selbstregulation]] ist das, was den Raum leise verlässt. Das Designproblem ist, unnötige Barrieren zu entfernen und dabei die Anstrengung zu erhalten, die an das Ziel gebunden ist. Funktionen, die standhalten: verpflichtende Versuche, Aufforderungen zum Erklären, verzögerte Hinweise, anpassbare Unterstützung, Ausblenden von Gerüsten, Reflexion über die Empfehlungen des Systems, regelmäßige Übung ohne Hilfsmittel und ein sichtbarer Weg, es zu übergehen. [[agentic-ai|Agentische KI]] und [[agency|Handlungsfähigkeit der Lernenden]] behandeln, was passiert, wenn das System beginnt, die Entscheidungen zu treffen.
 
 ### „Ein größeres Modell macht einen sichereren Tutor."
 
@@ -136,7 +136,7 @@ Eine Plattform liefert Fähigkeiten. Verbesserung erfordert Abstimmung über [[c
 
 ### „Der Benchmark-Wert beweist, dass es pädagogisch wirksam ist."
 
-Ein Benchmark misst Leistung unter den Bedingungen des Benchmarks. Ein Modell kann schwierige Probleme lösen, flüssige Erklärungen schreiben und in einer Tutoring-Rubrik gut abschneiden und trotzdem die Behaltensleistung, den [[transfer-of-learning|Transfer]], die [[self-regulated-learning|Selbstregulation]] oder gerechte Ergebnisse nicht verbessern. Halten Sie Benchmark-Ergebnisse getrennt von technischer Zuverlässigkeit, pädagogischer Qualität, Sicherheit, [[usability-research|Usability]], Umsetzungsaufwand, Adoption im Unterricht und [[learning-gains|Lernzuwächsen]] ohne Hilfsmittel. Nur Feldtests mit tatsächlichen Lernenden, einer relevanten Vergleichsbedingung und einem sinnvollen Ergebnismaß sprechen die Frage an, über die Sie tatsächlich entscheiden ([[benchmark]]). Forschende schulden dieselbe Disziplin in die andere Richtung: Sagen Sie, welches Glied in dieser Kette eine Studie besetzt.
+Ein Benchmark misst Leistung unter den Bedingungen des Benchmarks. Ein Modell kann schwierige Probleme lösen, flüssige Erklärungen schreiben und in einer Tutoring-Rubrik gut abschneiden und trotzdem die Behaltensleistung, den [[transfer-of-learning|Transfer]], die [[self-regulated-learning|Selbstregulation]] oder gerechte Ergebnisse nicht verbessern. Halten Sie Benchmark-Ergebnisse getrennt von technischer Zuverlässigkeit, pädagogischer Qualität, Sicherheit, [[usability-research|Usability]], Umsetzungsaufwand, Adoption im Unterricht und [[learning-gains|Lernzuwächsen]] ohne Hilfsmittel. Nur Feldtests mit tatsächlichen Lernenden, einer relevanten Vergleichsbedingung und einem sinnvollen Ergebnismaß sprechen die Frage an, über die Sie tatsächlich entscheiden ([[benchmark|Benchmark (Vergleichsmaßstab)]]). Forschende schulden dieselbe Disziplin in die andere Richtung: Sagen Sie, welches Glied in dieser Kette eine Studie besetzt.
 
 ### „Es ist zuverlässig, also sind die Noten valide."
 
@@ -152,7 +152,7 @@ Prüfung ist eine Rechenschaftsfunktion, keine Fehlerkorrekturfunktion, weil jem
 
 ### „Barrierefreiheit, Datenschutz und Gerechtigkeit lassen sich ergänzen, wenn das Kernprodukt erst funktioniert."
 
-Das sind Designanforderungen. Eingabemodalität, Leseniveau, Sprachannahmen, Geräteanforderungen, Datenspeicherung, Personalisierung und Modellbias entscheiden, wer das System nutzen kann und wer durch es geschädigt wird, und Nachrüstung verbessert tendenziell die Oberfläche und lässt Arbeitsablauf, Datenmodell und Entscheidungslogik intakt. Beziehen Sie betroffene Lernende und Lehrende früh ein, testen Sie mit vielfältigen Nutzern, erheben Sie das Minimum, stellen Sie barrierefreie Alternativen bereit und untersuchen Sie unterschiedliche Ergebnisse. Ein System, dessen Nutzen nicht zugänglich oder ungleich verteilt ist, ist pädagogisch nicht wirksam, was auch immer sein Durchschnitt sagt ([[accessibility]], [[universal-design-for-learning|Universal Design for Learning]], [[privacy]]).
+Das sind Designanforderungen. Eingabemodalität, Leseniveau, Sprachannahmen, Geräteanforderungen, Datenspeicherung, Personalisierung und Modellbias entscheiden, wer das System nutzen kann und wer durch es geschädigt wird, und Nachrüstung verbessert tendenziell die Oberfläche und lässt Arbeitsablauf, Datenmodell und Entscheidungslogik intakt. Beziehen Sie betroffene Lernende und Lehrende früh ein, testen Sie mit vielfältigen Nutzern, erheben Sie das Minimum, stellen Sie barrierefreie Alternativen bereit und untersuchen Sie unterschiedliche Ergebnisse. Ein System, dessen Nutzen nicht zugänglich oder ungleich verteilt ist, ist pädagogisch nicht wirksam, was auch immer sein Durchschnitt sagt ([[accessibility|Barrierefreiheit]], [[universal-design-for-learning|Universal Design for Learning]], [[privacy|Datenschutz]]).
 
 ### „Ein Chatbot ist für Kinder sicher, wenn er toxische Inhalte blockiert."
 
@@ -200,7 +200,7 @@ Sie reagiert auf Sprache, nutzt das Gespräch und behält manchmal Informationen
 
 ### „Ein guter Prompt sollte die richtige Antwort liefern."
 
-Ausgaben sind promptempfindlich und oft nicht deterministisch, also verschieben kleine Änderungen in Formulierung, Kontext, Beispielen oder Annahmen die Antwort erheblich, und noch einmal zu fragen ist kein Überprüfen. Fünf ähnliche Antworten können eine einzige irrige Prämisse teilen. Produktive Iteration klärt Ziel und Nebenbedingungen, legt Annahmen offen, fordert Alternativen an, prüft gegen Belege und kontrolliert, ob die Antwort eine Veränderung des Problems übersteht. Das ist eine Fertigkeit, und eine ungleich verteilte. Eine Demonstration, in der ein naiver Studierender einen Chatbot bei einer Take-home-Prüfungsfrage nutzte, blieb auf der multistrukturellen Stufe der SOLO-Taxonomie „poliert, aber pädagogisch dünn", und es brauchte acht Runden metastauglicher Intervention, um zu einer brauchbaren Lernschleife zu kommen: Überlastung signalisieren, Vereinfachung erbitten, den Umfang einengen. Die Autoren nennen diese Fähigkeit **KI-Interaktionskompetenz**, also die Fähigkeit, iterative Interaktion zu steuern, zu bewerten und aus ihr zu lernen, und sie benennen den Gerechtigkeitsstachel: Weil ungeführte Nutzung eine Fähigkeit zur Interaktionssteuerung verlangt, die ungleich verteilt ist, könnte generative KI „am meisten den ohnehin privilegierten Studierenden nützen" ([[brunnstrom-ai-interaction-literacy-srl-2026|KI-Interaktionskompetenz]]). Zu den Anforderungen an Selbst-[[regulation]], die darunter liegen, siehe [[developing-ai-tutor|Wie entwickeln wir einen wirksamen KI-Tutor?]].
+Ausgaben sind promptempfindlich und oft nicht deterministisch, also verschieben kleine Änderungen in Formulierung, Kontext, Beispielen oder Annahmen die Antwort erheblich, und noch einmal zu fragen ist kein Überprüfen. Fünf ähnliche Antworten können eine einzige irrige Prämisse teilen. Produktive Iteration klärt Ziel und Nebenbedingungen, legt Annahmen offen, fordert Alternativen an, prüft gegen Belege und kontrolliert, ob die Antwort eine Veränderung des Problems übersteht. Das ist eine Fertigkeit, und eine ungleich verteilte. Eine Demonstration, in der ein naiver Studierender einen Chatbot bei einer Take-home-Prüfungsfrage nutzte, blieb auf der multistrukturellen Stufe der SOLO-Taxonomie „poliert, aber pädagogisch dünn", und es brauchte acht Runden metastauglicher Intervention, um zu einer brauchbaren Lernschleife zu kommen: Überlastung signalisieren, Vereinfachung erbitten, den Umfang einengen. Die Autoren nennen diese Fähigkeit **KI-Interaktionskompetenz**, also die Fähigkeit, iterative Interaktion zu steuern, zu bewerten und aus ihr zu lernen, und sie benennen den Gerechtigkeitsstachel: Weil ungeführte Nutzung eine Fähigkeit zur Interaktionssteuerung verlangt, die ungleich verteilt ist, könnte generative KI „am meisten den ohnehin privilegierten Studierenden nützen" ([[brunnstrom-ai-interaction-literacy-srl-2026|KI-Interaktionskompetenz]]). Zu den Anforderungen an Selbst-[[regulation|KI-Regulierung in der Bildung]], die darunter liegen, siehe [[developing-ai-tutor|Wie entwickeln wir einen wirksamen KI-Tutor?]].
 
 ### „Junge Menschen sind bereits KI-kompetent, weil sie digitale Eingeborene sind."
 
@@ -307,7 +307,7 @@ Die Störung geschieht innerhalb der Disziplin, an dem Schritt, an dem das Werkz
 
 **1.** Nehmen Sie die drei Überzeugungen, die Sie am häufigsten hören, und schreiben Sie jede als Refutation: die Überzeugung, warum sie wahr aussieht, die Korrektur, den Ersatz, die Anwendung. Eine Seite, keine Quellenangaben.
 
-**2.** Fügen Sie ein Element ohne Hilfsmittel zu einem [[assessment]] hinzu, das Sie ohnehin durchführen, und geben Sie ihm genug Gewicht, dass das Ergebnis etwas bedeutet.
+**2.** Fügen Sie ein Element ohne Hilfsmittel zu einem [[assessment|Leistungsbeurteilung]] hinzu, das Sie ohnehin durchführen, und geben Sie ihm genug Gewicht, dass das Ergebnis etwas bedeutet.
 
 **3.** Schreiben Sie die KI-Klausel eines Kurses so um, dass sie den Akt und den Schritt benennt, und wählen Sie für jede Phase der Aufgabe eine der vier Bedingungen.
 

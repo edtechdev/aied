@@ -1,7 +1,7 @@
 ---
 title: "グループ課題・協働課題における AI への対処の仕方はどうあるべきか？"
 created: "2026-10-10T23:04:27-04:00"
-updated: "2026-11-07T20:21:18-05:00"
+updated: "2026-11-15T15:43:36-05:00"
 connected_faqs: [course-ai-policy, asynchronous-online-courses-ai]
 weight: 60
 type: faq
@@ -13,7 +13,7 @@ research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
 translation_of: faqs/group-work-ai
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:

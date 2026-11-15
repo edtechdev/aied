@@ -1,7 +1,7 @@
 ---
 title: "집단 및 협력 과제에서 AI를 어떻게 다루어야 할까요?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-07T23:52:36-05:00"
+updated: "2026-11-15T15:39:30-05:00"
 connected_faqs: [course-ai-policy, asynchronous-online-courses-ai]
 weight: 60
 type: faq
@@ -13,7 +13,7 @@ research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
 translation_of: faqs/group-work-ai
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -93,7 +93,7 @@ Chen과 Zou는 그 배열이 우연히 이루어지기가 얼마나 어려운지
 
 그들의 한계는 인용과 함께 따라다닙니다. 단일 데이터베이스, 학술지 논문만, [[ethics|윤리]]나 프라이버시에 대한 고려 없음, 기술의 첫 2년, 그리고 비뚤림 위험 도구 미적용. "촉매"는 측정된 결과가 아니라 관찰된 실천에 대한 기술로 읽으십시오.
 
-탐지는 개별 기여를 가려내는 데 잘못된 도구입니다. 이 여섯 연구 중 어느 것도 집단 환경에서 탐지기를 시험하지 않았고, 탐지의 개인 수준 문제는 이 지식베이스의 다른 곳에 기록되어 있습니다. 자제는 교정하기 전에 해석이 필요합니다. Chen과 Zou는 집단의 AI 거절이 의도적인 [[self-regulated-learning|자기조절]]의 행사가 아니라 낯선 것에 대한 회피일 수 있다고 경고하며, 둘은 서로 다른 대응을 요구합니다. 하나는 가르침의 문제이고, 다른 하나는 채점할 수 있는 숙고된 입장입니다.
+탐지는 개별 기여를 가려내는 데 잘못된 도구입니다. 이 여섯 연구 중 어느 것도 집단 환경에서 탐지기를 시험하지 않았고, 탐지의 개인 수준 문제는 잘 기록되어 있습니다. 자제는 교정하기 전에 해석이 필요합니다. Chen과 Zou는 집단의 AI 거절이 의도적인 [[self-regulated-learning|자기조절]]의 행사가 아니라 낯선 것에 대한 회피일 수 있다고 경고하며, 둘은 서로 다른 대응을 요구합니다. 하나는 가르침의 문제이고, 다른 하나는 채점할 수 있는 숙고된 입장입니다.
 
 시뮬레이션된 동료도 이 질문을 해결하지 못합니다. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang(2026)]]은 실제 참가자 대화로 [[llm|LLM]] 에이전트를 미세 조정하여(LLaMA 3.2-3B에 [[llm-training-and-fine-tuning|LoRA]]/QLoRA 어댑터) 참가자 48명을 3,824개 발화와 여섯 개 주제 코드에 걸쳐 모형화한 뒤, 실제 담론과 시뮬레이션 담론을 [[network-analysis|인식론적 네트워크 분석]]으로 비교했습니다. 시뮬레이션된 네트워크는 경험적 네트워크로부터 0.17의 거리에 도달해 0.30 임계값 아래였고, 순열 p값은 0.65로 통계적으로 구별되지 않았습니다. 다만 기술적 제약과 설계 연결을 약간 과대강조하고 데이터와 성과 매개변수를 과소 대표했습니다. 이 연구는 중간 신뢰도의 프레임워크 논문이며, 하나의 주장을 뒷받침합니다. 참가자 특화 에이전트가 현실적인 협업 담론을 재현할 수 있다는 것입니다. 시뮬레이션된 동료에게서 학생들이 더 많이 배운다는 것은 보여 주지 않습니다.
 
@@ -148,4 +148,4 @@ AI가 공동의 준거점이 될지 단순한 조회 도구가 될지는 부분�
 
 ## 다음으로 갈 곳
 
-[[group-work]]와 [[collaborative-learning]]은 집단 평가와 협업을 생산적으로 만드는 것에 관한 기초 증거를 담고 있습니다. [[course-ai-policy]]는 학생이 실제로 읽는 강좌 수준의 문구를, [[redesign-assessment-ai-era]]는 이 모든 것이 놓이는 평가 재설계를, [[academic-integrity]]는 부정행위 측면을 다룹니다.
+[[group-work|집단 작업]]과 [[collaborative-learning|협업 학습]]은 집단 평가와 협업을 생산적으로 만드는 것에 관한 기초 증거를 담고 있습니다. [[course-ai-policy]]는 학생이 실제로 읽는 강좌 수준의 문구를, [[redesign-assessment-ai-era]]는 이 모든 것이 놓이는 평가 재설계를, [[academic-integrity|학문적 진실성]]은 부정행위 측면을 다룹니다.

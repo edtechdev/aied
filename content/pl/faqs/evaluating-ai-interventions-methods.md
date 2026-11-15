@@ -7,9 +7,9 @@ audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T15:22:02-04:00"
+updated: "2026-11-15T15:44:42-05:00"
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -69,7 +69,7 @@ Wygodny wynik może mierzyć niewłaściwy konstrukt. W [[zhang-platform-scores-
 
 **Opublikowane wielkości efektu przenoszą się na moją grupę.** 14 metaanaliz O'Neill nie mogło wesprzeć twierdzeń na nich zbudowanych, a oba podane przedziały predykcyjne obejmowały zero.
 
-**Analityka platformy mierzy jakość nauczania.** Agent z trzeciego miejsca u Zhanga był ostatni w rubryce eksperckiej.
+**[[learning-analytics|Analityka]] platformy mierzy jakość nauczania.** Agent z trzeciego miejsca u Zhanga był ostatni w rubryce eksperckiej.
 
 ## Co się na Tobie odbije
 

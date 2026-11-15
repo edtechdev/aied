@@ -1,8 +1,8 @@
 ---
 title: "AI検出ツールを使うべきですか?"
 created: "2026-10-10T22:57:00-04:00"
-updated: "2026-11-07T20:33:50-05:00"
-source_updated: "2026-11-02T02:47:00-05:00"
+updated: "2026-11-15T15:43:36-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [redesign-assessment-ai-era, course-ai-policy, reduce-ai-cheating, addressing-common-misconceptions-ai-education]
 weight: 85
 foundations: [academic-integrity]

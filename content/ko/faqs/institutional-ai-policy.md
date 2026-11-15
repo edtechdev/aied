@@ -1,8 +1,8 @@
 ---
 title: "기관 AI 정책을 어떻게 작성하고 이행합니까?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-08T00:14:58-05:00"
-connected_faqs: [course-ai-policy, equity-ethics-pedagogical-safety-research]
+updated: "2026-11-15T15:43:03-05:00"
+connected_faqs: [course-ai-policy, equity-ethics-pedagogical-safety-research, adopting-ai-options-and-issues]
 weight: 65
 type: faq
 ethics: [equity-in-ai-education, ethics, privacy]
@@ -11,7 +11,7 @@ audience: [administrators, policymakers, institutions]
 level: [higher ed]
 institutions: [change-management, educational-policy-ai, governance]
 translation_of: faqs/institutional-ai-policy
-source_updated: "2026-10-28T11:39:28-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,8 @@ ai_assist:
 그 문서들이 무엇을 우선하는지는 저자들이 그 문서가 무엇을 위한 것이라고 생각했는지를 알려 줍니다. 대학 수준 정책은 데이터 보안, 위험 완화, 조달, 법적 준수를 다루며 [[pedagogy|교수 지침]]은 거의 없습니다. 존재하는 단과대 수준 정책은 교수와 [[ai-literacy|AI 리터러시]]에 집중합니다. 자기 정책을 가진 [[business-education|경영대학]]은 8곳뿐이었고, 그중 6곳에서 상위 프레임워크와 달랐습니다.
 
 저자들이 제안하는 해법은 계층 구조입니다. 대학 전체의 위험 관리 계층, 학부 수준 정책, 교수와 학생이 참여하는 학부 간 위원회입니다. 이를 채택하면 교수평의회에서 변호할 수 있는 범위 문장을 얻게 됩니다. 이 문서는 기관의 위험을 관리하고, 교수 결정은 그 과제를 채점하는 학부에 있습니다. 계층화는 40쪽을 만들지 않고도 모호하다는 비판에 답합니다.
+
+두 번째 간극은 생산 측에 있습니다. 그 목록의 정책은 거의 모두 학생과 교직원이 AI로 무엇을 하는지를 규율하며, 기관이 AI로 생산하는 자료를 규율하는 정책은 거의 없습니다. Chew(2026)는 이 누락이 구조적이라고 주장합니다. AI가 생성한 이미지, 사례, 시험 문항은 교수 콘텐츠로 교과 과정에 들어오는데, 그곳에서는 그럴듯한 오류가 모든 학습자에게 도달하면서도 학생의 실수처럼 신호를 만들어 내지 않을 수 있습니다([[chew-ai-content-governance-medical-education-2026|Chew, 2026]]). 학습자 사용에서 멈추는 정책은 결과가 더 큰 사용을 다루지 않은 채 남깁니다. 그 간극을 닫는 네 가지 조항은 무엇이 사용 중인지 아는 것, 학습자가 보기 전에 시험하는 것, 철회를 포함한 발견에 따라 행동하는 것, 승인된 도구를 표류 여부에 대해 모니터링하는 것입니다.
 
 ## 구속력 있는 조항을 쓰거나, 빼십시오
 

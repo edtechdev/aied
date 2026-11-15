@@ -12,9 +12,9 @@ level: [higher ed, k 12]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
-updated: "2026-10-29T15:22:02-04:00"
+updated: "2026-11-15T15:47:44-05:00"
 translation_of: faqs/making-simulated-students-behave-like-learners
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -44,11 +44,11 @@ Przed następną demonstracją trzeba mieć jasność co do jednego: polecenie m
 
 ## Zdecydować, na jakie pytanie odpowiada symulator
 
-Pod pojęciem „symulowany student” kryją się trzy zadania i wymagają one różnych mechanizmów. Ćwiczenie nauczyciela lub korepetytora wymaga partnera, który zachowuje się wiarygodnie pod presją. Audyt tego, jak SI traktuje różne profile uczących się, wymaga pokrycia profili, na których zależy. Przewidywanie wyników dla kursu wymaga rozkładu uczących się, a nie jednej przekonującej osoby. Symulator zbudowany do pierwszego zadania rozczaruje przy trzecim, a dowody poniżej stale je rozdzielają.
+Pod pojęciem „symulowany student” kryją się trzy zadania i wymagają one różnych mechanizmów. Ćwiczenie [[teacher-role|nauczyciela]] lub korepetytora wymaga partnera, który zachowuje się wiarygodnie pod presją. Audyt tego, jak SI traktuje różne profile uczących się, wymaga pokrycia profili, na których zależy. Przewidywanie wyników dla kursu wymaga rozkładu uczących się, a nie jednej przekonującej osoby. Symulator zbudowany do pierwszego zadania rozczaruje przy trzecim, a dowody poniżej stale je rozdzielają.
 
 ## Nazwać uczących się, których się nie obejmuje
 
-Najbardziej użyteczne ustalenie dla każdego, kto ma zaufać symulatorowi, dotyczy pokrycia. Dwunastu nauczycieli, którzy prowadzili korepetycje ze studentami symulowanymi przez LLM, zgłaszało nadmiernie złożony język, brak emocji, nienaturalną uważność i niewyjaśnione skoki wiedzy, a symulacje reprezentowały tylko jeden z czterech rzeczywistych kwadrantów zachowań studentów ([[llm-student-simulation-teacher-insights|Martynova i in., 2026]]). Kwadrant, który pokryły, był najłatwiejszy do symulowania.
+Najbardziej użyteczne ustalenie dla każdego, kto ma zaufać symulatorowi, dotyczy pokrycia. Dwunastu nauczycieli, którzy prowadzili korepetycje ze studentami symulowanymi przez [[llm|LLM]], zgłaszało nadmiernie złożony język, brak emocji, nienaturalną uważność i niewyjaśnione skoki wiedzy, a [[simulation|symulacje]] reprezentowały tylko jeden z czterech rzeczywistych kwadrantów zachowań studentów ([[llm-student-simulation-teacher-insights|Martynova i in., 2026]]). Kwadrant, który pokryły, był najłatwiejszy do symulowania.
 
 To ma znaczenie, bo prawie nikt nie sprawdza. Tylko 3% badań symulujących uczących się waliduje symulator po użyciu. Ktoś, kto zbuduje taki symulator i pominie walidację, jest w przytłaczającej większości, a jednocześnie jest powodem, dla którego ta statystyka pozostaje cytowalna.
 
@@ -64,13 +64,13 @@ Dwie uwagi z tego badania. Wybór modelu nie jest jednowymiarowy, bo system, kt�
 
 Jeśli model wie za dużo, można nazwać stan, w którym powinien być, albo odjąć wiedzę, której mieć nie powinien.
 
-**Warunkowanie na stanie epistemicznym.** Ramy działające bez trenowania budują prototyp poznawczy każdego studenta z [[knowledge-graph|grafu wiedzy]] i oceniają kandydatów z przeszukiwania wiązkowego na jego tle, raportując 100-procentową poprawę dokładności symulacji ([[simulating-students-diverse-cognitive-levels-2025|Wu i in., 2025]]). Ich jakość rośnie wraz z poziomem poznawczym studenta, więc słabsi uczący się pozostają przypadkiem trudniejszym, co jest niefortunne, zważywszy że zwykle o nich chodzi. Modelowanie dynamiki poznawczej, a nie statycznej persony, idzie dalej: aktualizacje stanu w CogEvolution oparte na ICAP osiągnęły R²LC = 0,92, tam gdzie statyczne agenty osiągają 0,45, i spadły do 0,58 bez modułu ICAP ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang i in., 2026]]).
+**Warunkowanie na stanie epistemicznym.** Ramy działające bez trenowania budują prototyp poznawczy każdego studenta z [[knowledge-graph|grafu wiedzy]] i oceniają kandydatów z przeszukiwania wiązkowego na jego tle, raportując 100-procentową poprawę dokładności symulacji ([[simulating-students-diverse-cognitive-levels-2025|Wu i in., 2025]]). Ich jakość rośnie wraz z poziomem poznawczym studenta, więc słabsi uczący się pozostają przypadkiem trudniejszym, co jest niefortunne, zważywszy że zwykle o nich chodzi. Modelowanie dynamiki poznawczej, a nie statycznej persony, idzie dalej: aktualizacje stanu w CogEvolution oparte na [[icap-framework|ICAP]] osiągnęły R²LC = 0,92, tam gdzie statyczne agenty osiągają 0,45, i spadły do 0,58 bez modułu ICAP ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang i in., 2026]]).
 
 **Usunięcie wiedzy.** Wyciszenie 16 wybranych komponentów wiedzy w Mistral-7B obniżyło dokładność z około 0,75 przy 10-procentowym współczynniku zapominania do poniżej 0,5 przy 40%, podczas gdy model bazowy utrzymywał się blisko 0,85. Wyciszona wiedza okazała się odzyskiwalna przez nadzorowane douczanie i dialog prowadzony przez coacha ([[simulating-novice-students-machine-unlearning-2026|Song, Guo i Lin, 2026]]). To najbliższa rzecz do wyprodukowania nowicjusza wprost, a odzyskiwalność staje się zaletą, jeśli symulator ma uczyć się w trakcie sesji.
 
 ## Skryptować tury, nie personę
 
-Stabilność persony okazuje się problemem projektowania interakcji, a nie wyboru modelu. Krzyżując pięć modeli LLM z trzema projektami poleceń i czterema personami o różnym nasileniu objawów ADHD, skryptowane interakcje zakotwiczone w zadaniu wyeliminowały obserwowany dryf behawioralny, o nawet 97% w porównaniu z dialogiem bez skryptu. Bez jawnych instrukcji o personie reprezentacja studenta w punkcie wyjścia przechylała się ku wysokim objawom ADHD ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase i Leins, 2026]]).
+Stabilność persony okazuje się problemem projektowania interakcji, a nie wyboru modelu. Krzyżując pięć modeli LLM z trzema projektami poleceń i czterema [[neurodiversity|personami o różnym nasileniu objawów ADHD]], skryptowane interakcje zakotwiczone w zadaniu wyeliminowały obserwowany dryf behawioralny, o nawet 97% w porównaniu z dialogiem bez skryptu. Bez jawnych instrukcji o personie reprezentacja studenta w punkcie wyjścia przechylała się ku wysokim objawom ADHD ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase i Leins, 2026]]).
 
 Jeśli symulator dryfuje, trzeba najpierw spojrzeć na to, o co się go prosi tura po turze, a dopiero potem zmieniać model albo przepisywać opis studenta.
 
@@ -86,9 +86,9 @@ Wierność na poziomie działań ma własne ograniczenie. Symulatory studentów 
 
 Dwa porównania pokazują, ile kosztuje walidacja.
 
-Testowanie dziewięciu metod symulacji wobec siedmiu metryk opartych na referencjach na 382 odłożonych dialogach z największego publicznego korpusu prawdziwych dialogów studentów z korepetytorem z matematyki wykazało, że samo polecenie ustępowało dostrajaniu w aktach dialogowych (0,4998 wobec 0,6840), ROUGE-L (0,1648 wobec 0,3212) i podobieństwie kosinusowym (0,5460 wobec 0,7390). Najlepsza testowana metoda, optymalizacja preferencji na modelu 8B, pobiła nadzorowane dostrajanie tylko nieznacznie i była gorsza w błędach, a ocena ludzka z trzema korepetytorami odtworzyła ten ranking ([[simulated-students-tutoring-dialogues-2026|Scarlatos i in., 2026]]). Szczyt tej drabiny leży blisko środka, więc raportowany poziom odniesienia decyduje o tym, jak imponująco wygląda własny wynik.
+Testowanie dziewięciu metod symulacji wobec siedmiu metryk opartych na referencjach na 382 odłożonych dialogach z największego publicznego korpusu prawdziwych dialogów studentów z korepetytorem z matematyki wykazało, że samo polecenie ustępowało [[llm-training-and-fine-tuning|dostrajaniu]] w aktach dialogowych (0,4998 wobec 0,6840), ROUGE-L (0,1648 wobec 0,3212) i podobieństwie kosinusowym (0,5460 wobec 0,7390). Najlepsza testowana metoda, optymalizacja preferencji na modelu 8B, pobiła nadzorowane dostrajanie tylko nieznacznie i była gorsza w błędach, a ocena ludzka z trzema korepetytorami odtworzyła ten ranking ([[simulated-students-tutoring-dialogues-2026|Scarlatos i in., 2026]]). Szczyt tej drabiny leży blisko środka, więc raportowany poziom odniesienia decyduje o tym, jak imponująco wygląda własny wynik.
 
-SWIM to najbardziej przejrzyste porównanie polecenia, dostrajania i uczenia ze wzmocnieniem, bo ocenia każdy wygenerowany esej wobec docelowego profilu cech, a nie wrażeniowo. Polecenie oparte na rubryce dawało ograniczoną kontrolę nawet w przypadku mocnych modeli własnościowych, z najlepszym średnim QWK cechy 0,577 (Claude Sonnet) i 0,422 (GPT-5.4), oraz bliskim zeru w przypadku otwartego modelu 7B. Nadzorowane dostrajanie na prawdziwych parach ocena-esej osiągnęło 0,474 ± 0,023 dla tego modelu 7B. GRPO z nagrodą wyprowadzoną z automatycznego oceniania esejów osiągnęło 0,618 ± 0,005, a zyski utrzymały się u dwóch niezależnych oceniających, na których polityka nigdy nie trenowała ([[swim-student-writing-simulation-2026]]).
+SWIM to najbardziej przejrzyste porównanie polecenia, dostrajania i uczenia ze wzmocnieniem, bo ocenia każdy wygenerowany esej wobec docelowego profilu cech, a nie wrażeniowo. Polecenie oparte na rubryce dawało ograniczoną kontrolę nawet w przypadku mocnych modeli własnościowych, z najlepszym średnim QWK cechy 0,577 (Claude Sonnet) i 0,422 (GPT-5.4), oraz bliskim zeru w przypadku otwartego modelu 7B. Nadzorowane dostrajanie na prawdziwych parach ocena-esej osiągnęło 0,474 ± 0,023 dla tego modelu 7B. GRPO z nagrodą wyprowadzoną z [[automated-essay-scoring|automatycznego oceniania esejów]] osiągnęło 0,618 ± 0,005, a zyski utrzymały się u dwóch niezależnych oceniających, na których polityka nigdy nie trenowała ([[swim-student-writing-simulation-2026|SWIM]]).
 
 Polecenie dawało też populację wyidealizowaną, a nie realistyczną: średni znormalizowany wynik ogólny 0,74 wobec 0,58 u prawdziwych studentów i mediana długości 304 słowa wobec 167. Wytrenowane modele odtworzyły ludzkie rozkłady ocen i długości bez jakiegokolwiek nadzoru nad długością. Jedna rzecz pozostała trudna: autentyczna forma niskich kompetencji. Wytrenowane modele odtworzyły składnię, ale popełniały zbyt mało błędów ortograficznych i gramatycznych, podczas gdy polecenie symulowało słabość przez powierzchowne zepsucie tekstu, rozsypując literówki na skądinąd poprawną prozę.
 
@@ -96,7 +96,7 @@ Realizm powierzchniowy jest słabym testem w obu kierunkach. W badaniu z zaślep
 
 ## Sprawdzić, czy wystarczy opis
 
-Przed zbudowaniem kohorty warto sprawdzić tańszą opcję. Do oceny doświadczenia z nauki online przed zaangażowaniem studentów, do przewidywania porzucenia i ukończenia oraz do dawania informacji zwrotnej o projekcie, pojedynczy „opisujący” agent webowy, który przechodzi lekcję i tworzy bogaty opis doświadczenia, okazał się lepszy niż bezpośrednie symulowanie populacji studentów.
+Przed zbudowaniem kohorty warto sprawdzić tańszą opcję. Do oceny doświadczenia z [[online-teaching-and-learning|nauki online]] przed zaangażowaniem studentów, do przewidywania porzucenia i ukończenia oraz do dawania informacji zwrotnej o projekcie, pojedynczy „opisujący” agent webowy, który przechodzi lekcję i tworzy bogaty opis doświadczenia, okazał się lepszy niż bezpośrednie symulowanie populacji studentów.
 
 Symulowani studenci w tym porównaniu pokazali znacznie mniejszy zakres zachowań niż prawdziwi uczący się: w 100 agentach na pięciu lekcjach testowych odtworzyli tylko około 4% ścieżek, którymi szli prawdziwi studenci, kosztując przy tym istotnie więcej obliczeń. Potok „najpierw opisz, potem przewiduj” osiągnął najlepsze przewidywanie rozkładu porzuceń na masowym globalnym kursie CS1, ze średnią JSD 0,060 ([[ai-web-agents-lesson-design-2025|Wang, Mitchell i Piech, 2025]]).
 

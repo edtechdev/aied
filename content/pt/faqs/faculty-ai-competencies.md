@@ -1,14 +1,14 @@
 ---
 title: "Que competências o corpo docente precisa ter em relação à IA?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T08:28:16-04:00"
+updated: "2026-11-15T15:37:46-05:00"
 connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -59,13 +59,15 @@ Escreva a lista antes de planejar as sessões. Quatro dimensões mais uma camada
 
 O letramento em IA [[self-report-measures|autorrelatado]] pode divergir substancialmente da capacidade demonstrada, e esse é o alerta mais prático desta literatura para quem conduz desenvolvimento docente. Um questionário de confiança no final de uma oficina mede como a oficina pareceu.
 
+Uma pesquisa pode até ser prevista bem demais. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] classificaram 314 de 315 docentes em faixas de competência a partir de uma escala de 300 itens com α = 0,997 e sem análise fatorial, e a vinculação institucional foi o maior contribuinte — um sinal de que as pontuações rastreavam onde as pessoas trabalham, não o que elas conseguem fazer.
+
 A pesquisa sobre fluxos de trabalho [[agentic-ai|multiagente]] com professores acrescenta uma segunda razão para testar em vez de perguntar: pensamento sistêmico, crenças pedagógicas e [[self-efficacy|autoeficácia]] interagem na integração de IA, então a mesma sessão atinge de modo diferente dois docentes com a mesma formação de conteúdo. Isso argumenta a favor de programação diferenciada e contra a oficina de ferramenta única para todos que a maioria das instituições oferece.
 
 A versão barata da avaliação de desempenho é uma tarefa, não um instrumento. Peça a cada participante que traga uma tarefa avaliativa, revise-a com o modelo durante a sessão e depois defenda a revisão para um colega: o que mudou, o que ela agora avalia, o que o estudante deixou de poder ser avaliado por. Isso leva vinte minutos e diz mais do que qualquer escala de avaliação de fim de dia.
 
 ## Espere que o ponto fraco seja a integração
 
-Pesquisa recente no ensino superior põe números em onde a competência docente é forte e onde ela quebra. [[sutedjo-faculty-genai-tpack-21-2026|Um levantamento com 127 docentes em uma grande universidade de pesquisa dos EUA]] usando o instrumento [[tpack]]-21 encontrou conhecimento [[pedagogy|pedagógico]] do conteúdo autopercebido alto (M = 4,70) e conhecimento de [[tpack|conteúdo]] próximo do teto (M = 5,15). Os domínios integrados à tecnologia estavam marcadamente mais baixos: conhecimento pedagógico-tecnológico (M = 2,62), conhecimento tecnológico do conteúdo (M = 2,75) e TPACK holístico (M = 2,55, o mais baixo dos sete).
+Pesquisa recente no ensino superior põe números em onde a competência docente é forte e onde ela quebra. [[sutedjo-faculty-genai-tpack-21-2026|Um levantamento com 127 docentes em uma grande universidade de pesquisa dos EUA]] usando o instrumento [[tpack|TPACK]]-21 encontrou conhecimento [[pedagogy|pedagógico]] do conteúdo autopercebido alto (M = 4,70) e conhecimento de [[tpack|conteúdo]] próximo do teto (M = 5,15). Os domínios integrados à tecnologia estavam marcadamente mais baixos: conhecimento pedagógico-tecnológico (M = 2,62), conhecimento tecnológico do conteúdo (M = 2,75) e TPACK holístico (M = 2,55, o mais baixo dos sete).
 
 Leia a lacuna corretamente. São pessoas que sabem a matéria e sabem ensiná-la, e que não sabem como fazer um modelo fazer parte de nenhuma das duas. Expertise de conteúdo não previu conhecimento de integração de IA generativa (correlações de CK entre r = 0,11 e 0,15, todas não significativas), então um programa não pode supor que o domínio da matéria se transfere. Ele precisa construir competência por meio de trabalho deliberado e [[discipline-specific-aied|específico da disciplina]].
 
@@ -107,7 +109,7 @@ Especialistas de conteúdo vão descobrir a integração sozinhos. O conheciment
 
 Um framework vai cobrir todo mundo. O padrão de seis papéis existe porque TPACK, SAMR e os principais padrões para educadores cobrem professores da educação básica ou apenas a dimensão do ensino.
 
-Resistência é uma lacuna de conhecimento a ser preenchida. A aversão ao risco previu a intenção de forma negativa, e o trabalho sobre identidade descreve docentes raciocinando a partir de valores pedagógicos. Parte do que parece relutância é uma posição defensável sobre a dependência excessiva dos estudantes.
+Resistência é uma lacuna de conhecimento a ser preenchida. A aversão ao risco previu a intenção de forma negativa, e o [[learner-identity|trabalho sobre identidade]] descreve docentes raciocinando a partir de valores pedagógicos. Parte do que parece relutância é uma posição defensável sobre a dependência excessiva dos estudantes.
 
 ## O que vai voltar contra você
 

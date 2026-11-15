@@ -6,8 +6,9 @@ weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
+updated: "2026-11-15T15:43:50-05:00"
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -58,6 +59,8 @@ Scrivi l'elenco prima di pianificare le sessioni. Quattro dimensioni più uno st
 
 L'alfabetizzazione all'IA [[self-report-measures|autodichiarata]] può divergere in modo sostanziale dalla capacità dimostrata, ed è l'avvertimento più pratico di questa letteratura per chiunque gestisca lo sviluppo della docenza. Un questionario sulla fiducia in sé alla fine di un workshop misura come è sembrato il workshop.
 
+Un questionario può persino essere previsto fin troppo bene. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] hanno classificato 314 docenti su 315 in fasce di competenza a partire da una scala di 300 item con α = 0,997 e nessuna analisi fattoriale, e l'affiliazione istituzionale era il fattore che contribuiva di più — un segno che i punteggi seguivano dove le persone lavorano, non cosa sanno fare.
+
 La ricerca sui flussi di lavoro [[agentic-ai|multi-agente]] per l'insegnamento aggiunge una seconda ragione per verificare invece di chiedere: il pensiero sistemico, le convinzioni pedagogiche e l'[[self-efficacy|autoefficacia]] interagiscono nell'integrazione dell'IA, quindi la stessa sessione atterra in modo diverso su due docenti con lo stesso retroterra disciplinare. Questo sostiene una programmazione differenziata e va contro il workshop unico per tutti che la maggior parte delle istituzioni organizza.
 
 La versione economica della valutazione della prestazione è un compito, non uno strumento. Chiedi a ogni partecipante di portare un compito, di rivederlo con il modello durante la sessione e poi di difendere la revisione davanti a un collega: cosa è cambiato, cosa valuta adesso, su cosa lo studente non può più essere valutato. Richiede venti minuti e ti dice più di qualsiasi scala di valutazione di fine giornata.
@@ -106,7 +109,7 @@ Gli esperti di contenuto risolveranno da soli l'integrazione. La conoscenza dei 
 
 Un quadro coprirà tutti. Lo standard a sei ruoli esiste perché TPACK, SAMR e i principali standard per educatori coprono gli insegnanti K-12 o la sola dimensione didattica.
 
-La resistenza è una lacuna di conoscenza da colmare. L'avversione al rischio prediceva negativamente l'intenzione, e il lavoro sull'identità descrive docenti che ragionano a partire da valori pedagogici. Parte di ciò che sembra riluttanza è una posizione difendibile sulla dipendenza eccessiva degli studenti.
+La resistenza è una lacuna di conoscenza da colmare. L'avversione al rischio prediceva negativamente l'intenzione, e il [[learner-identity|lavoro sull'identità]] descrive docenti che ragionano a partire da valori pedagogici. Parte di ciò che sembra riluttanza è una posizione difendibile sulla dipendenza eccessiva degli studenti.
 
 ## Cosa ti tornerà indietro
 

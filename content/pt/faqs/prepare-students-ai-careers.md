@@ -1,7 +1,7 @@
 ---
 title: "O que os estudantes devem aprender para carreiras em que a IA é comum?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:37:46-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
@@ -48,6 +48,8 @@ Aqui está a resposta curta: ensine a tarefa profissional inteira, não a opera�
 [[ithaka-sr-ai-skills-college-graduates-2026|O relatório do Ithaka S+R]] pediu a 500 professores de faculdades de quatro anos dos EUA que avaliassem 26 habilidades de um framework que abrange sete categorias, e comparou suas avaliações com as de um painel de empregadores pesquisado pelos autores do framework. A discordância é sistemática, não aleatória: os professores colocaram no topo os limites da IA, a atribuição e a responsabilidade humana, enquanto os empregadores classificaram mais alto o desenho de fluxo de trabalho, a automação e o trabalho em equipe humano-IA.
 
 Duas leituras dessa lacuna são tentadoras e as duas estão erradas. A primeira é que os professores estão atrás do mercado de trabalho. A segunda é que os empregadores querem conformidade. Uma leitura mais útil é que cada grupo está descrevendo uma metade diferente do mesmo trabalho, e um graduado que só sabe fazer uma metade está mal preparado para as duas. Um estudante que não consegue explicar por que um resultado está errado não serve a um empregador que confia no fluxo de trabalho; um estudante que só sabe criticar a saída da IA não serve a um empregador que precisa da tarefa concluída.
+
+Transformar um sinal dos empregadores em mudança curricular é, em si, um processo com pontos de decisão. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] propõe seis estágios — percepção, validação com as partes interessadas, diagnóstico do programa, redesenho curricular, implementação e capacitação, e revisão de resultados —, cada um com um direito de decisão nomeado e um produto responsável, e restringe a IA a funções de apoio delimitadas, como detecção de padrões e mapeamento de competências. É uma proposta, não uma avaliação, mas nomeia os passos que um pedido de grupo consultivo costuma pular.
 
 Os limites dessa evidência importam. São prioridades declaradas em pesquisas, e o relatório não mostra que nenhum currículo produza contratações melhores, desempenho melhor ou salário melhor. O que ele te dá é um motivo defensável para perguntar se seus estudantes algum dia praticam concluir e conferir um fluxo de trabalho apoiado por IA, em vez de apenas conversar sobre isso.
 
@@ -125,6 +127,6 @@ O que ajuda é investigação na escala em que um estudante pode agir: quais tar
 
 ## Para onde ir a seguir
 
-[[career-development-and-readiness]] é a página de conceito para empregabilidade, adaptabilidade e evidência de força de trabalho, e [[ai-literacy]] cobre o que o letramento significa além da operação de ferramentas. Para construir isso em um curso específico, veja [[incorporating-ai-literacy|incorporar o letramento em IA]] e [[faculty-ai-competencies|quais competências o corpo docente precisa]].
+[[career-development-and-readiness|desenvolvimento e preparação para a carreira]] é a página de conceito para empregabilidade, adaptabilidade e evidência de força de trabalho, e [[ai-literacy|letramento em IA]] cobre o que o letramento significa além da operação de ferramentas. Para construir isso em um curso específico, veja [[incorporating-ai-literacy|incorporar o letramento em IA]] e [[faculty-ai-competencies|quais competências o corpo docente precisa]].
 
 Para o [[assessment|desenho de avaliação]] que torna o desempenho com apoio e o independente distinguíveis, veja [[redesign-assessment-ai-era|redesenhar a avaliação na era da IA]] e [[ai-grading-fairness-reliability|correção por IA]]. Para saber como evitar que o apoio se torne dependência, veja [[reducing-over-reliance|reduzir a dependência excessiva]].

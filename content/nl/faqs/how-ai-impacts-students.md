@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
-updated: "2026-10-29T14:57:55-04:00"
+updated: "2026-11-15T15:46:36-05:00"
 translation_of: faqs/how-ai-impacts-students
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
 
-U gebruikt AI voor uw studie en dat gaat goed, behalve dat het tentamen zonder hulpmiddelen voelde als het lezen van andermans aantekeningen. Of een vriend zegt dat hij niets heeft geschreven en toch een goed cijfer haalde, en u vraagt zich af wat dat voor u betekent. Of u bent een chatbot meer vragen gaan stellen dan u uw docent stelt.
+U gebruikt AI voor uw studie en dat gaat goed, behalve dat het [[summative-assessment|tentamen zonder hulpmiddelen]] voelde als het lezen van andermans aantekeningen. Of een vriend zegt dat hij niets heeft geschreven en toch een goed cijfer haalde, en u vraagt zich af wat dat voor u betekent. Of u bent een chatbot meer vragen gaan stellen dan u uw docent stelt.
 
 Het korte antwoord, in een vorm die u aan een vriend kunt doorgeven: AI is nuttig waar u feedback nodig hebt en onnuttig waar u oefening nodig hebt. Houd de denkstap voor uzelf, toets uzelf zonder de tool voordat u inlevert, en wees eerlijk over wat u hebt gebruikt. De rest van deze pagina gaat over waarom dat klopt en hoe dat er op een dinsdagavond uitziet.
 

@@ -10,9 +10,9 @@ technology: [educational-nlp, generative-ai, llm]
 ethics: [accessibility]
 audience: [instructors, curriculum designers, instructional designers]
 level: [higher ed, secondary, primary education]
-updated: "2026-11-08T04:27:04-05:00"
+updated: "2026-11-15T15:37:46-05:00"
 translation_of: "faqs/ai-support-reading-comprehension"
-source_updated: "2026-11-06T02:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Se ensina qualquer disciplina, escolhe leituras, adapta textos e decide se uma f
 
 **Encontrar e adaptar textos em escala.** A IA é forte a localizar fontes, simplificar vocabulário, gerar glossários e transformar uma passagem num [[study-with-ai|guia de estudo ou resumo]]. Use-a para as partes mecânicas da preparação da leitura — varrer, nivelar, extrair termos-chave — e mantenha a verificação humana no que importa.
 
-**Modelar o leitor em vez do texto.** Como as variáveis do leitor transportam grande parte do sinal em quão difícil um texto parece, as ferramentas que traçam o perfil do leitor preveem a dificuldade percebida melhor do que qualquer fórmula. No maior estudo da base de conhecimento, 193 estudantes alemães do ensino secundário avaliaram 3.954 frases, e os modelos baseados em perfis (melhor ensemble RMSE 0,822 vs. uma linha de base média de 1,070) superaram as pontuações Flesch dos textos, que classificaram o mesmo material como muito mais difícil do que os estudantes o experimentaram — 72,8% das anotações eram fáceis ou muito fáceis ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad, 2025]]). A versão prática: as avaliações de alguns estudantes sobre uma passagem superam o rótulo de qualquer fórmula.
+**Modelar o leitor em vez do texto.** Como as variáveis do leitor transportam grande parte do sinal em quão difícil um texto parece, as ferramentas que traçam o perfil do leitor preveem a dificuldade percebida melhor do que qualquer fórmula. No maior estudo desta literatura, 193 estudantes alemães do ensino secundário avaliaram 3.954 frases, e os modelos baseados em perfis (melhor ensemble RMSE 0,822 vs. uma linha de base média de 1,070) superaram as pontuações Flesch dos textos, que classificaram o mesmo material como muito mais difícil do que os estudantes o experimentaram — 72,8% das anotações eram fáceis ou muito fáceis ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad, 2025]]). A versão prática: as avaliações de alguns estudantes sobre uma passagem superam o rótulo de qualquer fórmula.
 
 ## Onde a IA fica aquém
 

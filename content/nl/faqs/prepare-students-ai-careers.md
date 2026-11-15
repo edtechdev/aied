@@ -1,7 +1,7 @@
 ---
 title: "Wat moeten studenten leren voor loopbanen waarin AI gewoon is?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:46:36-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
@@ -48,6 +48,8 @@ Hier is het korte antwoord: leer de hele professionele taak, niet de bediening v
 [[ithaka-sr-ai-skills-college-graduates-2026|Het rapport van Ithaka S+R]] vroeg 500 docenten van Amerikaanse vierjarige colleges 26 vaardigheden te beoordelen uit een kader met zeven categorieën, en vergeleek hun beoordelingen met een panel van werkgevers dat door de auteurs van het kader was bevraagd. Het meningsverschil is systematisch en niet toevallig: docenten zetten de grenzen van AI, naamsvermelding en menselijke verantwoordelijkheid bovenaan, terwijl werkgevers workflowontwerp, automatisering en samenwerking tussen mens en AI hoger zetten.
 
 Twee lezingen van dat gat zijn verleidelijk en beide zijn fout. De eerste is dat docenten achterlopen op de arbeidsmarkt. De tweede is dat werkgevers naleving willen. Een nuttiger lezing is dat elke groep een andere helft van dezelfde baan beschrijft, en dat een afgestudeerde die maar één helft kan, voor beide slecht is toegerust. Een student die niet kan uitleggen waarom een resultaat fout is, heeft niets aan een werkgever die de workflow vertrouwt; een student die alleen AI-output kan bekritiseren, heeft niets aan een werkgever die de taak af wil.
+
+Een werkgeverssignaal omzetten in een curriculumwijziging is zelf een proces met beslismomenten. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] stelt zes fasen voor — signaleren, validatie bij belanghebbenden, diagnose van het programma, herontwerp van het curriculum, uitvoering en bekwaamheid, en evaluatie van de uitkomsten — elk met een benoemd beslissingsrecht en een verantwoordelijke output, en beperkt AI tot afgebakende ondersteunende functies zoals patroondetectie en het in kaart brengen van competenties. Het is een voorstel en geen evaluatie, maar het benoemt de stappen die een verzoek van een adviesraad meestal overslaat.
 
 De grenzen van dit bewijs doen ertoe. Dit zijn uitgesproken prioriteiten uit enquêtes, en het rapport laat niet zien dat een curriculum betere aanwerving, betere prestaties of beter loon oplevert. Wat het u wel geeft, is een verdedigbare reden om te vragen of uw studenten ooit oefenen met het afmaken en controleren van een AI-ondersteunde workflow, in plaats van erover te praten.
 

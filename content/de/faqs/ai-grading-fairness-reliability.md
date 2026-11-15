@@ -1,7 +1,7 @@
 ---
 title: "Kann ich KI einsetzen, um die Arbeiten von Studierenden fair und verlässlich zu benoten?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-15T15:38:57-05:00"
 type: faq
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
@@ -46,11 +46,11 @@ Hier die kurze Antwort: KI-Benotung verdient ihren Platz als beaufsichtigte Assi
 
 Drei Arrangements werden „KI-Benotung" genannt, und sie tragen unterschiedliche Pflichten.
 
-Eine **Feedback-Assistenz** entwirft Kommentare oder markiert mögliche Auslassungen, die Sie annehmen, umschreiben oder verwerfen. Das Risiko bleibt auf die Kommentarqualität begrenzt, und Sie lesen alles, bevor es eine studierende Person erreicht. Eine **zweite Leserin** schlägt Kriterienpunktzahlen vor oder markiert Unstimmigkeiten, um Ihre eigene Bewertung zu strukturieren. Ihre Fehler müssen nützlich sein, nicht bloß falsch: eine Markierung, die Sie zu einer Abgabe zurückschickt, die Sie sonst nachlässig benotet hätten, ist es wert. Eine **primäre Benotung** erzeugt Punktzahlen, die zu dokumentierten Noten werden. Das ist das Arrangement, das die Evidenz in dieser Wissensbasis über enge, lokal validierte Fälle hinaus nicht stützt.
+Eine **Feedback-Assistenz** entwirft Kommentare oder markiert mögliche Auslassungen, die Sie annehmen, umschreiben oder verwerfen. Das Risiko bleibt auf die Kommentarqualität begrenzt, und Sie lesen alles, bevor es eine studierende Person erreicht. Eine **zweite Leserin** schlägt Kriterienpunktzahlen vor oder markiert Unstimmigkeiten, um Ihre eigene Bewertung zu strukturieren. Ihre Fehler müssen nützlich sein, nicht bloß falsch: eine Markierung, die Sie zu einer Abgabe zurückschickt, die Sie sonst nachlässig benotet hätten, ist es wert. Eine **primäre Benotung** erzeugt Punktzahlen, die zu dokumentierten Noten werden. Das ist das Arrangement, das die Evidenz über enge, lokal validierte Fälle hinaus nicht stützt.
 
 Wählen Sie die niedrigste Sprosse, die Ihre tatsächliche Einschränkung adressiert. Wenn Ihre Bewertungslast aus dem Prüfen eines festen Lösungsschlüssels besteht, ist gewöhnliche deterministische Benotung transparenter und prüfbarer als ein [[llm|Sprachmodell]], und die Pharmaziestudie legt nahe, dass der Vorteil des LLM bei objektiven Items teilweise ein Artefakt davon war, dass ihm während der Benotung die richtigen Antworten vorlagen. Sparen Sie das Modell für Arbeit, die Interpretation braucht, und prüfen Sie dann diese Interpretation.
 
-[[automated-assessment|Automatisiertes Assessment]] deckt die weitere Maschinerie von Benotung, Moderation und Feedbackerzeugung ab. Diese Seite ist die Urteilsfrage darunter.
+[[automated-assessment|Automatisiertes Assessment]] deckt die weitere Maschinerie von Benotung, Moderation und Feedbackerzeugung ab. Die Urteilsfrage darunter ist, ob eine dieser Maschinerien fair und zuverlässig genug ist, um eine Note zu dokumentieren.
 
 ## Was die Evidenz tatsächlich zeigt
 
@@ -110,6 +110,6 @@ Zwei Fehlerrichtungen brauchen getrennte Aufmerksamkeit. Übermäßige Abzüge s
 
 ## Wohin als Nächstes
 
-[[assessment-validity|Assessmentvalidität]] ist das Konzept, das diese Fragen entscheidet: ob die Evidenz die Inferenz stützt, die Sie ziehen wollen. [[automated-assessment]] deckt die Technologie und ihre gemessene Leistung über Formate hinweg ab, und [[ai-feedback-at-scale]] behandelt das angrenzende Problem generierter Kommentare und ob Studierende danach handeln.
+[[assessment-validity|Assessmentvalidität]] ist das Konzept, das diese Fragen entscheidet: ob die Evidenz die Inferenz stützt, die Sie ziehen wollen. [[automated-assessment|Automatisiertes Assessment]] deckt die Technologie und ihre gemessene Leistung über Formate hinweg ab, und [[ai-feedback-at-scale]] behandelt das angrenzende Problem generierter Kommentare und ob Studierende danach handeln.
 
 Was eine Note bedeuten soll, wenn Studierende KI nutzen – einschließlich Konstruktsubstitution und authentifizierter Prozessevidenz –, steht in [[redesign-assessment-ai-era|Assessment im KI-Zeitalter neu gestalten]]. Ob Detektion einen verteidigbaren Aufgabenentwurf ersetzen kann, behandelt [[should-we-use-ai-detectors|ob KI-Detektoren einzusetzen sind]]. Die Evaluationsfrage unter allem finden Sie in [[checking-whether-educational-ai-works|ob eine Bildungs-KI funktioniert]].

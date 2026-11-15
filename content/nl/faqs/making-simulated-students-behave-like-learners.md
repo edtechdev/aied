@@ -12,9 +12,9 @@ level: [higher ed, k 12]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
-updated: "2026-10-29T14:57:55-04:00"
+updated: "2026-11-15T15:46:36-05:00"
 translation_of: faqs/making-simulated-students-behave-like-learners
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -44,11 +44,11 @@ Voor de volgende demo hebt u dit helder nodig: een model vragen om een student t
 
 ## Bepaal welke vraag de simulator beantwoordt
 
-Er worden drie taken samengevat onder “gesimuleerde student”, en ze vragen verschillend instrumentarium. Een leraar of tutor laten oefenen vraagt een partner die onder druk geloofwaardig handelt. Controleren hoe een AI met verschillende leerlingprofielen omgaat vraagt dekking van de profielen die u belangrijk vindt. Uitkomsten voorspellen voor een cursus vraagt een verdeling van lerenden en niet één overtuigend individu. Een simulator die voor de eerste taak is gebouwd, zal u bij de derde teleurstellen, en het bewijs hieronder blijft ze uit elkaar houden.
+Er worden drie taken samengevat onder “gesimuleerde student”, en ze vragen verschillend instrumentarium. Een [[teacher-role|leraar]] of tutor laten oefenen vraagt een partner die onder druk geloofwaardig handelt. Controleren hoe een AI met verschillende leerlingprofielen omgaat vraagt dekking van de profielen die u belangrijk vindt. Uitkomsten voorspellen voor een cursus vraagt een verdeling van lerenden en niet één overtuigend individu. Een simulator die voor de eerste taak is gebouwd, zal u bij de derde teleurstellen, en het bewijs hieronder blijft ze uit elkaar houden.
 
 ## Benoem de lerenden die u niet dekt
 
-De nuttigste bevinding voor wie op het punt staat een simulator te vertrouwen, gaat over dekking. Twaalf leraren die bijles gaven aan LLM-studenten meldden te complexe taal, ontbrekende emotie, onnatuurlijke aandacht en onverklaarde kennissprongen, en de simulaties vertegenwoordigden slechts één van vier kwadranten van werkelijk studentgedrag ([[llm-student-simulation-teacher-insights|Martynova et al., 2026]]). Het kwadrant dat ze dekten, was het gemakkelijkste om te simuleren.
+De nuttigste bevinding voor wie op het punt staat een simulator te vertrouwen, gaat over dekking. Twaalf leraren die bijles gaven aan [[llm|LLM]]-studenten meldden te complexe taal, ontbrekende emotie, onnatuurlijke aandacht en onverklaarde kennissprongen, en de [[simulation|simulaties]] vertegenwoordigden slechts één van vier kwadranten van werkelijk studentgedrag ([[llm-student-simulation-teacher-insights|Martynova et al., 2026]]). Het kwadrant dat ze dekten, was het gemakkelijkste om te simuleren.
 
 Dat is van belang omdat bijna niemand controleert. Slechts 3% van de studies die lerenden simuleren, valideert de simulator na gebruik. Bouwt u er een en slaat u validatie over, dan zit u in de overgrote meerderheid, en bent u ook de reden dat dat cijfer citeerbaar blijft.
 
@@ -64,13 +64,13 @@ Twee opmerkingen bij dat onderzoek. Modelkeuze is niet eendimensionaal, want een
 
 Weet het model te veel, dan kunt u de toestand benoemen waarin het zou moeten zijn of de kennis aftrekken die het niet zou mogen hebben.
 
-**Conditioneer op een epistemische toestand.** Een trainingsvrij kader bouwt het cognitieve prototype van elke student op uit een [[knowledge-graph|kennisgraaf]] en scoort beam-search-kandidaten daartegen, met een gerapporteerde verbetering van 100% in simulatienauwkeurigheid ([[simulating-students-diverse-cognitive-levels-2025|Wu et al., 2025]]). De kwaliteit stijgt met het cognitieve niveau van de student, dus zwakkere lerenden blijven het moeilijkste geval, wat jammer is gezien zij meestal het punt zijn. Cognitieve dynamiek modelleren in plaats van een statische persona gaat verder: de op ICAP gebaseerde toestandsupdates van CogEvolution bereikten R²LC = 0,92 waar statische agenten 0,45 halen, en zakten naar 0,58 zonder de ICAP-module ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et al., 2026]]).
+**Conditioneer op een epistemische toestand.** Een trainingsvrij kader bouwt het cognitieve prototype van elke student op uit een [[knowledge-graph|kennisgraaf]] en scoort beam-search-kandidaten daartegen, met een gerapporteerde verbetering van 100% in simulatienauwkeurigheid ([[simulating-students-diverse-cognitive-levels-2025|Wu et al., 2025]]). De kwaliteit stijgt met het cognitieve niveau van de student, dus zwakkere lerenden blijven het moeilijkste geval, wat jammer is gezien zij meestal het punt zijn. Cognitieve dynamiek modelleren in plaats van een statische persona gaat verder: de op [[icap-framework|ICAP]] gebaseerde toestandsupdates van CogEvolution bereikten R²LC = 0,92 waar statische agenten 0,45 halen, en zakten naar 0,58 zonder de ICAP-module ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et al., 2026]]).
 
 **Verwijder de kennis.** Het onderdrukken van 16 gerichte kenniscomponenten in Mistral-7B verlaagde de nauwkeurigheid van ongeveer 0,75 bij een vergeetratio van 10% naar onder 0,5 bij 40%, terwijl het basismodel rond 0,85 bleef. De onderdrukte kennis bleek herstelbaar via supervisie-herleren en door een coach begeleide dialoog ([[simulating-novice-students-machine-unlearning-2026|Song, Guo en Lin, 2026]]). Dit komt het dichtst bij het rechtstreeks vervaardigen van een beginner, en de herstelbaarheid wordt een voordeel als u wilt dat de simulator tijdens een sessie leert.
 
 ## Script de beurten, niet de persona
 
-Personastabiliteit blijkt een ontwerpprobleem van de interactie en niet van de modelkeuze. Bij het kruisen van vijf LLM's met drie promptontwerpen en vier ADHD-intensiteitspersona's elimineerden gescripte, taakverankerde interacties de door waarnemers beoordeelde gedragsdrift, tot 97% ten opzichte van ongescripte dialoog. Zonder expliciete personainstructies helde de basisrepresentatie van studenten naar veel ADHD-symptomen ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase en Leins, 2026]]).
+Personastabiliteit blijkt een ontwerpprobleem van de interactie en niet van de modelkeuze. Bij het kruisen van vijf LLM's met drie promptontwerpen en vier [[neurodiversity|ADHD]]-intensiteitspersona's elimineerden gescripte, taakverankerde interacties de door waarnemers beoordeelde gedragsdrift, tot 97% ten opzichte van ongescripte dialoog. Zonder expliciete personainstructies helde de basisrepresentatie van studenten naar veel ADHD-symptomen ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase en Leins, 2026]]).
 
 Drijft uw simulator, kijk dan beurt voor beurt naar wat u hem vraagt te doen voordat u van model wisselt of de beschrijving van de student herschrijft.
 
@@ -86,9 +86,9 @@ Trouw op actieniveau heeft haar eigen grens. Simulators van studenten reproducer
 
 Twee vergelijkingen laten zien wat validatie kost.
 
-Bij het benchmarken van negen simulatiemethoden tegen zeven referentiegebaseerde maatstaven op 382 achtergehouden dialogen uit het grootste openbare corpus van echte wiskundedialogen tussen student en tutor, bleef prompten achter bij fine-tuning op dialooghandelingen (0,4998 tegen 0,6840), ROUGE-L (0,1648 tegen 0,3212) en cosinusgelijkenis (0,5460 tegen 0,7390). De beste geteste methode, preferentie-optimalisatie op een 8B-model, versloeg supervisie-fine-tuning slechts marginaal en was slechter op fouten, en een menselijke evaluatie met drie tutors reproduceerde die rangorde ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). De top van deze ladder zit dicht bij het midden, dus de nulmeting die u rapporteert bepaalt hoe indrukwekkend uw eigen cijfer lijkt.
+Bij het benchmarken van negen simulatiemethoden tegen zeven referentiegebaseerde maatstaven op 382 achtergehouden dialogen uit het grootste openbare corpus van echte wiskundedialogen tussen student en tutor, bleef prompten achter bij [[llm-training-and-fine-tuning|fine-tuning]] op dialooghandelingen (0,4998 tegen 0,6840), ROUGE-L (0,1648 tegen 0,3212) en cosinusgelijkenis (0,5460 tegen 0,7390). De beste geteste methode, preferentie-optimalisatie op een 8B-model, versloeg supervisie-fine-tuning slechts marginaal en was slechter op fouten, en een menselijke evaluatie met drie tutors reproduceerde die rangorde ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). De top van deze ladder zit dicht bij het midden, dus de nulmeting die u rapporteert bepaalt hoe indrukwekkend uw eigen cijfer lijkt.
 
-SWIM is de duidelijkste vergelijking van prompten, fine-tuning en versterkend leren, omdat het elk gegenereerd essay scoort tegen een doelprofiel van kenmerken in plaats van het impressionistisch te beoordelen. Op rubrieken gegrond prompten gaf beperkte controle, zelfs voor sterke propriëtaire modellen, met een beste gemiddelde kenmerk-QWK van 0,577 (Claude Sonnet) en 0,422 (GPT-5.4), en bijna nul voor een open 7B-model. Supervisie-fine-tuning op echte paren van score en essay bereikte 0,474 ± 0,023 voor dat 7B-model. GRPO met een beloning afgeleid van geautomatiseerde essaybeoordeling bereikte 0,618 ± 0,005, waarbij de winst standhield bij twee onafhankelijke beoordelaars waarop het beleid nooit was getraind ([[swim-student-writing-simulation-2026|SWIM]]).
+SWIM is de duidelijkste vergelijking van prompten, fine-tuning en versterkend leren, omdat het elk gegenereerd essay scoort tegen een doelprofiel van kenmerken in plaats van het impressionistisch te beoordelen. Op rubrieken gegrond prompten gaf beperkte controle, zelfs voor sterke propriëtaire modellen, met een beste gemiddelde kenmerk-QWK van 0,577 (Claude Sonnet) en 0,422 (GPT-5.4), en bijna nul voor een open 7B-model. Supervisie-fine-tuning op echte paren van score en essay bereikte 0,474 ± 0,023 voor dat 7B-model. GRPO met een beloning afgeleid van [[automated-essay-scoring|geautomatiseerde essaybeoordeling]] bereikte 0,618 ± 0,005, waarbij de winst standhield bij twee onafhankelijke beoordelaars waarop het beleid nooit was getraind ([[swim-student-writing-simulation-2026|SWIM]]).
 
 Prompten leverde ook een geïdealiseerde populatie op in plaats van een realistische: gemiddelde genormaliseerde totaalscore 0,74 tegen 0,58 voor echte studenten, en een mediane lengte van 304 woorden tegen 167. De getrainde modellen herstelden de menselijke verdelingen van score en lengte zonder enige supervisie op lengte. Eén ding bleef moeilijk: authentieke vorm op laag vaardigheidsniveau. Getrainde modellen herstelden de syntaxis maar schreven te weinig spelfouten en grammaticale fouten, terwijl prompten zwakte simuleerde via oppervlakkige corruptie, spelfouten uitgestrooid over verder competente tekst.
 
@@ -96,7 +96,7 @@ Oppervlakkig realisme is in beide richtingen een zwakke toets. In een geblindeer
 
 ## Controleer of een beschrijving zou volstaan
 
-Controleer de goedkopere optie voordat u een cohort bouwt. Voor het evalueren van een online leerervaring voordat studenten beginnen, het voorspellen van uitval en afronding en het geven van ontwerpfeedback, overtrof één “beschrijvende” webagent die de les doorloopt en een rijke beschrijving van de ervaring produceert het rechtstreeks simuleren van een populatie studenten.
+Controleer de goedkopere optie voordat u een cohort bouwt. Voor het evalueren van een [[online-teaching-and-learning|online leerervaring]] voordat studenten beginnen, het voorspellen van uitval en afronding en het geven van ontwerpfeedback, overtrof één “beschrijvende” webagent die de les doorloopt en een rijke beschrijving van de ervaring produceert het rechtstreeks simuleren van een populatie studenten.
 
 De gesimuleerde studenten in die vergelijking vertoonden veel minder gedragsbereik dan echte lerenden: over 100 agenten op vijf testlessen reproduceerden ze slechts ongeveer 4% van de paden die echte studenten namen, terwijl ze aanzienlijk meer rekenkracht kostten. De pijplijn van beschrijven-dan-voorspellen behaalde de beste voorspelling van de uitvalsverdeling op een massieve wereldwijde CS1-cursus, met een gemiddelde JSD van 0,060 ([[ai-web-agents-lesson-design-2025|Wang, Mitchell en Piech, 2025]]).
 

@@ -1,7 +1,7 @@
 ---
 title: "Como sei se as questões de quiz e de prova geradas por IA são realmente boas?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:37:46-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-05T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Você pede vinte questões a partir das suas notas de aula. Elas voltam com gabaritos, explicações, rótulos de dificuldade e categorias da taxonomia de Bloom, em um documento formatado que parece pronto. Seu nome está prestes a entrar nele.
 
-Aqui está a resposta curta: questões geradas são candidatas, não uma avaliação. Resolva cada uma você mesmo, verifique o que o item exige que o estudante faça de fato, e descubra como os estudantes respondem a ele antes que conte. Nos dois maiores estudos desta base de conhecimento, o sinal interessante não é que a geração funciona, e sim onde ela falha. A geração iterativa dentro de um fluxo de trabalho específico do curso produziu provas de múltipla escolha utilizáveis em 71 turmas de faculdade ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). Em uma auditoria de ciência de dados com 311 questões implantadas, os rótulos de dificuldade do modelo acompanharam quase perfeitamente os níveis de Bloom que ele mesmo havia gerado junto (ρ de Spearman = 0,90), enquanto acompanharam a nota real dos estudantes a ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An e Wang, 2026]]). O rótulo era uma descrição do prompt, não uma medida do item.
+Aqui está a resposta curta: questões geradas são candidatas, não uma avaliação. Resolva cada uma você mesmo, verifique o que o item exige que o estudante faça de fato, e descubra como os estudantes respondem a ele antes que conte. Nos dois maiores estudos, o sinal interessante não é que a geração funciona, e sim onde ela falha. A geração iterativa dentro de um fluxo de trabalho específico do curso produziu provas de múltipla escolha utilizáveis em 71 turmas de faculdade ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). Em uma auditoria de ciência de dados com 311 questões implantadas, os rótulos de dificuldade do modelo acompanharam quase perfeitamente os níveis de Bloom que ele mesmo havia gerado junto (ρ de Spearman = 0,90), enquanto acompanharam a nota real dos estudantes a ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An e Wang, 2026]]). O rótulo era uma descrição do prompt, não uma medida do item.
 
 ## A versão curta
 
@@ -120,6 +120,6 @@ Para estudantes que geram as próprias questões de prática, a mesma regra vale
 
 ## Para onde ir a seguir
 
-[[automated-question-generation]] é a página de conceito para os métodos de geração e a qualidade medida deles, e [[educational-measurement]] cobre análise de itens, confiabilidade e a psicometria que um piloto apenas insinua. As duas ficam sob [[assessment-validity|validade da avaliação]], que é o padrão que o ciclo inteiro serve.
+[[automated-question-generation|geração automatizada de questões]] é a página de conceito para os métodos de geração e a qualidade medida deles, e [[educational-measurement|medida educacional]] cobre análise de itens, confiabilidade e a psicometria que um piloto apenas insinua. As duas ficam sob [[assessment-validity|validade da avaliação]], que é o padrão que o ciclo inteiro serve.
 
 O lado do julgamento do mesmo problema pertence à [[ai-grading-fairness-reliability|correção por IA]], já que um bom item corrigido mal não é melhor que um item ruim corrigido bem. Para a questão mais ampla do que uma nota deve representar quando os estudantes podem usar IA, veja [[redesign-assessment-ai-era|redesenhar a avaliação na era da IA]].

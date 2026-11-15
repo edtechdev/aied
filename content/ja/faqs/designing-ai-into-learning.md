@@ -1,13 +1,13 @@
 ---
 title: "AI は学習体験にどう設計されるべきか？"
 created: "2026-10-10T22:54:48-04:00"
-updated: "2026-11-07T20:33:50-05:00"
+updated: "2026-11-15T15:43:36-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:

@@ -8,9 +8,9 @@ foundations: [ai-education]
 technology: [generative-ai, intelligent-tutoring]
 ethics: [bias-mitigation, equity-in-ai-education, privacy, inclusive-learning]
 audience: [instructors, administrators, software developers, researchers]
-updated: "2026-11-07T17:28:19-05:00"
+updated: "2026-11-15T15:40:11-05:00"
 translation_of: "faqs/ai-bias-fairness-education"
-source_updated: "2026-11-06T02:15:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-教育 AI 中的偏见与不公平不是一个问题。本知识库中的研究记录了偏见进入系统生命周期几乎每个阶段的方式 —— 训练数据、模型行为、[[prompt-engineering|提示]]、评分、反馈、分配决策，以及它们之下的基础设施 —— 而它对教师、开发者、研究者与行政人员的影响各不相同。贯穿这一切的模式足够一致，可以直说：要子群数字，不要平均值；用结果而非群体规模来定义“弱势”；把公平当作你要设计和审计的东西，而不是事后加上去的东西。
+教育 AI 中的偏见与不公平不是一个问题。研究记录了偏见进入系统生命周期几乎每个阶段的方式 —— 训练数据、模型行为、[[prompt-engineering|提示]]、评分、反馈、分配决策，以及它们之下的基础设施 —— 而它对教师、开发者、研究者与行政人员的影响各不相同。贯穿这一切的模式足够一致，可以直说：要子群数字，不要平均值；用结果而非群体规模来定义“弱势”；把公平当作你要设计和审计的东西，而不是事后加上去的东西。
 
 ## 偏见与不公平出现在哪里
 
@@ -34,7 +34,7 @@ ai_assist:
 
 **生成式输出：文本、图像与虚拟形象。** 模型会复制主流规范，除非被明确检查。一项对教育中 31 项文生图工具研究的系统综述发现，图像一贯以白人、男性、西方、瘦削与非残障人物为中心，年龄、体型与能力多样性基本缺席（[[bias-representation-text-to-image-education-2026|Alon 等，2026]]）。组队助手把学生导向不同体验：三个 LLM 在 11,200 个软件工程作业分配中，把男性分配到界面设计而非核心开发的比例至少比女性低 80%，而国籍独立于能力影响分配（[[genai-social-bias-software-engineering-education-2026|Entezami 等，2026]]）。甚至虚拟形象的身份线索也会改变信任：在两项实验中（N = 396），白人虚拟形象被评为更可信、更有能力，而年长的黑人女性虚拟形象受到惩罚，这一效应在 STEM 任务中被放大（[[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis 与 Kyriakidou-Zacharoudiou，2026]]）。写作工具可以把偏见转移进学生自己的作品：带有性别偏见的提示会产生更多性别刻板印象的作文，于是工具的偏见变成了学习者的产出（[[gender-bias-transfer-llm-writing|LLM 辅助写作中的性别偏见转移]]）。
 
-**数据、标签与基础设施。** 偏见在任何模型训练之前就已存在。现成的姓名检测工具对非洲姓名的召回率为 0.7647，对亚洲姓名为 0.8640，而欧洲姓名为 0.9024、美国姓名为 0.9091，微调后的模型消除了这些差距（[[ji-de-identification-personally-identifiable-information-2025|Ji 等，2025]]）。训练语料与分词在结构上使代表性不足语言的使用者处于不利（[[structural-silence-underrepresented-language-ai-2026|结构性沉默]]），LLM 生成的学习者画像带有会向下游传播的地域与性别先验（[[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas 等，2026]]），而模型背后的真实标签也应受到与模型本身同样的审视（[[ground-truth-reliability-aied|真实标签的可靠性]]）。
+**数据、标签与基础设施。** 偏见在任何模型训练之前就已存在。现成的姓名检测工具对非洲姓名的召回率为 0.7647，对亚洲姓名为 0.8640，而欧洲姓名为 0.9024、美国姓名为 0.9091，微调后的模型消除了这些差距（[[ji-de-identification-personally-identifiable-information-2025|Ji 等，2025]]）。训练数据与分词在结构上使代表性不足语言的使用者处于不利（[[structural-silence-underrepresented-language-ai-2026|结构性沉默]]），LLM 生成的学习者画像带有会向下游传播的地域与性别先验（[[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas 等，2026]]），而模型背后的真实标签也应受到与模型本身同样的审视（[[ground-truth-reliability-aied|真实标签的可靠性]]）。
 
 **检测工具对多语写作者打击最重。** 由于 [[ai-detection|检测器]] 依据文本可预测性分类，附加语言写作的低困惑度与公式化密度会触发误判的“AI”标记：已有研究把非母语者大量真实的 TOEFL 作文误分类（[[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier，2026]]），而编辑一篇非母语论文会双向改变判定 —— 在一种检测器下被标记的可能性低 10.7 个百分点，在另一种下高 5.8 个百分点（[[park-style-confound-ai-detection-non-native-writing-2026|Park、Jeong 与 Kim，2026]]）。
 

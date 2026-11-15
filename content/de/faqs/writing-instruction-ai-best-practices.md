@@ -1,7 +1,7 @@
 ---
 title: "Was sind Best Practices für Schreibunterweisung im Kontext von KI?"
 created: "2026-09-12T08:13:03-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-15T15:40:40-05:00"
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
@@ -10,7 +10,7 @@ weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -150,17 +150,17 @@ Lesen Sie die beiden Stücke nebeneinander und fragen Sie, ob das Schlussfolgern
 
 Zwei Ergebnisse, die widersprüchlich wirken, sind vereinbar. Sorgfältig kalibrierte Systeme mit detaillierten Rubriken und Beispielen können bestimmte Aufgaben gut bewerten, und unangepasste [[llm|LLM]]-Bewertung weicht erheblich vom menschlichen Urteil ab. [[llms-do-not-grade-essays-like-humans-2026|Mathew et al.]] fanden schwache Übereinstimmung zwischen Mensch und LLM, die systematisch mit der Aufsatzqualität variiert: Modelle überbelohnen kurze, oberflächlich lesbare Aufsätze, unterbelohnen längere und stärkere Aufsätze mit kleineren Oberflächenfehlern und clustern zur Mitte der Skala. Dieses Muster stützt KI für [[formative-assessment|formatives]] Feedback mit niedrigen Einsätzen, das Entwerfen von Kommentaren und Triage weit mehr als für autonome [[summative-assessment|summative]] Bewertung ([[automated-essay-scoring|Automatisiertes Aufsatz-Scoring]]).
 
-Studierende ziehen selbst eine ähnliche Grenze. In einem Grundkurs für technische Kommunikation, in dem [[generative-ai|ChatGPT]] handschriftliche Texte bewertete und die Studierenden darüber informiert wurden, fanden alle 13 Teilnehmenden das Feedback klar und nützlich für Überarbeitung auf Oberflächenebene. Die meisten trennten den Nutzen des Feedbacks von der Bewertungsautorität: Sie akzeptierten die Kritik und bestanden darauf, dass die Lehrkraft die Note entscheidet ([[student-perspectives-ai-writing-grading-2026]]). Gestalten Sie [[human-in-the-loop-ai|menschliche Aufsicht]] als den Punkt, an dem KI-Ausgaben zu einer Note werden, und nicht als Gefälligkeit, die bei Gelegenheit angeboten wird.
+Studierende ziehen selbst eine ähnliche Grenze. In einem Grundkurs für technische Kommunikation, in dem [[generative-ai|ChatGPT]] handschriftliche Texte bewertete und die Studierenden darüber informiert wurden, fanden alle 13 Teilnehmenden das Feedback klar und nützlich für Überarbeitung auf Oberflächenebene. Die meisten trennten den Nutzen des Feedbacks von der Bewertungsautorität: Sie akzeptierten die Kritik und bestanden darauf, dass die Lehrkraft die Note entscheidet ([[student-perspectives-ai-writing-grading-2026|AlGhamdi, 2026]]). Gestalten Sie [[human-in-the-loop-ai|menschliche Aufsicht]] als den Punkt, an dem KI-Ausgaben zu einer Note werden, und nicht als Gefälligkeit, die bei Gelegenheit angeboten wird.
 
 ## Beurteilen Sie die Belege, bevor Sie den Lehrplan umschreiben
 
-Die Argumentation für diese Designs ist vielversprechend und noch nicht stark genug, um eine universelle KI-Schreibrichtlinie zu rechtfertigen. Einige der besten Belege stammen aus umfangreichen Unterrichtsstudien wie [[pairr-ai-peer-review-2025|PAIRR]] mit seinen 654 Studierenden. Vieles andere ruht auf Quasi-Experimenten, kleinen experimentellen Stichproben, konzeptuellen Analysen und Arbeiten aus 2025–2026, die noch neu sind: [[layer-sensitive-cognitive-offloading-writing-2026|Chens Studie zum begrenzten Schreiben]] hatte 168 Studierende, aber nur sechs intakte Klassen, die [[ai-writing-support-stage-ownership-2026|Eigentumsstudie]] nutzte eine kurze experimentelle Schreibaufgabe, und eine Studie, die unmittelbare Qualitätsgewinne nach ChatGPT-Übung berichtete, umfasste nur 21 internationale Studierende im ersten Jahr und belegte keinen langfristigen [[transfer-of-learning|Transfer]] ([[chatgpt-academic-writing-quality-ownership-2026]]). Was die Wissensbasis zu [[ai-education|KI in der Bildung]] stützt, ist eine Reihe von Designprinzipien, und der verlässlichste studienübergreifende Befund darin ist, die [[agency|Handlungsfähigkeit]], das [[evaluative-judgment|Bewertungsurteil]], die eigenständige Kompetenz, das disziplinäre Schlussfolgern und das menschliche Feedback der Studierenden zu erhalten, während KI genutzt wird, um den Zugang zu Kritik, Übung, Überarbeitungsunterstützung und sprachlicher Hilfe zu erweitern.
+Die Argumentation für diese Designs ist vielversprechend und noch nicht stark genug, um eine universelle KI-Schreibrichtlinie zu rechtfertigen. Einige der besten Belege stammen aus umfangreichen Unterrichtsstudien wie [[pairr-ai-peer-review-2025|PAIRR]] mit seinen 654 Studierenden. Vieles andere ruht auf Quasi-Experimenten, kleinen experimentellen Stichproben, konzeptuellen Analysen und Arbeiten aus 2025–2026, die noch neu sind: [[layer-sensitive-cognitive-offloading-writing-2026|Chens Studie zum begrenzten Schreiben]] hatte 168 Studierende, aber nur sechs intakte Klassen, die [[ai-writing-support-stage-ownership-2026|Eigentumsstudie]] nutzte eine kurze experimentelle Schreibaufgabe, und eine Studie, die unmittelbare Qualitätsgewinne nach ChatGPT-Übung berichtete, umfasste nur 21 internationale Studierende im ersten Jahr und belegte keinen langfristigen [[transfer-of-learning|Transfer]] ([[chatgpt-academic-writing-quality-ownership-2026|Bauer et al., 2026]]). Was die Forschung zu [[ai-education|KI in der Bildung]] stützt, ist eine Reihe von Designprinzipien, und der verlässlichste studienübergreifende Befund ist, die [[agency|Handlungsfähigkeit]], das [[evaluative-judgment|Bewertungsurteil]], die eigenständige Kompetenz, das disziplinäre Schlussfolgern und das menschliche Feedback der Studierenden zu erhalten, während KI genutzt wird, um den Zugang zu Kritik, Übung, Überarbeitungsunterstützung und sprachlicher Hilfe zu erweitern.
 
 Diese Mischung hat eine praktische Konsequenz. Ändern Sie eine Aufgabe, behalten Sie das Artefakt, und vergleichen Sie die nächste Kohorte mit dieser an derselben Messgröße. Eine Regel, die Sie nach einem Semester überarbeiten können, ist mehr wert als eine Richtlinie, die Sie nicht testen können, und die kleinen Studien oben sagen Ihnen nicht, was in Ihrem Kurs geschieht.
 
 ## Was Lehrende dabei falsch machen
 
-**Ein Detektor klärt, ob der Text von der studierenden Person stammt.** Das tut er nicht. In einer verdeckten Feldstudie blieben 94 % der KI-generierten Prüfungsabgaben unentdeckt und erzielten höhere Punktzahlen als echte Studierende, und eine kontrollierte Studie fand, dass Detektoren regelkonforme leichte KI-Bearbeitung zu 38–80 % markierten, während sie mehr als 96 % der humanisierten Umschreibungen übersahen ([[teichmann-detecting-undetectable-misconduct-2026]]; [[karr-ai-detection-humanization-2026]]). Detektion beantwortet eine Detektionsfrage, und [[assessment-validity|Validität]] ist eine andere Frage.
+**Ein Detektor klärt, ob der Text von der studierenden Person stammt.** Das tut er nicht. In einer verdeckten Feldstudie blieben 94 % der KI-generierten Prüfungsabgaben unentdeckt und erzielten höhere Punktzahlen als echte Studierende, und eine kontrollierte Studie fand, dass Detektoren regelkonforme leichte KI-Bearbeitung zu 38–80 % markierten, während sie mehr als 96 % der humanisierten Umschreibungen übersahen ([[teichmann-detecting-undetectable-misconduct-2026|Teichmann, 2026]]; [[karr-ai-detection-humanization-2026|Karr et al., 2026]]). Detektion beantwortet eine Detektionsfrage, und [[assessment-validity|Validität]] ist eine andere Frage.
 
 **Eine kursweite Richtlinie ist klarer als eine Regel pro Aufgabe.** Die Richtlinien von Nash und Burriss waren kursweite Dokumente, und 22 von 27 erlaubten Brainstorming, 22 beschränkten oder verwischten das Verfassen, und 22 schwiegen zum Lesen. Ein Dokument, das alles abdeckt, neigt dazu, bei dem Schritt konkret zu sein, um den sich die Lehrkraft sorgt, und beim Rest vage.
 
@@ -172,7 +172,7 @@ Diese Mischung hat eine praktische Konsequenz. Ändern Sie eine Aufgabe, behalte
 
 ## Was Ihnen entgegenkommen wird
 
-**„Ich habe keine Zeit, noch ein Artefakt zu lesen.“** Dann machen Sie das Artefakt klein: vier Spalten Entscheidungstabelle oder fünf Minuten Schreiben im Unterricht als unabhängige Probe. Der Korpus berichtet keine Daten zur Korrekturzeit für diese Designs, sodass der Arbeitsaufwand an einer Aufgabe getestet werden muss und nicht aus dieser Seite angenommen werden darf.
+**„Ich habe keine Zeit, noch ein Artefakt zu lesen.“** Dann machen Sie das Artefakt klein: vier Spalten Entscheidungstabelle oder fünf Minuten Schreiben im Unterricht als unabhängige Probe. Keine Studie berichtet Daten zur Korrekturzeit für diese Designs, sodass der Arbeitsaufwand an einer Aufgabe getestet werden muss und nicht angenommen werden darf.
 
 **„Meine Studierenden werden KI nutzen, egal was die Regel sagt.“** Das werden sie, und die Designfrage ist, welche Antwort Ihre Aufgabe am leichtesten macht. Eine Erklärung, die nichts kostet, und eine Rubrik, die den Prozess belohnt, machen Offenlegung zum billigeren Weg. Dieser Mechanismus stammt aus Modellierung und nicht aus einer Erprobung einer Offenlegungsrichtlinie; behandeln Sie die Vorhersage also als plausibel und unbestätigt.
 
@@ -182,7 +182,7 @@ Diese Mischung hat eine praktische Konsequenz. Ändern Sie eine Aufgabe, behalte
 
 **„Das Modell bewertet diese Aufgabe so gut wie ich.“** Kalibrierte Systeme mit detaillierten Rubriken und ausgearbeiteten Beispielen können bestimmte Aufgaben gut bewerten. Generische Bewertung kann das nicht, und Mathew et al. zeigen, dass die Abweichung der Aufsatzqualität folgt statt zufällig zu streuen, was die schwerer zu bemerkende Fehlerart ist. Testen Sie das Werkzeug an Ihrem eigenen bewerteten Set, bevor es eine Note berührt.
 
-**„Das benachteiligt Studierende, deren akademisches Englisch schwächer ist.“** Das kann es, wenn die Regel Ausdruck und Autorschaft als eines behandelt. Trennen Sie beides, und prüfen Sie das KI-Feedback auf das Muster, das Tan et al. fanden, wonach identische Texte mehr Lob und weniger substanzielle Kritik erhielten, sobald demografische oder bildungsbezogene Merkmale im Prompt waren. Der Korpus dokumentiert diesen Bias. Er berichtet keine getestete Behebung, also ist Ihr eigener Vergleich die Prüfung.
+**„Das benachteiligt Studierende, deren akademisches Englisch schwächer ist.“** Das kann es, wenn die Regel Ausdruck und Autorschaft als eines behandelt. Trennen Sie beides, und prüfen Sie das KI-Feedback auf das Muster, das Tan et al. fanden, wonach identische Texte mehr Lob und weniger substanzielle Kritik erhielten, sobald demografische oder bildungsbezogene Merkmale im Prompt waren. Dieser Bias ist dokumentiert. Eine getestete Behebung wird nicht berichtet, also ist Ihr eigener Vergleich die Prüfung.
 
 ## Was Sie diese Woche tun können
 
@@ -198,4 +198,4 @@ Diese Mischung hat eine praktische Konsequenz. Ändern Sie eine Aufgabe, behalte
 
 ## Wohin als Nächstes
 
-Die Assessmentsseite dieses Arguments, einschließlich der Gestaltung authentifizierter Schritte, steht in [[redesign-assessment-ai-era]]. Für das Richtliniendokument, das Studierende tatsächlich lesen, siehe [[course-ai-policy]], und für die Feedbackwerkzeuge selbst [[ai-feedback-quality]]. [[verify-ai-output]] behandelt, was Studierende prüfen sollten, wenn das Modell eine Behauptung oder eine Quelle liefert, und die Konzeptseite [[coach-not-crutch-ai-writing]] formuliert die Grenze, zu der diese Seite immer wieder zurückkehrt.
+Die Assessmentsseite dieses Arguments, einschließlich der Gestaltung authentifizierter Schritte, steht in [[redesign-assessment-ai-era]]. Für das Richtliniendokument, das Studierende tatsächlich lesen, siehe [[course-ai-policy]], und für die Feedbackwerkzeuge selbst [[ai-feedback-quality|Qualität von KI-Feedback]]. [[verify-ai-output]] behandelt, was Studierende prüfen sollten, wenn das Modell eine Behauptung oder eine Quelle liefert, und [[coach-not-crutch-ai-writing|Lira et al. (2025)]] formuliert die Grenze, auf die es am meisten ankommt.

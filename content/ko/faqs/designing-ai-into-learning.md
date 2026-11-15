@@ -1,13 +1,13 @@
 ---
 title: "AI를 학습 경험에 어떻게 설계해야 합니까?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-15T15:43:03-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -45,7 +45,7 @@ ai_assist:
 
 ## 도구 없이 학습자가 무엇을 하는지 정하십시오
 
-지식베이스의 [[pedagogy|교수법과 교수 전략]] 개념이 그 시험을 제공합니다. 그 구성이 의도된 학습을 만들어 내는 활동을 보존하는가? 누군가 기능을 고르기 전에, 종이 위에서 그 답을 내십시오.
+[[pedagogy|교수법과 교수 전략]] 개념이 그 시험을 제공합니다. 그 구성이 의도된 학습을 만들어 내는 활동을 보존하는가? 누군가 기능을 고르기 전에, 종이 위에서 그 답을 내십시오.
 
 [[finkelstein-principled-ai-education-2025|The Principled AI Education Framework]]은 일반 원칙을 진술합니다. 기술은 교육이 발전시키려는 인간 역량을 대체하는 것이 아니라 증강해야 합니다. 이를 모듈에 대한 시험으로 쓰면, 역량을 지목하고, 그것을 쌓는 활동을 지목하고, AI가 그 활동 안에 앉는지 옆에 앉는지 묻는 것입니다.
 
@@ -119,4 +119,4 @@ AI를 더하는 것이 개입으로 셈해집니다. 학습을 바꾸는 것은 
 
 ## 다음으로 갈 곳
 
-[[learning-design|교수 설계]], [[active-learning|능동 학습]], [[scaffolding]]이 설계 어휘를 제공합니다. 설계된 활동이 학습을 보존하는지를 결정하는 상호작용 수준의 기본값은 [[reduce-ai-cheating]]와 [[redesign-assessment-ai-era]]를 보십시오. [[designing-educational-ai-software]]는 같은 원칙이 소프트웨어 자체를 어떻게 제약하는지를 다루고, [[developing-ai-tutor]]는 그것을 튜터의 구조로 옮깁니다.
+[[learning-design|교수 설계]], [[active-learning|능동 학습]], [[scaffolding|비계]]가 설계 어휘를 제공합니다. 설계된 활동이 학습을 보존하는지를 결정하는 상호작용 수준의 기본값은 [[reduce-ai-cheating]]와 [[redesign-assessment-ai-era]]를 보십시오. [[designing-educational-ai-software]]는 같은 원칙이 소프트웨어 자체를 어떻게 제약하는지를 다루고, [[developing-ai-tutor]]는 그것을 튜터의 구조로 옮깁니다.

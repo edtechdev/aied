@@ -1,7 +1,7 @@
 ---
 title: "Czego powinni uczyć się studenci na potrzeby karier, w których AI jest powszechna?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:47:44-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
@@ -48,6 +48,8 @@ Krótka odpowiedź do przekazania współpracownikowi: ucz całego zadania zawod
 [[ithaka-sr-ai-skills-college-graduates-2026|Raport Ithaka S+R]] poprosił 500 wykładowców amerykańskich czteroletnich uczelni o ocenę 26 umiejętności z ram obejmujących siedem kategorii i porównał ich oceny z panelem pracodawców ankietowanych przez autorów ram. Rozbieżność jest systematyczna, a nie losowa: wykładowcy umieścili na górze ograniczenia AI, atrybucję i ludzką odpowiedzialność, a pracodawcy wyżej ocenili projektowanie przebiegu pracy, automatyzację i współpracę człowiek-AI.
 
 Kuszące są dwa odczytania tej luki i oba są błędne. Pierwsze mówi, że wykładowcy zostali za rynkiem pracy. Drugie, że pracodawcy chcą posłuszeństwa. Użyteczniejsze odczytanie jest takie, że każda grupa opisuje inną połowę tej samej pracy, a absolwent, który potrafi tylko jedną połowę, jest nieprzygotowany do obu. Student, który nie umie wyjaśnić, dlaczego wynik jest błędny, jest bezużyteczny dla pracodawcy ufającego przebiegowi pracy; student, który potrafi tylko krytykować wynik AI, jest bezużyteczny dla pracodawcy, który potrzebuje wykonanego zadania.
+
+Przełożenie sygnału od pracodawców na zmianę programu nauczania samo jest procesem z punktami decyzyjnymi. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] proponuje sześć etapów — rozpoznanie, walidację z interesariuszami, diagnozę programu, przeprojektowanie programu, wdrożenie i zdolność oraz przegląd wyników — z nazwanym prawem decyzyjnym i odpowiedzialnym produktem na każdym z nich, i ogranicza SI do zamkniętych funkcji wspierających, takich jak wykrywanie wzorców i mapowanie kompetencji. To propozycja, a nie ewaluacja, ale nazywa kroki, które prośba grupy doradczej zwykle pomija.
 
 Granice tych dowodów mają znaczenie. To zgłoszone priorytety z ankiet, a raport nie pokazuje, że jakikolwiek program nauczania daje lepsze zatrudnienie, lepsze wyniki czy lepsze zarobki. Daje ci za to obronny powód, by zapytać, czy twoi studenci kiedykolwiek ćwiczą wykonanie i sprawdzenie przebiegu pracy wspieranego przez AI, w odróżnieniu od rozmawiania o nim.
 
@@ -126,6 +128,6 @@ Pomaga badanie w skali, na którą student może działać: jakie zadania napraw
 
 ## Dokąd dalej
 
-[[career-development-and-readiness]] to strona pojęcia dla zatrudnialności, adaptacyjności i dowodów o rynku pracy, a [[ai-literacy]] obejmuje to, co znaczą kompetencje poza obsługą narzędzi. O wbudowaniu tego w konkretny kurs zobacz [[incorporating-ai-literacy|wprowadzanie kompetencji w zakresie AI]] i [[faculty-ai-competencies|jakie kompetencje potrzebuje kadra akademicka]].
+[[career-development-and-readiness|Rozwój kariery i gotowość zawodowa]] to strona pojęcia dla zatrudnialności, adaptacyjności i dowodów o rynku pracy, a [[ai-literacy|kompetencje w zakresie SI]] obejmują to, co znaczy biegłość poza obsługą narzędzi. O wbudowaniu tego w konkretny kurs zobacz [[incorporating-ai-literacy|wprowadzanie kompetencji w zakresie AI]] i [[faculty-ai-competencies|jakie kompetencje potrzebuje kadra akademicka]].
 
 O projekcie [[assessment|oceniania]], który czyni wykonanie wspierane i samodzielne rozróżnialnymi, zobacz [[redesign-assessment-ai-era|przeprojektowanie oceniania w erze AI]] i [[ai-grading-fairness-reliability|ocenianie przez AI]]. O tym, jak nie pozwolić, by wsparcie stało się zależnością, zobacz [[reducing-over-reliance|ograniczanie nadmiernej zależności]].

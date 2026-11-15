@@ -1,7 +1,7 @@
 ---
 title: "AI가 교육 연구를 어떻게 도울 수 있을까요?"
 created: "2026-10-05T11:23:36-04:00"
-updated: "2026-11-07T23:52:36-05:00"
+updated: "2026-11-15T15:43:03-05:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -16,7 +16,7 @@ level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -83,7 +83,7 @@ ai_assist:
 
 ## 빠르게 검색하되 모든 출처는 직접 확인하십시오
 
-생성형 검색은 요약하고, 추천하고, 종합하고, 대화합니다. 이는 시스템이 찾고 독자가 해석하던 옛 배치를 흔듭니다 ([[genai-academic-search-workshop]]). 그것을 발견 도구로 다루십시오. 워크숍 보고서는 두 가지 주의를 담고 있습니다. 역량이 고르지 않아 피인용이 높은 학자들이 인용이 낮은 동료보다 대략 두 배의 비율로 재구성되었고, 한 [[librarians|사서]]는 학생들이 생성형 검색을 과신하는 반면 교수진은 불신하는 신뢰 격차를 서술했습니다.
+생성형 검색은 요약하고, 추천하고, 종합하고, 대화합니다. 이는 시스템이 찾고 독자가 해석하던 옛 배치를 흔듭니다 ([[genai-academic-search-workshop|생성형 AI 학술 검색 워크숍]]). 그것을 발견 도구로 다루십시오. 워크숍 보고서는 두 가지 주의를 담고 있습니다. 역량이 고르지 않아 피인용이 높은 학자들이 인용이 낮은 동료보다 대략 두 배의 비율로 재구성되었고, 한 [[librarians|사서]]는 학생들이 생성형 검색을 과신하는 반면 교수진은 불신하는 신뢰 격차를 서술했습니다.
 
 참고문헌 검증은 이것이 타협 불가가 되는 지점이고, 실패는 공로를 담고 있는 저자 필드에 몰립니다. [[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]]은 723,930편의 출판물과 15,872,533개의 참고문헌을 감사해, 컴퓨팅 교육 논문 14편에서 조작된 참고문헌 30개를 확인했으며 모두 2025년과 2026년 것이었습니다. 30개 중 17개는 혼종이었습니다. 실제 제목에 조작되었거나 틀린 저자가 붙은 경우입니다. 한 기술 심포지엄에서 확인된 개수는 2025년 3개에서 2026년 17개로 늘었고, 그해 회의록 논문의 2.3%에 해당합니다. 이들의 합계는 의도된 하한이며, 자동 점검기는 자신이 진실로 취급하는 메타데이터의 결함을 물려받습니다. 저자부터 확인하십시오.
 
@@ -115,7 +115,7 @@ ai_assist:
 
 AI의 역할, 여러분이 한 검증, 단일 강좌·단일 연구자 설계의 한계를 보고하십시오. 작업 흐름 보고는 효능 결과가 아닙니다.
 
-집단 시뮬레이션은 기본값이 아니라 고급 선택지로 다루십시오. 시뮬레이션된 학습자는 실제 학생 행동의 가장 쉬운 사분면을 덮는 경향이 있고, 사용 후 타당화되는 경우가 드뭅니다 ([[simulating-students]]). [[simulation|시뮬레이터]]의 판정을 신뢰하기 전에 [[making-simulated-students-behave-like-learners]]를 읽으십시오.
+집단 시뮬레이션은 기본값이 아니라 고급 선택지로 다루십시오. 시뮬레이션된 학습자는 실제 학생 행동의 가장 쉬운 사분면을 덮는 경향이 있고, 사용 후 타당화되는 경우가 드뭅니다 ([[simulating-students|학생 시뮬레이션]]). [[simulation|시뮬레이터]]의 판정을 신뢰하기 전에 [[making-simulated-students-behave-like-learners]]를 읽으십시오.
 
 ## 연구자들이 이것에 대해 착각하는 것
 
@@ -155,4 +155,4 @@ AI는 프로젝트에서 일을 덜어낸다. 115일 사례 연구는 에이전�
 
 ## 다음에 볼 곳
 
-짝을 이루는 질문은 중재를 어떻게 측정할지 다루는 [[evaluating-ai-interventions-methods]], 시스템과 여러분 자신의 AI 사용을 어떻게 보고할지 다루는 [[reporting-interpreting-aied-research]], 문헌이 얇은 곳을 다루는 [[research-gaps-aied]]입니다. [[equity-ethics-pedagogical-safety-research]]는 학생 데이터를 다루고, [[ai-assisted-educational-research]]는 이 페이지 뒤의 전체 개념 페이지입니다.
+짝을 이루는 질문은 중재를 어떻게 측정할지 다루는 [[evaluating-ai-interventions-methods]], 시스템과 여러분 자신의 AI 사용을 어떻게 보고할지 다루는 [[reporting-interpreting-aied-research]], 문헌이 얇은 곳을 다루는 [[research-gaps-aied]]입니다. [[equity-ethics-pedagogical-safety-research|형평성·윤리·교수법적 안전 연구]]는 학생 데이터를 다루고, [[ai-assisted-educational-research|AI 지원 교육 연구]]는 이 페이지 뒤의 전체 개념 페이지입니다.

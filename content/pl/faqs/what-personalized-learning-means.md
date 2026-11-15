@@ -1,7 +1,7 @@
 ---
 title: "Co tak naprawdę oznacza spersonalizowane uczenie się i kiedy pomaga?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:50:27-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
@@ -122,6 +122,6 @@ Mierz samodzielne wykonanie, retencję lub transfer tam, gdzie możesz, czas i w
 
 ## Dokąd dalej
 
-[[personalized-learning]] to strona pojęcia dla definicji, słownictwa marketingowego i bazy dowodów, a [[adaptive-learning]] obejmuje mechanizm i jego pomiar. [[intelligent-tutoring]] to miejsce, gdzie model uczącego się spotyka projekt korepetytora.
+[[personalized-learning|Personalizacja uczenia się]] to strona pojęcia dla definicji, słownictwa marketingowego i bazy dowodów, a [[adaptive-learning|uczenie adaptacyjne]] obejmuje mechanizm i jego pomiar. [[intelligent-tutoring|tutoring inteligentny]] to miejsce, gdzie model uczącego się spotyka projekt korepetytora.
 
 O projektowaniu aktywności, w której personalizacja jest jedną decyzją wśród kilku, zobacz [[designing-ai-into-learning|projektowanie AI w doświadczenie uczenia się]]. O tym, jak stwierdzić, czy system działa, zanim zwiększysz skalę, zobacz [[checking-whether-educational-ai-works|sprawdzanie, czy edukacyjna AI działa]].

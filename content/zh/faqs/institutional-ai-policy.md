@@ -1,7 +1,7 @@
 ---
 title: "我们如何撰写并落实一项机构层面的人工智能政策？"
 created: "2026-09-22T20:06:03-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-15T15:43:55-05:00"
 weight: 65
 type: faq
 ethics: [equity-in-ai-education, ethics, privacy]
@@ -9,7 +9,7 @@ research_method: [policy analysis, literature review, delphi]
 audience: [administrators, policymakers, institutions]
 level: [higher ed]
 institutions: [change-management, educational-policy-ai, governance]
-source_updated: "2026-10-28T11:39:28-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/institutional-ai-policy
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -55,6 +55,8 @@ ai_assist:
 这些文件优先处理什么，说明了作者认为这份文件是干什么用的。校级政策覆盖数据安全、风险缓解、采购和法律合规，[[pedagogy|教学]]指导极少。而存在的院系级政策则集中于教学和[[ai-literacy|AI 素养]]。只有八所[[business-education|商学院]]有自己的政策，其中八分之六与本机构的框架不一致。
 
 作者提出的补救办法是分层结构：一层全校性的风险管理、一层院系级政策，以及由教师和学生组成的跨院系委员会。采用它，你就得到一句能在校务会上为之辩护的范围说明。这份文件管理机构风险；教学决定留给给这份作业打分的院系。分层也回答了“含糊”这项指责，而不必写出 40 页。
+
+第二处空白在产出侧。那份清单里几乎所有政策管的都是学生和员工拿 AI 做什么；几乎没有任何一份管机构用 AI 产出的材料。Chew（2026）认为这一遗漏是结构性的：AI 生成的图像、案例和试题作为教学内容进入课程，在那里一个看似合理的错误会到达每一位学习者，而且可能永远不会像学生的错误那样产生信号（[[chew-ai-content-governance-medical-education-2026|Chew，2026]]）。只到学习者使用为止的政策，把后果更重的那种使用留在了未处理的状态。补上它的四项条款是：知道正在使用什么、在学习者看到之前测试、对发现采取行动（包括撤回），以及监测已批准的工具是否漂移。
 
 ## 写下能约束人的条款，否则就把它们删掉
 
@@ -108,7 +110,7 @@ ai_assist:
 
 ## 公布之前先说清你要测量什么
 
-本语料库中没有任何研究测量过一所机构的 AI 政策是否改变了学生行为、员工实践或学习结果。存在的是描述性的东西。Manikonda 和 Outlaw 发现政策语言薄弱且错位。Ashiq 记录了漂移。Baroudi 把纵向与因果证据的缺失列为一个缺口。Eldredge 等人提醒，分析公开文件会产生可见性偏差，所以隐私或公平语言的缺失，是关于已公布指南的发现，而不是关于实践的发现。
+没有任何研究测量过一所机构的 AI 政策是否改变了学生行为、员工实践或学习结果。存在的是描述性的东西。Manikonda 和 Outlaw 发现政策语言薄弱且错位。Ashiq 记录了漂移。Baroudi 把纵向与因果证据的缺失列为一个缺口。Eldredge 等人提醒，分析公开文件会产生可见性偏差，所以隐私或公平语言的缺失，是关于已公布指南的发现，而不是关于实践的发现。
 
 由此有两个习惯。给政策附上一份评估计划：你会测量什么、什么时候测、谁拥有这个发现。以及，当同事引用另一所机构的政策来证明某项措施有效时，核查那个说法是关于一份文件，还是关于一个结果。[[policy-deficit-ai-sel-2026|Tran, Liu and Nguyen (2026)]]综述了 65 篇关于 AI 与[[social-emotional-learning|社会情感学习]]的同行评议论文，发现近四分之三完全没提政策意涵。在提到的那少数里，多数缺少真正政策制定所需的行动者具体信息：谁应当行动、针对什么、为什么、何时、如何。
 

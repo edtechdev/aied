@@ -1,14 +1,14 @@
 ---
 title: "Como devo incorporar a alfabetização em IA no meu curso?"
 created: "2026-08-24T09:50:00-04:00"
-updated: "2026-10-29T08:28:16-04:00"
+updated: "2026-11-15T15:37:46-05:00"
 connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
 translation_of: faqs/incorporating-ai-literacy
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -42,7 +42,7 @@ O ponto central: acrescente uma etapa a um trabalho que você já avalia, na qua
 
 ## Não acrescente uma aula, acrescente uma etapa a um trabalho que você já avalia
 
-O movimento institucional padrão é um módulo isolado, geralmente no início do semestre, sobre como os grandes modelos de linguagem funcionam e como escrever prompts. A síntese de [[ai-literacy|letramento em IA]] defende um arranjo diferente: os estudantes desenvolvem um letramento mais útil quando usam, questionam, verificam, criticam e decidem sobre a IA dentro de tarefas autênticas do curso, repetidamente. O movimento em direção à avaliação crítica é mais evidente onde essas experiências são sustentadas e embutidas em vez de entregues uma única vez ([[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]]).
+O movimento institucional padrão é um módulo isolado, geralmente no início do semestre, sobre como os [[llm|grandes modelos de linguagem]] funcionam e como escrever prompts. A síntese de [[ai-literacy|letramento em IA]] defende um arranjo diferente: os estudantes desenvolvem um letramento mais útil quando usam, questionam, verificam, criticam e decidem sobre a IA dentro de tarefas autênticas do curso, repetidamente. O movimento em direção à avaliação crítica é mais evidente onde essas experiências são sustentadas e embutidas em vez de entregues uma única vez ([[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]]).
 
 A evidência [[quantitative-research|quantitativa]] aponta na mesma direção. Uma [[liu-ai-literacy-interventions-meta-analysis-2026|meta-análise de 59 intervenções de letramento em IA]] encontrou os maiores efeitos para pedagogias integradas e reflexivas. Ela também adverte que intervenções focadas em conhecimento mostram efeitos *medidos* maiores do que as que miram habilidades, atitudes ou ética. Tenha isso em mente quando escolher o que medir.
 
@@ -82,11 +82,11 @@ Você não precisa inventar o design. Vários estão documentados, e cada um é 
 
 Estudantes de economia resolvem um problema primeiro, obtêm uma resposta de GenAI, comparam-na com seu raciocínio, criticam a IA, refletem e então discutem com os colegas ([[beck-genai-literacy-economics-hands-on|Fostering Generative AI Literacy in Economics]]).
 
-Estudantes de psicologia avaliam um comunicado à imprensa gerado pelo ChatGPT contra a rubrica do curso, identificam as fragilidades e o revisam, o que desenvolve letramento disciplinar e letramento em feedback na mesma tarefa ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Using Generative AI to Promote Psychological, Feedback, and AI Literacies]]).
+Estudantes de psicologia avaliam um comunicado à imprensa gerado pelo ChatGPT contra a rubrica do curso, identificam as fragilidades e o revisam, o que desenvolve letramento disciplinar e [[feedback-literacy|letramento em feedback]] na mesma tarefa ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Using Generative AI to Promote Psychological, Feedback, and AI Literacies]]).
 
 A biologia integra as atividades à aprendizagem disciplinar em vez de ensinar um tópico técnico separado ([[zha-ai-literacy-biology-case-study|Integrating AI Literacy Education in a Biology Class]]). Trabalhos de banco de dados e de design usam a análise de falhas como atividade de aprendizagem, com os estudantes analisando erros gerados por IA e iterando sobre prompts e soluções ([[pedagogy-ai-mistakes|The Pedagogy of AI Mistakes]]). O modelo LearnAI embute a cocriação com IA no momento certo através das disciplinas, em vez de rodar um módulo genérico ([[learnai-just-in-time-ai-cocreation-university-2026|LearnAI: Just-in-Time AI Co-Creation Across Disciplines]]).
 
-Uma cautela vem com um número. Um curso introdutório de física de partículas reprojetado permitiu a IA generativa como parceira explícita em problemas de formato de pesquisa, e um exame escrito sem auxílio retornou uma média de 20,6 de 80, com apenas dois estudantes alcançando 40 ([[ai-particle-physics-education-redesign-2026|AI in particle physics education]]). Desempenho assistido e conhecimento recuperável de forma independente são conquistas distintas. Os autores defendem ensinar letramento em IA, incluindo verificação e o tratamento da IA como professora em vez de copiadora, desde cedo, junto com prática dedicada sem auxílio. A [[physics-education|educação em física]] tem o caso mais completo.
+Uma cautela vem com um número. Um curso introdutório de física de partículas reprojetado permitiu a IA generativa como parceira explícita em problemas de formato de pesquisa, e um exame escrito sem auxílio retornou uma média de 20,6 de 80, com apenas dois estudantes alcançando 40 ([[ai-particle-physics-education-redesign-2026|AI in particle physics education]]). Desempenho assistido e conhecimento recuperável de forma independente são conquistas distintas. Os autores defendem ensinar letramento em IA, incluindo verificação e o tratamento da IA como [[teacher-role|professora]] em vez de copiadora, desde cedo, junto com prática dedicada sem auxílio. A [[physics-education|educação em física]] tem o caso mais completo.
 
 Há também uma versão em que os estudantes fazem algo para um público real. Burriss et al. fizeram 22 estudantes do décimo primeiro ano compor anúncios de serviço público em vídeo sobre as questões de [[ethics|ética]] da IA com as quais conviviam: vigilância escolar, "passes de saída" eletrônicos e acusação algorítmica de [[academic-integrity|plágio]]. A unidade se apoiou no Letramento Pós-humanista Crítico e na [[multimodal|composição multimodal]]. Os estudantes retrataram o dano como emergindo de uma responsabilidade humano-máquina emaranhada em vez de uma ferramenta vilanesca, viraram a narrativa de trapaça contra a dependência excessiva dos adultos em relação a uma IA falha, e fecharam em [[agency|autonomia]] ("a solução está ao nosso alcance"). Os autores colocam a [[storytelling-in-education|narrativa]] e a produção colaborativa no centro da [[critical-pedagogy|pedagogia crítica do letramento em IA]], e argumentam que compor *sobre* IA para um público real desenvolve uma competência crítica que escalas de competência não conseguem ver ([[burriss-multimodal-composition-critical-ai-literacy-2026|"Young Scholar[s] on the Beat"]]). Essa afirmação é um argumento de uma unidade com 22 estudantes, então leia-a como ideia de design, não como tamanho de efeito.
 
@@ -120,7 +120,7 @@ A [[equity-in-ai-education|equidade]] atravessa tudo isso. Os estudantes chegam 
 
 Letramento em IA significa ensinar prompting. O prompting é a parte visível. Os estudantes podem se tornar tecnicamente proficientes com essas ferramentas permanecendo maus juízes do que sai delas, e a descoberta sobre dependência acima aponta na mesma direção.
 
-Uma sessão cobre isso. Uma sessão pode introduzir vocabulário. A evidência de prática repetida com material real do curso é mais forte, e a meta-análise de 59 intervenções encontrou os maiores efeitos onde o trabalho era integrado e reflexivo.
+Uma sessão cobre isso. Uma sessão pode introduzir vocabulário. A evidência de prática repetida com material real do curso é mais forte, e a [[meta-analysis-systematic-review|meta-análise]] de 59 intervenções encontrou os maiores efeitos onde o trabalho era integrado e reflexivo.
 
 Estudantes que usam essas ferramentas diariamente já conseguem avaliar a produção. Yan et al. encontraram 76,32% dos 38 universitários em um padrão de turno único, e a síntese da computação encontrou estudantes significativamente piores em corrigir código gerado por IA do que em tarefas comuns de exame de programação. Familiaridade com a interface não é calibração.
 
@@ -158,4 +158,4 @@ A confiança é um proxy utilizável. O autorrelato e o desempenho divergem nest
 
 ## Para onde ir em seguida
 
-[[ai-literacy-evidence|Qual é a evidência sobre intervenções de letramento em IA no ensino superior?]] é a avaliação honesta de quão forte é essa base e onde ela se estreita. [[how-ai-impacts-students]] cobre o lado do estudante, [[verify-ai-output]] cobre o hábito de verificação de que os estudantes precisam, e [[ai-literacy-assessment-misalignment]] é o lugar a buscar se você está construindo a medida em vez da aula. [[cognitive-offloading]] explica o mecanismo por baixo da regra de compromisso primeiro.
+[[ai-literacy-evidence|Qual é a evidência sobre intervenções de letramento em IA no ensino superior?]] é a avaliação honesta de quão forte é essa base e onde ela se estreita. [[how-ai-impacts-students|Como a IA está impactando os estudantes?]] cobre o lado do estudante, [[verify-ai-output]] cobre o hábito de verificação de que os estudantes precisam, e [[ai-literacy-assessment-misalignment|Desalinhamento na avaliação de letramento em IA]] é o lugar a buscar se você está construindo a medida em vez da aula. [[cognitive-offloading|dependência excessiva]] explica o mecanismo por baixo da regra de compromisso primeiro.

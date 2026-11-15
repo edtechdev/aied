@@ -1,7 +1,7 @@
 ---
 title: "Wie soll ich KI-Kompetenz in meinen Kurs einbringen?"
 created: "2026-08-24T09:50:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-15T15:44:25-05:00"
 connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
@@ -9,7 +9,7 @@ assessment: [assessment]
 level: [higher ed]
 audience: [instructors, instructional designers]
 translation_of: faqs/incorporating-ai-literacy
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,7 @@ Das Fazit: Hängen Sie einen Schritt an eine Arbeit, die Sie ohnehin bewerten, i
 
 ## Bauen Sie keine Lektion ein, sondern einen Schritt in eine Arbeit, die Sie ohnehin bewerten
 
-Der institutionelle Standardzug ist ein eigenständiges Modul, meist früh im Semester, dazu, wie große [[llm|Sprachmodelle]] funktionieren und wie man Prompts schreibt. Die Synthese unter [[ai-literacy]] argumentiert für eine andere Anordnung: Studierende entwickeln eine nützlichere Kompetenz, wenn sie KI innerhalb authentischer Kursaufgaben nutzen, hinterfragen, prüfen, kritisieren und über sie entscheiden, und zwar wiederholt. Die Bewegung hin zur kritischen Bewertung ist dort am deutlichsten, wo diese Erfahrungen anhalten und eingebettet sind, statt einmal geliefert zu werden ([[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]]).
+Der institutionelle Standardzug ist ein eigenständiges Modul, meist früh im Semester, dazu, wie große [[llm|Sprachmodelle]] funktionieren und wie man Prompts schreibt. Die Synthese unter [[ai-literacy|KI-Kompetenz]] argumentiert für eine andere Anordnung: Studierende entwickeln eine nützlichere Kompetenz, wenn sie KI innerhalb authentischer Kursaufgaben nutzen, hinterfragen, prüfen, kritisieren und über sie entscheiden, und zwar wiederholt. Die Bewegung hin zur kritischen Bewertung ist dort am deutlichsten, wo diese Erfahrungen anhalten und eingebettet sind, statt einmal geliefert zu werden ([[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]]).
 
 Die [[quantitative-research|quantitative]] Evidenz weist in dieselbe Richtung. Eine [[liu-ai-literacy-interventions-meta-analysis-2026|Metaanalyse von 59 KI-Kompetenz-Interventionen]] fand die größten Effekte für integrierte und reflexive Pädagogik. Sie warnt zugleich, dass wissensorientierte Interventionen größere *gemessene* Effekte zeigen als solche, die auf Fähigkeiten, Haltungen oder Ethik zielen. Behalten Sie das im Blick, wenn Sie entscheiden, was Sie messen.
 
@@ -53,7 +53,7 @@ Der Nutzen hängt außerdem vom [[prior-knowledge|Vorwissen]] ab. Gut vorbereite
 
 ## Lassen Sie sie sich festlegen, bevor das Werkzeug antwortet
 
-Erst denken, dann KI. Bitten Sie Studierende, eine erste Interpretation, Lösung, Argumentation, Vorhersage oder einen Entwurf zu bilden, bevor sie irgendetwas konsultieren. Danach vergleichen sie ihr Denken mit der Ausgabe, benennen Übereinstimmungen und Abweichungen, prüfen die Behauptungen und entscheiden, was sie übernehmen. Das hält das Werkzeug davon ab, die kognitive Arbeit zu ersetzen, für die die Aufgabe überhaupt existiert — die Sorge hinter [[cognitive-offloading]] und [[ai-misuse-learning-harm]]: Die unmittelbare Leistung kann sich verbessern, während das eigenständige Lernen leidet.
+Erst denken, dann KI. Bitten Sie Studierende, eine erste Interpretation, Lösung, Argumentation, Vorhersage oder einen Entwurf zu bilden, bevor sie irgendetwas konsultieren. Danach vergleichen sie ihr Denken mit der Ausgabe, benennen Übereinstimmungen und Abweichungen, prüfen die Behauptungen und entscheiden, was sie übernehmen. Das hält das Werkzeug davon ab, die kognitive Arbeit zu ersetzen, für die die Aufgabe überhaupt existiert — die Sorge hinter [[cognitive-offloading|Kognitive Auslagerung]] und [[ai-misuse-learning-harm|KI-Missbrauch und Lernschaden]]: Die unmittelbare Leistung kann sich verbessern, während das eigenständige Lernen leidet.
 
 Was ohne diese Struktur passiert, ist gut dokumentiert. Die Präskript-Prozess-Produkt-Studie von Yan et al. mit 38 Studierenden im Grundstudium fand, dass 76.32% auf ein Muster aus einmal fragen, Antwort bekommen, aufhören setzten, und 78.94% generative KI nur vor dem Beginn oder nach dem Entwurf einbanden. Selbst meisterschaftsorientierte Studierende griffen standardmäßig zu Oberflächenprozessen. Die Autorinnen und Autoren nennen das Ergebnis ein Effizienzparadox, bei dem Geschwindigkeit auf Kosten der kognitiven Arbeit gewonnen wird, die Schemata aufbaut, und zitieren eine studierende Person: „the speed at which you forget it is also very fast." Sie verorten die Ursache in einem institutionellen Vakuum, in dem Lehrende das Abschreiben verbieten, aber selten den produktiven Gebrauch vermitteln ([[yan-cognitive-outsourcing-genai-assessments-2026|From cognitive outsourcing to reallocation]]).
 
@@ -75,7 +75,7 @@ Generische Regeln wie „prüfe KI auf [[hallucination-risk|Halluzinationen]]" s
 
 Schreiben Sie diese Liste selbst, aus Ihren eigenen Korrekturen, bevor das Semester beginnt. Fünf Beispiele aus Ihrem Fach leisten mehr als eine allgemeine Checkliste, und sie dienen zugleich als Fehlerbank für die Kritikaufgabe oben.
 
-Wiederholung ist die andere Hälfte. Eine Übung in der dritten Woche produziert eine studierende Person, die die Übung gemacht hat. Dieselbe Übung in drei Aufgaben, an unterschiedlichem Material, produziert eine Gewohnheit, und die Fälle in diesem Korpus, die [[discipline-specific-aied|fachspezifische]] Integration zeigen, sind die, in denen sich die Praxis über einen Kurs hinweg wiederholt, statt in einer einzelnen Sitzung zu stehen.
+Wiederholung ist die andere Hälfte. Eine Übung in der dritten Woche produziert eine studierende Person, die die Übung gemacht hat. Dieselbe Übung in drei Aufgaben, an unterschiedlichem Material, produziert eine Gewohnheit, und die Fälle in dieser Literatur, die [[discipline-specific-aied|fachspezifische]] Integration zeigen, sind die, in denen sich die Praxis über einen Kurs hinweg wiederholt, statt in einer einzelnen Sitzung zu stehen.
 
 ## Leihen Sie sich die Modelle, die es in Ihrem Fach schon gibt
 
@@ -109,7 +109,7 @@ Szenarien funktionieren gut als Instrument, und sie sind leicht zu schreiben. [[
 
 Einige Grenzen lohnen es, benannt zu werden, bevor jemand anderes sie anspricht.
 
-[[prompt-engineering|Prompt-Engineering]] ist nicht KI-Kompetenz. Studierende können technisch versiert werden und trotzdem schlechte Beurteiler von Ausgaben bleiben, und einige fähigkeitsorientierte Dimensionen von KI-Kompetenz sind positiv mit berichteter KI-Abhängigkeit verbunden. Operative Schulung ohne Selbst[[regulation]], akademisches Selbstvertrauen und [[self-regulated-learning|metakognitive Unterstützung]] kann die Abhängigkeit erhöhen statt sie zu senken.
+[[prompt-engineering|Prompt-Engineering]] ist nicht KI-Kompetenz. Studierende können technisch versiert werden und trotzdem schlechte Beurteiler von Ausgaben bleiben, und einige fähigkeitsorientierte Dimensionen von KI-Kompetenz sind positiv mit berichteter KI-Abhängigkeit verbunden. Operative Schulung ohne Selbst[[regulation|KI-Regulierung in der Bildung]], akademisches Selbstvertrauen und [[self-regulated-learning|metakognitive Unterstützung]] kann die Abhängigkeit erhöhen statt sie zu senken.
 
 Interaktion ist eine Fähigkeit, die das Werkzeug nicht mitliefert. Brunnström und Palmqvists achtrundige Demonstration einer „naiven studierenden Person", die einen [[conversational-ai|Chatbot]] bei einer Take-Home-Prüfung nutzt, fand die Standardausgabe „polished but pedagogically thin" und dass es acht Runden von Eingriffen der Lernenden brauchte („simplify", „this is overwhelming, can you condense it?"), um zu einer brauchbaren Lernschleife zu kommen. Sie nennen die Fähigkeit AI-interaction literacy, also die Fähigkeit, iterative Interaktion zu steuern, zu bewerten und aus ihr zu lernen. Ihre Gerechtigkeitsfolgerung ist die scharfe: Weil unangeleitete Nutzung eine Kompetenz voraussetzt, die ungleich verteilt ist, „may be most beneficial to already advantaged students" ([[brunnstrom-ai-interaction-literacy-srl-2026|AI-interaction literacy]]; [[how-ai-impacts-students|How is AI impacting students?]]). Die Interaktion zu unterrichten ist eine Gerechtigkeitsmaßnahme ebenso wie eine [[pedagogy|pädagogische]].
 
@@ -159,4 +159,4 @@ Zuversicht ist ein brauchbarer Stellvertreter. Selbstauskunft und Leistung diver
 
 ## Wohin als Nächstes
 
-[[ai-literacy-evidence|What is the evidence on AI literacy interventions in higher education?]] ist die ehrliche Einschätzung, wie stark diese Basis ist und wo sie dünn wird. [[how-ai-impacts-students]] behandelt die studentische Seite, [[verify-ai-output]] behandelt die Prüfgewohnheit, die Studierende brauchen, und [[ai-literacy-assessment-misalignment]] ist der Ort, an den Sie gehen, wenn Sie das Maß bauen statt die Lektion. [[cognitive-offloading]] erklärt den Mechanismus unter der Regel des vorherigen Festlegens.
+[[ai-literacy-evidence|What is the evidence on AI literacy interventions in higher education?]] ist die ehrliche Einschätzung, wie stark diese Basis ist und wo sie dünn wird. [[how-ai-impacts-students]] behandelt die studentische Seite, [[verify-ai-output]] behandelt die Prüfgewohnheit, die Studierende brauchen, und [[ai-literacy-assessment-misalignment]] ist der Ort, an den Sie gehen, wenn Sie das Maß bauen statt die Lektion. [[cognitive-offloading|Kognitive Auslagerung]] erklärt den Mechanismus unter der Regel des vorherigen Festlegens.

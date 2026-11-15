@@ -1,7 +1,7 @@
 ---
 title: "Jak odpowiadać na powszechne błędne przekonania o SI w edukacji?"
 created: "2026-09-04T04:39:00-04:00"
-connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
+connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]
 technology: [prompt-engineering]
@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:41:32-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 
 Prorektor chce jednostronicowej karty „mitów o SI” na wiosenne zebranie kadry. Albo członek rady nadzorczej przeczytał, że chatboty niszczą krytyczne myślenie, i chce stanowiska do piątku. Albo trzeba wyjaśnić na piśmie, dlaczego katedra nie zakaże narzędzia ot tak, i skończyły się już sposoby powiedzenia, że zakaz nie jest pedagogiką.
 
-Każde przekonanie na tej stronie wychodzi od czegoś, co rozsądna osoba widziała. Płynna proza naprawdę czyta się jak tekst trafny. Dopracowana praca naprawdę wygląda jak uczenie się. Korepetytor, który odpowiada na pytanie, naprawdę odczuwa się jako pomoc, a polityka ze słowem „zakazane” naprawdę odczuwa się jako decyzja. Korekta, która działa, nazywa to, czego obserwacja nie może powiedzieć, i podaje sprawdzenie, które można przeprowadzić w poniedziałek.
+Każde z tych przekonań wychodzi od czegoś, co rozsądna osoba widziała. Płynna proza naprawdę czyta się jak tekst trafny. Dopracowana praca naprawdę wygląda jak uczenie się. Korepetytor, który odpowiada na pytanie, naprawdę odczuwa się jako pomoc, a polityka ze słowem „zakazane” naprawdę odczuwa się jako decyzja. Korekta, która działa, nazywa to, czego obserwacja nie może powiedzieć, i podaje sprawdzenie, które można przeprowadzić w poniedziałek.
 
 Odpowiedź dla współpracownika, na jednym oddechu: efekt edukacyjny SI zależy od tego, kto jej używa, do jakiego zadania, jakie myślenie wykonuje narzędzie, jaka odpowiedzialność zostaje przy osobie i jak ocenia się uczenie się. Pewność siebie, szybkość, zaangażowanie i ukończenie zadania są cechami użycia. Żadna z nich nie jest dowodem, że zmieniła się zdolność.
 
@@ -44,7 +44,7 @@ Odpowiedź dla współpracownika, na jednym oddechu: efekt edukacyjny SI zależy
 
 ## Zdecydować, co liczy się jako dowód, że uczenie się nastąpiło
 
-Pięć przekonań rozstrzyga o tym, czy reszta tej strony ma znaczenie. Każde bierze realny sygnał i dopisuje do niego wniosek, którego ten sygnał nie uniesie.
+Pięć przekonań rozstrzyga o tym, czy reszta tego wywodu ma znaczenie. Każde bierze realny sygnał i dopisuje do niego wniosek, którego ten sygnał nie uniesie.
 
 ### „Uczyli się lepiej przy otwartym narzędziu, więc nauczyli się więcej.”
 
@@ -62,11 +62,11 @@ Zadowolenie jest dowodem o akceptowalności. Studenci wolą informację zwrotną
 
 ### „Zgłaszali, że nauczyli się dużo.”
 
-[[self-report-measures|Samoocena]] mierzy percepcję, akceptację, [[anxiety-and-stress|lęk]] i [[self-efficacy|poczucie własnej skuteczności]], i w tych czterech obszarach jest dobra. Nie jest pomiarem wykazanej zdolności, bo ludzie mogą być pewni siebie i się mylić albo biegli i zbyt niepewni. Synteza badań nad kompetencjami nauczycieli w zakresie SI w tej wiki raportuje istotną lukę między [[self-assessment|samooceną]] a zmierzonym wykonaniem, a obecni w niej nauczyciele akademiccy znacznie przeszacowali swoje kompetencje ([[ai-literacy-assessment-misalignment|Ocena kompetencji w zakresie SI: samoocena a rozbieżność z wykonaniem]]). Do każdej samooceny trzeba dołożyć zadanie: wskazać błąd w wyniku, zweryfikować źródło, wybrać strategię użycia, zauważyć obciążenie albo schlebianie, poprawić wadliwą odpowiedź, skalibrować pewność względem trafności. Jedna taka pozycja w ankiecie zamienia opinię w wynik.
+[[self-report-measures|Samoocena]] mierzy percepcję, akceptację, [[anxiety-and-stress|lęk]] i [[self-efficacy|poczucie własnej skuteczności]], i w tych czterech obszarach jest dobra. Nie jest pomiarem wykazanej zdolności, bo ludzie mogą być pewni siebie i się mylić albo biegli i zbyt niepewni. Synteza badań nad kompetencjami nauczycieli w zakresie SI raportuje istotną lukę między [[self-assessment|samooceną]] a zmierzonym wykonaniem, a obecni w niej nauczyciele akademiccy znacznie przeszacowali swoje kompetencje ([[ai-literacy-assessment-misalignment|Ocena kompetencji w zakresie SI: samoocena a rozbieżność z wykonaniem]]). Do każdej samooceny trzeba dołożyć zadanie: wskazać błąd w wyniku, zweryfikować źródło, wybrać strategię użycia, zauważyć obciążenie albo schlebianie, poprawić wadliwą odpowiedź, skalibrować pewność względem trafności. Jedna taka pozycja w ankiecie zamienia opinię w wynik.
 
 ### „Symulowany student to tani zamiennik prawdziwego.”
 
-Symulacja jest użyteczna przy prototypowaniu, testach obciążeniowych i generowaniu scenariuszy, i nie jest dowodem o uczeniu się ludzi, dopóki nie zostanie zwalidowana wobec ludzi. Model może imitować język dezorientacji bez wytrwałości, motywacji, wcześniejszej wiedzy, emocji czy trajektorii rozwojowej uczącego się, a badania streszczone w tej wiki pokazały, że symulowani studenci porzucali przypisane im błędne przekonanie po minimalnej korekcie, co poddaje w wątpliwość, czy w ogóle reprezentują zmianę konceptualną ([[simulating-students|Symulowanie studentów]], [[llm-student-simulation-misconception-faithfulness|Symulowanie studentów czy schlebiarskie rozwiązywanie problemów?]]). Warto ich używać do znajdowania wad własnego promptu, zanim prawdziwi studenci go spotkają, a potem traktować każde twierdzenie o uczących się jako niezwalidowane.
+Symulacja jest użyteczna przy prototypowaniu, testach obciążeniowych i generowaniu scenariuszy, i nie jest dowodem o uczeniu się ludzi, dopóki nie zostanie zwalidowana wobec ludzi. Model może imitować język dezorientacji bez wytrwałości, motywacji, wcześniejszej wiedzy, emocji czy trajektorii rozwojowej uczącego się, a badania nad symulowanymi studentami pokazały, że symulowani studenci porzucali przypisane im błędne przekonanie po minimalnej korekcie, co poddaje w wątpliwość, czy w ogóle reprezentują zmianę konceptualną ([[simulating-students|Symulowanie studentów]], [[llm-student-simulation-misconception-faithfulness|Symulowanie studentów czy schlebiarskie rozwiązywanie problemów?]]). Warto ich używać do znajdowania wad własnego promptu, zanim prawdziwi studenci go spotkają, a potem traktować każde twierdzenie o uczących się jako niezwalidowane.
 
 ## Określić warunek użycia SI na tym etapie, który niesie uczenie się
 
@@ -140,7 +140,7 @@ Niezawodność to spójność, trafność to pytanie, czy interpretacja i użyci
 
 ### „Jedna dobrze przeprowadzona rozmowa dowodzi, że korepetytor jest bezpieczny.”
 
-Szkody edukacyjne kumulują się w trakcie interakcji. System może odpowiednio odpowiedzieć na jeden prompt, a potem, w kolejnych turach, zacząć podawać odpowiedzi, utrwalać błędne przekonanie, zachęcać do zależności albo wypadać ze swojej roli korepetytora. Benchmark SafeTutors streszczony w tej wiki pokazał, że awarie bezpieczeństwa pedagogicznego rosną gwałtownie, gdy systemy ocenia się w wielu turach, a nie w jednej wymianie ([[hazra-safetutors-pedagogical-safety-2026|Bezpieczeństwo korepetytorów SI i szkody pedagogiczne]]). Warto wymagać długich rozmów, powtarzanych błędów studenta, prób uzyskania bezpośredniej odpowiedzi, scenariuszy emocjonalnych i relacyjnych, promptowania adversarnego i pomiaru zależności w czasie. Dowody benchmarkowe tego rodzaju nie są szacunkiem uczenia się w klasie i są minimum, na którym powinno się opierać twierdzenie o bezpieczeństwie.
+Szkody edukacyjne kumulują się w trakcie interakcji. System może odpowiednio odpowiedzieć na jeden prompt, a potem, w kolejnych turach, zacząć podawać odpowiedzi, utrwalać błędne przekonanie, zachęcać do zależności albo wypadać ze swojej roli korepetytora. Benchmark SafeTutors pokazał, że awarie bezpieczeństwa pedagogicznego rosną gwałtownie, gdy systemy ocenia się w wielu turach, a nie w jednej wymianie ([[hazra-safetutors-pedagogical-safety-2026|Bezpieczeństwo korepetytorów SI i szkody pedagogiczne]]). Warto wymagać długich rozmów, powtarzanych błędów studenta, prób uzyskania bezpośredniej odpowiedzi, scenariuszy emocjonalnych i relacyjnych, promptowania adversarnego i pomiaru zależności w czasie. Dowody benchmarkowe tego rodzaju nie są szacunkiem uczenia się w klasie i są minimum, na którym powinno się opierać twierdzenie o bezpieczeństwie.
 
 ### „Przegląd przez człowieka to tymczasowa łata, dopóki modele się nie poprawią.”
 
@@ -172,7 +172,7 @@ Dowodzi wykonania osoby plus narzędzia. Kompetencja ujawnia się w tym, czy kto
 
 ### „Kompetencje w zakresie SI to wiedza, jak napisać dobry prompt.”
 
-Promptowanie to jedna umiejętność operacyjna. Zakres, który liczy się dla nauczyciela albo pracownika, jest szerszy: co [[ai-technologies|systemy SI]] potrafią robić niezawodnie, a czego nie, jak oceniać trafność i obciążenie, jak SI wpływa na trafność oceniania, kiedy odciążanie staje się wypieraniem, jakie są wymagania w zakresie prywatności i dostępności, jak użycie pasuje do dyscypliny i kiedy nie używać jej wcale. Synteza w tej wiki pokazała, że nauczyciele znacznie przeszacowali swoje kompetencje w zakresie SI, gdy samooceny porównano z pomiarami wykonania, a wykazana kompetencja przewidywała integrację w klasie znacznie lepiej niż pewność siebie ([[ai-literacy-assessment-misalignment|Ocena kompetencji w zakresie SI: samoocena a rozbieżność z wykonaniem]]). Techniki promptowania starzeją się też szybciej niż osąd. [[prompt-engineering|Inżynierię promptów]] trzeba uczyć jako umiejętność, a [[teacher-ai-competency|kompetencje nauczycieli w zakresie SI]] oceniać jako tę szerszą.
+Promptowanie to jedna umiejętność operacyjna. Zakres, który liczy się dla nauczyciela albo pracownika, jest szerszy: co [[ai-technologies|systemy SI]] potrafią robić niezawodnie, a czego nie, jak oceniać trafność i obciążenie, jak SI wpływa na trafność oceniania, kiedy odciążanie staje się wypieraniem, jakie są wymagania w zakresie prywatności i dostępności, jak użycie pasuje do dyscypliny i kiedy nie używać jej wcale. Synteza dowodów pokazała, że nauczyciele znacznie przeszacowali swoje kompetencje w zakresie SI, gdy samooceny porównano z pomiarami wykonania, a wykazana kompetencja przewidywała integrację w klasie znacznie lepiej niż pewność siebie ([[ai-literacy-assessment-misalignment|Ocena kompetencji w zakresie SI: samoocena a rozbieżność z wykonaniem]]). Techniki promptowania starzeją się też szybciej niż osąd. [[prompt-engineering|Inżynierię promptów]] trzeba uczyć jako umiejętność, a [[teacher-ai-competency|kompetencje nauczycieli w zakresie SI]] oceniać jako tę szerszą.
 
 ### „Podstawowa wiedza dziedzinowa jest przestarzała, bo SI potrafi ją wydobyć.”
 
@@ -258,7 +258,7 @@ Wstyd wywołuje obronność i ukrywanie, a komunikaty typu „tylko leniwi stude
 
 Mechanika jest dość krótka, żeby użyć jej na zebraniu kadry. Nazwać przekonanie, powiedzieć, dlaczego wygląda na prawdziwe, odrzucić je wprost, wyjaśnić awarię, dać lepszy model i podać zastosowanie.
 
-Wersja rozpracowana, którą można dostosować do dowolnej pozycji z tej strony:
+Wersja rozpracowana, którą można dostosować do dowolnego błędnego przekonania z listy:
 
 > **Błędne przekonanie:** „Dobra praca wygenerowana przez SI pokazuje, że student się nauczył.”
 > **Refutacja:** „To nie musi być prawda. Produkt pokazuje to, co student i SI wytworzyły razem, ale nie ujawnia, które rozumowanie wykonał student.”

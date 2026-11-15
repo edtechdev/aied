@@ -1,7 +1,7 @@
 ---
 title: "Quais são as lacunas notáveis na literatura de pesquisa sobre IA na Educação?"
 created: "2026-08-24T14:10:00-04:00"
-updated: "2026-11-08T05:10:57-05:00"
+updated: "2026-11-15T15:37:46-05:00"
 connected_faqs: [reporting-interpreting-aied-research, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research]
 weight: 45
 type: faq
@@ -14,7 +14,7 @@ level: [higher ed]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
 translation_of: faqs/research-gaps-aied
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -74,7 +74,7 @@ A lacuna restante é sobre trajetórias de capacidade, e um pós-teste acrescent
 
 Continua aberto: a contribuição e o momento das tentativas independentes iniciais, da autoexplicação, da contribuição dos pares, do feedback corretivo, das dicas e do esmaecimento da assistência, e como cada um interage com o [[prior-knowledge|conhecimento prévio]] e a dificuldade da tarefa.
 
-A lacuna teórica corre ao lado. Nomear uma [[learning-theories|teoria de aprendizagem]] não é testá-la. Um estudo precisa de uma previsão teórica ligada a um comportamento específico do sistema e de um processo de aprendizagem mensurável, e a mediação estatística informa essa explicação sem estabelecer um mecanismo causal. [[theory-development-aied|Desenvolvimento de teoria em IA na educação]] e [[scaffolding]] levam o argumento adiante.
+A lacuna teórica corre ao lado. Nomear uma [[learning-theories|teoria de aprendizagem]] não é testá-la. Um estudo precisa de uma previsão teórica ligada a um comportamento específico do sistema e de um processo de aprendizagem mensurável, e a mediação estatística informa essa explicação sem estabelecer um mecanismo causal. [[theory-development-aied|Desenvolvimento de teoria em IA na educação]] e [[scaffolding|andaimento]] levam o argumento adiante.
 
 ## Valide a medida antes de interpretá-la
 
@@ -202,4 +202,4 @@ Professores que querem a versão de sala de aula podem seguir [[evaluating-ai-in
 
 ## Para onde ir a seguir
 
-[[reporting-interpreting-aied-research]] é a contraparte de relato desta página, e [[research-methods-aied|Métodos de pesquisa em IA na educação]] cobre as escolhas de desenho por trás de cada lacuna. [[evaluating-ai-interventions-methods]] trata de medidas e desenhos de comparação, [[checking-whether-educational-ai-works]] é a versão mais curta da questão de eficácia, e [[does-ai-help-students-learn]] reúne o que se sabe sobre aprendizagem durável. [[theory-development-aied]] e [[equity-ethics-pedagogical-safety-research]] levam adiante as vertentes de teoria e de equidade.
+[[reporting-interpreting-aied-research]] é a contraparte de relato desta página, e [[research-methods-aied|Métodos de pesquisa em IA na educação]] cobre as escolhas de desenho por trás de cada lacuna. [[evaluating-ai-interventions-methods]] trata de medidas e desenhos de comparação, [[checking-whether-educational-ai-works]] é a versão mais curta da questão de eficácia, e [[does-ai-help-students-learn]] reúne o que se sabe sobre aprendizagem durável. [[theory-development-aied|desenvolvimento de teoria na IAED]] e [[equity-ethics-pedagogical-safety-research]] levam adiante as vertentes de teoria e de equidade.

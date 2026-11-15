@@ -1,7 +1,7 @@
 ---
 title: "AI가 규모 있게 더 나은 피드백을 제공하는 데 어떻게 도움이 될까요?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-15T15:39:30-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 weight: 70
 type: faq
@@ -12,7 +12,7 @@ research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -79,6 +79,8 @@ Deakin 시범 운영은 2021년에 FeedbackFruits의 AI 자동 피드백 도구�
 동료 피드백은 그 순서 안에서 자기 자리를 얻습니다. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen과 Yan(2026)]]은 한 학기 동안 세 차례 [[self-assessment|자기 평가]] 주기를 거친 두 개의 병렬 영어 수업(중국 학부생 1학년 N = 118; GenAI n = 56, 동료 n = 62)을 운영했습니다. GenAI [[scaffolding|비계]]는 인간 동료 검토보다 피드백 리터러시를 약간 그러나 유의하게 개선했습니다(ANCOVA p = 0.049, ηp² = 0.03). GenAI 학생들은 프롬프트를 반복적으로 다듬고 부정확한 출력을 검증하거나 문제 삼았습니다. 동료 집단 학생들은 사회적 편의로 출처를 골랐고 우정 편향으로 평가적 판단이 왜곡되었습니다. 동료 검토는 독자 인식에서 별도의 가치를 유지했고, 그래서 저자들은 대체가 아니라 익명 동료 피드백을 포함한 다단계 설계를 제안합니다.
 
 Gu 등의 우위는 작았고, 저자들은 그것을 실제이지만 그 자체로 변혁적이지는 않은 것으로 읽습니다. 교사 비계, 프롬프트 지침, 워크시트가 지원 작업을 했습니다.
+
+출처는 시계보다 덜 중요할 수 있습니다. 독일 중등학생 391명을 대상으로 한 연구에서 교사가 쓴 피드백과 LLM 피드백은 수정, 이후 작문, 과제 시간, 인식에서 유의한 차이를 낳지 않았습니다. 베이즈 사후분포는 이후 작문에서 교사 피드백 쪽으로 기울었지만 질량의 4분의 1에서 5분의 2는 동등성 영역 안에 남았고, 즉각적인 AI 피드백만이 더 나은 유용성과 동기 평정을 이끌었습니다([[meyer-teacher-ai-feedback-writing-2026|Meyer 등(2026)]]). 학생이 아직 수정 중일 때 1차 코멘트가 도착할 수 있다면, 그 시점 자체가 설계의 일부로서 역할을 합니다.
 
 ## 모델에 루브릭을 주고, 단계를 보이게 하십시오
 
@@ -148,6 +150,6 @@ Aldino 등의 교사 21명 중 12명은 추가로 문장 수준 수정을 했고
 
 ## 다음으로 갈 곳
 
-[[feedback]]은 제공, 루프, 수용, 평가 맥락이라는 전체 체계의 상위 개념입니다. [[ai-feedback-quality|AI 피드백 품질]]은 생성된 코멘트를 정확하고, 유용하고, 적시에, 교수법적으로 건전하게 만드는 것을 다루며, 이 페이지는 그 부분들의 어떤 조합이 규모에서 더 나은 피드백을 낳는지에 관한 실천적 중간층입니다.
+[[feedback]]은 제공, 루프, 수용, 평가 맥락이라는 전체 체계의 상위 개념입니다. [[ai-feedback-quality|AI 피드백 품질]]은 생성된 코멘트를 정확하고, 유용하고, 적시에, 교수법적으로 건전하게 만드는 것을 다루며, 실천적 질문은 그 부분들의 어떤 조합이 규모에서 더 나은 피드백을 낳는가입니다.
 
 AI가 개입된 뒤 성적이 무엇을 뜻해야 하는지, 즉 구성개념 대체, 인증된 과정 증거, 정직성 규칙에 관한 질문은 이 페이지가 아니라 [[redesign-assessment-ai-era|AI 시대의 평가 재설계]]와 [[assessment-validity|평가 타당도]]에 속합니다. 작문 교육의 특수한 경우는 [[writing-instruction-ai-best-practices|AI 맥락에서의 작문 교육 모범 사례]]를 보십시오.

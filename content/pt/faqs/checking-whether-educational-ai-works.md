@@ -1,8 +1,8 @@
 ---
 title: "Como sabemos que uma IA educacional está funcionando corretamente, e não apenas pontuando bem?"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-10-29T08:28:16-04:00"
-connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
+updated: "2026-11-15T15:37:46-05:00"
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
 foundations: [ai-education]
@@ -16,7 +16,7 @@ confidence: high
 methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -58,11 +58,11 @@ Duas famílias de números dominam esta literatura. Ambas medem o quão proximam
 
 Um estudante pode chegar a uma resposta errada por um caminho errado que parece certo, e nenhuma pontuação de similaridade percebe. Se o raciocínio é o que você se importa, a medida tem de lê-lo: uma rubrica aplicada por uma pessoa, ou uma verificação escrita para aquela etapa específica.
 
-O assistente do curso de Sistemas de Controle Linear relata isso da maneira correta. Sua melhor configuração alcançou uma pontuação de similaridade de **0,4093** contra respostas de referência, com a melhoria medida de forma confiável acima de zero, e os autores afirmam claramente que os números medem redação e formato ([[lora-finetuned-control-systems-course-qa-2026]]). A pontuação é modesta e o artigo continua útil, porque ele diz o que a pontuação cobre.
+O assistente do curso de Sistemas de Controle Linear relata isso da maneira correta. Sua melhor configuração alcançou uma pontuação de similaridade de **0,4093** contra respostas de referência, com a melhoria medida de forma confiável acima de zero, e os autores afirmam claramente que os números medem redação e formato ([[lora-finetuned-control-systems-course-qa-2026|Lu et al., 2026]]). A pontuação é modesta e o artigo continua útil, porque ele diz o que a pontuação cobre.
 
 ## Pontue cada saída separadamente
 
-No projeto WrAFT, um modelo ajustado alcançou uma pontuação de concordância de **0,84** com corretores humanos em 360 redações TOEFL reservadas para teste. Esse é um resultado forte para correção. O modelo do mesmo projeto, treinado para escrever feedback, produziu saídas truncadas e não analisáveis, enquanto simplesmente fazer prompting com um modelo diferente produziu feedback que os professores preferiram ([[wraft-automated-writing-evaluation-argumentative-2026]]).
+No projeto WrAFT, um modelo ajustado alcançou uma pontuação de concordância de **0,84** com corretores humanos em 360 redações TOEFL reservadas para teste. Esse é um resultado forte para correção. O modelo do mesmo projeto, treinado para escrever feedback, produziu saídas truncadas e não analisáveis, enquanto simplesmente fazer [[prompt-engineering|prompting]] com um modelo diferente produziu feedback que os professores preferiram ([[wraft-automated-writing-evaluation-argumentative-2026|Labib et al., 2026]]).
 
 A base de conhecimento registra a mesma falha em uma segunda forma: uma implantação cujo módulo de correção pontuou bem e cujo feedback chegava cortado no meio da frase e ilegível. Nada no número de destaque dizia isso.
 
@@ -72,7 +72,7 @@ Então liste as saídas que o seu sistema produz, e dê a cada uma a sua própri
 
 Uma correlação lhe diz que o modelo costuma estar certo. Ela não lhe diz o que fazer nas ocasiões em que ele não está. O resultado de roteamento por confiança é o modelo mais limpo na base de conhecimento, e é curto o bastante para copiar.
 
-A confiança revelou-se um sinal de alerta confiável: quando o modelo estava inseguro, era mais provável que estivesse errado (**β = -0,602, p < 0,001**). A equipe enviou a uma pessoa as **20%** de respostas menos confiantes. Essa única regra elevou a concordância com as notas humanas de **0,78 para 0,82** e cortou o trabalho manual de correção em cerca de **80%** ([[know-when-to-trust-ai-scoring-reliability-2026]]).
+A confiança revelou-se um sinal de alerta confiável: quando o modelo estava inseguro, era mais provável que estivesse errado (**β = -0,602, p < 0,001**). A equipe enviou a uma pessoa as **20%** de respostas menos confiantes. Essa única regra elevou a concordância com as notas humanas de **0,78 para 0,82** e cortou o trabalho manual de correção em cerca de **80%** ([[know-when-to-trust-ai-scoring-reliability-2026|Organisciak et al., 2026]]).
 
 Veja o que o relatório contém: um limiar, uma pessoa e uma economia. "Concordância 0,84" não contém nenhum desses, e é por isso que é difícil agir sobre ela e fácil discuti-la.
 
@@ -80,35 +80,35 @@ Veja o que o relatório contém: um limiar, uma pessoa e uma economia. "Concord�
 
 Muitas equipes hoje usam um segundo modelo para julgar o primeiro. O arranjo é razoável e o segundo modelo não está automaticamente certo.
 
-Um estudo que fez um modelo de fronteira escrever dicas para um [[intelligent-tutoring|sistema de tutoria inteligente]] constatou que cerca de **35%** delas eram gerais demais, incorretas, ou entregavam a resposta, e que as próprias verificações automatizadas de qualidade do modelo discordaram do julgamento humano sobre quais eram ruins ([[reddig-maclellan-personalized-feedback-llm-2026]]).
+Um estudo que fez um modelo de fronteira escrever dicas para um [[intelligent-tutoring|sistema de tutoria inteligente]] constatou que cerca de **35%** delas eram gerais demais, incorretas, ou entregavam a resposta, e que as próprias verificações automatizadas de qualidade do modelo discordaram do julgamento humano sobre quais eram ruins ([[reddig-maclellan-personalized-feedback-llm-2026|Reddig et al., 2025]]).
 
 Versão prática: pegue uma amostra de cerca de cinquenta saídas, peça a uma pessoa que as avalie, e compare com as avaliações do seu verificador. Onde os dois divergirem, você aprendeu algo sobre o verificador. Guarde a amostra e a tabela de discordâncias, porque é também o artefato que responde a um revisor que pergunta como você sabe.
 
 ## Meça a própria quantidade quando a tarefa permitir
 
-A correção mais limpa é treinar o modelo na mesma quantidade que você pretende medir. Um modelo ajustado foi treinado para reproduzir as propriedades estatísticas de questões de prova: o quão difícil cada item é, o quão bem ele separa os estudantes mais fortes dos mais fracos. Ele aprendeu esses padrões em vez de ser informado deles ([[multimodal-item-parameter-estimation-2026]]). Como o alvo era uma propriedade da própria avaliação, a avaliação pôde ser sobre essa propriedade em vez de sobre a redação.
+A correção mais limpa é treinar o modelo na mesma quantidade que você pretende medir. Um modelo ajustado foi treinado para reproduzir as propriedades estatísticas de questões de prova: o quão difícil cada item é, o quão bem ele separa os estudantes mais fortes dos mais fracos. Ele aprendeu esses padrões em vez de ser informado deles ([[multimodal-item-parameter-estimation-2026|Ormerod et al., 2026]]). Como o alvo era uma propriedade da própria avaliação, a avaliação pôde ser sobre essa propriedade em vez de sobre a redação.
 
-Relate a progressão e não apenas o ponto final. O simulador de escrita do SWIM publicou a pontuação de cada estágio lado a lado: prompting com rubrica **0,577**, ajuste fino **0,474 ± 0,023**, aprendizado por reforço **0,618 ± 0,005** ([[swim-student-writing-simulation-2026]]). Um leitor consegue ver naquela tabela se o treinamento fez alguma coisa. Um único número final não consegue lhes dizer, e esconde um estágio em que o modelo ajustado teve desempenho pior que o prompt.
+Relate a progressão e não apenas o ponto final. O simulador de escrita do O [[simulation|simulador]] SWIM publicou a pontuação de cada estágio lado a lado: prompting com rubrica **0,577**, ajuste fino **0,474 ± 0,023**, [[reinforcement-learning|aprendizado por reforço]] **0,618 ± 0,005** ([[swim-student-writing-simulation-2026|Do et al., 2026]]). Um leitor consegue ver naquela tabela se o treinamento fez alguma coisa. Um único número final não consegue lhes dizer, e esconde um estágio em que o modelo ajustado teve desempenho pior que o prompt.
 
 ## Compare com algo fora do seu projeto
 
 Obtenha uma linha de base primeiro, inclusive uma barata. O modelo do assistente de curso sem ancoragem pontuou abaixo de uma busca simples por palavras-chave, que é o tipo de resultado que muda o roteiro do produto e custa um dia para descobrir.
 
-Um benchmark externo então lhe diz se o seu número é bom ou não. No benchmark pedagógico CDPK, o EduQwen alcançou **96,52%** contra **90,55%** do Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). O Pedagogy Benchmark, construído a partir de exames reais de desenvolvimento profissional de professores e cobrindo **97 modelos**, encontrou acurácia variando de **28% a 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
+Um benchmark externo então lhe diz se o seu número é bom ou não. No [[pedagogy|benchmark pedagógico]] CDPK, o EduQwen alcançou **96,52%** contra **90,55%** do Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026|Singh et al., 2026]]). O Pedagogy Benchmark, construído a partir de exames reais de desenvolvimento profissional de [[teacher-role|professores]] e cobrindo **97 modelos**, encontrou acurácia variando de **28% a 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
 
 Em uma tarefa sobre ensino, os modelos variaram de ruins a bons, então um resultado de benchmark coloca seu sistema em algum lugar dentro de uma faixa ampla.
 
 ## Teste a segurança ao longo de uma conversa inteira
 
-A maior parte dos testes de segurança verifica uma única troca. Os danos que importam na tutoria se acumulam. O SafeTutors constatou que mesmo modelos construídos especificamente para ensinar se degradam ao longo de uma conversa longa e podem revelar respostas que deveriam estar retendo ([[hazra-safetutors-pedagogical-safety-2026]]).
+A maior parte dos testes de segurança verifica uma única troca. Os danos que importam na tutoria se acumulam. O SafeTutors constatou que mesmo modelos construídos especificamente para ensinar se degradam ao longo de uma conversa longa e podem revelar respostas que deveriam estar retendo ([[hazra-safetutors-pedagogical-safety-2026|Hazra et al. (2026)]]).
 
 Faça a verificação em conversas completas, e escreva as falas de teste deliberadamente: o estudante que está errado, o que continua insistindo, o que tenta convencer o modelo a sair do seu papel. Um tutor que se mantém por dez turnos e cede no décimo primeiro falha no teste que importa, e uma suíte por resposta o pontuará como limpo.
 
 ## Confira o estudante simulado antes de confiar nele
 
-Gerar estudantes simulados em vez de recrutar estudantes reais torna a avaliação muito mais barata. Um estudante simulado também é um instrumento de medida, e pode estar errado dos modos como os instrumentos erram: cooperativo demais, fluente demais, rápido demais em aceitar uma dica.
+Gerar [[simulating-students|estudantes simulados]] em vez de recrutar estudantes reais torna a avaliação muito mais barata. Um estudante simulado também é um instrumento de medida, e pode estar errado dos modos como os instrumentos erram: cooperativo demais, fluente demais, rápido demais em aceitar uma dica.
 
-O teste mais direto na base de conhecimento comparou estudantes simulados e estudantes com prompting contra **382 diálogos reservados** da maior coleção pública de diálogos reais de matemática entre estudante e tutor, usando sete medidas que cobrem linguagem, comportamento e pensamento ([[simulated-students-tutoring-dialogues-2026]]). Outros trabalhos pressionam o realismo por ângulos diferentes: o [[inside-llm-student-simulator-reasoning-2026|INSIDE]] treina modelos para agir e pensar como estudantes, e perfis sensíveis ao histórico condicionam a simulação ao passado de um estudante em vez de a uma persona fixa ([[history-aware-student-simulation]]).
+O teste mais direto na base de conhecimento comparou estudantes simulados e estudantes com prompting contra **382 diálogos reservados** da maior coleção pública de diálogos reais de matemática entre estudante e tutor, usando sete medidas que cobrem linguagem, comportamento e pensamento ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). Outros trabalhos pressionam o realismo por ângulos diferentes: o [[inside-llm-student-simulator-reasoning-2026|INSIDE]] treina modelos para agir e pensar como estudantes, e perfis sensíveis ao histórico condicionam a simulação ao passado de um estudante em vez de a uma persona fixa ([[history-aware-student-simulation|Duan et al., 2026]]).
 
 Se o seu arranjo de teste é um estudante simulado, valide o simulador contra transcrições reais antes de deixá-lo avaliar o seu tutor.
 
@@ -150,4 +150,4 @@ Estudantes simulados tornam a avaliação gratuita. Tornam-na barata, e transfer
 
 ## Para onde ir agora
 
-[[making-ai-better-at-supporting-learning|Como podemos fazer a IA apoiar melhor a aprendizagem na nossa própria disciplina?]] cobre o lado do desenho do mesmo problema. [[training-ai-tutors-to-guide-rather-than-answer]] trata do caminho de treinamento para um comportamento de tutoria, e [[evaluating-ai-interventions-methods]] é a versão desta pergunta voltada ao professor, com [[reporting-interpreting-aied-research]] como a versão voltada à pesquisa. Os métodos ficam sob [[ai-ed-evaluation]] e [[llm-training-and-fine-tuning]].
+[[making-ai-better-at-supporting-learning|Como podemos fazer a IA apoiar melhor a aprendizagem na nossa própria disciplina?]] cobre o lado do desenho do mesmo problema. [[training-ai-tutors-to-guide-rather-than-answer]] trata do caminho de treinamento para um comportamento de tutoria, e [[evaluating-ai-interventions-methods]] é a versão desta pergunta voltada ao professor, com [[reporting-interpreting-aied-research]] como a versão voltada à pesquisa. Os métodos ficam sob [[ai-ed-evaluation|avaliação de IA na educação]] e [[llm-training-and-fine-tuning|ajuste fino]].

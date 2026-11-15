@@ -12,9 +12,9 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T15:22:02-04:00"
+updated: "2026-11-15T15:40:38-05:00"
 translation_of: faqs/developing-ai-tutor
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ Trzy listy, spisane zanim ktokolwiek wybierze model:
 
 Literatura o [[intelligent-tutoring|inteligentnym tutorowaniu]] wskazuje, że skuteczność zależy od projektu [[pedagogy|dydaktycznego]], a nie od samej zdolności modelu, i że porażkę łatwo zbudować przez przypadek. Tutor optymalizowany pod „skończyć zadanie” podkopie tutora optymalizowanego pod „nauczyć się rozwiązywać zadanie”, przechodząc przy tym każdy test funkcjonalny, jaki się napisze, bo oba dają poprawne odpowiedzi końcowe. Różnica tkwi w tym, co student zrobił między pytaniem a odpowiedzią.
 
-Druga lista to miejsce, w którym zespoły programistyczne stają się konkretne. Etykietę mistrzostwa typu „mistrzostwo pochodnych” trzeba czytać tak, by nie znaczyła po prostu wytworzenia poprawnej pochodnej. Trzeba ją rozbić na rozpoznawanie, kiedy pochodna jest właściwa, interpretowanie jej jako chwilowej szybkości zmiany, wybór reguły, wykonanie procedury, wyjaśnienie, dlaczego wybór był trafny, sprawdzenie sensowności i zastosowanie do nieznanego zadania. Każdy z tych elementów jest osobną rzeczą do zalogowania i każdy sugeruje inną reakcję, gdy go brakuje. Ten rozkład jest też obroną przed [[correct-answer-trap-misconceptions|pułapką poprawnej odpowiedzi]], w której uczący się dochodzi do właściwego wyniku przez błędne rozumowanie, a analityka odnotowuje sukces. [[correct-answer-trap-ai-tutor|Łapanie pułapki poprawnej odpowiedzi]] i [[zhang-tutormoments-2026|Gdy pomoc nie pomaga]] opisują wersje tej porażki w warunkach produkcyjnych.
+Druga lista to miejsce, w którym zespoły programistyczne stają się konkretne. Etykietę mistrzostwa typu „mistrzostwo pochodnych” trzeba czytać tak, by nie znaczyła po prostu wytworzenia poprawnej pochodnej. Trzeba ją rozbić na rozpoznawanie, kiedy pochodna jest właściwa, interpretowanie jej jako chwilowej szybkości zmiany, wybór reguły, wykonanie procedury, wyjaśnienie, dlaczego wybór był trafny, sprawdzenie sensowności i zastosowanie do nieznanego zadania. Każdy z tych elementów jest osobną rzeczą do zalogowania i każdy sugeruje inną reakcję, gdy go brakuje. Ten rozkład jest też obroną przed [[correct-answer-trap-misconceptions|pułapką poprawnej odpowiedzi]], w której uczący się dochodzi do właściwego wyniku przez błędne rozumowanie, a twoja [[learning-analytics|analityka]] odnotowuje sukces. [[correct-answer-trap-ai-tutor|Łapanie pułapki poprawnej odpowiedzi]] i [[zhang-tutormoments-2026|Gdy pomoc nie pomaga]] opisują wersje tej porażki w warunkach produkcyjnych.
 
 ## Zbudować model uczącego się przed rozmową
 
@@ -114,7 +114,7 @@ Testować należy wyciek odpowiedzi, wzmacnianie błędnych przekonań, nadmiern
 
 ## Umieścić architekturę danych w tym samym dokumencie projektowym
 
-Zbierać należy tylko te dane o uczących się, które są pedagogicznie konieczne, i umieć powiedzieć, po co istnieje każde pole. Tam, gdzie trzyma się pamięć trwałą lub [[student-modeling|model uczącego się]], trzeba pokazać jego cel uczącemu się, dać uczącemu się nad nim odpowiednią kontrolę, chronić informacje wrażliwe, zdefiniować retencję i kierować decyzje o skutkach do prowadzącego lub innego [[human-in-the-loop-ai|punktu kontrolnego z człowiekiem]]. Model uczącego się, który po cichu gromadzi szacunek pewności, jakiego student nigdy nie widzi, jest problemem ochrony danych i problemem pedagogicznym.
+Zbierać należy tylko te dane o uczących się, które są pedagogicznie konieczne, i umieć powiedzieć, po co istnieje każde pole. Tam, gdzie trzyma się pamięć trwałą lub [[student-modeling|model uczącego się]], trzeba pokazać jego cel uczącemu się, dać uczącemu się nad nim odpowiednią kontrolę, chronić informacje wrażliwe, zdefiniować retencję i kierować decyzje o skutkach do prowadzącego lub innego [[human-in-the-loop-ai|punktu kontrolnego z człowiekiem]]. Model uczącego się, który po cichu gromadzi szacunek pewności, jakiego student nigdy nie widzi, jest problemem [[privacy|ochrony danych]] i problemem pedagogicznym.
 
 Należy audytować zachowanie systemu ze względu na tło językowe, poziom zdolności, kontekst kulturowy, potrzeby [[accessibility|dostępności]] oraz poziom [[prior-knowledge|wiedzy wstępnej]] i doświadczenia z SI. Zróżnicowane wyniki przy tym samym celu to błąd, do którego przypisany jest student, i nie pojawi się w zagregowanej liczbie trafności.
 
@@ -152,7 +152,7 @@ Tutor analizy matematycznej na pierwszym semestrze studiów powinien podnosić t
 
 ## Przypadek drugi: coach pisania, gdzie o pozwoleniu decyduje etap
 
-Pisanie nie ma jednej poprawnej odpowiedzi, więc weryfikacja jest osądem, a praca projektowa przenosi się na etapowanie. Baza wiedzy ujmuje pisanie jako proces poznawczy, społeczny i retoryczny, co znaczy, że system pisania ze SI może wspierać uczenie się, a może też wyeliminować dokładnie to myślenie, które zadanie miało rozwijać ([[writing-education|edukacja pisania]], [[coach-not-crutch-ai-writing|Coach, nie kula u nogi]]).
+Pisanie nie ma jednej poprawnej odpowiedzi, więc weryfikacja jest osądem, a praca projektowa przenosi się na etapowanie. Baza wiedzy ujmuje pisanie jako proces poznawczy, społeczny i retoryczny, co znaczy, że system pisania ze SI może wspierać uczenie się, a może też wyeliminować dokładnie to myślenie, które zadanie miało rozwijać ([[writing-education|edukacja pisania]], [[coach-not-crutch-ai-writing|Lira i in. (2025), Coach, nie kula u nogi]]).
 
 **Model kompetencji.** Śledzić argumentację (konkretność tezy, zgodność twierdzenia z dowodem, kontrargument), organizację (fokus akapitu, postęp logiczny, przejścia), dowody (trafność źródła, integrację, interpretację), rewizję (rewizję globalną i zdaniową, ocenę informacji zwrotnej) oraz styl (jasność, gramatykę, głos). Każdy z tych elementów staje się osobnym sygnałem w modelu uczącego się, i to dopiero czyni ukierunkowaną informację zwrotną w ogóle możliwą.
 
@@ -209,11 +209,11 @@ Zaangażowanie jest celem. Długość rozmowy i liczba sesji to najtańsze metry
 
 **„Studenci to uwielbiają, a ukończenie wzrosło.”** Oba fakty są spójne z systemem, który dobrze odpowiada na pytania i niczego nie uczy. Badanie na 6 000 studentów wykazało wolniejszy postęp i mniej podejmowanych pytań obok lepszej trafności, więc spadek ukończenia też nie jest automatycznie złą wiadomością. Wyniki bez pomocy trzeba raportować obok liczb zaangażowania i pozwolić im publicznie się nie zgadzać.
 
-**„Nie możemy przeprowadzić randomizowanego badania.”** Porównanie w obrębie studenta da się zrobić bez niego: ten sam cel, z pomocą w trakcie jednostki, testowany bez pomocy dwa tygodnie później, z wynikiem z pomocą podanym obok. Taki projekt odpowiada na pytanie produktowe i nie wymaga ramienia kontrolnego. Czego nie powie, to kontrfaktycznego scenariusza dla studentów, którzy z tutora nigdy nie korzystali.
+**„Nie możemy przeprowadzić [[rct|randomizowanego badania]].”** Porównanie w obrębie studenta da się zrobić bez niego: ten sam cel, z pomocą w trakcie jednostki, testowany bez pomocy dwa tygodnie później, z wynikiem z pomocą podanym obok. Taki projekt odpowiada na pytanie produktowe i nie wymaga ramienia kontrolnego. Czego nie powie, to kontrfaktycznego scenariusza dla studentów, którzy z tutora nigdy nie korzystali.
 
-**„Model to API dostawcy, więc zachowanie pomocowe jest poza naszą kontrolą.”** Szczeble żyją w warstwie orkiestracji, a wynik eksperymentu z barierami ochronnymi pochodził ze zmiany tego, co tutorowi wolno było mówić, nie z podmiany modelu. Można oczekiwać, że posttrening dostawcy ciągnie ku szybkiemu odpowiadaniu, bo właśnie na pomocność był dostrajany, i dlatego powściągliwość trzeba umieścić we własnym kodzie.
+**„Model to API dostawcy, więc zachowanie pomocowe jest poza naszą kontrolą.”** Szczeble żyją w warstwie orkiestracji, a wynik eksperymentu z barierami ochronnymi pochodził ze zmiany tego, co tutorowi wolno było mówić, nie z podmiany modelu. Można oczekiwać, że [[llm-training-and-fine-tuning|posttrening]] dostawcy ciągnie ku szybkiemu odpowiadaniu, bo właśnie na pomocność był dostrajany, i dlatego powściągliwość trzeba umieścić we własnym kodzie.
 
-**„Nauczyciele nie będą używać kolejnego pulpitu.”** Nie będą używać takiego, który emituje ciągłe diagnozy, co według przeglądu K-12 odciągało uwagę od ich własnej obserwacji. Trzeba dać im niewielką liczbę interpretowalnych sygnałów, sposób przyjęcia lub odrzucenia każdej rekomendacji i czas w tygodniu, by na nie spojrzeć.
+**„Nauczyciele nie będą używać kolejnego pulpitu.”** Nie będą używać takiego, który emituje ciągłe diagnozy, co według [[k-12|przeglądu K-12]] odciągało uwagę od ich własnej obserwacji. Trzeba dać im niewielką liczbę interpretowalnych sygnałów, sposób przyjęcia lub odrzucenia każdej rekomendacji i czas w tygodniu, by na nie spojrzeć.
 
 **„Nie mamy w zespole ekspertów dziedzinowych.”** Wtedy tutor będzie uczył ogólnej metody, a notacja kursu rozjedzie się w ciągu semestru. Ekspert przedmiotowy na dwa dni na etapie projektowania, piszący listę błędnych przekonań i listę zatwierdzonych metod, to najtańsza pozycja w projekcie i ta, którą zespoły tną jako pierwszą.
 

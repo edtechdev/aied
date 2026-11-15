@@ -1,7 +1,7 @@
 ---
 title: "개인화 학습은 실제로 무엇을 뜻하며, 언제 도움이 될까요?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-15T15:39:30-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
@@ -28,7 +28,7 @@ ai_assist:
 
 플랫폼이 모든 학생에게 개인화된 경험을 약속합니다. 연습 문항의 순서를 바꿀 수도 있고, 학생의 축구에 대한 관심에 맞춰 설명을 다시 쓸 수도 있고, 지난주 대화를 기억할 수도 있고, 학생이 다음에 무엇을 공부할지 고를 수도 있습니다. 네 가지 모두 개인화라고 불리며, 그런 형태로 시험된 것은 하나뿐입니다.
 
-동료에게 줄 짧은 답은 이렇습니다. 개인화는 학습 경험의 어떤 부분에 대한 변경을 가리키며, 그 가치는 세 가지에 달려 있습니다. 무엇이 적응되는지, 어떤 증거가 적응을 이끄는지, 그 변경이 여러분이 의도한 학습을 개선하는지입니다. 익숙한 예시나 반응적인 대화는 아무것도 가르치지 않으면서 개인적으로 느껴질 수 있습니다. 효과적인 적응은 보이지 않을 수 있습니다. 이 지식 기반에서 가장 분명한 실험 결과는 좁습니다. 타이베이 고등학교 열 곳에 걸친 5개월짜리 Python 인증 강좌에서 적응형 문제 배열에 무작위 배정된 학생들은 고정 배열과 동일한 [[conversational-ai|챗봇]] 접근을 가진 학생들보다 대면, 무도움 [[summative-assessment|기말 시험]]에서 약 0.150 표준편차 높은 점수를 받았습니다([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung 등, 2026]]). 그것은 명시된 조건에서의 배열을 지지합니다. 개인화라는 이름으로 팔리는 모든 것을 타당화하지는 않습니다.
+동료에게 줄 짧은 답은 이렇습니다. 개인화는 학습 경험의 어떤 부분에 대한 변경을 가리키며, 그 가치는 세 가지에 달려 있습니다. 무엇이 적응되는지, 어떤 증거가 적응을 이끄는지, 그 변경이 여러분이 의도한 학습을 개선하는지입니다. 익숙한 예시나 반응적인 대화는 아무것도 가르치지 않으면서 개인적으로 느껴질 수 있습니다. 효과적인 적응은 보이지 않을 수 있습니다. 이 문헌에서 가장 분명한 실험 결과는 좁습니다. 타이베이 고등학교 열 곳에 걸친 5개월짜리 Python 인증 강좌에서 적응형 문제 배열에 무작위 배정된 학생들은 고정 배열과 동일한 [[conversational-ai|챗봇]] 접근을 가진 학생들보다 대면, 무도움 [[summative-assessment|기말 시험]]에서 약 0.150 표준편차 높은 점수를 받았습니다([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung 등, 2026]]). 그것은 명시된 조건에서의 배열을 지지합니다. 개인화라는 이름으로 팔리는 모든 것을 타당화하지는 않습니다.
 
 ## 간략한 버전
 
@@ -122,6 +122,6 @@ ai_assist:
 
 ## 다음으로 갈 곳
 
-[[personalized-learning]]은 정의, 마케팅 어휘, 증거 기반에 관한 개념 페이지이고, [[adaptive-learning]]은 기제와 그 측정을 다룹니다. [[intelligent-tutoring]]은 학습자 모형이 튜터 설계와 만나는 곳입니다.
+[[personalized-learning|개인화 학습]]은 정의, 마케팅 어휘, 증거 기반에 관한 개념 페이지이고, [[adaptive-learning|적응형 학습]]은 기제와 그 측정을 다룹니다. [[intelligent-tutoring|지능형 튜터링]]은 학습자 모형이 튜터 설계와 만나는 곳입니다.
 
 개인화가 여러 결정 중 하나인 활동을 설계하는 일은 [[designing-ai-into-learning|학습 경험에 AI 설계하기]]를 보십시오. 규모를 키우기 전에 시스템이 작동하는지 판단하는 방법은 [[checking-whether-educational-ai-works|교육용 AI가 작동하는지 확인하기]]를 보십시오.

@@ -1,7 +1,7 @@
 ---
 title: "Welche Maße und Forschungsmethoden kann eine Lehrkraft nutzen, um KI-bezogene Interventionen zu evaluieren?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-15T15:44:25-05:00"
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
 audience: [instructors, researchers, faculty developers]
@@ -9,7 +9,7 @@ assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

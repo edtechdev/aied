@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
-updated: "2026-10-29T15:22:02-04:00"
+updated: "2026-11-15T15:44:42-05:00"
 translation_of: faqs/how-ai-impacts-students
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
 
-Korzysta się z SI do prac kursowych i radzi sobie dobrze, tyle że egzamin zamknięty wyglądał jak czytanie cudzych notatek. Albo znajomy mówi, że nie napisał nic i dostał najwyższą ocenę, i pojawia się pytanie, co to znaczy dla własnej sytuacji. Albo więcej pytań trafia do chatbota niż do prowadzącego zajęcia.
+Korzysta się z SI do prac kursowych i radzi sobie dobrze, tyle że [[summative-assessment|egzamin zamknięty]] wyglądał jak czytanie cudzych notatek. Albo znajomy mówi, że nie napisał nic i dostał najwyższą ocenę, i pojawia się pytanie, co to znaczy dla własnej sytuacji. Albo więcej pytań trafia do chatbota niż do prowadzącego zajęcia.
 
 Krótka odpowiedź w formie, którą można powtórzyć znajomemu: SI jest użyteczna tam, gdzie potrzebna jest informacja zwrotna, i nieużyteczna tam, gdzie potrzebne jest ćwiczenie. Krok myślowy trzeba zachować dla siebie, sprawdzić się bez narzędzia przed oddaniem pracy i mówić wprost, z czego się korzystało. Reszta tej strony wyjaśnia, dlaczego to się utrzymuje i jak to wygląda w zwykły wtorkowy wieczór.
 

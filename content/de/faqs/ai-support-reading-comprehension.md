@@ -10,9 +10,9 @@ technology: [educational-nlp, generative-ai, llm]
 ethics: [accessibility]
 audience: [instructors, curriculum designers, instructional designers]
 level: [higher ed, secondary, primary education]
-updated: "2026-11-07T20:31:05-05:00"
+updated: "2026-11-15T15:39:32-05:00"
 translation_of: "faqs/ai-support-reading-comprehension"
-source_updated: "2026-11-06T02:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Wenn Sie irgendein Fach unterrichten, wählen Sie Lektüren aus, passen Texte an
 
 **Texte im Maßstab finden und anpassen.** KI ist stark darin, Quellen zu finden, Vokabular zu vereinfachen, Glossare zu erzeugen und eine Passage in einen [[study-with-ai|Lernleitfaden oder eine Zusammenfassung]] zu verwandeln. Nutzen Sie sie für die mechanischen Teile der Lesvorbereitung — Suchen, Niveau-Einschätzung, Herausziehen von Schlüsselbegriffen — und behalten Sie die menschliche Prüfung dort, wo es zählt.
 
-**Die Leserschaft statt den Text modellieren.** Weil Leservariablen viel des Signals darin tragen, wie schwer sich ein Text anfühlt, sagen Werkzeuge, die die Leserschaft profilieren, die wahrgenommene Schwierigkeit besser voraus als jede Formel. In der größten Studie der Wissensbasis bewerteten 193 deutsche Gymnasiastinnen und Gymnasiasten 3.954 Sätze, und profilbasierte Modelle (bestes Ensemble RMSE 0,822 gegenüber einer Mittelwertbasislinie von 1,070) schlugen die Flesch-Werte der Texte, die dasselbe Material weit schwerer einstuften, als die Studierenden es erlebten — 72,8% der Annotationen waren leicht oder sehr leicht ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck und Conrad, 2025]]). Die praktische Version: Die Bewertungen einiger Studierender zu einer Passage schlagen das Label jeder Formel.
+**Die Leserschaft statt den Text modellieren.** Weil Leservariablen viel des Signals darin tragen, wie schwer sich ein Text anfühlt, sagen Werkzeuge, die die Leserschaft profilieren, die wahrgenommene Schwierigkeit besser voraus als jede Formel. In der größten Studie dieser Literatur bewerteten 193 deutsche Gymnasiastinnen und Gymnasiasten 3.954 Sätze, und profilbasierte Modelle (bestes Ensemble RMSE 0,822 gegenüber einer Mittelwertbasislinie von 1,070) schlugen die Flesch-Werte der Texte, die dasselbe Material weit schwerer einstuften, als die Studierenden es erlebten — 72,8% der Annotationen waren leicht oder sehr leicht ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck und Conrad, 2025]]). Die praktische Version: Die Bewertungen einiger Studierender zu einer Passage schlagen das Label jeder Formel.
 
 ## Wo KI an Grenzen stößt
 

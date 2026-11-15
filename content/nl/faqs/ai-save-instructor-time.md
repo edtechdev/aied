@@ -6,9 +6,9 @@ weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-updated: "2026-10-29T14:57:54-04:00"
+updated: "2026-11-15T15:46:36-05:00"
 translation_of: faqs/ai-save-instructor-time
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ De kern voor de vergadering: besteed de eerste versie uit en houd het oordeel ze
 
 ## Begin met werk dat u toch al wilde herschrijven
 
-Het sterkste cijfer in deze kennisbank komt uit een [[rct|gerandomiseerde trial]] die wordt samengevat in [[ai-changing-teaching-workflows|Hoe AI het werk van docenten verandert]]. 259 docenten science die ChatGPT gebruikten, besteedden ongeveer 69% van de tijd die de controlegroep aan lesvoorbereiding besteedde, een daling van ruwweg 31%, en blinde deskundige beoordelaars vonden geen aantoonbaar kwaliteitsverlies. De docenten herverdeelden die tijd in plaats van hem te bewaren: hij ging naar planning, nakijken en werk met studenten.
+Het sterkste cijfer in deze kennisbank komt uit een [[rct|gerandomiseerde trial]] die wordt samengevat in [[ai-changing-teaching-workflows|Hoe AI het werk van docenten verandert]]. 259 sciencedocenten die ChatGPT gebruikten, besteedden ongeveer 69% van de tijd die de controlegroep aan lesvoorbereiding besteedde, een daling van ruwweg 31%, en blinde deskundige beoordelaars vonden geen aantoonbaar kwaliteitsverlies. De docenten herverdeelden die tijd in plaats van hem te bewaren: hij ging naar planning, nakijken en werk met studenten.
 
 Een tweede dataset in hetzelfde werk, meer dan 104.000 berichten van meer dan 15.000 onderwijsprofessionals, laat zien waarom de besparing op onverwachte plekken terechtkomt. De gemiddelde prompt raakt 1,7 categorieën tegelijk, dus één verzoek om een lesplan komt terug met differentiatie en een quiz erbij die de docent niet had bedacht om te vragen.
 
@@ -50,7 +50,7 @@ Dat is herverdeling en geen reductie: wat u van [[generative-ai|generatieve AI]]
 
 De kwaliteit is ongelijkmatig, maar volgens een patroon dat stabiel genoeg is om op te plannen. Blinde beoordelaars verkozen AI-versies van de afsluiting van lessen en van afsluitende opdrachten in 59,7% van de gevallen boven materiaal dat door professionals was ontworpen, en verkozen AI-materiaal voor inhoud van het voortgezet onderwijs in 59,2% van de gevallen. De besparing groeit bovendien waar uw vertrouwen het laagst is: lesgeven buiten uw eigen vak is het geval met de grootste kloof tussen wat de tool u geeft en wat u zelf zou hebben geschreven.
 
-Twee categorieën gaan de andere kant op. Bij materiaal voor het basisonderwijs kregen mensen ongeveer 65% van de tijd de voorkeur als het om passendheid bij de ontwikkeling ging. Gerichte [[scaffolding|scaffolds]] voor [[multilingual-learning|meertalige]] lerenden en leerlingen in het [[special-education|speciaal onderwijs]] kwamen neutraal terug in plaats van fout, wat erger is dan het klinkt, want een neutrale scaffold is er een die u vanaf het begin opnieuw opbouwt.
+Twee categorieën gaan de andere kant op. Bij materiaal voor het basisonderwijs kregen mensen ongeveer 65% van de tijd de voorkeur als het om passendheid bij de ontwikkeling ging. Gerichte [[scaffolding|scaffolds]] voor [[multilingual-learning|meertalige]] [[learners|lerenden en leerlingen]] in het [[special-education|speciaal onderwijs]] kwamen neutraal terug in plaats van fout, wat erger is dan het klinkt, want een neutrale scaffold is er een die u vanaf het begin opnieuw opbouwt.
 
 De toets die dit voorspelt voordat u er een avond aan besteedt: kunt u de specificatie precies genoeg formuleren om de output te controleren? Een afsluitende opdracht over één leerdoel, ja. Of een alinea past bij een bepaald negenjarig kind dat twee jaar achterloopt op haar klas, nee.
 
@@ -80,7 +80,7 @@ U kunt [[automated-essay-scoring|geautomatiseerde essaybeoordeling]] gebruiken a
 
 ## Wat docenten verkeerd doen
 
-**“Die 31% is mijn cijfer.”** Het zijn 259 K-12-docenten [[science-education|science]], bij lesvoorbereiding. De richting reist mee; de omvang niet. Een werkgroep die op discussie is gebouwd, bespaart misschien minder, en een practicumvak met veiligheidsbeperkingen bespaart mogelijk niets op het onderdeel waar u juist hulp wilde.
+**“Die 31% is mijn cijfer.”** Het zijn 259 [[k-12|K-12]] [[science-education|science]]docenten bij lesvoorbereiding. De richting reist mee; de omvang niet. Een werkgroep die op discussie is gebouwd, bespaart misschien minder, en een practicumvak met veiligheidsbeperkingen bespaart mogelijk niets op het onderdeel waar u juist hulp wilde.
 
 **“Tijd besparen is het doel.”** Het experiment in Brazilië is het tegenvoorbeeld. De uren kwamen gratis en het laagste kwart schoot er niets mee op. Het doel is wat de uren opleveren.
 
@@ -112,4 +112,4 @@ U kunt [[automated-essay-scoring|geautomatiseerde essaybeoordeling]] gebruiken a
 
 ## Waar u verder kunt gaan
 
-[[ai-feedback-at-scale|AI-feedback op schaal]] voert de feedbackvraag verder, en [[faculty-ai-competencies|AI-competenties van docenten]] met [[faculty-development-ai|professionalisering rond AI]] behandelt wat een afdeling kan opbouwen zodat dit niet langer van individueel experimenteren afhangt. [[redesign-assessment-ai-era|Beoordeling herontwerpen in het AI-tijdperk]] en [[reduce-ai-cheating|AI-fraude verminderen]] behandelen de gevolgen voor toetsing. [[ai-changing-teaching-workflows|Hoe AI het werk van docenten verandert]] is het artikel achter de voorbereidingscijfers, en [[human-in-the-loop-ai|menselijk toezicht]] is het principe waarop deze pagina draait.
+[[ai-feedback-at-scale|AI-feedback op schaal]] voert de feedbackvraag verder, en [[faculty-ai-competencies|AI-competenties van docenten]] met [[faculty-development-ai|professionalisering rond AI]] behandelt wat een afdeling kan opbouwen zodat dit niet langer van individueel experimenteren afhangt. [[redesign-assessment-ai-era|Beoordeling herontwerpen in het AI-tijdperk]] en [[reduce-ai-cheating|AI-fraude verminderen]] behandelen de gevolgen voor toetsing. [[ai-changing-teaching-workflows|Ler (2026)]] is het artikel achter de voorbereidingscijfers, en [[human-in-the-loop-ai|menselijk toezicht]] is het principe waarop deze pagina draait.

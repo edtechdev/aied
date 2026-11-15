@@ -1,7 +1,7 @@
 ---
 title: "Cosa dovrebbero imparare gli studenti per carriere in cui l'IA è la norma?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:40:57-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
@@ -48,6 +48,8 @@ Ecco la risposta breve: insegna l'intero compito professionale, non l'uso dello 
 [[ithaka-sr-ai-skills-college-graduates-2026|Il rapporto di Ithaka S+R]] ha chiesto a 500 docenti di college quadriennali statunitensi di valutare 26 competenze tratte da un quadro che copre sette categorie, e ha confrontato le loro valutazioni con un panel di datori di lavoro intervistato dagli autori del quadro. Il disaccordo è sistematico e non casuale: i docenti mettevano in cima i limiti dell'IA, l'attribuzione e la responsabilità umana, mentre i datori di lavoro valutavano più in alto la progettazione dei flussi di lavoro, l'automazione e la collaborazione uomo-IA.
 
 Due letture di quel divario sono tentatrici e entrambe sbagliate. La prima è che i docenti siano indietro rispetto al mercato del lavoro. La seconda è che i datori di lavoro vogliano conformità. Una lettura più utile è che ciascun gruppo descrive una metà diversa dello stesso lavoro, e un laureato che sa fare solo una metà è impreparato per entrambe. Uno studente che non sa spiegare perché un risultato è sbagliato non serve a un datore di lavoro che si fida del flusso di lavoro; uno studente che sa solo criticare l'output dell'IA non serve a un datore di lavoro che ha bisogno che il compito sia completato.
+
+Trasformare un segnale dei datori di lavoro in un cambiamento del curriculum è a sua volta un processo con punti decisionali. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] propone sei fasi — percezione, validazione con gli stakeholder, diagnosi del programma, riprogettazione del curriculum, attuazione e capacità, e revisione degli esiti — ciascuna con un diritto decisionale nominato e un output di cui si risponde, e confina l'IA a funzioni di supporto delimitate come il rilevamento di pattern e la mappatura delle competenze. È una proposta, non una valutazione, ma nomina i passaggi che la richiesta di un comitato consultivo di solito salta.
 
 I limiti di questa evidenza contano. Sono priorità dichiarate in sondaggi, e il rapporto non mostra che un qualche curriculum produca assunzioni migliori, prestazioni migliori o retribuzioni migliori. Ciò che ti dà è una ragione difendibile per chiederti se i tuoi studenti si esercitino mai a completare e verificare un flusso di lavoro assistito dall'IA, invece di parlarne soltanto.
 

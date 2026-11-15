@@ -1,7 +1,7 @@
 ---
 title: "Come possiamo affrontare i malintesi più comuni sull'IA in education?"
 created: "2026-10-14T22:00:00-04:00"
-connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
+connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]
 technology: [prompt-engineering]
@@ -9,8 +9,9 @@ assessment: [ai-detection, assessment-validity, feedback-literacy]
 ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 institutions: [governance]
-translation_of: "faqs/addressing-common-misconceptions-ai-education"
-source_updated: "2026-11-06T03:00:00-05:00"
+updated: "2026-11-15T15:44:06-05:00"
+translation_of: faqs/addressing-common-misconceptions-ai-education
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -28,7 +29,7 @@ ai_assist:
 
 Il tuo prorettore vuole un foglio di una pagina sui "miti dell'IA" per la riunione dei docenti di primavera. Oppure un membro del consiglio di amministrazione ha letto che i chatbot stanno distruggendo il pensiero critico e vuole una posizione entro venerdì. Oppure sei tu la persona che deve spiegare, per iscritto, perché il dipartimento non si limiterà a vietare lo strumento, e hai esaurito i modi per dire che un divieto non è una pedagogia.
 
-Ogni convinzione su questa pagina parte da qualcosa che una persona ragionevole ha visto. La prosa fluente si legge davvero come accurata. Un elaborato rifinito sembra davvero apprendimento. Un tutor che risponde alla domanda sembra davvero un aiuto, e una politica con dentro la parola "vietato" sembra davvero una decisione. La correzione che funziona nomina ciò che l'osservazione non può dirti, poi consegna un controllo che la persona può eseguire lunedì.
+Ognuna di queste convinzioni parte da qualcosa che una persona ragionevole ha visto. La prosa fluente si legge davvero come accurata. Un elaborato rifinito sembra davvero apprendimento. Un tutor che risponde alla domanda sembra davvero un aiuto, e una politica con dentro la parola "vietato" sembra davvero una decisione. La correzione che funziona nomina ciò che l'osservazione non può dirti, poi consegna un controllo che la persona può eseguire lunedì.
 
 Ecco la risposta, in un fiato: l'effetto educativo dell'IA dipende da chi la usa, per quale compito, quale pensiero svolge lo strumento, quale responsabilità resta alla persona e come viene valutato l'apprendimento. Sicurezza, velocità, coinvolgimento e completamento del compito sono caratteristiche dell'uso. Nessuna di esse è prova che la capacità sia cambiata.
 
@@ -46,7 +47,7 @@ Ecco la risposta, in un fiato: l'effetto educativo dell'IA dipende da chi la usa
 
 ## Decidi cosa conta come prova che l'apprendimento è avvenuto
 
-Cinque convinzioni decidono se il resto di questa pagina conta. Ognuna prende un segnale reale e vi legge dentro una conclusione che il segnale non può sostenere.
+Cinque convinzioni decidono se il resto dell'argomento conta. Ognuna prende un segnale reale e vi legge dentro una conclusione che il segnale non può sostenere.
 
 ### "Hanno fatto meglio con lo strumento aperto, quindi hanno imparato di più."
 
@@ -64,11 +65,11 @@ Le medie nascondono esattamente la variazione che decide una questione di equit�
 
 ### "Hanno dichiarato di aver imparato molto."
 
-Le [[self-report-measures|misure autodichiarate]] rilevano la percezione, l'accettazione, l'[[anxiety-and-stress|ansia]] e [[self-efficacy]], e sono buone in tutte e quattro. Non è una misura della capacità dimostrata, perché le persone possono essere sicure e sbagliate, oppure competenti e insicure. La sintesi del wiki sulla ricerca relativa all'alfabetizzazione all'IA degli insegnanti riporta un divario sostanziale tra [[self-assessment|autovalutazione]] e prestazione misurata, e i docenti coinvolti hanno sovrastimato considerevolmente la propria competenza ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]]). Abbina ogni autodichiarazione a un compito: individuare un errore in un output, verificare una fonte, scegliere una strategia d'uso, riconoscere il bias o l'adulazione, rivedere una risposta difettosa, calibrare la fiducia rispetto all'accuratezza. Un solo item così in un sondaggio trasforma un'opinione in un risultato.
+Le [[self-report-measures|misure autodichiarate]] rilevano la percezione, l'accettazione, l'[[anxiety-and-stress|ansia]] e l'[[self-efficacy|autoefficacia]], e sono buone in tutte e quattro. Non è una misura della capacità dimostrata, perché le persone possono essere sicure e sbagliate, oppure competenti e insicure. Una sintesi dell'evidenza riporta un divario sostanziale tra [[self-assessment|autovalutazione]] e prestazione misurata, e i docenti coinvolti hanno sovrastimato considerevolmente la propria competenza ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]]). Abbina ogni autodichiarazione a un compito: individuare un errore in un output, verificare una fonte, scegliere una strategia d'uso, riconoscere il bias o l'adulazione, rivedere una risposta difettosa, calibrare la fiducia rispetto all'accuratezza. Un solo item così in un sondaggio trasforma un'opinione in un risultato.
 
 ### "Uno studente simulato è un sostituto economico di uno reale."
 
-La simulazione è utile per il prototipaggio, lo stress test e la generazione di scenari, e non è una prova sull'apprendimento umano finché non è stata validata su persone. Un modello può imitare il linguaggio della confusione senza la persistenza, la motivazione, la conoscenza pregressa, l'emozione o la traiettoria di sviluppo di uno studente, e la ricerca riassunta nel wiki ha trovato studenti simulati che abbandonavano un fraintendimento assegnato dopo una correzione minima, il che solleva dubbi sul fatto che rappresentino davvero il cambiamento concettuale ([[simulating-students|Simulating Students]], [[llm-student-simulation-misconception-faithfulness|Simulating Students or Sycophantic Problem Solving?]]). Usali per trovare i difetti nel tuo prompt prima che studenti reali lo incontrino, poi tratta ogni affermazione sugli studenti come non validata.
+La simulazione è utile per il prototipaggio, lo stress test e la generazione di scenari, e non è una prova sull'apprendimento umano finché non è stata validata su persone. Un modello può imitare il linguaggio della confusione senza la persistenza, la motivazione, la conoscenza pregressa, l'emozione o la traiettoria di sviluppo di uno studente, e la ricerca sugli studenti simulati ha trovato studenti simulati che abbandonavano un fraintendimento assegnato dopo una correzione minima, il che solleva dubbi sul fatto che rappresentino davvero il cambiamento concettuale ([[simulating-students|Simulating Students]], [[llm-student-simulation-misconception-faithfulness|Simulating Students or Sycophantic Problem Solving?]]). Usali per trovare i difetti nel tuo prompt prima che studenti reali lo incontrino, poi tratta ogni affermazione sugli studenti come non validata.
 
 ## Stabilisci la condizione d'uso dell'IA al passo che porta l'apprendimento
 
@@ -142,7 +143,7 @@ L'affidabilità è coerenza, la validità è se l'interpretazione e l'uso del pu
 
 ### "Una sola conversazione ben educata mostra che il tutor è sicuro."
 
-I danni educativi si accumulano nel corso di un'interazione. Un sistema può rispondere in modo appropriato a un prompt e poi, turno dopo turno, iniziare a fornire risposte, rafforzare un fraintendimento, incoraggiare la dipendenza o uscire dal suo ruolo di tutor. Il benchmark SafeTutors riassunto nel wiki ha trovato che i fallimenti di danno pedagogico aumentavano bruscamente quando i sistemi venivano valutati su più turni invece che su un singolo scambio ([[hazra-safetutors-pedagogical-safety-2026|AI Tutor Safety and Pedagogical Harms]]). Richiedi conversazioni prolungate, errori ripetuti dello studente, tentativi di risposta diretta, scenari emotivi e relazionali, prompting avversariale e una misura della dipendenza nel tempo. Prove di benchmark di questo tipo non sono una stima dell'apprendimento in classe, e sono il minimo su cui dovrebbe poggiare un'affermazione di sicurezza.
+I danni educativi si accumulano nel corso di un'interazione. Un sistema può rispondere in modo appropriato a un prompt e poi, turno dopo turno, iniziare a fornire risposte, rafforzare un fraintendimento, incoraggiare la dipendenza o uscire dal suo ruolo di tutor. Il benchmark SafeTutors ha trovato che i fallimenti di danno pedagogico aumentavano bruscamente quando i sistemi venivano valutati su più turni invece che su un singolo scambio ([[hazra-safetutors-pedagogical-safety-2026|AI Tutor Safety and Pedagogical Harms]]). Richiedi conversazioni prolungate, errori ripetuti dello studente, tentativi di risposta diretta, scenari emotivi e relazionali, prompting avversariale e una misura della dipendenza nel tempo. Prove di benchmark di questo tipo non sono una stima dell'apprendimento in classe, e sono il minimo su cui dovrebbe poggiare un'affermazione di sicurezza.
 
 ### "La revisione umana è una toppa temporanea finché i modelli non migliorano."
 
@@ -230,7 +231,7 @@ Automatizzare compiti non è sostituire la funzione educativa. Abbozzare esempi,
 
 ## Cosa sbagliano le persone che gestiscono tutto questo
 
-I fraintendimenti sopra appartengono al pubblico per cui la pagina è scritta. Questi appartengono a chi scrive la nota, e sono il motivo per cui le buone correzioni non attecchiscono.
+Il primo gruppo appartiene al pubblico a cui queste correzioni si rivolgono. Questi appartengono a chi scrive la nota, e sono il motivo per cui le buone correzioni non attecchiscono.
 
 ### "Guidato dai dati significa oggettivo."
 
@@ -260,7 +261,7 @@ La vergogna produce difensività e occultamento, e messaggi come "solo gli stude
 
 La meccanica è abbastanza breve da usare in una riunione dei docenti. Nomina la convinzione, di' perché sembra vera, rifiutala apertamente, spiega il fallimento, dai il modello migliore e consegna un'applicazione.
 
-La versione svolta, che puoi adattare a qualsiasi voce di questa pagina:
+La versione svolta, che puoi adattare a qualsiasi fraintendimento della lista:
 
 > **Fraintendimento:** "Un compito generato bene dall'IA mostra che lo studente ha imparato."
 > **Confutazione:** "Non è necessariamente vero. Il prodotto mostra ciò che lo studente e l'IA hanno realizzato insieme, ma non rivela quale ragionamento abbia svolto lo studente."
@@ -315,6 +316,6 @@ L'interferenza avviene dentro la disciplina, al passo in cui lo strumento esegue
 
 ## Dove andare adesso
 
-[[misconceptions|Misconceptions about AI]] è la sintesi dietro questa pagina, e [[refutation-text|Refutation Text]] è il metodo per usarla davanti a una stanza. [[reduce-ai-cheating|How Can We Reduce AI Cheating?]] tratta le decisioni sull'integrità, [[redesign-assessment-ai-era|How Should Assessment Be Redesigned for the AI Era?]] tratta cosa un voto può sostenere, e [[ai-ed-evaluation|AI Ed Evaluation]] è la guida per giudicare un progetto pilota o una piattaforma. Sul lato dell'insegnamento, [[teacher-ai-competency|Teacher AI Competency]] e [[ai-literacy|AI Literacy]] coprono ciò che le persone nella stanza devono saper fare.
+[[misconceptions|Misconceptions about AI]] è la sintesi dietro queste correzioni, e [[refutation-text|Refutation Text]] è il metodo per usarla davanti a una stanza. [[reduce-ai-cheating|How Can We Reduce AI Cheating?]] tratta le decisioni sull'integrità, [[redesign-assessment-ai-era|How Should Assessment Be Redesigned for the AI Era?]] tratta cosa un voto può sostenere, e [[ai-ed-evaluation|AI Ed Evaluation]] è la guida per giudicare un progetto pilota o una piattaforma. Sul lato dell'insegnamento, [[teacher-ai-competency|Teacher AI Competency]] e [[ai-literacy|AI Literacy]] coprono ciò che le persone nella stanza devono saper fare.
 
 L'idea da tenere, nella forma in cui puoi dirla ad alta voce: l'IA è una risorsa cognitiva fallibile, non un'autorità, non una mente e non una prova che l'apprendimento sia avvenuto. L'uso responsabile mantiene una persona responsabile, preserva il pensiero che l'apprendimento richiede, verifica ciò che conta e giudica il successo dalla capacità duratura ed equa invece che dalla fluidità, dalla velocità, dal coinvolgimento o da un compito finito.

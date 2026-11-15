@@ -1,7 +1,7 @@
 ---
 title: "AI を使うことは実際に学生の学習を助けるのか？"
 created: "2026-10-10T22:54:48-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-15T15:43:36-05:00"
 connected_faqs: [evaluating-ai-interventions-methods, how-ai-impacts-students, top-10-findings-ai-education-instructors]
 weight: 90
 foundations: [ai-literacy, cognitive-offloading]
@@ -10,7 +10,7 @@ assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation]
 translation_of: faqs/does-ai-help-students-learn
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:

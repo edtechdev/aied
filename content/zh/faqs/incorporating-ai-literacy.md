@@ -1,13 +1,13 @@
 ---
 title: "我应当如何把人工智能素养融入我的课程？"
 created: "2026-09-22T19:48:12-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-15T15:43:33-05:00"
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
 audience: [instructors, instructional designers]
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/incorporating-ai-literacy
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -102,7 +102,7 @@ ai_assist:
 
 ## 用任务评价判断
 
-学生高估自己评价 AI 的能力，而一个[[self-report-measures|自我报告]]式的自信题只会确认这个错误，而不会暴露它。知识库记录了自我报告与基于表现的 AI 素养之间的显著错位，并建议采用表现性评价（[[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs Performance Misalignment]]；[[jin-glat-genai-literacy-assessment|GLAT]]）。
+学生高估自己评价 AI 的能力，而一个[[self-report-measures|自我报告]]式的自信题只会确认这个错误，而不会暴露它。自我报告与基于表现的 AI 素养之间存在显著错位，并建议采用表现性评价（[[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs Performance Misalignment]]；[[jin-glat-genai-literacy-assessment|GLAT]]）。
 
 与其用一道自信题，不如给他们一件事做：发现一个错误、核查一个来源、改进一份输出、解释一项局限、论证为什么某种 AI 用法适合某个特定任务。
 
@@ -132,7 +132,7 @@ AI 素养就是教提示词。提示词是可见的那部分。学生可以在�
 
 批判性评价会从学科知识迁移过来。并不会，这就是计算机教育的结果为何重要。会写正确代码的学生，并不自动能诊断别人写的错误代码，同样的落差也出现在文字里。
 
-自信是可用的代理指标。在这批文献里，自我报告与表现是分离的，而且分离足够系统，以至于知识库建议采用表现性测量。请要求一次演示。
+自信是可用的代理指标。在这批文献里，自我报告与表现是分离的，而且分离足够系统，以至于证据建议采用表现性测量。请要求一次演示。
 
 ## 你会听到的反对意见
 

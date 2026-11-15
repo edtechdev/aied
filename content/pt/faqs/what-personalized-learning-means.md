@@ -1,7 +1,7 @@
 ---
 title: "O que a aprendizagem personalizada realmente significa, e quando ela ajuda?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:37:46-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
@@ -28,7 +28,7 @@ ai_assist:
 
 A plataforma promete uma experiência personalizada para cada estudante. Pode reordenar questões de prática, reescrever uma explicação em torno do interesse de um estudante por futebol, lembrar da conversa da semana passada ou escolher o que o estudante estuda em seguida. As quatro coisas são chamadas de personalização, e só uma delas foi testada em algo parecido com essa forma.
 
-Aqui está a resposta curta: personalização nomeia uma mudança em alguma parte da experiência de aprendizagem, e o valor dela depende de três coisas: o que é adaptado, que evidência conduz a adaptação e se a mudança melhora a aprendizagem que você pretende. Um exemplo familiar ou uma conversa responsiva pode parecer pessoal enquanto não ensina nada. Uma adaptação eficaz pode ser invisível. O resultado experimental mais claro desta base de conhecimento é estreito: em um curso de certificação em Python de cinco meses em dez escolas de segundo grau de Taipei, estudantes randomizados para sequenciamento adaptativo de problemas pontuaram cerca de 0,150 desvios-padrão a mais em uma [[summative-assessment|prova final]] presencial e sem auxílio do que estudantes com sequência fixa e acesso idêntico ao [[conversational-ai|chatbot]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). Isso sustenta o sequenciamento em condições especificadas. Não valida tudo o que é vendido como personalizado.
+Aqui está a resposta curta: personalização nomeia uma mudança em alguma parte da experiência de aprendizagem, e o valor dela depende de três coisas: o que é adaptado, que evidência conduz a adaptação e se a mudança melhora a aprendizagem que você pretende. Um exemplo familiar ou uma conversa responsiva pode parecer pessoal enquanto não ensina nada. Uma adaptação eficaz pode ser invisível. O resultado experimental mais claro desta literatura é estreito: em um curso de certificação em Python de cinco meses em dez escolas de segundo grau de Taipei, estudantes randomizados para sequenciamento adaptativo de problemas pontuaram cerca de 0,150 desvios-padrão a mais em uma [[summative-assessment|prova final]] presencial e sem auxílio do que estudantes com sequência fixa e acesso idêntico ao [[conversational-ai|chatbot]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). Isso sustenta o sequenciamento em condições especificadas. Não valida tudo o que é vendido como personalizado.
 
 ## A versão curta
 
@@ -122,6 +122,6 @@ Meça desempenho sem auxílio, retenção ou transferência onde puder, tempo e 
 
 ## Para onde ir a seguir
 
-[[personalized-learning]] é a página de conceito para as definições, o vocabulário de marketing e a base de evidência, e [[adaptive-learning]] cobre o mecanismo e a medição dele. [[intelligent-tutoring]] é onde o modelo de estudante encontra o desenho do tutor.
+[[personalized-learning|aprendizagem personalizada]] é a página de conceito para as definições, o vocabulário de marketing e a base de evidência, e [[adaptive-learning|aprendizagem adaptativa]] cobre o mecanismo e a medição dele. [[intelligent-tutoring|tutoria inteligente]] é onde o modelo de estudante encontra o desenho do tutor.
 
 Para desenhar uma atividade em que a personalização é uma decisão entre várias, veja [[designing-ai-into-learning|desenhar a IA na experiência de aprendizagem]]. Para saber como dizer se o sistema funciona antes de escalar, veja [[checking-whether-educational-ai-works|verificar se uma IA educacional funciona]].

@@ -1,7 +1,7 @@
 ---
 title: "Como a IA está impactando os estudantes?"
 created: "2026-08-27T07:59:08-04:00"
-updated: "2026-10-29T08:28:16-04:00"
+updated: "2026-11-15T15:37:46-05:00"
 connected_faqs: [does-ai-help-students-learn, study-with-ai, ai-anxiety-wellbeing, ai-guidance-children-under-13]
 weight: 82
 foundations: [ai-literacy, cognitive-offloading, learner-identity]
@@ -9,7 +9,7 @@ pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
 translation_of: faqs/how-ai-impacts-students
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 
-Você usa IA nos trabalhos e está indo bem, exceto que a prova sem consulta pareceu ler as anotações de outra pessoa. Ou um amigo diz que não escreveu nada e ainda tirou A, e você se pergunta o que isso significa para você. Ou você começou a fazer mais perguntas a um chatbot do que faz ao seu professor.
+Você usa IA nos trabalhos e está indo bem, exceto que a [[summative-assessment|prova sem consulta]] pareceu ler as anotações de outra pessoa. Ou um amigo diz que não escreveu nada e ainda tirou A, e você se pergunta o que isso significa para você. Ou você começou a fazer mais perguntas a um chatbot do que faz ao seu professor.
 
 A resposta curta, em uma forma que você pode repetir para um amigo: a IA é útil onde você precisa de feedback e inútil onde você precisa de prática. Guarde o passo de raciocínio para você, teste-se sem a ferramenta antes de entregar e seja honesto sobre o que usou. O resto desta página é por que isso se sustenta e como isso aparece numa terça à noite.
 

@@ -1,7 +1,7 @@
 ---
 title: "教育分野のAIの研究を報告し解釈する上でのベストプラクティスは何でしょうか。"
 created: "2026-10-10T23:07:06-04:00"
-updated: "2026-11-07T20:33:50-05:00"
+updated: "2026-11-15T15:43:36-05:00"
 connected_faqs: [checking-whether-educational-ai-works, research-gaps-aied, evaluating-ai-interventions-methods]
 weight: 65
 type: faq
@@ -13,7 +13,7 @@ audience: [researchers]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, benchmark, meta-analysis-systematic-review, research-methods-aied]
 translation_of: faqs/reporting-interpreting-aied-research
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:

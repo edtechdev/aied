@@ -1,13 +1,13 @@
 ---
 title: "Como os agentes de IA podem apoiar estudantes e professores?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-10-29T08:28:16-04:00"
+updated: "2026-11-15T15:37:46-05:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
 weight: 66
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,7 @@ Um [[agentic-ai|agente]] planeja, chama ferramentas, mantém contexto, divide o 
 
 [[agentic-workflows-education|Fluxos de Trabalho Agênticos na Educação]] nomeia quatro capacidades recorrentes: reflexão, planejamento, uso de ferramentas e colaboração multiagente. Cada uma acrescenta um custo ao lado da possibilidade, em [[explainable-ai|interpretabilidade]], coordenação, [[trust-calibration|confiança]], latência e supervisão.
 
-Os papéis do lado do estudante vão de tutoria [[adaptive-learning|adaptativa]] e planejamento de estudos a feedback [[formative-assessment|formativo]], [[problem-solving|resolução de problemas]] guiada e geração de prática, até recomendações de pré-requisitos e [[metacognition|provocação metacognitiva]] [[prompt-engineering|reflexiva]]. Os papéis do lado do instrutor cobrem desenvolvimento de material, [[automated-question-generation|geração de questões]] e validação, triagem de feedback, [[learning-analytics|análise]] do curso, desenho instrucional, recuperação de recursos e orquestração de subagentes especializados.
+Os papéis do lado do estudante vão de tutoria [[adaptive-learning|adaptativa]] e planejamento de estudos a feedback [[formative-assessment|formativo]], [[problem-solving|resolução de problemas]] guiada e geração de prática, até recomendações de pré-requisitos e [[metacognition|provocação metacognitiva]] [[prompt-engineering|reflexiva]]. Os papéis do lado do instrutor cobrem desenvolvimento de material, [[automated-question-generation|geração de questões]] e validação, triagem de feedback, [[learning-analytics|análise]] do curso, [[learning-design|desenho instrucional]], recuperação de recursos e orquestração de subagentes especializados.
 
 Dois deles são mais seguros no início, porque ambos produzem um artefato que uma pessoa lê antes dos estudantes: um gerador de questões emparelhado com um validador, e a redação de rascunhos que um professor edita.
 

@@ -1,8 +1,8 @@
 ---
 title: "コースにAIリテラシーをどう組み込むべきでしょうか？"
 created: "2026-10-10T23:04:28-04:00"
-updated: "2026-11-07T20:30:41-05:00"
-source_updated: "2026-10-28T11:06:17-04:00"
+updated: "2026-11-15T15:43:36-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 weight: 86
 foundations: [ai-literacy, cognitive-offloading, learning-design]
@@ -98,7 +98,7 @@ ai_assist:
 
 ## 判断は課題で評価する
 
-学生は自分がAIをどれだけ評価できるかを過大評価しており、[[self-report-measures|自己報告]]の自信項目はその誤りを暴くのではなく裏づけます。この知識ベースは、自己報告と遂行に基づくAIリテラシーの間に有意な不一致があることを記録し、遂行に基づく評価を勧めています（[[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs Performance Misalignment]]、[[jin-glat-genai-literacy-assessment|GLAT]]）。
+学生は自分がAIをどれだけ評価できるかを過大評価しており、[[self-report-measures|自己報告]]の自信項目はその誤りを暴くのではなく裏づけます。文献は、自己報告と遂行に基づくAIリテラシーの間に有意な不一致があることを記録し、遂行に基づく評価を勧めています（[[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs Performance Misalignment]]、[[jin-glat-genai-literacy-assessment|GLAT]]）。
 
 自信項目の代わりに、何かをやらせてください。誤りを見つける、出典を検証する、出力を改善する、限界を説明する、あるAIの使い方が特定の課題に適切である理由を正当化する。
 

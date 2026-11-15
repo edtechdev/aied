@@ -1,7 +1,7 @@
 ---
 title: "Como a IA pode me ajudar a dar um feedback melhor em escala?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:37:46-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 weight: 70
 type: faq
@@ -12,7 +12,7 @@ research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,8 @@ O feedback dos pares conquista seu próprio lugar na sequência. [[scaffolding-s
 
 A vantagem de Gu et al. foi pequena, e eles a leem como real, mas não transformadora por si só. O scaffolding do professor, as diretrizes de prompt e as planilhas fizeram o trabalho de sustentação.
 
+A fonte pode importar menos que o relógio. Em 391 estudantes alemães do ensino médio, o feedback escrito por professores e o feedback de LLM não produziram diferença significativa em revisões, escrita posterior, tempo na tarefa ou percepções; as posteriores bayesianas penderam para o feedback do professor na escrita posterior, mas mantiveram entre um quarto e dois quintos da massa dentro da região de equivalência, e apenas o feedback imediato da IA obteve melhores avaliações de utilidade e motivação ([[meyer-teacher-ai-feedback-writing-2026|Meyer et al., 2026]]). Se um comentário de primeira passagem consegue chegar enquanto o estudante ainda está revisando, esse timing faz parte do desenho que realiza o trabalho.
+
 ## Dê uma rubrica ao modelo, depois faça com que ele mostre os passos
 
 A geração referenciada por rubrica é a parte automatizável.
@@ -96,7 +98,7 @@ Aldino et al. encontram o mesmo padrão de auxiliar-depois-verificar na prática
 
 Doze dos 21 professores de Aldino et al. fizeram mais revisões no nível da frase, e o padrão dominante era calibrar o tom: editar elogios para baixo (f = 11), remover sugestões (f = 9), remover encorajamento (f = 8). As revisões se concentraram na dimensão relacional, especialmente na Relação Estudante-Professor (f = 24). Eles estavam protegendo autenticidade e voz profissional, e esse trabalho não se automatiza.
 
-Os estudantes são o outro lado dessa verificação, e a descrição que fazem da divisão do trabalho é próxima da que esta página recomenda. Em grupos focais com 20 estudantes de graduação, o feedback do professor era valorizado por ser relacional, personalizado e conduzido por especialistas, enquanto o feedback gerado por IA soava impessoal e potencialmente injusto; esses mesmos estudantes estavam abertos a um modelo híbrido em que o professor lê o trabalho deles e complementa os comentários do modelo ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). O mesmo estudo constatou que seus julgamentos coincidiam com os do ChatGPT em especificidade e acionabilidade, mas divergiam em tempestividade e positividade, de modo que as dimensões em que o veredicto do próprio modelo pode ser confiado são mais estreitas que a rubrica completa.
+Os estudantes são o outro lado dessa verificação, e a descrição que fazem da divisão do trabalho é próxima da recomendada. Em grupos focais com 20 estudantes de graduação, o feedback do professor era valorizado por ser relacional, personalizado e conduzido por especialistas, enquanto o feedback gerado por IA soava impessoal e potencialmente injusto; esses mesmos estudantes estavam abertos a um modelo híbrido em que o professor lê o trabalho deles e complementa os comentários do modelo ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). O mesmo estudo constatou que seus julgamentos coincidiam com os do ChatGPT em especificidade e acionabilidade, mas divergiam em tempestividade e positividade, de modo que as dimensões em que o veredicto do próprio modelo pode ser confiado são mais estreitas que a rubrica completa.
 
 ## Ensine os estudantes a ler o comentário
 
@@ -148,6 +150,6 @@ As avaliações de satisfação dizem que os comentários são precisos. No pilo
 
 ## Para onde ir a seguir
 
-[[feedback]] é o conceito guarda-chuva para todo o sistema: provisão, circuito, assimilação e contexto de avaliação. [[ai-feedback-quality|Qualidade do feedback de IA]] cobre o que torna comentários gerados precisos, úteis, tempestivos e pedagogicamente sólidos, e esta página é o meio prático, sobre quais combinações dessas partes produzem melhor feedback em escala.
+[[feedback]] é o conceito guarda-chuva para todo o sistema: provisão, circuito, assimilação e contexto de avaliação. [[ai-feedback-quality|Qualidade do feedback de IA]] cobre o que torna comentários gerados precisos, úteis, tempestivos e pedagogicamente sólidos, e a questão prática é quais combinações dessas partes produzem melhor feedback em escala.
 
 Perguntas sobre o que uma nota deve significar quando a IA está envolvida, incluindo substituição de construto, evidência autenticada de processo e regras de integridade, pertencem a [[redesign-assessment-ai-era|redesenhar a avaliação na era da IA]] e a [[assessment-validity|validade da avaliação]], não a esta página. Para o caso especial do ensino de escrita, veja [[writing-instruction-ai-best-practices|boas práticas para o ensino de escrita no contexto da IA]].

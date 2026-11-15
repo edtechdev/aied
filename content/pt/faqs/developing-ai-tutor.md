@@ -1,7 +1,7 @@
 ---
 title: "Quais são as melhores práticas para desenvolver um tutor de IA eficaz?"
 created: "2026-08-29T20:36:43-04:00"
-updated: "2026-10-29T08:28:16-04:00"
+updated: "2026-11-15T15:37:46-05:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, designing-educational-ai-software]
 weight: 74
 type: faq
@@ -13,7 +13,7 @@ discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
 translation_of: faqs/developing-ai-tutor
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -57,7 +57,7 @@ Três listas, escritas antes de qualquer pessoa escolher um modelo:
 
 A literatura sobre [[intelligent-tutoring|tutoria inteligente]] sustenta que a eficácia depende do desenho [[pedagogy|pedagógico]] e não apenas da capacidade do modelo, e a falha é fácil de construir por acidente. Um tutor otimizado para "terminar o problema" vai minar um tutor otimizado para "aprender a resolver o problema" enquanto passa em todos os testes funcionais que você escrever, porque ambos produzem respostas finais corretas. A diferença mora no que o estudante fez entre a pergunta e a resposta.
 
-A segunda lista é onde as equipes de desenvolvimento ficam concretas. Pegue um rótulo de domínio como "domínio de derivadas" e recuse-se a deixá-lo significar produzir a derivada correta. Quebre-o em reconhecer quando uma derivada é apropriada, interpretá-la como taxa de variação instantânea, selecionar a regra, executar o procedimento, explicar por que a escolha estava certa, verificar a razoabilidade e aplicá-la a um problema desconhecido. Cada um desses itens é algo separado a registrar, e cada um implica uma resposta diferente quando está faltando. Essa decomposição é também a defesa contra a [[correct-answer-trap-misconceptions|armadilha da resposta correta]], em que o aprendiz chega à resposta certa por raciocínio falho e sua análise registra um sucesso. [[correct-answer-trap-ai-tutor|Pegando a Armadilha da Resposta Correta]] e [[zhang-tutormoments-2026|Quando a Ajuda Não Ajuda]] descrevem versões dessa falha em produção.
+A segunda lista é onde as equipes de desenvolvimento ficam concretas. Pegue um rótulo de domínio como "domínio de derivadas" e recuse-se a deixá-lo significar produzir a derivada correta. Quebre-o em reconhecer quando uma derivada é apropriada, interpretá-la como taxa de variação instantânea, selecionar a regra, executar o procedimento, explicar por que a escolha estava certa, verificar a razoabilidade e aplicá-la a um problema desconhecido. Cada um desses itens é algo separado a registrar, e cada um implica uma resposta diferente quando está faltando. Essa decomposição é também a defesa contra a [[correct-answer-trap-misconceptions|armadilha da resposta correta]], em que o aprendiz chega à resposta certa por raciocínio falho e sua [[learning-analytics|analítica]] registra um sucesso. [[correct-answer-trap-ai-tutor|Pegando a Armadilha da Resposta Correta]] e [[zhang-tutormoments-2026|Quando a Ajuda Não Ajuda]] descrevem versões dessa falha em produção.
 
 ## Construa o modelo do aprendiz antes da conversa
 
@@ -117,7 +117,7 @@ Teste vazamento de respostas, reforço de concepções errôneas, concordância 
 
 ## Coloque a arquitetura de dados no mesmo documento de projeto
 
-Colete apenas dados de aprendiz pedagogicamente necessários, e seja capaz de dizer por que cada campo existe. Onde você mantiver memória persistente ou um [[student-modeling|modelo do aprendiz]], torne sua finalidade visível para o aprendiz, dê a ele controle apropriado sobre ela, proteja informações sensíveis, defina retenção e encaminhe decisões consequentes a um instrutor ou a outro [[human-in-the-loop-ai|ponto de checagem humano]]. Um modelo do aprendiz que acumula em silêncio uma estimativa de confiança que o estudante nunca vê é um problema de proteção de dados e um problema pedagógico.
+Colete apenas dados de aprendiz pedagogicamente necessários, e seja capaz de dizer por que cada campo existe. Onde você mantiver memória persistente ou um [[student-modeling|modelo do aprendiz]], torne sua finalidade visível para o aprendiz, dê a ele controle apropriado sobre ela, proteja informações sensíveis, defina retenção e encaminhe decisões consequentes a um instrutor ou a outro [[human-in-the-loop-ai|ponto de checagem humano]]. Um modelo do aprendiz que acumula em silêncio uma estimativa de confiança que o estudante nunca vê é um problema de [[privacy|proteção de dados]] e um problema pedagógico.
 
 Audite o comportamento entre origens linguísticas, níveis de habilidade, contextos culturais, necessidades de [[accessibility|acessibilidade]] e níveis de [[prior-knowledge|conhecimento prévio]] e experiência com IA. Desempenho diferencial sobre o mesmo objetivo é um bug com um estudante acoplado a ele, e ele não vai aparecer no seu número agregado de precisão.
 
@@ -212,11 +212,11 @@ Engajamento é o objetivo. Duração da conversa e número de sessões são as m
 
 **"Os estudantes adoram e a conclusão subiu."** Os dois fatos são compatíveis com um sistema que responde bem a perguntas e não ensina nada. O estudo com 6.000 estudantes encontrou progresso mais lento e menos questões tentadas junto com melhor precisão, então uma queda na conclusão também não é automaticamente má notícia. Relate o desempenho sem assistência ao lado dos números de engajamento e deixe os dois discordarem em público.
 
-**"Não conseguimos rodar um ensaio randomizado."** Você pode rodar uma comparação dentro do estudante sem um: o mesmo objetivo, assistido durante a unidade, testado sem assistência duas semanas depois, com a nota assistida relatada ao lado. Esse desenho responde à pergunta de produto e não precisa de braço de controle. O que ele não pode dizer é o contrafactual para estudantes que nunca usaram o tutor.
+**"Não conseguimos rodar um [[rct|ensaio randomizado]]."** Você pode rodar uma comparação dentro do estudante sem um: o mesmo objetivo, assistido durante a unidade, testado sem assistência duas semanas depois, com a nota assistida relatada ao lado. Esse desenho responde à pergunta de produto e não precisa de braço de controle. O que ele não pode dizer é o contrafactual para estudantes que nunca usaram o tutor.
 
-**"O modelo é uma API de fornecedor, então o comportamento de ajuda está fora das nossas mãos."** Os degraus vivem na sua camada de orquestração, e o resultado do experimento de proteção veio de mudar o que o tutor podia dizer, não de trocar modelos. Espere que o pós-treinamento do fornecedor puxe para responder prontamente, porque utilidade é aquilo para o que ele foi ajustado, e coloque a contenção no seu próprio código.
+**"O modelo é uma API de fornecedor, então o comportamento de ajuda está fora das nossas mãos."** Os degraus vivem na sua camada de orquestração, e o resultado do experimento de proteção veio de mudar o que o tutor podia dizer, não de trocar modelos. Espere que o [[llm-training-and-fine-tuning|pós-treinamento]] do fornecedor puxe para responder prontamente, porque utilidade é aquilo para o que ele foi ajustado, e coloque a contenção no seu próprio código.
 
-**"Os professores não vão usar outro painel."** Não vão usar um que emite diagnósticos contínuos, o que a revisão de educação básica constatou desviar a atenção da observação que eles próprios fazem. Dê a eles um número pequeno de sinais interpretáveis, uma forma de aceitar ou rejeitar cada recomendação, e tempo na semana para olhá-los.
+**"Os professores não vão usar outro painel."** Não vão usar um que emite diagnósticos contínuos, o que a revisão do [[k-12|K-12]] constatou desviar a atenção da observação que eles próprios fazem. Dê a eles um número pequeno de sinais interpretáveis, uma forma de aceitar ou rejeitar cada recomendação, e tempo na semana para olhá-los.
 
 **"Não temos especialistas de disciplina na equipe."** Então o tutor vai ensinar método genérico e a notação do curso vai derivar dentro de um semestre. Um especialista da disciplina por dois dias na fase de projeto, escrevendo a lista de concepções errôneas e a lista de métodos aprovados, é o item mais barato do projeto e o primeiro que as equipes cortam.
 

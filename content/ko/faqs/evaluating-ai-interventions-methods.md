@@ -1,14 +1,14 @@
 ---
 title: "교수자가 AI 관련 개입을 평가하는 데 사용할 수 있는 측정과 연구 방법은 무엇입니까?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-08T00:06:30-05:00"
+updated: "2026-11-15T15:46:45-05:00"
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:

@@ -1,7 +1,7 @@
 ---
 title: "모의 학생이 실제 학습자처럼 행동하게 하려면 어떻게 해야 할까요?"
 created: "2026-10-02T08:36:18-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-15T15:46:45-05:00"
 weight: 71
 type: faq
 connected_faqs: [checking-whether-educational-ai-works, addressing-common-misconceptions-ai-education, making-ai-better-at-supporting-learning]
@@ -14,7 +14,7 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
 translation_of: faqs/making-simulated-students-behave-like-learners
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -96,7 +96,7 @@ StudentSim은 두 가지 속성이 함께 성립할 것을 요구합니다. **�
 
 실제 학생-튜터 수학 대화의 최대 공개 코퍼스에서 가져온 홀드아웃 대화 382개에 대해 아홉 가지 시뮬레이션 방법을 일곱 가지 참조 기반 지표로 벤치마킹한 결과, 프롬프팅은 대화 행위(0.4998 대 0.6840), ROUGE-L(0.1648 대 0.3212), 코사인 유사도(0.5460 대 0.7390)에서 [[llm-training-and-fine-tuning|미세조정]]에 뒤졌습니다. 시험된 최선의 방법인 8B 모델 선호 최적화는 지도 미세조정을 근소하게 앞섰을 뿐 오류에서는 더 나빴고, 튜터 세 명의 인간 평가가 그 순위를 재현했습니다([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). 이 사다리의 꼭대기가 중간에 가깝기 때문에, 여러분이 보고하는 기준선이 여러분 자신의 숫자가 얼마나 인상적으로 보이는지를 결정합니다.
 
-SWIM은 프롬프팅, 미세조정, 강화학습을 가장 명확히 비교합니다. 인상적으로 판단하지 않고 각 생성 에세이를 목표 특질 프로필에 비추어 점수화하기 때문입니다. 루브릭에 근거한 프롬프팅은 강한 상용 모델에서도 제한적 통제만 주었고, 최고 평균 특질 QWK는 0.577(Claude Sonnet)과 0.422(GPT-5.4)였으며, 오픈 7B 모델에서는 거의 0이었습니다. 실제 점수-에세이 쌍에 대한 지도 미세조정은 그 7B 모델에서 0.474 ± 0.023에 도달했습니다. [[automated-essay-scoring|자동 에세이 채점]]에서 도출한 보상을 쓰는 GRPO는 0.618 ± 0.005에 도달했고, 그 이득은 정책이 훈련한 적 없는 두 독립 채점자에서도 유지되었습니다([[swim-student-writing-simulation-2026]]).
+SWIM은 프롬프팅, 미세조정, 강화학습을 가장 명확히 비교합니다. 인상적으로 판단하지 않고 각 생성 에세이를 목표 특질 프로필에 비추어 점수화하기 때문입니다. 루브릭에 근거한 프롬프팅은 강한 상용 모델에서도 제한적 통제만 주었고, 최고 평균 특질 QWK는 0.577(Claude Sonnet)과 0.422(GPT-5.4)였으며, 오픈 7B 모델에서는 거의 0이었습니다. 실제 점수-에세이 쌍에 대한 지도 미세조정은 그 7B 모델에서 0.474 ± 0.023에 도달했습니다. [[automated-essay-scoring|자동 에세이 채점]]에서 도출한 보상을 쓰는 GRPO는 0.618 ± 0.005에 도달했고, 그 이득은 정책이 훈련한 적 없는 두 독립 채점자에서도 유지되었습니다([[swim-student-writing-simulation-2026|Do 등, 2026]]).
 
 프롬프팅은 또한 현실적인 집단이 아니라 이상화된 집단을 만들어 냈습니다. 평균 정규화 총점이 실제 학생의 0.58에 대해 0.74였고, 중앙값 길이는 167단어에 대해 304단어였습니다. 훈련된 모델은 길이 감독 없이도 인간의 점수와 길이 분포를 복원했습니다. 한 가지는 여전히 어려웠습니다. 진정한 저숙련 형태입니다. 훈련된 모델은 통사는 복원했지만 철자와 문법 오류를 너무 적게 썼고, 프롬프팅은 그럭저럭 유능한 산문 위에 오탈자를 뿌리는 표면적 손상으로 약함을 시뮬레이션했습니다.
 
@@ -148,4 +148,4 @@ SWIM은 프롬프팅, 미세조정, 강화학습을 가장 명확히 비교합�
 
 ## 다음으로 갈 곳
 
-[[simulating-students]]는 전체 개념 페이지입니다. [[checking-whether-educational-ai-works]]는 시뮬레이터에 비추어 시험하는 시스템을 평가하는 방법을 다루고, [[making-ai-better-at-supporting-learning]]은 여기 미세조정 결과의 배경이 되는 훈련 방법을 다룹니다. [[addressing-common-misconceptions-ai-education]]은 시뮬레이션 학생이 연구에서 실제 학습자를 대신할 수 있는지를 다룹니다.
+[[simulating-students|학생 시뮬레이션]]는 전체 개념 페이지입니다. [[checking-whether-educational-ai-works]]는 시뮬레이터에 비추어 시험하는 시스템을 평가하는 방법을 다루고, [[making-ai-better-at-supporting-learning]]은 여기 미세조정 결과의 배경이 되는 훈련 방법을 다룹니다. [[addressing-common-misconceptions-ai-education]]은 시뮬레이션 학생이 연구에서 실제 학습자를 대신할 수 있는지를 다룹니다.

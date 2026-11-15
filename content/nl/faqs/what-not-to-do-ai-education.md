@@ -1,9 +1,9 @@
 ---
 title: "Wat moeten onderwijsprofessionals vermijden met AI?"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-11T06:20:00-05:00"
+updated: "2026-11-15T15:46:36-05:00"
 type: faq
-connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors]
+connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors, adopting-ai-options-and-issues]
 weight: 90
 foundations: [misconceptions, reducing-ai-misuse, ai-literacy, limitations-in-aied-research]
 pedagogy: [reflection, professional-training]
@@ -12,7 +12,7 @@ assessment: [assessment-validity, ai-detection, self-report-measures, feedback]
 ethics: [privacy, pedagogical-safety, equity-in-ai-education, accessibility, automation-bias]
 audience: [instructors, learners, parents and families, faculty developers, software developers, administrators, researchers]
 translation_of: faqs/what-not-to-do-ai-education
-source_updated: "2026-11-11T06:20:00-05:00"
+source_updated: "2026-11-14T04:30:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -157,8 +157,8 @@ Geen van deze waarschuwingen betekent dat de tool altijd fout is. Een detector k
 ## Waar u verder kunt gaan
 
 - [[addressing-common-misconceptions-ai-education]]: de overtuigingen achter deze praktijken, en hoe u ze zonder neerbuigendheid corrigeert.
-- [[limitations-in-aied-research]]: wat de bewijsbasis nog niet kan dragen.
-- [[reducing-ai-misuse]]: structurele hefbomen tegen misbruik, en waarom zij het beter doen dan aansporing.
-- [[pedagogical-safety]]: wat een tutor een lerende kan aandoen terwijl hij elke inhoudscontrole doorstaat.
+- [[limitations-in-aied-research|Beperkingen in AIEd-onderzoek]]: wat de bewijsbasis nog niet kan dragen.
+- [[reducing-ai-misuse|AI-misbruik verminderen]]: structurele hefbomen tegen misbruik, en waarom zij het beter doen dan aansporing.
+- [[pedagogical-safety|Pedagogische veiligheid]]: wat een tutor een lerende kan aandoen terwijl hij elke inhoudscontrole doorstaat.
 - [[should-we-use-ai-detectors]]: het volledige detectorbewijs.
 - [[checking-whether-educational-ai-works]]: hoe u een claim beoordeelt voordat u haar overneemt.

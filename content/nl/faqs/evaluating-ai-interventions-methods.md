@@ -7,9 +7,9 @@ audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T14:57:55-04:00"
+updated: "2026-11-15T15:46:36-05:00"
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -69,7 +69,7 @@ Een winst voor en na de interventie toont aan dat de interventie werkte. Ze toon
 
 Gepubliceerde effectgroottes zijn overdraagbaar naar mijn klas. O'Neills 14 meta-analyses konden de claims die erop waren gebouwd niet ondersteunen, en beide gerapporteerde voorspellingsintervallen omvatten nul.
 
-Platformanalyses meten de onderwijskwaliteit. Zhangs als derde gerangschikte agent stond laatste op een expert-rubric.
+[[learning-analytics|Platformanalytics]] meten de onderwijskwaliteit. Zhangs als derde gerangschikte agent stond laatste op een expert-rubric.
 
 ## Wat er op u afkomt
 

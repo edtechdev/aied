@@ -1,7 +1,7 @@
 ---
 title: "효과적으로 공부하고 배우기 위해 AI를 어떻게 사용해야 할까요?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-15T15:46:45-05:00"
 connected_faqs: [reducing-over-reliance, verify-ai-output, how-ai-impacts-students, ai-anxiety-wellbeing]
 weight: 60
 type: faq
@@ -13,7 +13,7 @@ audience: [learners, instructors]
 level: [higher ed, secondary]
 connected_resources: [gemini-notebook]
 translation_of: faqs/study-with-ai
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -71,7 +71,7 @@ ai_assist:
 
 - **과제 제목이 아니라 문제와 자기 시도를 붙여 넣으십시오.** 이 학생들의 76.32%가 묻고, 답을 받고, 멈추는 패턴을 따랐으며, 흔히 무엇이 필요한지 말하지 않은 채 평가 제목만 붙여 넣고 답이 실망스러우면 같은 프롬프트를 다시 제출했습니다. 지속적이고 반복적인 대화는 23.68%에서 나타났고, 그들 거의 전부가 인지적 파트너였습니다.
 - **자기 읽기와 쓰기 안에 머무르십시오.** 78.94%가 시작 전이나 초안 작성 후에 AI를 썼고, 그 분리는 가장 적게 배운 집단의 특징입니다.
-- **첫 답변을 넘어가십시오.** [[help-seeking]] 연구도 같은 형태를 보여 줍니다. [[student-ai-inquiry-types-cs2-2026|Amoozadeh and Alipour (2026)]]는 두 개의 프로그래밍 과제에서 72명 학생의 프롬프트 830개를 분류했습니다. 같은 몇 가지 움직임이 되풀이되었습니다. 혼란을 보고하는 단언, 무언가가 맞는지 묻는 검증 프롬프트, 다음 단계를 요청하는 절차적 프롬프트입니다. 생각하게 만드는 움직임인 비교, 예측, 기능 명세는 드물게 남았습니다. 여러분의 프롬프트 기록이 여러분의 의도보다 여러분의 학습을 더 잘 예측할 것입니다.
+- **첫 답변을 넘어가십시오.** [[help-seeking|도움 요청]] 연구도 같은 형태를 보여 줍니다. [[student-ai-inquiry-types-cs2-2026|Amoozadeh and Alipour (2026)]]는 두 개의 프로그래밍 과제에서 72명 학생의 프롬프트 830개를 분류했습니다. 같은 몇 가지 움직임이 되풀이되었습니다. 혼란을 보고하는 단언, 무언가가 맞는지 묻는 검증 프롬프트, 다음 단계를 요청하는 절차적 프롬프트입니다. 생각하게 만드는 움직임인 비교, 예측, 기능 명세는 드물게 남았습니다. 여러분의 프롬프트 기록이 여러분의 의도보다 여러분의 학습을 더 잘 예측할 것입니다.
 
 ## 이름 댈 수 있는 것과 출력을 대조하십시오
 
@@ -137,4 +137,4 @@ ai_assist:
 
 ## 다음으로 갈 곳
 
-[[reducing-over-reliance]]는 도구가 여러분의 판단을 대체하지 못하게 하는 습관을 다루고, [[verify-ai-output]]은 점검 측면을 더 자세히 다루며, [[how-ai-impacts-students]]는 학생과 이 도구들에 대해 더 넓은 증거가 말하는 바를 제시합니다. 여러분이 가르치기도 한다면 [[does-ai-help-students-learn]]이 지속적 학습에 관한 증거이고, [[ai-anxiety-wellbeing]]은 이 변화의 속도가 따라가려는 학생들에게 무엇을 하는지 다룹니다.
+[[reducing-over-reliance]]는 도구가 여러분의 판단을 대체하지 못하게 하는 습관을 다루고, [[verify-ai-output]]은 점검 측면을 더 자세히 다루며, [[how-ai-impacts-students]]는 학생과 이 도구들에 대해 더 넓은 증거가 말하는 바를 제시합니다. 여러분이 가르치기도 한다면 [[does-ai-help-students-learn|AI가 학생 학습에 도움이 되는가]]이 지속적 학습에 관한 증거이고, [[ai-anxiety-wellbeing]]은 이 변화의 속도가 따라가려는 학생들에게 무엇을 하는지 다룹니다.

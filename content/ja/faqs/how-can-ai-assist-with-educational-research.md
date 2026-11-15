@@ -1,8 +1,8 @@
 ---
 title: "AIは教育研究にどのように貢献できますか？"
 created: "2026-10-10T23:04:27-04:00"
-updated: "2026-11-07T20:21:18-05:00"
-source_updated: "2026-11-06T13:58:13-05:00"
+updated: "2026-11-15T15:43:36-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]

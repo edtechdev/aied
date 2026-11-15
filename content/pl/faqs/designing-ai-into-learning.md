@@ -6,9 +6,9 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-11-01T11:35:17-05:00"
+updated: "2026-11-15T15:44:00-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
 
-W konspekcie modułu jest wiersz z napisem „aktywność z SI” i nikt nie potrafi powiedzieć, co ten wiersz zastępuje. Albo prowadzący poprosił o dodanie chatbota do kursu, który już działa, a zadaniem jest umieszczenie go tak, żeby nie zepsuć tej części, która sprawiała, że kurs działał.
+W konspekcie modułu jest wiersz z napisem „aktywność z SI” i nikt nie potrafi powiedzieć, co ten wiersz zastępuje. Albo prowadzący poprosił o dodanie [[conversational-ai|chatbota]] do kursu, który już działa, a zadaniem jest umieszczenie go tak, żeby nie zepsuć tej części, która sprawiała, że kurs działał.
 
 Warto zacząć od celu uczenia się i od aktywności, która ten cel wytwarza. Ten sam model może być rusztowaniem, partnerem w [[socratic-method|metodzie sokratejskiej]], czytelnikiem szkiców, [[simulation|symulacją]] albo maszyną do odpowiedzi, a to, który z nich się dostaje, zależy od projektu, a nie od modelu. Trzeba nazwać tryb, który się buduje, umieścić próbę uczącego się przed pojawieniem się jakiejkolwiek pomocy i zostawić w kursie co najmniej jedną ścieżkę, która działa bez narzędzia.
 
@@ -72,7 +72,7 @@ Z tego wynikają dwie lekcje dla projektowania SI. Narzędzie trzeba umieścić 
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] traktuje czas jako zaprojektowaną podporę, a nie cechę studenta: kurs we własnym tempie ma tygodniowy przydział około 100 minut z celem blisko 20 minut dziennie, przypomnienia świadome czasu, pulpit postępu oraz krótki test na koniec podrozdziału złożony z 3 do 12 pytań. Punkt wyjścia, na który odpowiada ten projekt, jest brutalny: prawie 25 procent z ponad 600 uczących się zaczęło dopiero w ostatnim tygodniu, a 95 procent tej grupy nie zaliczyło.
 
-Czytaj to jako wskazówkę projektową, a nie dowiedziony efekt. Artykuł porównuje późniejszy kurs z wcześniejszym, zamiast przeprowadzać badanie kontrolowane, więc poprawy nie da się oddzielić od zmiany kohorty i przedmiotu; przypomnienia wystarczająco silne, by przesunąć rytm nauki, to także kwestia [[privacy]], na którą trzeba odpowiedzieć w sylabusie.
+Czytaj to jako wskazówkę projektową, a nie dowiedziony efekt. Artykuł porównuje późniejszy kurs z wcześniejszym, zamiast przeprowadzać [[rct|badanie kontrolowane]], więc poprawy nie da się oddzielić od zmiany kohorty i przedmiotu; przypomnienia wystarczająco silne, by przesunąć rytm nauki, to także kwestia [[privacy|prywatności]], na którą trzeba odpowiedzieć w sylabusie.
 
 ## Zdecydować, co wstrzymać i kiedy to przywrócić
 
@@ -100,7 +100,7 @@ Efektywność jest celem przeprojektowania. Szkicowanie efektów i rubryk z mode
 
 **„Nie ma czasu na zmianę kolejności całego kursu.”** Wtedy trzeba zmienić kolejność jednego modułu i jednego zaliczenia. Zawias „najpierw wstrzymać, potem wzmocnić” to jeden punkt kontrolny, a sekwencja „najpierw myślenie” to trzy instrukcje na jednej karcie.
 
-**„Nasza funkcja SI ma już zabezpieczenia.”** Zabezpieczenia ograniczają to, co mówi model. Nie decydują o tym, czy uczący się najpierw podjął próbę, czy wsparcie słabnie ani czy istnieje ścieżka bez SI. To decyzje projektowe w kursie, a nie ustawienia w produkcie.
+**„Nasza funkcja SI ma już [[guardrails|zabezpieczenia]].”** Zabezpieczenia ograniczają to, co mówi model. Nie decydują o tym, czy uczący się najpierw podjął próbę, czy wsparcie słabnie ani czy istnieje ścieżka bez SI. To decyzje projektowe w kursie, a nie ustawienia w produkcie.
 
 ## Co zrobić w tym tygodniu
 

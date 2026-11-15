@@ -1,9 +1,9 @@
 ---
 title: "教育者使用人工智能时应当避免什么？"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-11T06:20:00-05:00"
+updated: "2026-11-15T15:44:17-05:00"
 type: faq
-connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors]
+connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors, adopting-ai-options-and-issues]
 weight: 90
 foundations: [misconceptions, reducing-ai-misuse, ai-literacy, limitations-in-aied-research]
 pedagogy: [reflection, professional-training]
@@ -12,7 +12,7 @@ assessment: [assessment-validity, ai-detection, self-report-measures, feedback]
 ethics: [privacy, pedagogical-safety, equity-in-ai-education, accessibility, automation-bias]
 audience: [instructors, learners, parents and families, faculty developers, software developers, administrators, researchers]
 translation_of: faqs/what-not-to-do-ai-education
-source_updated: "2026-11-11T06:20:00-05:00"
+source_updated: "2026-11-14T04:30:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-关于教育中人工智能的大多数指导，说的都是可以尝试什么。本页收集的是证据表明应当停止的做法，并按必须停止它的角色来编排。错误的信念另有页面处理：[[addressing-common-misconceptions-ai-education|误解常见问题]]负责这一块，[[misconceptions]]概念页解释它们为什么顽固存在。研究暂时还回答不了的问题，属于[[limitations-in-aied-research|AIEd 研究的局限]]。这里要讲的是信念之后的那一步：人们实际做了什么，代价落在哪里，以及应当改做什么。
+关于教育中人工智能的大多数指导，说的都是可以尝试什么。证据表明应当停止的做法，按必须停止它的角色来编排。错误的信念另有页面处理：[[addressing-common-misconceptions-ai-education|误解常见问题]]负责这一块，[[misconceptions]]概念页解释它们为什么顽固存在。研究暂时还回答不了的问题，属于[[limitations-in-aied-research|AIEd 研究的局限]]。这里要讲的是信念之后的那一步：人们实际做了什么，代价落在哪里，以及应当改做什么。
 
 三种失误在每个角色身上反复出现。
 

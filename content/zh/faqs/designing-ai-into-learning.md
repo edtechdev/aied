@@ -1,12 +1,12 @@
 ---
 title: "应当如何把人工智能设计进学习体验之中？"
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-15T15:40:39-05:00"
 weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/designing-ai-into-learning
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -49,7 +49,7 @@ ai_assist:
 
 ## 决定学习者在没有工具时做什么
 
-知识库的[[pedagogy|教学法与教学策略]]概念提供了检验：这个配置是否保住了产生预期学习的那项活动？在任何人挑选功能之前，先在纸上回答这个问题。
+[[pedagogy|教学法与教学策略]]概念提供了检验：这个配置是否保住了产生预期学习的那项活动？在任何人挑选功能之前，先在纸上回答这个问题。
 
 [[finkelstein-principled-ai-education-2025|The Principled AI Education Framework]]陈述了一般规则：技术应当增强而不是取代教育意图培养的人的能力。写成对一个模块的检验，这意味着点名那项能力、点名建立它的活动，并追问 AI 是坐在这项活动之内，还是坐在它旁边。
 
@@ -79,7 +79,7 @@ ai_assist:
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] 把时间当作一种被设计的脚手架，而不是学生的特质：一门自定进度的课程每周约有 100 分钟的配额，目标接近每天 20 分钟，配有感知时间的提醒、进度看板和每个小节末 3 到 12 题的简短检查。这一设计所回应的基线很严峻：600 多名学习者中近 25% 直到最后一周才开始，而这个群体中有 95% 未能通过。
 
-请把它读作一个设计问题，而不是一个已被证明的效果。该论文比较的是较晚的课程与较早的课程，并未进行[[rct|对照试验]]，因此无法把改善与队列和科目的变化分开；而强到足以改变学习时点的提醒，也是一个你必须在教学大纲中回答的[[privacy]]问题。
+请把它读作一个设计问题，而不是一个已被证明的效果。该论文比较的是较晚的课程与较早的课程，并未进行[[rct|对照试验]]，因此无法把改善与队列和科目的变化分开；而强到足以改变学习时点的提醒，也是一个你必须在教学大纲中回答的[[privacy|隐私]]问题。
 
 ## 决定扣住什么，以及何时恢复
 

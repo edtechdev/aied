@@ -1,7 +1,7 @@
 ---
 title: "Was sollten Studierende für Berufe lernen, in denen KI alltäglich ist?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-15T15:40:02-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
@@ -50,6 +50,8 @@ Kurze Antwort für eine Kollegin: Lehren Sie die ganze berufliche Aufgabe, nicht
 Zwei Lesarten dieser Lücke sind verlockend, und beide sind falsch. Die erste ist, dass Lehrende hinter dem Arbeitsmarkt zurückliegen. Die zweite ist, dass Arbeitgeber Anpassung wollen. Eine nützlichere Lesart ist, dass jede Gruppe eine andere Hälfte derselben Aufgabe beschreibt, und eine Absolventin, die nur eine Hälfte kann, ist für beide schlecht vorbereitet. Eine studierende Person, die nicht erklären kann, warum ein Ergebnis falsch ist, nützt einem Arbeitgeber nichts, der dem Workflow vertraut; eine studierende Person, die nur KI-Ausgabe kritisieren kann, nützt einem Arbeitgeber nichts, der die Aufgabe erledigt braucht.
 
 Die Grenzen dieser Evidenz zählen. Das sind erklärte Prioritäten aus Befragungen, und der Bericht zeigt nicht, dass irgendein Curriculum bessere Einstellungen, bessere Leistung oder bessere Bezahlung erzeugt. Was er Ihnen gibt, ist ein verteidigbarer Grund zu fragen, ob Ihre Studierenden je üben, einen KI-gestützten Workflow abzuschließen und zu prüfen, statt über ihn zu diskutieren.
+
+Eine Arbeitgebersignale in eine Curriculumsänderung zu verwandeln, ist selbst ein Prozess mit Entscheidungspunkten. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] schlägt sechs Stufen vor — Erkennen, Validierung durch Interessengruppen, Programmanalyse, Curriculum-Redesign, Umsetzung und Befähigung sowie Ergebnisüberprüfung —, jede mit einem benannten Entscheidungsrecht und einem rechenschaftspflichtigen Ergebnis, und beschränkt KI auf begrenzte Unterstützungsfunktionen wie Mustererkennung und Kompetenzzuordnung. Es ist ein Vorschlag, keine Evaluation, aber er benennt die Schritte, die eine Anfrage aus einem Beirat üblicherweise überspringt.
 
 ## Lehren Sie eine vollständige berufliche Aufgabe
 
@@ -125,6 +127,6 @@ Was hilft, ist Untersuchung in einem Maßstab, in dem eine studierende Person ha
 
 ## Wohin als Nächstes
 
-[[career-development-and-readiness]] ist die Konzeptseite für Beschäftigungsfähigkeit, Adaptabilität und Arbeitsmarktevidenz, und [[ai-literacy]] deckt ab, was Kompetenz über die Werkzeugbedienung hinaus bedeutet. Für den Einbau in einen konkreten Kurs siehe [[incorporating-ai-literacy|KI-Kompetenz einbinden]] und [[faculty-ai-competencies|welche Kompetenzen Lehrende brauchen]].
+[[career-development-and-readiness|Berufliche Entwicklung und Berufsreife]] ist die Konzeptseite für Beschäftigungsfähigkeit, Adaptabilität und Arbeitsmarktevidenz, und [[ai-literacy|KI-Kompetenz]] deckt ab, was Kompetenz über die Werkzeugbedienung hinaus bedeutet. Für den Einbau in einen konkreten Kurs siehe [[incorporating-ai-literacy|KI-Kompetenz einbinden]] und [[faculty-ai-competencies|welche Kompetenzen Lehrende brauchen]].
 
 Für das [[assessment|Assessment-Design]], das unterstützte und unabhängige Leistung unterscheidbar macht, siehe [[redesign-assessment-ai-era|Assessment im KI-Zeitalter neu gestalten]] und [[ai-grading-fairness-reliability|KI-Benotung]]. Wie Sie verhindern, dass Unterstützung zu Abhängigkeit wird, behandelt [[reducing-over-reliance|Überabhängigkeit reduzieren]].

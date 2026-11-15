@@ -1,8 +1,8 @@
 ---
 title: "AIエージェントはどのように学生と教員を支援できますか？"
 created: "2026-10-10T22:55:14-04:00"
-updated: "2026-11-07T20:33:50-05:00"
-source_updated: "2026-10-28T11:29:19-04:00"
+updated: "2026-11-15T15:43:36-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
 weight: 66
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]

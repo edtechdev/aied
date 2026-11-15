@@ -1,14 +1,14 @@
 ---
 title: "Wie kann mir KI als Lehrkraft Zeit sparen?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-15T15:44:25-05:00"
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
 translation_of: faqs/ai-save-instructor-time
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ Das Fazit für die Sitzung: Geben Sie den ersten Entwurf ab und behalten Sie das
 
 ## Beginnen Sie mit Arbeit, die Sie ohnehin überarbeitet hätten
 
-Die stärkste Zahl in dieser Wissensbasis kommt aus einer [[rct|randomisierten Studie]], die in [[ai-changing-teaching-workflows|Wie KI die Lehrarbeitsabläufe verändert]] zusammengefasst ist. 259 Naturwissenschaftslehrkräfte, die ChatGPT nutzten, verbrachten etwa 69 % so viel Zeit mit der Stundenplanung wie die Kontrollgruppe, eine Kürzung um rund 31 %, und verblindete fachkundige Gutachtende fanden keinen erkennbaren Qualitätsverlust. Die Lehrkräfte haben die Zeit umverteilt statt sie zu bunkern, und sie in Planung, Korrektur und studierendenbezogene Arbeit verschoben.
+Die stärkste Zahl in dieser Literatur kommt aus einer [[rct|randomisierten Studie]], die in [[ai-changing-teaching-workflows|Wie KI die Lehrarbeitsabläufe verändert]] zusammengefasst ist. 259 Naturwissenschaftslehrkräfte, die ChatGPT nutzten, verbrachten etwa 69 % so viel Zeit mit der Stundenplanung wie die Kontrollgruppe, eine Kürzung um rund 31 %, und verblindete fachkundige Gutachtende fanden keinen erkennbaren Qualitätsverlust. Die Lehrkräfte haben die Zeit umverteilt statt sie zu bunkern, und sie in Planung, Korrektur und studierendenbezogene Arbeit verschoben.
 
 Ein zweiter Datensatz in derselben Arbeit, mehr als 104.000 Nachrichten von über 15.000 Lehrkräften und Bildungsverantwortlichen, zeigt, warum die Ersparnis an seltsamen Stellen landet. Der durchschnittliche Prompt berührt 1.7 Kategorien zugleich, also kommt eine einzelne Anfrage nach einem Stundenplan mit Differenzierung und einem Quiz zurück, nach dem die Lehrperson gar nicht gefragt hatte.
 

@@ -1,8 +1,8 @@
 ---
 title: "Wie schreibe ich eine Kurs-KI-Richtlinie und kommuniziere sie an Studierende?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-07T20:28:28-05:00"
-connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, institutional-ai-policy, asynchronous-online-courses-ai]
+updated: "2026-11-15T15:44:25-05:00"
+connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, institutional-ai-policy, asynchronous-online-courses-ai, adopting-ai-options-and-issues]
 weight: 70
 type: faq
 foundations: [academic-integrity, framing-ai-use-for-students, reducing-ai-misuse]
@@ -14,7 +14,7 @@ level: [higher ed, secondary]
 methods: [qualitative-research]
 institutions: [educational-policy-ai]
 translation_of: faqs/course-ai-policy
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:

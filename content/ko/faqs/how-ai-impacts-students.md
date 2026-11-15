@@ -1,7 +1,7 @@
 ---
 title: "AI가 학생들에게 어떤 영향을 미치고 있습니까?"
 created: "2026-08-27T07:59:08-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-15T15:46:45-05:00"
 connected_faqs: [does-ai-help-students-learn, study-with-ai, ai-anxiety-wellbeing, ai-guidance-children-under-13]
 weight: 82
 foundations: [ai-literacy, cognitive-offloading, learner-identity]
@@ -9,7 +9,7 @@ pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
 translation_of: faqs/how-ai-impacts-students
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -115,4 +115,4 @@ Zhang, Shi and Lu는 학부생 1,484명을 설문하여 AI 불안이 학업 동�
 
 ## 다음에 볼 곳
 
-[[does-ai-help-students-learn|AI를 쓰는 것이 실제로 학생의 학습에 도움이 됩니까?]]는 이 페이지 뒤의 증거 질문이고, [[study-with-ai]]는 작업 루틴을 다룹니다. [[ai-anxiety-wellbeing]]은 불안 쪽을 더 깊이 다루고, [[guardrails]]는 비계가 어떻게 대체물이 되는지 설명합니다. 과목 설계 관점은 [[incorporating-ai-literacy|AI 리터러시를 과목에 어떻게 통합해야 합니까?]]와 [[ai-literacy-evidence|고등교육에서 AI 리터러시 개입에 관한 증거는 무엇입니까?]]에 있습니다.
+[[does-ai-help-students-learn|AI를 쓰는 것이 실제로 학생의 학습에 도움이 됩니까?]]는 이 페이지 뒤의 증거 질문이고, [[study-with-ai]]는 작업 루틴을 다룹니다. [[ai-anxiety-wellbeing]]은 불안 쪽을 더 깊이 다루고, [[guardrails|가드레일]]는 비계가 어떻게 대체물이 되는지 설명합니다. 과목 설계 관점은 [[incorporating-ai-literacy|AI 리터러시를 과목에 어떻게 통합해야 합니까?]]와 [[ai-literacy-evidence|고등교육에서 AI 리터러시 개입에 관한 증거는 무엇입니까?]]에 있습니다.

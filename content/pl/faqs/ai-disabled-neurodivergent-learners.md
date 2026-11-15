@@ -9,9 +9,9 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:42:16-05:00"
 translation_of: faqs/ai-disabled-neurodivergent-learners
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -61,7 +61,7 @@ Trzy mniejsze wyniki pokazują, co jedno narzędzie może zrobić, gdy bariera j
 
 W przypadku uwagi [[adhd-video-segmentation-computing-education|Pimenova, Begel i współpracownicy (2026)]] pocięli [[video-education|filmy dydaktyczne]] po fakcie na fragmenty z pojedynczą instrukcją i stałymi pauzami. W grupie 17 uczących się z ADHD i 10 bez ADHD poprawiło to wszystkich i doprowadziło błędy i wahania uczestników z ADHD do poziomu porównywalnego. Efekt wyrównujący pochodził z lekkiej transformacji materiału.
 
-W przypadku dostępu językowego [[llm-question-generation-deaf-hard-of-hearing-2026|Chen i wsp. (2026)]] dodali pytania wizualne (znaczniki czasu, w których informacja wizualna prawdopodobnie zostanie błędnie odczytana) i pytania o emocje (znaczniki czasu, w których wcześniejsi głusi i słabosłyszący uczący się zgłaszali frustrację) do zestawu bazowego [[llm]], tworząc 30 pytań, po dziesięć na strategię. W grupie 16 uczących się [[self-efficacy|samoocena skuteczności]] wynosiła średnio 5,70 (SD = 1,12) na skali siedmiopunktowej, a pytania wizualne częściej wybierali uczestnicy głusi niż słabosłyszący.
+W przypadku dostępu językowego [[llm-question-generation-deaf-hard-of-hearing-2026|Chen i wsp. (2026)]] dodali pytania wizualne (znaczniki czasu, w których informacja wizualna prawdopodobnie zostanie błędnie odczytana) i pytania o emocje (znaczniki czasu, w których wcześniejsi głusi i słabosłyszący uczący się zgłaszali frustrację) do zestawu bazowego [[llm|modelu językowego]], tworząc 30 pytań, po dziesięć na strategię. W grupie 16 uczących się [[self-efficacy|samoocena skuteczności]] wynosiła średnio 5,70 (SD = 1,12) na skali siedmiopunktowej, a pytania wizualne częściej wybierali uczestnicy głusi niż słabosłyszący.
 
 W przypadku czytania i pisania [[dyslexlens-dyslexic-learners-ai|Rezazadegan i wsp. (2026)]] przeanalizowali dyskusje na forach samych uczących się z dysleksją. Ci uczący się cenili SI za wsparcie w czytaniu i pisaniu i zgłaszali nierówną jakość wyników oraz brak [[equity-in-ai-education|sprawiedliwych dostosowań]]. Ta niekonsekwencja jest sama w sobie barierą: narzędzie, na którym nie można polegać, dodaje pracy, zamiast ją usuwać.
 

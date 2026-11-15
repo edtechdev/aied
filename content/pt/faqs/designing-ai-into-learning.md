@@ -1,13 +1,13 @@
 ---
 title: "Como a IA deve ser incorporada ao desenho da experiência de aprendizagem?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-01T11:35:17-05:00"
+updated: "2026-11-15T15:37:46-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 
-O plano do módulo tem uma linha que diz "atividade de IA" e ninguém consegue dizer o que ela substitui. Ou um instrutor pediu para adicionar um chatbot a um curso que já funciona, e seu trabalho é posicioná-lo sem quebrar a parte que fazia o curso funcionar.
+O plano do módulo tem uma linha que diz "atividade de IA" e ninguém consegue dizer o que ela substitui. Ou um instrutor pediu para adicionar um [[conversational-ai|chatbot]] a um curso que já funciona, e seu trabalho é posicioná-lo sem quebrar a parte que fazia o curso funcionar.
 
 Comece pelo objetivo de aprendizagem e pela atividade que o produz. O mesmo modelo pode ser um andaime, um parceiro [[socratic-method|socrático]], um leitor de rascunhos, uma [[simulation|simulação]] ou uma máquina de respostas, e qual deles você obtém depende do desenho, não do modelo. Nomeie o modo que você está construindo, coloque a tentativa do estudante antes de qualquer ajuda aparecer e mantenha ao menos um caminho pelo curso que funcione sem a ferramenta.
 
@@ -45,7 +45,7 @@ Comece pelo objetivo de aprendizagem e pela atividade que o produz. O mesmo mode
 
 ## Decida o que o estudante faz sem a ferramenta
 
-O conceito [[pedagogy|Pedagogias e Estratégias de Ensino]] da base de conhecimento fornece o teste: a configuração preserva a atividade que produz a aprendizagem pretendida? Responda isso no papel, antes de alguém escolher um recurso.
+O conceito [[pedagogy|Pedagogias e Estratégias de Ensino]] fornece o teste: a configuração preserva a atividade que produz a aprendizagem pretendida? Responda isso no papel, antes de alguém escolher um recurso.
 
 [[finkelstein-principled-ai-education-2025|The Principled AI Education Framework]] enuncia a regra geral: a tecnologia deve ampliar, e não deslocar, as capacidades humanas que a educação pretende desenvolver. Escrita como teste para um módulo, isso significa nomear a capacidade, nomear a atividade que a constrói e perguntar se a IA está dentro dessa atividade ou ao lado dela.
 
@@ -75,13 +75,13 @@ Duas lições se seguem para o desenho de IA. Coloque a ferramenta onde a sequê
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] trata o tempo como andaime desenhado, e não como traço do estudante: um curso no ritmo próprio traz uma cota semanal de cerca de 100 minutos com meta próxima de 20 minutos por dia, lembretes sensíveis ao tempo, um painel de progresso e uma verificação curta de 3 a 12 questões ao final de cada subcapítulo. A linha de base a que esse desenho responde é dura: quase 25 por cento de mais de 600 aprendizes começaram apenas na última semana, e 95 por cento desse grupo reprovou.
 
-Leia isso como uma provocação de desenho, não como um efeito comprovado. O artigo compara um curso posterior com um anterior em vez de realizar um ensaio controlado, então a melhoria não pode ser separada da mudança de turma e de disciplina, e lembretes fortes o bastante para deslocar o momento de estudo são também uma questão de [[privacy]] que você precisa responder no plano de ensino.
+Leia isso como uma provocação de desenho, não como um efeito comprovado. O artigo compara um curso posterior com um anterior em vez de realizar um [[rct|ensaio controlado]], então a melhoria não pode ser separada da mudança de turma e de disciplina, e lembretes fortes o bastante para deslocar o momento de estudo são também uma questão de [[privacy|privacidade]] que você precisa responder no plano de ensino.
 
 ## Decida o que reter e quando restaurar
 
 [[refrain-amplify-genai-curriculum-2026|o arcabouço "reter, depois ampliar" de Torres-Sahli e colegas]] leva isso ao nível do programa. Retenha uma ferramenta generativa enquanto uma capacidade está se formando, e então a restaure quando o estudante conseguir dirigi-la, julgar o que ela devolve e responder por ela, com um ponto de verificação difícil de falsear em cada dobradiça.
 
-Os dispositivos são governados por um critério de formação versus [[cognitive-offloading|descarregamento]]: permitidos onde apoiam trabalho envolvido, excluídos onde drenam a atenção. Isso transforma as decisões de descarregamento numa questão de [[curriculum-design|currículo]] e [[governance]] que vem antes do desenho no nível do curso, não depois.
+Os dispositivos são governados por um critério de formação versus [[cognitive-offloading|descarregamento]]: permitidos onde apoiam trabalho envolvido, excluídos onde drenam a atenção. Isso transforma as decisões de descarregamento numa questão de [[curriculum-design|currículo]] e [[governance|governança]] que vem antes do desenho no nível do curso, não depois.
 
 ## Verifique se o alinhamento é real
 
@@ -103,7 +103,7 @@ A eficiência é o objetivo do redesenho. Redigir resultados e rubricas com um m
 
 **"Não temos tempo para reordenar um curso inteiro."** Então reordene um módulo e uma avaliação. A dobradiça de reter e depois ampliar é um ponto de verificação, e a sequência de pensar primeiro são três instruções numa folha.
 
-**"Nosso recurso de IA já inclui salvaguardas."** Salvaguardas restringem o que o modelo diz. Elas não decidem se o estudante tentou primeiro, se o apoio se retira ou se existe um caminho sem IA. Essas são decisões de desenho no seu curso, não configurações do produto.
+**"Nosso recurso de IA já inclui [[guardrails|salvaguardas]]."** Salvaguardas restringem o que o modelo diz. Elas não decidem se o estudante tentou primeiro, se o apoio se retira ou se existe um caminho sem IA. Essas são decisões de desenho no seu curso, não configurações do produto.
 
 ## O que fazer nesta semana
 
@@ -119,4 +119,4 @@ A eficiência é o objetivo do redesenho. Redigir resultados e rubricas com um m
 
 ## Para onde ir em seguida
 
-[[learning-design|Desenho Instrucional]], [[active-learning|Aprendizagem Ativa]] e [[scaffolding]] trazem o vocabulário de desenho. Para os padrões no nível da interação que decidem se uma atividade desenhada preserva a aprendizagem, veja [[reduce-ai-cheating]] e [[redesign-assessment-ai-era]]. [[designing-educational-ai-software]] cobre como os mesmos princípios restringem o próprio software, e [[developing-ai-tutor]] os traduz na arquitetura de um tutor.
+[[learning-design|Desenho Instrucional]], [[active-learning|Aprendizagem Ativa]] e [[scaffolding|andaimento]] trazem o vocabulário de desenho. Para os padrões no nível da interação que decidem se uma atividade desenhada preserva a aprendizagem, veja [[reduce-ai-cheating]] e [[redesign-assessment-ai-era]]. [[designing-educational-ai-software]] cobre como os mesmos princípios restringem o próprio software, e [[developing-ai-tutor]] os traduz na arquitetura de um tutor.

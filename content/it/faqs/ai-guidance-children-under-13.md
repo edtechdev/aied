@@ -12,8 +12,9 @@ research_method: [literature review, experiment]
 audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
-translation_of: "faqs/ai-guidance-children-under-13"
-source_updated: "2026-11-04T16:51:25-05:00"
+updated: "2026-11-15T15:42:15-05:00"
+translation_of: faqs/ai-guidance-children-under-13
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -55,7 +56,7 @@ La loro valutazione è un'unica indagine post-esposizione su 831 partecipanti, e
 
 Le due edizioni mostrano anche a cosa serve il confine. La fascia elementare riceve attività basate su piattaforme, mediate da scaffolding e non generative, così un bambino impara cosa fa il sistema senza un sistema che gli risponde. La fascia avanzata collega il ragionamento etico a un uso generativo supervisionato. Il personale che si aspetta che il coinvolgimento segua la sofisticatezza dello strumento di solito trova l'opposto.
 
-Quello che la suddivisione in livelli ti compra è un ordine delle operazioni difendibile. Molte scuole lo eseguono al contrario, comprando il chatbot in autunno e insegnando a usarlo in primavera, e le evidenze su quell'ordine sono più avanti in questa pagina.
+Quello che la suddivisione in livelli ti compra è un ordine delle operazioni difendibile. Molte scuole lo eseguono al contrario, comprando il chatbot in autunno e insegnando a usarlo in primavera, quando l'ordine difendibile è quello inverso.
 
 ## Parti dai più piccoli: gioco, fare e macchine
 
@@ -69,7 +70,7 @@ Anche insegnare come funzionano le macchine appartiene a questa fascia. [[tsingi
 
 ## Passa i 9-12enni a un lavoro verificato e in gran parte non generativo
 
-Questa è la fascia in cui le evidenze curricolari sono più solide. [[demir-akar-ai-media-literacy-children-2026|Demir e Akar (2026)]] hanno condotto un programma di alfabetizzazione critica ai media di 18 ore basato sul modello 5E con 36 alunni turchi di quarta elementare, su privacy dei dati, comunicazione sicura e [[ethics|etica]] dei media, con un *d* di Cohen tra i gruppi di 1,12 per la lettura, 1,18 per la scrittura e 1,31 per l'alfabetizzazione complessiva. Un programma che sta dentro un singolo semestre e riporta effetti di quella dimensione è il risultato più incoraggiante di questa pagina.
+Questa è la fascia in cui le evidenze curricolari sono più solide. [[demir-akar-ai-media-literacy-children-2026|Demir e Akar (2026)]] hanno condotto un programma di alfabetizzazione critica ai media di 18 ore basato sul modello 5E con 36 alunni turchi di quarta elementare, su privacy dei dati, comunicazione sicura e [[ethics|etica]] dei media, con un *d* di Cohen tra i gruppi di 1,12 per la lettura, 1,18 per la scrittura e 1,31 per l'alfabetizzazione complessiva. Un programma che sta dentro un singolo semestre e riporta effetti di quella dimensione è il risultato più incoraggiante di questa letteratura.
 
 Dai 9 ai 12 anni l'esposizione è mediata da scaffolding su piattaforme che la scuola ha verificato, con le parti generative riservate a più tardi e supervisionate. Una volta che i bambini sanno leggere, argomentare e controllare un'affermazione, insegnare loro cosa sta facendo un sistema diventa il lavoro, e lo strumento può entrare come oggetto di studio invece che come aiutante.
 
@@ -175,4 +176,4 @@ Non esiste alcuno studio sui divieti basati sull'età in questa knowledge base. 
 
 ## Dove andare ora
 
-[[how-ai-impacts-students]] copre cosa fanno gli strumenti all'apprendimento, e [[incorporating-ai-literacy]] con [[ai-literacy]] copre cosa insegnare. [[parents-and-families]] e [[early-childhood-elementary-ai-education]] contengono la base di ricerca di questa pagina, e [[equity-ethics-pedagogical-safety-research]] è dove prosegue l'argomento su privacy e sicurezza. Se la tua domanda riguarda il lato della valutazione per studenti più grandi, [[should-we-use-ai-detectors]] e [[reduce-ai-cheating]] la portano più avanti.
+[[how-ai-impacts-students]] copre cosa fanno gli strumenti all'apprendimento, e [[incorporating-ai-literacy]] con l'[[ai-literacy|alfabetizzazione all'IA]] copre cosa insegnare. [[parents-and-families|Genitori e famiglie]] e [[early-childhood-elementary-ai-education|educazione della prima infanzia]] contengono la base di ricerca, e [[equity-ethics-pedagogical-safety-research]] è dove prosegue l'argomento su privacy e sicurezza. Se la tua domanda riguarda il lato della valutazione per studenti più grandi, [[should-we-use-ai-detectors]] e [[reduce-ai-cheating]] la portano più avanti.

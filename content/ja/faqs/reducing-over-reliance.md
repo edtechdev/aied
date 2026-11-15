@@ -1,7 +1,7 @@
 ---
 title: "学生がAIに過度に依存するのを防ぐにはどうすればよいですか？"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-07T20:33:50-05:00"
+updated: "2026-11-15T15:43:36-05:00"
 connected_faqs: [study-with-ai, verify-ai-output, asynchronous-online-courses-ai, ai-disabled-neurodivergent-learners]
 weight: 80
 type: faq
@@ -12,7 +12,7 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/reducing-over-reliance
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]

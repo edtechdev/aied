@@ -11,9 +11,9 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
-updated: "2026-10-29T15:22:02-04:00"
+updated: "2026-11-15T15:48:37-05:00"
 translation_of: faqs/reducing-over-reliance
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ Najważniejsze: nadmierne poleganie to w większości problem umiejscowienia. Ro
 
 **5.** Dopasować moment pytania refleksyjnego do tej fazy zadania, którą może jeszcze zmienić.
 
-**6.** Sprawdzić, kogo projekt zostawia z tyłu, patrząc na wiedzę uprzednią, a nie na średnią.
+**6.** Sprawdzić, kogo projekt zostawia z tyłu, patrząc na [[prior-knowledge|wiedzę uprzednią]], a nie na średnią.
 
 ## Rozstrzygnąć, czy problem istnieje, czy to tylko intensywne korzystanie
 
@@ -59,7 +59,7 @@ Narzędzia behawioralne są skromniejsze. [[pause-ai-cognitive-offloading-self-r
 
 ## Postawić próbę studenta przed narzędziem
 
-Najwyraźniejsza przetestowana sekwencja to „najpierw myśl, potem ChatGPT”. [[think-first-chatgpt-later-2026|Wong i Qiu (2026)]] przydzielili N = 196 studentów do pracy samodzielnej, do swobodnego korzystania z ChatGPT albo do warunku regulowanego: wygeneruj własne pomysły, współpracuj z ChatGPT nad ich poprawą i oceną, a następnie samodzielnie dopracuj i oddaj jedno rozwiązanie. Grupa swobodnego korzystania stworzyła więcej twórczych prac w zadaniu wspieranym, a przy późniejszym, trudniejszym zadaniu bez ChatGPT wróciła do poziomu grup pracujących wyłącznie ludzkimi siłami. Grupa regulowana nie wykazała natychmiastowej przewagi, a potem przewyższyła obie pozostałe grupy w samodzielnej twórczości.
+Najwyraźniejsza przetestowana sekwencja to „najpierw myśl, potem [[generative-ai|ChatGPT]]”. [[think-first-chatgpt-later-2026|Wong i Qiu (2026)]] przydzielili N = 196 studentów do pracy samodzielnej, do swobodnego korzystania z ChatGPT albo do warunku regulowanego: wygeneruj własne pomysły, współpracuj z ChatGPT nad ich poprawą i oceną, a następnie samodzielnie dopracuj i oddaj jedno rozwiązanie. Grupa swobodnego korzystania stworzyła więcej twórczych prac w zadaniu wspieranym, a przy późniejszym, trudniejszym zadaniu bez ChatGPT wróciła do poziomu grup pracujących wyłącznie ludzkimi siłami. Grupa regulowana nie wykazała natychmiastowej przewagi, a potem przewyższyła obie pozostałe grupy w samodzielnej [[creativity|twórczości]].
 
 Dane z podpowiedzi wyjaśniają tę różnicę. W grupie regulowanej 88,6% podpowiedzi miało charakter współpracy i tylko ten typ podpowiedzi istotnie korelował z późniejszą samodzielną oryginalnością. W grupie swobodnej 70,9% podpowiedzi nie miało charakteru współpracy, a 59,6% wprost prosiło ChatGPT o wygenerowanie pomysłów. To samo narzędzie, zapytane na dwa różne sposoby, wytworzyło dwa różne typy uczących się.
 
@@ -75,7 +75,7 @@ O tym, czy sekwencja się utrzyma, decydują dwa szczegóły organizacyjne. Pier
 
 W praktyce oznacza to zabezpieczoną SI w środku zadania, gdzie pracę wykonują podpowiedzi, rozwiązane przykłady i ćwiczenia, oraz zabezpieczoną kontrolę na końcu. Zamienia to także politykę korzystania z SI w regułę umiejscowienia dla każdej umiejętności, którą łatwiej napisać i łatwiej obronić niż listę zakazów.
 
-Podpowiedź to pytanie o następny krok studenta, rozwiązany przykład podobnego zadania albo wskazanie właściwego fragmentu. Odpowiedź to gotowe zdanie, które student może wkleić. Większość chatbotów ogólnego przeznaczenia domyślnie produkuje to drugie, w płynnej prozie, która wygląda jak pomoc, i dlatego konfiguracja liczy się bardziej niż intencje studenta.
+Podpowiedź to pytanie o następny krok studenta, rozwiązany przykład podobnego zadania albo wskazanie właściwego fragmentu. Odpowiedź to gotowe zdanie, które student może wkleić. Większość [[conversational-ai|chatbotów ogólnego przeznaczenia]] domyślnie produkuje to drugie, w płynnej prozie, która wygląda jak pomoc, i dlatego konfiguracja liczy się bardziej niż intencje studenta.
 
 ## Wymagać sprawdzenia i uczynić je widocznym
 
@@ -97,7 +97,7 @@ Wybrać błąd niewielki i sprawdzalny, na przykład nieistniejące cytowanie, b
 
 Praca wspierana jest słabym wskaźnikiem rzeczywistej umiejętności, więc przynajmniej jeden oceniany moment musi odbyć się bez narzędzia. Późniejsze zadanie bez pomocy w badaniu [[think-first-chatgpt-later-2026|Wong i Qiu (2026)]] jest tym pomiarem. Ich grupa pracująca wyłącznie ludzkimi siłami także wypadła gorzej w trudniejszym zadaniu uzupełniającym, co wyklucza prostą wersję rozwiązania: odebranie narzędzia bez wsparcia osoby uczącej się nie jest interwencją.
 
-Przełączanie trybów ma oparcie w danych. PAUSE przytacza wynik czwartej sesji Kosmyny i in. (2025), w której uczestnicy pracujący wyłącznie własnym umysłem, a później korzystający z ChatGPT, wypadli lepiej niż osoby stale korzystające z LLM. Odpowiedzialność działa też przez wyjaśnianie: Makransky i in. (2025) stwierdzili, że chatbot tutorski, który skłaniał studentów do łączenia idei i objaśniania rozumowania, dawał lepsze wyniki w ocenianiu niż tradycyjne nauczanie.
+Przełączanie trybów ma oparcie w danych. PAUSE przytacza wynik czwartej sesji Kosmyny i in. (2025), w której uczestnicy pracujący wyłącznie własnym umysłem, a później korzystający z ChatGPT, wypadli lepiej niż osoby stale korzystające z [[llm|LLM]]. Odpowiedzialność działa też przez wyjaśnianie: Makransky i in. (2025) stwierdzili, że chatbot tutorski, który skłaniał studentów do łączenia idei i objaśniania rozumowania, dawał lepsze wyniki w ocenianiu niż tradycyjne nauczanie.
 
 W kursie warto przeplatać: praca wspierana w ćwiczeniach, praca bez wsparcia tam, gdzie się liczy. Pracę wspieraną czytać jako zapis wykonania w dobrych warunkach, a pracę bez wsparcia jako dowód uczenia się. Porównanie obu jest też najbardziej użyteczną rozmową ze studentem, który nie rozumie wystawionej oceny.
 
@@ -127,7 +127,7 @@ Brzmienie pytania liczy się mniej niż jego miejsce. Przed blokiem warto zapyta
 
 ## Spodziewać się, że ryzyko się skupia
 
-[[lodge-loble-cognitive-offloading-2026|Lodge i Loble (2026)]] lokują ryzyko w wiedzy uprzedniej i samoregulacji, nazywając to **metapoznawczą luką równościową**: dobre korzystanie z SI wymaga zasobów, których początkujący nie mają, więc studenci najbardziej potrzebujący ćwiczenia najczęściej delegują samo uczenie się. Podają, że 80% australijskich uczniów już korzysta z SI i że robi to dwie trzecie nauczycieli wczesnych klas szkoły średniej (OECD 2025).
+[[lodge-loble-cognitive-offloading-2026|Lodge i Loble (2026)]] lokują ryzyko w wiedzy uprzedniej i samoregulacji, nazywając to **metapoznawczą [[equity-in-ai-education|luką równościową]]**: dobre korzystanie z SI wymaga zasobów, których początkujący nie mają, więc studenci najbardziej potrzebujący ćwiczenia najczęściej delegują samo uczenie się. Podają, że 80% australijskich uczniów już korzysta z SI i że robi to dwie trzecie nauczycieli wczesnych klas szkoły średniej (OECD 2025).
 
 Wiek i nawyki współwystępują z tym samym wzorcem. [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] stwierdził, że uczestnicy w wieku 17-25 lat wykazywali większe uzależnienie od SI i większe odciążanie oraz słabsze myślenie krytyczne niż osoby w wieku 46 lat i starsze, a także że poziom osiągnięć przewidywał lepsze myślenie krytyczne niezależnie od korzystania z SI (r = +0,34), przy istotnej interakcji wskazującej, że osiągnięcia łagodzą efekt negatywny. [[genai-over-reliance-learning-2026|Gao, Sun i Khan (2026)]] stwierdzili, że polichroniczność, skłonność do wykonywania wielu zadań naraz, moderuje tę ścieżkę, a studenci o wysokiej polichroniczności są w większym ryzyku.
 
@@ -139,27 +139,27 @@ Kontekst liczy się tyle samo co osoba, a kurs kontroluje część kontekstu. [[
 
 Nic w tym korpusie nie sprawdza, czy konkretna interwencja przeciw nadmiernemu poleganiu utrzymuje się w różnych warunkach lub semestrach. Podejście „najpierw myśl” opiera się na jednym eksperymencie z N = 196. Wynik dotyczący wstrzymywania odpowiedzi pochodzi z syntezy [[brcic-effortless-trap-productive-struggle-2026|Brcica i Frljica (2026)]], a nie z własnej próby. Argument o tarciu to komentarz koncepcyjny bez nowych danych. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] podaje granice modelu: egzogeniczna i stacjonarna jakość SI, stała sieć, stylizowana weryfikacja. Oszacowanie rzeczywistych wartości wymagałoby podłużnych zapisów tempa weryfikacji w poszczególnych zadaniach, siły dowodu społecznego oraz tego, jak zaufanie aktualizuje się po korzystaniu zweryfikowanym w porównaniu z niezweryfikowanym.
 
-Pomiar pozostaje najsłabszym ogniwem. Dominują projekty ankietowe, a zarówno [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]], jak i [[genai-over-reliance-learning-2026|Gao, Sun i Khan (2026)]] apelują o badania podłużne i eksperymentalne. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] nie ma psychometrii i powstał dla dorosłych. To, czy lukę równościową da się zamknąć przez nauczanie, jest teoretyzowane, a nie wykazane.
+Pomiar pozostaje najsłabszym ogniwem. Dominują projekty ankietowe, a zarówno [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]], jak i [[genai-over-reliance-learning-2026|Gao, Sun i Khan (2026)]] apelują o badania podłużne i eksperymentalne. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] nie ma [[educational-measurement|psychometrii]] i powstał dla dorosłych. To, czy lukę równościową da się zamknąć przez nauczanie, jest teoretyzowane, a nie wykazane.
 
 Zostaje rozsądny zakład, zawarty tanio. Zmienić jedno zadanie, zachować pomiar bez wsparcia i sprawdzić, czy luka między pracą wspieraną a samodzielną się zmniejsza. Nie przebudowywać całego kursu na podstawie tych liczb.
 
 ## Co nauczyciele akademiccy rozumieją tu błędnie
 
-**Najbardziej zagrożeni są ci, którzy korzystają najwięcej.** Częstotliwość jest tym, co wychwytują ankiety i co pokazują panele, a nie jest konstruktem. Student, który sprawdza każdą odpowiedź i cytuje materiały kursu, może korzystać z SI codziennie i radzić sobie dobrze. Problem ma ten, kto raz w tygodniu oddaje pierwszy wynik modelu.
+**Najbardziej zagrożeni są ci, którzy korzystają najwięcej.** Częstotliwość jest tym, co wychwytują ankiety i co pokazują [[visualization|panele]], a nie jest konstruktem. Student, który sprawdza każdą odpowiedź i cytuje materiały kursu, może korzystać z SI codziennie i radzić sobie dobrze. Problem ma ten, kto raz w tygodniu oddaje pierwszy wynik modelu.
 
 **Zakaz usuwa ryzyko.** Najmocniejsze wyniki dotyczą umiejscowienia, a grupa pracująca wyłącznie ludzkimi siłami w eksperymencie Wong i Qiu także wypadła gorzej w trudniejszym zadaniu uzupełniającym. Odebranie narzędzia bez wsparcia osoby uczącej się pozostawia trudność tam, gdzie była.
 
-**Tańsze sprawdzanie naprawi weryfikację.** Ułatwienie sprawdzenia było najsłabszą dźwignią w modelu Biswasa, ponieważ przeszkoda jest społeczna. Lepszy system wykrywania plagiatów nie sprawi, że student przeczyta źródło.
+**Tańsze sprawdzanie naprawi weryfikację.** Ułatwienie sprawdzenia było najsłabszą dźwignią w modelu Biswasa, ponieważ przeszkoda jest społeczna. Lepszy [[academic-integrity|system wykrywania plagiatów]] nie sprawi, że student przeczyta źródło.
 
 **Panel korzystania pokaże, kto odciąża.** Pozycje PAUSE odnotowują, kiedy i jak często SI wchodzi w tok pracy, a autorzy sami wskazują problem trafności. Osoba starannie budująca rusztowanie wypada jako odciążająca, więc działanie na podstawie tych liczb karze studentów, których warto zachować.
 
 **Płynność i zadowolenie pokazują, że projekt działa.** To iluzja, którą [[lodge-loble-cognitive-offloading-2026|Lodge i Loble (2026)]] opisują w swoim paradoksie wykonania: praca wydaje się płynna, a studenci wypadają dobrze w danej chwili, zachowując mniej. Odpowiedź na to pytanie dają wyniki bez wsparcia i odroczony [[transfer-of-learning|transfer]].
 
-**Wystarczy nauczyć studentów kompetencji w zakresie SI i problem znika.** [[lodge-loble-cognitive-offloading-2026|Lodge i Loble (2026)]] ostrzegają, że nadmierne inwestowanie w kompetencje w zakresie SI kierowane do studentów może być złą alokacją, biorąc pod uwagę braki początkujących.
+**Wystarczy nauczyć studentów [[ai-literacy|kompetencji w zakresie SI]] i problem znika.** [[lodge-loble-cognitive-offloading-2026|Lodge i Loble (2026)]] ostrzegają, że nadmierne inwestowanie w kompetencje w zakresie SI kierowane do studentów może być złą alokacją, biorąc pod uwagę braki początkujących.
 
 ## Co się na Tobie odbije
 
-**„To tylko dobra pedagogika pod nową nazwą”.** Częściowo. Rusztowanie, informacja zwrotna kształtująca i produktywne zmaganie to stare idee. Nowsze jest uporządkowanie: widoczna weryfikacja wygrała z tańszą weryfikacją, a dwa momenty warte ochrony to pierwsza trudna próba i końcowe sprawdzenie bez pomocy. Znane czynności wykonać w nowej kolejności.
+**„To tylko dobra [[pedagogy|pedagogika]] pod nową nazwą”.** Częściowo. [[scaffolding|Rusztowanie]], informacja zwrotna kształtująca i produktywne zmaganie to stare idee. Nowsze jest uporządkowanie: widoczna weryfikacja wygrała z tańszą weryfikacją, a dwa momenty warte ochrony to pierwsza trudna próba i końcowe sprawdzenie bez pomocy. Znane czynności wykonać w nowej kolejności.
 
 **„Nie da się tego upilnować”.** Nie da się, a dowody mówią, by nie próbować. Najmocniejszy wynik dało umiejscowienie. Zaprojektować zadanie tak, aby użycie narzędzia w złym momencie ujawniało się w samej pracy: jako odpowiedź, której student nie potrafi objaśnić, albo brakujący krok weryfikacji.
 

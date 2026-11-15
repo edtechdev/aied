@@ -1,7 +1,7 @@
 ---
 title: "Wie halte ich Studierende davon ab, übermäßig von KI abhängig zu werden?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-15T15:46:39-05:00"
 connected_faqs: [study-with-ai, verify-ai-output, asynchronous-online-courses-ai, ai-disabled-neurodivergent-learners]
 weight: 80
 type: faq
@@ -13,7 +13,7 @@ research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
 translation_of: faqs/reducing-over-reliance
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -141,7 +141,7 @@ Kontext zählt so viel wie Person, und Ihr Kurs steuert einen Teil des Kontexts.
 
 ## Entscheiden Sie, wie viel Gewicht die Belege tragen
 
-Nichts in diesem Korpus prüft, ob eine bestimmte Intervention gegen Überabhängigkeit über Settings oder Semester hinweg hält. Das Zuerst-Denken ruht auf einem Experiment mit N = 196. Das Zurückhaltungsergebnis stammt aus der Synthese von [[brcic-effortless-trap-productive-struggle-2026|Brcic und Frljic (2026)]] und nicht aus einer eigenen Studie. Das Reibungsargument ist ein konzeptioneller Kommentar ohne neue Daten. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] benennt die Grenzen des Modells: exogene stationäre KI-Qualität, ein festes Netzwerk, stilisierte Verifikation. Die realen Werte zu schätzen, bräuchte longitudinale Spuren der Verifikationsraten pro Aufgabe, der Stärke des sozialen Beweises und der Art, wie Vertrauen sich nach verifizierter gegenüber unverifizierter Nutzung aktualisiert.
+Nichts in dieser Literatur prüft, ob eine bestimmte Intervention gegen Überabhängigkeit über Settings oder Semester hinweg hält. Das Zuerst-Denken ruht auf einem Experiment mit N = 196. Das Zurückhaltungsergebnis stammt aus der Synthese von [[brcic-effortless-trap-productive-struggle-2026|Brcic und Frljic (2026)]] und nicht aus einer eigenen Studie. Das Reibungsargument ist ein konzeptioneller Kommentar ohne neue Daten. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] benennt die Grenzen des Modells: exogene stationäre KI-Qualität, ein festes Netzwerk, stilisierte Verifikation. Die realen Werte zu schätzen, bräuchte longitudinale Spuren der Verifikationsraten pro Aufgabe, der Stärke des sozialen Beweises und der Art, wie Vertrauen sich nach verifizierter gegenüber unverifizierter Nutzung aktualisiert.
 
 Die Messung bleibt das schwächste Glied. Befragungsdesigns dominieren, und sowohl [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] als auch [[genai-over-reliance-learning-2026|Gao, Sun und Khan (2026)]] fordern longitudinale und experimentelle Nachfolgearbeiten. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] hat keine [[educational-measurement|Psychometrie]] und wurde für Erwachsene gebaut. Ob die Gerechtigkeitslücke durch Unterweisung geschlossen werden kann, ist theoretisiert statt gezeigt.
 
@@ -191,4 +191,4 @@ Damit bleibt Ihnen eine vernünftige Wette, günstig gemacht. Ändern Sie eine A
 
 ## Wie es weitergeht
 
-Die benachbarte Frage, ob KI überhaupt Lernen erzeugt, behandelt [[does-ai-help-students-learn]]. [[reduce-ai-cheating]] behandelt Integrität und die Grenzen der Detektion, und [[redesign-assessment-ai-era]] behandelt die Assessment-Architektur, die diese Seite voraussetzt. Zu den zugrundeliegenden Ideen siehe [[cognitive-offloading]], [[metacognition]] und [[desirable-difficulties]].
+Die benachbarte Frage, ob KI überhaupt Lernen erzeugt, behandelt [[does-ai-help-students-learn]]. [[reduce-ai-cheating]] behandelt Integrität und die Grenzen der Detektion, und [[redesign-assessment-ai-era]] behandelt die Assessment-Architektur, die diese Seite voraussetzt. Zu den zugrundeliegenden Ideen siehe [[cognitive-offloading|Kognitive Auslagerung]], [[metacognition|Metakognition]] und [[desirable-difficulties|Wünschenswerte Schwierigkeiten]].

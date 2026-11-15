@@ -1,7 +1,7 @@
 ---
 title: "Wie kann mir KI helfen, im Maßstab besseres Feedback zu geben?"
 created: "2026-09-16T15:58:20-04:00"
-updated: "2026-11-07T20:05:54-05:00"
+updated: "2026-11-15T15:38:46-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 weight: 70
 type: faq
@@ -12,7 +12,7 @@ research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,8 @@ Peer-Feedback verdient seinen eigenen Platz in der Abfolge. [[scaffolding-srl-fe
 
 Der Vorteil von Gu et al. war klein, und sie lesen ihn als real, aber nicht für sich genommen transformativ. Teacher-Scaffolding, Prompt-Leitlinien und Arbeitsblätter leisteten die unterstützende Arbeit.
 
+Die Quelle könnte weniger zählen als der Zeitpunkt. Bei 391 deutschen Sekundarschülerinnen und Sekundarschülern ergaben von Lehrkräften geschriebenes und LLM-Feedback keine signifikanten Unterschiede bei Überarbeitungen, beim späteren Schreiben, bei der Bearbeitungszeit oder bei den Wahrnehmungen; die Bayesianischen Posterior-Verteilungen neigten beim späteren Schreiben zu Lehrkraftfeedback, behielten aber ein Viertel bis zwei Fünftel der Masse innerhalb der Äquivalenzregion, und nur unmittelbares KI-Feedback erhielt bessere Bewertungen bei Nützlichkeit und Motivation ([[meyer-teacher-ai-feedback-writing-2026|Meyer et al., 2026]]). Wenn ein Kommentar aus der ersten Runde ankommen kann, während die lernende Person noch überarbeitet, ist dieser Zeitpunkt Teil des Designs, das die Arbeit leistet.
+
 ## Geben Sie dem Modell ein Rubric und lassen Sie es seine Schritte zeigen
 
 Rubric-bezogene Generierung ist der automatisierbare Teil.
@@ -96,7 +98,7 @@ Aldino et al. finden dasselbe Muster von Unterstützen und dann Verifizieren in 
 
 Zwölf der 21 Lehrkräfte von Aldino et al. nahmen weitere Überarbeitungen auf Satzebene vor, und das dominante Muster war das Kalibrieren des Tons: Lob heruntersetzen (f = 11), Vorschläge entfernen (f = 9), Ermutigung entfernen (f = 8). Die Überarbeitungen clusterten in der relationalen Dimension, besonders bei Student-Teacher Relationship (f = 24). Sie schützten Authentizität und professionelle Stimme, und diese Arbeit automatisiert sich nicht.
 
-Studierende sind die andere Seite dieser Verifikation, und ihre Schilderung der Arbeitsteilung kommt der nahe, die diese Seite empfiehlt. In Fokusgruppen mit 20 Studierenden im Bachelorstudium wurde Feedback von Lehrkräften dafür geschätzt, relational, personalisiert und fachlich fundiert zu sein, während KI-generiertes Feedback unpersönlich und potenziell unfair wirkte; dieselben Studierenden waren offen für ein hybrides Modell, in dem die Lehrkraft ihre Arbeit liest und die Kommentare des Modells ergänzt ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). Dieselbe Studie fand, dass ihre Urteile mit denen von ChatGPT bei Spezifität und Umsetzbarkeit übereinstimmten, bei Rechtzeitigkeit und Positivität jedoch auseinandergingen, sodass die Dimensionen, in denen dem eigenen Urteil eines Modells vertraut werden kann, schmaler sind als das gesamte Rubric.
+Studierende sind die andere Seite dieser Verifikation, und ihre Schilderung der Arbeitsteilung kommt der empfohlenen nahe. In Fokusgruppen mit 20 Studierenden im Bachelorstudium wurde Feedback von Lehrkräften dafür geschätzt, relational, personalisiert und fachlich fundiert zu sein, während KI-generiertes Feedback unpersönlich und potenziell unfair wirkte; dieselben Studierenden waren offen für ein hybrides Modell, in dem die Lehrkraft ihre Arbeit liest und die Kommentare des Modells ergänzt ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). Dieselbe Studie fand, dass ihre Urteile mit denen von ChatGPT bei Spezifität und Umsetzbarkeit übereinstimmten, bei Rechtzeitigkeit und Positivität jedoch auseinandergingen, sodass die Dimensionen, in denen dem eigenen Urteil eines Modells vertraut werden kann, schmaler sind als das gesamte Rubric.
 
 ## Bringen Sie Studierenden bei, den Kommentar zu lesen
 

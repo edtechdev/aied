@@ -1,7 +1,7 @@
 ---
 title: "Czy mogę używać AI do oceniania pracy studentów w sposób sprawiedliwy i rzetelny?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:51:00-05:00"
 type: faq
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
@@ -46,7 +46,7 @@ Krótka odpowiedź do przekazania współpracownikowi: ocenianie przez AI zasłu
 
 Trzy układy nazywa się „ocenianiem przez AI” i niosą one różne zobowiązania.
 
-**Asystent informacji zwrotnej** szkicuje komentarze lub wskazuje możliwe pominięcia, które przyjmujesz, przepisujesz albo odrzucasz. Ryzyko ogranicza się do jakości komentarzy, a ty czytasz wszystko, zanim trafi do studenta. **Drugi czytelnik** proponuje oceny według kryteriów lub zgłasza rozbieżności, by uporządkować twoje własne ocenianie. Jego błędy muszą być użyteczne, a nie tylko błędne: sygnał, który odsyła cię do pracy, którą oceniłbyś niedbale, jest wart posiadania. **Główny oceniający** tworzy oceny, które stają się zapisanymi stopniami. To układ, którego dowody w tej bazie wiedzy nie wspierają poza wąskimi, lokalnie zweryfikowanymi przypadkami.
+**Asystent informacji zwrotnej** szkicuje komentarze lub wskazuje możliwe pominięcia, które przyjmujesz, przepisujesz albo odrzucasz. Ryzyko ogranicza się do jakości komentarzy, a ty czytasz wszystko, zanim trafi do studenta. **Drugi czytelnik** proponuje oceny według kryteriów lub zgłasza rozbieżności, by uporządkować twoje własne ocenianie. Jego błędy muszą być użyteczne, a nie tylko błędne: sygnał, który odsyła cię do pracy, którą oceniłbyś niedbale, jest wart posiadania. **Główny oceniający** tworzy oceny, które stają się zapisanymi stopniami. To układ, którego dowody nie wspierają poza wąskimi, lokalnie zweryfikowanymi przypadkami.
 
 Wybierz najniższy szczebel, który rozwiązuje twoje rzeczywiste ograniczenie. Jeśli twoje obciążenie ocenianiem wynika ze sprawdzania stałego klucza odpowiedzi, zwykłe ocenianie deterministyczne jest bardziej przejrzyste i audytowalne niż [[llm|model językowy]], a badanie farmaceutyczne sugeruje, że przewaga LLM na zadaniach obiektywnych była częściowo artefaktem podania poprawnych odpowiedzi podczas oceniania. Zachowaj model do pracy wymagającej interpretacji, a potem tę interpretację sprawdź.
 
@@ -110,6 +110,6 @@ Dwa kierunki awarii wymagają osobnej uwagi. Nadmierne odjęcia punktów są tym
 
 ## Dokąd dalej
 
-[[assessment-validity|Trafność oceniania]] to pojęcie, które rozstrzyga te pytania: czy dowody wspierają wnioskowanie, które chcesz przeprowadzić. [[automated-assessment]] obejmuje technologię i jej zmierzone działanie w różnych formatach, a [[ai-feedback-at-scale]] zajmuje się sąsiednim problemem generowanych komentarzy i tego, czy studenci na nie reagują.
+[[assessment-validity|Trafność oceniania]] to pojęcie, które rozstrzyga te pytania: czy dowody wspierają wnioskowanie, które chcesz przeprowadzić. [[automated-assessment|Automatyczne ocenianie]] obejmuje technologię i jej zmierzone działanie w różnych formatach, a [[ai-feedback-at-scale]] zajmuje się sąsiednim problemem generowanych komentarzy i tego, czy studenci na nie reagują.
 
 O tym, co ocena powinna reprezentować, gdy studenci korzystają z AI, w tym o zastępowaniu konstruktu i uwierzytelnionych dowodach procesu, zobacz [[redesign-assessment-ai-era|przeprojektowanie oceniania w erze AI]]. O tym, czy wykrywanie może zastąpić obronny projekt zadania, zobacz [[should-we-use-ai-detectors|czy używać detektorów AI]]. O pytaniu ewaluacyjnym leżącym pod tym wszystkim zobacz [[checking-whether-educational-ai-works|sprawdzanie, czy edukacyjna AI działa]].

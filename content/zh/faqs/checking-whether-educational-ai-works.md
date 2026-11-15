@@ -1,8 +1,8 @@
 ---
 title: "如何判断一个教育 AI 是否真的有效，而不只是分数好看？"
 created: "2026-10-02T08:07:09-04:00"
-updated: "2026-11-07T17:27:43-05:00"
-connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
+updated: "2026-11-15T15:43:33-05:00"
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
 foundations: [ai-education]
@@ -16,7 +16,7 @@ confidence: high
 methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -64,13 +64,13 @@ Linear Control Systems 课程助手把这件事报对了。它最好的配置相
 
 在 WrAFT 项目中，一个微调模型在 360 篇留出的 TOEFL 作文上与人工评分者达到 **0.84** 的一致度分数。对评分来说这是一个强结果。同一项目中训练来写反馈的模型，产出的内容被截断、无法解析，而只是换一个模型加[[prompt-engineering|提示词]]，产出的反馈反而更受教师欢迎（[[wraft-automated-writing-evaluation-argumentative-2026]]）。
 
-这个知识库里记录了同一失效的第二种形态：一次部署里评分模块得分很好，而反馈送到时在句子中间被截断、无法阅读。头条数字里没有任何东西说明了这一点。
+同一失效还以第二种形态出现：一次部署里评分模块得分很好，而反馈送到时在句子中间被截断、无法阅读。头条数字里没有任何东西说明了这一点。
 
 所以，列出你系统产出的每一项输出，然后给每一项自己的测量和自己的通过条件。评分、反馈文本、提示选择和安全拒答以不同的方式失效，而模块层面的分数看不穿自己的模块。
 
 ## 在模型不确定的地方放一个人
 
-相关性告诉你模型通常是对的。它没有告诉你，在它不对的那些场合该怎么办。置信度路由是知识库里最干净的模板，而且短到可以直接照抄。
+相关性告诉你模型通常是对的。它没有告诉你，在它不对的那些场合该怎么办。置信度路由的结果是证据中最干净的模板，而且短到可以直接照抄。
 
 置信度最后被证明是一个可靠的警示信号：模型不确定的时候更容易出错（**β = -0.602, p < .001**）。团队把最不自信的那 **20%** 回复转给人工。就这一条规则，把与人工评分的一致度从 **0.78 提高到 0.82**，并把人工评分工作量削减了大约 **80%**（[[know-when-to-trust-ai-scoring-reliability-2026]]）。
 
@@ -108,7 +108,7 @@ Linear Control Systems 课程助手把这件事报对了。它最好的配置相
 
 生成[[simulating-students|模拟学生]]而不是招募真实学生，让评估便宜得多。但模拟学生同时也是一件测量工具，它会以工具出错的方式出错：太合作、太流利、太快接受提示。
 
-知识库里最直接的检验，用七项覆盖语言、行为和思维的测量，把模拟学生和提示出来的学生对照 **382 段留出的对话**做了基准测试，这些对话来自最大的公开真实学生—导师数学对话集（[[simulated-students-tutoring-dialogues-2026]]）。其他工作从不同角度推进真实性：[[inside-llm-student-simulator-reasoning-2026|INSIDE]]训练模型既像学生一样行动、也像学生一样思考，而带历史感知的画像把模拟条件建在一个学生的过去之上，而不是一个固定人格（[[history-aware-student-simulation]]）。
+证据中最直接的检验，用七项覆盖语言、行为和思维的测量，把模拟学生和提示出来的学生对照 **382 段留出的对话**做了基准测试，这些对话来自最大的公开真实学生—导师数学对话集（[[simulated-students-tutoring-dialogues-2026]]）。其他工作从不同角度推进真实性：[[inside-llm-student-simulator-reasoning-2026|INSIDE]]训练模型既像学生一样行动、也像学生一样思考，而带历史感知的画像把模拟条件建在一个学生的过去之上，而不是一个固定人格（[[history-aware-student-simulation]]）。
 
 如果你的测试框架是一个模拟学生，在让它给你的导师打分之前，先拿真实对话记录来检验这个模拟器。
 

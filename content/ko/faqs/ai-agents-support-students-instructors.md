@@ -1,13 +1,13 @@
 ---
 title: "AI 에이전트는 학생과 교수자를 어떻게 지원할 수 있는가?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-15T15:45:28-05:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
 weight: 66
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -101,4 +101,4 @@ ai_assist:
 
 ## 다음으로 갈 곳
 
-[[developing-ai-tutor]]는 목표에서 도움 사다리까지 학생 대상 구축을 다루고, [[evaluating-ai-interventions-methods]]는 그 물건이 실제로 효과가 있었는지를 다룹니다. [[intelligent-tutoring]]과 [[ai-literacy]]는 이 페이지가 전제하는 설계 어휘를 제공합니다.
+[[developing-ai-tutor]]는 목표에서 도움 사다리까지 학생 대상 구축을 다루고, [[evaluating-ai-interventions-methods]]는 그 물건이 실제로 효과가 있었는지를 다룹니다. [[intelligent-tutoring]]과 [[ai-literacy|AI 리터러시]]는 이 페이지가 전제하는 설계 어휘를 제공합니다.

@@ -12,9 +12,9 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T14:57:54-04:00"
+updated: "2026-11-15T15:46:36-05:00"
 translation_of: faqs/developing-ai-tutor
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ Drie lijsten, geschreven voordat iemand een model kiest:
 
 De literatuur over [[intelligent-tutoring]] maakt het punt dat effectiviteit afhangt van [[pedagogy|pedagogisch]] ontwerp en niet van modelcapaciteit alleen, en de fout is gemakkelijk per ongeluk te bouwen. Een tutor die is geoptimaliseerd voor "maak de opgave af" ondermijnt een tutor die is geoptimaliseerd voor "leer de opgave oplossen", terwijl hij elke functionele test doorstaat die u schrijft, want beide leveren correcte eindantwoorden. Het verschil zit in wat de student deed tussen de vraag en het antwoord.
 
-De tweede lijst is waar ontwikkelingsteams concreet worden. Neem een beheersingslabel als "beheersing van afgeleiden" en weiger dat het de juiste afgeleide produceren betekent. Splits het in herkennen wanneer een afgeleide passend is, haar interpreteren als een ogenblikkelijke veranderingssnelheid, de regel kiezen, de procedure uitvoeren, uitleggen waarom de keuze juist was, de redelijkheid controleren, en haar toepassen op een onbekende opgave. Elk daarvan is iets aparts om te loggen, en elk vraagt een andere reactie wanneer het ontbreekt. Deze ontleding is ook de verdediging tegen de [[correct-answer-trap-misconceptions|val van het juiste antwoord]], waarbij een lerende via een foutieve redenering op het juiste antwoord komt en uw analytics een succes registreren. [[correct-answer-trap-ai-tutor|De val van het juiste antwoord vangen]] en [[zhang-tutormoments-2026|Wanneer hulp niet helpt]] beschrijven beide varianten van die fout in productie.
+De tweede lijst is waar ontwikkelingsteams concreet worden. Neem een beheersingslabel als "beheersing van afgeleiden" en weiger dat het de juiste afgeleide produceren betekent. Splits het in herkennen wanneer een afgeleide passend is, haar interpreteren als een ogenblikkelijke veranderingssnelheid, de regel kiezen, de procedure uitvoeren, uitleggen waarom de keuze juist was, de redelijkheid controleren, en haar toepassen op een onbekende opgave. Elk daarvan is iets aparts om te loggen, en elk vraagt een andere reactie wanneer het ontbreekt. Deze ontleding is ook de verdediging tegen de [[correct-answer-trap-misconceptions|val van het juiste antwoord]], waarbij een lerende via een foutieve redenering op het juiste antwoord komt en uw [[learning-analytics|analytics]] een succes registreren. [[correct-answer-trap-ai-tutor|De val van het juiste antwoord vangen]] en [[zhang-tutormoments-2026|Wanneer hulp niet helpt]] beschrijven beide varianten van die fout in productie.
 
 ## Bouw het leerlingmodel vóór het gesprek
 
@@ -114,7 +114,7 @@ Test op het weglekken van antwoorden, het versterken van misconcepties, buitensp
 
 ## Zet de data-architectuur in hetzelfde ontwerpdocument
 
-Verzamel alleen leerlinggegevens die didactisch noodzakelijk zijn, en kun zeggen waarom elk veld bestaat. Waar u permanent geheugen of een [[student-modeling|leerlingmodel]] aanhoudt, maakt u het doel ervan zichtbaar voor de lerende, geeft u hem passende controle erover, beschermt u gevoelige informatie, legt u de bewaartermijn vast, en leidt u beslissingen met gevolgen naar een docent of een ander [[human-in-the-loop-ai|menselijk]] controlepunt. Een leerlingmodel dat stilzwijgend een vertrouwensschatting verzamelt die een student nooit ziet, is een probleem voor gegevensbescherming en een didactisch probleem.
+Verzamel alleen leerlinggegevens die didactisch noodzakelijk zijn, en kun zeggen waarom elk veld bestaat. Waar u permanent geheugen of een [[student-modeling|leerlingmodel]] aanhoudt, maakt u het doel ervan zichtbaar voor de lerende, geeft u hem passende controle erover, beschermt u gevoelige informatie, legt u de bewaartermijn vast, en leidt u beslissingen met gevolgen naar een docent of een ander [[human-in-the-loop-ai|menselijk]] controlepunt. Een leerlingmodel dat stilzwijgend een vertrouwensschatting verzamelt die een student nooit ziet, is een probleem voor [[privacy|gegevensbescherming]] en een didactisch probleem.
 
 Controleer gedrag over taalachtergronden, bekwaamheidsniveaus, culturele contexten, behoeften op het gebied van [[accessibility|toegankelijkheid]], en niveaus van [[prior-knowledge|voorkennis]] en AI-ervaring. Verschillende prestaties op dezelfde doelstelling zijn een bug met een student eraan vast, en die zal niet in uw samengevoegde nauwkeurigheidscijfer verschijnen.
 
@@ -209,11 +209,11 @@ Betrokkenheid is het doel. Gesprekslengte en sessieaantal zijn de goedkoopste ma
 
 **"Studenten zijn er dol op en de voltooiing stijgt."** Beide feiten zijn verenigbaar met een systeem dat vragen goed beantwoordt en niets leert. De studie met 6.000 studenten vond langzamere voortgang en minder geprobeerde vragen naast betere nauwkeurigheid, dus een daling in voltooiing is ook niet automatisch slecht nieuws. Rapporteer ongeassisteerde prestatie naast de betrokkenheidscijfers en laat de twee elkaar in het openbaar tegenspreken.
 
-**"Wij kunnen geen gerandomiseerde trial doen."** U kunt zonder trial een vergelijking binnen dezelfde student doen: dezelfde doelstelling, geassisteerd tijdens de eenheid, twee weken later ongeassisteerd getoetst, met de geassisteerde score ernaast gerapporteerd. Dat ontwerp beantwoordt de productvraag en heeft geen controlegroep nodig. Wat het u niet kan vertellen, is het tegenfeitelijke scenario voor studenten die de tutor nooit gebruikten.
+**"Wij kunnen geen [[rct|gerandomiseerde trial]] doen."** U kunt zonder trial een vergelijking binnen dezelfde student doen: dezelfde doelstelling, geassisteerd tijdens de eenheid, twee weken later ongeassisteerd getoetst, met de geassisteerde score ernaast gerapporteerd. Dat ontwerp beantwoordt de productvraag en heeft geen controlegroep nodig. Wat het u niet kan vertellen, is het tegenfeitelijke scenario voor studenten die de tutor nooit gebruikten.
 
-**"Het model is een API van een leverancier, dus het hulpgedrag ligt buiten ons bereik."** De treden zitten in uw orkestratielaag, en het resultaat van het vangrail-experiment kwam uit het veranderen van wat de tutor mocht zeggen, niet uit het wisselen van model. Verwacht dat de post-training van de leverancier naar snel antwoorden trekt, want daarop is het afgestemd, en leg de terughoudendheid in uw eigen code.
+**"Het model is een API van een leverancier, dus het hulpgedrag ligt buiten ons bereik."** De treden zitten in uw orkestratielaag, en het resultaat van het vangrail-experiment kwam uit het veranderen van wat de tutor mocht zeggen, niet uit het wisselen van model. Verwacht dat de [[llm-training-and-fine-tuning|post-training]] van de leverancier naar snel antwoorden trekt, want daarop is het afgestemd, en leg de terughoudendheid in uw eigen code.
 
-**"Docenten gaan nog een dashboard niet gebruiken."** Ze gebruiken er geen dat voortdurend diagnoses uitstuurt, wat volgens de K-12-review de aandacht van hun eigen observatie wegtrok. Geef ze een klein aantal interpreteerbare signalen, een manier om elke aanbeveling te accepteren of te verwerpen, en tijd in de week om ernaar te kijken.
+**"Docenten gaan nog een dashboard niet gebruiken."** Ze gebruiken er geen dat voortdurend diagnoses uitstuurt, wat volgens de [[k-12|K-12]]-review de aandacht van hun eigen observatie wegtrok. Geef ze een klein aantal interpreteerbare signalen, een manier om elke aanbeveling te accepteren of te verwerpen, en tijd in de week om ernaar te kijken.
 
 **"Wij hebben geen vakinhoudelijke experts in huis."** Dan geeft de tutor generieke methode en drijft de notatie van de cursus binnen een semester weg. Een vakdocent voor twee dagen in de ontwerpfase, die de misconceptielijst en de lijst met goedgekeurde methoden schrijft, is de goedkoopste post in het project en degene die teams het eerst schrappen.
 

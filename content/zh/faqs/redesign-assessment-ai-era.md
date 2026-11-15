@@ -1,12 +1,12 @@
 ---
 title: "我该如何重新设计评价，使成绩仍然能够可靠地说明学生知道什么、能做什么？"
 created: "2026-09-22T19:50:48-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-15T15:41:35-05:00"
 weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-source_updated: "2026-10-28T10:45:41-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/redesign-assessment-ai-era
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -45,7 +45,7 @@ ai_assist:
 
 ## 决定这个分数是谁的证据
 
-先明确说出这个分数本该代表哪一项能力。你评的是学生独立能做到什么、他们在 AI 协助下能恰当地完成什么、他们评判并指导 AI 的能力，还是这几者的某种组合？本知识库的[[assessment-validity|评价效度]]把这当作一个效度问题：一份光鲜的成品不再足以证明学生具备这件成品表面上展示的能力。这是同一论证在评价一侧的那一半；执行一侧的那一半在[[reduce-ai-cheating]]里，而普遍的效度框架贯穿[[evaluating-ai-interventions-methods]]。
+先明确说出这个分数本该代表哪一项能力。你评的是学生独立能做到什么、他们在 AI 协助下能恰当地完成什么、他们评判并指导 AI 的能力，还是这几者的某种组合？[[assessment-validity|评估效度]]把这当作一个效度问题：一份光鲜的成品不再足以证明学生具备这件成品表面上展示的能力。这是同一论证在评价一侧的那一半；执行一侧的那一半在[[reduce-ai-cheating]]里，而普遍的效度框架贯穿[[evaluating-ai-interventions-methods]]。
 
 把答案写在课程大纲里、作业说明里和评分细则里。学生读三份文件，然后遵守最具体的那一份。“允许使用 AI，需注明”并没有说明你在测量什么，它也让学生无从判断被允许的使用是否会削弱你正在评分的东西。
 
@@ -113,4 +113,4 @@ ai_assist:
 
 ## 接下来可以去哪里
 
-整页背后的效度论证在[[assessment-validity]]里；执行一侧的配套页面是[[reduce-ai-cheating]]，[[course-ai-policy]]在它旁边。[[writing-instruction-ai-best-practices]]讲学生真正会照做的那些措辞，而[[evaluating-ai-interventions-methods]]讲你正在围绕它设计的那个工具究竟管不管用。
+整页背后的效度论证在[[assessment-validity|评估效度]]里；执行一侧的配套页面是[[reduce-ai-cheating]]，[[course-ai-policy]]在它旁边。[[writing-instruction-ai-best-practices]]讲学生真正会照做的那些措辞，而[[evaluating-ai-interventions-methods]]讲你正在围绕它设计的那个工具究竟管不管用。

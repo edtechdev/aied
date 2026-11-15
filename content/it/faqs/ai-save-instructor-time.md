@@ -6,8 +6,9 @@ weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-translation_of: "faqs/ai-save-instructor-time"
-source_updated: "2026-10-28T11:21:07-04:00"
+updated: "2026-11-15T15:43:21-05:00"
+translation_of: faqs/ai-save-instructor-time
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -53,7 +54,7 @@ Un secondo insieme di dati nello stesso lavoro, più di 104.000 messaggi di oltr
 
 La qualità è disomogenea secondo uno schema abbastanza stabile da poterci pianificare sopra. I revisori in cieco hanno preferito le versioni IA delle conclusioni di lezione e dei biglietti d'uscita nel 59,7% dei casi rispetto a materiali progettati da professionisti, e hanno preferito il materiale IA per i contenuti delle scuole superiori nel 59,2% dei casi. Il risparmio cresce anche dove la tua sicurezza è più bassa: insegnare fuori dalla propria materia è il caso con il divario più ampio tra ciò che lo strumento ti consegna e ciò che avresti scritto da solo.
 
-Due categorie vanno nella direzione opposta. Sul materiale di livello elementare, gli umani sono stati preferiti in circa il 65% dei casi per adeguatezza evolutiva. Gli [[scaffolding|scaffold]] mirati per studenti [[multilingual-learning|multilingui]] e studenti in [[special-education|educazione speciale]] sono tornati neutri invece che sbagliati, il che è peggio di quanto sembri, dato che uno scaffold neutro è uno che ricostruisci da zero.
+Due categorie vanno nella direzione opposta. Sul materiale di livello elementare, gli umani sono stati preferiti in circa il 65% dei casi per adeguatezza evolutiva. Gli [[scaffolding|scaffold]] mirati per studenti [[multilingual-learning|multilingui]] e [[learners|studenti]] in [[special-education|educazione speciale]] sono tornati neutri invece che sbagliati, il che è peggio di quanto sembri, dato che uno scaffold neutro è uno che ricostruisci da zero.
 
 Il test che lo prevede prima che tu spenda una serata: sai enunciare la specifica con precisione sufficiente a controllare l'output? Un biglietto d'uscita su un obiettivo, sì. Se un paragrafo sia adatto a una bambina di nove anni che legge due anni sotto la sua classe, no.
 
@@ -83,7 +84,7 @@ Puoi usare la [[automated-essay-scoring|valutazione automatizzata dei saggi]] se
 
 ## Che cosa sbagliano i docenti
 
-**"Il 31% è il mio numero."** Sono 259 docenti di [[science-education|scienze]] della scuola pre-universitaria sulla preparazione delle lezioni. La direzione viaggia; la dimensione no. Un seminario costruito sulla discussione può risparmiare meno, e un corso di laboratorio con vincoli di sicurezza può non risparmiare nulla sulla parte per cui volevi più aiuto.
+**"Il 31% è il mio numero."** Sono 259 docenti [[k-12|K-12]] di [[science-education|scienze]] sulla preparazione delle lezioni. La direzione viaggia; la dimensione no. Un seminario costruito sulla discussione può risparmiare meno, e un corso di laboratorio con vincoli di sicurezza può non risparmiare nulla sulla parte per cui volevi più aiuto.
 
 **"Risparmiare tempo è l'obiettivo."** L'esperimento brasiliano è il controesempio. Le ore sono arrivate gratis e il quartile più basso non ha guadagnato nulla. L'obiettivo è che cosa comprano le ore.
 

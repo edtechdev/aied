@@ -1,7 +1,7 @@
 ---
 title: "AI가 일상이 된 직업을 위해 학생은 무엇을 배워야 할까요?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-07T23:52:37-05:00"
+updated: "2026-11-15T15:39:30-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
@@ -48,6 +48,8 @@ ai_assist:
 [[ithaka-sr-ai-skills-college-graduates-2026|Ithaka S+R의 보고서]]는 미국 4년제 대학 교수자 500명에게 일곱 범주를 아우르는 틀의 기술 26개를 평가하게 하고, 그 평가를 틀의 저자들이 조사한 고용주 패널과 비교했습니다. 불일치는 무작위가 아니라 체계적입니다. 교수자들은 AI의 한계, 출처 표시, 인간 책무성을 최상위에 두었고, 고용주들은 워크플로 설계, 자동화, 인간-AI 팀워크를 더 높게 두었습니다.
 
 그 격차에 대한 두 가지 해석이 유혹적이고 둘 다 틀렸습니다. 첫째는 교수자들이 노동 시장보다 뒤처졌다는 것입니다. 둘째는 고용주들이 순응을 원한다는 것입니다. 더 유용한 해석은 각 집단이 같은 일의 서로 다른 절반을 기술하고 있다는 것이며, 한쪽 절반만 할 수 있는 졸업생은 둘 다에 대해 준비가 부족합니다. 결과가 왜 틀렸는지 설명하지 못하는 학생은 워크플로를 신뢰하는 고용주에게 쓸모가 없고, AI 출력을 비판만 할 수 있는 학생은 과제 완수를 필요로 하는 고용주에게 쓸모가 없습니다.
+
+고용주의 신호를 교과 과정 변경으로 바꾸는 일 자체가 결정 지점을 가진 과정입니다. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale(2026)]]은 감지, 이해관계자 검증, 프로그램 진단, 교과 과정 재설계, 실행과 역량, 결과 검토의 여섯 단계를 제안하며, 각 단계에 명명된 결정 권한과 책임 있는 산출물을 두고 AI는 패턴 탐지와 역량 매핑 같은 경계 지어진 지원 기능으로 한정합니다. 그것은 평가가 아니라 제안이지만, 자문 위원회의 요청이 흔히 건너뛰는 단계들을 이름 붙여 줍니다.
 
 이 증거의 한계가 중요합니다. 이것은 설문에서 나온 진술된 우선순위이며, 보고서는 어떤 교과 과정이 더 나은 채용, 더 나은 성과, 더 나은 임금을 낳는다는 것을 보여 주지 않습니다. 보고서가 주는 것은 학생이 AI 지원 워크플로를 이야기만 하는 것이 아니라 완수하고 확인하는 일을 실제로 연습하는지 물을 방어 가능한 이유입니다.
 
@@ -126,6 +128,6 @@ ai_assist:
 
 ## 다음으로 갈 곳
 
-[[career-development-and-readiness]]는 고용 가능성, 적응성, 인력 증거에 관한 개념 페이지이고, [[ai-literacy]]는 리터러시가 도구 조작을 넘어 무엇을 뜻하는지 다룹니다. 특정 강좌에 그것을 넣는 일은 [[incorporating-ai-literacy|AI 리터러시 통합]]과 [[faculty-ai-competencies|교수진에게 필요한 역량]]을 보십시오.
+[[career-development-and-readiness|진로 개발과 준비도]]는 고용 가능성, 적응성, 인력 증거에 관한 개념 페이지이고, [[ai-literacy|AI 리터러시]]는 리터러시가 도구 조작을 넘어 무엇을 뜻하는지 다룹니다. 특정 강좌에 그것을 넣는 일은 [[incorporating-ai-literacy|AI 리터러시 통합]]과 [[faculty-ai-competencies|교수진에게 필요한 역량]]을 보십시오.
 
 지원된 수행과 독립적 수행을 구별 가능하게 만드는 [[assessment|평가 설계]]는 [[redesign-assessment-ai-era|AI 시대의 평가 재설계]]와 [[ai-grading-fairness-reliability|AI 채점]]을 보십시오. 지원이 의존이 되지 않게 하는 방법은 [[reducing-over-reliance|과잉 의존 줄이기]]를 보십시오.

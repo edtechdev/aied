@@ -1,7 +1,7 @@
 ---
 title: "个性化学习到底是什么意思，什么时候才有用？"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-15T15:39:17-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -28,7 +28,7 @@ ai_assist:
 
 平台许诺给每个学生个性化的体验。它可能在重排练习题、围绕一个学生对足球的兴趣重写一段解释、记住上周的对话，或者挑学生接下来学什么。四件事都被叫作个性化，而只有一件以大致那样的形态被检验过。
 
-简短的回答是：个性化命名的是对学习体验某一部分的改动，它的价值取决于三件事——改的是什么、驱动这次改动的是什么证据、以及这次改动是否改善了你想要的学习。一个熟悉的例子或一段有回应的对话可以感觉很个人化，却什么也没教。一次有效的改编可以是看不见的。本知识库里最清楚的实验结果很窄：在一门横跨十所台北高中、为期五个月的 Python 认证课里，被随机分到自适应题目排序的学生，在一场线下、无辅助的[[summative-assessment|期末考试]]上比固定排序且[[conversational-ai|聊天机器人]]可及性相同的学生高出约 0.150 个标准差（[[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung 等人，2026]]）。这支持在特定条件下的排序。它不验证一切被当作个性化出售的东西。
+简短的回答是：个性化命名的是对学习体验某一部分的改动，它的价值取决于三件事——改的是什么、驱动这次改动的是什么证据、以及这次改动是否改善了你想要的学习。一个熟悉的例子或一段有回应的对话可以感觉很个人化，却什么也没教。一次有效的改编可以是看不见的。这批文献里最清楚的实验结果很窄：在一门横跨十所台北高中、为期五个月的 Python 认证课里，被随机分到自适应题目排序的学生，在一场线下、无辅助的[[summative-assessment|期末考试]]上比固定排序且[[conversational-ai|聊天机器人]]可及性相同的学生高出约 0.150 个标准差（[[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung 等人，2026]]）。这支持在特定条件下的排序。它不验证一切被当作个性化出售的东西。
 
 ## 简版要点
 
@@ -64,7 +64,7 @@ ai_assist:
 
 **感知到的个性化可能与更弱的自我调节同行。** [[personalization-paradox-adaptive-learning-emotions-2026|Li、Lin 与 Qiu（2026）]]在三轮调查中追踪了 486 名中国本科生，发现把自适应环境感知得更个性化的学生报告了更弱的[[self-regulated-learning|自我调节学习]]。学业情绪承载了大部分关联，愉悦下降连同[[anxiety-and-stress|焦虑]]与无聊上升，解释了总效应的一半以上。这个设计是观察性的[[self-report-measures|自报数据]]，所以无法确立是个性化导致了下滑。它确实指出了试点必须监测的结果，因为一个对每种不确定都快速作答的系统，可能移走课程本应建立的规划与判断。
 
-**兴趣与理解是两项分开的检查。** [[personalized-learning]] 那篇综述讨论了 Bernstein 与 Sibia 的 *Flawed but Memorable*，一篇关于按兴趣个性化计算类比的[[qualitative-research|质性]]预印本。学生的反应各不相同，而对类比源域的熟悉帮助他们发现类比在哪里崩了。实践上的读法是：既问学习者已经知道什么，也问他们喜欢什么，并把报告的记忆度当作体验测量，而不是学习结果。
+**兴趣与理解是两项分开的检查。** [[personalized-learning|个性化学习]] 那篇综述讨论了 Bernstein 与 Sibia 的 *Flawed but Memorable*，一篇关于按兴趣个性化计算类比的[[qualitative-research|质性]]预印本。学生的反应各不相同，而对类比源域的熟悉帮助他们发现类比在哪里崩了。实践上的读法是：既问学习者已经知道什么，也问他们喜欢什么，并把报告的记忆度当作体验测量，而不是学习结果。
 
 ## 在信任这次改编之前先核查诊断
 
@@ -122,6 +122,6 @@ ai_assist:
 
 ## 接下来可以去哪里
 
-[[personalized-learning]] 是讲定义、营销词汇与证据基础的概念页，[[adaptive-learning]] 覆盖机制及其测量。[[intelligent-tutoring]] 是学习者模型与导师设计相遇的地方。
+[[personalized-learning|个性化学习]] 是讲定义、营销词汇与证据基础的概念页，[[adaptive-learning|自适应学习]] 覆盖机制及其测量。[[intelligent-tutoring|智能辅导]] 是学习者模型与导师设计相遇的地方。
 
 关于设计一个把个性化当作若干决定之一的活动，见[[designing-ai-into-learning|把 AI 设计进学习体验]]。关于在规模化之前如何判断系统是否有效，见[[checking-whether-educational-ai-works|检验一个教育 AI 是否有效]]。

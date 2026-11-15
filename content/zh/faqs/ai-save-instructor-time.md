@@ -1,12 +1,12 @@
 ---
 title: "作为教师，人工智能如何帮我节省时间？"
 created: "2026-09-22T19:42:07-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-15T15:43:33-05:00"
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-save-instructor-time
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
@@ -47,7 +47,7 @@ ai_assist:
 
 ## 从你本来就要重写的东西开始
 
-这个知识库中最硬的数字来自一项[[rct|随机试验]]，摘要见[[ai-changing-teaching-workflows|AI 如何改变教学工作流]]。259 名使用 ChatGPT 的科学教师在备课上花的时间约为对照组的 69%，也就是削减了约 31%，而盲评专家没有发现可察觉的质量损失。教师们把它重新分配了，而不是存起来：这些时间流向了计划、批改和面向学生的工作。
+最硬的数字来自一项[[rct|随机试验]]，摘要见[[ai-changing-teaching-workflows|AI 如何改变教学工作流]]。259 名使用 ChatGPT 的科学教师在备课上花的时间约为对照组的 69%，也就是削减了约 31%，而盲评专家没有发现可察觉的质量损失。教师们把它重新分配了，而不是存起来：这些时间流向了计划、批改和面向学生的工作。
 
 同一项工作里的第二份数据——来自 15,000 多名教育者的 104,000 多条消息——说明了省下的时间为什么落在奇怪的地方。平均一条提示同时触及 1.7 个类别，所以一个要教案的请求回来时，还带着教师没想到要问的分层教学和一份测验。
 
@@ -99,7 +99,7 @@ ai_assist:
 
 **“我要是变快了，时间会被会议填满。”** 很可能，而这也是省时最常见的消失方式。在空档被填上之前，把去处写下来，放在你系主任看得见的地方。
 
-**“AI 反馈会亏待最吃力的学生。”** 巴西那项实验里最低四分位什么也没得到，这是本页最强的告诫。把节省与有意的使用配成对。一对一交谈增加 35%，就是那些课堂用这些小时做的事，而那是教师做出的选择。
+**“AI 反馈会亏待最吃力的学生。”** 巴西那项实验里最低四分位什么也没得到，这是研究中最强的告诫。把节省与有意的使用配成对。一对一交谈增加 35%，就是那些课堂用这些小时做的事，而那是教师做出的选择。
 
 **“我的时数其实都在评分上。”** 是的，而那也正是工具跨机构最不可迁移的地方。本地验证，或者别碰。
 
@@ -119,4 +119,4 @@ ai_assist:
 
 ## 接下来读什么
 
-[[ai-feedback-at-scale]] 把反馈问题推得更远，[[faculty-ai-competencies]] 与[[faculty-development-ai]] 讲一个院系能建起什么，好让这件事不再依赖个人的零散试验。[[redesign-assessment-ai-era]] 和[[reduce-ai-cheating]] 处理评价上的后果。[[ai-changing-teaching-workflows]] 是备课数字背后的那篇文章，而[[human-in-the-loop-ai|人的监督]]是本页所围绕的原则。
+[[ai-feedback-at-scale]] 把反馈问题推得更远，[[faculty-ai-competencies]] 与[[faculty-development-ai]] 讲一个院系能建起什么，好让这件事不再依赖个人的零散试验。[[redesign-assessment-ai-era]] 和[[reduce-ai-cheating]] 处理评价上的后果。[[ai-changing-teaching-workflows]] 是备课数字背后的那篇文章，而[[human-in-the-loop-ai|人的监督]]是统摄性的原则。

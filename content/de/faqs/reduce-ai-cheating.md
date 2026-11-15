@@ -1,14 +1,14 @@
 ---
 title: "Wie kann ich KI-Betrug in meinem Kurs reduzieren?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-07T20:28:28-05:00"
+updated: "2026-11-15T15:43:57-05:00"
 connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education, top-10-findings-ai-education-instructors]
 weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
@@ -56,7 +56,7 @@ Die Synthese [[reducing-ai-misuse|Reduktion von KI-Missbrauch]] reiht Redesign a
 
 Starten Sie mit einem Label. Die [[ai-assessment-scale-reform|AI Assessment Scale (AIAS)]] gibt jeder Aufgabe ein KI-Nutzungsniveau, von „keine KI“ über „KI nur zum Brainstorming“ und „KI-Unterstützung mit Quellenangabe“ bis „volle KI-Nutzung“, sodass die Erwartung explizit und durchsetzbar ist statt erschlossen.
 
-Dann ändern Sie das Artefakt. Ein [[meta-analysis-systematic-review|systematischer Review]] von 72 Studien zu generativer KI in der [[cs-education|Informatikbildung]] bewertet Redesign als sowohl machbar als auch am wirksamsten und hebt eine Maßnahme hervor: Fügen Sie mindestens einem Assessment mit hohen Einsätzen pro Kurs ein mündliches oder anderweitig prozesssichtbares Element hinzu. Er nennt das die einzelne wirksamste Intervention im Korpus. Detektion ist der dünnste Bereich, den das Review abdeckt, mit nur 3 Studien – gegen 60–80% der Informatikstudierenden, die generative KI in der Kursarbeit nutzen, typischerweise ohne ausdrückliche Billigung durch die Lehrkraft, und 70% einer nationalen Fakultätsstichprobe, die ausdrücklich Schulung zu KI-resistentem Assessmentdesign erbitten ([[kumar-genai-computing-education-systematic-review-2026]]).
+Dann ändern Sie das Artefakt. Ein [[meta-analysis-systematic-review|systematischer Review]] von 72 Studien zu generativer KI in der [[cs-education|Informatikbildung]] bewertet Redesign als sowohl machbar als auch am wirksamsten und hebt eine Maßnahme hervor: Fügen Sie mindestens einem Assessment mit hohen Einsätzen pro Kurs ein mündliches oder anderweitig prozesssichtbares Element hinzu. Er nennt das die einzelne wirksamste Intervention in diesem Review. Detektion ist der dünnste Bereich, den das Review abdeckt, mit nur 3 Studien – gegen 60–80% der Informatikstudierenden, die generative KI in der Kursarbeit nutzen, typischerweise ohne ausdrückliche Billigung durch die Lehrkraft, und 70% einer nationalen Fakultätsstichprobe, die ausdrücklich Schulung zu KI-resistentem Assessmentdesign erbitten ([[kumar-genai-computing-education-systematic-review-2026]]).
 
 Ein dreijähriger Informatikkurs zeigt, wie weit ein gerüsteter Offenlegungs-Workflow Verhalten verschieben kann. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil et al. (2026)]] verlangten einen unabhängigen Entwurf mit einer vierteiligen Checkliste, einen KI-Schritt zum Verfeinern statt Neuschreiben, ein Offenlegungsformular und eine strukturierte Reflexion, wobei ein fehlender Entwurf oder ein fehlendes Formular mit null bewertet wurde. Die Annahme stieg von etwa zwei Dritteln der Studierenden unter freiwilliger Regelung auf 93% im gerüsteten Jahr; 81% und 84% der KI-Nutzenden gaben an, Vorschläge abgelehnt oder verändert zu haben, Bewertende kodierten 77–81% der Abgaben auf kritisches Engagement, und die KI-Nutzung sagte die Essayqualität nicht unabhängig vorher, nachdem die frühere Schreibfähigkeit kontrolliert worden war. Das ist ein Erfahrungsbericht aus einem einzelnen Kurs, keine kontrollierte Studie, aber er zeigt, wie die Integritätsarbeit von der Detektion zu den Bedingungen wandert, unter denen Studierende offenlegen und überarbeiten.
 
