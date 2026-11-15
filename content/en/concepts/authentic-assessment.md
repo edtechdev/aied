@@ -1,7 +1,7 @@
 ---
 title: Authentic Assessment
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-15T09:05:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -48,6 +48,7 @@ Authenticity has to be built into the task rather than enforced after it:
 - [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]] contends that authenticity cannot be policed into existence; it must be designed, positioning AI as a declared collaborator rather than a cheating application, and prioritizing authentic, [[process-oriented-assessment|process-based assessment]] over surveillance.
 - [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]] reframes assessment around validity evidence and authentic tasks that mirror students' future work.
 - [[authentic-products-authenticated-processes-2026|Authentic products, authenticated processes]] examines how AI-rich [[higher-ed|higher education]] can assess both genuine outputs and the processes that produced them.
+- **Governance reaches students through assessment design.** Perceived [[governance|AI governance]] quality predicted perceived authentic assessment well beyond policy awareness (β = 0.36 against 0.12), and authentic assessment fully carried the path to [[student-engagement|engagement]] across 644 students in Chinese universities ([[jiang-genai-governance-authentic-assessment-equity-2026|Jiang, 2026]]).
 
 - **An AI drafting partner still leaves the judgment.** [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] piloted a GPT-4.1 assessment designer with eight coordinators: it produced usable overviews, tasks, criteria, timelines and rubrics but repeatedly missed disciplinary context and topic sequencing, and all eight refused end-to-end automation, locating [[evaluative-judgment|academic judgment]] rather than the model.
 - [[tool-invariant-framework-agentic-ai|The tool-invariant framework]] argues for assessing computational methods and process rather than tool-specific outputs, using oral defense and verification.

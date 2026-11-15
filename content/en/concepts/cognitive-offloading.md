@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-15T09:05:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -97,6 +97,8 @@ The evidence documents cognitive offloading across multiple dimensions:
 ### When offloading falls rather than rises
 
 [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] reports a preregistered experiment (N = 317) in which adults learned new content from conventional worksheets or from a general-purpose assistant restricted to those same worksheets. The AI condition lowered measured cognitive offloading rather than raising it (median −0.27, 95% credible interval −0.58 to 0.04). Deep processing still fell, but through a chain in which lower offloading tracked lower [[critical-thinking|critical thinking]], which in turn predicted weaker deep processing (0.78). Disorganization rose by 0.84 with no mediator carrying the effect. The finding is a caution for the standard account: offloading is not the only route by which an [[generative-ai|AI]] environment erodes processing, and a condition can leave offloading untouched while suppressing what offloading was supposed to protect.
+
+- **The arrangement, not the amount, decides whether offloading helps.** Undergraduates using GenAI inside design-thinking worksheets that kept problem framing, comparison and revision with the learner reported higher creative [[self-efficacy|self-efficacy]] and better-rated products than students using the same model unrestricted ([[wang-design-thinking-scaffolds-agency-preserving-ai-2026|Wang, 2026]]).
 
 ### Offloading empathy, not just cognition
 

@@ -1,7 +1,7 @@
 ---
 title: Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-15T09:05:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -114,6 +114,7 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - **Instructor-side real-time intervention.** [[parlant-emotional-micro-interventions-2026|Parlant's practitioner guide]] adds a human counterpart to these AI tools: *emotional micro-interventions* — brief, deliberate verbal or gestural acts that validate a student's emergent emotion, reframe the appraisal behind it, and reconnect the struggle to professional identity (Validate, Reframe, Connect). Grounded in cognitive appraisal theory, the approach targets the primary appraisal ("is this a threat?") and the secondary appraisal ("can I cope?") at the moment distress would end engagement, pairing bottlenecks such as frustration, isolation and imposter syndrome with target states. Its author states plainly that the framework does not require AI; [[generative-ai|generative AI]] serves only as an optional way to draft candidate phrases for the instructor to curate.
 - **A system built to relieve anxiety can add it.** In ninth-grade chemistry laboratories a semester of AI emotional feedback coincided with rising laboratory anxiety (F = 4.60, p = 0.035), while the teacher-led class held steady ([[liu-chemistry-lab-emotional-feedback-2026|Liu et al. (2026)]]).
 - **Three support routes, three stress rates.** In a three-arm randomized trial with 149 sixth-form students, stress was reported by 5.8% of those with a human tutor, 19.2% with Khanmigo Lite, and 32.0% with unguided internet search, so what students reach for when stuck, rather than AI exposure alone, ordered their anxiety ([[ennion-human-tutoring-genai-tutoring-search-2026|Ennion & McLellan, 2026]]).
+- **A chatbot eased two of five anxiety dimensions.** Eight weeks of blended English writing with an AI chatbot lowered somatic anxiety and avoidance behavior among vocational college students but left test anxiety, self-doubt and time anxiety unchanged ([[bao-ai-chatbot-writing-anxiety-vocational-2026|Bao and Zhang, 2026]]).
 
 ## Why this is distinct from well-being
 

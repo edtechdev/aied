@@ -1,7 +1,7 @@
 ---
 title: Career Development and Readiness
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-15T09:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
@@ -43,6 +43,7 @@ As AI transforms occupations, education's role in career development has broaden
 - **What faculty expect AI to displace, and what that is not.** In ten interviews in an AI-focused [[engineering-education|engineering]] department, faculty disagreed about how generative AI would reshape work, naming coding, [[writing-education|writing]] and information work as near-term vulnerable, while offering no labor-market evidence for those expectations ([[sadik-ai-ready-engineering-talent-faculty-2026|Sadik (2026)]]).
 - **Workforce transitions.** The [[post-covid-ict-career-aspirations|ICT career aspirations]] study examines how students' career intentions shift in response to technological change.
 - **Theoretical grounding.** The [[kim-ai-anxiety-comprehensive-analysis|AI Anxiety comprehensive analysis]] identifies the **fear of replacement by AI** as a primary driver of AI anxiety — the career dimension this concept addresses head-on.
+- **LLM career advice carries a Western default.** Asked what entry-level computing jobs require in ten African countries, six models recognized local ecosystems, language needs and national policy only 35.4% of the time, so the technical advice transfers and the context does not ([[eze-llm-career-guidance-african-computing-2026|Eze, Lunn and Berhane, 2026]]).
 
 ## Career readiness as a protective and developmental goal
 

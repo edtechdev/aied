@@ -357,6 +357,9 @@ AUTO_APPLY_DENYLIST = {
 REJECTED_HITS = []  # populated during a scan; reported so suppressed matches stay visible
 
 REJECT_PAIRS = {
+    # --- 2026-11-15, weekly journal scan: auto-applied links hand-reverted (one entry per revert) ---
+    ('procedural fairness', 'legal-issues-and-risks'),  # governance fairness students perceive, not legal risk
+    ('responsible AI use', 'ai-literacy'),             # sits beside an explicit [[ethics]] link; the literacy page is not the referent
     # --- 2026-10-26, daily-scan batch: auto-applied links hand-reverted (one entry per revert) ---
     ('benchmark', 'benchmark'),                        # a psychometric threshold, not a benchmark suite
     ('cognitive friction', 'desirable-difficulties'),  # use friction inflating perceived competence, not desirable difficulties

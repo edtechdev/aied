@@ -6,8 +6,27 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-11-12
-**Total backlog:** 35 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-11-15
+**Total backlog:** 36 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+
+## Weekly journal RSS scan (2026-11-15)
+
+The RSS sweep read 188 feed items across eight configured journals: 128 already had pages, 60 were
+new, and 22 of those cleared the AI-in-education relevance filter. Eight were ingested this run from
+full text retrieved directly (four Frontiers in Psychology articles, one IJETHE review, two BJET
+articles, and one CAEO paper whose accepted manuscript is on arXiv). The 4 below are in scope but in
+ScienceDirect, which answers automated requests with a Cloudflare challenge rather than the article;
+Unpaywall lists no repository copy for any of them.
+
+**Computers and Education: Artificial Intelligence (CAEAI)**
+
+- [Leveraging GenAI models for curriculum analytics: A human-centred approach for curriculum mapping in higher education](https://doi.org/10.1016/j.caeai.2026.100689) — [DOI: 10.1016/j.caeai.2026.100689](https://doi.org/10.1016/j.caeai.2026.100689)
+- [Personalized neural cognitive architecture search: AutoML-driven diagnostic model generation for heterogeneous learner profiles](https://doi.org/10.1016/j.caeai.2026.100620) — [DOI: 10.1016/j.caeai.2026.100620](https://doi.org/10.1016/j.caeai.2026.100620)
+- [Linking Artificial Intelligence Use to Teaching Performance: The Roles of Teacher Enthusiasm and Teaching Engagement](https://doi.org/10.1016/j.caeai.2026.100690) — [DOI: 10.1016/j.caeai.2026.100690](https://doi.org/10.1016/j.caeai.2026.100690)
+
+**Computers and Education Open (CEAO)**
+
+- [SourceTrace: Designing Epistemic Friction for Source-Based Second-Language Argument Writing With Generative Artificial Intelligence](https://doi.org/10.1016/j.caeo.2026.100434) — [DOI: 10.1016/j.caeo.2026.100434](https://doi.org/10.1016/j.caeo.2026.100434)
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-12)
 
@@ -109,14 +128,11 @@ a bot check or an HTML shell instead of the article.
 
 **Computers and Education Open (CEAO)**
 
-- [Evaluating Large Language Models for career guidance: A comparative analysis of computing competency recommendations across ten African countries](https://doi.org/10.1016/j.caeo.2026.100425) — [DOI: 10.1016/j.caeo.2026.100425](https://doi.org/10.1016/j.caeo.2026.100425)
 - [Evaluating AI-based visual privacy through Cartoonification: Impact on expressive participation and consent for data retention](https://doi.org/10.1016/j.caeo.2026.100393) — [DOI: 10.1016/j.caeo.2026.100393](https://doi.org/10.1016/j.caeo.2026.100393)
 - [A pilot educational framework for AI-enhanced digital manufacturing and reflective skill development](https://doi.org/10.1016/j.caeo.2026.100342) — [DOI: 10.1016/j.caeo.2026.100342](https://doi.org/10.1016/j.caeo.2026.100342)
 
 **British Journal of Educational Technology (BJET)**
 
-- [Hybrid intelligence feedback systems in design thinking development: Stage-specific insights on pedagogical effects and characteristics of generative AI and instructors](https://doi.org/10.1111/bjet.70080) — [DOI: 10.1111/bjet.70080](https://doi.org/10.1111/bjet.70080)
-- [From emotion regulation to academic success: A self-determination theory-based emotional agent-mediated approach](https://doi.org/10.1111/bjet.70083) — [DOI: 10.1111/bjet.70083](https://doi.org/10.1111/bjet.70083)
 - [Correcting automatically generated closed captions for online learning materials does not improve student learning outcomes (although students believe it does)](https://doi.org/10.1111/bjet.70074) — [DOI: 10.1111/bjet.70074](https://doi.org/10.1111/bjet.70074)
 
 **International Journal of Educational Technology in Higher Education (IJETHE)**

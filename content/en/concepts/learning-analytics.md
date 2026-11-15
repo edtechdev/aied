@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-15T09:05:00-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -67,6 +67,7 @@ A frequency encoding of [[qualitative-research|qualitative]] data is an entry po
 
 ## From description to intervention
 - **The evidence base is not yet intervention evidence.** Synthesizing four studies across student, disciplinary, educator and institutional levels, [[learning-analytics-genai-learning-design|Rienties, Divjak and Law (2026)]] find the field dominated by cross-sectional, [[self-report-measures|self-report]], discourse-based and expert-judgment designs, and call for intervention research testing causal mechanisms and longer-term, distributional outcomes.
+- **Intervention types are not interchangeable.** A PRISMA review of 39 experimental and quasi-experimental studies found prompts tied to [[self-regulated-learning|self-regulation]] and knowledge outcomes, cues to attentional processes, and nudges to behavioral engagement, so the intervention should be chosen for the outcome it targets ([[rako-prompts-cues-nudges-systematic-review-2026|Rako, Šimić and Rienties, 2026]]).
 
 **A randomized-encouragement design supplies the causal anchor.** In a randomized-encouragement experiment on ASSISTments, [[lim-assignment-report-intelligent-tutoring-randomized-encouragement-2025|Lim, Heffernan & Sales (2025)]] randomly prompted teachers new to the platform to view the assignment report after creating an assignment.
 Among the 330-teacher analytic sample (156 control, 174 encouragement; 281 for value-added), viewing the first-assignment report significantly raised next-assignment completion (Anderson-Rubin F = 4.092, p = 0.044) - at least 2 percentage points overall.
