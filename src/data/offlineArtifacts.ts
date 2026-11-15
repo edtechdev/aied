@@ -8,23 +8,23 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
   "en": {
     "epub": {
       "url": "https://github.com/edtechdev/aied/releases/download/offline-latest/aied.epub",
-      "bytes": 3205676
+      "bytes": 3247027
     },
     "pdf": {
       "url": "https://github.com/edtechdev/aied/releases/download/offline-latest/aied.pdf",
-      "bytes": 8732045
+      "bytes": 8754992
     },
     "llms": {
       "url": "https://github.com/edtechdev/aied/releases/download/offline-latest/llms.txt",
-      "bytes": 1491197
+      "bytes": 1512771
     },
     "llmsConcepts": {
       "url": "https://github.com/edtechdev/aied/releases/download/offline-latest/llms-concepts.txt",
-      "bytes": 4486588
+      "bytes": 4649141
     },
     "llmsFull": {
       "url": "https://github.com/edtechdev/aied/releases/download/offline-latest/llms-full.txt",
-      "bytes": 24844062
+      "bytes": 25402170
     }
   },
   "es": {
