@@ -6,9 +6,9 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-11-01T11:35:17-05:00"
+updated: "2026-11-15T16:18:27-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
 
-Moduloversikten har en linje som sier «AI-aktivitet», og ingen kan si hva den erstatter. Eller en lærer har bedt om å legge til en chatbot i et emne som allerede fungerer, og jobben din er å plassere den uten å ødelegge den delen som gjorde emnet godt.
+Moduloversikten har en linje som sier «AI-aktivitet», og ingen kan si hva den erstatter. Eller en lærer har bedt om å legge til en [[conversational-ai|chatbot]] i et emne som allerede fungerer, og jobben din er å plassere den uten å ødelegge den delen som gjorde emnet godt.
 
 Start fra læringsmålet og fra aktiviteten som skaper det. Den samme modellen kan være en støtte, en [[socratic-method|sokratisk]] partner, en leser av utkast, en [[simulation|simulering]] eller en svarmaskin, og hvilken du får, avhenger av designet snarere enn av modellen. Navngi modusen du bygger, legg den lærendes forsøk før noen hjelp dukker opp, og behold minst én rute gjennom emnet som går uten verktøyet.
 
@@ -42,7 +42,7 @@ Start fra læringsmålet og fra aktiviteten som skaper det. Den samme modellen k
 
 ## Avgjør hva den lærende gjør uten verktøyet
 
-Konseptet [[pedagogy|Pedagogikk og undervisningsstrategier]] i kunnskapsbasen gir testen: bevarer konfigurasjonen aktiviteten som gir den tiltenkte læringen? Svar på det på papir, før noen velger en funksjon.
+Konseptet [[pedagogy|Pedagogikk og undervisningsstrategier]] gir testen: bevarer konfigurasjonen aktiviteten som gir den tiltenkte læringen? Svar på det på papir, før noen velger en funksjon.
 
 [[finkelstein-principled-ai-education-2025|Rammeverket for prinsipiell AI-utdanning]] formulerer hovedregelen: teknologi skal forsterke snarere enn fortrenge de menneskelige evnene utdanningen har som mål å utvikle. Skrevet som en test for en modul betyr det å navngi kapasiteten, navngi aktiviteten som bygger den, og spørre om AI ligger inne i den aktiviteten eller ved siden av den.
 
@@ -52,7 +52,7 @@ Bruk det per oppgave i stedet for én gang per verktøy. I fire lærerrettede ca
 
 Standardmønsteret som overlever kontakt med en ekte klasse: **den lærende forsøker, AI støtter, den lærende vurderer eller reviderer, den lærende demonstrerer forståelse.**
 
-I praksis betyr det å be om en første forutsigelse eller løsning før noen hjelp dukker opp, og å foretrekke spørsmål, hint, eksempler, motargumenter og [[feedback]] framfor umiddelbar fullføring. Bevar [[productive-failure|produktiv feiling]] der den tjener læringen. Krev verifisering av påstander med konsekvenser, bygg inn forklaring og [[learning-by-teaching|tilbakelæring]], og trapp ned støtten etter hvert som kompetansen vokser. Behold noe AI-fritt arbeid så de lærende kan kalibrere hva de klarer alene.
+I praksis betyr det å be om en første forutsigelse eller løsning før noen hjelp dukker opp, og å foretrekke spørsmål, hint, eksempler, motargumenter og [[feedback|tilbakemelding]] framfor umiddelbar fullføring. Bevar [[productive-failure|produktiv feiling]] der den tjener læringen. Krev verifisering av påstander med konsekvenser, bygg inn forklaring og [[learning-by-teaching|tilbakelæring]], og trapp ned støtten etter hvert som kompetansen vokser. Behold noe AI-fritt arbeid så de lærende kan kalibrere hva de klarer alene.
 
 Syntesen [[reducing-ai-misuse|Redusere AI-misbruk]] anbefaler samme form som en sekvens med tenk først, AI etterpå, reflekter, med bevisste evalueringspunkter.
 
@@ -72,7 +72,7 @@ To lærdommer følger for AI-design. Plasser verktøyet der sekvensen forutsette
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] behandler tid som en designet støtte i stedet for en egenskap ved studenten: et selvstyrt kurs har en ukentlig tildeling på omtrent 100 minutter med et mål nær 20 minutter om dagen, tidsbevisste påminnelser, et fremdriftsdashboard og en kort kontroll på 3 til 12 spørsmål ved slutten av hvert underkapittel. Utgangspunktet som designet svarer på, er brutalt: nesten 25 prosent av over 600 lærende startet først i den siste uken, og 95 prosent av den gruppen strøk.
 
-Les det som et designspørsmål, ikke som en påvist effekt. Artikkelen sammenligner et senere kurs med et tidligere i stedet for å gjennomføre en kontrollert studie, så forbedringen kan ikke skilles fra endringen i kull og fag, og påminnelser som er sterke nok til å flytte studietidspunktet, er også et [[privacy]]-spørsmål du må svare på i emneplanen.
+Les det som et designspørsmål, ikke som en påvist effekt. Artikkelen sammenligner et senere kurs med et tidligere i stedet for å gjennomføre en [[rct|kontrollert studie]], så forbedringen kan ikke skilles fra endringen i kull og fag, og påminnelser som er sterke nok til å flytte studietidspunktet, er også et [[privacy|personvern]]spørsmål du må svare på i emneplanen.
 
 ## Bestem hva som skal holdes tilbake, og når det skal gjenopprettes
 
@@ -100,7 +100,7 @@ Effektivitet er målet med nyutformingen. Å lage læringsutbytter og vurderings
 
 **«Vi har ikke tid til å sekvensere et helt emne på nytt.»** Da sekvenserer du én modul og én vurdering på nytt. Vendepunktet med hold tilbake og forsterk er ett kontrollpunkt, og sekvensen med tenk først er tre instrukser på et ark.
 
-**«AI-funksjonen vår har allerede guardrails.»** Guardrails begrenser hva modellen sier. De avgjør ikke om den lærende forsøkte først, om støtten trappes ned, eller om en AI-fri rute finnes. Det er designbeslutninger i emnet ditt, ikke innstillinger i produktet.
+**«AI-funksjonen vår har allerede [[guardrails|rekkverk]].»** Rekkverk begrenser hva modellen sier. De avgjør ikke om den lærende forsøkte først, om støtten trappes ned, eller om en AI-fri rute finnes. Det er designbeslutninger i emnet ditt, ikke innstillinger i produktet.
 
 ## Hva du kan gjøre denne uken
 
@@ -116,4 +116,4 @@ Effektivitet er målet med nyutformingen. Å lage læringsutbytter og vurderings
 
 ## Hvor du kan gå videre
 
-[[learning-design|Instruksjonsdesign]], [[active-learning|Aktiv læring]] og [[scaffolding]] har designvokabularet. For standardene på interaksjonsnivå som avgjør om en designet aktivitet bevarer læringen, se [[reduce-ai-cheating]] og [[redesign-assessment-ai-era]]. [[designing-educational-ai-software]] dekker hvordan de samme prinsippene begrenser programvaren selv, og [[developing-ai-tutor]] oversetter dem til en veileders arkitektur.
+[[learning-design|Instruksjonsdesign]], [[active-learning|Aktiv læring]] og [[scaffolding|stillasbygging]] har designvokabularet. For standardene på interaksjonsnivå som avgjør om en designet aktivitet bevarer læringen, se [[reduce-ai-cheating]] og [[redesign-assessment-ai-era]]. [[designing-educational-ai-software]] dekker hvordan de samme prinsippene begrenser programvaren selv, og [[developing-ai-tutor]] oversetter dem til en veileders arkitektur.

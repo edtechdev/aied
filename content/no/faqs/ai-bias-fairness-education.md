@@ -8,9 +8,9 @@ foundations: [ai-education]
 technology: [generative-ai, intelligent-tutoring]
 ethics: [bias-mitigation, equity-in-ai-education, privacy, inclusive-learning]
 audience: [instructors, administrators, software developers, researchers]
-updated: "2026-11-08T04:27:04-05:00"
+updated: "2026-11-15T16:18:00-05:00"
 translation_of: "faqs/ai-bias-fairness-education"
-source_updated: "2026-11-06T02:15:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
 
-Bias og urettferdighet i utdannings-AI er ikke ett problem. Forskningen i denne kunnskapsbasen dokumenterer bias som kommer inn på nesten hvert stadium i et systems liv — treningsdata, modellatferd, [[prompt-engineering|prompter]], scoring, tilbakemelding, tildelingsbeslutninger og infrastrukturen under dem — og den rammer lærere, utviklere, forskere og administratorer ulikt. Mønsteret på tvers er konsistent nok til å si det rett ut: spør etter tall per undergruppe, ikke gjennomsnitt; definer «vanskeligstilt» etter utfall, ikke etter gruppestørrelse; og behandle rettferdighet som noe du designer og reviderer, ikke noe du skrur på etterpå.
+Bias og urettferdighet i utdannings-AI er ikke ett problem. Forskningen dokumenterer bias som kommer inn på nesten hvert stadium i et systems liv — treningsdata, modellatferd, [[prompt-engineering|prompter]], scoring, tilbakemelding, tildelingsbeslutninger og infrastrukturen under dem — og den rammer lærere, utviklere, forskere og administratorer ulikt. Mønsteret på tvers er konsistent nok til å si det rett ut: spør etter tall per undergruppe, ikke gjennomsnitt; definer «vanskeligstilt» etter utfall, ikke etter gruppestørrelse; og behandle rettferdighet som noe du designer og reviderer, ikke noe du skrur på etterpå.
 
 ## Hvor bias og urettferdighet dukker opp
 
@@ -56,8 +56,8 @@ Bias og urettferdighet i utdannings-AI er ikke ett problem. Forskningen i denne 
 
 **Post-hoc paritetsfikser.** Hvert inngrep i tidligvarslingsstudien omfordelte feil, korrigerte de allerede begunstigede eller oppnådde paritet ved å gjøre en gruppe mindre synlig. Å reparere rørledningen slår å lappe outputen.
 
-**Én motvirkning gjort én gang.** Skjevhet kommer inn igjen gjennom data, prompter, scoring og utrulling; forskningen viser komplementære strategier (rettferdige treningsmål, promptdesign, dialektinvarians, scoring som skiller forståelse fra språk, forklarbarhet, menneskelig tilsyn) nettopp fordi ingen enkelt fiks dekker hele rørledningen ([[bias-mitigation]]).
+**Én motvirkning gjort én gang.** Skjevhet kommer inn igjen gjennom data, prompter, scoring og utrulling; forskningen viser komplementære strategier (rettferdige treningsmål, promptdesign, dialektinvarians, scoring som skiller forståelse fra språk, forklarbarhet, menneskelig tilsyn) nettopp fordi ingen enkelt fiks dekker hele rørledningen ([[bias-mitigation|motvirkning av skjevhet]]).
 
 ## Hvor du kan gå dypere
 
-Siden [[bias-mitigation]] katalogiserer kilder og motvirkningstilnærminger på tvers av rørledningen; [[equity-in-ai-education]] dekker dimensjonene tilgang, representasjon og utfall med evidens for hver; [[automation-bias]] dekker feilen på lesersiden — å overta en skjev eller bare feil anbefaling; og [[differential-effects-across-learner-groups]] samler studiene som sporer hvordan samme verktøy lander ulikt på ulike grupper.
+Siden [[bias-mitigation|motvirkning av skjevhet]] katalogiserer kilder og motvirkningstilnærminger på tvers av rørledningen; [[equity-in-ai-education|rettferdighet]] dekker dimensjonene tilgang, representasjon og utfall med evidens for hver; [[automation-bias|automatiseringsbias]] dekker feilen på lesersiden — å overta en skjev eller bare feil anbefaling; og [[differential-effects-across-learner-groups|differensielle effekter på tvers av elevgrupper]] samler studiene som sporer hvordan samme verktøy lander ulikt på ulike grupper.

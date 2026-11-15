@@ -1,7 +1,7 @@
 ---
 title: "Hvordan kan vi håndtere vanlige misoppfatninger om AI i utdanningen?"
 created: "2026-09-04T04:39:00-04:00"
-connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
+connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]
 technology: [prompt-engineering]
@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:28:16-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ Her er svaret, i ett åndedrag: den pedagogiske effekten av AI avhenger av hvem 
 
 ## Avgjør hva som teller som bevis for at læring har skjedd
 
-Fem oppfatninger avgjør om resten av denne siden betyr noe. Hver av dem tar et ekte signal og leser en konklusjon inn i det som signalet ikke kan bære.
+Fem oppfatninger avgjør om resten av argumentet betyr noe. Hver av dem tar et ekte signal og leser en konklusjon inn i det som signalet ikke kan bære.
 
 ### «De gjorde det bedre med verktøyet åpent, så de lærte mer.»
 
@@ -66,7 +66,7 @@ Gjennomsnitt skjuler nettopp den variasjonen som avgjør et rettferdighetsspørs
 
 ### «En simulert student er en billig erstatning for en ekte.»
 
-Simulering er nyttig for prototyping, stresstesting og generering av scenarier, og den er ikke bevis om menneskelig læring før den er validert mot mennesker. En modell kan imitere språket til forvirring uten utholdenhet, motivasjon, forkunnskap, følelser eller utviklingsløp hos en lærende, og forskningen som wikiens oppsummerer, fant at simulerte studenter forlot en tildelt misoppfatning etter minimal korreksjon, noe som reiser tvil om de representerer begrepsendring i det hele tatt ([[simulating-students|Simulere studenter]], [[llm-student-simulation-misconception-faithfulness|Simulere studenter eller sykofantisk problemløsning?]]). Bruk dem til å finne feilene i prompten din før ekte studenter møter den, og behandle enhver påstand om lærende som uvalidert.
+Simulering er nyttig for prototyping, stresstesting og generering av scenarier, og den er ikke bevis om menneskelig læring før den er validert mot mennesker. En modell kan imitere språket til forvirring uten utholdenhet, motivasjon, forkunnskap, følelser eller utviklingsløp hos en lærende, og forskning på simulerte studenter fant at forlot en tildelt misoppfatning etter minimal korreksjon, noe som reiser tvil om de representerer begrepsendring i det hele tatt ([[simulating-students|Simulere studenter]], [[llm-student-simulation-misconception-faithfulness|Simulere studenter eller sykofantisk problemløsning?]]). Bruk dem til å finne feilene i prompten din før ekte studenter møter den, og behandle enhver påstand om lærende som uvalidert.
 
 ## Sett AI-betingelsen ved trinnet som bærer læringen
 
@@ -140,7 +140,7 @@ Pålitelighet er konsistens, validitet er om tolkningen og bruken av scoren er b
 
 ### «Én veloppdragen samtale viser at veilederen er trygg.»
 
-Pedagogisk skade akkumuleres gjennom en interaksjon. Et system kan svare passende på én prompt og deretter, over flere runder, begynne å levere svar, forsterke en misoppfatning, oppmuntre til avhengighet eller gli ut av veilederrollen sin. SafeTutors-benchmarken som wikiens oppsummerer, fant at pedagogiske skadefeil økte kraftig når systemer ble evaluert over flere runder i stedet for i én utveksling ([[hazra-safetutors-pedagogical-safety-2026|sikkerhet for AI-veiledere og pedagogisk skade]]). Krev vedvarende samtaler, gjentatte studentfeil, forsøk på å få direkte svar, følelsesmessige og relasjonelle scenarier, fiendtlig prompting og et mål på avhengighet over tid. Benchmarkbevis av denne typen er ikke et estimat for klasseromslæring, og det er minimumet en sikkerhetspåstand bør hvile på.
+Pedagogisk skade akkumuleres gjennom en interaksjon. Et system kan svare passende på én prompt og deretter, over flere runder, begynne å levere svar, forsterke en misoppfatning, oppmuntre til avhengighet eller gli ut av veilederrollen sin. SafeTutors-benchmarken fant at pedagogiske skadefeil økte kraftig når systemer ble evaluert over flere runder i stedet for i én utveksling ([[hazra-safetutors-pedagogical-safety-2026|sikkerhet for AI-veiledere og pedagogisk skade]]). Krev vedvarende samtaler, gjentatte studentfeil, forsøk på å få direkte svar, følelsesmessige og relasjonelle scenarier, fiendtlig prompting og et mål på avhengighet over tid. Benchmarkbevis av denne typen er ikke et estimat for klasseromslæring, og det er minimumet en sikkerhetspåstand bør hvile på.
 
 ### «Menneskelig gjennomgang er en midlertidig lapp til modellene blir bedre.»
 
@@ -200,7 +200,7 @@ Output er promptsensitivt og ofte ikke-deterministisk, så små endringer i ordl
 
 ### «Unge er allerede AI-kompetente fordi de er digitale innfødte.»
 
-Kjennskap til digitale produkter er ikke evnen til å vurdere AI. En student kan åpne en chatbot, generere et bilde og be om et svar, og samtidig være ute av stand til å verifisere en påstand, oppdage fabrikkert evidens, oppdage bias eller sykofanti, beskytte personopplysninger, avgjøre hva som ikke skal delegeres, eller forklare hvordan AI formet arbeidet. Syntesen i wikien oppsummerer forskning der selvtillit med hverdagens teknologi ikke overførte seg til algoritmisk resonnering, teknologisk skapning eller kritisk vurdering av AI ([[digital-literacy-illusion|illusjonen om kompetanse]]). Kompetanse blir undervist og demonstrert; alder og bruksfrekvens gir den ikke.
+Kjennskap til digitale produkter er ikke evnen til å vurdere AI. En student kan åpne en chatbot, generere et bilde og be om et svar, og samtidig være ute av stand til å verifisere en påstand, oppdage fabrikkert evidens, oppdage bias eller sykofanti, beskytte personopplysninger, avgjøre hva som ikke skal delegeres, eller forklare hvordan AI formet arbeidet. Forskning viser at selvtillit med hverdagens teknologi ikke overførte seg til algoritmisk resonnering, teknologisk skapning eller kritisk vurdering av AI ([[digital-literacy-illusion|illusjonen om kompetanse]]). Kompetanse blir undervist og demonstrert; alder og bruksfrekvens gir den ikke.
 
 ### «Studenter som bruker AI, er late eller uærlige.»
 
@@ -228,7 +228,7 @@ Systemet kan produsere språk som høres oppmerksomt og støttende ut, og det ka
 
 ## Hva de som driver dette, tar feil om
 
-Misoppfatningene ovenfor tilhører publikumet siden er skrevet for. Disse tilhører dem som skriver notatet, og de er grunnen til at gode korreksjoner ikke lander.
+Det første settet tilhører målgruppen disse korreksjonene retter seg mot. Det andre tilhører dem som skriver notatet, og de er grunnen til at gode korreksjoner ikke lander.
 
 ### «Datadrevet betyr objektivt.»
 
@@ -258,7 +258,7 @@ Skam gir defensivitet og hemmelighold, og meldinger som «bare late studenter br
 
 Mekanikken er kort nok til å bruke i et fakultetsmøte. Navngi oppfatningen, si hvorfor den ser sann ut, avvis den klart, forklar feilen, gi den bedre modellen og overlever en anvendelse.
 
-Den gjennomarbeidede versjonen, som du kan tilpasse til ethvert punkt på denne siden:
+Den gjennomarbeidede versjonen, som du kan tilpasse til enhver misoppfatning på listen:
 
 > **Misoppfatning:** «En god AI-generert oppgave viser at studenten har lært.»
 > **Tilbakevisning:** «Det er ikke nødvendigvis sant. Produktet viser hva studenten og AI produserte sammen, men det avdekker ikke hvilket resonnement studenten utførte.»

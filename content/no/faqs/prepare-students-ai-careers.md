@@ -1,7 +1,7 @@
 ---
 title: "Hva bør studenter lære for yrker der AI er vanlig?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:16:50-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
@@ -48,6 +48,8 @@ Her er det korte svaret: undervis i hele den profesjonelle oppgaven, ikke i verk
 [[ithaka-sr-ai-skills-college-graduates-2026|Ithaka S+R-rapporten]] ba 500 lærere ved amerikanske fireårige college vurdere 26 ferdigheter fra et rammeverk som spenner over sju kategorier, og sammenlignet vurderingene med et panel av arbeidsgivere undersøkt av rammeverkets forfattere. Uenigheten er systematisk snarere enn tilfeldig: lærerne rangerte AI-ens grenser, kreditering og menneskelig ansvarlighet øverst, mens arbeidsgiverne rangerte arbeidsflytdesign, automatisering og menneske–AI-samarbeid høyere.
 
 To lesninger av det gapet er fristende, og begge er gale. Den første er at lærerne henger etter arbeidsmarkedet. Den andre er at arbeidsgivere vil ha lydighet. En mer nyttig lesning er at hver gruppe beskriver hver sin halvdel av den samme jobben, og en kandidat som bare kan den ene halvdelen, er dårlig forberedt til begge. En student som ikke kan forklare hvorfor et resultat er galt, er til ingen nytte for en arbeidsgiver som stoler på arbeidsflyten; en student som bare kan kritisere AI-resultater, er til ingen nytte for en arbeidsgiver som trenger at oppgaven blir fullført.
+
+Å gjøre et arbeidsgiversignal om til en endring i læreplanen er i seg selv en prosess med beslutningspunkter. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] foreslår seks stadier — sansing, validering med interessenter, programdiagnose, redesign av læreplanen, iverksetting og kapasitet, og gjennomgang av utfall — hvert med en navngitt beslutningsrett og et ansvarlig resultat, og begrenser AI til avgrensede støttefunksjoner som mønstergjenkjenning og kompetansekartlegging. Det er et forslag, ikke en evaluering, men det navngir trinnene en forespørsel fra et rådgivende organ vanligvis hopper over.
 
 Grensene i denne evidensen betyr noe. Dette er oppgitte prioriteringer fra undersøkelser, og rapporten viser ikke at noen emneplan gir bedre ansettelser, bedre prestasjoner eller bedre lønn. Det den gir deg, er en forsvarlig grunn til å spørre om studentene dine noen gang øver på å fullføre og kontrollere en AI-støttet arbeidsflyt, i motsetning til å diskutere den.
 
@@ -91,7 +93,7 @@ Velg de kravene fordi de støtter en oppgitt kapasitet, og si hvilken hver vurde
 
 Støttesiden har sin egen risiko. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei mfl. (2026)]] fant at [[generative-ai|GenAI]]-bruk var positivt assosiert med GenAI-avhengighet, og avhengighet negativt assosiert med både [[critical-thinking|kritisk tenkning]] og ansettbarhet i undersøkelsesmodellen deres. Det er en assosiasjon og ikke en kausal påstand, og den peker på designspørsmålet: et emne som bare vurderer støttet prestasjon, kan trenge opp den avhengigheten det rapporterer.
 
-Den samme logikken gjelder før studentene kommer inn på arbeidsmarkedet. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener mfl. (2026)]] modellerer AI-assistanse som en sekvens der ferdigheten vokser gjennom selvstendig øving og forvitrer når arbeidstakere godtar AI-svar. I modellen deres kan nybegynnere bli fanget på lav ferdighet og eksperter kan miste ferdighet selv mens nøyaktigheten i produksjonen holder seg høy, og strategiske arbeidstakere kan løse oppgaven selvstendig selv når AI-en er mer nøyaktig, fordi framtidig ferdighet har verdi. Artikkelen er teoretisk, ikke en intervensjon, men den skjerper læreplanspørsmålet: planlegg og belønn selvstendig øving i stedet for å anta at AI-assistert produksjon bygger kapasiteten til å føre tilsyn med arbeidet.
+Den samme logikken gjelder før studentene kommer inn på arbeidsmarkedet. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener mfl. (2026)]] modellerer AI-støtte som en sekvens der ferdigheten vokser gjennom selvstendig øving og forvitrer når arbeidstakere godtar AI-svarene. I modellen deres kan nybegynnere bli sittende fast på lav ferdighet, og eksperter kan miste ferdighet selv mens nøyaktigheten i resultatet holder seg høy, og strategiske arbeidstakere kan løse oppgaven selvstendig selv når AI-en er mer nøyaktig, fordi framtidig ferdighet har verdi. Artikkelen er teoretisk, ikke en intervensjon, men den skjerper læreplanspørsmålet: planlegg og belønn selvstendig øving i stedet for å anta at AI-støttet resultat bygger evnen til å føre tilsyn med arbeidet.
 
 
 For programgjennomgang, skill målene. Emneprestasjon, demonstrert AI-kompetanse, vurdering fra praksisveileder, ansettelsesstatus og jobbkvalitet er ulike utfall med ulike tidshorisonter, og en enkelt intervensjon kan ikke etablere alle. [[ai-literacy-evidence|Siden om AI-kompetanseevidens]] er den ærlige oversikten over hva intervensjonsstudier faktisk støtter.
@@ -126,6 +128,6 @@ Det som hjelper, er undersøkelse i den skalaen en student kan handle på: hvilk
 
 ## Hvor du kan gå videre
 
-[[career-development-and-readiness]] er begrepssiden for ansettbarhet, tilpasningsevne og arbeidsmarkedsviden, og [[ai-literacy]] dekker hva kompetanse betyr ut over verktøybetjening. For å bygge det inn i et bestemt emne, se [[incorporating-ai-literacy|å integrere AI-kompetanse]] og [[faculty-ai-competencies|hvilke kompetanser faglærere trenger]].
+[[career-development-and-readiness|Karriereutvikling og arbeidsberedskap]] er begrepssiden for ansettbarhet, tilpasningsevne og arbeidsmarkedsviden, og [[ai-literacy|AI-kompetanse]] dekker hva kompetanse betyr ut over verktøybetjening. For å bygge det inn i et bestemt emne, se [[incorporating-ai-literacy|å integrere AI-kompetanse]] og [[faculty-ai-competencies|hvilke kompetanser faglærere trenger]].
 
 For [[assessment|vurderingsdesignet]] som gjør støttet og selvstendig prestasjon skillbare, se [[redesign-assessment-ai-era|ny utforming av vurdering i AI-tiden]] og [[ai-grading-fairness-reliability|AI-vurdering]]. For hvordan du hindrer at støtte blir avhengighet, se [[reducing-over-reliance|å redusere overavhengighet]].

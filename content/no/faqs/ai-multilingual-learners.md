@@ -1,7 +1,7 @@
 ---
 title: "Hvordan kan AI støtte flerspråklige elever uten å feilvurdere kunnskapen deres eller slette stemmen deres?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:17:36-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
@@ -27,7 +27,7 @@ ai_assist:
 
 En student forstår begrepet og trenger fire minutter ekstra for å si det på engelsk. AI-en kan oversette oppgaven, definere terminologien, øve inn forklaringen sammen med studenten, eller skrive hele svaret. Tre av disse er undervisning. Én er å gjøre oppgaven.
 
-Her er det korte svaret: avgjør hva språket gjør i denne oppgaven før du avgjør hva verktøyet kan gjøre. Der språket er underordnet, kan AI fjerne en barriere som ikke har noe med konstruktet ditt å gjøre. Der språket er konstruktet, omgår det samme verktøyet læringen. Risikoen går begge veier samtidig: [[multilingual-learning|språkstøtte]] kan forbedre tilgangen, og [[automated-assessment|automatisert poenggiving]] kan fortsatt lese studenten feil. I én fysikkstudie ble forklaringer med lavere språklig kvalitet systematisk vurdert under ekspertskjønn av alle AI-tilnærmingene som ble testet, ni [[machine-learning|maskinlærings]]- og to språkmodellsystemer, blant 116 ungdomsskoleelever ([[ai-scoring-language-bias-physics|Feser og Tschisgale, 2026]]). Flyt og forståelse ble vurdert som én og samme ting.
+Her er det korte svaret: avgjør hva språket gjør i denne oppgaven før du avgjør hva verktøyet kan gjøre. Der språket er underordnet, kan AI fjerne en barriere som ikke har noe med konstruktet ditt å gjøre. Der språket er konstruktet, omgår det samme verktøyet læringen. Risikoen går begge veier samtidig: [[multilingual-learning|språkstøtte]] kan forbedre tilgangen, og [[automated-assessment|automatisert poenggiving]] kan fortsatt lese studenten feil. I én fysikkstudie ble forklaringer med lavere språklig kvalitet systematisk vurdert under ekspertskjønn av alle AI-tilnærmingene som ble testet, ni [[machine-learning|maskinlæringssystemer]] og to språkmodellsystemer, blant 116 ungdomsskoleelever ([[ai-scoring-language-bias-physics|Feser og Tschisgale, 2026]]). Flyt og forståelse ble vurdert som én og samme ting.
 
 ## Kortversjonen
 
@@ -51,11 +51,11 @@ Skriv beslutningen ned der studentene kan lese den. Hvis studentene kan oversett
 
 ## Hva forskningen støtter, og hva den ikke støtter
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez og Arabadzhy (2026)]] gjennomgikk 24 empiriske studier av generative [[conversational-ai|chatboter]] i [[language-learning|språklæring]]. Bidraget deres er taksonomisk: hver underanvendelse som ble katalogisert for pre-generative chatboter, består, og tre er nye, inkludert **translanguaging**, den bevisste bevegelsen mellom språk som en del av læringen. Det er et kart over rapporterte bruksmåter og erfaringer, ikke et samlet estimat, og materialet er geografisk konsentrert, med Kina, Iran, Taiwan og Türkiye som opphav til 19 av de 24 studiene og alle unntatt én innenfor formelle institusjoner. Støtte for å bruke tverrspråklig forklaring som et læretrekk er ikke støtte for å oversette hver oppgave.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez og Arabadzhy (2026)]] gjennomgikk 24 empiriske studier av generative [[conversational-ai|chatboter]] i [[language-learning|språklæring]]. Bidraget deres er taksonomisk: hver underanvendelse som ble katalogisert for pre-generative chatboter, består, og tre er nye, inkludert **translanguaging**, den bevisste bevegelsen mellom språk som en del av læringen. Det er et kart over rapporterte bruksmåter og erfaringer, ikke et samlet estimat, og studiene er geografisk konsentrerte, med Kina, Iran, Taiwan og Türkiye som opphav til 19 av de 24 studiene og alle unntatt én innenfor formelle institusjoner. Støtte for å bruke tverrspråklig forklaring som et læretrekk er ikke støtte for å oversette hver oppgave.
 
 Vurdering er der evidensen blir skarpere og innsatsen større. [[ai-scoring-language-bias-physics|Feser og Tschisgale (2026)]] sammenlignet elleve automatiserte poenggivingstilnærminger med menneskelige ekspertscore for 116 ungdomsskoleelevers fysikkforklaringer, og fant systematisk undervurdering av begrepsmessig forståelse for språklig svakere forklaringer, i hver eneste tilnærming. Designet isolerer mekanismen: det samme begrepsinnholdet, uttrykt i svakere prosa, fikk lavere score. Dette er ikke en påstand om noe bestemt lands flerspråklige elever, og det er nøyaktig mønsteret som gjør samlet poengsamstemthet til et dårlig diagnostisk verktøy. En poenggiver kan være enig med menneskelige sensorer i gjennomsnitt mens den tar feil i en konsistent retning for studentene hvis språk fortsatt er under utvikling.
 
-[[multilingual-learning]]-syntesen beskriver forskning på skrivescreening som viser flerspråklige prediktive biasmønstre som ligner menneskelige vurderingsbiaser. Les de tre funnene sammen, og den operative lærdommen er smal: verken «AI fjerner menneskelig bias» eller «AI legger til språklig bias» er en brukbar regel. Det du trenger, er en kontroll av oppgaven, populasjonen og språket, på det punktet der en poengsum blir en karakter.
+Syntesen om [[multilingual-learning|flerspråklig læring]] beskriver forskning på skrivescreening som viser flerspråklige prediktive biasmønstre som ligner menneskelige vurderingsbiaser. Les de tre funnene sammen, og den operative lærdommen er smal: verken «AI fjerner menneskelig bias» eller «AI legger til språklig bias» er en brukbar regel. Det du trenger, er en kontroll av oppgaven, populasjonen og språket, på det punktet der en poengsum blir en karakter.
 
 ## Gi verktøyet en spesifikk støtterolle
 
@@ -73,7 +73,7 @@ Dette er bruksmåter å prøve ut, ikke validerte intervensjoner. Et verktøy so
 
 ## Beskytt studentens mening og stemme
 
-Be om målrettet hjelp før du ber om en omskriving, for en fullstendig omskriving er der studentens tenkning forlater siden. En forespørsel verdt å lære bort: «Identifiser to steder der meningen min er uklar. Forklar problemet og tilby alternativer. Behold eksemplene mine og ikke legg til påstander.» Deretter velger studenten.
+Be om målrettet hjelp før du ber om en omskriving, for en fullstendig omskriving er der studentens tenkning forlater utkastet. En forespørsel verdt å lære bort: «Identifiser to steder der meningen min er uklar. Forklar problemet og tilby alternativer. Behold eksemplene mine og ikke legg til påstander.» Deretter velger studenten.
 
 En sekvens som holder arbeidet hos studenten:
 
@@ -120,6 +120,6 @@ Tilby brukbare alternativer. Studenter trenger en klar vei til menneskelig språ
 
 ## Hvor du kan gå videre
 
-[[multilingual-learning]] er begrepssiden for språk, translanguaging og vurdering i AI-formidlet undervisning, og [[assessment-validity|vurderingsvaliditet]] er standarden for om en poengsum støtter slutningen du trekker. [[differential-effects-across-learner-groups]] dekker hvordan du leter etter undergruppemønstre i stedet for å anta dem.
+[[multilingual-learning|Flerspråklig læring]] er begrepssiden for språk, translanguaging og vurdering i AI-formidlet undervisning, og [[assessment-validity|vurderingsvaliditet]] er standarden for om en poengsum støtter slutningen du trekker. [[differential-effects-across-learner-groups|Differensielle effekter på tvers av elevgrupper]] dekker hvordan du leter etter undergruppemønstre i stedet for å anta dem.
 
 For skriveopplæringstilfellet der språket er konstruktet, se [[writing-instruction-ai-best-practices|beste praksis for skriveopplæring]]. For om automatisert poenggiving kan stoles på i det hele tatt i din sammenheng, se [[ai-grading-fairness-reliability|AI-vurdering]] og [[checking-whether-educational-ai-works|om en pedagogisk AI faktisk virker]].

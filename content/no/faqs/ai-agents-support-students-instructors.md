@@ -6,9 +6,9 @@ weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-updated: "2026-10-29T15:11:34-04:00"
+updated: "2026-11-15T16:28:16-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ En [[agentic-ai|agent]] planlegger, kaller verktøy, holder på kontekst, deler 
 
 [[agentic-workflows-education|Agentiske arbeidsflyter i utdanning]] navngir fire tilbakevendende evner: refleksjon, planlegging, verktøybruk og multiagent-samarbeid. Hver av dem legger til en kostnad ved siden av muligheten, i [[explainable-ai|forklarbarhet]], koordinering, [[trust-calibration|tillit]], ventetid og tilsyn.
 
-Rollene på studentsiden går fra [[adaptive-learning|adaptiv]] veiledning og studieplanlegging, gjennom [[formative-assessment|formativ]] tilbakemelding, guidet [[problem-solving|problemløsning]] og oppgavegenerering, til anbefalinger om forkunnskaper og refleksiv, [[metacognition|metakognitiv]] [[prompt-engineering|prompting]]. Rollene på undervisersiden dekker materialutvikling, [[automated-question-generation|spørsmålsgenerering]] og validering, triagering av tilbakemelding, [[learning-analytics|kursanalyser]], undervisningsdesign, gjenfinning av ressurser og orkestrering av spesialiserte delagenter.
+Rollene på studentsiden går fra [[adaptive-learning|adaptiv]] veiledning og studieplanlegging, gjennom [[formative-assessment|formativ]] tilbakemelding, guidet [[problem-solving|problemløsning]] og oppgavegenerering, til anbefalinger om forkunnskaper og refleksiv, [[metacognition|metakognitiv]] [[prompt-engineering|prompting]]. Rollene på undervisersiden dekker materialutvikling, [[automated-question-generation|spørsmålsgenerering]] og validering, triagering av tilbakemelding, [[learning-analytics|kursanalyser]], [[learning-design|undervisningsdesign]], gjenfinning av ressurser og orkestrering av spesialiserte delagenter.
 
 To av disse er tryggere tidlig, fordi begge produserer en artefakt et menneske leser før studentene gjør det: en spørsmålsgenerator koblet til en validator, og utkastskriving som en lærer redigerer.
 

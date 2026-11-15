@@ -12,9 +12,9 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T15:11:34-04:00"
+updated: "2026-11-15T16:28:17-05:00"
 translation_of: faqs/developing-ai-tutor
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ Tre lister, skrevet før noen velger en modell:
 
 Litteraturen om [[intelligent-tutoring|intelligent veiledning]] gjør poenget at effektivitet avhenger av [[pedagogy|pedagogisk]] design og ikke av modellkapasitet alene, og svikten er lett å bygge ved et uhell. En tutor som er optimalisert for «fullfør problemet», vil undergrave en tutor som er optimalisert for «lær å løse problemet», samtidig som den består hver funksjonstest du skriver, fordi begge produserer riktige sluttresultater. Forskjellen ligger i hva studenten gjorde mellom spørsmålet og svaret.
 
-Den andre listen er der utviklingsteam blir konkrete. Ta en mestringsetikett som «mestring av derivasjon» og nekt å la den bety å produsere den riktige deriverte. Del den opp i å gjenkjenne når en derivert er relevant, tolke den som en momentan endringsrate, velge regelen, gjennomføre prosedyren, forklare hvorfor valget var riktig, kontrollere om svaret er rimelig, og anvende det på et ukjent problem. Hver av disse er en egen ting å logge, og hver av dem tilsier en annen respons når den mangler. Denne oppdelingen er også forsvaret mot [[correct-answer-trap-misconceptions|fellen med det riktige svaret]], der en student når riktig svar gjennom feil resonnement og analysene dine registrerer en suksess. [[correct-answer-trap-ai-tutor|Å fange fellen med det riktige svaret]] og [[zhang-tutormoments-2026|Når hjelp ikke hjelper]] beskriver begge versjoner av denne svikten i produksjon.
+Den andre listen er der utviklingsteam blir konkrete. Ta en mestringsetikett som «mestring av derivasjon» og nekt å la den bety å produsere den riktige deriverte. Del den opp i å gjenkjenne når en derivert er relevant, tolke den som en momentan endringsrate, velge regelen, gjennomføre prosedyren, forklare hvorfor valget var riktig, kontrollere om svaret er rimelig, og anvende det på et ukjent problem. Hver av disse er en egen ting å logge, og hver av dem tilsier en annen respons når den mangler. Denne oppdelingen er også forsvaret mot [[correct-answer-trap-misconceptions|fellen med det riktige svaret]], der en student når riktig svar gjennom feil resonnement og [[learning-analytics|analysene dine]] registrerer en suksess. [[correct-answer-trap-ai-tutor|Å fange fellen med det riktige svaret]] og [[zhang-tutormoments-2026|Når hjelp ikke hjelper]] beskriver begge versjoner av denne svikten i produksjon.
 
 ## Bygg studentmodellen før samtalen
 
@@ -100,7 +100,7 @@ For områder med formelt kontrollerbare svar, legg til deterministiske verktøy:
 
 ## Krev at studenten handler på tilbakemeldingen
 
-Tilbakemelding som sier «Riktig», «Feil» eller «Godt jobbet», er en scoringshendelse i undervisningens grensesnitt. Kunnskapsbasen behandler [[feedback|tilbakemelding]] som en sløyfe av tilbud og opptak: tilbakemelding støtter læring når studentene forstår den og handler på den, og den andre halvdelen er den halvdelen systemene vanligvis hopper over. Bygg tutoren slik at den navngir resonnementsteget som er involvert, sier hva som må revurderes, gir én konkret neste handling, og ber studenten forutsi eller forklare før tilbakemeldingen avsløres.
+Tilbakemelding som sier «Riktig», «Feil» eller «Godt jobbet», er en scoringshendelse i undervisningens grensesnitt. [[feedback|Tilbakemelding]] behandles her som en sløyfe av tilbud og opptak: tilbakemelding støtter læring når studentene forstår den og handler på den, og den andre halvdelen er den halvdelen systemene vanligvis hopper over. Bygg tutoren slik at den navngir resonnementsteget som er involvert, sier hva som må revurderes, gir én konkret neste handling, og ber studenten forutsi eller forklare før tilbakemeldingen avsløres.
 
 Sekvensen som bærer dette, er student først, AI andre, student igjen. Studenten genererer, velger, begrunner, vurderer eller reflekterer; tutoren svarer; studenten gjør noe med svaret. Design turstrukturen slik at dette ikke er valgfritt. Et system der modellen kan produsere tre avsnitt som svar på ett spørsmål, lærer studenten å spørre og lese.
 
@@ -114,7 +114,7 @@ Test for lekket svar, forsterkning av misoppfatninger, overdreven enighet, upass
 
 ## Sett dataarkitekturen i samme designdokument
 
-Samle bare studentdata som er pedagogisk nødvendige, og vær i stand til å si hvorfor hvert felt finnes. Der du har vedvarende minne eller en [[student-modeling|studentmodell]], gjør formålet synlig for studenten, gi dem passende kontroll over den, beskytt sensitiv informasjon, definer lagringstid, og ruter beslutninger med konsekvenser til en instruktør eller et annet [[human-in-the-loop-ai|menneskelig]] kontrollpunkt. En studentmodell som stille akkumulerer et konfidensanslag studenten aldri ser, er et personvernproblem og et pedagogisk problem.
+Samle bare studentdata som er pedagogisk nødvendige, og vær i stand til å si hvorfor hvert felt finnes. Der du har vedvarende minne eller en [[student-modeling|studentmodell]], gjør formålet synlig for studenten, gi dem passende kontroll over den, beskytt sensitiv informasjon, definer lagringstid, og ruter beslutninger med konsekvenser til en instruktør eller et annet [[human-in-the-loop-ai|menneskelig]] kontrollpunkt. En studentmodell som stille akkumulerer et konfidensanslag studenten aldri ser, er et [[privacy|personvernproblem]] og et pedagogisk problem.
 
 Revider atferd på tvers av språkbakgrunner, ferdighetsnivåer, kulturelle kontekster, [[accessibility|tilgjengelighetsbehov]] og nivåer av [[prior-knowledge|forkunnskap]] og AI-erfaring. Ulik ytelse på samme mål er en feil med en student festet til seg, og den vil ikke dukke opp i ditt samlede nøyaktighetstall.
 
@@ -152,7 +152,7 @@ En kalkulustutor for første semester på universitetet bør heve det studentene
 
 ## Tilfelle to: en skrivecoach, der fasen avgjør tillatelsen
 
-Skriving har ikke ett riktig svar, så verifisering er skjønn og designarbeidet flytter seg til fasestyring. Kunnskapsbasen rammer inn skriving som en kognitiv, sosial og retorisk prosess, som betyr at et AI-skrivesystem kan støtte læring og også kan eliminere nøyaktig den tenkningen oppgaven fantes for å utvikle ([[writing-education|skriveopplæring]], [[coach-not-crutch-ai-writing|Coach, ikke krykke]]).
+Skriving har ikke ett riktig svar, så verifisering er skjønn og designarbeidet flytter seg til fasestyring. Skriving rammes inn som en kognitiv, sosial og retorisk prosess, som betyr at et AI-skrivesystem kan støtte læring og også kan eliminere nøyaktig den tenkningen oppgaven fantes for å utvikle ([[writing-education|skriveopplæring]], [[coach-not-crutch-ai-writing|Coach, ikke krykke]]).
 
 **En kompetansemodell.** Følg med på argument (tesens presisjon, samsvar mellom påstand og belegg, motargument), organisering (avsnittets fokus, logisk framdrift, overganger), belegg (kildens relevans, integrering, tolkning), revisjon (global revisjon og revisjon på setningsnivå, vurdering av tilbakemelding) og stil (klarhet, grammatikk, stemme). Hver av disse blir et eget signal i studentmodellen, som er det som i det hele tatt gjør målrettet tilbakemelding mulig.
 
@@ -209,11 +209,11 @@ Engasjement er målet. Samtalelengde og antall økter er de billigste målene å
 
 **«Studentene elsker det, og fullføringen er oppe.»** Begge fakta er forenlige med et system som svarer godt på spørsmål og ikke lærer bort noe. Studien med 6 000 studenter fant saktere framgang og færre forsøkte spørsmål sammen med bedre nøyaktighet, så en nedgang i fullføring er heller ikke automatisk dårlig nytt. Rapporter ytelse uten hjelp ved siden av engasjementstallene, og la de to være uenige offentlig.
 
-**«Vi kan ikke kjøre en randomisert studie.»** Du kan kjøre en sammenligning innen samme student uten en: samme mål, assistert i løpet av enheten, testet uten hjelp to uker senere, med den assisterte scoren rapportert ved siden av. Det designet svarer på produktspørsmålet og trenger ingen kontrollarm. Det det ikke kan fortelle deg, er kontrafaktisk for studenter som aldri brukte tutoren.
+**«Vi kan ikke kjøre en [[rct|randomisert studie]].»** Du kan kjøre en sammenligning innen samme student uten en: samme mål, assistert i løpet av enheten, testet uten hjelp to uker senere, med den assisterte scoren rapportert ved siden av. Det designet svarer på produktspørsmålet og trenger ingen kontrollarm. Det det ikke kan fortelle deg, er kontrafaktisk for studenter som aldri brukte tutoren.
 
-**«Modellen er en leverandør-API, så hjelpeatferden er utenfor vår kontroll.»** Trinnene bor i ditt eget orkestreringslag, og resultatet i eksperimentet med sikkerhetsmekanismer kom fra å endre hva tutoren fikk lov til å si, ikke fra å bytte modell. Forvent at leverandørens ettertrening trekker mot å svare raskt, fordi hjelpsomhet er det den er tunet for, og legg tilbakeholdenheten inn i din egen kode.
+**«Modellen er en leverandør-API, så hjelpeatferden er utenfor vår kontroll.»** Trinnene bor i ditt eget orkestreringslag, og resultatet i eksperimentet med sikkerhetsmekanismer kom fra å endre hva tutoren fikk lov til å si, ikke fra å bytte modell. Forvent at leverandørens [[llm-training-and-fine-tuning|ettertrening]] trekker mot å svare raskt, fordi hjelpsomhet er det den er tunet for, og legg tilbakeholdenheten inn i din egen kode.
 
-**«Lærerne vil ikke bruke nok et dashbord.»** De vil ikke bruke et som sender ut kontinuerlig diagnostikk, som K-12-gjennomgangen fant trakk oppmerksomheten bort fra deres egen observasjon. Gi dem et lite antall tolkbare signaler, en måte å godta eller avvise hver anbefaling på, og tid i uken til å se på dem.
+**«Lærerne vil ikke bruke nok et dashbord.»** De vil ikke bruke et som sender ut kontinuerlig diagnostikk, som [[k-12|K-12]]-gjennomgangen fant trakk oppmerksomheten bort fra deres egen observasjon. Gi dem et lite antall tolkbare signaler, en måte å godta eller avvise hver anbefaling på, og tid i uken til å se på dem.
 
 **«Vi har ikke fageksperter på huset.»** Da vil tutoren undervise i generisk metode, og kursets notasjon vil drifte i løpet av en termin. En fagekspert i to dager i designfasen, som skriver misoppfatningslisten og listen over godkjente metoder, er den billigste posten i prosjektet og den teamene kutter først.
 

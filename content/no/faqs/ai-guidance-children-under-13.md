@@ -12,9 +12,9 @@ research_method: [literature review, experiment]
 audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:19:33-05:00"
 translation_of: faqs/ai-guidance-children-under-13
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Leverandørens vilkår sier at verktøyet er for brukere fra 13 år og oppover. 
 
 Tre spørsmål er filtret sammen i den forespørselen: hva en seksåring kan gjøre med disse systemene, hva skolen skylder familier hvis barn møter AI hjemme, og hva man gjør når et forbud ikke er svaret man kan forsvare.
 
-Det korte svaret du kan gi styret: trinnvis tilgang etter alder, lær barna hvordan disse systemene er bygget før du gir dem ett, og hold en voksen i loopen der barnet ikke kan vurdere resultatet. Et generelt forbud er alternativet med minst belegg bak seg. Det finnes ingen studie av aldersbaserte forbud i denne kunnskapsbasen, og mesteparten av eksponeringen i denne aldersgruppen skjer hjemme, der en skoleregel ikke rekker.
+Det korte svaret du kan gi styret: trinnvis tilgang etter alder, lær barna hvordan disse systemene er bygget før du gir dem ett, og hold en voksen i loopen der barnet ikke kan vurdere resultatet. Et generelt forbud er alternativet med minst belegg bak seg. Det finnes ingen studie av aldersbaserte forbud, og mesteparten av eksponeringen i denne aldersgruppen skjer hjemme, der en skoleregel ikke rekker.
 
 ## Kortversjonen
 
@@ -126,7 +126,7 @@ For dette aldersbåndet oversettes det til en sekvens: om og ved å forme først
 
 Et styrepaper kan love en revisjonsdato og en definisjon av suksess skolen faktisk kan kontrollere: gjennomførte leksjoner, lærere som kan svare på en forelders spørsmål, dataspørsmål besvart skriftlig. Å hevde en læringsgevinst ville overskride hver studie som er sitert her.
 
-Det finnes ingen studie av aldersbaserte forbud i denne kunnskapsbasen. Ingenting her kan avgjøre om forbudene som nå dukker opp i enkelte skolesystemer virker, og den ærlige versjonen av den setningen hører hjemme i styrepaperet ditt. Det belegget derimot viser, er at alternativet til et forbud ikke er laissez-faire. [[moral-panic-genai-classroom|Studien av GenAI-tilgjengelighet kontra integrasjon]] fant at å gjøre GenAI tilgjengelig uten å lære studentene hvordan de bruker det, var assosiert med signifikant lavere prestasjon på anvendte spørsmål (ω² = 0,35), mens eksplisitt undervisning i bruken for oppgaver som oppsummering returnerte anvendt prestasjon til nivået før GenAI og overgikk utgangspunktet på én vanskeligere quiz. Dette aldersbåndet kan undervises: fjerdeklasseprogrammet over ga effekter på *d* = 1,12 til 1,31.
+Det finnes ingen studie av aldersbaserte forbud. Ingenting her kan avgjøre om forbudene som nå dukker opp i enkelte skolesystemer virker, og den ærlige versjonen av den setningen hører hjemme i styrepaperet ditt. Det belegget derimot viser, er at alternativet til et forbud ikke er laissez-faire. [[moral-panic-genai-classroom|Studien av GenAI-tilgjengelighet kontra integrasjon]] fant at å gjøre GenAI tilgjengelig uten å lære studentene hvordan de bruker det, var assosiert med signifikant lavere prestasjon på anvendte spørsmål (ω² = 0,35), mens eksplisitt undervisning i bruken for oppgaver som oppsummering returnerte anvendt prestasjon til nivået før GenAI og overgikk utgangspunktet på én vanskeligere quiz. Dette aldersbåndet kan undervises: fjerdeklasseprogrammet over ga effekter på *d* = 1,12 til 1,31.
 
 ## Hva skoler gjør galt
 

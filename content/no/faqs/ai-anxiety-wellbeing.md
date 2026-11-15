@@ -9,9 +9,9 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:28:16-05:00"
 translation_of: faqs/ai-anxiety-wellbeing
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -61,7 +61,7 @@ Ingen i denne litteraturen testet den pakken mot en kontrollgruppe. Anbefalingen
 
 Angst og engasjement kan bevege seg sammen, og det endrer hva du prøver å oppnå. I en undersøkelse med 107 studenter fant [[ai-anxiety-strategic-regulation-writing-2026|Kim (2026)]] at høyere AI-angst var positivt knyttet til verifiserings- og revisjonsatferd (β = 0,24, p < 0,01), og at vurderingsevne forutsa aktivt engasjement (β = 0,46, p < 0,001). Studentene fordelte seg i fire reguleringstyper: ukritisk avhengighet (18,7 %), selektiv integrasjon (34,6 %), evaluativ transformasjon (31,8 %) og strategisk avvisning (14,9 %).
 
-Hvis angst kan følge med den mer forsiktige atferden, er det å redusere følelsen feil mål. Å undervise i gransking og [[evaluative-judgment|vurderingsskjønn]] gjør en engstelig student om til en bevisst bruker av [[generative-ai|generativ AI]] snarere enn en unnvikende. Den vanen er temaet i [[verify-ai-output|å lære studenter å verifisere AI-output]], og [[ai-literacy]] er den bredere rammen den sitter i.
+Hvis angst kan følge med den mer forsiktige atferden, er det å redusere følelsen feil mål. Å undervise i gransking og [[evaluative-judgment|vurderingsskjønn]] gjør en engstelig student om til en bevisst bruker av [[generative-ai|generativ AI]] snarere enn en unnvikende. Den vanen er temaet i [[verify-ai-output|å lære studenter å verifisere AI-output]], og [[ai-literacy|AI-kompetanse]] er den bredere rammen den sitter i.
 
 ## Sett karrierespørsmålet i rommet
 
@@ -87,7 +87,7 @@ En [[conversational-ai|chatbot]] rettet mot studenter appellerer mest til de stu
 
 Det de innrømmer, betyr mer enn nøyaktighetstallet. En [[machine-learning|trent klassifiserer]] avgjør støttenivået, og hva som skjer ved en skadelig feilklassifisering, hvordan det studenten åpner seg om, lagres, hvilke [[privacy|personvern]]beskyttelser som gjelder, og hvordan eskalering til menneskelig veiledning fungerer, er alt sammen overlatt åpent. Grensen mellom [[human-in-the-loop-ai|menneskelig tilsyn]] og automatisert oppmuntring er fortsatt et designspørsmål. Systemet presenteres ikke som klinisk eller terapeutisk, og dialoglaget ble sjekket med simulerte input og uformell [[usability-research|brukertesting]] snarere enn med studenter, på kulturell egnethet, emosjonell trygghet eller tilfredshet. Det finnes ingen data om studentutfall i det hele tatt.
 
-Det samme mønsteret går igjen i den bredere verktøylitteraturen. En avhandling om AI-drevne trivselsverktøy på campus ([[ai-campus-wellbeing-tools|Tang, 2026]]) rapporterer en spørrechatbot (TigerGPT) som nådde 75 % brukbarhet og 81 % tilfredshet, og et adaptivt oppfølgingsrammeverk (AURA) som ga en gjennomsnittlig kvalitetsgevinst på +0,12 (p = 0,044, d = 0,66) ved å bruke [[reinforcement-learning|forsterkningslæring]] til å velge om det skal validere, spesifisere, speile eller sondere. Den beskriver også en komponent for psykisk helsevurdering som er forankret i DSM-5 og PHQ-8-retningslinjer snarere enn svart boks-klassifisering, og en stablet multimodellarkitektur som hevdes å kutte [[hallucination-risk|hallusinasjonsrisiko]] og overgå enkeltmodeller på [[benchmark]]en DAIC-WOZ. Dette er systemutviklingsresultater. De måler om verktøyet gjør det det ble designet for, ikke om en students [[well-being|trivsel]] ble bedre. Tallet 89,09 % kommer fra ett enkelt avsatt utvalg, på treningsdata som ikke er representative for pakistanske studenter, i et system bygget på engelsk med innlagte urdu-uttrykk.
+Det samme mønsteret går igjen i den bredere verktøylitteraturen. En avhandling om AI-drevne trivselsverktøy på campus ([[ai-campus-wellbeing-tools|Tang, 2026]]) rapporterer en spørrechatbot (TigerGPT) som nådde 75 % brukbarhet og 81 % tilfredshet, og et adaptivt oppfølgingsrammeverk (AURA) som ga en gjennomsnittlig kvalitetsgevinst på +0,12 (p = 0,044, d = 0,66) ved å bruke [[reinforcement-learning|forsterkningslæring]] til å velge om det skal validere, spesifisere, speile eller sondere. Den beskriver også en komponent for psykisk helsevurdering som er forankret i DSM-5 og PHQ-8-retningslinjer snarere enn svart boks-klassifisering, og en stablet multimodellarkitektur som hevdes å kutte [[hallucination-risk|hallusinasjonsrisiko]] og overgå enkeltmodeller på [[benchmark|benchmarken]] DAIC-WOZ. Dette er systemutviklingsresultater. De måler om verktøyet gjør det det ble designet for, ikke om en students [[well-being|trivsel]] ble bedre. Tallet 89,09 % kommer fra ett enkelt avsatt utvalg, på treningsdata som ikke er representative for pakistanske studenter, i et system bygget på engelsk med innlagte urdu-uttrykk.
 
 ## Sett forutsetningene emnet ikke kan
 
@@ -105,7 +105,7 @@ Målet er å få angsten ned. Kim (2026) fant at angst var positivt knyttet til 
 
 Selvtillit beskytter studentene mot karriereskaden. I modellen til Duan et al. bufret [[self-efficacy|mestringstro]] den ikke. Karrierefleksibilitet bar den medierte banen.
 
-Dette er et problem for [[student-support-and-success|studenttjenestene]]. Mesteparten av grepene på denne siden er undervisningsmessige: øvelse med lav innsats, veiledet vurdering av AI-output, tilbakemeldingsdrevet revisjon, og en erklæring om forventninger som studentene kan lese. Å kjenne henvisningsveien er ett element blant dem.
+Dette er et problem for [[student-support-and-success|studenttjenestene]]. Mesteparten av grepene er undervisningsmessige: øvelse med lav innsats, veiledet vurdering av AI-output, tilbakemeldingsdrevet revisjon, og en erklæring om forventninger som studentene kan lese. Å kjenne henvisningsveien er ett element blant dem.
 
 En trivselschatbot er det skalerbare svaret på tynn veiledningskapasitet. Tilgjengeligheten er reell og appellen er forståelig. Nøyaktighet på ett avsatt utvalg er ikke evidens for at en student i belastning har det bedre, og spørsmålene om feilklassifisering, lagring og eskalering har ingen publiserte svar i arbeidet som siteres her.
 
@@ -117,7 +117,7 @@ En trivselschatbot er det skalerbare svaret på tynn veiledningskapasitet. Tilgj
 
 **«Jeg er faglærer, ikke veileder.»** Ingen ber deg behandle noen. Øvelse med lav innsats, en kritikkoppgave og en revisjonssløyfe er vanlige undervisningsgrep. Det ene funnet som taler til posisjonen din, er at lærer-student-relasjonen ligger på andreplass i Bashir og Afzals analyse av variabelviktighet (10,0 %), over søvnkvalitet (9,3 %) og sosial støtte (7,6 %). Forfatterne kaller det en hypotese, og det er et rimelig veddemål for en rolle du allerede har.
 
-**«Vi har ingen veiledningskapasitet, så et verktøy er bedre enn ingenting.»** Muligens, og denne siden kan ikke avgjøre det. Det du kan insistere på før utrulling, er skriftlige svar på validering av nøyaktighet, hvordan støttenivået avgjøres, hva som skjer ved en skadelig feilklassifisering, hvordan det som åpnes lagres, og hvordan eskalering til et menneske fungerer. Ingen svar, ingen utrulling. En student som åpner seg for et verktøy som arkiverer det feil, åpner seg kanskje ikke igjen.
+**«Vi har ingen veiledningskapasitet, så et verktøy er bedre enn ingenting.»** Muligens, og evidensen kan ikke avgjøre det. Det du kan insistere på før utrulling, er skriftlige svar på validering av nøyaktighet, hvordan støttenivået avgjøres, hva som skjer ved en skadelig feilklassifisering, hvordan det som åpnes lagres, og hvordan eskalering til et menneske fungerer. Ingen svar, ingen utrulling. En student som åpner seg for et verktøy som arkiverer det feil, åpner seg kanskje ikke igjen.
 
 **«Hvis jeg tar opp karrieremuligheter i timen, går jeg ut over faget mitt.»** Alternativet er at studentene setter sammen svaret sitt fra arbeidsmarkedet og fra hverandre. Duan et al. anbefaler karriereplanlegging som del av studieprogrammet, og Dağ et al. anbefaler det sammen med AI-kompetanse. Du kan huse samtalen uten å hevde ekspertise på den, og sende enkeltsakene til karrieretjenesten.
 
@@ -135,4 +135,4 @@ En trivselschatbot er det skalerbare svaret på tynn veiledningskapasitet. Tilgj
 
 ## Hvor du kan gå videre
 
-[[anxiety-and-stress]] er den konseptuelle behandlingen av følelsen selv, inkludert eksamensstress, den produktive siden av angst og underviserangst. [[well-being]] dekker innrammingen av positiv tilstand på tvers av emosjonelle, psykologiske og sosiale dimensjoner. For det omkringliggende bildet håndterer [[how-ai-impacts-students]] den generelle påvirkningen AI har på studenter, og [[redesign-assessment-ai-era]] dekker vurderingssiden av en institusjonell respons. [[career-development-and-readiness]] er der karriereargumentet fortsetter.
+[[anxiety-and-stress|Angst]] er den konseptuelle behandlingen av følelsen selv, inkludert eksamensstress, den produktive siden av angst og underviserangst. [[well-being|Velvære]] dekker innrammingen av positiv tilstand på tvers av emosjonelle, psykologiske og sosiale dimensjoner. For det omkringliggende bildet håndterer [[how-ai-impacts-students]] den generelle påvirkningen AI har på studenter, og [[redesign-assessment-ai-era]] dekker vurderingssiden av en institusjonell respons. [[career-development-and-readiness|Karriereutvikling og beredskap]] er der karriereargumentet fortsetter.

@@ -11,9 +11,9 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:18:00-05:00"
 translation_of: faqs/group-work-ai
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -89,7 +89,7 @@ Par gruppekarakteren med en individuell komponent: [[oral-assessment|en muntlig 
 
 Begrensningene deres følger med siteringen: én database, bare tidsskriftartikler, ingen oppmerksomhet på [[ethics|etikk]] eller personvern, teknologiens to første år, og ingen risiko-for-bias-instrument anvendt. Les «katalysatorer» som en beskrivelse av observert praksis, ikke som et målt utfall.
 
-Deteksjon er feil instrument for å sortere individuelle bidrag: ingen av disse seks studiene tester detektorer i gruppesettinger, og problemene med deteksjon på individnivå er dokumentert andre steder i denne kunnskapsbasen. Tilbakeholdenhet trenger tolkning før den trenger korrigering. Chen og Zou advarer om at en gruppe som avstår fra AI, kan unngå noe ukjent snarere enn å utøve bevisst [[self-regulated-learning|selvregulering]], og de to krever ulike svar: det ene er et undervisningsproblem, det andre er et gjennomtenkt standpunkt du kan vurdere.
+Deteksjon er feil instrument for å sortere individuelle bidrag: ingen av disse seks studiene tester detektorer i gruppesettinger, og problemene med deteksjon på individnivå er godt dokumentert. Tilbakeholdenhet trenger tolkning før den trenger korrigering. Chen og Zou advarer om at en gruppe som avstår fra AI, kan unngå noe ukjent snarere enn å utøve bevisst [[self-regulated-learning|selvregulering]], og de to krever ulike svar: det ene er et undervisningsproblem, det andre er et gjennomtenkt standpunkt du kan vurdere.
 
 Simulerte lagkamerater avgjør heller ikke spørsmålet. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] finjusterte [[llm|LLM]]-agenter på ekte deltakerdialog ([[llm-training-and-fine-tuning|LoRA]]/QLoRA-adaptere på LLaMA 3.2-3B) for å modellere 48 deltakere over 3 824 runder og seks tematiske koder, og sammenlignet deretter ekte og simulert diskurs med [[network-analysis|epistemisk nettverksanalyse]]. Det simulerte nettverket nådde en avstand på 0,17 fra det empiriske nettverket, under terskelen på 0,30, med en p-verdi fra permutasjon på 0,65, statistisk ikke til å skille, selv om det overbetonte tekniske begrensninger og designkoblinger litt og underrepresenterte data og ytelsesparametere. Det er en rammeverksartikkel med middels konfidens, og den støtter én påstand: deltakerspesifikke agenter kan gjenskape realistisk samarbeidsdiskurs. Den viser ikke at studenter lærer mer av simulerte lagkamerater.
 
@@ -144,4 +144,4 @@ Deteksjon kan fortelle deg hvem som gjorde hva. Ingen av disse studiene tester d
 
 ## Hvor du kan gå videre
 
-[[group-work]] og [[collaborative-learning]] har den underliggende evidensen om gruppevurdering og om hva som gjør samarbeid produktivt. [[course-ai-policy]] dekker ordlyden på emnenivå som studentene faktisk leser, [[redesign-assessment-ai-era]] dekker nyutformingen av vurdering som dette ligger inne i, og [[academic-integrity]] er der uredelighetssiden håndteres.
+[[group-work|Gruppearbeid]] og [[collaborative-learning|samarbeidslæring]] har den underliggende evidensen om gruppevurdering og om hva som gjør samarbeid produktivt. [[course-ai-policy]] dekker ordlyden på emnenivå som studentene faktisk leser, [[redesign-assessment-ai-era]] dekker nyutformingen av vurdering som dette ligger inne i, og [[academic-integrity|akademisk integritet]] er der uredelighetssiden håndteres.

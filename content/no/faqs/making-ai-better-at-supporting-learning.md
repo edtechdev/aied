@@ -14,9 +14,9 @@ discipline: [writing education]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T15:11:34-04:00"
+updated: "2026-11-15T16:28:17-05:00"
 translation_of: faqs/making-ai-better-at-supporting-learning
-source_updated: "2026-10-28T11:21:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 Saken sier «finjuster modellen på kursmaterialet vårt». Budsjettet er godkjent, en GPU er booket til neste måned, og en doktorgradsstudent er bedt om å sette sammen et datasett. Ingen på møtet har spurt hva en vanlig prompt skårer, eller hva et nøkkelordssøk skårer, på de samme spørsmålene.
 
-Still de to spørsmålene først. I denne kunnskapsbasen er gapet mellom en generell modell og en emnekompetent modell stort sett et forankrings- og promptproblem, og belegget for den rekkefølgen er uvanlig direkte: en studie av emneassistenten fant at gjenfinning, ikke modellen, var den førsteprioriterte beslutningen, og en generell modell uten forankring skåret *under* en enkel TF-IDF-baseline.
+Still de to spørsmålene først. Gapet mellom en generell modell og en emnekompetent modell stort sett et forankrings- og promptproblem, og belegget for den rekkefølgen er uvanlig direkte: en studie av emneassistenten fant at gjenfinning, ikke modellen, var den førsteprioriterte beslutningen, og en generell modell uten forankring skåret *under* en enkel TF-IDF-baseline.
 
 Trening er reelt og noen ganger nødvendig. Det er det tredje eller fjerde du prøver, og arbeidet under er ordnet slik at du finner ut hvilket trinn du faktisk trenger, før du bruker kvartalets datakraft.
 
@@ -52,7 +52,7 @@ Trening er reelt og noen ganger nødvendig. Det er det tredje eller fjerde du pr
 
 Før du endrer noe, logg hva en vanlig prompt returnerer. Logg så hva en triviell metode returnerer.
 
-[[shen-sustainable-ai-knowledge-base-cs-education-2026|Studien av emnekunnskapsbasen]] er verdt å lese bare for dette. En lokal LLM uten gjenfinning nådde **52,3 %** nøyaktighet. En TF-IDF-baseline, en leksikalsk metode som er tiår gammel, nådde **55,4 %**. Modellen var dårligere enn den klassiske metoden.
+[[shen-sustainable-ai-knowledge-base-cs-education-2026|Studien av emnekunnskapsbasen]] er verdt å lese bare for dette. En lokal [[llm|LLM]] uten gjenfinning nådde **52,3 %** nøyaktighet. En TF-IDF-baseline, en leksikalsk metode som er tiår gammel, nådde **55,4 %**. Modellen var dårligere enn den klassiske metoden.
 
 Hopp over dette trinnet, og du kan ikke si om finjusteringen hjalp. Verre: du kan sende ut et system som et nøkkelordssøk slår, og bare oppdage det når en studentassistent nevner det. To tall i et regneark, hentet på en ettermiddag, verner resten av budsjettet.
 
@@ -60,9 +60,9 @@ Hopp over dette trinnet, og du kan ikke si om finjusteringen hjalp. Verre: du ka
 
 Å legge [[rag|hentingsforsterket generering]] over kursmaterialet, uten noen finjustering i det hele tatt, løftet det samme systemet fra 52,3 % til **66,6 %**. Den gevinsten kom fra en indeks, og den kommer med en egenskap en treningskjøring ikke har: når dokumentene dine endres, indekserer du på nytt.
 
-To andre resultater peker samme vei. En PRISMA-gjennomgang av 23 empiriske studier om tilpasning av AI for [[writing-education|skriveundervisning]] fant **prompting dominerende (N = 13), foran finjustering (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026|Tilpasning av AI til skrivepedagogikk]]). Der en kunnskapsbase må holde seg oppdatert, er gjenfinning det eneste håndtaket som holder seg oppdatert uten å kjøre en ny treningsjobb.
+To andre resultater peker samme vei. En [[meta-analysis-systematic-review|PRISMA]]-gjennomgang av 23 empiriske studier om tilpasning av AI for [[writing-education|skriveundervisning]] fant **[[prompt-engineering|prompting]] dominerende (N = 13), foran finjustering (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026|Tilpasning av AI til skrivepedagogikk]]). Der en kunnskapsbase må holde seg oppdatert, er gjenfinning det eneste håndtaket som holder seg oppdatert uten å kjøre en ny treningsjobb.
 
-Gjenfinning har også en pedagogisk form. Å forankre en modell i dine egne gjennomarbeidede eksempler og rubrikker er hvordan den holder seg innenfor [[scaffolding|støtten]] du designet, og svarer på nivået du satte i stedet for å drifte inn i generiske råd. Den driften er den vanligste klagen på hyllevareveiledere, og det er et gjenfinningsproblem oftere enn et vektproblem.
+Gjenfinning har også en [[pedagogy|pedagogisk]] form. Å forankre en modell i dine egne gjennomarbeidede eksempler og rubrikker er hvordan den holder seg innenfor [[scaffolding|støtten]] du designet, og svarer på nivået du satte i stedet for å drifte inn i generiske råd. Den driften er den vanligste klagen på hyllevareveiledere, og det er et gjenfinningsproblem oftere enn et vektproblem.
 
 ## Skriv prompten mot rubrikken din, og se etter platået
 
@@ -79,9 +79,9 @@ Merk hva resultatet fra oppgavegenereringen innebærer om sekvensering. Finjuste
 
 Tilpasning lønner seg når du trenger at modellen holder en egenskap pålitelig: et lesenivå, et utdataformat, et fagområde den mangler. Det tilbakevendende resultatet er at **målretting slår størrelse**.
 
-- Tre **8B**-modeller finjustert på en ekspertdesignet leselæreplan for barn utkonkurrerte zero-shot GPT-4o og Llama 3.3 70B på vanskelighetsrelaterte måltall, med ubetydelige sikkerhetsproblemer. Forfatterne rammer dette inn som **kontrollerbarhet over skala** ([[llm-children-reading-story-generation|generering av barnelesestoff]]).
+- Tre **8B**-modeller finjustert på en ekspertdesignet lese[[curriculum-design|læreplan]] for barn utkonkurrerte zero-shot GPT-4o og Llama 3.3 70B på vanskelighetsrelaterte måltall, med ubetydelige sikkerhetsproblemer. Forfatterne rammer dette inn som **kontrollerbarhet over skala** ([[llm-children-reading-story-generation|generering av barnelesestoff]]).
 - Et instruksjonsdatasett med **24 795 eksempler** forankret i indiske kunnskapssystemer ga en **7B**-finjustering som skåret **6,39** på et eksternt panel med fem dommere, innenfor **0,15** av en sterk generell referansemodell til en brøkdel av distribusjonskostnaden. Den samme grunnmodellen skåret **nær null på fagspesifikke dimensjoner** uten finjusteringen ([[iks-instruct-dataset-indian-knowledge|instruksjonsdatasett fra indisk kunnskap]]). Det gapet mellom å være generelt kompetent og kompetent her er hele argumentet for fagtilpasning.
-- Én enkelt [[llm-training-and-fine-tuning|LoRA]]-adapter trent på omtrent **3 900** samlede vurderte eksempler brakte fem små åpne modeller (4B til 30B) til like god eller bedre enn en menneskelig retter på tvers av to informatikk-eksamener ([[llm-graders-computer-science-exams-2026|LLM-rettere på informatikk-eksamener]]). Én adapter, ett datasett, flere grunnmodeller: det er distribusjonsformen et lite team kan drive.
+- Én enkelt [[llm-training-and-fine-tuning|LoRA]]-adapter trent på omtrent **3 900** samlede vurderte eksempler brakte fem små [[open-source|åpne modeller]] (4B til 30B) til like god eller bedre enn en menneskelig retter på tvers av to informatikk-eksamener ([[llm-graders-computer-science-exams-2026|LLM-rettere på informatikk-eksamener]]). Én adapter, ett datasett, flere grunnmodeller: det er distribusjonsformen et lite team kan drive.
 
 Ordet *stabilt* i overskriften bærer vekten. Format, rubrikk, lesenivå og fagvokabular er stabile mål. Skjønnsbærende prosa har ikke et slikt mål, og det er der tilpasning feiler, som de to neste avsnittene viser.
 
@@ -89,7 +89,7 @@ Ordet *stabilt* i overskriften bærer vekten. Format, rubrikk, lesenivå og fagv
 
 Tilpasning lærer en modell *hva den skal produsere*. Ettertrening lærer den *hvordan den skal oppføre seg*. For veiledning er den forskjellen hele problemet: generelle modeller er ettertrent på menneskelig preferanse for hjelpsomhet, som betyr å svare raskt, og undervisning krever å holde svaret tilbake.
 
-De sterkeste pedagogiske resultatene i dette korpuset ligger her. EduQWens belønningsmodell prioriterte eksplisitt **veiledende svar over direkte svar**, og pipelinen i tre trinn nådde **96,52 %** på CDPK-benchmarken mot Gemini-3 Pro sine **90,55 %** ([[singh-eduqwen-pedagogical-rl-2026|EduQwen og pedagogisk forsterkningslæring]]). SWIMs skrivesimulator gikk fra rubrikkforankret prompting (beste QWK **0,577**) til veiledet finjustering (**0,474 ± 0,023**) til forsterkningslæring (**0,618 ± 0,005**) på hver egenskap og hver prompt ([[swim-student-writing-simulation-2026|SWIMs skrivesimulator]]).
+De sterkeste pedagogiske resultatene ligger her. EduQWens belønningsmodell prioriterte eksplisitt **veiledende svar over direkte svar**, og pipelinen i tre trinn nådde **96,52 %** på CDPK-benchmarken mot Gemini-3 Pro sine **90,55 %** ([[singh-eduqwen-pedagogical-rl-2026|EduQwen og pedagogisk forsterkningslæring]]). SWIMs skrive[[simulation|simulator]] gikk fra rubrikkforankret prompting (beste QWK **0,577**) til veiledet finjustering (**0,474 ± 0,023**) til [[reinforcement-learning|forsterkningslæring]] (**0,618 ± 0,005**) på hver egenskap og hver prompt ([[swim-student-writing-simulation-2026|SWIMs skrivesimulator]]).
 
 Les SWIM-tallene nøye, fordi det midterste trinnet gikk bakover. Veiledet finjustering på demonstrasjoner gjorde simulatoren dårligere enn prompten den startet fra, og bare belønningssignalet gjenopprettet tapet og slo så baselinen. Hvis planen din stopper ved veiledet finjustering, kan planen være en omvei.
 
@@ -125,7 +125,7 @@ Kostnaden som er lett å undervurdere, er evalueringen, som er større enn datak
 
 ## Kalibrer det du forventer
 
-Modell- og promptvalg utgjør til sammen bare omtrent **15 %** av feilaligneringen mellom LLM-er og studenters læringsgevinster, og i den studien gjorde benchmark-vekting og enighetsavstemning aligneringen *verre* ([[educational-llm-alignment|alignering av pedagogiske LLM-er]]). Forhåndstreningsdata er det dominerende håndtaket for hvordan en modell oppfører seg, og det er det ene håndtaket du ikke kan dra i.
+Modell- og promptvalg utgjør til sammen bare omtrent **15 %** av feilaligneringen mellom LLM-er og studenters [[learning-gains|læringsgevinster]], og i den studien gjorde benchmark-vekting og enighetsavstemning aligneringen *verre* ([[educational-llm-alignment|alignering av pedagogiske LLM-er]]). Forhåndstreningsdata er det dominerende håndtaket for hvordan en modell oppfører seg, og det er det ene håndtaket du ikke kan dra i.
 
 Ingenting av det argumenterer mot arbeidet over. Det argumenterer mot å forvente at en finjustering fikser et designproblem. Hvis problemet er at veilederen svarer for beredvillig, kan trening håndtere det. Hvis problemet er at studentene ikke engasjerer seg i den, vil trening ikke gjøre det, og 15 %-tallet sier at pengene er bedre brukt andre steder.
 
@@ -149,7 +149,7 @@ Veiledet finjustering er det trygge midterste trinnet før forsterkningslæring.
 
 **«Vi kan ikke sende studentarbeid til en leverandørs API.»** Det sterkeste LoRA-resultatet her kom fra åpne modeller i området 4B til 30B, og én enkelt adapter betjente flere av dem. Den distribusjonsformen er tilgjengelig for et team med én GPU og ingen databehandleravtale.
 
-**«Prompting er et triks; ekte arbeid betyr trening.»** Gjennomgangen av 23 studier av skriveundervisning fant prompting som den dominerende tilnærmingen og finjustering bak den, og den største rapporterte gevinsten på denne siden kom fra en indeks. Både gjennomgangen og emneassistentstudien ordnet de trinnene etter målt gevinst.
+**«Prompting er et triks; ekte arbeid betyr trening.»** Gjennomgangen av 23 studier av skriveundervisning fant prompting som den dominerende tilnærmingen og finjustering bak den, og den største rapporterte gevinsten kom fra en indeks. Både gjennomgangen og emneassistentstudien ordnet de trinnene etter målt gevinst.
 
 **«Vi prøvde prompting og det flatet ut, så vi trenger trening.»** Det er den riktige lesningen, og det er det ene tilfellet der klatringen er berettiget. Ta den optimaliserte prompten med inn i finjusteringen slik teamet bak oppgavegenereringen gjorde, og forvent at gevinsten blir mindre enn promptarbeidet var.
 

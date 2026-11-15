@@ -1,7 +1,7 @@
 ---
 title: "Hvordan kan jeg sjekke om AI-genererte quiz- og eksamensspørsmål faktisk er gode?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:16:29-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-05T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Du ber om tjue spørsmål fra forelesningsnotatene dine. De kommer tilbake med fasit, forklaringer, vanskelighetsetiketter og Bloom-taksonomikategorier, i et formatert dokument som ser ferdig ut. Navnet ditt er i ferd med å havne på det.
 
-Kort svar å gi en kollega: genererte spørsmål er kandidater, ikke en vurdering. Løs hvert enkelt selv, undersøk hva oppgaven faktisk krever at en student gjør, og finn ut hvordan studentene responderer på den før den teller. I de to største studiene i denne kunnskapsbasen er det interessante signalet ikke at generering virker, men hvor den svikter. Iterativ generering inne i en emnesspesifikk arbeidsflyt ga brukbare flervalgseksamener i 71 collegeklasser ([[assessing-quality-ai-generated-exams-field-2025|Isley mfl., 2025]]). I en datavitenskapsrevisjon av 311 spørsmål som var tatt i bruk, fulgte modellens vanskelighetsetiketter de Bloom-nivåene den selv hadde generert ved siden av, nærmest perfekt (Spearman ρ = 0,90), mens de fulgte det studentene faktisk skåret, med ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An og Wang, 2026]]). Etiketten var en beskrivelse av prompten, ikke en måling av oppgaven.
+Kort svar å gi en kollega: genererte spørsmål er kandidater, ikke en vurdering. Løs hvert enkelt selv, undersøk hva oppgaven faktisk krever at en student gjør, og finn ut hvordan studentene responderer på den før den teller. I de to største studiene er det interessante signalet ikke at generering virker, men hvor den svikter. Iterativ generering inne i en emnesspesifikk arbeidsflyt ga brukbare flervalgseksamener i 71 collegeklasser ([[assessing-quality-ai-generated-exams-field-2025|Isley mfl., 2025]]). I en datavitenskapsrevisjon av 311 spørsmål som var tatt i bruk, fulgte modellens vanskelighetsetiketter de Bloom-nivåene den selv hadde generert ved siden av, nærmest perfekt (Spearman ρ = 0,90), mens de fulgte det studentene faktisk skåret, med ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An og Wang, 2026]]). Etiketten var en beskrivelse av prompten, ikke en måling av oppgaven.
 
 ## Kortversjonen
 
@@ -121,6 +121,6 @@ For studenter som genererer egne øvingsspørsmål, gjelder samme regel på dere
 
 ## Hvor du kan gå videre
 
-[[automated-question-generation]] er begrepssiden for genereringsmetoder og deres målte kvalitet, og [[educational-measurement]] dekker oppgaveanalyse, reliabilitet og den psykometrien en utprøving bare antyder. Begge ligger under [[assessment-validity|vurderingsvaliditet]], som er standarden hele syklusen tjener.
+[[automated-question-generation|Automatisert spørsmålsgenerering]] er begrepssiden for genereringsmetoder og deres målte kvalitet, og [[educational-measurement|pedagogisk måling]] dekker oppgaveanalyse, reliabilitet og den psykometrien en utprøving bare antyder. Begge ligger under [[assessment-validity|vurderingsvaliditet]], som er standarden hele syklusen tjener.
 
 Skjønnssiden av samme problem hører til [[ai-grading-fairness-reliability|AI-vurdering]], siden en god oppgave vurdert dårlig ikke er bedre enn en dårlig oppgave vurdert godt. For det bredere spørsmålet om hva en karakter skal representere når studentene kan bruke AI, se [[redesign-assessment-ai-era|ny utforming av vurdering i AI-tiden]].

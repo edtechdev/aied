@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:17:50-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,8 @@ Tilbakemelding fra medstudenter gjør seg fortjent til sin egen plass i sekvense
 
 Fordelen Gu mfl. fant, var liten, og de leser den som reell, men ikke transformerende i seg selv. Lærerstøtte, promptretningslinjer og arbeidsark gjorde den bærende jobben.
 
+Kilden kan bety mindre enn klokken. Blant 391 tyske ungdomsskoleelever ga lærerskrevne og språkmodellskrevne tilbakemeldinger ingen signifikant forskjell i revisjoner, senere skriving, tid brukt på oppgaven eller oppfatninger; bayesianske posteriorer lente mot lærertilbakemelding for senere skriving, men beholdt en fjerdedel til to femtedeler av massen inne i ekvivalensområdet, og bare umiddelbar AI-tilbakemelding fikk bedre vurderinger for nytte og motivasjon ([[meyer-teacher-ai-feedback-writing-2026|Meyer mfl., 2026]]). Hvis en førstegangskommentar kan komme mens studenten fortsatt reviderer, er den timingen en del av designet som gjør jobben.
+
 ## Gi modellen en rubrikk, og la den vise trinnene sine
 
 Rubrikkreferert generering er den automatiserbare delen.
@@ -92,7 +94,7 @@ Aldino mfl. finner det samme mønsteret i vanlig praksis: hjelp, deretter verifi
 
 Tolv av de 21 lærerne hos Aldino mfl. gjorde ytterligere revisjoner på setningsnivå, og det dominerende mønsteret var å kalibrere tone: dempe ros (f = 11), fjerne forslag (f = 9), fjerne oppmuntring (f = 8). Revisjonene klumpet seg i den relasjonelle dimensjonen, særlig Student-lærer-relasjon (f = 24). De beskyttet autentisitet og faglig stemme, og det arbeidet automatiseres ikke.
 
-Studentene er den andre siden av den verifiseringen, og deres framstilling av arbeidsdelingen ligger nær den denne siden anbefaler. I fokusgrupper med 20 bachelorstudenter ble underviserens tilbakemelding verdsatt fordi den var relasjonell, personlig og ekspertdrevet, mens AI-generert tilbakemelding framsto som upersonlig og potensielt urettferdig; de samme studentene var åpne for en hybrid modell der underviseren leser arbeidet deres og supplerer modellens kommentarer ([[fong-chatgpt-feedback-evaluations-2026|Fong mfl. (2026)]]). Den samme studien fant at vurderingene deres samsvarte med ChatGPTs på spesifisitet og handlingsrettethet, men skilte seg på rettidighet og positivitet, slik at dimensjonene der en modells egen vurdering kan stoles på er snevrere enn hele rubrikken.
+Studentene er den andre siden av den verifiseringen, og deres framstilling av arbeidsdelingen ligger nær den anbefalte. I fokusgrupper med 20 bachelorstudenter ble underviserens tilbakemelding verdsatt fordi den var relasjonell, personlig og ekspertdrevet, mens AI-generert tilbakemelding framsto som upersonlig og potensielt urettferdig; de samme studentene var åpne for en hybrid modell der underviseren leser arbeidet deres og supplerer modellens kommentarer ([[fong-chatgpt-feedback-evaluations-2026|Fong mfl. (2026)]]). Den samme studien fant at vurderingene deres samsvarte med ChatGPTs på spesifisitet og handlingsrettethet, men skilte seg på rettidighet og positivitet, slik at dimensjonene der en modells egen vurdering kan stoles på er snevrere enn hele rubrikken.
 
 ## Lær studentene å lese kommentaren
 
@@ -144,6 +146,6 @@ Fortell studentene rett ut at modellkommentarer kan være hallusinerte, partiske
 
 ## Hvor du kan gå videre
 
-[[feedback|Tilbakemelding]] er paraplybegrepet for hele systemet: tilbud, sløyfe, opptak og vurderingskontekst. [[ai-feedback-quality|Kvalitet på AI-tilbakemelding]] dekker hva som gjør genererte kommentarer nøyaktige, nyttige, rettidige og pedagogisk forsvarlige, og denne siden er den praktiske midten, om hvilke kombinasjoner av disse delene som gir bedre tilbakemelding i stor skala.
+[[feedback|Tilbakemelding]] er paraplybegrepet for hele systemet: tilbud, sløyfe, opptak og vurderingskontekst. [[ai-feedback-quality|Kvalitet på AI-tilbakemelding]] dekker hva som gjør genererte kommentarer nøyaktige, nyttige, rettidige og pedagogisk forsvarlige, og det praktiske spørsmålet er hvilke kombinasjoner av disse delene som gir bedre tilbakemelding i stor skala.
 
 Spørsmål om hva en karakter skal bety når AI er involvert, inkludert konstruktsubstitusjon, autentisert prosessevidens og integritetsregler, hører til [[redesign-assessment-ai-era|ny utforming av vurdering i AI-tiden]] og [[assessment-validity|vurderingsvaliditet]] snarere enn her. For spesialtilfellet skriveopplæring, se [[writing-instruction-ai-best-practices|beste praksis for skriveopplæring i en AI-kontekst]].

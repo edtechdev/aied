@@ -6,9 +6,9 @@ weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-updated: "2026-10-29T15:11:34-04:00"
+updated: "2026-11-15T16:28:17-05:00"
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ Bunnlinjen: promptteknikk er den minste delen av dette. Undervisere må kunne vu
 
 ## Definer kompetansen før du bestiller rommet
 
-Kunnskapsbasens syntese om [[ai-literacy|AI-kompetanse]] identifiserer fire dimensjoner, og de er en nyttig agenda fordi hver av dem trenger en annen type økt:
+Syntesen om [[ai-literacy|AI-kompetanse]] identifiserer fire dimensjoner, og de er en nyttig agenda fordi hver av dem trenger en annen type økt:
 
 - **Grunnleggende forståelse** av AI-evner og AI-begrensninger.
 - **Praktisk kompetanse** i bruk av AI-verktøy.
@@ -57,7 +57,9 @@ Skriv listen ned før du planlegger øktene. Fire dimensjoner pluss et undervisn
 
 Forskning på læreres [[agentic-ai|multiagent]]-arbeidsflyter gir en annen grunn til å teste i stedet for å spørre: systemtenkning, pedagogiske overbevisninger og [[self-efficacy|mestringstro]] samvirker i AI-integrasjon, så den samme økten lander ulikt hos to undervisere med samme faglige bakgrunn. Det taler for differensiert program, og mot den verktøyworkshopen med én oppskrift for alle som de fleste institusjoner kjører.
 
-Den billige versjonen av ytelsesvurdering er en oppgave, ikke et instrument. Be hver deltaker ta med én innleveringsoppgave, revidere den med modellen i løpet av økten, og så forsvare revisjonen for en kollega: hva som ble endret, hva oppgaven nå vurderer, hva studenten ikke lenger kan bli vurdert på. Det tar tjue minutter og forteller deg mer enn noen vurderingsskala ved dagens slutt.
+En spørreundersøkelse kan til og med predikeres for godt. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez mfl. (2026)]] klassifiserte 314 av 315 undervisere i kompetansebånd fra en skala med 300 ledd med α = 0,997 og ingen faktoranalyse, og institusjonstilhørighet var den største bidragsyteren — et tegn på at skårene sporet hvor folk jobber, ikke hva de kan.
+
+Den billige versjonen av prestasjonsvurdering er en oppgave, ikke et instrument. Be hver deltaker ta med én oppgave, revidere den med modellen i løpet av økten og deretter forsvare revisjonen for en kollega: hva som ble endret, hva den nå vurderer, og hva studenten ikke lenger kan vurderes på. Det tar tjue minutter og sier deg mer enn enhver vurderingsskala ved dagens slutt.
 
 ## Forvent at svakheten er integrasjon
 
@@ -103,7 +105,7 @@ Innholdseksperter vil finne ut integrasjonen selv. Innholdskunnskap forutsa ikke
 
 Ett rammeverk vil dekke alle. Standarden med seks roller finnes fordi TPACK, SAMR og de store underviserstandardene dekker lærere i grunnskole og videregående eller bare undervisningsdimensjonen.
 
-Motstand er et kunnskapsgap som skal fylles. Risikoaversjon forutsa intensjon negativt, og identitetsarbeidet beskriver undervisere som resonnerer fra pedagogiske verdier. Noe av det som ser ut som motvilje, er en forsvarlig posisjon om studentenes overavhengighet.
+Motstand er et kunnskapsgap som skal fylles. Risikoaversjon forutsa intensjon negativt, og [[learner-identity|identitetsarbeidet]] beskriver undervisere som resonnerer fra pedagogiske verdier. Noe av det som ser ut som motvilje, er en forsvarlig posisjon om studentenes overavhengighet.
 
 ## Hva som kommer tilbake på deg
 

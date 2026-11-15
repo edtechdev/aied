@@ -8,9 +8,9 @@ assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
 audience: [instructors, researchers, administrators]
-updated: "2026-10-29T15:11:34-04:00"
+updated: "2026-11-15T16:21:41-05:00"
 translation_of: faqs/ai-literacy-evidence
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -40,19 +40,19 @@ Svaret for det rommet, og tilstanden i evidensen i [[higher-ed|høyere utdanning
 
 ## Bygg sekvensen rundt en kritikk
 
-Det sterkeste klasseromseksempelet i kunnskapsbasen kommer fra psykologi på bachelornivå. Richmond og Nicholls lot studenter vurdere en [[generative-ai|ChatGPT]]-generert pressesmelding mot sine egne emnekriterier, navngi feilene og revidere den. Studentene så stort sett at prosaen var polert og at innholdet feilframstilte forskningsmålene, metodene og funnene. Mot det forrige [[peer-assessment|medstudentvurderings]]-kullet gjorde AI-kritikk-gruppen det moderat bedre på manusrevisjonen som fulgte (*d* = 0,36), uten signifikant fortrinn på den ferdige videoen ([[richmond-nicholls-genai-psych-feedback-ai-literacies]]).
+Det sterkeste klasseromseksempelet i denne litteraturen kommer fra psykologi på bachelornivå. Richmond og Nicholls lot studenter vurdere en [[generative-ai|ChatGPT]]-generert pressesmelding mot sine egne emnekriterier, navngi feilene og revidere den. Studentene så stort sett at prosaen var polert og at innholdet feilframstilte forskningsmålene, metodene og funnene. Mot det forrige [[peer-assessment|medstudentvurderings]]-kullet gjorde AI-kritikk-gruppen det moderat bedre på manusrevisjonen som fulgte (*d* = 0,36), uten signifikant fortrinn på den ferdige videoen ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond mfl., 2025]]).
 
 Litteraturen disse eksemplene kommer fra, lener seg på korte tiltak, [[self-regulated-learning|selvrapportering]] og designbasert arbeid, og denne studien bærer to av de begrensningene. Sammenligningen var historisk, så et bedre forberedt kull ville gitt samme mønster. Fordelen viste seg også på den mellomliggende artefakten og forsvant på den ferdige, noe du ville forvente hvis kritikken lærte bort revisjon.
 
-Beck og Brodersen bygde samme grep inn i et økonomiemne: studentene løser eller tolker et autentisk problem selv, henter så ChatGPTs svar, sammenligner de to, kritiserer AI-en, reflekterer og diskuterer med medstudenter. Designet deres fletter AI-kompetanse inn i [[active-learning|aktiv læring]]-rutiner emnet allerede kjørte, som tenk-par-del. Bidraget er et overførbart [[learning-design|undervisningsdesign]], støttet av klasseromsbruk snarere enn av et eksperiment ([[beck-genai-literacy-economics-hands-on]]).
+Beck og Brodersen bygde samme grep inn i et økonomiemne: studentene løser eller tolker et autentisk problem selv, henter så ChatGPTs svar, sammenligner de to, kritiserer AI-en, reflekterer og diskuterer med medstudenter. Designet deres fletter AI-kompetanse inn i [[active-learning|aktiv læring]]-rutiner emnet allerede kjørte, som tenk-par-del. Bidraget er et overførbart [[learning-design|undervisningsdesign]], støttet av klasseromsbruk snarere enn av et eksperiment ([[beck-genai-literacy-economics-hands-on|Beck mfl., 2025]]).
 
 ## Legg det inn i et emne studentene allerede tar
 
-Hingle og Johris [[meta-analysis-systematic-review|systematiske gjennomgang]] sorterer AI-kompetanseaktiviteter med [[icap-framework|ICAP-rammeverket]]: passiv eksponering, aktiv manipulasjon, konstruktiv generering og interaktiv samkonstruksjon. Tiltak finnes i alle fire moduser, og gjennomgangen argumenterer mot å redusere AI-kompetanse til en enveissesjon med informasjon ([[hingle-collaborative-ai-literacy-2025]]). Praksisene den støtter, er de du kan bygge inn i en oppgave: studentene skaper, kritiserer, forklarer og debatterer AI-utdata med medstudenter.
+Hingle og Johris [[meta-analysis-systematic-review|systematiske gjennomgang]] sorterer AI-kompetanseaktiviteter med [[icap-framework|ICAP-rammeverket]]: passiv eksponering, aktiv manipulasjon, konstruktiv generering og interaktiv samkonstruksjon. Tiltak finnes i alle fire moduser, og gjennomgangen argumenterer mot å redusere AI-kompetanse til en enveissesjon med informasjon ([[hingle-collaborative-ai-literacy-2025|Hingle mfl., 2025]]). Praksisene den støtter, er de du kan bygge inn i en oppgave: studentene skaper, kritiserer, forklarer og debatterer AI-utdata med medstudenter.
 
-AI Literacy Continuum ved NC State beskriver en progresjon fra *Ikke ennå engasjert* og *Ukritisk bruk* via *Informert bruk*, *[[critical-thinking|kritisk vurdering]]* og *Forbedring*, og ble implementert med mer enn 330 deltakere på tvers av emner og verksteder ([[ai-literacy-continuum-higher-education]]). Observasjonene antyder en todeling: korte erfaringer flyttet studentene mot informert bruk, mens kritisk vurdering og forbedring først og fremst viste seg i vedvarende, faglig forankret arbeid. Det fantes ingen validert før- og etter-måling og ingen sammenligningsgruppe, så dette er praksisbasert evidens.
+AI Literacy Continuum ved NC State beskriver en progresjon fra *Ikke ennå engasjert* og *Ukritisk bruk* via *Informert bruk*, *[[critical-thinking|kritisk vurdering]]* og *Forbedring*, og ble implementert med mer enn 330 deltakere på tvers av emner og verksteder ([[ai-literacy-continuum-higher-education|Liu mfl., 2026]]). Observasjonene antyder en todeling: korte erfaringer flyttet studentene mot informert bruk, mens kritisk vurdering og forbedring først og fremst viste seg i vedvarende, faglig forankret arbeid. Det fantes ingen validert før- og etter-måling og ingen sammenligningsgruppe, så dette er praksisbasert evidens.
 
-Lærerutdanningen viser samme tak fra en annen vinkel. Le et al.s [[design-based-research|designbaserte]] tiltak ble prøvd ut med 14 masterstudenter og evaluert med 29 studenter i [[teacher-education|lærerutdanning]]. Rapportert [[self-efficacy|mestringstro]] i AI-kompetanse steg, og studentene beveget seg mot en mer kritisk [[pedagogy|pedagogisk]] vurdering av generativ AI, mens etikkgevinstene bare nådde marginal signifikans. En liten designbasert studie av den formen kan ikke fastslå kompetanse ([[genai-literacy-training-teacher-education-dbr-2026]]).
+[[teacher-role|Lærer]]utdanningen viser samme tak fra en annen vinkel. Le et al.s [[design-based-research|designbaserte]] tiltak ble prøvd ut med 14 masterstudenter og evaluert med 29 studenter i [[teacher-education|lærerutdanning]]. Rapportert [[self-efficacy|mestringstro]] i AI-kompetanse steg, og studentene beveget seg mot en mer kritisk [[pedagogy|pedagogisk]] vurdering av generativ AI, mens etikkgevinstene bare nådde marginal signifikans. En liten designbasert studie av den formen kan ikke fastslå kompetanse ([[genai-literacy-training-teacher-education-dbr-2026|Le mfl., 2026]]).
 
 ## Mål hva studentene kan gjøre
 
@@ -60,7 +60,7 @@ En [[liu-ai-literacy-interventions-meta-analysis-2026|metaanalyse av 59 studier 
 
 Forfatterne leser sitt eget resultat som et argument for å bevege seg forbi kunnskap mot ferdigheter, praksiser, etikk og holdninger, gjennom integrert reflekterende pedagogikk og [[culturally-relevant-pedagogy|kulturelt relevant]] design. For en komité gjør to implikasjoner jobben. Utfallet du måler, former effekten du finner, så velg det utfallet du faktisk bryr deg om. Et prediksjonsintervall som er så bredt, taler for en lokal pilot.
 
-Måling er der de fleste programpåstander feiler. Den validerte prestasjonstesten **GLAT** forutsa prestasjon på en AI-assistert oppgave i høyere utdanning. Et [[self-report-measures|selvrapportert]] mål på ChatGPT-kompetanse gjorde det ikke ([[jin-glat-genai-literacy-assessment]]; [[ai-literacy-assessment-misalignment]]). På tvers av kunnskapsbasen avviker rapportert og demonstrert AI-kompetanse betydelig, noe som gjør [[educational-measurement|utdanningsmåling]] og [[assessment-validity|vurderingsvaliditet]] til en del av designet snarere enn en ettertanke i [[ai-ed-evaluation|evalueringen]].
+Måling er der de fleste programpåstander feiler. Den validerte prestasjonstesten **GLAT** forutsa prestasjon på en AI-assistert oppgave i høyere utdanning. Et [[self-report-measures|selvrapportert]] mål på ChatGPT-kompetanse gjorde det ikke ([[jin-glat-genai-literacy-assessment]]; [[ai-literacy-assessment-misalignment]]). På tvers av litteraturen avviker rapportert og demonstrert AI-kompetanse betydelig, noe som gjør [[educational-measurement|utdanningsmåling]] og [[assessment-validity|vurderingsvaliditet]] til en del av designet snarere enn en ettertanke i [[ai-ed-evaluation|evalueringen]].
 
 Burriss et al. skjerper hva som teller. Deres studie av 22 elever i ellevte trinn som laget videoreklamer om AI-etikk, argumenterer for at eksisterende kompetanseskalaer og kompetanserammeverk forutsetter individuelt målbar prestasjon, noe som utelukker samarbeidende og kreativ uttrykk. De foreslår studentrefleksjoner, [[multimodal|multimodale]] artefakter og samfunnsdebatt som tillegg til konvensjonelle mål. Studentene deres utviklet kritisk forståelse av AI-etikk gjennom samarbeidende [[critical-pedagogy|kritisk pedagogikk]], og det utfordrer ferdighetslistekonsepsjoner av kompetanse sammen med instrumentene bygget på dem. Femten av 18 svar ved slutten av enheten bekreftet ny læring, og forfatterne bemerker at prosjektet motsetter seg tradisjonell [[summative-assessment|summativ vurdering]] ([[burriss-multimodal-composition-critical-ai-literacy-2026]]).
 
@@ -74,19 +74,19 @@ Les det som en grense for hva et emne kan love. Kompetanseopplæring kan ikke b�
 
 ## Start der studentene dine allerede er
 
-Şan og Orhan Karsak brukte en psykolingvistisk ordassosiasjonstest med 436 tyrkiske bachelorstudenter (1 376 kodede svar, mellomvurderer-κ = 0,87) for å kartlegge hvordan studentene representerer AI. Assosiasjonene klumpet seg rundt instrumentell nytte, med bekvemmelighet (f = 145) og hastighet (f = 110) dominerende. Algoritmisk åpenhet, personvern og [[governance|styring]] var sjeldne og strukturelt isolert fra den nyttklumpen (Kendalls τ = -0,819). Argumentet deres følger: en etikkmodul som leveres inn i en kognitiv struktur uten skjema til å ta imot den, vil sannsynligvis feile. Læreplaner trenger eksplisitte broer fra hverdagskunnskap om verktøy til etiske rammeverk og styringsrammeverk, og mikrokrediteringer bør sekvensere innholdet for å lukke det gapet i stedet for å gjenta det studentene allerede kan ([[san-orhan-karsak-ai-cognition-micro-credentials-2026]]).
+Şan og Orhan Karsak brukte en psykolingvistisk ordassosiasjonstest med 436 tyrkiske bachelorstudenter (1 376 kodede svar, mellomvurderer-κ = 0,87) for å kartlegge hvordan studentene representerer AI. Assosiasjonene klumpet seg rundt instrumentell nytte, med bekvemmelighet (f = 145) og hastighet (f = 110) dominerende. Algoritmisk åpenhet, personvern og [[governance|styring]] var sjeldne og strukturelt isolert fra den nyttklumpen (Kendalls τ = -0,819). Argumentet deres følger: en etikkmodul som leveres inn i en kognitiv struktur uten skjema til å ta imot den, vil sannsynligvis feile. Læreplaner trenger eksplisitte broer fra hverdagskunnskap om verktøy til etiske rammeverk og styringsrammeverk, og mikrokrediteringer bør sekvensere innholdet for å lukke det gapet i stedet for å gjenta det studentene allerede kan ([[san-orhan-karsak-ai-cognition-micro-credentials-2026|Şan og Orhan Karsak, 2026]]).
 
-En [[situated-learning|situert]] redegjørelse kommer fra Dai og Chans sju fokusgrupper med 28 forskerstudenter, som brukte AI ujevnt gjennom forskningsarbeidsflyten. Bruken var tyngre i prosedyrarbeid med lave innsatser, som formatering, oversettelse og forklaring, og markert mer forsiktig der det faglige bidraget sto på spill. Deltakerne trakk egne grenser mellom å støtte og å erstatte resonnementet sitt. Forfatterne behandler [[ai-literacy|AI-kompetanse]] som en situert kapasitet snarere enn en statisk kompetanseliste, og anbefaler å bygge [[scaffolding|støtte]] for hver dimensjon gjennom ekte oppgaver i stedet for å håndheve binære regler ([[dai-chan-responsible-genai-research-ai-literacy-2026]]).
+En [[situated-learning|situert]] redegjørelse kommer fra Dai og Chans sju fokusgrupper med 28 forskerstudenter, som brukte AI ujevnt gjennom forskningsarbeidsflyten. Bruken var tyngre i prosedyrarbeid med lave innsatser, som formatering, oversettelse og forklaring, og markert mer forsiktig der det faglige bidraget sto på spill. Deltakerne trakk egne grenser mellom å støtte og å erstatte resonnementet sitt. Forfatterne behandler [[ai-literacy|AI-kompetanse]] som en situert kapasitet snarere enn en statisk kompetanseliste, og anbefaler å bygge [[scaffolding|støtte]] for hver dimensjon gjennom ekte oppgaver i stedet for å håndheve binære regler ([[dai-chan-responsible-genai-research-ai-literacy-2026|Dai og Chan, 2026]]).
 
 ## Sjekk krediteringen før du gir den
 
-Sertifikater og mikrokrediteringer er der AI-kompetanse leveres i skala og der evalueringen er tynnest. Wu og Li bygde et ekspertvektet indikatorsystem (AHP og Fuzzy-AHP med Monte Carlo-kontroller, 18 eksperter) for AI-sertifikatprogrammer. Faglig kompetanse hos underviserne viste det største gapet mellom viktighet og tilfredshet, med høy opplevd viktighet (0,1976) mot lav nåværende tilfredshet. Dataene deres setter undervisernes kapasitet foran teknologisk infrastruktur som den viktigste begrensningen på pedagogisk endring. Tverrkulturell tilpasningsevne fikk den laveste strategiske vekten (0,0735), noe de leser som en teknologi-først-skjevhet i tidlig kreditering ([[wu-li-evaluation-indicator-ai-certificate-programs-2026]]).
+Sertifikater og mikrokrediteringer er der AI-kompetanse leveres i skala og der evalueringen er tynnest. Wu og Li bygde et ekspertvektet indikatorsystem (AHP og Fuzzy-AHP med Monte Carlo-kontroller, 18 eksperter) for AI-sertifikatprogrammer. Faglig kompetanse hos underviserne viste det største gapet mellom viktighet og tilfredshet, med høy opplevd viktighet (0,1976) mot lav nåværende tilfredshet. Dataene deres setter undervisernes kapasitet foran teknologisk infrastruktur som den viktigste begrensningen på pedagogisk endring. Tverrkulturell tilpasningsevne fikk den laveste strategiske vekten (0,0735), noe de leser som en teknologi-først-skjevhet i tidlig kreditering ([[wu-li-evaluation-indicator-ai-certificate-programs-2026|Wu og Li, 2026]]).
 
 Spørsmålet som følger, er det du bør stille ditt eget program: sertifiserer krediteringen varig kompetanse, eller registrerer den oppmøte? Og er de som underviser i den, rustet til å vurdere?
 
 ## Hva denne målgruppen tar feil om
 
-Et verksted er en læreplan. Observasjonene fra AI Literacy Continuum plasserer kritisk vurdering og forbedring i vedvarende, faglig forankret arbeid, og Le et al. flyttet mestringstro uten å fastslå kompetanse.
+Et verksted er en [[curriculum-design|læreplan]]. Observasjonene fra AI Literacy Continuum plasserer kritisk vurdering og forbedring i vedvarende, faglig forankret arbeid, og Le et al. flyttet mestringstro uten å fastslå kompetanse.
 
 Trygghet er en proxy for kompetanse. GLAT-resultatet er direkte: en prestasjonstest forutsa oppgaveprestasjon, og et selvrapporteringsmål gjorde det ikke.
 
@@ -108,7 +108,7 @@ Kompetanse er én ferdighet som overføres mellom verktøy. Dai og Chan fant at 
 
 **«Krediteringen er ansvarliggjøringsmekanismen.»** Wu og Li fant at undervisernes kompetanse var den bindende begrensningen, og at tverrkulturell tilpasningsevne ble vektet lavest. Et sertifikat registrerer at noen fullførte noe.
 
-**«Underviserne våre er ikke klare til å undervise i dette.»** Evidensen er enig. Undervisernes kapasitet var det største gapet i Wu og Lis data, og ingen studie på denne siden tester hvordan det skal lukkes.
+**«Underviserne våre er ikke klare til å undervise i dette.»** Evidensen er enig. Undervisernes kapasitet var det største gapet i Wu og Lis data, og ingen studie tester hvordan det skal lukkes.
 
 ## Hva du kan gjøre denne uken
 
@@ -124,4 +124,4 @@ Kompetanse er én ferdighet som overføres mellom verktøy. Dai og Chan fant at 
 
 ## Hvor du kan gå videre
 
-[[incorporating-ai-literacy|Hvordan bør jeg integrere AI-kompetanse i emnet mitt?]] tar designspørsmålet inn i emneplanleggingen. [[ai-literacy]] holder begrepet og debatten om målingen av det, og [[research-gaps-aied|siden om forskningshull]] dekker hvor denne litteraturen fortsatt er tynn.
+[[incorporating-ai-literacy|Hvordan bør jeg integrere AI-kompetanse i emnet mitt?]] tar designspørsmålet inn i emneplanleggingen. [[ai-literacy|AI-kompetanse]] holder begrepet og debatten om målingen av det, og [[research-gaps-aied|siden om forskningshull]] dekker hvor denne litteraturen fortsatt er tynn.

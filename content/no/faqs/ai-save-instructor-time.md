@@ -6,9 +6,9 @@ weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-updated: "2026-10-29T15:11:34-04:00"
+updated: "2026-11-15T16:28:16-05:00"
 translation_of: faqs/ai-save-instructor-time
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Bunnlinjen for møtet: overlat førsteutkastet og behold vurderingen. Undervisni
 
 ## Start med arbeid du uansett skulle skrive om
 
-Det sterkeste tallet i denne kunnskapsbasen kommer fra en [[rct|randomisert studie]] oppsummert i [[ai-changing-teaching-workflows|Hvordan AI endrer undervisningens arbeidsflyter]]. To hundre og femtini naturfaglærere som brukte ChatGPT, brukte omtrent 69 % så mye tid på undervisningsforberedelse som kontrollgruppen, en reduksjon på rundt 31 %, og blinde ekspertvurderere fant ingen påvisbar kvalitetstap. Lærerne omdisponerte tiden i stedet for å spare den, og flyttet timene til planlegging, retting og arbeid rettet mot studentene.
+Det sterkeste tallet kommer fra en [[rct|randomisert studie]] oppsummert i [[ai-changing-teaching-workflows|Hvordan AI endrer undervisningens arbeidsflyter]]. To hundre og femtini naturfaglærere som brukte ChatGPT, brukte omtrent 69 % så mye tid på undervisningsforberedelse som kontrollgruppen, en reduksjon på rundt 31 %, og blinde ekspertvurderere fant ingen påvisbar kvalitetstap. Lærerne omdisponerte tiden i stedet for å spare den, og flyttet timene til planlegging, retting og arbeid rettet mot studentene.
 
 Et andre datasett i samme arbeid, mer enn 104 000 meldinger fra over 15 000 undervisere, viser hvorfor besparelsen lander på underlige steder. Den gjennomsnittlige ledeteksten berører 1,7 kategorier samtidig, så en enkelt forespørsel om et undervisningsopplegg kommer tilbake med differensiering og en quiz læreren ikke hadde tenkt å be om.
 
@@ -50,7 +50,7 @@ Det er omdisponering snarere enn reduksjon: det du vinner med [[generative-ai|ge
 
 Kvaliteten er ujevn i et mønster som er stabilt nok til å planlegge etter. Blinde vurderere foretrakk AI-versjoner av undervisningsavslutninger og utgangsbillettet i 59,7 % av tilfellene framfor materiale laget av fagfolk, og foretrakk AI-materiale for videregående innhold i 59,2 % av tilfellene. Besparelsen vokser også der tryggheten din er lavest: å undervise utenfor eget fag er tilfellet med det største gapet mellom det verktøyet gir deg og det du ville skrevet selv.
 
-To kategorier går den andre veien. På materiale for barnetrinnet ble mennesker foretrukket rundt 65 % av tiden for utviklingsmessig egnethet. Målrettet [[scaffolding|støtte]] for [[multilingual-learning|flerspråklige]] studenter og studenter i [[special-education|spesialundervisning]] kom tilbake nøytral snarere enn feil, noe som er verre enn det høres ut, siden en nøytral støtte er noe du bygger på nytt fra bunnen.
+To kategorier går den andre veien. På materiale for barnetrinnet ble mennesker foretrukket rundt 65 % av tiden for utviklingsmessig egnethet. Målrettet [[scaffolding|støtte]] for [[multilingual-learning|flerspråklige]] [[learners|elever og studenter]] i [[special-education|spesialundervisning]] kom tilbake nøytral snarere enn feil, noe som er verre enn det høres ut, siden en nøytral støtte er noe du bygger på nytt fra bunnen.
 
 Testen som forutsier dette før du bruker en kveld på det: kan du angi spesifikasjonen presist nok til å kontrollere utdataene? Et utgangsbillett om ett læringsmål, ja. Om et avsnitt passer for en bestemt niåring som leser to år etter klassen sin, nei.
 
@@ -80,7 +80,7 @@ Du kan bruke [[automated-essay-scoring|automatisk stilretting]] hvis du validere
 
 ## Hva undervisere tar feil om
 
-**«31 % er mitt tall.»** Det er 259 K-12-lærere i [[science-education|naturfag]], om undervisningsforberedelse. Retningen reiser; størrelsen gjør det ikke. Et seminar bygget på diskusjon sparer kanskje mindre, og et labemne med sikkerhetskrav sparer kanskje ingenting på den delen du mest ville ha hjelp til.
+**«31 % er mitt tall.»** Det er 259 [[k-12|K-12]]-[[science-education|naturfag]]lærere, om undervisningsforberedelse. Retningen reiser; størrelsen gjør det ikke. Et seminar bygget på diskusjon sparer kanskje mindre, og et labemne med sikkerhetskrav sparer kanskje ingenting på den delen du mest ville ha hjelp til.
 
 **«Å spare tid er målet.»** Eksperimentet i Brasil er moteksempelet. Timene kom gratis, og det nederste kvartilet tjente ingenting. Målet er hva timene kjøper.
 
@@ -92,7 +92,7 @@ Du kan bruke [[automated-essay-scoring|automatisk stilretting]] hvis du validere
 
 **«Blir jeg raskere, fylles tiden opp med møter.»** Sannsynligvis, og det er den vanligste måten en besparelse forsvinner på. Skriv ned reisemålet der lederen din kan se det, før plassen fylles.
 
-**«AI-tilbakemelding snyter studentene som strever mest.»** Det nederste kvartilet i Brasil tjente ingenting, og det er den sterkeste advarselen på denne siden. Koble besparelsen til en bevisst bruk. Økningen på 35 % i en-til-en-samtaler er hva disse klasserommene gjorde med timene, og det var et valg læreren tok.
+**«AI-tilbakemelding snyter studentene som strever mest.»** Det nederste kvartilet i Brasil tjente ingenting, og det er den sterkeste advarselen i denne litteraturen. Koble besparelsen til en bevisst bruk. Økningen på 35 % i en-til-en-samtaler er hva disse klasserommene gjorde med timene, og det var et valg læreren tok.
 
 **«Retting er der timene mine faktisk er.»** Det er det, og det er også der verktøyet er minst overførbart mellom institusjoner. Valider lokalt, eller la det være.
 
@@ -112,4 +112,4 @@ Du kan bruke [[automated-essay-scoring|automatisk stilretting]] hvis du validere
 
 ## Hvor du kan gå videre
 
-[[ai-feedback-at-scale]] tar tilbakemeldingsspørsmålet videre, og [[faculty-ai-competencies]] sammen med [[faculty-development-ai]] dekker hva en avdeling kan bygge for at dette slutter å avhenge av individuell eksperimentering. [[redesign-assessment-ai-era]] og [[reduce-ai-cheating]] håndterer vurderingskonsekvensene. [[ai-changing-teaching-workflows]] er artikkelen bak forberedelsestallene, og [[human-in-the-loop-ai|menneskelig overoppsyn]] er prinsippet denne siden hviler på.
+[[ai-feedback-at-scale]] tar tilbakemeldingsspørsmålet videre, og [[faculty-ai-competencies]] sammen med [[faculty-development-ai]] dekker hva en avdeling kan bygge for at dette slutter å avhenge av individuell eksperimentering. [[redesign-assessment-ai-era]] og [[reduce-ai-cheating]] håndterer vurderingskonsekvensene. [[ai-changing-teaching-workflows|Hvordan AI endrer undervisningens arbeidsflyter]] er artikkelen bak forberedelsestallene, og [[human-in-the-loop-ai|menneskelig tilsyn]] er prinsippet anbefalingene hviler på.

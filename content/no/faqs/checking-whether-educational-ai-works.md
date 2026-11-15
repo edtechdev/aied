@@ -1,7 +1,7 @@
 ---
 title: "Hvordan vet vi at en pedagogisk AI virker riktig, og ikke bare skårer godt?"
 created: "2026-10-02T08:07:09-04:00"
-connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
 foundations: [ai-education]
@@ -14,9 +14,9 @@ discipline: [writing education, math education]
 confidence: high
 methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
-updated: "2026-10-29T15:11:34-04:00"
+updated: "2026-11-15T16:28:16-05:00"
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -58,17 +58,17 @@ Emneassistenten i Linear Control Systems rapporterer dette på riktig måte. Den
 
 ## Skår hver output for seg
 
-I WrAFT-prosjektet nådde en finjustert modell en samsvarsskår på **0,84** med menneskelige sensorer på tvers av 360 holdt-ute TOEFL-essayer. Det er et sterkt resultat for karaktersetting. Modellen fra samme prosjekt, trent til å skrive tilbakemelding, produserte output som var avkortet og ikke lot seg parse, mens det å bare prompte en annen modell ga tilbakemelding som lærere foretrakk ([[wraft-automated-writing-evaluation-argumentative-2026]]).
+I WrAFT-prosjektet nådde en finjustert modell en samsvarsskår på **0,84** med menneskelige sensorer på tvers av 360 holdt-ute TOEFL-essayer. Det er et sterkt resultat for karaktersetting. Modellen fra samme prosjekt, trent til å skrive tilbakemelding, produserte output som var avkortet og ikke lot seg parse, mens det å bare [[prompt-engineering|prompte]] en annen modell ga tilbakemelding som lærere foretrakk ([[wraft-automated-writing-evaluation-argumentative-2026]]).
 
-Kunnskapsbasen bærer samme svikt i en andre form: en utrulling der karaktersettingsmodulen skåret godt og tilbakemeldingen kom avkuttet midt i en setning og uleselig. Ingenting i hovedtallet sa det.
+Den samme svikten dukker opp i en annen form: en utrulling der karaktersettingsmodulen skåret godt og tilbakemeldingen kom avkuttet midt i en setning og uleselig. Ingenting i hovedtallet sa det.
 
 Så list opp outputene systemet produserer, og gi hver av dem sitt eget mål og sin egen beståelsesbetingelse. Karaktersetting, tilbakemeldingstekst, hintvalg og sikkerhetsavvisninger feiler på ulike måter, og en skår på modulnivå kan ikke se forbi sin egen modul.
 
 ## Sett et menneske der modellen er usikker
 
-En korrelasjon forteller deg at modellen vanligvis har rett. Den forteller deg ikke hva du skal gjøre de gangene den ikke har det. Resultatet om konfidensruting er den reneste malen i kunnskapsbasen, og den er kort nok til å kopiere.
+En korrelasjon forteller deg at modellen vanligvis har rett. Den forteller deg ikke hva du skal gjøre de gangene den ikke har det. Resultatet om konfidensruting er den reneste malen i denne litteraturen, og den er kort nok til å kopiere.
 
-Konfidens viste seg å være et pålitelig varselsignal: når modellen var usikker, var den mer sannsynlig feil (**β = -0,602, p < 0,001**). Teamet sendte de minst sikre **20 %** av svarene til et menneske. Den ene regelen løftet samsvaret med menneskelige karakterer fra **0,78 til 0,82** og kuttet manuelt karaktersettingsarbeid med omtrent **80 %** ([[know-when-to-trust-ai-scoring-reliability-2026]]).
+Konfidens viste seg å være et pålitelig varselsignal: når modellen var usikker, var den mer sannsynlig feil (**β = -0,602, p < 0,001**). Teamet sendte de minst sikre **20 %** av svarene til et menneske. Den ene regelen løftet samsvaret med menneskelige karakterer fra **0,78 til 0,82** og kuttet manuelt karaktersettingsarbeid med omtrent **80 %** ([[know-when-to-trust-ai-scoring-reliability-2026|når du kan stole på AI-skåring]]).
 
 Se på hva rapporten inneholder: en terskel, et menneske og en innsparing. «Samsvar 0,84» inneholder ingen av delene, og det er derfor det er vanskelig å handle på og lett å krangle om.
 
@@ -84,27 +84,27 @@ Praktisk versjon: ta et utvalg på rundt femti output, la et menneske vurdere de
 
 Den reneste rettelsen er å trene modellen på den samme størrelsen du har tenkt å måle. En finjustert modell ble trent til å gjenskape de statistiske egenskapene til testspørsmål: hvor vanskelig hvert ledd er, hvor godt det skiller sterkere fra svakere studenter. Den lærte mønstrene i stedet for å få dem fortalt ([[multimodal-item-parameter-estimation-2026]]). Fordi målet var en egenskap ved vurderingen selv, kunne evalueringen handle om den egenskapen i stedet for om ordlyd.
 
-Rapporter progresjonen så vel som sluttpunktet. SWIMs skrivesimulator publiserte hvert trinns skår side om side: vurderingsmatrisebasert prompting **0,577**, finjustering **0,474 ± 0,023**, forsterkningslæring **0,618 ± 0,005** ([[swim-student-writing-simulation-2026]]). En leser kan se fra den tabellen om treningen gjorde noe. Ett enkelt sluttall kan ikke fortelle dem det, og det skjuler et trinn der den finjusterte modellen gjorde det dårligere enn prompten.
+Rapporter progresjonen så vel som sluttpunktet. SWIMs skrive[[simulation|simulator]] publiserte hvert trinns skår side om side: vurderingsmatrisebasert prompting **0,577**, finjustering **0,474 ± 0,023**, [[reinforcement-learning|forsterkningslæring]] **0,618 ± 0,005** ([[swim-student-writing-simulation-2026|SWIMs skrivesimulator]]). En leser kan se fra den tabellen om treningen gjorde noe. Ett enkelt sluttall kan ikke fortelle dem det, og det skjuler et trinn der den finjusterte modellen gjorde det dårligere enn prompten.
 
 ## Sammenlign med noe utenfor prosjektet ditt
 
 Skaff en baseline først, også en billig en. Emneassistentens modell uten forankring skåret under et vanlig nøkkelordssøk, som er den sortens resultat som endrer veikartet og koster en dag å finne.
 
-En ekstern benchmark forteller deg så om tallet ditt er noe å ha i det hele tatt. På CDPK-pedagogikkbenchmarken nådde EduQwen **96,52 %** mot Gemini-3 Pros **90,55 %** ([[singh-eduqwen-pedagogical-rl-2026]]). Pedagogy Benchmark, bygget på ekte eksamener i læreres profesjonsutvikling og med **97 modeller**, fant nøyaktighet fra **28 % til 89 %** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
+En ekstern benchmark forteller deg så om tallet ditt er noe å ha i det hele tatt. På CDPK-[[pedagogy|pedagogikk]]benchmarken nådde EduQwen **96,52 %** mot Gemini-3 Pros **90,55 %** ([[singh-eduqwen-pedagogical-rl-2026]]). Pedagogy Benchmark, bygget på ekte eksamener i [[teacher-role|læreres]] profesjonsutvikling og med **97 modeller**, fant nøyaktighet fra **28 % til 89 %** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
 
 På en oppgave om undervisning spente modellene fra dårlig til god, så et benchmarkresultat plasserer systemet ditt et sted innenfor et bredt spekter.
 
 ## Test sikkerhet over en hel samtale
 
-Det meste av sikkerhetstesting sjekker én enkelt utveksling. Skadene som betyr noe i veiledning, akkumulerer. SafeTutors fant at selv modeller bygget spesielt for undervisning, forringes over en lang samtale og kan avsløre svar de burde holde tilbake ([[hazra-safetutors-pedagogical-safety-2026]]).
+Det meste av sikkerhetstesting sjekker én enkelt utveksling. Skadene som betyr noe i veiledning, akkumulerer. SafeTutors fant at selv modeller bygget spesielt for undervisning, forringes over en lang samtale og kan avsløre svar de burde holde tilbake ([[hazra-safetutors-pedagogical-safety-2026|safeTutors]]).
 
 Kjør sjekken over komplette samtaler, og skriv testurene med vilje: studenten som tar feil, den som fortsetter å presse på, den som prøver å snakke modellen ut av rollen sin. En veileder som holder i ti turer og faller på den ellevte, feiler testen som betyr noe, og en suitt per svar vil skåre den som ren.
 
 ## Sjekk den simulerte studenten før du stoler på den
 
-Å generere simulerte studenter i stedet for å rekruttere ekte gjør evalueringen mye billigere. En simulert student er også et måleinstrument, og det kan ta feil på de måtene instrumenter tar feil: for samarbeidsvillig, for flytende, for rask til å akseptere et hint.
+Å generere [[simulating-students|simulerte studenter]] i stedet for å rekruttere ekte gjør evalueringen mye billigere. En simulert student er også et måleinstrument, og det kan ta feil på de måtene instrumenter tar feil: for samarbeidsvillig, for flytende, for rask til å akseptere et hint.
 
-Den mest direkte testen i kunnskapsbasen benchmarket simulerte og promptede studenter mot **382 holdt-ute dialoger** fra den største offentlige samlingen av ekte matematikkdialoger mellom student og veileder, med sju mål som dekker språk, atferd og tenkning ([[simulated-students-tutoring-dialogues-2026]]). Annet arbeid presser på realismen fra andre vinkler: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] trener modeller til både å handle og tenke som studenter, og historiebevisste profiler betinger simuleringen på studentens fortid i stedet for en fast persona ([[history-aware-student-simulation]]).
+Den mest direkte testen benchmarket simulerte og promptede studenter mot **382 holdt-ute dialoger** fra den største offentlige samlingen av ekte matematikkdialoger mellom student og veileder, med sju mål som dekker språk, atferd og tenkning ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). Annet arbeid presser på realismen fra andre vinkler: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] trener modeller til både å handle og tenke som studenter, og historiebevisste profiler betinger simuleringen på studentens fortid i stedet for en fast persona ([[history-aware-student-simulation]]).
 
 Hvis testbenken din er en simulert student, valider simulatoren mot ekte transkripsjoner før du lar den vurdere veilederen din.
 
@@ -146,4 +146,4 @@ Simulerte studenter gjør evalueringen gratis. De gjør den billig, og de flytte
 
 ## Hvor du kan gå videre
 
-[[making-ai-better-at-supporting-learning|Hvordan kan vi gjøre AI bedre til å støtte læring i vårt eget fag?]] dekker designsiden av samme problem. [[training-ai-tutors-to-guide-rather-than-answer]] håndterer treningsveien til en veilederatferd, og [[evaluating-ai-interventions-methods]] er den underviservendte versjonen av dette spørsmålet, med [[reporting-interpreting-aied-research]] som den forskningsvendte. Metodene ligger under [[ai-ed-evaluation]] og [[llm-training-and-fine-tuning]].
+[[making-ai-better-at-supporting-learning|Hvordan kan vi gjøre AI bedre til å støtte læring i vårt eget fag?]] dekker designsiden av samme problem. [[training-ai-tutors-to-guide-rather-than-answer]] håndterer treningsveien til en veilederatferd, og [[evaluating-ai-interventions-methods]] er den underviservendte versjonen av dette spørsmålet, med [[reporting-interpreting-aied-research]] som den forskningsvendte. Metodene ligger under [[ai-ed-evaluation|evaluering av AI i utdanning]] og [[llm-training-and-fine-tuning|loRA]].

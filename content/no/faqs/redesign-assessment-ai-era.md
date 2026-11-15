@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-10-29T15:11:34-04:00"
+updated: "2026-11-15T16:19:24-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-10-28T10:45:41-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ Det korte svaret: bestem hva karakteren skal være evidens **for**, legg inn min
 
 ## Bestem hva karakteren er evidens for
 
-Begynn med å si eksplisitt hvilken kompetanse karakteren skal representere. Vurderer du hva en student kan gjøre uavhengig, hva de kan oppnå hensiktsmessig med AI, evnen deres til å evaluere og styre AI, eller en kombinasjon av disse? Kunnskapsbasens [[assessment-validity|Vurderingsvaliditet]] behandler dette som et validitetsproblem: et polert arbeid er ikke lenger tilstrekkelig evidens for at studenten har kompetansen arbeidet tilsynelatende viser. Dette er vurderingssiden av samme argument; håndhevingssiden står i [[reduce-ai-cheating]], og den generelle validitetsinnrammingen går gjennom [[evaluating-ai-interventions-methods]].
+Begynn med å si eksplisitt hvilken kompetanse karakteren skal representere. Vurderer du hva en student kan gjøre uavhengig, hva de kan oppnå hensiktsmessig med AI, evnen deres til å evaluere og styre AI, eller en kombinasjon av disse? [[assessment-validity|Vurderingsvaliditet]] behandler dette som et validitetsproblem: et polert arbeid er ikke lenger tilstrekkelig evidens for at studenten har kompetansen arbeidet tilsynelatende viser. Dette er vurderingssiden av samme argument; håndhevingssiden står i [[reduce-ai-cheating]], og den generelle validitetsinnrammingen går gjennom [[evaluating-ai-interventions-methods]].
 
 Si svaret i emnebeskrivelsen, i oppgavearket og i vurderingsmatrisen. Studenter leser tre dokumenter og følger det som er mest spesifikt. «AI-bruk er tillatt med anerkjennelse» er ikke en erklæring om hva du måler, og det gir en student ingen måte å vite om den tillatte bruken undergraver det du vurderer.
 
@@ -86,7 +86,7 @@ Formålet betyr like mye som mekanikken. [[ai-agents-joyful-assessment-third-spa
 
 **«Akkreditering og programgodkjenning beveger seg ikke så fort.»** Studien over navngir lange ledetider og akkrediteringsbegrensninger ved store kull som den sentrale friksjonen. Et enkelt emne kan endre hva som skjer inne i en eksisterende vurdering uten å endre navnet, vekten eller læringsutbyttene, og det er vanligvis nok til å begynne.
 
-**«Dette straffer engstelige studenter og studenter med funksjonsnedsettelser.»** Det kan det. Muntlige komponenter krever tilrettelegging planlagt på forhånd, et valg av format der konstruktet tillater det, og oppmerksomhet mot språkforskjeller og sensorforutinntatthet. Verifiser kompetansen, ikke prestasjonsbetingelsene.
+**«Dette straffer engstelige studenter og [[inclusive-learning|studenter med funksjonsnedsettelser]].»** Det kan det. Muntlige komponenter krever tilrettelegging planlagt på forhånd, et valg av format der konstruktet tillater det, og oppmerksomhet mot språkforskjeller og sensorforutinntatthet. Verifiser kompetansen, ikke prestasjonsbetingelsene.
 
 **«Vi bør bare kjøpe en detektor.»** Diskrimineringsresultatet taler imot det som designets ryggrad: hvis falske positive stiger raskere enn sanne positive, gjør sterkere overvåking skjuling relativt mer attraktivt. Deteksjon kan ha en plass i en respons som også redesigner oppgaven, og [[should-we-use-ai-detectors]] dekker det argumentet.
 
@@ -106,4 +106,4 @@ Formålet betyr like mye som mekanikken. [[ai-agents-joyful-assessment-third-spa
 
 ## Hvor du kan gå videre
 
-Validitetsargumentet bak hele siden står i [[assessment-validity]]; følgesiden på håndhevingssiden er [[reduce-ai-cheating]], med [[course-ai-policy]] ved siden av. [[writing-instruction-ai-best-practices]] dekker ordlyden studentene faktisk følger, og [[evaluating-ai-interventions-methods]] dekker om verktøyet du designer rundt, virker i det hele tatt.
+Validitetsargumentet bak hele siden står i [[assessment-validity|vurderingsvaliditet]]; følgesiden på håndhevingssiden er [[reduce-ai-cheating]], med [[course-ai-policy]] ved siden av. [[writing-instruction-ai-best-practices]] dekker ordlyden studentene faktisk følger, og [[evaluating-ai-interventions-methods]] dekker om verktøyet du designer rundt, virker i det hele tatt.

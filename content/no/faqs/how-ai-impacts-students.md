@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
-updated: "2026-10-29T15:11:34-04:00"
+updated: "2026-11-15T16:28:17-05:00"
 translation_of: faqs/how-ai-impacts-students
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -21,9 +21,9 @@ ai_assist:
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
 
-Du bruker AI i studiearbeidet og det går fint, bortsett fra at eksamen uten hjelpemidler føltes som å lese andres notater. Eller en venn sier at de ikke skrev noe og likevel fikk en A, og du lurer på hva det betyr for deg. Eller du har begynt å stille en chatbot flere spørsmål enn du stiller underviseren din.
+Du bruker AI i studiearbeidet og det går fint, bortsett fra at [[summative-assessment|eksamen uten hjelpemidler]] føltes som å lese andres notater. Eller en venn sier at de ikke skrev noe og likevel fikk en A, og du lurer på hva det betyr for deg. Eller du har begynt å stille en chatbot flere spørsmål enn du stiller underviseren din.
 
-Det korte svaret, i en form du kan gjenta til en venn: AI er nyttig der du trenger tilbakemelding, og lite nyttig der du trenger øvelse. Behold tenketrinnet for deg selv, test deg uten verktøyet før du leverer, og vær åpen om hva du brukte. Resten av denne siden handler om hvorfor det holder og hvordan det ser ut en tirsdag kveld.
+Det korte svaret, i en form du kan gjenta til en venn: AI er nyttig der du trenger tilbakemelding, og lite nyttig der du trenger øvelse. Behold tenketrinnet for deg selv, test deg uten verktøyet før du leverer, og vær åpen om hva du brukte. Det rådet holder av grunner som er verdt å legge fram, og det tar en konkret form en tirsdag kveld.
 
 ## Kortversjonen
 
@@ -55,7 +55,7 @@ Ta det personlig hvis du ligger etter i et fag. Hvis du ennå ikke kan skille en
 
 ## Test deg uten verktøyet
 
-Kontrollen tar ti minutter, og den er det mest nyttige på denne siden. Lukk alt, ta et blankt ark og skriv argumentet i innleveringen din fra hukommelsen: påstanden, de to eller tre grunnene, og hva som ville tale imot. Åpne så arbeidet ditt og sammenlign.
+Kontrollen tar ti minutter, og den er det mest nyttige du kan gjøre. Lukk alt, ta et blankt ark og skriv argumentet i innleveringen din fra hukommelsen: påstanden, de to eller tre grunnene, og hva som ville tale imot. Åpne så arbeidet ditt og sammenlign.
 
 Hvis det blanke arket kommer nær, lærte du stoffet og verktøyet hjalp deg å organisere det. Hvis det kommer ut tomt mens dokumentet er polert, har du et prestasjonsgap, og karakteren vil skjule det helt til en eksamen eller en praksisplass ikke gjør det. Gå tilbake til avsnittet du ikke kunne gjenskape, arbeid med det uten hjelp, og sjekk igjen.
 
@@ -111,4 +111,4 @@ Den emosjonelle siden kan også være god. I en [[qualitative-research|kvalitati
 
 ## Hvor du kan gå videre
 
-[[does-ai-help-students-learn|Hjelper bruk av AI faktisk studentene å lære?]] er evidensspørsmålet bak denne siden, og [[study-with-ai|Studere med AI]] dekker arbeidsrutiner. [[ai-anxiety-wellbeing|AI-angst og trivsel]] tar angstsiden videre, og [[guardrails]] forklarer hvordan en støtte blir en erstatning. Kursdesignperspektivet finnes i [[incorporating-ai-literacy|Hvordan bør jeg integrere AI-kompetanse i emnet mitt?]] og [[ai-literacy-evidence|Hva er evidensen for AI-kompetanseintervensjoner i høyere utdanning?]].
+[[does-ai-help-students-learn|Hjelper bruk av AI faktisk studentene å lære?]] er evidensspørsmålet bak disse svarene, og [[study-with-ai|Studere med AI]] dekker arbeidsrutiner. [[ai-anxiety-wellbeing|AI-angst og trivsel]] tar angstsiden videre, og [[guardrails|sikkerhetsmekanismer]] forklarer hvordan en støtte blir en erstatning. Kursdesignperspektivet finnes i [[incorporating-ai-literacy|Hvordan bør jeg integrere AI-kompetanse i emnet mitt?]] og [[ai-literacy-evidence|Hva er evidensen for AI-kompetanseintervensjoner i høyere utdanning?]].

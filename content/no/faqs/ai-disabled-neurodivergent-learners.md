@@ -9,9 +9,9 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:19:53-05:00"
 translation_of: faqs/ai-disabled-neurodivergent-learners
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 Tilretteleggingsbrevet nevner en student, et emne og et verktøy du aldri har hørt om. Eller en student har spurt, med rimelig grunn, om hen kan fortsette å bruke tale-til-tekst-programvaren sin på en tidsbegrenset eksamen, og AI-regelen i emnet ditt sier nei til AI av noe slag. Eller tilgjengelighetskontoret vil ha svar innen fredag på om de skal kjøpe lisens på et leseverktøy, og leverandørens belegg er en uttalelse fra en annen campus.
 
-Svaret som overlever alle tre: start med barrieren oppgaven skaper, bruk verktøyene som faktisk ble målt, og undervis i det du tar i bruk. To regler betyr mer enn ethvert produktvalg. Nevn transkribering og OCR i AI-policyen din som tilrettelegging i seg selv, og gi oppgaven struktur i stedet for å be studentene utlede den. Vær klar over hva belegget sier: det sterkeste tallet på denne siden kommer fra spesialundervisning i grunnskole og videregående med i hovedsak før-generativ AI, og litteraturen om høyere utdanning er et kart over hva som er forsøkt.
+Svaret som overlever alle tre: start med barrieren oppgaven skaper, bruk verktøyene som faktisk ble målt, og undervis i det du tar i bruk. To regler betyr mer enn ethvert produktvalg. Nevn transkribering og OCR i AI-policyen din som tilrettelegging i seg selv, og gi oppgaven struktur i stedet for å be studentene utlede den. Vær klar over hva belegget sier: det sterkeste tallet kommer fra spesialundervisning i grunnskole og videregående med i hovedsak før-generativ AI, og litteraturen om høyere utdanning er et kart over hva som er forsøkt.
 
 ## Kortversjonen
 
@@ -51,11 +51,11 @@ Den samme forsiktigheten gjelder gruppestatistikk. [[differential-effects-across
 
 ## Bruk det som er målt, og les merkingen
 
-Det sterkeste [[quantitative-research|kvantitative]] resultatet på denne siden er også det mest generelle, og det har begrensninger du bør ta med inn i innkjøpsbeslutningen.
+Det sterkeste [[quantitative-research|kvantitative]] resultatet er også det mest generelle, og det har begrensninger du bør ta med inn i innkjøpsbeslutningen.
 
 [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang, Carter, Liu og Peng (2024)]] syntetiserte 29 (kvasieksperimentelle) studier av AI-baserte intervensjoner for [[inclusive-learning|studenter med funksjonsnedsettelser]]: 239 effektstørrelser fra 41 uavhengige utvalg, en statistisk signifikant middels samlet effekt på læringsutfall på Hedges' g = 0,588 (95 % KI [0,349, 0,826], p < 0,01), og høy heterogenitet mellom studiene. Akademisk prestasjon var den største utfallsundergruppen (k = 80, g = 0,929) og sosioemosjonelle ferdigheter den minste (k = 144, g = 0,382). Dataprogramvare, altså [[speech-and-voice-technologies|talegjenkjenning]], ekspertsystemer og [[intelligent-tutoring|intelligente veiledningssystemer]], presterte sterkt (k = 74, g = 0,959) og [[educational-robotics|roboter]] middels (k = 144, g = 0,509), mens intelligent VR (g = 0,528) ikke var signifikant. Publikasjonsskjevhet var til stede (Eggers β = 2,837, p < 0,001); trim-and-fill reduserte estimatet til g = 0,269, fortsatt signifikant.
 
-Hver studie var fra PK-12. 96,6 % brukte trinnbasert undervisning i spesialundervisning eller kliniske settinger, og de fleste brukte eldre regelbasert AI snarere enn [[generative-ai|generativ AI]]. Det støtter en forsiktig adopsjon av strukturert undervisningsprogramvare. Det overføres ikke til en allmenn chatbot, og å behandle det som om det gjør det, er den dyreste feilen som er tilgjengelig på denne siden.
+Hver studie var fra PK-12. 96,6 % brukte trinnbasert undervisning i spesialundervisning eller kliniske settinger, og de fleste brukte eldre regelbasert AI snarere enn [[generative-ai|generativ AI]]. Det støtter en forsiktig adopsjon av strukturert undervisningsprogramvare. Det overføres ikke til en allmenn chatbot, og å behandle det som om det gjør det, er den dyreste feilen som er tilgjengelig.
 
 Tre mindre resultater viser hva ett enkelt verktøy kan gjøre når barrieren er smal. Hvert av dem ble testet på en håndfull studenter, så behandle dem som rimelige og reversible eksperimenter snarere enn infrastruktur.
 
@@ -84,7 +84,7 @@ Den dokumenterte svikten er en tilrettelegging som gis uten opplæring. I *W.A. 
 
 To forhold gjør den svikten sannsynlig, og begge er institusjonelle. [[shin-ai-policies-sld-2026|Shin et al. (2026)]] brukte LLM-basert emnemodellering og to runder med Delphi-undersøkelser med 17 eksperter på tvers av 12 amerikanske policydokumenter om [[educational-policy-ai|AI i utdanning]] fra 2015 til 2025. Utdanning av pedagogen er ett av deres fem validerte temaer, med 4 av 36 elementer, og ekspertene rangerte studentmedvirkning og [[ai-literacy|AI-kompetanse]] som det mest essensielle: disse studentene skal lære å bruke AI ansvarlig og selvstendig, med vern mot overavhengighet undervist som en del av samme ferdighet. Forfatterne bak [[ludia-udl-ai-thought-partner-2026|LUDIA]] navngir hindringen som «kunnskapshandlingsgapet»: veiledning finnes i overflod, er skrevet i generelle vendinger, og en barriere er alltid spesiell for dette rommet, denne uken.
 
-Det denne siden ikke kan gi deg, er en opplæringsprotokoll. Det finnes ingen formelle kunnskapsbaserte retningslinjer som hjelper pedagoger eller familier med å ta AI i bruk for disse studentene, så mengden opplæring, rekkefølgen i den og hvem som gir den, er skjønnsvurderinger. Rettspraksis setter gulvet snarere enn standarden: studenten må ende opp med å kunne gjøre det, og noen må stå ansvarlig for å få hen dit.
+Det belegget ikke kan gi deg, er en opplæringsprotokoll. Det finnes ingen formelle kunnskapsbaserte retningslinjer som hjelper pedagoger eller familier med å ta AI i bruk for disse studentene, så mengden opplæring, rekkefølgen i den og hvem som gir den, er skjønnsvurderinger. Rettspraksis setter gulvet snarere enn standarden: studenten må ende opp med å kunne gjøre det, og noen må stå ansvarlig for å få hen dit.
 
 ## Skriv transkribering og OCR inn i AI-regelen ved navn
 
@@ -92,7 +92,7 @@ Det denne siden ikke kan gi deg, er en opplæringsprotokoll. Det finnes ingen fo
 
 En regel skrevet som «ingen AI» kan derfor ta fra studenten det viktigste middelet hen har til å produsere lesbart arbeid. Ingen har målt omfanget av denne fortrengningen ennå, og det er grunn til å være uttrykkelig snarere enn å vente på tallet. Nevn transkribering og OCR som tilrettelegging i policyen, side om side med forbudene mot utforming, slik at de to spørsmålene avgjøres hver for seg. Eksponeringen dette skaper for institusjonen, hører hjemme under [[legal-issues-and-risks]].
 
-Dette er en endring på én linje i de fleste dokumenter, og det er linjen med de største konsekvensene på denne siden.
+Dette er en endring på én linje i de fleste dokumenter, og det er linjen med de største konsekvensene i policyen.
 
 ## Gi struktur der oppgaven forutsetter det
 
@@ -106,7 +106,7 @@ Samlede effekter gir deg en retning. De sier ikke om verktøyet virker for stude
 
 Tre forbehold bør forme det målet. Det første er at rekkefølgen mellom undergrupper er antydende og ikke etablert: ingen moderator av noe slag nådde signifikans i metaanalysen fra 2024, så rangeringer som [[learning-by-teaching|undervisbare agenter]] (g = 1,100) foran sosioemosjonelle coacher (g = 0,336), eller dyadisk interaksjon foran triadisk (g = 0,973 mot g = 0,385), bør ikke behandles som avgjorte. Retningen på effekten er understøttet; størrelsen, det optimale designet og holdbarheten til en eventuell gevinst er det ikke.
 
-Det andre er at dette korpuset beskriver utplasseringer og oppfatninger mer enn målt læring. Oppmerksomhet (n = 4) og sosial kommunikasjon (n = 5) er de minst studerte barrierene, og knappheten på (kvasieksperimentelle) og longitudinelle design er grunnen til at arbeidet om høyere utdanning er en scoping-gjennomgang snarere enn en metaanalyse. Dekningen skjever mot bachelorstudenter og det globale nord, søket var engelskspråklig fagfellevurdert arbeid, og doktorgradsstudenter er underrepresentert. Engasjement og tilfredshet er svake indikatorer.
+Det andre er at litteraturen beskriver utplasseringer og oppfatninger mer enn målt læring. Oppmerksomhet (n = 4) og sosial kommunikasjon (n = 5) er de minst studerte barrierene, og knappheten på (kvasieksperimentelle) og longitudinelle design er grunnen til at arbeidet om høyere utdanning er en scoping-gjennomgang snarere enn en metaanalyse. Dekningen skjever mot bachelorstudenter og det globale nord, søket var engelskspråklig fagfellevurdert arbeid, og doktorgradsstudenter er underrepresentert. Engasjement og tilfredshet er svake indikatorer.
 
 Det tredje er at et verktøy som retter opp én barriere, kan la en annen stå. Sjekk verktøyet mot den konkrete vanskeligheten studenten rapporterer, enten det er lesing og skriving, studiehåndtering, oppmerksomhet eller sosial kommunikasjon, og vurder mot den vanskeligheten snarere enn mot hvordan studenten opplevde produktet. Spør studenten hva som skal telles. Deltakerne til Zastudil et al. og forumskribentene til Rezazadegan et al. beskriver behovene sine mer presist enn produktene som er bygget for dem.
 
@@ -128,7 +128,7 @@ En diagnose forteller meg hvilket verktøy jeg skal kjøpe. Barrierene går på 
 
 En tilrettelegging er en personlig ordning, så løsningen tilhører studenten. Noen er det, og de som er verdt å generalisere, er de du uansett ville ha designet inn. Segmentering hjalp hver student i studien sin. Designendringer fjerner steget med å oppgi behovet, og med det stigmatiseringen.
 
-Engasjement og tilfredshet viser at verktøyet virket. De viser at studenten likte det. Dette korpuset er i hovedsak utplasseringer og oppfatninger, og bare 6 av 40 studier om høyere utdanning tok opp mer enn én barriere, så en tilfreds student er ennå ikke belegg for at en barriere falt.
+Engasjement og tilfredshet viser at verktøyet virket. De viser at studenten likte det. Litteraturen er i hovedsak utplasseringer og oppfatninger, og bare 6 av 40 studier om høyere utdanning tok opp mer enn én barriere, så en tilfreds student er ennå ikke belegg for at en barriere falt.
 
 Verktøyet bærer støtten, og undervisning er et tillegg. Rettspraksis behandler et verktøy uten opplæring som svikten, og policyekspertene rangerte studentmedvirkning og AI-kompetanse som sitt mest essensielle tema. Budsjetter undervisningstiden sammen med lisensen.
 
@@ -158,4 +158,4 @@ Verktøyet bærer støtten, og undervisning er et tillegg. Rettspraksis behandle
 
 ## Hvor du kan gå videre
 
-[[universal-design-for-learning]] dekker designtilnærmingen som forebygger barrierer før de oppstår, [[assistive-technology]] verktøylaget en student bruker, [[accessibility]] om et format i det hele tatt kan oppfattes og betjenes, og [[neurodiversity]] linsen som behandler forskjell som mangfold snarere enn som mangel, alt innenfor paraplyen [[inclusive-learning]]. [[reducing-over-reliance]] dekker overavhengighet og inversjonseffektene som avgjør om et verktøy fortsetter å hjelpe, og [[equity-ethics-pedagogical-safety-research|å innlemme likestilling, tilgjengelighet, personvern, etikk og pedagogisk sikkerhet i AIED-forskning]] dekker forpliktelsene på forskningssiden.
+[[universal-design-for-learning|Universell utforming for læring]] dekker designtilnærmingen som forebygger barrierer før de oppstår, [[assistive-technology|hjelpeteknologi]] verktøylaget en student bruker, [[accessibility|tilgjengelighet]] om et format i det hele tatt kan oppfattes og betjenes, og [[neurodiversity|nevromangfold]] linsen som behandler forskjell som mangfold snarere enn som mangel, alt innenfor paraplyen [[inclusive-learning|inkluderende læring]]. [[reducing-over-reliance]] dekker overavhengighet og inversjonseffektene som avgjør om et verktøy fortsetter å hjelpe, og [[equity-ethics-pedagogical-safety-research|å innlemme likestilling, tilgjengelighet, personvern, etikk og pedagogisk sikkerhet i AIED-forskning]] dekker forpliktelsene på forskningssiden.

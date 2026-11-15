@@ -14,9 +14,9 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:18:15-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ Det korte svaret til det møtet: AI kan ta søk, en første sorteringsrunde, kod
 
 **5.** Verifiser hver referanse for hånd, forfattere først, hver gang AI har rørt skrivingen.
 
-**6.** Logg prompter, modellversjoner og korpusversjoner, og budsjetter timene til det.
+**6.** Logg prompter, modellversjoner og datasettversjoner, og budsjetter timene til det.
 
 ## Bestem hva AI kan røre før prosjektet starter
 
@@ -60,7 +60,7 @@ Det meste av gevinsten kommer fra to designbeslutninger. Skriv beslutningsregler
 
 ## Fastsett kodeboken før modellen leser noe som helst
 
-[[qualitative-research|Kvalitativ analyse]] er stadiet der tolkningen er produktet. Konstrukter, koderubrikker og treningsdata er menneskelige beslutninger, ikke modellresultater ([[ai-methodologies-science-education-research-2026|Martin m.fl., 2026]]), som betyr at kodeboken må være fastsatt før en automatisert runde går over korpuset. Alternativet er et kodeskjema skrevet rundt det modellen tilfeldigvis løftet fram, og temaene beskriver da verktøyets lesning av dataene dine.
+[[qualitative-research|Kvalitativ analyse]] er stadiet der tolkningen er produktet. Konstrukter, koderubrikker og treningsdata er menneskelige beslutninger, ikke modellresultater ([[ai-methodologies-science-education-research-2026|Martin m.fl., 2026]]), som betyr at kodeboken må være fastsatt før en automatisert runde går over datasettet. Alternativet er et kodeskjema skrevet rundt det modellen tilfeldigvis løftet fram, og temaene beskriver da verktøyets lesning av dataene dine.
 
 Delegasjon kan være finere enn alt-eller-ingenting. [[agreement-not-quality-llm-coding-verification|Én blindverifiseringsstudie]] klassifiserte 15 av 72 kodebokselementer som påviselig krevende menneskelig ekspertise, 12 som bedre tjent med en modell, og 16 som egnet for tillitsbasert triarge. Sorter dine egne elementer slik, og arbeidsbesparelsen lander der det er trygt.
 
@@ -75,7 +75,7 @@ Så verifiseringssteget trenger en gullstandard som verken er modellens resultat
 
 ## Søk raskt, og sjekk deretter hver kilde selv
 
-Generativt søk oppsummerer, anbefaler, syntetiserer og samtaler, noe som forstyrrer den eldre ordningen der systemet lokaliserer og leseren tolker ([[genai-academic-search-workshop]]). Behandle det som et oppdagelsesverktøy. Arbeidsgrupperapporten har to forbehold: kapasiteten er ujevn, med hyppig siterte forskere rekonstruert omtrent dobbelt så ofte som mindre siterte kolleger, og en [[librarians|bibliotekar]] beskrev et tillitsgap der studenter overstolte på generativt søk mens faglærere mistrodde det.
+Generativt søk oppsummerer, anbefaler, syntetiserer og samtaler, noe som forstyrrer den eldre ordningen der systemet lokaliserer og leseren tolker ([[genai-academic-search-workshop|Liu mfl., 2026]]). Behandle det som et oppdagelsesverktøy. Arbeidsgrupperapporten har to forbehold: kapasiteten er ujevn, med hyppig siterte forskere rekonstruert omtrent dobbelt så ofte som mindre siterte kolleger, og en [[librarians|bibliotekar]] beskrev et tillitsgap der studenter overstolte på generativt søk mens faglærere mistrodde det.
 
 Referanseverifisering er der dette blir ufravikelig, og feilene klynger seg i forfatterfeltet, det som bærer æren. [[citation-errors-hallucinations-computing-education-2026|Denny m.fl. (2026)]] reviderte 723 930 publikasjoner og 15 872 533 referanser og verifiserte 30 fabrikkerte referanser på tvers av 14 artikler i informatikkutdanning, alle fra 2025 og 2026. Sytten av de 30 var hybrider: en ekte tittel festet til fabrikkerte eller uriktige forfattere. Det verifiserte antallet ved ett teknisk symposium steg fra 3 i 2025 til 17 i 2026, i 2,3 % av årets konferanseartikler. Totalen deres er en bevisst nedre grense, og automatiske sjekkere arver feilene i de metadataene de behandler som sannhet. Sjekk forfatterne først.
 
@@ -89,13 +89,13 @@ Svakheten er konkret. I [[zhang-platform-scores-miss-ai-teaching-agents-2026|en 
 
 Bruken har løpt foran rapporteringen. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta og Lin (2026)]] analyserte 888 artikler om automatisering av oversikter: siden 2023 rapporterte 38,0 % av programvare- og produktartiklene ingen evaluering i det hele tatt, mot 9,3 % av LLM-artiklene, og modelltilgangen var overveldende proprietær (84,1 %). En gunstig samlet vurdering innebar heller ikke at arbeidsflyten var egnet for delegasjon, siden 52 % av 118 LLM-artikler med bare positive funn likevel rapporterte en bekymring for at arbeidsflyten lå under listen som rollen krevde. Deres [[meta-analysis-systematic-review|PRISMA]]-LLM-rammeverk skiller avsløring av implementasjon fra konsekvenssensitiv evaluering, og behandler de fem nivåene som avsløringsnivåer snarere enn risikonivåer.
 
-Den praktiske versjonen: navngi systemet og versjonen, promptene, korpusversjonen, hva et menneske sjekket, og hvor det sviktet. Ta vare på prompt- og svarlogger, fordi en flytende generert temaliste ser uunngåelig ut lenge før evidensarbeidet har begynt ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
+Den praktiske versjonen: navngi systemet og versjonen, promptene, datasettversjonen, hva et menneske sjekket, og hvor det sviktet. Ta vare på prompt- og svarlogger, fordi en flytende generert temaliste ser uunngåelig ut lenge før evidensarbeidet har begynt ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
 Budsjetter timene også. [[persistent-ai-agents-academic-research|En 115 dager lang casestudie med én forsker]] av en vedvarende forskningsagent fant at det sterkeste mønsteret var kapasitetsutvidelse snarere enn påvist arbeidssubstitusjon: etter hvert som minne og prosedyrer akkumulerte, vokste omfanget av delegert arbeid mens menneskets innsats ikke krympet.
 
 ## Kjør praksisforskning med de samme reglene i mindre skala
 
-Hvis du er en foreleser som studerer eget kurs, arbeider du i den tynneste tråden i korpuset. [[ai-assisted-educational-research|AI-assistert utdanningsforskning]] oppgir dette som et hull snarere enn et funn: AI-assistert praksisforskning er sannsynligvis utbredt og nesten udokumentert, og evidensen om automatiserte oversikter og bibliometri avgjør ikke hvordan en foreleser bør studere egen undervisning.
+Hvis du er en foreleser som studerer eget kurs, arbeider du i den minst studerte tråden i denne litteraturen. [[ai-assisted-educational-research|AI-assistert utdanningsforskning]] oppgir dette som et hull snarere enn et funn: AI-assistert praksisforskning er sannsynligvis utbredt og nesten udokumentert, og evidensen om automatiserte oversikter og bibliometri avgjør ikke hvordan en foreleser bør studere egen undervisning.
 
 Det som overføres, er et sett holdninger:
 
@@ -107,7 +107,7 @@ Definer kriteriene på forhånd og hold dem synlige. En liten lokal studie kan i
 
 Rapporter AI-ens rolle, verifiseringen du gjorde, og grensene ved et design med ett kurs og én forsker. En arbeidsflytberetning er ikke et effektresultat.
 
-Behandle simulering av et kull som et avansert alternativ, ikke en standard. Simulerte lærende har en tendens til å dekke den enkleste kvadranten av ekte studentatferd og valideres sjelden etter bruk ([[simulating-students]]). Les [[making-simulated-students-behave-like-learners]] før du stoler på en [[simulation|simulators]] dom.
+Behandle simulering av et kull som et avansert alternativ, ikke en standard. Simulerte lærende har en tendens til å dekke den enkleste kvadranten av ekte studentatferd og valideres sjelden etter bruk ([[simulating-students|simulering av studenter]]). Les [[making-simulated-students-behave-like-learners]] før du stoler på en [[simulation|simulators]] dom.
 
 ## Hva forskere tar feil om her
 
@@ -147,4 +147,4 @@ AI tar arbeid ut av prosjektet. Casestudien over 115 dager fant at delegert omfa
 
 ## Hvor du kan gå videre
 
-Følgespørsmålene er [[evaluating-ai-interventions-methods]] om hvordan man måler et tiltak, [[reporting-interpreting-aied-research]] om å rapportere systemet og egen AI-bruk, og [[research-gaps-aied]] om hvor litteraturen er tynn. [[equity-ethics-pedagogical-safety-research]] dekker studentdata, og [[ai-assisted-educational-research]] er den fulle konseptsiden bak denne.
+Følgespørsmålene er [[evaluating-ai-interventions-methods]] om hvordan man måler et tiltak, [[reporting-interpreting-aied-research]] om å rapportere systemet og egen AI-bruk, og [[research-gaps-aied]] om hvor litteraturen er tynn. [[equity-ethics-pedagogical-safety-research]] dekker studentdata, og [[ai-assisted-educational-research|AI-assistert utdanningsforskning]] er den fulle konseptsiden bak denne.
