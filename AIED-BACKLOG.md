@@ -12,11 +12,11 @@
 ## OpenAlex weekly topic sweep (2026-11-15)
 
 The topic sweep returned 395 candidates for the 7 days to 2026-11-15 (25 dropped as already
-rejected). Five were selected as worth ingesting — a mapping review of randomized evidence, two
-systematic reviews in disciplines the corpus covers thinly, a scoping review of adaptive and
-co-regulation designs, and a controlled study of LLM scaffolds and delayed cost — and none was
-ingested this week, because the run's full-text budget went to the eight RSS articles above. All
-five are open access at their landing pages.
+known or out of scope). Five were selected as worth ingesting — a mapping review of randomized
+evidence, two systematic reviews in disciplines the corpus covers thinly, a scoping review of
+adaptive and co-regulation designs, and a controlled study of LLM scaffolds and delayed cost —
+and none was ingested this week, because the run's full-text budget went to the eight RSS
+articles above. All five are open access at their landing pages.
 
 - [Mapping randomized evidence on artificial intelligence-based educational interventions](https://doi.org/10.1186/s12909-026-10834-2) — [DOI: 10.1186/s12909-026-10834-2](https://doi.org/10.1186/s12909-026-10834-2)
 - [Scaffold or Crutch? Immediate Benefits and an Unresolved Delayed Cost of LLM-Assisted Learning](https://doi.org/10.3390/computers15110827) — [DOI: 10.3390/computers15110827](https://doi.org/10.3390/computers15110827)
