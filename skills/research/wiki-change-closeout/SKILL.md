@@ -13,7 +13,14 @@ step and the cross-link check that the gates cannot see.
 
 ## Stage explicit paths, never the tree
 
-**Never run `git add -A`, `git add .`, or `git add content/en` on this repo.** The repo
+**Never run `git add -A`, `git add .`, or `git add content/en` on this repo.** The commit wrapper
+(`commit-if-green.sh`) does exactly that on your behalf: it stages the whole tree, runs its gates and
+commits, so passing it a path list does not produce a partial commit. An unrelated untracked page
+written earlier in the session lands in the commit, and `git show --stat` is the only place it shows.
+When one session produced two changes, run the wrapper for the larger one and then commit the rest
+with `git commit -F msg.txt -- <explicit paths>` after the same gates have passed; to repair a commit
+that already swept both, `git reset --mixed HEAD~1` and re-commit with path pathspecs
+(`'content/*/newsletters/2026-11-14.md'`), not directory names. The repo
 `.gitignore` deliberately excludes the pipeline's own bookkeeping — `log.md`,
 `concept-screen.yaml`, `AIED-REJECTED.md` — because it is a cumulative work log, not part of
 the knowledge base. Directory-wide adds silently force-add those files anyway: `git add -A`

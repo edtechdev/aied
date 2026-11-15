@@ -50,6 +50,25 @@ frontmatter details.
   boundary before inserting; a cross-section search puts the line under the following section heading.
 - Skip the addendum only when no concept or FAQ page genuinely fits.
 
+## An English link edit is a locale-wide change
+
+Every issue exists as an English file plus one per translated locale, and the locale audit compares them
+structurally. Adding or removing a link in English therefore breaks all 32 translations at once.
+
+- Run `python3 tooling/scripts/audit-newsletter-locales.py` after any English edit. It compares the
+  count of `](` occurrences, `##`/`###`/`- ` counts, the URL set and the frontmatter, and prints one
+  line per locale (`ok ar`, `FAIL vi: links 158!=172`). A green page render says nothing about this.
+- Propagate the same URLs to every locale file, wrapping the **translated** subject phrase
+  (`[Meyer und Kolleginnen und Kollegen](…)`), never the English one. The URL is the only string that
+  must match; the anchor text is per-locale prose.
+- Delegate in locale batches (four locales per child) and make the audit script the child's oracle: give
+  it the command, not a link count. `grep -c '](http'` counts matching *lines*, and the audit's `links`
+  figure counts `](` including in-page `#` anchors, so a hand-computed target sends children chasing a
+  number that does not exist. A child's work is done when its locales print `ok`.
+- Verify the wave yourself afterwards: for each locale, diff against `HEAD`, strip all links from both
+  sides of every changed line and require the remaining text to be identical (only links were added);
+  then assert that the URL inserted in each item's first sentence equals that item's `###` heading URL.
+
 ## Verification
 
 - Render the preview and audit every internal URL against `dist/`; a rendered page succeeds even when a
@@ -86,3 +105,8 @@ frontmatter details.
   before inserting.
 - **Trusting the default local build.** The full corpus needs the larger Node heap; verify the Pagefind
   line and the exit status before reading `dist/`.
+- **A global spelling replacement renames a URL.** Respelling a word across an issue (`judgement` to
+  `judgment`) also rewrites every slug that contains it, and the locale audit then reports one missing
+  URL plus one extra while the page links to a 404. The US-English checker ignores link targets, so it
+  stays green through the break. Restrict replacements to prose, or restore the URL and re-run the audit
+  before committing.

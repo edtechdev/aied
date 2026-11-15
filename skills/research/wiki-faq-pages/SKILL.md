@@ -53,6 +53,26 @@ A title may need a technical word to stay distinct from a neighbouring FAQ. That
 - **Expect gate 11 (US English) to catch British spellings in fresh prose**: `analyser`, `behaviour`, `labelling` were all flagged in one batch. The gate scans every content file, so a re-run takes about a minute.
 - **FAQ pages are covered by `check-ai-disclosure.py`** (`COLLECTIONS = ('articles', 'concepts', 'faqs', 'resources')`), so a FAQ created on or after 2026-09-22 needs `contributors` and an `ai_assist` block.
 
+## Revising an existing FAQ
+
+- **A title that promises a count must deliver it.** "The top 10 findings" followed by six numbered
+  items is a defect every reader sees, and no gate counts it. Before adding anything, count the
+  enumerated items against the number in the title and opening paragraph; when the page also has
+  argument sections below the list, map each numbered item to the section that carries it.
+- **Growing a numbered promise is a renaming job, not an edit.** Changing "top 10" to "top 15" changes
+  the slug, the title, the 32 translated titles, the redirect map and every inbound link. Fold the new
+  evidence into the existing items unless the additions are genuinely new decisions, and offer the
+  expansion separately when the user floats it, with that cost stated.
+- **New evidence goes into the item it changes, not into a new item.** Cite the study with its design
+  and sample, keep every figure grounded in the source page, and let the item's existing claim carry the
+  new result. A top-N page that grows by appending has stopped being sorted by decision.
+- **House rules still apply**: US English, no em dashes, a wikilink on the first mention of any concept
+  or article, `updated` bumped, and a new `ai_assist` entry appended **inside** the existing list.
+- **Every edit makes the 32 translated copies stale.** That is expected, not a build blocker, but say so
+  in the report and leave the locale pass as explicit queued work.
+- Verify on the built page, not the source: rebuild and grep `dist/faqs/<slug>/index.html` for a distinct
+  phrase from each new paragraph and for the final numbered item.
+
 ## Pitfalls
 
 ### 1. Future-dated `created`/`updated` mis-orders the journal (the maintainer caught this)
