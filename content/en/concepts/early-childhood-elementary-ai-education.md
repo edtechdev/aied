@@ -1,7 +1,7 @@
 ---
 title: Early Childhood Education
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-15T00:32:00-05:00"
 type: concept
 connected_resources: [ai-guidance-by-age]
 foundations: [ai-education, ai-literacy, computational-thinking]
@@ -12,7 +12,7 @@ confidence: high
 reviewed_by: [editor]
 ---
 
-> **Early childhood education** — the use of artificial intelligence in the education of young children, spanning preschool and the elementary (primary) years. This covers AI-literacy and [[computational-thinking|computational thinking]] curricula for young learners, AI-enabled toys and play, [[personalized-learning|personalized learning]] in elementary subjects, and the developmental, safety, and equity considerations unique to children rather than adolescents or adults.
+> **Early childhood education** — the use of artificial intelligence in the education of young children, from preschool through the first years of primary school (roughly ages 3 to 8). This covers AI-literacy and [[computational-thinking|computational thinking]] for young learners, AI-enabled toys and play, classroom robots, early [[personalized-learning|personalized learning]], and the developmental, safety, and equity considerations that apply to children rather than adolescents or adults. Later primary grades are on [[primary-education|primary education]].
 
 ## Questions to Consider
 
@@ -25,7 +25,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Young children interact with AI increasingly early — through AI-enabled toys, chatbots, [[adaptive-learning|adaptive learning]] platforms, and classroom robots — yet they differ developmentally from the K-12 and higher-education learners who dominate most AI-in-education [[research-methods-aied|research]]. That younger band has its own evidence base. It sits within the broader [[k-12|K-12]] umbrella but is distinct because the concerns are developmentally specific: [[game-based-learning|play]] as a primary learning mode, adult (parent/teacher) scaffolding, age-appropriate [[ai-literacy|AI literacy]], and heightened attention to [[well-being|well-being]] and [[pedagogical-safety|safety]]. The developmental account behind these claims — how capacities change with age, and why "age-appropriate" is a relation rather than a label — is on [[developmental-psychology|developmental psychology]].
+This page covers the preschool and early-primary years, where play is the dominant learning mode and an adult mediates most encounters with a tool. The later primary grades, where subject teaching and whole-class deployment take over, are on [[primary-education|primary education]]. Young children interact with AI increasingly early — through AI-enabled toys, chatbots, [[adaptive-learning|adaptive learning]] platforms, and classroom robots — yet they differ developmentally from the K-12 and higher-education learners who dominate most AI-in-education [[research-methods-aied|research]]. That younger band has its own evidence base. It sits within the broader [[k-12|K-12]] umbrella but is distinct because the concerns are developmentally specific: [[game-based-learning|play]] as a primary learning mode, adult (parent/teacher) scaffolding, age-appropriate [[ai-literacy|AI literacy]], and heightened attention to [[well-being|well-being]] and [[pedagogical-safety|safety]]. The developmental account behind these claims — how capacities change with age, and why "age-appropriate" is a relation rather than a label — is on [[developmental-psychology|developmental psychology]].
 
 ## How the research clusters
 
@@ -35,7 +35,7 @@ Young children interact with AI increasingly early — through AI-enabled toys, 
 
 - **Children's attitudes toward age-tailored chatbots.** [[vahedian-children-attitudes-ai-chatbot-2026|Vahedian Movahed & Martin (2025)]] deployed "Ask Me Anything" (AMA), a topic-bounded chatbot (astronomy, sneakers and shoes, dinosaurs) tailored by age via [[prompt-engineering|prompt engineering]], for 63 children (ages 6–14), revealing three patterns in child–[[student-ai-interaction|AI interaction]] — wonder and curiosity, testing trust and building confidence, and building relationships through anthropomorphization — alongside a broad openness to and high trust in AI as an information source. Their call for age-sensitive design and explicit [[teacher-role|teaching]] of [[privacy|digital-safety]] and data-use concepts reinforces the developmental and [[pedagogical-safety|safety]] concerns central to this concept.
 
-- **Elementary subject learning.** [[ai-powered-personalized-learning-elementary-fractions-2026|AI-powered personalized learning]] in elementary fractions and [[awareness-technological-isomorphism|AI in elementary math]] (including concerns about "technological isomorphism" — students mimicking AI output without understanding) show both the promise and the pitfalls of AI in early subject instruction. [[elementary-writing-genai-systematic-review-2026|A systematic review of elementary writing and GenAI]] maps how [[generative-ai|generative AI]] is reshaping [[writing-education|writing instruction]] in the early grades.
+- **Early-primary subject learning.** [[ai-powered-personalized-learning-elementary-fractions-2026|AI-powered personalized learning]] in elementary fractions and [[awareness-technological-isomorphism|AI in elementary math]] (including concerns about "technological isomorphism" — students mimicking AI output without understanding) show both the promise and the pitfalls of AI in early subject instruction. [[elementary-writing-genai-systematic-review-2026|A systematic review of elementary writing and GenAI]] maps how [[generative-ai|generative AI]] is reshaping [[writing-education|writing instruction]] in the early grades.
 - **Primary English [[language-learning|language learning]] has its own map.** A [[meta-analysis-systematic-review|PRISMA]]-ScR review of 119 reports on AI-mediated tools in primary English sorted them into five pedagogical functions, and its strongest design, a cluster [[rct|randomized trial]] with 217 second-grade learners, gained on taught words (effect size = .38) while standardized vocabulary and [[reading-education|reading]] comprehension did not reach significance ([[li-zhou-ai-tools-primary-english-scoping-review-2026|Li and Zhou (2026)]]).
 
 - **Robots and young children.** [[tsingidou-ct-robotics-kindergarten-2026|Robotics in kindergarten]] supports computational thinking through [[educational-robotics|educational robots]], and [[icub-humanoid-storytelling-llm-hri-2025|LLM-powered humanoid storytelling]] explores whether parents will accept robots as narrative play partners for their children — foregrounding [[trust|trust]] and adult attitudes.

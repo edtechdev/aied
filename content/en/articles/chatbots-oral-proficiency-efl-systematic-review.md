@@ -8,7 +8,7 @@ confidence: medium
 research_method: [literature review]
 methods: [qualitative-research]
 discipline: [language learning]
-level: [higher ed, k 12]
+level: [k 12, primary education, higher ed]
 audience: [instructors, researchers, curriculum designers]
 technology: [conversational-ai, speech-and-voice-technologies]
 pedagogy: [motivation, anxiety-and-stress, scaffolding]

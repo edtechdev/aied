@@ -7,7 +7,7 @@ technology: [generative-ai, llm]
 ethics: [pedagogical-safety]
 audience: [software developers]
 research_method: [system development]
-level: [k 12]
+level: [k 12, middle school]
 sources: ['raw/papers/caeai-vetting-safety.md']
 confidence: medium
 page_kind: [framework, evaluation]

@@ -61,9 +61,15 @@ export const METADATA_LINKS: Record<string, Record<string, string>> = {
   },
   level: {
     'adult learning': 'adult-learning',
+    'graduate': 'graduate-education',
     'higher ed': 'higher-ed',
     'k 12': 'k-12',
+    'middle school': 'secondary-education',
+    'preschool': 'early-childhood-elementary-ai-education',
+    'primary education': 'primary-education',
+    'secondary': 'secondary-education',
     'special education': 'special-education',
     'teacher education': 'teacher-education',
+    'undergraduate': 'undergraduate-education',
   },
 };

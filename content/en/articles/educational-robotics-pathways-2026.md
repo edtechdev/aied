@@ -7,7 +7,7 @@ pedagogy: [constructivist, project-based-learning]
 technology: [educational-robotics]
 methods: [qualitative-research]
 discipline: [cs education]
-level: [k 12]
+level: [k 12, secondary]
 sources: ['raw/papers/educational-robotics-pathways-2026.md']
 confidence: high
 audience: [instructors, curriculum designers]

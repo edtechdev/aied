@@ -9,7 +9,7 @@ assessment: [automated-question-generation]
 audience: [software developers]
 research_method: [experiment]
 discipline: [stem education]
-level: [k 12]
+level: [k 12, secondary]
 sources: ['raw/papers/2605.07051.md']
 confidence: medium
 page_kind: [evaluation]

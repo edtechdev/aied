@@ -9,7 +9,7 @@ ethics: [global-south]
 research_method: [system development]
 page_kind: [implementation]
 audience: [instructors]
-level: [k 12]
+level: [k 12, secondary]
 sources: ['raw/papers/2607.28647.md']
 confidence: high
 ---

@@ -8,7 +8,7 @@ assessment: [formative-assessment]
 methods: [design-based-research]
 research_method: [survey]
 audience: [learners]
-level: [k 12, higher ed]
+level: [k 12, middle school, secondary, higher ed]
 confidence: medium
 page_kind: [framework]
 sources: ['raw/papers/2606.07544.md']

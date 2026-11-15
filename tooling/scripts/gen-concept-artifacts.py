@@ -220,6 +220,17 @@ LINK_EXCLUDE = {
 # by a broader band page ('undergraduate' is not simply higher education).
 LINK_EXACT_ONLY = {'level'}
 
+# Level values that are not themselves concept slugs but do name one. 'secondary' and
+# 'middle school' both describe secondary schooling, and 'preschool' is the early-years
+# page; without this map those values render as plain text with no way into the concept.
+LEVEL_VALUE_SLUGS = {
+    'secondary': 'secondary-education',
+    'middle school': 'secondary-education',
+    'undergraduate': 'undergraduate-education',
+    'graduate': 'graduate-education',
+    'preschool': 'early-childhood-elementary-ai-education',
+}
+
 # Each metadata field whose vocabulary has one page that reads as the umbrella for
 # the whole field. The page metadata table links the field LABEL to that page, so a
 # reader can move from "Intended audience: instructors" to what the field itself
@@ -258,6 +269,8 @@ def render_metadata_links_ts(reg):
             slug = value.replace(' ', '-')
             if slug in reg['concepts']:
                 pairs[value] = slug
+            elif field == 'level' and value in LEVEL_VALUE_SLUGS:
+                pairs[value] = LEVEL_VALUE_SLUGS[value]
             elif field in LINK_EXACT_ONLY:
                 continue
             elif value.lower() in alias_to_slug:

@@ -7,7 +7,7 @@ foundations: [academic-integrity, ai-education, cognitive-offloading]
 technology: [generative-ai, rag]
 research_method: [experiment]
 audience: [learners]
-level: [k 12]
+level: [k 12, secondary]
 sources: ['raw/papers/2605.08812.md']
 confidence: medium
 page_kind: [evaluation]

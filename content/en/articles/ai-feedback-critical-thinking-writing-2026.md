@@ -9,7 +9,7 @@ technology: [generative-ai]
 assessment: [automated-assessment, feedback]
 methods: [quantitative-research]
 research_method: [longitudinal study]
-level: [k 12]
+level: [k 12, primary education]
 sources: ['raw/papers/2608.05177.md']
 confidence: high
 discipline: [writing education]

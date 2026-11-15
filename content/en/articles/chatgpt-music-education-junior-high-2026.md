@@ -11,7 +11,7 @@ methods: [quantitative-research]
 discipline: [music education]
 research_method: [structural equation modeling, survey]
 audience: [instructors]
-level: [k 12]
+level: [k 12, middle school, secondary]
 sources: ['raw/papers/chatgpt-music-education-junior-high-2026.md']
 confidence: medium
 reviewed_by: [editor]

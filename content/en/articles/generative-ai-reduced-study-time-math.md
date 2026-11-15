@@ -8,7 +8,7 @@ technology: [generative-ai, learning-analytics]
 assessment: [assessment, learning-gains]
 discipline: [stem education, math education]
 audience: [learners]
-level: [k 12, higher ed]
+level: [k 12, middle school, secondary, higher ed]
 sources: ['raw/papers/2605.21629.md']
 confidence: high
 institutions: [regulation]

@@ -8,7 +8,7 @@ sources: ['raw/papers/kharbach-k12-ai-literacy-frameworks-scoping-review-2026.md
 confidence: medium
 page_kind: [synthesis]
 research_method: [literature review]
-level: [k 12]
+level: [k 12, primary education]
 audience: [curriculum designers, policymakers, researchers]
 foundations: [ai-literacy, curriculum-design]
 pedagogy: [constructivist, scaffolding]

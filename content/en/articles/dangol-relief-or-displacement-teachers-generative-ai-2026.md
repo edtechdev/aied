@@ -9,7 +9,7 @@ confidence: high
 page_kind: [evaluation]
 research_method: [interviews]
 discipline: [learning sciences]
-level: [k 12]
+level: [k 12, primary education, middle school, secondary]
 audience: [instructors, administrators]
 foundations: [human-ai-collaboration, teacher-role, educational-development]
 technology: [generative-ai]

@@ -9,7 +9,7 @@ technology: [generative-ai]
 assessment: [assessment]
 audience: [instructors]
 discipline: [writing education]
-level: [preschool, k 12]
+level: [k 12, primary education, preschool]
 sources: ['raw/papers/elementary-writing-genai-systematic-review-2026.md']
 confidence: medium
 methods: [meta-analysis-systematic-review]

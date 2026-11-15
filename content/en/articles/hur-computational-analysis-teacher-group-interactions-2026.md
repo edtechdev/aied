@@ -8,7 +8,7 @@ confidence: medium
 page_kind: [evaluation]
 research_method: [secondary analysis]
 audience: [researchers, learning analytics designers, educational technology developers]
-level: [k 12]
+level: [k 12, secondary]
 discipline: [math education]
 technology: [multimodal, learning-analytics, llm, machine-learning]
 methods: [ai-assisted-educational-research, mixed-methods-research]

@@ -10,7 +10,7 @@ discipline: [stem education, science education]
 sources: ['raw/papers/jiang-chatgpt-inquiry-steam-review-2026.md']
 confidence: high
 audience: [instructors, instructional designers, researchers]
-level: [higher ed, k 12]
+level: [k 12, primary education, higher ed]
 page_kind: [synthesis, framework]
 methods: [meta-analysis-systematic-review]
 ---

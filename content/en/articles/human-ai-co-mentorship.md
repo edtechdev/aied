@@ -8,7 +8,7 @@ pedagogy: [active-learning, project-based-learning, scaffolding]
 technology: [intelligent-tutoring, personalized-learning]
 research_method: [case study]
 discipline: [stem education]
-level: [k 12, higher ed]
+level: [k 12, secondary, higher ed]
 sources: ['raw/papers/2605.05144.md']
 confidence: medium
 audience: [instructors, curriculum designers]

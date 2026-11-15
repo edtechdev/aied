@@ -6,7 +6,7 @@ type: article
 foundations: [ai-literacy, curriculum-design]
 technology: [machine-learning]
 audience: [curriculum designers, researchers, instructors]
-level: [k 12]
+level: [k 12, secondary]
 sources: ["raw/papers/science-integrated-ai-literacy-curriculum-dbr-2026.md"]
 confidence: high
 discipline: [science education, stem education]

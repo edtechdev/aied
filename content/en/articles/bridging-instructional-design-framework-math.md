@@ -9,7 +9,7 @@ technology: [generative-ai, intelligent-tutoring, llm]
 research_method: [theoretical analysis]
 discipline: [stem education]
 audience: [instructors, learners]
-level: [k 12, higher ed]
+level: [k 12, secondary, higher ed]
 confidence: medium
 page_kind: [framework]
 sources: ['raw/papers/2606.20934.md']

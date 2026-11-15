@@ -8,7 +8,7 @@ technology: [generative-ai]
 ethics: [ethics]
 research_method: [quasi-experiment]
 audience: [instructors, learners]
-level: [k 12, preschool]
+level: [k 12, primary education, preschool]
 sources: ['raw/papers/demir-akar-ai-media-literacy-children-2026.md']
 confidence: high
 methods: [mixed-methods-research]

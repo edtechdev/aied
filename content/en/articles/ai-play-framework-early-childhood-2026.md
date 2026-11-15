@@ -8,7 +8,7 @@ pedagogy: [game-based-learning, learning-theories]
 audience: [instructors]
 research_method: [literature review]
 discipline: [cs education]
-level: [preschool, k 12]
+level: [k 12, primary education, preschool]
 sources: ['raw/papers/ai-play-framework-early-childhood-2026.md']
 confidence: high
 page_kind: [framework]

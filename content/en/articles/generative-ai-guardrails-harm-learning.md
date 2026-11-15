@@ -9,7 +9,7 @@ technology: [generative-ai, intelligent-tutoring, learning-analytics]
 assessment: [learning-gains]
 discipline: [stem education]
 audience: [learners]
-level: [k 12]
+level: [k 12, secondary]
 sources: ['raw/papers/pnas-2025-guardrails-harm-learning.md']
 confidence: high
 page_kind: [evaluation]

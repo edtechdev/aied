@@ -9,7 +9,7 @@ technology: [adaptive-learning]
 methods: [qualitative-research]
 research_method: [thematic analysis]
 audience: [instructors, learners]
-level: [k 12]
+level: [k 12, middle school]
 sources: ['raw/papers/2606.22294.md']
 confidence: medium
 discipline: [math education]

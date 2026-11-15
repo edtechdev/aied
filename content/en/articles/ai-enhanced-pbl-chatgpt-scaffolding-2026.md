@@ -7,7 +7,7 @@ foundations: [critical-thinking]
 pedagogy: [problem-based-learning, scaffolding]
 technology: [conversational-ai, generative-ai, personalized-learning]
 methods: [mixed-methods-research]
-level: [k 12]
+level: [k 12, middle school]
 sources: ['raw/papers/ai-enhanced-pbl-chatgpt-scaffolding-2026.md']
 confidence: medium
 audience: [instructors, instructional designers]

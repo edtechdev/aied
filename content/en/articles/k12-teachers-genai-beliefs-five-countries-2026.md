@@ -8,7 +8,7 @@ confidence: high
 published: "2026"
 page_kind: [evaluation]
 research_method: [survey]
-level: [k 12]
+level: [k 12, primary education]
 audience: [instructors, administrators, policymakers, researchers, faculty developers]
 foundations: [ai-literacy, teacher-ai-competency, academic-integrity, theories-and-frameworks, limitations-in-aied-research]
 pedagogy: [self-determination-theory, motivation, creativity, professional-training, self-efficacy]

@@ -9,7 +9,7 @@ assessment: [feedback]
 methods: [mixed-methods-research]
 research_method: [experiment]
 discipline: [stem education, science education]
-level: [k 12]
+level: [k 12, primary education]
 sources: ['raw/papers/bin-bakheet-adaptive-ai-stem-deep-learning-2026.md']
 confidence: medium
 audience: [instructors, instructional designers]

@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 238
+**Total concepts:** 242
 
 ## Foundations of AI in education
 
@@ -208,10 +208,14 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 ### Levels and settings
 
 - **`adult-learning`** — Adult Learners — phrases: adult education; adult learner; adult learners; adult learning; andragogy; continuing education; lifelong learner; mature students
-- **`early-childhood-elementary-ai-education`** — Early Childhood Education — phrases: AI toys; child development; early childhood; elementary education; kindergarten; primary education; young children
-- **`higher-ed`** — Higher Education — phrases: college; college students; higher education; higher-ed; post-secondary; postsecondary; tertiary; undergraduate; undergraduates; universities; university
-- **`k-12`** — K-12 — phrases: K-12 education; eighth grade; elementary; high school; junior high; k-12; middle school; primary school; school; schools; secondary; secondary education; secondary school
+- **`early-childhood-elementary-ai-education`** — Early Childhood Education — phrases: AI toys; child development; early childhood; kindergarten; young children
+- **`graduate-education`** — Graduate Education — phrases: doctoral; doctoral students; graduate; graduate education; graduate school; graduates; master's; phd; postgraduate; postgraduate education
+- **`higher-ed`** — Higher Education — phrases: college; college students; higher education; higher-ed; post-secondary; postsecondary; tertiary; universities; university
+- **`k-12`** — K-12 — phrases: K-12 education; k-12; school; schools
+- **`primary-education`** — Primary Education — phrases: elementary; elementary education; elementary school; grade school; primary; primary education; primary school
+- **`secondary-education`** — Secondary Education — phrases: high school; junior high; middle school; secondary; secondary education; secondary school
 - **`special-education`** — Special Education — phrases: disabled learners; disabled students; exceptional learners; learners with disabilities; special education; special needs; special needs education; students with disabilities
+- **`undergraduate-education`** — Undergraduate Education — phrases: bachelor; bachelors; undergraduate; undergraduate education; undergraduates
 - **`vocational-education`** — Vocational Education and Training — phrases: VET; TVET; technical and vocational education and training; vocational colleges
 
 ### Bands and comparisons

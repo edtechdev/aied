@@ -7,7 +7,7 @@ sources: ['raw/papers/children-design-trustworthy-ai-chatbots-2026.md']
 confidence: high
 page_kind: [evaluation]
 research_method: [design and evaluation study, thematic analysis]
-level: [k 12]
+level: [k 12, primary education, middle school, secondary]
 audience: [instructors, instructional designers, researchers]
 pedagogy: [student-ai-interaction, constructivist]
 technology: [conversational-ai, generative-ai, llm, prompt-engineering]

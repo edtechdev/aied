@@ -8,7 +8,7 @@ confidence: medium
 page_kind: [evaluation]
 research_method: [thematic analysis]
 audience: [researchers, assessment designers]
-level: [k 12]
+level: [k 12, secondary]
 technology: [llm, prompt-engineering, human-in-the-loop-ai]
 methods: [qualitative-research, ai-assisted-educational-research]
 foundations: [human-ai-collaboration]

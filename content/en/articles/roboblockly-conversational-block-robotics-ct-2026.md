@@ -7,7 +7,7 @@ foundations: [computational-thinking]
 pedagogy: [embodied-learning]
 technology: [educational-robotics, llm]
 research_method: [system development]
-level: [k 12]
+level: [k 12, secondary]
 sources: ['raw/papers/li-roboblockly-conversational-block-2026.md']
 confidence: high
 discipline: [cs education]

@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-15T00:28:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -89,7 +89,7 @@ AI is applied across disciplines and educational levels. The [[discipline-specif
 
 ## Levels and contexts
 
-The same AI tool meets very different settings, and the educational level is kept separate from the pedagogy so that findings do not silently transfer across them: [[k-12|K-12 schools]], [[early-childhood-elementary-ai-education|early childhood and elementary education]], [[higher-ed|higher education]], [[adult-learning|adult learning]], [[vocational-education|vocational education and training]], [[special-education|special education]], and [[teacher-education|teacher education]]. Domain-adjacent concepts that cut across levels include [[universal-design-for-learning|universal design for learning]], [[neurodiversity|neurodiversity]], [[multilingual-learning|multilingual learning]], and [[social-emotional-learning|social-emotional learning]].
+The same AI tool meets very different settings, and the educational level is kept separate from the pedagogy so that findings do not silently transfer across them: [[k-12|K-12 schools]], which now divides into [[early-childhood-elementary-ai-education|early childhood]], [[primary-education|primary education]] and [[secondary-education|secondary education]]; [[higher-ed|higher education]], which divides into [[undergraduate-education|undergraduate]] and [[graduate-education|graduate]] study; and the settings outside those ladders, [[adult-learning|adult learning]], [[vocational-education|vocational education and training]], [[special-education|special education]], and [[teacher-education|teacher education]]. [[education-levels|Levels of education]] compares them. Domain-adjacent concepts that cut across levels include [[universal-design-for-learning|universal design for learning]], [[neurodiversity|neurodiversity]], [[multilingual-learning|multilingual learning]], and [[social-emotional-learning|social-emotional learning]].
 
 ## Assessment and measurement
 
@@ -160,6 +160,10 @@ AI in education connects to every other concept in the field, since each of them
 **"The field's maturity can be read off its publication volume."** Volume and maturity diverge; the research-methods strand documents recurring design weaknesses that volume does not fix, and frameworks multiply faster than they are tested.
 
 ## Connected Concepts
+- [[primary-education]] — AI in primary schooling
+- [[secondary-education]] — AI in middle and high school
+- [[undergraduate-education]] — AI in bachelor's-level study
+- [[graduate-education]] — AI in master's and doctoral study
 - [[pedagogical-patterns]] — The tested sequences that operationalize the field's pedagogies
 - [[ai-literacy]] — umbrella: understanding, using, and evaluating AI
 - [[automation-bias]] — the reader-side failure: accepting an automated judgment without checking it

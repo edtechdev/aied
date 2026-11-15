@@ -628,9 +628,7 @@ concepts:
     - AI toys
     - child development
     - early childhood
-    - elementary education
     - kindergarten
-    - primary education
     - young children
   edtech-platform:
     title: Edtech Platform
@@ -881,6 +879,19 @@ concepts:
     - governance
     - governance framework
     - institutional
+  graduate-education:
+    title: Graduate Education
+    aliases:
+    - doctoral
+    - doctoral students
+    - graduate
+    - graduate education
+    - graduate school
+    - graduates
+    - master's
+    - phd
+    - postgraduate
+    - postgraduate education
   group-work:
     title: Group Work
     aliases:
@@ -930,8 +941,6 @@ concepts:
     - post-secondary
     - postsecondary
     - tertiary
-    - undergraduate
-    - undergraduates
     - universities
     - university
   history-of-aied:
@@ -1038,18 +1047,9 @@ concepts:
     title: K-12
     aliases:
     - K-12 education
-    - eighth grade
-    - elementary
-    - high school
-    - junior high
     - k-12
-    - middle school
-    - primary school
     - school
     - schools
-    - secondary
-    - secondary education
-    - secondary school
   knowledge-graph:
     title: Knowledge Graph
     aliases:
@@ -1283,6 +1283,25 @@ concepts:
     - mathematics
     - mathematics education
 
+  primary-education:
+    title: Primary Education
+    aliases:
+    - elementary
+    - elementary education
+    - elementary school
+    - grade school
+    - primary
+    - primary education
+    - primary school
+  secondary-education:
+    title: Secondary Education
+    aliases:
+    - high school
+    - junior high
+    - middle school
+    - secondary
+    - secondary education
+    - secondary school
   shadow-ai:
     title: Shadow AI
     aliases:
@@ -1360,6 +1379,14 @@ concepts:
     - nurse education
     - nurse training
     - nursing curricula
+  undergraduate-education:
+    title: Undergraduate Education
+    aliases:
+    - bachelor
+    - bachelors
+    - undergraduate
+    - undergraduate education
+    - undergraduates
   vocational-education:
     title: Vocational Education and Training
     aliases:
@@ -2504,6 +2531,10 @@ sections:
     - adult-learning
     - vocational-education
     - special-education
+    - primary-education
+    - secondary-education
+    - undergraduate-education
+    - graduate-education
   - label: Bands and comparisons
     items:
     - education-levels

@@ -9,7 +9,7 @@ technology: [generative-ai]
 methods: [mixed-methods-research]
 research_method: [quasi-experiment]
 discipline: [writing education]
-level: [k 12]
+level: [k 12, middle school]
 sources: ['raw/papers/genai-literary-assistants-writing-motivation-2026.md']
 confidence: high
 audience: [instructors]

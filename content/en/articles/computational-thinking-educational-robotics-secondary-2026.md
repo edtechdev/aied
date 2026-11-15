@@ -8,7 +8,7 @@ pedagogy: [problem-solving]
 technology: [educational-robotics]
 research_method: [literature review]
 discipline: [stem education]
-level: [k 12]
+level: [k 12, secondary]
 sources: ['raw/papers/valls-computational-thinking-educational-robotics.md']
 confidence: medium
 audience: [curriculum designers, instructors]

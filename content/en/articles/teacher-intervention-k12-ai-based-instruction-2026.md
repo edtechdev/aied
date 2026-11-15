@@ -9,7 +9,7 @@ technology: [generative-ai, human-in-the-loop-ai, intelligent-tutoring, learning
 assessment: [feedback]
 research_method: [thematic analysis]
 audience: [instructors, faculty developers, instructional designers, researchers, administrators]
-level: [k 12]
+level: [k 12, primary education, secondary]
 page_kind: [framework]
 sources: ['raw/papers/teacher-intervention-k12-ai-based-instruction-2026.md']
 confidence: high

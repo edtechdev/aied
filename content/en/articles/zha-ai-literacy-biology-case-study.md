@@ -9,7 +9,7 @@ technology: [machine-learning]
 audience: [learners, instructors]
 research_method: [case study]
 discipline: [biology education, stem education]
-level: [k 12]
+level: [k 12, secondary]
 page_kind: [evaluation]
 sources: ['raw/papers/zha-ai-literacy-biology-case-study.md']
 confidence: medium

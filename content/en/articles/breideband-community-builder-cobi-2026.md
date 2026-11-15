@@ -13,7 +13,7 @@ sources:
 confidence: high
 research_method: [user study]
 audience: [instructors, instructional designers]
-level: [k 12]
+level: [k 12, middle school]
 methods: [design-based-research]
 ---
 

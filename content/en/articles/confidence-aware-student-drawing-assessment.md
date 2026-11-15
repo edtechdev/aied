@@ -6,7 +6,7 @@ type: article
 assessment: [assessment-validity, automated-assessment, formative-assessment]
 research_method: [experiment]
 discipline: [stem education]
-level: [k 12]
+level: [k 12, middle school]
 sources: ['raw/papers/2606.20264.md']
 confidence: high
 audience: [instructors, assessment designers, researchers]

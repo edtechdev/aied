@@ -8,7 +8,7 @@ technology: [machine-learning]
 methods: [mixed-methods-research]
 audience: [instructors, learners]
 research_method: [design and evaluation study]
-level: [k 12]
+level: [k 12, primary education]
 sources: ['raw/papers/caeai-ml-literacy-primary.md']
 confidence: medium
 discipline: [cs education]

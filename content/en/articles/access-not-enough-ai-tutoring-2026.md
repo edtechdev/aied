@@ -8,7 +8,7 @@ pedagogy: [student-engagement]
 technology: [intelligent-tutoring, rag]
 ethics: [equity-in-ai-education]
 audience: [learners]
-level: [k 12]
+level: [k 12, middle school]
 sources: ['raw/papers/access-not-enough-ai-tutoring-2026.md']
 confidence: high
 discipline: [english education]

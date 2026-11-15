@@ -8,7 +8,7 @@ technology: [generative-ai]
 ethics: [equity-in-ai-education]
 research_method: [experiment]
 audience: [instructors, faculty developers, learners]
-level: [k 12, higher ed]
+level: [k 12, primary education, secondary, higher ed]
 sources: ['raw/papers/ai-changing-teaching-workflows-2026-05-21.md']
 confidence: high
 page_kind: [synthesis]

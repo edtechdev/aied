@@ -10,7 +10,7 @@ methods: [mixed-methods-research]
 audience: [learners, instructors]
 research_method: [case study]
 discipline: [stem education]
-level: [k 12]
+level: [k 12, primary education]
 sources: ['raw/papers/2606.09598.md']
 confidence: medium
 page_kind: [framework]

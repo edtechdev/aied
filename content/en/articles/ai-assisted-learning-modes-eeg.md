@@ -8,7 +8,7 @@ pedagogy: [active-learning, scaffolding, student-engagement]
 technology: [affective-computing, generative-ai, llm]
 research_method: [experiment]
 audience: [learners]
-level: [k 12]
+level: [k 12, secondary]
 sources: ['raw/papers/2606.26579.md']
 confidence: medium
 ---

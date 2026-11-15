@@ -8,7 +8,7 @@ sources: ['raw/papers/family-school-autonomy-support-genai-2026.md']
 confidence: medium
 research_method: [literature review]
 audience: [instructors, researchers, administrators]
-level: [k 12, preschool]
+level: [k 12, primary education, preschool]
 page_kind: [framework]
 created: "2026-09-13T08:04:43-04:00"
 updated: "2026-09-19T07:04:04-04:00"

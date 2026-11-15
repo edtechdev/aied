@@ -9,7 +9,7 @@ methods: [benchmark]
 research_method: [system development]
 page_kind: [implementation]
 audience: [learners, software developers]
-level: [k 12]
+level: [k 12, secondary]
 sources: ['raw/papers/2606.20138.md']
 confidence: high
 ---

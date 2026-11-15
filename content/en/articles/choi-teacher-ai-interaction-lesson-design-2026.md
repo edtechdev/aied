@@ -8,7 +8,7 @@ pedagogy: [distributed-cognition, tpack]
 technology: [generative-ai]
 methods: [qualitative-research]
 audience: [instructors, faculty developers]
-level: [k 12, teacher education]
+level: [k 12, primary education, teacher education]
 sources: ['raw/papers/choi-teacher-ai-interaction-lesson-design-2026.md']
 confidence: high
 page_kind: [framework]

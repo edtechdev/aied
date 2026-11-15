@@ -9,7 +9,7 @@ technology: [generative-ai]
 assessment: [assessment, learning-gains]
 ethics: [equity-in-ai-education]
 research_method: [quasi-experiment, secondary analysis]
-level: [k 12]
+level: [k 12, secondary]
 sources: ['raw/papers/stromberg-generative-ai-learning-penalty-secondary-2026.md']
 confidence: high
 audience: [policymakers, instructors, administrators]

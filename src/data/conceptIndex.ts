@@ -54,7 +54,7 @@ export const conceptIndex: ConceptSection[] = [
   {
     heading: 'Levels and contexts',
     groups: [
-      { label: 'Levels and settings', items: ['k-12', 'early-childhood-elementary-ai-education', 'higher-ed', 'adult-learning', 'vocational-education', 'special-education'] },
+      { label: 'Levels and settings', items: ['k-12', 'early-childhood-elementary-ai-education', 'higher-ed', 'adult-learning', 'vocational-education', 'special-education', 'primary-education', 'secondary-education', 'undergraduate-education', 'graduate-education'] },
       { label: 'Bands and comparisons', items: ['education-levels'] },
     ],
   },

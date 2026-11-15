@@ -7,7 +7,7 @@ foundations: [human-ai-collaboration]
 technology: [conversational-ai, generative-ai, pedagogical-agent]
 methods: [mixed-methods-research, quantitative-research, qualitative-research]
 audience: [instructors, instructional designers, researchers]
-level: [k 12]
+level: [k 12, primary education]
 sources: ['raw/papers/liao-role-adaptive-ai-companion-book-talk-2026.md']
 confidence: high
 ---

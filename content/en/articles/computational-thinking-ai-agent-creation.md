@@ -9,7 +9,7 @@ technology: [personalized-learning]
 methods: [mixed-methods-research]
 audience: [learners, instructors]
 discipline: [stem education]
-level: [k 12]
+level: [k 12, secondary]
 sources: ['raw/papers/2605.14330.md']
 confidence: high
 ---

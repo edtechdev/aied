@@ -10,7 +10,7 @@ methods: [qualitative-research]
 audience: [instructors, learners]
 research_method: [system development]
 discipline: [writing education]
-level: [k 12]
+level: [k 12, middle school]
 sources: ['raw/papers/tzirides-thinking-through-ai-2025.md']
 confidence: high
 page_kind: [framework]

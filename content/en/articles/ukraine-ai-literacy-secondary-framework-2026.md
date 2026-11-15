@@ -9,7 +9,7 @@ methods: [mixed-methods-research]
 ethics: [global-south]
 pedagogy: [professional-training]
 audience: [faculty developers, researchers, policymakers]
-level: [k 12]
+level: [k 12, secondary]
 sources: ["raw/papers/ukraine-ai-literacy-secondary-framework-2026.md"]
 confidence: high
 page_kind: [framework, evaluation]

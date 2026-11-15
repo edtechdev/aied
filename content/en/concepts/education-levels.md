@@ -1,7 +1,7 @@
 ---
 title: "Levels of Education"
 created: "2026-09-20T13:08:39-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-15T00:26:00-05:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -29,7 +29,7 @@ reviewed_by: [editor]
 
 The `level` metadata field names the band of education a source is about — bands, not ages: **preschool**, **primary education**, **middle school**, **secondary**, **K-12**, **higher ed**, **undergraduate**, **graduate**, **adult learning**, **special education**, **teacher education**. Some name a stage of schooling, two name the very different halves of university study, two name a [[learners|learner population]] rather than a stage, and one names the people who teach. A source can carry several bands at once.
 
-The band pages do the deep work and belong with any reading of the field: [[k-12]], [[early-childhood-elementary-ai-education|early childhood education]], [[higher-ed|higher education]], [[adult-learning|adult learning]], [[special-education|special education]], [[teacher-education|teacher education]] and [[vocational-education|vocational education]].
+The band pages do the deep work and belong with any reading of the field. Within the school years: [[early-childhood-elementary-ai-education|early childhood education]] (preschool and the first years), [[primary-education|primary education]] (roughly ages 5 to 11), and [[secondary-education|secondary education]] (middle and high school together), with [[k-12]] holding the cross-cutting findings. Within university study: [[higher-ed|higher education]] as the umbrella, [[undergraduate-education|undergraduate education]] for coursework under external judgment, and [[graduate-education|graduate education]] for supervision, research training and professional programs. Outside the two ladders: [[adult-learning|adult learning]], [[vocational-education|vocational education]], [[special-education|special education]] and [[teacher-education|teacher education]].
 
 ## What distinguishes one band from another
 
@@ -89,6 +89,10 @@ One pattern holds at every level surveyed: the human layer absorbs the hardest c
 **"Evidence concentrated in higher education generalises downward."** It does not, and the distribution of the literature is a warning rather than a convenience. Where the evidence is dense and where it is thin is a property of the research economy, not of where AI is most used, so a claim about K-12 drawn from university samples is an extrapolation across the boundary that matters most.
 
 ## Connected Concepts
+- [[primary-education]] — The primary band in its own right
+- [[secondary-education]] — Middle and high school together
+- [[undergraduate-education]] — Coursework under external judgment
+- [[graduate-education]] — Supervision, research training, professional programs
 - [[k-12]]
 - [[early-childhood-elementary-ai-education]]
 - [[higher-ed]]
