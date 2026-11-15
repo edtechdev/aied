@@ -1,8 +1,12 @@
-# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms@0.262.4/schema/sveltia-cms.json
+# yaml-language-server: $schema=https://unpkg.com/@sveltia/cms@0.266.0/schema/sveltia-cms.json
 
 # Sveltia CMS configuration for the AI in Education knowledge base.
 # Site: Astro (static), GitHub Pages at https://edtechdev.github.io/aied/
 # Admin is served at /aied/admin/ (public/admin in this repo).
+#
+# The field lists below mirror src/content.config.ts. When the schema changes,
+# change this file in the same commit: an editor writing a value the build
+# rejects is worse than an editor that cannot offer the field at all.
 
 # NOTE ON EDITING MODEL
 # Body fields use the richtext (rich_text + raw markdown) widget. A custom
@@ -37,9 +41,6 @@ output:
     quote: none # keep frontmatter unquoted where YAML allows, as in current files
 
 collections:
-  # ---------------------------------------------------------------------------
-  # ARTICLES
-  # ---------------------------------------------------------------------------
   - name: articles
     label: Articles
     label_singular: Article
@@ -54,15 +55,132 @@ collections:
       - { name: created, widget: hidden }
       - { name: updated, widget: hidden }
       - { name: type, widget: hidden }
-      # The paper's own publication date, distinct from created (the ingestion date)
+      # The paper's own publication date, distinct from created (the ingestion date).
       - { name: published, label: Published, widget: string, required: false, hint: "Date the PAPER was published: YYYY-MM-DD, YYYY-MM or YYYY. Never invent a day; leave blank if unknown." }
-      # Where the evidence was collected. This is not a confidence rating and not
-      # a discipline: it tells readers when the educational implication is an
-      # inference from a non-classroom study. Leave blank on legacy pages.
       - { name: evidence_context, label: Research context, widget: select, options: [educational, non_educational, mixed], required: false, hint: "educational = the study measured education directly; non_educational = the implications are inferred from another setting; mixed = both were studied." }
-      # tags must be real concept slugs (enforced by src/content.config.ts)
-      - name: tags
-        label: Tags
+      - name: confidence
+        label: Confidence
+        widget: select
+        required: false
+        options:
+          - high
+          - medium
+          - low
+      - name: audience
+        label: Audience
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - administrators
+          - assessment designers
+          - assessment professionals
+          - curriculum designers
+          - educational technology developers
+          - faculty developers
+          - institutions
+          - instructional designers
+          - instructors
+          - learners
+          - learning analytics designers
+          - librarians
+          - medical educators
+          - parents and families
+          - policymakers
+          - researchers
+          - software developers
+      - name: level
+        label: Level
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - adult learning
+          - graduate
+          - higher ed
+          - k 12
+          - middle school
+          - preschool
+          - primary education
+          - secondary
+          - special education
+          - teacher education
+          - undergraduate
+      - name: page_kind
+        label: Page kind
+        widget: select
+        multiple: true
+        required: false
+        hint: "What the page contributes. Design case = a course, workshop or activity sequence described and reflected on; implementation = a working system, tool or deployed artifact; commentary = an editorial, opinion piece or position paper whose contribution is the stance."
+        options:
+          - framework
+          - synthesis
+          - evaluation
+          - design case
+          - implementation
+          - commentary
+      - name: research_method
+        label: Research method
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - action design research
+          - bibliometric
+          - case study
+          - delphi
+          - design and evaluation study
+          - experiment
+          - instrument development
+          - interviews
+          - latent profile analysis
+          - literature review
+          - longitudinal study
+          - network analysis
+          - policy analysis
+          - position paper
+          - process-outcome modeling
+          - quasi-experiment
+          - secondary analysis
+          - structural equation modeling
+          - survey
+          - system development
+          - thematic analysis
+          - theoretical analysis
+          - user study
+      - name: discipline
+        label: Discipline
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - arts education
+          - biology education
+          - business education
+          - chemistry education
+          - cs education
+          - design education
+          - engineering education
+          - english education
+          - environmental education
+          - humanities education
+          - information technology
+          - language learning
+          - legal education
+          - learning sciences
+          - library and information science
+          - math education
+          - medical education
+          - music education
+          - nursing education
+          - physics education
+          - science education
+          - statistics and data science education
+          - stem education
+          - vocational education
+          - writing education
+      - name: foundations
+        label: Foundations
         widget: relation
         collection: concepts
         multiple: true
@@ -70,57 +188,142 @@ collections:
         display_fields: [title]
         search_fields: [title]
         required: false
-      # sources is ingestion-managed (raw/papers/<slug>.md); preserved, not editable
-      - name: sources
-        widget: hidden
-      - name: source_url
-        label: Source URL
-        widget: string
+        hint: "Foundational concepts this page builds on."
+      - name: pedagogy
+        label: Pedagogy
+        widget: relation
+        collection: concepts
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
         required: false
-      - name: confidence
-        label: Confidence
-        widget: select
-        options: [high, medium, low]
+        hint: "Teaching and learning approaches the page touches."
+      - name: technology
+        label: Technology
+        widget: relation
+        collection: concepts
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
         required: false
-      - name: audience
-        label: Audience
+        hint: "AI technologies and technical approaches discussed."
+      - name: assessment
+        label: Assessment
+        widget: relation
+        collection: concepts
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+        hint: "Assessment and feedback concepts."
+      - name: methods
+        label: Methods
+        widget: relation
+        collection: concepts
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+        hint: "Research-method concepts (the formal study-design vocabulary is the Research method field)."
+      - name: institutions
+        label: Institutions
+        widget: relation
+        collection: concepts
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+        hint: "Institutional, policy and governance concepts."
+      - name: ethics
+        label: Ethics
+        widget: relation
+        collection: concepts
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+        hint: "Ethics, equity, privacy and risk concepts."
+      - name: connected_faqs
+        label: Connected FAQs
+        widget: relation
+        collection: faqs
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+      - name: connected_resources
+        label: Connected resources
+        widget: relation
+        collection: resources
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+      - name: contributors
+        label: Contributors
+        widget: list
+        required: false
+        hint: "Accountable people, by site.config.json contributor id."
+        field: { name: id, label: Id, widget: string }
+      - name: reviewed_by
+        label: Reviewed by
+        widget: list
+        required: false
+        hint: "People who have actually read and checked this page. Never set as a default."
+        field: { name: id, label: Id, widget: string }
+      - name: ai_assist
+        label: AI assistance
+        widget: list
+        required: false
+        hint: "Ordered record of AI contributions to the current text, newest last."
+        fields:
+          - { name: model, label: Model, widget: string }
+          - name: role
+            label: Role
+            widget: select
+            options: [drafting, revision, link classification, summarization, translation, none]
+          - { name: date, label: Date, widget: datetime, type: date, required: false }
+          - { name: agent, label: Agent, widget: string, required: false }
+      - name: source_depth
+        label: Source depth
         widget: select
         multiple: true
-        options: [administrators, assessment designers, assessment professionals, curriculum designers, educational technology developers, faculty developers, institutions, instructional designers, instructors, learners, learning analytics designers, librarians, medical educators, parents and families, policymakers, researchers, software developers]
         required: false
-      - name: level
-        label: Level
+        hint: "How much of the source the page was written from."
+        options:
+          - full text
+          - abstract only
+          - metadata only
+      - name: verified
+        label: Verified
         widget: select
         multiple: true
-        options: [adult learning, early childhood, elementary, higher ed, k 12, secondary, special education, teacher training]
         required: false
-      - name: category
-        label: Category
-        widget: select
-        multiple: true
-        options: [ai foundations, assessment, collaborative learning, curriculum design, design thinking, engagement, equity, evaluation, framework, instructional design, policy, synthesis]
-        required: false
-      - name: research_method
-        label: Research Method
-        widget: select
-        multiple: true
-        options: [action design research, benchmark, bibliometric, case study, delphi, design and evaluation study, design-based research, educational measurement, experiment, instrument development, interviews, learning analytics, literature review, longitudinal, longitudinal study, longitudinal survey, meta-analysis, mixed methods, policy analysis, position paper, process-outcome modeling, qualitative, quantitative, quasi-experiment, randomized controlled trial, research methods, secondary analysis, structural equation modeling, survey, system development, systematic review, thematic analysis, theoretical analysis, user study]
-        required: false
-      - name: discipline
-        label: Discipline
-        widget: select
-        multiple: true
-        options: [biology education, business education, chemistry education, cs education, design education, engineering education, english education, humanities education, information technology, language learning, legal education, learning sciences, math education, medical education, nursing education, physics education, science education, stem education, vocational education, writing education]
-        required: false
-      # 'body' is stored below the frontmatter block as verbatim Markdown.
+        hint: "Which checks have been run on this page."
+        options:
+          - citation
+          - numbers
+          - quotes
+          - links
+      - { name: sources, widget: hidden }
+      - { name: source_url, label: Source URL, widget: string, required: false }
+      - { name: authors, widget: hidden }
+      - { name: venue, widget: hidden }
+      - { name: equity_ethics, widget: hidden }
+      - { name: translation_of, widget: hidden }
       - name: body
         label: Body
         widget: richtext
         modes: [rich_text, raw]
 
-  # ---------------------------------------------------------------------------
-  # CONCEPTS
-  # ---------------------------------------------------------------------------
   - name: concepts
     label: Concepts
     label_singular: Concept
@@ -135,9 +338,129 @@ collections:
       - { name: created, widget: hidden }
       - { name: updated, widget: hidden }
       - { name: type, widget: hidden }
-      # tags must be real concept slugs (enforced by src/content.config.ts)
-      - name: tags
-        label: Tags
+      - name: confidence
+        label: Confidence
+        widget: select
+        required: false
+        options:
+          - high
+          - medium
+          - low
+      - name: audience
+        label: Audience
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - administrators
+          - assessment designers
+          - assessment professionals
+          - curriculum designers
+          - educational technology developers
+          - faculty developers
+          - institutions
+          - instructional designers
+          - instructors
+          - learners
+          - learning analytics designers
+          - librarians
+          - medical educators
+          - parents and families
+          - policymakers
+          - researchers
+          - software developers
+      - name: level
+        label: Level
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - adult learning
+          - graduate
+          - higher ed
+          - k 12
+          - middle school
+          - preschool
+          - primary education
+          - secondary
+          - special education
+          - teacher education
+          - undergraduate
+      - name: page_kind
+        label: Page kind
+        widget: select
+        multiple: true
+        required: false
+        hint: "What the page contributes: framework, synthesis, evaluation, design case, implementation or commentary."
+        options:
+          - framework
+          - synthesis
+          - evaluation
+          - design case
+          - implementation
+          - commentary
+      - name: research_method
+        label: Research method
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - action design research
+          - bibliometric
+          - case study
+          - delphi
+          - design and evaluation study
+          - experiment
+          - instrument development
+          - interviews
+          - latent profile analysis
+          - literature review
+          - longitudinal study
+          - network analysis
+          - policy analysis
+          - position paper
+          - process-outcome modeling
+          - quasi-experiment
+          - secondary analysis
+          - structural equation modeling
+          - survey
+          - system development
+          - thematic analysis
+          - theoretical analysis
+          - user study
+      - name: discipline
+        label: Discipline
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - arts education
+          - biology education
+          - business education
+          - chemistry education
+          - cs education
+          - design education
+          - engineering education
+          - english education
+          - environmental education
+          - humanities education
+          - information technology
+          - language learning
+          - legal education
+          - learning sciences
+          - library and information science
+          - math education
+          - medical education
+          - music education
+          - nursing education
+          - physics education
+          - science education
+          - statistics and data science education
+          - stem education
+          - vocational education
+          - writing education
+      - name: foundations
+        label: Foundations
         widget: relation
         collection: concepts
         multiple: true
@@ -145,38 +468,67 @@ collections:
         display_fields: [title]
         search_fields: [title]
         required: false
-      - name: audience
-        label: Audience
-        widget: select
+        hint: "Foundational concepts this page builds on."
+      - name: pedagogy
+        label: Pedagogy
+        widget: relation
+        collection: concepts
         multiple: true
-        options: [administrators, assessment designers, assessment professionals, curriculum designers, educational technology developers, faculty developers, institutions, instructional designers, instructors, learners, learning analytics designers, librarians, medical educators, parents and families, policymakers, researchers, software developers]
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
         required: false
-      - name: level
-        label: Level
-        widget: select
+        hint: "Teaching and learning approaches the page touches."
+      - name: technology
+        label: Technology
+        widget: relation
+        collection: concepts
         multiple: true
-        options: [adult learning, early childhood, elementary, higher ed, k 12, secondary, special education, teacher training]
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
         required: false
-      - name: category
-        label: Category
-        widget: select
+        hint: "AI technologies and technical approaches discussed."
+      - name: assessment
+        label: Assessment
+        widget: relation
+        collection: concepts
         multiple: true
-        options: [ai foundations, assessment, collaborative learning, curriculum design, design thinking, engagement, equity, evaluation, framework, instructional design, policy, synthesis]
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
         required: false
-      - name: research_method
-        label: Research Method
-        widget: select
+        hint: "Assessment and feedback concepts."
+      - name: methods
+        label: Methods
+        widget: relation
+        collection: concepts
         multiple: true
-        options: [action design research, benchmark, bibliometric, case study, delphi, design and evaluation study, design-based research, educational measurement, experiment, instrument development, interviews, learning analytics, literature review, longitudinal, longitudinal study, longitudinal survey, meta-analysis, mixed methods, policy analysis, position paper, process-outcome modeling, qualitative, quantitative, quasi-experiment, randomized controlled trial, research methods, secondary analysis, structural equation modeling, survey, system development, systematic review, thematic analysis, theoretical analysis, user study]
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
         required: false
-      - name: discipline
-        label: Discipline
-        widget: select
+        hint: "Research-method concepts (the formal study-design vocabulary is the Research method field)."
+      - name: institutions
+        label: Institutions
+        widget: relation
+        collection: concepts
         multiple: true
-        options: [biology education, business education, chemistry education, cs education, design education, engineering education, english education, humanities education, information technology, language learning, legal education, learning sciences, math education, medical education, nursing education, physics education, science education, stem education, vocational education, writing education]
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
         required: false
-      # connected_faqs must reference EXISTING FAQ pages only — enforced by a
-      # relation to the faqs collection (value = FAQ slug = filename)
+        hint: "Institutional, policy and governance concepts."
+      - name: ethics
+        label: Ethics
+        widget: relation
+        collection: concepts
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+        hint: "Ethics, equity, privacy and risk concepts."
       - name: connected_faqs
         label: Connected FAQs
         widget: relation
@@ -186,20 +538,46 @@ collections:
         display_fields: [title]
         search_fields: [title]
         required: false
-      - name: confidence
-        label: Confidence
-        widget: select
-        options: [high, medium, low]
+      - name: connected_resources
+        label: Connected resources
+        widget: relation
+        collection: resources
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
         required: false
-      # 'body' is stored below the frontmatter block as verbatim Markdown.
+      - name: contributors
+        label: Contributors
+        widget: list
+        required: false
+        hint: "Accountable people, by site.config.json contributor id."
+        field: { name: id, label: Id, widget: string }
+      - name: reviewed_by
+        label: Reviewed by
+        widget: list
+        required: false
+        hint: "People who have actually read and checked this page. Never set as a default."
+        field: { name: id, label: Id, widget: string }
+      - name: ai_assist
+        label: AI assistance
+        widget: list
+        required: false
+        hint: "Ordered record of AI contributions to the current text, newest last."
+        fields:
+          - { name: model, label: Model, widget: string }
+          - name: role
+            label: Role
+            widget: select
+            options: [drafting, revision, link classification, summarization, translation, none]
+          - { name: date, label: Date, widget: datetime, type: date, required: false }
+          - { name: agent, label: Agent, widget: string, required: false }
+      - { name: source_url, label: Source URL, widget: string, required: false }
       - name: body
         label: Body
         widget: richtext
         modes: [rich_text, raw]
 
-  # ---------------------------------------------------------------------------
-  # FAQs
-  # ---------------------------------------------------------------------------
   - name: faqs
     label: FAQs
     label_singular: FAQ
@@ -218,8 +596,128 @@ collections:
         label: Weight (sort order, higher = later)
         widget: number
         required: false
-      - name: tags
-        label: Tags
+      - name: confidence
+        label: Confidence
+        widget: select
+        required: false
+        options:
+          - high
+          - medium
+          - low
+      - name: audience
+        label: Audience
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - administrators
+          - assessment designers
+          - assessment professionals
+          - curriculum designers
+          - educational technology developers
+          - faculty developers
+          - institutions
+          - instructional designers
+          - instructors
+          - learners
+          - learning analytics designers
+          - librarians
+          - medical educators
+          - parents and families
+          - policymakers
+          - researchers
+          - software developers
+      - name: level
+        label: Level
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - adult learning
+          - graduate
+          - higher ed
+          - k 12
+          - middle school
+          - preschool
+          - primary education
+          - secondary
+          - special education
+          - teacher education
+          - undergraduate
+      - name: page_kind
+        label: Page kind
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - framework
+          - synthesis
+          - evaluation
+          - design case
+          - implementation
+          - commentary
+      - name: research_method
+        label: Research method
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - action design research
+          - bibliometric
+          - case study
+          - delphi
+          - design and evaluation study
+          - experiment
+          - instrument development
+          - interviews
+          - latent profile analysis
+          - literature review
+          - longitudinal study
+          - network analysis
+          - policy analysis
+          - position paper
+          - process-outcome modeling
+          - quasi-experiment
+          - secondary analysis
+          - structural equation modeling
+          - survey
+          - system development
+          - thematic analysis
+          - theoretical analysis
+          - user study
+      - name: discipline
+        label: Discipline
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - arts education
+          - biology education
+          - business education
+          - chemistry education
+          - cs education
+          - design education
+          - engineering education
+          - english education
+          - environmental education
+          - humanities education
+          - information technology
+          - language learning
+          - legal education
+          - learning sciences
+          - library and information science
+          - math education
+          - medical education
+          - music education
+          - nursing education
+          - physics education
+          - science education
+          - statistics and data science education
+          - stem education
+          - vocational education
+          - writing education
+      - name: foundations
+        label: Foundations
         widget: relation
         collection: concepts
         multiple: true
@@ -227,31 +725,355 @@ collections:
         display_fields: [title]
         search_fields: [title]
         required: false
-      - name: category
-        label: Category
+        hint: "Foundational concepts this page builds on."
+      - name: pedagogy
+        label: Pedagogy
+        widget: relation
+        collection: concepts
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+        hint: "Teaching and learning approaches the page touches."
+      - name: technology
+        label: Technology
+        widget: relation
+        collection: concepts
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+        hint: "AI technologies and technical approaches discussed."
+      - name: assessment
+        label: Assessment
+        widget: relation
+        collection: concepts
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+        hint: "Assessment and feedback concepts."
+      - name: methods
+        label: Methods
+        widget: relation
+        collection: concepts
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+        hint: "Research-method concepts (the formal study-design vocabulary is the Research method field)."
+      - name: institutions
+        label: Institutions
+        widget: relation
+        collection: concepts
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+        hint: "Institutional, policy and governance concepts."
+      - name: ethics
+        label: Ethics
+        widget: relation
+        collection: concepts
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+        hint: "Ethics, equity, privacy and risk concepts."
+      - name: connected_faqs
+        label: Connected FAQs
+        widget: relation
+        collection: faqs
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+      - name: connected_resources
+        label: Connected resources
+        widget: relation
+        collection: resources
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+      - name: contributors
+        label: Contributors
+        widget: list
+        required: false
+        hint: "Accountable people, by site.config.json contributor id."
+        field: { name: id, label: Id, widget: string }
+      - name: reviewed_by
+        label: Reviewed by
+        widget: list
+        required: false
+        hint: "People who have actually read and checked this page. Never set as a default."
+        field: { name: id, label: Id, widget: string }
+      - name: ai_assist
+        label: AI assistance
+        widget: list
+        required: false
+        hint: "Ordered record of AI contributions to the current text, newest last."
+        fields:
+          - { name: model, label: Model, widget: string }
+          - name: role
+            label: Role
+            widget: select
+            options: [drafting, revision, link classification, summarization, translation, none]
+          - { name: date, label: Date, widget: datetime, type: date, required: false }
+          - { name: agent, label: Agent, widget: string, required: false }
+      - { name: source_url, label: Source URL, widget: string, required: false }
+      - name: body
+        label: Body
+        widget: richtext
+        modes: [rich_text, raw]
+
+  - name: resources
+    label: Resources
+    label_singular: Resource
+    folder: /content/en/resources
+    extension: md
+    format: frontmatter
+    summary: "{{title}} — {{resource_type | default('')}}"
+    identifier_field: title
+    sortable_fields: [title]
+    fields:
+      - { name: title, label: Title, widget: string }
+      - { name: created, widget: hidden }
+      - { name: updated, widget: hidden }
+      - { name: type, widget: hidden }
+      - { name: summary, label: Summary, widget: text, hint: "One sentence for the /resources listing." }
+      - { name: url, label: URL, widget: string }
+      - { name: source_code, label: Source code URL, widget: string, required: false }
+      - { name: author, label: Author, widget: string }
+      - { name: author_url, label: Author URL, widget: string, required: false }
+      - name: resource_type
+        label: Resource type
         widget: select
         multiple: true
-        options: [ai foundations, assessment, collaborative learning, curriculum design, design thinking, engagement, equity, evaluation, framework, instructional design, policy, synthesis]
         required: false
+        options:
+          - software
+          - ai tutor
+          - agent skill
+          - prompt or gem library
+          - collection of tools
+          - collection of activities
+          - assessment instrument
+          - open format or specification
+          - ebook or guide
+          - case study collection
+          - dataset or benchmark
+      - name: access
+        label: Access
+        widget: select
+        required: false
+        options:
+          - free
+          - free with account
+          - freemium
+      - { name: license, label: License, widget: string, required: false }
+      - { name: last_verified, label: Last verified, widget: string, hint: "Date a person or cron last confirmed the URL resolves." }
+      - name: confidence
+        label: Confidence
+        widget: select
+        required: false
+        options:
+          - high
+          - medium
+          - low
       - name: audience
         label: Audience
         widget: select
         multiple: true
-        options: [administrators, assessment designers, assessment professionals, curriculum designers, educational technology developers, faculty developers, institutions, instructional designers, instructors, learners, learning analytics designers, librarians, medical educators, parents and families, policymakers, researchers, software developers]
         required: false
+        options:
+          - administrators
+          - assessment designers
+          - assessment professionals
+          - curriculum designers
+          - educational technology developers
+          - faculty developers
+          - institutions
+          - instructional designers
+          - instructors
+          - learners
+          - learning analytics designers
+          - librarians
+          - medical educators
+          - parents and families
+          - policymakers
+          - researchers
+          - software developers
       - name: level
         label: Level
         widget: select
         multiple: true
-        options: [adult learning, early childhood, elementary, higher ed, k 12, secondary, special education, teacher training]
         required: false
-      - name: research_method
-        label: Research Method
+        options:
+          - adult learning
+          - graduate
+          - higher ed
+          - k 12
+          - middle school
+          - preschool
+          - primary education
+          - secondary
+          - special education
+          - teacher education
+          - undergraduate
+      - name: discipline
+        label: Discipline
         widget: select
         multiple: true
-        options: [action design research, benchmark, bibliometric, case study, delphi, design and evaluation study, design-based research, educational measurement, experiment, instrument development, interviews, learning analytics, literature review, longitudinal, longitudinal study, longitudinal survey, meta-analysis, mixed methods, policy analysis, position paper, process-outcome modeling, qualitative, quantitative, quasi-experiment, randomized controlled trial, research methods, secondary analysis, structural equation modeling, survey, system development, systematic review, thematic analysis, theoretical analysis, user study]
         required: false
-      # 'body' is stored below the frontmatter block as verbatim Markdown.
+        options:
+          - arts education
+          - biology education
+          - business education
+          - chemistry education
+          - cs education
+          - design education
+          - engineering education
+          - english education
+          - environmental education
+          - humanities education
+          - information technology
+          - language learning
+          - legal education
+          - learning sciences
+          - library and information science
+          - math education
+          - medical education
+          - music education
+          - nursing education
+          - physics education
+          - science education
+          - statistics and data science education
+          - stem education
+          - vocational education
+          - writing education
+      - name: foundations
+        label: Foundations
+        widget: relation
+        collection: concepts
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+        hint: "Foundational concepts this page builds on."
+      - name: pedagogy
+        label: Pedagogy
+        widget: relation
+        collection: concepts
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+        hint: "Teaching and learning approaches the page touches."
+      - name: technology
+        label: Technology
+        widget: relation
+        collection: concepts
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+        hint: "AI technologies and technical approaches discussed."
+      - name: assessment
+        label: Assessment
+        widget: relation
+        collection: concepts
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+        hint: "Assessment and feedback concepts."
+      - name: methods
+        label: Methods
+        widget: relation
+        collection: concepts
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+        hint: "Research-method concepts (the formal study-design vocabulary is the Research method field)."
+      - name: institutions
+        label: Institutions
+        widget: relation
+        collection: concepts
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+        hint: "Institutional, policy and governance concepts."
+      - name: ethics
+        label: Ethics
+        widget: relation
+        collection: concepts
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+        hint: "Ethics, equity, privacy and risk concepts."
+      - name: connected_resources
+        label: Connected resources
+        widget: relation
+        collection: resources
+        multiple: true
+        value_field: "{{slug}}"
+        display_fields: [title]
+        search_fields: [title]
+        required: false
+      - name: contributors
+        label: Contributors
+        widget: list
+        required: false
+        hint: "Accountable people, by site.config.json contributor id."
+        field: { name: id, label: Id, widget: string }
+      - name: reviewed_by
+        label: Reviewed by
+        widget: list
+        required: false
+        hint: "People who have actually read and checked this page. Never set as a default."
+        field: { name: id, label: Id, widget: string }
+      - name: ai_assist
+        label: AI assistance
+        widget: list
+        required: false
+        hint: "Ordered record of AI contributions to the current text, newest last."
+        fields:
+          - { name: model, label: Model, widget: string }
+          - name: role
+            label: Role
+            widget: select
+            options: [drafting, revision, link classification, summarization, translation, none]
+          - { name: date, label: Date, widget: datetime, type: date, required: false }
+          - { name: agent, label: Agent, widget: string, required: false }
+      - name: verified
+        label: Verified
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - citation
+          - numbers
+          - quotes
+          - links
       - name: body
         label: Body
         widget: richtext

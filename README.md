@@ -128,7 +128,9 @@ Two things to know before editing:
 
 The site carries a Sveltia CMS at `/aied/admin/`. It signs in through GitHub via a small OAuth worker (`backend.base_url` in `public/admin/config.yml`) and commits edits straight to `main`, so every change goes through the same build and gates as a hand-written one. Content types, fields and the media library are declared in that config file.
 
-The CMS bundle and its JSON schema are pinned to the same version (`@sveltia/cms@0.262.4`). Bump them together in `public/admin/index.html` and `public/admin/config.yml`, then check the config against the pinned schema before publishing — an unpinned bundle silently picks up breaking config changes in production.
+The CMS bundle and its JSON schema are pinned to the same version (`@sveltia/cms@0.266.0`). Bump them together in `public/admin/index.html` and `public/admin/config.yml`, then check the config against the pinned schema before publishing — an unpinned bundle silently picks up breaking config changes in production.
+
+The field lists in `config.yml` mirror `src/content.config.ts`: every enum option matches the build's vocabulary (`level`, `page_kind`, `research_method`, `discipline`, `audience`, `resource_type`, `access`), the typed facet fields (`foundations`, `pedagogy`, `technology`, `assessment`, `methods`, `institutions`, `ethics`) are relation pickers against the concepts collection, and every key present in the corpus has a field, so saving a page in the editor does not drop metadata. Change the schema and the CMS config in the same commit.
 
 ### Repository layout
 
