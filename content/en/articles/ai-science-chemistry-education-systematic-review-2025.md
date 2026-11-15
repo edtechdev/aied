@@ -9,7 +9,7 @@ discipline: [chemistry education, science education]
 sources: ['raw/papers/ai-science-chemistry-education-systematic-review-2025.md']
 confidence: high
 audience: [researchers, faculty developers]
-level: [k 12, higher ed, teacher education]
+level: [k 12, higher ed, teacher education, secondary]
 page_kind: [synthesis]
 methods: [meta-analysis-systematic-review]
 institutions: [educational-policy-ai]
@@ -20,7 +20,7 @@ institutions: [educational-policy-ai]
 
 The review addresses a gap: most AI-in-education research examines generic effects, but subject-area reviews spanning science and chemistry are limited. It uses a **systematic review** design (PRISMA), searching Web of Science and Scopus for studies published 2014–2024 on AI applications in science/[[chemistry-education|chemistry education]].
 
-- **Screening:** 255 records identified, 149 screened, 25 assessed for eligibility, **18 studies included**.
+- **Screening:** 255 records identified, 106 duplicates removed, 80 excluded as off-topic, 25 assessed for eligibility, **18 studies included**.
 - **Distribution:** 3 (2021), 1 (2022), 3 (2023), 11 (2024) — reflecting the post-ChatGPT surge.
 - **Methods used:** experimental/quasi-experimental with control groups, case studies, laboratory studies, [[mixed-methods-research|mixed methods]], and self-study; several integrated [[learning-design|instructional design]] models (ADDIE, rapid prototyping).
 - **Samples:** mostly teacher candidates, middle/high-school students, and [[teacher-role|teachers]].

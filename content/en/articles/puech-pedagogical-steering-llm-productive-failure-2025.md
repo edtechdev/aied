@@ -7,7 +7,7 @@ pedagogy: [productive-failure, socratic-method]
 technology: [generative-ai, human-in-the-loop-ai, intelligent-tutoring, llm]
 research_method: [system development, experiment]
 discipline: [math education]
-level: [k 12]
+level: [k 12, secondary]
 sources: ['raw/papers/puech-pedagogical-steering-llm-productive-failure-2025.md']
 confidence: high
 audience: [instructional designers, researchers]

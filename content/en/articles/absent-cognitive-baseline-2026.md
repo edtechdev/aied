@@ -8,13 +8,13 @@ pedagogy: [metacognition, self-regulated-learning]
 technology: [generative-ai]
 research_method: [theoretical analysis]
 audience: [learners]
-level: [higher ed, k 12]
+level: [higher ed, k 12, secondary]
 sources: ['raw/papers/absent-cognitive-baseline-2026.md']
 confidence: high
 page_kind: [framework]
 ---
 
-> **Synthesis:** Jia & Xu (2026) propose the **Absent Cognitive Baseline (ACB)** as a conceptual framework — a [[theory-development-aied|theory-building]] contribution to the knowledge base's foundational strand. Students entering [[higher-ed|college]] in 2026–27 are among the first cohorts to have completed most of their [[k-12|secondary schooling]] under pervasive [[generative-ai|generative AI]] availability. ACB names the possible structural gap that results when sustained *substitutive* AI use during the [[formative-assessment|formative]] high-school window reduces the independent cognitive encounters on which academic [[self-assessment|self-assessment]] depends. The construct spans three dimensions — the unknowability of one's own cognitive boundary, false calibration from AI-generated fluency, and the de-normalization of cognitive struggle — and a conceptual model identifies three groups of moderating variables (use-, learner-, and environment-level) shaping whether ACB emerges.
+> **Synthesis:** Jia & Xu (2026) propose the **Absent Cognitive Baseline (ACB)** as a conceptual framework — a [[theory-development-aied|theory-building]] contribution to the knowledge base's foundational strand. Students entering [[higher-ed|college]] in 2026–2027 are among the first cohorts to have completed most of their [[k-12|secondary schooling]] under pervasive [[generative-ai|generative AI]] availability. ACB names the possible structural gap that results when sustained *substitutive* AI use during the [[formative-assessment|formative]] high-school window reduces the independent cognitive encounters on which academic [[self-assessment|self-assessment]] depends. The construct spans three dimensions — the unknowability of one's own cognitive boundary, false calibration from AI-generated fluency, and the de-normalization of cognitive struggle — and a conceptual model identifies three groups of moderating variables (use-, learner-, and environment-level) shaping whether ACB emerges.
 
 ## Key Findings
 
@@ -59,7 +59,7 @@ Methodologically, the paper argues that existing frameworks reach "ACB's door bu
 ## Limitations
 
 - It is a conceptual, theory-building paper with no participants, measures, or data: the three dimensions and the moderating-variable model are analytical constructs, and the paper states ACB "cannot be reduced to a single score."
-- The claim is prospective and untested: it concerns students entering college in 2026–27, so no cohort has yet been followed from secondary school into higher education.
+- The claim is prospective and untested: it concerns students entering college in 2026–2027, so no cohort has yet been followed from secondary school into higher education.
 - The proposed evidence is a design, not a result: purposive sampling along AI-use frequency, mode, and depth, two rounds of semi-structured interviews plus [[reflection|reflective journals]], and IPA analysis are outlined as future work.
 - The listed indicators (inability to describe one's own ability absent AI, conflating AI output quality with competence, disproportionate uncertainty on no-AI tasks, reading struggle as inefficiency) are described as entry points for inquiry rather than diagnostic criteria, and the construct's distinctness from [[cognitive-offloading|cognitive offloading]], metacognitive laziness, and the Dunning-Kruger effect is argued rather than measured.
 
