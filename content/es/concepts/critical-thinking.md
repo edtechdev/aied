@@ -1,7 +1,7 @@
 ---
 title: Pensamiento crítico
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:16:55-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -10,7 +10,7 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [pressing-prompts, student-guide-to-ai]
 contributors: [editor]

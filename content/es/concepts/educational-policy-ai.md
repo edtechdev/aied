@@ -1,7 +1,7 @@
 ---
 title: Política educativa sobre IA
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-11-13T18:45:00-05:00"
+updated: "2026-11-15T10:15:45-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -12,7 +12,7 @@ confidence: high
 institutions: [governance, regulation]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack, campus-ai-development, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/educational-policy-ai
-source_updated: "2026-11-13T16:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

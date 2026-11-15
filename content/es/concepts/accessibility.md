@@ -2,7 +2,7 @@
 connected_resources: [drawsplat, fpds-apps-and-resources, id-toolbox, idstack, teacher-dev]
 title: Accesibilidad
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-15T10:24:54-05:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, ai-disabled-neurodivergent-learners]
 type: concept
 foundations: [learning-design]
@@ -10,7 +10,7 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 level: [special education]
 confidence: high
 translation_of: concepts/accessibility
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -81,7 +81,7 @@ Un vídeo con subtítulos precisos y una transcripción correctamente etiquetada
 - **Fundamente las adaptaciones en la ley y la política.** Consulte estándares (WCAG) y normas legales (Ley de Tecnología de Asistencia, IDEA) al diseñar o adquirir herramientas de IA.
 - **El despliegue de la IA está superando a la política de accesibilidad de la IA a nivel institucional.** [[chan-ai-institutionalization-index-global-universities-2026|Chan (2026)]] codificó las 100 universidades del ranking de Times Higher Education 2026 y encontró que el 0% publica una política de accesibilidad de la IA independiente, mientras que el 93% despliega servicios de campus impulsados por IA ([[conversational-ai|chatbots]] para matrícula, alojamiento y TI). La lectura más benévola del autor es que las obligaciones de accesibilidad residen dentro de las políticas generales de servicios para personas con discapacidad, pero tal como se ha medido, los requisitos para las herramientas de IA no aparecen en ninguna parte del registro institucional público. Una breve declaración institucional de que las herramientas de IA en la enseñanza y la administración deben ser accesibles para el estudiantado con discapacidad estaría por delante de todo el campo medido.
 
-- **Transcripción matemáticamente accesible de vídeos de [[physics-education|física]] (2026):** un flujo de trabajo con IA que usa Gemini (audio + muestreo de vídeo a 1 fps) y LuaLaTeX compila vídeos instructivos de física en PDF accesibles en matemáticas según PDF/UA-2 e ISO 32005 que superan habitualmente la validación de accesibilidad: una vía práctica y gratuita para que el contenido de vídeo con muchas ecuaciones sea legible por lector de pantalla para estudiantes ciegos y con baja visión ([[gemini-lualatex-physics-video-transcription-2026]]).
+- **Transcripción matemáticamente accesible de vídeos de [[physics-education|física]] (2026):** un flujo de trabajo con IA que usa Gemini (audio + muestreo de vídeo a 1 fps) y LuaLaTeX compila vídeos instructivos de física en PDF accesibles en matemáticas según PDF/UA-2 e ISO 32005 que superan habitualmente la validación de accesibilidad: una vía práctica y gratuita para que el contenido de vídeo con muchas ecuaciones sea legible por lector de pantalla para estudiantes ciegos y con baja visión ([[gemini-lualatex-physics-video-transcription-2026|Looney et al., 2026]]).
 
 ## Concepciones erróneas
 

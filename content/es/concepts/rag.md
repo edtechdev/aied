@@ -1,7 +1,7 @@
 ---
 title: RAG (Generación Aumentada por Recuperación)
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-15T10:16:01-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning]
 type: concept
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -9,7 +9,7 @@ ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 connected_resources: [gemini-notebook]
 translation_of: concepts/rag
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 
 - Probablemente haya visto a un [[conversational-ai|chatbot]] de IA afirmar con seguridad algo falso. ¿Qué cambia la «fundamentación» de la respuesta de un modelo en documentos externos respecto de ese modo de fallo, y qué nuevos modos de fallo podría introducir?
 - RAG recupera materiales relevantes y se los entrega al generador. Antes de leer, ¿qué supuestos hace esto sobre la calidad del contenido recuperado —y sobre si el texto recuperado es realmente lo correcto que hay que enseñar?
-- La página contrasta RAG con el ajuste fino: la recuperación fundamenta las respuestas en fuentes actualizadas sin reentrenar, mientras que el ajuste fino incorpora comportamientos. Si estuviera construyendo un tutor alineado con el currículo, ¿en qué enfoque confiaría para la exactitud y en cuál para el estilo de enseñanza?
+- RAG contrasta con el ajuste fino: la recuperación fundamenta las respuestas en fuentes actualizadas sin reentrenar, mientras que el ajuste fino incorpora comportamientos. Si estuviera construyendo un tutor alineado con el currículo, ¿en qué enfoque confiaría para la exactitud y en cuál para el estilo de enseñanza?
 - RAG se presenta como la principal respuesta a la alucinación en educación. Pero considere: si la fuente de recuperación contiene errores o está desactualizada, ¿puede RAG seguir alucinando? ¿Dónde podría romperse en la práctica la garantía de «fundamentado en contenido verificado»?
 - Para quien desarrolla o enseña: ¿qué necesita «saber» un tutor más allá del contenido del libro de texto —pedagogía, cuándo retener respuestas, cómo sondear la comprensión? ¿Dónde fallaría RAG por sí solo para aportarlo, y con qué lo combinaría?
 

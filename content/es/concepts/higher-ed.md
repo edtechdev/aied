@@ -1,7 +1,7 @@
 ---
 title: Educación superior
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-15T10:14:47-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-15T06:35:59-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [pressing-prompts, teacherserver]
 contributors: [editor]
@@ -68,9 +68,21 @@ Más allá del aula, la IA llega al estudiantado a través de la propia instituc
 
 La bibliografía está muy orientada a los estudios de grado, y la formación de posgrado y profesional se trata dentro de trabajos [[discipline-specific-aied|específicos de cada disciplina]] ([[medical-education|educación médica y de profesiones de la salud]], [[business-education|educación empresarial]], [[teacher-education|formación del profesorado]]) en lugar de en una línea de posgrado aparte. No obstante, dos líneas atañen específicamente al estudiantado de máster, doctorado y programas profesionales: la formación en investigación y los programas de titulación profesional.
 
+La subdivisión ya tiene sus propias páginas: [[undergraduate-education|educación de grado]] reúne la evidencia sobre cursos numerosos e introductorios, y [[graduate-education|educación de posgrado]] reúne la evidencia sobre supervisión, formación en investigación y programas profesionales. Esta página conserva la imagen institucional y de profesorado que se aplica a ambas.
+
 La práctica de la *investigación* de posgrado es la más característica de las dos. [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai y Chan (2026)]] analizaron cómo 28 estudiantes de investigación de posgrado, repartidos en siete grupos de discusión, pusieron en práctica la [[ai-literacy]] en su investigación asistida por IA generativa y encontraron que eran usuarios calibrados y no adoptantes pasivos: ajustaban las herramientas a las tareas según los riesgos percibidos y las normas disciplinares, mantenían la [[human-in-the-loop-ai|supervisión humana]] y trazaban sus propios límites entre una ayuda de redacción aceptable y la sustitución de su razonamiento. Su hallazgo central es una brecha de política: las orientaciones institucionales sobre IA generativa abordan la [[teacher-role|docencia]], el aprendizaje y la evaluación, pero casi no dicen nada sobre el proceso de investigación, por lo que los autores proponen directrices orientadas a quienes investigan que [[scaffolding|andamian]] cada dimensión de la alfabetización en IA a lo largo del flujo de trabajo investigador, para el [[research-methods-aied|personal investigador]] y sus supervisores. [[engagement-intensity-learner-modeling|Oh, Talton y Bui (2026)]] abordan la misma población desde el lado institucional: entre 93 estudiantes de posgrado en biociencias y personal investigador posdoctoral de un curso obligatorio de ética de la investigación, tres señales conductuales simples previas a la instrucción sirvieron para perfilar de forma ligera la admisión a una instrucción adaptativa sobre [[ethics]] de la IA, mientras que haber cursado antes asignaturas de IA no predijo ninguno de los cinco resultados de percepción. La IA también está remodelando al propio equipo de investigación: el [[ai-assisted-writing-research-teams|análisis de 147.074 publicaciones]] desde 2020 asocia la escritura asistida por IA con equipos más pequeños y con más presencia de personal junior que producen trabajos muy citados, lo que invierte la deriva de décadas de la «Big Science» hacia colaboraciones más grandes, y [[persistent-ai-agents-academic-research|un estudio de caso con una única investigadora]] documenta cómo es, dentro del flujo de trabajo de una persona investigadora, un apoyo [[agentic-ai|agente]] sostenido.
 
 Los programas de titulación profesional concentran la mayor parte de la evidencia de nivel de posgrado, y esta se organiza por disciplina. En la [[medical-education|educación de las profesiones de la salud]], [[ai-standardized-patient-scaffolding-medical-2026|un ensayo controlado aleatorizado con 100 estudiantes de tercer año de medicina]] probó un sistema de LLM multiagente —paciente simulado, tutor [[socratic-method|socrático]], evaluador por turnos— organizado en torno a funciones explícitas de [[scaffolding|andamiaje]] para la formación en entrevista clínica, mientras que [[ai-teammate-task-distribution-medical-training-2026|el marco SCAN]] reformula el uso de la IA por parte del estudiantado en formación como un problema de distribución de tareas y de clasificación [[metacognition|metacognitiva]] en tiempo real, y no como un *mal uso* por su parte. La formación de nivel de máster aparece en [[instructional-design-proficiency-masters-math-2026|Zhu et al. (2026)]], cuyo modelo D-T-E elevó la competencia en diseño instruccional de estudiantes de máster en didáctica de las [[math-education|matemáticas]] (*d* de Cohen = 0,62) haciendo que tres LLM actuaran como «revisores inteligentes» en un ciclo de diseño, retroalimentación y reflexión. [[genai-professionalization-metaphors-2026|Cómo conceptualiza el estudiantado la IA generativa y su propia profesionalización]] atraviesa estos programas, mientras que el aprendizaje en el puesto de trabajo y la formación profesional continua, adyacentes pero distintos de los estudios de posgrado, se tratan en [[adult-learning]] y [[professional-training]].
+
+### La brecha entre grado y posgrado
+
+La frecuencia de uso es la parte menos informativa de la brecha, aunque sea la más fácil de medir. [[torres-peralta-perceived-learning-engagement-homework-2026|Torres-Peralta et al. (2026)]] encontraron que el estudiantado universitario adoptaba ChatGPT con más frecuencia que el de secundaria y nombraba con más facilidad las preocupaciones sobre divulgación e integridad. No obstante, encuestaron a la escuela y a la universidad en momentos distintos, y califican el resultado como un gradiente y no como una progresión evolutiva: la cautela correcta para cualquier comparación entre niveles basada en tasas de adopción.
+
+La distribución es donde la brecha se vuelve relevante para el diseño. [[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova et al. (2026)]] encontraron que el estudiantado de posgrado puntuaba más alto en seis de las siete escalas, con d = 1,29 para el uso de IA y d = 1,47 para la ética y la autonomía académica, mientras que la carga cognitiva percibida no cambiaba (p = 0,296). Las desviaciones estándar del posgrado en ética, autorregulación y competencia eran aproximadamente un tercio de los valores de grado, con rangos intercuartílicos comprimidos en la parte alta de la escala. Una cohorte de posgrado comparte un marco para juzgar la salida de la IA. Una cohorte de grado reúne a evaluadores críticos y a estudiantes que declaran casi nada de esa disposición, y por eso una misma norma de curso encaja con el primer grupo y se pierde con parte del segundo.
+
+La brecha ética es la más amplia y la menos firme. [[kumar-chatgpt-academic-assignments-2025|Kumar et al. (2025)]] encontraron que la conciencia ética predecía el rendimiento autodeclarado en las tareas con β = −0,006 (p = 0,924) en 304 estudiantes, y lo leen como una ética que moldea la conducta y no las notas. La medida de ética que respalda el d = 1,47 tiene tres ítems autoinformados y ninguna validación conductual, y los autores de Zaripova esperan que la deseabilidad social la infle. La división por niveles es, por tanto, creíble como descripción de cómo se presenta el estudiantado y no está probada como descripción de lo que hace. El resultado que lo zanjaría es la conducta: la divulgación, la citación, el rechazo del atajo.
+
+La uniformidad también varía dentro de un nivel, y no solo entre niveles. [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al. (2026)]] agruparon a 522 estudiantes de una universidad española en cuatro perfiles de adopción, del 8,8% de resistentes al 14,2% de entusiastas. El hábito fue el predictor más fuerte de la intención (β = 0,199), y el nivel educativo no moderó el modelo. Una sola cohorte de grado abarca así el rango que la comparación entre niveles trata como una diferencia entre niveles. [[kong-ai-employability-cognitive-engagement-2026|Kong y Zhang (2026)]] sostienen que la adopción, el acceso y la frecuencia se leen habitualmente como proxies de la capacidad, y que la inferencia falla en ambas direcciones. Su revisión sitúa casi todos los resultados medidos en el extremo proximal, de modo que un egresado de posgrado que usa la IA con más intensidad no es por ello un egresado más capaz.
 
 ### Profesorado y enseñanza
 
@@ -104,6 +116,9 @@ Una tercera vía endurece la propia tarea: presentar los enunciados como imágen
 - **«El modo en que la IA distribuye el trabajo epistémico es uniforme entre instituciones.»** [[sun-student-genai-entanglement-literacy-demands-2026|Sun, Dohn y Rehm (2026)]] clasificaron **102 estudios empíricos de educación superior** según cómo se distribuía el trabajo epistémico, y la variación es el hallazgo y no un detalle.
 
 ## Conceptos conectados
+
+- [[undergraduate-education]] — La IA en los estudios de grado: cursos numerosos, STEM introductorio, integridad en la evaluación
+- [[graduate-education]] — La IA en los estudios de máster y doctorado: supervisión, formación en investigación, programas profesionales
 
 - [[pedagogical-patterns]] — El nivel en el que se generó la mayor parte de la evidencia de secuencias probada
 - [[online-teaching-and-learning]] — Enseñanza y aprendizaje en línea
@@ -166,3 +181,8 @@ Una tercera vía endurece la propia tarea: presentar los enunciados como imágen
 - [[ai-ethics-tensions-online-pedagogy-2026]] — Orientaciones específicas por método, no una única política de IA para todo el campus
 - [[ai-literacy-determinants-university-students-2026]] — Los recursos percibidos y el apoyo del profesorado explicaban el 29% de la varianza de la alfabetización en IA; la demografía, no
 - [[faculty-ai-well-being-social-supports-2026]] — Financiar la alfabetización en IA, no solo la confianza en las herramientas, para el profesorado
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — El estudiantado de posgrado puntúa más alto en seis de siete escalas (d = 1,29 en uso, d = 1,47 en ética), con una dispersión mucho menor que el de grado
+- [[torres-peralta-perceived-learning-engagement-homework-2026]] — El aprendizaje autoevaluado y un índice de implicación de tres conductas se correlacionaron en 0,052 en 1.477 encuestados
+- [[kumar-chatgpt-academic-assignments-2025]] — La conciencia ética no predijo el rendimiento autodeclarado en las tareas (β = −0,006, p = 0,924)
+- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Cuatro perfiles de adopción dentro de una misma universidad; el hábito fue el predictor más fuerte y el nivel educativo no moderó
+- [[kong-ai-employability-cognitive-engagement-2026]] — La adopción y la frecuencia se leen como proxies de la capacidad; casi todos los resultados medidos quedan en el extremo proximal

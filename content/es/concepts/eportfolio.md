@@ -1,7 +1,7 @@
 ---
 title: Portafolio electrónico
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-15T10:15:45-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ discipline: [language learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/eportfolio
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

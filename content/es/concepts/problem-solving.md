@@ -1,14 +1,14 @@
 ---
 title: Resolución de problemas
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-11-13T14:15:38-05:00"
+updated: "2026-11-15T10:14:15-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [cognitive-psychology, problem-solving]
 technology: [generative-ai]
 confidence: medium
 translation_of: concepts/problem-solving
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - Piense en un problema realmente difícil que resolvió bien. ¿Qué hizo productivo el esfuerzo, y qué se habría perdido si alguien le hubiera dado la respuesta sin más?
-- La página describe una «deuda cognitiva»: delegar el razonamiento en la IA produce el producto correcto a costa de la comprensión. ¿Alguna vez ha llegado a la respuesta correcta sin entenderla de verdad? ¿Cuál fue el coste después?
+- La «deuda cognitiva» nombra el problema: delegar el razonamiento en la IA produce el producto correcto a costa de la comprensión. ¿Alguna vez ha llegado a la respuesta correcta sin entenderla de verdad? ¿Cuál fue el coste después?
 - Las herramientas de IA ayudan al estudiantado a explorar múltiples perspectivas y a generar sus propios problemas, pero también pueden fomentar una «pereza metacognitiva». ¿Cómo distingue entre la IA como compañera de pensamiento y la IA como sustituto del pensamiento?
 - Un experimento encontró que la retroalimentación reflexiva e híbrida superó a la retroalimentación directa de la IA en la transferencia diferida y sin IA. ¿Por qué una retroalimentación que le obliga a trabajar más puede producir un aprendizaje más duradero?
 - ¿Cómo ayuda a la transferencia y al estudio autónomo el hecho de [[teacher-role|enseñar]] al estudiantado a *plantear* sus propios problemas (y no solo a resolver los dados)? ¿Cuándo le ha enseñado más generar una pregunta que responderla?

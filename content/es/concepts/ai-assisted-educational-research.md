@@ -1,7 +1,7 @@
 ---
 title: Investigación educativa asistida por IA
 created: "2026-10-05T12:43:08-04:00"
-updated: "2026-11-13T14:20:00-05:00"
+updated: "2026-11-15T10:25:31-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -14,7 +14,7 @@ page_kind: [synthesis]
 connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 confidence: medium
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-11-13T10:36:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -34,12 +34,12 @@ ai_assist:
     role: translation
     date: "2026-10-05"
     agent: hermes-agent
-
+connected_resources: [learning-design-wiki]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Síntesis:** La investigación educativa asistida por IA es el uso de la IA como instrumento del propio trabajo académico de la disciplina: buscar y recuperar bibliografía, cribar registros para revisiones, codificar datos cualitativos, analizar datos, redactar y editar manuscritos, y la reflexión que pregunta qué hacen esas herramientas con el conocimiento producido. Es distinta de la investigación *sobre* la [[ai-education|IA en la educación]]: los diseños empleados para estudiar si la IA ayuda a quien aprende pertenecen a [[research-methods-aied]], la valoración de los sistemas de IA pertenece a [[ai-ed-evaluation]], y la lectura de un único estudio de AIED pertenece a [[interpreting-and-applying-aied-research]]. El tema es el propio flujo de trabajo de quien investiga y la indagación de quien investiga y a la vez ejerce la docencia —la erudición de la enseñanza y el aprendizaje y la investigación en el aula— y las implicaciones epistémicas cuando la automatización entra en cualquiera de las dos. Su evidencia es escasa y reciente: una propuesta de marco, el relato reflexivo de un equipo de revisión, un pequeño estudio de grupo focal, dos estudios bibliométricos, un informe de taller y estudios de caso de un único investigador. Describe una dirección de viaje más que una práctica establecida, y la rama de la investigación del profesorado es la más débil de todas.
+> **Síntesis:** La investigación educativa asistida por IA es el uso de la IA como instrumento del propio trabajo académico de la disciplina: buscar y recuperar bibliografía, cribar registros para revisiones, codificar datos cualitativos, analizar datos, redactar y editar manuscritos, y la reflexión que pregunta qué hacen esas herramientas con el conocimiento producido. Es distinta de la investigación *sobre* la [[ai-education|IA en la educación]]: los diseños empleados para estudiar si la IA ayuda a quien aprende pertenecen a los [[research-methods-aied|métodos de investigación en AIEd]], la valoración de los sistemas de IA pertenece a la [[ai-ed-evaluation|evaluación de la IA en educación]], y la lectura de un único estudio de AIED pertenece a la [[interpreting-and-applying-aied-research|interpretación y aplicación de la investigación en AIEd]]. El tema es el propio flujo de trabajo de quien investiga y la indagación de quien investiga y a la vez ejerce la docencia —la erudición de la enseñanza y el aprendizaje y la investigación en el aula— y las implicaciones epistémicas cuando la automatización entra en cualquiera de las dos. Su evidencia es escasa y reciente: una propuesta de marco, el relato reflexivo de un equipo de revisión, un pequeño estudio de grupo focal, dos estudios bibliométricos, un informe de taller y estudios de caso de un único investigador. Describe una dirección de viaje más que una práctica establecida, y la rama de la investigación del profesorado es la más débil de todas.
 
 ## Preguntas para reflexionar
 
@@ -54,7 +54,7 @@ ai_assist:
 
 La investigación educativa asistida por IA es la disciplina volviendo las herramientas de IA hacia su propio trabajo. El objeto de estudio no es un estudiante que usa un [[intelligent-tutoring|tutor de IA]], sino un investigador que usa un modelo para buscar, cribar, extraer, codificar, analizar o escribir. Lo que cambia es el flujo de trabajo de quien investiga y, más silenciosamente, los criterios por los que su producción cuenta como evidencia.
 
-El foco no es deliberadamente la investigación *sobre* la IA en la educación. Las preguntas sobre si un tutor de IA mejora el aprendizaje las aborda [[research-methods-aied]], la valoración de los sistemas de IA [[ai-ed-evaluation]], y la lectura cautelosa de un único estudio [[interpreting-and-applying-aied-research]] y [[limitations-in-aied-research]]. Las dos literaturas se confunden a menudo, y las afirmaciones sobre herramientas de la segunda se toman prestadas con frecuencia para respaldar la primera.
+El foco no es deliberadamente la investigación *sobre* la IA en la educación. Las preguntas sobre si un tutor de IA mejora el aprendizaje las abordan los [[research-methods-aied|métodos de investigación en AIEd]], la valoración de los sistemas de IA en la [[ai-ed-evaluation|evaluación de la IA en educación]], y la lectura cautelosa de un único estudio según la [[interpreting-and-applying-aied-research|interpretación y aplicación de la investigación en AIEd]] y las [[limitations-in-aied-research|limitaciones de la investigación en AIEd]]. Las dos literaturas se confunden a menudo, y las afirmaciones sobre herramientas de la segunda se toman prestadas con frecuencia para respaldar la primera.
 
 El alcance va de la búsqueda bibliográfica a la criba, la codificación, el análisis y la escritura, e incluye la reflexión epistemológica que pregunta qué hace la automatización con el conocimiento que produce una disciplina. Incluye también la investigación del profesorado: la erudición de la enseñanza y el aprendizaje y la indagación en el aula, donde un [[teacher-role|docente]] estudia su propia práctica. Esa rama es la parte más débil de la evidencia, y la laguna se declara abiertamente en lugar de disimularse.
 

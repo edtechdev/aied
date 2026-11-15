@@ -1,7 +1,7 @@
 ---
 title: Búsqueda de ayuda
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-15T10:14:14-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -96,6 +96,7 @@ Más que eliminar la ayuda, la investigación recomienda rediseñar cómo se ofr
 En contextos reales, el estudiantado con frecuencia **se salta el [[scaffolding|andamiaje]] de un [[conversational-ai|chatbot]]**, no necesariamente de forma perjudicial, sino a menudo porque hay un desajuste entre el encuadre pedagógico del chatbot y los propios objetivos de aprendizaje del estudiante. Por eso las canalizaciones de evaluación deben medir no solo si un tutor ofrece andamiaje, sino si el estudiantado *adopta* ese andamiaje, en lugar de dar por supuesto que lo hará.([[rethinking-scaffolding-llm-tutors]])
 
 - **Un botón de ayuda opcional no se pulsa.** En tres aulas de quinto curso, el estudiantado rara vez invocaba a un agente de ayuda que el diseño había dejado deliberadamente opcional para proteger la agencia, y acudía a una persona con [[teacher-role|rol docente]] mientras la confusión para la que se había construido persistía ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
+- En un juego de rol de tres semanas con estudiantado de quinto curso, los 42 estudiantes de la condición de IA generativa preguntaron a la docente del juego, y el 61,9% mencionó la posibilidad de preguntar entre lo que más valoraba; varios dijeron que hicieron preguntas que temían plantear a la docente real ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
 
 ## Búsqueda de ayuda y aprendizaje autorregulado
 
@@ -116,6 +117,8 @@ En la [[english-education|composición]] totalmente en línea, la disponibilidad
 **La trayectoria de la búsqueda de ayuda predice la transferencia, no solo su nivel.** [[abdelghani-student-llm-epistemic-proactivity-math-2026|Abdelghani et al. (2026)]] codificaron 880 turnos de 112 estudiantes de secundaria que modelaban problemas de matemáticas con un LLM y encontraron que la mezcla estática no informaba: el 81,5% de los turnos eran solicitudes, solo el 2,2% evaluación explícita, y el 54% de las solicitudes estaban orientadas a la comprensión frente al 46% orientadas a la respuesta. El rendimiento en una prueba posterior realizada sin IA se predijo por la pendiente intra-sesión y no por su nivel. La búsqueda de ayuda orientada a la comprensión disminuyó (M = −0,20) a lo largo del chat, y esa trayectoria añadió ΔR2 = 0,110 a un modelo que ya contenía la puntuación del pretest (β = 0,34, p < 0,001). Los rasgos estáticos de la interacción añadieron solo ΔR2 = 0,023 (p = 0,684). La calidad de la búsqueda de ayuda debe leerse por tanto como una curva: una sesión que se abre con preguntas conceptuales y se asienta en solicitudes de respuesta marca un rendimiento posterior más débil sin ayuda, y un aumento modesto de la autorregulación explícita (M = +0,103) no lo compensó.
 
 **Una segunda canalización plantea la misma pregunta desde el lado de la infraestructura.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] sostienen que un intercambio humano-IA es una clase de datos propia: su representación registra el estado computacional que motivó la solicitud, la solicitud, la respuesta, la valoración que hace la persona usuaria y la ejecución que siguió, como un solo objeto. Las consultas se clasifican después como recuperación de error, paso siguiente bloqueado, ayuda conceptual o validación a partir de ese contexto. En un despliegue de JupyterLab con 35 estudiantes que abarcó 140 pares estudiante-tarea, los recuentos simples de interacción se correlacionaron con las celdas ejecutadas con éxito solo en r = 0,12, mientras que 37 pares tenían acceso y nunca lo usaron y 26 lo usaron fuera de la condición asignada.
+
+- Cuando un registro de tutoría puede calificarse, retener una petición es racional, de modo que la ausencia de búsqueda de ayuda no puede leerse como ausencia de necesidad: el mismo indicador de registro significa algo distinto bajo evaluación ([[nakamura-observability-authenticity-paradox-stem-assessment-2026|Nakamura, 2026]]).
 
 ## Implicaciones para el diseño y la investigación
 

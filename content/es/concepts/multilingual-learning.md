@@ -2,14 +2,14 @@
 connected_resources: [mglearn]
 title: Aprendizaje multilingüe
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-15T10:16:27-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-11-13T13:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -78,9 +78,9 @@ El juicio comparativo basado en LLM es un caso en el que el sesgo siguió la lí
 - [[differential-effects-across-learner-groups]]
 - [[language-learning]]
 - [[llm]]
-- [[equity-in-ai-education]]
+- [[equity-in-ai-education|equidad]]
 - [[global-south]]
-- [[digital-divide]]
+- [[digital-divide|brecha digital]]
 - [[culturally-relevant-pedagogy]]
 - [[inclusive-learning]]
 - [[generative-ai]]

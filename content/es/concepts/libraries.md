@@ -12,9 +12,9 @@ level: [higher ed, adult learning]
 page_kind: [synthesis]
 confidence: medium
 connected_resources: [public-ai-libraries]
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:32:41-05:00"
 translation_of: "concepts/libraries"
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

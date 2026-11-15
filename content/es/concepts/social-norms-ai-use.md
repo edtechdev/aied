@@ -1,7 +1,7 @@
 ---
 title: Normas sociales del uso de la IA
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-05T16:05:17-05:00"
+updated: "2026-11-15T10:14:32-05:00"
 connected_faqs: [course-ai-policy, reduce-ai-cheating, should-we-use-ai-detectors]
 type: concept
 foundations: [academic-integrity, framing-ai-use-for-students, learner-identity]
@@ -13,7 +13,7 @@ audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/social-norms-ai-use
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

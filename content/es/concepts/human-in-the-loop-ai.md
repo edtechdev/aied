@@ -1,7 +1,7 @@
 ---
 title: IA con intervención humana (HITL)
 created: "2026-09-25T04:31:15-04:00"
-updated: "2026-11-13T14:20:00-05:00"
+updated: "2026-11-15T10:15:30-05:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

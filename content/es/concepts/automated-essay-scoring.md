@@ -1,7 +1,7 @@
 ---
 title: Evaluación automatizada de ensayos
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-11-13T14:20:00-05:00"
+updated: "2026-11-15T10:12:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,7 +10,7 @@ discipline: [writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/automated-essay-scoring
-source_updated: "2026-11-13T10:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,7 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_resources: [moodle-qtype-aitext]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -87,12 +88,12 @@ La confianza a nivel de token, la puntuación ponderada por probabilidad y el en
 
 La AES se sitúa en la intersección de la [[automated-assessment|evaluación automatizada]], la [[writing-education|escritura]] y la [[generative-ai|IA generativa]]. Conecta con la [[formative-assessment|evaluación formativa]] cuando se usa para dar retroalimentación en lugar de calificar, con el [[feedback|bucle de retroalimentación]] cuando se integra en procesos de escritura iterativos, y con la [[ai-literacy|alfabetización en IA]] cuando el profesorado entiende y calibra las herramientas de AES. Los conceptos de [[assessment-validity|validez de la evaluación]] y de [[educational-measurement|medición educativa]] son esenciales para garantizar que las puntuaciones de la AES sean significativas y justas.
 
-Los sistemas abiertos también forman parte de este panorama: AiAWE puntúa ensayos argumentativos con un Gemma-3-27B-it adaptado con LoRA, alcanzando una QWK de 0,828 y un acuerdo dentro de ±0,5 de la puntuación humana en el 90,56% de 360 ensayos de evaluación —y señala que la escala del modelo no predijo de forma fiable el rendimiento posterior bajo adaptación LoRA ([[aiawe-automated-writing-evaluation]]).
+Los sistemas abiertos también forman parte de este panorama: AiAWE puntúa ensayos argumentativos con un Gemma-3-27B-it adaptado con LoRA, alcanzando una QWK de 0,828 y un acuerdo dentro de ±0,5 de la puntuación humana en el 90,56% de 360 ensayos de evaluación —y señala que la escala del modelo no predijo de forma fiable el rendimiento posterior bajo adaptación LoRA ([[aiawe-automated-writing-evaluation|Gayed, 2026]]).
 
 - **«El modelo con prompt que mejor concuerda es el mejor puntuador de ensayos.»** En ASAP 2.0 el acuerdo publicado entre los dos evaluadores expertos es **κ 0,745**, y ninguna estimación puntual de un modelo con prompt lo alcanzó: los 22 fueron de **0,155** a **0,727**, y en **18** todo el intervalo quedó por debajo. Un evaluador DeBERTa ajustado alcanzó **0,809** y una regla que solo cuenta la longitud del ensayo llegó a **0,636**, por encima de **16 de 22** modelos, aunque todos los modelos mantuvieron un acuerdo superior al de la longitud. [[porcaro-ai-grading-benchmark-2026|La línea base que hay que superar es el evaluador entrenado, no el modelo de turno]].
 **El prompt, y no la rúbrica, concentra la mayor parte de la ganancia.** [[llm-automated-essay-scoring-prompt-engineering-2026|Tao y Min (2026)]] elevaron la concordancia con las etiquetas del MCER de un kappa de 0,488 a 0,829 añadiendo ejemplos de calibración puntuados y una justificación obligatoria, mientras que una rúbrica detallada por sí sola la hizo caer a 0,460.
 
-- **Acuerdo, error y lo que aporta un evaluador híbrido.** En un pequeño corpus abierto de escritura de marketing, el LLM superó tanto a reglas deterministas como a un híbrido de igual ponderación en la concordancia absoluta con evaluadores humanos (ICC(2,1) 0,435 frente a 0,266 y 0,091), y el híbrido fue significativamente peor que el LLM solo, mientras que la dispersión de las puntuaciones y una única respuesta casi vacía mostraron hasta qué punto esas estimaciones dependen de la composición del corpus ([[automated-scoring-marketing-posts-agreement-2026]]).
+- **Acuerdo, error y lo que aporta un evaluador híbrido.** En un pequeño corpus abierto de escritura de marketing, el LLM superó tanto a reglas deterministas como a un híbrido de igual ponderación en la concordancia absoluta con evaluadores humanos (ICC(2,1) 0,435 frente a 0,266 y 0,091), y el híbrido fue significativamente peor que el LLM solo, mientras que la dispersión de las puntuaciones y una única respuesta casi vacía mostraron hasta qué punto esas estimaciones dependen de la composición del corpus ([[automated-scoring-marketing-posts-agreement-2026|Li, 2026]]).
 
 ## Concepciones erróneas
 

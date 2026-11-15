@@ -1,7 +1,7 @@
 ---
 title: Trabajo en grupo
 created: "2026-09-28T21:09:40-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-15T10:13:53-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,7 +12,7 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 ## Introducción
 
-El trabajo en grupo ocupa un lugar distintivo en la [[higher-ed|educación superior]] y la [[professional-training|formación profesional]]: se valora por construir colaboración, comunicación y responsabilidad compartida, y es pedagógicamente central en programas de orientación profesional como la [[teacher-education|formación docente]]. Su promesa no se realiza de forma automática, sin embargo. Tanto el profesorado como el estudiantado informan de obstáculos para una colaboración eficaz, y un producto de grupo calificado conlleva dos afirmaciones distintas a la vez: sobre lo que el grupo logró y sobre lo que cada persona aprendió. La IA, y en particular la [[generative-ai|IA generativa]], presiona sobre ambas: cambia cómo puede dividirse el trabajo, con qué facilidad pueden fusionarse las contribuciones y cómo puede distinguirse el pensamiento de cada integrante de la salida de una herramienta. Buena parte de la investigación sobre aprendizaje colaborativo incide en el trabajo en grupo, y varias de sus líneas importan y no un único estudio.
+El trabajo en grupo ocupa un lugar distintivo en la [[higher-ed|educación superior]] y la [[professional-training|formación profesional]]: se valora por construir colaboración, comunicación y responsabilidad compartida, y es pedagógicamente central en programas de orientación profesional como la [[teacher-education|formación docente]]. Su promesa no se realiza de forma automática, sin embargo. Tanto el profesorado como el estudiantado informan de obstáculos para una colaboración eficaz, y un producto de grupo calificado conlleva dos afirmaciones distintas a la vez: sobre lo que el grupo logró y sobre lo que cada persona aprendió. La IA, y en particular la [[generative-ai|IA generativa]], presiona sobre ambas: cambia cómo puede dividirse el trabajo, con qué facilidad pueden fusionarse las contribuciones y cómo puede distinguirse el pensamiento de cada integrante de la salida de una herramienta. Buena parte de la investigación sobre aprendizaje colaborativo incide en el trabajo en grupo, y lo que importa son varias de sus líneas y no un único estudio.
 
 ## Por qué el trabajo en grupo es difícil por diseño
 

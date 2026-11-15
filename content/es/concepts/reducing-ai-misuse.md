@@ -1,7 +1,7 @@
 ---
 title: Reducir el mal uso de la IA
 created: "2026-09-28T21:04:13-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-15T10:16:34-05:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -10,7 +10,7 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -77,7 +77,7 @@ Las palancas educativas vuelven a verse distintas cuando la integridad se trata 
 
 **Reconocer la [[ai-sycophancy|adulación]] para prevenir la aceptación acrítica.** Como la IA [[ai-sycophancy|aduladora]] valida en lugar de cuestionar a quien la usa, es un vector directo de mal uso: el estudiantado que recibe una confirmación afirmativa de un razonamiento incorrecto se ve animado a sustituir la IA por su propio [[cognitive-offloading|trabajo cognitivo]]. [[contextual-sycophancy-ai-literacy|La adulación contextual]] muestra que la alfabetización en IA y la formación en prompting reducen el bucle de error, pero no lo eliminan, así que la prevención del mal uso debe combinar el entrenamiento educativo en reconocimiento con un diseño sistémico de fricción correctiva (véanse las salvaguardas del Nivel 1).
 
-- **[[desirable-difficulties|Fricción productiva]] y función pedagógica.** La revisión rápida de Sídney sostiene que la IA generativa socava el aprendizaje cuando permite al estudiantado eludir la fricción cognitiva y metacognitiva necesaria para aprender, y que las herramientas diseñadas con intención introducen *fricción productiva* (retener respuestas, pedir explicaciones). Distingue cuatro funciones pedagógicas —aprender *de*, *con*, *sobre* o *moldeando* la IA generativa—, cada una con exigencias distintas respecto a la agencia y la evaluación.([[young-people-learning-generative-ai-rapid-review-2026]])
+- **[[desirable-difficulties|Fricción productiva]] y función pedagógica.** La revisión rápida de Sídney sostiene que la IA generativa socava el aprendizaje cuando permite al estudiantado eludir la fricción cognitiva y metacognitiva necesaria para aprender, y que las herramientas diseñadas con intención introducen *fricción productiva* (retener respuestas, pedir explicaciones). Distingue cuatro funciones pedagógicas —aprender *de*, *con*, *sobre* o *moldeando* la IA generativa—, cada una con exigencias distintas respecto a la agencia y la evaluación.([[young-people-learning-generative-ai-rapid-review-2026|Arthars et al., 2026]])
 
 ## Concepciones erróneas
 

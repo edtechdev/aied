@@ -1,7 +1,7 @@
 ---
 title: Educación STEM
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-15T10:14:32-05:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -10,7 +10,7 @@ discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/stem-education
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,7 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_resources: [teacher-dev]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*

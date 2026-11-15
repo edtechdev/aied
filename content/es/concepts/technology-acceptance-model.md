@@ -1,7 +1,7 @@
 ---
 title: Modelos de adopción tecnológica
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-15T10:13:56-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 - Una creencia habitual es que «si una herramienta es claramente útil, la gente la usará». ¿Ha visto situaciones en las que una tecnología genuinamente útil no llegó a cuajar, o en las que una claramente limitada se extendió igualmente? ¿Qué podría explicar la brecha entre utilidad objetiva y adopción real?
 - Marcos de adopción como el TAM se diseñaron en la década de 1980 para sistemas bastante simples. Si ha usado IA generativa, ¿en qué se diferencia de un procesador de textos o de una [[edtech-platform|plataforma de gestión del aprendizaje]], y por qué un modelo construido en torno a la «facilidad de uso» y la «utilidad» podría tener dificultades para captar cómo se relacionan las personas con algo que les responde?
 - Quienes [[research-methods-aied|investigan]] suelen decir que el riesgo percibido y la confianza importan menos para la adopción de la IA de lo que se esperaba. Antes de seguir leyendo, ¿qué predice usted: que el estudiantado adopta la IA porque confía en ella, a pesar de los riesgos, o que esas preocupaciones son en realidad menores frente a la comodidad y la presión social?
-- La página sostiene que los marcos de adopción tratan el uso de una herramienta como una decisión única, pero que el uso eficaz puede ser un juicio continuo. ¿Dónde se difumina, en su propia práctica o en la de sus estudiantes, la línea entre «elegir usar IA» y «decidir continuamente cómo usarla bien», y qué cambiaría si midiéramos eso en lugar de la mera adopción?
+- Los marcos de adopción tratan el uso de una herramienta como una decisión única, pero el uso eficaz puede ser un juicio continuo. ¿Dónde se difumina, en su propia práctica o en la de sus estudiantes, la línea entre «elegir usar IA» y «decidir continuamente cómo usarla bien», y qué cambiaría si midiéramos eso en lugar de la mera adopción?
 - Algunas investigaciones agrupan al estudiantado en distintas «personas de adopción» en lugar de suponer que un único modelo sirve para todos. ¿Qué diferencias observa entre sus estudiantes o colegas que un único modelo promedio de adopción podría ocultar, y cómo podrían esas diferencias moldear la forma de apoyarlos?
 
 ## Introducción

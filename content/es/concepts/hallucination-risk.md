@@ -1,7 +1,7 @@
 ---
 title: Riesgo de alucinación
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:10:18-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-11-13T12:55:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

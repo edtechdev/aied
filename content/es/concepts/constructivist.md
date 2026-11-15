@@ -2,14 +2,14 @@
 connected_resources: [vibes-diy]
 title: Constructivismo
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-15T10:15:23-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [active-learning, collaborative-learning, experiential-learning, learning-theories, scaffolding, self-regulated-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/constructivist
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

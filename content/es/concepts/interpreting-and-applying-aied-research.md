@@ -1,7 +1,7 @@
 ---
 title: Interpretar y aplicar la investigación en AIED
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-11-05T16:12:38-05:00"
+updated: "2026-11-15T10:12:36-05:00"
 type: concept
 foundations: [limitations-in-aied-research]
 research_method: [literature review]
@@ -13,7 +13,7 @@ page_kind: [evaluation, framework]
 confidence: high
 connected_faqs: [reporting-interpreting-aied-research, research-gaps-aied, how-can-ai-assist-with-educational-research]
 translation_of: concepts/interpreting-and-applying-aied-research
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -123,7 +123,7 @@ Las mismas comprobaciones se invierten y se convierten en requisitos de diseño,
 
 ## Para quienes quieren la evidencia
 
-Las comprobaciones anteriores no son sabiduría popular; proceden de fallos documentados en esta literatura. Esta sección conserva el detalle para quien revise un artículo, defienda una decisión o sostenga que una herramienta debería evaluarse como es debido.
+Las comprobaciones anteriores no son sabiduría popular; proceden de fallos documentados en esta literatura. El detalle se conserva aquí para quien revise un artículo, defienda una decisión o sostenga que una herramienta debería evaluarse como es debido.
 
 **Los fallos de validez tienen una distribución, no solo una presencia.** En los 46 estudios auditados por [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]], el problema más común fue el desajuste de la variable dependiente (n = 15) —la medida no capturaba lo que afirmaba la afirmación—, seguido del desajuste de la variable independiente (n = 11), problemas de diseño experimental (n = 7), problemas de extracción de datos (n = 6), ausencia de grupo de control (n = 6) y asignación no aleatoria de los grupos (n = 6). De los 14 metaanálisis, doce trataron como independientes varios tamaños del efecto extraídos de un mismo estudio primario, lo que infla la base de evidencia aparente.
 
@@ -137,7 +137,7 @@ Las comprobaciones anteriores no son sabiduría popular; proceden de fallos docu
 
 **Los objetivos de los benchmarks se mueven**, así que un resultado que un sistema satura o falla hoy puede invertirse con la próxima versión; las comprobaciones de saturación y contaminación van junto a cualquier afirmación basada en un benchmark.
 
-**Leer esta literatura junto a sus propios críticos es práctica habitual aquí.** Las listas de comprobación del lado del reporte para autores y revisores están en [[reporting-interpreting-aied-research|las preguntas frecuentes sobre reportar e interpretar la investigación en IA]], y esos hábitos de valoración se combinan con [[theory-development-aied|Desarrollo teórico en la IA en la educación]] cuando una afirmación es teórica y no empírica.
+**Leer esta literatura junto a sus propios críticos es la práctica habitual.** Las listas de comprobación del lado del reporte para autores y revisores están en [[reporting-interpreting-aied-research|las preguntas frecuentes sobre reportar e interpretar la investigación en IA]], y esos hábitos de valoración se combinan con [[theory-development-aied|Desarrollo teórico en la IA en la educación]] cuando una afirmación es teórica y no empírica.
 
 ## Una lista de comprobación breve
 
@@ -197,4 +197,4 @@ Las comprobaciones anteriores no son sabiduría popular; proceden de fallos docu
 - [[ai-tutoring-quality-k12-methodologies-2026]] — Métricas de proveedor con su calibración y su número de experimentos declarados
 - [[ai-assisted-assessment-instruction-higher-ed-2026]] — Hallazgos ligados a versiones de modelos, y la agitación del campo
 - [[instruction-partners-ai-in-action-learning-tour-2026]] — Recuentos de evidencia independiente para 16 productos de IA dirigidos al estudiantado que ya están en uso
-- [[ai-higher-ed-service-delivery-systematic-review-2026]] — Una revisión puede cuantificar el sesgo de notificación de su propio corpus
+- [[ai-higher-ed-service-delivery-systematic-review-2026]] — Sesgo de notificación medido en los 155 estudios de la propia revisión

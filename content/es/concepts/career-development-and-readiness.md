@@ -1,14 +1,14 @@
 ---
 title: Desarrollo y preparación profesional
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:16:10-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/career-development-and-readiness
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-15T09:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,7 @@ A medida que la IA transforma las ocupaciones, el papel de la educación en el d
 - **Los filtros de contratación sin IA dejan de certificar lo que el trabajo exige.** En entrevistas con 23 estudiantes y recién graduados de ingeniería en India, todos salvo uno usaron IA para prepararse para pruebas de colocación que la excluían, mientras que quienes se graduaban describían lugares de trabajo que esperaban IA desde el primer día, de modo que, según la teoría de la señalización, una CGPA obtenida con ayuda de IA ya no separa a los candidatos por coste ([[ai-free-gates-engineering-students-india-2026|Goutham y Gu (2026)]]).
 - **La política de curso como decisión sobre competencias laborales.** El caso de diseño de [[mccorkle-aligned-genai-course-policy-2025|McCorkle (2025)]] hace explícito el compromiso a nivel de tarea: para cada paso de un proyecto de semestre, el profesorado empareja una competencia laboral emergente en [[generative-ai|IA generativa]] (prompting para objetivos, generación de imágenes, escritura de guiones, narración con [[speech-and-voice-technologies|texto a voz]]) con la necesidad de evaluar una habilidad fundacional, y permite la IA solo cuando gana la competencia. Es una forma concreta de incorporar a las tareas existentes las habilidades de flujo de trabajo que valoran quienes emplean ([[prompt-engineering|ingeniería de prompts]], evaluación de la salida de un [[llm|LLM]]) en lugar de añadir un curso aparte sobre IA.
 - **El trabajo de empleabilidad ya pasa por ChatGPT.** [[loidl-chatgpt-career-development-2026|Loidl, Cao y Huang (2026)]] encuestaron a 102 estudiantes de grado de una universidad R1 del Medio Oeste y encontraron que alrededor del 81% había usado ChatGPT para actividades relacionadas con la empleabilidad en los 12 meses anteriores. Los currículos encabezaron la lista con un 52,94%, seguidos de la comunicación en el trabajo (38,24%) y las cartas de presentación (35,29%). Las entrevistas leen ese uso como un trabajo de adaptación y ensayo más que de externalización, así que la preparación profesional tiene que construirse sobre una preparación que la herramienta ya media, y no solo sobre las capacidades que persiguen los marcos de preparación profesional.
+- **El asesoramiento profesional con LLM arrastra un contexto occidental por defecto.** Preguntados por lo que exigen los empleos de informática de nivel inicial en diez países africanos, seis modelos reconocieron los ecosistemas locales, las necesidades lingüísticas y las políticas nacionales solo el 35,4% de las veces, de modo que el consejo técnico se transfiere y el contexto no ([[eze-llm-career-guidance-african-computing-2026|Eze, Lunn y Berhane, 2026]]).
 - **El modo de uso reorganiza lo que el estudiantado considera empleabilidad.** En ocho grupos focales de una universidad de Madrid (30 estudiantes), quienes usaban ChatGPT atribuían eficiencia, filtrado de las sugerencias de la IA y refinamiento de la salida, mientras que quienes no lo usaban atribuían deliberación, originalidad y trabajo en equipo: 8 de las 9 menciones al trabajo en equipo procedían de quienes no lo usaban ([[calle-martinez-chatgpt-employability-soft-skills-2026|Calle-Martinez et al. 2026]]). Los autores nombran los dos caminos autonomía asistida y creatividad lenta, y advierten de que ninguno se midió.
 - **Marcos de preparación específicos de cada sector.** [[workforce-readiness-smart-manufacturing-wrl-2026|La preparación laboral para la fabricación inteligente]] y [[ai-engineering-computing-workforce-grey-literature-2026|el futuro de la fuerza laboral de ingeniería e informática]] traducen la empleabilidad general en marcos de competencias [[discipline-specific-aied|específicos de cada disciplina]].
 - **Qué espera el profesorado que desplace la IA, y qué no es eso.** En diez entrevistas en un departamento de [[engineering-education|ingeniería]] centrado en la IA, el profesorado discrepó sobre cómo remodelaría el trabajo la IA generativa: nombró la programación, la [[writing-education|escritura]] y el trabajo de información como vulnerables a corto plazo, sin ofrecer evidencia del mercado laboral que respaldara esas expectativas ([[sadik-ai-ready-engineering-talent-faculty-2026|Sadik (2026)]]).

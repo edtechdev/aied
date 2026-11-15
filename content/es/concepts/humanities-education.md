@@ -1,14 +1,14 @@
 ---
 title: Educación en humanidades y ciencias sociales
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-11-13T18:45:00-05:00"
+updated: "2026-11-15T10:15:30-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-11-13T16:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Detección de IA
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-11-11T12:40:00-05:00"
+updated: "2026-11-15T10:24:54-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -14,7 +14,7 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-detection
-source_updated: "2026-11-13T10:01:05-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -130,7 +130,7 @@ La pregunta constructiva se desplaza de «¿cómo impedimos que los estudiantes 
 - **Equidad:** las herramientas de detección que penalizan a quienes escriben en una lengua no nativa o que producen falsos positivos corren el riesgo de amplificar las inequidades existentes.
 - **La alfabetización en IA es complementaria:** ayudar al estudiantado a comprender el uso apropiado frente al [[ai-misuse-learning-harm|uso perjudicial de la IA]] resulta más productivo que confiar en la vigilancia.
 
-- **Precaución sobre la fiabilidad de la detección.** Una [[meta-analysis-systematic-review|revisión sistemática]] sobre la IA y la integridad académica concluye que las herramientas de detección de plagio e IA no pueden considerarse fiables para el trabajo generado por IA y deberían combinarse con múltiples métodos de evaluación y revisión manual, lo que refuerza que la detección es una herramienta limitada y situacional.([[ssaho-ai-academic-integrity-review-2025]])
+- **Precaución sobre la fiabilidad de la detección.** Una [[meta-analysis-systematic-review|revisión sistemática]] sobre la IA y la integridad académica concluye que las herramientas de detección de plagio e IA no pueden considerarse fiables para el trabajo generado por IA y deberían combinarse con múltiples métodos de evaluación y revisión manual, lo que refuerza que la detección es una herramienta limitada y situacional.([[ssaho-ai-academic-integrity-review-2025|Balalle et al., 2025]])
 - **Más allá de la detección: diálogo en lugar de vigilancia.** Un relato de un profesional sobre el marco de verificación del aprendizaje de la Grand Canyon University ([[best-response-student-ai-dialog-2026|Mandernach (2026)]]) sostiene que la mejor respuesta al [[student-ai-interaction|uso de la IA por el estudiantado]] es el diálogo, no la detección. Como los detectores son poco fiables (y están sesgados contra quienes escriben en una lengua no nativa), la GCU dejó de preguntar «¿usó el estudiante la IA?» y en su lugar pide al estudiantado que demuestre su comprensión en una breve conversación: una extensión del [[authentic-assessment|rediseño de la evaluación]] que trata la detección como un callejón sin salida y la verificación como buena docencia.
 
 - **La confianza sobrepasa a la convicción, a costa de la docencia.** En una encuesta a 20 profesionales de la educación superior, 15 informaron de una fuerte dependencia institucional del software de detección de IA, mientras que solo 4 expresaron confianza en él, y las personas encuestadas describieron un «agotamiento [[pedagogy|pedagógico]]» derivado de la vigilancia que desplazaba el [[learning-design|diseño de la enseñanza]] y la tutoría del estudiantado ([[evaluation-age-ai-output-evidence-2026|Chowdhury y Khan (2026)]]).

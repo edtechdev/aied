@@ -1,7 +1,7 @@
 ---
 title: Evaluación auténtica
 created: "2026-09-28T21:06:12-04:00"
-updated: "2026-11-13T14:20:00-05:00"
+updated: "2026-11-15T10:11:18-05:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -11,7 +11,7 @@ assessment: [assessment, assessment-validity, authentic-assessment, formative-as
 level: [higher ed]
 confidence: high
 translation_of: concepts/authentic-assessment
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-15T09:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,7 @@ La autenticidad tiene que estar integrada en la tarea y no imponerse después:
 - [[beyond-detection-authentic-assessment-ai-2025|Más allá de la detección]] sostiene que la autenticidad no puede imponerse por vigilancia; hay que diseñarla, posicionando la IA como colaboradora declarada en lugar de como aplicación para hacer trampas, y priorizando la evaluación auténtica y [[process-oriented-assessment|basada en procesos]] por encima de la vigilancia.
 - [[responsible-assessment-ai-era-stanford-2026|La evaluación responsable]] reencuadra la evaluación en torno a evidencia de validez y tareas auténticas que reflejan el trabajo futuro del estudiantado.
 - [[authentic-products-authenticated-processes-2026|Productos auténticos, procesos autenticados]] examina cómo la [[higher-ed|educación superior]] rica en IA puede evaluar tanto los productos genuinos como los procesos que los produjeron.
+- **La gobernanza llega al estudiantado a través del diseño de la evaluación.** La calidad percibida de la [[governance|gobernanza]] de la IA predijo la evaluación auténtica percibida mucho más allá del conocimiento de las políticas (β = 0,36 frente a 0,12), y la evaluación auténtica medió por completo la ruta hacia la [[student-engagement|implicación]] en 644 estudiantes de universidades chinas ([[jiang-genai-governance-authentic-assessment-equity-2026|Jiang, 2026]]).
 
 - **Una IA socia de redacción sigue dejando el juicio en manos humanas.** [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] pilotaron un diseñador de evaluación GPT-4.1 con ocho coordinadores: produjo panorámicas, tareas, criterios, cronogramas y rúbricas utilizables, pero falló repetidamente en el contexto disciplinar y la secuenciación de los temas, y los ocho rechazaron la automatización de principio a fin, situando el [[evaluative-judgment|juicio académico]] en las personas y no en el modelo.
 - [[tool-invariant-framework-agentic-ai|El marco invariante a la herramienta]] aboga por evaluar métodos y procesos computacionales en lugar de productos específicos de una herramienta, mediante defensa oral y verificación.

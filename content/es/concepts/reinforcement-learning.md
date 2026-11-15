@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje por refuerzo
 created: "2026-09-28T18:23:55-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-15T10:16:55-05:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 type: concept
 pedagogy: [active-learning, scaffolding]
@@ -10,7 +10,7 @@ ethics: [pedagogical-safety]
 level: [special education, k 12, higher ed]
 confidence: medium
 translation_of: concepts/reinforcement-learning
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Aprendizaje por refuerzo**: entrena tutores y agentes de IA mediante señales de recompensa: [[special-r1-rl-special-education]], [[singh-eduqwen-pedagogical-rl-2026]], [[pedagogical-safety-rl]] y [[ai-coaching-rl-skill-development]] alinean el aprendizaje por refuerzo con [[pedagogy|objetivos pedagógicos]], incluidos la seguridad y la transferencia de habilidades ([[intelligent-tutoring]], [[agentic-ai]]).
+> **Aprendizaje por refuerzo**: entrena tutores y agentes de IA mediante señales de recompensa: [[special-r1-rl-special-education|Lee et al., 2026]], [[singh-eduqwen-pedagogical-rl-2026|Singh et al., 2026]], [[pedagogical-safety-rl|Olukolaa et al. (2026)]] y [[ai-coaching-rl-skill-development|Wang et al. (2026)]] alinean el aprendizaje por refuerzo con [[pedagogy|objetivos pedagógicos]], incluidos la seguridad y la transferencia de habilidades ([[intelligent-tutoring|tutoría inteligente]], [[agentic-ai|IA agéntica]]).
 
 ## Preguntas para reflexionar
 
@@ -40,11 +40,11 @@ El aprendizaje por refuerzo (RL) entrena a un agente recompensando el comportami
 
 ## Aplicaciones documentadas
 
-- **RL alineado pedagógicamente.** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] usa una canalización RL-SFT-RL para entrenar un modelo que *guía* en lugar de responder, alineando la recompensa con objetivos pedagógicos; [[special-r1-rl-special-education]] aplica RL al diseño de tutores para la [[special-education|educación especial]].
+- **RL alineado pedagógicamente.** [[singh-eduqwen-pedagogical-rl-2026|EduQwen]] usa una canalización RL-SFT-RL para entrenar un modelo que *guía* en lugar de responder, alineando la recompensa con objetivos pedagógicos; [[special-r1-rl-special-education|Lee et al., 2026]] aplica RL al diseño de tutores para la [[special-education|educación especial]].
 - **El RL supera al ajuste fino supervisado para seguir instrucciones pedagógicas.** El entrenamiento de LearnLM encontró que el RL basado en preferencias era significativamente más eficaz que el SFT por sí solo, porque los juicios de preferencia capturan distinciones dependientes del contexto a lo largo de conversaciones largas que los datos supervisados etiquetados con instrucciones solo manejan en parte ([[learnlm-improving-gemini-learning|LearnLM Team (2025)]]).
-- **Seguridad y transferencia de habilidades.** [[pedagogical-safety-rl]] integra restricciones de seguridad en la tutoría basada en RL para que la optimización de la recompensa no vaya a costa del bienestar de quien aprende; [[ai-coaching-rl-skill-development]] muestra un entrenamiento impulsado por RL que apoya el desarrollo y la transferencia genuinos de habilidades.
+- **Seguridad y transferencia de habilidades.** [[pedagogical-safety-rl|Olukolaa et al. (2026)]] integra restricciones de seguridad en la tutoría basada en RL para que la optimización de la recompensa no vaya a costa del bienestar de quien aprende; [[ai-coaching-rl-skill-development|Wang et al. (2026)]] muestra un entrenamiento impulsado por RL que apoya el desarrollo y la transferencia genuinos de habilidades.
 - **Lo que una recompensa deja fuera determina quién se beneficia.** [[adaptive-scaffolding-cognitive-engagement-its|Tithi et al. (2026)]] encontraron que un tutor de RL profundo recompensado por la puntuación en las pruebas y la eficiencia temporal igualó a una heurística BKT en el postest (A = 0,58 en ambos casos, frente a 65,7), pero asignó solo el 4% de los problemas de entrenamiento a la reparación constructiva de ejemplos erróneos y favoreció al estudiantado con más [[prior-knowledge|conocimientos previos]].
-- **Simulación y práctica.** [[history-aware-student-simulation]] y [[q-learning-lab-rl-teaching]] usan RL y [[simulating-students|estudiantado simulado]] para entrenar y evaluar [[pedagogical-agent|agentes pedagógicos]], lo que conecta el RL con el [[student-modeling|modelado del estudiantado]] y la [[learning-analytics|analítica del aprendizaje]].
+- **Simulación y práctica.** [[history-aware-student-simulation|Duan et al., 2026]] y [[q-learning-lab-rl-teaching|Jueng (2026)]] usan RL y [[simulating-students|estudiantado simulado]] para entrenar y evaluar [[pedagogical-agent|agentes pedagógicos]], lo que conecta el RL con el [[student-modeling|modelado del estudiantado]] y la [[learning-analytics|analítica del aprendizaje]].
 
 - **RL de horizonte largo y ponderado por la seguridad.** [[residencyrl-clinical-rl-training-2026|ResidencyRL (Liévin et al., 2026)]] optimiza encuentros clínicos completos de 60 turnos —muy por encima de los horizontes de ≤12 turnos de los sistemas de [[conversational-ai|diálogo]] concurrentes— y el entrenamiento contra pacientes simulados adversarios con una recompensa alineada con la seguridad elevó la precisión diagnóstica un 7,0% y redujo las tasas de señales de alarma pasadas por alto en aproximadamente un tercio.
 

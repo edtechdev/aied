@@ -1,7 +1,7 @@
 ---
 title: Infraestructura institucional de IA
 created: "2026-11-12T22:30:00-05:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:11:29-05:00"
 type: concept
 connected_resources: [mindrouter, amplify-genai]
 technology: [llm, generative-ai, open-source, edtech-platform]
@@ -12,7 +12,7 @@ discipline: [information technology]
 confidence: high
 contributors: [editor]
 translation_of: concepts/institutional-ai-infrastructure
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -36,7 +36,7 @@ ai_assist:
 
 ## Introducción
 
-Las instituciones pasaron los primeros años de la [[generative-ai|IA generativa]] comprando acceso: una licencia de [[conversational-ai|chatbot]] aquí, un asistente de escritura allá, cada uno con sus propios términos y su propia ruta de datos. El resultado es una cartera que nadie puede describir en una frase, y un conjunto de preguntas —adónde fue ese prompt, quién aprobó este modelo, cuánto gastamos— que ninguna oficina puede responder por sí sola.
+Las instituciones pasaron los primeros años de la [[generative-ai|IA generativa]] comprando acceso: una licencia de [[conversational-ai|chatbot]] aquí, un asistente de escritura allá, cada uno con sus propios términos y su propia ruta de datos. El resultado es una cartera que nadie puede describir en una frase, y un conjunto de preguntas (adónde fue ese prompt, quién aprobó este modelo, cuánto gastamos) que ninguna oficina puede responder por sí sola.
 
 Tratar la IA como infraestructura es la respuesta. Significa una capa de servicio compartida, una pasarela que aplica las reglas de la institución a cada petición y telemetría suficiente para ver coste, carga y fallo. La afirmación de la literatura no es que esto sea más barato. Es que convierte a la institución en la parte que decide, lo cual es un tipo de afirmación distinto y más difícil de contrastar.
 
@@ -66,7 +66,7 @@ Tres implementaciones describen ahora el mismo movimiento arquitectónico con un
 
 [[huijts-suilen-institutional-ai-sovereignty-gateway-2025|Huijts y Suilen]], en Fontys ICT, separan un frontend al estilo de ChatGPT vinculado a la identidad institucional, un núcleo de enrutamiento que aplica presupuestos y restricciones regionales, y una capa de proveedores de modelos locales y comerciales. Seis meses y 300 usuarios después, un tope mensual de \$500 nunca se había superado, y cada sesión se abría con una ficha de modelo que nombraba capacidades, región de alojamiento, coste y alternativas.
 
-[[sheneman-mindrouter-institutional-ai-sovereignty-2026|MindRouter]] lleva la misma idea a la planificación. Las peticiones se ponderan por rol —[[administrator|administración]] 10, profesorado 5, personal 2, estudiantado 1— mediante Weighted Deficit Round Robin, y la selección del backend añade puntuaciones blandas por latencia, carga y preferencia del administrador. La pasarela guarda el registro de auditoría y mide energía además de tokens.
+[[sheneman-mindrouter-institutional-ai-sovereignty-2026|MindRouter]] lleva la misma idea a la planificación. Las peticiones se ponderan por rol ([[administrator|administración]] 10, profesorado 5, personal 2, estudiantado 1) mediante Weighted Deficit Round Robin, y la selección del backend añade puntuaciones blandas por latencia, carga y preferencia del administrador. La pasarela guarda el registro de auditoría y mide energía además de tokens.
 
 [[rahaman-soa-on-prem-ai-gateway-2026|SPIN en Georgia Tech]] hace explícita la separación en la frontera de la API: LiteLLM y PostgreSQL en una máquina virtual solo de CPU, vLLM y Triton en nodos de GPU dentro de Slurm, con el host, el puerto y la clave del backend resueltos desde la base de datos en el momento de la petición. Sustituir un modelo se convierte en una actualización de la base de datos invisible para los clientes.
 

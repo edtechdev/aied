@@ -1,7 +1,7 @@
 ---
 title: Medidas de autoinforme
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:14:32-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,7 +14,7 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,9 +46,9 @@ ai_assist:
 
 El autoinforme abarca mucho más que el cuestionario. Incluye [[quantitative-research|encuestas transversales]] con formatos de respuesta tipo Likert y otros, entrevistas y grupos focales realizados por [[qualitative-research|investigadores cualitativos]], diarios y muestreo de experiencias, habilidad o confianza autoevaluadas, estimaciones recordadas de la frecuencia de uso de una herramienta, y aprendizaje percibido o satisfacción tratados como resultados. Lo que los une es la posición epistémica de quien responde: informa sobre sí mismo en lugar de ser observado.
 
-Esto no es una debilidad de la que haya que disculparse. Muchos constructos de interés —la motivación, la [[anxiety-and-stress|ansiedad]], la [[trust-calibration|confianza]], la utilidad percibida, las intenciones de [[student-engagement|implicación]]— son estados internos que ningún archivo de registro recoge, y preguntar es la única forma defendible de llegar a ellos. El problema surge cuando un autoinforme se usa para respaldar una afirmación que no puede sostener, lo que en el fondo es una cuestión de validez: si el instrumento mide el constructo que nombra, y si la afirmación que se hace es sobre el tipo de cosa que el autoinforme puede ver. Esa preocupación corresponde a la [[educational-measurement|medición educativa]] y a la [[assessment-validity|validez de la evaluación]]; esta página trata de qué ocurre cuando la investigación sobre IA en educación se apoya específicamente en el autoinforme, y de dónde muestra la base de evidencia que se rompe.
+Esto no es una debilidad de la que haya que disculparse. Muchos constructos de interés —la motivación, la [[anxiety-and-stress|ansiedad]], la [[trust-calibration|confianza]], la utilidad percibida, las intenciones de [[student-engagement|implicación]]— son estados internos que ningún archivo de registro recoge, y preguntar es la única forma defendible de llegar a ellos. El problema surge cuando un autoinforme se usa para respaldar una afirmación que no puede sostener, lo que en el fondo es una cuestión de validez: si el instrumento mide el constructo que nombra, y si la afirmación que se hace es sobre el tipo de cosa que el autoinforme puede ver. Esa preocupación corresponde a la [[educational-measurement|medición educativa]] y a la [[assessment-validity|validez de la evaluación]]; la cuestión más estrecha es qué ocurre cuando la investigación sobre IA en educación se apoya específicamente en el autoinforme, y dónde muestra la base de evidencia que se rompe.
 
-**Relación con los conceptos vecinos.** [[research-methods-aied|Los métodos de investigación en educación con IA]] catalogan diseños y sus fortalezas y limitaciones, incluidas las encuestas y los estudios de ecuaciones estructurales. [[quantitative-research|La investigación cuantitativa]] cubre la familia de métodos numéricos. [[educational-measurement|La medición educativa]] cubre el desarrollo de instrumentos, la [[item-response-theory|teoría de respuesta al ítem]] y la validación psicométrica. Esta página es la porción más estrecha a la que apuntan esas páginas: el instrumento de medición y la fuente de datos en sí, qué puede y qué no puede establecer el autoinforme, la brecha recurrente entre lo que la gente informa y lo que hace, y cómo leer críticamente un hallazgo de autoinforme.
+**Relación con los conceptos vecinos.** [[research-methods-aied|Los métodos de investigación en educación con IA]] catalogan diseños y sus fortalezas y limitaciones, incluidas las encuestas y los estudios de ecuaciones estructurales. [[quantitative-research|La investigación cuantitativa]] cubre la familia de métodos numéricos. [[educational-measurement|La medición educativa]] cubre el desarrollo de instrumentos, la [[item-response-theory|teoría de respuesta al ítem]] y la validación psicométrica. El instrumento de medición y la fuente de datos son el tema más estrecho: qué puede y qué no puede establecer el autoinforme, la brecha recurrente entre lo que la gente informa y lo que hace, y cómo leer críticamente un hallazgo de autoinforme.
 
 ## Qué puede y qué no puede establecer el autoinforme
 
@@ -133,7 +133,7 @@ Una encuesta reciente al profesorado muestra el fallo en su forma extrema. [[mor
 
 ## Muestreo, respuesta y no respuesta
 
-Como las encuestas son baratas de administrar, los problemas de muestreo suelen ser el punto donde falla la afirmación de generalizabilidad. Este corpus los informa de forma explícita e instructiva:
+Como las encuestas son baratas de administrar, los problemas de muestreo suelen ser el punto donde falla la afirmación de generalizabilidad. Los estudios los informan de forma explícita e instructiva:
 
 - [[genai-student-experiences-uk-he-survey-2026|Una encuesta británica sobre el uso de IA generativa por el estudiantado]] informa de una muestra de conveniencia en 7 instituciones, tasas de respuesta [[governance|institucionales]] muy variables y un sesgo de no respuesta que puede inclinarse hacia el estudiantado con opiniones fuertes, y señala que aproximadamente el 32% de quienes respondieron describieron conductas que podrían considerarse contrarias a la política, en un formato en el que la deseabilidad social y la presión contextual hacen que la **infradeclaración** sea la dirección probable del error.
 - [[ai-assisted-instructor-supervised-grading-feedback|Un estudio sobre retroalimentación de calificación asistida por IA]] se basa en 112 respuestas, una tasa de respuesta del 31%.
@@ -145,7 +145,7 @@ La autoselección agrava esto. [[chatgpt-inoculation-training-verification-2026|
 
 Dos errores más específicos del autoinforme se repiten. **Los límites de la introspección y el sesgo de deseabilidad social** se señalan como intrínsecos al autoinforme en [[engagement-assessment-video|el trabajo sobre evaluación de la implicación]] y en [[ccct-cooperative-learning-technique|estudios cuyos datos cualitativos dependen del autoinforme]]. **La varianza por método común** surge cuando los predictores y los resultados proceden de las mismas personas respondientes y en el mismo momento: [[ai-use-critical-thinking-medical-students-2026|un estudio de mediación moderada sobre el uso de IA y el pensamiento crítico]] operacionalizó el uso, la carga cognitiva y el [[self-regulated-learning|aprendizaje autorregulado]] todos mediante instrumentos de autoinforme estandarizados en un único momento temporal, y plantea el sesgo de método común como consecuencia; [[genai-motivation-engagement-2026|un estudio PLS-SEM sobre motivación e implicación]] se apoya igualmente del todo en el autoinforme y no puede establecer el orden temporal entre sus mediadores.
 
-El modo de administración es una segunda amenaza que el corpus todavía no ha contado. [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme, Schilling y Hantel (2026)]] proponen sustituir las encuestas de curso escritas por entrevistas telefónicas realizadas con IA, y reúnen evidencia sobre el efecto del modo que apunta en ambas direcciones: las respuestas de voz son más largas y cubren más temas, mientras que una comparación aleatorizada de 634 personas respondientes encontró que las respuestas de texto eran más diferenciadas y más sinceras.
+El modo de administración es una segunda amenaza que la investigación todavía no ha contado. [[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme, Schilling y Hantel (2026)]] proponen sustituir las encuestas de curso escritas por entrevistas telefónicas realizadas con IA, y reúnen evidencia sobre el efecto del modo que apunta en ambas direcciones: las respuestas de voz son más largas y cubren más temas, mientras que una comparación aleatorizada de 634 personas respondientes encontró que las respuestas de texto eran más diferenciadas y más sinceras.
 
 ## Remedio: añadir evidencia que no sea de autoinforme
 

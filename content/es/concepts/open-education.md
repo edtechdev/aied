@@ -1,7 +1,7 @@
 ---
 title: "Educación abierta"
 created: "2026-10-28T20:30:00-04:00"
-updated: "2026-11-13T14:15:14-05:00"
+updated: "2026-11-15T10:16:27-05:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -13,7 +13,7 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/open-education
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

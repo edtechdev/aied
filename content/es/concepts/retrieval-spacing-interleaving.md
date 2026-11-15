@@ -1,7 +1,7 @@
 ---
 title: "Recuperación, espaciado e intercalado"
 created: "2026-09-28T20:10:03-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:17:24-05:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -12,7 +12,7 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -71,7 +71,7 @@ Ninguno de los dos sistemas aplicados ha producido evidencia de retención propi
 
 El intercalado —mezclar tipos de problemas o de ítems dentro de una sesión de práctica en lugar de agruparlos por tipo— es el que tiene la evidencia más débil de los tres, y eso debe decirse en lugar de rellenarse. El intercalado aparece en [[desirable-difficulties|dificultades deseables]] solo como un caso en una lista de condiciones esforzadas, y ningún estudio prueba una manipulación de intercalado frente a un control por bloques.
 
-Lo que sí existe es adyacente y merece distinguirse con cuidado. [[simulating-learner-task-selection|Simular la selección de tareas de quien aprende]] modela el **intercalado** y el **agrupamiento por bloques** como dos de ocho estrategias candidatas de quien aprende en una [[simulation|simulación]] de [[mastery-learning|aprendizaje para el dominio]], junto con el objetivo por fortaleza, el objetivo por debilidad y reglas informadas por el resultado. El hallazgo es sobre la arquitectura de elección y no sobre la memoria: algunas estrategias de quien aprende retrasan sistemáticamente el avance por exceso de práctica, y las restricciones de selección de tareas corrigieron las estrategias desadaptativas mientras dejaban el intercalado, el agrupamiento por bloques, el objetivo por fortaleza y el objetivo por debilidad en niveles estables de exceso de práctica. Eso es evidencia de que el intercalado es una *conducta seleccionable* que un sistema puede acomodar o restringir, no evidencia de que el intercalado mejore la retención. Las menciones restantes son sentidos no relacionados de la palabra (etapas de agente intercaladas en [[knowloop-confusion-to-consolidation-2026]]; trayectorias de solución visual-textual intercaladas en un [[benchmark|punto de referencia]] de geometría), y no deben contarse como evidencia sobre el intercalado.
+Lo que sí existe es adyacente y merece distinguirse con cuidado. [[simulating-learner-task-selection|Simular la selección de tareas de quien aprende]] modela el **intercalado** y el **agrupamiento por bloques** como dos de ocho estrategias candidatas de quien aprende en una [[simulation|simulación]] de [[mastery-learning|aprendizaje para el dominio]], junto con el objetivo por fortaleza, el objetivo por debilidad y reglas informadas por el resultado. El hallazgo es sobre la arquitectura de elección y no sobre la memoria: algunas estrategias de quien aprende retrasan sistemáticamente el avance por exceso de práctica, y las restricciones de selección de tareas corrigieron las estrategias desadaptativas mientras dejaban el intercalado, el agrupamiento por bloques, el objetivo por fortaleza y el objetivo por debilidad en niveles estables de exceso de práctica. Eso es evidencia de que el intercalado es una *conducta seleccionable* que un sistema puede acomodar o restringir, no evidencia de que el intercalado mejore la retención. Las menciones restantes son sentidos no relacionados de la palabra (etapas de agente intercaladas en [[knowloop-confusion-to-consolidation-2026|Fang et al. (2026)]]; trayectorias de solución visual-textual intercaladas en un [[benchmark|punto de referencia]] de geometría), y no deben contarse como evidencia sobre el intercalado.
 
 La inclusión del intercalado aquí se apoya, por tanto, en la misma familia teórica que las otras dos técnicas y en su estatus en la literatura de la [[cognitive-psychology|psicología cognitiva]], no en un estudio directo. Trátelo como el hueco abierto.
 

@@ -1,7 +1,7 @@
 ---
 title: Tecnología de asistencia
 created: "2026-09-28T20:10:38-04:00"
-updated: "2026-11-13T14:13:17-05:00"
+updated: "2026-11-15T10:16:20-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
@@ -9,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - La tecnología de asistencia es la capa de herramientas de la accesibilidad: los dispositivos y programas concretos que cada persona usa para salvar las brechas de acceso. Antes de leer, ¿pensaba que accesibilidad y tecnología de asistencia eran lo mismo? ¿Cómo podría cambiar su forma de diseñar entornos de aprendizaje si las trata como conceptos distintos?
-- La [[research-methods-aied|investigación]] encuentra que las intervenciones basadas en IA producen un efecto positivo medio en los [[learning-gains|resultados de aprendizaje]] del estudiantado con discapacidad (g = 0,588). Sin embargo, las herramientas de acceso no garantizan por sí mismas una enseñanza inclusiva ni la agencia de quien aprende. ¿Cuál es la diferencia entre dar acceso a un estudiante e incluirlo de verdad?
+- La [[research-methods-aied|investigación]] sobre intervenciones basadas en IA informa de [[learning-gains|ganancias]] para el estudiantado con discapacidad. Sin embargo, las herramientas de acceso no garantizan por sí mismas una enseñanza inclusiva ni la agencia de quien aprende. ¿Cuál es la diferencia entre dar acceso a un estudiante e incluirlo de verdad?
 - ¿Por qué los documentos estadounidenses de política sobre IA en gran medida no abordan la tecnología de asistencia ni las adaptaciones para el estudiantado con dificultades específicas de aprendizaje, y quién pierde cuando las adaptaciones se cuelan por las grietas?
 - La [[generative-ai|IA generativa]] puede subtitular automáticamente, simplificar textos y generar alternativas táctiles, lo que abarata la adaptación. Pero ¿qué debería comprobar a mano en una alternativa generada por IA antes de confiar en su exactitud [[pedagogy|pedagógica]]? ¿Qué podría salir mal si una versión «simplificada» o «táctil» tergiversa el contenido que pretende hacer accesible?
 - La IA está ampliando las herramientas de asistencia, desde compañeros de aprendizaje centrados en la voz hasta gráficos táctiles y herramientas de lengua de signos. Como docente o diseñador, ¿qué barrera concreta de qué estudiante querría abordar primero con IA, y qué necesitaría saber sobre esa persona antes de elegir una herramienta?

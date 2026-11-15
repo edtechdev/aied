@@ -1,14 +1,14 @@
 ---
 title: Confianza
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:24:18-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
 ethics: [trust]
 confidence: high
 translation_of: concepts/trust
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -77,7 +77,7 @@ La confianza en la IA tampoco sigue la adopción nacional: los rumanos, con un 1
 
 ## La confianza en la IA sigue el estado psicológico, no la categoría demográfica
 
-[[trust-in-ai-psychological-profiles-ml-2026|Kumar et al. (2026)]] agruparon a 107 estudiantes de una HBCU pública según la resiliencia, el estrés percibido y la confianza en la IA, y encontraron tres perfiles en los que **la confianza en la IA se disociaba de la confianza en uno mismo**: un grupo de alta resiliencia y bajo estrés con una confianza favorable en la IA, un grupo con estrés moderado que presentaba la confianza en la IA *más alta* de los tres pese a la tensión, y un grupo psicológicamente resiliente que era casi tan resiliente como los adoptantes pero marcadamente menor en confianza en la IA. El estrés y la confianza en la IA separaban los grupos con más fuerza (eta cuadrado parcial 0,528 y 0,521 frente a 0,315 de la resiliencia), y el género fue la única variable demográfica asociada significativamente a la pertenencia, mientras que la afiliación a [[stem-education|STEM]], el nivel académico, la situación laboral y el grupo de edad no fueron significativos. Dos implicaciones se siguen. Primero, una baja confianza en la IA no es un indicador indirecto de baja seguridad en uno mismo ni de poca familiaridad técnica, ya que los escépticos eran el grupo más resiliente y con más presencia de STEM, lo que los autores leen como escepticismo calibrado y no como resistencia; segundo, como los grupos solo estaban débilmente separados (silueta 0,288, con el índice Calinski-Harabasz prefiriendo dos grupos), deben tratarse como perfiles solapados y no como tipos de estudiante distintos. Los hallazgos proceden de una sola institución y de una encuesta transversal de [[self-report-measures|autoinforme]], así que establecen que la confianza varía con el estado psicológico, no por qué.
+[[trust-in-ai-psychological-profiles-ml-2026|Kumar et al. (2026)]] agruparon a 107 estudiantes de una HBCU pública según la resiliencia, el estrés percibido y la confianza en la IA, y encontraron tres perfiles en los que **la confianza en la IA se disociaba de la confianza en uno mismo**. Los perfiles eran un grupo de alta resiliencia y bajo estrés con una confianza favorable en la IA, un grupo con estrés moderado que presentaba la confianza en la IA *más alta* de los tres pese a la tensión, y un grupo psicológicamente resiliente que era casi tan resiliente como los adoptantes pero marcadamente menor en confianza en la IA. El estrés y la confianza en la IA separaban los grupos con más fuerza (eta cuadrado parcial 0,528 y 0,521 frente a 0,315 de la resiliencia), y el género fue la única variable demográfica asociada significativamente a la pertenencia, mientras que la afiliación a [[stem-education|STEM]], el nivel académico, la situación laboral y el grupo de edad no fueron significativos. De ello se siguen dos implicaciones. Primera, una baja confianza en la IA no es un indicador indirecto de baja seguridad en uno mismo ni de poca familiaridad técnica, ya que los escépticos eran el grupo más resiliente y con más presencia de STEM, lo que los autores leen como escepticismo calibrado y no como resistencia. Segunda, como los grupos solo estaban débilmente separados (silueta 0,288, con el índice Calinski-Harabasz prefiriendo dos grupos), deben tratarse como perfiles solapados y no como tipos de estudiante distintos. Los hallazgos proceden de una sola institución y de una encuesta transversal de [[self-report-measures|autoinforme]], así que establecen que la confianza varía con el estado psicológico, no por qué.
 
 ## La confianza interpersonal en la educación
 

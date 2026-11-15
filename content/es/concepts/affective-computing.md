@@ -1,7 +1,7 @@
 ---
 title: Computación afectiva
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:16:20-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -9,7 +9,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/affective-computing
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **La computación afectiva** en educación utiliza señales fisiológicas y conductuales para detectar la emoción de quien aprende y adaptar la instrucción; véanse [[affective-text-wearable-student-health|el texto afectivo breve como complemento a la detección con dispositivos vestibles]], [[multimodal-affective-its-presentation|la retroalimentación afectiva multimodal en tutoría inteligente]] y [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]]. Los riesgos emocionales de la [[student-ai-interaction|interacción con la IA]] también importan,, incluidos [[sycophantic-ai-social-interaction-2026|la IA sicofántica en la interacción social]] y [[shame-guilt-ai-regulation-computing-education|la vergüenza y la culpa como reguladores sociales del uso de la IA]].
+> **La computación afectiva** en educación utiliza señales fisiológicas y conductuales para detectar la emoción de quien aprende y adaptar la instrucción; véanse [[affective-text-wearable-student-health|el texto afectivo breve como complemento a la detección con dispositivos vestibles]], [[multimodal-affective-its-presentation|la retroalimentación afectiva multimodal en tutoría inteligente]] y [[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]]. Los riesgos emocionales de la [[student-ai-interaction|interacción con la IA]] también importan, incluidos [[sycophantic-ai-social-interaction-2026|la IA sicofántica en la interacción social]] y [[shame-guilt-ai-regulation-computing-education|la vergüenza y la culpa como reguladores sociales del uso de la IA]].
 
 ## Preguntas para reflexionar
 

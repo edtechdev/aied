@@ -1,7 +1,7 @@
 ---
 title: Conocimiento Tecnológico, Pedagógico y de Contenido (TPACK)
 created: "2026-09-28T20:10:26-04:00"
-updated: "2026-11-13T14:14:23-05:00"
+updated: "2026-11-15T10:13:56-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
 translation_of: concepts/tpack
-source_updated: "2026-11-13T09:46:01-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ Esa dominancia es también en parte un artefacto de recuperación: en una [[meta
 - El TPACK sostiene que la enseñanza eficaz con tecnología no es la suma de habilidades separadas (conocer la materia + conocer la didáctica + conocer la herramienta) sino el producto de su interacción. Piense en una clase que funcionó de verdad con una tecnología. ¿Qué combinaciones de conocimiento de contenido, pedagógico y tecnológico —y no una sola— parecían estar haciendo el trabajo?
 - Un supuesto común es que el profesorado «hábil con la tecnología» está por eso mismo preparado para enseñar con IA. ¿Dónde podría fallar ese supuesto? Por ejemplo, cuando un docente técnicamente competente sigue usando la IA de forma pedagógicamente superficial o con contenido inexacto. ¿Cómo sería una «competencia» que una simple prueba de habilidades tecnológicas no capta?
 - La era de la IA replantea la tecnología del TPACK: de herramienta pasiva a agente activo que puede planificar, generar y tutorizar. Si el trabajo del profesorado pasa de operar una herramienta a orquestar una IA que actúa por su cuenta, ¿qué conocimiento nuevo exige eso, y puede alguna lista de verificación estática recogerlo?
-- La página sugiere que el desarrollo profesional debería formar las intersecciones, y no solo las herramientas. Piense en la última formación tecnológica a la que asistió o que diseñó. ¿Era sobre todo «cómo usar el programa», o construía contenido y pedagogía junto con la tecnología? ¿Qué enfoque esperaría que cambiara más la práctica de aula, y por qué?
+- El desarrollo profesional debería formar las intersecciones, y no solo las herramientas. Piense en la última formación tecnológica a la que asistió o que diseñó. ¿Era sobre todo «cómo usar el programa», o construía contenido y pedagogía junto con la tecnología? ¿Qué enfoque esperaría que cambiara más la práctica de aula, y por qué?
 - La investigación encontró distintos «arquetipos docentes» —optimizadores, creadores, observadores pasivos— que se benefician de tipos distintos de apoyo. ¿A qué arquetipo se parece más cuando usa IA en la enseñanza, y qué tipo de [[scaffolding|andamiaje]] cree que le ayudaría más? ¿Describiría su estudiantado lo mismo que usted?
 - Algunos [[research-methods-aied|investigadores]] sostienen que una integración eficaz de la IA surge de las creencias del profesorado y de su sentido de eficacia, y no solo de su conocimiento. ¿Qué cree usted sobre el papel de la IA en el aprendizaje, y cómo podría esa creencia —más que su habilidad técnica— dar forma a si la integra y a cómo lo hace?
 

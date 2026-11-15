@@ -1,7 +1,7 @@
 ---
 title: Mal uso de la IA y daño al aprendizaje
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-15T10:24:54-05:00"
 connected_faqs: [does-ai-help-students-learn, how-ai-impacts-students, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity, cognitive-offloading]
@@ -10,7 +10,7 @@ technology: [generative-ai]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/ai-misuse-learning-harm
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -45,7 +45,7 @@ El daño anticipado está documentado en sí mismo: en datos suecos de encuesta 
 
 ## La brecha entre desempeño y aprendizaje
 
-El concepto central, articulado en [[genai-performance-vs-learning]], es que la IA generativa eleva con facilidad el **desempeño** —la eficiencia inmediata y la calidad de la producción— mientras a menudo sortea el procesamiento cognitivo y [[metacognition|metacognitivo]] profundo que el **aprendizaje** requiere. Una herramienta que optimiza el desempeño puede por tanto socavar el aprendizaje. La brecha está ahora demostrada causalmente a escala de campo: un [[rct|ensayo controlado aleatorizado]] encontró que la asistencia de IA sin restricciones elevaba el desempeño en la práctica pero reducía las puntuaciones posteriores en exámenes sin asistencia.
+El concepto central, articulado en [[genai-performance-vs-learning|Yan et al. (2025)]], es que la IA generativa eleva con facilidad el **desempeño** —la eficiencia inmediata y la calidad de la producción— mientras a menudo sortea el procesamiento cognitivo y [[metacognition|metacognitivo]] profundo que el **aprendizaje** requiere. Una herramienta que optimiza el desempeño puede por tanto socavar el aprendizaje. La brecha está ahora demostrada causalmente a escala de campo: un [[rct|ensayo controlado aleatorizado]] encontró que la asistencia de IA sin restricciones elevaba el desempeño en la práctica pero reducía las puntuaciones posteriores en exámenes sin asistencia.
 
 ## Mecanismos del daño
 
@@ -73,7 +73,7 @@ El matiz práctico más importante es que el daño es **selectivo según el tipo
 
 ## Implicaciones y remedios
 
-- **[[guardrails|Barreras de protección]] frente al acceso sin restricciones:** el [[prompt-engineering|diseño de prompts]] de tipo «pista y no respuesta» y el [[scaffolding|andamiaje]] elaborado por el profesorado neutralizan el efecto muleta (véase [[generative-ai-guardrails-harm-learning]]).
+- **[[guardrails|Barreras de protección]] frente al acceso sin restricciones:** el [[prompt-engineering|diseño de prompts]] de tipo «pista y no respuesta» y el [[scaffolding|andamiaje]] elaborado por el profesorado neutralizan el efecto muleta (véase [[generative-ai-guardrails-harm-learning|Bastani et al. (2025)]]).
 - **[[assessment|Diseño de la evaluación]]:** se necesitan evaluaciones resistentes a la IA y vigiladas o sin asistencia para poner de manifiesto el mal uso, y para desincentivarlo.
 - **Alfabetización y metacognición:** formación en [[ai-literacy|alfabetización en IA]] y en [[self-regulated-learning|aprendizaje autorregulado]] que ayude al estudiantado a reconocer las pautas de dependencia y el coste de sortear su propio trabajo cognitivo.
 

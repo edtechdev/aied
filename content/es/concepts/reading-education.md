@@ -10,9 +10,9 @@ ethics: [neurodiversity, accessibility]
 audience: [instructors, curriculum designers, researchers]
 level: [primary education, k 12, higher ed]
 confidence: medium
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:32:41-05:00"
 translation_of: "concepts/reading-education"
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-11-05"
     agent: hermes-agent
+connected_faqs: [ai-support-reading-comprehension]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
@@ -89,7 +90,7 @@ Para estudiantes con dislexia, una revisión guiada por [[meta-analysis-systemat
 
 ## Qué muestra y qué no muestra la evidencia
 
-La vertiente es rica en medición y pobre en resultados. Hay instrumentos validados (AIR), modelos de dificultad validados (CLARA, Bird) y un conjunto creciente de herramientas de generación y simplificación. Hay muy pocos estudios controlados que conecten una intervención de lectura con ganancias de comprensión, y varios de los estudios de evaluación confunden la fuente del pasaje con la modalidad de aplicación o la vigilancia. Los tamaños de muestra son pequeños: 53 estudiantes en el caso de evaluación de la lectura, 24 en el estudio de lecturas a medida, 200 estudiantes de séptimo grado en el cuasiexperimento más grande. La evidencia documenta un espacio de diseño, no de un efecto establecido.
+La vertiente es rica en medición y pobre en resultados. Hay instrumentos validados (AIR), modelos de dificultad validados (CLARA, Bird) y un conjunto creciente de herramientas de generación y simplificación. Hay muy pocos estudios controlados que conecten una intervención de lectura con ganancias de comprensión, y varios de los estudios de evaluación confunden la fuente del pasaje con la modalidad de aplicación o la vigilancia. Los tamaños de muestra son pequeños: 53 estudiantes en el caso de evaluación de la lectura, 24 en el estudio de lecturas a medida, 200 estudiantes de séptimo grado en el cuasiexperimento más grande. La evidencia documenta un espacio de diseño, no un efecto establecido.
 
 La fluidez en los primeros cursos de primaria es la excepción hasta ahora: en una escuela, el estudiantado de primero y segundo grado que registró al menos 10 minutos semanales durante 6 semanas superó a sus pares de baja dosis (g = 0.56), un contraste de dosis y no un ensayo ([[burns-ai-tutor-reading-growth-2026|Burns y Morton (2026)]]).
 

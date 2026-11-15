@@ -1,7 +1,7 @@
 ---
 title: Identidad de quien aprende
 created: "2026-09-28T19:13:48-04:00"
-updated: "2026-11-13T18:45:00-05:00"
+updated: "2026-11-15T10:26:22-05:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -10,7 +10,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-11-13T16:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -50,7 +50,7 @@ Una condición de autoría distinta, y no solo una amenaza para la autoría: cua
 - **Vergüenza y uso oculto.** **[[shame-guilt-ai-regulation-computing-education|Lin et al.]]** muestran que el estudiantado de informática experimenta vergüenza y culpa en torno al uso de la IA, que funcionan como reguladores sociales que impulsan el *ocultamiento* y la declaración selectiva, conductas que pueden fragmentar la identidad académica y socavar una implicación honesta con el aprendizaje.
 - **La identidad como algo que la IA puede andamiar.** La IA no tiene por qué limitarse a amenazar la identidad. **[[ai-pedagogical-accompaniment-amico|Benedetti (2026)]]** sostiene que un acompañamiento [[pedagogy|pedagógico]] responsable y orientado a las relaciones puede apoyar el desarrollo de la **identidad STEM** de quienes aprenden al ofrecer un apoyo transparente y acotado que deja espacio para que la persona sea dueña de su trayectoria.
 
-## La identidad en la investigación de la base de conocimiento
+## La identidad en la investigación
 
 - **Identidad creativa:** **[[t2i-competence-paradox-2026|la paradoja de la competencia en IA de texto a imagen]]** capta cómo la facilidad de uso puede socavar la identidad basada en el oficio del estudiantado de arte y diseño.
 - **La autoría sentida puede desacoplarse de la originalidad real.** El estudiantado de diseño que construía sitios web con IA valoró su autoría como alta (67/100, satisfacción 6,4/7, calidad percibida 6,1/7), pero esas valoraciones no siguieron nada medible: sus diseños eran más homogéneos que sin IA, y la autoría sentida se correlacionó con la originalidad medida en r ≤ +0,13 ([[vibe-coding-design-diversity-2026|Boussioux et al., 2026]]).

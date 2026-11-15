@@ -1,7 +1,7 @@
 ---
 title: Enseñanza y aprendizaje en línea
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-15T10:16:27-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -11,7 +11,7 @@ confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/online-teaching-and-learning
-source_updated: "2026-11-13T09:46:01-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

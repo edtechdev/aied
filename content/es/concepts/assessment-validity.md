@@ -1,7 +1,7 @@
 ---
 title: Validez de la evaluación
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-11-13T18:45:00-05:00"
+updated: "2026-11-15T10:16:20-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 connected_resources: [vfwa]
 type: concept
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, equity-in-ai-education]
 confidence: high
 methods: [rct]
 translation_of: concepts/assessment-validity
-source_updated: "2026-11-13T16:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -161,6 +161,8 @@ La estabilidad entre ejecuciones no está garantizada, sin embargo: repetir la m
 Webb-Davies, Ratner y Bassett hacen el mismo movimiento para las tareas escritas. En su planteamiento, un ensayo final subrepresenta el constructo cuando no puede mostrar cómo se generaron las afirmaciones, y la respuesta de diseño es estructural y no procedimental: capturar el razonamiento una vez bajo observación, en el idioma o la modalidad que elija el estudiante, y luego calificar la entrega posterior contra esa línea de base. Se apoyan en la distinción de Dawson entre autenticación y control de las circunstancias para argumentar que un punto de control asegurado hace más por la validez que cualquier regla sobre el uso permitido ([[webb-davies-voice-first-written-assessment-2026|Webb-Davies et al., 2026]]).
 
 Winstone, Gravett y Elkington enmarcan el problema de la evaluación en la era de la IA generativa como un problema perverso en el sentido de Rittel y Webber. Las respuestas discursivas, como los sistemas de semáforo y las declaraciones, no pueden asegurar la validez, porque son inaplicables y dejan al estudiantado haciendo trabajo de delimitación. La validez tiene que reconstruirse estructuralmente, en lo que la tarea exige entregar y en cómo lo lee la rúbrica ([[black-box-assessment-winstone-2026|Winstone et al., 2026]]).
+
+- La reactividad es una amenaza que la información imperfecta no nombra: cuando se califican los rastros, la observación cambia el constructo, porque quienes aprenden ocultan su confusión, la búsqueda de ayuda y los intentos abandonados, de modo que el registro se convierte en una respuesta a la medición y no en un residuo del aprendizaje ([[nakamura-observability-authenticity-paradox-stem-assessment-2026|Nakamura, 2026]]).
 
 ## Concepciones erróneas
 

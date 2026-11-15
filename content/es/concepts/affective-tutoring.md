@@ -1,7 +1,7 @@
 ---
 title: Tutoría afectiva
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:24:54-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [scaffolding]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: medium
 translation_of: concepts/affective-tutoring
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> Integrar la conciencia emocional en los sistemas de [[intelligent-tutoring|tutoría con IA]] puede producir ganancias [[pedagogy|pedagógicas]] medibles, pero esa misma sofisticación [[affective-computing|afectiva]] corre el riesgo de amplificar los daños si una automatización que parece empática erosiona la agencia de quien aprende.([[kar-mathbuddy-affective-math-tutoring-2025]])([[favero-critical-ai-tutors-empower-enslave-2025]])
+> Integrar la conciencia emocional en los sistemas de [[intelligent-tutoring|tutoría con IA]] puede producir ganancias [[pedagogy|pedagógicas]] medibles, pero esa misma sofisticación [[affective-computing|afectiva]] corre el riesgo de amplificar los daños si una automatización que parece empática erosiona la agencia de quien aprende.([[kar-mathbuddy-affective-math-tutoring-2025|Kar et al. (2025)]])([[favero-critical-ai-tutors-empower-enslave-2025|Favero et al., 2025]])
 
 ## Preguntas para reflexionar
 
@@ -42,7 +42,7 @@ El ejemplo práctico más claro es MathBuddy, que modela el afecto del estudiant
 - **Texto conversacional** — señales semánticas de frustración, confusión y confianza
 - **Expresiones faciales** — captura de vídeo en tiempo real del estado emocional
 
-Las emociones se agregan a partir de ambas modalidades y se asignan a estrategias pedagógicas pertinentes antes de [[prompt-engineering|construir el prompt]] del tutor [[llm]], lo que produce respuestas emocionalmente conscientes.
+Las emociones se agregan a partir de ambas modalidades y se asignan a estrategias pedagógicas pertinentes antes de [[prompt-engineering|construir el prompt]] del tutor [[llm|LLM]], lo que produce respuestas emocionalmente conscientes.
 
 **Resultados:**
 
@@ -73,7 +73,7 @@ Los autores sostienen que los riesgos emocionales forman parte de un patrón má
 
 1. **Los datos afectivos deben informar la autonomía de quien aprende, no sustituirla** — El tutor adapta su estrategia; el estudiantado conserva el control sobre lo que divulga
 2. **Transparencia sobre la detección del afecto** — El estudiantado debe saber cuándo y cómo se infieren sus emociones
-3. **El afecto como una señal entre muchas** — Combinarlo con el estado cognitivo (p. ej., [[huang-interpretable-knowledge-tracing-2026]]) y con la implicación conductual
+3. **El afecto como una señal entre muchas** — Combinarlo con el estado cognitivo (p. ej., [[huang-interpretable-knowledge-tracing-2026|Huang et al. (2026)]]) y con la implicación conductual
 4. **Privacidad por defecto para los sensores [[multimodal|multimodales]]** — Los datos faciales y de vídeo exigen protecciones más sólidas que la inferencia basada solo en texto
 5. **Activar por trayectorias, no por estimaciones puntuales** — El afecto ordenado muestra persistencia de corto alcance y transiciones direccionales, y los informes captados por sondeo (bucles autorreferenciales en torno a la curiosidad y la confusión) son una medición distinta de los captados por uno mismo (frustración, sorpresa, conflicto), por lo que las intervenciones deberían fijarse en la secuencia y no en las frecuencias resumidas ([[epistemic-emotions-collaborative-problem-solving|Anindho et al. (2026)]]).
 
@@ -81,7 +81,7 @@ Un límite a la inferencia del afecto a partir del diálogo: [[ecnuclaw-k12-pers
 
 ## Relación con la seguridad en sentido amplio
 
-La tutoría afectiva se cruza con [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] en la dimensión del daño [[motivation|motivacional]]-afectivo. Un tutor afectivo que es «demasiado comprensivo» puede suprimir la frustración que impulsa la lucha productiva y la [[self-regulated-learning|autorregulación]]. Véase también [[llm-fallacy-misattribution]]: el estudiantado puede atribuir el apoyo emocional a una relación genuina, lo que refuerza la dependencia.
+La tutoría afectiva se cruza con [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]] en la dimensión del daño [[motivation|motivacional]]-afectivo. Un tutor afectivo que es «demasiado comprensivo» puede suprimir la frustración que impulsa la lucha productiva y la [[self-regulated-learning|autorregulación]]. Véase también [[llm-fallacy-misattribution|Kim et al. (2026)]]: el estudiantado puede atribuir el apoyo emocional a una relación genuina, lo que refuerza la dependencia.
 
 ## Concepciones erróneas
 

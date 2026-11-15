@@ -1,7 +1,7 @@
 ---
 title: Educación en biología
 created: "2026-09-28T20:10:55-04:00"
-updated: "2026-11-05T16:12:37-05:00"
+updated: "2026-11-15T10:17:18-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/biology-education
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

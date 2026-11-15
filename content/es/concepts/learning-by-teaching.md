@@ -1,7 +1,7 @@
 ---
 title: Aprender enseñando
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-15T10:19:45-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -9,7 +9,7 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T21:52:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,7 @@ Un reto central de diseño para los agentes enseñables basados en LLM es que lo
 - **[[socrates-students-instructors-llms-lbt-2025|Lagunas de conocimiento de ingeniería]]** (Yang et al.) diseñan problemas que el LLM no puede resolver sin un conocimiento que solo posee el estudiante, lo que convierte la enseñanza en una necesidad y contrarresta la dependencia excesiva y pasiva del uso del LLM como tutor.
 - **Las restricciones del aprendiz de Explique** (Wang et al.) instruyen a la persona tutorada para que (a) siga siendo novata, (b) siga pidiendo aclaraciones hasta que la explicación del estudiante sea precisa y (c) nunca revele la explicación objetivo, y para que *resista* a quienes intentan invertir los roles y hacer que la persona tutorada explique a cambio.
 - **El desaprendizaje como vía al nivel de pesos para la falibilidad.** El desaprendizaje automático suprime 16 componentes de conocimiento objetivo en Mistral-7B, y la precisión cae de alrededor de 0,75 con una ratio de olvido del 10% a por debajo de 0,5 con el 40%, mientras que el modelo base se mantenía cerca de 0,85. El conocimiento suprimido reapareció mediante reaprendizaje supervisado y diálogo guiado por la persona que enseña, así que el nivel de conocimiento de la persona tutorada es un dial y no una afirmación ([[simulating-novice-students-machine-unlearning-2026|Song, Guo y Lin, 2026]]).
+- **La supervisión como tarea de quien aprende.** En un caso de diseño de dos cursos, el estudiantado contrata, incorpora y entrena a un asistente de propósito general, y después documenta en qué se equivocó; el profesorado informa de que explicar las convenciones a la herramienta aclaró esas convenciones para el estudiante ([[rodak-braddock-hire-ai-personal-assistants-2025|Rodak y Braddock, 2025]]).
 
 ## Preguntar, autorregulación y aprendizaje activo
 

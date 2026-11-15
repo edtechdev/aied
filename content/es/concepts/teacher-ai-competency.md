@@ -1,7 +1,7 @@
 ---
 title: "Competencia en IA del profesorado"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:14:13-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-13T07:50:30-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ ai_assist:
 
 ## Preguntas para reflexionar
 
-- La página sostiene que el profesorado es «el factor decisivo» de que la IA mejore el aprendizaje, es decir, que las herramientas solo ayudan cuando el profesorado puede planificar su uso, andamiarlo y evaluar los resultados. ¿Coincide eso con su experiencia o cree que la herramienta importa más que el profesorado?
+- El profesorado es «el factor decisivo» de que la IA mejore el aprendizaje: las herramientas solo ayudan cuando el profesorado puede planificar su uso, andamiarlo y evaluar los resultados. ¿Coincide eso con su experiencia o cree que la herramienta importa más que el profesorado?
 - La competencia en IA del profesorado abarca el dominio técnico, la integración pedagógica, la alfabetización evaluativa y el juicio ético. ¿Cuál de estas dimensiones cree que falta más y cuál es la más difícil de formar?
 - La [[research-methods-aied|investigación]] documenta una brecha entre la habilidad en IA que el profesorado se atribuye y la que realmente tiene. ¿Por qué cree que las personas sobreestiman su preparación y qué haría falta para cerrar esa brecha con honestidad?
 - Un programa intensivo de desarrollo profesional produjo grandes ganancias en habilidad pedagógica con IA en la investigación citada, lo que sugiere que la habilidad técnico-pedagógica es formable. Si eso es cierto, ¿por qué sigue habiendo tanto profesorado que parece no estar preparado? ¿Qué se lo impide?

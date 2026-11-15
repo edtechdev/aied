@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Educación especial
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-15T10:14:32-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
@@ -10,7 +10,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, k 12, higher ed]
 confidence: high
 translation_of: concepts/special-education
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 ## Preguntas para reflexionar
 
-- La página subraya que «educación especial» es principalmente un término de K-12 basado en derechos, enraizado en IDEA y los IEP, mientras que la educación superior habla más a menudo de Diseño Universal para el Aprendizaje y accesibilidad. ¿Por qué cree que difieren estos contextos y qué revela esa diferencia?
+- «Educación especial» es principalmente un término de K-12 basado en derechos, enraizado en IDEA y los IEP, mientras que la educación superior habla más a menudo de Diseño Universal para el Aprendizaje y accesibilidad. ¿Por qué cree que difieren estos contextos y qué revela esa diferencia?
 - La promesa de personalización de la IA parece hecha a medida para estudiantes con necesidades diversas. Pero si un sistema puede adaptarse a «perfiles cognitivos individuales», ¿qué podría salir mal cuando el modelo de una discapacidad es demasiado grueso o está ausente por completo?
 - La investigación incluye herramientas de IA diseñadas para perfiles de discapacidad específicos (por ejemplo, estudiantes con dislexia o estudiantes sordos y con dificultades auditivas). ¿Qué riesgos ve en diseñar para perfiles estrechos frente a diseñar universalmente para todo el estudiantado desde el principio?
 - ¿Cómo podrían los sistemas de IA construidos para el estudiante «medio» acabar pasando por alto o marginando al estudiantado con discapacidad, incluso sin querer, y de quién es la responsabilidad de evitarlo?

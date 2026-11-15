@@ -1,7 +1,7 @@
 ---
 title: Investigación sobre usabilidad
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-11-13T14:14:23-05:00"
+updated: "2026-11-15T10:13:56-05:00"
 type: concept
 connected_faqs: [designing-educational-ai-software]
 research_method: [system development, user study, interviews]
@@ -9,7 +9,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
 translation_of: concepts/usability-research
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ ai_assist:
 - Un supuesto habitual es que la eficacia educativa de una herramienta puede juzgarse por si mejoran las ganancias de aprendizaje. Pero una herramienta puede ser inusable y aun así parecer que «funciona» en un ensayo, o ser usable y no conseguir enseñar. ¿Por qué podría un estudio que muestra ganancias de aprendizaje pasar por alto que la herramienta es un fastidio de usar en la práctica?
 - Antes de leer los métodos, ¿cómo averiguaría si un [[intelligent-tutoring|tutor de IA]] resulta confuso, frustrante o propenso a errores para el estudiantado? ¿Qué haría u observaría realmente, y qué se perdería el propio informe de satisfacción de una persona usuaria que una observación cuidadosa sí captaría?
 - El pensamiento en voz alta es un método central: las personas usuarias verbalizan sus pensamientos mientras trabajan, exponiendo confusiones y modelos mentales en tiempo real. Si usted fuera una persona que aprende usando una herramienta de IA, ¿qué podría articular sobre su confusión que una simple encuesta de «¿te gustó?» nunca capturaría?
-- La página señala que la satisfacción [[self-report-measures|autoinformada]] puede divergir del rendimiento objetivo: la gente puede decir que adora una herramienta que en secreto la frena, o infravalorar una que de verdad ayuda. ¿Dónde ha visto esa brecha entre lo que la gente dice y lo que muestra su conducta?
+- La satisfacción [[self-report-measures|autoinformada]] puede divergir del rendimiento objetivo: la gente puede decir que adora una herramienta que en secreto la frena, o infravalorar una que de verdad ayuda. ¿Dónde ha visto esa brecha entre lo que la gente dice y lo que muestra su conducta?
 - La investigación sobre usabilidad le dice si una herramienta es usable, no si enseña. Si está evaluando una herramienta de aprendizaje con IA, ¿cómo combinaría la evidencia de usabilidad con la evidencia de aprendizaje, y qué podría seguir sin lograr una herramienta que supere ambas?
 
 ## Introducción

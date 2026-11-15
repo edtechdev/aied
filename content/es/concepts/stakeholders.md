@@ -1,14 +1,14 @@
 ---
 title: Partes interesadas
 created: "2026-09-28T20:10:26-04:00"
-updated: "2026-11-13T14:20:00-05:00"
+updated: "2026-11-15T10:14:32-05:00"
 type: concept
 foundations: [ai-literacy, learning-design, teacher-role]
 audience: [instructors, learners, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/stakeholders
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -35,7 +35,7 @@ ai_assist:
 
 ## Introducción
 
-La [[ai-education|IA en la educación]] trata en el fondo de personas: quienes aprenden y quienes enseñan, cuyo trabajo transforma, y los líderes y diseñadores que deciden cómo se usa. Entender a las distintas partes interesadas es esencial porque un mismo sistema de IA se ve muy distinto desde puntos de vista diferentes: una herramienta que un estudiante vive como apoyo personalizado puede aparecer ante el profesorado como un riesgo para la integridad, ante la administración como una decisión de compra y de gobernanza, y ante quien diseña como una elección pedagógica. La cobertura de estas audiencias se organiza en varias páginas de conceptos.
+La [[ai-education|IA en la educación]] trata en el fondo de personas: quienes aprenden y quienes enseñan, cuyo trabajo transforma, y los líderes y diseñadores que deciden cómo se usa. Entender a las distintas partes interesadas es esencial porque un mismo sistema de IA se ve muy distinto desde puntos de vista diferentes: una herramienta que un estudiante vive como apoyo personalizado puede aparecer ante el profesorado como un riesgo para la integridad, ante la administración como una decisión de compra y de gobernanza, y ante quien diseña como una elección pedagógica. Cada una de estas audiencias se estudia como un rol distinto, con sus propias necesidades y su propia base de evidencia.
 
 ## El panorama de las partes interesadas
 
@@ -57,7 +57,7 @@ La [[ai-education|IA en la educación]] trata en el fondo de personas: quienes a
 
 ## La identidad a través de las audiencias
 
-Un hilo común entre estas partes interesadas es la **identidad**: el sentido de quién es uno y en quién se está convirtiendo en relación con la IA y con el dominio. la identidad se trata como algo distribuido entre las audiencias y no como algo propio de un solo grupo.
+Un hilo común entre estas partes interesadas es la **identidad**: el sentido de quién es uno y en quién se está convirtiendo en relación con la IA y con el dominio. La identidad se distribuye entre las audiencias y no pertenece a un solo grupo.
 
 - **Identidad de quien aprende** — la identidad disciplinar, profesional, creativa y académica en evolución del estudiantado ([[learner-identity|identidad de quien aprende]]). Es distinta de la [[agency|agencia]], pero está causalmente conectada a ella: la agencia es la capacidad [[situated-learning|situada]] de actuar, mientras que la identidad es el sentido duradero de uno mismo que se acumula a partir de actos agentivos y que se ve amenazado por la pérdida de autoría y la duda sobre la propia competencia bajo la IA.
 - **Identidad docente** — la autocomprensión profesional de los educadores ([[teacher-role|rol docente]]), remodelada por la IA como una cuestión de propósito y de rol y no solo de habilidades (véase [[laidlaw-genai-identity-crisis-faculty-2026|la IA generativa como crisis de identidad]]).
@@ -76,7 +76,7 @@ La identidad es el ancla humana del panorama de partes interesadas: es lo que la
 
 **«Las partes interesadas en la IA en la educación comparten un interés en el mismo resultado.»** Sus intereses están con frecuencia en tensión directa, y la misma función se lee de forma distinta según el rol: el «apoyo personalizado» de un estudiante puede ser al mismo tiempo el «riesgo de integridad» de un docente. Los procesos de diseño que dan por supuesto un objetivo común resolverán esa tensión por accidente en favor de quien hable más alto.
 
-**«Dar voz a cada grupo de partes interesadas resuelve el conflicto.»** Consultar no es ponderar. La pregunta de diseño en cómo dar a cada preocupación **un peso genuino en lugar de dejar ganar a la voz más alta**, lo que es un problema de procedimiento —quién decide, con qué evidencia y con qué apelación— y no un problema de comunicación.
+**«Dar voz a cada grupo de partes interesadas resuelve el conflicto.»** Consultar no es ponderar. La pregunta de diseño es cómo dar a cada preocupación **un peso genuino en lugar de dejar ganar a la voz más alta**, lo que es un problema de procedimiento —quién decide, con qué evidencia y con qué apelación— y no un problema de comunicación.
 
 **«El análisis de partes interesadas es un ejercicio de fase inicial.»** Las tensiones persisten en la operación, porque los roles siguen interpretando el mismo sistema de forma distinta. Una [[personalized-learning|capa de personalización]] orientada al estudiantado y un panel de integridad orientado al profesorado son los mismos datos vistos desde dos posiciones, y el conflicto reaparece cada vez que se ajusta uno de los dos.
 

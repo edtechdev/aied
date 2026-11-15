@@ -1,7 +1,7 @@
 ---
 title: Pedagogías y estrategias de enseñanza
 created: "2026-09-25T03:54:11-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-15T10:10:18-05:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,7 +9,7 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-11-13T13:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

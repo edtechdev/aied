@@ -1,7 +1,7 @@
 ---
 title: Educación en ingeniería
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-15T10:15:45-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,7 +12,7 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **La educación en ingeniería** — el estudio de cómo aprende ingeniería el estudiantado y de cómo enseñarla eficazmente, que abarca cómo la IA transforma la pedagogía, la evaluación, el desarrollo del profesorado y la fuerza laboral de la ingeniería. Los artículos sobre educación en ingeniería se agrupan en torno a varios temas: el [[engineering-faculty-metaphors-ai-understanding-2026|lenguaje figurado]] que usa el profesorado para dar sentido a la IA, la [[ethical-use-ai-engineering-education-review-2026|gobernanza ética]] del uso de la IA, la [[multimodal-embodied-cognition-oral-explanations-2026|evaluación corporeizada y multimodal]] de la comprensión conceptual y cómo la IA está reconfigurando la [[ai-engineering-computing-workforce-grey-literature-2026|fuerza laboral de la ingeniería y la informática]].
+> **La educación en ingeniería** — el estudio de cómo aprende ingeniería el estudiantado y de cómo enseñarla eficazmente, que abarca cómo la IA transforma la pedagogía, la evaluación, el desarrollo del profesorado y la fuerza laboral de la ingeniería. La investigación sobre educación en ingeniería se agrupa en torno a varios temas: el [[engineering-faculty-metaphors-ai-understanding-2026|lenguaje figurado]] que usa el profesorado para dar sentido a la IA, la [[ethical-use-ai-engineering-education-review-2026|gobernanza ética]] del uso de la IA, la [[multimodal-embodied-cognition-oral-explanations-2026|evaluación corporeizada y multimodal]] de la comprensión conceptual y cómo la IA está reconfigurando la [[ai-engineering-computing-workforce-grey-literature-2026|fuerza laboral de la ingeniería y la informática]].
 
 ## Preguntas para reflexionar
 

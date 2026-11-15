@@ -2,7 +2,7 @@
 connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 title: Plataforma edtech
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-15T10:15:45-05:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ ethics: [equity-in-ai-education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/edtech-platform
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

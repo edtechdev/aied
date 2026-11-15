@@ -1,13 +1,13 @@
 ---
 title: Aprendizaje situado
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-10-31T11:51:17-04:00"
+updated: "2026-11-15T10:14:32-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: concepts/situated-learning
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

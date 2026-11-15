@@ -1,7 +1,7 @@
 ---
 title: Seguridad pedagógica
 created: "2026-09-28T20:10:35-04:00"
-updated: "2026-10-28T13:43:49-04:00"
+updated: "2026-11-15T10:16:27-05:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [cognitive-offloading]
@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/pedagogical-safety
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

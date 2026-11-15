@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Desarrollo educativo
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-11-13T14:15:38-05:00"
+updated: "2026-11-15T10:13:49-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T21:52:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,8 @@ El desarrollo educativo es el trabajo profesional e institucional mediante el cu
 - **Reflexión profesional mediada por IA.** El Modelo del Triángulo Reflexivo sitúa la IA como mediadora cognitiva en la [[reflection|autorreflexión]], la reflexión colaborativa y la reflexión comunitaria dentro de una comunidad de aprendizaje profesional, probado en un caso de viabilidad de cuatro semanas con seis docentes; el límite que traza es que la perspicacia individual no se convierte automáticamente en conocimiento profesional compartido ([[reflective-triangle-model-teacher-ai-2026|Nguyen (2026)]]).
 - **[[governance|Gobernanza]] y política:** [[genai-policies-higher-ed-computing|el análisis de las políticas institucionales sobre IA]] documenta la brecha entre las ambiciones institucionales y la capacidad de apoyo al profesorado.
 - **La alfabetización en IA es institucionalmente invisible.** Una [[meta-analysis-systematic-review|revisión sistemática]] de 32 estudios sobre la alfabetización en IA del profesorado de idiomas la encontró ausente de los modelos de carga de trabajo, las políticas de promoción y la asignación de recursos, con un desarrollo fragmentado y una responsabilidad desplazada entre instituciones y organismos: el desarrollo de la alfabetización recae así por defecto en el esfuerzo individual en lugar de en un apoyo estructural ([[governing-unseen-ai-literacy-language-teachers-2026|Deng, Çelik y Duran, 2026]]).
+
+- **Los talleres construccionistas necesitan un mapa.** Tres sesiones de 50 minutos llevaron a entre 20 y 25 docentes de la experimentación lúdica con prompts a materiales didácticos reutilizables, pero el personal nuevo en la IA pidió una introducción conceptual antes del espacio de experimentación ([[fischer-learning-by-making-faculty-development-2026|Fischer (2026)]]).
 
 ### Metáforas y lenguaje compartido en el desarrollo educativo
 

@@ -1,14 +1,14 @@
 ---
 title: Aprendizaje sociocultural
 created: "2026-09-28T20:10:47-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-15T10:14:32-05:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/sociocultural-learning
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

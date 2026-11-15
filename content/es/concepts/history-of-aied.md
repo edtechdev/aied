@@ -1,14 +1,14 @@
 ---
 title: Historia de la IA en la educación
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-13T14:20:00-05:00"
+updated: "2026-11-15T10:15:13-05:00"
 type: concept
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
 technology: [generative-ai, intelligent-tutoring]
 confidence: high
 translation_of: concepts/history-of-aied
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -78,7 +78,7 @@ La llegada de la [[generative-ai|IA generativa]] —una familia amplia que inclu
 
 **«La IA en la educación empezó con ChatGPT.»** No fue así, y creerlo sale caro porque vuelve invisible todo lo aprendido antes. La [[intelligent-tutoring|tutoría inteligente]] desciende del trabajo en búsqueda heurística y sistemas expertos de los años 1960 y 70, y la comunidad AIED se formó en torno a ella décadas antes de los [[llm|grandes modelos de lenguaje]]. [[mishra-control-vs-agency-history-2025|Mishra et al.]] muestran que los debates actuales reproducen una división ya explícita en los tutores cognitivos de Anderson y el construccionismo de Papert, así que quien sitúe el inicio del campo en 2022 volverá a derivar argumentos que el campo ya resolvió, abandonó o perdió una vez.
 
-**«El campo ha abandonado de forma sostenida la IA como analogía en favor de las herramientas aplicadas, y la IA generativa continúa esa tendencia.»** Es la corrección más instructiva, porque la trayectoria es real pero no monótona. El análisis posicional de [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian y Doroudi]] sobre AIED 1985, 1993, 2021 y 2024 e IJAIED 2004, 2014 y 2021 sí muestra una deriva desde un campo mixto hacia una instrumentalidad aplicada casi exclusiva en la década de 2000. Pero en AIED 2024, tres de los cuatro artículos del cuadrante de la IA como analogía se basaban en LLM, incluido un trabajo premiado sobre agentes enseñables basados en LLM. La IA generativa **invierte** en parte la tendencia en lugar de prolongarla, y por eso tratarla como «el siguiente tutor inteligente» malinterpreta hacia dónde se ha movido realmente la frontera de la investigación.
+**«El campo ha abandonado de forma sostenida la IA como analogía en favor de las herramientas aplicadas, y la IA generativa continúa esa tendencia.»** La trayectoria es real pero no monótona, y eso es lo que hace de esta la corrección más instructiva. El análisis posicional de [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian y Doroudi]] sobre AIED 1985, 1993, 2021 y 2024 e IJAIED 2004, 2014 y 2021 sí muestra una deriva desde un campo mixto hacia una instrumentalidad aplicada casi exclusiva en la década de 2000. Pero en AIED 2024, tres de los cuatro artículos del cuadrante de la IA como analogía se basaban en LLM, incluido un trabajo premiado sobre agentes enseñables basados en LLM. La IA generativa **invierte** en parte la tendencia en lugar de prolongarla, y por eso tratarla como «el siguiente tutor inteligente» malinterpreta hacia dónde se ha movido realmente la frontera de la investigación.
 
 **«Personalizar significa adaptar la dificultad a cada estudiante.»** Ese es solo uno de dos sentidos incompatibles, y confundirlos oculta una elección política. En el primer sentido el resultado se mantiene fijo y solo varía el camino, un linaje que va de las máquinas de enseñar de Skinner a la tutoría basada en el dominio. En el segundo los propios resultados se diversifican, a medida que el estudiantado persigue intereses individuales sin las restricciones del currículo estándar (Zhao, 2024). Un [[intelligent-tutoring|ITS]] implementa el primero; el [[constructivist|construccionismo]], el segundo. Una herramienta descrita como «personalizada» no le ha dicho nada hasta que sepa cuál de los dos sentidos usa.
 

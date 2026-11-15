@@ -1,7 +1,7 @@
 ---
 title: Texto de refutación
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-15T10:16:55-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition, scaffolding]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [science education]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/refutation-text
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,7 @@ En la IA en la educación, el hallazgo central es que el *formato* y la *interac
 - **La IA como correctora.** Los tutores de [[conversational-ai|IA conversacional]] pueden ofrecer una refutación *personalizada* —adaptando la refutación sobre la marcha a la idea errónea concreta de quien aprende, algo que los textos preescritos no pueden hacer—. Esto produce un cambio de creencia inmediato más fuerte y una mayor implicación y confianza que la refutación estática ([[ai-tutors-vs-tenacious-myths-personalized-dialogue-2026|Corbett y Tangen 2026]]), aunque los efectos pueden necesitar refuerzo espaciado para persistir.
 - **La IA como generadora de contenido de refutación.** La [[generative-ai|IA generativa]] puede producir textos de cambio conceptual eficaces que igualan la calidad de los escritos por especialistas ([[akdogan-heat-temperature-conceptual-change-thesis-2025|Akdoğan 2025]]) y puede generar a bajo coste grandes cantidades de textos sobre ideas erróneas específicos de un contexto, escalando así un aprendizaje basado en ideas erróneas que de otro modo dependería de la experiencia de quien enseña ([[llms-misconception-collaborative-learning-healthcare-2026|Cheah et al. 2026]]).
 - **Ideas erróneas generadas por IA como recurso de aprendizaje.** En lugar de considerar dañinas las ideas erróneas generadas por IA, una discusión estructurada entre pares sobre ellas —una forma de refutación colaborativa— puede promover el cambio conceptual y el [[critical-thinking|pensamiento crítico]] ([[llms-misconception-collaborative-learning-healthcare-2026|Cheah et al. 2026]]).
-- **Complementar la educación sobre ideas erróneas.** Los textos de refutación son una estrategia recomendada para corregir las ideas erróneas conceptuales que subyacen a las creencias equivocadas del estudiantado sobre la propia IA (véase [[misconceptions]] y [[critical-genai-use-predictors]]).
+- **Complementar la educación sobre ideas erróneas.** Los textos de refutación son una estrategia recomendada para corregir las ideas erróneas conceptuales que subyacen a las creencias equivocadas del estudiantado sobre la propia IA (véase [[misconceptions|ideas erróneas]] y [[critical-genai-use-predictors|Hefter et al. (2026)]]).
 
 ## Texto de refutación frente a técnicas relacionadas
 

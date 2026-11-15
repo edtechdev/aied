@@ -1,13 +1,13 @@
 ---
 title: Teoría de respuesta al ítem
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-05T16:12:38-05:00"
+updated: "2026-11-15T10:12:47-05:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-11-13T12:55:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

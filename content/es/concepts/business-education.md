@@ -1,7 +1,7 @@
 ---
 title: Educación empresarial
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-11-13T14:14:23-05:00"
+updated: "2026-11-15T10:14:19-05:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/business-education
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

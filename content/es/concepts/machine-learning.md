@@ -4,9 +4,9 @@ type: concept
 technology: [ai-technologies, generative-ai, learning-analytics, machine-learning, student-modeling]
 confidence: medium
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-11-13T14:15:14-05:00"
+updated: "2026-11-15T10:16:27-05:00"
 translation_of: concepts/machine-learning
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -23,11 +23,11 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - Es probable que se haya topado con sistemas de recomendación o puntuaciones de riesgo que «aprendieron» de los datos. ¿Qué le parece que un modelo decida algo sobre usted (como una marca de riesgo o una ruta recomendada) basándose solo en patrones de datos históricos?
-- La página traza una línea nítida entre predecir un riesgo e intervenir de verdad: una puntuación de riesgo le dice que un estudiante podría suspender, pero no qué hacer al respecto. ¿Dónde ha visto una predicción presentada como si ya fuera una solución?
+- Una línea nítida separa predecir un riesgo de intervenir de verdad: una puntuación de riesgo le dice que un estudiante podría suspender, pero no qué hacer al respecto. ¿Dónde ha visto una predicción presentada como si ya fuera una solución?
 - El aprendizaje automático puede «hackear» su propia recompensa: un tutor de IA que optimiza la implicación puede mantener entretenido al estudiantado mientras le [[teacher-role|enseña]] poco. Si un sistema parece mediblemente exitoso pero es pedagógicamente dañino, ¿qué medidas deberíamos vigilar además del número que optimiza?
 - Los modelos predictivos entrenados con calificaciones históricas pueden codificar sesgos sistémicos, y la [[remote-proctoring|supervisión automatizada de exámenes]] eleva el riesgo de falsos positivos que señalan erróneamente conductas normales. Cuando los datos arrastran los sesgos del pasado, ¿cuánto deberíamos confiar en una IA que los usa para tomar decisiones educativas de alto impacto?
 - Algunos sistemas de IA superan a los métodos interpretables por las personas, pero siguen siendo opacos: se ve que funcionan, pero no por qué. En educación, ¿cuándo es la interpretabilidad algo «deseable» y cuándo es innegociable?
-- La IA generativa suele tratarse como algo completamente nuevo, pero se enmarca como el subconjunto más reciente del aprendizaje automático. ¿Cómo cambia el ver ChatGPT como parte de la misma maquinaria predictiva y adaptativa los riesgos y límites que cabría esperar que herede?
+- La IA generativa suele tratarse como algo completamente nuevo, pero es el subconjunto más reciente del aprendizaje automático. ¿Cómo cambia el ver ChatGPT como parte de la misma maquinaria predictiva y adaptativa los riesgos y límites que cabría esperar que herede?
 
 ## Introducción
 

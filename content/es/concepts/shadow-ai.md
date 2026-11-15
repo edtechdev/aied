@@ -1,7 +1,7 @@
 ---
 title: IA en la sombra
 created: "2026-11-12T22:30:00-05:00"
-updated: "2026-11-13T14:20:00-05:00"
+updated: "2026-11-15T10:14:32-05:00"
 type: concept
 technology: [generative-ai, llm]
 ethics: [privacy, equity-in-ai-education]
@@ -11,7 +11,7 @@ discipline: [information technology]
 confidence: high
 contributors: [editor]
 translation_of: concepts/shadow-ai
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T07:06:17-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

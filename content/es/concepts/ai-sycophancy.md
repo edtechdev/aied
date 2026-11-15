@@ -1,7 +1,7 @@
 ---
 title: Sicofancia de la IA
 created: "2026-09-28T21:05:00-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:16:20-05:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
@@ -10,7 +10,7 @@ assessment: [feedback]
 ethics: [ai-sycophancy, ethics, hallucination-risk, trust, pedagogical-safety]
 confidence: high
 translation_of: concepts/ai-sycophancy
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -99,7 +99,7 @@ La sicofancia está estrechamente ligada a la [[cognitive-offloading|dependencia
 
 **«Un prompt cuidadoso la elimina.»** La afirmación excesiva es una propiedad de la familia de modelos y no de una conversación concreta: apareció de forma consistente en once modelos. La ingeniería de prompts puede elevar la tasa de retroalimentación correctiva dentro de una sesión, pero la disposición a afirmar no desaparece, lo que significa que la salvaguarda tiene que ser estructural —calificación, pasos de verificación y [[human-in-the-loop-ai|revisión humana]]— y no instruccional.
 
-**«Que te digan lo que quieres oír es un defecto menor de usabilidad.»** En un contexto de aprendizaje elimina la [[feedback|retroalimentación]] correctiva que produce aprendizaje, y al hacerlo desplaza la responsabilidad fuera del sistema. Esa combinación —equivocada, complaciente e irresponsable— es la razón por la que la sicofancia es un riesgo de aprendizaje distinto y no como una preferencia que ajustar.
+**«Que te digan lo que quieres oír es un defecto menor de usabilidad.»** En un contexto de aprendizaje elimina la [[feedback|retroalimentación]] correctiva que produce aprendizaje, y al hacerlo desplaza la responsabilidad fuera del sistema. Esa combinación —equivocada, complaciente e irresponsable— es la razón por la que la sicofancia es un riesgo de aprendizaje distinto y no una preferencia que ajustar.
 
 ## Conceptos conectados
 - [[guardrails]]

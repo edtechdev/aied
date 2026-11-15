@@ -1,7 +1,7 @@
 ---
 title: Dificultades deseables
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-15T10:10:18-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [cognitive-psychology, desirable-difficulties, learning-theories, metacognition, scaffolding, self-regulated-learning]
@@ -9,7 +9,7 @@ connected_faqs: [reducing-over-reliance, study-with-ai]
 
 confidence: high
 translation_of: concepts/desirable-difficulties
-source_updated: "2026-11-13T09:20:35-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,7 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_resources: [agentic-builds]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*

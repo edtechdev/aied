@@ -1,7 +1,7 @@
 ---
 title: Descarga cognitiva
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-13T14:15:00-05:00"
+updated: "2026-11-15T10:16:55-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-15T09:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -138,6 +138,7 @@ La evidencia documenta la descarga cognitiva en múltiples dimensiones:
 
 El mismo trueque se aplica al trabajo emocional, y ahí la evidencia es más reciente. [[shastry-gray-empathy-offloading-2026|Shastry y Gray (2026)]] denominan externalización de la empatía a este fenómeno: cuando un sistema puede ofrecer apoyo emocional, las personas aportan menos del suyo (N = 2.223 en cuatro estudios). La disposición a entregar la empatía a un modelo siguió a la creencia en la capacidad del modelo para tenerla (b = 0,44), y un experimento que elevó esa creencia mediante una cobertura informativa ordinaria desplazó la externalización a través de ella (indirecto 0,73, directo no creíble). La parte instructiva está en dónde se separan el autoinforme y la conducta: al saber que un estudiante había recibido apoyo de un chatbot, los participantes valoraron su propia externalización como menor que ante un amigo o un terapeuta, y después eligieron menos palabras de empatía y más palabras de indiferencia sobre ese estudiante.
 
+- **La disposición, y no la cantidad, decide si la externalización ayuda.** El estudiantado universitario que usó IA generativa dentro de hojas de trabajo de pensamiento de diseño que mantenían en manos de quien aprende el encuadre del problema, la comparación y la revisión informó una mayor [[self-efficacy|autoeficacia]] creativa y productos mejor valorados que el estudiantado que usó el mismo modelo sin restricciones ([[wang-design-thinking-scaffolds-agency-preserving-ai-2026|Wang, 2026]]).
 - **La descarga se divide en una ganancia visible y una pérdida invisible.** [[pradubwate-illusion-ai-competence-miscalibration-2026|Pradubwate (2026)]] sostiene que el fallo de calibración es una inferencia *transdimensional* y no un exceso de confianza general. La competencia operativa (formular instrucciones, iterar, integrar) devuelve retroalimentación inmediata e inequívoca, mientras que la competencia evaluativa (juzgar si una salida es exacta) devuelve una retroalimentación tardía, escasa o ausente. La descarga eleva la comprensión percibida y reduce el procesamiento profundo a la vez, y solo la primera se experimenta. Por eso las advertencias sobre las limitaciones de la IA son intervenciones débiles: abordan creencias sobre el sistema mientras la ilusión la genera una ausencia en la propia experiencia de quien la usa. La revisión es conceptual y no aporta datos propios.
 
 ## Dependencia excesiva: cuando la externalización se vuelve dañina

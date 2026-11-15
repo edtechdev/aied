@@ -1,13 +1,13 @@
 ---
 title: PLN educativo
 created: "2026-09-28T19:11:07-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-15T10:15:45-05:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

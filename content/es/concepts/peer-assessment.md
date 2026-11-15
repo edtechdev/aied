@@ -1,7 +1,7 @@
 ---
 title: Evaluación entre pares
 created: "2026-09-28T19:11:29-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-15T10:10:18-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, group-work-ai]
 pedagogy: [collaborative-learning, metacognition, self-regulated-learning]
@@ -10,7 +10,7 @@ confidence: high
 discipline: [writing education]
 audience: [learners, instructors]
 translation_of: concepts/peer-assessment
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

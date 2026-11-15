@@ -1,7 +1,7 @@
 ---
 title: Patrones pedagógicos
 created: "2026-09-30T16:48:24-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:16:27-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [designing-ai-into-learning]
 connected_resources: [learning-design-wiki]
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -43,7 +43,7 @@ Todos los patrones siguientes se presentan con un estado de evidencia, porque la
 
 - **Probada** — al menos un artículo informa de una prueba controlada o comparativa.
 - **Mixta** — probada, pero sin control, con resultados contradictorios, o con la variable probada entrelazada con otra cosa.
-- **Propuestas de diseño** — la idea aparece solo como propuesta o marco, sin ninguna prueba informada. Estas se recogen por separado al final de la página, en *Propuestas de diseño (aún no probadas)*, y no son evidencia.
+- **Propuestas de diseño** — la idea aparece solo como propuesta o marco, sin ninguna prueba informada. Estas se recogen por separado en *Propuestas de diseño (aún no probadas)*, y no son evidencia.
 
 Los patrones se agrupan por la función que cumplen en una lección: colocar el esfuerzo antes de la ayuda, emparejar la retroalimentación con IA con la retroalimentación humana, verificar la comprensión en lugar del resultado, convertir a quien aprende en docente, estructurar la colaboración y confrontar un [[misconceptions|error de concepto]] concreto. Los contextos (en línea, presencial, semipresencial) y las disciplinas se informan con cada uno, y se resumen al final.
 
@@ -197,7 +197,7 @@ Las advertencias de la propia guía se aplican: el vídeo grabado, las reflexion
 
 - **«Cualquier práctica suministrada por IA es práctica.»** Una condición de recuperación espaciada adaptativa produjo **las puntuaciones de postest más altas (M = 78,19)** y **superó significativamente al estudio con IA dirigido por quien aprende (M = 67,28)**. El arreglo dirigido por quien aprende rindió peor que uno estructurado, así que la autonomía no es automáticamente el mejor diseño.
 - **«Estudiar con un [[conversational-ai|chatbot]] es mejor que estudiar sin él.»** **El contraejemplo lo zanja**: en un [[rct|ensayo aleatorizado]] con **120 estudiantes**, quienes trabajaron con ChatGPT sin restricciones recordaron **menos al ser evaluados sin aviso** que quienes no lo hicieron. La herramienta fue perjudicial para la retención en el arreglo probado.
-- **«La evidencia del patrón es un gran ensayo agrupado.»** El **apoyo más fuerte es indirecto** y procede de un **experimento aleatorizado intra-sujeto con 26 estudiantes**, donde el [[scaffolding]] de respuesta inmediata se comportó de forma significativamente distinta. La evidencia sostiene el patrón y sigue siendo escasa en escala, y la página debería leerse así.
+- **«La evidencia del patrón es un gran ensayo agrupado.»** El **apoyo más fuerte es indirecto** y procede de un **experimento aleatorizado intra-sujeto con 26 estudiantes**, donde el [[scaffolding]] de respuesta inmediata se comportó de forma significativamente distinta. La evidencia sostiene el patrón y sigue siendo escasa en escala.
 
 ## Conceptos conectados
 

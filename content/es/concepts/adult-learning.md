@@ -1,7 +1,7 @@
 ---
 title: "Aprendizaje de adultos"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-11-13T14:15:38-05:00"
+updated: "2026-11-15T10:16:20-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [professional-training]
@@ -11,7 +11,7 @@ confidence: medium
 methods: [usability-research]
 technology: [edtech-platform]
 translation_of: concepts/adult-learning
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -28,7 +28,7 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - La teoría del aprendizaje de adultos parte de que quienes aprenden son [[self-directed-learning|autodirigidos]], se apoyan en su experiencia vital y buscan relevancia para el mundo real. Pero si la IA realiza buena parte del trabajo cognitivo, ¿demuestra realmente autodirección alguien que completa una tarea sin ayuda visible? ¿Qué le daría confianza de que sí lo hizo?
-- La independencia conductual respecto de una herramienta ya no garantiza que quien aprende haya dirigido el aprendizaje. Si usted diseñara IA para personas adultas, ¿qué buscaría para confirmar una autodirección genuina en lugar de una delegación silenciosa?
+- Si usted diseñara IA para personas adultas, ¿qué buscaría para confirmar una autodirección genuina en lugar de una delegación silenciosa?
 - Las directrices de diseño para herramientas de IA dirigidas a adultos insisten en que encajen en vidas ocupadas: compatibles con el móvil, utilizables sin conexión y conectadas a problemas reales. ¿Cuáles de ellas importan más para su propio aprendizaje y qué le cuesta a quien aprende una herramienta que las ignore?
 - Quienes aprenden siendo adultos suelen estudiar en el trabajo o en casa, así que la modalidad en línea domina: aporta flexibilidad, pero también riesgos de delegación y preguntas de integridad. ¿Cómo interactúa la comodidad de la asistencia con IA con el objetivo de un aprendizaje duradero para una persona adulta con la agenda llena?
 - La investigación no encontró ningún sistema de IA para el aprendizaje de adultos que cumpliera todas las directrices de diseño: hacía falta todo el ecosistema. ¿Qué sugiere eso sobre esperar que una sola herramienta cubra las necesidades de todas las personas que aprenden?

@@ -1,13 +1,13 @@
 ---
 title: Aprendizaje adaptativo
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:16:20-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/adaptive-learning
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -90,6 +90,7 @@ El aprendizaje adaptativo se confunde con frecuencia con el [[personalized-learn
 - **Adapte el atributo cuello de botella, no el promedio débil.** Un modelado de transiciones de los estados de conocimiento clasificó el [[critical-thinking|pensamiento analítico]] como el más difícil de adquirir y el más fácil de perder —probabilidad de transición hacia delante más baja 0,31 y hacia atrás más alta 0,22-0,23—, lo que convierte la nueva práctica del atributo señalado en un objetivo de adaptación más preciso que el dominio global ([[bayesian-cognitive-diagnosis-personalized-learning-paths|Feng y Huang, 2026]]).
 - **Adaptación a partir de secuencias de proceso, no de puntuaciones agregadas.** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela y Cukurova (2026)]] derivaron reglas de andamiaje minando el *orden* de los turnos de diálogo de 65 estudiantes en tríadas, desplazando el aprendizaje adaptativo de las medidas agregadas de conducta o rendimiento hacia las secuencias de proceso individuales; el máximo andamiaje elevó la conducta centrada en la tarea pero también el guionizado, y el diseño no está probado.
 - **El reconocimiento supera a la implementación.** Entre 90 docentes, 74 (82,2%) identificaron estudiantes que necesitaban adaptación, pero solo 50 (55,6%) habían puesto en marcha alguna medida adaptativa; el obstáculo determinante era la información sobre quienes aprenden, no la tecnología, que solo un 12% mencionó ([[hilali-adaptive-learning-challenges-2026|Hilali y Chergui (2026)]]).
+- **El control forma parte del tratamiento.** Quién controla la adaptación importa tanto como qué se adapta: en 83 estudios, el control del sistema produjo g = 1,05 (IC del 95% [0,65; 1,45]) y el control del docente g = 0,86 [0,46; 1,26] en conocimiento, mientras que el control de quien aprende solo alcanzó g = 0,31 [−0,44; 1,05] ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]]).
 
 ## Implicaciones para la práctica
 **Para el profesorado y el diseño**

@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje basado en la indagación
 created: "2026-09-28T21:10:00-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-15T10:11:22-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, inquiry-based-learning, metacognition, problem-based-learning, scaffolding, self-regulated-learning]
@@ -9,7 +9,7 @@ technology: [generative-ai]
 discipline: [stem education]
 confidence: high
 translation_of: concepts/inquiry-based-learning
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **El aprendizaje basado en la indagación (ABI)** — una [[pedagogy|pedagogía]] centrada en quien aprende en la que el estudiantado desarrolla comprensión planteando preguntas, explorando de forma independiente y construyendo conocimiento mediante un ciclo de indagación, reflexión y revisión, con el profesorado [[scaffolding|andamiando]] en lugar de dar clase magistral. En la era de la IA, la estructura del ABI, impulsada por preguntas y centrada en la exploración, se ha convertido en un punto focal: la [[generative-ai|IA generativa]] y las herramientas basadas en [[llm]] pueden actuar como «coinvestigadoras» interactivas que apoyan el cuestionamiento y la investigación, pero solo cuando están diseñadas para preservar, y no para saltarse, el trabajo cognitivo de la indagación.
+> **El aprendizaje basado en la indagación (ABI)** — una [[pedagogy|pedagogía]] centrada en quien aprende en la que el estudiantado desarrolla comprensión planteando preguntas, explorando de forma independiente y construyendo conocimiento mediante un ciclo de indagación, reflexión y revisión, con el profesorado [[scaffolding|andamiando]] en lugar de dar clase magistral. En la era de la IA, la estructura del ABI, impulsada por preguntas y centrada en la exploración, se ha convertido en un punto focal: la [[generative-ai|IA generativa]] y las herramientas basadas en [[llm|LLM]] pueden actuar como «coinvestigadoras» interactivas que apoyan el cuestionamiento y la investigación, pero solo cuando están diseñadas para preservar, y no para saltarse, el trabajo cognitivo de la indagación.
 
 ## Preguntas para reflexionar
 
@@ -42,9 +42,9 @@ El aprendizaje basado en la indagación se centra en las preguntas que plantea e
 
 ## Cómo aparece el aprendizaje basado en la indagación en la investigación
 
-**La IA como coinvestigadora.** Una [[meta-analysis-systematic-review|revisión sistemática]] de ChatGPT para el aprendizaje basado en la indagación en STEAM ([[jiang-chatgpt-inquiry-steam-review-2026]], 24 estudios) encontró que ChatGPT se usaba principalmente en las fases de conceptualización, investigación y discusión —como herramienta de aprendizaje, tutora, par de aprendizaje, experta de dominio y asistente de [[teacher-role|enseñanza]]. Ese uso mejoró el rendimiento, el [[critical-thinking|pensamiento crítico]], la [[student-engagement|implicación]] y la motivación, a la vez que planteaba riesgos de dependencia excesiva, [[hallucination-risk|alucinación]] y conclusiones superficiales cuando la salida se trata como autoritativa.
+**La IA como coinvestigadora.** Una [[meta-analysis-systematic-review|revisión sistemática]] de ChatGPT para el aprendizaje basado en la indagación en STEAM ([[jiang-chatgpt-inquiry-steam-review-2026|Jiang et al. (2026)]], 24 estudios) encontró que ChatGPT se usaba principalmente en las fases de conceptualización, investigación y discusión —como herramienta de aprendizaje, tutora, par de aprendizaje, experta de dominio y asistente de [[teacher-role|enseñanza]]. Ese uso mejoró el rendimiento, el [[critical-thinking|pensamiento crítico]], la [[student-engagement|implicación]] y la motivación, a la vez que planteaba riesgos de dependencia excesiva, [[hallucination-risk|alucinación]] y conclusiones superficiales cuando la salida se trata como autoritativa.
 
-**El planteamiento de problemas como punto de partida.** Un cuasiexperimento con 97 estudiantes de tercero de primaria ([[dai-chatbots-problem-posing-primary-2026]]) mostró que los [[conversational-ai|chatbots]] de IA generativa superaron significativamente a los motores de búsqueda en el planteamiento de problemas científicos, mejorando la calidad de las preguntas y produciendo [[network-analysis|redes]] epistémicas más integradas, además de reducir la carga cognitiva.
+**El planteamiento de problemas como punto de partida.** Un cuasiexperimento con 97 estudiantes de tercero de primaria ([[dai-chatbots-problem-posing-primary-2026|Dai et al., 2026]]) mostró que los [[conversational-ai|chatbots]] de IA generativa superaron significativamente a los motores de búsqueda en el planteamiento de problemas científicos, mejorando la calidad de las preguntas y produciendo [[network-analysis|redes]] epistémicas más integradas, además de reducir la carga cognitiva.
 
 **Patrones de nivel cognitivo en el ABI impulsado por LLM.** Un estudio exploratorio de 117 transcripciones de entrevistas y registros de interacción ([[luo-ibl-patterns-llm-bloom-2026|Luo et al.]]) identificó 14 patrones de interacción en los niveles cognitivos de Bloom, mostrando cómo el conocimiento previo del estudiantado da forma al uso del LLM y destacando la necesidad de un andamiaje dirigido a las etapas de pensamiento de orden superior que mitigue la dependencia excesiva.
 

@@ -1,7 +1,7 @@
 ---
 title: Educación cívica y política
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-15T10:14:36-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, teacher-role]
 pedagogy: [critical-pedagogy, lifelong-learning]
@@ -14,7 +14,7 @@ audience: [instructors, curriculum designers, policymakers]
 confidence: low
 contributors: [editor]
 translation_of: concepts/civic-and-political-education
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -56,7 +56,7 @@ Tres mecanismos se repiten. Primero, la evidencia fabricada: un modelo puede pro
 
 Quien aprende es también productor: escribe a las autoridades y hace circular evidencia. La pregunta cívica no es si la IA ayudó con el texto, sino si el estudiante puede sostener la afirmación y responder a las objeciones.
 
-[[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz y Castro Samayoa (2026)]] plantean el caso cívico en términos de teoría política y no de contrastación empírica. Su argumento es que la contribución de la educación a la democracia es la práctica de la [[critical-thinking|evaluación crítica]], y que la IA generativa elimina la práctica y no el contenido. Externalizar la indagación, el análisis, la evaluación y la síntesis a un modelo acorta el ejercicio que construye esas capacidades tanto en K–12 como en [[higher-ed|educación superior]]. Nombran tres mecanismos: la desaparición de la [[desirable-difficulties|fricción productiva]], el [[automation-bias|sesgo de automatización]] y un marco de eficiencia que trata la finalidad del trabajo escolar como mera finalización de tareas. Las apuestas que ligan a esto son las mayores del corpus y las menos evidenciadas: los gobiernos autoritarios, escriben, prosperan cuando la ciudadanía no puede evaluar afirmaciones de verdad, y los regímenes han suprimido la alfabetización con ese fin. Su remedio es un par de alfabetizaciones y un compromiso de diseño —alfabetización crítica en IA y en medios, y proceso por encima de producto—. El ensayo aporta la fundamentación que, por lo demás, se reúne a retazos, y no aporta datos propios.
+[[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz y Castro Samayoa (2026)]] plantean el caso cívico en términos de teoría política y no de contrastación empírica. Su argumento es que la contribución de la educación a la democracia es la práctica de la [[critical-thinking|evaluación crítica]], y que la IA generativa elimina la práctica y no el contenido. Externalizar la indagación, el análisis, la evaluación y la síntesis a un modelo acorta el ejercicio que construye esas capacidades tanto en K–12 como en [[higher-ed|educación superior]]. Nombran tres mecanismos: la desaparición de la [[desirable-difficulties|fricción productiva]], el [[automation-bias|sesgo de automatización]] y un marco de eficiencia que trata la finalidad del trabajo escolar como mera finalización de tareas. Las apuestas que ligan a esto son las mayores de la literatura y las menos evidenciadas: los gobiernos autoritarios, escriben, prosperan cuando la ciudadanía no puede evaluar afirmaciones de verdad, y los regímenes han suprimido la alfabetización con ese fin. Su remedio es un par de alfabetizaciones y un compromiso de diseño —alfabetización crítica en IA y en medios, y proceso por encima de producto—. El ensayo aporta la fundamentación que, por lo demás, se reúne a retazos, y no aporta datos propios.
 
 [[nkalanga-digital-borders-civic-literacy-2026|Nkalanga (2026)]] añade un mecanismo que el marco de integridad no ve. A partir del régimen fronterizo sudafricano mediado por IA, el artículo deriva cinco exigencias de alfabetización digital cívica: transparencia algorítmica, derechos sobre los datos, reconocimiento de sesgos, impugnación de derechos y [[governance|gobernanza participativa]]. Quien no puede reconocer que una decisión fue algorítmica, ni encontrar la vía de recurso, ha perdido una capacidad cívica y no una habilidad técnica.
 

@@ -1,7 +1,7 @@
 ---
 title: Aprendizaje colaborativo
 created: "2026-09-28T21:06:00-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:15:49-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/collaborative-learning
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -123,6 +123,8 @@ El aprendizaje colaborativo ocupa la cima del [[icap-framework|marco ICAP]] (int
 - **La cara social muestra disrupción sin una ganancia que la compense.** En cinco procesos de colaboración, un consenso de 30 personas expertas alcanzó únicamente la vulnerabilidad, con valoraciones de potenciación por debajo del umbral: Conexión Social (3,80 frente a una potenciación de 1,90), Desarrollo Socioemocional (3,60 frente a 2,00), Aprendizaje Social, Aprendizaje Colaborativo y Sentido de Pertenencia (todos 3,30) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene & Nixon et al., 2026]]). El informe trata la asimetría como un objetivo de diseño, ya que la resolución colaborativa de problemas está anclada a un producto compartido mientras que el aprendizaje colaborativo no tiene referente visible y puede erosionarse sin detectarse.
 
 El estatus de par se gana socialmente. La capacidad matemática apenas entró en los juicios. Siete personas investigadoras expertas dedicaron cada una unos veinte minutos a resolver ecuaciones cuadráticas con un agente de LLM adaptativo que portaba una personalidad basada en los cinco grandes, y después explicaron sus juicios en entrevistas. Lo evaluaron casi enteramente por su comportamiento: creaba un espacio sin juicios, razonaba de forma tentativa en lugar de declarar, mostraba una imperfección adecuada y dejaba intactas las ideas de quien aprende. Para el diseño de [[agentic-ai|agentes]], eso invierte la prioridad habitual: un solucionador capaz que se presenta como autoridad socava el marco colaborativo por muy buenas que sean sus respuestas ([[lin-ai-peer-collaborative-math-learning-2026|Lin et al., 2026]]).
+
+- Ya existe una estimación metaanalítica directa del apoyo adaptativo: en 83 estudios experimentales y cuasi experimentales recogidos en 80 artículos (2004-2023), el apoyo adaptado a la actividad colaborativa arrojó un efecto agrupado de g = 0,73, IC del 95% [0,56, 0,90], mayor para el conocimiento individual (g = 0,93) y menor para el afecto (g = 0,28) ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]]).
 
 ## Concepciones erróneas
 

@@ -1,7 +1,7 @@
 ---
 title: Analítica de sensores y de la mirada
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:10:18-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -13,7 +13,7 @@ level: [higher ed, k 12]
 confidence: medium
 contributors: [editor]
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-13T12:55:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

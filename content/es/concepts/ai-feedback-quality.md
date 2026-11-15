@@ -1,7 +1,7 @@
 ---
 title: Calidad de la retroalimentación de la IA
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-11-13T18:45:00-05:00"
+updated: "2026-11-15T10:24:54-05:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, automated-assessment, feedback, formative-asse
 connected_resources: [my-essay-feedback]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-11-13T16:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -49,7 +49,7 @@ La calidad de la retroalimentación de IA no se reduce a la corrección. Una ret
 
 ## Cómo aparece la calidad de la retroalimentación de IA en la investigación
 
-- **Comparabilidad con la retroalimentación humana:** [[ai-generated-feedback-higher-ed|los estudios en educación superior]] encuentran que la retroalimentación generada por IA se experimenta como aceptable y de apoyo, comparable a la del docente. Pero la aceptabilidad no garantiza la eficacia para el aprendizaje. Una [[meta-analysis-systematic-review|revisión sistemática]] guiada por PRISMA de 42 estudios empíricos (2023-2025) también encuentra que la calidad de la calificación y de la retroalimentación de los [[llm|LLM]] depende de la tarea: iguala a los evaluadores humanos en respuestas cortas y bien estructuradas con rúbricas detalladas, pero se degrada en trabajos complejos, abiertos o [[multilingual-learning|multilingües]], con una retroalimentación a veces demasiado genérica o desalineada con la nota, y señala la calidad de la indicación, el detalle de la rúbrica, la versión del modelo y el idioma de la evaluación como los determinantes dominantes de la calidad de la calificación y de la retroalimentación ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]).
+- **Comparabilidad con la retroalimentación humana:** [[ai-generated-feedback-higher-ed|los estudios en educación superior]] encuentran que la retroalimentación generada por IA se experimenta como aceptable y de apoyo, comparable a la del docente. Pero la aceptabilidad no garantiza la eficacia para el aprendizaje. Una [[meta-analysis-systematic-review|revisión sistemática]] guiada por PRISMA de 42 estudios empíricos (2023-2025) también encuentra que la calidad de la calificación y de la retroalimentación de los [[llm|LLM]] depende de la tarea: iguala a los evaluadores humanos en respuestas cortas y bien estructuradas con rúbricas detalladas, pero se degrada en trabajos complejos, abiertos o [[multilingual-learning|multilingües]], con una retroalimentación a veces demasiado genérica o desalineada con la nota, y señala la calidad de la indicación, el detalle de la rúbrica, la versión del modelo y el idioma de la evaluación como los determinantes dominantes de la calidad de la calificación y de la retroalimentación ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026|Jukiewicz et al., 2026]]).
 - **Los materiales de clase generados por LLM igualaron a los creados por humanos cuando había retroalimentación.** [[lin-rag-lesson-generation-tutor-training-2026|Lin et al. (2026)]] generaron lecciones de formación de tutores basadas en escenarios con una canalización de [[rag|generación aumentada por recuperación]] sobre fuentes de investigación seleccionadas y las compararon en un experimento aleatorizado de ocho condiciones (N = 208) con lecciones cuidadosamente escritas por humanos. La lección creada por humanos produjo un mejor rendimiento en el postest (0,793 frente a 0,730), pero solo en la condición sin retroalimentación; con retroalimentación explicativa inmediata la diferencia de fuente desapareció, y la retroalimentación no tuvo un efecto principal global. Para la generación de contenido, el hallazgo sugiere que la brecha entre humanos y LLM es una brecha de andamiaje: los materiales generados son competitivos cuando el entorno de aprendizaje aporta la retroalimentación explicativa que la lección misma no ofrece.
 
 La calidad percibida por los estudiantes es más desigual de lo que sugiere la aceptabilidad: 77 de 93 estudiantes de grado encontraron fácil de entender la retroalimentación de IA, pero 68 la consideraron repetitiva y 79 autocontradictoria; solo 31 estuvieron de acuerdo en que califica escritura compleja o creativa, y el 81,7% prefirió la puntuación humana para un trabajo final que valía el 40% de la nota ([[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli et al. (2026)]]).
@@ -61,7 +61,7 @@ Una comparación controlada aísla el componente de retroalimentación del siste
 - **Una secuencia de retroalimentación de apoyo puede perjudicar el aprendizaje.** [[sequenced-ai-feedback-learning|Cao et al. (2026)]] encontraron que la secuencia ánimo, pistas y respuesta correcta bajó las puntuaciones del postest (B = −0,83, p = 0,02) pese a elevar el ánimo percibido, y que los reenvíos frecuentes predecían peor rendimiento (B = −0,33, p = 0,001), de modo que la implicación y la satisfacción no son proxies de [[learning-gains|aprendizaje]].
 - **Un ciclo de retroalimentación gramatical y de revisión movió la escritura, la confianza y la conciencia metalingüística.** [[wordofa-genai-grammar-instruction-efl-2026|Wordofa y Abo (2026)]] encontraron que una condición de borrador, reflexión y revisión apoyada por IA superó a la instrucción convencional en las cinco dimensiones de la escritura tras covariar las puntuaciones del pretest (F(5, 77) = 20,885, η² parcial = 0,576), con una [[self-efficacy|autoeficacia]] para la escritura de η² parcial = 0,254.
 
-- **[[benchmark|Benchmarks]] de clasificación de retroalimentación:** [[teaching-feedback-classification-benchmark|los benchmarks de retroalimentación entre idiomas]] evalúan si la clasificación de la calidad de la retroalimentación se transfiere entre idiomas y contextos educativos, en conexión con [[ai-ed-evaluation]].
+- **[[benchmark|Benchmarks]] de clasificación de retroalimentación:** [[teaching-feedback-classification-benchmark|los benchmarks de retroalimentación entre idiomas]] evalúan si la clasificación de la calidad de la retroalimentación se transfiere entre idiomas y contextos educativos, en conexión con [[ai-ed-evaluation|evaluación de la IA en educación]].
 
 - **Sistemas de retroalimentación colaborativa:** [[becerra-aicofe-feedback-2026|AICoFE]] implementa y despliega retroalimentación colaborativa basada en IA en la [[higher-ed|educación superior]], evaluando tanto el rendimiento del sistema como la recepción por parte del estudiantado.
 
@@ -113,13 +113,13 @@ Cómo se *produce* la retroalimentación pertenece también a esa lista. En un s
 
 La calidad de la retroalimentación de IA abarca varias dimensiones:
 
-- **Exactitud:** ¿identifica correctamente la retroalimentación los errores y las fortalezas? ([[automated-assessment|calificación automatizada]], [[automated-essay-scoring]])
+- **Exactitud:** ¿identifica correctamente la retroalimentación los errores y las fortalezas? ([[automated-assessment|calificación automatizada]], [[automated-essay-scoring|evaluación automatizada de ensayos]])
 - **Recuperabilidad de la evidencia:** ¿puede el sistema alcanzar realmente la evidencia que está juzgando? [[ai-assisted-physics-lab-report-assessment-2026|Abreu, Stari y Martí (2026)]] separan la evidencia presente en una entrega de la evidencia disponible tras el procesamiento: una ecuación, un gráfico o una unidad pueden estar incluidos en un informe y nunca recuperarse, de modo que la retroalimentación sobre ese criterio no se apoya en nada, lo que convierte la recuperación en una dimensión de calidad distinta de la exactitud o la calibración. Su respuesta es exigir que cada puntuación cite evidencia concreta del informe, para que una observación que no pueda rastrearse hasta el texto quede visible como no respaldada.
-- **Utilidad:** ¿guía la retroalimentación la mejora? ([[feedback|bucle de retroalimentación]], [[becerra-aicofe-feedback-2026]])
-- **Puntualidad:** ¿se entrega la retroalimentación cuando el estudiante puede actuar sobre ella? ([[formative-assessment]])
+- **Utilidad:** ¿guía la retroalimentación la mejora? ([[feedback|bucle de retroalimentación]], [[becerra-aicofe-feedback-2026|Becerra et al. (2026)]])
+- **Puntualidad:** ¿se entrega la retroalimentación cuando el estudiante puede actuar sobre ella? ([[formative-assessment|evaluación formativa]])
 - **Entrenabilidad:** la calidad está acotada por los datos etiquetados con los que se entrenó el sistema, y la anotación experta es donde va realmente ese presupuesto. [[xu-automated-feedback-tutor-training-2025|Xu, Lin, Wu, Aleven y Koedinger (2025)]] lo abordaron en la formación de tutores, donde el elogio al esfuerzo, al resultado y a la persona debe identificarse en respuestas abiertas. Ajustado con 520 ejemplos aumentados con GPT-4o y generados a partir de 13 anotaciones reales, un modelo pequeño ganó F2 +20,5% en el elogio al esfuerzo y +17,3% en el elogio al resultado. El mecanismo está más cerca de la destilación de un modelo docente que del aumento clásico, y la ganancia se transfirió a una categoría de elogio no vista (F2 +16,5%), que es la evidencia de que generaliza.
 - **Verificabilidad contra una medida objetiva:** cuando el objetivo es medible por máquina, la retroalimentación puede comprobarse contra una medición física en lugar de una rúbrica. [[ai-feedback-violin-intonation-2026|Aksoy (2026)]] extrajo 2.208 desviaciones de afinación a nivel de nota en cents y entregó esas tablas al modelo, de modo que sus afirmaciones tenían un referente medible.
-- **Sesgo:** ¿es la retroalimentación equitativa entre poblaciones de estudiantes? ([[bias-mitigation]], [[equity-in-ai-education]])
+- **Sesgo:** ¿es la retroalimentación equitativa entre poblaciones de estudiantes? ([[bias-mitigation|mitigación de sesgos]], [[equity-in-ai-education|equidad]])
 
 - **[[ethics|Ética]] y transparencia:** solo 14 de 50 universidades mejor clasificadas tenían orientación específica sobre el uso docente de la IA para la retroalimentación, y los estudiantes describieron la retroalimentación de IA no revelada como "poco sincera"; la transparencia y el consentimiento determinan si la retroalimentación se acepta, no solo si es exacta ([[luo-eaton-ai-student-feedback-ethics-2026|Luo y Eaton (2026)]]).
 - **Calibración:** ¿sabe el sistema cuándo es incierto? ([[automated-assessment|evaluación con IA consciente de la confianza]])

@@ -1,7 +1,7 @@
 ---
 title: Evaluación oral
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-13T14:20:00-05:00"
+updated: "2026-11-15T10:10:18-05:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 foundations: [academic-integrity, critical-thinking]
@@ -14,7 +14,7 @@ level: [higher ed]
 confidence: medium
 connected_resources: [code-viva]
 translation_of: concepts/oral-assessment
-source_updated: "2026-11-13T10:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

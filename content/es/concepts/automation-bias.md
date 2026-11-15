@@ -1,7 +1,7 @@
 ---
 title: Sesgo de automatización
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:12:29-05:00"
 type: concept
 foundations: [cognitive-offloading, human-ai-collaboration, ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ confidence: high
 connected_faqs: [reducing-over-reliance, verify-ai-output]
 contributors: [editor]
 translation_of: concepts/automation-bias
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -34,7 +34,7 @@ ai_assist:
 
 ## Introducción
 
-El estudiantado y el [[teacher-role|profesorado]] ya trabajan junto a sistemas que producen juicios: calificadores de ensayos, [[visualization|paneles]] de implicación, detectores de supervisión de exámenes, modelos de anotación que fabrican etiquetas, pistas de tutoría. Cada una de esas salidas llega a una persona que debe decidir si la acepta, y el sesgo de automatización nombra el fallo previsible de esa persona al comprobar. Esta página aborda el lado humano del problema. El sesgo dentro de un modelo —datos de entrenamiento sesgados, tasas de error desiguales entre grupos— está documentado en [[bias-mitigation]]. La pregunta aquí es qué ocurre después de que el modelo ha hablado.
+El estudiantado y el [[teacher-role|profesorado]] ya trabajan junto a sistemas que producen juicios: calificadores de ensayos, [[visualization|paneles]] de implicación, detectores de supervisión de exámenes, modelos de anotación que fabrican etiquetas, pistas de tutoría. Cada una de esas salidas llega a una persona que debe decidir si la acepta, y el sesgo de automatización nombra el fallo previsible de esa persona al comprobar. El sesgo de automatización pertenece al lado humano del problema. El sesgo dentro de un modelo —datos de entrenamiento sesgados, tasas de error desiguales entre grupos— está documentado en la [[bias-mitigation|mitigación de sesgos]]. La pregunta aquí es qué ocurre después de que el modelo ha hablado.
 
 El concepto importa en educación porque las personas en el bucle rara vez son especialistas. Un docente que decide si confiar en una recomendación algorítmica sobre un estudiante es un experto de dominio con otros treinta estudiantes en el aula y sin rastro de auditoría. A un evaluador al que se muestra una puntuación automática antes de juzgar un ensayo se le pide que discrepe de un número que no tiene historia visible. El sesgo de automatización es lo que hace difíciles esas posiciones, y es la razón de que «una persona revisa la salida» sea un salvaguarda más débil de lo que suena.
 

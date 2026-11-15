@@ -1,7 +1,7 @@
 ---
 title: Metacognición
 created: "2026-09-25T03:54:17-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:16:27-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/metacognition
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [student-guide-to-ai]
 contributors: [editor]
@@ -37,7 +37,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> La metacognición (pensar sobre el propio pensamiento) es a la vez un objetivo de la [[ai-education|educación con IA]] [[research-methods-aied|investigación]] (¿pueden las herramientas de IA desarrollar las habilidades metacognitivas del estudiantado?) y un factor de riesgo (que la IA complete las tareas puede suprimir la práctica metacognitiva).([[stanford-evidence-base-ai-k12-2026]])([[scheu-mobile-chatbot-journaling-motivation-2026]])
+> La metacognición (pensar sobre el propio pensamiento) es a la vez un objetivo de la [[ai-education|educación con IA]] [[research-methods-aied|investigación]] (¿pueden las herramientas de IA desarrollar las habilidades metacognitivas del estudiantado?) y un factor de riesgo (que la IA complete las tareas puede suprimir la práctica metacognitiva).([[stanford-evidence-base-ai-k12-2026|Walker et al. (2026)]])([[scheu-mobile-chatbot-journaling-motivation-2026|Scheu et al., 2026]])
 
 ## Preguntas para reflexionar
 
@@ -54,7 +54,7 @@ La metacognición en la educación se refiere a la conciencia, la monitorizació
 - **Conocimiento metacognitivo:** comprender qué sabe uno, qué estrategias tiene disponibles y cuándo desplegarlas
 - **Regulación metacognitiva:** planificar, monitorizar y evaluar el propio aprendizaje en tiempo real
 
-Dentro de los marcos del [[self-regulated-learning|aprendizaje autorregulado]], la metacognición es el mecanismo central que permite a quien aprende adaptar estrategias, reconocer la confusión y buscar ayuda de forma adecuada.([[scheu-mobile-chatbot-journaling-motivation-2026]])
+Dentro de los marcos del [[self-regulated-learning|aprendizaje autorregulado]], la metacognición es el mecanismo central que permite a quien aprende adaptar estrategias, reconocer la confusión y buscar ayuda de forma adecuada.([[scheu-mobile-chatbot-journaling-motivation-2026|Scheu et al., 2026]])
 
 La metacognición no es el mismo constructo que la [[reflection|reflexión]], y a menudo se confunden ambos. La monitorización es un juicio que quien aprende emite sobre su propio estado, y puede ocurrir sin ningún registro. La reflexión es el examen deliberado y documentado de un intento ya completado, y lo que produce es un texto que puede revisarse o evaluarse. Mantenerlos separados importa sobre todo cuando hay IA de por medio: un juicio de monitorización es difícil de delegar, mientras que un artefacto de reflexión puede producirlo un modelo.
 
@@ -66,7 +66,7 @@ Un papel más fundamental de la metacognición aparece cuando el lugar de la coo
 
 ### El riesgo de supresión (Stanford SCALE, 2026)
 
-Cuando la IA completa tareas de razonamiento por el estudiantado (resolver problemas de matemáticas, escribir ensayos, generar código), este pierde práctica en monitorizar su propia comprensión y en seleccionar estrategias.([[stanford-evidence-base-ai-k12-2026]])
+Cuando la IA completa tareas de razonamiento por el estudiantado (resolver problemas de matemáticas, escribir ensayos, generar código), este pierde práctica en monitorizar su propia comprensión y en seleccionar estrategias.([[stanford-evidence-base-ai-k12-2026|Walker et al. (2026)]])
 
 La dependencia no es un fracaso: [[du-yuan-epistemic-dependence-2026|Du y Yuan (2026)]] juzgan el aprendizaje mediado por IA según seis criterios diagnósticos —contestabilidad, recuperabilidad, transferencia, trazabilidad, responsabilidad distribuida y pluralidad epistémica— y distinguen la asistencia instrumental, que ayuda a producir una salida, de la asistencia que conlleva juicio, que aporta los estándares con los que se juzga la salida. **Nombrar la cuestión de la gobernanza.** [[metacognitive-ownership-human-ai-regulation-2026|Lin y Chang (2026)]] proponen la **propiedad metacognitiva** —la gobernanza que quien aprende ejerce sobre los estándares, los [[evaluative-judgment|juicios evaluativos]] y las acciones en los que contribuye una IA—, separando la apropiación de estándares, la gobernanza de los juicios de monitorización y la autorización del control, y exigiendo una oportunidad realista de actuar de otro modo.
 
@@ -129,7 +129,7 @@ Scheu et al. (2026) encontraron una división crítica:
 | **Motivación intrínseca** (disposición a implicarse) | **Sin efecto** | **Positivo** |
 | **Implicación conductual** (cantidad escrita) | **Creciente con el tiempo** ([[feedback|bucle de retroalimentación]]) | **Positivo constante** |
 
-Esto sugiere que **el apoyo metacognitivo y la [[motivation|motivación]] no son idénticos**. El [[scaffolding|andamiaje]] de las entradas de diario que ofrecía el asistente de LLM aumentó cuánto escribía el estudiantado (implicación conductual), pero no hizo que *quisiera* escribir más (motivación intrínseca).([[scheu-mobile-chatbot-journaling-motivation-2026]])
+Esto sugiere que **el apoyo metacognitivo y la [[motivation|motivación]] no son idénticos**. El [[scaffolding|andamiaje]] de las entradas de diario que ofrecía el asistente de LLM aumentó cuánto escribía el estudiantado (implicación conductual), pero no hizo que *quisiera* escribir más (motivación intrínseca).([[scheu-mobile-chatbot-journaling-motivation-2026|Scheu et al., 2026]])
 
 ## La distinción entre creencias y experiencias
 

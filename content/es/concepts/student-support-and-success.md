@@ -1,7 +1,7 @@
 ---
 title: Apoyo y éxito estudiantil
 created: "2026-10-02T01:17:18-04:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-15T10:10:50-05:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -15,7 +15,7 @@ level: [higher ed, undergraduate]
 confidence: high
 connected_faqs: [ai-agents-support-students-instructors, institutional-ai-policy]
 translation_of: concepts/student-support-and-success
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -31,7 +31,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **Apoyo y éxito estudiantil** — el trabajo del lado institucional para ayudar al estudiantado a permanecer, progresar y terminar: **asesoría académica, asistencia administrativa, contacto proactivo, derivación y asignación de apoyos escasos**. Esta es la página de lo que las instituciones *hacen con* el estudiantado, más que de lo que ocurre *dentro* de un curso. [[higher-ed|Educación superior]] es el paraguas más amplio del sector y [[student-experience]] cubre cómo la IA llega a la propia experiencia del estudiante; [[learning-gains]] mide si hubo aprendizaje. El hallazgo distintivo es que el apoyo con IA mueve de forma fiable la **finalización de tareas** —una acción fechada y binaria que la persona controla y que la institución puede observar— mientras deja **la persistencia, los créditos y la graduación** prácticamente intactos. Separar esos resultados es el propósito de esta página.
+> **Apoyo y éxito estudiantil** — el trabajo del lado institucional para ayudar al estudiantado a permanecer, progresar y terminar: **asesoría académica, asistencia administrativa, contacto proactivo, derivación y asignación de apoyos escasos**. El apoyo institucional es lo que las instituciones *hacen con* el estudiantado, más que lo que ocurre *dentro* de un curso. [[higher-ed|Educación superior]] es el paraguas más amplio del sector y [[student-experience]] cubre cómo la IA llega a la propia experiencia del estudiante; [[learning-gains]] mide si hubo aprendizaje. El hallazgo distintivo es que el apoyo con IA mueve de forma fiable la **finalización de tareas** —una acción fechada y binaria que la persona controla y que la institución puede observar— mientras deja **la persistencia, los créditos y la graduación** prácticamente intactos. Separar esos resultados es el propósito.
 
 ## Preguntas para reflexionar
 
@@ -69,7 +69,7 @@ Una revisión de 61 estudios sobre el apoyo al estudiantado habilitado por IA en
 
 ## De la predicción al apoyo
 
-La predicción de riesgo —sistemas de alerta temprana, modelos de abandono, clasificadores de estudiantes en riesgo— es territorio de la **[[learning-analytics|analítica del aprendizaje]]**, y la *analítica predictiva* se trata como lo mismo. El trabajo de modelado es sustancial: clasificadores supervisados identifican a los estudiantes antes del abandono a partir de registros de rendimiento académico, demográficos y de matrícula ([[at-risk-students-ml-prediction|Gheisari y Salarian, 2026]]); un marco de doble capa combina registros de comportamiento de Codeforces (n = 1.816) con datos de encuestas psicográficas de diez universidades para predecir el abandono en la programación competitiva ([[predicting-attrition-competitive-programming|Alam et al., 2026]]); y una arquitectura federada predice el rendimiento y el abandono entre instituciones sin compartir datos brutos de estudiantes, alcanzando AUC = 0,918 en OULAD frente a 0,925 centralizado ([[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch et al., 2026]]). Una visión de educación de precisión extiende la lógica a los gemelos digitales de estudiantes y al «éxito estudiantil preventivo» ([[precision-education-student-digital-twins-2026|Han et al., 2026]]).
+La predicción de riesgo —sistemas de alerta temprana, modelos de abandono, clasificadores de estudiantes en riesgo— es territorio de la **[[learning-analytics|analítica del aprendizaje]]**, y la *analítica predictiva* se trata como lo mismo. El trabajo de modelado es sustancial. Clasificadores supervisados identifican a los estudiantes antes del abandono a partir de registros de rendimiento académico, demográficos y de matrícula ([[at-risk-students-ml-prediction|Gheisari y Salarian, 2026]]). Un marco de doble capa combina registros de comportamiento de Codeforces (n = 1.816) con datos de encuestas psicográficas de diez universidades para predecir el abandono en la programación competitiva ([[predicting-attrition-competitive-programming|Alam et al., 2026]]). Una arquitectura federada predice el rendimiento y el abandono entre instituciones sin compartir datos brutos de estudiantes, alcanzando AUC = 0,918 en OULAD frente a 0,925 centralizado ([[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch et al., 2026]]). Una visión de educación de precisión extiende la lógica a los gemelos digitales de estudiantes y al «éxito estudiantil preventivo» ([[precision-education-student-digital-twins-2026|Han et al., 2026]]).
 
 Lo que corresponde *aquí* es el paso posterior a la puntuación: la **asignación de apoyos**. Dos hallazgos fijan sus límites. Primero, la división entre clasificación y calibración: los modelos federados de riesgo mantuvieron su AUC bajo un cambio en la distribución mientras su calibración se degradaba notablemente, de modo que un modelo que sigue clasificando bien a los estudiantes puede equivocarse sobre la probabilidad de que cada uno necesite ayuda. Segundo, el estudio sobre facilitadores: un análisis internacional con Delphi y AHP/SNAP sobre el paso de la analítica del aprendizaje a la intervención identificó siete facilitadores y clasificó la **orientación estratégica institucional** en primer lugar (prioridad 0,2072) y como la más influyente sobre las demás (PageRank 0,2430), situando el cuello de botella en la planificación institucional y no en los modelos ([[learning-analytics-to-educational-interventions-2026|Svetec, Divjak y Kadoić, 2026]]). La agrupación conductual de 14.003 registros de estudiantes en seis perfiles, mapeados a objetos de aprendizaje recomendados, es la capa de recomendación hacia la que apunta esto ([[najem-behavioral-clustering-adaptive-learning-recommendation-2026|Najem et al., 2026]]).
 
@@ -85,11 +85,11 @@ La palabra «éxito» esconde al menos cinco mediciones distintas, y el apoyo co
 - La **retención** es la tasa institucional que produce la persistencia y suele informarse a nivel de programa o de cohorte. Las tasas de DFW a nivel de curso son lo más parecido a un indicador adelantado en esta literatura, y se movieron de forma modesta (−3 puntos porcentuales en cada curso del ensayo de Georgia State).
 - La **graduación** es el resultado terminal y plurianual. La media de graduación del grupo de control al cuarto año era 0,190 en el estudio de CSUN, y el efecto del tratamiento sobre ella no fue estadísticamente significativo.
 
-La explicación que dan los autores de este patrón es la afirmación central de la página: un recordatorio actúa sobre una decisión discreta y de corto plazo, mientras que la persistencia y el promedio de calificaciones son acumulativos y están moldeados por la enseñanza, las finanzas, el empleo, las circunstancias familiares y la preparación previa. Concluyen que la comunicación mediante una herramienta como esta, **por sí sola**, puede ser insuficiente para cambiarlos, y que los resultados nulos son precisos y no fruto de una potencia insuficiente. La matrícula temprana conserva valor institucional para la planificación de personal y de espacios incluso allí donde los resultados de aprendizaje no se mueven.
+La explicación que dan los autores de este patrón es la afirmación central: un recordatorio actúa sobre una decisión discreta y de corto plazo, mientras que la persistencia y el promedio de calificaciones son acumulativos y están moldeados por la enseñanza, las finanzas, el empleo, las circunstancias familiares y la preparación previa. Concluyen que la comunicación mediante una herramienta como esta, **por sí sola**, puede ser insuficiente para cambiarlos, y que los resultados nulos son precisos y no fruto de una potencia insuficiente. La matrícula temprana conserva valor institucional para la planificación de personal y de espacios incluso allí donde los resultados de aprendizaje no se mueven.
 
 ## Equidad y los riesgos de actuar sobre una puntuación
 
-Los sistemas de apoyo actúan sobre los estudiantes, lo que hace que sus modos de fallo sean distintos de los de un tutor. Una prueba de estrés de seis intervenciones de equidad post hoc sobre una réplica de un sistema de alerta temprana controlado por un proveedor, construido a partir de 168.550 registros de estudiantes, encontró que las intervenciones no lograban entregar la equidad que prometían ([[fairness-theatre-early-warning-systems-2026|McConvey et al., 2026]]). Una revisión desde la defensa del estudiantado organiza la superficie de riesgo en torno a las admisiones, el reclutamiento y la ayuda financiera, y los **servicios de éxito estudiantil** —las áreas donde la IA institucional incide más directamente sobre los estudiantes ([[students-at-stake-ai-deployment-risks-2026|Student Defense, 2026]]). La privacidad y la equidad aquí son estructurales y no accesorias: el aprendizaje federado existe porque compartir registros de estudiantes entre instituciones es inaceptable, y el componente de [[human-in-the-loop-ai|personas en el bucle]] del programa de CSUN es lo que, según los autores, llega a los estudiantes que ignoran el correo electrónico y el teléfono. Los administrativos responden lo que el chatbot no pudo y luego incorporan esa respuesta a su base de conocimiento.
+Los sistemas de apoyo actúan sobre los estudiantes, lo que hace que sus modos de fallo sean distintos de los de un tutor. Una prueba de estrés de seis intervenciones de equidad post hoc sobre una réplica de un sistema de alerta temprana controlado por un proveedor, construido a partir de 168.550 registros de estudiantes, encontró que las intervenciones no lograban entregar la equidad que prometían ([[fairness-theatre-early-warning-systems-2026|McConvey et al., 2026]]). Una revisión desde la defensa del estudiantado organiza la superficie de riesgo en torno a las admisiones, el reclutamiento y la ayuda financiera, y los **servicios de éxito estudiantil** —las áreas donde la IA institucional incide más directamente sobre los estudiantes ([[students-at-stake-ai-deployment-risks-2026|Student Defense, 2026]]). La privacidad y la equidad aquí son estructurales y no accesorias: el aprendizaje federado existe porque compartir registros de estudiantes entre instituciones es inaceptable, y el componente de [[human-in-the-loop-ai|personas en el bucle]] del programa de CSUN es lo que, según los autores, llega a los estudiantes que ignoran el correo electrónico y el teléfono. Los administrativos responden lo que el chatbot no pudo y luego añaden esa respuesta al material del que se nutre el chatbot.
 
 ## Las condiciones institucionales
 
@@ -101,7 +101,7 @@ El apoyo estudiantil se conecta con [[student-experience]] como su contraparte o
 
 ## Concepciones erróneas
 
-**«Predecir qué estudiantes tendrán dificultades es la intervención.»** La predicción es la entrada al apoyo y no es apoyo. El corpus las separa de forma deliberada: un recordatorio de matriculación y un programa de retención son intervenciones distintas con evidencia distinta, y la investigación sugiere que una no compra la otra. Un panel de alerta temprana que termina en una puntuación ha añadido medición sin añadir ayuda.
+**«Predecir qué estudiantes tendrán dificultades es la intervención.»** La predicción es la entrada al apoyo y no es apoyo. La evidencia las separa de forma deliberada. Un panel de alerta temprana que termina en una puntuación ha añadido medición sin añadir ayuda.
 
 **«Un programa de retención que elevó la persistencia demuestra que la IA funcionó.»** Demuestra que el programa funcionó, y la capa de IA debe evaluarse por separado de la intervención que activa. Un estudio aleatorizado de cuatro años sobre CSUNny, un chatbot de mensajes de texto no generativo de la California State University, Northridge, siguió a **dos cohortes de grado (N = 8.708)** durante **ocho semestres** con **tasas anuales de baja voluntaria que nunca superaron el 4%**: un resultado sólido de receptividad sobre la *mensajería*, y no evidencia de que un sistema generativo o predictivo lograra lo mismo.
 
@@ -129,7 +129,7 @@ El apoyo estudiantil se conecta con [[student-experience]] como su contraparte o
 - [[equity-in-ai-education]] — a quién llega el sistema y a quién no
 - [[privacy]] — registros de estudiantes, intercambio de datos y enfoques federados
 - [[human-in-the-loop-ai]] — el juicio humano dentro de un flujo de apoyo automatizado
-- [[rct]] — el diseño detrás de la evidencia más sólida de esta página
+- [[rct]] — el diseño detrás de la evidencia más sólida que hay aquí
 
 ## Artículos conectados
 

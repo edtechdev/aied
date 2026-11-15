@@ -1,7 +1,7 @@
 ---
 title: Agencia de quien aprende
 created: "2026-09-25T03:54:08-04:00"
-updated: "2026-11-13T14:15:38-05:00"
+updated: "2026-11-15T10:16:20-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -10,7 +10,7 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -92,7 +92,7 @@ La agencia se conecta con [[self-regulated-learning]], [[motivation]], [[self-ef
 
 Lo que separa la agencia de la delegación es el trabajo sostenido de delimitación, no la destreza con la herramienta: el estudiantado que usaba la misma herramienta anclada en la recuperación produjo artefactos igualmente pulidos tanto si acotaba y reescribía su salida como si cedía la interpretación de entrada, de modo que la diferencia apareció solo en los prompts, la latencia, las correcciones y los rechazos ([[obyrne-co-constructing-ai-boundaries-agency-judgment-2026|O'Byrne, 2026]]).
 
-- **Actuar, saber y responder no son lo mismo.** Un análisis del discurso asistido por corpus de 366 resúmenes de [[generative-ai|IA generativa]] en la educación superior nombra a la IA como actor 2.050 veces sin hacerla nunca responsable de responder, mientras que la responsabilidad de juzgar las salidas y verificar las afirmaciones recae en el estudiantado: la activación gramatical, la agencia funcional, la autoridad epistémica y la rendición de cuentas normativa se separan ([[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal, 2026]]).
+- **Actuar, saber y responder no son lo mismo.** Un análisis del discurso de 366 resúmenes de [[generative-ai|IA generativa]] en la educación superior nombra a la IA como actor 2.050 veces sin hacerla nunca responsable de responder, mientras que la responsabilidad de juzgar las salidas y verificar las afirmaciones recae en el estudiantado: la activación gramatical, la agencia funcional, la autoridad epistémica y la rendición de cuentas normativa se separan ([[genai-higher-ed-agency-responsibility-discourse-2026|Poudyal, 2026]]).
 - **La agencia tiene tres modos, y el tercero lo aporta la política.** Con solo un 18% del profesorado y un 24% de los directores que declaran contar con una [[educational-policy-ai|política escolar sobre IA]], la mayoría de quienes educan ejercen una agencia individual sin ninguna agencia delegada que actúe por ellos —el tercer modo de Bandura, aportado por las reglas institucionales— ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein y James, 2026]]).
 
 ## La agencia como fenómeno emergente e interaccional
@@ -205,7 +205,7 @@ Un encuadre estrechamente relacionado es el de la **agencia epistémica relacion
 - [[ai-integrated-teaching-identity-tensions]] — La selectividad fundamentada como agencia docente en la enseñanza integrada con IA (Adiozaman y Segar 2026)
 - [[ai-refusal-higher-education-diagnostic-non-use-2026]] — El rechazo como prueba diagnóstica: el no uso como relación situada y el derecho desigual a rechazar la IA (Zagami 2026)
 - [[obyrne-co-constructing-ai-boundaries-agency-judgment-2026]] — la autoridad epistémica afirmada mediante la interrupción, la corrección y el rechazo más que mediante el uso máximo de la herramienta
-- [[genai-higher-ed-agency-responsibility-discourse-2026]] — ¿Quién actúa, quién sabe, quién responde? Un análisis del discurso asistido por corpus de la agencia, la responsabilidad epistémica y la rendición de cuentas en la investigación sobre IA generativa en educación superior
+- [[genai-higher-ed-agency-responsibility-discourse-2026]] — ¿Quién actúa, quién sabe, quién responde? Agencia, responsabilidad epistémica y rendición de cuentas en la investigación sobre IA generativa en educación superior
 - [[skill-sustaining-reliance-reflective-ai-engagement-2026]] — Preguntas abiertas hacia una dependencia que sostiene las habilidades en la implicación reflexiva con IA
 - [[fagerlund-competency-agency-purposes-ai-education-2026]] — La competencia frente a la agencia como propósitos de la educación en IA, y el heurístico de la agencia informada en IA (Fagerlund et al. 2026)
 - [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — La mediación docente como la condición que mantiene la IA generativa como artefacto para la crítica y no como autoridad (Canonigo 2026)

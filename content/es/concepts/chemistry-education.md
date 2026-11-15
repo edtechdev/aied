@@ -1,7 +1,7 @@
 ---
 title: Educación química
 created: "2026-09-28T18:22:28-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:14:19-05:00"
 type: concept
 foundations: [ai-literacy, philosophy-of-ai-in-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ discipline: [chemistry education, stem education, teacher education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/chemistry-education
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,7 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
+connected_resources: [teacher-dev]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*

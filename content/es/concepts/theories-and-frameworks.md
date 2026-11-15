@@ -1,7 +1,7 @@
 ---
 title: Teorías y marcos
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-15T10:32:41-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -102,12 +102,12 @@ Las palabras se usan de forma laxa en la literatura, y la diferencia merece un p
 
 ## Capas relacionadas
 
-Dos páginas vecinas tratan deliberadamente de otra cosa. La [[philosophy-of-ai-in-education|filosofía de la IA en educación]] plantea preguntas normativas y conceptuales —para qué sirve la educación, si una máquina puede enseñar— y no predice tamaños del efecto; un estudio puede ser filosóficamente ingenuo y teóricamente sólido, o lo contrario. El [[theory-development-aied|desarrollo teórico]] es la metaactividad de construir, tomar prestada y revisar teoría, incluida la crítica constante de que gran parte del trabajo en [[ai-education|AIED]] aplica teoría existente en lugar de ponerla a prueba. Reunir marcos es una labor de catalogación; el desarrollo teórico trata de producir y revisar el inventario.
+Dos páginas vecinas tratan deliberadamente de otra cosa. La [[philosophy-of-ai-in-education|filosofía de la IA en educación]] plantea preguntas normativas y conceptuales —para qué sirve la educación, si una máquina puede enseñar— y no predice tamaños del efecto; un estudio puede ser filosóficamente ingenuo y teóricamente sólido, o lo contrario. El [[theory-development-aied|desarrollo teórico]] es la metaactividad de construir, tomar prestada y revisar teoría, incluida la crítica constante de que gran parte del trabajo en [[ai-education|AIED]] aplica teoría existente en lugar de ponerla a prueba. Reunir marcos es una labor de catalogación; el desarrollo teórico trata de producirlos y revisarlos.
 
 ## Elegir una lente cuando la pregunta es práctica
 
 - **El profesorado** que parte de un problema puede trabajar hacia atrás: si quienes aprenden no se implican, el [[icap-framework|ICAP]] y la [[self-determination-theory|TAD]] nombran causas distintas y sugieren soluciones distintas; si la pregunta es si adoptar una herramienta o no, los [[technology-acceptance-model|modelos de adopción]] y [[samr-model|SAMR]] preguntan cosas diferentes sobre ella.
-- **Quienes diseñan el aprendizaje** sacan más partido de los marcos de diseño —el [[universal-design-for-learning|DUA]], el [[learning-design]] y el [[scaffolding]]— emparejados con una teoría que prediga qué ocurre cuando se retira el andamiaje.
+- **Quienes diseñan el aprendizaje** sacan más partido de los marcos de diseño —el [[universal-design-for-learning|DUA]], el [[learning-design]] y el [[scaffolding|andamiaje]]— emparejados con una teoría que prediga qué ocurre cuando se retira el andamiaje.
 - **Quienes investigan** deberían indicar qué nodo afirma un estudio y si el diseño puede ponerlo a prueba de verdad; los modelos de medición ([[item-response-theory|TRI]], [[assessment-validity]], [[self-report-measures]]) deciden si un resultado informado sostiene esa afirmación.
 - **Quienes administran** se encuentran estos marcos como preguntas de adopción y cambio, donde un modelo por etapas suele usarse como relato de madurez en lugar de como instrumento.
 

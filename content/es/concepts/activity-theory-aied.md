@@ -1,7 +1,7 @@
 ---
 title: Teoría de la actividad
 created: "2026-09-28T19:11:29-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-15T10:10:18-05:00"
 type: concept
 foundations: [teacher-role]
 pedagogy: [activity-theory-aied, learning-theories, sociocultural-learning]
@@ -10,7 +10,7 @@ audience: [instructors]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/activity-theory-aied
-source_updated: "2026-11-12T21:40:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

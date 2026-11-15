@@ -1,7 +1,7 @@
 ---
 title: Evaluación de la IA en educación
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-15T10:24:54-05:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [benchmark]
 translation_of: concepts/ai-ed-evaluation
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -86,7 +86,7 @@ La evaluación de [[simulating-students|estudiantes simulados]] se enfrenta al m
 
 - **La evaluación conjunta revela compromisos que una única puntuación oculta.** [[elbench-education-llm-benchmark-2026|Jiang et al. (2026)]] puntúan nueve modelos orientados a la educación en capacidad, seguridad, educación básica y formación de alto nivel bajo un mismo protocolo: los seis mejores son estadísticamente indistinguibles en conjunto y, sin embargo, difieren en 19,5 puntos en Seguridad, y la Seguridad está fuertemente anticorrelacionada con la Educación básica (r = −0,83).
 - **El desequilibrio de clases puede volver engañosa una métrica de evaluación.** [[reflection-level-classification-hungarian-essays-2026|Csibi y colegas (2026)]] clasificaron el nivel de reflexión en 1.954 ensayos húngaros de [[teacher-education|formación docente]] en los que el 68% se situaba en un único nivel: una configuración superficial alcanzó un ROC-AUC de 0,7131 con solo 0,5162 de precisión, y el equilibrado de clases redujo todas las métricas (0,6672 de precisión sin él frente a 0,6408 con él). Los modelos superficiales dieron las mejores puntuaciones agregadas, mientras que los transformers manejaron mejor los niveles minoritarios, así que la cifra informada debería seguir el rendimiento del que depende de verdad una decisión.
-- **Los errores de los puntos de referencia y de los calificadores se confunden con fallos del modelo.** Una recalificación experta de seis puntos de referencia de [[physics-education|física]] muy usados auditó 250 ítems rechazados y atribuyó 143 (57,20%) a defectos del punto de referencia y 95 (38,00%) a errores de los calificadores, dejando solo 12 (4,80%) como errores genuinos del modelo, de modo que el 95,20% de la brecha medida no era atribuible al modelo. Reparar los ítems movió la media@4 de HLE-Physics del 47,28% al 78,66% y la media@5 de CritPt del 32,29% a un 87,50% corregido, convirtiendo una aparente debilidad de los modelos de frontera en una cuasi saturación. La auditoría sostiene que una puntuación reportada es una propiedad conjunta del modelo, el banco de ítems y el calificador, y que la adjudicación experta debe preceder a cualquier afirmación de capacidad extraída de un punto de referencia. ([[frontier-models-physics-benchmark-audit-2026]])
+- **Los errores de los puntos de referencia y de los calificadores se confunden con fallos del modelo.** Una recalificación experta de seis puntos de referencia de [[physics-education|física]] muy usados auditó 250 ítems rechazados y atribuyó 143 (57,20%) a defectos del punto de referencia y 95 (38,00%) a errores de los calificadores, dejando solo 12 (4,80%) como errores genuinos del modelo, de modo que el 95,20% de la brecha medida no era atribuible al modelo. Reparar los ítems movió la media@4 de HLE-Physics del 47,28% al 78,66% y la media@5 de CritPt del 32,29% a un 87,50% corregido, convirtiendo una aparente debilidad de los modelos de frontera en una cuasi saturación. La auditoría sostiene que una puntuación reportada es una propiedad conjunta del modelo, el banco de ítems y el calificador, y que la adjudicación experta debe preceder a cualquier afirmación de capacidad extraída de un punto de referencia. ([[frontier-models-physics-benchmark-audit-2026|Ansari et al., 2026]])
 
 La velocidad de los sistemas que se evalúan es otra restricción. [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] describen el problema temporal directamente: cuando un ensayo a gran escala ya se ha diseñado, impartido, analizado y publicado, la tecnología estudiada puede haber cambiado materialmente, lo que empuja la práctica hacia datos observacionales o de uso débiles justo en el momento en que se necesita evidencia más sólida. Su respuesta no es aceptar diseños más débiles, sino acortar el bucle: microensayos aleatorizados liderados por docentes en ejercicio que conservan el contraste causal y lo repiten a medida que la plataforma evoluciona.
 
@@ -102,7 +102,7 @@ La evaluación de la IA en educación se sitúa en el centro de los métodos y l
 
 ## Evaluación de las mejoras de aprendizaje
 
-Un objeto central de la evaluación de la IA en educación es la **mejora de aprendizaje**: la mejora medible en conocimiento o habilidad que produce una herramienta de IA (véase [[learning-gains|mejoras de aprendizaje]]). Evaluar las mejoras con rigor exige elegir la medida de resultado adecuada, porque [[genai-performance-vs-learning|el rendimiento y el aprendizaje divergen]]: la IA puede inflar el rendimiento inmediato en tareas asistidas por IA y dejar intacto o reducido el aprendizaje duradero y sin asistencia (véanse [[generative-ai-reduced-study-time-math]] y [[stromberg-generative-ai-learning-penalty-secondary-2026]]). Por eso una evaluación eficaz de las mejoras:
+Un objeto central de la evaluación de la IA en educación es la **mejora de aprendizaje**: la mejora medible en conocimiento o habilidad que produce una herramienta de IA (véase [[learning-gains|mejoras de aprendizaje]]). Evaluar las mejoras con rigor exige elegir la medida de resultado adecuada, porque [[genai-performance-vs-learning|el rendimiento y el aprendizaje divergen]]: la IA puede inflar el rendimiento inmediato en tareas asistidas por IA y dejar intacto o reducido el aprendizaje duradero y sin asistencia (véanse [[generative-ai-reduced-study-time-math|Rismanchian et al. (2026)]] y [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg et al. (2026)]]). Por eso una evaluación eficaz de las mejoras:
 
 - **Usa medidas de resultado sin asistencia y resistentes a la IA.** La [[generative-ai-guardrails-harm-learning|evidencia sobre salvaguardas]] y la [[summative-assessment|investigación sobre evaluación sumativa]] muestran que las medidas supervisadas, a libro cerrado y sin asistencia —y no los deberes asistidos por IA o el trabajo para llevar a casa— revelan [[learning-gains|mejoras de aprendizaje]] genuinas.
 - **Distingue el rendimiento asistido del aprendizaje duradero.** El [[genai-meta-analysis-programming-learning|metaanálisis]] muestra que la IA puede producir grandes ganancias de productividad sin una mejora de aprendizaje significativa (g ≈ 0), así que las evaluaciones deben informar de ambas.

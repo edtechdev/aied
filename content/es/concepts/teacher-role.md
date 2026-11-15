@@ -1,7 +1,7 @@
 ---
 title: La docencia
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:12:34-05:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-11-13T13:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,8 @@ La abstracción «orquestador» se entiende mejor con cambios concretos del día
 El profesorado al que se animó a consultar el informe de tareas aumentó la finalización de la tarea siguiente (F de Anderson-Rubin = 4,092; p = 0,044; al menos 2 puntos porcentuales en el conjunto).
 En clases de menos de 44 estudiantes la ganancia fue de al menos 24,5 puntos porcentuales (F = 7,475; p = 0,007); el profesorado con más de 43 estudiantes ya consultaba los informes a tasas altas, lo animaran o no (77% frente a 75%), probablemente personas que ya lo hacían de todos modos, sin margen para moverse.
 Así que el incentivo importa sobre todo donde el uso de los informes todavía puede crecer.
+
+- Lan y Chen (2026) proponen juzgar la autoría docente por su procedencia: un agente cuenta como gemelo de un docente solo si su autoridad se remonta a un docente concreto que conserva la responsabilidad, ha traducido su juicio a una especificación inspeccionable y amplía la capacidad sin reubicar la autoría, mientras que los valores predeterminados de las plataformas producen un representante, no un gemelo ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan y Chen, 2026]]).
 
 ### La metáfora de la orquestación
 

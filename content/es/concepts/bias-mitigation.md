@@ -2,7 +2,7 @@
 connected_resources: [writing-rhetoric-studies-in-the-loop]
 title: Mitigación de sesgos
 created: "2026-09-28T19:11:29-04:00"
-updated: "2026-11-07T13:00:00-05:00"
+updated: "2026-11-15T10:13:37-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, llm]
@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [ai-bias-fairness-education]
 translation_of: concepts/bias-mitigation
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -105,7 +105,7 @@ La mitigación de sesgos es el mecanismo técnico a través del cual se operacio
 - **Hacer que los sistemas sean explicables:** la transparencia sobre las decisiones de la IA es esencial para detectar y corregir el sesgo.
 - **Combinar la mitigación técnica y la humana:** emparejar los algoritmos de desesgado con la supervisión humana con la persona en el bucle, especialmente en casos de alto riesgo o baja confianza.
 
-La mitigación del sesgo se refiere al sesgo dentro del sistema. [[automation-bias]] se refiere al sesgo en la persona que lee su salida —aceptar una recomendación que alguien habría cuestionado si hubiera llegado a ella por su cuenta— y sobrevive incluso cuando el modelo es exacto.
+La mitigación del sesgo se refiere al sesgo dentro del sistema. [[automation-bias|El sesgo de automatización]] se refiere al sesgo en la persona que lee su salida —aceptar una recomendación que alguien habría cuestionado si hubiera llegado a ella por su cuenta— y sobrevive incluso cuando el modelo es exacto.
 
 ## Concepciones erróneas
 

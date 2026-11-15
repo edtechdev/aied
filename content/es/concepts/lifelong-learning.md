@@ -1,13 +1,13 @@
 ---
 title: Aprendizaje a lo largo de la vida
 created: "2026-09-22T12:00:00-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:32:41-05:00"
 type: concept
 pedagogy: [lifelong-learning, professional-training, scaffolding]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, llm, personalized-learning]
 level: [higher ed, k 12]
 confidence: medium
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_of: concepts/lifelong-learning
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]

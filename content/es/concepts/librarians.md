@@ -1,7 +1,7 @@
 ---
 title: "Bibliotecarios"
 created: "2026-09-28T20:10:55-04:00"
-updated: "2026-11-13T14:15:00-05:00"
+updated: "2026-11-15T10:26:22-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, academic-integrity, human-ai-collaboration]
 pedagogy: [scaffolding, inquiry-based-learning, collaborative-learning, metacognition]
@@ -12,7 +12,7 @@ audience: [librarians, learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/librarians
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -71,7 +71,7 @@ Otros dos hilos marcan los límites del rol. [[pearls-epistemic-verification-202
 
 ## Concepciones erróneas
 
-**«Los bibliotecarios son periféricos para la IA en la educación.»** Tienen un papel específico y comprobable, y el corpus lo mide. A lo largo de **312 consultas (10,4 por participante)**, la evaluación y la calidad de las fuentes representaron el **38,5%**, la formulación de estrategias de búsqueda el **29,2%**, la gestión de citas el **18,6%** y la navegación de repositorios el **13,7%**, y el **73,4% se respondió en menos de seis horas**. Eso no es un servicio periférico; es la función de alfabetización informacional cargando con el peso que la IA no pudo.
+**«Los bibliotecarios son periféricos para la IA en la educación.»** Tienen un papel específico y comprobable, y la evidencia lo mide. A lo largo de **312 consultas (10,4 por participante)**, la evaluación y la calidad de las fuentes representaron el **38,5%**, la formulación de estrategias de búsqueda el **29,2%**, la gestión de citas el **18,6%** y la navegación de repositorios el **13,7%**, y el **73,4% se respondió en menos de seis horas**. Eso no es un servicio periférico; es la función de alfabetización informacional cargando con el peso que la IA no pudo.
 
 **«La búsqueda con IA responde a las preguntas que el estudiantado solía llevar a un bibliotecario.»** En el estudio del bibliotecario integrado, **las preguntas de evaluación de fuentes dominaron las consultas (38,5%) precisamente en los casos en que la IA tenía menos confianza**. La incertidumbre de la herramienta derivó el trabajo hacia la capacidad humana que podía resolverlo, lo que convierte el patrón observado en una división del trabajo y no en una obsolescencia.
 

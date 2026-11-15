@@ -1,7 +1,7 @@
 ---
 title: ECA
 created: "2026-09-28T18:22:28-04:00"
-updated: "2026-11-05T16:05:17-05:00"
+updated: "2026-11-15T10:16:01-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/rct
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -59,7 +59,7 @@ La aleatorización es lo que distingue un ECA de otros diseños: al asignar alea
 - **Fortalezas:** la inferencia causal más sólida; una medición limpia de los resultados; permite estimar tamaños del efecto; equilibra los factores de confusión mediante la aleatorización.
 - **Limitaciones:** costosos y lentos; los entornos artificiales pueden reducir la validez ecológica; las herramientas de IA cambian más rápido de lo que tardan los ensayos; las muestras pequeñas a menudo tienen poca potencia para detectar efectos significativos; limitaciones éticas para retener una IA potencialmente beneficiosa de un grupo de control. Dos de esos límites cambian de forma cuando la asignación es por conglomerados: la muestra efectiva pasa a ser el número de *conglomerados* y no el de estudiantes, de modo que un ensayo puede ser grande por número de personas y fino por esa medida —los 2.379 estudiantes de Liu et al. se apoyan en 34 conglomerados a nivel de instructor—, y cuando la adopción es voluntaria y baja, una estimación por intención de tratar responde a si ofrecer la herramienta cambió los resultados, no a si usarla lo hizo.
 
-Para un tratamiento más completo del diseño experimental en la IA en la educación —incluido cuándo es apropiado un ECA frente a diseños cuasiexperimentales, de encuesta o computacionales— véase [[research-methods-aied]].
+Para un tratamiento más completo del diseño experimental en la IA en la educación —incluido cuándo es apropiado un ECA frente a diseños cuasiexperimentales, de encuesta o computacionales— véase [[research-methods-aied|métodos de investigación]].
 
 ## Concepciones erróneas
 

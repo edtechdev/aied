@@ -1,14 +1,14 @@
 ---
 title: Colaboración humano-IA
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:15:13-05:00"
 type: concept
 confidence: medium
 foundations: [human-ai-collaboration, ai-literacy]
 technology: [generative-ai, llm]
 pedagogy: [student-ai-interaction]
 translation_of: concepts/human-ai-collaboration
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **La colaboración humano-IA** — la división del trabajo cognitivo entre las personas y los modelos — es el tema central de interacción: [[human-ai-collaboration-trust-expectations]], [[humanlike-ai-collaborative-writing]], [[genai-mindtool-generative-learning]] y [[teacher-student-agency-orchestration]] examinan la confianza, la agencia y los roles complementarios ([[human-in-the-loop-ai]], [[agentic-ai]]). La pregunta definitoria es si la asociación **preserva o reemplaza** el propio trabajo cognitivo de quien aprende —la misma disposición puede apoyar el aprendizaje o sustituirlo según cómo se reparta la responsabilidad.
+> **La colaboración humano-IA** — la división del trabajo cognitivo entre las personas y los modelos — es el tema central de interacción: [[human-ai-collaboration-trust-expectations|Razmerita et al. (2026)]], [[humanlike-ai-collaborative-writing|Yin et al. (2026)]], [[genai-mindtool-generative-learning|Dabbagh et al. (2026)]] y [[teacher-student-agency-orchestration|Bella et al. (2026)]] examinan la confianza, la agencia y los roles complementarios ([[human-in-the-loop-ai|supervisión humana]], [[agentic-ai|IA agéntica]]). La pregunta definitoria es si la asociación **preserva o reemplaza** el propio trabajo cognitivo de quien aprende —la misma disposición puede apoyar el aprendizaje o sustituirlo según cómo se reparta la responsabilidad.
 
 ## Preguntas para reflexionar
 

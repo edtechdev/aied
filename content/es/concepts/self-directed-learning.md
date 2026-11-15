@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: Aprendizaje autodirigido
 created: "2026-09-28T20:10:03-04:00"
-updated: "2026-11-13T14:15:14-05:00"
+updated: "2026-11-15T10:14:32-05:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -10,7 +10,7 @@ technology: [generative-ai]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/self-directed-learning
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -31,7 +31,7 @@ ai_assist:
 ## Preguntas para reflexionar
 
 - El aprendizaje autodirigido significa diagnosticar sus propias necesidades, fijar objetivos y evaluar resultados con una estructura externa limitada. Antes de leer, ¿qué tan cómodo se siente usted dirigiendo su propio aprendizaje, y alguna vez una herramienta de IA le ha hecho *menos* capaz de hacerlo sin que usted lo notara?
-- La página enmarca el SDL a la vez como un resultado deseado y como una vulnerabilidad: la comodidad de la IA generativa puede socavar la autonomía y la autoeficacia que el SDL requiere. ¿Por qué una herramienta que le da respuestas instantáneas haría *más difícil* dirigir su propio aprendizaje después?
+- El SDL es a la vez un resultado deseado y una vulnerabilidad: la comodidad de la IA generativa puede socavar la autonomía y la autoeficacia que el SDL requiere. ¿Por qué una herramienta que le da respuestas instantáneas haría *más difícil* dirigir su propio aprendizaje después?
 - Se encontró que el uso irreflexivo de la IA generativa —adoptar salidas sin [[critical-thinking|evaluación crítica]]— perjudica el SDL tanto directamente como erosionando la autoeficacia y la motivación. ¿Recuerda alguna vez en que aceptó una respuesta de la IA sin evaluarla? ¿Qué le costó, si es que le costó algo?
 - El SDL y el aprendizaje autorregulado (SRL) están estrechamente relacionados pero son distintos: el SRL se ocupa de la [[regulation|regulación]] del aprendizaje en el momento, mientras que el SDL se ocupa de la responsabilidad general a lo largo del tiempo. ¿Dónde ve usted la frontera entre «gestionar esta tarea» y «dirigir mi propio aprendizaje» en su propia práctica?
 - El daño del uso irreflexivo de la IA golpeó más la motivación de unos estudiantes y más la autoeficacia de otros. Si la erosión de estos recursos psicológicos es desigual entre quienes aprenden, ¿qué preocupación de [[equity-in-ai-education|equidad]] plantea eso sobre quién pierde más con la comodidad de la IA?
@@ -47,9 +47,9 @@ La investigación documenta ambos lados de la relación entre IA generativa y SD
 
 - **La IA puede apoyar el SDL.** La [[ai-lifelong-learning-policy|IA y las políticas de aprendizaje a lo largo de la vida]] y el [[self-directed-growth-generative-ai-learning-analytics|crecimiento autodirigido con IA generativa y analítica del aprendizaje]] muestran que las herramientas de IA pueden [[scaffolding|andamiar]] la indagación independiente, ofrecer recursos a demanda y personalizar itinerarios de aprendizaje de formas que refuerzan la autonomía de quien aprende. La [[genai-educational-outcomes-meta-analysis|evidencia metaanalítica]] sobre los resultados educativos de la IA generativa y la [[conversational-ai-informal-learning|IA conversacional en el aprendizaje informal]] sugieren un potencial positivo cuando la IA se usa como un recurso que quien aprende dirige.
 - **Quienes aprenden quieren un compañero de pensamiento, no un oráculo.** El estudiantado adulto entrevistado quería que la IA estimulara la reflexión y verificara en lugar de dar respuestas, y que lo dejara a cargo del [[recommender-systems-and-learning-paths|itinerario de aprendizaje]] en lugar de prescribirlo ([[kim-ai-andragogy-2026|Kim et al. (2026)]]).
-- **Delegar la elección del objetivo no es lo mismo que apoyarla.** La página trata la fijación del objetivo como el acto central de quien aprende, y la evidencia de referencia dice que los modelos lo hacen de otro modo. Frente a 175 personas, GPT-5, Claude Sonnet 4.5 y Qwen3 32B volvieron a seleccionar el objetivo anterior en 0,93, 0,93 y 0,94 de los ensayos, frente a 0,54 ± 0,18 en las personas. La entropía de objetivos fue de 0,12 a 0,20 frente a 1,67 ± 0,14, y las instrucciones de cadena de pensamiento y de persona no cerraron la brecha. Un sistema que propone qué aprender a continuación reproduce una búsqueda más estrecha que la de quien aprende al que sustituye ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al., 2026]]).
+- **Delegar la elección del objetivo no es lo mismo que apoyarla.** Fijar el objetivo es el acto central de quien aprende, y la evidencia de referencia dice que los modelos lo hacen de otro modo. Frente a 175 personas, GPT-5, Claude Sonnet 4.5 y Qwen3 32B volvieron a seleccionar el objetivo anterior en 0,93, 0,93 y 0,94 de los ensayos, frente a 0,54 ± 0,18 en las personas. La entropía de objetivos fue de 0,12 a 0,20 frente a 1,67 ± 0,14, y las instrucciones de cadena de pensamiento y de persona no cerraron la brecha. Un sistema que propone qué aprender a continuación reproduce una búsqueda más estrecha que la de quien aprende al que sustituye ([[llm-goal-selection-self-directed-learning-2026|Molinaro et al., 2026]]).
 
-- **El uso irreflexivo socava el SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao y Gu (2026)]] muestran que el **uso irreflexivo de la IA generativa** —adoptar salidas de IA sin evaluación crítica— perjudica significativamente el SDL del estudiantado universitario, tanto directamente como a través de la erosión de la [[self-efficacy|autoeficacia]] y la [[motivation|motivación]] (el modelo explicó el 75,3% de la varianza del SDL; TUGA β = −0,42). El efecto negativo sobre la motivación fue mayor en los estudiantes varones y sobre la autoeficacia en las estudiantes mujeres. Esto conecta con el riesgo más amplio de [[cognitive-offloading|dependencia excesiva]].
+- **El uso irreflexivo socava el SDL.** [[genai-thoughtless-use-self-directed-learning-2026|Zhao y Gu (2026)]] muestran que usar la IA generativa sin evaluar lo que devuelve causó daño en dos direcciones: redujo directamente el SDL del estudiantado universitario y también erosionó la [[self-efficacy|autoeficacia]] y la [[motivation|motivación]] (el modelo explicó el 75,3% de la varianza del SDL; TUGA β = −0,42). El efecto negativo sobre la motivación fue mayor en los estudiantes varones y sobre la autoeficacia en las estudiantes mujeres. Esto conecta con el riesgo más amplio de [[cognitive-offloading|dependencia excesiva]].
 
 - **Uso no guiado a escala poblacional.** En 4.062 estudiantes de 136 escuelas secundarias alemanas, el uso de IA generativa orientado a completar tareas y el orientado al aprendizaje aumentaron ambos a lo largo de un curso escolar (d = 0,35 y 0,33), y solo el 5% del estudiantado no usó nunca las herramientas; un rendimiento previo más bajo predijo más uso posterior en las seis materias, pero ninguna de las dos formas de uso predijo el rendimiento posterior ([[scherer-self-directed-genai-use-secondary-2026|Scherer et al. (2026)]]).
 

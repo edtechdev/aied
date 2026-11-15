@@ -1,14 +1,14 @@
 ---
 title: Conocimiento previo
 created: "2026-09-28T21:12:05-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-15T10:13:22-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -53,8 +53,9 @@ La IA generativa ha convertido el conocimiento previo en una consideración de d
 - **El conocimiento previo configura el patrón de descarga cognitiva, no solo los resultados.** En un estudio de escritura de síntesis, el grupo con conocimiento alto y descarga mínima redactó el 80% de su ensayo frente al 2% del grupo con mayor descarga (media de 25,1 prompts), de modo que el volumen de prompts reflejaba el conocimiento previo y no el esfuerzo ([[cognitive-offloading-llm-synthesis-writing|Poquet et al. (2026)]]).
 - **La brecha de beneficios se acumula.** Como el uso productivo de la IA depende de lo que quien aprende ya sabe, el estudiantado con conocimiento previo más sólido lo aprovecha mejor mientras que quienes son novatos son los más propensos a tratarla como sustituto: un riesgo distributivo que puede ampliar las brechas de rendimiento incluso cuando el acceso es igual ([[lodge-loble-cognitive-offloading-2026|Lodge y Loble (2026)]]).
 - **El cebado y la activación como diseño.** Los [[genai-mindtool-generative-learning|enfoques de la IA generativa como herramienta mental]] «ceban deliberadamente la tarea de aprendizaje» activando el conocimiento previo y la curiosidad mediante preguntas, elementos visuales generados por IA y analogías (por ejemplo, «¿qué sabes ya sobre los ecosistemas?») antes de introducir contenido nuevo, modelando así la ruta de recuperación e integración y no la de suministro de respuestas.
-- **Modelado del estudiante y memoria.** Los sistemas de IA modelan cada vez más el estado de conocimiento previo y la memoria longitudinal de quien aprende (por ejemplo, incorporando el estado de conocimiento previo y las curvas de olvido a la memoria del tutor), lo que permite la repetición espaciada y la revisión adaptativa que se apoyan en lo que cada persona ya sabe.([[nie-personavlm-long-term-personalization-2026]])
+- **Modelado del estudiante y memoria.** Los sistemas de IA modelan cada vez más el estado de conocimiento previo y la memoria longitudinal de quien aprende (por ejemplo, incorporando el estado de conocimiento previo y las curvas de olvido a la memoria del tutor), lo que permite la repetición espaciada y la revisión adaptativa que se apoyan en lo que cada persona ya sabe.([[nie-personavlm-long-term-personalization-2026|Nie et al., 2026]])
 - **Una palanca de adaptación personalizada.** Como el estudiantado difiere mucho en conocimiento previo, la adaptación debe ajustarse a cada persona: un argumento central a favor del [[personalized-learning|aprendizaje personalizado]] y del [[scaffolding|andamiaje]] adaptativo que reciben a quienes aprenden en su estado actual real y no en un supuesto promedio de clase.
+- **El conocimiento previo fue la única característica de quien aprende que moderó el apoyo adaptativo.** Quienes ya dominaban el contenido ganaron más (g = 0,74; IC del 95 % [0,42; 1,05]) que quienes no lo dominaban (g = 0,63 [0,46; 0,80]), y ambos se beneficiaron, lo que encaja con una adaptación que retira la ayuda redundante más que con una inversión de la pericia ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]]).
 
 ## Implicaciones para diseñar IA en la educación
 

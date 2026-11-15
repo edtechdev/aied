@@ -1,7 +1,7 @@
 ---
 title: IA en la educación
 created: "2026-09-22T14:35:34-04:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:16:20-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-15T06:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -110,7 +110,15 @@ La IA se aplica en todas las disciplinas y en todos los niveles educativos. La [
 
 ## Niveles y contextos
 
-Una misma herramienta de IA se encuentra con entornos muy distintos, y el nivel educativo se mantiene separado de la pedagogía para que los hallazgos no se trasladen en silencio de uno a otro: [[k-12|centros de K-12]], [[early-childhood-elementary-ai-education|educación infantil y primaria]], [[higher-ed|educación superior]], [[adult-learning|aprendizaje de personas adultas]], [[vocational-education|formación profesional y vocacional]], [[special-education|educación especial]] y [[teacher-education|formación del profesorado]]. Entre los conceptos próximos al dominio que cruzan niveles están el [[universal-design-for-learning|diseño universal para el aprendizaje]], la [[neurodiversity|neurodiversidad]], el [[multilingual-learning|aprendizaje multilingüe]] y el [[social-emotional-learning|aprendizaje socioemocional]].
+Una misma herramienta de IA se encuentra con entornos muy distintos, y el nivel educativo se mantiene separado de la pedagogía para que los hallazgos no se trasladen en silencio de uno a otro: [[k-12|centros de K-12]], que ahora se divide en [[early-childhood-elementary-ai-education|educación infantil]], [[primary-education|educación primaria]] y [[secondary-education|educación secundaria]]; la [[higher-ed|educación superior]], que se divide en estudios de [[undergraduate-education|grado]] y de [[graduate-education|posgrado]]; y los entornos situados fuera de esas escalas, el [[adult-learning|aprendizaje de personas adultas]], la [[vocational-education|formación profesional y vocacional]], la [[special-education|educación especial]] y la [[teacher-education|formación del profesorado]]. [[education-levels|Los niveles educativos]] los compara. Entre los conceptos próximos al dominio que cruzan niveles están el [[universal-design-for-learning|diseño universal para el aprendizaje]], la [[neurodiversity|neurodiversidad]], el [[multilingual-learning|aprendizaje multilingüe]] y el [[social-emotional-learning|aprendizaje socioemocional]].
+
+## El mismo instrumento, decisiones de diseño opuestas
+
+El nivel es la variable que invierte con más claridad una recomendación de diseño. La evidencia en secundaria sitúa al docente entre el estudiantado y la herramienta: en 33 estudios, las ganancias aparecieron donde el estudiantado comparaba las salidas y se desvanecieron donde la herramienta producía el trabajo ([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca et al. (2026)]]).
+
+La evidencia en posgrado apunta en la dirección opuesta, hacia una asociación con una persona humana responsable. El personal que facilita la preparación alcanzó la [[self-efficacy|autoeficacia]] investigadora mediante el apoyo de la supervisión (β = 0,201 indirecto), no mediante el uso de la herramienta ([[luo-ai-readiness-graduate-research-self-efficacy-2026|Luo et al. (2026)]]). Una revisión doctoral llega a la misma conclusión de diseño desde la ética: la legitimidad depende de la tarea y no de la herramienta, la divulgación es proporcional a la significación intelectual y la gobernanza se revisa en hitos ([[guanilo-pareja-genai-doctoral-supervision-2026|Guanilo Pareja et al. (2026)]]).
+
+Lo que no cambia es que una persona humana retiene el juicio. El estudiantado de un seminario de posgrado aceptó las salidas generadas por IA solo después de que una persona con conocimiento las comprobara, lo que Chen lee como agencia delegada y no entregada ([[chen-genai-self-directed-learning-graduate-seminar-2026|Chen (2026)]]). La frecuencia es la métrica equivocada entre niveles: predijo la competencia de posgrado con β = 0,030 una vez que la ética y la autorregulación entraron en el modelo ([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova et al. (2026)]]).
 
 ## Evaluación y medición
 
@@ -181,6 +189,10 @@ La IA en la educación se conecta con todos los demás conceptos del campo, ya q
 **«La madurez del campo puede leerse en su volumen de publicación.»** Volumen y madurez divergen; la línea de métodos de investigación documenta debilidades de diseño recurrentes que el volumen no corrige, y los marcos se multiplican más rápido de lo que se prueban.
 
 ## Conceptos conectados
+- [[primary-education]] — la IA en la educación primaria
+- [[secondary-education]] — la IA en la educación secundaria
+- [[undergraduate-education]] — la IA en los estudios de grado
+- [[graduate-education]] — la IA en los estudios de máster y doctorado
 - [[pedagogical-patterns]] — Las secuencias probadas que operativizan las pedagogías del campo
 - [[ai-literacy]] — marco: comprender, usar y evaluar la IA
 - [[automation-bias]] — el fallo del lado de quien lee: aceptar un juicio automatizado sin comprobarlo
@@ -224,3 +236,8 @@ Revisiones sobre la IA en la educación a escala de todo el campo, es decir, los
 - [[genai-higher-education-systematic-review-2026]] — IA generativa en educación superior: revisión sistemática de 125 estudios
 - [[stanford-evidence-base-ai-k12-2026]] — La base de evidencia sobre IA en K-12: 52 estudios causales sólidos extraídos de 1.686 trabajos del repositorio (actualización de noviembre de 2026)
 - [[genai-educational-outcomes-meta-analysis]] — IA generativa y resultados educativos: metanálisis integral
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 estudios de secundaria; ganancias donde el estudiantado juzga la salida, no donde la herramienta produce el trabajo
+- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 estudiantes de máster; la preparación alcanzó la autoeficacia mediante el apoyo de la supervisión
+- [[guanilo-pareja-genai-doctoral-supervision-2026]] — revisión de 61 fuentes sobre ética, retroalimentación y gobernanza en la supervisión doctoral
+- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — seminario de posgrado de un solo grupo; ganancias de aprendizaje autodirigido sin una prueba sin ayuda
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 estudiantes; brecha grado-posgrado en ética y autorregulación

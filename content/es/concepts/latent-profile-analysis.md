@@ -1,12 +1,12 @@
 ---
 title: Análisis de perfiles latentes
 created: "2026-09-28T21:04:13-04:00"
-updated: "2026-11-13T14:20:00-05:00"
+updated: "2026-11-15T10:26:22-05:00"
 type: concept
 methods: [quantitative-research, research-methods-aied]
 confidence: high
 translation_of: concepts/latent-profile-analysis
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -51,10 +51,10 @@ Se repiten tres usos.
 
 - **Establecer la heterogeneidad antes de diseñar para ella.** La encuesta de Kremen y sus colegas a 395 directivos ucranianos de la educación usó un LCA centrado en las personas para mostrar que «el directivo» es una ficción: seis tipologías van desde la limitada por competencias (25,6 por ciento, dispuesta pero sin habilidades) hasta los escépticos sin barreras (la preparación más alta, pero con un 74 por ciento de desconfianza hacia la IA), y los autores las leen como un mandato de formación diferenciada.
 - **La alineación entre sistemas como comprobación de estabilidad.** [[teachers-ai-belief-profiles-talis-2024-2026|Fang y Jin (2026)]] retuvieron cuatro perfiles de creencias a partir de 40.680 docentes de 49 sistemas educativos (de Indiferente 6,13% a Respaldó mesurado 56,29%), y cambiar la referencia de alineación dejó la concordancia de clasificación en 99,62% —mientras que la utilidad ordenó los perfiles de forma idéntica en los 49 sistemas y el riesgo no lo hizo.
-- **Recuperar subgrupos que un agregado oculta.** Acquah y sus colegas retuvieron cinco perfiles de conciencia ética, desde la muy alta integral (26,1 por ciento) hasta la conciencia ética baja (4,5 por ciento, beneficencia 2,06), un abanico que va de algo más de una cuarta parte de la muestra a menos de una vigésima parte. Chen y sus colegas encontraron que los escépticos reacios declaraban una facilidad de uso percibida alta, pero una intención conductual muy baja: la demostración más clara del corpus de que la paradoja entre facilidad de uso e intención es invisible para un modelo de nivel medio.
+- **Recuperar subgrupos que un agregado oculta.** Acquah y sus colegas retuvieron cinco perfiles de conciencia ética, desde la muy alta integral (26,1 por ciento) hasta la conciencia ética baja (4,5 por ciento, beneficencia 2,06), un abanico que va de algo más de una cuarta parte de la muestra a menos de una vigésima parte. Chen y sus colegas encontraron que los escépticos reacios declaraban una facilidad de uso percibida alta, pero una intención conductual muy baja: la demostración más clara de que la paradoja entre facilidad de uso e intención es invisible para un modelo de nivel medio.
 - **Perfilar la calibración en lugar del nivel.** El estudio sobre la alfabetización en IA del profesorado aplicó el LPA a la concordancia entre las [[self-report-measures|autodeclaraciones]] y las medidas objetivas, y obtuvo seis perfiles: sobreestimación, subestimación, alineación y un grupo bajo/bajo concentrado entre el profesorado sin experiencia previa en [[ai-literacy|alfabetización en IA]]. Aquí los perfiles describen un patrón entre instrumentos, no una banda de puntuación.
 
-Los perfiles sirven entonces como variable independiente: la disciplina moldeó la pertenencia entre futuros docentes (V de Cramér = 0,532, con el estudiantado de STEM concentrado en los pioneros tecnológicos) y la pertenencia predijo más tarde la [[self-efficacy|autoeficacia]], el agotamiento y la [[anxiety-and-stress|ansiedad ante la IA]] en otros puntos del corpus.
+Los perfiles sirven entonces como variable independiente: la disciplina moldeó la pertenencia entre futuros docentes (V de Cramér = 0,532, con el estudiantado de STEM concentrado en los pioneros tecnológicos) y la pertenencia predijo más tarde la [[self-efficacy|autoeficacia]], el agotamiento y la [[anxiety-and-stress|ansiedad ante la IA]] en otros puntos de la literatura.
 
 ## Elegir el número de perfiles
 

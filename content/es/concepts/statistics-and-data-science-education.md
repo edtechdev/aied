@@ -8,9 +8,9 @@ assessment: [assessment-validity]
 discipline: [statistics and data science education]
 confidence: medium
 created: "2026-10-26T21:38:51-04:00"
-updated: "2026-11-13T14:13:17-05:00"
+updated: "2026-11-15T10:14:32-05:00"
 translation_of: concepts/statistics-and-data-science-education
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -47,7 +47,7 @@ Los artículos reunidos aquí comparten un patrón que se deriva del carácter c
 
 Tratar las dos como una sola materia ocultaría la distinción a la que la evidencia vuelve una y otra vez. Los estudios de ciencia de datos tratan del **material generado y su calibración**: la curva de adopción de un tutor de R, preguntas de práctica cuyos metadatos no coinciden con el desempeño del estudiantado, conjuntos de datos cuyas relaciones se afirman en lugar de observarse, gráficos cuyos parámetros de diseño se derivan de la investigación sobre percepción. Ninguno de esos es un problema de educación matemática.
 
-La frontera no es nítida en los bordes. La programación estadística se sitúa dentro de [[cs-education]] en la mayoría de las instituciones, y varios artículos de aquí están archivados allí; el trabajo sobre accesibilidad de los gráficos estadísticos se solapa con la [[special-education|educación especial]] y el diseño [[accessibility|accesible]]; la ciencia de datos responsable se solapa con [[cs-education]] y [[ethics]]. El grupo es una agrupación real, no una sellada.
+La frontera no es nítida en los bordes. La programación estadística se sitúa dentro de [[cs-education]] en la mayoría de las instituciones, y varios artículos de aquí están archivados allí; el trabajo sobre accesibilidad de los gráficos estadísticos se solapa con la [[special-education|educación especial]] y el diseño [[accessibility|accesible]]; la ciencia de datos responsable se solapa con [[cs-education]] y [[ethics]]. El grupo es una agrupación real, no una categoría cerrada.
 
 [[lund-socially-accountable-data-science-xai-2026|Lund y colegas (2026)]] marcan ese solapamiento desde el lado del currículo: cuatro pilares de responsabilidad (capacidad de respuesta, responsabilidad, aplicación y reflexividad) cruzados con cuatro dimensiones de [[explainable-ai|IA explicable]], enseñados mediante tarjetas de modelo calificadas, auditorías de explicaciones con LIME y SHAP, y evaluaciones de impacto, con los autores admitiendo que la explicación no es rendición de cuentas.
 

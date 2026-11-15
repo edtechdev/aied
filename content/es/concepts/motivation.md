@@ -1,7 +1,7 @@
 ---
 title: Motivación
 created: "2026-09-28T18:17:50-04:00"
-updated: "2026-11-13T14:15:59-05:00"
+updated: "2026-11-15T10:16:27-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/motivation
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -30,11 +30,11 @@ ai_assist:
 
 ## Preguntas para reflexionar
 
-- La motivación se trata a menudo como un rasgo que algunos estudiantes «tienen» y otros no. La página la describe, en cambio, como procesos psicológicos que inician, dirigen y sostienen la conducta, y como algo evolutivo y socialmente andamiado. ¿Cómo replantea eso a quién corresponde la responsabilidad de la motivación del estudiantado?
+- La motivación se trata a menudo como un rasgo que algunos estudiantes «tienen» y otros no. La motivación es, en cambio, procesos psicológicos que inician, dirigen y sostienen la conducta, y algo evolutivo y socialmente andamiado. ¿Cómo replantea eso a quién corresponde la responsabilidad de la motivación del estudiantado?
 - Las herramientas de IA pueden eliminar fricciones y hacer el aprendizaje más accesible, pero también pueden reducir el esfuerzo cognitivo y la dificultad que sostienen la motivación intrínseca. ¿Cuándo ha hecho que algo sea «más fácil» que resultara en realidad menos motivador o menos satisfactorio para usted?
 - La teoría de la autodeterminación sostiene que la motivación intrínseca crece con la autonomía, la competencia y la relación con los demás. Si un [[intelligent-tutoring|tutor de IA]] hace la mayor parte del trabajo, ¿cuál de esas tres podría verse amenazada y cuál potenciada?
 - La investigación encuentra perfiles motivacionales distintos entre estudiantes de un [[curriculum-design|currículo]] con IA, y que alcanzar un perfil autodeterminado predecía las mayores ganancias de alfabetización en IA. ¿Qué haría falta para que quien aprende pase de estar pasivamente desimplicado a ser genuinamente autodeterminado en el uso de la IA?
-- La página informa de que el apoyo docente impulsa la implicación asistida por IA en gran medida a través de metas de aproximación al dominio y de aproximación al rendimiento, es decir, orientaciones de «aproximación» y no de «evitación». ¿Cómo configura el modo en que un docente enmarca el uso de la IA («para acertar» frente a «para no parecer equivocado») la profundidad de la implicación del estudiantado?
+- El apoyo docente impulsa la implicación asistida por IA en gran medida a través de metas de aproximación al dominio y de aproximación al rendimiento, es decir, orientaciones de «aproximación» y no de «evitación». ¿Cómo configura el modo en que un docente enmarca el uso de la IA («para acertar» frente a «para no parecer equivocado») la profundidad de la implicación del estudiantado?
 - Si diseña para la motivación, ¿el objetivo es hacer el aprendizaje más fácil, más atractivo o más significativamente esforzado? ¿Dónde tiran en direcciones opuestas la [[accessibility|accesibilidad]] y la motivación intrínseca?
 
 ## Introducción

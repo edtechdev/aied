@@ -1,7 +1,7 @@
 ---
 title: Pensamiento computacional
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-11-05T16:18:45-05:00"
+updated: "2026-11-15T10:15:49-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-11-13T13:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,8 @@ Al automatizarse la implementación, las competencias duraderas cambian: un info
 - **Un instrumento validado localiza dónde el PC es más difícil.** Una prueba de pensamiento computacional de 34 ítems construida con Diseño Centrado en la Evidencia y validada mediante teoría de respuesta al ítem en 461 estudiantes de programación con IA concentró la dificultad en la representación de datos, la secuenciación de operadores lógicos y las estructuras de bucle en lugar de repartirla uniformemente por el temario ([[zhang-ct-ai-training-test-2026|Zhang y Zhang (2026)]]).
 
 - La elección de la medida cambia el veredicto: las entradas de pensamiento computacional y crítico alcanzaron conclusiones discordantes o mixtas en 13 de 23 pares del mismo constructo, de modo que una encuesta de PC autoinformada y una medida basada en tareas a menudo discrepan ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
+
+- El pensamiento computacional también se mide como disposición: en un estudio de juegos de tres semanas con estudiantado de quinto grado, las tendencias autodeclaradas de PC ajustadas favorecieron a la clase con IA generativa, 4,325 frente a 4,037 (p = 0,046, eta cuadrado parcial = 0,052, n = 78). Una prueba de conocimiento algorítmico no separó a los grupos (80,7 frente a 74,9), de modo que las medidas de tendencia y de conocimiento rastreaban constructos distintos ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
 
 ## El PC y el giro de consumidores de IA a productores, creadores y diseñadores
 

@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy, vibe-coding-center, agentic-builds]
 title: "Vibe coding"
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-11-05T16:05:16-05:00"
+updated: "2026-11-15T10:10:18-05:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
 translation_of: concepts/vibe-coding
-source_updated: "2026-11-13T09:20:35-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

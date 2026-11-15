@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Generación automática de preguntas
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-11-13T14:00:00-05:00"
+updated: "2026-11-15T10:12:10-05:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/automated-question-generation
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -46,7 +46,7 @@ La investigación ilustra varios enfoques:
 
 - **Cadenas de generar y validar:** [[generate-then-validate-question-gen|Generate-Then-Validate]] presenta un bucle de generación → validación → refinamiento que reduce la alucinación del LLM en 62% frente a la generación directa, alcanza 89% de precisión en conjuntos de datos de [[stem-education|STEM]] y una mejora de 23% en pertinencia. El paso de validación filtra los ítems inválidos o de baja calidad, y los ítems fallidos activan una regeneración con consignas correctivas.
 - **Generación basada en el seguimiento del conocimiento:** [[kt4eqg-personalized-question-generation|KT4EQG]] genera preguntas de ejercicio personalizadas guiadas por el [[knowledge-tracing|seguimiento del conocimiento]], ajustando los ítems al estado de conocimiento de cada estudiante en lugar de generar preguntas genéricas.
-- **Distractores ligados a concepciones erróneas como etiquetas diagnósticas:** [[colearn-agentic-tutor-co-learning-loop-2026|CoLearn (He et al., 2026)]] asocia cada distractor a una única concepción errónea extraída y marca exactamente una opción correcta, de modo que el ítem se genera con sus objetivos diagnósticos incorporados y después puede calificarse de forma determinista sin ninguna llamada al [[llm]]: unos 7,6 segundos y aproximadamente \$0,005 por ronda en el despliegue real de los autores, frente a unos 32 segundos y \$0,015 por una ronda de respuesta corta calificada con un LLM. El vínculo es tan bueno como las etiquetas de concepciones erróneas que hay detrás, ya que las [[misconceptions|concepciones erróneas]] extraídas coincidían con las concepciones erróneas objetivo con F1 ≈ 0,56, y sus opciones de ítem atendían a una habilidad realmente débil 0,72 de las veces.
+- **Distractores ligados a concepciones erróneas como etiquetas diagnósticas:** [[colearn-agentic-tutor-co-learning-loop-2026|CoLearn (He et al., 2026)]] asocia cada distractor a una única concepción errónea extraída y marca exactamente una opción correcta, de modo que el ítem se genera con sus objetivos diagnósticos incorporados y después puede calificarse de forma determinista sin ninguna llamada al [[llm|LLM]]: unos 7,6 segundos y aproximadamente \$0,005 por ronda en el despliegue real de los autores, frente a unos 32 segundos y \$0,015 por una ronda de respuesta corta calificada con un LLM. El vínculo es tan bueno como las etiquetas de concepciones erróneas que hay detrás, ya que las [[misconceptions|concepciones erróneas]] extraídas coincidían con las concepciones erróneas objetivo con F1 ≈ 0,56, y sus opciones de ítem atendían a una habilidad realmente débil 0,72 de las veces.
 - **Generación con conciencia de la profundidad cognitiva:** [[llm-educational-question-cognitive-depth|Evaluating the cognitive depth of LLM-generated questions]] examina si los ítems generados apelan al [[critical-thinking|pensamiento de orden superior]] (creación, evaluación) o solo a la memorización, en conexión con la taxonomía de Bloom y la [[educational-measurement|medición educativa]].
 - **Problemas de caso con errores incorporados para la evaluación repetida:** [[automated-constructive-assessment-hdr-llm-2026|Takahashi et al. (2026)]] generaron nuevos problemas de razonamiento diagnóstico jerárquico (HDR) —casos breves que llevan errores deliberadamente incorporados y que el estudiantado debe encontrar y explicar— y encontraron que los ítems redactados por GPT-4o igualaban a los redactados por personas en consistencia interna (α de Cronbach = 0,78 en ambos) y en dificultad, sin que las pruebas exactas de Fisher encontraran diferencias significativas en la distribución de puntuaciones entre 100 participantes. El formato combina una exigencia de [[critical-thinking|pensamiento de orden superior]] con una respuesta acotada, de modo que las respuestas convergen y la calificación se vuelve reproducible. La motivación generativa es la reutilización de ítems: reutilizar un caso invita a reutilizar el recuerdo y las respuestas, mientras que casos generados estructuralmente equivalentes pero contextualmente distintos suprimen el sesgo de ítem en la remedición.
 - **Cadenas [[pedagogy|pedagógicas]]:** [[slidesqaqa-pedagogical-question-generation|Slide-deck Q&A generation]] usa una cadena de varias etapas para generar preguntas pedagógicamente sólidas a partir de materiales de curso.

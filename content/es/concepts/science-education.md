@@ -6,9 +6,9 @@ technology: [generative-ai]
 discipline: [science education, stem education]
 confidence: medium
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-11-05T16:05:17-05:00"
+updated: "2026-11-15T10:14:32-05:00"
 translation_of: concepts/science-education
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+connected_resources: [teacher-dev]
 ---
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*

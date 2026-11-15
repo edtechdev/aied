@@ -1,7 +1,7 @@
 ---
 title: Empatía
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-12T22:30:00-05:00"
+updated: "2026-11-15T10:10:18-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [professional-training, experiential-learning, social-emotional-learning]
@@ -10,7 +10,7 @@ ethics: [pedagogical-safety, privacy]
 audience: [instructors, medical educators, curriculum designers, researchers]
 level: [higher ed, k 12]
 confidence: medium
-source_updated: "2026-11-12T21:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_of: concepts/empathy
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]

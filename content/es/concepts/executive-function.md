@@ -1,14 +1,14 @@
 ---
 title: Función ejecutiva
 created: "2026-11-12T22:30:00-05:00"
-updated: "2026-11-13T14:30:00-05:00"
+updated: "2026-11-15T10:10:18-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
 methods: [research-methods-aied]
 contributors: [editor]
 translation_of: concepts/executive-function
-source_updated: "2026-11-13T01:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
