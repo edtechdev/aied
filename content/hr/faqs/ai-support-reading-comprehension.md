@@ -10,9 +10,9 @@ technology: [educational-nlp, generative-ai, llm]
 ethics: [accessibility]
 audience: [instructors, curriculum designers, instructional designers]
 level: [higher ed, secondary, primary education]
-updated: "2026-11-08T04:27:04-05:00"
+updated: "2026-11-15T16:16:18-05:00"
 translation_of: "faqs/ai-support-reading-comprehension"
-source_updated: "2026-11-06T02:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Ako predajete bilo koji predmet, birate tekstove za čitanje, prilagođavate tek
 
 **Pronaći i prilagoditi tekstove na veliko.** AI je jak u pronalaženju izvora, pojednostavljivanju rječnika, stvaranju pojmovnika i pretvaranju odlomka u [[study-with-ai|vodič za učenje ili sažetak]]. Koristite ga za mehaničke dijelove pripreme čitanja — skeniranje, niveliranje, izdvajanje ključnih pojmova — a ljudsku provjeru zadržite za ono što je važno.
 
-**Modelirajte čitatelja, a ne tekst.** Budući da varijable čitatelja nose velik dio signala u tome koliko tekst izgleda teško, alati koji profiluiraju čitatelja predviđaju percipiranu težinu bolje od bilo koje formule. U najvećoj studiji u bazi znanja, 193 njemačka gimnazijalca ocijenila su 3.954 rečenice, a modeli temeljeni na profilu (najbolji ansambl RMSE 0,822 prema prosječnoj osnovici od 1,070) pobijedili su Fleschove ocjene tekstova, koje su isti materijal ocijenile mnogo težim nego što su ga studenti doživjeli — 72,8% anotacija bilo je lako ili vrlo lako ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad, 2025]]). Praktična verzija: ocjene nekoliko studenata o odlomku pobjeđuju oznaku bilo koje formule.
+**Modelirajte čitatelja, a ne tekst.** Budući da varijable čitatelja nose velik dio signala u tome koliko tekst izgleda teško, alati koji profiluiraju čitatelja predviđaju percipiranu težinu bolje od bilo koje formule. U najvećoj studiji u ovoj literaturi, 193 njemačka gimnazijalca ocijenila su 3.954 rečenice, a modeli temeljeni na profilu (najbolji ansambl RMSE 0,822 prema prosječnoj osnovici od 1,070) pobijedili su Fleschove ocjene tekstova, koje su isti materijal ocijenile mnogo težim nego što su ga studenti doživjeli — 72,8% anotacija bilo je lako ili vrlo lako ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad, 2025]]). Praktična verzija: ocjene nekoliko studenata o odlomku pobjeđuju oznaku bilo koje formule.
 
 ## Gdje AI podbacuje
 

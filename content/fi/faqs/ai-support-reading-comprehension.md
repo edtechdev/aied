@@ -10,9 +10,9 @@ technology: [educational-nlp, generative-ai, llm]
 ethics: [accessibility]
 audience: [instructors, curriculum designers, instructional designers]
 level: [higher ed, secondary, primary education]
-updated: "2026-11-08T04:27:04-05:00"
+updated: "2026-11-15T16:19:00-05:00"
 translation_of: "faqs/ai-support-reading-comprehension"
-source_updated: "2026-11-06T02:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Jos opetat mitä tahansa ainetta, valitset luettavaa, mukautat tekstejä ja pä�
 
 **Etsi ja mukauta tekstejä mittakaavassa.** Tekoäly on vahva lähteiden paikantamisessa, sanaston yksinkertaistamisessa, sanastojen luomisessa ja kappaleen muuttamisessa [[study-with-ai|lukuoppaaksi tai tiivistelmäksi]]. Käytä sitä lukemisen valmistelun mekaanisiin osiin — skannaus, tasoitus, avaintermien poiminta — ja pidä ihmisen tarkistus siinä, mikä on tärkeää.
 
-**Mallinna lukijaa, älä tekstiä.** Koska lukijamuuttujat kantavat suuren osan signaalista siinä, miten vaikealta teksti tuntuu, lukijaa profiloivat työkalut ennustavat koettua vaikeutta paremmin kuin mikään kaava. Tietopohjan suurimmassa tutkimuksessa 193 saksalaista lukiolaista arvioi 3 954 lausetta, ja profiilipohjaiset mallit (paras yhdistelmä RMSE 0,822 vs. keskiarvon perustaso 1,070) voittivat tekstien Flesch-pisteet, jotka arvioivat saman materiaalin paljon vaikeammaksi kuin opiskelijat kokivat — 72,8 % annotaatioista oli helppoja tai erittäin helppoja ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad, 2025]]). Käytännön versio: muutaman opiskelijan arviot kappaleesta voittavat minkä tahansa kaavan leiman.
+**Mallinna lukijaa, älä tekstiä.** Koska lukijamuuttujat kantavat suuren osan signaalista siinä, miten vaikealta teksti tuntuu, lukijaa profiloivat työkalut ennustavat koettua vaikeutta paremmin kuin mikään kaava. Tämän kirjallisuuden suurimmassa tutkimuksessa 193 saksalaista lukiolaista arvioi 3 954 lausetta, ja profiilipohjaiset mallit (paras yhdistelmä RMSE 0,822 vs. keskiarvon perustaso 1,070) voittivat tekstien Flesch-pisteet, jotka arvioivat saman materiaalin paljon vaikeammaksi kuin opiskelijat kokivat — 72,8 % annotaatioista oli helppoja tai erittäin helppoja ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad, 2025]]). Käytännön versio: muutaman opiskelijan arviot kappaleesta voittavat minkä tahansa kaavan leiman.
 
 ## Missä tekoäly jää vajaaksi
 

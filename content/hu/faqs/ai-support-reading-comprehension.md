@@ -10,9 +10,9 @@ technology: [educational-nlp, generative-ai, llm]
 ethics: [accessibility]
 audience: [instructors, curriculum designers, instructional designers]
 level: [higher ed, secondary, primary education]
-updated: "2026-11-08T04:27:04-05:00"
+updated: "2026-11-15T16:18:05-05:00"
 translation_of: "faqs/ai-support-reading-comprehension"
-source_updated: "2026-11-06T02:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Ha bármilyen tantárgyat tanít, olvasmányokat választ, szövegeket adaptál,
 
 **Szövegek keresése és adaptálása nagy léptékben.** A MI erős a források megtalálásában, a szókincs egyszerűsítésében, szószedetek készítésében és egy szakasz [[study-with-ai|tanulmányi útmutatóvá vagy összefoglalóvá]] alakításában. Használja az olvasás-előkészítés mechanikus részeihez — pásztázás, szintezés, kulcsfogalmak kiemelése —, és tartsa meg az emberi ellenőrzést ott, ami számít.
 
-**Az olvasót modellezze, ne a szöveget.** Mivel az olvasói változók hordozzák a jel jelentős részét abban, mennyire nehéznek tűnik egy szöveg, az olvasót profilírozó eszközök jobban előrejelzik az észlelt nehézséget, mint bármely képlet. A tudásbázis legnagyobb tanulmányában 193 német gimnazista értékelt 3 954 mondatot, és a profilalapú modellek (legjobb együttes RMSE 0,822 szemben az 1,070-es átlagos alappal) legyőzték a szövegek Flesch-pontszámait, amelyek ugyanazt az anyagot sokkal nehezebbnek értékelték, mint ahogy a diákok megélték — az annotációk 72,8%-a könnyű vagy nagyon könnyű volt ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad, 2025]]). A gyakorlati változat: néhány diák értékelése egy szakaszról legyőzi bármely képlet címkéjét.
+**Az olvasót modellezze, ne a szöveget.** Mivel az olvasói változók hordozzák a jel jelentős részét abban, mennyire nehéznek tűnik egy szöveg, az olvasót profilírozó eszközök jobban előrejelzik az észlelt nehézséget, mint bármely képlet. E terület legnagyobb tanulmányában 193 német gimnazista értékelt 3 954 mondatot, és a profilalapú modellek (legjobb együttes RMSE 0,822 szemben az 1,070-es átlagos alappal) legyőzték a szövegek Flesch-pontszámait, amelyek ugyanazt az anyagot sokkal nehezebbnek értékelték, mint ahogy a diákok megélték — az annotációk 72,8%-a könnyű vagy nagyon könnyű volt ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad, 2025]]). A gyakorlati változat: néhány diák értékelése egy szakaszról legyőzi bármely képlet címkéjét.
 
 ## Hol marad el a MI
 
@@ -48,4 +48,4 @@ Ha bármilyen tantárgyat tanít, olvasmányokat választ, szövegeket adaptál,
 
 **Amikor MI-vel adaptál egy szöveget,** tartsa láthatóvá és ellenőrizhetővé az adaptációt. Az egymás melletti eredetiek és egyszerűsített változatok lehetővé teszik a diákok (és Ön) számára, hogy lássák, mi változott, és olyan támaszt adnak a többnyelvű tanulóknak, amely nem rejti el az eredetit ([[ai-multilingual-learners|hogyan kezeli a MI a többnyelvű tanulókat]] fedi a nyelvi megfelelőség kockázatait).
 
-**Amikor egy olvasóeszközt vagy felületet értékel,** kérdezze meg, az egyéni olvasót modellezi-e, vagy egyetlen globális címkét üt rá. Második nyelvi olvasóknál a különbség gyakran az egész történet. Kutatóknak a nyitott probléma a mérés: a [[reading-education|olvasási nevelés]] oldal négy kutatási irányt térképez fel — támogatás olvasás közben, olvasás értékelése, adaptív szöveg, és mindhárom alatti mérési kérdés (az [[educational-measurement|mérés]] a lánc gyenge láncszeme) —, és a bizonyítékokat ígéretesként, de egyenetlenként jelenti, így egy eszköz olvasási előnyeiről szóló erős állítások ugyanolyan szkepticizmust érdemelnek, mint bármely [[checking-whether-educational-ai-works|MI-tanulási állítás]].
+**Amikor egy olvasóeszközt vagy felületet értékel,** kérdezze meg, az egyéni olvasót modellezi-e, vagy egyetlen globális címkét üt rá. Második nyelvi olvasóknál a különbség gyakran az egész történet. Kutatóknak a nyitott probléma a mérés: a [[reading-education|olvasási nevelés]] négy kutatási irányt térképez fel — támogatás olvasás közben, olvasás értékelése, adaptív szöveg, és mindhárom alatti mérési kérdés (az [[educational-measurement|mérés]] a lánc gyenge láncszeme) —, és a bizonyítékokat ígéretesként, de egyenetlenként jelenti, így egy eszköz olvasási előnyeiről szóló erős állítások ugyanolyan szkepticizmust érdemelnek, mint bármely [[checking-whether-educational-ai-works|MI-tanulási állítás]].

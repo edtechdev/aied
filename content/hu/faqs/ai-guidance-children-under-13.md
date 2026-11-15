@@ -12,9 +12,9 @@ research_method: [literature review, experiment]
 audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:18:18-05:00"
 translation_of: faqs/ai-guidance-children-under-13
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ A szolgáltató feltételei szerint az eszköz 13 éves és idősebb felhasznál
 
 Három kérdés gabalyodik össze ebben a kérésben: mit tehet egy hatéves ezekkel a rendszerekkel, mit köszönhet az iskola azoknak a családoknak, akiknek a gyereke otthon találkozik a MI-vel, és mit kell tenni, ha a tiltás nem olyan válasz, amelyet meg tud védeni.
 
-A rövid válasz, amelyet a testületnek adhat: életkor szerint szintezze a hozzáférést, tanítsa meg a gyerekeknek, hogyan épülnek fel ezek a rendszerek, mielőtt átadna nekik egyet, és tartson felnőttet a folyamatban mindenhol, ahol a gyerek nem tudja megítélni a kimenetet. A teljes tiltás a legkevésbé bizonyított lehetőség. Ebben a tudásbázisban nem létezik tanulmány az életkor szerinti tiltásokról, és e korosztály kitettségének nagy része otthon történik, ahová az iskolai szabály nem ér el.
+A rövid válasz, amelyet a testületnek adhat: életkor szerint szintezze a hozzáférést, tanítsa meg a gyerekeknek, hogyan épülnek fel ezek a rendszerek, mielőtt átadna nekik egyet, és tartson felnőttet a folyamatban mindenhol, ahol a gyerek nem tudja megítélni a kimenetet. A teljes tiltás a legkevésbé bizonyított lehetőség. Nem létezik tanulmány az életkor szerinti tiltásokról, és e korosztály kitettségének nagy része otthon történik, ahová az iskolai szabály nem ér el.
 
 ## A rövid változat
 
@@ -52,7 +52,7 @@ A szintezett kialakítást nem Önnek kell kitalálnia. [[age-tiered-ai-literacy
 
 A két kiadás azt is megmutatja, mire való a határvonal. Az általános iskolai sáv platformalapú, állványozott és nem generatív tevékenységeket kap, így a gyerek megtanulja, mit tesz a rendszer, anélkül hogy egy rendszer visszabeszélne neki. A haladó sáv az etikai érvelést felügyelt generatív használathoz kapcsolja. Azok a munkatársak, akik azt várják, hogy az elköteleződés követi az eszköz kifinomultságát, rendszerint az ellenkezőjét tapasztalják.
 
-Amit a szintezés ad Önnek, az egy védhető műveleti sorrend. Sok iskola fordítva csinálja: ősszel megveszi a csevegőrobotot, és tavasszal tanít róla, ennek a sorrendnek a bizonyítékai pedig lejjebb találhatók ezen az oldalon.
+Amit a szintezés ad Önnek, az egy védhető műveleti sorrend. Sok iskola fordítva csinálja: ősszel megveszi a csevegőrobotot, és tavasszal tanít róla, holott a védhető sorrend éppen a fordított.
 
 ## Kezdje a legkisebbeket játékkal, alkotással és gépekkel
 
@@ -66,7 +66,7 @@ A gépek működésének tanítása is ebbe a sávba tartozik. [[tsingidou-ct-ro
 
 ## Vigye a 9 és 12 év közöttieket ellenőrzött, nagyrészt nem generatív munkára
 
-Ez az a sáv, ahol a tantervi bizonyíték a legerősebb. [[demir-akar-ai-media-literacy-children-2026|Demir és Akar (2026)]] egy 18 órás, 5E-alapú kritikus médiaműveltség-programot vezetett 36 török negyedikesnek, amely az adatvédelmet, a biztonságos kommunikációt és a [[ethics|médiaetikát]] fedte le, a csoportok közötti Cohen-*d* 1,12 volt az olvasásnál, 1,18 az írásnál és 1,31 a teljes műveltségnél. Egy program, amely belefér egyetlen szemeszterbe, és ekkora hatást mutat, ezen az oldalon a legbíztatóbb eredmény.
+Ez az a sáv, ahol a tantervi bizonyíték a legerősebb. [[demir-akar-ai-media-literacy-children-2026|Demir és Akar (2026)]] egy 18 órás, 5E-alapú kritikus médiaműveltség-programot vezetett 36 török negyedikesnek, amely az adatvédelmet, a biztonságos kommunikációt és a [[ethics|médiaetikát]] fedte le, a csoportok közötti Cohen-*d* 1,12 volt az olvasásnál, 1,18 az írásnál és 1,31 a teljes műveltségnél. Egy program, amely belefér egyetlen szemeszterbe, és ekkora hatást mutat, ebben a szakirodalomban a legbíztatóbb eredmény.
 
 A 9 és 12 év közöttiek állványozott kitettséget kapnak olyan platformokon, amelyeket az iskola ellenőrzött, a generatív részeket későbbre és felügyelet alá tartva. Amikor a gyerek már tud olvasni, érvelni és ellenőrizni egy állítást, a munka az lesz, hogy megtanítsuk neki, mit tesz a rendszer, és az eszköz a segítő helyett a vizsgálat tárgyaként léphet be.
 
@@ -126,7 +126,7 @@ Ebben a korosztályban ez sorrendet ad: először róla és alakítása által, 
 
 Egy testületi előterjesztés ígérhet felülvizsgálati dátumot és olyan sikerdefiníciót, amelyet az iskola ténylegesen ellenőrizni tud: megtartott órák, szülői kérdésre válaszolni tudó tanárok, írásban megválaszolt adatkérések. Tanulási nyereséget állítani túllépne minden itt idézett tanulmányon.
 
-Ebben a tudásbázisban nincs tanulmány az életkor szerinti tiltásokról. Semmi itt nem döntheti el, hogy a most egyes iskolarendszerekben megjelenő tiltások működnek-e, és ennek a mondatnak a becsületes változata a testületi előterjesztésbe tartozik. Amit a bizonyítékok mutatnak: a tiltás alternatívája nem a teljes szabadság. [[moral-panic-genai-classroom|A GenAI elérhetőségét és integrációját összehasonlító vizsgálat]] azt találta, hogy a GenAI elérhetővé tétele anélkül, hogy megtanítanák a diákoknak a használatát, szignifikánsan alacsonyabb teljesítménnyel járt az alkalmazott kérdéseken (ω² = 0,35), míg a használat kifejezett tanítása olyan feladatoknál, mint az összefoglalás, visszahozta az alkalmazott teljesítményt a GenAI előtti szintre, és egy nehezebb kvízen meghaladta a kiinduló szintet. Ezt a korosztályt tanítani lehet: a fenti negyedikes program *d* = 1,12 és 1,31 közötti hatásokat hozott.
+Nincs tanulmány az életkor szerinti tiltásokról. A rendelkezésre álló bizonyíték nem döntheti el, hogy a most egyes iskolarendszerekben megjelenő tiltások működnek-e, és ennek a mondatnak a becsületes változata a testületi előterjesztésbe tartozik. Amit a bizonyítékok mutatnak: a tiltás alternatívája nem a teljes szabadság. [[moral-panic-genai-classroom|A GenAI elérhetőségét és integrációját összehasonlító vizsgálat]] azt találta, hogy a GenAI elérhetővé tétele anélkül, hogy megtanítanák a diákoknak a használatát, szignifikánsan alacsonyabb teljesítménnyel járt az alkalmazott kérdéseken (ω² = 0,35), míg a használat kifejezett tanítása olyan feladatoknál, mint az összefoglalás, visszahozta az alkalmazott teljesítményt a GenAI előtti szintre, és egy nehezebb kvízen meghaladta a kiinduló szintet. Ezt a korosztályt tanítani lehet: a fenti negyedikes program *d* = 1,12 és 1,31 közötti hatásokat hozott.
 
 ## Mit ront el az iskola
 

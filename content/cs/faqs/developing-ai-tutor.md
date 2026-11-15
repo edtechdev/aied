@@ -12,9 +12,9 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T11:57:26-04:00"
+updated: "2026-11-15T16:27:51-05:00"
 translation_of: faqs/developing-ai-tutor
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -84,7 +84,7 @@ Podpora se s rostoucí kompetencí vytrácí, což je mechanismus v jádru [[sca
 
 Kauzální důkaz pro to, stavět žebřík vůbec, pochází z terénního experimentu, v němž nehlídané rozhraní GPT zvýšilo výkon v matematice s pomocí a snížilo následný výkon u zkoušky bez pomoci. Tutor, který dával nápovědy, ten pokles učení z velké části odstranil ([[generative-ai-guardrails-harm-learning|Generativní AI bez zábran může škodit učení]]). Omezení je architektonické. Stejný model s jiným chováním pomoci dosáhl opačných výsledků na míře, na které záleží.
 
-Větší randomizovaný terénní experiment s více než 6 000 žáky druhého stupně na platformě pro procvičování založené na zvládnutí ukazuje, jak žebřík vypadá v záznamech. Studenti zařazení k podpoře AI postupovali pomaleji a zkoušeli méně otázek, ale odpovídali přesněji. Nejjasnější mechanismus byla správnost dalšího pokusu po chybě: k návratu ke správné odpovědi bylo potřeba méně pokusů. Tento vzorec je produktivní zpomalení a je to podpis, který má žebřík nápověd zanechat ([[making-ai-tutoring-productive-mastery-math-2026|Jak udělat doučování s AI produktivní]]).
+Větší randomizovaný terénní experiment s více než 6 000 žáky druhého stupně na platformě pro procvičování založené na zvládnutí ukazuje, jak žebřík vypadá v [[learning-analytics|záznamech]]. Studenti zařazení k podpoře AI postupovali pomaleji a zkoušeli méně otázek, ale odpovídali přesněji. Nejjasnější mechanismus byla správnost dalšího pokusu po chybě: k návratu ke správné odpovědi bylo potřeba méně pokusů. Tento vzorec je produktivní zpomalení a je to podpis, který má žebřík nápověd zanechat ([[making-ai-tutoring-productive-mastery-math-2026|Jak udělat doučování s AI produktivní]]).
 
 Stejná studie přináší varování i pro vaše dashboardy. Požadavek tří správných odpovědí v řadě prudce zvýšil zvládnutí definované platformou, aniž přinesl zjistitelné zisky v odloženém testu o týden později. Nejsilnější důkazy z odloženého testu se objevily jen tam, kde AI seděla uvnitř pracovního postupu zvládnutí (koeficient 0,085), ne tam, kde byla dostupná jako samostatný přístup. Pokud je vaší metrikou úspěchu počítadlo sérií, dodáte systém, který optimalizuje sérii.
 
@@ -114,7 +114,7 @@ Testujte prosakování odpovědí, upevňování miskoncepcí, nadměrný souhla
 
 ## Dejte datovou architekturu do stejného návrhového dokumentu
 
-Sbírejte jen data o studentech, která jsou pedagogicky nutná, a umějte u každého pole říct, proč existuje. Kde uchováváte trvalou paměť nebo [[student-modeling|model studenta]], udělejte jeho účel studentovi viditelným, dejte mu přiměřenou kontrolu, chraňte citlivé informace, definujte dobu uchování a rozhodnutí s vážnými důsledky směrujte instruktorovi nebo jinému [[human-in-the-loop-ai|kontrolnímu bodu s člověkem]]. Model studenta, který potichu hromadí odhad jistoty, který student nikdy nevidí, je problém ochrany dat i problém pedagogický.
+Sbírejte jen data o studentech, která jsou pedagogicky nutná, a umějte u každého pole říct, proč existuje. Kde uchováváte trvalou paměť nebo [[student-modeling|model studenta]], udělejte jeho účel studentovi viditelným, dejte mu přiměřenou kontrolu, chraňte citlivé informace, definujte dobu uchování a rozhodnutí s vážnými důsledky směrujte instruktorovi nebo jinému [[human-in-the-loop-ai|kontrolnímu bodu s člověkem]]. Model studenta, který potichu hromadí odhad jistoty, který student nikdy nevidí, je [[privacy|problém ochrany dat]] i problém pedagogický.
 
 Auditujte chování napříč jazykovým zázemím, úrovněmi schopností, kulturními kontexty, potřebami [[accessibility|přístupnosti]] a úrovněmi [[prior-knowledge|předchozích znalostí]] a zkušeností s AI. Rozdílný výkon na stejném cíli je chyba, ke které patří student, a v agregované metrice přesnosti se neobjeví.
 
@@ -209,11 +209,11 @@ Zapojení je cíl. Délka rozhovoru a počet relací jsou nejlevnější metriky
 
 **„Studenti to milují a dokončení roste.“** Obě skutečnosti jsou slučitelné se systémem, který dobře odpovídá na otázky a nic neučí. Studie se 6 000 studenty našla pomalejší postup a méně zkoušených otázek vedle lepší přesnosti, takže pokles dokončení také není automaticky špatná zpráva. Vykazujte výkon bez pomoci vedle čísel o zapojení a nechte je veřejně se rozejít.
 
-**„Nemůžeme spustit randomizovaný pokus.“** Můžete spustit srovnání v rámci studenta i bez něj: stejný cíl, s pomocí během celku, testovaný bez pomoci o dva týdny později, s výsledkem s pomocí uvedeným vedle. Takový návrh odpovídá na produktovou otázku a nepotřebuje kontrolní rameno. Co vám neřekne, je protifakt pro studenty, kteří tutora nikdy nepoužívali.
+**„Nemůžeme spustit [[rct|randomizovaný pokus]].“** Můžete spustit srovnání v rámci studenta i bez něj: stejný cíl, s pomocí během celku, testovaný bez pomoci o dva týdny později, s výsledkem s pomocí uvedeným vedle. Takový návrh odpovídá na produktovou otázku a nepotřebuje kontrolní rameno. Co vám neřekne, je protifakt pro studenty, kteří tutora nikdy nepoužívali.
 
-**„Model je API dodavatele, takže chování pomoci je mimo naše ruce.“** Příčky žijí ve vaší orchestrační vrstvě a výsledek experimentu se zábranami vzešel ze změny toho, co tutor směl říkat, ne z výměny modelů. Očekávejte, že další trénování u dodavatele bude táhnout k okamžitému odpovídání, protože na užitečnost bylo laděno, a zdrženlivost dejte do vlastního kódu.
+**„Model je API dodavatele, takže chování pomoci je mimo naše ruce.“** Příčky žijí ve vaší orchestrační vrstvě a výsledek experimentu se zábranami vzešel ze změny toho, co tutor směl říkat, ne z výměny modelů. Očekávejte, že [[llm-training-and-fine-tuning|další trénování u dodavatele]] bude táhnout k okamžitému odpovídání, protože na užitečnost bylo laděno, a zdrženlivost dejte do vlastního kódu.
 
-**„Učitelé nebudou používat další dashboard.“** Nebudou používat takový, který vysílá nepřetržitou diagnostiku, což podle přehledu z K-12 odvádělo pozornost od jejich vlastního pozorování. Dejte jim malý počet interpretovatelných signálů, způsob, jak každé doporučení přijmout nebo odmítnout, a čas v týdnu se na ně podívat.
+**„Učitelé nebudou používat další dashboard.“** Nebudou používat takový, který vysílá nepřetržitou diagnostiku, což podle přehledu z [[k-12|K-12]] odvádělo pozornost od jejich vlastního pozorování. Dejte jim malý počet interpretovatelných signálů, způsob, jak každé doporučení přijmout nebo odmítnout, a čas v týdnu se na ně podívat.
 
 **„Nemáme v týmu oborové experty.“** Pak bude tutor učit obecný postup a notace kurzu se během semestru rozjede. Oborový expert na dva dny v době návrhu, který napíše seznam miskoncepcí a seznam schválených postupů, je nejlevnější položka projektu a ta, kterou týmy škrtají první.
 

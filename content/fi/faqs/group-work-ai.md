@@ -11,9 +11,9 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:16:13-05:00"
 translation_of: faqs/group-work-ai
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -89,7 +89,7 @@ Yhdistä ryhmäarvosana yksilölliseen osaan: [[oral-assessment|suullinen puolus
 
 Heidän rajoituksensa kulkevat sitaatin mukana: yksi tietokanta, vain aikakauslehtiartikkelit, ei huomiota [[ethics|etiikkaan]] tai yksityisyyteen, teknologian kaksi ensimmäistä vuotta eikä sovellettua harhan riskin arviointivälinettä. Lue ”katalyytit” kuvauksena havaitusta käytännöstä, ei mitattuna tuloksena.
 
-Havaitseminen on väärä väline yksittäisten panosten erotteluun: mikään näistä kuudesta tutkimuksesta ei testaa ilmaisimia ryhmäasetelmassa, ja yksilötason ongelmat havaitsemisen kanssa on dokumentoitu muualla tässä tietopohjassa. Pidättyväisyys pitää tulkita ennen kuin se pitää korjata. Chen ja Zou varoittavat, että tekoälystä kieltäytyvä ryhmä voi välttää jotain tuntematonta eikä harjoittaa harkittua [[self-regulated-learning|itsesäätelyä]], ja nämä kaksi vaativat eri vastaukset: toinen on opetusongelma, toinen on harkittu kanta, jonka voit arvostella.
+Havaitseminen on väärä väline yksittäisten panosten erotteluun: mikään näistä kuudesta tutkimuksesta ei testaa ilmaisimia ryhmäasetelmassa, ja yksilötason ongelmat havaitsemisen kanssa on dokumentoitu hyvin. Pidättyväisyys pitää tulkita ennen kuin se pitää korjata. Chen ja Zou varoittavat, että tekoälystä kieltäytyvä ryhmä voi välttää jotain tuntematonta eikä harjoittaa harkittua [[self-regulated-learning|itsesäätelyä]], ja nämä kaksi vaativat eri vastaukset: toinen on opetusongelma, toinen on harkittu kanta, jonka voit arvostella.
 
 Simuloidut tiimikaverit eivät ratkaise kysymystä sen enempää. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] hienosäätöi [[llm|LLM]]-agentteja todellisen osallistujadialogin pohjalta ([[llm-training-and-fine-tuning|LoRA]]/QLoRA-sovittimet LLaMA 3.2-3B:ssä) mallintamaan 48 osallistujaa 3 824 vuoron ja kuuden temaattisen koodin yli ja vertasi sitten todellista ja simuloitua diskurssia [[network-analysis|episteemisellä verkkoanalyysillä]]. Simuloitu verkko saavutti 0,17:n etäisyyden empiirisestä verkosta, alle 0,30:n kynnyksen, permutaation p-arvolla 0,65, tilastollisesti erottamaton, vaikka se hieman ylikorosti teknisiä rajoitteita ja suunnittelulinkkejä ja aliedusti dataa ja suoritusparametreja. Se on kehysartikkeli keskitasoisella luottamuksella, ja se tukee yhtä väitettä: osallistujakohtaiset agentit voivat toistaa realistista yhteistyödiskurssia. Se ei osoita, että opiskelijat oppivat enemmän simuloiduista tiimikavereista.
 
@@ -110,7 +110,7 @@ Selkeä kurssipolitiikka ratkaisee, mitä ryhmät tekevät. Chen ja Zou näkivä
 
 Yhteistyökriteeri tuottaa yhteistyötä. Heidän kriteerinsä nimesivät integraation, yhtenäisyyden ja osoitetun yhteistyön, ja kolme ryhmää silti pilkkoi työn ja kokosi sen uudelleen. Kriteerit kuvaavat tuotetta; järjestys tuottaa vuorovaikutuksen.
 
-Ryhmätyön todellinen ongelma on vapaamatkustus, ja tekoäly pahentaa sitä. Mikään tämän sivun tutkimus ei osoita, että tekoäly olisi pahentanut vapaamatkustusta tai että jokin interventio vähentäisi sitä. Reiluusvalitus on työkalua vanhempi: Chenin ja Zoun pidättyväiset opiskelijat pitivät oman osionsa tuottamista tekoälyllä epäreiluna niitä ryhmäkavereita kohtaan, jotka sen kantaisivat, ja suoritusperustelu näyttää opiskelijoiden suojelevan osuuttaan yhteisestä arvosanasta. Yksilöllinen vastuu ja näkyvä prosessi ovat puolustettavissa suunnitteluperusteilla, eivätkä ne ole todistettuja korjauksia.
+Ryhmätyön todellinen ongelma on vapaamatkustus, ja tekoäly pahentaa sitä. Mikään näistä kuudesta tutkimuksesta ei osoita, että tekoäly olisi pahentanut vapaamatkustusta tai että jokin interventio vähentäisi sitä. Reiluusvalitus on työkalua vanhempi: Chenin ja Zoun pidättyväiset opiskelijat pitivät oman osionsa tuottamista tekoälyllä epäreiluna niitä ryhmäkavereita kohtaan, jotka sen kantaisivat, ja suoritusperustelu näyttää opiskelijoiden suojelevan osuuttaan yhteisestä arvosanasta. Yksilöllinen vastuu ja näkyvä prosessi ovat puolustettavissa suunnitteluperusteilla, eivätkä ne ole todistettuja korjauksia.
 
 Enemmän tekoälyä ryhmätyöhön tarkoittaa parempaa yhteistyötä. Martínez-Peláez ja kumppanit kuvaavat aitoja tukia, ja Wei ja Perkins havaitsivat hyötypulon empiirisesti tuetuksi, kun taas riskipuoli pysyy suurelta osin käsitteellisenä. Katsauksen terävin varoitus on satunnaistettu näyttö, joka osoittaa tekoälyn tuottaneen innovatiivisempia ehdotuksia nostamatta merkittävästi osallistujien yleistä innovatiivisuutta samalla kun se homogenisoi ideoita ja houkutteli [[cognitive-offloading|kognitiiviseen siirtokuormitukseen]]. Tekoälytuetun ryhmätyön aikana mitatut hyödyt eivät myöskään ole osoittautuneet [[transfer-of-learning|siirtyvän]] yhteistyöhön ilman työkalua.
 

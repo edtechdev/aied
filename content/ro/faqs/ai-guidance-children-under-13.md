@@ -12,9 +12,9 @@ research_method: [literature review, experiment]
 audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:26:07-05:00"
 translation_of: faqs/ai-guidance-children-under-13
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Termenii furnizorului spun că instrumentul este destinat utilizatorilor de 13 a
 
 Trei întrebări se încurcă în această cerere: ce poate face un copil de șase ani cu aceste sisteme, ce datorează școala familiilor ai căror copii întâlnesc IA acasă și ce faci atunci când interdicția nu este răspunsul pe care îl poți apăra.
 
-Răspunsul scurt pe care îl poți da consiliului: diferențiază accesul pe grupe de vârstă, învață copiii cum sunt construite aceste sisteme înainte de a le da unul și păstrează un adult în buclă oriunde copilul nu poate judeca rezultatul. O interdicție generală este opțiunea cu cele mai puține dovezi în spate. Nu există niciun studiu al interdicțiilor bazate pe vârstă în această bază de cunoștințe, iar cea mai mare parte a expunerii acestei grupe de vârstă se produce acasă, unde o regulă școlară nu ajunge.
+Răspunsul scurt pe care îl poți da consiliului: diferențiază accesul pe grupe de vârstă, învață copiii cum sunt construite aceste sisteme înainte de a le da unul și păstrează un adult în buclă oriunde copilul nu poate judeca rezultatul. O interdicție generală este opțiunea cu cele mai puține dovezi în spate. Nu există niciun studiu al interdicțiilor bazate pe vârstă, iar cea mai mare parte a expunerii acestei grupe de vârstă se produce acasă, unde o regulă școlară nu ajunge.
 
 ## Pe scurt
 
@@ -52,7 +52,7 @@ Evaluarea lor este un singur chestionar aplicat după expunere, pe 831 de partic
 
 Cele două ediții arată și pentru ce există granița. Nivelul elementar primește activități pe platformă, cu sprijin de tip schelă și non-generative, astfel încât un copil să învețe ce face sistemul fără un sistem care să-i răspundă. Nivelul avansat leagă raționamentul etic de utilizarea generativă supravegheată. Personalul care se așteaptă ca implicarea să crească odată cu sofisticarea instrumentului constată de obicei contrariul.
 
-Ce îți cumpără împărțirea pe niveluri este o ordine a operațiilor pe care o poți apăra. Destule școli o fac invers, cumpără chatbotul în toamnă și predau despre el în primăvară, iar dovezile despre această ordine sunt mai jos pe această pagină.
+Ce îți cumpără împărțirea pe niveluri este o ordine a operațiilor pe care o poți apăra. Destule școli o fac invers, cumpără chatbotul în toamnă și predau despre el în primăvară, când ordinea cea defendabilă este inversă.
 
 ## Începe cu cei mai mici copii prin joc, construcție și mașini
 
@@ -126,7 +126,7 @@ Pentru această grupă de vârstă, asta se mapează pe o secvență: despre ea 
 
 O lucrare pentru consiliu poate promite o dată de revizuire și o definiție a succesului pe care școala ta o poate verifica efectiv: lecții predate, profesori care pot răspunde la întrebarea unui părinte, cereri de date soluționate în scris. Să pretinzi un câștig de învățare ar depăși fiecare studiu citat aici.
 
-Nu există niciun studiu al interdicțiilor bazate pe vârstă în această bază de cunoștințe. Nimic de aici nu poate stabili dacă interdicțiile care apar acum în unele sisteme școlare funcționează, iar versiunea onestă a acestei propoziții își are locul în lucrarea ta pentru consiliu. Ce arată dovezile este că alternativa la interdicție nu este laissez-faire. [[moral-panic-genai-classroom|Studiul despre disponibilitatea versus integrarea IA generative]] a constatat că punerea IA generative la dispoziție fără a-i învăța pe elevi cum să o folosească a fost asociată cu performanță semnificativ mai scăzută la întrebările aplicate (ω² = 0,35), în timp ce predarea explicită a utilizării ei pentru sarcini precum rezumarea a readus performanța aplicată la nivelurile de dinainte de IA generativă și a depășit linia de bază la un test mai greu. Această grupă de vârstă poate fi învățată: programul de clasa a patra de mai sus a produs efecte de *d* = 1,12 până la 1,31.
+Nu există niciun studiu al interdicțiilor bazate pe vârstă. Nimic de aici nu poate stabili dacă interdicțiile care apar acum în unele sisteme școlare funcționează, iar versiunea onestă a acestei propoziții își are locul în lucrarea ta pentru consiliu. Ce arată dovezile este că alternativa la interdicție nu este laissez-faire. [[moral-panic-genai-classroom|Studiul despre disponibilitatea versus integrarea IA generative]] a constatat că punerea IA generative la dispoziție fără a-i învăța pe elevi cum să o folosească a fost asociată cu performanță semnificativ mai scăzută la întrebările aplicate (ω² = 0,35), în timp ce predarea explicită a utilizării ei pentru sarcini precum rezumarea a readus performanța aplicată la nivelurile de dinainte de IA generativă și a depășit linia de bază la un test mai greu. Această grupă de vârstă poate fi învățată: programul de clasa a patra de mai sus a produs efecte de *d* = 1,12 până la 1,31.
 
 ## Ce greșesc școlile
 

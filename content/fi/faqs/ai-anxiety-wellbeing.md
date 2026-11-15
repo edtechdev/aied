@@ -9,9 +9,9 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:29:00-05:00"
 translation_of: faqs/ai-anxiety-wellbeing
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -105,7 +105,7 @@ Tavoite on saada ahdistus alas. Kim (2026) havaitsi ahdistuksen liittyvän posit
 
 Itseluottamus suojaa opiskelijoita uravahingolta. Duanin ym. mallissa [[self-efficacy|minäpystyvyys]] ei puskuroinut sitä. Urasopeutuvuus kantoi välittyneen polun.
 
-Tämä on [[student-support-and-success|opiskelijapalvelujen]] ongelma. Suurin osa tämän sivun liikkeistä on opetuksellisia: vähäriskistä harjoittelua, ohjattua tekoälyn tuotoksen arviointia, palautteeseen perustuvaa muokkaamista ja opiskelijoiden luettavissa oleva odotusten kuvaus. Lähetepolun tunteminen on yksi kohta niiden joukossa.
+Tämä on [[student-support-and-success|opiskelijapalvelujen]] ongelma. Suurin osa liikkeistä on opetuksellisia: vähäriskistä harjoittelua, ohjattua tekoälyn tuotoksen arviointia, palautteeseen perustuvaa muokkaamista ja opiskelijoiden luettavissa oleva odotusten kuvaus. Lähetepolun tunteminen on yksi kohta niiden joukossa.
 
 Hyvinvointichatbot on skaalautuva vastaus ohueen ohjauskapasiteettiin. Saatavuus on todellista ja vetovoima ymmärrettävää. Tarkkuus yhdessä pidätetyssä jaossa ei ole näyttöä siitä, että ahdistunut opiskelija voi paremmin, ja virheluokittelun, tallennuksen ja eskaloinnin kysymyksiin ei ole julkaistuja vastauksia tässä viitatussa työssä.
 
@@ -117,7 +117,7 @@ Hyvinvointichatbot on skaalautuva vastaus ohueen ohjauskapasiteettiin. Saatavuus
 
 **”Olen aineenopettaja, en ohjaaja.”** Kukaan ei pyydä sinua hoitamaan ketään. Vähäriskinen harjoittelu, kritiikkitehtävä ja muokkauskierros ovat tavallisia opetuksellisia liikkeitä. Ainoa löydös, joka puhuu asemastasi, on opettaja-opiskelija-suhteen sija toisena Bashirin ja Afzalin piirteiden tärkeysanalyysissä (10,0 %), unen laadun (9,3 %) ja sosiaalisen tuen (7,6 %) yläpuolella. Tekijät kutsuvat sitä hypoteesiksi, ja se on kohtuullinen veto roolissa, joka sinulla jo on.
 
-**”Meillä ei ole ohjauskapasiteettia, joten työkalu on parempi kuin ei mitään.”** Mahdollisesti, eikä tämä sivu voi ratkaista sitä. Sen voit vaatia ennen käyttöönottoa: kirjalliset vastaukset tarkkuuden validoinnista, siitä miten tukitaso päätetään, mitä tapahtuu haitallisessa virheluokittelussa, miten paljastukset tallennetaan ja miten eskalointi ihmiselle toimii. Ei vastauksia, ei käyttöönottoa. Opiskelija, joka paljastaa asiansa työkalulle, joka tallentaa sen väärin, ei välttämättä paljasta uudelleen.
+**”Meillä ei ole ohjauskapasiteettia, joten työkalu on parempi kuin ei mitään.”** Mahdollisesti, eikä näyttö voi ratkaista sitä. Sen voit vaatia ennen käyttöönottoa: kirjalliset vastaukset tarkkuuden validoinnista, siitä miten tukitaso päätetään, mitä tapahtuu haitallisessa virheluokittelussa, miten paljastukset tallennetaan ja miten eskalointi ihmiselle toimii. Ei vastauksia, ei käyttöönottoa. Opiskelija, joka paljastaa asiansa työkalulle, joka tallentaa sen väärin, ei välttämättä paljasta uudelleen.
 
 **”Jos nostan uranäkymät esiin tunnilla, ylitän aineeni rajat.”** Vaihtoehto on, että opiskelijat kokoavat vastauksensa työmarkkinoilta ja toisiltaan. Duan ym. suosittelevat urasuunnittelutyötä osana akateemista ohjelmaa, ja Dağ ym. suosittelevat sitä tekoälylukutaidon rinnalle. Voit isännöidä keskustelun väittämättä asiantuntijuutta siinä ja ohjata yksittäistapaukset uraohjaukseen.
 

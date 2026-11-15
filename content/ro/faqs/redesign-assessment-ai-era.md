@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-10-29T15:41:26-04:00"
+updated: "2026-11-15T16:18:40-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-10-28T10:45:41-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ Răspunsul scurt: decide **despre** ce anume trebuie să fie dovadă nota, pune 
 
 ## Decide despre ce anume este dovadă nota
 
-Începe prin a enunța explicit ce competență ar trebui să reprezinte nota. Evaluezi ce poate face un student independent, ce poate realiza în mod adecvat cu IA, capacitatea lui de a evalua și dirija IA sau o combinație a acestora? [[assessment-validity|Validitatea evaluării]] din baza de cunoștințe tratează asta ca pe o problemă de validitate: un produs lustruit nu mai este o dovadă suficientă că studentul posedă competența aparent demonstrată de acel produs. Aceasta este jumătatea dinspre evaluare a aceluiași argument; jumătatea dinspre aplicare strictă este în [[reduce-ai-cheating|Reducerea trișatului cu IA]], iar cadrul general de validitate trece prin [[evaluating-ai-interventions-methods|Evaluarea intervențiilor cu IA: metode]].
+Începe prin a enunța explicit ce competență ar trebui să reprezinte nota. Evaluezi ce poate face un student independent, ce poate realiza în mod adecvat cu IA, capacitatea lui de a evalua și dirija IA sau o combinație a acestora? [[assessment-validity|Validitatea evaluării]] tratează asta ca pe o problemă de validitate: un produs lustruit nu mai este o dovadă suficientă că studentul posedă competența aparent demonstrată de acel produs. Aceasta este jumătatea dinspre evaluare a aceluiași argument; jumătatea dinspre aplicare strictă este în [[reduce-ai-cheating|Reducerea trișatului cu IA]], iar cadrul general de validitate trece prin [[evaluating-ai-interventions-methods|Evaluarea intervențiilor cu IA: metode]].
 
 Spune răspunsul în programa de curs, în fișa temei și în rubrică. Studenții citesc trei documente și îl respectă pe cel care este cel mai specific. „Folosirea IA este permisă cu menționare” nu este o afirmație despre ce măsori și nu îi dă studentului nicio cale să știe dacă folosirea permisă subminează exact lucrul pe care îl notezi.
 
@@ -86,7 +86,7 @@ Scopul contează tot atât cât mecanica. [[ai-agents-joyful-assessment-third-sp
 
 **„Acreditarea și aprobarea programului nu se vor mișca atât de repede.”** Studiul de mai sus numește termenele lungi și constrângerile de acreditare pentru cohorte mari drept frecarea centrală. Un singur curs poate schimba ce se întâmplă în interiorul unei evaluări existente fără să îi schimbe numele, ponderea sau rezultatele învățării, și de obicei asta este suficient pentru început.
 
-**„Asta îi penalizează pe studenții anxioși și pe studenții cu dizabilități.”** Poate. Componentele orale live au nevoie de adaptări planificate dinainte, de o alegere a formatului acolo unde constructul permite și de atenție la diferența lingvistică și la părtinirea evaluatorului. Verifică competența, nu condițiile de performanță.
+**„Asta îi penalizează pe studenții anxioși și pe [[inclusive-learning|studenții cu dizabilități]].”** Poate. Componentele orale live au nevoie de adaptări planificate dinainte, de o alegere a formatului acolo unde constructul permite și de atenție la diferența lingvistică și la părtinirea evaluatorului. Verifică competența, nu condițiile de performanță.
 
 **„Ar trebui pur și simplu să cumpărăm un detector.”** Rezultatul despre discriminare argumentează împotriva lui ca coloană vertebrală a proiectării: dacă pozitivele false cresc mai repede decât cele reale, o monitorizare mai strictă face ascunderea relativ mai atractivă. Detectarea poate avea un loc într-un răspuns care regândește și sarcina, iar [[should-we-use-ai-detectors|Ar trebui să folosim detectoare de IA?]] acoperă acel argument.
 

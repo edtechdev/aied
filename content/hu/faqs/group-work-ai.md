@@ -11,9 +11,9 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:18:05-05:00"
 translation_of: faqs/group-work-ai
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -89,7 +89,7 @@ Párosítsa a csoportos jegyet egyéni összetevővel: a saját megértésük [[
 
 Korlátaik együtt utaznak a hivatkozással: egyetlen adatbázis, csak folyóiratcikkek, az [[ethics|etikára]] és a magánéletre fordított figyelem hiánya, a technológia első két éve, és nem alkalmaztak elfogultsági kockázati eszközt. A „katalizátort” a megfigyelt gyakorlat leírásaként olvassa, ne mért eredményként.
 
-A detektálás rossz eszköz az egyéni hozzájárulások szétválogatására: e hat vizsgálat egyike sem tesztel detektorokat csoportos környezetben, és a detektálás egyéni szintű problémáit a tudásbázis más helyen dokumentálja. Az önmérsékletet értelmezni kell, mielőtt kijavítanánk. Chen és Zou óvatosan megjegyzi, hogy egy MI-t elutasító csoport inkább kerülhet valami ismeretlent, mint hogy szándékos [[self-regulated-learning|önszabályozást]] gyakorolna, és a kettő más választ kíván: az egyik tanítási probléma, a másik megfontolt álláspont, amelyet értékelni lehet.
+A detektálás rossz eszköz az egyéni hozzájárulások szétválogatására: e hat vizsgálat egyike sem tesztel detektorokat csoportos környezetben, és a detektálás egyéni szintű problémái jól dokumentáltak. Az önmérsékletet értelmezni kell, mielőtt kijavítanánk. Chen és Zou óvatosan megjegyzi, hogy egy MI-t elutasító csoport inkább kerülhet valami ismeretlent, mint hogy szándékos [[self-regulated-learning|önszabályozást]] gyakorolna, és a kettő más választ kíván: az egyik tanítási probléma, a másik megfontolt álláspont, amelyet értékelni lehet.
 
 A szimulált csapattársak sem döntik el a kérdést. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] valódi résztvevői párbeszéden finomhangolt [[llm|LLM]]-ágenseket ([[llm-training-and-fine-tuning|LoRA]]/QLoRA adaptereket LLaMA 3.2-3B-n) használt 48 résztvevő modellezésére 3 824 fordulaton és hat tematikus kódon át, majd [[network-analysis|Epistemic Network Analysis]] segítségével hasonlította össze a valódi és a szimulált diskurzust. A szimulált hálózat 0,17 távolságot ért el az empirikus hálózattól, a 0,30-as küszöb alatt, 0,65-es permutációs p-értékkel, statisztikailag megkülönböztethetetlenül, bár kissé túlhangsúlyozta a Technikai korlátok és a Tervezés kapcsolatait, és alulreprezentálta az Adat és a Teljesítményparaméterek kategóriákat. Ez közepes bizalmi szintű keretrendszer-cikk, és egy állítást támaszt alá: a résztvevőspecifikus ágensek képesek valósághű kollaboratív diskurzust reprodukálni. Azt nem mutatja meg, hogy a diákok többet tanulnak szimulált csapattársaktól.
 

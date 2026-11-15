@@ -1,7 +1,7 @@
 ---
 title: "Mitä opiskelijoiden pitäisi oppia uraa varten, jossa tekoäly on arkipäivää?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:16:13-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
@@ -48,6 +48,8 @@ Lyhyt vastaus kollegalle: opeta koko ammatillinen tehtävä, älä työkalun kä
 [[ithaka-sr-ai-skills-college-graduates-2026|Ithaka S+R:n raportti]] pyysi 500 yhdysvaltalaisen nelivuotisen korkeakoulun opettajaa arvioimaan 26 taitoa kehyksestä, joka kattaa seitsemän luokkaa, ja vertasi heidän arvioitaan kehyksen laatijoiden kyselyyn vastanneeseen työnantajapaneeliin. Erimielisyys on järjestelmällistä eikä satunnaista: opettajat sijoittivat kärkeen tekoälyn rajat, lähdeviittaukset ja inhimillisen vastuun, kun työnantajat sijoittivat korkeammalle työnkulun suunnittelun, automaation ja ihmisen ja tekoälyn tiimityön.
 
 Kaksi tulkintaa tästä kuilusta on houkuttelevaa ja molemmat väärin. Ensimmäinen on, että opettajat laahaavat työmarkkinoiden perässä. Toinen on, että työnantajat haluavat mukautumista. Hyödyllisempi tulkinta on, että kumpikin ryhmä kuvaa saman työn eri puoliskoa, ja valmistunut, joka osaa vain toisen puoliskon, on alivalmistautunut kumpaankin. Opiskelija, joka ei osaa selittää, miksi tulos on väärä, ei ole hyödyksi työnantajalle, joka luottaa työnkulkuun; opiskelija, joka osaa vain kritisoida tekoälyn tuotosta, ei ole hyödyksi työnantajalle, joka tarvitsee tehtävän valmiiksi.
+
+Työnantajan signaalin muuttaminen opetussuunnitelmamuutokseksi on itsessään prosessi, jossa on päätöspisteitä. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] ehdottaa kuutta vaihetta – havainnointi, sidosryhmien validointi, ohjelman diagnosointi, opetussuunnitelman uudistaminen, täytäntöönpano ja osaaminen sekä tulosten arviointi – joista jokaisella on nimetty päätösvalta ja vastuullinen tuotos, ja rajaa tekoälyn rajattuihin tukitoimintoihin, kuten kaavojen havaitsemiseen ja osaamiskartoitukseen. Se on ehdotus, ei arviointi, mutta se nimeää vaiheet, jotka neuvoa-antavan ryhmän pyyntö yleensä ohittaa.
 
 Tämän näytön rajat ovat merkityksellisiä. Nämä ovat kyselyissä ilmoitettuja painotuksia, eikä raportti osoita, että mikään opetussuunnitelma tuottaisi parempia palkkauksia, parempaa suoriutumista tai parempaa palkkaa. Se antaa sinulle puolustettavan syyn kysyä, harjoittelevatko opiskelijasi koskaan tekoälytuetun työnkulun loppuun saattamista ja tarkistamista sen sijaan, että puhuisivat siitä.
 
@@ -126,6 +128,6 @@ Mikä auttaa, on selvittäminen sellaisessa mittakaavassa, jossa opiskelija voi 
 
 ## Minne seuraavaksi
 
-[[career-development-and-readiness]] on käsitesivu työllistymiskyvylle, joustavuudelle ja työvoimanäytölle, ja [[ai-literacy]] kattaa sen, mitä lukutaito tarkoittaa työkalun käytön ulkopuolella. Sen rakentamisesta tiettyyn kurssiin katso [[incorporating-ai-literacy|tekoälylukutaidon sisällyttäminen]] ja [[faculty-ai-competencies|mitä osaamista opettajat tarvitsevat]].
+[[career-development-and-readiness|Urakehitys ja valmiudet]] on käsitesivu työllistymiskyvylle, joustavuudelle ja työvoimanäytölle, ja [[ai-literacy|tekoälylukutaito]] kattaa sen, mitä lukutaito tarkoittaa työkalun käytön ulkopuolella. Sen rakentamisesta tiettyyn kurssiin katso [[incorporating-ai-literacy|tekoälylukutaidon sisällyttäminen]] ja [[faculty-ai-competencies|mitä osaamista opettajat tarvitsevat]].
 
 [[assessment|Arvioinnin suunnittelusta]], joka tekee tuetusta ja itsenäisestä suoriutumisesta erotettavia, katso [[redesign-assessment-ai-era|arvioinnin uudelleensuunnittelu tekoälyn aikakaudella]] ja [[ai-grading-fairness-reliability|tekoälyarviointi]]. Siitä, miten tuki estetään muuttumasta riippuvuudeksi, katso [[reducing-over-reliance|liiallisen tukeutumisen vähentäminen]].

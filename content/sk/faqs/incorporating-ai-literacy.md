@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
 audience: [instructors, instructional designers]
-updated: "2026-10-29T12:11:33-04:00"
+updated: "2026-11-15T16:27:26-05:00"
 translation_of: faqs/incorporating-ai-literacy
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ Podstatné je toto: pridajte krok k práci, ktorú už hodnotíte, v ktorom sa �
 
 ## Nepridávajte lekciu, pridajte krok k práci, ktorú už hodnotíte
 
-Zvyčajný inštitucionálny krok je samostatný modul, obvykle na začiatku semestra, o tom, ako fungujú veľké jazykové modely a ako písať prompty. Syntéza [[ai-literacy|AI gramotnosti]] argumentuje za iné usporiadanie: študenti si vytvárajú užitočnejšiu gramotnosť, keď AI používajú, spochybňujú, overujú, kritizujú a rozhodujú o nej v rámci autentických kurzových úloh, opakovane. Posun ku kritickému hodnoteniu je najzreteľnejší tam, kde sú tieto skúsenosti trvalé a vložené do úloh, a nie dodané raz ([[ai-literacy-continuum-higher-education|Praktické päťstupňové kontinuum AI gramotnosti vo vysokoškolskom vzdelávaní]]).
+Zvyčajný inštitucionálny krok je samostatný modul, obvykle na začiatku semestra, o tom, ako fungujú [[llm|veľké jazykové modely]] a ako písať prompty. Syntéza [[ai-literacy|AI gramotnosti]] argumentuje za iné usporiadanie: študenti si vytvárajú užitočnejšiu gramotnosť, keď AI používajú, spochybňujú, overujú, kritizujú a rozhodujú o nej v rámci autentických kurzových úloh, opakovane. Posun ku kritickému hodnoteniu je najzreteľnejší tam, kde sú tieto skúsenosti trvalé a vložené do úloh, a nie dodané raz ([[ai-literacy-continuum-higher-education|Praktické päťstupňové kontinuum AI gramotnosti vo vysokoškolskom vzdelávaní]]).
 
 [[quantitative-research|Kvantitatívne]] dôkazy ukazujú rovnakým smerom. [[liu-ai-literacy-interventions-meta-analysis-2026|Metaanalýza 59 intervencií na AI gramotnosť]] našla najväčšie účinky pri integrovaných a reflektívnych pedagogikách. Zároveň upozorňuje, že intervencie zamerané na vedomosti vykazujú väčšie *merané* účinky než tie, ktoré cielia na zručnosti, postoje alebo etiku. Majte to na mysli, keď si vyberiete, čo budete merať.
 
@@ -79,11 +79,11 @@ Nemusíte vymýšľať dizajn. Niekoľko je zdokumentovaných a každý je dosť
 
 Študenti ekonómie najprv riešia problém, získajú odpoveď GenAI, porovnajú ju so svojím uvažovaním, kritizujú AI, reflektujú a potom diskutujú s rovesníkmi ([[beck-genai-literacy-economics-hands-on|Rozvíjanie generatívnej AI gramotnosti v ekonómii]]).
 
-Študenti psychológie hodnotia mediálnu správu vytvorenú ChatGPT podľa kurzovej rubriky, identifikujú slabé miesta a revidujú ju, čo v tej istej úlohe rozvíja odborovú gramotnosť a gramotnosť spätnej väzby ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Používanie generatívnej AI na podporu psychologickej gramotnosti, gramotnosti spätnej väzby a AI gramotnosti]]).
+Študenti psychológie hodnotia mediálnu správu vytvorenú ChatGPT podľa kurzovej rubriky, identifikujú slabé miesta a revidujú ju, čo v tej istej úlohe rozvíja odborovú gramotnosť a [[feedback-literacy|gramotnosť spätnej väzby]] ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Používanie generatívnej AI na podporu psychologickej gramotnosti, gramotnosti spätnej väzby a AI gramotnosti]]).
 
 Biológia vkladá aktivity do odborového učenia namiesto výučby samostatnej technickej témy ([[zha-ai-literacy-biology-case-study|Začlenenie vzdelávania v AI gramotnosti do hodiny biológie]]). Kurz databáz a dizajnu používa analýzu zlyhaní ako učebnú aktivitu, pričom študenti analyzujú chyby vygenerované AI a iterujú prompty a riešenia ([[pedagogy-ai-mistakes|Pedagogika chýb AI]]). Model LearnAI vkladá AI spolutvorbu práve včas naprieč odbormi namiesto jedného všeobecného modulu ([[learnai-just-in-time-ai-cocreation-university-2026|LearnAI: AI spolutvorba práve včas naprieč odbormi]]).
 
-Jedno upozornenie prichádza s číslom. Prepracovaný úvodný kurz časticovej fyziky povolil generatívnu AI ako výslovného partnera pri problémoch v tvare výskumu a skúška písaná bez pomoci priniesla priemer 20,6 z 80, pričom len dvaja študenti dosiahli 40 ([[ai-particle-physics-education-redesign-2026|AI vo vzdelávaní vo fyzike častíc]]). Asistovaný výkon a samostatne vybaviteľné vedomosti sú odlišné úspechy. Autori argumentujú za včasnú výučbu AI gramotnosti vrátane overovania a chápania AI ako učiteľa, a nie kopírovača, popri venovanej praxi bez pomoci. [[physics-education|Fyzikálne vzdelávanie]] má plnší opis.
+Jedno upozornenie prichádza s číslom. Prepracovaný úvodný kurz časticovej fyziky povolil generatívnu AI ako výslovného partnera pri problémoch v tvare výskumu a skúška písaná bez pomoci priniesla priemer 20,6 z 80, pričom len dvaja študenti dosiahli 40 ([[ai-particle-physics-education-redesign-2026|AI vo vzdelávaní vo fyzike častíc]]). Asistovaný výkon a samostatne vybaviteľné vedomosti sú odlišné úspechy. Autori argumentujú za včasnú výučbu AI gramotnosti vrátane overovania a chápania AI ako [[teacher-role|učiteľa]], a nie kopírovača, popri venovanej praxi bez pomoci. [[physics-education|Fyzikálne vzdelávanie]] má plnší opis.
 
 Existuje aj verzia, kde študenti vytvárajú niečo pre skutočné publikum. Burriss a kol. nechali 22 študentov jedenásteho ročníka zostaviť videospoty o otázkach [[ethics|etiky]] AI, s ktorými žili: školský dohľad, elektronické „priepustky“ a obvinenia z algoritmického [[academic-integrity|plagiátorstva]]. Jednotka vychádzala z kritickej posthumanistickej gramotnosti a [[multimodal|multimodálnej kompozície]]. Študenti zobrazili škodu ako vznikajúcu zo zamotaného ľudsko-strojového spoluzodpovedania, a nie z darebáckeho nástroja, obrátili naratív o podvádzaní smerom k nadmernej závislosti dospelých na chybnej AI a uzavreli na [[agency|agentúre]] („riešenie je v našom dosahu“). Autori stavajú [[storytelling-in-education|rozprávanie príbehov]] a kolektívnu produkciu do stredu [[critical-pedagogy|kritickej pedagogiky AI gramotnosti]] a argumentujú, že tvorenie *o* AI pre skutočné publikum rozvíja kritickú kompetenciu, ktorú kompetenčné škály nevidia ([[burriss-multimodal-composition-critical-ai-literacy-2026|„Mladí vedci v teréne“]]). To tvrdenie je argument z jednej jednotky s 22 študentmi, takže ho čítajte ako nápad na dizajn, nie ako veľkosť účinku.
 
@@ -95,7 +95,7 @@ Dôkazy podporujú kognitívne [[active-learning|aktívne]] a [[collaborative-le
 
 ## Hodnoťte úsudok úlohou
 
-Študenti preceňujú, ako dobre dokážu hodnotiť AI, a položka o [[self-report-measures|sebahlásenej]] sebadôvere túto chybu potvrdí, a nie odhalí. Vedomostná báza dokumentuje významný nesúlad medzi sebahlásenou a výkonovou AI gramotnosťou a odporúča hodnotenie výkonom ([[ai-literacy-assessment-misalignment|Hodnotenie AI gramotnosti: nesúlad medzi sebahlásením a výkonom]]; [[jin-glat-genai-literacy-assessment|GLAT]]).
+Študenti preceňujú, ako dobre dokážu hodnotiť AI, a položka o [[self-report-measures|sebahlásenej]] sebadôvere túto chybu potvrdí, a nie odhalí. Literatúra dokumentuje významný nesúlad medzi sebahlásenou a výkonovou AI gramotnosťou a odporúča hodnotenie výkonom ([[ai-literacy-assessment-misalignment|Hodnotenie AI gramotnosti: nesúlad medzi sebahlásením a výkonom]]; [[jin-glat-genai-literacy-assessment|GLAT]]).
 
 Namiesto položky o sebadôvere im dajte niečo na prácu: odhaliť chybu, overiť zdroj, zlepšiť výstup, vysvetliť obmedzenie, odôvodniť, prečo je určité použitie AI vhodné pre určitú úlohu.
 
@@ -117,7 +117,7 @@ Lepšie promptovanie model neopraví. Vo výskume kontextovej patolízalstva vý
 
 AI gramotnosť znamená výučbu promptovania. Promptovanie je viditeľná časť. Študenti sa môžu stať technicky zručnými s týmito nástrojmi a zostať slabými posudzovateľmi toho, čo z nich vychádza, a zistenie o závislosti vyššie ukazuje rovnakým smerom.
 
-Pokryje to jedno stretnutie. Stretnutie môže uviesť slovník. Dôkazy pre opakovanú prax na reálnom kurzovom materiáli sú silnejšie a metaanalýza 59 intervencií našla najväčšie účinky tam, kde bola práca integrovaná a reflektívna.
+Pokryje to jedno stretnutie. Stretnutie môže uviesť slovník. Dôkazy pre opakovanú prax na reálnom kurzovom materiáli sú silnejšie a [[meta-analysis-systematic-review|metaanalýza]] 59 intervencií našla najväčšie účinky tam, kde bola práca integrovaná a reflektívna.
 
 Študenti, ktorí tieto nástroje používajú denne, už výstup hodnotiť dokážu. Yan a kol. našli 76,32 % z 38 študentov bakalárskeho štúdia vo vzorci jedného kola a informatická syntéza našla študentov významne slabších v opravovaní kódu vygenerovaného AI než v bežných programátorských skúškových úlohách. Znalosť rozhrania nie je kalibrácia.
 
@@ -125,7 +125,7 @@ Aktivita musí byť o nástroji. Silnejšie dizajny sú o odbore, s nástrojom v
 
 Kritické hodnotenie sa prenáša z vedomostí odboru. Neprenáša sa, a preto je informatický výsledok dôležitý. Študent, ktorý dokáže napísať správny kód, nie je automaticky schopný diagnostikovať nesprávny kód, ktorý napísal niekto iný, a rovnaká medzera sa objavuje v próze.
 
-Sebadôvera je použiteľná náhrada. Sebahlásenie a výkon sa v tejto literatúre rozchádzajú a rozptyl je dosť systematický na to, aby vedomostná báza odporúčala výkonové merania. Požiadajte o ukážku.
+Sebadôvera je použiteľná náhrada. Sebahlásenie a výkon sa v tejto literatúre rozchádzajú a rozptyl je dosť systematický na to, aby literatúra odporúčala výkonové merania. Požiadajte o ukážku.
 
 ## Čo proti vám príde
 

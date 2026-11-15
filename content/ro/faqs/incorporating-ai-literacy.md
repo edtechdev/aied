@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
 audience: [instructors, instructional designers]
-updated: "2026-10-29T15:41:26-04:00"
+updated: "2026-11-15T16:22:37-05:00"
 translation_of: faqs/incorporating-ai-literacy
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ Concluzia: adaugă un pas la o lucrare pe care o notezi deja, în care studenți
 
 ## Nu adăuga o lecție, adaugă un pas la o lucrare pe care o notezi deja
 
-Mutarea instituțională implicită este un modul de sine stătător, de obicei la începutul semestrului, despre cum funcționează modelele de limbaj mari și cum se scriu prompturile. Sinteza despre [[ai-literacy|alfabetizarea în IA]] argumentează pentru o aranjare diferită: studenții dezvoltă o alfabetizare mai utilă atunci când folosesc, pun sub semnul întrebării, verifică, critică și decid în privința IA în interiorul unor sarcini autentice de curs, în mod repetat. Mișcarea spre evaluarea critică este cel mai evidentă acolo unde aceste experiențe sunt susținute și integrate, nu livrate o singură dată ([[ai-literacy-continuum-higher-education|Un continuum practic în cinci etape pentru alfabetizarea în IA în învățământul superior]]).
+Mutarea instituțională implicită este un modul de sine stătător, de obicei la începutul semestrului, despre cum funcționează [[llm|modelele de limbaj mari]] și cum se scriu prompturile. Sinteza despre [[ai-literacy|alfabetizarea în IA]] argumentează pentru o aranjare diferită: studenții dezvoltă o alfabetizare mai utilă atunci când folosesc, pun sub semnul întrebării, verifică, critică și decid în privința IA în interiorul unor sarcini autentice de curs, în mod repetat. Mișcarea spre evaluarea critică este cel mai evidentă acolo unde aceste experiențe sunt susținute și integrate, nu livrate o singură dată ([[ai-literacy-continuum-higher-education|Un continuum practic în cinci etape pentru alfabetizarea în IA în învățământul superior]]).
 
 Dovezile [[quantitative-research|cantitative]] indică aceeași direcție. O [[liu-ai-literacy-interventions-meta-analysis-2026|meta-analiză a 59 de intervenții de alfabetizare în IA]] a găsit cele mai mari efecte la pedagogiile integrate și reflexive. Ea avertizează și că intervențiile centrate pe cunoaștere arată efecte *măsurate* mai mari decât cele care vizează abilități, atitudini sau etică. Ține asta în minte când alegi ce măsori.
 
@@ -79,11 +79,11 @@ Nu trebuie să inventezi proiectarea. Câteva sunt documentate și fiecare este 
 
 Studenții la economie rezolvă mai întâi o problemă, obțin un răspuns de IA generativă, îl compară cu raționamentul lor, critică IA, reflectează, apoi discută cu colegii ([[beck-genai-literacy-economics-hands-on|Cultivarea alfabetizării în IA generativă în economie]]).
 
-Studenții la psihologie evaluează un comunicat de presă generat de ChatGPT față de grila cursului, identifică slăbiciunile și îl revizuiesc, ceea ce dezvoltă alfabetizarea disciplinară și alfabetizarea privind feedbackul în aceeași sarcină ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Folosirea IA generative pentru a promova alfabetizările psihologică, de feedback și în IA]]).
+Studenții la psihologie evaluează un comunicat de presă generat de ChatGPT față de grila cursului, identifică slăbiciunile și îl revizuiesc, ceea ce dezvoltă alfabetizarea disciplinară și [[feedback-literacy|alfabetizarea privind feedbackul]] în aceeași sarcină ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Folosirea IA generative pentru a promova alfabetizările psihologică, de feedback și în IA]]).
 
 Biologia integrează activitățile în învățarea disciplinară, în loc să predea un subiect tehnic separat ([[zha-ai-literacy-biology-case-study|Integrarea educației pentru alfabetizare în IA într-o clasă de biologie]]). Cursurile de baze de date și de design folosesc analiza eșecurilor ca activitate de învățare, cu studenți care analizează erori generate de IA și iterează pe prompturi și soluții ([[pedagogy-ai-mistakes|Pedagogia greșelilor IA]]). Modelul LearnAI încorporează co-crearea cu IA la momentul potrivit, de-a lungul disciplinelor, în loc să ruleze un singur modul generic ([[learnai-just-in-time-ai-cocreation-university-2026|LearnAI: co-creare cu IA la momentul potrivit, de-a lungul disciplinelor]]).
 
-Un avertisment vine cu un număr. Un curs introductiv de fizica particulelor reproiectat a permis IA generativă ca partener explicit pe probleme cu formă de cercetare, iar un examen scris fără ajutor a dat o medie de 20,6 din 80, cu doar doi studenți care au atins 40 ([[ai-particle-physics-education-redesign-2026|IA în educația pentru fizica particulelor]]). Performanța asistată și cunoașterea accesibilă independent sunt realizări distincte. Autorii pledează pentru predarea alfabetizării în IA, inclusiv verificarea și tratarea IA ca profesor în loc de copiator, devreme, alături de practică dedicată fără ajutor. [[physics-education|Educația fizicii]] are cazul complet.
+Un avertisment vine cu un număr. Un curs introductiv de fizica particulelor reproiectat a permis IA generativă ca partener explicit pe probleme cu formă de cercetare, iar un examen scris fără ajutor a dat o medie de 20,6 din 80, cu doar doi studenți care au atins 40 ([[ai-particle-physics-education-redesign-2026|IA în educația pentru fizica particulelor]]). Performanța asistată și cunoașterea accesibilă independent sunt realizări distincte. Autorii pledează pentru predarea alfabetizării în IA, inclusiv verificarea și tratarea IA ca [[teacher-role|profesor]] în loc de copiator, devreme, alături de practică dedicată fără ajutor. [[physics-education|Educația fizicii]] are cazul complet.
 
 Există și o versiune în care studenții fac ceva pentru un public real. Burriss et al. le-au cerut unui grup de 22 de elevi de clasa a unsprezecea să compună spoturi video de interes public despre problemele de [[ethics|etică]] a IA cu care trăiau: supravegherea școlară, „permisele de ieșire” electronice și acuzațiile de [[academic-integrity|plagiat]] algoritmic. Unitatea s-a bazat pe alfabetizarea postumanistă critică și pe [[multimodal|compunerea multimodală]]. Studenții au prezentat prejudiciul ca provenind dintr-o responsabilitate încâlcită om-mașină, nu dintr-un instrument răufăcător, au răsturnat narațiunea copierii spre supra-dependența adulților de IA defectuoasă și au încheiat pe [[agency|capacitate de acțiune]] („soluția este la îndemâna noastră”). Autorii pun [[storytelling-in-education|povestirea]] și producția colaborativă în centrul [[critical-pedagogy|pedagogiei critice a alfabetizării în IA]] și susțin că a compune *despre* IA pentru un public real dezvoltă o competență critică pe care scalele de competență nu o pot vedea ([[burriss-multimodal-composition-critical-ai-literacy-2026|„Young Scholar[s] on the Beat”]]). Afirmația aceea este un argument dintr-o singură unitate cu 22 de studenți, așa că citește-o ca pe o idee de proiectare, nu ca pe o mărime a efectului.
 
@@ -117,7 +117,7 @@ Prompturile mai bune nu repară modelul. În cercetarea despre lingușirea conte
 
 Alfabetizarea în IA înseamnă predarea prompturilor. Promptarea este partea vizibilă. Studenții pot deveni competenți tehnic cu aceste instrumente rămânând judecători slabi ai ce iese din ele, iar constatarea despre dependență de mai sus arată în aceeași direcție.
 
-O sesiune acoperă subiectul. O sesiune poate introduce vocabularul. Dovada pentru practica repetată pe material real de curs este mai solidă, iar meta-analiza celor 59 de intervenții a găsit cele mai mari efecte acolo unde munca era integrată și reflexivă.
+O sesiune acoperă subiectul. O sesiune poate introduce vocabularul. Dovada pentru practica repetată pe material real de curs este mai solidă, iar [[meta-analysis-systematic-review|meta-analiza]] celor 59 de intervenții a găsit cele mai mari efecte acolo unde munca era integrată și reflexivă.
 
 Studenții care folosesc zilnic aceste instrumente pot deja evalua rezultatul. Yan et al. au găsit 76,32% dintr-un grup de 38 de studenți într-un tipar cu un singur schimb, iar sinteza despre informatică a găsit studenți semnificativ mai slabi la corectarea codului generat de IA decât la sarcinile obișnuite de examinare la programare. Familiaritatea cu interfața nu este calibrare.
 
@@ -125,7 +125,7 @@ Activitatea trebuie să fie despre instrument. Proiectările mai solide sunt des
 
 Evaluarea critică se transferă din cunoașterea disciplinei. Nu se transferă, motiv pentru care rezultatul din informatică contează. Un student care poate scrie cod corect nu este automat capabil să diagnosticheze cod incorect scris de altcineva, iar același gol apare și în text.
 
-Încrederea este un proxy utilizabil. Autodeclararea și performanța diverg în această literatură, iar divergența este destul de sistematică încât baza de cunoștințe recomandă măsuri de performanță. Cere o demonstrație.
+Încrederea este un proxy utilizabil. Autodeclararea și performanța diverg în această literatură, iar divergența este destul de sistematică încât să recomande măsuri de performanță. Cere o demonstrație.
 
 ## Ce se va întoarce împotriva ta
 

@@ -11,9 +11,9 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:27:26-05:00"
 translation_of: faqs/group-work-ai
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -89,7 +89,7 @@ Spojte skupinovú známku s individuálnou zložkou: [[oral-assessment|ústnou o
 
 Ich obmedzenia idú s citáciou: jedna databáza, len články v časopisoch, žiadna pozornosť [[ethics|etike]] alebo súkromiu, prvé dva roky technológie a žiadny nástroj na hodnotenie rizika skreslenia. Čítajte „katalyzátory“ ako opis pozorovanej praxe, nie ako meraný výsledok.
 
-Detekcia je nesprávny nástroj na triedenie individuálnych príspevkov: žiadna z týchto šiestich štúdií netestuje detektory v skupinovom prostredí a problémy s detekciou na úrovni jednotlivca sú zdokumentované inde v tejto databáze poznatkov. Zdržanlivosť treba interpretovať skôr, než ju treba opravovať. Chen a Zou upozorňujú, že skupina, ktorá AI odmieta, môže obchádzať niečo neznáme, a nie uplatňovať úmyselnú [[self-regulated-learning|samoreguláciu]], a tieto dva prípady vyžadujú rôzne reakcie: jeden je problém výučby, druhý je uvážený postoj, ktorý môžete hodnotiť.
+Detekcia je nesprávny nástroj na triedenie individuálnych príspevkov: žiadna z týchto šiestich štúdií netestuje detektory v skupinovom prostredí a problémy s detekciou na úrovni jednotlivca sú dobre zdokumentované. Zdržanlivosť treba interpretovať skôr, než ju treba opravovať. Chen a Zou upozorňujú, že skupina, ktorá AI odmieta, môže obchádzať niečo neznáme, a nie uplatňovať úmyselnú [[self-regulated-learning|samoreguláciu]], a tieto dva prípady vyžadujú rôzne reakcie: jeden je problém výučby, druhý je uvážený postoj, ktorý môžete hodnotiť.
 
 Ani simulovaní spoluhráči otázku neriešia. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] doladil agentov [[llm|LLM]] na dialógoch reálnych účastníkov ([[llm-training-and-fine-tuning|adaptéry LoRA/QLoRA]] na LLaMA 3.2-3B), aby modeloval 48 účastníkov v 3 824 ťahoch a šiestich tematických kódoch, a potom porovnal reálny a simulovaný diskurz pomocou [[network-analysis|epistémickej sieťovej analýzy]]. Simulovaná sieť dosiahla vzdialenosť 0,17 od empirickej siete, pod prahom 0,30, s permutačnou hodnotou p 0,65, štatisticky nerozoznateľná, hoci mierne preceňovala prepojenia technických obmedzení a návrhu a podceňovala dátové a výkonové parametre. Je to rámcový článok so strednou mierou istoty a podporuje jedno tvrdenie: agenti špecifickí pre účastníka dokážu reprodukovať realistický spolupracujúci diskurz. Neukazuje, že sa študenti od simulovaných spoluhráčov naučia viac.
 

@@ -1,7 +1,7 @@
 ---
 title: "Cum știm că o IA educațională funcționează corect, nu doar că obține scoruri bune?"
 created: "2026-10-02T08:07:09-04:00"
-connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
 foundations: [ai-education]
@@ -14,9 +14,9 @@ discipline: [writing education, math education]
 confidence: high
 methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
-updated: "2026-10-29T15:41:26-04:00"
+updated: "2026-11-15T16:22:37-05:00"
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -58,7 +58,7 @@ Asistentul de la cursul de Sisteme de control liniare raportează asta corect. C
 
 ## Evaluează fiecare rezultat separat
 
-În proiectul WrAFT, un model ajustat fin a atins un scor de acord de **0,84** cu evaluatorii umani pe 360 de eseuri TOEFL ținute deoparte. Este un rezultat puternic pentru notare. Modelul aceluiași proiect, antrenat să scrie feedback, a produs rezultate trunchiate și neinterpretabile, în timp ce simpla promptare a unui alt model a produs feedback pe care profesorii l-au preferat ([[wraft-automated-writing-evaluation-argumentative-2026]]).
+În proiectul WrAFT, un model ajustat fin a atins un scor de acord de **0,84** cu evaluatorii umani pe 360 de eseuri TOEFL ținute deoparte. Este un rezultat puternic pentru notare. Modelul aceluiași proiect, antrenat să scrie feedback, a produs rezultate trunchiate și neinterpretabile, în timp ce simpla [[prompt-engineering|promptare]] a unui alt model a produs feedback pe care profesorii l-au preferat ([[wraft-automated-writing-evaluation-argumentative-2026]]).
 
 Baza de cunoștințe poartă același eșec într-o a doua formă: o implementare al cărei modul de notare a obținut scoruri bune și al cărei feedback a ajuns tăiat la mijlocul propoziției și ilizibil. Nimic din cifra de titlu nu spunea asta.
 
@@ -66,7 +66,7 @@ Așadar, fă lista rezultatelor pe care le produce sistemul, apoi dă fiecăruia
 
 ## Pune o persoană acolo unde modelul este nesigur
 
-O corelație îți spune că modelul are de obicei dreptate. Nu îți spune ce să faci în ocaziile când nu are. Rezultatul despre rutarea după încredere este cel mai curat șablon din baza de cunoștințe și este destul de scurt ca să îl copiezi.
+O corelație îți spune că modelul are de obicei dreptate. Nu îți spune ce să faci în ocaziile când nu are. Rezultatul despre rutarea după încredere este cel mai curat șablon de aici și este destul de scurt ca să îl copiezi.
 
 Încrederea s-a dovedit un semnal de avertizare fiabil: atunci când modelul era nesigur, era mai probabil să greșească (**β = -0,602, p < 0,001**). Echipa a trimis la un om cele mai puțin sigure **20%** dintre răspunsuri. Acea singură regulă a ridicat acordul cu notele umane de la **0,78 la 0,82** și a redus munca de notare manuală cu aproximativ **80%** ([[know-when-to-trust-ai-scoring-reliability-2026]]).
 
@@ -84,13 +84,13 @@ Versiunea practică: ia un eșantion de vreo cincizeci de rezultate, pune o pers
 
 Corectura cea mai curată este să antrenezi modelul pe aceeași mărime pe care intenționezi să o măsori. Un model ajustat fin a fost antrenat să reproducă proprietățile statistice ale întrebărilor de test: cât de greu este fiecare item, cât de bine separă studenții puternici de cei slabi. A învățat acele tipare, în loc să i se spună ([[multimodal-item-parameter-estimation-2026]]). Pentru că ținta era o proprietate a evaluării înseși, evaluarea a putut să fie despre acea proprietate, nu despre formulare.
 
-Raportează progresia, nu doar punctul final. Simulatorul de scriere SWIM a publicat scorul fiecărei etape alături: promptare bazată pe rubrică **0,577**, ajustare fină **0,474 ± 0,023**, învățare prin întărire **0,618 ± 0,005** ([[swim-student-writing-simulation-2026]]). Un cititor poate vedea din acel tabel dacă antrenarea a făcut ceva. O singură cifră finală nu îi poate spune, și ascunde o etapă în care modelul ajustat fin a mers mai rău decât promptul.
+Raportează progresia, nu doar punctul final. [[simulation|Simulatorul]] de scriere SWIM a publicat scorul fiecărei etape alături: promptare bazată pe rubrică **0,577**, ajustare fină **0,474 ± 0,023**, [[reinforcement-learning|învățare prin întărire]] **0,618 ± 0,005** ([[swim-student-writing-simulation-2026]]). Un cititor poate vedea din acel tabel dacă antrenarea a făcut ceva. O singură cifră finală nu îi poate spune, și ascunde o etapă în care modelul ajustat fin a mers mai rău decât promptul.
 
 ## Compară cu ceva din afara proiectului tău
 
 Ia mai întâi o linie de bază, inclusiv una ieftină. Modelul asistentului de curs, fără ancorare, a obținut mai puțin decât o simplă căutare pe cuvinte-cheie, ceea ce este genul de rezultat care schimbă foaia de parcurs și costă o zi de căutare.
 
-Un etalon extern îți spune apoi dacă cifra ta valorează ceva. Pe etalonul pedagogic CDPK, EduQwen a atins **96,52%** față de **90,55%** pentru Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Pedagogy Benchmark, construit din examene reale de dezvoltare profesională a profesorilor și acoperind **97 de modele**, a găsit acuratețe între **28% și 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
+Un etalon extern îți spune apoi dacă cifra ta valorează ceva. Pe etalonul de [[pedagogy|pedagogie]] CDPK, EduQwen a atins **96,52%** față de **90,55%** pentru Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Pedagogy Benchmark, construit din examene reale de dezvoltare profesională a [[teacher-role|profesorilor]] și acoperind **97 de modele**, a găsit acuratețe între **28% și 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
 
 La o sarcină despre predare, modelele au mers de la slab la bun, așa că un rezultat de etalon așază sistemul tău undeva într-un interval larg.
 
@@ -102,9 +102,9 @@ Rulează verificarea pe conversații complete și scrie deliberat replicile de t
 
 ## Verifică studentul simulat înainte să te încrezi în el
 
-A genera studenți simulați în loc să recrutezi studenți reali face evaluarea mult mai ieftină. Un student simulat este și un instrument de măsurare, și poate greși în felurile în care instrumentele greșesc: prea cooperant, prea fluent, prea rapid să accepte un indiciu.
+A genera [[simulating-students|studenți simulați]] în loc să recrutezi studenți reali face evaluarea mult mai ieftină. Un student simulat este și un instrument de măsurare, și poate greși în felurile în care instrumentele greșesc: prea cooperant, prea fluent, prea rapid să accepte un indiciu.
 
-Cel mai direct test din baza de cunoștințe a comparat studenți simulați și studenți promptați cu **382 de dialoguri ținute deoparte** din cea mai mare colecție publică de dialoguri reale student-tutore la matematică, folosind șapte măsuri care acoperă limbajul, comportamentul și gândirea ([[simulated-students-tutoring-dialogues-2026]]). Alte lucrări împing realismul din unghiuri diferite: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] antrenează modele să acționeze și să gândească precum studenții, iar profilurile conștiente de istoric condiționează simularea pe trecutul unui student, nu pe o personă fixă ([[history-aware-student-simulation|simulare de student conștientă de istoric]]).
+Cel mai direct test de aici a comparat studenți simulați și studenți promptați cu **382 de dialoguri ținute deoparte** din cea mai mare colecție publică de dialoguri reale student-tutore la matematică, folosind șapte măsuri care acoperă limbajul, comportamentul și gândirea ([[simulated-students-tutoring-dialogues-2026]]). Alte lucrări împing realismul din unghiuri diferite: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] antrenează modele să acționeze și să gândească precum studenții, iar profilurile conștiente de istoric condiționează simularea pe trecutul unui student, nu pe o personă fixă ([[history-aware-student-simulation|simulare de student conștientă de istoric]]).
 
 Dacă platforma ta de testare este un student simulat, validează simulatorul față de transcrieri reale înainte să îl lași să îți noteze tutorele.
 

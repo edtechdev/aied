@@ -11,9 +11,9 @@ research_method: [literature review]
 audience: [researchers]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, benchmark, meta-analysis-systematic-review, research-methods-aied]
-updated: "2026-10-29T11:57:27-04:00"
+updated: "2026-11-15T16:27:51-05:00"
 translation_of: faqs/reporting-interpreting-aied-research
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -47,7 +47,7 @@ O většině těchto případů rozhoduje šest opomenutí: který systém AI by
 
 Toto je kontrola, na které selhává většina podání. Rámec RAISE (*Reporting AI Studies in Education*, Allison 2026) je kontrolní seznam o 30 položkách v deseti tematických doménách a jeho diagnostické tvrzení je konkrétní: podání rutinně opomíjejí, který model byl použit, jak byl nakonfigurován, jakou roli sehrál a zda lidské aktéry jeho výstupy navrhly nebo revidovaly. Recenzentům pak zůstanou čtyři nezodpověditelné otázky. Co přesně AI dělala? Byla nezbytná? Je to replikovatelné? Jsou tvrzení o učení uvěřitelná?
 
-RAISE probíhá od vzdělávacího zdůvodnění přes specifikaci na úrovni API, interakci žáka s AI, přístupnost a kulturní vhodnost, účastníky a prostředí, zapojení lidí, design, etiku, transparentnost a reprodukovatelnost až k omezením. Jeho doprovodná Matice etiky a rizik pokrývá rizika pro [[agency|agenturnost]] žáka, [[equity-in-ai-education|rovnost]], [[governance|správu]] dat a algoritmickou transparentnost. [[tep-aied-model-reporting-2026|Hwang, Xie, Wah a Gašević (2026)]] nabízejí zjednodušenou alternativu. TEP-AIED skládá transparentnost, etiku a pedagogiku do jedné vzájemně závislé struktury, dodává tabulku pokynů mapovanou na sedm sekcí článku a žádá autory, aby přidali podsekci Metody nazvanou „Transparency, Ethics, and Pedagogy Considerations“. Jejich důvod je praktický: RAISE je vyčerpávající a pro rutinní empirické použití příliš jemný. Uvedení spadá pod [[ai-use-disclosure]] a je tím, co činí tvrzení o [[privacy|soukromí]] a [[ethics|etice]] ověřitelnými.
+RAISE probíhá od vzdělávacího zdůvodnění přes specifikaci na úrovni API, [[student-ai-interaction|interakci žáka s AI]], přístupnost a kulturní vhodnost, účastníky a prostředí, zapojení lidí, design, etiku, transparentnost a reprodukovatelnost až k omezením. Jeho doprovodná Matice etiky a rizik pokrývá rizika pro [[agency|agenturnost]] žáka, [[equity-in-ai-education|rovnost]], [[governance|správu]] dat a algoritmickou transparentnost. [[tep-aied-model-reporting-2026|Hwang, Xie, Wah a Gašević (2026)]] nabízejí zjednodušenou alternativu. TEP-AIED skládá transparentnost, etiku a pedagogiku do jedné vzájemně závislé struktury, dodává tabulku pokynů mapovanou na sedm sekcí článku a žádá autory, aby přidali podsekci Metody nazvanou „Transparency, Ethics, and Pedagogy Considerations“. Jejich důvod je praktický: RAISE je vyčerpávající a pro rutinní empirické použití příliš jemný. Uvedení spadá pod [[ai-use-disclosure]] a je tím, co činí tvrzení o [[privacy|soukromí]] a [[ethics|etice]] ověřitelnými.
 
 Vzdělávací zdůvodnění je v RAISE na prvním místě, protože AI není neutrální nástroj. Hodnota závisí na sladění učebního problému, teoretického zdůvodnění a mapování cílů na měřítka výsledků. [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] zjistil, že všechny kromě dvou ze 14 auditovaných metaanalýz definovaly léčbu jako nástroj, ChatGPT nebo GenAI nebo obecně „AI“. Název produktu není [[pedagogy|pedagogika]]. Pojímat vystavení ChatGPT jako jednu společnou intervenci je srovnatelné s metaanalýzou efektů „papíru“.
 
@@ -87,7 +87,7 @@ Shoda s lidskými kodéry je jiná věc než kvalita a reportovat ji, jako by by
 
 ## Uveďte náklady a vlastní použití
 
-Přehled všech konferenčních článků AIED 2025 našel vzorec přijetí LLM bez uvedení: většina projektů LLM používala a jen hrstka reportovala spotřebu zdrojů nebo uhlíkovou stopu. Ten článek dodává open-source metodu s měřicími nástroji pro lokální i cloudový hardware a vzorec pro odhad výpočetní zátěže modelů na špičkové úrovni, jejichž počty parametrů nejsou zveřejněny. Jeho argument je, že nereportovat tyto náklady je samo o sobě etický problém. Správa dat, souhlas, přístupnost a kulturní vhodnost patří do stejného odstavce (položky RAISE; [[universal-design-for-learning]], [[accessibility]]). [[equity-ethics-pedagogical-safety-research]] nese plnější zpracování.
+Přehled všech konferenčních článků AIED 2025 našel vzorec přijetí LLM bez uvedení: většina projektů LLM používala a jen hrstka reportovala spotřebu zdrojů nebo uhlíkovou stopu. Ten článek dodává [[open-source|open-source]] metodu s měřicími nástroji pro lokální i cloudový hardware a vzorec pro odhad výpočetní zátěže modelů na špičkové úrovni, jejichž počty parametrů nejsou zveřejněny. Jeho argument je, že nereportovat tyto náklady je samo o sobě etický problém. Správa dat, souhlas, přístupnost a kulturní vhodnost patří do stejného odstavce (položky RAISE; [[universal-design-for-learning]], [[accessibility]]). [[equity-ethics-pedagogical-safety-research]] nese plnější zpracování.
 
 Vaše vlastní použití AI ve výzkumném procesu potřebuje stejné uvedení. [[prisma-llm-ai-assisted-systematic-reviews-2026|Analýza PRISMA-LLM od Zabalety a Lin]] u 888 článků o automatizaci přehledů ukazuje, jak nerovnoměrné toto reportování je. Od roku 2023 neuvedlo 38,0 % článků o softwaru a produktech žádnou evaluaci, proti 9,3 % článků o LLM. Průměrná bohatost reportování byla 6,3 u článků o LLM a 3,3 u článků o softwaru a produktech. 84,1 % použití LLM se opíralo o proprietární nebo hostované systémy a jen 4,9 % o otevřené váhy. Jejich rámec odděluje uvedení implementace od evaluace citlivé na důsledky v pěti úrovních uvedení, což je použitelná šablona pro popis toho, co nástroj v přehledu dělal.
 
@@ -103,7 +103,7 @@ Reportování nulových a negativních zjištění je druhá polovina poctivé d
 
 ## V čem se výzkumníci v tomto mýlí
 
-**„Velikost efektu je vlastnost modality.“** Neexistuje žádný efekt AI ve vzdělávání, který by se dal reportovat. Všechny kromě dvou auditovaných metaanalýz definovaly léčbu názvem nástroje, jen 21 % auditovaných srovnání mělo definovanou léčbu, kontrolu a platné měřítko a sdružené g = 0,7 sedělo nad úrovní inteligentního tutoringu postaveného pro tento účel, který měl 0,66. Velikost efektu patří designu, populaci a měřicí příležitosti.
+**„Velikost efektu je vlastnost modality.“** Neexistuje žádný efekt [[ai-education|AI ve vzdělávání]], který by se dal reportovat. Všechny kromě dvou auditovaných metaanalýz definovaly léčbu názvem nástroje, [[generative-ai|ChatGPT]] nebo GenAI nebo obecně „AI“, jen 21 % auditovaných srovnání mělo definovanou léčbu, kontrolu a platné měřítko a sdružené g = 0,7 sedělo nad úrovní inteligentního tutoringu postaveného pro tento účel, který měl 0,66. Velikost efektu patří designu, populaci a měřicí příležitosti.
 
 **„Sdružený průměr je to, co se stane mým studentům.“** Průměr popisuje soubor studií a nic v něm nefixuje jedinou konkrétní třídu. Průměr korigovaný na vychýlení je SMD = 0,196 a jeho predikční interval sahá od -1,521 do +1,908. Reportovaná heterogenita je nad 80 % u 12 ze 13 metaanalýz a žádná podskupina ve větším souboru nevykazovala konzistentní zisky. Změnu na úrovni studenta z žádného z těch čísel identifikovat nelze.
 
@@ -117,11 +117,11 @@ Reportování nulových a negativních zjištění je druhá polovina poctivé d
 
 **„Recenzenti chtějí novost, ne detaily metody.“** Časopisy se ubírají opačným směrem. RAISE a TEP-AIED dávají editorům konstrukt, který mohou vyžadovat, a podsekce Metody v TEP-AIED je vstupním bodem s nízkým třením. Detail metody je to, co z nehodnotitelného článku činí citovatelný.
 
-**„Nemáme na to místo.“** Pět úrovní uvedení jsou úrovně reportování, a ne úrovně rizika, takže hloubka evaluace může být jedna nebo dvě věty. Verze, prompty a role se vejdou do krátkého odstavce. Náklady a správa se vejdou do věty v omezeních.
+**„Nemáme na to místo.“** Pět úrovní uvedení jsou úrovně reportování, a ne úrovně rizika, takže hloubka evaluace může být jedna nebo dvě věty. Verze, [[prompt-engineering|prompty]] a role se vejdou do krátkého odstavce. Náklady a správa se vejdou do věty v omezeních.
 
 **„Všichni to tak reportují.“** Čísla říkají, že problémem je norma: 61 % prověřených primárních studií s obavami o validitu, 12 ze 13 metaanalýz nad 80 % heterogenity, 38,0 % článků o softwaru a produktech bez jakékoli evaluace.
 
-**„Náš nástroj je proprietární, takže model reportovat nemůžeme.“** Reportujte verzi, datum přístupu, konfiguraci, prompty, které jste zadali, roli a guardrails. Pokud dodavatel nechce nic říct, patří toto omezení do omezení jako hranice tvrzení.
+**„Náš nástroj je proprietární, takže model reportovat nemůžeme.“** Reportujte verzi, datum přístupu, konfiguraci, prompty, které jste zadali, roli a [[guardrails|guardrails]]. Pokud dodavatel nechce nic říct, patří toto omezení do omezení jako hranice tvrzení.
 
 **„Reportování nul nám uškodí.“** Potlačené nuly jsou dokumentovaným mechanismem, který stojí za průměrem SMD = 0,196 korigovaným na vychýlení. Právě jejich publikování udržuje váš pozitivní výsledek čitelným.
 

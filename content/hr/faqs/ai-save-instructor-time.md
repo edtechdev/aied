@@ -6,9 +6,9 @@ weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-updated: "2026-10-29T14:24:49-04:00"
+updated: "2026-11-15T16:19:16-05:00"
 translation_of: faqs/ai-save-instructor-time
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -50,7 +50,7 @@ To je preraspodjela, a ne smanjenje: ono što dobivate od [[generative-ai|genera
 
 Kvaliteta je neravnomjerna u obrascu koji je dovoljno stabilan da se prema njemu planira. Neovisni ocjenjivači preferirali su verzije zaključaka nastavnih jedinica i izlaznih listića koje je dala umjetna inteligencija u 59,7% slučajeva pred materijalima koje su osmislili stručnjaci, a materijal umjetne inteligencije za srednjoškolski sadržaj u 59,2% slučajeva. Ušteda raste i tamo gdje je vaše samopouzdanje najniže: poučavanje izvan vlastitog predmeta slučaj je s najvećim jazom između onoga što vam alat daje i onoga što biste napisali sami.
 
-Dvije kategorije idu u suprotnom smjeru. Na materijalu za osnovnoškolsku razinu ljudi su preferirani u otprilike 65% slučajeva zbog razvojne primjerenosti. Ciljane [[scaffolding|postupne potpore]] za [[multilingual-learning|višejezične]] učenike i učenike u [[special-education|posebnom obrazovanju]] vraćale su se neutralne, a ne pogrešne, što je gore nego što zvuči, jer neutralnu potporu gradite iznova od početka.
+Dvije kategorije idu u suprotnom smjeru. Na materijalu za osnovnoškolsku razinu ljudi su preferirani u otprilike 65% slučajeva zbog razvojne primjerenosti. Ciljane [[scaffolding|postupne potpore]] za [[multilingual-learning|višejezične]] [[learners|učenike i studente]] u [[special-education|posebnom obrazovanju]] vraćale su se neutralne, a ne pogrešne, što je gore nego što zvuči, jer neutralnu potporu gradite iznova od početka.
 
 Test koji to predviđa prije nego što potrošite večer: možete li specificirati zahtjev dovoljno precizno da provjerite izlaz? Izlazni listić o jednom cilju, da. Odgovara li odlomak određenom devetogodišnjaku koji čita dvije godine ispod razine razreda, ne.
 
@@ -64,11 +64,11 @@ Ograda je rečenica koju treba ponijeti na sastanak. Najniži kvartil nije pokaz
 
 ## Mjerite uštedu, nemojte je osjećati
 
-Ušteda vremena tvrdnja je o sebi koju nastavnici najpouzdanije pogrešno procjenjuju. U tri predregistrirane studije s 2.691 sudionikom ljudi su podcjenjivali koliko često rabe umjetnu inteligenciju i precjenjivali vrijeme i napor koje im štedi, prijavljujući zadatke kao brže i lakše, dok objektivne mjere nisu pokazale razliku. Upotreba alata ranije u sesiji predviđala je veću upotrebu kasnije, pa se pogreška nagomilava unutar jednog poslijepodneva ([[efficiency-gain-illusion-ai-overreliance]]).
+Ušteda vremena tvrdnja je o sebi koju nastavnici najpouzdanije pogrešno procjenjuju. U tri predregistrirane studije s 2.691 sudionikom ljudi su podcjenjivali koliko često rabe umjetnu inteligenciju i precjenjivali vrijeme i napor koje im štedi, prijavljujući zadatke kao brže i lakše, dok objektivne mjere nisu pokazale razliku. Upotreba alata ranije u sesiji predviđala je veću upotrebu kasnije, pa se pogreška nagomilava unutar jednog poslijepodneva ([[efficiency-gain-illusion-ai-overreliance|Yu i sur. (2026)]]).
 
 Pomaže [[metacognition|metakognitivna]] kalibracija, a jeftina je inačica dnevnik. Dva tjedna bilježite početak i kraj tri ponavljajuća zadatka, jednog s alatom i dvaju bez njega. Očekujte jedan zadatak s velikom stvarnom uštedom, nekoliko bez nje i par onih u kojima je alat dodao korak pregleda koji je pojeo dobitak.
 
-Napor i sposobnost također se razdvajaju. Studija unutar ispitanika s 13 nastavnika u visokom obrazovanju našla je da je pristup umjetnoj inteligenciji smanjio percipirani kognitivni napor [[learning-design|dizajna učenja]] s medijana 6,33 na 3,33 (p = 0,004), dok obuka [[prompt-engineering|oblikovanja upita]] dodana povrh toga nije poboljšala kvalitetu dizajna ([[pishtari-teacher-ai-training-learning-design-2026]]). Manje naprezanja u četvrtak navečer stvarna je korist. To nije dokaz da su se dizajni poboljšali.
+Napor i sposobnost također se razdvajaju. Studija unutar ispitanika s 13 nastavnika u visokom obrazovanju našla je da je pristup umjetnoj inteligenciji smanjio percipirani kognitivni napor [[learning-design|dizajna učenja]] s medijana 6,33 na 3,33 (p = 0,004), dok obuka [[prompt-engineering|oblikovanja upita]] dodana povrh toga nije poboljšala kvalitetu dizajna ([[pishtari-teacher-ai-training-learning-design-2026|Pishtari i sur., 2026]]). Manje naprezanja u četvrtak navečer stvarna je korist. To nije dokaz da su se dizajni poboljšali.
 
 ## Držite ciljeve i završne ocjene na svojoj strani
 
@@ -80,7 +80,7 @@ Ocjenjivanje je zadatak s najvećom prividnom dobiti i najslabijom prenosivošć
 
 ## Što nastavnici pogrešno razumiju
 
-**„31% je moja brojka.“** To je 259 K-12 [[science-education|prirodoslovnih]] nastavnika na pripremi nastave. Smjer se prenosi, veličina ne. Seminar utemeljen na raspravi može uštedjeti manje, a laboratorijski kolegij s ograničenjima sigurnosti možda neće uštedjeti ništa na dijelu za koji ste najviše htjeli pomoć.
+**„31% je moja brojka.“** To je 259 [[k-12|K-12]] [[science-education|prirodoslovnih]] nastavnika na pripremi nastave. Smjer se prenosi, veličina ne. Seminar utemeljen na raspravi može uštedjeti manje, a laboratorijski kolegij s ograničenjima sigurnosti možda neće uštedjeti ništa na dijelu za koji ste najviše htjeli pomoć.
 
 **„Ušteda vremena je cilj.“** Brazilski eksperiment protuprimjer je. Sati su došli besplatno, a najniži kvartil nije dobio ništa. Cilj je ono što sati kupuju.
 

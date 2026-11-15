@@ -1,9 +1,9 @@
 ---
 title: "Ni Mambo Gani Waelimishaji Wanapaswa Kuepuka Kufanya na AI?"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-11T06:20:00-05:00"
+updated: "2026-11-15T16:26:08-05:00"
 type: faq
-connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors]
+connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors, adopting-ai-options-and-issues]
 weight: 90
 foundations: [misconceptions, reducing-ai-misuse, ai-literacy, limitations-in-aied-research]
 pedagogy: [reflection, professional-training]
@@ -12,7 +12,7 @@ assessment: [assessment-validity, ai-detection, self-report-measures, feedback]
 ethics: [privacy, pedagogical-safety, equity-in-ai-education, accessibility, automation-bias]
 audience: [instructors, learners, parents and families, faculty developers, software developers, administrators, researchers]
 translation_of: faqs/what-not-to-do-ai-education
-source_updated: "2026-11-11T06:20:00-05:00"
+source_updated: "2026-11-14T04:30:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -157,8 +157,8 @@ Hakuna tahadhari hizi inayomaanisha zana ni mbaya kila wakati. Kigunduzi kinawez
 ## Wapi kwenda baadaye
 
 - [[addressing-common-misconceptions-ai-education]]: imani zilizo nyuma ya mazoea haya, na jinsi ya kuzirekebisha bila kudharau.
-- [[limitations-in-aied-research]]: kile msingi wa ushahidi hauwezi bado kuunga mkono.
-- [[reducing-ai-misuse]]: vianzio vya kimuundo vya matumizi mabaya, na kwa nini vinashinda mawaidha.
-- [[pedagogical-safety]]: kile mkufunzi anaweza kufanya kwa mwanafunzi huku akipita kila ukaguzi wa maudhui.
+- [[limitations-in-aied-research|Mapungufu katika utafiti wa AIEd]]: kile msingi wa ushahidi hauwezi bado kuunga mkono.
+- [[reducing-ai-misuse|Kupunguza matumizi mabaya ya AI]]: vianzio vya kimuundo vya matumizi mabaya, na kwa nini vinashinda mawaidha.
+- [[pedagogical-safety|Usalama wa kiufundishaji]]: kile mkufunzi anaweza kufanya kwa mwanafunzi huku akipita kila ukaguzi wa maudhui.
 - [[should-we-use-ai-detectors]]: ushahidi wa vigunduzi kwa ukamilifu.
 - [[checking-whether-educational-ai-works]]: jinsi ya kutathmini dai kabla ya kulichukua.

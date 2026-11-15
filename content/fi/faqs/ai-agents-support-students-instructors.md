@@ -6,9 +6,9 @@ weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-updated: "2026-10-29T14:13:22-04:00"
+updated: "2026-11-15T16:23:06-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Toimittajan demo kestää neljäkymmentä minuuttia. Agentti lukee opetussuunnit
 
 [[agentic-workflows-education|Agenttiset työnkulut koulutuksessa]] nimeää neljä toistuvaa kyvykkyyttä: reflektio, suunnittelu, työkalujen käyttö ja moniagenttinen yhteistyö. Jokainen niistä lisää mahdollisuuden rinnalle kustannuksen [[explainable-ai|tulkittavuudessa]], koordinaatiossa, [[trust-calibration|luottamuksessa]], viiveessä ja valvonnassa.
 
-Opiskelijan puolen roolit ulottuvat [[adaptive-learning|adaptiivisesta]] ohjauksesta ja opintojen suunnittelusta [[formative-assessment|formatiivisen]] palautteen, ohjatun [[problem-solving|ongelmanratkaisun]] ja harjoitusten tuottamisen kautta esitietosuosituksiin ja reflektoivaan [[metacognition|metakognitiiviseen]] [[prompt-engineering|kehotemuotoiluun]]. Opettajan puolen roolit kattavat materiaalin kehittämisen, [[automated-question-generation|kysymysten tuottamisen]] ja validoinnin, palautteen lajittelun, kurssin [[learning-analytics|analytiikan]], opetussuunnittelun, resurssien haun ja erikoistuneiden ala-agenttien orkestroinnin.
+Opiskelijan puolen roolit ulottuvat [[adaptive-learning|adaptiivisesta]] ohjauksesta ja opintojen suunnittelusta [[formative-assessment|formatiivisen]] palautteen, ohjatun [[problem-solving|ongelmanratkaisun]] ja harjoitusten tuottamisen kautta esitietosuosituksiin ja reflektoivaan [[metacognition|metakognitiiviseen]] [[prompt-engineering|kehotemuotoiluun]]. Opettajan puolen roolit kattavat materiaalin kehittämisen, [[automated-question-generation|kysymysten tuottamisen]] ja validoinnin, palautteen lajittelun, kurssin [[learning-analytics|analytiikan]], [[learning-design|opetussuunnittelun]], resurssien haun ja erikoistuneiden ala-agenttien orkestroinnin.
 
 Kaksi niistä on turvallisempia varhain, koska molemmat tuottavat artefaktin, jonka ihminen lukee ennen opiskelijoita: kysymysten tuottaja yhdistettynä validaattoriin ja luonnostelu, jota opettaja muokkaa.
 

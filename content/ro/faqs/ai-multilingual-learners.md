@@ -1,7 +1,7 @@
 ---
 title: "Cum poate IA să sprijine studenții multilingvi fără să le judece greșit cunoștințele sau să le șteargă vocea?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:26:07-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
@@ -51,7 +51,7 @@ Scrie decizia unde studenții o pot citi. Dacă studenții pot traduce instrucț
 
 ## Ce susține cercetarea și ce nu
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez și Arabadzhy (2026)]] au revizuit 24 de studii empirice despre [[conversational-ai|chatboturi]] generativi în [[language-learning|învățarea limbilor]]. Contribuția lor este taxonomică: fiecare facilitate secundară catalogată pentru chatboturile pre-generative persistă, iar trei sunt noi, între care **translanguaging**, mișcarea deliberată între limbi ca parte a învățării. Aceasta este o hartă a utilizărilor și experiențelor raportate, nu o estimare cumulată, iar corpusul este concentrat geografic, cu China, Iran, Taiwan și Turcia acoperind 19 dintre cele 24 de studii și toate, în afară de unul, desfășurate în instituții formale. Sprijinul pentru folosirea explicației translingvistice ca mișcare de învățare nu este sprijin pentru a traduce fiecare temă.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez și Arabadzhy (2026)]] au revizuit 24 de studii empirice despre [[conversational-ai|chatboturi]] generativi în [[language-learning|învățarea limbilor]]. Contribuția lor este taxonomică: fiecare facilitate secundară catalogată pentru chatboturile pre-generative persistă, iar trei sunt noi, între care **translanguaging**, mișcarea deliberată între limbi ca parte a învățării. Aceasta este o hartă a utilizărilor și experiențelor raportate, nu o estimare cumulată, iar studiile sunt concentrate geografic, cu China, Iran, Taiwan și Turcia acoperind 19 dintre cele 24 de studii și toate, în afară de unul, desfășurate în instituții formale. Sprijinul pentru folosirea explicației translingvistice ca mișcare de învățare nu este sprijin pentru a traduce fiecare temă.
 
 Evaluarea este locul unde dovezile devin mai ascuțite și miza crește. [[ai-scoring-language-bias-physics|Feser și Tschisgale (2026)]] au comparat unsprezece abordări de notare automată cu punctajele experților umani pentru explicațiile de fizică a 116 studenți de liceu și au găsit o subestimare sistematică a înțelegerii conceptuale la explicațiile lingvistic mai slabe, în fiecare abordare. Designul izolează mecanismul: același conținut conceptual, exprimat în proză mai slabă, a fost notat mai jos. Aceasta nu este o afirmație despre studenții multilingvi dintr-o anumită țară și este exact tiparul care face din acordul global de notare un diagnostic slab. Un notator poate fi de acord cu notatorii umani în medie, în timp ce greșește într-o direcție constantă pentru studenții a căror limbă este încă în dezvoltare.
 
@@ -73,7 +73,7 @@ Acestea sunt utilizări de pilotat, nu intervenții validate. Un instrument care
 
 ## Protejează sensul și vocea studentului
 
-Cere ajutor țintit înainte de a cere o rescriere, pentru că o rescriere integrală este locul unde gândirea studentului părăsește pagina. O cerere care merită predată: „Identifică două locuri unde sensul meu este neclar. Explică problema și oferă opțiuni. Păstrează exemplele mele și nu adăuga afirmații.” Apoi studentul alege.
+Cere ajutor țintit înainte de a cere o rescriere, pentru că o rescriere integrală este locul unde gândirea studentului părăsește ciorna. O cerere care merită predată: „Identifică două locuri unde sensul meu este neclar. Explică problema și oferă opțiuni. Păstrează exemplele mele și nu adăuga afirmații.” Apoi studentul alege.
 
 O secvență care păstrează munca la student:
 

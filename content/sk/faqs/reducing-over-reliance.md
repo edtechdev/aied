@@ -11,9 +11,9 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
-updated: "2026-10-29T12:11:34-04:00"
+updated: "2026-11-15T16:27:26-05:00"
 translation_of: faqs/reducing-over-reliance
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ Podstatné je toto: nadmerná závislosť je väčšinou problém umiestnenia n�
 
 **5.** Načasujte prompt na reflexiu do fázy úlohy, ktorú ešte môže zmeniť.
 
-**6.** Pozrite sa, koho váš dizajn necháva za sebou, podľa predchádzajúcich vedomostí, nie podľa priemeru.
+**6.** Pozrite sa, koho váš dizajn necháva za sebou, podľa [[prior-knowledge|predchádzajúcich vedomostí]], nie podľa priemeru.
 
 ## Rozhodnite sa, či máte problém, alebo len intenzívne používanie
 
@@ -59,7 +59,7 @@ Behaviorálne nástroje sú redšie. [[pause-ai-cognitive-offloading-self-reflec
 
 ## Postavte študentov pokus pred nástroj
 
-Najjasnejšia testovaná postupnosť je „najprv myslieť, ChatGPT až potom“. [[think-first-chatgpt-later-2026|Wong a Qiu (2026)]] priradili N = 196 študentov k samostatnej práci, k voľnému používaniu ChatGPT alebo k regulovanej podmienke: vytvorte vlastné nápady, spolupracujte s ChatGPT na ich zlepšení a vyhodnotení a potom samostatne prepracujte a odovzdajte jedno riešenie. Skupina s voľným používaním vytvorila tvorivejšiu prácu na asistovanej úlohe a na neskoršej ťažšej úlohe bez ChatGPT klesla na úroveň práce len vlastnými silami. Regulovaná skupina nemala okamžitú výhodu a neskôr prekonala obe ostatné skupiny v samostatnej tvorivosti.
+Najjasnejšia testovaná postupnosť je „najprv myslieť, [[generative-ai|ChatGPT]] až potom“. [[think-first-chatgpt-later-2026|Wong a Qiu (2026)]] priradili N = 196 študentov k samostatnej práci, k voľnému používaniu ChatGPT alebo k regulovanej podmienke: vytvorte vlastné nápady, spolupracujte s ChatGPT na ich zlepšení a vyhodnotení a potom samostatne prepracujte a odovzdajte jedno riešenie. Skupina s voľným používaním vytvorila tvorivejšiu prácu na asistovanej úlohe a na neskoršej ťažšej úlohe bez ChatGPT klesla na úroveň práce len vlastnými silami. Regulovaná skupina nemala okamžitú výhodu a neskôr prekonala obe ostatné skupiny v samostatnej [[creativity|tvorivosti]].
 
 Údaje z promptov vysvetľujú rozdiel. V regulovanej skupine bolo 88,6 % promptov kolaboratívnych a to bol jediný typ promptu, ktorý významne koreloval s neskoršou samostatnou originalitou. V skupine s voľným používaním bolo 70,9 % promptov nekolaboratívnych a 59,6 % jednoducho žiadalo ChatGPT, aby nápady priamo vygeneroval. Ten istý nástroj, oslovený dvoma spôsobmi, vytvoril dvoch rôznych študentov.
 
@@ -75,7 +75,7 @@ O tom, či postupnosť vydrží, rozhodujú dva detaily z triedy. Prvým je čas
 
 V praxi to znamená chránenú AI v strede úlohy, kde prácu robia nápovedy, riešené príklady a cvičenia, a zabezpečenú kontrolu na konci. Politiku používania AI to zároveň mení na pravidlo umiestnenia pre jednotlivé zručnosti, ktoré sa píše a obhajuje ľahšie než zoznam zákazov.
 
-Nápoveda je otázka o študentovom ďalšom kroku, riešený príklad podobného problému alebo odkaz na príslušnú pasáž. Odpoveď je hotová veta, ktorú študent môže vložiť. Väčšina univerzálnych chatbotov produkuje predvolene to druhé, plynulou prózou, ktorá vyzerá ako pomoc, a preto je nastavenie dôležitejšie než úmysly študenta.
+Nápoveda je otázka o študentovom ďalšom kroku, riešený príklad podobného problému alebo odkaz na príslušnú pasáž. Odpoveď je hotová veta, ktorú študent môže vložiť. Väčšina univerzálnych [[conversational-ai|chatbotov]] produkuje predvolene to druhé, plynulou prózou, ktorá vyzerá ako pomoc, a preto je nastavenie dôležitejšie než úmysly študenta.
 
 ## Vyžadujte overenie a urobte ho viditeľným
 
@@ -97,7 +97,7 @@ Vyberte mierne a overiteľné zlyhanie, napríklad citáciu, ktorá neexistuje, 
 
 Asistovaný produkt je slabou náhradou schopnosti, takže aspoň jeden známkovaný moment musí prebehnúť bez nástroja. Neskoršia úloha bez asistencie v [[think-first-chatgpt-later-2026|práci Wonga a Qiu (2026)]] je tým meraním. Ich skupina pracujúca len vlastnými silami tiež klesla na ťažšom následnom teste, čo vylučuje jednoduchú verziu riešenia: odobrať nástroj bez podpory študenta nie je intervencia.
 
-Striedanie režimov má podporu. PAUSE uvádza výsledok Kosmyna et al. (2025) zo štvrtého sedenia, kde účastníci pracujúci len vlastnou hlavou, ktorí neskôr použili ChatGPT, prekonali tých, čo LLM používali nepretržite. Zodpovednosť funguje aj cez vysvetľovanie: Makransky et al. (2025) zistili, že doučovací chatbot, ktorý študentov nabádal spájať myšlienky a vysvetľovať svoje uvažovanie, viedol k lepšiemu výkonu v hodnotení než tradičná výučba.
+Striedanie režimov má podporu. PAUSE uvádza výsledok Kosmyna et al. (2025) zo štvrtého sedenia, kde účastníci pracujúci len vlastnou hlavou, ktorí neskôr použili ChatGPT, prekonali tých, čo [[llm|LLM]] používali nepretržite. Zodpovednosť funguje aj cez vysvetľovanie: Makransky et al. (2025) zistili, že doučovací chatbot, ktorý študentov nabádal spájať myšlienky a vysvetľovať svoje uvažovanie, viedol k lepšiemu výkonu v hodnotení než tradičná výučba.
 
 Pre kurz to znamená striedať: asistovaná práca v praxi, neasistovaná tam, kde sa to počíta. Asistovanú časť čítajte ako záznam výkonu v dobrých podmienkach a neasistovanú ako dôkaz o učení. Ich porovnanie je aj najužitočnejší rozhovor, aký môžete viesť so študentom, ktorý nerozumie svojej známke.
 
@@ -127,7 +127,7 @@ Formulácia promptu je menej dôležitá než jeho umiestnenie. Pred lekciou sa 
 
 ## Očakávajte, že riziko sa zhlukuje
 
-[[lodge-loble-cognitive-offloading-2026|Lodge a Loble (2026)]] lokalizujú riziko do predchádzajúcich vedomostí a samoregulácie a pomenúvajú **metakognitívnu medzeru v rovnosti**: dobré používanie AI vyžaduje zdroje, ktoré nováčikom chýbajú, takže študenti, ktorí prax potrebujú najviac, najpravdepodobnejšie delegujú samotné učenie. Uvádzajú, že 80 % austrálskych študentov už AI používa a že to robia dve tretiny učiteľov nižšieho stredného vzdelávania (OECD 2025).
+[[lodge-loble-cognitive-offloading-2026|Lodge a Loble (2026)]] lokalizujú riziko do predchádzajúcich vedomostí a samoregulácie a pomenúvajú **metakognitívnu medzeru v [[equity-in-ai-education|rovnosti]]**: dobré používanie AI vyžaduje zdroje, ktoré nováčikom chýbajú, takže študenti, ktorí prax potrebujú najviac, najpravdepodobnejšie delegujú samotné učenie. Uvádzajú, že 80 % austrálskych študentov už AI používa a že to robia dve tretiny učiteľov nižšieho stredného vzdelávania (OECD 2025).
 
 Vek a návyky korelujú s tým istým vzorcom. [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] zistil, že účastníci vo veku 17 až 25 rokov vykazovali vyššiu závislosť na AI a vyššie odľahčenie a nižšie kritické myslenie než tí vo veku 46 a viac a že dosiahnuté vzdelanie predpovedalo lepšie kritické myslenie bez ohľadu na používanie AI (r = +0,34), pričom významná interakcia naznačovala, že vzdelanie negatívny efekt zmierňuje. [[genai-over-reliance-learning-2026|Gao, Sun a Khan (2026)]] zistili, že polychronicita, sklon k multitaskingu, moderuje túto dráhu a študenti s vysokou polychronicitou sú viac ohrození.
 
@@ -139,27 +139,27 @@ Kontext je rovnako dôležitý ako osoba a váš kurz časť kontextu riadi. [[a
 
 Nič v tomto korpuse netestuje, či konkrétna intervencia proti nadmernej závislosti obstojí naprieč prostrediami alebo semestrami. „Najprv myslieť“ stojí na jednom experimente s N = 196. Výsledok so zadržiavaním odpovedí pochádza zo syntézy [[brcic-effortless-trap-productive-struggle-2026|Brcica a Frljica (2026)]], nie z vlastného pokusu. Argument trenia je koncepčný komentár bez nových údajov. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] uvádza limity modelu: exogénna stacionárna kvalita AI, fixná sieť, štylizované overovanie. Odhad skutočných hodnôt by vyžadoval longitudinálne záznamy miery overovania po jednotlivých úlohách, silu sociálneho dôkazu a spôsob, akým sa dôvera aktualizuje po overenom oproti neoverenému použitiu.
 
-Meranie zostáva najslabším článkom. Dominujú dotazníkové dizajny a [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] aj [[genai-over-reliance-learning-2026|Gao, Sun a Khan (2026)]] volajú po longitudinálnom a experimentálnom pokračovaní. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] nemá psychometriku a bol postavený pre dospelých. Či sa medzera v rovnosti dá uzavrieť výučbou, je teoretizované, nie preukázané.
+Meranie zostáva najslabším článkom. Dominujú dotazníkové dizajny a [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] aj [[genai-over-reliance-learning-2026|Gao, Sun a Khan (2026)]] volajú po longitudinálnom a experimentálnom pokračovaní. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] nemá [[educational-measurement|psychometriku]] a bol postavený pre dospelých. Či sa medzera v rovnosti dá uzavrieť výučbou, je teoretizované, nie preukázané.
 
 Zostáva vám rozumná stávka za nízku cenu. Zmeňte jedno zadanie, zachovajte meranie bez pomoci a skontrolujte, či sa medzera medzi asistovanou a neasistovanou prácou zúži. Neprestavujte kvôli týmto číslam celý kurz.
 
 ## V čom sa učitelia mýlia
 
-**Študenti, ktorí to používajú najviac, sú tí v problémoch.** Frekvencia je to, čo dotazníky zachytia a dashboardy zobrazia, a nie je to konštrukt. Študent, ktorý každú odpoveď overí a cituje vaše materiály, môže AI používať denne a byť v poriadku. Študent, ktorý raz za týždeň odovzdá prvý výstup, má problém.
+**Študenti, ktorí to používajú najviac, sú tí v problémoch.** Frekvencia je to, čo dotazníky zachytia a [[visualization|dashboardy]] zobrazia, a nie je to konštrukt. Študent, ktorý každú odpoveď overí a cituje vaše materiály, môže AI používať denne a byť v poriadku. Študent, ktorý raz za týždeň odovzdá prvý výstup, má problém.
 
 **Zákaz riziko odstráni.** Najsilnejšie výsledky tu pochádzajú z umiestnenia a rameno Wonga a Qiu s prácou len vlastnými silami tiež kleslo na ťažšom následnom teste. Odobrať nástroj bez podpory študenta necháva náročnosť tam, kde bola.
 
-**Lacnejšia kontrola vyrieši overovanie.** Zjednodušenie kontroly bolo najslabšou pákou v Biswasovom modeli, pretože prekážka je sociálna. Lepší detektor plagiátov neprinúti študenta prečítať zdroj.
+**Lacnejšia kontrola vyrieši overovanie.** Zjednodušenie kontroly bolo najslabšou pákou v Biswasovom modeli, pretože prekážka je sociálna. Lepší detektor [[academic-integrity|plagiátov]] neprinúti študenta prečítať zdroj.
 
 **Dashboard používania mi povie, kto odľahčuje.** Položky PAUSE zaznamenávajú, kedy a ako často AI vstupuje do pracovného postupu, a autori sami upozorňujú na problém validity. Starostlivý študent pracujúci s lešením je vyhodnotený ako odľahčujúci, takže konanie podľa tých čísel trestá študentov, ktorých si chcete udržať.
 
 **Plynulosť a spokojnosť ukazujú, že dizajn funguje.** To je ilúzia, ktorú [[lodge-loble-cognitive-offloading-2026|Lodge a Loble (2026)]] opisujú vo svojom paradoxe výkonu: práca pôsobí plynulo a študenti v danej chvíli podávajú dobrý výkon, no pamätajú si menej. Výkon bez pomoci a oneskorený [[transfer-of-learning|transfer]] sú merania, ktoré na otázku odpovedajú.
 
-**Naučte študentov AI gramotnosť a problém zmizne.** [[lodge-loble-cognitive-offloading-2026|Lodge a Loble (2026)]] upozorňujú, že prílišná investícia do AI gramotnosti zameranej na študentov môže byť nesprávnym rozložením zdrojov vzhľadom na to, čo nováčikom chýba.
+**Naučte študentov [[ai-literacy|AI gramotnosť]] a problém zmizne.** [[lodge-loble-cognitive-offloading-2026|Lodge a Loble (2026)]] upozorňujú, že prílišná investícia do AI gramotnosti zameranej na študentov môže byť nesprávnym rozložením zdrojov vzhľadom na to, čo nováčikom chýba.
 
 ## Čo vám na to povedia
 
-**„Veď je to len dobrá pedagogika s novým názvom.“** Sčasti. Lešenie, formatívna spätná väzba a produktívny zápas sú staré myšlienky. Novšie je poradie: viditeľné overovanie prekonalo lacnejšie overovanie a dva momenty, ktoré stoja za ochranu, sú prvý náročný pokus a záverečná kontrola bez pomoci. Robte známe veci v novom poradí.
+**„Veď je to len dobrá [[pedagogy|pedagogika]] s novým názvom.“** Sčasti. [[scaffolding|Lešenie]], formatívna spätná väzba a produktívny zápas sú staré myšlienky. Novšie je poradie: viditeľné overovanie prekonalo lacnejšie overovanie a dva momenty, ktoré stoja za ochranu, sú prvý náročný pokus a záverečná kontrola bez pomoci. Robte známe veci v novom poradí.
 
 **„Nedokážem to kontrolovať.“** Nedokážete a dôkazy hovoria, že sa o to nemáte snažiť. Najsilnejší výsledok prinieslo umiestnenie. Navrhnite úlohu tak, aby sa použitie nástroja v nesprávnom momente prejavilo v samotnej práci, ako odpoveď, ktorú študent nevie vysvetliť, alebo chýbajúci krok overenia.
 
@@ -187,4 +187,4 @@ Zostáva vám rozumná stávka za nízku cenu. Zmeňte jedno zadanie, zachovajte
 
 ## Kam ďalej
 
-Susedná otázka, či AI vôbec vytvára učenie, je pokrytá na stránke [[does-ai-help-students-learn|Pomáha používanie AI študentom učiť sa?]]. [[reduce-ai-cheating|Znižovanie podvádzania s AI]] sa zaoberá integritou a limitmi detekcie a [[redesign-assessment-ai-era|redizajn hodnotenia v ére AI]] pokrýva architektúru hodnotenia, ktorú táto stránka predpokladá. K základným myšlienkam pozrite [[cognitive-offloading|kognitívne odľahčenie]], [[metacognition|metakogníciu]] a [[desirable-difficulties|žiadúce ťažkosti]].
+Susedná otázka, či AI vôbec vytvára učenie, je pokrytá na stránke [[does-ai-help-students-learn|Pomáha používanie AI študentom učiť sa?]]. [[reduce-ai-cheating|Znižovanie podvádzania s AI]] sa zaoberá integritou a limitmi detekcie a [[redesign-assessment-ai-era|redizajn hodnotenia v ére AI]] pokrýva architektúru hodnotenia, ktorú predpokladá. K základným myšlienkam pozrite [[cognitive-offloading|kognitívne odľahčenie]], [[metacognition|metakogníciu]] a [[desirable-difficulties|žiadúce ťažkosti]].

@@ -11,9 +11,9 @@ research_method: [experiment, literature review, survey]
 audience: [learners, instructors]
 level: [higher ed, secondary]
 connected_resources: [gemini-notebook]
-updated: "2026-10-29T12:11:34-04:00"
+updated: "2026-11-15T16:27:26-05:00"
 translation_of: faqs/study-with-ai
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 
 Je 23:00, zadanie treba odovzdať o deviatej ráno a okno chatu je už otvorené. Štvrtá úloha prestala dávať zmysel pred hodinou. Nástroj odpovie za desať sekúnd niečím, čo vyzerá ako práca študenta, ktorý tomu rozumie, a vy sa musíte rozhodnúť, či doň napíšete zadanie, alebo najprv svoj vlastný chaos.
 
-Veta, ktorú sa z tejto stránky oplatí odniesť: ten istý model, otvorený v inom bode vášho študijného postupu, robí s vaším učením opačné veci. Otvorte ho skôr, než ste sa pokúsili, a ukončí myslenie, nechá vám čistý súbor a redšiu pamäť. Otvorte ho po pokuse, aby vás skúšal, aby vysvetlil, čo ste vynechali, aby ukázal, kde sa vaša úvaha zlomila, a pracuje ako tútor. Druhá vec, ktorú treba podržať: práca, ktorá dopadla dobre, nie je dôkazom, že ste sa niečo naučili. Vybrúsené odovzdanie ukazuje, čo dokážete vy a model spolu. Skúška, zaraďovací test a ďalší kurz v sekvencii testujú, čo dokážete sami, čo výskum nazýva [[learning-gains|učebnými ziskami]].
+Veta, ktorú sa oplatí odniesť: ten istý model, otvorený v inom bode vášho študijného postupu, robí s vaším učením opačné veci. Otvorte ho skôr, než ste sa pokúsili, a ukončí myslenie, nechá vám čistý súbor a redšiu pamäť. Otvorte ho po pokuse, aby vás skúšal, aby vysvetlil, čo ste vynechali, aby ukázal, kde sa vaša úvaha zlomila, a pracuje ako tútor. Druhá vec, ktorú treba podržať: práca, ktorá dopadla dobre, nie je dôkazom, že ste sa niečo naučili. Vybrúsené odovzdanie ukazuje, čo dokážete vy a model spolu. Skúška, zaraďovací test a ďalší kurz v sekvencii testujú, čo dokážete sami, čo výskum nazýva [[learning-gains|učebnými ziskami]].
 
 ## Krátka verzia
 
@@ -43,15 +43,15 @@ Veta, ktorú sa z tejto stránky oplatí odniesť: ten istý model, otvorený v 
 
 ## Začnite sedenie vlastným pokusom
 
-[[adaptive-pretesting-retention|Akgun a Toker (2026)]] dali 89 vysokoškolákom tú istú adaptívnu predtestovaciu reláciu a tie isté pokyny, a potom sedem týždňov odlišnej praxe. Skupina, ktorej AI sondovala miskoncepcie, vyžadovala rozpracovanie tenkých odpovedí a postupovala ďalej len pri skutočnom konceptuálnom zapojení, dosiahla najvyššie skóre v oneskorenom postteste (M = 78,19) a vynaložila najviac úsilia na prax (M = 0,85). Voľný chat s tým istým modelom dosiahol 67,28 a 0,49, čo je rozdiel d = 0,92.
+[[adaptive-pretesting-retention|Akgun a Toker (2026)]] dali 89 vysokoškolákom tú istú adaptívnu [[retrieval-spacing-interleaving|predtestovaciu]] reláciu a tie isté pokyny, a potom sedem týždňov odlišnej praxe. Skupina, ktorej AI sondovala [[misconceptions|miskoncepcie]], vyžadovala rozpracovanie tenkých odpovedí a postupovala ďalej len pri skutočnom konceptuálnom zapojení, dosiahla najvyššie skóre v oneskorenom postteste (M = 78,19) a vynaložila najviac úsilia na prax (M = 0,85). Voľný chat s tým istým modelom dosiahol 67,28 a 0,49, čo je rozdiel d = 0,92.
 
 Pokus robí prácu aj vtedy, keď je zlý. Napísanie odpovede aktivuje to, čo už viete, a ukáže vám hranu toho. Potom oprava dopadne na niečo.
 
-Politika, ktorú dnes večer môžete vložiť do ľubovoľného chatbota: *vysvetli mi to tak, ako keby ma z toho skúšali, skúšaj ma po jednej otázke, nedávaj mi odpoveď, kým sa nepokusím, povedz mi, čo som pokazil a prečo.* Táto veta reprodukuje usporiadanie, ktoré prinieslo 78,19, a nestojí nič.
+Politika, ktorú dnes večer môžete vložiť do ľubovoľného [[conversational-ai|chatbota]]: *vysvetli mi to tak, ako keby ma z toho skúšali, skúšaj ma po jednej otázke, nedávaj mi odpoveď, kým sa nepokusím, povedz mi, čo som pokazil a prečo.* Táto veta reprodukuje usporiadanie, ktoré prinieslo 78,19, a nestojí nič.
 
 ## Pýtajte si tútora a pomenujte úlohu
 
-Vágne žiadosti dostávajú vágne pomoc. [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg, Feldman-Maggor a Wong (2026)]] interviewovali 20 študentov STEM o tom, ako si hľadali pomoc, a našli štvorfázovú postupnosť, ktorá sa oplatí kopírovať: rozhodnutie, či pomoc treba, výber, koho sa opýtať, rozhodnutie, aký druh pomoci si vyžiadať, a posúdenie toho, čo prišlo späť. Títo študenti išli najprv k modelu, pretože to bola možnosť s najnižšou bariérou, podľa slov jedného študenta „najprv ChatGPT, potom spolužiaci a nakoniec učitelia“, a pýtali si nápovedy, krok za krokom vedenie a vysvetlenia konceptov, nie hotové riešenia. Iný opísal chatbota ako „nápovedu, pomocný nástroj, ale nie samostatné riešenie“.
+Vágne žiadosti dostávajú vágne pomoc. [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg, Feldman-Maggor a Wong (2026)]] interviewovali 20 študentov STEM o tom, ako si hľadali pomoc, a našli štvorfázovú postupnosť, ktorá sa oplatí kopírovať: rozhodnutie, či pomoc treba, výber, koho sa opýtať, rozhodnutie, aký druh pomoci si vyžiadať, a posúdenie toho, čo prišlo späť. Títo študenti išli najprv k modelu, pretože to bola možnosť s najnižšou bariérou, podľa slov jedného študenta „najprv [[generative-ai|ChatGPT]], potom spolužiaci a nakoniec učitelia“, a pýtali si nápovedy, krok za krokom vedenie a vysvetlenia konceptov, nie hotové riešenia. Iný opísal chatbota ako „nápovedu, pomocný nástroj, ale nie samostatné riešenie“.
 
 Ako to znie napísané: „Pri integrácii per partes mi stále vychádza zlé znamienko; tu je môj pokus; kde sa to láme?“ Pomenovaný zádrhel dostane užitočnú odpoveď a „pomôž mi s týmto zadaním“ dostane koncept. Pýtajte si rozpracovaný príklad jedného typu úlohy, študujte jeho tvar a potom urobte ďalší sám. Pýtajte si koncept vysvetlený tak, ako keby vás z neho skúšali, a potom ho bez pozretia vysvetlite naspäť. Pýtajte si otázky, po jednej, a svoju odpoveď zadržte, kým sa pre jednu nerozhodnete.
 
@@ -59,7 +59,7 @@ Vzorec je nástroj pracujúci na vašom porozumení. Zhrnutie kapitoly, ktorú s
 
 ## Zostaňte v rozhovore aj po prvej odpovedi
 
-Medzera medzi tým, čo študenti zamýšľajú, a tým, čo robia, je najkonzistentnejšie zistenie v tejto literatúre. [[yan-cognitive-outsourcing-genai-assessments-2026|Yan a kolegovia (2026)]] interviewovali 38 vysokoškolákov v Japonsku a Číne, kým študenti prechádzali svoje vlastné histórie chatov pri esejach bez dohľadu. Tridsaťjeden z 38 povedalo, že AI chceli používať ako učebného asistenta, a napriek tomu opisovali [[cognitive-offloading|nadmernú závislosť]], mentálnu pohodlnosť a rýchle zabúdanie. Jeden povedal: „rýchlosť, akou to zabudnete, je tiež veľmi vysoká.“ Menšia skupina odovzdala celú úlohu: učiteľ zadá, študent to podá generatívnej AI, generatívna AI vygeneruje, študent skontroluje formátovanie, študent odovzdá, a jeden účastník to opísal ako niečo, čo „úplne nahradilo môj mozog“.
+Medzera medzi tým, čo študenti zamýšľajú, a tým, čo robia, je najkonzistentnejšie zistenie v tejto literatúre. [[yan-cognitive-outsourcing-genai-assessments-2026|Yan a kolegovia (2026)]] interviewovali 38 vysokoškolákov v Japonsku a Číne, kým študenti prechádzali svoje vlastné histórie chatov pri esejach bez dohľadu. Tridsaťjeden z 38 povedalo, že AI chceli používať ako učebného asistenta, a napriek tomu opisovali [[cognitive-offloading|nadmernú závislosť]], mentálnu pohodlnosť a rýchle zabúdanie. Jeden povedal: „rýchlosť, akou to zabudnete, je tiež veľmi vysoká.“ Menšia skupina odovzdala celú úlohu: [[teacher-role|učiteľ]] zadá, študent to podá generatívnej AI, generatívna AI vygeneruje, študent skontroluje formátovanie, študent odovzdá, a jeden účastník to opísal ako niečo, čo „úplne nahradilo môj mozog“.
 
 Len 8 z 38 pracovalo ako to, čo autori nazývajú kognitívni partneri. Nepoužívali menej AI. Ich celkové úsilie zostalo stabilné a zmenilo tvar. Jeden presunul úsilie z hľadania na kontrolu kvality. Iný si po každej relácii s AI písal krátke reflexné poznámky, aby spomalil vyprchávanie okamžite získaných informácií.
 
@@ -73,15 +73,15 @@ Návyky, ktoré obe skupiny oddeľujú, ako pokyny pre seba:
 
 „Kritické používanie“ je fráza, ktorá znamená málo, kým jej časti neoddelíte. [[verification-quality-reliance-calibration-genai-2026|Wei a Shang (2026)]] ich oddeľujú sedem: epistemické hodnotenie, či začnete overovať, ako dobre ste overili, či overenie uspelo, čo ste s výstupom urobili, ako ste si viedli v úlohe a čo ste sa naučili samostatne. Dve z nich záležia viac než ostatné. Overovať nie je to isté ako úspešne overiť a starostlivý postup môže skončiť bez záveru, kým nedbalý náhodou dospeje k správnej odpovedi. [[trust-calibration|Kalibrované spoliehanie]] znamená, že vaše rozhodnutie prijať alebo odmietnuť zodpovedalo skutočnej kvalite výstupu, ktorú nedokážete prečítať z toho, ako isto odpoveď znela.
 
-Tri zistenia robia problém konkrétnym. Dávila a spol. (2025) dali študentom radu, ktorá bola správna asi v polovici prípadov, a zistili, že váha, ktorú jej prikladali, sa menila s ich [[prior-knowledge|predchádzajúcimi vedomosťami]] a rodom, takže dôvera nesledovala presnosť. Zheng a spol. (2025) zdokumentovali vzorec „neúspešnej aplikácie“, v ktorom študent správne nasledoval správne vedenie a aj tak dospel k nesprávnej odpovedi. Ani [[self-efficacy|sebadôvera]] nie je vodítko: Rheu a Cho (2025) zistili, že porozumenie tomu, ako jazykové modely fungujú, bolo spojené s viac samohlasovaným overovaním faktov, kým niektoré formy sebadôvery a znalosti funkcií boli spojené s menej.
+Tri zistenia robia problém konkrétnym. Dávila a spol. (2025) dali študentom radu, ktorá bola správna asi v polovici prípadov, a zistili, že váha, ktorú jej prikladali, sa menila s ich [[prior-knowledge|predchádzajúcimi vedomosťami]] a rodom, takže dôvera nesledovala presnosť. Zheng a spol. (2025) zdokumentovali vzorec „neúspešnej aplikácie“, v ktorom študent správne nasledoval správne vedenie a aj tak dospel k nesprávnej odpovedi. Ani [[self-efficacy|sebadôvera]] nie je vodítko: Rheu a Cho (2025) zistili, že porozumenie tomu, ako jazykové modely fungujú, bolo spojené s viac [[self-report-measures|samohlasovaným]] overovaním faktov, kým niektoré formy sebadôvery a znalosti funkcií boli spojené s menej.
 
 Takže čokoľvek hodnotené overte proti zdroju, ktorý viete pomenovať. Študenti vo Vibergovej štúdii kontrolovali výstupy proti svojim kurzom a vyučujúcim, jeden vysvetlil: „k cvičiacemu idem len vtedy, keď nevieme zistiť, či si ChatGPT vymýšľa.“ Keď to naozaj neviete zistiť, označte bod ako nevyriešený a opýtajte sa človeka. Prijatie tvrdenia, aby bola stránka hotová, je spôsob, akým sa malá neistota stane nesprávnou odpoveďou, ktorú ste si nacvičili.
 
-Svoje základné pravidlá si určte skôr, než ich budete potrebovať. [[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella a kolegovia (2026)]] uskutočnili prieskum medzi 151 vysokoškolákmi a zistili, že etické úsudky boli nevyhnutnými podmienkami zámeru použiť veľký jazykový model na prípravu na skúšku, pričom konsekvencialistické a deontologické uvažovanie predpovedalo tento zámer a zámer silne predpovedal skutočné použitie. To, čo si vopred rozhodnete o tom, čo budete a nebudete robiť, je to, čo vaše správanie nasleduje o 23:00.
+Svoje základné pravidlá si určte skôr, než ich budete potrebovať. [[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella a kolegovia (2026)]] uskutočnili prieskum medzi 151 vysokoškolákmi a zistili, že etické úsudky boli nevyhnutnými podmienkami zámeru použiť [[llm|veľký jazykový model]] na prípravu na skúšku, pričom konsekvencialistické a deontologické uvažovanie predpovedalo tento zámer a zámer silne predpovedal skutočné použitie. To, čo si vopred rozhodnete o tom, čo budete a nebudete robiť, je to, čo vaše správanie nasleduje o 23:00.
 
 ## Nechajte ho na logistiku
 
-Rýchlosť má legitímne použitia. [[ai-guided-learning-audiovideo-2026|Kawamura (2026)]] postavil systémy, ktoré prispôsobujú hovorené prehrávanie obtiažnosti každého segmentu, v priemere asi 1,30×, a generujú multimodálne videásohrny, ktoré skracujú čas pozerania o 53 % bez štatisticky významného rozdielu v skóre kvízov. Zhŕňanie, preklad a plánovanie študijného rozvrhu patria do tej istej kategórie. Prechádzať materiálom rýchlejšie je v poriadku. Vynechať prácu, ktorá vás mení, je tá časť, ktorej sa treba vyhnúť.
+Rýchlosť má legitímne použitia. [[ai-guided-learning-audiovideo-2026|Kawamura (2026)]] postavil systémy, ktoré prispôsobujú hovorené prehrávanie obtiažnosti každého segmentu, v priemere asi 1,30×, a generujú [[multimodal|multimodálne]] videásohrny, ktoré skracujú čas pozerania o 53 % bez štatisticky významného rozdielu v skóre kvízov. Zhŕňanie, preklad a plánovanie študijného rozvrhu patria do tej istej kategórie. Prechádzať materiálom rýchlejšie je v poriadku. Vynechať prácu, ktorá vás mení, je tá časť, ktorej sa treba vyhnúť.
 
 Rozdiel je v tom, kde nástroj sedí vo vzťahu k mysleniu. Zhrnutie kapitoly, ktorú ste už prečítali, šetrí čas. Zhrnutie, ktoré čítate namiesto kapitoly, nahrádza čítanie.
 
@@ -117,7 +117,7 @@ Vyvolávanie z pamäti potrebuje rozvrh. [[memdora-ai-spaced-repetition|Zhang (2
 
 **„Neviem dosť na to, aby som sa najprv pokúsil.“** Pokus je spôsob, akým nájdete hranu toho, čo viete, a predtestovanie pomohlo aj vtedy, keď boli prvé odpovede nesprávne. Napíšte, čo si myslíte, že sa otázka pýta a kde sa zasekávate, a s tým otvorte chat.
 
-**„Môj vyučujúci to zakázal, takže tu nie je čo sa učiť.“** 38 študentov v Yanovej štúdii uviedlo, že ich vyučujúci zakázali kopírovanie a nedali takmer žiadne konkrétne vedenie, a toto vákuum dotlačilo aj študentov s dobrými úmyslami ku kognitívnemu outsourcovaniu. Zákaz vám nedá nič na deň, keď je nástroj povolený, a návyky z tejto stránky sú to, čo si do tých kurzov odnesiete.
+**„Môj vyučujúci to zakázal, takže tu nie je čo sa učiť.“** 38 študentov v Yanovej štúdii uviedlo, že ich vyučujúci zakázali kopírovanie a nedali takmer žiadne konkrétne vedenie, a toto vákuum dotlačilo aj študentov s dobrými úmyslami ku kognitívnemu outsourcovaniu. Zákaz vám nedá nič na deň, keď je nástroj povolený, a tieto návyky sú to, čo si do tých kurzov odnesiete.
 
 ## Čo urobiť tento týždeň
 

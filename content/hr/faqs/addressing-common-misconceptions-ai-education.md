@@ -1,7 +1,7 @@
 ---
 title: "Kako odgovoriti na uobičajene zablude o umjetnoj inteligenciji u obrazovanju?"
 created: "2026-09-04T04:39:00-04:00"
-connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
+connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]
 technology: [prompt-engineering]
@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:18:42-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 
 Vaš prorektor želi jednostranični pregled „mitova o umjetnoj inteligenciji“ za proljetni sastanak nastavnika. Ili je član uprave pročitao da chatbotovi uništavaju kritičko mišljenje i želi stav do petka. Ili ste osoba koja mora u pisanom obliku objasniti zašto katedra neće jednostavno zabraniti alat, a ponestalo vam je načina da kažete da zabrana nije pedagogija.
 
-Svako uvjerenje na ovoj stranici počinje nečim što je razumna osoba vidjela. Tečna proza doista se čita kao točna. Uglađen predani rad doista izgleda kao učenje. Tutor koji odgovara na pitanje doista se osjeća kao pomoć, a politika s riječju „zabranjeno“ doista se osjeća kao odluka. Ispravak koji djeluje imenuje ono što opažanje ne može reći, a zatim predaje provjeru koju osoba može provesti u ponedjeljak.
+Svako od ovih uvjerenja počinje nečim što je razumna osoba vidjela. Tečna proza doista se čita kao točna. Uglađen predani rad doista izgleda kao učenje. Tutor koji odgovara na pitanje doista se osjeća kao pomoć, a politika s riječju „zabranjeno“ doista se osjeća kao odluka. Ispravak koji djeluje imenuje ono što opažanje ne može reći, a zatim predaje provjeru koju osoba može provesti u ponedjeljak.
 
 Evo odgovora u jednom dahu: obrazovni učinak umjetne inteligencije ovisi o tome tko je koristi, za koji zadatak, koje mišljenje alat obavlja, koja odgovornost ostaje osobi i kako se učenje procjenjuje. Samopouzdanje, brzina, angažman i dovršenost zadatka značajke su upotrebe. Nijedna od njih nije dokaz da se sposobnost promijenila.
 
@@ -44,7 +44,7 @@ Evo odgovora u jednom dahu: obrazovni učinak umjetne inteligencije ovisi o tome
 
 ## Odredite što se računa kao dokaz da se učenje dogodilo
 
-Pet uvjerenja odlučuje ima li ostatak ove stranice smisla. Svako uzima stvaran signal i u njega upisuje zaključak koji signal ne može nositi.
+Pet uvjerenja odlučuje ima li ostatak argumenta smisla. Svako uzima stvaran signal i u njega upisuje zaključak koji signal ne može nositi.
 
 ### „Bolje su prošli s otvorenim alatom, pa su više naučili.“
 
@@ -62,11 +62,11 @@ Prosjeci prikrivaju upravo onu varijaciju koja odlučuje o pitanju pravednosti. 
 
 ### „Izvijestili su da su mnogo naučili.“
 
-[[self-report-measures|Samoprocjena]] mjeri percepciju, prihvaćanje, [[anxiety-and-stress|anksioznost]] i [[self-efficacy|samoučinkovitost]] i u sve je četiri dobra. Nije mjera pokazane sposobnosti, jer ljudi mogu biti samouvjereni i u krivu ili vješti i preskromni. Sinteza istraživanja o pismenosti nastavnika u području umjetne inteligencije u ovoj bazi znanja izvješćuje o znatnom jazu između [[self-assessment|samoprocjene]] i izmjerene izvedbe, a nastavnici u njoj znatno su precijenili svoju kompetenciju ([[ai-literacy-assessment-misalignment|Pismenost u području umjetne inteligencije: nesklad samoprocjene i izvedbe]]). Uparite svaku samoprocjenu sa zadatkom: prepoznati pogrešku u rezultatu, provjeriti izvor, odabrati strategiju upotrebe, uočiti pristranost ili ulizivanje, revidirati manjkav odgovor, kalibrirati samopouzdanje prema točnosti. Jedna takva stavka u anketi pretvara mišljenje u rezultat.
+[[self-report-measures|Samoprocjena]] mjeri percepciju, prihvaćanje, [[anxiety-and-stress|anksioznost]] i [[self-efficacy|samoučinkovitost]] i u sve je četiri dobra. Nije mjera pokazane sposobnosti, jer ljudi mogu biti samouvjereni i u krivu ili vješti i preskromni. Sinteza istraživanja o pismenosti nastavnika u području umjetne inteligencije izvješćuje o znatnom jazu između [[self-assessment|samoprocjene]] i izmjerene izvedbe, a proučavani nastavnici znatno su precijenili svoju kompetenciju ([[ai-literacy-assessment-misalignment|Pismenost u području umjetne inteligencije: nesklad samoprocjene i izvedbe]]). Uparite svaku samoprocjenu sa zadatkom: prepoznati pogrešku u rezultatu, provjeriti izvor, odabrati strategiju upotrebe, uočiti pristranost ili ulizivanje, revidirati manjkav odgovor, kalibrirati samopouzdanje prema točnosti. Jedna takva stavka u anketi pretvara mišljenje u rezultat.
 
 ### „Simulirani student jeftina je zamjena za stvarnoga.“
 
-Simulacija je korisna za prototipiranje, testiranje pod pritiskom i generiranje scenarija, a nije dokaz o ljudskom učenju dok se ne validira na ljudima. Model može oponašati jezik zbunjenosti bez ustrajnosti, motivacije, prethodnoga znanja, emocija ili razvojne putanje učenika, a istraživanje sažeto u ovoj bazi znanja našlo je da simulirani studenti napuštaju dodijeljenu zabludu nakon minimalnoga ispravka, što izaziva sumnju u to predstavljaju li uopće konceptualnu promjenu ([[simulating-students|Simuliranje studenata]], [[llm-student-simulation-misconception-faithfulness|Simuliranje studenata ili ulizivačko rješavanje problema?]]). Koristite ih da nađete mane u svome upitu prije nego stvarni studenti na njega naiđu, a zatim svaku tvrdnju o učenicima tretirajte kao nevalidiranu.
+Simulacija je korisna za prototipiranje, testiranje pod pritiskom i generiranje scenarija, a nije dokaz o ljudskom učenju dok se ne validira na ljudima. Model može oponašati jezik zbunjenosti bez ustrajnosti, motivacije, prethodnoga znanja, emocija ili razvojne putanje učenika, a istraživanje o simuliranim studentima našlo je da simulirani studenti napuštaju dodijeljenu zabludu nakon minimalnoga ispravka, što izaziva sumnju u to predstavljaju li uopće konceptualnu promjenu ([[simulating-students|Simuliranje studenata]], [[llm-student-simulation-misconception-faithfulness|Simuliranje studenata ili ulizivačko rješavanje problema?]]). Koristite ih da nađete mane u svome upitu prije nego stvarni studenti na njega naiđu, a zatim svaku tvrdnju o učenicima tretirajte kao nevalidiranu.
 
 ## Postavite uvjet za AI na koraku koji nosi učenje
 
@@ -140,7 +140,7 @@ Pouzdanost je dosljednost, valjanost je jesu li tumačenje i upotreba ocjene opr
 
 ### „Jedan pristojan razgovor pokazuje da je tutor siguran.“
 
-Štete u obrazovanju nakupljaju se kroz interakciju. Sustav može primjereno odgovoriti na jedan upit i zatim, kroz izmjene, početi davati odgovore, pojačavati zabludu, poticati ovisnost ili izlaziti iz svoje tutorske uloge. Mjerilo SafeTutors sažeto u ovoj bazi znanja našlo je da pedagoške štete naglo rastu kad se sustavi procjenjuju kroz više izmjena, a ne kroz jednu razmjenu ([[hazra-safetutors-pedagogical-safety-2026|Sigurnost AI tutora i pedagoške štete]]). Zahtijevajte dugotrajne razgovore, ponavljane studentske pogreške, pokušaje izravnog odgovora, emocionalne i relacijske scenarije, neprijateljsko upućivanje upita i mjeru ovisnosti kroz vrijeme. Dokazi ove vrste iz mjerila nisu procjena učenja u učionici, i oni su minimum na kojem bi sigurnosna tvrdnja trebala počivati.
+Štete u obrazovanju nakupljaju se kroz interakciju. Sustav može primjereno odgovoriti na jedan upit i zatim, kroz izmjene, početi davati odgovore, pojačavati zabludu, poticati ovisnost ili izlaziti iz svoje tutorske uloge. Mjerilo SafeTutors našlo je da pedagoške štete naglo rastu kad se sustavi procjenjuju kroz više izmjena, a ne kroz jednu razmjenu ([[hazra-safetutors-pedagogical-safety-2026|Sigurnost AI tutora i pedagoške štete]]). Zahtijevajte dugotrajne razgovore, ponavljane studentske pogreške, pokušaje izravnog odgovora, emocionalne i relacijske scenarije, neprijateljsko upućivanje upita i mjeru ovisnosti kroz vrijeme. Dokazi ove vrste iz mjerila nisu procjena učenja u učionici, i oni su minimum na kojem bi sigurnosna tvrdnja trebala počivati.
 
 ### „Ljudski pregled privremena je zakrpa dok se modeli ne poprave.“
 
@@ -172,7 +172,7 @@ Dokazuje izvedbu osobe plus alata. Kompetencija se pokazuje u tome može li netk
 
 ### „Pismenost u području umjetne inteligencije znači znati napisati dobar upit.“
 
-Upućivanje upita jedna je operativna vještina. Opseg koji je važan za nastavnika ili zaposlenika širi je: što [[ai-technologies|sustavi umjetne inteligencije]] mogu i ne mogu pouzdano činiti, kako procijeniti točnost i pristranost, kako AI utječe na valjanost procjene, kada rasterećenje postaje istiskivanje, zahtjevi privatnosti i pristupačnosti, kako upotreba pristaje disciplini i kada je uopće ne treba koristiti. Sinteza u ovoj bazi znanja našla je da su nastavnici znatno precijenili svoju AI kompetenciju kad su se samoprocjene usporedile s mjerama izvedbe, a pokazana kompetencija predviđala je integraciju u učionicu mnogo bolje od samopouzdanja ([[ai-literacy-assessment-misalignment|Pismenost u području umjetne inteligencije: nesklad samoprocjene i izvedbe]]). Tehnike upita i stare brže od prosudbe. Poučavajte [[prompt-engineering|inženjering upita]] kao vještinu i procjenjujte [[teacher-ai-competency|nastavničku kompetenciju u području umjetne inteligencije]] kao širu.
+Upućivanje upita jedna je operativna vještina. Opseg koji je važan za nastavnika ili zaposlenika širi je: što [[ai-technologies|sustavi umjetne inteligencije]] mogu i ne mogu pouzdano činiti, kako procijeniti točnost i pristranost, kako AI utječe na valjanost procjene, kada rasterećenje postaje istiskivanje, zahtjevi privatnosti i pristupačnosti, kako upotreba pristaje disciplini i kada je uopće ne treba koristiti. Sinteza dokaza našla je da su nastavnici znatno precijenili svoju AI kompetenciju kad su se samoprocjene usporedile s mjerama izvedbe, a pokazana kompetencija predviđala je integraciju u učionicu mnogo bolje od samopouzdanja ([[ai-literacy-assessment-misalignment|Pismenost u području umjetne inteligencije: nesklad samoprocjene i izvedbe]]). Tehnike upita i stare brže od prosudbe. Poučavajte [[prompt-engineering|inženjering upita]] kao vještinu i procjenjujte [[teacher-ai-competency|nastavničku kompetenciju u području umjetne inteligencije]] kao širu.
 
 ### „Temeljno disciplinarno znanje zastarjelo je jer ga AI može dohvatiti.“
 
@@ -200,7 +200,7 @@ Rezultat je osjetljiv na upit i često nedeterminiran, pa male promjene u formul
 
 ### „Mladi su već pismeni u području umjetne inteligencije jer su digitalni urođenici.“
 
-Poznavanje digitalnih proizvoda nije sposobnost procjene AI-ja. Student može otvoriti chatbot, generirati sliku i zatražiti odgovor, a pritom ne može provjeriti tvrdnju, uočiti izmišljeni dokaz, otkriti pristranost ili ulizivanje, zaštititi osobne podatke, odlučiti što ne prepustiti ni objasniti kako je AI oblikovao rad. Baza znanja sažima istraživanje u kojem se samopouzdanje sa svakodnevnom tehnologijom nije prenijelo na algoritamsko rasuđivanje, tehnološko stvaranje ni kritičku procjenu AI-ja ([[digital-literacy-illusion|Iluzija kompetencije]]). Pismenost se poučava i pokazuje; dob i učestalost upotrebe ne daju je.
+Poznavanje digitalnih proizvoda nije sposobnost procjene AI-ja. Student može otvoriti chatbot, generirati sliku i zatražiti odgovor, a pritom ne može provjeriti tvrdnju, uočiti izmišljeni dokaz, otkriti pristranost ili ulizivanje, zaštititi osobne podatke, odlučiti što ne prepustiti ni objasniti kako je AI oblikovao rad. Istraživanja pokazuju da se samopouzdanje sa svakodnevnom tehnologijom nije prenijelo na algoritamsko rasuđivanje, tehnološko stvaranje ni kritičku procjenu AI-ja ([[digital-literacy-illusion|Iluzija kompetencije]]). Pismenost se poučava i pokazuje; dob i učestalost upotrebe ne daju je.
 
 ### „Studenti koji koriste AI lijeni su ili nepošteni.“
 
@@ -228,7 +228,7 @@ Automatizacija zadataka nije zamjena obrazovne funkcije. Izrada primjera, pripre
 
 ## Što ljudi koji ovo vode rade pogrešno
 
-Zablude gore pripadaju publici za koju je stranica napisana. Ove pripadaju ljudima koji pišu dopis, i zbog njih dobri ispravci ne prolaze.
+Prvi skup pripada publici kojoj su ovi ispravci namijenjeni. Drugi pripada ljudima koji pišu dopis, i zbog njih dobri ispravci ne prolaze.
 
 ### „Vođeno podacima znači objektivno.“
 
@@ -258,7 +258,7 @@ Sram proizvodi obrambenost i skrivanje, a poruke poput „samo lijeni studenti k
 
 Mehanika je dovoljno kratka za sastanak nastavnika. Imenujte uvjerenje, recite zašto izgleda istinito, odbijte ga izravno, objasnite neuspjeh, dajte bolji model i predajte primjenu.
 
-Razrađena verzija, koju možete prilagoditi bilo kojoj stavci na ovoj stranici:
+Razrađena verzija, koju možete prilagoditi bilo kojoj zabludi na popisu:
 
 > **Zabluda:** „Dobar zadatak koji je generirala umjetna inteligencija pokazuje da je student naučio.“
 > **Opovrgavanje:** „To nije nužno točno. Proizvod pokazuje što su student i AI proizveli zajedno, ali ne otkriva koje je obrazloženje student izveo.“
@@ -313,6 +313,6 @@ Smetnja se događa unutar discipline, na koraku gdje alat obavlja praksu koju ko
 
 ## Kamo dalje
 
-[[misconceptions|Zablude o umjetnoj inteligenciji]] sinteza je koja stoji za ovom stranicom, a [[refutation-text|Tekst opovrgavanja]] metoda je za njezinu upotrebu pred publikom. [[reduce-ai-cheating|Kako smanjiti varanje uz AI?]] obrađuje odluke o čestitosti, [[redesign-assessment-ai-era|Kako redizajnirati procjenu za doba AI-ja?]] obrađuje što ocjena može poduprijeti, a [[ai-ed-evaluation|Evaluacija umjetne inteligencije u obrazovanju]] vodič je za prosudbu pilota ili platforme. Na nastavnoj strani, [[teacher-ai-competency|Nastavnička kompetencija u području umjetne inteligencije]] i [[ai-literacy|Pismenost u području umjetne inteligencije]] pokrivaju što ljudi u sobi trebaju moći.
+[[misconceptions|Zablude o umjetnoj inteligenciji]] sinteza je koja stoji za ovim ispravcima, a [[refutation-text|Tekst opovrgavanja]] metoda je za njezinu upotrebu pred publikom. [[reduce-ai-cheating|Kako smanjiti varanje uz AI?]] obrađuje odluke o čestitosti, [[redesign-assessment-ai-era|Kako redizajnirati procjenu za doba AI-ja?]] obrađuje što ocjena može poduprijeti, a [[ai-ed-evaluation|Evaluacija umjetne inteligencije u obrazovanju]] vodič je za prosudbu pilota ili platforme. Na nastavnoj strani, [[teacher-ai-competency|Nastavnička kompetencija u području umjetne inteligencije]] i [[ai-literacy|Pismenost u području umjetne inteligencije]] pokrivaju što ljudi u sobi trebaju moći.
 
 Ideja koju treba zadržati, u obliku koji možete izgovoriti naglas: AI je pogrešiv kognitivni resurs, ne autoritet, ne um i ne dokaz da se učenje dogodilo. Odgovorna upotreba drži osobu odgovornom, čuva mišljenje koje učenje traži, provjerava što je važno i prosuduje uspjeh po trajnoj i pravednoj sposobnosti, a ne po tečnosti, brzini, angažmanu ili dovršenom zadatku.

@@ -6,9 +6,9 @@ weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-updated: "2026-10-29T12:11:33-04:00"
+updated: "2026-11-15T16:27:26-05:00"
 translation_of: faqs/ai-save-instructor-time
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Záver pre poradu: odovzdajte prvý koncept a podržte si úsudok. Osnovy hodín
 
 ## Začnite prácou, ktorú ste aj tak chceli prepísať
 
-Najsilnejšie číslo v tejto znalostnej báze pochádza z [[rct|randomizovaného testu]], ktorý zhrňuje [[ai-changing-teaching-workflows|Ako AI mení pracovné postupy vo výučbe]]. Dvesto päťdesiatdeväť učiteľov prírodovedných predmetov pracujúcich s ChatGPT strávilo prípravou hodín približne 69 % času kontrolnej skupiny, teda zníženie zhruba o 31 %, a slepí expertní posudzovatelia nenašli zistiteľnú stratu kvality. Učitelia ten čas prealokovali, nie uložili, a presunuli ho do plánovania, opravovania a práce so študentmi.
+Najsilnejšie číslo pochádza z [[rct|randomizovaného testu]], ktorý zhrňuje [[ai-changing-teaching-workflows|Ako AI mení pracovné postupy vo výučbe]]. Dvesto päťdesiatdeväť učiteľov prírodovedných predmetov pracujúcich s ChatGPT strávilo prípravou hodín približne 69 % času kontrolnej skupiny, teda zníženie zhruba o 31 %, a slepí expertní posudzovatelia nenašli zistiteľnú stratu kvality. Učitelia ten čas prealokovali, nie uložili, a presunuli ho do plánovania, opravovania a práce so študentmi.
 
 Druhý dátový súbor v tej istej práci, viac než 104 000 správ od vyše 15 000 vzdelávateľov, ukazuje, prečo úspora pristáva na zvláštnych miestach. Priemerný prompt sa dotkne 1,7 kategórií naraz, takže jediná žiadosť o plán hodiny sa vráti s diferenciáciou a kvízom, o ktorý učiteľ ani nežiadal.
 
@@ -50,7 +50,7 @@ To je prealokácia, nie redukcia: to, čo získate z [[generative-ai|generatívn
 
 Kvalita je nerovnomerná vo vzorci dosť stabilnom na to, aby sa dal plánovať. Slepí posudzovatelia uprednostnili AI verzie záverov hodín a výstupných lístkov v 59,7 % prípadov pred materiálmi od profesionálov a AI materiál pre obsah strednej školy uprednostnili v 59,2 % prípadov. Úspora rastie aj tam, kde vaše sebavedomie je najnižšie: výučba mimo vlastného predmetu je prípad s najširšou medzerou medzi tým, čo vám nástroj podá, a tým, čo by ste napísali sami.
 
-Dve kategórie idú opačným smerom. Pri materiáli pre prvý stupeň dostali ľudia prednosť v približne 65 % prípadov kvôli vývojovej primeranosti. Cielené [[scaffolding|lešenie]] pre [[multilingual-learning|viacjazyčných študujúcich]] a študentov v [[special-education|špeciálnom vzdelávaní]] sa vrátilo ako neutrálne, nie ako nesprávne, čo je horšie, než to znie, pretože neutrálne lešenie je také, ktoré postavíte od začiatku znova.
+Dve kategórie idú opačným smerom. Pri materiáli pre prvý stupeň dostali ľudia prednosť v približne 65 % prípadov kvôli vývojovej primeranosti. Cielené [[scaffolding|lešenie]] pre [[multilingual-learning|viacjazyčných]] [[learners|študujúcich]] a študentov v [[special-education|špeciálnom vzdelávaní]] sa vrátilo ako neutrálne, nie ako nesprávne, čo je horšie, než to znie, pretože neutrálne lešenie je také, ktoré postavíte od začiatku znova.
 
 Test, ktorý to predpovie skôr, než na to strávite večer: dokážete špecifikáciu vysloviť dosť presne na to, aby ste výstup skontrolovali? Výstupný lístok k jednému cieľu, áno. Či sa odsek hodí konkrétnemu deväťročnému dieťaťu, ktoré číta o dva roky za svojou triedou, nie.
 
@@ -80,7 +80,7 @@ Hodnotenie je úloha s najväčším zdanlivým výnosom a najslabšou prenosite
 
 ## V čom sa učitelia mýlia
 
-**„Tých 31 % je moje číslo.“** Je to 259 učiteľov [[science-education|prírodovedných predmetov]] v regionálnom školstve pri príprave hodín. Smer sa prenáša; veľkosť nie. Seminár postavený na diskusii môže ušetriť menej a laboratórny kurz s bezpečnostnými obmedzeniami nemusí ušetriť nič na tej časti, pri ktorej ste pomoc chceli najviac.
+**„Tých 31 % je moje číslo.“** Je to 259 [[k-12|učiteľov]] [[science-education|prírodovedných predmetov]] v regionálnom školstve pri príprave hodín. Smer sa prenáša; veľkosť nie. Seminár postavený na diskusii môže ušetriť menej a laboratórny kurz s bezpečnostnými obmedzeniami nemusí ušetriť nič na tej časti, pri ktorej ste pomoc chceli najviac.
 
 **„Cieľom je ušetriť čas.“** Experiment v Brazílii je protipríklad. Hodiny prišli zadarmo a najslabší kvartil nezískal nič. Cieľom je to, čo hodiny kupujú.
 
@@ -92,7 +92,7 @@ Hodnotenie je úloha s najväčším zdanlivým výnosom a najslabšou prenosite
 
 **„Ak budem rýchlejší, čas sa zaplní poradami.“** Pravdepodobne, a je to najčastejší spôsob, akým úspora zmizne. Dajte cieľ písomne tam, kde ho vedúci katedry uvidí, skôr než sa priestor zaplní.
 
-**„Spätná väzba od AI ukracuje študentov, ktorí majú najväčšie ťažkosti.“** Najslabší kvartil v Brazílii nezískal nič, a to je najsilnejšie varovanie na tejto stránke. Spojte úsporu s úmyselným použitím. Nárast rozhovorov jeden na jedného o 35 % je to, čo tie triedy s hodinami urobili, a bolo to rozhodnutie učiteľa.
+**„Spätná väzba od AI ukracuje študentov, ktorí majú najväčšie ťažkosti.“** Najslabší kvartil v Brazílii nezískal nič, a to je najsilnejšie varovanie. Spojte úsporu s úmyselným použitím. Nárast rozhovorov jeden na jedného o 35 % je to, čo tie triedy s hodinami urobili, a bolo to rozhodnutie učiteľa.
 
 **„Hodnotenie je miesto, kde moje hodiny naozaj sú.“** Je, a je to aj miesto, kde je nástroj najmenej prenositeľný medzi inštitúciami. Validujte lokálne, alebo na to nesiahnite.
 
@@ -112,4 +112,4 @@ Hodnotenie je úloha s najväčším zdanlivým výnosom a najslabšou prenosite
 
 ## Kam ďalej
 
-[[ai-feedback-at-scale|Spätná väzba od AI vo veľkom]] posúva otázku spätnej väzby ďalej a [[faculty-ai-competencies|AI kompetencie učiteľov]] spolu s [[faculty-development-ai|rozvojom učiteľov pre AI]] pokrývajú, čo môže katedra vybudovať, aby to prestalo závisieť od individuálneho experimentovania. [[redesign-assessment-ai-era|Prerobenie hodnotenia v ére AI]] a [[reduce-ai-cheating|zníženie podvádzania s AI]] riešia dôsledky pre hodnotenie. [[ai-changing-teaching-workflows|Ako AI mení pracovné postupy vo výučbe]] je článok za číslami o príprave a [[human-in-the-loop-ai|ľudský dohľad]] je princíp, na ktorom táto stránka stojí.
+[[ai-feedback-at-scale|Spätná väzba od AI vo veľkom]] posúva otázku spätnej väzby ďalej a [[faculty-ai-competencies|AI kompetencie učiteľov]] spolu s [[faculty-development-ai|rozvojom učiteľov pre AI]] pokrývajú, čo môže katedra vybudovať, aby to prestalo závisieť od individuálneho experimentovania. [[redesign-assessment-ai-era|Prerobenie hodnotenia v ére AI]] a [[reduce-ai-cheating|zníženie podvádzania s AI]] riešia dôsledky pre hodnotenie. [[ai-changing-teaching-workflows|Ako AI mení pracovné postupy vo výučbe]] je článok za číslami o príprave a [[human-in-the-loop-ai|ľudský dohľad]] je princíp, na ktorom to celé stojí.

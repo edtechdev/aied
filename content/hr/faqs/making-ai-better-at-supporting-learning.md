@@ -14,9 +14,9 @@ discipline: [writing education]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T14:24:49-04:00"
+updated: "2026-11-15T16:20:35-05:00"
 translation_of: faqs/making-ai-better-at-supporting-learning
-source_updated: "2026-10-28T11:21:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,7 @@ Treniranje je stvarno i katkad nužno. To je treća ili četvrta stvar koju treb
 
 Prije nego išta promijenite, zabilježite što vraća običan poticaj. Zatim zabilježite što vraća trivijalna metoda.
 
-[[shen-sustainable-ai-knowledge-base-cs-education-2026|Studiju o pomoćniku baze znanja kolegija]] vrijedi pročitati već zbog ovoga. Lokalni LLM bez pronalaženja dosegnuo je **52,3%** točnosti. Osnovica TF-IDF, leksička metoda stara desetljećima, dosegnula je **55,4%**. Model je bio lošiji od klasične metode.
+[[shen-sustainable-ai-knowledge-base-cs-education-2026|Studiju o pomoćniku baze znanja kolegija]] vrijedi pročitati već zbog ovoga. Lokalni [[llm|LLM]] bez pronalaženja dosegnuo je **52,3%** točnosti. Osnovica TF-IDF, leksička metoda stara desetljećima, dosegnula je **55,4%**. Model je bio lošiji od klasične metode.
 
 Preskočite ovaj korak i nećete moći reći je li vaše dodatno treniranje pomoglo. Još gore, možete pustiti u rad sustav koji pretraga po ključnim riječima pobjeđuje i to otkriti tek kad to spomene asistent u nastavi. Dva broja u tablici, uzeta u jednom poslijepodnevu, štite ostatak proračuna.
 
@@ -60,9 +60,9 @@ Preskočite ovaj korak i nećete moći reći je li vaše dodatno treniranje pomo
 
 Dodavanje [[rag|generiranja potpomognutog pronalaženjem]] po materijalima kolegija, bez ikakvog dodatnog treniranja, podiglo je isti sustav s 52,3% na **66,6%**. Taj je dobitak došao od indeksa i nosi svojstvo koje treniranje nema: kad se vaši dokumenti promijene, ponovno indeksirate.
 
-Dva druga rezultata pokazuju u istom smjeru. PRISMA pregled 23 empirijske studije o prilagodbi umjetne inteligencije za [[writing-education|poučavanje pisanja]] našao je **prevlast inženjeringa poticaja (N = 13), ispred dodatnog treniranja (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026|sustavni pregled prilagodbe umjetne inteligencije poučavanju pisanja]]). Gdje baza znanja mora ostati aktualna, pronalaženje je jedina poluga koja ostaje aktualna bez ponovnog pokretanja posla treniranja.
+Dva druga rezultata pokazuju u istom smjeru. [[meta-analysis-systematic-review|PRISMA]] pregled 23 empirijske studije o prilagodbi umjetne inteligencije za [[writing-education|poučavanje pisanja]] našao je **prevlast [[prompt-engineering|inženjeringa poticaja]] (N = 13), ispred dodatnog treniranja (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026|sustavni pregled prilagodbe umjetne inteligencije poučavanju pisanja]]). Gdje baza znanja mora ostati aktualna, pronalaženje je jedina poluga koja ostaje aktualna bez ponovnog pokretanja posla treniranja.
 
-Pronalaženje ima i pedagoški oblik. Utemeljenje modela u vlastitim razrađenim primjerima i rubrikama način je da ostane unutar [[scaffolding|postupne potpore]] koju ste projektirali, odgovarajući na razini koju ste postavili umjesto da odluta u generičke savjete. To odlutavanje najčešća je pritužba na gotove tutore, a češće je problem pronalaženja nego problem težina.
+Pronalaženje ima i [[pedagogy|pedagoški]] oblik. Utemeljenje modela u vlastitim razrađenim primjerima i rubrikama način je da ostane unutar [[scaffolding|postupne potpore]] koju ste projektirali, odgovarajući na razini koju ste postavili umjesto da odluta u generičke savjete. To odlutavanje najčešća je pritužba na gotove tutore, a češće je problem pronalaženja nego problem težina.
 
 ## Napišite poticaj prema svojoj rubrici i pazite na plato
 
@@ -79,7 +79,7 @@ Zapazite što rezultat o generiranju čestica znači za redoslijed. Dodatno tren
 
 Prilagodba se isplati kad trebate da model pouzdano drži neko svojstvo: razinu čitljivosti, izlazni format, domenu koja mu nedostaje. Nalaz koji se ponavlja jest da **ciljanje pobjeđuje veličinu**.
 
-- Tri modela od **8B** dodatno trenirana na stručno osmišljenom kurikulu čitanja za djecu nadmašila su GPT-4o bez primjera i Llama 3.3 70B na mjerama povezanima s težinom, uz zanemarive sigurnosne probleme. Autori to uokviruju kao **kontrolabilnost umjesto razmjera** ([[llm-children-reading-story-generation|generiranje priča za čitanje djeci]]).
+- Tri modela od **8B** dodatno trenirana na stručno osmišljenom [[curriculum-design|kurikulu čitanja]] za djecu nadmašila su GPT-4o bez primjera i Llama 3.3 70B na mjerama povezanima s težinom, uz zanemarive sigurnosne probleme. Autori to uokviruju kao **kontrolabilnost umjesto razmjera** ([[llm-children-reading-story-generation|generiranje priča za čitanje djeci]]).
 - Skup instrukcija od **24.795 primjera** utemeljen u indijskim sustavima znanja dao je dodatno treniranje od **7B** koje je ocijenilo **6,39** pred vanjskim panelom od pet prosuditelja, unutar **0,15** od jakog općeg referentnog modela uz djelić cijene postavljanja. Isti osnovni model ocijenio je **gotovo nulu na dimenzijama specifičnima za domenu** bez dodatnog treniranja ([[iks-instruct-dataset-indian-knowledge|skup instrukcija iz indijskih sustava znanja]]). Taj jaz između opće kompetentnosti i kompetentnosti ovdje cijeli je argument za prilagodbu domene.
 - Jedan [[llm-training-and-fine-tuning|LoRA]] adapter treniran na otprilike **3.900** objedinjenih ocijenjenih primjera doveo je pet malih otvorenih modela (od 4B do 30B) na razinu ljudskog ocjenjivača ili više na dva ispita iz računarstva ([[llm-graders-computer-science-exams-2026|LLM ocjenjivači na ispitima iz računarstva]]). Jedan adapter, jedan skup podataka, nekoliko osnovnih modela: to je oblik postavljanja koji mali tim može voditi.
 
@@ -89,7 +89,7 @@ Riječ *stabilan* u naslovu nosi težinu. Format, rubrika, razina čitljivosti i
 
 Prilagodba poučava model *što proizvoditi*. Naknadno treniranje poučava ga *kako se ponašati*. Za tutorstvo je ta razlika cijeli problem: opći su modeli naknadno trenirani na ljudskoj sklonosti korisnosti, što znači odgovarati brzo, a poučavanje traži zadržavanje odgovora.
 
-Najjači obrazovni rezultati u ovom korpusu žive ovdje. Nagradni model EduQwen izričito je dao prednost **vođenju odgovora pred izravnim odgovorima**, a njegov trostupanjski postupak dosegnuo je **96,52%** na mjerilu CDPK nasuprot **90,55%** kod Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026|Singh i sur.]]). Simulator pisanja SWIM pomaknuo se od poticaja utemeljenog u rubrici (najbolji QWK **0,577**) preko nadziranog dodatnog treniranja (**0,474 ± 0,023**) do učenja s pojačanjem (**0,618 ± 0,005**) na svakom svojstvu i svakom poticaju ([[swim-student-writing-simulation-2026|simulacija studentskog pisanja]]).
+Najjači obrazovni rezultati u ovom korpusu žive ovdje. Nagradni model EduQwen izričito je dao prednost **vođenju odgovora pred izravnim odgovorima**, a njegov trostupanjski postupak dosegnuo je **96,52%** na mjerilu CDPK nasuprot **90,55%** kod Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026|Singh i sur.]]). [[simulation|Simulator]] pisanja SWIM pomaknuo se od poticaja utemeljenog u rubrici (najbolji QWK **0,577**) preko nadziranog dodatnog treniranja (**0,474 ± 0,023**) do [[reinforcement-learning|učenja s pojačanjem]] (**0,618 ± 0,005**) na svakom svojstvu i svakom poticaju ([[swim-student-writing-simulation-2026|simulacija studentskog pisanja]]).
 
 Čitajte brojeve SWIM-a pažljivo, jer je srednji korak išao unatrag. Nadzirano dodatno treniranje na demonstracijama učinilo je simulator lošijim od poticaja s kojim je počeo, a tek je nagradni signal vratio gubitak i zatim pobijedio osnovicu. Ako se vaš plan zaustavlja na nadziranom dodatnom treniranju, plan može biti obilazak.
 
@@ -125,7 +125,7 @@ Trošak koji je lako podcijeniti je vrednovanje, koje je veće od računa za ra�
 
 ## Kalibrirajte što očekujete
 
-Izbor modela i poticaja zajedno objašnjava samo oko **15%** neusklađenosti između LLM-ova i ishoda učenja studenata, a u toj su studiji ansambli s ponderiranjem po mjerilu i jednoglasnim glasovanjem usklađenost učinili *gorom* ([[educational-llm-alignment|usklađenost obrazovnih LLM-ova]]). Podaci predtreniranja vodeća su poluga ponašanja modela i jedina poluga koju ne možete povući.
+Izbor modela i poticaja zajedno objašnjava samo oko **15%** neusklađenosti između LLM-ova i [[learning-gains|ishoda učenja]] studenata, a u toj su studiji ansambli s ponderiranjem po mjerilu i jednoglasnim glasovanjem usklađenost učinili *gorom* ([[educational-llm-alignment|usklađenost obrazovnih LLM-ova]]). Podaci predtreniranja vodeća su poluga ponašanja modela i jedina poluga koju ne možete povući.
 
 Ništa od toga ne govori protiv posla gore. Govori protiv očekivanja da će dodatno treniranje popraviti dizajnerski problem. Ako je problem to što vaš tutor odgovara prezorno, treniranje ga može riješiti. Ako je problem to što se vaši učenici ne angažiraju s njim, treniranje neće, a brojka od 15% kaže da je novac bolje potrošiti drugdje.
 
@@ -147,7 +147,7 @@ Nadzirano dodatno treniranje siguran je srednji korak prije učenja s pojačanje
 
 **„Naš je problem to što ga studenti ne rabe.“** Treniranje mijenja ono što model proizvodi. Brojka od 15% opisuje koliko izbor modela i poticaja objašnjava u neusklađenosti s ishodima učenja, a angažman stoji izvan toga. Izmjerite gdje studenti odustaju prije nego kupite računalnu snagu.
 
-**„Ne možemo slati studentske radove API-ju dobavljača.“** Najjači LoRA rezultat ovdje došao je iz otvorenih modela u rasponu od 4B do 30B, a jedan adapter poslužio je nekoliko njih. Taj oblik postavljanja dostupan je timu s jednim GPU-om i bez ugovora o obradi podataka.
+**„Ne možemo slati studentske radove API-ju dobavljača.“** Najjači LoRA rezultat ovdje došao je iz [[open-source|otvorenih modela]] u rasponu od 4B do 30B, a jedan adapter poslužio je nekoliko njih. Taj oblik postavljanja dostupan je timu s jednim GPU-om i bez ugovora o obradi podataka.
 
 **„Poticanje je hak; pravi posao znači treniranje.“** Pregled 23 studije o poučavanju pisanja našao je poticaje vodećim pristupom, a dodatno treniranje iza njih, a najveći dobitak zabilježen na ovoj stranici došao je od indeksa. I pregled i studija o pomoćniku kolegija poredali su te stepenice po izmjerenom dobitku.
 

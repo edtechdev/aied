@@ -3,11 +3,12 @@ title: "Vipimo na Mbinu Gani za Utafiti Mkufunzi Anaweza Kutumia Kutathmini Muin
 created: "2026-10-13T06:15:00-04:00"
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
+audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -19,6 +20,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+updated: "2026-11-15T16:26:08-05:00"
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -71,7 +73,7 @@ Faida ya kabla/baada inaonyesha hatua ilifanya kazi. Inaonyesha alama zilipanda.
 
 Ukubwa wa athari uliochapishwa unaendelea kwenye darasa langu. Uchambuzi wa jumla 14 wa O'Neill haukuweza kuunga mkono madai yaliyojengwa juu yao, na vipindi vyote viwili vya utabiri vilivyoripotiwa vilijumuisha sifuri.
 
-Uchambuzi wa jukwaa hupima ubora wa ufundishaji. Wakala wa tatu wa Zhang alikuwa wa mwisho kwenye rubriki ya wataalamu.
+[[learning-analytics|Uchambuzi wa jukwaa]] hupima ubora wa ufundishaji. Wakala wa tatu wa Zhang alikuwa wa mwisho kwenye rubriki ya wataalamu.
 
 ## Nini kitakurudia
 

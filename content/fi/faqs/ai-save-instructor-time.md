@@ -6,9 +6,9 @@ weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-updated: "2026-10-29T14:13:23-04:00"
+updated: "2026-11-15T16:20:43-05:00"
 translation_of: faqs/ai-save-instructor-time
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Kokouksen ydinsanoma: luovuta ensimmäinen luonnos ja pidä arviointi itselläsi
 
 ## Aloita työstä, jonka olisit kirjoittanut uudelleen joka tapauksessa
 
-Tämän tietopohjan vahvin luku tulee [[rct|satunnaistetusta kokeesta]], joka on tiivistetty sivulla [[ai-changing-teaching-workflows|Miten tekoäly muuttaa opetustyön kulkua]]. 259 luonnontieteiden opettajaa, jotka käyttivät ChatGPT:tä, käytti tuntisuunnitteluun noin 69 % siitä ajasta, jonka verrokkiryhmä käytti, eli leikkaus oli noin 31 %, eivätkä sokkona arvioineet asiantuntijat havainneet laadussa havaittavaa heikkenemistä. Opettajat siirsivät ajan muualle sen sijaan että olisivat säästäneet sen, siirtäen sitä suunnitteluun, arvosteluun ja opiskelijoille suunnattuun työhön.
+Vahvin luku tulee [[rct|satunnaistetusta kokeesta]], joka on tiivistetty teoksessa [[ai-changing-teaching-workflows|Miten tekoäly muuttaa opetustyön kulkua]]. 259 luonnontieteiden opettajaa, jotka käyttivät ChatGPT:tä, käytti tuntisuunnitteluun noin 69 % siitä ajasta, jonka verrokkiryhmä käytti, eli leikkaus oli noin 31 %, eivätkä sokkona arvioineet asiantuntijat havainneet laadussa havaittavaa heikkenemistä. Opettajat siirsivät ajan muualle sen sijaan että olisivat säästäneet sen, siirtäen sitä suunnitteluun, arvosteluun ja opiskelijoille suunnattuun työhön.
 
 Toinen aineisto samassa työssä, yli 104 000 viestiä yli 15 000 kasvattajalta, näyttää, miksi säästö osuu omituisiin paikkoihin. Keskimääräinen kehote koskettaa 1,7 kategoriaa kerrallaan, joten yksittäinen pyyntö tuntisuunnitelmasta palaa takaisin mukanaan eriyttämistä ja visailu, jota opettaja ei ollut tullut pyytäneeksi.
 
@@ -50,7 +50,7 @@ Se on uudelleenkohdentamista, ei vähentämistä: se, mitä saat [[generative-ai
 
 Laatu on epätasaista tavalla, joka on tarpeeksi vakaa suunnittelun pohjaksi. Sokkoarvioijat pitivät tekoälyn versioita tuntien lopetuksista ja poistumislipukkeista parempina 59,7 %:ssa tapauksista kuin ammattilaisten suunnittelemia materiaaleja, ja pitivät tekoälyn materiaalia lukion sisällöstä parempana 59,2 %:ssa tapauksista. Säästö kasvaa myös siellä, missä itseluottamuksesi on matalin: oman oppiaineen ulkopuolella opettaminen on tapaus, jossa kuilu työkalun antaman ja itse kirjoittamasi välillä on laajin.
 
-Kaksi kategoriaa kulkee päinvastaiseen suuntaan. Alakoulutason materiaalissa ihmisiä suosittiin noin 65 %:ssa tapauksista kehityksellisen soveltuvuuden vuoksi. Kohdennettu [[scaffolding|tukeminen]] [[multilingual-learning|monikielisille]] oppijoille ja [[special-education|erityisopetuksen]] opiskelijoille palasi neutraalina eikä vääränä, mikä on pahempaa kuin miltä kuulostaa, sillä neutraalin tukemisen joutuu rakentamaan alusta asti uudelleen.
+Kaksi kategoriaa kulkee päinvastaiseen suuntaan. Alakoulutason materiaalissa ihmisiä suosittiin noin 65 %:ssa tapauksista kehityksellisen soveltuvuuden vuoksi. Kohdennettu [[scaffolding|tukeminen]] [[multilingual-learning|monikielisille]] [[learners|oppijoille]] ja [[special-education|erityisopetuksen]] opiskelijoille palasi neutraalina eikä vääränä, mikä on pahempaa kuin miltä kuulostaa, sillä neutraalin tukemisen joutuu rakentamaan alusta asti uudelleen.
 
 Testi, joka ennustaa tämän ennen kuin käytät iltaa siihen: pystytkö ilmaisemaan määrittelyn niin täsmällisesti, että voit tarkistaa tuotoksen? Poistumislipuke yhdestä tavoitteesta, kyllä. Sopiiko kappale tietylle yhdeksänvuotiaalle, joka lukee kaksi vuotta luokkaansa jäljessä, ei.
 
@@ -80,7 +80,7 @@ Voit käyttää [[automated-essay-scoring|automaattista essee-arvostelua]], jos 
 
 ## Missä opettajat menevät pieleen
 
-**”31 % on minun lukuni.”** Se on 259 [[science-education|luonnontieteen]] opettajaa K-12-kouluissa tuntisuunnittelun parissa. Suunta kulkee mukana, koko ei. Keskusteluun rakennettu seminaari voi säästää vähemmän, ja turvallisuusrajoitteinen laboratoriokurssi ei ehkä säästä mitään siitä osasta, johon kaikkein eniten halusit apua.
+**”31 % on minun lukuni.”** Se on 259 [[k-12|K-12]]-koulun [[science-education|luonnontieteen]] opettajaa tuntisuunnittelun parissa. Suunta kulkee mukana, koko ei. Keskusteluun rakennettu seminaari voi säästää vähemmän, ja turvallisuusrajoitteinen laboratoriokurssi ei ehkä säästä mitään siitä osasta, johon kaikkein eniten halusit apua.
 
 **”Ajansäästö on tavoite.”** Brasilian koe on vastaesimerkki. Tunnit tulivat ilmaiseksi, ja alin neljännes ei hyötynyt mitään. Tavoite on se, mitä tunneilla ostetaan.
 
@@ -88,11 +88,11 @@ Voit käyttää [[automated-essay-scoring|automaattista essee-arvostelua]], jos 
 
 ## Mitä sinulle tullaan sanomaan takaisin
 
-**”Kokeilin sitä, ja tuotos oli ympäripyöreä.”** Useimmat tutkimuksen opettajat ottivat ensimmäisen tuloksen ja muokkasivat sitä käsin sen sijaan että olisivat jatkaneet lisäkehotteilla. Toinen ja kolmas kierros, joissa annat luokka-asteesi, lukemisesi, kolme viimeisintä visailutehtävääsi ja esimerkin siitä, miltä hyvä näyttää, muuttaa tuotosta enemmän kuin työkalun vaihtaminen. [[ai-literacy]] on halpa sijoitus, ja [[prompt-engineering|kehotteiden hienosäätö]] on se, missä se maksaa itsensä takaisin.
+**”Kokeilin sitä, ja tuotos oli ympäripyöreä.”** Useimmat tutkimuksen opettajat ottivat ensimmäisen tuloksen ja muokkasivat sitä käsin sen sijaan että olisivat jatkaneet lisäkehotteilla. Toinen ja kolmas kierros, joissa annat luokka-asteesi, lukemisesi, kolme viimeisintä visailutehtävääsi ja esimerkin siitä, miltä hyvä näyttää, muuttaa tuotosta enemmän kuin työkalun vaihtaminen. [[ai-literacy|tekoälylukutaito]] on halpa sijoitus, ja [[prompt-engineering|kehotteiden hienosäätö]] on se, missä se maksaa itsensä takaisin.
 
 **”Jos tulen nopeammaksi, aika täytetään kokouksilla.”** Todennäköisesti, ja se on yleisin tapa, jolla säästö katoaa. Kirjoita määränpää näkyviin sinne, missä osastonjohtajasi näkee sen, ennen kuin tila täyttyy.
 
-**”Tekoälypalaute jättää vajaalle ne opiskelijat, joilla on vaikeinta.”** Brasilian alin neljännes ei hyötynyt mitään, ja se on tämän sivun vahvin varoitus. Yhdistä säästö harkittuun käyttöön. 35 %:n kasvu kahdenkeskisissä keskusteluissa on se, mitä nuo luokat tekivät tunneilla, ja se oli opettajan tekemä valinta.
+**”Tekoälypalaute jättää vajaalle ne opiskelijat, joilla on vaikeinta.”** Brasilian alin neljännes ei hyötynyt mitään, ja se on tutkimuksen vahvin varoitus. Yhdistä säästö harkittuun käyttöön. 35 %:n kasvu kahdenkeskisissä keskusteluissa on se, mitä nuo luokat tekivät tunneilla, ja se oli opettajan tekemä valinta.
 
 **”Arvostelu on se, missä tuntini todella ovat.”** Niin on, ja se on myös se, missä työkalu on vähiten siirrettävissä oppilaitosten välillä. Validoi paikallisesti tai jätä se rauhaan.
 
@@ -112,4 +112,4 @@ Voit käyttää [[automated-essay-scoring|automaattista essee-arvostelua]], jos 
 
 ## Minne seuraavaksi
 
-[[ai-feedback-at-scale]] vie palautekysymyksen pidemmälle, ja [[faculty-ai-competencies]] sekä [[faculty-development-ai]] käsittelevät sitä, mitä osasto voi rakentaa, jotta tämä lakkaa riippumasta yksittäisistä kokeiluista. [[redesign-assessment-ai-era]] ja [[reduce-ai-cheating]] käsittelevät arvioinnin seurauksia. [[ai-changing-teaching-workflows]] on artikkeli valmistelulukujen takana, ja [[human-in-the-loop-ai|ihmisen valvonta]] on periaate, jonka ympärillä tämä sivu pyörii.
+[[ai-feedback-at-scale]] vie palautekysymyksen pidemmälle, ja [[faculty-ai-competencies]] sekä [[faculty-development-ai]] käsittelevät sitä, mitä osasto voi rakentaa, jotta tämä lakkaa riippumasta yksittäisistä kokeiluista. [[redesign-assessment-ai-era]] ja [[reduce-ai-cheating]] käsittelevät arvioinnin seurauksia. [[ai-changing-teaching-workflows]] on artikkeli valmistelulukujen takana, ja [[human-in-the-loop-ai|ihmisen valvonta]] on ohjaava periaate.

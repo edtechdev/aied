@@ -6,9 +6,9 @@ weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-updated: "2026-10-29T15:41:26-04:00"
+updated: "2026-11-15T16:18:40-05:00"
 translation_of: faqs/ai-save-instructor-time
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Concluzia pentru ședință: predă prima schiță și păstrează judecata. Sch
 
 ## Începe cu munca pe care oricum aveai de gând să o rescrii
 
-Cea mai puternică cifră din această bază de cunoștințe vine dintr-un [[rct|studiu randomizat]] rezumat în [[ai-changing-teaching-workflows|Cum schimbă IA fluxurile de lucru didactice]]. Două sute cincizeci și nouă de profesori de științe care foloseau ChatGPT au petrecut aproximativ 69% din timpul pe care grupul de control îl aloca pregătirii lecțiilor, o reducere de circa 31%, iar evaluatorii experți orbi nu au găsit nicio pierdere detectabilă de calitate. Profesorii l-au realocat, nu l-au pus deoparte, mutând timpul în planificare, corectare și muncă cu studenții.
+Cea mai puternică cifră de aici vine dintr-un [[rct|studiu randomizat]] rezumat în [[ai-changing-teaching-workflows|Cum schimbă IA fluxurile de lucru didactice]]. Două sute cincizeci și nouă de profesori de științe care foloseau ChatGPT au petrecut aproximativ 69% din timpul pe care grupul de control îl aloca pregătirii lecțiilor, o reducere de circa 31%, iar evaluatorii experți orbi nu au găsit nicio pierdere detectabilă de calitate. Profesorii l-au realocat, nu l-au pus deoparte, mutând timpul în planificare, corectare și muncă cu studenții.
 
 Un al doilea set de date din aceeași lucrare, peste 104.000 de mesaje de la peste 15.000 de educatori, arată de ce economisirea aterizează în locuri ciudate. Promptul mediu atinge 1,7 categorii deodată, așa că o singură cerere de plan de lecție se întoarce aducând diferențiere și un quiz la care profesorul nu se gândise să ceară.
 
@@ -50,7 +50,7 @@ Asta este realocare, nu reducere: ce câștigi de la [[generative-ai|IA generati
 
 Calitatea este inegală într-un tipar suficient de stabil ca să planifici în jurul lui. Evaluatorii orbi au preferat versiunile IA ale concluziilor de lecție și ale biletelor de ieșire în 59,7% din cazuri față de materialele concepute de profesioniști și au preferat materialul IA pentru conținut de liceu în 59,2% din cazuri. Economisirea crește și acolo unde încrederea ta este cea mai mică: predarea în afara propriei discipline este cazul cu cea mai mare diferență între ce îți dă instrumentul și ce ai fi scris singur.
 
-Două categorii merg în direcția opusă. La materialul de nivel elementar, oamenii au fost preferați în aproximativ 65% din cazuri pentru adecvarea la dezvoltare. [[scaffolding|Sprijinul de tip schelă]] țintit pentru cursanții [[multilingual-learning|multilingvi]] și pentru elevii din [[special-education|educația specială]] s-a întors neutru, nu greșit, ceea ce este mai rău decât sună, pentru că o schelă neutră este una pe care o reconstruiești de la zero.
+Două categorii merg în direcția opusă. La materialul de nivel elementar, oamenii au fost preferați în aproximativ 65% din cazuri pentru adecvarea la dezvoltare. [[scaffolding|Sprijinul de tip schelă]] țintit pentru [[learners|cursanții]] [[multilingual-learning|multilingvi]] și pentru elevii din [[special-education|educația specială]] s-a întors neutru, nu greșit, ceea ce este mai rău decât sună, pentru că o schelă neutră este una pe care o reconstruiești de la zero.
 
 Testul care prezice asta înainte să petreci o seară: poți enunța specificația suficient de precis ca să verifici rezultatul? Un bilet de ieșire pe un obiectiv, da. Dacă un paragraf i se potrivește unui copil de nouă ani care citește cu doi ani în urma clasei lui, nu.
 
@@ -80,7 +80,7 @@ Poți folosi [[automated-essay-scoring|notarea automată a eseurilor]] dacă o v
 
 ## Ce greșesc cadrele didactice
 
-**„31% este cifra mea."** Sunt 259 de profesori de [[science-education|științe]] din K-12, la pregătirea lecțiilor. Direcția călătorește; mărimea nu. Un seminar construit pe discuție poate economisi mai puțin, iar un curs de laborator cu constrângeri de siguranță poate să nu economisească nimic exact la partea la care voiai cel mai mult ajutor.
+**„31% este cifra mea."** Sunt 259 de profesori de [[science-education|științe]] [[k-12|K-12]] la pregătirea lecțiilor. Direcția călătorește; mărimea nu. Un seminar construit pe discuție poate economisi mai puțin, iar un curs de laborator cu constrângeri de siguranță poate să nu economisească nimic exact la partea la care voiai cel mai mult ajutor.
 
 **„Economisirea de timp este scopul."** Experimentul din Brazilia este contraexemplul. Orele au venit gratis și quartila de jos nu a câștigat nimic. Scopul este ce cumpără orele.
 
@@ -92,7 +92,7 @@ Poți folosi [[automated-essay-scoring|notarea automată a eseurilor]] dacă o v
 
 **„Dacă devin mai rapid, timpul va fi umplut cu ședințe."** Probabil, și este cel mai comun mod în care o economisire dispare. Pune destinația în scris, unde președintele departamentului o poate vedea, înainte ca spațiul să se umple.
 
-**„Feedbackul IA îi nedreptățește pe studenții care se luptă cel mai mult."** Quartila de jos din Brazilia nu a câștigat nimic, iar aceasta este cea mai puternică avertizare de pe această pagină. Împerechează economisirea cu o utilizare deliberată. Creșterea de 35% a conversațiilor unu la unu este ce au făcut acele săli cu orele, și a fost o alegere pe care a făcut-o profesorul.
+**„Feedbackul IA îi nedreptățește pe studenții care se luptă cel mai mult."** Quartila de jos din Brazilia nu a câștigat nimic, iar aceasta este cea mai puternică avertizare de aici. Împerechează economisirea cu o utilizare deliberată. Creșterea de 35% a conversațiilor unu la unu este ce au făcut acele săli cu orele, și a fost o alegere pe care a făcut-o profesorul.
 
 **„Notarea este locul unde sunt de fapt orele mele."** Este, și este și locul unde instrumentul este cel mai puțin portabil între instituții. Validează local sau lasă-l în pace.
 

@@ -10,9 +10,9 @@ technology: [educational-nlp, generative-ai, llm]
 ethics: [accessibility]
 audience: [instructors, curriculum designers, instructional designers]
 level: [higher ed, secondary, primary education]
-updated: "2026-11-08T04:27:05-05:00"
+updated: "2026-11-15T16:26:08-05:00"
 translation_of: "faqs/ai-support-reading-comprehension"
-source_updated: "2026-11-06T02:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Ikiwa unafundisha somo lolote, unachagua usomaji, unabadilisha maandishi, na una
 
 **Kutafuta na kubadilisha maandishi kwa kiwango kikubwa.** AI ina nguvu katika kutafuta vyanzo, kurahisisha msamiati, kuzalisha glossari, na kugeuza kifungu kuwa [[study-with-ai|mwongozo wa kujifunza au muhtasari]]. Itumie kwa sehemu za kiufundi za maandalizi ya usomaji — kuchanganua, kuweka ngazi, kutoa maneno muhimu — na weka ukaguzi wa binadamu kwenye kile kilicho muhimu.
 
-**Modeli msomaji badala ya maandishi.** Kwa sababu vigezo vya msomaji hubeba sehemu kubwa ya ishara katika jinsi maandishi yanavyohisiwa kuwa magumu, zana zinazochanganua msomaji hutabiri ugumu unaohisiwa bora kuliko fomula yoyote. Katika utafiti mkubwa zaidi wa hifadhi ya maarifa, wanafunzi 193 wa shule ya upili ya Ujerumani walipima sentensi 3,954, na modeli zenye wasifu (ensemble bora RMSE 0.822 dhidi ya msingi wa wastani wa 1.070) zilizidi alama za Flesch za maandishi, ambazo zilipima nyenzo hiyo hiyo kuwa ngumu zaidi kuliko wanafunzi walivyoihisi — 72.8% ya maelezo yalikuwa rahisi au rahisi sana ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck na Conrad, 2025]]). Toleo la vitendo: makadirio ya wanafunzi wachache kuhusu kifungu yanazidi lebo ya fomula yoyote.
+**Modeli msomaji badala ya maandishi.** Kwa sababu vigezo vya msomaji hubeba sehemu kubwa ya ishara katika jinsi maandishi yanavyohisiwa kuwa magumu, zana zinazochanganua msomaji hutabiri ugumu unaohisiwa bora kuliko fomula yoyote. Katika utafiti mkubwa zaidi katika tafiti hizi, wanafunzi 193 wa shule ya upili ya Ujerumani walipima sentensi 3,954, na modeli zenye wasifu (ensemble bora RMSE 0.822 dhidi ya msingi wa wastani wa 1.070) zilizidi alama za Flesch za maandishi, ambazo zilipima nyenzo hiyo hiyo kuwa ngumu zaidi kuliko wanafunzi walivyoihisi — 72.8% ya maelezo yalikuwa rahisi au rahisi sana ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck na Conrad, 2025]]). Toleo la vitendo: makadirio ya wanafunzi wachache kuhusu kifungu yanazidi lebo ya fomula yoyote.
 
 ## AI inashindwa wapi
 

@@ -9,9 +9,9 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:27:26-05:00"
 translation_of: faqs/ai-disabled-neurodivergent-learners
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 V liste o akomodácii sú uvedení študent, predmet a nástroj, o ktorom ste nikdy nepočuli. Alebo sa študent celkom rozumne spýtal, či môže v časovo limitovanej skúške ďalej používať svoj softvér na prevod reči na text, a pravidlo vášho predmetu o AI hovorí, že akákoľvek AI je zakázaná. Alebo vám oddelenie pre dostupnosť dáva do piatku odpovedať, či licencovať čítací nástroj, a dôkazom od dodávateľa je referenčná skúsenosť z iného campusu.
 
-Odpoveď, ktorá obstojí vo všetkých troch prípadoch: začnite bariérou, ktorú vytvára zadanie, používajte nástroje, ktoré boli skutočne merané, a všetko, čo zavediete, aj učte. Dve pravidlá sú dôležitejšie než akákoľvek voľba produktu. V pravidlách o AI vymenujte prepis a OCR ako samostatné akomodácie a zadaniu dajte štruktúru namiesto toho, aby ste od študentov žiadali, aby si ju domysleli. Buďte triezvi pri dôkazoch: najsilnejšie číslo na tejto stránke pochádza z prostredia špeciálneho vzdelávania na úrovni PK-12, ktoré väčšinou používalo AI spred éry generatívnej AI, a literatúra o vysokom školstve je skôr mapou toho, čo sa už skúšalo.
+Odpoveď, ktorá obstojí vo všetkých troch prípadoch: začnite bariérou, ktorú vytvára zadanie, používajte nástroje, ktoré boli skutočne merané, a všetko, čo zavediete, aj učte. Dve pravidlá sú dôležitejšie než akákoľvek voľba produktu. V pravidlách o AI vymenujte prepis a OCR ako samostatné akomodácie a zadaniu dajte štruktúru namiesto toho, aby ste od študentov žiadali, aby si ju domysleli. Buďte triezvi pri dôkazoch: najsilnejšie číslo pochádza z prostredia špeciálneho vzdelávania na úrovni PK-12, ktoré väčšinou používalo AI spred éry generatívnej AI, a literatúra o vysokom školstve je skôr mapou toho, čo sa už skúšalo.
 
 ## Stručne
 
@@ -51,11 +51,11 @@ Rovnaká opatrnosť platí pre skupinové štatistiky. [[differential-effects-ac
 
 ## Používajte to, čo bolo merané, a čítajte označenie
 
-Najsilnejší [[quantitative-research|kvantitatívny]] výsledok na tejto stránke je zároveň najvšeobecnejší a má limity, ktoré by ste si mali vziať do rozhodnutia o nákupe.
+Najsilnejší [[quantitative-research|kvantitatívny]] výsledok je zároveň najvšeobecnejší a má limity, ktoré by ste si mali vziať do rozhodnutia o nákupe.
 
 [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang, Carter, Liu a Peng (2024)]] syntetizovali 29 (kvázi)experimentálnych štúdií intervencií založených na AI pre [[inclusive-learning|študentov so zdravotným postihnutím]]: 239 veľkostí účinku zo 41 nezávislých vzoriek, štatisticky významný stredne veľký celkový účinok na výsledky učenia Hedgesovo g = 0,588 (95 % CI [0,349; 0,826], p < 0,01) a vysokú heterogenitu medzi štúdiami. Akademický výkon bol najväčšou podskupinou výsledkov (k = 80, g = 0,929) a sociálno-emocionálne zručnosti najmenšou (k = 144, g = 0,382). Počítačový softvér, teda [[speech-and-voice-technologies|rozpoznávanie reči]], expertné systémy a [[intelligent-tutoring|inteligentné výukové systémy]], pôsobil silne (k = 74, g = 0,959) a [[educational-robotics|roboty]] stredne (k = 144, g = 0,509), kým inteligentná VR (g = 0,528) významná nebola. Publikačná zaujatosť bola prítomná (Eggerovo β = 2,837, p < 0,001); trim-and-fill znížil odhad na g = 0,269, stále významný.
 
-Každá štúdia bola z prostredia PK-12. 96,6 % používalo výučbu po krokoch v špeciálnovednom alebo klinickom prostredí a väčšina používala staršiu AI založenú na pravidlách, nie [[generative-ai|generatívnu AI]]. To podporuje opatrné zavádzanie štruktúrovaného výukového softvéru. Neprenáša sa to na univerzálneho chatbota a zaobchádzať s tým, akoby sa to prenášalo, je najdrahšia chyba, akú na tejto stránke môžete urobiť.
+Každá štúdia bola z prostredia PK-12. 96,6 % používalo výučbu po krokoch v špeciálnovednom alebo klinickom prostredí a väčšina používala staršiu AI založenú na pravidlách, nie [[generative-ai|generatívnu AI]]. To podporuje opatrné zavádzanie štruktúrovaného výukového softvéru. Neprenáša sa to na univerzálneho chatbota a zaobchádzať s tým, akoby sa to prenášalo, je najdrahšia chyba, akú možno môžete urobiť.
 
 Tri menšie výsledky ukazujú, čo dokáže jediný nástroj, keď je bariéra úzka. Každý bol testovaný na hŕstke študentov, takže ich berte ako lacné a vratné experimenty, nie ako infraštruktúru.
 
@@ -83,7 +83,7 @@ Zdokumentované zlyhanie je akomodácia poskytnutá bez výučby. V prípade *W.
 
 To zlyhanie pravdepodobne spôsobujú dve veci a obe sú inštitucionálne. [[shin-ai-policies-sld-2026|Shin a kolegovia (2026)]] použili modelovanie tém založené na LLM a dve kolá delfských prieskumov so 17 odborníkmi naprieč 12 dokumentmi o [[educational-policy-ai|politike AI vo vzdelávaní]] v USA z rokov 2015 až 2025. Príprava pedagógov je jednou z ich piatich validovaných tém a nesie 4 z 36 položiek, pričom odborníci zaradili posilnenie študenta a [[ai-literacy|AI gramotnosť]] ako najpodstatnejšie: títo študenti by sa mali učiť používať AI zodpovedne a samostatne a ochrana pred nadmernou závislosťou sa má učiť ako súčasť tej istej zručnosti. Autori [[ludia-udl-ai-thought-partner-2026|LUDIA]] pomenúvajú prekážku ako „priepasť medzi vedením a konaním“: usmernení je dostatok, sú písané všeobecne a bariéra je vždy konkrétna pre túto miestnosť a tento týždeň.
 
-Čo vám táto stránka dať nemôže, je tréningový protokol. Neexistujú žiadne formálne usmernenia založené na dôkazoch, ktoré by pomohli pedagógom alebo rodinám zaviesť AI pre týchto študentov, takže rozsah výučby, jej poradie a to, kto ju poskytuje, sú vecou úsudku. Súdna prax určuje spodnú hranicu, nie štandard: študent musí na konci vedieť tú vec robiť a niekto musí byť zodpovedný za to, že sa tam dostane.
+Čo vám dôkazy dať nemôžu, je tréningový protokol. Neexistujú žiadne formálne usmernenia založené na dôkazoch, ktoré by pomohli pedagógom alebo rodinám zaviesť AI pre týchto študentov, takže rozsah výučby, jej poradie a to, kto ju poskytuje, sú vecou úsudku. Súdna prax určuje spodnú hranicu, nie štandard: študent musí na konci vedieť tú vec robiť a niekto musí byť zodpovedný za to, že sa tam dostane.
 
 ## Zapíšte prepis a OCR do pravidla o AI podľa mena
 
@@ -91,7 +91,7 @@ To zlyhanie pravdepodobne spôsobujú dve veci a obe sú inštitucionálne. [[sh
 
 Pravidlo napísané ako „žiadna AI“ tak môže študentovi odobrať hlavný prostriedok na vytváranie čitateľnej práce. Nikto zatiaľ nemeral rozsah tohto vytlačenia, čo je dôvod byť výslovný, nie čakať na číslo. Vymenujte prepis a OCR v pravidlách ako akomodácie vedľa zákazov písania, aby sa o tých dvoch otázkach rozhodovalo oddelene. Riziko, ktoré tým pre inštitúciu vzniká, patrí k téme [[legal-issues-and-risks|právnych otázok a rizík]].
 
-Vo väčšine dokumentov je to oprava na jeden riadok a je to riadok s najväčšími dôsledkami na tejto stránke.
+Vo väčšine dokumentov je to oprava na jeden riadok a je to riadok s najväčšími dôsledkami v politike.
 
 ## Dajte štruktúru tam, kde ju zadanie predpokladá
 
@@ -105,7 +105,7 @@ Súhrnné účinky vám dajú smer. Nepovedia vám, či nástroj bude fungovať 
 
 To meradlo by mali formovať tri upozornenia. Prvé je, že poradie podskupín je skôr indícia než zistenie: v meta-analýze z roku 2024 nedosiahol významnosť žiadny moderátor žiadneho druhu, takže poradia ako [[learning-by-teaching|učiaci sa agenti]] (g = 1,100) pred sociálno-emocionálnymi koučmi (g = 0,336) alebo dyadická interakcia pred triadickou (g = 0,973 oproti g = 0,385) netreba brať ako ustálené. Smer účinku je podporený; veľkosť, optimálny dizajn a trvácnosť akéhokoľvek zisku nie.
 
-Druhé je, že tento korpus opisuje skôr nasadenia a vnímanie než merané učenie. Pozornosť (n = 4) a sociálna komunikácia (n = 5) sú najmenej preskúmané bariéry a práve nedostatok (kvázi)experimentálnych a longitudinálnych dizajnov je dôvod, prečo je práca o vysokom školstve prehľadom rozsahu, a nie meta-analýzou. Pokrytie sa vychyľuje k bakalárskemu štúdiu a ku globálnemu severu, vyhľadávanie bolo obmedzené na anglicky písanú recenzovanú prácu a postgraduálni študenti sú zastúpení málo. Zapojenie a spokojnosť sú slabé indikátory.
+Druhé je, že táto literatúra opisuje skôr nasadenia a vnímanie než merané učenie. Pozornosť (n = 4) a sociálna komunikácia (n = 5) sú najmenej preskúmané bariéry a práve nedostatok (kvázi)experimentálnych a longitudinálnych dizajnov je dôvod, prečo je práca o vysokom školstve prehľadom rozsahu, a nie meta-analýzou. Pokrytie sa vychyľuje k bakalárskemu štúdiu a ku globálnemu severu, vyhľadávanie bolo obmedzené na anglicky písanú recenzovanú prácu a postgraduálni študenti sú zastúpení málo. Zapojenie a spokojnosť sú slabé indikátory.
 
 Tretie je, že nástroj, ktorý odstráni jednu bariéru, môže nechať inú. Overte nástroj proti konkrétnej obtiaži, ktorú študent hlási, či už je to čítanie a písanie, riadenie štúdia, pozornosť alebo sociálna komunikácia, a hodnotte proti tej obtiaži, nie proti tomu, ako sa študentovi produkt pozdával. Spýtajte sa študenta, čo počítať. Účastníci Zastudila a kolegov aj diskutujúci na fórach u Rezazadegana a kolegov opisujú svoje potreby presnejšie, než to robia produkty postavené pre nich.
 
@@ -127,7 +127,7 @@ Diagnóza mi povie, ktorý nástroj kúpiť. Bariéry pretínajú diagnózy a n�
 
 Akomodácia je osobná úprava, takže riešenie patrí študentovi. Niektoré áno, a tie, ktoré stoja za zovšeobecnenie, sú tie, ktoré by ste boli navrhli tak či tak. Segmentácia pomohla v svojej štúdii každému študentovi. Zmeny dizajnu odstraňujú krok zverejnenia a s ním aj stigma.
 
-Zapojenie a spokojnosť ukazujú, že nástroj fungoval. Ukazujú, že sa študentovi páčil. Tento korpus tvoria väčšinou nasadenia a vnímania a len 6 zo 40 štúdií o vysokom školstve slúžilo viac ako jednej bariére, takže spokojný študent ešte nie je dôkazom, že bariéra padla.
+Zapojenie a spokojnosť ukazujú, že nástroj fungoval. Ukazujú, že sa študentovi páčil. Táto literatúra pozostáva väčšinou z nasadení a vnímania a len 6 zo 40 štúdií o vysokom školstve slúžilo viac ako jednej bariére, takže spokojný študent ešte nie je dôkazom, že bariéra padla.
 
 Podporu nesie nástroj a výučba je navyše. Súdna prax považuje nezaúčaný nástroj za zlyhanie a odborníci na politiku zaradili posilnenie študenta a AI gramotnosť ako svoju najpodstatnejšiu tému. Čas na výučbu rozpočítajte spolu s licenciou.
 

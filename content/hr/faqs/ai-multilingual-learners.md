@@ -1,7 +1,7 @@
 ---
 title: "Kako AI može podržati višejezične studente, a da pritom ne pogrešno procijeni njihovo znanje i ne izbriše njihov glas?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:17:18-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
@@ -51,11 +51,11 @@ Zapišite odluku tamo gdje je studenti mogu pročitati. Ako studenti smiju preve
 
 ## Što istraživanja podupiru, a što ne
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez i Arabadzhy (2026)]] pregledali su 24 empirijske studije o generativnim [[conversational-ai|chatbotovima]] u [[language-learning|učenju jezika]]. Njihov je doprinos taksonomski: svaka potporna mogućnost zabilježena za predgenerativne chatbotove ostaje, a tri su nove, među njima **translanguaging**, namjerno kretanje između jezika kao dio učenja. To je karta zabilježenih upotreba i iskustava, a ne objedinjena procjena, a korpus je geografski koncentriran: Kina, Iran, Tajvan i Turska čine 19 od 24 studije, a sve osim jedne smještene su u formalne institucije. Potpora korištenju međujezičnog objašnjenja kao poteza u učenju nije potpora prevođenju svake zadaće.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez i Arabadzhy (2026)]] pregledali su 24 empirijske studije o generativnim [[conversational-ai|chatbotovima]] u [[language-learning|učenju jezika]]. Njihov je doprinos taksonomski: svaka potporna mogućnost zabilježena za predgenerativne chatbotove ostaje, a tri su nove, među njima **translanguaging**, namjerno kretanje između jezika kao dio učenja. To je karta zabilježenih upotreba i iskustava, a ne objedinjena procjena, a studije su geografski koncentrirane: Kina, Iran, Tajvan i Turska čine 19 od 24 studije, a sve osim jedne smještene su u formalne institucije. Potpora korištenju međujezičnog objašnjenja kao poteza u učenju nije potpora prevođenju svake zadaće.
 
 Procjena je mjesto gdje dokazi postaju oštriji, a ulog raste. [[ai-scoring-language-bias-physics|Feser i Tschisgale (2026)]] usporedili su jedanaest pristupa automatiziranom bodovanju s ocjenama ljudskih stručnjaka za fizička objašnjenja 116 srednjoškolaca i pronašli sustavno podcjenjivanje pojmovnog razumijevanja kod jezično slabijih objašnjenja, u svakom pojedinom pristupu. Dizajn izdvaja mehanizam: isti pojmovni sadržaj, izražen slabijom prozom, ocijenjen je niže. To nije tvrdnja o višejezičnim studentima neke zemlje, i upravo je to obrazac zbog kojeg je ukupna sukladnost bodovanja loša dijagnostika. Ocjenjivač se može slagati s ljudskim ocjenjivačima u prosjeku, a griješiti u dosljednom smjeru za studente čiji se jezik još razvija.
 
-Sinopsis [[multilingual-learning]] opisuje istraživanja o probiru pisanja koja pokazuju obrasce prediktivne pristranosti kod višejezičnih pisaca slične ljudskim pristranostima u ocjenjivanju. Pročitajte ta tri nalaza zajedno i operativna je pouka uska: ni „AI uklanja ljudsku pristranost“ ni „AI dodaje jezičnu pristranost“ nije korisno pravilo. Trebate provjeru zadatka, populacije i jezika, na mjestu gdje ocjena postaje ocjena u zapisu.
+Sinopsis [[multilingual-learning|višejezičnog učenja]] opisuje istraživanja o probiru pisanja koja pokazuju obrasce prediktivne pristranosti kod višejezičnih pisaca slične ljudskim pristranostima u ocjenjivanju. Pročitajte ta tri nalaza zajedno i operativna je pouka uska: ni „AI uklanja ljudsku pristranost“ ni „AI dodaje jezičnu pristranost“ nije korisno pravilo. Trebate provjeru zadatka, populacije i jezika, na mjestu gdje ocjena postaje ocjena u zapisu.
 
 ## Dajte alatu konkretnu potpornu ulogu
 
@@ -73,7 +73,7 @@ To su upotrebe koje treba pilotirati, a ne provjerene intervencije. Alat koji do
 
 ## Zaštitite studentovo značenje i glas
 
-Zatražite ciljanu pomoć prije nego zatražite prepisivanje, jer cjelovito prepisivanje je mjesto gdje studentovo razmišljanje nestaje sa stranice. Zahtjev koji vrijedi poučavati: „Prepoznaj dva mjesta gdje je moje značenje nejasno. Objasni problem i ponudi mogućnosti. Zadrži moje primjere i ne dodavaj tvrdnje.“ Student zatim bira.
+Zatražite ciljanu pomoć prije nego zatražite prepisivanje, jer cjelovito prepisivanje je mjesto gdje studentovo razmišljanje nestaje iz nacrta. Zahtjev koji vrijedi poučavati: „Prepoznaj dva mjesta gdje je moje značenje nejasno. Objasni problem i ponudi mogućnosti. Zadrži moje primjere i ne dodavaj tvrdnje.“ Student zatim bira.
 
 Slijed koji rad zadržava kod studenta:
 
@@ -120,6 +120,6 @@ Osigurajte izvedive alternative. Studentima treba jasan put do ljudske jezične 
 
 ## Kamo dalje
 
-[[multilingual-learning]] pojmovna je stranica za jezik, translanguaging i procjenu u nastavi posredovanoj AI-jem, a [[assessment-validity|valjanost procjene]] standard je za to podupire li ocjena zaključak koji izvodite. [[differential-effects-across-learner-groups]] pokriva kako tražiti obrasce u podskupinama, a ne pretpostavljati ih.
+[[multilingual-learning|Višejezično učenje]] pojmovna je stranica za jezik, translanguaging i procjenu u nastavi posredovanoj AI-jem, a [[assessment-validity|valjanost procjene]] standard je za to podupire li ocjena zaključak koji izvodite. [[differential-effects-across-learner-groups|Diferencijalni učinci među skupinama učenika]] pokriva kako tražiti obrasce u podskupinama, a ne pretpostavljati ih.
 
 Za slučaj poučavanja pisanja u kojem je jezik konstrukt vidi [[writing-instruction-ai-best-practices|najbolje prakse za poučavanje pisanja]]. Za pitanje može li se automatiziranom bodovanju uopće vjerovati u vašem okruženju vidi [[ai-grading-fairness-reliability|AI ocjenjivanje]] i [[checking-whether-educational-ai-works|provjeru radi li obrazovni AI]].

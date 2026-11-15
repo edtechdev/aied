@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:27:26-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,8 @@ Spätná väzba rovesníkov si v sekvencii zaslúži vlastné miesto. [[scaffold
 
 Výhoda Gu et al. bola malá a oni ju čítajú ako skutočnú, ale nie samu o sebe transformatívnu. Podpornú prácu odviedlo lešenie učiteľa, usmernenia k promptom a pracovné listy.
 
+Zdroj môže záležať menej než čas. U 391 nemeckých stredoškolákov nepriniesla spätná väzba písaná učiteľom a spätná väzba od LLM žiadny významný rozdiel v revíziách, neskoršom písaní, čase na úlohu ani vo vnímaní; bayesovské posteriorné rozdelenia sa pri neskoršom písaní prikláňali k spätnej väzbe učiteľa, ale štvrtinu až dve pätiny hmotnosti si ponechali v pásme ekvivalencie, a len okamžitá spätná väzba od AI získala lepšie hodnotenia užitočnosti a motivácie ([[meyer-teacher-ai-feedback-writing-2026|Meyer et al., 2026]]). Ak prvý komentár môže doraziť, kým študent ešte reviduje, toto načasovanie je súčasťou dizajnu, ktorý odvádza prácu.
+
 ## Dajte modelu rubriku a potom ho nechajte ukázať kroky
 
 Generovanie odkazované na rubriku je tá automatizovateľná časť.
@@ -92,7 +94,7 @@ Aldino et al. nachádzajú ten istý vzorec „pomôž a potom over“ v bežnej
 
 Dvanásť z 21 učiteľov Aldino et al. urobilo ďalšie revízie na úrovni viet a prevládajúcim vzorcom bola kalibrácia tónu: zoslabenie chvály (f = 11), odstránenie návrhov (f = 9), odstránenie povzbudenia (f = 8). Revízie sa zhlukovali v relačnej dimenzii, najmä vo vzťahu študenta a učiteľa (f = 24). Chránili autentickosť a profesionálny hlas a táto práca sa neautomatizuje.
 
-Študenti sú druhou stranou tohto overovania a ich popis deľby práce je blízky tomu, čo odporúča táto stránka. V ohniskových skupinách s 20 študentmi bakalárskeho štúdia bola spätná väzba vyučujúceho cenená preto, že bola relačná, personalizovaná a vedená odbornosťou, kým spätná väzba generovaná AI pôsobila neosobne a potenciálne nespravodlivo; tí istí študenti boli otvorení hybridnému modelu, v ktorom vyučujúci číta ich prácu a dopĺňa komentáre modelu ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). Tá istá štúdia zistila, že ich úsudky sa zhodovali s úsudkami ChatGPT v špecifickosti a uskutočniteľnosti, ale rozchádzali sa vo včasnosti a pozitivite, takže dimenzie, v ktorých sa dá vlastnému úsudku modelu dôverovať, sú užšie než celá rubrika.
+Študenti sú druhou stranou tohto overovania a ich popis deľby práce je blízky odporúčanej podobe. V ohniskových skupinách s 20 študentmi bakalárskeho štúdia bola spätná väzba vyučujúceho cenená preto, že bola relačná, personalizovaná a vedená odbornosťou, kým spätná väzba generovaná AI pôsobila neosobne a potenciálne nespravodlivo; tí istí študenti boli otvorení hybridnému modelu, v ktorom vyučujúci číta ich prácu a dopĺňa komentáre modelu ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). Tá istá štúdia zistila, že ich úsudky sa zhodovali s úsudkami ChatGPT v špecifickosti a uskutočniteľnosti, ale rozchádzali sa vo včasnosti a pozitivite, takže dimenzie, v ktorých sa dá vlastnému úsudku modelu dôverovať, sú užšie než celá rubrika.
 
 ## Naučte študentov čítať komentár
 
@@ -144,6 +146,6 @@ Hodnotenia spokojnosti vám hovoria, že komentáre sú presné. V pilote Deakin
 
 ## Kam ísť ďalej
 
-[[feedback|Spätná väzba]] je zastrešujúcim konceptom celého systému: poskytovanie, slučka, prevzatie a kontext hodnotenia. [[ai-feedback-quality|Kvalita spätnej väzby AI]] pokrýva, čo robí vygenerované komentáre presnými, užitočnými, včasnými a pedagogicky zdravými, a táto stránka je praktickým stredom o tom, ktoré kombinácie týchto častí prinášajú lepšiu spätnú väzbu v meradle.
+[[feedback|Spätná väzba]] je zastrešujúcim konceptom celého systému: poskytovanie, slučka, prevzatie a kontext hodnotenia. [[ai-feedback-quality|Kvalita spätnej väzby AI]] pokrýva, čo robí vygenerované komentáre presnými, užitočnými, včasnými a pedagogicky zdravými, a praktickou otázkou je, ktoré kombinácie týchto častí prinášajú lepšiu spätnú väzbu v meradle.
 
 Otázky o tom, čo má známka znamenať, keď je zapojená AI, vrátane nahradenia konštruktu, overených dôkazov o procese a pravidiel integrity, patria na [[redesign-assessment-ai-era|preprojektovanie hodnotenia v ére AI]] a [[assessment-validity|platnosť hodnotenia]], nie sem. Špeciálny prípad výučby písania nájdete v [[writing-instruction-ai-best-practices|osvedčených postupoch pre výučbu písania v kontexte AI]].

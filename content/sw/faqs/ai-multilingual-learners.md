@@ -1,7 +1,7 @@
 ---
 title: "AI Inawezaje Kusaidia Wanafunzi wa Lugha Nyingi Bila Kukosea Ufahamu Wao au Kufuta Sauti Yake?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:26:08-05:00"
+updated: "2026-11-15T16:26:08-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
@@ -51,7 +51,7 @@ Andika uamuzi huo mahali ambapo wanafunzi wanaweza kuusoma. Kama wanafunzi wanaw
 
 ## Utafiti unaunga mkono nini, na hauungi mkono nini
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez na Arabadzhy (2026)]] walipitia tafiti 24 za majaribio za [[conversational-ai|chatbots]] zalishi katika [[language-learning|ujifunzaji wa lugha]]. Mchango wao ni wa uainishaji: kila fursa ndogo iliyoorodheshwa kwa chatbots za kabla ya enzi ya AI zalishi inaendelea kuwepo, na tatu ni mpya, ikiwemo **translanguaging**, uhamishaji wa makusudi kati ya lugha kama sehemu ya kujifunza. Hiyo ni ramani ya matumizi na uzoefu ulioripotiwa badala ya makadirio yaliyojumuishwa, na mkusanyiko umejikita kijiografia, huku China, Iran, Taiwan na Türkiye zikichukua tafiti 19 kati ya 24 na zote isipokuwa moja zikiwa ndani ya taasisi rasmi. Msaada wa kutumia maelezo ya lugha tofauti kama hatua ya kujifunza si msaada wa kutafsiri kila kazi.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez na Arabadzhy (2026)]] walipitia tafiti 24 za majaribio za [[conversational-ai|chatbots]] zalishi katika [[language-learning|ujifunzaji wa lugha]]. Mchango wao ni wa uainishaji: kila fursa ndogo iliyoorodheshwa kwa chatbots za kabla ya enzi ya AI zalishi inaendelea kuwepo, na tatu ni mpya, ikiwemo **translanguaging**, uhamishaji wa makusudi kati ya lugha kama sehemu ya kujifunza. Hiyo ni ramani ya matumizi na uzoefu ulioripotiwa badala ya makadirio yaliyojumuishwa, na tafiti zimejikita kijiografia, huku China, Iran, Taiwan na Türkiye zikichukua tafiti 19 kati ya 24 na zote isipokuwa moja zikiwa ndani ya taasisi rasmi. Msaada wa kutumia maelezo ya lugha tofauti kama hatua ya kujifunza si msaada wa kutafsiri kila kazi.
 
 Tathmini ndipo ushahidi unapokuwa mkali zaidi na uzito wa maamuzi unapopanda. [[ai-scoring-language-bias-physics|Feser na Tschisgale (2026)]] walilinganisha mbinu kumi na moja za upaaji wa alama wa kiotomatiki na alama za wataalam wa binadamu kwa maelezo ya fizikia ya wanafunzi 116 wa shule ya sekondari na wakapata upunguzaji wa kimfumo wa ufahamu wa dhana kwa maelezo yenye lugha hafifu, katika kila mbinu moja baada ya nyingine. Muundo unatenga utaratibu: maudhui yale yale ya dhana, yaliyoelezwa kwa maandishi hafifu, yalipata alama chini. Hili si dai kuhusu wanafunzi wa lugha nyingi wa nchi fulani, na ndio mtindo hasa unaofanya makubaliano ya jumla ya upaaji wa alama kuwa kigunduzi kibovu. Mkadiriaji anaweza kukubaliana na wakadiriaji wa binadamu kwa wastani huku akikosea kwa mwelekeo mmoja kwa wanafunzi ambao lugha yao bado inakua.
 
@@ -73,7 +73,7 @@ Haya ni matumizi ya kujaribu kwa majaribio, si afua zilizohakikiwa. Zana inayofa
 
 ## Linda maana na sauti ya mwanafunzi
 
-Omba msaada unaolenga kabla ya kuomba kuandikwa upya, kwa sababu kuandikwa upya kote ndipo fikira za mwanafunzi zinapotoka kwenye ukurasa. Ombi linalofaa kufundishwa: "Tambua sehemu mbili ambapo maana yangu haiko wazi. Eleza tatizo na toa chaguo. Weka mifano yangu na usiongeze madai." Kisha mwanafunzi anachagua.
+Omba msaada unaolenga kabla ya kuomba kuandikwa upya, kwa sababu kuandikwa upya kote ndipo fikira za mwanafunzi zinapotoka kwenye rasimu. Ombi linalofaa kufundishwa: "Tambua sehemu mbili ambapo maana yangu haiko wazi. Eleza tatizo na toa chaguo. Weka mifano yangu na usiongeze madai." Kisha mwanafunzi anachagua.
 
 Mfuatano unaobakiza kazi kwa mwanafunzi:
 
@@ -120,6 +120,6 @@ Toa njia mbadala zinazoweza kufanya kazi. Wanafunzi wanahitaji njia wazi ya msaa
 
 ## Wapi kwenda baadaye
 
-[[multilingual-learning]] ni ukurasa wa dhana kwa lugha, translanguaging na tathmini katika ufundishaji unaopitia AI, na [[assessment-validity|uhalali wa tathmini]] ni kiwango cha kama alama inaunga mkono uelekezaji unaofanya. [[differential-effects-across-learner-groups]] unashughulikia jinsi ya kutafuta mielekeo ya vikundi vidogo badala ya kuidhani.
+[[multilingual-learning|Kujifunza kwa lugha nyingi]] ni ukurasa wa dhana kwa lugha, translanguaging na tathmini katika ufundishaji unaopitia AI, na [[assessment-validity|uhalali wa tathmini]] ni kiwango cha kama alama inaunga mkono uelekezaji unaofanya. [[differential-effects-across-learner-groups|athari tofauti kwa vikundi vya wanafunzi]] unashughulikia jinsi ya kutafuta mielekeo ya vikundi vidogo badala ya kuidhani.
 
 Kwa kesi ya kufundisha uandishi pale lugha ni dhana yenyewe, tazama [[writing-instruction-ai-best-practices|mbinu bora za kufundisha uandishi]]. Kwa kama upaaji wa alama wa kiotomatiki unaweza kuaminiwa kabisa katika mazingira yako, tazama [[ai-grading-fairness-reliability|kupa alama kwa AI]] na [[checking-whether-educational-ai-works|kukagua kama AI ya kielimu inafanya kazi]].

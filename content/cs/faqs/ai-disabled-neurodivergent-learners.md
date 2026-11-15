@@ -9,9 +9,9 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:21:59-05:00"
 translation_of: faqs/ai-disabled-neurodivergent-learners
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -51,7 +51,7 @@ Stejná opatrnost platí pro skupinové statistiky. [[differential-effects-acros
 
 ## Používejte to, co bylo změřeno, a čtěte označení
 
-Nejsilnější [[quantitative-research|kvantitativní]] výsledek na této stránce je zároveň nejobecnější a přichází s omezeními, která byste měli vzít do rozhodnutí o nákupu.
+Nejsilnější [[quantitative-research|kvantitativní]] výsledek je zároveň nejobecnější a přichází s omezeními, která byste měli vzít do rozhodnutí o nákupu.
 
 [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang, Carter, Liu a Peng (2024)]] syntetizovali 29 (kvazi)experimentálních studií intervencí založených na AI pro [[inclusive-learning|studenty s postižením]]: 239 velikostí účinku ze 41 nezávislých vzorků, statisticky významný středně velký celkový účinek na výsledky učení podle Hedgesova g = 0,588 (95 % CI [0,349; 0,826], p < 0,01) a vysokou heterogenitu mezi studiemi. Akademický výkon byl největší podskupinou výsledků (k = 80, g = 0,929) a socioemocionální dovednosti nejmenší (k = 144, g = 0,382). Počítačový software, tedy [[speech-and-voice-technologies|rozpoznávání řeči]], expertní systémy a [[intelligent-tutoring|inteligentní tutoriální systémy]], si vedl silně (k = 74, g = 0,959) a [[educational-robotics|roboti]] středně (k = 144, g = 0,509), zatímco inteligentní VR (g = 0,528) nebylo významné. Publikační zkreslení bylo přítomno (Eggerovo β = 2,837, p < 0,001); trim-and-fill snížil odhad na g = 0,269, stále významný.
 
@@ -92,7 +92,7 @@ Co vám stránka dát nemůže, je protokol školení. Neexistují žádné form
 
 Pravidlo napsané jako „žádná AI“ tak může studentovi odebrat hlavní prostředek k vytváření čitelné práce. Rozsah tohoto vytěsnění zatím nikdo nezměřil, což je důvod být výslovný, a ne čekat na číslo. Pojmenujte přepis a OCR v politice jako přiměřené úpravy, vedle zákazů psaní, aby se o obou otázkách rozhodovalo odděleně. Riziko, které tím pro instituci vzniká, patří k [[legal-issues-and-risks]].
 
-Ve většině dokumentů je to oprava na jeden řádek a je to řádek s největšími důsledky na této stránce.
+Ve většině dokumentů je to oprava na jeden řádek a je to řádek s největšími důsledky.
 
 ## Dejte strukturu tam, kde ji zadání předpokládá
 
@@ -106,7 +106,7 @@ Souhrnné účinky vám dají směr. Neřeknou vám, zda nástroj bude fungovat 
 
 To měřítko by měly formovat tři výhrady. První je, že pořadí podskupin je spíš sugestivní než prokázané: žádný moderátor žádného druhu nedosáhl v metaanalýze z roku 2024 významnosti, takže žebříčky, jako [[learning-by-teaching|učitelní agenti]] (g = 1,100) před socioemocionálními kouči (g = 0,336) nebo dyadická interakce před triadickou (g = 0,973 proti g = 0,385), nelze brát jako uzavřené. Směr účinku je podložen; velikost, optimální design ani trvanlivost jakéhokoli zisku nikoli.
 
-Druhá je, že tento korpus popisuje spíš nasazení a vnímání než změřené učení. Pozornost (n = 4) a sociální komunikace (n = 5) jsou nejméně studované bariéry a nedostatek (kvazi)experimentálních a longitudinálních designů je důvod, proč je vysokoškolská práce scoping review, a ne metaanalýza. Pokrytí je nakloněno k bakalářskému studiu a globálnímu severu, hledání bylo omezeno na anglicky psané recenzované práce a postgraduální studenti jsou zastoupeni málo. Zapojení a spokojenost jsou slabé ukazatele.
+Druhá je, že tato literatura popisuje spíš nasazení a vnímání než změřené učení. Pozornost (n = 4) a sociální komunikace (n = 5) jsou nejméně studované bariéry a nedostatek (kvazi)experimentálních a longitudinálních designů je důvod, proč je vysokoškolská práce scoping review, a ne metaanalýza. Pokrytí je nakloněno k bakalářskému studiu a globálnímu severu, hledání bylo omezeno na anglicky psané recenzované práce a postgraduální studenti jsou zastoupeni málo. Zapojení a spokojenost jsou slabé ukazatele.
 
 Třetí je, že nástroj, který opraví jednu bariéru, může jinou nechat. Zkontrolujte nástroj proti konkrétní obtížnosti, kterou student uvádí, ať jde o čtení a psaní, řízení studia, pozornost nebo sociální komunikaci, a hodnoťte proti té obtížnosti, a ne proti tomu, jak studentovi produkt připadal. Zeptejte se studenta, co počítat. Účastníci Zastudila et al. i diskutující na fórech u Rezazadegana et al. popisují své potřeby přesněji než produkty, které pro ně vznikly.
 
@@ -128,7 +128,7 @@ Diagnóza mi řekne, který nástroj koupit. Bariéry procházejí napříč dia
 
 Přiměřená úprava je osobní uspořádání, takže oprava patří studentovi. Některé ano, a ty, které stojí za zobecnění, jsou ty, které byste stejně navrhli. Segmentace pomohla v její studii každému studentovi. Změny designu odstraňují krok sebeodhalení a s ním i stigma.
 
-Zapojení a spokojenost ukazují, že nástroj fungoval. Ukazují, že se studentovi líbil. Tento korpus tvoří z větší části nasazení a vnímání a jen 6 ze 40 vysokoškolských studií sloužilo více než jedné bariéře, takže spokojený student zatím není důkazem, že nějaká bariéra padla.
+Zapojení a spokojenost ukazují, že nástroj fungoval. Ukazují, že se studentovi líbil. Tato literatura tvoří z větší části nasazení a vnímání a jen 6 ze 40 vysokoškolských studií sloužilo více než jedné bariéře, takže spokojený student zatím není důkazem, že nějaká bariéra padla.
 
 Podporu nese nástroj a výuka je navíc. Soudní praxe považuje nevyučovaný nástroj za selhání a odborníci na politiku zařadili posílení postavení studentů a gramotnost v oblasti AI jako nejpodstatnější téma. Naplánujte čas na výuku spolu s licencí.
 

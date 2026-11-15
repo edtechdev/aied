@@ -8,9 +8,9 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:26:08-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -92,7 +92,6 @@ Fii exact în privința afirmației. PAIRR a măsurat experiența studenților �
 
 Instrumentul în sine poate fi proiectat să protejeze pasul de raționament. [[favero-thinking-not-writing-chatbot-2026|Favero et al. (2026)]] au construit MAIKE, un chatbot [[socratic-method|socratic]] care diagnostichează argumente și pune întrebări țintite fără să genereze text de eseu. Într-un studiu de clasă cu 65 de elevi de liceu, utilizatorii MAIKE au petrecut mai multe ture în dialog la nivel de idei decât utilizatorii din control (56% față de 44%) și au trecut între discuție și editare; aproximativ 40% dintre elevi și-au îmbunătățit scorurile la eseu. Studiul nu a arătat un avantaj general de notă față de control, așa că tratează-l ca pe o demonstrație de design despre legarea conversației de revizie, nu ca dovadă că chatbotul ridică calitatea scrierii.
 
-
 ## Notează ce a făcut studentul cu feedbackul
 
 [[feedback-literacy|Alfabetizarea în feedback]] este capacitatea de a căuta feedback, de a-i judeca calitatea, de a-ți gestiona reacția la el și de a-l transforma în revizie. Studenții care o au în mai mare măsură beneficiază mult mai mult de pe urma feedbackului IA. Studenții care tratează rezultatul ca autoritar câștigă mai puțin ([[ai-feedback-quality|Calitatea feedbackului IA]]).
@@ -127,7 +126,7 @@ Dă critica modelului ca temă de lucru disciplinară. Dă studenților o interp
 
 ### Cursuri STEM și rapoarte de laborator
 
-Mai întâi o precizare: această bază de cunoștințe are dovezi mult mai puternice despre scrierea academică asistată de IA în general decât despre scrierea rapoartelor de laborator în particular. [[pedagogy|Pedagogia]] practică și de laborator rămâne slab acoperită, inclusiv în literatura despre [[engineering-education|educația inginerească]], așa că cele ce urmează aplică rezultate despre scris, descărcare, validitate și inginerie într-un cadru pe care acele studii nu l-au testat.
+Mai întâi o precizare: dovezile sunt mult mai puternice despre scrierea academică asistată de IA în general decât despre scrierea rapoartelor de laborator în particular. [[pedagogy|Pedagogia]] practică și de laborator rămâne slab acoperită, inclusiv în literatura despre [[engineering-education|educația inginerească]], așa că cele ce urmează aplică rezultate despre scris, descărcare, validitate și inginerie într-un cadru pe care acele studii nu l-au testat.
 
 Trasează granița în jurul raționamentului științific, nu al prozei în ansamblu. Studenții rămân responsabili pentru observații, date brute, calcule, incertitudine, figuri, alegeri de analiză, rezultate și raționamentul afirmație-dovezi. Odată ce acestea există, IA poate ajuta rezonabil cu organizarea, lizibilitatea, tranzițiile și convențiile disciplinare, ceea ce este aceeași despărțire între suprafață și raționament ca în [[layer-sensitive-cognitive-offloading-writing-2026|studiul lui Chen]].
 
@@ -151,7 +150,7 @@ Studenții trag singuri o linie similară. Într-un curs universitar de comunica
 
 ## Judecă dovezile înainte să rescrii programa
 
-Cazul pentru aceste designuri este promițător și încă nu destul de puternic ca să justifice o politică universală despre scrisul cu IA. O parte din cele mai bune dovezi vin din studii de sală substanțiale, cum este [[pairr-ai-peer-review-2025|PAIRR]], cu cei 654 de studenți ai săi. Mult din restul se sprijină pe cvasi-experimente, eșantioane experimentale mici, analize conceptuale și lucrări din 2025-2026 încă noi: [[layer-sensitive-cognitive-offloading-writing-2026|studiul lui Chen despre scrierea cu limite]] a avut 168 de studenți, dar doar șase clase intacte, [[ai-writing-support-stage-ownership-2026|studiul despre proprietate]] a folosit o sarcină experimentală scurtă de scriere, iar un studiu care raporta câștiguri imediate de calitate după exersarea cu ChatGPT a implicat doar 21 de studenți internaționali din anul întâi și nu a stabilit [[transfer-of-learning|transfer]] pe termen lung ([[chatgpt-academic-writing-quality-ownership-2026|Calitatea și proprietatea scrisului academic cu ChatGPT]]). Ce susține baza de cunoștințe despre [[ai-education|IA în educație]] este un set de principii de design, iar constatarea trans-studii cea mai de încredere din ea este să păstrezi [[agency|capacitatea de a acționa]] a studentului, [[evaluative-judgment|judecata evaluativă]], competența independentă, raționamentul disciplinar și feedbackul uman, în timp ce folosești IA ca să lărgești accesul la critică, exersare, sprijin pentru revizie și asistență lingvistică.
+Cazul pentru aceste designuri este promițător și încă nu destul de puternic ca să justifice o politică universală despre scrisul cu IA. O parte din cele mai bune dovezi vin din studii de sală substanțiale, cum este [[pairr-ai-peer-review-2025|PAIRR]], cu cei 654 de studenți ai săi. Mult din restul se sprijină pe cvasi-experimente, eșantioane experimentale mici, analize conceptuale și lucrări din 2025-2026 încă noi: [[layer-sensitive-cognitive-offloading-writing-2026|studiul lui Chen despre scrierea cu limite]] a avut 168 de studenți, dar doar șase clase intacte, [[ai-writing-support-stage-ownership-2026|studiul despre proprietate]] a folosit o sarcină experimentală scurtă de scriere, iar un studiu care raporta câștiguri imediate de calitate după exersarea cu ChatGPT a implicat doar 21 de studenți internaționali din anul întâi și nu a stabilit [[transfer-of-learning|transfer]] pe termen lung ([[chatgpt-academic-writing-quality-ownership-2026|Calitatea și proprietatea scrisului academic cu ChatGPT]]). Ce susține cercetarea despre [[ai-education|IA în educație]] este un set de principii de design, iar constatarea trans-studii cea mai de încredere din ea este să păstrezi [[agency|capacitatea de a acționa]] a studentului, [[evaluative-judgment|judecata evaluativă]], competența independentă, raționamentul disciplinar și feedbackul uman, în timp ce folosești IA ca să lărgești accesul la critică, exersare, sprijin pentru revizie și asistență lingvistică.
 
 Acest amestec are o consecință practică. Schimbă o lucrare, păstrează materialul și compară următoarea promoție cu aceasta pe aceeași măsură. O regulă pe care o poți revizui după un semestru valorează mai mult decât o politică pe care nu o poți testa, iar studiile mici de mai sus nu îți vor spune ce se întâmplă în cursul tău.
 
@@ -169,7 +168,7 @@ Acest amestec are o consecință practică. Schimbă o lucrare, păstrează mate
 
 ## Ce se va întoarce împotriva ta
 
-**„Nu am timp să citesc încă un material.”** Atunci fă materialul mic: patru coloane de tabel de decizie sau cinci minute de scriere în sală ca mostră independentă. Corpusul nu raportează date despre timpul de notare pentru aceste designuri, așa că argumentul privind volumul de muncă trebuie testat pe o singură lucrare, nu presupus din această pagină.
+**„Nu am timp să citesc încă un material.”** Atunci fă materialul mic: patru coloane de tabel de decizie sau cinci minute de scriere în sală ca mostră independentă. Niciun studiu nu raportează date despre timpul de notare pentru aceste designuri, așa că argumentul privind volumul de muncă trebuie testat pe o singură lucrare, nu presupus.
 
 **„Studenții mei vor folosi IA indiferent ce spune regula.”** O vor face, iar întrebarea de design este pe care răspuns îl face lucrarea ta cel mai ușor. O declarație care nu costă nimic și o rubrică ce plătește procesul fac din declarare calea mai ieftină. Mecanismul vine din modelare, nu dintr-un trial al unei politici de declarare, așa că tratează predicția ca rezonabilă și neconfirmată.
 

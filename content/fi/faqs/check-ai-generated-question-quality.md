@@ -1,7 +1,7 @@
 ---
 title: "Miten tarkistan, ovatko tekoälyn tuottamat tietovisailujen ja tenttien kysymykset todella hyviä?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:16:13-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-05T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Pyydät luentomuistiinpanoistasi kaksikymmentä kysymystä. Ne palaavat vastausavaimineen, selityksineen, vaikeustasomerkintöineen ja Bloomin taksonomian luokkineen muotoillussa asiakirjassa, joka näyttää valmiilta. Nimesi on juuri menossa siihen.
 
-Lyhyt vastaus kollegalle: tuotetut kysymykset ovat ehdokkaita, eivät arviointi. Ratkaise jokainen itse, tarkista, mitä tehtävä vaatii opiskelijan todella tekevän, ja selvitä, miten opiskelijat siihen vastaavat, ennen kuin se lasketaan. Tämän tietopohjan kahdessa suurimmassa tutkimuksessa kiinnostava signaali ei ole se, että tuottaminen toimii, vaan se, missä se epäonnistuu. Kurssikohtaisen työnkulun sisällä toistuva tuottaminen tuotti käyttökelpoisia monivalintatenttejä 71 korkeakoululuokalle ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). Datatieteen 311 käyttöön otetun kysymyksen auditoinnissa mallin vaikeustasomerkinnät seurasivat lähes täydellisesti niiden rinnalle tuotettuja Bloomin tasoja (Spearman ρ = 0,90), mutta seurasivat opiskelijoiden todellisia pistemääriä vain arvolla ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An ja Wang, 2026]]). Merkintä kuvasi kehotetta, ei tehtävän mittausta.
+Tässä lyhyt vastaus: tuotetut kysymykset ovat ehdokkaita, eivät arviointi. Ratkaise jokainen itse, tarkista, mitä tehtävä vaatii opiskelijan todella tekevän, ja selvitä, miten opiskelijat siihen vastaavat, ennen kuin se lasketaan. Kahdessa suurimmassa tutkimuksessa kiinnostava signaali ei ole se, että tuottaminen toimii, vaan se, missä se epäonnistuu. Kurssikohtaisen työnkulun sisällä toistuva tuottaminen tuotti käyttökelpoisia monivalintatenttejä 71 korkeakoululuokalle ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). Datatieteen 311 käyttöön otetun kysymyksen auditoinnissa mallin vaikeustasomerkinnät seurasivat lähes täydellisesti niiden rinnalle tuotettuja Bloomin tasoja (Spearman ρ = 0,90), mutta seurasivat opiskelijoiden todellisia pistemääriä vain arvolla ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An ja Wang, 2026]]). Merkintä kuvasi kehotetta, ei tehtävän mittausta.
 
 ## Lyhyt versio
 

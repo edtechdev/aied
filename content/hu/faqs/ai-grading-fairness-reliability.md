@@ -1,7 +1,7 @@
 ---
 title: "Használhatok MI-t a diákok munkájának tisztességes és megbízható osztályozására?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:17:55-05:00"
 type: faq
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
@@ -46,11 +46,11 @@ Van egy rubrikája, amelyben hisz, több beadás, mint ahány órája, és egy e
 
 Három elrendezést neveznek „MI-osztályozásnak", és különböző kötelezettségekkel járnak.
 
-A **visszajelzés-asszisztens** megjegyzéseket vázol, vagy lehetséges kihagyásokat jelez, hogy Ön elfogadja, átírja vagy elvesse. A kockázat a megjegyzések minőségére korlátozódik, és mindent elolvas, mielőtt egy diákhoz eljut. A **második olvasó** kritériumonkénti pontszámokat javasol, vagy nézeteltéréseket jelez, hogy strukturálja a saját javítását. A hibáinak hasznosaknak kell lenniük, nem csupán téveseknek: egy jelzés, amely visszaküld egy beadáshoz, amelyet különben gondatlanul javított volna, megéri. Az **elsődleges pontozó** olyan pontszámokat állít elő, amelyek rögzített jegyekké válnak. Ez az az elrendezés, amelyet az ebben a tudásbázisban szereplő bizonyítékok a szűk, helyben érvényesített eseteken túl nem támasztanak alá.
+A **visszajelzés-asszisztens** megjegyzéseket vázol, vagy lehetséges kihagyásokat jelez, hogy Ön elfogadja, átírja vagy elvesse. A kockázat a megjegyzések minőségére korlátozódik, és mindent elolvas, mielőtt egy diákhoz eljut. A **második olvasó** kritériumonkénti pontszámokat javasol, vagy nézeteltéréseket jelez, hogy strukturálja a saját javítását. A hibáinak hasznosaknak kell lenniük, nem csupán téveseknek: egy jelzés, amely visszaküld egy beadáshoz, amelyet különben gondatlanul javított volna, megéri. Az **elsődleges pontozó** olyan pontszámokat állít elő, amelyek rögzített jegyekké válnak. Ez az az elrendezés, amelyet a bizonyítékok a szűk, helyben érvényesített eseteken túl nem támasztanak alá.
 
 Válassza a legalacsonyabb fokot, amely a tényleges korlátjára válaszol. Ha a javítási terhe egy rögzített válaszkulcs ellenőrzéséből ered, a közönséges determinisztikus pontozás átláthatóbb és auditálhatóbb, mint egy [[llm|nyelvi modell]], és a gyógyszerészeti vizsgálat arra utal, hogy az LLM előnye az objektív itemeken részben annak a műterméke volt, hogy az osztályozás során megkapta a helyes válaszokat. Tartsa a modellt az értelmezést igénylő munkára, aztán ellenőrizze azt az értelmezést.
 
-[[automated-assessment|Az automatizált értékelés]] a pontozás, a moderálás és a visszajelzés-generálás szélesebb gépezetét fedi. Ez az oldal az alatta lévő ítéletkérdés.
+[[automated-assessment|Az automatizált értékelés]] a pontozás, a moderálás és a visszajelzés-generálás szélesebb gépezetét fedi. Az alatta lévő ítéletkérdés az, hogy ez a gépezet egyáltalán elég tisztességes és megbízható-e egy érdemjegy rögzítéséhez.
 
 ## Mit mutat valójában a bizonyíték
 

@@ -1,7 +1,7 @@
 ---
 title: "Hogyan kezeljük a MI-vel kapcsolatos gyakori tévképzeteket az oktatásban?"
 created: "2026-09-04T04:39:00-04:00"
-connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
+connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]
 technology: [prompt-engineering]
@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:17:31-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 
 A rektorhelyettes egyoldalas „MI-mítoszok” listát kér a tavaszi oktatói értekezletre. Vagy egy kuratóriumi tag olvasta, hogy a csevegőbotok elpusztítják a kritikus gondolkodást, és péntekig állásfoglalást akar. Vagy Ön az, akinek írásban kell megindokolnia, miért nem tiltja be a tanszék egyszerűen az eszközt, és már elfogytak a változatai annak a mondatnak, hogy a tiltás nem pedagógia.
 
-Az oldalon szereplő minden hiedelem abból indul ki, hogy egy józan ember látott valamit. A gördülékeny szöveg valóban pontosnak hat. A csiszolt beadandó valóban tanulásnak látszik. Az a tutor, amelyik megválaszolja a kérdést, valóban segítségnek érződik, és az a szabályzat, amelyben szerepel a „tilos” szó, valóban döntésnek érződik. Az a helyesbítés működik, amely megnevezi, mit nem tud megmondani a megfigyelés, majd átad egy ellenőrzést, amelyet az illető hétfőn le tud futtatni.
+Ezek a hiedelmek mind abból indulnak ki, hogy egy józan ember látott valamit. A gördülékeny szöveg valóban pontosnak hat. A csiszolt beadandó valóban tanulásnak látszik. Az a tutor, amelyik megválaszolja a kérdést, valóban segítségnek érződik, és az a szabályzat, amelyben szerepel a „tilos” szó, valóban döntésnek érződik. Az a helyesbítés működik, amely megnevezi, mit nem tud megmondani a megfigyelés, majd átad egy ellenőrzést, amelyet az illető hétfőn le tud futtatni.
 
 Íme a válasz, egy levegővétellel: a MI oktatási hatása attól függ, ki használja, melyik feladathoz, milyen gondolkodást végez el az eszköz, mekkora felelősség marad az embernél, és hogyan értékelődik a tanulás. A magabiztosság, a sebesség, az elköteleződés és a feladat befejezése a használat jellemzője. Egyik sem bizonyíték arra, hogy a képesség megváltozott.
 
@@ -44,7 +44,7 @@ Az oldalon szereplő minden hiedelem abból indul ki, hogy egy józan ember lát
 
 ## Döntse el, mi számít a tanulás bizonyítékának
 
-Öt hiedelem dönti el, hogy van-e jelentősége az oldal többi részének. Mindegyik egy valós jelből olyan következtetést olvas ki, amelyet a jel nem hordoz.
+Öt hiedelem dönti el, hogy van-e jelentősége a további érvelésnek. Mindegyik egy valós jelből olyan következtetést olvas ki, amelyet a jel nem hordoz.
 
 ### „Nyitott eszköz mellett jobban teljesítettek, tehát többet tanultak.”
 
@@ -62,11 +62,11 @@ Az átlagok éppen azt a szórást rejtik el, amely eldönti az esélyegyenlős�
 
 ### „Azt jelentették, hogy sokat tanultak.”
 
-Az [[self-report-measures|önbevallás]] észlelést, elfogadást, [[anxiety-and-stress|szorongást]] és [[self-efficacy|önhatékonyságot]] mér, és mind a négyben jó. Nem a kimutatott képesség mérőszáma, mert az ember lehet magabiztos és tévedhet, vagy képzett és alulbecsülheti magát. A wiki tanári MI-írástudásról szóló kutatásainak szintézise jelentős szakadékot mutat a [[self-assessment|önértékelés]] és a mért teljesítmény között, és a benne szereplő oktatók jelentősen túlbecsülték a kompetenciájukat ([[ai-literacy-assessment-misalignment|MI-írástudás-értékelés: önbevallás kontra teljesítmény-eltérés]]). Minden önbevalláshoz párosítson feladatot: találjon meg egy hibát egy kimenetben, ellenőrizzen egy forrást, válasszon használati stratégiát, vegyen észre elfogultságot vagy hízelgést, javítson egy hibás választ, kalibrálja a magabiztosságot a pontossághoz. Egy ilyen tétel a kérdőívben véleményből eredményt csinál.
+Az [[self-report-measures|önbevallás]] észlelést, elfogadást, [[anxiety-and-stress|szorongást]] és [[self-efficacy|önhatékonyságot]] mér, és mind a négyben jó. Nem a kimutatott képesség mérőszáma, mert az ember lehet magabiztos és tévedhet, vagy képzett és alulbecsülheti magát. A tanári MI-írástudásról szóló kutatások szintézise jelentős szakadékot mutat a [[self-assessment|önértékelés]] és a mért teljesítmény között, és a vizsgált oktatók jelentősen túlbecsülték a kompetenciájukat ([[ai-literacy-assessment-misalignment|MI-írástudás-értékelés: önbevallás kontra teljesítmény-eltérés]]). Minden önbevalláshoz párosítson feladatot: találjon meg egy hibát egy kimenetben, ellenőrizzen egy forrást, válasszon használati stratégiát, vegyen észre elfogultságot vagy hízelgést, javítson egy hibás választ, kalibrálja a magabiztosságot a pontossághoz. Egy ilyen tétel a kérdőívben véleményből eredményt csinál.
 
 ### „Egy szimulált diák olcsó helyettesítője a valódinak.”
 
-A szimuláció hasznos prototípuskészítéshez, terheléses teszteléshez és forgatókönyvek generálásához, és addig nem bizonyíték az emberi tanulásról, amíg emberekhez mérten nem validálták. Egy modell utánozhatja a zavar nyelvét a tanuló kitartása, motivációja, előzetes tudása, érzelmei vagy fejlődési pályája nélkül, és a wikiben összefoglalt kutatás azt találta, hogy a szimulált diákok minimális korrekció után elhagyták a nekik adott tévképzetet, ami kétségessé teszi, hogy egyáltalán fogalmi változást képviselnek ([[simulating-students|diákok szimulálása]], [[llm-student-simulation-misconception-faithfulness|Diákok szimulálása vagy hízelgő problémamegoldás?]]). Arra használja őket, hogy megtalálja a promptja hibáit, mielőtt valódi diákok találkoznak vele, utána pedig minden tanulókra vonatkozó állítást validálatlannak tekintsen.
+A szimuláció hasznos prototípuskészítéshez, terheléses teszteléshez és forgatókönyvek generálásához, és addig nem bizonyíték az emberi tanulásról, amíg emberekhez mérten nem validálták. Egy modell utánozhatja a zavar nyelvét a tanuló kitartása, motivációja, előzetes tudása, érzelmei vagy fejlődési pályája nélkül, és a szimulált diákokról szóló kutatás azt találta, hogy minimális korrekció után elhagyták a nekik adott tévképzetet, ami kétségessé teszi, hogy egyáltalán fogalmi változást képviselnek ([[simulating-students|diákok szimulálása]], [[llm-student-simulation-misconception-faithfulness|Diákok szimulálása vagy hízelgő problémamegoldás?]]). Arra használja őket, hogy megtalálja a promptja hibáit, mielőtt valódi diákok találkoznak vele, utána pedig minden tanulókra vonatkozó állítást validálatlannak tekintsen.
 
 ## A tanulást hordozó lépésnél állítsa be a MI-feltételt
 
@@ -140,7 +140,7 @@ A megbízhatóság következetesség, az érvényesség az, hogy a pontszám ér
 
 ### „Egy jól viselkedő beszélgetés bizonyítja, hogy a tutor biztonságos.”
 
-Az oktatási károk egy interakció során halmozódnak. Egy rendszer egy promptra megfelelően válaszolhat, majd fordulatokon át elkezdhet válaszokat adni, megerősíthet egy tévképzetet, függőséget bátoríthat, vagy kicsúszhat a tutori szerepéből. A wikiben összefoglalt SafeTutors benchmark azt találta, hogy a pedagógiai károkozási hibák meredeken emelkednek, amikor a rendszereket több fordulón át értékelik egyetlen eszmecsere helyett ([[hazra-safetutors-pedagogical-safety-2026|MI-tutorok biztonsága és pedagógiai károk]]). Követeljen fenntartott beszélgetéseket, ismétlődő diákhibákat, közvetlen választ kérő kísérleteket, érzelmi és kapcsolati forgatókönyveket, támadó promptolást és a függőség időbeli mérését. Az ilyen benchmark-bizonyíték nem tantermi tanulási becslés, és ez a minimum, amelyen egy biztonsági állításnak nyugodnia kell.
+Az oktatási károk egy interakció során halmozódnak. Egy rendszer egy promptra megfelelően válaszolhat, majd fordulatokon át elkezdhet válaszokat adni, megerősíthet egy tévképzetet, függőséget bátoríthat, vagy kicsúszhat a tutori szerepéből. A SafeTutors benchmark azt találta, hogy a pedagógiai károkozási hibák meredeken emelkednek, amikor a rendszereket több fordulón át értékelik egyetlen eszmecsere helyett ([[hazra-safetutors-pedagogical-safety-2026|MI-tutorok biztonsága és pedagógiai károk]]). Követeljen fenntartott beszélgetéseket, ismétlődő diákhibákat, közvetlen választ kérő kísérleteket, érzelmi és kapcsolati forgatókönyveket, támadó promptolást és a függőség időbeli mérését. Az ilyen benchmark-bizonyíték nem tantermi tanulási becslés, és ez a minimum, amelyen egy biztonsági állításnak nyugodnia kell.
 
 ### „Az emberi felülvizsgálat ideiglenes folt, amíg a modellek javulnak.”
 
@@ -172,7 +172,7 @@ Egy személy és egy eszköz együttes teljesítményét mutatja. A kompetencia 
 
 ### „A MI-írástudás azt jelenti, hogy tudok jó promptot írni.”
 
-A promptolás egy operatív készség. A tanár vagy a munkavállaló szempontjából számító hatókör szélesebb: mit tudnak és mit nem tudnak megbízhatóan az [[ai-technologies|MI-rendszerek]], hogyan kell értékelni a pontosságot és az elfogultságot, hogyan hat a MI az értékelés érvényességére, mikor válik a tehermentesítés kiszorítássá, milyen a magánéleti és akadálymentességi követelmény, hogyan illeszkedik a használat a tudományághoz, és mikor nem kell egyáltalán használni. A wiki szintézise azt találta, hogy a tanárok jelentősen túlbecsülték a MI-kompetenciájukat, amikor az önbevallást teljesítménymérőkkel hasonlították össze, és a kimutatott kompetencia sokkal jobban jelezte előre a tantermi integrációt, mint a magabiztosság ([[ai-literacy-assessment-misalignment|MI-írástudás-értékelés: önbevallás kontra teljesítmény-eltérés]]). A prompttechnikák ráadásul gyorsabban avulnak, mint az ítélőképesség. A [[prompt-engineering|promptmérnökséget]] készségként tanítsa, a [[teacher-ai-competency|tanári MI-kompetenciát]] pedig a tágabb készségként értékelje.
+A promptolás egy operatív készség. A tanár vagy a munkavállaló szempontjából számító hatókör szélesebb: mit tudnak és mit nem tudnak megbízhatóan az [[ai-technologies|MI-rendszerek]], hogyan kell értékelni a pontosságot és az elfogultságot, hogyan hat a MI az értékelés érvényességére, mikor válik a tehermentesítés kiszorítássá, milyen a magánéleti és akadálymentességi követelmény, hogyan illeszkedik a használat a tudományághoz, és mikor nem kell egyáltalán használni. A bizonyítékok szintézise azt találta, hogy a tanárok jelentősen túlbecsülték a MI-kompetenciájukat, amikor az önbevallást teljesítménymérőkkel hasonlították össze, és a kimutatott kompetencia sokkal jobban jelezte előre a tantermi integrációt, mint a magabiztosság ([[ai-literacy-assessment-misalignment|MI-írástudás-értékelés: önbevallás kontra teljesítmény-eltérés]]). A prompttechnikák ráadásul gyorsabban avulnak, mint az ítélőképesség. A [[prompt-engineering|promptmérnökséget]] készségként tanítsa, a [[teacher-ai-competency|tanári MI-kompetenciát]] pedig a tágabb készségként értékelje.
 
 ### „Az alapozó tudományági tudás elavult, mert a MI elő tudja keresni.”
 
@@ -196,11 +196,11 @@ Nyelvre válaszol, használja a beszélgetést, és néha megőriz információt
 
 ### „Egy jó promptnak a helyes választ kell eredményeznie.”
 
-A kimenet prompt-érzékeny és gyakran nem determinisztikus, ezért a megfogalmazás, a kontextus, a példák vagy a feltevések kis változásai jelentősen elmozdítják a választ, és az újrakérdezés nem ellenőrzés. Öt hasonló válasz osztozhat egyetlen téves premisszán. A produktív iteráció tisztázza a célt és a korlátokat, feltárja a feltevéseket, alternatívákat kér, bizonyítékhoz méri magát, és ellenőrzi, hogy a válasz túléli-e a probléma megváltoztatását. Ez készség, és egyenlőtlenül elosztott készség. Egy naiv diák bemutatója, aki csevegőbotot használt egy hazavihető vizsgakérdésen, „csiszolt, de pedagógiailag vékony” maradt a SOLO-taxonómia multistrukturális szintjén, és egy használható tanulási hurok eléréséhez nyolc forduló metaszintű beavatkozás kellett: a túlterhelés jelzése, egyszerűsítés kérése, a hatókör szűkítése. A szerzők ezt a képességet **MI-interakciós írástudásnak** nevezik, ami azt jelenti, hogy képes irányítani, értékelni és tanulni az iteratív interakcióból, és megjegyzik az esélyegyenlőségi élét: mivel az irányítatlan használat olyan interakciókezelési készséget ró ki, amely egyenlőtlenül oszlik el, a generatív MI „talán a már előnyben lévő diákoknak a leghasznosabb” ([[brunnstrom-ai-interaction-literacy-srl-2026|MI-interakciós írástudás]]). Az alatta lévő ön[[regulation|szabályozási]] követelményekhez lásd a [[developing-ai-tutor|hogyan fejlesszünk hatékony MI-tutort?]] oldalt.
+A kimenet prompt-érzékeny és gyakran nem determinisztikus, ezért a megfogalmazás, a kontextus, a példák vagy a feltevések kis változásai jelentősen elmozdítják a választ, és az újrakérdezés nem ellenőrzés. Öt hasonló válasz osztozhat egyetlen téves premisszán. A produktív iteráció tisztázza a célt és a korlátokat, feltárja a feltevéseket, alternatívákat kér, bizonyítékhoz méri magát, és ellenőrzi, hogy a válasz túléli-e a probléma megváltoztatását. Ez készség, és egyenlőtlenül elosztott készség. Egy naiv diák bemutatója, aki csevegőbotot használt egy hazavihető vizsgakérdésen, „csiszolt, de pedagógiailag vékony” maradt a SOLO-taxonómia multistrukturális szintjén, és egy használható tanulási hurok eléréséhez nyolc forduló metaszintű beavatkozás kellett: a túlterhelés jelzése, egyszerűsítés kérése, a hatókör szűkítése. A szerzők ezt a képességet **MI-interakciós írástudásnak** nevezik, ami azt jelenti, hogy képes irányítani, értékelni és tanulni az iteratív interakcióból, és megjegyzik az esélyegyenlőségi élét: mivel az irányítatlan használat olyan interakciókezelési készséget ró ki, amely egyenlőtlenül oszlik el, a generatív MI „talán a már előnyben lévő diákoknak a leghasznosabb” ([[brunnstrom-ai-interaction-literacy-srl-2026|MI-interakciós írástudás]]). Az alatta lévő [[regulation|önszabályozási]] követelményekhez lásd a [[developing-ai-tutor|hogyan fejlesszünk hatékony MI-tutort?]] oldalt.
 
 ### „A fiatalok már MI-írástudók, mert digitális bennszülöttek.”
 
-A digitális termékek ismerete nem a MI értékelésének képessége. Egy diák meg tud nyitni egy csevegőbotot, tud képet generálni és tud választ kérni úgy, hogy közben nem tud ellenőrizni egy állítást, felismerni kitalált bizonyítékot, észrevenni elfogultságot vagy hízelgést, megvédeni a személyes információt, eldönteni, mit ne delegáljon, vagy megmagyarázni, hogyan alakította a MI a munkát. A wiki olyan kutatást összegez, amelyben a mindennapi technológiával való magabiztosság nem vándorolt át az algoritmikus érvelésbe, a technológiai alkotásba vagy a MI kritikus értékelésébe ([[digital-literacy-illusion|a kompetencia illúziója]]). Az írástudást tanítják és bemutatják; az életkor és a használati gyakoriság nem adja azt.
+A digitális termékek ismerete nem a MI értékelésének képessége. Egy diák meg tud nyitni egy csevegőbotot, tud képet generálni és tud választ kérni úgy, hogy közben nem tud ellenőrizni egy állítást, felismerni kitalált bizonyítékot, észrevenni elfogultságot vagy hízelgést, megvédeni a személyes információt, eldönteni, mit ne delegáljon, vagy megmagyarázni, hogyan alakította a MI a munkát. A kutatás azt mutatja, hogy a mindennapi technológiával való magabiztosság nem vándorolt át az algoritmikus érvelésbe, a technológiai alkotásba vagy a MI kritikus értékelésébe ([[digital-literacy-illusion|a kompetencia illúziója]]). Az írástudást tanítják és bemutatják; az életkor és a használati gyakoriság nem adja azt.
 
 ### „A MI-t használó diákok lusták vagy tisztességtelenek.”
 
@@ -228,7 +228,7 @@ A feladatok automatizálása nem az oktatási funkció helyettesítése. A péld
 
 ## Amit az ezt irányítók elrontanak
 
-A fenti tévképzetek ahhoz a közönséghez tartoznak, akiknek az oldal szól. Ezek azokhoz tartoznak, akik a feljegyzést írják, és miattuk nem érnek célba a jó helyesbítések.
+Az első halmaz ahhoz a közönséghez tartozik, amelyet ezek a helyesbítések céloznak. Ezek azokhoz tartoznak, akik a feljegyzést írják, és miattuk nem érnek célba a jó helyesbítések.
 
 ### „Az adatvezérelt azt jelenti, hogy objektív.”
 
@@ -258,7 +258,7 @@ A megszégyenítés védekezést és titkolózást szül, és az olyan üzenetek
 
 A mechanika elég rövid ahhoz, hogy egy oktatói értekezleten használható legyen. Nevezze meg a hiedelmet, mondja meg, miért tűnik igaznak, utasítsa el egyértelműen, magyarázza el a hibát, adja meg a jobb modellt, és adjon át egy alkalmazást.
 
-A kidolgozott változat, amelyet az oldal bármely tételére adaptálhat:
+A kidolgozott változat, amelyet a listán szereplő bármely tévképzetre adaptálhat:
 
 > **Tévképzet:** „Egy jó MI-vel generált beadandó azt mutatja, hogy a diák tanult.”
 > **Cáfolat:** „Ez nem feltétlenül igaz. A produktum azt mutatja, amit a diák és a MI együtt hozott létre, de nem fedi fel, melyik érvelést a diák végezte el.”
@@ -313,6 +313,6 @@ A zavarás a tudományágon belül történik, annál a lépésnél, ahol az esz
 
 ## Hová tovább
 
-A [[misconceptions|tévképzetek a MI-ről]] az oldal mögötti szintézis, a [[refutation-text|cáfoló szöveg]] pedig a módszer, amellyel egy terem előtt használhatja. A [[reduce-ai-cheating|hogyan csökkentsük a MI-csalást?]] kezeli az integritási döntéseket, a [[redesign-assessment-ai-era|hogyan tervezzük újra az értékelést a MI korszakára?]] kezeli, mit támaszthat alá egy érdemjegy, az [[ai-ed-evaluation|MI-oktatás értékelése]] pedig útmutató egy pilot vagy egy platform megítéléséhez. A tanítás oldalán a [[teacher-ai-competency|tanári MI-kompetencia]] és az [[ai-literacy|MI-írástudás]] fedi le, mire kell a teremben lévőknek képesnek lenniük.
+A [[misconceptions|tévképzetek a MI-ről]] az e helyesbítések mögötti szintézis, a [[refutation-text|cáfoló szöveg]] pedig a módszer, amellyel egy terem előtt használhatja. A [[reduce-ai-cheating|hogyan csökkentsük a MI-csalást?]] kezeli az integritási döntéseket, a [[redesign-assessment-ai-era|hogyan tervezzük újra az értékelést a MI korszakára?]] kezeli, mit támaszthat alá egy érdemjegy, az [[ai-ed-evaluation|MI-oktatás értékelése]] pedig útmutató egy pilot vagy egy platform megítéléséhez. A tanítás oldalán a [[teacher-ai-competency|tanári MI-kompetencia]] és az [[ai-literacy|MI-írástudás]] fedi le, mire kell a teremben lévőknek képesnek lenniük.
 
 A megtartandó gondolat, olyan formában, ahogy hangosan ki lehet mondani: a MI esendő kognitív erőforrás, nem tekintély, nem elme, és nem bizonyíték arra, hogy a tanulás megtörtént. A felelős használat elszámoltathatóvá teszi az embert, megőrzi a tanuláshoz szükséges gondolkodást, ellenőrzi, ami számít, és a sikert tartós és méltányos képességgel méri, nem pedig gördülékenységgel, sebességgel, elköteleződéssel vagy egy befejezett feladattal.

@@ -8,9 +8,9 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:26:51-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -127,7 +127,7 @@ Zadajte kritiku modela kao disciplinarni rad. Dajte studentima interpretaciju pj
 
 ### Kolegiji STEM i laboratorijska izvješća
 
-Najprije jedna ograda: ova baza znanja ima mnogo jače dokaze o akademskom pisanju potpomognutom umjetnom inteligencijom općenito nego o pisanju laboratorijskih izvješća posebno. Praktična i laboratorijska [[pedagogy|pedagogija]] ostaju slabije pokrivene, uključujući literaturu o [[engineering-education|inženjerskom obrazovanju]], pa se ono što slijedi oslanja na nalaze o pisanju, rasterećenju, valjanosti i inženjerstvu u okruženju koje te studije nisu testirale.
+Najprije jedna ograda: dokazi su mnogo jači o akademskom pisanju potpomognutom umjetnom inteligencijom općenito nego o pisanju laboratorijskih izvješća posebno. Praktična i laboratorijska [[pedagogy|pedagogija]] ostaju slabije pokrivene, uključujući literaturu o [[engineering-education|inženjerskom obrazovanju]], pa se ono što slijedi oslanja na nalaze o pisanju, rasterećenju, valjanosti i inženjerstvu u okruženju koje te studije nisu testirale.
 
 Povucite granicu oko znanstvenog rezoniranja, a ne oko teksta u cjelini. Studenti ostaju odgovorni za opažanja, sirove podatke, izračune, nesigurnost, grafikone, analitičke izbore, rezultate i rezoniranje od dokaza do tvrdnje. Kad to postoji, umjetna inteligencija razumno može pomoći s organizacijom, čitljivošću, prijelazima i disciplinarnim konvencijama, što je ista podjela na površinu i rezoniranje kao u [[layer-sensitive-cognitive-offloading-writing-2026|Chenovoj studiji]].
 
@@ -157,7 +157,7 @@ Ta mješavina ima praktičnu posljedicu. Promijenite jedan zadatak, sačuvajte m
 
 ## Što nastavnici pogrešno shvaćaju u vezi s ovim
 
-**Detektor će utvrditi je li tekst studentov.** Neće. U prikrivenoj terenskoj studiji 94% prijava na ispitu koje je generirala umjetna inteligencija prošlo je neotkriveno i dobilo bolje ocjene od stvarnih studenata, a kontrolirana studija našla je da detektori označavaju dopušteno lagano uređivanje uz pomoć umjetne inteligencije u 38-80% slučajeva, dok propuštaju više od 96% humaniziranih prepisa ([[teichmann-detecting-undetectable-misconduct-2026]]; [[karr-ai-detection-humanization-2026]]). Detekcija odgovara na detekcijsko pitanje, a [[assessment-validity|valjanost]] je drugo pitanje.
+**Detektor će utvrditi je li tekst studentov.** Neće. U prikrivenoj terenskoj studiji 94% prijava na ispitu koje je generirala umjetna inteligencija prošlo je neotkriveno i dobilo bolje ocjene od stvarnih studenata, a kontrolirana studija našla je da detektori označavaju dopušteno lagano uređivanje uz pomoć umjetne inteligencije u 38-80% slučajeva, dok propuštaju više od 96% humaniziranih prepisa ([[teichmann-detecting-undetectable-misconduct-2026|Teichmann, 2026]]; [[karr-ai-detection-humanization-2026|Karr i sur., 2026]]). Detekcija odgovara na detekcijsko pitanje, a [[assessment-validity|valjanost]] je drugo pitanje.
 
 **Politika na razini kolegija jasnija je od pravila po zadatku.** Nashove i Burrissove politike bile su dokumenti na razini kolegija, a 22 od 27 dopuštale su brainstorming, 22 su ograničavale ili zamućivale sastavljanje, a 22 su šutjele o čitanju. Jedan dokument koji pokriva sve obično je konkretan za korak koji nastavnika brine, a neodređen za ostalo.
 
@@ -169,7 +169,7 @@ Ta mješavina ima praktičnu posljedicu. Promijenite jedan zadatak, sačuvajte m
 
 ## Što će vam se vratiti
 
-**„Nemam vremena čitati još jedan materijal.“** Onda materijal učinite malim: četiri stupca tablice odluka ili pet minuta pisanja u nastavi kao samostalni uzorak. Korpus ne izvješćuje o podacima o vremenu ocjenjivanja za te dizajne, pa se argument opterećenja mora testirati na jednom zadatku, a ne pretpostaviti iz ove stranice.
+**„Nemam vremena čitati još jedan materijal.“** Onda materijal učinite malim: četiri stupca tablice odluka ili pet minuta pisanja u nastavi kao samostalni uzorak. Nijedna studija ne izvješćuje o podacima o vremenu ocjenjivanja za te dizajne, pa se argument opterećenja mora testirati na jednom zadatku, a ne pretpostaviti iz ove stranice.
 
 **„Moji studenti će rabiti umjetnu inteligenciju što god pravilo kaže.“** Hoće, a dizajnersko je pitanje koji odgovor vaš zadatak čini najlakšim. Izjava koja ne košta ništa i rubrika koja plaća proces čine prijavu jeftinijim putem. Taj mehanizam dolazi iz modeliranja, a ne iz ispitivanja politike prijave, pa predviđanje tretirajte kao razumno i nepotvrđeno.
 
@@ -179,7 +179,7 @@ Ta mješavina ima praktičnu posljedicu. Promijenite jedan zadatak, sačuvajte m
 
 **„Model ocjenjuje ovaj zadatak jednako dobro kao ja.“** Kalibrirani sustavi s detaljnim rubrikama i riješenim primjerima mogu dobro ocijeniti određene zadatke. Generičko ocjenjivanje ne može, a Mathew i sur. pokazuju da nesuglasnost slijedi kvalitetu eseja, a ne rasipa se slučajno, što je teža vrsta pogreške za primijetiti. Testirajte alat na vlastitom označenom skupu prije nego dotakne ocjenu.
 
-**„Ovo kažnjava studente čiji je akademski engleski slabiji.“** Može, ako pravilo tretira izražavanje i autorstvo kao jedno. Razdvojite ih i provjerite povratne informacije umjetne inteligencije na obrazac koji su našli Tan i sur., gdje je isti tekst dobio više pohvala i manje suštinske kritike kad su demografski ili obrazovni podaci bili u poticaju. Korpus dokumentira tu pristranost. Ne izvješćuje o testiranom rješenju, pa je vaša vlastita usporedba provjera.
+**„Ovo kažnjava studente čiji je akademski engleski slabiji.“** Može, ako pravilo tretira izražavanje i autorstvo kao jedno. Razdvojite ih i provjerite povratne informacije umjetne inteligencije na obrazac koji su našli Tan i sur., gdje je isti tekst dobio više pohvala i manje suštinske kritike kad su demografski ili obrazovni podaci bili u poticaju. Ta je pristranost dokumentirana. Nije izvješćeno o testiranom rješenju, pa je vaša vlastita usporedba provjera.
 
 ## Što učiniti ovaj tjedan
 

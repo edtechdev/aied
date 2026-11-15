@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-10-29T14:13:23-04:00"
+updated: "2026-11-15T16:23:35-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-10-28T10:45:41-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -86,7 +86,7 @@ Tarkoitus merkitsee yhtä paljon kuin mekaniikka. [[ai-agents-joyful-assessment-
 
 **”Akkreditointi ja ohjelman hyväksyntä eivät liiku niin nopeasti.”** Yllä oleva tutkimus nimeää pitkät läpimenoajat ja suurten kohorttien akkreditointirajoitteet keskeiseksi kitkaksi. Yksi kurssi voi muuttaa sitä, mitä olemassa olevan arvioinnin sisällä tapahtuu, muuttamatta sen nimeä, painoarvoa tai oppimistavoitteita, ja se riittää yleensä alkuun.
 
-**”Tämä rankaisee ahdistuneita opiskelijoita ja vammaisia opiskelijoita.”** Voi rankaista. Suulliset osat vaativat etukäteen suunnitellut mukautukset, muotovaihtoehdon silloin kun konstrukti sen sallii, ja huomiota kielelliselle erolle ja arvioijan vinoumalle. Varmista osaaminen, älä suorituksen olosuhteita.
+**”Tämä rankaisee ahdistuneita opiskelijoita ja [[inclusive-learning|vammaisia opiskelijoita]].”** Voi rankaista. Suulliset osat vaativat etukäteen suunnitellut mukautukset, muotovaihtoehdon silloin kun konstrukti sen sallii, ja huomiota kielelliselle erolle ja arvioijan vinoumalle. Varmista osaaminen, älä suorituksen olosuhteita.
 
 **”Meidän pitäisi vain ostaa ilmaisin.”** Erottelukykyä koskeva tulos puhuu sitä vastaan suunnittelun selkärankana: jos vääriä hälytyksiä tulee nopeammin kuin oikeita osumia, vahvempi valvonta tekee salaamisesta suhteellisesti houkuttavampaa. Ilmaisimella voi olla paikkansa vastauksessa, joka myös suunnittelee tehtävän uudelleen, ja [[should-we-use-ai-detectors|Pitäisikö meidän käyttää tekoälyilmaisimia]] kattaa sen argumentin.
 

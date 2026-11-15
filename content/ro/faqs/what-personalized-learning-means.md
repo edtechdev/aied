@@ -1,7 +1,7 @@
 ---
 title: "Ce înseamnă de fapt învățarea personalizată și când ajută?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:17:19-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
@@ -28,7 +28,7 @@ ai_assist:
 
 Platforma promite o experiență personalizată pentru fiecare student. Poate reordona întrebările de practică, poate rescrie o explicație în jurul interesului unui student pentru fotbal, poate ține minte conversația de săptămâna trecută sau poate alege ce studiază studentul în continuare. Toate patru se numesc personalizare și doar una dintre ele a fost testată într-o formă cât de cât asemănătoare.
 
-Răspunsul scurt pe care să îl dai unui coleg: personalizarea numește o schimbare a unei părți a experienței de învățare, iar valoarea ei depinde de trei lucruri: ce este adaptat, ce dovezi declanșează adaptarea și dacă schimbarea îmbunătățește învățarea pe care o intenționezi. Un exemplu familiar sau o conversație receptivă pot părea personale fără să predea nimic. O adaptare eficace poate fi invizibilă. Cel mai clar rezultat experimental din această bază de cunoștințe este îngust: într-un curs de certificare Python de cinci luni în zece licee din Taipei, studenții randomizați la secvențiere adaptivă a problemelor au obținut cu aproximativ 0,150 deviații standard mai mult la un [[summative-assessment|examen final]] susținut față în față, fără asistență, decât studenții cu o secvență fixă și cu acces identic la [[conversational-ai|chatbot]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). Asta susține secvențierea în condiții specificate. Nu validează tot ce se vinde ca personalizat.
+Răspunsul scurt pe care să îl dai unui coleg: personalizarea numește o schimbare a unei părți a experienței de învățare, iar valoarea ei depinde de trei lucruri: ce este adaptat, ce dovezi declanșează adaptarea și dacă schimbarea îmbunătățește învățarea pe care o intenționezi. Un exemplu familiar sau o conversație receptivă pot părea personale fără să predea nimic. O adaptare eficace poate fi invizibilă. Cel mai clar rezultat experimental din această literatură este îngust: într-un curs de certificare Python de cinci luni în zece licee din Taipei, studenții randomizați la secvențiere adaptivă a problemelor au obținut cu aproximativ 0,150 deviații standard mai mult la un [[summative-assessment|examen final]] susținut față în față, fără asistență, decât studenții cu o secvență fixă și cu acces identic la [[conversational-ai|chatbot]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). Asta susține secvențierea în condiții specificate. Nu validează tot ce se vinde ca personalizat.
 
 ## Pe scurt
 

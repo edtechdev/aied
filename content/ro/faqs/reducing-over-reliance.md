@@ -11,9 +11,9 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
-updated: "2026-10-29T15:41:27-04:00"
+updated: "2026-11-15T16:22:37-05:00"
 translation_of: faqs/reducing-over-reliance
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ Concluzia: supra-dependența este în mare măsură o problemă de plasare. Mode
 
 **5.** Potrivește momentul promptului de reflecție cu faza sarcinii pe care o mai poate schimba.
 
-**6.** Uită-te la cine rămâne în urmă din cauza designului tău, după cunoștințele prealabile, nu după medie.
+**6.** Uită-te la cine rămâne în urmă din cauza designului tău, după [[prior-knowledge|cunoștințele prealabile]], nu după medie.
 
 ## Decide dacă ai o problemă sau doar o folosire intensă
 
@@ -59,7 +59,7 @@ Instrumentele comportamentale sunt mai subțiri. [[pause-ai-cognitive-offloading
 
 ## Pune încercarea studentului în fața instrumentului
 
-Secvența testată cel mai clar este „gândește întâi, ChatGPT după”. [[think-first-chatgpt-later-2026|Wong și Qiu (2026)]] au repartizat N = 196 de studenți să lucreze independent, să folosească liber ChatGPT sau să lucreze într-o condiție reglementată: generează-ți propriile idei, colaborează cu ChatGPT ca să le îmbunătățești și să le evaluezi, apoi rafinează independent și predă o singură soluție. Grupul cu folosire liberă a produs mai multă muncă creativă la sarcina asistată și a revenit la niveluri pur umane la o sarcină ulterioară, mai grea, făcută fără ChatGPT. Grupul reglementat nu a arătat niciun avantaj imediat și a depășit celelalte două grupuri la creativitatea independentă de după.
+Secvența testată cel mai clar este „gândește întâi, [[generative-ai|ChatGPT]] după”. [[think-first-chatgpt-later-2026|Wong și Qiu (2026)]] au repartizat N = 196 de studenți să lucreze independent, să folosească liber ChatGPT sau să lucreze într-o condiție reglementată: generează-ți propriile idei, colaborează cu ChatGPT ca să le îmbunătățești și să le evaluezi, apoi rafinează independent și predă o singură soluție. Grupul cu folosire liberă a produs mai multă muncă creativă la sarcina asistată și a revenit la niveluri pur umane la o sarcină ulterioară, mai grea, făcută fără ChatGPT. Grupul reglementat nu a arătat niciun avantaj imediat și a depășit celelalte două grupuri la [[creativity|creativitatea]] independentă de după.
 
 Datele despre prompturi explică diferența. În grupul reglementat, 88,6% dintre prompturi au fost colaborative, iar acesta a fost singurul tip de prompt corelat semnificativ cu originalitatea independentă ulterioară. În grupul cu folosire liberă, 70,9% dintre prompturi au fost necolaborative, iar 59,6% cereau pur și simplu lui ChatGPT să genereze idei direct. Același instrument, întrebat în două feluri, a produs doi învățăcei diferiți.
 
@@ -75,7 +75,7 @@ Două detalii de sală decid dacă secvența rezistă. Primul este timpul. Dacă
 
 În practică, asta înseamnă IA îngrădită la mijlocul sarcinii, unde indiciile, exemplele lucrate și itemii de exersare își fac treaba, și o verificare securizată la final. Transformă de asemenea o politică de folosire a IA într-o regulă de plasare pe fiecare deprindere, care este mai ușor de scris și mai ușor de apărat decât o listă de interdicții.
 
-Un indiciu este o întrebare despre pasul următor al studentului, un exemplu lucrat pentru o problemă similară sau o trimitere la pasajul relevant. Un răspuns este o frază terminată pe care studentul o poate lipi. Majoritatea chatboturilor de uz general produc al doilea lucru în mod implicit, în proză fluentă care arată ca ajutor, de aceea configurarea contează mai mult decât intențiile studentului.
+Un indiciu este o întrebare despre pasul următor al studentului, un exemplu lucrat pentru o problemă similară sau o trimitere la pasajul relevant. Un răspuns este o frază terminată pe care studentul o poate lipi. Majoritatea [[conversational-ai|chatboturilor]] de uz general produc al doilea lucru în mod implicit, în proză fluentă care arată ca ajutor, de aceea configurarea contează mai mult decât intențiile studentului.
 
 ## Cere verificarea și fă-o vizibilă
 
@@ -97,7 +97,7 @@ Alege un eșec modest și verificabil, cum ar fi o citare care nu există, o dat
 
 Produsul asistat este un proxy slab pentru capacitate, așa că cel puțin un moment notat trebuie să se petreacă fără instrument. Sarcina ulterioară neasistată a lui [[think-first-chatgpt-later-2026|Wong și Qiu (2026)]] este acea măsurătoare. Grupul lor pur uman a scăzut și el la continuarea mai grea, ceea ce exclude versiunea simplă a soluției: scoaterea instrumentului fără sprijinirea învățăcelului nu este o intervenție.
 
-Alternarea modurilor are sprijin. PAUSE raportează rezultatul sesiunii a patra al lui Kosmyna et al. (2025), unde participanții care lucraseră fără niciun ajutor și au folosit ulterior ChatGPT au depășit utilizatorii susținuți de LLM. Responsabilizarea funcționează și prin explicare: Makransky et al. (2025) au constatat că un chatbot de tutorat care îi îndemna pe studenți să lege ideile și să își explice raționamentul a produs performanțe mai bune la evaluare decât instruirea tradițională.
+Alternarea modurilor are sprijin. PAUSE raportează rezultatul sesiunii a patra al lui Kosmyna et al. (2025), unde participanții care lucraseră fără niciun ajutor și au folosit ulterior ChatGPT au depășit utilizatorii susținuți de [[llm|LLM]]. Responsabilizarea funcționează și prin explicare: Makransky et al. (2025) au constatat că un chatbot de tutorat care îi îndemna pe studenți să lege ideile și să își explice raționamentul a produs performanțe mai bune la evaluare decât instruirea tradițională.
 
 Pentru un curs, alternează: muncă asistată la exersare, muncă neasistată acolo unde contează. Citește partea asistată ca o înregistrare a performanței în condiții bune, iar partea neasistată ca dovada despre învățare. Compararea lor este și cea mai utilă conversație pe care o poți avea cu un student care nu își înțelege nota.
 
@@ -127,7 +127,7 @@ Formularea promptului contează mai puțin decât poziția lui. Înainte de o un
 
 ## Așteaptă-te ca riscul să se grupeze
 
-[[lodge-loble-cognitive-offloading-2026|Lodge și Loble (2026)]] localizează riscul în cunoștințele prealabile și în autoreglare și numesc un **decalaj metacognitiv de echitate**: folosirea bună a IA cere resurse pe care începătorii nu le au, așa că studenții care au cea mai mare nevoie de exersare sunt cei mai susceptibili să delege învățarea însăși. Ei raportează că 80% dintre studenții australieni folosesc deja IA și că două treimi dintre profesorii din primele clase de gimnaziu o fac (OECD 2025).
+[[lodge-loble-cognitive-offloading-2026|Lodge și Loble (2026)]] localizează riscul în cunoștințele prealabile și în autoreglare și numesc un **decalaj metacognitiv de [[equity-in-ai-education|echitate]]**: folosirea bună a IA cere resurse pe care începătorii nu le au, așa că studenții care au cea mai mare nevoie de exersare sunt cei mai susceptibili să delege învățarea însăși. Ei raportează că 80% dintre studenții australieni folosesc deja IA și că două treimi dintre profesorii din primele clase de gimnaziu o fac (OECD 2025).
 
 Vârsta și obiceiul corelează cu același tipar. [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] a constatat că participanții de 17-25 de ani arătau dependență de IA și descărcare mai mari și gândire critică mai slabă decât cei de 46 de ani și peste, și că nivelul de studii prezicea o gândire critică mai bună indiferent de folosirea IA (r = +0,34), cu o interacțiune semnificativă care indică faptul că nivelul de studii atenuează efectul negativ. [[genai-over-reliance-learning-2026|Gao, Sun și Khan (2026)]] au constatat că policronicitatea, tendința de a face mai multe lucruri deodată, moderează calea, studenții cu policronicitate ridicată fiind la risc mai mare.
 
@@ -139,27 +139,27 @@ Contextul contează tot atât cât persoana, iar cursul tău controlează o part
 
 Nimic din acest corpus nu testează dacă o anumită intervenție împotriva supra-dependenței rezistă în alte contexte sau semestre. Gândește-întâi se sprijină pe un singur experiment cu N = 196. Rezultatul despre reținerea răspunsurilor vine din sinteza lui [[brcic-effortless-trap-productive-struggle-2026|Brcic și Frljic (2026)]], nu dintr-un studiu propriu. Argumentul frecării este un comentariu conceptual fără date noi. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] își declară limitele modelului: calitate a IA exogenă și staționară, o rețea fixă, verificare stilizată. Estimarea valorilor reale ar cere urme longitudinale ale ratelor de verificare pe sarcină, ale tăriei dovezii sociale și ale modului în care se actualizează încrederea după folosire verificată față de cea neverificată.
 
-Măsurarea rămâne veriga slabă. Modelele de sondaj domină, iar atât [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] cât și [[genai-over-reliance-learning-2026|Gao, Sun și Khan (2026)]] cer continuări longitudinale și experimentale. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] nu are psihometrie și a fost construit pentru adulți. Dacă decalajul de echitate poate fi închis prin instruire este teoretizat, nu demonstrat.
+Măsurarea rămâne veriga slabă. Modelele de sondaj domină, iar atât [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] cât și [[genai-over-reliance-learning-2026|Gao, Sun și Khan (2026)]] cer continuări longitudinale și experimentale. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] nu are [[educational-measurement|psihometrie]] și a fost construit pentru adulți. Dacă decalajul de echitate poate fi închis prin instruire este teoretizat, nu demonstrat.
 
 Rămâi deci cu un pariu rezonabil, făcut ieftin. Schimbă o temă, păstrează măsura neasistată și verifică dacă se îngustează diferența dintre munca asistată și cea neasistată. Nu reconstrui un curs pe tăria acestor numere.
 
 ## Ce greșesc cadrele didactice aici
 
-**Studenții care o folosesc cel mai mult sunt cei cu probleme.** Frecvența este ce captează sondajele și ce afișează tablourile de bord, și nu este constructul. Un student care verifică fiecare răspuns și citează materialele tale poate folosi IA zilnic și să fie bine. Un student care predă primul rezultat o dată pe săptămână are problema.
+**Studenții care o folosesc cel mai mult sunt cei cu probleme.** Frecvența este ce captează sondajele și ce afișează [[visualization|tablourile de bord]], și nu este constructul. Un student care verifică fiecare răspuns și citează materialele tale poate folosi IA zilnic și să fie bine. Un student care predă primul rezultat o dată pe săptămână are problema.
 
 **O interdicție înlătură riscul.** Cele mai puternice rezultate de aici vin din plasare, iar brațul pur uman din experimentul lui Wong și Qiu a scăzut și el la continuarea mai grea. Scoaterea instrumentului fără sprijinirea învățăcelului lasă dificultatea acolo unde era.
 
-**O verificare mai ieftină va rezolva problema verificării.** A face verificarea mai ușoară a fost cea mai slabă pârghie în modelul lui Biswas, pentru că obstacolul este social. Un detector de plagiat mai bun nu face un student să citească sursa.
+**O verificare mai ieftină va rezolva problema verificării.** A face verificarea mai ușoară a fost cea mai slabă pârghie în modelul lui Biswas, pentru că obstacolul este social. Un verificator de [[academic-integrity|plagiat]] mai bun nu face un student să citească sursa.
 
 **Un tablou de bord de utilizare îmi spune cine descarcă.** Itemii PAUSE înregistrează când și cât de des intră IA într-un flux de lucru, iar autorii semnalează ei înșiși problema de validitate. Un învățăcel care își construiește cu grijă sprijinul de tip schelă iese ca unul care descarcă, așa că a acționa pe baza acelor numere îi pedepsește pe studenții pe care vrei să îi păstrezi.
 
 **Fluența și satisfacția arată că designul funcționează.** Aceasta este iluzia pe care [[lodge-loble-cognitive-offloading-2026|Lodge și Loble (2026)]] o descriu în paradoxul lor de performanță: munca pare fluentă, iar studenții performează bine în momentul respectiv reținând mai puțin. Performanța neasistată și [[transfer-of-learning|transferul]] întârziat sunt măsurile care răspund la întrebare.
 
-**Predă-le studenților alfabetizare în IA și problema dispare.** [[lodge-loble-cognitive-offloading-2026|Lodge și Loble (2026)]] avertizează că supra-investiția în alfabetizarea în IA orientată spre studenți poate fi alocarea greșită, date fiind lipsurile începătorilor.
+**Predă-le studenților [[ai-literacy|alfabetizare în IA]] și problema dispare.** [[lodge-loble-cognitive-offloading-2026|Lodge și Loble (2026)]] avertizează că supra-investiția în alfabetizarea în IA orientată spre studenți poate fi alocarea greșită, date fiind lipsurile începătorilor.
 
 ## Ce se va întoarce împotriva ta
 
-**„Asta e doar pedagogie bună cu un nume nou.”** Parțial. Sprijinul de tip schelă, feedbackul formativ și eșecul productiv sunt idei vechi. Ce este mai nou este ordinea: verificarea vizibilă a învins verificarea mai ieftină, iar cele două momente care merită protejate sunt prima încercare grea și verificarea finală neasistată. Fă lucrurile familiare în ordinea nouă.
+**„Asta e doar [[pedagogy|pedagogie]] bună cu un nume nou.”** Parțial. [[scaffolding|Sprijinul de tip schelă]], feedbackul formativ și eșecul productiv sunt idei vechi. Ce este mai nou este ordinea: verificarea vizibilă a învins verificarea mai ieftină, iar cele două momente care merită protejate sunt prima încercare grea și verificarea finală neasistată. Fă lucrurile familiare în ordinea nouă.
 
 **„Nu pot să îi supraveghez.”** Nu poți, iar dovezile spun să nu încerci. Plasarea a produs cel mai puternic rezultat. Proiectează sarcina astfel încât folosirea instrumentului în momentul greșit să apară în munca însăși, ca un răspuns pe care studentul nu îl poate explica sau ca un pas de verificare care lipsește.
 

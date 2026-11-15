@@ -3,10 +3,11 @@ title: "Nitabuni Upya Tathmini Vipi Ili Alama Bado Iniambie Kitu Kinachoweza Kut
 created: "2026-10-13T05:34:00-04:00"
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
+audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-10-28T10:45:41-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -18,6 +19,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+updated: "2026-11-15T16:26:08-05:00"
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -40,7 +42,7 @@ Jibu fupi: amua alama inakusudiwa kuwa ushahidi **wa** nini, weka angalau hatua 
 
 ## Amua alama ni ushahidi wa nini
 
-Anza kwa kusema waziwazi ni uwezo upi ambao alama inapaswa kuwakilisha. Unapima kile mwanafunzi anaweza kufanya kwa kujitegemea, kile anaweza kukamilisha ipasavyo akiwa na AI, uwezo wake wa kutathmini na kuelekeza AI, au mchanganyiko wa hivi? [[assessment-validity|Uhalali wa Tathmini]] katika hifadhi ya maarifa huchukulia hili kama tatizo la uhalali: bidhaa iliyosuguliwa haitoshi tena kuwa ushahidi kwamba mwanafunzi ana uwezo unaoonekana kuonyeshwa na bidhaa hiyo. Hii ni nusu ya upande wa tathmini wa hoja hiyo hiyo; nusu ya upande wa utekelezaji iko katika [[reduce-ai-cheating]], na mfumo wa jumla wa uhalali unapita katika [[evaluating-ai-interventions-methods]].
+Anza kwa kusema waziwazi ni uwezo upi ambao alama inapaswa kuwakilisha. Unapima kile mwanafunzi anaweza kufanya kwa kujitegemea, kile anaweza kukamilisha ipasavyo akiwa na AI, uwezo wake wa kutathmini na kuelekeza AI, au mchanganyiko wa hivi? [[assessment-validity|Uhalali wa tathmini]] huchukulia hili kama tatizo la uhalali: bidhaa iliyosuguliwa haitoshi tena kuwa ushahidi kwamba mwanafunzi ana uwezo unaoonekana kuonyeshwa na bidhaa hiyo. Hii ni nusu ya upande wa tathmini wa hoja hiyo hiyo; nusu ya upande wa utekelezaji iko katika [[reduce-ai-cheating]], na mfumo wa jumla wa uhalali unapita katika [[evaluating-ai-interventions-methods]].
 
 Sema jibu katika mtaala, katika karatasi ya kazi, na katika rubriki. Wanafunzi husoma hati tatu na hufuata ile iliyo mahususi zaidi. "Matumizi ya AI yanaruhusiwa kwa kutaja" si tamko la kile unachopima, na haimpi mwanafunzi njia ya kujua kama matumizi yanayoruhusiwa yanadhoofisha kitu unachokagua.
 
@@ -88,7 +90,7 @@ Lengo ni muhimu kama vile utaratibu. [[ai-agents-joyful-assessment-third-space-2
 
 **"Idhini na uidhinishaji wa programu hautakwenda haraka hivyo."** Utafiti hapo juu unataja muda mrefu wa maandalizi na vikwazo vya idhini kwa makundi makubwa kama msuguano mkuu. Kozi moja inaweza kubadilisha kinachotokea ndani ya tathmini iliyopo bila kubadilisha jina lake, uzito wake, au matokeo yake ya kujifunza, na kwa kawaida hiyo inatosha kuanza.
 
-**"Hii inawaadhibu wanafunzi wenye wasiwasi na wanafunzi wenye ulemavu."** Inaweza. Vipengele vya mdomo vya moja kwa moja vinahitaji marekebisho yaliyopangwa mapema, uchaguzi wa muundo pale dhana inaporuhusu, na umakini kwa tofauti za lugha na upendeleo wa mkaguzi. Thibitisha uwezo, si masharti ya utendaji.
+**"Hii inawaadhibu wanafunzi wenye wasiwasi na [[inclusive-learning|wanafunzi wenye ulemavu]]."** Inaweza. Vipengele vya mdomo vya moja kwa moja vinahitaji marekebisho yaliyopangwa mapema, uchaguzi wa muundo pale dhana inaporuhusu, na umakini kwa tofauti za lugha na upendeleo wa mkaguzi. Thibitisha uwezo, si masharti ya utendaji.
 
 **"Tunapaswa kununua kigunduzi tu."** Tokeo la utofautishaji linapinga hilo kama uti wa mgongo wa ubuni: ikiwa matokeo ya uongo yanapanda kwa kasi zaidi kuliko ya kweli, ufuatiliaji mkali zaidi hufanya kuficha kuwe kuvutia zaidi kwa uwiano. Ugunduzi unaweza kuwa na nafasi katika jibu linalobuni kazi upya pia, na [[should-we-use-ai-detectors]] inashughulikia hoja hiyo.
 
@@ -108,4 +110,4 @@ Lengo ni muhimu kama vile utaratibu. [[ai-agents-joyful-assessment-third-space-2
 
 ## Wapi pa kwenda baadaye
 
-Hoja ya uhalali iliyo nyuma ya ukurasa mzima iko katika [[assessment-validity]]; mwenzake wa upande wa utekelezaji ni [[reduce-ai-cheating]], huku [[course-ai-policy]] ikiwa kando yake. [[writing-instruction-ai-best-practices]] inashughulikia maneno ambayo wanafunzi hufuata kwa kweli, na [[evaluating-ai-interventions-methods]] inashughulikia kama chombo unachoubuni kuzunguka kinafanya kazi hata kidogo.
+Hoja ya uhalali iliyo nyuma ya ukurasa mzima iko katika [[assessment-validity|uhalali wa tathmini]]; mwenzake wa upande wa utekelezaji ni [[reduce-ai-cheating]], huku [[course-ai-policy]] ikiwa kando yake. [[writing-instruction-ai-best-practices]] inashughulikia maneno ambayo wanafunzi hufuata kwa kweli, na [[evaluating-ai-interventions-methods]] inashughulikia kama chombo unachoubuni kuzunguka kinafanya kazi hata kidogo.

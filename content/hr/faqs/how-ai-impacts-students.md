@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
-updated: "2026-10-29T14:24:49-04:00"
+updated: "2026-11-15T16:19:32-05:00"
 translation_of: faqs/how-ai-impacts-students
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
 
-Umjetnu inteligenciju upotrebljavate za kolegijske obveze i dobro vam ide, osim što je ispit bez literature izgledao kao čitanje tuđih bilježaka. Ili prijatelj kaže da nije napisao ništa i ipak dobio peticu, a vi se pitate što to znači za vas. Ili ste počeli chatbotu postavljati više pitanja nego svojem nastavniku.
+Umjetnu inteligenciju upotrebljavate za kolegijske obveze i dobro vam ide, osim što je [[summative-assessment|ispit bez literature]] izgledao kao čitanje tuđih bilježaka. Ili prijatelj kaže da nije napisao ništa i ipak dobio peticu, a vi se pitate što to znači za vas. Ili ste počeli chatbotu postavljati više pitanja nego svojem nastavniku.
 
 Kratak odgovor, u obliku koji možete ponoviti prijatelju: umjetna inteligencija korisna je tamo gdje trebate povratnu informaciju, a nekorisna tamo gdje trebate vježbu. Zadržite korak mišljenja za sebe, provjerite se bez alata prije predaje i budite iskreni o tome što ste upotrijebili. Ostatak ove stranice objašnjava zašto to vrijedi i kako to izgleda jedne večeri.
 

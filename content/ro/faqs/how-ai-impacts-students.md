@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
-updated: "2026-10-29T15:41:26-04:00"
+updated: "2026-11-15T16:18:40-05:00"
 translation_of: faqs/how-ai-impacts-students
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
 
-Folosești IA pentru lucrările de la facultate și te descurci, doar că examenul cu carte închisă a semănat cu citirea notițelor altcuiva. Sau un prieten spune că nu a scris nimic și a luat totuși nota maximă, iar tu te întrebi ce înseamnă asta pentru tine. Sau ai început să pui unui chatbot mai multe întrebări decât îi pui instructorului.
+Folosești IA pentru lucrările de la facultate și te descurci, doar că [[summative-assessment|examenul cu carte închisă]] a semănat cu citirea notițelor altcuiva. Sau un prieten spune că nu a scris nimic și a luat totuși nota maximă, iar tu te întrebi ce înseamnă asta pentru tine. Sau ai început să pui unui chatbot mai multe întrebări decât îi pui instructorului.
 
 Răspunsul scurt, într-o formă pe care o poți repeta unui prieten: IA este utilă acolo unde ai nevoie de feedback și inutilă acolo unde ai nevoie de exersare. Păstrează-ți pasul de gândire, testează-te fără instrument înainte să predai și fii sincer despre ce ai folosit. Restul paginii explică de ce asta rezistă și cum arată într-o seară de marți.
 
@@ -55,7 +55,7 @@ Să știi că este acolo schimbă și cu ce ești dispus să te lupți. [[ai-ava
 
 ## Testează-te fără instrument
 
-Verificarea ia zece minute și este cel mai util lucru de pe această pagină. Închide tot, ia o pagină albă și scrie din memorie argumentul lucrării tale: afirmația, cele două sau trei motive și ce ar conta împotriva ei. Apoi deschide lucrarea și compară.
+Verificarea ia zece minute și este cel mai util lucru pe care îl poți face. Închide tot, ia o pagină albă și scrie din memorie argumentul lucrării tale: afirmația, cele două sau trei motive și ce ar conta împotriva ei. Apoi deschide lucrarea și compară.
 
 Dacă pagina albă iese aproape, ai învățat materialul, iar instrumentul te-a ajutat să îl organizezi. Dacă iese goală în timp ce documentul este lustruit, ai un decalaj de performanță, iar nota îl va ascunde până când un examen sau un stagiu îl va demasca. Întoarce-te la secțiunea pe care nu ai putut-o reproduce, lucreaz-o fără ajutor și verifică din nou.
 

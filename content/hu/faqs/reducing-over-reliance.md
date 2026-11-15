@@ -11,9 +11,9 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
-updated: "2026-10-29T14:37:59-04:00"
+updated: "2026-11-15T16:22:38-05:00"
 translation_of: faqs/reducing-over-reliance
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ A lényeg: a túlzott támaszkodás többnyire az elhelyezés kérdése. Azt azo
 
 **5.** Időzítse a reflexiós kérdést a feladatnak arra a szakaszára, amelyet még meg tud változtatni.
 
-**6.** Nézze meg, kit hagy hátra a terve, az előzetes tudás szerint, nem az átlag szerint.
+**6.** Nézze meg, kit hagy hátra a terve, az [[prior-knowledge|előzetes tudás]] szerint, nem az átlag szerint.
 
 ## Döntse el, hogy problémája van, vagy csak sokat használják
 
@@ -59,7 +59,7 @@ A viselkedéses eszközök vékonyabbak. [[pause-ai-cognitive-offloading-self-re
 
 ## Tegye a diák saját próbálkozását az eszköz elé
 
-A legvilágosabban tesztelt sorrend az „előbb gondolkodj, utána ChatGPT”. [[think-first-chatgpt-later-2026|Wong és Qiu (2026)]] N = 196 diákot osztott be önálló munkára, szabad ChatGPT-használatra vagy szabályozott feltételre: alkoss saját ötleteket, működj együtt a ChatGPT-vel azok javításában és értékelésében, majd önállóan finomíts és adj be egy megoldást. A szabad használatú csoport kreatívabb munkát produkált a támogatott feladaton, és visszaesett a csak emberi szintre egy későbbi, nehezebb feladaton, amelyet ChatGPT nélkül kellett megoldani. A szabályozott csoport azonnal nem mutatott előnyt, és utólag mindkét másik csoportot felülmúlta az önálló kreativitásban.
+A legvilágosabban tesztelt sorrend az „előbb gondolkodj, utána [[generative-ai|ChatGPT]]”. [[think-first-chatgpt-later-2026|Wong és Qiu (2026)]] N = 196 diákot osztott be önálló munkára, szabad ChatGPT-használatra vagy szabályozott feltételre: alkoss saját ötleteket, működj együtt a ChatGPT-vel azok javításában és értékelésében, majd önállóan finomíts és adj be egy megoldást. A szabad használatú csoport kreatívabb munkát produkált a támogatott feladaton, és visszaesett a csak emberi szintre egy későbbi, nehezebb feladaton, amelyet ChatGPT nélkül kellett megoldani. A szabályozott csoport azonnal nem mutatott előnyt, és utólag mindkét másik csoportot felülmúlta az önálló [[creativity|kreativitásban]].
 
 A promptadatok magyarázzák a különbséget. A szabályozott csoportban a promptok 88,6%-a volt együttműködő, és ez volt az egyetlen prompttípus, amely szignifikánsan korrelált a későbbi önálló originalitással. A szabad használatú csoportban a promptok 70,9%-a volt nem együttműködő, és a promptok 59,6%-a egyszerűen azt kérte a ChatGPT-től, hogy ötleteljen. Ugyanaz az eszköz, kétféleképpen kérdezve, két különböző tanulót hozott létre.
 
@@ -75,7 +75,7 @@ Két tantermi részlet dönti el, hogy a sorrend tart-e. Az első az idő. Ha az
 
 A gyakorlatban ez azt jelenti, hogy őrzött MI van a feladat közepén, ahol a súgások, a kidolgozott példák és a gyakorló tételek végzik a munkát, a végén pedig egy biztosított ellenőrzés. Ez egyben a MI-használati szabályzatot készségenkénti elhelyezési szabállyá alakítja, amelyet könnyebb megírni és könnyebb megvédeni, mint a tilalmak listáját.
 
-A súgás a diák következő lépésére vonatkozó kérdés, egy hasonló feladat kidolgozott példája vagy egy mutató a releváns részre. A válasz kész mondat, amelyet a diák be tud másolni. A legtöbb általános célú csevegőbot alapértelmezésben a másodikat adja, folyékony prózában, amely segítségnek látszik, ezért számít a beállítás jobban, mint a diák szándéka.
+A súgás a diák következő lépésére vonatkozó kérdés, egy hasonló feladat kidolgozott példája vagy egy mutató a releváns részre. A válasz kész mondat, amelyet a diák be tud másolni. A legtöbb általános célú [[conversational-ai|csevegőbot]] alapértelmezésben a másodikat adja, folyékony prózában, amely segítségnek látszik, ezért számít a beállítás jobban, mint a diák szándéka.
 
 ## Követelje meg az ellenőrzést, és tegye láthatóvá
 
@@ -97,7 +97,7 @@ Válasszon szerény és ellenőrizhető hibát, például nem létező hivatkoz�
 
 A támogatott termék rossz mutatója a képességnek, ezért legalább egy jeggyel értékelt pillanatnak eszköz nélkül kell megtörténnie. [[think-first-chatgpt-later-2026|Wong és Qiu (2026)]] későbbi, segítség nélküli feladata ez a mérés. A csak emberi csoportjuk a nehezebb utánkövetésen szintén visszaesett, ami kizárja a javítás egyszerű változatát: az eszköz eltávolítása a tanuló támogatása nélkül nem beavatkozás.
 
-A váltogatott módokra van támogatás. A PAUSE Kosmyna és mtsai (2025) negyedik ülésre vonatkozó eredményét idézi, amelyben a csak fejben dolgozó résztvevők, akik később ChatGPT-t használtak, felülmúlták a folyamatos LLM-használókat. Az elszámoltathatóság a magyarázaton keresztül is működik: Makransky és mtsai (2025) azt találták, hogy egy tutorbot, amely arra késztette a diákokat, hogy kapcsolják össze az ötleteket és magyarázzák meg a gondolkodásukat, jobb értékelési teljesítményt hozott, mint a hagyományos oktatás.
+A váltogatott módokra van támogatás. A PAUSE Kosmyna és mtsai (2025) negyedik ülésre vonatkozó eredményét idézi, amelyben a csak fejben dolgozó résztvevők, akik később ChatGPT-t használtak, felülmúlták a folyamatos [[llm|LLM]]-használókat. Az elszámoltathatóság a magyarázaton keresztül is működik: Makransky és mtsai (2025) azt találták, hogy egy tutorbot, amely arra késztette a diákokat, hogy kapcsolják össze az ötleteket és magyarázzák meg a gondolkodásukat, jobb értékelési teljesítményt hozott, mint a hagyományos oktatás.
 
 Egy kurzusban: váltogasson. Támogatott munka a gyakorlásban, támogatás nélküli munka ott, ahol számít. A támogatott darabot a jó körülmények közötti teljesítmény feljegyzéseként olvassa, a támogatás nélküli darabot pedig a tanulásra vonatkozó bizonyítékként. Az összehasonlításuk egyben a leghasznosabb beszélgetés, amelyet egy diákkal folytathat, aki nem érti a jegyét.
 
@@ -127,7 +127,7 @@ A kérdés szövege kevésbé számít, mint a helyzete. Egy egység előtt kér
 
 ## Számítson arra, hogy a kockázat csoportosul
 
-[[lodge-loble-cognitive-offloading-2026|Lodge és Loble (2026)]] a kockázatot az előzetes tudásban és az önszabályozásban helyezi el, és **metakognitív esélyegyenlőségi szakadékot** nevez meg: a MI jó használata olyan erőforrásokat kíván, amelyekkel a kezdők nem rendelkeznek, így a legvalószínűbben azok adják át magát a tanulást, akiknek a legnagyobb szükségük lenne a gyakorlásra. Beszámolójuk szerint az ausztrál diákok 80%-a már használ MI-t, és a fiatalabb középiskolai tanárok kétharmada is használ (OECD 2025).
+[[lodge-loble-cognitive-offloading-2026|Lodge és Loble (2026)]] a kockázatot az előzetes tudásban és az önszabályozásban helyezi el, és **metakognitív [[equity-in-ai-education|esélyegyenlőségi]] szakadékot** nevez meg: a MI jó használata olyan erőforrásokat kíván, amelyekkel a kezdők nem rendelkeznek, így a legvalószínűbben azok adják át magát a tanulást, akiknek a legnagyobb szükségük lenne a gyakorlásra. Beszámolójuk szerint az ausztrál diákok 80%-a már használ MI-t, és a fiatalabb középiskolai tanárok kétharmada is használ (OECD 2025).
 
 A kor és a szokás ugyanezzel a mintával korrelál. [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] azt találta, hogy a 17 és 25 év közötti résztvevők nagyobb MI-függőséget és tehermentesítést, valamint gyengébb kritikai gondolkodást mutattak, mint a 46 évesek és idősebbek, és hogy az iskolai végzettség a MI-használattól függetlenül jobb kritikai gondolkodást jelzett előre (r = +0,34), egy szignifikáns interakció pedig arra utalt, hogy a végzettség mérsékli a negatív hatást. [[genai-over-reliance-learning-2026|Gao, Sun és Khan (2026)]] azt találták, hogy a polikronitás, a többfeladatoskodásra való hajlam moderálja az utat, a magas polikronitású diákok pedig nagyobb kockázatot hordoznak.
 
@@ -137,29 +137,29 @@ A kontextus ugyanannyit számít, mint a személy, a kurzus pedig a kontextus eg
 
 ## Döntse el, mekkora súlya van a bizonyítékoknak
 
-Ebben a korpuszban semmi nem teszteli, hogy egy adott, túlzott támaszkodás elleni beavatkozás tart-e különböző környezetekben vagy félévekben. Az előbb gondolkodj egyetlen kísérleten nyugszik, N = 196. A válasz-visszatartási eredmény [[brcic-effortless-trap-productive-struggle-2026|Brcic és Frljic (2026)]] szintéziséből származik, nem saját kísérletből. A súrlódásérv fogalmi kommentár, új adatok nélkül. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] megnevezi a modell korlátait: exogén, stacionárius MI-minőség, rögzített hálózat, stilizált ellenőrzés. A valós értékek becsléséhez hosszú távú nyomokra lenne szükség a feladatonkénti ellenőrzési arányokról, a társadalmi bizonyíték erősségéről és arról, hogyan frissül a bizalom ellenőrzött, illetve ellenőrizetlen használat után.
+A bizonyítékok között semmi nem teszteli, hogy egy adott, túlzott támaszkodás elleni beavatkozás tart-e különböző környezetekben vagy félévekben. Az előbb gondolkodj egyetlen kísérleten nyugszik, N = 196. A válasz-visszatartási eredmény [[brcic-effortless-trap-productive-struggle-2026|Brcic és Frljic (2026)]] szintéziséből származik, nem saját kísérletből. A súrlódásérv fogalmi kommentár, új adatok nélkül. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] megnevezi a modell korlátait: exogén, stacionárius MI-minőség, rögzített hálózat, stilizált ellenőrzés. A valós értékek becsléséhez hosszú távú nyomokra lenne szükség a feladatonkénti ellenőrzési arányokról, a társadalmi bizonyíték erősségéről és arról, hogyan frissül a bizalom ellenőrzött, illetve ellenőrizetlen használat után.
 
-A mérés marad a leggyengébb láncszem. A felméréses tervek dominálnak, és mind [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]], mind [[genai-over-reliance-learning-2026|Gao, Sun és Khan (2026)]] hosszú távú és kísérleti utánkövetést sürget. A [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] mögött nincs pszichometria, és felnőtteknek készült. Az, hogy az esélyegyenlőségi szakadék oktatással zárható-e, elméleti feltevés, nem bemutatott eredmény.
+A mérés marad a leggyengébb láncszem. A felméréses tervek dominálnak, és mind [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]], mind [[genai-over-reliance-learning-2026|Gao, Sun és Khan (2026)]] hosszú távú és kísérleti utánkövetést sürget. A [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] mögött nincs [[educational-measurement|pszichometria]], és felnőtteknek készült. Az, hogy az esélyegyenlőségi szakadék oktatással zárható-e, elméleti feltevés, nem bemutatott eredmény.
 
 Ez egy ésszerű fogadást hagy Önnek, olcsón megkötve. Változtasson meg egy feladatot, tartsa meg a segítség nélküli mérést, és nézze meg, szűkül-e a támogatott és a támogatás nélküli munka közötti különbség. Ne építsen újra egy kurzust ezeknek a számoknak az erejére.
 
 ## Amit az oktatók ebben elrontanak
 
-**A legtöbbet használó diákok vannak bajban.** A gyakoriság az, amit a felmérések rögzítenek és az irányítópultok mutatnak, és nem ez a konstruktum. Az a diák, aki minden választ ellenőriz és az Ön anyagaira hivatkozik, naponta használhat MI-t, és rendben van. Annak a diáknak van problémája, aki hetente egyszer az első kimenetet adja be.
+**A legtöbbet használó diákok vannak bajban.** A gyakoriság az, amit a felmérések rögzítenek és a [[visualization|irányítópultok]] mutatnak, és nem ez a konstruktum. Az a diák, aki minden választ ellenőriz és az Ön anyagaira hivatkozik, naponta használhat MI-t, és rendben van. Annak a diáknak van problémája, aki hetente egyszer az első kimenetet adja be.
 
 **A tilalom megszünteti a kockázatot.** A legerősebb eredmények itt az elhelyezésből jönnek, és Wong és Qiu kísérletének csak emberi ága is visszaesett a nehezebb utánkövetésen. Az eszköz eltávolítása a tanuló támogatása nélkül ott hagyja a nehézséget, ahol volt.
 
-**Az olcsóbb ellenőrzés megoldja az ellenőrzést.** Az ellenőrzés megkönnyítése volt a leggyengébb kar Biswas modelljében, mert az akadály társadalmi. Egy jobb plágiumellenőrző nem viszi rá a diákot, hogy elolvassa a forrást.
+**Az olcsóbb ellenőrzés megoldja az ellenőrzést.** Az ellenőrzés megkönnyítése volt a leggyengébb kar Biswas modelljében, mert az akadály társadalmi. Egy jobb [[academic-integrity|plágiumellenőrző]] nem viszi rá a diákot, hogy elolvassa a forrást.
 
 **A használati irányítópult megmondja, ki tehermentesít.** A PAUSE tételei azt rögzítik, mikor és milyen gyakran kerül be a MI egy munkafolyamatba, és a szerzők maguk jelzik az érvényességi problémát. Egy gondos állványozó tehermentesítőként pontozódik, így azokra a számokra cselekedve azokat a diákokat bünteti, akiket meg akar tartani.
 
 **A folyékonyság és az elégedettség azt mutatja, hogy a terv működik.** Ez az az illúzió, amelyet [[lodge-loble-cognitive-offloading-2026|Lodge és Loble (2026)]] teljesítményparadoxonukban leírnak: a munka folyékonynak érződik, a diákok abban a pillanatban jól teljesítenek, miközben kevesebbet tartanak meg. A segítség nélküli teljesítmény és a késleltetett [[transfer-of-learning|transzfer]] az a mérés, amely a kérdésre válaszol.
 
-**Ha MI-írástudásra tanítja a diákokat, a probléma elmúlik.** [[lodge-loble-cognitive-offloading-2026|Lodge és Loble (2026)]] óvatosságra intenek, hogy a diákok felé irányuló MI-írástudásba való túlzott befektetés rossz elosztás lehet, tekintettel arra, amivel a kezdők nem rendelkeznek.
+**Ha [[ai-literacy|MI-írástudásra]] tanítja a diákokat, a probléma elmúlik.** [[lodge-loble-cognitive-offloading-2026|Lodge és Loble (2026)]] óvatosságra intenek, hogy a diákok felé irányuló MI-írástudásba való túlzott befektetés rossz elosztás lehet, tekintettel arra, amivel a kezdők nem rendelkeznek.
 
 ## Mi jön vissza Önre
 
-**„Ez csak jó pedagógia új néven.”** Részben. Az állványozás, a formáló visszajelzés és a produktív küzdelem régi ötletek. Ami újabb, az a sorrend: a látható ellenőrzés legyőzte az olcsóbb ellenőrzést, és a két megvédendő pillanat az első nehéz próbálkozás és a végső, segítség nélküli ellenőrzés. Tegye a megszokott dolgokat az új sorrendben.
+**„Ez csak jó [[pedagogy|pedagógia]] új néven.”** Részben. A [[scaffolding|állványozás]], a formáló visszajelzés és a produktív küzdelem régi ötletek. Ami újabb, az a sorrend: a látható ellenőrzés legyőzte az olcsóbb ellenőrzést, és a két megvédendő pillanat az első nehéz próbálkozás és a végső, segítség nélküli ellenőrzés. Tegye a megszokott dolgokat az új sorrendben.
 
 **„Ezt nem tudom ellenőrizni.”** Nem tudja, és a bizonyítékok szerint nem is kell próbálnia. Az elhelyezés hozta a legerősebb eredményt. Tervezze úgy a feladatot, hogy a rossz pillanatban használt eszköz magában a munkában mutatkozzon meg, olyan válaszként, amelyet a diák nem tud megmagyarázni, vagy egy hiányzó ellenőrzési lépésként.
 
@@ -187,4 +187,4 @@ Ez egy ésszerű fogadást hagy Önnek, olcsón megkötve. Változtasson meg egy
 
 ## Hová tovább
 
-A szomszédos kérdéssel, hogy a MI egyáltalán hoz-e létre tanulást, a [[does-ai-help-students-learn|Tényleg segít a MI a diákok tanulásában?]] című oldal foglalkozik. A [[reduce-ai-cheating|MI-vel való csalás csökkentése]] az integritással és a felismerés korlátaival foglalkozik, az [[redesign-assessment-ai-era|értékelés újratervezése a MI korszakában]] pedig azt az értékelési architektúrát tárgyalja, amelyre ez az oldal épül. A mögöttes gondolatokhoz lásd: [[cognitive-offloading|kognitív tehermentesítés]], [[metacognition|metakogníció]] és [[desirable-difficulties|kívánatos nehézségek]].
+A szomszédos kérdéssel, hogy a MI egyáltalán hoz-e létre tanulást, a [[does-ai-help-students-learn|Tényleg segít a MI a diákok tanulásában?]] című oldal foglalkozik. A [[reduce-ai-cheating|MI-vel való csalás csökkentése]] az integritással és a felismerés korlátaival foglalkozik, az [[redesign-assessment-ai-era|értékelés újratervezése a MI korszakában]] pedig azt az értékelési architektúrát tárgyalja, amelyre ez a megközelítés épül. A mögöttes gondolatokhoz lásd: [[cognitive-offloading|kognitív tehermentesítés]], [[metacognition|metakogníció]] és [[desirable-difficulties|kívánatos nehézségek]].

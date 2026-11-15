@@ -12,9 +12,9 @@ research_method: [literature review, experiment]
 audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:27:26-05:00"
 translation_of: faqs/ai-guidance-children-under-13
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Podmienky dodávateľa hovoria, že nástroj je pre používateľov od 13 rokov.
 
 V tej žiadosti sa zamotali tri otázky: čo smie šesťročné dieťa s týmito systémami robiť, čo škola dlhuje rodinám, ktorých deti sa s AI stretávajú doma, a čo robiť, keď zákaz nie je odpoveď, ktorú dokážete obhájiť.
 
-Krátka odpoveď, ktorú môžete dať rade: odstupňujte prístup podľa veku, naučte deti, ako sú tieto systémy postavené, skôr než im jeden dáte, a udržte dospelého v slučke všade tam, kde dieťa nedokáže posúdiť výstup. Plošný zákaz je možnosť s najmenšou dôkazovou podporou. V tejto vedomostnej báze neexistuje štúdia o zákazoch podľa veku a väčšina expozície tejto vekovej skupiny sa odohráva doma, kam školské pravidlo nedosiahne.
+Krátka odpoveď, ktorú môžete dať rade: odstupňujte prístup podľa veku, naučte deti, ako sú tieto systémy postavené, skôr než im jeden dáte, a udržte dospelého v slučke všade tam, kde dieťa nedokáže posúdiť výstup. Plošný zákaz je možnosť s najmenšou dôkazovou podporou. Neexistuje štúdia o zákazoch podľa veku a väčšina expozície tejto vekovej skupiny sa odohráva doma, kam školské pravidlo nedosiahne.
 
 ## Krátka verzia
 
@@ -52,7 +52,7 @@ Ich hodnotenie je jediný prieskum po expozícii s 831 účastníkmi a základn�
 
 Obe vydania tiež ukazujú, na čo je hranica. Základné pásmo dostáva aktivity na platformách, s podporným lešením a negeneratívne, takže dieťa sa naučí, čo systém robí, bez systému, ktorý mu odpovedá. Pokročilé pásmo pripája etické uvažovanie k supervidovanému generatívnemu používaniu. Personál, ktorý očakáva, že zapojenie bude nasledovať sofistikovanosť nástroja, zvyčajne nájde opak.
 
-Čo vám odstupňovanie kupuje, je obhájiteľné poradie krokov. Mnoho škôl ho robí naopak, chatbot kúpi na jeseň a učí o ňom na jar, a dôkazy o tomto poradí sú nižšie na tejto stránke.
+Čo vám odstupňovanie kupuje, je obhájiteľné poradie krokov. Mnoho škôl ho robí naopak, chatbot kúpi na jeseň a učí o ňom na jar, kým obhájiteľné poradie je opačné.
 
 ## Najmenšie deti začnite hrou, tvorením a strojmi
 
@@ -66,7 +66,7 @@ Výučba o tom, ako stroje fungujú, patrí do tohto pásma tiež. [[tsingidou-c
 
 ## Presuňte deti od 9 do 12 rokov na preverenú, väčšinou negeneratívnu prácu
 
-Toto je pásmo, kde sú dôkazy o kurikule najsilnejšie. [[demir-akar-ai-media-literacy-children-2026|Demir a Akar (2026)]] viedli 18-hodinový program kritickej mediálnej gramotnosti postavený na modeli 5E pre 36 tureckých štvrtákov, pokrývajúci súkromie dát, bezpečnú komunikáciu a mediálnu [[ethics|etiku]], s Cohenovým *d* medzi skupinami 1,12 pre čítanie, 1,18 pre písanie a 1,31 pre celkovú gramotnosť. Program, ktorý sa zmestí do jedného semestra a hlási účinky takej veľkosti, je najpovzbudivejší výsledok na tejto stránke.
+Toto je pásmo, kde sú dôkazy o kurikule najsilnejšie. [[demir-akar-ai-media-literacy-children-2026|Demir a Akar (2026)]] viedli 18-hodinový program kritickej mediálnej gramotnosti postavený na modeli 5E pre 36 tureckých štvrtákov, pokrývajúci súkromie dát, bezpečnú komunikáciu a mediálnu [[ethics|etiku]], s Cohenovým *d* medzi skupinami 1,12 pre čítanie, 1,18 pre písanie a 1,31 pre celkovú gramotnosť. Program, ktorý sa zmestí do jedného semestra a hlási účinky takej veľkosti, je najpovzbudivejší výsledok v tejto literatúre.
 
 Vek 9 až 12 rokov dostáva expozíciu s podporným lešením na platformách, ktoré škola preverila, pričom generatívne časti sú vyhradené na neskôr a pod dohľadom. Keď deti vedia čítať, argumentovať a overiť tvrdenie, výučba o tom, čo systém robí, sa stáva prácou a nástroj môže vstúpiť ako predmet štúdia, nie ako pomocník.
 
@@ -124,9 +124,9 @@ Nič z toho nie je testovaná intervencia na učenie dieťaťa overovať odpove�
 
 Pre toto vekové pásmo sa to mapuje na postupnosť: najprv o AI a tvorením AI, neskôr od AI, spoločné používanie s dospelým všade, kde dieťa ešte nedokáže výstup vyhodnotiť, a žiadne tvrdenia o trvalom učení z dobrého popoludňajšieho produktu.
 
-Materiál pre radu môže sľúbiť dátum revízie a definíciu úspechu, ktorú škola naozaj dokáže overiť: odučené lekcie, učitelia, ktorí dokážu odpovedať na otázku rodiča, žiadosti o dáta vybavené písomne. Tvrdenie o učebnom zisku by prekročilo každú štúdiu citovanú na tejto stránke.
+Materiál pre radu môže sľúbiť dátum revízie a definíciu úspechu, ktorú škola naozaj dokáže overiť: odučené lekcie, učitelia, ktorí dokážu odpovedať na otázku rodiča, žiadosti o dáta vybavené písomne. Tvrdenie o učebnom zisku by prekročilo každú štúdiu citovanú v tejto literatúre.
 
-O zákazoch podľa veku v tejto vedomostnej báze nie je žiadna štúdia. Nič tu nedokáže rozhodnúť, či zákazy, ktoré sa teraz objavujú v niektorých školských systémoch, fungujú, a čestná verzia tej vety patrí do vášho materiálu pre radu. Čo dôkazy ukazujú, je, že alternatívou k zákazu nie je laissez-faire. [[moral-panic-genai-classroom|Štúdia o dostupnosti generatívnej AI oproti jej integrácii]] zistila, že sprístupnenie generatívnej AI bez výučby o tom, ako ju používať, bolo spojené s významne nižším výkonom v aplikovaných otázkach (ω² = 0,35), kým výslovná výučba jej používania pri úlohách, ako je zhrnutie, vrátila aplikovaný výkon na úroveň spred generatívnej AI a v jednom náročnejšom kvíze prekonala základnú líniu. Toto vekové pásmo sa dá učiť: vyššie uvedený program pre štvrtákov produkoval účinky *d* = 1,12 až 1,31.
+O zákazoch podľa veku nie je žiadna štúdia. Nič tu nedokáže rozhodnúť, či zákazy, ktoré sa teraz objavujú v niektorých školských systémoch, fungujú, a čestná verzia tej vety patrí do vášho materiálu pre radu. Čo dôkazy ukazujú, je, že alternatívou k zákazu nie je laissez-faire. [[moral-panic-genai-classroom|Štúdia o dostupnosti generatívnej AI oproti jej integrácii]] zistila, že sprístupnenie generatívnej AI bez výučby o tom, ako ju používať, bolo spojené s významne nižším výkonom v aplikovaných otázkach (ω² = 0,35), kým výslovná výučba jej používania pri úlohách, ako je zhrnutie, vrátila aplikovaný výkon na úroveň spred generatívnej AI a v jednom náročnejšom kvíze prekonala základnú líniu. Toto vekové pásmo sa dá učiť: vyššie uvedený program pre štvrtákov produkoval účinky *d* = 1,12 až 1,31.
 
 ## V čom sa školy mýlia
 
@@ -172,4 +172,4 @@ O zákazoch podľa veku v tejto vedomostnej báze nie je žiadna štúdia. Nič 
 
 ## Kam ďalej
 
-[[how-ai-impacts-students]] pokrýva, čo nástroje robia s učením, a [[incorporating-ai-literacy]] spolu s [[ai-literacy|AI gramotnosťou]] pokrývajú, čo učiť. [[parents-and-families]] a [[early-childhood-elementary-ai-education]] držia výskumnú základňu tejto stránky a [[equity-ethics-pedagogical-safety-research]] je miesto, kde argument o súkromí a bezpečnosti pokračuje. Ak je vaša otázka o strane hodnotenia pre starších študentov, [[should-we-use-ai-detectors]] a [[reduce-ai-cheating]] ju berú ďalej.
+[[how-ai-impacts-students]] pokrýva, čo nástroje robia s učením, a [[incorporating-ai-literacy]] spolu s [[ai-literacy|AI gramotnosťou]] pokrývajú, čo učiť. [[parents-and-families|Rodičia a rodiny]] a [[early-childhood-elementary-ai-education|predškolské a základné vzdelávanie]] držia výskumnú základňu a [[equity-ethics-pedagogical-safety-research]] je miesto, kde argument o súkromí a bezpečnosti pokračuje. Ak je vaša otázka o strane hodnotenia pre starších študentov, [[should-we-use-ai-detectors]] a [[reduce-ai-cheating]] ju berú ďalej.

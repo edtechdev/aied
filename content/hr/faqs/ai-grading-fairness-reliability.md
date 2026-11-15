@@ -1,7 +1,7 @@
 ---
 title: "Mogu li koristiti AI za pošteno i pouzdano ocjenjivanje studentskih radova?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:16:10-05:00"
 type: faq
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
@@ -46,11 +46,11 @@ Evo kratkog odgovora: AI ocjenjivanje zaslužuje mjesto kao nadzirani pomoćnik 
 
 Tri se aranžmana nazivaju „AI ocjenjivanjem“ i nose različite obveze.
 
-**Pomoćnik za povratnu informaciju** sastavlja komentare ili označava moguće propuste koje vi prihvaćate, prepisujete ili odbacujete. Rizik je ograničen na kvalitetu komentara, a vi čitate sve prije nego što dođe do studenta. **Drugi čitatelj** predlaže ocjene po kriterijima ili označava neslaganja kako bi strukturirao vaše vlastito ocjenjivanje. Njegove pogreške moraju biti korisne, a ne samo pogrešne: oznaka koja vas vraća na rad koji biste inače ocijenili nemarno vrijedi imati. **Primarni ocjenjivač** proizvodi ocjene koje postaju zabilježene ocjene. To je aranžman koji dokazi u ovoj bazi znanja ne podupiru izvan uskih, lokalno provjerenih slučajeva.
+**Pomoćnik za povratnu informaciju** sastavlja komentare ili označava moguće propuste koje vi prihvaćate, prepisujete ili odbacujete. Rizik je ograničen na kvalitetu komentara, a vi čitate sve prije nego što dođe do studenta. **Drugi čitatelj** predlaže ocjene po kriterijima ili označava neslaganja kako bi strukturirao vaše vlastito ocjenjivanje. Njegove pogreške moraju biti korisne, a ne samo pogrešne: oznaka koja vas vraća na rad koji biste inače ocijenili nemarno vrijedi imati. **Primarni ocjenjivač** proizvodi ocjene koje postaju zabilježene ocjene. To je aranžman koji dokazi ne podupiru izvan uskih, lokalno provjerenih slučajeva.
 
 Odaberite najnižu razinu koja rješava vaše stvarno ograničenje. Ako vaše opterećenje ocjenjivanjem dolazi od provjere fiksnog ključa odgovora, obično determinističko bodovanje transparentnije je i revizijski provjerljivije od [[llm|jezičnog modela]], a farmaceutska studija upućuje na to da je prednost LLM-a na objektivnim česticama dijelom bila artefakt toga što su mu tijekom ocjenjivanja predani točni odgovori. Sačuvajte model za rad koji traži interpretaciju, a zatim tu interpretaciju provjerite.
 
-[[automated-assessment|Automatizirano ocjenjivanje]] pokriva širi stroj bodovanja, moderiranja i generiranja povratne informacije. Ova je stranica pitanje prosudbe ispod svega toga.
+[[automated-assessment|Automatizirano ocjenjivanje]] pokriva širi stroj bodovanja, moderiranja i generiranja povratne informacije. Pitanje prosudbe ispod svega toga jest je li taj stroj dovoljno pošten i pouzdan da se ocjena zabilježi.
 
 ## Što dokazi doista pokazuju
 
@@ -110,6 +110,6 @@ Dva smjera neuspjeha traže zasebnu pažnju. Pretjerani odbici ono je o čemu st
 
 ## Kamo dalje
 
-[[assessment-validity|Valjanost procjene]] pojam je koji odlučuje o ovim pitanjima: podupiru li dokazi zaključak koji želite izvesti. [[automated-assessment]] pokriva tehnologiju i njezinu izmjerenu izvedbu po formatima, a [[ai-feedback-at-scale]] bavi se susjednim problemom generiranih komentara i toga djeluju li studenti na njih.
+[[assessment-validity|Valjanost procjene]] pojam je koji odlučuje o ovim pitanjima: podupiru li dokazi zaključak koji želite izvesti. [[automated-assessment|Automatizirano ocjenjivanje]] pokriva tehnologiju i njezinu izmjerenu izvedbu po formatima, a [[ai-feedback-at-scale]] bavi se susjednim problemom generiranih komentara i toga djeluju li studenti na njih.
 
 Za ono što bi ocjena trebala predstavljati kada se studenti koriste AI-jem, uključujući zamjenu konstrukta i autentificirane dokaze o procesu, vidi [[redesign-assessment-ai-era|redizajn ocjenjivanja u eri AI-ja]]. Za pitanje može li detekcija zamijeniti obranjiv dizajn zadatka, vidi [[should-we-use-ai-detectors|treba li koristiti AI detektore]]. Za evaluacijsko pitanje ispod svega toga, vidi [[checking-whether-educational-ai-works|provjeru radi li obrazovni AI]].

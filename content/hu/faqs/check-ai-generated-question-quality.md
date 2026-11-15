@@ -1,7 +1,7 @@
 ---
 title: "Hogyan ellenőrizzem, hogy az MI-vel generált kvíz- és vizsgakérdések valóban jók-e?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:18:05-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-05T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Húsz kérdést kér az előadásjegyzeteiből. Válaszkulcsokkal, magyarázatokkal, nehézségi címkékkel és Bloom-taxonómiai kategóriákkal jönnek vissza, egy formázott dokumentumban, amely késznek látszik. A neve mindjárt rákerül.
 
-Íme a rövid válasz: a generált kérdések jelöltek, nem értékelés. Oldjon meg mindegyiket maga, ellenőrizze, mit követel meg az item a diáktól ténylegesen, és tudja meg, hogyan válaszolnak rá a diákok, mielőtt számít. E tudásbázis két legnagyobb vizsgálatában az érdekes jel nem az, hogy a generálás működik, hanem hogy hol vall kudarcot. A kurzusspecifikus munkafolyamaton belüli iteratív generálás használható feleletválasztós vizsgákat termelt 71 egyetemi osztályban ([[assessing-quality-ai-generated-exams-field-2025|Isley és mtsai, 2025]]). Egy adattudományi auditban 311 telepített kérdés esetében a modell nehézségi címkéi csaknem tökéletesen követték az általa mellé generált Bloom-szinteket (Spearman ρ = 0,90), miközben a diákok tényleges pontszámait ρ = 0,06 szinten követték ([[student-llm-use-ai-question-difficulty-data-science-2026|An és Wang, 2026]]). A címke a prompt leírása volt, nem az item mérése.
+Íme a rövid válasz: a generált kérdések jelöltek, nem értékelés. Oldjon meg mindegyiket maga, ellenőrizze, mit követel meg az item a diáktól ténylegesen, és tudja meg, hogyan válaszolnak rá a diákok, mielőtt számít. A két legnagyobb vizsgálatban az érdekes jel nem az, hogy a generálás működik, hanem hogy hol vall kudarcot. A kurzusspecifikus munkafolyamaton belüli iteratív generálás használható feleletválasztós vizsgákat termelt 71 egyetemi osztályban ([[assessing-quality-ai-generated-exams-field-2025|Isley és mtsai, 2025]]). Egy adattudományi auditban 311 telepített kérdés esetében a modell nehézségi címkéi csaknem tökéletesen követték az általa mellé generált Bloom-szinteket (Spearman ρ = 0,90), miközben a diákok tényleges pontszámait ρ = 0,06 szinten követték ([[student-llm-use-ai-question-difficulty-data-science-2026|An és Wang, 2026]]). A címke a prompt leírása volt, nem az item mérése.
 
 ## A rövid változat
 

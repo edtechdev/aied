@@ -8,9 +8,9 @@ assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
 audience: [instructors, researchers, administrators]
-updated: "2026-10-29T12:11:33-04:00"
+updated: "2026-11-15T16:27:26-05:00"
 translation_of: faqs/ai-literacy-evidence
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Odpoveď pre tú miestnosť a stav dôkazov vo [[higher-ed|vysokoškolskom vzdel
 
 ## Postavte sekvenciu okolo kritiky
 
-Najsilnejší príklad z učebne v našej znalostnej báze pochádza z bakalárskej psychológie. Richmond a Nicholls nechali študentov ohodnotiť tlačovú správu vygenerovanú [[generative-ai|ChatGPT]] podľa vlastných kritérií predmetu, pomenovať chyby a text prepracovať. Študenti vo všeobecnosti videli, že próza je vybrúsená a že obsah skresľuje ciele, metódy a zistenia výskumu. Oproti predchádzajúcej kohorte s [[peer-assessment|rovesníckym hodnotením]] si skupina s kritikou AI viedla na následnej úprave scenára mierne lepšie (*d* = 0,36), bez významnej výhody pri finálnom videu ([[richmond-nicholls-genai-psych-feedback-ai-literacies]]).
+Najsilnejší príklad z učebne pochádza z bakalárskej psychológie. Richmond a Nicholls nechali študentov ohodnotiť tlačovú správu vygenerovanú [[generative-ai|ChatGPT]] podľa vlastných kritérií predmetu, pomenovať chyby a text prepracovať. Študenti vo všeobecnosti videli, že próza je vybrúsená a že obsah skresľuje ciele, metódy a zistenia výskumu. Oproti predchádzajúcej kohorte s [[peer-assessment|rovesníckym hodnotením]] si skupina s kritikou AI viedla na následnej úprave scenára mierne lepšie (*d* = 0,36), bez významnej výhody pri finálnom videu ([[richmond-nicholls-genai-psych-feedback-ai-literacies]]).
 
 Literatúra, z ktorej tieto príklady pochádzajú, sa opiera o krátke intervencie, [[self-regulated-learning|sebaregulované učenie]] a prácu založenú na návrhu, a táto štúdia nesie dve z tých obmedzení. Porovnanie bolo historické, takže lepšie pripravená kohorta by priniesla ten istý vzorec. Výhoda sa ukázala aj na medzivýstupe a zmizla na hotovom produkte, čo je presne to, čo by ste očakávali, ak kritika učila prepracovanie.
 
@@ -52,7 +52,7 @@ Beck a Brodersen zabudovali ten istý ťah do kurzu ekonómie: študenti sami ri
 
 **AI Literacy Continuum** univerzity NC State opisuje postup od *Not Yet Engaged* a *Uncritical Use* cez *Informed Use*, *[[critical-thinking|kritické hodnotenie]]* a *Improvement*, a bolo zavedené s viac než 330 účastníkmi naprieč predmetmi a workshopmi ([[ai-literacy-continuum-higher-education]]). Jeho pozorovania naznačujú rozdvojenie: krátke skúsenosti posunuli študentov k informovanému používaniu, kým kritické hodnotenie a zlepšovanie sa ukázali najmä v trvalej práci zakotvenej v disciplíne. Neexistovalo validované meranie pred a po ani porovnávacia skupina, takže ide o dôkazy z praxe.
 
-Vzdelávanie učiteľov ukazuje ten istý strop z iného uhla. Intervencia Le a kol. založená na [[design-based-research|výskume založenom na návrhu]] bola pilotovaná so 14 študentmi magisterského štúdia a vyhodnotená s 29 študentmi [[teacher-education|prípravy učiteľov]]. Uvádzaná AI kompetencia a [[self-efficacy|sebaúčinnosť]] stúpli a študenti sa posunuli k kritickejšiemu [[pedagogy|pedagogickému]] uvažovaniu o generatívnej AI, kým zisky v oblasti etiky dosiahli len marginálnu významnosť. Malá štúdia tohto typu založená na návrhu nemôže preukázať kompetenciu ([[genai-literacy-training-teacher-education-dbr-2026]]).
+[[teacher-role|Vzdelávanie učiteľov]] ukazuje ten istý strop z iného uhla. Intervencia Le a kol. založená na [[design-based-research|výskume založenom na návrhu]] bola pilotovaná so 14 študentmi magisterského štúdia a vyhodnotená s 29 študentmi [[teacher-education|prípravy učiteľov]]. Uvádzaná AI kompetencia a [[self-efficacy|sebaúčinnosť]] stúpli a študenti sa posunuli k kritickejšiemu [[pedagogy|pedagogickému]] uvažovaniu o generatívnej AI, kým zisky v oblasti etiky dosiahli len marginálnu významnosť. Malá štúdia tohto typu založená na návrhu nemôže preukázať kompetenciu ([[genai-literacy-training-teacher-education-dbr-2026]]).
 
 ## Merajte, čo študenti dokážu
 
@@ -60,7 +60,7 @@ Vzdelávanie učiteľov ukazuje ten istý strop z iného uhla. Intervencia Le a 
 
 Autori čítajú vlastný výsledok ako argument pre posun od poznania k zručnostiam, praxiam, etike a postojom, cez integrovanú reflektívnu pedagogiku a [[culturally-relevant-pedagogy|kultúrne relevantný]] návrh. Pre komisiu urobia prácu dva dôsledky. Výsledok, ktorý meriate, formuje účinok, ktorý nájdete, takže vyberte výsledok, na ktorom vám skutočne záleží. Tak široký interval predikcie argumentuje za miestny pilot.
 
-Meranie je miesto, kde väčšina tvrdení programov padá. Validovaný výkonový test **GLAT** predpovedal výkon v úlohe vysokoškolského vzdelávania s podporou AI. [[self-report-measures|Sebavnímaná]] miera gramotnosti v ChatGPT nie ([[jin-glat-genai-literacy-assessment]]; [[ai-literacy-assessment-misalignment]]). Naprieč znalostnou bázou sa uvádzaná a preukázaná AI kompetencia výrazne rozchádzajú, čo robí z [[educational-measurement|vzdelávacieho merania]] a [[assessment-validity|validity hodnotenia]] súčasť návrhu, nie dodatočnú úvahu pri [[ai-ed-evaluation|vyhodnocovaní]].
+Meranie je miesto, kde väčšina tvrdení programov padá. Validovaný výkonový test **GLAT** predpovedal výkon v úlohe vysokoškolského vzdelávania s podporou AI. [[self-report-measures|Sebavnímaná]] miera gramotnosti v ChatGPT nie ([[jin-glat-genai-literacy-assessment]]; [[ai-literacy-assessment-misalignment]]). Naprieč literatúrou sa uvádzaná a preukázaná AI kompetencia výrazne rozchádzajú, čo robí z [[educational-measurement|vzdelávacieho merania]] a [[assessment-validity|validity hodnotenia]] súčasť návrhu, nie dodatočnú úvahu pri [[ai-ed-evaluation|vyhodnocovaní]].
 
 Burriss a kol. zostrujú, čo sa počíta. Ich štúdia s 22 študentmi jedenásteho ročníka, ktorí skladali videá vo forme verejných oznamov o etike AI, tvrdí, že existujúce škály gramotnosti a kompetenčné rámce predpokladajú individuálne merateľný výkon, čo vylučuje kolektívne a tvorivé vyjadrenie. Navrhujú študentské reflexie, [[multimodal|multimodálne]] artefakty a občiansky diskurz ako doplnky konvenčných meraní. Ich študenti rozvíjali kritické porozumenie etike AI cez kolektívnu [[critical-pedagogy|kritickú pedagogiku]], a to spochybňuje poňatie gramotnosti ako zoznamu zručností aj nástroje na ňom postavené. Pätnásť z 18 odpovedí na konci jednotky potvrdilo nové učenie a autori poznamenávajú, že projekt odoláva tradičnému [[summative-assessment|sumatívnemu hodnoteniu]] ([[burriss-multimodal-composition-critical-ai-literacy-2026]]).
 
@@ -86,7 +86,7 @@ Otázka, ktorá z toho plynie, je tá, ktorú treba položiť vlastnému program
 
 ## V čom sa toto publikum mýli
 
-Workshop je kurikulum. Pozorovania z Continuum stavajú kritické hodnotenie a zlepšovanie do trvalej práce zakotvenej v disciplíne a Le a kol. posunuli sebaúčinnosť bez toho, aby preukázali kompetenciu.
+Workshop je [[curriculum-design|kurikulum]]. Pozorovania z Continuum stavajú kritické hodnotenie a zlepšovanie do trvalej práce zakotvenej v disciplíne a Le a kol. posunuli sebaúčinnosť bez toho, aby preukázali kompetenciu.
 
 Sebavedomie je zástupný ukazovateľ gramotnosti. Výsledok GLAT je priamy: výkonový test predpovedal výkon v úlohe a sebavnímaná miera nie.
 
@@ -108,7 +108,7 @@ Gramotnosť je jedna zručnosť, ktorá sa prenáša medzi nástrojmi. Dai a Cha
 
 **„Certifikát je mechanizmus zodpovednosti.“** Wu a Li zistili, že kompetencia učiteľov je to zväzujúce obmedzenie, a medzikultúrna adaptabilita mala najnižšiu váhu. Certifikát zaznamenáva, že niekto niečo dokončil.
 
-**„Naši učitelia nie sú pripravení to učiť.“** Dôkazy súhlasia. Schopnosť učiteľov bola najväčšia medzera v dátach Wu a Liho a žiadna štúdia na tejto stránke netestuje, ako ju uzavrieť.
+**„Naši učitelia nie sú pripravení to učiť.“** Dôkazy súhlasia. Schopnosť učiteľov bola najväčšia medzera v dátach Wu a Liho a žiadna štúdia netestuje, ako ju uzavrieť.
 
 ## Čo urobiť tento týždeň
 

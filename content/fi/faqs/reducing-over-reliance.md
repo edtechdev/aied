@@ -11,9 +11,9 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
-updated: "2026-10-29T14:13:23-04:00"
+updated: "2026-11-15T16:29:25-05:00"
 translation_of: faqs/reducing-over-reliance
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ Ydinasia: liiallinen nojautuminen on enimmäkseen kysymys siitä, mihin työkalu
 
 **5.** Ajoita pohdintakehotus siihen tehtävän vaiheeseen, jossa se voi vielä muuttaa jotain.
 
-**6.** Katso, ketkä suunnitelmasi jättää jälkeen, aiemman tiedon mukaan eikä keskiarvon.
+**6.** Katso, ketkä suunnitelmasi jättää jälkeen, [[prior-knowledge|aiemman tiedon]] mukaan eikä keskiarvon.
 
 ## Päätä, onko sinulla ongelma vai vain runsasta käyttöä
 
@@ -59,7 +59,7 @@ Käyttäytymiseen perustuvat mittarit ovat ohuempia. [[pause-ai-cognitive-offloa
 
 ## Aseta opiskelijan yritys työkalun eteen
 
-Selkein testattu järjestys on ”ajattele ensin, ChatGPT myöhemmin”. [[think-first-chatgpt-later-2026|Wong ja Qiu (2026)]] jakoivat N = 196 opiskelijaa työskentelemään itsenäisesti, käyttämään ChatGPT:tä vapaasti tai työskentelemään säännellyssä tilanteessa: tuota omat ideasi, työstä niitä ChatGPT:n kanssa parantaaksesi ja arvioidaksesi niitä ja hio ja palauta sitten yksi ratkaisu itsenäisesti. Vapaan käytön ryhmä tuotti enemmän luovaa työtä avustetussa tehtävässä ja palasi pelkän ihmisen tasolle myöhemmässä, vaikeammassa tehtävässä, joka tehtiin ilman ChatGPT:tä. Säännelty ryhmä ei saanut välitöntä etua ja päihitti molemmat muut ryhmät itsenäisessä luovuudessa jälkeenpäin.
+Selkein testattu järjestys on ”ajattele ensin, [[generative-ai|ChatGPT]] myöhemmin”. [[think-first-chatgpt-later-2026|Wong ja Qiu (2026)]] jakoivat N = 196 opiskelijaa työskentelemään itsenäisesti, käyttämään ChatGPT:tä vapaasti tai työskentelemään säännellyssä tilanteessa: tuota omat ideasi, työstä niitä ChatGPT:n kanssa parantaaksesi ja arvioidaksesi niitä ja hio ja palauta sitten yksi ratkaisu itsenäisesti. Vapaan käytön ryhmä tuotti enemmän luovaa työtä avustetussa tehtävässä ja palasi pelkän ihmisen tasolle myöhemmässä, vaikeammassa tehtävässä, joka tehtiin ilman ChatGPT:tä. Säännelty ryhmä ei saanut välitöntä etua ja päihitti molemmat muut ryhmät itsenäisessä [[creativity|luovuudessa]] jälkeenpäin.
 
 Kehotetieto selittää eron. Säännellyssä ryhmässä 88,6 % kehotteista oli yhteistoiminnallisia, ja se oli ainoa kehotetyyppi, joka korreloi merkitsevästi myöhemmän itsenäisen omaperäisyyden kanssa. Vapaan käytön ryhmässä 70,9 % kehotteista oli ei-yhteistoiminnallisia ja 59,6 % pyysi ChatGPT:tä suoraan tuottamaan ideoita. Sama työkalu, kahdella eri tavalla pyydettynä, tuotti kaksi erilaista oppijaa.
 
@@ -75,7 +75,7 @@ Kaksi luokkahuoneen yksityiskohtaa ratkaisee, pitääkö järjestys. Ensimmäine
 
 Käytännössä se tarkoittaa vartioitua tekoälyä tehtävän keskivaiheessa, jossa vihjeet, malliesimerkit ja harjoitustehtävät tekevät työn, ja suojattua tarkistusta lopussa. Se muuttaa myös tekoälyn käytön säännön taitokohtaiseksi sijoittelusäännöksi, jota on helpompi kirjoittaa ja puolustaa kuin kieltojen luetteloa.
 
-Vihje on kysymys opiskelijan seuraavasta askeleesta, malliesimerkki samankaltaisesta tehtävästä tai viittaus asiaankuuluvaan kohtaan. Vastaus on valmis lause, jonka opiskelija voi liittää sellaisenaan. Useimmat yleiskäyttöiset chatbotit tuottavat oletuksena jälkimmäistä, sujuvana tekstinä, joka näyttää avulta, ja siksi asetukset merkitsevät enemmän kuin opiskelijan aikomukset.
+Vihje on kysymys opiskelijan seuraavasta askeleesta, malliesimerkki samankaltaisesta tehtävästä tai viittaus asiaankuuluvaan kohtaan. Vastaus on valmis lause, jonka opiskelija voi liittää sellaisenaan. Useimmat yleiskäyttöiset [[conversational-ai|chatbotit]] tuottavat oletuksena jälkimmäistä, sujuvana tekstinä, joka näyttää avulta, ja siksi asetukset merkitsevät enemmän kuin opiskelijan aikomukset.
 
 ## Vaadi tarkistus ja tee siitä näkyvä
 
@@ -97,7 +97,7 @@ Valitse epäonnistuminen, joka on maltillinen ja tarkistettavissa, kuten lähdev
 
 Avustettu tuotos on huono mittari osaamiselle, joten ainakin yhden arvosteltavan hetken on tapahduttava ilman työkalua. [[think-first-chatgpt-later-2026|Wongin ja Qiun (2026)]] myöhempi avustamaton tehtävä on se mittaus. Heidän pelkän ihmisen ryhmänsä myös heikkeni vaikeammassa jatkotehtävässä, mikä sulkee pois korjauksen yksinkertaisen version: työkalun poistaminen ilman oppijan tukemista ei ole interventio.
 
-Vuorottelevilla tiloilla on tukea. PAUSE raportoi Kosmyna ym. (2025) neljännen istunnon tuloksen, jossa pelkällä aivoillaan työskennelleet osallistujat, jotka myöhemmin käyttivät ChatGPT:tä, päihittivät jatkuvat LLM:n käyttäjät. Vastuullisuus toimii myös selittämisen kautta: Makransky ym. (2025) havaitsivat, että ohjauschatbot, joka kehotti opiskelijoita yhdistämään ideoita ja selittämään päättelynsä, tuotti parempaa arviointisuoriutumista kuin perinteinen opetus.
+Vuorottelevilla tiloilla on tukea. PAUSE raportoi Kosmyna ym. (2025) neljännen istunnon tuloksen, jossa pelkällä aivoillaan työskennelleet osallistujat, jotka myöhemmin käyttivät ChatGPT:tä, päihittivät jatkuvat [[llm|LLM:n]] käyttäjät. Vastuullisuus toimii myös selittämisen kautta: Makransky ym. (2025) havaitsivat, että ohjauschatbot, joka kehotti opiskelijoita yhdistämään ideoita ja selittämään päättelynsä, tuotti parempaa arviointisuoriutumista kuin perinteinen opetus.
 
 Kurssilla vuorottele: avustettua työtä harjoittelussa, avustamatonta siellä, missä sillä on merkitystä. Lue avustettu osuus tallenteena suoriutumisesta hyvissä olosuhteissa ja avustamaton osuus näyttönä oppimisesta. Niiden vertaaminen on myös hyödyllisin keskustelu, jonka voit käydä opiskelijan kanssa, joka ei ymmärrä arvosanaansa.
 
@@ -127,7 +127,7 @@ Kehotuksen sanamuoto merkitsee vähemmän kuin sen sijainti. Ennen jaksoa kysy, 
 
 ## Odota riskin kasautuvan
 
-[[lodge-loble-cognitive-offloading-2026|Lodge ja Loble (2026)]] sijoittavat riskin aiempaan tietoon ja itsesäätelyyn ja nimeävät **metakognitiivisen tasa-arvokuilun**: tekoälyn hyvä käyttö vaatii resursseja, joita aloittelijoilta puuttuu, joten opiskelijat, jotka tarvitsisivat harjoitusta eniten, todennäköisimmin delegoivat itse oppimisen. He raportoivat, että 80 % australialaisista opiskelijoista käyttää jo tekoälyä ja että kaksi kolmasosaa yläkoulun alkuvaiheen opettajista tekee samoin (OECD 2025).
+[[lodge-loble-cognitive-offloading-2026|Lodge ja Loble (2026)]] sijoittavat riskin aiempaan tietoon ja itsesäätelyyn ja nimeävät **metakognitiivisen [[equity-in-ai-education|tasa-arvokuilun]]**: tekoälyn hyvä käyttö vaatii resursseja, joita aloittelijoilta puuttuu, joten opiskelijat, jotka tarvitsisivat harjoitusta eniten, todennäköisimmin delegoivat itse oppimisen. He raportoivat, että 80 % australialaisista opiskelijoista käyttää jo tekoälyä ja että kaksi kolmasosaa yläkoulun alkuvaiheen opettajista tekee samoin (OECD 2025).
 
 Ikä ja tottumus korreloivat saman kuvion kanssa. [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] havaitsi, että 17-25-vuotiaat vastaajat osoittivat suurempaa tekoälyriippuvuutta ja siirtokuormitusta ja heikompaa kriittistä ajattelua kuin 46-vuotiaat ja sitä vanhemmat, ja että koulutustaso ennusti parempaa kriittistä ajattelua tekoälyn käytöstä riippumatta (r = +0,34), ja merkitsevä interaktio osoitti, että koulutustaso lieventää kielteistä vaikutusta. [[genai-over-reliance-learning-2026|Gao, Sun ja Khan (2026)]] havaitsivat, että moniaikaisuus eli taipumus tehdä useita asioita yhtä aikaa muunteli polkua, ja voimakkaasti moniaikaiset opiskelijat olivat suuremmassa riskissä.
 
@@ -139,27 +139,27 @@ Konteksti merkitsee yhtä paljon kuin henkilö, ja kurssisi hallitsee osaa konte
 
 Mikään tässä aineistossa ei testaa, pitääkö jokin tietty liiallisen nojautumisen interventio eri ympäristöissä tai lukukausilla. Ajattele ensin -menetelmä lepää yhden kokeen varassa, jossa N = 196. Vastausten pidättämisen tulos tulee [[brcic-effortless-trap-productive-struggle-2026|Brcicin ja Frljicin (2026)]] synteesistä eikä omasta kokeesta. Kitka-argumentti on käsitteellinen kommentti ilman uutta aineistoa. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] ilmoittaa mallinsa rajat: eksogeeninen stationaarinen tekoälyn laatu, kiinteä verkosto ja tyylitelty tarkistaminen. Todellisten arvojen arvioiminen vaatisi pitkittäisiä jälkiä tehtäväkohtaisista tarkistusasteista, sosiaalisen todistuksen vahvuudesta ja siitä, miten luottamus päivittyy tarkistetun ja tarkistamattoman käytön jälkeen.
 
-Mittaus on edelleen heikoin lenkki. Kyselyasetelmat hallitsevat, ja sekä [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] että [[genai-over-reliance-learning-2026|Gao, Sun ja Khan (2026)]] peräänkuuluttavat pitkittäistä ja kokeellista jatkoa. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]]:lta puuttuu psykometria, ja se rakennettiin aikuisille. Sitä, voidaanko tasa-arvokuilu sulkea opetuksella, on teoretisoitu muttei osoitettu.
+Mittaus on edelleen heikoin lenkki. Kyselyasetelmat hallitsevat, ja sekä [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] että [[genai-over-reliance-learning-2026|Gao, Sun ja Khan (2026)]] peräänkuuluttavat pitkittäistä ja kokeellista jatkoa. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]]:lta puuttuu [[educational-measurement|psykometria]], ja se rakennettiin aikuisille. Sitä, voidaanko tasa-arvokuilu sulkea opetuksella, on teoretisoitu muttei osoitettu.
 
 Jäljelle jää kohtuullinen veto, halvalla tehtynä. Muuta yksi tehtävä, pidä avustamaton mittari ja katso, kapeneeko avustetun ja avustamattoman työn väli. Älä rakenna kurssia uudelleen näiden lukujen varassa.
 
 ## Mitä opettajat ymmärtävät tässä väärin
 
-**Eniten käyttävät opiskelijat ovat ne, joilla on ongelmia.** Tiheys on se, minkä kyselyt tavoittavat ja kojelaudat näyttävät, eikä se ole se konstrukti. Opiskelija, joka tarkistaa jokaisen vastauksen ja viittaa materiaaleihisi, voi käyttää tekoälyä päivittäin ja voida hyvin. Opiskelijalla, joka palauttaa ensimmäisen tuotoksen kerran viikossa, on ongelma.
+**Eniten käyttävät opiskelijat ovat ne, joilla on ongelmia.** Tiheys on se, minkä kyselyt tavoittavat ja [[visualization|kojelaudat]] näyttävät, eikä se ole se konstrukti. Opiskelija, joka tarkistaa jokaisen vastauksen ja viittaa materiaaleihisi, voi käyttää tekoälyä päivittäin ja voida hyvin. Opiskelijalla, joka palauttaa ensimmäisen tuotoksen kerran viikossa, on ongelma.
 
 **Kielto poistaa riskin.** Vahvimmat tulokset tässä tulevat sijoittelusta, ja Wongin ja Qiun kokeessa myös pelkän ihmisen haara heikkeni vaikeammassa jatkotehtävässä. Työkalun poistaminen ilman oppijan tukemista jättää vaikeuden sinne, missä se oli.
 
-**Halvempi tarkistaminen korjaa tarkistamisen.** Tarkistamisen helpottaminen oli heikoin vipu Biswasin mallissa, koska este on sosiaalinen. Parempi plagiointitarkistin ei saa opiskelijaa lukemaan lähdettä.
+**Halvempi tarkistaminen korjaa tarkistamisen.** Tarkistamisen helpottaminen oli heikoin vipu Biswasin mallissa, koska este on sosiaalinen. Parempi [[academic-integrity|plagiointitarkistin]] ei saa opiskelijaa lukemaan lähdettä.
 
 **Käyttökojelaudasta näen, kuka siirtokuormittaa.** PAUSEn väittämät kirjaavat, milloin ja kuinka usein tekoäly tulee työnkulkuun, ja tekijät nostavat itse esiin validiteettiongelman. Huolellinen tukija saa siirtokuormittajan pistemäärän, joten niiden lukujen perusteella toimiminen rankaisee juuri niitä opiskelijoita, jotka haluat pitää.
 
 **Sujuvuus ja tyytyväisyys osoittavat, että suunnitelma toimii.** Se on se illuusio, jonka [[lodge-loble-cognitive-offloading-2026|Lodge ja Loble (2026)]] kuvaavat suoritusparadoksissaan: työ tuntuu sujuvalta ja opiskelijat suoriutuvat hetkessä hyvin mutta muistavat vähemmän. Avustamaton suoriutuminen ja viivästynyt [[transfer-of-learning|siirto]] ovat mittarit, jotka vastaavat kysymykseen.
 
-**Opetetaan opiskelijoille tekoälylukutaitoa, niin ongelma katoaa.** [[lodge-loble-cognitive-offloading-2026|Lodge ja Loble (2026)]] varoittavat, että liiallinen panostus opiskelijoille suunnattuun tekoälylukutaitoon voi olla väärä kohdistus, kun otetaan huomioon se, mitä aloittelijoilta puuttuu.
+**Opetetaan opiskelijoille [[ai-literacy|tekoälylukutaitoa]], niin ongelma katoaa.** [[lodge-loble-cognitive-offloading-2026|Lodge ja Loble (2026)]] varoittavat, että liiallinen panostus opiskelijoille suunnattuun tekoälylukutaitoon voi olla väärä kohdistus, kun otetaan huomioon se, mitä aloittelijoilta puuttuu.
 
 ## Mitä sinulle tullaan sanomaan
 
-**”Tämä on vain hyvää pedagogiikkaa uudella nimellä.”** Osittain. Tukeminen, formatiivinen palaute ja tuottava ponnistelu ovat vanhoja ideoita. Uudempaa on järjestys: näkyvä tarkistaminen voitti halvemman tarkistamisen, ja kaksi hetkeä, jotka kannattaa suojata, ovat ensimmäinen vaikea yritys ja lopullinen avustamaton tarkistus. Tee tutut asiat uudessa järjestyksessä.
+**”Tämä on vain hyvää [[pedagogy|pedagogiikkaa]] uudella nimellä.”** Osittain. [[scaffolding|Tukeminen]], formatiivinen palaute ja tuottava ponnistelu ovat vanhoja ideoita. Uudempaa on järjestys: näkyvä tarkistaminen voitti halvemman tarkistamisen, ja kaksi hetkeä, jotka kannattaa suojata, ovat ensimmäinen vaikea yritys ja lopullinen avustamaton tarkistus. Tee tutut asiat uudessa järjestyksessä.
 
 **”En voi valvoa sitä.”** Et voi, eikä näyttö kehota yrittämään. Sijoittelu tuotti vahvimman tuloksen. Suunnittele tehtävä niin, että työkalun käyttö väärällä hetkellä näkyy itse työstä: vastauksena, jota opiskelija ei osaa selittää, tai puuttuvana tarkistusvaiheena.
 

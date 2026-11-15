@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:19:27-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -75,6 +75,8 @@ Mecanismul explică de ce secvențierea contează mai mult decât instrumentul. 
 Feedbackul între colegi își câștigă propriul loc în secvență. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen și Yan (2026)]] au condus două clase paralele de engleză (N = 118 studenți din anul întâi în China; GenAI n = 56, colegi n = 62) prin trei cicluri de [[self-assessment|autoevaluare]] pe parcursul unui semestru. [[scaffolding|Sprijinul de tip schelă]] oferit de GenAI a îmbunătățit alfabetizarea în feedback ușor, dar semnificativ, față de recenzarea între colegi umani (ANCOVA p = 0,049, ηp² = 0,03). Studenții din grupul GenAI și-au rafinat prompturile iterativ și au verificat sau contestat rezultatele inexacte. Studenții din grupul cu colegi și-au ales sursele după comoditate socială, iar judecata lor evaluativă a fost distorsionată de biasul prieteniei. Recenzarea între colegi a păstrat o valoare distinctă pentru conștientizarea publicului, motiv pentru care autorii propun designuri în mai multe etape, cu feedback anonim între colegi, în loc de o înlocuire.
 
 Avantajul lui Gu et al. a fost mic, iar ei îl citesc ca real, dar nu transformator în sine. Sprijinul de tip schelă al profesorului, ghidurile de promptare și fișele de lucru au făcut munca de susținere.
+
+Sursa poate conta mai puțin decât cronometrul. La 391 de elevi germani din învățământul secundar, feedbackul scris de profesor și feedbackul LLM nu au produs nicio diferență semnificativă în revizuiri, în scrierea ulterioară, în timpul petrecut pe sarcină sau în percepții; distribuțiile posterioare bayesiene au înclinat spre feedbackul profesorului la scrierea ulterioară, dar au păstrat între un sfert și două cincimi din masă în interiorul regiunii de echivalență, iar doar feedbackul IA imediat a atras evaluări mai bune de utilitate și motivație ([[meyer-teacher-ai-feedback-writing-2026|Meyer et al., 2026]]). Dacă un comentariu de primă trecere poate ajunge cât timp studentul încă revizuiește, acea sincronizare face parte din designul care produce efectul.
 
 ## Dă-i modelului o grilă de evaluare și pune-l să își arate pașii
 

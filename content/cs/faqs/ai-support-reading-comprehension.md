@@ -10,9 +10,9 @@ technology: [educational-nlp, generative-ai, llm]
 ethics: [accessibility]
 audience: [instructors, curriculum designers, instructional designers]
 level: [higher ed, secondary, primary education]
-updated: "2026-11-08T04:27:04-05:00"
+updated: "2026-11-15T16:20:19-05:00"
 translation_of: "faqs/ai-support-reading-comprehension"
-source_updated: "2026-11-06T02:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Pokud učíte jakýkoli předmět, vybíráte četbu, upravujete texty a rozhodu
 
 **Najít a upravit texty ve velkém.** AI je silná v hledání zdrojů, zjednodušování slovní zásoby, generování slovníčků a přeměně pasáže na [[study-with-ai|studijního průvodce nebo shrnutí]]. Používejte ji na mechanické části přípravy četby — skenování, stanovení úrovně, vytahování klíčových termínů — a lidskou kontrolu si nechte na to, na čem záleží.
 
-**Modelujte čtenáře, ne text.** Protože proměnné čtenáře nesou velkou část signálu o tom, jak obtížný se text zdá, nástroje, které profilují čtenáře, předpovídají vnímanou obtížnost lépe než jakýkoli vzorec. V největší studii ve znalostní bázi hodnotilo 193 německých středoškoláků 3 954 vět a modely založené na profilech (nejlepší ensemble RMSE 0,822 vs. střední baseline 1,070) porazily skóre Flesch textů, která hodnotila stejný materiál mnohem obtížněji, než studenti zažívali — 72,8 % anotací bylo snadných nebo velmi snadných ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck a Conrad, 2025]]). Praktická verze: hodnocení pasáže od několika studentů porazí štítek jakéhokoli vzorce.
+**Modelujte čtenáře, ne text.** Protože proměnné čtenáře nesou velkou část signálu o tom, jak obtížný se text zdá, nástroje, které profilují čtenáře, předpovídají vnímanou obtížnost lépe než jakýkoli vzorec. V největší studii v této literatuře hodnotilo 193 německých středoškoláků 3 954 vět a modely založené na profilech (nejlepší ensemble RMSE 0,822 vs. střední baseline 1,070) porazily skóre Flesch textů, která hodnotila stejný materiál mnohem obtížněji, než studenti zažívali — 72,8 % anotací bylo snadných nebo velmi snadných ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck a Conrad, 2025]]). Praktická verze: hodnocení pasáže od několika studentů porazí štítek jakéhokoli vzorce.
 
 ## Kde AI zaostává
 

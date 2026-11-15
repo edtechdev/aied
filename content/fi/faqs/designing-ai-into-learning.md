@@ -6,9 +6,9 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-11-01T11:34:42-05:00"
+updated: "2026-11-15T16:19:13-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
 
-Moduulin rungossa on rivi, jossa lukee ”tekoälytoiminta”, eikä kukaan osaa sanoa, mitä se korvaa. Tai opettaja on pyytänyt chatbottia kurssille, joka jo toimii, ja sinun tehtäväsi on sijoittaa se rikkomatta sitä osaa, joka sai kurssin toimimaan.
+Moduulin rungossa on rivi, jossa lukee ”tekoälytoiminta”, eikä kukaan osaa sanoa, mitä se korvaa. Tai opettaja on pyytänyt [[conversational-ai|chatbottia]] kurssille, joka jo toimii, ja sinun tehtäväsi on sijoittaa se rikkomatta sitä osaa, joka sai kurssin toimimaan.
 
 Lähde oppimistavoitteesta ja siitä toiminnasta, joka tuottaa sen. Sama malli voi olla tuki, [[socratic-method|sokraattinen]] kumppani, luonnosten lukija, [[simulation|simulaatio]] tai vastauskone, ja sen, minkä niistä saat, ratkaisee suunnittelu eikä malli. Nimeä tila, jota olet rakentamassa, laita oppijan yritys ennen kuin apua ilmestyy, ja pidä vähintään yksi reitti kurssin läpi, joka toimii ilman työkalua.
 
@@ -42,7 +42,7 @@ Lähde oppimistavoitteesta ja siitä toiminnasta, joka tuottaa sen. Sama malli v
 
 ## Päätä, mitä oppija tekee ilman työkalua
 
-Tietopohjan käsite [[pedagogy|Pedagogiset mallit ja opetusstrategiat]] tarjoaa testin: säilyttääkö kokoonpano sen toiminnan, joka tuottaa aiotun oppimisen? Vastaa siihen paperilla ennen kuin kukaan valitsee ominaisuuden.
+[[pedagogy|Pedagogiset mallit ja opetusstrategiat]] -käsite tarjoaa testin: säilyttääkö kokoonpano sen toiminnan, joka tuottaa aiotun oppimisen? Vastaa siihen paperilla ennen kuin kukaan valitsee ominaisuuden.
 
 [[finkelstein-principled-ai-education-2025|The Principled AI Education Framework]] esittää yleisen säännön: teknologian pitäisi vahvistaa eikä syrjäyttää niitä inhimillisiä kyvykkyyksiä, joita koulutus aikoo kehittää. Moduulin testiksi kirjoitettuna se tarkoittaa kyvykkyyden nimeämistä, sen rakentavan toiminnan nimeämistä ja sen kysymistä, istuuko tekoäly toiminnan sisällä vai sen vieressä.
 
@@ -72,7 +72,7 @@ Tästä seuraa kaksi oppituntia tekoälysuunnitteluun. Sijoita työkalu sinne, m
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] pitää aikaa suunniteltuna tukena eikä oppijan ominaisuutena: omaan tahtiin etenevässä kurssissa on viikoittainen kiintiö, noin 100 minuuttia, tavoitteena lähes 20 minuuttia päivässä, aikatietoiset muistutukset, edistymisen kojelauta ja lyhyt alaosan lopun tarkistus, jossa on 3–12 kysymystä. Lähtötilanne, johon tämä suunnittelu vastaa, on karu: lähes 25 prosenttia yli 600 oppijasta aloittaa vasta viimeisellä viikolla ja 95 prosenttia tästä ryhmästä epäonnistuu.
 
-Lue se suunnitteluvihjeeksi, ei todistetuksi vaikutukseksi. Tutkielma vertaa myöhäisempää kurssia aiempaan sen sijaan, että tekisi kontrolloidun kokeen, joten parannusta ei voi erottaa kohortin ja oppiaineen vaihtumisesta, ja muistutukset, jotka ovat tarpeeksi vahvoja siirtämään opiskeluajankohtaa, ovat myös [[privacy|yksityisyys]]kysymys, johon sinun on vastattava opetussuunnitelmassa.
+Lue se suunnitteluvihjeeksi, ei todistetuksi vaikutukseksi. Tutkielma vertaa myöhäisempää kurssia aiempaan sen sijaan, että tekisi [[rct|kontrolloidun kokeen]], joten parannusta ei voi erottaa kohortin ja oppiaineen vaihtumisesta, ja muistutukset, jotka ovat tarpeeksi vahvoja siirtämään opiskeluajankohtaa, ovat myös [[privacy|yksityisyys]]kysymys, johon sinun on vastattava opetussuunnitelmassa.
 
 ## Päätä, mitä pidätät, ja milloin palautat sen
 
@@ -100,7 +100,7 @@ Tehokkuus on uudelleensuunnittelun tavoite. Tavoitteiden ja arviointikriteerien 
 
 **”Meillä ei ole aikaa järjestää koko kurssia uudelleen.”** Järjestä sitten yksi moduuli ja yksi arviointi uudelleen. Pidättäydy ja vahvista -sarana on yksi tarkistuspiste, ja ajattele ensin -sekvenssi on kolme ohjetta monisteessa.
 
-**”Meidän tekoälyominaisuudessamme on jo suojakaiteet.”** Suojakaiteet rajoittavat sitä, mitä malli sanoo. Ne eivät ratkaise, yrittikö oppija ensin, häivytetäänkö tuki vai onko olemassa tekoälyvapaa polku. Ne ovat kurssisi suunnittelupäätöksiä, eivät tuotteen asetuksia.
+**”Meidän tekoälyominaisuudessamme on jo [[guardrails|suojakaiteet]].”** Suojakaiteet rajoittavat sitä, mitä malli sanoo. Ne eivät ratkaise, yrittikö oppija ensin, häivytetäänkö tuki vai onko olemassa tekoälyvapaa polku. Ne ovat kurssisi suunnittelupäätöksiä, eivät tuotteen asetuksia.
 
 ## Mitä tehdä tällä viikolla
 

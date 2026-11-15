@@ -12,9 +12,9 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T14:13:23-04:00"
+updated: "2026-11-15T16:23:34-05:00"
 translation_of: faqs/developing-ai-tutor
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ Kolme luetteloa, jotka kirjoitetaan ennen kuin kukaan valitsee mallia:
 
 [[intelligent-tutoring|Älykkään ohjauksen]] kirjallisuus tuo esiin, että vaikuttavuus riippuu [[pedagogy|pedagogisesta]] suunnittelusta eikä pelkästään mallin kyvykkyydestä, ja epäonnistuminen on helppo rakentaa vahingossa. Ohjaaja, joka on optimoitu saattamaan ongelma loppuun, murentaa pohjaa ohjaajalta, joka on optimoitu oppimaan ongelman ratkaisemista, ja läpäisee silti jokaisen kirjoittamasi toiminnallisen testin, koska molemmat tuottavat oikeat loppuvastaukset. Ero on siinä, mitä opiskelija teki kysymyksen ja vastauksen välissä.
 
-Toisesta luettelosta kehitystiimit saavat konkretiaa. Ota osaamistunnus kuten ”derivaatan hallinta” äläkä anna sen tarkoittaa oikean derivaatan tuottamista. Pilko se seuraaviin: sen tunnistaminen, milloin derivaatta on sopiva, derivaatan tulkitseminen hetkellisenä muutosnopeutena, säännön valinta, menettelyn suorittaminen, valinnan perusteleminen, järkevyyden tarkistaminen ja soveltaminen tuntemattomaan ongelmaan. Jokainen näistä on erikseen lokiin kirjattava asia, ja jokainen edellyttää erilaista vastausta, kun se puuttuu. Tämä pilkkominen on myös puolustus [[correct-answer-trap-misconceptions|oikean vastauksen ansaa]] vastaan: siinä oppija päätyy oikeaan vastaukseen virheellisellä päättelyllä ja analytiikkasi kirjaa onnistumisen. [[correct-answer-trap-ai-tutor|Oikean vastauksen ansan tunnistaminen]] ja [[zhang-tutormoments-2026|Kun avusta on haittaa]] kuvaavat molemmat tuon epäonnistumisen versioita tuotannossa.
+Toisesta luettelosta kehitystiimit saavat konkretiaa. Ota osaamistunnus kuten ”derivaatan hallinta” äläkä anna sen tarkoittaa oikean derivaatan tuottamista. Pilko se seuraaviin: sen tunnistaminen, milloin derivaatta on sopiva, derivaatan tulkitseminen hetkellisenä muutosnopeutena, säännön valinta, menettelyn suorittaminen, valinnan perusteleminen, järkevyyden tarkistaminen ja soveltaminen tuntemattomaan ongelmaan. Jokainen näistä on erikseen lokiin kirjattava asia, ja jokainen edellyttää erilaista vastausta, kun se puuttuu. Tämä pilkkominen on myös puolustus [[correct-answer-trap-misconceptions|oikean vastauksen ansaa]] vastaan: siinä oppija päätyy oikeaan vastaukseen virheellisellä päättelyllä ja [[learning-analytics|analytiikkasi]] kirjaa onnistumisen. [[correct-answer-trap-ai-tutor|Oikean vastauksen ansan tunnistaminen]] ja [[zhang-tutormoments-2026|Kun avusta on haittaa]] kuvaavat molemmat tuon epäonnistumisen versioita tuotannossa.
 
 ## Rakenna oppijamalli ennen keskustelua
 
@@ -114,7 +114,7 @@ Testaa vastausten vuotamista, väärinkäsitysten vahvistamista, liiallista myö
 
 ## Laita datan arkkitehtuuri samaan suunnitteludokumenttiin
 
-Kerää vain sellaista oppijadataa, joka on pedagogisesti välttämätöntä, ja pysty sanomaan, miksi kukin kenttä on olemassa. Kun pidät pysyvää muistia tai [[student-modeling|oppijamallia]], tee sen tarkoitus oppijalle näkyväksi, anna hänelle siihen sopiva määräysvalta, suojaa arkaluonteiset tiedot, määrittele säilytysaika ja ohjaa merkitykselliset päätökset opettajalle tai muulle [[human-in-the-loop-ai|ihmisen tarkistuspisteelle]]. Oppijamalli, joka hiljaa kerää luottamusarvion, jota opiskelija ei koskaan näe, on sekä tietosuojaongelma että pedagoginen ongelma.
+Kerää vain sellaista oppijadataa, joka on pedagogisesti välttämätöntä, ja pysty sanomaan, miksi kukin kenttä on olemassa. Kun pidät pysyvää muistia tai [[student-modeling|oppijamallia]], tee sen tarkoitus oppijalle näkyväksi, anna hänelle siihen sopiva määräysvalta, suojaa arkaluonteiset tiedot, määrittele säilytysaika ja ohjaa merkitykselliset päätökset opettajalle tai muulle [[human-in-the-loop-ai|ihmisen tarkistuspisteelle]]. Oppijamalli, joka hiljaa kerää luottamusarvion, jota opiskelija ei koskaan näe, on sekä [[privacy|tietosuoja]]ongelma että pedagoginen ongelma.
 
 Auditoi käyttäytymistä kielitaustojen, kyvykkyystasojen, kulttuurikontekstien, [[accessibility|saavutettavuustarpeiden]] sekä [[prior-knowledge|aikaisemman tiedon]] ja tekoälykokemuksen määrien yli. Erot suoriutumisessa samassa tavoitteessa ovat bugeja, joihin on kiinnitetty opiskelija, eivätkä ne näy kokonaistarkkuusluvussasi.
 
@@ -209,11 +209,11 @@ Sitoutuminen on tavoite. Keskustelun pituus ja istuntojen määrä ovat halvimma
 
 **”Opiskelijat rakastavat sitä ja valmistuminen on noussut.”** Molemmat tosiasiat sopivat yhteen järjestelmän kanssa, joka vastaa kysymyksiin hyvin eikä opeta mitään. 6 000 opiskelijan tutkimus löysi hitaamman edistymisen ja vähemmän yritettyjä tehtäviä paremman tarkkuuden ohella, joten valmistumisen lasku ei sekään ole automaattisesti huono uutinen. Raportoi itsenäinen suoriutuminen sitoutumislukujen vieressä ja anna kahden olla julkisesti eri mieltä.
 
-**”Emme voi tehdä satunnaistettua koetta.”** Voit tehdä opiskelijan sisäisen vertailun ilman sitä: sama tavoite, tuettuna jakson aikana, testattuna itsenäisesti kaksi viikkoa myöhemmin, ja tuettu pistemäärä raportoidaan sen vieressä. Se asetelma vastaa tuotekysymykseen eikä vaadi kontrollihaaraa. Sitä se ei kerro, mitä niille opiskelijoille olisi tapahtunut, jotka eivät koskaan käyttäneet ohjaajaa.
+**”Emme voi tehdä [[rct|satunnaistettua koetta]].”** Voit tehdä opiskelijan sisäisen vertailun ilman sitä: sama tavoite, tuettuna jakson aikana, testattuna itsenäisesti kaksi viikkoa myöhemmin, ja tuettu pistemäärä raportoidaan sen vieressä. Se asetelma vastaa tuotekysymykseen eikä vaadi kontrollihaaraa. Sitä se ei kerro, mitä niille opiskelijoille olisi tapahtunut, jotka eivät koskaan käyttäneet ohjaajaa.
 
-**”Malli on toimittajan API, joten apukäyttäytyminen ei ole käsissämme.”** Askelmat asuvat orkestrointikerroksessasi, ja suojakaidekokeen tulos syntyi muuttamalla sitä, mitä ohjaajan oli lupa sanoa, ei vaihtamalla mallia. Odota, että toimittajan jälkikoulutus vetää kohti nopeaa vastaamista, koska avuliaisuus on se, mihin se viritettiin, ja pane pidättyväisyys omaan koodiisi.
+**”Malli on toimittajan API, joten apukäyttäytyminen ei ole käsissämme.”** Askelmat asuvat orkestrointikerroksessasi, ja suojakaidekokeen tulos syntyi muuttamalla sitä, mitä ohjaajan oli lupa sanoa, ei vaihtamalla mallia. Odota, että toimittajan [[llm-training-and-fine-tuning|jälkikoulutus]] vetää kohti nopeaa vastaamista, koska avuliaisuus on se, mihin se viritettiin, ja pane pidättyväisyys omaan koodiisi.
 
-**”Opettajat eivät ota käyttöön yhtä kojelautaa lisää.”** He eivät ota käyttöön sellaista, joka tuottaa jatkuvaa diagnostiikkaa, jonka perusopetuksen katsaus havaitsi vievän huomiota heidän omalta havainnoinniltaan. Anna heille pieni määrä tulkittavia signaaleja, tapa hyväksyä tai hylätä kukin suositus ja aikaa viikossa niiden katsomiseen.
+**”Opettajat eivät ota käyttöön yhtä kojelautaa lisää.”** He eivät ota käyttöön sellaista, joka tuottaa jatkuvaa diagnostiikkaa, jonka [[k-12|perusopetuksen]] katsaus havaitsi vievän huomiota heidän omalta havainnoinniltaan. Anna heille pieni määrä tulkittavia signaaleja, tapa hyväksyä tai hylätä kukin suositus ja aikaa viikossa niiden katsomiseen.
 
 **”Meillä ei ole henkilöstössä alan asiantuntijoita.”** Silloin ohjaaja opettaa yleistä menetelmää ja kurssin merkintätapa ajautuu lukukauden aikana. Oppiaineen asiantuntija kahdeksi päiväksi suunnitteluvaiheessa, kirjoittamaan väärinkäsityslista ja hyväksyttyjen menetelmien lista, on projektin halvin erä ja se, jonka tiimit leikkaavat ensimmäisenä.
 

@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
 audience: [instructors, instructional designers]
-updated: "2026-10-29T14:13:23-04:00"
+updated: "2026-11-15T16:22:16-05:00"
 translation_of: faqs/incorporating-ai-literacy
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ Ydinasia: lisää vaihe työhön, jota jo arvioit, niin että opiskelijat sitout
 
 ## Älä lisää oppituntia, lisää vaihe työhön, jota jo arvioit
 
-Instituution oletusliike on erillinen moduuli, yleensä lukukauden alussa, siitä, miten suuret kielimallit toimivat ja miten kehotteita kirjoitetaan. [[ai-literacy|Tekoälylukutaidon]] synteesi esittää toisenlaisen järjestelyn: opiskelijat kehittävät hyödyllisempää lukutaitoa, kun he käyttävät, kyseenalaistavat, varmistavat, kritisoivat ja päättävät tekoälystä aidoissa kurssitehtävissä, toistuvasti. Liike kohti kriittistä arviointia näkyy selvimmin siellä, missä nämä kokemukset ovat kestäviä ja upotettuja eikä kertaalleen toimitettuja ([[ai-literacy-continuum-higher-education|Käytännöllinen viisivaiheinen jatkumo tekoälylukutaitoon korkeakoulutuksessa]]).
+Instituution oletusliike on erillinen moduuli, yleensä lukukauden alussa, siitä, miten [[llm|suuret kielimallit]] toimivat ja miten kehotteita kirjoitetaan. [[ai-literacy|Tekoälylukutaidon]] synteesi esittää toisenlaisen järjestelyn: opiskelijat kehittävät hyödyllisempää lukutaitoa, kun he käyttävät, kyseenalaistavat, varmistavat, kritisoivat ja päättävät tekoälystä aidoissa kurssitehtävissä, toistuvasti. Liike kohti kriittistä arviointia näkyy selvimmin siellä, missä nämä kokemukset ovat kestäviä ja upotettuja eikä kertaalleen toimitettuja ([[ai-literacy-continuum-higher-education|Käytännöllinen viisivaiheinen jatkumo tekoälylukutaitoon korkeakoulutuksessa]]).
 
 [[quantitative-research|Määrällinen]] näyttö osoittaa samaan suuntaan. [[liu-ai-literacy-interventions-meta-analysis-2026|Meta-analyysi 59 tekoälylukutaitointerventiosta]] löysi suurimmat vaikutukset integroiduista ja reflektiivisistä pedagogioista. Se varoittaa myös, että tietokeskeiset interventiot näyttävät suurempia *mitattuja* vaikutuksia kuin taitoihin, asenteisiin tai etiikkaan kohdistuvat. Pidä tämä mielessä, kun valitset, mitä mittaat.
 
@@ -79,11 +79,11 @@ Sinun ei tarvitse keksiä suunnittelua. Useita on dokumentoitu, ja jokainen on t
 
 Taloustieteen opiskelijat ratkaisevat ongelman ensin, hankkivat generatiivisen tekoälyn vastauksen, vertaavat sitä päättelyynsä, kritisoivat tekoälyä, reflektoivat ja keskustelevat sitten vertaisten kanssa ([[beck-genai-literacy-economics-hands-on|Generatiivisen tekoälyn lukutaidon edistäminen taloustieteessä]]).
 
-Psykologian opiskelijat arvioivat ChatGPT:n tuottaman tiedotteen kurssin kriteeristöä vastaan, tunnistavat heikkoudet ja korjaavat sen, mikä kehittää alakohtaista ja palautelukutaitoa samassa tehtävässä ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Generatiivinen tekoäly psykologisen, palaute- ja tekoälylukutaidon edistäjänä]]).
+Psykologian opiskelijat arvioivat ChatGPT:n tuottaman tiedotteen kurssin kriteeristöä vastaan, tunnistavat heikkoudet ja korjaavat sen, mikä kehittää alakohtaista ja [[feedback-literacy|palautelukutaitoa]] samassa tehtävässä ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Generatiivinen tekoäly psykologisen, palaute- ja tekoälylukutaidon edistäjänä]]).
 
 Biologia integroi aktiviteetit alakohtaiseen oppimiseen sen sijaan että opettaisi erillisen teknisen aiheen ([[zha-ai-literacy-biology-case-study|Tekoälylukutaidon opetuksen integrointi biologian kurssille]]). Tietokanta- ja suunnittelukurssit käyttävät epäonnistumisanalyysia oppimisaktiviteettina, jossa opiskelijat analysoivat tekoälyn tuottamia virheitä ja iteroivat kehotteita ja ratkaisuja ([[pedagogy-ai-mistakes|Tekoälyn virheiden pedagogiikka]]). LearnAI-malli upottaa juuri oikeaan hetkeen ajoitetun tekoälyn yhteisluomisen tieteenalojen poikki yhden yleisen moduulin sijaan ([[learnai-just-in-time-ai-cocreation-university-2026|LearnAI: juuri oikeaan hetkeen ajoitettu tekoälyn yhteisluominen tieteenalojen yli]]).
 
-Yksi varoitus tulee luvun kera. Uudelleensuunniteltu hiukkasfysiikan johdantokurssi salli generatiivisen tekoälyn eksplisiittisenä kumppanina tutkimuksen muotoisissa ongelmissa, ja avustamaton kirjallinen koe tuotti keskiarvon 20,6 pisteestä 80:stä, ja vain kaksi opiskelijaa ylsi 40:een ([[ai-particle-physics-education-redesign-2026|Tekoäly hiukkasfysiikan opetuksessa]]). Avustettu suoritus ja itsenäisesti palautettava tieto ovat erillisiä saavutuksia. Kirjoittajat esittävät tekoälylukutaidon opettamista, mukaan lukien varmistaminen ja tekoälyn kohteleminen opettajana eikä kopiokoneena, varhain ja omistetun avustamattoman harjoittelun rinnalla. [[physics-education|Fysiikan opetus]] sisältää täydemmän tapauksen.
+Yksi varoitus tulee luvun kera. Uudelleensuunniteltu hiukkasfysiikan johdantokurssi salli generatiivisen tekoälyn eksplisiittisenä kumppanina tutkimuksen muotoisissa ongelmissa, ja avustamaton kirjallinen koe tuotti keskiarvon 20,6 pisteestä 80:stä, ja vain kaksi opiskelijaa ylsi 40:een ([[ai-particle-physics-education-redesign-2026|Tekoäly hiukkasfysiikan opetuksessa]]). Avustettu suoritus ja itsenäisesti palautettava tieto ovat erillisiä saavutuksia. Kirjoittajat esittävät tekoälylukutaidon opettamista, mukaan lukien varmistaminen ja tekoälyn kohteleminen [[teacher-role|opettajana]] eikä kopiokoneena, varhain ja omistetun avustamattoman harjoittelun rinnalla. [[physics-education|Fysiikan opetus]] sisältää täydemmän tapauksen.
 
 On myös versio, jossa opiskelijat tekevät jotain todelliselle yleisölle. Burriss ym. antoivat 22 yhdennentoista luokan opiskelijan koostaa videomuotoisia palveluviestejä tekoälyn [[ethics|eettisistä]] kysymyksistä, joiden kanssa he elivät: koulujen valvonta, sähköiset ”kulkuluvat” ja algoritminen [[academic-integrity|plagiointisyytös]]. Yksikkö nojasi kriittiseen posthumanistiseen lukutaitoon ja [[multimodal|multimodaaliseen]] koostamiseen. Opiskelijat kuvasivat haitan nousevan sotkeutuneesta ihmisen ja koneen vastuusta eikä pahantahtoisesta työkalusta, käänsivät huijauskertomuksen aikuisten liialliseen luottamukseen virheelliseen tekoälyyn ja päättivät [[agency|toimijuuteen]] (”ratkaisu on ulottuvillamme”). Kirjoittajat asettavat [[storytelling-in-education|tarinankerronnan]] ja yhteistoiminnallisen tuottamisen [[critical-pedagogy|kriittisen tekoälylukutaidon pedagogiikan]] keskiöön ja esittävät, että *tekoälystä* koostaminen todelliselle yleisölle kehittää kriittistä osaamista, jota osaamismittarit eivät näe ([[burriss-multimodal-composition-critical-ai-literacy-2026|”Young Scholar[s] on the Beat”]]). Tuo väite on argumentti yhdestä yksiköstä 22 opiskelijan kanssa, joten lue se suunnitteluideana eikä vaikutuskokona.
 
@@ -117,7 +117,7 @@ Parempi kehotteiden kirjoittaminen ei korjaa mallia. Kontekstuaalista mielistely
 
 Tekoälylukutaito tarkoittaa kehotteiden opettamista. Kehotteet ovat näkyvä osa. Opiskelijoista voi tulla teknisesti päteviä näiden työkalujen kanssa ja silti huonoja arvioimaan sitä, mitä niistä tulee ulos, ja yllä oleva riippuvuushavainto osoittaa samaan suuntaan.
 
-Yksi istunto riittää. Istunto voi esitellä sanaston. Näyttö toistuvasta harjoittelusta todellisella kurssimateriaalilla on vahvempaa, ja 59 intervention meta-analyysi löysi suurimmat vaikutukset siellä, missä työ oli integroitua ja reflektiivistä.
+Yksi istunto riittää. Istunto voi esitellä sanaston. Näyttö toistuvasta harjoittelusta todellisella kurssimateriaalilla on vahvempaa, ja 59 intervention [[meta-analysis-systematic-review|meta-analyysi]] löysi suurimmat vaikutukset siellä, missä työ oli integroitua ja reflektiivistä.
 
 Näitä työkaluja päivittäin käyttävät opiskelijat osaavat jo arvioida tuotosta. Yan ym. löysivät 76,32 % 38 kandidaatista yhden vuoron kaavassa, ja tietojenkäsittelyn synteesi löysi opiskelijoiden suoriutuvan merkittävästi huonommin tekoälyn tuottaman koodin korjaamisessa kuin tavallisissa ohjelmoinnin koetehtävissä. Käyttöliittymän tuttuus ei ole kalibraatiota.
 
@@ -125,7 +125,7 @@ Aktiviteetin täytyy käsitellä työkalua. Vahvemmat suunnitelmat käsittelevä
 
 Kriittinen arviointi siirtyy ainetiedosta. Ei siirry, ja siksi tietojenkäsittelyn tulos on tärkeä. Opiskelija, joka osaa kirjoittaa oikeaa koodia, ei automaattisesti osaa diagnosoida väärää koodia, jonka joku muu kirjoitti, ja sama kuilu näkyy proosassa.
 
-Itsevarmuus on käyttökelpoinen sijaisindikaattori. Itseraportointi ja suoritus erkanevat tässä kirjallisuudessa, ja ero on riittävän systemaattinen, että tietopohja suosittaa suoritusmittareita. Pyydä näyttö.
+Itsevarmuus on käyttökelpoinen sijaisindikaattori. Itseraportointi ja suoritus erkanevat tässä kirjallisuudessa, ja ero on riittävän systemaattinen, että näyttö suosittaa suoritusmittareita. Pyydä näyttö.
 
 ## Mitä sinulle vastataan
 

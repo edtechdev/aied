@@ -13,9 +13,9 @@ level: [higher ed]
 audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-11-08T05:10:57-05:00"
+updated: "2026-11-15T16:26:28-05:00"
 translation_of: faqs/research-gaps-aied
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -85,7 +85,7 @@ Ami hiányzik, az a teljes értékelési lánc validálása, a modell viselkedé
 
 A MI két összekapcsolt értékelési problémát teremt: segít előállítani az értékelt munkát, és befolyásolhatja, hogyan pontozzák azt.
 
-A tudásbázis [[ai-agents-complete-lms-assessment-validity-2026|tanulmánya az értékelt LMS-feladatokat teljesítő MI-ügynökökről]] olyan ügynököket dokumentál, amelyek egy élő egyetemi kurzuson navigáltak és befejezték az értékelt tevékenységeket. Ez olyan képességet mutat, amely megkérdőjelezi a diákok által előállított bizonyítékra vonatkozó feltevéseket. Nem állapítja meg, mennyire gyakori az ilyen használat, és nem teszi érvénytelenné az aszinkron értékelést mint kategóriát.
+Az [[ai-agents-complete-lms-assessment-validity-2026|értékelt LMS-feladatokat teljesítő MI-ügynökökről szóló tanulmány]] olyan ügynököket dokumentál, amelyek egy élő egyetemi kurzuson navigáltak és befejezték az értékelt tevékenységeket. Ez olyan képességet mutat, amely megkérdőjelezi a diákok által előállított bizonyítékra vonatkozó feltevéseket. Nem állapítja meg, mennyire gyakori az ilyen használat, és nem teszi érvénytelenné az aszinkron értékelést mint kategóriát.
 
 A kutatási kérdés az, mely tervezések támogatják továbbra is a tanulóról alkotott védhető következtetéseket. A [[eportfolio|portfóliók]], a reflexiók, a szakaszos beadások és a tevékenységnaplók validálást igényelnek bizonyítékként ahelyett, hogy feltételeznénk róluk, hogy megállapítják a szerzőséget vagy a megértést. A vizsgálatoknak a bizonyítékok kombinációit kell tesztelniük függetlenül megfigyelt kompetenciával szemben, miközben számolnak az akadálymentességgel, a munkaterheléssel, a magánélettel és a [[anxiety-and-stress|diákok szorongásával]]. Az [[assessment-validity|Értékelési érvényesség]] tartalmazza a részleteket.
 
@@ -119,7 +119,7 @@ A kutatási prioritás azoknak a tervezéseknek az azonosítása, amelyek csökk
 
 Ahogy a rendszerek terveznek, cselekvéseket indítanak, memóriát tartanak és eszközöket hangolnak össze, az oktatási kérdés az lesz, ki irányítsa a tanulási folyamat mely részeit, és mikor kell ennek az irányításnak elmozdulnia.
 
-Az [[agentic-ai-education-scoping-review|Ügynöki MI az oktatásban: áttekintő tanulmány]] 474 vizsgálatot térképez fel, és korlátozott longitudinális validálást, a [[higher-ed|felsőoktatásra]] és a STEM-re való összpontosítást, valamint gyenge oktatáselméleti integrációt talál: az áttekintett vizsgálatok csak 29%-a épített kifejezetten oktatáselméletre, ami erről a korpuszról szóló megállapítás, nem az összes AIED-munkáról.
+Az [[agentic-ai-education-scoping-review|Ügynöki MI az oktatásban: áttekintő tanulmány]] 474 vizsgálatot térképez fel, és korlátozott longitudinális validálást, a [[higher-ed|felsőoktatásra]] és a STEM-re való összpontosítást, valamint gyenge oktatáselméleti integrációt talál: az áttekintett vizsgálatok csak 29%-a épített kifejezetten oktatáselméletre, ami ezekről a vizsgálatokról szóló megállapítás, nem az összes AIED-munkáról.
 
 A nyitott kérdések következnek. A tanuló által kezdeményezett segítség más eredményeket termel-e, mint az ügynök által kezdeményezett? Visszavonható-e a támogatás a kompetencia fejlődésével veszteség nélkül? Megtartják-e a tanulók a rendszer megkérdőjelezésének képességét? Az [[agentic-ai|Ügynöki MI]] és a [[human-ai-collaboration|Ember és MI együttműködése]] szintézisek hozzáadják a [[teacher-role|tanári]] beavatkozást és elszámoltathatóságot a többügynökös környezetekben, ahol senki nem állapította meg, ki felel egy ügynök döntéséért. A nagyobb autonómia pedagógiai tervezési döntés, amelynek bizonyítékbázisa még felépítésre vár.
 

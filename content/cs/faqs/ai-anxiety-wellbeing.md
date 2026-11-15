@@ -9,9 +9,9 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:16:14-05:00"
 translation_of: faqs/ai-anxiety-wellbeing
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -105,7 +105,7 @@ Cílem je úzkost snížit. Kim (2026) zjistil, že úzkost pozitivně souvisí 
 
 Sebevědomí chrání studenty před kariérní škodou. V modelu Duan et al. je [[self-efficacy|sebeúčinnost]] nezmírnila. Zprostředkovanou cestu nesla kariérová adaptabilita.
 
-To je problém [[student-support-and-success|studentských služeb]]. Většina kroků na této stránce je výuková: procvičování s nízkými riziky, vedené hodnocení výstupu AI, revize řízená zpětnou vazbou a sdělení očekávání, které studenti mohou číst. Znalost cesty předání je mezi nimi jedna položka.
+To je problém [[student-support-and-success|studentských služeb]]. Většina kroků je výuková: procvičování s nízkými riziky, vedené hodnocení výstupu AI, revize řízená zpětnou vazbou a sdělení očekávání, které studenti mohou číst. Znalost cesty předání je mezi nimi jedna položka.
 
 Chatbot pro well-being je škálovatelná odpověď na tenkou kapacitu poradenství. Dostupnost je skutečná a přitažlivost pochopitelná. Přesnost na jednom rozdělení dat není důkaz, že je zdrcenému studentovi lépe, a otázky chybné klasifikace, ukládání a eskalace nemají v zde citované práci publikované odpovědi.
 
@@ -117,7 +117,7 @@ Chatbot pro well-being je škálovatelná odpověď na tenkou kapacitu poradenst
 
 **„Jsem učitel odborných předmětů, ne poradce.“** Nikdo po vás nechce, abyste někoho léčil. Procvičování s nízkými riziky, kritický úkol a revizní smyčka jsou běžné výukové kroky. Jediné zjištění, které mluví k vaší pozici, je vztah učitele a studenta na druhém místě v analýze důležitosti příznaků u Bashir a Afzal (10,0 %), nad kvalitou spánku (9,3 %) a sociální podporou (7,6 %). Autoři to nazývají hypotézou a je to rozumná sázka na roli, kterou už zastáváte.
 
-**„Nemáme kapacitu poradenství, takže nástroj je lepší než nic.“** Možná, a tato stránka to nemůže rozhodnout. Na čem můžete před nasazením trvat, jsou písemné odpovědi o validaci přesnosti, o tom, jak se rozhoduje o úrovni podpory, co se stane při škodlivé chybné klasifikaci, jak se sdělení ukládají a jak funguje eskalace k člověku. Žádné odpovědi, žádné nasazení. Student, který se svěří nástroji, jenž to zařadí špatně, to už podruhé neřekne.
+**„Nemáme kapacitu poradenství, takže nástroj je lepší než nic.“** Možná, a důkazy to nemohou rozhodnout. Na čem můžete před nasazením trvat, jsou písemné odpovědi o validaci přesnosti, o tom, jak se rozhoduje o úrovni podpory, co se stane při škodlivé chybné klasifikaci, jak se sdělení ukládají a jak funguje eskalace k člověku. Žádné odpovědi, žádné nasazení. Student, který se svěří nástroji, jenž to zařadí špatně, to už podruhé neřekne.
 
 **„Když budu ve výuce mluvit o kariérních vyhlídkách, překračuji svůj předmět.“** Alternativa je, že si studenti svou odpověď složí z trhu práce a od sebe navzájem. Duan et al. doporučují kariérové plánování jako součást akademického programu a Dağ et al. je doporučují spolu s gramotností v oblasti AI. Můžete ten rozhovor hostit, aniž byste si nárokoval odbornost v něm, a jednotlivé případy nasměrovat na kariérové služby.
 

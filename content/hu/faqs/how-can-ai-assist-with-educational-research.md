@@ -14,9 +14,9 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:19:08-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ A rövid válasz arra a megbeszélésre: a MI elvégezheti a keresést, az első
 
 **5.** Ellenőrizze kézzel minden hivatkozást, kezdve a szerzőkkel, valahányszor a MI hozzányúlt a szöveghez.
 
-**6.** Naplózza a promptokat, a modellverziókat és a korpuszverziókat, és tervezze be az ehhez szükséges órákat.
+**6.** Naplózza a promptokat, a modellverziókat és az adatkészlet-verziókat, és tervezze be az ehhez szükséges órákat.
 
 ## Döntse el, mihez nyúlhat a MI, még a projekt kezdete előtt
 
@@ -60,7 +60,7 @@ Az előny nagy része két tervezési döntésből származik. Írjon döntési 
 
 ## Rögzítse a kódkönyvet, mielőtt a modell bármit elolvas
 
-A [[qualitative-research|kvalitatív elemzés]] az a szakasz, ahol az értelmezés maga a termék. A konstruktumok, a kódolási rubrikák és a tanítási adatok emberi döntések, nem modellkimenetek ([[ai-methodologies-science-education-research-2026|Martin és mtsai, 2026]]), ami azt jelenti, hogy a kódkönyvet rögzíteni kell, mielőtt egy automatizált kör végigfut a korpuszon. Az ellenkező út egy olyan kódolási séma, amelyet ahhoz írtak, amit a modell éppen felszínre hozott, és a témák ekkor az eszköz olvasatát írják le az Ön adatairól.
+A [[qualitative-research|kvalitatív elemzés]] az a szakasz, ahol az értelmezés maga a termék. A konstruktumok, a kódolási rubrikák és a tanítási adatok emberi döntések, nem modellkimenetek ([[ai-methodologies-science-education-research-2026|Martin és mtsai, 2026]]), ami azt jelenti, hogy a kódkönyvet rögzíteni kell, mielőtt egy automatizált kör végigfut az adatkészleten. Az ellenkező út egy olyan kódolási séma, amelyet ahhoz írtak, amit a modell éppen felszínre hozott, és a témák ekkor az eszköz olvasatát írják le az Ön adatairól.
 
 A delegálás finomabb lehet, mint a mindent vagy semmit. [[agreement-not-quality-llm-coding-verification|Egy vak ellenőrzéses vizsgálat]] a 72 kódkönyvi tételből 15-öt sorolt be úgy, mint amely bizonyíthatóan emberi szakértelmet igényel, 12-t úgy, mint amelyet modell jobban szolgál ki, és 16-ot úgy, mint amely bizalmi szinten alapuló előválogatásra alkalmas. Ha a saját tételeit így rendezi, a munkamegtakarítás oda esik, ahol biztonságos.
 
@@ -88,13 +88,13 @@ A hiba konkrét. [[zhang-platform-scores-miss-ai-teaching-agents-2026|Nyolc MI-t
 
 A bevezetés előrébb tart, mint a beszámolás. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta és Lin (2026)]] 888 áttekintés-automatizálási cikket elemzett: 2023 óta a szoftver- és termékcikkek 38,0%-a egyáltalán nem számolt be értékelésről, szemben az LLM-cikkek 9,3%-ával, a modellhozzáférés pedig túlnyomórészt zárt volt (84,1%). A kedvező összesített megítélés sem jelentett delegálhatóságot, mivel a 118 csak pozitív eredményt közlő LLM-cikk 52%-a így is jelzett olyan aggályt, hogy a munkafolyamat a szerepéhez szükséges mércét nem éri el. [[meta-analysis-systematic-review|PRISMA]]-LLM keretrendszerük különválasztja a megvalósítás közzétételét a következményérzékeny értékeléstől, és öt szintjét a közzététel, nem a kockázat szintjeiként kezeli.
 
-A gyakorlati változat: nevezze meg a rendszert és a verzióját, a promptokat, a korpusz verzióját, azt, hogy mit ellenőrzött ember, és azt, hogy hol hibázott. Tartsa meg a prompt- és válasznaplókat, mert egy gördülékeny, generált témalista jóval azelőtt tűnik magától értetődőnek, hogy a bizonyítékértékű munkája elkezdődött volna ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
+A gyakorlati változat: nevezze meg a rendszert és a verzióját, a promptokat, az adatkészlet verzióját, azt, hogy mit ellenőrzött ember, és azt, hogy hol hibázott. Tartsa meg a prompt- és válasznaplókat, mert egy gördülékeny, generált témalista jóval azelőtt tűnik magától értetődőnek, hogy a bizonyítékértékű munkája elkezdődött volna ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
 Az órákat is tervezze be. [[persistent-ai-agents-academic-research|Egy 115 napos, egyetlen kutatóra épülő esettanulmány]] egy tartós kutatási ügynökről azt találta, hogy a legerősebb minta a kapacitásbővülés volt, nem a bizonyított munkakiváltás: ahogy a memória és az eljárások felhalmozódtak, a delegált munka terjedelme nőtt, miközben az emberi ráfordítás nem csökkent.
 
 ## Folytasson gyakorlati kutatást ugyanezekkel a szabályokkal, kisebb léptékben
 
-Ha oktatóként a saját kurzusát kutatja, a korpusz legvékonyabb szálán dolgozik. Az [[ai-assisted-educational-research|MI-támogatott oktatási kutatás]] ezt hiányként, nem eredményként rögzíti: a MI-támogatott gyakorlati kutatás feltehetően elterjedt és szinte dokumentálatlan, az áttekintés-automatizálási és bibliometriai bizonyítékok pedig nem döntik el, hogyan kutassa egy oktató a saját tanítását.
+Ha oktatóként a saját kurzusát kutatja, a szakirodalom legvékonyabb szálán dolgozik. Az [[ai-assisted-educational-research|MI-támogatott oktatási kutatás]] ezt hiányként, nem eredményként rögzíti: a MI-támogatott gyakorlati kutatás feltehetően elterjedt és szinte dokumentálatlan, az áttekintés-automatizálási és bibliometriai bizonyítékok pedig nem döntik el, hogyan kutassa egy oktató a saját tanítását.
 
 Ami átvihető, az egy sor beállítódás:
 

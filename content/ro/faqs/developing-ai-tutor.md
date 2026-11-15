@@ -12,9 +12,9 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T15:41:26-04:00"
+updated: "2026-11-15T16:22:37-05:00"
 translation_of: faqs/developing-ai-tutor
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ Trei liste, scrise înainte ca cineva să aleagă un model:
 
 Literatura despre [[intelligent-tutoring|tutoratul inteligent]] arată că eficacitatea depinde de designul [[pedagogy|pedagogic]], nu doar de capacitatea modelului, iar eșecul este ușor de construit din greșeală. Un tutore optimizat pentru „termină problema” va submina un tutore optimizat pentru „învață să rezolvi problema” trecând în același timp fiecare test funcțional pe care îl scrii, pentru că ambele produc răspunsuri finale corecte. Diferența stă în ce a făcut studentul între întrebare și răspuns.
 
-A doua listă este locul unde echipele de dezvoltare devin concrete. Ia o etichetă de stăpânire precum „stăpânirea derivatei” și refuză să o lași să însemne producerea derivatei corecte. Desparte-o în a recunoaște când o derivată este potrivită, a o interpreta ca rată instantanee de schimbare, a selecta regula, a executa procedura, a explica de ce alegerea a fost corectă, a verifica plauzibilitatea și a o aplica la o problemă nefamiliară. Fiecare dintre acestea este un lucru separat de înregistrat și fiecare implică un răspuns diferit când lipsește. Această descompunere este și apărarea împotriva [[correct-answer-trap-misconceptions|capcanei răspunsului corect]], în care un învățăcel ajunge la răspunsul corect printr-un raționament defectuos, iar analitica ta înregistrează un succes. [[correct-answer-trap-ai-tutor|Catching the Correct Answer Trap]] și [[zhang-tutormoments-2026|When Help is Unhelpful]] descriu amândouă versiuni ale acelui eșec în producție.
+A doua listă este locul unde echipele de dezvoltare devin concrete. Ia o etichetă de stăpânire precum „stăpânirea derivatei” și refuză să o lași să însemne producerea derivatei corecte. Desparte-o în a recunoaște când o derivată este potrivită, a o interpreta ca rată instantanee de schimbare, a selecta regula, a executa procedura, a explica de ce alegerea a fost corectă, a verifica plauzibilitatea și a o aplica la o problemă nefamiliară. Fiecare dintre acestea este un lucru separat de înregistrat și fiecare implică un răspuns diferit când lipsește. Această descompunere este și apărarea împotriva [[correct-answer-trap-misconceptions|capcanei răspunsului corect]], în care un învățăcel ajunge la răspunsul corect printr-un raționament defectuos, iar [[learning-analytics|analitica]] ta înregistrează un succes. [[correct-answer-trap-ai-tutor|Catching the Correct Answer Trap]] și [[zhang-tutormoments-2026|When Help is Unhelpful]] descriu amândouă versiuni ale acelui eșec în producție.
 
 ## Construiește modelul învățăcelului înainte de conversație
 
@@ -114,7 +114,7 @@ Testează scurgerea răspunsului, întărirea concepțiilor greșite, acordul ex
 
 ## Pune arhitectura de date în același document de design
 
-Colectează doar datele despre învățăcel care sunt necesare pedagogic și fii în stare să spui de ce există fiecare câmp. Acolo unde ții memorie persistentă sau un [[student-modeling|model al învățăcelului]], fă-i scopul vizibil pentru învățăcel, dă-i un control adecvat asupra lui, protejează informațiile sensibile, definește retenția și îndrumă deciziile cu consecințe către un instructor sau un alt punct de control [[human-in-the-loop-ai|uman]]. Un model al învățăcelului care acumulează în tăcere o estimare de încredere pe care studentul nu o vede niciodată este o problemă de protecție a datelor și una pedagogică.
+Colectează doar datele despre învățăcel care sunt necesare pedagogic și fii în stare să spui de ce există fiecare câmp. Acolo unde ții memorie persistentă sau un [[student-modeling|model al învățăcelului]], fă-i scopul vizibil pentru învățăcel, dă-i un control adecvat asupra lui, protejează informațiile sensibile, definește retenția și îndrumă deciziile cu consecințe către un instructor sau un alt punct de control [[human-in-the-loop-ai|uman]]. Un model al învățăcelului care acumulează în tăcere o estimare de încredere pe care studentul nu o vede niciodată este o problemă de [[privacy|protecție a datelor]] și una pedagogică.
 
 Auditează comportamentul între medii lingvistice, niveluri de abilitate, contexte culturale, nevoi de [[accessibility|accesibilitate]] și niveluri de [[prior-knowledge|cunoaștere prealabilă]] și experiență cu IA. Performanța diferențială pe același obiectiv este un bug cu un student atașat la el și nu va apărea în numărul tău agregat de acuratețe.
 
@@ -209,11 +209,11 @@ Angajamentul este scopul. Lungimea conversației și numărul de sesiuni sunt ce
 
 **„Studenților le place și finalizarea a crescut.”** Ambele fapte sunt consistente cu un sistem care răspunde bine la întrebări și nu predă nimic. Studiul cu 6.000 de studenți a găsit progres mai lent și mai puține întrebări încercate alături de acuratețe mai bună, așa că nici o scădere a finalizării nu este automat o veste proastă. Raportează performanța fără ajutor lângă numerele de angajament și lasă-le să se contrazică în public.
 
-**„Nu putem face un trial randomizat.”** Poți face o comparație în interiorul aceluiași student fără el: același obiectiv, cu asistență în timpul unității, testat fără asistență două săptămâni mai târziu, cu scorul asistat raportat alături. Acel design răspunde la întrebarea de produs și nu are nevoie de un braț de control. Ce nu îți poate spune este contra-factualul pentru studenții care nu au folosit niciodată tutorul.
+**„Nu putem face un [[rct|trial randomizat]].”** Poți face o comparație în interiorul aceluiași student fără el: același obiectiv, cu asistență în timpul unității, testat fără asistență două săptămâni mai târziu, cu scorul asistat raportat alături. Acel design răspunde la întrebarea de produs și nu are nevoie de un braț de control. Ce nu îți poate spune este contra-factualul pentru studenții care nu au folosit niciodată tutorul.
 
-**„Modelul este un API de la furnizor, deci comportamentul de ajutor este în afara mâinilor noastre.”** Treptele stau în stratul tău de orchestrare, iar rezultatul experimentului cu bariere a venit din schimbarea a ce avea voie tutorul să spună, nu din schimbarea modelului. Așteaptă-te ca post-antrenarea furnizorului să tragă spre răspunsuri prompte, pentru că utilitatea este ce a fost reglată, și pune reținerea în propriul tău cod.
+**„Modelul este un API de la furnizor, deci comportamentul de ajutor este în afara mâinilor noastre.”** Treptele stau în stratul tău de orchestrare, iar rezultatul experimentului cu bariere a venit din schimbarea a ce avea voie tutorul să spună, nu din schimbarea modelului. Așteaptă-te ca [[llm-training-and-fine-tuning|post-antrenarea]] furnizorului să tragă spre răspunsuri prompte, pentru că utilitatea este ce a fost reglată, și pune reținerea în propriul tău cod.
 
-**„Profesorii nu vor folosi încă un panou.”** Nu vor folosi unul care emite diagnostice în continuu, despre care revizuirea K-12 a constatat că trage atenția departe de propria observație. Dă-le un număr mic de semnale interpretabile, o modalitate de a accepta sau respinge fiecare recomandare și timp în săptămână ca să se uite la ele.
+**„Profesorii nu vor folosi încă un panou.”** Nu vor folosi unul care emite diagnostice în continuu, despre care [[k-12|revizuirea K-12]] a constatat că trage atenția departe de propria observație. Dă-le un număr mic de semnale interpretabile, o modalitate de a accepta sau respinge fiecare recomandare și timp în săptămână ca să se uite la ele.
 
 **„Nu avem experți pe discipline în echipă.”** Atunci tutorul va preda metodă generică, iar notația cursului va deriva într-un semestru. Un expert de materie pentru două zile în timpul designului, care scrie lista de concepții greșite și lista de metode aprobate, este cel mai ieftin element din proiect și primul pe care echipele îl taie.
 

@@ -14,9 +14,9 @@ discipline: [writing education]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T15:41:26-04:00"
+updated: "2026-11-15T16:22:37-05:00"
 translation_of: faqs/making-ai-better-at-supporting-learning
-source_updated: "2026-10-28T11:21:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 Tichetul spune „antrenează modelul pe materialele cursului nostru”. Bugetul este aprobat, un GPU este rezervat pentru luna viitoare, iar un student la masterat a fost rugat să adune un set de date. Nimeni de pe apel nu a întrebat ce scor obține un prompt simplu sau ce scor obține o căutare pe cuvinte-cheie, pe aceleași întrebări.
 
-Pune mai întâi acele două întrebări. În această bază de cunoștințe, diferența dintre un model general și unul competent pentru un curs este în mare parte o problemă de ancorare în materiale și de prompturi, iar dovada pentru această ordonare este neobișnuit de directă: un studiu asupra unui asistent de curs a constatat că regăsirea, nu modelul, a fost decizia de prim ordin, iar un model general fără ancorare a obținut un scor *sub* o linie de bază simplă TF-IDF.
+Pune mai întâi acele două întrebări. În această literatură, diferența dintre un model general și unul competent pentru un curs este în mare parte o problemă de ancorare în materiale și de prompturi, iar dovada pentru această ordonare este neobișnuit de directă: un studiu asupra unui asistent de curs a constatat că regăsirea, nu modelul, a fost decizia de prim ordin, iar un model general fără ancorare a obținut un scor *sub* o linie de bază simplă TF-IDF.
 
 Antrenarea este reală și uneori necesară. Este al treilea sau al patrulea lucru de încercat, iar materialul de mai jos este ordonat astfel încât să afli de ce treaptă ai efectiv nevoie înainte să cheltui calculele unui trimestru.
 
@@ -52,7 +52,7 @@ Antrenarea este reală și uneori necesară. Este al treilea sau al patrulea luc
 
 Înainte să schimbi ceva, notează ce returnează un prompt simplu. Apoi notează ce returnează o metodă trivială.
 
-Studiul despre [[shen-sustainable-ai-knowledge-base-cs-education-2026|asistentul bazat pe o bază de cunoștințe de curs]] merită citit numai pentru asta. Un LLM local fără regăsire a atins **52,3%** acuratețe. O linie de bază TF-IDF, o metodă lexicală veche de decenii, a atins **55,4%**. Modelul a fost mai slab decât metoda clasică.
+Studiul despre [[shen-sustainable-ai-knowledge-base-cs-education-2026|asistentul bazat pe o bază de cunoștințe de curs]] merită citit numai pentru asta. Un [[llm|LLM]] local fără regăsire a atins **52,3%** acuratețe. O linie de bază TF-IDF, o metodă lexicală veche de decenii, a atins **55,4%**. Modelul a fost mai slab decât metoda clasică.
 
 Sari peste acest pas și nu poți spune dacă ajustarea ta fină a ajutat. Mai rău, poți livra un sistem pe care o căutare pe cuvinte-cheie îl bate și afli abia când un asistent didactic o menționează. Două numere într-un tabel, obținute într-o după-amiază, protejează restul bugetului.
 
@@ -60,9 +60,9 @@ Sari peste acest pas și nu poți spune dacă ajustarea ta fină a ajutat. Mai r
 
 Adăugarea [[rag|generării augmentate prin regăsire]] peste materialele cursului, fără nicio ajustare fină, a ridicat același sistem de la 52,3% la **66,6%**. Câștigul a venit dintr-un index și vine cu o proprietate pe care o rulare de antrenare nu o are: când documentele tale se schimbă, reindexezi.
 
-Alte două rezultate indică în aceeași direcție. O trecere în revistă PRISMA a 23 de studii empirice despre personalizarea IA pentru [[writing-education|predarea scrisului]] a găsit **ingineria de prompt dominantă (N = 13), înaintea ajustării fine (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026|Personalizarea IA pentru predarea scrisului: o trecere în revistă sistematică]]). Acolo unde o bază de cunoștințe trebuie să rămână actuală, regăsirea este singura pârghie care rămâne actuală fără a rula din nou o sarcină de antrenare.
+Alte două rezultate indică în aceeași direcție. O trecere în revistă [[meta-analysis-systematic-review|PRISMA]] a 23 de studii empirice despre personalizarea IA pentru [[writing-education|predarea scrisului]] a găsit **[[prompt-engineering|ingineria de prompt]] dominantă (N = 13), înaintea ajustării fine (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026|Personalizarea IA pentru predarea scrisului: o trecere în revistă sistematică]]). Acolo unde o bază de cunoștințe trebuie să rămână actuală, regăsirea este singura pârghie care rămâne actuală fără a rula din nou o sarcină de antrenare.
 
-Regăsirea are și o formă pedagogică. Ancorarea unui model în propriile tale exemple rezolvate și rubrici este modul în care el rămâne în interiorul [[scaffolding|sprijinului de tip schelă]] pe care l-ai proiectat, răspunzând la nivelul pe care l-ai stabilit, în loc să alunece în sfaturi generice. Acea derivă este cea mai frecventă plângere despre tutorii gata făcuți și este o problemă de regăsire mai des decât o problemă de ponderi.
+Regăsirea are și o formă [[pedagogy|pedagogică]]. Ancorarea unui model în propriile tale exemple rezolvate și rubrici este modul în care el rămâne în interiorul [[scaffolding|sprijinului de tip schelă]] pe care l-ai proiectat, răspunzând la nivelul pe care l-ai stabilit, în loc să alunece în sfaturi generice. Acea derivă este cea mai frecventă plângere despre tutorii gata făcuți și este o problemă de regăsire mai des decât o problemă de ponderi.
 
 ## Scrie promptul față de rubrica ta și urmărește platoul
 
@@ -79,9 +79,9 @@ Observă ce implică rezultatul despre generarea de itemi pentru ordonare. Ajust
 
 Adaptarea merită când ai nevoie ca modelul să dețină o proprietate în mod fiabil: un nivel de lectură, un format de ieșire, un domeniu care îi lipsește. Rezultatul recurent este că **țintirea bate mărimea**.
 
-- Trei modele de **8B** ajustate fin pe o curriculă de lectură pentru copii proiectată de experți au depășit GPT-4o zero-shot și Llama 3.3 70B pe metrici legate de dificultate, cu probleme de siguranță neglijabile. Autorii încadrează asta ca **controlabilitate în locul scalei** ([[llm-children-reading-story-generation|Generarea de povești pentru lectura copiilor cu LLM-uri]]).
+- Trei modele de **8B** ajustate fin pe un [[curriculum-design|curriculum]] de lectură pentru copii proiectat de experți au depășit GPT-4o zero-shot și Llama 3.3 70B pe metrici legate de dificultate, cu probleme de siguranță neglijabile. Autorii încadrează asta ca **controlabilitate în locul scalei** ([[llm-children-reading-story-generation|Generarea de povești pentru lectura copiilor cu LLM-uri]]).
 - Un set de date de instrucțiuni cu **24.795 de exemple**, ancorat în sistemele de cunoaștere indiene, a produs o ajustare fină de **7B** cu scorul **6,39** la un panel extern de cinci judecători, la **0,15** de un model general de referință puternic, cu o fracțiune din costul de implementare. Același model de bază a obținut **aproape zero pe dimensiunile specifice domeniului** fără ajustarea fină ([[iks-instruct-dataset-indian-knowledge|Setul de date IKS Instruct pentru cunoașterea indiană]]). Acea diferență între competent în general și competent aici este tot argumentul pentru adaptarea de domeniu.
-- Un singur adaptor [[llm-training-and-fine-tuning|LoRA]], antrenat pe aproximativ **3.900** de exemple notate puse la un loc, a adus cinci modele mici deschise (de la 4B la 30B) la egalitate sau mai bine cu un evaluator uman la două examene de informatică ([[llm-graders-computer-science-exams-2026|Evaluatori LLM la examene de informatică]]). Un adaptor, un set de date, mai multe modele de bază: aceasta este forma de implementare pe care o poate rula o echipă mică.
+- Un singur adaptor [[llm-training-and-fine-tuning|LoRA]], antrenat pe aproximativ **3.900** de exemple notate puse la un loc, a adus cinci [[open-source|modele mici deschise]] (de la 4B la 30B) la egalitate sau mai bine cu un evaluator uman la două examene de informatică ([[llm-graders-computer-science-exams-2026|Evaluatori LLM la examene de informatică]]). Un adaptor, un set de date, mai multe modele de bază: aceasta este forma de implementare pe care o poate rula o echipă mică.
 
 Cuvântul *stabilă* din titlu duce greutatea. Formatul, rubrica, nivelul de lectură și vocabularul de domeniu sunt ținte stabile. Proza încărcată de judecată nu are o asemenea țintă, iar acolo eșuează adaptarea, cum arată următoarele două secțiuni.
 
@@ -89,7 +89,7 @@ Cuvântul *stabilă* din titlu duce greutatea. Formatul, rubrica, nivelul de lec
 
 Adaptarea învață un model *ce să producă*. Antrenarea posterioară îl învață *cum să se comporte*. Pentru tutorat, această distincție este toată problema: modelele generale sunt antrenate posterior pe preferința umană pentru utilitate, ceea ce înseamnă să răspundă prompt, iar predarea cere să reții răspunsul.
 
-Cele mai puternice rezultate educaționale din acest corpus stau aici. Modelul de recompensă al EduQwen a prioritizat explicit **răspunsurile care îndrumă în locul răspunsurilor directe**, iar pipeline-ul lui în trei etape a atins **96,52%** pe benchmarkul CDPK, față de **90,55%** al Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026|Singh et al. despre EduQwen și învățarea prin întărire pedagogică]]). Simulatorul de scriere SWIM a trecut de la promptare ancorată în rubrică (cel mai bun QWK **0,577**) la ajustare fină supervizată (**0,474 ± 0,023**) și la învățare prin întărire (**0,618 ± 0,005**) pe fiecare trăsătură și fiecare prompt ([[swim-student-writing-simulation-2026|Simulatorul de scriere a studenților SWIM]]).
+Cele mai puternice rezultate educaționale din acest corpus stau aici. Modelul de recompensă al EduQwen a prioritizat explicit **răspunsurile care îndrumă în locul răspunsurilor directe**, iar pipeline-ul lui în trei etape a atins **96,52%** pe benchmarkul CDPK, față de **90,55%** al Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026|Singh et al. despre EduQwen și învățarea prin întărire pedagogică]]). [[simulation|Simulatorul]] de scriere SWIM a trecut de la promptare ancorată în rubrică (cel mai bun QWK **0,577**) la ajustare fină supervizată (**0,474 ± 0,023**) și la [[reinforcement-learning|învățare prin întărire]] (**0,618 ± 0,005**) pe fiecare trăsătură și fiecare prompt ([[swim-student-writing-simulation-2026|Simulatorul de scriere a studenților SWIM]]).
 
 Citește atent numerele SWIM, pentru că pasul din mijloc a mers înapoi. Ajustarea fină supervizată pe demonstrații a făcut simulatorul mai slab decât promptul de la care a pornit, iar doar semnalul de recompensă a recuperat pierderea și apoi a bătut linia de bază. Dacă planul tău se oprește la ajustarea fină supervizată, planul poate fi un ocol.
 
@@ -125,7 +125,7 @@ Costul ușor de subestimat este evaluarea, care este mai mare decât factura de 
 
 ## Calibrează ce te aștepți
 
-Alegerea modelului și a promptului împreună acoperă doar aproximativ **15%** din nealinierea dintre LLM-uri și câștigurile de învățare ale studenților, iar în acel studiu ponderarea după benchmark și ansamblurile cu vot unanim au făcut alinierea *mai slabă* ([[educational-llm-alignment|Alinierea LLM-urilor educaționale]]). Datele de preantrenare sunt pârghia dominantă asupra modului în care se comportă un model și este singura pârghie pe care nu o poți trage.
+Alegerea modelului și a promptului împreună acoperă doar aproximativ **15%** din nealinierea dintre LLM-uri și [[learning-gains|câștigurile de învățare]] ale studenților, iar în acel studiu ponderarea după benchmark și ansamblurile cu vot unanim au făcut alinierea *mai slabă* ([[educational-llm-alignment|Alinierea LLM-urilor educaționale]]). Datele de preantrenare sunt pârghia dominantă asupra modului în care se comportă un model și este singura pârghie pe care nu o poți trage.
 
 Nimic din asta nu argumentează împotriva muncii de mai sus. Argumentează împotriva așteptării ca o ajustare fină să repare o problemă de design. Dacă problema este că tutorul tău răspunde prea prompt, antrenarea o poate aborda. Dacă problema este că cei care învață nu se implică cu el, antrenarea nu o va face, iar cifra de 15% spune că banii se cheltuiesc mai bine în altă parte.
 
@@ -149,7 +149,7 @@ Ajustarea fină supervizată este pasul de mijloc sigur înainte de învățarea
 
 **„Nu putem trimite munca studenților la un API de furnizor.”** Cel mai puternic rezultat LoRA de aici a venit de la modele deschise în intervalul 4B până la 30B, iar un singur adaptor a servit mai multe dintre ele. Acea formă de implementare este disponibilă unei echipe cu un singur GPU și fără un acord de prelucrare a datelor.
 
-**„Promptarea este un truc; munca reală înseamnă antrenare.”** Trecerea în revistă a 23 de studii de predare a scrisului a găsit promptarea drept abordarea dominantă, cu ajustarea fină în urma ei, iar cel mai mare câștig raportat pe această pagină a venit dintr-un index. Atât trecerea în revistă, cât și studiul asistentului de curs au ordonat acele trepte după câștigul măsurat.
+**„Promptarea este un truc; munca reală înseamnă antrenare.”** Trecerea în revistă a 23 de studii de predare a scrisului a găsit promptarea drept abordarea dominantă, cu ajustarea fină în urma ei, iar cel mai mare câștig raportat aici a venit dintr-un index. Atât trecerea în revistă, cât și studiul asistentului de curs au ordonat acele trepte după câștigul măsurat.
 
 **„Am încercat promptarea și a ajuns la platou, deci avem nevoie de antrenare.”** Aceasta este citirea corectă și este singurul caz în care urcușul este justificat. Du promptul optimizat în ajustarea fină, cum a făcut echipa de generare de itemi, și așteaptă-te ca câștigul să fie mai mic decât a fost munca la prompt.
 

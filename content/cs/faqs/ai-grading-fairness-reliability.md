@@ -1,7 +1,7 @@
 ---
 title: "Můžu používat AI k férovému a spolehlivému hodnocení studentských prací?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:20:19-05:00"
 type: faq
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
@@ -46,11 +46,11 @@ Krátká odpověď pro kolegu: hodnocení od AI si své místo zaslouží jako s
 
 Tři uspořádání se nazývají „hodnocení od AI“ a nesou různé povinnosti.
 
-**Asistent zpětné vazby** sepisuje komentáře nebo označuje možné opomenutí, které přijmete, přepíšete nebo zahodíte. Riziko se omezuje na kvalitu komentářů a vy vše čtete, než se to dostane ke studentovi. **Druhý čtenář** navrhuje skóre podle kritérií nebo označuje neshody, aby strukturoval vaše vlastní známkování. Jeho chyby musí být užitečné, ne jen špatné: označení, které vás vrátí k odevzdání, jež byste jinak oznámkovali ledabyle, má cenu. **Hlavní hodnotitel** vytváří skóre, z nichž se stanou zapsané známky. To je uspořádání, které důkazy v této znalostní bázi nepodporují nad rámec úzkých, místně ověřených případů.
+**Asistent zpětné vazby** sepisuje komentáře nebo označuje možné opomenutí, které přijmete, přepíšete nebo zahodíte. Riziko se omezuje na kvalitu komentářů a vy vše čtete, než se to dostane ke studentovi. **Druhý čtenář** navrhuje skóre podle kritérií nebo označuje neshody, aby strukturoval vaše vlastní známkování. Jeho chyby musí být užitečné, ne jen špatné: označení, které vás vrátí k odevzdání, jež byste jinak oznámkovali ledabyle, má cenu. **Hlavní hodnotitel** vytváří skóre, z nichž se stanou zapsané známky. To je uspořádání, které důkazy nepodporují nad rámec úzkých, místně ověřených případů.
 
 Vyberte nejnižší příčku, která řeší vaše skutečné omezení. Pokud vaše zátěž při známkování plyne z kontroly pevného klíče odpovědí, běžné deterministické skórování je průhlednější a auditovatelnější než [[llm|jazykový model]], a farmaceutická studie naznačuje, že výhoda LLM u objektivních položek byla částečně artefaktem toho, že model během hodnocení dostal správné odpovědi. Model si nechte na práci, která vyžaduje interpretaci, a tu interpretaci pak zkontrolujte.
 
-[[automated-assessment|Automatizované hodnocení]] pokrývá širší stroj skórování, moderace a generování zpětné vazby. Tato stránka je otázkou úsudku, která je pod tím.
+[[automated-assessment|Automatizované hodnocení]] pokrývá širší stroj skórování, moderace a generování zpětné vazby. Otázka úsudku pod tím je, zda je některý z těch mechanismů dost férový a spolehlivý na to, aby zaznamenal známku.
 
 ## Co důkazy skutečně ukazují
 

@@ -9,9 +9,9 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:18:18-05:00"
 translation_of: faqs/ai-disabled-neurodivergent-learners
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 A méltányossági levél megnevez egy diákot, egy kurzust és egy eszközt, amelyről még soha nem hallott. Vagy egy diák ésszerűen megkérdezte, használhatja-e tovább a beszédfelismerő szoftverét egy időkorlátos vizsgán, és a kurzus MI-szabályzata szerint semmilyen MI nem engedélyezett. Vagy az akadálymentesítési iroda péntekre választ kér arról, licenceljenek-e egy olvasóeszközt, és a szállító bizonyítéka egy másik campusról származó ajánlás.
 
-A válasz, amely mindhármat kibírja: induljon ki abból az akadályból, amelyet a feladat teremt, használja azokat az eszközöket, amelyeket ténylegesen mértek, és tanítsa meg, amit bevezet. Két szabály fontosabb minden termékválasztásnál. Nevezze meg az átírást és az OCR-t a MI-szabályzatában önálló méltányossági megoldásként, és adja meg a feladat szerkezetét ahelyett, hogy a diákokra bízná a kikövetkeztetését. Legyen tisztában a bizonyítékokkal: az oldal legerősebb száma PK-12-es speciális oktatási környezetből származik, többnyire generatív MI előtti eszközökkel, a felsőoktatási szakirodalom pedig annak térképe, mit próbáltak már ki.
+A válasz, amely mindhármat kibírja: induljon ki abból az akadályból, amelyet a feladat teremt, használja azokat az eszközöket, amelyeket ténylegesen mértek, és tanítsa meg, amit bevezet. Két szabály fontosabb minden termékválasztásnál. Nevezze meg az átírást és az OCR-t a MI-szabályzatában önálló méltányossági megoldásként, és adja meg a feladat szerkezetét ahelyett, hogy a diákokra bízná a kikövetkeztetését. Legyen tisztában a bizonyítékokkal: a legerősebb szám PK-12-es speciális oktatási környezetből származik, többnyire generatív MI előtti eszközökkel, a felsőoktatási szakirodalom pedig annak térképe, mit próbáltak már ki.
 
 ## A rövid változat
 
@@ -51,11 +51,11 @@ Ugyanez az óvatosság érvényes a csoportstatisztikákra. A [[differential-eff
 
 ## Használja azt, amit mértek, és olvassa el a jelölést
 
-Az oldal legerősebb [[quantitative-research|mennyiségi]] eredménye egyben a legáltalánosabb, és olyan korlátokkal jár, amelyeket érdemes magával vinni a beszerzési döntésbe.
+A legerősebb [[quantitative-research|mennyiségi]] eredmény egyben a legáltalánosabb, és olyan korlátokkal jár, amelyeket érdemes magával vinni a beszerzési döntésbe.
 
 [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang, Carter, Liu és Peng (2024)]] 29 (kvázi)kísérleti kutatást szintetizáltak [[inclusive-learning|fogyatékossággal élő diákoknak]] szóló MI-alapú beavatkozásokról: 239 hatásméretet 41 független mintából, statisztikailag szignifikáns, közepes nagyságú összhatást a tanulási kimenetekre (Hedges-féle g = 0,588, 95%-os CI [0,349, 0,826], p < 0,01), és magas vizsgálatok közötti heterogenitást. A tanulmányi teljesítmény volt a legnagyobb kimeneti alcsoport (k = 80, g = 0,929), a társas-érzelmi készségek a legkisebb (k = 144, g = 0,382). A számítógépes szoftver, azaz a [[speech-and-voice-technologies|beszédfelismerés]], a szakértői rendszerek és az [[intelligent-tutoring|intelligens tutorrendszerek]] erősen teljesítettek (k = 74, g = 0,959), a [[educational-robotics|robotok]] közepesen (k = 144, g = 0,509), míg az intelligens VR (g = 0,528) nem volt szignifikáns. Publikációs torzítás volt jelen (Egger-féle β = 2,837, p < 0,001); a trim-and-fill eljárás g = 0,269-re csökkentette a becslést, ami még mindig szignifikáns.
 
-Minden kutatás PK-12-es volt. 96,6%-uk lépésalapú oktatást használt speciális oktatási vagy klinikai környezetben, és a többség régebbi, szabályalapú MI-t alkalmazott [[generative-ai|generatív MI]] helyett. Ez a strukturált oktatószoftver óvatos bevezetését támasztja alá. Nem vihető át egy általános célú chatbotra, és ha úgy kezeljük, mintha átvihető lenne, az az oldalon elérhető legdrágább hiba.
+Minden kutatás PK-12-es volt. 96,6%-uk lépésalapú oktatást használt speciális oktatási vagy klinikai környezetben, és a többség régebbi, szabályalapú MI-t alkalmazott [[generative-ai|generatív MI]] helyett. Ez a strukturált oktatószoftver óvatos bevezetését támasztja alá. Nem vihető át egy általános célú chatbotra, és ha úgy kezeljük, mintha átvihető lenne, a legdrágább hiba, amelyet elkövethet.
 
 Három kisebb eredmény megmutatja, mit tud egyetlen eszköz, ha az akadály szűk. Mindegyiket maroknyi tanulón tesztelték, ezért kezelje őket alacsony költségű, visszafordítható kísérletként, nem infrastruktúraként.
 
@@ -83,7 +83,7 @@ A dokumentált hiba az utasítás nélkül biztosított méltányossági megold�
 
 Két dolog teszi valószínűvé ezt a kudarcot, és mindkettő intézményi. [[shin-ai-policies-sld-2026|Shin és mtsai. (2026)]] LLM-alapú téma-modellezést és két Delphi-kérdőíves kört használtak 17 szakértővel, 12 amerikai [[educational-policy-ai|MI-oktatási szakpolitikai]] dokumentum alapján 2015 és 2025 között. A pedagógusképzés az öt validált témájuk egyike, 36 tételből 4-et hordoz, és a szakértők a diákok felhatalmazását és az [[ai-literacy|MI-írástudást]] rangsorolták a legfontosabbnak: ezeknek a diákoknak meg kell tanulniuk felelősen és önállóan használni a MI-t, a túlzott támaszkodás elleni védekezést ugyanannak a készségnek a részeként tanítva. A [[ludia-udl-ai-thought-partner-2026|LUDIA]] szerzői a „tudás és cselekvés közötti szakadékot” nevezik meg akadályként: útmutatás bőséggel van, általános megfogalmazásban, az akadály pedig mindig ehhez a teremhez és ehhez a héthez szabott.
 
-Amit ez az oldal nem adhat meg, az a képzési protokoll. Nem léteznek formális, bizonyítékalapú iránymutatások, amelyek segítenének az oktatóknak vagy a családoknak a MI bevezetésében ezeknél a tanulóknál, ezért az oktatás mennyisége, sorrendje és az, hogy ki nyújtja, mérlegelés kérdése. Az esetjog a padlót állítja be, nem a mércét: a diáknak végül képessé kell válnia a dolog elvégzésére, és valakinek felelősséget kell vállalnia azért, hogy eljusson odáig.
+Amit a bizonyíték nem adhat meg, az a képzési protokoll. Nem léteznek formális, bizonyítékalapú iránymutatások, amelyek segítenének az oktatóknak vagy a családoknak a MI bevezetésében ezeknél a tanulóknál, ezért az oktatás mennyisége, sorrendje és az, hogy ki nyújtja, mérlegelés kérdése. Az esetjog a padlót állítja be, nem a mércét: a diáknak végül képessé kell válnia a dolog elvégzésére, és valakinek felelősséget kell vállalnia azért, hogy eljusson odáig.
 
 ## Írja bele az átírást és az OCR-t név szerint a MI-szabályba
 
@@ -91,7 +91,7 @@ Amit ez az oldal nem adhat meg, az a képzési protokoll. Nem léteznek formáli
 
 Egy „nincs MI” formában megírt szabály ezért megvonhatja a diák elsődleges eszközét az olvasható munka előállítására. Ezt a kiszorulást még senki nem mérte fel, ami ok arra, hogy kifejezetten rendelkezzünk, ne várjunk a számra. Nevezze meg az átírást és az OCR-t méltányossági megoldásként a szabályzatban, a szövegalkotási tilalmak mellett, hogy a két kérdés külön dőljön el. A kitettség, amelyet ez az intézménynek teremt, a [[legal-issues-and-risks|jogi kérdések és kockázatok]] oldalhoz tartozik.
 
-Ez a legtöbb dokumentumban egysoros javítás, és mégis ez az oldal legnagyobb következményű sora.
+Ez a legtöbb dokumentumban egysoros javítás, és mégis ez a szabályzat legnagyobb következményű sora.
 
 ## Adjon szerkezetet ott, ahol a feladat feltételezi
 
@@ -105,7 +105,7 @@ Az összesített hatások irányt adnak. Nem mondják meg, hogy az eszköz műk�
 
 Három óvatosság formálja ezt a mérőszámot. Az első, hogy az alcsoportok sorrendje inkább sejtető, mint megalapozott: a 2024-es meta-analízisben semmilyen moderátor nem érte el a szignifikanciát, ezért az olyan rangsorokat, mint a [[learning-by-teaching|tanítható ügynökök]] (g = 1,100) a társas-érzelmi coachok előtt (g = 0,336), vagy a diádikus interakció a triádikus előtt (g = 0,973 szemben g = 0,385-tel), nem szabad eldöntöttként kezelni. A hatás iránya alátámasztott; a nagysága, a tervezési optimum és a nyereség tartóssága nem.
 
-A második, hogy ez a korpusz inkább bevezetéseket és észleléseket ír le, mint mért tanulást. A figyelem (n = 4) és a társas kommunikáció (n = 5) a legkevésbé kutatott akadályok, és a (kvázi)kísérleti, valamint longitudinális elrendezések ritkasága az oka annak, hogy a felsőoktatási munka áttekintő vizsgálat, nem meta-analízis. A lefedettség az alapképzés és az északi félteke felé tolódik, a keresés angol nyelvű, lektorált munkákra irányult, és a posztgraduális hallgatók alulreprezentáltak. Az elköteleződés és az elégedettség gyenge mutatók.
+A második, hogy a szakirodalom inkább bevezetéseket és észleléseket ír le, mint mért tanulást. A figyelem (n = 4) és a társas kommunikáció (n = 5) a legkevésbé kutatott akadályok, és a (kvázi)kísérleti, valamint longitudinális elrendezések ritkasága az oka annak, hogy a felsőoktatási munka áttekintő vizsgálat, nem meta-analízis. A lefedettség az alapképzés és az északi félteke felé tolódik, a keresés angol nyelvű, lektorált munkákra irányult, és a posztgraduális hallgatók alulreprezentáltak. Az elköteleződés és az elégedettség gyenge mutatók.
 
 A harmadik, hogy az egy akadályt megszüntető eszköz másikat hagyhat meg. Ellenőrizze az eszközt ahhoz a konkrét nehézséghez, amelyről a diák beszámol, legyen az olvasás és írás, tanulásmenedzsment, figyelem vagy társas kommunikáció, és ahhoz a nehézséghez mérje, ne ahhoz, hogyan érezte magát a diák a termékkel kapcsolatban. Kérdezze meg a diákot, mit számoljanak. Zastudil és mtsai. résztvevői és Rezazadegan és mtsai. fórumozói egyaránt pontosabban írják le a szükségleteiket, mint a nekik készített termékek.
 
@@ -127,13 +127,13 @@ A diagnózis megmondja, melyik eszközt vegyem meg. Az akadályok átnyúlnak a 
 
 A méltányossági megoldás személyes megegyezés, tehát a javítás a diák dolga. Némelyik valóban az, és azokat érdemes általánosítani, amelyeket amúgy is beépített volna a tervezésbe. A szakaszolás a saját kutatásában minden tanulónak segített. A tervezési változtatások megszüntetik a bevallás lépését, és vele a stigmát.
 
-Az elköteleződés és az elégedettség azt mutatja, hogy az eszköz működött. Azt mutatja, hogy a diáknak tetszett. Ez a korpusz többnyire bevezetéseket és észleléseket tartalmaz, és a 40 felsőoktatási kutatásból csak 6 szolgált egynél több akadályt, így egy elégedett diák még nem bizonyíték arra, hogy egy akadály leomlott.
+Az elköteleződés és az elégedettség azt mutatja, hogy az eszköz működött. Azt mutatja, hogy a diáknak tetszett. A szakirodalom többnyire bevezetéseket és észleléseket tartalmaz, és a 40 felsőoktatási kutatásból csak 6 szolgált egynél több akadályt, így egy elégedett diák még nem bizonyíték arra, hogy egy akadály leomlott.
 
 Az eszköz hordozza a támogatást, a tanítás pedig ráadás. Az esetjog a tanítatlan eszközt tekinti kudarcnak, és a szakpolitikai szakértők a diákok felhatalmazását és az MI-írástudást rangsorolták a legfontosabb témaként. A tanítási időt a licenccel együtt tervezze be.
 
 ## Mi jön vissza Önre
 
-**„Nem írhatunk elő egy eszközt mindenkinek.”** Ahol az eszköz tervezési jellemző, éppen az az értelme, hogy előírjuk. A rögzített szünetekkel szakaszolt videó minden tanulónál javított, és az ADHD-s résztvevők hibáit és hezitálásait a többiek szintjére hozta, ami éppen az az egyetemes tervezési eredmény, amely megszünteti a bevallás szükségét. Az akadálymentes alapbeállítások ugyanezen a logikán működnek: a felolvasás, az OCR és a szövegszintet hangoló eszközök visszatérnek Shin és mtsai. validált szakpolitikai tételei között. Korpuszuk azt is megmutatja, milyen messzire kell még jutnia a szakpolitikának, mivel a 12 dokumentumból csak 2 foglalkozik kifejezetten tanulási zavarokkal, miközben 18 olyan téma, amely az általános MI- vagy más fogyatékossági szakpolitikában jelen van, köztük az [[privacy|adatvédelem]], a jogi kockázatkezelés és az etikai iránymutatások, hiányzik a specifikus tanulási zavarokra vonatkozó szakpolitikából.
+**„Nem írhatunk elő egy eszközt mindenkinek.”** Ahol az eszköz tervezési jellemző, éppen az az értelme, hogy előírjuk. A rögzített szünetekkel szakaszolt videó minden tanulónál javított, és az ADHD-s résztvevők hibáit és hezitálásait a többiek szintjére hozta, ami éppen az az egyetemes tervezési eredmény, amely megszünteti a bevallás szükségét. Az akadálymentes alapbeállítások ugyanezen a logikán működnek: a felolvasás, az OCR és a szövegszintet hangoló eszközök visszatérnek Shin és mtsai. validált szakpolitikai tételei között. Dokumentumkészletük azt is megmutatja, milyen messzire kell még jutnia a szakpolitikának, mivel a 12 dokumentumból csak 2 foglalkozik kifejezetten tanulási zavarokkal, miközben 18 olyan téma, amely az általános MI- vagy más fogyatékossági szakpolitikában jelen van, köztük az [[privacy|adatvédelem]], a jogi kockázatkezelés és az etikai iránymutatások, hiányzik a specifikus tanulási zavarokra vonatkozó szakpolitikából.
 
 **„A feliratozás és a fordítás nem [[student-support-and-success|tanulmányi támogatás]].”** A feliratozás kezdet, nem a nyelvi hozzáférés egésze. Chen és mtsai. vizuális és érzelmi kérdései azért léteznek, mert egy átirat önmagában a siket tanulóra hagyja annak a kontextusnak az újraépítését, amelyet a videó soha nem mondott ki. A szakpolitikai szakértők rangsora is ellentmond az ellenvetésnek. A 36 validált tételük öt témára oszlik, a legnagyobb az inkluzív és [[personalized-learning|személyre szabott tanulás]] 11 tétellel (30,56%), az [[ethics|etika]], esélyegyenlőség és befogadás 9-cel (25,00%), a pedagógusképzés 4-gyel (11,11%), a szakértők mégis a diákok felhatalmazását és az MI-írástudást rangsorolták az öt közül a legfontosabbnak, 6 tétellel (16,67%), egy szinten az értékeléssel és a kutatással.
 

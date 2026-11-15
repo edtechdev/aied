@@ -6,9 +6,9 @@ weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-updated: "2026-10-29T11:57:26-04:00"
+updated: "2026-11-15T16:24:30-05:00"
 translation_of: faqs/ai-save-instructor-time
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Podstatné pro poradu: předejte první návrh a ponechte si úsudek. Přípravy
 
 ## Začněte prací, kterou jste stejně chtěli přepsat
 
-Nejsilnější číslo v této znalostní bázi pochází z [[rct|randomizovaného pokusu]] shrnutého v [[ai-changing-teaching-workflows|tom, jak AI mění pracovní postupy ve výuce]]. Dvě stě padesát devět učitelů přírodovědných předmětů používajících ChatGPT strávilo přípravou na hodinu asi 69 % času kontrolní skupiny, tedy snížení zhruba o 31 %, a slepí odborní posuzovatelé nenašli žádnou zjistitelnou ztrátu kvality. Učitelé čas spíš přerozdělili než uložili, přesunuli ho do plánování, známkování a práce se studenty.
+Nejsilnější číslo pochází z [[rct|randomizovaného pokusu]] shrnutého v [[ai-changing-teaching-workflows|tom, jak AI mění pracovní postupy ve výuce]]. Dvě stě padesát devět učitelů přírodovědných předmětů používajících ChatGPT strávilo přípravou na hodinu asi 69 % času kontrolní skupiny, tedy snížení zhruba o 31 %, a slepí odborní posuzovatelé nenašli žádnou zjistitelnou ztrátu kvality. Učitelé čas spíš přerozdělili než uložili, přesunuli ho do plánování, známkování a práce se studenty.
 
 Druhý datový soubor v téže práci, více než 104 000 zpráv od více než 15 000 vzdělavatelů, ukazuje, proč úspora přistává na zvláštních místech. Průměrný prompt se dotýká 1,7 kategorií najednou, takže jediný požadavek na plán hodiny se vrátí s diferenciací a kvízem, o které učitel ani nechtěl žádat.
 
@@ -50,7 +50,7 @@ To je přerozdělení, ne snížení: co získáte od [[generative-ai|generativn
 
 Kvalita je nerovnoměrná ve vzorci dost stabilním na to, aby se s ním dalo plánovat. Slepí posuzovatelé preferovali AI verze závěrů hodin a výstupních lístků v 59,7 % případů před materiály navrženými odborníky a AI materiál pro obsah střední školy v 59,2 % případů. Úspora také roste tam, kde je vaše jistota nejnižší: výuka mimo vlastní obor je případ s nejširší mezerou mezi tím, co vám nástroj podá, a tím, co byste napsali sami.
 
-Dvě kategorie jdou opačně. U materiálu pro první stupeň byli lidé preferováni v asi 65 % případů kvůli přiměřenosti vývojové úrovni. Cílené [[scaffolding|scaffolding]] pro [[multilingual-learning|vícejazyčné]] studenty a studenty ve [[special-education|speciálním vzdělávání]] přišlo neutrální, ne špatné, což je horší, než to zní, protože neutrální scaffolding je takové, které stavíte od začátku.
+Dvě kategorie jdou opačně. U materiálu pro první stupeň byli lidé preferováni v asi 65 % případů kvůli přiměřenosti vývojové úrovni. Cílené [[scaffolding|scaffolding]] pro [[multilingual-learning|vícejazyčné]] [[learners|studenty]] a studenty ve [[special-education|speciálním vzdělávání]] přišlo neutrální, ne špatné, což je horší, než to zní, protože neutrální scaffolding je takové, které stavíte od začátku.
 
 Test, který to předpoví, než na to strávíte večer: umíte specifikaci vyslovit natolik přesně, abyste výstup zkontrolovali? Výstupní lístek k jednomu cíli ano. Zda odstavec sedí konkrétní devítileté dívce, která čte o dva roky za svou třídou, ne.
 
@@ -80,7 +80,7 @@ Známkování je úkol s největším zdánlivým výnosem a nejslabší přenos
 
 ## V čem se vyučující mýlí
 
-**„Těch 31 % je moje číslo."** Je to 259 učitelů přírodovědných předmětů v [[science-education|regionálním školství]] (K-12) u přípravy na hodinu. Směr se přenáší, velikost ne. Seminář postavený na diskusi může ušetřit méně a laboratorní kurz s bezpečnostními omezeními nemusí ušetřit nic na té části, se kterou jste nejvíc chtěli pomoc.
+**„Těch 31 % je moje číslo."** Je to 259 [[k-12|učitelů K-12]], kteří učí [[science-education|přírodovědné předměty]] u přípravy na hodinu. Směr se přenáší, velikost ne. Seminář postavený na diskusi může ušetřit méně a laboratorní kurz s bezpečnostními omezeními nemusí ušetřit nic na té části, se kterou jste nejvíc chtěli pomoc.
 
 **„Cílem je ušetřit čas."** Brazilský experiment je protipříklad. Hodiny přišly zdarma a spodní kvartil nezískal nic. Cílem je, co hodiny kupují.
 
@@ -112,4 +112,4 @@ Známkování je úkol s největším zdánlivým výnosem a nejslabší přenos
 
 ## Kam dál
 
-[[ai-feedback-at-scale|Zpětná vazba od AI ve velkém]] posouvá otázku zpětné vazby dál a [[faculty-ai-competencies|kompetence vyučujících v AI]] spolu s [[faculty-development-ai|rozvojem vyučujících v AI]] pokrývají, co může katedra postavit, aby to přestalo záviset na individuálním experimentování. [[redesign-assessment-ai-era|Přepracování hodnocení v éře AI]] a [[reduce-ai-cheating|snížení podvádění s AI]] řeší důsledky pro hodnocení. [[ai-changing-teaching-workflows|Jak AI mění pracovní postupy ve výuce]] je článek za čísly o přípravě a [[human-in-the-loop-ai|lidský dohled]] je princip, na kterém tato stránka stojí.
+[[ai-feedback-at-scale|Zpětná vazba od AI ve velkém]] posouvá otázku zpětné vazby dál a [[faculty-ai-competencies|kompetence vyučujících v AI]] spolu s [[faculty-development-ai|rozvojem vyučujících v AI]] pokrývají, co může katedra postavit, aby to přestalo záviset na individuálním experimentování. [[redesign-assessment-ai-era|Přepracování hodnocení v éře AI]] a [[reduce-ai-cheating|snížení podvádění s AI]] řeší důsledky pro hodnocení. [[ai-changing-teaching-workflows|Jak AI mění pracovní postupy ve výuce]] je článek za čísly o přípravě a [[human-in-the-loop-ai|lidský dohled]] je řídící princip.

@@ -14,9 +14,9 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:19:41-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ Lyhyt vastaus tuota kokousta varten: tekoäly voi hoitaa haun, ensimmäisen seul
 
 **5.** Varmista jokainen viite käsin, tekijät ensin, aina kun tekoäly on koskenut tekstiin.
 
-**6.** Kirjaa kehotteet, malliversiot ja korpusversiot ja budjetoi niihin tunnit.
+**6.** Kirjaa kehotteet, malliversiot ja aineistoversiot ja budjetoi niihin tunnit.
 
 ## Päätä, mihin tekoäly saa koskea ennen hankkeen alkua
 
@@ -60,7 +60,7 @@ Suurin osa hyödystä tulee kahdesta suunnittelupäätöksestä. Kirjoita päät
 
 ## Vakiinnuta koodikirja ennen kuin malli lukee mitään
 
-[[qualitative-research|Laadullinen analyysi]] on vaihe, jossa tulkinta on tuote. Konstruktit, koodauskriteeristöt ja harjoitusdata ovat ihmisten päätöksiä eivätkä mallin tuotoksia ([[ai-methodologies-science-education-research-2026|Martin ym., 2026]]), mikä tarkoittaa, että koodikirja on vakiinnutettava ennen kuin automatisoitu kierros ajetaan korpuksen yli. Vaihtoehto on koodauskehys, joka on kirjoitettu sen ympärille, mitä malli sattui nostamaan esiin, ja silloin teemat kuvaavat työkalun luentaa sinun datastasi.
+[[qualitative-research|Laadullinen analyysi]] on vaihe, jossa tulkinta on tuote. Konstruktit, koodauskriteeristöt ja harjoitusdata ovat ihmisten päätöksiä eivätkä mallin tuotoksia ([[ai-methodologies-science-education-research-2026|Martin ym., 2026]]), mikä tarkoittaa, että koodikirja on vakiinnutettava ennen kuin automatisoitu kierros ajetaan aineiston yli. Vaihtoehto on koodauskehys, joka on kirjoitettu sen ympärille, mitä malli sattui nostamaan esiin, ja silloin teemat kuvaavat työkalun luentaa sinun datastasi.
 
 Delegointi voi olla hienojakoisempaa kuin kaikki tai ei mitään. [[agreement-not-quality-llm-coding-verification|Yksi sokkoutettu varmistustutkimus]] luokitteli 15 koodikirjan 72 kohdasta sellaisiksi, jotka osoitetusti vaativat ihmisasiantuntemusta, 12 sellaisiksi, joita malli palveli paremmin, ja 16 sellaisiksi, jotka sopivat luottamukseen perustuvaan lajitteluun. Lajittele omat kohteesi samalla tavalla, niin työn säästö osuu sinne, missä se on turvallista.
 
@@ -89,13 +89,13 @@ Vika on konkreettinen. [[zhang-platform-scores-miss-ai-teaching-agents-2026|Kahd
 
 Käyttöönotto on kulkenut raportoinnin edellä. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta ja Lin (2026)]] analysoivat 888 katsausautomaation artikkelia: vuodesta 2023 lähtien 38,0 % ohjelmisto- ja tuoteartikkeleista ei raportoinut lainkaan arviointia, kun LLM-artikkeleista vastaava osuus oli 9,3 %, ja mallipääsy oli ylivoimaisesti suljettua (84,1 %). Myönteinen kokonaisarvio ei sekään merkinnyt delegoitavuutta, koska 52 %:ssa 118:sta vain positiivisia tuloksia raportoineesta LLM-artikkelista raportoitiin silti huoli siitä, että työnkulku jäi alle sen roolin vaatiman riman. Heidän [[meta-analysis-systematic-review|PRISMA]]-LLM-kehyksensä erottaa toteutuksen paljastamisen seurausherkästä arvioinnista ja kohtelee viittä tasoaan paljastustasoina eikä riskitasoina.
 
-Käytännön versio: nimeä järjestelmä ja sen versio, kehotteet, korpusversio, mitä ihminen tarkisti ja missä se epäonnistui. Pidä kehote- ja vastauslokeja, koska sujuvasti tuotettu teemalista näyttää väistämättömältä kauan ennen kuin sen näyttötyö on alkanut ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
+Käytännön versio: nimeä järjestelmä ja sen versio, kehotteet, aineistoversio, mitä ihminen tarkisti ja missä se epäonnistui. Pidä kehote- ja vastauslokeja, koska sujuvasti tuotettu teemalista näyttää väistämättömältä kauan ennen kuin sen näyttötyö on alkanut ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
 Budjetoi myös tunnit. [[persistent-ai-agents-academic-research|115 päivän yhden tutkijan tapaustutkimus]] pysyvästä tutkimusagentista löysi vahvimpana kuvioksi kapasiteetin laajenemisen eikä todistetun työn korvaamisen: muistin ja menettelyjen kasautuessa delegoidun työn laajuus kasvoi, mutta ihmisen panos ei kutistunut.
 
 ## Tee praktikkotutkimusta samoilla säännöillä pienemmässä mitassa
 
-Jos olet luennoitsija, joka tutkii omaa kurssiaan, työskentelet korpuksen ohuimmassa säikeessä. [[ai-assisted-educational-research|Tekoälyavusteinen koulutustutkimus]] esittää tämän aukkona eikä löydöksenä: tekoälyavusteinen praktikkotutkimus on uskottavasti laajaa ja lähes dokumentoimatonta, eikä katsausautomaation ja bibliometrian näyttö ratkaise, miten luennoitsijan pitäisi tutkia omaa opetustaan.
+Jos olet luennoitsija, joka tutkii omaa kurssiaan, työskentelet tämän kirjallisuuden vähiten tutkitussa säikeessä. [[ai-assisted-educational-research|Tekoälyavusteinen koulutustutkimus]] esittää tämän aukkona eikä löydöksenä: tekoälyavusteinen praktikkotutkimus on uskottavasti laajaa ja lähes dokumentoimatonta, eikä katsausautomaation ja bibliometrian näyttö ratkaise, miten luennoitsijan pitäisi tutkia omaa opetustaan.
 
 Yli kantautuu joukko asenteita:
 

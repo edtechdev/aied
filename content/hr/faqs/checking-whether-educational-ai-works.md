@@ -1,7 +1,7 @@
 ---
 title: "Kako znamo da obrazovna umjetna inteligencija radi ispravno, a ne samo da dobro ocjenjuje?"
 created: "2026-10-02T08:07:09-04:00"
-connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
 foundations: [ai-education]
@@ -14,9 +14,9 @@ discipline: [writing education, math education]
 confidence: high
 methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
-updated: "2026-10-29T14:24:49-04:00"
+updated: "2026-11-15T16:23:11-05:00"
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -54,11 +54,11 @@ Dvije obitelji brojeva prevladavaju u ovoj literaturi. Obje mjere koliko vaš iz
 
 Student može doći do pogrešnog odgovora pogrešnim putem koji izgleda kao točan, i nijedna ocjena sličnosti to ne primjećuje. Ako je zaključivanje ono do čega vam je stalo, mjera ga mora čitati: rubrika koju primjenjuje osoba ili provjera napisana za taj određeni korak.
 
-Asistent kolegija Linearni upravljački sustavi to izvještava kako treba. Njegova najbolja konfiguracija dosegla je ocjenu sličnosti **0,4093** u odnosu na referentne odgovore, s poboljšanjem pouzdano mjerenim iznad nule, a autori izričito navode da brojevi mjere formulaciju i format ([[lora-finetuned-control-systems-course-qa-2026]]). Ocjena nije impresivna, a rad je ipak koristan, jer kaže što ocjena pokriva.
+Asistent kolegija Linearni upravljački sustavi to izvještava kako treba. Njegova najbolja konfiguracija dosegla je ocjenu sličnosti **0,4093** u odnosu na referentne odgovore, s poboljšanjem pouzdano mjerenim iznad nule, a autori izričito navode da brojevi mjere formulaciju i format ([[lora-finetuned-control-systems-course-qa-2026|Lu i sur., 2026]]). Ocjena nije impresivna, a rad je ipak koristan, jer kaže što ocjena pokriva.
 
 ## Ocijenite svaki izlaz zasebno
 
-U projektu WrAFT fino podešeni model dosegao je ocjenu slaganja **0,84** s ljudskim ocjenjivačima na 360 izdvojenih TOEFL eseja. To je jak rezultat za ocjenjivanje. Model istog projekta osposobljen za pisanje povratne informacije proizveo je izlaz koji je bio odsječen i neraščlanjiv, dok je puko zadavanje upita drugom modelu proizvelo povratnu informaciju koju su nastavnici preferirali ([[wraft-automated-writing-evaluation-argumentative-2026]]).
+U projektu WrAFT fino podešeni model dosegao je ocjenu slaganja **0,84** s ljudskim ocjenjivačima na 360 izdvojenih TOEFL eseja. To je jak rezultat za ocjenjivanje. Model istog projekta osposobljen za pisanje povratne informacije proizveo je izlaz koji je bio odsječen i neraščlanjiv, dok je puko [[prompt-engineering|zadavanje upita]] drugom modelu proizvelo povratnu informaciju koju su nastavnici preferirali ([[wraft-automated-writing-evaluation-argumentative-2026|Labib i sur., 2026]]).
 
 Baza znanja nosi isti promašaj u drugom obliku: primjenu čiji je modul za ocjenjivanje dobio dobru ocjenu, a čija je povratna informacija stigla odsječena na pola rečenice i nečitljiva. Ništa u istaknutom broju to nije reklo.
 
@@ -68,7 +68,7 @@ Zato popišite izlaze koje vaš sustav proizvodi, pa svakome dajte vlastitu mjer
 
 Korelacija vam kaže da je model obično u pravu. Ne kaže vam što učiniti u prilikama kad nije. Rezultat o usmjeravanju prema sigurnosti najčišći je predložak u bazi znanja i dovoljno je kratak da ga prepišete.
 
-Pokazalo se da je sigurnost pouzdan znak upozorenja: kad model nije bio siguran, vjerojatnije je bio u krivu (**β = -0,602, p < 0,001**). Tim je najmanje sigurnih **20%** odgovora poslao čovjeku. To jedno pravilo podiglo je slaganje s ljudskim ocjenama s **0,78 na 0,82** i smanjilo ručni posao ocjenjivanja za otprilike **80%** ([[know-when-to-trust-ai-scoring-reliability-2026]]).
+Pokazalo se da je sigurnost pouzdan znak upozorenja: kad model nije bio siguran, vjerojatnije je bio u krivu (**β = -0,602, p < 0,001**). Tim je najmanje sigurnih **20%** odgovora poslao čovjeku. To jedno pravilo podiglo je slaganje s ljudskim ocjenama s **0,78 na 0,82** i smanjilo ručni posao ocjenjivanja za otprilike **80%** ([[know-when-to-trust-ai-scoring-reliability-2026|Organisciak i sur., 2026]]).
 
 Pogledajte što izvješće sadrži: prag, osobu i uštedu. „Slaganje 0,84“ ne sadrži nijedno od toga, i zato je po njemu teško djelovati, a o njemu lako raspravljati.
 
@@ -76,35 +76,35 @@ Pogledajte što izvješće sadrži: prag, osobu i uštedu. „Slaganje 0,84“ n
 
 Mnogi timovi danas rabe drugi model da prosuđuje prvi. Raspored je razuman, a drugi model nije automatski u pravu.
 
-Studija u kojoj je vrhunski model pisao nagovještaje za [[intelligent-tutoring|sustav inteligentnog poučavanja]] našla je da je otprilike **35%** njih bilo preopćenito, netočno ili je odavalo odgovor, a modelove vlastite automatizirane provjere kvalitete nisu se složile s ljudskom prosudbom o tome koji su loši ([[reddig-maclellan-personalized-feedback-llm-2026]]).
+Studija u kojoj je vrhunski model pisao nagovještaje za [[intelligent-tutoring|sustav inteligentnog poučavanja]] našla je da je otprilike **35%** njih bilo preopćenito, netočno ili je odavalo odgovor, a modelove vlastite automatizirane provjere kvalitete nisu se složile s ljudskom prosudbom o tome koji su loši ([[reddig-maclellan-personalized-feedback-llm-2026|Reddig i sur., 2025]]).
 
 Praktična verzija: uzmite uzorak od pedesetak izlaza, dajte ga ocijeniti osobi i usporedite s ocjenama svog provjeravatelja. Gdje se njih dvoje razilaze, naučili ste nešto o provjeravatelju. Sačuvajte uzorak i tablicu neslaganja, jer je to ujedno artefakt koji odgovara recenzentu koji pita kako znate.
 
 ## Mjerite samu veličinu kad zadatak to dopušta
 
-Najčišće rješenje jest osposobiti model na istoj veličini koju namjeravate mjeriti. Fino podešeni model osposobljen je da reproducira statistička svojstva ispitnih pitanja: koliko je svaka čestica teška i koliko dobro razdvaja jače od slabijih studenata. Te je obrasce naučio, a nisu mu bili izrečeni ([[multimodal-item-parameter-estimation-2026]]). Budući da je cilj bilo svojstvo samog vrednovanja, evaluacija je mogla biti o tom svojstvu, a ne o formulaciji.
+Najčišće rješenje jest osposobiti model na istoj veličini koju namjeravate mjeriti. Fino podešeni model osposobljen je da reproducira statistička svojstva ispitnih pitanja: koliko je svaka čestica teška i koliko dobro razdvaja jače od slabijih studenata. Te je obrasce naučio, a nisu mu bili izrečeni ([[multimodal-item-parameter-estimation-2026|Ormerod i sur., 2026]]). Budući da je cilj bilo svojstvo samog vrednovanja, evaluacija je mogla biti o tom svojstvu, a ne o formulaciji.
 
-Izvijestite o napredovanju kao i o krajnjoj točki. SWIM-ov simulator pisanja objavio je ocjenu svake faze jednu uz drugu: oblikovanje upita temeljeno na rubrici **0,577**, fino podešavanje **0,474 ± 0,023**, učenje s pojačanjem **0,618 ± 0,005** ([[swim-student-writing-simulation-2026]]). Čitatelj iz te tablice vidi je li osposobljavanje išta promijenilo. Jedan konačni broj to ne može reći i skriva fazu u kojoj je fino podešeni model bio lošiji od upita.
+Izvijestite o napredovanju kao i o krajnjoj točki. SWIM-ov [[simulation|simulator]] pisanja objavio je ocjenu svake faze jednu uz drugu: oblikovanje upita temeljeno na rubrici **0,577**, fino podešavanje **0,474 ± 0,023**, [[reinforcement-learning|učenje s pojačanjem]] **0,618 ± 0,005** ([[swim-student-writing-simulation-2026|Do i sur., 2026]]). Čitatelj iz te tablice vidi je li osposobljavanje išta promijenilo. Jedan konačni broj to ne može reći i skriva fazu u kojoj je fino podešeni model bio lošiji od upita.
 
 ## Usporedite s nečim izvan svog projekta
 
 Prvo uzmite osnovnu vrijednost, uključujući jeftinu. Model asistenta kolegija bez ikakvog utemeljenja dobio je ocjenu nižu od običnog pretraživanja po ključnim riječima, što je vrsta rezultata koja mijenja plan rada, a košta jedan dan da se otkrije.
 
-Vanjsko mjerilo zatim vam kaže vrijedi li vaš broj uopće. Na CDPK mjerilu pedagogije EduQwen je dosegao **96,52%** nasuprot **90,55%** koliko je dobio Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Pedagogy Benchmark, izgrađen iz stvarnih ispita stručnog usavršavanja nastavnika i obuhvaćajući **97 modela**, našao je točnost od **28% do 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre i sur., 2025.]]).
+Vanjsko mjerilo zatim vam kaže vrijedi li vaš broj uopće. Na CDPK [[pedagogy|mjerilu pedagogije]] EduQwen je dosegao **96,52%** nasuprot **90,55%** koliko je dobio Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026|Singh i sur., 2026]]). Pedagogy Benchmark, izgrađen iz stvarnih ispita stručnog usavršavanja [[teacher-role|nastavnika]] i obuhvaćajući **97 modela**, našao je točnost od **28% do 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre i sur., 2025.]]).
 
 Na zadatku o poučavanju modeli su se kretali od slabih do dobrih, pa rezultat na mjerilu smješta vaš sustav negdje unutar širokog raspona.
 
 ## Provjerite sigurnost na cijelom razgovoru
 
-Većina sigurnosnih provjera ispituje jednu razmjenu. Štete koje su u poučavanju važne akumuliraju se. SafeTutors je našao da čak i modeli izgrađeni upravo za poučavanje degradiraju tijekom dugog razgovora i mogu otkriti odgovore koje bi trebali zadržati ([[hazra-safetutors-pedagogical-safety-2026]]).
+Većina sigurnosnih provjera ispituje jednu razmjenu. Štete koje su u poučavanju važne akumuliraju se. SafeTutors je našao da čak i modeli izgrađeni upravo za poučavanje degradiraju tijekom dugog razgovora i mogu otkriti odgovore koje bi trebali zadržati ([[hazra-safetutors-pedagogical-safety-2026|Hazra i sur. (2026)]]).
 
 Provedite provjeru na cijelim razgovorima i napišite ispitne poteze namjerno: student koji je u krivu, onaj koji stalno pritišće, onaj koji pokušava nagovoriti model da odstupi od svoje uloge. Poučavatelj koji izdrži deset poteza i popusti na jedanaestom pada na ispitu koji je važan, a niz provjera po odgovoru ocijenit će ga kao čist.
 
 ## Provjerite simuliranog studenta prije nego što mu povjerujete
 
-Generiranje simuliranih studenata umjesto regrutiranja stvarnih čini evaluaciju mnogo jeftinijom. Simulirani student ujedno je mjerni instrument i može biti pogrešan na načine na koje instrumenti griješe: previše suradljiv, previše tečan, prebrzo prihvaća nagovještaj.
+Generiranje [[simulating-students|simuliranih studenata]] umjesto regrutiranja stvarnih čini evaluaciju mnogo jeftinijom. Simulirani student ujedno je mjerni instrument i može biti pogrešan na načine na koje instrumenti griješe: previše suradljiv, previše tečan, prebrzo prihvaća nagovještaj.
 
-Najizravniji test u bazi znanja ocijenio je simulirane i potaknute studente prema **382 izdvojena dijaloga** iz najveće javne zbirke stvarnih dijaloga studenata i poučavatelja iz matematike, uz sedam mjera koje pokrivaju jezik, ponašanje i mišljenje ([[simulated-students-tutoring-dialogues-2026]]). Drugi radovi pritišću na realističnost iz drugih kutova: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] osposobljava modele da istodobno djeluju i misle kao studenti, a profili koji poznaju povijest uvjetuju simulaciju studentovom prošlošću, a ne fiksnom personom ([[history-aware-student-simulation]]).
+Najizravniji test u bazi znanja ocijenio je simulirane i potaknute studente prema **382 izdvojena dijaloga** iz najveće javne zbirke stvarnih dijaloga studenata i poučavatelja iz matematike, uz sedam mjera koje pokrivaju jezik, ponašanje i mišljenje ([[simulated-students-tutoring-dialogues-2026|Scarlatos i sur., 2026]]). Drugi radovi pritišću na realističnost iz drugih kutova: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] osposobljava modele da istodobno djeluju i misle kao studenti, a profili koji poznaju povijest uvjetuju simulaciju studentovom prošlošću, a ne fiksnom personom ([[history-aware-student-simulation|Duan i sur., 2026]]).
 
 Ako je vaš sustav za provjeru simulirani student, provjerite simulator prema stvarnim transkriptima prije nego što mu dopustite da ocjenjuje vašeg poučavatelja.
 

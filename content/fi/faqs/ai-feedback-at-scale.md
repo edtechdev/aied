@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:16:13-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,8 @@ Vertaispalaute ansaitsee oman paikkansa sarjassa. [[scaffolding-srl-feedback-gen
 
 Gun et al.:n etu oli pieni, ja he lukevat sen todelliseksi mutta eivät yksinään mullistavaksi. Opettajan tukeminen, kehoteohjeet ja työarkit tekivät tukityön.
 
+Lähde saattaa merkitä vähemmän kuin kello. 391 saksalaisella toisen asteen opiskelijalla opettajan kirjoittama palaute ja LLM-palaute eivät tuottaneet merkitsevää eroa revisioissa, myöhemmässä kirjoittamisessa, tehtävään käytetyssä ajassa tai kokemuksissa; Bayesilaiset posteriorit kallistuivat opettajapalautteen puoleen myöhemmässä kirjoittamisessa mutta pitivät neljäsosasta kahteen viidesosaan massasta ekvivalenssialueen sisällä, ja vain välitön tekoälypalaute sai paremmat hyödyllisyys- ja motivaatioarviot ([[meyer-teacher-ai-feedback-writing-2026|Meyer ym., 2026]]). Jos ensimmäisen kierroksen kommentti voi saapua, kun opiskelija vielä muokkaa, se ajoitus on osa suunnittelua, joka tekee työn.
+
 ## Anna mallille rubriikki ja pakota se näyttämään vaiheensa
 
 Rubriikkiin viittaava tuottaminen on se automatisoitava osa.
@@ -92,7 +94,7 @@ Aldino et al. löytävät saman avusta ja sitten varmista -kaavan tavallisesta k
 
 Kaksitoista Aldino et al.:n 21 opettajasta teki lisää lausetason revisioita, ja hallitseva kaava oli sävyn kalibrointi: kehun pienentäminen (f = 11), ehdotusten poistaminen (f = 9), kannustuksen poistaminen (f = 8). Revisiot keskittyivät relationaaliseen ulottuvuuteen, erityisesti Student-Teacher Relationship -kohtaan (f = 24). He suojelivat autenttisuutta ja ammatillista ääntä, eikä se työ automatisoidu.
 
-Opiskelijat ovat tuon varmistuksen toinen puoli, ja heidän kuvauksensa työnjaosta on lähellä sitä, mitä tämä sivu suosittaa. Kun 20 kandidaattiopiskelijaa kokoontui fokusryhmiin, opettajan palautetta arvostettiin sen relationaalisuudesta, henkilökohtaisuudesta ja asiantuntijuudesta, kun taas tekoälyn tuottama palaute vaikutti persoonattomalta ja mahdollisesti epäreilulta; samat opiskelijat olivat avoimia hybridille mallille, jossa opettaja lukee heidän työnsä ja täydentää mallin kommentteja ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). Sama tutkimus havaitsi, että heidän arvionsa olivat yhteneviä ChatGPT:n kanssa täsmällisyydessä ja toteutettavuudessa mutta poikkesivat ajantasaisuudessa ja positiivisuudessa, joten ulottuvuudet, joilla mallin omaan tuomioon voi luottaa, ovat kapeammat kuin koko rubriikki.
+Opiskelijat ovat tuon varmistuksen toinen puoli, ja heidän kuvauksensa työnjaosta on lähellä suositeltua. Kun 20 kandidaattiopiskelijaa kokoontui fokusryhmiin, opettajan palautetta arvostettiin sen relationaalisuudesta, henkilökohtaisuudesta ja asiantuntijuudesta, kun taas tekoälyn tuottama palaute vaikutti persoonattomalta ja mahdollisesti epäreilulta; samat opiskelijat olivat avoimia hybridille mallille, jossa opettaja lukee heidän työnsä ja täydentää mallin kommentteja ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). Sama tutkimus havaitsi, että heidän arvionsa olivat yhteneviä ChatGPT:n kanssa täsmällisyydessä ja toteutettavuudessa mutta poikkesivat ajantasaisuudessa ja positiivisuudessa, joten ulottuvuudet, joilla mallin omaan tuomioon voi luottaa, ovat kapeammat kuin koko rubriikki.
 
 ## Opeta opiskelijat lukemaan kommentti
 
@@ -144,6 +146,6 @@ Tyytyväisyysarviot kertovat, että kommentit ovat tarkkoja. Deakinin pilotissa 
 
 ## Minne seuraavaksi
 
-[[feedback|palaute]] on koko järjestelmän kattokäsite: tarjoaminen, silmukka, omaksuminen ja arviointikonteksti. [[ai-feedback-quality|Tekoälypalautteen laatu]] kattaa sen, mikä tekee tuotetuista kommenteista tarkkoja, hyödyllisiä, oikea-aikaisia ja pedagogisesti kestäviä, ja tämä sivu on se käytännön keskikohta, joka kertoo, mitkä noiden osien yhdistelmät tuottavat parempaa palautetta suuressa mittakaavassa.
+[[feedback|palaute]] on koko järjestelmän kattokäsite: tarjoaminen, silmukka, omaksuminen ja arviointikonteksti. [[ai-feedback-quality|Tekoälypalautteen laatu]] kattaa sen, mikä tekee tuotetuista kommenteista tarkkoja, hyödyllisiä, oikea-aikaisia ja pedagogisesti kestäviä, ja käytännön kysymys on, mitkä noiden osien yhdistelmät tuottavat parempaa palautetta suuressa mittakaavassa.
 
 Kysymykset siitä, mitä arvosanan pitäisi tarkoittaa, kun tekoäly on mukana, mukaan lukien konstruktin korvaaminen, todennettu prosessinäyttö ja rehellisyyssäännöt, kuuluvat sivuille [[redesign-assessment-ai-era|arvioinnin uudelleensuunnittelu tekoälyn aikakaudella]] ja [[assessment-validity|arvioinnin validiteetti]] eivätkä tänne. Kirjoittamisen opetuksen erikoistapauksesta katso [[writing-instruction-ai-best-practices|kirjoittamisen opetuksen parhaat käytännöt tekoälyn kontekstissa]].

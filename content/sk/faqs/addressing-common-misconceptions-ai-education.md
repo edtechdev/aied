@@ -1,7 +1,7 @@
 ---
 title: "Ako môžeme riešiť bežné mylné predstavy o AI vo vzdelávaní?"
 created: "2026-09-04T04:39:00-04:00"
-connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
+connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]
 technology: [prompt-engineering]
@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:27:25-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 
 Váš prorektor chce jednostranový prehľad „mýtov o AI“ na jarné stretnutie pedagogického zboru. Alebo člen správnej rady čítal, že chatboty ničia kritické myslenie, a chce stanovisko do piatku. Alebo ste ten, kto musí písomne vysvetliť, prečo katedra jednoducho nezakáže nástroj, a došli vám spôsoby, ako povedať, že zákaz nie je pedagogika.
 
-Každé presvedčenie na tejto stránke vychádza z niečoho, čo rozumný človek videl. Plynulý text sa naozaj číta ako presný. Vybrúsená odovzdaná práca naozaj vyzerá ako učenie. Tutor, ktorý odpovie na otázku, sa naozaj cíti ako pomoc a politika so slovom „zakázané“ sa naozaj cíti ako rozhodnutie. Oprava, ktorá funguje, pomenuje to, čo pozorovanie nemôže povedať, a potom podá kontrolu, ktorú človek dokáže spustiť v pondelok.
+Každé z týchto presvedčení vychádza z niečoho, čo rozumný človek videl. Plynulý text sa naozaj číta ako presný. Vybrúsená odovzdaná práca naozaj vyzerá ako učenie. Tutor, ktorý odpovie na otázku, sa naozaj cíti ako pomoc a politika so slovom „zakázané“ sa naozaj cíti ako rozhodnutie. Oprava, ktorá funguje, pomenuje to, čo pozorovanie nemôže povedať, a potom podá kontrolu, ktorú človek dokáže spustiť v pondelok.
 
 Tu je odpoveď jedným dychom: vzdelávací účinok AI závisí od toho, kto ju používa, pri ktorej úlohe, aké myslenie nástroj vykonáva, aká zodpovednosť zostáva na človeku a ako sa učenie hodnotí. Istota, rýchlosť, zapojenie a dokončenie úlohy sú vlastnosti používania. Žiadna z nich nie je dôkazom, že sa zmenila schopnosť.
 
@@ -44,7 +44,7 @@ Tu je odpoveď jedným dychom: vzdelávací účinok AI závisí od toho, kto ju
 
 ## Rozhodnite, čo sa počíta ako dôkaz, že sa učenie stalo
 
-Päť presvedčení rozhoduje o tom, či zvyšok tejto stránky vôbec niečo znamená. Každé berie skutočný signál a číta z neho záver, ktorý ten signál nemôže uniesť.
+Päť presvedčení rozhoduje o tom, či zvyšok argumentu vôbec niečo znamená. Každé berie skutočný signál a číta z neho záver, ktorý ten signál nemôže uniesť.
 
 ### „S otvoreným nástrojom si viedli lepšie, takže sa naučili viac.“
 
@@ -62,11 +62,11 @@ Priemery zakrývajú práve tú variáciu, ktorá rozhoduje o otázke rovnosti. 
 
 ### „Uviedli, že sa naučili veľa.“
 
-[[self-report-measures|Sebavýpoveď]] meria vnímanie, prijatie, [[anxiety-and-stress|úzkosť]] a [[self-efficacy|sebaúčinnosť]] a vo všetkých štyroch je dobré. Nie je meraním preukázanej schopnosti, pretože ľudia môžu byť istí a mýliť sa alebo zruční a mať nízku sebadôveru. Syntéza výskumu AI gramotnosti učiteľov v tejto wiki uvádza podstatnú medzeru medzi [[self-assessment|sebahodnotením]] a meraným výkonom a učitelia v nej svoju kompetenciu výrazne precenili ([[ai-literacy-assessment-misalignment|Hodnotenie AI gramotnosti: nesúlad medzi sebahodnotením a výkonom]]). Spárujte každé sebahodnotenie s úlohou: identifikovať chybu vo výstupe, overiť zdroj, vybrať stratégiu použitia, odhaliť predpojatosť alebo patolízalstvo, prepracovať chybnú odpoveď, kalibrovať istotu proti presnosti. Jedna taká položka v prieskume mení názor na výsledok.
+[[self-report-measures|Sebavýpoveď]] meria vnímanie, prijatie, [[anxiety-and-stress|úzkosť]] a [[self-efficacy|sebaúčinnosť]] a vo všetkých štyroch je dobré. Nie je meraním preukázanej schopnosti, pretože ľudia môžu byť istí a mýliť sa alebo zruční a mať nízku sebadôveru. Syntéza výskumu AI gramotnosti učiteľov uvádza podstatnú medzeru medzi [[self-assessment|sebahodnotením]] a meraným výkonom a skúmaní učitelia svoju kompetenciu výrazne precenili ([[ai-literacy-assessment-misalignment|Hodnotenie AI gramotnosti: nesúlad medzi sebahodnotením a výkonom]]). Spárujte každé sebahodnotenie s úlohou: identifikovať chybu vo výstupe, overiť zdroj, vybrať stratégiu použitia, odhaliť predpojatosť alebo patolízalstvo, prepracovať chybnú odpoveď, kalibrovať istotu proti presnosti. Jedna taká položka v prieskume mení názor na výsledok.
 
 ### „Simulovaný študent je lacná náhrada za skutočného.“
 
-Simulácia je užitočná na prototypovanie, záťažové testovanie a generovanie scenárov a nie je dôkazom o ľudskom učení, kým nie je overená proti ľuďom. Model dokáže napodobniť jazyk zmätku bez vytrvalosti, motivácie, predchádzajúcich vedomostí, emócií alebo vývojovej trajektórie študenta a výskum zhrnutý v tejto wiki zistil, že simulovaní študenti opustili pridelenú mylnú predstavu po minimálnej korekcii, čo vyvoláva pochybnosti o tom, či vôbec reprezentujú konceptuálnu zmenu ([[simulating-students|Simulovanie študentov]], [[llm-student-simulation-misconception-faithfulness|Simulovať študentov alebo patolízalské riešenie problémov?]]). Použite ich na nájdenie chýb vo svojom prompte skôr, než sa s ním stretnú reálni študenti, a potom akékoľvek tvrdenie o študentoch považujte za neoverené.
+Simulácia je užitočná na prototypovanie, záťažové testovanie a generovanie scenárov a nie je dôkazom o ľudskom učení, kým nie je overená proti ľuďom. Model dokáže napodobniť jazyk zmätku bez vytrvalosti, motivácie, predchádzajúcich vedomostí, emócií alebo vývojovej trajektórie študenta a výskum o simulovaných študentoch zistil, že simulovaní študenti opustili pridelenú mylnú predstavu po minimálnej korekcii, čo vyvoláva pochybnosti o tom, či vôbec reprezentujú konceptuálnu zmenu ([[simulating-students|Simulovanie študentov]], [[llm-student-simulation-misconception-faithfulness|Simulovať študentov alebo patolízalské riešenie problémov?]]). Použite ich na nájdenie chýb vo svojom prompte skôr, než sa s ním stretnú reálni študenti, a potom akékoľvek tvrdenie o študentoch považujte za neoverené.
 
 ## Nastavte podmienku AI v kroku, ktorý nesie učenie
 
@@ -140,7 +140,7 @@ Spoľahlivosť je konzistencia, platnosť je otázka, či je interpretácia a po
 
 ### „Jedna dobre prebehnutá konverzácia ukazuje, že tutor je bezpečný.“
 
-Vzdelávacie škody sa hromadia počas interakcie. Systém môže na jeden prompt odpovedať primerane a potom v priebehu ťahov začať dodávať odpovede, posilňovať mylnú predstavu, podporovať závislosť alebo vybočiť zo svojej tutorskej roly. Benchmark SafeTutors zhrnutý v tejto wiki zistil, že zlyhania pedagogickej škody prudko rastú, keď sa systémy hodnotia vo viacerých ťahoch namiesto jednej výmeny ([[hazra-safetutors-pedagogical-safety-2026|Bezpečnosť AI tutora a pedagogické škody]]). Vyžadujte dlhé konverzácie, opakované chyby študentov, pokusy o priamu odpoveď, emocionálne a relačné scenáre, adversariálne promptovanie a meranie závislosti v čase. Dôkaz z benchmarku tohto druhu nie je odhadom učenia v triede a je to minimum, o ktoré sa má opierať tvrdenie o bezpečnosti.
+Vzdelávacie škody sa hromadia počas interakcie. Systém môže na jeden prompt odpovedať primerane a potom v priebehu ťahov začať dodávať odpovede, posilňovať mylnú predstavu, podporovať závislosť alebo vybočiť zo svojej tutorskej roly. Benchmark SafeTutors zistil, že zlyhania pedagogickej škody prudko rastú, keď sa systémy hodnotia vo viacerých ťahoch namiesto jednej výmeny ([[hazra-safetutors-pedagogical-safety-2026|Bezpečnosť AI tutora a pedagogické škody]]). Vyžadujte dlhé konverzácie, opakované chyby študentov, pokusy o priamu odpoveď, emocionálne a relačné scenáre, adversariálne promptovanie a meranie závislosti v čase. Dôkaz z benchmarku tohto druhu nie je odhadom učenia v triede a je to minimum, o ktoré sa má opierať tvrdenie o bezpečnosti.
 
 ### „Ľudské preskúmanie je dočasná záplata, kým sa modely nezlepšia.“
 
@@ -172,7 +172,7 @@ Preukazuje výkon človeka plus nástroja. Kompetencia sa ukazuje v tom, či nie
 
 ### „AI gramotnosť znamená vedieť napísať dobrý prompt.“
 
-Promptovanie je jedna operačná zručnosť. Rozsah, ktorý záleží pre učiteľa alebo zamestnanca, je širší: čo [[ai-technologies|systémy AI]] dokážu spoľahlivo a čo nie, ako hodnotiť presnosť a predpojatosť, ako AI ovplyvňuje platnosť hodnotenia, kedy sa odľahčenie stáva vytlačením, požiadavky na súkromie a prístupnosť, ako používanie zapadá do disciplíny a kedy ho vôbec nepoužiť. Syntéza v tejto wiki zistila, že učitelia podstatne precenili svoju AI kompetenciu, keď sa sebahodnotenia porovnali s meraniami výkonu, a preukázaná kompetencia predpovedala integráciu do triedy oveľa lepšie než sebadôvera ([[ai-literacy-assessment-misalignment|Hodnotenie AI gramotnosti: nesúlad medzi sebahodnotením a výkonom]]). Techniky promptov tiež starnú rýchlejšie než úsudok. Učte [[prompt-engineering|prácu s promptmi]] ako zručnosť a hodnoťte [[teacher-ai-competency|AI kompetenciu učiteľa]] ako tú širšiu.
+Promptovanie je jedna operačná zručnosť. Rozsah, ktorý záleží pre učiteľa alebo zamestnanca, je širší: čo [[ai-technologies|systémy AI]] dokážu spoľahlivo a čo nie, ako hodnotiť presnosť a predpojatosť, ako AI ovplyvňuje platnosť hodnotenia, kedy sa odľahčenie stáva vytlačením, požiadavky na súkromie a prístupnosť, ako používanie zapadá do disciplíny a kedy ho vôbec nepoužiť. Syntéza dôkazov zistila, že učitelia podstatne precenili svoju AI kompetenciu, keď sa sebahodnotenia porovnali s meraniami výkonu, a preukázaná kompetencia predpovedala integráciu do triedy oveľa lepšie než sebadôvera ([[ai-literacy-assessment-misalignment|Hodnotenie AI gramotnosti: nesúlad medzi sebahodnotením a výkonom]]). Techniky promptov tiež starnú rýchlejšie než úsudok. Učte [[prompt-engineering|prácu s promptmi]] ako zručnosť a hodnoťte [[teacher-ai-competency|AI kompetenciu učiteľa]] ako tú širšiu.
 
 ### „Základné disciplinárne vedomosti sú zastarané, pretože AI ich dokáže vyhľadať.“
 
@@ -200,7 +200,7 @@ Výstup je citlivý na prompt a často nedeterministický, takže malé zmeny vo
 
 ### „Mladí ľudia sú už AI gramotní, pretože sú digitálni domorodci.“
 
-Znalosť digitálnych produktov nie je schopnosť hodnotiť AI. Študent dokáže otvoriť chatbota, vygenerovať obrázok a požiadať o odpoveď, pričom nedokáže overiť tvrdenie, odhaliť vymyslený dôkaz, rozpoznať predpojatosť alebo patolízalstvo, chrániť osobné údaje, rozhodnúť, čo nedelegovať, ani vysvetliť, ako AI ovplyvnila prácu. Wiki zhrňuje výskum, v ktorom sa sebadôvera pri každodenných technológiách nepreniesla do algoritmického uvažovania, technologickej tvorby ani kritického hodnotenia AI ([[digital-literacy-illusion|Ilúzia kompetencie]]). Gramotnosť sa vyučuje a preukazuje, vek a frekvencia používania ju neudeľujú.
+Znalosť digitálnych produktov nie je schopnosť hodnotiť AI. Študent dokáže otvoriť chatbota, vygenerovať obrázok a požiadať o odpoveď, pričom nedokáže overiť tvrdenie, odhaliť vymyslený dôkaz, rozpoznať predpojatosť alebo patolízalstvo, chrániť osobné údaje, rozhodnúť, čo nedelegovať, ani vysvetliť, ako AI ovplyvnila prácu. Výskum ukazuje, že sebadôvera pri každodenných technológiách sa nepreniesla do algoritmického uvažovania, technologickej tvorby ani kritického hodnotenia AI ([[digital-literacy-illusion|Ilúzia kompetencie]]). Gramotnosť sa vyučuje a preukazuje, vek a frekvencia používania ju neudeľujú.
 
 ### „Študenti, ktorí používajú AI, sú leniví alebo nečestní.“
 
@@ -228,7 +228,7 @@ Automatizovať úlohy nie je nahradiť vzdelávaciu funkciu. Písanie príkladov
 
 ## V čom sa mýlia ľudia, ktorí to vedú
 
-Mylné predstavy vyššie patria publiku, pre ktoré je stránka napísaná. Tieto patria ľuďom, ktorí píšu memorandum, a preto dobré opravy nezaberajú.
+Prvá skupina patrí publiku, na ktoré tieto opravy cielia. Druhá patrí ľuďom, ktorí píšu memorandum, a práve preto dobré opravy nezaberajú.
 
 ### „Data-driven znamená objektívne.“
 
@@ -258,7 +258,7 @@ Zahanbenie produkuje obrannosť a skrývanie a odkazy ako „AI používajú len
 
 Mechanika je dosť krátka na použitie na porade pedagogického zboru. Pomenujte presvedčenie, povedzte, prečo vyzerá pravdivo, jasne ho odmietnite, vysvetlite zlyhanie, dajte lepší model a podajte aplikáciu.
 
-Spracovaná verzia, ktorú môžete prispôsobiť ktorejkoľvek položke na tejto stránke:
+Spracovaná verzia, ktorú môžete prispôsobiť ktorejkoľvek mylnej predstave na zozname:
 
 > **Mylná predstava:** „Dobre vytvorené zadanie od AI ukazuje, že sa študent naučil.“
 > **Refutácia:** „To nemusí byť pravda. Produkt ukazuje, čo vytvorili študent a AI spolu, ale neodhaľuje, ktoré uvažovanie vykonal študent.“
@@ -313,6 +313,6 @@ Rušenie sa deje vnútri disciplíny, v kroku, kde nástroj vykonáva prax, ktor
 
 ## Kam ďalej
 
-[[misconceptions|Mylné predstavy o AI]] sú syntézou za touto stránkou a [[refutation-text|Refutačný text]] je metóda, ako ju použiť pred plnou miestnosťou. [[reduce-ai-cheating|Ako znížiť podvádzanie s AI?]] rieši rozhodnutia o integrite, [[redesign-assessment-ai-era|Ako má byť hodnotenie prepracované pre éru AI?]] rieši, čo známka dokáže podporiť, a [[ai-ed-evaluation|Hodnotenie AI vo vzdelávaní]] je sprievodca pre posudzovanie pilota alebo platformy. Na strane výučby [[teacher-ai-competency|AI kompetencia učiteľa]] a [[ai-literacy|AI gramotnosť]] pokrývajú to, čo ľudia v miestnosti potrebujú dokázať.
+[[misconceptions|Mylné predstavy o AI]] sú syntézou za týmito opravami a [[refutation-text|Refutačný text]] je metóda, ako ju použiť pred plnou miestnosťou. [[reduce-ai-cheating|Ako znížiť podvádzanie s AI?]] rieši rozhodnutia o integrite, [[redesign-assessment-ai-era|Ako má byť hodnotenie prepracované pre éru AI?]] rieši, čo známka dokáže podporiť, a [[ai-ed-evaluation|Hodnotenie AI vo vzdelávaní]] je sprievodca pre posudzovanie pilota alebo platformy. Na strane výučby [[teacher-ai-competency|AI kompetencia učiteľa]] a [[ai-literacy|AI gramotnosť]] pokrývajú to, čo ľudia v miestnosti potrebujú dokázať.
 
 Myšlienka, ktorú si treba nechať, vo forme, ktorú dokážete vysloviť nahlas: AI je omylný kognitívny zdroj, nie autorita, nie myseľ a nie dôkaz, že sa učenie stalo. Zodpovedné používanie drží človeka zodpovedného, zachováva myslenie, ktoré učenie vyžaduje, overuje to, na čom záleží, a hodnotí úspech podľa trvácnej a rovnej schopnosti, nie podľa plynulosti, rýchlosti, zapojenia alebo dokončenej úlohy.

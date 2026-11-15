@@ -10,9 +10,9 @@ technology: [educational-nlp, generative-ai, llm]
 ethics: [accessibility]
 audience: [instructors, curriculum designers, instructional designers]
 level: [higher ed, secondary, primary education]
-updated: "2026-11-08T04:27:04-05:00"
+updated: "2026-11-15T16:26:07-05:00"
 translation_of: "faqs/ai-support-reading-comprehension"
-source_updated: "2026-11-06T02:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Dacă predai orice materie, alegi lecturi, adaptezi texte și decizi dacă o sur
 
 **Găsește și adaptează texte la scară.** IA este puternică la localizarea surselor, simplificarea vocabularului, generarea de glosare și transformarea unui pasaj într-un [[study-with-ai|ghid de studiu sau rezumat]]. Folosește-o pentru părțile mecanice ale pregătirii lecturii — scanare, nivelare, extragerea termenilor-cheie — și păstrează verificarea umană pentru ce contează.
 
-**Modelează cititorul, nu textul.** Pentru că variabilele cititorului poartă mult din semnalul privind cât de greu pare un text, instrumentele care profilează cititorul prezic dificultatea percepută mai bine decât orice formulă. În cel mai mare studiu din baza de cunoștințe, 193 de elevi germani de liceu au evaluat 3.954 de propoziții, iar modelele bazate pe profil (cel mai bun ansamblu RMSE 0,822 vs. o linie de bază medie de 1,070) au depășit scorurile Flesch ale textelor, care au evaluat același material ca mult mai greu decât l-au experimentat elevii — 72,8% din adnotări erau ușoare sau foarte ușoare ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad, 2025]]). Versiunea practică: evaluările câtorva studenți asupra unui pasaj bat eticheta oricărei formule.
+**Modelează cititorul, nu textul.** Pentru că variabilele cititorului poartă mult din semnalul privind cât de greu pare un text, instrumentele care profilează cititorul prezic dificultatea percepută mai bine decât orice formulă. În cel mai mare studiu din această literatură, 193 de elevi germani de liceu au evaluat 3.954 de propoziții, iar modelele bazate pe profil (cel mai bun ansamblu RMSE 0,822 vs. o linie de bază medie de 1,070) au depășit scorurile Flesch ale textelor, care au evaluat același material ca mult mai greu decât l-au experimentat elevii — 72,8% din adnotări erau ușoare sau foarte ușoare ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad, 2025]]). Versiunea practică: evaluările câtorva studenți asupra unui pasaj bat eticheta oricărei formule.
 
 ## Unde IA rămâne în urmă
 

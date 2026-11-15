@@ -1,7 +1,7 @@
 ---
 title: "Mistä tiedämme, että koulutustekoäly toimii oikein eikä vain saa hyviä pisteitä?"
 created: "2026-10-02T08:07:09-04:00"
-connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
 foundations: [ai-education]
@@ -14,9 +14,9 @@ discipline: [writing education, math education]
 confidence: high
 methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
-updated: "2026-10-29T14:13:23-04:00"
+updated: "2026-11-15T16:23:06-05:00"
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -58,7 +58,7 @@ Linear Control Systems -kurssin avustaja raportoi tämän oikein. Sen paras konf
 
 ## Pisteytä jokainen tuotos erikseen
 
-WrAFT-hankkeessa hienosäädetty malli ylsi **0,84**:n yksimielisyyspisteeseen ihmisarvostelijoiden kanssa 360 pidätetyssä TOEFL-esseessä. Se on vahva tulos arvostelulle. Saman hankkeen palautteen kirjoittamiseen koulutettu malli tuotti tuotosta, joka oli katkaistua ja jäsentämätöntä, kun taas toisen mallin pelkkä kehottaminen tuotti palautetta, jota opettajat pitivät parempana ([[wraft-automated-writing-evaluation-argumentative-2026|WrAFT-arviointi argumentoivalle kirjoittamiselle]]).
+WrAFT-hankkeessa hienosäädetty malli ylsi **0,84**:n yksimielisyyspisteeseen ihmisarvostelijoiden kanssa 360 pidätetyssä TOEFL-esseessä. Se on vahva tulos arvostelulle. Saman hankkeen palautteen kirjoittamiseen koulutettu malli tuotti tuotosta, joka oli katkaistua ja jäsentämätöntä, kun taas toisen mallin pelkkä [[prompt-engineering|kehottaminen]] tuotti palautetta, jota opettajat pitivät parempana ([[wraft-automated-writing-evaluation-argumentative-2026|WrAFT-arviointi argumentoivalle kirjoittamiselle]]).
 
 Tietopohja tuntee saman epäonnistumisen toisessa muodossa: käyttöönotto, jonka arvostelumoduuli sai hyvät pisteet ja jonka palaute saapui kesken lauseen katkaistuna ja lukukelvottomana. Mikään otsikkoluvussa ei kertonut sitä.
 
@@ -66,7 +66,7 @@ Listaa siis järjestelmäsi tuottamat tuotokset ja anna jokaiselle oma mittari j
 
 ## Laita ihminen sinne, missä malli on epävarma
 
-Korrelaatio kertoo, että malli on yleensä oikeassa. Se ei kerro, mitä tehdä niillä kerroilla, kun se ei ole. Luottamukseen perustuva ohjaus on tietopohjan selkein malli, ja se on niin lyhyt, että sen voi kopioida.
+Korrelaatio kertoo, että malli on yleensä oikeassa. Se ei kerro, mitä tehdä niillä kerroilla, kun se ei ole. Luottamukseen perustuva ohjaus on näytön selkein malli, ja se on niin lyhyt, että sen voi kopioida.
 
 Luottamus osoittautui luotettavaksi varoitusmerkiksi: kun malli oli epävarma, se oli todennäköisemmin väärässä (**β = -0,602, p < 0,001**). Tiimi lähetti vähiten luotetut **20 %** vastauksista ihmiselle. Se yksi sääntö nosti yksimielisyyden ihmisarvosanojen kanssa **0,78:sta 0,82:een** ja leikkasi manuaalisen arvostelutyön noin **80 %:lla** ([[know-when-to-trust-ai-scoring-reliability-2026|Milloin tekoälyn pisteytykseen voi luottaa]]).
 
@@ -84,13 +84,13 @@ Käytännön versio: ota noin viidenkymmenen tuotoksen otos, anna ihmisen arvioi
 
 Selkein korjaus on kouluttaa malli samalla suureella, jota aiot mitata. Hienosäädetty malli koulutettiin toistamaan koekysymysten tilastolliset ominaisuudet: miten vaikea kukin osio on ja miten hyvin se erottelee vahvemmat heikommista. Se oppi ne kuviot sen sijaan, että ne olisi kerrottu sille ([[multimodal-item-parameter-estimation-2026|Multimodaalinen osioparametrien estimointi]]). Koska tavoite oli arvioinnin itsensä ominaisuus, arviointi voi koskea sitä ominaisuutta sanamuodon sijaan.
 
-Raportoi sekä kehityskulku että lopputulos. SWIMin kirjoitussimulaattori julkaisi jokaisen vaiheen pistemäärän rinnakkain: arviointikriteeristöön perustuva kehottaminen **0,577**, hienosäätö **0,474 ± 0,023**, vahvistusoppiminen **0,618 ± 0,005** ([[swim-student-writing-simulation-2026|SWIM-opiskelijakirjoittamisen simulaatio]]). Lukija näkee siitä taulukosta, tekikö koulutus mitään. Yksi lopullinen luku ei kerro sitä, ja se kätkee vaiheen, jossa hienosäädetty malli suoriutui kehottamista huonommin.
+Raportoi sekä kehityskulku että lopputulos. SWIMin [[simulation|kirjoitussimulaattori]] julkaisi jokaisen vaiheen pistemäärän rinnakkain: arviointikriteeristöön perustuva kehottaminen **0,577**, hienosäätö **0,474 ± 0,023**, [[reinforcement-learning|vahvistusoppiminen]] **0,618 ± 0,005** ([[swim-student-writing-simulation-2026|SWIM-opiskelijakirjoittamisen simulaatio]]). Lukija näkee siitä taulukosta, tekikö koulutus mitään. Yksi lopullinen luku ei kerro sitä, ja se kätkee vaiheen, jossa hienosäädetty malli suoriutui kehottamista huonommin.
 
 ## Vertaa johonkin projektisi ulkopuoliseen
 
 Ota ensin perustaso, myös halpa sellainen. Kurssiavustajan malli ilman taustatietoja sai huonommat pisteet kuin pelkkä avainsanahaku, ja se on sellainen tulos, joka muuttaa tiekarttaa ja jonka löytäminen maksaa yhden päivän.
 
-Ulkopuolinen vertailuanalyysi kertoo sitten, onko lukusi ylipäätään hyvä. CDPK-pedagogiikkamittarissa EduQwen ylsi **96,52 %**:iin Gemini-3 Pron **90,55 %**:ta vastaan ([[singh-eduqwen-pedagogical-rl-2026|EduQwen ja pedagoginen vahvistusoppiminen]]). Pedagogy Benchmark, joka rakennettiin todellisista opettajien täydennyskoulutuskokeista ja kattoi **97 mallia**, havaitsi tarkkuuden vaihtelevan **28 %:sta 89 %:iin** ([[cdpk-pedagogy-benchmark-llms|Lelièvre ym., 2025]]).
+Ulkopuolinen vertailuanalyysi kertoo sitten, onko lukusi ylipäätään hyvä. CDPK-[[pedagogy|pedagogiikka]]mittarissa EduQwen ylsi **96,52 %**:iin Gemini-3 Pron **90,55 %**:ta vastaan ([[singh-eduqwen-pedagogical-rl-2026|EduQwen ja pedagoginen vahvistusoppiminen]]). Pedagogy Benchmark, joka rakennettiin todellisista [[teacher-role|opettajien]] täydennyskoulutuskokeista ja kattoi **97 mallia**, havaitsi tarkkuuden vaihtelevan **28 %:sta 89 %:iin** ([[cdpk-pedagogy-benchmark-llms|Lelièvre ym., 2025]]).
 
 Opetusta koskevassa tehtävässä mallit vaihtelivat heikosta hyvään, joten vertailuanalyysin tulos sijoittaa järjestelmäsi johonkin kohtaan leveää vaihteluväliä.
 
@@ -102,9 +102,9 @@ Aja tarkistus kokonaisten keskustelujen yli ja kirjoita testivuorot harkiten: v�
 
 ## Tarkista simuloitu opiskelija ennen kuin luotat siihen
 
-Simuloitujen opiskelijoiden tuottaminen todellisten rekrytoimisen sijaan tekee arvioinnista paljon halvempaa. Simuloitu opiskelija on myös mittaväline, ja se voi olla väärässä samoilla tavoilla kuin välineet ovat väärässä: liian yhteistyöhaluinen, liian sujuva, liian nopea hyväksymään vihjeen.
+[[simulating-students|Simuloitujen opiskelijoiden]] tuottaminen todellisten rekrytoimisen sijaan tekee arvioinnista paljon halvempaa. Simuloitu opiskelija on myös mittaväline, ja se voi olla väärässä samoilla tavoilla kuin välineet ovat väärässä: liian yhteistyöhaluinen, liian sujuva, liian nopea hyväksymään vihjeen.
 
-Suorin testi tietopohjassa vertasi simuloituja ja kehotettuja opiskelijoita **382 pidätettyyn dialogiin** suurimmasta julkisesta todellisten opiskelija-ohjaaja-dialogien matematiikka-aineistosta, käyttäen seitsemää mittaria, jotka kattoivat kielen, käyttäytymisen ja ajattelun ([[simulated-students-tutoring-dialogues-2026|Simuloidut opiskelijat ohjausdialogeissa]]). Muu työ työntää realismia eri suunnista: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] kouluttaa mallit sekä toimimaan että ajattelemaan kuin opiskelijat, ja historiaan perustuvat profiilit ehdollistavat simulaation opiskelijan menneisyyteen kiinteän persoonan sijaan ([[history-aware-student-simulation|Historiaan perustuva opiskelijasimulaatio]]).
+Suorin testi näytössä vertasi simuloituja ja kehotettuja opiskelijoita **382 pidätettyyn dialogiin** suurimmasta julkisesta todellisten opiskelija-ohjaaja-dialogien matematiikka-aineistosta, käyttäen seitsemää mittaria, jotka kattoivat kielen, käyttäytymisen ja ajattelun ([[simulated-students-tutoring-dialogues-2026|Simuloidut opiskelijat ohjausdialogeissa]]). Muu työ työntää realismia eri suunnista: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] kouluttaa mallit sekä toimimaan että ajattelemaan kuin opiskelijat, ja historiaan perustuvat profiilit ehdollistavat simulaation opiskelijan menneisyyteen kiinteän persoonan sijaan ([[history-aware-student-simulation|Historiaan perustuva opiskelijasimulaatio]]).
 
 Jos testikehyksesi on simuloitu opiskelija, validoi simulaattori todellisia litteraatioita vastaan ennen kuin annat sen arvostella ohjaajasi.
 

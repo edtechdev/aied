@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:19:08-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,8 @@ A társ-visszajelzés megérdemli a maga helyét a sorrendben. [[scaffolding-srl
 
 Gu és mtsai előnye kicsi volt, és valósnak, de önmagában nem átalakítónak olvassák. A tanári állványozás, a prompt-irányelvek és a munkalapok végezték a támogató munkát.
 
+Lehet, hogy a forrás kevésbé számít, mint az időzítés. 391 német középiskolás diáknál a tanár által írt és az LLM-visszajelzés nem mutatott szignifikáns különbséget a revíziókban, a későbbi írásban, a feladatra fordított időben vagy az észlelésben; a bayesi utóeloszlások a későbbi írásnál a tanári visszajelzés felé hajlottak, de a tömeg egynegyedétől kétötödéig az ekvivalencia-tartományon belül maradt, és csak az azonnali MI-visszajelzés kapott jobb hasznossági és motivációs értékelést ([[meyer-teacher-ai-feedback-writing-2026|Meyer és mtsai, 2026]]). Ha egy első körös megjegyzés megérkezhet, miközben a diák még dolgozik, az az időzítés a tervezés része, amely a munkát végzi.
+
 ## Adjon a modellnek rubrikát, aztán mutassa meg a lépéseit
 
 A rubrikára hivatkozó generálás az automatizálható rész.
@@ -88,11 +90,11 @@ Farrokhnia és mtsai minőségi nyeresége egy gondolatmenet-promptból jött, a
 
 [[becerra-aicofe-feedback-2026|Becerra, Palma és Cobos (2026)]] az AICoFE-ot írják le, amely három függetlenül finomhangolt modellt (GPT-4.1-mini, Gemini 2.5 Flash, Llama 3.1) futtat rubrikapontszámokon és [[qualitative-research|kvalitatív]] megfigyeléseken, hogy független vázlatmegjegyzéseket állítson elő. Az oktató ezután a végső üzenetet mondatok vagy bekezdések kiválasztásával állítja össze, egy jelmagyarázat mutatja, melyik modell mit adott hozzá. A modell vázol. Az oktató kézbesít, és a kézbesített anyagot egy személy írja alá, aki elolvasta a vázlatot.
 
-Aldino és mtsai ugyanezt a segíts, aztán ellenőrizz mintát találják a mindennapi gyakorlatban. A [[machine-learning|gépi tanulási]] komponens leggyakrabban a „Megfelel a tanulási célnak” hiányát jelezte (21 tanárból 20 kihagyta; 16 elfogadta a jelzést) és a „Diák-tanár kapcsolat” hiányát (14 kihagyta; 12 elfogadta). A tanárok szakmai ítélettel döntöttek minden javaslatról, ez a lényege annak, hogy bevonjuk őket a folyamatba.
+Aldino és mtsai ugyanezt a segíts, aztán ellenőrizz mintát találják a mindennapi gyakorlatban. A [[machine-learning|gépi tanulás]] komponense leggyakrabban a „Megfelel a tanulási célnak” hiányát jelezte (21 tanárból 20 kihagyta; 16 elfogadta a jelzést) és a „Diák-tanár kapcsolat” hiányát (14 kihagyta; 12 elfogadta). A tanárok szakmai ítélettel döntöttek minden javaslatról, ezért érdemes a folyamatban tartani őket.
 
 Aldino és mtsai 21 tanára közül tizenketten tettek további mondatszintű módosításokat, és a domináns minta a hangnem kalibrálása volt: a dicséret lefelé szerkesztése (f = 11), javaslatok eltávolítása (f = 9), bátorítás eltávolítása (f = 8). Az átdolgozások a kapcsolati dimenzióban csoportosultak, különösen a diák-tanár kapcsolatban (f = 24). Az eredetiséget és a szakmai hangot védték, és az a munka nem automatizálódik.
 
-A hallgatók a másik oldala ennek az ellenőrzésnek, és a munkamegosztásról adott beszámolójuk közel áll ahhoz, amit ez az oldal javasol. Húsz alapképzéses hallgató fókuszcsoportjaiban az oktató visszajelzését kapcsolati jellege, személyre szabottsága és szakértői megalapozottsága miatt értékelték, míg az AI által generált visszajelzés személytelennek és esetleg igazságtalannak tűnt; ugyanezek a hallgatók nyitottak voltak egy hibrid modellre, amelyben az oktató elolvassa a munkájukat és kiegészíti a modell megjegyzéseit ([[fong-chatgpt-feedback-evaluations-2026|Fong és mtsai (2026)]]). Ugyanez a vizsgálat azt találta, hogy ítéleteik a ChatGPT-ével egyeztek a specifikusságban és a megvalósíthatóságban, de eltértek az időszerűségben és a pozitivitásban, így azok a dimenziók, amelyekben a modell saját ítéletében meg lehet bízni, szűkebbek a teljes rubrikánál.
+A hallgatók a másik oldala ennek az ellenőrzésnek, és a munkamegosztásról adott beszámolójuk közel áll az ajánlott munkamegosztáshoz. Húsz alapképzéses hallgató fókuszcsoportjaiban az oktató visszajelzését kapcsolati jellege, személyre szabottsága és szakértői megalapozottsága miatt értékelték, míg a MI által generált visszajelzés személytelennek és esetleg igazságtalannak tűnt; ugyanezek a hallgatók nyitottak voltak egy hibrid modellre, amelyben az oktató elolvassa a munkájukat és kiegészíti a modell megjegyzéseit ([[fong-chatgpt-feedback-evaluations-2026|Fong és mtsai (2026)]]). Ugyanez a vizsgálat azt találta, hogy ítéleteik a ChatGPT-ével egyeztek a specifikusságban és a megvalósíthatóságban, de eltértek az időszerűségben és a pozitivitásban, így azok a dimenziók, amelyekben a modell saját ítéletében meg lehet bízni, szűkebbek a teljes rubrikánál.
 
 ## Tanítsa meg a diákokat elolvasni a megjegyzést
 
@@ -144,6 +146,6 @@ Az elégedettségi értékelések megmondják, hogy a megjegyzések pontosak. A 
 
 ## Hová tovább
 
-[[feedback|A visszajelzés]] az egész rendszer gyűjtőfogalma: nyújtás, hurok, átvétel és értékelési kontextus. Az [[ai-feedback-quality|MI-visszajelzés minősége]] fedi, mitől pontos, hasznos, időszerű és pedagógiailag megalapozott egy generált megjegyzés, és ez az oldal a gyakorlati közép, arról, mely kombinációk termelnek jobb visszajelzést nagy léptékben.
+[[feedback|A visszajelzés]] az egész rendszer gyűjtőfogalma: nyújtás, hurok, átvétel és értékelési kontextus. Az [[ai-feedback-quality|MI-visszajelzés minősége]] fedi, mitől pontos, hasznos, időszerű és pedagógiailag megalapozott egy generált megjegyzés, a gyakorlati kérdés pedig az, hogy mely kombinációk termelnek jobb visszajelzést nagy léptékben.
 
 Azok a kérdések, hogy mit jelenthet egy jegy, ha a MI érintett, beleértve a konstruktumhelyettesítést, a hitelesített folyamatbizonyítékot és az integritási szabályokat, a [[redesign-assessment-ai-era|az értékelés újratervezése a MI korszakában]] és az [[assessment-validity|értékelési érvényesség]] oldalakhoz tartoznak, nem ide. Az írásoktatás speciális esetéhez lásd a [[writing-instruction-ai-best-practices|az írásoktatás bevált gyakorlatai a MI kontextusában]] oldalt.

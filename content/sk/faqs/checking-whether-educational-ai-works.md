@@ -1,7 +1,7 @@
 ---
 title: "Ako vieme, že vzdelávacia AI funguje správne, a nielen dobre skóruje?"
 created: "2026-10-02T08:07:09-04:00"
-connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
 foundations: [ai-education]
@@ -14,9 +14,9 @@ discipline: [writing education, math education]
 confidence: high
 methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
-updated: "2026-10-29T12:11:33-04:00"
+updated: "2026-11-15T16:27:26-05:00"
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -54,21 +54,21 @@ Tejto literatúre dominujú dve rodiny čísel. Obe merajú, ako veľmi sa váš
 
 Študent sa môže dostať k nesprávnej odpovedi nesprávnou cestou, ktorá vyzerá ako správna, a žiadne skóre podobnosti si to nevšimne. Ak je uvažovanie to, na čom vám záleží, miera ho musí čítať: rubrika aplikovaná človekom alebo kontrola napísaná pre ten konkrétny krok.
 
-Asistent kurzu Lineárne riadiace systémy to vykazuje správne. Jeho najlepšia konfigurácia dosiahla skóre podobnosti **0,4093** voči referenčným odpovediam, pričom zlepšenie bolo spoľahlivo merateľné nad nulou, a autori priamo uvádzajú, že tie čísla merajú formulácie a formát ([[lora-finetuned-control-systems-course-qa-2026]]). Skóre je nepresvedčivé a článok je napriek tomu užitočný, pretože hovorí, čo skóre pokrýva.
+Asistent kurzu Lineárne riadiace systémy to vykazuje správne. Jeho najlepšia konfigurácia dosiahla skóre podobnosti **0,4093** voči referenčným odpovediam, pričom zlepšenie bolo spoľahlivo merateľné nad nulou, a autori priamo uvádzajú, že tie čísla merajú formulácie a formát ([[lora-finetuned-control-systems-course-qa-2026|Lu et al., 2026]]). Skóre je nepresvedčivé a článok je napriek tomu užitočný, pretože hovorí, čo skóre pokrýva.
 
 ## Skórujte každý výstup samostatne
 
-V projekte WrAFT dosiahol doladený model skóre zhody **0,84** s ľudskými hodnotiteľmi na 360 vyčlenených esejach TOEFL. To je silný výsledok pre známkovanie. Model toho istého projektu trénovaný na písanie spätnej väzby produkoval výstup, ktorý bol skrátený a neparsovateľný, kým jednoduché promptovanie iného modelu prinieslo spätnú väzbu, ktorú učitelia preferovali ([[wraft-automated-writing-evaluation-argumentative-2026]]).
+V projekte WrAFT dosiahol doladený model skóre zhody **0,84** s ľudskými hodnotiteľmi na 360 vyčlenených esejach TOEFL. To je silný výsledok pre známkovanie. Model toho istého projektu trénovaný na písanie spätnej väzby produkoval výstup, ktorý bol skrátený a neparsovateľný, kým jednoduché [[prompt-engineering|promptovanie]] iného modelu prinieslo spätnú väzbu, ktorú učitelia preferovali ([[wraft-automated-writing-evaluation-argumentative-2026|Labib et al., 2026]]).
 
-Vedomostná báza nesie to isté zlyhanie v druhej podobe: nasadenie, ktorého modul známkovania skóroval dobre a ktorého spätná väzba prichádzala odseknutá uprostred vety a nečitateľná. Nič v čísle do titulku to nehovorilo.
+To isté zlyhanie sa objavuje v druhej podobe: nasadenie, ktorého modul známkovania skóroval dobre a ktorého spätná väzba prichádzala odseknutá uprostred vety a nečitateľná. Nič v čísle do titulku to nehovorilo.
 
 Takže vypíšte výstupy, ktoré váš systém produkuje, a potom každému dajte vlastnú mieru a vlastnú podmienku splnenia. Známkovanie, text spätnej väzby, výber nápovedy a bezpečnostné odmietnutia zlyhávajú rôznymi spôsobmi a skóre na úrovni modulu nevidí za hranice svojho modulu.
 
 ## Dajte človeka tam, kde si model nie je istý
 
-Korelácia vám povie, že model má zvyčajne pravdu. Nepovie vám, čo robiť v prípadoch, keď ju nemá. Výsledok s presmerovaním podľa istoty je najčistejšou šablónou vo vedomostnej báze a je dosť krátky na to, aby ste ho skopírovali.
+Korelácia vám povie, že model má zvyčajne pravdu. Nepovie vám, čo robiť v prípadoch, keď ju nemá. Výsledok s presmerovaním podľa istoty je najčistejšou šablónou v dôkazoch a je dosť krátky na to, aby ste ho skopírovali.
 
-Istota sa ukázala ako spoľahlivý varovný signál: keď si model nebol istý, mal väčšiu pravdepodobnosť, že sa mýli (**β = -0,602, p < 0,001**). Tím poslal najmenej istých **20 %** odpovedí človeku. To jediné pravidlo zvýšilo zhodu s ľudskými známkami z **0,78 na 0,82** a znížilo ručné známkovanie približne o **80 %** ([[know-when-to-trust-ai-scoring-reliability-2026]]).
+Istota sa ukázala ako spoľahlivý varovný signál: keď si model nebol istý, mal väčšiu pravdepodobnosť, že sa mýli (**β = -0,602, p < 0,001**). Tím poslal najmenej istých **20 %** odpovedí človeku. To jediné pravidlo zvýšilo zhodu s ľudskými známkami z **0,78 na 0,82** a znížilo ručné známkovanie približne o **80 %** ([[know-when-to-trust-ai-scoring-reliability-2026|Organisciak et al., 2026]]).
 
 Pozrite sa, čo správa obsahuje: prah, človeka a úsporu. „Zhoda 0,84“ neobsahuje ani jedno z toho, a preto je ťažké podľa nej konať a ľahké sa o nej hádať.
 
@@ -76,35 +76,35 @@ Pozrite sa, čo správa obsahuje: prah, človeka a úsporu. „Zhoda 0,84“ neo
 
 Mnohé tímy dnes používajú druhý model na posudzovanie prvého. To usporiadanie je rozumné a druhý model nemá automaticky pravdu.
 
-Štúdia, v ktorej frontierový model písal nápovedy pre [[intelligent-tutoring|inteligentný doučovací systém]], zistila, že približne **35 %** z nich bolo príliš všeobecných, nesprávnych alebo prezrádzalo odpoveď, a že automatické kontroly kvality samotného modelu sa nezhodovali s ľudským úsudkom v tom, ktoré z nich sú zlé ([[reddig-maclellan-personalized-feedback-llm-2026]]).
+Štúdia, v ktorej frontierový model písal nápovedy pre [[intelligent-tutoring|inteligentný doučovací systém]], zistila, že približne **35 %** z nich bolo príliš všeobecných, nesprávnych alebo prezrádzalo odpoveď, a že automatické kontroly kvality samotného modelu sa nezhodovali s ľudským úsudkom v tom, ktoré z nich sú zlé ([[reddig-maclellan-personalized-feedback-llm-2026|Reddig et al., 2025]]).
 
 Praktická verzia: vezmite vzorku približne päťdesiatich výstupov, dajte ju ohodnotiť človeku a porovnajte to s hodnoteniami vášho kontrolóra. Kde sa tí dvaja rozídu, dozvedeli ste sa niečo o kontrolórovi. Vzorku aj tabuľku nezhôd si ponechajte, pretože je to aj artefakt, ktorý odpovie recenzentovi, ktorý sa spýta, ako to viete.
 
 ## Merajte samotnú veličinu, keď to úloha dovoľuje
 
-Najčistejšou opravou je trénovať model na tej istej veličine, ktorú chcete merať. Doladený model bol trénovaný reprodukovať štatistické vlastnosti testových otázok: ako je každá položka ťažká, ako dobre oddeľuje silnejších od slabších študentov. Tie vzorce sa naučil, a nie boli mu povedané ([[multimodal-item-parameter-estimation-2026]]). Pretože cieľom bola vlastnosť samotného hodnotenia, hodnotenie sa mohlo týkať tej vlastnosti namiesto formulácií.
+Najčistejšou opravou je trénovať model na tej istej veličine, ktorú chcete merať. Doladený model bol trénovaný reprodukovať štatistické vlastnosti testových otázok: ako je každá položka ťažká, ako dobre oddeľuje silnejších od slabších študentov. Tie vzorce sa naučil, a nie boli mu povedané ([[multimodal-item-parameter-estimation-2026|Ormerod et al., 2026]]). Pretože cieľom bola vlastnosť samotného hodnotenia, hodnotenie sa mohlo týkať tej vlastnosti namiesto formulácií.
 
-Vykazujte aj postup, nielen koncový bod. Simulátor písania SWIM zverejnil skóre každého štádia vedľa seba: promptovanie podľa rubriky **0,577**, doladenie **0,474 ± 0,023**, učenie posilňovaním **0,618 ± 0,005** ([[swim-student-writing-simulation-2026]]). Čitateľ z tej tabuľky vidí, či tréning niečo urobil. Jedno konečné číslo mu to nepovie a zároveň skryje štádium, v ktorom si doladený model počínal horšie než prompt.
+Vykazujte aj postup, nielen koncový bod. Simulátor písania [[simulation|SWIM]] zverejnil skóre každého štádia vedľa seba: promptovanie podľa rubriky **0,577**, doladenie **0,474 ± 0,023**, [[reinforcement-learning|učenie posilňovaním]] **0,618 ± 0,005** ([[swim-student-writing-simulation-2026|Do et al., 2026]]). Čitateľ z tej tabuľky vidí, či tréning niečo urobil. Jedno konečné číslo mu to nepovie a zároveň skryje štádium, v ktorom si doladený model počínal horšie než prompt.
 
 ## Porovnajte sa s niečím mimo svojho projektu
 
 Najprv získajte základnú líniu, vrátane lacnej. Model asistenta kurzu bez zakotvenia skóroval pod jednoduchým vyhľadávaním podľa kľúčových slov, čo je výsledok, ktorý mení plán a stojí jeden deň hľadania.
 
-Vonkajší benchmark potom povie, či je vaše číslo vôbec dobré. Na pedagogickom benchmarku CDPK dosiahol EduQwen **96,52 %** oproti **90,55 %** Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Pedagogy Benchmark, postavený zo skutočných skúšok profesijného rozvoja učiteľov a pokrývajúci **97 modelov**, našiel presnosť od **28 % do 89 %** ([[cdpk-pedagogy-benchmark-llms|Lelièvre a spol., 2025]]).
+Vonkajší benchmark potom povie, či je vaše číslo vôbec dobré. Na [[pedagogy|pedagogickom]] benchmarku CDPK dosiahol EduQwen **96,52 %** oproti **90,55 %** Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026|Singh et al., 2026]]). Pedagogy Benchmark, postavený zo skutočných skúšok profesijného rozvoja [[teacher-role|učiteľov]] a pokrývajúci **97 modelov**, našiel presnosť od **28 % do 89 %** ([[cdpk-pedagogy-benchmark-llms|Lelièvre a spol., 2025]]).
 
 Pri úlohe o vyučovaní sa modely pohybovali od slabých po dobré, takže výsledok benchmarku umiestňuje váš systém niekam do širokého rozsahu.
 
 ## Testujte bezpečnosť na celej konverzácii
 
-Väčšina bezpečnostného testovania kontroluje jednu výmenu. Škody, ktoré pri doučovaní záležia, sa hromadia. SafeTutors zistil, že aj modely postavené špeciálne na vyučovanie degradujú počas dlhej konverzácie a môžu prezradiť odpovede, ktoré by mali zadržiavať ([[hazra-safetutors-pedagogical-safety-2026]]).
+Väčšina bezpečnostného testovania kontroluje jednu výmenu. Škody, ktoré pri doučovaní záležia, sa hromadia. SafeTutors zistil, že aj modely postavené špeciálne na vyučovanie degradujú počas dlhej konverzácie a môžu prezradiť odpovede, ktoré by mali zadržiavať ([[hazra-safetutors-pedagogical-safety-2026|Hazra et al. (2026)]]).
 
 Spustite kontrolu na celých konverzáciách a testovacie ťahy napíšte zámerne: študent, ktorý sa mýli, ten, ktorý stále tlačí, ten, ktorý sa pokúša vymlátiť model z jeho roly. Doučovací systém, ktorý vydrží desať ťahov a zlomí sa pri jedenástom, zlyháva v teste, na ktorom záleží, a sada na úrovni jednotlivých odpovedí ho vyhodnotí ako čistý.
 
 ## Overte simulovaného študenta, než mu uveríte
 
-Generovanie simulovaných študentov namiesto získavania skutočných robí hodnotenie oveľa lacnejším. Simulovaný študent je však aj merací nástroj a môže sa mýliť spôsobmi, akými sa nástroje mýlia: je príliš ochotný spolupracovať, príliš plynulý, príliš rýchlo prijme nápovedu.
+Generovanie [[simulating-students|simulovaných študentov]] namiesto získavania skutočných robí hodnotenie oveľa lacnejším. Simulovaný študent je však aj merací nástroj a môže sa mýliť spôsobmi, akými sa nástroje mýlia: je príliš ochotný spolupracovať, príliš plynulý, príliš rýchlo prijme nápovedu.
 
-Najpriamejší test vo vedomostnej báze porovnal simulovaných a promptovaných študentov s **382 vyčlenenými dialógmi** z najväčšej verejnej zbierky skutočných dialógov študenta a doučovacieho systému v matematike, pomocou siedmich mier pokrývajúcich jazyk, správanie a myslenie ([[simulated-students-tutoring-dialogues-2026]]). Iná práca tlačí na realizmus z rôznych strán: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] trénuje modely, aby sa správali aj mysleli ako študenti, a profily zohľadňujúce históriu podmieňujú simuláciu minulosťou študenta namiesto fixnej persony ([[history-aware-student-simulation]]).
+Najpriamejší test v dôkazoch porovnal simulovaných a promptovaných študentov s **382 vyčlenenými dialógmi** z najväčšej verejnej zbierky skutočných dialógov študenta a doučovacieho systému v matematike, pomocou siedmich mier pokrývajúcich jazyk, správanie a myslenie ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). Iná práca tlačí na realizmus z rôznych strán: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] trénuje modely, aby sa správali aj mysleli ako študenti, a profily zohľadňujúce históriu podmieňujú simuláciu minulosťou študenta namiesto fixnej persony ([[history-aware-student-simulation|Duan et al., 2026]]).
 
 Ak je vaším zariadením simulovaný študent, overte simulátor voči skutočným prepisom skôr, než mu dovolíte hodnotiť váš doučovací systém.
 

@@ -11,9 +11,9 @@ research_method: [experiment, literature review, survey]
 audience: [learners, instructors]
 level: [higher ed, secondary]
 connected_resources: [gemini-notebook]
-updated: "2026-10-29T11:57:27-04:00"
+updated: "2026-11-15T16:26:33-05:00"
 translation_of: faqs/study-with-ai
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -43,15 +43,15 @@ Věta, kterou si z této stránky odnesete: stejný model otevřený v jiném bo
 
 ## Začněte relaci vlastním pokusem
 
-[[adaptive-pretesting-retention|Akgun a Toker (2026)]] dali 89 vysokoškolákům stejnou adaptivní pretestovou relaci a stejné instrukce a pak sedm týdnů odlišného procvičování. Skupina, jejíž AI sondovala miskoncepce, vyžadovala rozpracování hubených odpovědí a postupovala dál jen při skutečném konceptuálním zapojení, skórovala nejvýše v odloženém posttestu (M = 78,19) a věnovala procvičování nejvíc úsilí (M = 0,85). Volný chat se stejným modelem skóroval 67,28 a 0,49, rozdíl d = 0,92.
+[[adaptive-pretesting-retention|Akgun a Toker (2026)]] dali 89 vysokoškolákům stejnou adaptivní [[retrieval-spacing-interleaving|pretestovou relaci]] a stejné instrukce a pak sedm týdnů odlišného procvičování. Skupina, jejíž AI sondovala [[misconceptions|miskoncepce]], vyžadovala rozpracování hubených odpovědí a postupovala dál jen při skutečném konceptuálním zapojení, skórovala nejvýše v odloženém posttestu (M = 78,19) a věnovala procvičování nejvíc úsilí (M = 0,85). Volný chat se stejným modelem skóroval 67,28 a 0,49, rozdíl d = 0,92.
 
 Pokus dělá práci i tehdy, když je pokus špatný. Napsání odpovědi aktivuje to, co už víte, a ukáže vám hranici toho. Pak má oprava na co dopadnout.
 
-Politika, kterou můžete dnes večer vložit do jakéhokoli chatbota: *vysvětli to tak, jako by mě z toho zkoušeli, zkoušej mě po jedné otázce, nedávej mi odpověď, dokud se o ni nepokusím, řekni mi, co jsem udělal špatně a proč.* Ta věta reprodukuje uspořádání, které přineslo 78,19, a nic nestojí.
+Politika, kterou můžete dnes večer vložit do jakéhokoli [[conversational-ai|chatbota]]: *vysvětli to tak, jako by mě z toho zkoušeli, zkoušej mě po jedné otázce, nedávej mi odpověď, dokud se o ni nepokusím, řekni mi, co jsem udělal špatně a proč.* Ta věta reprodukuje uspořádání, které přineslo 78,19, a nic nestojí.
 
 ## Žádejte tutora a pojmenujte úkol
 
-Vágní žádosti dostávají vágní pomoc. [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg, Feldman-Maggor a Wong (2026)]] vedli rozhovory s 20 studenty STEM o tom, jak hledali pomoc, a našli čtyřfázovou posloupnost, kterou stojí za to kopírovat: rozhodnout se, zda je pomoc potřeba, vybrat, koho se zeptat, rozhodnout, jaký druh pomoci žádat, a posoudit, co se vrátilo. Tito studenti šli nejdřív k modelu, protože to byla možnost s nejnižší bariérou, slovy jednoho studenta „nejdřív ChatGPT, pak spolužáci a nakonec učitelé“, a žádali nápovědy, vedení krok za krokem a vysvětlení konceptů, ne hotová řešení. Jiný popsal chatbota jako „nápovědu, pomocný nástroj, ale ne samostatné řešení“.
+Vágní žádosti dostávají vágní pomoc. [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg, Feldman-Maggor a Wong (2026)]] vedli rozhovory s 20 studenty STEM o tom, jak hledali pomoc, a našli čtyřfázovou posloupnost, kterou stojí za to kopírovat: rozhodnout se, zda je pomoc potřeba, vybrat, koho se zeptat, rozhodnout, jaký druh pomoci žádat, a posoudit, co se vrátilo. Tito studenti šli nejdřív k modelu, protože to byla možnost s nejnižší bariérou, slovy jednoho studenta „nejdřív [[generative-ai|ChatGPT]], pak spolužáci a nakonec učitelé“, a žádali nápovědy, vedení krok za krokem a vysvětlení konceptů, ne hotová řešení. Jiný popsal chatbota jako „nápovědu, pomocný nástroj, ale ne samostatné řešení“.
 
 Jak to zní napsané: „Při integraci per partes mi pořád vychází špatné znaménko; tady je můj pokus; kde se to láme?“ Pojmenované místo, kde to drhne, dostane užitečnou odpověď a „pomoz mi s tímhle úkolem“ dostane koncept. Požádejte o řešený příklad jednoho typu úlohy, prostudujte jeho tvar a další už udělejte sami. Požádejte o vysvětlení konceptu tak, jako by vás z něj zkoušeli, a pak ho řekněte zpátky bez nahlédnutí. Žádejte otázky, jednu po druhé, a svou odpověď si držte, dokud se k nějaké nezavážete.
 
@@ -59,7 +59,7 @@ Vzorec je nástroj pracující na vašem porozumění. Shrnout kapitolu, kterou 
 
 ## Zůstaňte v rozhovoru i po první odpovědi
 
-Mezera mezi tím, co studenti zamýšlejí, a tím, co dělají, je nejkonzistentnější zjištění v této literatuře. [[yan-cognitive-outsourcing-genai-assessments-2026|Yan a kolegové (2026)]] vedli rozhovory s 38 vysokoškoláky v Japonsku a Číně, zatímco studenti procházeli vlastními historiemi chatů u nehlídaných esejistických hodnocení. Třicet jedna z 38 uvedla, že AI chtěli používat jako studijního asistenta, a přesto popisovali [[cognitive-offloading|nadměrná závislost]], mentální pohodlnost a rychlé zapomínání. Jeden řekl, že „jak rychle to zapomenete, je taky velmi rychlé“. Menší skupina odevzdala celý úkol: učitel zadá, student předá generativní AI, AI vygeneruje, student zkontroluje formátování, student odevzdá, a jeden účastník to popsal jako něco, co „úplně nahradilo můj mozek“.
+Mezera mezi tím, co studenti zamýšlejí, a tím, co dělají, je nejkonzistentnější zjištění v této literatuře. [[yan-cognitive-outsourcing-genai-assessments-2026|Yan a kolegové (2026)]] vedli rozhovory s 38 vysokoškoláky v Japonsku a Číně, zatímco studenti procházeli vlastními historiemi chatů u nehlídaných esejistických hodnocení. Třicet jedna z 38 uvedla, že AI chtěli používat jako studijního asistenta, a přesto popisovali [[cognitive-offloading|nadměrná závislost]], mentální pohodlnost a rychlé zapomínání. Jeden řekl, že „jak rychle to zapomenete, je taky velmi rychlé“. Menší skupina odevzdala celý úkol: [[teacher-role|učitel]] zadá, student předá generativní AI, AI vygeneruje, student zkontroluje formátování, student odevzdá, a jeden účastník to popsal jako něco, co „úplně nahradilo můj mozek“.
 
 Jen 8 z 38 pracovalo jako to, co autoři nazývají kognitivními partnery. Nepoužívali méně AI. Jejich celkové úsilí zůstalo stejné a změnilo tvar. Jeden přesunul úsilí z hledání na kontrolu kvality. Jiný psal po každé relaci s AI krátké poznámky k reflexi, aby zpomalil vytrácení okamžitě vyhledaných informací.
 
@@ -73,15 +73,15 @@ Návyky, které obě skupiny oddělují, jako instrukce sobě samému:
 
 „Kritické používání“ je fráze, která znamená málo, dokud její části neoddělíte. [[verification-quality-reliance-calibration-genai-2026|Wei a Shang (2026)]] jich oddělují sedm: epistemické hodnocení, zda vůbec začnete ověřovat, jak dobře jste ověřovali, zda ověření uspělo, co jste s výstupem udělali, jak jste si vedli v úloze a co jste se naučili samostatně. Dvě z nich jsou důležitější než ostatní. Ověřovat není totéž jako úspěšně ověřit a pečlivý postup může skončit bez závěru, zatímco nedbalý náhodou trefí správnou odpověď. [[trust-calibration|Kalibrované spoléhání]] znamená, že vaše rozhodnutí výstup přijmout nebo odmítnout odpovídalo jeho skutečné kvalitě, kterou z toho, jak sebejistě odpověď zněla, nevyčtete.
 
-Tři zjištění ten problém konkretizují. Dávila a kol. (2025) dali studentům radu, která byla správná zhruba v polovině případů, a zjistili, že to, jakou váhu jí přikládali, se měnilo podle jejich [[prior-knowledge|předchozích znalostí]] a podle pohlaví, takže důvěra nesledovala přesnost. Zheng a kol. (2025) popsali vzorec „neúspěšného použití“, kdy student správně následoval správné vedení a přesto došel k nesprávné odpovědi. Ani [[self-efficacy|sebeúčinnost]] není vodítkem: Rheu a Cho (2025) zjistili, že porozumění tomu, jak jazykové modely fungují, souviselo s častějším sebevykazovaným ověřováním faktů, zatímco některé formy jistoty a znalosti funkcí souvisely s méně častým ověřováním.
+Tři zjištění ten problém konkretizují. Dávila a kol. (2025) dali studentům radu, která byla správná zhruba v polovině případů, a zjistili, že to, jakou váhu jí přikládali, se měnilo podle jejich [[prior-knowledge|předchozích znalostí]] a podle pohlaví, takže důvěra nesledovala přesnost. Zheng a kol. (2025) popsali vzorec „neúspěšného použití“, kdy student správně následoval správné vedení a přesto došel k nesprávné odpovědi. Ani [[self-efficacy|sebeúčinnost]] není vodítkem: Rheu a Cho (2025) zjistili, že porozumění tomu, jak jazykové modely fungují, souviselo s častějším [[self-report-measures|sebevykazovaným ověřováním faktů]], zatímco některé formy jistoty a znalosti funkcí souvisely s méně častým ověřováním.
 
 Ověřujte tedy cokoli hodnoceného proti zdroji, který umíte pojmenovat. Studenti ve Vibergově studii ověřovali výstupy proti své výuce a svým instruktorům, jeden vysvětloval: „K asistentovi jdu, jen když nedokážeme poznat, jestli si ChatGPT nevymýšlí.“ Když opravdu nepoznáte, označte bod jako nevyřešený a zeptejte se člověka. Přijmout tvrzení, aby byla stránka hotová, je způsob, jak se z malé nejistoty stane nesprávná odpověď, kterou jste si nacvičili.
 
-Svůj základní rámec si rozhodněte dřív, než ho budete potřebovat. [[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella a kolegové (2026)]] dotazovali 151 vysokoškoláků a zjistili, že etické soudy byly nutnou podmínkou úmyslu použít velký jazykový model k přípravě na zkoušku, přičemž konsekvencionalistické a deontologické uvažování tento úmysl předpovídalo a úmysl silně předpovídal skutečné použití. To, co si předem rozhodnete o tom, co uděláte a co ne, určuje, podle čeho se vaše chování v 11 večer řídí.
+Svůj základní rámec si rozhodněte dřív, než ho budete potřebovat. [[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella a kolegové (2026)]] dotazovali 151 vysokoškoláků a zjistili, že etické soudy byly nutnou podmínkou úmyslu použít [[llm|velký jazykový model]] k přípravě na zkoušku, přičemž konsekvencionalistické a deontologické uvažování tento úmysl předpovídalo a úmysl silně předpovídal skutečné použití. To, co si předem rozhodnete o tom, co uděláte a co ne, určuje, podle čeho se vaše chování v 11 večer řídí.
 
 ## Logistiku nechte na nástroji
 
-Rychlost má legitimní použití. [[ai-guided-learning-audiovideo-2026|Kawamura (2026)]] postavil systémy, které přizpůsobují rychlost mluveného přehrávání obtížnosti každého úseku, v průměru asi 1,30×, a generují multimodální videoshrnutí, která zkracují dobu sledování o 53 % bez statisticky významného rozdílu ve skóre kvízů. Shrnování, překládání a plánování studijního rozvrhu patří do stejné kategorie. Procházet materiálem rychleji je v pořádku. Vynechat práci, která vás mění, je ta část, které je třeba se vyhnout.
+Rychlost má legitimní použití. [[ai-guided-learning-audiovideo-2026|Kawamura (2026)]] postavil systémy, které přizpůsobují rychlost mluveného přehrávání obtížnosti každého úseku, v průměru asi 1,30×, a generují [[multimodal|multimodální]] videoshrnutí, která zkracují dobu sledování o 53 % bez statisticky významného rozdílu ve skóre kvízů. Shrnování, překládání a plánování studijního rozvrhu patří do stejné kategorie. Procházet materiálem rychleji je v pořádku. Vynechat práci, která vás mění, je ta část, které je třeba se vyhnout.
 
 Rozdíl je v tom, kde nástroj sedí vůči myšlení. Shrnutí kapitoly, kterou jste už přečetli, šetří čas. Shrnutí, které čtete místo kapitoly, nahrazuje čtení.
 

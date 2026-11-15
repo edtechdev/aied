@@ -6,9 +6,9 @@ weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-updated: "2026-10-29T11:57:26-04:00"
+updated: "2026-11-15T16:24:30-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Ukázka od dodavatele trvá čtyřicet minut. Agent přečte sylabus, navrhne kv
 
 [[agentic-workflows-education|Agentní pracovní postupy ve vzdělávání]] pojmenovávají čtyři opakující se schopnosti: reflexe, plánování, používání nástrojů a spolupráce více agentů. Každá přidává vedle možnosti i náklad, v [[explainable-ai|vysvětlitelnosti]], koordinaci, [[trust-calibration|důvěře]], latenci a dohledu.
 
-Role na straně studenta jdou od [[adaptive-learning|adaptivního]] doučování a plánování studia přes [[formative-assessment|formativní]] zpětnou vazbu, vedené [[problem-solving|řešení problémů]] a generování procvičování až k doporučením předpokladů a reflektivnímu [[metacognition|metakognitivnímu]] [[prompt-engineering|promptování]]. Role na straně instruktora pokrývají tvorbu materiálů, [[automated-question-generation|generování otázek]] a jejich validaci, třídění zpětné vazby, [[learning-analytics|analytiku]] kurzu, návrh výuky, vyhledávání zdrojů a orchestraci specializovaných podagentů.
+Role na straně studenta jdou od [[adaptive-learning|adaptivního]] doučování a plánování studia přes [[formative-assessment|formativní]] zpětnou vazbu, vedené [[problem-solving|řešení problémů]] a generování procvičování až k doporučením předpokladů a reflektivnímu [[metacognition|metakognitivnímu]] [[prompt-engineering|promptování]]. Role na straně instruktora pokrývají tvorbu materiálů, [[automated-question-generation|generování otázek]] a jejich validaci, třídění zpětné vazby, [[learning-analytics|analytiku]] kurzu, [[learning-design|návrh výuky]], vyhledávání zdrojů a orchestraci specializovaných podagentů.
 
 Dvě z nich jsou zpočátku bezpečnější, protože obě produkují artefakt, který člověk čte dřív než studenti: generátor otázek spárovaný s validátorem a koncept, který učitel upravuje.
 
@@ -68,7 +68,7 @@ Ptejte se, co číslo na dashboardu počítá, kdo napsal rubriku za ním a jak 
 
 ## Plánujte vypnutí
 
-Randomizované pokusy ukazují, že krátká pomoc AI může snížit pozdější výkon bez pomoci, a interval po odebrání nástroje, [[cognitive-washout-ai-skill-decay-2026|kognitivní vymývání]], je téměř úplně nezměřený. Syntéza, o kterou se tato stránka opírá, vychází ze [[meta-analysis-systematic-review|scopingového přehledu]] 474 studií a nachází práci soustředěnou ve [[higher-ed|vysokém školství]], v [[stem-education|STEM]], v krátkodobých designech a v doučování založeném na textu, přičemž jen menšina je výslovně zakotvena ve vzdělávací teorii. Pilot, který skončí s koncem licence, měřil špatné okno.
+Randomizované pokusy ukazují, že krátká pomoc AI může snížit pozdější výkon bez pomoci, a interval po odebrání nástroje, [[cognitive-washout-ai-skill-decay-2026|kognitivní vymývání]], je téměř úplně nezměřený. Syntéza, o kterou se doporučení opírají, vychází ze [[meta-analysis-systematic-review|scopingového přehledu]] 474 studií a nachází práci soustředěnou ve [[higher-ed|vysokém školství]], v [[stem-education|STEM]], v krátkodobých designech a v doučování založeném na textu, přičemž jen menšina je výslovně zakotvena ve vzdělávací teorii. Pilot, který skončí s koncem licence, měřil špatné okno.
 
 ## V čem se správci mýlí
 
@@ -98,4 +98,4 @@ Přístup uzavírá mezeru ve spravedlnosti. Nerovný přístup ke schopným age
 
 ## Kam dál
 
-[[developing-ai-tutor|Vývoj efektivního AI tutora]] pokrývá stavbu na straně studenta od cíle k žebříku pomoci a [[evaluating-ai-interventions-methods|Hodnocení intervencí s AI]] pokrývá, zda to fungovalo. [[intelligent-tutoring|Inteligentní doučování]] a [[ai-literacy|gramotnost v oblasti AI]] dodávají slovní zásobu návrhu, kterou tato stránka předpokládá.
+[[developing-ai-tutor|Vývoj efektivního AI tutora]] pokrývá stavbu na straně studenta od cíle k žebříku pomoci a [[evaluating-ai-interventions-methods|Hodnocení intervencí s AI]] pokrývá, zda to fungovalo. [[intelligent-tutoring|Inteligentní doučování]] a [[ai-literacy|gramotnost v oblasti AI]] dodávají slovní zásobu návrhu, kterou doporučení předpokládají.

@@ -6,9 +6,9 @@ weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:18:05-05:00"
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,7 @@ A [[reducing-ai-misuse|MI-visszaélések csökkentése]] szintézise szerkezeti 
 
 Kezdje egy címkével. Az [[ai-assessment-scale-reform|MI-értékelési skála (AIAS)]] minden feladathoz MI-használati szintet rendel, a „nincs MI”-től az „MI csak ötleteléshez”, majd az „MI-támogatás hivatkozással” szinten át a „teljes MI-használatig”, így az elvárás kifejezett és kikényszeríthető, nem pedig következtetni kell rá.
 
-Aztán változtassa meg az alkotást. A generatív MI-ről készült, 72 kutatást feldolgozó [[meta-analysis-systematic-review|szisztematikus áttekintés]] a [[cs-education|számítástechnika-oktatás]] területén az újratervezést egyszerre tartja megvalósíthatónak és a legnagyobb hatásúnak, és egyetlen lépést emel ki: minden kurzusban legalább egy nagy tétű értékeléshez adjon szóbeli vagy más módon folyamatlátható elemet. Ezt nevezi a korpusz leginkább hatékony beavatkozásának. A detektálás a legvékonyabb terület, amelyet az áttekintés lefed, mindössze 3 kutatással, szemben azzal, hogy a számítástechnikai hallgatók 60-80%-a számol be generatív MI használatáról a kurzusmunkában, jellemzően kifejezett oktatói engedély nélkül, és egy országos oktatói minta 70%-a kifejezetten képzést kér a MI-rezisztens értékeléstervezésről ([[kumar-genai-computing-education-systematic-review-2026|Kumar és mtsai.]]).
+Aztán változtassa meg az alkotást. A generatív MI-ről készült, 72 kutatást feldolgozó [[meta-analysis-systematic-review|szisztematikus áttekintés]] a [[cs-education|számítástechnika-oktatás]] területén az újratervezést egyszerre tartja megvalósíthatónak és a legnagyobb hatásúnak, és egyetlen lépést emel ki: minden kurzusban legalább egy nagy tétű értékeléshez adjon szóbeli vagy más módon folyamatlátható elemet. Ezt nevezi az áttekintés a leginkább hatékony beavatkozásnak. A detektálás a legvékonyabb terület, amelyet az áttekintés lefed, mindössze 3 kutatással, szemben azzal, hogy a számítástechnikai hallgatók 60-80%-a számol be generatív MI használatáról a kurzusmunkában, jellemzően kifejezett oktatói engedély nélkül, és egy országos oktatói minta 70%-a kifejezetten képzést kér a MI-rezisztens értékeléstervezésről ([[kumar-genai-computing-education-systematic-review-2026|Kumar és mtsai.]]).
 
 Egy hároméves számítástechnikai kurzus megmutatja, milyen messzire viheti a viselkedést egy állványozott bevallási munkafolyamat. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil és mtsai (2026)]] önálló vázlatot írtak elő négytételes ellenőrzőlistával, egy „MI finomíts, ne írj újra” lépést, egy bevallási űrlapot és egy strukturált reflexiót, a hiányzó vázlat vagy űrlap pedig nullát ért. A részvétel az önkéntes szabályzat melletti mintegy kétharmadról 93%-ra nőtt az állványozott évben; a MI-használók 81%-a, illetve 84%-a számolt be arról, hogy elutasított vagy módosított javaslatokat, a javítók a beadások 77–81%-át kódolták kritikus elköteleződésre, és a MI-használat az előzetes írásképesség kontrollálása után nem jelezte előre önállóan az esszé minőségét. Ez egykurzusos tapasztalatbeszámoló, nem kontrollált kísérlet, de megmutatja, ahogy az integritási munka a detektálástól a feltételek felé mozdul, amelyek mellett a diákok bevallanak és átdolgoznak.
 

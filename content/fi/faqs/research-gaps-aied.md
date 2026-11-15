@@ -13,9 +13,9 @@ level: [higher ed]
 audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-11-08T05:10:57-05:00"
+updated: "2026-11-15T16:29:00-05:00"
 translation_of: faqs/research-gaps-aied
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -199,4 +199,4 @@ Opettajat, jotka haluavat luokkahuonetasoisen version, voivat seurata sivua [[ev
 
 ## Minne seuraavaksi
 
-[[reporting-interpreting-aied-research]] on tämän sivun raportointivastine, ja [[research-methods-aied|Tutkimusmenetelmät tekoälyssä koulutuksessa]] kattaa kunkin aukon taustalla olevat suunnitteluvalinnat. [[evaluating-ai-interventions-methods]] käsittelee mittareita ja vertailusuunnitelmia, [[checking-whether-educational-ai-works]] on vaikuttavuuskysymyksen lyhyempi versio ja [[does-ai-help-students-learn]] kokoaa sen, mitä kestävästä oppimisesta tiedetään. [[theory-development-aied]] ja [[equity-ethics-pedagogical-safety-research]] vievät teoria- ja yhdenvertaisuusjuonteita pidemmälle.
+[[reporting-interpreting-aied-research]] on raportoinnin vastine, ja [[research-methods-aied|Tutkimusmenetelmät tekoälyssä koulutuksessa]] kattaa kunkin aukon taustalla olevat suunnitteluvalinnat. [[evaluating-ai-interventions-methods]] käsittelee mittareita ja vertailusuunnitelmia, [[checking-whether-educational-ai-works]] on vaikuttavuuskysymyksen lyhyempi versio ja [[does-ai-help-students-learn]] kokoaa sen, mitä kestävästä oppimisesta tiedetään. [[theory-development-aied]] ja [[equity-ethics-pedagogical-safety-research]] vievät teoria- ja yhdenvertaisuusjuonteita pidemmälle.

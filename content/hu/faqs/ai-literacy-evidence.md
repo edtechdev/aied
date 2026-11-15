@@ -8,9 +8,9 @@ assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
 audience: [instructors, researchers, administrators]
-updated: "2026-10-29T14:37:59-04:00"
+updated: "2026-11-15T16:21:23-05:00"
 translation_of: faqs/ai-literacy-evidence
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ A válasz arra a teremre, és a bizonyítékok állapota a [[higher-ed|felsőokt
 
 ## A kritika köré építse a sorozatot
 
-A tudásbázis legerősebb tantermi példája az alapképzési pszichológiából származik. Richmond és Nicholls hallgatókkal egy [[generative-ai|ChatGPT]]-vel generált sajtóközleményt osztályoztatott a saját kurzusuk rubrikája ellenében, megneveztetve a hibákat, majd átdolgoztatta azt. A hallgatók általában látták, hogy a próza csiszolt, a tartalom pedig félreviszi a kutatási célokat, módszereket és eredményeket. Az előző, [[peer-assessment|társértékelési]] kohorszhoz képest az MI-kritikát végző csoport szerényen jobban teljesített az azt követő szövegátdolgozásban (*d* = 0,36), a záró videón nem volt szignifikáns előnye ([[richmond-nicholls-genai-psych-feedback-ai-literacies]]).
+A legerősebb tantermi példa az alapképzési pszichológiából származik. Richmond és Nicholls hallgatókkal egy [[generative-ai|ChatGPT]]-vel generált sajtóközleményt osztályoztatott a saját kurzusuk rubrikája ellenében, megneveztetve a hibákat, majd átdolgoztatta azt. A hallgatók általában látták, hogy a próza csiszolt, a tartalom pedig félreviszi a kutatási célokat, módszereket és eredményeket. Az előző, [[peer-assessment|társértékelési]] kohorszhoz képest az MI-kritikát végző csoport szerényen jobban teljesített az azt követő szövegátdolgozásban (*d* = 0,36), a záró videón nem volt szignifikáns előnye ([[richmond-nicholls-genai-psych-feedback-ai-literacies]]).
 
 A szakirodalom, amelyből ezek a példák jönnek, rövid beavatkozásokra, [[self-regulated-learning|önbevallásra]] és tervezésalapú munkára támaszkodik, és ez a tanulmány ezek közül kettőnek a korlátját hordozza. Az összehasonlítás történeti volt, így egy jobban felkészült kohorsz ugyanezt a mintázatot hozná. Az előny ráadásul a köztes artefaktumnál jelent meg, és eltűnt a kész munkánál, ami pontosan az, amit akkor várna, ha a kritika az átdolgozást tanította.
 
@@ -52,7 +52,7 @@ Hingle és Johri [[meta-analysis-systematic-review|szisztematikus áttekintése]
 
 Az NC State **MI-írástudás kontinuuma** egy fejlődési sort ír le a *még nem bevonódott* és a *kritikátlan használat* állapotától a *tájékozott használaton* és a *[[critical-thinking|kritikai értékelésen]]* át a *fejlesztésig*, és több mint 330 résztvevővel valósult meg kurzusokon és műhelymunkákon ([[ai-literacy-continuum-higher-education]]). Megfigyelései egy kettéválást sugallnak: a rövid élmények a tájékozott használat felé mozdították a hallgatókat, míg a kritikai értékelés és a fejlesztés főként tartós, tudományterületbe ágyazott munkában jelent meg. Nem volt validált elő- és utómérés és nem volt összehasonlító csoport, így ez gyakorlat-alapú bizonyíték.
 
-A tanárképzés ugyanezt a plafont mutatja más szemszögből. Le és munkatársai [[design-based-research|tervezésalapú]] beavatkozását 14 mesterhallgatóval próbálták ki és 29 [[teacher-education|tanárképzési]] hallgatóval értékelték. A jelentett MI-kompetencia-[[self-efficacy|önhatékonyság]] nőtt, és a hallgatók a generatív MI kritikusabb [[pedagogy|pedagógiai]] mérlegelése felé mozdultak, míg az etikai nyereség csak marginális szignifikanciát ért el. Egy ilyen alakú, kis tervezésalapú tanulmány nem tud kompetenciát megállapítani ([[genai-literacy-training-teacher-education-dbr-2026]]).
+A [[teacher-role|tanárok]] képzése ugyanezt a plafont mutatja más szemszögből. Le és munkatársai [[design-based-research|tervezésalapú]] beavatkozását 14 mesterhallgatóval próbálták ki és 29 [[teacher-education|tanárképzési]] hallgatóval értékelték. A jelentett MI-kompetencia-[[self-efficacy|önhatékonyság]] nőtt, és a hallgatók a generatív MI kritikusabb [[pedagogy|pedagógiai]] mérlegelése felé mozdultak, míg az etikai nyereség csak marginális szignifikanciát ért el. Egy ilyen alakú, kis tervezésalapú tanulmány nem tud kompetenciát megállapítani ([[genai-literacy-training-teacher-education-dbr-2026]]).
 
 ## Azt mérje, amit a hallgatók meg tudnak tenni
 
@@ -60,7 +60,7 @@ Egy [[liu-ai-literacy-interventions-meta-analysis-2026|59 tanulmányt összegző
 
 A szerzők a saját eredményüket érvként olvassák amellett, hogy a tudástól a készségek, gyakorlatok, etika és attitűdök felé kell lépni, integrált reflektív pedagógián és [[culturally-relevant-pedagogy|kulturálisan releváns]] tervezésen keresztül. Egy bizottság számára két következmény végzi el a munkát. A mért kimenet alakítja a talált hatást, így azt a kimenetet válassza, amely tényleg számít Önnek. Egy ilyen széles előrejelzési intervallum helyi kipróbálás mellett érvel.
 
-A mérés az, ahol a legtöbb programállítás megbukik. A validált **GLAT** teljesítményteszt előre jelezte a teljesítményt egy MI-támogatással végzett felsőoktatási feladaton. Egy [[self-report-measures|önbevalláson alapuló]] ChatGPT-írástudás-mérték nem ([[jin-glat-genai-literacy-assessment]]; [[ai-literacy-assessment-misalignment]]). A tudásbázis egészében a jelentett és a bemutatott MI-kompetencia jelentősen eltér, ami az [[educational-measurement|oktatási mérést]] és az [[assessment-validity|értékelési validitást]] a tervezés részévé teszi, nem utólagos toldalékká az [[ai-ed-evaluation|értékelésben]].
+A mérés az, ahol a legtöbb programállítás megbukik. A validált **GLAT** teljesítményteszt előre jelezte a teljesítményt egy MI-támogatással végzett felsőoktatási feladaton. Egy [[self-report-measures|önbevalláson alapuló]] ChatGPT-írástudás-mérték nem ([[jin-glat-genai-literacy-assessment]]; [[ai-literacy-assessment-misalignment]]). A szakirodalom egészében a jelentett és a bemutatott MI-kompetencia jelentősen eltér, ami az [[educational-measurement|oktatási mérést]] és az [[assessment-validity|értékelési validitást]] a tervezés részévé teszi, nem utólagos toldalékká az [[ai-ed-evaluation|értékelésben]].
 
 Burriss és munkatársai kiélezik, mi számít. 22 tizenegyedikes hallgatóról szóló, MI-etikáról szóló közszolgálati videóhirdetéseket készítő tanulmányuk amellett érvel, hogy a meglévő írástudásskálák és kompetenciakeretrendszerek egyénileg mérhető teljesítményt feltételeznek, ami kizárja az együttes és kreatív kifejezést. A hallgatói reflexiókat, a [[multimodal|multimodális]] artefaktumokat és a polgári diskurzust javasolják a hagyományos mérések kiegészítéseként. Hallgatóik együttműködő [[critical-pedagogy|kritikai pedagógián]] keresztül fejlesztették a kritikai MI-etika-megértésüket, és ez megkérdőjelezi az írástudás készséglistás felfogását, valamint a rájuk épülő eszközöket. A 18 egységzáró válaszból tizenöt erősítette meg az új tanulást, és a szerzők megjegyzik, hogy a projekt ellenáll a hagyományos [[summative-assessment|összegző értékelésnek]] ([[burriss-multimodal-composition-critical-ai-literacy-2026]]).
 
@@ -86,7 +86,7 @@ A következő kérdés az, amelyet a saját programjához kell intéznie: a tan�
 
 ## Amit ez a közönség rosszul tud
 
-Egy műhely tanterv. A kontinuum megfigyelései a kritikai értékelést és a fejlesztést tartós, tudományterületbe ágyazott munkába teszik, Le és munkatársai pedig az önhatékonyságot mozdították el anélkül, hogy kompetenciát állapítottak volna meg.
+Egy műhely [[curriculum-design|tanterv]]. A kontinuum megfigyelései a kritikai értékelést és a fejlesztést tartós, tudományterületbe ágyazott munkába teszik, Le és munkatársai pedig az önhatékonyságot mozdították el anélkül, hogy kompetenciát állapítottak volna meg.
 
 A magabiztosság az írástudás helyettesítő mértéke. A GLAT-eredmény közvetlen: egy teljesítményteszt előre jelezte a feladatteljesítményt, egy önbevallásos mérték nem.
 
@@ -108,7 +108,7 @@ Az írástudás egyetlen készség, amely eszközök között átvihető. Dai é
 
 **„A tanúsítvány az elszámoltathatóság mechanizmusa.”** Wu és Li az oktatói kompetenciát találták a kötő korlátnak, a kultúrák közötti alkalmazkodás pedig a legalacsonyabb súlyt kapta. Egy tanúsítvány azt rögzíti, hogy valaki befejezett valamit.
 
-**„A karunk nincs felkészülve, hogy ezt tanítsa.”** A bizonyíték egyetért. Az oktatói képesség volt a legnagyobb rés Wu és Li adataiban, és ezen az oldalon egyetlen tanulmány sem vizsgálja, hogyan lehet betömni.
+**„A karunk nincs felkészülve, hogy ezt tanítsa.”** A bizonyíték egyetért. Az oktatói képesség volt a legnagyobb rés Wu és Li adataiban, és egyetlen tanulmány sem vizsgálja, hogyan lehet betömni.
 
 ## Mit tegyen ezen a héten
 

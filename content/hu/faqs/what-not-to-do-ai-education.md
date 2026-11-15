@@ -1,9 +1,9 @@
 ---
 title: "Mit kellene elkerülniük a pedagógusoknak a MI használatában?"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-11T06:20:00-05:00"
+updated: "2026-11-15T16:24:56-05:00"
 type: faq
-connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors]
+connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors, adopting-ai-options-and-issues]
 weight: 90
 foundations: [misconceptions, reducing-ai-misuse, ai-literacy, limitations-in-aied-research]
 pedagogy: [reflection, professional-training]
@@ -11,7 +11,7 @@ technology: [generative-ai, learning-analytics, affective-computing]
 assessment: [assessment-validity, ai-detection, self-report-measures, feedback]
 ethics: [privacy, pedagogical-safety, equity-in-ai-education, accessibility, automation-bias]
 audience: [instructors, learners, parents and families, faculty developers, software developers, administrators, researchers]
-source_updated: "2026-11-11T06:20:00-05:00"
+source_updated: "2026-11-14T04:30:00-05:00"
 translation_of: faqs/what-not-to-do-ai-education
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
@@ -24,7 +24,7 @@ ai_assist:
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
 
-A MI oktatási használatáról szóló útmutatások többsége azt mondja el, mit érdemes kipróbálni. Ez az oldal azokat a gyakorlatokat gyűjti össze, amelyeket a bizonyítékok szerint abba kell hagyni, aszerint a szerep szerint rendezve, amelynek abba kellene hagynia őket. A téves hiedelmeket másutt tárgyaljuk: velük a [[addressing-common-misconceptions-ai-education|tévhitekkel foglalkozó GYIK]] foglalkozik, és a [[misconceptions]] fogalomoldal magyarázza meg, miért maradnak fenn. Amit a kutatás még nem tud megmondani, az a [[limitations-in-aied-research|az AIEd-kutatás korlátai]] témához tartozik. Itt a hiedelem utáni lépés következik, vagyis az, hogy mit tesznek valójában az emberek, mibe kerül ez nekik, és mit kell helyette tenni.
+A MI oktatási használatáról szóló útmutatások többsége azt mondja el, mit érdemes kipróbálni. Az alábbiak azok a gyakorlatok, amelyeket a bizonyítékok szerint abba kell hagyni, aszerint a szerep szerint rendezve, amelynek abba kellene hagynia őket. A téves hiedelmeket másutt tárgyaljuk: velük a [[addressing-common-misconceptions-ai-education|tévhitekkel foglalkozó GYIK]] foglalkozik, és a [[misconceptions]] fogalomoldal magyarázza meg, miért maradnak fenn. Amit a kutatás még nem tud megmondani, az a [[limitations-in-aied-research|az AIEd-kutatás korlátai]] témához tartozik. Itt a hiedelem utáni lépés következik, vagyis az, hogy mit tesznek valójában az emberek, mibe kerül ez nekik, és mit kell helyette tenni.
 
 Három hiba ismétlődik minden szerepben.
 
@@ -80,7 +80,7 @@ Három hiba ismétlődik minden szerepben.
 
 **Ne adjon generatív csevegőbotot kisgyermeknek, és ne nevezze felügyeltnek azzal, hogy Ön a szobában van.** Az életkor szerinti, szintekre bontott útmutatás konkrét: állványozott, nem generatív tevékenységek 9 és 12 év között, felügyelt generatív használat etikai érveléssel 13 éves kortól ([[ai-guidance-children-under-13]]). A legkisebb gyermekeknél a kockázat a hit. A művelet előtti gondolkodású gyermekek igaznak fogadják el a generált tartalmat, és a rendszerek visszajelzéseikben fejlődéslélektanilag nincsenek kalibrálva. A felnőtt közös használat azt jelenti, hogy a gyermek mellett ül, és megkérdezi, mit tett éppen a játék, nem azt, hogy az ajtóból figyel ([[early-childhood-elementary-ai-education]]).
 
-**Ne tegye fel, hogy az iskola eszköze védi a gyermeke adatait, csak mert az iskola választotta.** Kérdezze meg, mit őriznek meg, mennyi ideig, tanít-e bármit is vele, és ki más látja ([[privacy]]). A tudatosság nem következik a kitettségből: egy hónappal azután a tanóra után, amelyen egy hetedikes osztály a saját naplózott viselkedését élőben kivetítve látta, a 47 diák 66%-a még mindig a legkevésbé védő csevegőbot-beállítást választotta ([[bergdahl-student-epistemic-agency-ai-2026|Bergdahl, 2026]]). Tegye fel a kérdéseket az iskolának írásban, és írásban kérje a válaszokat.
+**Ne tegye fel, hogy az iskola eszköze védi a gyermeke adatait, csak mert az iskola választotta.** Kérdezze meg, mit őriznek meg, mennyi ideig, tanít-e bármit is vele, és ki más látja ([[privacy|adatvédelem]]). A tudatosság nem következik a kitettségből: egy hónappal azután a tanóra után, amelyen egy hetedikes osztály a saját naplózott viselkedését élőben kivetítve látta, a 47 diák 66%-a még mindig a legkevésbé védő csevegőbot-beállítást választotta ([[bergdahl-student-epistemic-agency-ai-2026|Bergdahl, 2026]]). Tegye fel a kérdéseket az iskolának írásban, és írásban kérje a válaszokat.
 
 **Ne használjon detektoreredményt a gyermeke vádolására, vagy egy iskola vádjának alátámasztására.** Egy 642 publikált absztraktot vizsgáló kontrollált tanulmányban a detektorok a módosítatlan emberi írás 9–15%-át jelölték meg, és az emberiesített MI-átírások kevesebb mint 4%-át fogták el ([[karr-ai-detection-humanization-2026|Karr et al., 2026]]). Reális alaparánynál a téves pozitívok meghaladják a valós pozitívokat ([[ai-detection]]). A megjelölést kezelje okként arra, hogy elkérje a vázlatok előzményeit és beszéljen, nem megállapításként.
 

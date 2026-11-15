@@ -8,9 +8,9 @@ foundations: [ai-education]
 technology: [generative-ai, intelligent-tutoring]
 ethics: [bias-mitigation, equity-in-ai-education, privacy, inclusive-learning]
 audience: [instructors, administrators, software developers, researchers]
-updated: "2026-11-08T04:27:05-05:00"
+updated: "2026-11-15T16:27:26-05:00"
 translation_of: "faqs/ai-bias-fairness-education"
-source_updated: "2026-11-06T02:15:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
 
-Zaujatosť a nespravodlivosť v edukačnej AI nie sú jeden problém. Výskum v tejto znalostnej báze dokumentuje, ako zaujatosť vstupuje takmer v každej fáze životného cyklu systému — tréningové dáta, správanie modelu, [[prompt-engineering|prompty]], skórovanie, spätná väzba, rozhodnutia o alokácii a infraštruktúra pod nimi — a postihuje učiteľov, vývojárov, výskumníkov a administrátorov odlišne. Vzorec v tom všetkom je dosť konzistentný na to, aby sa dal povedať priamo: pýtajte sa na čísla podľa podskupín, nie na priemery; definujte „znevýhodneného“ podľa výsledkov, nie podľa veľkosti skupiny; a berte spravodlivosť ako niečo, čo navrhujete a auditujete, nie niečo, čo pripájate dodatočne.
+Zaujatosť a nespravodlivosť v edukačnej AI nie sú jeden problém. Výskum dokumentuje, ako zaujatosť vstupuje takmer v každej fáze životného cyklu systému — tréningové dáta, správanie modelu, [[prompt-engineering|prompty]], skórovanie, spätná väzba, rozhodnutia o alokácii a infraštruktúra pod nimi — a postihuje učiteľov, vývojárov, výskumníkov a administrátorov odlišne. Vzorec v tom všetkom je dosť konzistentný na to, aby sa dal povedať priamo: pýtajte sa na čísla podľa podskupín, nie na priemery; definujte „znevýhodneného“ podľa výsledkov, nie podľa veľkosti skupiny; a berte spravodlivosť ako niečo, čo navrhujete a auditujete, nie niečo, čo pripájate dodatočne.
 
 ## Kde sa zaujatosť a nespravodlivosť prejavujú
 

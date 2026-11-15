@@ -1,7 +1,7 @@
 ---
 title: "Čo by sa mali študenti učiť pre kariéry, v ktorých je AI bežná?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:27:26-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
@@ -48,6 +48,8 @@ Tu je krátka odpoveď: vyučujte celú profesionálnu úlohu, nie obsluhu nást
 [[ithaka-sr-ai-skills-college-graduates-2026|Správa Ithaka S+R]] požiadala 500 vyučujúcich z amerických štvorročných vysokých škôl, aby ohodnotili 26 zručností z rámca pokrývajúceho sedem kategórií, a ich hodnotenia porovnala s panelom zamestnávateľov, ktorý oslovili autori rámca. Nezhoda je systematická, nie náhodná: vyučujúci zaradili na vrchol limity AI, pripisovanie autorstva a ľudskú zodpovednosť, kým zamestnávatelia vyššie zaradili návrh pracovných postupov, automatizáciu a tímovú prácu človeka s AI.
 
 Dve čítania tej medzery sú lákavé a obe sú nesprávne. Prvé hovorí, že vyučujúci zaostávajú za trhom práce. Druhé, že zamestnávatelia chcú poslušnosť. Užitočnejšie čítanie je, že každá skupina opisuje inú polovicu tej istej práce a absolvent, ktorý zvládne len jednu polovicu, je nepripravený na obe. Študent, ktorý nevie vysvetliť, prečo je výsledok nesprávny, je pre zamestnávateľa, ktorý dôveruje pracovnému postupu, nepoužiteľný; študent, ktorý vie len kritizovať výstup AI, je nepoužiteľný pre zamestnávateľa, ktorý potrebuje úlohu dokončiť.
+
+Premena signálu od zamestnávateľov na zmenu kurikula je sama procesom s rozhodovacími bodmi. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] navrhuje šesť fáz – snímanie, validáciu so zainteresovanými stranami, diagnózu programu, redizajn kurikula, realizáciu a spôsobilosť a preskúmanie výsledkov – pričom každá má pomenované rozhodovacie právo a zodpovedný výstup, a AI obmedzuje na vymedzené podporné funkcie, ako je rozpoznávanie vzorcov a mapovanie kompetencií. Je to návrh, nie hodnotenie, ale pomenúva kroky, ktoré žiadosť poradnej skupiny zvyčajne preskočí.
 
 Limity týchto dôkazov záležia. Sú to hlásené priority z prieskumov a správa neukazuje, že nejaké kurikulum produkuje lepších zamestnancov, lepší výkon alebo lepší plat. Dáva vám však obhájiteľný dôvod spýtať sa, či vaši študenti niekedy precvičujú dokončenie a overenie pracovného postupu podporovaného AI, a nie len rozprávanie o ňom.
 

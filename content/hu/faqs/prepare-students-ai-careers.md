@@ -1,7 +1,7 @@
 ---
 title: "Mit kellene a diákoknak tanulniuk olyan karrierekhez, ahol a MI mindennapos?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:19:57-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
@@ -48,6 +48,8 @@ Egy diák megkérdezi, miért tanuljon meg valamit, amit egy [[conversational-ai
 [[ithaka-sr-ai-skills-college-graduates-2026|Az Ithaka S+R jelentése]] 500 amerikai négyéves főiskolai oktatót kért meg, hogy értékeljenek 26 készséget egy hét kategóriát átfogó keretből, és összehasonlította értékeléseiket a keret szerzői által megkérdezett munkáltatói panelel. A nézeteltérés rendszeres, nem véletlenszerű: az oktatók a MI korlátait, a forrásmegjelölést és az emberi elszámoltathatóságot rakták az élre, a munkáltatók a munkafolyamat-tervezést, az automatizálást és az ember–MI együttműködést értékelték magasabbra.
 
 Két olvasat kínálkozik erre a résre, és mindkettő téves. Az első, hogy az oktatók le vannak maradva a munkaerőpiactól. A második, hogy a munkáltatók megfelelést akarnak. Hasznosabb olvasat, hogy mindkét csoport ugyanannak a munkának egy másik felét írja le, és az a frissdiplomás, aki csak az egyik felét tudja, mindkettőre felkészületlen. Egy diák, aki nem tudja megmagyarázni, miért téves egy eredmény, semmire sem jó annál a munkáltatónál, aki a munkafolyamatban bízik; egy diák, aki csak bírálni tudja az MI kimenetét, semmire sem jó annál, akinek a feladat befejezése kell.
+
+Ha egy munkáltatói jelzést tantervi változtatássá alakít, az maga is döntési pontokkal teli folyamat. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] hat szakaszt javasol — észlelés, érintetti validálás, programdiagnózis, tanterv-újratervezés, megvalósítás és képesség, valamint eredmény-felülvizsgálat —, mindegyikhez megnevezett döntési jogot és felelős kimenetet rendelve, a MI-t pedig korlátozott támogató funkciókra szorítva, mint a mintafelismerés és a kompetenciatérképezés. Ez javaslat, nem értékelés, de megnevezi azokat a lépéseket, amelyeket egy tanácsadó testület kérése általában kihagy.
 
 E bizonyíték korlátai számítanak. Ezek felmérésekből származó kinyilvánított prioritások, és a jelentés nem mutatja, hogy bármely tanterv jobb felvételeket, jobb teljesítményt vagy jobb fizetést eredményez. Amit ad, az megalapozott ok arra, hogy megkérdezze: gyakorolják-e a diákjai valaha egy MI-támogatott munkafolyamat befejezését és ellenőrzését, szemben az arról való beszélgetéssel.
 
@@ -91,9 +93,9 @@ Ezeket a követelményeket azért válassza, mert egy megadott képességet tám
 
 A támogatás oldalának megvan a maga kockázata. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei és mtsai (2026)]] a [[generative-ai|GenAI]] használatát pozitívan társítottnak találták a GenAI-függőséggel, a függőséget pedig negatívan társítottnak mind a [[critical-thinking|kritikai gondolkodással]], mind a foglalkoztathatósággal a felmérési modelljükben. Ez társítás, nem oksági állítás, és a tervezési kérdésre mutat: egy kurzus, amely csak támogatott teljesítményt értékel, azt a függőséget trenírozhatja, amelyről beszámol.
 
-Programértékeléshez válassza szét a mérőszámokat. A kurzusteljesítmény, a bizonyított MI-írástudás, a gyakornoki felügyelő értékelése, a foglalkoztatási státusz és a munka minősége különböző kimenetek különböző időhorizontokkal, és egyetlen beavatkozás nem tudja mindet megalapozni. Az [[ai-literacy-evidence|MI-írástudás bizonyítékai]] oldal őszinte leltára annak, amit a beavatkozásvizsgálatok valóban alátámasztanak.
-
 Ugyanez a logika érvényes, mielőtt a diákok belépnek a munkaerőpiacra. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener és mtsai (2026)]] a MI-támogatást olyan sorrendként modellezik, amelyben a készség önálló gyakorláson keresztül nő, és elhalványul, amikor a munkavállalók elfogadják a MI válaszait. Modelljükben a kezdők alacsony készségszinten ragadhatnak, a szakértők pedig akkor is elveszíthetik a készségüket, miközben a kimenet pontossága magas marad, és a stratégiai munkavállalók önállóan is megoldhatják a feladatot, amikor a MI pontosabb, mert a jövőbeli készségnek értéke van. A tanulmány elméleti, nem beavatkozás, de élesíti a tantervi kérdést: ütemezze és jutalmazza az önálló gyakorlást, ahelyett hogy feltételezné, hogy a MI-támogatott kimenet felépíti a munka felügyeletéhez szükséges képességet.
+
+Programértékeléshez válassza szét a mérőszámokat. A kurzusteljesítmény, a bizonyított MI-írástudás, a gyakornoki felügyelő értékelése, a foglalkoztatási státusz és a munka minősége különböző kimenetek különböző időhorizontokkal, és egyetlen beavatkozás nem tudja mindet megalapozni. Az [[ai-literacy-evidence|MI-írástudás bizonyítékai]] oldal őszinte leltára annak, amit a beavatkozásvizsgálatok valóban alátámasztanak.
 
 ## Foglalkozzon a karrierfélelemmel bizonyosság ígérete nélkül
 

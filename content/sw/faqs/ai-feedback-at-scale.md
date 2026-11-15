@@ -11,7 +11,7 @@ research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -27,6 +27,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+updated: "2026-11-15T16:26:08-05:00"
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -77,6 +78,8 @@ Utaratibu unaeleza kwa nini mfuatano ni muhimu zaidi kuliko zana. Ukosoaji wa mo
 
 Maoni ya marika yanapata nafasi yake katika mfuatano. [[scaffolding-srl-feedback-genai-human-peers|Gu, Chen na Yan (2026)]] waliendesha madarasa mawili ya Kiingereza sambamba (N = 118 wanafunzi wa shahada ya kwanza nchini China; GenAI n = 56, marika n = 62) kupitia mizunguko mitatu ya [[self-assessment|tathmini binafsi]] katika muhula mmoja. [[scaffolding|Msaada wa hatua kwa hatua]] wa GenAI uliboresha ufahamu wa maoni kidogo lakini kwa kiasi kikubwa zaidi ya mapitio ya marika ya binadamu (ANCOVA p = 0.049, ηp² = 0.03). Wanafunzi wa GenAI waliboresha vidokezo kwa kurudia na kuhakiki au kupinga matokeo yasiyo sahihi. Wanafunzi wa kikundi cha marika walichagua vyanzo kwa urahisi wa kijamii na hukumu yao ya tathmini ikapotoshwa na upendeleo wa urafiki. Mapitio ya marika yalihifadhi thamani tofauti kwa ufahamu wa hadhira, ndiyo sababu waandishi wanapendekeza miundo ya hatua nyingi na maoni ya marika bila majina badala ya ubadilishaji.
 
+Chanzo kinaweza kuwa na umuhimu mdogo kuliko saa. Katika wanafunzi 391 wa sekondari wa Ujerumani, maoni yaliyoandikwa na mwalimu na maoni ya LLM hayakuonyesha tofauti kubwa katika marekebisho, uandishi wa baadaye, muda wa kazi au mitazamo; uwezekano wa Bayesian ulielekea upande wa maoni ya mwalimu kwenye uandishi wa baadaye lakini ulibakiza robo hadi mbili kwa tano za uzito ndani ya eneo la usawa, na ni maoni ya AI ya papo hapo pekee yaliyopata makadirio bora ya manufaa na motisha ([[meyer-teacher-ai-feedback-writing-2026|Meyer na wenzake, 2026]]). Kama maoni ya awali yanaweza kufika wakati mwanafunzi bado anarekebisha, muda huo ni sehemu ya ubunifu unaofanya kazi.
+
 Faida ya Gu na wenzake ilikuwa ndogo, na waliisoma kama halisi lakini si ya kubadilisha yenyewe. Msaada wa hatua kwa hatua wa mwalimu, miongozo ya vidokezo na karatasi za kazi zilifanya kazi ya kusaidia.
 
 ## Mpe mfano rubriki, kisha uifanye ionyeshe hatua zake
@@ -95,7 +98,7 @@ Aldino na wenzake wanapata mtindo ule ule wa kusaidia-kisha-kuhakiki katika mazo
 
 Waalimu 12 kati ya 21 wa Aldino na wenzake walifanya marekebisho zaidi ya kiwango cha sentensi, na mtindo uliotawala ulikuwa kusawazisha toni: kuhariri sifa za kupita kiasi chini (f = 11), kuondoa mapendekezo (f = 9), kuondoa moyo wa kuwatia shime (f = 8). Marekebisho yalijikita katika kipimo cha kihusiano, hasa Uhusiano wa Mwanafunzi na Mwalimu (f = 24). Walikuwa wakilinda uhalisi na sauti ya kitaaluma, na kazi hiyo haiwekwi kiotomatiki.
 
-Wanafunzi ni upande wa pili wa uthibitishaji huo, na maelezo yao kuhusu mgawanyo wa kazi yanakaribia yale ambayo ukurasa huu unapendekeza. Katika vikundi vya majadiliano vya wanafunzi 20 wa shahada ya kwanza, maoni ya mwalimu yalithaminiwa kwa kuwa ya kihusiano, ya mtu binafsi na yanayoongozwa na mtaalamu, wakati maoni yaliyozalishwa na AI yalionekana kuwa yasiyo ya mtu binafsi na yanayoweza kuwa yasiyo ya haki; wanafunzi hao hao walikuwa tayari kwa muundo mseto ambapo mwalimu husoma kazi yao na kuongeza kwenye maoni ya mfano ([[fong-chatgpt-feedback-evaluations-2026|Fong na wenzake (2026)]]). Utafiti huo huo uligundua kwamba hukumu zao ziliendana na zile za ChatGPT kuhusu ubainifu na uwezo wa kutekelezeka lakini zilitofautiana kuhusu uwakati na mwelekeo chanya, kwa hiyo vipimo ambapo hukumu ya mfano yenyewe inaweza kuaminiwa ni nyembamba kuliko rubriki kamili.
+Wanafunzi ni upande wa pili wa uthibitishaji huo, na maelezo yao kuhusu mgawanyo wa kazi yanakaribia yale yaliyopendekezwa. Katika vikundi vya majadiliano vya wanafunzi 20 wa shahada ya kwanza, maoni ya mwalimu yalithaminiwa kwa kuwa ya kihusiano, ya mtu binafsi na yanayoongozwa na mtaalamu, wakati maoni yaliyozalishwa na AI yalionekana kuwa yasiyo ya mtu binafsi na yanayoweza kuwa yasiyo ya haki; wanafunzi hao hao walikuwa tayari kwa muundo mseto ambapo mwalimu husoma kazi yao na kuongeza kwenye maoni ya mfano ([[fong-chatgpt-feedback-evaluations-2026|Fong na wenzake (2026)]]). Utafiti huo huo uligundua kwamba hukumu zao ziliendana na zile za ChatGPT kuhusu ubainifu na uwezo wa kutekelezeka lakini zilitofautiana kuhusu uwakati na mwelekeo chanya, kwa hiyo vipimo ambapo hukumu ya mfano yenyewe inaweza kuaminiwa ni nyembamba kuliko rubriki kamili.
 
 ## Wafundishe wanafunzi kusoma maoni
 
@@ -147,6 +150,6 @@ Ukadiriaji wa kuridhika unakuambia maoni ni sahihi. Katika jaribio la awali la D
 
 ## Wapi kwenda baadaye
 
-[[feedback]] ni dhana mwavuli ya mfumo wote: utoaji, mzunguko, upokeaji na mazingira ya tathmini. [[ai-feedback-quality|Ubora wa maoni ya AI]] unashughulikia kinachofanya maoni yaliyozalishwa kuwa sahihi, yenye manufaa, ya wakati na yenye msingi wa kielimu, na ukurasa huu ni katikati ya kiutendaji, kuhusu mchanganyiko upi wa sehemu hizo unazalisha maoni bora kwa kiwango kikubwa.
+[[feedback]] ni dhana mwavuli ya mfumo wote: utoaji, mzunguko, upokeaji na mazingira ya tathmini. [[ai-feedback-quality|Ubora wa maoni ya AI]] unashughulikia kinachofanya maoni yaliyozalishwa kuwa sahihi, yenye manufaa, ya wakati na yenye msingi wa kielimu, na swali ni mchanganyiko upi wa sehemu hizo unazalisha maoni bora kwa kiwango kikubwa.
 
 Maswali kuhusu alama inapaswa kumaanisha nini pindi AI inapohusika, ikiwemo ubadilishaji wa dhana, ushahidi wa mchakato uliothibitishwa na kanuni za uadilifu, ni ya [[redesign-assessment-ai-era|kubuni upya tathmini katika enzi ya AI]] na [[assessment-validity|uhalali wa tathmini]] badala ya hapa. Kwa hali maalum ya kufundisha uandishi, tazama [[writing-instruction-ai-best-practices|mbinu bora za kufundisha uandishi katika muktadha wa AI]].

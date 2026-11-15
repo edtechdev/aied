@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:17:31-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,8 @@ Vzájemná zpětná vazba má v tomto pořadí své vlastní místo. [[scaffoldi
 
 Výhoda Gu a kol. byla malá a sami ji čtou jako skutečnou, ale sama o sobě nepřevratnou. Podpůrnou práci odvedlo scaffolding od učitele, pokyny k promptům a pracovní listy.
 
+Zdroj může záležet méně než čas. U 391 německých středoškoláků nepřinesla zpětná vazba psaná učitelem a zpětná vazba od LLM žádný významný rozdíl v revizích, pozdějším psaní, času stráveném úkolem ani ve vnímání; bayesovská posteriorní rozdělení se klonila ke zpětné vazbě od učitele u pozdějšího psaní, ale čtvrtinu až dvě pětiny hmotnosti si ponechala uvnitř ekvivalenční oblasti, a jen okamžitá zpětná vazba od AI získala lepší hodnocení užitečnosti a motivace ([[meyer-teacher-ai-feedback-writing-2026|Meyer et al., 2026]]). Pokud první komentář může dorazit, dokud student ještě reviduje, je toto načasování součástí návrhu, který odvádí práci.
+
 ## Dejte modelu rubriku a nechte ho ukázat kroky
 
 Generování s odkazem na rubriku je ta automatizovatelná část.
@@ -92,7 +94,7 @@ Aldino a kol. nacházejí stejný vzorec pomoc, pak ověření i v běžné prax
 
 Dvanáct z 21 učitelů u Aldina a kol. provedlo další revize na úrovni vět a převládajícím vzorcem byla kalibrace tónu: snižování chvály (f = 11), odstraňování doporučení (f = 9), odstraňování povzbuzení (f = 8). Revize se shlukovaly v relační dimenzi, zejména u Vztahu učitele a studenta (f = 24). Chránili autenticitu a profesní hlas, a tato práce se automatizovat nedá.
 
-Studenti jsou druhou stranou tohoto ověřování a jejich popis dělby práce je blízký tomu, co tato stránka doporučuje. Ve fokusních skupinách s 20 vysokoškolskými studenty byla zpětná vazba od učitele ceněna jako relační, personalizovaná a vedená odborností, zatímco zpětná vazba generovaná AI působila neosobně a potenciálně nespravedlivě; titíž studenti byli otevřeni hybridnímu modelu, v němž učitel čte jejich práci a doplňuje komentáře modelu ([[fong-chatgpt-feedback-evaluations-2026|Fong a kol. (2026)]]). Tatáž studie zjistila, že jejich úsudky se shodovaly s ChatGPT v konkrétnosti a proveditelnosti, ale rozcházely se v časovosti a pozitivitě, takže dimenze, v nichž lze věřit vlastnímu verdiktu modelu, jsou užší než celá rubrika.
+Studenti jsou druhou stranou tohoto ověřování a jejich popis dělby práce je blízký tomu doporučovanému. Ve fokusních skupinách s 20 vysokoškolskými studenty byla zpětná vazba od učitele ceněna jako relační, personalizovaná a vedená odborností, zatímco zpětná vazba generovaná AI působila neosobně a potenciálně nespravedlivě; titíž studenti byli otevřeni hybridnímu modelu, v němž učitel čte jejich práci a doplňuje komentáře modelu ([[fong-chatgpt-feedback-evaluations-2026|Fong a kol. (2026)]]). Tatáž studie zjistila, že jejich úsudky se shodovaly s ChatGPT v konkrétnosti a proveditelnosti, ale rozcházely se v časovosti a pozitivitě, takže dimenze, v nichž lze věřit vlastnímu verdiktu modelu, jsou užší než celá rubrika.
 
 ## Naučte studenty číst komentář
 
@@ -144,6 +146,6 @@ Hodnocení spokojenosti vám říká, že komentáře jsou přesné. V pilotu na
 
 ## Kam dál
 
-[[feedback|zpětná vazba]] je zastřešující pojem pro celý systém: poskytování, smyčku, přijetí a kontext hodnocení. [[ai-feedback-quality|Kvalita zpětné vazby od AI]] pokrývá, co dělá generované komentáře přesnými, užitečnými, včasnými a pedagogicky správnými, a tato stránka je praktickým středem: které kombinace těchto částí vedou k lepší zpětné vazbě ve velkém měřítku.
+[[feedback|zpětná vazba]] je zastřešující pojem pro celý systém: poskytování, smyčku, přijetí a kontext hodnocení. [[ai-feedback-quality|Kvalita zpětné vazby od AI]] pokrývá, co dělá generované komentáře přesnými, užitečnými, včasnými a pedagogicky správnými, a praktická otázka zní, které kombinace těchto částí vedou k lepší zpětné vazbě ve velkém měřítku.
 
 Otázky, co má známka znamenat, když je zapojena AI, včetně záměny konstruktu, autentizovaných dokladů o procesu a pravidel integrity, patří spíš na [[redesign-assessment-ai-era|přepracování hodnocení v éře AI]] a [[assessment-validity|validitu hodnocení]] než sem. Zvláštní případ výuky psaní najdete v [[writing-instruction-ai-best-practices|osvědčených postupech pro výuku psaní v kontextu AI]].

@@ -9,9 +9,9 @@ ethics: [hallucination-risk, trust-calibration]
 research_method: [experiment, literature review, survey]
 audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
-updated: "2026-10-29T14:24:50-04:00"
+updated: "2026-11-15T16:22:24-05:00"
 translation_of: faqs/verify-ai-output
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -23,7 +23,7 @@ ai_assist:
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
 
-Tjedan je prije roka za ocjene i dva rada citiraju izvore koji ne postoje. Oba studenta kažu da su provjerili. Jedan je otvorio poveznicu. Drugi je pročitao odlomak i zaključio da zvuči ispravno. Već ste ovom kolegiju rekli da provjere što im chatbot daje, a to što ste rekli nije proizvelo ponašanje.
+Tjedan je prije roka za ocjene i dva rada citiraju izvore koji ne postoje. Oba studenta kažu da su provjerili. Jedan je otvorio poveznicu. Drugi je pročitao odlomak i zaključio da zvuči ispravno. Već ste ovom kolegiju rekli da provjere što im [[conversational-ai|chatbot]] daje, a to što ste rekli nije proizvelo ponašanje.
 
 Provjera je slijed koji možete ugraditi u zadatak. Odlučite što se računa kao točno prije nego zadatak počne, neka student u pisanom obliku zapiše očekivanje, pošaljite ga na zapis umjesto na njegov dojam o tekstu i ocjenjujte zapis koji proizvede. Redak u rubrici koji kaže „provjerio izvore“ ne mjeri ništa od toga.
 
@@ -45,7 +45,7 @@ Provjera je slijed koji možete ugraditi u zadatak. Odlučite što se računa ka
 
 [[verification-quality-reliance-calibration-genai-2026|Wei i Shang (2026)]], pregledavši 493 deduplicirana zapisa i mapiravši 14 prioritetnih empirijskih studija, razdvajaju sedam stvari koje „kritična upotreba umjetne inteligencije“ sabija u jednu: epistemijsko vrednovanje, pokretanje provjere, kvalitetu procesa, uspjeh provjere, odluke o oslanjanju, neposrednu izvedbu u zadatku i samostalno učenje. Vaša rubrika kaže „provjerio izvore“, što stoji na drugom koraku i ne govori vam ništa o tome je li provjera bila kompetentna ni je li promijenila studentov odgovor. Pokretanje nije uspjeh. Jak proces može završiti nezaključno, slab može stići do točnog odgovora, a student koji je pokrenuo pretragu i ostao zbunjen dobiva isto kao onaj koji je pitanje razriješio.
 
-Isti pregled povlači drugu crtu, između [[trust|povjerenja]] i oslanjanja. [[trust-calibration|Kalibracija oslanjanja]] pita je li odluka o oslanjanju bila primjerena s obzirom na stvarnu kvalitetu rezultata, što prosudbu veže uz jednu odluku i jedan rezultat. Jedna revidirana studija našla je da su lažne informacije ChatGPT-a pomaknule prijavljeno povjerenje sudionika i nikada nije zabilježila jesu li poslije prihvatili ili odbili konkretnu preporuku. Druga je bilježila odluke o prihvaćanju i odbijanju na [[feedback|povratnim informacijama]] ChatGPT-a kod 78 studenata prevođenja, ali bez neovisne stručne procjene prihvaćanje se ne može nazvati primjerenim, a odbijanje opravdanim. Bez istinitog stanja o kvaliteti rezultata oslanjanje se uopće ne može klasificirati.
+Isti pregled povlači drugu crtu, između [[trust|povjerenja]] i oslanjanja. [[trust-calibration|Kalibracija oslanjanja]] pita je li odluka o oslanjanju bila primjerena s obzirom na stvarnu kvalitetu rezultata, što prosudbu veže uz jednu odluku i jedan rezultat. Jedna revidirana studija našla je da su lažne informacije [[generative-ai|ChatGPT]]-a pomaknule prijavljeno povjerenje sudionika i nikada nije zabilježila jesu li poslije prihvatili ili odbili konkretnu preporuku. Druga je bilježila odluke o prihvaćanju i odbijanju na [[feedback|povratnim informacijama]] ChatGPT-a kod 78 studenata prevođenja, ali bez neovisne stručne procjene prihvaćanje se ne može nazvati primjerenim, a odbijanje opravdanim. Bez istinitog stanja o kvaliteti rezultata oslanjanje se uopće ne može klasificirati.
 
 To je dizajnerska posljedica i prvo što treba popraviti. Prije nego postavite zadatak provjere, napišite dva kratka opisa: kako izgleda točan rezultat za ovaj zadatak i kako izgleda uvjerljiv, ali pogrešan rezultat. Po jedan je dovoljan. Studenti tada imaju mjerilo prema kojem provjeravaju, a vi imate nešto prema čemu provjeru ocjenjujete, osim dojma o tome djeluje li student pažljivo.
 
@@ -59,7 +59,7 @@ U praksi je to jedan redak na uputi za zadatak: prije nego otvorite alat, zapiš
 
 ## Pošaljite ih na zapis
 
-[[citation-errors-hallucinations-computing-education-2026|Denny i sur. (2026)]] pratili su 113.588 referenci iz 5.225 radova o računalnom obrazovanju objavljenih od 2021. i ručno provjerili 828 sumnjivih zapisa. Našli su 30 koji sadrže provjerljivo izmišljene bibliografske podatke u 14 radova, svi iz 2025. i 2026. Trinaest je bilo posve izmišljeno. Ostalih 17 spojilo je stvaran naslov s izmišljenim ili netočnim autorstvom, mjestom objave ili godinom. Na tehničkom simpoziju SIGCSE broj je porastao s 3 u zborniku za 2025. na 17 u 2026., ili 2,3% radova u tom godišnjem zborniku.
+[[citation-errors-hallucinations-computing-education-2026|Denny i sur. (2026)]] pratili su 113.588 referenci iz 5.225 radova o [[cs-education|računalnom obrazovanju]] objavljenih od 2021. i ručno provjerili 828 sumnjivih zapisa. Našli su 30 koji sadrže provjerljivo izmišljene bibliografske podatke u 14 radova, svi iz 2025. i 2026. Trinaest je bilo posve izmišljeno. Ostalih 17 spojilo je stvaran naslov s izmišljenim ili netočnim autorstvom, mjestom objave ili godinom. Na tehničkom simpoziju SIGCSE broj je porastao s 3 u zborniku za 2025. na 17 u 2026., ili 2,3% radova u tom godišnjem zborniku.
 
 Polja s autorima griješe češće od bilo kojeg drugog dijela generirane reference. Taj jedan nalaz govori vam što tražiti. „Otvorite izvor i pročitajte popis autora“ cilja polje koje najvjerojatnije nije točno i daje činjenicu koju student ili ima ili nema. „Pobrinite se da su izvori stvarni“ daje uvjeravanje. Tražite od studenata da potvrde autore, mjesto objave i godinu prema samom zapisu. Rad traži da se svako citirano djelo provjeri i da svaki automatizirani provjerivač ostane [[human-in-the-loop-ai|s čovjekom u petlji]], što je upravo navika koju zahtjev za citiranjem uvježbava.
 
@@ -89,7 +89,7 @@ Tri nalaza gore pripadaju u izgradnju kolegija, gdje do njih nastavnik koji radi
 
 Prvi je dijagnostika. Provedite zadatak s usađenim pogreškama: dvadeset čestica, osam s pogreškom na razini domene. Govori vam mogu li studenti uopće razlikovati, prije nego potrošite semestar poučavajući kriterij koji ne mogu upotrijebiti. Razred koji promašuje usađene pogreške treba pregled sadržaja, što god silabus govorio o kritičnoj upotrebi.
 
-Drugi je smještaj upozorenja. [[chatgpt-inoculation-training-verification-2026|Vu, Cummings i Park (2026)]] pokazali su generičku preventivnu poruku neposredno prije dva zadatka skupini od 100 studenata u Sjedinjenim Državama, 40 domaćih i 60 međunarodnih koji uče engleski kao strani jezik. Inokulirani su studenti bili znatno skloniji provjeriti zadatak sažetka akademskog izvora (M = 0,34 prema 0,18), dok se samoprijavljena namjera provjere nije pomaknula. Učinak je ovisio i o zadatku: pojavio se kod zadatka sažetka izvora, ali ne ujednačeno kod matematičkog kviza o potenciranju i množenju velikih brojeva. Stavite upozorenje na mjesto upotrebe, po vrsti zadatka, a ne jednom u silabus ili u uvodni modul.
+Drugi je smještaj upozorenja. [[chatgpt-inoculation-training-verification-2026|Vu, Cummings i Park (2026)]] pokazali su generičku preventivnu poruku neposredno prije dva zadatka skupini od 100 studenata u Sjedinjenim Državama, 40 domaćih i 60 međunarodnih koji uče engleski kao strani jezik. Inokulirani su studenti bili znatno skloniji provjeriti zadatak sažetka akademskog izvora (M = 0,34 prema 0,18), dok se [[self-report-measures|samoprijavljena]] namjera provjere nije pomaknula. Učinak je ovisio i o zadatku: pojavio se kod zadatka sažetka izvora, ali ne ujednačeno kod matematičkog kviza o potenciranju i množenju velikih brojeva. Stavite upozorenje na mjesto upotrebe, po vrsti zadatka, a ne jednom u silabus ili u uvodni modul.
 
 Treći je terminiranje. Silabus koji provjeru ostavlja bez termina kaže da je neobavezna, a vremenski pritisak dokumentiran je razlog zašto je studenti preskaču. Provjera koja živi unutar zadatka, s pridruženim ocijenjenim artefaktom, događa se. Provjera koja živi u odlomku politike ne događa se.
 
@@ -119,7 +119,7 @@ Ne vjerujte osjećaju da se tekst dobro čita. Početnici koji su trebali objasn
 
 **„Više upozorenja popravit će studente koji ne razlikuju.“** Upozorenja pomiču kriterij. Ne podižu osjetljivost, a osjetljivost je ono što razlikuje studenta koji uoči manjkavost od onoga koji ne može.
 
-**„Detektor podupire politiku.“** Prema dokazima gore, rezultat detektora ne zadovoljava standard koji traži slučaj čestitosti, podjela čovjek nasuprot umjetnoj inteligenciji ne vrijedi za rad nastao s umjetnom inteligencijom, a režim vas košta [[trust|povjerenja]] koje trebate da bi studenti ikoga prijavili.
+**„Detektor podupire politiku.“** Prema dokazima gore, rezultat detektora ne zadovoljava standard koji traži slučaj [[academic-integrity|čestitosti]], podjela čovjek nasuprot umjetnoj inteligenciji ne vrijedi za rad nastao s umjetnom inteligencijom, a režim vas košta [[trust|povjerenja]] koje trebate da bi studenti ikoga prijavili.
 
 ## Što će vam se vratiti
 
@@ -129,7 +129,7 @@ Ne vjerujte osjećaju da se tekst dobro čita. Početnici koji su trebali objasn
 
 **„Alat je obično u pravu.“** Onda je provjera jeftina i iznimke su poanta. Polja s autorima griješe češće od bilo kojeg drugog dijela generirane reference, 17 od 30 izmišljenih stavki spojilo je stvaran naslov s pogrešnim autorstvom, mjestom objave ili godinom, a 17 se pojavilo u zborniku jednoga simpozija u jednoj godini. Točnost u dijelovima koje slučajno primijetite ne govori ništa o dijelovima koje ne primjećujete.
 
-**„Moji studenti ne znaju dovoljno da prosude rezultat.“** To je prag osjetljivosti i stvaran je. Gousopoulos predviđa da poduka o provjeri pada ispod razine znanja u domeni i napominje da neke domene daju vanjski kriterij, među njima fizika, kemija, ekologija i epidemiologija, dok povijest, književnost i [[ethics|etika]] uglavnom ne daju. Poučite domenu i na nju pričvrstite provjeru, ili očekujte da će provjera postati ritual.
+**„Moji studenti ne znaju dovoljno da prosude rezultat.“** To je prag osjetljivosti i stvaran je. Gousopoulos predviđa da poduka o provjeri pada ispod razine znanja u domeni i napominje da neke domene daju vanjski kriterij, među njima fizika, [[chemistry-education|kemija]], ekologija i epidemiologija, dok povijest, književnost i [[ethics|etika]] uglavnom ne daju. Poučite domenu i na nju pričvrstite provjeru, ili očekujte da će provjera postati ritual.
 
 **„Ovo je nadzor.“** Jest, ako ocjenjujete trud ili gledate kako studenti rade. Ocjenjujte artefakt prema ključu, navedite koje su povratne informacije strojno provjerene, a koje je prosudio čovjek, i ostavite detektore po strani.
 

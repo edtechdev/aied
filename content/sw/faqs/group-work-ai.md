@@ -12,8 +12,8 @@ research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
 translation_of: faqs/group-work-ai
-source_updated: "2026-11-06T03:00:00-05:00"
-updated: "2026-11-08T04:26:08-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-15T16:26:08-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -93,7 +93,7 @@ Oanisha alama ya kikundi na kipengele cha mtu binafsi: [[oral-assessment|utetezi
 
 Vikomo vyao vinaambatana na marejeo: hifadhidata moja, makala za majarida pekee, hakuna umakini kwa [[ethics|maadili]] au faragha, miaka miwili ya kwanza ya teknolojia, na hakuna chombo cha hatari ya upendeleo kilichotumika. Soma "vichocheo" kama maelezo ya mazoezi yaliyoonekana, si matokeo yaliyopimwa.
 
-Ugunduzi ni chombo kisichofaa kwa kutenganisha michango ya mtu binafsi: hakuna hata moja ya tafiti hizi sita inayojaribu vigunduzi katika mazingira ya kikundi, na matatizo ya ugunduzi katika ngazi ya mtu binafsi yameandikwa mahali pengine katika hifadhi hii ya maarifa. Kujizuia kunahitaji kufasiriwa kabla ya kurekebishwa. Chen na Zou wanatahadharisha kwamba kikundi kinachokataa AI kinaweza kuwa kinaepuka kitu kisichokizoea badala ya kutumia [[self-regulated-learning|kujidhibiti]] kwa makusudi, na hali hizo mbili zinahitaji majibu tofauti: moja ni tatizo la kufundisha, nyingine ni msimamo uliofikiriwa ambao unaweza kuuwekea alama.
+Ugunduzi ni chombo kisichofaa kwa kutenganisha michango ya mtu binafsi: hakuna hata moja ya tafiti hizi sita inayojaribu vigunduzi katika mazingira ya kikundi, na matatizo ya ugunduzi katika ngazi ya mtu binafsi yameandikwa vizuri. Kujizuia kunahitaji kufasiriwa kabla ya kurekebishwa. Chen na Zou wanatahadharisha kwamba kikundi kinachokataa AI kinaweza kuwa kinaepuka kitu kisichokizoea badala ya kutumia [[self-regulated-learning|kujidhibiti]] kwa makusudi, na hali hizo mbili zinahitaji majibu tofauti: moja ni tatizo la kufundisha, nyingine ni msimamo uliofikiriwa ambao unaweza kuuwekea alama.
 
 Wenza walioigwa hawatoi jibu la swali hilo pia. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] alirekebisha mawakala wa [[llm|LLM]] kwa mazungumzo halisi ya washiriki (adapters za [[llm-training-and-fine-tuning|LoRA]]/QLoRA kwenye LLaMA 3.2-3B) ili kuiga washiriki 48 katika mizunguko 3,824 na misimbo sita ya mada, kisha akalinganisha mazungumzo halisi na yaliyoigwa kwa [[network-analysis|Uchanganuzi wa Mtandao wa Kimaarifa]]. Mtandao ulioigwa ulifikia umbali wa 0.17 kutoka kwa mtandao wa kimajaribio, chini ya kizingiti cha 0.30, na p-value ya upangaji wa nasibu ya 0.65, ambao hautofautiani kitakwimu, ingawa ulisisitiza kidogo zaidi Vizuizi vya Kiufundi na viungo vya Ubunifu na ukawakilisha kidogo Data na Vigezo vya Utendaji. Ni karatasi ya mfumo wenye uhakika wa wastani, na inaunga mkono dai moja: mawakala mahususi kwa mshiriki wanaweza kuzalisha mazungumzo ya ushirikiano ya kweli. Haionyeshi kwamba wanafunzi hujifunza zaidi kutoka kwa wenza walioigwa.
 
@@ -148,4 +148,4 @@ Ugunduzi unaweza kukuambia nani alifanya nini. Hakuna hata moja ya tafiti hizi i
 
 ## Wapi kwenda baadaye
 
-[[group-work]] na [[collaborative-learning]] hubeba ushahidi wa msingi kuhusu tathmini ya kikundi na kile kinachofanya ushirikiano kuwa na tija. [[course-ai-policy]] inashughulikia maneno ya ngazi ya kozi ambayo wanafunzi husoma kwa kweli, [[redesign-assessment-ai-era]] inashughulikia ubunifu upya wa tathmini ambao hili liko ndani yake, na [[academic-integrity]] ni mahali ambapo upande wa utovu wa nidhamu unashughulikiwa.
+[[group-work|kazi za kikundi]] na [[collaborative-learning|kujifunza kwa ushirikiano]] hubeba ushahidi wa msingi kuhusu tathmini ya kikundi na kile kinachofanya ushirikiano kuwa na tija. [[course-ai-policy]] inashughulikia maneno ya ngazi ya kozi ambayo wanafunzi husoma kwa kweli, [[redesign-assessment-ai-era]] inashughulikia ubunifu upya wa tathmini ambao hili liko ndani yake, na [[academic-integrity|uadilifu wa kitaaluma]] ni mahali ambapo upande wa utovu wa nidhamu unashughulikiwa.

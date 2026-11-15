@@ -13,9 +13,9 @@ level: [higher ed]
 audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-11-08T05:10:57-05:00"
+updated: "2026-11-15T16:30:24-05:00"
 translation_of: faqs/research-gaps-aied
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ ai_assist:
 
 Do uzávěrky grantu zbývá osm dní a část s přehledem stavu potřebuje jednu větu o tom, co tento obor zatím neví. Nebo kolega řekl komisi, že doučování s AI zvyšuje výsledky, a odkázal se na dvouletý experiment v 18 středních školách, a vy jste ten, kdo musí říct, co ta studie unese. Nebo si vybíráte téma disertace a každá jeho verze vypadá, že už byla udělána.
 
-Mezery, na kterých záleží, se týkají síly, specifičnosti a použitelnosti. AI dokáže vykonávat vzdělávací úkoly; otevřené otázky jsou, zda konkrétní design přináší trvalý užitek, komu, jakým mechanismem a za jakých podmínek. Toto rozlišení rozhoduje o dvou věcech na vašem stole: co studovat dál a co mezitím přestat tvrdit. [[limitations-in-aied-research|Omezení výzkumu AI ve vzdělávání]] je katalog, o který se tato stránka opírá. Ani důkazy o [[intelligent-tutoring|inteligentních doučovacích systémech]], prediktivní [[learning-analytics|analytice]], [[generative-ai|generativní AI]] a autonomních agentech nejsou zaměnitelné a výzkum využívání AI na podporu učení se liší od výzkumu učení lidí o AI, jak vysvětluje přehled [[ai-education|Umělá inteligence ve vzdělávání]].
+Mezery, na kterých záleží, se týkají síly, specifičnosti a použitelnosti. AI dokáže vykonávat vzdělávací úkoly; otevřené otázky jsou, zda konkrétní design přináší trvalý užitek, komu, jakým mechanismem a za jakých podmínek. Toto rozlišení rozhoduje o dvou věcech na vašem stole: co studovat dál a co mezitím přestat tvrdit. Katalog je v [[limitations-in-aied-research|Omezeních výzkumu AI ve vzdělávání]]. Ani důkazy o [[intelligent-tutoring|inteligentních doučovacích systémech]], prediktivní [[learning-analytics|analytice]], [[generative-ai|generativní AI]] a autonomních agentech nejsou zaměnitelné a výzkum využívání AI na podporu učení se liší od výzkumu učení lidí o AI, jak vysvětluje přehled [[ai-education|Umělá inteligence ve vzdělávání]].
 
 ## Stručně
 
@@ -85,7 +85,7 @@ Chybí ověření celého hodnoticího řetězce, od chování modelu přes [[pe
 
 AI vytváří dva spojené problémy hodnocení: pomáhá vyrábět práci, která se hodnotí, a může ovlivnit, jak se tato práce známkuje.
 
-Studie z této znalostní báze o agentech AI, kteří plní [[ai-agents-complete-lms-assessment-validity-2026|hodnocené úkoly v LMS]], dokumentuje agenty, kteří procházeli živým bakalářským kurzem a dokončovali hodnocené aktivity. To ukazuje schopnost, která zpochybňuje předpoklady o dokladech vytvořených studentem. Neustavuje, jak časté takové použití je, a nezbavuje platnosti asynchronní hodnocení jako kategorii.
+Studie o agentech AI, kteří plní [[ai-agents-complete-lms-assessment-validity-2026|hodnocené úkoly v LMS]], dokumentuje agenty, kteří procházeli živým bakalářským kurzem a dokončovali hodnocené aktivity. To ukazuje schopnost, která zpochybňuje předpoklady o dokladech vytvořených studentem. Neustavuje, jak časté takové použití je, a nezbavuje platnosti asynchronní hodnocení jako kategorii.
 
 Výzkumná otázka zní, které designy ještě podporují obhajitelné závěry o žákovi. [[eportfolio|Portfolia]], reflexe, stupňovaná odevzdání a záznamy aktivity potřebují ověření jako důkazy, místo aby se předpokládalo, že ustavují autorství nebo porozumění. Studie by měly testovat kombinace důkazů proti nezávisle pozorované kompetenci a přitom zohlednit přístupnost, pracovní zátěž, soukromí a [[anxiety-and-stress|úzkost studentů]]. Podrobnosti drží [[assessment-validity|validita hodnocení]].
 

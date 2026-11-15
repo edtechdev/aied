@@ -14,9 +14,9 @@ discipline: [writing education]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T14:37:59-04:00"
+updated: "2026-11-15T16:22:38-05:00"
 translation_of: faqs/making-ai-better-at-supporting-learning
-source_updated: "2026-10-28T11:21:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 A hibajegy azt mondja, hogy „finomhangoljuk a modellt a kurzusanyagainkra”. A költségvetés jóváhagyva, egy GPU le van foglalva a következő hónapra, és egy doktoranduszt megkértek, hogy állítson össze egy adatkészletet. A hívásban senki nem kérdezte meg, mit ér el egy egyszerű prompt, vagy mit ér el egy kulcsszókeresés ugyanazokon a kérdéseken.
 
-Először ezt a két kérdést tegye fel. Ebben a tudásbázisban az általános modell és egy kurzuskompetens modell közötti szakadék nagyrészt alapozási és promptolási probléma, és ennek a sorrendnek a bizonyítéka szokatlanul közvetlen: egy tanfolyami asszisztensről szóló vizsgálat azt találta, hogy a visszakeresés, nem a modell volt az elsőrendű döntés, és egy alapozás nélküli általános modell *egy egyszerű TF-IDF kiindulópont alatt* teljesített.
+Először ezt a két kérdést tegye fel. Az általános modell és egy kurzuskompetens modell közötti szakadék nagyrészt alapozási és promptolási probléma, és ennek a sorrendnek a bizonyítéka szokatlanul közvetlen: egy tanfolyami asszisztensről szóló vizsgálat azt találta, hogy a visszakeresés, nem a modell volt az elsőrendű döntés, és egy alapozás nélküli általános modell *egy egyszerű TF-IDF kiindulópont alatt* teljesített.
 
 A betanítás valóságos, és néha szükséges. Ez a harmadik vagy negyedik dolog, amit ki kell próbálni, és az alábbi munka úgy van rendezve, hogy kiderüljön, melyik lépcsőfokra van ténylegesen szüksége, mielőtt a negyedév számítási kapacitását elkölti.
 
@@ -52,7 +52,7 @@ A betanítás valóságos, és néha szükséges. Ez a harmadik vagy negyedik do
 
 Mielőtt bármit megváltoztat, naplózza, mit ad vissza egy egyszerű prompt. Aztán naplózza, mit ad vissza egy triviális módszer.
 
-A [[shen-sustainable-ai-knowledge-base-cs-education-2026|tanfolyami tudásbázis-asszisztens]] vizsgálata már ezért egyedül is érdemes az elolvasásra. Egy helyi LLM visszakeresés nélkül **52,3%** pontosságot ért el. Egy TF-IDF kiindulópont, egy évtizedes lexikai módszer **55,4%**-ot. A modell rosszabb volt a klasszikus módszernél.
+A [[shen-sustainable-ai-knowledge-base-cs-education-2026|tanfolyami tudásbázis-asszisztens]] vizsgálata már ezért egyedül is érdemes az elolvasásra. Egy helyi [[llm|LLM]] visszakeresés nélkül **52,3%** pontosságot ért el. Egy TF-IDF kiindulópont, egy évtizedes lexikai módszer **55,4%**-ot. A modell rosszabb volt a klasszikus módszernél.
 
 Hagyja ki ezt a lépést, és nem tudja megmondani, hogy a finomhangolása segített-e. Rosszabb esetben olyan rendszert szállít, amelyet egy kulcsszókeresés megver, és ezt csak akkor tudja meg, amikor egy oktató asszisztens megemlíti. Két szám egy táblázatban, egy délután alatt felvéve, megvédi a költségvetés többi részét.
 
@@ -60,9 +60,9 @@ Hagyja ki ezt a lépést, és nem tudja megmondani, hogy a finomhangolása segí
 
 A [[rag|visszakeresés-alapú generálás]] hozzáadása a kurzusanyagok fölé, finomhangolás nélkül, ugyanezt a rendszert 52,3%-ról **66,6%**-ra emelte. Ez a nyereség egy indextől jött, és olyan tulajdonsággal jár, amilyenje egy betanítási futásnak nincs: amikor a dokumentumai megváltoznak, újraindexel.
 
-Két másik eredmény ugyanabba az irányba mutat. 23 empirikus vizsgálat PRISMA-áttekintése az MI [[writing-education|írásoktatáshoz]] való testreszabásáról azt találta, hogy **a promptmérnökség dominál (N = 13), megelőzve a finomhangolást (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Ahol egy tudásbázisnak naprakésznek kell maradnia, a visszakeresés az egyetlen kar, amely naprakész marad betanítási feladat újrafuttatása nélkül.
+Két másik eredmény ugyanabba az irányba mutat. 23 empirikus vizsgálat [[meta-analysis-systematic-review|PRISMA]]-áttekintése az MI [[writing-education|írásoktatáshoz]] való testreszabásáról azt találta, hogy **a [[prompt-engineering|promptmérnökség]] dominál (N = 13), megelőzve a finomhangolást (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Ahol a forrásanyagoknak naprakésznek kell maradniuk, a visszakeresés az egyetlen kar, amely naprakész marad betanítási feladat újrafuttatása nélkül.
 
-A visszakeresésnek pedagógiai formája is van. Egy modell alapozása a saját kidolgozott példáiba és rubrikáiba az, ahogy az Ön által tervezett [[scaffolding|állványon]] belül marad, az Ön által beállított szinten válaszol, ahelyett hogy általános tanácsokba sodródna. Ez az elsodródás a leggyakoribb panasz a kész tutorokkal szemben, és gyakrabban visszakeresési probléma, mint súlyprobléma.
+A visszakeresésnek [[pedagogy|pedagógiai]] formája is van. Egy modell alapozása a saját kidolgozott példáiba és rubrikáiba az, ahogy az Ön által tervezett [[scaffolding|állványon]] belül marad, az Ön által beállított szinten válaszol, ahelyett hogy általános tanácsokba sodródna. Ez az elsodródás a leggyakoribb panasz a kész tutorokkal szemben, és gyakrabban visszakeresési probléma, mint súlyprobléma.
 
 ## Írja a promptot a rubrikához, és figyelje a platót
 
@@ -79,9 +79,9 @@ Figyelje meg, mit jelent a tételgenerálási eredmény a sorrendre nézve. A fi
 
 Az adaptáció akkor térül meg, amikor a modellnek egy tulajdonságot megbízhatóan kell tartania: egy olvasási szintet, egy kimeneti formátumot, egy szakterületet, amely hiányzik belőle. A visszatérő eredmény az, hogy **a célzás legyőzi a méretet**.
 
-- Három **8B**-s modell, amelyet szakértők által tervezett gyermekolvasási tananyagon finomhangoltak, felülmúlta a zero-shot GPT-4o-t és a Llama 3.3 70B-t a nehézséghez kapcsolódó mérőszámokon, elhanyagolható biztonsági problémák mellett. A szerzők ezt **szabályozhatóságként a méret helyett** keretezik ([[llm-children-reading-story-generation]]).
+- Három **8B**-s modell, amelyet szakértők által tervezett gyermekolvasási [[curriculum-design|tananyagon]] finomhangoltak, felülmúlta a zero-shot GPT-4o-t és a Llama 3.3 70B-t a nehézséghez kapcsolódó mérőszámokon, elhanyagolható biztonsági problémák mellett. A szerzők ezt **szabályozhatóságként a méret helyett** keretezik ([[llm-children-reading-story-generation]]).
 - Egy indiai tudásrendszerekre alapozott, **24 795 példás** utasítási adatkészlet egy **7B**-s finomhangolást eredményezett, amely **6,39**-et ért el egy öttagú külső zsűrin, egy erős általános referenciamodell **0,15**-ös közelségében, a telepítési költség töredékéért. Ugyanaz az alapmodell a finomhangolás nélkül **közel nullát ért el a szakterületspecifikus dimenziókon** ([[iks-instruct-dataset-indian-knowledge]]). Ez az általánosan kompetens és az itt kompetens közötti szakadék a szakterületi adaptáció teljes indoka.
-- Egyetlen [[llm-training-and-fine-tuning|LoRA]] adapter, amelyet nagyjából **3 900** összevont, jegyzett példán tanítottak, öt kis nyílt modellt (4B-től 30B-ig) hozott egy emberi javító szintjére vagy fölé két számítástechnikai vizsgán ([[llm-graders-computer-science-exams-2026]]). Egy adapter, egy adatkészlet, több alapmodell: ez az a telepítési alakzat, amelyet egy kis csapat is futtathat.
+- Egyetlen [[llm-training-and-fine-tuning|LoRA]] adapter, amelyet nagyjából **3 900** összevont, jegyzett példán tanítottak, öt kis [[open-source|nyílt]] modellt (4B-től 30B-ig) hozott egy emberi javító szintjére vagy fölé két számítástechnikai vizsgán ([[llm-graders-computer-science-exams-2026]]). Egy adapter, egy adatkészlet, több alapmodell: ez az a telepítési alakzat, amelyet egy kis csapat is futtathat.
 
 A címben a *stabil* szó viseli a súlyt. A formátum, a rubrika, az olvasási szint és a szakterületi szókincs stabil célok. Az ítélethordozó prózának nincs ilyen célja, és ott bukik meg az adaptáció, amint a következő két szakasz mutatja.
 
@@ -89,7 +89,7 @@ A címben a *stabil* szó viseli a súlyt. A formátum, a rubrika, az olvasási 
 
 Az adaptáció megtanítja a modellnek, *mit állítson elő*. Az utólagos betanítás megtanítja, *hogyan viselkedjen*. A tutorálásnál ez a megkülönböztetés maga a probléma: az általános modelleket emberi segítőkészségre vonatkozó preferenciákon tanították utólagosan, ami azt jelenti, hogy azonnal válaszolnak, a tanítás pedig a válasz visszatartását igényli.
 
-A korpusz legerősebb oktatási eredményei itt vannak. Az EduQwen jutalommodellje kifejezetten **a vezető válaszokat a közvetlen válaszok elé** helyezte, és háromszakaszos folyamata **96,52%**-ot ért el a CDPK benchmarkon a Gemini-3 Pro **90,55%**-ával szemben ([[singh-eduqwen-pedagogical-rl-2026]]). A SWIM írásszimulátora a rubrikaalapú promptolástól (legjobb QWK **0,577**) a felügyelt finomhangoláson (**0,474 ± 0,023**) át a megerősítéses tanulásig (**0,618 ± 0,005**) mozdult minden tulajdonságban és promptban ([[swim-student-writing-simulation-2026]]).
+A legerősebb oktatási eredmények ebből a szintből jönnek. Az EduQwen jutalommodellje kifejezetten **a vezető válaszokat a közvetlen válaszok elé** helyezte, és háromszakaszos folyamata **96,52%**-ot ért el a CDPK benchmarkon a Gemini-3 Pro **90,55%**-ával szemben ([[singh-eduqwen-pedagogical-rl-2026]]). A SWIM írás[[simulation|szimulátora]] a rubrikaalapú promptolástól (legjobb QWK **0,577**) a felügyelt finomhangoláson (**0,474 ± 0,023**) át a [[reinforcement-learning|megerősítéses tanulásig]] (**0,618 ± 0,005**) mozdult minden tulajdonságban és promptban ([[swim-student-writing-simulation-2026]]).
 
 A SWIM számokat figyelmesen olvassa, mert a középső lépés visszafelé ment. A bemutatásokon végzett felügyelt finomhangolás rosszabbá tette a szimulátort, mint a prompt, amelyből indult, és csak a jutalomjel állította helyre a veszteséget, majd múlta felül a kiindulópontot. Ha a terve a felügyelt finomhangolásnál megáll, a terv kerülőút lehet.
 
@@ -125,7 +125,7 @@ A könnyen alulbecsült költség az értékelés, amely nagyobb, mint a számí
 
 ## Kalibrálja, mire számít
 
-A modell- és promptválasztás együtt a nagy nyelvi modellek és a hallgatói tanulási nyereségek közötti eltérésnek csak mintegy **15%**-át magyarázza, és abban a vizsgálatban a benchmark-súlyozás és az egyhangú szavazáson alapuló együttesek *rontottak* az illesztésen ([[educational-llm-alignment]]). Az előtanítási adat a domináns kar abban, hogyan viselkedik egy modell, és ez az az egyetlen kar, amelyet nem tud meghúzni.
+A modell- és promptválasztás együtt a nagy nyelvi modellek és a hallgatói [[learning-gains|tanulási nyereségek]] közötti eltérésnek csak mintegy **15%**-át magyarázza, és abban a vizsgálatban a benchmark-súlyozás és az egyhangú szavazáson alapuló együttesek *rontottak* az illesztésen ([[educational-llm-alignment]]). Az előtanítási adat a domináns kar abban, hogyan viselkedik egy modell, és ez az az egyetlen kar, amelyet nem tud meghúzni.
 
 Mindez nem a fenti munka ellen érvel. Az ellen érvel, hogy egy finomhangolástól várjuk egy tervezési probléma megoldását. Ha a gond az, hogy a tutora túl készségesen válaszol, a betanítás kezelheti. Ha a gond az, hogy a tanulói nem lépnek kapcsolatba vele, a betanítás nem fogja kezelni, és a 15%-os szám azt mondja, hogy a pénzt jobb máshol elkölteni.
 
@@ -149,11 +149,11 @@ A felügyelt finomhangolás a biztonságos középső lépés a megerősítéses
 
 **„Nem küldhetjük a hallgatói munkákat egy szállítói API-nak.”** A legerősebb LoRA-eredmény itt nyílt modellekből jött a 4B-től 30B-ig terjedő sávban, és egyetlen adapter többet is kiszolgált közülük. Ez a telepítési alakzat elérhető egy olyan csapat számára, amelynek egy GPU-ja van és nincs adatfeldolgozási megállapodása.
 
-**„A promptolás hack, az igazi munka a betanítás.”** A 23 írásoktatási vizsgálat áttekintése a promptolást találta domináns megközelítésnek, a finomhangolást pedig mögötte, és az ezen az oldalon jelentett legnagyobb nyereség egy indextől jött. Az áttekintés és a tanfolyami asszisztens vizsgálata is a mért nyereség szerint rendezte ezeket a lépcsőfokokat.
+**„A promptolás hack, az igazi munka a betanítás.”** A 23 írásoktatási vizsgálat áttekintése a promptolást találta domináns megközelítésnek, a finomhangolást pedig mögötte, és a jelentett legnagyobb nyereség egy indextől jött. Az áttekintés és a tanfolyami asszisztens vizsgálata is a mért nyereség szerint rendezte ezeket a lépcsőfokokat.
 
 **„Kipróbáltuk a promptolást, és platóba futott, tehát betanításra van szükségünk.”** Ez a helyes olvasat, és ez az az egyetlen eset, amikor a mászás indokolt. Vigye be az optimalizált promptot a finomhangolásba, ahogy a tételgeneráló csapat tette, és számítson arra, hogy a nyereség kisebb lesz, mint a promptmunka volt.
 
-**„A kurzusanyagaink következetlenek, így a visszakeresés szemetet ad vissza.”** Adni fog, és a visszakeresés a korpusz minőségét örökli. A korpusz tisztítása olcsóbb, mint egy modellt arra tanítani, hogy megkerülje, és az 52,3%-ról 66,6%-ra vezető nyereséget hétköznapi kurzusanyagokon mérték, nem válogatott halmazon.
+**„A kurzusanyagaink következetlenek, így a visszakeresés szemetet ad vissza.”** Adni fog, és a visszakeresés a forrásanyagok minőségét örökli. A forrásanyagok tisztítása olcsóbb, mint egy modellt arra tanítani, hogy megkerülje, és az 52,3%-ról 66,6%-ra vezető nyereséget hétköznapi kurzusanyagokon mérték, nem válogatott halmazon.
 
 ## Mit tegyen ezen a héten
 

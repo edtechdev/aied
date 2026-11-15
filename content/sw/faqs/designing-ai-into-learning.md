@@ -1,13 +1,14 @@
 ---
 title: "AI Inapaswa Kubuniwa Je Katika Uzoefu wa Kujifunza?"
 created: "2026-10-13T10:05:00-04:00"
-updated: "2026-11-01T11:35:17-05:00"
+updated: "2026-11-15T16:26:08-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
+audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -31,7 +32,7 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-Muhtasari wa moduli una mstari unaosema "Shughuli ya AI" na hakuna anayeweza kusema inachukua nafasi ya nini. Au mwalimu ameomba kuongeza roboti ya mazungumzo kwenye kozi ambayo tayari inafanya kazi, na kazi yako ni kuiweka mahali bila kuvunja sehemu iliyoifanya kozi ifanye kazi.
+Muhtasari wa moduli una mstari unaosema "Shughuli ya AI" na hakuna anayeweza kusema inachukua nafasi ya nini. Au mwalimu ameomba kuongeza [[conversational-ai|roboti ya mazungumzo]] kwenye kozi ambayo tayari inafanya kazi, na kazi yako ni kuiweka mahali bila kuvunja sehemu iliyoifanya kozi ifanye kazi.
 
 Anza kutoka kwa lengo la kujifunza na kutoka kwa shughuli inayolizalisha. Mfano huo huo unaweza kuwa ngazi za msaada, mwenza wa [[socratic-method|Kisokrata]], msomaji wa rasimu, [[simulation|uigaji]], au mashine ya majibu, na ni upi unaoupata inategemea ubunifu badala ya mfano. Taja hali unayojenga, weka jaribio la mwanafunzi kabla msaada wowote haujatokea, na hifadhi angalau njia moja katika kozi inayoendeshwa bila zana.
 
@@ -49,7 +50,7 @@ Anza kutoka kwa lengo la kujifunza na kutoka kwa shughuli inayolizalisha. Mfano 
 
 ## Amua kile mwanafunzi anachofanya bila zana
 
-Dhana ya [[pedagogy|Mbinu za Kufundisha na Mikakati ya Kufunza]] katika hifadhi ya maarifa hutoa jaribio: je, mpangilio unahifadhi shughuli inayozalisha kujifunza kunakokusudiwa? Jibu hilo kwa karatasi, kabla mtu yeyote hajachagua kipengele.
+Dhana ya [[pedagogy|Mbinu za Kufundisha na Mikakati ya Kufunza]] hutoa jaribio: je, mpangilio unahifadhi shughuli inayozalisha kujifunza kunakokusudiwa? Jibu hilo kwa karatasi, kabla mtu yeyote hajachagua kipengele.
 
 [[finkelstein-principled-ai-education-2025|Mfumo wa Elimu ya AI yenye Kanuni]] unatoa kanuni ya jumla: teknolojia inapaswa kuongeza badala ya kuchukua nafasi ya uwezo wa binadamu ambao elimu inakusudia kuukuza. Ukiandikwa kama jaribio la moduli, hiyo inamaanisha kutaja uwezo, kutaja shughuli inayoujenga, na kuuliza kama AI inakaa ndani ya shughuli hiyo au kando yake.
 
@@ -79,7 +80,7 @@ Masomo mawili yanafuata kwa ubunifu wa AI. Weka zana mahali ambapo mfululizo una
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] anachukulia muda kama kiunzi kilichobuniwa badala ya sifa ya mwanafunzi: kozi inayojipangia mwendo yenyewe huwa na mgao wa kila wiki wa takriban dakika 100 wenye lengo la karibu dakika 20 kwa siku, vikumbusho vinavyojali muda, dashibodi ya maendeleo, na ukaguzi mfupi wa maswali 3 hadi 12 mwishoni wa kila kifungu kidogo. Msingi ambao ubunifu huu unajibu ni mkali: karibu asilimia 25 ya wanafunzi zaidi ya 600 walianza wiki ya mwisho tu, na asilimia 95 ya kundi hilo walifeli.
 
-Lichukulie kama mwongozo wa ubunifu badala ya athari iliyothibitishwa. Karatasi hiyo inalinganisha kozi ya baadaye na ya awali badala ya kufanya jaribio lenye udhibiti, kwa hiyo uboreshaji hauwezi kutenganishwa na mabadiliko ya kundi na somo, na vikumbusho vilivyo na nguvu vya kutosha kuhamisha muda wa kusoma pia ni swali la [[privacy]] unalopaswa kujibu katika mtaala.
+Lichukulie kama mwongozo wa ubunifu badala ya athari iliyothibitishwa. Karatasi hiyo inalinganisha kozi ya baadaye na ya awali badala ya kufanya [[rct|jaribio lenye udhibiti]], kwa hiyo uboreshaji hauwezi kutenganishwa na mabadiliko ya kundi na somo, na vikumbusho vilivyo na nguvu vya kutosha kuhamisha muda wa kusoma pia ni swali la [[privacy|faragha]] unalopaswa kujibu katika mtaala.
 
 ## Amua kile cha kuzuia, na lini cha kurudisha
 
@@ -107,7 +108,7 @@ Ufanisi ni lengo la ubunifu upya. Kuandika matokeo na rubriki kwa mfano ni harak
 
 **"Hatuna muda wa kupanga upya kozi nzima."** Basi panga upya moduli moja na tathmini moja. Pingu ya jizuie-kisha-ongeza ni kituo kimoja cha ukaguzi, na mfululizo wa fikiri kwanza ni maagizo matatu kwenye karatasi ya maelekezo.
 
-**"Kipengele chetu cha AI tayari kina ulinzi."** Ulinzi huzuia kile mfano unasema. Hauamui kama mwanafunzi alijaribu kwanza, kama msaada unapungua, au kama njia isiyo na AI ipo. Hizo ni maamuzi ya ubunifu katika kozi yako, si mipangilio katika bidhaa.
+**"Kipengele chetu cha AI tayari kina [[guardrails|ulinzi]]."** Ulinzi huzuia kile mfano unasema. Hauamui kama mwanafunzi alijaribu kwanza, kama msaada unapungua, au kama njia isiyo na AI ipo. Hizo ni maamuzi ya ubunifu katika kozi yako, si mipangilio katika bidhaa.
 
 ## Fanya hivi wiki hii
 

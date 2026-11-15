@@ -9,9 +9,9 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:25:09-05:00"
 translation_of: faqs/ai-disabled-neurodivergent-learners
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 U potvrdi o prilagodbi navedeni su student, kolegij i alat za koji nikada niste čuli. Ili je student razumno pitao može li i dalje rabiti svoj softver za pretvaranje govora u tekst na vremenski ograničenom ispitu, a vaše pravilo o umjetnoj inteligenciji na kolegiju zabranjuje bilo kakvu umjetnu inteligenciju. Ili ured za pristupačnost želi do petka odgovor treba li licencirati alat za čitanje, a dobavljačevi dokazi su izjava zadovoljnog korisnika s drugog sveučilišta.
 
-Odgovor koji izdrži sva tri slučaja: pođite od prepreke koju zadatak stvara, rabite alate koji su doista mjereni i poučavajte sve što usvojite. Dva su pravila važnija od bilo kojeg izbora proizvoda. Navedite transkripciju i OCR u svojem pravilu o umjetnoj inteligenciji kao prilagodbe same po sebi i dajte zadatku strukturu umjesto da od studenata tražite da je sami zaključe. Budite jasni glede dokaza: najsnažniji broj na ovoj stranici dolazi iz specijalnoobrazovnih okruženja od predškole do 12. razreda koja su uglavnom rabila umjetnu inteligenciju iz razdoblja prije generativnih modela, a literatura o visokom obrazovanju jest karta onoga što je isprobano.
+Odgovor koji izdrži sva tri slučaja: pođite od prepreke koju zadatak stvara, rabite alate koji su doista mjereni i poučavajte sve što usvojite. Dva su pravila važnija od bilo kojeg izbora proizvoda. Navedite transkripciju i OCR u svojem pravilu o umjetnoj inteligenciji kao prilagodbe same po sebi i dajte zadatku strukturu umjesto da od studenata tražite da je sami zaključe. Budite jasni glede dokaza: najsnažniji broj dolazi iz specijalnoobrazovnih okruženja od predškole do 12. razreda koja su uglavnom rabila umjetnu inteligenciju iz razdoblja prije generativnih modela, a literatura o visokom obrazovanju jest karta onoga što je isprobano.
 
 ## Kratka verzija
 
@@ -51,11 +51,11 @@ Isti oprez vrijedi za grupne statistike. [[differential-effects-across-learner-g
 
 ## Rabite ono što je izmjereno i pročitajte oznaku
 
-Najsnažniji [[quantitative-research|kvantitativni]] rezultat na ovoj stranici ujedno je i najopćenitiji, a dolazi s ograničenjima koja trebate ponijeti u odluku o kupnji.
+Najsnažniji [[quantitative-research|kvantitativni]] rezultat ujedno je i najopćenitiji, a dolazi s ograničenjima koja trebate ponijeti u odluku o kupnji.
 
 [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang, Carter, Liu i Peng (2024)]] sintetizirali su 29 (kvazi)eksperimentalnih studija intervencija utemeljenih na umjetnoj inteligenciji za [[inclusive-learning|studente s invaliditetom]]: 239 veličina učinka iz 41 neovisnog uzorka, statistički značajan srednji ukupni učinak na ishode učenja od Hedgesova g = 0,588 (95% CI [0,349; 0,826], p < 0,01) i visoku heterogenost među studijama. Akademska izvedba bila je najveća podskupina ishoda (k = 80, g = 0,929), a socijalno-emocionalne vještine najmanja (k = 144, g = 0,382). Računalni softver, što znači [[speech-and-voice-technologies|prepoznavanje govora]], ekspertne sustave i [[intelligent-tutoring|inteligentne sustave podučavanja]], postigao je snažan učinak (k = 74, g = 0,959), a [[educational-robotics|roboti]] umjeren (k = 144, g = 0,509), dok inteligentna virtualna stvarnost (g = 0,528) nije bila značajna. Pristranost objavljivanja bila je prisutna (Eggerov β = 2,837, p < 0,001); trim-and-fill smanjio je procjenu na g = 0,269, koja je i dalje značajna.
 
-Svaka je studija bila iz raspona od predškole do 12. razreda. Njih 96,6% rabilo je nastavu utemeljenu na koracima u specijalnoobrazovnim ili kliničkim okruženjima, a većina je rabila stariju umjetnu inteligenciju zasnovanu na pravilima, a ne [[generative-ai|generativnu umjetnu inteligenciju]]. To podupire oprezno usvajanje strukturiranog nastavnog softvera. To se ne prenosi na chatbot opće namjene, a postupati kao da se prenosi najskuplja je pogreška dostupna na ovoj stranici.
+Svaka je studija bila iz raspona od predškole do 12. razreda. Njih 96,6% rabilo je nastavu utemeljenu na koracima u specijalnoobrazovnim ili kliničkim okruženjima, a većina je rabila stariju umjetnu inteligenciju zasnovanu na pravilima, a ne [[generative-ai|generativnu umjetnu inteligenciju]]. To podupire oprezno usvajanje strukturiranog nastavnog softvera. To se ne prenosi na chatbot opće namjene, a postupati kao da se prenosi najskuplja je pogreška dostupna.
 
 Tri manja rezultata pokazuju što jedan alat može učiniti kad je prepreka uska. Svaki je ispitan na nekolicini učenika, pa ih tretirajte kao jeftine i reverzibilne eksperimente, a ne kao infrastrukturu.
 
@@ -84,7 +84,7 @@ Dokumentirani neuspjeh jest prilagodba pružena bez poduke. U predmetu *W.A. v. 
 
 Dvije stvari čine taj neuspjeh vjerojatnim, a obje su institucionalne. [[shin-ai-policies-sld-2026|Shin i suradnici (2026)]] rabili su modeliranje tema utemeljeno na LLM-u i dva kruga Delphi anketa sa 17 stručnjaka na 12 američkih dokumenata [[educational-policy-ai|politike umjetne inteligencije u obrazovanju]] od 2015. do 2025. Priprema edukatora jedna je od njihovih pet potvrđenih tema i nosi 4 od 36 čestica, a stručnjaci su osnaživanje učenika i [[ai-literacy|pismenost u području umjetne inteligencije]] ocijenili najbitnijima: ti bi učenici trebali naučiti rabiti umjetnu inteligenciju odgovorno i samostalno, s time da se čuvanje od pretjeranog oslanjanja poučava kao dio iste vještine. Autori [[ludia-udl-ai-thought-partner-2026|LUDIA-e]] prepreku nazivaju „jaz između znanja i djelovanja“: smjernica ima u izobilju, napisane su općenito, a prepreka je uvijek posebna za ovu sobu, ovaj tjedan.
 
-Ono što vam ova stranica ne može dati jest protokol osposobljavanja. Ne postoje formalne smjernice utemeljene na dokazima koje bi pomogle edukatorima ili obiteljima primijeniti umjetnu inteligenciju za te učenike, pa su količina poduke, njezin redoslijed i to ko je pruža stvar prosudbe. Sudska praksa postavlja pod, a ne standard: student mora na kraju moći obaviti dotičnu stvar, i netko mora odgovarati za to da do toga dođe.
+Ono što vam dokazi ne mogu dati jest protokol osposobljavanja. Ne postoje formalne smjernice utemeljene na dokazima koje bi pomogle edukatorima ili obiteljima primijeniti umjetnu inteligenciju za te učenike, pa su količina poduke, njezin redoslijed i to ko je pruža stvar prosudbe. Sudska praksa postavlja pod, a ne standard: student mora na kraju moći obaviti dotičnu stvar, i netko mora odgovarati za to da do toga dođe.
 
 ## Upišite transkripciju i OCR u pravilo o umjetnoj inteligenciji imenom
 
@@ -92,7 +92,7 @@ Ono što vam ova stranica ne može dati jest protokol osposobljavanja. Ne postoj
 
 Pravilo napisano kao „bez umjetne inteligencije“ može stoga ukinuti studentovo glavno sredstvo za stvaranje čitljivog rada. Nitko još nije izmjerio razmjere tog potiskivanja, što je razlog da budete izričiti, a ne da čekate broj. Navedite transkripciju i OCR kao prilagodbe u politici, uz zabrane sastavljanja teksta, kako bi se dva pitanja odlučivala odvojeno. Izloženost koju to stvara za ustanovu pripada temi [[legal-issues-and-risks|pravna pitanja i rizici]].
 
-To je popravak od jednog retka u većini dokumenata i to je redak s najtežim posljedicama na ovoj stranici.
+To je popravak od jednog retka u većini dokumenata i to je redak s najtežim posljedicama u politici.
 
 ## Dajte strukturu ondje gdje to zadatak podrazumijeva
 
@@ -106,7 +106,7 @@ Zbirni učinci daju vam smjer. Ne kažu vam djeluje li alat za studenta u vašoj
 
 Tri opreza trebaju oblikovati tu mjeru. Prvi je da je poredak podskupina sugestivan, a ne utvrđen: nijedan moderator bilo koje vrste nije dosegnuo značajnost u meta-analizi iz 2024., pa rangiranja poput [[learning-by-teaching|podučljivih agenata]] (g = 1,100) ispred socijalno-emocionalnih trenera (g = 0,336) ili dijadične interakcije ispred trijadične (g = 0,973 prema g = 0,385) ne treba smatrati riješenima. Smjer učinka je poduprt; veličina, optimalni dizajn i trajnost bilo kojeg dobitka nisu.
 
-Drugi je da ovaj korpus opisuje primjene i percepcije više nego izmjereno učenje. Pažnja (n = 4) i socijalna komunikacija (n = 5) najmanje su proučavane prepreke, a oskudnost (kvazi)eksperimentalnih i longitudinalnih nacrta razlog je zašto je rad o visokom obrazovanju pregled opsega, a ne meta-analiza. Pokrivenost naginje preddiplomskoj razini i globalnom sjeveru, pretraga je obuhvaćala recenzirane radove na engleskom jeziku, a poslijediplomski studenti nedovoljno su zastupljeni. Angažman i zadovoljstvo slabi su pokazatelji.
+Drugi je da literatura opisuje primjene i percepcije više nego izmjereno učenje. Pažnja (n = 4) i socijalna komunikacija (n = 5) najmanje su proučavane prepreke, a oskudnost (kvazi)eksperimentalnih i longitudinalnih nacrta razlog je zašto je rad o visokom obrazovanju pregled opsega, a ne meta-analiza. Pokrivenost naginje preddiplomskoj razini i globalnom sjeveru, pretraga je obuhvaćala recenzirane radove na engleskom jeziku, a poslijediplomski studenti nedovoljno su zastupljeni. Angažman i zadovoljstvo slabi su pokazatelji.
 
 Treći je da alat koji otklanja jednu prepreku može ostaviti drugu. Provjerite alat prema konkretnoj teškoći koju student prijavljuje, bila to čitanje i pisanje, upravljanje učenjem, pažnja ili socijalna komunikacija, i procjenjujte prema toj teškoći, a ne prema tome kako se student osjećao u vezi s proizvodom. Pitajte studenta što brojiti. Sudionici Zastudila i suradnika i forumaši iz rada Rezazadegana i suradnika opisuju svoje potrebe preciznije nego proizvodi izgrađeni za njih.
 
@@ -128,7 +128,7 @@ Dijagnoza mi kaže koji alat kupiti. Prepreke presijecaju dijagnoze, a alat uskl
 
 Prilagodba je osobni aranžman, pa popravak pripada studentu. Neke jesu, a one koje vrijedi generalizirati upravo su one koje biste ionako ugradili u dizajn. Segmentacija je pomogla svakom učeniku u svojoj studiji. Promjene dizajna uklanjaju korak otkrivanja, a s njim i stigmu.
 
-Angažman i zadovoljstvo pokazuju da je alat djelovao. Pokazuju da se studentu svidio. Ovaj korpus uglavnom čine primjene i percepcije, a samo 6 od 40 studija o visokom obrazovanju služilo je više od jednoj prepreci, pa zadovoljan student još nije dokaz da je prepreka uklonjena.
+Angažman i zadovoljstvo pokazuju da je alat djelovao. Pokazuju da se studentu svidio. Literaturu uglavnom čine primjene i percepcije, a samo 6 od 40 studija o visokom obrazovanju služilo je više od jednoj prepreci, pa zadovoljan student još nije dokaz da je prepreka uklonjena.
 
 Alat nosi potporu, a poduka je dodatak. Sudska praksa neuspjehom smatra nepodoučeni alat, a stručnjaci za politiku osnaživanje učenika i pismenost u području umjetne inteligencije rangirali su kao svoju najbitniju temu. Planirajte vrijeme za poduku zajedno s licencom.
 

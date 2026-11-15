@@ -9,9 +9,9 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:26:07-05:00"
 translation_of: faqs/ai-disabled-neurodivergent-learners
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 Scrisoarea de acomodare numește un student, un curs și un instrument de care nu ai auzit niciodată. Sau un student a întrebat, în mod rezonabil, dacă își poate folosi în continuare software-ul de transcriere vocală la un examen cu timp limitat, iar regula de IA a cursului tău spune că nu este permisă IA de niciun fel. Sau biroul de accesibilitate vrea un răspuns până vineri dacă să licențieze un instrument de lectură, iar dovada adusă de furnizor este mărturia unui alt campus.
 
-Răspunsul care rezistă la toate trei: pornește de la bariera pe care o creează sarcina, folosește instrumentele care au fost chiar măsurate și predă orice adopți. Două reguli contează mai mult decât orice alegere de produs. Numește transcrierea și OCR în politica ta de IA ca acomodări în sine, și dă sarcinii structură, în loc să le ceri studenților să o deducă. Fii lucid în privința dovezilor: cel mai puternic număr de pe această pagină vine din contexte de educație specială PK-12 care folosesc în mare parte IA pre-generativă, iar literatura despre învățământul superior este o hartă a ceea ce s-a încercat.
+Răspunsul care rezistă la toate trei: pornește de la bariera pe care o creează sarcina, folosește instrumentele care au fost chiar măsurate și predă orice adopți. Două reguli contează mai mult decât orice alegere de produs. Numește transcrierea și OCR în politica ta de IA ca acomodări în sine, și dă sarcinii structură, în loc să le ceri studenților să o deducă. Fii lucid în privința dovezilor: cel mai puternic număr vine din contexte de educație specială PK-12 care folosesc în mare parte IA pre-generativă, iar literatura despre învățământul superior este o hartă a ceea ce s-a încercat.
 
 ## Pe scurt
 
@@ -69,7 +69,6 @@ Imaginea din [[higher-ed|învățământul superior]] este partea cea mai slabă
 
 Sălile de clasă primare au acum propria revizuire de tip scoping. [[gibson-neuro-inclusive-edtech-scoping-2026|Gibson, Tervola și Goodacre (2026)]] au filtrat 3.340 de înregistrări din șase baze de date și au inclus 93 de studii despre tehnologiile educaționale pentru săli de clasă primare neuro-incluzive. Autismul a fost profilul cel mai studiat (n = 37, 39,8%); realitatea extinsă (n = 26), robotica (n = 14) și sistemele bazate pe IA (n = 12) au condus categoriile tehnologice, în timp ce tehnologiile de asistare și de accesibilitate au coborât sub 5%. Rezultatele sociale, comunicaționale și de interacțiune între colegi au fost neglijate; procesele de design nu au fost raportate în 43,0% dintre studii, designul condus de cercetători în 39,8%, iar co-designul în 17,2%, în timp ce doar un studiu (1,1%) a implicat copiii ca parteneri de design. Revizuirea nu stabilește că vreun produs funcționează; arată unde dovezile primare sunt subțiri și a cui judecată contează ca valoare.
 
-
 ## Decide dacă schimbi designul sau acomodarea
 
 Designul universal elimină nevoia ca un student să se declare drept cineva care are nevoie de prevederi speciale. Acomodarea cere exact asta, iar stigma face parte din cost. Așa că atunci când o barieră se dovedește a fi comună, schimbarea de design este achiziția mai bună: ajunge la studenții care nu se divulgă niciodată.
@@ -92,7 +91,7 @@ Ce nu îți poate da pagina este un protocol de instruire. Nu există orientări
 
 O regulă formulată ca „fără IA” poate deci retrage studentului principalul mijloc de a produce o lucrare lizibilă. Nimeni nu a măsurat încă amploarea acestei înlocuiri, ceea ce este un motiv să fii explicit, nu să aștepți numărul. Numește transcrierea și OCR ca acomodări în politică, alături de interdicțiile privind redactarea, astfel încât cele două întrebări să fie decise separat. Expunerea pe care aceasta o creează pentru instituție ține de [[legal-issues-and-risks|aspectele juridice și riscurile]].
 
-În majoritatea documentelor este o corectură de o linie, și este linia cu cele mai mari consecințe de pe pagină.
+În majoritatea documentelor este o corectură de o linie, și este linia cu cele mai mari consecințe din politică.
 
 ## Dă structură acolo unde sarcina o presupune
 
@@ -106,7 +105,7 @@ Efectele agregate îți dau o direcție. Nu îți spun dacă instrumentul funcț
 
 Trei precauții ar trebui să modeleze acea măsură. Prima este că ordinea subgrupurilor este sugestivă, nu stabilită: niciun moderator de niciun fel nu a atins semnificația în meta-analiza din 2024, așa că ierarhii precum [[learning-by-teaching|agenții care pot preda]] (g = 1,100) înaintea antrenorilor social-emoționali (g = 0,336) sau interacțiunea diadică înaintea celei triadice (g = 0,973 față de g = 0,385) nu ar trebui tratate ca rezolvate. Direcția efectului este susținută; mărimea, optimul de design și durabilitatea oricărui câștig nu sunt.
 
-A doua este că acest corpus descrie mai mult implementări și percepții decât învățare măsurată. Atenția (n = 4) și comunicarea socială (n = 5) sunt barierele cele mai puțin studiate, iar raritatea designurilor (cvasi)experimentale și longitudinale este motivul pentru care munca despre învățământul superior este o revizuire de tip scoping, nu o meta-analiză. Acoperirea înclină spre nivelul de licență și spre Nordul global, căutarea a vizat lucrări revizuite de colegi în limba engleză, iar studenții de masterat și doctorat sunt subreprezentați. Angajamentul și satisfacția sunt indicatori slabi.
+A doua este că această literatură descrie mai mult implementări și percepții decât învățare măsurată. Atenția (n = 4) și comunicarea socială (n = 5) sunt barierele cele mai puțin studiate, iar raritatea designurilor (cvasi)experimentale și longitudinale este motivul pentru care munca despre învățământul superior este o revizuire de tip scoping, nu o meta-analiză. Acoperirea înclină spre nivelul de licență și spre Nordul global, căutarea a vizat lucrări revizuite de colegi în limba engleză, iar studenții de masterat și doctorat sunt subreprezentați. Angajamentul și satisfacția sunt indicatori slabi.
 
 A treia este că un instrument care repară o barieră poate lăsa alta în loc. Verifică instrumentul împotriva dificultății specifice pe care o raportează studentul, fie că este citit și scris, gestionarea studiului, atenție sau comunicare socială, și evaluează împotriva acelei dificultăți, nu împotriva felului în care studentul s-a simțit în privința produsului. Întreabă studentul ce să numeri. Participanții lui Zastudil et al. și cei care scriu pe forumurile din Rezazadegan et al. își descriu nevoile mai precis decât o fac produsele construite pentru ei.
 
@@ -128,7 +127,7 @@ Un diagnostic îmi spune ce instrument să cumpăr. Barierele taie peste diagnos
 
 O acomodare este o soluție personală, așa că repararea îi aparține studentului. Unele chiar sunt, iar cele care merită generalizate sunt cele pe care le-ai fi proiectat oricum. Segmentarea a ajutat fiecare cursant din studiul ei. Schimbările de design elimină pasul de divulgare și, odată cu el, stigma.
 
-Angajamentul și satisfacția arată că instrumentul a funcționat. Arată că studentului i-a plăcut. Acest corpus este în mare parte despre implementări și percepții, iar doar 6 din 40 de studii din învățământul superior au servit mai mult de o barieră, așa că un student mulțumit nu este încă dovada că o barieră a căzut.
+Angajamentul și satisfacția arată că instrumentul a funcționat. Arată că studentului i-a plăcut. Literatura este în mare parte despre implementări și percepții, iar doar 6 din 40 de studii din învățământul superior au servit mai mult de o barieră, așa că un student mulțumit nu este încă dovada că o barieră a căzut.
 
 Instrumentul cară sprijinul, iar predarea este un plus. Jurisprudența tratează un instrument nepredat ca eșec, iar experții în politică au clasat emanciparea studenților și alfabetizarea în IA drept tema lor cea mai esențială. Bugetează timpul de predare odată cu licența.
 

@@ -1,7 +1,7 @@
 ---
 title: "Što personalizirano učenje doista znači i kada pomaže?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:29:37-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
@@ -28,7 +28,7 @@ ai_assist:
 
 Platforma obećava personalizirano iskustvo za svakog studenta. Može presložiti pitanja za vježbu, prepisati objašnjenje oko studentova interesa za nogomet, zapamtiti prošlotjedni razgovor ili odabrati što student sljedeće uči. Sve se četvero naziva personalizacijom, a samo je jedno od toga testirano u ikakvom sličnom obliku.
 
-Evo kratkog odgovora: personalizacija imenuje promjenu nekog dijela iskustva učenja, a njezina vrijednost ovisi o trima stvarima: što se prilagođava, koji dokazi pokreću prilagodbu i poboljšava li promjena učenje koje namjeravate. Poznat primjer ili responzivan razgovor mogu djelovati osobno, a ne poučavati ništa. Djelotvorna prilagodba može biti nevidljiva. Najjasniji eksperimentalni rezultat u ovoj bazi znanja uzak je: u petomjesečnom kolegiju za certifikaciju iz Pythona u deset srednjih škola u Taipeiju studenti randomizirani na adaptivno slaganje zadataka postigli su oko 0,150 standardnih devijacija više na [[summative-assessment|završnom ispitu]] licem u lice i bez pomoći od studenata s fiksnim slijedom i identičnim pristupom [[conversational-ai|chatbotu]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung i sur., 2026]]). To podupire slaganje slijeda pod određenim uvjetima. Ne potvrđuje sve što se prodaje kao personalizirano.
+Evo kratkog odgovora: personalizacija imenuje promjenu nekog dijela iskustva učenja, a njezina vrijednost ovisi o trima stvarima: što se prilagođava, koji dokazi pokreću prilagodbu i poboljšava li promjena učenje koje namjeravate. Poznat primjer ili responzivan razgovor mogu djelovati osobno, a ne poučavati ništa. Djelotvorna prilagodba može biti nevidljiva. Najjasniji eksperimentalni rezultat u ovoj literaturi uzak je: u petomjesečnom kolegiju za certifikaciju iz Pythona u deset srednjih škola u Taipeiju studenti randomizirani na adaptivno slaganje zadataka postigli su oko 0,150 standardnih devijacija više na [[summative-assessment|završnom ispitu]] licem u lice i bez pomoći od studenata s fiksnim slijedom i identičnim pristupom [[conversational-ai|chatbotu]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung i sur., 2026]]). To podupire slaganje slijeda pod određenim uvjetima. Ne potvrđuje sve što se prodaje kao personalizirano.
 
 ## Kratka verzija
 
@@ -64,7 +64,7 @@ Prilagodbe ciljeva i izbora dopuštaju studentima da odaberu projekt, putanju il
 
 **Percipirana personalizacija može ići uz slabiju samoregulaciju.** [[personalization-paradox-adaptive-learning-emotions-2026|Li, Lin i Qiu (2026)]] pratili su 486 kineskih studenata preddiplomskog studija kroz tri vala ankete i pronašli da su studenti koji su svoje adaptivno okruženje doživljavali personaliziranijim izvijestili o slabijem [[self-regulated-learning|samoreguliranom učenju]]. Akademske emocije nosile su velik dio te povezanosti, a smanjeno uživanje uz povišenu [[anxiety-and-stress|tjeskobu]] i dosadu objasnilo je više od polovice ukupnog učinka. Dizajn je opservacijski i temelji se na [[self-report-measures|samoprocjeni]], pa ne može uspostaviti da je personalizacija uzrokovala pad. Ipak, prepoznaje ishod koji pilot mora pratiti, jer sustav koji brzo odgovara na svaku nesigurnost može ukloniti planiranje i prosudbu koje kolegij treba izgraditi.
 
-**Interes i razumijevanje odvojene su provjere.** Sinopsis [[personalized-learning]] raspravlja o tekstu *Flawed but Memorable* Bernsteina i Sibije, malom [[qualitative-research|kvalitativnom]] pretisku o računalnim analogijama personaliziranima prema interesu. Reakcije studenata varirale su, a poznavanje izvornog područja analogije pomoglo im je otkriti gdje se analogija raspada. Praktično čitanje jest pitati što učenici već znaju, kao i što ih veseli, te iskazanu pamtljivost tretirati kao mjeru iskustva, a ne kao rezultat učenja.
+**Interes i razumijevanje odvojene su provjere.** Sinopsis [[personalized-learning|personaliziranog učenja]] raspravlja o tekstu *Flawed but Memorable* Bernsteina i Sibije, malom [[qualitative-research|kvalitativnom]] pretisku o računalnim analogijama personaliziranima prema interesu. Reakcije studenata varirale su, a poznavanje izvornog područja analogije pomoglo im je otkriti gdje se analogija raspada. Praktično čitanje jest pitati što učenici već znaju, kao i što ih veseli, te iskazanu pamtljivost tretirati kao mjeru iskustva, a ne kao rezultat učenja.
 
 ## Provjerite dijagnozu prije nego se pouzdate u prilagodbu
 
@@ -122,6 +122,6 @@ Mjerite samostalnu izvedbu, zadržavanje ili prijenos gdje možete, vrijeme i tr
 
 ## Kamo dalje
 
-[[personalized-learning]] pojmovna je stranica za definicije, marketinški rječnik i bazu dokaza, a [[adaptive-learning]] pokriva mehanizam i njegovo mjerenje. [[intelligent-tutoring]] mjesto je na kojem se model učenika susreće s dizajnom tutora.
+[[personalized-learning|Personalizirano učenje]] pojmovna je stranica za definicije, marketinški rječnik i bazu dokaza, a [[adaptive-learning|adaptivno učenje]] pokriva mehanizam i njegovo mjerenje. [[intelligent-tutoring|Inteligentno podučavanje]] mjesto je na kojem se model učenika susreće s dizajnom tutora.
 
 Za osmišljavanje aktivnosti u kojoj je personalizacija jedna odluka među nekoliko vidi [[designing-ai-into-learning|osmišljavanje AI-ja u iskustvo učenja]]. Za to kako prije širenja utvrditi radi li sustav vidi [[checking-whether-educational-ai-works|provjeru radi li obrazovni AI]].

@@ -6,9 +6,9 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-11-01T11:34:42-05:00"
+updated: "2026-11-15T16:19:32-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
 
-U nacrtu modula postoji retka na kojoj piše „AI aktivnost“ i nitko ne može reći što ona zamjenjuje. Ili je nastavnik zatražio da se u kolegij koji već dobro funkcionira doda chatbot, a vaš je zadatak smjestiti ga tako da ne pokvari dio zbog kojeg je kolegij funkcionirao.
+U nacrtu modula postoji retka na kojoj piše „AI aktivnost“ i nitko ne može reći što ona zamjenjuje. Ili je nastavnik zatražio da se u kolegij koji već dobro funkcionira doda [[conversational-ai|chatbot]], a vaš je zadatak smjestiti ga tako da ne pokvari dio zbog kojeg je kolegij funkcionirao.
 
 Pođite od cilja učenja i od aktivnosti koja ga proizvodi. Isti model umjetne inteligencije može biti postupna potpora, [[socratic-method|sokratovski]] partner, čitatelj nacrta, [[simulation|simulacija]] ili stroj za odgovore, a koji ćete dobiti ovisi o oblikovanju, a ne o modelu. Imenujte način rada koji gradite, stavite pokušaj učenika prije nego što se pojavi ikakva pomoć i zadržite barem jedan put kroz kolegij koji ide bez alata.
 
@@ -72,7 +72,7 @@ Iz toga slijede dvije lekcije za oblikovanje s AI-jem. Smjestite alat ondje gdje
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] tretira vrijeme kao oblikovanu potporu, a ne kao osobinu učenika: kolegij vlastitog tempa nosi tjednu kvotu od oko 100 minuta uz cilj blizu 20 minuta dnevno, podsjetnike svjesne vremena, nadzornu ploču napretka i kratku provjeru na kraju potpoglavlja od 3 do 12 pitanja. Polazište na koje taj dizajn odgovara je oštro: gotovo 25 posto od više od 600 učenika počinje tek u posljednjem tjednu i 95 posto te skupine ne uspijeva.
 
-Čitajte to kao dizajnerski poticaj, a ne kao dokazani učinak. Rad uspoređuje kasniji kolegij s ranijim umjesto da provede kontrolirani pokus, pa se poboljšanje ne može odvojiti od promjene kohorte i predmeta, a podsjetnici dovoljno snažni da pomaknu vrijeme učenja i pitanje su [[privacy|privatnosti]] na koje morate odgovoriti u silabu.
+Čitajte to kao dizajnerski poticaj, a ne kao dokazani učinak. Rad uspoređuje kasniji kolegij s ranijim umjesto da provede [[rct|kontrolirani pokus]], pa se poboljšanje ne može odvojiti od promjene kohorte i predmeta, a podsjetnici dovoljno snažni da pomaknu vrijeme učenja i pitanje su [[privacy|privatnosti]] na koje morate odgovoriti u silabu.
 
 ## Odredite što uskratiti i kada to vratiti
 
@@ -100,7 +100,7 @@ Učinkovitost je cilj redizajna. Izrada ishoda i rubrika s modelom je brza, a an
 
 **„Nemamo vremena presložiti cijeli kolegij.“** Onda presložite jedan modul i jednu procjenu. Prijelaz „suzdrži se, zatim pojačaj“ jedna je kontrolna točka, a slijed „prvo misli“ tri su upute na jednom listiću.
 
-**„Naša AI značajka već ima zaštitne ograde.“** Zaštitne ograde ograničavaju što model govori. One ne odlučuju je li učenik prvi pokušao, povlači li se potpora ni postoji li put bez AI-a. To su odluke o oblikovanju u vašem kolegiju, a ne postavke u proizvodu.
+**„Naša AI značajka već ima [[guardrails|zaštitne ograde]].“** Zaštitne ograde ograničavaju što model govori. One ne odlučuju je li učenik prvi pokušao, povlači li se potpora ni postoji li put bez AI-a. To su odluke o oblikovanju u vašem kolegiju, a ne postavke u proizvodu.
 
 ## Što učiniti ovaj tjedan
 

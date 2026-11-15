@@ -1,7 +1,7 @@
 ---
 title: "Honnan tudjuk, hogy egy oktatási MI helyesen működik, és nem csak jól pontoz?"
 created: "2026-10-02T08:07:09-04:00"
-connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
 foundations: [ai-education]
@@ -14,9 +14,9 @@ discipline: [writing education, math education]
 confidence: high
 methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
-updated: "2026-10-29T14:37:59-04:00"
+updated: "2026-11-15T16:21:23-05:00"
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -58,15 +58,15 @@ A Lineáris szabályozástechnika kurzus asszisztense ezt helyesen jelenti. Legj
 
 ## Minden kimenetet külön pontozzon
 
-A WrAFT projektben egy finomhangolt modell **0,84** egyetértési pontszámot ért el az emberi értékelőkkel 360 visszatartott TOEFL-esszén. Ez erős eredmény az osztályozásban. Ugyanennek a projektnek a visszajelzés írására tanított modellje csonkolt és értelmezhetetlen kimenetet adott, miközben egy másik modell egyszerű promptolása olyan visszajelzést adott, amelyet a tanárok előnyben részesítettek ([[wraft-automated-writing-evaluation-argumentative-2026]]).
+A WrAFT projektben egy finomhangolt modell **0,84** egyetértési pontszámot ért el az emberi értékelőkkel 360 visszatartott TOEFL-esszén. Ez erős eredmény az osztályozásban. Ugyanennek a projektnek a visszajelzés írására tanított modellje csonkolt és értelmezhetetlen kimenetet adott, miközben egy másik modell egyszerű [[prompt-engineering|promptolása]] olyan visszajelzést adott, amelyet a tanárok előnyben részesítettek ([[wraft-automated-writing-evaluation-argumentative-2026]]).
 
-A tudásbázis ugyanezt a kudarcot második formában is hordozza: egy olyan bevezetés, amelynek osztályozási modulja jól pontozott, a visszajelzése pedig félbevágva, olvashatatlanul érkezett. A főszámban semmi nem jelezte ezt.
+Ugyanez a kudarc második formában is megjelenik: egy olyan bevezetés, amelynek osztályozási modulja jól pontozott, a visszajelzése pedig félbevágva, olvashatatlanul érkezett. A főszámban semmi nem jelezte ezt.
 
 Sorolja tehát fel, milyen kimeneteket állít elő a rendszere, majd adjon mindegyiknek saját mérőszámot és saját megfelelési feltételt. Az osztályozás, a visszajelzésszöveg, a tippválasztás és a biztonsági elutasítások különböző módon hibáznak, és egy modulszintű pontszám nem lát a saját modulján túlra.
 
 ## Tegyen embert oda, ahol a modell bizonytalan
 
-Egy korreláció megmondja, hogy a modell általában helyes. Nem mondja meg, mit kell tenni azokban az esetekben, amikor nem az. A konfidenciaalapú továbbítás eredménye a legtisztább sablon a tudásbázisban, és elég rövid ahhoz, hogy lemásolja.
+Egy korreláció megmondja, hogy a modell általában helyes. Nem mondja meg, mit kell tenni azokban az esetekben, amikor nem az. A konfidenciaalapú továbbítás eredménye a legtisztább sablon a bizonyítékok között, és elég rövid ahhoz, hogy lemásolja.
 
 A bizonyosság megbízható figyelmeztető jelnek bizonyult: amikor a modell bizonytalan volt, nagyobb valószínűséggel tévedett (**β = -0,602, p < 0,001**). A csapat a legkevésbé bizonyos válaszok **20%-át** küldte emberhez. Ez az egyetlen szabály **0,78-ról 0,82-re** emelte az emberi jegyekkel való egyetértést, és nagyjából **80%-kal** csökkentette a kézi osztályozási munkát ([[know-when-to-trust-ai-scoring-reliability-2026]]).
 
@@ -84,13 +84,13 @@ Gyakorlati változat: vegyen körülbelül ötven kimenetből álló mintát, é
 
 A legtisztább megoldás az, hogy a modellt ugyanarra a mennyiségre tanítsa, amelyet mérni szándékozik. Egy finomhangolt modellt a tesztkérdések statisztikai tulajdonságainak reprodukálására tanítottak: mennyire nehéz az egyes tétel, mennyire választja szét az erősebb és a gyengébb diákokat. Ezeket a mintázatokat megtanulta, nem elmondták neki ([[multimodal-item-parameter-estimation-2026]]). Mivel a cél az értékelés egyik tulajdonsága volt, az értékelés erről a tulajdonságról szólhatott a megfogalmazás helyett.
 
-A végpont mellett a haladást is jelentse. A SWIM írásszimulátora szakaszonként egymás mellé tette a pontszámokat: rubrikaalapú promptolás **0,577**, finomhangolás **0,474 ± 0,023**, megerősítéses tanulás **0,618 ± 0,005** ([[swim-student-writing-simulation-2026]]). Egy olvasó ebből a táblázatból látja, tett-e valamit a tanítás. Egyetlen végső szám ezt nem mondja meg, és elrejt egy szakaszt, ahol a finomhangolt modell rosszabbul teljesített a promptnál.
+A végpont mellett a haladást is jelentse. A SWIM [[simulation|írásszimulátora]] szakaszonként egymás mellé tette a pontszámokat: rubrikaalapú promptolás **0,577**, finomhangolás **0,474 ± 0,023**, [[reinforcement-learning|megerősítéses tanulás]] **0,618 ± 0,005** ([[swim-student-writing-simulation-2026]]). Egy olvasó ebből a táblázatból látja, tett-e valamit a tanítás. Egyetlen végső szám ezt nem mondja meg, és elrejt egy szakaszt, ahol a finomhangolt modell rosszabbul teljesített a promptnál.
 
 ## Hasonlítson össze valamivel a projektjén kívülről
 
 Először szerezzen alapvonalat, akár egy olcsót. A kurzus asszisztensének modellje megalapozás nélkül egy egyszerű kulcsszókeresés alatt pontozott, ami olyan eredmény, amely megváltoztatja az ütemtervet, és egy napba kerül megtalálni.
 
-Egy külső benchmark aztán megmondja, egyáltalán jó-e a száma. A CDPK pedagógiai benchmarkon az EduQwen **96,52%-ot** ért el a Gemini-3 Pro **90,55%-ával** szemben ([[singh-eduqwen-pedagogical-rl-2026]]). A Pedagogy Benchmark, amely valódi tanári továbbképzési vizsgákból épült, és **97 modellt** fed le, **28% és 89%** közötti pontosságot talált ([[cdpk-pedagogy-benchmark-llms|Lelièvre és munkatársai, 2025]]).
+Egy külső benchmark aztán megmondja, egyáltalán jó-e a száma. A CDPK [[pedagogy|pedagógiai]] benchmarkon az EduQwen **96,52%-ot** ért el a Gemini-3 Pro **90,55%-ával** szemben ([[singh-eduqwen-pedagogical-rl-2026]]). A Pedagogy Benchmark, amely valódi [[teacher-role|tanári]] továbbképzési vizsgákból épült, és **97 modellt** fed le, **28% és 89%** közötti pontosságot talált ([[cdpk-pedagogy-benchmark-llms|Lelièvre és munkatársai, 2025]]).
 
 Egy tanításról szóló feladaton a modellek a gyengétől a jóig terjedtek, tehát egy benchmarkeredmény valahová egy széles sávba helyezi a rendszerét.
 
@@ -102,9 +102,9 @@ Futtassa az ellenőrzést teljes beszélgetéseken, és írja meg szándékosan 
 
 ## Ellenőrizze a szimulált diákot, mielőtt elhiszi
 
-A szimulált diákok generálása valódi diákok toborzása helyett sokkal olcsóbbá teszi az értékelést. A szimulált diák azonban maga is mérőeszköz, és tévedhet azokon a módokon, ahogyan az eszközök tévednek: túl együttműködő, túl folyékony, túl gyorsan elfogad egy tippet.
+A [[simulating-students|szimulált diákok]] generálása valódi diákok toborzása helyett sokkal olcsóbbá teszi az értékelést. A szimulált diák azonban maga is mérőeszköz, és tévedhet azokon a módokon, ahogyan az eszközök tévednek: túl együttműködő, túl folyékony, túl gyorsan elfogad egy tippet.
 
-A tudásbázis legközvetlenebb tesztje a szimulált és promptolt diákokat a valódi diák és tutor közötti matematikai párbeszédek legnagyobb nyilvános gyűjteményéből származó **382 visszatartott párbeszédhez** mérte, hét mérőszámmal, amelyek a nyelvet, a viselkedést és a gondolkodást fedik le ([[simulated-students-tutoring-dialogues-2026]]). Más munkák különböző irányból feszegetik a valószerűséget: az [[inside-llm-student-simulator-reasoning-2026|INSIDE]] a modelleket arra tanítja, hogy diák módjára cselekedjenek és gondolkodjanak, a történetet ismerő profilok pedig a szimulációt a diák múltjára kondicionálják fix személyiség helyett ([[history-aware-student-simulation]]).
+A legközvetlenebb teszt a szimulált és promptolt diákokat a valódi diák és tutor közötti matematikai párbeszédek legnagyobb nyilvános gyűjteményéből származó **382 visszatartott párbeszédhez** mérte, hét mérőszámmal, amelyek a nyelvet, a viselkedést és a gondolkodást fedik le ([[simulated-students-tutoring-dialogues-2026]]). Más munkák különböző irányból feszegetik a valószerűséget: az [[inside-llm-student-simulator-reasoning-2026|INSIDE]] a modelleket arra tanítja, hogy diák módjára cselekedjenek és gondolkodjanak, a történetet ismerő profilok pedig a szimulációt a diák múltjára kondicionálják fix személyiség helyett ([[history-aware-student-simulation]]).
 
 Ha a tesztkörnyezete szimulált diák, érvényesítse a szimulátort valódi átiratokhoz képest, mielőtt engedné, hogy a tutorát osztályozza.
 

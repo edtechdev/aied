@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
-updated: "2026-10-29T12:11:33-04:00"
+updated: "2026-11-15T16:27:26-05:00"
 translation_of: faqs/how-ai-impacts-students
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -21,9 +21,9 @@ ai_assist:
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
 
-AI používate pri štúdiu a ide vám to, až na to, že písomka bez pomôcok pôsobila ako čítanie cudzích poznámok. Alebo kamarát hovorí, že nenapísal nič a aj tak dostal jednotku, a vy rozmýšľate, čo to znamená pre vás. Alebo ste začali klásť chatbotovi viac otázok než svojmu učiteľovi.
+AI používate pri štúdiu a ide vám to, až na to, že [[summative-assessment|písomka bez pomôcok]] pôsobila ako čítanie cudzích poznámok. Alebo kamarát hovorí, že nenapísal nič a aj tak dostal jednotku, a vy rozmýšľate, čo to znamená pre vás. Alebo ste začali klásť chatbotovi viac otázok než svojmu učiteľovi.
 
-Krátka odpoveď, v podobe, ktorú môžete zopakovať kamarátovi: AI je užitočná tam, kde potrebujete spätnú väzbu, a neužitočná tam, kde potrebujete prax. Krok myslenia si nechajte pre seba, otestujte sa bez nástroja pred odovzdaním a hovorte priamo o tom, čo ste použili. Zvyšok tejto stránky vysvetľuje, prečo to platí a ako to vyzerá v utorok večer.
+Krátka odpoveď, v podobe, ktorú môžete zopakovať kamarátovi: AI je užitočná tam, kde potrebujete spätnú väzbu, a neužitočná tam, kde potrebujete prax. Krok myslenia si nechajte pre seba, otestujte sa bez nástroja pred odovzdaním a hovorte priamo o tom, čo ste použili. Zvyšok vysvetľuje, prečo to platí a ako to vyzerá v utorok večer.
 
 ## Krátka verzia
 
@@ -55,7 +55,7 @@ Vedomie, že tam je, tiež mení, s čím ste ochotní zápasiť. [[ai-availabil
 
 ## Otestujte sa bez nástroja
 
-Kontrola trvá desať minút a je to najužitočnejšia vec na tejto stránke. Zatvorte všetko, vezmite prázdnu stranu a napíšte argument svojho odovzdaného textu z pamäti: tvrdenie, dve alebo tri dôvody a čo by proti nemu hovorilo. Potom otvorte svoju prácu a porovnajte.
+Kontrola trvá desať minút a je to najužitočnejšia vec. Zatvorte všetko, vezmite prázdnu stranu a napíšte argument svojho odovzdaného textu z pamäti: tvrdenie, dve alebo tri dôvody a čo by proti nemu hovorilo. Potom otvorte svoju prácu a porovnajte.
 
 Ak prázdna strana vyjde blízko, látku ste sa naučili a nástroj vám pomohol ju usporiadať. Ak vyjde prázdna, hoci dokument je vybrúsený, máte medzeru vo výkone a známka ju skryje, až kým ju neodhalí skúška alebo prax. Vráťte sa k časti, ktorú ste nevedeli reprodukovať, prepracujte ju bez pomoci a skontrolujte znova.
 
@@ -63,7 +63,7 @@ Ak prázdna strana vyjde blízko, látku ste sa naučili a nástroj vám pomohol
 
 AI umožňuje nové formy [[academic-integrity|akademickej nečestnosti]] a pravidlá vášho kurzu sú pravdepodobne menej jasné než tie, s ktorými ste vyrastali. Zistite písomne, čo váš učiteľ dovoľuje, pred termínom, a potom opíšte, čo ste urobili, jednoduchým jazykom.
 
-[[shame-guilt-ai-regulation-computing-education|Hanba a vina]] okolo používania AI tlačia študentov k skrývaniu a skrývanie vás stojí jedinú vec, ktorá vyrieši obavu, teda presný opis vášho postupu. Prístup je aj nerovnomerný a to je problém [[equity-in-ai-education|rovnosti]], ktorý ste nevytvorili, hoci môže dopadnúť na vás. Ak je váš prístup tenší, stratégia na tejto stránke je dôležitejšia, pretože nič z nej nezávisí od toho, ktoré predplatné máte.
+[[shame-guilt-ai-regulation-computing-education|Hanba a vina]] okolo používania AI tlačia študentov k skrývaniu a skrývanie vás stojí jedinú vec, ktorá vyrieši obavu, teda presný opis vášho postupu. Prístup je aj nerovnomerný a to je problém [[equity-in-ai-education|rovnosti]], ktorý ste nevytvorili, hoci môže dopadnúť na vás. Ak je váš prístup tenší, táto stratégia je dôležitejšia, pretože nič z nej nezávisí od toho, ktoré predplatné máte.
 
 Keď text produkuje AI, výsledok môže prestať pôsobiť ako váš a to je skutočná cena. Je to ohrozenie autorstva pre [[learner-identity|identitu študenta]] a [[t2i-competence-paradox-2026|paradox kompetentnosti]] v tvorivých odboroch ukazuje mechanizmus: čím ľahší výstup, tým menej identity založenej na remesle z jeho vytvárania. Ak viete povedať, prečo tento príklad a nie tamten, práca je vaša bez ohľadu na to, ktoré vety ste napísali prvé.
 

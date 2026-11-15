@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
-updated: "2026-10-29T14:37:59-04:00"
+updated: "2026-11-15T16:22:03-05:00"
 translation_of: faqs/how-ai-impacts-students
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
 
-MI-t használ a tanulmányi munkáihoz, és jól boldogul, kivéve hogy a zárt könyves vizsga olyan volt, mintha valaki más jegyzeteit olvasná. Vagy egy barátja azt mondja, semmit nem írt, mégis ötöst kapott, és Ön azon gondolkodik, ez mit jelent a saját helyzetére. Vagy már több kérdést tesz fel egy csevegőbotnak, mint az oktatójának.
+MI-t használ a tanulmányi munkáihoz, és jól boldogul, kivéve hogy a [[summative-assessment|zárt könyves vizsga]] olyan volt, mintha valaki más jegyzeteit olvasná. Vagy egy barátja azt mondja, semmit nem írt, mégis ötöst kapott, és Ön azon gondolkodik, ez mit jelent a saját helyzetére. Vagy már több kérdést tesz fel egy csevegőbotnak, mint az oktatójának.
 
 A rövid válasz, olyan formában, hogy el tudja mondani egy barátjának: a MI ott hasznos, ahol visszajelzésre van szüksége, és ott nem segít, ahol gyakorlásra. Tartsa meg magának a gondolkodás lépését, tesztelje magát az eszköz nélkül, mielőtt beadja a munkát, és legyen őszinte abban, mit használt. Az oldal többi része arról szól, miért áll ez meg, és hogyan néz ki egy kedd este.
 
@@ -55,7 +55,7 @@ Az a tudat, hogy ott van, azt is megváltoztatja, mivel hajlandó küzdeni. Az [
 
 ## Tesztelje magát az eszköz nélkül
 
-Az ellenőrzés tíz percet vesz igénybe, és ez a leghasznosabb dolog ezen az oldalon. Csukjon be mindent, vegyen egy üres lapot, és írja le emlékezetből a beadandója érvelését: az állítást, a két-három okot és azt, mi szólna ellene. Aztán nyissa ki a munkáját, és hasonlítsa össze.
+Az ellenőrzés tíz percet vesz igénybe, és ez a leghasznosabb dolog, amit tehet. Csukjon be mindent, vegyen egy üres lapot, és írja le emlékezetből a beadandója érvelését: az állítást, a két-három okot és azt, mi szólna ellene. Aztán nyissa ki a munkáját, és hasonlítsa össze.
 
 Ha az üres lap közel jön ki, megtanulta az anyagot, és az eszköz segített megszervezni. Ha üresen jön ki, miközben a dokumentum kifogástalan, teljesítményrése van, és a jegy el fogja fedni, amíg egy vizsga vagy egy felvételi le nem leplezi. Térjen vissza ahhoz a részhez, amelyet nem tudott felidézni, dolgozza át segítség nélkül, és ellenőrizze újra.
 

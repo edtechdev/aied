@@ -14,9 +14,9 @@ discipline: [writing education]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T11:57:27-04:00"
+updated: "2026-11-15T16:28:42-05:00"
 translation_of: faqs/making-ai-better-at-supporting-learning
-source_updated: "2026-10-28T11:21:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 V tiketu stojí „doladit model na materiálech našeho kurzu“. Rozpočet je schválený, GPU je rezervovaná na příští měsíc a absolvent má za úkol sestavit datovou sadu. Nikdo na hovoru se nezeptal, jak skóruje prostý prompt nebo jak skóruje hledání podle klíčových slov na stejných otázkách.
 
-Zeptejte se nejdřív na tyhle dvě otázky. V této znalostní bázi je mezera mezi obecným modelem a modelem kompetentním pro kurz z velké části problém zakotvení a promptování a důkazy pro toto pořadí jsou nezvykle přímé: studie kurzu s asistentem zjistila, že prvotním rozhodnutím bylo vyhledávání, ne model, a obecný model bez zakotvení skóroval *pod* úrovní prostého TF-IDF baseline.
+Zeptejte se nejdřív na tyhle dvě otázky. Mezera mezi obecným modelem a modelem kompetentním pro kurz z velké části problém zakotvení a promptování a důkazy pro toto pořadí jsou nezvykle přímé: studie kurzu s asistentem zjistila, že prvotním rozhodnutím bylo vyhledávání, ne model, a obecný model bez zakotvení skóroval *pod* úrovní prostého TF-IDF baseline.
 
 Trénování je skutečné a někdy nutné. Je to třetí nebo čtvrtá věc, kterou zkoušet, a práce níže je seřazena tak, abyste zjistili, kterou příčku skutečně potřebujete, dřív než utratíte čtvrtletní výpočetní kapacitu.
 
@@ -52,7 +52,7 @@ Trénování je skutečné a někdy nutné. Je to třetí nebo čtvrtá věc, kt
 
 Než cokoli změníte, zaznamenejte, co vrací prostý prompt. Potom zaznamenejte, co vrací triviální metoda.
 
-Studie [[shen-sustainable-ai-knowledge-base-cs-education-2026|asistenta nad znalostní bází kurzu]] stojí za přečtení už kvůli tomuhle. Lokální LLM bez vyhledávání dosáhl přesnosti **52,3 %**. TF-IDF baseline, lexikální metoda stará desítky let, dosáhla **55,4 %**. Model byl horší než klasická metoda.
+Studie [[shen-sustainable-ai-knowledge-base-cs-education-2026|asistenta nad znalostní bází kurzu]] stojí za přečtení už kvůli tomuhle. Lokální [[llm|LLM]] bez vyhledávání dosáhl přesnosti **52,3 %**. TF-IDF baseline, lexikální metoda stará desítky let, dosáhla **55,4 %**. Model byl horší než klasická metoda.
 
 Vynechte tento krok a neumíte říct, zda vaše doladění pomohlo. Hůř, můžete nasadit systém, který poráží hledání podle klíčových slov, a zjistit to až tehdy, když to zmíní asistent výuky. Dvě čísla v tabulce, pořízená za odpoledne, chrání zbytek rozpočtu.
 
@@ -60,9 +60,9 @@ Vynechte tento krok a neumíte říct, zda vaše doladění pomohlo. Hůř, mů�
 
 Přidání [[rag|generování s podporou vyhledávání]] nad materiály kurzu, zcela bez doladění, zvedlo tentýž systém z 52,3 % na **66,6 %**. Ten přínos přišel z indexu a nese vlastnost, kterou trénovací běh nemá: když se vaše dokumenty změní, přeindexujete.
 
-Dva další výsledky ukazují stejným směrem. Přehled PRISMA 23 empirických studií o přizpůsobování AI pro [[writing-education|výuku psaní]] našel **převahu promptového inženýrství (N = 13) před doladěním (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Kde znalostní báze musí zůstat aktuální, je vyhledávání jediná páka, která zůstává aktuální bez opětovného spuštění trénovací úlohy.
+Dva další výsledky ukazují stejným směrem. [[meta-analysis-systematic-review|Přehled PRISMA]] 23 empirických studií o přizpůsobování AI pro [[writing-education|výuku psaní]] našel **převahu [[prompt-engineering|promptového inženýrství]] (N = 13) před doladěním (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Kde znalostní báze musí zůstat aktuální, je vyhledávání jediná páka, která zůstává aktuální bez opětovného spuštění trénovací úlohy.
 
-Vyhledávání má také pedagogickou podobu. Zakotvení modelu ve vašich vlastních vypracovaných příkladech a rubrikách je to, jak zůstává uvnitř [[scaffolding|scaffolding]], které jste navrhli, a odpovídá na úrovni, kterou jste nastavili, místo aby se svezl do obecných rad. To svezení je nejčastější stížnost na hotové tutory a je to problém vyhledávání častěji než problém vah.
+Vyhledávání má také [[pedagogy|pedagogickou]] podobu. Zakotvení modelu ve vašich vlastních vypracovaných příkladech a rubrikách je to, jak zůstává uvnitř [[scaffolding|scaffolding]], které jste navrhli, a odpovídá na úrovni, kterou jste nastavili, místo aby se svezl do obecných rad. To svezení je nejčastější stížnost na hotové tutory a je to problém vyhledávání častěji než problém vah.
 
 ## Napište prompt proti své rubrice a hlídejte plató
 
@@ -79,9 +79,9 @@ Všimněte si, co výsledek s generováním položek implikuje pro pořadí. Dol
 
 Adaptace se vyplatí, když potřebujete, aby model spolehlivě držel nějakou vlastnost: čtenářskou úroveň, výstupní formát, obor, který mu chybí. Opakujícím se výsledkem je, že **cílení poráží velikost**.
 
-- Tři **8B** modely doladěné na expertně navrženém kurikulu čtení pro děti předčily zero-shot GPT-4o i Llama 3.3 70B v metrikách obtížnosti, s nepatrnými problémy bezpečnosti. Autoři to rámují jako **ovladatelnost před škálou** ([[llm-children-reading-story-generation]]).
+- Tři **8B** modely doladěné na expertně navrženém [[curriculum-design|kurikulu čtení]] pro děti předčily zero-shot GPT-4o i Llama 3.3 70B v metrikách obtížnosti, s nepatrnými problémy bezpečnosti. Autoři to rámují jako **ovladatelnost před škálou** ([[llm-children-reading-story-generation]]).
 - Instrukční datová sada s **24 795 příklady** zakotvená v indických systémech poznání dala **7B** doladění skóre **6,39** u externího panelu pěti hodnotitelů, tedy **0,15** od silného obecného referenčního modelu při zlomku nákladů na nasazení. Stejný základní model skóroval **téměř nulově v oborově specifických dimenzích** bez doladění ([[iks-instruct-dataset-indian-knowledge]]). Ta mezera mezi kompetentností obecně a kompetentností zde je celý argument pro oborovou adaptaci.
-- Jediný adaptér [[llm-training-and-fine-tuning|LoRA]] trénovaný na zhruba **3 900** sesbíraných oznámkovaných příkladech přivedl pět malých otevřených modelů (4B až 30B) na roveň lidskému hodnotiteli nebo nad něj ve dvou zkouškách z informatiky ([[llm-graders-computer-science-exams-2026]]). Jeden adaptér, jedna datová sada, několik základních modelů: to je tvar nasazení, který malý tým umí provozovat.
+- Jediný adaptér [[llm-training-and-fine-tuning|LoRA]] trénovaný na zhruba **3 900** sesbíraných oznámkovaných příkladech přivedl pět malých [[open-source|otevřených modelů]] (4B až 30B) na roveň lidskému hodnotiteli nebo nad něj ve dvou zkouškách z informatiky ([[llm-graders-computer-science-exams-2026]]). Jeden adaptér, jedna datová sada, několik základních modelů: to je tvar nasazení, který malý tým umí provozovat.
 
 Slovo *stabilní* v nadpisu nese váhu. Formát, rubrika, čtenářská úroveň a oborový slovník jsou stabilní cíle. Próza naložená úsudkem takový cíl nemá a tam adaptace selhává, jak ukazují následující dvě sekce.
 
@@ -91,7 +91,7 @@ Adaptace učí model, *co produkovat*. Dotrénování ho učí, *jak se chovat*.
 
 Nejsilnější vzdělávací výsledky v tomto korpusu jsou tady. Odměnový model EduQwen výslovně upřednostnil **navádějící odpovědi před přímými** a jeho třífázový postup dosáhl **96,52 %** na benchmarku CDPK proti **90,55 %** u Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Simulátor psaní SWIM se posunul od promptování zakotveného v rubrice (nejlepší QWK **0,577**) k učenému doladění (**0,474 ± 0,023**) a k učení posilováním (**0,618 ± 0,005**) napříč každým rysem a promptem ([[swim-student-writing-simulation-2026]]).
 
-Čtěte čísla SWIM pozorně, protože prostřední krok šel zpět. Učené doladění na demonstracích udělalo simulátor horším než prompt, ze kterého vycházel, a ztrátu napravil až signál odměny, který pak překonal i výchozí stav. Pokud se váš plán zastaví u učeného doladění, plán může být objížďka.
+Čtěte čísla SWIM pozorně, protože prostřední krok šel zpět. Učené doladění na demonstracích udělalo [[simulation|simulátor]] horším než prompt, ze kterého vycházel, a ztrátu napravil až [[reinforcement-learning|signál odměny]], který pak překonal i výchozí stav. Pokud se váš plán zastaví u učeného doladění, plán může být objížďka.
 
 ## Dohlížejte na úrovni kroků
 
@@ -125,7 +125,7 @@ Náklad, který se snadno podcení, je vyhodnocení, a to je větší než úče
 
 ## Kalibrujte, co očekáváte
 
-Volba modelu a promptu dohromady vysvětluje jen asi **15 %** nesouladu mezi LLM a učebními přínosy studentů a v té studii sladění *zhoršily* soubory vážící benchmarky i jednomyslné hlasování ([[educational-llm-alignment]]). Data z předtréninku jsou dominantní pákou toho, jak se model chová, a to je jediná páka, kterou nemůžete zatáhnout.
+Volba modelu a promptu dohromady vysvětluje jen asi **15 %** nesouladu mezi LLM a [[learning-gains|učebními přínosy]] studentů a v té studii sladění *zhoršily* soubory vážící benchmarky i jednomyslné hlasování ([[educational-llm-alignment]]). Data z předtréninku jsou dominantní pákou toho, jak se model chová, a to je jediná páka, kterou nemůžete zatáhnout.
 
 Nic z toho neargumentuje proti práci výše. Argumentuje to proti očekávání, že doladění opraví designový problém. Pokud je problém v tom, že váš tutor odpovídá příliš ochotně, trénování to může řešit. Pokud je problém v tom, že se vaši studenti do práce nepouštějí, trénování to nevyřeší, a číslo 15 % říká, že peníze lépe utratíte jinde.
 

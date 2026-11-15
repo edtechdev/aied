@@ -6,9 +6,9 @@ weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-updated: "2026-10-29T14:24:49-04:00"
+updated: "2026-11-15T16:19:57-05:00"
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,8 @@ Zapišite popis prije nego planirate sesije. Četiri dimenzije plus nastavni slo
 ## Vrednujte izvedbu, a ne samopouzdanje
 
 [[self-report-measures|Samoprijavljena]] pismenost u području umjetne inteligencije može se znatno razlikovati od pokazane sposobnosti, što je najpraktičnije pojedinačno upozorenje u ovoj literaturi za svakoga ko vodi razvoj nastavnog osoblja. Anketa o samopouzdanju na kraju radionice mjeri kako se radionica osjećala.
+
+Anketa se može čak i predvidjeti previše dobro. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez i sur. (2026)]] razvrstali su 314 od 315 nastavnika u razine kompetencije na temelju ljestvice od 300 čestica s α = 0,997 i bez faktorske analize, a institucionalna pripadnost bila je najveći doprinos — znak da su rezultati pratili mjesto rada, a ne što ljudi mogu.
 
 Istraživanje [[agentic-ai|višeagentskih]] tijekova rada nastavnika dodaje drugi razlog za testiranje umjesto pitanja: sustavno mišljenje, pedagoška uvjerenja i [[self-efficacy|samodjelotvornost]] međusobno djeluju u integraciji umjetne inteligencije, pa ista sesija različito pada na dvoje članova osoblja iste predmetne pozadine. To govori u prilog diferenciranom programu i protiv radionice o alatu po jednoj mjeri za sve, koju većina ustanova provodi.
 
@@ -103,7 +105,7 @@ Predmetni stručnjaci sami će razraditi integraciju. Sadržajno znanje nije pre
 
 Jedan okvir pokrit će sve. Standard sa šest uloga postoji zato što TPACK, SAMR i glavni standardi za edukatore pokrivaju nastavnike od osnovne do srednje škole ili samo nastavnu dimenziju.
 
-Otpor je praznina u znanju koju treba popuniti. Izbjegavanje rizika negativno je predviđalo namjeru, a rad o identitetu opisuje osoblje koje zaključuje iz pedagoških vrijednosti. Dio onoga što izgleda kao nevoljkost obranjivo je stajalište o pretjeranom oslanjanju studenata.
+Otpor je praznina u znanju koju treba popuniti. Izbjegavanje rizika negativno je predviđalo namjeru, a [[learner-identity|rad o identitetu]] opisuje osoblje koje zaključuje iz pedagoških vrijednosti. Dio onoga što izgleda kao nevoljkost obranjivo je stajalište o pretjeranom oslanjanju studenata.
 
 ## Što će vam se vratiti kao prigovor
 

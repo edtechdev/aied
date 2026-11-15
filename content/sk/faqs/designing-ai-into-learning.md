@@ -6,9 +6,9 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-11-01T11:35:17-05:00"
+updated: "2026-11-15T16:27:26-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
 
-V osnove modulu je riadok s nápisom „AI aktivita“ a nikto nedokáže povedať, čo nahrádza. Alebo vyučujúci požiadal o pridanie chatbota do kurzu, ktorý už funguje, a vašou úlohou je umiestniť ho tak, aby ste nerozbili tú časť, vďaka ktorej kurz fungoval.
+V osnove modulu je riadok s nápisom „AI aktivita“ a nikto nedokáže povedať, čo nahrádza. Alebo vyučujúci požiadal o pridanie [[conversational-ai|chatbota]] do kurzu, ktorý už funguje, a vašou úlohou je umiestniť ho tak, aby ste nerozbili tú časť, vďaka ktorej kurz fungoval.
 
 Začnite od cieľa učenia a od aktivity, ktorá ho vytvára. Ten istý model môže byť lešením, [[socratic-method|sokratovským]] partnerom, čitateľom konceptov, [[simulation|simuláciou]] alebo odpovedacím autom, a to, ktorý z nich dostanete, závisí od návrhu, nie od modelu. Pomenujte režim, ktorý budujete, postavte pokus študenta pred akúkoľvek pomoc a ponechajte aspoň jednu cestu kurzom, ktorá funguje bez nástroja.
 
@@ -42,7 +42,7 @@ Začnite od cieľa učenia a od aktivity, ktorá ho vytvára. Ten istý model m�
 
 ## Rozhodnite, čo študent robí bez nástroja
 
-Koncept [[pedagogy|Pedagogiky a vyučovacích stratégií]] v databáze poznatkov poskytuje test: zachováva konfigurácia aktivitu, ktorá vytvára zamýšľané učenie? Odpovedzte na to na papieri, skôr než niekto vyberie funkciu.
+Koncept [[pedagogy|Pedagogiky a vyučovacích stratégií]] poskytuje test: zachováva konfigurácia aktivitu, ktorá vytvára zamýšľané učenie? Odpovedzte na to na papieri, skôr než niekto vyberie funkciu.
 
 [[finkelstein-principled-ai-education-2025|Rámec principiálneho AI vzdelávania]] uvádza všeobecné pravidlo: technológia má rozširovať, nie vytláčať ľudské schopnosti, ktoré má vzdelávanie rozvíjať. Napísané ako test pre modul to znamená pomenovať schopnosť, pomenovať aktivitu, ktorá ju buduje, a spýtať sa, či AI sedí vnútri tejto aktivity, alebo vedľa nej.
 
@@ -72,7 +72,7 @@ Pre návrh AI z toho vyplývajú dve poučenia. Umiestnite nástroj tam, kde pos
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] chápe čas ako navrhnutú oporu, nie ako vlastnosť študenta: kurz vo vlastnom tempe má týždennú dotáciu približne 100 minút s cieľom okolo 20 minút denne, pripomienky citlivé na čas, panel pokroku a krátku kontrolu s 3 až 12 otázkami na konci podkapitoly. Východisko, na ktoré tento návrh odpovedá, je drsné: takmer 25 percent z viac ako 600 študujúcich začalo až v poslednom týždni a 95 percent z tejto skupiny neuspelo.
 
-Čítajte to ako návrhovú otázku, nie ako preukázaný účinok. Práca porovnáva neskorší kurz so skorším namiesto realizácie kontrolovanej štúdie, takže zlepšenie nemožno oddeliť od zmeny kohorty a predmetu, a pripomienky dosť silné na to, aby posunuli čas štúdia, sú aj otázkou [[privacy]], na ktorú musíte odpovedať v sylabe.
+Čítajte to ako návrhovú otázku, nie ako preukázaný účinok. Práca porovnáva neskorší kurz so skorším namiesto realizácie [[rct|kontrolovanej štúdie]], takže zlepšenie nemožno oddeliť od zmeny kohorty a predmetu, a pripomienky dosť silné na to, aby posunuli čas štúdia, sú aj otázkou [[privacy|súkromia]], na ktorú musíte odpovedať v sylabe.
 
 ## Rozhodnite, čo odoprieť a kedy to vrátiť
 
@@ -100,7 +100,7 @@ Efektivita je cieľom prepracovania. Tvoriť výsledky učenia a hodnotiace krit
 
 **„Nemáme čas preusporiadať celý kurz.“** Tak preusporiadajte jeden modul a jedno hodnotenie. Zlom „najprv zdržať, potom zosilniť“ je jeden kontrolný bod a postup „najprv myslieť“ sú tri pokyny na pracovnom liste.
 
-**„Naša funkcia AI už obsahuje zábrany.“** Zábrany obmedzujú, čo model hovorí. Nerozhodujú o tom, či sa študent pokúsil prvý, či sa podpora utlmuje alebo či existuje cesta bez AI. To sú návrhové rozhodnutia vo vašom kurze, nie nastavenia v produkte.
+**„Naša funkcia AI už obsahuje [[guardrails|zábrany]].“** Zábrany obmedzujú, čo model hovorí. Nerozhodujú o tom, či sa študent pokúsil prvý, či sa podpora utlmuje alebo či existuje cesta bez AI. To sú návrhové rozhodnutia vo vašom kurze, nie nastavenia v produkte.
 
 ## Čo urobiť tento týždeň
 

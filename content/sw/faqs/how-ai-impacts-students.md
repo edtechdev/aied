@@ -8,7 +8,7 @@ pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
 translation_of: faqs/how-ai-impacts-students
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -20,13 +20,14 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+updated: "2026-11-15T16:26:08-05:00"
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-Unatumia AI kwa kazi za kozi na unafanya vizuri, isipokuwa mtihani wa bila vitabu ulihisi kama kusoma maelezo ya mtu mwingine. Au rafiki yako anasema hakuandika chochote na bado akapata A, na unajiuliza hilo linamaanisha nini kwako. Au umeanza kuuliza chatbot maswali zaidi kuliko unavyomuuliza mwalimu wako.
+Unatumia AI kwa kazi za kozi na unafanya vizuri, isipokuwa [[summative-assessment|mtihani wa bila vitabu]] ulihisi kama kusoma maelezo ya mtu mwingine. Au rafiki yako anasema hakuandika chochote na bado akapata A, na unajiuliza hilo linamaanisha nini kwako. Au umeanza kuuliza chatbot maswali zaidi kuliko unavyomuuliza mwalimu wako.
 
-Jibu fupi, kwa namna unayoweza kuirudia kwa rafiki: AI ni yenye manufaa pale unapohitaji maoni na haina manufaa pale unapohitaji mazoezi. Hifadhi hatua ya kufikiri kwa ajili yako mwenyewe, jipime bila zana kabla ya kuwasilisha, na kuwa mwaminifu kuhusu kile ulichotumia. Sehemu iliyobaki ya ukurasa huu inaelezea kwa nini hilo linashikilia na jinsi linavyoonekana jioni ya Jumanne.
+Jibu fupi, kwa namna unayoweza kuirudia kwa rafiki: AI ni yenye manufaa pale unapohitaji maoni na haina manufaa pale unapohitaji mazoezi. Hifadhi hatua ya kufikiri kwa ajili yako mwenyewe, jipime bila zana kabla ya kuwasilisha, na kuwa mwaminifu kuhusu kile ulichotumia. Sehemu iliyobaki ya hoja hii inaelezea kwa nini hilo linashikilia na jinsi linavyoonekana jioni ya Jumanne.
 
 ## Toleo fupi
 
@@ -58,7 +59,7 @@ Kujua iko pia hubadilisha kile unachokubali kuhangaika nacho. [[ai-availability-
 
 ## Jipime bila zana
 
-Ukaguzi huchukua dakika kumi na ndio kitu chenye manufaa zaidi kwenye ukurasa huu. Funga kila kitu, chukua karatasi tupu, na andika hoja ya kile ulichowasilisha kutoka kumbukumbu: dai, sababu mbili au tatu, na kile kingepingana nacho. Kisha fungua kazi yako na linganisha.
+Ukaguzi huchukua dakika kumi na ndio kitu chenye manufaa zaidi unachoweza kufanya. Funga kila kitu, chukua karatasi tupu, na andika hoja ya kile ulichowasilisha kutoka kumbukumbu: dai, sababu mbili au tatu, na kile kingepingana nacho. Kisha fungua kazi yako na linganisha.
 
 Ikiwa karatasi tupu inatoka karibu sawa, ulijifunza nyenzo na zana ilikusaidia kuipanga. Ikiwa inatoka tupu wakati hati imeng'arishwa, una pengo la utendaji, na alama zitaficha hilo hadi mtihani au nafasi ya kazi usipoficha. Rudi kwenye sehemu ambayo hukuweza kuirudia, ifanyie kazi bila msaada, na kagua tena.
 
@@ -114,4 +115,4 @@ Upande wa kihisia pia unaweza kuwa mzuri. Katika utafiti wa [[qualitative-resear
 
 ## Wapi kwenda baadaye
 
-[[does-ai-help-students-learn|Je, kutumia AI kunasaidia wanafunzi kujifunza kwa kweli?]] ni swali la ushahidi nyuma ya ukurasa huu, na [[study-with-ai]] inashughulikia taratibu za kufanya kazi. [[ai-anxiety-wellbeing]] inaendeleza upande wa wasiwasi, na [[guardrails]] inaelezea jinsi msaada unavyogeuka kuwa mbadala. Mtazamo wa usanifu wa kozi uko katika [[incorporating-ai-literacy|Ninawezaje kuingiza ujuzi wa AI katika kozi yangu?]] na [[ai-literacy-evidence|Ushahidi kuhusu uingiliaji wa ujuzi wa AI katika elimu ya juu ni upi?]].
+[[does-ai-help-students-learn|Je, kutumia AI kunasaidia wanafunzi kujifunza kwa kweli?]] ni swali la ushahidi nyuma ya majibu haya, na [[study-with-ai]] inashughulikia taratibu za kufanya kazi. [[ai-anxiety-wellbeing]] inaendeleza upande wa wasiwasi, na [[guardrails]] inaelezea jinsi msaada unavyogeuka kuwa mbadala. Mtazamo wa usanifu wa kozi uko katika [[incorporating-ai-literacy|Ninawezaje kuingiza ujuzi wa AI katika kozi yangu?]] na [[ai-literacy-evidence|Ushahidi kuhusu uingiliaji wa ujuzi wa AI katika elimu ya juu ni upi?]].

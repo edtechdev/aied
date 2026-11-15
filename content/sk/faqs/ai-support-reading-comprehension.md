@@ -10,9 +10,9 @@ technology: [educational-nlp, generative-ai, llm]
 ethics: [accessibility]
 audience: [instructors, curriculum designers, instructional designers]
 level: [higher ed, secondary, primary education]
-updated: "2026-11-08T04:27:05-05:00"
+updated: "2026-11-15T16:27:26-05:00"
 translation_of: "faqs/ai-support-reading-comprehension"
-source_updated: "2026-11-06T02:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Ak učíte akýkoľvek predmet, vyberáte texty na čítanie, upravujete texty a
 
 **Nájsť a upraviť texty vo veľkom rozsahu.** AI je silná v hľadaní zdrojov, zjednodušovaní slovnej zásoby, vytváraní slovníkov a premene pasáže na [[study-with-ai|študijného sprievodcu alebo zhrnutie]]. Používajte ju na mechanické časti prípravy čítania — skenovanie, zaraďovanie podľa úrovne, vyťahovanie kľúčových pojmov — a ľudskú kontrolu si nechajte na to, čo je dôležité.
 
-**Modelovať čitateľa, nie text.** Keďže premenné čitateľa nesú veľkú časť signálu o tom, ako náročný sa text zdá, nástroje, ktoré profilujú čitateľa, predpovedajú vnímanú náročnosť lepšie než akýkoľvek vzorec. V najväčšej štúdii v znalostnej báze 193 nemeckých stredoškolákov ohodnotilo 3 954 viet a modely založené na profile (najlepší súbor RMSE 0,822 oproti priemernému základu 1,070) prekonali skóre Flesch pre texty, ktoré ohodnotili ten istý materiál ako oveľa náročnejší, než ho študenti zažívali — 72,8% anotácií bolo ľahkých alebo veľmi ľahkých ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad, 2025]]). Praktická verzia: hodnotenia niekoľkých študentov k pasáži prekonajú označenie akéhokoľvek vzorca.
+**Modelovať čitateľa, nie text.** Keďže premenné čitateľa nesú veľkú časť signálu o tom, ako náročný sa text zdá, nástroje, ktoré profilujú čitateľa, predpovedajú vnímanú náročnosť lepšie než akýkoľvek vzorec. V najväčšej štúdii v tejto literatúre 193 nemeckých stredoškolákov ohodnotilo 3 954 viet a modely založené na profile (najlepší súbor RMSE 0,822 oproti priemernému základu 1,070) prekonali skóre Flesch pre texty, ktoré ohodnotili ten istý materiál ako oveľa náročnejší, než ho študenti zažívali — 72,8% anotácií bolo ľahkých alebo veľmi ľahkých ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad, 2025]]). Praktická verzia: hodnotenia niekoľkých študentov k pasáži prekonajú označenie akéhokoľvek vzorca.
 
 ## Kde AI zaostáva
 

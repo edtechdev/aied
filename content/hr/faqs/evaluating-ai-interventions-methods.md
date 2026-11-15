@@ -7,9 +7,9 @@ audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T14:24:49-04:00"
+updated: "2026-11-15T16:19:32-05:00"
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -69,7 +69,7 @@ Dobitak prije i poslije pokazuje da je intervencija djelovala. Pokazuje da su oc
 
 Objavljene veličine učinka prenose se na moj razred. O'Neillovih 14 meta-analiza nije moglo poduprijeti tvrdnje izgrađene na njima, a oba izviještena intervala predviđanja uključivala su nulu.
 
-Platformska analitika mjeri kvalitetu poučavanja. Zhangov agent treći po redu bio je posljednji na stručnoj rubrici.
+Platformska [[learning-analytics|analitika]] mjeri kvalitetu poučavanja. Zhangov agent treći po redu bio je posljednji na stručnoj rubrici.
 
 ## Što će vam se vratiti kao prigovor
 

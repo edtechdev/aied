@@ -7,7 +7,7 @@ foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
 translation_of: faqs/ai-save-instructor-time
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -19,6 +19,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+updated: "2026-11-15T16:26:08-05:00"
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -43,7 +44,7 @@ Jambo la msingi kwa mkutano: kabidhi rasimu ya kwanza na uendelee kuhukumu. Muht
 
 ## Anza na kazi ambayo ungeiandika upya hata hivyo
 
-Nambari imara zaidi katika hifadhi hii ya maarifa inatoka kwenye [[rct|jaribio la ubahatishaji]] lililofupishwa katika [[ai-changing-teaching-workflows|Jinsi AI Inavyobadilisha Mitiririko ya Kazi ya Ufundishaji]]. Walimu 259 wa sayansi waliotumia ChatGPT walitumia takriban 69% ya muda ambao kundi la udhibiti lilitumia kwa maandalizi ya somo, punguzo la takriban 31%, na wakaguzi wataalam wasioona vyanzo hawakugundua upotevu wowote unaoweza kutambulika wa ubora. Walimu waligawa muda huo upya badala ya kuuweka akiba, wakiupeleka kwenye kupanga, kusahihisha na kazi zinazowakabili wanafunzi.
+Nambari imara zaidi inatoka kwenye [[rct|jaribio la ubahatishaji]] lililofupishwa katika [[ai-changing-teaching-workflows|Jinsi AI Inavyobadilisha Mitiririko ya Kazi ya Ufundishaji]]. Walimu 259 wa sayansi waliotumia ChatGPT walitumia takriban 69% ya muda ambao kundi la udhibiti lilitumia kwa maandalizi ya somo, punguzo la takriban 31%, na wakaguzi wataalam wasioona vyanzo hawakugundua upotevu wowote unaoweza kutambulika wa ubora. Walimu waligawa muda huo upya badala ya kuuweka akiba, wakiupeleka kwenye kupanga, kusahihisha na kazi zinazowakabili wanafunzi.
 
 Seti ya pili ya data katika kazi hiyo hiyo, zaidi ya jumbe 104,000 kutoka kwa waelimishaji zaidi ya 15,000, inaonyesha kwa nini akiba inaangukia mahali pasipo kawaida. Dokezo la wastani linagusa kategoria 1.7 kwa wakati mmoja, hivyo ombi moja la mpango wa somo hurudi likiwa limebeba utofautishaji na jaribio dogo ambalo mwalimu hakuwaza kuliomba.
 
@@ -53,7 +54,7 @@ Hiyo ni ugawaji upya badala ya punguzo: unachopata kutoka [[generative-ai|AI zal
 
 Ubora hautofanani kwa mfumo thabiti vya kutosha kupanga kwa misingi yake. Wakaguzi wasioona vyanzo walipendelea matoleo ya AI ya hitimisho la masomo na tiketi za kutoka kwa 59.7% ya wakati juu ya nyenzo zilizobuniwa na wataalamu, na walipendelea nyenzo za AI kwa maudhui ya shule ya sekondari kwa 59.2% ya wakati. Akiba pia hukua pale ujasiri wako ulipo chini zaidi: kufundisha nje ya somo lako mwenyewe ni kesi yenye pengo pana zaidi kati ya kile kifaa kinakupa na kile ungeandika peke yako.
 
-Kategoria mbili zinaenda upande mwingine. Kwenye nyenzo za ngazi ya msingi, binadamu walipendelewa kwa takriban 65% ya wakati kwa ufaafu wa maendeleo. [[scaffolding|Msaada wa hatua kwa hatua]] unaolengwa kwa wanafunzi wa [[multilingual-learning|lugha nyingi]] na wanafunzi katika [[special-education|elimu maalum]] ulirudi ukiwa wa kati badala ya makosa, jambo ambalo ni baya zaidi kuliko linavyosikika, kwa kuwa msaada wa kati ni ule unaoujenga upya tangu mwanzo.
+Kategoria mbili zinaenda upande mwingine. Kwenye nyenzo za ngazi ya msingi, binadamu walipendelewa kwa takriban 65% ya wakati kwa ufaafu wa maendeleo. [[scaffolding|Msaada wa hatua kwa hatua]] unaolengwa kwa [[learners|wanafunzi]] wa [[multilingual-learning|lugha nyingi]] na wanafunzi katika [[special-education|elimu maalum]] ulirudi ukiwa wa kati badala ya makosa, jambo ambalo ni baya zaidi kuliko linavyosikika, kwa kuwa msaada wa kati ni ule unaoujenga upya tangu mwanzo.
 
 Jaribio linalotabiri hili kabla ya kutumia jioni nzima: unaweza kubainisha mahitaji kwa usahihi wa kutosha kukagua matokeo? Tiketi ya kutoka kuhusu lengo moja, ndiyo. Kama aya inamfaa mtoto fulani wa miaka tisa anayesoma miaka miwili nyuma ya darasa lake, hapana.
 
@@ -83,7 +84,7 @@ Unaweza kutumia [[automated-essay-scoring|upimaji wa insha kiotomatiki]] ikiwa u
 
 ## Wanachokosea walimu
 
-**"31% ni nambari yangu."** Ni walimu 259 wa K-12 wa [[science-education|sayansi]] kwenye maandalizi ya somo. Mwelekeo unasafiri; ukubwa hausafiri. Semina iliyojengwa juu ya majadiliano inaweza kuokoa kidogo, na kozi ya maabara yenye vikomo vya usalama inaweza kuokoa chochote kwenye sehemu uliyotaka msaada zaidi.
+**"31% ni nambari yangu."** Ni walimu 259 wa [[k-12|K-12]] wa [[science-education|sayansi]] kwenye maandalizi ya somo. Mwelekeo unasafiri; ukubwa hausafiri. Semina iliyojengwa juu ya majadiliano inaweza kuokoa kidogo, na kozi ya maabara yenye vikomo vya usalama inaweza kuokoa chochote kwenye sehemu uliyotaka msaada zaidi.
 
 **"Kuokoa muda ndio lengo."** Jaribio la Brazil ni mfano kinyume. Masaa yalikuja bure na robo ya chini kabisa haikupata chochote. Lengo ni kile masaa yananunua.
 
@@ -95,7 +96,7 @@ Unaweza kutumia [[automated-essay-scoring|upimaji wa insha kiotomatiki]] ikiwa u
 
 **"Nikiharakisha, muda utajazwa na mikutano."** Inawezekana, na ndiyo njia ya kawaida zaidi ambayo akiba hupotea. Weka mahali pa kwenda kwa maandishi pale mwenyekiti wako anaweza kuviona, kabla nafasi haijajaa.
 
-**"Maoni ya AI huwadhulumu wanafunzi wanaohangaika zaidi."** Robo ya chini kabisa nchini Brazil haikupata chochote, na hiyo ndiyo tahadhari imara zaidi kwenye ukurasa huu. Unganisha akiba na matumizi ya kukusudia. Ongezeko la 35% la mazungumzo ya mtu mmoja kwa mmoja ni kile madarasa hayo yalifanya na masaa, na hilo lilikuwa chaguo alilofanya mwalimu.
+**"Maoni ya AI huwadhulumu wanafunzi wanaohangaika zaidi."** Robo ya chini kabisa nchini Brazil haikupata chochote, na hiyo ndiyo tahadhari imara zaidi katika utafiti. Unganisha akiba na matumizi ya kukusudia. Ongezeko la 35% la mazungumzo ya mtu mmoja kwa mmoja ni kile madarasa hayo yalifanya na masaa, na hilo lilikuwa chaguo alilofanya mwalimu.
 
 **"Upimaji ndipo masaa yangu yalipo kweli."** Ni kweli, na pia ndipo kifaa kinachohamishika kidogo zaidi kati ya taasisi. Thibitisha kienyeji au uache.
 
@@ -115,4 +116,4 @@ Unaweza kutumia [[automated-essay-scoring|upimaji wa insha kiotomatiki]] ikiwa u
 
 ## Wapi kwenda baadaye
 
-[[ai-feedback-at-scale]] inapeleka swali la maoni mbele zaidi, na [[faculty-ai-competencies]] pamoja na [[faculty-development-ai]] vinashughulikia kile idara inaweza kujenga ili hili lisitokane na majaribio ya mtu mmoja mmoja. [[redesign-assessment-ai-era]] na [[reduce-ai-cheating]] vinashughulikia matokeo ya tathmini. [[ai-changing-teaching-workflows]] ni makala iliyo nyuma ya nambari za maandalizi, na [[human-in-the-loop-ai|usimamizi wa binadamu]] ni kanuni ambayo ukurasa huu unaitegemea.
+[[ai-feedback-at-scale]] inapeleka swali la maoni mbele zaidi, na [[faculty-ai-competencies]] pamoja na [[faculty-development-ai]] vinashughulikia kile idara inaweza kujenga ili hili lisitokane na majaribio ya mtu mmoja mmoja. [[redesign-assessment-ai-era]] na [[reduce-ai-cheating]] vinashughulikia matokeo ya tathmini. [[ai-changing-teaching-workflows]] ni makala iliyo nyuma ya nambari za maandalizi, na [[human-in-the-loop-ai|usimamizi wa binadamu]] ni kanuni inayoongoza.

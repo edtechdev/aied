@@ -7,9 +7,9 @@ audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T14:13:23-04:00"
+updated: "2026-11-15T16:23:35-05:00"
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -69,7 +69,7 @@ Ennen/jälkeen-muutos osoittaa, että interventio toimi. Se osoittaa, että pist
 
 Julkaistut vaikutuskoot siirtyvät omaan luokkaani. O'Neillin 14 meta-analyysia eivät tukeneet niille rakennettuja väitteitä, ja molemmat raportoidut ennustevälit sisälsivät nollan.
 
-Alustan analytiikka mittaa opetuksen laatua. Zhangin kolmanneksi sijoittunut agentti oli viimeinen asiantuntijoiden arviointimatriisilla.
+Alustan [[learning-analytics|analytiikka]] mittaa opetuksen laatua. Zhangin kolmanneksi sijoittunut agentti oli viimeinen asiantuntijoiden arviointimatriisilla.
 
 ## Mitä sinulle esitetään vastaan
 

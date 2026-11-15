@@ -7,9 +7,9 @@ audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T15:41:26-04:00"
+updated: "2026-11-15T16:18:40-05:00"
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -69,7 +69,7 @@ Un câștig pre/post arată că intervenția a funcționat. Arată că scorurile
 
 Mărimile efectului publicate se transferă în grupa mea. Cele 14 meta-analize ale lui O'Neill nu puteau susține afirmațiile construite pe ele, iar ambele intervale de predicție raportate includeau zero.
 
-Analiticele platformei măsoară calitatea predării. Agentul clasat al treilea la Zhang a ieșit ultimul la o rubrică de experți.
+[[learning-analytics|Analiticele platformei]] măsoară calitatea predării. Agentul clasat al treilea la Zhang a ieșit ultimul la o rubrică de experți.
 
 ## Ce se va întoarce împotriva ta
 

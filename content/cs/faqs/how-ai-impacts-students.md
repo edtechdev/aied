@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
-updated: "2026-10-29T11:57:27-04:00"
+updated: "2026-11-15T16:24:30-05:00"
 translation_of: faqs/how-ai-impacts-students
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
 
-AI používáte při studiu a jde vám to, jenže zkouška bez pomůcek vypadala jako čtení cizích poznámek. Nebo kamarád říká, že nenapsal nic a stejně dostal jedničku, a vy přemýšlíte, co to znamená pro vás. Nebo jste začali klást chatbotovi víc otázek než svému vyučujícímu.
+AI používáte při studiu a jde vám to, jenže [[summative-assessment|zkouška bez pomůcek]] vypadala jako čtení cizích poznámek. Nebo kamarád říká, že nenapsal nic a stejně dostal jedničku, a vy přemýšlíte, co to znamená pro vás. Nebo jste začali klást chatbotovi víc otázek než svému vyučujícímu.
 
 Krátká odpověď ve formě, kterou můžete zopakovat kamarádovi: AI je užitečná tam, kde potřebujete zpětnou vazbu, a neužitečná tam, kde potřebujete procvičování. Krok myšlení si nechte pro sebe, otestujte se bez nástroje, než něco odevzdáte, a mluvte rovně o tom, co jste použili. Zbytek stránky vysvětluje, proč to platí a jak to vypadá v úterý večer.
 

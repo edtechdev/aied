@@ -1,7 +1,7 @@
 ---
 title: "Miten käsittelemme yleisiä väärinkäsityksiä tekoälystä koulutuksessa?"
 created: "2026-09-04T04:39:00-04:00"
-connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
+connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]
 technology: [prompt-engineering]
@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:17:28-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 
 Provosti haluaa yhden sivun mittaisen ”tekoälymyytit”-listan kevään tiedekuntakokoukseen. Tai hallituksen jäsen on lukenut, että chatbottit tuhoavat kriittisen ajattelun, ja haluaa kannan perjantaiksi. Tai sinä olet se, jonka täytyy selittää kirjallisesti, miksi laitos ei yksinkertaisesti kiellä työkalua, ja sinulta on loppunut tavat sanoa, että kielto ei ole pedagogiikkaa.
 
-Jokainen tämän sivun uskomus lähtee jostakin, minkä järkevä ihminen on nähnyt. Sujuva teksti todella lukee oikeana. Kiillotettu palautus todella näyttää oppimiselta. Kysymykseen vastaava ohjaaja todella tuntuu avulta, ja politiikka, jossa on sana ”kielletty”, todella tuntuu päätökseltä. Korjaus, joka toimii, nimeää sen, mitä havainto ei voi kertoa, ja antaa sitten tarkistuksen, jonka ihminen voi tehdä maanantaina.
+Jokainen näistä uskomuksista lähtee jostakin, minkä järkevä ihminen on nähnyt. Sujuva teksti todella lukee oikeana. Kiillotettu palautus todella näyttää oppimiselta. Kysymykseen vastaava ohjaaja todella tuntuu avulta, ja politiikka, jossa on sana ”kielletty”, todella tuntuu päätökseltä. Korjaus, joka toimii, nimeää sen, mitä havainto ei voi kertoa, ja antaa sitten tarkistuksen, jonka ihminen voi tehdä maanantaina.
 
 Vastaus, jonka voi antaa kollegalle yhdellä hengenvedolla: tekoälyn koulutuksellinen vaikutus riippuu siitä, kuka sitä käyttää, mihin tehtävään, mitä ajattelua työkalu suorittaa, mikä vastuu jää ihmiselle ja miten oppiminen arvioidaan. Varmuus, nopeus, sitoutuminen ja tehtävän loppuun saaminen ovat käytön ominaisuuksia. Mikään niistä ei ole näyttöä siitä, että kyvykkyys muuttui.
 
@@ -44,7 +44,7 @@ Vastaus, jonka voi antaa kollegalle yhdellä hengenvedolla: tekoälyn koulutukse
 
 ## Mitä lasketaan näytöksi siitä, että oppimista tapahtui
 
-Viisi uskomusta ratkaisee, onko tämän sivun loppuosalla väliä. Jokainen ottaa todellisen signaalin ja lukee siitä johtopäätöksen, jota signaali ei kanna.
+Viisi uskomusta ratkaisee, onko argumentin loppuosalla väliä. Jokainen ottaa todellisen signaalin ja lukee siitä johtopäätöksen, jota signaali ei kanna.
 
 ### ”He pärjäsivät paremmin työkalu avoinna, joten he oppivat enemmän.”
 
@@ -62,11 +62,11 @@ Keskiarvot kätkevät juuri sen vaihtelun, joka ratkaisee yhdenvertaisuuskysymyk
 
 ### ”He raportoivat oppineensa paljon.”
 
-[[self-report-measures|Itseraportointi]] mittaa havaitsemista, hyväksyntää, [[anxiety-and-stress|ahdistusta]] ja [[self-efficacy|minäpystyvyyttä]], ja se on hyvä kaikissa neljässä. Se ei ole osoitetun kyvykkyyden mitta, koska ihmiset voivat olla varmoja ja väärässä tai taitavia ja liian epävarmoja. Wikin synteesi opettajien tekoälylukutaitotutkimuksesta raportoi merkittävän kuilun [[self-assessment|itsearvioinnin]] ja mitatun suorituksen välillä, ja siinä olevat opettajat yliarvioivat osaamistaan huomattavasti ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]]). Yhdistä jokaiseen itseraportointiin tehtävä: tunnista virhe tuotoksessa, varmista lähde, valitse käyttöstrategia, huomaa vinouma tai mielistely, korjaa puutteellinen vastaus, kalibroi varmuus tarkkuutta vasten. Yksi tällainen kohta kyselyssä muuttaa mielipiteen tulokseksi.
+[[self-report-measures|Itseraportointi]] mittaa havaitsemista, hyväksyntää, [[anxiety-and-stress|ahdistusta]] ja [[self-efficacy|minäpystyvyyttä]], ja se on hyvä kaikissa neljässä. Se ei ole osoitetun kyvykkyyden mitta, koska ihmiset voivat olla varmoja ja väärässä tai taitavia ja liian epävarmoja. Synteesi opettajien tekoälylukutaitotutkimuksesta raportoi merkittävän kuilun [[self-assessment|itsearvioinnin]] ja mitatun suorituksen välillä, ja tutkitut opettajat yliarvioivat osaamistaan huomattavasti ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]]). Yhdistä jokaiseen itseraportointiin tehtävä: tunnista virhe tuotoksessa, varmista lähde, valitse käyttöstrategia, huomaa vinouma tai mielistely, korjaa puutteellinen vastaus, kalibroi varmuus tarkkuutta vasten. Yksi tällainen kohta kyselyssä muuttaa mielipiteen tulokseksi.
 
 ### ”Simuloitu opiskelija on halpa sijainen todelliselle.”
 
-Simulointi on hyödyllinen prototyyppien teossa, rasitustestauksessa ja skenaarioiden tuottamisessa, eikä se ole näyttöä ihmisen oppimisesta ennen kuin se on validoitu ihmisiä vasten. Malli voi jäljitellä hämmennyksen kieltä ilman oppijan sinnikkyyttä, motivaatiota, aiempaa tietoa, tunnetta tai kehityskulkua, ja wikin yhteenvetämä tutkimus havaitsi simuloitujen opiskelijoiden hylkäävän määrätyn väärinkäsityksen minimaalisen korjauksen jälkeen, mikä herättää epäilyksen siitä, edustavatko ne käsitteellistä muutosta lainkaan ([[simulating-students|Simulating Students]], [[llm-student-simulation-misconception-faithfulness|Simulating Students or Sycophantic Problem Solving?]]). Käytä niitä kehotteesi puutteiden löytämiseen ennen kuin todelliset opiskelijat kohtaavat sen, ja pidä sen jälkeen jokaista väitettä oppijoista validoimattomana.
+Simulointi on hyödyllinen prototyyppien teossa, rasitustestauksessa ja skenaarioiden tuottamisessa, eikä se ole näyttöä ihmisen oppimisesta ennen kuin se on validoitu ihmisiä vasten. Malli voi jäljitellä hämmennyksen kieltä ilman oppijan sinnikkyyttä, motivaatiota, aiempaa tietoa, tunnetta tai kehityskulkua, ja simuloituja opiskelijoita koskeva tutkimus havaitsi heidän hylkäävän määrätyn väärinkäsityksen minimaalisen korjauksen jälkeen, mikä herättää epäilyksen siitä, edustavatko ne käsitteellistä muutosta lainkaan ([[simulating-students|Simulating Students]], [[llm-student-simulation-misconception-faithfulness|Simulating Students or Sycophantic Problem Solving?]]). Käytä niitä kehotteesi puutteiden löytämiseen ennen kuin todelliset opiskelijat kohtaavat sen, ja pidä sen jälkeen jokaista väitettä oppijoista validoimattomana.
 
 ## Aseta tekoälyehto siihen vaiheeseen, joka kantaa oppimisen
 
@@ -140,7 +140,7 @@ Luotettavuus on johdonmukaisuutta, validiteetti sitä, ovatko pisteen tulkinta j
 
 ### ”Yksi hyvin käyttäytyvä keskustelu osoittaa, että ohjaaja on turvallinen.”
 
-Koulutukselliset haitat kertyvät vuorovaikutuksen aikana. Järjestelmä voi vastata yhteen kehotteeseen asianmukaisesti ja alkaa sitten vuorojen myötä tarjota vastauksia, vahvistaa väärinkäsitystä, rohkaista riippuvuutta tai ajautua pois ohjausroolistaan. Wikin yhteenvetämä SafeTutors-vertailumittari havaitsi pedagogisen haitan epäonnistumisten kasvavan jyrkästi, kun järjestelmiä arvioitiin useiden vuorojen yli yksittäisen vaihdon sijaan ([[hazra-safetutors-pedagogical-safety-2026|AI Tutor Safety and Pedagogical Harms]]). Vaadi pitkiä keskusteluja, toistuvia opiskelijavirheitä, suoria vastausyrityksiä, emotionaalisia ja relationaalisia skenaarioita, vihamielistä kehottamista ja riippuvuuden mittaria ajan myötä. Tällainen vertailumittarinäyttö ei ole luokkahuoneoppimisen estimaatti, ja se on minimi, jolle turvallisuusväitteen pitäisi nojata.
+Koulutukselliset haitat kertyvät vuorovaikutuksen aikana. Järjestelmä voi vastata yhteen kehotteeseen asianmukaisesti ja alkaa sitten vuorojen myötä tarjota vastauksia, vahvistaa väärinkäsitystä, rohkaista riippuvuutta tai ajautua pois ohjausroolistaan. SafeTutors-vertailumittari havaitsi pedagogisen haitan epäonnistumisten kasvavan jyrkästi, kun järjestelmiä arvioitiin useiden vuorojen yli yksittäisen vaihdon sijaan ([[hazra-safetutors-pedagogical-safety-2026|AI Tutor Safety and Pedagogical Harms]]). Vaadi pitkiä keskusteluja, toistuvia opiskelijavirheitä, suoria vastausyrityksiä, emotionaalisia ja relationaalisia skenaarioita, vihamielistä kehottamista ja riippuvuuden mittaria ajan myötä. Tällainen vertailumittarinäyttö ei ole luokkahuoneoppimisen estimaatti, ja se on minimi, jolle turvallisuusväitteen pitäisi nojata.
 
 ### ”Ihmisen tekemä tarkistus on väliaikainen paikkaus, kunnes mallit paranevat.”
 
@@ -172,7 +172,7 @@ Se osoittaa ihmisen ja työkalun yhteisen suorituksen. Osaaminen näkyy siinä, 
 
 ### ”Tekoälylukutaito tarkoittaa sitä, että osaa kirjoittaa hyvän kehotteen.”
 
-Kehotteiden kirjoittaminen on yksi toiminnallinen taito. Opettajalle tai työntekijälle merkityksellinen laajuus on laajempi: mitä [[ai-technologies|tekoälyjärjestelmät]] voivat tehdä luotettavasti ja mitä eivät, miten arvioida tarkkuutta ja vinoumaa, miten tekoäly vaikuttaa arvioinnin validiteettiin, milloin siirtokuormitus muuttuu syrjäyttämiseksi, yksityisyyden ja saavutettavuuden vaatimukset, miten käyttö sopii alaan ja milloin sitä ei pidä käyttää lainkaan. Wikin synteesi havaitsi opettajien yliarvioivan tekoälyosaamistaan huomattavasti, kun itseraportointeja verrattiin suoritusmittareihin, ja osoitettu osaaminen ennusti luokkahuoneintegrointia paljon paremmin kuin varmuus ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]]). Kehotetekniikat myös vanhenevat nopeammin kuin harkinta. Opeta [[prompt-engineering|Prompt Engineering]] taitona ja arvioi [[teacher-ai-competency|Teacher AI Competency]] laajempana.
+Kehotteiden kirjoittaminen on yksi toiminnallinen taito. Opettajalle tai työntekijälle merkityksellinen laajuus on laajempi: mitä [[ai-technologies|tekoälyjärjestelmät]] voivat tehdä luotettavasti ja mitä eivät, miten arvioida tarkkuutta ja vinoumaa, miten tekoäly vaikuttaa arvioinnin validiteettiin, milloin siirtokuormitus muuttuu syrjäyttämiseksi, yksityisyyden ja saavutettavuuden vaatimukset, miten käyttö sopii alaan ja milloin sitä ei pidä käyttää lainkaan. Näytön synteesi havaitsi opettajien yliarvioivan tekoälyosaamistaan huomattavasti, kun itseraportointeja verrattiin suoritusmittareihin, ja osoitettu osaaminen ennusti luokkahuoneintegrointia paljon paremmin kuin varmuus ([[ai-literacy-assessment-misalignment|AI Literacy Assessment: Self-Reported vs. Performance Misalignment]]). Kehotetekniikat myös vanhenevat nopeammin kuin harkinta. Opeta [[prompt-engineering|Prompt Engineering]] taitona ja arvioi [[teacher-ai-competency|Teacher AI Competency]] laajempana.
 
 ### ”Perustava alakohtainen tieto on vanhentunutta, koska tekoäly voi hakea sen.”
 
@@ -200,7 +200,7 @@ Tuotos on kehoteherkkä ja usein ei-deterministinen, joten pienet muutokset sana
 
 ### ”Nuoret ovat jo tekoälylukutaitoisia, koska he ovat diginatiiveja.”
 
-Digitaalisten tuotteiden tuntemus ei ole kykyä arvioida tekoälyä. Opiskelija voi avata chatbotin, tuottaa kuvan ja pyytää vastauksen ollessaan kykenemätön varmistamaan väitettä, havaitsemaan keksittyä näyttöä, tunnistamaan vinoumaa tai mielistelyä, suojaamaan henkilötietoja, päättämään mitä ei delegoida tai selittämään, miten tekoäly muokkasi työtä. Wiki tiivistää tutkimuksen, jossa varmuus arjen teknologiasta ei siirtynyt algoritmiseen päättelyyn, teknologiseen luomiseen tai tekoälyn kriittiseen arviointiin ([[digital-literacy-illusion|The Illusion of Competence]]). Lukutaito opetetaan ja osoitetaan; ikä ja käytön tiheys eivät sitä suo.
+Digitaalisten tuotteiden tuntemus ei ole kykyä arvioida tekoälyä. Opiskelija voi avata chatbotin, tuottaa kuvan ja pyytää vastauksen ollessaan kykenemätön varmistamaan väitettä, havaitsemaan keksittyä näyttöä, tunnistamaan vinoumaa tai mielistelyä, suojaamaan henkilötietoja, päättämään mitä ei delegoida tai selittämään, miten tekoäly muokkasi työtä. Tutkimus osoittaa, että varmuus arjen teknologiasta ei siirtynyt algoritmiseen päättelyyn, teknologiseen luomiseen tai tekoälyn kriittiseen arviointiin ([[digital-literacy-illusion|The Illusion of Competence]]). Lukutaito opetetaan ja osoitetaan; ikä ja käytön tiheys eivät sitä suo.
 
 ### ”Tekoälyä käyttävät opiskelijat ovat laiskoja tai epärehellisiä.”
 
@@ -228,7 +228,7 @@ Tehtävien automatisoiminen ei ole koulutuksellisen toiminnon korvaamista. Esime
 
 ## Mitä tämän pyörittäjät ymmärtävät väärin
 
-Yllä olevat väärinkäsitykset kuuluvat yleisölle, jolle sivu on kirjoitettu. Nämä kuuluvat muistion kirjoittajille, ja ne ovat syy siihen, miksi hyvät korjaukset eivät mene perille.
+Ensimmäinen joukko kuuluu yleisölle, johon nämä korjaukset kohdistuvat. Nämä kuuluvat muistion kirjoittajille, ja ne ovat syy siihen, miksi hyvät korjaukset eivät mene perille.
 
 ### ”Datavetoinen tarkoittaa objektiivista.”
 
@@ -258,7 +258,7 @@ Häpäisy tuottaa puolustautumista ja peittelyä, ja viestit kuten ”vain laisk
 
 Mekaniikka on riittävän lyhyt käytettäväksi tiedekuntakokouksessa. Nimeä uskomus, sano miksi se näyttää todelta, hylkää se selvästi, selitä epäonnistuminen, anna parempi malli ja anna sovellus.
 
-Valmis versio, jonka voit sovittaa mihin tahansa tämän sivun kohtaan:
+Valmis versio, jonka voit sovittaa mihin tahansa listan väärinkäsitykseen:
 
 > **Väärinkäsitys:** ”Hyvä tekoälyn tuottama tehtävä osoittaa, että opiskelija oppi.”
 > **Kumoaminen:** ”Se ei välttämättä ole totta. Tuotos näyttää, mitä opiskelija ja tekoäly tuottivat yhdessä, mutta se ei paljasta, minkä päättelyn opiskelija suoritti.”
@@ -313,6 +313,6 @@ Häiriö tapahtuu alan sisällä, siinä vaiheessa, jossa työkalu suorittaa sen
 
 ## Minne seuraavaksi
 
-[[misconceptions|Misconceptions about AI]] on tämän sivun takana oleva synteesi, ja [[refutation-text|Refutation Text]] on menetelmä sen käyttämiseen huoneen edessä. [[reduce-ai-cheating|How Can We Reduce AI Cheating?]] käsittelee rehellisyyspäätökset, [[redesign-assessment-ai-era|How Should Assessment Be Redesigned for the AI Era?]] käsittelee sitä, mitä arvosana voi tukea, ja [[ai-ed-evaluation|AI Ed Evaluation]] on opas pilotin tai alustan arvioimiseen. Opetuksen puolella [[teacher-ai-competency|Teacher AI Competency]] ja [[ai-literacy|AI Literacy]] kattavat sen, mitä huoneessa olevien ihmisten on osattava tehdä.
+[[misconceptions|Misconceptions about AI]] on näiden korjausten takana oleva synteesi, ja [[refutation-text|Refutation Text]] on menetelmä sen käyttämiseen huoneen edessä. [[reduce-ai-cheating|How Can We Reduce AI Cheating?]] käsittelee rehellisyyspäätökset, [[redesign-assessment-ai-era|How Should Assessment Be Redesigned for the AI Era?]] käsittelee sitä, mitä arvosana voi tukea, ja [[ai-ed-evaluation|AI Ed Evaluation]] on opas pilotin tai alustan arvioimiseen. Opetuksen puolella [[teacher-ai-competency|Teacher AI Competency]] ja [[ai-literacy|AI Literacy]] kattavat sen, mitä huoneessa olevien ihmisten on osattava tehdä.
 
 Ajatus, joka kannattaa pitää, siinä muodossa, jossa voit sanoa sen ääneen: tekoäly on erehtyväinen kognitiivinen resurssi, ei auktoriteetti, ei mieli eikä näyttö siitä, että oppimista tapahtui. Vastuullinen käyttö pitää ihmisen vastuullisena, säilyttää ajattelun, jota oppiminen vaatii, varmistaa sen, millä on väliä ja arvioi onnistumista kestävällä ja yhdenvertaisella kyvykkyydellä eikä sujuvuudella, nopeudella, sitoutumisella tai valmiilla tehtävällä.

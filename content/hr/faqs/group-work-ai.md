@@ -11,9 +11,9 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:17:18-05:00"
 translation_of: faqs/group-work-ai
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -89,7 +89,7 @@ Uparite grupnu ocjenu s pojedinačnom komponentom: [[oral-assessment|usmenom obr
 
 Njihova ograničenja idu uz citat: jedna baza podataka, samo članci iz časopisa, nikakva pažnja [[ethics|etici]] ili privatnosti, prve dvije godine tehnologije i nikakav primijenjen instrument za rizik od pristranosti. Čitajte „katalizatori“ kao opis opažene prakse, a ne kao izmjereni ishod.
 
-Otkrivanje je pogrešan instrument za razvrstavanje pojedinačnih doprinosa: nijedna od ovih šest studija ne testira detektore u grupnim uvjetima, a problemi detekcije na razini pojedinca dokumentirani su drugdje u ovoj bazi znanja. Suzdržanost treba protumačiti prije nego je ispraviti. Chen i Zou upozoravaju da grupa koja odbija AI može izbjegavati nešto nepoznato, a ne provoditi namjernu [[self-regulated-learning|samoregulaciju]], i ta dva slučaja traže različite odgovore: jedan je problem poučavanja, drugi je promišljena pozicija koju možete ocijeniti.
+Otkrivanje je pogrešan instrument za razvrstavanje pojedinačnih doprinosa: nijedna od ovih šest studija ne testira detektore u grupnim uvjetima, a problemi detekcije na razini pojedinca dobro su dokumentirani. Suzdržanost treba protumačiti prije nego je ispraviti. Chen i Zou upozoravaju da grupa koja odbija AI može izbjegavati nešto nepoznato, a ne provoditi namjernu [[self-regulated-learning|samoregulaciju]], i ta dva slučaja traže različite odgovore: jedan je problem poučavanja, drugi je promišljena pozicija koju možete ocijeniti.
 
 Simulirani kolege također ne rješavaju pitanje. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026.)]] fino je podesio [[llm|LLM]] agente na dijalogu stvarnih sudionika ([[llm-training-and-fine-tuning|LoRA]]/QLoRA adapteri na LLaMA 3.2-3B) kako bi modelirao 48 sudionika kroz 3.824 izmjene i šest tematskih kodova, a zatim je usporedio stvarni i simulirani diskurs [[network-analysis|epistemskom mrežnom analizom]]. Simulirana mreža dosegnula je udaljenost 0,17 od empirijske mreže, ispod praga 0,30, uz p-vrijednost permutacije 0,65, statistički nerazlučivo, iako je neznatno prenaglasila veze tehničkih ograničenja i oblikovanja te podzastupila parametre podataka i izvedbe. To je rad o okviru srednje pouzdanosti i podupire jednu tvrdnju: agenti specifični za sudionika mogu reproducirati realističan suradnički diskurs. Ne pokazuje da studenti više nauče od simuliranih kolega.
 

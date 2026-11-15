@@ -1,7 +1,7 @@
 ---
 title: "Jak můžeme řešit běžné mylné představy o AI ve vzdělávání?"
 created: "2026-09-04T04:39:00-04:00"
-connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
+connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]
 technology: [prompt-engineering]
@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:30:54-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 
 Váš prorektor chce na jarní zasedání pedagogického sboru jednostránkový přehled „mýtů o AI“. Nebo člen správní rady četl, že chatboti ničí kritické myšlení, a chce stanovisko do pátku. Nebo jste ten, kdo musí písemně vysvětlit, proč katedra nástroj prostě nezakáže, a došly vám způsoby, jak říct, že zákaz není pedagogika.
 
-Každé přesvědčení na této stránce vychází z něčeho, co rozumný člověk viděl. Plynulý text skutečně působí přesně. Vypulírovaná odevzdaná práce skutečně vypadá jako učení. Tutor, který odpoví na otázku, skutečně působí jako pomoc, a politika se slovem „zakázáno“ skutečně působí jako rozhodnutí. Oprava, která funguje, pojmenuje, co vám pozorování nemůže říct, a pak předá kontrolu, kterou dotyčný může provést v pondělí.
+Každé z těchto přesvědčení vychází z něčeho, co rozumný člověk viděl. Plynulý text skutečně působí přesně. Vypulírovaná odevzdaná práce skutečně vypadá jako učení. Tutor, který odpoví na otázku, skutečně působí jako pomoc, a politika se slovem „zakázáno“ skutečně působí jako rozhodnutí. Oprava, která funguje, pojmenuje, co vám pozorování nemůže říct, a pak předá kontrolu, kterou dotyčný může provést v pondělí.
 
 Odpověď, kterou dáte kolegovi jedním dechem: vzdělávací účinek AI závisí na tom, kdo ji používá, při kterém úkolu, jaké myšlení nástroj vykonává, jaká odpovědnost zůstává na člověku a jak se učení vyhodnocuje. Jistota, rychlost, zapojení a dokončení úkolu jsou vlastnosti používání. Žádná z nich není důkazem, že se změnila schopnost.
 
@@ -313,6 +313,6 @@ Zásah se děje uvnitř oboru, v kroku, kde nástroj vykonává praxi, kvůli kt
 
 ## Kam dál
 
-[[misconceptions|Mylné představy o AI]] je syntéza, na které tato stránka stojí, a [[refutation-text|Vyvracecí text]] je metoda, jak ji použít před plnou místností. [[reduce-ai-cheating|Jak omezit podvádění s AI?]] řeší rozhodnutí o integritě, [[redesign-assessment-ai-era|Jak přepracovat hodnocení pro éru AI?]] řeší, co známka může podepřít, a [[ai-ed-evaluation|Vyhodnocování AI ve vzdělávání]] je průvodce pro posuzování pilotu nebo platformy. Na straně výuky [[teacher-ai-competency|Kompetence učitele v oblasti AI]] a [[ai-literacy|Gramotnost v oblasti AI]] pokrývají, co lidé v místnosti musí umět.
+[[misconceptions|Mylné představy o AI]] je syntéza, na které tyto korekce stojí, a [[refutation-text|Vyvracecí text]] je metoda, jak ji použít před plnou místností. [[reduce-ai-cheating|Jak omezit podvádění s AI?]] řeší rozhodnutí o integritě, [[redesign-assessment-ai-era|Jak přepracovat hodnocení pro éru AI?]] řeší, co známka může podepřít, a [[ai-ed-evaluation|Vyhodnocování AI ve vzdělávání]] je průvodce pro posuzování pilotu nebo platformy. Na straně výuky [[teacher-ai-competency|Kompetence učitele v oblasti AI]] a [[ai-literacy|Gramotnost v oblasti AI]] pokrývají, co lidé v místnosti musí umět.
 
 Myšlenka, kterou si nechte, ve formě, kterou můžete říct nahlas: AI je omylný kognitivní zdroj, ne autorita, ne mysl a ne důkaz, že proběhlo učení. Odpovědné používání drží člověka odpovědného, zachovává myšlení, které učení vyžaduje, ověřuje to, na čem záleží, a úspěch soudí podle trvalé a spravedlivé schopnosti, ne podle plynulosti, rychlosti, zapojení nebo dokončeného úkolu.

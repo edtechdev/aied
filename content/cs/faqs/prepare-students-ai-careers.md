@@ -1,7 +1,7 @@
 ---
 title: "Co by se studenti měli učit pro kariéru, kde je AI samozřejmostí?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:17:52-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
@@ -48,6 +48,8 @@ Krátká odpověď pro kolegu: učte celý profesní úkol, ne obsluhu nástroje
 [[ithaka-sr-ai-skills-college-graduates-2026|Zpráva Ithaka S+R]] požádala 500 pedagogů amerických čtyřletých vysokých škol, aby ohodnotili 26 dovedností z rámce pokrývajícího sedm kategorií, a jejich hodnocení porovnala s panelem zaměstnavatelů, který pro autory rámce provedl průzkum. Neshoda je systematická, ne náhodná: pedagogové řadili na vrchol limity AI, atribuci a lidskou odpovědnost, zatímco zaměstnavatelé výš řadili design pracovních postupů, automatizaci a týmovou spolupráci člověka s AI.
 
 Dvě čtení té mezery jsou lákavá a obě jsou špatná. První je, že pedagogové zaostávají za trhem práce. Druhé, že zaměstnavatelé chtějí poslušnost. Užitečnější čtení je, že každá skupina popisuje jinou polovinu téhož úkolu a absolvent, který umí jen jednu polovinu, je nepřipravený na obě. Student, který neumí vysvětlit, proč je výsledek špatný, je k ničemu zaměstnavateli, který pracovnímu postupu věří; student, který umí jen kritizovat výstup AI, je k ničemu zaměstnavateli, který potřebuje úkol dokončit.
+
+Převést signál zaměstnavatelů v kurikulární změnu je samo proces s rozhodovacími body. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] navrhuje šest fází — snímání, validaci se zainteresovanými stranami, diagnostiku programu, redesign kurikula, realizaci a budování kapacit a přezkum výsledků — každou s pojmenovaným rozhodovacím právem a odpovědným výstupem, a AI omezuje na vymezené podpůrné funkce, jako je detekce vzorců a mapování kompetencí. Je to návrh, ne hodnocení, ale pojmenovává kroky, které žádost poradní skupiny obvykle přeskočí.
 
 Limity těchto důkazů jsou důležité. Jsou to deklarované priority z průzkumů a zpráva neukazuje, že nějaké kurikulum produkuje lepší nábory, lepší výkon nebo lepší plat. Dává vám ale obhajitelný důvod ptát se, zda vaši studenti vůbec někdy procvičují dokončení a kontrolu pracovního postupu podporovaného AI, na rozdíl od povídání o něm.
 
@@ -92,7 +94,6 @@ Tyto požadavky volíte proto, že podporují uvedenou způsobilost, a řekněte
 Podpůrná strana má vlastní riziko. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei a kol. (2026)]] našli používání [[generative-ai|GenAI]] pozitivně spojené se závislostí na GenAI a závislost negativně spojenou jak s [[critical-thinking|kritickým myšlením]], tak se zaměstnatelností ve svém modelu průzkumu. Je to asociace, ne kauzální tvrzení, a ukazuje na otázku designu: kurz, který posuzuje jen podporovaný výkon, může trénovat závislost, kterou sám hlásí.
 
 Stejná logika platí dřív, než studenti vstoupí na trh práce. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener a kol. (2026)]] modelují podporu AI jako sled, v němž dovednost roste samostatným procvičováním a upadá, když pracovníci přijímají odpovědi AI. V jejich modelu se nováčci mohou zaseknout na nízké dovednosti a odborníci mohou dovednost ztratit, i když přesnost výstupu zůstává vysoká, a strategičtí pracovníci mohou řešit samostatně, i když je AI přesnější, protože budoucí dovednost má hodnotu. Práce je teoretická, ne intervence, ale zostřuje otázku kurikula: plánujte a odměňujte samostatné procvičování, místo abyste předpokládali, že výstup podporovaný AI buduje způsobilost práci dohlížet.
-
 
 Pro revizi programu míry oddělte. Výkon v kurzu, prokázaná gramotnost v oblasti AI, hodnocení od vedoucího stáže, status zaměstnání a kvalita práce jsou různé výsledky s různými časovými horizonty a jediná intervence nemůže prokázat všechny. [[ai-literacy-evidence|Důkazy o gramotnosti v oblasti AI]] jsou poctivý soupis toho, co intervenční studie skutečně podporují.
 

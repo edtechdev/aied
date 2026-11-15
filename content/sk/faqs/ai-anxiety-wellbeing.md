@@ -9,9 +9,9 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:27:25-05:00"
 translation_of: faqs/ai-anxiety-wellbeing
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -105,7 +105,7 @@ Cieľom je znížiť úzkosť. Kim (2026) zistila, že úzkosť pozitívne súvi
 
 Sebadôvera chráni študentov pred kariérnou škodou. V modeli Duan et al. [[self-efficacy|vlastnú účinnosť]] tú škodu nezmiernilo. Sprostredkovanú dráhu niesla kariérna adaptabilita.
 
-Toto je problém [[student-support-and-success|študentských služieb]]. Väčšina krokov na tejto stránke je výučbová: nízkoprahové cvičenie, vedené hodnotenie výstupu AI, revízia na základe spätnej väzby a vyhlásenie očakávaní, ktoré študenti môžu čítať. Poznanie cesty k odporúčaniu je jednou položkou medzi nimi.
+Toto je problém [[student-support-and-success|študentských služieb]]. Väčšina krokov je výučbová: nízkoprahové cvičenie, vedené hodnotenie výstupu AI, revízia na základe spätnej väzby a vyhlásenie očakávaní, ktoré študenti môžu čítať. Poznanie cesty k odporúčaniu je jednou položkou medzi nimi.
 
 Chatbot na duševnú pohodu je škálovateľná odpoveď na tenkú kapacitu poradenstva. Dostupnosť je skutočná a príťažlivosť pochopiteľná. Presnosť na jednom oddelenom rozdelení nie je dôkazom, že študentovi v tiesni je lepšie, a otázky chybnej klasifikácie, ukladania a eskalácie nemajú v tu citovanej práci publikované odpovede.
 
@@ -117,7 +117,7 @@ Chatbot na duševnú pohodu je škálovateľná odpoveď na tenkú kapacitu pora
 
 **„Som učiteľ odboru, nie poradca.“** Nikto vás nežiada, aby ste niekoho liečili. Nízkoprahové cvičenie, úloha kritiky a slučka revízie sú bežné výučbové kroky. Jediné zistenie, ktoré hovorí k vašej pozícii, je vzťah učiteľa a študenta na druhom mieste v analýze dôležitosti príznakov Bashira a Afzala (10,0 %), pred kvalitou spánku (9,3 %) a sociálnou podporou (7,6 %). Autori to nazývajú hypotézou a je to rozumná stávka pre rolu, ktorú už zastávate.
 
-**„Nemáme kapacitu poradenstva, takže nástroj je lepší než nič.“** Možno a táto stránka to nedokáže uzavrieť. Na čom môžete pred nasadením trvať, sú písomné odpovede o validácii presnosti, o tom, ako sa rozhoduje vrstva podpory, čo sa stane pri škodlivej chybnej klasifikácii, ako sa ukladajú zverejnenia a ako funguje eskalácia k človeku. Žiadne odpovede, žiadne nasadenie. Študent, ktorý sa zverí nástroju, ktorý to založí nesprávne, sa už nemusí zveriť znova.
+**„Nemáme kapacitu poradenstva, takže nástroj je lepší než nič.“** Možno a dôkazy to nedokážu uzavrieť. Na čom môžete pred nasadením trvať, sú písomné odpovede o validácii presnosti, o tom, ako sa rozhoduje vrstva podpory, čo sa stane pri škodlivej chybnej klasifikácii, ako sa ukladajú zverejnenia a ako funguje eskalácia k človeku. Žiadne odpovede, žiadne nasadenie. Študent, ktorý sa zverí nástroju, ktorý to založí nesprávne, sa už nemusí zveriť znova.
 
 **„Ak v triede otvorím kariérne vyhliadky, prekračujem svoj odbor.“** Alternatívou je, že si študenti poskladajú odpoveď z trhu práce a od seba navzájom. Duan et al. odporúčajú kariérne plánovanie ako súčasť akademického programu a Dağ et al. ho odporúčajú spolu s AI gramotnosťou. Rozhovor môžete hostiť bez nároku na expertízu a jednotlivé prípady posielať kariérnym službám.
 

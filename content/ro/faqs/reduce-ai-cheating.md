@@ -6,9 +6,9 @@ weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:26:08-05:00"
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -55,7 +55,6 @@ Sinteza despre [[reducing-ai-misuse|reducerea utilizării greșite a IA]] clasea
 Apoi schimbă artefactul. O [[meta-analysis-systematic-review|revizuire sistematică]] a 72 de studii despre IA generativă în [[cs-education|educația informatică]] evaluează reproiectarea ca fezabilă și cu cea mai mare pârghie, și scoate în evidență o singură mișcare: adaugă un element oral sau altfel vizibil în proces la cel puțin o evaluare cu miză mare pe curs. O numește intervenția cea mai eficace din corpus. Detectarea este zona cea mai subțire pe care o acoperă revizuirea, cu doar 3 studii, față de 60-80% dintre studenții la informatică care raportează folosirea IA generative în teme, de obicei fără aprobare explicită a profesorului, și 70% dintr-un eșantion național de cadre didactice care cer explicit formare în designul evaluării rezistent la IA ([[kumar-genai-computing-education-systematic-review-2026|Kumar (2026)]]).
 
 Un curs de informatică desfășurat pe trei ani arată cât de departe poate mișca comportamentul un flux de divulgare cu schelă. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil et al. (2026)]] au cerut o schiță independentă cu o listă de verificare în patru puncte, un pas de rafinare, nu de rescriere, cu IA, un formular de divulgare și o reflecție structurată, cu schița sau formularul lipsă notate cu zero. Adoptarea a crescut de la aproximativ două treimi dintre studenți sub o politică voluntară la 93% în anul cu schelă; 81% și 84% dintre utilizatorii de IA au raportat că au respins sau modificat sugestii, evaluatorii au codat 77–81% dintre lucrări pentru angajament critic, iar folosirea IA nu a prezis independent calitatea eseului după controlul abilității anterioare de scriere. Acesta este un raport de experiență dintr-un singur curs, nu un trial controlat, dar arată munca de integritate mutându-se de la detectare la condițiile în care studenții divulgă și revizuiesc.
-
 
 Meniul, aproximativ în ordinea în care fiecare opțiune rezistă într-o grupă mare.
 

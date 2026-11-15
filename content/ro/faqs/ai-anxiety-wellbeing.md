@@ -9,9 +9,9 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:18:40-05:00"
 translation_of: faqs/ai-anxiety-wellbeing
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -105,7 +105,7 @@ Scopul este să scazi anxietatea. Kim (2026) a constatat că anxietatea este aso
 
 Încrederea îi protejează pe studenți de prejudiciul de carieră. În modelul lui Duan et al., [[self-efficacy|autoeficacitatea]] nu l-a tamponat. Adaptabilitatea de carieră a purtat calea mediată.
 
-Aceasta este o problemă de [[student-support-and-success|servicii pentru studenți]]. Cele mai multe mișcări de pe această pagină sunt instrucționale: exersare cu miză mică, evaluare ghidată a rezultatului IA, revizuire pe baza feedbackului și o declarație de așteptări pe care studenții o pot citi. A-ți cunoaște ruta de trimitere este un singur element printre ele.
+Aceasta este o problemă de [[student-support-and-success|servicii pentru studenți]]. Cele mai multe mișcări sunt instrucționale: exersare cu miză mică, evaluare ghidată a rezultatului IA, revizuire pe baza feedbackului și o declarație de așteptări pe care studenții o pot citi. A-ți cunoaște ruta de trimitere este un singur element printre ele.
 
 Un chatbot de bunăstare este răspunsul scalabil la o capacitate subțire de consiliere. Disponibilitatea este reală, iar atracția este de înțeles. Acuratețea pe o singură împărțire de validare nu este dovada că un student în suferință o duce mai bine, iar întrebările despre clasificare greșită, stocare și escaladare nu au răspunsuri publicate în lucrările citate aici.
 
@@ -117,7 +117,7 @@ Un chatbot de bunăstare este răspunsul scalabil la o capacitate subțire de co
 
 **„Sunt profesor de disciplină, nu consilier.”** Nimeni nu îți cere să tratezi pe cineva. Exersarea cu miză mică, o sarcină de critică și o buclă de revizuire sunt mișcări instrucționale obișnuite. Singura constatare care vorbește despre poziția ta este relația profesor-student, aflată pe locul al doilea în analiza de importanță a caracteristicilor a lui Bashir și Afzal (10,0%), peste calitatea somnului (9,3%) și sprijinul social (7,6%). Autorii o numesc ipoteză, și este un pariu rezonabil pentru un rol pe care îl ocupi deja.
 
-**„Nu avem capacitate de consiliere, deci un instrument e mai bun decât nimic.”** Posibil, iar această pagină nu poate tranșa. Ce poți cere insistent înainte de lansare sunt răspunsuri scrise despre validarea acurateței, despre cum se decide treapta de sprijin, despre ce se întâmplă la o clasificare greșită dăunătoare, despre cum sunt stocate destăinuirile și despre cum funcționează escaladarea spre un om. Fără răspunsuri, fără lansare. Un student care se destăinuiește unui instrument care îi înregistrează greșit informația poate să nu se mai destăinuiască a doua oară.
+**„Nu avem capacitate de consiliere, deci un instrument e mai bun decât nimic.”** Posibil, iar dovezile nu pot tranșa. Ce poți cere insistent înainte de lansare sunt răspunsuri scrise despre validarea acurateței, despre cum se decide treapta de sprijin, despre ce se întâmplă la o clasificare greșită dăunătoare, despre cum sunt stocate destăinuirile și despre cum funcționează escaladarea spre un om. Fără răspunsuri, fără lansare. Un student care se destăinuiește unui instrument care îi înregistrează greșit informația poate să nu se mai destăinuiască a doua oară.
 
 **„Dacă ridic în clasă tema perspectivelor de carieră, îmi depășesc disciplina.”** Alternativa este ca studenții să își compună răspunsul din piața muncii și unii de la alții. Duan et al. recomandă munca de planificare a carierei ca parte din programul academic, iar Dağ et al. o recomandă alături de alfabetizarea în IA. Poți găzdui conversația fără să pretinzi expertiză în ea și poți direcționa cazurile individuale spre serviciile de carieră.
 

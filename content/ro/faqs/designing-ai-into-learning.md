@@ -6,9 +6,9 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-11-01T11:35:17-05:00"
+updated: "2026-11-15T16:19:27-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
 
-Planul modulului are o linie care spune „activitate cu IA” și nimeni nu poate spune ce înlocuiește. Sau un cadru didactic a cerut să adauge un chatbot la un curs care funcționează deja, iar treaba ta este să îl plasezi fără să strici partea care făcea cursul să funcționeze.
+Planul modulului are o linie care spune „activitate cu IA” și nimeni nu poate spune ce înlocuiește. Sau un cadru didactic a cerut să adauge un [[conversational-ai|chatbot]] la un curs care funcționează deja, iar treaba ta este să îl plasezi fără să strici partea care făcea cursul să funcționeze.
 
 Pornește de la obiectivul de învățare și de la activitatea care îl produce. Același model poate fi un sprijin de tip schelă, un partener [[socratic-method|socratic]], un cititor de ciorne, o [[simulation|simulare]] sau o mașină de răspunsuri, iar care dintre ele îți iese depinde de proiectare, nu de model. Numește modul pe care îl construiești, pune încercarea învățăcelului înainte să apară orice ajutor și păstrează cel puțin o rută prin curs care merge fără instrument.
 
@@ -42,7 +42,7 @@ Pornește de la obiectivul de învățare și de la activitatea care îl produce
 
 ## Decide ce face învățăcelul fără instrument
 
-Pagina de concept [[pedagogy|Pedagogii și strategii de predare]] din baza de cunoștințe furnizează testul: configurația păstrează activitatea care produce învățarea intenționată? Răspunde la asta pe hârtie, înainte ca cineva să aleagă o funcție.
+Conceptul [[pedagogy|Pedagogii și strategii de predare]] furnizează testul: configurația păstrează activitatea care produce învățarea intenționată? Răspunde la asta pe hârtie, înainte ca cineva să aleagă o funcție.
 
 [[finkelstein-principled-ai-education-2025|Cadrul principial pentru educația cu IA]] enunță regula generală: tehnologia ar trebui să augmenteze, nu să deplaseze capacitățile umane pe care educația intenționează să le dezvolte. Scris ca test pentru un modul, asta înseamnă să numești capacitatea, să numești activitatea care o construiește și să întrebi dacă IA stă în interiorul acelei activități sau alături de ea.
 
@@ -72,7 +72,7 @@ Din asta urmează două lecții pentru proiectarea IA. Pune instrumentul acolo u
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] tratează timpul ca pe un schelet proiectat, nu ca pe o trăsătură a studentului: un curs în ritm propriu are o alocare săptămânală de aproximativ 100 de minute, cu o țintă de aproape 20 de minute pe zi, memento-uri conștiente de timp, un tablou de progres și o scurtă verificare de 3 până la 12 întrebări la finalul fiecărui subcapitol. Referința la care răspunde acest design este dură: aproape 25 la sută din peste 600 de cursanți au început abia în ultima săptămână, iar 95 la sută din acel grup au picat.
 
-Citește-o ca pe o temă de proiectare, nu ca pe un efect dovedit. Lucrarea compară un curs ulterior cu unul anterior în loc să ruleze un studiu controlat, așa că îmbunătățirea nu poate fi separată de schimbarea de serie și de disciplină, iar memento-urile suficient de puternice încât să mute momentul studiului sunt și o chestiune de [[privacy]] la care trebuie să răspunzi în programa analitică.
+Citește-o ca pe o temă de proiectare, nu ca pe un efect dovedit. Lucrarea compară un curs ulterior cu unul anterior în loc să ruleze un [[rct|studiu controlat]], așa că îmbunătățirea nu poate fi separată de schimbarea de serie și de disciplină, iar memento-urile suficient de puternice încât să mute momentul studiului sunt și o chestiune de [[privacy|confidențialitate]] la care trebuie să răspunzi în programa analitică.
 
 ## Decide ce reții și când îl restaurezi
 
@@ -100,7 +100,7 @@ Eficiența este scopul reproiectării. Redactarea rezultatelor și a rubricilor 
 
 **„Nu avem timp să resecvenționăm un curs întreg.”** Atunci resecvenționează un modul și o evaluare. Punctul de articulație reține-apoi-amplifică este un punct de control, iar secvența gândire-întâi este trei instrucțiuni pe o fișă.
 
-**„Funcția noastră de IA are deja bariere de siguranță.”** Barierele de siguranță constrâng ce spune modelul. Ele nu decid dacă învățăcelul a încercat mai întâi, dacă sprijinul se retrage sau dacă există o cale fără IA. Acestea sunt decizii de proiectare în cursul tău, nu setări în produs.
+**„Funcția noastră de IA are deja [[guardrails|bariere de siguranță]].”** Barierele de siguranță constrâng ce spune modelul. Ele nu decid dacă învățăcelul a încercat mai întâi, dacă sprijinul se retrage sau dacă există o cale fără IA. Acestea sunt decizii de proiectare în cursul tău, nu setări în produs.
 
 ## Ce să faci săptămâna aceasta
 

@@ -8,9 +8,9 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:26:02-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -127,7 +127,7 @@ Anna mallin kritiikki alakohtaisena työnä. Anna opiskelijoille tekoälyn tulki
 
 ### STEM-kurssit ja laboratorioraportit
 
-Ensin yksi varaus: tämä tietopohja sisältää paljon vahvempaa näyttöä tekoälyavusteisesta akateemisesta kirjoittamisesta yleisesti kuin laboratorioraporttien kirjoittamisesta erityisesti. Käytännön työ ja laboratorio ovat yhä alikäsiteltyjä [[pedagogy|pedagogiikan]] alueella, myös [[engineering-education|tekniikan alan koulutuksen]] kirjallisuudessa, joten seuraava soveltaa kirjoittamisen, siirtokuormituksen, validiteetin ja tekniikan alan löydöksiä ympäristöön, jota nuo tutkimukset eivät testanneet.
+Ensin yksi varaus: näyttö on paljon vahvempaa tekoälyavusteisesta akateemisesta kirjoittamisesta yleisesti kuin laboratorioraporttien kirjoittamisesta erityisesti. Käytännön työ ja laboratorio ovat yhä alikäsiteltyjä [[pedagogy|pedagogiikan]] alueella, myös [[engineering-education|tekniikan alan koulutuksen]] kirjallisuudessa, joten seuraava soveltaa kirjoittamisen, siirtokuormituksen, validiteetin ja tekniikan alan löydöksiä ympäristöön, jota nuo tutkimukset eivät testanneet.
 
 Piirrä raja tieteellisen päättelyn ympärille proosan kokonaisuuden sijaan. Opiskelijat pysyvät vastuussa havainnoista, raakadatasta, laskelmista, epävarmuudesta, kuvioista, analyysivalinnoista, tuloksista ja väitteen ja todistusaineiston välisestä päättelystä. Kun ne ovat olemassa, tekoäly voi kohtuudella auttaa jäsentämisessä, luettavuudessa, siirtymissä ja alan käytännöissä, mikä on sama pinnan ja päättelyn jako kuin [[layer-sensitive-cognitive-offloading-writing-2026|Chenin tutkimuksessa]].
 
@@ -169,7 +169,7 @@ Tuolla yhdistelmällä on käytännön seuraus. Muuta yhtä tehtävää, pidä a
 
 ## Mitä sinulle tullaan vastaamaan
 
-**”Minulla ei ole aikaa lukea yhtään uutta artefaktia.”** Tee artefaktista sitten pieni: neljän sarakkeen päätöstaulukko tai viisi minuuttia luokassa kirjoittamista itsenäisenä näytteenä. Tietopohja ei raportoi näistä malleista mitään arviointiaikaa koskevia tietoja, joten työmääräväite on testattava yhdellä tehtävällä eikä oletettava tämän sivun perusteella.
+**”Minulla ei ole aikaa lukea yhtään uutta artefaktia.”** Tee artefaktista sitten pieni: neljän sarakkeen päätöstaulukko tai viisi minuuttia luokassa kirjoittamista itsenäisenä näytteenä. Mikään tutkimus ei raportoi näistä malleista arviointiaikaa koskevia tietoja, joten työmääräväite on testattava yhdellä tehtävällä eikä oletettava.
 
 **”Opiskelijani käyttävät tekoälyä, sanokoon sääntö mitä tahansa.”** Niin käyttävät, ja suunnittelukysymys on, mihin vastaukseen tehtäväsi tekee helpoimman tien. Ilmoitus, joka ei maksa mitään, ja arviointimatriisi, joka palkitsee prosessista, tekevät ilmoittamisesta halvemman polun. Mekanismi tulee mallintamisesta eikä ilmoituspolitiikan kokeesta, joten pidä ennustetta kohtuullisena mutta vahvistamattomana.
 
@@ -179,7 +179,7 @@ Tuolla yhdistelmällä on käytännön seuraus. Muuta yhtä tehtävää, pidä a
 
 **”Malli arvioi tämän tehtävän yhtä hyvin kuin minä.”** Kalibroidut järjestelmät, joissa on yksityiskohtaiset arviointimatriisit ja mallivastaukset, voivat pisteyttää tiettyjä tehtäviä hyvin. Yleinen arviointi ei, ja Mathew ym. osoittavat, että erimielisyys seuraa esseen laatua eikä hajaannu satunnaisesti, mikä on vaikeammin havaittava virhetyyppi. Testaa työkalu omalla arvioidulla aineistollasi ennen kuin se koskee arvosanaa.
 
-**”Tämä rankaisee opiskelijoita, joiden akateeminen englanti on heikompaa.”** Voi rankaista, jos sääntö pitää ilmaisua ja kirjoittajuutta yhtenä asiana. Erota ne ja auditori tekoälypalaute sen kuvion varalta, jonka Tan ym. löysivät: samanlainen kirjoitus sai enemmän kiitosta ja vähemmän sisällöllistä kritiikkiä, kun demografiset tai koulutustaustaiset piirteet olivat kehotteessa. Tietopohja dokumentoi tuon harhan. Se ei raportoi testattua korjausta, joten oma vertailusi on tarkistus.
+**”Tämä rankaisee opiskelijoita, joiden akateeminen englanti on heikompaa.”** Voi rankaista, jos sääntö pitää ilmaisua ja kirjoittajuutta yhtenä asiana. Erota ne ja auditori tekoälypalaute sen kuvion varalta, jonka Tan ym. löysivät: samanlainen kirjoitus sai enemmän kiitosta ja vähemmän sisällöllistä kritiikkiä, kun demografiset tai koulutustaustaiset piirteet olivat kehotteessa. Harha on dokumentoitu. Testattua korjausta ei raportoida, joten oma vertailusi on tarkistus.
 
 ## Mitä tehdä tällä viikolla
 
@@ -195,4 +195,4 @@ Tuolla yhdistelmällä on käytännön seuraus. Muuta yhtä tehtävää, pidä a
 
 ## Mihin seuraavaksi
 
-Tämän argumentin arviointipuoli, mukaan lukien todennettujen vaiheiden suunnittelu, on sivulla [[redesign-assessment-ai-era|arvioinnin uudelleensuunnittelu tekoälyaikakaudella]]. Opiskelijoiden todella lukeman politiikka-asiakirjan löydät sivulta [[course-ai-policy|kurssin tekoälypolitiikka]] ja itse palautetyökalut sivulta [[ai-feedback-quality|tekoälypalautteen laatu]]. [[verify-ai-output|Tekoälyn tuotosten varmistaminen]] käsittelee sitä, mitä opiskelijoiden pitäisi tarkistaa, kun malli tarjoaa väitteen tai lähteen, ja käsitesivu [[coach-not-crutch-ai-writing|valmentaja, ei apukeino]] ilmaisee sen rajan, johon tämä sivu jatkuvasti palaa.
+Tämän argumentin arviointipuoli, mukaan lukien todennettujen vaiheiden suunnittelu, on sivulla [[redesign-assessment-ai-era|arvioinnin uudelleensuunnittelu tekoälyaikakaudella]]. Opiskelijoiden todella lukeman politiikka-asiakirjan löydät sivulta [[course-ai-policy|kurssin tekoälypolitiikka]] ja itse palautetyökalut sivulta [[ai-feedback-quality|tekoälypalautteen laatu]]. [[verify-ai-output|Tekoälyn tuotosten varmistaminen]] käsittelee sitä, mitä opiskelijoiden pitäisi tarkistaa, kun malli tarjoaa väitteen tai lähteen, ja [[coach-not-crutch-ai-writing|Lira ym. (2025)]] ilmaisee sen rajan, jolla on eniten merkitystä.

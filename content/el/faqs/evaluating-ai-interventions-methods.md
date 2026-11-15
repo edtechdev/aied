@@ -7,9 +7,9 @@ audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T12:45:02-04:00"
+updated: "2026-11-15T16:27:29-05:00"
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: ""2026-11-13T00:25:09-05:00""
 translation_note: "Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή."
 contributors: [editor]
 ai_assist:
@@ -69,7 +69,7 @@ ai_assist:
 
 Τα δημοσιευμένα μεγέθη επίδρασης μεταφέρονται στην τάξη μου. Οι 14 μετα-αναλύσεις του O'Neill δεν μπορούσαν να στηρίξουν τους ισχυρισμούς που χτίστηκαν πάνω τους, και τα δύο αναφερόμενα διαστήματα πρόβλεψης περιλάμβαναν το μηδέν.
 
-Τα αναλυτικά της πλατφόρμας μετρούν την ποιότητα της διδασκαλίας. Ο τρίτος πράκτορας του Zhang ήταν τελευταίος σε ρουμπρίκα ειδικών.
+Τα [[learning-analytics|αναλυτικά της πλατφόρμας]] μετρούν την ποιότητα της διδασκαλίας. Ο τρίτος πράκτορας του Zhang ήταν τελευταίος σε ρουμπρίκα ειδικών.
 
 ## Τι θα σας αντιτείνουν
 

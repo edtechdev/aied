@@ -6,9 +6,9 @@ weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-updated: "2026-10-29T14:37:59-04:00"
+updated: "2026-11-15T16:22:03-05:00"
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ A lényeg: a prompttechnika ennek a legkisebb része. Az oktatóknak meg kell í
 
 ## Határozza meg a kompetenciát, mielőtt lefoglalja a termet
 
-A tudásbázis [[ai-literacy|MI-írástudás]] szintézise négy dimenziót azonosít, és ezek hasznos napirendet adnak, mert mindegyik másfajta ülést igényel:
+Az [[ai-literacy|MI-írástudás]] szintézise négy dimenziót azonosít, és ezek hasznos napirendet adnak, mert mindegyik másfajta ülést igényel:
 
 - **Alapvető megértés** a MI képességeiről és korlátairól.
 - **Gyakorlati kompetencia** a MI-eszközök használatában.
@@ -54,6 +54,8 @@ Elég rendszerszintű megértésre is szükségük van ahhoz, hogy megítéljék
 ## A teljesítményt mérje, ne a magabiztosságot
 
 Az [[self-report-measures|önbevalláson]] alapuló MI-írástudás jelentősen eltérhet a kimutatott képességtől, és ez e szakirodalom legpraktikusabb figyelmeztetése mindenkinek, aki karfejlesztéssel foglalkozik. Egy műhely végén felvett magabiztossági kérdőív azt méri, milyen érzés volt a műhely.
+
+A magabiztossági kérdőívet akár túl jól is meg lehet jósolni. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez és mtsai (2026)]] 315 oktatóból 314-et sorolt be kompetenciasávokba egy 300 tételes skálával (α = 0,997), faktorelemzés nélkül, és a legnagyobb magyarázó tényező az intézményi hovatartozás volt — jelezve, hogy a pontszámok azt követték, hol dolgoznak az emberek, nem azt, mire képesek.
 
 A tanári [[agentic-ai|többágenses]] munkafolyamatokról szóló kutatás második okot ad arra, hogy mérjen, ne kérdezzen: a rendszergondolkodás, a pedagógiai hiedelmek és a [[self-efficacy|önhatékonyság]] kölcsönhatnak a MI-integrációban, tehát ugyanaz az ülés másképp hat két olyan oktatóra, akiknek azonos a tantárgyi háttere. Ez differenciált programozás mellett érvel, és az ellen a mindenkihez egyformán szóló eszközműhely ellen, amelyet a legtöbb intézmény tart.
 
@@ -103,7 +105,7 @@ A tartalomszakértők maguktól megoldják az integrációt. A tartalomtudás ab
 
 Egy keretrendszer mindenkit lefed. A hat szerepre vonatkozó standard azért létezik, mert a TPACK, a SAMR és a fő oktatói standardok a K-12 tanárait vagy csak a tanítási dimenziót fedik le.
 
-Az ellenállás kitöltendő tudáshiány. A kockázatkerülés negatívan jelezte előre a szándékot, az identitásmunka pedig pedagógiai értékekből érvelő oktatókat ír le. Abból, ami vonakodásnak látszik, némi része védhető álláspont a hallgatók túlzott támaszkodásáról.
+Az ellenállás kitöltendő tudáshiány. A kockázatkerülés negatívan jelezte előre a szándékot, a [[learner-identity|identitásmunka]] pedig pedagógiai értékekből érvelő oktatókat ír le. Abból, ami vonakodásnak látszik, némi része védhető álláspont a hallgatók túlzott támaszkodásáról.
 
 ## Mi jön vissza Önre
 

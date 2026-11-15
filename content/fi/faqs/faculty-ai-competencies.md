@@ -6,9 +6,9 @@ weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-updated: "2026-10-29T14:13:23-04:00"
+updated: "2026-11-15T16:23:55-05:00"
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,8 @@ Kirjoita luettelo muistiin ennen kuin suunnittelet istunnot. Neljä ulottuvuutta
 ## Arvioi suoriutumista, älä itsevarmuutta
 
 [[self-report-measures|Itse raportoitu]] tekoälylukutaito voi erota huomattavasti osoitetusta kyvykkyydestä, ja se on tämän kirjallisuuden käytännöllisin yksittäinen varoitus kenelle tahansa, joka vetää opetuksen kehittämistä. Työpajan lopussa tehty itsevarmuuskysely mittaa sitä, miltä työpaja tuntui.
+
+Kysely voidaan jopa ennustaa liian hyvin. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez ym. (2026)]] luokittelivat 314 opetushenkilöstön 315:stä osaamisluokkiin 300 kohdan asteikolla, jonka α = 0,997, ilman faktorianalyysia, ja suurin selittävä tekijä oli oppilaitos – merkki siitä, että pistemäärät seurasivat sitä, missä ihmiset työskentelevät, eivät sitä, mitä he osaavat.
 
 Opettajien [[agentic-ai|moniagenttisten]] työnkulkujen tutkimus antaa toisen syyn testata kysymisen sijaan: järjestelmäajattelu, pedagogiset uskomukset ja [[self-efficacy|minäpystyvyys]] ovat vuorovaikutuksessa tekoälyn integraatiossa, joten sama istunto laskeutuu eri tavoin kahdelle opettajalle, joilla on sama aine taustallaan. Se puoltaa eriyttämistä ja on vastaan sitä kaikille sopivaa työkalutyöpajaa, jota useimmat oppilaitokset vetävät.
 
@@ -103,7 +105,7 @@ Sisältöasiantuntijat selvittävät integraation itse. Sisältötieto ei ennust
 
 Yksi viitekehys kattaa kaikki. Kuuden roolin standardi on olemassa siksi, että TPACK, SAMR ja keskeiset kasvattajastandardit kattavat perusopetuksen opettajat tai pelkän opetuksen ulottuvuuden.
 
-Vastustus on täytettävä tietoaukko. Riskin karttaminen ennusti aikomusta negatiivisesti, ja identiteettityö kuvaa opetushenkilöstöä, joka perustelee pedagogisista arvoista. Osa siitä, mikä näyttää haluttomuudelta, on puolustettavissa oleva kanta opiskelijoiden liiallisesta nojautumisesta.
+Vastustus on täytettävä tietoaukko. Riskin karttaminen ennusti aikomusta negatiivisesti, ja [[learner-identity|identiteettityö]] kuvaa opetushenkilöstöä, joka perustelee pedagogisista arvoista. Osa siitä, mikä näyttää haluttomuudelta, on puolustettavissa oleva kanta opiskelijoiden liiallisesta nojautumisesta.
 
 ## Mitä sinulle tullaan sanomaan takaisin
 

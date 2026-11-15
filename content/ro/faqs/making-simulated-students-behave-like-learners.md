@@ -12,9 +12,9 @@ level: [higher ed, k 12]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
-updated: "2026-10-29T15:41:26-04:00"
+updated: "2026-11-15T16:22:54-05:00"
 translation_of: faqs/making-simulated-students-behave-like-learners
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -44,11 +44,11 @@ Ai o demonstrație joi. Studentul simulat din ea greșește o problemă cu frac�
 
 ## Decide la ce întrebare răspunde simulatorul
 
-Trei sarcini se prăbușesc sub eticheta „student simulat” și au nevoie de mecanisme diferite. Exersarea unui profesor sau a unui tutore are nevoie de un partener care se comportă plauzibil sub presiune. Auditarea felului în care o IA tratează profile diferite de cursanți are nevoie de acoperirea profilelor care te interesează. Prezicerea rezultatelor pentru un curs are nevoie de o distribuție de cursanți, nu de un individ convingător. Un simulator construit pentru prima sarcină te va dezamăgi la a treia, iar dovezile de mai jos le separă mereu.
+Trei sarcini se prăbușesc sub eticheta „student simulat” și au nevoie de mecanisme diferite. Exersarea unui [[teacher-role|profesor]] sau a unui tutore are nevoie de un partener care se comportă plauzibil sub presiune. Auditarea felului în care o IA tratează profile diferite de cursanți are nevoie de acoperirea profilelor care te interesează. Prezicerea rezultatelor pentru un curs are nevoie de o distribuție de cursanți, nu de un individ convingător. Un simulator construit pentru prima sarcină te va dezamăgi la a treia, iar dovezile de mai jos le separă mereu.
 
 ## Numește cursanții pe care nu îi acoperi
 
-Constatarea cea mai utilă pentru cineva care e pe punctul să aibă încredere într-un simulator privește acoperirea. Doisprezece profesori care au meditat studenți LLM au raportat limbaj excesiv de complex, emoție lipsă, atenție nenaturală și salturi de cunoaștere neexplicate, iar simulările reprezentau doar unul din patru cadrane reale de comportament al studenților ([[llm-student-simulation-teacher-insights|Martynova et al., 2026]]). Cadranul pe care îl acopereau era cel mai ușor de simulat.
+Constatarea cea mai utilă pentru cineva care e pe punctul să aibă încredere într-un simulator privește acoperirea. Doisprezece profesori care au tutorat studenți [[llm|LLM]] au raportat limbaj excesiv de complex, emoție lipsă, atenție nenaturală și salturi de cunoaștere neexplicate, iar [[simulation|simulările]] reprezentau doar unul din patru cadrane reale de comportament al studenților ([[llm-student-simulation-teacher-insights|Martynova et al., 2026]]). Cadranul pe care îl acopereau era cel mai ușor de simulat.
 
 Asta contează pentru că aproape nimeni nu verifică. Doar 3% dintre studiile care simulează cursanți își validează simulatorul după utilizare. Dacă construiești unul și sari peste validare, ești în majoritatea covârșitoare și ești și motivul pentru care statistica rămâne citabilă.
 
@@ -64,13 +64,13 @@ Două observații din acel studiu. Alegerea modelului nu este unidimensională, 
 
 Dacă modelul știe prea mult, poți numi starea în care ar trebui să fie sau poți scădea cunoașterea pe care nu ar trebui să o aibă.
 
-**Condiționează pe o stare epistemică.** Un cadru fără antrenare construiește prototipul cognitiv al fiecărui student dintr-un [[knowledge-graph|graf de cunoaștere]] și punctează candidații din căutarea beam față de el, raportând o îmbunătățire de 100% a acurateței simulării ([[simulating-students-diverse-cognitive-levels-2025|Wu et al., 2025]]). Calitatea lui crește cu nivelul cognitiv al studentului, deci cursanții mai slabi rămân cazul mai greu, ceea ce este nefericit dat fiind că de obicei ei sunt miza. Modelarea dinamicii cognitive în locul unui personaj static merge mai departe: actualizările de stare bazate pe ICAP din CogEvolution au atins R²LC = 0,92, unde agenții statici ating 0,45, și au căzut la 0,58 fără modulul lor ICAP ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et al., 2026]]).
+**Condiționează pe o stare epistemică.** Un cadru fără antrenare construiește prototipul cognitiv al fiecărui student dintr-un [[knowledge-graph|graf de cunoaștere]] și punctează candidații din căutarea beam față de el, raportând o îmbunătățire de 100% a acurateței simulării ([[simulating-students-diverse-cognitive-levels-2025|Wu et al., 2025]]). Calitatea lui crește cu nivelul cognitiv al studentului, deci cursanții mai slabi rămân cazul mai greu, ceea ce este nefericit dat fiind că de obicei ei sunt miza. Modelarea dinamicii cognitive în locul unui personaj static merge mai departe: actualizările de stare bazate pe [[icap-framework|ICAP]] ale CogEvolution au atins R²LC = 0,92, acolo unde agenții statici ajung la 0,45, și au scăzut la 0,58 fără modulul său ICAP ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et al., 2026]]).
 
 **Elimină cunoașterea.** Suprimarea a 16 componente de cunoaștere țintite în Mistral-7B a scăzut acuratețea de la aproximativ 0,75, la un raport de uitare de 10%, la sub 0,5 la 40%, în timp ce modelul de bază s-a menținut aproape de 0,85. Cunoașterea suprimată s-a dovedit recuperabilă prin reînvățare supervizată și dialog ghidat de un coach ([[simulating-novice-students-machine-unlearning-2026|Song, Guo & Lin, 2026]]). Acesta este lucrul cel mai apropiat de fabricarea unui novice direct, iar recuperabilitatea devine un avantaj dacă vrei ca simulatorul să învețe în timpul unei sesiuni.
 
 ## Scenarizează replicile, nu personajul
 
-Stabilitatea personajului se dovedește a fi o problemă de design al interacțiunii, nu de alegere a modelului. Combinând cinci LLM-uri cu trei designuri de prompt și patru personaje cu intensitate ADHD, interacțiunile scenarizate și ancorate în sarcină au eliminat deriva comportamentală evaluată de observatori, cu până la 97% față de dialogul nescenarizat. Fără instrucțiuni explicite de personaj, reprezentarea de bază a studenților înclina spre simptome ADHD ridicate ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase & Leins, 2026]]).
+Stabilitatea personajului se dovedește a fi o problemă de design al interacțiunii, nu de alegere a modelului. Combinând cinci LLM-uri cu trei designuri de prompt și patru personaje cu intensitate [[neurodiversity|ADHD]], interacțiunile scenarizate și ancorate în sarcină au eliminat deriva comportamentală evaluată de observatori, cu până la 97% față de dialogul nescenarizat. Fără instrucțiuni explicite de personaj, reprezentarea de bază a studenților înclina spre simptome ADHD ridicate ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase & Leins, 2026]]).
 
 Dacă simulatorul tău derivă, uită-te la ce îi ceri să facă replică cu replică înainte de a schimba modelul sau de a rescrie descrierea studentului.
 
@@ -88,7 +88,7 @@ Două comparații arată cât costă validarea.
 
 Benchmark-uirea a nouă metode de simulare față de șapte metrici bazate pe referință, pe 382 de dialoguri ținute deoparte din cel mai mare corpus public de dialoguri reale student-tutore la matematică, a arătat că promptingul a rămas în urma ajustării fine la actele de dialog (0,4998 față de 0,6840), la ROUGE-L (0,1648 față de 0,3212) și la similaritatea cosinus (0,5460 față de 0,7390). Cea mai bună metodă testată, optimizarea preferințelor pe un model de 8B, a depășit doar marginal ajustarea fină supervizată și a fost mai slabă la erori, iar o evaluare umană cu trei tutori a reprodus acea ierarhie ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). Vârful acestei scări stă aproape de mijloc, deci linia de bază pe care o raportezi decide cât de impresionant arată numărul tău.
 
-SWIM este cea mai clară comparație între prompting, ajustare fină și învățare prin întărire, pentru că punctează fiecare eseu generat față de un profil-țintă de trăsături, în loc să îl judece impresionist. Promptingul fundamentat pe rubrică a dat control limitat chiar și pentru modele proprietare puternice, cu cel mai bun QWK mediu pe trăsături de 0,577 (Claude Sonnet) și 0,422 (GPT-5.4), și aproape zero pentru un model deschis de 7B. Ajustarea fină supervizată pe perechi reale scor-escu a atins 0,474 ± 0,023 pentru acel model de 7B. GRPO cu o recompensă derivată din notarea automată a eseurilor a atins 0,618 ± 0,005, cu câștiguri care s-au menținut pe doi evaluatori independenți față de care politica nu s-a antrenat niciodată ([[swim-student-writing-simulation-2026|SWIM]]).
+SWIM este cea mai clară comparație între prompting, ajustare fină și învățare prin întărire, pentru că punctează fiecare eseu generat față de un profil-țintă de trăsături, în loc să îl judece impresionist. Promptingul fundamentat pe rubrică a dat control limitat chiar și pentru modele proprietare puternice, cu cel mai bun QWK mediu pe trăsături de 0,577 (Claude Sonnet) și 0,422 (GPT-5.4), și aproape zero pentru un model deschis de 7B. [[llm-training-and-fine-tuning|Ajustarea fină]] supervizată pe perechi reale scor-escu a atins 0,474 ± 0,023 pentru acel model de 7B. GRPO cu o recompensă derivată din [[automated-essay-scoring|notarea automată a eseurilor]] a atins 0,618 ± 0,005, cu câștiguri care s-au menținut pe doi evaluatori independenți față de care politica nu s-a antrenat niciodată ([[swim-student-writing-simulation-2026|SWIM]]).
 
 Promptingul a produs și o populație idealizată, nu una realistă: scorul general normalizat mediu de 0,74 față de 0,58 pentru studenții reali și o lungime mediană de 304 cuvinte față de 167. Modelele antrenate au recuperat distribuțiile umane de scor și lungime fără nicio supervizare pe lungime. Un lucru a rămas greu: forma autentică de competență scăzută. Modelele antrenate au recuperat sintaxa, dar au scris prea puține greșeli de ortografie și gramatică, în timp ce promptingul a simulat slăbiciunea prin corupere superficială, greșeli de scriere împrăștiate peste o proză altfel competentă.
 
@@ -96,7 +96,7 @@ Realismul de suprafață este un test slab în ambele direcții. Într-un studiu
 
 ## Verifică dacă o descriere ar fi suficientă
 
-Înainte de a construi o cohortă, verifică opțiunea mai ieftină. Pentru evaluarea unei experiențe de învățare online înainte ca studenții să se implice, pentru prezicerea abandonului și a finalizării și pentru feedback de design, un singur agent web care descrie, parcurgând lecția și producând o descriere bogată a experienței, a depășit simularea directă a unei populații de studenți.
+Înainte de a construi o cohortă, verifică opțiunea mai ieftină. Pentru evaluarea unei experiențe de [[online-teaching-and-learning|învățare online]] înainte ca studenții să se implice, pentru prezicerea abandonului și a finalizării și pentru feedback de design, un singur agent web care descrie, parcurgând lecția și producând o descriere bogată a experienței, a depășit simularea directă a unei populații de studenți.
 
 Studenții simulați din acea comparație au arătat o gamă comportamentală mult mai mică decât cursanții reali: pe 100 de agenți și cinci lecții de test, au reprodus doar aproximativ 4% din traseele pe care le-au urmat studenții reali, costând în același timp considerabil mai mult calcul. Pipeline-ul descrie-apoi-prezice a obținut cea mai bună predicție a distribuției abandonului pe un curs CS1 global masiv, cu un JSD mediu de 0,060 ([[ai-web-agents-lesson-design-2025|Wang, Mitchell și Piech, 2025]]).
 
@@ -124,7 +124,7 @@ Simularea unei populații este opțiunea temeinică. Pe 100 de agenți, simulăr
 
 **„GRPO a bătut ajustarea fină supervizată, deci ar trebui să antrenăm cu RL.”** A bătut-o, cu 0,618 față de 0,474. Forma de competență scăzută a rămas grea în ambele cazuri, cu prea puține greșeli de ortografie și gramatică, iar într-un benchmark separat optimizarea preferințelor a depășit ajustarea fină doar marginal și a pierdut la erori. Verifică de ce proprietate depinde cazul tău de utilizare.
 
-**„Cursanții cei mai slabi sunt o felie mică din utilizatorii noștri.”** Sunt cazul cel mai greu pentru fiecare metodă de pe această pagină, iar constatarea despre acoperire spune că simulările se grupează în cadranul cel mai ușor. Dacă simulatorul tău va fi folosit pentru a trage concluzii despre studenți care se zbat, acel decalaj își are locul în raport.
+**„Cursanții cei mai slabi sunt o felie mică din utilizatorii noștri.”** Sunt cazul cel mai greu pentru fiecare metodă testată, iar constatarea despre acoperire spune că simulările se grupează în cadranul cel mai ușor. Dacă simulatorul tău va fi folosit pentru a trage concluzii despre studenți care se zbat, acel decalaj își are locul în raport.
 
 ## Ce să faci săptămâna aceasta
 

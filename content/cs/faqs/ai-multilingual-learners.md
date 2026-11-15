@@ -1,7 +1,7 @@
 ---
 title: "Jak může AI podpořit vícejazyčné studenty, aniž by špatně posoudila jejich znalosti nebo setřela jejich hlas?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:19:30-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
@@ -51,11 +51,11 @@ Rozhodnutí napište tam, kde si ho studenti mohou přečíst. Pokud studenti sm
 
 ## Co výzkum podporuje a co ne
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez a Arabadzhy (2026)]] prošli 24 empirických studií o generativních [[conversational-ai|chatbotech]] v [[language-learning|jazykovém učení]]. Jejich přínos je taxonomický: každá dílčí affordance katalogizovaná u pregenerativních chatbotů přetrvává a tři jsou nové, včetně **translanguagingu**, záměrného přecházení mezi jazyky jako součásti učení. To je mapa hlášených použití a zkušeností, ne souhrnný odhad, a korpus je geograficky koncentrovaný: Čína, Írán, Tchaj-wan a Turecko tvoří 19 z 24 studií a všechny kromě jedné sady proběhly ve formálních institucích. Podpora použití vysvětlení napříč jazyky jako učebního kroku není podporou překladu každého zadání.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez a Arabadzhy (2026)]] prošli 24 empirických studií o generativních [[conversational-ai|chatbotech]] v [[language-learning|jazykovém učení]]. Jejich přínos je taxonomický: každá dílčí affordance katalogizovaná u pregenerativních chatbotů přetrvává a tři jsou nové, včetně **translanguagingu**, záměrného přecházení mezi jazyky jako součásti učení. To je mapa hlášených použití a zkušeností, ne souhrnný odhad, a studie jsou geograficky koncentrované: Čína, Írán, Tchaj-wan a Turecko tvoří 19 z 24 studií a všechny kromě jedné sady proběhly ve formálních institucích. Podpora použití vysvětlení napříč jazyky jako učebního kroku není podporou překladu každého zadání.
 
 Hodnocení je místo, kde se důkazy zostřují a sázky rostou. [[ai-scoring-language-bias-physics|Feser a Tschisgale (2026)]] porovnali jedenáct přístupů k automatizovanému skórování s odborným lidským skóre u fyzikálních výkladů 116 studentů středních škol a našli systematické podhodnocení pojmového porozumění u jazykově slabších výkladů, a to v každém jednotlivém přístupu. Design izoluje mechanismus: stejný pojmový obsah vyjádřený slabší prózou dostal nižší skóre. Není to tvrzení o vícejazyčných studentech žádné konkrétní země a je to přesně ten vzorec, který dělá z celkové shody špatnou diagnostiku. Hodnotitel může průměrně souhlasit s lidskými hodnotiteli a přitom se mýlit konzistentním směrem u studentů, jejichž jazyk se teprve vyvíjí.
 
-Syntéza [[multilingual-learning]] popisuje výzkum screeningu psaní, který ukazuje vícejazyčné vzorce prediktivní zaujatosti podobné lidským zaujatostem ve skórování. Přečtěte tři zjištění společně a operační lekce je úzká: ani „AI odstraňuje lidskou zaujatost“, ani „AI přidává jazykovou zaujatost“ není užitečné pravidlo. Potřebujete kontrolu úlohy, populace a jazyka v bodě, kde se skóre stává známkou.
+Syntéza [[multilingual-learning|vícejazyčného učení]] popisuje výzkum screeningu psaní, který ukazuje vícejazyčné vzorce prediktivní zaujatosti podobné lidským zaujatostem ve skórování. Přečtěte tři zjištění společně a operační lekce je úzká: ani „AI odstraňuje lidskou zaujatost“, ani „AI přidává jazykovou zaujatost“ není užitečné pravidlo. Potřebujete kontrolu úlohy, populace a jazyka v bodě, kde se skóre stává známkou.
 
 ## Dejte nástroji konkrétní podpůrnou roli
 
@@ -73,7 +73,7 @@ To jsou použití k pilotování, ne ověřené intervence. Nástroj, který fun
 
 ## Chraňte studentův význam a hlas
 
-Žádejte cílenou pomoc dřív než přepis, protože při celkovém přepisu studentovo myšlení opouští stránku. Žádost, kterou stojí za to učit: „Označ dvě místa, kde je můj význam nejasný. Vysvětli problém a nabídni možnosti. Nech moje příklady a nepřidávej tvrzení.“ Pak volí student.
+Žádejte cílenou pomoc dřív než přepis, protože při celkovém přepisu studentovo myšlení opouští koncept. Žádost, kterou stojí za to učit: „Označ dvě místa, kde je můj význam nejasný. Vysvětli problém a nabídni možnosti. Nech moje příklady a nepřidávej tvrzení.“ Pak volí student.
 
 Sled kroků, který nechává práci u studenta:
 

@@ -6,9 +6,9 @@ weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-updated: "2026-10-29T12:11:33-04:00"
+updated: "2026-11-15T16:27:26-05:00"
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ Podstatné je toto: technika promptovania je z toho najmenšia časť. Vysokošk
 
 ## Definujte kompetenciu skôr, než rezervujete miestnosť
 
-Syntéza [[ai-literacy|AI gramotnosti]] vo vedomostnej báze určuje štyri dimenzie a tie sú užitočnou agendou, pretože každá potrebuje iný druh sedenia:
+Syntéza [[ai-literacy|AI gramotnosti]] určuje štyri dimenzie a tie sú užitočnou agendou, pretože každá potrebuje iný druh sedenia:
 
 - **Základné porozumenie** schopnostiam a obmedzeniam AI.
 - **Praktickú kompetenciu** v používaní nástrojov AI.
@@ -54,6 +54,8 @@ Zoznam napíšte skôr, než naplánujete sedenia. Štyri dimenzie plus vyučova
 ## Hodnoťte výkon, nie sebadôveru
 
 [[self-report-measures|Samohlasovaná]] AI gramotnosť sa môže podstatne rozchádzať s preukázanou schopnosťou, čo je pre každého, kto vedie rozvoj pedagógov, najpraktickejšie varovanie v tejto literatúre. Dotazník sebadôvery na konci workshopu meria, ako workshop pôsobil.
+
+Prieskum sa dokonca dá predpovedať až príliš dobre. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] zaradili 314 z 315 vyučujúcich do pásiem kompetencie na základe 300-položkovej škály s α = 0,997 a bez faktorovej analýzy, pričom najväčším prispievateľom bola inštitucionálna príslušnosť — znak, že skóre sledovalo, kde ľudia pracujú, nie čo dokážu.
 
 Výskum [[agentic-ai|multiagentových]] pracovných postupov učiteľa pridáva druhý dôvod testovať a nie sa pýtať: systémové myslenie, pedagogické presvedčenia a [[self-efficacy|sebadôvera]] sa pri integrácii AI ovplyvňujú navzájom, takže to isté sedenie dopadne inak na dvoch učiteľov s tým istým predmetovým zázemím. To argumentuje za diferencované programovanie a proti workshopu jedného nástroja pre všetkých, ktorý väčšina inštitúcií robí.
 
@@ -103,7 +105,7 @@ Odborníci na obsah si integráciu vymyslia sami. Obsahové vedomosti v tom prie
 
 Jeden rámec pokryje všetkých. Štandard šiestich rolí existuje preto, že TPACK, SAMR a hlavné štandardy pre pedagógov pokrývajú učiteľov K-12 alebo len vyučovaciu dimenziu.
 
-Odpor je medzera vo vedomostiach, ktorú treba vyplniť. Vyhýbanie sa riziku negatívne predpovedalo zámer a práca s identitou opisuje učiteľov uvažujúcich z pedagogických hodnôt. Časť toho, čo vyzerá ako nechuť, je obhájiteľná pozícia o nadmernej závislosti študentov.
+Odpor je medzera vo vedomostiach, ktorú treba vyplniť. Vyhýbanie sa riziku negatívne predpovedalo zámer a [[learner-identity|práca s identitou]] opisuje učiteľov uvažujúcich z pedagogických hodnôt. Časť toho, čo vyzerá ako nechuť, je obhájiteľná pozícia o nadmernej závislosti študentov.
 
 ## Čo vám bude vracať
 

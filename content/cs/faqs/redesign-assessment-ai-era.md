@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-10-29T11:57:27-04:00"
+updated: "2026-11-15T16:21:59-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-10-28T10:45:41-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ Krátká odpověď: rozhodněte, **o čem** má být známka důkazem, zařaďte
 
 ## Rozhodněte, o čem je známka důkazem
 
-Začněte tím, že výslovně uvedete, kterou schopnost má známka zastupovat. Hodnotíte to, co student dokáže samostatně, co dokáže přiměřeně s AI, jeho schopnost AI posuzovat a vést, nebo nějakou kombinaci těchto věcí? [[assessment-validity|Validita hodnocení]] ve znalostní bázi to pojímá jako problém validity: vypilovaný artefakt už není dostatečným důkazem, že student disponuje schopností, kterou tento artefakt zjevně předvádí. Toto je hodnoticí polovina téhož argumentu; donucovací polovina je v [[reduce-ai-cheating]] a obecné rámování validity prostupuje [[evaluating-ai-interventions-methods]].
+Začněte tím, že výslovně uvedete, kterou schopnost má známka zastupovat. Hodnotíte to, co student dokáže samostatně, co dokáže přiměřeně s AI, jeho schopnost AI posuzovat a vést, nebo nějakou kombinaci těchto věcí? [[assessment-validity|Validita hodnocení]] to pojímá jako problém validity: vypilovaný artefakt už není dostatečným důkazem, že student disponuje schopností, kterou tento artefakt zjevně předvádí. Toto je hodnoticí polovina téhož argumentu; donucovací polovina je v [[reduce-ai-cheating]] a obecné rámování validity prostupuje [[evaluating-ai-interventions-methods]].
 
 Odpověď řekněte v sylabu, v zadání i v rubrice. Studenti čtou tři dokumenty a řídí se tím nejkonkrétnějším. „Použití AI je povoleno s uvedením“ není tvrzení o tom, co měříte, a studentovi nedává žádný způsob, jak zjistit, jestli povolené použití nepodkopává to, co známkujete.
 
@@ -70,7 +70,7 @@ Pokud odstavec se zdůvodněním, protokol revizí nebo reflexe zamítnutého n�
 
 ## Variabilita úloh pro jednotlivé studenty je podmíněná schopností, ne zdarma
 
-Jednou oblíbenou architekturou bez dohledu je **variabilita úloh pro jednotlivé studenty**, kdy každý zkoušený dostane povrchově odlišnou, ale konstruktově ekvivalentní verzi téže úlohy, takže odpovědi nelze užitečně sdílet. [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]], [[benchmark]] se 600 generovanými variantami napříč 60 buňkami podmínek, zjistila, že modely na špičkové úrovni se těsně shlukují ve skóre integrity (0,81-0,88), zatímco nešpičkové reference se propadají na 0,50-0,55, a že žádná jednotlivá strategie [[prompt-engineering|promptování]] neoptimalizuje povrchovou rozmanitost a konstruktovou ekvivalenci zároveň. Variabilitu ve velkém nelze předpokládat jen z promptování, takže instituce by měla ověřit svou vlastní dvojici modelu a promptu, než tuto záruku bude považovat za skutečnou.
+Jednou oblíbenou architekturou bez dohledu je **variabilita úloh pro jednotlivé studenty**, kdy každý zkoušený dostane povrchově odlišnou, ale konstruktově ekvivalentní verzi téže úlohy, takže odpovědi nelze užitečně sdílet. [[varia-construct-equivalent-assessment-variant-generation-2026|VARIA]], [[benchmark|benchmark]] se 600 generovanými variantami napříč 60 buňkami podmínek, zjistila, že modely na špičkové úrovni se těsně shlukují ve skóre integrity (0,81-0,88), zatímco nešpičkové reference se propadají na 0,50-0,55, a že žádná jednotlivá strategie [[prompt-engineering|promptování]] neoptimalizuje povrchovou rozmanitost a konstruktovou ekvivalenci zároveň. Variabilitu ve velkém nelze předpokládat jen z promptování, takže instituce by měla ověřit svou vlastní dvojici modelu a promptu, než tuto záruku bude považovat za skutečnou.
 
 Pro rozhodnutí na úrovni kurzu to znamená jeden test, než se zavážete: vygenerujte sadu variant z jedné ze svých vlastních úloh, nechte kolegu oznámkovat dvě z nich na stejnou schopnost a porovnejte. Pokud se známky na variantách rozcházejí, tvrzení o ekvivalenci pro vaši úlohu neplatí a ochrana proti sdíleným odpovědím je zaplacena nespravedlností.
 
@@ -86,7 +86,7 @@ V [[qualitative-research|kvalitativní]] studii 12 akademiků a 17 studentů na 
 
 **„Akreditace a schvalování programu se tak rychle nepohnou.“** Výše uvedená studie označuje dlouhé lhůty a omezení akreditace u velkých ročníků za ústřední tření. Jediný kurz může změnit to, co se děje v rámci stávajícího hodnocení, aniž by měnil jeho název, váhu nebo výsledky učení, a to obvykle stačí na začátek.
 
-**„Tohle znevýhodňuje úzkostné studenty a studenty s postižením.“** Může. Živé ústní složky vyžadují úpravy naplánované předem, volbu formátu tam, kde to konstrukt dovolí, a pozornost k jazykové odlišnosti a ke zkreslení hodnotitele. Ověřujte schopnost, ne podmínky předvedení.
+**„Tohle znevýhodňuje úzkostné studenty a [[inclusive-learning|studenty s postižením]].“** Může. Živé ústní složky vyžadují úpravy naplánované předem, volbu formátu tam, kde to konstrukt dovolí, a pozornost k jazykové odlišnosti a ke zkreslení hodnotitele. Ověřujte schopnost, ne podmínky předvedení.
 
 **„Měli bychom prostě koupit detektor.“** Výsledek o rozlišovací schopnosti mluví proti tomu, aby byl páteří návrhu: pokud falešně pozitivní případy rostou rychleji než skutečně pozitivní, silnější monitoring činí zatajování relativně přitažlivějším. Detekce může mít místo v reakci, která zároveň přepracovává úlohu, a tomuto argumentu se věnuje [[should-we-use-ai-detectors]].
 

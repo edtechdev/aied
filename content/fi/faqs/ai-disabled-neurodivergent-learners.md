@@ -9,9 +9,9 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:18:01-05:00"
 translation_of: faqs/ai-disabled-neurodivergent-learners
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 Mukautuskirjeessä on opiskelijan nimi, kurssi ja työkalu, josta et ole koskaan kuullut. Tai opiskelija on kysynyt kohtuullisesti, saako hän jatkaa puheesta tekstiksi -ohjelmansa käyttöä aikarajoitetussa kokeessa, ja kurssisi tekoälysääntö sanoo, ettei minkäänlaista tekoälyä saa käyttää. Tai saavutettavuustoimisto haluaa vastauksen perjantaihin mennessä siitä, lisensoidaanko lukutyökalu, ja myyjän näyttö on suositus toiselta kampukselta.
 
-Vastaus, joka kestää kaikki kolme: aloita esteestä, jonka tehtävä luo, käytä työkaluja, joita on todella mitattu, ja opeta se, minkä otat käyttöön. Kaksi sääntöä on tärkeämpää kuin mikään tuotevalinta. Nimeä litterointi ja OCR tekoälykäytännössäsi omiksi mukautuksikseen ja anna tehtävälle rakenne sen sijaan että pyydät opiskelijoita päättelemään sen. Ole selvänäköinen näytön suhteen: tämän sivun vahvin luku tulee PK-12-erityisopetuksen ympäristöistä, joissa käytettiin pääosin generatiivista edeltävää tekoälyä, ja korkeakoulukirjallisuus on kartta siitä, mitä on yritetty.
+Vastaus, joka kestää kaikki kolme: aloita esteestä, jonka tehtävä luo, käytä työkaluja, joita on todella mitattu, ja opeta se, minkä otat käyttöön. Kaksi sääntöä on tärkeämpää kuin mikään tuotevalinta. Nimeä litterointi ja OCR tekoälykäytännössäsi omiksi mukautuksikseen ja anna tehtävälle rakenne sen sijaan että pyydät opiskelijoita päättelemään sen. Ole selvänäköinen näytön suhteen: vahvin luku tulee PK-12-erityisopetuksen ympäristöistä, joissa käytettiin pääosin generatiivista edeltävää tekoälyä, ja korkeakoulukirjallisuus on kartta siitä, mitä on yritetty.
 
 ## Lyhyesti
 
@@ -51,11 +51,11 @@ Sama varoitus koskee ryhmätilastoja. [[differential-effects-across-learner-grou
 
 ## Käytä sitä, mitä on mitattu, ja lue merkintä
 
-Tämän sivun vahvin [[quantitative-research|määrällinen]] tulos on myös yleisin, ja se tulee rajoitusten kanssa, jotka sinun pitäisi kantaa ostopäätökseen.
+Vahvin [[quantitative-research|määrällinen]] tulos on myös yleisin, ja se tulee rajoitusten kanssa, jotka sinun pitäisi kantaa ostopäätökseen.
 
 [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang, Carter, Liu ja Peng (2024)]] syntetisoivat 29 (kvasikokeellista) tutkimusta tekoälypohjaisista interventioista [[inclusive-learning|opiskelijoille, joilla on vammoja]]: 239 vaikutuskokoa 41 riippumattomasta otoksesta, tilastollisesti merkitsevän keskisuuren kokonaisvaikutuksen oppimistuloksiin (Hedgesin g = 0,588, 95 %:n luottamusväli [0,349; 0,826], p < 0,01) ja suuren tutkimusten välisen heterogeenisuuden. Akateeminen suoriutuminen oli suurin tulosalaryhmä (k = 80, g = 0,929) ja sosioemotionaaliset taidot pienin (k = 144, g = 0,382). Tietokoneohjelmistot eli [[speech-and-voice-technologies|puheentunnistus]], asiantuntijajärjestelmät ja [[intelligent-tutoring|älykkäät ohjausjärjestelmät]] suoriutuivat vahvasti (k = 74, g = 0,959) ja [[educational-robotics|robotit]] kohtuullisesti (k = 144, g = 0,509), kun taas älykäs VR (g = 0,528) ei ollut merkitsevä. Julkaisuharhaa oli läsnä (Eggerin β = 2,837, p < 0,001); trim-and-fill-menetelmä pienensi estimaatin arvoon g = 0,269, joka oli edelleen merkitsevä.
 
-Jokainen tutkimus oli PK-12-tasolta. 96,6 % käytti vaihepohjaista opetusta erityisopetuksen tai kliinisissä ympäristöissä, ja useimmat käyttivät vanhempaa sääntöpohjaista tekoälyä eivätkä [[generative-ai|generatiivista tekoälyä]]. Tämä tukee jäsennellyn opetusohjelmiston varovaista käyttöönottoa. Se ei siirry yleistarkoitukselliseen chatbottiin, ja sen kohteleminen siirtyvänä on tämän sivun kallein mahdollinen virhe.
+Jokainen tutkimus oli PK-12-tasolta. 96,6 % käytti vaihepohjaista opetusta erityisopetuksen tai kliinisissä ympäristöissä, ja useimmat käyttivät vanhempaa sääntöpohjaista tekoälyä eivätkä [[generative-ai|generatiivista tekoälyä]]. Tämä tukee jäsennellyn opetusohjelmiston varovaista käyttöönottoa. Se ei siirry yleistarkoitukselliseen chatbottiin, ja sen kohteleminen siirtyvänä on kallein mahdollinen virhe.
 
 Kolme pienempää tulosta näyttävät, mitä yksi työkalu voi tehdä, kun este on kapea. Jokainen testattiin kourallisella oppijoita, joten kohtele niitä halpoina peruutettavina kokeina äläkä infrastruktuurina.
 
@@ -92,11 +92,11 @@ Sitä, mitä sivu ei voi antaa, on koulutusprotokolla. Ei ole olemassa virallisi
 
 Siksi ”ei tekoälyä” -muotoon kirjoitettu sääntö voi viedä opiskelijalta hänen ensisijaisen keinonsa tuottaa luettavaa työtä. Kukaan ei ole vielä mitannut tämän syrjäyttämisen laajuutta, mikä on syy olla nimenomainen eikä odottaa lukua. Nimeä litterointi ja OCR mukautuksiksi käytännössä luonnostelukiellon rinnalle, jotta kaksi kysymystä päätetään erikseen. Riski, jonka tämä luo oppilaitokselle, kuuluu sivulle [[legal-issues-and-risks|oikeudelliset kysymykset ja riskit]].
 
-Tämä on useimmissa asiakirjoissa yhden rivin korjaus, ja se on tämän sivun seurauksiltaan painavin rivi.
+Tämä on useimmissa asiakirjoissa yhden rivin korjaus, ja se on käytännön seurauksiltaan painavin rivi.
 
 ## Anna rakenne siihen, mitä tehtävä olettaa
 
-Rakenne on tämän sivun halvin interventio ja se, joka useimmin jää pois suunnitelmasta. [[neurodivergent-computing-students|Zastudil ym. (2026)]] kartoittivat 24 neurodivergenttiä tietojenkäsittelyn opiskelijaa (autistisia ja/tai joilla oli ADHD) ja 20 neurotyypillistä vertaista sekä neljä seurantahaastattelua. Neurodivergentti ryhmä oli epämukava jäsentämättömien tai monitulkintaisten tehtävien kanssa ja suosi vahvasti pienempiä tiimejä, jotka työskentelevät johdonmukaisesti yhdessä ja joilla on nimenomaisesti määritellyt roolit; he selviytyivät valitsemalla roolinsa itse ja kertomalla tilanteestaan harkiten.
+Rakenne on halvin interventio täällä ja se, joka useimmin jää pois suunnitelmasta. [[neurodivergent-computing-students|Zastudil ym. (2026)]] kartoittivat 24 neurodivergenttiä tietojenkäsittelyn opiskelijaa (autistisia ja/tai joilla oli ADHD) ja 20 neurotyypillistä vertaista sekä neljä seurantahaastattelua. Neurodivergentti ryhmä oli epämukava jäsentämättömien tai monitulkintaisten tehtävien kanssa ja suosi vahvasti pienempiä tiimejä, jotka työskentelevät johdonmukaisesti yhdessä ja joilla on nimenomaisesti määritellyt roolit; he selviytyivät valitsemalla roolinsa itse ja kertomalla tilanteestaan harkiten.
 
 Kyse on mieltymyksiä koskevasta datasta eikä vaikutustutkimuksesta, ja se on myös suunnitteluohje, jonka opiskelijat kirjoittivat itse itselleen. [[agentic-ai|Tekoälyn]] välittämä työ kantaa riskistä erityisversion, koska työkalun vuorovaikutusmalli voi toistaa saman rakenteellisen monitulkintaisuuden, joka tehtävässä jo oli. Tarkista, mitä työkalu pyytää opiskelijaa päättämään yksin, ennen kuin lisäät sen tehtävään.
 
@@ -134,7 +134,7 @@ Työkalu kantaa tuen, ja opetus on ylimääräistä. Oikeuskäytäntö pitää o
 
 ## Mitä sinulle esitetään vastaan
 
-**”Emme voi vaatia työkalua kaikille.”** Kun työkalu on suunnitteluominaisuus, sen vaatiminen on juuri se ydin. Videosegmentointi kiintein tauoin paransi kaikkia oppijoita ja toi ADHD-osallistujien virheet ja epäröinnit samalle tasolle, ja se on se universaalin suunnittelun tulos, joka poistaa tarpeen kertoa itsestään. Saavutettavat oletusasetukset kantavat saman logiikan: ääneen lukeminen, OCR ja tekstin yksinkertaistavat työkalut toistuvat Shinin ym. validoiduissa käytäntökohdissa. Heidän aineistonsa näyttää myös, miten pitkä matka käytännöllä on: vain 2 niistä 12 asiakirjasta käsittelee nimenomaisesti oppimisvaikeuksia, kun taas 18 aihetta, jotka ovat läsnä yleisessä tekoäly- tai muun vamman käytännössä, mukaan lukien [[privacy|tietosuoja]], oikeudellisten riskien hallinta ja eettiset ohjeet, puuttuvat erityisten oppimisvaikeuksien käytännöstä.
+**”Emme voi vaatia työkalua kaikille.”** Kun työkalu on suunnitteluominaisuus, sen vaatiminen on juuri se ydin. Videosegmentointi kiintein tauoin paransi kaikkia oppijoita ja toi ADHD-osallistujien virheet ja epäröinnit samalle tasolle, ja se on se universaalin suunnittelun tulos, joka poistaa tarpeen kertoa itsestään. Saavutettavat oletusasetukset kantavat saman logiikan: ääneen lukeminen, OCR ja tekstin yksinkertaistavat työkalut toistuvat Shinin ym. validoiduissa käytäntökohdissa. Heidän asiakirjakokoelmansa näyttää myös, miten pitkä matka käytännöllä on: vain 2 niistä 12 asiakirjasta käsittelee nimenomaisesti oppimisvaikeuksia, kun taas 18 aihetta, jotka ovat läsnä yleisessä tekoäly- tai muun vamman käytännössä, mukaan lukien [[privacy|tietosuoja]], oikeudellisten riskien hallinta ja eettiset ohjeet, puuttuvat erityisten oppimisvaikeuksien käytännöstä.
 
 **”Tekstitys ja kääntäminen eivät ole [[student-support-and-success|akateemista tukea]].”** Tekstitys on alku, ei koko kielellinen saavutettavuus. Chenin ym. visuaaliset ja tunnekysymykset ovat olemassa siksi, että pelkkä litteraatti jättää kuuron oppijan rakentamaan uudelleen kontekstia, jota video ei koskaan sanonut. Myöskään käytäntöasiantuntijoiden järjestys ei tue vastalausetta. Heidän 36 validoitua kohtaansa jakautuvat viidelle teemalle: osallistava ja [[personalized-learning|personoitu oppiminen]] on suurin 11 kohdalla (30,56 %), [[ethics|etiikka]], tasa-arvo ja inkluusio 9 kohdalla (25,00 %) ja opettajien valmennus 4 kohdalla (11,11 %), silti asiantuntijat arvioivat opiskelijoiden voimaantumisen ja tekoälylukutaidon viidestä olennaisimmiksi, 6 kohdalla (16,67 %), samalle tasolle arvioinnin ja tutkimuksen kanssa.
 

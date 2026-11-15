@@ -8,9 +8,9 @@ foundations: [ai-education]
 technology: [generative-ai, intelligent-tutoring]
 ethics: [bias-mitigation, equity-in-ai-education, privacy, inclusive-learning]
 audience: [instructors, administrators, software developers, researchers]
-updated: "2026-11-08T04:27:04-05:00"
+updated: "2026-11-15T16:17:19-05:00"
 translation_of: "faqs/ai-bias-fairness-education"
-source_updated: "2026-11-06T02:15:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
 
-Părtinirea și nedreptatea în IA educațională nu sunt o singură problemă. Cercetarea din această bază de cunoștințe documentează părtinirea intrând în aproape fiecare etapă a vieții unui sistem — date de antrenare, comportamentul modelului, [[prompt-engineering|prompturi]], scorare, feedback, decizii de alocare și infrastructura de dedesubt — și îi afectează pe profesori, dezvoltatori, cercetători și administratori în moduri diferite. Tiparul din toate acestea este suficient de consecvent pentru a-l spune direct: cere numere pe subgrupuri, nu medii; definește „defavorizat” prin rezultate, nu prin mărimea grupului; și tratează echitatea ca pe ceva ce proiectezi și auditezi, nu ca pe ceva ce adaugi după aceea.
+Părtinirea și nedreptatea în IA educațională nu sunt o singură problemă. Cercetarea documentează părtinirea intrând în aproape fiecare etapă a vieții unui sistem — date de antrenare, comportamentul modelului, [[prompt-engineering|prompturi]], scorare, feedback, decizii de alocare și infrastructura de dedesubt — și îi afectează pe profesori, dezvoltatori, cercetători și administratori în moduri diferite. Tiparul din toate acestea este suficient de consecvent pentru a-l spune direct: cere numere pe subgrupuri, nu medii; definește „defavorizat” prin rezultate, nu prin mărimea grupului; și tratează echitatea ca pe ceva ce proiectezi și auditezi, nu ca pe ceva ce adaugi după aceea.
 
 ## Unde apar părtinirea și nedreptatea
 

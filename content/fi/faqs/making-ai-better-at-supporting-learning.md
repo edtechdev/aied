@@ -14,9 +14,9 @@ discipline: [writing education]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T14:13:23-04:00"
+updated: "2026-11-15T16:26:45-05:00"
 translation_of: faqs/making-ai-better-at-supporting-learning
-source_updated: "2026-10-28T11:21:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 Tiketti sanoo ”hienosäädä malli kurssimateriaaleillamme”. Budjetti on hyväksytty, GPU on varattu ensi kuulle ja jatko-opiskelijaa on pyydetty kokoamaan aineisto. Kukaan puhelussa ei ole kysynyt, mitä pelkkä kehote saa pisteiksi tai mitä avainsanahaku saa pisteiksi samoihin kysymyksiin.
 
-Kysy nuo kaksi kysymystä ensin. Tässä tietopohjassa yleisen mallin ja kurssikyvykkään mallin välinen ero on enimmäkseen maadoituksen ja kehotteistuksen ongelma, ja näyttö tuosta järjestyksestä on poikkeuksellisen suoraa: kurssiavustajatutkimuksessa tiedonhaku, ei malli, oli ensimmäisen asteen päätös, ja yleinen malli ilman maadoitusta sai pisteitä *alle* yksinkertaisen TF-IDF-vertailutason.
+Kysy nuo kaksi kysymystä ensin. Yleisen mallin ja kurssikyvykkään mallin välinen ero on enimmäkseen maadoituksen ja kehotteistuksen ongelma, ja näyttö tuosta järjestyksestä on poikkeuksellisen suoraa: kurssiavustajatutkimuksessa tiedonhaku, ei malli, oli ensimmäisen asteen päätös, ja yleinen malli ilman maadoitusta sai pisteitä *alle* yksinkertaisen TF-IDF-vertailutason.
 
 Kouluttaminen on todellista ja joskus tarpeellista. Se on kolmas tai neljäs asia, jota kannattaa kokeilla, ja alla oleva työ on järjestetty niin, että saat selville, minkä askelman todella tarvitset, ennen kuin kulutat vuosineljänneksen laskentabudjetin.
 
@@ -52,7 +52,7 @@ Kouluttaminen on todellista ja joskus tarpeellista. Se on kolmas tai neljäs asi
 
 Ennen kuin muutat mitään, kirjaa, mitä pelkkä kehote palauttaa. Kirjaa sitten, mitä triviaali menetelmä palauttaa.
 
-[[shen-sustainable-ai-knowledge-base-cs-education-2026|Kurssitietopohjan avustajan]] tutkimus on jo yksinään lukemisen arvoinen. Paikallinen LLM ilman tiedonhakua ylsi **52,3 %:n** tarkkuuteen. TF-IDF-vertailutaso, vuosikymmeniä vanha leksikaalinen menetelmä, ylsi **55,4 %:iin**. Malli oli huonompi kuin klassinen menetelmä.
+[[shen-sustainable-ai-knowledge-base-cs-education-2026|Kurssitietopohjan avustajan]] tutkimus on jo yksinään lukemisen arvoinen. Paikallinen [[llm|LLM]] ilman tiedonhakua ylsi **52,3 %:n** tarkkuuteen. TF-IDF-vertailutaso, vuosikymmeniä vanha leksikaalinen menetelmä, ylsi **55,4 %:iin**. Malli oli huonompi kuin klassinen menetelmä.
 
 Jos ohitat tämän vaiheen, et voi tietää, auttoiko hienosäätösi. Pahempaa: voit julkaista järjestelmän, jonka avainsanahaku voittaa, ja saada sen tietää vasta kun opetusassistentti mainitsee siitä. Kaksi lukua laskentataulukossa, iltapäivässä otettuna, suojaavat loppubudjetin.
 
@@ -60,16 +60,16 @@ Jos ohitat tämän vaiheen, et voi tietää, auttoiko hienosäätösi. Pahempaa:
 
 [[rag|Tiedonhaulla laajennetun generaation]] lisääminen kurssimateriaalien päälle ilman mitään hienosäätöä nosti saman järjestelmän 52,3 %:sta **66,6 %:iin**. Hyöty tuli hakemistosta, ja siihen liittyy ominaisuus, jota koulutusajo ei tarjoa: kun asiakirjasi muuttuvat, indeksoit uudelleen.
 
-Kaksi muuta tulosta osoittavat samaan suuntaan. PRISMA-katsaus 23 empiirisestä tutkimuksesta tekoälyn räätälöinnistä [[writing-education|kirjoitusopetukseen]] osoitti **kehotteistuksen hallitsevaksi (N = 13), hienosäädön edellä (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Siellä, missä tietopohjan on pysyttävä ajan tasalla, tiedonhaku on ainoa vipu, joka pysyy ajan tasalla ilman koulutusajon uudelleenajoa.
+Kaksi muuta tulosta osoittavat samaan suuntaan. [[meta-analysis-systematic-review|PRISMA-katsaus]] 23 empiirisestä tutkimuksesta tekoälyn räätälöinnistä [[writing-education|kirjoitusopetukseen]] osoitti **[[prompt-engineering|kehotteistuksen]] hallitsevaksi (N = 13), hienosäädön edellä (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Siellä, missä tietopohjan on pysyttävä ajan tasalla, tiedonhaku on ainoa vipu, joka pysyy ajan tasalla ilman koulutusajon uudelleenajoa.
 
-Tiedonhaulla on myös pedagoginen muoto. Mallin maadoittaminen omiin malliesimerkkeihisi ja arviointimatriiseihisi on se, miten se pysyy suunnittelemasi [[scaffolding|tukemisen]] sisällä ja vastaa asettamallasi tasolla ajautumatta yleisiin neuvoihin. Tuo ajautuminen on yleisin valmiiden tuutoreiden valitus, ja se on useammin tiedonhaun ongelma kuin painojen ongelma.
+Tiedonhaulla on myös [[pedagogy|pedagoginen]] muoto. Mallin maadoittaminen omiin malliesimerkkeihisi ja arviointimatriiseihisi on se, miten se pysyy suunnittelemasi [[scaffolding|tukemisen]] sisällä ja vastaa asettamallasi tasolla ajautumatta yleisiin neuvoihin. Tuo ajautuminen on yleisin valmiiden tuutoreiden valitus, ja se on useammin tiedonhaun ongelma kuin painojen ongelma.
 
 ## Kirjoita kehote arviointimatriisiasi vasten ja seuraa tasannetta
 
 Kehotetyö ei ole alkutyö, jota tehdään GPU:ta odotellessa. Kaksi tulosta osoittaa, mitä sillä saavutetaan yksin:
 
 - **Arviointimatriisin ohjaama kehotteistus, jota hiottiin iteratiivisesti yhdessä, nosti LLM:n ja ihmisen yksimielisyyden opiskelijoiden suunnittelutyöstä 54,75 %:sta 81,25 %:iin** (Cronbachin alfa 0,393:sta 0,798:aan) ilman mitään hienosäätöä ([[yasar-llms-iterative-pedagogical-design-2026]]).
-- Kirjallisuuteen nojaava räätälöity kehote nosti tavoiteltujen matemaattisten [[misconceptions|väärinkäsitysten]] esiintymisen **0,98:aan**, kun laaja kehote sai **0,40** ([[zhuang-zhang-chatgpt-math-teacher-education-2026]]).
+- Kirjallisuuteen nojaava räätälöity kehote nosti tavoiteltujen matemaattisten [[misconceptions|väärinkäsitysten]] esiintymisen **0,98:aan**, kun laaja kehote sai **0,40** ([[zhuang-zhang-chatgpt-math-teacher-education-2026|Zhuang ym., 2025]]).
 
 Käytännön signaali on **tasanne**. Kohdetehtävien tuottamista koskevassa tutkimuksessa iteratiivinen kehotteen hienosäätö lakkasi parantamasta, ja GPT-4.1:n hienosäätö *optimoidulla kehotteella* lisäsi jäljellä olevan hyödyn ([[gpt-item-generation-l2-listening-2026]]). Tosissaan tehdyn kehotetyön jälkeen saavutettu tasanne on näyttöä siitä, että kouluttamisella on tilaa lisätä jotain. Kouluttamiseen tarttuminen ennen tasanteen saavuttamista on arvailua, ja arvailu maksaa kuukauden.
 
@@ -79,9 +79,9 @@ Huomaa, mitä kohdetehtävien tulos merkitsee järjestyksen kannalta. Hienosää
 
 Mukauttaminen kannattaa, kun tarvitset mallin pitämään ominaisuuden luotettavasti: luettavuustason, tuotosformaatin, alan, jota siltä puuttuu. Toistuva tulos on, että **kohdentaminen voittaa koon**.
 
-- Kolme **8B**-mallia, jotka hienosäädettiin asiantuntijoiden suunnittelemalla lasten lukemisohjelmalla, päihittivät nollakutsu-GPT-4o:n ja Llama 3.3 70B:n vaikeustasoon liittyvillä mittareilla, ja turvallisuusongelmat olivat vähäisiä. Kirjoittajat kehystävät tämän **hallittavuudeksi skaalan sijaan** ([[llm-children-reading-story-generation]]).
+- Kolme **8B**-mallia, jotka hienosäädettiin asiantuntijoiden suunnittelemalla lasten lukemis[[curriculum-design|opetussuunnitelmalla]], päihittivät nollakutsu-GPT-4o:n ja Llama 3.3 70B:n vaikeustasoon liittyvillä mittareilla, ja turvallisuusongelmat olivat vähäisiä. Kirjoittajat kehystävät tämän **hallittavuudeksi skaalan sijaan** ([[llm-children-reading-story-generation]]).
 - **24 795 esimerkin** ohjausaineisto, joka maadoitettiin intialaisiin tietojärjestelmiin, tuotti **7B**-hienosäädön, joka sai **6,39** viiden arvioijan ulkoiselta paneelilta eli **0,15** sisään vahvasta yleisestä vertailumallista murto-osalla käyttöönottokustannuksista. Sama perusmalli sai **lähes nollan alakohtaisilla ulottuvuuksilla** ilman hienosäätöä ([[iks-instruct-dataset-indian-knowledge]]). Tuo ero yleisesti pätevän ja tässä pätevän välillä on koko perustelu alakohtaiselle mukauttamiselle.
-- Yksi [[llm-training-and-fine-tuning|LoRA]]-sovitin, joka koulutettiin noin **3 900** yhdistetyllä arvioidulla esimerkillä, nosti viisi pientä avointa mallia (4B:stä 30B:hen) samaan tai parempaan tasoon ihmisarvioijan kanssa kahdessa tietojenkäsittelytieteen tentissä ([[llm-graders-computer-science-exams-2026]]). Yksi sovitin, yksi aineisto, useita perusmalleja: se on käyttöönoton muoto, jonka pieni tiimi voi toteuttaa.
+- Yksi [[llm-training-and-fine-tuning|LoRA]]-sovitin, joka koulutettiin noin **3 900** yhdistetyllä arvioidulla esimerkillä, nosti viisi pientä [[open-source|avointa mallia]] (4B:stä 30B:hen) samaan tai parempaan tasoon ihmisarvioijan kanssa kahdessa tietojenkäsittelytieteen tentissä ([[llm-graders-computer-science-exams-2026]]). Yksi sovitin, yksi aineisto, useita perusmalleja: se on käyttöönoton muoto, jonka pieni tiimi voi toteuttaa.
 
 Sana *vakaa* otsikossa kantaa painon. Formaatti, arviointimatriisi, luettavuustaso ja alan sanasto ovat vakaita tavoitteita. Harkintaa täynnä olevalla proosalla ei ole sellaista tavoitetta, ja siinä mukauttaminen epäonnistuu, kuten seuraavat kaksi jaksoa osoittavat.
 
@@ -89,7 +89,7 @@ Sana *vakaa* otsikossa kantaa painon. Formaatti, arviointimatriisi, luettavuusta
 
 Mukauttaminen opettaa mallille, *mitä tuottaa*. Jälkikoulutus opettaa sille, *miten käyttäytyä*. Tuutoroinnissa tuo ero on koko ongelma: yleiset mallit on jälkikoulutettu ihmisten mieltymyksellä avuliaisuuteen, mikä tarkoittaa nopeaa vastaamista, ja opettaminen edellyttää vastauksen pidättämistä.
 
-Tämän tietopohjan vahvimmat koulutukselliset tulokset ovat täällä. EduQwenin palkkiomalli asetti eksplisiittisesti **ohjaavat vastaukset suorien vastausten edelle**, ja sen kolmivaiheinen putki ylsi **96,52 %:iin** CDPK-vertailumittarissa Gemini-3 Pron **90,55 %:a** vastaan ([[singh-eduqwen-pedagogical-rl-2026]]). SWIMin kirjoitussimulaattori eteni arviointimatriisiin nojaavasta kehotteistuksesta (paras QWK **0,577**) ohjattuun hienosäätöön (**0,474 ± 0,023**) ja vahvistusoppimiseen (**0,618 ± 0,005**) jokaisella piirteellä ja kehotteella ([[swim-student-writing-simulation-2026]]).
+Vahvimmat koulutukselliset tulokset tulevat tältä portaalta. EduQwenin palkkiomalli asetti eksplisiittisesti **ohjaavat vastaukset suorien vastausten edelle**, ja sen kolmivaiheinen putki ylsi **96,52 %:iin** CDPK-vertailumittarissa Gemini-3 Pron **90,55 %:a** vastaan ([[singh-eduqwen-pedagogical-rl-2026]]). SWIMin [[simulation|kirjoitussimulaattori]] eteni arviointimatriisiin nojaavasta kehotteistuksesta (paras QWK **0,577**) ohjattuun hienosäätöön (**0,474 ± 0,023**) ja [[reinforcement-learning|vahvistusoppimiseen]] (**0,618 ± 0,005**) jokaisella piirteellä ja kehotteella ([[swim-student-writing-simulation-2026]]).
 
 Lue SWIMin luvut huolellisesti, koska keskimmäinen askel meni taaksepäin. Demonstraatioilla tehty ohjattu hienosäätö teki simulaattorista huonomman kuin kehote, josta se lähti, ja vain palkkiosignaali palautti menetyksen ja päihitti sitten vertailutason. Jos suunnitelmasi pysähtyy ohjattuun hienosäätöön, suunnitelma voi olla harhapolku.
 
@@ -109,7 +109,7 @@ Tämä on se osa, jonka innostus ohittaa.
 
 **Arkkitehtuuri parametrimäärän edellä.** Kolmen avoimen teksti-kuva-mallin hienosäätö 1 000 kuvitetulla ydintekniikan kuvalla paransi Stable Diffusion XL:ää merkittävästi, antoi rajallista hyötyä SD-v3.5-Mediumille eikä tuottanut lainkaan mitattavaa parannusta Flux.1:lle ([[nuclear-diffusion-text-to-image-learning-2026]]).
 
-**Ongelma oli validointi.** Huippuluokan kouluttamaton GPT-4 tuotti noin **35 %** liian yleisiä, virheellisiä tai vastauksen paljastavia vihjeitä laatiessaan tuutorointipalautetta, ja sen omat automaattiset laaduntarkistukset olivat eri mieltä ihmisen harkinnan kanssa ([[reddig-maclellan-personalized-feedback-llm-2026]]). Se on suodatusongelma, eikä LoRA ratkaise sitä.
+**Ongelma oli validointi.** Huippuluokan kouluttamaton GPT-4 tuotti noin **35 %** liian yleisiä, virheellisiä tai vastauksen paljastavia vihjeitä laatiessaan tuutorointipalautetta, ja sen omat automaattiset laaduntarkistukset olivat eri mieltä ihmisen harkinnan kanssa ([[reddig-maclellan-personalized-feedback-llm-2026|Reddig ym., 2025]]). Se on suodatusongelma, eikä LoRA ratkaise sitä.
 
 Kuvio kaikissa neljässä: mukauttaminen siirtää mallia luotettavasti kohti tavoitetta, jonka voit määritellä ja pisteyttää. Se ei lisää harkintaa, ja putki, josta puuttuu tarkistus, julkaisee silti huonoa tuotosta.
 
@@ -125,7 +125,7 @@ Kustannus, joka on helppo aliarvioida, on arviointi, ja se on suurempi kuin lask
 
 ## Kalibroi odotuksesi
 
-Mallin ja kehotteen valinta yhdessä selittävät vain noin **15 %** LLM:ien ja opiskelijoiden oppimistulosten välisestä epäsuhdasta, ja tuossa tutkimuksessa vertailumittarien painotus ja yksimieliseen äänestykseen perustuvat yhdistelmät tekivät kohdistuksesta *huonompaa* ([[educational-llm-alignment]]). Esikoulutusdata on hallitseva vipu siihen, miten malli käyttäytyy, ja se on ainoa vipu, jota et voi vetää.
+Mallin ja kehotteen valinta yhdessä selittävät vain noin **15 %** LLM:ien ja opiskelijoiden [[learning-gains|oppimistulosten]] välisestä epäsuhdasta, ja tuossa tutkimuksessa vertailumittarien painotus ja yksimieliseen äänestykseen perustuvat yhdistelmät tekivät kohdistuksesta *huonompaa* ([[educational-llm-alignment]]). Esikoulutusdata on hallitseva vipu siihen, miten malli käyttäytyy, ja se on ainoa vipu, jota et voi vetää.
 
 Mikään tuosta ei argumentoi yllä olevaa työtä vastaan. Se argumentoi sitä vastaan, että hienosäädön odotettaisiin korjaavan suunnitteluongelman. Jos ongelma on, että tuutorisi vastaa liian helposti, kouluttaminen voi auttaa. Jos ongelma on, että oppijasi eivät sitoudu siihen, kouluttaminen ei auta, ja 15 %:n luku sanoo, että raha on parempi käyttää muualla.
 
@@ -153,7 +153,7 @@ Ohjattu hienosäätö on turvallinen välivaihe ennen vahvistusoppimista. SWIMis
 
 **”Yritimme kehotteistusta ja se tasoittui, joten tarvitsemme kouluttamista.”** Se on oikea tulkinta, ja se on ainoa tapaus, jossa kiipeäminen on perusteltua. Vie optimoitu kehote hienosäätöön kuten kohdetehtävien tiimi teki, ja odota hyödyn olevan pienempi kuin kehotetyön.
 
-**”Kurssimateraalimme ovat epäjohdonmukaisia, joten tiedonhaku palauttaa roskaa.”** Palauttaa, ja tiedonhaku perii korpuksen laadun. Korpuksen siivoaminen on halvempaa kuin mallin kouluttaminen kiertämään sitä, ja hyöty 52,3 %:sta 66,6 %:iin mitattiin tavallisilla kurssimateriaaleilla eikä kuratoidulla joukolla.
+**”Kurssimateraalimme ovat epäjohdonmukaisia, joten tiedonhaku palauttaa roskaa.”** Palauttaa, ja tiedonhaku perii aineiston laadun. Aineiston siivoaminen on halvempaa kuin mallin kouluttaminen kiertämään sitä, ja hyöty 52,3 %:sta 66,6 %:iin mitattiin tavallisilla kurssimateriaaleilla eikä kuratoidulla joukolla.
 
 ## Mitä tehdä tällä viikolla
 

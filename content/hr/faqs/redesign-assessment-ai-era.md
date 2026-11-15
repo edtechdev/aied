@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-10-29T14:24:49-04:00"
+updated: "2026-11-15T16:19:33-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-10-28T10:45:41-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -86,7 +86,7 @@ Svrha je jednako važna kao mehanika. [[ai-agents-joyful-assessment-third-space-
 
 **„Akreditacija i odobrenje programa neće se kretati tako brzo.“** Gore navedena studija imenuje duge pripremne rokove i ograničenja akreditacije za velike generacije kao središnje trenje. Pojedini kolegij može promijeniti ono što se događa unutar postojećeg vrednovanja, a da ne mijenja njegov naziv, težinu ni ishode učenja, i to je obično dovoljno za početak.
 
-**„Ovo kažnjava anksiozne studente i studente s invaliditetom.“** Može. Usmene komponente uživo traže prilagodbe planirane unaprijed, izbor formata gdje konstrukt to dopušta i pozornost na jezične razlike i pristranost procjenjivača. Provjerite sposobnost, a ne uvjete izvedbe.
+**„Ovo kažnjava anksiozne studente i [[inclusive-learning|studente s invaliditetom]].“** Može. Usmene komponente uživo traže prilagodbe planirane unaprijed, izbor formata gdje konstrukt to dopušta i pozornost na jezične razlike i pristranost procjenjivača. Provjerite sposobnost, a ne uvjete izvedbe.
 
 **„Trebamo jednostavno kupiti detektor.“** Rezultat o razlučivanju govori protiv toga da bude okosnica dizajna: ako lažno pozitivni rastu brže od stvarno pozitivnih, jači nadzor čini prikrivanje relativno privlačnijim. Otkrivanje može imati mjesto u odgovoru koji ujedno redizajnira zadatak, a [[should-we-use-ai-detectors|trebamo li rabiti detektore umjetne inteligencije]] pokriva taj argument.
 

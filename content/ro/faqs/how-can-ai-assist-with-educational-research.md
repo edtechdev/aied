@@ -14,9 +14,9 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:26:08-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ Răspunsul scurt pentru acea ședință: IA poate prelua căutarea, o primă run
 
 **5.** Verifică fiecare referință de mână, autorii primii, ori de câte ori IA a atins textul.
 
-**6.** Jurnalizează prompturile, versiunile modelului și versiunile corpusului și bugetează orele pentru asta.
+**6.** Jurnalizează prompturile, versiunile modelului și versiunile setului de date și bugetează orele pentru asta.
 
 ## Decide ce poate atinge IA înainte să înceapă proiectul
 
@@ -65,7 +65,6 @@ Cea mai mare parte a beneficiului vine din două decizii de proiectare. Scrie re
 Delegarea poate fi mai fină decât tot-sau-nimic. [[agreement-not-quality-llm-coding-verification|Un studiu de verificare orb]] a clasificat 15 din 72 de itemi ai cărții de coduri ca necesitând în mod demonstrabil expertiză umană, 12 ca deserviți mai bine de un model și 16 ca potriviți pentru triere bazată pe încredere. Sortează-ți propriii itemi astfel și economisirea de muncă ajunge acolo unde este sigură.
 
 Modelarea temelor poate extinde acea structură fără a prelua interpretarea. [[ober-prompt-engineering-interview-transcripts-2026|Ober, Courey și Flor (2026)]] au combinat codarea fundamentată, încorporările SentenceBERT grupate cu Affinity Propagation și etichetarea cu GPT-4 pe șase focus-grupuri cu 13 profesori. Revizuirea umană a eliminat 18 grupuri de comunicare și 16 grupuri de alfabetizare digitală care erau umplutură conversațională, lăsând 14 și 16 grupuri semnificative; ChatGPT-4o și Copilot au fost de acord asupra a 33,3% și 43,8% dintre etichete, cu similaritate cosinus 0,835–0,880, iar revizuirea umană nu a găsit halucinații clare. Studiul este un pipeline demonstrativ, nu o comparație: nu are un braț doar uman sau doar IA, iar 13 profesori nu pot stabili generalizabilitatea. Folosește-l ca să vezi împărțirea muncii, nu ca dovadă că hibridul bate alternativele.
-
 
 ## Decide ce înseamnă verificare și cine o semnează
 
@@ -89,13 +88,13 @@ Eșecul este concret. În [[zhang-platform-scores-miss-ai-teaching-agents-2026|o
 
 Adoptarea a luat-o înaintea raportării. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta și Lin (2026)]] au analizat 888 de lucrări despre automatizarea recenziilor: din 2023, 38,0% dintre lucrările despre software și produse nu raportau nicio evaluare, față de 9,3% dintre lucrările despre LLM, iar accesul la model era covârșitor proprietar (84,1%). Nici o evaluare generală favorabilă nu implica potrivirea pentru delegare, pentru că 52% din 118 lucrări despre LLM cu rezultate doar pozitive raportau totuși o îngrijorare că fluxul de lucru era sub nivelul cerut de rolul lui. Cadrul lor [[meta-analysis-systematic-review|PRISMA]]-LLM separă divulgarea implementării de evaluarea sensibilă la consecințe și tratează cele cinci niveluri ale sale ca niveluri de divulgare, nu ca niveluri de risc.
 
-Versiunea practică: numește sistemul și versiunea lui, prompturile, versiunea corpusului, ce a verificat un om și unde a eșuat. Păstrează jurnale de prompturi și răspunsuri, pentru că o listă fluentă de teme generate pare inevitabilă cu mult înainte ca munca ei de probă să fi început ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
+Versiunea practică: numește sistemul și versiunea lui, prompturile, versiunea setului de date, ce a verificat un om și unde a eșuat. Păstrează jurnale de prompturi și răspunsuri, pentru că o listă fluentă de teme generate pare inevitabilă cu mult înainte ca munca ei de probă să fi început ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
 Bugetează și orele. [[persistent-ai-agents-academic-research|Un studiu de caz de 115 zile cu un singur investigator]] despre un agent de cercetare persistent a constatat că tiparul cel mai puternic era extinderea capacității, nu substituirea dovedită a muncii: pe măsură ce memoria și procedurile se acumulau, scopul muncii delegate creștea, iar contribuția omului nu se micșora.
 
 ## Rulează investigația practicianului cu aceleași reguli, la scară mai mică
 
-Dacă ești lector care își studiază propriul curs, lucrezi în firul cel mai subțire al corpusului. [[ai-assisted-educational-research|Cercetarea educațională asistată de IA]] declară asta ca un gol, nu ca o constatare: investigația practicianului asistată de IA este plauzibil răspândită și aproape nedocumentată, iar dovezile despre automatizarea recenziilor și cele bibliometrice nu lămuresc cum ar trebui un lector să își studieze propria predare.
+Dacă ești lector care își studiază propriul curs, lucrezi în firul cel mai puțin studiat al acestei literaturi. [[ai-assisted-educational-research|Cercetarea educațională asistată de IA]] declară asta ca un gol, nu ca o constatare: investigația practicianului asistată de IA este plauzibil răspândită și aproape nedocumentată, iar dovezile despre automatizarea recenziilor și cele bibliometrice nu lămuresc cum ar trebui un lector să își studieze propria predare.
 
 Ce se transferă este un set de dispoziții:
 

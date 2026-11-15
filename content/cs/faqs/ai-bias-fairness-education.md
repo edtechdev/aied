@@ -8,9 +8,9 @@ foundations: [ai-education]
 technology: [generative-ai, intelligent-tutoring]
 ethics: [bias-mitigation, equity-in-ai-education, privacy, inclusive-learning]
 audience: [instructors, administrators, software developers, researchers]
-updated: "2026-11-08T04:27:04-05:00"
+updated: "2026-11-15T16:16:44-05:00"
 translation_of: "faqs/ai-bias-fairness-education"
-source_updated: "2026-11-06T02:15:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
 
-Zkreslení a nespravedlnost ve vzdělávací AI nejsou jediným problémem. Výzkum v této znalostní bázi dokumentuje, jak zkreslení vstupuje téměř v každé fázi života systému — trénovací data, chování modelu, [[prompt-engineering|prompty]], skórování, zpětná vazba, rozhodnutí o rozdělení a infrastruktura pod nimi — a působí odlišně na vyučující, vývojáře, výzkumníky a administrátory. Vzorec je napříč tím vším dost konzistentní, abychom ho řekli přímo: ptejte se na čísla pro podskupiny, ne na průměry; definujte „znevýhodněného“ podle výsledků, ne podle velikosti skupiny; a berte férovost jako něco, co navrhujete a auditujete, ne co dodatečně přilepíte.
+Zkreslení a nespravedlnost ve vzdělávací AI nejsou jediným problémem. Výzkum dokumentuje, jak zkreslení vstupuje téměř v každé fázi života systému — trénovací data, chování modelu, [[prompt-engineering|prompty]], skórování, zpětná vazba, rozhodnutí o rozdělení a infrastruktura pod nimi — a působí odlišně na vyučující, vývojáře, výzkumníky a administrátory. Vzorec je napříč tím vším dost konzistentní, abychom ho řekli přímo: ptejte se na čísla pro podskupiny, ne na průměry; definujte „znevýhodněného“ podle výsledků, ne podle velikosti skupiny; a berte férovost jako něco, co navrhujete a auditujete, ne co dodatečně přilepíte.
 
 ## Kde se zkreslení a nespravedlnost projevují
 
@@ -34,7 +34,7 @@ Zkreslení a nespravedlnost ve vzdělávací AI nejsou jediným problémem. Výz
 
 **Generativní výstup: text, obrazy a avataři.** Modely reprodukují dominantní normy, pokud nejsou výslovně kontrolovány. Systematický přehled 31 studií nástrojů text-to-image ve vzdělávání zjistil, že obrazy důsledně stavěly do středu bílé, mužské, západní, hubené a nehandicapované postavy, přičemž rozmanitost věku, těla a schopností většinou chyběla ([[bias-representation-text-to-image-education-2026|Alon et al., 2026]]). Asistenti pro tvorbu týmů směrují studenty k různým zkušenostem: tři LLM rozdělující 11 200 softwarově-inženýrských zadání posílaly muže nejméně o 80 % méně často než ženy do „Návrhu rozhraní“ místo do „Základního vývoje“ a národnost měnila zařazení nezávisle na zásluhách ([[genai-social-bias-software-engineering-education-2026|Entezami et al., 2026]]). I identitní signály avatara mění důvěru: bílí avataři byli ve dvou experimentech hodnoceni jako důvěryhodnější a kompetentnější (N = 396), zatímco starší černošské ženské avatary byly penalizovány a efekt se zesiloval u úloh STEM ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis a Kyriakidou-Zacharoudiou, 2026]]). Nástroje pro psaní mohou přenést zkreslení do vlastní práce studentů: genderově zatížený prompt produkuje více genderově stereotypních esejí, takže zkreslení nástroje se stává výstupem studenta ([[gender-bias-transfer-llm-writing|přenos genderového zkreslení při psaní s LLM]]).
 
-**Data, štítky a infrastruktura.** Zkreslení je přítomno dřív, než se jakýkoli model trénuje. Hotové nástroje pro detekci jmen dosáhly recall 0,7647 u afrických jmen a 0,8640 u asijských proti 0,9024 u evropských a 0,9091 u amerických jmen — mezery, které doladěný model odstranil ([[ji-de-identification-personally-identifiable-information-2025|Ji et al., 2025]]). Trénovací korpusy a tokenizace strukturálně znevýhodňují mluvčí nedostatečně zastoupených jazyků ([[structural-silence-underrepresented-language-ai-2026|Structural Silence]]), LLM-generované profily studentů nesou regionální a genderové předsudky, které se šíří dál ([[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al., 2026]]), a štítky ground truth za modely si zaslouží stejnou kontrolu jako modely samotné ([[ground-truth-reliability-aied|spolehlivost ground truth]]).
+**Data, štítky a infrastruktura.** Zkreslení je přítomno dřív, než se jakýkoli model trénuje. Hotové nástroje pro detekci jmen dosáhly recall 0,7647 u afrických jmen a 0,8640 u asijských proti 0,9024 u evropských a 0,9091 u amerických jmen — mezery, které doladěný model odstranil ([[ji-de-identification-personally-identifiable-information-2025|Ji et al., 2025]]). Trénovací data a tokenizace strukturálně znevýhodňují mluvčí nedostatečně zastoupených jazyků ([[structural-silence-underrepresented-language-ai-2026|Structural Silence]]), LLM-generované profily studentů nesou regionální a genderové předsudky, které se šíří dál ([[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas et al., 2026]]), a štítky ground truth za modely si zaslouží stejnou kontrolu jako modely samotné ([[ground-truth-reliability-aied|spolehlivost ground truth]]).
 
 **Detekční nástroje zasahují nejtvrději vícejazyčné pisatele.** Protože [[ai-detection|detektory]] klasifikují podle textové předvídatelnosti, nízká perplexita a formulační hustota psaní v dalším jazyce spouštějí falešné vlajky „AI“: doložené studie chybně klasifikovaly velké podíly autentických esejí TOEFL od nerodilých mluvčích ([[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier, 2026]]) a editace textu nerodiče posunula verdikty oběma směry — o 10,7 bodu menší pravděpodobnost označení u jednoho detektoru, o 5,8 bodu větší u jiného ([[park-style-confound-ai-detection-non-native-writing-2026|Park, Jeong a Kim, 2026]]).
 

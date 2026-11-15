@@ -9,9 +9,9 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:17:48-05:00"
 translation_of: faqs/ai-anxiety-wellbeing
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -105,7 +105,7 @@ Cilj je sniziti anksioznost. Kim (2026) našao je da je anksioznost pozitivno po
 
 Samopouzdanje štiti studente od štete za karijeru. U modelu Duana i sur. [[self-efficacy|samoefikasnost]] to nije ublažila. Posredovani je put nosila prilagodljivost karijeri.
 
-Ovo je problem [[student-support-and-success|studentskih službi]]. Većina je poteza na ovoj stranici nastavna: vježba s niskim ulozima, vođena procjena izlaza umjetne inteligencije, revizija vođena povratnom informacijom i izjava očekivanja koju studenti mogu pročitati. Poznavanje puta upućivanja jedna je stavka među njima.
+Ovo je problem [[student-support-and-success|studentskih službi]]. Većina je poteza nastavna: vježba s niskim ulozima, vođena procjena izlaza umjetne inteligencije, revizija vođena povratnom informacijom i izjava očekivanja koju studenti mogu pročitati. Poznavanje puta upućivanja jedna je stavka među njima.
 
 Chatbot za dobrobit skalabilan je odgovor na tanke savjetodavne kapacitete. Dostupnost je stvarna i privlačnost razumljiva. Točnost na jednom izdvojenom dijelu podataka nije dokaz da je studentu u patnji bolje, a pitanja pogrešne klasifikacije, pohrane i eskalacije u ovdje citiranim radovima nemaju objavljenih odgovora.
 
@@ -117,7 +117,7 @@ Chatbot za dobrobit skalabilan je odgovor na tanke savjetodavne kapacitete. Dost
 
 **„Ja sam predmetni nastavnik, ne savjetnik.“** Nitko od vas ne traži da ikoga liječite. Vježba s niskim ulozima, zadatak kritičke procjene i petlja revizije obični su nastavni potezi. Jedini nalaz koji govori o vašem položaju jest to da odnos nastavnika i studenta stoji drugi u analizi važnosti značajki Bashira i Afzala (10,0%), iznad kvalitete sna (9,3%) i društvene potpore (7,6%). Autori to nazivaju hipotezom, i to je razumna oklada za ulogu koju već imate.
 
-**„Nemamo savjetodavnih kapaciteta, pa je alat bolji od ničega.“** Možda, i ova stranica to ne može riješiti. Ono na čemu možete inzistirati prije uvođenja jesu pisani odgovori o validaciji točnosti, o tome kako se odlučuje o razini potpore, što se događa pri štetnoj pogrešnoj klasifikaciji, kako se pohranjuju otkrivanja i kako funkcionira eskalacija prema čovjeku. Nema odgovora, nema uvođenja. Student koji se otkrije alatu koji to pogrešno razvrsta možda se više neće otkriti.
+**„Nemamo savjetodavnih kapaciteta, pa je alat bolji od ničega.“** Možda, i dokazi to ne mogu riješiti. Ono na čemu možete inzistirati prije uvođenja jesu pisani odgovori o validaciji točnosti, o tome kako se odlučuje o razini potpore, što se događa pri štetnoj pogrešnoj klasifikaciji, kako se pohranjuju otkrivanja i kako funkcionira eskalacija prema čovjeku. Nema odgovora, nema uvođenja. Student koji se otkrije alatu koji to pogrešno razvrsta možda se više neće otkriti.
 
 **„Ako u nastavi otvorim temu izgleda za karijeru, izlazim iz svojeg predmeta.“** Alternativa je da studenti svoj odgovor sastavljaju s tržišta rada i jedni od drugih. Duan i sur. preporučuju rad na planiranju karijere kao dio akademskog programa, a Dağ i sur. preporučuju ga uz pismenost u području umjetne inteligencije. Možete ugostiti razgovor bez tvrdnje da ste u tome stručnjak i pojedinačne slučajeve uputiti službi za karijere.
 

@@ -12,9 +12,9 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T12:11:33-04:00"
+updated: "2026-11-15T16:27:26-05:00"
 translation_of: faqs/developing-ai-tutor
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ Tri zoznamy, napísané skôr, než niekto vyberie model:
 
 Literatúra o [[intelligent-tutoring|inteligentnom tutorovaní]] upozorňuje, že účinnosť závisí od [[pedagogy|pedagogického]] dizajnu, nie od schopnosti modelu samotnej, a toto zlyhanie sa dá omylom ľahko postaviť. Tútor optimalizovaný na „dokonči úlohu“ podkope tútor optimalizovaný na „nauč sa úlohu riešiť“, a pritom prejde každým funkčným testom, ktorý napíšete, pretože oba produkujú správne konečné odpovede. Rozdiel žije v tom, čo študent urobil medzi otázkou a odpoveďou.
 
-Druhý zoznam je miesto, kde vývojové tímy zostávajú konkrétne. Vezmite nálepku zvládnutia ako „zvládnutie derivácie“ a odmietnite, aby znamenala vytvorenie správnej derivácie. Rozdeľte ju na rozpoznanie, kedy je derivácia vhodná, interpretáciu derivácie ako okamžitej rýchlosti zmeny, výber pravidla, vykonanie postupu, vysvetlenie, prečo bola voľba správna, kontrolu primeranosti a aplikáciu na neznámu úlohu. Každá z týchto vecí je samostatná položka na zaznamenanie a každá implikuje inú reakciu, keď chýba. Toto rozloženie je aj obranou proti [[correct-answer-trap-misconceptions|pasci správnej odpovede]], kde sa študent dostane k správnej odpovedi cez chybnú úvahu a vaša analytika zaznamená úspech. [[correct-answer-trap-ai-tutor|Catching the Correct Answer Trap]] aj [[zhang-tutormoments-2026|When Help is Unhelpful]] opisujú verzie tohto zlyhania v prevádzke.
+Druhý zoznam je miesto, kde vývojové tímy zostávajú konkrétne. Vezmite nálepku zvládnutia ako „zvládnutie derivácie“ a odmietnite, aby znamenala vytvorenie správnej derivácie. Rozdeľte ju na rozpoznanie, kedy je derivácia vhodná, interpretáciu derivácie ako okamžitej rýchlosti zmeny, výber pravidla, vykonanie postupu, vysvetlenie, prečo bola voľba správna, kontrolu primeranosti a aplikáciu na neznámu úlohu. Každá z týchto vecí je samostatná položka na zaznamenanie a každá implikuje inú reakciu, keď chýba. Toto rozloženie je aj obranou proti [[correct-answer-trap-misconceptions|pasci správnej odpovede]], kde sa študent dostane k správnej odpovedi cez chybnú úvahu a vaša [[learning-analytics|analytika]] zaznamená úspech. [[correct-answer-trap-ai-tutor|Catching the Correct Answer Trap]] aj [[zhang-tutormoments-2026|When Help is Unhelpful]] opisujú verzie tohto zlyhania v prevádzke.
 
 ## Postavte model študenta skôr než rozhovor
 
@@ -100,7 +100,7 @@ Pre domény s formálne kontrolovateľnými odpoveďami pridajte deterministick�
 
 ## Vyžadujte, aby študent so spätnou väzbou niečo urobil
 
-Spätná väzba, ktorá hovorí „správne“, „nesprávne“ alebo „dobre“, je bodovacie podujatie oblečené do rozhrania výučby. Vedomostná báza chápe [[feedback|spätnú väzbu]] ako slučku poskytnutia a prevzatia: spätná väzba podporuje učenie, keď jej študenti rozumejú a konajú podľa nej, a druhá polovica je tou, ktorú systémy zvyčajne preskakujú. Tútora stavajte tak, aby pomenoval príslušný myšlienkový krok, povedal, čo treba prehodnotiť, dal jednu konkrétnu nasledujúcu akciu a požiadal študenta o predpoveď alebo vysvetlenie skôr, než sa spätná väzba odhalí.
+Spätná väzba, ktorá hovorí „správne“, „nesprávne“ alebo „dobre“, je bodovacie podujatie oblečené do rozhrania výučby. Literatúra chápe [[feedback|spätnú väzbu]] ako slučku poskytnutia a prevzatia: spätná väzba podporuje učenie, keď jej študenti rozumejú a konajú podľa nej, a druhá polovica je tou, ktorú systémy zvyčajne preskakujú. Tútora stavajte tak, aby pomenoval príslušný myšlienkový krok, povedal, čo treba prehodnotiť, dal jednu konkrétnu nasledujúcu akciu a požiadal študenta o predpoveď alebo vysvetlenie skôr, než sa spätná väzba odhalí.
 
 Postupnosť, ktorá to nesie, je najprv študent, potom AI, potom znova študent. Študent generuje, vyberá, zdôvodňuje, hodnotí alebo reflektuje; tútor reaguje; študent s reakciou niečo urobí. Štruktúru ťahov navrhnite tak, aby to nebolo voliteľné. Systém, v ktorom model na jednu otázku vyprodukuje tri odseky, učí študenta pýtať sa a čítať.
 
@@ -114,7 +114,7 @@ Testujte presakovanie odpovedí, posilňovanie miskoncepcií, nadmerný súhlas,
 
 ## Dajte dátovú architektúru do toho istého dizajnového dokumentu
 
-Zbierajte len tie údaje o študentoch, ktoré sú pedagogicky nevyhnutné, a vedzte pri každom poli povedať, prečo existuje. Tam, kde uchovávate trvalú pamäť alebo [[student-modeling|model študenta]], urobte jeho účel študentovi viditeľným, dajte mu primeranú kontrolu nad ním, chráňte citlivé informácie, definujte retenciu a dôsledkové rozhodnutia smerujte vyučujúcemu alebo inej [[human-in-the-loop-ai|ľudskej]] kontrolnej zásuvke. Model študenta, ktorý potichu hromadí odhad istoty, ktorý študent nikdy neuvidí, je problém ochrany údajov aj pedagogický problém.
+Zbierajte len tie údaje o študentoch, ktoré sú pedagogicky nevyhnutné, a vedzte pri každom poli povedať, prečo existuje. Tam, kde uchovávate trvalú pamäť alebo [[student-modeling|model študenta]], urobte jeho účel študentovi viditeľným, dajte mu primeranú kontrolu nad ním, chráňte citlivé informácie, definujte retenciu a dôsledkové rozhodnutia smerujte vyučujúcemu alebo inej [[human-in-the-loop-ai|ľudskej]] kontrolnej zásuvke. Model študenta, ktorý potichu hromadí odhad istoty, ktorý študent nikdy neuvidí, je problém [[privacy|ochrany údajov]] aj pedagogický problém.
 
 Auditujte správanie naprieč jazykovým zázemím, úrovňami schopností, kultúrnymi kontextmi, potrebami [[accessibility|prístupnosti]] a úrovňami [[prior-knowledge|predchádzajúcich vedomostí]] a skúseností s AI. Rozdielny výkon pri tom istom cieli je chyba, ku ktorej je pripútaný študent, a v agregovanom čísle presnosti sa neobjaví.
 
@@ -152,7 +152,7 @@ Tútor kalkulu pre prvý semester vysokej školy má zvýšiť to, čo študenti
 
 ## Prípad druhý: kouč písania, kde o povolení rozhoduje fáza
 
-Písanie nemá jedinú správnu odpoveď, takže overovaním je úsudok a dizajnová práca sa presúva na etapy. Vedomostná báza rámuje písanie ako kognitívny, sociálny a rétorický proces, čo znamená, že systém písania s AI môže učenie podporiť a tiež môže odstrániť presne to myslenie, ktoré mala úloha rozvinúť ([[writing-education|vzdelávanie v písaní]], [[coach-not-crutch-ai-writing|kouč, nie barle]]).
+Písanie nemá jedinú správnu odpoveď, takže overovaním je úsudok a dizajnová práca sa presúva na etapy. Literatúra rámuje písanie ako kognitívny, sociálny a rétorický proces, čo znamená, že systém písania s AI môže učenie podporiť a tiež môže odstrániť presne to myslenie, ktoré mala úloha rozvinúť ([[writing-education|vzdelávanie v písaní]], [[coach-not-crutch-ai-writing|kouč, nie barle]]).
 
 **Model schopností.** Sledujte argumentáciu (konkrétnosť tézy, súlad tvrdenia a dôkazu, protiargument), organizáciu (zameranie odseku, logický postup, prechody), dôkazy (relevantnosť zdroja, integrácia, interpretácia), revíziu (globálna revízia a revízia na úrovni viet, hodnotenie spätnej väzby) a štýl (jasnosť, gramatika, hlas). Každá z nich sa stáva samostatným signálom v modeli študenta, čo je to, čo cielenú spätnú väzbu vôbec umožňuje.
 
@@ -209,11 +209,11 @@ Angažovanosť je cieľ. Dĺžka rozhovoru a počet relácií sú najlacnejšie 
 
 **„Študenti to milujú a dokončenie rastie.“** Oba fakty sú zlučiteľné so systémom, ktorý dobre odpovedá na otázky a nič neučí. Štúdia so 6 000 študentmi našla pomalší postup a menej skúšaných otázok popri lepšej presnosti, takže pokles dokončenia tiež nie je automaticky zlá správa. Referujte výkon bez pomoci vedľa čísel angažovanosti a nechajte ich nezhodovať sa verejne.
 
-**„Nemôžeme spustiť randomizovanú štúdiu.“** Porovnanie vnútri študenta môžete spustiť aj bez nej: ten istý cieľ, s pomocou počas celku, testovaný bez pomoci o dva týždne neskôr, s referovaným skóre s pomocou vedľa toho. Taký dizajn odpovedá na produktovú otázku a nepotrebuje kontrolné rameno. Čo vám povedať nedokáže, je protifakt pre študentov, ktorí tútora nikdy nepoužili.
+**„Nemôžeme spustiť [[rct|randomizovanú štúdiu]].“** Porovnanie vnútri študenta môžete spustiť aj bez nej: ten istý cieľ, s pomocou počas celku, testovaný bez pomoci o dva týždne neskôr, s referovaným skóre s pomocou vedľa toho. Taký dizajn odpovedá na produktovú otázku a nepotrebuje kontrolné rameno. Čo vám povedať nedokáže, je protifakt pre študentov, ktorí tútora nikdy nepoužili.
 
-**„Model je API dodávateľa, takže správanie pri pomoci je mimo našich rúk.“** Priečky žijú vo vašej orchestračnej vrstve a výsledok experimentu so zábradlím prišiel zo zmeny toho, čo tútor smel povedať, nie z výmeny modelov. Očakávajte, že posttréning dodávateľa bude ťahať k rýchlemu odpovedaniu, pretože na to bol ladený, a zdržanlivosť dajte do vlastného kódu.
+**„Model je API dodávateľa, takže správanie pri pomoci je mimo našich rúk.“** Priečky žijú vo vašej orchestračnej vrstve a výsledok experimentu so zábradlím prišiel zo zmeny toho, čo tútor smel povedať, nie z výmeny modelov. Očakávajte, že [[llm-training-and-fine-tuning|posttréning]] dodávateľa bude ťahať k rýchlemu odpovedaniu, pretože na to bol ladený, a zdržanlivosť dajte do vlastného kódu.
 
-**„Učitelia nebudú používať ďalší panel.“** Nebudú používať ten, ktorý emituje nepretržitú diagnostiku, čo podľa prehľadu K-12 odťahovalo pozornosť od ich vlastného pozorovania. Dajte im malý počet interpretovateľných signálov, spôsob prijatia alebo odmietnutia každého odporúčania a čas v týždni sa na ne pozrieť.
+**„Učitelia nebudú používať ďalší panel.“** Nebudú používať ten, ktorý emituje nepretržitú diagnostiku, čo podľa prehľadu [[k-12|K-12]] odťahovalo pozornosť od ich vlastného pozorovania. Dajte im malý počet interpretovateľných signálov, spôsob prijatia alebo odmietnutia každého odporúčania a čas v týždni sa na ne pozrieť.
 
 **„Nemáme v tíme odborníkov na odbor.“** Potom tútor bude učiť všeobecný postup a notácia kurzu sa počas semestra vychýli. Odborník na predmet na dva dni v čase dizajnu, ktorý napíše zoznam miskoncepcií a zoznam schválených postupov, je najlacnejšia položka projektu a tá, ktorú tímy škrtajú ako prvú.
 

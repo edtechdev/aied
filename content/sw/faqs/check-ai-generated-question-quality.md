@@ -1,7 +1,7 @@
 ---
 title: "Ninawezaje Kukagua Kama Maswali ya Jaribio Fupi na ya Mtihani Yaliyozalishwa na AI ni Bora Kwa Kweli?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:26:08-05:00"
+updated: "2026-11-15T16:26:08-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-05T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Unaomba maswali ishirini kutoka madokezo yako ya muhadhara. Yanarudi pamoja na funguo za majibu, maelezo, lebo za ugumu na makundi ya tasnonomia ya Bloom, katika hati iliyopangwa inayoonekana kama imekamilika. Jina lako linakaribia kuwekwa juu yake.
 
-Jibu fupi la kumpa mwenzako: maswali yaliyozalishwa ni watahiniwa, si tathmini. Tatua kila moja mwenyewe, hakiki kipengele kinachohitaji mwanafunzi afanye kwa kweli, na tambua jinsi wanafunzi wanavyojibu kabla hakijahesabiwa. Kwenye tafiti mbili kubwa zaidi katika hifadhidata hii, ishara ya kuvutia si kwamba uzalishaji unafanya kazi bali ni wapi unashindwa. Uzalishaji wa kurudia ndani ya mtiririko wa kazi maalum wa kozi ulizalisha mitihani ya chaguo-msingi inayoweza kutumika katika madarasa 71 ya chuo ([[assessing-quality-ai-generated-exams-field-2025|Isley na wenzake, 2025]]). Katika ukaguzi wa sayansi ya data wa maswali 311 yaliyotumika, lebo za ugumu za mfano zilifuata viwango vya Bloom vilivyozalishwa pamoja nazo karibu kikamilifu (Spearman ρ = 0.90) huku zikifuata kile wanafunzi walichopata kwa ρ = 0.06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An na Wang, 2026]]). Lebo ilikuwa maelezo ya kidokezo, si kipimo cha kipengele.
+Jibu fupi: maswali yaliyozalishwa ni watahiniwa, si tathmini. Tatua kila moja mwenyewe, hakiki kipengele kinachohitaji mwanafunzi afanye kwa kweli, na tambua jinsi wanafunzi wanavyojibu kabla hakijahesabiwa. Katika tafiti mbili kubwa zaidi, ishara ya kuvutia si kwamba uzalishaji unafanya kazi bali ni wapi unashindwa. Uzalishaji wa kurudia ndani ya mtiririko wa kazi maalum wa kozi ulizalisha mitihani ya chaguo-msingi inayoweza kutumika katika madarasa 71 ya chuo ([[assessing-quality-ai-generated-exams-field-2025|Isley na wenzake, 2025]]). Katika ukaguzi wa sayansi ya data wa maswali 311 yaliyotumika, lebo za ugumu za mfano zilifuata viwango vya Bloom vilivyozalishwa pamoja nazo karibu kikamilifu (Spearman ρ = 0.90) huku zikifuata kile wanafunzi walichopata kwa ρ = 0.06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An na Wang, 2026]]). Lebo ilikuwa maelezo ya kidokezo, si kipimo cha kipengele.
 
 ## Toleo fupi
 
@@ -120,6 +120,6 @@ Kwa wanafunzi wanaozalisha maswali yao wenyewe ya mazoezi, kanuni hiyo hiyo inat
 
 ## Wapi kwenda baadaye
 
-[[automated-question-generation]] ni ukurasa wa dhana kwa mbinu za uzalishaji na ubora wake uliopimwa, na [[educational-measurement]] unashughulikia uchanganuzi wa vipengele, uthabiti na saikometriki ambazo jaribio la majaribio linadokeza tu. Zote ziko chini ya [[assessment-validity|uhalali wa tathmini]], ambao ni kiwango ambacho mzunguko wote unautumikia.
+[[automated-question-generation|Uzalishaji wa maswali kiotomatiki]] ni ukurasa wa dhana kwa mbinu za uzalishaji na ubora wake uliopimwa, na [[educational-measurement|upimaji wa kielimu]] unashughulikia uchanganuzi wa vipengele, uthabiti na saikometriki ambazo jaribio la majaribio linadokeza tu. Zote ziko chini ya [[assessment-validity|uhalali wa tathmini]], ambao ni kiwango ambacho mzunguko wote unautumikia.
 
 Upande wa hukumu wa tatizo hilo hilo ni wa [[ai-grading-fairness-reliability|kupa alama kwa AI]], kwa kuwa kipengele kizuri kilichopewa alama vibaya si bora kuliko kipengele kibovu kilichopewa alama vizuri. Kwa swali pana la kile alama inapaswa kuwakilisha pindi wanafunzi wanaweza kutumia AI, tazama [[redesign-assessment-ai-era|kubuni upya tathmini katika enzi ya AI]].

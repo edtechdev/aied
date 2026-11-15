@@ -12,9 +12,9 @@ level: [higher ed, k 12]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
-updated: "2026-10-29T12:11:33-04:00"
+updated: "2026-11-15T16:27:26-05:00"
 translation_of: faqs/making-simulated-students-behave-like-learners
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -44,11 +44,11 @@ Pred ďalším demom potrebujete mať toto jasné: keď modelu poviete, aby hral
 
 ## Rozhodnite, na akú otázku simulátor odpovedá
 
-Pod pojmom „simulovaný študent“ sa zlievajú tri úlohy a každá potrebuje iný stroj. Nacvičovanie učiteľa alebo tutora potrebuje partnera, ktorý sa pod tlakom správa uveriteľne. Audit toho, ako sa AI správa k rozličným profilom študentov, potrebuje pokrytie profilov, na ktorých vám záleží. Predpovedanie výsledkov pre kurz potrebuje rozdelenie študentov, nie jedného presvedčivého jednotlivca. Simulátor postavený na prvú úlohu vás pri tretej sklame a dôkazy nižšie ich stále oddeľujú.
+Pod pojmom „simulovaný študent“ sa zlievajú tri úlohy a každá potrebuje iný stroj. Nacvičovanie [[teacher-role|učiteľa]] alebo tutora potrebuje partnera, ktorý sa pod tlakom správa uveriteľne. Audit toho, ako sa AI správa k rozličným profilom študentov, potrebuje pokrytie profilov, na ktorých vám záleží. Predpovedanie výsledkov pre kurz potrebuje rozdelenie študentov, nie jedného presvedčivého jednotlivca. Simulátor postavený na prvú úlohu vás pri tretej sklame a dôkazy nižšie ich stále oddeľujú.
 
 ## Pomenujte študentov, ktorých nepokrývate
 
-Najužitočnejšie zistenie pre každého, kto sa chystá dôverovať simulátoru, sa týka pokrytia. Dvanásť učiteľov, ktorí tutorovali študentov z LLM, hlásilo príliš zložitý jazyk, chýbajúcu emóciu, neprirodzenú pozornosť a nevysvetlené skoky vo vedomostiach, pričom simulácie predstavovali len jeden zo štyroch kvadrantov skutočného správania študentov ([[llm-student-simulation-teacher-insights|Martynova et al., 2026]]). Kvadrant, ktorý pokryli, bol ten najľahší na simulovanie.
+Najužitočnejšie zistenie pre každého, kto sa chystá dôverovať simulátoru, sa týka pokrytia. Dvanásť učiteľov, ktorí tutorovali [[llm|LLM]] študentov, hlásilo príliš zložitý jazyk, chýbajúcu emóciu, neprirodzenú pozornosť a nevysvetlené skoky vo vedomostiach, pričom [[simulation|simulácie]] predstavovali len jeden zo štyroch kvadrantov skutočného správania študentov ([[llm-student-simulation-teacher-insights|Martynova et al., 2026]]). Kvadrant, ktorý pokryli, bol ten najľahší na simulovanie.
 
 To je dôležité preto, že takmer nikto to nekontroluje. Len 3 % štúdií simulujúcich študentov validuje svoj simulátor po použití. Ak nejaký postavíte a validáciu vynecháte, ste v prevažnej väčšine a zároveň ste dôvod, prečo táto štatistika zostáva citovateľná.
 
@@ -64,13 +64,13 @@ Z tej štúdie vyplývajú dve poznámky. Voľba modelu nie je jednorozmerná, k
 
 Ak model vie priveľa, môžete pomenovať stav, v ktorom má byť, alebo odpočítať vedomosti, ktoré mať nemá.
 
-**Podmiente epistemický stav.** Tréningovo bezplatný rámec zostavuje kognitívny prototyp každého študenta z [[knowledge-graph|vedomostného grafu]] a skóruje proti nemu kandidátov z beam search, pričom hlási 100 % zlepšenie presnosti simulácie ([[simulating-students-diverse-cognitive-levels-2025|Wu et al., 2025]]). Jeho kvalita rastie s kognitívnou úrovňou študenta, takže slabší študenti zostávajú ťažším prípadom, čo je nešťastné vzhľadom na to, že práve o nich tu ide. Modelovanie kognitívnej dynamiky namiesto statickej osoby ide ďalej: aktualizácie stavu CogEvolution založené na ICAP dosiahli R²LC = 0,92 tam, kde statickí agenti dosahujú 0,45, a bez modulu ICAP spadli na 0,58 ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et al., 2026]]).
+**Podmiente epistemický stav.** Tréningovo bezplatný rámec zostavuje kognitívny prototyp každého študenta z [[knowledge-graph|vedomostného grafu]] a skóruje proti nemu kandidátov z beam search, pričom hlási 100 % zlepšenie presnosti simulácie ([[simulating-students-diverse-cognitive-levels-2025|Wu et al., 2025]]). Jeho kvalita rastie s kognitívnou úrovňou študenta, takže slabší študenti zostávajú ťažším prípadom, čo je nešťastné vzhľadom na to, že práve o nich tu ide. Modelovanie kognitívnej dynamiky namiesto statickej osoby ide ďalej: aktualizácie stavu CogEvolution založené na [[icap-framework|ICAP]] dosiahli R²LC = 0,92 tam, kde statickí agenti dosahujú 0,45, a bez modulu ICAP spadli na 0,58 ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et al., 2026]]).
 
 **Odoberte vedomosti.** Potlačenie 16 cielených vedomostných komponentov v Mistral-7B znížilo presnosť z približne 0,75 pri 10 % pomere zabúdania na menej ako 0,5 pri 40 %, kým základný model zostal blízko 0,85. Potlačené vedomosti sa ukázali ako obnoviteľné prostredníctvom supervidovaného doučovania a dialógu vedeného koučom ([[simulating-novice-students-machine-unlearning-2026|Song, Guo a Lin, 2026]]). Toto je najbližšie k priamemu vyrobeniu nováčika a obnoviteľnosť sa stáva prednosťou, ak chcete, aby sa simulátor počas sedenia učil.
 
 ## Skriptujte kolá, nie osobu
 
-Stabilita osoby sa ukazuje ako problém dizajnu interakcie, nie voľby modelu. Pri prekrížení piatich LLM s troma dizajnmi promptov a štyrmi personami s intenzitou ADHD skriptované interakcie ukotvené v úlohe odstránili posun správania hodnotený pozorovateľmi, a to až o 97 % proti neskriptovanému dialógu. Bez výslovných pokynov k osobe sa základná reprezentácia študenta vychyľovala k vysokým príznakom ADHD ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase a Leins, 2026]]).
+Stabilita osoby sa ukazuje ako problém dizajnu interakcie, nie voľby modelu. Pri prekrížení piatich LLM s troma dizajnmi promptov a štyrmi personami s intenzitou [[neurodiversity|ADHD]] skriptované interakcie ukotvené v úlohe odstránili posun správania hodnotený pozorovateľmi, a to až o 97 % proti neskriptovanému dialógu. Bez výslovných pokynov k osobe sa základná reprezentácia študenta vychyľovala k vysokým príznakom ADHD ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase a Leins, 2026]]).
 
 Ak váš simulátor má posun, pozrite sa najprv na to, o čo ho žiadate kolo po kole, a až potom meňte model alebo prepisujte opis študenta.
 
@@ -86,9 +86,9 @@ Vernosť na úrovni akcií má vlastný limit. Simulátory študentov reprodukuj
 
 Dve porovnania ukazujú, čo validácia stojí.
 
-Benchmarkovanie deviatich simulačných metód proti siedmim metrikám založeným na referenciách na 382 odložených dialógoch z najväčšieho verejného korpusu skutočných matematických dialógov študentov s tutormi: promptovanie zaostalo za dotrénovaním v dialógových aktoch (0,4998 proti 0,6840), v ROUGE-L (0,1648 proti 0,3212) a v kosínovej podobnosti (0,5460 proti 0,7390). Najlepšia testovaná metóda, preferenčná optimalizácia na modeli s 8B, porazila supervidované dotrénovanie len marginálne a bola horšia v chybách, pričom ľudské hodnotenie s tromi tutormi toto poradie zreprodukovalo ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). Vrchol tohto rebríčka sedí blízko stredu, takže základná línia, ktorú reportujete, rozhoduje o tom, ako pôsobivo bude vyzerať vaše vlastné číslo.
+Benchmarkovanie deviatich simulačných metód proti siedmim metrikám založeným na referenciách na 382 odložených dialógoch z najväčšieho verejného korpusu skutočných matematických dialógov študentov s tutormi: promptovanie zaostalo za [[llm-training-and-fine-tuning|dotrénovaním]] v dialógových aktoch (0,4998 proti 0,6840), v ROUGE-L (0,1648 proti 0,3212) a v kosínovej podobnosti (0,5460 proti 0,7390). Najlepšia testovaná metóda, preferenčná optimalizácia na modeli s 8B, porazila supervidované dotrénovanie len marginálne a bola horšia v chybách, pričom ľudské hodnotenie s tromi tutormi toto poradie zreprodukovalo ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). Vrchol tohto rebríčka sedí blízko stredu, takže základná línia, ktorú reportujete, rozhoduje o tom, ako pôsobivo bude vyzerať vaše vlastné číslo.
 
-SWIM je najjasnejšie porovnanie promptovania, dotrénovania a posilňovaného učenia, pretože každú vygenerovanú esej skóruje proti cieľovému profilu čŕt namiesto impresionistického posudzovania. Promptovanie zakotvené v rubrike poskytlo obmedzenú kontrolu aj pri silných proprietárnych modeloch, s najlepším priemerným QWK črty 0,577 (Claude Sonnet) a 0,422 (GPT-5.4), a takmer nulovým pri otvorenom modeli s 7B. Supervidované dotrénovanie na skutočných pároch skóre a esej dosiahlo pri tomto modeli s 7B 0,474 ± 0,023. GRPO s odmenou odvodenou z automatického skórovania esejí dosiahlo 0,618 ± 0,005, pričom zisky sa udržali pri dvoch nezávislých skórovačoch, proti ktorým politika nikdy nebola trénovaná ([[swim-student-writing-simulation-2026]]).
+SWIM je najjasnejšie porovnanie promptovania, dotrénovania a posilňovaného učenia, pretože každú vygenerovanú esej skóruje proti cieľovému profilu čŕt namiesto impresionistického posudzovania. Promptovanie zakotvené v rubrike poskytlo obmedzenú kontrolu aj pri silných proprietárnych modeloch, s najlepším priemerným QWK črty 0,577 (Claude Sonnet) a 0,422 (GPT-5.4), a takmer nulovým pri otvorenom modeli s 7B. Supervidované dotrénovanie na skutočných pároch skóre a esej dosiahlo pri tomto modeli s 7B 0,474 ± 0,023. GRPO s odmenou odvodenou z [[automated-essay-scoring|automatického skórovania esejí]] dosiahlo 0,618 ± 0,005, pričom zisky sa udržali pri dvoch nezávislých skórovačoch, proti ktorým politika nikdy nebola trénovaná ([[swim-student-writing-simulation-2026]]).
 
 Promptovanie tiež produkovalo idealizovanú populáciu namiesto realistickej: priemerné normalizované celkové skóre 0,74 proti 0,58 u skutočných študentov a medián dĺžky 304 slov proti 167. Trénované modely obnovili distribúcie skóre aj dĺžky bez akéhokoľvek dohľadu nad dĺžkou. Jedna vec zostala ťažká: autentická forma nízkej zdatnosti. Trénované modely obnovili syntax, ale napísali príliš málo pravopisných a gramatických chýb, kým promptovanie simulovalo slabosť povrchovým poškodením, teda pravopisnými chybami rozprášenými do inak kompetentnej prózy.
 
@@ -96,7 +96,7 @@ Povrchový realizmus je slabý test v oboch smeroch. V zaslepenej štúdii exper
 
 ## Overte, či by nestačil opis
 
-Predtým, než postavíte kohortu, overte lacnejšiu možnosť. Pri hodnotení skúsenosti s online učením predtým, než sa študenti zapoja, pri predpovedaní predčasného ukončenia a dokončenia a pri poskytovaní spätnej väzby k dizajnu jeden „opisujúci“ webový agent, ktorý prejde lekciou a vytvorí bohatý opis skúsenosti, prekonal priame simulovanie populácie študentov.
+Predtým, než postavíte kohortu, overte lacnejšiu možnosť. Pri hodnotení skúsenosti s [[online-teaching-and-learning|online učením]] predtým, než sa študenti zapoja, pri predpovedaní predčasného ukončenia a dokončenia a pri poskytovaní spätnej väzby k dizajnu jeden „opisujúci“ webový agent, ktorý prejde lekciou a vytvorí bohatý opis skúsenosti, prekonal priame simulovanie populácie študentov.
 
 Simulovaní študenti v tomto porovnaní ukázali oveľa menší rozsah správania než skutoční študenti: naprieč 100 agentmi na piatich testovacích lekciách reprodukovali len približne 4 % ciest, ktorými sa skutoční študenti vydali, a pritom stáli podstatne viac výpočtového výkonu. Postup opis-potom-predpoveď dosiahol najlepšiu predpoveď distribúcie predčasného ukončenia na masívnom globálnom kurze CS1, s priemernou JSD 0,060 ([[ai-web-agents-lesson-design-2025|Wang, Mitchell a Piech, 2025]]).
 
@@ -124,7 +124,7 @@ Simulovanie populácie je dôkladná možnosť. Naprieč 100 agentmi simulácie 
 
 **„GRPO porazilo supervidované dotrénovanie, takže máme trénovať s RL.“** Porazilo, 0,618 proti 0,474. Forma nízkej zdatnosti zostala ťažká v oboch prípadoch, s príliš malým počtom pravopisných a gramatických chýb, a v samostatnom benchmarku preferenčná optimalizácia porazila dotrénovanie len marginálne a prehrala v chybách. Overte, na ktorej vlastnosti závisí váš prípad použitia.
 
-**„Najslabší študenti sú malý kúsok našich používateľov.“** Sú najťažším prípadom pre každú metódu na tejto stránke a zistenie o pokrytí hovorí, že simulácie sa zhlukujú v najľahšom kvadrante. Ak sa váš simulátor bude používať na vyvodzovanie záverov o študentoch s problémami, tá medzera patrí do správy.
+**„Najslabší študenti sú malý kúsok našich používateľov.“** Sú najťažším prípadom pre každú metódu a zistenie o pokrytí hovorí, že simulácie sa zhlukujú v najľahšom kvadrante. Ak sa váš simulátor bude používať na vyvodzovanie záverov o študentoch s problémami, tá medzera patrí do správy.
 
 ## Čo urobiť tento týždeň
 

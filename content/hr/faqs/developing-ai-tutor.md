@@ -12,9 +12,9 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T14:24:49-04:00"
+updated: "2026-11-15T16:22:24-05:00"
 translation_of: faqs/developing-ai-tutor
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ Tri popisa, napisana prije nego što itko odabere model:
 
 Literatura o [[intelligent-tutoring|inteligentnom poučavanju]] ističe da djelotvornost ovisi o [[pedagogy|pedagoškom]] dizajnu, a ne samo o sposobnostima modela, i taj je neuspjeh lako slučajno ugraditi. Tutor optimiziran za „dovrši zadatak“ potkopat će tutora optimiziranog za „nauči rješavati zadatak“, a pritom će proći svaki funkcionalni test koji napišete, jer oba daju točne konačne odgovore. Razlika je u tome što je student radio između pitanja i odgovora.
 
-Drugi popis mjesto je na kojem razvojni timovi postaju konkretni. Uzmite oznaku ovladanosti kao „ovladanost derivacijama“ i odbijte dopustiti da znači proizvodnju točne derivacije. Razložite je na prepoznavanje kada je derivacija primjerena, tumačenje derivacije kao trenutačne brzine promjene, odabir pravila, provedbu postupka, objašnjenje zašto je odabir bio ispravan, provjeru razumnosti i primjenu na nepoznat zadatak. Svaka je od tih stavki zasebna stvar koju treba bilježiti i svaka implicira drukčiju reakciju kad izostane. Ta je razgradnja ujedno obrana od [[correct-answer-trap-misconceptions|zamke točnog odgovora]], u kojoj učenik dolazi do točnog odgovora pogrešnim zaključivanjem, a vaša analitika bilježi uspjeh. [[correct-answer-trap-ai-tutor|Catching the Correct Answer Trap]] i [[zhang-tutormoments-2026|When Help is Unhelpful]] opisuju inačice tog neuspjeha u produkciji.
+Drugi popis mjesto je na kojem razvojni timovi postaju konkretni. Uzmite oznaku ovladanosti kao „ovladanost derivacijama“ i odbijte dopustiti da znači proizvodnju točne derivacije. Razložite je na prepoznavanje kada je derivacija primjerena, tumačenje derivacije kao trenutačne brzine promjene, odabir pravila, provedbu postupka, objašnjenje zašto je odabir bio ispravan, provjeru razumnosti i primjenu na nepoznat zadatak. Svaka je od tih stavki zasebna stvar koju treba bilježiti i svaka implicira drukčiju reakciju kad izostane. Ta je razgradnja ujedno obrana od [[correct-answer-trap-misconceptions|zamke točnog odgovora]], u kojoj učenik dolazi do točnog odgovora pogrešnim zaključivanjem, a vaša [[learning-analytics|analitika]] bilježi uspjeh. [[correct-answer-trap-ai-tutor|Catching the Correct Answer Trap]] i [[zhang-tutormoments-2026|When Help is Unhelpful]] opisuju inačice tog neuspjeha u produkciji.
 
 ## Izgradite model učenika prije razgovora
 
@@ -114,7 +114,7 @@ Testirajte curenje odgovora, učvršćivanje zabluda, pretjerano slaganje, nepri
 
 ## Smjestite arhitekturu podataka u isti dizajnerski dokument
 
-Prikupljajte samo podatke o učeniku koji su pedagoški nužni i budite u stanju reći zašto svako polje postoji. Gdje držite trajnu memoriju ili [[student-modeling|model učenika]], učinite svrhu toga vidljivom učeniku, dajte mu primjerenu kontrolu nad time, zaštitite osjetljive informacije, definirajte zadržavanje i usmjerite posljedične odluke nastavniku ili drugoj [[human-in-the-loop-ai|ljudskoj]] kontrolnoj točki. Model učenika koji tiho nakuplja procjenu pouzdanosti koju student nikad ne vidi istodobno je problem zaštite podataka i pedagoški problem.
+Prikupljajte samo podatke o učeniku koji su pedagoški nužni i budite u stanju reći zašto svako polje postoji. Gdje držite trajnu memoriju ili [[student-modeling|model učenika]], učinite svrhu toga vidljivom učeniku, dajte mu primjerenu kontrolu nad time, zaštitite osjetljive informacije, definirajte zadržavanje i usmjerite posljedične odluke nastavniku ili drugoj [[human-in-the-loop-ai|ljudskoj]] kontrolnoj točki. Model učenika koji tiho nakuplja procjenu pouzdanosti koju student nikad ne vidi istodobno je problem [[privacy|zaštite podataka]] i pedagoški problem.
 
 Revizijom provjerite ponašanje preko jezičnih sredina, razina sposobnosti, kulturnih konteksta, potreba [[accessibility|pristupačnosti]] te razina [[prior-knowledge|prethodnog znanja]] i iskustva s umjetnom inteligencijom. Različita uspješnost na istom cilju jest bug s prikvačenim studentom i neće se pojaviti u vašem zbrojnom broju točnosti.
 
@@ -209,11 +209,11 @@ Angažman je cilj. Duljina razgovora i broj sesija najjeftinije su mjere za inst
 
 **„Studenti to vole, a dovršetak je viši.“** Obje su činjenice u skladu sa sustavom koji dobro odgovara na pitanja i ničemu ne poučava. Studija sa 6.000 studenata našla je sporiji napredak i manje pokušanih pitanja uz bolju točnost, pa ni pad dovršetka nije automatski loša vijest. Izvijestite o samostalnoj izvedbi uz brojke o angažmanu i dopustite im da se javno razilaze.
 
-**„Ne možemo provesti randomizirano ispitivanje.“** Možete provesti usporedbu unutar studenta i bez njega: isti cilj, s pomoći tijekom cjeline, testiran bez nje dva tjedna kasnije, s rezultatom uz pomoć prijavljenim uz njega. Taj dizajn odgovara na produktno pitanje i ne treba kontrolnu skupinu. Ono što ne može reći jest kakav bi bio kontrafaktual za studente koji tutor nikad nisu rabili.
+**„Ne možemo provesti [[rct|randomizirano ispitivanje]].“** Možete provesti usporedbu unutar studenta i bez njega: isti cilj, s pomoći tijekom cjeline, testiran bez nje dva tjedna kasnije, s rezultatom uz pomoć prijavljenim uz njega. Taj dizajn odgovara na produktno pitanje i ne treba kontrolnu skupinu. Ono što ne može reći jest kakav bi bio kontrafaktual za studente koji tutor nikad nisu rabili.
 
-**„Model je dobavljačev API, pa nam ponašanje pri pomoći nije u rukama.“** Stepenici žive u vašem sloju orkestracije, a rezultat eksperimenta sa zaštitnim mjerama došao je iz promjene onoga što tutor smije reći, a ne iz zamjene modela. Očekujte da će dobavljačeva naknadna obuka vući prema brzom odgovaranju, jer je korisnost ono za što je ugađana, i smjestite suzdržanost u vlastiti kod.
+**„Model je dobavljačev API, pa nam ponašanje pri pomoći nije u rukama.“** Stepenici žive u vašem sloju orkestracije, a rezultat eksperimenta sa zaštitnim mjerama došao je iz promjene onoga što tutor smije reći, a ne iz zamjene modela. Očekujte da će dobavljačeva [[llm-training-and-fine-tuning|naknadna obuka]] vući prema brzom odgovaranju, jer je korisnost ono za što je ugađana, i smjestite suzdržanost u vlastiti kod.
 
-**„Nastavnici neće rabiti još jednu nadzornu ploču.“** Neće rabiti onu koja neprestano emitira dijagnostiku, a pregled za osnovno i srednje obrazovanje pokazao je da to odvlači pozornost od njihova vlastitog promatranja. Dajte im mali broj tumačivih signala, način da prihvate ili odbiju svaku preporuku i vrijeme u tjednu da ih pogledaju.
+**„Nastavnici neće rabiti još jednu nadzornu ploču.“** Neće rabiti onu koja neprestano emitira dijagnostiku, a [[k-12|pregled za osnovno i srednje obrazovanje]] pokazao je da to odvlači pozornost od njihova vlastitog promatranja. Dajte im mali broj tumačivih signala, način da prihvate ili odbiju svaku preporuku i vrijeme u tjednu da ih pogledaju.
 
 **„Nemamo stručnjake za discipline u osoblju.“** Tada će tutor poučavati općenitu metodu, a oznake kolegija izmaknut će se tijekom semestra. Predmetni stručnjak na dva dana u fazi dizajna, koji piše popis zabluda i popis odobrenih metoda, najjeftinija je stavka u projektu i prva koju timovi izrezuju.
 

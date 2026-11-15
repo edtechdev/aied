@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
-updated: "2026-10-29T14:13:23-04:00"
+updated: "2026-11-15T16:23:35-05:00"
 translation_of: faqs/how-ai-impacts-students
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
 
-Käytät tekoälyä kurssitöissä ja pärjäät hyvin, paitsi että suljetun kirjan tentti tuntui kuin olisit lukenut jonkun toisen muistiinpanoja. Tai ystäväsi sanoo, ettei kirjoittanut mitään ja sai silti parhaan arvosanan, ja mietit, mitä se tarkoittaa sinun kohdallasi. Tai olet alkanut kysyä chatbotilta enemmän kysymyksiä kuin opettajaltasi.
+Käytät tekoälyä kurssitöissä ja pärjäät hyvin, paitsi että [[summative-assessment|suljetun kirjan tentti]] tuntui kuin olisit lukenut jonkun toisen muistiinpanoja. Tai ystäväsi sanoo, ettei kirjoittanut mitään ja sai silti parhaan arvosanan, ja mietit, mitä se tarkoittaa sinun kohdallasi. Tai olet alkanut kysyä chatbotilta enemmän kysymyksiä kuin opettajaltasi.
 
 Lyhyt vastaus, sellaisessa muodossa, että voit toistaa sen ystävälle: tekoälystä on hyötyä siellä, missä tarvitset palautetta, ja siitä ei ole hyötyä siellä, missä tarvitset harjoitusta. Pidä ajattelun askel itselläsi, testaa itsesi ilman työkalua ennen palauttamista ja kerro suoraan, mitä käytit. Loput tästä sivusta kertoo, miksi se pitää paikkansa ja miltä se näyttää tiistai-iltana.
 
@@ -55,7 +55,7 @@ Sen tietäminen, että se on saatavilla, muuttaa myös sitä, minkä kanssa olet
 
 ## Testaa itsesi ilman työkalua
 
-Tarkistus kestää kymmenen minuuttia ja se on tämän sivun hyödyllisin asia. Sulje kaikki, ota tyhjä paperi ja kirjoita palautuksesi argumentti muistista: väite, kaksi tai kolme syytä ja se, mikä puhuisi sitä vastaan. Avaa sitten työsi ja vertaa.
+Tarkistus kestää kymmenen minuuttia ja se on hyödyllisin asia, jonka voit tehdä. Sulje kaikki, ota tyhjä paperi ja kirjoita palautuksesi argumentti muistista: väite, kaksi tai kolme syytä ja se, mikä puhuisi sitä vastaan. Avaa sitten työsi ja vertaa.
 
 Jos tyhjä paperi tulee lähelle, opit aineksen ja työkalu auttoi sinua jäsentämään sen. Jos se jää tyhjäksi, kun asiakirja on hiottu, sinulla on suorituskuilu, ja arvosana peittää sen siihen asti, kunnes tentti tai työharjoittelu ei peitä. Palaa siihen osioon, jota et pystynyt toistamaan, työstä se ilman apua ja tarkista uudelleen.
 
@@ -111,4 +111,4 @@ Tunne voi olla myös hyvää. [[qualitative-research|Laadullisessa]] tutkimukses
 
 ## Mihin seuraavaksi
 
-[[does-ai-help-students-learn|Auttaako tekoälyn käyttö opiskelijoita todella oppimaan?]] on se näyttökysymys, jonka takana tämä sivu on, ja [[study-with-ai]] kattaa työrutiinit. [[ai-anxiety-wellbeing]] vie ahdistuspuolta pidemmälle, ja [[guardrails]] selittää, miten tuesta tulee korvike. Kurssisuunnittelun näkymä on sivuilla [[incorporating-ai-literacy|Miten minun pitäisi sisällyttää tekoälylukutaito kurssiini?]] ja [[ai-literacy-evidence|Mitä näyttöä on tekoälylukutaidon interventioista korkeakoulutuksessa?]].
+[[does-ai-help-students-learn|Auttaako tekoälyn käyttö opiskelijoita todella oppimaan?]] on se näyttökysymys näiden vastausten takana, ja [[study-with-ai]] kattaa työrutiinit. [[ai-anxiety-wellbeing]] vie ahdistuspuolta pidemmälle, ja [[guardrails]] selittää, miten tuesta tulee korvike. Kurssisuunnittelun näkymä on sivuilla [[incorporating-ai-literacy|Miten minun pitäisi sisällyttää tekoälylukutaito kurssiini?]] ja [[ai-literacy-evidence|Mitä näyttöä on tekoälylukutaidon interventioista korkeakoulutuksessa?]].

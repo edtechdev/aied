@@ -1,7 +1,7 @@
 ---
 title: "Mitä personoitu oppiminen oikeastaan tarkoittaa ja milloin siitä on hyötyä?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:16:13-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
@@ -28,7 +28,7 @@ ai_assist:
 
 Alusta lupaa jokaiselle opiskelijalle personoidun kokemuksen. Se voi järjestää harjoitustehtävät uudelleen, kirjoittaa selityksen uudelleen opiskelijan jalkapallokiinnostuksen ympärille, muistaa viime viikon keskustelun tai valita, mitä opiskelija opiskelee seuraavaksi. Kaikkia neljää kutsutaan personoinniksi, ja vain yhtä niistä on testattu missään tuota muistuttavassa muodossa.
 
-Lyhyt vastaus kollegalle: personointi nimeää muutoksen johonkin oppimiskokemuksen osaan, ja sen arvo riippuu kolmesta asiasta: mitä mukautetaan, mikä näyttö ohjaa mukautusta ja parantaako muutos sitä oppimista, jonka aiot. Tutulta tuntuva esimerkki tai responsiivinen keskustelu voi tuntua henkilökohtaiselta opettamatta mitään. Tehokas mukautus voi olla näkymätön. Tämän tietopohjan selkein kokeellinen tulos on kapea: viiden kuukauden Python-sertifiointikurssilla kymmenessä taipeilaisessa lukiossa mukautuvaan tehtäväjärjestykseen satunnaistetut opiskelijat saivat noin 0,150 keskihajonnan verran korkeammat pisteet kasvokkain tehdystä, ilman apua tehdystä [[summative-assessment|loppukokeesta]] kuin kiinteän järjestyksen ja saman [[conversational-ai|chatbottipääsyn]] opiskelijat ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). Se tukee järjestämistä tietyin ehdoin. Se ei validoi kaikkea personoituna myytävää.
+Lyhyt vastaus kollegalle: personointi nimeää muutoksen johonkin oppimiskokemuksen osaan, ja sen arvo riippuu kolmesta asiasta: mitä mukautetaan, mikä näyttö ohjaa mukautusta ja parantaako muutos sitä oppimista, jonka aiot. Tutulta tuntuva esimerkki tai responsiivinen keskustelu voi tuntua henkilökohtaiselta opettamatta mitään. Tehokas mukautus voi olla näkymätön. Tämän kirjallisuuden selkein kokeellinen tulos on kapea: viiden kuukauden Python-sertifiointikurssilla kymmenessä taipeilaisessa lukiossa mukautuvaan tehtäväjärjestykseen satunnaistetut opiskelijat saivat noin 0,150 keskihajonnan verran korkeammat pisteet kasvokkain tehdystä, ilman apua tehdystä [[summative-assessment|loppukokeesta]] kuin kiinteän järjestyksen ja saman [[conversational-ai|chatbottipääsyn]] opiskelijat ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). Se tukee järjestämistä tietyin ehdoin. Se ei validoi kaikkea personoituna myytävää.
 
 ## Lyhyt versio
 

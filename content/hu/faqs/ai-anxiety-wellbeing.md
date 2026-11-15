@@ -9,9 +9,9 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:17:55-05:00"
 translation_of: faqs/ai-anxiety-wellbeing
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -103,9 +103,9 @@ A megnyugtatás támogatás. A biztatás az érzésre irányul, a megítélésmo
 
 A cél a szorongás csökkentése. Kim (2026) a szorongást pozitívan találta együtt járni az ellenőrzéssel és a revízióval, az értékelő képességet pedig a bevonódás előrejelzőjeként. A nyugodtabb diák, aki elfogadja az első kimenetet, nem kapott segítséget.
 
-Az önbizalom megvédi a diákokat a karrierkártól. Duan és mtsai modelljében a [[self-efficacy|énhatékonyság]] nem tompította a kárt. A karrier-alkalmazkodóképesség hordozta a mediált utat.
+Az önbizalom megvédi a diákokat a karrierkártól. Duan és mtsai modelljében az [[self-efficacy|önhatékonyság]] nem tompította a kárt. A karrier-alkalmazkodóképesség hordozta a mediált utat.
 
-Ez [[student-support-and-success|diákszolgáltatási]] probléma. Az ezen az oldalon szereplő lépések többsége oktatási jellegű: alacsony tétű gyakorlás, a MI-kimenet irányított értékelése, visszajelzés vezérelte revízió és a diákok által elolvasható elvárásnyilatkozat. A továbbküldési útvonal ismerete ezek között egyetlen tétel.
+Ez [[student-support-and-success|diákszolgáltatási]] probléma. A lépések többsége oktatási jellegű: alacsony tétű gyakorlás, a MI-kimenet irányított értékelése, visszajelzés vezérelte revízió és a diákok által elolvasható elvárásnyilatkozat. A továbbküldési útvonal ismerete ezek között egyetlen tétel.
 
 A jólléti csevegőbot a sovány tanácsadási kapacitás skálázható válasza. Az elérhetőség valódi, és a vonzerő érthető. Az egyetlen elkülönített felosztáson mért pontosság nem bizonyíték arra, hogy egy distresszben lévő diák jobban jár, a téves besorolás, a tárolás és az eszkaláció kérdéseire pedig nincs publikált válasz az itt idézett munkákban.
 
@@ -117,7 +117,7 @@ A jólléti csevegőbot a sovány tanácsadási kapacitás skálázható válasz
 
 **„Én szaktanár vagyok, nem tanácsadó.”** Senki nem kéri, hogy bárkit kezeljen. Az alacsony tétű gyakorlás, a bíráló feladat és a revíziós hurok hétköznapi oktatási lépések. Az egyetlen eredmény, amely a helyzetére vonatkozik, a tanár-diák kapcsolat második helye Bashir és Afzal jellemzőfontossági elemzésében (10,0%), az alvásminőség (9,3%) és a társadalmi támogatás (7,6%) fölött. A szerzők hipotézisnek nevezik, és ésszerű fogadás egy olyan szerephez, amelyet már betölt.
 
-**„Nincs tanácsadási kapacitásunk, így egy eszköz jobb a semminél.”** Lehetséges, és ezt az oldal nem tudja eldönteni. Amit a bevezetés előtt megkövetelhet, az írásos válasz a pontosság érvényesítéséről, a támogatási szint eldöntésének módjáról, a káros téves besorolás esetén következőkről, a feltárulkozások tárolásáról és az emberi eszkaláció működéséről. Nincs válasz, nincs bevezetés. Az a diák, aki egy eszköznek tárul fel, és az rossz helyre teszi, lehet, hogy nem tárulkozik fel újra.
+**„Nincs tanácsadási kapacitásunk, így egy eszköz jobb a semminél.”** Lehetséges, és ezt a bizonyítékok nem tudják eldönteni. Amit a bevezetés előtt megkövetelhet, az írásos válasz a pontosság érvényesítéséről, a támogatási szint eldöntésének módjáról, a káros téves besorolás esetén következőkről, a feltárulkozások tárolásáról és az emberi eszkaláció működéséről. Nincs válasz, nincs bevezetés. Az a diák, aki egy eszköznek tárul fel, és az rossz helyre teszi, lehet, hogy nem tárulkozik fel újra.
 
 **„Ha szóba hozom a karrierkilátásokat az órán, túllépem a tantárgyamat.”** A másik lehetőség, hogy a diákok a munkaerőpiacból és egymástól rakják össze a választ. Duan és mtsai a karriertervezési munkát a tanulmányi program részeként javasolják, Dağ és mtsai pedig az MI-írástudás mellett. Ön házigazdája lehet a beszélgetésnek anélkül, hogy szakértelmet állítana, az egyedi eseteket pedig a karrierszolgálathoz irányíthatja.
 

@@ -6,9 +6,9 @@ weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-updated: "2026-10-29T14:37:59-04:00"
+updated: "2026-11-15T16:21:23-05:00"
 translation_of: faqs/ai-save-instructor-time
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ A megbeszélés lényege: adja át az első piszkozatot, és tartsa meg az íté
 
 ## Olyan munkával kezdje, amelyet amúgy is átírt volna
 
-A tudásbázis legerősebb száma egy [[rct|randomizált vizsgálatból]] származik, amelyet a [[ai-changing-teaching-workflows|Hogyan változtatja meg az MI a tanítás munkafolyamatait]] foglal össze. Kétszázötvenkilenc természettudományos tanár, aki ChatGPT-t használt, az órák előkészítésére a kontrollcsoport idejének nagyjából 69%-át fordította, ami hozzávetőleg 31%-os csökkentés, és a vak szakértői bírálók semmilyen észlelhető minőségvesztést nem találtak. A tanárok újraosztották, nem eltették: az időt a tervezésbe, a javításba és a hallgatókkal való munkába mozdították.
+A legerősebb szám egy [[rct|randomizált vizsgálatból]] származik, amelyet a [[ai-changing-teaching-workflows|Hogyan változtatja meg az MI a tanítás munkafolyamatait]] foglal össze. Kétszázötvenkilenc természettudományos tanár, aki ChatGPT-t használt, az órák előkészítésére a kontrollcsoport idejének nagyjából 69%-át fordította, ami hozzávetőleg 31%-os csökkentés, és a vak szakértői bírálók semmilyen észlelhető minőségvesztést nem találtak. A tanárok újraosztották, nem eltették: az időt a tervezésbe, a javításba és a hallgatókkal való munkába mozdították.
 
 Ugyanabban a munkában egy második adathalmaz, több mint 104 000 üzenet több mint 15 000 oktatótól, megmutatja, miért landol a megtakarítás furcsa helyeken. Az átlagos prompt egyszerre 1,7 kategóriát érint, így egyetlen óratervkérés úgy jön vissza, hogy differenciálást és egy kvízt is hoz, amelyet a tanár nem is gondolt kérni.
 
@@ -50,7 +50,7 @@ Ez újraosztás, nem csökkentés: amit a [[generative-ai|generatív MI]]-től k
 
 A minőség egyenetlen, de olyan mintázatban, amely elég stabil a tervezéshez. A vak bírálók a szakemberek által tervezett anyagokkal szemben az órazáró következtetések és a kilépőjegyek MI-változatait 59,7%-ban részesítették előnyben, a középiskolai tartalomhoz készült MI-anyagot pedig 59,2%-ban. A megtakarítás ott is nő, ahol a magabiztossága a legalacsonyabb: a saját tárgyán kívüli tanítás az az eset, ahol a legszélesebb a rés aközött, amit az eszköz ad Önnek, és amit egyedül írt volna.
 
-Két kategória ellenkező irányba fut. Az általános iskolai szintű anyagnál az embereket részesítették előnyben az esetek nagyjából 65%-ában a fejlődési megfelelőség miatt. A célzott [[scaffolding|állványok]] [[multilingual-learning|többnyelvű]] tanulókhoz és a [[special-education|gyógypedagógiai]] ellátásban részesülő hallgatókhoz semlegesnek jöttek vissza, nem tévesnek, ami rosszabb, mint amilyennek hangzik, mert egy semleges állványt az elejétől újra kell építeni.
+Két kategória ellenkező irányba fut. Az általános iskolai szintű anyagnál az embereket részesítették előnyben az esetek nagyjából 65%-ában a fejlődési megfelelőség miatt. A célzott [[scaffolding|állványok]] [[multilingual-learning|többnyelvű]] [[learners|tanulókhoz]] és a [[special-education|gyógypedagógiai]] ellátásban részesülő hallgatókhoz semlegesnek jöttek vissza, nem tévesnek, ami rosszabb, mint amilyennek hangzik, mert egy semleges állványt az elejétől újra kell építeni.
 
 A teszt, amely ezt előre jelzi, mielőtt egy estét ráköltene: meg tudja-e fogalmazni a specifikációt elég pontosan ahhoz, hogy ellenőrizni tudja a kimenetet? Egy kilépőjegy egy célról: igen. Hogy egy bekezdés megfelel-e egy konkrét kilencévesnek, aki két évvel az osztálya szintje alatt olvas: nem.
 
@@ -80,7 +80,7 @@ Használhat [[automated-essay-scoring|automatizált esszéosztályozást]], ha a
 
 ## Amit az oktatók rosszul tudnak
 
-**„A 31% az én számom.”** Az 259 K-12-es [[science-education|természettudományos]] tanárra vonatkozik, az órák előkészítésére. Az irány átvihető; a nagyság nem. Egy vitára épülő szeminárium kevesebbet takaríthat meg, egy biztonsági korlátokkal dolgozó laboratóriumi kurzus pedig semmit nem takaríthat meg azon a részen, amelyhez a leginkább segítséget akarta.
+**„A 31% az én számom.”** Az 259 [[k-12|K–12]]-es [[science-education|természettudományos]] tanárra vonatkozik, az órák előkészítésére. Az irány átvihető; a nagyság nem. Egy vitára épülő szeminárium kevesebbet takaríthat meg, egy biztonsági korlátokkal dolgozó laboratóriumi kurzus pedig semmit nem takaríthat meg azon a részen, amelyhez a leginkább segítséget akarta.
 
 **„Az időmegtakarítás a cél.”** A brazíliai kísérlet az ellenpélda. Az órák ingyen jöttek, és a legalacsonyabb negyed semmit nem nyert. A cél az, amit az órák megvásárolnak.
 
@@ -92,7 +92,7 @@ Használhat [[automated-essay-scoring|automatizált esszéosztályozást]], ha a
 
 **„Ha gyorsabb leszek, az időt megbeszélésekkel töltik fel újra.”** Valószínű, és ez a leggyakoribb módja annak, hogy egy megtakarítás eltűnik. Tegye írásba az úti célt ott, ahol a tanszékvezetője látja, mielőtt a hely megtelik.
 
-**„Az MI-visszajelzés megkárosítja a legjobban küzdő hallgatókat.”** A brazíliai legalacsonyabb negyed semmit nem nyert, és ez az ezen az oldalon szereplő legerősebb figyelmeztetés. Párosítsa a megtakarítást szándékos felhasználással. A négyszemközti beszélgetések 35%-os növekedése az, amit azok az osztályok az órákkal tettek, és ez a tanár döntése volt.
+**„Az MI-visszajelzés megkárosítja a legjobban küzdő hallgatókat.”** A brazíliai legalacsonyabb negyed semmit nem nyert, és ez a legerősebb figyelmeztetés a kutatásban. Párosítsa a megtakarítást szándékos felhasználással. A négyszemközti beszélgetések 35%-os növekedése az, amit azok az osztályok az órákkal tettek, és ez a tanár döntése volt.
 
 **„A jegyadás az, ahol az óráim ténylegesen vannak.”** Ott vannak, és ott a legkevésbé átvihető az eszköz intézmények között. Helyben validálja, vagy hagyja békén.
 
@@ -112,4 +112,4 @@ Használhat [[automated-essay-scoring|automatizált esszéosztályozást]], ha a
 
 ## Hová tovább
 
-[[ai-feedback-at-scale|A visszajelzés nagy léptékben]] viszi tovább a visszajelzés kérdését, és a [[faculty-ai-competencies|tanári MI-kompetenciák]] a [[faculty-development-ai|oktatói fejlesztéssel]] együtt azt tárgyalják, mit építhet fel egy tanszék, hogy ez ne egyéni kísérletezgetéstől függjön. Az [[redesign-assessment-ai-era|értékelés újratervezése az MI korszakában]] és a [[reduce-ai-cheating|MI-csalás csökkentése]] kezeli az értékelési következményeket. Az [[ai-changing-teaching-workflows|MI és a tanítási munkafolyamatok]] a felkészülési számok mögötti cikk, és a [[human-in-the-loop-ai|emberi felügyelet]] az az elv, amelyen ez az oldal fordul.
+[[ai-feedback-at-scale|A visszajelzés nagy léptékben]] viszi tovább a visszajelzés kérdését, és a [[faculty-ai-competencies|tanári MI-kompetenciák]] a [[faculty-development-ai|oktatói fejlesztéssel]] együtt azt tárgyalják, mit építhet fel egy tanszék, hogy ez ne egyéni kísérletezgetéstől függjön. Az [[redesign-assessment-ai-era|értékelés újratervezése az MI korszakában]] és a [[reduce-ai-cheating|MI-csalás csökkentése]] kezeli az értékelési következményeket. A [[ai-changing-teaching-workflows|Ler (2026)]] a felkészülési számok mögötti cikk, és a [[human-in-the-loop-ai|emberi felügyelet]] az az irányadó elv.

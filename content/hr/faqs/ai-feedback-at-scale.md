@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:17:00-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,8 @@ Povratna informacija vršnjaka zaslužuje vlastito mjesto u slijedu. [[scaffoldi
 
 Prednost Gu i sur. bila je mala i čitaju je kao stvarnu, ali ne i sama po sebi preobražavajuću. Postupna potpora nastavnika, smjernice za poticaje i radni listovi obavili su potporni posao.
 
+Izvor može biti manje važan od trenutka. Kod 391 njemačkog srednjoškolca povratna informacija koju su napisali nastavnici i ona koju je dao LLM nisu proizvele značajnu razliku u doradama, kasnijem pisanju, vremenu na zadatku ni percepcijama; Bayesove posteriorne distribucije naginjale su povratnoj informaciji nastavnika kod kasnijeg pisanja, ali su zadržale četvrtinu do dvije petine mase unutar područja ekvivalentnosti, a samo je neposredna povratna informacija AI-ja dobila bolje ocjene korisnosti i motivacije ([[meyer-teacher-ai-feedback-writing-2026|Meyer i sur., 2026]]). Ako prvi komentar može stići dok student još doraduje, to je vrijeme dio dizajna koji radi.
+
 ## Dajte modelu rubriku, a zatim neka pokaže korake
 
 Generiranje s upućivanjem na rubriku automatizirani je dio.
@@ -92,7 +94,7 @@ Aldino i sur. nalaze isti obrazac pomozi pa provjeri u uobičajenoj praksi. Komp
 
 Dvanaest od 21 nastavnika u Aldino i sur. napravilo je dodatne ispravke na razini rečenice, a prevladavajući je obrazac bila kalibracija tona: smanjivanje hvale (f = 11), uklanjanje prijedloga (f = 9), uklanjanje ohrabrenja (f = 8). Ispravci su se grupirali u relacijskoj dimenziji, posebno u odnosu studenta i nastavnika (f = 24). Štitili su autentičnost i profesionalni glas, a taj se rad ne automatizira.
 
-Studenti su druga strana te provjere, a njihov opis podjele rada blizak je onome što ova stranica preporučuje. U fokusnim skupinama s 20 studenata preddiplomskog studija povratna veza nastavnika cijenjena je kao relacijska, personalizirana i vođena stručnošću, dok je povratna veza koju generira AI djelovala neosobno i potencijalno nepravedno; ti isti studenti bili su otvoreni za hibridni model u kojem nastavnik čita njihov rad i dopunjuje komentare modela ([[fong-chatgpt-feedback-evaluations-2026|Fong i sur. (2026)]]). Ista studija pokazala je da su se njihove prosudbe podudarale s ChatGPT-ovima u specifičnosti i primjenjivosti, ali razilazile u pravovremenosti i pozitivnosti, pa su dimenzije u kojima se može vjerovati vlastitoj presudi modela uže od cijele rubrike.
+Studenti su druga strana te provjere, a njihov opis podjele rada blizak je preporučenome. U fokusnim skupinama s 20 studenata preddiplomskog studija povratna veza nastavnika cijenjena je kao relacijska, personalizirana i vođena stručnošću, dok je povratna veza koju generira AI djelovala neosobno i potencijalno nepravedno; ti isti studenti bili su otvoreni za hibridni model u kojem nastavnik čita njihov rad i dopunjuje komentare modela ([[fong-chatgpt-feedback-evaluations-2026|Fong i sur. (2026)]]). Ista studija pokazala je da su se njihove prosudbe podudarale s ChatGPT-ovima u specifičnosti i primjenjivosti, ali razilazile u pravovremenosti i pozitivnosti, pa su dimenzije u kojima se može vjerovati vlastitoj presudi modela uže od cijele rubrike.
 
 ## Naučite studente čitati komentar
 
@@ -144,6 +146,6 @@ Ocjene zadovoljstva kažu vam da su komentari točni. U Deakinovu pilotu pozitiv
 
 ## Kamo dalje
 
-[[feedback|Povratna informacija]] krovni je pojam za cijeli sustav: pružanje, petlja, prihvaćanje i kontekst ocjenjivanja. [[ai-feedback-quality|Kvaliteta UI povratne informacije]] pokriva što generirane komentare čini točnima, korisnima, pravodobnima i pedagoški utemeljenima, a ova je stranica praktična sredina, o tome koje kombinacije tih dijelova proizvode bolju povratnu informaciju u velikom opsegu.
+[[feedback|Povratna informacija]] krovni je pojam za cijeli sustav: pružanje, petlja, prihvaćanje i kontekst ocjenjivanja. [[ai-feedback-quality|Kvaliteta UI povratne informacije]] pokriva što generirane komentare čini točnima, korisnima, pravodobnima i pedagoški utemeljenima, a praktično je pitanje koje kombinacije tih dijelova proizvode bolju povratnu informaciju u velikom opsegu.
 
 Pitanja o tome što bi ocjena trebala značiti kada je umjetna inteligencija uključena, uključujući zamjenu konstrukta, autentificirane dokaze o procesu i pravila čestitosti, pripadaju stranicama [[redesign-assessment-ai-era|redizajn ocjenjivanja u eri umjetne inteligencije]] i [[assessment-validity|valjanost ocjenjivanja]], a ne ovoj. Za poseban slučaj poučavanja pisanja vidi [[writing-instruction-ai-best-practices|najbolje prakse za poučavanje pisanja u kontekstu umjetne inteligencije]].

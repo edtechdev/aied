@@ -9,9 +9,9 @@ ethics: [hallucination-risk, trust-calibration]
 research_method: [experiment, literature review, survey]
 audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
-updated: "2026-10-29T11:57:27-04:00"
+updated: "2026-11-15T16:26:33-05:00"
 translation_of: faqs/verify-ai-output
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -23,7 +23,7 @@ ai_assist:
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
 
-Je týden před uzávěrkou známek a dvě odevzdání citují zdroje, které neexistují. Oba studenti tvrdí, že si je ověřili. Jeden otevřel odkaz. Druhý si přečetl odstavec a rozhodl, že to zní správně. Této třídě jste už říkali, ať si ověřuje, co jí chatbot dává, a to sdělení to chování nevyvolalo.
+Je týden před uzávěrkou známek a dvě odevzdání citují zdroje, které neexistují. Oba studenti tvrdí, že si je ověřili. Jeden otevřel odkaz. Druhý si přečetl odstavec a rozhodl, že to zní správně. Této třídě jste už říkali, ať si ověřuje, co jí [[conversational-ai|chatbot]] dává, a to sdělení to chování nevyvolalo.
 
 Ověřování je sled kroků, který můžete zabudovat do úkolu. Rozhodněte, co se počítá jako správné, dřív než úkol začne, nechte studenta zavázat se k očekávání písemně, pošlete ho k záznamu místo k jeho dojmu z prózy a hodnoťte záznam, který vytvoří. Řádek rubriky, který říká „ověřené zdroje“, z toho neměří nic.
 
@@ -45,7 +45,7 @@ Ověřování je sled kroků, který můžete zabudovat do úkolu. Rozhodněte, 
 
 [[verification-quality-reliance-calibration-genai-2026|Wei a Shang (2026)]] při přehledu 493 deduplikovaných záznamů a mapování 14 prioritních empirických studií oddělují sedm věcí, které „kritické používání AI“ slévá v jednu: epistemické hodnocení, zahájení ověřování, kvalitu procesu, úspěšnost ověření, rozhodnutí o spoléhání, okamžitý výkon v úkolu a samostatné učení. Vaše rubrika říká „ověřené zdroje“, což sedí na druhém kroku a neříká vám nic o tom, zda byla kontrola kompetentní nebo zda změnila studentovu odpověď. Zahájení není úspěch. Silný proces může skončit bez závěru, slabý může trefit správnou odpověď a student, který spustil hledání a zůstal zmatený, skóruje stejně jako ten, kdo otázku vyřešil.
 
-Stejný přehled vede druhou linii, mezi [[trust|důvěrou]] a spoléháním. [[trust-calibration|Kalibrace spoléhání]] se ptá, zda bylo rozhodnutí o spoléhání přiměřené vzhledem ke skutečné kvalitě výstupu, což váže úsudek k jednomu rozhodnutí a jednomu výstupu. Jedna auditovaná studie zjistila, že nepravdivé informace z ChatGPT posunuly vykazovanou důvěru účastníků, a nikdy nezaznamenala, zda později přijali nebo odmítli konkrétní doporučení. Jiná zaznamenala rozhodnutí o přijetí a odmítnutí u [[feedback|zpětné vazby]] ChatGPT u 78 studentů překladu, ale bez nezávislého odborného hodnocení nelze přijetí nazvat přiměřeným a odmítnutí nelze nazvat odůvodněným. Bez základní pravdy o kvalitě výstupu nelze spoléhání vůbec klasifikovat.
+Stejný přehled vede druhou linii, mezi [[trust|důvěrou]] a spoléháním. [[trust-calibration|Kalibrace spoléhání]] se ptá, zda bylo rozhodnutí o spoléhání přiměřené vzhledem ke skutečné kvalitě výstupu, což váže úsudek k jednomu rozhodnutí a jednomu výstupu. Jedna auditovaná studie zjistila, že nepravdivé informace z [[generative-ai|ChatGPT]] posunuly vykazovanou důvěru účastníků, a nikdy nezaznamenala, zda později přijali nebo odmítli konkrétní doporučení. Jiná zaznamenala rozhodnutí o přijetí a odmítnutí u [[feedback|zpětné vazby]] ChatGPT u 78 studentů překladu, ale bez nezávislého odborného hodnocení nelze přijetí nazvat přiměřeným a odmítnutí nelze nazvat odůvodněným. Bez základní pravdy o kvalitě výstupu nelze spoléhání vůbec klasifikovat.
 
 To je designový důsledek a je to první věc, kterou je třeba opravit. Než zadáte úkol na ověřování, napište dva krátké popisy: jak vypadá správný výstup pro tento úkol a jak vypadá pravděpodobný, ale špatný výstup. Jeden od každého stačí. Studenti pak mají standard, proti kterému kontrolují, a vy máte něco, proti čemu kontrolu oznámkujete, místo toho, zda student zní pečlivě.
 
@@ -59,7 +59,7 @@ V praxi je to jeden řádek v zadání: než nástroj otevřete, napište, co o�
 
 ## Pošlete je k záznamu
 
-[[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] dohledali 113 588 odkazů z 5 225 prací o vzdělávání v informatice publikovaných od roku 2021 a ručně ověřili 828 podezřelých záznamů. Našli 30 záznamů obsahujících prokazatelně zfalšované bibliografické údaje ve 14 pracích, všechny z let 2025 a 2026. Třináct bylo zcela vymyšlených. Zbylých 17 spojovalo skutečný název s vymyšleným nebo nesprávným autorstvím, místem publikování nebo rokem. Na technickém sympoziu SIGCSE se počet zvýšil ze 3 ve sborníku z roku 2025 na 17 v roce 2026, tedy na 2,3 % prací v tomto ročníku.
+[[citation-errors-hallucinations-computing-education-2026|Denny et al. (2026)]] dohledali 113 588 odkazů z 5 225 prací o [[cs-education|vzdělávání v informatice]] publikovaných od roku 2021 a ručně ověřili 828 podezřelých záznamů. Našli 30 záznamů obsahujících prokazatelně zfalšované bibliografické údaje ve 14 pracích, všechny z let 2025 a 2026. Třináct bylo zcela vymyšlených. Zbylých 17 spojovalo skutečný název s vymyšleným nebo nesprávným autorstvím, místem publikování nebo rokem. Na technickém sympoziu SIGCSE se počet zvýšil ze 3 ve sborníku z roku 2025 na 17 v roce 2026, tedy na 2,3 % prací v tomto ročníku.
 
 Pole autorů selhává častěji než kterákoli jiná část generovaného odkazu. To jediné zjištění vám říká, na co se ptát. „Otevřete zdroj a přečtěte seznam autorů“ míří na pole, které se nejpravděpodobněji mýlí, a produkuje fakt, který student buď má, nebo nemá. „Ujistěte se, že zdroje jsou skutečné“ produkuje ujištění. Žádejte po studentech, aby potvrdili autory, místo publikování a rok proti samotnému záznamu. Práce žádá, aby každé citované dílo bylo ověřeno a aby každý automatický kontrolor zůstal [[human-in-the-loop-ai|s člověkem ve smyčce]], což je přesně ten návyk, který požadavek na citace nacvičuje.
 
@@ -79,7 +79,7 @@ Gousopoulos vyvozuje důsledek přímo. Pokud AI umí vytvořit artefakt, artefa
 
 Rubrika čerpá z materiálů, které konstrukční úkol už generuje, takže stejný nástroj je jak [[formative-assessment|formativním hodnocením]], tak výzkumnou mírou. To odpovídá na obavu z práce navíc: známkujete vedlejší produkt úkolu, který jste už zadali. Vedle toho patří dvě omezení. Žádná studie mezi 14 prioritními případy Wei a Shanga neměřila úspěšnost ověření a následné rozhodnutí o spoléhání společně a jen málo jich sledovalo okamžitý výkon s odloženou retencí nebo [[transfer-of-learning|přenosem]], takže rubrika stojí na analytické mapě, ne na validovaném kauzálním sledu.
 
-Tři rozhodnutí brání tomu, aby se z toho stal dohled. Hodnoťte kontrolu proti posouzené kvalitě, ne proti úsilí, jinak vytváříte pobídku k předstírání kontroly. Uvádějte provenienci, jak žádá Venetsanos: studenti potřebují vědět, které části zpětné vazby, kterou dostávají, byly strojově ověřené, které byly posouzeny hodnotícím úsudkem a že lidský úsudek má přednost, protože nemohou vážit zpětnou vazbu, kterou neumějí zařadit. A držte vymáhání mimo detekční nástroje. [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] argumentují, že [[ai-detection|detekce AI]] by se ve vzdělávání neměla používat vůbec: její odhady jsou pravděpodobnostní a nelze je nezávisle ověřit, protože skutečný původ textu v reálném světě není znám, její skóre nesplňuje standard převahy pravděpodobností, který vyšetřování integrity vyžaduje, a dichotomie člověk versus AI nemá pro práci vytvořenou s AI, a ne AI, žádný smysl. Jejich závěr je, že detekce „nechrání akademickou integritu, ale podkopává ji“. Režimy dohledu plodí podezírání a narušují [[trust|důvěru]] studentů. Držte oba smysly detekce oddělené. Detekce textu vygenerovaného AI tu nemá obhajitelnou důkazní roli; učit studenty detekovat chyby ve výstupu AI je celé to cvičení.
+Tři rozhodnutí brání tomu, aby se z toho stal dohled. Hodnoťte kontrolu proti posouzené kvalitě, ne proti úsilí, jinak vytváříte pobídku k předstírání kontroly. Uvádějte provenienci, jak žádá Venetsanos: studenti potřebují vědět, které části zpětné vazby, kterou dostávají, byly strojově ověřené, které byly posouzeny hodnotícím úsudkem a že lidský úsudek má přednost, protože nemohou vážit zpětnou vazbu, kterou neumějí zařadit. A držte vymáhání mimo detekční nástroje. [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] argumentují, že [[ai-detection|detekce AI]] by se ve vzdělávání neměla používat vůbec: její odhady jsou pravděpodobnostní a nelze je nezávisle ověřit, protože skutečný původ textu v reálném světě není znám, její skóre nesplňuje standard převahy pravděpodobností, který vyšetřování integrity vyžaduje, a dichotomie člověk versus AI nemá pro práci vytvořenou s AI, a ne AI, žádný smysl. Jejich závěr je, že detekce „nechrání [[academic-integrity|akademickou integritu]], ale podkopává ji“. Režimy dohledu plodí podezírání a narušují [[trust|důvěru]] studentů. Držte oba smysly detekce oddělené. Detekce textu vygenerovaného AI tu nemá obhajitelnou důkazní roli; učit studenty detekovat chyby ve výstupu AI je celé to cvičení.
 
 To oddělení je architektonické a stojí za to o něm studentům říct. [[vetting-dual-llm-safety-education|Li, Zhang a Botelho (2026)]] kontrolují výstup druhým modelem, místo aby kontrolu vkládali do generátoru. Student, který vidí proč, vidí i proč „nástroj řekl, že je to správně“ není argument ověření.
 
@@ -113,7 +113,7 @@ Nedůvěřujte pocitu, že se próza čte dobře. Nováčci požádaní o vysvě
 
 **„Když budou číst pozorně, chyby najdou.“** Plynulost nese úsudek. Auditovaná literatura ukazuje nováčky přibližně na třetině úspěšnosti při vysvětlování generovaného kódu a terénní studie zaznamenala špatnou odpověď, která přišla přes správné vedení.
 
-**„Studenti, kteří říkají, že budou ověřovat, to dělají.“** Ve studii Vu, Cummingse a Parka se sebeposuzované záměry nezměnily, zatímco vykonané chování ano (M = 0,34 proti 0,18). Známkujte chování, to se pohnulo.
+**„Studenti, kteří říkají, že budou ověřovat, to dělají.“** Ve studii Vu, Cummingse a Parka se [[self-report-measures|sebeposuzované]] záměry nezměnily, zatímco vykonané chování ano (M = 0,34 proti 0,18). Známkujte chování, to se pohnulo.
 
 **„Studenti, kteří kontrolu vynechají, jsou ti, kterým je to jedno.“** [[trust-calibration-chatbots-design-problem-2026|Jaidka a Cai (2026)]] kříží schopnost ověřovat s motivací ověřovat a ty profily potřebují různá řešení. Student s vysokou schopností a nízkou motivací má sklon k samolibému nadměrné závislosti. Student s nízkou schopností a nízkou motivací je nejvíc vystavený. Dva studenti, kteří neuspějí ve stejné kontrole, mohou potřebovat opačnou výuku a [[prior-knowledge|předchozí znalosti]] rozhodují o tom, na kterého se díváte.
 
@@ -129,7 +129,7 @@ Nedůvěřujte pocitu, že se próza čte dobře. Nováčci požádaní o vysvě
 
 **„Nástroj má obvykle pravdu.“** Pak je kontrola levná a výjimky jsou to podstatné. Pole autorů selhává častěji než kterákoli jiná část generovaného odkazu, 17 z 30 zfalšovaných položek spojovalo skutečný název s nesprávným autorstvím, místem publikování nebo rokem a 17 se objevilo ve sborníku jediného ročníku sympozia. Přesnost v částech, kterých si náhodou všimnete, neříká nic o částech, kterých si nevšimnete.
 
-**„Moji studenti nevědí dost na to, aby výstup posoudili.“** To je práh senzitivity a je skutečný. Gousopoulos předpovídá, že výuka ověřování selhává pod určitou hranicí oborových znalostí, a poznamenává, že některé obory poskytují vnější kritérium, mezi nimi fyzika, chemie, ekologie a epidemiologie, zatímco historie, literatura a [[ethics|etika]] ho z velké části neposkytují. Učte obor a kontrolu k němu připevněte, nebo očekávejte, že se kontrola stane rituálem.
+**„Moji studenti nevědí dost na to, aby výstup posoudili.“** To je práh senzitivity a je skutečný. Gousopoulos předpovídá, že výuka ověřování selhává pod určitou hranicí oborových znalostí, a poznamenává, že některé obory poskytují vnější kritérium, mezi nimi fyzika, [[chemistry-education|chemie]], ekologie a epidemiologie, zatímco historie, literatura a [[ethics|etika]] ho z velké části neposkytují. Učte obor a kontrolu k němu připevněte, nebo očekávejte, že se kontrola stane rituálem.
 
 **„Tohle je dohled.“** Je, pokud známkujete úsilí nebo sledujete, jak studenti pracují. Známkujte artefakt proti klíči, uveďte, která zpětná vazba byla strojově zkontrolovaná a kterou posoudil člověk, a detektory nechte mimo.
 
@@ -147,4 +147,4 @@ Nedůvěřujte pocitu, že se próza čte dobře. Nováčci požádaní o vysvě
 
 ## Kam dál
 
-[[incorporating-ai-literacy]] pokrývá, jak vybudovat porozumění, které tato stránka uvádí do práce, a [[ai-literacy-evidence]] pokrývá, co ta práce na gramotnosti má za hodnotu. [[reducing-over-reliance]] řeší designovou stranu studentů, kteří se opírají o nástroj, [[study-with-ai]] je protějšek pro studenty a [[asynchronous-online-courses-ai]] pokrývá verzi tohoto problému bez výuky, do které by se dala kontrola naplánovat. O zpětné vazbě, kterou studenti kontrolují, viz [[ai-feedback-quality]] a [[hallucination-risk]].
+[[incorporating-ai-literacy]] pokrývá, jak vybudovat porozumění, na kterém ověřování závisí, a [[ai-literacy-evidence]] pokrývá, co ta práce na gramotnosti má za hodnotu. [[reducing-over-reliance]] řeší designovou stranu studentů, kteří se opírají o nástroj, [[study-with-ai]] je protějšek pro studenty a [[asynchronous-online-courses-ai]] pokrývá verzi tohoto problému bez výuky, do které by se dala kontrola naplánovat. O zpětné vazbě, kterou studenti kontrolují, viz [[ai-feedback-quality]] a [[hallucination-risk]].

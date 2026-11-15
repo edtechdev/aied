@@ -1,9 +1,9 @@
 ---
 title: "Čemu by se vzdělavatelé měli u AI vyhýbat?"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-11T06:20:00-05:00"
+updated: "2026-11-15T16:30:24-05:00"
 type: faq
-connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors]
+connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors, adopting-ai-options-and-issues]
 weight: 90
 foundations: [misconceptions, reducing-ai-misuse, ai-literacy, limitations-in-aied-research]
 pedagogy: [reflection, professional-training]
@@ -12,7 +12,7 @@ assessment: [assessment-validity, ai-detection, self-report-measures, feedback]
 ethics: [privacy, pedagogical-safety, equity-in-ai-education, accessibility, automation-bias]
 audience: [instructors, learners, parents and families, faculty developers, software developers, administrators, researchers]
 translation_of: faqs/what-not-to-do-ai-education
-source_updated: "2026-11-11T06:20:00-05:00"
+source_updated: "2026-11-14T04:30:00-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -24,13 +24,13 @@ ai_assist:
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
 
-Většina doporučení k AI ve vzdělávání říká, co vyzkoušet. Tato stránka sbírá postupy, u nichž důkazy říkají, že je třeba přestat, uspořádané podle role, která by s nimi musela přestat. Mylná přesvědčení řešíme jinde: zabývá se jimi [[addressing-common-misconceptions-ai-education|FAQ o mylných představách]] a konceptuální stránka [[misconceptions]] vysvětluje, proč přetrvávají. Co výzkum zatím neumí říct, patří k [[limitations-in-aied-research|omezením výzkumu AIEd]]. Tady jde o krok po přesvědčení: co lidé dělají, co je to stojí a co dělat místo toho.
+Většina doporučení k AI ve vzdělávání říká, co vyzkoušet. Následující seznam sbírá postupy, u nichž důkazy říkají, že je třeba přestat, uspořádané podle role, která by s nimi musela přestat. Mylná přesvědčení řešíme jinde: zabývá se jimi [[addressing-common-misconceptions-ai-education|FAQ o mylných představách]] a konceptuální stránka [[misconceptions]] vysvětluje, proč přetrvávají. Co výzkum zatím neumí říct, patří k [[limitations-in-aied-research|omezením výzkumu AIEd]]. Tady jde o krok po přesvědčení: co lidé dělají, co je to stojí a co dělat místo toho.
 
 Tři selhání se opakují napříč rolemi.
 
-1. **Substituce.** Nástroj provádí myšlení, které měl udělat student, a výstup se hodnotí, jako by ho udělal student. Odevzdaná esej je záznamem toho, co umí model, ne toho, co umí student.
-2. **Nezasloužený důkaz.** Signál, který se snadno sbírá, jako jistota, plynulost, zapojení nebo míra dokončení, se bere jako důkaz něčeho, co ukázat nemůže. Dashboard může hlásit čtyřicet minut v hodině s tutorem; nemůže hlásit, zda se někdo naučil řešit kvadratickou rovnici.
-3. **Struktura ponechaná apelu.** Od varování, věty v politice nebo školení se očekává práce, kterou musí udělat návrh rozhraní, návrh hodnocení nebo správa a řízení. Sylabus říká, aby se AI používala odpovědně, a tutor přesto na první prompt vydá hotovou odpověď.
+1. **Nástroj myslí místo studenta.** Student má něco vypracovat a nástroj to udělá místo něj, a přesto se výsledek hodnotí jako studentův vlastní. Odevzdaná esej je záznamem toho, co umí model, ne toho, co umí student.
+2. **Číslo, které neukazuje učení.** Něco snadno spočitatelného, jako jistota, plynulost, zapojení nebo míra dokončení, se bere jako důkaz, že k učení došlo. Dashboard může hlásit čtyřicet minut v hodině s tutorem; nemůže hlásit, zda se někdo naučil řešit kvadratickou rovnici.
+3. **Pravidlo tam, kde má pracovat nastavení.** Od varování, věty v sylabu nebo školení se očekává práce, kterou musí udělat návrh rozhraní, návrh hodnocení nebo správa a řízení. Sylabus říká, aby se AI používala odpovědně, a tutor přesto na první prompt vydá hotovou odpověď.
 
 ## Stručně
 

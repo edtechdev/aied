@@ -1,7 +1,7 @@
 ---
 title: "Jak poznáme, že vzdělávací AI funguje správně, a ne že jen dobře skóruje?"
 created: "2026-10-02T08:07:09-04:00"
-connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
 foundations: [ai-education]
@@ -14,9 +14,9 @@ discipline: [writing education, math education]
 confidence: high
 methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
-updated: "2026-10-29T11:57:26-04:00"
+updated: "2026-11-15T16:25:48-05:00"
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -58,7 +58,7 @@ Asistent kurzu lineárních řídicích systémů to podává správným způsob
 
 ## Skórujte každý výstup zvlášť
 
-V projektu WrAFT dosáhl doladěný model skóre shody **0,84** s lidskými hodnotiteli na 360 odložených esejích TOEFL. To je silný výsledek pro známkování. Model téhož projektu trénovaný na psaní zpětné vazby však produkoval výstup, který byl zkrácený a neparsovatelný, zatímco pouhé zadání promptu jinému modelu vyprodukovalo zpětnou vazbu, kterou učitelé preferovali ([[wraft-automated-writing-evaluation-argumentative-2026]]).
+V projektu WrAFT dosáhl doladěný model skóre shody **0,84** s lidskými hodnotiteli na 360 odložených esejích TOEFL. To je silný výsledek pro známkování. Model téhož projektu trénovaný na psaní zpětné vazby však produkoval výstup, který byl zkrácený a neparsovatelný, zatímco pouhé [[prompt-engineering|promptování]] jiného modelu vyprodukovalo zpětnou vazbu, kterou učitelé preferovali ([[wraft-automated-writing-evaluation-argumentative-2026]]).
 
 Znalostní báze nese stejné selhání v druhé podobě: nasazení, jehož modul známkování skóroval dobře a jehož zpětná vazba dorazila uříznutá uprostřed věty a nečitelná. Nic v hlavním čísle to neříkalo.
 
@@ -66,7 +66,7 @@ Seberte tedy výstupy, které váš systém produkuje, a každému dejte vlastn�
 
 ## Postavte člověka tam, kde si model není jistý
 
-Korelace vám říká, že model má obvykle pravdu. Neříká vám, co dělat v případech, kdy ji nemá. Výsledek směrování podle jistoty je nejčistší šablonou ve znalostní bázi a je dost krátký na to, aby se dal opsat.
+Korelace vám říká, že model má obvykle pravdu. Neříká vám, co dělat v případech, kdy ji nemá. Výsledek směrování podle jistoty je nejčistší šablonou a je dost krátký na to, aby se dal opsat.
 
 Jistota se ukázala jako spolehlivý varovný signál: když si model nebyl jistý, pravděpodobněji se mýlil (**β = -0,602, p < 0,001**). Tým poslal nejméně jistých **20 %** odpovědí člověku. Toto jediné pravidlo zvedlo shodu s lidskými známkami z **0,78 na 0,82** a snížilo ruční práci se známkováním zhruba o **80 %** ([[know-when-to-trust-ai-scoring-reliability-2026]]).
 
@@ -84,13 +84,13 @@ Praktická verze: vezměte vzorek zhruba padesáti výstupů, nechte je ohodnoti
 
 Nejčistší oprava je trénovat model na téže veličině, kterou hodláte měřit. Doladěný model byl trénován tak, aby reprodukoval statistické vlastnosti testových otázek: jak je každá položka obtížná a jak dobře odděluje silnější studenty od slabších. Tyto vzorce se naučil, místo aby mu byly sděleny ([[multimodal-item-parameter-estimation-2026]]). Protože cílem byla vlastnost samotného hodnocení, evaluace se mohla týkat této vlastnosti, a ne formulace.
 
-Uvádějte postup i koncový bod. Simulátor psaní SWIM publikoval skóre každé fáze vedle sebe: promptování podle rubriky **0,577**, doladění **0,474 ± 0,023**, posilované učení **0,618 ± 0,005** ([[swim-student-writing-simulation-2026]]). Čtenář z takové tabulky pozná, jestli trénink něco přinesl. Jediné konečné číslo mu to neřekne a navíc skryje fázi, v níž si doladěný model vedl hůř než prompt.
+Uvádějte postup i koncový bod. [[simulation|Simulátor]] psaní SWIM publikoval skóre každé fáze vedle sebe: promptování podle rubriky **0,577**, doladění **0,474 ± 0,023**, [[reinforcement-learning|posilované učení]] **0,618 ± 0,005** ([[swim-student-writing-simulation-2026]]). Čtenář z takové tabulky pozná, jestli trénink něco přinesl. Jediné konečné číslo mu to neřekne a navíc skryje fázi, v níž si doladěný model vedl hůř než prompt.
 
 ## Porovnávejte s něčím mimo svůj projekt
 
 Nejdřív si pořiďte výchozí hodnotu, i kdyby byla levná. Model asistenta kurzu bez ukotvení skóroval hůř než prosté vyhledávání podle klíčových slov, což je typ výsledku, který změní plán a jehož zjištění stojí jeden den.
 
-Vnější benchmark vám pak řekne, jestli vaše číslo vůbec něco znamená. Na pedagogickém benchmarku CDPK dosáhl EduQwen **96,52 %** proti **90,55 %** modelu Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Benchmark pedagogiky, postavený na skutečných zkouškách z profesního rozvoje učitelů a pokrývající **97 modelů**, našel přesnost v rozmezí od **28 % do 89 %** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
+Vnější benchmark vám pak řekne, jestli vaše číslo vůbec něco znamená. Na [[pedagogy|pedagogickém]] benchmarku CDPK dosáhl EduQwen **96,52 %** proti **90,55 %** modelu Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Benchmark pedagogiky, postavený na skutečných zkouškách z profesního rozvoje [[teacher-role|učitelů]] a pokrývající **97 modelů**, našel přesnost v rozmezí od **28 % do 89 %** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
 
 V úloze o vyučování se modely pohybovaly od slabých po dobré, takže výsledek z benchmarku umísťuje váš systém někam do širokého rozpětí.
 
@@ -102,9 +102,9 @@ Proveďte kontrolu napříč celými konverzacemi a testovací tahy pište zám�
 
 ## Prověřte simulovaného studenta, než mu uvěříte
 
-Generování simulovaných studentů místo najímání skutečných činí evaluaci mnohem levnější. Simulovaný student je také měřicí nástroj a může se mýlit tak, jak se nástroje mýlí: je příliš ochotný, příliš plynný, příliš rychle přijímá nápovědu.
+Generování [[simulating-students|simulovaných studentů]] místo najímání skutečných činí evaluaci mnohem levnější. Simulovaný student je také měřicí nástroj a může se mýlit tak, jak se nástroje mýlí: je příliš ochotný, příliš plynný, příliš rychle přijímá nápovědu.
 
-Nejpřímější test ve znalostní bázi porovnával simulované a promptované studenty proti **382 odloženým dialogům** z největší veřejné sbírky skutečných matematických dialogů studenta s tutorem, pomocí sedmi měřítek pokrývajících jazyk, chování a myšlení ([[simulated-students-tutoring-dialogues-2026]]). Jiná práce tlačí na realističnost z různých stran: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] trénuje modely, aby se chovaly i myslely jako studenti, a profily zohledňující historii podmiňují simulaci minulostí studenta, a ne pevnou personou ([[history-aware-student-simulation]]).
+Nejpřímější test porovnával simulované a promptované studenty proti **382 odloženým dialogům** z největší veřejné sbírky skutečných matematických dialogů studenta s tutorem, pomocí sedmi měřítek pokrývajících jazyk, chování a myšlení ([[simulated-students-tutoring-dialogues-2026]]). Jiná práce tlačí na realističnost z různých stran: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] trénuje modely, aby se chovaly i myslely jako studenti, a profily zohledňující historii podmiňují simulaci minulostí studenta, a ne pevnou personou ([[history-aware-student-simulation]]).
 
 Pokud je vaším nástrojem simulovaný student, ověřte simulátor proti skutečným přepisům, než ho pustíte k hodnocení vašeho tutora.
 

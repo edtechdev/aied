@@ -6,9 +6,9 @@ weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-updated: "2026-10-29T14:24:49-04:00"
+updated: "2026-11-15T16:18:10-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Demonstracija dobavljača traje četrdeset minuta. Agent čita izvedbeni plan, s
 
 [[agentic-workflows-education|Agentic Workflows in Education]] imenuje četiri ponavljajuće sposobnosti: refleksiju, planiranje, upotrebu alata i višeagentsku suradnju. Svaka uz mogućnost dodaje i trošak, u [[explainable-ai|tumačivosti]], koordinaciji, [[trust-calibration|povjerenju]], latenciji i nadzoru.
 
-Studentske uloge protežu se od [[adaptive-learning|prilagodljivog]] poučavanja i planiranja učenja preko [[formative-assessment|formativne]] povratne informacije, vođenog [[problem-solving|rješavanja problema]] i generiranja vježbe do preporuka preduvjeta i refleksivnog [[metacognition|metakognitivnog]] [[prompt-engineering|oblikovanja poticaja]]. Nastavničke uloge pokrivaju razvoj materijala, [[automated-question-generation|generiranje pitanja]] i njihovu provjeru, trijažu povratnih informacija, [[learning-analytics|analitiku]] kolegija, dizajn poučavanja, dohvaćanje resursa i orkestraciju specijaliziranih podagenata.
+Studentske uloge protežu se od [[adaptive-learning|prilagodljivog]] poučavanja i planiranja učenja preko [[formative-assessment|formativne]] povratne informacije, vođenog [[problem-solving|rješavanja problema]] i generiranja vježbe do preporuka preduvjeta i refleksivnog [[metacognition|metakognitivnog]] [[prompt-engineering|oblikovanja poticaja]]. Nastavničke uloge pokrivaju razvoj materijala, [[automated-question-generation|generiranje pitanja]] i njihovu provjeru, trijažu povratnih informacija, [[learning-analytics|analitiku]] kolegija, [[learning-design|dizajn poučavanja]], dohvaćanje resursa i orkestraciju specijaliziranih podagenata.
 
 Dvije su od njih sigurnije u ranoj fazi, jer obje proizvode artefakt koji osoba pročita prije studenata: generator pitanja uparen s validatorom i nacrt koji nastavnik uređuje.
 

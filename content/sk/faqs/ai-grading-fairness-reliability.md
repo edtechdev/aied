@@ -1,7 +1,7 @@
 ---
 title: "Môžem použiť AI na spravodlivé a spoľahlivé hodnotenie študentských prác?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:27:26-05:00"
 type: faq
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
@@ -46,11 +46,11 @@ Tu je krátka odpoveď: hodnotenie s AI si zaslúži miesto ako dohliadaný asis
 
 Tri usporiadania sa nazývajú „hodnotenie s AI“ a nesú rôzne povinnosti.
 
-**Asistent spätnej väzby** navrhuje komentáre alebo označuje možné vynechania, ktoré prijmete, prepíšete alebo zahodíte. Riziko sa obmedzuje na kvalitu komentárov a vy prečítate všetko skôr, než sa to dostane k študentovi. **Druhý čitateľ** navrhuje skóre podľa kritérií alebo označuje nezhody, aby štruktúroval vaše vlastné hodnotenie. Jeho chyby musia byť užitočné, nielen nesprávne: príznak, ktorý vás vráti k odovzdaniu, ktoré by ste inak oznámkovali nepozorne, má cenu. **Hlavný hodnotiteľ** produkuje skóre, ktoré sa stanú zapísanými známkami. To je usporiadanie, ktoré dôkazy v tejto vedomostnej báze nepodporujú za hranicou úzkych, lokálne overených prípadov.
+**Asistent spätnej väzby** navrhuje komentáre alebo označuje možné vynechania, ktoré prijmete, prepíšete alebo zahodíte. Riziko sa obmedzuje na kvalitu komentárov a vy prečítate všetko skôr, než sa to dostane k študentovi. **Druhý čitateľ** navrhuje skóre podľa kritérií alebo označuje nezhody, aby štruktúroval vaše vlastné hodnotenie. Jeho chyby musia byť užitočné, nielen nesprávne: príznak, ktorý vás vráti k odovzdaniu, ktoré by ste inak oznámkovali nepozorne, má cenu. **Hlavný hodnotiteľ** produkuje skóre, ktoré sa stanú zapísanými známkami. To je usporiadanie, ktoré dôkazy nepodporujú za hranicou úzkych, lokálne overených prípadov.
 
 Zvoľte najnižší stupeň, ktorý rieši vaše skutočné obmedzenie. Ak vaša záťaž pri označovaní pochádza z kontroly pevného kľúča odpovedí, bežné deterministické skórovanie je transparentnejšie a ľahšie auditovateľné než [[llm|jazykový model]] a štúdia z farmácie naznačuje, že výhoda LLM pri objektívnych položkách bola čiastočne artefaktom toho, že počas hodnotenia dostal správne odpovede. Model si nechajte na prácu, ktorá potrebuje interpretáciu, a potom tú interpretáciu overte.
 
-[[automated-assessment|Automatizované hodnotenie]] pokrýva širší aparát skórovania, moderovania a generovania spätnej väzby. Táto stránka je otázkou úsudku, ktorá je pod ním.
+[[automated-assessment|Automatizované hodnotenie]] pokrýva širší aparát skórovania, moderovania a generovania spätnej väzby. Otázka úsudku, ktorá je pod tým, je, či je ktorýkoľvek z týchto mechanizmov dosť spravodlivý a spoľahlivý na to, aby sa podľa neho zapísala známka.
 
 ## Čo dôkazy skutočne ukazujú
 

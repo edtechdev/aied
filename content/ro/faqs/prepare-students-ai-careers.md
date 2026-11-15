@@ -1,7 +1,7 @@
 ---
 title: "Ce ar trebui să învețe studenții pentru cariere în care IA este ceva obișnuit?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:19:27-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
@@ -48,6 +48,8 @@ Răspunsul scurt pe care să îl dai unui coleg: predă întreaga sarcină profe
 [[ithaka-sr-ai-skills-college-graduates-2026|Raportul Ithaka S+R]] a cerut 500 de instructori din colegiile americane de patru ani să evalueze 26 de competențe dintr-un cadru ce acoperă șapte categorii și a comparat evaluările lor cu cele ale unui panel de angajatori chestionat de autorii cadrului. Dezacordul este sistematic, nu aleatoriu: instructorii au clasat pe primele locuri limitele IA, atribuirea și responsabilitatea umană, în timp ce angajatorii au clasat mai sus proiectarea fluxului de lucru, automatizarea și colaborarea om-IA.
 
 Două lecturi ale acestui decalaj sunt tentante și amândouă sunt greșite. Prima este că instructorii sunt în urma pieței muncii. A doua este că angajatorii vor conformare. O lectură mai utilă este că fiecare grup descrie o altă jumătate a aceleiași slujbe, iar un absolvent care poate face doar o jumătate este nepregătit pentru amândouă. Un student care nu poate explica de ce un rezultat este greșit nu este de folos unui angajator care are încredere în fluxul de lucru; un student care poate doar critica rezultatul IA nu este de folos unui angajator care are nevoie ca sarcina să fie dusă la capăt.
+
+Transformarea unui semnal venit de la angajatori într-o schimbare de programă este ea însăși un proces cu puncte de decizie. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] propune șase etape — detectare, validare cu părțile interesate, diagnosticarea programului, reproiectarea programei, punerea în practică și capacitate, și revizuirea rezultatelor — fiecare cu un drept de decizie numit și cu un rezultat de care răspunde cineva, și limitează IA la funcții de sprijin delimitate, cum ar fi detectarea tiparelor și cartografierea competențelor. Este o propunere, nu o evaluare, dar numește pașii pe care o cerere venită de la un grup consultativ îi sare de obicei.
 
 Limitele acestor dovezi contează. Sunt priorități declarate din sondaje, iar raportul nu arată că vreo programă produce angajări mai bune, performanță mai bună sau salarii mai mari. Ce îți dă este un motiv defendabil să întrebi dacă studenții tăi exersează vreodată ducerea la capăt și verificarea unui flux de lucru sprijinit de IA, în opoziție cu discutarea lui.
 
@@ -92,7 +94,6 @@ Alege aceste cerințe pentru că susțin o capacitate enunțată și spune ce m�
 Partea de sprijin are propriul risc. [[shojaei-genai-dependence-critical-thinking-employability-2026|Shojaei et al. (2026)]] au găsit folosirea [[generative-ai|GenAI]] asociată pozitiv cu dependența de GenAI, iar dependența asociată negativ atât cu [[critical-thinking|gândirea critică]], cât și cu angajabilitatea în modelul lor de sondaj. Aceasta este o asociere, nu o afirmație cauzală, și indică întrebarea de design: un curs care evaluează mereu doar performanța sprijinită poate antrena dependența pe care o raportează.
 
 Aceeași logică se aplică înainte ca studenții să intre pe piața muncii. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener et al. (2026)]] modelează asistența IA ca o secvență în care competența crește prin exersare independentă și scade când lucrătorii acceptă răspunsurile IA. În modelul lor, novicii pot rămâne blocați la un nivel scăzut de competență, iar experții pot pierde competență chiar în timp ce acuratețea rezultatului rămâne ridicată, iar lucrătorii strategici pot rezolva independent chiar și când IA este mai precisă, pentru că viitoarea competență are valoare. Lucrarea este teoretică, nu o intervenție, dar ascuțește întrebarea curriculară: programează și recompensează exersarea independentă în loc să presupui că rezultatul asistat de IA construiește capacitatea de a supraveghea munca.
-
 
 Pentru revizuirea programului, separă măsurile. Performanța la curs, alfabetizarea în IA demonstrată, evaluarea supervizorului de internship, statutul de angajare și calitatea locului de muncă sunt rezultate diferite, cu orizonturi de timp diferite, iar o singură intervenție nu le poate stabili pe toate. [[ai-literacy-evidence|Pagina despre dovezile privind alfabetizarea în IA]] este inventarul onest a ceea ce susțin de fapt studiile de intervenție.
 

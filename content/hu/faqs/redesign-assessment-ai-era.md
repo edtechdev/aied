@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-10-29T14:37:59-04:00"
+updated: "2026-11-15T16:18:29-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-10-28T10:45:41-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ A rövid válasz: döntse el, mit kell **bizonyítania** a jegynak, tegyen a fel
 
 ## Döntse el, minek a bizonyítéka a jegy
 
-Kezdje azzal, hogy nyíltan kimondja, melyik képességet kell képviselnie a jegynak. Azt értékeli, mit tud egy diák önállóan, mit tud megfelelően elérni MI-vel, milyen a MI megítélésének és irányításának képessége, vagy ezek valamilyen kombinációja? A tudásbázis [[assessment-validity|értékelési érvényessége]] ezt érvényességi problémaként kezeli: egy csiszolt termék már nem elégséges bizonyíték arra, hogy a diák rendelkezik azzal a képességgel, amelyet a termék látszólag felmutat. Ez ugyanannak az érvnek az értékelési fele; a kikényszerítési fele a [[reduce-ai-cheating|MI-visszaélés csökkentéséről]] szóló oldalon van, az általános érvényességi keret pedig az [[evaluating-ai-interventions-methods|értékelési módszerekről]] szóló oldalon fut végig.
+Kezdje azzal, hogy nyíltan kimondja, melyik képességet kell képviselnie a jegynak. Azt értékeli, mit tud egy diák önállóan, mit tud megfelelően elérni MI-vel, milyen a MI megítélésének és irányításának képessége, vagy ezek valamilyen kombinációja? Az [[assessment-validity|értékelési érvényesség]] ezt érvényességi problémaként kezeli: egy csiszolt termék már nem elégséges bizonyíték arra, hogy a diák rendelkezik azzal a képességgel, amelyet a termék látszólag felmutat. Ez ugyanannak az érvnek az értékelési fele; a kikényszerítési felet a [[reduce-ai-cheating|MI-visszaélés csökkentése]] tárgyalja, az általános érvényességi keret pedig az [[evaluating-ai-interventions-methods|értékelési módszereket]] járja körül.
 
 Mondja ki a választ a tantárgyi leírásban, a feladatkiírásban és a rubrikában. A diákok három dokumentumot olvasnak, és ahhoz igazodnak, amelyik a legkonkrétabb. Az „MI-használat megengedett, feltüntetéssel” nem arról szól, mit mér, és nem ad a diáknak módot annak megítélésére, aláássa-e az engedélyezett használat azt, amit Ön osztályoz.
 
@@ -86,7 +86,7 @@ A cél ugyanannyit számít, mint a mechanika. [[ai-agents-joyful-assessment-thi
 
 **„Az akkreditáció és a képzési jóváhagyás nem mozdul ilyen gyorsan.”** A fenti kutatás a hosszú átfutási időket és a nagy létszámú kohorszok akkreditációs korlátait nevezi meg központi súrlódásként. Egyetlen kurzus meg tudja változtatni, mi történik egy meglévő értékelésen belül anélkül, hogy a nevét, a súlyát vagy a tanulási eredményeit megváltoztatná, és ez általában elég a kezdéshez.
 
-**„Ez bünteti a szorongó diákokat és a fogyatékossággal élőket.”** Büntetheti. Az élő szóbeli elemekhez előre megtervezett méltányossági könnyítések kellenek, a formátum választása ott, ahol a konstruktum engedi, valamint figyelem a nyelvi különbségre és az értékelői torzításra. A képességet ellenőrizze, ne a teljesítés körülményeit.
+**„Ez bünteti a szorongó diákokat és a [[inclusive-learning|fogyatékossággal élőket]].”** Büntetheti. Az élő szóbeli elemekhez előre megtervezett méltányossági könnyítések kellenek, a formátum választása ott, ahol a konstruktum engedi, valamint figyelem a nyelvi különbségre és az értékelői torzításra. A képességet ellenőrizze, ne a teljesítés körülményeit.
 
 **„Vegyünk csak egy detektort.”** A megkülönböztetési eredmény ellene szól annak, hogy a tervezés gerince legyen: ha a téves riasztások gyorsabban nőnek, mint a helyes találatok, az erősebb megfigyelés viszonylag vonzóbbá teszi az eltitkolást. A detektálásnak lehet helye egy olyan válaszban, amely a feladatot is újratervezi, és a [[should-we-use-ai-detectors|használjunk-e MI-detektorokat]] ezt az érvet tárgyalja.
 

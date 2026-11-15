@@ -7,7 +7,7 @@ foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-com
 audience: [faculty developers, instructors]
 level: [adult learning]
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -19,6 +19,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+updated: "2026-11-15T16:26:08-05:00"
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -41,7 +42,7 @@ Jambo la msingi: mbinu ya uandishi wa maagizo ni sehemu ndogo zaidi ya hili. Wah
 
 ## Fafanua uwezo kabla ya kukodi chumba
 
-Muhtasari wa [[ai-literacy|Elimu ya AI]] katika hifadhi ya maarifa unatambua vipimo vinne, na ni ajenda yenye manufaa kwa sababu kila kimoja kinahitaji aina tofauti ya kipindi:
+Muhtasari wa [[ai-literacy|elimu ya AI]] unatambua vipimo vinne, na ni ajenda yenye manufaa kwa sababu kila kimoja kinahitaji aina tofauti ya kipindi:
 
 - **Uelewa wa msingi** wa uwezo na mipaka ya AI.
 - **Uwezo wa kivitendo** wa kutumia zana za AI.
@@ -57,6 +58,8 @@ Andika orodha kabla ya kupanga vipindi. Vipimo vinne pamoja na tabaka la ufundis
 ## Tathmini utendaji badala ya kujiamini
 
 [[self-report-measures|Elimu ya AI inayojitangaza]] inaweza kutofautiana kwa kiasi kikubwa na uwezo unaoonyeshwa, na hilo ni onyo la kivitendo zaidi katika maandiko haya kwa yeyote anayeendesha maendeleo ya wahadhiri. Dodoso la kujiamini mwishoni wa warsha hupima jinsi warsha ilivyohisiwa.
+
+Dodoso linaweza hata kutabirika vizuri mno. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez na wenzake (2026)]] waliweka wahadhiri 314 kati ya 315 katika bendi za umahiri kwa kutumia kipimo cha vipengele 300 chenye α = 0.997 na bila uchanganuzi wa vipengele, na ushirikiano wa kitaasisi ukawa mchango mkubwa zaidi — ishara kwamba alama zilifuata pale watu wanapofanya kazi, si kile wanachoweza kufanya.
 
 Utafiti wa mitiririko ya kazi ya [[agentic-ai|mawakala wengi]] wa mwalimu unaongeza sababu ya pili ya kujaribu badala ya kuuliza: kufikiri kwa mifumo, imani za ufundishaji na [[self-efficacy|kujiamini]] huingiliana katika ujumuishaji wa AI, hivyo kipindi kile kile huwafikia kwa namna tofauti wahadhiri wawili wenye asili ya somo moja. Hilo linatoa hoja kwa programu zilizotofautishwa, na kinyume na warsha ya zana ya ukubwa mmoja inayotosha kila mtu ambayo taasisi nyingi huendesha.
 
@@ -106,7 +109,7 @@ Wataalamu wa maudhui watafumbua ujumuishaji wenyewe. Maarifa ya maudhui hayakuta
 
 Mfumo mmoja utawashughulikia wote. Kiwango cha majukumu sita kipo kwa sababu TPACK, SAMR na viwango vikuu vya waelimishaji vinahusu walimu wa K-12 au kipimo cha ufundishaji pekee.
 
-Upinzani ni pengo la maarifa la kuzibwa. Kuepuka hatari kulitabiri nia kwa njia hasi, na kazi ya utambulisho inaeleza wahadhiri wakitoa hoja kutoka maadili ya ufundishaji. Baadhi ya kile kinachoonekana kama kusitasita ni msimamo unaoweza kutetewa kuhusu utegemezi kupita kiasi wa wanafunzi.
+Upinzani ni pengo la maarifa la kuzibwa. Kuepuka hatari kulitabiri nia kwa njia hasi, na [[learner-identity|kazi ya utambulisho]] inaeleza wahadhiri wakitoa hoja kutoka maadili ya ufundishaji. Baadhi ya kile kinachoonekana kama kusitasita ni msimamo unaoweza kutetewa kuhusu utegemezi kupita kiasi wa wanafunzi.
 
 ## Kile kitakachokurudia
 

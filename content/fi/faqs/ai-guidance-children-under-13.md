@@ -12,9 +12,9 @@ research_method: [literature review, experiment]
 audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:18:10-05:00"
 translation_of: faqs/ai-guidance-children-under-13
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Toimittajan käyttöehdot sanovat, että työkalu on tarkoitettu 13-vuotiaille j
 
 Tuossa pyynnössä on kolme kysymystä kiertyneenä yhteen: mitä kuusivuotias saa tehdä näillä järjestelmillä, mitä koulu on velkaa perheille, joiden lapset kohtaavat tekoälyn kotona, ja mitä tehdä silloin, kun kielto ei ole vastaus, jota voit puolustaa.
 
-Lyhyt vastaus, jonka voit antaa johtokunnalle: porrasta pääsy iän mukaan, opeta lapsille, miten nämä järjestelmät on rakennettu, ennen kuin annat sellaisen käteen, ja pidä aikuinen mukana kaikkialla, missä lapsi ei osaa arvioida tuotosta. Kaiken kattava kielto on vaihtoehto, jonka takana on vähiten näyttöä. Tässä tietopohjassa ei ole yhtään tutkimusta ikäperusteisista kielloista, ja suurin osa tämän ikäryhmän altistuksesta tapahtuu kotona, minne koulun sääntö ei yllä.
+Lyhyt vastaus, jonka voit antaa johtokunnalle: porrasta pääsy iän mukaan, opeta lapsille, miten nämä järjestelmät on rakennettu, ennen kuin annat sellaisen käteen, ja pidä aikuinen mukana kaikkialla, missä lapsi ei osaa arvioida tuotosta. Kaiken kattava kielto on vaihtoehto, jonka takana on vähiten näyttöä. Ikäperusteisista kielloista ei ole yhtään tutkimusta, ja suurin osa tämän ikäryhmän altistuksesta tapahtuu kotona, minne koulun sääntö ei yllä.
 
 ## Lyhyt versio
 
@@ -52,7 +52,7 @@ Heidän arviointinsa on yksittäinen altistuksen jälkeinen kysely 831 osallistu
 
 Kaksi versiota näyttävät myös, mihin raja on tarkoitettu. Alakouluvaihe saa alustapohjaisia toimintoja, jotka on tuettu ja jotka eivät ole generatiivisia, niin että lapsi oppii, mitä järjestelmä tekee, ilman järjestelmää, joka vastaa takaisin. Jatkovaihe liittää eettisen päättelyn valvottuun generatiiviseen käyttöön. Henkilöstö, joka odottaa sitoutumisen seuraavan työkalun hienostuneisuutta, löytää yleensä päinvastaisen tuloksen.
 
-Se, mitä porrastus sinulle antaa, on puolustettava toimintajärjestys. Monet koulut tekevät sen takaperin, ostavat chatbottia syksyllä ja opettavat siitä keväällä, ja näyttö tuosta järjestyksestä on alempana tällä sivulla.
+Se, mitä porrastus sinulle antaa, on puolustettava toimintajärjestys. Monet koulut tekevät sen takaperin, ostavat chatbottia syksyllä ja opettavat siitä keväällä, kun taas puolustettava järjestys on päinvastainen.
 
 ## Aloita nuorimpien kanssa leikistä, tekemisestä ja koneista
 
@@ -66,7 +66,7 @@ Koneiden toiminnan opettaminen kuuluu myös tähän ikäkauteen. [[tsingidou-ct-
 
 ## Siirrä 9-12-vuotiaat tarkastettuun, pääosin ei-generatiiviseen työhön
 
-Tämä on ikäkausi, jossa opetussuunnitelmanäyttö on vahvinta. [[demir-akar-ai-media-literacy-children-2026|Demir ja Akar (2026)]] vetivät 18 tunnin, 5E-pohjaisen kriittisen medialukutaidon ohjelman 36 turkkilaiselle neljäsluokkalaiselle, kattaen datan yksityisyyden, turvallisen viestinnän ja median [[ethics|etiikan]], ja ryhmien välinen Cohenin *d* oli 1,12 lukemisessa, 1,18 kirjoittamisessa ja 1,31 kokonaislukutaidossa. Ohjelma, joka mahtuu yhteen lukukauteen ja raportoi tuon kokoisia vaikutuksia, on tämän sivun rohkaisevin tulos.
+Tämä on ikäkausi, jossa opetussuunnitelmanäyttö on vahvinta. [[demir-akar-ai-media-literacy-children-2026|Demir ja Akar (2026)]] vetivät 18 tunnin, 5E-pohjaisen kriittisen medialukutaidon ohjelman 36 turkkilaiselle neljäsluokkalaiselle, kattaen datan yksityisyyden, turvallisen viestinnän ja median [[ethics|etiikan]], ja ryhmien välinen Cohenin *d* oli 1,12 lukemisessa, 1,18 kirjoittamisessa ja 1,31 kokonaislukutaidossa. Ohjelma, joka mahtuu yhteen lukukauteen ja raportoi tuon kokoisia vaikutuksia, on tämän kirjallisuuden rohkaisevin tulos.
 
 9-12-vuotiaat saavat tuettua altistusta alustoilla, jotka koulu on tarkastanut, generatiiviset osat myöhemmäksi säästettyinä ja valvottuina. Kun lapsi osaa lukea, väitellä ja tarkistaa väitteen, hänelle opettaminen siitä, mitä järjestelmä tekee, tulee työksi, ja työkalu voi tulla mukaan tutkimuksen kohteena eikä apurina.
 
@@ -126,7 +126,7 @@ Tälle ikäkaudelle se kuvautuu järjestyksenä: ensin siitä ja sitä muovaamal
 
 Johtokunnan paperi voi luvata tarkastuspäivän ja onnistumisen määritelmän, jonka koulusi voi oikeasti tarkistaa: pidetyt oppitunnit, opettajat, jotka osaavat vastata vanhemman kysymykseen, kirjallisesti vastatut tietopyynnöt. Oppimishyödyn väittäminen ylittäisi jokaisen tässä viitatun tutkimuksen.
 
-Tässä tietopohjassa ei ole tutkimusta ikäperusteisista kielloista. Mikään täällä ei voi ratkaista, toimivatko kiellot, joita nyt ilmestyy joihinkin koulujärjestelmiin, ja tuon lauseen rehellinen versio kuuluu johtokunnan paperiisi. Sen näyttö kyllä osoittaa, että vaihtoehto kiellolle ei ole täydellinen vapaus. [[moral-panic-genai-classroom|Tutkimus GenAI:n saatavuudesta verrattuna integraatioon]] löysi, että GenAI:n saattaminen saataville ilman, että oppilaille opetetaan sen käyttöä, liittyi merkitsevästi heikompaan suoritukseen sovelletuissa kysymyksissä (ω² = 0,35), kun taas sen käytön eksplisiittinen opettaminen esimerkiksi tiivistämisen kaltaisiin tehtäviin palautti sovelletun suorituksen GenAI:a edeltäneelle tasolle ja ylitti lähtötason yhdessä vaikeammassa visailussa. Tätä ikäkautta voi opettaa: yllä oleva neljännen luokan ohjelma tuotti vaikutuksia, joiden *d* oli 1,12-1,31.
+Ikäperusteisista kielloista ei ole tutkimusta. Mikään täällä ei voi ratkaista, toimivatko kiellot, joita nyt ilmestyy joihinkin koulujärjestelmiin, ja tuon lauseen rehellinen versio kuuluu johtokunnan paperiisi. Sen näyttö kyllä osoittaa, että vaihtoehto kiellolle ei ole täydellinen vapaus. [[moral-panic-genai-classroom|Tutkimus GenAI:n saatavuudesta verrattuna integraatioon]] löysi, että GenAI:n saattaminen saataville ilman, että oppilaille opetetaan sen käyttöä, liittyi merkitsevästi heikompaan suoritukseen sovelletuissa kysymyksissä (ω² = 0,35), kun taas sen käytön eksplisiittinen opettaminen esimerkiksi tiivistämisen kaltaisiin tehtäviin palautti sovelletun suorituksen GenAI:a edeltäneelle tasolle ja ylitti lähtötason yhdessä vaikeammassa visailussa. Tätä ikäkautta voi opettaa: yllä oleva neljännen luokan ohjelma tuotti vaikutuksia, joiden *d* oli 1,12-1,31.
 
 ## Mitä koulut tekevät väärin
 

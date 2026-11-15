@@ -6,9 +6,9 @@ weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-updated: "2026-10-29T14:37:59-04:00"
+updated: "2026-11-15T16:20:23-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Egy [[agentic-ai|ágens]] tervez, eszközöket hív, kontextust tart, részfelad
 
 [[agentic-workflows-education|Ágens munkafolyamatok az oktatásban]] négy visszatérő képességet nevez meg: reflexió, tervezés, eszközhasználat és többágenses együttműködés. Mindegyik költséget ad a lehetőség mellé, az [[explainable-ai|értelmezhetőségben]], a koordinációban, a [[trust-calibration|bizalomban]], a késleltetésben és a felügyeletben.
 
-A hallgatói oldali szerepek az [[adaptive-learning|adaptív]] tutorálástól és tanulástervezéstől a [[formative-assessment|formatív]] visszajelzésen, az irányított [[problem-solving|problémamegoldáson]] és gyakorlatgeneráláson át az előfeltétel-ajánlásokig és a reflektív [[metacognition|metakognitív]] [[prompt-engineering|promptolásig]] terjednek. Az oktatói oldali szerepek lefedik az anyagfejlesztést, a [[automated-question-generation|kérdésgenerálást]] és érvényesítést, a visszajelzés triázsát, a kurzus [[learning-analytics|analitikáját]], a tanítási tervezést, az erőforrás-visszakeresést és a specializált alágensek orchestrálását.
+A hallgatói oldali szerepek az [[adaptive-learning|adaptív]] tutorálástól és tanulástervezéstől a [[formative-assessment|formatív]] visszajelzésen, az irányított [[problem-solving|problémamegoldáson]] és gyakorlatgeneráláson át az előfeltétel-ajánlásokig és a reflektív [[metacognition|metakognitív]] [[prompt-engineering|promptolásig]] terjednek. Az oktatói oldali szerepek lefedik az anyagfejlesztést, a [[automated-question-generation|kérdésgenerálást]] és érvényesítést, a visszajelzés triázsát, a kurzus [[learning-analytics|analitikáját]], a [[learning-design|tanítási tervezést]], az erőforrás-visszakeresést és a specializált alágensek orchestrálását.
 
 Ezek közül kettő korábban biztonságosabb, mert mindkettő olyan artefaktumot állít elő, amelyet egy ember olvas el a hallgatók előtt: egy érvényesítővel párosított kérdésgenerátor és egy vázlat, amelyet a tanár szerkeszt.
 
@@ -68,7 +68,7 @@ Kérdezze meg, mit számol egy irányítópult-szám, ki írta a mögötte áll�
 
 ## Tervezze meg a kikapcsolást
 
-Randomizált vizsgálatok azt mutatják, hogy a rövid MI-segítség lefojthatja a későbbi támogatás nélküli teljesítményt, és a kivonás utáni időszak, a [[cognitive-washout-ai-skill-decay-2026|kognitív kimosódás]], szinte teljesen méretlen. Az oldal mögötti szintézis egy 474 vizsgálatot átfogó [[meta-analysis-systematic-review|áttekintő tanulmányra]] támaszkodik, és azt találja, hogy a munka a [[higher-ed|felsőoktatásra]], a [[stem-education|STEM-re]], rövid távú tervekre és szövegalapú tutorálásra összpontosul, és csak kisebbségük alapul kifejezetten oktatáselméleten. Egy pilot, amely akkor ér véget, amikor a licenc lejár, rossz ablakot mért.
+Randomizált vizsgálatok azt mutatják, hogy a rövid MI-segítség lefojthatja a későbbi támogatás nélküli teljesítményt, és a kivonás utáni időszak, a [[cognitive-washout-ai-skill-decay-2026|kognitív kimosódás]], szinte teljesen méretlen. Egy 474 vizsgálatot átfogó [[meta-analysis-systematic-review|áttekintő vizsgálat]] azt találja, hogy a munka a [[higher-ed|felsőoktatásra]], a [[stem-education|STEM-re]], rövid távú tervekre és szövegalapú tutorálásra összpontosul, és csak kisebbségük alapul kifejezetten oktatáselméleten. Egy pilot, amely akkor ér véget, amikor a licenc lejár, rossz ablakot mért.
 
 ## Amit az adminisztrátorok elrontanak ebben
 
@@ -98,4 +98,4 @@ A hozzáférés bezárja az esélyegyenlőségi szakadékot. A képességes áge
 
 ## Hová tovább
 
-[[developing-ai-tutor|A hatékony MI-tutor fejlesztése]] a hallgatói oldali felépítést tárgyalja a célkitűzéstől a súgylétráig, az [[evaluating-ai-interventions-methods|MI-beavatkozások értékelésének módszerei]] pedig azt, hogy működött-e a dolog. Az [[intelligent-tutoring|intelligens tutorálás]] és a [[ai-literacy|MI-írástudás]] adja azt a tervezési szótárt, amelyet ez az oldal feltételez.
+[[developing-ai-tutor|A hatékony MI-tutor fejlesztése]] a hallgatói oldali felépítést tárgyalja a célkitűzéstől a súgylétráig, az [[evaluating-ai-interventions-methods|MI-beavatkozások értékelésének módszerei]] pedig azt, hogy működött-e a dolog. Az [[intelligent-tutoring|intelligens tutorálás]] és a [[ai-literacy|MI-írástudás]] adja azt a tervezési szótárt, amelyet ezek az ajánlások feltételeznek.

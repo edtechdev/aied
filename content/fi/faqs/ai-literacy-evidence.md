@@ -8,9 +8,9 @@ assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
 audience: [instructors, researchers, administrators]
-updated: "2026-10-29T14:13:23-04:00"
+updated: "2026-11-15T16:22:16-05:00"
 translation_of: faqs/ai-literacy-evidence
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,7 @@ Hinglen ja Johrin [[meta-analysis-systematic-review|systemaattinen katsaus]] laj
 
 NC State -yliopiston **AI Literacy Continuum** kuvaa etenemisen *Not Yet Engaged* ja *Uncritical Use* -tasoilta *Informed Use*, *[[critical-thinking|kriittinen arviointi]]* ja *Improvement* -tasoille, ja se toteutettiin yli 330 osallistujan kanssa kursseilla ja työpajoissa ([[ai-literacy-continuum-higher-education]]). Sen havainnot viittaavat jakoon: lyhyet kokemukset veivät opiskelijoita kohti tietoista käyttöä, kun taas kriittinen arviointi ja kehittäminen näkyivät pääosin pitkäkestoisessa, oppiaineeseen upotetussa työssä. Validoitua ennen/jälkeen-mittausta ja verrokkiryhmää ei ollut, joten tämä on käytäntöperusteista näyttöä.
 
-Opettajankoulutus näyttää saman katon eri kulmasta. Le ym.:n [[design-based-research|suunnittelupohjainen]] interventio pilotoitiin 14 maisteriopiskelijan kanssa ja arvioitiin 29 [[teacher-education|opettajankoulutuksen]] opiskelijan kanssa. Raportoitu tekoälyosaamisen [[self-efficacy|minäpystyvyys]] nousi ja opiskelijat siirtyivät kohti kriittisempää [[pedagogy|pedagogista]] suhtautumista generatiiviseen tekoälyyn, kun taas etiikan parannukset saavuttivat vain marginaalisen merkitsevyyden. Tuon muotoinen pieni suunnittelupohjainen tutkimus ei voi osoittaa osaamista ([[genai-literacy-training-teacher-education-dbr-2026]]).
+[[teacher-role|Opettajien koulutus]] näyttää saman katon eri kulmasta. Le ym.:n [[design-based-research|suunnittelupohjainen]] interventio pilotoitiin 14 maisteriopiskelijan kanssa ja arvioitiin 29 [[teacher-education|opettajankoulutuksen]] opiskelijan kanssa. Raportoitu tekoälyosaamisen [[self-efficacy|minäpystyvyys]] nousi ja opiskelijat siirtyivät kohti kriittisempää [[pedagogy|pedagogista]] suhtautumista generatiiviseen tekoälyyn, kun taas etiikan parannukset saavuttivat vain marginaalisen merkitsevyyden. Tuon muotoinen pieni suunnittelupohjainen tutkimus ei voi osoittaa osaamista ([[genai-literacy-training-teacher-education-dbr-2026]]).
 
 ## Mittaa, mitä opiskelijat osaavat tehdä
 
@@ -86,7 +86,7 @@ Seuraava kysymys on se, joka kannattaa esittää omalle ohjelmalle: todentaako p
 
 ## Missä tämä yleisö menee pieleen
 
-Työpaja on opetussuunnitelma. Continuumin havainnot sijoittavat kriittisen arvioinnin ja kehittämisen pitkäkestoiseen, oppiaineeseen upotettuun työhön, ja Le ym. siirsivät minäpystyvyyttä osoittamatta osaamista.
+Työpaja on [[curriculum-design|opetussuunnitelma]]. Continuumin havainnot sijoittavat kriittisen arvioinnin ja kehittämisen pitkäkestoiseen, oppiaineeseen upotettuun työhön, ja Le ym. siirsivät minäpystyvyyttä osoittamatta osaamista.
 
 Itseluottamus on lukutaidon sijaiskäsite. GLAT-tulos on suora: suoritustesti ennusti tehtävässä suoriutumista, itsearviointimittari ei.
 
@@ -108,7 +108,7 @@ Lukutaito on yksi taito, joka siirtyy työkalusta toiseen. Dai ja Chan havaitsiv
 
 **”Pätevyys on vastuullisuusmekanismi.”** Wu ja Li havaitsivat opetushenkilöstön osaamisen sitovaksi rajoitteeksi ja kulttuurienvälisen sopeutuvuuden painotetuimmaksi alimmaksi. Todistus kirjaa, että joku suoritti jotain.
 
-**”Opetushenkilöstömme ei ole valmis opettamaan tätä.”** Näyttö on samaa mieltä. Opetushenkilöstön kyvykkyys oli suurin kuilu Wu ja Lin aineistossa, eikä yksikään tämän sivun tutkimus testaa, miten se suljetaan.
+**”Opetushenkilöstömme ei ole valmis opettamaan tätä.”** Näyttö on samaa mieltä. Opetushenkilöstön kyvykkyys oli suurin kuilu Wu ja Lin aineistossa, eikä yksikään tutkimus testaa, miten se suljetaan.
 
 ## Mitä tehdä tällä viikolla
 

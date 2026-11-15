@@ -6,9 +6,9 @@ weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-updated: "2026-10-29T15:41:26-04:00"
+updated: "2026-11-15T16:18:40-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Un [[agentic-ai|agent]] planifică, apelează instrumente, păstrează contextul
 
 [[agentic-workflows-education|Agentic Workflows in Education]] numește patru capabilități recurente: reflecție, planificare, folosirea instrumentelor și colaborarea multi-agent. Fiecare adaugă un cost alături de posibilitate, în [[explainable-ai|interpretabilitate]], coordonare, [[trust-calibration|încredere]], latență și supraveghere.
 
-Rolurile pe partea de student merg de la tutorat [[adaptive-learning|adaptiv]] și planificarea studiului, prin feedback [[formative-assessment|formativ]], [[problem-solving|rezolvare de probleme]] ghidată și generare de exerciții, până la recomandări de prerechizite și la [[metacognition|reflecție metacognitivă]] în [[prompt-engineering|formularea de prompturi]]. Rolurile pe partea de cadru didactic acoperă dezvoltarea de materiale, [[automated-question-generation|generarea de întrebări]] și validarea lor, triajul feedbackului, [[learning-analytics|analitica]] de curs, proiectarea instrucțională, regăsirea resurselor și orchestrarea unor sub-agenți specializați.
+Rolurile pe partea de student merg de la tutorat [[adaptive-learning|adaptiv]] și planificarea studiului, prin feedback [[formative-assessment|formativ]], [[problem-solving|rezolvare de probleme]] ghidată și generare de exerciții, până la recomandări de prerechizite și la [[metacognition|reflecție metacognitivă]] în [[prompt-engineering|formularea de prompturi]]. Rolurile pe partea de cadru didactic acoperă dezvoltarea de materiale, [[automated-question-generation|generarea de întrebări]] și validarea lor, triajul feedbackului, [[learning-analytics|analitica]] de curs, [[learning-design|proiectarea instrucțională]], regăsirea resurselor și orchestrarea unor sub-agenți specializați.
 
 Două dintre acestea sunt mai sigure la început, pentru că ambele produc un artefact pe care o persoană îl citește înainte de studenți: un generator de întrebări însoțit de un validator și redactarea pe care profesorul o editează.
 

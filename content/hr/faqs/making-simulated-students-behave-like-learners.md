@@ -12,9 +12,9 @@ level: [higher ed, k 12]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
-updated: "2026-10-29T14:24:49-04:00"
+updated: "2026-11-15T16:20:53-05:00"
 translation_of: faqs/making-simulated-students-behave-like-learners
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ Prije sljedeće demonstracije trebate ovoliko jasno: poticanje modela da glumi u
 
 ## Odlučite na koje pitanje simulator odgovara
 
-Tri se posla stapaju pod pojmom „simulirani učenik“, a trebaju različitu mašineriju. Uvježbavanje učitelja ili poučavatelja treba partnera koji se uvjerljivo ponaša pod pritiskom. Revizija toga kako umjetna inteligencija postupa s različitim profilima učenika treba pokrivenost profila do kojih vam je stalo. Predviđanje ishoda kolegija treba distribuciju učenika, a ne jednog uvjerljivog pojedinca. Simulator izgrađen za prvi posao razočarat će vas u trećem, a dokazi u nastavku stalno ih razdvajaju.
+Tri se posla stapaju pod pojmom „simulirani učenik“, a trebaju različitu mašineriju. Uvježbavanje [[teacher-role|učitelja]] ili poučavatelja treba partnera koji se uvjerljivo ponaša pod pritiskom. Revizija toga kako umjetna inteligencija postupa s različitim profilima učenika treba pokrivenost profila do kojih vam je stalo. Predviđanje ishoda kolegija treba distribuciju učenika, a ne jednog uvjerljivog pojedinca. Simulator izgrađen za prvi posao razočarat će vas u trećem, a dokazi u nastavku stalno ih razdvajaju.
 
 ## Imenujte učenike koje ne pokrivate
 
@@ -64,13 +64,13 @@ Dvije napomene iz tog istraživanja. Izbor modela nije jednodimenzionalan, jer s
 
 Ako model zna previše, možete imenovati stanje u kojem bi trebao biti ili oduzeti znanje koje ne bi trebao imati.
 
-**Uvjetujte epistemičkim stanjem.** Okvir koji ne zahtijeva treniranje gradi kognitivni prototip svakog učenika iz [[knowledge-graph|grafa znanja]] i ocjenjuje kandidate pretraživanja snopom prema njemu, izvješćujući o 100% poboljšanju točnosti simulacije ([[simulating-students-diverse-cognitive-levels-2025|Wu i sur., 2025]]). Njegova kvaliteta raste s kognitivnom razinom učenika, pa slabiji učenici ostaju teži slučaj, što je nezgodno s obzirom na to da su obično poanta. Modeliranje kognitivne dinamike umjesto statične persone ide dalje: CogEvolutionova ažuriranja stanja utemeljena na ICAP-u dosegnula su R²LC = 0,92, gdje statični agenti dosežu 0,45, a pala su na 0,58 bez svog ICAP modula ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang i sur., 2026]]).
+**Uvjetujte epistemičkim stanjem.** Okvir koji ne zahtijeva treniranje gradi kognitivni prototip svakog učenika iz [[knowledge-graph|grafa znanja]] i ocjenjuje kandidate pretraživanja snopom prema njemu, izvješćujući o 100% poboljšanju točnosti simulacije ([[simulating-students-diverse-cognitive-levels-2025|Wu i sur., 2025]]). Njegova kvaliteta raste s kognitivnom razinom učenika, pa slabiji učenici ostaju teži slučaj, što je nezgodno s obzirom na to da su obično poanta. Modeliranje kognitivne dinamike umjesto statične persone ide dalje: CogEvolutionova ažuriranja stanja utemeljena na [[icap-framework|ICAP]]-u dosegnula su R²LC = 0,92, gdje statični agenti dosežu 0,45, a pala su na 0,58 bez svog ICAP modula ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang i sur., 2026]]).
 
 **Oduzmite znanje.** Potiskivanje 16 ciljanih komponenti znanja u Mistral-7B spustilo je točnost s oko 0,75 pri omjeru zaboravljanja od 10% na ispod 0,5 pri 40%, dok se osnovni model držao blizu 0,85. Pokazalo se da je potisnuto znanje obnovljivo kroz nadzirano ponovno učenje i dijalog vođen poučavateljem ([[simulating-novice-students-machine-unlearning-2026|Song, Guo i Lin, 2026]]). To je najbliže izravnoj proizvodnji početnika, a obnovljivost postaje prednost ako želite da simulator uči tijekom sesije.
 
 ## Skriptirajte poteze, a ne personu
 
-Pokazuje se da je stabilnost persone problem dizajna interakcije, a ne izbora modela. Križanjem pet LLM-ova s tri dizajna poticaja i četiri persone intenziteta ADHD-a, skriptirane interakcije usidrene u zadatak uklonile su odstupanje ponašanja koje ocjenjuju promatrači, do 97% u odnosu na neskriptirani dijalog. Bez izričitih uputa o personi osnovni prikaz učenika naginjao je visokim simptomima ADHD-a ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase i Leins, 2026]]).
+Pokazuje se da je stabilnost persone problem dizajna interakcije, a ne izbora modela. Križanjem pet [[llm|LLM]]-ova s tri dizajna poticaja i četiri persone intenziteta [[neurodiversity|ADHD]]-a, skriptirane interakcije usidrene u zadatak uklonile su odstupanje ponašanja koje ocjenjuju promatrači, do 97% u odnosu na neskriptirani dijalog. Bez izričitih uputa o personi osnovni prikaz učenika naginjao je visokim simptomima ADHD-a ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase i Leins, 2026]]).
 
 Ako vaš simulator odstupa, pogledajte što od njega tražite potez po potez prije nego promijenite model ili prepišete opis učenika.
 
@@ -86,9 +86,9 @@ Vjernost na razini radnje ima vlastito ograničenje. Simulatori učenika reprodu
 
 Dvije usporedbe pokazuju koliko validacija stoji.
 
-Mjerivši devet metoda simulacije prema sedam referentnih mjera na 382 pridržana dijaloga iz najvećeg javnog korpusa stvarnih matematičkih dijaloga učenika i poučavatelja, poticanje je zaostajalo za finim podešavanjem u govornim činovima (0,4998 prema 0,6840), ROUGE-L (0,1648 prema 0,3212) i kosinusnoj sličnosti (0,5460 prema 0,7390). Najbolja testirana metoda, optimizacija preferencija na modelu od 8B, nadmašila je nadzirano fino podešavanje samo neznatno i bila je lošija u pogreškama, a ljudska evaluacija s tri poučavatelja ponovila je taj poredak ([[simulated-students-tutoring-dialogues-2026|Scarlatos i sur., 2026]]). Vrh te ljestvice blizu je sredine, pa osnovna razina o kojoj izvijestite odlučuje koliko impresivno izgleda vaš vlastiti broj.
+Mjerivši devet metoda simulacije prema sedam referentnih mjera na 382 pridržana dijaloga iz najvećeg javnog korpusa stvarnih matematičkih dijaloga učenika i poučavatelja, poticanje je zaostajalo za [[llm-training-and-fine-tuning|finim podešavanjem]] u govornim činovima (0,4998 prema 0,6840), ROUGE-L (0,1648 prema 0,3212) i kosinusnoj sličnosti (0,5460 prema 0,7390). Najbolja testirana metoda, optimizacija preferencija na modelu od 8B, nadmašila je nadzirano fino podešavanje samo neznatno i bila je lošija u pogreškama, a ljudska evaluacija s tri poučavatelja ponovila je taj poredak ([[simulated-students-tutoring-dialogues-2026|Scarlatos i sur., 2026]]). Vrh te ljestvice blizu je sredine, pa osnovna razina o kojoj izvijestite odlučuje koliko impresivno izgleda vaš vlastiti broj.
 
-SWIM je najjasnija usporedba poticanja, finog podešavanja i učenja pojačavanjem, jer ocjenjuje svaki generirani esej prema ciljnom profilu osobine, a ne prosudbom po dojmu. Poticanje utemeljeno na rubrikama dalo je ograničenu kontrolu čak i kod jakih vlasničkih modela, s najboljim prosječnim QWK-om osobine od 0,577 (Claude Sonnet) i 0,422 (GPT-5.4) te gotovo nula za otvoreni model od 7B. Nadzirano fino podešavanje na stvarnim parovima ocjena i eseja dosegnulo je 0,474 ± 0,023 za taj model od 7B. GRPO s nagradom izvedenom iz automatiziranog ocjenjivanja eseja dosegnuo je 0,618 ± 0,005, a dobici su se zadržali i kod dvaju neovisnih ocjenjivača na kojima politika nikada nije trenirana ([[swim-student-writing-simulation-2026|SWIM]]).
+SWIM je najjasnija usporedba poticanja, finog podešavanja i učenja pojačavanjem, jer ocjenjuje svaki generirani esej prema ciljnom profilu osobine, a ne prosudbom po dojmu. Poticanje utemeljeno na rubrikama dalo je ograničenu kontrolu čak i kod jakih vlasničkih modela, s najboljim prosječnim QWK-om osobine od 0,577 (Claude Sonnet) i 0,422 (GPT-5.4) te gotovo nula za otvoreni model od 7B. Nadzirano fino podešavanje na stvarnim parovima ocjena i eseja dosegnulo je 0,474 ± 0,023 za taj model od 7B. GRPO s nagradom izvedenom iz [[automated-essay-scoring|automatiziranog ocjenjivanja eseja]] dosegnuo je 0,618 ± 0,005, a dobici su se zadržali i kod dvaju neovisnih ocjenjivača na kojima politika nikada nije trenirana ([[swim-student-writing-simulation-2026|SWIM]]).
 
 Poticanje je također proizvelo idealiziranu populaciju, a ne realnu: srednji normalizirani ukupni rezultat 0,74 prema 0,58 kod stvarnih učenika i medijalnu duljinu od 304 riječi prema 167. Trenirani modeli obnovili su ljudske distribucije ocjena i duljina bez ikakvog nadzora duljine. Jedno je ostalo teško: autentičan oblik niske kompetentnosti. Trenirani modeli obnovili su sintaksu, ali napisali su premalo pravopisnih i gramatičkih pogrešaka, dok je poticanje simuliralo slabost kroz površinsko kvarenje, pogreške razasute po inače kompetentnoj prozi.
 
@@ -96,7 +96,7 @@ Površinski realizam slab je test u obama smjerovima. U zaslijepljenoj studiji s
 
 ## Provjerite bi li opis bio dovoljan
 
-Prije nego izgradite kohortu, provjerite jeftiniju opciju. Za evaluaciju online iskustva učenja prije nego se studenti uključe, predviđanje odustajanja i dovršetka te davanje povratnih informacija o dizajnu, jedan web-agent koji „opisuje“, prođe kroz lekciju i proizvede bogat opis iskustva nadmašio je izravnu simulaciju populacije studenata.
+Prije nego izgradite kohortu, provjerite jeftiniju opciju. Za evaluaciju [[online-teaching-and-learning|online iskustva učenja]] prije nego se studenti uključe, predviđanje odustajanja i dovršetka te davanje povratnih informacija o dizajnu, jedan web-agent koji „opisuje“, prođe kroz lekciju i proizvede bogat opis iskustva nadmašio je izravnu [[simulation|simulaciju]] populacije studenata.
 
 Simulirani učenici u toj usporedbi pokazali su mnogo manji raspon ponašanja od stvarnih učenika: na 100 agenata i pet testnih lekcija reproducirali su samo oko 4% putanja koje su prošli stvarni studenti, uz znatno veći trošak računalnih resursa. Postupak „opiši pa predvidi“ postigao je najbolju predikciju distribucije odustajanja na velikom globalnom kolegiju CS1, sa srednjim JSD-om od 0,060 ([[ai-web-agents-lesson-design-2025|Wang, Mitchell i Piech, 2025]]).
 

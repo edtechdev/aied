@@ -1,7 +1,7 @@
 ---
 title: "Što bi studenti trebali naučiti za karijere u kojima je AI uobičajen?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:30:39-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
@@ -48,6 +48,8 @@ Evo kratkog odgovora: poučavajte cijeli profesionalni zadatak, a ne rukovanje a
 [[ithaka-sr-ai-skills-college-graduates-2026|Izvješće Ithaka S+R]] zamolilo je 500 američkih nastavnika s četverogodišnjih sveučilišta da ocijene 26 vještina iz okvira koji pokriva sedam kategorija, a njihove je ocjene usporedilo s panelom poslodavaca koje su anketirali autori okvira. Neslaganje je sustavno, a ne slučajno: nastavnici su na vrh stavili ograničenja AI-ja, pripisivanje autorstva i ljudsku odgovornost, dok su poslodavci više rangirali oblikovanje tijeka rada, automatizaciju i timski rad čovjeka i AI-ja.
 
 Dva su čitanja tog jaza mamljiva i oba su pogrešna. Prvo je da nastavnici zaostaju za tržištem rada. Drugo je da poslodavci žele poslušnost. Korisnije je čitanje da svaka skupina opisuje drugu polovicu istog posla, a diplomant koji zna samo jednu polovicu nedovoljno je pripremljen za obje. Student koji ne može objasniti zašto je rezultat pogrešan nema koristi poslodavcu koji vjeruje tijeku rada; student koji samo zna kritizirati rezultat AI-ja nema koristi poslodavcu kojemu zadatak treba biti dovršen.
+
+Pretvaranje signala poslodavca u promjenu nastavnog plana i samo je proces s točkama odlučivanja. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] predlaže šest faza — osluškivanje, validaciju dionika, dijagnozu programa, redizajn nastavnog plana, provedbu i izgradnju sposobnosti te pregled ishoda — svaku s imenovanim pravom odlučivanja i odgovornim rezultatom, a AI ograničava na omeđene potporne funkcije poput prepoznavanja obrazaca i mapiranja kompetencija. To je prijedlog, a ne evaluacija, ali imenuje korake koje zahtjev savjetodavne skupine obično preskače.
 
 Granice ovih dokaza su važne. To su iskazani prioriteti iz anketa, a izvješće ne pokazuje da ijedan nastavni plan daje bolje zaposlenike, bolju izvedbu ili bolju plaću. Ono što vam daje jest obranjiv razlog da pitate vježbaju li vaši studenti ikada dovršiti i provjeriti tijek rada uz pomoć AI-ja, za razliku od razgovora o njemu.
 
@@ -126,6 +128,6 @@ Pomaže istraživanje u mjerilu na kojem student može djelovati: koje zadatke o
 
 ## Kamo dalje
 
-[[career-development-and-readiness]] pojmovna je stranica za zapošljivost, prilagodljivost i dokaze o radnoj snazi, a [[ai-literacy]] pokriva što pismenost znači izvan rukovanja alatom. Za ugrađivanje u konkretan kolegij vidi [[incorporating-ai-literacy|ugrađivanje AI pismenosti]] i [[faculty-ai-competencies|koje kompetencije trebaju nastavnici]].
+[[career-development-and-readiness|Razvoj karijere i pripremljenost]] pojmovna je stranica za zapošljivost, prilagodljivost i dokaze o radnoj snazi, a [[ai-literacy|AI pismenost]] pokriva što pismenost znači izvan rukovanja alatom. Za ugrađivanje u konkretan kolegij vidi [[incorporating-ai-literacy|ugrađivanje AI pismenosti]] i [[faculty-ai-competencies|koje kompetencije trebaju nastavnici]].
 
 Za [[assessment|dizajn procjene]] koji podržanu i samostalnu izvedbu čini razlučivima vidi [[redesign-assessment-ai-era|redizajn ocjenjivanja u eri AI-ja]] i [[ai-grading-fairness-reliability|AI ocjenjivanje]]. Za to kako podršku sačuvati od pretvaranja u ovisnost vidi [[reducing-over-reliance|smanjivanje pretjeranog oslanjanja]].

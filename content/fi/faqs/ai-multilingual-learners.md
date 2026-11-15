@@ -1,7 +1,7 @@
 ---
 title: "Miten tekoäly voi tukea monikielisiä oppijoita arvioimatta heidän tietojaan väärin tai häivyttämättä heidän ääntään?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:18:20-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
@@ -51,7 +51,7 @@ Kirjoita päätös näkyviin sinne, missä opiskelijat voivat lukea sen. Jos opi
 
 ## Mitä tutkimus tukee ja mitä ei
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez ja Arabadzhy (2026)]] katselmoivat 24 empiiristä tutkimusta generatiivisista [[conversational-ai|chatboteista]] [[language-learning|kielen oppimisessa]]. Heidän panoksensa on taksonominen: jokainen esigeneratiivisille chatboteille luetteloitu käyttömahdollisuus säilyy, ja kolme on uutta, mukaan lukien **translanguaging**, tarkoituksellinen liikkuminen kielten välillä osana oppimista. Kyse on kartasta raportoiduista käytöistä ja kokemuksista eikä yhdistetystä estimaatista, ja aineisto on maantieteellisesti keskittynyttä: Kiina, Iran, Taiwan ja Turkki kattavat 19 tutkimusta 24:stä, ja kaikki yhtä lukuun ottamatta sijoittuvat muodollisiin oppilaitoksiin. Tuki kieltenvälisen selityksen käyttämiselle oppimisen liikkeenä ei ole tuki jokaisen tehtävän kääntämiselle.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez ja Arabadzhy (2026)]] katselmoivat 24 empiiristä tutkimusta generatiivisista [[conversational-ai|chatboteista]] [[language-learning|kielen oppimisessa]]. Heidän panoksensa on taksonominen: jokainen esigeneratiivisille chatboteille luetteloitu käyttömahdollisuus säilyy, ja kolme on uutta, mukaan lukien **translanguaging**, tarkoituksellinen liikkuminen kielten välillä osana oppimista. Kyse on kartasta raportoiduista käytöistä ja kokemuksista eikä yhdistetystä estimaatista, ja tutkimukset ovat maantieteellisesti keskittyneitä: Kiina, Iran, Taiwan ja Turkki kattavat 19 tutkimusta 24:stä, ja kaikki yhtä lukuun ottamatta sijoittuvat muodollisiin oppilaitoksiin. Tuki kieltenvälisen selityksen käyttämiselle oppimisen liikkeenä ei ole tuki jokaisen tehtävän kääntämiselle.
 
 Arviointi on se, missä näyttö terävöityy ja panokset kasvavat. [[ai-scoring-language-bias-physics|Feser ja Tschisgale (2026)]] vertasivat yhtätoista automaattista pisteytysmenetelmää ihmisasiantuntijoiden pistemääriin 116 lukio-opiskelijan fysiikkaselityksissä ja havaitsivat järjestelmällistä käsitteellisen ymmärryksen aliarviointia kielellisesti heikommissa selityksissä jokaisessa yksittäisessä menetelmässä. Asetelma eristää mekanismin: sama käsitteellinen sisältö heikommassa proosassa ilmaistuna pisteytettiin alemmas. Tämä ei ole väite minkään tietyn maan monikielisistä opiskelijoista, ja se on täsmälleen se kuvio, joka tekee kokonaispisteytyksen yhdenmukaisuudesta huonon diagnostisen työkalun. Pisteyttäjä voi olla keskimäärin samaa mieltä inhimillisten arvioijien kanssa ja erehtyä johdonmukaiseen suuntaan niiden opiskelijoiden kohdalla, joiden kieli on vielä kehittymässä.
 
@@ -73,7 +73,7 @@ Nämä ovat pilotoitavia käyttötapoja, eivät validoituja interventioita. Työ
 
 ## Suojaa opiskelijan merkitys ja ääni
 
-Pyydä kohdennettua apua ennen uudelleenkirjoitusta, koska kokonainen uudelleenkirjoitus on se, missä opiskelijan ajattelu lähtee sivulta. Pyyntö, jonka opettaminen kannattaa: ”Tunnista kaksi kohtaa, joissa merkitykseni on epäselvä. Selitä ongelma ja tarjoa vaihtoehtoja. Pidä esimerkkini äläkä lisää väitteitä.” Opiskelija valitsee sitten.
+Pyydä kohdennettua apua ennen uudelleenkirjoitusta, koska kokonainen uudelleenkirjoitus on se, missä opiskelijan ajattelu lähtee luonnoksesta. Pyyntö, jonka opettaminen kannattaa: ”Tunnista kaksi kohtaa, joissa merkitykseni on epäselvä. Selitä ongelma ja tarjoa vaihtoehtoja. Pidä esimerkkini äläkä lisää väitteitä.” Opiskelija valitsee sitten.
 
 Järjestys, joka pitää työn opiskelijalla:
 

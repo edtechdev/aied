@@ -7,9 +7,9 @@ audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T11:57:26-04:00"
+updated: "2026-11-15T16:24:30-05:00"
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -69,7 +69,7 @@ Přírůstek pre/post ukazuje, že intervence fungovala. Ukazuje, že skóre sto
 
 Publikované velikosti účinku se přenášejí do mé třídy. O'Neillových 14 metaanalýz nemohlo unést tvrzení, která na nich byla postavena, a oba uvedené predikční intervaly zahrnovaly nulu.
 
-Analytika platformy měří kvalitu výuky. Zhangův agent na třetím místě byl podle odborné rubriky poslední.
+[[learning-analytics|Analytika platformy]] měří kvalitu výuky. Zhangův agent na třetím místě byl podle odborné rubriky poslední.
 
 ## Co vám budou namítat
 

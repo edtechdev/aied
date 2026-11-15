@@ -8,9 +8,9 @@ assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
 audience: [instructors, researchers, administrators]
-updated: "2026-10-29T11:57:26-04:00"
+updated: "2026-11-15T16:23:56-05:00"
 translation_of: faqs/ai-literacy-evidence
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Odpověď pro tu místnost a stav důkazů ve [[higher-ed|vysokoškolském vzdě
 
 ## Postavte sekvenci kolem kritického posouzení
 
-Nejsilnější příklad z výuky ve znalostní bázi pochází z bakalářské psychologie. Richmond a Nicholls nechali studenty oznámkovat tiskovou zprávu vygenerovanou [[generative-ai|ChatGPT]] podle vlastní kurzovní rubriky, pojmenovat chyby a přepsat ji. Studenti obecně viděli, že próza je vybroušená a že obsah zkresluje cíle, metody a zjištění výzkumu. Proti předchozí kohortě s [[peer-assessment|vrstevnickým hodnocením]] si skupina s kritickým posouzením AI vedla mírně lépe v následném přepisu scénáře (*d* = 0,36), bez významné výhody u finálního videa ([[richmond-nicholls-genai-psych-feedback-ai-literacies]]).
+Nejsilnější příklad z výuky pochází z bakalářské psychologie. Richmond a Nicholls nechali studenty oznámkovat tiskovou zprávu vygenerovanou [[generative-ai|ChatGPT]] podle vlastní kurzovní rubriky, pojmenovat chyby a přepsat ji. Studenti obecně viděli, že próza je vybroušená a že obsah zkresluje cíle, metody a zjištění výzkumu. Proti předchozí kohortě s [[peer-assessment|vrstevnickým hodnocením]] si skupina s kritickým posouzením AI vedla mírně lépe v následném přepisu scénáře (*d* = 0,36), bez významné výhody u finálního videa ([[richmond-nicholls-genai-psych-feedback-ai-literacies]]).
 
 Literatura, z níž tyto příklady pocházejí, se opírá o krátké intervence, [[self-regulated-learning|sebehodnocení]] a práci založenou na návrhu, a tato studie nese dvě z těch omezení. Srovnání bylo historické, takže stejný vzorec by vytvořila i lépe připravená kohorta. Výhoda se také objevila u mezilehlého artefaktu a zmizela u hotového, což je právě to, co byste čekali, kdyby kritické posouzení učilo revizi.
 
@@ -52,7 +52,7 @@ Beck a Brodersen zabudovali stejný tah do kurzu ekonomie: studenti sami řeší
 
 **AI Literacy Continuum** z NC State popisuje postup od *Not Yet Engaged* a *Uncritical Use* přes *Informed Use*, *[[critical-thinking|kritické hodnocení]]* a *Improvement* a byl zaveden s více než 330 účastníky napříč kurzy a workshopy ([[ai-literacy-continuum-higher-education]]). Jeho pozorování naznačují rozštěpení: krátké zkušenosti posouvaly studenty k informovanému používání, zatímco kritické hodnocení a zlepšování se objevovaly hlavně v trvalé práci zakotvené v oboru. Neexistovalo validované měření před a po ani srovnávací skupina, takže jde o důkazy z praxe.
 
-Učitelské vzdělávání ukazuje stejný strop z jiného úhlu. [[design-based-research|Na návrhu založená]] intervence Le a kol. byla pilotována se 14 studenty magisterského studia a vyhodnocena u 29 studentů [[teacher-education|učitelského vzdělávání]]. Uváděná [[self-efficacy|vnímaná vlastní účinnost]] v kompetenci AI vzrostla a studenti se posunuli ke kritičtějšímu [[pedagogy|pedagogickému]] uvažování o generativní AI, zatímco zisky v etice dosáhly jen marginální významnosti. Malá studie založená na návrhu takového tvaru kompetenci prokázat nemůže ([[genai-literacy-training-teacher-education-dbr-2026]]).
+[[teacher-role|Vzdělávání učitelů]] ukazuje stejný strop z jiného úhlu. [[design-based-research|Na návrhu založená]] intervence Le a kol. byla pilotována se 14 studenty magisterského studia a vyhodnocena u 29 studentů [[teacher-education|učitelského vzdělávání]]. Uváděná [[self-efficacy|vnímaná vlastní účinnost]] v kompetenci AI vzrostla a studenti se posunuli ke kritičtějšímu [[pedagogy|pedagogickému]] uvažování o generativní AI, zatímco zisky v etice dosáhly jen marginální významnosti. Malá studie založená na návrhu takového tvaru kompetenci prokázat nemůže ([[genai-literacy-training-teacher-education-dbr-2026]]).
 
 ## Měřte, co studenti umějí
 
@@ -60,7 +60,7 @@ Učitelské vzdělávání ukazuje stejný strop z jiného úhlu. [[design-based
 
 Autoři čtou vlastní výsledek jako argument pro posun za znalosti k dovednostem, praktikám, etice a postojům, a to skrze integrovanou reflektivní pedagogiku a [[culturally-relevant-pedagogy|kulturně relevantní]] návrh. Pro komisi udělají práci dva důsledky. Výsledek, který měříte, utváří účinek, který najdete, takže vybírejte výsledek, na kterém vám skutečně záleží. Tak široký interval predikce argumentuje pro místní pilot.
 
-Měření je místo, kde většina tvrzení o programech selhává. Validovaný výkonový test **GLAT** předpovídal výkon v úkolu vysokoškolského vzdělávání s podporou AI. [[self-report-measures|Sebehodnoticí]] měřítko gramotnosti v ChatGPT ne ([[jin-glat-genai-literacy-assessment]]; [[ai-literacy-assessment-misalignment]]). Napříč znalostní bází se uváděná a prokázaná kompetence v AI podstatně rozcházejí, což činí [[educational-measurement|pedagogické měření]] a [[assessment-validity|validitu hodnocení]] součástí návrhu, ne dodatečnou úvahou při [[ai-ed-evaluation|vyhodnocování]].
+Měření je místo, kde většina tvrzení o programech selhává. Validovaný výkonový test **GLAT** předpovídal výkon v úkolu vysokoškolského vzdělávání s podporou AI. [[self-report-measures|Sebehodnoticí]] měřítko gramotnosti v ChatGPT ne ([[jin-glat-genai-literacy-assessment]]; [[ai-literacy-assessment-misalignment]]). Uváděná a prokázaná kompetence v AI se podstatně rozcházejí, což činí [[educational-measurement|pedagogické měření]] a [[assessment-validity|validitu hodnocení]] součástí návrhu, ne dodatečnou úvahou při [[ai-ed-evaluation|vyhodnocování]].
 
 Burriss a kol. zpřesňují, co se počítá. Jejich studie 22 studentů jedenáctého ročníku, kteří tvořili videospoty o etice AI, argumentuje, že existující škály gramotnosti a kompetenční rámce předpokládají individuálně měřitelný výkon, což vylučuje kooperativní a tvůrčí projev. Navrhují studentské reflexe, [[multimodal|multimodální]] artefakty a občanský diskurz jako doplněk konvenčních měřítek. Jejich studenti rozvinuli kritické porozumění etice AI skrze kooperativní [[critical-pedagogy|kritickou pedagogiku]], a to zpochybňuje pojetí gramotnosti jako seznamu dovedností i nástroje na nich postavené. Patnáct z 18 odpovědí na konci bloku potvrdilo nové učení a autoři poznamenávají, že projekt vzdoruje tradičnímu [[summative-assessment|souhrnnému hodnocení]] ([[burriss-multimodal-composition-critical-ai-literacy-2026]]).
 
@@ -86,7 +86,7 @@ Otázka, která z toho plyne, je ta, kterou máte položit vlastnímu programu: 
 
 ## V čem se toto publikum mýlí
 
-Workshop je kurikulum. Pozorování Continuum kladou kritické hodnocení a zlepšování do trvalé práce zakotvené v oboru a Le a kol. posunuli vnímanou vlastní účinnost, aniž by prokázali kompetenci.
+Workshop je [[curriculum-design|kurikulum]]. Pozorování Continuum kladou kritické hodnocení a zlepšování do trvalé práce zakotvené v oboru a Le a kol. posunuli vnímanou vlastní účinnost, aniž by prokázali kompetenci.
 
 Sebedůvěra je zástupný ukazatel gramotnosti. Výsledek GLAT je přímý: výkonový test předpovídal výkon v úkolu a sebehodnoticí měřítko ne.
 

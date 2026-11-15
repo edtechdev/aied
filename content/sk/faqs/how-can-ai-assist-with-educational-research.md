@@ -14,9 +14,9 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:27:26-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ Krátka odpoveď na to stretnutie: AI môže prevziať vyhľadávanie, prvý skr
 
 **5.** Overte každý odkaz ručne, autormi počnúc, vždy, keď sa AI dotkla textu.
 
-**6.** Zaznamenávajte prompty, verzie modelov a verzie korpusu a naplánujte na to hodiny.
+**6.** Zaznamenávajte prompty, verzie modelov a verzie dátovej sady a naplánujte na to hodiny.
 
 ## Rozhodnite, čoho sa AI môže dotknúť, pred začiatkom projektu
 
@@ -60,7 +60,7 @@ Väčšina prínosu pochádza z dvoch dizajnových rozhodnutí. Napíšte rozhod
 
 ## Ukotvite kódovací manuál skôr, než model čokoľvek prečíta
 
-[[qualitative-research|Kvalitatívna analýza]] je fáza, kde je interpretácia produktom. Konštrukty, kódovacie rubriky a trénovacie údaje sú ľudské rozhodnutia, a nie výstupy modelu ([[ai-methodologies-science-education-research-2026|Martin a kol., 2026]]), čo znamená, že kódovací manuál musí byť ukotvený skôr, než sa cez korpus spustí automatizovaný priechod. Alternatívou je kódovacia schéma napísaná okolo toho, čo model náhodou vyniesol na povrch, a témy potom opisujú čítanie vašich údajov nástrojom.
+[[qualitative-research|Kvalitatívna analýza]] je fáza, kde je interpretácia produktom. Konštrukty, kódovacie rubriky a trénovacie údaje sú ľudské rozhodnutia, a nie výstupy modelu ([[ai-methodologies-science-education-research-2026|Martin a kol., 2026]]), čo znamená, že kódovací manuál musí byť ukotvený skôr, než sa cez dátovú sadu spustí automatizovaný priechod. Alternatívou je kódovacia schéma napísaná okolo toho, čo model náhodou vyniesol na povrch, a témy potom opisujú čítanie vašich údajov nástrojom.
 
 Delegovanie môže byť jemnejšie než všetko alebo nič. [[agreement-not-quality-llm-coding-verification|Jedna štúdia so slepým overovaním]] klasifikovala 15 zo 72 položiek kódovacieho manuálu ako preukázateľne vyžadujúce ľudskú expertízu, 12 ako lepšie obslúžených modelom a 16 ako vhodných na triedenie podľa istoty. Zoraďte svoje položky takto a úspora práce pristane tam, kde je bezpečná.
 
@@ -88,13 +88,13 @@ Zlyhanie je konkrétne. V [[zhang-platform-scores-miss-ai-teaching-agents-2026|h
 
 Prijatie predbehlo vykazovanie. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta a Lin (2026)]] analyzovali 888 prác o automatizácii prehľadov: od roku 2023 neuviedlo 38,0 % prác o softvéri a produktoch žiadne hodnotenie, proti 9,3 % prác o LLM, a prístup k modelom bol prevažne proprietárny (84,1 %). Priaznivé celkové hodnotenie tiež neznamenalo vhodnosť na delegovanie, keďže 52 % zo 118 prác o LLM s výlučne pozitívnym hodnotením stále uvádzalo obavu, že postup nedosahuje latku vyžadovanú jeho rolou. Ich rámec [[meta-analysis-systematic-review|PRISMA]]-LLM oddeľuje zverejnenie implementácie od hodnotenia citlivého na dôsledky a svojich päť úrovní berie ako úrovne zverejnenia, a nie úrovne rizika.
 
-Praktická verzia: pomenujte systém a jeho verziu, prompty, verziu korpusu, čo skontroloval človek a kde to zlyhalo. Uchovávajte záznamy promptov a odpovedí, pretože plynulý vygenerovaný zoznam tém vyzerá nevyhnutne dávno predtým, než sa jeho dôkazná práca začala ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
+Praktická verzia: pomenujte systém a jeho verziu, prompty, verziu dátovej sady, čo skontroloval človek a kde to zlyhalo. Uchovávajte záznamy promptov a odpovedí, pretože plynulý vygenerovaný zoznam tém vyzerá nevyhnutne dávno predtým, než sa jeho dôkazná práca začala ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
 Naplánujte aj hodiny. [[persistent-ai-agents-academic-research|Prípadová štúdia jedného výskumníka za 115 dní]] s pretrvávajúcim výskumným agentom zistila, že najsilnejším vzorcom bolo rozšírenie kapacity, a nie preukázané nahradenie práce: ako sa hromadila pamäť a postupy, rástol rozsah delegovanej práce, kým vklad človeka sa nezmenšoval.
 
 ## Robte praktický výskum podľa rovnakých pravidiel v menšom meradle
 
-Ak ste prednášajúci, ktorý skúma svoj vlastný kurz, pracujete v najtenšom prameni korpusu. [[ai-assisted-educational-research|Výskum vo vzdelávaní podporovaný AI]] to uvádza ako medzeru, a nie ako zistenie: praktický výskum podporovaný AI je pravdepodobne rozšírený a takmer nezdokumentovaný a dôkazy o automatizácii prehľadov a bibliometrické dôkazy nerozhodujú, ako má prednášajúci skúmať svoju vlastnú výučbu.
+Ak ste prednášajúci, ktorý skúma svoj vlastný kurz, pracujete v najmenej preskúmanom prameni tejto literatúry. [[ai-assisted-educational-research|Výskum vo vzdelávaní podporovaný AI]] to uvádza ako medzeru, a nie ako zistenie: praktický výskum podporovaný AI je pravdepodobne rozšírený a takmer nezdokumentovaný a dôkazy o automatizácii prehľadov a bibliometrické dôkazy nerozhodujú, ako má prednášajúci skúmať svoju vlastnú výučbu.
 
 Prenáša sa súbor dispozícií:
 

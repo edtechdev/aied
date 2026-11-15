@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
 audience: [instructors, instructional designers]
-updated: "2026-10-29T14:37:59-04:00"
+updated: "2026-11-15T16:22:38-05:00"
 translation_of: faqs/incorporating-ai-literacy
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -39,11 +39,11 @@ A lényeg: tegyen egy lépést egy már értékelt feladatba, ahol a hallgatók 
 
 ## Ne órát adjon hozzá, hanem egy lépést egy már értékelt feladatba
 
-Az intézményi alapmegoldás egy önálló modul, általában a félév elején, arról, hogyan működnek a nagy nyelvi modellek, és hogyan kell promptot írni. Az [[ai-literacy|MI-írástudás]] szintézise más elrendezés mellett érvel: a hallgatók akkor fejlesztenek használhatóbb írástudást, ha hiteles kurzusfeladatokon belül használják, kérdezik, ellenőrzik, bírálják és mérlegelik a MI-t, ismételten. A kritikai értékelés felé mutató elmozdulás ott a legszembetűnőbb, ahol ezek a tapasztalatok tartósak és beágyazottak, nem egyszeri alkalommal nyújtottak ([[ai-literacy-continuum-higher-education|Ötlépcsős gyakorlati kontinuum az MI-írástudáshoz a felsőoktatásban]]).
+Az intézményi alapmegoldás egy önálló modul, általában a félév elején, arról, hogyan működnek a [[llm|nagy nyelvi modellek]], és hogyan kell promptot írni. Az [[ai-literacy|MI-írástudás]] szintézise más elrendezés mellett érvel: a hallgatók akkor fejlesztenek használhatóbb írástudást, ha hiteles kurzusfeladatokon belül használják, kérdezik, ellenőrzik, bírálják és mérlegelik a MI-t, ismételten. A kritikai értékelés felé mutató elmozdulás ott a legszembetűnőbb, ahol ezek a tapasztalatok tartósak és beágyazottak, nem egyszeri alkalommal nyújtottak ([[ai-literacy-continuum-higher-education|Ötlépcsős gyakorlati kontinuum az MI-írástudáshoz a felsőoktatásban]]).
 
 A [[quantitative-research|kvantitatív]] bizonyítékok ugyanabba az irányba mutatnak. [[liu-ai-literacy-interventions-meta-analysis-2026|Egy 59 MI-írástudás-beavatkozást összegző meta-analízis]] az integrált és reflektív pedagógiáknál találta a legnagyobb hatásokat. Arra is figyelmeztet, hogy a tudásközpontú beavatkozások nagyobb *mért* hatást mutatnak, mint a készségekre, attitűdökre vagy etikára irányulók. Tartsa ezt szem előtt, amikor eldönti, mit mérjen.
 
-A másik ok, amiért a meglévő munkára építsen, a terhelés. A [[generative-ai|generatív MI]] [[cs-education|számítástechnika-oktatás]]beli 72 empirikus tanulmányát összegző 2026-os szintézis szerint a korpusz legerősebb, legtöbbször replikált eredménye, hogy a MI megbízhatóan növeli a rövid távú befejezést és csökkenti a feladatra fordított időt, 36 tanulmány szerint. Ezek az előnyök 21 tanulmány szerint „nem transzferálódnak az önálló teljesítményre”. A hallgatók többet fejeznek be, miközben kevesebbet értenek meg, hacsak a kimenettel való kritikai foglalkozás szerkezetileg nem kötelező ([[kumar-genai-computing-education-systematic-review-2026|Generatív MI a számítástechnika-oktatásban: rendszerezett áttekintés és keretrendszer a felelős integrációhoz]]).
+A másik ok, amiért a meglévő munkára építsen, a terhelés. A [[generative-ai|generatív MI]] [[cs-education|számítástechnika-oktatás]]beli 72 empirikus tanulmányát összegző 2026-os szintézis szerint a legerősebb, legtöbbször replikált eredmény, hogy a MI megbízhatóan növeli a rövid távú befejezést és csökkenti a feladatra fordított időt, 36 tanulmány szerint. Ezek az előnyök 21 tanulmány szerint „nem transzferálódnak az önálló teljesítményre”. A hallgatók többet fejeznek be, miközben kevesebbet értenek meg, hacsak a kimenettel való kritikai foglalkozás szerkezetileg nem kötelező ([[kumar-genai-computing-education-systematic-review-2026|Generatív MI a számítástechnika-oktatásban: rendszerezett áttekintés és keretrendszer a felelős integrációhoz]]).
 
 Az előny a [[prior-knowledge|előzetes tudástól]] is függ. A jól felkészült hallgatók tartós készséggé alakítják a MI segítségét. A gyengén felkészültek kockáztatják, hogy mankóként használják, amely megszünteti a [[productive-failure|produktív kudarcot]]. Az áttekintés alapértelmezett ajánlása a fokozatos hozzáférés: előbb MI nélküli alapok, majd irányított használat kötelező magyarázó feladatokkal, végül reflektív bírálat. Ez a sorrend sokkal könnyebben illeszkedik egy meglévő kurzushoz, mint egy új egység. A szakaszolás kidolgozására a [[learning-design|tanulástervezés]] való, a [[curriculum-design|tananyagtervezés]] pedig ugyanennek a problémának a képzési szintű változata.
 
@@ -71,7 +71,7 @@ Az olyan általános szabályok, mint hogy „ellenőrizze a MI-t [[hallucinatio
 
 Ezt a listát maga írja meg, a saját javításaiból, a félév kezdete előtt. Öt példa a saját szakterületéről többet tesz, mint egy általános ellenőrzőlista, és egyben a fenti bírálati feladat hibabankjaként is szolgál.
 
-Az ismétlés a másik fele. Egy gyakorlat a harmadik héten olyan hallgatót eredményez, aki elvégezte a gyakorlatot. Ugyanaz a gyakorlat három feladatban, más anyagon, szokást eredményez, és a korpusz azon esetei, amelyek [[discipline-specific-aied|szakterületspecifikus]] integrációt mutatnak, azok, ahol a gyakorlat végigfut a kurzuson, nem egyetlen alkalomra korlátozódik.
+Az ismétlés a másik fele. Egy gyakorlat a harmadik héten olyan hallgatót eredményez, aki elvégezte a gyakorlatot. Ugyanaz a gyakorlat három feladatban, más anyagon, szokást eredményez, és azok az esetek, amelyek [[discipline-specific-aied|szakterületspecifikus]] integrációt mutatnak, azok, ahol a gyakorlat végigfut a kurzuson, nem egyetlen alkalomra korlátozódik.
 
 ## Kölcsönözze a szakterületén már létező mintákat
 
@@ -79,11 +79,11 @@ Nem kell kitalálnia a tervet. Több is dokumentált, és mindegyik elég kicsi 
 
 A közgazdaságtan hallgatói először megoldanak egy problémát, beszereznek egy generatív MI-választ, összevetik a saját érvelésükkel, bírálják a MI-t, reflektálnak, majd megbeszélik a társaikkal ([[beck-genai-literacy-economics-hands-on|A generatív MI írástudás fejlesztése a közgazdaságtanban]]).
 
-A pszichológia hallgatói egy ChatGPT által generált sajtóközleményt értékelnek kurzus-rubrika ellen, azonosítják a gyengeségeket, és átdolgozzák, ami ugyanabban a feladatban fejleszti a szakterületi és a visszajelzési írástudást ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Generatív MI a pszichológiai, visszajelzési és MI-írástudás fejlesztésére]]).
+A pszichológia hallgatói egy ChatGPT által generált sajtóközleményt értékelnek kurzus-rubrika ellen, azonosítják a gyengeségeket, és átdolgozzák, ami ugyanabban a feladatban fejleszti a szakterületi és a [[feedback-literacy|visszajelzési írástudást]] ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Generatív MI a pszichológiai, visszajelzési és MI-írástudás fejlesztésére]]).
 
 A biológia a tevékenységeket a szakterületi tanulásba integrálja, ahelyett hogy külön technikai témát tanítana ([[zha-ai-literacy-biology-case-study|Az MI-írástudás oktatásának integrálása egy biológiaórán]]). Az adatbázis- és tervezési kurzusok a hibaelemzést használják tanulási tevékenységként: a hallgatók a MI által generált hibákat elemzik, és iterálnak a promptokon és a megoldásokon ([[pedagogy-ai-mistakes|A MI-hibák pedagógiája]]). A LearnAI modell a szakterületeken átívelő, igény szerinti MI-társkészítést ágyazza be egyetlen általános modul futtatása helyett ([[learnai-just-in-time-ai-cocreation-university-2026|LearnAI: igény szerinti MI-társkészítés a szakterületeken át]]).
 
-Egy figyelmeztetés számot is hoz. Egy újratervezett bevezető részecskefizika-kurzus a generatív MI-t kifejezett partnerként engedte a kutatás jellegű problémákban, és egy segítség nélküli írásbeli vizsga átlaga 20,6 lett a 80-ból, miközben csak két hallgató érte el a 40-et ([[ai-particle-physics-education-redesign-2026|MI a részecskefizika oktatásában]]). A támogatott teljesítmény és az önállóan előhívható tudás külön teljesítmények. A szerzők amellett érvelnek, hogy az MI-írástudást, az ellenőrzést és a MI tanárként, nem másolóként való kezelését is beleértve, korán, a külön erre szánt segítség nélküli gyakorlással együtt tanítsák. A [[physics-education|fizikaoktatás]] tartalmazza a teljesebb esetet.
+Egy figyelmeztetés számot is hoz. Egy újratervezett bevezető részecskefizika-kurzus a generatív MI-t kifejezett partnerként engedte a kutatás jellegű problémákban, és egy segítség nélküli írásbeli vizsga átlaga 20,6 lett a 80-ból, miközben csak két hallgató érte el a 40-et ([[ai-particle-physics-education-redesign-2026|MI a részecskefizika oktatásában]]). A támogatott teljesítmény és az önállóan előhívható tudás külön teljesítmények. A szerzők amellett érvelnek, hogy az MI-írástudást, az ellenőrzést és a MI [[teacher-role|tanárként]], nem másolóként való kezelését is beleértve, korán, a külön erre szánt segítség nélküli gyakorlással együtt tanítsák. A [[physics-education|fizikaoktatás]] tartalmazza a teljesebb esetet.
 
 Van olyan változat is, amelyben a hallgatók valódi közönségnek készítenek valamit. Burriss és mtsai 22 tizenegyedikes hallgatóval olyan videós közérdekű hirdetéseket készíttettek, amelyek azokkal a MI-[[ethics|etikai]] kérdésekkel foglalkoznak, amelyekben éltek: iskolai megfigyelés, elektronikus „folyosójegyek” és algoritmikus [[academic-integrity|plágiumvád]]. Az egység a kritikai poszthumanista írástudásra és a [[multimodal|multimodális kompozícióra]] épült. A hallgatók az ártalmat összegabalyodott ember-gép felelősségből eredőnek ábrázolták, nem gonosz eszközből, a csalás narratíváját a felnőttek hibás MI-re támaszkodása felé fordították, és az [[agency|cselekvőképességre]] zárultak („a megoldás elérhető távolságban van”). A szerzők a [[storytelling-in-education|történetmesélést]] és a közös alkotást a [[critical-pedagogy|kritikai MI-írástudás pedagógiájának]] középpontjába helyezik, és amellett érvelnek, hogy a valódi közönségnek *a MI-ről* való alkotás olyan kritikai kompetenciát fejleszt, amelyet a kompetenciaskálák nem látnak ([[burriss-multimodal-composition-critical-ai-literacy-2026|„Fiatal tudósok a terepen”]]). Ez az állítás egyetlen, 22 hallgatóval dolgozó egységből származó érv, ezért tervezési ötletként olvassa, ne hatásméretként.
 
@@ -95,7 +95,7 @@ A bizonyítékok a kognitívan [[active-learning|aktív]] és [[collaborative-le
 
 ## Feladattal mérje az ítélőképességet
 
-A hallgatók túlbecsülik, mennyire tudják értékelni a MI-t, és egy [[self-report-measures|önbevalláson alapuló]] magabiztossági tétel inkább megerősíti a hibát, mint feltárja. A tudásbázis jelentős eltérést dokumentál az önbevalláson alapuló és a teljesítményalapú MI-írástudás között, és teljesítménymérést javasol ([[ai-literacy-assessment-misalignment|MI-írástudás-mérés: az önbevallás és a teljesítmény eltérése]]; [[jin-glat-genai-literacy-assessment|GLAT]]).
+A hallgatók túlbecsülik, mennyire tudják értékelni a MI-t, és egy [[self-report-measures|önbevalláson alapuló]] magabiztossági tétel inkább megerősíti a hibát, mint feltárja. Jelentős eltérés van az önbevalláson alapuló és a teljesítményalapú MI-írástudás között, és teljesítménymérést javasol ([[ai-literacy-assessment-misalignment|MI-írástudás-mérés: az önbevallás és a teljesítmény eltérése]]; [[jin-glat-genai-literacy-assessment|GLAT]]).
 
 Magabiztossági tétel helyett adjon nekik tennivalót: észleljenek egy hibát, ellenőrizzenek egy forrást, javítsanak egy kimenetet, magyarázzanak meg egy korlátot, indokolják meg, miért alkalmas a MI egy adott használata egy adott feladatra.
 
@@ -117,7 +117,7 @@ A [[equity-in-ai-education|méltányosság]] végigvonul az egészen. A hallgat�
 
 Az MI-írástudás a promptolás tanítását jelenti. A promptolás a látható rész. A hallgatók technikailag jártassá válhatnak ezekkel az eszközökkel, miközben gyenge ítélőképességűek maradnak azzal kapcsolatban, ami kijön belőlük, és a fenti függőségi eredmény ugyanebbe az irányba mutat.
 
-Egy alkalom elég hozzá. Egy alkalom bevezetheti a szókincset. A valódi kurzusanyagon végzett ismételt gyakorlás melletti bizonyíték erősebb, az 59 beavatkozást összegző meta-analízis pedig ott találta a legnagyobb hatásokat, ahol a munka integrált és reflektív volt.
+Egy alkalom elég hozzá. Egy alkalom bevezetheti a szókincset. A valódi kurzusanyagon végzett ismételt gyakorlás melletti bizonyíték erősebb, az 59 beavatkozást összegző [[meta-analysis-systematic-review|meta-analízis]] pedig ott találta a legnagyobb hatásokat, ahol a munka integrált és reflektív volt.
 
 A hallgatók, akik naponta használják ezeket az eszközöket, már tudják értékelni a kimenetet. Yan és mtsai 38 egyetemi hallgató 76,32%-át találták egyfordulós mintában, a számítástechnikai szintézis pedig azt találta, hogy a hallgatók szignifikánsan gyengébbek a MI által generált kód javításában, mint a szokásos programozási vizsgafeladatokban. A felülettel való ismeretség nem kalibráció.
 
@@ -125,7 +125,7 @@ A tevékenységnek az eszközről kell szólnia. Az erősebb tervek a szakterül
 
 A kritikai értékelés átvihető a tantárgyi tudásból. Nem az, és ezért számít a számítástechnikai eredmény. Az a hallgató, aki helyes kódot tud írni, nem képes automatikusan diagnosztizálni a másvalaki által írt helytelen kódot, és ugyanez a rés jelentkezik a szövegeknél is.
 
-A magabiztosság használható helyettesítő mérték. Az önbevallás és a teljesítmény eltér ebben a szakirodalomban, az eltérés pedig elég rendszeres ahhoz, hogy a tudásbázis teljesítménymérést javasoljon. Kérjen bemutatót.
+A magabiztosság használható helyettesítő mérték. Az önbevallás és a teljesítmény eltér ebben a szakirodalomban, az eltérés pedig elég rendszeres ahhoz, hogy teljesítménymérést indokoljon. Kérjen bemutatót.
 
 ## Mi jön vissza Önre
 

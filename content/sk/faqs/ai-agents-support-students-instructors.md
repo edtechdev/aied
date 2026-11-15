@@ -6,9 +6,9 @@ weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-updated: "2026-10-29T12:11:33-04:00"
+updated: "2026-11-15T16:27:25-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Predajná ukážka od dodávateľa trvá štyridsať minút. Agent prečíta syl
 
 [[agentic-workflows-education|Agentické pracovné postupy vo vzdelávaní]] pomenúvajú štyri opakujúce sa schopnosti: reflexiu, plánovanie, používanie nástrojov a spoluprácu viacerých agentov. Každá pridáva náklad popri možnosti, vo [[explainable-ai|vysvetliteľnosti]], koordinácii, [[trust-calibration|dôvere]], latencii a dohľade.
 
-Roly na strane študenta siahajú od [[adaptive-learning|adaptívneho]] tutorovania a plánovania štúdia cez [[formative-assessment|formujúcu]] spätnú väzbu, vedené [[problem-solving|riešenie problémov]] a generovanie cvičení až po odporúčania predpokladov a reflexné [[metacognition|metakognitívne]] [[prompt-engineering|promptovanie]]. Roly na strane vyučujúceho pokrývajú tvorbu materiálov, [[automated-question-generation|generovanie a validáciu otázok]], triedenie spätnej väzby, kurzovú [[learning-analytics|analytiku]], inštrukčný dizajn, vyhľadávanie zdrojov a orchestráciu špecializovaných podagentov.
+Roly na strane študenta siahajú od [[adaptive-learning|adaptívneho]] tutorovania a plánovania štúdia cez [[formative-assessment|formujúcu]] spätnú väzbu, vedené [[problem-solving|riešenie problémov]] a generovanie cvičení až po odporúčania predpokladov a reflexné [[metacognition|metakognitívne]] [[prompt-engineering|promptovanie]]. Roly na strane vyučujúceho pokrývajú tvorbu materiálov, [[automated-question-generation|generovanie a validáciu otázok]], triedenie spätnej väzby, kurzovú [[learning-analytics|analytiku]], [[learning-design|inštrukčný dizajn]], vyhľadávanie zdrojov a orchestráciu špecializovaných podagentov.
 
 Dve z nich sú bezpečnejšie zavčasu, pretože obe produkujú artefakt, ktorý človek číta skôr než študenti: generátor otázok spárovaný s validátorom a koncept, ktorý učiteľ upravuje.
 
@@ -98,4 +98,4 @@ Prístup uzatvára medzeru v rovnosti. Nerovný prístup k schopným agentickým
 
 ## Kam ďalej
 
-[[developing-ai-tutor|Vývoj AI tútora]] pokrýva stavbu na strane študenta od cieľa k rebríku pomoci a [[evaluating-ai-interventions-methods|Metódy hodnotenia AI intervencií]] pokrývajú, či vec fungovala. [[intelligent-tutoring|Inteligentné tutorovanie]] a [[ai-literacy|AI gramotnosť]] dodávajú dizajnovú slovnú zásobu, ktorú táto stránka predpokladá.
+[[developing-ai-tutor|Vývoj AI tútora]] pokrýva stavbu na strane študenta od cieľa k rebríku pomoci a [[evaluating-ai-interventions-methods|Metódy hodnotenia AI intervencií]] pokrývajú, či vec fungovala. [[intelligent-tutoring|Inteligentné tutorovanie]] a [[ai-literacy|AI gramotnosť]] dodávajú dizajnovú slovnú zásobu, ktorú predpokladá.

@@ -1,7 +1,7 @@
 ---
 title: "Čo personalizované učenie vlastne znamená a kedy pomáha?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:27:26-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
@@ -28,7 +28,7 @@ ai_assist:
 
 Platforma sľubuje personalizovaný zážitok pre každého študenta. Môže preusporiadať cvičné otázky, prepísať vysvetlenie podľa študentovho záujmu o futbal, pamätať si minulotýždňový rozhovor alebo vybrať, čo bude študent študovať ďalej. Všetky štyri sa nazývajú personalizácia a len jedna z nich bola testovaná v niečom, čo sa tomu aspoň podobá.
 
-Tu je krátka odpoveď: personalizácia pomenúva zmenu nejakej časti učebnej skúsenosti a jej hodnota závisí od troch vecí: čo sa adaptuje, aké dôkazy adaptáciu riadia a či zmena zlepšuje učenie, ktoré zamýšľate. Známy príklad alebo pohotová konverzácia môžu pôsobiť osobne a zároveň nič neučiť. Účinná adaptácia môže byť neviditeľná. Najjasnejší experimentálny výsledok v tejto vedomostnej báze je úzky: v päťmesačnom certifikačnom kurze Pythonu na desiatich stredných školách v Taipeji dosiahli študenti randomizovaní na adaptívne poradie úloh približne o 0,150 smerodajnej odchýlky viac v osobnej [[summative-assessment|záverečnej skúške]] bez pomoci než študenti s pevným poradím a rovnakým prístupom k [[conversational-ai|chatbotu]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). To podporuje poradie úloh za špecifikovaných podmienok. Neoveruje to všetko, čo sa predáva ako personalizované.
+Tu je krátka odpoveď: personalizácia pomenúva zmenu nejakej časti učebnej skúsenosti a jej hodnota závisí od troch vecí: čo sa adaptuje, aké dôkazy adaptáciu riadia a či zmena zlepšuje učenie, ktoré zamýšľate. Známy príklad alebo pohotová konverzácia môžu pôsobiť osobne a zároveň nič neučiť. Účinná adaptácia môže byť neviditeľná. Najjasnejší experimentálny výsledok v tejto literatúre je úzky: v päťmesačnom certifikačnom kurze Pythonu na desiatich stredných školách v Taipeji dosiahli študenti randomizovaní na adaptívne poradie úloh približne o 0,150 smerodajnej odchýlky viac v osobnej [[summative-assessment|záverečnej skúške]] bez pomoci než študenti s pevným poradím a rovnakým prístupom k [[conversational-ai|chatbotu]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). To podporuje poradie úloh za špecifikovaných podmienok. Neoveruje to všetko, čo sa predáva ako personalizované.
 
 ## Stručná verzia
 

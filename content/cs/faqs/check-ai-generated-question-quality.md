@@ -1,7 +1,7 @@
 ---
 title: "Jak poznám, zda jsou otázky do kvízu a zkoušky vygenerované AI skutečně dobré?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:20:19-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-05T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Požádáte o dvacet otázek ze svých přednáškových poznámek. Přijdou zpátky s klíči, vysvětleními, štítky obtížnosti a kategoriemi Bloomovy taxonomie, ve formátovaném dokumentu, který vypadá hotově. Na ten dokument se za chvíli podepíšete.
 
-Krátká odpověď pro kolegu: vygenerované otázky jsou kandidáti, ne hodnocení. Každou si sami vyřešte, zkontrolujte, co položka po studentovi skutečně chce, a než se začne počítat, zjistěte, jak na ni studenti reagují. Ve dvou největších studiích v této znalostní bázi není zajímavým signálem to, že generování funguje, ale to, kde selhává. Iterační generování uvnitř pracovního postupu specifického pro kurz přineslo použitelné zkoušky s výběrem z možností v 71 vysokoškolských třídách ([[assessing-quality-ai-generated-exams-field-2025|Isley a kol., 2025]]). V auditu 311 nasazených otázek v kurzech datové vědy kopírovaly štítky obtížnosti od modelu úrovně Bloomovy taxonomie, které model vygeneroval spolu s nimi, téměř dokonale (Spearmanovo ρ = 0,90), zatímco s tím, co studenti skutečně dosáhli, korelovaly na ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An a Wang, 2026]]). Štítek byl popis promptu, ne měření položky.
+Zde je krátká odpověď: vygenerované otázky jsou kandidáti, ne hodnocení. Každou si sami vyřešte, zkontrolujte, co položka po studentovi skutečně chce, a než se začne počítat, zjistěte, jak na ni studenti reagují. Ve dvou největších studiích není zajímavým signálem to, že generování funguje, ale to, kde selhává. Iterační generování uvnitř pracovního postupu specifického pro kurz přineslo použitelné zkoušky s výběrem z možností v 71 vysokoškolských třídách ([[assessing-quality-ai-generated-exams-field-2025|Isley a kol., 2025]]). V auditu 311 nasazených otázek v kurzech datové vědy kopírovaly štítky obtížnosti od modelu úrovně Bloomovy taxonomie, které model vygeneroval spolu s nimi, téměř dokonale (Spearmanovo ρ = 0,90), zatímco s tím, co studenti skutečně dosáhli, korelovaly na ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An a Wang, 2026]]). Štítek byl popis promptu, ne měření položky.
 
 ## Stručně
 

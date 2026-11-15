@@ -6,9 +6,9 @@ weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:19:55-05:00"
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,7 @@ Mikään tästä ei osoita, ettei havaitseminen koskaan toimi. Se osoittaa virhe
 
 Aloita merkinnästä. [[ai-assessment-scale-reform|Tekoälyn arviointiasteikko (AIAS)]] antaa jokaiselle tehtävälle tekoälyn käytön tason: ”ei tekoälyä”, ”tekoäly vain ideointiin”, ”tekoälyapua lähteet mainiten” ja ”tekoälyn täysi käyttö”. Näin odotus on nimenomainen ja valvottavissa eikä pääteltävä.
 
-Muuta sitten artefaktia. 72 tutkimuksen [[meta-analysis-systematic-review|systemaattinen katsaus]] generatiivisesta tekoälystä [[cs-education|tietojenkäsittelytieteen koulutuksessa]] pitää uudelleensuunnittelua sekä toteuttamiskelpoisena että vaikuttavimpana ja nostaa esiin yhden liikkeen: lisää suullinen tai muuten prosessin näkyväksi tekevä elementti ainakin yhteen korkean panoksen arviointiin kurssilla. Se kutsuu sitä aineiston tehokkaimmaksi yksittäiseksi interventioksi. Havaitseminen on katsauksen ohuin alue, vain 3 tutkimusta, kun 60 %:sta 80 %:iin tietojenkäsittelyn opiskelijoista raportoi generatiivisen tekoälyn käytöstä kursseillaan, yleensä ilman opettajan nimenomaista lupaa, ja 70 % eräästä kansallisesta opettajaotoksesta pyytää nimenomaisesti koulutusta tekoälyä kestävän arvioinnin suunnitteluun ([[kumar-genai-computing-education-systematic-review-2026]]).
+Muuta sitten artefaktia. 72 tutkimuksen [[meta-analysis-systematic-review|systemaattinen katsaus]] generatiivisesta tekoälystä [[cs-education|tietojenkäsittelytieteen koulutuksessa]] pitää uudelleensuunnittelua sekä toteuttamiskelpoisena että vaikuttavimpana ja nostaa esiin yhden liikkeen: lisää suullinen tai muuten prosessin näkyväksi tekevä elementti ainakin yhteen korkean panoksen arviointiin kurssilla. Se kutsuu sitä katsauksen tehokkaimmaksi yksittäiseksi interventioksi. Havaitseminen on katsauksen ohuin alue, vain 3 tutkimusta, kun 60 %:sta 80 %:iin tietojenkäsittelyn opiskelijoista raportoi generatiivisen tekoälyn käytöstä kursseillaan, yleensä ilman opettajan nimenomaista lupaa, ja 70 % eräästä kansallisesta opettajaotoksesta pyytää nimenomaisesti koulutusta tekoälyä kestävän arvioinnin suunnitteluun ([[kumar-genai-computing-education-systematic-review-2026|Kumar ym., 2026]]).
 
 Kolmevuotinen tietojenkäsittelyn kurssi näyttää, miten pitkälle tuettu ilmoitusmenettely voi siirtää käyttäytymistä. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil ym. (2026)]] vaativat itsenäisen luonnoksen ja nelikohtaisen tarkistuslistan, tekoälyllä tehdyn ”hio, älä kirjoita uudelleen” -vaiheen, ilmoituslomakkeen ja jäsennellyn pohdinnan, ja puuttuva luonnos tai lomake tuotti nollan. Käyttöönotto nousi noin kahdesta kolmasosasta opiskelijoista vapaaehtoisen käytännön aikana 93 %:iin tuetulla vuodella; 81 % ja 84 % tekoälyn käyttäjistä raportoi hylänneensä tai muokanneensa ehdotuksia, arvioijat koodasivat 77-81 % palautuksista kriittisen sitoutumisen merkiksi, eikä tekoälyn käyttö ennustanut esseelaatua itsenäisesti, kun aiempi kirjoitustaito oli kontrolloitu. Kyse on yhden kurssin kokemusraportista, ei kontrolloidusta kokeesta, mutta se näyttää rehellisyystyön siirtyvän tunnistuksesta niihin olosuhteisiin, joissa opiskelijat ilmoittavat ja muokkaavat.
 

@@ -7,9 +7,9 @@ audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T14:37:59-04:00"
+updated: "2026-11-15T16:22:03-05:00"
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ A módszert az állításhoz kell illeszteni. Egy kérdőív azt mondja meg, hog
 
 A [[research-methods-aied|Kutatási módszerek az AIED-ben]] oldal kifejti, mit nyújt az egyes lehetőségek. A randomizált kísérlet adja a legerősebb kauzális következtetést. A kvázi-kísérleti, előtte-utána vagy párosított csoportos elrendezés illeszkedik a meglévő osztályokhoz, és gyengébb állításokat támaszt alá. A [[qualitative-research|kvalitatív]] interjúk, fókuszcsoportok, megfigyelések és alkotáselemzés feltárják a mechanizmusokat és a nem várt tapasztalatokat. A [[mixed-methods-research|kevert módszerek]] a kimeneti bizonyítékot magyarázattal párosítják. A [[design-based-research|tervezésalapú kutatás]] annak az oktatónak való, aki több iteráción át finomít egy beavatkozást.
 
-A MI-támogatással végzett kvalitatív elemzés feltétellel kerülhet fel erre a listára. Percek alatt átrendezi az interjúkorpuszt, ezért a [[chain-behind-claim-warrantability-2026|megalapozhatóság]] legalább olyan fontos, mint a pontosság: rögzíteni kell a dokumentált átrendezéseket, amelyek révén az olvasó áttekintheti, vitathatja és felülvizsgálhatja az adattól az állításig vezető utat.
+A MI-támogatással végzett kvalitatív elemzés feltétellel kerülhet fel erre a listára. Percek alatt átrendezi az interjúátiratokat, ezért a [[chain-behind-claim-warrantability-2026|megalapozhatóság]] legalább olyan fontos, mint a pontosság: rögzíteni kell a dokumentált átrendezéseket, amelyek révén az olvasó áttekintheti, vitathatja és felülvizsgálhatja az adattól az állításig vezető utat.
 
 A kérdőív [[self-report-measures|önbevallásos mérőeszköz]]: az attitűdökre jó, a tanulásra nem.
 
@@ -69,7 +69,7 @@ Az előtte-utána nyereség azt mutatja, hogy a beavatkozás működött. Azt mu
 
 A publikált hatásméretek átvihetők az én csoportomra. O'Neill 14 meta-analízise nem tudta alátámasztani a rájuk épített állításokat, és mindkét közölt előrejelzési intervallum tartalmazta a nullát.
 
-A platformanalitika a tanítás minőségét méri. Zhang harmadik helyen végzett ügynöke az utolsó lett a szakértői rubrikán.
+A platform[[learning-analytics|analitika]] a tanítás minőségét méri. Zhang harmadik helyen végzett ügynöke az utolsó lett a szakértői rubrikán.
 
 ## Mi jön vissza Önre
 

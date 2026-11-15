@@ -6,9 +6,9 @@ weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-updated: "2026-10-29T15:41:26-04:00"
+updated: "2026-11-15T16:19:04-05:00"
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ Concluzia de bază: tehnica de formulare a prompturilor este partea cea mai mic�
 
 ## Definește competența înainte de a rezerva sala
 
-Sinteza [[ai-literacy|Alfabetizare în IA]] din baza de cunoștințe identifică patru dimensiuni, iar ele sunt o agendă utilă pentru că fiecare cere un alt tip de sesiune:
+Sinteza [[ai-literacy|Alfabetizare în IA]] identifică patru dimensiuni, iar ele sunt o agendă utilă pentru că fiecare cere un alt tip de sesiune:
 
 - **Înțelegere fundamentală** a capabilităților și limitărilor IA.
 - **Competență practică** în folosirea instrumentelor de IA.
@@ -54,6 +54,8 @@ Scrie lista înainte de a planifica sesiunile. Patru dimensiuni plus un strat pe
 ## Evaluează performanța, nu încrederea
 
 Alfabetizarea în IA [[self-report-measures|autodeclarată]] poate diverge substanțial de capacitatea demonstrată, ceea ce este cel mai practic avertisment din această literatură pentru oricine conduce dezvoltarea cadrelor didactice. Un chestionar de încredere la finalul unui atelier măsoară cum s-a simțit atelierul.
+
+Un chestionar poate fi chiar prezis prea bine. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] au clasificat 314 din 315 membri ai corpului didactic în benzi de competență pornind de la o scală de 300 de itemi cu α = 0,997 și fără analiză factorială, iar apartenența instituțională a fost cel mai mare contribuitor — un semn că scorurile urmăreau unde lucrează oamenii, nu ce pot face ei.
 
 Cercetarea despre fluxurile de lucru [[agentic-ai|multi-agent]] ale profesorilor adaugă un al doilea motiv să testezi în loc să întrebi: gândirea sistemică, convingerile pedagogice și [[self-efficacy|autoeficacitatea]] interacționează în integrarea IA, așa că aceeași sesiune se așază diferit pe doi membri ai corpului didactic cu același background de materie. Asta pledează pentru programare diferențiată și împotriva atelierului cu un singur instrument pentru toți, pe care îl rulează majoritatea instituțiilor.
 
@@ -103,7 +105,7 @@ Experții de conținut vor descoperi singuri integrarea. Cunoașterea de conțin
 
 Un singur cadru le va acoperi pe toate. Standardul cu șase roluri există pentru că TPACK, SAMR și principalele standarde pentru educatori acoperă profesorii din învățământul preuniversitar sau doar dimensiunea de predare.
 
-Rezistența este un gol de cunoaștere de umplut. Aversiunea la risc a prezis negativ intenția, iar munca despre identitate descrie cadre didactice care raționează din valori pedagogice. O parte din ce arată ca reticență este o poziție defendabilă despre supra-dependența studenților.
+Rezistența este un gol de cunoaștere de umplut. Aversiunea la risc a prezis negativ intenția, iar [[learner-identity|munca despre identitate]] descrie cadre didactice care raționează din valori pedagogice. O parte din ce arată ca reticență este o poziție defendabilă despre supra-dependența studenților.
 
 ## Ce se va întoarce împotriva ta
 

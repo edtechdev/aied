@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-10-29T12:11:33-04:00"
+updated: "2026-11-15T16:27:26-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-10-28T10:45:41-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ Krátka odpoveď: rozhodnite, **čoho** má byť známka dôkazom, a zaradte do 
 
 ## Rozhodnite, čoho je známka dôkazom
 
-Začnite tým, že výslovne uvediete, ktorú schopnosť má známka zastupovať. Hodnotíte to, čo študent dokáže samostatne, to, čo dokáže primerane s AI, jeho schopnosť AI posúdiť a viesť, alebo nejakú kombináciu? [[assessment-validity|Validita hodnotenia]] vo vedomostnej báze to berie ako problém validity: vypracovaný artefakt už nie je dostatočným dôkazom toho, že študent má schopnosť, ktorú artefakt zjavne preukazuje. Toto je hodnotiaca polovica toho istého argumentu; polovica o vynucovaní je v [[reduce-ai-cheating]] a všeobecný rámec validity prechádza cez [[evaluating-ai-interventions-methods]].
+Začnite tým, že výslovne uvediete, ktorú schopnosť má známka zastupovať. Hodnotíte to, čo študent dokáže samostatne, to, čo dokáže primerane s AI, jeho schopnosť AI posúdiť a viesť, alebo nejakú kombináciu? [[assessment-validity|Validita hodnotenia]] to berie ako problém validity: vypracovaný artefakt už nie je dostatočným dôkazom toho, že študent má schopnosť, ktorú artefakt zjavne preukazuje. Toto je hodnotiaca polovica toho istého argumentu; polovica o vynucovaní je v [[reduce-ai-cheating]] a všeobecný rámec validity prechádza cez [[evaluating-ai-interventions-methods]].
 
 Odpoveď povedzte v sylabe, v zadaní úlohy a v rubrike. Študenti čítajú tri dokumenty a riadia sa tým najkonkrétnejším. „Použitie AI je povolené s uvedením“ nie je tvrdenie o tom, čo meriate, a nedáva študentovi spôsob, ako zistiť, či povolené použitie podkopáva to, čo hodnotíte.
 
@@ -86,7 +86,7 @@ V [[qualitative-research|kvalitatívnej]] štúdii 12 akademikov a 17 študentov
 
 **„Akreditácia a schvaľovanie programu sa tak rýchlo nepohnú.“** Štúdia vyššie uvádza dlhé dodacie lehoty a akreditačné obmedzenia veľkých ročníkov ako ústredné trenie. Jeden kurz môže zmeniť to, čo sa deje v existujúcom hodnotení, bez zmeny jeho názvu, jeho váhy alebo výstupov učenia, a to zvyčajne stačí na začiatok.
 
-**„Toto znevýhodňuje úzkostlivých študentov a študentov so zdravotným postihnutím.“** Môže. Živé ústne zložky potrebujú úpravy podmienok naplánované vopred, výber formátu tam, kde to konštrukt dovoľuje, a pozornosť voči jazykovej odlišnosti a skresleniu hodnotiteľa. Overujte schopnosť, nie podmienky výkonu.
+**„Toto znevýhodňuje úzkostlivých študentov a [[inclusive-learning|študentov so zdravotným postihnutím]].“** Môže. Živé ústne zložky potrebujú úpravy podmienok naplánované vopred, výber formátu tam, kde to konštrukt dovoľuje, a pozornosť voči jazykovej odlišnosti a skresleniu hodnotiteľa. Overujte schopnosť, nie podmienky výkonu.
 
 **„Mali by sme si jednoducho kúpiť detektor.“** Výsledok o rozlišovacej schopnosti hovorí proti tomu, aby bol chrbtovou kosťou dizajnu: ak falošné pozitíva rastú rýchlejšie než skutočné, silnejšie monitorovanie robí zatajovanie relatívne atraktívnejším. Detekcia môže mať miesto v odpovedi, ktorá zároveň prestavuje úlohu, a [[should-we-use-ai-detectors]] pokrýva ten argument.
 

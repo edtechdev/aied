@@ -6,9 +6,9 @@ weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:27:26-05:00"
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,7 @@ Syntéza [[reducing-ai-misuse|znižovania zneužívania AI]] zaraďuje redizajn 
 
 Začnite označením. [[ai-assessment-scale-reform|Škála hodnotenia AI (AIAS)]] priraďuje každému zadaniu úroveň používania AI, od „žiadna AI“ cez „AI len na brainstorming“ a „AI ako pomoc so zverejnením“ až po „plné používanie AI“, takže očakávanie je výslovné a vymáhateľné, nie domýšľané.
 
-Potom zmeňte artefakt. [[meta-analysis-systematic-review|Systematická rešerš]] 72 štúdií o generatívnej AI vo [[cs-education|vzdelávaní v informatike]] hodnotí redizajn ako uskutočniteľný a zároveň s najväčšou pákou a vyzdvihuje jeden krok: pridať ústny alebo inak procesne viditeľný prvok aspoň do jedného hodnotenia s vysokou váhou v každom predmete. Nazýva to jedinou najúčinnejšou intervenciou v korpuse. Detekcia je najtenšou oblasťou, ktorú rešerš pokrýva, len s 3 štúdiami, oproti 60 až 80 % študentov informatiky, ktorí hlásia používanie generatívnej AI pri štúdiu, zvyčajne bez výslovného súhlasu vyučujúceho, a 70 % jednej národnej vzorky učiteľov, ktorí výslovne žiadajú školenie o dizajne hodnotenia odolného voči AI ([[kumar-genai-computing-education-systematic-review-2026]]).
+Potom zmeňte artefakt. [[meta-analysis-systematic-review|Systematická rešerš]] 72 štúdií o generatívnej AI vo [[cs-education|vzdelávaní v informatike]] hodnotí redizajn ako uskutočniteľný a zároveň s najväčšou pákou a vyzdvihuje jeden krok: pridať ústny alebo inak procesne viditeľný prvok aspoň do jedného hodnotenia s vysokou váhou v každom predmete. Nazýva to jedinou najúčinnejšou intervenciou v rešerši. Detekcia je najtenšou oblasťou, ktorú rešerš pokrýva, len s 3 štúdiami, oproti 60 až 80 % študentov informatiky, ktorí hlásia používanie generatívnej AI pri štúdiu, zvyčajne bez výslovného súhlasu vyučujúceho, a 70 % jednej národnej vzorky učiteľov, ktorí výslovne žiadajú školenie o dizajne hodnotenia odolného voči AI ([[kumar-genai-computing-education-systematic-review-2026|Kumar et al., 2026]]).
 
 Trojročný kurz informatiky ukazuje, ako ďaleko dokáže posunúť správanie vystužený postup zverejňovania. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil et al. (2026)]] vyžadovali samostatný koncept so štvorbodovým kontrolným zoznamom, krok, v ktorom AI vylepšuje, ale neprepisuje, formulár na zverejnenie a štruktúrovanú reflexiu, pričom chýbajúci koncept alebo formulár znamenal nulu. Miera prijatia stúpla z približne dvoch tretín študentov pri dobrovoľnej politike na 93 % v roku s vystužením; 81 % a 84 % používateľov AI uviedlo, že návrhy odmietli alebo upravili, hodnotitelia kódovali 77–81 % odovzdaní ako kritické zapojenie a používanie AI nepredpovedalo kvalitu eseje nezávisle po kontrole predchádzajúcej pisateľskej schopnosti. Je to správa o skúsenosti z jedného kurzu, nie kontrolovaný experiment, ale ukazuje, ako sa práca s integritou presúva od detekcie k podmienkam, za ktorých študenti zverejňujú a revidujú.
 

@@ -1,16 +1,17 @@
 ---
 title: "Tunawezaje Kukabiliana na Dhana Potofu za Kawaida Kuhusu AI katika Elimu?"
 created: "2026-10-13T08:35:00-04:00"
-connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
+connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]
 technology: [prompt-engineering]
 assessment: [ai-detection, assessment-validity, feedback-literacy]
 ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
+audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -22,13 +23,14 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+updated: "2026-11-15T16:26:08-05:00"
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
 Mkuu wako wa masuala ya kitaaluma anataka karatasi ya ukurasa mmoja ya "hadithi potofu za AI" kwa ajili ya mkutano wa walimu wa muhula wa masika. Au mjumbe wa bodi amesoma kwamba chatbots zinaharibu fikra mahususi na anataka msimamo ifikapo Ijumaa. Au wewe ndiye mtu anayepaswa kueleza, kwa maandishi, kwa nini idara haitazuia zana hiyo kwa urahisi tu, na umekosa njia za kusema kwamba marufuku si ufundishaji.
 
-Kila imani katika ukurasa huu inaanzia kwenye kitu ambacho mtu mwenye akili amekiona. Maandishi yenye ufasaha yanaonekana kuwa sahihi. Kazi iliyokamilika vizuri inaonekana kama kujifunza. Mwalimu wa AI anayejibu swali anahisi kama msaada, na sera iliyo na neno "imekatazwa" ndani yake inahisi kama uamuzi. Marekebisho yanayofanya kazi huanza kwa kutaja kile uchunguzi usichoweza kukuambia, kisha hukupa kipimo ambacho mtu anaweza kukitumia siku ya Jumatatu.
+Kila imani kati ya hizi inaanzia kwenye kitu ambacho mtu mwenye akili amekiona. Maandishi yenye ufasaha yanaonekana kuwa sahihi. Kazi iliyokamilika vizuri inaonekana kama kujifunza. Mwalimu wa AI anayejibu swali anahisi kama msaada, na sera iliyo na neno "imekatazwa" ndani yake inahisi kama uamuzi. Marekebisho yanayofanya kazi huanza kwa kutaja kile uchunguzi usichoweza kukuambia, kisha hukupa kipimo ambacho mtu anaweza kukitumia siku ya Jumatatu.
 
 Jibu la kumpa mwenzako, kwa pumzi moja: athari ya kiujuzi wa AI inategemea nani anaitumia, kwa kazi gani, ni fikra gani zana inazitekeleza, ni uwajibikaji upi unabaki kwa mtu, na jinsi kujifunza kunavyotathminiwa. Kujiamini, kasi, ushiriki, na kukamilisha kazi ni sifa za matumizi. Hakuna hata moja kati ya hizo ambayo ni ushahidi kwamba uwezo umebadilika.
 
@@ -46,7 +48,7 @@ Jibu la kumpa mwenzako, kwa pumzi moja: athari ya kiujuzi wa AI inategemea nani 
 
 ## Amua ni nini kinahesabika kuwa ushahidi kwamba kujifunza kulifanyika
 
-Imani tano huamua kama sehemu iliyobaki ya ukurasa huu ina maana. Kila moja inachukua ishara halisi na kuisomea hitimisho ambalo ishara hiyo haiwezi kulibeba.
+Imani tano huamua kama sehemu iliyobaki ya hoja hii ina maana. Kila moja inachukua ishara halisi na kuisomea hitimisho ambalo ishara hiyo haiwezi kulibeba.
 
 ### "Walifanya vizuri zaidi zana ikiwa imefunguliwa, kwa hiyo walijifunza zaidi."
 
@@ -261,7 +263,7 @@ Kumfedhehesha mtu huzalisha kujihami na kuficha, na ujumbe kama "ni wanafunzi wa
 
 Mbinu ni fupi vya kutosha kutumika katika mkutano wa walimu. Taja imani, sema kwa nini inaonekana kuwa kweli, ikatae kwa uwazi, eleza kushindwa kwake, toa muundo bora, na mpe mtu matumizi.
 
-Toleo lililofanyiwa kazi, ambalo unaweza kulibadilisha kwa kipengele chochote katika ukurasa huu:
+Toleo lililofanyiwa kazi, ambalo unaweza kulibadilisha kwa dhana potofu yoyote katika orodha:
 
 > **Dhana potofu:** "Kazi nzuri iliyozalishwa na AI inaonyesha kwamba mwanafunzi alijifunza."
 > **Ukanushaji:** "Hilo si kweli kwa lazima. Bidhaa inaonyesha kile mwanafunzi na AI walikizalisha kwa pamoja, lakini haifichui ni hoja zipi mwanafunzi alizifanya mwenyewe."
@@ -316,6 +318,6 @@ Uingiliaji huo hutokea ndani ya taaluma, katika hatua ambayo zana inafanya mazoe
 
 ## Wapi kwenda baadaye
 
-[[misconceptions|Dhana Potofu kuhusu AI]] ni muhtasari ulio nyuma ya ukurasa huu, na [[refutation-text|Maandiko ya Kukanusha]] ni mbinu ya kuitumia mbele ya chumba. [[reduce-ai-cheating|Tunawezaje Kupunguza Udanganyifu wa AI?]] inashughulikia maamuzi ya uadilifu, [[redesign-assessment-ai-era|Tathmini Inapaswa Kubuniwa Upya Vipi kwa Enzi ya AI?]] inashughulikia kile alama inaweza kuunga mkono, na [[ai-ed-evaluation|Tathmini ya AI katika Elimu]] ni mwongozo wa kuhukumu jaribio la awali au jukwaa. Upande wa ufundishaji, [[teacher-ai-competency|Umahiri wa AI wa Mwalimu]] na [[ai-literacy|Elimu ya AI]] zinashughulikia kile watu walio chumbani wanahitaji kuweza kufanya.
+[[misconceptions|Dhana Potofu kuhusu AI]] ni muhtasari ulio nyuma ya marekebisho haya, na [[refutation-text|Maandiko ya Kukanusha]] ni mbinu ya kuitumia mbele ya chumba. [[reduce-ai-cheating|Tunawezaje Kupunguza Udanganyifu wa AI?]] inashughulikia maamuzi ya uadilifu, [[redesign-assessment-ai-era|Tathmini Inapaswa Kubuniwa Upya Vipi kwa Enzi ya AI?]] inashughulikia kile alama inaweza kuunga mkono, na [[ai-ed-evaluation|Tathmini ya AI katika Elimu]] ni mwongozo wa kuhukumu jaribio la awali au jukwaa. Upande wa ufundishaji, [[teacher-ai-competency|Umahiri wa AI wa Mwalimu]] na [[ai-literacy|Elimu ya AI]] zinashughulikia kile watu walio chumbani wanahitaji kuweza kufanya.
 
 Wazo la kuhifadhi, katika umbo ambalo unaweza kulisema kwa sauti: AI ni rasilimali ya kiakili inayoweza kukosea, si mamlaka, si akili, na si ushahidi kwamba kujifunza kulifanyika. Matumizi yenye uwajibikaji humweka mtu kuwajibika, huhifadhi fikra ambazo kujifunza kunahitaji, huhakiki kile chenye maana, na huhukumu mafanikio kwa uwezo wa kudumu na wa usawa badala ya ufasaha, kasi, ushiriki, au kazi iliyokamilika.

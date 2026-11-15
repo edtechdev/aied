@@ -14,7 +14,7 @@ methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
 contributors: [editor]
 translation_of: faqs/making-simulated-students-behave-like-learners
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -29,6 +29,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+updated: "2026-11-15T16:26:08-05:00"
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -51,11 +52,11 @@ Kabla ya onyesho linalofuata, unahitaji hili kwa uwazi: kumwamuru modeli kucheza
 
 ## Amua ni swali gani kiiga kinajibu
 
-Kazi tatu zinakusanywa pamoja chini ya "mwanafunzi aliyeigwa," na zinahitaji mashine tofauti. Kufanya mazoezi ya mwalimu au mkufunzi kunahitaji mwenza anayejifanya kwa njia ya kusadikika chini ya shinikizo. Kukagua jinsi AI inavyowatendea wasifu tofauti wa wanafunzi kunahitaji ufuniko wa wasifu unaojali. Kutabiri matokeo kwa kozi kunahitaji mgawanyo wa wanafunzi badala ya mtu mmoja anayesadikika. Kiiga kilichojengwa kwa kazi ya kwanza kitakukatisha tamaa kwenye ya tatu, na ushahidi hapa chini unaendelea kuzitenganisha.
+Kazi tatu zinakusanywa pamoja chini ya "mwanafunzi aliyeigwa," na zinahitaji mashine tofauti. Kufanya mazoezi ya [[teacher-role|mwalimu]] au mkufunzi kunahitaji mwenza anayejifanya kwa njia ya kusadikika chini ya shinikizo. Kukagua jinsi AI inavyowatendea wasifu tofauti wa wanafunzi kunahitaji ufuniko wa wasifu unaojali. Kutabiri matokeo kwa kozi kunahitaji mgawanyo wa wanafunzi badala ya mtu mmoja anayesadikika. Kiiga kilichojengwa kwa kazi ya kwanza kitakukatisha tamaa kwenye ya tatu, na ushahidi hapa chini unaendelea kuzitenganisha.
 
 ## Taja wanafunzi ambao huwashughulikii
 
-Ugunduzi wenye manufaa zaidi kwa yeyote anayekaribia kumwamini kiiga unahusu ufuniko. Walimu kumi na wawili waliokufunza wanafunzi wa LLM waliripoti lugha ngumu kupita kiasi, hisia zinazokosekana, usikivu usio wa kawaida, na miruko ya maarifa isiyoelezwa, na simulizi ziliwakilisha roboduara moja tu kati ya nne za tabia halisi za wanafunzi ([[llm-student-simulation-teacher-insights|Martynova na wenzake, 2026]]). Roboduara waliyoifunika ilikuwa rahisi zaidi kuiga.
+Ugunduzi wenye manufaa zaidi kwa yeyote anayekaribia kumwamini kiiga unahusu ufuniko. Walimu kumi na wawili waliokufunza wanafunzi wa [[llm|LLM]] waliripoti lugha ngumu kupita kiasi, hisia zinazokosekana, usikivu usio wa kawaida, na miruko ya maarifa isiyoelezwa, na [[simulation|uigaji]] uliwakilisha roboduara moja tu kati ya nne za tabia halisi za wanafunzi ([[llm-student-simulation-teacher-insights|Martynova na wenzake, 2026]]). Roboduara waliyoifunika ilikuwa rahisi zaidi kuiga.
 
 Hilo ni muhimu kwa sababu karibu hakuna anayehakiki. Ni 3% tu ya masudio yanayoiga wanafunzi huhakiki kiiga chao baada ya matumizi. Ukijenga kimoja na kuruka uhakiki, uko katika walio wengi kupita kiasi, na pia wewe ndiye sababu takwimu hiyo inabaki ya kunukuliwa.
 
@@ -71,13 +72,13 @@ Mambo mawili kutoka utafiti huo. Uchaguzi wa modeli si wa kipimo kimoja, kwa kuw
 
 Ikiwa modeli inajua mengi mno, unaweza kutaja hali inayopaswa kuwa nayo au kuondoa maarifa ambayo haipaswi kuwa nayo.
 
-**Weka sharti la hali ya maarifa.** Mfumo usiohitaji mafunzo hujenga mfano wa kiakili wa kila mwanafunzi kutoka [[knowledge-graph|grafu ya maarifa]] na hupima watahiniwa wa utafutaji wa miale dhidi yake, ukiripoti uboreshaji wa 100% katika usahihi wa uigaji ([[simulating-students-diverse-cognitive-levels-2025|Wu na wenzake, 2025]]). Ubora wake hupanda pamoja na kiwango cha kiakili cha mwanafunzi, kwa hiyo wanafunzi hafifu hubaki kesi ngumu zaidi, jambo lisilo la bahati ikizingatiwa kwamba kwa kawaida ndio lengo. Kuweka mienendo ya kiakili badala ya nafsi isiyobadilika kunakwenda mbali zaidi: masasisho ya hali ya CogEvolution yenye msingi wa ICAP yalifikia R²LC = 0.92 pale mawakala wasiobadilika wanafikia 0.45, na yalishuka hadi 0.58 bila moduli yake ya ICAP ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang na wenzake, 2026]]).
+**Weka sharti la hali ya maarifa.** Mfumo usiohitaji mafunzo hujenga mfano wa kiakili wa kila mwanafunzi kutoka [[knowledge-graph|grafu ya maarifa]] na hupima watahiniwa wa utafutaji wa miale dhidi yake, ukiripoti uboreshaji wa 100% katika usahihi wa uigaji ([[simulating-students-diverse-cognitive-levels-2025|Wu na wenzake, 2025]]). Ubora wake hupanda pamoja na kiwango cha kiakili cha mwanafunzi, kwa hiyo wanafunzi hafifu hubaki kesi ngumu zaidi, jambo lisilo la bahati ikizingatiwa kwamba kwa kawaida ndio lengo. Kuweka mienendo ya kiakili badala ya nafsi isiyobadilika kunakwenda mbali zaidi: masasisho ya hali ya CogEvolution yenye msingi wa [[icap-framework|ICAP]] yalifikia R²LC = 0.92 pale mawakala wasiobadilika wanafikia 0.45, na yalishuka hadi 0.58 bila moduli yake ya ICAP ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang na wenzake, 2026]]).
 
 **Ondoa maarifa.** Kuzuia vipengele 16 vya maarifa vilivyolengwa katika Mistral-7B kulishusha usahihi kutoka takriban 0.75 kwa uwiano wa kusahau wa 10% hadi chini ya 0.5 kwa 40%, huku modeli ya msingi ikibaki karibu na 0.85. Maarifa yaliyozuiwa yalithibitika kuweza kurejeshwa kupitia kujifunza upya kusimamiwa na mazungumzo yaliyoongozwa na mkufunzi ([[simulating-novice-students-machine-unlearning-2026|Song, Guo na Lin, 2026]]). Hii ni kitu kilicho karibu zaidi na kutengeneza mwanzo kabisa, na uwezo wa kurejeshwa unakuwa sifa ikiwa unataka kiiga kijifunze wakati wa kikao.
 
 ## Andika mfuatano wa zamu, si nafsi
 
-Utulivu wa nafsi unageuka kuwa tatizo la ubunifu wa mwingiliano badala ya uchaguzi wa modeli. Kuvuka LLM tano kwa miundo mitatu ya ilani na nafsi nne za ukali wa ADHD, mwingiliano ulioandikwa wenye kushikamana na kazi uliondoa kupotoka kwa tabia kulikopimwa na mwangalizi, kwa hadi 97% dhidi ya mazungumzo yasiyoandikwa. Bila maelekezo ya wazi ya nafsi, uwakilishi wa msingi wa mwanafunzi ulielekea kwenye dalili kubwa za ADHD ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase na Leins, 2026]]).
+Utulivu wa nafsi unageuka kuwa tatizo la ubunifu wa mwingiliano badala ya uchaguzi wa modeli. Kuvuka LLM tano kwa miundo mitatu ya ilani na nafsi nne za ukali wa [[neurodiversity|ADHD]], mwingiliano ulioandikwa wenye kushikamana na kazi uliondoa kupotoka kwa tabia kulikopimwa na mwangalizi, kwa hadi 97% dhidi ya mazungumzo yasiyoandikwa. Bila maelekezo ya wazi ya nafsi, uwakilishi wa msingi wa mwanafunzi ulielekea kwenye dalili kubwa za ADHD ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase na Leins, 2026]]).
 
 Ikiwa kiiga chako kinapotoka, angalia unachokiomba kifanye zamu kwa zamu kabla ya kubadilisha modeli au kuandika upya maelezo ya mwanafunzi.
 
@@ -93,9 +94,9 @@ Uaminifu wa kiwango cha hatua una kikomo chake. Viiga vya wanafunzi huiga vitend
 
 Ulinganisho mawili unaonyesha uhakiki unagharimu nini.
 
-Kupima mbinu tisa za uigaji dhidi ya vipimo saba vya msingi wa rejea kwenye mazungumzo 382 yaliyotengwa kutoka mkusanyiko mkubwa zaidi wa umma wa mazungumzo halisi ya hisabati kati ya wanafunzi na wakufunzi, ilani ilibaki nyuma ya urekebishaji kwenye vitendo vya mazungumzo (0.4998 dhidi ya 0.6840), ROUGE-L (0.1648 dhidi ya 0.3212), na ufanano wa kosini (0.5460 dhidi ya 0.7390). Mbinu bora iliyojaribiwa, uboreshaji wa mapendeleo kwenye modeli ya 8B, ilishinda urekebishaji uliosimamiwa kwa kiasi kidogo tu na ilikuwa mbaya zaidi kwenye makosa, na tathmini ya binadamu ya wakufunzi watatu ilirudia mpangilio huo ([[simulated-students-tutoring-dialogues-2026|Scarlatos na wenzake, 2026]]). Kilele cha ngazi hii kinakaa karibu na katikati, kwa hiyo msingi unaoripoti ndio unaamua jinsi namba yako mwenyewe inavyoonekana ya kuvutia.
+Kupima mbinu tisa za uigaji dhidi ya vipimo saba vya msingi wa rejea kwenye mazungumzo 382 yaliyotengwa kutoka mkusanyiko mkubwa zaidi wa umma wa mazungumzo halisi ya hisabati kati ya wanafunzi na wakufunzi, ilani ilibaki nyuma ya [[llm-training-and-fine-tuning|urekebishaji]] kwenye vitendo vya mazungumzo (0.4998 dhidi ya 0.6840), ROUGE-L (0.1648 dhidi ya 0.3212), na ufanano wa kosini (0.5460 dhidi ya 0.7390). Mbinu bora iliyojaribiwa, uboreshaji wa mapendeleo kwenye modeli ya 8B, ilishinda urekebishaji uliosimamiwa kwa kiasi kidogo tu na ilikuwa mbaya zaidi kwenye makosa, na tathmini ya binadamu ya wakufunzi watatu ilirudia mpangilio huo ([[simulated-students-tutoring-dialogues-2026|Scarlatos na wenzake, 2026]]). Kilele cha ngazi hii kinakaa karibu na katikati, kwa hiyo msingi unaoripoti ndio unaamua jinsi namba yako mwenyewe inavyoonekana ya kuvutia.
 
-SWIM ni ulinganisho ulio wazi zaidi wa ilani, urekebishaji na kujifunza kwa kuimarisha, kwa sababu hupima kila insha iliyozalishwa dhidi ya wasifu wa sifa unaolengwa badala ya kuihukumu kwa hisia. Ilani yenye msingi wa rubriki ilitoa udhibiti mdogo hata kwa modeli imara za kumilikiwa, ikiwa na wastani bora wa QWK ya sifa wa 0.577 (Claude Sonnet) na 0.422 (GPT-5.4), na karibu sifuri kwa modeli ya 7B iliyo wazi. Urekebishaji uliosimamiwa kwenye jozi halisi za alama na insha ulifikia 0.474 ± 0.023 kwa modeli hiyo ya 7B. GRPO yenye thawabu inayotokana na upimaji wa insha wa kiotomatiki ilifikia 0.618 ± 0.005, na faida zikidumu kwa wapimaji wawili wa kujitegemea ambao sera haikufunzwa dhidi yao ([[swim-student-writing-simulation-2026]]).
+SWIM ni ulinganisho ulio wazi zaidi wa ilani, urekebishaji na kujifunza kwa kuimarisha, kwa sababu hupima kila insha iliyozalishwa dhidi ya wasifu wa sifa unaolengwa badala ya kuihukumu kwa hisia. Ilani yenye msingi wa rubriki ilitoa udhibiti mdogo hata kwa modeli imara za kumilikiwa, ikiwa na wastani bora wa QWK ya sifa wa 0.577 (Claude Sonnet) na 0.422 (GPT-5.4), na karibu sifuri kwa modeli ya 7B iliyo wazi. Urekebishaji uliosimamiwa kwenye jozi halisi za alama na insha ulifikia 0.474 ± 0.023 kwa modeli hiyo ya 7B. GRPO yenye thawabu inayotokana na [[automated-essay-scoring|upimaji wa insha wa kiotomatiki]] ilifikia 0.618 ± 0.005, na faida zikidumu kwa wapimaji wawili wa kujitegemea ambao sera haikufunzwa dhidi yao ([[swim-student-writing-simulation-2026]]).
 
 Ilani pia ilizalisha idadi iliyoboreshwa badala ya halisi: wastani wa alama jumla iliyosanifiwa wa 0.74 dhidi ya 0.58 kwa wanafunzi halisi, na urefu wa wastani wa maneno 304 dhidi ya 167. Modeli zilizopewa mafunzo zilirejesha mgawanyo wa alama na urefu wa binadamu bila usimamizi wowote wa urefu. Jambo moja lilibaki gumu: umbo halisi la uwezo mdogo. Modeli zilizopewa mafunzo zilirejesha sarufi lakini ziliandika makosa machache mno ya tahajia na sarufi, huku ilani ikiiga udhaifu kwa uharibifu wa juu juu, tahajia mbaya zikinyunyizwa kwenye maneno yenye uwezo mwingine.
 
@@ -103,7 +104,7 @@ Uhalisia wa juu juu ni jaribio hafifu kwa pande zote mbili. Katika utafiti wa up
 
 ## Hakiki kama maelezo yangetosha
 
-Kabla ya kujenga kikundi, hakiki chaguo la bei ndogo zaidi. Kwa kutathmini uzoefu wa kujifunza mtandaoni kabla wanafunzi hawajaanza, kutabiri kuacha masomo na kukamilisha na kutoa maoni ya ubunifu, wakala mmoja wa wavuti wa "kueleza" anayepitia somo na kuzalisha maelezo mazuri ya uzoefu alishinda kuiga idadi ya wanafunzi moja kwa moja.
+Kabla ya kujenga kikundi, hakiki chaguo la bei ndogo zaidi. Kwa kutathmini uzoefu wa [[online-teaching-and-learning|kujifunza mtandaoni]] kabla wanafunzi hawajaanza, kutabiri kuacha masomo na kukamilisha na kutoa maoni ya ubunifu, wakala mmoja wa wavuti wa "kueleza" anayepitia somo na kuzalisha maelezo mazuri ya uzoefu alishinda kuiga idadi ya wanafunzi moja kwa moja.
 
 Wanafunzi walioigwa katika ulinganisho huo walionyesha wigo mdogo zaidi wa tabia kuliko wanafunzi halisi: kwa mawakala 100 kwenye masomo matano ya majaribio walirudia takriban 4% tu ya njia ambazo wanafunzi halisi walichukua, huku wakigharimu kompyuta nyingi zaidi. Mfululizo wa kueleza-kisha-kutabiri ulifikia utabiri bora wa mgawanyo wa kuacha masomo kwenye kozi kubwa ya CS1 ya kimataifa, ukiwa na wastani wa JSD wa 0.060 ([[ai-web-agents-lesson-design-2025|Wang, Mitchell na Piech, 2025]]).
 
@@ -131,7 +132,7 @@ Kuiga idadi ndio chaguo la kina. Kwa mawakala 100 uigaji ulifunika takriban 4% y
 
 **"GRPO ilishinda urekebishaji uliosimamiwa, kwa hiyo tunapaswa kufundisha kwa RL."** Ilikwenda hivyo, kwa 0.618 dhidi ya 0.474. Umbo la uwezo mdogo lilibaki gumu katika visa vyote viwili, likiwa na makosa machache mno ya tahajia na sarufi, na katika kipimo kingine uboreshaji wa mapendeleo ulishinda urekebishaji kwa kiasi kidogo tu na ukashindwa kwenye makosa. Hakiki ni sifa ipi matumizi yako yanategemea.
 
-**"Wanafunzi hafifu ni sehemu ndogo ya watumiaji wetu."** Wao ni kesi ngumu zaidi kwa kila mbinu katika ukurasa huu, na ugunduzi wa ufuniko unasema uigaji unakusanyika katika roboduara rahisi zaidi. Ikiwa kiiga chako kitatumika kufikia hitimisho kuhusu wanafunzi wanaojitahidi, pengo hilo linapaswa kuwa katika ripoti.
+**"Wanafunzi hafifu ni sehemu ndogo ya watumiaji wetu."** Wao ni kesi ngumu zaidi kwa kila mbinu katika fasihi, na ugunduzi wa ufuniko unasema uigaji unakusanyika katika roboduara rahisi zaidi. Ikiwa kiiga chako kitatumika kufikia hitimisho kuhusu wanafunzi wanaojitahidi, pengo hilo linapaswa kuwa katika ripoti.
 
 ## Cha kufanya wiki hii
 

@@ -12,7 +12,7 @@ audience: [researchers]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, benchmark, meta-analysis-systematic-review, research-methods-aied]
 translation_of: faqs/reporting-interpreting-aied-research
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+updated: "2026-11-15T16:26:08-05:00"
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -50,7 +51,7 @@ Mambo sita yaliyoachwa huamua kesi nyingi kati ya hizi: ni mfumo upi wa AI uliot
 
 Huu ndio ukaguzi ambao wasilisho nyingi hushindwa. Mfumo wa RAISE (*Reporting AI Studies in Education*, Allison 2026) ni orodha ya vitu 30 katika nyanja kumi za mada, na dai lake la utambuzi ni mahususi: wasilisho mara nyingi huacha kutaja modeli iliyotumika, jinsi ilivyowekwa, nafasi iliyocheza, na kama wahusika wa kibinadamu walibuni au kukagua matokeo yake. Wakaguzi hubaki na maswali manne yasiyojibika. AI ilikuwa ikifanya nini hasa? Ilikuwa ya lazima? Hii inaweza kurudiwa? Madai ya kujifunza yanaaminika?
 
-RAISE inaanzia kwenye uhalali wa kielimu hadi maelezo ya ngazi ya API, mwingiliano wa mwanafunzi na AI, upatikanaji na ufaafu wa kitamaduni, washiriki na mazingira, ushiriki wa binadamu, ubuni, maadili, uwazi na uwezo wa kurudiwa, hadi mapungufu. Matrix yake ya Maadili na Hatari inashughulikia hatari kwa [[agency|uwakala]] wa mwanafunzi, [[equity-in-ai-education|usawa]], [[governance|utawala]] wa data, na uwazi wa algoriti. [[tep-aied-model-reporting-2026|Hwang, Xie, Wah na Gašević (2026)]] wanatoa mbadala uliorahisishwa. TEP-AIED inakunja Uwazi, Maadili na Ufundishaji katika muundo mmoja unaotegemeana, inatoa jedwali la mwongozo linalohusishwa na sehemu saba za karatasi, na inawaomba waandishi kuongeza kifungu cha Mbinu kiitwacho "Mambo ya Kuzingatia: Uwazi, Maadili na Ufundishaji." Sababu yao ni ya vitendo: RAISE ni pana na ya mchanganuo mzito kupita kiasi kwa matumizi ya kawaida ya kiutafiti. Kufichua huku kuko chini ya [[ai-use-disclosure|kutaja matumizi ya AI]] na ndiko kunakofanya madai ya [[privacy|faragha]] na [[ethics|maadili]] yakaguliwe.
+RAISE inaanzia kwenye uhalali wa kielimu hadi maelezo ya ngazi ya API, [[student-ai-interaction|mwingiliano wa mwanafunzi na AI]], upatikanaji na ufaafu wa kitamaduni, washiriki na mazingira, ushiriki wa binadamu, ubuni, maadili, uwazi na uwezo wa kurudiwa, hadi mapungufu. Matrix yake ya Maadili na Hatari inashughulikia hatari kwa [[agency|uwakala]] wa mwanafunzi, [[equity-in-ai-education|usawa]], [[governance|utawala]] wa data, na uwazi wa algoriti. [[tep-aied-model-reporting-2026|Hwang, Xie, Wah na Gašević (2026)]] wanatoa mbadala uliorahisishwa. TEP-AIED inakunja Uwazi, Maadili na Ufundishaji katika muundo mmoja unaotegemeana, inatoa jedwali la mwongozo linalohusishwa na sehemu saba za karatasi, na inawaomba waandishi kuongeza kifungu cha Mbinu kiitwacho "Mambo ya Kuzingatia: Uwazi, Maadili na Ufundishaji." Sababu yao ni ya vitendo: RAISE ni pana na ya mchanganuo mzito kupita kiasi kwa matumizi ya kawaida ya kiutafiti. Kufichua huku kuko chini ya [[ai-use-disclosure|kutaja matumizi ya AI]] na ndiko kunakofanya madai ya [[privacy|faragha]] na [[ethics|maadili]] yakaguliwe.
 
 Uhalali wa kielimu huja kwanza katika RAISE kwa sababu AI si chombo cha kawaida. Thamani inategemea upatanishi kati ya tatizo la kujifunza, sababu ya kinadharia, na uhusiano kati ya malengo na vipimo vya tokeo. [[oneill-presumed-effective-meta-analysis-2026|O'Neill (2026)]] aligundua kwamba kati ya meta-analysis 14 zilizokaguliwa, zote isipokuwa mbili zilieleza uingiliaji kama chombo, ChatGPT au GenAI au "AI" kwa ujumla. Jina la bidhaa si [[pedagogy|ufundishaji]]. Kuchukulia kufichuliwa kwa ChatGPT kama uingiliaji mmoja wa kawaida ni sawa na kufanya meta-analysis ya athari za "karatasi."
 
@@ -84,13 +85,13 @@ Chukulia chombo kama lengo linalosogea. Mifumo ya wamiliki hubadilika bila taari
 
 ## Thibitisha hukumu za kiotomatiki
 
-[[ai-ed-evaluation|Tathmini ya AIED]] inazidi kukabidhi ukaguzi wa alama kwa modeli, jambo linalofanya utaratibu wa uthibitishaji kuwa sehemu ya tokeo badala ya kiambatisho. Maelezo ya Khan Academy kuhusu vipimo vya [[intelligent-tutoring|tutor wake wa AI]] yanaripoti kwamba ushiriki wa kiakili hukaguliwa na mhakimu wa [[llm]] aliyesawazishwa dhidi ya wataalamu wa ufundishaji wa binadamu kwa F1 0.83, na kwamba mienendo ya kipimo ilitokana na majaribio hai zaidi ya 40 katika miezi mitano badala ya tathmini ya nje ya mtandao ([[ai-tutoring-quality-k12-methodologies-2026|Udeshi et al. 2026]]). [[machines-misread-pedagogical-quality|Tseng et al. (2026)]] wanaonyesha kwamba kutokubaliana kati ya binadamu na mashine kuhusu ubora wa [[formative-assessment|swali la mtihani wa awali]] ni kwa utaratibu badala ya nasibu, na kwamba utekelezaji wa rubriki ni muhimu zaidi kuliko maelekezo yanayoanza na sababu.
+[[ai-ed-evaluation|Tathmini ya AIED]] inazidi kukabidhi ukaguzi wa alama kwa modeli, jambo linalofanya utaratibu wa uthibitishaji kuwa sehemu ya tokeo badala ya kiambatisho. Maelezo ya Khan Academy kuhusu vipimo vya [[intelligent-tutoring|tutor wake wa AI]] yanaripoti kwamba ushiriki wa kiakili hukaguliwa na mhakimu wa [[llm]] aliyesawazishwa dhidi ya wataalamu wa ufundishaji wa binadamu kwa F1 0.83, na kwamba mienendo ya kipimo ilitokana na majaribio hai zaidi ya 40 katika miezi mitano badala ya tathmini ya nje ya mtandao ([[ai-tutoring-quality-k12-methodologies-2026|Udeshi et al. 2026]]). [[machines-misread-pedagogical-quality|Tseng et al. (2026)]] wanaonyesha kwamba kutokubaliana kati ya binadamu na mashine kuhusu ubora wa [[formative-assessment|swali la mtihani wa awali]] ni kwa utaratibu badala ya nasibu, na kwamba utekelezaji wa rubriki ni muhimu zaidi kuliko [[prompt-engineering|maelekezo yanayoanza na sababu]].
 
 Makubaliano na wakaguzi wa binadamu ni kitu tofauti na ubora, na kuiripoti kama ni ubora ni lengo la mkaguzi. [[agreement-not-quality-llm-coding-verification|Liu et al. (2026)]] walimtaka mtaalamu huru ahukumu seti 855 za misimbo za jozi bila kujua chanzo. Makubaliano kati ya binadamu na LLM yalikuwa wastani wa Jaccard wa 0.30 dhidi ya 0.52 kwa makubaliano kati ya binadamu na binadamu, wakati mthibitishaji asiyekuwa na upendeleo alipendelea usimbaji wa binadamu na wa mashine kwa viwango visivyotofautika (51.5% dhidi ya 48.5%, p = 0.537). Ripoti lengo la usawazishaji, kiwango cha dhahabu, na nani aliamua kutokubaliana. Vitu hivyo vitatu ndivyo vinavyomruhusu msomaji kuamua alama ya kiotomatiki inaweza kubeba uzito kiasi gani.
 
 ## Taja gharama na matumizi yako mwenyewe
 
-Mapitio ya karatasi zote za kongamano la AIED 2025 yaligundua mtindo wa kutumia LLM bila kutaja: miradi mingi ilitumia LLM, na wachache kuliko vidole vya mkono waliripoti matumizi ya rasilimali au kiwango cha kaboni. Karatasi hiyo inatoa mbinu ya chanzo huria na zana za kupimia kwa maunzi ya ndani na ya wingu, pamoja na fomula ya kukadiria gharama ya kihesabu ya modeli za kiwango cha juu ambazo idadi ya vigezo vyake haijatajwa. Hoja yake ni kwamba kutotoripoti gharama hizi ni wasiwasi wa kimaadili wenyewe. Utawala wa data, idhini, upatikanaji na ufaafu wa kitamaduni vinafaa kuwa katika aya hiyo hiyo (vitu vya RAISE; [[universal-design-for-learning]], [[accessibility]]). [[equity-ethics-pedagogical-safety-research]] inabeba maelezo kamili zaidi.
+Mapitio ya karatasi zote za kongamano la AIED 2025 yaligundua mtindo wa kutumia LLM bila kutaja: miradi mingi ilitumia LLM, na wachache kuliko vidole vya mkono waliripoti matumizi ya rasilimali au kiwango cha kaboni. Karatasi hiyo inatoa [[open-source|mbinu ya chanzo huria]] na zana za kupimia kwa maunzi ya ndani na ya wingu, pamoja na fomula ya kukadiria gharama ya kihesabu ya modeli za kiwango cha juu ambazo idadi ya vigezo vyake haijatajwa. Hoja yake ni kwamba kutotoripoti gharama hizi ni wasiwasi wa kimaadili wenyewe. Utawala wa data, idhini, upatikanaji na ufaafu wa kitamaduni vinafaa kuwa katika aya hiyo hiyo (vitu vya RAISE; [[universal-design-for-learning]], [[accessibility]]). [[equity-ethics-pedagogical-safety-research]] inabeba maelezo kamili zaidi.
 
 Matumizi yako mwenyewe ya AI katika mchakato wa utafiti yanahitaji kutajwa huko huko. [[prisma-llm-ai-assisted-systematic-reviews-2026|Uchanganuzi wa PRISMA-LLM wa Zabaleta na Lin]] wa karatasi 888 za uendeshaji wa mapitio unaonyesha jinsi uripoti huu usivyo sawa. Tangu 2023, 38.0% ya karatasi za programu na bidhaa hazikuripoti tathmini yoyote, dhidi ya 9.3% ya karatasi za LLM. Utajiri wa wastani wa kuripoti ulikuwa 6.3 kwa karatasi za LLM na 3.3 kwa karatasi za programu na bidhaa. 84.1% ya matumizi ya LLM yalitegemea mifumo ya wamiliki au inayohifadhiwa, huku 4.9% tu ikiwa ya uzito wazi. Mfumo wao hutenganisha kutaja utekelezaji na tathmini inayozingatia matokeo katika ngazi tano za kutaja, ambayo ni kiolezo kinachoweza kutumika kueleza chombo kilifanya nini ndani ya mapitio.
 
@@ -106,7 +107,7 @@ Kuripoti matokeo ya sifuri na hasi ni nusu nyingine ya msingi wa ushahidi wa uam
 
 ## Kile watafiti hukosea kuhusu hili
 
-**"Ukubwa wa athari ni sifa ya njia ya mawasiliano."** Hakuna athari ya AI katika elimu ya kuripoti. Zote isipokuwa mbili kati ya meta-analysis zilizokaguliwa zilieleza uingiliaji kama jina la chombo, 21% tu ya ulinganisho uliokaguliwa ulikuwa na uingiliaji ulioelezwa, kikundi cha udhibiti na kipimo halali, na g = 0.7 ya pamoja ilikaa juu ya tutoring ya akili iliyojengwa kwa madhumuni hayo ikiwa 0.66. Ukubwa wa athari ni mali ya muundo, kundi la watu, na tukio la kupima.
+**"Ukubwa wa athari ni sifa ya njia ya mawasiliano."** Hakuna athari ya [[ai-education|AI katika elimu]] ya kuripoti. Zote isipokuwa mbili kati ya meta-analysis zilizokaguliwa zilieleza uingiliaji kama jina la chombo, yaani [[generative-ai|ChatGPT]] au GenAI au "AI", 21% tu ya ulinganisho uliokaguliwa ulikuwa na uingiliaji ulioelezwa, kikundi cha udhibiti na kipimo halali, na g = 0.7 ya pamoja ilikaa juu ya tutoring ya akili iliyojengwa kwa madhumuni hayo ikiwa 0.66. Ukubwa wa athari ni mali ya muundo, kundi la watu, na tukio la kupima.
 
 **"Wastani wa pamoja ndio utakachotokea kwa wanafunzi wangu."** Wastani unaeleza seti ya tafiti, na hakuna kitu ndani yake kinachobainisha darasa lolote moja. Wastani uliorekebishwa kwa upendeleo ni SMD = 0.196 na kipindi chake cha utabiri kinaenea kutoka -1.521 hadi +1.908. Utofauti ulioripotiwa uko juu ya 80% katika 13 kati ya 14 za meta-analysis, na hakuna kikundi katika mkusanyo mkubwa zaidi kilichoonyesha faida thabiti. Mabadiliko ya ngazi ya mwanafunzi hayatambuliki kutoka nambari yoyote kati ya hizi.
 
@@ -124,7 +125,7 @@ Kuripoti matokeo ya sifuri na hasi ni nusu nyingine ya msingi wa ushahidi wa uam
 
 **"Kila mtu anaripoti hivi."** Nambari zinasema desturi ndilo tatizo: 61% ya tafiti za msingi zilizokaguliwa zina wasiwasi wa uhalali, 13 kati ya 14 za meta-analysis ziko juu ya 80% ya utofauti, 38.0% ya karatasi za programu na bidhaa hazina tathmini yoyote.
 
-**"Chombo chetu ni cha wamiliki, kwa hiyo hatuwezi kuripoti modeli."** Ripoti toleo, tarehe ya kufikia, mpangilio, maelekezo uliyotoa, nafasi na mipaka ya usalama. Ikiwa muuzaji hataki kusema, kikwazo hicho kinafaa kuwa katika mapungufu kama mpaka wa dai.
+**"Chombo chetu ni cha wamiliki, kwa hiyo hatuwezi kuripoti modeli."** Ripoti toleo, tarehe ya kufikia, mpangilio, maelekezo uliyotoa, nafasi na [[guardrails|mipaka ya usalama]]. Ikiwa muuzaji hataki kusema, kikwazo hicho kinafaa kuwa katika mapungufu kama mpaka wa dai.
 
 **"Kuripoti matokeo ya sifuri kutatuumiza."** Matokeo ya sifuri yaliyofichwa ndio utaratibu ulioandikwa nyuma ya wastani wa SMD = 0.196 uliorekebishwa kwa upendeleo. Kuyachapisha ndiko kunakofanya tokeo lako chanya lisomeke.
 

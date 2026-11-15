@@ -6,9 +6,9 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-11-01T11:34:42-05:00"
+updated: "2026-11-15T16:18:29-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
 
-A modulvázlatban van egy sor, amely azt mondja: „MI-tevékenység”, és senki nem tudja megmondani, mit vált fel. Vagy egy oktató azt kérte, hogy tegyenek csevegőbotot egy már működő kurzusba, és az Ön feladata, hogy elhelyezze anélkül, hogy eltörné azt a részt, amelytől a kurzus működött.
+A modulvázlatban van egy sor, amely azt mondja: „MI-tevékenység”, és senki nem tudja megmondani, mit vált fel. Vagy egy oktató azt kérte, hogy tegyenek [[conversational-ai|csevegőbotot]] egy már működő kurzusba, és az Ön feladata, hogy elhelyezze anélkül, hogy eltörné azt a részt, amelytől a kurzus működött.
 
 A tanulási célból induljon ki, és abból a tevékenységből, amely létrehozza. Ugyanaz a modell lehet állvány, [[socratic-method|szókratészi]] partner, vázlatolvasó, [[simulation|szimuláció]] vagy válaszautomata, és hogy melyiket kapja, a tervezéstől függ, nem a modelltől. Nevezze meg a módot, amelyet épít, tegye a tanuló kísérletét bármilyen segítség elé, és tartson meg legalább egy útvonalat a kurzuson, amely eszköz nélkül fut.
 
@@ -42,7 +42,7 @@ A tanulási célból induljon ki, és abból a tevékenységből, amely létreho
 
 ## Döntse el, mit tesz a tanuló az eszköz nélkül
 
-A tudásbázis [[pedagogy|pedagógiák és tanítási stratégiák]] fogalma adja a próbát: megőrzi-e a konfiguráció azt a tevékenységet, amely a szándékolt tanulást létrehozza? Válaszoljon erre papíron, mielőtt bárki funkciót választ.
+A [[pedagogy|pedagógiák és tanítási stratégiák]] fogalma adja a próbát: megőrzi-e a konfiguráció azt a tevékenységet, amely a szándékolt tanulást létrehozza? Válaszoljon erre papíron, mielőtt bárki funkciót választ.
 
 Az [[finkelstein-principled-ai-education-2025|Elvi MI-oktatási keretrendszer]] kimondja az általános szabályt: a technológiának bővítenie kell azokat az emberi képességeket, amelyeket az oktatás fejleszteni kíván, nem kiszorítania. Modulra alkalmazott próbaként ez azt jelenti, hogy nevezze meg a képességet, nevezze meg a képességet építő tevékenységet, és kérdezze meg, hogy a MI azon a tevékenységen belül vagy mellette van-e.
 
@@ -72,7 +72,7 @@ Két tanulság következik a MI tervezésére. Oda tegye az eszközt, ahol a sor
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] az időt tervezett állványként kezeli, nem a tanuló jellemzőjeként: a saját tempójú kurzus hetente mintegy 100 percet engedélyez, napi közel 20 perces céllal, időtudatos emlékeztetőkkel, előrehaladási irányítópulttal és egy rövid, 3–12 kérdéses ellenőrzéssel az alfejezet végén. Az a kiindulási helyzet, amelyre ez a tervezés válaszol, éles: több mint 600 tanuló csaknem 25 százaléka csak az utolsó héten kezd, és a csoport 95 százaléka megbukik.
 
-Tervezési jelzésként olvassa, ne bizonyított hatásként. A tanulmány egy későbbi kurzust hasonlít egy korábbihoz ahelyett, hogy kontrollált kísérletet végezne, így a javulás nem választható el a csoport és a tantárgy változásától, és a tanulási időzítést elmozdítani képes erősségű emlékeztetők egyben [[privacy|adatvédelem]]i kérdést is jelentenek, amelyre a tantárgyi programban kell válaszolnia.
+Tervezési jelzésként olvassa, ne bizonyított hatásként. A tanulmány egy későbbi kurzust hasonlít egy korábbihoz ahelyett, hogy [[rct|kontrollált kísérletet]] végezne, így a javulás nem választható el a csoport és a tantárgy változásától, és a tanulási időzítést elmozdítani képes erősségű emlékeztetők egyben [[privacy|adatvédelem]]i kérdést is jelentenek, amelyre a tantárgyi programban kell válaszolnia.
 
 ## Döntse el, mit tart vissza, és mikor állítja vissza
 
@@ -100,7 +100,7 @@ A hatékonyság az újratervezés célja. Tanulási eredményeket és rubrikáka
 
 **„Nincs időnk egy egész kurzust átsorrendezni.”** Akkor rendezzen át egy modult és egy értékelést. A „tartózkodj, majd erősíts” fordulópont egyetlen ellenőrzőpont, az „először gondolkodj” sorrend pedig három utasítás egy segédlapon.
 
-**„A MI-funkciónk már tartalmaz korlátokat.”** A korlátok azt szabályozzák, mit mond a modell. Nem döntik el, hogy a tanuló először kísérletet tett-e, hogy elhalványul-e a támogatás, vagy hogy létezik-e MI nélküli útvonal. Ezek az Ön kurzusának tervezési döntései, nem a termék beállításai.
+**„A MI-funkciónk már tartalmaz [[guardrails|korlátokat]].”** A korlátok azt szabályozzák, mit mond a modell. Nem döntik el, hogy a tanuló először kísérletet tett-e, hogy elhalványul-e a támogatás, vagy hogy létezik-e MI nélküli útvonal. Ezek az Ön kurzusának tervezési döntései, nem a termék beállításai.
 
 ## Mit tegyen ezen a héten
 

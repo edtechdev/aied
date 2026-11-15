@@ -7,9 +7,9 @@ audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T16:03:43-04:00"
+updated: "2026-11-15T16:22:01-05:00"
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика."
 contributors: [editor]
 ai_assist:
@@ -69,7 +69,7 @@ ai_assist:
 
 Публикуваните размери на ефекта се пренасят в моя клас. 14-те метаанализа на O'Neill не можеха да подкрепят твърденията, изградени върху тях, и двата съобщени интервала на предсказване включваха нула.
 
-Аналитиката на платформата измерва качеството на преподаването. Третият по ранг агент на Zhang беше последен по експертната рубрика.
+[[learning-analytics|Аналитиката]] на платформата измерва качеството на преподаването. Третият по ранг агент на Zhang беше последен по експертната рубрика.
 
 ## Какво ще ти се върне
 

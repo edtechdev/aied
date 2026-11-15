@@ -1,9 +1,9 @@
 ---
 title: "Mitä kasvattajien pitäisi välttää tekoälyn kanssa?"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-11T06:20:00-05:00"
+updated: "2026-11-15T16:28:34-05:00"
 type: faq
-connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors]
+connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors, adopting-ai-options-and-issues]
 weight: 90
 foundations: [misconceptions, reducing-ai-misuse, ai-literacy, limitations-in-aied-research]
 pedagogy: [reflection, professional-training]
@@ -11,7 +11,7 @@ technology: [generative-ai, learning-analytics, affective-computing]
 assessment: [assessment-validity, ai-detection, self-report-measures, feedback]
 ethics: [privacy, pedagogical-safety, equity-in-ai-education, accessibility, automation-bias]
 audience: [instructors, learners, parents and families, faculty developers, software developers, administrators, researchers]
-source_updated: "2026-11-11T06:20:00-05:00"
+source_updated: "2026-11-14T04:30:00-05:00"
 translation_of: faqs/what-not-to-do-ai-education
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
@@ -24,13 +24,13 @@ ai_assist:
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
 
-Suurin osa tekoälyä koskevasta ohjauksesta koulutuksessa kertoo, mitä kannattaa kokeilla. Tämä sivu kokoaa ne käytännöt, jotka näyttö sanoo, että pitäisi lopettaa, järjestettynä sen roolin mukaan, jonka pitäisi ne lopettaa. Vääristä uskomuksista kerrotaan muualla: [[addressing-common-misconceptions-ai-education|väärinkäsitysten UKK]] käsittelee ne, ja [[misconceptions]]-käsitesivu selittää, miksi ne säilyvät. Se, mitä tutkimus ei vielä pysty kertomaan, kuuluu [[limitations-in-aied-research|AIEd-tutkimuksen rajoituksiin]]. Seuraavassa on kyse uskomuksen jälkeisestä askeleesta: mitä ihmiset tekevät, mitä se maksaa ja mitä pitäisi tehdä sen sijaan.
+Suurin osa tekoälyä koskevasta ohjauksesta koulutuksessa kertoo, mitä kannattaa kokeilla. Käytännöt, joiden näyttö sanoo, että ne pitäisi lopettaa, on järjestetty sen roolin mukaan, jonka pitäisi ne lopettaa. Vääristä uskomuksista kerrotaan muualla: [[addressing-common-misconceptions-ai-education|väärinkäsitysten UKK]] käsittelee ne, ja [[misconceptions]]-käsitesivu selittää, miksi ne säilyvät. Se, mitä tutkimus ei vielä pysty kertomaan, kuuluu [[limitations-in-aied-research|AIEd-tutkimuksen rajoituksiin]]. Seuraavassa on kyse uskomuksen jälkeisestä askeleesta: mitä ihmiset tekevät, mitä se maksaa ja mitä pitäisi tehdä sen sijaan.
 
 Kolme epäonnistumista toistuu kaikissa rooleissa.
 
-1. **Korvaaminen.** Työkalu tekee ajattelun, joka oppijan oli tarkoitus tehdä, ja tuotos pisteytetään ikään kuin oppija olisi tehnyt sen. Palautettu essee on kertomus siitä, mitä malli osaa, ei siitä, mitä opiskelija osaa.
-2. **Ansaitsematon näyttö.** Halvasti kerättävä signaali, kuten varmuus, sujuvuus, sitoutuminen tai suoritusaste, tulkitaan todisteeksi jostakin, mitä se ei voi osoittaa. Kojelauta voi raportoida neljäkymmentä minuuttia ohjaustuokiosta; se ei voi raportoida, oppiko kukaan toisen asteen yhtälön.
-3. **Rakenteen jättäminen kehotuksen varaan.** Varoituksen, toimintaperiaatteen lauseen tai koulutustilaisuuden odotetaan tekevän työn, joka kuuluu käyttöliittymän suunnittelulle, arvioinnin suunnittelulle tai hallinnolle. Opetussuunnitelma sanoo, että tekoälyä pitää käyttää vastuullisesti, ja ohjaaja antaa silti valmiin vastauksen ensimmäisellä kehotteella.
+1. **Työkalu tekee ajattelun.** Oppijan on tarkoitus selvittää jokin, ja työkalu tekee sen osan hänen sijastaan, mutta tulos arvostellaan oppijan omana. Palautettu essee näyttää, mitä malli osaa, ei sitä, mitä opiskelija osaa.
+2. **Luku, joka ei näytä oppimista.** Helposti laskettava asia, kuten varmuus, sujuvuus, sitoutuminen tai suoritusaste, tulkitaan näytöksi siitä, että oppimista tapahtui. Kojelauta voi näyttää neljäkymmentä minuuttia ohjaustuokiossa. Se ei voi näyttää, oppiko kukaan toisen asteen yhtälön.
+3. **Sääntö siinä, missä järjestelyn pitäisi tehdä työ.** Varoitukselta, opetussuunnitelman lauseelta tai koulutustilaisuudelta vaaditaan työ, jonka vain tehtävä, ohjelmisto tai käytäntö voi tehdä. Opetussuunnitelma sanoo, että tekoälyä pitää käyttää vastuullisesti, tehtävän voi silti suorittaa chatbotilla minuutissa, ja ohjaaja antaa silti valmiin vastauksen ensimmäisellä kehotteella. Ihmisten käskeminen käyttäytymään toisin ei muuta sitä, mitä tehtävä tai työkalu heille sallii.
 
 ## Lyhyt versio
 
@@ -40,15 +40,15 @@ Kolme epäonnistumista toistuu kaikissa rooleissa.
 
 **3.** Kohtele sujuvuutta, varmuutta ja sitoutumista käytön piirteinä, älä oppimisena.
 
-**4.** Laita suojatoimi työnkulkuun, älä varoitukseen.
+**4.** Laita suojatoimi tehtävään tai ohjelmistoon, älä varoitukseen.
 
-**5.** Oleta, että kaikki data, jonka työkalu voi nähdä, säilytetään, yhdistetään ja vuodetaan.
+**5.** Oleta, että kaikki, minkä työkalu voi nähdä, säilytetään, yhdistetään muuhun dataan ja lopulta vuodetaan.
 
 **6.** Jos väite tulee demon kanssa mutta ilman vertailua, se on markkinointia.
 
 ## Opettajille
 
-**Älä varmentele tuotosta kyvyksi.** Hiottu palautus on näyttöä hiotusta palautuksesta. Jos opiskelija palauttaa kirjallisuuskatsauksen, jonka lähteitä et voi verrata mihinkään kurssilla opetettuun, eikä arviointi pysty erottamaan, mitä se opiskelija osaa ilman apua, arviointi on lakannut mittaamasta sitä, mitä todistus väittää ([[assessment-validity]], [[authentic-assessment]]). Korjaus on tehtävän uudelleensuunnittelu; tiukempi kunniasääntö ei tee sitä.
+**Älä pidä hiottua palautusta näyttönä oppimisesta.** Hiottu palautus on näyttöä hiotusta palautuksesta. Jos opiskelija palauttaa kirjallisuuskatsauksen, jonka lähteitä et voi verrata mihinkään kurssilla opetettuun, eikä arviointi pysty erottamaan, mitä se opiskelija osaa ilman apua, arviointi on lakannut mittaamasta sitä, mitä todistus väittää ([[assessment-validity]], [[authentic-assessment]]). Korjaus on tehtävän uudelleensuunnittelu; tiukempi kunniasääntö ei tee sitä.
 
 **Älä käytä tunnistimen pistemäärää todisteena vilpistä.** Kontrolloidussa tutkimuksessa 642 julkaistusta abstraktista tunnistimet merkitsivät 38–80 % ohjeiden mukaisesta kevyestä tekoälymuokkauksesta ja 9–15 % muokkaamattomasta ihmisen kirjoituksesta, mutta tavoittivat alle 4 % uudelleenkirjoituksista, jotka oli ajettu ihmismäistämispalvelun läpi ([[karr-ai-detection-humanization-2026|Karr et al., 2026]]). Riippumaton vertailu osoitti, ettei yksikään 14 kaupallisesta työkalusta yltänyt 80 %:n tarkkuuteen, ja pelkkä uudelleenilmaisu puolittaa senkin ([[teichmann-detecting-undetectable-misconduct-2026|Teichmann et al., 2026]]). Realistisilla perusosuuksilla vääriä positiivisia on enemmän kuin oikeita osumia ([[should-we-use-ai-detectors]]). Tunnistin voi aloittaa keskustelun; se ei voi lopettaa sitä.
 
@@ -157,8 +157,8 @@ Mikään näistä varoituksista ei tarkoita, että työkalu olisi aina vääräs
 ## Minne seuraavaksi
 
 - [[addressing-common-misconceptions-ai-education]]: uskomukset näiden käytäntöjen takana ja miten ne korjataan alentuvuutta välttäen.
-- [[limitations-in-aied-research]]: mitä näyttöpohja ei vielä pysty tukemaan.
-- [[reducing-ai-misuse]]: rakenteelliset vipuvarret väärinkäyttöön ja miksi ne voittavat kehotuksen.
-- [[pedagogical-safety]]: mitä ohjaaja voi tehdä oppijalle läpäisten jokaisen sisältötarkistuksen.
+- [[limitations-in-aied-research|AIEd-tutkimuksen rajoitukset]]: mitä näyttöpohja ei vielä pysty tukemaan.
+- [[reducing-ai-misuse|Tekoälyn väärinkäytön vähentäminen]]: tehtävän ja ohjelmiston muutokset, jotka estävät väärinkäytön, ja miksi ne toimivat paremmin kuin muistutukset.
+- [[pedagogical-safety|Pedagoginen turvallisuus]]: mitä ohjaaja voi tehdä oppijalle läpäisten jokaisen sisältötarkistuksen.
 - [[should-we-use-ai-detectors]]: tunnistinnäyttö kokonaisuudessaan.
 - [[checking-whether-educational-ai-works]]: miten väite arvioidaan ennen sen omaksumista.

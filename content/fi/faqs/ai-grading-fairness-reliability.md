@@ -1,7 +1,7 @@
 ---
 title: "Voinko käyttää tekoälyä opiskelijoiden töiden arviointiin oikeudenmukaisesti ja luotettavasti?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:29:00-05:00"
 type: faq
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
@@ -46,11 +46,11 @@ Lyhyt vastaus kollegalle: tekoälyarviointi ansaitsee paikkansa valvottuna avust
 
 Kolmea järjestelyä kutsutaan ”tekoälyarvioinniksi”, ja niihin liittyy erilaiset velvoitteet.
 
-**Palauteavustaja** luonnostelee kommentteja tai merkitsee mahdollisia puutteita, jotka hyväksyt, kirjoitat uudelleen tai hylkäät. Riski rajoittuu kommenttien laatuun, ja luet kaiken ennen kuin se päätyy opiskelijalle. **Toinen lukija** ehdottaa kriteerikohtaisia pisteitä tai merkitsee erimielisyyksiä jäsentääkseen omaa arviointiasi. Sen virheiden on oltava hyödyllisiä eikä vain vääriä: merkintä, joka palauttaa sinut palautukseen, jonka olisit muuten arvioinut huolimattomasti, on hyödyllinen. **Ensisijainen pisteyttäjä** tuottaa pisteet, joista tulee kirjattuja arvosanoja. Juuri tätä järjestelyä tämän tietopohjan näyttö ei tue muualla kuin kapeissa, paikallisesti validoiduissa tapauksissa.
+**Palauteavustaja** luonnostelee kommentteja tai merkitsee mahdollisia puutteita, jotka hyväksyt, kirjoitat uudelleen tai hylkäät. Riski rajoittuu kommenttien laatuun, ja luet kaiken ennen kuin se päätyy opiskelijalle. **Toinen lukija** ehdottaa kriteerikohtaisia pisteitä tai merkitsee erimielisyyksiä jäsentääkseen omaa arviointiasi. Sen virheiden on oltava hyödyllisiä eikä vain vääriä: merkintä, joka palauttaa sinut palautukseen, jonka olisit muuten arvioinut huolimattomasti, on hyödyllinen. **Ensisijainen pisteyttäjä** tuottaa pisteet, joista tulee kirjattuja arvosanoja. Juuri tätä järjestelyä näyttö ei tue muualla kuin kapeissa, paikallisesti validoiduissa tapauksissa.
 
 Valitse alin porras, joka vastaa todelliseen rajoitteeseesi. Jos arviointikuormasi syntyy kiinteän vastausavaimen tarkistamisesta, tavallinen deterministinen pisteytys on läpinäkyvämpi ja auditoitavampi kuin [[llm|kielimalli]], ja farmasiatutkimus viittaa siihen, että LLM:n etu objektiivisissa tehtävissä oli osittain seurausta siitä, että sille annettiin oikeat vastaukset arvioinnin aikana. Säästä malli työhön, joka vaatii tulkintaa, ja tarkista sitten se tulkinta.
 
-[[automated-assessment|Automaattinen arviointi]] kattaa laajemman koneiston: pisteytyksen, moderoinnin ja palautteen tuottamisen. Tämä sivu on sen alla oleva harkintakysymys.
+[[automated-assessment|Automaattinen arviointi]] kattaa laajemman koneiston: pisteytyksen, moderoinnin ja palautteen tuottamisen. Harkintakysymys sen alla on, onko mikään tuosta koneistosta tarpeeksi oikeudenmukainen ja luotettava kirjaamaan arvosanan.
 
 ## Mitä näyttö oikeastaan osoittaa
 

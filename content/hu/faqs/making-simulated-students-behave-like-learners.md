@@ -12,9 +12,9 @@ level: [higher ed, k 12]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
-updated: "2026-10-29T14:37:59-04:00"
+updated: "2026-11-15T16:22:38-05:00"
 translation_of: faqs/making-simulated-students-behave-like-learners
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -44,11 +44,11 @@ A következő bemutató előtt ennyit kell tisztán látnia: ha egy modellt arra
 
 ## Döntse el, melyik kérdésre válaszol a szimulátor
 
-Három feladat olvad össze a „szimulált diák” címke alatt, és ezek különböző gépezetet igényelnek. Egy tanár vagy tutor gyakoroltatásához olyan partner kell, amely nyomás alatt hihetően viselkedik. Annak auditálásához, hogyan bánik egy MI a különböző tanulói profilokkal, az Önt érdeklő profilok lefedettsége kell. Egy kurzus kimeneteinek előrejelzéséhez tanulók eloszlása kell, nem egyetlen meggyőző egyén. Az első feladatra épített szimulátor a harmadikban fog csalódást okozni, és az alábbi bizonyítékok folyamatosan szétválasztják őket.
+Három feladat olvad össze a „szimulált diák” címke alatt, és ezek különböző gépezetet igényelnek. Egy [[teacher-role|tanár]] vagy tutor gyakoroltatásához olyan partner kell, amely nyomás alatt hihetően viselkedik. Annak auditálásához, hogyan bánik egy MI a különböző tanulói profilokkal, az Önt érdeklő profilok lefedettsége kell. Egy kurzus kimeneteinek előrejelzéséhez tanulók eloszlása kell, nem egyetlen meggyőző egyén. Az első feladatra épített szimulátor a harmadikban fog csalódást okozni, és az alábbi bizonyítékok folyamatosan szétválasztják őket.
 
 ## Nevezze meg a tanulókat, akiket nem fed le
 
-A leghasznosabb megállapítás annak, aki éppen megbízni készül egy szimulátorban, a lefedettségről szól. Tizenkét tanár, aki LLM-diákokat tutorált, túl bonyolult nyelvet, hiányzó érzelmeket, természetellenes figyelmet és megmagyarázatlan tudásugrásokat jelentett, a szimulációk pedig a valódi diákviselkedés négy negyedéből csak egyet képviseltek ([[llm-student-simulation-teacher-insights|Martynova és mtsai, 2026]]). Az a negyed, amelyet lefedtek, a legkönnyebben szimulálható volt.
+A leghasznosabb megállapítás annak, aki éppen megbízni készül egy szimulátorban, a lefedettségről szól. Tizenkét tanár, aki [[llm|LLM]]-diákokat tutorált, túl bonyolult nyelvet, hiányzó érzelmeket, természetellenes figyelmet és megmagyarázatlan tudásugrásokat jelentett, a [[simulation|szimulációk]] pedig a valódi diákviselkedés négy negyedéből csak egyet képviseltek ([[llm-student-simulation-teacher-insights|Martynova és mtsai, 2026]]). Az a negyed, amelyet lefedtek, a legkönnyebben szimulálható volt.
 
 Ez azért számít, mert szinte senki nem ellenőrzi. A tanulókat szimuláló tanulmányoknak csak 3%-a validálja a szimulátorát használat után. Ha Ön épít egyet, és kihagyja a validálást, a túlnyomó többségben van, és egyben az oka annak, hogy ez a statisztika idézhető marad.
 
@@ -64,13 +64,13 @@ Két megjegyzés ehhez a vizsgálathoz. A modellválasztás nem egydimenziós, m
 
 Ha a modell túl sokat tud, megnevezheti azt az állapotot, amelyben lennie kellene, vagy kivonhatja belőle a tudást, amelynek nem kellene benne lennie.
 
-**Képezze le egy episztemikus állapotra.** Egy tanítás nélküli keretrendszer minden diák kognitív prototípusát egy [[knowledge-graph|tudásgráf]] alapján építi fel, és a beam-keresés jelöltjeit ehhez pontozza, a szimulációs pontosság 100%-os javulásáról számolva be ([[simulating-students-diverse-cognitive-levels-2025|Wu és mtsai, 2025]]). A minősége a diák kognitív szintjével emelkedik, így a gyengébb tanulók maradnak a nehezebb eset, ami sajnálatos, tekintve, hogy rendszerint éppen ők a lényeg. A kognitív dinamika modellezése statikus személyiség helyett tovább megy: a CogEvolution ICAP-alapú állapotfrissítései R²LC = 0,92-t értek el ott, ahol a statikus ágensek 0,45-öt, és 0,58-ra estek vissza az ICAP-modulja nélkül ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang és mtsai, 2026]]).
+**Képezze le egy episztemikus állapotra.** Egy tanítás nélküli keretrendszer minden diák kognitív prototípusát egy [[knowledge-graph|tudásgráf]] alapján építi fel, és a beam-keresés jelöltjeit ehhez pontozza, a szimulációs pontosság 100%-os javulásáról számolva be ([[simulating-students-diverse-cognitive-levels-2025|Wu és mtsai, 2025]]). A minősége a diák kognitív szintjével emelkedik, így a gyengébb tanulók maradnak a nehezebb eset, ami sajnálatos, tekintve, hogy rendszerint éppen ők a lényeg. A kognitív dinamika modellezése statikus személyiség helyett tovább megy: a CogEvolution [[icap-framework|ICAP]]-alapú állapotfrissítései R²LC = 0,92-t értek el ott, ahol a statikus ágensek 0,45-öt, és 0,58-ra estek vissza az ICAP-modulja nélkül ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang és mtsai, 2026]]).
 
 **Vegye el a tudást.** 16 célzott tudáskomponens elnyomása a Mistral-7B-ben körülbelül 0,75-ről 0,5 alá vitte a pontosságot 10%-os felejtési aránynál 40%-ra váltva, miközben az alapmodell 0,85 közelében maradt. Az elnyomott tudás felügyelt újratanulással és coach által vezetett párbeszéddel visszanyerhetőnek bizonyult ([[simulating-novice-students-machine-unlearning-2026|Song, Guo és Lin, 2026]]). Ez áll a legközelebb ahhoz, hogy közvetlenül újoncot gyártsunk, és a visszanyerhetőség előnnyé válik, ha azt akarja, hogy a szimulátor egy foglalkozás alatt tanuljon.
 
 ## A fordulókat írja meg, ne a személyiséget
 
-A személyiség stabilitása interakciótervezési probléma, nem modellválasztási kérdés. Öt LLM-et keresztezve három prompttervvel és négy ADHD-intenzitású személyiséggel, a forgatókönyv szerinti, feladathoz horgonyzott interakciók megszüntették a megfigyelő által értékelt viselkedési sodródást, akár 97%-kal a forgatókönyv nélküli párbeszédhez képest. Kifejezett személyiségutasítások nélkül az alap diákreprezentáció az erős ADHD-tünetek felé torzult ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase és Leins, 2026]]).
+A személyiség stabilitása interakciótervezési probléma, nem modellválasztási kérdés. Öt LLM-et keresztezve három prompttervvel és négy [[neurodiversity|ADHD]]-intenzitású személyiséggel, a forgatókönyv szerinti, feladathoz horgonyzott interakciók megszüntették a megfigyelő által értékelt viselkedési sodródást, akár 97%-kal a forgatókönyv nélküli párbeszédhez képest. Kifejezett személyiségutasítások nélkül az alap diákreprezentáció az erős ADHD-tünetek felé torzult ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase és Leins, 2026]]).
 
 Ha a szimulátora sodródik, nézze meg, mit kér tőle fordulóról fordulóra, mielőtt modellt vált vagy újraírja a diák leírását.
 
@@ -86,9 +86,9 @@ A cselekvésszintű hűségnek megvan a maga korlátja. A diákot szimuláló re
 
 Két összehasonlítás megmutatja, mibe kerül a validálás.
 
-Kilenc szimulációs módszert mérve hét referenciaalapú metrikán 382 held-out párbeszéden a valódi diák-tutor matematikai párbeszédek legnagyobb nyilvános korpuszából, a promptolás elmaradt a finomhangolás mögött a dialógusaktusokban (0,4998 szemben 0,6840), a ROUGE-L-ben (0,1648 szemben 0,3212) és a koszinusz-hasonlóságban (0,5460 szemben 0,7390). A tesztelt legjobb módszer, a preferenciaoptimalizálás egy 8B modellen, csak marginálisan múlta felül a felügyelt finomhangolást, és rosszabb volt a hibáknál, háromtutoros emberi értékelés pedig ugyanezt a rangsort hozta ([[simulated-students-tutoring-dialogues-2026|Scarlatos és mtsai, 2026]]). A létra teteje közel van a középhez, tehát az, hogy milyen alapvonalat jelent, eldönti, mennyire tűnik meggyőzőnek a saját száma.
+Kilenc szimulációs módszert mérve hét referenciaalapú metrikán 382 held-out párbeszéden a valódi diák-tutor matematikai párbeszédek legnagyobb nyilvános gyűjteményéből, a promptolás elmaradt a [[llm-training-and-fine-tuning|finomhangolás]] mögött a dialógusaktusokban (0,4998 szemben 0,6840), a ROUGE-L-ben (0,1648 szemben 0,3212) és a koszinusz-hasonlóságban (0,5460 szemben 0,7390). A tesztelt legjobb módszer, a preferenciaoptimalizálás egy 8B modellen, csak marginálisan múlta felül a felügyelt finomhangolást, és rosszabb volt a hibáknál, háromtutoros emberi értékelés pedig ugyanezt a rangsort hozta ([[simulated-students-tutoring-dialogues-2026|Scarlatos és mtsai, 2026]]). A létra teteje közel van a középhez, tehát az, hogy milyen alapvonalat jelent, eldönti, mennyire tűnik meggyőzőnek a saját száma.
 
-A SWIM a legvilágosabb összehasonlítás a promptolás, a finomhangolás és a megerősítéses tanulás között, mert minden generált esszét egy céljellemző-profilhoz mér, nem benyomásszerűen ítéli meg. A rubrikára épülő promptolás korlátozott kontrollt adott még az erős, zárt modelleknél is, a legjobb átlagos jellemző-QWK 0,577 (Claude Sonnet) és 0,422 (GPT-5.4) volt, egy nyílt 7B modellnél pedig közel nulla. A valódi pontszám-esszé párokon végzett felügyelt finomhangolás 0,474 ± 0,023-at ért el annál a 7B modellnél. Az automatikus esszéértékelésből származtatott jutalommal dolgozó GRPO 0,618 ± 0,005-öt ért el, a nyereség pedig megmaradt két független pontozónál, amelyekre a politika soha nem tanult ([[swim-student-writing-simulation-2026|SWIM]]).
+A SWIM a legvilágosabb összehasonlítás a promptolás, a finomhangolás és a megerősítéses tanulás között, mert minden generált esszét egy céljellemző-profilhoz mér, nem benyomásszerűen ítéli meg. A rubrikára épülő promptolás korlátozott kontrollt adott még az erős, zárt modelleknél is, a legjobb átlagos jellemző-QWK 0,577 (Claude Sonnet) és 0,422 (GPT-5.4) volt, egy nyílt 7B modellnél pedig közel nulla. A valódi pontszám-esszé párokon végzett felügyelt finomhangolás 0,474 ± 0,023-at ért el annál a 7B modellnél. Az [[automated-essay-scoring|automatikus esszéértékelésből]] származtatott jutalommal dolgozó GRPO 0,618 ± 0,005-öt ért el, a nyereség pedig megmaradt két független pontozónál, amelyekre a politika soha nem tanult ([[swim-student-writing-simulation-2026|SWIM]]).
 
 A promptolás idealizált populációt is termelt a valószerű helyett: az átlagos normalizált összpontszám 0,74 volt a valódi diákok 0,58-ával szemben, a medián hossz pedig 304 szó a 167-tel szemben. A tanított modellek visszaadták az emberi pontszám- és hosszeloszlást bármilyen hosszfelügyelet nélkül. Egy dolog nehéz maradt: a hiteles, alacsony jártasságú forma. A tanított modellek visszaadták a szintaxist, de túl kevés helyesírási és nyelvtani hibát írtak, míg a promptolás felületi rontással szimulálta a gyengeséget, helyesírási hibákat permetezve egyébként kompetens prózára.
 
@@ -96,7 +96,7 @@ A felületi realizmus gyenge teszt mindkét irányban. Egy vak vizsgálatban a s
 
 ## Ellenőrizze, hogy nem elég-e egy leírás
 
-Mielőtt kohorszot épít, ellenőrizze az olcsóbb lehetőséget. Egy online tanulási élmény értékelésére, mielőtt a hallgatók bekapcsolódnak, a lemorzsolódás és a befejezés előrejelzésére és tervezési visszajelzés adására egyetlen „leíró” webügynök, amely végigjárja az órát és gazdag leírást készít az élményről, felülmúlta a diákpopuláció közvetlen szimulálását.
+Mielőtt kohorszot épít, ellenőrizze az olcsóbb lehetőséget. Egy [[online-teaching-and-learning|online tanulási élmény]] értékelésére, mielőtt a hallgatók bekapcsolódnak, a lemorzsolódás és a befejezés előrejelzésére és tervezési visszajelzés adására egyetlen „leíró” webügynök, amely végigjárja az órát és gazdag leírást készít az élményről, felülmúlta a diákpopuláció közvetlen szimulálását.
 
 Az abban az összehasonlításban szereplő szimulált diákok sokkal kisebb viselkedési tartományt mutattak, mint a valódi tanulók: 100 ágenssel öt tesztórán a valódi diákok által megtett utaknak csak körülbelül 4%-át reprodukálták, miközben lényegesen több számítási kapacitást emésztettek. A leírás, majd előrejelzés folyamat érte el a legjobb lemorzsolódási eloszlás előrejelzést egy hatalmas globális CS1 kurzuson, 0,060 átlagos JSD-vel ([[ai-web-agents-lesson-design-2025|Wang, Mitchell és Piech, 2025]]).
 
@@ -124,7 +124,7 @@ A populáció szimulálása az alapos lehetőség. 100 ágensnél a szimuláció
 
 **„A GRPO legyőzte a felügyelt finomhangolást, tehát RL-lel kell tanítanunk.”** Legyőzte, 0,618-cal 0,474 ellen. Az alacsony jártasságú forma mindkét esetben nehéz maradt, túl kevés helyesírási és nyelvtani hibával, egy külön benchmarkban pedig a preferenciaoptimalizálás csak marginálisan múlta felül a finomhangolást, és a hibáknál veszített. Ellenőrizze, melyik tulajdonságtól függ az Ön felhasználási esete.
 
-**„A leggyengébb tanulók a felhasználóink kis szeletét teszik ki.”** Ők a legnehezebb eset ezen az oldalon minden módszer számára, és a lefedettségi megállapítás szerint a szimulációk a legkönnyebb negyedben csoportosulnak. Ha a szimulátorát küszködő diákokról szóló következtetések levonására fogják használni, ez a rés a beszámolóba tartozik.
+**„A leggyengébb tanulók a felhasználóink kis szeletét teszik ki.”** Ők a legnehezebb eset minden vizsgált módszer számára, és a lefedettségi megállapítás szerint a szimulációk a legkönnyebb negyedben csoportosulnak. Ha a szimulátorát küszködő diákokról szóló következtetések levonására fogják használni, ez a rés a beszámolóba tartozik.
 
 ## Mit tegyen ezen a héten
 

@@ -12,9 +12,9 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T14:37:59-04:00"
+updated: "2026-11-15T16:22:03-05:00"
 translation_of: faqs/developing-ai-tutor
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ Három lista, még azelőtt megírva, hogy bárki modellt választana:
 
 Az [[intelligent-tutoring|intelligens tutorálás]] szakirodalma rámutat, hogy a hatékonyság a [[pedagogy|pedagógiai]] tervezéstől függ, nem pusztán a modell képességeitől, és a hibát könnyű véletlenül beépíteni. Egy „a feladat befejezésére” optimalizált tutor aláássa azt a tutort, amelyet „a feladat megoldásának megtanulására” optimalizáltak, miközben minden funkcionális tesztet átmegy, amit csak ír, mert mindkettő helyes végeredményt ad. A különbség abban él, hogy a diák mit tett a kérdés és a válasz között.
 
-A második lista az, ahol a fejlesztőcsapatok konkrétak tudnak lenni. Vegyen egy elsajátítási címkét, például „derivált-elsajátítás”, és tagadja meg, hogy ez a helyes derivált előállítását jelentse. Bontsa fel olyan külön elemekre, mint annak felismerése, mikor alkalmas egy derivált, értelmezése pillanatnyi változási sebességként, a szabály kiválasztása, az eljárás végrehajtása, annak elmagyarázása, miért volt helyes a választás, az ésszerűség ellenőrzése és az alkalmazás egy ismeretlen feladatra. Mindegyik külön naplózandó dolog, és mindegyik más választ feltételez, ha hiányzik. Ez a felbontás egyben a védelem a [[correct-answer-trap-misconceptions|helyes válasz csapdája]] ellen, amikor a tanuló hibás következtetéssel jut a helyes válaszra, és az analitikája sikert rögzít. A [[correct-answer-trap-ai-tutor|A helyes válasz csapdájának elkapása]] és a [[zhang-tutormoments-2026|Amikor a segítség nem segít]] egyaránt ennek a hibának a változatait írja le éles környezetben.
+A második lista az, ahol a fejlesztőcsapatok konkrétak tudnak lenni. Vegyen egy elsajátítási címkét, például „derivált-elsajátítás”, és tagadja meg, hogy ez a helyes derivált előállítását jelentse. Bontsa fel olyan külön elemekre, mint annak felismerése, mikor alkalmas egy derivált, értelmezése pillanatnyi változási sebességként, a szabály kiválasztása, az eljárás végrehajtása, annak elmagyarázása, miért volt helyes a választás, az ésszerűség ellenőrzése és az alkalmazás egy ismeretlen feladatra. Mindegyik külön naplózandó dolog, és mindegyik más választ feltételez, ha hiányzik. Ez a felbontás egyben a védelem a [[correct-answer-trap-misconceptions|helyes válasz csapdája]] ellen, amikor a tanuló hibás következtetéssel jut a helyes válaszra, és a [[learning-analytics|analitikája]] sikert rögzít. A [[correct-answer-trap-ai-tutor|A helyes válasz csapdájának elkapása]] és a [[zhang-tutormoments-2026|Amikor a segítség nem segít]] egyaránt ennek a hibának a változatait írja le éles környezetben.
 
 ## A tanulómodellt a beszélgetés előtt építse fel
 
@@ -92,7 +92,7 @@ A felület súrlódása ugyanabba a tervezési menetbe tartozik. A látható gom
 
 ## Az ellenőrizhető részeket adja át egy ellenőrzőnek
 
-A generálást oktató által jóváhagyott anyagra alapozza: tankönyvi fejezetekre, kurzusjegyzetekre, kidolgozott példákra, terminológiára, jóváhagyott módszerekre, jelölésekre, feladatszabályokra, szabályzatokra és [[curriculum-design|tantervi]] erőforrásokra. Az erre a korpuszra épülő visszakereséses generálás csökkenti a [[hallucination-risk|hallucináció kockázatát]], de nem szünteti meg, ahogy a [[rag|RAG]] kifejti. Tegye láthatóvá a hivatkozásokat vagy a származást a felületen ott, ahol a diák ellenőrizhet egy állítást, mert a hivatkozás az, ami utólag auditálhatóvá teszi az alapozást.
+A generálást oktató által jóváhagyott anyagra alapozza: tankönyvi fejezetekre, kurzusjegyzetekre, kidolgozott példákra, terminológiára, jóváhagyott módszerekre, jelölésekre, feladatszabályokra, szabályzatokra és [[curriculum-design|tantervi]] erőforrásokra. Az ezekre az anyagokra épülő visszakereséses generálás csökkenti a [[hallucination-risk|hallucináció kockázatát]], de nem szünteti meg, ahogy a [[rag|RAG]] kifejti. Tegye láthatóvá a hivatkozásokat vagy a származást a felületen ott, ahol a diák ellenőrizhet egy állítást, mert a hivatkozás az, ami utólag auditálhatóvá teszi az alapozást.
 
 Az alapozás olyan feladatot is ellát, amelyet a pontossági mutatók kihagynak. Egy kurzusnak jóváhagyott módszerei vannak, és egy tutor, amely olyan matematikailag érvényes technikát vezet be, amelyet a kurzus nem használ, olyasmire tanította a diákot, amiért pontlevonás jár. A kurzusrétegből való visszakeresés az, ahogyan a tutor a módszerkészleten belül marad.
 
@@ -100,7 +100,7 @@ Formálisan ellenőrizhető válaszokkal rendelkező területeken adjon hozzá d
 
 ## Követelje meg, hogy a tanuló tegyen valamit a visszajelzéssel
 
-A visszajelzés, amely annyit mond, hogy „Helyes”, „Helytelen” vagy „Szép munka”, pontozási esemény tanítási felületbe öltöztetve. A tudásbázis a [[feedback|visszajelzést]] nyújtás és átvétel hurkoként kezeli: a visszajelzés akkor támogatja a tanulást, ha a diákok megértik, és tesznek is vele valamit, és a rendszerek rendszerint éppen a második felét hagyják ki. Építse úgy a tutort, hogy megnevezze az érintett következtetési lépést, megmondja, min kell újragondolni, adjon egy konkrét következő lépést, és kérje meg a tanulót, hogy jósoljon vagy magyarázzon, mielőtt a visszajelzés megjelenik.
+A visszajelzés, amely annyit mond, hogy „Helyes”, „Helytelen” vagy „Szép munka”, pontozási esemény tanítási felületbe öltöztetve. A kutatás a [[feedback|visszajelzést]] nyújtás és átvétel hurkoként kezeli: a visszajelzés akkor támogatja a tanulást, ha a diákok megértik, és tesznek is vele valamit, és a rendszerek rendszerint éppen a második felét hagyják ki. Építse úgy a tutort, hogy megnevezze az érintett következtetési lépést, megmondja, min kell újragondolni, adjon egy konkrét következő lépést, és kérje meg a tanulót, hogy jósoljon vagy magyarázzon, mielőtt a visszajelzés megjelenik.
 
 Az ezt hordozó sorrend: először a tanuló, másodszor az MI, ismét a tanuló. A diák generál, választ, indokol, értékel vagy reflektál; a tutor válaszol; a diák tesz valamit a válasszal. A fordulók szerkezetét úgy tervezze, hogy ez ne legyen opcionális. Egy rendszer, amelyben a modell három bekezdést tud adni egyetlen kérdésre, arra tanítja a diákot, hogy kérdezzen és olvasson.
 
@@ -114,7 +114,7 @@ Tesztelje a válaszszivárgást, a tévhit-megerősítést, a túlzott egyetért
 
 ## Az adatarchitektúra ugyanabba a tervdokumentumba kerüljön
 
-Csak pedagógiailag szükséges tanulói adatot gyűjtsön, és tudja megmondani, miért létezik minden egyes mező. Ahol tartós memóriát vagy [[student-modeling|tanulómodellt]] tart, tegye láthatóvá a célját a tanuló számára, adjon neki megfelelő ellenőrzést fölötte, védje az érzékeny információkat, határozza meg a megőrzési időt, és a következményes döntéseket irányítsa oktatóhoz vagy más [[human-in-the-loop-ai|emberi ellenőrzőponthoz]]. Egy tanulómodell, amely csendben gyűjt egy magabiztossági becslést, amelyet a diák soha nem lát, adatvédelmi és pedagógiai probléma egyszerre.
+Csak pedagógiailag szükséges tanulói adatot gyűjtsön, és tudja megmondani, miért létezik minden egyes mező. Ahol tartós memóriát vagy [[student-modeling|tanulómodellt]] tart, tegye láthatóvá a célját a tanuló számára, adjon neki megfelelő ellenőrzést fölötte, védje az érzékeny információkat, határozza meg a megőrzési időt, és a következményes döntéseket irányítsa oktatóhoz vagy más [[human-in-the-loop-ai|emberi ellenőrzőponthoz]]. Egy tanulómodell, amely csendben gyűjt egy magabiztossági becslést, amelyet a diák soha nem lát, [[privacy|adatvédelmi]] és pedagógiai probléma egyszerre.
 
 Auditálja a viselkedést nyelvi háttér, képességszint, kulturális kontextus, [[accessibility|akadálymentesítési]] igények, valamint az [[prior-knowledge|előzetes tudás]] és az MI-tapasztalat szintje szerint. Az azonos célkitűzésen mutatott eltérő teljesítmény hiba, amelyhez egy diák tartozik, és nem fog megjelenni az összesített pontossági számában.
 
@@ -152,7 +152,7 @@ Egy első féléves egyetemi kalkulus tutor célja az legyen, hogy növelje, mit
 
 ## Második eset: írási coach, ahol a szakasz dönt az engedélyről
 
-Az írásnak nincs egyetlen helyes válasza, ezért az ellenőrzés ítélet, és a tervezési munka a szakaszolásra tolódik. A tudásbázis az írást kognitív, társas és retorikai folyamatként keretezi, ami azt jelenti, hogy egy MI-írásrendszer támogathatja a tanulást, és meg is szüntetheti pontosan azt a gondolkodást, amelynek kifejlesztéséért a feladat létezett ([[writing-education|írásoktatás]], [[coach-not-crutch-ai-writing|coach, nem mankó]]).
+Az írásnak nincs egyetlen helyes válasza, ezért az ellenőrzés ítélet, és a tervezési munka a szakaszolásra tolódik. Az írás kognitív, társas és retorikai folyamat, ami azt jelenti, hogy egy MI-írásrendszer támogathatja a tanulást, és meg is szüntetheti pontosan azt a gondolkodást, amelynek kifejlesztéséért a feladat létezett ([[writing-education|írásoktatás]], [[coach-not-crutch-ai-writing|coach, nem mankó]]).
 
 **Képességmodell.** Tartsa nyilván az érvelést (tézis konkrétsága, állítás és bizonyíték összhangja, ellenérv), a szervezést (bekezdésfókusz, logikai haladás, átmenetek), a bizonyítékot (forrás relevanciája, integrálása, értelmezése), az átdolgozást (globális és mondatszintű átdolgozás, a visszajelzés értékelése) és a stílust (világosság, nyelvtan, hang). Mindegyik külön jelzéssé válik a tanulómodellben, és ez az, ami egyáltalán lehetővé teszi a célzott visszajelzést.
 
@@ -209,11 +209,11 @@ Az elköteleződés a cél. A beszélgetés hossza és az ülések száma a lego
 
 **„A diákok imádják, és a befejezés emelkedett.”** Mindkét tény összeegyeztethető egy olyan rendszerrel, amely jól válaszol a kérdésekre és semmit nem tanít. A 6 000 diákot érintő vizsgálat lassabb haladást és kevesebb megkísérelt kérdést talált jobb pontosság mellett, tehát a befejezés csökkenése sem feltétlenül rossz hír. Tegye a támogatás nélküli teljesítményt az elköteleződési számok mellé, és hagyja, hogy a kettő nyilvánosan ellentmondjon egymásnak.
 
-**„Nem tudunk randomizált kísérletet futtatni.”** Futtathat diákok közötti összehasonlítást anélkül: ugyanaz a célkitűzés, támogatással az egység alatt, támogatás nélkül tesztelve két héttel később, a támogatott pontszám mellett bemutatva. Ez a terv megválaszolja a termékkérdést, és nem igényel kontrollcsoportot. Amit nem tud megmondani, az a kontrafaktuális azokra a diákokra, akik soha nem használták a tutort.
+**„Nem tudunk [[rct|randomizált kísérletet]] futtatni.”** Futtathat diákok közötti összehasonlítást anélkül: ugyanaz a célkitűzés, támogatással az egység alatt, támogatás nélkül tesztelve két héttel később, a támogatott pontszám mellett bemutatva. Ez a terv megválaszolja a termékkérdést, és nem igényel kontrollcsoportot. Amit nem tud megmondani, az a kontrafaktuális azokra a diákokra, akik soha nem használták a tutort.
 
-**„A modell szállítói API, tehát a segítségnyújtási viselkedés nincs a kezünkben.”** A fokok az Ön orchestrációs rétegében élnek, és a korlátozási kísérlet eredménye abból jött, hogy megváltoztatták, mit mondhat a tutor, nem abból, hogy modellt cseréltek. Számítson arra, hogy a szállító utólagos tanítása a gyors válaszadás felé húz, mert a segítőkészségre hangolták, és a visszafogást a saját kódjába tegye.
+**„A modell szállítói API, tehát a segítségnyújtási viselkedés nincs a kezünkben.”** A fokok az Ön orchestrációs rétegében élnek, és a korlátozási kísérlet eredménye abból jött, hogy megváltoztatták, mit mondhat a tutor, nem abból, hogy modellt cseréltek. Számítson arra, hogy a szállító [[llm-training-and-fine-tuning|utólagos tanítása]] a gyors válaszadás felé húz, mert a segítőkészségre hangolták, és a visszafogást a saját kódjába tegye.
 
-**„A tanárok nem fognak még egy irányítópultot használni.”** Olyat nem fognak használni, amely folyamatos diagnosztikát bocsát ki, mert a K-12 áttekintés szerint ez elvonja a figyelmet a saját megfigyelésükről. Adjon nekik kevés, de értelmezhető jelzést, módot arra, hogy minden ajánlást elfogadjanak vagy elutasítsanak, és időt a héten, hogy megnézzék őket.
+**„A tanárok nem fognak még egy irányítópultot használni.”** Olyat nem fognak használni, amely folyamatos diagnosztikát bocsát ki, mert a [[k-12|K–12]] áttekintés szerint ez elvonja a figyelmet a saját megfigyelésükről. Adjon nekik kevés, de értelmezhető jelzést, módot arra, hogy minden ajánlást elfogadjanak vagy elutasítsanak, és időt a héten, hogy megnézzék őket.
 
 **„Nincs szakterületi szakértőnk.”** Akkor a tutor általános módszert fog tanítani, és a kurzus jelölése egy félév alatt elsodródik. Egy tárgyszakértő két napra tervezési időben, aki megírja a tévhitlistát és a jóváhagyott módszerek listáját, a projekt legolcsóbb sora, és az, amelyet a csapatok elsőként vágnak ki.
 

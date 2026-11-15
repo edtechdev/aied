@@ -1,7 +1,7 @@
 ---
 title: "Mit jelent valójában a személyre szabott tanulás, és mikor segít?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:18:05-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
@@ -28,7 +28,7 @@ ai_assist:
 
 A platform személyre szabott élményt ígér minden diáknak. Átrendezheti a gyakorlókérdéseket, újraírhat egy magyarázatot egy diák futball iránti érdeklődése köré, emlékezhet a múlt heti beszélgetésre, vagy kiválaszthatja, mit tanul a diák következőként. Mind a négyet személyre szabásnak nevezik, és csak egyet teszteltek valami hasonló formában.
 
-Íme a rövid válasz: a személyre szabás a tanulási élmény valamely részének megváltoztatását nevezi meg, és az értéke három dologtól függ: mit adaptálnak, milyen bizonyíték hajtja az adaptációt, és hogy a változás javítja-e a szándékolt tanulást. Egy ismerős példa vagy egy reagáló beszélgetés személyesnek érződhet, miközben semmit nem tanít. Egy hatékony adaptáció láthatatlan lehet. E tudásbázis legvilágosabb kísérleti eredménye szűk: egy öt hónapos Python-tanúsítvány-kurzusban tíz tajpeji középiskolában az adaptív feladatsorrendhez randomizált diákok mintegy 0,150 szórással értek el magasabb pontszámot egy személyes, támogatás nélküli [[summative-assessment|záróvizsgán]], mint a rögzített sorrendű, azonos chatbot-hozzáféréssel rendelkező diákok ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung és mtsai, 2026]]). Ez a sorrendezést támasztja alá meghatározott feltételeken. Nem érvényesíti mindazt, amit személyre szabottként adnak el.
+Íme a rövid válasz: a személyre szabás a tanulási élmény valamely részének megváltoztatását nevezi meg, és az értéke három dologtól függ: mit adaptálnak, milyen bizonyíték hajtja az adaptációt, és hogy a változás javítja-e a szándékolt tanulást. Egy ismerős példa vagy egy reagáló beszélgetés személyesnek érződhet, miközben semmit nem tanít. Egy hatékony adaptáció láthatatlan lehet. E szakirodalom legvilágosabb kísérleti eredménye szűk: egy öt hónapos Python-tanúsítvány-kurzusban tíz tajpeji középiskolában az adaptív feladatsorrendhez randomizált diákok mintegy 0,150 szórással értek el magasabb pontszámot egy személyes, támogatás nélküli [[summative-assessment|záróvizsgán]], mint a rögzített sorrendű, azonos chatbot-hozzáféréssel rendelkező diákok ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung és mtsai, 2026]]). Ez a sorrendezést támasztja alá meghatározott feltételeken. Nem érvényesíti mindazt, amit személyre szabottként adnak el.
 
 ## A rövid változat
 

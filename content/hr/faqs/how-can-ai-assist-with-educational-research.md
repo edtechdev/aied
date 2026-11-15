@@ -14,9 +14,9 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:17:48-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ Kratak odgovor za taj sastanak: umjetna inteligencija može preuzeti pretraživa
 
 **5.** Provjerite svaku referencu ručno, autore prve, kad god je umjetna inteligencija dotaknula tekst.
 
-**6.** Bilježite upite, verzije modela i verzije korpusa, i planirajte sate za to.
+**6.** Bilježite upite, verzije modela i verzije skupa podataka, i planirajte sate za to.
 
 ## Odlučite čega se umjetna inteligencija smije dotaknuti prije početka projekta
 
@@ -60,7 +60,7 @@ Većina koristi dolazi iz dvije dizajnerske odluke. Napišite pravila odlučivan
 
 ## Utvrdite šifrarnik prije nego što model išta pročita
 
-[[qualitative-research|Kvalitativna analiza]] faza je u kojoj je interpretacija proizvod. Konstrukti, rubrike za kodiranje i podaci za obuku ljudske su odluke, a ne rezultati modela ([[ai-methodologies-science-education-research-2026|Martin i suradnici, 2026]]), što znači da šifrarnik mora biti utvrđen prije nego što se automatizirani prolaz pokrene nad korpusom. Alternativa je shema kodiranja napisana oko onoga što je model slučajno iznio na površinu, a teme tada opisuju čitanje vaših podataka od strane alata.
+[[qualitative-research|Kvalitativna analiza]] faza je u kojoj je interpretacija proizvod. Konstrukti, rubrike za kodiranje i podaci za obuku ljudske su odluke, a ne rezultati modela ([[ai-methodologies-science-education-research-2026|Martin i suradnici, 2026]]), što znači da šifrarnik mora biti utvrđen prije nego što se automatizirani prolaz pokrene nad skupom podataka. Alternativa je shema kodiranja napisana oko onoga što je model slučajno iznio na površinu, a teme tada opisuju čitanje vaših podataka od strane alata.
 
 Delegiranje može biti finije od sve-ili-ništa. [[agreement-not-quality-llm-coding-verification|Jedna studija slijepe provjere]] klasificirala je 15 od 72 stavke šifrarnika kao dokazivo zahtjevne za ljudsku ekspertizu, 12 kao bolje pokrivene modelom i 16 kao prikladne za trijažu utemeljenu na pouzdanosti. Razvrstajte vlastite stavke na taj način i ušteda rada pada tamo gdje je sigurna.
 
@@ -89,13 +89,13 @@ Propust je konkretan. U [[zhang-platform-scores-miss-ai-teaching-agents-2026|eva
 
 Prihvaćanje je odmaklo ispred izvještavanja. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta i Lin (2026)]] analizirali su 888 radova o automatizaciji pregleda: od 2023., 38,0% radova o softveru i proizvodima nije izvijestilo o nikakvoj evaluaciji, nasuprot 9,3% LLM radova, a pristup modelu bio je pretežno vlasnički (84,1%). Ni povoljna ukupna ocjena nije značila prikladnost za delegiranje, jer je 52% od 118 LLM radova sa samo pozitivnim nalazima ipak izvijestilo o zabrinutosti da tijek rada pada ispod razine koju njegova uloga zahtijeva. Njihov okvir [[meta-analysis-systematic-review|PRISMA]]-LLM odvaja objavu implementacije od evaluacije osjetljive na posljedice i tretira svojih pet razina kao razine objave, a ne kao razine rizika.
 
-Praktična verzija: navedite sustav i njegovu verziju, upite, verziju korpusa, što je čovjek provjerio i gdje je zakazao. Čuvajte dnevnike upita i odgovora, jer tečan generirani popis tema izgleda neizbježno mnogo prije nego što je njegov dokazni rad i počeo ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
+Praktična verzija: navedite sustav i njegovu verziju, upite, verziju skupa podataka, što je čovjek provjerio i gdje je zakazao. Čuvajte dnevnike upita i odgovora, jer tečan generirani popis tema izgleda neizbježno mnogo prije nego što je njegov dokazni rad i počeo ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
 Planirajte i sate. [[persistent-ai-agents-academic-research|Studija slučaja od 115 dana s jednim istraživačem]] koja je pratila trajnog istraživačkog agenta pokazala je da je najsnažniji obrazac bio širenje kapaciteta, a ne dokazana zamjena rada: kako su se pamćenje i procedure gomilale, opseg delegiranog rada rastao je, a ljudski doprinos nije se smanjivao.
 
 ## Vodite praktičarsko istraživanje po istim pravilima u manjem mjerilu
 
-Ako ste predavač koji proučava vlastiti kolegij, radite u najtanjoj niti korpusa. [[ai-assisted-educational-research|Istraživanje u obrazovanju uz pomoć umjetne inteligencije]] to navodi kao prazninu, a ne kao nalaz: praktičarsko istraživanje uz pomoć umjetne inteligencije vjerojatno je rašireno i gotovo nedokumentirano, a dokazi o automatizaciji pregleda i bibliometrijski dokazi ne rješavaju kako predavač treba proučavati vlastitu nastavu.
+Ako ste predavač koji proučava vlastiti kolegij, radite u najmanje proučenoj niti ove literature. [[ai-assisted-educational-research|Istraživanje u obrazovanju uz pomoć umjetne inteligencije]] to navodi kao prazninu, a ne kao nalaz: praktičarsko istraživanje uz pomoć umjetne inteligencije vjerojatno je rašireno i gotovo nedokumentirano, a dokazi o automatizaciji pregleda i bibliometrijski dokazi ne rješavaju kako predavač treba proučavati vlastitu nastavu.
 
 Ono što se prenosi jest skup dispozicija:
 

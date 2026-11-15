@@ -6,9 +6,9 @@ weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-updated: "2026-10-29T11:57:27-04:00"
+updated: "2026-11-15T16:18:15-05:00"
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ Shrnutí: technika promptů je na tom to nejmenší. Akademičtí pracovníci mu
 
 ## Definujte kompetenci dřív, než rezervujete místnost
 
-Syntéza [[ai-literacy|gramotnosti v oblasti AI]] ve znalostní bázi určuje čtyři dimenze a ty tvoří užitečný program, protože každá potřebuje jiný druh setkání:
+Syntéza [[ai-literacy|gramotnosti v oblasti AI]] určuje čtyři dimenze a ty tvoří užitečný program, protože každá potřebuje jiný druh setkání:
 
 - **Základní porozumění** možnostem a omezením AI.
 - **Praktická kompetence** v používání nástrojů AI.
@@ -54,6 +54,8 @@ Napište si seznam dřív, než naplánujete setkání. Čtyři dimenze plus vý
 ## Hodnoťte výkon, ne jistotu
 
 [[self-report-measures|Sebeposuzovaná]] gramotnost v oblasti AI se může podstatně rozcházet s prokázanou schopností, což je nejpraktičtější varování v této literatuře pro každého, kdo vede rozvoj akademiků. Dotazník jistoty na konci workshopu měří, jak workshop působil.
+
+Dotazník lze dokonce předpovědět až příliš dobře. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] zařadili 314 z 315 akademiků do pásem kompetence pomocí 300položkové škály s α = 0,997 a bez faktorové analýzy, přičemž největším přispěvatelem byla institucionální příslušnost — znamení, že skóre sledovala, kde lidé pracují, ne co umějí.
 
 Výzkum [[agentic-ai|multiagentních]] pracovních postupů učitelů přidává druhý důvod testovat, a ne se ptát: systémové myšlení, pedagogická přesvědčení a [[self-efficacy|sebeúčinnost]] se při integraci AI ovlivňují navzájem, takže stejné setkání dopadá jinak na dva akademiky se stejným oborovým zázemím. To mluví pro diferencované programy a proti workshopu jednoho nástroje pro všechny, který většina institucí pořádá.
 
@@ -103,7 +105,7 @@ Experti na obsah si integraci vymyslí sami. Znalosti obsahu integraci v tom še
 
 Jeden rámec pokryje všechny. Standard šesti rolí existuje proto, že TPACK, SAMR a hlavní standardy pro vzdělavatele pokrývají učitele základních a středních škol nebo jen výukovou dimenzi.
 
-Odpor je mezera ve znalostech, kterou je třeba vyplnit. Averze k riziku předpovídala záměr negativně a práce s identitou popisuje akademiky uvažující z pedagogických hodnot. Část toho, co vypadá jako nechuť, je obhajitelná pozice ohledně nadměrné závislosti studentů.
+Odpor je mezera ve znalostech, kterou je třeba vyplnit. Averze k riziku předpovídala záměr negativně a [[learner-identity|práce s identitou]] popisuje akademiky uvažující z pedagogických hodnot. Část toho, co vypadá jako nechuť, je obhajitelná pozice ohledně nadměrné závislosti studentů.
 
 ## Co vám budou říkat
 

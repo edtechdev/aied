@@ -6,9 +6,10 @@ foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
 ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
+audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
@@ -20,6 +21,7 @@ ai_assist:
     role: translation
     date: "2026-10-13"
     agent: hermes-agent
+updated: "2026-11-15T16:26:08-05:00"
 ---
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
@@ -128,7 +130,7 @@ Kabidhi uhakiki wa modeli kama kazi ya kitaaluma. Wape wanafunzi tafsiri ya AI y
 
 ### Kozi za STEM na ripoti za maabara
 
-Kwanza tahadhari: hifadhi hii ya maarifa ina ushahidi thabiti zaidi kuhusu uandishi wa kitaaluma unaosaidiwa na AI kwa ujumla kuliko kuhusu uandishi wa ripoti za maabara hasa. [[pedagogy|Mbinu za kufundisha]] za vitendo na za maabara zinabaki zikiwa hazijashughulikiwa vya kutosha, ikiwemo katika maandiko ya [[engineering-education|elimu ya uhandisi]], hivyo kinachofuata kinatumia matokeo ya uandishi, uhamishaji, uhalali na uhandisi katika mazingira ambayo tafiti hizo hazikuyajaribu.
+Kwanza, tahadhari: ushahidi ni imara zaidi kuhusu uandishi wa kitaaluma unaosaidiwa na AI kwa ujumla kuliko kuhusu uandishi wa ripoti za maabara hasa. [[pedagogy|Mbinu za kufundisha]] za vitendo na za maabara zinabaki zikiwa hazijashughulikiwa vya kutosha, ikiwemo katika maandiko ya [[engineering-education|elimu ya uhandisi]], hivyo kinachofuata kinatumia matokeo ya uandishi, uhamishaji, uhalali na uhandisi katika mazingira ambayo tafiti hizo hazikuyajaribu.
 
 Chora kikomo kuzunguka kufikiri kisayansi badala ya maandishi kwa ujumla. Wanafunzi hubaki kuwajibika kwa uchunguzi, data ghafi, hesabu, kutokuwa na uhakika, michoro, maamuzi ya uchanganuzi, matokeo, na kufikiri kwa madai na ushahidi. Pale vitu hivyo vinapokuwepo, AI inaweza kusaidia kwa njia inayokubalika katika mpangilio, usomaji rahisi, viungio, na kanuni za kitaaluma, ambayo ni mgawanyo ule ule wa uso na kufikiri kama katika [[layer-sensitive-cognitive-offloading-writing-2026|utafiti wa Chen]].
 
@@ -152,7 +154,7 @@ Wanafunzi huchora mstari kama huo wenyewe. Katika kozi ya mawasiliano ya kiufund
 
 ## Hukumu ushahidi kabla ya kuandika upya mtaala
 
-Hoja kwa ajili ya miundo hii ni yenye matumaini na bado haijawa na nguvu ya kutosha kuhalalisha sera moja ya jumla ya uandishi wa AI. Baadhi ya ushahidi bora unatoka katika tafiti kubwa za darasa kama [[pairr-ai-peer-review-2025|PAIRR]] na wanafunzi wake 654. Sehemu kubwa ya ushahidi uliobaki unategemea nusu-majaribio, sampuli ndogo za majaribio, uchanganuzi wa dhana, na kazi za 2025-2026 ambazo ni mpya bado: [[layer-sensitive-cognitive-offloading-writing-2026|utafiti wa Chen wa uandishi wenye mipaka]] ulikuwa na wanafunzi 168 lakini madarasa sita kamili tu, [[ai-writing-support-stage-ownership-2026|utafiti wa umiliki]] ulitumia kazi fupi ya majaribio ya uandishi, na utafiti ulioripoti faida za haraka za ubora baada ya mazoezi ya ChatGPT ulihusisha wanafunzi 21 tu wa mwaka wa kwanza wa kimataifa na haukuthibitisha [[transfer-of-learning|uhamishaji]] wa muda mrefu ([[chatgpt-academic-writing-quality-ownership-2026]]). Hifadhi hii ya maarifa ya [[ai-education|AI katika Elimu]] inaunga mkono seti ya kanuni za kubuni, na ugunduzi unaotegemewa zaidi kati ya tafiti mbalimbali ni kuhifadhi [[agency|uwakala]] wa mwanafunzi, [[evaluative-judgment|hukumu ya kutathmini]], uwezo huru, kufikiri cha kitaaluma, na maoni ya binadamu, huku AI ikitumika kupanua upatikanaji wa uhakiki, mazoezi, msaada wa marekebisho, na msaada wa lugha.
+Hoja kwa ajili ya miundo hii ni yenye matumaini na bado haijawa na nguvu ya kutosha kuhalalisha sera moja ya jumla ya uandishi wa AI. Baadhi ya ushahidi bora unatoka katika tafiti kubwa za darasa kama [[pairr-ai-peer-review-2025|PAIRR]] na wanafunzi wake 654. Sehemu kubwa ya ushahidi uliobaki unategemea nusu-majaribio, sampuli ndogo za majaribio, uchanganuzi wa dhana, na kazi za 2025-2026 ambazo ni mpya bado: [[layer-sensitive-cognitive-offloading-writing-2026|utafiti wa Chen wa uandishi wenye mipaka]] ulikuwa na wanafunzi 168 lakini madarasa sita kamili tu, [[ai-writing-support-stage-ownership-2026|utafiti wa umiliki]] ulitumia kazi fupi ya majaribio ya uandishi, na utafiti ulioripoti faida za haraka za ubora baada ya mazoezi ya ChatGPT ulihusisha wanafunzi 21 tu wa mwaka wa kwanza wa kimataifa na haukuthibitisha [[transfer-of-learning|uhamishaji]] wa muda mrefu ([[chatgpt-academic-writing-quality-ownership-2026]]). Kinachoungwa mkono na utafiti wa [[ai-education|AI katika Elimu]] ni seti ya kanuni za ubuni, na ugunduzi unaotegemewa zaidi kati ya tafiti mbalimbali ni kuhifadhi [[agency|uwakala]] wa mwanafunzi, [[evaluative-judgment|hukumu ya kutathmini]], uwezo huru, kufikiri cha kitaaluma, na maoni ya binadamu, huku AI ikitumika kupanua upatikanaji wa uhakiki, mazoezi, msaada wa marekebisho, na msaada wa lugha.
 
 Mchanganyiko huo una matokeo ya kivitendo. Badilisha kazi moja, hifadhi kipengele, na linganisha kundi lijalo la wanafunzi na hili kwa kipimo kile kile. Kanuni unayoweza kuirekebisha baada ya muhula mmoja ina thamani kubwa kuliko sera unayoweza kuipima, na tafiti ndogo zilizo juu hazitakuambia kinachotokea katika kozi yako.
 
@@ -170,7 +172,7 @@ Mchanganyiko huo una matokeo ya kivitendo. Badilisha kazi moja, hifadhi kipengel
 
 ## Yatakayokujia
 
-**"Sina muda wa kusoma kipengele kingine."** Basi fanya kipengele kiwe kidogo: safu nne za jedwali la maamuzi, au dakika tano za uandishi darasani kama sampuli huru. Hifadhi hii ya maarifa haitoi data ya muda wa kusahihisha kwa miundo hii, hivyo hoja ya mzigo wa kazi inapaswa kupimwa kwenye kazi moja badala ya kudhaniwa kutokana na ukurasa huu.
+**"Sina muda wa kusoma kipengele kingine."** Basi fanya kipengele kiwe kidogo: safu nne za jedwali la maamuzi, au dakika tano za uandishi darasani kama sampuli huru. Hakuna utafiti unaotoa data ya muda wa kusahihisha kwa miundo hii, hivyo hoja ya mzigo wa kazi inapaswa kupimwa kwenye kazi moja badala ya kudhaniwa.
 
 **"Wanafunzi wangu watatumia AI bila kujali kanuni inasema nini."** Watatumia, na swali la kubuni ni jibu lipi ambalo kazi yako inalifanya kuwa rahisi zaidi. Tangazo lisilo na gharama na rubriki inayolipa mchakato hufanya ufafanuzi uwe njia ya bei nafuu. Utaratibu huo unatokana na uundaji wa modeli badala ya jaribio la sera ya ufafanuzi, hivyo chukulia utabiri huo kama unaofaa lakini haujathibitishwa.
 
@@ -180,7 +182,7 @@ Mchanganyiko huo una matokeo ya kivitendo. Badilisha kazi moja, hifadhi kipengel
 
 **"Modeli inapima kazi hii vizuri kama mimi."** Mifumo iliyorekebishwa yenye rubriki za kina na mifano iliyofanyiwa kazi inaweza kupima kazi mahususi vizuri. Upimaji wa jumla haufanyi hivyo, na Mathew na wenzake wanaonyesha kwamba kutokubaliana kunafuata ubora wa insha badala ya kutawanyika bila mpangilio, ambayo ni aina ngumu zaidi ya kosa kuiona. Jaribu chombo kwenye seti yako mwenyewe ya kazi zilizopewa alama kabla hakijagusa alama yoyote.
 
-**"Hii inawaadhibu wanafunzi ambao Kiingereza chao cha kitaaluma ni dhaifu."** Inaweza, ikiwa kanuni inachukulia kujieleza na uandishi wa asili kama kitu kimoja. Vitenganishe, na ukague maoni ya AI kwa mtindo ambao Tan na wenzake waligundua, ambapo maandishi yanayofanana yalipata sifa zaidi na uhakiki mdogo wa maudhui mara tu sifa za kidemografia au za kielimu zilipokuwa kwenye ilani. Hifadhi hii ya maarifa inathibitisha upendeleo huo. Haioripoti suluhisho lililojaribiwa, hivyo ulinganisho wako mwenyewe ndio ukaguzi.
+**"Hii inawaadhibu wanafunzi ambao Kiingereza chao cha kitaaluma ni dhaifu."** Inaweza, ikiwa kanuni inachukulia kujieleza na uandishi wa asili kama kitu kimoja. Vitenganishe, na ukague maoni ya AI kwa mtindo ambao Tan na wenzake waligundua, ambapo maandishi yanayofanana yalipata sifa zaidi na uhakiki mdogo wa maudhui mara tu sifa za kidemografia au za kielimu zilipokuwa kwenye ilani. Upendeleo huo umethibitishwa. Haioripoti suluhisho lililojaribiwa, hivyo ulinganisho wako mwenyewe ndio ukaguzi.
 
 ## Fanya hivi wiki hii
 
@@ -196,4 +198,4 @@ Mchanganyiko huo una matokeo ya kivitendo. Badilisha kazi moja, hifadhi kipengel
 
 ## Wapi kwenda baadaye
 
-Upande wa tathmini wa hoja hii, ukiwemo uundaji wa hatua zilizothibitishwa, upo katika [[redesign-assessment-ai-era]]. Kwa hati ya sera ambayo wanafunzi husoma kwa kweli, ona [[course-ai-policy]], na kwa zana za maoni zenyewe, [[ai-feedback-quality]]. [[verify-ai-output]] inashughulikia kile wanafunzi wanapaswa kukagua pale modeli inapotoa dai au chanzo, na ukurasa wa dhana [[coach-not-crutch-ai-writing]] unaeleza kikomo ambacho ukurasa huu unarudia mara kwa mara.
+Upande wa tathmini wa hoja hii, ukiwemo uundaji wa hatua zilizothibitishwa, upo katika [[redesign-assessment-ai-era]]. Kwa hati ya sera ambayo wanafunzi husoma kwa kweli, ona [[course-ai-policy]], na kwa zana za maoni zenyewe, [[ai-feedback-quality|ubora wa maoni ya AI]]. [[verify-ai-output]] inashughulikia kile wanafunzi wanapaswa kukagua pale modeli inapotoa dai au chanzo, na [[coach-not-crutch-ai-writing|Lira na wenzake (2025)]] unaeleza kikomo kinachohusika zaidi.

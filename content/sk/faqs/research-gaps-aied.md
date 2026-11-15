@@ -13,9 +13,9 @@ level: [higher ed]
 audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-11-08T05:10:57-05:00"
+updated: "2026-11-15T16:27:26-05:00"
 translation_of: faqs/research-gaps-aied
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ ai_assist:
 
 Termín na žiadosť o grant je o osem dní a časť o doterajšom stave poznania potrebuje jednu vetu o tom, čo táto oblasť ešte nevie. Alebo vám kolega povedal výboru, že doučovanie s AI zvyšuje výsledky, s odvolaním na dvojročný experiment na 18 stredných školách, a vy ste človek, ktorý musí povedať, čo tá štúdia unesie. Alebo si vyberáte tému dizertácie a zdá sa, že každá jej verzia už bola spracovaná.
 
-Medzery, na ktorých záleží, sa týkajú sily, špecifickosti a použiteľnosti. AI dokáže vykonávať vzdelávacie úlohy; otvorené otázky sú, či konkrétny dizajn prináša trvácny prínos, komu, akým mechanizmom a za akých podmienok. Toto rozlíšenie rozhoduje o dvoch veciach na vašom stole: čo študovať ďalej a čo medzitým prestať tvrdiť. [[limitations-in-aied-research|Obmedzenia výskumu AIEd]] je katalóg, na ktorom táto stránka stojí. Dôkazy o [[intelligent-tutoring|inteligentných doučovacích systémoch]], prediktívnej [[learning-analytics|analytike]], [[generative-ai|generatívnej AI]] a autonómnych agentoch tiež nie sú zameniteľné a výskum používania AI na podporu učenia sa líši od výskumu učenia ľudí o AI, ako vysvetľuje prehľad [[ai-education|AI vo vzdelávaní]].
+Medzery, na ktorých záleží, sa týkajú sily, špecifickosti a použiteľnosti. AI dokáže vykonávať vzdelávacie úlohy; otvorené otázky sú, či konkrétny dizajn prináša trvácny prínos, komu, akým mechanizmom a za akých podmienok. Toto rozlíšenie rozhoduje o dvoch veciach na vašom stole: čo študovať ďalej a čo medzitým prestať tvrdiť. [[limitations-in-aied-research|Obmedzenia výskumu AIEd]] je katalóg, na ktorom to stojí. Dôkazy o [[intelligent-tutoring|inteligentných doučovacích systémoch]], prediktívnej [[learning-analytics|analytike]], [[generative-ai|generatívnej AI]] a autonómnych agentoch tiež nie sú zameniteľné a výskum používania AI na podporu učenia sa líši od výskumu učenia ľudí o AI, ako vysvetľuje prehľad [[ai-education|AI vo vzdelávaní]].
 
 ## Stručná verzia
 
@@ -85,7 +85,7 @@ Chýba validácia celého reťazca hodnotenia, od správania modelu cez [[pedago
 
 AI vytvára dva prepojené problémy hodnotenia: pomáha vytvárať prácu, ktorá sa hodnotí, a môže ovplyvniť, ako sa táto práca boduje.
 
-[[ai-agents-complete-lms-assessment-validity-2026|štúdia o agentoch AI, ktorí plnia hodnotené úlohy v LMS]] v tejto znalostnej báze dokumentuje agentov, ktorí prechádzajú živým bakalárskym kurzom a dokončujú hodnotené aktivity. To ukazuje schopnosť, ktorá spochybňuje predpoklady o dôkazoch vytváraných študentmi. Neustanovuje, aké bežné je takéto používanie, a neruší platnosť asynchrónneho hodnotenia ako kategórie.
+[[ai-agents-complete-lms-assessment-validity-2026|štúdia o agentoch AI, ktorí plnia hodnotené úlohy v LMS]] dokumentuje agentov, ktorí prechádzajú živým bakalárskym kurzom a dokončujú hodnotené aktivity. To ukazuje schopnosť, ktorá spochybňuje predpoklady o dôkazoch vytváraných študentmi. Neustanovuje, aké bežné je takéto používanie, a neruší platnosť asynchrónneho hodnotenia ako kategórie.
 
 Výskumná otázka je, ktoré dizajny ešte podporujú obhájiteľné závery o študentovi. [[eportfolio|Portfóliá]], reflexie, stupňovité odovzdania a záznamy aktivít potrebujú validáciu ako dôkazy namiesto toho, aby sa predpokladalo, že ustanovujú autorstvo alebo porozumenie. Štúdie by mali testovať kombinácie dôkazov proti nezávisle pozorovanej kompetencii a zároveň počítať s prístupnosťou, pracovnou záťažou, súkromím a [[anxiety-and-stress|úzkosťou študentov]]. Podrobnosti drží [[assessment-validity|Assessment Validity]].
 
@@ -199,4 +199,4 @@ Vyučujúci, ktorí chcú verziu na úrovni triedy, môžu pokračovať na [[eva
 
 ## Kam ísť ďalej
 
-[[reporting-interpreting-aied-research|Reportovanie a interpretácia výskumu AIEd]] je reportovacím náprotivkom tejto stránky a [[research-methods-aied|Research Methods in AI in Education]] pokrýva voľby dizajnu za každou medzerou. [[evaluating-ai-interventions-methods|Hodnotenie metód intervencií s AI]] sa zaoberá mierami a porovnávacími dizajnmi, [[checking-whether-educational-ai-works|Overovanie, či vzdelávacia AI funguje]] je kratšou verziou otázky efektívnosti a [[does-ai-help-students-learn|Pomáha AI študentom učiť sa?]] zhromažďuje, čo je známe o trvalom učení. [[theory-development-aied|Theory Development in AI in Education]] a [[equity-ethics-pedagogical-safety-research|Výskum rovnosti, etiky a pedagogickej bezpečnosti]] posúvajú teoretickú a rovnostnú líniu ďalej.
+[[reporting-interpreting-aied-research|Reportovanie a interpretácia výskumu AIEd]] je reportovacím náprotivkom a [[research-methods-aied|Research Methods in AI in Education]] pokrýva voľby dizajnu za každou medzerou. [[evaluating-ai-interventions-methods|Hodnotenie metód intervencií s AI]] sa zaoberá mierami a porovnávacími dizajnmi, [[checking-whether-educational-ai-works|Overovanie, či vzdelávacia AI funguje]] je kratšou verziou otázky efektívnosti a [[does-ai-help-students-learn|Pomáha AI študentom učiť sa?]] zhromažďuje, čo je známe o trvalom učení. [[theory-development-aied|Theory Development in AI in Education]] a [[equity-ethics-pedagogical-safety-research|Výskum rovnosti, etiky a pedagogickej bezpečnosti]] posúvajú teoretickú a rovnostnú líniu ďalej.

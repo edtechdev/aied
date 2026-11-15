@@ -12,9 +12,9 @@ research_method: [literature review, experiment]
 audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:25:20-05:00"
 translation_of: faqs/ai-guidance-children-under-13
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Uvjeti dobavljača kažu da je alat namijenjen korisnicima od 13 godina i starij
 
 U tom su zahtjevu isprepletena tri pitanja: što šestogodišnje dijete smije raditi s tim sustavima, što škola duguje obiteljima čija djeca susreću umjetnu inteligenciju kod kuće i što učiniti kada zabrana nije odgovor koji možete braniti.
 
-Kratak odgovor koji možete dati odboru: stupnjujte pristup prema dobi, podučite djecu kako su ti sustavi izgrađeni prije nego im predate neki od njih i zadržite odraslu osobu u petlji gdje god dijete ne može procijeniti rezultat. Sveobuhvatna zabrana opcija je s najmanje dokaza u svojoj osnovi. U ovoj bazi znanja ne postoji nijedno istraživanje o zabranama prema dobi, a većina izloženosti te dobne skupine događa se kod kuće, kamo školsko pravilo ne dopire.
+Kratak odgovor koji možete dati odboru: stupnjujte pristup prema dobi, podučite djecu kako su ti sustavi izgrađeni prije nego im predate neki od njih i zadržite odraslu osobu u petlji gdje god dijete ne može procijeniti rezultat. Sveobuhvatna zabrana opcija je s najmanje dokaza u svojoj osnovi. Ne postoji nijedno istraživanje o zabranama prema dobi, a većina izloženosti te dobne skupine događa se kod kuće, kamo školsko pravilo ne dopire.
 
 ## Kratka verzija
 
@@ -52,7 +52,7 @@ Njihova je evaluacija jedno anketno istraživanje nakon izlaganja s 831 sudionik
 
 Dva izdanja pokazuju i čemu služi granica. Osnovnoškolska skupina dobiva aktivnosti na platformama koje su s postupnom potporom i negenerativne, pa dijete uči što sustav radi bez sustava koji mu uzvraća. Napredna skupina povezuje etičko rezoniranje s nadziranom generativnom upotrebom. Osoblje koje očekuje da će angažman slijediti sofisticiranost alata obično nalazi suprotno.
 
-Ono što vam stupnjevanje daje jest obranjiv redoslijed postupaka. Mnoge škole rade obrnuto, kupuju chatbot u jesen, a o njemu poučavaju u proljeće, a dokazi o takvom redoslijedu nalaze se niže na ovoj stranici.
+Ono što vam stupnjevanje daje jest obranjiv redoslijed postupaka. Mnoge škole rade obrnuto, kupuju chatbot u jesen, a o njemu poučavaju u proljeće, kada je obranjiv redoslijed obrnut.
 
 ## Počnite s najmlađom djecom uz igru, stvaranje i strojeve
 
@@ -126,7 +126,7 @@ Za ovu se dobnu skupinu to preslikava u slijed: prvo o njoj i o njezinu oblikova
 
 Dokument za odbor može obećati datum revizije i definiciju uspjeha koju vaša škola doista može provjeriti: održane lekcije, učitelje koji mogu odgovoriti na roditeljsko pitanje, zahtjeve za podacima odgovorene napismeno. Tvrdnja o dobitku u učenju nadmašila bi svako ovdje citirano istraživanje.
 
-U ovoj bazi znanja nema istraživanja o zabranama prema dobi. Ništa ovdje ne može riješiti pitanje funkcioniraju li zabrane koje se sada pojavljuju u nekim školskim sustavima, a poštena verzija te rečenice pripada vašem dokumentu za odbor. Ono što dokazi pokazuju jest da alternativa zabrani nije laissez-faire. [[moral-panic-genai-classroom|Istraživanje dostupnosti nasuprot integraciji generativne umjetne inteligencije]] utvrdilo je da je stavljanje generativne umjetne inteligencije na raspolaganje bez podučavanja učenika kako je rabiti bilo povezano sa značajno nižom izvedbom na primijenjenim pitanjima (ω² = 0,35), dok je izričito podučavanje njezine upotrebe za zadatke poput sažimanja vratilo primijenjenu izvedbu na razine prije generativne umjetne inteligencije i nadmašilo osnovnu razinu na jednom težem kvizu. Ova se dobna skupina može podučavati: gore opisani program za četvrti razred proizveo je učinke od *d* = 1,12 do 1,31.
+Nema istraživanja o zabranama prema dobi. Ništa ovdje ne može riješiti pitanje funkcioniraju li zabrane koje se sada pojavljuju u nekim školskim sustavima, a poštena verzija te rečenice pripada vašem dokumentu za odbor. Ono što dokazi pokazuju jest da alternativa zabrani nije laissez-faire. [[moral-panic-genai-classroom|Istraživanje dostupnosti nasuprot integraciji generativne umjetne inteligencije]] utvrdilo je da je stavljanje generativne umjetne inteligencije na raspolaganje bez podučavanja učenika kako je rabiti bilo povezano sa značajno nižom izvedbom na primijenjenim pitanjima (ω² = 0,35), dok je izričito podučavanje njezine upotrebe za zadatke poput sažimanja vratilo primijenjenu izvedbu na razine prije generativne umjetne inteligencije i nadmašilo osnovnu razinu na jednom težem kvizu. Ova se dobna skupina može podučavati: gore opisani program za četvrti razred proizveo je učinke od *d* = 1,12 do 1,31.
 
 ## U čemu škole griješe
 

@@ -6,9 +6,9 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-11-01T11:34:42-05:00"
+updated: "2026-11-15T16:30:24-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
 
-V osnově modulu je řádek s nápisem „aktivita s AI“ a nikdo nedokáže říct, co nahrazuje. Nebo vás vyučující požádal, abyste do kurzu, který už funguje, přidali chatbota, a vaším úkolem je umístit ho tak, aby nerozbil tu část, díky které kurz fungoval.
+V osnově modulu je řádek s nápisem „aktivita s AI“ a nikdo nedokáže říct, co nahrazuje. Nebo vás vyučující požádal, abyste do kurzu, který už funguje, přidali [[conversational-ai|chatbota]], a vaším úkolem je umístit ho tak, aby nerozbil tu část, díky které kurz fungoval.
 
 Začněte od cíle učení a od aktivity, která k němu vede. Tentýž model může být scaffolding, [[socratic-method|sokratovský]] partner, čtenář návrhů, [[simulation|simulace]] nebo automat na odpovědi, a to, který z nich dostanete, závisí na návrhu, ne na modelu. Pojmenujte režim, který stavíte, postavte pokus studujícího před jakoukoli pomoc a ponechte v kurzu alespoň jednu cestu, která funguje bez nástroje.
 
@@ -42,7 +42,7 @@ Začněte od cíle učení a od aktivity, která k němu vede. Tentýž model m�
 
 ## Rozhodněte, co studující dělá bez nástroje
 
-Koncept [[pedagogy|Pedagogiky a výukové strategie]] v této znalostní bázi dává test: zachovává tato konfigurace aktivitu, která produkuje zamýšlené učení? Odpovězte na to na papíře, dřív než kdokoli vybere nějakou funkci.
+Koncept [[pedagogy|Pedagogiky a výukové strategie]] dává test: zachovává tato konfigurace aktivitu, která produkuje zamýšlené učení? Odpovězte na to na papíře, dřív než kdokoli vybere nějakou funkci.
 
 [[finkelstein-principled-ai-education-2025|Rámec zásadového vzdělávání s AI]] vyslovuje obecné pravidlo: technologie má spíše rozšiřovat než vytlačovat lidské schopnosti, které má vzdělávání rozvíjet. Přepsáno do testu pro jeden modul to znamená pojmenovat schopnost, pojmenovat aktivitu, která ji buduje, a zeptat se, zda AI stojí uvnitř této aktivity, nebo vedle ní.
 
@@ -72,7 +72,7 @@ Z toho plynou dvě poučení pro návrh s AI. Umístěte nástroj tam, kde sled 
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] chápe čas jako navrženou oporu, nikoli jako vlastnost studujícího: kurz s vlastním tempem nese týdenní příděl kolem 100 minut s cílem kolem 20 minut denně, připomínky respektující čas, přehled o pokroku a krátkou kontrolu na konci podkapitoly o 3 až 12 otázkách. Výchozí stav, na který tento návrh odpovídá, je krutý: téměř 25 procent z více než 600 studujících začíná až v posledním týdnu a 95 procent z této skupiny neuspěje.
 
-Čtěte to jako návrhový podnět, ne jako prokázaný účinek. Práce srovnává pozdější kurz s dřívějším, místo aby provedla kontrolovaný pokus, takže zlepšení nelze oddělit od změny kohorty a předmětu, a připomínky dost silné na to, aby posunuly dobu studia, jsou také otázkou [[privacy|soukromí]], na kterou musíte odpovědět v sylabu.
+Čtěte to jako návrhový podnět, ne jako prokázaný účinek. Práce srovnává pozdější kurz s dřívějším, místo aby provedla [[rct|kontrolovaný pokus]], takže zlepšení nelze oddělit od změny kohorty a předmětu, a připomínky dost silné na to, aby posunuly dobu studia, jsou také otázkou [[privacy|soukromí]], na kterou musíte odpovědět v sylabu.
 
 ## Rozhodněte, co zadržet a kdy to vrátit
 
@@ -100,7 +100,7 @@ Cílem přepracování je efektivita. Navrhovat výstupy a kritéria s modelem j
 
 **„Nemáme čas přeřazovat celý kurz.“** Pak přeřaďte jeden modul a jedno hodnocení. Zlom „zadržet, potom zesílit“ je jeden kontrolní bod a sled „nejdřív přemýšlet“ jsou tři pokyny na jednom listu.
 
-**„Naše funkce s AI už má ochranné mantinely.“** Mantinely omezují, co model říká. Nerozhodují o tom, zda studující nejdřív zkusil, zda se podpora stahuje, ani zda existuje cesta bez AI. To jsou návrhová rozhodnutí ve vašem kurzu, ne nastavení produktu.
+**„Naše funkce s AI už má ochranné [[guardrails|mantinely]].“** Mantinely omezují, co model říká. Nerozhodují o tom, zda studující nejdřív zkusil, zda se podpora stahuje, ani zda existuje cesta bez AI. To jsou návrhová rozhodnutí ve vašem kurzu, ne nastavení produktu.
 
 ## Co udělat tento týden
 

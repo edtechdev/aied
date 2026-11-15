@@ -14,9 +14,9 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:30:54-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ Krátká odpověď na tu schůzku: AI může převzít vyhledávání, první ko
 
 **5.** Každou referenci ověřte ručně, autory první, kdykoli se AI dotkla textu.
 
-**6.** Logujte prompty, verze modelů a verze korpusu a naplánujte na to hodiny.
+**6.** Logujte prompty, verze modelů a verze datové sady a naplánujte na to hodiny.
 
 ## Rozhodněte, čeho se AI smí dotknout, dřív než projekt začne
 
@@ -89,13 +89,13 @@ Selhání je konkrétní. V [[zhang-platform-scores-miss-ai-teaching-agents-2026
 
 Přijetí předběhlo vykazování. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta a Lin (2026)]] analyzovali 888 článků o automatizaci review: od roku 2023 uvedlo 38,0 % článků o softwaru a produktech žádné hodnocení, proti 9,3 % u článků o LLM, a přístup k modelům byl drtivě proprietární (84,1 %). Ani příznivé celkové posouzení neznamenalo vhodnost k delegování, protože 52 % ze 118 článků o LLM, které uváděly jen pozitiva, přesto uvedlo obavu, že postup nedosahuje laťky, kterou jeho role vyžaduje. Jejich rámec [[meta-analysis-systematic-review|PRISMA]]-LLM odděluje zveřejnění implementace od hodnocení citlivého na důsledky a svých pět úrovní bere jako úrovně zveřejnění, ne jako úrovně rizika.
 
-Praktická verze: pojmenujte systém a jeho verzi, prompty, verzi korpusu, co člověk zkontroloval a kde to selhalo. Držte logy promptů a odpovědí, protože plynulý generovaný seznam témat vypadá nevyhnutelně dávno předtím, než jeho evidenční práce vůbec začala ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
+Praktická verze: pojmenujte systém a jeho verzi, prompty, verzi datové sady, co člověk zkontroloval a kde to selhalo. Držte logy promptů a odpovědí, protože plynulý generovaný seznam témat vypadá nevyhnutelně dávno předtím, než jeho evidenční práce vůbec začala ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
 Naplánujte i hodiny. [[persistent-ai-agents-academic-research|Případová studie jednoho výzkumníka za 115 dní]] s trvalým výzkumným agentem našla jako nejsilnější vzorec rozšíření kapacity, ne prokázané nahrazení práce: jak se hromadila paměť a postupy, rostl rozsah delegované práce, zatímco lidský vstup se nezmenšoval.
 
 ## Veďte praktický výzkum podle stejných pravidel v menším měřítku
 
-Pokud jste přednášející, který zkoumá svůj vlastní kurz, pracujete v nejtenčím prameni korpusu. [[ai-assisted-educational-research|AI-Assisted Educational Research]] to uvádí jako mezeru, ne jako zjištění: AI asistovaný praktický výzkum je pravděpodobně rozšířený a téměř nedokumentovaný a důkazy o automatizaci review ani bibliometrické důkazy neřeší, jak má přednášející zkoumat vlastní výuku.
+Pokud jste přednášející, který zkoumá svůj vlastní kurz, pracujete v nejméně studovaném prameni této literatury. [[ai-assisted-educational-research|AI-Assisted Educational Research]] to uvádí jako mezeru, ne jako zjištění: AI asistovaný praktický výzkum je pravděpodobně rozšířený a téměř nedokumentovaný a důkazy o automatizaci review ani bibliometrické důkazy neřeší, jak má přednášející zkoumat vlastní výuku.
 
 Co se přenáší, je soubor dispozic:
 

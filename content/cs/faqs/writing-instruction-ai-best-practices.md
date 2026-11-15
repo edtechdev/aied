@@ -8,9 +8,9 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:21:23-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
@@ -127,7 +127,7 @@ Zadejte kritiku modelu jako oborovou práci. Dejte studentům interpretaci básn
 
 ### Kurzy STEM a laboratorní protokoly
 
-Nejprve jedna výhrada: tato znalostní báze má mnohem silnější důkazy o akademickém psaní s podporou AI obecně než o psaní laboratorních protokolů konkrétně. Praktická a laboratorní [[pedagogy|pedagogika]] zůstávají méně pokryté, a to i v literatuře o [[engineering-education|inženýrském vzdělávání]], takže to, co následuje, aplikuje poznatky o psaní, odklánění, validitě a inženýrství na prostředí, které tyto studie netestovaly.
+Nejprve jedna výhrada: důkazy jsou mnohem silnější pro akademické psaní s podporou AI obecně než pro psaní laboratorních protokolů konkrétně. Praktická a laboratorní [[pedagogy|pedagogika]] zůstávají méně pokryté, a to i v literatuře o [[engineering-education|inženýrském vzdělávání]], takže to, co následuje, aplikuje poznatky o psaní, odklánění, validitě a inženýrství na prostředí, které tyto studie netestovaly.
 
 Vymezte hranici kolem vědeckého uvažování, ne kolem prózy jako celku. Studenti zůstávají odpovědní za pozorování, surová data, výpočty, nejistotu, grafy, volby analýzy, výsledky a uvažování od tvrzení k důkazům. Jakmile tyto věci existují, AI může rozumně pomoci s organizací, čitelností, přechody a oborovými konvencemi, což je stejné dělení na povrch a uvažování jako v [[layer-sensitive-cognitive-offloading-writing-2026|Chenově studii]].
 
@@ -151,7 +151,7 @@ Studenti si podobnou hranici vedou sami. V kurzu technické komunikace pro pregr
 
 ## Posuďte důkazy, než přepíšete sylabus
 
-Argument pro tyto návrhy je slibný a zatím ne dost silný, aby ospravedlnil jednu univerzální zásadu psaní s AI. Některé z nejlepších důkazů pocházejí z rozsáhlých výzkumů ve výuce, jako je [[pairr-ai-peer-review-2025|PAIRR]] s 654 studenty. Velká část zbytku stojí na kvaziexperimentech, malých experimentálních vzorcích, pojmových analýzách a práci z let 2025 až 2026, která je stále nová: [[layer-sensitive-cognitive-offloading-writing-2026|Chenova studie ohraničeného psaní]] měla 168 studentů, ale jen šest intaktních tříd, [[ai-writing-support-stage-ownership-2026|studie vlastnictví]] použila krátkou experimentální psací úlohu a studie hlásící okamžité zlepšení kvality po procvičování s ChatGPT zahrnovala jen 21 zahraničních studentů prvního ročníku a neprokázala dlouhodobý [[transfer-of-learning|přenos]] ([[chatgpt-academic-writing-quality-ownership-2026|studie kvality a vlastnictví]]). Co znalostní báze [[ai-education|AI ve vzdělávání]] podporuje, je soubor designových principů, a nejspolehlivějším zjištěním napříč studiemi v ní je zachovat studentovu [[agency|agentnost]], [[evaluative-judgment|hodnotící úsudek]], samostatnou kompetenci, oborové uvažování a lidskou zpětnou vazbu, zatímco AI rozšiřuje přístup ke kritice, procvičování, podpoře revize a jazykové pomoci.
+Argument pro tyto návrhy je slibný a zatím ne dost silný, aby ospravedlnil jednu univerzální zásadu psaní s AI. Některé z nejlepších důkazů pocházejí z rozsáhlých výzkumů ve výuce, jako je [[pairr-ai-peer-review-2025|PAIRR]] s 654 studenty. Velká část zbytku stojí na kvaziexperimentech, malých experimentálních vzorcích, pojmových analýzách a práci z let 2025 až 2026, která je stále nová: [[layer-sensitive-cognitive-offloading-writing-2026|Chenova studie ohraničeného psaní]] měla 168 studentů, ale jen šest intaktních tříd, [[ai-writing-support-stage-ownership-2026|studie vlastnictví]] použila krátkou experimentální psací úlohu a studie hlásící okamžité zlepšení kvality po procvičování s ChatGPT zahrnovala jen 21 zahraničních studentů prvního ročníku a neprokázala dlouhodobý [[transfer-of-learning|přenos]] ([[chatgpt-academic-writing-quality-ownership-2026|studie kvality a vlastnictví]]). Co výzkum [[ai-education|AI ve vzdělávání]] podporuje, je soubor designových principů, a nejspolehlivějším zjištěním napříč studiemi v ní je zachovat studentovu [[agency|agentnost]], [[evaluative-judgment|hodnotící úsudek]], samostatnou kompetenci, oborové uvažování a lidskou zpětnou vazbu, zatímco AI rozšiřuje přístup ke kritice, procvičování, podpoře revize a jazykové pomoci.
 
 Ten mix má praktický důsledek. Změňte jeden úkol, uchovejte artefakt a porovnejte příští ročník s tímto na stejné míře. Pravidlo, které můžete po jednom semestru revidovat, má větší cenu než zásada, kterou nemůžete otestovat, a malé studie výše vám neřeknou, co se stane ve vašem kurzu.
 
@@ -169,7 +169,7 @@ Ten mix má praktický důsledek. Změňte jeden úkol, uchovejte artefakt a por
 
 ## Co vám na to řeknou
 
-**„Nemám čas číst další artefakt.“** Tak udělejte artefakt malý: čtyři sloupce rozhodovací tabulky nebo pět minut psaní ve výuce jako samostatný vzorek. Korpus nehlásí pro tyto návrhy žádná data o čase na známkování, takže nárokovost práce musíte otestovat na jednom úkolu, ne ji předpokládat z této stránky.
+**„Nemám čas číst další artefakt.“** Tak udělejte artefakt malý: čtyři sloupce rozhodovací tabulky nebo pět minut psaní ve výuce jako samostatný vzorek. Žádná studie pro tyto návrhy nehlásí data o čase na známkování, takže nárokovost práce musíte otestovat na jednom úkolu, ne ji předpokládat z této stránky.
 
 **„Moji studenti budou AI používat bez ohledu na pravidlo.“** Budou, a designová otázka je, kterou odpověď váš úkol dělá nejsnazší. Deklarace, která nic nestojí, a rubrika, která platí za proces, činí z uvedení použití levnější cestu. Ten mechanismus pochází z modelování, ne z pokusu se zásadou uvádění použití, takže předpověď berte jako rozumnou a nepotvrzenou.
 
@@ -179,7 +179,7 @@ Ten mix má praktický důsledek. Změňte jeden úkol, uchovejte artefakt a por
 
 **„Model hodnotí tento úkol stejně dobře jako já.“** Kalibrované systémy s podrobnými rubrikami a vypracovanými příklady dokážou určité úkoly skórovat dobře. Obecné známkování ne a Mathew et al. ukazují, že neshoda sleduje kvalitu eseje, místo aby se rozptylovala náhodně, což je těžší druh chyby, kterého si všimnout. Otestujte nástroj na své vlastní oznámkované sadě, než se dotkne známky.
 
-**„Tohle znevýhodňuje studenty se slabší akademickou angličtinou.“** Může, pokud pravidlo bere vyjádření a autorství jako jednu věc. Oddělte je a prověřte zpětnou vazbu od AI na vzorec, který našli Tan et al., kde identický text sklidil více chvály a méně věcné kritiky, jakmile byly v promptu demografické nebo vzdělanostní údaje. Korpus to zkreslení dokumentuje. Neuvádí otestovanou opravu, takže vaše vlastní srovnání je tou kontrolou.
+**„Tohle znevýhodňuje studenty se slabší akademickou angličtinou.“** Může, pokud pravidlo bere vyjádření a autorství jako jednu věc. Oddělte je a prověřte zpětnou vazbu od AI na vzorec, který našli Tan et al., kde identický text sklidil více chvály a méně věcné kritiky, jakmile byly v promptu demografické nebo vzdělanostní údaje. To zkreslení je doloženo. Neuvádí otestovanou opravu, takže vaše vlastní srovnání je tou kontrolou.
 
 ## Co udělat tento týden
 
@@ -195,4 +195,4 @@ Ten mix má praktický důsledek. Změňte jeden úkol, uchovejte artefakt a por
 
 ## Kam dál
 
-Hodnotící strana tohoto argumentu, včetně návrhu autentizovaných kroků, je v [[redesign-assessment-ai-era]]. Dokument zásad, který studenti skutečně čtou, najdete v [[course-ai-policy]], a samotné nástroje zpětné vazby v [[ai-feedback-quality]]. [[verify-ai-output]] pokrývá, co by studenti měli kontrolovat, když model dodá tvrzení nebo zdroj, a konceptuální stránka [[coach-not-crutch-ai-writing]] pojmenovává hranici, ke které se tato stránka stále vrací.
+Hodnotící strana tohoto argumentu, včetně návrhu autentizovaných kroků, je v [[redesign-assessment-ai-era]]. Dokument zásad, který studenti skutečně čtou, najdete v [[course-ai-policy]], a samotné nástroje zpětné vazby v [[ai-feedback-quality|kvalitě zpětné vazby od AI]]. [[verify-ai-output]] pokrývá, co by studenti měli kontrolovat, když model dodá tvrzení nebo zdroj, a [[coach-not-crutch-ai-writing|Lira et al. (2025)]] pojmenovává hranici, na které záleží nejvíc.

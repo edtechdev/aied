@@ -1,7 +1,7 @@
 ---
 title: "Cum verific dacă întrebările de quiz și de examen generate de IA sunt cu adevărat bune?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:17:19-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-05T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Ceri douăzeci de întrebări din notițele tale de curs. Ele vin înapoi cu barem, explicații, etichete de dificultate și categorii din taxonomia lui Bloom, într-un document formatat care arată terminat. Numele tău urmează să apară pe el.
 
-Răspunsul scurt pe care să îl dai unui coleg: întrebările generate sunt candidate, nu o evaluare. Rezolvă fiecare item singur, verifică ce cere itemul ca studentul să facă de fapt și află cum răspund studenții la el înainte ca el să conteze. În cele două studii cele mai mari din această bază de cunoștințe, semnalul interesant nu este că generarea funcționează, ci unde eșuează. Generarea iterativă într-un flux de lucru specific cursului a produs examene cu alegere multiplă utilizabile în 71 de clase universitare ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). Într-un audit de știința datelor pe 311 întrebări implementate, etichetele de dificultate ale modelului au urmat aproape perfect nivelurile Bloom pe care le generase alături de ele (Spearman ρ = 0,90), în timp ce au urmat ce au obținut de fapt studenții la ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An și Wang, 2026]]). Eticheta descria promptul, nu măsura itemul.
+Iată răspunsul scurt: întrebările generate sunt candidate, nu o evaluare. Rezolvă fiecare item singur, verifică ce cere itemul ca studentul să facă de fapt și află cum răspund studenții la el înainte ca el să conteze. În cele două studii cele mai mari, semnalul interesant nu este că generarea funcționează, ci unde eșuează. Generarea iterativă într-un flux de lucru specific cursului a produs examene cu alegere multiplă utilizabile în 71 de clase universitare ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). Într-un audit de știința datelor pe 311 întrebări implementate, etichetele de dificultate ale modelului au urmat aproape perfect nivelurile Bloom pe care le generase alături de ele (Spearman ρ = 0,90), în timp ce au urmat ce au obținut de fapt studenții la ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An și Wang, 2026]]). Eticheta descria promptul, nu măsura itemul.
 
 ## Pe scurt
 
@@ -93,7 +93,6 @@ Revizuiește și păstrează evidența: versiunea aprobată, rezultatul pe care 
 Instructorul verifică dacă scenariul susține cu adevărat baremul, dacă nu cumva două opțiuni exprimă aceeași idee și dacă răspunsul nu depinde de terminologie pe care cursul nu a introdus-o niciodată. O întrebare de continuare pe un rând, „ce detaliu susține alegerea ta?”, scoate la suprafață raționamentul pe care opțiunea selectată îl ascunde. Adaptarea este netestată ca format de item, iar valoarea ei este mai îngustă: întrebările de revizuire de mai sus pot fi puse înainte ca un item să fie administrat, iar un barem greșit poate fi reparat înainte ca studenții să îl vadă.
 
 Când studenții semnalează la scară că nu le place ceva, semnalul are structură. Într-o analiză a 5.214.211 sesiuni de întrebări de practică prezentate într-o platformă de manual, dezaprobările au ajuns la 2,00 la 1.000 de sesiuni, față de 3,31 aprobări, și doar 22.844 dintre cele 809.848 de întrebări au primit vreodată o evaluare ([[johnson-student-ratings-automatically-generated-questions-2025|Johnson et al., 2025]]). Tiparul din voturi nu era aleatoriu: întrebările care cereau răspunsuri cu adverbe au atras 5,23 de dezaprobări la 1.000, față de 1,76 pentru răspunsurile cu adjective, iar importanța propoziției (odds ratio 2,38) și similaritatea textului răspunsului (1,64) au influențat și ele evaluarea. Regula empirică ajustată a autorilor a fost de aproximativ 1,62 dezaprobări la 1.000 când ambele semnale de importanță erau prezente. Punctul practic este că evaluările studenților sunt un canal de măsurare lent, dar real: o platformă care elimină întrebările respinse în mod repetat închide bucla, iar un instructor care testează câteva itemi obține același semnal mai repede întrebând ce detaliu a pus la îndoială studentul.
-
 
 Pentru studenții care își generează propriile întrebări de practică, aceeași regulă se aplică la nivelul lor: încearcă itemul, verifică explicația față de sursele cursului și adu cazurile nerezolvabile la cineva care cunoaște materia. [[study-with-ai|Practica de studiu]] care îi învață pe studenți să accepte fără critică baremuri generate le formează obiceiul greșit.
 

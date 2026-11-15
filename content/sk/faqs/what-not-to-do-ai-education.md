@@ -1,9 +1,9 @@
 ---
 title: "Čomu by sa mali vzdelávatelia pri práci s AI vyhýbať?"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-11T06:20:00-05:00"
+updated: "2026-11-15T16:27:26-05:00"
 type: faq
-connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors]
+connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors, adopting-ai-options-and-issues]
 weight: 90
 foundations: [misconceptions, reducing-ai-misuse, ai-literacy, limitations-in-aied-research]
 pedagogy: [reflection, professional-training]
@@ -12,7 +12,7 @@ assessment: [assessment-validity, ai-detection, self-report-measures, feedback]
 ethics: [privacy, pedagogical-safety, equity-in-ai-education, accessibility, automation-bias]
 audience: [instructors, learners, parents and families, faculty developers, software developers, administrators, researchers]
 translation_of: faqs/what-not-to-do-ai-education
-source_updated: "2026-11-11T06:20:00-05:00"
+source_updated: "2026-11-14T04:30:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom.*
 
-Väčšina usmernení k AI vo vzdelávaní hovorí, čo skúsiť. Táto stránka zbiera postupy, o ktorých dôkazy hovoria, že s nimi treba prestať, usporiadané podľa roly, ktorá by s nimi musela prestať. Nesprávne presvedčenia riešime inde: zaoberá sa nimi [[addressing-common-misconceptions-ai-education|FAQ o mylných predstavách]] a koncepčná stránka [[misconceptions]] vysvetľuje, prečo pretrvávajú. To, čo výskum zatiaľ nevie povedať, patrí k [[limitations-in-aied-research|obmedzeniam výskumu v AIEd]]. Tu ide o krok po presvedčení: čo ľudia robia, čo ich to stojí a čo robiť namiesto toho.
+Väčšina usmernení k AI vo vzdelávaní hovorí, čo skúsiť. Postupy, o ktorých dôkazy hovoria, že s nimi treba prestať, sú usporiadané podľa roly, ktorá by s nimi musela prestať. Nesprávne presvedčenia riešime inde: zaoberá sa nimi [[addressing-common-misconceptions-ai-education|FAQ o mylných predstavách]] a koncepčná stránka [[misconceptions]] vysvetľuje, prečo pretrvávajú. To, čo výskum zatiaľ nevie povedať, patrí k [[limitations-in-aied-research|obmedzeniam výskumu v AIEd]]. Tu ide o krok po presvedčení: čo ľudia robia, čo ich to stojí a čo robiť namiesto toho.
 
 Tri zlyhania sa opakujú naprieč rolami.
 

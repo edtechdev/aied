@@ -1,7 +1,7 @@
 ---
 title: "Cum putem aborda concepțiile greșite frecvente despre IA în educație?"
 created: "2026-09-04T04:39:00-04:00"
-connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
+connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]
 technology: [prompt-engineering]
@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:26:26-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 
 Prorectorul tău vrea o fișă de o singură pagină cu „mituri despre IA” pentru ședința cadrelor didactice din primăvară. Sau un membru al consiliului de administrație a citit că roboții de conversație distrug gândirea critică și vrea o poziție până vineri. Sau tu ești persoana care trebuie să explice, în scris, de ce departamentul nu va interzice pur și simplu instrumentul, și ai rămas fără feluri de a spune că o interdicție nu este o pedagogie.
 
-Fiecare convingere din această pagină pornește de la ceva ce o persoană rezonabilă a văzut. Textul fluent chiar pare exact. O lucrare șlefuită chiar arată ca învățare. Un tutor care răspunde la întrebare chiar se simte ca un ajutor, iar o politică în care apare cuvântul „interzis” chiar se simte ca o decizie. Corectarea care funcționează numește ceea ce observația nu îți poate spune, apoi îți dă o verificare pe care persoana o poate rula luni.
+Fiecare dintre aceste convingeri pornește de la ceva ce o persoană rezonabilă a văzut. Textul fluent chiar pare exact. O lucrare șlefuită chiar arată ca învățare. Un tutor care răspunde la întrebare chiar se simte ca un ajutor, iar o politică în care apare cuvântul „interzis” chiar se simte ca o decizie. Corectarea care funcționează numește ceea ce observația nu îți poate spune, apoi îți dă o verificare pe care persoana o poate rula luni.
 
 Răspunsul pe care să îl dai unui coleg, dintr-o suflare: efectul educațional al IA depinde de cine o folosește, pentru ce sarcină, ce gândire execută instrumentul, ce responsabilitate rămâne la persoană și cum este evaluată învățarea. Încrederea, viteza, angajamentul și finalizarea sarcinii sunt trăsături ale folosirii. Niciuna dintre ele nu este dovadă că s-a schimbat capacitatea.
 
@@ -62,7 +62,7 @@ Mediile ascund exact variația care decide o întrebare de echitate. Efectele di
 
 ### „Au raportat că au învățat mult.”
 
-[[self-report-measures|Autodeclararea]] măsoară percepția, acceptarea, [[anxiety-and-stress|anxietatea]] și [[self-efficacy|autoeficacitatea]], și este bună la toate patru. Nu este o măsură a capacității demonstrate, pentru că oamenii pot fi încrezători și greșiți sau competenți și lipsiți de încredere. Sinteza wiki a cercetării despre alfabetizarea în IA a cadrelor didactice raportează un decalaj substanțial între [[self-assessment|autoevaluare]] și performanța măsurată, iar cadrele didactice din ea și-au supraestimat competența considerabil ([[ai-literacy-assessment-misalignment|Evaluarea alfabetizării în IA: decalajul dintre autodeclarare și performanță]]). Perechează fiecare autodeclarare cu o sarcină: identifică o eroare într-un rezultat, verifică o sursă, alege o strategie de folosire, observă prejudecata sau servilismul, revizuiește un răspuns defectuos, calibrează încrederea față de acuratețe. Un astfel de item într-un chestionar transformă o opinie într-un rezultat.
+[[self-report-measures|Autodeclararea]] măsoară percepția, acceptarea, [[anxiety-and-stress|anxietatea]] și [[self-efficacy|autoeficacitatea]], și este bună la toate patru. Nu este o măsură a capacității demonstrate, pentru că oamenii pot fi încrezători și greșiți sau competenți și lipsiți de încredere. O sinteză a cercetării despre alfabetizarea în IA a cadrelor didactice raportează un decalaj substanțial între [[self-assessment|autoevaluare]] și performanța măsurată, iar cadrele didactice din ea și-au supraestimat competența considerabil ([[ai-literacy-assessment-misalignment|Evaluarea alfabetizării în IA: decalajul dintre autodeclarare și performanță]]). Perechează fiecare autodeclarare cu o sarcină: identifică o eroare într-un rezultat, verifică o sursă, alege o strategie de folosire, observă prejudecata sau servilismul, revizuiește un răspuns defectuos, calibrează încrederea față de acuratețe. Un astfel de item într-un chestionar transformă o opinie într-un rezultat.
 
 ### „Un student simulat este un înlocuitor ieftin pentru unul real.”
 
@@ -172,7 +172,7 @@ El demonstrează performanța unei persoane plus un instrument. Competența se v
 
 ### „Alfabetizarea în IA înseamnă să știi să scrii un prompt bun.”
 
-Promptarea este o singură deprindere operațională. Domeniul care contează pentru un profesor sau un angajat este mai larg: ce pot și ce nu pot face [[ai-technologies|sistemele de IA]] în mod fiabil, cum să evaluezi acuratețea și prejudecata, cum afectează IA validitatea evaluării, când descărcarea devine deplasare, cerințele de confidențialitate și accesibilitate, cum se potrivește folosirea cu disciplina și când să nu o folosești deloc. Sinteza wiki a constatat că profesorii și-au supraestimat substanțial competența în IA atunci când autodeclarările au fost comparate cu măsuri de performanță, iar competența demonstrată a prezis integrarea în clasă mult mai bine decât încrederea ([[ai-literacy-assessment-misalignment|Evaluarea alfabetizării în IA: decalajul dintre autodeclarare și performanță]]). Tehnicile de promptare îmbătrânesc și ele mai repede decât judecata. Predă [[prompt-engineering|Ingineria promptului]] ca deprindere și evaluează [[teacher-ai-competency|Competența cadrelor didactice în IA]] ca deprinderea mai largă.
+Promptarea este o singură deprindere operațională. Domeniul care contează pentru un profesor sau un angajat este mai larg: ce pot și ce nu pot face [[ai-technologies|sistemele de IA]] în mod fiabil, cum să evaluezi acuratețea și prejudecata, cum afectează IA validitatea evaluării, când descărcarea devine deplasare, cerințele de confidențialitate și accesibilitate, cum se potrivește folosirea cu disciplina și când să nu o folosești deloc. O sinteză a dovezilor a constatat că profesorii și-au supraestimat substanțial competența în IA atunci când autodeclarările au fost comparate cu măsuri de performanță, iar competența demonstrată a prezis integrarea în clasă mult mai bine decât încrederea ([[ai-literacy-assessment-misalignment|Evaluarea alfabetizării în IA: decalajul dintre autodeclarare și performanță]]). Tehnicile de promptare îmbătrânesc și ele mai repede decât judecata. Predă [[prompt-engineering|Ingineria promptului]] ca deprindere și evaluează [[teacher-ai-competency|Competența cadrelor didactice în IA]] ca deprinderea mai largă.
 
 ### „Cunoștințele disciplinare fundamentale sunt perimate pentru că IA le poate regăsi.”
 
@@ -258,7 +258,7 @@ Rușinarea produce defensivă și ascundere, iar mesaje ca „doar studenții le
 
 Mecanica este suficient de scurtă încât să o folosești într-o ședință a cadrelor didactice. Numește convingerea, spune de ce pare adevărată, respinge-o clar, explică eșecul, dă modelul mai bun și încheie cu o aplicare.
 
-Versiunea lucrată, pe care o poți adapta la orice element din această pagină:
+Versiunea lucrată, pe care o poți adapta la orice convingere din listă:
 
 > **Concepție greșită:** „O sarcină bună generată de IA arată că studentul a învățat.”
 > **Refutare:** „Nu este neapărat adevărat. Produsul arată ce au produs împreună studentul și IA, dar nu dezvăluie ce raționament a executat studentul.”

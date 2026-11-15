@@ -11,9 +11,9 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
-updated: "2026-10-29T14:24:50-04:00"
+updated: "2026-11-15T16:21:14-05:00"
 translation_of: faqs/reducing-over-reliance
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -59,7 +59,7 @@ Bihevioralni su instrumenti slabije razvijeni. [[pause-ai-cognitive-offloading-s
 
 ## Stavite učenički pokušaj ispred alata
 
-Najjasniji ispitani slijed jest „prvo misli, ChatGPT kasnije“. [[think-first-chatgpt-later-2026|Wong i Qiu (2026)]] rasporedili su N = 196 učenika na samostalan rad, na slobodnu upotrebu ChatGPT-a ili na regulirani uvjet: generirajte vlastite ideje, surađujte s ChatGPT-om na njihovu poboljšanju i procjeni, zatim samostalno doradite i predajte jedno rješenje. Skupina sa slobodnom upotrebom proizvela je više kreativnog rada na potpomognutom zadatku, a pala na razinu rada bez alata na kasnijem, težem zadatku koji je rješavala bez ChatGPT-a. Regulirana skupina nije pokazala neposrednu prednost, ali je poslije nadmašila obje druge skupine u samostalnoj kreativnosti.
+Najjasniji ispitani slijed jest „prvo misli, [[generative-ai|ChatGPT]] kasnije“. [[think-first-chatgpt-later-2026|Wong i Qiu (2026)]] rasporedili su N = 196 učenika na samostalan rad, na slobodnu upotrebu ChatGPT-a ili na regulirani uvjet: generirajte vlastite ideje, surađujte s ChatGPT-om na njihovu poboljšanju i procjeni, zatim samostalno doradite i predajte jedno rješenje. Skupina sa slobodnom upotrebom proizvela je više kreativnog rada na potpomognutom zadatku, a pala na razinu rada bez alata na kasnijem, težem zadatku koji je rješavala bez ChatGPT-a. Regulirana skupina nije pokazala neposrednu prednost, ali je poslije nadmašila obje druge skupine u samostalnoj [[creativity|kreativnosti]].
 
 Podatci o upitima objašnjavaju razliku. U reguliranoj skupini 88,6% upita bilo je suradničko, i to je bila jedina vrsta upita značajno povezana s kasnijom samostalnom originalnošću. U skupini sa slobodnom upotrebom 70,9% upita bilo je nesuradničko, a 59,6% jednostavno je tražilo od ChatGPT-a da izravno generira ideje. Isti alat, upitan na dva različita načina, proizveo je dva različita učenika.
 
@@ -75,7 +75,7 @@ Dva detalja iz učionice odlučuju hoće li se slijed održati. Prvi je vrijeme.
 
 U praksi to znači zaštićenu umjetnu inteligenciju u sredini zadatka, gdje posao obavljaju nagovještaji, riješeni primjeri i zadatci za vježbu, i osiguranu provjeru na kraju. Time se i politika upotrebe umjetne inteligencije pretvara u pravilo o smještaju po vještini, koje je lakše napisati i lakše braniti od popisa zabrana.
 
-Nagovještaj je pitanje o učeničkom sljedećem koraku, riješeni primjer sličnog zadatka ili pokazivač na relevantan odlomak. Odgovor je dovršena rečenica koju učenik može zalijepiti. Većina chatbotova opće namjene prema zadanim postavkama proizvodi drugo, u tečnoj prozi koja se čita kao pomoć, i zato je konfiguracija važnija od učeničkih namjera.
+Nagovještaj je pitanje o učeničkom sljedećem koraku, riješeni primjer sličnog zadatka ili pokazivač na relevantan odlomak. Odgovor je dovršena rečenica koju učenik može zalijepiti. Većina [[conversational-ai|chatbotova]] opće namjene prema zadanim postavkama proizvodi drugo, u tečnoj prozi koja se čita kao pomoć, i zato je konfiguracija važnija od učeničkih namjera.
 
 ## Zahtijevajte provjeru i učinite je vidljivom
 
@@ -97,7 +97,7 @@ Odaberite promašaj koji je umjeren i provjerljiv, poput citata koji ne postoji,
 
 Potpomognuti je proizvod slab pokazatelj sposobnosti, pa se barem jedan ocijenjeni trenutak mora odigrati bez alata. Kasniji zadatak bez pomoći u [[think-first-chatgpt-later-2026|radu Wonga i Qiua (2026)]] to je mjerenje. Njihova skupina koja je radila samo ljudski također je pala na težem zadatku koji je slijedio, što isključuje jednostavnu verziju rješenja: ukloniti alat bez podrške učeniku nije intervencija.
 
-Izmjenjivanje načina ima potporu. PAUSE navodi rezultat četvrtog susreta Kosmyne i sur. (2025), gdje su sudionici koji su radili samo glavom, a poslije upotrebljavali ChatGPT, nadmašili trajne korisnike LLM-a. Odgovornost djeluje i preko objašnjavanja: Makransky i sur. (2025) našli su da je tutorski chatbot koji je poticao učenike da povežu ideje i objasne svoje rasuđivanje proizveo bolji rezultat na procjeni od tradicionalne nastave.
+Izmjenjivanje načina ima potporu. PAUSE navodi rezultat četvrtog susreta Kosmyne i sur. (2025), gdje su sudionici koji su radili samo glavom, a poslije upotrebljavali ChatGPT, nadmašili trajne korisnike [[llm|LLM]]-a. Odgovornost djeluje i preko objašnjavanja: Makransky i sur. (2025) našli su da je tutorski chatbot koji je poticao učenike da povežu ideje i objasne svoje rasuđivanje proizveo bolji rezultat na procjeni od tradicionalne nastave.
 
 Za kolegij: izmjenjujte. Rad uz pomoć u vježbi, rad bez pomoći tamo gdje se računa. Čitajte potpomognuti dio kao zapis o učinku u dobrim uvjetima, a dio bez pomoći kao dokaz o učenju. Njihova je usporedba i najkorisniji razgovor koji možete voditi s učenikom koji ne razumije ocjenu.
 
@@ -127,7 +127,7 @@ Formulacija pitanja manje je važna od njegova položaja. Prije cjeline pitajte 
 
 ## Očekujte da će se rizik zgusnuti
 
-[[lodge-loble-cognitive-offloading-2026|Lodge i Loble (2026)]] smještaju rizik u prethodno znanje i samoregulaciju i imenuju **metakognitivni jaz u ravnopravnosti**: dobra upotreba umjetne inteligencije traži resurse koje početnici nemaju, pa učenici kojima je praksa najpotrebnija najvjerojatnije delegiraju samo učenje. Navode da 80% australskih učenika već upotrebljava umjetnu inteligenciju i da to čini dvije trećine nastavnika u nižim razredima srednje škole (OECD 2025).
+[[lodge-loble-cognitive-offloading-2026|Lodge i Loble (2026)]] smještaju rizik u [[prior-knowledge|prethodno znanje]] i samoregulaciju i imenuju **metakognitivni [[equity-in-ai-education|jaz u ravnopravnosti]]**: dobra upotreba umjetne inteligencije traži resurse koje početnici nemaju, pa učenici kojima je praksa najpotrebnija najvjerojatnije delegiraju samo učenje. Navode da 80% australskih učenika već upotrebljava umjetnu inteligenciju i da to čini dvije trećine nastavnika u nižim razredima srednje škole (OECD 2025).
 
 Dob i navika koreliraju s istim obrascem. [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] našao je da su sudionici u dobi od 17 do 25 godina pokazivali veću ovisnost o umjetnoj inteligenciji i veće rasterećenje te slabije kritičko mišljenje od onih u dobi od 46 i više godina, i da je razina obrazovanja predviđala bolje kritičko mišljenje neovisno o upotrebi umjetne inteligencije (r = +0,34), uz značajnu interakciju koja pokazuje da razina obrazovanja ublažava negativni učinak. [[genai-over-reliance-learning-2026|Gao, Sun i Khan (2026)]] našli su da polikroničnost, sklonost višezadaćnosti, moderira taj put, pri čemu su učenici s visokom polikroničnošću pod većim rizikom.
 
@@ -139,27 +139,27 @@ Kontekst je važan koliko i osoba, a vaš kolegij kontrolira dio konteksta. [[ai
 
 Ništa u ovom korpusu ne ispituje održava li se određena intervencija protiv pretjeranog oslanjanja u različitim okruženjima ili semestrima. „Prvo misli“ počiva na jednom eksperimentu s N = 196. Rezultat uskraćivanja dolazi iz sinteze [[brcic-effortless-trap-productive-struggle-2026|Brcica i Frljica (2026)]], a ne iz vlastitog pokusa. Argument o trenju konceptualni je komentar bez novih podataka. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] navodi granice modela: egzogena stacionarna kvaliteta umjetne inteligencije, fiksna mreža, stilizirana provjera. Procjena stvarnih vrijednosti tražila bi longitudinalne zapise stopa provjere po zadatku, snage društvenog dokaza i načina na koji se povjerenje ažurira nakon provjerene nasuprot neprovjerenoj upotrebi.
 
-Mjerenje ostaje najslabija karika. Anketni dizajni prevladavaju, a i [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] i [[genai-over-reliance-learning-2026|Gao, Sun i Khan (2026)]] traže longitudinalno i eksperimentalno praćenje. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] nema psihometrijske pokazatelje i izrađen je za odrasle. Je li jaz u ravnopravnosti moguće zatvoriti poučavanjem, teoretski je tvrđeno, a ne pokazano.
+Mjerenje ostaje najslabija karika. Anketni dizajni prevladavaju, a i [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] i [[genai-over-reliance-learning-2026|Gao, Sun i Khan (2026)]] traže longitudinalno i eksperimentalno praćenje. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] nema [[educational-measurement|psihometrijske]] pokazatelje i izrađen je za odrasle. Je li jaz u ravnopravnosti moguće zatvoriti poučavanjem, teoretski je tvrđeno, a ne pokazano.
 
 Ostaje vam razumna oklada, jeftino napravljena. Promijenite jedan zadatak, zadržite mjerenje bez pomoći i provjerite smanjuje li se jaz između rada s pomoći i bez nje. Ne pregrađujte kolegij na temelju tih brojeva.
 
 ## Što nastavnici ovdje pogrešno shvaćaju
 
-**Učenici koji ga najviše upotrebljavaju jesu oni u nevolji.** Učestalost je ono što ankete hvataju i što nadzorne ploče prikazuju, i to nije konstrukt. Učenik koji provjerava svaki odgovor i citira vaše materijale može svakodnevno upotrebljavati umjetnu inteligenciju i biti dobro. Učenik koji jednom tjedno preda prvi izlaz ima problem.
+**Učenici koji ga najviše upotrebljavaju jesu oni u nevolji.** Učestalost je ono što ankete hvataju i što [[visualization|nadzorne ploče]] prikazuju, i to nije konstrukt. Učenik koji provjerava svaki odgovor i citira vaše materijale može svakodnevno upotrebljavati umjetnu inteligenciju i biti dobro. Učenik koji jednom tjedno preda prvi izlaz ima problem.
 
 **Zabrana uklanja rizik.** Najjači rezultati ovdje dolaze iz smještaja, a i skupina koja je radila samo ljudski u eksperimentu Wonga i Qiua pala je na težem zadatku koji je slijedio. Ukloniti alat bez podrške učeniku ostavlja teškoću gdje je i bila.
 
-**Jeftinija provjera riješit će pitanje provjere.** Olakšavanje provjere bilo je najslabija poluga u Biswasovu modelu, jer je prepreka društvena. Bolji detektor plagijata neće navesti učenika da pročita izvor.
+**Jeftinija provjera riješit će pitanje provjere.** Olakšavanje provjere bilo je najslabija poluga u Biswasovu modelu, jer je prepreka društvena. Bolji [[academic-integrity|detektor plagijata]] neće navesti učenika da pročita izvor.
 
 **Nadzorna ploča upotrebe kaže mi tko rasterećuje.** PAUSE-ove čestice bilježe kada i koliko često umjetna inteligencija ulazi u radni tijek, a autori sami upozoravaju na problem valjanosti. Pažljiv učenik koji gradi postupnu potporu biva ocijenjen kao onaj koji rasterećuje, pa postupanje po tim brojevima kažnjava učenike koje želite zadržati.
 
 **Tečnost i zadovoljstvo pokazuju da dizajn djeluje.** To je iluzija koju [[lodge-loble-cognitive-offloading-2026|Lodge i Loble (2026)]] opisuju u svojem paradoksu učinka: rad djeluje tečno i učenici u trenutku postižu dobre rezultate, a zadržavaju manje. Učinak bez pomoći i odgođeni [[transfer-of-learning|prijenos]] mjere su koje odgovaraju na pitanje.
 
-**Poučite učenike pismenosti u području umjetne inteligencije i problem nestaje.** [[lodge-loble-cognitive-offloading-2026|Lodge i Loble (2026)]] upozoravaju da prekomjerno ulaganje u pismenost u području umjetne inteligencije usmjerenu na učenike može biti pogrešna raspodjela, s obzirom na ono što početnicima nedostaje.
+**Poučite učenike [[ai-literacy|pismenosti u području umjetne inteligencije]] i problem nestaje.** [[lodge-loble-cognitive-offloading-2026|Lodge i Loble (2026)]] upozoravaju da prekomjerno ulaganje u pismenost u području umjetne inteligencije usmjerenu na učenike može biti pogrešna raspodjela, s obzirom na ono što početnicima nedostaje.
 
 ## Što će vam se vratiti
 
-**„Ovo je samo dobra pedagogija pod novim imenom.“** Dijelom. Postupna potpora, formativna povratna informacija i produktivna borba stare su ideje. Novije je redoslijed: vidljiva je provjera pobijedila jeftiniju, a dva trenutka koja vrijedi zaštititi jesu prvi teški pokušaj i završna provjera bez pomoći. Radite poznate stvari u novom redu.
+**„Ovo je samo dobra [[pedagogy|pedagogija]] pod novim imenom.“** Dijelom. [[scaffolding|Postupna potpora]], formativna povratna informacija i produktivna borba stare su ideje. Novije je redoslijed: vidljiva je provjera pobijedila jeftiniju, a dva trenutka koja vrijedi zaštititi jesu prvi teški pokušaj i završna provjera bez pomoći. Radite poznate stvari u novom redu.
 
 **„Ne mogu to nadzirati.“** Ne možete, i dokazi kažu da ne treba pokušavati. Smještaj je dao najjači rezultat. Osmislite zadatak tako da se upotreba alata u pogrešnom trenutku pokaže u samom radu, kao odgovor koji učenik ne može objasniti ili kao korak provjere koji nedostaje.
 

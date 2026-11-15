@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
 audience: [instructors, instructional designers]
-updated: "2026-10-29T14:24:49-04:00"
+updated: "2026-11-15T16:20:07-05:00"
 translation_of: faqs/incorporating-ai-literacy
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ Suština: dodajte korak u rad koji već ocjenjujete, korak u kojem se studenti p
 
 ## Ne dodajte lekciju, dodajte korak u rad koji već ocjenjujete
 
-Uobičajeni institucionalni potez je samostalni modul, obično rano u semestru, o tome kako rade veliki jezični modeli i kako pisati upite. [[ai-literacy|Pismenost u području umjetne inteligencije]] u svojoj sintezi zagovara drugačiji raspored: studenti razvijaju korisniju pismenost kada umjetnu inteligenciju koriste, propituju, provjeravaju, kritiziraju i o njoj odlučuju unutar autentičnih zadataka kolegija, i to ponovljeno. Kretanje prema kritičkoj evaluaciji najuočljivije je tamo gdje su ta iskustva trajna i ugrađena, a ne dostavljena jednom ([[ai-literacy-continuum-higher-education|Praktični kontinuum od pet stupnjeva za pismenost u području umjetne inteligencije u visokom obrazovanju]]).
+Uobičajeni institucionalni potez je samostalni modul, obično rano u semestru, o tome kako rade [[llm|veliki jezični modeli]] i kako pisati upite. [[ai-literacy|Pismenost u području umjetne inteligencije]] u svojoj sintezi zagovara drugačiji raspored: studenti razvijaju korisniju pismenost kada umjetnu inteligenciju koriste, propituju, provjeravaju, kritiziraju i o njoj odlučuju unutar autentičnih zadataka kolegija, i to ponovljeno. Kretanje prema kritičkoj evaluaciji najuočljivije je tamo gdje su ta iskustva trajna i ugrađena, a ne dostavljena jednom ([[ai-literacy-continuum-higher-education|Praktični kontinuum od pet stupnjeva za pismenost u području umjetne inteligencije u visokom obrazovanju]]).
 
 [[quantitative-research|Kvantitativni]] dokazi pokazuju u istom smjeru. [[liu-ai-literacy-interventions-meta-analysis-2026|Metaanaliza 59 intervencija za pismenost u području umjetne inteligencije]] pronašla je najveće učinke kod integriranih i refleksivnih pedagogija. Također upozorava da intervencije usmjerene na znanje pokazuju veće *izmjerene* učinke od onih usmjerenih na vještine, stavove ili etiku. Imajte to na umu kada birate što ćete mjeriti.
 
@@ -79,11 +79,11 @@ Ne morate izmišljati dizajn. Nekoliko ih je dokumentirano, i svaki je dovoljno 
 
 Studenti ekonomije prvo rješavaju problem, dobiju odgovor generativne umjetne inteligencije, usporede ga sa svojim razmišljanjem, kritiziraju umjetnu inteligenciju, refleksiraju, a zatim raspravljaju s kolegama ([[beck-genai-literacy-economics-hands-on|Poticanje pismenosti u području generativne umjetne inteligencije u ekonomiji]]).
 
-Studenti psihologije evaluiraju priopćenje za medije koje je generirao ChatGPT prema rubrici kolegija, identificiraju slabosti i revidiraju ga, što u istom zadatku razvija disciplinarnu pismenost i pismenost o povratnoj informaciji ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Korištenje generativne umjetne inteligencije za poticanje psihološke pismenosti, pismenosti o povratnoj informaciji i pismenosti u području umjetne inteligencije]]).
+Studenti psihologije evaluiraju priopćenje za medije koje je generirao ChatGPT prema rubrici kolegija, identificiraju slabosti i revidiraju ga, što u istom zadatku razvija disciplinarnu pismenost i [[feedback-literacy|pismenost o povratnoj informaciji]] ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Korištenje generativne umjetne inteligencije za poticanje psihološke pismenosti, pismenosti o povratnoj informaciji i pismenosti u području umjetne inteligencije]]).
 
 Biologija integrira aktivnosti u disciplinarno učenje, umjesto da predaje zasebnu tehničku temu ([[zha-ai-literacy-biology-case-study|Integriranje obrazovanja o pismenosti u području umjetne inteligencije u nastavu biologije]]). Kolegiji o bazama podataka i dizajnu koriste analizu neuspjeha kao aktivnost učenja, pri čemu studenti analiziraju pogreške koje je generirala umjetna inteligencija i iteriraju na upitima i rješenjima ([[pedagogy-ai-mistakes|Pedagogija pogrešaka umjetne inteligencije]]). Model LearnAI ugrađuje sustvaranje s umjetnom inteligencijom u pravom trenutku kroz discipline, umjesto da vodi jedan generički modul ([[learnai-just-in-time-ai-cocreation-university-2026|LearnAI: sustvaranje s umjetnom inteligencijom u pravom trenutku kroz discipline]]).
 
-Jedno upozorenje dolazi s brojem. Redizajnirani uvodni kolegij fizike čestica dopustio je generativnu umjetnu inteligenciju kao izričitog partnera na problemskim zadacima istraživačkog tipa, a pisani ispit bez pomoći dao je prosjek 20,6 od 80, pri čemu je samo dvoje studenata dosegnulo 40 ([[ai-particle-physics-education-redesign-2026|Umjetna inteligencija u obrazovanju fizike čestica]]). Izvedba uz pomoć i samostalno dostupno znanje različita su postignuća. Autori zagovaraju rano poučavanje pismenosti u području umjetne inteligencije, uključujući provjeru i tretiranje umjetne inteligencije kao učitelja, a ne kopirnog stroja, uz posvećenu praksu bez pomoći. [[physics-education|Obrazovanje fizike]] ima iscrpniji prikaz.
+Jedno upozorenje dolazi s brojem. Redizajnirani uvodni kolegij fizike čestica dopustio je generativnu umjetnu inteligenciju kao izričitog partnera na problemskim zadacima istraživačkog tipa, a pisani ispit bez pomoći dao je prosjek 20,6 od 80, pri čemu je samo dvoje studenata dosegnulo 40 ([[ai-particle-physics-education-redesign-2026|Umjetna inteligencija u obrazovanju fizike čestica]]). Izvedba uz pomoć i samostalno dostupno znanje različita su postignuća. Autori zagovaraju rano poučavanje pismenosti u području umjetne inteligencije, uključujući provjeru i tretiranje umjetne inteligencije kao [[teacher-role|učitelja]], a ne kopirnog stroja, uz posvećenu praksu bez pomoći. [[physics-education|Obrazovanje fizike]] ima iscrpniji prikaz.
 
 Postoji i verzija u kojoj studenti nešto izrađuju za stvarnu publiku. Burriss i suradnici dali su 22 učenika jedanaestog razreda da sastave video javne spotove o problemima [[ethics|etike]] umjetne inteligencije s kojima su živjeli: nadzor u školi, elektroničke „propusnice“ i algoritamske optužbe za [[academic-integrity|akademsko varanje]]. Jedinica se oslanjala na kritičku posthumanističku pismenost i [[multimodal|multimodalno sastavljanje]]. Učenici su štetu prikazali kao nešto što proizlazi iz zapetljane odgovornosti ljudi i strojeva, a ne iz zlokobnog alata, preokrenuli priču o varanju prema pretjeranom oslanjanju odraslih na pogrešnu umjetnu inteligenciju i završili na [[agency|djelatnosti]] („rješenje je u našem dosegu“). Autori smještaju [[storytelling-in-education|pripovijedanje]] i suradničku proizvodnju u središte [[critical-pedagogy|kritičke pedagogije pismenosti u području umjetne inteligencije]] i tvrde da sastavljanje *o* umjetnoj inteligenciji za stvarnu publiku razvija kritičku kompetenciju koju ljestvice kompetencija ne mogu vidjeti ([[burriss-multimodal-composition-critical-ai-literacy-2026|„Mladi znanstvenici na terenu“]]). Ta je tvrdnja argument iz jedne jedinice s 22 učenika, pa je čitajte kao dizajnersku ideju, a ne kao veličinu učinka.
 
@@ -117,7 +117,7 @@ Bolji upiti ne popravljaju model. U istraživanju kontekstualnog ulizivanja, upu
 
 Pismenost u području umjetne inteligencije znači poučavati pisanje upita. Pisanje upita vidljivi je dio. Studenti mogu postati tehnički umješni s tim alatima, a ostati slabi procjenjivači onoga što iz njih izlazi, a nalaz o ovisnosti gore pokazuje u istom smjeru.
 
-Jedna sesija pokriva to. Sesija može uvesti rječnik. Dokazi za ponovljenu praksu na stvarnom materijalu kolegija snažniji su, a metaanaliza 59 intervencija pronašla je najveće učinke tamo gdje je rad bio integrirajući i refleksivan.
+Jedna sesija pokriva to. Sesija može uvesti rječnik. Dokazi za ponovljenu praksu na stvarnom materijalu kolegija snažniji su, a [[meta-analysis-systematic-review|metaanaliza]] 59 intervencija pronašla je najveće učinke tamo gdje je rad bio integrirajući i refleksivan.
 
 Studenti koji svakodnevno koriste te alate već mogu evaluirati rezultat. Yan i suradnici pronašli su 76,32% od 38 studenata preddiplomskog studija u obrascu jednog jedinog upita, a sinteza o računalnom obrazovanju pokazala je da su studenti značajno lošiji u ispravljanju koda koji je generirala umjetna inteligencija nego u običnim ispitnim zadacima programiranja. Poznavanje sučelja nije kalibracija.
 

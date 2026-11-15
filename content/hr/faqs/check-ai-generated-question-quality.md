@@ -1,7 +1,7 @@
 ---
 title: "Kako provjeriti jesu li pitanja za kvizove i ispite koja generira AI doista dobra?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:16:18-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-05T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Zatražite dvadeset pitanja iz svojih bilježaka s predavanja. Vraćaju se s ključem odgovora, objašnjenjima, oznakama težine i kategorijama Bloomove taksonomije, u oblikovanom dokumentu koji izgleda dovršeno. Vaše ime uskoro ide na njega.
 
-Evo kratkog odgovora: generirana pitanja su kandidati, a ne procjena. Riješite svako sami, provjerite što čestica traži da student doista učini i saznajte kako studenti na nju odgovaraju prije nego što se počne brojati. U dvije najveće studije u ovoj bazi znanja zanimljiv signal nije to da generiranje funkcionira, nego gdje ne uspijeva. Iterativno generiranje unutar tijeka rada specifičnog za kolegij proizvelo je upotrebljive ispite s višestrukim izborom u 71 sveučilišnom razredu ([[assessing-quality-ai-generated-exams-field-2025|Isley i sur., 2025]]). U reviziji 311 pitanja u uporabi na području znanosti o podacima oznake težine koje je dao model gotovo su se savršeno poklapale s razinama Bloomove taksonomije koje je generirao uz njih (Spearman ρ = 0,90), dok su se s onim što su studenti doista postizali poklapale s ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An i Wang, 2026]]). Oznaka je bila opis poticaja, a ne mjerenje čestice.
+Evo kratkog odgovora: generirana pitanja su kandidati, a ne procjena. Riješite svako sami, provjerite što čestica traži da student doista učini i saznajte kako studenti na nju odgovaraju prije nego što se počne brojati. U dvije najveće studije zanimljiv signal nije to da generiranje funkcionira, nego gdje ne uspijeva. Iterativno generiranje unutar tijeka rada specifičnog za kolegij proizvelo je upotrebljive ispite s višestrukim izborom u 71 sveučilišnom razredu ([[assessing-quality-ai-generated-exams-field-2025|Isley i sur., 2025]]). U reviziji 311 pitanja u uporabi na području znanosti o podacima oznake težine koje je dao model gotovo su se savršeno poklapale s razinama Bloomove taksonomije koje je generirao uz njih (Spearman ρ = 0,90), dok su se s onim što su studenti doista postizali poklapale s ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An i Wang, 2026]]). Oznaka je bila opis poticaja, a ne mjerenje čestice.
 
 ## Kratka verzija
 
@@ -121,6 +121,6 @@ Za studente koji generiraju vlastita pitanja za vježbu isto pravilo vrijedi na 
 
 ## Kamo dalje
 
-[[automated-question-generation]] pojmovna je stranica za metode generiranja i njihovu izmjerenu kvalitetu, a [[educational-measurement]] pokriva analizu čestica, pouzdanost i psihometriju na koju pilot samo upućuje. Obje stoje pod [[assessment-validity|valjanošću procjene]], standardom kojem cijeli ciklus služi.
+[[automated-question-generation|Automatizirano generiranje pitanja]] pojmovna je stranica za metode generiranja i njihovu izmjerenu kvalitetu, a [[educational-measurement|obrazovno mjerenje]] pokriva analizu čestica, pouzdanost i psihometriju na koju pilot samo upućuje. Obje stoje pod [[assessment-validity|valjanošću procjene]], standardom kojem cijeli ciklus služi.
 
 Prosudbeni dio istog problema pripada [[ai-grading-fairness-reliability|AI ocjenjivanju]], jer dobra čestica loše ocijenjena nije ništa bolja od loše čestice dobro ocijenjene. Za šire pitanje što bi ocjena trebala predstavljati kada se studenti mogu koristiti AI-jem, vidi [[redesign-assessment-ai-era|redizajn ocjenjivanja u eri AI-ja]].

@@ -11,9 +11,9 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:17:19-05:00"
 translation_of: faqs/group-work-ai
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
@@ -89,7 +89,7 @@ Perechează nota de grup cu o componentă individuală: o [[oral-assessment|sus�
 
 Limitările lor călătoresc împreună cu citarea: o singură bază de date, doar articole de revistă, nicio atenție la [[ethics|etică]] sau confidențialitate, primii doi ani ai tehnologiei și niciun instrument de risc de părtinire aplicat. Citește „catalizatori” ca descriere a practicii observate, nu ca rezultat măsurat.
 
-Detectarea este instrumentul greșit pentru a separa contribuțiile individuale: niciunul dintre aceste șase studii nu testează detectori în contexte de grup, iar problemele detectării la nivel individual sunt documentate în altă parte în această bază de cunoștințe. Reținerea trebuie interpretată înainte de a fi corectată. Chen și Zou avertizează că un grup care refuză IA poate evita ceva necunoscut, nu exercita [[self-regulated-learning|autoreglare]] deliberată, iar cele două cer răspunsuri diferite: una este o problemă de predare, cealaltă este o poziție chibzuită pe care o poți nota.
+Detectarea este instrumentul greșit pentru a separa contribuțiile individuale: niciunul dintre aceste șase studii nu testează detectori în contexte de grup, iar problemele detectării la nivel individual sunt bine documentate. Reținerea trebuie interpretată înainte de a fi corectată. Chen și Zou avertizează că un grup care refuză IA poate evita ceva necunoscut, nu exercita [[self-regulated-learning|autoreglare]] deliberată, iar cele două cer răspunsuri diferite: una este o problemă de predare, cealaltă este o poziție chibzuită pe care o poți nota.
 
 Nici coechipierii simulați nu lămuresc întrebarea. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] a ajustat fin agenți [[llm|LLM]] pe dialogul participanților reali ([[llm-training-and-fine-tuning|adaptori LoRA/QLoRA]] pe LLaMA 3.2-3B) pentru a modela 48 de participanți pe 3.824 de ture și șase coduri tematice, apoi a comparat discursul real cu cel simulat prin [[network-analysis|Analiza Rețelelor Epistemice]]. Rețeaua simulată a ajuns la o distanță de 0,17 față de rețeaua empirică, sub pragul de 0,30, cu o valoare p de permutare de 0,65, statistic indistinguibilă, deși a supraaccentuat ușor legăturile de constrângeri tehnice și de proiectare și a subreprezentat parametrii de date și performanță. Este o lucrare de cadru conceptual cu încredere medie și susține o singură afirmație: agenții specifici unui participant pot reproduce discurs colaborativ realist. Nu arată că studenții învață mai mult de la coechipieri simulați.
 
