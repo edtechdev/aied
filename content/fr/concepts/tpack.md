@@ -1,7 +1,7 @@
 ---
 title: "Le savoir technologique, pédagogique et disciplinaire (TPACK)"
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-15T15:48:57-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
 translation_of: concepts/tpack
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-15T15:46:54-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -27,8 +27,6 @@ pedagogy: [tpack]
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
 > **Le savoir technologique, pédagogique et disciplinaire (Technological [[pedagogy|Pedagogical]] Content Knowledge, TPACK)** — le cadre (Mishra & Koehler, 2006) décrivant le savoir intégré dont les enseignants ont besoin pour utiliser efficacement la technologie dans l'enseignement : l'interaction du savoir technologique (TK), du savoir pédagogique (PK) et du savoir disciplinaire (CK), ainsi que leurs intersections. À l'ère de l'IA, le TPACK a été étendu en **AI-TPACK** et **GenAI-TPACK**, modélisant la manière dont les enseignants intègrent l'IA générative à l'enseignement des contenus disciplinaires. C'est la lunette théorique dominante pour comprendre comment la [[teacher-ai-competency|compétence des enseignants en IA]] est structurée et construite par le [[educational-development|développement professionnel]].
-
-Cette dominance tient aussi en partie à un artefact de recherche documentaire : dans une [[meta-analysis-systematic-review|revue de portée]] PRISMA portant sur 195 études de formation des enseignants soutenue par la technologie, la compétence numérique, le TPACK et DigCompEdu étaient des descripteurs de recherche explicites, si bien que la part de 46.5% des cadres de compétences décrit les études retrouvées plutôt que le champ ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández et al. (2026)]]).
 
 ## Questions à examiner
 
@@ -57,6 +55,7 @@ Le TPACK soutient que l'intégration efficace de la technologie n'est pas la som
 
 - **Le cadre domine le champ par défaut, et il est étiré pour s'y ajuster.** Dans une revue guidée par PRISMA de 78 études sur la [[learning-design|conception pédagogique]] assistée par l'IA, seules 19 mobilisaient un cadre de compétences nommé — et le TPACK et ses variantes en représentaient **17 des 19**, utilisés de façon productive comme lentille analytique mais étirés au-delà de leur portée initiale, puisque le TPACK n'a pas été conçu pour les capacités propres à l'IA. Les extensions conçues à cet effet sont corrélativement rares : **l'Intelligent-TPACK n'apparaît que dans cinq études**, généralement associé à l'[[ai-literacy]] pour traiter la progression développementale ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
 - **La recherche avance sans théorie, tandis que les cadres politiques ne sont pas testés.** La même revue a constaté que **76 % des études inféraient des compétences à partir de la pratique sans aucune mise en correspondance théorique**, et ni DigCompEdu ni le Cadre de compétences en IA pour les enseignants de l'UNESCO n'a été mobilisé comme cadre analytique dans aucune des 78 — un décalage qui joue dans les deux sens, puisque le travail empirique n'accumule pas de vocabulaire partagé tandis que les cadres censés guider la pratique restent empiriquement non testés dans ce contexte.
+- **Une partie de cette dominance tient à un artefact de recherche documentaire.** Dans une [[meta-analysis-systematic-review|revue de portée]] PRISMA portant sur 195 études de formation des enseignants soutenue par la technologie, la compétence numérique, le TPACK et DigCompEdu étaient des descripteurs de recherche explicites, si bien que la part de 46.5% des cadres de compétences décrit les études retrouvées plutôt que le champ ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández et al. (2026)]]).
 
 ## L'AI-TPACK et le GenAI-TPACK
 

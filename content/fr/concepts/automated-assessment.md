@@ -1,7 +1,7 @@
 ---
 title: "Évaluation automatisée"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-15T15:48:57-05:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation]
 audience: [instructors]
 confidence: high
 translation_of: concepts/automated-assessment
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-15T15:46:26-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -32,8 +32,6 @@ ai_assist:
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
 > **L'évaluation automatisée** — l'usage de l'IA pour évaluer le travail des étudiants, des [[formative-assessment|questionnaires formatifs]] aux examens à fort enjeu. L'évaluation automatisée couvre de multiples modalités — questions à choix multiples, réponses brèves, dissertations, code et évaluation fondée sur la performance — et va de la notation automatisée directe à des systèmes conscients de la confiance, qui rendent compte d'une incertitude calibrée à côté de leurs scores.
-
-L'automatisation banalise la notation et la présente comme une charge administrative plutôt que comme un jugement pédagogique ; une plus grande cohérence constitue une meilleure mesure du même construit, non une remise en cause de celui-ci ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
 
 ## Questions à examiner
 
@@ -117,6 +115,9 @@ Quatre thèmes organisent les études incluses : **l'Évaluation**, des modèles
 ## Qualité et équité
 
 La qualité de l'évaluation automatisée dépend de l'[[assessment-validity|évaluation et de sa validité]] et de l'[[bias-mitigation|atténuation des biais]]. La recherche sur les [[ai-scoring-language-bias-physics|biais linguistiques]] montre que la notation automatisée peut désavantager systématiquement certaines populations étudiantes.
+
+L'automatisation recadre elle aussi la notation comme une administration routinière plutôt que comme un jugement pédagogique ; la cohérence qu'elle apporte constitue une meilleure mesure du même construit, non une remise en cause de celui-ci ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
+
 **Le critère est lui-même faillible.** [[ai-marking-accuracy-gcse-physics-2026|Bozdag et Qiu (2026)]] notent des copies de physique de niveau GCSE avec un système d'IA et les comparent à la fois aux notes officielles des commissions d'examen et au jugement d'enseignants expérimentés, traitant l'accord avec la commission comme un indicateur d'exactitude plutôt que comme l'exactitude elle-même.
 
 - **Le désaccord de l'IA comme diagnostic de la grille.** [[zhao-ai-supported-grading-rubric-refinement-2026|Zhao et coll. (2026)]] ont intégré un correcteur LLM à PrairieLearn afin que les enseignants voient le désaccord au niveau des items avec leur propre notation, puis révisent la grille avant de passer à l'échelle. L'accord IA–humain atteignait 99,4 % sur une question à bogue à item unique et tombait à 65 % sur un problème de matrice de Markov à six solutions valides.

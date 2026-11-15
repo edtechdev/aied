@@ -1,7 +1,7 @@
 ---
 title: Conocimiento Tecnológico, Pedagógico y de Contenido (TPACK)
 created: "2026-09-28T20:10:26-04:00"
-updated: "2026-11-15T10:13:56-05:00"
+updated: "2026-11-15T15:48:57-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
 translation_of: concepts/tpack
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-15T15:46:54-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -27,8 +27,6 @@ pedagogy: [tpack]
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
 > **Conocimiento Tecnológico, [[pedagogy|Pedagógico]] y de Contenido (TPACK)** — el marco (Mishra y Koehler, 2006) que describe el conocimiento integrado que el profesorado necesita para usar la tecnología de forma eficaz en la enseñanza: la interacción entre el conocimiento tecnológico (TK), el pedagógico (PK) y el de contenido (CK), y sus intersecciones. En la era de la IA, el TPACK se ha extendido a **AI-TPACK** / **GenAI-TPACK**, que modelan cómo el profesorado integra la IA generativa en la enseñanza de su área de contenido. Es la lente teórica dominante para entender cómo se estructura y se construye la [[teacher-ai-competency|competencia del profesorado en IA]] a través del [[educational-development|desarrollo profesional]].
-
-Esa dominancia es también en parte un artefacto de recuperación: en una [[meta-analysis-systematic-review|revisión de alcance]] PRISMA de 195 estudios de formación docente apoyada en tecnología, la competencia digital, el TPACK y DigCompEdu eran descriptores de búsqueda explícitos, de modo que el 46,5% de cuota de los marcos de competencia describe los estudios recuperados y no el campo ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández et al. (2026)]]).
 
 ## Preguntas para reflexionar
 
@@ -57,6 +55,7 @@ El TPACK sostiene que una integración eficaz de la tecnología no es la suma de
 
 - **El marco domina el campo por defecto, y se estira para encajar.** En una revisión guiada por PRISMA de 78 estudios sobre [[learning-design|diseño didáctico]] apoyado por IA, solo 19 aplicaron algún marco de competencia con nombre, y el TPACK y sus variantes dieron cuenta de **17 de esos 19**, usados de forma productiva como lente analítica pero estirados más allá de su alcance original, ya que el TPACK no se diseñó para capacidades específicas de la IA. Las extensiones hechas a propósito son correspondientemente raras: el **Intelligent-TPACK apareció en solo cinco estudios**, normalmente junto con la [[ai-literacy|alfabetización en IA]] para manejar la progresión evolutiva ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou y Kameas, 2026]]).
 - **La investigación avanza sin teorizar mientras los marcos de política quedan sin probar.** La misma revisión encontró que **el 76% de los estudios infería competencias a partir de la práctica sin ningún mapeo teórico**, y que ni DigCompEdu ni el Marco de Competencias en IA para Docentes de la UNESCO se aplicaron como marco analítico en ninguno de los 78: una desconexión en ambas direcciones, ya que el trabajo empírico acumula vocabulario sin compartirlo mientras los marcos destinados a guiar la práctica siguen sin probarse empíricamente en este contexto.
+- **Parte de esa dominancia es un artefacto de recuperación.** En una [[meta-analysis-systematic-review|revisión de alcance]] PRISMA de 195 estudios de formación docente apoyada en tecnología, la competencia digital, el TPACK y DigCompEdu eran descriptores de búsqueda explícitos, de modo que el 46,5% de cuota de los marcos de competencia describe los estudios recuperados y no el campo ([[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández et al. (2026)]]).
 
 ## AI-TPACK y GenAI-TPACK
 

@@ -1,7 +1,7 @@
 ---
 title: "L'enseignement"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-15T11:54:18-05:00"
+updated: "2026-11-15T15:48:57-05:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-ti
 
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-15T15:46:26-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -25,8 +25,6 @@ ai_assist:
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
 > **L'enseignement (Teaching)** — la manière dont l'IA reconfigure le travail, l'identité et l'agentivité des éducateurs. Avec plus de 50 articles examinant cette dimension, la recherche documente une transformation fondamentale : d'autorité unique du savoir à orchestrateur d'environnements d'apprentissage humain-IA. Les données probantes vont au-delà de la description de ce glissement pour montrer ce que les enseignants font réellement *différemment*, comment ils peuvent adapter leur pratique, et comment ils se relient à la [[learning-design|conception pédagogique]], à la [[ai-literacy|littératie en IA]] et à l'[[academic-integrity|intégrité académique]].
-
-> [[caeo-navigating-ai-educational-future-scenarios-2026|Malyn-Smith et al. (2026)]] appellent cela le paradoxe du plus-humain : dans six scénarios 2030 co-construits par 20 chercheurs issus de 13 pays, la saturation par l'IA intensifie plutôt qu'elle ne déplace le travail pédagogique humain. Les scénarios décrivent l'IA comme « le système de traitement de l'air de l'écosystème d'apprentissage » — on ne la remarque que lorsqu'elle fonctionne mal.
 
 ## Questions à examiner
 

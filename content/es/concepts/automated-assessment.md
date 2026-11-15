@@ -1,7 +1,7 @@
 ---
 title: Evaluación automatizada
 created: "2026-09-28T18:17:50-04:00"
-updated: "2026-11-15T10:11:50-05:00"
+updated: "2026-11-15T15:48:57-05:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -25,15 +25,13 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: concepts/automated-assessment
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-15T15:46:26-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 ---
 
 *Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa.*
 
 > **La evaluación automatizada** — el uso de la IA para evaluar el trabajo del estudiantado, desde los [[formative-assessment|cuestionarios formativos]] hasta los exámenes de alto impacto. La evaluación automatizada abarca múltiples modalidades —opción múltiple, respuesta corta, ensayo, código y evaluación basada en el desempeño— y va de la calificación automatizada directa a sistemas conscientes de la confianza que informan de una incertidumbre calibrada junto a sus puntuaciones.
-
-La automatización convierte la calificación en rutina y la enmarca como carga administrativa y no como juicio pedagógico; una mayor consistencia es una mejor medición del mismo constructo, no un desafío a él ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
 
 ## Preguntas para reflexionar
 
@@ -114,7 +112,11 @@ Cuatro temas organizan los estudios incluidos: **Evaluación**, modelos que punt
 
 ## Calidad y equidad
 
-La calidad de la evaluación automatizada depende de la [[assessment-validity|validez de la evaluación]] y de la [[bias-mitigation|mitigación del sesgo]]. La investigación sobre el [[ai-scoring-language-bias-physics|sesgo lingüístico]] muestra que la puntuación automatizada puede perjudicar sistemáticamente a ciertas poblaciones de estudiantes. **El propio criterio es falible.** [[ai-marking-accuracy-gcse-physics-2026|Bozdag y Qiu (2026)]] califican exámenes de física de GCSE con un sistema de IA y los comparan tanto con las notas oficiales del organismo examinador como con el juicio de docentes experimentados, tratando la concordancia con el organismo como un indicador indirecto de la precisión y no como la precisión misma.
+La calidad de la evaluación automatizada depende de la [[assessment-validity|validez de la evaluación]] y de la [[bias-mitigation|mitigación del sesgo]]. La investigación sobre el [[ai-scoring-language-bias-physics|sesgo lingüístico]] muestra que la puntuación automatizada puede perjudicar sistemáticamente a ciertas poblaciones de estudiantes.
+
+La automatización también convierte la calificación en una tarea administrativa rutinaria y no en un juicio pedagógico; la consistencia que aporta es una mejor medición del mismo constructo, no un desafío a él ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
+
+**El propio criterio es falible.** [[ai-marking-accuracy-gcse-physics-2026|Bozdag y Qiu (2026)]] califican exámenes de física de GCSE con un sistema de IA y los comparan tanto con las notas oficiales del organismo examinador como con el juicio de docentes experimentados, tratando la concordancia con el organismo como un indicador indirecto de la precisión y no como la precisión misma.
 
 - **El desacuerdo de la IA como diagnóstico de rúbricas.** [[zhao-ai-supported-grading-rubric-refinement-2026|Zhao et al. (2026)]] integraron un calificador LLM en PrairieLearn para que el profesorado viera el desacuerdo a nivel de ítem con su propia calificación y revisara la rúbrica antes de escalarla. La concordancia entre IA y personas llegó al 99,4% en una pregunta de un solo ítem sobre un error y cayó al 65% en un problema de matrices de Markov con seis soluciones válidas.
 

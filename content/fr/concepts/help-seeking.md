@@ -1,7 +1,7 @@
 ---
 title: "Recherche d'aide"
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-11-15T11:54:13-05:00"
+updated: "2026-11-15T15:48:57-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-15T15:46:26-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -28,8 +28,6 @@ ai_assist:
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
 > **Recherche d'aide** — le processus par lequel l'apprenant reconnaît un besoin d'assistance et la demande de manière stratégique, et la manière dont ce processus se déroule dans les environnements d'apprentissage soutenus par l'IA. Dans l'[[ai-education|IA en éducation]], la recherche d'aide est centrale pour la question de savoir si les outils d'IA soutiennent ou sapent l'apprentissage : la *qualité* de la recherche d'aide (quand, comment et ce que les apprenants demandent) façonne fortement les résultats, et les tuteurs par IA, les indices et les agents [[pedagogy|pédagogiques]] sont conçus précisément pour susciter une recherche d'aide productive plutôt qu'une recherche de réponses.([[lak2026-hint-button-unproductive-use]])([[ai-fallibility-warning-help-seeking]])
-
-Une sollicitation proactive peut accroître la recherche d'aide sans aucune modification des matériels d'apprentissage. Une expérience pré-enregistrée menée dans des cours de premier cycle à fort effectif a envoyé des messages aux étudiants par l'intermédiaire d'un agent conversationnel académique et a montré un plus grand recours au tutorat et à l'enseignement complémentaire ; l'analyse de médiation a attribué 17.8% de l'effet sur les notes à cette recherche d'aide accrue (p = 0.041) ([[chatbot-outreach-course-performance-2026]]).
 
 ## Questions à examiner
 
@@ -133,6 +131,7 @@ En [[english-education|rédaction]] entièrement en ligne, la disponibilité de 
 3. **Employez la transparence pour calibrer la confiance.** Avertir de la faillibilité de l'IA peut accroître la recherche d'aide appropriée et l'engagement.([[ai-fallibility-warning-help-seeking]])
 4. **Mesurez le recours, pas seulement l'étayage.** Évaluez si les étudiants s'engagent réellement avec le cadrage pédagogique, et pas seulement si le tuteur le fournit.([[rethinking-scaffolding-llm-tutors]])
 5. **Soutenez le suivi et l'autonomie.** Les étayages de la recherche d'aide devraient renforcer la [[metacognition|métacognition]] et l'[[self-regulated-learning|apprentissage autorégulé]], en se gardant de la [[cognitive-offloading|dépendance excessive]].
+6. **Joindre les étudiants qui ne demandent pas.** Une sollicitation proactive peut accroître la recherche d'aide sans toucher aux matériels d'apprentissage : une expérience pré-enregistrée menée dans des cours de premier cycle à fort effectif a envoyé des messages aux étudiants par l'intermédiaire d'un agent conversationnel académique, ce qui a augmenté le recours au tutorat et à l'enseignement complémentaire, et l'analyse de médiation a attribué 17.8% de l'effet sur les notes à cette hausse de la recherche d'aide (p = 0.041) ([[chatbot-outreach-course-performance-2026|Meyer et al., 2026]]).
 
 ## Idées fausses courantes
 

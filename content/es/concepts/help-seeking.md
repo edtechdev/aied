@@ -1,7 +1,7 @@
 ---
 title: Búsqueda de ayuda
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-11-15T10:14:14-05:00"
+updated: "2026-11-15T15:48:57-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-15T15:46:26-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -24,9 +24,6 @@ ai_assist:
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
 > **Búsqueda de ayuda** — el proceso por el cual quien aprende reconoce que necesita asistencia y la solicita de forma estratégica, y cómo se desarrolla ese proceso en entornos de aprendizaje apoyados por IA. En la [[ai-education|IA en la educación]], la búsqueda de ayuda es central para determinar si las herramientas de IA apoyan o socavan el aprendizaje: la *calidad* de la búsqueda de ayuda (cuándo, cómo y qué pide quien aprende) moldea con fuerza los resultados, y los tutores de IA, las pistas y los [[pedagogy|agentes pedagógicos]] están diseñados precisamente para suscitar una búsqueda de ayuda productiva en lugar de una búsqueda de respuestas.([[lak2026-hint-button-unproductive-use]])([[ai-fallibility-warning-help-seeking]])
-
-
-El contacto proactivo puede aumentar la búsqueda de ayuda sin ningún cambio en los materiales de aprendizaje. Un experimento preregistrado en asignaturas de grado con matrícula numerosa envió mensajes al estudiantado a través de un chatbot académico y encontró una mayor adopción de la tutoría y de la instrucción complementaria; el análisis de mediación atribuyó el 17,8% del efecto sobre la calificación a ese aumento de la búsqueda de ayuda (p = 0,041) ([[chatbot-outreach-course-performance-2026]]).
 
 ## Preguntas para reflexionar
 
@@ -127,6 +124,7 @@ En la [[english-education|composición]] totalmente en línea, la disponibilidad
 3. **Usar la transparencia para calibrar la confianza.** Advertir de la falibilidad de la IA puede aumentar la búsqueda de ayuda adecuada y la implicación.([[ai-fallibility-warning-help-seeking]])
 4. **Medir la adopción, y no solo el andamiaje.** Evalúe si el estudiantado se implica de verdad con el encuadre pedagógico, y no solo si el tutor lo ofrece.([[rethinking-scaffolding-llm-tutors]])
 5. **Apoyar la supervisión y la agencia.** Los andamiajes de la búsqueda de ayuda deben reforzar la [[metacognition|metacognición]] y el [[self-regulated-learning|aprendizaje autorregulado]], y proteger frente a la [[cognitive-offloading|dependencia excesiva]].
+6. **Llegar a quien no pide ayuda.** El contacto proactivo puede aumentar la búsqueda de ayuda sin tocar los materiales de aprendizaje: un experimento preregistrado en asignaturas de grado con matrícula numerosa envió mensajes al estudiantado a través de un chatbot académico, lo que aumentó la adopción de la tutoría y de la instrucción complementaria, y la mediación atribuyó el 17,8% del efecto sobre la calificación al aumento de la búsqueda de ayuda (p = 0,041) ([[chatbot-outreach-course-performance-2026|Meyer et al., 2026]]).
 
 ## Concepciones erróneas
 

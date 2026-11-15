@@ -1,7 +1,7 @@
 ---
 title: La docencia
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-15T10:12:34-05:00"
+updated: "2026-11-15T15:48:57-05:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-15T15:46:26-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -24,8 +24,6 @@ ai_assist:
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
 > **La docencia**: cómo la IA remodela el trabajo, la identidad y la agencia de quienes educan. Con más de 50 artículos que examinan esta dimensión, la investigación documenta una transformación fundamental: de autoridad única del conocimiento a orquestadora de entornos de aprendizaje en los que colaboran personas e IA. Esta página va más allá de describir ese cambio: detalla lo que el profesorado realmente *hace* de otro modo, cómo puede adaptar su práctica y cómo se conecta con [[learning-design|diseño del aprendizaje]], [[ai-literacy|alfabetización en IA]] y [[academic-integrity|integridad académica]].
-
-> [[caeo-navigating-ai-educational-future-scenarios-2026|Malyn-Smith et al. (2026)]] llaman a esto la paradoja de lo más humano: en seis escenarios para 2030 cocreados por 20 investigadores de 13 países, la saturación de la IA intensifica el trabajo pedagógico humano en lugar de desplazarlo. Los escenarios describen la IA como «el sistema de tratamiento del aire del ecosistema de aprendizaje»: solo se nota cuando falla.
 
 ## Preguntas para reflexionar
 
