@@ -1,7 +1,7 @@
 ---
 title: Apprentissage par renforcement
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:55:51-05:00"
 type: concept
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer]
 pedagogy: [active-learning, scaffolding]
@@ -11,7 +11,7 @@ level: [special education, k 12, higher ed]
 confidence: medium
 
 translation_of: concepts/reinforcement-learning
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,7 @@ ai_assist:
 
 *Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif.*
 
-> **L'apprentissage par renforcement** entraîne des tuteurs et des agents d'IA par des signaux de récompense : [[special-r1-rl-special-education]], [[singh-eduqwen-pedagogical-rl-2026]], [[pedagogical-safety-rl]] et [[ai-coaching-rl-skill-development]] alignent l'apprentissage par renforcement sur des [[pedagogy|objectifs pédagogiques]], y compris la sécurité et le transfert de compétences ([[intelligent-tutoring|tutorat intelligent]], [[agentic-ai|IA agentique]]).
+> **L'apprentissage par renforcement** entraîne des tuteurs et des agents d'IA par des signaux de récompense : [[special-r1-rl-special-education]], [[singh-eduqwen-pedagogical-rl-2026|Singh et al., 2026]], [[pedagogical-safety-rl]] et [[ai-coaching-rl-skill-development]] alignent l'apprentissage par renforcement sur des [[pedagogy|objectifs pédagogiques]], y compris la sécurité et le transfert de compétences ([[intelligent-tutoring|tutorat intelligent]], [[agentic-ai|IA agentique]]).
 
 ## Questions à examiner
 

@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: "Enseignement supérieur"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:54:59-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-15T06:35:59-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -72,9 +72,21 @@ Au-delà de la salle de classe, l'IA atteint les étudiants par l'intermédiaire
 
 La littérature est fortement pondérée vers les études de premier cycle, et la préparation aux études supérieures et aux professions est traitée dans des travaux dédiés à des [[discipline-specific-aied|disciplines]] particulières ([[medical-education|l'enseignement des professions de santé]], la [[business-education|formation en gestion]], la [[teacher-education|formation des enseignants]]) plutôt que dans un fil distinct sur les études supérieures. Deux courants portent néanmoins spécifiquement sur les étudiants de master, de doctorat et les étudiants en filière professionnelle : la formation à la recherche, et les programmes de diplômes professionnels.
 
+La subdivision dispose désormais de ses propres pages : l'[[undergraduate-education|enseignement de premier cycle]] rassemble les données probantes sur les grands effectifs et les cours d'introduction, et l'[[graduate-education|enseignement de troisième cycle]] celles sur l'encadrement, la formation à la recherche et les programmes professionnels. Cette page conserve le tableau institutionnel et celui du corps enseignant, qui valent pour les deux.
+
 La pratique de *recherche* au niveau postgraduate est le plus distinctif des deux. [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai et Chan (2026)]] ont analysé la manière dont 28 étudiants-chercheurs de troisième cycle, répartis en sept groupes de discussion, mettaient en œuvre la [[ai-literacy]] dans leurs travaux de recherche assistés par IA générative, et ont trouvé chez eux des utilisateurs calibrés plutôt que des adoptants passifs — assortissant les outils aux tâches selon les enjeux perçus et les normes disciplinaires, conservant une [[human-in-the-loop-ai|supervision humaine]] et traçant eux-mêmes la frontière entre une aide acceptable à la rédaction et la substitution de leur raisonnement. Leur constat central est un déficit de politique : les consignes institutionnelles sur l'IA générative portent sur l'[[teacher-role|enseignement]], l'apprentissage et l'évaluation, mais ne disent presque rien du processus de recherche ; les auteurs proposent donc des lignes directrices orientées vers les chercheurs, qui [[scaffolding|étayent]] chaque dimension de la littératie en IA tout au long du flux de travail de recherche, pour les [[research-methods-aied|chercheurs]] et leurs encadrants. [[engagement-intensity-learner-modeling|Oh, Talton et Bui (2026)]] abordent la même population du côté institutionnel : parmi 93 étudiants de troisième cycle et postdoctorants en sciences biologiques suivant un cours obligatoire d'éthique de la recherche, trois signaux comportementaux simples observés avant le cours ont permis de constituer des profils d'entrée légers pour un enseignement adaptatif de l'[[ethics]], tandis que les crédits de cours d'IA antérieurs ne prédisaient aucun des cinq résultats de perception. L'IA transforme également l'équipe de recherche elle-même — l'[[ai-assisted-writing-research-teams|analyse de 147,074 publications]] depuis 2020 associe la rédaction assistée par IA à des équipes plus petites, moins pourvues en seniors, produisant des travaux très cités, renversant la dérive pluridécennale de la « Big Science » vers des collaborations toujours plus grandes — et une [[persistent-ai-agents-academic-research|étude de cas menée par un seul chercheur]] documente ce à quoi ressemble un soutien [[agentic-ai|agentique]] soutenu dans le flux de travail propre à un chercheur.
 
 Les programmes de diplômes professionnels concentrent l'essentiel des données probantes de niveau troisième cycle, et ils sont organisés par discipline. Dans l'[[medical-education|enseignement des professions de santé]], [[ai-standardized-patient-scaffolding-medical-2026|un essai contrôlé randomisé portant sur 100 étudiants en médecine de troisième année]] a testé un système multi-agents fondé sur les LLM — patient simulé, tuteur [[socratic-method|socratique]], évaluateur au niveau du tour de parole — organisé autour de fonctions d'[[scaffolding]] explicites pour la formation à l'entretien clinique, tandis que [[ai-teammate-task-distribution-medical-training-2026|le cadre SCAN]] reconceptualise l'usage de l'IA par les étudiants en problème de répartition des tâches et de classification [[metacognition|métacognitive]] en temps réel, plutôt qu'en *détournement* de la part de l'apprenant. La préparation au niveau master apparaît chez [[instructional-design-proficiency-masters-math-2026|Zhu et al. (2026)]], dont le modèle D–T–E a accru la compétence en conception pédagogique d'étudiants au M.Ed. d'[[math-education|mathématiques]] (*d* de Cohen = 0.62) en faisant intervenir trois LLM comme « relecteurs intelligents » dans une boucle conception–rétroaction–réflexion. [[genai-professionalization-metaphors-2026|La manière dont les étudiants conceptualisent l'IA générative et leur propre professionnalisation]] recoupe l'ensemble de ces programmes, tandis que l'apprentissage professionnel en milieu de travail et la formation continue — adjacents à, mais distincts des études de troisième cycle — sont traités dans l'[[adult-learning]] et la [[professional-training]].
+
+### L'écart entre le premier cycle et le troisième cycle
+
+La fréquence d'usage est la partie la moins informative de l'écart, même si c'est la plus facile à mesurer. [[torres-peralta-perceived-learning-engagement-homework-2026|Torres-Peralta et coll. (2026)]] ont constaté que les étudiants universitaires adoptaient ChatGPT plus souvent que les lycéens et nommaient plus volontiers des préoccupations de divulgation et d'intégrité. Ils ont néanmoins interrogé les lycéens et les universitaires à des moments différents, et qualifient le résultat de gradient plutôt que de progression développementale — la prudence qui s'impose pour toute comparaison de niveaux fondée sur les taux d'adoption.
+
+C'est dans la distribution que l'écart devient pertinent pour la conception. [[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova et coll. (2026)]] ont trouvé les étudiants de troisième cycle supérieurs sur six des sept échelles, avec d = 1.29 pour l'usage de l'IA et d = 1.47 pour l'éthique et l'autonomie académique, la charge cognitive perçue restant inchangée (p = .296). Les écarts-types des étudiants de troisième cycle pour l'éthique, l'autorégulation et la compétence représentaient environ un tiers des valeurs du premier cycle, les écarts interquartiles étant resserrés en haut de l'échelle. Une cohorte de troisième cycle partage un cadre pour juger les productions de l'IA ; une cohorte de licence réunit des évaluateurs critiques et des étudiants qui ne rapportent presque rien de cette disposition, ce qui explique qu'une règle de cours convienne au premier groupe et manque une partie du second.
+
+L'écart éthique est le plus large et le moins assuré. [[kumar-chatgpt-academic-assignments-2025|Kumar et coll. (2025)]] ont trouvé que la conscience éthique ne prédisait pas la performance déclarée aux devoirs (β = −0.006, p = .924) chez 304 étudiants, et l'interprètent comme une éthique qui façonne la conduite plutôt que la note. La mesure de l'éthique qui sous-tend le d = 1.47 comporte trois items auto-déclarés et aucune validation comportementale, et les auteurs de Zaripova s'attendent à ce que la désirabilité sociale la gonfle. La distinction de niveau est donc crédible comme description de la manière dont les étudiants se présentent, et non démontrée comme description de ce qu'ils font. Le résultat qui trancherait est la conduite : divulgation, citation, refus du raccourci.
+
+L'uniformité varie aussi à l'intérieur d'un niveau, et pas seulement entre niveaux. [[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et coll. (2026)]] ont regroupé 522 étudiants d'une même université espagnole en quatre profils d'adoption, de 8.8 % de réfractaires à 14.2 % d'enthousiastes. L'habitude était le prédicteur le plus fort de l'intention (β = 0.199), et le niveau d'études ne modérait pas le modèle. Une seule cohorte de licence couvre donc l'amplitude que la comparaison de niveaux traite comme une différence entre niveaux. [[kong-ai-employability-cognitive-engagement-2026|Kong et Zhang (2026)]] soutiennent que l'adoption, l'accès et la fréquence sont couramment lus comme des proxys de la capacité, et que l'inférence échoue dans les deux sens. Leur revue situe presque chaque résultat mesuré à l'extrémité proximale, si bien qu'un diplômé qui utilise l'IA davantage n'en est pas pour autant plus capable.
 
 ### Corps enseignant et enseignement
 
@@ -109,6 +121,8 @@ Une troisième voie durcit l'exercice lui-même : présenter les énoncés sous 
 
 ## Concepts liés
 
+- [[undergraduate-education]] — L'IA dans les études de licence : grands cours, STIM d'introduction, intégrité de l'évaluation
+- [[graduate-education]] — L'IA dans les études de master et de doctorat : encadrement, formation à la recherche, programmes professionnels
 - [[pedagogical-patterns]] — Le niveau où la majeure partie des preuves de séquences testées a été produite
 - [[online-teaching-and-learning]] — Enseignement et apprentissage en ligne
 - [[generative-ai]] — Technologies et modèles d'IA générative
@@ -170,3 +184,8 @@ Une troisième voie durcit l'exercice lui-même : présenter les énoncés sous 
 - [[ai-ethics-tensions-online-pedagogy-2026]] — Rédiger des consignes propres à chaque méthode, et non une politique d'IA unique pour tout le campus
 - [[ai-literacy-determinants-university-students-2026]] — Les ressources perçues et le soutien des enseignants expliquaient 29% de la variance de littératie en IA, les variables démographiques non
 - [[faculty-ai-well-being-social-supports-2026]] — Financer la littératie en IA, et pas seulement la confiance dans les outils, pour les enseignants
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — Étudiants de troisième cycle supérieurs sur six des sept échelles (d = 1.29 pour l'usage, d = 1.47 pour l'éthique), avec une dispersion bien plus étroite que les étudiants de licence
+- [[torres-peralta-perceived-learning-engagement-homework-2026]] — Apprentissage auto-évalué et indice d'engagement à trois comportements corrélés à 0.052 chez 1 477 répondants
+- [[kumar-chatgpt-academic-assignments-2025]] — La conscience éthique ne prédisait pas la performance déclarée aux devoirs (β = −0.006, p = .924)
+- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Quatre profils d'adoption dans une même université ; l'habitude est le prédicteur le plus fort et le niveau d'études ne modère rien
+- [[kong-ai-employability-cognitive-engagement-2026]] — L'adoption et la fréquence sont lues comme des proxys de capacité ; presque chaque résultat mesuré se situe à l'extrémité proximale

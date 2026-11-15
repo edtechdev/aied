@@ -1,7 +1,7 @@
 ---
 title: "Éducation ouverte"
 created: "2026-10-28T20:30:00-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:54:18-05:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -13,7 +13,7 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/open-education
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -69,7 +69,7 @@ Deux autres études montrent la vitesse à laquelle la pratique devient gouverna
 
 ## Équité, durabilité et Sud global
 
-L'argument d'[[equity-in-ai-education|équité]] en faveur des contenus ouverts est le plus ancien : une ressource sans prix ne peut être exclue pour des raisons financières. C'est aussi le plus volontiers affirmé et le plus rarement éprouvé. Les versions de l'ère de l'IA sont plus prudentes. Atenas et ses collègues présentent les REO comme un levier pour les communautés marginalisées et pour une participation significative à la collecte de données, en avertissant qu'une dépendance excessive aux ressources générées risque de dévaloriser la [[creativity|créativité]] et le jugement humains. Tlili et ses collègues nomment les mécanismes par lesquels la génération affaiblit ce levier : erreur de traduction, biais des données d'entraînement, et boucle d'[[hallucination-risk|hallucination]] où le contenu généré est recyclé dans les corpus qui entraînent le modèle suivant.
+L'argument d'[[equity-in-ai-education|équité]] en faveur des contenus ouverts est le plus ancien : une ressource sans prix ne peut être exclue pour des raisons financières. C'est aussi le plus volontiers affirmé et le plus rarement éprouvé. Les versions de l'ère de l'IA sont plus prudentes. Atenas et ses collègues présentent les REO comme un levier pour les communautés marginalisées et pour une participation significative à la collecte de données, en avertissant qu'une dépendance excessive aux ressources générées risque de dévaloriser la [[creativity|créativité]] et le jugement humains. Tlili et ses collègues nomment les mécanismes par lesquels la génération affaiblit ce levier : erreur de traduction, biais des données d'entraînement, et boucle d'[[hallucination-risk|hallucination]] où le contenu généré est recyclé dans les données d'entraînement du modèle suivant.
 
 La durabilité intervient deux fois, comme financement et comme énergie. L'argument des biens publics numériques est essentiellement un argument de durabilité : un commun fragmenté de fichiers financés par subventions ne survit pas à ses subventions, alors qu'une infrastructure gouvernée publiquement le pourrait. Le volet environnemental apparaît dans la littérature plus large sur l'ouverture et dans le concept de [[sustainability|durabilité]], où le coût d'inférence des modèles est déclaré comme une obligation de la pratique ouverte, non comme un supplément d'attention.
 

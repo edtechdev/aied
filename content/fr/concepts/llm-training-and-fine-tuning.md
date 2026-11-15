@@ -1,7 +1,7 @@
 ---
 title: "Entraînement et ajustement fin des grands modèles de langue"
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:51:14-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 foundations: [ai-education]
@@ -13,7 +13,7 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/llm-training-and-fine-tuning
-source_updated: "2026-11-13T13:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

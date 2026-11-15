@@ -1,14 +1,14 @@
 ---
 title: Psychologie du développement
 created: "2026-11-12T14:20:00-05:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:51:14-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
 methods: [research-methods-aied]
 contributors: [editor]
 translation_of: concepts/developmental-psychology
-source_updated: "2026-11-13T01:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

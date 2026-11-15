@@ -1,7 +1,7 @@
 ---
 title: "Validité de l'évaluation"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-15T11:57:32-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 connected_resources: [vfwa]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, equity-in-ai-education]
 confidence: high
 methods: [rct]
 translation_of: concepts/assessment-validity
-source_updated: "2026-11-13T16:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -153,6 +153,8 @@ La stabilité d'une exécution à l'autre n'est cependant pas garantie : répét
 Webb-Davies, Ratner et Bassett opèrent le même déplacement pour les tâches écrites. Selon eux, une dissertation finale sous-représente le construit lorsqu'elle ne peut montrer comment les affirmations ont été produites, et la réponse de conception est structurelle plutôt que procédurale : saisir le raisonnement une fois sous observation, dans la langue ou la modalité que l'étudiant choisit, puis noter la soumission ultérieure par rapport à cette référence. Ils empruntent à Dawson la distinction entre authentification et contrôle des circonstances pour soutenir qu'un point de contrôle sécurisé fait davantage pour la validité que toute règle sur l'usage autorisé ([[webb-davies-voice-first-written-assessment-2026|Webb-Davies et al., 2026]]).
 
 Winstone, Gravett et Elkington cadrent le problème de l'évaluation à l'ère de GenAI comme un problème « pernicieux » au sens de Rittel et Webber. Les réponses discursives telles que les systèmes de feux tricolores et les déclarations ne peuvent garantir la validité, parce qu'elles sont inapplicables et laissent aux étudiants un travail de délimitation. La validité doit être reconstruite structurellement, dans ce que la tâche exige que les étudiants soumettent et dans la manière dont la grille le lit ([[black-box-assessment-winstone-2026|Winstone et al., 2026]]).
+
+- La réactivité est une menace que l'information imparfaite ne nomme pas : lorsque des traces sont notées, l'observation modifie le construit, car les apprenants retiennent leur confusion, leur recherche d'aide et leurs tentatives abandonnées, si bien que le relevé devient une réponse à la mesure plutôt qu'un résidu de l'apprentissage ([[nakamura-observability-authenticity-paradox-stem-assessment-2026|Nakamura, 2026]]).
 
 ## Idées fausses courantes
 

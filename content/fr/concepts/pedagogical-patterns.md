@@ -1,7 +1,7 @@
 ---
 title: "Patrons pédagogiques"
 created: "2026-09-30T16:20:00-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:54:18-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -13,7 +13,7 @@ connected_faqs: [designing-ai-into-learning]
 connected_resources: [learning-design-wiki]
 contributors: [editor]
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -47,7 +47,7 @@ Chaque patron ci-dessous est rapporté avec un statut probant, parce que les pre
 
 - **Testé** — au moins un article rapporte un test contrôlé ou comparatif.
 - **Mitigé** — testé, mais sans témoin, avec des résultats contradictoires, ou avec la variable testée enchevêtrée à autre chose.
-- **Propositions de conception** — l'idée n'apparaît que comme une proposition ou un cadre, sans test rapporté. Celles-ci sont rassemblées séparément à la fin de la page, dans *Propositions de conception (pas encore testées)*, et ne constituent pas des preuves.
+- **Propositions de conception** — l'idée n'apparaît que comme une proposition ou un cadre, sans test rapporté. Celles-ci sont rassemblées séparément sous *Propositions de conception (pas encore testées)*, et ne constituent pas des preuves.
 
 Les patrons sont regroupés par la fonction qu'ils servent dans une leçon : placer l'effort avant l'aide, associer la rétroaction de l'IA à la rétroaction humaine, vérifier la compréhension plutôt que la production, faire de l'apprenant l'enseignant, structurer la collaboration, et confronter une [[misconceptions|idée fausse]] spécifique. Les contextes (en ligne, en face à face, hybrides) et les disciplines sont rapportés avec chacun, et résumés à la fin.
 

@@ -1,7 +1,7 @@
 ---
 title: "Le développement théorique en IA éducative"
 created: "2026-08-22T07:08:19-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:59:25-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [learning-theories]
@@ -10,7 +10,7 @@ page_kind: [framework]
 confidence: medium
 methods: [research-methods-aied]
 translation_of: concepts/theory-development-aied
-source_updated: "2026-11-13T16:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

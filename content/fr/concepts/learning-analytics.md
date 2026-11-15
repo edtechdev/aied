@@ -1,7 +1,7 @@
 ---
 title: "Analytique de l'apprentissage"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:54:08-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-15T09:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -77,6 +77,7 @@ Un encodage fréquentiel des [[qualitative-research|données qualitatives]] est 
 
 ## De la description à l'intervention
 - **Les données probantes ne sont pas encore des preuves d'intervention.** En synthétisant quatre études aux niveaux des élèves, des disciplines, des éducateurs et des institutions, [[learning-analytics-genai-learning-design|Rienties, Divjak et Law (2026)]] constatent que le champ est dominé par des devis transversaux, des [[self-report-measures|auto-déclarations]], des analyses de discours et des jugements d'experts, et appellent à des recherches interventionnelles testant des mécanismes causaux et des résultats à plus long terme et distributionnels.
+- **Les types d'intervention ne sont pas interchangeables.** Une revue PRISMA de 39 études expérimentales et quasi expérimentales a trouvé que les invites (prompts) sont liées à l'[[self-regulated-learning|autorégulation]] et aux acquis de connaissances, les indices (cues) aux processus attentionnels, et les coups de pouce (nudges) à l'engagement comportemental ; l'intervention doit donc être choisie pour le résultat qu'elle cible ([[rako-prompts-cues-nudges-systematic-review-2026|Rako, Šimić et Rienties, 2026]]).
 
 **Un devis à encouragement aléatoire fournit l'ancrage causal.** Dans une expérience à encouragement aléatoire sur ASSISTments, [[lim-assignment-report-intelligent-tutoring-randomized-encouragement-2025|Lim, Heffernan et Sales (2025)]] ont incité aléatoirement des enseignants nouveaux sur la plateforme à consulter le rapport de devoir après en avoir créé un.
 Sur l'échantillon analytique de 330 enseignants (156 témoins, 174 encouragés ; 281 pour la valeur ajoutée), consulter le rapport du premier devoir augmentait significativement l'achèvement du devoir suivant (F d'Anderson-Rubin = 4,092, p = 0,044) — d'au moins 2 points de pourcentage.
@@ -92,6 +93,8 @@ L'étape qui suit le score — qui reçoit du soutien, et si celui-ci a été al
 
 Un résultat d'intégrité entre dans cette même couche prédictive. [[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]] prédit le risque de triche assistée par l'IA à partir des huit premières semaines de traces de [[video-education|Moodle et du lecteur vidéo]], atteignant un AUC de 0.763 par régression logistique, et soutient que le signal est utilisable précisément parce qu'il arrive avant l'examen plutôt que pendant celui-ci.
 Une ligne complémentaire cible l'*interprétation* de l'analytique elle-même. Le cadre FACTRIA de [[factria-responsible-institutional-analytics-2026|Marques et al. (2026)]] organise les facteurs de biais derrière un indicateur — de pipeline, institutionnels, de cours et démographiques — et un chatbot de sollicitation réflexive a fait passer les sous-facteurs que 11 parties prenantes soupesaient par cas de 1.41 à 3.45 (d = 2.15), les faisant passer de lectures directes à des lectures conditionnelles.
+
+- Une trace recueillie pour la rétroaction et une trace recueillie pour une note correspondent à des comportements différents : dès que les apprenants savent qu'un enregistrement peut être évalué, ils gèrent ce qu'il montre, si bien que le journal mesure la présentation de l'apprentissage autant que l'apprentissage lui-même ([[nakamura-observability-authenticity-paradox-stem-assessment-2026|Nakamura, 2026]]).
 
 ## Méthodes et analyse de réseaux
 

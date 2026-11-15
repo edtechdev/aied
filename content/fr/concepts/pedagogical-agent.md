@@ -1,7 +1,7 @@
 ---
 title: "Agent pédagogique"
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:54:18-05:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/pedagogical-agent
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -71,6 +71,7 @@ La surface de l'agent est un axe de conception distinct de sa pédagogie. [[ai-a
 **Mettre à l'épreuve la robustesse de la persona sur plusieurs tours.** [[adversarial-stress-testing-role-playing-agents|Shouqi et al. (2026)]] ont mené six attaques escaladantes contre des agents de jeu de rôle avec un Juge automatisé : le test à stratégies multiples a réduit la robustesse de 0,17 à 0,20 par rapport à une référence à stratégie unique, et les défaillances critiques se regroupaient après les tours 5 à 6, si bien que les évaluations courtes ou à tour unique surestiment la stabilité de la persona et l'adhésion éthique.
 - **Un agent pair dont les suggestions faillibles sont précisément l'intérêt.** Copa associe une récupération contextualisée par le journal, GPT-4o et une base de connaissances propre à la tâche de quinze extraits, et résume chaque segment d'étudiant de manière agentique : il compare le modèle de l'étudiant à une version experte, diagnostique le problème exprimé et nomme ce qu'il faut récupérer. Dans une étude en classe menée auprès de 16 étudiants et de deux groupes de discussion, tous les participants ont déclaré que ses indications soutenaient leur résolution de problème et étaient exactes, et tous l'utiliseraient de nouveau. Plusieurs ont aussi demandé des réponses directes, et certains ont supposé qu'une suggestion était correcte jusqu'à ce que leur modèle se dégrade. Les auteurs y voient le coût d'un agent conçu pour susciter l'évaluation plutôt que pour répondre ([[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn et al., 2025]]).
 - **Un compagnon déployé du cycle d'enquête qui initie plutôt qu'il n'attend.** Dans un déploiement STIM du secondaire auprès de 710 étudiants, un compagnon d'apprentissage par IA structurait cinq phases — Engagement, Hypothèse, Expérience, Analyse et Réflexion — offrait des conseils selon son propre calendrier, et maintenait chaque élément généré par LLM derrière l'approbation de l'enseignant ([[anagnostopoulou-ai-companion-stem-self-efficacy-2026|Anagnostopoulou et al., 2026]]). Tous les résultats étaient auto-déclarés à un seul point temporel, de sorte que la conception est documentée plutôt que démontrée efficace.
+- Lan et Chen (2026) proposent de scinder un agent conçu par un enseignant en cinq couches — conception pédagogique, interaction, capacité, orchestration et gouvernance — en associant chaque décision de l'enseignant au mécanisme qui l'exécute, et stipulent que toute révision revient à la couche concernée : le système d'exécution ne peut pas autoriser sa propre correction ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan et Chen, 2026]]).
 
 ## Orientations pratiques
 

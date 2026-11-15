@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Le développement éducatif
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:53:49-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T21:52:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,8 @@ Le développement éducatif est le travail professionnel et institutionnel par l
 - **La réflexion professionnelle médiatisée par l'IA.** Le Reflective Triangle Model positionne l'IA comme un médiateur cognitif entre l'[[reflection|auto-réflexion]], la réflexion collaborative et la réflexion communautaire au sein d'une communauté d'apprentissage professionnel, testé dans une étude de faisabilité de quatre semaines auprès de six enseignants ; la frontière qu'il trace est que l'insight individuel ne devient pas automatiquement un savoir professionnel partagé ([[reflective-triangle-model-teacher-ai-2026|Nguyen (2026)]]).
 - **[[governance|La gouvernance]] et la politique :** les [[genai-policies-higher-ed-computing|analyses des politiques institutionnelles sur l'IA]] documentent l'écart entre les ambitions institutionnelles et la capacité de soutien aux enseignants.
 - **La littératie en IA est institutionnellement invisible.** Une [[meta-analysis-systematic-review|revue systématique]] de 32 études sur la littératie en IA des enseignants de langues l'a trouvée absente des modèles de charge de travail, des politiques de promotion et de l'allocation des ressources, avec un développement fragmenté et une responsabilité déplacée entre les établissements et les agences — si bien que le développement de la littératie se replie par défaut sur l'effort individuel plutôt que sur un soutien structurel ([[governing-unseen-ai-literacy-language-teachers-2026|Deng, Çelik & Duran, 2026]]).
+
+- **Les ateliers de fabrication ont besoin d'un point d'appui conceptuel.** Trois séances de 50 minutes ont conduit 20 à 25 enseignants d'un prompt ludique à des supports pédagogiques réutilisables ; certains participants peu exposés à l'IA réclamaient toutefois un briefing conceptuel avant de passer à l'expérimentation ([[fischer-learning-by-making-faculty-development-2026|Fischer (2026)]]).
 
 ### Les métaphores et le langage partagé dans le développement éducatif
 

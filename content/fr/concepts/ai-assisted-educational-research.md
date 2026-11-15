@@ -1,7 +1,7 @@
 ---
 title: "Recherche éducative assistée par IA"
 created: "2026-10-05T10:45:00-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-15T11:59:25-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -15,7 +15,7 @@ connected_faqs: [making-simulated-students-behave-like-learners, how-can-ai-assi
 confidence: medium
 connected_resources: [learning-design-wiki]
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-11-13T10:36:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

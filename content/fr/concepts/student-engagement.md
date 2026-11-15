@@ -1,7 +1,7 @@
 ---
 title: "L'engagement des étudiants"
 created: "2026-08-13T05:32:35-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:54:18-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/student-engagement
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -100,7 +100,7 @@ Cette distinction n'est pas qu'académique. [[pramod-agentic-ai-motivational-pat
 
 ## La pédagogie fait médiation dans l'effet de l'IA sur l'engagement
 
-Une synthèse systématique de l'[[higher-ed|IA dans l'enseignement supérieur]] ([[long-ai-higher-ed-engagement-teaching-methods-2026|Long et al., 2026]]) souligne que **la méthode [[teacher-role|d'enseignement]] dans laquelle un outil d'IA s'insère est le médiateur décisif** de sa capacité à engager les étudiants. Les chatbots, les systèmes adaptatifs et l'analyse prédictive améliorent le plus l'engagement lorsqu'ils sont déployés au sein de pédagogies interactives — classes inversées, [[project-based-learning|apprentissage par projets]] et boucles de [[feedback|rétroaction]] étayées — plutôt que comme outils autonomes. La revue formalise cela par le **modèle PMAISE** (médiation [[pedagogy|pédagogique]] de l'IA pour l'engagement des étudiants), cartographiant l'alignement entre les [[ai-technologies|Technologies de l'IA]] d'IA, les stratégies pédagogiques et les dimensions affective, comportementale et cognitive de l'engagement. L'implication est que les résultats d'engagement sont co-produits par l'outil *et* par la [[learning-design|conception pédagogique]] environnante : la même IA peut amplifier l'engagement dans une pédagogie et l'inhiber dans une autre.
+Une synthèse systématique de l'[[higher-ed|IA dans l'enseignement supérieur]] ([[long-ai-higher-ed-engagement-teaching-methods-2026|Long et al., 2026]]) souligne que **la méthode [[teacher-role|d'enseignement]] dans laquelle un outil d'IA s'insère est le médiateur décisif** de sa capacité à engager les étudiants. Les chatbots, les systèmes adaptatifs et l'analyse prédictive améliorent le plus l'engagement lorsqu'ils sont déployés au sein de pédagogies interactives — classes inversées, [[project-based-learning|apprentissage par projets]] et boucles de [[feedback|rétroaction]] étayées — plutôt que comme outils autonomes. La revue formalise cela par le **modèle PMAISE** (médiation [[pedagogy|pédagogique]] de l'IA pour l'engagement des étudiants), cartographiant l'alignement entre les [[ai-technologies|technologies d'IA]], les stratégies pédagogiques et les dimensions affective, comportementale et cognitive de l'engagement. L'implication est que les résultats d'engagement sont co-produits par l'outil *et* par la [[learning-design|conception pédagogique]] environnante : la même IA peut amplifier l'engagement dans une pédagogie et l'inhiber dans une autre.
 
 Un compte rendu en deux dimensions fait le même point depuis le versant pédagogique. Le cadre d'alignement rigueur-engagement d'Al Nafjan traite l'engagement sous l'IA générative comme déterminé conjointement par la difficulté de la tâche et par l'engagement de l'enseignant envers l'apprentissage des étudiants, et il prédit quatre configurations ([[al-nafjan-genai-eap-writing-engagement-2026]]). Une faible rigueur avec un faible engagement (Négligent) et une faible rigueur avec un fort engagement (Complaisant) débouchent toutes deux sur un usage superficiel, puisque rien n'oblige l'étudiant à évaluer ou à justifier ce que l'outil a produit. Une forte rigueur avec un soutien mince (Punitive) pousserait les étudiants vers la dissimulation plutôt que vers un usage responsable, et seule une forte rigueur avec un fort soutien produirait un engagement profond et agentique.
 

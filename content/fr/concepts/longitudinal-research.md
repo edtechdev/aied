@@ -1,14 +1,14 @@
 ---
 title: Recherche longitudinale
 created: "2026-11-12T14:28:00-05:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:54:18-05:00"
 type: concept
 research_method: [literature review]
 confidence: high
 methods: [longitudinal-research, research-methods-aied, quantitative-research]
 contributors: [editor]
 translation_of: concepts/longitudinal-research
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -34,7 +34,7 @@ ai_assist:
 
 La recherche longitudinale est une famille de conceptions plutôt qu'une méthode : enquêtes répétées sur la même cohorte, études de panel, modèles de courbes de croissance, comparaisons de cohortes, échantillonnage d'expériences et analyses de données de journal qui s'accumulent sur un semestre. Ce qui les unit est l'unité d'analyse — le même apprenant, la même classe ou le même établissement observé plus d'une fois — et le gain inférentiel qui en découle.
 
-Ce gain est souvent surestimé. Le corpus contient une centaine d'articles qui se décrivent comme longitudinaux, et ils vont d'analyses de tendance sur quatre semestres à une seule comparaison pré/post. L'étiquette est devenue un signal de qualité, ce qui rend utile la précision sur ce que chaque conception soutient. Une enquête répétée peut montrer qu'une distribution s'est déplacée. Un modèle de panel peut montrer qu'une personne s'est déplacée par rapport à sa propre ligne de base. Un modèle de croissance peut montrer que le rythme du déplacement diffère entre les personnes et que deux processus évoluent ensemble. Seules certaines conceptions dotées d'une mesure de résultat aux deux extrémités peuvent commencer à traiter la question de savoir si l'outil a causé le changement.
+Ce gain est souvent surestimé. Une centaine d'articles se décrivent comme longitudinaux, et ils vont d'analyses de tendance sur quatre semestres à une seule comparaison pré/post. L'étiquette est devenue un signal de qualité, ce qui rend utile la précision sur ce que chaque conception soutient. Une enquête répétée peut montrer qu'une distribution s'est déplacée. Un modèle de panel peut montrer qu'une personne s'est déplacée par rapport à sa propre ligne de base. Un modèle de croissance peut montrer que le rythme du déplacement diffère entre les personnes et que deux processus évoluent ensemble. Seules certaines conceptions dotées d'une mesure de résultat aux deux extrémités peuvent commencer à traiter la question de savoir si l'outil a causé le changement.
 
 Les études les plus solides établissent moins que leurs étiquettes ne le suggèrent, et les familles de conceptions diffèrent par ce que chacune peut soutenir.
 

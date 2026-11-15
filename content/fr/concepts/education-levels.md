@@ -1,7 +1,7 @@
 ---
 title: "Niveaux d'éducation"
 created: "2026-09-20T13:08:39-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:55:39-05:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -15,7 +15,7 @@ discipline: [teacher education]
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education]
 confidence: medium
 translation_of: concepts/education-levels
-source_updated: "2026-11-13T12:55:00-05:00"
+source_updated: "2026-11-15T06:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -42,9 +42,9 @@ ai_assist:
 
 ## Introduction
 
-Le champ de métadonnées `level` nomme la bande d'éducation dont traite une source — des bandes, et non des âges : **preschool**, **primary education**, **middle school**, **secondary**, **K-12**, **higher ed**, **undergraduate**, **graduate**, **adult learning**, **special education**, **teacher education**. Certaines nomment un stade de la scolarité, deux nomment les moitiés très différentes des études universitaires, deux nomment une [[learners|population d'apprenants]] plutôt qu'un stade, et une nomme les personnes qui enseignent. Une source peut porter plusieurs bandes à la fois.
+Le champ de métadonnées `level` nomme la bande d'éducation dont traite une source — des bandes, et non des âges : **preschool**, **primary education**, **middle school**, **secondary**, **K-12**, **higher ed**, **undergraduate**, **graduate**, **adult learning**, **special education**. Certaines nomment un stade de la scolarité, deux nomment les moitiés très différentes des études universitaires, et deux nomment une [[learners|population d'apprenants]] plutôt qu'un stade. Une source peut porter plusieurs bandes à la fois. La formation des enseignants n'est pas une bande : c'est un champ professionnel, étiqueté sous [[discipline-specific-aied|discipline]], parce qu'il traverse les études de premier et de troisième cycle (formation initiale) ainsi que le K-12 et l'apprentissage des adultes (formation continue).
 
-Les pages de bande font le travail approfondi et accompagnent toute lecture du champ : [[k-12]], [[early-childhood-elementary-ai-education]], [[higher-ed]], [[adult-learning]], [[special-education]], [[teacher-education]] et [[vocational-education]].
+Les pages de bande font le travail approfondi et accompagnent toute lecture du champ. À l'intérieur des années scolaires : l'[[early-childhood-elementary-ai-education|éducation de la petite enfance]] (l'école maternelle et les premières années), l'[[primary-education|enseignement primaire]] (environ 5 à 11 ans) et l'[[secondary-education|enseignement secondaire]] (collège et lycée réunis), la page [[k-12]] rassemblant les constats transversaux. À l'intérieur des études universitaires : l'[[higher-ed|enseignement supérieur]] comme parapluie, l'[[undergraduate-education|premier cycle]] pour les travaux évalués de l'extérieur, et l'[[graduate-education|troisième cycle]] pour l'encadrement, la formation à la recherche et les programmes professionnels. Hors des deux échelles : l'[[adult-learning|apprentissage des adultes]], l'[[vocational-education|enseignement professionnel]], l'[[special-education|éducation spécialisée]] et la [[teacher-education|formation des enseignants]].
 
 ## Ce qui distingue une bande d'une autre
 
@@ -62,6 +62,16 @@ La division la plus lourde de conséquences est la césure entre l'école et l'u
 À l'intérieur des années scolaires, le résultat mesuré change fortement selon la bande. Au primaire, c'est l'apprentissage des matières : 97 élèves chinois de cours moyen utilisant des [[conversational-ai|chatbots d'IA générative]] dans une [[science-education|démarche scientifique]] ont posé de meilleures questions qu'un groupe témoin utilisant un moteur de recherche (t = 2.47, p = 0.015) ([[dai-chatbots-problem-posing-primary-2026]]). Au secondaire, cela devient souvent l'attitude plutôt que la réussite. Une enquête menée auprès de 508 collégiens taïwanais a montré que l'attrait expérientiel agissait, par l'intermédiaire du plaisir, sur l'intention d'utiliser [[generative-ai|ChatGPT]] pour l'apprentissage de paroles de chansons (XM → PEOU β = 0.630 ; PE → ATU β = 0.369), 81.5% d'entre eux étant sur le palier gratuit — un fait d'[[equity-in-ai-education|équité]] d'accès déguisé en constat d'acceptabilité technologique ([[chatgpt-music-education-junior-high-2026]]). Le secondaire porte aussi l'avertissement d'apprentissage le plus important de la littérature : parmi 26,811 élèves chinois des classes de la 6e à la terminale, les notes de devoirs ont augmenté de 18% et le temps de réalisation a chuté de 30%, tandis que les notes aux [[summative-assessment|examens à livre fermé]] ont chuté d'environ 20% en six mois, concentration observée chez les ~81% dont le comportement indiquait une externalisation des devoirs ([[stromberg-generative-ai-learning-penalty-secondary-2026]]).
 
 Les années universitaires se divisent à nouveau. Le premier cycle est fait de travaux évalués de l'extérieur : parmi des rédacteurs de premier cycle d'une université R1 au service des minorités, l'[[ai-literacy|littératie en IA]] prédisait *quel type* de dépendance aux [[llm]] un étudiant occupait, plutôt que la quantité de son usage ([[llm-reliance-types-undergrad]]). Le troisième cycle est une formation à la recherche, où le résultat passe de la performance à la formation. Parmi 420 chercheurs doctoraux et postdoctoraux en astronomie, la dépendance à l'IA était négativement associée à l'[[agency|autonomie]] de recherche (r = −.355) et à l'[[self-efficacy]] (r = −.321), et le chemin indirect vers le comportement innovant passait surtout par l'autonomie (−.115) plutôt que par l'auto-efficacité (−.069) ; le soutien de l'encadrement affaiblissait le lien négatif avec l'autonomie (B = .077, p = .020) ([[ai-mediated-research-agency-formation-2026]]). Un doctorant est jugé sur le jugement même que la dépendance à l'IA semble éroder ; un étudiant de premier cycle ne l'est pas. Regrouper les deux sous l'étiquette « enseignement supérieur » masque cela.
+
+## La littératie en IA comme séquence développementale
+
+Les quatre composantes de la littératie en IA au primaire incluent déjà ce que les cadres du troisième cycle traitent comme avancé. À travers 25 études empiriques, [[yim-ai-literacy-primary-schools-review-2025|Yim et Su (2025)]] ont trouvé la littératie numérique pour interagir avec l'IA dans 19 études, la pensée informatique dans 10, l'éthique de l'IA dans 10 et la littératie critique des données dans 5. Les agents intelligents apparaissaient dans 15 études et l'activité débranchée dans 3 : la bande la plus précoce enseigne donc l'IA en fabriquant et en inspectant un modèle plutôt qu'en l'utilisant.
+
+Au secondaire, le construit devient un jugement sous contrainte de temps. À travers 33 études, tous les outils testés tombaient sous 20 % sur les items de biologie d'ordre supérieur, tandis que BingChat et Bard atteignaient 92.11 % sur les items de base ([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca et coll. (2026)]]). Les gains apparaissaient là où les élèves comparaient et rejetaient les productions, et s'évanouissaient là où l'outil faisait le travail. Ce que les élèves disent apprendre suit à peine ce qu'ils font des productions : dans une étude auprès de 1 477 répondants, l'apprentissage perçu et un indice d'engagement corrélaient à 0.052 ([[torres-peralta-perceived-learning-engagement-homework-2026|Torres-Peralta et coll. (2026)]]).
+
+Au premier cycle, l'articulation est la littératie plutôt que l'éthique. Parmi 304 étudiants de premier et de troisième cycle, la littératie numérique prédisait la performance auto-déclarée aux devoirs (β = 0.393) tandis que la conscience éthique ne la prédisait pas (β = −0.006) ([[kumar-chatgpt-academic-assignments-2025|Kumar et coll. (2025)]]). Au troisième cycle, l'écart est un écart de jugement : les étudiants de troisième cycle surpassaient ceux de premier cycle de d = 1.47 sur l'éthique et l'autonomie académique, et la fréquence d'usage prédisait la compétence à β = 0.030 une fois l'éthique et l'autorégulation entrées dans le modèle ([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova et coll. (2026)]]). Le cadre du troisième cycle ajoute la réflexion métacognitive, la dimension qui manque aux quatre composantes du primaire ([[zhi-modeling-measuring-graduate-genai-literacy-2026|Zhi et coll. (2026)]]).
+
+Lu comme une séquence, le continuum change ce que chaque bande devrait évaluer plutôt que ce qu'elle devrait enseigner. Le travail au primaire demande un artefact qu'un enfant peut expliquer, celui du secondaire une comparaison qu'un élève peut défendre, et celui du troisième cycle un compte rendu des affirmations qui reviennent au candidat lui-même ([[academic-integrity|intégrité académique]]). Un outil adéquat à un bout n'est pas une preuve à l'autre.
 
 ## Là où les données probantes sont concentrées, et là où elles sont minces
 
@@ -105,6 +115,10 @@ Un schéma vaut à chaque niveau étudié : la couche humaine absorbe les cas le
 
 ## Concepts liés
 
+- [[primary-education|L'enseignement primaire]] — la bande primaire à part entière
+- [[secondary-education|L'enseignement secondaire]] — collège et lycée réunis
+- [[undergraduate-education|Le premier cycle]] — des travaux évalués de l'extérieur
+- [[graduate-education|Le troisième cycle]] — encadrement, formation à la recherche, programmes professionnels
 - [[k-12]]
 - [[early-childhood-elementary-ai-education]]
 - [[higher-ed]]
@@ -131,3 +145,9 @@ Un schéma vaut à chaque niveau étudié : la couche humaine absorbe les cas le
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — Apprentissage par problèmes immersif assisté par l'IA pour des étudiants en design professionnel (Jin et al. 2027)
 - [[preschool-teachers-ai-behavioral-intention-2026]] — L'intention des enseignants de maternelle d'utiliser l'IA dans les contextes de petite enfance
 - [[vahedian-children-attitudes-ai-chatbot-2026]] — Les attitudes des enfants envers un chatbot d'IA adapté à l'âge
+- [[yim-ai-literacy-primary-schools-review-2025]] — 25 études primaires ; quatre composantes dont l'éthique et la littératie critique des données (Yim et Su 2025)
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 études secondaires ; l'exactitude s'effondre sur les items d'ordre supérieur (Pérez-Montesdeoca et coll. 2026)
+- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 1 477 répondants du lycée, de l'université et du corps enseignant ; apprentissage perçu contre engagement
+- [[kumar-chatgpt-academic-assignments-2025]] — 304 étudiants de premier et de troisième cycle ; la littératie numérique prédisait la performance, l'éthique non
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — Comparaison premier cycle / troisième cycle ; l'écart d'éthique et d'autonomie est le plus large (Zaripova et coll. 2026)
+- [[zhi-modeling-measuring-graduate-genai-literacy-2026]] — Modèle de littératie en IA générative à cinq dimensions pour le troisième cycle

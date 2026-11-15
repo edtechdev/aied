@@ -1,7 +1,7 @@
 ---
 title: Texte réfutatif
 created: "2026-08-26T10:20:00-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:59:25-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition, scaffolding]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [science education]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/refutation-text
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

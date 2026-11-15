@@ -1,14 +1,14 @@
 ---
 title: "Développement de carrière et préparation professionnelle"
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:55:53-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/career-development-and-readiness
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-15T09:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -56,6 +56,7 @@ ai_assist:
 - **Ce que les enseignants attendent que l'IA déplace, et ce que cela n'est pas.** Dans dix entretiens menés dans un département d'[[engineering-education|ingénierie]] centré sur l'IA, les enseignants divergeaient sur la manière dont l'IA générative remodelerait le travail, citant la programmation, l'[[writing-education|écriture]] et le travail informationnel comme vulnérables à court terme, sans avancer aucune preuve de marché du travail pour ces attentes ([[sadik-ai-ready-engineering-talent-faculty-2026|Sadik (2026)]]).
 - **Les transitions professionnelles.** L'étude sur les [[post-covid-ict-career-aspirations|aspirations de carrière dans les TIC]] examine comment les intentions de carrière des étudiants se déplacent en réponse au changement technologique.
 - **L'ancrage théorique.** L'[[kim-ai-anxiety-comprehensive-analysis|analyse approfondie de l'anxiété liée à l'IA]] identifie la **peur d'être remplacé par l'IA** comme un moteur principal de l'anxiété liée à l'IA — la dimension de carrière que ce concept traite de front.
+- **Les conseils de carrière des LLM portent un parti pris occidental par défaut.** Interrogés sur ce qu'exigent les emplois informatiques de niveau débutant dans dix pays africains, six modèles n'ont reconnu les écosystèmes locaux, les besoins linguistiques et les politiques nationales que dans 35,4% des cas : le conseil technique se transfère, mais pas le contexte ([[eze-llm-career-guidance-african-computing-2026|Eze, Lunn et Berhane, 2026]]).
 
 ## Career readiness as a protective and developmental goal
 

@@ -1,7 +1,7 @@
 ---
 title: Réduire les mésusages de l'IA
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:55:51-05:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -10,7 +10,7 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -78,7 +78,7 @@ Les leviers éducatifs prennent un tout autre visage dès lors que l'intégrité
 
 **Reconnaître l'[[ai-sycophancy|adulatoire]] pour prévenir l'acceptation acritique.** Parce que l'IA [[ai-sycophancy|adulatrice]] valide l'utilisateur plutôt qu'elle ne le conteste, elle constitue un vecteur direct de mésusage : les étudiants qui reçoivent une approbation flatteuse pour une pensée incorrecte sont encouragés à substituer l'IA à leur propre [[cognitive-offloading|travail cognitif]]. La [[contextual-sycophancy-ai-literacy|sycophancy contextuelle]] montre que la littératie en IA et l'entraînement au prompting réduisent la boucle d'erreur sans l'éliminer, de sorte que la prévention du mésusage doit associer l'entraînement éducatif à la reconnaissance à une conception de friction corrective au niveau du système (voir les garde-fous du palier 1).
 
-- **[[desirable-difficulties|Friction productive]] et fonction pédagogique.** La revue rapide de Sydney soutient que l'IA générative nuit à l'apprentissage lorsqu'elle laisse les étudiants contourner la friction cognitive et métacognitive nécessaire pour apprendre, et que des outils conçus à dessein introduisent une *friction productive* (retenir les réponses, demander une explication). Elle distingue quatre fonctions pédagogiques — apprendre *de*, *avec*, *au sujet de*, ou *en façonnant* l'IA générative — dont chacune fait des demandes différentes en termes d'agentivité et d'évaluation. ([[young-people-learning-generative-ai-rapid-review-2026]])
+- **[[desirable-difficulties|Friction productive]] et fonction pédagogique.** La revue rapide de Sydney soutient que l'IA générative nuit à l'apprentissage lorsqu'elle laisse les étudiants contourner la friction cognitive et métacognitive nécessaire pour apprendre, et que des outils conçus à dessein introduisent une *friction productive* (retenir les réponses, demander une explication). Elle distingue quatre fonctions pédagogiques — apprendre *de*, *avec*, *au sujet de*, ou *en façonnant* l'IA générative — dont chacune fait des demandes différentes en termes d'agentivité et d'évaluation. ([[young-people-learning-generative-ai-rapid-review-2026|Arthars et al., 2026]])
 
 ## Idées fausses courantes
 

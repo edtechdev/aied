@@ -1,7 +1,7 @@
 ---
 title: "Évaluation orale"
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:51:14-05:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 connected_resources: [code-viva]
@@ -15,7 +15,7 @@ level: [higher ed]
 confidence: medium
 contributors: [editor]
 translation_of: concepts/oral-assessment
-source_updated: "2026-11-13T10:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 ai_assist:
   - model: stepfun/step-5-preview:free

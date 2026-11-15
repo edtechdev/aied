@@ -2,7 +2,7 @@
 title: "Notation automatisée de dissertations"
 connected_resources: [moodle-qtype-aitext]
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-13T20:20:00-05:00"
+updated: "2026-11-15T11:51:14-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +11,7 @@ discipline: [writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/automated-essay-scoring
-source_updated: "2026-11-13T10:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

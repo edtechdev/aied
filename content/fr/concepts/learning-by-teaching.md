@@ -1,7 +1,7 @@
 ---
 title: "Apprendre en enseignant"
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:53:56-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -9,7 +9,7 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T21:52:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -63,6 +63,7 @@ Un défi de conception central pour les agents enseignables fondés sur les gran
 - **[[prompting-teachability-novice-personas-lbt-2026|Les invites pour l'enseignabilité]]** (Miller et Bosch) ont montré que les invites fondées sur des contraintes, qui forcent explicitement la production d'erreurs (par exemple, « réponds incorrectement » ou « trompe-toi sur 2 à 3 points »), suscitent un comportement de novice de manière bien plus fiable que les invites fondées sur le persona, sur les idées fausses ou sur l'incertitude.
 - **[[socrates-students-instructors-llms-lbt-2025|Les lacunes de connaissance ingéniées]]** (Yang et coll.) conçoivent des problèmes que le grand modèle de langue ne peut résoudre sans des connaissances que seul l'étudiant possède, ce qui rend l'enseignement nécessaire et contre la dépendance passive de l'usage du grand modèle de langue comme tuteur.
 - **Les contraintes d'apprenti d'Explique** (Wang et coll.) demandent au tutoré de (a) rester un novice, (b) continuer à demander des clarifications jusqu'à ce que l'explication de l'étudiant soit exacte, et (c) ne jamais révéler l'explication cible — et de *résister* aux étudiants qui essaient d'inverser les rôles et de faire expliquer le tutoré en retour.
+- **La supervision comme tâche du tutoré.** Dans une étude de conception portant sur deux cours, les étudiants recrutent, intègrent et accompagnent un assistant d'usage général, puis documentent ce qu'il a raté ; les enseignants rapportent qu'expliquer les conventions à l'outil a clarifié ces conventions pour l'étudiant ([[rodak-braddock-hire-ai-personal-assistants-2025|Rodak & Braddock, 2025]]).
 - **Le désapprentissage comme voie vers la faillibilité au niveau des poids.** Le désapprentissage automatique supprime 16 composants de connaissance ciblés dans Mistral-7B, faisant tomber l'exactitude d'environ 0.75 à un taux d'oubli de 10% à moins de 0.5 à 40%, tandis que le modèle de base se maintenait près de 0.85. Les connaissances supprimées sont revenues par réapprentissage supervisé et par dialogue guidé par un entraîneur, de sorte que le niveau de connaissance du tutoré est un cadran plutôt qu'une affirmation ([[simulating-novice-students-machine-unlearning-2026|Song, Guo et Lin (2026)]]).
 
 ## Questionnement, autorégulation et apprentissage actif

@@ -1,7 +1,7 @@
 ---
 title: "L'enseignement de la physique"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:55:51-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [teacher-dev]
 translation_of: concepts/physics-education
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -86,7 +86,7 @@ Une invite réutilisable à quatre éléments — outils, affichage, commandes m
 Une revue [[meta-analysis-systematic-review|PRISMA]] de 2026 portant sur 11 études empiriques dans six pays parvient à la même conclusion au niveau du champ : les gains à court terme issus de la [[ai-feedback-quality|rétroaction]] et de la simulation par IA ne persistaient pas dans les examens ultérieurs ni ne se transféraient à une performance indépendante ([[ai-university-physics-education-review-2026|revue de l'IA dans l'enseignement universitaire de la physique]]).
 
 **La conception du rôle de l'agent comme variable pédagogique.** [[wang-teacher-student-centered-agents-physics-2026|Wang et coll. (2026)]] maintiennent constants le modèle (DeepSeek R1), la plateforme et la température, et ne font varier que le rôle spécifié par l'invite : un agent centré sur l'enseignant qui répond avec autorité à partir d'une source de connaissances bornée, versus un agent centré sur l'étudiant configuré comme un enseignant empathique connaissant la compréhension des étudiants, scripté pour diagnostiquer la cause des [[misconceptions|idées fausses]], nommer le concept pertinent et transférer vers un phénomène analogue. Sur 59 diplômés du secondaire travaillant sur deux items conceptuels, l'agent centré sur l'étudiant a produit des scores de post-test plus élevés (9,67 contre 7,93 ; r = 0,38), une charge cognitive extrinsèque plus faible et une charge cognitive pertinente plus élevée, une expérience de flow plus forte (d = 0,92) et une perception d'empathie plus élevée (r = 0,53) — la preuve que le cadrage du rôle, et pas seulement l'exactitude de la réponse, est ce qui rend un agent de physique pédagogiquement efficace ([[pedagogical-agent|agents pédagogiques]], [[prompt-engineering|ingénierie des invites]]).
-- **Les scores des repères sous-estiment ce que les modèles peuvent déjà faire en physique.** Une nouvelle correction de six repères de physique largement utilisés par des experts du domaine a montré que l'essentiel du déficit rapporté était un artefact d'items défectueux et de correcteurs automatisés restrictifs : sur 250 rejets audités, 143 (57,20%) étaient des défauts du repère et 95 (38,00%) des erreurs de correcteur, avec seulement 12 (4,80%) d'erreurs de modèle authentiques. Corrigé, le HLE-Physics mean@4 passait de 47,28% à 78,66% et le CritPt de 32,29% à 87,50%. Pour l'enseignement de la physique, cela coupe dans les deux sens : cela signifie que les étudiants peuvent déjà obtenir des solutions textuelles de niveau expert pour de nombreux problèmes canoniques, si bien que l'évaluation du raisonnement physique doit se tourner vers des items qui résistent à la contamination par les repères et vers des preuves de processus plutôt que des réponses finales. ([[frontier-models-physics-benchmark-audit-2026]])
+- **Les scores des repères sous-estiment ce que les modèles peuvent déjà faire en physique.** Une nouvelle correction de six repères de physique largement utilisés par des experts du domaine a montré que l'essentiel du déficit rapporté était un artefact d'items défectueux et de correcteurs automatisés restrictifs : sur 250 rejets audités, 143 (57,20%) étaient des défauts du repère et 95 (38,00%) des erreurs de correcteur, avec seulement 12 (4,80%) d'erreurs de modèle authentiques. Corrigé, le HLE-Physics mean@4 passait de 47,28% à 78,66% et le CritPt de 32,29% à 87,50%. Pour l'enseignement de la physique, cela coupe dans les deux sens : cela signifie que les étudiants peuvent déjà obtenir des solutions textuelles de niveau expert pour de nombreux problèmes canoniques, si bien que l'évaluation du raisonnement physique doit se tourner vers des items qui résistent à la contamination par les repères et vers des preuves de processus plutôt que des réponses finales. ([[frontier-models-physics-benchmark-audit-2026|Ansari et al., 2026]])
 
 - **La notation par IA peut reproduire un résultat de physique à fort enjeu sans correspondre à chaque partie.** En corrigeant 10 364 pages manuscrites de niveau olympiade et universitaire, un grand modèle de langue multimodal a retrouvé la même équipe olympiade de cinq étudiants que les correcteurs et corrélait avec les totaux à r = 0,93–0,96, mais l'accord exact au niveau des sous-questions n'atteignait que 70% — une seconde lecture contrôlée par les examinateurs, non un remplacement ([[ai-grading-handwritten-physics-2026|Pathak et coll. (2026)]]).
 

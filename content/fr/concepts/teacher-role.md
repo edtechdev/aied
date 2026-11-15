@@ -1,7 +1,7 @@
 ---
 title: "L'enseignement"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:54:18-05:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-ti
 
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-11-13T13:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -60,6 +60,8 @@ L'abstraction « orchestrateur » se saisit plus aisément à travers des glisse
 Les enseignants invités à consulter le rapport d'exercices assignés ont relevé l'achèvement de l'exercice suivant (F d'Anderson-Rubin = 4.092, p = 0.044 ; au moins 2 points de pourcentage au total).
 Dans les classes de moins de 44 étudiants, le gain atteignait au moins 24.5 points de pourcentage (F = 7.475, p = 0.007) ; les enseignants de plus de 43 étudiants consultaient les rapports à des taux élevés, encouragés ou non (77% contre 75%) — probablement des utilisateurs permanents, sans marge de progrès.
 L'encouragement importe donc surtout là où l'usage des rapports peut encore croître.
+
+- Lan et Chen (2026) proposent de juger la paternité enseignante à partir de la provenance : un agent ne compte comme jumeau d'un enseignant que si son autorité remonte à un enseignant nommé qui en conserve la responsabilité, a traduit son jugement en une spécification inspectable et étend la capacité sans déplacer la paternité, tandis que les réglages par défaut d'une plateforme produisent un mandataire, et non un jumeau ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan et Chen, 2026]]).
 
 ### La métaphore de l'orchestration
 

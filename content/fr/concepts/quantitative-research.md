@@ -1,14 +1,14 @@
 ---
 title: Recherche quantitative
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:57:19-05:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-11-13T09:46:01-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -77,10 +77,10 @@ L'analyse bibliométrique est une autre famille quantitative : [[sriram-ethical-
 
 ## Comment la recherche quantitative apparaît dans l'IA en éducation
 
-- **Efficience et affirmations causales.** Les essais randomisés et les quasi-expériences testent si les outils d'IA améliorent l'apprentissage ([[access-not-enough-ai-tutoring-2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention]]).
+- **Efficience et affirmations causales.** Les essais randomisés et les quasi-expériences testent si les outils d'IA améliorent l'apprentissage ([[access-not-enough-ai-tutoring-2026|Robinson et al., 2026]], [[genai-can-harm-teaching-rct-2026]], [[adaptive-pretesting-retention|Akgun et al. (2026)]]).
 
 - **Pré-enregistrement et réplication.** [[chatbot-outreach-course-performance-2026|Meyer et al. (2026)]] énoncent leurs hypothèses et leur plan d'analyse avant l'essai et regroupent la comparaison randomisée sur deux semestres et deux grands cours asynchrones, si bien que l'estimation repose sur un plan fixe et sur une réplication plutôt que sur un échantillon unique.
-- **Modélisation des mécanismes.** La SEM/PLS-SEM teste les médiateurs et modérateurs de l'adoption de l'IA et de l'apprentissage ([[tian-genai-learning-adoption-pathways-2026]], [[acceptance-ai-english-tools-2026]], [[teacher-education-ai-literacy-sdt-2026]]).
+- **Modélisation des mécanismes.** La SEM/PLS-SEM teste les médiateurs et modérateurs de l'adoption de l'IA et de l'apprentissage ([[tian-genai-learning-adoption-pathways-2026|Tian et al. (2026)]], [[acceptance-ai-english-tools-2026|Wu et al. (2026)]], [[teacher-education-ai-literacy-sdt-2026|Chiu et al. (2026)]]).
 
 - **Modèles de panel qui séparent les effets intra-personne des effets inter-personnes.** [[genai-reliance-human-agency-collaborative-learning-2026|Wu et Lu (2026)]] estiment un modèle de panel à effets aléatoires croisés sur trois vagues de données d'écriture collaborative, ce qui sépare les différences stables entre étudiants de l'ordre temporel intra-personne — la distinction qui autorise à lire l'accroissement de la dépendance comme précédant une chute de l'agence perçue plutôt que comme l'accompagnant simplement.
 - **Mesure et développement d'échelles.** Le développement et la validation d'instruments quantitatifs sont bien documentés ([[jin-glat-genai-literacy-assessment|GLAT]], [[educational-measurement]]).

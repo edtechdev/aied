@@ -1,7 +1,7 @@
 ---
 title: "Apprenants adultes"
 created: "2026-08-06T10:43:53-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:59:25-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [professional-training]
@@ -11,7 +11,7 @@ confidence: medium
 methods: [usability-research]
 technology: [edtech-platform]
 translation_of: concepts/adult-learning
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ ai_assist:
 
 ## Introduction
 
-Ancré dans le modèle andragogique de Knowles, l'apprentissage des adultes suppose que les apprenants sont autodirigés, s'appuient sur leur expérience de vie, sont motivés par des buts immédiats et pratiques, et en retirent le plus grand bénéfice lorsque l'apprentissage se relie à leurs rôles concrets. Ces hypothèses importent pour la conception de l'IA, car l'IA générative peut désormais participer à presque toutes les étapes de l'apprentissage — l'identification des besoins, la fixation des objectifs, l'interprétation de l'information, la production de résultats et l'évaluation de la performance. Lorsque l'IA accompare une si grande part du travail cognitif, l'indépendance comportementale à l'égard de l'outil ne garantit plus que l'apprenant a réellement dirigé l'apprentissage. La recherche recadre en conséquence l'autodirection comme un objectif de conception actif plutôt que comme une hypothèse par défaut, et évalue l'IA destinée à l'apprentissage des adultes au regard de critères tels que la propriété de l'objectif, le contrôle de la délégation et la récupérabilité cognitive.
+Ancré dans le modèle andragogique de Knowles, l'apprentissage des adultes suppose que les apprenants sont autodirigés, s'appuient sur leur expérience de vie, sont motivés par des buts immédiats et pratiques, et en retirent le plus grand bénéfice lorsque l'apprentissage se relie à leurs rôles concrets. Ces hypothèses importent pour la conception de l'IA, car l'IA générative peut désormais participer à presque toutes les étapes de l'apprentissage — l'identification des besoins, la fixation des objectifs, l'interprétation de l'information, la production de résultats et l'évaluation de la performance. Lorsque l'IA accomplit une si grande part du travail cognitif, l'indépendance comportementale à l'égard de l'outil ne garantit plus que l'apprenant a réellement dirigé l'apprentissage. La recherche recadre en conséquence l'autodirection comme un objectif de conception actif plutôt que comme une hypothèse par défaut, et évalue l'IA destinée à l'apprentissage des adultes au regard de critères tels que la propriété de l'objectif, le contrôle de la délégation et la récupérabilité cognitive.
 
 ## Données probantes issues des articles liés
 

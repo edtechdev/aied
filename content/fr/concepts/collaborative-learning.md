@@ -1,7 +1,7 @@
 ---
 title: "Apprentissage collaboratif"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:55:53-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -11,7 +11,8 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/collaborative-learning
-source_updated: "2026-11-13T00:25:09-05:00"
+connected_resources: [nowcomment]
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -115,6 +116,8 @@ L'apprentissage collaboratif occupe le sommet du [[icap-framework|cadre ICAP]] (
 - **Le versant social montre une disruption sans gain compensatoire.** Sur cinq processus de collaboration, un consensus de 30 experts n'a atteint la vulnérabilité que d'un seul côté, les évaluations d'amélioration restant sous le seuil : Social Connection (3.80 contre une amélioration de 1.90), Socio-Emotional Development (3.60 contre 2.00), Social Learning, Collaborative Learning et Sense of Belonging (tous 3.30) ([[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou, Greene, Nixon et al., 2026]]). Le rapport traite l'asymétrie comme une cible de conception, puisque la résolution collaborative de problèmes est ancrée à un produit partagé alors que l'apprentissage collaboratif n'a pas de référent visible et peut s'éroder sans être détecté.
 
 Le statut de pair se gagne socialement. La capacité mathématique n'entrait guère dans les jugements. Sept chercheurs experts ont chacun passé environ vingt minutes à résoudre des équations du second degré avec un agent LLM adaptatif porteur d'un persona informé par le Big Five, puis ont expliqué leurs jugements en entretien. Ils l'évaluaient presque entièrement sur le comportement : il créait un espace sans jugement, raisonnait avec prudence plutôt qu'en affirmant, montrait une imperfection appropriée et laissait intactes les idées de l'apprenant. Pour la conception d'[[agentic-ai|agents]], cela inverse la priorité habituelle — un solveur capable qui se présente comme une autorité sape le cadre collaboratif, quelle que soit la qualité de ses réponses ([[lin-ai-peer-collaborative-math-learning-2026|Lin et al., 2026]]).
+
+- Une estimation méta-analytique directe existe désormais pour le soutien adaptatif : sur 83 études expérimentales et quasi expérimentales rapportées dans 80 articles (2004–2023), le soutien adapté à l'activité collaborative se regroupait à g = .73, IC à 95 % [.56, .90], le plus fort pour les connaissances individuelles (g = .93) et le plus faible pour l'affect (g = .28) ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]]).
 
 ## Idées fausses courantes
 

@@ -1,7 +1,7 @@
 ---
 title: "Délestage cognitif"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:55:53-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-15T09:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -96,6 +96,8 @@ Les preuves documentent le délestage cognitif selon de multiples dimensions :
 ### Quand le délestage baisse au lieu de monter
 
 [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] rapporte une expérience préenregistrée (N = 317) dans laquelle des adultes apprenaient un contenu nouveau à partir de fiches d'exercices classiques ou d'un assistant généraliste restreint à ces mêmes fiches. La condition IA a abaissé le délestage cognitif mesuré plutôt que de l'élever (médiane −0.27, intervalle crédible à 95% de −0.58 à 0.04). Le traitement profond a néanmoins chuté, mais par une chaîne où un délestage plus faible s'accompagnait d'une moindre [[critical-thinking|pensée critique]], laquelle prédisait à son tour un traitement profond plus faible (0.78). La désorganisation a augmenté de 0.84 sans qu'aucun médiateur ne porte l'effet. Le résultat est une mise en garde pour le récit standard : le délestage n'est pas la seule voie par laquelle un environnement d'[[generative-ai|IA]] érode le traitement, et une condition peut laisser le délestage intact tout en supprimant ce que le délestage était censé protéger.
+
+- **L'agencement, et non la quantité, décide si le délestage aide.** Des étudiants de premier cycle utilisant l'IA générative dans des fiches de conception créative qui laissaient la formulation du problème, la comparaison et la révision à l'apprenant ont rapporté un [[self-efficacy|sentiment d'efficacité personnelle]] créatif plus élevé et des productions mieux notées que des étudiants utilisant le même modèle sans restriction ([[wang-design-thinking-scaffolds-agency-preserving-ai-2026|Wang, 2026]]).
 
 ### Déléguer l'empathie, pas seulement la cognition
 

@@ -1,7 +1,7 @@
 ---
 title: "Conduite du changement"
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T12:02:00-05:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -10,7 +10,7 @@ confidence: medium
 institutions: [change-management]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-11-13T07:48:20-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

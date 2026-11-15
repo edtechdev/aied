@@ -1,7 +1,7 @@
 ---
 title: "Recherche d'aide"
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:54:13-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -101,6 +101,7 @@ Plutôt que de retirer l'aide, la recherche recommande de repenser la manière d
 Les étudiants du monde réel **contournent fréquemment le [[scaffolding|étayage]] d'un [[conversational-ai|agent conversationnel]]** — pas nécessairement de manière nuisible, mais souvent parce qu'il existe un décalage entre le cadrage pédagogique du chatbot et les objectifs d'apprentissage propres de l'étudiant. Les pipelines d'évaluation doivent donc mesurer non seulement si un tuteur étaye, mais si les étudiants *exploitent* cet étayage, au lieu de présumer qu'ils le feront.([[rethinking-scaffolding-llm-tutors]])
 
 - **Un bouton d'aide facultatif reste sans clic.** Dans trois classes de cinquième année du primaire, les étudiants ont rarement sollicité un agent d'aide que la conception avait délibérément laissé facultatif pour protéger l'agentivité, appelant plutôt un [[teacher-role|enseignant]] tandis que la confusion pour laquelle il avait été conçu persistait ([[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg et al., 2025]]).
+- Dans un jeu de rôle de trois semaines en cinquième année du primaire, les 42 étudiants du groupe IAG ont tous interrogé l'enseignant intégré au jeu, et 61,9 % ont cité la possibilité de poser des questions parmi ce qu'ils appréciaient ; plusieurs ont dit avoir posé des questions qu'ils craignaient de soumettre à l'enseignant réel ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
 
 ## Recherche d'aide et apprentissage autorégulé
 
@@ -122,6 +123,8 @@ En [[english-education|rédaction]] entièrement en ligne, la disponibilité de 
 
 
 **Un second pipeline pose la même question du côté de l'infrastructure.** [[taufer-human-ai-interaction-haidl-2026|Taufer et al. (2026)]] soutiennent qu'un échange humain-IA est une classe de données à part entière : leur représentation enregistre l'état computationnel qui a suscité la requête, la requête, la réponse, l'évaluation qu'en fait l'utilisateur et l'exécution qui a suivi, comme un seul objet. Les requêtes sont ensuite classées en récupération d'erreur, étape suivante bloquée, aide conceptuelle ou validation à partir de ce contexte. Dans un déploiement JupyterLab de 35 étudiants couvrant 140 paires étudiant-devoir, de simples décomptes d'interaction ne corrélaient avec les cellules exécutées avec succès qu'à r = 0,12, tandis que 37 paires avaient accès à l'outil et ne l'ont jamais utilisé et 26 l'ont utilisé hors de leur condition assignée.
+
+- Lorsqu'un dossier de tutorat peut être noté, retenir une demande est rationnel : l'absence de recherche d'aide ne peut donc pas être lue comme une absence de besoin, le même indicateur de journal signifiant quelque chose de différent sous évaluation ([[nakamura-observability-authenticity-paradox-stem-assessment-2026|Nakamura, 2026]]).
 
 ## Implications pour la conception et la recherche
 

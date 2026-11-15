@@ -1,7 +1,7 @@
 ---
 title: "L'IA en éducation"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:55:37-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-15T06:45:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -106,7 +106,15 @@ L'IA s'applique à travers les disciplines et les niveaux d'enseignement. La [[d
 
 ## Niveaux et contextes
 
-Le même outil d'IA rencontre des contextes très différents, et le niveau d'enseignement est tenu séparé de la pédagogie afin que les résultats ne se transfèrent pas silencieusement de l'un à l'autre : les écoles de l'[[k-12|enseignement primaire et secondaire]], l'[[early-childhood-elementary-ai-education|éducation de la petite enfance et du primaire]], l'[[higher-ed|enseignement supérieur]], l'[[adult-learning|apprentissage des adultes]], l'[[vocational-education|enseignement et la formation professionnels]], l'[[special-education|éducation spécialisée]] et la [[teacher-education|formation des enseignants]]. Les concepts limitrophes du domaine qui traversent les niveaux incluent la [[universal-design-for-learning|conception universelle de l'apprentissage]], la [[neurodiversity|neurodiversité]], l'[[multilingual-learning|apprentissage multilingue]] et l'[[social-emotional-learning|apprentissage socioémotionnel]].
+Le même outil d'IA rencontre des contextes très différents, et le niveau d'enseignement est tenu séparé de la pédagogie afin que les résultats ne se transfèrent pas silencieusement de l'un à l'autre : les écoles de l'[[k-12|enseignement primaire et secondaire]], qui se divisent désormais en [[early-childhood-elementary-ai-education|éducation de la petite enfance]], [[primary-education|enseignement primaire]] et [[secondary-education|enseignement secondaire]] ; l'[[higher-ed|enseignement supérieur]], qui se divise en [[undergraduate-education|premier cycle]] et [[graduate-education|troisième cycle]] ; et les contextes hors de ces filières, l'[[adult-learning|apprentissage des adultes]], l'[[vocational-education|enseignement et la formation professionnels]], l'[[special-education|éducation spécialisée]] et la [[teacher-education|formation des enseignants]]. [[education-levels|Les niveaux d'éducation]] les comparent. Les concepts limitrophes du domaine qui traversent les niveaux incluent la [[universal-design-for-learning|conception universelle de l'apprentissage]], la [[neurodiversity|neurodiversité]], l'[[multilingual-learning|apprentissage multilingue]] et l'[[social-emotional-learning|apprentissage socioémotionnel]].
+
+## Le même outil, des choix de conception opposés
+
+Le niveau est la variable qui inverse le plus nettement une recommandation de conception. Les données probantes du secondaire placent l'enseignant entre l'étudiant et l'outil : sur 33 études, les gains apparaissent là où les étudiants comparent les productions, et s'estompent là où l'outil produit le travail ([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca et al. (2026)]]).
+
+Les données probantes du troisième cycle pointent dans l'autre sens, vers un partenariat avec un humain responsable. Les facilitateurs de préparation atteignaient le [[self-efficacy|sentiment d'efficacité personnelle]] en recherche par le soutien du directeur de recherche (β = 0.201 en effet indirect), et non par l'usage de l'outil ([[luo-ai-readiness-graduate-research-self-efficacy-2026|Luo et al. (2026)]]). Une revue consacrée au doctorat aboutit à la même conclusion de conception à partir de l'éthique : la légitimité dépend de la tâche plutôt que de l'outil, la déclaration est proportionnée à l'importance intellectuelle, et la gouvernance est examinée à des jalons ([[guanilo-pareja-genai-doctoral-supervision-2026|Guanilo Pareja et al. (2026)]]).
+
+Ce qui ne change pas, c'est qu'un humain détient le jugement. Les étudiants d'un séminaire de troisième cycle n'acceptaient une production d'IA qu'après vérification par une personne compétente, ce que Chen lit comme une autonomie déléguée plutôt que cédée ([[chen-genai-self-directed-learning-graduate-seminar-2026|Chen (2026)]]). La fréquence est la mauvaise mesure transversale : elle ne prédisait la compétence des étudiants de troisième cycle qu'à β = 0.030 une fois l'éthique et l'autorégulation entrées dans le modèle ([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova et al. (2026)]]).
 
 ## Évaluation et mesure
 
@@ -155,7 +163,7 @@ Plusieurs thèmes traversent le domaine :
 
 - **Comment l'IA est imaginée :** les [[metaphors-and-analogies|métaphores et analogies]] façonnent ce que les éducateurs et les étudiants attendent de l'IA et peuvent servir de méthode d'enseignement pour la [[ai-literacy|littératie en IA]], comme le montrent [[roe-perkins-furze-metaphors-critical-ai-literacy-2025|Roe, Perkins et Furze (2025)]].
 
-- **L'évolution du domaine :** l'IA en éducation est passée des premiers [[intelligent-tutoring|systèmes de tutorat intelligent]] et le [[knowledge-tracing|traçage des connaissances]] jusqu'au [[intelligent-tutoring|tutorat]] piloté par les grands modèles de langue, aux [[pedagogical-agent|agents]] et à l'[[agentic-ai|IA agentique]] — un déplacement rapide des études centrées sur les outils vers des cadres sociotechniques ([[design-thinking|pensée design]], [[curriculum-design|conception de programmes]], [[institutional-change-framework-ai|changement institutionnel]]), et des systèmes écrits à la main vers des flux de travail pilotés par l'utilisateur, dans lesquels un apprenant ou un [[teacher-role|non-programmeur]] spécifie un comportement en langage naturel ([[vibe-coding|codage intuitif]]). [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian et Doroudi]] formalisent cette trajectoire avec leur cadre AI×Ed, en retraçant les articles sur quatre décennies d'actes de colloque pour montrer que le domaine est passé d'un ensemble diversifié — comportant une part substantielle de travaux traitant l'IA comme une analogie de l'intelligence et de l'apprentissage humains — à une concentration quasi exclusive sur des usages appliqués, fondés sur les données et destinés aux chercheurs, L'essor des [[llm|grands modèles de langue]] semble aujourd'hui partiellement inverser ce tournant : trois des quatre articles « IA comme analogie » de l'AIED 2024 reposaient sur des grands modèles de langue.
+- **L'évolution du domaine :** l'IA en éducation est passée des premiers [[intelligent-tutoring|systèmes de tutorat intelligent]] et le [[knowledge-tracing|traçage des connaissances]] jusqu'au [[intelligent-tutoring|tutorat]] piloté par les grands modèles de langue, aux [[pedagogical-agent|agents]] et à l'[[agentic-ai|IA agentique]] — un déplacement rapide des études centrées sur les outils vers des cadres sociotechniques ([[design-thinking|pensée design]], [[curriculum-design|conception de programmes]], [[institutional-change-framework-ai|changement institutionnel]]), et des systèmes écrits à la main vers des flux de travail pilotés par l'utilisateur, dans lesquels un apprenant ou un [[teacher-role|non-programmeur]] spécifie un comportement en langage naturel ([[vibe-coding|codage intuitif]]). [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian et Doroudi]] formalisent cette trajectoire avec leur cadre AI×Ed, en retraçant les articles sur quatre décennies d'actes de colloque pour montrer que le domaine est passé d'un ensemble diversifié — comportant une part substantielle de travaux traitant l'IA comme une analogie de l'intelligence et de l'apprentissage humains — à une concentration quasi exclusive sur des usages appliqués, fondés sur les données et destinés aux chercheurs. L'essor des [[llm|grands modèles de langue]] semble aujourd'hui partiellement inverser ce tournant : trois des quatre articles « IA comme analogie » de l'AIED 2024 reposaient sur des grands modèles de langue.
 - **Émotion, anxiété et avenir professionnel :** l'IA suscite et façonne des réponses émotionnelles — l'[[anxiety-and-stress|anxiété et le stress liés à l'IA]] allant de la surveillance des examens à distance aux craintes pour l'intégrité et au déplacement professionnel — tandis que le [[career-development-and-readiness|développement de carrière et la préparation à l'emploi]] traitent de la manière dont l'éducation prépare les apprenants à un marché du travail perturbé par l'IA (voir aussi le [[well-being|bien-être]]).
 
 ## Maturité du domaine
@@ -179,6 +187,10 @@ L'IA en éducation est liée à tous les autres concepts du champ, puisque chacu
 **« La maturité du domaine se lit dans son volume de publications. »** Volume et maturité divergent ; le fil des méthodes de recherche documente des faiblesses récurrentes de conception que le volume ne corrige pas, et les cadres se multiplient plus vite qu'ils ne sont testés.
 
 ## Concepts liés
+- [[primary-education]] — l'IA dans l'enseignement primaire
+- [[secondary-education]] — l'IA au collège et au lycée
+- [[undergraduate-education]] — l'IA dans les études de premier cycle
+- [[graduate-education]] — l'IA dans les études de master et de doctorat
 - [[pedagogical-patterns]] — Les séquences éprouvées qui opérationnalisent les pédagogies du domaine
 - [[ai-literacy]] — parapluie : comprendre, utiliser et évaluer l'IA
 - [[automation-bias]] — la défaillance côté lecteur : accepter un jugement automatisé sans le vérifier
@@ -224,3 +236,8 @@ Revues à l'échelle du domaine sur l'IA en éducation, soit les études qui cou
 - [[genai-higher-education-systematic-review-2026]] — L'IA générative dans l'enseignement supérieur : revue systématique de 125 études
 - [[stanford-evidence-base-ai-k12-2026]] — Le corpus de données probantes sur l'IA dans l'enseignement primaire et secondaire : 52 études causales solides tirées de 1,686 articles du dépôt (mise à jour de novembre 2026)
 - [[genai-educational-outcomes-meta-analysis]] — L'IA générative et les résultats éducatifs : méta-analyse complète
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 études du secondaire ; des gains là où les étudiants jugent les productions, non là où l'outil produit le travail
+- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 étudiants de master ; la préparation atteignait le sentiment d'efficacité personnelle par le soutien du directeur de recherche
+- [[guanilo-pareja-genai-doctoral-supervision-2026]] — revue de 61 sources sur l'éthique, la rétroaction et la gouvernance de la supervision doctorale
+- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — séminaire de troisième cycle à groupe unique ; des gains d'apprentissage autodirigé sans test sans aide
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 étudiants ; écart premier cycle–troisième cycle en éthique et en autorégulation

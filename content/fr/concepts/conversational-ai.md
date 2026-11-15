@@ -1,13 +1,13 @@
 ---
 title: "L'IA conversationnelle"
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T12:02:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
 confidence: medium
 translation_of: concepts/conversational-ai
-source_updated: "2026-11-13T09:46:01-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -52,9 +52,9 @@ L'IA conversationnelle (IAC) est le terme parapluie désignant les agents pilot�
 
 À travers les études sur l'apprentissage par problèmes et par projets, les chatbots généralistes produisaient un effet groupé plus important que les systèmes personnalisés en plateformes de cours ou en patients virtuels (g = 0.970 contre 0.455), si bien que le mode de diffusion pourrait compter davantage que la conception sur mesure ([[chen-pbl-pjbl-genai-meta-analysis-2026|Chen et coll. (2026)]]).
 
-L'adoption variait selon le niveau : les groupes les plus performants demandaient une rétroaction du chatbot sur 60.7% de leurs annotations, contre 34.0% pour les groupes les moins performants, qui restaient dans une boucle autoréférentielle ([[genai-social-annotation-epistemic-network-analysis-2026|Pan et coll. (2026)]]).
-
 Les [[benchmark|repères de référence]] peuvent surestimer la mesure dans laquelle l'étayage est effectivement mobilisé : sur 9,490 conversations réparties dans neuf jeux de données, les étudiants, dans des déploiements réels, contournaient le cadrage pédagogique du chatbot à peu de coût relationnel pour orienter l'interaction vers leurs propres objectifs — un mouvement instrumental de [[help-seeking]] plutôt qu'un désengagement ([[rethinking-scaffolding-llm-tutors|Neagu et al. (2026)]]).
+
+L'adoption variait selon le niveau : les groupes les plus performants demandaient une rétroaction du chatbot sur 60.7% de leurs annotations, contre 34.0% pour les groupes les moins performants, qui restaient dans une boucle autoréférentielle ([[genai-social-annotation-epistemic-network-analysis-2026|Pan et coll. (2026)]]).
 
 **Interaction et collaboration.** Les agents conversationnels sont de plus en plus envisagés comme des partenaires d'interaction plutôt que comme des donneurs de réponses. [[student-ai-interaction]] rend compte de la manière dont les apprenants formulent des invites, questionnent et vérifient avec l'IAC dans la pratique. Dans l'[[collaborative-learning|apprentissage collaboratif]], les agents servent de médiateurs à la participation et à la [[regulation]] partagées, et dans l'[[language-learning|apprentissage des langues]] ils offrent une pratique conversationnelle en temps réel. Le fil de l'[[human-ai-collaboration]] examine à quelles conditions ce partenariat préserve le travail cognitif de l'apprenant au lieu de s'y substituer. Les LLM comme partenaires de critique illustrent concrètement le versant de la préservation : [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash & Connell Pensky (2025)]] ont fait critiquer par ChatGPT, Gemini ou Claude les essais argumentatifs d'étudiants sur un semestre entier, et les apprenants ont progressé en écriture, en [[prompt-engineering|ingénierie des invites]] et en réponse à la rétroaction, tout en jugeant les échanges utiles, engageants et agréables — la réfutation active des affirmations du modèle (87.8%) montrant qu'ils traitaient le partenaire conversationnel de manière critique plutôt que passive.
 
@@ -89,7 +89,7 @@ L'IA conversationnelle se comprend au mieux comme une **modalité d'interaction*
 
 **Le prisme de l'agent pédagogique.** Les agents pédagogiques utilisent le médium conversationnel pour mettre en œuvre des stratégies d'enseignement — susciter des [[self-assessment|auto-évaluations]], un [[socratic-method|questionnement socratique]], une facilitation spécialisée par rôle dans des conceptions [[agentic-ai|multi-agents]] (Teacher, Assistant, Classmate, Analyzer). Tout agent d'IAC n'est pas un agent pédagogique, mais les deux se recouvrent largement : la revue parapluie des agents d'IAC a montré que le soutien à l'enseignement et à l'apprentissage (97.1%) et le développement métacognitif (88.2%) dominent les applications de l'IAC, ce qui signifie que la plupart des agents d'IAC à visée éducative fonctionnent pédagogiquement. La [[conversational-agents-novice-programmers-scoping-2025|revue de cadrage sur les programmeurs débutants]] précise ce point : sur 23 agents conversationnels, 4 seulement fondaient explicitement leur conception sur une [[learning-theories|théorie de l'apprentissage]] — la plupart étaient pédagogiques dans l'intention, mais non dans leurs fondements.
 
-**Le prisme du STI.** Le tutorat intelligent apporte la *machinerie de [[cognitive-diagnosis|diagnostic cognitif]]* dont les modèles conversationnels bruts sont dépourvus : le traçage des connaissances, la détection des affects et la modélisation de l'apprenant fournissent la structure, tandis que l'[[generative-ai]] et les [[llm|LLM]] fournissent un dialogue flexible. C'est là la tension centrale de conception — l'IA conversationnelle procure une interaction naturelle et extensible, mais sans la structure de type STI elle risque le sur-[[cognitive-offloading|étayage]], l'hallucination ou le contournement de la lutte productive de l'apprenant. Des recherches telles que [[measuring-llm-tutors-teach-vs-solve]] et [[stanford-evidence-base-ai-k12-2026]] montrent que des critères orientés par la pédagogie (questions guidantes, indices calibrés) doivent être conçus explicitement.
+**Le prisme du STI.** Le tutorat intelligent apporte la *machinerie de [[cognitive-diagnosis|diagnostic cognitif]]* dont les modèles conversationnels bruts sont dépourvus : le traçage des connaissances, la détection des affects et la modélisation de l'apprenant fournissent la structure, tandis que l'[[generative-ai]] et les [[llm|LLM]] fournissent un dialogue flexible. C'est là la tension centrale de conception — l'IA conversationnelle procure une interaction naturelle et extensible, mais sans la structure de type STI elle risque le sur-[[cognitive-offloading|étayage]], l'hallucination ou le contournement de la lutte productive de l'apprenant. Des recherches telles que [[measuring-llm-tutors-teach-vs-solve|Yao et al. (2026)]] et [[stanford-evidence-base-ai-k12-2026|Walker et al. (2026)]] montrent que des critères orientés par la pédagogie (questions guidantes, indices calibrés) doivent être conçus explicitement.
 
 **En somme :** l'IA conversationnelle est l'**interface/le médium**, les agents pédagogiques sont le **rôle**, et le tutorat intelligent est la **modélisation sous-jacente et la logique instructionnelle**. Les agents d'IAC éducativement précieux se situent à l'intersection des trois — conversationnels par l'interface, pédagogiques par l'intention, et tutoraux par leur modélisation de l'apprenant.
 

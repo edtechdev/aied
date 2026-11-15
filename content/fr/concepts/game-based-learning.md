@@ -1,13 +1,13 @@
 ---
 title: "Apprentissage par le jeu"
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:53:21-05:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/game-based-learning
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T21:52:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -48,6 +48,8 @@ Le GBL s'appuie sur les théories de la [[motivation]], de l'[[student-engagemen
 - **Les étudiants comme concepteurs de jeux plutôt que comme joueurs :** [[karampa-students-game-designers-ai-literacy-2026|Karampa et coll. (2026)]] ont fait concevoir à 22 élèves du primaire de 8 à 12 ans un jeu de plateau d'évasion augmenté sur la désinformation, en empilant l'[[project-based-learning|apprentissage par projet]], la [[design-thinking|pensée design]] et le cadre d'escape room Room2Educ8. La [[ai-literacy|littératie en IA]] composite sur un questionnaire DigComp 3.0 de 20 items est passée de 3.684 à 4.309 sur une échelle en 5 points, t(21) = −21.086, p < .001, les cinq domaines de compétence progressant. La classe a produit 11 propositions avec des invites d'IA et les a fusionnées en un seul jeu constructible. [[self-report-measures|Auto-déclaration]], une seule classe, et aucun groupe témoin.
 
 - **Scinder l'IA en un coach de dialogue et un moteur de difficulté.** Un environnement Roblox amélioré par l'IA pour la pensée computationnelle au secondaire supérieur associait un personnage non joueur GPT-4, limité à deux ou trois phrases et interdit de donner des réponses, à un moteur fondé sur des règles qui fixait la difficulté à partir du temps de résolution et du taux d'erreur ([[hengsawat-ai-game-based-learning-computational-thinking-2026|Hengsawat, Junruang et Kanjug, 2026]]).
+
+- **Les escape rooms avec un chatbot intégré au jeu.** Une construction de deux mois a produit une escape room 3D dans le navigateur pour la cybersécurité au primaire et au secondaire, avec un panneau GPT-4o intégré sous la forme d'un robot que les élèves peuvent interroger ; les enseignants ont rejoint la deuxième itération et ont fermé un raccourci dans l'enchaînement des énigmes ([[na-yang-escape-room-cybersecurity-2026|Na et Yang (2026)]]).
 
 ## Ludification
 

@@ -1,7 +1,7 @@
 ---
 title: "Pensée informatique"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:55:53-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-11-13T13:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -57,6 +57,8 @@ Les compétences durables se déplacent dès lors que la mise en œuvre est auto
 - **Le choix de mesure change le verdict :** les entrées de pensée informatique et de pensée critique aboutissaient à des conclusions discordantes ou mitigées dans 13 des 23 paires de même construit, si bien qu'une enquête d'auto-déclaration de la pensée informatique et une mesure fondée sur des tâches ne concordent souvent pas ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et coll. (2026)]]).
 
 - **Un instrument validé situe là où la pensée informatique est la plus difficile.** Un test de pensée informatique à 34 items, construit avec une conception centrée sur les données probantes et validé par la théorie de la réponse à l'item auprès de 461 étudiants en programmation assistée par IA, a concentré la difficulté dans la représentation des données, le séquencement des opérateurs logiques et les structures de boucles, plutôt que de la répartir uniformément sur le programme ([[zhang-ct-ai-training-test-2026|Zhang et Zhang (2026)]]).
+
+- La pensée informatique se mesure aussi comme une disposition : dans une étude de jeu de trois semaines en cinquième année, les tendances autodéclarées de pensée informatique ajustées favorisaient la classe avec IA générative, 4.325 contre 4.037 (p = .046, êta-carré partiel = .052, n = 78). Un test de connaissances algorithmiques ne les séparait pas (80.7 contre 74.9), de sorte que les mesures de tendance et de connaissances traçaient des construits différents ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
 
 ## CT and the shift from AI consumers to producers, creators, and designers
 

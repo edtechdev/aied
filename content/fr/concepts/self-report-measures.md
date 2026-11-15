@@ -1,7 +1,7 @@
 ---
 title: "Les mesures auto-déclarées"
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:55:14-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,7 +14,7 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -48,7 +48,7 @@ L'auto-déclaration s'étend bien au-delà du questionnaire. Elle inclut les [[q
 
 Ce n'est pas une faiblesse dont il faudrait s'excuser. De nombreux construits d'intérêt — motivation, [[anxiety-and-stress|anxiété]], [[trust-calibration|confiance]], utilité perçue, intentions d'[[student-engagement|engagement]] — sont des états internes qu'aucun fichier de journalisation n'enregistre, et demander est le seul moyen défendable de les atteindre. Le problème surgit lorsqu'une auto-déclaration est employée pour étayer une affirmation qu'elle ne peut porter, ce qui est au fond une question de validité : si l'instrument mesure le construit qu'il nomme, et si l'affirmation formulée porte sur le type de chose que l'auto-déclaration peut voir. Cette préoccupation relève de l'[[educational-measurement|mesure en éducation]] et de l'[[assessment-validity|validité de l'évaluation]] ; la question plus étroite est ce qui se produit lorsque la recherche sur l'IA en éducation s'appuie spécifiquement sur l'auto-déclaration, et où la base de données probantes montre qu'elle se décompose.
 
-**Rapport avec les concepts voisins.** La page [[research-methods-aied]] répertorie les dispositifs et leurs forces et limites, y compris les études par sondage et par équations structurelles. La page [[quantitative-research]] couvre la famille des méthodes numériques. La page [[educational-measurement]] couvre le développement d'instruments, la [[item-response-theory|théorie de la réponse à l'item]] et la validation psychométrique. L'instrument de mesure et la source de données sont le sujet plus étroit : ce que l'auto-déclaration peut et ne peut pas établir, l'écart récurrent entre ce que les personnes rapportent et ce qu'elles font, et comment lire de façon critique un résultat fondé sur l'auto-déclaration.
+**Rapport avec les concepts voisins.** Les [[research-methods-aied|méthodes de recherche]] répertorient les dispositifs et leurs forces et limites, y compris les études par sondage et par équations structurelles. La [[quantitative-research|recherche quantitative]] couvre la famille des méthodes numériques. La [[educational-measurement|mesure en éducation]] couvre le développement d'instruments, la [[item-response-theory|théorie de la réponse à l'item]] et la validation psychométrique. L'instrument de mesure et la source de données sont le sujet plus étroit : ce que l'auto-déclaration peut et ne peut pas établir, l'écart récurrent entre ce que les personnes rapportent et ce qu'elles font, et comment lire de façon critique un résultat fondé sur l'auto-déclaration.
 
 ## Ce que l'auto-déclaration peut et ne peut pas établir
 

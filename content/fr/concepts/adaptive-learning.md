@@ -1,13 +1,13 @@
 ---
 title: "Apprentissage adaptatif"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:54:44-05:00"
 type: concept
 pedagogy: [scaffolding]
 technology: [cognitive-diagnosis, intelligent-tutoring, knowledge-tracing, learning-analytics, llm, personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/adaptive-learning
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -85,6 +85,7 @@ L'apprentissage adaptatif est fréquemment confondu avec l'[[personalized-learni
 - **L'adaptation à partir des séquences de processus, et non des scores agrégés.** [[adaptive-ai-scaffold-collaborative-problem-solving-2026|Wong, Bulathwela & Cukurova (2026)]] ont dérivé des règles d'étayage en minant l'*ordre* des tours de parole de 65 étudiants en triades, faisant passer l'apprentissage adaptatif de mesures comportementales ou de performance agrégées vers des séquences de processus individuelles ; l'étayage maximal a augmenté le comportement centré sur la tâche, mais aussi le guidage scripté, et la conception reste non testée.
 
 - **La reconnaissance dépasse la mise en œuvre.** Parmi 90 éducateurs, 74 (82.2%) identifiaient des apprenants nécessitant une adaptation, mais seulement 50 (55.6%) avaient mis en œuvre une mesure adaptative ; l'obstacle déterminant était l'information sur les apprenants, non la technologie, citée par 12% ([[hilali-adaptive-learning-challenges-2026|Hilali et Chergui (2026)]]).
+- **Le contrôle fait partie du traitement.** Qui contrôle l'adaptation compte autant que ce qui est adapté : sur 83 études, le contrôle par le système produisait g = 1.05 (IC à 95% [.65, 1.45]) et le contrôle par l'enseignant g = .86 [.46, 1.26] sur les connaissances, tandis que le contrôle par l'apprenant n'atteignait que g = .31 [−.44, 1.05] ([[gao-adaptive-support-collaborative-learning-meta-2026|Gao et al., 2026]]).
 
 ## Implications pour la pratique
 **Pour les enseignants et les concepteurs**

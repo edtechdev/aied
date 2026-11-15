@@ -1,7 +1,7 @@
 ---
 title: La gouvernance de l'IA
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:56:18-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
 translation_of: concepts/governance
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -128,7 +128,7 @@ Un argument de 2026 étend la gouvernance au-delà de l'usage apprenant jusqu'à
 ## Idées fausses courantes
 
 - **« Les universités ont adopté des politiques d'IA contraignantes. »** Sur **48 établissements**, **40 (83%)** disposaient d'au moins un document public, et dans ces 40 la **gouvernance se réalisait surtout comme orientation plutôt que comme règle contraignante**. Une orientation publiée n'est pas une politique applicable.
-- **« La politique est écrite d'abord pour les étudiants parce que les étudiants sont le risque. »** La plupart des documents s'adressaient **aux enseignants et aux étudiants ensemble (20, 51%) plutôt qu'aux étudiants seuls (6, 15%)**, et ni le type de politique ni le public ne variaient selon le mode de dispensation. Le cadrage est conjoint, ce qui signifie que les obligations sont partagées.
+- **« La politique est écrite d'abord pour les étudiants parce que les étudiants sont le risque. »** Les enseignants et les étudiants étaient nommés **ensemble dans 20 documents (51%), contre 6 qui ne nommaient que les étudiants (15%)**, et ni le type de politique ni le public ne variaient selon le mode de dispensation. Le cadrage est conjoint, ce qui signifie que les obligations sont partagées.
 - **« Une politique ambiguë laisse l'expérience étudiante intacte. »** L'ambiguïté des politiques se manifeste directement dans l'**expérience étudiante** : [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|l'engagement des étudiants avec l'IAG]] est façonné par l'incertitude, si bien que l'ambiguïté est une condition active plutôt qu'un manque neutre.
 
 ## Concepts liés

@@ -1,7 +1,7 @@
 ---
 title: "Conception pédagogique"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:56:40-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -21,7 +21,7 @@ ai_assist:
     date: "2026-11-01"
     agent: hermes-agent
 translation_of: concepts/learning-design
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T21:52:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ---
@@ -77,6 +77,8 @@ La conception pédagogique est la discipline-pont de l'[[ai-education|IA en édu
 ## Co-conception et ce qui doit rester humain
 
 La co-conception est la partie de la pratique de conception où le travail relationnel est le moins substituable. [[zeivots-postdigital-co-design-genai-2025|Zeivots et al. (2025)]] traitent l'[[generative-ai|IA générative]] comme un collaborateur peu fiable plutôt que comme un outil de rédaction, et construisent une séquence en trois phases autour de cette non-fiabilité : le modèle provoque, pluralise et facilite, tandis que le groupe interroge ses cadrages, génère des contre-récits et mène lui-même la délibération. Ce qui reste humain, c'est la négociation — quelles voix manquent, quel cadrage le groupe adopte, et ce que sera la compréhension partagée. L'article est un forum collectif de dix-neuf auteurs sans expérimentation, si bien que la séquence est une proposition sur la pratique plutôt qu'une méthode testée.
+
+Une série de trois MOOC fait du propre flux de travail du concepteur l'objet de l'enseignement, en séparant les démonstrations propres à un outil des principes de conception durables, afin que le matériel survive aux nouvelles versions des modèles ([[quintana-generative-ai-learning-design-partner-2025|Quintana et al. (2025)]]).
 
 ## Comment la conception pédagogique détermine les gains d'apprentissage
 

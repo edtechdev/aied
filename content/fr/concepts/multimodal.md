@@ -2,7 +2,7 @@
 title: "IA multimodale"
 connected_resources: [drawsplat]
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-06T04:16:35-05:00"
+updated: "2026-11-15T11:51:14-05:00"
 type: concept
 foundations: [ai-education, ai-literacy]
 technology: [generative-ai, intelligent-tutoring, llm, multimodal]
@@ -11,7 +11,7 @@ discipline: [stem education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/multimodal
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

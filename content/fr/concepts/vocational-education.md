@@ -1,7 +1,7 @@
 ---
 title: "L'enseignement et la formation professionnels"
 created: "2026-09-17T14:04:23-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:59:25-05:00"
 type: concept
 technology: [human-in-the-loop-ai, intelligent-tutoring, simulation]
 assessment: [authentic-assessment]
@@ -12,7 +12,7 @@ level: [adult learning, higher ed]
 confidence: high
 connected_resources: [unesco-2026-integrating-ai-in-tvet-guide]
 translation_of: concepts/vocational-education
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

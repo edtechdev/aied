@@ -1,7 +1,7 @@
 ---
 title: "Évaluation authentique"
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:55:53-05:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -11,7 +11,7 @@ assessment: [assessment, assessment-validity, authentic-assessment, formative-as
 level: [higher ed]
 confidence: high
 translation_of: concepts/authentic-assessment
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-15T09:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -62,6 +62,8 @@ L'authenticité doit être intégrée à la tâche plutôt qu'imposée après co
 - [[beyond-detection-authentic-assessment-ai-2025|Au-delà de la détection]] avance que l'authenticité ne peut être imposée par le contrôle policier ; elle doit être conçue, en positionnant l'IA comme un collaborateur déclaré plutôt que comme une application de triche, et en priorisant l'évaluation authentique et [[process-oriented-assessment|fondée sur le processus]] plutôt que la surveillance.
 - L'[[responsible-assessment-ai-era-stanford-2026|évaluation responsable]] recadre l'évaluation autour des preuves de validité et de tâches authentiques qui reflètent le futur travail des étudiants.
 - Les [[authentic-products-authenticated-processes-2026|produits authentiques et processus authentifiés]] examinent comment un [[higher-ed|enseignement supérieur]] riche en IA peut évaluer à la fois les productions authentiques et les processus qui les ont produites.
+
+- **La gouvernance atteint les étudiants par la conception de l'évaluation.** La qualité perçue de la [[governance|gouvernance de l'IA]] prédisait l'évaluation authentique perçue bien au-delà de la connaissance des politiques (β = 0.36 contre 0.12), et l'évaluation authentique portait entièrement le chemin vers l'[[student-engagement|engagement]] chez 644 étudiants d'universités chinoises ([[jiang-genai-governance-authentic-assessment-equity-2026|Jiang, 2026]]).
 
 - **Un partenaire de rédaction qu'est l'IA laisse néanmoins le jugement intact.** [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] ont piloté un concepteur d'évaluation GPT-4.1 avec huit coordinateurs : il produisait des aperçus, des tâches, des critères, des échéanciers et des grilles utilisables, mais manquait répétitivement le contexte disciplinaire et le séquençage des sujets, et les huit coordinateurs ont refusé l'automatisation de bout en bout, situant l'[[evaluative-judgment|academic judgment]] — le jugement académique — dans l'humain plutôt que dans le modèle.
 - Le [[tool-invariant-framework-agentic-ai|cadre indépendant de l'outil]] plaide pour évaluer les méthodes computationnelles et le processus, plutôt que les productions propres à un outil, en recourant à la soutenance orale et à la vérification.

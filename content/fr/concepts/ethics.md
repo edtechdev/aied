@@ -1,7 +1,7 @@
 ---
 title: L'éthique
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:56:30-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -9,7 +9,7 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ ai_assist:
 
 ## Introduction
 
-L'éthique est l'épine dorsale normative de l'IA en éducation : chaque outil d'IA, chaque politique et chaque décision [[pedagogy|pédagogique]] encode des hypothèses sur ce qui est équitable, transparent, responsable et sûr. L'éthique est à la fois un ensemble de principes (équité, vie privée, transparence, autonomie, responsabilité) et comme un ensemble de *pratiques* — la manière dont les parties prenantes raisonnent effectivement au sujet de l'IA, dont les établissements la gouvernent, et dont les apprenants sont préparés à l'utiliser de manière responsable. La [[research-methods-aied|recherche]] récente documente un double mouvement : d'une part, une inquiétude croissante quant à l'insuffisance de l'éthique « à liste de contrôle » fondée sur les principes ; de l'autre, une attention grandissante portée aux approches [[situated-learning|situées]] et écologiques du jugement éthique, ainsi qu'aux conditions structurelles et institutionnelles qui rendent l'usage responsable possible.
+L'éthique est l'épine dorsale normative de l'IA en éducation : chaque outil d'IA, chaque politique et chaque décision [[pedagogy|pédagogique]] encode des hypothèses sur ce qui est équitable, transparent, responsable et sûr. L'éthique est à la fois un ensemble de principes (équité, vie privée, transparence, autonomie, responsabilité) et un ensemble de *pratiques* — la manière dont les parties prenantes raisonnent effectivement au sujet de l'IA, dont les établissements la gouvernent, et dont les apprenants sont préparés à l'utiliser de manière responsable. La [[research-methods-aied|recherche]] récente documente un double mouvement : d'une part, une inquiétude croissante quant à l'insuffisance de l'éthique « à liste de contrôle » fondée sur les principes ; de l'autre, une attention grandissante portée aux approches [[situated-learning|situées]] et écologiques du jugement éthique, ainsi qu'aux conditions structurelles et institutionnelles qui rendent l'usage responsable possible.
 
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] soutiennent, à partir de données suédoises d'enquête et de groupes de discussion, que les établissements devraient trancher les questions d'IA générative par une éthique de partenariat plutôt que par un cadre de tricherie, en s'appuyant sur l'interdépendance mutuelle, le respect de la diversité, l'inclusivité, la responsabilité et l'engagement envers une [[sustainability|durabilité]] de long terme de Carolyn Merchant : 31 % des participants ont soulevé la question éthique spontanément, et la plupart souhaitaient des orientations institutionnelles plus claires que celles dont ils disposaient.
 

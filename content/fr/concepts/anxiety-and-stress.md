@@ -1,7 +1,7 @@
 ---
 title: "Anxiété et stress"
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-11-13T19:05:00-05:00"
+updated: "2026-11-15T11:56:29-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
 translation_of: concepts/anxiety-and-stress
-source_updated: "2026-11-13T00:25:09-05:00"
+source_updated: "2026-11-15T09:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -122,6 +122,8 @@ Le versant positif : les systèmes d'IA détectent et aident de plus en plus à 
 - **L'intervention en temps réel du côté de l'enseignant.** Le [[parlant-emotional-micro-interventions-2026|guide de praticien de Parlant]] ajoute une contrepartie humaine à ces outils d'IA : les *micro-interventions émotionnelles* — des actes verbaux ou gestuels brefs et délibérés qui valident une émotion émergente de l'étudiant, recadrent l'appréciation qui la sous-tend, et reconnectent la lutte à l'identité professionnelle (Valider, Recadrer, Relier). Ancrée dans la théorie de l'appréciation cognitive, l'approche cible l'appréciation primaire (« est-ce une menace ? ») et l'appréciation secondaire (« puis-je y faire face ? ») au moment où la détresse mettrait fin à l'engagement, associant des goulots d'étranglement tels que la frustration, l'isolement et le syndrome de l'imposteur à des états cibles. Son auteur énonce clairement que le cadre ne requiert pas d'IA ; l'[[generative-ai|IA générative]] ne sert que de moyen optionnel de rédiger des phrases candidates que l'enseignant pourra choisir.
 
 - **Un système conçu pour soulager l'anxiété peut en ajouter.** Dans des laboratoires de chimie de 9e année, un semestre de rétroaction émotionnelle par IA a coïncidé avec une hausse de l'anxiété de laboratoire (F = 4.60, p = 0.035), tandis que la classe dirigée par l'enseignant est restée stable ([[liu-chemistry-lab-emotional-feedback-2026|Liu et al. (2026)]]).
+- **Trois voies de soutien, trois taux de stress.** Dans un essai randomisé à trois bras mené auprès de 149 élèves de terminale, le stress était rapporté par 5.8% de ceux qui avaient un tuteur humain, 19.2% avec Khanmigo Lite et 32.0% avec une recherche internet non guidée : c'est donc ce que les étudiants sollicitent lorsqu'ils bloquent, plutôt que l'exposition à l'IA seule, qui ordonnait leur anxiété ([[ennion-human-tutoring-genai-tutoring-search-2026|Ennion et McLellan, 2026]]).
+- **Un chatbot a allégé deux des cinq dimensions de l'anxiété.** Huit semaines d'écriture en anglais en mode hybride avec un chatbot d'IA ont réduit l'anxiété somatique et les comportements d'évitement chez des étudiants de l'enseignement professionnel, mais ont laissé inchangées l'anxiété d'évaluation, le doute de soi et l'anxiété temporelle ([[bao-ai-chatbot-writing-anxiety-vocational-2026|Bao et Zhang, 2026]]).
 
 ## Pourquoi cela se distingue du bien-être
 
