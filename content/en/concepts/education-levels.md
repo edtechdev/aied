@@ -1,7 +1,7 @@
 ---
 title: "Levels of Education"
 created: "2026-09-20T13:08:39-04:00"
-updated: "2026-11-15T00:26:00-05:00"
+updated: "2026-11-15T06:45:00-05:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -11,7 +11,8 @@ methods: [meta-analysis-systematic-review]
 audience: [learners, parents and families]
 institutions: [educational-policy-ai, governance]
 ethics: [differential-effects-across-learner-groups, equity-in-ai-education, privacy, pedagogical-safety]
-level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education, teacher education]
+discipline: [teacher education]
+level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education]
 confidence: medium
 reviewed_by: [editor]
 ---
@@ -27,7 +28,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-The `level` metadata field names the band of education a source is about — bands, not ages: **preschool**, **primary education**, **middle school**, **secondary**, **K-12**, **higher ed**, **undergraduate**, **graduate**, **adult learning**, **special education**, **teacher education**. Some name a stage of schooling, two name the very different halves of university study, two name a [[learners|learner population]] rather than a stage, and one names the people who teach. A source can carry several bands at once.
+The `level` metadata field names the band of education a source is about — bands, not ages: **preschool**, **primary education**, **middle school**, **secondary**, **K-12**, **higher ed**, **undergraduate**, **graduate**, **adult learning**, **special education**. Some name a stage of schooling, two name the very different halves of university study, and two name a [[learners|learner population]] rather than a stage. A source can carry several bands at once. Teacher education is not a band: it is a professional field, tagged under [[discipline-specific-aied|discipline]] because it runs through undergraduate and graduate study (preservice) and through k 12 and adult learning (in-service).
 
 The band pages do the deep work and belong with any reading of the field. Within the school years: [[early-childhood-elementary-ai-education|early childhood education]] (preschool and the first years), [[primary-education|primary education]] (roughly ages 5 to 11), and [[secondary-education|secondary education]] (middle and high school together), with [[k-12]] holding the cross-cutting findings. Within university study: [[higher-ed|higher education]] as the umbrella, [[undergraduate-education|undergraduate education]] for coursework under external judgment, and [[graduate-education|graduate education]] for supervision, research training and professional programs. Outside the two ladders: [[adult-learning|adult learning]], [[vocational-education|vocational education]], [[special-education|special education]] and [[teacher-education|teacher education]].
 
@@ -47,6 +48,16 @@ The most consequential divide is the break between school and university, and th
 Inside the school years the measured outcome changes sharply by band. In primary it is subject learning: 97 Chinese third-graders using [[conversational-ai|GenAI chatbots]] in [[science-education|science inquiry]] posed better problems than a search-engine control (t = 2.47, p = 0.015) ([[dai-chatbots-problem-posing-primary-2026|Dai et al., 2026]]). In secondary it often becomes attitude rather than achievement. A survey of 508 Taiwanese junior high students found experiential appeal working through enjoyment to shape intention to use [[generative-ai|ChatGPT]] for lyric learning (XM → PEOU β = 0.630; PE → ATU β = 0.369), with 81.5% on the free tier — an access-[[equity-in-ai-education|equity]] fact disguised as a technology-acceptance finding ([[chatgpt-music-education-junior-high-2026|Weng et al., 2026]]). Secondary also holds the literature's largest learning warning: across 26,811 Chinese students in grades 7–12, homework scores rose 18% and completion time fell 30% while [[summative-assessment|closed-book exam]] scores dropped about 20% within six months, concentrated among the ~81% whose behavior indicated homework outsourcing ([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg et al. (2026)]]).
 
 The university years split again. Undergraduate study is coursework under external judgment: among undergraduate writers at a minority-serving R1 university, [[ai-literacy|AI literacy]] predicted *which type* of [[llm|LLM]] reliance a student occupied rather than how much they used it ([[llm-reliance-types-undergrad|Hossain, 2026]]). Graduate study is research training, where the outcome shifts from performance to formation. Among 420 astronomy doctoral and postdoctoral researchers, AI dependence was negatively associated with research [[agency|autonomy]] (r = −.355) and [[self-efficacy|self-efficacy]] (r = −.321), and the indirect path to innovative behavior ran mostly through autonomy (−.115) rather than self-efficacy (−.069); supervisory support weakened the negative link to autonomy (B = .077, p = .020) ([[ai-mediated-research-agency-formation-2026|Han et al., 2026]]). A doctoral student is judged on the judgment that AI dependence appears to erode; an undergraduate is not. Lumping both under 'higher education' hides that.
+
+## AI literacy as a developmental sequence
+
+The four components of primary AI literacy already include what graduate frameworks treat as advanced. Across 25 empirical studies, [[yim-ai-literacy-primary-schools-review-2025|Yim and Su (2025)]] found digital literacy for interacting with AI in 19, computational thinking in 10, AI ethics in 10 and critical data literacy in 5. Intelligent agents appeared in 15 studies and unplugged activity in 3, so the earliest band teaches AI by making and inspecting a model rather than by using one.
+
+At secondary the construct turns into judgment under time pressure. Across 33 studies, every tool tested fell below 20% on higher-order biology items while BingChat and Bard reached 92.11% on basic ones ([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca et al. (2026)]]). Gains appeared where students compared and rejected output and faded where the tool produced the work. What students say they learn barely tracks what they do with output: in a study of 1477 respondents, perceived learning and an engagement index correlated at 0.052 ([[torres-peralta-perceived-learning-engagement-homework-2026|Torres-Peralta et al. (2026)]]).
+
+At undergraduate level the hinge is literacy rather than ethics. Among 304 undergraduate and postgraduate students, digital literacy predicted self-reported assignment performance (β = 0.393) while ethical awareness did not (β = −0.006) ([[kumar-chatgpt-academic-assignments-2025|Kumar et al. (2025)]]). By graduate study the gap is one of judgment: graduate students outscored undergraduates by d = 1.47 on ethics and academic autonomy, and use frequency predicted competence at β = 0.030 once ethics and self-regulation entered the model ([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova et al. (2026)]]). The graduate framework adds metacognitive reflection, the dimension the primary four lack ([[zhi-modeling-measuring-graduate-genai-literacy-2026|Zhi et al. (2026)]]).
+
+Read as a sequence, the continuum changes what each band should assess rather than what it should teach. Primary work asks for an artifact a child can explain, secondary work for a comparison a student can defend, and graduate work for an account of which claims are the candidate's own ([[academic-integrity|academic integrity]]). A tool adequate at one end is not evidence at the other.
 
 ## Where the evidence is concentrated, and where it is thin
 
@@ -118,3 +129,9 @@ One pattern holds at every level surveyed: the human layer absorbs the hardest c
 - [[ai-ive-pbl-vocational-design-creativity-2026]] — AI-enabled immersive PBL for vocational design students (Jin et al. 2027)
 - [[preschool-teachers-ai-behavioral-intention-2026]] — Preschool teachers' intention to use AI in early childhood settings
 - [[vahedian-children-attitudes-ai-chatbot-2026]] — Children's attitudes toward an age-tailored AI chatbot
+- [[yim-ai-literacy-primary-schools-review-2025]] — 25 primary studies; four components including ethics and critical data literacy (Yim & Su 2025)
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 secondary studies; accuracy collapses on higher-order items (Pérez-Montesdeoca et al. 2026)
+- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 1477 respondents across high school, university and teachers; perceived learning versus engagement
+- [[kumar-chatgpt-academic-assignments-2025]] — 304 undergraduate and postgraduate students; digital literacy predicted performance, ethics did not
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — Undergraduate versus graduate comparison; ethics and autonomy gap widest (Zaripova et al. 2026)
+- [[zhi-modeling-measuring-graduate-genai-literacy-2026]] — Five-dimension graduate generative AI literacy model

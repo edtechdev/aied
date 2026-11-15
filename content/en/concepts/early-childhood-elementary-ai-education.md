@@ -1,7 +1,7 @@
 ---
 title: Early Childhood Education
 created: "2026-08-25T13:30:00-04:00"
-updated: "2026-11-15T00:32:00-05:00"
+updated: "2026-11-15T06:45:00-05:00"
 type: concept
 connected_resources: [ai-guidance-by-age]
 foundations: [ai-education, ai-literacy, computational-thinking]
@@ -63,6 +63,16 @@ This page covers the preschool and early-primary years, where play is the domina
 - **The pre-service literature has not organized around AI.** A bibliometric map of 86 publications on early childhood teachers' digital and media literacy found AI present but too scattered to form a thematic cluster, with digital competence at the center and media literacy only loosely attached ([[early-childhood-teacher-digital-media-literacy-bibliometric-2026|Janegizova et al., 2026]]).
 
 
+## Unplugged and constructionist routes, and what engagement proves
+
+The frameworks above present unplugged play as the developmentally appropriate entry to AI concepts. The wider primary literature treats it as a minority design. In the 25 studies [[yim-ai-literacy-primary-schools-review-2025|Yim and Su (2025)]] reviewed, agents appeared in 15 and software-focused devices in 8, while unplugged activities appeared in 3. Unplugged work here is a defensible [[pedagogy|pedagogical]] argument more than a measured one: the base for it is thinner than for agent- and device-based designs.
+
+Where the constructionist tradition does carry over, the sequence is contested. Programming routes use Scratch, MIT App Inventor, and Cognimates to teach rule-based coding before data-driven learning, and Yim and Su question that order, since machine learning asks a learner to curate examples rather than write rules. For a five-year-old whose only model of a computer is a list of commands, that is the distance between programming a robot and teaching one. The review also lists [[generative-ai|generative AI]] as a future direction rather than a finding, so most of the storytelling and agent work described on this page postdates the evidence base it could draw on.
+
+Engagement is the outcome these designs most often report, and it is not understanding. [[barokah-ai-elementary-science-review-2026|Barokah, Hermita and Putra (2026)]] map 103 publications from 2023 to early 2026 into five application clusters, robotics among them, and warn that a child absorbed in a build challenge may learn nothing about the phenomenon it models. Their broader finding is that value depends on how the teacher frames and mediates the task, an argument they support from cited work rather than from their own coding.
+
+The epistemic gap is sharpest where early science needs it most. The same map finds outcomes spreading into cognitive, affective, regulatory, and participatory categories while studies seldom ask whether children separate observation from inference, construct a model, or recognize the limits of an AI-generated claim. It also warns that upper elementary performance tasks yield partial explanations, drawings, and gestures, so scoring that treats a developmentally productive response as wrong strips the assessment of its [[formative-assessment|formative]] use. For a teacher of six- and seven-year-olds, that is a reason to keep an adult reading the artifact rather than a model scoring it.
+
 ## Developmental and equity considerations
 
 Because young learners are more vulnerable and less able to self-regulate their use of AI, this cluster emphasizes **scaffolding by adults** (parents, guardians, and teachers), **age-appropriate design**, and the risk of [[cognitive-offloading|over-reliance]] and [[well-being|harm]] if AI substitutes for, rather than supports, the developmental work of play, discovery, and effortful learning. Equity is a live concern: access to AI-rich early learning (or to protective adult guidance) is uneven, connecting to [[digital-divide|digital divide]] and [[equity-in-ai-education|equity]]. Much of the evidence base remains exploratory or design-oriented rather than causal.
@@ -123,3 +133,5 @@ A first neuroimaging window on this question arrives with a caution: 6–7-year-
 
 - [[li-zhou-ai-tools-primary-english-scoping-review-2026]] — AI-mediated tools in primary English language education: a scoping review of pedagogical functions and teacher orchestration
 - [[early-childhood-teacher-digital-media-literacy-bibliometric-2026]] — Digital and media literacy of pre-service early childhood teachers in the context of digital education: a bibliometric analysis of research trends
+- [[yim-ai-literacy-primary-schools-review-2025]] — Artificial intelligence literacy education in primary schools: four strands, constructionist teaching, and a self-report-heavy evidence base (Yim & Su 2025)
+- [[barokah-ai-elementary-science-review-2026]] — Mapping elementary science research: five application clusters, teacher mediation, and thin epistemic outcomes (Barokah et al. 2026)

@@ -1,7 +1,7 @@
 ---
 title: Graduate Education
 created: "2026-11-15T00:10:00-05:00"
-updated: "2026-11-15T05:35:41-05:00"
+updated: "2026-11-15T06:45:00-05:00"
 type: concept
 pedagogy: [professional-training, self-regulated-learning, scaffolding, metacognition, collaborative-learning]
 technology: [generative-ai, llm, simulation, intelligent-tutoring, learning-analytics]
@@ -10,7 +10,7 @@ confidence: medium
 reviewed_by: [editor]
 ---
 
-> **Synthesis:** Graduate education is the level at which AI stops being a study aid and starts competing with the artifact a degree certifies: the thesis chapter, the diagnostic read, the clinical encounter, the admissions essay. The studies that exist cluster in professional and clinical programs, where tutoring, simulated patients, and decision support produce short-term gains, and in the [[assessment]] literature, where the same tools weaken the evidential value of unsupervised text. Supervision is the least studied and most consequential setting, and the evidence there is design argument rather than outcome data.
+> **Synthesis:** Graduate education is the level at which AI stops being a study aid and starts competing with the artifact a degree certifies: the thesis chapter, the diagnostic read, the clinical encounter, the admissions essay. The studies that exist cluster in professional and clinical programs, where tutoring, simulated patients, and decision support produce short-term gains, and in the [[assessment]] literature, where the same tools weaken the evidential value of unsupervised text. Supervision is the least studied and most consequential setting, and its evidence is now measured but correlational, with most guidance still design argument.
 
 ## Questions to Consider
 
@@ -41,6 +41,16 @@ A polished product used to be reasonable evidence that its author understood the
 - **Traces separate who formulated text from who entered it.** DraftTrace compared 81 graduate NLP students with 81 [[llm]]-generated and 11 copy-typed sessions. Classroom prose scored 52.8 on Flesch reading ease against 38.4, typed at 27.5 words per minute against 49, and carried 12.5 revisions per 100 characters against 2.7. Copy-typing surfaced only when both views were read together ([[drafttrace-ai-writing-analytics-2026]]).
 
 - **The hiring signal is already weakening.** Pal and Park model applicants choosing how deeply to study and recruiters choosing what evidence to require. When nobody studies deeply, a passed interview carries no information and is ignored, so valuing understanding creates no incentive to acquire it. Their examples of a response are more weight on an [[oral-assessment|oral defense]], chalk talks, and capped preprints ([[academic-effort-hiring-game-theory-ai-2026]]).
+
+## What the supervisory relationship carries
+
+Supervision is where AI readiness either becomes research capability or remains a personal disposition. In a survey of 425 master's students at 19 Chinese universities, all regular AI users, readiness facilitators reached [[self-efficacy|research self-efficacy]] through perceived supervisor support and AI trust rather than directly. The supervisor-support path was β = 0.201, the direct readiness paths were not significant, and supervisor support carried the strongest direct association with self-efficacy ([[luo-ai-readiness-graduate-research-self-efficacy-2026|Luo et al. (2026)]]). Students who worried about reliability and over-reliance reported higher AI trust, which the authors read as critical scrutiny rather than avoidance. The design is cross-sectional and self-reported, so the path is association, not causation.
+
+The ethics boundary in original research runs through the task, not the tool. [[guanilo-pareja-genai-doctoral-supervision-2026|Guanilo Pareja et al. (2026)]] argue that grammar help and brainstorming differ from unacknowledged analysis or synthesis, so rules naming tools rather than functions will misfire. Their review of 61 sources holds disclosure necessary but not sufficient: declared use still fails if the candidate cannot defend the reasoning behind the text. Machine comments are provisional by design, and the authors propose governance as a cycle reviewed at doctoral milestones. Their propositions are interpretive, offered for testing rather than as measured effects.
+
+A single-group seminar shows how easily such gains get overstated. Thirteen graduate students in a 16-week course rose from 80.62 to 87.38 on self-directed learning across all responses, but only eight records could be matched and no unaided test was run ([[chen-genai-self-directed-learning-graduate-seminar-2026|Chen (2026)]]). The paper's usable proposal is procedural: state a goal and an initial judgment before the tool, then explain what was accepted or rejected and what could be done unaided.
+
+The level gap is clearest in the comparison most studies omit. Among 381 students at one technical university, graduate students led undergraduates by d = 1.47 on ethics and academic autonomy and d = 1.29 on AI use, while use frequency did not predict competence once ethics and self-regulation entered the model ([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova et al. (2026)]]). The graduate target a program can design for is therefore judgment, not exposure.
 
 ## Professional and clinical programs
 
@@ -133,3 +143,7 @@ Graduate education inherits the sector-wide problems of integrity, [[assessment-
 - [[genai-cognitive-offloading-learner-agency-review-2026]] — 123 higher-education studies mapping agency-supportive and agency-eroding patterns
 - [[patrick-ai-higher-order-thinking-systematic-review-2025]] — 31 studies; educators and students agree on over-reliance and divide on integrity
 - [[morales-cevallos-ai-forensic-science-education-2026]] — 21 studies, three with educational evidence, none in a forensic classroom
+- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 master's students; readiness reached research self-efficacy through supervisor support (path β = 0.201)
+- [[guanilo-pareja-genai-doctoral-supervision-2026]] — 61-source review of doctoral supervision; task-based ethics, proportional disclosure, milestone governance
+- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Single-group seminar; self-directed learning rose 80.62 to 87.38 with eight matched records
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — Graduate students led undergraduates on ethics and autonomy (d = 1.47); use frequency did not predict competence

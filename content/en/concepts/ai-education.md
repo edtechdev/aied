@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-15T00:28:00-05:00"
+updated: "2026-11-15T06:45:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -90,6 +90,14 @@ AI is applied across disciplines and educational levels. The [[discipline-specif
 ## Levels and contexts
 
 The same AI tool meets very different settings, and the educational level is kept separate from the pedagogy so that findings do not silently transfer across them: [[k-12|K-12 schools]], which now divides into [[early-childhood-elementary-ai-education|early childhood]], [[primary-education|primary education]] and [[secondary-education|secondary education]]; [[higher-ed|higher education]], which divides into [[undergraduate-education|undergraduate]] and [[graduate-education|graduate]] study; and the settings outside those ladders, [[adult-learning|adult learning]], [[vocational-education|vocational education and training]], [[special-education|special education]], and [[teacher-education|teacher education]]. [[education-levels|Levels of education]] compares them. Domain-adjacent concepts that cut across levels include [[universal-design-for-learning|universal design for learning]], [[neurodiversity|neurodiversity]], [[multilingual-learning|multilingual learning]], and [[social-emotional-learning|social-emotional learning]].
+
+## The same tool, opposite design choices
+
+Level is the variable that most cleanly reverses a design recommendation. Secondary evidence puts the teacher between student and tool: across 33 studies, gains came where students compared output, and faded where the tool produced the work ([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca et al. (2026)]]).
+
+Graduate evidence points the other way, toward partnership with an accountable human. Readiness facilitators reached research [[self-efficacy|self-efficacy]] through supervisor support (β = 0.201 indirect), not through tool use ([[luo-ai-readiness-graduate-research-self-efficacy-2026|Luo et al. (2026)]]). A doctoral review reaches the same design conclusion from ethics: legitimacy turns on the task rather than the tool, disclosure is proportional to intellectual significance, and governance is reviewed at milestones ([[guanilo-pareja-genai-doctoral-supervision-2026|Guanilo Pareja et al. (2026)]]).
+
+What does not change is that a human holds the judgment. Students in a graduate seminar accepted AI output only after a knowledgeable gatekeeper checked it, which Chen reads as delegated rather than surrendered agency ([[chen-genai-self-directed-learning-graduate-seminar-2026|Chen (2026)]]). Frequency is the wrong cross-tier metric: it predicted graduate competence at β = 0.030 once ethics and self-regulation entered the model ([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova et al. (2026)]]).
 
 ## Assessment and measurement
 
@@ -207,3 +215,8 @@ Field-wide reviews of AI in education — the studies that survey the whole fiel
 - [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies
 - [[stanford-evidence-base-ai-k12-2026]] — The evidence base on AI in K-12: 52 strong causal studies drawn from 1,686 repository papers (November 2026 update)
 - [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 secondary studies; gains where students judge output, not where the tool produces the work
+- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 master's students; readiness reached self-efficacy through supervisor support
+- [[guanilo-pareja-genai-doctoral-supervision-2026]] — 61-source review of doctoral supervision ethics, feedback and governance
+- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Single-group graduate seminar; self-directed learning gains without an unaided test
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 students; undergraduate–graduate gap in ethics and self-regulation

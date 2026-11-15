@@ -1,7 +1,7 @@
 ---
 title: Secondary Education
 created: "2026-11-15T00:10:00-05:00"
-updated: "2026-11-15T05:35:41-05:00"
+updated: "2026-11-15T06:35:09-05:00"
 type: concept
 pedagogy: [help-seeking, student-engagement, self-regulated-learning, metacognition]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -61,6 +61,16 @@ The same students adopt fastest. In Switzerland, 84% of 14–19-year-olds report
 - **Detection locates essays, not sentences.** With keystroke and clipboard logs from 2,429 German 15-year-olds, classifiers separated AI from human text at macro-F1 0.96, but sentence-level F1 fell to 0.88 and AI recall dropped from 0.92 to 0.60 after one student-style rewrite ([[schaller-ai-text-detection-authentic-writing-2026|Schaller et al., 2026]]).
 
 - **Students reason about integrity conditionally.** Among 133 Hong Kong students aged 14–16, acceptability turned on purpose of use (62.4%), impact on learning (54.1%), and intent (51.9%), not on AI use itself ([[chan-rethinking-aigiarism-secondary-integrity-2026|Chan, 2026]]).
+
+## The adoption–evidence mismatch and assessment redesign
+
+Use at this tier is near-universal; the evidence is mostly a description of it. [[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca et al. (2026)]] synthesized 33 studies: 26 described how the technology was used against 7 that examined student change, and only 21 collected original classroom data. Nearly all were teacher-initiated and run in isolation, which is the pattern the 84% adoption figure hides — individual teachers experimenting, not departments redesigning.
+
+What the review does establish is conditional. Feedback was the strongest application, with tailored vocabulary feedback nearly doubling scores in one included study, while full delegation narrowed learning and comparing or rejecting output deepened it. Accuracy tracked task difficulty rather than subject: BingChat and Bard reached 92.11% on basic biology questions, every tool fell below 20% on higher-order items, and automated grading reached 50.8% agreement with human evaluators. Survey work points at depth rather than dosage, since [[wu-genai-secondary-innovation-digital-literacy-2026|Wu and Zhang (2025)]] found depth of use tracked self-rated innovation capability while frequency did not, in a cross-sectional design where the paths restate the correlations.
+
+Adoption follows intention; anxiety acts afterward. [[zhang-ai-learning-tools-tpb-high-school-2026|Zhang and An (2026)]] found [[anxiety-and-stress|AI anxiety]] unrelated to intention (β = 0.056, p = 0.123) yet negative for all three behaviors, most strongly applying output (β = −0.247), in a model where usefulness led and adult expectations outranked capability. Measurement is also pilot-grade: [[schicchi-high-school-genai-attitudes-scale-2026|Schicchi and Taibi (2026)]] retained three factors from a 19-item attitudes scale on 93 students, with no confirmatory model.
+
+That is why the assessment question becomes what a completed product still certifies. [[torres-peralta-perceived-learning-engagement-homework-2026|Torres-Peralta et al. (2026)]] found perceived learning nearly unrelated to an engagement index of reading, modifying, and adding to output (pooled correlation 0.052), and [[cho-chatgpt-high-school-gpa-2025|Cho (2025)]] reviewed GPA associations of 0.31 in writing and 0.18 in mathematics that are mostly user-versus-non-user comparisons. Collect the prompt, the draft response, and the revisions, and grade the process rather than the page.
 
 ## Middle school and early adolescence
 
@@ -137,3 +147,9 @@ Secondary sits between [[primary-education]] and [[undergraduate-education]], an
 - [[porcaro-ai-grading-benchmark-2026]] — 22 models tested for gaming, label effects, and agreement.
 - [[wu-genai-scientific-literacy-china-2026]] — PISA 2025 science literacy and purpose of chatbot use.
 - [[student-motivation-need-satisfaction-genai-sdt-2026]] — 2,464 German students in grades 7–8.
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33-study PRISMA review; 26 use studies against 7 impact studies.
+- [[wu-genai-secondary-innovation-digital-literacy-2026]] — 500 students in grades 7–12; self-rated depth of use and capability.
+- [[zhang-ai-learning-tools-tpb-high-school-2026]] — 513 Hangzhou students; anxiety at enactment, not intention.
+- [[schicchi-high-school-genai-attitudes-scale-2026]] — 19-item attitudes scale on 93 Italian students; pilot measurement.
+- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 1,477 respondents; perceived learning against an engagement index.
+- [[cho-chatgpt-high-school-gpa-2025]] — GPA associations by subject, school type, and socioeconomic status.

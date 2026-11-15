@@ -1,7 +1,7 @@
 ---
 title: Undergraduate Education
 created: "2026-11-15T00:10:00-05:00"
-updated: "2026-11-15T05:35:41-05:00"
+updated: "2026-11-15T06:35:59-05:00"
 type: concept
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
 assessment: [formative-assessment, assessment, learning-gains]
@@ -62,6 +62,16 @@ Four designs separate the score on the supported task from what students could d
 - **Use pattern decided whether the gain survived removal.** An off-the-shelf chatbot raised unaided test scores by 6.7 points (0.27 SD) among 211 Middlebury students, and it persisted. The 32% who used it to automate work gained 0.54 SD on essays while it was available and 0.02 SD once it was gone ([[contractor-learning-impact-generative-ai-2026]]).
 
 The mechanism usually offered is [[cognitive-offloading]]: the tool performs the process the task was designed to elicit. What follows is an ordering rather than a ban — an attempt first, help second, and one graded judgment without the tool.
+
+## What students report about themselves
+
+The surveys at this level ask students what they gained, and their answers sit loosely against what they say they did. [[torres-peralta-perceived-learning-engagement-homework-2026|Torres-Peralta et al. (2026)]] surveyed 1,477 respondents in Sonora, Mexico, including 765 university students. Their engagement index rests on three reported behaviors — reading, modifying, and adding one's own ideas — and it barely moved with a single 0–10 self-rating of learning, at a pooled correlation of 0.052. University students used ChatGPT more than high school students and rated their learning only slightly higher. The authors read the result as a warning about [[assessment-validity|assessment validity]] rather than a verdict on learning, since no outcome was measured.
+
+Where the predictors are also self-reported, a model describes a frame of mind more than a mechanism. [[kumar-chatgpt-academic-assignments-2025|Kumar et al. (2025)]] modeled paths to self-reported assignment performance for 304 students at two universities in Karnataka. Digital literacy reached β = 0.393 and perceived usefulness β = 0.259, while ethical awareness did not predict performance (β = −0.006, p = .924). Performance, literacy, and ethics were all self-rated, so the strongest path says that students who rate themselves digitally literate also rate their work higher. The ethics null remains the useful result: the authors read it as ethics shaping conduct rather than marks, and recommend assessing disclosure and citation directly.
+
+The level comparison makes the undergraduate side look uneven rather than uniformly low. [[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova et al. (2026)]] compared 381 students at a technical university in Uzbekistan on a balanced subsample of 302. Undergraduates averaged 3.527 on the ethics scale against 4.627 for graduate students, with d = 1.47 for ethics and academic autonomy. Perceived cognitive load did not differ by level (p = .296). The distributions carry the design point: graduate standard deviations on ethics and self-regulation were roughly a third of the undergraduate values, while undergraduates reached the scale minimum. A first-year cohort therefore holds students who appraise output critically beside students who report almost none of that disposition.
+
+Read together, the surveys show what [[self-report-measures|self-report]] can and cannot establish. They establish distribution and self-concept — how spread a cohort is, how students rate themselves — and not learning. The performance evidence above is what separates the two, from the 57.5% against 68.5% retention test to the 0.54 SD gain that vanished when the chatbot was removed. Self-reported gains and self-reported predictors therefore need the same caution in opposite directions. A gain measured by self-rating may be competence or confidence, and a predictor measured the same way may track the outcome because one instrument produced both. The test is whether a design changes something a student does: a revised draft, a verified source, a disclosed use.
 
 ## Writing, feedback, and integrity
 
@@ -125,6 +135,7 @@ Undergraduate sits between two bands studied with different methods. [[secondary
 - [[self-regulated-learning]] — planning, monitoring and evaluating without the tool
 - [[desirable-difficulties]] — the struggle an unrestricted assistant removes
 - [[process-oriented-assessment]] — grading the trail rather than the artifact
+- [[self-report-measures]] — what a survey captures, and why it is not a learning outcome
 - [[ai-detection]] — why classifier output is evidence for review, not a finding
 - [[learning-analytics]] — LMS traces as an early signal for outreach
 - [[student-support-and-success]] — advising, outreach and the limits of nudging
@@ -144,3 +155,6 @@ Undergraduate sits between two bands studied with different methods. [[secondary
 - [[genai-cognitive-offloading-learner-agency-review-2026]] — 123 studies; agency-supportive and agency-eroding patterns coexist
 - [[ai-enabled-course-development-first-year-adjustment-2026]] — 551 first-years reported high approval alongside high self-reported strain
 - [[thulin-chatbot-mental-health-students-2026]] — 15.4% had used a chatbot for a mental health reason, and use tracked barriers to care
+- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 1,477 respondents; self-rated learning and a three-behavior engagement index correlated at 0.052
+- [[kumar-chatgpt-academic-assignments-2025]] — 304 students; digital literacy predicted self-reported performance at β = 0.393, ethical awareness at β = −0.006
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — undergraduates averaged 3.527 on ethics against 4.627 for graduate students, with far wider spread
