@@ -11,7 +11,7 @@ page_kind: [evaluation]
 methods: [ai-ed-evaluation]
 updated: "2026-11-15T16:18:21-05:00"
 translation_of: faqs/does-ai-help-students-learn
-source_updated: ""2026-11-13T00:25:09-05:00""
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή."
 contributors: [editor]
 ai_assist:

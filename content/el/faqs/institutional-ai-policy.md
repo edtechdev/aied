@@ -11,7 +11,7 @@ level: [higher ed]
 institutions: [change-management, educational-policy-ai, governance]
 updated: "2026-11-15T16:24:47-05:00"
 translation_of: faqs/institutional-ai-policy
-source_updated: ""2026-11-13T00:25:09-05:00""
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή."
 contributors: [editor]
 ai_assist:

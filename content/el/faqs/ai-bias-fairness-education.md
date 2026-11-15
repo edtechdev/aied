@@ -10,7 +10,7 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, inclusive-learning]
 audience: [instructors, administrators, software developers, researchers]
 updated: "2026-11-15T16:17:19-05:00"
 translation_of: "faqs/ai-bias-fairness-education"
-source_updated: ""2026-11-13T00:25:09-05:00""
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή."
 contributors: [editor]
 ai_assist:

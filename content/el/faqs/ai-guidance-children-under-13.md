@@ -14,7 +14,7 @@ level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
 updated: "2026-11-15T16:22:18-05:00"
 translation_of: faqs/ai-guidance-children-under-13
-source_updated: ""2026-11-13T00:25:09-05:00""
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή."
 contributors: [editor]
 ai_assist:

@@ -10,7 +10,7 @@ audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
 updated: "2026-11-15T16:17:57-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: ""2026-11-13T00:25:09-05:00""
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή."
 contributors: [editor]
 ai_assist:
