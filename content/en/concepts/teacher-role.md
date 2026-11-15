@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-15T15:46:26-05:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -24,8 +24,6 @@ reviewed_by: [editor]
 ---
 
 > **Teaching** — how AI reshapes the work, identity, and agency of educators. With 50+ articles examining this dimension, the research documents a fundamental transformation: from sole knowledge authority to orchestrator of human-AI learning environments. The evidence goes beyond describing that shift to what teachers actually *do* differently, how they can adapt their practice, and how they connect to [[learning-design|learning design]], [[ai-literacy|AI literacy]], and [[academic-integrity|academic integrity]].
-
-> [[caeo-navigating-ai-educational-future-scenarios-2026|Malyn-Smith et al. (2026)]] call this the more-human paradox: in six 2030 scenarios co-constructed by 20 researchers from 13 countries, AI saturation intensifies rather than displaces human pedagogical work. The scenarios describe AI as "the air-handling system of the learning ecosystem" — you notice it only when it malfunctions.
 
 ## Questions to Consider
 

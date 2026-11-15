@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-15T15:46:26-05:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -19,8 +19,6 @@ ai_assist:
 ---
 
 > **Automated assessment** — the use of AI to evaluate student work, from [[formative-assessment|formative quizzes]] to high-stakes exams. Automated assessment spans multiple modalities — multiple-choice, short answer, essay, code, and performance-based evaluation — and ranges from direct automated grading to confidence-aware systems that report calibrated uncertainty alongside their scores.
-
-Automation routinizes grading and frames it as administrative burden rather than pedagogical judgment; greater consistency is a better measurement of the same construct, not a challenge to it ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
 
 ## Questions to Consider
 
@@ -103,6 +101,9 @@ Four themes organize the included studies: **Evaluation**, models scoring teache
 ## Quality and fairness
 
 Automated assessment quality depends on [[assessment-validity|assessment validity]] and [[bias-mitigation|bias mitigation]]. [[ai-scoring-language-bias-physics|Language bias]] research shows that automated scoring can systematically disadvantage certain student populations.
+
+Automation also reframes grading as routine administration rather than pedagogical judgment, and the consistency it buys is better measurement of the same construct rather than a challenge to it ([[nieminen-grading-assessment-reform-2026|Nieminen et al. (2026)]]).
+
 **The criterion is itself fallible.** [[ai-marking-accuracy-gcse-physics-2026|Bozdag and Qiu (2026)]] mark GCSE physics scripts with an AI system and compare them against both official examination-board marks and experienced teachers' judgment, treating agreement with the board as a proxy for accuracy rather than accuracy itself.
 
 - **AI disagreement as rubric diagnostics.** [[zhao-ai-supported-grading-rubric-refinement-2026|Zhao et al. (2026)]] integrated an LLM grader into PrairieLearn so instructors see item-level disagreement with their own marking, then revise the rubric before scaling. AI–human agreement reached 99.4% on a single-item bug question and fell to 65% on a Markov-matrix problem with six valid solutions.

@@ -1,7 +1,7 @@
 ---
 title: Help-Seeking
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-15T15:46:26-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -19,9 +19,6 @@ ai_assist:
 ---
 
 > **Help-Seeking** — the learner's process of recognizing a need for assistance and strategically requesting it, and how that process plays out in AI-supported learning environments. In [[ai-education|AI in education]], help-seeking is central to whether AI tools support or undermine learning: the *quality* of help-seeking (when, how, and what learners ask for) strongly shapes outcomes, and AI tutors, hints, and [[pedagogy|pedagogical]] agents are designed precisely to elicit productive help-seeking rather than answer-seeking.([[lak2026-hint-button-unproductive-use|An et al. (2026)]])([[ai-fallibility-warning-help-seeking|Nagashima et al., 2026]])
-
-
-Proactive outreach can raise help-seeking without any change to the learning materials. A pre-registered experiment in large-enrollment undergraduate courses messaged students through an academic chatbot and found greater take-up of tutoring and supplemental instruction; mediation analysis attributed 17.8% of the grade effect to that increased help-seeking (p = 0.041) ([[chatbot-outreach-course-performance-2026|Meyer et al., 2026]]).
 
 ## Questions to Consider
 
@@ -123,6 +120,7 @@ In fully online [[english-education|composition]], availability of the tool is n
 3. **Use transparency to calibrate trust.** Warning about AI fallibility can increase appropriate help-seeking and engagement.([[ai-fallibility-warning-help-seeking|Nagashima et al., 2026]])
 4. **Measure uptake, not just scaffolding.** Evaluate whether students actually engage with pedagogical framing, not only whether the tutor provides it.([[rethinking-scaffolding-llm-tutors|Neagu et al. (2026)]])
 5. **Support monitoring and agency.** Help-seeking scaffolds should strengthen [[metacognition|metacognition]] and [[self-regulated-learning|self-regulated learning]], guarding against [[cognitive-offloading|Over-Reliance]].
+6. **Reach the students who do not ask.** Outreach can raise help-seeking without touching the learning materials: a pre-registered experiment in large-enrollment undergraduate courses messaged students through an academic chatbot, increasing take-up of tutoring and supplemental instruction, and mediation attributed 17.8% of the grade effect to the rise in help-seeking (p = .041) ([[chatbot-outreach-course-performance-2026|Meyer et al., 2026]]).
 
 ## Common Misconceptions
 
