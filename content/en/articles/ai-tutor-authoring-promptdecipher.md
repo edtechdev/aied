@@ -10,7 +10,8 @@ research_method: [system development]
 audience: [instructors, faculty developers]
 sources: ['raw/papers/2605.16605.md']
 confidence: high
-level: [higher ed, teacher education]
+discipline: [teacher education]
+level: [higher ed]
 page_kind: [implementation]
 ---
 

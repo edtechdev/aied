@@ -8,7 +8,8 @@ technology: [generative-ai]
 pedagogy: [professional-training]
 audience: [instructors, administrators]
 research_method: [survey]
-level: [higher ed, adult learning, teacher education]
+discipline: [teacher education]
+level: [higher ed, adult learning]
 sources: ['raw/papers/ithaka-sr-ai-skills-college-graduates-2026.md']
 confidence: high
 ---
@@ -33,7 +34,7 @@ The framework is designed to capture how a typical, non-technical employee uses 
 
 - **Instructor survey (Ithaka S+R):** 500 instructors from four-year nonprofit colleges responded (28,200 invited, April 13–24 2026). They rated each of the 26 skills on a seven-point importance scale, reported whether they taught each skill, and answered questions on institutional AI context.
 - **Employer data (HiBob):** 1,200 employers surveyed Feb–March 2026; the report compares instructors against the **US subset (200 employers)**.
-- **Respondent profile:** mostly tenured/tenure-track (300) plus 122 adjunct/contingent; ~three-fifths at doctoral institutions and public universities; disciplines led by social sciences, natural sciences, and business.
+- **Respondent profile:** mostly tenured (214) and tenure-track (87) plus 122 adjunct/contingent; ~three-fifths at doctoral institutions and public universities; disciplines led by social sciences, natural sciences, and business.
 - **Limitations:** the report notes potential early-response bias, exclusion of community colleges/vocational institutions, and that the "skill of doing things without AI" was a recurring instructor refrain.
 
 ## Key Findings

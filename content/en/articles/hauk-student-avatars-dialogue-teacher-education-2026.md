@@ -11,7 +11,8 @@ methods: [mixed-methods-research, qualitative-research]
 research_method: [case study]
 ethics: [pedagogical-safety, privacy]
 audience: [faculty developers, instructors, researchers]
-level: [teacher education, higher ed]
+discipline: [teacher education]
+level: [higher ed]
 confidence: high
 sources: ['raw/papers/hauk-student-avatars-dialogue-teacher-education-2026.md']
 source_url: https://doi.org/10.1111/bjet.70087

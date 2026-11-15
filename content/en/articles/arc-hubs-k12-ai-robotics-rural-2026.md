@@ -9,9 +9,9 @@ ethics: [digital-divide, equity-in-ai-education]
 sources: ['raw/papers/arc-hubs-k12-ai-robotics-rural-2026.md']
 confidence: high
 research_method: [design and evaluation study]
-level: [k 12, teacher education]
+level: [k 12]
 audience: [instructors, administrators]
-discipline: [stem education, cs education]
+discipline: [cs education, stem education, teacher education]
 ---
 
 > **Synthesis:** Barriers to [[k-12|K–12]] robotics and [[ai-education|AI education]] are usually framed as [[curriculum-design|curriculum]] or kit-access problems; ARC's diagnosis is narrower — the binding constraint is sustained local technical mentorship, distributed geographically. Rural FIRST LEGO League participation in Indiana fell in the 2020 remote season and never recovered; urban participation did. In ARC, colleges train [[higher-ed|undergraduates]] as mentors and host workshops for nearby teams; mature school programs become secondary hubs that mentor further schools. A one-university trial created three rural teams and raised mentoring confidence; a spatially explicit Markov [[simulation|simulation]] projects far greater reach. The evidence is feasibility-level, not causal.

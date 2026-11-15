@@ -8,8 +8,8 @@ confidence: medium
 published: "2026-09"
 page_kind: [synthesis]
 research_method: [case study]
-discipline: [stem education]
-level: [teacher education, higher ed]
+discipline: [stem education, teacher education]
+level: [higher ed]
 audience: [administrators, faculty developers, instructors, policymakers]
 foundations: [ai-literacy, teacher-ai-competency, teacher-role, academic-integrity]
 pedagogy: [scaffolding, professional-training]

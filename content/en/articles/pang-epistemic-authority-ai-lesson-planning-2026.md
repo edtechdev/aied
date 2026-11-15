@@ -6,7 +6,7 @@ type: article
 page_kind: [evaluation]
 research_method: [case study]
 evidence_context: educational
-level: [teacher education, higher ed]
+level: [higher ed]
 audience: [instructors, faculty developers, researchers]
 sources: ['raw/papers/pang-epistemic-authority-ai-lesson-planning-2026.md']
 source_url: "https://doi.org/10.3389/fpsyg.2026.2015390"
@@ -24,7 +24,7 @@ pedagogy: [professional-training, scaffolding]
 technology: [generative-ai]
 assessment: [evaluative-judgment]
 methods: [qualitative-research]
-discipline: [math education]
+discipline: [math education, teacher education]
 ethics: [automation-bias]
 ---
 > **Synthesis:** Pang, Zuo and Li (2026) gave five Chinese [[teacher-education|preservice mathematics teachers]] an AI chat interface beside a Word document and asked for a complete lesson plan, then reconstructed what happened decision by decision from screen recordings, concurrent talk, stimulated recall, and [[reflection|written reflections]]. Across 34 decision episodes, [[agency|authority]] was retained in 16, shared in 12, and ceded in 6, and it moved within every case, so no participant could be labeled simply critical or dependent. The study's contribution is its unit of analysis: not how much a novice prompted or edited, but whether a proposal was judged on grounds independent of the AI and whether that judgment reached the written plan. Two narrow failures make the risk concrete — a closed verification loop, in which the model that raised a doubt was asked to settle it (four episodes, two cases), and an insight–action gap, in which a recognized problem never became a [[teacher-role|teacher]] move (three episodes, one case).

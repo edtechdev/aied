@@ -5,7 +5,8 @@ updated: "2026-09-19T10:43:18-04:00"
 type: article
 pedagogy: [collaborative-learning]
 technology: [generative-ai]
-level: [higher ed, teacher education]
+discipline: [teacher education]
+level: [higher ed]
 sources: ['raw/papers/srep-ccct-cooperative-learning.md']
 confidence: high
 audience: [faculty developers, instructors, instructional designers]

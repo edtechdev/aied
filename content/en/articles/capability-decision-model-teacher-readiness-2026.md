@@ -8,7 +8,8 @@ confidence: high
 published: "2026"
 page_kind: [framework]
 research_method: [position paper]
-level: [teacher education, k 12]
+discipline: [teacher education]
+level: [k 12]
 audience: [instructors, faculty developers, administrators, policymakers, researchers]
 foundations: [teacher-ai-competency, teacher-role, theories-and-frameworks, theory-development-aied]
 pedagogy: [social-norms-ai-use, self-efficacy, professional-training, tpack]

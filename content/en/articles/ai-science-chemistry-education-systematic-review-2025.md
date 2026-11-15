@@ -5,11 +5,11 @@ updated: "2026-09-19T06:55:23-04:00"
 type: article
 technology: [generative-ai]
 ethics: [ethics]
-discipline: [chemistry education, science education]
+discipline: [chemistry education, science education, teacher education]
 sources: ['raw/papers/ai-science-chemistry-education-systematic-review-2025.md']
 confidence: high
 audience: [researchers, faculty developers]
-level: [k 12, higher ed, teacher education, secondary]
+level: [k 12, higher ed, secondary]
 page_kind: [synthesis]
 methods: [meta-analysis-systematic-review]
 institutions: [educational-policy-ai]

@@ -8,7 +8,8 @@ foundations: [educational-development, teacher-role, teacher-ai-competency]
 methods: [mixed-methods-research]
 research_method: [survey, case study]
 audience: [faculty developers, administrators]
-level: [higher ed, teacher education, k 12]
+discipline: [teacher education]
+level: [higher ed, k 12]
 institutions: [change-management]
 updated: "2026-11-08T04:26:08-05:00"
 translation_of: faqs/faculty-development-ai

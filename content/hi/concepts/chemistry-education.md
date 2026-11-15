@@ -6,8 +6,8 @@ type: concept
 foundations: [ai-literacy, philosophy-of-ai-in-education]
 technology: [generative-ai]
 assessment: [assessment]
-discipline: [chemistry education, stem education]
-level: [higher ed, k 12, teacher education]
+discipline: [chemistry education, stem education, teacher education]
+level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/chemistry-education
 source_updated: "2026-11-04T12:05:00-05:00"

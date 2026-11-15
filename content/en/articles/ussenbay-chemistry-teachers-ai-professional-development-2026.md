@@ -9,8 +9,8 @@ source_url: "https://doi.org/10.3389/feduc.2026.1961742"
 confidence: high
 page_kind: [evaluation]
 research_method: [quasi-experiment]
-discipline: [chemistry education]
-level: [teacher education, k 12]
+discipline: [chemistry education, teacher education]
+level: [k 12]
 audience: [faculty developers, administrators]
 contributors: [editor]
 ai_assist:

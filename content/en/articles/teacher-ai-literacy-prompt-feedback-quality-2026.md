@@ -10,7 +10,8 @@ methods: [quantitative-research]
 sources: ['raw/papers/teacher-ai-literacy-prompt-feedback-quality-2026.md']
 confidence: high
 research_method: [quasi-experiment]
-level: [teacher education, higher ed]
+discipline: [teacher education]
+level: [higher ed]
 audience: [faculty developers, researchers]
 page_kind: [evaluation, framework]
 ---

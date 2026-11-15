@@ -8,7 +8,8 @@ assessment: [assessment, assessment-validity, educational-measurement, self-repo
 methods: [meta-analysis-systematic-review, research-methods-aied]
 research_method: [literature review]
 audience: [instructors, faculty developers, researchers]
-level: [k 12, higher ed, teacher education]
+discipline: [teacher education]
+level: [k 12, higher ed]
 confidence: high
 sources: ['raw/papers/assessing-teachers-ai-literacy-measurement-tools-2026.md']
 reviewed_by: [editor]

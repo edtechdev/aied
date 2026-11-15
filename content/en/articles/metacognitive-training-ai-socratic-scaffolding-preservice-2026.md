@@ -7,7 +7,8 @@ sources: ['raw/papers/metacognitive-training-ai-socratic-scaffolding-preservice-
 confidence: high
 page_kind: [evaluation]
 research_method: [experiment]
-level: [teacher education, higher ed]
+discipline: [teacher education]
+level: [higher ed]
 audience: [instructors, faculty developers, researchers]
 pedagogy: [metacognition, self-regulated-learning, socratic-method, scaffolding, student-ai-interaction]
 technology: [generative-ai, conversational-ai, llm]

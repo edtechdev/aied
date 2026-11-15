@@ -8,8 +8,8 @@ confidence: high
 published: "2026"
 page_kind: [evaluation]
 research_method: [instrument development, survey]
-discipline: [learning sciences]
-level: [higher ed, undergraduate, graduate, teacher education]
+discipline: [learning sciences, teacher education]
+level: [higher ed, undergraduate, graduate]
 audience: [instructors, researchers, assessment designers, faculty developers]
 foundations: [human-ai-collaboration, ai-literacy, limitations-in-aied-research]
 pedagogy: [self-regulated-learning, metacognition, motivation, student-ai-interaction]

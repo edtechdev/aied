@@ -6,7 +6,8 @@ type: article
 foundations: [ai-literacy, teacher-role]
 methods: [meta-analysis-systematic-review]
 audience: [instructors]
-level: [teacher education, adult learning]
+discipline: [teacher education]
+level: [adult learning]
 sources: ['raw/papers/harnessing-ai-preservice-teachers-scoping-2026.md']
 confidence: high
 page_kind: [synthesis]

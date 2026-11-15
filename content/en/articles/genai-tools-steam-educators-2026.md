@@ -8,8 +8,8 @@ confidence: high
 published: "2026"
 page_kind: [synthesis]
 research_method: [literature review, thematic analysis]
-discipline: [stem education, science education, cs education, engineering education, arts education, design education, math education]
-level: [k 12, higher ed, teacher education]
+discipline: [arts education, cs education, design education, engineering education, math education, science education, stem education, teacher education]
+level: [k 12, higher ed]
 audience: [instructors, curriculum designers, instructional designers, faculty developers, administrators, policymakers]
 foundations: [ai-education, ai-literacy, human-ai-collaboration, teacher-role, teacher-ai-competency, curriculum-design, computational-thinking, academic-integrity]
 pedagogy: [constructivist, sociocultural-learning, experiential-learning, problem-based-learning, project-based-learning, inquiry-based-learning, creativity, collaborative-learning, tpack]

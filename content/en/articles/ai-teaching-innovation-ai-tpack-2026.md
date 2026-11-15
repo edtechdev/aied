@@ -8,7 +8,8 @@ audience: [researchers, administrators, instructional designers]
 research_method: [survey]
 sources: ['raw/papers/10.3389_fpsyg.2026.1834827.md']
 confidence: high
-level: [higher ed, teacher education]
+discipline: [teacher education]
+level: [higher ed]
 page_kind: [framework]
 technology: [technology-acceptance-model]
 ---

@@ -13,7 +13,8 @@ last_verified: "2026-11-10"
 foundations: [teacher-ai-competency]
 technology: [generative-ai]
 audience: [instructors, instructional designers]
-level: [k 12, teacher education]
+discipline: [teacher education]
+level: [k 12]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017

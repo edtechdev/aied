@@ -6,8 +6,8 @@ type: article
 published: "2026-10-22"
 page_kind: [synthesis]
 research_method: [literature review, thematic analysis]
-discipline: []
-level: [higher ed, teacher education]
+discipline: [teacher education]
+level: [higher ed]
 audience: [instructors, instructional designers, faculty developers, administrators, researchers]
 foundations: [educational-development, teacher-ai-competency, learning-design]
 pedagogy: [scaffolding]

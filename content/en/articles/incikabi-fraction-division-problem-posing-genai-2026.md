@@ -9,8 +9,8 @@ source_url: "https://doi.org/10.3389/fpsyg.2026.1946583"
 confidence: medium
 page_kind: [evaluation]
 research_method: [user study]
-discipline: [math education]
-level: [higher ed, teacher education]
+discipline: [math education, teacher education]
+level: [higher ed]
 audience: [instructors, faculty developers, curriculum designers]
 contributors: [editor]
 ai_assist:

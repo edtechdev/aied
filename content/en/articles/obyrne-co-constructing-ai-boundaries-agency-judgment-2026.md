@@ -8,8 +8,8 @@ sources: ['raw/papers/obyrne-co-constructing-ai-boundaries-agency-judgment-2026.
 confidence: medium
 page_kind: [evaluation, framework]
 research_method: [case study]
-discipline: [writing education]
-level: [teacher education, undergraduate]
+discipline: [teacher education, writing education]
+level: [undergraduate]
 audience: [instructors, faculty developers, researchers]
 foundations: [agency, ai-literacy, academic-integrity]
 pedagogy: [student-ai-interaction, sociocultural-learning]

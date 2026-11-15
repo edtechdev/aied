@@ -11,7 +11,8 @@ ethics: [ethics, privacy]
 confidence: medium
 research_method: [interviews]
 audience: [faculty developers, curriculum designers]
-level: [teacher education]
+discipline: [teacher education]
+level: [higher ed]
 ---
 
 > **Synthesis:** Kohnke and colleagues investigate what pre-service teachers should learn about [[generative-ai|generative AI]] by **backtracking from anticipated classroom dilemmas to teacher-education design needs**. Through [[qualitative-research|qualitative]] interviews with **17 pre-service teachers at a [[higher-ed|university]]**, the study explores perspectives on integrating AI into education, focusing on ethical concerns and [[pedagogy|pedagogical]] strategies within an interpretivist paradigm.

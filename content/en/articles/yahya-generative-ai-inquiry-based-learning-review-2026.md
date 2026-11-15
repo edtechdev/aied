@@ -7,8 +7,8 @@ sources: ['raw/papers/yahya-generative-ai-inquiry-based-learning-review-2026.md'
 confidence: medium
 page_kind: [synthesis]
 research_method: [literature review]
-discipline: [science education, language learning]
-level: [higher ed, teacher education, secondary]
+discipline: [language learning, science education, teacher education]
+level: [higher ed, secondary]
 audience: [instructors, curriculum designers, researchers]
 technology: [generative-ai, llm, prompt-engineering]
 pedagogy: [inquiry-based-learning, scaffolding, metacognition, socratic-method]

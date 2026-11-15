@@ -7,10 +7,10 @@ foundations: [agentic-ai]
 pedagogy: [experiential-learning, online-teaching-and-learning]
 technology: [pedagogical-agent, simulating-students, simulation]
 research_method: [system development]
-discipline: [cs education]
+discipline: [cs education, teacher education]
 confidence: high
 audience: [faculty developers, instructors, instructional designers]
-level: [teacher education, higher ed]
+level: [higher ed]
 page_kind: [evaluation]
 sources: [raw/papers/2603.11444.md]
 ---

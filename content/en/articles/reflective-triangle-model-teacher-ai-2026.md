@@ -9,7 +9,8 @@ research_method: [case study]
 audience: [instructors, faculty developers]
 sources: ['raw/papers/reflective-triangle-model-teacher-ai-2026.md']
 confidence: high
-level: [teacher education]
+discipline: [teacher education]
+level: [k 12]
 page_kind: [framework]
 ---
 

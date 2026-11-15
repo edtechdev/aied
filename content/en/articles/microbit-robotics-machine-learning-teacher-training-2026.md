@@ -6,11 +6,11 @@ type: article
 foundations: [computational-thinking]
 technology: [educational-robotics, machine-learning]
 research_method: [quasi-experiment]
-discipline: [cs education]
+discipline: [cs education, teacher education]
 sources: ['raw/papers/microbit-robotics-machine-learning-teacher-training-2026.md']
 confidence: high
 audience: [faculty developers, curriculum designers]
-level: [teacher education, higher ed]
+level: [higher ed]
 page_kind: [evaluation]
 ---
 

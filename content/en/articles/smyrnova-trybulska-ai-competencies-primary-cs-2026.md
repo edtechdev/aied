@@ -9,8 +9,8 @@ source_url: "https://doi.org/10.3390/educsci16111877"
 confidence: high
 page_kind: [evaluation]
 research_method: [survey]
-discipline: [cs education]
-level: [teacher education, primary education]
+discipline: [cs education, teacher education]
+level: [primary education]
 audience: [faculty developers, policymakers, curriculum designers]
 contributors: [editor]
 ai_assist:

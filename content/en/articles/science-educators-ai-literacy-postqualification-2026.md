@@ -7,10 +7,10 @@ foundations: [ai-literacy]
 methods: [mixed-methods-research]
 audience: [instructors, faculty developers]
 research_method: [survey]
-discipline: [science education, stem education]
+discipline: [science education, stem education, teacher education]
 sources: ['raw/papers/science-educators-ai-literacy-postqualification-2026.md']
 confidence: high
-level: [secondary, adult learning, teacher education]
+level: [secondary, adult learning]
 ---
 
 > **Synthesis:** Maurer, Brückner, Thyssen, Becker-Genschow, and Huwer (2026) surveyed n = 115 in-service secondary science educators from Germany and Switzerland (recruited via email to randomly selected schools; ages 25–64) using a cross-sectional [[mixed-methods-research|mixed-methods]] design with three components: a validated 30-item [[ai-literacy|AI literacy]] competency test (nliteracy = 64 valid completions), a 15-item AI-usage questionnaire scored on five-point frequency scales (nusage = 81 after excluding 34 inconsistent cases, analyzed at the subject level as nsubject = 115 datasets: 44 [[biology-education|biology]], 39 [[chemistry-education|chemistry]], 32 [[physics-education|physics]]), and semi-structured follow-up interviews with n = 21 teachers. Teachers showed a solid but moderate general [[ai-literacy|AI literacy]] (M = 16.7 of 30, SD = 4.59), yet no significant correlation emerged between AI literacy and any aspect of AI use — including usage history (all p between .109 and 1.00) and frequency of perceived usage opportunities (p = .151 in class; p = .947 for preparation). AI was used most in the general "Information Search and Evaluation" area and least in [[discipline-specific-aied|subject-specific]] areas ([[simulation|simulation]], data processing, data acquisition), and only 43% of subject datasets reported current in-class use versus 63% for lesson preparation and follow-up. The authors conclude there is a clear need for AI-related post-qualification programs that focus on subject-specific AI literacy and concrete applications, proposing two TPACKAI development pathways.
@@ -19,7 +19,7 @@ level: [secondary, adult learning, teacher education]
 
 **Measures and instruments.** AI literacy was assessed with the validated Hornberger et al. competency test (30 multiple-choice items spanning 16 sub-competency areas, including [[ethics|ethics]]), collected online via LimeSurvey; usage was captured with a 15-item questionnaire using five-point Likert frequencies ("never" to "often"); and 21 semi-structured interviews were coded inductively by two coders (consensus coding). Statistical work used SPSS 30 with chi-square, Fisher's exact and Yates' corrections, Kruskal–Wallis, Mann–Whitney, Spearman, and eta coefficients at a 5% significance level; teachers were split by median into AI-literate and AI-illiterate groups.
 
-**AI literacy is moderate and unrelated to use.** Mean literacy was 16.7/30 (SD 4.59), slightly below the Hornberger reference sample (n = 1286, M = 18.79, SD 5.57 on 31 items). AI literacy was independent of age, gender, and years of service (all p between .333 and .462) and showed no significant association with AI usage history or with how often teachers perceived opportunities to use AI.
+**AI literacy is moderate and unrelated to use.** Mean literacy was 16.7/30 (SD 4.59), slightly below the Hornberger reference sample (n = 1,286 on a 31-item version of the same instrument). AI literacy was independent of age, gender, and years of service (all p between .333 and .462) and showed no significant association with AI usage history or with how often teachers perceived opportunities to use AI.
 
 **Usage patterns and reasons.** The most frequent in-class reason for using AI was "fun or interest" (n = 47), while the least frequent was AI being "part of the science discipline" (n = 17); for lesson preparation and follow-up, time saving (n = 63) and the importance of new technology (n = 62) dominated. Top reasons for non-use were "haven't dealt with it" (n = 34) and lack of free access to AI tools (n = 21).
 
@@ -44,7 +44,7 @@ level: [secondary, adult learning, teacher education]
 - Self-selection bias: participation in the survey and interviews was voluntary, so teachers already interested in AI may have over-responded, potentially inflating the reported proportion of users.
 - Small samples — 64 valid literacy-test completions, 81 usage [[self-report-measures|questionnaires]] after excluding 34 inconsistent cases, and 21 interviews — may have masked genuine correlations, notably between long-term and discontinued AI use.
 - Participants received no definition of AI or descriptions of the individual AI-use areas, so it cannot be assumed that all of them understood the items in the same way.
-- Comparing literacy scores against the Hornberger reference sample (n = 1286, 31 items, M = 18.79) is limited by different maximum scores (30 versus 31 items) and a different sample composition.
+- Comparing literacy scores against the Hornberger reference sample (n = 1,286, 31 items) is limited by different maximum scores (30 versus 31 items) and a different sample composition.
 
 ## Citation
 

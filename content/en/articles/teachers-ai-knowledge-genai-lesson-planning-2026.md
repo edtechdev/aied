@@ -9,7 +9,8 @@ methods: [mixed-methods-research]
 audience: [instructors]
 sources: ['raw/papers/teachers-ai-knowledge-genai-lesson-planning-2026.md']
 confidence: high
-level: [k 12, teacher education]
+discipline: [teacher education]
+level: [k 12]
 pedagogy: [tpack]
 ---
 

@@ -9,9 +9,9 @@ assessment: [educational-measurement]
 methods: [quantitative-research]
 confidence: medium
 research_method: [instrument development]
-discipline: [english education, language learning]
+discipline: [english education, language learning, teacher education]
 audience: [faculty developers, assessment professionals, researchers]
-level: [teacher education, higher ed]
+level: [higher ed]
 page_kind: [framework]
 ---
 

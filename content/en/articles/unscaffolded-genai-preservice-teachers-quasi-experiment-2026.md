@@ -8,8 +8,8 @@ confidence: high
 published: "2026"
 page_kind: [evaluation]
 research_method: [quasi-experiment]
-discipline: [chemistry education]
-level: [higher ed, teacher education, undergraduate]
+discipline: [chemistry education, teacher education]
+level: [higher ed, undergraduate]
 audience: [instructors, curriculum designers, faculty developers, researchers]
 foundations: [ai-education, cognitive-offloading, critical-thinking, teacher-ai-competency, teacher-role, limitations-in-aied-research]
 pedagogy: [self-regulated-learning, scaffolding, student-ai-interaction, prior-knowledge]

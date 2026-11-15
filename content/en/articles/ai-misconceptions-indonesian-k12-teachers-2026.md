@@ -8,8 +8,8 @@ confidence: high
 published: "2026-10-19"
 page_kind: [evaluation]
 research_method: [survey, thematic analysis]
-discipline: []
-level: [k 12, teacher education]
+discipline: [teacher education]
+level: [k 12]
 audience: [instructors, administrators, policymakers, faculty developers, researchers]
 pedagogy: []
 technology: [generative-ai, llm, ai-technologies, conversational-ai]

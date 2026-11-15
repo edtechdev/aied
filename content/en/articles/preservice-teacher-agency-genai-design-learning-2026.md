@@ -8,7 +8,8 @@ pedagogy: [scaffolding, tpack]
 technology: [generative-ai]
 research_method: [experiment]
 audience: [faculty developers, researchers]
-level: [higher ed, teacher education]
+discipline: [teacher education]
+level: [higher ed]
 sources: ["raw/papers/10.1016_j.caeo.2026.100325.md"]
 confidence: high
 ---

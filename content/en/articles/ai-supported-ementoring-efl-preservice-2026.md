@@ -8,10 +8,10 @@ pedagogy: [self-efficacy, social-emotional-learning]
 methods: [mixed-methods-research]
 audience: [faculty developers, researchers, instructors]
 research_method: [quasi-experiment]
-level: [higher ed, teacher education]
+level: [higher ed]
 sources: ['raw/papers/10.3389_fpsyg.2026.1853510.md']
 confidence: high
-discipline: [language learning, english education]
+discipline: [english education, language learning, teacher education]
 page_kind: [framework]
 ---
 

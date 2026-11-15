@@ -7,10 +7,10 @@ pedagogy: [community-of-inquiry, scaffolding]
 technology: [intelligent-tutoring, knowledge-tracing, llm, simulating-students]
 research_method: [interviews]
 audience: [faculty developers, researchers]
-level: [teacher education, k 12]
+level: [k 12]
 sources: ['raw/papers/llm-student-simulation-teacher-insights.md']
 confidence: high
-discipline: [math education]
+discipline: [math education, teacher education]
 page_kind: [framework, evaluation]
 methods: [ai-ed-evaluation, qualitative-research]
 ---

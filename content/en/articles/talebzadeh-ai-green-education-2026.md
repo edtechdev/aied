@@ -8,7 +8,8 @@ technology: [generative-ai]
 ethics: [sustainability]
 research_method: [quasi-experiment]
 audience: [instructors, faculty developers]
-level: [teacher education, higher ed]
+discipline: [teacher education]
+level: [higher ed]
 sources: ['raw/papers/talebzadeh-ai-green-education-2026.md']
 confidence: medium
 

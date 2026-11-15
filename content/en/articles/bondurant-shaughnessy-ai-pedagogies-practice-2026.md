@@ -8,8 +8,8 @@ confidence: medium
 published: "2026"
 page_kind: [framework]
 research_method: [position paper]
-discipline: [math education]
-level: [teacher education, higher ed]
+discipline: [math education, teacher education]
+level: [higher ed]
 audience: [faculty developers, instructors, researchers]
 foundations: [teacher-role, teacher-ai-competency, ai-literacy]
 pedagogy: [professional-training, scaffolding]

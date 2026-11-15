@@ -6,8 +6,8 @@ type: article
 page_kind: [evaluation]
 research_method: [survey, design and evaluation study]
 evidence_context: educational
-discipline: [language learning, english education]
-level: [higher ed, teacher education, undergraduate]
+discipline: [english education, language learning, teacher education]
+level: [higher ed, undergraduate]
 audience: [instructors, curriculum designers, assessment designers, administrators]
 sources: ['raw/papers/liu-auditable-assessment-preservice-2026.md']
 source_url: "https://link.springer.com/article/10.1007/s44217-026-02403-y"

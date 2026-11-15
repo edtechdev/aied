@@ -8,9 +8,9 @@ foundations: [educational-development, learning-design]
 technology: [intelligent-tutoring]
 confidence: medium
 research_method: [quasi-experiment]
-discipline: [math education]
+discipline: [math education, teacher education]
 audience: [faculty developers, instructional designers]
-level: [higher ed, teacher education]
+level: [higher ed]
 page_kind: [framework]
 ---
 

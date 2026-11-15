@@ -9,8 +9,8 @@ sources: ['raw/papers/theelen-classroom-simulations-four-layer-framework-2026.md
 confidence: high
 page_kind: [framework]
 research_method: [theoretical analysis]
-discipline: []
-level: [higher ed, teacher education]
+discipline: [teacher education]
+level: [higher ed]
 audience: [instructors, faculty developers, researchers, instructional designers, curriculum designers]
 foundations: [teacher-role, theory-development-aied]
 pedagogy: [social-emotional-learning, scaffolding, experiential-learning, metacognition]

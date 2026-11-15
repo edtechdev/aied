@@ -8,9 +8,9 @@ technology: [generative-ai]
 pedagogy: [professional-training]
 sources: ["raw/papers/li-language-educators-genai-review-2026.md"]
 confidence: high
-discipline: [language learning, english education]
+discipline: [english education, language learning, teacher education]
 audience: [faculty developers, instructors]
-level: [teacher education, higher ed]
+level: [higher ed]
 page_kind: [synthesis]
 methods: [meta-analysis-systematic-review]
 ---

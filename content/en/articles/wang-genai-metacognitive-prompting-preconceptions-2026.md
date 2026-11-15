@@ -7,8 +7,8 @@ sources: ['raw/papers/wang-genai-metacognitive-prompting-preconceptions-2026.md'
 confidence: medium
 page_kind: [evaluation]
 research_method: [quasi-experiment]
-discipline: [physics education, science education, learning sciences]
-level: [teacher education, higher ed]
+discipline: [learning sciences, physics education, science education, teacher education]
+level: [higher ed]
 audience: [instructors, educational technology developers, researchers, policymakers]
 technology: [generative-ai, conversational-ai, llm, speech-and-voice-technologies]
 methods: [mixed-methods-research, network-analysis]

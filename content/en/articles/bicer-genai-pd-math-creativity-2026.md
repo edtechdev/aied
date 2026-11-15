@@ -8,8 +8,8 @@ confidence: high
 published: "2026"
 page_kind: [evaluation]
 research_method: [case study]
-discipline: [math education]
-level: [teacher education]
+discipline: [math education, teacher education]
+level: [k 12]
 audience: [instructors, faculty developers, researchers]
 foundations: [ai-education, teacher-ai-competency, teacher-role]
 pedagogy: [professional-training, creativity, problem-solving, scaffolding, metacognition]

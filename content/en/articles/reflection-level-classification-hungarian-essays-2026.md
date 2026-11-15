@@ -8,8 +8,8 @@ confidence: high
 published: "2026"
 page_kind: [evaluation]
 research_method: [design and evaluation study]
-discipline: [writing education]
-level: [higher ed, teacher education]
+discipline: [teacher education, writing education]
+level: [higher ed]
 audience: [researchers, instructors]
 pedagogy: [metacognition, professional-training]
 technology: [educational-nlp, machine-learning]

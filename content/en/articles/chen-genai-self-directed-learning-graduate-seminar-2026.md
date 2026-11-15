@@ -10,7 +10,6 @@ confidence: high
 evidence_context: educational
 audience: [researchers, instructors]
 level: [graduate, higher ed]
-discipline: [teacher education]
 page_kind: [evaluation]
 research_method: [survey, quasi-experiment]
 foundations: [agency, critical-thinking, limitations-in-aied-research]

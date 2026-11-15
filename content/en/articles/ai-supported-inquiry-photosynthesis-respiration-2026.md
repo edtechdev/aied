@@ -8,10 +8,10 @@ pedagogy: [inquiry-based-learning]
 technology: [generative-ai]
 audience: [instructors, faculty developers]
 research_method: [quasi-experiment]
-discipline: [science education, biology education]
+discipline: [biology education, science education, teacher education]
 sources: ['raw/papers/ai-supported-inquiry-photosynthesis-respiration-2026.md']
 confidence: medium
-level: [teacher education, higher ed]
+level: [higher ed]
 page_kind: [evaluation]
 ---
 

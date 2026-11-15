@@ -9,7 +9,8 @@ methods: [mixed-methods-research]
 sources: ['raw/papers/pishtari-teacher-ai-training-learning-design-2026.md']
 research_method: [experiment]
 audience: [instructors, faculty developers, researchers, instructional designers]
-level: [higher ed, teacher education]
+discipline: [teacher education]
+level: [higher ed]
 confidence: high
 ---
 

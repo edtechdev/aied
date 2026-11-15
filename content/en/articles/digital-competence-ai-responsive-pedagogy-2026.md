@@ -8,7 +8,8 @@ confidence: high
 published: "2026"
 page_kind: [synthesis]
 research_method: [literature review]
-level: [teacher education]
+discipline: [teacher education]
+level: [higher ed]
 audience: [instructors, faculty developers, administrators, researchers]
 foundations: [teacher-ai-competency, ai-literacy, teacher-role, ai-education, agency, limitations-in-aied-research]
 pedagogy: [professional-training, transfer-of-learning, online-teaching-and-learning, collaborative-learning, self-efficacy, situated-learning, tpack]

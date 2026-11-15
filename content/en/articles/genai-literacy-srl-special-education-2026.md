@@ -8,7 +8,8 @@ confidence: high
 published: "2026"
 page_kind: [evaluation]
 research_method: [survey, structural equation modeling]
-level: [undergraduate, higher ed, special education, teacher education]
+discipline: [teacher education]
+level: [undergraduate, higher ed, special education]
 audience: [instructors, faculty developers, researchers]
 foundations: [ai-literacy, agency]
 pedagogy: [self-regulated-learning, student-engagement]

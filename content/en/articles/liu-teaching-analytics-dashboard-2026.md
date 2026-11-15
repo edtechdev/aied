@@ -6,7 +6,8 @@ type: article
 page_kind: [synthesis]
 research_method: [quasi-experiment]
 evidence_context: educational
-level: [higher ed, undergraduate, teacher education]
+discipline: [teacher education]
+level: [higher ed, undergraduate]
 audience: [instructors, researchers, instructional designers]
 sources: ['raw/papers/liu-teaching-analytics-dashboard-2026.md']
 source_url: "https://bera-journals.onlinelibrary.wiley.com/doi/10.1111/bjet.70098"

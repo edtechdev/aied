@@ -9,8 +9,8 @@ sources: ['raw/papers/alvarez-rubio-pedagogy-first-conversational-ai-simulation-
 confidence: high
 page_kind: [framework]
 research_method: [theoretical analysis]
-discipline: []
-level: [higher ed, undergraduate, teacher education]
+discipline: [teacher education]
+level: [higher ed, undergraduate]
 audience: [instructors, instructional designers, researchers, administrators]
 foundations: [teacher-role, theory-development-aied]
 pedagogy: [pedagogy, reflection, prior-knowledge]

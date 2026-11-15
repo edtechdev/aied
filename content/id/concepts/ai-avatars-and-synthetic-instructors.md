@@ -8,8 +8,8 @@ pedagogy: [professional-training, experiential-learning, situated-learning, vide
 technology: [generative-ai, llm, pedagogical-agent, simulation, simulating-students, virtual-and-augmented-reality, conversational-ai]
 assessment: [automated-assessment, assessment-validity, feedback]
 ethics: [trust, ai-use-disclosure, bias-mitigation, inclusive-learning]
-discipline: [medical education]
-level: [higher ed, teacher education]
+discipline: [medical education, teacher education]
+level: [higher ed]
 audience: [instructors, instructional designers]
 confidence: medium
 translation_of: "concepts/ai-avatars-and-synthetic-instructors"

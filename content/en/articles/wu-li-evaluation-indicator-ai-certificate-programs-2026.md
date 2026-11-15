@@ -11,7 +11,8 @@ sources: ['raw/papers/10.1186_s41239-026-00604-x.md']
 confidence: high
 research_method: [instrument development]
 audience: [administrators, curriculum designers]
-level: [higher ed, teacher education]
+discipline: [teacher education]
+level: [higher ed]
 page_kind: [evaluation, framework]
 pedagogy: [tpack]
 ---

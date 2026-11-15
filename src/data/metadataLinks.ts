@@ -49,6 +49,7 @@ export const METADATA_LINKS: Record<string, Record<string, string>> = {
     'science education': 'science-education',
     'statistics and data science education': 'statistics-and-data-science-education',
     'stem education': 'stem-education',
+    'teacher education': 'teacher-education',
     'vocational education': 'vocational-education',
     'writing education': 'writing-education',
   },
@@ -69,7 +70,6 @@ export const METADATA_LINKS: Record<string, Record<string, string>> = {
     'primary education': 'primary-education',
     'secondary': 'secondary-education',
     'special education': 'special-education',
-    'teacher education': 'teacher-education',
     'undergraduate': 'undergraduate-education',
   },
 };

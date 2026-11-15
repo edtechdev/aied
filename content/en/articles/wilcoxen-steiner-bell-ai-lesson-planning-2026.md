@@ -10,7 +10,8 @@ confidence: medium
 evidence_context: educational
 research_method: [thematic analysis]
 methods: [qualitative-research]
-level: [k 12, teacher education]
+discipline: [teacher education]
+level: [k 12]
 audience: [faculty developers, instructors, instructional designers]
 technology: [generative-ai]
 pedagogy: [scaffolding]

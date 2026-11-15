@@ -192,6 +192,7 @@ const structuredMeta = {
         'science education',
         'statistics and data science education',
         'stem education',
+        'teacher education',
         'vocational education',
         'writing education',
     ),
@@ -229,7 +230,6 @@ const structuredMeta = {
         'primary education',
         'secondary',
         'special education',
-        'teacher education',
         'undergraduate',
     ),
     page_kind: enumList(

@@ -9,7 +9,8 @@ methods: [mixed-methods-research]
 ethics: [equity-in-ai-education]
 research_method: [experiment]
 audience: [learners, instructors]
-level: [teacher education, k 12]
+discipline: [teacher education]
+level: [k 12]
 sources: ['raw/papers/2606.12805.md']
 confidence: high
 ---

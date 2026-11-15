@@ -10,7 +10,8 @@ methods: [mixed-methods-research]
 audience: [faculty developers, instructors]
 sources: ['raw/papers/2605.13906.md']
 confidence: medium
-level: [teacher education, k 12]
+discipline: [teacher education]
+level: [k 12]
 page_kind: [framework]
 ---
 

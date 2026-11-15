@@ -13,7 +13,8 @@ last_verified: "2026-11-10"
 foundations: [teacher-ai-competency]
 technology: [generative-ai]
 audience: [instructors, instructional designers]
-level: [k 12, teacher education]
+discipline: [teacher education]
+level: [k 12]
 translation_of: resources/teacher-hive
 source_updated: "2026-11-10T19:52:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."

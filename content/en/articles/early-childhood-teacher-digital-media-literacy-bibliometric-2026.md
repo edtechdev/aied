@@ -6,7 +6,8 @@ type: article
 page_kind: [synthesis]
 research_method: [bibliometric]
 evidence_context: educational
-level: [teacher education, higher ed]
+discipline: [teacher education]
+level: [higher ed]
 audience: [faculty developers, researchers, administrators]
 sources: ['raw/papers/early-childhood-teacher-digital-media-literacy-bibliometric-2026.md']
 source_url: "https://doi.org/10.3389/feduc.2026.1986795"

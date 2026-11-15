@@ -8,7 +8,8 @@ confidence: high
 published: "2026"
 page_kind: [framework]
 research_method: [survey, thematic analysis]
-level: [teacher education]
+discipline: [teacher education]
+level: [k 12]
 audience: [instructors, faculty developers]
 foundations: [teacher-role, ai-literacy, agency]
 pedagogy: [self-directed-learning, self-regulated-learning, self-efficacy]

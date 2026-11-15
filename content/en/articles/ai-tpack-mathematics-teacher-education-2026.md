@@ -7,11 +7,11 @@ pedagogy: [self-efficacy, tpack]
 assessment: [educational-measurement]
 foundations: []
 research_method: [survey]
-discipline: [math education]
+discipline: [math education, teacher education]
 sources: ['raw/papers/ai-tpack-mathematics-teacher-education-2026.md']
 confidence: high
 audience: [faculty developers, researchers]
-level: [teacher education, higher ed]
+level: [higher ed]
 page_kind: [evaluation]
 ---
 

@@ -9,7 +9,8 @@ audience: [instructors, faculty developers]
 research_method: [theoretical analysis, literature review]
 sources: ['raw/papers/designing-ai-professional-development-itpack-2026.md']
 confidence: high
-level: [teacher education, adult learning]
+discipline: [teacher education]
+level: [adult learning]
 page_kind: [framework]
 pedagogy: [tpack]
 ---

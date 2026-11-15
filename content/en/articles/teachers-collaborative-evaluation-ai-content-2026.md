@@ -9,9 +9,9 @@ assessment: [formative-assessment]
 methods: [mixed-methods-research]
 sources: ['raw/papers/teachers-collaborative-evaluation-ai-content.md']
 confidence: high
-discipline: [science education]
+discipline: [science education, teacher education]
 audience: [instructors, faculty developers]
-level: [k 12, teacher education]
+level: [k 12]
 page_kind: [evaluation]
 ---
 

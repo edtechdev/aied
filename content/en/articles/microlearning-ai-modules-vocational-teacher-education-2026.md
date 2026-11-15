@@ -14,9 +14,9 @@ sources: ['raw/papers/microlearning-ai-modules-vocational-teacher-education-2026
 confidence: high
 page_kind: [framework]
 research_method: [action design research]
-level: [teacher education, higher ed]
+level: [higher ed]
 audience: [faculty developers, instructors]
-discipline: [vocational education]
+discipline: [teacher education, vocational education]
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash

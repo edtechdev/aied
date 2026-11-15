@@ -10,7 +10,8 @@ foundations: []
 sources: ['raw/papers/teaching-the-teachers-genai-tpk-review-2026.md']
 confidence: high
 audience: [faculty developers]
-level: [teacher education, higher ed, adult learning]
+discipline: [teacher education]
+level: [higher ed, adult learning]
 page_kind: [framework]
 pedagogy: [tpack]
 ---
