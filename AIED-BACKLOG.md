@@ -7,7 +7,7 @@
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
 **Last updated:** 2026-11-15
-**Total backlog:** 41 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Total backlog:** 27 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
 
 ## OpenAlex weekly topic sweep (2026-11-15)
 
@@ -23,25 +23,6 @@ five are open access at their landing pages.
 - [From Learner Modeling to Human–AI Co-Regulation: A Systematic Scoping Review of Adaptive Learning Designs](https://doi.org/10.12688/f1000research.191923.1) — [DOI: 10.12688/f1000research.191923.1](https://doi.org/10.12688/f1000research.191923.1)
 - [Generative Artificial Intelligence in High School Science Education: A Systematic Review](https://doi.org/10.60027/jelr.2026.e3979) — [DOI: 10.60027/jelr.2026.e3979](https://doi.org/10.60027/jelr.2026.e3979)
 - [A hybrid bibliometric and systematic review of generative AI in engineering education](https://doi.org/10.1007/s44217-026-02401-0) — [DOI: 10.1007/s44217-026-02401-0](https://doi.org/10.1007/s44217-026-02401-0)
-
-## Weekly journal RSS scan (2026-11-15)
-
-The RSS sweep read 188 feed items across eight configured journals: 128 already had pages, 60 were
-new, and 22 of those cleared the AI-in-education relevance filter. Eight were ingested this run from
-full text retrieved directly (four Frontiers in Psychology articles, one IJETHE review, two BJET
-articles, and one CAEO paper whose accepted manuscript is on arXiv). The 4 below are in scope but in
-ScienceDirect, which answers automated requests with a Cloudflare challenge rather than the article;
-Unpaywall lists no repository copy for any of them.
-
-**Computers and Education: Artificial Intelligence (CAEAI)**
-
-- [Leveraging GenAI models for curriculum analytics: A human-centred approach for curriculum mapping in higher education](https://doi.org/10.1016/j.caeai.2026.100689) — [DOI: 10.1016/j.caeai.2026.100689](https://doi.org/10.1016/j.caeai.2026.100689)
-- [Personalized neural cognitive architecture search: AutoML-driven diagnostic model generation for heterogeneous learner profiles](https://doi.org/10.1016/j.caeai.2026.100620) — [DOI: 10.1016/j.caeai.2026.100620](https://doi.org/10.1016/j.caeai.2026.100620)
-- [Linking Artificial Intelligence Use to Teaching Performance: The Roles of Teacher Enthusiasm and Teaching Engagement](https://doi.org/10.1016/j.caeai.2026.100690) — [DOI: 10.1016/j.caeai.2026.100690](https://doi.org/10.1016/j.caeai.2026.100690)
-
-**Computers and Education Open (CEAO)**
-
-- [SourceTrace: Designing Epistemic Friction for Source-Based Second-Language Argument Writing With Generative Artificial Intelligence](https://doi.org/10.1016/j.caeo.2026.100434) — [DOI: 10.1016/j.caeo.2026.100434](https://doi.org/10.1016/j.caeo.2026.100434)
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-12)
 
@@ -59,18 +40,10 @@ the window. The mini review on AI-mediated interpersonal communication was left 
 rather than backlogged: its experiments are about relational authenticity in human communication,
 not about learning.
 
-**Full text blocked at the publisher (PDF needed)**
-
-- [Optimizing large language model-driven automated essay scoring: Integrating linguistic features and prompt engineering to enhance scoring accuracy](https://doi.org/10.1016/j.asw.2026.101145) — [DOI: 10.1016/j.asw.2026.101145](https://doi.org/10.1016/j.asw.2026.101145) (*Assessing Writing*, Elsevier; no public abstract)
-
 **Queued for a later run (full text already retrieved or open access)**
 
-- [Generative AI-supported learning, self-directed learning, and motivation in a graduate seminar](https://doi.org/10.3389/feduc.2026.2008734) — [DOI: 10.3389/feduc.2026.2008734](https://doi.org/10.3389/feduc.2026.2008734) (13 students, single group; low priority)
-- [UAE students' perspectives on use of artificial intelligence tools in higher education](https://doi.org/10.1007/s44217-026-02120-6) — [DOI: 10.1007/s44217-026-02120-6](https://doi.org/10.1007/s44217-026-02120-6)
 - [The Role of Artificial Intelligence in Promoting Social-Emotional Learning and Intercultural Competence in EFL](https://doi.org/10.46787/ijaipil.v1i4.7748) — [DOI: 10.46787/ijaipil.v1i4.7748](https://doi.org/10.46787/ijaipil.v1i4.7748)
 - [Developing Consulting Competencies Through AI-Powered Immersive Simulations](https://doi.org/10.46787/ijaipil.v1i4.8273) — [DOI: 10.46787/ijaipil.v1i4.8273](https://doi.org/10.46787/ijaipil.v1i4.8273)
-- [Digital and media literacy of pre-service early childhood teachers in the context of digital education](https://doi.org/10.3389/feduc.2026.1986795) — [DOI: 10.3389/feduc.2026.1986795](https://doi.org/10.3389/feduc.2026.1986795)
-- [An AI academic advising digital human model persona framework](https://doi.org/10.1007/s44217-026-02379-9) — [DOI: 10.1007/s44217-026-02379-9](https://doi.org/10.1007/s44217-026-02379-9)
 - [A scoping review of online educational resources for Oral Surgery specialty training](https://doi.org/10.1186/s12909-026-10669-x) — [DOI: 10.1186/s12909-026-10669-x](https://doi.org/10.1186/s12909-026-10669-x) (low priority: no AI component found in the abstract)
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-11)
@@ -86,8 +59,6 @@ section rather than carried again.
 The rest of the arXiv CS listing was model-training, retrieval, benchmarking and medical-imaging
 work with no educational setting, and the physics education feed returned one study with no AI
 intervention (active learning at a graduate summer school) - out of scope rather than backlog.
-
-**Full text blocked at the publisher (PDF needed)**
 
 None outstanding from this scan. The three items listed here on 2026-11-11 were closed the same day: the early-childhood storytelling study was ingested from the maintainer's PDF, and the other two were closed without ingestion.
 
@@ -107,7 +78,6 @@ bibliometric). HAIML (10.35542/osf.io/qhjgs) surfaced again and already has two 
 written. The three below cleared relevance but were not reached inside the cap, or carry no
 intervention whose full text is reachable.
 
-
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-09)
 
 The prefetch returned 75 candidates and dropped 21 already-known items. Twelve
@@ -116,8 +86,6 @@ Frontiers open-access articles). Eleven more cleared relevance but were not reac
 20-article cap; nine of those were subsequently ingested from full text, leaving the two below.
 Both stay listed because neither can be ingested as an article: one is blocked at the publisher,
 and one carries no AI intervention at all.
-
-**Full text blocked at the publisher (PDF needed)**
 
 - [Digital literacy, GenAI literacy, and creative thinking disposition in pre-service visual arts teachers](https://doi.org/10.1007/s44217-026-02396-8) — [DOI: 10.1007/s44217-026-02396-8](https://doi.org/10.1007/s44217-026-02396-8) — Springer serves a consent shell to automated requests.
 - [AI-generated level-aligned pre-writing input and EFL reading-to-write development](https://doi.org/10.1080/2331186x.2026.2755655) — [DOI: 10.1080/2331186x.2026.2755655](https://doi.org/10.1080/2331186x.2026.2755655) — Taylor & Francis returned HTTP 403.
@@ -150,9 +118,6 @@ a bot check or an HTML shell instead of the article.
 
 - [Correcting automatically generated closed captions for online learning materials does not improve student learning outcomes (although students believe it does)](https://doi.org/10.1111/bjet.70074) — [DOI: 10.1111/bjet.70074](https://doi.org/10.1111/bjet.70074)
 
-**International Journal of Educational Technology in Higher Education (IJETHE)**
-
-
 ## OpenAlex weekly topic sweep (2026-11-08)
 
 The topic sweep returned 359 candidates for the 7 days to 2026-11-08 (21 dropped as already
@@ -176,8 +141,6 @@ pick them up:
 - [VocabulARy 2.0: A Generative AR System Enabling Personalised 3D Mnemonics for Vocabulary Learning in Context](https://arxiv.org/abs/2611.07798) — arXiv:2611.07798
 - [Automated Video-to-QA Pipeline: End-to-End Question Generation and Verification Using Large Language Models](https://arxiv.org/abs/2611.07755) — arXiv:2611.07755
 - [Reimagining built environment education in Malaysia: an AI-enhanced BIM teaching and learning framework](https://doi.org/10.3389/feduc.2026.1954644) — [DOI: 10.3389/feduc.2026.1954644](https://doi.org/10.3389/feduc.2026.1954644)
-- [Generative AI use and self-perceived employability among young adults in China: indirect associations through career decision-making self-efficacy and trust in generative AI](https://doi.org/10.3389/fpsyg.2026.1985156) — [DOI: 10.3389/fpsyg.2026.1985156](https://doi.org/10.3389/fpsyg.2026.1985156)
-- [Where does attention go when AI listens? Meta-awareness of mediated attention](https://osf.io/3fs4m) — PsyArXiv:3fs4m
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-03)
 
@@ -186,10 +149,6 @@ text saved under `raw/papers/`. Two in-scope candidates cleared the relevance sc
 be ingested because Taylor & Francis serves them to automated requests as an empty landing page
 (435 characters of navigation chrome, no body). They are open access, so a browser session or a
 maintainer-supplied PDF would unblock either:
-
-- [AI in mathematics classrooms: a synergistic strategy for diversity and inclusivity](https://doi.org/10.1080/2331186x.2026.2751871) — [DOI: 10.1080/2331186X.2026.2751871](https://doi.org/10.1080/2331186x.2026.2751871)
-- [Sustained use of generative artificial intelligence (GenAI) in programming education: a systematic review of empirical evidence on adoption, learning outcomes, and continuance intention](https://doi.org/10.1080/2331186x.2026.2745324) — [DOI: 10.1080/2331186X.2026.2745324](https://doi.org/10.1080/2331186x.2026.2745324)
-
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-02)
 
@@ -209,12 +168,9 @@ The weekly topic sweep returned 529 candidates across 13 queries. Six were judge
 
 Nine articles were ingested this run (eight arXiv, one PsyArXiv), each with its full text saved under `raw/papers/`. All four candidates that fell outside the run's working budget of nine have since been ingested: `jingru-fan-agentic-university-collaborative-agents-2026`, `taufer-human-ai-interaction-haidl-2026`, `lei-fan-genai-prompting-strategies-2026` and `gunay-ozden-process-genre-ai-writing-2026`. Each has its full text and PDF archived under `raw/papers/` and `pdf-sources/`. Nothing from this window is outstanding.
 
-
 ## Daily arXiv + OpenAlex scan (2026-10-27)
 
 In-scope AI-in-education candidates from this run that were **not ingested**: the run's cap was eight articles, chosen for measured outcomes over self-report. All are open access; the arXiv items have retrievable full text, so any can be ingested on request.
-
-
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-10-29)
 
@@ -232,7 +188,6 @@ here only because its full text is not public yet — the publisher serves an ea
 page, not the article.
 
 - [Structured human resource development with AI support is associated with higher expert rated recruitment task quality among education graduates](https://doi.org/10.1038/s41598-026-76662-y) — [DOI: 10.1038/s41598-026-76662-y](https://doi.org/10.1038/s41598-026-76662-y) — *Scientific Reports*, 2026-10-26. Twelve intact cohorts in Guangdong (N = 186), blinded expert-rated recruitment-task materials, adjusted difference 5.38 points (95% CI 2.76 to 8.01; d = 0.60) — measured rather than self-report outcomes. FULL_TEXT_PENDING: the .pdf URL returns HTML and the article page carries the abstract only.
-
 
 ## Weekly journal RSS scan (2026-10-11)
 
@@ -516,7 +471,6 @@ reference list. The last three were supplied directly as PDFs and are now stored
 - `2605.05598` — supplied as a PDF; stored text completed and verified
 - `2605.21613` — supplied as a PDF; the supplied version carried less text than the copy already stored, so the longer stored copy was kept
 - `2607.11873` — supplied as a PDF; stored text completed and verified
-
 
 ## Screened in by the sweep, then resolved
 
