@@ -14,9 +14,9 @@ discipline: [writing education]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T12:23:33-04:00"
+updated: "2026-11-15T16:01:30-05:00"
 translation_of: faqs/making-ai-better-at-supporting-learning
-source_updated: "2026-10-28T11:21:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 Sagen siger »finjustér modellen på vores kursusmaterialer«. Budgettet er godkendt, en GPU er booket til næste måned, og en ph.d.-studerende er blevet bedt om at samle et datasæt. Ingen på mødet har spurgt, hvad en almindelig prompt scorer, eller hvad en søgning på nøgleord scorer, på de samme spørgsmål.
 
-Stil de to spørgsmål først. I denne vidensbase er forskellen mellem en generel model og en kursuskompetent model mest et forankrings- og promptproblem, og evidensen for den rækkefølge er usædvanligt direkte: et studie af en kursusassistent fandt, at retrieval, ikke modellen, var den førsterangs beslutning, og en generel model uden forankring scorede *under* en simpel TF-IDF-baseline.
+Stil de to spørgsmål først. Forskellen mellem en generel model og en kursuskompetent model mest et forankrings- og promptproblem, og evidensen for den rækkefølge er usædvanligt direkte: et studie af en kursusassistent fandt, at retrieval, ikke modellen, var den førsterangs beslutning, og en generel model uden forankring scorede *under* en simpel TF-IDF-baseline.
 
 Træning er reel og nogle gange nødvendig. Det er den tredje eller fjerde ting, man prøver, og arbejdet nedenfor er ordnet, så du finder ud af, hvilket trin du faktisk har brug for, før du bruger kvartalets computekraft.
 
@@ -52,7 +52,7 @@ Træning er reel og nogle gange nødvendig. Det er den tredje eller fjerde ting,
 
 Før du ændrer noget, skal du logge, hvad en almindelig prompt returnerer. Log derefter, hvad en triviel metode returnerer.
 
-[[shen-sustainable-ai-knowledge-base-cs-education-2026|Studiet af kursusvidensbaseassistenten]] er værd at læse alene for dette. En lokal LLM uden retrieval nåede **52,3 %** nøjagtighed. En TF-IDF-baseline, en leksikalsk metode, der er årtier gammel, nåede **55,4 %**. Modellen var dårligere end den klassiske metode.
+[[shen-sustainable-ai-knowledge-base-cs-education-2026|Studiet af kursusvidensbaseassistenten]] er værd at læse alene for dette. En [[llm|lokal LLM]] uden retrieval nåede **52,3 %** nøjagtighed. En TF-IDF-baseline, en leksikalsk metode, der er årtier gammel, nåede **55,4 %**. Modellen var dårligere end den klassiske metode.
 
 Springer du dette trin over, kan du ikke afgøre, om din finjustering hjalp. Værre, du kan sende et system ud, som en nøgleordssøgning slår, og først opdage det, når en undervisningsassistent nævner det. To tal i et regneark, taget på en eftermiddag, beskytter resten af budgettet.
 
@@ -60,9 +60,9 @@ Springer du dette trin over, kan du ikke afgøre, om din finjustering hjalp. Væ
 
 At tilføje [[rag|retrieval-augmented generation]] over kursusmaterialerne, uden nogen finjustering overhovedet, løftede det samme system fra 52,3 % til **66,6 %**. Den gevinst kom fra et indeks, og den kommer med en egenskab, en træningskørsel ikke har: når dine dokumenter ændrer sig, genindekserer du.
 
-To andre resultater peger samme vej. En PRISMA-gennemgang af 23 empiriske studier om tilpasning af AI til [[writing-education|skriveundervisning]] fandt **prompt-engineering dominerende (N = 13), foran finjustering (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Hvor en vidensbase skal forblive aktuel, er retrieval det eneste håndtag, der forbliver aktuelt uden at køre et træningsjob igen.
+To andre resultater peger samme vej. En [[meta-analysis-systematic-review|PRISMA-gennemgang]] af 23 empiriske studier om tilpasning af AI til [[writing-education|skriveundervisning]] fandt **[[prompt-engineering|prompt-engineering]] dominerende (N = 13), foran finjustering (N = 7)** ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Hvor en vidensbase skal forblive aktuel, er retrieval det eneste håndtag, der forbliver aktuelt uden at køre et træningsjob igen.
 
-Retrieval har også en pædagogisk form. At forankre en model i dine egne gennemarbejdede eksempler og rubrikker er, hvordan den holder sig inden for det [[scaffolding|stilladsning]], du har designet, og svarer på det niveau, du har sat, i stedet for at drive ud i generisk rådgivning. Den drift er den mest almindelige klage over færdige tutorværktøjer, og det er oftere et retrievalproblem end et vægtproblem.
+Retrieval har også en [[pedagogy|pædagogisk]] form. At forankre en model i dine egne gennemarbejdede eksempler og rubrikker er, hvordan den holder sig inden for det [[scaffolding|stilladsning]], du har designet, og svarer på det niveau, du har sat, i stedet for at drive ud i generisk rådgivning. Den drift er den mest almindelige klage over færdige tutorværktøjer, og det er oftere et retrievalproblem end et vægtproblem.
 
 ## Skriv prompten op imod din rubrik, og hold øje med plateauet
 
@@ -79,9 +79,9 @@ Bemærk, hvad resultatet om opgavegenerering antyder om rækkefølgen. Finjuster
 
 Tilpasning betaler sig, når du har brug for, at modellen pålideligt holder en egenskab: et læseniveau, et outputformat, et domæne den mangler. Det tilbagevendende resultat er, at **målretning slår størrelse**.
 
-- Tre **8B**-modeller finjusteret på et ekspertdesignet læsepensum for børn overgik zero-shot GPT-4o og Llama 3.3 70B på sværhedsgraderelaterede målinger, med ubetydelige sikkerhedsproblemer. Forfatterne rammer det ind som **styrbarhed frem for skala** ([[llm-children-reading-story-generation]]).
+- Tre **8B**-modeller finjusteret på et ekspertdesignet [[curriculum-design|læsepensum]] for børn overgik zero-shot GPT-4o og Llama 3.3 70B på sværhedsgraderelaterede målinger, med ubetydelige sikkerhedsproblemer. Forfatterne rammer det ind som **styrbarhed frem for skala** ([[llm-children-reading-story-generation]]).
 - Et instruktionsdatasæt med **24.795** eksempler forankret i indiske videnssystemer gav en **7B**-finjustering, der scorede **6,39** hos et eksternt panel med fem dommere, inden for **0,15** af en stærk generel referencemodel til en brøkdel af udrulningsomkostningen. Den samme basismodel scorede **nær nul på domænespecifikke dimensioner** uden finjusteringen ([[iks-instruct-dataset-indian-knowledge]]). Det gab mellem at være kompetent generelt og kompetent her er hele argumentet for domænetilpasning.
-- Én enkelt [[llm-training-and-fine-tuning|LoRA]]-adapter trænet på omkring **3.900** samlede bedømte eksempler bragte fem små åbne modeller (4B til 30B) på niveau med eller bedre end en menneskelig bedømmer på tværs af to datalogieksamener ([[llm-graders-computer-science-exams-2026]]). Én adapter, ét datasæt, flere basismodeller: det er den udrulningsform, et lille hold kan køre.
+- Én enkelt [[llm-training-and-fine-tuning|LoRA]]-adapter trænet på omkring **3.900** samlede bedømte eksempler bragte fem små [[open-source|åbne modeller]] (4B til 30B) på niveau med eller bedre end en menneskelig bedømmer på tværs af to datalogieksamener ([[llm-graders-computer-science-exams-2026]]). Én adapter, ét datasæt, flere basismodeller: det er den udrulningsform, et lille hold kan køre.
 
 Ordet *stabilt* i overskriften bærer vægten. Format, rubrik, læseniveau og fagligt ordforråd er stabile mål. Prosa, der er præget af dømmekraft, har ikke et sådant mål, og det er der, tilpasning fejler, som de næste to afsnit viser.
 
@@ -89,7 +89,7 @@ Ordet *stabilt* i overskriften bærer vægten. Format, rubrik, læseniveau og fa
 
 Tilpasning lærer en model *hvad den skal producere*. Eftertræning lærer den *hvordan den skal opføre sig*. For tutoring er den skelnen hele problemet: generelle modeller er eftertrænet på menneskelig præference for hjælpsomhed, hvilket betyder at svare hurtigt, og undervisning kræver, at man tilbageholder svaret.
 
-De stærkeste pædagogiske resultater i dette korpus findes her. EduQwens belønningsmodel prioriterede eksplicit **vejledende svar frem for direkte svar**, og dens tre-trins-pipeline nåede **96,52 %** på CDPK-benchmarken mod Gemini-3 Pros **90,55 %** ([[singh-eduqwen-pedagogical-rl-2026]]). SWIMs skrivesimulator bevægede sig fra rubrikforankret prompting (bedste QWK **0,577**) til superviseret finjustering (**0,474 ± 0,023**) til forstærkningslæring (**0,618 ± 0,005**) på tværs af hver egenskab og prompt ([[swim-student-writing-simulation-2026]]).
+De stærkeste pædagogiske resultater i denne litteratur findes her. EduQwens belønningsmodel prioriterede eksplicit **vejledende svar frem for direkte svar**, og dens tre-trins-pipeline nåede **96,52 %** på CDPK-benchmarken mod Gemini-3 Pros **90,55 %** ([[singh-eduqwen-pedagogical-rl-2026]]). SWIMs skrive[[simulation|simulator]] bevægede sig fra rubrikforankret prompting (bedste QWK **0,577**) til superviseret finjustering (**0,474 ± 0,023**) til [[reinforcement-learning|forstærkningslæring]] (**0,618 ± 0,005**) på tværs af hver egenskab og prompt ([[swim-student-writing-simulation-2026]]).
 
 Læs SWIM-tallene omhyggeligt, fordi det midterste trin gik baglæns. Superviseret finjustering på demonstrationer gjorde simulatoren dårligere end den prompt, den startede fra, og kun belønningssignalet genvandt tabet og slog derefter baselinen. Hvis din plan stopper ved superviseret finjustering, kan planen være en omvej.
 
@@ -125,7 +125,7 @@ Den omkostning, der er let at undervurdere, er evalueringen, som er større end 
 
 ## Kalibrér dine forventninger
 
-Model- og promptvalg tegner sig tilsammen for kun omkring **15 %** af misforholdet mellem LLM'er og studerendes læringsudbytte, og i det studie gjorde benchmark-vægtning og enighedsafstemning i ensembler tilpasningen *værre* ([[educational-llm-alignment]]). Forudtræningsdata er det dominerende håndtag for, hvordan en model opfører sig, og det er det ene håndtag, du ikke kan trække i.
+Model- og promptvalg tegner sig tilsammen for kun omkring **15 %** af misforholdet mellem LLM'er og studerendes [[learning-gains|læringsudbytte]], og i det studie gjorde benchmark-vægtning og enighedsafstemning i ensembler tilpasningen *værre* ([[educational-llm-alignment]]). Forudtræningsdata er det dominerende håndtag for, hvordan en model opfører sig, og det er det ene håndtag, du ikke kan trække i.
 
 Intet af det taler imod arbejdet ovenfor. Det taler imod at forvente, at en finjustering retter et designproblem. Hvis problemet er, at din tutor svarer for beredvilligt, kan træning adressere det. Hvis problemet er, at dine lærende ikke engagerer sig i den, vil træning ikke, og tallet 15 % siger, at pengene er bedre brugt andre steder.
 

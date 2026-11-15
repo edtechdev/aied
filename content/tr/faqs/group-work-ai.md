@@ -12,8 +12,8 @@ research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
 translation_of: faqs/group-work-ai
-source_updated: "2026-11-06T03:00:00-05:00"
-updated: "2026-11-08T04:26:08-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-15T16:08:48-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -93,7 +93,7 @@ Grup notunu bireysel bir bileşenle eşleştirin: kendi anlayışlarının [[ora
 
 Sınırlılıkları atıfla birlikte geliyor: tek bir veri tabanı, yalnızca dergi makaleleri, [[ethics|etik]] ya da gizliliğe hiç değinilmemesi, teknolojinin ilk iki yılı ve hiçbir yanlılık riski aracının uygulanmamış olması. "Katalizör" ifadesini ölçülmüş bir sonucun değil, gözlenmiş pratiğin tanımı olarak okuyun.
 
-Tespit, bireysel katkıları ayırmak için yanlış araçtır: bu altı çalışmanın hiçbiri dedektörleri grup ortamlarında sınamıyor ve tespitle ilgili birey düzeyindeki sorunlar bu bilgi tabanının başka yerlerinde belgelenmiş durumda. Ölçülülük, düzeltilmeden önce yorumlanmayı gerektirir. Chen ve Zou, YZ'yi geri çeviren bir grubun bilinçli [[self-regulated-learning|öz düzenleme]] uygulamak yerine tanımadığı bir şeyden kaçınıyor olabileceği uyarısını yapar; ikisi farklı yanıtlar gerektirir: biri öğretme sorunu, diğeri notlandırabileceğiniz düşünülmüş bir tutumdur.
+Tespit, bireysel katkıları ayırmak için yanlış araçtır: bu altı çalışmanın hiçbiri dedektörleri grup ortamlarında sınamıyor ve tespitle ilgili birey düzeyindeki sorunlar iyi belgelenmiş durumda. Ölçülülük, düzeltilmeden önce yorumlanmayı gerektirir. Chen ve Zou, YZ'yi geri çeviren bir grubun bilinçli [[self-regulated-learning|öz düzenleme]] uygulamak yerine tanımadığı bir şeyden kaçınıyor olabileceği uyarısını yapar; ikisi farklı yanıtlar gerektirir: biri öğretme sorunu, diğeri notlandırabileceğiniz düşünülmüş bir tutumdur.
 
 Simüle edilmiş ekip arkadaşları da soruyu çözmez. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]], gerçek katılımcı diyaloğu üzerinde [[llm|LLM]] ajanlarını ince ayarlayarak (LLaMA 3.2-3B üzerinde [[llm-training-and-fine-tuning|LoRA]]/QLoRA bağdaştırıcıları) 48 katılımcıyı 3.824 tur ve altı tematik kod boyunca modelledi, sonra gerçek ve simüle edilmiş söylemi [[network-analysis|Epistemik Ağ Analizi]] ile karşılaştırdı. Simüle ağ, ampirik ağa 0,17 uzaklığa ulaştı; bu 0,30 eşiğinin altında ve permütasyon p değeri 0,65 ile istatistiksel olarak ayırt edilemezdi, ancak Teknik Kısıtlar ve Tasarım bağlantılarını biraz fazla vurguladı, Veri ve Performans Parametrelerini ise yeterince temsil etmedi. Orta güven düzeyinde bir çerçeve makalesi ve tek bir iddiayı destekliyor: katılımcıya özgü ajanlar gerçekçi işbirlikçi söylemi yeniden üretebilir. Öğrencilerin simüle edilmiş ekip arkadaşlarından daha fazla öğrendiğini göstermiyor.
 

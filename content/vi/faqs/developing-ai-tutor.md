@@ -12,9 +12,9 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T16:56:07-04:00"
+updated: "2026-11-15T16:06:07-05:00"
 translation_of: faqs/developing-ai-tutor
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ Ba danh sách, viết ra trước khi bất kỳ ai chọn mô hình:
 
 Tài liệu về [[intelligent-tutoring]] đưa ra điểm rằng hiệu quả phụ thuộc vào thiết kế [[pedagogy|sư phạm]] chứ không chỉ vào năng lực của mô hình, và thất bại thì rất dễ tạo ra một cách vô tình. Một gia sư được tối ưu cho “hoàn thành bài toán” sẽ làm xói mòn một gia sư được tối ưu cho “học cách giải bài toán” trong khi vẫn qua mọi bài kiểm thử chức năng bạn viết, vì cả hai đều tạo ra đáp án cuối cùng đúng. Khác biệt nằm ở việc sinh viên đã làm gì giữa câu hỏi và câu trả lời.
 
-Danh sách thứ hai là chỗ các nhóm phát triển trở nên cụ thể. Lấy một nhãn thành thạo như “thành thạo đạo hàm” và từ chối để nó chỉ có nghĩa là tạo ra đạo hàm đúng. Hãy tách nó thành: nhận ra khi nào một đạo hàm là phù hợp, diễn giải nó như một tốc độ thay đổi tức thời, chọn quy tắc, thực hiện thủ tục, giải thích vì sao lựa chọn đó đúng, kiểm tra tính hợp lý, và áp dụng nó vào một bài toán chưa từng gặp. Mỗi mục trong số đó là một thứ riêng để ghi lại, và mỗi mục ngụ ý một phản hồi khác nhau khi nó còn thiếu. Cách phân rã này cũng là lớp phòng thủ chống lại [[correct-answer-trap-misconceptions|bẫy đáp án đúng]], nơi người học đi tới đáp án đúng bằng lý luận sai lệch và phần phân tích của bạn ghi nhận một thành công. [[correct-answer-trap-ai-tutor|Bắt lấy bẫy đáp án đúng]] và [[zhang-tutormoments-2026|Khi sự trợ giúp không giúp được gì]] đều mô tả các phiên bản của thất bại đó trong môi trường vận hành thật.
+Danh sách thứ hai là chỗ các nhóm phát triển trở nên cụ thể. Lấy một nhãn thành thạo như “thành thạo đạo hàm” và từ chối để nó chỉ có nghĩa là tạo ra đạo hàm đúng. Hãy tách nó thành: nhận ra khi nào một đạo hàm là phù hợp, diễn giải nó như một tốc độ thay đổi tức thời, chọn quy tắc, thực hiện thủ tục, giải thích vì sao lựa chọn đó đúng, kiểm tra tính hợp lý, và áp dụng nó vào một bài toán chưa từng gặp. Mỗi mục trong số đó là một thứ riêng để ghi lại, và mỗi mục ngụ ý một phản hồi khác nhau khi nó còn thiếu. Cách phân rã này cũng là lớp phòng thủ chống lại [[correct-answer-trap-misconceptions|bẫy đáp án đúng]], nơi người học đi tới đáp án đúng bằng lý luận sai lệch và [[learning-analytics|phần phân tích]] của bạn ghi nhận một thành công. [[correct-answer-trap-ai-tutor|Bắt lấy bẫy đáp án đúng]] và [[zhang-tutormoments-2026|Khi sự trợ giúp không giúp được gì]] đều mô tả các phiên bản của thất bại đó trong môi trường vận hành thật.
 
 ## Xây mô hình người học trước cuộc trò chuyện
 
@@ -114,7 +114,7 @@ Hãy kiểm thử rò rỉ đáp án, củng cố quan niệm sai, đồng ý qu
 
 ## Đặt kiến trúc dữ liệu vào cùng một bản thiết kế
 
-Chỉ thu thập dữ liệu người học cần thiết về mặt sư phạm, và có thể nói vì sao mỗi trường tồn tại. Ở nơi bạn giữ bộ nhớ lâu dài hoặc một [[student-modeling|mô hình người học]], hãy làm cho mục đích của nó hiển hiện với người học, cho họ quyền kiểm soát phù hợp với nó, bảo vệ thông tin nhạy cảm, xác định thời hạn lưu giữ, và chuyển các quyết định có hệ quả cho một giảng viên hoặc một điểm kiểm soát [[human-in-the-loop-ai|con người]] khác. Một mô hình người học âm thầm tích lũy một ước lượng độ tự tin mà sinh viên không bao giờ nhìn thấy vừa là một vấn đề bảo vệ dữ liệu vừa là một vấn đề sư phạm.
+Chỉ thu thập dữ liệu người học cần thiết về mặt sư phạm, và có thể nói vì sao mỗi trường tồn tại. Ở nơi bạn giữ bộ nhớ lâu dài hoặc một [[student-modeling|mô hình người học]], hãy làm cho mục đích của nó hiển hiện với người học, cho họ quyền kiểm soát phù hợp với nó, bảo vệ thông tin nhạy cảm, xác định thời hạn lưu giữ, và chuyển các quyết định có hệ quả cho một giảng viên hoặc một điểm kiểm soát [[human-in-the-loop-ai|con người]] khác. Một mô hình người học âm thầm tích lũy một ước lượng độ tự tin mà sinh viên không bao giờ nhìn thấy vừa là một vấn đề [[privacy|bảo vệ dữ liệu]] vừa là một vấn đề sư phạm.
 
 Hãy kiểm toán hành vi theo nền tảng ngôn ngữ, mức năng lực, bối cảnh văn hóa, nhu cầu [[accessibility|khả năng tiếp cận]], và mức [[prior-knowledge|kiến thức nền]] cùng kinh nghiệm AI. Hiệu suất khác biệt trên cùng một mục tiêu là một lỗi có một sinh viên gắn vào nó, và nó sẽ không xuất hiện trong con số độ chính xác tổng hợp của bạn.
 
@@ -209,11 +209,11 @@ Sự tham gia là mục tiêu. Độ dài cuộc trò chuyện và số phiên l
 
 **“Sinh viên thích nó và mức hoàn thành đã tăng.”** Cả hai sự thật đều tương thích với một hệ thống trả lời câu hỏi tốt mà không dạy được gì. Nghiên cứu với 6,000 sinh viên phát hiện tiến bộ chậm hơn và ít câu hỏi được thử hơn đi kèm với độ chính xác tốt hơn, nên mức hoàn thành giảm cũng không tự động là tin xấu. Hãy báo cáo năng lực thực hiện khi không có trợ giúp bên cạnh các con số về mức tham gia và để hai thứ đó bất đồng công khai.
 
-**“Chúng tôi không chạy được một thử nghiệm ngẫu nhiên.”** Bạn có thể chạy một phép so sánh trong cùng một sinh viên mà không cần thử nghiệm: cùng một mục tiêu, có trợ giúp trong chương, được kiểm tra không có trợ giúp hai tuần sau đó, với điểm có trợ giúp được báo cáo bên cạnh. Thiết kế đó trả lời câu hỏi sản phẩm và không cần nhóm đối chứng. Điều nó không thể nói cho bạn là phản thực tế cho những sinh viên chưa bao giờ dùng gia sư.
+**“Chúng tôi không chạy được một [[rct|thử nghiệm ngẫu nhiên]].”** Bạn có thể chạy một phép so sánh trong cùng một sinh viên mà không cần thử nghiệm: cùng một mục tiêu, có trợ giúp trong chương, được kiểm tra không có trợ giúp hai tuần sau đó, với điểm có trợ giúp được báo cáo bên cạnh. Thiết kế đó trả lời câu hỏi sản phẩm và không cần nhóm đối chứng. Điều nó không thể nói cho bạn là phản thực tế cho những sinh viên chưa bao giờ dùng gia sư.
 
-**“Mô hình là API của nhà cung cấp, nên hành vi trợ giúp nằm ngoài tầm tay chúng tôi.”** Các bậc nằm trong lớp điều phối của bạn, và kết quả của thí nghiệm hàng rào bảo vệ đến từ việc thay đổi thứ gia sư được phép nói, không phải từ việc đổi mô hình. Hãy dự kiến rằng quá trình hậu huấn luyện của nhà cung cấp sẽ kéo về phía trả lời ngay lập tức, vì sự hữu ích là thứ nó được tinh chỉnh cho, và hãy đặt sự tiết chế vào mã của chính bạn.
+**“Mô hình là API của nhà cung cấp, nên hành vi trợ giúp nằm ngoài tầm tay chúng tôi.”** Các bậc nằm trong lớp điều phối của bạn, và kết quả của thí nghiệm hàng rào bảo vệ đến từ việc thay đổi thứ gia sư được phép nói, không phải từ việc đổi mô hình. Hãy dự kiến rằng quá trình [[llm-training-and-fine-tuning|hậu huấn luyện]] của nhà cung cấp sẽ kéo về phía trả lời ngay lập tức, vì sự hữu ích là thứ nó được tinh chỉnh cho, và hãy đặt sự tiết chế vào mã của chính bạn.
 
-**“Giáo viên sẽ không dùng thêm một bảng điều khiển nữa.”** Họ sẽ không dùng một bảng liên tục phát ra chẩn đoán, thứ mà tổng quan K-12 phát hiện là kéo sự chú ý khỏi quan sát của chính họ. Hãy cho họ một số ít tín hiệu diễn giải được, một cách chấp nhận hoặc bác bỏ từng khuyến nghị, và thời gian trong tuần để nhìn vào chúng.
+**“Giáo viên sẽ không dùng thêm một bảng điều khiển nữa.”** Họ sẽ không dùng một bảng liên tục phát ra chẩn đoán, thứ mà [[k-12|tổng quan K-12]] phát hiện là kéo sự chú ý khỏi quan sát của chính họ. Hãy cho họ một số ít tín hiệu diễn giải được, một cách chấp nhận hoặc bác bỏ từng khuyến nghị, và thời gian trong tuần để nhìn vào chúng.
 
 **“Chúng tôi không có chuyên gia ngành trong biên chế.”** Vậy thì gia sư sẽ dạy phương pháp chung và ký hiệu của môn học sẽ trôi dạt trong một học kỳ. Một chuyên gia môn học hai ngày ở giai đoạn thiết kế, viết danh sách quan niệm sai và danh sách phương pháp được duyệt, là hạng mục rẻ nhất trong dự án và là hạng mục các nhóm cắt trước tiên.
 

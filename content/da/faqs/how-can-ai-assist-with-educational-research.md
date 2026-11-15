@@ -14,9 +14,9 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T15:58:33-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ Det korte svar til det møde: AI kan tage søgningen, en første screening, tria
 
 **5.** Verificér hver reference i hånden, forfattere først, hver gang AI har rørt ved skrivningen.
 
-**6.** Log prompter, modelversioner og korpusversioner, og budgettér timerne til det.
+**6.** Log prompter, modelversioner og datasætversioner, og budgettér timerne til det.
 
 ## Beslut, hvad AI må røre, før projektet starter
 
@@ -60,12 +60,11 @@ Størstedelen af gevinsten kommer fra to designbeslutninger. Skriv beslutningsre
 
 ## Fastlæg kodebogen, før modellen læser noget
 
-Emnemodellering kan udvide den struktur uden at overtage fortolkningen. [[ober-prompt-engineering-interview-transcripts-2026|Ober, Courey og Flor (2026)]] kombinerede grounded coding, SentenceBERT-embeddings klyngedannet med Affinity Propagation og GPT-4-mærkning på seks fokusgrupper med 13 undervisere. Menneskelig gennemgang fjernede 18 kommunikationsklynger og 16 digital-literacy-klynger, der var samtalefyld, og efterlod 14 og 16 meningsfulde klynger; ChatGPT-4o og Copilot var enige om 33,3 % og 43,8 % af etiketterne, med cosinuslighed 0,835–0,880, og menneskelig gennemgang fandt ingen klare hallucinationer. Studiet er en gennemarbejdet pipeline, ikke en sammenligning: det har ingen menneske-kun- eller AI-kun-arm, og 13 undervisere kan ikke fastslå generaliserbarhed. Brug det til at se arbejdsdelingen, ikke som evidens for, at det hybride slår alternativerne.
-
-
-[[qualitative-research|Kvalitativ analyse]] er det trin, hvor fortolkningen er produktet. Konstrukter, kodningsrubrikker og træningsdata er menneskelige beslutninger snarere end modeloutput ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]), hvilket betyder, at kodebogen skal være fastlagt, før en automatiseret gennemgang kører over korpus. Alternativet er et kodningsskema skrevet efter, hvad modellen tilfældigvis fandt frem, og temaerne beskriver så værktøjets læsning af dine data.
+[[qualitative-research|Kvalitativ analyse]] er det trin, hvor fortolkningen er produktet. Konstrukter, kodningsrubrikker og træningsdata er menneskelige beslutninger snarere end modeloutput ([[ai-methodologies-science-education-research-2026|Martin et al., 2026]]), hvilket betyder, at kodebogen skal være fastlagt, før en automatiseret gennemgang kører over datasættet. Alternativet er et kodningsskema skrevet efter, hvad modellen tilfældigvis fandt frem, og temaerne beskriver så værktøjets læsning af dine data.
 
 Uddelegering kan være finere end alt eller intet. [[agreement-not-quality-llm-coding-verification|Ét blindt verifikationsstudie]] klassificerede 15 af 72 kodebogselementer som påviseligt krævende menneskelig ekspertise, 12 som bedre tjent med en model og 16 som egnede til tillidsbaseret triage. Sortér dine egne elementer på den måde, og besparelsen lander der, hvor den er sikker.
+
+Emnemodellering kan udvide den struktur uden at overtage fortolkningen. [[ober-prompt-engineering-interview-transcripts-2026|Ober, Courey og Flor (2026)]] kombinerede grounded kodning, SentenceBERT-embeddings klyngedannet med Affinity Propagation og GPT-4-mærkning på seks fokusgrupper med 13 lærere. Menneskelig gennemgang fjernede 18 kommunikationsklynger og 16 klynger om digital kompetence, der var samtalefyld, og efterlod 14 og 16 meningsfulde klynger; ChatGPT-4o og Copilot var enige om 33,3 % og 43,8 % af etiketterne, med cosinuslighed 0,835–0,880, og menneskelig gennemgang fandt ingen klare hallucinationer. Studiet er en gennemarbejdet pipeline, ikke en sammenligning: det har ingen menneske-kun- eller AI-kun-arm, og 13 lærere kan ikke fastslå generaliserbarhed. Brug det til at se arbejdsdelingen, ikke som evidens for, at det hybride slår alternativerne.
 
 ## Beslut, hvad verifikation betyder, og hvem der skriver under
 
@@ -89,13 +88,13 @@ Fejlen er konkret. I [[zhang-platform-scores-miss-ai-teaching-agents-2026|en eva
 
 Ibrugtagningen er løbet forud for rapporteringen. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta og Lin (2026)]] analyserede 888 artikler om reviewautomatisering: siden 2023 rapporterede 38,0 % af artiklerne om software og produkter ingen evaluering overhovedet, mod 9,3 % af LLM-artiklerne, og modeladgang var overvældende proprietær (84,1 %). En gunstig samlet vurdering indebar heller ikke egnethed til uddelegering, eftersom 52 % af 118 LLM-artikler, der kun rapporterede positive fund, stadig rapporterede en bekymring for, at arbejdsgangen lå under den standard, dens rolle krævede. Deres [[meta-analysis-systematic-review|PRISMA]]-LLM-ramme adskiller oplysning om implementering fra konsekvensfølsom evaluering og behandler sine fem niveauer som oplysningsniveauer snarere end som risikoniveauer.
 
-Den praktiske version: navngiv systemet og dets version, prompterne, korpusversionen, hvad et menneske tjekkede, og hvor det fejlede. Gem logfiler over prompter og svar, fordi en flydende genereret temaliste ser uundgåelig ud længe før dens evidensarbejde er begyndt ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
+Den praktiske version: navngiv systemet og dets version, prompterne, datasætversionen, hvad et menneske tjekkede, og hvor det fejlede. Gem logfiler over prompter og svar, fordi en flydende genereret temaliste ser uundgåelig ud længe før dens evidensarbejde er begyndt ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
 Budgettér også timerne. [[persistent-ai-agents-academic-research|Et 115 dage langt casestudie med én forsker]] af en persistent forskningsagent fandt, at det stærkeste mønster var kapacitetsudvidelse snarere end dokumenteret arbejdssubstitution: efterhånden som hukommelse og procedurer akkumulerede, voksede omfanget af det uddelegerede arbejde, mens menneskets input ikke skrumpede.
 
 ## Kør praktikerundersøgelse efter de samme regler i mindre skala
 
-Hvis du er lektor og undersøger dit eget kursus, arbejder du i korpus' tyndeste tråd. [[ai-assisted-educational-research|AI-assisteret uddannelsesforskning]] formulerer det som et hul snarere end som et fund: AI-assisteret praktikerundersøgelse er sandsynligvis udbredt og næsten udokumenteret, og evidensen om reviewautomatisering og bibliometri afgør ikke, hvordan en lektor bør undersøge sin egen undervisning.
+Hvis du er lektor og undersøger dit eget kursus, arbejder du i den mindst undersøgte gren af denne litteratur. [[ai-assisted-educational-research|AI-assisteret uddannelsesforskning]] formulerer det som et hul snarere end som et fund: AI-assisteret praktikerundersøgelse er sandsynligvis udbredt og næsten udokumenteret, og evidensen om reviewautomatisering og bibliometri afgør ikke, hvordan en lektor bør undersøge sin egen undervisning.
 
 Det, der bærer over, er et sæt holdninger:
 

@@ -1,13 +1,14 @@
 ---
 title: "Akademisyenlerin YZ Konusunda Hangi Yetkinliklere İhtiyacı Var?"
 created: "2026-10-14T21:30:00-04:00"
+updated: "2026-11-15T16:08:48-05:00"
 connected_faqs: [faculty-development-ai, ai-save-instructor-time, top-10-findings-ai-education-instructors]
 weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -58,6 +59,8 @@ Oturumları planlamadan önce listeyi yazın. Dört boyut artı bir öğretim ka
 
 [[self-report-measures|Öz bildirilen]] YZ okuryazarlığı gösterilen yetenekten belirgin biçimde ayrışabilir ve bu, bu literatürde öğretim geliştirme yürüten herkes için en pratik tek uyarıdır. Bir atölyenin sonunda yapılan özgüven anketi, atölyenin nasıl hissettirdiğini ölçer.
 
+Bir anket fazlasıyla iyi tahmin bile edilebilir. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez ve ark. (2026)]], 300 maddelik ve α = 0,997 olan bir ölçekle, faktör analizi yapmadan 315 öğretim üyesinin 314'ünü yetkinlik bantlarına sınıflandırdı ve en büyük katkıyı kurumsal bağlılık sağladı — bu, puanların insanların ne yapabildiğini değil, nerede çalıştığını izlediğinin işaretidir.
+
 Öğretmen [[agentic-ai|çok ajanlı]] iş akışı araştırmaları, sormak yerine test etmek için ikinci bir neden ekliyor: sistem düşüncesi, pedagojik inançlar ve [[self-efficacy|öz yeterlik]] YZ bütünleştirmesinde etkileşir, dolayısıyla aynı oturum aynı konu geçmişine sahip iki öğretim elemanında farklı sonuç verir. Bu, farklılaştırılmış programlamayı savunur ve çoğu kurumun yürüttüğü tek tip araç atölyesine karşı çıkar.
 
 Performans değerlendirmesinin ucuz versiyonu bir araç değil, bir görevdir. Her katılımcıdan bir ödev getirmesini, oturum sırasında onu modelle revize etmesini ve sonra revizyonu bir meslektaşına savunmasını isteyin: ne değişti, artık neyi değerlendiriyor, öğrenci artık neyden not alamaz. Bu yirmi dakika alır ve size herhangi bir gün sonu derecelendirme ölçeğinden daha fazlasını söyler.
@@ -106,7 +109,7 @@ Kendine güvenen öğretim elemanı yetkin öğretim elemanıdır. Öz bildirim 
 
 Tek bir çerçeve herkesi kapsar. Altı rollü standart, TPACK, SAMR ve başlıca eğitimci standartları K-12 öğretmenlerini ya da yalnızca öğretim boyutunu kapsadığı için var.
 
-Direnç, doldurulacak bir bilgi boşluğudur. Riskten kaçınma niyeti negatif yönde öngördü ve kimlik çalışması öğretim elemanlarının pedagojik değerlerden akıl yürüttüğünü anlatıyor. İsteksizlik gibi görünen şeyin bir kısmı, öğrencilerin aşırı güvenine dair savunulabilir bir konumdur.
+Direnç, doldurulacak bir bilgi boşluğudur. Riskten kaçınma niyeti negatif yönde öngördü ve [[learner-identity|kimlik çalışması]] öğretim elemanlarının pedagojik değerlerden akıl yürüttüğünü anlatıyor. İsteksizlik gibi görünen şeyin bir kısmı, öğrencilerin aşırı güvenine dair savunulabilir bir konumdur.
 
 ## Size geri dönecek olanlar
 

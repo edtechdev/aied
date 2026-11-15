@@ -11,9 +11,9 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T15:58:04-05:00"
 translation_of: faqs/group-work-ai
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -89,7 +89,7 @@ Par gruppekarakteren med en individuel komponent: et [[oral-assessment|mundtligt
 
 Deres begrænsninger følger med citatet: én enkelt database, kun tidsskriftartikler, ingen opmærksomhed på [[ethics|etik]] eller privatliv, teknologiens første to år og intet anvendt risiko-for-bias-instrument. Læs »katalysatorer« som en beskrivelse af observeret praksis og ikke som et målt udfald.
 
-Detektion er det forkerte instrument til at sortere individuelle bidrag: ingen af disse seks studier tester detektorer i gruppesammenhæng, og problemerne med detektion på individniveau er dokumenteret andre steder i denne vidensbase. Tilbageholdenhed skal fortolkes, før den skal korrigeres. Chen og Zou advarer om, at en gruppe, der afviser AI, kan undgå noget uvant frem for at udøve bevidst [[self-regulated-learning|selvregulering]], og de to kalder på forskellige reaktioner: det ene er et undervisningsproblem, det andet er en overvejet holdning, du kan bedømme.
+Detektion er det forkerte instrument til at sortere individuelle bidrag: ingen af disse seks studier tester detektorer i gruppesammenhæng, og problemerne med detektion på individniveau er veldokumenterede. Tilbageholdenhed skal fortolkes, før den skal korrigeres. Chen og Zou advarer om, at en gruppe, der afviser AI, kan undgå noget uvant frem for at udøve bevidst [[self-regulated-learning|selvregulering]], og de to kalder på forskellige reaktioner: det ene er et undervisningsproblem, det andet er en overvejet holdning, du kan bedømme.
 
 Simulerede holdkammerater afgør heller ikke spørgsmålet. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] finjusterede [[llm|LLM-agenter]] på ægte deltagerdialog ([[llm-training-and-fine-tuning|LoRA]]/QLoRA-adaptere på LLaMA 3.2-3B) for at modellere 48 deltagere over 3.824 ture og seks tematiske koder og sammenlignede derefter ægte og simuleret diskurs med [[network-analysis|Epistemic Network Analysis]]. Det simulerede netværk nåede en afstand på 0,17 fra det empiriske netværk, under tærsklen på 0,30, med en permutations-p-værdi på 0,65, hvilket statistisk ikke er til at skelne fra det empiriske netværk, selv om det let overbetonede tekniske begrænsninger og designlinks og underrepræsenterede data- og præstationsparametre. Det er en rammeartikel med medium tillid, og den understøtter én påstand: deltagerspecifikke agenter kan gengive realistisk samarbejdsdiskurs. Den viser ikke, at studerende lærer mere af simulerede holdkammerater.
 

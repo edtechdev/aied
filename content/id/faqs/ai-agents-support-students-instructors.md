@@ -6,9 +6,9 @@ weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-updated: "2026-10-29T14:48:08-04:00"
+updated: "2026-11-15T16:05:39-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Sebuah [[agentic-ai|agen]] merencanakan, memanggil alat, menyimpan konteks, meme
 
 [[agentic-workflows-education|Alur Kerja Agentik dalam Pendidikan]] menyebutkan empat kapabilitas yang berulang: refleksi, perencanaan, penggunaan alat dan kolaborasi multi-agen. Masing-masing menambahkan biaya di samping kemungkinannya, dalam hal [[explainable-ai|keterjelasan]], koordinasi, [[trust-calibration|kepercayaan]], latensi dan pengawasan.
 
-Peran di sisi mahasiswa merentang dari tutoring [[adaptive-learning|adaptif]] dan perencanaan belajar melalui umpan balik [[formative-assessment|formatif]], [[problem-solving|pemecahan masalah]] terpandu dan pembuatan latihan sampai rekomendasi prasyarat dan, pada ujung yang reflektif, [[metacognition|dorongan metakognitif]] melalui [[prompt-engineering|penyusunan prompt]]. Peran di sisi pengajar mencakup pengembangan materi, [[automated-question-generation|pembuatan soal]] dan validasinya, pemilahan umpan balik, [[learning-analytics|analitik]] mata kuliah, desain pembelajaran, pengambilan sumber daya dan orkestrasi sub-agen khusus.
+Peran di sisi mahasiswa merentang dari tutoring [[adaptive-learning|adaptif]] dan perencanaan belajar melalui umpan balik [[formative-assessment|formatif]], [[problem-solving|pemecahan masalah]] terpandu dan pembuatan latihan sampai rekomendasi prasyarat dan, pada ujung yang reflektif, [[metacognition|dorongan metakognitif]] melalui [[prompt-engineering|penyusunan prompt]]. Peran di sisi pengajar mencakup pengembangan materi, [[automated-question-generation|pembuatan soal]] dan validasinya, pemilahan umpan balik, [[learning-analytics|analitik]] mata kuliah, [[learning-design|desain pembelajaran]], pengambilan sumber daya dan orkestrasi sub-agen khusus.
 
 Dua di antaranya lebih aman pada tahap awal, karena keduanya menghasilkan artefak yang dibaca orang sebelum dibaca mahasiswa: pembuat soal yang dipasangkan dengan validator, dan penyusunan draf yang disunting guru.
 

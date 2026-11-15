@@ -1,9 +1,9 @@
 ---
 title: "Vad bör utbildare undvika att göra med AI?"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-11T06:20:00-05:00"
+updated: "2026-11-15T16:03:31-05:00"
 type: faq
-connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors]
+connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors, adopting-ai-options-and-issues]
 weight: 90
 foundations: [misconceptions, reducing-ai-misuse, ai-literacy, limitations-in-aied-research]
 pedagogy: [reflection, professional-training]
@@ -12,7 +12,7 @@ assessment: [assessment-validity, ai-detection, self-report-measures, feedback]
 ethics: [privacy, pedagogical-safety, equity-in-ai-education, accessibility, automation-bias]
 audience: [instructors, learners, parents and families, faculty developers, software developers, administrators, researchers]
 translation_of: faqs/what-not-to-do-ai-education
-source_updated: "2026-11-11T06:20:00-05:00"
+source_updated: "2026-11-14T04:30:00-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -24,31 +24,31 @@ ai_assist:
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
 
-Det mesta av vägledningen om AI i utbildningen säger vad man kan prova. Den här sidan samlar de praktiker som evidensen säger att man ska sluta med, ordnade efter den roll som skulle behöva sluta. Felaktiga föreställningar behandlas på annat håll: [[addressing-common-misconceptions-ai-education|FAQ:n om missuppfattningar]] tar dem, och begreppssidan [[misconceptions]] förklarar varför de består. Det forskningen ännu inte kan säga hör till [[limitations-in-aied-research|begränsningar i AIEd-forskningen]]. Det som följer är steget efter föreställningen: vad människor gör, vad det kostar och vad man ska göra i stället.
+Det mesta av vägledningen om AI i utbildningen säger vad man kan prova. De praktiker som evidensen säger att man ska sluta med är ordnade efter den roll som skulle behöva sluta. Felaktiga föreställningar behandlas på annat håll: [[addressing-common-misconceptions-ai-education|FAQ:n om missuppfattningar]] tar dem, och begreppssidan [[misconceptions]] förklarar varför de består. Det forskningen ännu inte kan säga hör till [[limitations-in-aied-research|begränsningar i AIEd-forskningen]]. Det som följer är vad människor faktiskt gör, vad det kostar och vad man ska göra i stället.
 
 Tre misslyckanden återkommer i alla roller.
 
-1. **Substitution.** Ett verktyg utför det tänkande som inläraren skulle göra, och resultatet bedöms som om inläraren hade gjort det. Uppsatsen som lämnas in är ett protokoll över vad modellen kan, inte över vad studenten kan.
-2. **Oförtjänt evidens.** En signal som är billig att samla in, som självförtroende, flyt, engagemang eller en slutförandegrad, behandlas som bevis för något den inte kan visa. En instrumentpanel kan rapportera fyrtio minuter i en handledningssession; den kan inte rapportera om någon lärde sig pq-formeln.
-3. **Struktur lämnad åt uppmaningar.** En varning, en policymening eller en utbildningssession får göra det jobb som gränssnittsdesign, bedömningsdesign eller styrning måste göra. Kursplanen säger att AI ska användas ansvarsfullt, och handledaren lämnar ändå över det färdiga svaret vid första prompten.
+1. **Verktyget gör tänkandet.** En inlärare ska arbeta sig fram till något, och verktyget gör den delen i stället, men resultatet bedöms som inlärarens eget. Uppsatsen som lämnas in visar vad modellen kan, inte vad studenten kan.
+2. **En siffra som inte visar lärande.** Något som är lätt att räkna, som självförtroende, flyt, engagemang eller en slutförandegrad, behandlas som bevis för att lärande har skett. En instrumentpanel kan visa fyrtio minuter i en handledningssession. Den kan inte visa om någon lärde sig pq-formeln.
+3. **En regel där upplägget borde göra jobbet.** En varning, en mening i kursplanen eller en utbildningssession får göra ett jobb som bara uppgiften, programvaran eller policyn kan göra. Kursplanen säger att AI ska användas ansvarsfullt, uppgiften kan ändå slutföras av en chattbot på en minut, och handledaren lämnar ändå över det färdiga svaret vid första prompten. Att säga åt människor att bete sig annorlunda förändrar inte vad uppgiften eller verktyget tillåter dem att göra.
 
 ## Kortversionen
 
-**1.** Betygsätt, citera eller lyft aldrig ett resultat som bevis för den förmåga som producerade det.
+**1.** Betygsätt, citera eller lyft aldrig något som verktyget producerade som om studenten hade producerat det.
 
-**2.** Samla in det oassisterade måttet vid sidan av det assisterade, varje gång.
+**2.** Mät vad studenterna kan utan verktyget, vid sidan av vad de kan med det.
 
 **3.** Behandla flyt, självförtroende och engagemang som egenskaper hos användningen, inte som lärande.
 
-**4.** Lägg skyddet i arbetsflödet, inte i en varning.
+**4.** Lägg skyddet i uppgiften eller programvaran, inte i en varning.
 
-**5.** Utgå från att alla data som verktyget kan se kommer att sparas, kombineras och läcka.
+**5.** Utgå från att allt som verktyget kan se kommer att sparas, kombineras med andra data och till slut läcka.
 
 **6.** Om påståendet kommer med en demo men inte med en jämförelse är det marknadsföring.
 
 ## För lärare
 
-**Certifiera inte output som förmåga.** En polerad inlämning är bevis på en polerad inlämning. Om en student lämnar in en litteraturöversikt vars källor du inte kan kontrollera mot något som kursen har lärt ut, och bedömningen inte kan skilja vad den studenten kan utan hjälp, har bedömningen slutat mäta det som examen intygar ([[assessment-validity]], [[authentic-assessment]]). Åtgärden är en omdesign av uppgiften; en strängare hederskod gör det inte.
+**Behandla inte en polerad inlämning som bevis på lärande.** En polerad inlämning är bevis på en polerad inlämning. Om en student lämnar in en litteraturöversikt vars källor du inte kan kontrollera mot något som kursen har lärt ut, och bedömningen inte kan skilja vad den studenten kan utan hjälp, har bedömningen slutat mäta det som examen intygar ([[assessment-validity]], [[authentic-assessment]]). Åtgärden är en omdesign av uppgiften; en strängare hederskod gör det inte.
 
 **Använd inte en detektorpoäng som bevis på fusk.** I en kontrollerad studie av 642 publicerade sammanfattningar flaggade detektorerna 38–80% av riktlinjeenlig lätt AI-redigering och 9–15% av oförändrad mänsklig text, samtidigt som de fångade färre än 4% av omskrivningar som körts genom en humaniseringstjänst ([[karr-ai-detection-humanization-2026|Karr et al., 2026]]). En oberoende benchmark fann att ingen av 14 kommersiella verktyg nådde 80% noggrannhet, och enkel parafrasering halverar även det ([[teichmann-detecting-undetectable-misconduct-2026|Teichmann et al., 2026]]). Vid realistiska basfrekvenser är falska positiva fler än sanna positiva ([[should-we-use-ai-detectors]]). En detektor kan starta ett samtal; den kan inte avsluta ett.
 
@@ -56,7 +56,7 @@ Tre misslyckanden återkommer i alla roller.
 
 **Behandla inte engagemang som lärande.** Tid på uppgiften, nöjdhet, volym av hjälpsökande och chattaktivitet är alla lätta att instrumentera och alla förenliga med inget lärande alls. I ett 3 × 2-experiment med 186 deltagare som bedömde civilrättsliga fall på en LLM-stödd plattform gav ett skydd som sänkte bytet till en felaktig AI-position från 42–60.5% till 5.7–8.2% ingen mätbar lärandeeffekt inom sessionen (β = 0.03, p = 0.18; [[tuo-armada-multi-agent-debate-overreliance-2026|Tuo et al., 2026]]). Beteendet förändrades; lärandemåttet gjorde det inte ([[student-engagement]]).
 
-**Förlita dig inte på en varning där gränssnittet kunde begränsa.** En handledare som kan producera det färdiga svaret kommer att göra det under tidspress, vad kursplanen än säger. Skyddet som fungerar är inbyggt i interaktionen ([[reducing-ai-misuse]], [[pedagogical-safety]]). Att hålla tillbaka slutsvaret under de två första försöken är ett designbeslut; att be studenterna att inte be om det är en begäran.
+**Förlita dig inte på en varning när programvaran kunde stoppa det.** En handledare som kan producera det färdiga svaret kommer att göra det under tidspress, vad kursplanen än säger. Skyddet som fungerar är inbyggt i interaktionen ([[reducing-ai-misuse]], [[pedagogical-safety]]). Att hålla tillbaka slutsvaret under de två första försöken är ett designbeslut; att be studenterna att inte be om det är en begäran.
 
 **Klistra inte in elevarbeten, IEP:er, disciplinärenden eller identifierbara utkast i ett konsumentverktyg.** Dataminimering är ett designbeslut som du fattar på studentens vägnar, vare sig du har tänkt på det eller inte ([[privacy]]). Det kostnadsfria chattbotkontot som svarar på en fråga om en students beteendeplan är också en kopia av den planen på någon annans server.
 
@@ -76,7 +76,7 @@ Tre misslyckanden återkommer i alla roller.
 
 **Gör inte läxan med verktyget, och låt den inte bli gjord bredvid dig.** Mönstret i data är betygsinflation med en dold kostnad: i samma panel över 30 månader steg läxresultatet med 18% medan resultatet på tenta utan hjälpmedel föll med 20% ([[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei och Wu, 2026]]). Ett barn som kommer hem med perfekt läxa och underkänt på ett kapitelprov visar dig exakt den klyftan. Det du kan kontrollera är processen. Kan ditt barn förklara steget, göra om en uppgift på papper och säga vilken del det var osäkert på? Om inte har verktyget gjort uppgiften.
 
-**Låt inte en chattbot bli förtrogen.** Sykofantiska system bekräftar långt mer än människor, 49% mer över 11 modeller, och den bekräftelsen är det som gör att de känns trygga att prata med ([[ai-personal-coach-review-benefits-risks-2026|Potel och Kumashiro, 2026]]). I en stor longitudinell studie vände sig användarna till sykofantisk AI för personliga råd nästan lika ofta som till nära vänner och familj, med lägre tillfredsställelse i sina verkliga relationer ([[sycophantic-ai-social-interaction-2026]]). Ett barn som kommer med oro till en modell som alltid håller med blir inte hörd. Det blir speglat. Om ditt barn pratar med en chattbot om en vänskap eller en förlust är det ögonblicket att fråga vem mer det berättade för.
+**Låt inte en chattbot bli förtrogen.** Sykofantiska system bekräftar långt mer än människor, 49% mer över 11 modeller, och den bekräftelsen är det som gör att de känns trygga att prata med ([[ai-personal-coach-review-benefits-risks-2026|Potel och Kumashiro, 2026]]). I en stor longitudinell studie vände sig användarna till sykofantisk AI för personliga råd nästan lika ofta som till nära vänner och familj, med lägre tillfredsställelse i sina verkliga relationer ([[sycophantic-ai-social-interaction-2026|Ibrahim et al. (2026)]]). Ett barn som kommer med oro till en modell som alltid håller med blir inte hörd. Det blir speglat. Om ditt barn pratar med en chattbot om en vänskap eller en förlust är det ögonblicket att fråga vem mer det berättade för.
 
 **Räck inte en generativ chattbot till ett litet barn och kalla det övervakat för att du är i rummet.** Vägledningen efter åldersnivå är konkret: strukturerade, icke-generativa aktiviteter för 9 till 12 år, övervakad generativ användning med etiskt resonemang från 13 år ([[ai-guidance-children-under-13]]). För de yngsta barnen handlar risken om föreställning. Preoperationella barn accepterar genererat innehåll som sant, och systemen är inte utvecklingsmässigt kalibrerade i den feedback de ger. Vuxen samanvändning betyder att sitta bredvid barnet och fråga vad leksaken just gjorde, inte att övervaka från dörren ([[early-childhood-elementary-ai-education]]).
 
@@ -130,9 +130,9 @@ Tre misslyckanden återkommer i alla roller.
 
 **Låt inte självrapportering bära det kausala påståendet.** Självförtroende, upplevt lärande och nöjdhet är utfall, men de är inte de utfall som de flesta studier säger sig mäta. [[empathy|empati]]litteraturen är det tydligaste fallet: ett fält som avser att lära ut empati mäter mestadels bekvämlighet, och en översikt av 17 studier fann självförtroendevinster långt vanligare än bevis på empati i sig ([[ismail-affective-domain-ai-healthcare-review-2026|Ismail och Zafira, 2026]]; [[self-report-measures]]).
 
-**Citera inte en effekt utan dess design.** I en kritisk granskning av 80 HCI-studier om [[critical-thinking|kritiskt tänkande]] med AI saknade 42 (52%) kontrollgrupp ([[critical-review-critical-thinking-hci-research-ai-2026]]). En effekt som gör rubriker, från 30 studenter i en kurs på en plats, är den vanliga formen av ett bräckligt påstående ([[limitations-in-aied-research]]).
+**Citera inte en effekt utan dess design.** I en kritisk granskning av 80 HCI-studier om [[critical-thinking|kritiskt tänkande]] med AI saknade 42 (52%) kontrollgrupp ([[critical-review-critical-thinking-hci-research-ai-2026|Inie et al., 2026]]). En effekt som gör rubriker, från 30 studenter i en kurs på en plats, är den vanliga formen av ett bräckligt påstående ([[limitations-in-aied-research]]).
 
-**Rapportera inte heterogenitet utan modellen.** Samma data ger I² = 82.98% under en modell med fasta effekter och I² = 15.75% under en modell med slumpmässiga effekter ([[ai-supported-instruction-stem-meta-analysis-2026]]). Ett citerat I² utan sin modell är otolkbart ([[meta-analysis-systematic-review]]).
+**Rapportera inte heterogenitet utan modellen.** Samma data ger I² = 82.98% under en modell med fasta effekter och I² = 15.75% under en modell med slumpmässiga effekter ([[ai-supported-instruction-stem-meta-analysis-2026|Doğan et al., 2026]]). Ett citerat I² utan sin modell är otolkbart ([[meta-analysis-systematic-review]]).
 
 **Generalisera inte från ett enda sammanhang och kalla det ett fynd.** En kurs, en institution, en modellversion, ett språk. Modellbeteende ändras med varje release, och detektorer tränade på en generation tappar recall på nästa ([[research-gaps-aied]], [[ai-detection]]).
 
@@ -142,7 +142,7 @@ Tre misslyckanden återkommer i alla roller.
 
 ## Varför dessa hör ihop
 
-Varje punkt ovan upphöjer en proxy till en dom. Uppsatsen står för skribenten, poängen står för fusket, leendet står för empatin, och demon står för lärandet. Korrigeringen är alltid densamma: namnge konstruktet, hitta ett mått som skulle kunna falla ut åt andra hållet och samla in det vid sidan av det bekväma.
+Varje punkt ovan förväxlar en ställföreträdare med det verkliga. Uppsatsen står in för skribenten, detektorpoängen för fusket, leendet för empatin och demon för lärandet. Åtgärden är alltid densamma: säg vad du faktiskt vill veta, hitta ett mått som skulle kunna falla ut åt andra hållet och samla in det vid sidan av det enkla.
 
 Ingen av dessa varningar betyder att verktyget alltid är fel. En detektor kan vara ett skäl att prata med en student. En chattbot kan vara en användbar repetition. En instrumentpanel kan vara en anledning att ställa en fråga. Det som orsakar skada är substitutionen.
 
@@ -157,8 +157,8 @@ Ingen av dessa varningar betyder att verktyget alltid är fel. En detektor kan v
 ## Vart du går härnäst
 
 - [[addressing-common-misconceptions-ai-education]]: föreställningarna bakom dessa praktiker, och hur man korrigerar dem utan nedlåtenhet.
-- [[limitations-in-aied-research]]: vad evidensbasen ännu inte kan bära.
-- [[reducing-ai-misuse]]: strukturella hävstänger mot missbruk, och varför de slår uppmaningar.
-- [[pedagogical-safety]]: vad en handledare kan göra mot en inlärare medan den klarar varje innehållskontroll.
+- [[limitations-in-aied-research|Begränsningar i AIEd-forskning]]: vad evidensbasen ännu inte kan bära.
+- [[reducing-ai-misuse|Att minska AI-missbruk]]: förändringar i uppgiften och programvaran som förhindrar missbruk, och varför de fungerar bättre än påminnelser.
+- [[pedagogical-safety|Pedagogisk säkerhet]]: vad en handledare kan göra mot en inlärare medan den klarar varje innehållskontroll.
 - [[should-we-use-ai-detectors]]: detektorevidensen i sin helhet.
 - [[checking-whether-educational-ai-works]]: hur man utvärderar ett påstående innan man inför det.

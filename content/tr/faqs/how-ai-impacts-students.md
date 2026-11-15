@@ -1,6 +1,7 @@
 ---
 title: "YZ Öğrencileri Nasıl Etkiliyor?"
 created: "2026-10-14T22:50:00-04:00"
+updated: "2026-11-15T16:08:48-05:00"
 connected_faqs: [does-ai-help-students-learn, study-with-ai, ai-anxiety-wellbeing, ai-guidance-children-under-13]
 weight: 82
 foundations: [ai-literacy, cognitive-offloading, learner-identity]
@@ -8,7 +9,7 @@ pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
 translation_of: faqs/how-ai-impacts-students
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -24,7 +25,7 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-Dersleriniz için YZ kullanıyorsunuz ve işler yolunda gidiyor; tek sorun, kapalı kitap sınavının başkasının notlarını okumak gibi hissettirmesi. Ya da bir arkadaşınız hiçbir şey yazmadığını ama yine de A notunu aldığını söylüyor, siz de bunun kendiniz için ne anlama geldiğini merak ediyorsunuz. Ya da artık bir sohbet robotuna, eğitmeninize sorduğunuzdan daha fazla soru soruyorsunuz.
+Dersleriniz için YZ kullanıyorsunuz ve işler yolunda gidiyor; tek sorun, [[summative-assessment|kapalı kitap]] sınavının başkasının notlarını okumak gibi hissettirmesi. Ya da bir arkadaşınız hiçbir şey yazmadığını ama yine de A notunu aldığını söylüyor, siz de bunun kendiniz için ne anlama geldiğini merak ediyorsunuz. Ya da artık bir sohbet robotuna, eğitmeninize sorduğunuzdan daha fazla soru soruyorsunuz.
 
 Kısa yanıt, bir arkadaşınıza aktarabileceğiniz biçimde: YZ, geri bildirime ihtiyaç duyduğunuz yerde yararlı, alıştırma yapmanız gereken yerde yararsızdır. Düşünme adımını kendinize saklayın, teslim etmeden önce kendinizi araç olmadan sınayın ve ne kullandığınız konusunda açık olun. Bu sayfanın geri kalanı bunun neden geçerli olduğunu ve bir salı gecesinde nasıl göründüğünü anlatıyor.
 

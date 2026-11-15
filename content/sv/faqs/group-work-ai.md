@@ -11,9 +11,9 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:03:31-05:00"
 translation_of: faqs/group-work-ai
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -89,7 +89,7 @@ Para ihop gruppbetyget med en individuell komponent: ett [[oral-assessment|muntl
 
 Deras begränsningar följer med referensen: en enda databas, endast tidskriftsartiklar, ingen uppmärksamhet på [[ethics|etik]] eller integritet, teknikens två första år och inget risk-för-bias-instrument tillämpat. Läs ”katalysatorer” som en beskrivning av observerad praktik, inte som ett uppmätt utfall.
 
-Detektion är fel instrument för att sortera individuella bidrag: ingen av dessa sex studier testar detektorer i gruppsammanhang, och problemen med detektion på individnivå är dokumenterade på annat håll i den här kunskapsbasen. Återhållsamhet behöver tolkas innan den behöver rättas. Chen och Zou varnar för att en grupp som avstår från AI kan undvika något obekant snarare än utöva avsiktlig [[self-regulated-learning|självreglering]], och de två kallar på olika svar: det ena är ett undervisningsproblem, det andra är en övervägd hållning du kan betygssätta.
+Detektion är fel instrument för att sortera individuella bidrag: ingen av dessa sex studier testar detektorer i gruppsammanhang, och problemen med detektion på individnivå är väldokumenterade. Återhållsamhet behöver tolkas innan den behöver rättas. Chen och Zou varnar för att en grupp som avstår från AI kan undvika något obekant snarare än utöva avsiktlig [[self-regulated-learning|självreglering]], och de två kallar på olika svar: det ena är ett undervisningsproblem, det andra är en övervägd hållning du kan betygssätta.
 
 Simulerade lagkamrater avgör inte frågan heller. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] finjusterade [[llm|LLM]]-agenter på riktig deltagardialog ([[llm-training-and-fine-tuning|LoRA]]/QLoRA-adaptrar på LLaMA 3.2-3B) för att modellera 48 deltagare över 3 824 turer och sex tematiska koder, och jämförde sedan verklig och simulerad diskurs med [[network-analysis|Epistemic Network Analysis]]. Det simulerade nätverket nådde ett avstånd på 0,17 från det empiriska nätverket, under tröskeln 0,30, med ett permutations-p-värde på 0,65, statistiskt oskiljbart, även om det något överbetonade länkarna Technical Constraints och Design och underrepresenterade Data och Performance Parameters. Det är en ramverksartikel med medelhög tillförlitlighet, och den stöder ett påstående: deltagarspecifika agenter kan återskapa realistisk samarbetsdiskurs. Den visar inte att studenter lär sig mer av simulerade lagkamrater.
 

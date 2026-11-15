@@ -1,12 +1,14 @@
 ---
 title: "YZ Ajanları Öğrencileri ve Öğretim Elemanlarını Nasıl Destekleyebilir?"
 created: "2026-10-14T21:45:00-04:00"
+updated: "2026-11-15T16:08:48-05:00"
 connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer]
 weight: 66
+audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -42,7 +44,7 @@ Bir [[agentic-ai|ajan]] planlar, araçları çağırır, bağlamı korur, işi a
 
 [[agentic-workflows-education|Eğitimde Ajanlı İş Akışları]] dört yinelenen yetenek adlandırır: yansıtma, planlama, araç kullanımı ve çok ajanlı işbirliği. Her biri, olanağın yanına bir maliyet ekler: [[explainable-ai|yorumlanabilirlik]], koordinasyon, [[trust-calibration|güven]], gecikme ve gözetim.
 
-Öğrenci tarafı roller, [[adaptive-learning|uyarlanabilir]] özel ders ve çalışma planlamasından [[formative-assessment|biçimlendirici]] geri bildirime, yönlendirilmiş [[problem-solving|problem çözmeye]] ve alıştırma üretimine, önkoşul önerilerinden yansıtıcı [[metacognition|üstbilişsel]] [[prompt-engineering|prompt yazmaya]] kadar uzanır. Öğretim elemanı tarafı roller materyal geliştirmeyi, [[automated-question-generation|soru üretimi]] ve doğrulamasını, geri bildirim triyajını, ders [[learning-analytics|analitiğini]], öğretim tasarımını, kaynak erişimini ve uzmanlaşmış alt ajanların orkestrasyonunu kapsar.
+Öğrenci tarafı roller, [[adaptive-learning|uyarlanabilir]] özel ders ve çalışma planlamasından [[formative-assessment|biçimlendirici]] geri bildirime, yönlendirilmiş [[problem-solving|problem çözmeye]] ve alıştırma üretimine, önkoşul önerilerinden yansıtıcı [[metacognition|üstbilişsel]] [[prompt-engineering|prompt yazmaya]] kadar uzanır. Öğretim elemanı tarafı roller materyal geliştirmeyi, [[automated-question-generation|soru üretimi]] ve doğrulamasını, geri bildirim triyajını, ders [[learning-analytics|analitiğini]], [[learning-design|öğretim tasarımı]]nı, kaynak erişimini ve uzmanlaşmış alt ajanların orkestrasyonunu kapsar.
 
 Bunlardan ikisi erken aşamada daha güvenlidir, çünkü ikisi de öğrencilerden önce bir insanın okuduğu bir ürün üretir: bir doğrulayıcıyla eşleştirilmiş bir soru üreticisi ve bir öğretmenin düzenlediği taslak.
 

@@ -1,6 +1,7 @@
 ---
 title: "Bir Simüle Öğrenciyi Gerçek Bir Öğrenen Gibi Davrandırmayı Nasıl Başarırız?"
 created: "2026-10-14T10:36:01-04:00"
+updated: "2026-11-15T16:08:48-05:00"
 weight: 71
 type: faq
 connected_faqs: [checking-whether-educational-ai-works, addressing-common-misconceptions-ai-education, making-ai-better-at-supporting-learning]
@@ -14,7 +15,7 @@ methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
 contributors: [editor]
 translation_of: faqs/making-simulated-students-behave-like-learners
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -51,11 +52,11 @@ Bir sonraki demodan önce şu kadarı netleşmeli: bir modele öğrenci rolü ve
 
 ## Simülatörün hangi soruyu yanıtladığına karar verin
 
-"Simüle öğrenci" başlığı altında üç iş çökertiliyor ve bunlar farklı düzenekler gerektiriyor. Bir öğretmeni ya da özel ders veren kişiyi prova etmek, baskı altında inandırıcı davranan bir ortak gerektirir. Bir YZ'nin farklı öğrenen profillerine nasıl davrandığını denetlemek, önemsediğiniz profillerin kapsanmasını gerektirir. Bir ders için sonuç öngörmek, tek bir inandırıcı birey değil öğrenen dağılımı gerektirir. Birinci iş için kurulmuş bir simülatör üçüncüsünde sizi hayal kırıklığına uğratacaktır ve aşağıdaki kanıt bunları sürekli ayırıyor.
+"Simüle öğrenci" başlığı altında üç iş çökertiliyor ve bunlar farklı düzenekler gerektiriyor. Bir [[teacher-role|öğretmen]]i ya da özel ders veren kişiyi prova etmek, baskı altında inandırıcı davranan bir ortak gerektirir. Bir YZ'nin farklı öğrenen profillerine nasıl davrandığını denetlemek, önemsediğiniz profillerin kapsanmasını gerektirir. Bir ders için sonuç öngörmek, tek bir inandırıcı birey değil öğrenen dağılımı gerektirir. Birinci iş için kurulmuş bir simülatör üçüncüsünde sizi hayal kırıklığına uğratacaktır ve aşağıdaki kanıt bunları sürekli ayırıyor.
 
 ## Kapsamadığınız öğrenenleri adlandırın
 
-Bir simülatöre güvenmek üzere olan herkes için en yararlı bulgu kapsamla ilgilidir. LLM öğrencilerine özel ders veren on iki öğretmen aşırı karmaşık dil, eksik duygu, doğal olmayan dikkatlilik ve açıklanmayan bilgi sıçramaları bildirdi ve simülasyonlar gerçek öğrenci davranışının dört bölgesinden yalnızca birini temsil ediyordu ([[llm-student-simulation-teacher-insights|Martynova ve ark., 2026]]). Kapsadıkları bölge, simüle edilmesi en kolay olanıydı.
+Bir simülatöre güvenmek üzere olan herkes için en yararlı bulgu kapsamla ilgilidir. [[llm|LLM]] öğrencilerine özel ders veren on iki öğretmen aşırı karmaşık dil, eksik duygu, doğal olmayan dikkatlilik ve açıklanmayan bilgi sıçramaları bildirdi ve [[simulation|simülasyon]]lar gerçek öğrenci davranışının dört bölgesinden yalnızca birini temsil ediyordu ([[llm-student-simulation-teacher-insights|Martynova ve ark., 2026]]). Kapsadıkları bölge, simüle edilmesi en kolay olanıydı.
 
 Bu önemli, çünkü neredeyse kimse kontrol etmiyor. Öğrenenleri simüle eden çalışmaların yalnızca %3'ü simülatörünü kullanımdan sonra doğruluyor. Bir tane kurup doğrulamayı atlarsanız, ezici çoğunluğun içindesiniz ve o istatistiğin alıntılanabilir kalmasının nedeni de sizsiniz.
 
@@ -71,13 +72,13 @@ O çalışmadan iki not. Model seçimi tek boyutlu değildir, çünkü ders fiki
 
 Model çok fazla şey biliyorsa, içinde bulunması gereken durumu adlandırabilir ya da sahip olmaması gereken bilgiyi çıkarabilirsiniz.
 
-**Epistemik bir duruma koşullayın.** Eğitimsiz bir çerçeve her öğrencinin bilişsel prototipini bir [[knowledge-graph|bilgi grafiğinden]] kuruyor ve ışın araması adaylarını buna karşı puanlıyor; simülasyon doğruluğunda %100 iyileşme bildiriyor ([[simulating-students-diverse-cognitive-levels-2025|Wu ve ark., 2025]]). Kalitesi öğrencinin bilişsel düzeyiyle birlikte yükseliyor, dolayısıyla daha zayıf öğrenenler daha zor vaka olarak kalıyor; bu da genellikle asıl meselenin onlar olması düşünülürse talihsiz. Statik bir persona yerine bilişsel dinamikleri modellemek daha ileri gidiyor: CogEvolution'ın ICAP tabanlı durum güncellemeleri statik ajanların 0,45'e ulaştığı yerde R²LC = 0,92'ye ulaştı ve ICAP modülü olmadan 0,58'e çöktü ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang ve ark., 2026]]).
+**Epistemik bir duruma koşullayın.** Eğitimsiz bir çerçeve her öğrencinin bilişsel prototipini bir [[knowledge-graph|bilgi grafiğinden]] kuruyor ve ışın araması adaylarını buna karşı puanlıyor; simülasyon doğruluğunda %100 iyileşme bildiriyor ([[simulating-students-diverse-cognitive-levels-2025|Wu ve ark., 2025]]). Kalitesi öğrencinin bilişsel düzeyiyle birlikte yükseliyor, dolayısıyla daha zayıf öğrenenler daha zor vaka olarak kalıyor; bu da genellikle asıl meselenin onlar olması düşünülürse talihsiz. Statik bir persona yerine bilişsel dinamikleri modellemek daha ileri gidiyor: CogEvolution'ın [[icap-framework|ICAP]] tabanlı durum güncellemeleri statik ajanların 0,45'e ulaştığı yerde R²LC = 0,92'ye ulaştı ve ICAP modülü olmadan 0,58'e çöktü ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang ve ark., 2026]]).
 
 **Bilgiyi çıkarın.** Mistral-7B'de 16 hedefli bilgi bileşenini bastırmak, doğruluğu %10 unutma oranında yaklaşık 0,75'ten %40'ta 0,5'in altına düşürdü; temel model ise 0,85 civarında kaldı. Bastırılan bilginin gözetimli yeniden öğrenme ve koç rehberli diyalog yoluyla geri kazanılabilir olduğu görüldü ([[simulating-novice-students-machine-unlearning-2026|Song, Guo ve Lin, 2026]]). Bu, doğrudan bir acemi üretmeye en yakın şeydir ve simülatörün oturum sırasında öğrenmesini istiyorsanız geri kazanılabilirlik bir özelliğe dönüşür.
 
 ## Personayı değil turları senaryolaştırın
 
-Persona kararlılığı, model seçimi değil etkileşim tasarımı sorunu çıkıyor. Beş LLM'i üç istem tasarımı ve dört DEHB yoğunluğu personasıyla çaprazlayan çalışmada, senaryolu göreve bağlı etkileşimler gözlemci tarafından puanlanan davranışsal kaymayı senaryosuz diyaloğa karşı %97'ye kadar ortadan kaldırdı. Açık persona talimatları olmadan temel öğrenci temsili yüksek DEHB belirtilerine kaydı ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase ve Leins, 2026]]).
+Persona kararlılığı, model seçimi değil etkileşim tasarımı sorunu çıkıyor. Beş LLM'i üç istem tasarımı ve dört [[neurodiversity|DEHB]] yoğunluğu personasıyla çaprazlayan çalışmada, senaryolu göreve bağlı etkileşimler gözlemci tarafından puanlanan davranışsal kaymayı senaryosuz diyaloğa karşı %97'ye kadar ortadan kaldırdı. Açık persona talimatları olmadan temel öğrenci temsili yüksek DEHB belirtilerine kaydı ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase ve Leins, 2026]]).
 
 Simülatörünüz kayıyorsa, modeli değiştirmeden ya da öğrencinin betimlemesini yeniden yazmadan önce tur tur ondan ne yapmasını istediğinize bakın.
 
@@ -87,7 +88,7 @@ StudentSim iki özelliğin birlikte tutmasını gerektiriyor: **davranışsal sa
 
 Bir kavram kanıtı olarak, satranç öğretmeni bir [[reinforcement-learning|pekiştirmeli öğrenme]] döngüsünde ödül olarak kullanılan donmuş bir StudentSim, uzmanların sınır modeli simülatörü ödülüne karşı eğitilenlerden ya da hiç pekiştirmeli öğrenme olmadan eğitilenlerden daha doğru, daha iyi yönlendiren ve daha kişiselleştirilmiş olarak puanladığı öğretmenler üretti. İyi bir simülatör ölçüm olduğu kadar eğitim sinyali de olabilir.
 
-Eylem düzeyindeki sadakatin kendi sınırı var. Öğrenci simülatörleri gözlemlenebilir eylemleri arkalarındaki örtük akıl yürütme olmadan yeniden üretiyor ve [[inside-llm-student-simulator-reasoning-2026|INSIDE]] modelleri her eylemden önce bir iç diyalog üretmek üzere ince ayarlıyor; üretilen akıl yürütme ile gerçek kod düzenlemeleri arasındaki en yüksek uyumu tanıdık problemlerde %51,8 ve görülmemiş problemlerde %57,9 ile yakalıyor, eylem sadakatini kaybetmeden (Niousha ve ark., 2026). Simüle öğrencinizin bir şeyi neden yaptığı sizin için önemliyse, eylemi eşleştirmek yeterli değildir.
+Eylem düzeyindeki sadakatin kendi sınırı var. Öğrenci simülatörleri gözlemlenebilir eylemleri arkalarındaki örtük akıl yürütme olmadan yeniden üretiyor ve [[inside-llm-student-simulator-reasoning-2026|INSIDE]] modelleri her eylemden önce bir iç diyalog üretmek üzere [[llm-training-and-fine-tuning|ince ayar]]lıyor; üretilen akıl yürütme ile gerçek kod düzenlemeleri arasındaki en yüksek uyumu tanıdık problemlerde %51,8 ve görülmemiş problemlerde %57,9 ile yakalıyor, eylem sadakatini kaybetmeden (Niousha ve ark., 2026). Simüle öğrencinizin bir şeyi neden yaptığı sizin için önemliyse, eylemi eşleştirmek yeterli değildir.
 
 ## Gerçek öğrenenlere karşı doğrulayın ve başlangıç düzeyini bildirin
 
@@ -95,7 +96,7 @@ Eylem düzeyindeki sadakatin kendi sınırı var. Öğrenci simülatörleri göz
 
 Dokuz simülasyon yöntemini, gerçek öğrenci-öğretmen matematik diyaloglarının en büyük kamuya açık derleminden 382 ayrılmış diyalog üzerinde yedi referans tabanlı ölçütle kıyaslamak, diyalog edimlerinde (0,4998'e karşı 0,6840), ROUGE-L'de (0,1648'e karşı 0,3212) ve kosinüs benzerliğinde (0,5460'a karşı 0,7390) istemin ince ayarın gerisinde kaldığını gösterdi. Test edilen en iyi yöntem, 8B'lik bir modelde tercih optimizasyonu, gözetimli ince ayarı yalnızca marjinal olarak geçti ve hatalarda daha kötüydü; üç öğretmenli bir insan değerlendirmesi bu sıralamayı yeniden üretti ([[simulated-students-tutoring-dialogues-2026|Scarlatos ve ark., 2026]]). Bu merdivenin tepesi ortaya yakın duruyor, dolayısıyla bildirdiğiniz başlangıç düzeyi kendi sayınızın ne kadar etkileyici göründüğüne karar veriyor.
 
-SWIM, istem vermenin, ince ayarın ve pekiştirmeli öğrenmenin en net karşılaştırmasıdır, çünkü üretilen her denemeyi izlenimsel olarak yargılamak yerine hedef bir özellik profiline karşı puanlıyor. Rubriğe dayalı istem verme güçlü tescilli modellerde bile sınırlı kontrol verdi; en iyi ortalama özellik QWK değeri 0,577 (Claude Sonnet) ve 0,422 (GPT-5.4) oldu, açık bir 7B modelde ise sıfıra yakın. Gerçek puan-deneme çiftleriyle gözetimli ince ayar o 7B model için 0,474 ± 0,023'e ulaştı. Otomatik deneme puanlamasından türetilen bir ödülle GRPO 0,618 ± 0,005'e ulaştı ve kazanımlar politikanın hiç eğitilmediği iki bağımsız puanlayıcıda korundu ([[swim-student-writing-simulation-2026]]).
+SWIM, istem vermenin, ince ayarın ve pekiştirmeli öğrenmenin en net karşılaştırmasıdır, çünkü üretilen her denemeyi izlenimsel olarak yargılamak yerine hedef bir özellik profiline karşı puanlıyor. Rubriğe dayalı istem verme güçlü tescilli modellerde bile sınırlı kontrol verdi; en iyi ortalama özellik QWK değeri 0,577 (Claude Sonnet) ve 0,422 (GPT-5.4) oldu, açık bir 7B modelde ise sıfıra yakın. Gerçek puan-deneme çiftleriyle gözetimli ince ayar o 7B model için 0,474 ± 0,023'e ulaştı. [[automated-essay-scoring|Otomatik deneme puanlamasından]] türetilen bir ödülle GRPO 0,618 ± 0,005'e ulaştı ve kazanımlar politikanın hiç eğitilmediği iki bağımsız puanlayıcıda korundu ([[swim-student-writing-simulation-2026]]).
 
 İstem verme ayrıca gerçekçi bir nüfus yerine idealize edilmiş bir nüfus üretti: ortalama normalleştirilmiş toplam puan gerçek öğrenciler için 0,58 iken 0,74 ve medyan uzunluk 167 sözcüğe karşı 304 sözcük. Eğitilen modeller insan puan ve uzunluk dağılımlarını hiçbir uzunluk gözetimi olmadan geri kazandı. Bir şey zor kaldı: otantik düşük yeterlik biçimi. Eğitilen modeller sözdizimini geri kazandı ama çok az yazım ve dilbilgisi hatası yazdı; istem verme ise zayıflığı yüzeysel bozulmayla, aksi halde yetkin düzyazıya serpiştirilmiş yazım hatalarıyla simüle etti.
 
@@ -103,7 +104,7 @@ Yüzeysel gerçekçilik iki yönde de zayıf bir testtir. Körlenmiş bir çalı
 
 ## Bir betimlemenin yeterli olup olmadığını kontrol edin
 
-Bir kohort kurmadan önce daha ucuz seçeneği kontrol edin. Öğrenciler katılmadan önce çevrimiçi bir öğrenme deneyimini değerlendirmek, bırakmayı ve tamamlamayı öngörmek ve tasarım geri bildirimi vermek için dersi baştan sona geçen ve deneyimin zengin bir betimlemesini üreten tek bir "betimleyen" web ajanı, bir öğrenci nüfusunu doğrudan simüle etmeyi geride bıraktı.
+Bir kohort kurmadan önce daha ucuz seçeneği kontrol edin. Öğrenciler katılmadan önce [[online-teaching-and-learning|çevrimiçi bir öğrenme deneyimini]] değerlendirmek, bırakmayı ve tamamlamayı öngörmek ve tasarım geri bildirimi vermek için dersi baştan sona geçen ve deneyimin zengin bir betimlemesini üreten tek bir "betimleyen" web ajanı, bir öğrenci nüfusunu doğrudan simüle etmeyi geride bıraktı.
 
 O karşılaştırmadaki simüle öğrenciler gerçek öğrenenlerden çok daha az davranışsal aralık gösterdi: beş test dersinde 100 ajan boyunca gerçek öğrencilerin izlediği yolların yalnızca yaklaşık %4'ünü yeniden ürettiler, üstelik belirgin biçimde daha fazla hesaplama maliyetiyle. Betimle-sonra-öngör hattı, küresel ölçekli bir CS1 dersinde en iyi bırakma dağılımı öngörüsünü ortalama JSD 0,060 ile elde etti ([[ai-web-agents-lesson-design-2025|Wang, Mitchell ve Piech, 2025]]).
 

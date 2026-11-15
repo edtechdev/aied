@@ -1,6 +1,7 @@
 ---
 title: "YZ Eğitim Araştırmalarına Nasıl Yardımcı Olabilir?"
 created: "2026-10-14T22:55:00-04:00"
+updated: "2026-11-15T16:08:48-05:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -29,7 +30,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ---
 

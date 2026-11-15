@@ -1,7 +1,7 @@
 ---
 title: "AI có thể hỗ trợ người học đa ngôn ngữ mà không đánh giá sai kiến thức hay xóa bỏ tiếng nói của họ như thế nào?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:26:08-05:00"
+updated: "2026-11-15T15:57:48-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
@@ -51,11 +51,11 @@ Hãy viết quyết định đó ra ở nơi sinh viên đọc được. Nếu s
 
 ## Nghiên cứu ủng hộ điều gì, và không ủng hộ điều gì
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez và Arabadzhy (2026)]] xem xét 24 nghiên cứu thực nghiệm về [[conversational-ai|chatbot]] tạo sinh trong [[language-learning|việc học ngôn ngữ]]. Đóng góp của họ mang tính phân loại: mọi tiện ích phụ đã được ghi nhận cho chatbot trước thời tạo sinh vẫn còn, và có ba tiện ích mới, trong đó có **chuyển ngữ**, việc chuyển đổi có chủ đích giữa các ngôn ngữ như một phần của việc học. Đó là một bản đồ các cách dùng và trải nghiệm được báo cáo chứ không phải một ước lượng gộp, và tập nghiên cứu tập trung về mặt địa lý, với Trung Quốc, Iran, Đài Loan và Thổ Nhĩ Kỳ chiếm 19 trong 24 nghiên cứu và gần như toàn bộ diễn ra trong các cơ sở giáo dục chính quy. Bằng chứng ủng hộ việc dùng giải thích xuyên ngôn ngữ như một động tác học tập không phải bằng chứng ủng hộ việc dịch mọi bài tập.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez và Arabadzhy (2026)]] xem xét 24 nghiên cứu thực nghiệm về [[conversational-ai|chatbot]] tạo sinh trong [[language-learning|việc học ngôn ngữ]]. Đóng góp của họ mang tính phân loại: mọi tiện ích phụ đã được ghi nhận cho chatbot trước thời tạo sinh vẫn còn, và có ba tiện ích mới, trong đó có **chuyển ngữ**, việc chuyển đổi có chủ đích giữa các ngôn ngữ như một phần của việc học. Đó là một bản đồ các cách dùng và trải nghiệm được báo cáo chứ không phải một ước lượng gộp, và các nghiên cứu tập trung về mặt địa lý, với Trung Quốc, Iran, Đài Loan và Thổ Nhĩ Kỳ chiếm 19 trong 24 nghiên cứu và gần như toàn bộ diễn ra trong các cơ sở giáo dục chính quy. Bằng chứng ủng hộ việc dùng giải thích xuyên ngôn ngữ như một động tác học tập không phải bằng chứng ủng hộ việc dịch mọi bài tập.
 
 Đánh giá là nơi bằng chứng sắc nét hơn và mức độ hệ trọng tăng lên. [[ai-scoring-language-bias-physics|Feser và Tschisgale (2026)]] so sánh mười một cách chấm tự động với điểm của chuyên gia người trên lời giải thích vật lý của 116 học sinh trung học và phát hiện sự đánh giá thấp có hệ thống đối với hiểu biết khái niệm ở những lời giải thích yếu hơn về ngôn ngữ, trong từng cách tiếp cận một. Thiết kế này cô lập được cơ chế: cùng nội dung khái niệm, diễn đạt bằng văn xuôi yếu hơn, bị chấm thấp hơn. Đây không phải một khẳng định về sinh viên đa ngôn ngữ của một quốc gia cụ thể nào, và nó đúng là mô thức khiến cho mức đồng thuận tổng thể trở thành một phép chẩn đoán tồi. Một hệ thống chấm có thể đồng thuận với người chấm người tính trung bình trong khi sai theo một hướng nhất quán với những sinh viên mà ngôn ngữ còn đang phát triển.
 
-Tổng hợp [[multilingual-learning]] mô tả nghiên cứu sàng lọc bài viết cho thấy những mô thức thiên lệch dự báo ở người đa ngôn ngữ giống với thiên lệch trong chấm điểm của con người. Đọc cả ba phát hiện cùng nhau, bài học vận hành rất hẹp: cả “AI loại bỏ thiên lệch của con người” lẫn “AI thêm thiên lệch ngôn ngữ” đều không phải quy tắc hữu ích. Điều bạn cần là một phép kiểm tra nhiệm vụ, tập người học và ngôn ngữ, tại đúng điểm mà một điểm số trở thành điểm được ghi nhận.
+Tổng hợp về [[multilingual-learning|học tập đa ngôn ngữ]] mô tả nghiên cứu sàng lọc bài viết cho thấy những mô thức thiên lệch dự báo ở người đa ngôn ngữ giống với thiên lệch trong chấm điểm của con người. Đọc cả ba phát hiện cùng nhau, bài học vận hành rất hẹp: cả “AI loại bỏ thiên lệch của con người” lẫn “AI thêm thiên lệch ngôn ngữ” đều không phải quy tắc hữu ích. Điều bạn cần là một phép kiểm tra nhiệm vụ, tập người học và ngôn ngữ, tại đúng điểm mà một điểm số trở thành điểm được ghi nhận.
 
 ## Cho công cụ một vai trò hỗ trợ cụ thể
 
@@ -73,7 +73,7 @@ Khi sửa bài viết, hãy yêu cầu một vài vấn đề được gọi tê
 
 ## Bảo vệ ý nghĩa và tiếng nói của sinh viên
 
-Hãy yêu cầu hỗ trợ có trọng tâm trước khi yêu cầu viết lại, vì một lần viết lại toàn bộ là chỗ tư duy của sinh viên rời khỏi trang giấy. Một yêu cầu đáng được dạy: “Chỉ ra hai chỗ ý của tôi chưa rõ. Giải thích vấn đề và đưa ra các lựa chọn. Giữ nguyên ví dụ của tôi và đừng thêm khẳng định nào.” Sau đó sinh viên chọn.
+Hãy yêu cầu hỗ trợ có trọng tâm trước khi yêu cầu viết lại, vì một lần viết lại toàn bộ là chỗ tư duy của sinh viên rời khỏi bản nháp. Một yêu cầu đáng được dạy: “Chỉ ra hai chỗ ý của tôi chưa rõ. Giải thích vấn đề và đưa ra các lựa chọn. Giữ nguyên ví dụ của tôi và đừng thêm khẳng định nào.” Sau đó sinh viên chọn.
 
 Một trình tự giữ công việc ở phía sinh viên:
 
@@ -120,6 +120,6 @@ Cung cấp những phương án thay thế khả thi. Sinh viên cần một con
 
 ## Đi tiếp từ đây
 
-[[multilingual-learning]] là trang khái niệm về ngôn ngữ, chuyển ngữ và đánh giá trong việc dạy học qua trung gian AI, còn [[assessment-validity|tính hợp lệ của đánh giá]] là chuẩn mực cho việc một điểm số có ủng hộ suy luận bạn đang đưa ra hay không. [[differential-effects-across-learner-groups]] bao quát cách tìm các mô thức theo nhóm thay vì giả định chúng.
+[[multilingual-learning|Học tập đa ngôn ngữ]] là trang khái niệm về ngôn ngữ, chuyển ngữ và đánh giá trong việc dạy học qua trung gian AI, còn [[assessment-validity|tính hợp lệ của đánh giá]] là chuẩn mực cho việc một điểm số có ủng hộ suy luận bạn đang đưa ra hay không. [[differential-effects-across-learner-groups|hiệu ứng khác biệt giữa các nhóm người học]] bao quát cách tìm các mô thức theo nhóm thay vì giả định chúng.
 
 Với trường hợp dạy viết, nơi ngôn ngữ chính là cấu trúc cần đo, xem [[writing-instruction-ai-best-practices|những thực hành tốt nhất cho việc dạy viết]]. Về việc chấm tự động có thể được tin cậy hay không trong bối cảnh của bạn, xem [[ai-grading-fairness-reliability|chấm bài bằng AI]] và [[checking-whether-educational-ai-works|kiểm tra xem một hệ thống AI giáo dục có hiệu quả không]].

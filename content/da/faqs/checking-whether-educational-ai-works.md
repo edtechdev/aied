@@ -1,7 +1,7 @@
 ---
 title: "Hvordan ved vi, at en pædagogisk AI fungerer korrekt og ikke bare scorer godt?"
 created: "2026-10-02T08:07:09-04:00"
-connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
 foundations: [ai-education]
@@ -14,9 +14,9 @@ discipline: [writing education, math education]
 confidence: high
 methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
-updated: "2026-10-29T12:23:33-04:00"
+updated: "2026-11-15T16:01:30-05:00"
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -58,15 +58,15 @@ Assistenten til kurset i lineære styresystemer rapporterer det rigtigt. Dens be
 
 ## Scor hvert output separat
 
-I WrAFT-projektet nåede en finjusteret model en enighedsscore på **0,84** med menneskelige bedømmere på tværs af 360 tilbageholdte TOEFL-opgaver. Det er et stærkt resultat for bedømmelse. Samme projekts model, trænet til at skrive feedback, producerede output, der var afkortet og ikke kunne parses, mens det blot at prompte en anden model gav feedback, som lærerne foretrak ([[wraft-automated-writing-evaluation-argumentative-2026]]).
+I WrAFT-projektet nåede en finjusteret model en enighedsscore på **0,84** med menneskelige bedømmere på tværs af 360 tilbageholdte TOEFL-opgaver. Det er et stærkt resultat for bedømmelse. Samme projekts model, trænet til at skrive feedback, producerede output, der var afkortet og ikke kunne parses, mens det blot at [[prompt-engineering|prompte]] en anden model gav feedback, som lærerne foretrak ([[wraft-automated-writing-evaluation-argumentative-2026]]).
 
-Vidensbasen bærer den samme fejl i en anden form: en udrulning, hvis bedømmelsesmodul scorede godt, og hvis feedback ankom afskåret midt i en sætning og ulæselig. Intet i overskriftstallet sagde det.
+Den samme fejl viser sig i en anden form: en udrulning, hvis bedømmelsesmodul scorede godt, og hvis feedback ankom afskåret midt i en sætning og ulæselig. Intet i overskriftstallet sagde det.
 
 Så list de outputs, dit system producerer, og giv hvert af dem sit eget mål og sin egen beståelsesbetingelse. Bedømmelse, feedbacktekst, hintvalg og sikkerhedsafvisninger fejler på forskellige måder, og en score på modulniveau kan ikke se ud over sit eget modul.
 
 ## Sæt et menneske der, hvor modellen er usikker
 
-En korrelation fortæller dig, at modellen som regel har ret. Den fortæller dig ikke, hvad du skal gøre i de tilfælde, hvor den ikke har. Resultatet med konfidensbaseret routing er den reneste skabelon i vidensbasen, og den er kort nok til at kopiere.
+En korrelation fortæller dig, at modellen som regel har ret. Den fortæller dig ikke, hvad du skal gøre i de tilfælde, hvor den ikke har. Resultatet med konfidensbaseret routing er den reneste skabelon i evidensen, og den er kort nok til at kopiere.
 
 Konfidens viste sig at være et pålideligt advarselstegn: når modellen var usikker, var den mere tilbøjelig til at tage fejl (**β = -0,602, p < 0,001**). Holdet sendte de mindst sikre **20 %** af svarene til et menneske. Den ene regel hævede enigheden med menneskelige karakterer fra **0,78 til 0,82** og skar det manuelle bedømmelsesarbejde med omkring **80 %** ([[know-when-to-trust-ai-scoring-reliability-2026]]).
 
@@ -84,13 +84,13 @@ Praktisk version: tag en stikprøve på omkring halvtreds outputs, lad en person
 
 Den reneste løsning er at træne modellen på den samme størrelse, du har tænkt dig at måle. En finjusteret model blev trænet til at genskabe testopgavers statistiske egenskaber: hvor svær hver opgave er, hvor godt den skelner stærkere fra svagere studerende. Den lærte de mønstre i stedet for at få dem fortalt ([[multimodal-item-parameter-estimation-2026]]). Fordi målet var en egenskab ved selve bedømmelsen, kunne evalueringen handle om den egenskab i stedet for om ordlyd.
 
-Rapportér udviklingen såvel som slutpunktet. SWIM's skrivesimulator offentliggjorde hvert trins score side om side: rubrikbaseret prompting **0,577**, finjustering **0,474 ± 0,023**, reinforcement learning **0,618 ± 0,005** ([[swim-student-writing-simulation-2026]]). En læser kan se ud fra den tabel, om træningen gjorde noget. Et enkelt sluttal kan ikke fortælle dem det, og det skjuler et trin, hvor den finjusterede model gjorde det dårligere end prompten.
+Rapportér udviklingen såvel som slutpunktet. SWIM's skrive[[simulation|simulator]] offentliggjorde hvert trins score side om side: rubrikbaseret prompting **0,577**, finjustering **0,474 ± 0,023**, [[reinforcement-learning|reinforcement learning]] **0,618 ± 0,005** ([[swim-student-writing-simulation-2026]]). En læser kan se ud fra den tabel, om træningen gjorde noget. Et enkelt sluttal kan ikke fortælle dem det, og det skjuler et trin, hvor den finjusterede model gjorde det dårligere end prompten.
 
 ## Sammenlign med noget uden for dit projekt
 
 Få en baseline først, også en billig. Kursusassistentens model uden forankring scorede under en almindelig søgning på nøgleord, hvilket er den slags resultat, der ændrer køreplanen og koster en dag at finde.
 
-En ekstern benchmark fortæller dig derefter, om dit tal overhovedet er noget værd. På CDPK-pædagogikbenchmarken nåede EduQwen **96,52 %** mod Gemini-3 Pro's **90,55 %** ([[singh-eduqwen-pedagogical-rl-2026]]). Pedagogy Benchmark, bygget på rigtige læreres efteruddannelseseksamener og dækkende **97 modeller**, fandt nøjagtighed fra **28 % til 89 %** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
+En ekstern benchmark fortæller dig derefter, om dit tal overhovedet er noget værd. På CDPK-[[pedagogy|pædagogik]]benchmarken nåede EduQwen **96,52 %** mod Gemini-3 Pro's **90,55 %** ([[singh-eduqwen-pedagogical-rl-2026]]). Pedagogy Benchmark, bygget på rigtige [[teacher-role|læreres]] efteruddannelseseksamener og dækkende **97 modeller**, fandt nøjagtighed fra **28 % til 89 %** ([[cdpk-pedagogy-benchmark-llms|Lelièvre et al., 2025]]).
 
 På en opgave om undervisning spændte modellerne fra dårlige til gode, så et benchmarkresultat placerer dit system et sted inde i et bredt interval.
 
@@ -102,9 +102,9 @@ Kør tjekket på tværs af hele samtaler, og skriv testturene med vilje: den stu
 
 ## Tjek den simulerede studerende, før du stoler på den
 
-At generere simulerede studerende i stedet for at rekruttere rigtige gør evaluering langt billigere. En simuleret studerende er også et måleinstrument, og det kan tage fejl på de måder, instrumenter tager fejl: for samarbejdsvillig, for flydende, for hurtig til at acceptere et hint.
+At generere [[simulating-students|simulerede studerende]] i stedet for at rekruttere rigtige gør evaluering langt billigere. En simuleret studerende er også et måleinstrument, og det kan tage fejl på de måder, instrumenter tager fejl: for samarbejdsvillig, for flydende, for hurtig til at acceptere et hint.
 
-Den mest direkte test i vidensbasen benchmarkede simulerede studerende og promptstyrede studerende mod **382 tilbageholdte dialoger** fra den største offentlige samling af rigtige matematikdialoger mellem studerende og tutor, med syv mål, der dækkede sprog, adfærd og tænkning ([[simulated-students-tutoring-dialogues-2026]]). Andet arbejde presser på for realismen fra andre vinkler: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] træner modeller til både at handle og tænke som studerende, og historiebevidste profiler betinger simulationen på en studerendes fortid snarere end en fast persona ([[history-aware-student-simulation]]).
+Den mest direkte test i evidensen benchmarkede simulerede studerende og promptstyrede studerende mod **382 tilbageholdte dialoger** fra den største offentlige samling af rigtige matematikdialoger mellem studerende og tutor, med syv mål, der dækkede sprog, adfærd og tænkning ([[simulated-students-tutoring-dialogues-2026]]). Andet arbejde presser på for realismen fra andre vinkler: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] træner modeller til både at handle og tænke som studerende, og historiebevidste profiler betinger simulationen på en studerendes fortid snarere end en fast persona ([[history-aware-student-simulation]]).
 
 Hvis dit testapparat er en simuleret studerende, skal du validere simulatoren mod rigtige transskriptioner, før du lader den bedømme din tutor.
 

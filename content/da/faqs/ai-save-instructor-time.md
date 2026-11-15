@@ -6,9 +6,9 @@ weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-updated: "2026-10-29T12:23:32-04:00"
+updated: "2026-11-15T16:01:30-05:00"
 translation_of: faqs/ai-save-instructor-time
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Bundlinjen til mødet: aflevér førsteudkastet og behold vurderingen. Lektionsp
 
 ## Start med arbejde, du alligevel ville omskrive
 
-Det stærkeste tal i denne vidensbase kommer fra en [[rct|randomiseret undersøgelse]], opsummeret i [[ai-changing-teaching-workflows|hvordan AI ændrer undervisningens arbejdsgange]]. 259 naturfagslærere, der brugte ChatGPT, brugte omkring 69 % så meget tid på lektionsforberedelse som kontrolgruppen, en reduktion på cirka 31 %, og blinde ekspertbedømmere fandt intet påviseligt kvalitetstab. Lærerne omfordelte tiden i stedet for at lægge den i banken og flyttede den over i planlægning, retning og studenterrettet arbejde.
+Det stærkeste tal kommer fra en [[rct|randomiseret undersøgelse]], opsummeret i [[ai-changing-teaching-workflows|hvordan AI ændrer undervisningens arbejdsgange]]. 259 [[k-12|K-12]]-lærere i naturfag, der brugte ChatGPT, brugte omkring 69 % så meget tid på lektionsforberedelse som kontrolgruppen, en reduktion på cirka 31 %, og blinde ekspertbedømmere fandt intet påviseligt kvalitetstab. Lærerne omfordelte tiden i stedet for at lægge den i banken og flyttede den over i planlægning, retning og studenterrettet arbejde.
 
 Et andet datasæt i samme arbejde, mere end 104.000 beskeder fra over 15.000 undervisere, viser, hvorfor besparelsen lander på mærkelige steder. Den gennemsnitlige prompt berører 1,7 kategorier på én gang, så en enkelt anmodning om en lektionsplan kommer tilbage med differentiering og en quiz, som læreren ikke havde tænkt på at bede om.
 
@@ -50,7 +50,7 @@ Det er omfordeling snarere end reduktion: det, du vinder ved [[generative-ai|gen
 
 Kvaliteten er ujævn i et mønster, der er stabilt nok til at planlægge efter. Blinde bedømmere foretrak AI-versioner af lektionsafslutninger og exit tickets i 59,7 % af tilfældene frem for materiale designet af fagfolk og foretrak AI-materiale til gymnasieindhold i 59,2 % af tilfældene. Besparelsen vokser også, hvor din sikkerhed er lavest: at undervise uden for sit eget fag er det tilfælde med det største gab mellem det, værktøjet giver dig, og det, du selv ville have skrevet.
 
-To kategorier går den anden vej. På materiale til indskolingsniveau blev mennesker foretrukket omkring 65 % af tiden for udviklingsmæssig hensigtsmæssighed. Målrettet [[scaffolding|støttestrukturer]] til [[multilingual-learning|flersprogede]] elever og elever i [[special-education|specialundervisning]] kom tilbage neutralt snarere end forkert, hvilket er værre, end det lyder, fordi en neutral stilladsning er en, du genopbygger fra bunden.
+To kategorier går den anden vej. På materiale til indskolingsniveau blev mennesker foretrukket omkring 65 % af tiden for udviklingsmæssig hensigtsmæssighed. Målrettet [[scaffolding|støttestrukturer]] til [[multilingual-learning|flersprogede]] [[learners|elever og studerende]] i [[special-education|specialundervisning]] kom tilbage neutralt snarere end forkert, hvilket er værre, end det lyder, fordi en neutral stilladsning er en, du genopbygger fra bunden.
 
 Testen, der forudsiger dette, før du bruger en aften på det: kan du formulere specifikationen præcist nok til at tjekke outputtet? Et exit ticket om ét mål, ja. Om et afsnit passer til en bestemt niårig, der læser to år under sin klasse, nej.
 

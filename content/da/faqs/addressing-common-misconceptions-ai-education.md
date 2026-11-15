@@ -1,7 +1,7 @@
 ---
 title: "Hvordan kan vi håndtere almindelige misforståelser om AI i uddannelse?"
 created: "2026-09-04T04:39:00-04:00"
-connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
+connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]
 technology: [prompt-engineering]
@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:01:30-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -26,7 +26,7 @@ ai_assist:
 
 Din prorektor vil have et ark med »AI-myter« på én side til forårets personalemøde. Eller et bestyrelsesmedlem har læst, at chatbots ødelægger den kritiske tænkning, og vil have en holdning inden fredag. Eller du er den person, der skriftligt skal forklare, hvorfor instituttet ikke bare forbyder værktøjet, og du er løbet tør for måder at sige, at et forbud ikke er en pædagogik.
 
-Enhver overbevisning på denne side starter med noget, en rimelig person har set. Flydende prosa læser faktisk som korrekt. En poleret aflevering ligner faktisk læring. En vejleder, der svarer på spørgsmålet, føles faktisk som hjælp, og en politik med ordet »forbudt« i føles faktisk som en beslutning. Den korrektion, der virker, navngiver, hvad observationen ikke kan fortælle dig, og rækker derefter en kontrol over, som personen kan køre på mandag.
+Hver af disse overbevisninger starter med noget, en rimelig person har set. Flydende prosa læser faktisk som korrekt. En poleret aflevering ligner faktisk læring. En vejleder, der svarer på spørgsmålet, føles faktisk som hjælp, og en politik med ordet »forbudt« i føles faktisk som en beslutning. Den korrektion, der virker, navngiver, hvad observationen ikke kan fortælle dig, og rækker derefter en kontrol over, som personen kan køre på mandag.
 
 Svaret, du kan give en kollega i ét åndedrag: AI'ens uddannelsesmæssige effekt afhænger af, hvem der bruger den, til hvilken opgave, hvilken tænkning værktøjet udfører, hvilket ansvar der bliver hos personen, og hvordan læringen bliver evalueret. Selvtillid, hastighed, engagement og opgavefærdiggørelse er træk ved brugen. Ingen af dem er bevis på, at kapaciteten ændrede sig.
 
@@ -44,7 +44,7 @@ Svaret, du kan give en kollega i ét åndedrag: AI'ens uddannelsesmæssige effek
 
 ## Afgør, hvad der tæller som bevis på, at læring fandt sted
 
-Fem overbevisninger afgør, om resten af denne side betyder noget. Hver af dem tager et ægte signal og læser en konklusion ind i det, som signalet ikke kan bære.
+Fem overbevisninger afgør, om resten af argumentet betyder noget. Hver af dem tager et ægte signal og læser en konklusion ind i det, som signalet ikke kan bære.
 
 ### »De klarede sig bedre med værktøjet åbent, så de lærte mere.«
 
@@ -62,11 +62,11 @@ Gennemsnit skjuler netop den variation, der afgør et ligestillingsspørgsmål. 
 
 ### »De rapporterede, at de lærte meget.«
 
-[[self-report-measures|Selvrapportering]] måler opfattelse, accept, [[anxiety-and-stress|angst]] og [[self-efficacy]], og den er god til alle fire. Den er ikke en måling af demonstreret kapacitet, fordi folk kan være sikre og tage fejl eller dygtige og underselvsikre. Wikiens syntese af forskning i læreres AI-kompetence rapporterer et betydeligt gab mellem [[self-assessment|selvurdering]] og målt præstation, og underviserne i den overvurderede deres kompetence betydeligt ([[ai-literacy-assessment-misalignment|AI-kompetencevurdering: selvrapportering kontra præstationsmåling]]). Sæt altid en opgave sammen med enhver selvrapportering: identificér en fejl i et output, verificér en kilde, vælg en brugsstrategi, find bias eller sykofanti, revidér et fejlbehæftet svar, kalibrér selvtillid mod nøjagtighed. Ét sådant element i en undersøgelse forvandler en mening til et resultat.
+[[self-report-measures|Selvrapportering]] måler opfattelse, accept, [[anxiety-and-stress|angst]] og [[self-efficacy]], og den er god til alle fire. Den er ikke en måling af demonstreret kapacitet, fordi folk kan være sikre og tage fejl eller dygtige og underselvsikre. En syntese af forskning i læreres AI-kompetence rapporterer et betydeligt gab mellem [[self-assessment|selvurdering]] og målt præstation, og underviserne i den overvurderede deres kompetence betydeligt ([[ai-literacy-assessment-misalignment|AI-kompetencevurdering: selvrapportering kontra præstationsmåling]]). Sæt altid en opgave sammen med enhver selvrapportering: identificér en fejl i et output, verificér en kilde, vælg en brugsstrategi, find bias eller sykofanti, revidér et fejlbehæftet svar, kalibrér selvtillid mod nøjagtighed. Ét sådant element i en undersøgelse forvandler en mening til et resultat.
 
 ### »En simuleret studerende er en billig erstatning for en rigtig.«
 
-Simulering er nyttig til prototyping, stresstest og generering af scenarier, og den er ikke evidens om menneskelig læring, før den er valideret mod mennesker. En model kan efterligne forvirringens sprog uden den lærendes vedholdenhed, motivation, forudgående viden, følelser eller udviklingsforløb, og forskningen, der er opsummeret i wikiens vidensbase, fandt simulerede studerende, der opgav en pålagt misforståelse efter minimal korrektion, hvilket rejser tvivl om, hvorvidt de overhovedet repræsenterer begrebsmæssig forandring ([[simulating-students|Simulering af studerende]], [[llm-student-simulation-misconception-faithfulness|Simulering af studerende eller sykofantisk problemløsning?]]). Brug dem til at finde fejlene i din prompt, før rigtige studerende møder den, og behandl derefter enhver påstand om lærende som uvalideret.
+Simulering er nyttig til prototyping, stresstest og generering af scenarier, og den er ikke evidens om menneskelig læring, før den er valideret mod mennesker. En model kan efterligne forvirringens sprog uden den lærendes vedholdenhed, motivation, forudgående viden, følelser eller udviklingsforløb, og forskningen fandt simulerede studerende, der opgav en pålagt misforståelse efter minimal korrektion, hvilket rejser tvivl om, hvorvidt de overhovedet repræsenterer begrebsmæssig forandring ([[simulating-students|Simulering af studerende]], [[llm-student-simulation-misconception-faithfulness|Simulering af studerende eller sykofantisk problemløsning?]]). Brug dem til at finde fejlene i din prompt, før rigtige studerende møder den, og behandl derefter enhver påstand om lærende som uvalideret.
 
 ## Sæt AI-betingelsen ved det trin, der bærer læringen
 
@@ -140,7 +140,7 @@ Pålidelighed er konsistens, validitet er, om fortolkningen og brugen af scoren 
 
 ### »Én velopdragen samtale viser, at vejlederen er sikker.«
 
-Uddannelsesmæssige skader akkumuleres over en interaktion. Et system kan svare passende på én prompt og derefter, over flere ture, begynde at levere svar, forstærke en misforståelse, opmuntre til afhængighed eller drive ud af sin vejlederrolle. SafeTutors-benchmarken, der er opsummeret i wikiens vidensbase, fandt pædagogiske skadefejl, der steg skarpt, når systemer blev evalueret over flere ture i stedet for en enkelt udveksling ([[hazra-safetutors-pedagogical-safety-2026|AI-vejledersikkerhed og pædagogiske skader]]). Kræv vedvarende samtaler, gentagne studerendefejl, forsøg på direkte svar, følelsesmæssige og relationelle scenarier, adversarisk promptning og en måling af afhængighed over tid. Benchmarkevidens af denne type er ikke et estimat for læring i klasseværelset, og det er det minimum, en sikkerhedspåstand bør hvile på.
+Uddannelsesmæssige skader akkumuleres over en interaktion. Et system kan svare passende på én prompt og derefter, over flere ture, begynde at levere svar, forstærke en misforståelse, opmuntre til afhængighed eller drive ud af sin vejlederrolle. SafeTutors-benchmarken fandt pædagogiske skadefejl, der steg skarpt, når systemer blev evalueret over flere ture i stedet for en enkelt udveksling ([[hazra-safetutors-pedagogical-safety-2026|AI-vejledersikkerhed og pædagogiske skader]]). Kræv vedvarende samtaler, gentagne studerendefejl, forsøg på direkte svar, følelsesmæssige og relationelle scenarier, adversarisk promptning og en måling af afhængighed over tid. Benchmarkevidens af denne type er ikke et estimat for læring i klasseværelset, og det er det minimum, en sikkerhedspåstand bør hvile på.
 
 ### »Menneskelig gennemgang er en midlertidig lap, indtil modellerne bliver bedre.«
 
@@ -172,7 +172,7 @@ Det demonstrerer præstationen af en person plus et værktøj. Kompetence viser 
 
 ### »AI-kompetence betyder at kunne skrive en god prompt.«
 
-Promptning er én operationel færdighed. Det omfang, der betyder noget for en lærer eller en medarbejder, er bredere: hvad [[ai-technologies|AI-systemer]] kan og ikke kan gøre pålideligt, hvordan man evaluerer nøjagtighed og bias, hvordan AI påvirker bedømmelsesvaliditet, hvornår udlicitering bliver fortrængning, kravene til privatliv og tilgængelighed, hvordan brug passer ind i faget, og hvornår man slet ikke skal bruge det. Wikiens syntese fandt, at lærere betydeligt overvurderede deres AI-kompetence, når selvrapporteringer blev sammenlignet med præstationsmålinger, og at demonstreret kompetence forudsagde integration i undervisningen langt bedre end selvtillid gjorde ([[ai-literacy-assessment-misalignment|AI-kompetencevurdering: selvrapportering kontra præstationsmåling]]). Promptteknikker ældes også hurtigere end dømmekraft. Undervis i [[prompt-engineering|prompt engineering]] som en færdighed, og bedøm [[teacher-ai-competency|læreres AI-kompetence]] som den bredere.
+Promptning er én operationel færdighed. Det omfang, der betyder noget for en lærer eller en medarbejder, er bredere: hvad [[ai-technologies|AI-systemer]] kan og ikke kan gøre pålideligt, hvordan man evaluerer nøjagtighed og bias, hvordan AI påvirker bedømmelsesvaliditet, hvornår udlicitering bliver fortrængning, kravene til privatliv og tilgængelighed, hvordan brug passer ind i faget, og hvornår man slet ikke skal bruge det. Syntesen fandt, at lærere betydeligt overvurderede deres AI-kompetence, når selvrapporteringer blev sammenlignet med præstationsmålinger, og at demonstreret kompetence forudsagde integration i undervisningen langt bedre end selvtillid gjorde ([[ai-literacy-assessment-misalignment|AI-kompetencevurdering: selvrapportering kontra præstationsmåling]]). Promptteknikker ældes også hurtigere end dømmekraft. Undervis i [[prompt-engineering|prompt engineering]] som en færdighed, og bedøm [[teacher-ai-competency|læreres AI-kompetence]] som den bredere.
 
 ### »Grundlæggende faglig viden er forældet, fordi AI kan hente den.«
 
@@ -200,7 +200,7 @@ Output er promptfølsomt og ofte ikke-deterministisk, så små ændringer i form
 
 ### »Unge er allerede AI-kompetente, fordi de er digitale indfødte.«
 
-Fortrolighed med digitale produkter er ikke evnen til at evaluere AI. En studerende kan åbne en chatbot, generere et billede og bede om et svar og samtidig være ude af stand til at verificere en påstand, finde opdigtet evidens, opdage bias eller sykofanti, beskytte personlige oplysninger, beslutte hvad der ikke skal uddelegeres eller forklare, hvordan AI formede arbejdet. Wikiens vidensbase opsummerer forskning, hvor selvtillid med hverdagsteknologi ikke overførtes til algoritmisk ræsonnement, teknologisk skabelse eller kritisk evaluering af AI ([[digital-literacy-illusion|kompetenceillusionen]]). Kompetence bliver undervist og demonstreret; alder og brugshyppighed giver den ikke.
+Fortrolighed med digitale produkter er ikke evnen til at evaluere AI. En studerende kan åbne en chatbot, generere et billede og bede om et svar og samtidig være ude af stand til at verificere en påstand, finde opdigtet evidens, opdage bias eller sykofanti, beskytte personlige oplysninger, beslutte hvad der ikke skal uddelegeres eller forklare, hvordan AI formede arbejdet. Forskningen viser, at selvtillid med hverdagsteknologi ikke overførtes til algoritmisk ræsonnement, teknologisk skabelse eller kritisk evaluering af AI ([[digital-literacy-illusion|kompetenceillusionen]]). Kompetence bliver undervist og demonstreret; alder og brugshyppighed giver den ikke.
 
 ### »Studerende, der bruger AI, er dovne eller uærlige.«
 

@@ -6,9 +6,9 @@ weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-updated: "2026-10-29T16:56:07-04:00"
+updated: "2026-11-15T16:04:40-05:00"
 translation_of: faqs/ai-save-instructor-time
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -50,7 +50,7 @@ Một bộ dữ liệu thứ hai trong cùng công trình, hơn 104,000 tin nh�
 
 Chất lượng thì không đồng đều, theo một khuôn mẫu đủ ổn định để lập kế hoạch dựa vào. Những người đánh giá mù thích các phiên bản AI của phần kết bài giảng và phiếu cuối tiết trong 59.7% số lần so với tài liệu do chuyên gia thiết kế, và thích tài liệu AI cho nội dung bậc trung học phổ thông trong 59.2% số lần. Khoản tiết kiệm cũng tăng lên ở nơi sự tự tin của bạn thấp nhất: dạy ngoài môn học của mình là trường hợp có khoảng cách rộng nhất giữa thứ công cụ đưa cho bạn và thứ bạn sẽ tự viết.
 
-Hai loại thì đi ngược lại. Với tài liệu bậc tiểu học, con người được ưa thích trong khoảng 65% số lần vì mức phù hợp với sự phát triển. Các [[scaffolding|giàn giáo]] nhắm riêng cho người học [[multilingual-learning|đa ngôn ngữ]] và học sinh trong [[special-education|giáo dục đặc biệt]] quay về ở mức trung tính chứ không sai, điều đó tệ hơn nghe có vẻ, vì một giàn giáo trung tính là thứ bạn phải dựng lại từ đầu.
+Hai loại thì đi ngược lại. Với tài liệu bậc tiểu học, con người được ưa thích trong khoảng 65% số lần vì mức phù hợp với sự phát triển. Các [[scaffolding|giàn giáo]] nhắm riêng cho [[learners|người học]] [[multilingual-learning|đa ngữ]] và học sinh trong [[special-education|giáo dục đặc biệt]] quay về ở mức trung tính chứ không sai, điều đó tệ hơn nghe có vẻ, vì một giàn giáo trung tính là thứ bạn phải dựng lại từ đầu.
 
 Phép thử dự báo được điều này trước khi bạn mất cả buổi tối cho nó: bạn có đặc tả được yêu cầu đủ chính xác để kiểm tra đầu ra không? Một phiếu cuối tiết cho một mục tiêu thì có. Một đoạn văn có phù hợp với một em chín tuổi cụ thể đang đọc chậm hơn lớp hai năm hay không thì không.
 
@@ -80,7 +80,7 @@ Bạn có thể dùng [[automated-essay-scoring|chấm điểm bài luận tự 
 
 ## Giảng viên hiểu sai điều gì
 
-**“31% là con số của tôi.”** Đó là 259 giáo viên [[science-education|khoa học]] phổ thông về việc soạn bài. Hướng thì đi được; độ lớn thì không. Một seminar xây trên thảo luận có thể tiết kiệm ít hơn, và một khóa thí nghiệm có ràng buộc an toàn có thể không tiết kiệm gì ở phần bạn muốn được giúp nhất.
+**“31% là con số của tôi.”** Đó là 259 giáo viên [[k-12|phổ thông]] [[science-education|khoa học]] về việc soạn bài. Hướng thì đi được; độ lớn thì không. Một seminar xây trên thảo luận có thể tiết kiệm ít hơn, và một khóa thí nghiệm có ràng buộc an toàn có thể không tiết kiệm gì ở phần bạn muốn được giúp nhất.
 
 **“Tiết kiệm thời gian là mục tiêu.”** Thực nghiệm ở Brazil là phản ví dụ. Giờ đến miễn phí và nhóm tứ phân vị thấp nhất không nhận được gì. Mục tiêu là thứ mà số giờ đó mua được.
 

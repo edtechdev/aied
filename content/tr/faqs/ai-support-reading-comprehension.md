@@ -10,9 +10,9 @@ technology: [educational-nlp, generative-ai, llm]
 ethics: [accessibility]
 audience: [instructors, curriculum designers, instructional designers]
 level: [higher ed, secondary, primary education]
-updated: "2026-11-08T04:27:05-05:00"
+updated: "2026-11-15T16:08:48-05:00"
 translation_of: "faqs/ai-support-reading-comprehension"
-source_updated: "2026-11-06T02:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Herhangi bir ders veriyorsanız okumalar seçer, metinleri uyarlar ve bir kayna�
 
 **Metinleri ölçekte bulun ve uyarlayın.** YZ; kaynak bulma, kelime dağarcığını basitleştirme, sözlükçe üretme ve bir pasajı [[study-with-ai|çalışma kılavuzuna veya özete]] dönüştürme konusunda güçlüdür. Bunu okuma hazırlığının mekanik kısımları için kullanın — tarama, düzeyleme, kilit terimleri çıkarma — ve önemli olan şeyde insan kontrolünü elinizde tutun.
 
-**Metni değil okuyucuyu modelleyin.** Okuyucu değişkenleri bir metnin ne kadar zor hissettirdiğine dair sinyalin büyük kısmını taşıdığı için, okuyucuyu profilleen araçlar algılanan zorluğu herhangi bir formülden daha iyi tahmin eder. Bilgi tabanının en büyük çalışmasında 193 Alman lise öğrencisi 3.954 cümleyi derecelendirdi ve profile dayalı modeller (en iyi topluluk RMSE 0,822, ortalama taban çizgisi 1,070) metinlerin Flesch puanlarını yendi; Flesch, aynı materyali öğrencilerin deneyimlediğinden çok daha zor olarak derecelendirmişti — notların %72,8'i kolay veya çok kolaydı ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck ve Conrad, 2025]]). Pratik versiyonu: birkaç öğrencinin bir pasaj hakkındaki derecelendirmesi herhangi bir formülün etiketini yener.
+**Metni değil okuyucuyu modelleyin.** Okuyucu değişkenleri bir metnin ne kadar zor hissettirdiğine dair sinyalin büyük kısmını taşıdığı için, okuyucuyu profilleen araçlar algılanan zorluğu herhangi bir formülden daha iyi tahmin eder. Bu literatürdeki en büyük çalışmada 193 Alman lise öğrencisi 3.954 cümleyi derecelendirdi ve profile dayalı modeller (en iyi topluluk RMSE 0,822, ortalama taban çizgisi 1,070) metinlerin Flesch puanlarını yendi; Flesch, aynı materyali öğrencilerin deneyimlediğinden çok daha zor olarak derecelendirmişti — notların %72,8'i kolay veya çok kolaydı ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck ve Conrad, 2025]]). Pratik versiyonu: birkaç öğrencinin bir pasaj hakkındaki derecelendirmesi herhangi bir formülün etiketini yener.
 
 ## YZ'nin yetersiz kaldığı yerler
 

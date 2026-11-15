@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:56:49-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,8 @@ Umpan balik teman sebaya memperoleh tempatnya sendiri dalam urutan itu. [[scaffo
 
 Keunggulan Gu et al. kecil, dan mereka membacanya sebagai nyata tetapi tidak transformatif dengan sendirinya. Perancah guru, pedoman prompt, dan lembar kerja melakukan kerja pendukungnya.
 
+Sumber umpan baliknya mungkin kurang penting daripada waktunya. Pada 391 siswa sekolah menengah Jerman, umpan balik yang ditulis guru dan umpan balik LLM tidak menghasilkan perbedaan signifikan dalam revisi, tulisan berikutnya, waktu mengerjakan tugas, atau persepsi; posterior Bayesian cenderung ke umpan balik guru pada tulisan berikutnya tetapi menyisakan seperempat hingga dua perlima massa di dalam wilayah ekuivalensi, dan hanya umpan balik AI yang segera yang memperoleh penilaian kegunaan dan motivasi yang lebih baik ([[meyer-teacher-ai-feedback-writing-2026|Meyer dkk., 2026]]). Jika komentar putaran pertama dapat tiba saat siswa masih merevisi, waktu itu adalah bagian dari rancangan yang melakukan kerjanya.
+
 ## Berikan rubrik kepada model, lalu minta ia menunjukkan langkahnya
 
 Pembuatan yang merujuk rubrik adalah bagian yang dapat diotomasi.
@@ -92,7 +94,7 @@ Aldino et al. menemukan pola bantu-lalu-verifikasi yang sama dalam praktik biasa
 
 Dua belas dari 21 guru Aldino et al. membuat revisi tingkat kalimat lebih lanjut, dan pola dominannya adalah mengalibrasi nada: menurunkan pujian (f = 11), menghapus saran (f = 9), menghapus dorongan (f = 8). Revisi terpusat pada dimensi relasional, terutama Student-Teacher Relationship (f = 24). Mereka melindungi keaslian dan suara profesional, dan pekerjaan itu tidak dapat diotomasi.
 
-Siswa adalah sisi lain dari verifikasi itu, dan gambaran mereka tentang pembagian kerja mendekati yang disarankan halaman ini. Dalam kelompok fokus 20 mahasiswa sarjana, umpan balik guru dihargai karena bersifat relasional, personal, dan digerakkan oleh keahlian, sedangkan umpan balik yang dihasilkan AI terasa impersonal dan berpotensi tidak adil; mahasiswa yang sama terbuka pada model hibrid di mana guru membaca karya mereka dan melengkapi komentar model ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). Studi yang sama menemukan bahwa penilaian mereka sejalan dengan penilaian ChatGPT pada kekhususan dan keterlaksanaan tetapi berbeda pada ketepatan waktu dan positivitas, sehingga dimensi tempat putusan model itu sendiri dapat dipercaya lebih sempit daripada rubrik secara keseluruhan.
+Siswa adalah sisi lain dari verifikasi itu, dan gambaran mereka tentang pembagian kerja mendekati yang disarankan. Dalam kelompok fokus 20 mahasiswa sarjana, umpan balik guru dihargai karena bersifat relasional, personal, dan digerakkan oleh keahlian, sedangkan umpan balik yang dihasilkan AI terasa impersonal dan berpotensi tidak adil; mahasiswa yang sama terbuka pada model hibrid di mana guru membaca karya mereka dan melengkapi komentar model ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). Studi yang sama menemukan bahwa penilaian mereka sejalan dengan penilaian ChatGPT pada kekhususan dan keterlaksanaan tetapi berbeda pada ketepatan waktu dan positivitas, sehingga dimensi tempat putusan model itu sendiri dapat dipercaya lebih sempit daripada rubrik secara keseluruhan.
 
 ## Ajari siswa membaca komentarnya
 
@@ -144,6 +146,6 @@ Penilaian kepuasan memberi tahu Anda bahwa komentarnya akurat. Dalam uji coba De
 
 ## Ke mana selanjutnya
 
-[[feedback|umpan balik]] adalah konsep payung bagi seluruh sistem: penyediaan, lingkar, penerimaan, dan konteks penilaian. [[ai-feedback-quality|Kualitas umpan balik AI]] membahas apa yang membuat komentar yang dihasilkan akurat, berguna, tepat waktu, dan sehat secara pedagogis, dan halaman ini adalah bagian tengah yang praktis, tentang kombinasi bagian-bagian itu mana yang menghasilkan umpan balik yang lebih baik dalam skala besar.
+[[feedback|Umpan balik]] adalah konsep payung bagi seluruh sistem: penyediaan, lingkar, penerimaan, dan konteks penilaian. [[ai-feedback-quality|Kualitas umpan balik AI]] membahas apa yang membuat komentar yang dihasilkan akurat, berguna, tepat waktu, dan sehat secara pedagogis, dan pertanyaan praktisnya adalah kombinasi bagian-bagian itu mana yang menghasilkan umpan balik yang lebih baik dalam skala besar.
 
 Pertanyaan tentang apa arti sebuah nilai setelah AI terlibat, termasuk substitusi konstruk, bukti proses yang terautentikasi, dan aturan integritas, menjadi milik [[redesign-assessment-ai-era|merancang ulang penilaian di era AI]] dan [[assessment-validity|validitas penilaian]] alih-alih halaman ini. Untuk kasus khusus pengajaran menulis, lihat [[writing-instruction-ai-best-practices|praktik terbaik pengajaran menulis dalam konteks AI]].

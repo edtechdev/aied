@@ -6,9 +6,9 @@ weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-updated: "2026-10-29T17:10:58-04:00"
+updated: "2026-11-15T16:03:31-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -17,6 +17,7 @@ ai_assist:
     date: "2026-10-29"
     agent: hermes-agent
 ---
+
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
 
@@ -40,7 +41,7 @@ En [[agentic-ai|agent]] planerar, anropar verktyg, håller kontext, delar upp ar
 
 [[agentic-workflows-education|Agentiska arbetsflöden i utbildning]] namnger fyra återkommande förmågor: reflektion, planering, verktygsanvändning och samarbete mellan flera agenter. Var och en lägger till en kostnad vid sidan av möjligheten, i [[explainable-ai|tolkningsbarhet]], koordinering, [[trust-calibration|tillit]], latens och tillsyn.
 
-Studentrollerna löper från [[adaptive-learning|adaptiv]] handledning och studieplanering via [[formative-assessment|formativ]] återkoppling, guidad [[problem-solving|problemlösning]] och generering av övningar till rekommendationer om förkunskaper och reflekterande [[metacognition|metakognitiv]] [[prompt-engineering|promptning]]. Lärarrollerna omfattar materialutveckling, [[automated-question-generation|frågegenerering]] och validering, triage av återkoppling, kurs[[learning-analytics|analys]], instruktionsdesign, resurssökning och orkestrering av specialiserade delagenter.
+Studentrollerna löper från [[adaptive-learning|adaptiv]] handledning och studieplanering via [[formative-assessment|formativ]] återkoppling, guidad [[problem-solving|problemlösning]] och generering av övningar till rekommendationer om förkunskaper och reflekterande [[metacognition|metakognitiv]] [[prompt-engineering|promptning]]. Lärarrollerna omfattar materialutveckling, [[automated-question-generation|frågegenerering]] och validering, triage av återkoppling, kurs[[learning-analytics|analys]], [[learning-design|instruktionsdesign]], resurssökning och orkestrering av specialiserade delagenter.
 
 Två av dem är säkrare tidigt, eftersom båda producerar en artefakt som en människa läser innan studenterna gör det: en frågegenerator parad med en validator, och utkast som en lärare redigerar.
 
@@ -68,7 +69,7 @@ Fråga vad ett tal i en instrumentpanel räknar, vem som skrev bedömningsmatris
 
 ## Planera för avstängningen
 
-Randomiserade studier visar att kortvarigt AI-stöd kan sänka senare prestation utan stöd, och intervallet efter avvecklingen, [[cognitive-washout-ai-skill-decay-2026|kognitiv uttvättning]], är nästan helt omätt. Syntesen bakom den här sidan bygger på en [[meta-analysis-systematic-review|scoping review]] av 474 studier och finner att arbetet är koncentrerat till [[higher-ed|högre utbildning]], [[stem-education|STEM]], kortsiktiga designer och textbaserad handledning, med bara en minoritet explicit grundad i utbildningsteori. En pilot som slutar när licensen slutar har mätt fel fönster.
+Randomiserade studier visar att kortvarigt AI-stöd kan sänka senare prestation utan stöd, och intervallet efter avvecklingen, [[cognitive-washout-ai-skill-decay-2026|kognitiv uttvättning]], är nästan helt omätt. En [[meta-analysis-systematic-review|scoping review]] av 474 studier finner att arbetet är koncentrerat till [[higher-ed|högre utbildning]], [[stem-education|STEM]], kortsiktiga designer och textbaserad handledning, med bara en minoritet explicit grundad i utbildningsteori. En pilot som slutar när licensen slutar har mätt fel fönster.
 
 ## Vad administratörer missförstår om detta
 
@@ -98,4 +99,4 @@ Tillgång stänger rättvisegapet. Ojämlik tillgång till kapabla agentiska sys
 
 ## Vart du går härnäst
 
-[[developing-ai-tutor|Att utveckla en AI-handledare]] täcker det studentvända bygget från mål till hjälptrappa, och [[evaluating-ai-interventions-methods|Att utvärdera AI-interventioner]] täcker huruvida saken fungerade. [[intelligent-tutoring|Intelligent handledning]] och [[ai-literacy|AI-kompetens]] levererar det designvokabulär som den här sidan förutsätter.
+[[developing-ai-tutor|Att utveckla en AI-handledare]] täcker det studentvända bygget från mål till hjälptrappa, och [[evaluating-ai-interventions-methods|Att utvärdera AI-interventioner]] täcker huruvida saken fungerade. [[intelligent-tutoring|Intelligent handledning]] och [[ai-literacy|AI-kompetens]] levererar det designvokabulär som rekommendationerna förutsätter.

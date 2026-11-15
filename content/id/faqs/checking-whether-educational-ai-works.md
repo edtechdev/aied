@@ -1,7 +1,7 @@
 ---
 title: "Bagaimana Kita Tahu bahwa AI Pendidikan Bekerja dengan Benar, Bukan Hanya Memberi Skor yang Baik?"
 created: "2026-10-02T08:07:09-04:00"
-connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
 foundations: [ai-education]
@@ -14,9 +14,9 @@ discipline: [writing education, math education]
 confidence: high
 methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
-updated: "2026-10-29T14:48:08-04:00"
+updated: "2026-11-15T16:03:21-05:00"
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -58,7 +58,7 @@ Asisten mata kuliah Sistem Kendali Linear melaporkan hal ini dengan cara yang be
 
 ## Beri skor pada setiap keluaran secara terpisah
 
-Dalam proyek WrAFT, model yang disetel halus mencapai skor kesepakatan **0,84** dengan penilai manusia pada 360 esai TOEFL yang disisihkan. Itu hasil yang kuat untuk pemberian nilai. Model proyek yang sama yang dilatih menulis umpan balik menghasilkan keluaran yang terpotong dan tidak dapat diurai, sementara sekadar memberi prompt kepada model lain menghasilkan umpan balik yang lebih disukai guru ([[wraft-automated-writing-evaluation-argumentative-2026]]).
+Dalam proyek WrAFT, model yang disetel halus mencapai skor kesepakatan **0,84** dengan penilai manusia pada 360 esai TOEFL yang disisihkan. Itu hasil yang kuat untuk pemberian nilai. Model proyek yang sama yang dilatih menulis umpan balik menghasilkan keluaran yang terpotong dan tidak dapat diurai, sementara sekadar [[prompt-engineering|memberi prompt]] kepada model lain menghasilkan umpan balik yang lebih disukai guru ([[wraft-automated-writing-evaluation-argumentative-2026]]).
 
 Basis pengetahuan ini memuat kegagalan yang sama dalam bentuk kedua: sebuah penerapan yang modul penilaiannya memperoleh skor baik dan yang umpan baliknya tiba terpotong di tengah kalimat dan tidak dapat dibaca. Tidak ada apa pun dalam angka utamanya yang menyatakan hal itu.
 
@@ -84,13 +84,13 @@ Versi praktisnya: ambil sampel sekitar lima puluh keluaran, minta seseorang meni
 
 Perbaikan paling bersih adalah melatih model pada kuantitas yang sama dengan yang ingin Anda ukur. Sebuah model yang disetel halus dilatih untuk mereproduksi sifat statistik soal ujian: seberapa sulit setiap butir, seberapa baik butir itu memisahkan siswa yang lebih kuat dari yang lebih lemah. Model itu mempelajari pola-pola tersebut dan bukan diberi tahu ([[multimodal-item-parameter-estimation-2026]]). Karena sasarannya adalah sifat dari penilaian itu sendiri, evaluasinya dapat tentang sifat tersebut dan bukan tentang pilihan kata.
 
-Laporkan perkembangan dan bukan hanya titik akhirnya. Simulator menulis SWIM menerbitkan skor setiap tahap secara berdampingan: prompting berbasis rubrik **0,577**, penyetelan halus **0,474 ± 0,023**, pembelajaran penguatan **0,618 ± 0,005** ([[swim-student-writing-simulation-2026]]). Pembaca dapat melihat dari tabel itu apakah pelatihan tersebut menghasilkan sesuatu. Satu angka akhir tidak dapat memberi tahu mereka, dan angka itu menyembunyikan satu tahap di mana model yang disetel halus berkinerja lebih buruk daripada prompt.
+Laporkan perkembangan dan bukan hanya titik akhirnya. [[simulation|Simulator]] menulis SWIM menerbitkan skor setiap tahap secara berdampingan: prompting berbasis rubrik **0,577**, penyetelan halus **0,474 ± 0,023**, [[reinforcement-learning|pembelajaran penguatan]] **0,618 ± 0,005** ([[swim-student-writing-simulation-2026]]). Pembaca dapat melihat dari tabel itu apakah pelatihan tersebut menghasilkan sesuatu. Satu angka akhir tidak dapat memberi tahu mereka, dan angka itu menyembunyikan satu tahap di mana model yang disetel halus berkinerja lebih buruk daripada prompt.
 
 ## Bandingkan dengan sesuatu di luar proyek Anda
 
 Dapatkan garis dasar lebih dahulu, termasuk yang murah. Model asisten mata kuliah tanpa landasan memperoleh skor di bawah pencarian kata kunci biasa, dan itu jenis hasil yang mengubah peta jalan dan hanya memakan satu hari untuk ditemukan.
 
-Tolok ukur dari luar kemudian memberi tahu Anda apakah angka Anda berguna sama sekali. Pada tolok ukur pedagogi CDPK, EduQwen mencapai **96,52%** dibandingkan **90,55%** milik Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Pedagogy Benchmark, yang dibangun dari ujian pengembangan profesional guru sungguhan dan mencakup **97 model**, menemukan akurasi yang berkisar dari **28% hingga 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre dkk., 2025]]).
+Tolok ukur dari luar kemudian memberi tahu Anda apakah angka Anda berguna sama sekali. Pada tolok ukur [[pedagogy|pedagogi]] CDPK, EduQwen mencapai **96,52%** dibandingkan **90,55%** milik Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Pedagogy Benchmark, yang dibangun dari ujian pengembangan profesional [[teacher-role|guru]] sungguhan dan mencakup **97 model**, menemukan akurasi yang berkisar dari **28% hingga 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre dkk., 2025]]).
 
 Pada tugas tentang mengajar, model berkisar dari buruk hingga baik, sehingga hasil tolok ukur menempatkan sistem Anda di suatu tempat di dalam rentang yang lebar.
 
@@ -102,9 +102,9 @@ Jalankan pemeriksaan pada percakapan yang lengkap, dan tulis giliran uji dengan 
 
 ## Periksa siswa simulasi sebelum Anda memercayainya
 
-Menghasilkan siswa simulasi daripada merekrut siswa sungguhan membuat evaluasi jauh lebih murah. Siswa simulasi juga merupakan instrumen pengukuran, dan instrumen itu dapat salah dengan cara instrumen salah: terlalu kooperatif, terlalu lancar, terlalu cepat menerima petunjuk.
+Menghasilkan [[simulating-students|siswa simulasi]] daripada merekrut siswa sungguhan membuat evaluasi jauh lebih murah. Siswa simulasi juga merupakan instrumen pengukuran, dan instrumen itu dapat salah dengan cara instrumen salah: terlalu kooperatif, terlalu lancar, terlalu cepat menerima petunjuk.
 
-Uji paling langsung dalam basis pengetahuan ini membandingkan siswa simulasi dan siswa yang diberi prompt terhadap **382 dialog yang disisihkan** dari kumpulan publik terbesar dialog matematika siswa dan tutor sungguhan, dengan tujuh ukuran yang mencakup bahasa, perilaku, dan berpikir ([[simulated-students-tutoring-dialogues-2026]]). Karya lain mendesak realisme dari sudut berbeda: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] melatih model untuk bertindak dan berpikir seperti siswa, dan profil yang sadar riwayat mengondisikan simulasi pada masa lalu seorang siswa dan bukan pada persona tetap ([[history-aware-student-simulation|simulasi siswa yang sadar riwayat]]).
+Uji paling langsung dalam literatur ini membandingkan siswa simulasi dan siswa yang diberi prompt terhadap **382 dialog yang disisihkan** dari kumpulan publik terbesar dialog matematika siswa dan tutor sungguhan, dengan tujuh ukuran yang mencakup bahasa, perilaku, dan berpikir ([[simulated-students-tutoring-dialogues-2026]]). Karya lain mendesak realisme dari sudut berbeda: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] melatih model untuk bertindak dan berpikir seperti siswa, dan profil yang sadar riwayat mengondisikan simulasi pada masa lalu seorang siswa dan bukan pada persona tetap ([[history-aware-student-simulation|simulasi siswa yang sadar riwayat]]).
 
 Jika rangka uji Anda adalah siswa simulasi, validasi simulator itu terhadap transkrip sungguhan sebelum Anda membiarkannya menilai tutor Anda.
 

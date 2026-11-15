@@ -7,9 +7,9 @@ audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T16:42:57-04:00"
+updated: "2026-11-15T16:02:38-05:00"
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
@@ -69,7 +69,7 @@ AI کی مدد سے معیاری تجزیہ بھی اس فہرست میں ایک
 
 شائع شدہ اثر کے حجم میری کلاس پر منتقل ہوتے ہیں۔ O'Neill کے 14 میٹا تجزیے ان پر بنائے گئے دعووں کو سہارا نہیں دے سکے، اور دونوں رپورٹ شدہ پیش گوئی وقفوں میں صفر شامل تھا۔
 
-پلیٹ فارم کی تجزیات تدریس کا معیار ناپتی ہیں۔ Zhang کا تیسرے درجے والا ایجنٹ ماہرین کے ربرک پر آخری تھا۔
+پلیٹ فارم کی [[learning-analytics|تجزیات]] تدریس کا معیار ناپتی ہیں۔ Zhang کا تیسرے درجے والا ایجنٹ ماہرین کے ربرک پر آخری تھا۔
 
 ## جو آپ پر واپس آئے گا
 

@@ -1,6 +1,7 @@
 ---
 title: "Kendi Alanımızda Öğrenmeyi Desteklemede Yapay Zekayı Nasıl Daha İyi Yapabiliriz?"
 created: "2026-10-14T10:36:01-04:00"
+updated: "2026-11-15T16:08:48-05:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, developing-ai-tutor, designing-educational-ai-software]
 weight: 74
 type: faq
@@ -16,7 +17,7 @@ methods: [benchmark]
 ethics: [pedagogical-safety]
 contributors: [editor]
 translation_of: faqs/making-ai-better-at-supporting-learning
-source_updated: "2026-10-28T11:21:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -35,7 +36,7 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-Bilette "modeli ders materyallerimizle ince ayarla eğitin" yazıyor. Bütçe onaylandı, gelecek ay için bir GPU ayrıldı ve bir lisansüstü öğrenciden veri kümesi oluşturması istendi. Görüşmede kimse aynı sorularda düz bir istem metninin ne puan aldığını ya da bir anahtar kelime aramasının ne puan aldığını sormadı.
+Bilette "modeli ders materyallerimizle ince ayarla eğitin" yazıyor. Bütçe onaylandı, gelecek ay için bir GPU ayrıldı ve bir lisansüstü öğrenciden veri kümesi oluşturması istendi. Görüşmede kimse aynı sorularda düz bir [[prompt-engineering|istem]] metninin ne puan aldığını ya da bir anahtar kelime aramasının ne puan aldığını sormadı.
 
 Önce bu iki soruyu sorun. Bu bilgi tabanında genel bir model ile derse yetkin bir model arasındaki fark çoğunlukla bir dayandırma ve istem metni problemidir ve bu sıralamanın kanıtı alışılmadık biçimde doğrudandır: bir ders asistanı çalışması birinci dereceden kararın model değil erişim olduğunu bulmuş ve dayandırma olmayan genel bir model düz bir TF-IDF temel çizgisinin *altında* puan almıştır.
 
@@ -59,7 +60,7 @@ Eğitim gerçektir ve bazen gereklidir. Denenecek üçüncü ya da dördüncü �
 
 Bir şeyi değiştirmeden önce düz bir istem metninin ne döndürdüğünü kaydedin. Sonra önemsiz bir yöntemin ne döndürdüğünü kaydedin.
 
-[[shen-sustainable-ai-knowledge-base-cs-education-2026|Ders bilgi tabanı asistanı]] çalışması tek başına bunun için okunmaya değer. Erişimi olmayan yerel bir LLM **%52,3** doğruluğa ulaşmıştır. Onlarca yıllık sözcüksel bir yöntem olan TF-IDF temel çizgisi **%55,4**'e ulaşmıştır. Model klasik yöntemden daha kötüydü.
+[[shen-sustainable-ai-knowledge-base-cs-education-2026|Ders bilgi tabanı asistanı]] çalışması tek başına bunun için okunmaya değer. Erişimi olmayan yerel bir [[llm|LLM]] **%52,3** doğruluğa ulaşmıştır. Onlarca yıllık sözcüksel bir yöntem olan TF-IDF temel çizgisi **%55,4**'e ulaşmıştır. Model klasik yöntemden daha kötüydü.
 
 Bu adımı atlarsanız ince ayarınızın yardımcı olup olmadığını söyleyemezsiniz. Daha kötüsü, bir anahtar kelime aramasının geçtiği bir sistemi yayına alabilir ve bunu ancak bir öğretim asistanı söylediğinde öğrenirsiniz. Bir öğleden sonrada alınmış bir tablodaki iki sayı, bütçenin kalanını korur.
 
@@ -67,9 +68,9 @@ Bu adımı atlarsanız ince ayarınızın yardımcı olup olmadığını söyley
 
 Ders materyalleri üzerine hiç ince ayar yapmadan [[rag|erişimle güçlendirilmiş üretim]] eklemek aynı sistemi %52,3'ten **%66,6**'ye çıkarmıştır. Bu kazanç bir dizinden geldi ve bir eğitim koşusunun sahip olmadığı bir özellikle birlikte gelir: belgeleriniz değiştiğinde yeniden dizinlersiniz.
 
-İki sonuç daha aynı yönü gösteriyor. YZ'yi [[writing-education|yazma eğitimi]] için özelleştirme üzerine 23 ampirik çalışmanın PRISMA derlemesi **istem metni mühendisliğini baskın (N = 13), ince ayarın (N = 7) önünde** bulmuştur ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Bir bilgi tabanının güncel kalması gerektiğinde erişim, bir eğitim işini yeniden çalıştırmadan güncel kalan tek koldur.
+İki sonuç daha aynı yönü gösteriyor. YZ'yi [[writing-education|yazma eğitimi]] için özelleştirme üzerine 23 ampirik çalışmanın [[meta-analysis-systematic-review|PRISMA]] derlemesi **istem metni mühendisliğini baskın (N = 13), ince ayarın (N = 7) önünde** bulmuştur ([[customizing-ai-writing-pedagogy-systematic-review-2026]]). Bir bilgi tabanının güncel kalması gerektiğinde erişim, bir eğitim işini yeniden çalıştırmadan güncel kalan tek koldur.
 
-Erişimin pedagojik bir biçimi de vardır. Bir modeli kendi çözümlü örneklerinize ve rubriklerinize dayandırmak, onun tasarladığınız [[scaffolding|iskele]]nin içinde kalmasını, sizin belirlediğiniz düzeyde yanıtlamasını ve genel tavsiyelere kaymamasını sağlar. Bu kayma hazır özel ders sistemleri hakkındaki en yaygın şikâyettir ve ağırlık probleminden daha sık bir erişim problemidir.
+Erişimin [[pedagogy|pedagoji]]k bir biçimi de vardır. Bir modeli kendi çözümlü örneklerinize ve rubriklerinize dayandırmak, onun tasarladığınız [[scaffolding|iskele]]nin içinde kalmasını, sizin belirlediğiniz düzeyde yanıtlamasını ve genel tavsiyelere kaymamasını sağlar. Bu kayma hazır özel ders sistemleri hakkındaki en yaygın şikâyettir ve ağırlık probleminden daha sık bir erişim problemidir.
 
 ## İstem metnini rubriğinize göre yazın ve düzlüğü kollayın
 
@@ -86,9 +87,9 @@ Madde üretimi sonucunun sıralama hakkında ne ima ettiğine dikkat edin. İnce
 
 Uyarlama, modelin bir özelliği güvenilir biçimde tutmasını gerektiğinde işe yarar: bir okuma düzeyi, bir çıktı biçimi, modelin sahip olmadığı bir alan. Yinelenen sonuç, **hedeflemenin boyutu yendiğidir**.
 
-- Uzman tasarımı bir çocuk okuma izlencesiyle ince ayar yapılmış üç **8B** model, zorlukla ilgili ölçütlerde sıfır atışlı GPT-4o ve Llama 3.3 70B'yi geride bırakmış, güvenlik sorunları ihmal edilebilir düzeyde kalmıştır. Yazarlar bunu **ölçeğe karşı denetlenebilirlik** olarak çerçeveliyor ([[llm-children-reading-story-generation]]).
+- Uzman tasarımı bir çocuk okuma [[curriculum-design|izlencesiyle]] ince ayar yapılmış üç **8B** model, zorlukla ilgili ölçütlerde sıfır atışlı GPT-4o ve Llama 3.3 70B'yi geride bırakmış, güvenlik sorunları ihmal edilebilir düzeyde kalmıştır. Yazarlar bunu **ölçeğe karşı denetlenebilirlik** olarak çerçeveliyor ([[llm-children-reading-story-generation]]).
 - Hint Bilgi Sistemlerine dayandırılmış **24.795 örneklik** bir talimat veri kümesi, beş yargıçlı harici bir panelde **6,39** puan alan bir **7B** ince ayar üretmiş ve güçlü bir genel referans modelin **0,15** yakınına, dağıtım maliyetinin çok küçük bir bölümüyle yerleşmiştir. Aynı temel model ince ayar olmadan **alana özgü boyutlarda sıfıra yakın** puan almıştır ([[iks-instruct-dataset-indian-knowledge]]). Genel olarak yetkin olmakla burada yetkin olmak arasındaki fark, alan uyarlamasının tüm gerekçesidir.
-- Yaklaşık **3.900** birleştirilmiş notlanmış örnek üzerinde eğitilmiş tek bir [[llm-training-and-fine-tuning|LoRA]] bağdaştırıcısı, beş küçük açık modeli (4B ile 30B arası) iki bilgisayar bilimi sınavında insan notlandırıcıyla eşit ya da daha iyi düzeye getirmiştir ([[llm-graders-computer-science-exams-2026]]). Tek bağdaştırıcı, tek veri kümesi, birkaç temel model: küçük bir ekibin yürütebileceği dağıtımın biçimi budur.
+- Yaklaşık **3.900** birleştirilmiş notlanmış örnek üzerinde eğitilmiş tek bir [[llm-training-and-fine-tuning|LoRA]] bağdaştırıcısı, beş küçük [[open-source|açık modeli]] (4B ile 30B arası) iki bilgisayar bilimi sınavında insan notlandırıcıyla eşit ya da daha iyi düzeye getirmiştir ([[llm-graders-computer-science-exams-2026]]). Tek bağdaştırıcı, tek veri kümesi, birkaç temel model: küçük bir ekibin yürütebileceği dağıtımın biçimi budur.
 
 Başlıktaki *istikrarlı* sözcüğü yükü taşıyor. Biçim, rubrik, okuma düzeyi ve alan sözlüğü istikrarlı hedeflerdir. Yargı yüklü düzyazının böyle bir hedefi yoktur ve uyarlamanın başarısız olduğu yer burasıdır; sonraki iki bölüm bunu gösteriyor.
 
@@ -96,7 +97,7 @@ Başlıktaki *istikrarlı* sözcüğü yükü taşıyor. Biçim, rubrik, okuma d
 
 Uyarlama bir modele *neyi üreteceğini* öğretir. Eğitim sonrası ona *nasıl davranacağını* öğretir. Özel ders için bu ayrım problemin tamamıdır: genel modeller yardımseverlik konusundaki insan tercihi üzerine eğitim sonrası eğitilir, bu da hemen yanıtlamak demektir; öğretmek ise yanıtı esirgemeyi gerektirir.
 
-Bu derlemdeki en güçlü eğitim sonuçları burada yaşıyor. EduQwen'in ödül modeli **doğrudan yanıtlar yerine yönlendiren yanıtları** açıkça önceliklendirmiş ve üç aşamalı hattı CDPK kıyas ölçütünde **%96,52**'ye ulaşarak Gemini-3 Pro'nun **%90,55**'ini aşmıştır ([[singh-eduqwen-pedagogical-rl-2026]]). SWIM'in yazma simülatörü rubrik temelli istem metninden (en iyi QWK **0,577**) gözetimli ince ayara (**0,474 ± 0,023**) ve oradan pekiştirmeli öğrenmeye (**0,618 ± 0,005**) her özellikte ve her istem metninde ilerlemiştir ([[swim-student-writing-simulation-2026]]).
+Bu derlemdeki en güçlü eğitim sonuçları burada yaşıyor. EduQwen'in ödül modeli **doğrudan yanıtlar yerine yönlendiren yanıtları** açıkça önceliklendirmiş ve üç aşamalı hattı CDPK kıyas ölçütünde **%96,52**'ye ulaşarak Gemini-3 Pro'nun **%90,55**'ini aşmıştır ([[singh-eduqwen-pedagogical-rl-2026]]). SWIM'in yazma [[simulation|simülatör]]ü rubrik temelli istem metninden (en iyi QWK **0,577**) gözetimli ince ayara (**0,474 ± 0,023**) ve oradan [[reinforcement-learning|pekiştirmeli öğrenme]]ye (**0,618 ± 0,005**) her özellikte ve her istem metninde ilerlemiştir ([[swim-student-writing-simulation-2026]]).
 
 SWIM sayılarını dikkatli okuyun, çünkü ortadaki adım geriye gitti. Gösterimler üzerinde gözetimli ince ayar, simülatörü başladığı istem metninden daha kötü hâle getirmiş ve yalnızca ödül sinyali kaybı telafi edip temel çizgiyi geçmiştir. Planınız gözetimli ince ayarda duruyorsa plan bir dolambaç olabilir.
 
@@ -132,7 +133,7 @@ Küçümsemesi kolay maliyet değerlendirmedir ve hesaplama faturasından büyü
 
 ## Beklentilerinizi kalibre edin
 
-Model ve istem metni seçimi birlikte, LLM'ler ile öğrenci öğrenme kazanımları arasındaki uyumsuzluğun yalnızca yaklaşık **%15**'ini açıklar ve o çalışmada kıyas ölçütü ağırlıklandırma ile oybirliğiyle oylama toplulukları hizalamayı *daha kötü* yapmıştır ([[educational-llm-alignment]]). Ön eğitim verisi bir modelin nasıl davrandığı üzerindeki baskın koldur ve çekemeyeceğiniz tek kol da odur.
+Model ve istem metni seçimi birlikte, LLM'ler ile öğrenci [[learning-gains|öğrenme kazanımları]] arasındaki uyumsuzluğun yalnızca yaklaşık **%15**'ini açıklar ve o çalışmada kıyas ölçütü ağırlıklandırma ile oybirliğiyle oylama toplulukları hizalamayı *daha kötü* yapmıştır ([[educational-llm-alignment]]). Ön eğitim verisi bir modelin nasıl davrandığı üzerindeki baskın koldur ve çekemeyeceğiniz tek kol da odur.
 
 Bunların hiçbiri yukarıdaki işe karşı bir argüman değildir. Bir ince ayarın tasarım problemini çözmesini beklemeye karşı bir argümandır. Sorun özel dersinizin fazla hevesli yanıt vermesi ise eğitim bunu ele alabilir. Sorun öğrenenlerinizin onunla etkileşime girmemesi ise eğitim ele almaz ve %15 rakamı paranın başka yerde daha iyi harcanacağını söyler.
 

@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
-updated: "2026-10-29T17:10:58-04:00"
+updated: "2026-11-15T16:03:31-05:00"
 translation_of: faqs/how-ai-impacts-students
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -19,11 +19,12 @@ ai_assist:
     agent: hermes-agent
 ---
 
+
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
 
-Du använder AI i kursarbetet och det går bra, förutom att den stängda tentan kändes som att läsa någon annans anteckningar. Eller så säger en vän att hen inte skrev något och ändå fick A, och du undrar vad det betyder för dig. Eller så har du börjat ställa fler frågor till en chattbot än du ställer till din lärare.
+Du använder AI i kursarbetet och det går bra, förutom att den [[summative-assessment|stängda tentan]] kändes som att läsa någon annans anteckningar. Eller så säger en vän att hen inte skrev något och ändå fick A, och du undrar vad det betyder för dig. Eller så har du börjat ställa fler frågor till en chattbot än du ställer till din lärare.
 
-Det korta svaret, i en form du kan upprepa för en vän: AI är användbart där du behöver återkoppling och oanvändbart där du behöver öva. Behåll tankesteget för dig själv, testa dig själv utan verktyget innan du lämnar in, och var ärlig med vad du använde. Resten av sidan handlar om varför det håller och hur det ser ut en tisdagskväll.
+Det korta svaret, i en form du kan upprepa för en vän: AI är användbart där du behöver återkoppling och oanvändbart där du behöver öva. Behåll tankesteget för dig själv, testa dig själv utan verktyget innan du lämnar in, och var ärlig med vad du använde. Det rådet gäller av skäl som är värda att redogöra för, och det tar konkret form en tisdagskväll.
 
 ## Kortversionen
 
@@ -55,7 +56,7 @@ Att veta att det finns förändrar också vad du är villig att kämpa med. [[ai
 
 ## Testa dig själv utan verktyget
 
-Kontrollen tar tio minuter och är det mest användbara på den här sidan. Stäng allt, ta ett tomt papper och skriv inlämningens argument ur minnet: påståendet, de två eller tre skälen, och vad som skulle tala emot det. Öppna sedan ditt arbete och jämför.
+Kontrollen tar tio minuter och är det mest användbara du kan göra. Stäng allt, ta ett tomt papper och skriv inlämningens argument ur minnet: påståendet, de två eller tre skälen, och vad som skulle tala emot det. Öppna sedan ditt arbete och jämför.
 
 Om det tomma papperet kommer ut nära har du lärt dig materialet och verktyget hjälpte dig att organisera det. Om det kommer ut tomt medan dokumentet är polerat har du ett prestationsgap, och betyget döljer det tills en tenta eller en praktikplats inte gör det. Gå tillbaka till avsnittet du inte kunde återge, arbeta igenom det utan hjälp, och kontrollera igen.
 
@@ -111,4 +112,5 @@ Den emotionella sidan kan också vara god. I en [[qualitative-research|kvalitati
 
 ## Vart du går härnäst
 
-[[does-ai-help-students-learn|Hjälper AI-användning faktiskt studenter att lära sig?]] är evidensfrågan bakom den här sidan, och [[study-with-ai|att studera med AI]] täcker arbetsrutiner. [[ai-anxiety-wellbeing|AI, ångest och välbefinnande]] tar ångestsidan vidare, och [[guardrails|skyddsräcken]] förklarar hur ett stöd blir en ersättning. Kursdesignperspektivet finns i [[incorporating-ai-literacy|Hur ska jag integrera AI-kompetens i min kurs?]] och [[ai-literacy-evidence|Vad säger evidensen om insatser för AI-kompetens i högre utbildning?]].
+[[does-ai-help-students-learn|Hjälper AI-användning faktiskt studenter att lära sig?]] är evidensfrågan bakom de här svaren, och [[study-with-ai|att studera med AI]] täcker arbetsrutiner. [[ai-anxiety-wellbeing|AI, ångest och välbefinnande]] tar ångestsidan vidare, och [[guardrails|skyddsräcken]] förklarar hur ett stöd blir en ersättning. Kursdesignperspektivet finns i [[incorporating-ai-literacy|Hur ska jag integrera AI-kompetens i min kurs?]] och [[ai-literacy-evidence|Vad säger evidensen om insatser för AI-kompetens i högre utbildning?]].
+

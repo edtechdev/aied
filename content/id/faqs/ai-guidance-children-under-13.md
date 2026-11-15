@@ -12,9 +12,9 @@ research_method: [literature review, experiment]
 audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:57:48-05:00"
 translation_of: faqs/ai-guidance-children-under-13
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Ketentuan vendor menyatakan bahwa alat ini ditujukan untuk pengguna berusia 13 t
 
 Tiga pertanyaan terjalin dalam permintaan itu: apa yang boleh dilakukan anak berusia enam tahun dengan sistem ini, apa yang sekolah berutang kepada keluarga yang anaknya bertemu AI di rumah, dan apa yang harus dilakukan ketika larangan bukanlah jawaban yang dapat Anda pertahankan.
 
-Jawaban singkat yang dapat Anda berikan kepada dewan: bertingkatkan akses menurut usia, ajarkan kepada anak bagaimana sistem ini dibangun sebelum Anda menyerahkan satu saja, dan pertahankan orang dewasa dalam lingkar keputusan di mana pun anak belum mampu menilai keluaran. Larangan menyeluruh adalah pilihan dengan bukti paling tipis. Tidak ada studi tentang larangan berbasis usia dalam basis pengetahuan ini, dan sebagian besar paparan kelompok usia ini terjadi di rumah, tempat aturan sekolah tidak menjangkau.
+Jawaban singkat yang dapat Anda berikan kepada dewan: bertingkatkan akses menurut usia, ajarkan kepada anak bagaimana sistem ini dibangun sebelum Anda menyerahkan satu saja, dan pertahankan orang dewasa dalam lingkar keputusan di mana pun anak belum mampu menilai keluaran. Larangan menyeluruh adalah pilihan dengan bukti paling tipis. Tidak ada studi tentang larangan berbasis usia, dan sebagian besar paparan kelompok usia ini terjadi di rumah, tempat aturan sekolah tidak menjangkau.
 
 ## Versi singkat
 
@@ -52,7 +52,7 @@ Evaluasi mereka berupa satu survei pasca-paparan terhadap 831 partisipan, dan ko
 
 Dua edisi itu juga menunjukkan untuk apa batasnya ada. Kelompok dasar mendapat aktivitas berbasis platform yang berperancah dan non-generatif, sehingga anak belajar apa yang dilakukan sistem tanpa sistem yang membalas. Kelompok lanjutan menyandingkan penalaran etis dengan penggunaan generatif yang diawasi. Staf yang mengira keterlibatan akan mengikuti kecanggihan alat biasanya menemukan sebaliknya.
 
-Yang Anda dapatkan dari pentahapan ini adalah urutan operasi yang dapat dipertahankan. Banyak sekolah menjalankannya terbalik, membeli chatbot pada musim gugur dan mengajarkan tentangnya pada musim semi, dan bukti tentang urutan itu ada lebih jauh di halaman ini.
+Yang Anda dapatkan dari pentahapan ini adalah urutan operasi yang dapat dipertahankan. Banyak sekolah menjalankannya terbalik, membeli chatbot pada musim gugur dan mengajarkan tentangnya pada musim semi, padahal urutan yang dapat dipertahankan adalah kebalikannya.
 
 ## Mulai anak termuda dengan permainan, pembuatan, dan mesin
 
@@ -66,7 +66,7 @@ Mengajarkan cara mesin bekerja juga termasuk dalam kelompok ini. [[tsingidou-ct-
 
 ## Pindahkan anak usia 9 sampai 12 tahun ke pekerjaan terverifikasi yang sebagian besar non-generatif
 
-Kelompok inilah yang bukti kurikulumnya paling kuat. [[demir-akar-ai-media-literacy-children-2026|Demir dan Akar (2026)]] menjalankan program literasi media kritis berbasis 5E selama 18 jam untuk 36 siswa kelas empat di Turki, mencakup privasi data, komunikasi aman, dan [[ethics|etika]] media, dengan *d* Cohen antar kelompok sebesar 1,12 untuk membaca, 1,18 untuk menulis, dan 1,31 untuk literasi total. Program yang muat dalam satu semester dan melaporkan efek sebesar itu adalah hasil paling menggembirakan di halaman ini.
+Kelompok inilah yang bukti kurikulumnya paling kuat. [[demir-akar-ai-media-literacy-children-2026|Demir dan Akar (2026)]] menjalankan program literasi media kritis berbasis 5E selama 18 jam untuk 36 siswa kelas empat di Turki, mencakup privasi data, komunikasi aman, dan [[ethics|etika]] media, dengan *d* Cohen antar kelompok sebesar 1,12 untuk membaca, 1,18 untuk menulis, dan 1,31 untuk literasi total. Program yang muat dalam satu semester dan melaporkan efek sebesar itu adalah hasil paling menggembirakan dalam literatur ini.
 
 Usia 9 sampai 12 tahun mendapat paparan berperancah di platform yang telah diverifikasi sekolah, dengan bagian generatif disisakan untuk nanti dan diawasi. Begitu anak dapat membaca, berargumen, dan memeriksa klaim, mengajari mereka apa yang sedang dilakukan sistem menjadi pekerjaannya, dan alat dapat masuk sebagai objek kajian, bukan sebagai pembantu.
 
@@ -126,7 +126,7 @@ Untuk kelompok usia ini, itu memetakan ke sebuah urutan: tentang dan dengan memb
 
 Makalah dewan dapat menjanjikan tanggal tinjauan dan definisi keberhasilan yang benar-benar dapat diperiksa sekolah Anda: pelajaran yang diajarkan, guru yang mampu menjawab pertanyaan orang tua, permintaan data yang dijawab secara tertulis. Mengklaim adanya keuntungan pembelajaran akan melampaui setiap studi yang dikutip di sini.
 
-Tidak ada studi tentang larangan berbasis usia dalam basis pengetahuan ini. Tidak ada di sini yang dapat menyelesaikan apakah larangan yang kini muncul di beberapa sistem sekolah berhasil, dan versi jujur dari kalimat itu harus ada dalam makalah dewan Anda. Yang ditunjukkan bukti adalah bahwa alternatif dari larangan bukanlah kebablasan. [[moral-panic-genai-classroom|Studi tentang ketersediaan versus integrasi GenAI]] menemukan bahwa menyediakan GenAI tanpa mengajarkan siswa cara menggunakannya berkaitan dengan kinerja yang secara signifikan lebih rendah pada pertanyaan terapan (ω² = 0,35), sementara mengajarkan penggunaannya secara eksplisit untuk tugas seperti merangkum mengembalikan kinerja terapan ke tingkat pra-GenAI dan melampaui garis dasar pada satu kuis yang lebih sulit. Kelompok usia ini dapat diajari: program kelas empat di atas menghasilkan efek *d* = 1,12 sampai 1,31.
+Tidak ada studi tentang larangan berbasis usia. Tidak ada di sini yang dapat menyelesaikan apakah larangan yang kini muncul di beberapa sistem sekolah berhasil, dan versi jujur dari kalimat itu harus ada dalam makalah dewan Anda. Yang ditunjukkan bukti adalah bahwa alternatif dari larangan bukanlah kebablasan. [[moral-panic-genai-classroom|Studi tentang ketersediaan versus integrasi GenAI]] menemukan bahwa menyediakan GenAI tanpa mengajarkan siswa cara menggunakannya berkaitan dengan kinerja yang secara signifikan lebih rendah pada pertanyaan terapan (ω² = 0,35), sementara mengajarkan penggunaannya secara eksplisit untuk tugas seperti merangkum mengembalikan kinerja terapan ke tingkat pra-GenAI dan melampaui garis dasar pada satu kuis yang lebih sulit. Kelompok usia ini dapat diajari: program kelas empat di atas menghasilkan efek *d* = 1,12 sampai 1,31.
 
 ## Yang salah dipahami sekolah
 
@@ -172,4 +172,4 @@ Tidak ada studi tentang larangan berbasis usia dalam basis pengetahuan ini. Tida
 
 ## Ke mana selanjutnya
 
-[[how-ai-impacts-students|Bagaimana AI memengaruhi siswa]] membahas apa yang dilakukan alat ini terhadap pembelajaran, dan [[incorporating-ai-literacy|Memasukkan literasi AI]] bersama [[ai-literacy|literasi AI]] membahas apa yang harus diajarkan. [[parents-and-families|Orang tua dan keluarga]] dan [[early-childhood-elementary-ai-education|Pendidikan AI anak usia dini dan sekolah dasar]] memuat dasar penelitian untuk halaman ini, dan [[equity-ethics-pedagogical-safety-research|ekuitas, etika, keselamatan pedagogis, dan penelitian]] adalah tempat argumen privasi dan keselamatan berlanjut. Jika pertanyaan Anda adalah sisi penilaian untuk siswa yang lebih tua, [[should-we-use-ai-detectors|apakah kita harus menggunakan detektor AI]] dan [[reduce-ai-cheating|mengurangi kecurangan AI]] membahasnya lebih jauh.
+[[how-ai-impacts-students|Bagaimana AI memengaruhi siswa]] membahas apa yang dilakukan alat ini terhadap pembelajaran, dan [[incorporating-ai-literacy|Memasukkan literasi AI]] bersama [[ai-literacy|literasi AI]] membahas apa yang harus diajarkan. [[parents-and-families|Orang tua dan keluarga]] dan [[early-childhood-elementary-ai-education|Pendidikan AI anak usia dini dan sekolah dasar]] memuat dasar penelitian, dan [[equity-ethics-pedagogical-safety-research|ekuitas, etika, keselamatan pedagogis, dan penelitian]] adalah tempat argumen privasi dan keselamatan berlanjut. Jika pertanyaan Anda adalah sisi penilaian untuk siswa yang lebih tua, [[should-we-use-ai-detectors|apakah kita harus menggunakan detektor AI]] dan [[reduce-ai-cheating|mengurangi kecurangan AI]] membahasnya lebih jauh.

@@ -1,12 +1,14 @@
 ---
 title: "Notanın Öğrencinin Ne Bildiği ya da Ne Yapabildiği Konusunda Hâlâ Savunulabilir Bir Şey Söylemesi İçin Değerlendirmeyi Nasıl Yeniden Tasarlarım?"
 created: "2026-10-14T10:36:01-04:00"
+updated: "2026-11-15T16:08:48-05:00"
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
+audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-10-28T10:45:41-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -40,7 +42,7 @@ Kısa yanıt: notun neyin kanıtı olması gerektiğine karar verin, ödevde ö�
 
 ## Notun neyin kanıtı olduğuna karar verin
 
-Notun hangi yetkinliği temsil etmesi gerektiğini açıkça belirterek başlayın. Bir öğrencinin bağımsız olarak ne yapabildiğini mi, YZ ile uygun biçimde neyi başarabildiğini mi, YZ’yi değerlendirme ve yönlendirme yeteneğini mi, yoksa bunların bir bileşimini mi değerlendiriyorsunuz? Bilgi tabanının [[assessment-validity|Değerlendirme Geçerliliği]] sayfası bunu bir geçerlilik sorunu olarak ele alır: cilalanmış bir ürün artık öğrencinin, o ürünün görünürde sergilediği yetkinliğe sahip olduğunun yeterli kanıtı değildir. Bu, aynı argümanın değerlendirme tarafındaki yarısıdır; yaptırım tarafındaki yarısı [[reduce-ai-cheating]] sayfasındadır ve genel geçerlilik çerçevesi [[evaluating-ai-interventions-methods]] boyunca uzanır.
+Notun hangi yetkinliği temsil etmesi gerektiğini açıkça belirterek başlayın. Bir öğrencinin bağımsız olarak ne yapabildiğini mi, YZ ile uygun biçimde neyi başarabildiğini mi, YZ’yi değerlendirme ve yönlendirme yeteneğini mi, yoksa bunların bir bileşimini mi değerlendiriyorsunuz? [[assessment-validity|Değerlendirme geçerliliği]] bunu bir geçerlilik sorunu olarak ele alır: cilalanmış bir ürün artık öğrencinin, o ürünün görünürde sergilediği yetkinliğe sahip olduğunun yeterli kanıtı değildir. Bu, aynı argümanın değerlendirme tarafındaki yarısıdır; yaptırım tarafındaki yarısı [[reduce-ai-cheating]] sayfasındadır ve genel geçerlilik çerçevesi [[evaluating-ai-interventions-methods]] boyunca uzanır.
 
 Yanıtı izlencede, ödev kâğıdında ve rubrikte söyleyin. Öğrenciler üç belge okur ve en belirgin olana uyar. “YZ kullanımına atıfla izin verilir” neyi ölçtüğünüzün bir ifadesi değildir ve öğrenciye izin verilen kullanımın notlandırdığınız şeyi zayıflatıp zayıflatmadığını anlamanın hiçbir yolunu vermez.
 
@@ -88,7 +90,7 @@ Amaç, mekanik kadar önemlidir. [[ai-agents-joyful-assessment-third-space-2026|
 
 **“Akreditasyon ve program onayı bu kadar hızlı hareket etmez.”** Yukarıdaki çalışma, merkezî sürtünme olarak uzun hazırlık sürelerini ve büyük kohort akreditasyon kısıtlarını adlandırıyor. Tek bir ders, var olan bir değerlendirmenin içinde olanı, adını, ağırlığını ya da öğrenme çıktılarını değiştirmeden değiştirebilir ve başlamak için bu genellikle yeterlidir.
 
-**“Bu, kaygılı öğrencileri ve engelli öğrencileri cezalandırıyor.”** Cezalandırabilir. Canlı sözlü bileşenler önceden planlanmış uyarlamalar, yapının izin verdiği yerde biçim seçeneği ve dilsel farka ve değerlendirici yanlılığına dikkat gerektirir. Yetkinliği doğrulayın, performans koşullarını değil.
+**“Bu, kaygılı öğrencileri ve [[inclusive-learning|engelli öğrencileri]] cezalandırıyor.”** Cezalandırabilir. Canlı sözlü bileşenler önceden planlanmış uyarlamalar, yapının izin verdiği yerde biçim seçeneği ve dilsel farka ve değerlendirici yanlılığına dikkat gerektirir. Yetkinliği doğrulayın, performans koşullarını değil.
 
 **“Sadece bir dedektör satın almalıyız.”** Ayırt edicilik sonucu, tasarımın omurgası olarak buna karşı çıkıyor: yanlış pozitifler doğru pozitiflerden hızlı artarsa daha güçlü izleme gizlemeyi görece daha çekici kılar. Tespitin, görevi de yeniden tasarlayan bir yanıt içinde yeri olabilir ve [[should-we-use-ai-detectors]] o argümanı kapsar.
 
@@ -108,4 +110,4 @@ Amaç, mekanik kadar önemlidir. [[ai-agents-joyful-assessment-third-space-2026|
 
 ## Sonraki adımlar
 
-Tüm sayfanın arkasındaki geçerlilik argümanı [[assessment-validity]] sayfasındadır; yaptırım tarafındaki eşi [[reduce-ai-cheating]], yanında da [[course-ai-policy]] var. [[writing-instruction-ai-best-practices]] öğrencilerin gerçekte izlediği ifadeyi kapsar ve [[evaluating-ai-interventions-methods]] çevresinde tasarım yaptığınız aracın hiç işleyip işlemediğini ele alır.
+Tüm sayfanın arkasındaki geçerlilik argümanı [[assessment-validity|değerlendirme geçerliliği]] sayfasındadır; yaptırım tarafındaki eşi [[reduce-ai-cheating]], yanında da [[course-ai-policy]] var. [[writing-instruction-ai-best-practices]] öğrencilerin gerçekte izlediği ifadeyi kapsar ve [[evaluating-ai-interventions-methods]] çevresinde tasarım yaptığınız aracın hiç işleyip işlemediğini ele alır.

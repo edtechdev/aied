@@ -1,7 +1,7 @@
 ---
 title: "Hvordan kan AI støtte flersprogede lærende uden at fejlvurdere deres viden eller slette deres stemme?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T15:58:04-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
@@ -51,7 +51,7 @@ Skriv beslutningen ned, hvor de studerende kan læse den. Hvis studerende må ov
 
 ## Hvad forskningen understøtter, og hvad den ikke gør
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez og Arabadzhy (2026)]] gennemgik 24 empiriske studier af generative [[conversational-ai|chatbots]] i [[language-learning|sprogindlæring]]. Deres bidrag er taksonomisk: hver undermulighed, der er katalogiseret for prægenerative chatbots, består, og tre er nye, heriblandt **translanguaging**, den bevidste bevægelse mellem sprog som del af læringen. Det er et kort over rapporterede anvendelser og oplevelser frem for et samlet estimat, og korpusset er geografisk koncentreret, med Kina, Iran, Taiwan og Türkiye som ophav til 19 af de 24 studier og alle på nær ét inde i formelle institutioner. Støtte til at bruge forklaring på tværs af sprog som læringstræk er ikke støtte til at oversætte enhver opgave.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez og Arabadzhy (2026)]] gennemgik 24 empiriske studier af generative [[conversational-ai|chatbots]] i [[language-learning|sprogindlæring]]. Deres bidrag er taksonomisk: hver undermulighed, der er katalogiseret for prægenerative chatbots, består, og tre er nye, heriblandt **translanguaging**, den bevidste bevægelse mellem sprog som del af læringen. Det er et kort over rapporterede anvendelser og oplevelser frem for et samlet estimat, og studierne er geografisk koncentrerede, med Kina, Iran, Taiwan og Türkiye som ophav til 19 af de 24 studier og alle på nær ét inde i formelle institutioner. Støtte til at bruge forklaring på tværs af sprog som læringstræk er ikke støtte til at oversætte enhver opgave.
 
 Bedømmelse er der, hvor evidensen bliver skarpere, og indsatsen stiger. [[ai-scoring-language-bias-physics|Feser og Tschisgale (2026)]] sammenlignede elleve automatiserede scoringsmetoder med menneskelige ekspertscorer for 116 gymnasieelevers fysikforklaringer og fandt systematisk undervurdering af begrebsmæssig forståelse for sprogligt svagere forklaringer, i hver eneste metode. Designet isolerer mekanismen: det samme begrebsmæssige indhold, udtrykt i svagere prosa, blev scoret lavere. Det er ikke en påstand om noget bestemt lands flersprogede studerende, og det er præcis det mønster, der gør overordnet scoringsenighed til et dårligt diagnosticeringsværktøj. En scorer kan være enig med menneskelige bedømmere i gennemsnit og samtidig tage fejl i en konsistent retning for de studerende, hvis sprog stadig er under udvikling.
 
@@ -73,7 +73,7 @@ Dette er anvendelser, der skal piloteres, ikke validerede interventioner. Et væ
 
 ## Beskyt den studerendes betydning og stemme
 
-Bed om målrettet hjælp, før du beder om en omskrivning, for en hel omskrivning er der, hvor den studerendes tænkning forlader siden. En anmodning, der er værd at undervise i: »Identificér to steder, hvor min betydning er uklar. Forklar problemet og tilbyd valgmuligheder. Behold mine eksempler, og tilføj ikke nye påstande.« Så vælger den studerende.
+Bed om målrettet hjælp, før du beder om en omskrivning, for en hel omskrivning er der, hvor den studerendes tænkning forlader udkastet. En anmodning, der er værd at undervise i: »Identificér to steder, hvor min betydning er uklar. Forklar problemet og tilbyd valgmuligheder. Behold mine eksempler, og tilføj ikke nye påstande.« Så vælger den studerende.
 
 En sekvens, der beholder arbejdet hos den studerende:
 

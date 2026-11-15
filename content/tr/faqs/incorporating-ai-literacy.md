@@ -1,13 +1,15 @@
 ---
 title: "YZ Okuryazarlığını Kursuma Nasıl Dâhil Edebilirim?"
 created: "2026-10-14T23:00:00-04:00"
+updated: "2026-11-15T16:08:48-05:00"
 connected_faqs: [verify-ai-output, how-ai-impacts-students, ai-literacy-evidence]
 weight: 86
+audience: [instructors, instructional designers]
 foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
 translation_of: faqs/incorporating-ai-literacy
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -41,7 +43,7 @@ Program değerlendirmeniz mezunların YZ okuryazarlığına ihtiyacı olduğunu 
 
 ## Ders eklemeyin, zaten notlandırdığınız işe bir adım ekleyin
 
-Kurumsal varsayılan hamle, genellikle dönemin başında, büyük dil modellerinin nasıl çalıştığı ve istemlerin nasıl yazılacağı üzerine ayrı bir modüldür. [[ai-literacy|YZ okuryazarlığı]] sentezi farklı bir düzenlemeyi savunuyor: öğrenciler YZ'yi otantik ders görevlerinin içinde tekrar tekrar kullandıklarında, sorguladıklarında, doğruladıklarında, eleştirdiklerinde ve hakkında karar verdiklerinde daha işe yarar bir okuryazarlık geliştiriyor. Eleştirel değerlendirmeye doğru hareket, en çok bu deneyimlerin bir kez sunulmak yerine sürdürüldüğü ve gömülü olduğu yerlerde belirginleşiyor ([[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]]).
+Kurumsal varsayılan hamle, genellikle dönemin başında, [[llm|büyük dil modellerinin]] nasıl çalıştığı ve istemlerin nasıl yazılacağı üzerine ayrı bir modüldür. [[ai-literacy|YZ okuryazarlığı]] sentezi farklı bir düzenlemeyi savunuyor: öğrenciler YZ'yi otantik ders görevlerinin içinde tekrar tekrar kullandıklarında, sorguladıklarında, doğruladıklarında, eleştirdiklerinde ve hakkında karar verdiklerinde daha işe yarar bir okuryazarlık geliştiriyor. Eleştirel değerlendirmeye doğru hareket, en çok bu deneyimlerin bir kez sunulmak yerine sürdürüldüğü ve gömülü olduğu yerlerde belirginleşiyor ([[ai-literacy-continuum-higher-education|A Practical Five-Stage Continuum for AI Literacy in Higher Education]]).
 
 [[quantitative-research|Nicel]] kanıt da aynı yönü gösteriyor. [[liu-ai-literacy-interventions-meta-analysis-2026|59 YZ okuryazarlığı müdahalesinin meta-analizi]], en büyük etkileri bütünleşik ve yansıtıcı pedagojilerde buldu. Ayrıca bilgi odaklı müdahalelerin beceri, tutum ya da etik hedefleyenlere göre daha büyük *ölçülen* etkiler gösterdiği uyarısını da ekliyor. Neyi ölçeceğinizi seçerken bunu aklınızda tutun.
 
@@ -81,11 +83,11 @@ Tasarımı icat etmek zorunda değilsiniz. Birkaçı belgelenmiş ve her biri ko
 
 İktisat öğrencileri önce bir problemi çözer, bir üretken YZ yanıtı alır, onu kendi akıl yürütmeleriyle karşılaştırır, YZ'yi eleştirir, yansıtır ve ardından akranlarıyla tartışır ([[beck-genai-literacy-economics-hands-on|Fostering Generative AI Literacy in Economics]]).
 
-Psikoloji öğrencileri ChatGPT ile üretilmiş bir basın bültenini ders rubriğine göre değerlendirir, zayıflıkları belirler ve revize eder; bu, aynı görevde disipliner ve geri bildirim okuryazarlığını geliştirir ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Using Generative AI to Promote Psychological, Feedback, and AI Literacies]]).
+Psikoloji öğrencileri ChatGPT ile üretilmiş bir basın bültenini ders rubriğine göre değerlendirir, zayıflıkları belirler ve revize eder; bu, aynı görevde disipliner ve [[feedback-literacy|geri bildirim okuryazarlığı]]nı geliştirir ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Using Generative AI to Promote Psychological, Feedback, and AI Literacies]]).
 
 Biyoloji, etkinlikleri ayrı bir teknik konu öğretmek yerine disipliner öğrenmeye bütünleştirir ([[zha-ai-literacy-biology-case-study|Integrating AI Literacy Education in a Biology Class]]). Veritabanı ve tasarım dersi, öğrencilerin YZ tarafından üretilen hataları analiz edip istemler ve çözümler üzerinde yinelediği bir öğrenme etkinliği olarak başarısızlık analizini kullanır ([[pedagogy-ai-mistakes|The Pedagogy of AI Mistakes]]). LearnAI modeli, tek bir genel modül yürütmek yerine YZ ortak üretimini disiplinler arasında tam zamanında gömer ([[learnai-just-in-time-ai-cocreation-university-2026|LearnAI: Just-in-Time AI Co-Creation Across Disciplines]]).
 
-Bir uyarı bir rakamla birlikte geliyor. Yeniden tasarlanmış bir başlangıç düzeyi parçacık fiziği dersi, üretken YZ'yi araştırma biçimli problemlerde açık bir ortak olarak kabul etti ve yardımsız yazılı bir sınav 80 üzerinden ortalama 20,6 döndürdü; yalnızca iki öğrenci 40'a ulaştı ([[ai-particle-physics-education-redesign-2026|AI in particle physics education]]). Destekli performans ile bağımsız olarak geri getirilebilen bilgi ayrı kazanımlardır. Yazarlar, YZ okuryazarlığının — doğrulama ve YZ'yi kopyalayıcı değil öğretmen olarak ele alma dahil — erken, özel yardımsız alıştırmanın yanında öğretilmesini savunuyor. Daha ayrıntılı vakayı [[physics-education|fizik eğitimi]] sayfası taşıyor.
+Bir uyarı bir rakamla birlikte geliyor. Yeniden tasarlanmış bir başlangıç düzeyi parçacık fiziği dersi, üretken YZ'yi araştırma biçimli problemlerde açık bir ortak olarak kabul etti ve yardımsız yazılı bir sınav 80 üzerinden ortalama 20,6 döndürdü; yalnızca iki öğrenci 40'a ulaştı ([[ai-particle-physics-education-redesign-2026|AI in particle physics education]]). Destekli performans ile bağımsız olarak geri getirilebilen bilgi ayrı kazanımlardır. Yazarlar, YZ okuryazarlığının — doğrulama ve YZ'yi kopyalayıcı değil [[teacher-role|öğretmen]] olarak ele alma dahil — erken, özel yardımsız alıştırmanın yanında öğretilmesini savunuyor. Daha ayrıntılı vakayı [[physics-education|fizik eğitimi]] sayfası taşıyor.
 
 Öğrencilerin gerçek bir izleyici kitlesi için bir şey ürettiği bir sürüm de var. Burriss ve ark., 22 on birinci sınıf öğrencisine yaşadıkları YZ [[ethics|etik]] sorunları hakkında video kamu spotları oluşturttu: okul gözetimi, elektronik "geçiş kartları" ve algoritmik [[academic-integrity|intihal]] suçlaması. Ünite Eleştirel Posthümanist Okuryazarlık ve [[multimodal|çok kipli kompozisyon]] üzerine kuruluydu. Öğrenciler zararı kötücül bir araçtan değil insan-makine sorumluluğunun iç içe geçmesinden doğan bir şey olarak betimledi, kopya anlatısını yetişkinlerin hatalı YZ'ye aşırı güvenmesine doğru çevirdi ve [[agency|özerklikle]] kapattı ("çözüm elimizin altında"). Yazarlar [[storytelling-in-education|hikâye anlatımını]] ve işbirlikçi üretimi [[critical-pedagogy|eleştirel YZ okuryazarlığı pedagojisinin]] merkezine koyuyor ve gerçek bir izleyici için YZ *hakkında* kompozisyon yazmanın, yetkinlik ölçeklerinin göremediği eleştirel yetkinliği geliştirdiğini savunuyor ([[burriss-multimodal-composition-critical-ai-literacy-2026|"Young Scholar[s] on the Beat"]]). Bu iddia 22 öğrencili tek bir üniteden gelen bir argümandır, bu yüzden onu bir etki büyüklüğü değil tasarım fikri olarak okuyun.
 
@@ -119,7 +121,7 @@ Daha iyi istem yazmak modeli düzeltmez. Bağlamsal yalakalık araştırmasında
 
 YZ okuryazarlığı istem öğretmek demektir. İstem, görünen kısımdır. Öğrenciler bu araçlarda teknik olarak yetkinleşirken çıktılar hakkında zayıf yargıçlar olarak kalabilir ve yukarıdaki bağımlılık bulgusu da aynı yönü gösteriyor.
 
-Bir oturum yeter. Bir oturum söz dağarcığı tanıtabilir. Gerçek ders materyali üzerinde tekrarlı pratiğin kanıtı daha güçlü ve 59 müdahalenin meta-analizi en büyük etkileri işin bütünleşik ve yansıtıcı olduğu yerlerde buldu.
+Bir oturum yeter. Bir oturum söz dağarcığı tanıtabilir. Gerçek ders materyali üzerinde tekrarlı pratiğin kanıtı daha güçlü ve 59 müdahalenin [[meta-analysis-systematic-review|meta-analiz]]i en büyük etkileri işin bütünleşik ve yansıtıcı olduğu yerlerde buldu.
 
 Bu araçları her gün kullanan öğrenciler çıktıyı zaten değerlendirebilir. Yan ve ark. 38 lisans öğrencisinin %76,32'sini tek turlu bir örüntüde buldu ve bilgisayar sentezi, öğrencilerin YZ tarafından üretilen kodu düzeltmede sıradan programlama sınavı görevlerinden anlamlı biçimde daha kötü olduğunu buldu. Arayüze aşinalık kalibrasyon değildir.
 

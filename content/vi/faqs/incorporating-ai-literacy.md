@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
 audience: [instructors, instructional designers]
-updated: "2026-10-29T16:56:07-04:00"
+updated: "2026-11-15T16:06:28-05:00"
 translation_of: faqs/incorporating-ai-literacy
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ ai_assist:
 
 ## Đừng thêm một bài giảng, hãy thêm một bước vào bài tập bạn đã chấm
 
-Nước đi mặc định của tổ chức là một mô-đun độc lập, thường vào đầu học kỳ, về cách các mô hình ngôn ngữ lớn vận hành và cách viết prompt. Tổng hợp của [[ai-literacy|năng lực AI]] đề nghị một cách sắp xếp khác: sinh viên phát triển năng lực hữu ích hơn khi họ sử dụng, đặt câu hỏi, thẩm định, phê bình và quyết định về AI bên trong những nhiệm vụ khóa học đích thực, một cách lặp lại. Sự tiến bộ về đánh giá phê phán rõ nhất ở nơi những trải nghiệm đó được duy trì và nhúng vào, thay vì được cung cấp một lần ([[ai-literacy-continuum-higher-education|Một chuỗi liên tục năm giai đoạn thực tiễn cho năng lực AI trong giáo dục đại học]]).
+Nước đi mặc định của tổ chức là một mô-đun độc lập, thường vào đầu học kỳ, về cách các [[llm|mô hình ngôn ngữ lớn]] vận hành và cách viết prompt. Tổng hợp của [[ai-literacy|năng lực AI]] đề nghị một cách sắp xếp khác: sinh viên phát triển năng lực hữu ích hơn khi họ sử dụng, đặt câu hỏi, thẩm định, phê bình và quyết định về AI bên trong những nhiệm vụ khóa học đích thực, một cách lặp lại. Sự tiến bộ về đánh giá phê phán rõ nhất ở nơi những trải nghiệm đó được duy trì và nhúng vào, thay vì được cung cấp một lần ([[ai-literacy-continuum-higher-education|Một chuỗi liên tục năm giai đoạn thực tiễn cho năng lực AI trong giáo dục đại học]]).
 
 Bằng chứng [[quantitative-research|định lượng]] chỉ về cùng hướng. Một [[liu-ai-literacy-interventions-meta-analysis-2026|phân tích tổng hợp 59 can thiệp năng lực AI]] phát hiện hiệu ứng lớn nhất ở các phương pháp sư phạm tích hợp và phản tư. Nó cũng cảnh báo rằng các can thiệp tập trung vào kiến thức cho thấy hiệu ứng *đo được* lớn hơn những can thiệp nhắm vào kỹ năng, thái độ hoặc đạo đức. Hãy nhớ điều đó khi bạn chọn điều gì để đo.
 
@@ -79,11 +79,11 @@ Bạn không phải phát minh ra thiết kế. Một số đã được ghi ch�
 
 Sinh viên kinh tế học giải một bài toán trước, lấy câu trả lời của GenAI, so sánh với lập luận của mình, phê bình AI, phản tư, rồi thảo luận với bạn học ([[beck-genai-literacy-economics-hands-on|Nuôi dưỡng năng lực AI sinh tạo trong kinh tế học]]).
 
-Sinh viên tâm lý học đánh giá một thông cáo truyền thông do ChatGPT tạo theo rubric của khóa học, nhận diện các điểm yếu, và sửa lại, qua đó phát triển năng lực chuyên ngành và năng lực phản hồi trong cùng một nhiệm vụ ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Dùng AI sinh tạo để thúc đẩy năng lực tâm lý học, phản hồi và AI]]).
+Sinh viên tâm lý học đánh giá một thông cáo truyền thông do ChatGPT tạo theo rubric của khóa học, nhận diện các điểm yếu, và sửa lại, qua đó phát triển năng lực chuyên ngành và [[feedback-literacy|năng lực phản hồi]] trong cùng một nhiệm vụ ([[richmond-nicholls-genai-psych-feedback-ai-literacies|Dùng AI sinh tạo để thúc đẩy năng lực tâm lý học, phản hồi và AI]]).
 
 Sinh học tích hợp các hoạt động vào việc học chuyên ngành thay vì dạy một chủ đề kỹ thuật riêng ([[zha-ai-literacy-biology-case-study|Tích hợp giáo dục năng lực AI vào một lớp sinh học]]). Bài tập về cơ sở dữ liệu và thiết kế dùng phân tích thất bại làm hoạt động học tập, với sinh viên phân tích lỗi do AI tạo và lặp lại trên prompt và lời giải ([[pedagogy-ai-mistakes|Sư phạm của những sai sót do AI]]). Mô hình LearnAI nhúng việc đồng sáng tạo với AI đúng lúc xuyên các ngành thay vì chạy một mô-đun chung ([[learnai-just-in-time-ai-cocreation-university-2026|LearnAI: đồng sáng tạo với AI đúng lúc xuyên các ngành]]).
 
-Một lưu ý đi kèm một con số. Một khóa nhập môn vật lý hạt được thiết kế lại cho phép AI sinh tạo làm đối tác tường minh trên các bài toán có dạng nghiên cứu, và một bài thi viết không trợ giúp trả về điểm trung bình 20,6 trên 80, với chỉ hai sinh viên đạt 40 ([[ai-particle-physics-education-redesign-2026|AI trong giáo dục vật lý hạt]]). Hiệu năng có trợ giúp và kiến thức truy xuất độc lập là hai thành tựu khác nhau. Các tác giả lập luận nên dạy năng lực AI, gồm cả thẩm định và coi AI như một giáo viên chứ không phải một máy sao chép, ngay từ sớm, song song với việc luyện tập độc lập có chủ đích. [[physics-education|Giáo dục vật lý]] có trình bày đầy đủ hơn.
+Một lưu ý đi kèm một con số. Một khóa nhập môn vật lý hạt được thiết kế lại cho phép AI sinh tạo làm đối tác tường minh trên các bài toán có dạng nghiên cứu, và một bài thi viết không trợ giúp trả về điểm trung bình 20,6 trên 80, với chỉ hai sinh viên đạt 40 ([[ai-particle-physics-education-redesign-2026|AI trong giáo dục vật lý hạt]]). Hiệu năng có trợ giúp và kiến thức truy xuất độc lập là hai thành tựu khác nhau. Các tác giả lập luận nên dạy năng lực AI, gồm cả thẩm định và coi AI như một [[teacher-role|giáo viên]] chứ không phải một máy sao chép, ngay từ sớm, song song với việc luyện tập độc lập có chủ đích. [[physics-education|Giáo dục vật lý]] có trình bày đầy đủ hơn.
 
 Còn một phiên bản nơi sinh viên làm ra thứ gì đó cho một khán giả thật. Burriss và cộng sự cho 22 học sinh lớp 11 soạn các thông điệp dịch vụ công dạng video về những vấn đề [[ethics|đạo đức]] AI mà các em đang sống cùng: giám sát trong trường, “giấy phép ra ngoài” điện tử, và việc bị buộc tội [[academic-integrity|đạo văn]] bằng thuật toán. Bài học dựa trên Năng lực Hậu nhân văn Phê phán và [[multimodal|soạn đa phương thức]]. Sinh viên khắc họa tác hại như thứ nảy sinh từ trách nhiệm chằng chịt giữa người và máy chứ không từ một công cụ phản diện, lật ngược câu chuyện gian lận sang hướng phụ thuộc quá mức của người lớn vào AI lỗi, và kết lại ở [[agency|quyền chủ động]] (“lời giải nằm trong tầm tay chúng ta”). Các tác giả đặt [[storytelling-in-education|kể chuyện]] và việc sản xuất cộng tác vào trung tâm của [[critical-pedagogy|sư phạm năng lực AI phê phán]], và lập luận rằng việc sáng tác *về* AI cho một khán giả thật phát triển năng lực phê phán mà các thang đo năng lực không nhìn thấy ([[burriss-multimodal-composition-critical-ai-literacy-2026|“Young Scholar[s] on the Beat”]]). Khẳng định đó là một lập luận từ một bài học với 22 học sinh, nên hãy đọc nó như một ý tưởng thiết kế chứ không phải một cỡ hiệu ứng.
 
@@ -117,7 +117,7 @@ Viết prompt tốt hơn không sửa được mô hình. Trong nghiên cứu v�
 
 Năng lực AI nghĩa là dạy viết prompt. Viết prompt là phần nhìn thấy được. Sinh viên có thể trở nên thành thạo kỹ thuật với những công cụ này trong khi vẫn đánh giá kém thứ đi ra từ chúng, và phát hiện về sự phụ thuộc ở trên chỉ về cùng hướng.
 
-Một buổi là đủ. Một buổi có thể giới thiệu từ vựng. Bằng chứng cho việc luyện tập lặp lại trên tài liệu khóa học thật mạnh hơn, và phân tích tổng hợp 59 can thiệp phát hiện hiệu ứng lớn nhất ở nơi công việc được tích hợp và phản tư.
+Một buổi là đủ. Một buổi có thể giới thiệu từ vựng. Bằng chứng cho việc luyện tập lặp lại trên tài liệu khóa học thật mạnh hơn, và [[meta-analysis-systematic-review|phân tích tổng hợp]] 59 can thiệp phát hiện hiệu ứng lớn nhất ở nơi công việc được tích hợp và phản tư.
 
 Sinh viên dùng những công cụ này hằng ngày thì đã biết đánh giá đầu ra. Yan và cộng sự phát hiện 76,32% trong 38 sinh viên đại học ở mô thức một lượt, và tổng hợp về giáo dục máy tính phát hiện sinh viên kém hơn một cách có ý nghĩa khi sửa mã do AI tạo so với các nhiệm vụ thi lập trình thông thường. Quen với giao diện không phải là hiệu chỉnh.
 

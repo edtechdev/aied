@@ -7,9 +7,9 @@ audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T14:48:08-04:00"
+updated: "2026-11-15T16:05:39-05:00"
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -69,7 +69,7 @@ Kenaikan pra/pasca menunjukkan intervensinya berhasil. Itu menunjukkan skor naik
 
 Ukuran efek yang terbit dapat dipindahkan ke kelas saya. Ke-14 meta-analisis O'Neill tidak dapat menopang klaim yang dibangun di atasnya, dan kedua interval prediksi yang dilaporkan mencakup nol.
 
-Analitik platform mengukur mutu pengajaran. Agen peringkat ketiga Zhang berada di posisi terakhir pada rubrik pakar.
+[[learning-analytics|Analitik]] platform mengukur mutu pengajaran. Agen peringkat ketiga Zhang berada di posisi terakhir pada rubrik pakar.
 
 ## Apa yang akan kembali kepada Anda
 

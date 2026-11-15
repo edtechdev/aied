@@ -1,14 +1,16 @@
 ---
 title: "Yükseköğretimde YZ Okuryazarlığı Müdahalelerine İlişkin Kanıtlar Nedir?"
 created: "2026-10-14T21:30:00-04:00"
+updated: "2026-11-15T16:08:48-05:00"
 connected_faqs: [incorporating-ai-literacy, verify-ai-output]
 weight: 50
+audience: [instructors, researchers, administrators]
 foundations: [ai-literacy]
 assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
 translation_of: faqs/ai-literacy-evidence
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -52,9 +54,9 @@ Beck ve Brodersen aynı hamleyi bir ekonomi dersine yerleştirdi: öğrenciler �
 
 Hingle ve Johri'nin [[meta-analysis-systematic-review|sistematik derlemesi]] YZ okuryazarlığı etkinliklerini [[icap-framework|ICAP çerçevesiyle]] sınıflandırıyor: edilgen maruz kalma, etkin işleme, yapıcı üretim ve etkileşimli ortak kurma. Müdahaleler dört kipin hepsinde görünüyor ve derleme YZ okuryazarlığını tek yönlü bir bilgilendirme oturumuna indirgemeye karşı çıkıyor ([[hingle-collaborative-ai-literacy-2025]]). Desteklediği uygulamalar bir ödeve yerleştirebileceğiniz uygulamalar: öğrenciler YZ çıktıları üretir, eleştirir, açıklar ve akranlarıyla tartışır.
 
-NC State **AI Literacy Continuum**, *Not Yet Engaged* ve *Uncritical Use*'tan *Informed Use*, *[[critical-thinking|Critical Evaluation]]* ve *Improvement*'a uzanan bir ilerleme tanımlıyor ve dersler ile atölyeler genelinde 330'dan fazla katılımcıyla uygulandı ([[ai-literacy-continuum-higher-education]]). Gözlemleri bir ayrışmaya işaret ediyor: kısa deneyimler öğrencileri bilinçli kullanıma doğru hareket ettirirken eleştirel değerlendirme ve iyileştirme ağırlıklı olarak sürekli, disiplin içine gömülü çalışmada göründü. Doğrulanmış bir ön test/son test ölçümü ve karşılaştırma grubu yoktu, yani bu uygulamaya dayalı kanıttır.
+NC State **AI Literacy Continuum**, *Not Yet Engaged* ve *Uncritical Use*'tan *Informed Use*, *[[critical-thinking|Critical Evaluation]]* ve *Improvement*'a uzanan bir ilerleme tanımlıyor ve dersler ile atölyeler genelinde 330'dan fazla katılımcıyla uygulandı ([[ai-literacy-continuum-higher-education|Liu ve ark., 2026]]). Gözlemleri bir ayrışmaya işaret ediyor: kısa deneyimler öğrencileri bilinçli kullanıma doğru hareket ettirirken eleştirel değerlendirme ve iyileştirme ağırlıklı olarak sürekli, disiplin içine gömülü çalışmada göründü. Doğrulanmış bir ön test/son test ölçümü ve karşılaştırma grubu yoktu, yani bu uygulamaya dayalı kanıttır.
 
-Öğretmen eğitimi aynı tavanı farklı bir açıdan gösteriyor. Le ve ark.nın [[design-based-research|tasarım temelli]] müdahalesi 14 yüksek lisans öğrencisiyle pilot olarak uygulandı ve 29 [[teacher-education|öğretmen eğitimi]] öğrencisiyle değerlendirildi. Bildirilen YZ yeterliği [[self-efficacy|öz yeterliği]] arttı ve öğrenciler üretken YZ'ye daha eleştirel bir [[pedagogy|pedagojik]] bakışa kaydı, ancak etik kazanımları yalnızca marjinal anlamlılığa ulaştı. Böyle bir küçük tasarım temelli çalışma yeterlik ortaya koyamaz ([[genai-literacy-training-teacher-education-dbr-2026]]).
+[[teacher-role|Öğretmen eğitimi]] aynı tavanı farklı bir açıdan gösteriyor. Le ve ark.nın [[design-based-research|tasarım temelli]] müdahalesi 14 yüksek lisans öğrencisiyle pilot olarak uygulandı ve 29 [[teacher-education|öğretmen eğitimi]] öğrencisiyle değerlendirildi. Bildirilen YZ yeterliği [[self-efficacy|öz yeterliği]] arttı ve öğrenciler üretken YZ'ye daha eleştirel bir [[pedagogy|pedagojik]] bakışa kaydı, ancak etik kazanımları yalnızca marjinal anlamlılığa ulaştı. Böyle bir küçük tasarım temelli çalışma yeterlik ortaya koyamaz ([[genai-literacy-training-teacher-education-dbr-2026]]).
 
 ## Öğrencilerin ne yapabildiğini ölçün
 
@@ -88,7 +90,7 @@ Ardından gelen soru kendi programınıza soracağınız sorudur: belge kalıcı
 
 ## Bu kitlenin yanlış yaptığı şeyler
 
-**Bir atölye bir izlencedir.** Continuum'un gözlemleri eleştirel değerlendirmeyi ve iyileştirmeyi sürekli, disiplin içine gömülü çalışmaya yerleştiriyor ve Le ve ark. yeterlik ortaya koymadan öz yeterliği hareket ettirdi.
+**Bir atölye bir [[curriculum-design|izlencedir]].** Continuum'un gözlemleri eleştirel değerlendirmeyi ve iyileştirmeyi sürekli, disiplin içine gömülü çalışmaya yerleştiriyor ve Le ve ark. yeterlik ortaya koymadan öz yeterliği hareket ettirdi.
 
 **Kendine güven okuryazarlığın vekilidir.** GLAT sonucu dolaylı değil: bir performans testi görev performansını yordadı, bir öz bildirim ölçüsü yordamadı.
 

@@ -12,9 +12,9 @@ research_method: [literature review, experiment]
 audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:01:30-05:00"
 translation_of: faqs/ai-guidance-children-under-13
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Leverandørens vilkår siger, at værktøjet er for brugere på 13 år og derove
 
 Tre spørgsmål er filtret ind i den anmodning: hvad en seksårig må gøre med disse systemer, hvad skolen skylder familier, hvis børn møder AI derhjemme, og hvad man gør, når et forbud ikke er det svar, man kan forsvare.
 
-Det korte svar, du kan give bestyrelsen: differentier adgangen efter alder, undervis børnene i, hvordan disse systemer er bygget, før du giver dem et, og hold en voksen i loopet, hvor end barnet ikke kan vurdere outputtet. Et generelt forbud er den mulighed, der har mindst evidens bag sig. Der findes ingen undersøgelse af aldersbaserede forbud i denne vidensbase, og det meste af denne aldersgruppes eksponering sker derhjemme, hvor en skoleregel ikke rækker.
+Det korte svar, du kan give bestyrelsen: differentier adgangen efter alder, undervis børnene i, hvordan disse systemer er bygget, før du giver dem et, og hold en voksen i loopet, hvor end barnet ikke kan vurdere outputtet. Et generelt forbud er den mulighed, der har mindst evidens bag sig. Der findes ingen undersøgelse af aldersbaserede forbud, og det meste af denne aldersgruppes eksponering sker derhjemme, hvor en skoleregel ikke rækker.
 
 ## Den korte version
 
@@ -52,7 +52,7 @@ Deres evaluering er en enkelt spørgeskemaundersøgelse efter eksponering med 83
 
 De to udgaver viser også, hvad grænsen er til for. Det yngste bånd får platformbaserede aktiviteter, der er stilladserede og ikke-generative, så et barn lærer, hvad systemet gør, uden et system, der taler igen. Det avancerede bånd knytter etisk ræsonnement til superviseret generativ brug. Medarbejdere, der forventer, at engagement følger værktøjets sofistikering, oplever som regel det modsatte.
 
-Det, lagdelingen køber dig, er en forsvarlig rækkefølge af operationer. Masser af skoler kører den baglæns, køber chatbot'en om efteråret og underviser om den om foråret, og evidensen om den rækkefølge står længere nede på denne side.
+Det, lagdelingen køber dig, er en forsvarlig rækkefølge af operationer. Masser af skoler kører den baglæns, køber chatbot'en om efteråret og underviser om den om foråret, når den forsvarlige rækkefølge er den omvendte.
 
 ## Start de yngste børn med leg, skabelse og maskiner
 
@@ -66,7 +66,7 @@ Undervisning i, hvordan maskiner virker, hører også til i dette bånd. [[tsing
 
 ## Flyt de 9- til 12-årige over på godkendt, for det meste ikke-generativt arbejde
 
-Det er det bånd, hvor pensumevidensen er stærkest. [[demir-akar-ai-media-literacy-children-2026|Demir og Akar (2026)]] kørte et 18-timers, 5E-baseret kritisk mediekompetenceprogram for 36 tyrkiske fjerdeklasser, der dækkede databeskyttelse, sikker kommunikation og [[ethics|medieetik]], med Cohens *d* mellem grupper på 1,12 for læsning, 1,18 for skrivning og 1,31 for samlet kompetence. Et program, der passer inden for et enkelt semester og rapporterer effekter af den størrelse, er det mest opmuntrende resultat på denne side.
+Det er det bånd, hvor pensumevidensen er stærkest. [[demir-akar-ai-media-literacy-children-2026|Demir og Akar (2026)]] kørte et 18-timers, 5E-baseret kritisk mediekompetenceprogram for 36 tyrkiske fjerdeklasser, der dækkede databeskyttelse, sikker kommunikation og [[ethics|medieetik]], med Cohens *d* mellem grupper på 1,12 for læsning, 1,18 for skrivning og 1,31 for samlet kompetence. Et program, der passer inden for et enkelt semester og rapporterer effekter af den størrelse, er det mest opmuntrende resultat i denne litteratur.
 
 9- til 12-årige får stilladseret eksponering på platforme, som skolen har screenet, med de generative dele reserveret til senere og under supervision. Når børn kan læse, argumentere og tjekke en påstand, bliver arbejdet at lære dem, hvad et system gør, og værktøjet kan komme ind som undersøgelsesobjekt i stedet for hjælper.
 

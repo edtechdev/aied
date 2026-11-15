@@ -1,7 +1,7 @@
 ---
 title: "Apa yang Harus Dipelajari Siswa untuk Karier di Mana AI Sudah Lazim?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:56:49-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
@@ -48,6 +48,8 @@ Jawaban singkat untuk diberikan kepada kolega: ajarkan tugas profesionalnya seca
 [[ithaka-sr-ai-skills-college-graduates-2026|Laporan Ithaka S+R]] meminta 500 pengajar perguruan tinggi empat tahun di AS menilai 26 keterampilan dari kerangka yang mencakup tujuh kategori, dan membandingkan penilaian mereka dengan panel pemberi kerja yang disurvei oleh penulis kerangka itu. Ketidaksepakatannya sistematis, bukan acak: pengajar menempatkan batas-batas AI, atribusi, dan akuntabilitas manusia di peringkat teratas, sementara pemberi kerja menempatkan desain alur kerja, otomasi, dan kerja sama manusia-AI lebih tinggi.
 
 Dua pembacaan atas celah itu menggoda dan keduanya salah. Yang pertama adalah bahwa pengajar tertinggal dari pasar kerja. Yang kedua adalah bahwa pemberi kerja menginginkan kepatuhan. Pembacaan yang lebih berguna adalah bahwa masing-masing kelompok menggambarkan separuh yang berbeda dari pekerjaan yang sama, dan lulusan yang hanya dapat mengerjakan satu separuh belum siap untuk keduanya. Siswa yang tidak dapat menjelaskan mengapa sebuah hasil salah tidak berguna bagi pemberi kerja yang memercayai alur kerjanya; siswa yang hanya dapat mengkritik keluaran AI tidak berguna bagi pemberi kerja yang membutuhkan tugasnya selesai.
+
+Mengubah sinyal pemberi kerja menjadi perubahan kurikulum itu sendiri merupakan proses dengan titik-titik keputusan. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] mengusulkan enam tahap — pemindaian, validasi pemangku kepentingan, diagnosis program, rancangan ulang kurikulum, pelaksanaan dan kapabilitas, serta tinjauan hasil — yang masing-masing memiliki hak keputusan yang dinamai dan keluaran yang dapat dipertanggungjawabkan, dan membatasi AI pada fungsi dukungan yang terbatas seperti deteksi pola dan pemetaan kompetensi. Ini adalah usulan, bukan evaluasi, tetapi ia menamai langkah-langkah yang biasanya dilewati permintaan kelompok penasihat.
 
 Batas bukti ini penting. Ini adalah prioritas yang dinyatakan dalam survei, dan laporan itu tidak menunjukkan bahwa kurikulum mana pun menghasilkan perekrutan, kinerja, atau gaji yang lebih baik. Yang diberikannya kepada Anda adalah alasan yang dapat dipertahankan untuk bertanya apakah siswa Anda pernah berlatih menyelesaikan dan memeriksa alur kerja yang didukung AI, alih-alih membicarakannya.
 
@@ -125,6 +127,6 @@ Yang membantu adalah penyelidikan pada skala yang dapat ditindaklanjuti siswa: t
 
 ## Ke mana selanjutnya
 
-[[career-development-and-readiness]] adalah halaman konsep untuk kelayakan kerja, adaptabilitas, dan bukti ketenagakerjaan, dan [[ai-literacy]] mencakup apa arti literasi di luar pengoperasian alat. Untuk membangunnya ke dalam mata kuliah tertentu, lihat [[incorporating-ai-literacy|memasukkan literasi AI]] dan [[faculty-ai-competencies|kompetensi apa yang dibutuhkan pengajar]].
+[[career-development-and-readiness|Pengembangan dan kesiapan karier]] adalah halaman konsep untuk kelayakan kerja, adaptabilitas, dan bukti ketenagakerjaan, dan [[ai-literacy|literasi AI]] mencakup apa arti literasi di luar pengoperasian alat. Untuk membangunnya ke dalam mata kuliah tertentu, lihat [[incorporating-ai-literacy|memasukkan literasi AI]] dan [[faculty-ai-competencies|kompetensi apa yang dibutuhkan pengajar]].
 
 Untuk [[assessment|rancangan penilaian]] yang membuat kinerja yang didukung dan mandiri dapat dibedakan, lihat [[redesign-assessment-ai-era|merancang ulang penilaian di era AI]] dan [[ai-grading-fairness-reliability|penilaian AI]]. Untuk cara menjaga dukungan agar tidak menjadi ketergantungan, lihat [[reducing-over-reliance|mengurangi ketergantungan berlebih]].

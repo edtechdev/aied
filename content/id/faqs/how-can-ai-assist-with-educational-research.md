@@ -14,9 +14,9 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:58:47-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ Jawaban singkat untuk rapat itu: AI dapat mengambil alih pencarian, penyaringan 
 
 **5.** Verifikasi setiap referensi secara manual, mulai dari penulis, setiap kali AI menyentuh penulisannya.
 
-**6.** Catat prompt, versi model, dan versi korpus, dan anggarkan jam untuk itu.
+**6.** Catat prompt, versi model, dan versi dataset, dan anggarkan jam untuk itu.
 
 ## Putuskan apa yang boleh disentuh AI sebelum proyek dimulai
 
@@ -60,7 +60,7 @@ Sebagian besar manfaatnya datang dari dua keputusan desain. Tulis aturan keputus
 
 ## Tetapkan buku kode sebelum model membaca apa pun
 
-[[qualitative-research|Analisis kualitatif]] adalah tahap di mana interpretasi adalah produknya. Konstruk, rubrik pengodean, dan data pelatihan adalah keputusan manusia, bukan keluaran model ([[ai-methodologies-science-education-research-2026|Martin dkk., 2026]]), yang berarti buku kode harus ditetapkan sebelum proses otomatis berjalan atas korpus. Alternatifnya adalah skema pengodean yang ditulis mengikuti apa yang kebetulan dimunculkan model, dan temanya lalu menggambarkan pembacaan alat atas data Anda.
+[[qualitative-research|Analisis kualitatif]] adalah tahap di mana interpretasi adalah produknya. Konstruk, rubrik pengodean, dan data pelatihan adalah keputusan manusia, bukan keluaran model ([[ai-methodologies-science-education-research-2026|Martin dkk., 2026]]), yang berarti buku kode harus ditetapkan sebelum proses otomatis berjalan atas dataset. Alternatifnya adalah skema pengodean yang ditulis mengikuti apa yang kebetulan dimunculkan model, dan temanya lalu menggambarkan pembacaan alat atas data Anda.
 
 Delegasi dapat lebih terperinci daripada semua atau tidak sama sekali. [[agreement-not-quality-llm-coding-verification|Satu studi verifikasi buta]] menggolongkan 15 dari 72 butir buku kode sebagai jelas memerlukan keahlian manusia, 12 lebih baik dilayani model, dan 16 cocok untuk triase berbasis keyakinan. Urutkan butir Anda sendiri dengan cara itu dan penghematan tenaganya jatuh di tempat yang aman.
 
@@ -89,13 +89,13 @@ Kegagalannya konkret. Dalam [[zhang-platform-scores-miss-ai-teaching-agents-2026
 
 Adopsi telah berjalan lebih cepat daripada pelaporannya. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta dan Lin (2026)]] menganalisis 888 makalah otomasi tinjauan: sejak 2023, 38,0% makalah perangkat lunak dan produk sama sekali tidak melaporkan evaluasi, dibandingkan 9,3% makalah LLM, dan akses model secara sangat dominan bersifat kepemilikan (84,1%). Penilaian keseluruhan yang menguntungkan juga tidak menyiratkan kelayakan untuk didelegasikan, karena 52% dari 118 makalah LLM yang hanya positif masih melaporkan kekhawatiran bahwa alur kerjanya berada di bawah ambang yang dibutuhkan perannya. Kerangka [[meta-analysis-systematic-review|PRISMA]]-LLM mereka memisahkan pengungkapan implementasi dari evaluasi yang peka konsekuensi dan memperlakukan kelima levelnya sebagai tingkatan pengungkapan, bukan tingkatan risiko.
 
-Versi praktisnya: sebutkan sistemnya dan versinya, promptnya, versi korpusnya, apa yang diperiksa manusia, dan di mana ia gagal. Simpan log prompt dan respons, karena daftar tema buatan yang lancar tampak tak terhindarkan jauh sebelum kerja pembuktiannya dimulai ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
+Versi praktisnya: sebutkan sistemnya dan versinya, promptnya, versi datasetnya, apa yang diperiksa manusia, dan di mana ia gagal. Simpan log prompt dan respons, karena daftar tema buatan yang lancar tampak tak terhindarkan jauh sebelum kerja pembuktiannya dimulai ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
 Anggarkan jamnya juga. [[persistent-ai-agents-academic-research|Studi kasus 115 hari dengan satu peneliti]] atas agen penelitian persisten menemukan pola terkuat adalah perluasan kapasitas, bukan substitusi tenaga kerja yang terbukti: seiring menumpuknya memori dan prosedur, cakupan pekerjaan yang didelegasikan tumbuh sementara masukan manusia tidak menyusut.
 
 ## Jalankan inkuiri praktisi dengan aturan yang sama pada skala lebih kecil
 
-Jika Anda seorang dosen yang meneliti kursus Anda sendiri, Anda bekerja di untaian tertipis dalam korpus. [[ai-assisted-educational-research|Penelitian Pendidikan Berbantuan AI]] menyatakan ini sebagai kesenjangan, bukan temuan: inkuiri praktisi berbantuan AI secara masuk akal tersebar luas dan hampir tidak terdokumentasi, dan bukti otomasi tinjauan serta bibliometrik tidak menetapkan bagaimana seorang dosen seharusnya meneliti pengajarannya sendiri.
+Jika Anda seorang dosen yang meneliti kursus Anda sendiri, Anda bekerja di untaian literatur ini yang paling sedikit diteliti. [[ai-assisted-educational-research|Penelitian Pendidikan Berbantuan AI]] menyatakan ini sebagai kesenjangan, bukan temuan: inkuiri praktisi berbantuan AI secara masuk akal tersebar luas dan hampir tidak terdokumentasi, dan bukti otomasi tinjauan serta bibliometrik tidak menetapkan bagaimana seorang dosen seharusnya meneliti pengajarannya sendiri.
 
 Yang terbawa adalah seperangkat disposisi:
 

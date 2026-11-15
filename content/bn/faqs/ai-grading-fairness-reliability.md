@@ -1,7 +1,7 @@
 ---
 title: "শিক্ষার্থীদের কাজ ন্যায্যভাবে ও নির্ভরযোগ্যভাবে নম্বর দিতে এআই ব্যবহার করা যায় কি?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:03:17-05:00"
 type: faq
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
@@ -50,7 +50,7 @@ ai_assist:
 
 আপনার প্রকৃত সীমাবদ্ধতা যেখানে, সেই সবচেয়ে নিচের ধাপটিই বেছে নিন। যদি আপনার নম্বরদানের বোঝা আসে একটি নির্দিষ্ট উত্তর-চাবি মিলানো থেকে, তবে সাধারণ নির্ধারক স্কোরিং একটি [[llm|ভাষা-মডেলের]] চেয়ে বেশি স্বচ্ছ ও নিরীক্ষাযোগ্য, আর ফার্মেসি গবেষণাটি ইঙ্গিত দেয় বস্তুনিষ্ঠ আইটেমে এলএলএম-এর সুবিধা আংশিকভাবে এই কারণে ছিল যে নম্বর দেওয়ার সময় তাকে সঠিক উত্তরগুলো দেওয়া হয়েছিল। ব্যাখ্যা দরকার এমন কাজের জন্য মডেলটি রাখুন, তারপর সেই ব্যাখ্যা যাচাই করুন।
 
-[[automated-assessment|স্বয়ংক্রিয় মূল্যায়ন]] স্কোরিং, মডারেশন ও ফিডব্যাক-উৎপাদনের বিস্তৃত যন্ত্রকৌশল কভার করে। এই পাতাটি তার নিচের বিচার-প্রশ্নটি।
+[[automated-assessment|স্বয়ংক্রিয় মূল্যায়ন]] স্কোরিং, মডারেশন ও ফিডব্যাক-উৎপাদনের বিস্তৃত যন্ত্রকৌশল কভার করে। এই পাতাটি তার নিচের বিচার-প্রশ্নটি ধরে: ওই যন্ত্রকৌশলের কোনো অংশ কি একটি নম্বর লেখার মতো যথেষ্ট ন্যায্য ও নির্ভরযোগ্য?
 
 ## প্রমাণ আসলে যা দেখায়
 

@@ -1,7 +1,7 @@
 ---
 title: "Kişiselleştirilmiş Öğrenme Gerçekte Ne Anlama Gelir ve Ne Zaman Yardımcı Olur?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:26:08-05:00"
+updated: "2026-11-15T16:08:48-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
@@ -28,7 +28,7 @@ ai_assist:
 
 Platform her öğrenci için kişiselleştirilmiş bir deneyim vaat ediyor. Alıştırma sorularını yeniden sıralayabilir, bir açıklamayı öğrencinin futbola olan ilgisi etrafında yeniden yazabilir, geçen haftanın konuşmasını hatırlayabilir ya da öğrencinin sırada ne çalışacağını seçebilir. Dördü de kişiselleştirme diye adlandırılıyor ve bunlardan yalnızca biri buna benzer bir biçimde test edildi.
 
-Bir meslektaşınıza vereceğiniz kısa yanıt: kişiselleştirme, öğrenme deneyiminin bir parçasında bir değişikliği adlandırır ve değeri üç şeye bağlıdır: neyin uyarlandığı, uyarlamayı hangi kanıtın yönlendirdiği ve değişikliğin amaçladığınız öğrenmeyi iyileştirip iyileştirmediği. Tanıdık bir örnek ya da duyarlı bir konuşma, hiçbir şey öğretmeden kişisel hissettirebilir. Etkili bir uyarlama görünmez olabilir. Bu bilgi tabanındaki en net deneysel sonuç dardır: on Taipei lisesinde beş aylık bir Python sertifika kursunda, uyarlanabilir problem sıralamasına rastgele atanan öğrenciler, yüz yüze ve yardımsız bir [[summative-assessment|final sınavında]] sabit bir sıralamaya ve aynı [[conversational-ai|sohbet robotu]] erişimine sahip öğrencilerden yaklaşık 0,150 standart sapma daha yüksek puan aldı ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung ve ark., 2026]]). Bu, belirtilen koşullar altında sıralamayı destekler. Kişiselleştirilmiş diye satılan her şeyi doğrulamaz.
+Bir meslektaşınıza vereceğiniz kısa yanıt: kişiselleştirme, öğrenme deneyiminin bir parçasında bir değişikliği adlandırır ve değeri üç şeye bağlıdır: neyin uyarlandığı, uyarlamayı hangi kanıtın yönlendirdiği ve değişikliğin amaçladığınız öğrenmeyi iyileştirip iyileştirmediği. Tanıdık bir örnek ya da duyarlı bir konuşma, hiçbir şey öğretmeden kişisel hissettirebilir. Etkili bir uyarlama görünmez olabilir. Bu literatürdeki en net deneysel sonuç dardır: on Taipei lisesinde beş aylık bir Python sertifika kursunda, uyarlanabilir problem sıralamasına rastgele atanan öğrenciler, yüz yüze ve yardımsız bir [[summative-assessment|final sınavında]] sabit bir sıralamaya ve aynı [[conversational-ai|sohbet robotu]] erişimine sahip öğrencilerden yaklaşık 0,150 standart sapma daha yüksek puan aldı ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung ve ark., 2026]]). Bu, belirtilen koşullar altında sıralamayı destekler. Kişiselleştirilmiş diye satılan her şeyi doğrulamaz.
 
 ## Kısa özet
 
@@ -64,7 +64,7 @@ Hedef ve seçim uyarlamaları öğrencilerin bir proje, bir yol ya da bir uygula
 
 **Algılanan kişiselleştirme daha zayıf öz düzenlemeyle birlikte gidebilir.** [[personalization-paradox-adaptive-learning-emotions-2026|Li, Lin ve Qiu (2026)]], 486 Çinli lisans öğrencisini üç anket dalgası boyunca izledi ve uyarlanabilir ortamlarını daha kişiselleştirilmiş algılayan öğrencilerin daha zayıf [[self-regulated-learning|öz düzenlemeli öğrenme]] bildirdiğini buldu. İlişkinin büyük kısmını akademik duygular taşıdı; azalan keyif ile birlikte artan [[anxiety-and-stress|kaygı]] ve can sıkıntısı, toplam etkinin yarısından fazlasını açıkladı. Tasarım gözlemseldir ve [[self-report-measures|öz bildirime]] dayanır, bu yüzden düşüşe kişiselleştirmenin neden olduğunu ortaya koyamaz. Yine de bir pilotun izlemesi gereken çıktıyı belirler, çünkü her belirsizliği hızla yanıtlayan bir sistem, dersin kurmayı amaçladığı planlamayı ve yargıyı ortadan kaldırabilir.
 
-**İlgi ve anlayış ayrı kontrollerdir.** [[personalized-learning]] sentezi, Bernstein ve Sibia'nın ilgi temelli bilgi işlem analojileri üzerine küçük, [[qualitative-research|nitel]] bir ön baskı olan *Flawed but Memorable* çalışmasını ele alıyor. Öğrenci tepkileri çeşitlilik gösterdi ve analojinin kaynak alanına aşinalık, analojinin nerede çöktüğünü fark etmelerine yardımcı oldu. Pratik okuma, öğrenenlerin nelerden hoşlandığı kadar neleri zaten bildiklerini de sormak ve bildirilen akılda kalıcılığı bir öğrenme sonucu değil bir deneyim ölçüsü olarak ele almaktır.
+**İlgi ve anlayış ayrı kontrollerdir.** [[personalized-learning|Kişiselleştirilmiş öğrenme]] sentezi, Bernstein ve Sibia'nın ilgi temelli bilgi işlem analojileri üzerine küçük, [[qualitative-research|nitel]] bir ön baskı olan *Flawed but Memorable* çalışmasını ele alıyor. Öğrenci tepkileri çeşitlilik gösterdi ve analojinin kaynak alanına aşinalık, analojinin nerede çöktüğünü fark etmelerine yardımcı oldu. Pratik okuma, öğrenenlerin nelerden hoşlandığı kadar neleri zaten bildiklerini de sormak ve bildirilen akılda kalıcılığı bir öğrenme sonucu değil bir deneyim ölçüsü olarak ele almaktır.
 
 ## Uyarlamaya güvenmeden önce tanıyı kontrol edin
 
@@ -122,6 +122,6 @@ Mümkün olduğunda yardımsız performansı, kalıcılığı ya da aktarımı, 
 
 ## Bundan sonra nereye gidilir
 
-[[personalized-learning]] tanımlar, pazarlama sözcük dağarcığı ve kanıt tabanı için kavram sayfasıdır; [[adaptive-learning]] ise mekanizmayı ve ölçümünü kapsar. [[intelligent-tutoring]] öğrenen modelinin öğretmen tasarımıyla buluştuğu yerdir.
+[[personalized-learning|Kişiselleştirilmiş öğrenme]] tanımlar, pazarlama sözcük dağarcığı ve kanıt tabanı için kavram sayfasıdır; [[adaptive-learning|Uyarlanabilir öğrenme]] ise mekanizmayı ve ölçümünü kapsar. [[intelligent-tutoring|Akıllı özel ders]] öğrenen modelinin öğretmen tasarımıyla buluştuğu yerdir.
 
 Kişiselleştirmenin birkaç karardan biri olduğu bir etkinlik tasarlamak için [[designing-ai-into-learning|YZ'yi öğrenme deneyimine tasarlama]] sayfasına bakın. Sistemi ölçeklemeden önce işe yarayıp yaramadığını nasıl anlayacağınız için [[checking-whether-educational-ai-works|eğitsel bir YZ'nin işe yarayıp yaramadığını kontrol etme]] sayfasına bakın.

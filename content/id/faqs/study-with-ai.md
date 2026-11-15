@@ -11,9 +11,9 @@ research_method: [experiment, literature review, survey]
 audience: [learners, instructors]
 level: [higher ed, secondary]
 connected_resources: [gemini-notebook]
-updated: "2026-10-29T14:48:09-04:00"
+updated: "2026-11-15T16:05:39-05:00"
 translation_of: faqs/study-with-ai
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -43,15 +43,15 @@ Kalimat yang layak dibawa dari halaman ini: model yang sama, dibuka pada titik b
 
 ## Mulai sesi dengan percobaan Anda sendiri
 
-[[adaptive-pretesting-retention|Akgun dan Toker (2026)]] memberi 89 mahasiswa sarjana sesi pretesting adaptif yang sama dan instruksi yang sama, lalu tujuh pekan latihan yang berbeda. Kelompok yang AI-nya menyelidiki miskonsepsi, menuntut elaborasi atas jawaban yang tipis, dan hanya maju pada keterlibatan konseptual yang nyata mendapat skor tertinggi pada pascates tertunda (M = 78,19) dan mengerahkan usaha latihan terbanyak (M = 0,85). Obrolan bebas dengan model yang sama mendapat 67,28 dan 0,49, selisih d = 0,92.
+[[adaptive-pretesting-retention|Akgun dan Toker (2026)]] memberi 89 mahasiswa sarjana sesi pretesting adaptif yang sama dan instruksi yang sama, lalu tujuh pekan latihan yang berbeda. Kelompok yang [[generative-ai|AI]]-nya menyelidiki [[misconceptions|miskonsepsi]], menuntut elaborasi atas jawaban yang tipis, dan hanya maju pada keterlibatan konseptual yang nyata mendapat skor tertinggi pada pascates tertunda (M = 78,19) dan mengerahkan usaha latihan terbanyak (M = 0,85). Obrolan bebas dengan model yang sama mendapat 67,28 dan 0,49, selisih d = 0,92.
 
 Percobaan itu menjalankan tugasnya bahkan ketika percobaannya buruk. Menulis jawaban mengaktifkan apa yang sudah Anda ketahui, dan itu memperlihatkan tepinya. Lalu koreksinya mendarat pada sesuatu.
 
-Kebijakan yang dapat Anda tempel ke chatbot mana pun malam ini: *jelaskan ini seolah saya akan diuji tentangnya, kuis saya satu pertanyaan setiap kali, jangan beri saya jawabannya sampai saya mencoba, beri tahu apa yang salah dan mengapa.* Kalimat itu mereproduksi susunan yang menghasilkan 78,19, dan tidak berbiaya apa pun.
+Kebijakan yang dapat Anda tempel ke [[conversational-ai|chatbot]] mana pun malam ini: *jelaskan ini seolah saya akan diuji tentangnya, kuis saya satu pertanyaan setiap kali, jangan beri saya jawabannya sampai saya mencoba, beri tahu apa yang salah dan mengapa.* Kalimat itu mereproduksi susunan yang menghasilkan 78,19, dan tidak berbiaya apa pun.
 
 ## Mintalah tutor dan sebutkan tugasnya
 
-Permintaan yang kabur mendapat bantuan yang kabur. [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg, Feldman-Maggor dan Wong (2026)]] mewawancarai 20 mahasiswa STEM tentang bagaimana mereka mencari bantuan dan menemukan urutan empat tahap yang layak ditiru: memutuskan apakah bantuan diperlukan, memilih kepada siapa bertanya, memutuskan jenis bantuan apa yang diminta, dan menilai apa yang kembali. Mahasiswa ini mendatangi model lebih dulu karena itu opsi dengan hambatan terendah, dalam kata seorang mahasiswa "pertama ChatGPT, lalu teman sekelas, dan terakhir guru", dan mereka meminta petunjuk, panduan langkah demi langkah, dan penjelasan konsep alih-alih solusi jadi. Peserta lain menggambarkan chatbot itu sebagai "sebuah petunjuk, alat bantu, tetapi bukan solusi mandiri".
+Permintaan yang kabur mendapat bantuan yang kabur. [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg, Feldman-Maggor dan Wong (2026)]] mewawancarai 20 mahasiswa STEM tentang bagaimana mereka mencari bantuan dan menemukan urutan empat tahap yang layak ditiru: memutuskan apakah bantuan diperlukan, memilih kepada siapa bertanya, memutuskan jenis bantuan apa yang diminta, dan menilai apa yang kembali. Mahasiswa ini mendatangi model lebih dulu karena itu opsi dengan hambatan terendah, dalam kata seorang mahasiswa "pertama ChatGPT, lalu teman sekelas, dan terakhir [[teacher-role|guru]]", dan mereka meminta petunjuk, panduan langkah demi langkah, dan penjelasan konsep alih-alih solusi jadi. Peserta lain menggambarkan chatbot itu sebagai "sebuah petunjuk, alat bantu, tetapi bukan solusi mandiri".
 
 Bunyinya bila diketik: "Saya terus mendapat tanda yang salah ketika mengintegralkan per bagian; ini percobaan saya; di mana patahnya?" Titik macet yang bernama mendapat balasan yang berguna, dan "bantu saya dengan tugas ini" mendapat draf. Minta contoh yang dikerjakan untuk satu jenis soal, pelajari bentuknya, lalu kerjakan soal berikutnya sendiri. Minta konsepnya dijelaskan seolah Anda akan diuji tentangnya, lalu jelaskan kembali tanpa melihat. Minta pertanyaan, satu setiap kali, dan tahan jawaban Anda sampai Anda berkomitmen pada satu.
 
@@ -73,7 +73,7 @@ Kebiasaan yang memisahkan kedua kelompok itu, sebagai instruksi kepada diri send
 
 "Penggunaan kritis" adalah frasa yang berarti sedikit sampai Anda memisahkan bagian-bagiannya. [[verification-quality-reliance-calibration-genai-2026|Wei dan Shang (2026)]] memisahkan tujuh: evaluasi epistemik, apakah Anda mulai memeriksa, seberapa baik Anda memeriksa, apakah pemeriksaannya berhasil, apa yang Anda lakukan dengan keluarannya, bagaimana kinerja Anda pada tugasnya, dan apa yang Anda pelajari secara mandiri. Dua di antaranya lebih penting daripada sisanya. Memeriksa tidak sama dengan berhasil memeriksa, dan proses yang cermat dapat berakhir tanpa kesimpulan sementara proses yang serampangan mendarat pada jawaban yang benar secara kebetulan. [[trust-calibration|Ketergantungan terkalibrasi]] berarti keputusan Anda untuk menerima atau menolak cocok dengan kualitas keluaran yang sebenarnya, yang tidak dapat Anda baca dari seberapa yakin jawabannya terdengar.
 
-Tiga temuan membuat masalahnya konkret. Dávila dkk. (2025) memberi pembelajar saran yang benar sekitar separuh waktu dan menemukan bahwa seberapa besar bobot yang mereka berikan bervariasi menurut [[prior-knowledge|pengetahuan awal]] dan gender mereka, jadi kepercayaan tidak melacak akurasi. Zheng dkk. (2025) mendokumentasikan pola "aplikasi yang gagal" ketika seorang mahasiswa mengikuti panduan yang benar dengan tepat dan tetap mencapai jawaban yang salah. [[self-efficacy|Keyakinan]] juga bukan pemandu: Rheu dan Cho (2025) menemukan bahwa memahami cara kerja model bahasa berkaitan dengan lebih banyak pemeriksaan fakta yang dilaporkan sendiri, sementara beberapa bentuk keyakinan dan pengetahuan fitur berkaitan dengan lebih sedikit.
+Tiga temuan membuat masalahnya konkret. Dávila dkk. (2025) memberi pembelajar saran yang benar sekitar separuh waktu dan menemukan bahwa seberapa besar bobot yang mereka berikan bervariasi menurut [[prior-knowledge|pengetahuan awal]] dan gender mereka, jadi kepercayaan tidak melacak akurasi. Zheng dkk. (2025) mendokumentasikan pola "aplikasi yang gagal" ketika seorang mahasiswa mengikuti panduan yang benar dengan tepat dan tetap mencapai jawaban yang salah. [[self-efficacy|Keyakinan]] juga bukan pemandu: Rheu dan Cho (2025) menemukan bahwa memahami cara kerja [[llm|model bahasa]] berkaitan dengan lebih banyak pemeriksaan fakta yang [[self-report-measures|dilaporkan sendiri]], sementara beberapa bentuk keyakinan dan pengetahuan fitur berkaitan dengan lebih sedikit.
 
 Jadi verifikasi apa pun yang dinilai terhadap sumber yang dapat Anda sebutkan. Mahasiswa dalam studi Viberg memeriksa keluaran terhadap materi kuliah mereka dan pengajar mereka, salah satu menjelaskan "Saya hanya menemui asisten pengajar jika kami tidak dapat menentukan apakah ChatGPT mengarang". Ketika Anda benar-benar tidak dapat menentukannya, tandai titik itu belum terselesaikan dan tanyakan kepada orang. Mengadopsi sebuah klaim agar halaman selesai adalah cara ketidakpastian kecil menjadi jawaban salah yang sudah Anda hafalkan.
 
@@ -81,7 +81,7 @@ Putuskan aturan dasar Anda sebelum Anda membutuhkannya. [[ethical-conditions-llm
 
 ## Biarkan ia menangani logistik
 
-Kecepatan punya kegunaan yang sah. [[ai-guided-learning-audiovideo-2026|Kawamura (2026)]] membangun sistem yang menyesuaikan pemutaran lisan dengan tingkat kesulitan tiap segmen, rata-rata sekitar 1,30x, dan menghasilkan ringkasan video multimodal yang memangkas waktu menonton 53% tanpa perbedaan yang signifikan secara statistik pada skor kuis. Meringkas, menerjemahkan, dan merencanakan jadwal belajar berada dalam kategori yang sama. Bergerak melalui materi lebih cepat tidak apa-apa. Melewati kerja yang mengubah Anda adalah bagian yang harus dihindari.
+Kecepatan punya kegunaan yang sah. [[ai-guided-learning-audiovideo-2026|Kawamura (2026)]] membangun sistem yang menyesuaikan pemutaran lisan dengan tingkat kesulitan tiap segmen, rata-rata sekitar 1,30x, dan menghasilkan ringkasan video [[multimodal|multimodal]] yang memangkas waktu menonton 53% tanpa perbedaan yang signifikan secara statistik pada skor kuis. Meringkas, menerjemahkan, dan merencanakan jadwal belajar berada dalam kategori yang sama. Bergerak melalui materi lebih cepat tidak apa-apa. Melewati kerja yang mengubah Anda adalah bagian yang harus dihindari.
 
 Pembedanya adalah di mana alat itu berada relatif terhadap pemikirannya. Ringkasan sebuah bab yang sudah Anda baca menghemat waktu. Ringkasan yang Anda baca alih-alih babnya menggantikan bacaannya.
 
@@ -93,7 +93,7 @@ Menilai sesi dari bagaimana rasanya atau seberapa rapi keluarannya akan menyesat
 - **Uji setelah jeda.** Pascates tujuh pekan adalah yang memisahkan kondisi dalam studi statistik itu. Skor yang diambil dengan percakapan masih di layar memberi tahu Anda sangat sedikit.
 - **Jelaskan dengan suara keras, dari ingatan, tanpa catatan.** Jika Anda membutuhkan frasa alat itu, pemahamannya belum menjadi milik Anda.
 
-Pengambilan membutuhkan jadwal. [[memdora-ai-spaced-repetition|Zhang (2026)]] menggambarkan Memdora, sistem repetisi berjeda AI yang dibangun di atas temuan bahwa sekitar 70% materi yang baru dipelajari terlupakan dalam 24 jam tanpa peninjauan. Ia membuat kartu dari apa pun yang sedang Anda baca dan menjadwalkannya dengan FSRS-6. Bersikaplah tepat tentang nilainya: makalah itu melaporkan retensi yang lebih baik daripada alat kartu kilat tradisional, dan kontribusinya adalah taksonomi desain dan interaksi alih-alih uji retensi terkontrol. Terima penjadwalan dan pengambilan sebagai mapan dan desain interaksi spesifiknya sebagai menjanjikan. Jika aplikasi yang Anda pakai melaporkan hasil per item, bacalah, karena pembelajaran per kartu memberi tahu Anda lebih banyak daripada hitungan rentetan.
+Pengambilan membutuhkan jadwal. [[memdora-ai-spaced-repetition|Zhang (2026)]] menggambarkan Memdora, sistem repetisi berjeda AI yang dibangun di atas temuan bahwa sekitar 70% materi yang baru dipelajari terlupakan dalam 24 jam tanpa peninjauan. Ia membuat kartu dari apa pun yang sedang Anda baca dan menjadwalkannya dengan FSRS-6. Bersikaplah tepat tentang nilainya: makalah itu melaporkan retensi yang lebih baik daripada alat kartu kilat tradisional, dan kontribusinya adalah taksonomi desain dan interaksi alih-alih uji retensi terkontrol. Terima penjadwalan dan [[retrieval-spacing-interleaving|pengambilan]] sebagai mapan dan desain interaksi spesifiknya sebagai menjanjikan. Jika aplikasi yang Anda pakai melaporkan hasil per item, bacalah, karena pembelajaran per kartu memberi tahu Anda lebih banyak daripada hitungan rentetan.
 
 ## Apa yang salah dipahami mahasiswa tentang hal ini
 

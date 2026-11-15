@@ -6,9 +6,9 @@ weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-updated: "2026-10-29T16:42:57-04:00"
+updated: "2026-11-15T16:02:38-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ ai_assist:
 
 [[agentic-workflows-education|تعلیم میں ایجنٹک ورک فلو]] چار بار بار آنے والی صلاحیتیں بتاتا ہے: عکاسی، منصوبہ بندی، ٹول کا استعمال، اور کثیر ایجنٹ تعاون۔ ہر ایک امکان کے ساتھ ایک لاگت بھی جوڑتی ہے، [[explainable-ai|وضاحت کی صلاحیت]]، ہم آہنگی، [[trust-calibration|اعتماد]]، تاخیر اور نگرانی میں۔
 
-طلبہ کی طرف کے کردار [[adaptive-learning|ایڈاپٹیو]] ٹیوٹرنگ اور مطالعے کی منصوبہ بندی سے لے کر [[formative-assessment|تشکیلاتی]] فیڈبیک، رہنمائی والے [[problem-solving|مسئلہ حل کرنے]] اور مشق کی پیداوار تک، اور پھر شرطِ لازم کی سفارشات اور عکاسی والی [[metacognition|میٹا کوگنیشن]] [[prompt-engineering|پرامپٹ نگاری]] تک چلتے ہیں۔ اساتذہ کی طرف کے کردار مواد کی تیاری، [[automated-question-generation|سوال کی پیداوار]] اور توثیق، فیڈبیک کی چھانٹی، کورس کی [[learning-analytics|لرننگ اینالیٹکس]]، تدریسی ڈیزائن، وسائل کی بازیابی، اور مخصوص ذیلی ایجنٹوں کی ترتیب کا احاطہ کرتے ہیں۔
+طلبہ کی طرف کے کردار [[adaptive-learning|ایڈاپٹیو]] ٹیوٹرنگ اور مطالعے کی منصوبہ بندی سے لے کر [[formative-assessment|تشکیلاتی]] فیڈبیک، رہنمائی والے [[problem-solving|مسئلہ حل کرنے]] اور مشق کی پیداوار تک، اور پھر شرطِ لازم کی سفارشات اور عکاسی والی [[metacognition|میٹا کوگنیشن]] [[prompt-engineering|پرامپٹ نگاری]] تک چلتے ہیں۔ اساتذہ کی طرف کے کردار مواد کی تیاری، [[automated-question-generation|سوال کی پیداوار]] اور توثیق، فیڈبیک کی چھانٹی، کورس کی [[learning-analytics|لرننگ اینالیٹکس]]، [[learning-design|تدریسی ڈیزائن]]، وسائل کی بازیابی، اور مخصوص ذیلی ایجنٹوں کی ترتیب کا احاطہ کرتے ہیں۔
 
 ان میں سے دو ابتدا میں زیادہ محفوظ ہیں، کیونکہ دونوں ایسی دستاویز بناتے ہیں جسے طلبہ سے پہلے کوئی شخص پڑھتا ہے: سوال پیدا کرنے والا جو توثیق کار کے ساتھ جڑا ہو، اور ایسی ڈرافٹنگ جس میں استاد ترمیم کرے۔
 

@@ -1,7 +1,7 @@
 ---
 title: "YZ'nin Yaygın Olduğu Kariyerler İçin Öğrenciler Neler Öğrenmeli?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:26:08-05:00"
+updated: "2026-11-15T16:08:48-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
@@ -46,6 +46,8 @@ Bir meslektaşınıza vereceğiniz kısa yanıt: aracın kullanımını değil, 
 ## İşverenler ve eğitmenler neyi vurguluyor
 
 [[ithaka-sr-ai-skills-college-graduates-2026|Ithaka S+R'ın raporu]], 500 ABD dört yıllık üniversite eğitmeninden yedi kategoriyi kapsayan bir çerçevedeki 26 beceriyi puanlamasını istedi ve puanlarını çerçevenin yazarlarının anket yaptığı bir işveren paneliyle karşılaştırdı. Anlaşmazlık rastgele değil sistematiktir: eğitmenler YZ'nin sınırlarını, atıfı ve insan sorumluluğunu en üste yerleştirirken işverenler iş akışı tasarımını, otomasyonu ve insan-YZ ekip çalışmasını daha yükseğe koydu.
+
+Bir işveren sinyalini izlence değişikliğine dönüştürmek, karar noktaları olan bir sürecin kendisidir. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] altı aşama öneriyor — algılama, paydaş doğrulaması, program tanısı, izlence yeniden tasarımı, uygulama ve yetkinlik, sonuç gözden geçirmesi — her biri adlandırılmış bir karar yetkisi ve hesap verebilir bir çıktıyla, ve YZ'yi örüntü tespiti ile yetkinlik haritalama gibi sınırlı destek işlevleriyle sınırlıyor. Bu bir değerlendirme değil bir öneridir, ama bir danışma grubu talebinin genellikle atladığı adımları adlandırır.
 
 Bu boşluğa dair iki okuma caziptir ve ikisi de yanlıştır. Birincisi, eğitmenlerin işgücü piyasasının gerisinde olduğudur. İkincisi, işverenlerin itaat istediğidir. Daha yararlı okuma, her grubun aynı işin farklı bir yarısını betimlediği ve yalnızca bir yarısını yapabilen bir mezunun ikisine de hazır olmadığıdır. Bir sonucun neden yanlış olduğunu açıklayamayan öğrenci, iş akışına güvenen bir işverene yaramaz; yalnızca YZ çıktısını eleştirebilen öğrenci ise görevin tamamlanmasına ihtiyaç duyan bir işverene yaramaz.
 
@@ -93,7 +95,6 @@ Destek tarafının kendi riski var. [[shojaei-genai-dependence-critical-thinking
 
 Aynı mantık öğrenciler işgücü piyasasına girmeden önce de geçerlidir. [[diener-incentivizing-learning-ai-assisted-work-2026|Diener ve ark. (2026)]], YZ yardımını, becerinin bağımsız alıştırmayla büyüdüğü ve çalışanlar YZ yanıtlarını kabul ettiğinde azaldığı bir dizi olarak modelliyor. Modellerinde acemiler düşük beceride sıkışıp kalabilir ve uzmanlar, çıktı doğruluğu yüksek kalsa bile beceri kaybedebilir; stratejik çalışanlar ise gelecekteki becerinin değeri olduğu için YZ daha doğru olsa bile bağımsız çözebilir. Makale bir müdahale değil kuramsaldır, ama izlence sorusunu keskinleştirir: YZ destekli çıktının işi denetleme yetkinliğini inşa ettiğini varsaymak yerine bağımsız alıştırmayı planlayın ve ödüllendirin.
 
-
 Program incelemesi için ölçüleri ayırın. Ders performansı, gösterilmiş YZ okuryazarlığı, staj yöneticisi değerlendirmesi, istihdam durumu ve iş kalitesi farklı zaman ufuklarına sahip farklı çıktılardır ve tek bir müdahale hepsini ortaya koyamaz. [[ai-literacy-evidence|YZ okuryazarlığı kanıtı]] sayfası, müdahale çalışmalarının gerçekte neyi desteklediğinin dürüst envanteridir.
 
 ## Kesinlik vaat etmeden kariyer kaygısını ele alın
@@ -126,6 +127,6 @@ Yardımcı olan şey, öğrencinin harekete geçebileceği ölçekte araştırma
 
 ## Bundan sonra nereye gidilir
 
-[[career-development-and-readiness]] istihdam edilebilirlik, uyarlanabilirlik ve işgücü kanıtı için kavram sayfasıdır; [[ai-literacy]] ise okuryazarlığın araç kullanımının ötesinde ne anlama geldiğini kapsar. Bunu belirli bir derse yerleştirmek için [[incorporating-ai-literacy|YZ okuryazarlığını derse katma]] ve [[faculty-ai-competencies|öğretim üyelerinin hangi yetkinliklere ihtiyacı olduğu]] sayfalarına bakın.
+[[career-development-and-readiness|Kariyer gelişimi ve hazırbulunuşluk]] istihdam edilebilirlik, uyarlanabilirlik ve işgücü kanıtı için kavram sayfasıdır; [[ai-literacy|YZ okuryazarlığı]] ise okuryazarlığın araç kullanımının ötesinde ne anlama geldiğini kapsar. Bunu belirli bir derse yerleştirmek için [[incorporating-ai-literacy|YZ okuryazarlığını derse katma]] ve [[faculty-ai-competencies|öğretim üyelerinin hangi yetkinliklere ihtiyacı olduğu]] sayfalarına bakın.
 
 Destekli ve bağımsız performansı birbirinden ayırt edilebilir kılan [[assessment|değerlendirme tasarımı]] için [[redesign-assessment-ai-era|YZ çağında değerlendirmeyi yeniden tasarlama]] ve [[ai-grading-fairness-reliability|YZ notlandırma]] sayfalarına bakın. Desteğin bağımlılığa dönüşmesini nasıl önleyeceğiniz için [[reducing-over-reliance|aşırı bağımlılığı azaltma]] sayfasına bakın.

@@ -6,9 +6,9 @@ weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-updated: "2026-10-29T12:23:32-04:00"
+updated: "2026-11-15T16:01:30-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ En [[agentic-ai|agent]] planlægger, kalder værktøjer, holder kontekst, deler 
 
 [[agentic-workflows-education|Agentiske arbejdsgange i uddannelse]] navngiver fire tilbagevendende kapaciteter: refleksion, planlægning, værktøjsbrug og samarbejde mellem flere agenter. Hver af dem tilføjer en omkostning ved siden af muligheden, i [[explainable-ai|fortolkelighed]], koordinering, [[trust-calibration|tillid]], svartid og tilsyn.
 
-Rollerne på studentsiden går fra [[adaptive-learning|adaptiv]] vejledning og studieplanlægning over [[formative-assessment|formativ]] feedback, guidet [[problem-solving|problemløsning]] og generering af øvelser til anbefalinger om forudsætninger og reflekterende [[metacognition|metakognitiv]] [[prompt-engineering|promptning]]. Rollerne på undervisersiden dækker udvikling af materiale, [[automated-question-generation|spørgsmålsgenerering]] og validering, triage af feedback, kursus[[learning-analytics|analyser]], undervisningsdesign, hentning af ressourcer og orkestrering af specialiserede underagenter.
+Rollerne på studentsiden går fra [[adaptive-learning|adaptiv]] vejledning og studieplanlægning over [[formative-assessment|formativ]] feedback, guidet [[problem-solving|problemløsning]] og generering af øvelser til anbefalinger om forudsætninger og reflekterende [[metacognition|metakognitiv]] [[prompt-engineering|promptning]]. Rollerne på undervisersiden dækker udvikling af materiale, [[automated-question-generation|spørgsmålsgenerering]] og validering, triage af feedback, kursus[[learning-analytics|analyser]], [[learning-design|undervisningsdesign]], hentning af ressourcer og orkestrering af specialiserede underagenter.
 
 To af dem er sikrere tidligt, fordi begge producerer et artefakt, som et menneske læser, før de studerende gør: en spørgsmålsgenerator parret med en validator, og kladdeskrivning som en underviser redigerer.
 

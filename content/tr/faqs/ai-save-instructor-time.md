@@ -1,13 +1,14 @@
 ---
 title: "Öğretmen Olarak Yapay Zeka Nasıl Zaman Kazandırır?"
 created: "2026-10-14T21:30:00-04:00"
+updated: "2026-11-15T16:08:48-05:00"
 connected_faqs: [ai-feedback-at-scale, faculty-ai-competencies]
 weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
 translation_of: faqs/ai-save-instructor-time
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -53,7 +54,7 @@ Bu, azaltma değil yeniden dağıtmadır: [[generative-ai|üretken YZ'den]] kaza
 
 Kalite, planlamaya elverecek kadar istikrarlı bir örüntü içinde dengesiz. Kör değerlendiriciler ders sonuçları ve çıkış biletlerinin YZ sürümlerini, profesyonellerce tasarlanmış materyallere karşı %59,7 oranında tercih etti ve lise düzeyi içerik için YZ materyalini %59,2 oranında tercih etti. Tasarruf ayrıca güveninizin en düşük olduğu yerde büyür: kendi alanınızın dışında öğretmek, aracın size verdiği şey ile tek başınıza yazacağınız şey arasındaki en geniş farkın olduğu durumdur.
 
-İki kategori ters yönde çalışıyor. İlkokul düzeyi materyalde gelişimsel uygunluk açısından insanlar yaklaşık %65 oranında tercih edildi. Hedeflenmiş [[scaffolding|iskeleler]] [[multilingual-learning|çok dilli]] öğrenenler ve [[special-education|özel eğitimdeki]] öğrenciler için yanlış değil nötr olarak geri geldi; bu kulağa geldiğinden daha kötüdür, çünkü nötr bir iskele baştan yeniden kuracağınız iskeledir.
+İki kategori ters yönde çalışıyor. İlkokul düzeyi materyalde gelişimsel uygunluk açısından insanlar yaklaşık %65 oranında tercih edildi. Hedeflenmiş [[scaffolding|iskeleler]] [[multilingual-learning|çok dilli]] [[learners|öğrenenler]] ve [[special-education|özel eğitimdeki]] öğrenciler için yanlış değil nötr olarak geri geldi; bu kulağa geldiğinden daha kötüdür, çünkü nötr bir iskele baştan yeniden kuracağınız iskeledir.
 
 Bir akşamı buna harcamadan önce bunu öngören test şudur: çıktıyı denetleyebilecek kadar kesin bir tanım yapabiliyor musunuz? Tek bir kazanıma dair çıkış bileti, evet. Bir paragrafın sınıfının iki yıl gerisinde okuyan belirli bir dokuz yaşındaki çocuğa uygun olup olmadığı, hayır.
 
@@ -83,7 +84,7 @@ Puanlama, görünen getirisi en büyük ve taşınabilirliği en zayıf görevdi
 
 ## Öğretim üyelerinin yanlış yaptığı şeyler
 
-**"%31 benim rakamım."** O rakam ders hazırlığı üzerine çalışan 259 K-12 [[science-education|fen]] öğretmenine ait. Yön taşınır, büyüklük taşınmaz. Tartışma üzerine kurulu bir seminer daha az tasarruf sağlayabilir ve güvenlik kısıtları olan bir laboratuvar dersi, en çok yardım istediğiniz kısımda hiç tasarruf sağlamayabilir.
+**"%31 benim rakamım."** O rakam ders hazırlığı üzerine çalışan 259 [[k-12|K-12]] [[science-education|fen]] öğretmenine ait. Yön taşınır, büyüklük taşınmaz. Tartışma üzerine kurulu bir seminer daha az tasarruf sağlayabilir ve güvenlik kısıtları olan bir laboratuvar dersi, en çok yardım istediğiniz kısımda hiç tasarruf sağlamayabilir.
 
 **"Zaman kazanmak hedeftir."** Brezilya deneyi karşı örnektir. Saatler bedava geldi ve en alt çeyrek hiçbir şey kazanmadı. Hedef, saatlerin ne satın aldığıdır.
 

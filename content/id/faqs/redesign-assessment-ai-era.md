@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-10-29T14:48:09-04:00"
+updated: "2026-11-15T15:58:08-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-10-28T10:45:41-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ Jawaban singkatnya: putuskan **tentang apa** nilai itu seharusnya menjadi bukti,
 
 ## Tentukan tentang apa nilai itu menjadi bukti
 
-Mulailah dengan menyatakan secara eksplisit kemampuan apa yang seharusnya diwakili oleh nilai. Apakah Anda menilai apa yang dapat dilakukan siswa secara mandiri, apa yang dapat mereka capai secara tepat dengan AI, kemampuan mereka mengevaluasi dan mengarahkan AI, atau kombinasi dari semuanya? [[assessment-validity|Validitas Penilaian]] dalam basis pengetahuan ini memperlakukan hal ini sebagai masalah validitas: artefak yang rapi tidak lagi menjadi bukti yang memadai bahwa siswa memiliki kemampuan yang tampak ditunjukkan oleh artefak itu. Ini separuh sisi penilaian dari argumen yang sama; separuh sisi penegakannya ada di [[reduce-ai-cheating|mengurangi kecurangan AI]], dan kerangka validitas umumnya berjalan melalui [[evaluating-ai-interventions-methods|mengevaluasi intervensi AI]].
+Mulailah dengan menyatakan secara eksplisit kemampuan apa yang seharusnya diwakili oleh nilai. Apakah Anda menilai apa yang dapat dilakukan siswa secara mandiri, apa yang dapat mereka capai secara tepat dengan AI, kemampuan mereka mengevaluasi dan mengarahkan AI, atau kombinasi dari semuanya? [[assessment-validity|Validitas penilaian]] memperlakukan hal ini sebagai masalah validitas: artefak yang rapi tidak lagi menjadi bukti yang memadai bahwa siswa memiliki kemampuan yang tampak ditunjukkan oleh artefak itu. Ini separuh sisi penilaian dari argumen yang sama; separuh sisi penegakannya ada di [[reduce-ai-cheating|mengurangi kecurangan AI]], dan kerangka validitas umumnya berjalan melalui [[evaluating-ai-interventions-methods|mengevaluasi intervensi AI]].
 
 Nyatakan jawabannya di silabus, di lembar tugas, dan di rubrik. Siswa membaca tiga dokumen dan menaati yang paling spesifik. “Penggunaan AI diizinkan dengan pengakuan” bukan pernyataan tentang apa yang Anda ukur, dan kalimat itu tidak memberi siswa cara untuk mengetahui apakah penggunaan yang diizinkan merongrong hal yang Anda nilai.
 
@@ -86,7 +86,7 @@ Tujuannya sama pentingnya dengan mekaniknya. [[ai-agents-joyful-assessment-third
 
 **“Akreditasi dan persetujuan program tidak akan bergerak secepat itu.”** Studi di atas menyebut tenggat waktu yang panjang dan kendala akreditasi kohort besar sebagai gesekan utamanya. Satu mata kuliah dapat mengubah apa yang terjadi di dalam penilaian yang sudah ada tanpa mengubah namanya, bobotnya, atau capaian pembelajarannya, dan itu biasanya cukup untuk memulai.
 
-**“Ini merugikan siswa yang cemas dan siswa dengan disabilitas.”** Bisa jadi. Komponen lisan langsung memerlukan akomodasi yang direncanakan lebih awal, pilihan format di tempat konstruknya memungkinkan, serta perhatian pada perbedaan linguistik dan bias penilai. Verifikasi kemampuannya, bukan kondisi penampilannya.
+**“Ini merugikan siswa yang cemas dan [[inclusive-learning|siswa dengan disabilitas]].”** Bisa jadi. Komponen lisan langsung memerlukan akomodasi yang direncanakan lebih awal, pilihan format di tempat konstruknya memungkinkan, serta perhatian pada perbedaan linguistik dan bias penilai. Verifikasi kemampuannya, bukan kondisi penampilannya.
 
 **“Kita sebaiknya membeli detektor saja.”** Hasil daya beda berargumen menentangnya sebagai tulang punggung desain: jika positif palsu naik lebih cepat daripada positif benar, pemantauan yang lebih kuat membuat penyembunyian relatif lebih menarik. Deteksi mungkin punya tempat dalam respons yang juga mendesain ulang tugas, dan [[should-we-use-ai-detectors|apakah kita harus menggunakan detektor AI]] mencakup argumen itu.
 

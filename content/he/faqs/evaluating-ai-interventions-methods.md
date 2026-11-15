@@ -6,8 +6,9 @@ weight: 55
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
+updated: "2026-11-15T16:09:28-05:00"
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -71,7 +72,7 @@ ai_assist:
 
 גדלי אפקט מפורסמים עוברים לכיתה שלי. 14 המטה-אנליזות של O'Neill לא יכלו לתמוך בטענות שנבנו עליהן, ושני רווחי החיזוי שדווחו כללו אפס.
 
-אנליטיקת פלטפורמה מודדת איכות הוראה. הסוכן שדורג שלישי אצל Zhang היה אחרון במחוון מומחים.
+[[learning-analytics|אנליטיקת פלטפורמה]] מודדת איכות הוראה. הסוכן שדורג שלישי אצל Zhang היה אחרון במחוון מומחים.
 
 ## מה יחזור אליכם
 

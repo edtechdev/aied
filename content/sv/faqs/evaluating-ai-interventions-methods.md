@@ -7,9 +7,9 @@ audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T17:10:58-04:00"
+updated: "2026-11-15T16:03:31-05:00"
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,7 @@ ai_assist:
     date: "2026-10-29"
     agent: hermes-agent
 ---
+
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
 
@@ -39,7 +40,7 @@ Matcha metoden mot påståendet. En enkät säger om studenterna gillade aktivit
 
 Sidan [[research-methods-aied|Forskningsmetoder inom AIED]] anger vad varje alternativ ger. Randomiserade experiment ger starkast kausal slutledning. Kvasiexperimentella före/efter- eller matchade gruppdesigner passar intakta klasser och stöder svagare påståenden. [[qualitative-research|Kvalitativa]] intervjuer, fokusgrupper, observationer och artefaktanalys synliggör mekanismer och oväntade upplevelser. [[mixed-methods-research|Mixade metoder]] parar ihop utfallsbevis med en förklaring. [[design-based-research|Designbaserad forskning]] passar en lärare som förfinar en insats över iterationer.
 
-AI-assisterad kvalitativ analys hör hemma på den listan med ett villkor. Den ordnar om en intervjukorpus på minuter, så [[chain-behind-claim-warrantability-2026|berättigbarhet]] spelar lika stor roll som träffsäkerhet: dokumentera de omorganiseringar som låter en läsare granska, bestrida och revidera vägen från data till påstående.
+AI-assisterad kvalitativ analys hör hemma på den listan med ett villkor. Den ordnar om intervjutranskript på minuter, så [[chain-behind-claim-warrantability-2026|berättigbarhet]] spelar lika stor roll som träffsäkerhet: dokumentera de omorganiseringar som låter en läsare granska, bestrida och revidera vägen från data till påstående.
 
 En enkät är ett [[self-report-measures|självrapporterat mått]]: rätt för attityder, fel för lärande.
 
@@ -69,7 +70,7 @@ En före/efter-vinst visar att insatsen fungerade. Den visar att poängen steg. 
 
 Publicerade effektstorlekar överförs till min klass. O'Neills 14 metaanalyser kunde inte bära de påståenden som byggdes på dem, och båda de rapporterade prediktionsintervallen omfattade noll.
 
-Plattformsanalys mäter undervisningskvalitet. Zhangs tredjerankade agent låg sist på en expertmatris.
+[[learning-analytics|Plattformsanalys]] mäter undervisningskvalitet. Zhangs tredjerankade agent låg sist på en expertmatris.
 
 ## Vad som kommer att slå tillbaka mot dig
 
@@ -96,3 +97,4 @@ Plattformsanalys mäter undervisningskvalitet. Zhangs tredjerankade agent låg s
 ## Vart du går härnäst
 
 [[does-ai-help-students-learn|Hjälper AI studenter att lära sig?]] sammanfattar vad utfallsbevisen visar, och [[research-gaps-aied|Forskningsluckor inom AIED]] täcker var de tunnar ut. [[checking-whether-educational-ai-works|Hur vet vi att en pedagogisk AI fungerar korrekt?]] är versionen av den här frågan för dem som bygger eller köper ett system.
+

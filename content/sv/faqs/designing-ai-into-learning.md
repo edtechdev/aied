@@ -6,9 +6,9 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-11-01T11:35:17-05:00"
+updated: "2026-11-15T16:03:31-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -22,9 +22,10 @@ ai_assist:
     agent: hermes-agent
 ---
 
+
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
 
-Modulöversikten har en rad som säger ”AI-aktivitet” och ingen kan säga vad den ersätter. Eller också har en lärare bett att få lägga till en chattbot i en kurs som redan fungerar, och din uppgift är att placera den utan att bryta den del som gjorde kursen fungerande.
+Modulöversikten har en rad som säger ”AI-aktivitet” och ingen kan säga vad den ersätter. Eller också har en lärare bett att få lägga till en [[conversational-ai|chattbot]] i en kurs som redan fungerar, och din uppgift är att placera den utan att bryta den del som gjorde kursen fungerande.
 
 Utgå från lärandemålet och från den aktivitet som producerar det. Samma modell kan vara en stötta, en [[socratic-method|sokratisk]] partner, en läsare av utkast, en [[simulation|simulering]] eller en svarsmaskin, och vilken du får beror på designen snarare än på modellen. Namnge det läge du bygger, sätt studentens försök före all hjälp som dyker upp, och behåll minst en väg genom kursen som går utan verktyget.
 
@@ -42,7 +43,7 @@ Utgå från lärandemålet och från den aktivitet som producerar det. Samma mod
 
 ## Bestäm vad studenten gör utan verktyget
 
-Kunskapsbasens begrepp [[pedagogy|Pedagogik och undervisningsstrategier]] levererar provet: bevarar konfigurationen den aktivitet som producerar det avsedda lärandet? Svara på det på papper, innan någon väljer en funktion.
+Begreppet [[pedagogy|Pedagogik och undervisningsstrategier]] levererar provet: bevarar konfigurationen den aktivitet som producerar det avsedda lärandet? Svara på det på papper, innan någon väljer en funktion.
 
 [[finkelstein-principled-ai-education-2025|Ramverket för principfast AI-utbildning]] anger den allmänna regeln: teknik bör förstärka snarare än tränga undan de mänskliga förmågor som utbildningen avser att utveckla. Skriven som ett prov för en modul innebär det att namnge förmågan, namnge den aktivitet som bygger den och fråga om AI ligger inne i den aktiviteten eller bredvid den.
 
@@ -72,7 +73,7 @@ Två lärdomar följer för AI-design. Sätt verktyget där sekvensen avser en a
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] behandlar tid som ett designat stöd i stället för en egenskap hos studenten: en kurs i egen takt har en veckotilldelning på ungefär 100 minuter med ett mål nära 20 minuter om dagen, tidsmedvetna påminnelser, en framstegspanel och en kort kontroll på 3 till 12 frågor i slutet av varje underkapitel. Den baslinje som designen svarar mot är brutal: nästan 25 procent av över 600 studerande började först under den sista veckan, och 95 procent av den gruppen misslyckades.
 
-Läs det som en designfråga, inte som en bevisad effekt. Artikeln jämför en senare kurs med en tidigare i stället för att göra en kontrollerad studie, så förbättringen kan inte skiljas från bytet av kull och ämne, och påminnelser som är starka nog att flytta studietiden är också en [[privacy]]-fråga som du måste besvara i kursplanen.
+Läs det som en designfråga, inte som en bevisad effekt. Artikeln jämför en senare kurs med en tidigare i stället för att göra en [[rct|kontrollerad studie]], så förbättringen kan inte skiljas från bytet av kull och ämne, och påminnelser som är starka nog att flytta studietiden är också en [[privacy]]-fråga som du måste besvara i kursplanen.
 
 ## Bestäm vad som ska hållas tillbaka, och när det ska återställas
 
@@ -100,7 +101,7 @@ Effektivitet är målet för ombearbetningen. Att skriva utfall och bedömningsm
 
 **”Vi har inte tid att sekvensera om en hel kurs.”** Sekvensera då om en modul och en bedömning. Gångjärnet för håll tillbaka och förstärk är en kontrollpunkt, och sekvensen tänka först är tre instruktioner på ett utdelningsblad.
 
-**”Vår AI-funktion har redan skyddsräcken.”** Skyddsräcken begränsar vad modellen säger. De avgör inte om studenten försökte först, om stödet trappas ner eller om en AI-fri väg finns. Det är designbeslut i din kurs, inte inställningar i produkten.
+**”Vår AI-funktion har redan [[guardrails|skyddsräcken]].”** Skyddsräcken begränsar vad modellen säger. De avgör inte om studenten försökte först, om stödet trappas ner eller om en AI-fri väg finns. Det är designbeslut i din kurs, inte inställningar i produkten.
 
 ## Vad du ska göra den här veckan
 

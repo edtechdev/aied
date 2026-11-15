@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:26:08-05:00"
+updated: "2026-11-15T15:57:48-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,8 @@ Phản hồi từ bạn học có chỗ đứng riêng trong trình tự. [[scaf
 
 Lợi thế của Gu và cộng sự là nhỏ, và họ đọc nó là thật nhưng không tự nó tạo ra chuyển biến. Giàn giáo của giảng viên, hướng dẫn viết prompt và phiếu bài tập làm phần việc hỗ trợ.
 
+Nguồn phản hồi có thể ít quan trọng hơn thời điểm. Ở 391 học sinh trung học Đức, phản hồi do giảng viên viết và phản hồi của LLM không tạo ra khác biệt có ý nghĩa về số lần sửa bài, bài viết sau đó, thời gian làm bài hay cảm nhận; hậu nghiệm Bayes nghiêng về phản hồi của giảng viên ở bài viết sau đó nhưng vẫn giữ từ một phần tư đến hai phần năm khối lượng trong vùng tương đương, và chỉ phản hồi AI tức thời đạt điểm cao hơn về tính hữu ích và động lực ([[meyer-teacher-ai-feedback-writing-2026|Meyer và cộng sự, 2026]]). Nếu một nhận xét vòng đầu có thể đến khi sinh viên còn đang sửa bài, thì thời điểm đó là một phần của thiết kế đang làm nên tác dụng.
+
 ## Đưa cho mô hình một rubric, rồi bắt nó cho thấy các bước
 
 Sinh đầu ra theo rubric là phần có thể tự động hóa.
@@ -92,7 +94,7 @@ Aldino và cộng sự thấy cùng mô thức hỗ trợ rồi kiểm chứng t
 
 Mười hai trong 21 giáo viên của Aldino và cộng sự đã sửa thêm ở mức câu, và mô thức chiếm ưu thế là hiệu chỉnh giọng điệu: hạ bớt lời khen (f = 11), bỏ gợi ý (f = 9), bỏ lời động viên (f = 8). Các sửa đổi tập trung ở chiều quan hệ, đặc biệt là Quan hệ giáo viên và sinh viên (f = 24). Họ đang bảo vệ tính chân thực và giọng chuyên môn, và công việc đó không tự động hóa được.
 
-Sinh viên là phía bên kia của sự kiểm chứng đó, và cách họ mô tả sự phân công lao động gần với điều trang này khuyến nghị. Trong các nhóm thảo luận với 20 sinh viên đại học, phản hồi của giảng viên được đánh giá cao vì mang tính quan hệ, cá nhân hóa và dựa trên chuyên môn, trong khi phản hồi do AI tạo ra bị coi là phi cá nhân và có thể không công bằng; chính những sinh viên đó sẵn lòng với một mô hình kết hợp, trong đó giảng viên đọc bài của họ và bổ sung cho nhận xét của mô hình ([[fong-chatgpt-feedback-evaluations-2026|Fong và cộng sự (2026)]]). Cùng nghiên cứu đó phát hiện rằng đánh giá của họ khớp với ChatGPT về tính cụ thể và khả năng hành động nhưng khác biệt về tính kịp thời và tính tích cực, nên những chiều mà phán đoán của chính mô hình có thể tin được hẹp hơn toàn bộ rubric.
+Sinh viên là phía bên kia của sự kiểm chứng đó, và cách họ mô tả sự phân công lao động gần với cách phân công được khuyến nghị. Trong các nhóm thảo luận với 20 sinh viên đại học, phản hồi của giảng viên được đánh giá cao vì mang tính quan hệ, cá nhân hóa và dựa trên chuyên môn, trong khi phản hồi do AI tạo ra bị coi là phi cá nhân và có thể không công bằng; chính những sinh viên đó sẵn lòng với một mô hình kết hợp, trong đó giảng viên đọc bài của họ và bổ sung cho nhận xét của mô hình ([[fong-chatgpt-feedback-evaluations-2026|Fong và cộng sự (2026)]]). Cùng nghiên cứu đó phát hiện rằng đánh giá của họ khớp với ChatGPT về tính cụ thể và khả năng hành động nhưng khác biệt về tính kịp thời và tính tích cực, nên những chiều mà phán đoán của chính mô hình có thể tin được hẹp hơn toàn bộ rubric.
 
 ## Dạy sinh viên cách đọc nhận xét
 

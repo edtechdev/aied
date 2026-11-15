@@ -8,9 +8,9 @@ assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
 audience: [instructors, researchers, administrators]
-updated: "2026-10-29T16:56:07-04:00"
+updated: "2026-11-15T16:04:40-05:00"
 translation_of: faqs/ai-literacy-evidence
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,7 @@ Beck và Brodersen đưa cùng động tác đó vào một khóa kinh tế: sin
 
 **AI Literacy Continuum** của NC State mô tả một tiến trình từ *Chưa tham gia* và *Sử dụng thiếu phê phán* qua *Sử dụng có hiểu biết*, *[[critical-thinking|Đánh giá phê phán]]*, và *Cải thiện*, và đã được triển khai với hơn 330 người tham gia qua các khóa học và buổi tập huấn ([[ai-literacy-continuum-higher-education]]). Các quan sát của nó gợi ra một sự phân đôi: những trải nghiệm ngắn đưa sinh viên tới việc sử dụng có hiểu biết, trong khi đánh giá phê phán và cải thiện chủ yếu xuất hiện ở những công việc bền bỉ, gắn với chuyên ngành. Không có thước đo trước và sau đã được kiểm chứng và không có nhóm so sánh, nên đây là bằng chứng dựa trên thực hành.
 
-Giáo dục sư phạm cho thấy cùng mức trần đó từ một góc khác. Can thiệp [[design-based-research|dựa trên thiết kế]] của Le và cộng sự được thử nghiệm với 14 học viên thạc sĩ và được đánh giá với 29 sinh viên [[teacher-education|ngành sư phạm]]. [[self-efficacy|Hiệu năng tự thân]] về năng lực AI được báo cáo tăng lên và sinh viên chuyển sang xem xét [[pedagogy|sư phạm]] AI sinh tạo một cách phê phán hơn, trong khi mức tăng về đạo đức chỉ đạt mức có ý nghĩa sát ngưỡng. Một nghiên cứu dựa trên thiết kế nhỏ với hình dạng như vậy không thể xác lập năng lực ([[genai-literacy-training-teacher-education-dbr-2026]]).
+[[teacher-role|Giáo dục]] sư phạm cho thấy cùng mức trần đó từ một góc khác. Can thiệp [[design-based-research|dựa trên thiết kế]] của Le và cộng sự được thử nghiệm với 14 học viên thạc sĩ và được đánh giá với 29 sinh viên [[teacher-education|ngành sư phạm]]. [[self-efficacy|Hiệu năng tự thân]] về năng lực AI được báo cáo tăng lên và sinh viên chuyển sang xem xét [[pedagogy|sư phạm]] AI sinh tạo một cách phê phán hơn, trong khi mức tăng về đạo đức chỉ đạt mức có ý nghĩa sát ngưỡng. Một nghiên cứu dựa trên thiết kế nhỏ với hình dạng như vậy không thể xác lập năng lực ([[genai-literacy-training-teacher-education-dbr-2026]]).
 
 ## Đo điều sinh viên có thể làm
 
@@ -86,7 +86,7 @@ Câu hỏi theo sau là câu cần đặt cho chương trình của chính bạn
 
 ## Nhóm độc giả này hiểu sai điều gì
 
-Một buổi tập huấn là một chương trình học. Các quan sát của Continuum đặt việc đánh giá phê phán và cải thiện vào những công việc bền bỉ, gắn với chuyên ngành, và Le và cộng sự đã dịch chuyển được hiệu năng tự thân mà không xác lập được năng lực.
+Một buổi tập huấn là một [[curriculum-design|chương trình học]]. Các quan sát của Continuum đặt việc đánh giá phê phán và cải thiện vào những công việc bền bỉ, gắn với chuyên ngành, và Le và cộng sự đã dịch chuyển được hiệu năng tự thân mà không xác lập được năng lực.
 
 Sự tự tin là đại diện cho năng lực. Kết quả GLAT là trực tiếp: một bài kiểm tra thực hiện dự báo được kết quả thực hiện còn một thước đo tự báo cáo thì không.
 

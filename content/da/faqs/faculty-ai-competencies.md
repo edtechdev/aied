@@ -6,9 +6,9 @@ weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-updated: "2026-10-29T12:23:33-04:00"
+updated: "2026-11-15T16:01:30-05:00"
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ Bundlinjen: promptteknik er den mindste del af det her. Undervisere skal kunne v
 
 ## Definer kompetencen, før du booker lokalet
 
-Vidensbasens syntese om [[ai-literacy|AI-kompetence]] peger på fire dimensioner, og de er en brugbar dagsorden, fordi hver af dem kræver en anden slags session:
+Syntesen om [[ai-literacy|AI-kompetence]] peger på fire dimensioner, og de er en brugbar dagsorden, fordi hver af dem kræver en anden slags session:
 
 - **Grundlæggende forståelse** af AI's muligheder og begrænsninger.
 - **Praktisk formåen** i at bruge AI-værktøjer.
@@ -54,6 +54,8 @@ Skriv listen ned, før du planlægger sessionerne. Fire dimensioner plus et unde
 ## Vurder præstation frem for selvtillid
 
 [[self-report-measures|Selvrapporteret]] AI-kompetence kan afvige betydeligt fra demonstreret formåen, og det er den mest praktiske advarsel i denne litteratur for alle, der driver underviserudvikling. En selvtillidsmåling ved slutningen af en workshop måler, hvordan workshoppen føltes.
+
+En undersøgelse kan endda forudsiges for godt. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] klassificerede 314 af 315 undervisere i kompetencebånd ud fra en 300-leds-skala med α = 0,997 og uden faktoranalyse, og institutionelt tilhørsforhold var den største bidragyder — et tegn på, at scorerne fulgte, hvor folk arbejder, ikke hvad de kan.
 
 Forskningen i læreres [[agentic-ai|multiagent]]-arbejdsgange giver en anden grund til at teste frem for at spørge: systemtænkning, pædagogiske overbevisninger og [[self-efficacy]] spiller sammen i AI-integration, så den samme session lander forskelligt hos to undervisere med samme faglige baggrund. Det taler for differentierede programmer og imod den standardworkshop, som de fleste institutioner kører.
 
@@ -103,7 +105,7 @@ Indholdseksperter finder selv ud af integrationen. Indholdsviden forudsagde ikke
 
 Ét rammeværk dækker alle. Standarden med seks roller findes, fordi TPACK, SAMR og de store underviserstandarder dækker K-12-lærere eller kun undervisningsdimensionen.
 
-Modstand er et videnshul, der skal fyldes. Risikoaversion forudsagde intentionen negativt, og identitetsarbejdet beskriver undervisere, der ræsonnerer ud fra pædagogiske værdier. Noget af det, der ligner modvilje, er en forsvarlig holdning til studerendes overafhængighed.
+Modstand er et videnshul, der skal fyldes. Risikoaversion forudsagde intentionen negativt, og [[learner-identity|identitetsarbejdet]] beskriver undervisere, der ræsonnerer ud fra pædagogiske værdier. Noget af det, der ligner modvilje, er en forsvarlig holdning til studerendes overafhængighed.
 
 ## Hvad du vil få tilbage
 

@@ -1,7 +1,7 @@
 ---
 title: "Vad betyder personligt anpassat lärande egentligen, och när hjälper det?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:03:31-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
@@ -28,7 +28,7 @@ ai_assist:
 
 Plattformen lovar en personligt anpassad upplevelse för varje student. Den kan ordna om övningsfrågorna, skriva om en förklaring kring en students intresse för fotboll, minnas förra veckans samtal eller välja vad studenten ska studera härnäst. Alla fyra kallas anpassning, och bara en av dem har testats i något som liknar den formen.
 
-Här är det korta svaret: anpassning betecknar en förändring av någon del av lärandeupplevelsen, och dess värde beror på tre saker: vad som anpassas, vilken evidens som driver anpassningen, och huruvida förändringen förbättrar det lärande du avser. Ett bekant exempel eller ett lyhört samtal kan kännas personligt utan att lära ut något. En effektiv anpassning kan vara osynlig. Det tydligaste experimentella resultatet i den här kunskapsbasen är snävt: i en fem månader lång Python-certifieringskurs vid tio gymnasieskolor i Taipei skattade studenter som randomiserats till adaptiv uppgiftssekvensering ungefär 0,150 standardavvikelser högre på en fysisk, ohjälpt [[summative-assessment|sluttentamen]] än studenter med fast sekvens och identisk [[conversational-ai|chattbotstillgång]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung m.fl., 2026]]). Det stöder sekvensering under angivna betingelser. Det validerar inte allt som säljs som anpassat.
+Här är det korta svaret: anpassning betecknar en förändring av någon del av lärandeupplevelsen, och dess värde beror på tre saker: vad som anpassas, vilken evidens som driver anpassningen, och huruvida förändringen förbättrar det lärande du avser. Ett bekant exempel eller ett lyhört samtal kan kännas personligt utan att lära ut något. En effektiv anpassning kan vara osynlig. Det tydligaste experimentella resultatet i den här litteraturen är snävt: i en fem månader lång Python-certifieringskurs vid tio gymnasieskolor i Taipei skattade studenter som randomiserats till adaptiv uppgiftssekvensering ungefär 0,150 standardavvikelser högre på en fysisk, ohjälpt [[summative-assessment|sluttentamen]] än studenter med fast sekvens och identisk [[conversational-ai|chattbotstillgång]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung m.fl., 2026]]). Det stöder sekvensering under angivna betingelser. Det validerar inte allt som säljs som anpassat.
 
 ## Kortversionen
 

@@ -1,7 +1,7 @@
 ---
 title: "Apa Arti Personalisasi Pembelajaran Sebenarnya, dan Kapan Ia Membantu?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:56:49-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
@@ -28,7 +28,7 @@ ai_assist:
 
 Platform itu menjanjikan pengalaman yang dipersonalisasi untuk setiap siswa. Ia mungkin menyusun ulang soal latihan, menulis ulang penjelasan dengan konteks minat siswa pada sepak bola, mengingat percakapan pekan lalu, atau memilih apa yang dipelajari siswa berikutnya. Keempatnya disebut personalisasi, dan hanya satu di antaranya yang pernah diuji dalam bentuk yang kurang lebih seperti itu.
 
-Jawaban singkat untuk diberikan kepada kolega: personalisasi menamai sebuah perubahan pada sebagian pengalaman belajar, dan nilainya bergantung pada tiga hal, yaitu apa yang diadaptasi, bukti apa yang menggerakkan adaptasinya, dan apakah perubahan itu memperbaiki pembelajaran yang Anda maksudkan. Contoh yang sudah dikenal atau percakapan yang responsif dapat terasa personal sambil tidak mengajarkan apa pun. Adaptasi yang efektif dapat tidak terlihat. Hasil eksperimen paling jelas dalam basis pengetahuan ini bersifat sempit: dalam kursus sertifikasi Python lima bulan di sepuluh sekolah menengah di Taipei, siswa yang diacak ke pengurutan soal adaptif memperoleh skor sekitar 0,150 standar deviasi lebih tinggi pada [[summative-assessment|ujian akhir]] tatap muka tanpa bantuan daripada siswa dengan pengurutan tetap dan akses [[conversational-ai|chatbot]] yang identik ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). Itu mendukung pengurutan dalam kondisi tertentu. Itu tidak memvalidasi segala hal yang dijual sebagai personalisasi.
+Jawaban singkat untuk diberikan kepada kolega: personalisasi menamai sebuah perubahan pada sebagian pengalaman belajar, dan nilainya bergantung pada tiga hal, yaitu apa yang diadaptasi, bukti apa yang menggerakkan adaptasinya, dan apakah perubahan itu memperbaiki pembelajaran yang Anda maksudkan. Contoh yang sudah dikenal atau percakapan yang responsif dapat terasa personal sambil tidak mengajarkan apa pun. Adaptasi yang efektif dapat tidak terlihat. Hasil eksperimen paling jelas dalam literatur ini bersifat sempit: dalam kursus sertifikasi Python lima bulan di sepuluh sekolah menengah di Taipei, siswa yang diacak ke pengurutan soal adaptif memperoleh skor sekitar 0,150 standar deviasi lebih tinggi pada [[summative-assessment|ujian akhir]] tatap muka tanpa bantuan daripada siswa dengan pengurutan tetap dan akses [[conversational-ai|chatbot]] yang identik ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). Itu mendukung pengurutan dalam kondisi tertentu. Itu tidak memvalidasi segala hal yang dijual sebagai personalisasi.
 
 ## Versi singkat
 
@@ -64,7 +64,7 @@ Adaptasi tujuan dan pilihan memungkinkan siswa memilih proyek, jalur, atau pener
 
 **Personalisasi yang dipersepsikan dapat berjalan bersama regulasi diri yang lebih lemah.** [[personalization-paradox-adaptive-learning-emotions-2026|Li, Lin dan Qiu (2026)]] mengikuti 486 mahasiswa sarjana Tiongkok melalui tiga gelombang survei dan menemukan bahwa siswa yang mempersepsikan lingkungan adaptif mereka lebih personal melaporkan [[self-regulated-learning|pembelajaran yang diatur sendiri]] yang lebih lemah. Emosi akademik membawa sebagian besar asosiasinya, dengan berkurangnya kesenangan disertai meningkatnya [[anxiety-and-stress|kecemasan]] dan kebosanan yang menyumbang lebih dari separuh efek totalnya. Rancangannya observasional dan [[self-report-measures|berbasis laporan diri]], jadi ia tidak dapat menetapkan bahwa personalisasi menyebabkan penurunan itu. Ia mengidentifikasi hasil yang harus dipantau uji coba, karena sistem yang menjawab setiap ketidakpastian dengan cepat dapat menghapus perencanaan dan pertimbangan yang seharusnya dibangun mata kuliah.
 
-**Minat dan pemahaman adalah pemeriksaan yang terpisah.** Sintesis [[personalized-learning]] membahas *Flawed but Memorable* karya Bernstein dan Sibia, sebuah pracetak [[qualitative-research|kualitatif]] kecil tentang analogi komputasi yang dipersonalisasi menurut minat. Reaksi siswa beragam, dan keakraban dengan ranah sumber analoginya membantu mereka mendeteksi di mana analogi itu runtuh. Pembacaan praktisnya adalah menanyakan apa yang sudah diketahui pembelajar sekaligus apa yang mereka nikmati, dan memperlakukan keteringatan yang dilaporkan sebagai ukuran pengalaman, bukan hasil pembelajaran.
+**Minat dan pemahaman adalah pemeriksaan yang terpisah.** Sintesis [[personalized-learning|pembelajaran yang dipersonalisasi]] membahas *Flawed but Memorable* karya Bernstein dan Sibia, sebuah pracetak [[qualitative-research|kualitatif]] kecil tentang analogi komputasi yang dipersonalisasi menurut minat. Reaksi siswa beragam, dan keakraban dengan ranah sumber analoginya membantu mereka mendeteksi di mana analogi itu runtuh. Pembacaan praktisnya adalah menanyakan apa yang sudah diketahui pembelajar sekaligus apa yang mereka nikmati, dan memperlakukan keteringatan yang dilaporkan sebagai ukuran pengalaman, bukan hasil pembelajaran.
 
 ## Periksa diagnosisnya sebelum memercayai adaptasinya
 
@@ -122,6 +122,6 @@ Ukur kinerja tanpa bantuan, retensi, atau transfer jika memungkinkan, waktu dan 
 
 ## Ke mana selanjutnya
 
-[[personalized-learning]] adalah halaman konsep untuk definisi, kosakata pemasaran, dan basis buktinya, dan [[adaptive-learning]] mencakup mekanismenya serta pengukurannya. [[intelligent-tutoring]] adalah tempat model pembelajar bertemu dengan rancangan tutornya.
+[[personalized-learning|Pembelajaran yang dipersonalisasi]] adalah halaman konsep untuk definisi, kosakata pemasaran, dan basis buktinya, dan [[adaptive-learning|pembelajaran adaptif]] mencakup mekanismenya serta pengukurannya. [[intelligent-tutoring|Tutoring cerdas]] adalah tempat model pembelajar bertemu dengan rancangan tutornya.
 
 Untuk merancang aktivitas di mana personalisasi adalah satu keputusan di antara beberapa, lihat [[designing-ai-into-learning|merancang AI ke dalam pengalaman belajar]]. Untuk cara mengetahui apakah sistemnya berfungsi sebelum Anda menskalakannya, lihat [[checking-whether-educational-ai-works|memeriksa apakah AI pendidikan berfungsi]].

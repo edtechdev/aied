@@ -1,7 +1,8 @@
 ---
 title: "Bir Eğitim YZ'sinin Doğru Çalışıp Çalışmadığını Yalnızca İyi Puan Aldığını Değil Nasıl Anlarız?"
 created: "2026-10-14T21:30:00-04:00"
-connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
+updated: "2026-11-15T16:08:48-05:00"
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
 foundations: [ai-education]
@@ -29,7 +30,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ---
 
@@ -65,7 +66,7 @@ Linear Control Systems ders asistanı bunu doğru biçimde bildiriyor. En iyi ya
 
 ## Her çıktıyı ayrı ayrı puanlayın
 
-WrAFT projesinde ince ayarlanmış bir model, 360 ayrılmış TOEFL denemesinde insan notlayıcılarla **0,84** anlaşma puanına ulaştı. Bu, notlandırma için güçlü bir sonuçtur. Aynı projenin geri bildirim yazmak üzere eğitilmiş modeli, kesilmiş ve ayrıştırılamaz çıktı üretti; farklı bir modeli yalnızca istemleyerek ise öğretmenlerin tercih ettiği geri bildirim elde edildi ([[wraft-automated-writing-evaluation-argumentative-2026]]).
+WrAFT projesinde ince ayarlanmış bir model, 360 ayrılmış TOEFL denemesinde insan notlayıcılarla **0,84** anlaşma puanına ulaştı. Bu, notlandırma için güçlü bir sonuçtur. Aynı projenin geri bildirim yazmak üzere eğitilmiş modeli, kesilmiş ve ayrıştırılamaz çıktı üretti; farklı bir modeli yalnızca [[prompt-engineering|istem]]leyerek ise [[teacher-role|öğretmen]]lerin tercih ettiği geri bildirim elde edildi ([[wraft-automated-writing-evaluation-argumentative-2026]]).
 
 Bilgi tabanı aynı başarısızlığı ikinci bir biçimde taşıyor: notlandırma modülü iyi puan alan, geri bildirimi ise cümle ortasında kesilmiş ve okunamaz gelen bir uygulama. Manşet sayısında bunu söyleyen hiçbir şey yoktu.
 
@@ -91,13 +92,13 @@ Pratik sürümü: yaklaşık elli çıktıdan bir örnek alın, bir insana puanl
 
 En temiz çözüm, modeli ölçmeyi amaçladığınız niceliğin kendisi üzerinde eğitmektir. İnce ayarlanmış bir model, test sorularının istatistiksel özelliklerini yeniden üretmek üzere eğitildi: her maddenin ne kadar zor olduğunu ve güçlü öğrencileri zayıflardan ne kadar iyi ayırdığını. Bu örüntüleri kendisine söylenerek değil, öğrenerek edindi ([[multimodal-item-parameter-estimation-2026]]). Hedef değerlendirmenin kendi özelliği olduğu için değerlendirme, sözcükler hakkında değil o özellik hakkında olabildi.
 
-Bitiş noktası kadar ilerlemeyi de bildirin. SWIM’in yazma simülatörü her aşamanın puanını yan yana yayımladı: rubriğe dayalı istemleme **0,577**, ince ayar **0,474 ± 0,023**, pekiştirmeli öğrenme **0,618 ± 0,005** ([[swim-student-writing-simulation-2026]]). Bir okur o tablodan eğitimin bir şey yapıp yapmadığını görebilir. Tek bir nihai sayı bunu söyleyemez ve ince ayarlı modelin istemden daha kötü performans gösterdiği bir aşamayı gizler.
+Bitiş noktası kadar ilerlemeyi de bildirin. SWIM’in yazma simülatörü her aşamanın puanını yan yana yayımladı: rubriğe dayalı istemleme **0,577**, ince ayar **0,474 ± 0,023**, [[reinforcement-learning|pekiştirmeli öğrenme]] **0,618 ± 0,005** ([[swim-student-writing-simulation-2026]]). Bir okur o tablodan eğitimin bir şey yapıp yapmadığını görebilir. Tek bir nihai sayı bunu söyleyemez ve ince ayarlı modelin istemden daha kötü performans gösterdiği bir aşamayı gizler.
 
 ## Projenizin dışındaki bir şeyle karşılaştırın
 
 Önce bir temel çizgi edinin; ucuz olanı da dâhil. Ders asistanının dayanaksız modeli düz bir anahtar sözcük aramasının altında puan aldı; bu, yol haritasını değiştiren ve bulunması bir gün süren türden bir sonuçtur.
 
-Sonra dışarıdan bir kıyaslama, sayınızın hiç iyi olup olmadığını söyler. CDPK pedagoji kıyaslamasında EduQwen **%96,52**’ye ulaşırken Gemini-3 Pro **%90,55**’te kaldı ([[singh-eduqwen-pedagogical-rl-2026]]). Gerçek öğretmen mesleki gelişim sınavlarından kurulan ve **97 modeli** kapsayan Pedagoji Kıyaslaması ise doğruluğun **%28** ile **%89** arasında değiştiğini buldu ([[cdpk-pedagogy-benchmark-llms|Lelièvre ve arkadaşları, 2025]]).
+Sonra dışarıdan bir kıyaslama, sayınızın hiç iyi olup olmadığını söyler. CDPK [[pedagogy|pedagoji]] kıyaslamasında EduQwen **%96,52**’ye ulaşırken Gemini-3 Pro **%90,55**’te kaldı ([[singh-eduqwen-pedagogical-rl-2026]]). Gerçek öğretmen mesleki gelişim sınavlarından kurulan ve **97 modeli** kapsayan Pedagoji Kıyaslaması ise doğruluğun **%28** ile **%89** arasında değiştiğini buldu ([[cdpk-pedagogy-benchmark-llms|Lelièvre ve arkadaşları, 2025]]).
 
 Öğretmekle ilgili bir görevde modeller zayıftan iyiye uzandı; yani bir kıyaslama sonucu sisteminizi geniş bir aralığın içinde bir yere yerleştirir.
 
@@ -109,9 +110,9 @@ Kontrolü tam konuşmalar boyunca yürütün ve test turlarını kasten yazın: 
 
 ## Simüle öğrenciye güvenmeden önce onu denetleyin
 
-Gerçek öğrencileri bulmak yerine simüle öğrenciler üretmek değerlendirmeyi çok daha ucuz kılar. Simüle bir öğrenci aynı zamanda bir ölçüm aracıdır ve araçların yanılabildiği biçimlerde yanılabilir: fazla işbirlikçi, fazla akıcı, bir ipucunu kabul etmeye fazla istekli.
+Gerçek öğrencileri bulmak yerine [[simulating-students|simüle öğrenci]]ler üretmek değerlendirmeyi çok daha ucuz kılar. Simüle bir öğrenci aynı zamanda bir ölçüm aracıdır ve araçların yanılabildiği biçimlerde yanılabilir: fazla işbirlikçi, fazla akıcı, bir ipucunu kabul etmeye fazla istekli.
 
-Bilgi tabanındaki en doğrudan test, simüle ve istemlenmiş öğrencileri, gerçek öğrenci–eğitmen matematik diyaloglarının en büyük kamusal koleksiyonundan alınan **382 ayrılmış diyaloga** karşı, dil, davranış ve düşünmeyi kapsayan yedi ölçüyle kıyasladı ([[simulated-students-tutoring-dialogues-2026]]). Başka çalışmalar gerçekçiliği farklı açılardan zorluyor: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] modelleri hem öğrenci gibi davranmaya hem de öğrenci gibi düşünmeye eğitiyor ve geçmişe duyarlı profiller simülasyonu sabit bir kişilik yerine öğrencinin geçmişine koşullandırıyor ([[history-aware-student-simulation]]).
+Bilgi tabanındaki en doğrudan test, simüle ve istemlenmiş öğrencileri, gerçek öğrenci–eğitmen matematik diyaloglarının en büyük kamusal koleksiyonundan alınan **382 ayrılmış diyaloga** karşı, dil, davranış ve düşünmeyi kapsayan yedi ölçüyle kıyasladı ([[simulated-students-tutoring-dialogues-2026]]). Başka çalışmalar gerçekçiliği farklı açılardan zorluyor: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] modelleri hem öğrenci gibi davranmaya hem de öğrenci gibi düşünmeye eğitiyor ve geçmişe duyarlı profiller [[simulation|simülasyon]]u sabit bir kişilik yerine öğrencinin geçmişine koşullandırıyor ([[history-aware-student-simulation]]).
 
 Test düzeneğiniz simüle bir öğrenciyse, eğitmeninizi notlandırmasına izin vermeden önce simülatörü gerçek dökümlerle doğrulayın.
 

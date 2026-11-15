@@ -1,7 +1,7 @@
 ---
 title: "Hur kan AI stötta flerspråkiga studenter utan att felbedöma deras kunskaper eller sudda ut deras röst?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:03:31-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
@@ -51,7 +51,7 @@ Skriv ned beslutet där studenterna kan läsa det. Om studenter får översätta
 
 ## Vad forskningen stöder, och vad den inte gör
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez och Arabadzhy (2026)]] granskade 24 empiriska studier av generativa [[conversational-ai|chattbotar]] i [[language-learning|språkinlärning]]. Deras bidrag är taxonomiskt: varje underaffordans som kartlagts för pregenerativa chattbotar består, och tre är nya, däribland **translanguaging**, det medvetna rörandet mellan språk som en del av lärandet. Det är en karta över rapporterade användningar och erfarenheter snarare än en sammanvägd skattning, och materialet är geografiskt koncentrerat, med Kina, Iran, Taiwan och Türkiye som 19 av de 24 studierna och alla utom en inom formella institutioner. Stöd för att använda förklaringar över språkgränser som ett lärandegrepp är inte stöd för att översätta varje uppgift.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez och Arabadzhy (2026)]] granskade 24 empiriska studier av generativa [[conversational-ai|chattbotar]] i [[language-learning|språkinlärning]]. Deras bidrag är taxonomiskt: varje underaffordans som kartlagts för pregenerativa chattbotar består, och tre är nya, däribland **translanguaging**, det medvetna rörandet mellan språk som en del av lärandet. Det är en karta över rapporterade användningar och erfarenheter snarare än en sammanvägd skattning, och studierna är geografiskt koncentrerade, med Kina, Iran, Taiwan och Türkiye som 19 av de 24 studierna och alla utom en inom formella institutioner. Stöd för att använda förklaringar över språkgränser som ett lärandegrepp är inte stöd för att översätta varje uppgift.
 
 Bedömning är där evidensen blir skarpare och insatserna större. [[ai-scoring-language-bias-physics|Feser och Tschisgale (2026)]] jämförde elva metoder för automatisk poängsättning mot mänskliga expertpoäng för 116 gymnasieelevers fysikförklaringar och fann en systematisk underskattning av begreppslig förståelse för språkligt svagare förklaringar, i varje enskild metod. Designen isolerar mekanismen: samma begreppsliga innehåll, uttryckt i svagare prosa, fick lägre poäng. Det är inte ett påstående om något enskilt lands flerspråkiga studenter, och det är exakt det mönster som gör övergripande samstämmighet i poängsättning till en dålig diagnostik. En bedömare kan vara överens med mänskliga bedömare i genomsnitt och samtidigt fela i en konsekvent riktning för de studenter vars språk fortfarande utvecklas.
 
@@ -73,7 +73,7 @@ Det här är användningar att pilotpröva, inte validerade interventioner. Ett 
 
 ## Skydda studentens betydelse och röst
 
-Be om riktat stöd innan du ber om en omskrivning, för en hel omskrivning är där studentens tänkande lämnar sidan. En förfrågan värd att lära ut: "Identifiera två ställen där min betydelse är oklar. Förklara problemet och erbjud alternativ. Behåll mina exempel och lägg inte till påståenden." Sedan väljer studenten.
+Be om riktat stöd innan du ber om en omskrivning, för en hel omskrivning är där studentens tänkande lämnar utkastet. En förfrågan värd att lära ut: "Identifiera två ställen där min betydelse är oklar. Förklara problemet och erbjud alternativ. Behåll mina exempel och lägg inte till påståenden." Sedan väljer studenten.
 
 En sekvens som behåller arbetet hos studenten:
 

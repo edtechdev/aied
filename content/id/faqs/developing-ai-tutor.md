@@ -12,9 +12,9 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T14:48:08-04:00"
+updated: "2026-11-15T16:05:39-05:00"
 translation_of: faqs/developing-ai-tutor
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ Tiga daftar, ditulis sebelum siapa pun memilih model:
 
 Literatur [[intelligent-tutoring]] menunjukkan bahwa efektivitas bergantung pada desain [[pedagogy|pedagogis]] dan bukan semata pada kapabilitas model, dan kegagalan itu mudah dibangun tanpa sengaja. Tutor yang dioptimalkan untuk "menyelesaikan soal" akan merusak tutor yang dioptimalkan untuk "belajar menyelesaikan soal" sambil tetap lulus setiap uji fungsional yang Anda tulis, karena keduanya menghasilkan jawaban akhir yang benar. Perbedaannya terletak pada apa yang dilakukan mahasiswa antara pertanyaan dan jawaban.
 
-Daftar kedua adalah tempat tim pengembang menjadi konkret. Ambil label penguasaan seperti "penguasaan turunan" dan tolak membiarkannya berarti menghasilkan turunan yang benar. Pecah menjadi mengenali kapan sebuah turunan sesuai, menafsirkannya sebagai laju perubahan sesaat, memilih aturan, menjalankan prosedur, menjelaskan mengapa pilihan itu tepat, memeriksa kewajaran, dan menerapkannya pada soal yang tidak dikenal. Masing-masing adalah hal terpisah untuk dicatat, dan masing-masing menyiratkan respons berbeda ketika ia tidak ada. Dekomposisi ini juga pertahanan terhadap [[correct-answer-trap-misconceptions|perangkap jawaban benar]], ketika pembelajar mencapai jawaban yang benar melalui penalaran yang keliru dan analitik Anda mencatat keberhasilan. [[correct-answer-trap-ai-tutor|Menangkap Perangkap Jawaban Benar]] dan [[zhang-tutormoments-2026|Ketika Bantuan Tidak Membantu]] keduanya menggambarkan versi kegagalan itu dalam produksi.
+Daftar kedua adalah tempat tim pengembang menjadi konkret. Ambil label penguasaan seperti "penguasaan turunan" dan tolak membiarkannya berarti menghasilkan turunan yang benar. Pecah menjadi mengenali kapan sebuah turunan sesuai, menafsirkannya sebagai laju perubahan sesaat, memilih aturan, menjalankan prosedur, menjelaskan mengapa pilihan itu tepat, memeriksa kewajaran, dan menerapkannya pada soal yang tidak dikenal. Masing-masing adalah hal terpisah untuk dicatat, dan masing-masing menyiratkan respons berbeda ketika ia tidak ada. Dekomposisi ini juga pertahanan terhadap [[correct-answer-trap-misconceptions|perangkap jawaban benar]], ketika pembelajar mencapai jawaban yang benar melalui penalaran yang keliru dan [[learning-analytics|analitik]] Anda mencatat keberhasilan. [[correct-answer-trap-ai-tutor|Menangkap Perangkap Jawaban Benar]] dan [[zhang-tutormoments-2026|Ketika Bantuan Tidak Membantu]] keduanya menggambarkan versi kegagalan itu dalam produksi.
 
 ## Bangun model pembelajar sebelum percakapan
 
@@ -114,7 +114,7 @@ Ujilah kebocoran jawaban, penguatan miskonsepsi, persetujuan berlebihan, tingkat
 
 ## Taruh arsitektur data dalam dokumen desain yang sama
 
-Kumpulkan hanya data pembelajar yang diperlukan secara pedagogis, dan mampu menyebutkan mengapa setiap bidang ada. Di tempat Anda menyimpan memori persisten atau [[student-modeling|model pembelajar]], buat tujuannya terlihat oleh pembelajar, beri mereka kendali yang semestinya atasnya, lindungi informasi sensitif, tetapkan masa retensi, dan arahkan keputusan yang berkonsekuensi kepada pengajar atau titik pemeriksaan [[human-in-the-loop-ai|manusia]] lain. Model pembelajar yang diam-diam mengumpulkan perkiraan keyakinan yang tidak pernah dilihat mahasiswa adalah masalah perlindungan data sekaligus masalah pedagogis.
+Kumpulkan hanya data pembelajar yang diperlukan secara pedagogis, dan mampu menyebutkan mengapa setiap bidang ada. Di tempat Anda menyimpan memori persisten atau [[student-modeling|model pembelajar]], buat tujuannya terlihat oleh pembelajar, beri mereka kendali yang semestinya atasnya, lindungi informasi sensitif, tetapkan masa retensi, dan arahkan keputusan yang berkonsekuensi kepada pengajar atau titik pemeriksaan [[human-in-the-loop-ai|manusia]] lain. Model pembelajar yang diam-diam mengumpulkan perkiraan keyakinan yang tidak pernah dilihat mahasiswa adalah masalah [[privacy|perlindungan data]] sekaligus masalah pedagogis.
 
 Audit perilaku lintas latar belakang bahasa, tingkat kemampuan, konteks budaya, kebutuhan [[accessibility|aksesibilitas]], serta tingkat [[prior-knowledge|pengetahuan awal]] dan pengalaman AI. Kinerja yang berbeda pada tujuan yang sama adalah bug yang menempel pada seorang mahasiswa, dan ia tidak akan muncul di angka akurasi agregat Anda.
 
@@ -132,7 +132,7 @@ Lebih mendasar lagi, sebagian besar evaluasi berhenti pada saat bantuan berakhir
 
 Sebelum penerapan, minta pendidik menguji profil pembelajar yang realistis, miskonsepsi umum, kasus tepi, prompt adversarial, respons ambigu, dan percakapan tutoring yang panjang. Catat kegagalan pedagogisnya dan umpankan kembali ke prompt sistem, kebijakan tutoring, sumber pengetahuan, [[guardrails|pagar pengaman]], aturan model pembelajar dan pemilihan model. Respons yang lancar tetap bisa salah secara pedagogis, dan pengajar adalah satu-satunya peninjau yang dapat melihatnya.
 
-[[teacher-intervention-k12-ai-based-instruction-2026|Tinjauan sistematis Lee atas 29 studi K-12]] menggambarkan apa isi pengawasan itu dan di mana ia patah. Intervensi [[teacher-role|guru]] adalah siklus empat fase yang berulang: pemantauan, penilaian, intervensi dan orkestrasi. Peringatan AI, [[visualization|dasbor]] dan skor otomatis "tidak secara otomatis mengarah pada tindakan pedagogis". Strategi guru terkuat yang ditemukan tinjauan itu adalah penerjemahan pedagogis: memilih, merevisi, melengkapi, meringkas atau menghapus umpan balik chatbot alih-alih meneruskannya begitu saja.
+[[teacher-intervention-k12-ai-based-instruction-2026|Tinjauan sistematis Lee atas 29 studi [[k-12|K-12]]]] menggambarkan apa isi pengawasan itu dan di mana ia patah. Intervensi [[teacher-role|guru]] adalah siklus empat fase yang berulang: pemantauan, penilaian, intervensi dan orkestrasi. Peringatan AI, [[visualization|dasbor]] dan skor otomatis "tidak secara otomatis mengarah pada tindakan pedagogis". Strategi guru terkuat yang ditemukan tinjauan itu adalah penerjemahan pedagogis: memilih, merevisi, melengkapi, meringkas atau menghapus umpan balik chatbot alih-alih meneruskannya begitu saja.
 
 Dua peringatan desain mengikutinya, dan keduanya bertentangan dengan peta jalan yang biasa. Lebih banyak informasi AI bukan lebih baik: sistem yang terus-menerus memancarkan diagnostik membebani pengajar dan menarik perhatian dari pengamatan mereka sendiri. Prioritaskan apa yang layak ditindaklanjuti, buat dapat ditafsirkan, dan tawarkan rekomendasi dalam bentuk yang dapat diterima, diubah, ditunda atau ditolak pengajar. Lebih banyak dukungan bagi pengajar juga bukan lebih baik: menunda intervensi agar mahasiswa dapat bekerja mandiri itu sendiri adalah keahlian. Kondisi struktural, yakni waktu untuk meninjau data, ukuran kelas, dan kemampuan menjangkau secara fisik kelompok yang membutuhkan bantuan, adalah bagian dari intervensi alih-alih logistik latar. Dasbor yang dibuat untuk pengajar tanpa jam kosong tidak akan dibuka.
 
@@ -152,7 +152,7 @@ Tutor kalkulus semester pertama di perguruan tinggi semestinya menaikkan apa yan
 
 ## Kasus kedua: pelatih menulis, ketika tahap menentukan izin
 
-Menulis tidak punya satu jawaban benar, jadi verifikasi adalah pertimbangan dan kerja desainnya bergeser ke penahapan. Basis pengetahuan membingkai menulis sebagai proses kognitif, sosial dan retoris, yang berarti sistem menulis AI dapat mendukung pembelajaran dan juga dapat menghapus tepatnya pemikiran yang menjadi alasan tugas itu ada ([[writing-education]], [[coach-not-crutch-ai-writing]]).
+Menulis tidak punya satu jawaban benar, jadi verifikasi adalah pertimbangan dan kerja desainnya bergeser ke penahapan. Basis pengetahuan membingkai menulis sebagai proses kognitif, sosial dan retoris, yang berarti sistem menulis AI dapat mendukung pembelajaran dan juga dapat menghapus tepatnya pemikiran yang menjadi alasan tugas itu ada ([[writing-education]], [[coach-not-crutch-ai-writing|Lira et al. (2025)]]).
 
 **Model kapabilitas.** Lacak argumen (kekhususan tesis, keselarasan klaim-bukti, kontra-argumen), organisasi (fokus paragraf, kemajuan logis, transisi), bukti (relevansi sumber, integrasi, penafsiran), revisi (revisi global dan tingkat kalimat, evaluasi umpan balik) dan gaya (kejelasan, tata bahasa, suara). Masing-masing menjadi sinyal terpisah di model pembelajar, dan itulah yang memungkinkan umpan balik bertarget.
 
@@ -209,9 +209,9 @@ Keterlibatan adalah tujuannya. Panjang percakapan dan jumlah sesi adalah metrik 
 
 **"Mahasiswa menyukainya dan penyelesaian naik."** Kedua fakta konsisten dengan sistem yang menjawab pertanyaan dengan baik dan tidak mengajarkan apa pun. Studi 6.000 siswa menemukan kemajuan lebih lambat dan lebih sedikit soal yang dicoba bersamaan dengan akurasi yang lebih baik, jadi penurunan penyelesaian juga tidak otomatis berita buruk. Laporkan kinerja tanpa bantuan di samping angka keterlibatan dan biarkan keduanya tidak sepakat di depan umum.
 
-**"Kami tidak dapat menjalankan uji acak."** Anda dapat menjalankan perbandingan dalam diri mahasiswa tanpa uji acak: tujuan yang sama, dibantu selama unit, diuji tanpa bantuan dua minggu kemudian, dengan skor berbantuan dilaporkan di sampingnya. Desain itu menjawab pertanyaan produk dan tidak membutuhkan lengan kontrol. Yang tidak dapat diberitahukannya adalah kontrafaktual bagi mahasiswa yang tidak pernah memakai tutor.
+**"Kami tidak dapat menjalankan [[rct|uji acak]]."** Anda dapat menjalankan perbandingan dalam diri mahasiswa tanpa uji acak: tujuan yang sama, dibantu selama unit, diuji tanpa bantuan dua minggu kemudian, dengan skor berbantuan dilaporkan di sampingnya. Desain itu menjawab pertanyaan produk dan tidak membutuhkan lengan kontrol. Yang tidak dapat diberitahukannya adalah kontrafaktual bagi mahasiswa yang tidak pernah memakai tutor.
 
-**"Modelnya API vendor, jadi perilaku bantuannya di luar kendali kami."** Anak tangganya hidup di lapisan orkestrasi Anda, dan hasil eksperimen pagar pengaman berasal dari mengubah apa yang boleh dikatakan tutor, bukan dari menukar model. Perkirakan pelatihan lanjutan vendor akan menarik ke arah menjawab dengan sigap, karena kegunaan adalah hal yang dilatihkan, dan taruh pengekangan itu di kode Anda sendiri.
+**"Modelnya API vendor, jadi perilaku bantuannya di luar kendali kami."** Anak tangganya hidup di lapisan orkestrasi Anda, dan hasil eksperimen pagar pengaman berasal dari mengubah apa yang boleh dikatakan tutor, bukan dari menukar model. Perkirakan [[llm-training-and-fine-tuning|pelatihan lanjutan]] vendor akan menarik ke arah menjawab dengan sigap, karena kegunaan adalah hal yang dilatihkan, dan taruh pengekangan itu di kode Anda sendiri.
 
 **"Pengajar tidak akan memakai dasbor lain."** Mereka tidak akan memakai dasbor yang memancarkan diagnostik terus-menerus, yang menurut tinjauan K-12 menarik perhatian dari pengamatan mereka sendiri. Beri mereka sedikit sinyal yang dapat ditafsirkan, cara menerima atau menolak setiap rekomendasi, dan waktu dalam sepekan untuk melihatnya.
 

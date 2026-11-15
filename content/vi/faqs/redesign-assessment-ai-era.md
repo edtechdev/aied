@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-10-29T16:56:07-04:00"
+updated: "2026-11-15T15:58:33-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-10-28T10:45:41-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ Câu trả lời ngắn: quyết định điểm số là bằng chứng **của
 
 ## Quyết định điểm số là bằng chứng của điều gì
 
-Bắt đầu bằng việc nêu rõ điểm số được cho là đại diện cho năng lực nào. Bạn đang đánh giá điều sinh viên làm được độc lập, điều họ làm được một cách phù hợp với AI, khả năng đánh giá và dẫn dắt AI của họ, hay một tổ hợp nào đó? [[assessment-validity|Hiệu lực đánh giá]] của cơ sở kiến thức coi đây là vấn đề hiệu lực: một sản phẩm trau chuốt không còn là bằng chứng đủ rằng sinh viên có năng lực mà sản phẩm đó dường như thể hiện. Đây là nửa phía đánh giá của cùng lập luận; nửa phía cưỡng chế nằm ở [[reduce-ai-cheating]], và khung hiệu lực chung chạy qua [[evaluating-ai-interventions-methods]].
+Bắt đầu bằng việc nêu rõ điểm số được cho là đại diện cho năng lực nào. Bạn đang đánh giá điều sinh viên làm được độc lập, điều họ làm được một cách phù hợp với AI, khả năng đánh giá và dẫn dắt AI của họ, hay một tổ hợp nào đó? [[assessment-validity|Hiệu lực đánh giá]] coi đây là vấn đề hiệu lực: một sản phẩm trau chuốt không còn là bằng chứng đủ rằng sinh viên có năng lực mà sản phẩm đó dường như thể hiện. Đây là nửa phía đánh giá của cùng lập luận; nửa phía cưỡng chế nằm ở [[reduce-ai-cheating]], và khung hiệu lực chung chạy qua [[evaluating-ai-interventions-methods]].
 
 Hãy nói câu trả lời trong đề cương, trong đề bài, và trong rubric. Sinh viên đọc ba tài liệu và tuân theo tài liệu cụ thể nhất. “Được phép dùng AI nếu ghi rõ nguồn” không phải một tuyên bố về điều bạn đang đo, và nó không cho sinh viên cách nào để biết liệu việc dùng được phép có làm suy yếu thứ bạn đang chấm hay không.
 
@@ -86,7 +86,7 @@ Mục đích quan trọng ngang cơ chế. [[ai-agents-joyful-assessment-third-s
 
 **“Kiểm định và phê duyệt chương trình sẽ không dịch chuyển nhanh thế.”** Nghiên cứu ở trên nêu thời gian chờ dài và ràng buộc kiểm định của lớp đông là ma sát trung tâm. Một môn học có thể thay đổi điều xảy ra bên trong một bài đánh giá hiện có mà không đổi tên, trọng số hay chuẩn đầu ra, và thường thế là đủ để bắt đầu.
 
-**“Việc này phạt sinh viên lo âu và sinh viên khuyết tật.”** Có thể. Các thành phần vấn đáp trực tiếp cần điều chỉnh hỗ trợ được lên kế hoạch trước, một lựa chọn hình thức khi cấu trúc cho phép, và sự chú ý đến khác biệt ngôn ngữ và thiên lệch của người chấm. Hãy kiểm chứng năng lực, không phải điều kiện trình diễn.
+**“Việc này phạt sinh viên lo âu và [[inclusive-learning|sinh viên khuyết tật]].”** Có thể. Các thành phần vấn đáp trực tiếp cần điều chỉnh hỗ trợ được lên kế hoạch trước, một lựa chọn hình thức khi cấu trúc cho phép, và sự chú ý đến khác biệt ngôn ngữ và thiên lệch của người chấm. Hãy kiểm chứng năng lực, không phải điều kiện trình diễn.
 
 **“Chúng ta chỉ nên mua một công cụ phát hiện.”** Kết quả về khả năng phân biệt chống lại việc biến nó thành xương sống của thiết kế: nếu dương tính giả tăng nhanh hơn dương tính thật, giám sát mạnh hơn làm việc che giấu trở nên hấp dẫn hơn một cách tương đối. Phát hiện có thể có chỗ trong một phản ứng đồng thời thiết kế lại nhiệm vụ, và [[should-we-use-ai-detectors]] bao phủ lập luận đó.
 
@@ -106,4 +106,4 @@ Mục đích quan trọng ngang cơ chế. [[ai-agents-joyful-assessment-third-s
 
 ## Đi tiếp từ đây
 
-Lập luận về hiệu lực đằng sau cả trang này nằm ở [[assessment-validity]]; trang đồng hành phía cưỡng chế là [[reduce-ai-cheating]], với [[course-ai-policy]] bên cạnh. [[writing-instruction-ai-best-practices]] bao phủ cách diễn đạt mà sinh viên thực sự tuân theo, và [[evaluating-ai-interventions-methods]] bao phủ liệu công cụ bạn đang thiết kế quanh nó có hoạt động không.
+Lập luận về hiệu lực đằng sau cả trang này nằm ở [[assessment-validity|tính hợp lệ của đánh giá]]; trang đồng hành phía cưỡng chế là [[reduce-ai-cheating]], với [[course-ai-policy]] bên cạnh. [[writing-instruction-ai-best-practices]] bao phủ cách diễn đạt mà sinh viên thực sự tuân theo, và [[evaluating-ai-interventions-methods]] bao phủ liệu công cụ bạn đang thiết kế quanh nó có hoạt động không.

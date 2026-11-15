@@ -1,7 +1,7 @@
 ---
 title: "Làm sao tôi kiểm tra được liệu câu hỏi trắc nghiệm và đề thi do AI tạo ra có thực sự tốt?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:26:08-05:00"
+updated: "2026-11-15T15:56:55-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-05T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Bạn yêu cầu hai mươi câu hỏi từ ghi chú bài giảng của mình. Chúng trở về kèm đáp án, lời giải thích, nhãn độ khó và các hạng mục trong thang phân loại Bloom, trong một tài liệu được định dạng trông như đã hoàn thiện. Tên bạn sắp được ghi lên đó.
 
-Câu trả lời ngắn để nói với đồng nghiệp: câu hỏi được tạo ra là ứng viên, không phải một bài đánh giá. Hãy tự giải từng câu, kiểm tra xem câu hỏi đòi hỏi sinh viên thực sự làm gì, và tìm hiểu cách sinh viên phản hồi với nó trước khi nó được tính điểm. Trong hai nghiên cứu lớn nhất của cơ sở tri thức này, tín hiệu đáng chú ý không phải là việc tạo câu hỏi có hiệu quả, mà là chỗ nó thất bại. Việc tạo lặp đi lặp lại bên trong một quy trình chuyên biệt cho học phần đã tạo ra những đề trắc nghiệm dùng được trên 71 lớp đại học ([[assessing-quality-ai-generated-exams-field-2025|Isley và cộng sự, 2025]]). Trong một cuộc kiểm toán khoa học dữ liệu trên 311 câu hỏi đã đưa vào sử dụng, các nhãn độ khó của mô hình bám gần như hoàn hảo vào các mức Bloom mà nó đã tạo ra cùng lúc (Spearman ρ = 0.90) trong khi bám vào điểm số sinh viên thực sự đạt ở mức ρ = 0.06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An và Wang, 2026]]). Nhãn đó là một mô tả về prompt, không phải một phép đo câu hỏi.
+Đây là câu trả lời ngắn: câu hỏi được tạo ra là ứng viên, không phải một bài đánh giá. Hãy tự giải từng câu, kiểm tra xem câu hỏi đòi hỏi sinh viên thực sự làm gì, và tìm hiểu cách sinh viên phản hồi với nó trước khi nó được tính điểm. Trong hai nghiên cứu lớn nhất, tín hiệu đáng chú ý không phải là việc tạo câu hỏi có hiệu quả, mà là chỗ nó thất bại. Việc tạo lặp đi lặp lại bên trong một quy trình chuyên biệt cho học phần đã tạo ra những đề trắc nghiệm dùng được trên 71 lớp đại học ([[assessing-quality-ai-generated-exams-field-2025|Isley và cộng sự, 2025]]). Trong một cuộc kiểm toán khoa học dữ liệu trên 311 câu hỏi đã đưa vào sử dụng, các nhãn độ khó của mô hình bám gần như hoàn hảo vào các mức Bloom mà nó đã tạo ra cùng lúc (Spearman ρ = 0.90) trong khi bám vào điểm số sinh viên thực sự đạt ở mức ρ = 0.06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An và Wang, 2026]]). Nhãn đó là một mô tả về prompt, không phải một phép đo câu hỏi.
 
 ## Phiên bản ngắn
 
@@ -121,6 +121,6 @@ Với sinh viên tự tạo câu hỏi luyện tập, quy tắc tương tự áp
 
 ## Đi tiếp từ đây
 
-[[automated-question-generation]] là trang khái niệm về các phương pháp tạo câu hỏi và chất lượng đo được của chúng, còn [[educational-measurement]] bao quát phân tích câu hỏi, độ tin cậy và những phép tâm trắc mà một lần chạy thử chỉ mới chạm tới. Cả hai nằm dưới [[assessment-validity|tính hợp lệ của đánh giá]], chuẩn mực mà toàn bộ chu trình đang phục vụ.
+[[automated-question-generation|Tạo câu hỏi tự động]] là trang khái niệm về các phương pháp tạo câu hỏi và chất lượng đo được của chúng, còn [[educational-measurement|đo lường giáo dục]] bao quát phân tích câu hỏi, độ tin cậy và những phép tâm trắc mà một lần chạy thử chỉ mới chạm tới. Cả hai nằm dưới [[assessment-validity|tính hợp lệ của đánh giá]], chuẩn mực mà toàn bộ chu trình đang phục vụ.
 
 Phía phán đoán của cùng vấn đề thuộc về [[ai-grading-fairness-reliability|chấm bài bằng AI]], vì một câu hỏi tốt bị chấm tồi không tốt hơn một câu hỏi tồi được chấm tốt. Về câu hỏi rộng hơn là một điểm số nên đại diện cho điều gì khi sinh viên có thể dùng AI, xem [[redesign-assessment-ai-era|thiết kế lại đánh giá trong kỷ nguyên AI]].

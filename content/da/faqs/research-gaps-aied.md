@@ -13,9 +13,9 @@ level: [higher ed]
 audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-11-08T05:10:57-05:00"
+updated: "2026-11-15T16:01:30-05:00"
 translation_of: faqs/research-gaps-aied
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -85,7 +85,7 @@ Det, der mangler, er validering af hele evalueringskæden, fra modeladfærd over
 
 AI skaber to forbundne bedømmelsesproblemer: det hjælper med at producere det arbejde, der bedømmes, og det kan påvirke, hvordan det arbejde scores.
 
-Vidensbasens [[ai-agents-complete-lms-assessment-validity-2026|undersøgelse af AI-agenter, der løser bedømte LMS-opgaver]] dokumenterer agenter, der navigerer i et kørende bachelorfag og gennemfører bedømte aktiviteter. Det demonstrerer en kapabilitet, som udfordrer antagelser om studerendes egenproducerede evidens. Det fastslår ikke, hvor udbredt en sådan brug er, og det ugyldiggør ikke asynkron bedømmelse som kategori.
+En [[ai-agents-complete-lms-assessment-validity-2026|undersøgelse af AI-agenter, der løser bedømte LMS-opgaver]] dokumenterer agenter, der navigerer i et kørende bachelorfag og gennemfører bedømte aktiviteter. Det demonstrerer en kapabilitet, som udfordrer antagelser om studerendes egenproducerede evidens. Det fastslår ikke, hvor udbredt en sådan brug er, og det ugyldiggør ikke asynkron bedømmelse som kategori.
 
 Forskningsspørgsmålet er, hvilke designs der stadig understøtter forsvarlige konklusioner om den lærende. [[eportfolio|Portfolioer]], refleksioner, trinvise afleveringer og aktivitetslogge skal valideres som evidens i stedet for at blive antaget at fastslå forfatterskab eller forståelse. Undersøgelser bør teste kombinationer af evidens mod uafhængigt observeret kompetence og samtidig tage højde for tilgængelighed, arbejdsbyrde, privatliv og [[anxiety-and-stress|studerendes ængstelse]]. [[assessment-validity|Bedømmelsesvaliditet]] har detaljerne.
 

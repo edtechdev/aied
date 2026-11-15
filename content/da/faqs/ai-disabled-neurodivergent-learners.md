@@ -9,9 +9,9 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:01:30-05:00"
 translation_of: faqs/ai-disabled-neurodivergent-learners
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 Tilpasningsbrevet nævner en studerende, et kursus og et værktøj, du aldrig har hørt om. Eller en studerende har spurgt, rimeligt nok, om de kan fortsætte med deres tale-til-tekst-software til en tidsbegrænset eksamen, og din AI-regel for kurset siger nej til AI af enhver art. Eller tilgængelighedskontoret vil have et svar inden fredag om, hvorvidt der skal købes licens til et læseværktøj, og leverandørens belæg er en udtalelse fra en anden campus.
 
-Svaret, der overlever alle tre: begynd ved den barriere, opgaven skaber, brug de værktøjer, der faktisk er målt, og undervis i det, du adopterer. To regler betyder mere end ethvert produktvalg. Navngiv transskription og OCR i din AI-politik som tilpasninger i deres egen ret, og giv opgaven struktur i stedet for at bede studerende udlede den. Vær klarsynet om belægget: det stærkeste tal på denne side kommer fra PK-12-specialundervisning med overvejende præ-generativ AI, og litteraturen om videregående uddannelse er et kort over, hvad der er forsøgt.
+Svaret, der overlever alle tre: begynd ved den barriere, opgaven skaber, brug de værktøjer, der faktisk er målt, og undervis i det, du adopterer. To regler betyder mere end ethvert produktvalg. Navngiv transskription og OCR i din AI-politik som tilpasninger i deres egen ret, og giv opgaven struktur i stedet for at bede studerende udlede den. Vær klarsynet om belægget: det stærkeste tal kommer fra PK-12-specialundervisning med overvejende præ-generativ AI, og litteraturen om videregående uddannelse er et kort over, hvad der er forsøgt.
 
 ## Den korte version
 
@@ -51,11 +51,11 @@ Samme forsigtighed gælder gruppestatistik. [[differential-effects-across-learne
 
 ## Brug det, der er målt, og læs etiketten
 
-Det stærkeste [[quantitative-research|kvantitative]] resultat på denne side er også det mest generelle, og det kommer med grænser, du bør tage med ind i købsbeslutningen.
+Det stærkeste [[quantitative-research|kvantitative]] resultat er også det mest generelle, og det kommer med grænser, du bør tage med ind i købsbeslutningen.
 
 [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang, Carter, Liu og Peng (2024)]] syntetiserede 29 (kvasi-)eksperimentelle studier af AI-baserede interventioner for [[inclusive-learning|studerende med handicap]]: 239 effektstørrelser fra 41 uafhængige stikprøver, en statistisk signifikant medium samlet effekt på læringsudfald på Hedges' g = 0,588 (95 % CI [0,349; 0,826], p < 0,01) og høj heterogenitet mellem studier. Akademisk præstation var den største udfaldsundergruppe (k = 80, g = 0,929) og social-emotionelle færdigheder den mindste (k = 144, g = 0,382). Computersoftware, det vil sige [[speech-and-voice-technologies|talegenkendelse]], ekspertsystemer og [[intelligent-tutoring|intelligente tutorsystemer]], klarede sig stærkt (k = 74, g = 0,959) og [[educational-robotics|robotter]] moderat (k = 144, g = 0,509), mens intelligent VR (g = 0,528) ikke var signifikant. Publikationsbias var til stede (Eggers β = 2,837, p < 0,001); trim-and-fill reducerede estimatet til g = 0,269, stadig signifikant.
 
-Hvert studium var PK-12. 96,6 % brugte trinbaseret undervisning i specialundervisning eller kliniske miljøer, og de fleste brugte ældre regelbaseret AI frem for [[generative-ai|generativ AI]]. Det understøtter forsigtig adoption af struktureret undervisningssoftware. Det overføres ikke til en generel chatbot, og at behandle det, som om det gør, er den dyreste fejl, der findes på denne side.
+Hvert studium var PK-12. 96,6 % brugte trinbaseret undervisning i specialundervisning eller kliniske miljøer, og de fleste brugte ældre regelbaseret AI frem for [[generative-ai|generativ AI]]. Det understøtter forsigtig adoption af struktureret undervisningssoftware. Det overføres ikke til en generel chatbot, og at behandle det, som om det gør, er den dyreste fejl, der findes.
 
 Tre mindre resultater viser, hvad et enkelt værktøj kan gøre, når barrieren er snæver. Hver blev testet på en håndfuld lærende, så behandl dem som billige, reversible eksperimenter frem for infrastruktur.
 
@@ -105,7 +105,7 @@ Aggregerede effekter giver dig en retning. De fortæller ikke, om værktøjet vi
 
 Tre forbehold bør forme det mål. Det første er, at undergruppernes rækkefølge er antydende frem for fastslået: ingen moderator af nogen art nåede signifikans i metaanalysen fra 2024, så rangordninger som [[learning-by-teaching|teachable agents]] (g = 1,100) foran social-emotionelle coaches (g = 0,336), eller dyadisk interaktion foran triadisk (g = 0,973 mod g = 0,385), bør ikke behandles som afgjorte. Effektens retning er understøttet; størrelsen, det optimale design og holdbarheden af enhver gevinst er ikke.
 
-Det andet er, at dette korpus beskriver implementeringer og opfattelser mere end målt læring. Opmærksomhed (n = 4) og social kommunikation (n = 5) er de mindst undersøgte barrierer, og knapheden på (kvasi-)eksperimentelle og longitudinelle design er grunden til, at arbejdet om videregående uddannelse er et scoping review frem for en metaanalyse. Dækningen hælder mod bachelorstuderende og det globale nord, søgningen var engelsksproget peer-reviewet arbejde, og postgraduate studerende er underrepræsenteret. Engagement og tilfredshed er svage indikatorer.
+Det andet er, at denne litteratur beskriver implementeringer og opfattelser mere end målt læring. Opmærksomhed (n = 4) og social kommunikation (n = 5) er de mindst undersøgte barrierer, og knapheden på (kvasi-)eksperimentelle og longitudinelle design er grunden til, at arbejdet om videregående uddannelse er et scoping review frem for en metaanalyse. Dækningen hælder mod bachelorstuderende og det globale nord, søgningen var engelsksproget peer-reviewet arbejde, og postgraduate studerende er underrepræsenteret. Engagement og tilfredshed er svage indikatorer.
 
 Det tredje er, at et værktøj, der løser én barriere, kan efterlade en anden. Tjek værktøjet mod den specifikke vanskelighed, den studerende rapporterer, hvad enten det er læsning og skrivning, studiemanagement, opmærksomhed eller social kommunikation, og evaluér mod den vanskelighed frem for mod, hvordan den studerende oplevede produktet. Spørg den studerende, hvad der skal tælles. Zastudil et al.s deltagere og Rezazadegan et al.s forumskribenter beskriver begge deres behov mere præcist, end de produkter, der er bygget til dem, gør.
 

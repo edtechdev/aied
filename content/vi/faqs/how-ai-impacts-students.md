@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
-updated: "2026-10-29T16:56:07-04:00"
+updated: "2026-11-15T16:01:50-05:00"
 translation_of: faqs/how-ai-impacts-students
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -21,9 +21,9 @@ ai_assist:
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
 
-Bạn đang dùng AI cho bài tập và vẫn ổn, chỉ có điều bài thi đóng sách cứ như đang đọc ghi chú của người khác. Hoặc một người bạn nói họ chẳng viết gì mà vẫn được điểm A, và bạn tự hỏi điều đó có nghĩa gì với mình. Hoặc bạn đã bắt đầu hỏi chatbot nhiều câu hơn hỏi giảng viên của mình.
+Bạn đang dùng AI cho bài tập và vẫn ổn, chỉ có điều [[summative-assessment|bài thi đóng sách]] cứ như đang đọc ghi chú của người khác. Hoặc một người bạn nói họ chẳng viết gì mà vẫn được điểm A, và bạn tự hỏi điều đó có nghĩa gì với mình. Hoặc bạn đã bắt đầu hỏi chatbot nhiều câu hơn hỏi giảng viên của mình.
 
-Câu trả lời ngắn, ở dạng bạn có thể nhắc lại cho một người bạn: AI hữu ích ở chỗ bạn cần phản hồi và không hữu ích ở chỗ bạn cần luyện tập. Hãy giữ bước suy nghĩ cho chính mình, tự kiểm tra mà không có công cụ trước khi nộp, và nói thẳng về những gì bạn đã dùng. Phần còn lại của trang này giải thích vì sao điều đó đúng và nó trông như thế nào vào một tối thứ Ba.
+Câu trả lời ngắn, ở dạng bạn có thể nhắc lại cho một người bạn: AI hữu ích ở chỗ bạn cần phản hồi và không hữu ích ở chỗ bạn cần luyện tập. Hãy giữ bước suy nghĩ cho chính mình, tự kiểm tra mà không có công cụ trước khi nộp, và nói thẳng về những gì bạn đã dùng. Lời khuyên đó đúng vì những lý do đáng được trình bày, và nó có hình dạng cụ thể vào một tối thứ Ba.
 
 ## Tóm tắt
 
@@ -55,7 +55,7 @@ Biết rằng nó ở đó cũng thay đổi mức bạn sẵn lòng vật lộn
 
 ## Tự kiểm tra mà không có công cụ
 
-Bước kiểm tra mất mười phút và là việc hữu ích nhất trên trang này. Hãy đóng mọi thứ, lấy một tờ giấy trắng, và viết lập luận của bài nộp từ ký ức: khẳng định, hai hoặc ba lý do, và điều gì sẽ chống lại nó. Rồi mở bài làm ra và so sánh.
+Bước kiểm tra mất mười phút và là việc hữu ích nhất bạn có thể làm. Hãy đóng mọi thứ, lấy một tờ giấy trắng, và viết lập luận của bài nộp từ ký ức: khẳng định, hai hoặc ba lý do, và điều gì sẽ chống lại nó. Rồi mở bài làm ra và so sánh.
 
 Nếu tờ giấy trắng ra gần giống, nghĩa là bạn đã học được tài liệu và công cụ giúp bạn sắp xếp nó. Nếu tờ giấy trắng mà tài liệu thì bóng bảy, nghĩa là bạn có một khoảng cách hiệu suất, và điểm số sẽ che nó cho tới khi một bài thi hoặc một buổi tuyển dụng không che nổi. Hãy quay lại phần bạn không tái tạo được, làm nó mà không có hỗ trợ, và kiểm tra lại.
 
@@ -111,4 +111,4 @@ Mặt cảm xúc cũng có thể tốt. Trong một nghiên cứu [[qualitative-
 
 ## Đi tiếp từ đây
 
-[[does-ai-help-students-learn|Dùng AI có thực sự giúp sinh viên học không?]] là câu hỏi về bằng chứng đứng sau trang này, và [[study-with-ai]] trình bày các nếp làm việc. [[ai-anxiety-wellbeing]] đi xa hơn về phía lo âu, và [[guardrails]] giải thích cách một giàn giáo trở thành một thứ thay thế. Góc nhìn thiết kế khóa học nằm ở [[incorporating-ai-literacy|Tôi nên đưa năng lực AI vào khóa học của mình như thế nào?]] và [[ai-literacy-evidence|Bằng chứng về các can thiệp năng lực AI trong giáo dục đại học là gì?]].
+[[does-ai-help-students-learn|Dùng AI có thực sự giúp sinh viên học không?]] là câu hỏi về bằng chứng đứng sau những câu trả lời này, và [[study-with-ai]] trình bày các nếp làm việc. [[ai-anxiety-wellbeing]] đi xa hơn về phía lo âu, và [[guardrails]] giải thích cách một giàn giáo trở thành một thứ thay thế. Góc nhìn thiết kế khóa học nằm ở [[incorporating-ai-literacy|Tôi nên đưa năng lực AI vào khóa học của mình như thế nào?]] và [[ai-literacy-evidence|Bằng chứng về các can thiệp năng lực AI trong giáo dục đại học là gì?]].

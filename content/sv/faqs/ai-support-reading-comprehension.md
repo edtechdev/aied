@@ -10,9 +10,9 @@ technology: [educational-nlp, generative-ai, llm]
 ethics: [accessibility]
 audience: [instructors, curriculum designers, instructional designers]
 level: [higher ed, secondary, primary education]
-updated: "2026-11-08T04:27:05-05:00"
+updated: "2026-11-15T16:03:31-05:00"
 translation_of: "faqs/ai-support-reading-comprehension"
-source_updated: "2026-11-06T02:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Om du undervisar i vilket ämne som helst väljer du läsning, anpassar texter o
 
 **Hitta och anpassa texter i skala.** AI är stark på att hitta källor, förenkla ordförråd, generera ordlistor och göra om en passage till en [[study-with-ai|studiehandledning eller sammanfattning]]. Använd den för de mekaniska delarna av läsningsförberedelsen — skanna, nivåindela, plocka ut nyckelbegrepp — och behåll den mänskliga kontrollen på det som spelar roll.
 
-**Modellera läsaren i stället för texten.** Eftersom läsarvariabler bär en stor del av signalen för hur svår en text känns, förutsäger verktyg som profilerar läsaren upplevd svårighet bättre än någon formel. I kunskapsbasens största studie betygsatte 193 tyska gymnasieelever 3 954 meningar, och profilbaserade modeller (bästa ensemble RMSE 0,822 mot en medelbaslinje på 1,070) slog texternas Flesch-poäng, som bedömde samma material som mycket svårare än eleverna upplevde det — 72,8% av annoteringarna var lätta eller mycket lätta ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad, 2025]]). Den praktiska versionen: några studenters betyg på en passage slår vilken formels etikett som helst.
+**Modellera läsaren i stället för texten.** Eftersom läsarvariabler bär en stor del av signalen för hur svår en text känns, förutsäger verktyg som profilerar läsaren upplevd svårighet bättre än någon formel. I den största studien i den här litteraturen betygsatte 193 tyska gymnasieelever 3 954 meningar, och profilbaserade modeller (bästa ensemble RMSE 0,822 mot en medelbaslinje på 1,070) slog texternas Flesch-poäng, som bedömde samma material som mycket svårare än eleverna upplevde det — 72,8% av annoteringarna var lätta eller mycket lätta ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck and Conrad, 2025]]). Den praktiska versionen: några studenters betyg på en passage slår vilken formels etikett som helst.
 
 ## Var AI kommer till kort
 

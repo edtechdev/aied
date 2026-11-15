@@ -1,6 +1,7 @@
 ---
 title: "Öğrencilerin YZ’ye Aşırı Güvenmesini Nasıl Önlerim?"
 created: "2026-10-14T10:36:01-04:00"
+updated: "2026-11-15T16:08:48-05:00"
 connected_faqs: [study-with-ai, verify-ai-output, asynchronous-online-courses-ai, ai-disabled-neurodivergent-learners]
 weight: 80
 type: faq
@@ -12,7 +13,7 @@ research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
 translation_of: faqs/reducing-over-reliance
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -44,7 +45,7 @@ Bir öğrenci eve götürme problem setinden tam not alıyor, sınavın yarısı
 
 **5.** Yansıtma istemini, görevin hâlâ değiştirebileceği evresine denk getirin.
 
-**6.** Tasarımınızın kimleri geride bıraktığına, ortalamaya değil ön bilgiye bakarak bakın.
+**6.** Tasarımınızın kimleri geride bıraktığına, ortalamaya değil [[prior-knowledge|ön bilgi]]ye bakarak bakın.
 
 ## Bir sorununuz mu var, yoksa sadece yoğun kullanım mı, karar verin
 
@@ -62,7 +63,7 @@ Davranışsal araçlar daha zayıf. [[pause-ai-cognitive-offloading-self-reflect
 
 ## Öğrencinin denemesini aracın önüne koyun
 
-Sınanmış en net sıra "önce düşün, sonra ChatGPT"dir. [[think-first-chatgpt-later-2026|Wong ve Qiu (2026)]] N = 196 öğrenciyi bağımsız çalışmaya, ChatGPT'yi serbestçe kullanmaya ya da düzenlenmiş bir koşulda çalışmaya atadı: kendi fikirlerini üret, bunları geliştirmek ve değerlendirmek için ChatGPT ile işbirliği yap, sonra bağımsız olarak bir çözümü iyileştir ve teslim et. Serbest kullanım grubu destekli görevde daha yaratıcı iş üretti ve ChatGPT olmadan yapılan daha zor bir sonraki görevde salt insan düzeyine geri düştü. Düzenlenmiş grup hemen bir avantaj göstermedi ve sonrasındaki bağımsız yaratıcılıkta iki grubu da geçti.
+Sınanmış en net sıra "önce düşün, sonra [[generative-ai|ChatGPT]]"dir. [[think-first-chatgpt-later-2026|Wong ve Qiu (2026)]] N = 196 öğrenciyi bağımsız çalışmaya, ChatGPT'yi serbestçe kullanmaya ya da düzenlenmiş bir koşulda çalışmaya atadı: kendi fikirlerini üret, bunları geliştirmek ve değerlendirmek için ChatGPT ile işbirliği yap, sonra bağımsız olarak bir çözümü iyileştir ve teslim et. Serbest kullanım grubu destekli görevde daha yaratıcı iş üretti ve ChatGPT olmadan yapılan daha zor bir sonraki görevde salt insan düzeyine geri düştü. Düzenlenmiş grup hemen bir avantaj göstermedi ve sonrasındaki bağımsız [[creativity|yaratıcılık]]ta iki grubu da geçti.
 
 İstem verisi bu farkı açıklıyor. Düzenlenmiş grupta istemlerin %88,6'sı işbirlikçiydi ve sonraki bağımsız özgünlükle anlamlı biçimde ilişkili tek istem türü buydu. Serbest kullanım grubunda istemlerin %70,9'u işbirlikçi değildi ve %59,6'sı doğrudan ChatGPT'den fikir üretmesini istiyordu. Aynı araç, iki farklı biçimde sorulduğunda iki farklı öğrenci üretti.
 
@@ -100,7 +101,7 @@ Modelin kendinden emin biçimde yanlış yanıtladığı bir görev verin, sonra
 
 Destekli ürün, yeterliğin zayıf bir vekilidir; bu yüzden en az bir notlanan anın araç olmadan geçmesi gerekir. [[think-first-chatgpt-later-2026|Wong ve Qiu'nun (2026)]] sonraki desteksiz görevi o ölçümdür. Yalnızca insan grubu da daha zor olan izleme görevinde geriledi; bu, düzeltmenin basit sürümünü eler: öğrenciyi desteklemeden aracı kaldırmak bir müdahale değildir.
 
-Kipleri dönüşümlü kullanmanın desteği var. PAUSE, Kosmyna et al.'ın (2025) dördüncü oturum sonucunu aktarıyor: yalnızca beyniyle çalışıp sonra ChatGPT kullanan katılımcılar, sürekli LLM kullananları geçti. Hesap verebilirlik açıklama yoluyla da işliyor: Makransky et al. (2025), öğrencileri fikirleri birbirine bağlamaya ve akıl yürütmelerini açıklamaya yönelten bir öğretmen sohbet robotunun geleneksel öğretimden daha iyi değerlendirme performansı ürettiğini buldu.
+Kipleri dönüşümlü kullanmanın desteği var. PAUSE, Kosmyna et al.'ın (2025) dördüncü oturum sonucunu aktarıyor: yalnızca beyniyle çalışıp sonra ChatGPT kullanan katılımcılar, sürekli [[llm|LLM]] kullananları geçti. Hesap verebilirlik açıklama yoluyla da işliyor: Makransky et al. (2025), öğrencileri fikirleri birbirine bağlamaya ve akıl yürütmelerini açıklamaya yönelten bir öğretmen [[conversational-ai|sohbet robotu]]nun geleneksel öğretimden daha iyi değerlendirme performansı ürettiğini buldu.
 
 Bir ders için formül şu: alıştırmada destekli çalışma, önemli olduğu yerde desteksiz çalışma. Destekli parçayı iyi koşullar altındaki performansın kaydı, desteksiz parçayı ise öğrenmeye dair kanıt olarak okuyun. İkisini karşılaştırmak, notunu anlamayan bir öğrenciyle yapabileceğiniz en yararlı konuşmadır da.
 
@@ -130,7 +131,7 @@ Bu etiketler görevinizi de teşhis eder. Bir sınıfın çoğu yürütücü kul
 
 ## Riskin kümelenmesini bekleyin
 
-[[lodge-loble-cognitive-offloading-2026|Lodge ve Loble (2026)]] riski ön bilgide ve öz düzenlemede konumlandırıyor ve bir **üstbilişsel hakkaniyet açığı** adlandırıyor: YZ'yi iyi kullanmak, acemilerin sahip olmadığı kaynakları gerektirir; yani alıştırmaya en çok ihtiyaç duyan öğrenciler, öğrenmenin kendisini devretmeye en yatkın olanlar. Avustralyalı öğrencilerin %80'inin YZ'yi zaten kullandığını ve ortaokulun erken sınıflarındaki öğretmenlerin üçte ikisinin kullandığını aktarıyorlar (OECD 2025).
+[[lodge-loble-cognitive-offloading-2026|Lodge ve Loble (2026)]] riski ön bilgide ve öz düzenlemede konumlandırıyor ve bir **üstbilişsel [[equity-in-ai-education|hakkaniyet]] açığı** adlandırıyor: YZ'yi iyi kullanmak, acemilerin sahip olmadığı kaynakları gerektirir; yani alıştırmaya en çok ihtiyaç duyan öğrenciler, öğrenmenin kendisini devretmeye en yatkın olanlar. Avustralyalı öğrencilerin %80'inin YZ'yi zaten kullandığını ve ortaokulun erken sınıflarındaki öğretmenlerin üçte ikisinin kullandığını aktarıyorlar (OECD 2025).
 
 Yaş ve alışkanlık aynı örüntüyle bağıntılı. [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] 17-25 yaş arası katılımcıların 46 ve üzerindekilere göre daha yüksek YZ bağımlılığı ve yük boşaltma, daha düşük eleştirel düşünme gösterdiğini ve YZ kullanımından bağımsız olarak başarının daha iyi eleştirel düşünmeyi yordadığını (r = +0,34) buldu; anlamlı bir etkileşim, başarının olumsuz etkiyi hafiflettiğini gösteriyordu. [[genai-over-reliance-learning-2026|Gao, Sun ve Khan (2026)]] çoklu görev eğilimi olan polikronisitenin yolu düzenlediğini ve yüksek polikronisiteye sahip öğrencilerin daha büyük risk altında olduğunu buldu.
 
@@ -142,27 +143,27 @@ Bağlam kişi kadar önemli ve bağlamın bir kısmını dersiniz denetler. [[ai
 
 Bu derlemde hiçbir şey, belirli bir aşırı güven müdahalesinin farklı ortamlarda ya da dönemlerde tutup tutmadığını sınamıyor. Önce düşün, N = 196 olan tek bir deneye dayanıyor. Yanıtı esirgeme sonucu kendi denemesinden değil [[brcic-effortless-trap-productive-struggle-2026|Brcic ve Frljic'in (2026)]] sentezinden geliyor. Sürtünme savı yeni veri içermeyen kavramsal bir yorum. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] modelin sınırlarını söylüyor: dışsal ve durağan YZ kalitesi, sabit bir ağ, biçimselleştirilmiş doğrulama. Gerçek değerleri kestirmek, görev başına doğrulama oranlarının, toplumsal kanıt gücünün ve güvenin doğrulanmış kullanıma karşı doğrulanmamış kullanımdan sonra nasıl güncellendiğinin boylamsal izlerini gerektirir.
 
-Ölçüm en zayıf halka olmayı sürdürüyor. Anket tasarımları baskın ve hem [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] hem de [[genai-over-reliance-learning-2026|Gao, Sun ve Khan (2026)]] boylamsal ve deneysel izleme çağrısı yapıyor. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]]'ın psikometrisi yok ve yetişkinler için kuruldu. Hakkaniyet açığının öğretimle kapatılıp kapatılamayacağı gösterilmiş değil, kuramsallaştırılmış durumda.
+Ölçüm en zayıf halka olmayı sürdürüyor. Anket tasarımları baskın ve hem [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] hem de [[genai-over-reliance-learning-2026|Gao, Sun ve Khan (2026)]] boylamsal ve deneysel izleme çağrısı yapıyor. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE'un [[educational-measurement|psikometrisi]] yok ve yetişkinler için kuruldu. Hakkaniyet açığının öğretimle kapatılıp kapatılamayacağı gösterilmiş değil, kuramsallaştırılmış durumda.
 
 Geriye makul ve ucuza mal olan bir bahis kalıyor. Bir ödevi değiştirin, desteksiz ölçümü koruyun ve destekli ile desteksiz çalışma arasındaki açığın daralıp daralmadığına bakın. Bu sayıların gücüne dayanarak bir dersi baştan kurmayın.
 
 ## Eğitmenlerin bu konuda yanlış yaptıkları
 
-**En çok kullanan öğrenciler sorun yaşayanlardır.** Anketlerin yakaladığı ve panoların gösterdiği şey sıklıktır ve sıklık kurgu değildir. Her yanıtı kontrol edip sizin malzemelerinize atıf yapan bir öğrenci YZ'yi her gün kullanıp sorunsuz olabilir. Haftada bir ilk çıktıyı teslim eden öğrencide sorun vardır.
+**En çok kullanan öğrenciler sorun yaşayanlardır.** Anketlerin yakaladığı ve [[visualization|panoların]] gösterdiği şey sıklıktır ve sıklık kurgu değildir. Her yanıtı kontrol edip sizin malzemelerinize atıf yapan bir öğrenci YZ'yi her gün kullanıp sorunsuz olabilir. Haftada bir ilk çıktıyı teslim eden öğrencide sorun vardır.
 
 **Yasak riski ortadan kaldırır.** Buradaki en güçlü sonuçlar yerleştirmeden geliyor ve Wong ve Qiu'nun deneyinin yalnızca insan kolu da daha zor izleme görevinde geriledi. Öğrenciyi desteklemeden aracı kaldırmak zorluğu olduğu yerde bırakır.
 
-**Daha ucuz kontrol doğrulamayı düzeltecek.** Kontrolü kolaylaştırmak Biswas'ın modelindeki en zayıf kaldıraçtı, çünkü engel toplumsal. Daha iyi bir intihal denetleyicisi öğrenciye kaynağı okutmaz.
+**Daha ucuz kontrol doğrulamayı düzeltecek.** Kontrolü kolaylaştırmak Biswas'ın modelindeki en zayıf kaldıraçtı, çünkü engel toplumsal. Daha iyi bir [[academic-integrity|intihal]] denetleyicisi öğrenciye kaynağı okutmaz.
 
 **Bir kullanım panosu bana kimin yük boşalttığını söyler.** PAUSE'un maddeleri YZ'nin bir iş akışına ne zaman ve ne sıklıkla girdiğini kaydediyor ve yazarlar geçerlik sorununu kendileri işaret ediyor. Dikkatli bir iskele kurucu "yük boşaltan" olarak puanlanıyor; yani o sayılara göre davranmak, tutmak istediğiniz öğrencileri cezalandırır.
 
 **Akıcılık ve memnuniyet tasarımın işlediğini gösterir.** Bu, [[lodge-loble-cognitive-offloading-2026|Lodge ve Loble (2026)]]'ın performans paradoksunda tanımladığı yanılsamadır: çalışma akıcı hissettiriyor ve öğrenciler o anda iyi performans gösterirken daha azını akılda tutuyor. Soruyu yanıtlayan ölçüler desteksiz performans ve gecikmeli [[transfer-of-learning|transferdir]].
 
-**Öğrencilere YZ okuryazarlığı öğretin, sorun kendiliğinden kalkar.** [[lodge-loble-cognitive-offloading-2026|Lodge ve Loble (2026)]], acemilerin eksiklerini düşününce, öğrenciye dönük YZ okuryazarlığına aşırı yatırım yapmanın yanlış bir kaynak dağıtımı olabileceği uyarısını yapıyor.
+**Öğrencilere [[ai-literacy|YZ okuryazarlığı]] öğretin, sorun kendiliğinden kalkar.** [[lodge-loble-cognitive-offloading-2026|Lodge ve Loble (2026)]], acemilerin eksiklerini düşününce, öğrenciye dönük YZ okuryazarlığına aşırı yatırım yapmanın yanlış bir kaynak dağıtımı olabileceği uyarısını yapıyor.
 
 ## Size geri dönecek olanlar
 
-**"Bu, yeni bir adı olan iyi öğretimden başka bir şey değil."** Kısmen. İskeleleme, biçimlendirici geri bildirim ve üretken zorluk eski fikirler. Yeni olan sıralama: görünür doğrulama daha ucuz doğrulamayı yendi ve korunmaya değer iki an, ilk zor deneme ile sondaki desteksiz kontroldür. Tanıdık şeyleri yeni sırayla yapın.
+**"Bu, yeni bir adı olan iyi [[pedagogy|pedagojiden]] başka bir şey değil."** Kısmen. [[scaffolding|İskeleleme]], biçimlendirici geri bildirim ve üretken zorluk eski fikirler. Yeni olan sıralama: görünür doğrulama daha ucuz doğrulamayı yendi ve korunmaya değer iki an, ilk zor deneme ile sondaki desteksiz kontroldür. Tanıdık şeyleri yeni sırayla yapın.
 
 **"Bunu denetleyemem."** Denetleyemezsiniz ve kanıt da denemeyin diyor. En güçlü sonucu yerleştirme üretti. Görevi, aracı yanlış anda kullanmanın işin kendisinde görüneceği biçimde tasarlayın: öğrencinin açıklayamadığı bir yanıt ya da eksik bir doğrulama adımı olarak.
 

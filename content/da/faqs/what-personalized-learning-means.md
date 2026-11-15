@@ -1,7 +1,7 @@
 ---
 title: "Hvad betyder personlig tilpasset læring egentlig, og hvornår hjælper det?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T15:56:52-05:00"
 type: faq
 connected_faqs: [designing-ai-into-learning, checking-whether-educational-ai-works, reducing-over-reliance, does-ai-help-students-learn]
 weight: 82
@@ -13,7 +13,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, longitudinal study]
 audience: [instructors, instructional designers, administrators, educational technology developers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/what-personalized-learning-means
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
@@ -28,7 +28,7 @@ ai_assist:
 
 Platformen lover en personlig oplevelse til hver studerende. Den kan omarrangere øvelsesspørgsmål, omskrive en forklaring omkring en studerendes interesse for fodbold, huske sidste uges samtale eller vælge, hvad den studerende læser næste gang. Alle fire bliver kaldt personalisering, og kun én af dem er blevet testet i noget, der ligner den form.
 
-Det korte svar til en kollega: personalisering betegner en ændring af en eller anden del af læringsoplevelsen, og dens værdi afhænger af tre ting: hvad der tilpasses, hvilken evidens der driver tilpasningen, og om ændringen forbedrer den læring, du har til hensigt. Et velkendt eksempel eller en lydhør samtale kan føles personlig uden at lære noget. En effektiv tilpasning kan være usynlig. Det klareste eksperimentelle resultat i denne vidensbase er snævert: i et fem måneder langt Python-certificeringskursus på tværs af ti gymnasier i Taipei scorede studerende, der blev randomiseret til adaptiv opgavesekventering, cirka 0,150 standardafvigelser højere på en fysisk fremmødt, ustøttet [[summative-assessment|afsluttende eksamen]] end studerende med en fast sekvens og identisk [[conversational-ai|chatbot-adgang]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). Det understøtter sekventering under angivne betingelser. Det validerer ikke alt, hvad der sælges som personligt.
+Det korte svar til en kollega: personalisering betegner en ændring af en eller anden del af læringsoplevelsen, og dens værdi afhænger af tre ting: hvad der tilpasses, hvilken evidens der driver tilpasningen, og om ændringen forbedrer den læring, du har til hensigt. Et velkendt eksempel eller en lydhør samtale kan føles personlig uden at lære noget. En effektiv tilpasning kan være usynlig. Det klareste eksperimentelle resultat i denne litteratur er snævert: i et fem måneder langt Python-certificeringskursus på tværs af ti gymnasier i Taipei scorede studerende, der blev randomiseret til adaptiv opgavesekventering, cirka 0,150 standardafvigelser højere på en fysisk fremmødt, ustøttet [[summative-assessment|afsluttende eksamen]] end studerende med en fast sekvens og identisk [[conversational-ai|chatbot-adgang]] ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|Chung et al., 2026]]). Det understøtter sekventering under angivne betingelser. Det validerer ikke alt, hvad der sælges som personligt.
 
 ## Den korte version
 

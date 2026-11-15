@@ -5,8 +5,9 @@ connected_faqs: [developing-ai-tutor, training-ai-tutors-to-guide-rather-than-an
 weight: 66
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
+updated: "2026-11-15T16:11:00-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -42,7 +43,7 @@ ai_assist:
 
 המאמר [[agentic-workflows-education|Agentic Workflows in Education]] מונה ארבע יכולות חוזרות: רפלקציה, תכנון, שימוש בכלים ושיתוף פעולה בין סוכנים. כל אחת מהן מוסיפה עלות לצד האפשרות — ב[[explainable-ai|פרשנות]], בתיאום, ב[[trust-calibration|אמון]], בהשהיה ובפיקוח.
 
-תפקידי צד הסטודנט נעים מחונכות [[adaptive-learning|אדפטיבית]] ותכנון לימודים, דרך משוב [[formative-assessment|מעצב]], [[problem-solving|פתרון בעיות]] מודרך ויצירת תרגול, ועד המלצות קדם-דרישה ו[[metacognition|חשיבה מטקוגניטיבית]] רפלקטיבית באמצעות [[prompt-engineering|הנחיה]]. תפקידי צד המרצה מכסים פיתוח חומרים, [[automated-question-generation|יצירת שאלות]] ואימותן, מיון משוב, [[learning-analytics|אנליטיקה]] של הקורס, עיצוב הוראה, אחזור משאבים ותזמור של תת-סוכנים מתמחים.
+תפקידי צד הסטודנט נעים מחונכות [[adaptive-learning|אדפטיבית]] ותכנון לימודים, דרך משוב [[formative-assessment|מעצב]], [[problem-solving|פתרון בעיות]] מודרך ויצירת תרגול, ועד המלצות קדם-דרישה ו[[metacognition|חשיבה מטקוגניטיבית]] רפלקטיבית באמצעות [[prompt-engineering|הנחיה]]. תפקידי צד המרצה מכסים פיתוח חומרים, [[automated-question-generation|יצירת שאלות]] ואימותן, מיון משוב, [[learning-analytics|אנליטיקה]] של הקורס, [[learning-design|עיצוב הוראה]], אחזור משאבים ותזמור של תת-סוכנים מתמחים.
 
 שניים מאלה בטוחים יותר בשלב מוקדם, כי שניהם מייצרים תוצר שאדם קורא לפני הסטודנטים: מחולל שאלות עם מאמת, וטיוטה שמורה עורך.
 
@@ -70,7 +71,7 @@ ai_assist:
 
 ## תכננו את הכיבוי
 
-ניסויים מבוקרים אקראיים מראים שסיוע קצר של בינה מלאכותית יכול לדכא ביצועים לא-מסויעים בהמשך, והמרווח שאחרי הנסיגה — [[cognitive-washout-ai-skill-decay-2026|שטיפה קוגניטיבית]] — כמעט אינו נמדד. הסינתזה שמאחורי העמוד הזה נשענת על [[meta-analysis-systematic-review|סקירת היקף]] של 474 מחקרים ומוצאת שהעבודה מתרכזת ב[[higher-ed|השכלה גבוהה]], ב[[stem-education|STEM]], בתכנונים קצרי טווח ובחונכות מבוססת טקסט, ורק מיעוט ממנה מעוגן במפורש בתיאוריה חינוכית. פיילוט שמסתיים כשהרישיון מסתיים מדד את החלון הלא נכון.
+ניסויים מבוקרים אקראיים מראים שסיוע קצר של בינה מלאכותית יכול לדכא ביצועים לא-מסויעים בהמשך, והמרווח שאחרי הנסיגה — [[cognitive-washout-ai-skill-decay-2026|שטיפה קוגניטיבית]] — כמעט אינו נמדד. הסינתזה שמאחורי הטיעון נשענת על [[meta-analysis-systematic-review|סקירת היקף]] של 474 מחקרים ומוצאת שהעבודה מתרכזת ב[[higher-ed|השכלה גבוהה]], ב[[stem-education|STEM]], בתכנונים קצרי טווח ובחונכות מבוססת טקסט, ורק מיעוט ממנה מעוגן במפורש בתיאוריה חינוכית. פיילוט שמסתיים כשהרישיון מסתיים מדד את החלון הלא נכון.
 
 ## מה מנהלים טועים בו כאן
 
@@ -100,4 +101,4 @@ ai_assist:
 
 ## לאן ללכת הלאה
 
-[[developing-ai-tutor]] מכסה את הבנייה הפונה לסטודנט, מן המטרה ועד סולם העזרה, ו[[evaluating-ai-interventions-methods]] מכסה אם הדבר עבד. [[intelligent-tutoring]] ו[[ai-literacy]] מספקים את אוצר המושגים לעיצוב שהעמוד הזה מניח.
+[[developing-ai-tutor]] מכסה את הבנייה הפונה לסטודנט, מן המטרה ועד סולם העזרה, ו[[evaluating-ai-interventions-methods]] מכסה אם הדבר עבד. [[intelligent-tutoring|חונכות חכמה]] ו[[ai-literacy|אוריינות AI]] מספקים את אוצר המושגים לעיצוב שהטיעון מניח.

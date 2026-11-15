@@ -6,9 +6,9 @@ weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-updated: "2026-10-29T17:10:58-04:00"
+updated: "2026-11-15T16:03:31-05:00"
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -17,6 +17,7 @@ ai_assist:
     date: "2026-10-29"
     agent: hermes-agent
 ---
+
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
 
@@ -54,6 +55,8 @@ Skriv ned listan innan du planerar sessionerna. Fyra dimensioner plus ett underv
 ## Bedöm prestation i stället för tilltro
 
 [[self-report-measures|Självrapporterad]] AI-kompetens kan glida betydligt från visad förmåga, vilket är den enskilt mest praktiska varningen i den här litteraturen för den som driver lärarkompetensutveckling. En enkät om tilltro i slutet av en workshop mäter hur workshopen kändes.
+
+En enkät kan till och med förutsägas alltför väl. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez m.fl. (2026)]] klassificerade 314 av 315 lärare i kompetensband utifrån en skala med 300 poster (α = 0,997) och utan faktoranalys, och institutionell tillhörighet var den största bidragande faktorn – ett tecken på att poängen speglade var människor arbetar, inte vad de kan.
 
 Forskning om lärares [[agentic-ai|multiagent]]arbetsflöden ger ett andra skäl att testa i stället för att fråga: systemtänkande, pedagogiska övertygelser och [[self-efficacy|självtillit]] samverkar i AI-integreringen, så samma session landar olika hos två lärare med samma ämnesbakgrund. Det talar för differentierat program och emot den enda standardiserade verktygsworkshop som de flesta institutioner kör.
 
@@ -103,7 +106,7 @@ Självsäkra lärare är kompetenta lärare. Självrapportering glider från vis
 
 Ett ramverk täcker alla. Standarden med sex roller finns för att TPACK, SAMR och de stora lärarstandarderna täcker K-12-lärare eller enbart undervisningsdimensionen.
 
-Motstånd är en kunskapslucka att fylla. Riskaversion förutsade intentionen negativt, och identitetsarbetet beskriver lärare som resonerar utifrån pedagogiska värderingar. En del av det som ser ut som motvilja är en försvarbar ståndpunkt om studenters överberoende.
+Motstånd är en kunskapslucka att fylla. Riskaversion förutsade intentionen negativt, och [[learner-identity|identitetsarbetet]] beskriver lärare som resonerar utifrån pedagogiska värderingar. En del av det som ser ut som motvilja är en försvarbar ståndpunkt om studenters överberoende.
 
 ## Vad som kommer att slå tillbaka mot dig
 
@@ -130,3 +133,4 @@ Motstånd är en kunskapslucka att fylla. Riskaversion förutsade intentionen ne
 ## Vart du går härnäst
 
 Motstycket för studenter är [[incorporating-ai-literacy|Att bygga in AI-kompetens]], och [[ai-literacy-evidence|Evidensen för AI-kompetens]] täcker hur starkt det evidensunderlaget är. För den lärarvända sammanfattningen av forskningen, se [[top-10-findings-ai-education-instructors|Tio viktigaste fynd för lärare]]; [[teacher-ai-competency|Lärares AI-kompetens]] och [[educational-development|Kompetensutveckling för lärare]] bär ramverksmaterialet, och [[course-ai-policy|Kursens AI-policy]] är det dokument som det mesta av detta utvecklingsarbete till slut producerar.
+

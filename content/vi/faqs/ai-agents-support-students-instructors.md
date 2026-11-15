@@ -6,9 +6,9 @@ weight: 66
 audience: [instructors, learners, administrators]
 foundations: [agentic-ai, ai-literacy, cognitive-offloading]
 technology: [human-in-the-loop-ai, intelligent-tutoring, pedagogical-agent]
-updated: "2026-10-29T16:56:06-04:00"
+updated: "2026-11-15T16:01:15-05:00"
 translation_of: faqs/ai-agents-support-students-instructors
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Một [[agentic-ai|tác tử]] lập kế hoạch, gọi công cụ, giữ ngữ
 
 [[agentic-workflows-education|Các quy trình tác tử trong giáo dục]] gọi tên bốn năng lực lặp lại: phản tư, lập kế hoạch, dùng công cụ và cộng tác đa tác tử. Mỗi năng lực thêm một chi phí bên cạnh khả năng mới, ở các mặt [[explainable-ai|khả năng diễn giải]], phối hợp, [[trust-calibration|niềm tin]], độ trễ và giám sát.
 
-Các vai trò phía sinh viên chạy từ dạy kèm [[adaptive-learning|thích ứng]] và lập kế hoạch học tập, qua phản hồi [[formative-assessment|hình thành]], [[problem-solving|giải quyết vấn đề]] có hướng dẫn và việc tạo bài luyện tập, tới các khuyến nghị về kiến thức tiên quyết và [[metacognition|việc nhắc nhở siêu nhận thức]] qua [[prompt-engineering|prompt]] mang tính phản tư. Các vai trò phía giảng viên bao phủ việc phát triển tài liệu, [[automated-question-generation|tạo câu hỏi]] và xác thực, phân loại phản hồi, [[learning-analytics|phân tích]] môn học, thiết kế giảng dạy, truy hồi tài nguyên và điều phối các tác tử con chuyên biệt.
+Các vai trò phía sinh viên chạy từ dạy kèm [[adaptive-learning|thích ứng]] và lập kế hoạch học tập, qua phản hồi [[formative-assessment|hình thành]], [[problem-solving|giải quyết vấn đề]] có hướng dẫn và việc tạo bài luyện tập, tới các khuyến nghị về kiến thức tiên quyết và [[metacognition|việc nhắc nhở siêu nhận thức]] qua [[prompt-engineering|prompt]] mang tính phản tư. Các vai trò phía giảng viên bao phủ việc phát triển tài liệu, [[automated-question-generation|tạo câu hỏi]] và xác thực, phân loại phản hồi, [[learning-analytics|phân tích]] môn học, [[learning-design|thiết kế giảng dạy]], truy hồi tài nguyên và điều phối các tác tử con chuyên biệt.
 
 Hai trong số đó an toàn hơn ở giai đoạn đầu, vì cả hai đều tạo ra một sản phẩm mà người ta đọc trước khi sinh viên đọc: một bộ tạo câu hỏi đi kèm một bộ xác thực, và một bản nháp để giáo viên sửa.
 
@@ -68,7 +68,7 @@ Hãy hỏi một con số trên bảng điều khiển đếm cái gì, ai viế
 
 ## Lên kế hoạch cho việc tắt nó đi
 
-Các thử nghiệm ngẫu nhiên cho thấy trợ giúp AI ngắn có thể làm giảm năng lực thực hiện khi không có trợ giúp về sau, và khoảng thời gian sau khi rút bỏ trợ giúp, [[cognitive-washout-ai-skill-decay-2026|rửa trôi nhận thức]], gần như hoàn toàn không được đo. Bản tổng hợp phía sau trang này dựa trên một [[meta-analysis-systematic-review|tổng quan phạm vi]] 474 nghiên cứu và phát hiện công việc tập trung ở [[higher-ed|giáo dục đại học]], [[stem-education|STEM]], các thiết kế ngắn hạn và dạy kèm dựa trên văn bản, với chỉ một thiểu số neo rõ ràng vào lý thuyết giáo dục. Một thí điểm kết thúc khi giấy phép kết thúc đã đo sai khoảng thời gian.
+Các thử nghiệm ngẫu nhiên cho thấy trợ giúp AI ngắn có thể làm giảm năng lực thực hiện khi không có trợ giúp về sau, và khoảng thời gian sau khi rút bỏ trợ giúp, [[cognitive-washout-ai-skill-decay-2026|rửa trôi nhận thức]], gần như hoàn toàn không được đo. Một [[meta-analysis-systematic-review|tổng quan phạm vi]] 474 nghiên cứu và phát hiện công việc tập trung ở [[higher-ed|giáo dục đại học]], [[stem-education|STEM]], các thiết kế ngắn hạn và dạy kèm dựa trên văn bản, với chỉ một thiểu số neo rõ ràng vào lý thuyết giáo dục. Một thí điểm kết thúc khi giấy phép kết thúc đã đo sai khoảng thời gian.
 
 ## Nhà quản lý hiểu sai gì về điều này
 
@@ -98,4 +98,4 @@ Quyền truy cập thu hẹp khoảng cách công bằng. Quyền truy cập kh�
 
 ## Đi tiếp từ đây
 
-[[developing-ai-tutor]] trình bày bản dựng hướng tới sinh viên từ mục tiêu tới thang trợ giúp, và [[evaluating-ai-interventions-methods]] trình bày việc thứ đó có hiệu quả hay không. [[intelligent-tutoring]] và [[ai-literacy]] cung cấp từ vựng thiết kế mà trang này giả định.
+[[developing-ai-tutor]] trình bày bản dựng hướng tới sinh viên từ mục tiêu tới thang trợ giúp, và [[evaluating-ai-interventions-methods]] trình bày việc thứ đó có hiệu quả hay không. [[intelligent-tutoring]] và [[ai-literacy]] cung cấp từ vựng thiết kế mà các khuyến nghị giả định.

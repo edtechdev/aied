@@ -1,7 +1,7 @@
 ---
 title: "Hur vet vi att en pedagogisk AI fungerar korrekt, inte bara får bra poäng?"
 created: "2026-10-02T08:07:09-04:00"
-connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
 foundations: [ai-education]
@@ -14,9 +14,9 @@ discipline: [writing education, math education]
 confidence: high
 methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
-updated: "2026-10-29T17:10:58-04:00"
+updated: "2026-11-15T16:03:31-05:00"
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,7 @@ ai_assist:
     date: "2026-10-29"
     agent: hermes-agent
 ---
+
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
 
@@ -42,7 +43,7 @@ Det korta svaret: de poäng du oftast ser mäter likhet, och likhet är ett svag
 
 **4.** Byt ut ”träffsäkerhet 0,84” mot en regel: under den här konfidensen läser en människa svaret. Rapportera tröskeln, andelen arbete den sparar och vad överensstämmelsen blev.
 
-**5.** Testa säkerhet över hela samtal, och kontrollera varje simulerad student innan du litar på vad den säger om din handledare.
+**5.** Testa säkerhet över hela samtal, och kontrollera varje [[simulating-students|simulerad student]] innan du litar på vad den säger om din handledare.
 
 ## Bestäm vad siffran får bevisa
 
@@ -60,13 +61,13 @@ Assistenten för kursen i linjära styrsystem rapporterar detta på rätt sätt.
 
 I WrAFT-projektet nådde en finjusterad modell en överensstämmelsepoäng på **0,84** med mänskliga bedömare över 360 undanhållna TOEFL-uppsatser. Det är ett starkt resultat för betygssättning. Samma projekts modell som tränats att skriva återkoppling producerade output som var trunkerad och omöjlig att tolka, medan det att helt enkelt prompta en annan modell gav återkoppling som lärarna föredrog ([[wraft-automated-writing-evaluation-argumentative-2026|automatiserad skrivutvärdering av argumenterande text]]).
 
-Kunskapsbasen bär samma fel i en andra form: en utplacering vars betygsmodul fick bra poäng och vars återkoppling kom avskuren mitt i en mening och oläsbar. Inget i rubriksiffran sa det.
+Samma fel visar sig i en andra form: en utplacering vars betygsmodul fick bra poäng och vars återkoppling kom avskuren mitt i en mening och oläsbar. Inget i rubriksiffran sa det.
 
 Lista därför de outputs ditt system producerar och ge var och en sitt eget mått och sitt eget godkännandevillkor. Betygssättning, återkopplingstext, val av ledtråd och säkerhetsavvisningar brister på olika sätt, och en poäng på modulnivå kan inte se förbi sin egen modul.
 
 ## Sätt en människa där modellen är osäker
 
-En korrelation säger att modellen oftast har rätt. Den säger inte vad du ska göra de gånger den inte har det. Resultatet med konfidensrouting är den renaste mallen i kunskapsbasen, och den är kort nog att kopiera.
+En korrelation säger att modellen oftast har rätt. Den säger inte vad du ska göra de gånger den inte har det. Resultatet med konfidensrouting är den renaste mallen i evidensen, och den är kort nog att kopiera.
 
 Konfidens visade sig vara en tillförlitlig varningssignal: när modellen var osäker hade den större sannolikhet att ha fel (**β = -0,602, p < 0,001**). Teamet skickade de minst säkra **20 %** av svaren till en människa. Den enda regeln höjde överensstämmelsen med mänskliga betyg från **0,78 till 0,82** och skar den manuella betygssättningen med ungefär **80 %** ([[know-when-to-trust-ai-scoring-reliability-2026|att veta när man kan lita på AI-bedömning]]).
 
@@ -84,13 +85,13 @@ Praktisk version: ta ett urval på omkring femtio outputs, låt en person skatta
 
 Den renaste lösningen är att träna modellen på samma kvantitet som du tänker mäta. En finjusterad modell tränades att reproducera statistiska egenskaper hos testfrågor: hur svår varje uppgift är, hur väl den skiljer starkare från svagare studenter. Den lärde sig de mönstren i stället för att få dem berättade ([[multimodal-item-parameter-estimation-2026|multimodal skattning av uppgiftsparametrar]]). Eftersom målet var en egenskap hos bedömningen i sig kunde utvärderingen handla om den egenskapen i stället för om formulering.
 
-Rapportera progressionen liksom slutpunkten. SWIM:s skrivsimulator publicerade varje stegs poäng sida vid sida: matrisbaserad promptning **0,577**, finjustering **0,474 ± 0,023**, förstärkningsinlärning **0,618 ± 0,005** ([[swim-student-writing-simulation-2026|simulering av studenters skrivande]]). En läsare kan se i den tabellen om träningen gjorde något. En enda slutsiffra kan inte säga det, och den döljer ett steg där den finjusterade modellen gjorde sämre ifrån sig än prompten.
+Rapportera progressionen liksom slutpunkten. SWIM:s [[simulation|skrivsimulator]] publicerade varje stegs poäng sida vid sida: matrisbaserad [[prompt-engineering|promptning]] **0,577**, finjustering **0,474 ± 0,023**, [[reinforcement-learning|förstärkningsinlärning]] **0,618 ± 0,005** ([[swim-student-writing-simulation-2026|simulering av studenters skrivande]]). En läsare kan se i den tabellen om träningen gjorde något. En enda slutsiffra kan inte säga det, och den döljer ett steg där den finjusterade modellen gjorde sämre ifrån sig än prompten.
 
 ## Jämför mot något utanför ditt projekt
 
 Skaffa först en baslinje, även en billig. Kursassistentens modell utan grundning fick lägre poäng än en vanlig nyckelordssökning, vilket är den sortens resultat som ändrar färdplanen och kostar en dag att hitta.
 
-En extern benchmark säger sedan om din siffra är något att ha över huvud taget. På CDPK:s pedagogikbenchmark nådde EduQwen **96,52 %** mot Gemini-3 Pro:s **90,55 %** ([[singh-eduqwen-pedagogical-rl-2026|EduQwen och pedagogisk förstärkningsinlärning]]). Pedagogy Benchmark, byggd av riktiga fortbildningstentor för lärare och omfattande **97 modeller**, fann träffsäkerhet som spände från **28 % till 89 %** ([[cdpk-pedagogy-benchmark-llms|Lelièvre m.fl., 2025]]).
+En extern benchmark säger sedan om din siffra är något att ha över huvud taget. På CDPK:s [[pedagogy|pedagogikbenchmark]] nådde EduQwen **96,52 %** mot Gemini-3 Pro:s **90,55 %** ([[singh-eduqwen-pedagogical-rl-2026|EduQwen och pedagogisk förstärkningsinlärning]]). Pedagogy Benchmark, byggd av riktiga fortbildningstentor för [[teacher-role|lärare]] och omfattande **97 modeller**, fann träffsäkerhet som spände från **28 % till 89 %** ([[cdpk-pedagogy-benchmark-llms|Lelièvre m.fl., 2025]]).
 
 På en uppgift om undervisning spände modellerna från dåliga till bra, så ett benchmarkresultat placerar ditt system någonstans inom ett brett intervall.
 
@@ -104,7 +105,7 @@ Kör kontrollen över fullständiga samtal, och skriv testturerna medvetet: stud
 
 Att generera simulerade studenter i stället för att rekrytera riktiga gör utvärderingen mycket billigare. En simulerad student är också ett mätinstrument, och det kan ha fel på samma sätt som instrument har fel: för samarbetsvillig, för flytande, för snabb att acceptera en ledtråd.
 
-Det mest direkta testet i kunskapsbasen benchmärkte simulerade och promptade studenter mot **382 undanhållna dialoger** ur den största offentliga samlingen av riktiga matematikdialoger mellan student och handledare, med sju mått som täckte språk, beteende och tänkande ([[simulated-students-tutoring-dialogues-2026|simulerade studenter i handledningsdialoger]]). Annat arbete pressar på realismen från andra håll: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] tränar modeller att både agera och tänka som studenter, och historikmedvetna profiler betingar simuleringen på en students förflutna i stället för på en fast persona ([[history-aware-student-simulation|historikmedveten studentsimulering]]).
+Det mest direkta testet i evidensen benchmärkte simulerade och promptade studenter mot **382 undanhållna dialoger** ur den största offentliga samlingen av riktiga matematikdialoger mellan student och handledare, med sju mått som täckte språk, beteende och tänkande ([[simulated-students-tutoring-dialogues-2026|simulerade studenter i handledningsdialoger]]). Annat arbete pressar på realismen från andra håll: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] tränar modeller att både agera och tänka som studenter, och historikmedvetna profiler betingar simuleringen på en students förflutna i stället för på en fast persona ([[history-aware-student-simulation|historikmedveten studentsimulering]]).
 
 Om din testrigg är en simulerad student, validera simulatorn mot riktiga transkript innan du låter den betygsätta din handledare.
 

@@ -6,9 +6,9 @@ weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:01:30-05:00"
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -55,7 +55,7 @@ Syntesen [[reducing-ai-misuse|At reducere misbrug af AI]] placerer redesign i Ti
 
 Begynd med en etiket. [[ai-assessment-scale-reform|AI Assessment Scale (AIAS)]] giver hver opgave et AI-brugsniveau, fra »ingen AI« over »AI kun til idéudvikling« og »AI-assistance med kildeangivelse« til »fuld AI-brug«, så forventningen er eksplicit og håndhævelig frem for udledt.
 
-Ændr derefter artefakten. Et [[meta-analysis-systematic-review|systematisk review]] af 72 studier om generativ AI i [[cs-education|datalogiundervisning]] vurderer redesign som både gennemførligt og med størst effekt og fremhæver ét greb: tilføj et mundtligt eller på anden måde proces-synligt element til mindst én afgørende bedømmelse per kursus. Det kaldes den enkeltstående mest effektive intervention i korpusset. Detektion er det tyndeste område, reviewet dækker, med kun 3 studier, mod at 60-80 % af datalogistuderende rapporterer brug af generativ AI i kursusarbejde, typisk uden udtrykkelig undervisertilladelse, og 70 % af en national underviserstikprøve udtrykkeligt beder om oplæring i AI-resistent bedømmelsesdesign ([[kumar-genai-computing-education-systematic-review-2026]]).
+Ændr derefter artefakten. Et [[meta-analysis-systematic-review|systematisk review]] af 72 studier om generativ AI i [[cs-education|datalogiundervisning]] vurderer redesign som både gennemførligt og med størst effekt og fremhæver ét greb: tilføj et mundtligt eller på anden måde proces-synligt element til mindst én afgørende bedømmelse per kursus. Det kaldes den enkeltstående mest effektive intervention i gennemgangen. Detektion er det tyndeste område, reviewet dækker, med kun 3 studier, mod at 60-80 % af datalogistuderende rapporterer brug af generativ AI i kursusarbejde, typisk uden udtrykkelig undervisertilladelse, og 70 % af en national underviserstikprøve udtrykkeligt beder om oplæring i AI-resistent bedømmelsesdesign ([[kumar-genai-computing-education-systematic-review-2026]]).
 
 Menuen, nogenlunde i rækkefølge efter, hvor godt hver mulighed overlever et stort hold.
 

@@ -1,14 +1,16 @@
 ---
 title: "YZ Bağlamında Yazma Öğretiminin En İyi Uygulamaları Nelerdir?"
 created: "2026-10-14T06:37:13-04:00"
+updated: "2026-11-15T16:08:48-05:00"
 connected_faqs: [ai-feedback-at-scale, redesign-assessment-ai-era, addressing-common-misconceptions-ai-education]
 foundations: [academic-integrity, cognitive-offloading]
 assessment: [ai-feedback-quality, assessment-validity, evaluative-judgment, feedback-literacy, peer-assessment]
 ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
+audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -129,7 +131,7 @@ Modelin eleştirisini disipliner iş olarak verin. Öğrencilere bir şiirin, bi
 
 ### STEM dersleri ve laboratuvar raporları
 
-Önce bir sınırlama: bu bilgi tabanı, YZ destekli akademik yazma hakkında genel olarak, laboratuvar raporu yazımı hakkında ise özel olarak olduğundan çok daha güçlü kanıt barındırır. Uygulamalı ve laboratuvar [[pedagogy|pedagojisi]], [[engineering-education|mühendislik eğitimi]] literatürü de dahil olmak üzere yeterince kapsanmamıştır; bu yüzden aşağıdakiler yazma, boşaltma, geçerlilik ve mühendislik bulgularını, bu çalışmaların test etmediği bir ortama uygular.
+Önce bir sınırlama: kanıtlar, YZ destekli akademik yazma hakkında genel olarak, laboratuvar raporu yazımı hakkında ise özel olarak olduğundan çok daha güçlüır. Uygulamalı ve laboratuvar [[pedagogy|pedagojisi]], [[engineering-education|mühendislik eğitimi]] literatürü de dahil olmak üzere yeterince kapsanmamıştır; bu yüzden aşağıdakiler yazma, boşaltma, geçerlilik ve mühendislik bulgularını, bu çalışmaların test etmediği bir ortama uygular.
 
 Sınırı bir bütün olarak düzyazı yerine bilimsel akıl yürütmenin etrafına çizin. Gözlemler, ham veriler, hesaplamalar, belirsizlik, grafikler, analiz seçimleri, sonuçlar ve iddia-kanıt akıl yürütmesi öğrencinin sorumluluğunda kalır. Bunlar ortaya çıktıktan sonra YZ düzenleme, okunabilirlik, geçişler ve disipliner teamüller konusunda makul biçimde yardımcı olabilir; bu, [[layer-sensitive-cognitive-offloading-writing-2026|Chen'in çalışmasındaki]] yüzey-akıl yürütme ayrımının aynısıdır.
 
@@ -149,7 +151,7 @@ Destekli performans bağımsız yetkinlik değildir ve ikincisine dair en az bir
 
 Çelişkili görünen iki sonuç birbiriyle uyumludur. Ayrıntılı rubrikler ve örneklerle dikkatle kalibre edilmiş sistemler belirli görevleri iyi notlandırabilir; hazır [[llm|LLM]] notlandırması ise insan yargısından belirgin biçimde sapar. [[llms-do-not-grade-essays-like-humans-2026|Mathew ve ark.]], deneme kalitesiyle sistematik olarak değişen zayıf bir insan-LLM uyumu bulmuştur: modeller kısa, yüzeysel olarak okunabilir denemeleri fazla ödüllendirir, küçük yüzey hataları olan daha uzun ve daha güçlü denemeleri az ödüllendirir ve ölçeğin ortasına doğru kümelenir. Bu örüntü YZ'yi düşük riskli [[formative-assessment|biçimlendirici]] geri bildirim, yorum taslağı ve önceliklendirme için, özerk [[summative-assessment|sonuç belirleyici]] notlandırmadan çok daha fazla destekler ([[automated-essay-scoring|Otomatik Kompozisyon Notlandırma]]).
 
-Öğrenciler de kendileri benzer bir çizgi çeker. [[generative-ai|ChatGPT]]'nin el yazısı yazıları notlandırdığı ve öğrencilere bunun söylendiği bir lisans teknik iletişim dersinde 13 katılımcının tamamı geri bildirimi açık ve yüzeysel revizyon için yararlı bulmuştur. Çoğu, geri bildirimin yararını değerlendirme otoritesinden ayırmıştır: eleştiriyi kabul etmiş ve notu eğitmenin vermesinde ısrar etmiştir ([[student-perspectives-ai-writing-grading-2026]]). [[human-in-the-loop-ai|İnsan gözetimini]], uygun olduğunda sunulan bir nezaket değil, YZ çıktısının nota dönüştüğü nokta olarak tasarlayın.
+Öğrenciler de kendileri benzer bir çizgi çeker. [[generative-ai|ChatGPT]]'nin el yazısı yazıları notlandırdığı ve öğrencilere bunun söylendiği bir lisans teknik iletişim dersinde 13 katılımcının tamamı geri bildirimi açık ve yüzeysel revizyon için yararlı bulmuştur. Çoğu, geri bildirimin yararını değerlendirme otoritesinden ayırmıştır: eleştiriyi kabul etmiş ve notu eğitmenin vermesinde ısrar etmiştir ([[student-perspectives-ai-writing-grading-2026|AlGhamdi, 2026]]). [[human-in-the-loop-ai|İnsan gözetimini]], uygun olduğunda sunulan bir nezaket değil, YZ çıktısının nota dönüştüğü nokta olarak tasarlayın.
 
 ## İzlenceyi yeniden yazmadan önce kanıtı değerlendirin
 
@@ -159,7 +161,7 @@ Bu bileşimin pratik bir sonucu var. Bir ödevi değiştirin, ürünü saklayın
 
 ## Eğitmenlerin bu konuda yanlış yaptığı şeyler
 
-**Bir dedektör, yazının öğrenciye ait olup olmadığını çözer.** Çözmez. Gizli bir saha çalışmasında YZ tarafından üretilen sınav teslimlerinin %94'ü tespit edilmedi ve gerçek öğrencilerden daha yüksek puan aldı; kontrollü bir çalışma ise dedektörlerin kurallara uygun hafif YZ düzenlemesini %38-80 aralığında işaretlediğini, insanlaştırılmış yeniden yazımların ise %96'sından fazlasını kaçırdığını bulmuştur ([[teichmann-detecting-undetectable-misconduct-2026]]; [[karr-ai-detection-humanization-2026]]). Tespit bir tespit sorusunu yanıtlar; [[assessment-validity|geçerlilik]] ise başka bir sorudur.
+**Bir dedektör, yazının öğrenciye ait olup olmadığını çözer.** Çözmez. Gizli bir saha çalışmasında YZ tarafından üretilen sınav teslimlerinin %94'ü tespit edilmedi ve gerçek öğrencilerden daha yüksek puan aldı; kontrollü bir çalışma ise dedektörlerin kurallara uygun hafif YZ düzenlemesini %38-80 aralığında işaretlediğini, insanlaştırılmış yeniden yazımların ise %96'sından fazlasını kaçırdığını bulmuştur ([[teichmann-detecting-undetectable-misconduct-2026|Teichmann, 2026]]; [[karr-ai-detection-humanization-2026|Karr ve ark., 2026]]). Tespit bir tespit sorusunu yanıtlar; [[assessment-validity|geçerlilik]] ise başka bir sorudur.
 
 **Ders düzeyinde bir politika, ödev başına kuraldan daha açıktır.** Nash ve Burriss'in politikaları ders düzeyinde belgelerdi ve 27 politikanın 22'si beyin fırtınasına izin veriyor, 22'si yazmayı kısıtlıyor ya da bulanıklaştırıyor, 22'si okuma konusunda sessiz kalıyordu. Her şeyi kapsayan tek bir belge, eğitmenin kaygılandığı adımda somut, geri kalanında belirsiz olmaya eğilimlidir.
 
@@ -197,4 +199,4 @@ Bu bileşimin pratik bir sonucu var. Bir ödevi değiştirin, ürünü saklayın
 
 ## Bundan sonra nereye bakmalı
 
-Bu argümanın değerlendirme tarafı, kimliği doğrulanmış adımların tasarımı dahil, [[redesign-assessment-ai-era]] sayfasındadır. Öğrencilerin gerçekten okuduğu politika belgesi için [[course-ai-policy]] sayfasına, geri bildirim araçlarının kendisi için [[ai-feedback-quality]] sayfasına bakın. [[verify-ai-output]], model bir iddia ya da kaynak sağladığında öğrencilerin neleri kontrol etmesi gerektiğini ele alır; [[coach-not-crutch-ai-writing]] kavram sayfası ise bu sayfanın sürekli geri döndüğü sınırı ortaya koyar.
+Bu argümanın değerlendirme tarafı, kimliği doğrulanmış adımların tasarımı dahil, [[redesign-assessment-ai-era]] sayfasındadır. Öğrencilerin gerçekten okuduğu politika belgesi için [[course-ai-policy]] sayfasına, geri bildirim araçlarının kendisi için [[ai-feedback-quality|YZ geri bildirim kalitesi]] sayfasına bakın. [[verify-ai-output]], model bir iddia ya da kaynak sağladığında öğrencilerin neleri kontrol etmesi gerektiğini ele alır; [[coach-not-crutch-ai-writing|Lira ve ark. (2025)]] ise en çok önem taşıyan sınırı ortaya koyar.

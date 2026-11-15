@@ -9,9 +9,9 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:59:30-05:00"
 translation_of: faqs/ai-anxiety-wellbeing
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -105,7 +105,7 @@ Sasarannya adalah menurunkan kecemasannya. Kim (2026) menemukan kecemasan berkai
 
 Kepercayaan diri melindungi mahasiswa dari kerusakan karier. Dalam model Duan dkk., [[self-efficacy|efikasi diri]] tidak menahannya. Kemampuan beradaptasi karier yang membawa jalur yang dimediasi itu.
 
-Ini adalah masalah [[student-support-and-success|layanan mahasiswa]]. Sebagian besar langkah di halaman ini bersifat instruksional: latihan berisiko rendah, evaluasi terpandu atas keluaran AI, revisi yang digerakkan umpan balik, dan pernyataan harapan yang dapat dibaca mahasiswa. Mengetahui jalur rujukan adalah satu butir di antaranya.
+Ini adalah masalah [[student-support-and-success|layanan mahasiswa]]. Sebagian besar langkah bersifat instruksional: latihan berisiko rendah, evaluasi terpandu atas keluaran AI, revisi yang digerakkan umpan balik, dan pernyataan harapan yang dapat dibaca mahasiswa. Mengetahui jalur rujukan adalah satu butir di antaranya.
 
 Chatbot kesejahteraan adalah jawaban yang dapat diskalakan bagi kapasitas konseling yang tipis. Ketersediaannya nyata dan dayanya menarik dapat dipahami. Akurasi pada satu split yang disisihkan bukan bukti bahwa mahasiswa yang sedang kesusahan menjadi lebih baik, dan pertanyaan tentang kesalahan klasifikasi, penyimpanan, dan eskalasi tidak memiliki jawaban terbit pada karya yang dikutip di sini.
 
@@ -117,7 +117,7 @@ Chatbot kesejahteraan adalah jawaban yang dapat diskalakan bagi kapasitas konsel
 
 **“Saya guru mata pelajaran, bukan konselor.”** Tidak ada yang meminta Anda menangani siapa pun. Latihan berisiko rendah, tugas kritik, dan siklus revisi adalah langkah instruksional biasa. Satu temuan yang berbicara tentang posisi Anda adalah hubungan guru-mahasiswa yang berada di urutan kedua dalam analisis kepentingan fitur Bashir dan Afzal (10,0%), di atas kualitas tidur (9,3%) dan dukungan sosial (7,6%). Para penulis menyebutnya hipotesis, dan itu taruhan yang wajar untuk peran yang sudah Anda tempati.
 
-**“Kami tidak punya kapasitas konseling, jadi sebuah alat lebih baik daripada tidak sama sekali.”** Mungkin, dan halaman ini tidak dapat memutuskannya. Yang dapat Anda tuntut sebelum penerapan adalah jawaban tertulis tentang validasi akurasi, bagaimana tingkat dukungan diputuskan, apa yang terjadi pada kesalahan klasifikasi yang merugikan, bagaimana pengungkapan disimpan, dan bagaimana eskalasi ke manusia bekerja. Tidak ada jawaban, tidak ada penerapan. Mahasiswa yang mengungkapkan sesuatu kepada alat yang salah mengarsipkannya mungkin tidak akan mengungkapkan lagi.
+**“Kami tidak punya kapasitas konseling, jadi sebuah alat lebih baik daripada tidak sama sekali.”** Mungkin, dan bukti tidak dapat memutuskannya. Yang dapat Anda tuntut sebelum penerapan adalah jawaban tertulis tentang validasi akurasi, bagaimana tingkat dukungan diputuskan, apa yang terjadi pada kesalahan klasifikasi yang merugikan, bagaimana pengungkapan disimpan, dan bagaimana eskalasi ke manusia bekerja. Tidak ada jawaban, tidak ada penerapan. Mahasiswa yang mengungkapkan sesuatu kepada alat yang salah mengarsipkannya mungkin tidak akan mengungkapkan lagi.
 
 **“Jika saya mengangkat prospek karier di kelas, saya melampaui mata pelajaran saya.”** Alternatifnya adalah mahasiswa menyusun jawaban mereka sendiri dari pasar kerja dan dari satu sama lain. Duan dkk. merekomendasikan pekerjaan perencanaan karier sebagai bagian dari program akademik, dan Dağ dkk. merekomendasikannya bersama literasi AI. Anda dapat menjadi tuan rumah percakapan itu tanpa mengklaim keahlian di dalamnya, dan mengarahkan kasus individual ke layanan karier.
 

@@ -1,7 +1,7 @@
 ---
 title: "Hur skriver jag en AI-policy för kursen och kommunicerar den till studenterna?"
 created: "2026-09-16T15:58:20-04:00"
-connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, institutional-ai-policy, asynchronous-online-courses-ai]
+connected_faqs: [should-we-use-ai-detectors, redesign-assessment-ai-era, institutional-ai-policy, asynchronous-online-courses-ai, adopting-ai-options-and-issues]
 weight: 70
 type: faq
 foundations: [academic-integrity, framing-ai-use-for-students, reducing-ai-misuse]
@@ -12,9 +12,9 @@ audience: [instructors, curriculum designers]
 level: [higher ed, secondary]
 methods: [qualitative-research]
 institutions: [educational-policy-ai]
-updated: "2026-10-29T17:10:58-04:00"
+updated: "2026-11-15T16:03:31-05:00"
 translation_of: faqs/course-ai-policy
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,7 @@ ai_assist:
     date: "2026-10-29"
     agent: hermes-agent
 ---
+
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
 
@@ -56,7 +57,7 @@ Resultatet är medvetet ojämnt. Brainstorming är tillåtet; att formulera spec
 
 Två datapunkter säger vad en normal policy ser ut som i år, och båda är värda att bära med sig in i mötet där någon föreslår ett förbud.
 
-En innehållsanalys av **116 institutionella policyer för generativ AI** från 131 amerikanska R1-universitet och **98 kursplaner i datavetenskap** från 54 av dem fann att institutionerna i stort är för användning: 63 % uppmuntrar användning av generativ AI, 41 % erbjuder detaljerad vägledning för klassrummet, 27 % avråder. Hälften av kursplanerna (50 %) förbjuder den helt, 41 % tillåter delvis användning för angivna aktiviteter och 7 % förmedlar uppmuntran. [[genai-policies-higher-ed-computing|Ganguly m.fl. (2026)]] kallar detta gapet mellan top-down och bottom-up. 92 % av kursplanerna ger uttryckliga riktlinjer, ändå driver lokala regler iväg från institutionens vägledning, och bara 47 institutioner hade båda nivåerna identifierbara. Citat är det enda krav båda nivåerna är ense om, i 83 % av kursplanerna.
+En innehållsanalys av **116 institutionella policyer för generativ AI** från 131 amerikanska R1-universitet och **98 kursplaner i [[cs-education|datavetenskap]]** från 54 av dem fann att institutionerna i stort är för användning: 63 % uppmuntrar användning av generativ AI, 41 % erbjuder detaljerad vägledning för klassrummet, 27 % avråder. Hälften av kursplanerna (50 %) förbjuder den helt, 41 % tillåter delvis användning för angivna aktiviteter och 7 % förmedlar uppmuntran. [[genai-policies-higher-ed-computing|Ganguly m.fl. (2026)]] kallar detta gapet mellan top-down och bottom-up. 92 % av kursplanerna ger uttryckliga riktlinjer, ändå driver lokala regler iväg från institutionens vägledning, och bara 47 institutioner hade båda nivåerna identifierbara. Citat är det enda krav båda nivåerna är ense om, i 83 % av kursplanerna.
 
 [[chirikov-regulate-ai-syllabi-2026|Chirikov (2026)]] följde över 31 000 kursplaner vid ett stort offentligt forskningsuniversitet i Texas från 2021 till 2025. Regleringen steg från nära noll före ChatGPT till 55 % av kurserna hösten 2025, medan fullt restriktiva policyer föll med omkring 5 procentenheter per år. Hösten 2025 begränsade lärarna oftast textproduktion och revidering (79 %) samt resonemang och [[problem-solving|problemlösning]] (65 %). De tillät oftast redigering och korrekturläsning (83 %), stöd i studier och sammanställning (80 %) och kodning (75 %). Idégenerering var den mest omstridda användningen, med 46 % tillåtet och 54 % begränsat.
 
@@ -70,11 +71,11 @@ Tre dokument, tre jobb.
 
 **Kursplanen** bär den korta sammanfattningen: uppgifterna, vad som är tillåtet i var och en, hur deklarationen fungerar och konsekvensen av en överträdd gräns. En skärm, ingen filosofi.
 
-**Uppgiftsbladet** bär det konkreta beskedet. En enda sammanfattning är för grov för ett komplext projekt, och det är här McCorkles formulering gjorde sitt arbete, i en motivering riktad till studenterna i andra person som namngav bedömningen bakom varje begränsning.
+**Uppgiftsbladet** bär det konkreta beskedet. En enda sammanfattning är för grov för ett komplext projekt, och det är här McCorkles formulering gjorde sitt arbete, i en motivering riktad till studenterna i andra person som namngav [[assessment|bedömningen]] bakom varje begränsning.
 
 **Rummet** bär det första muntliga uttalandet. Säg regeln en gång, i det ögonblick den först blir tillämplig, knuten till arbetet framför dem. En regel som en student möter ensam är en regel hen tolkar ensam.
 
-Deklarationsmekaniken behöver ett eget stycke, och det bör vara det mest konkreta på sidan. Studenter som tillsammans utformade en kursregel genom vägledd undersökning prioriterade utbildning för studenter och lärare, **standardiserade deklarationsrutiner**, starkare institutionellt stöd och större inflytande över beslut om AI ([[guided-inquiry-genai-course-policy-2026|Hingle och Johri (2026)]]). Säg hur, var och i vilken form en student deklarerar användning, och säg det en gång.
+Deklarationsmekaniken behöver ett eget stycke, och det bör vara det mest konkreta stycket i policyn. Studenter som tillsammans utformade en kursregel genom vägledd undersökning prioriterade utbildning för studenter och [[teacher-role|lärare]], **standardiserade deklarationsrutiner**, starkare institutionellt stöd och större inflytande över beslut om AI ([[guided-inquiry-genai-course-policy-2026|Hingle och Johri (2026)]]). Säg hur, var och i vilken form en student deklarerar användning, och säg det en gång.
 
 [[teaching-intro-ai-course-redesign-bill-of-rights-2026|Pisan (2026)]] fann en starkare version av samma drag: gör promptloggen till den betygssatta artefakten. När en modell gör produktionen är prompten och interaktionsprotokollet det som är värt att versionshantera, så deklarationen slutar vara pappersarbete och blir underlag som studenten bygger upp.
 
@@ -88,17 +89,17 @@ Det återkommande misslyckandet var operationalisering. En policy tillät AI ”
 
 Chirikovs fynd om betydande variation mellan discipliner och uppgifter talar för ramverk som ger lärare autonomi inom sin egen domän snarare än ett påbud för alla, vilket också är den ärliga beskrivningen av vad en kursregel är: en lokal bedömning inom en vidare regel.
 
-Det finns en [[equity-in-ai-education|rättvise]]dimension här. Ogenomskinliga policyer förutsätter delad bakgrundskunskap om författarskap, upphovsangivelse och normerna för akademiskt arbete, så de drabbar hårdast de studenter som kommer utan den. McCorkles fall är att transparens monterar ned en del av den dolda läroplanen och minskar risken att ett regelbrott blir ett disciplinärende.
+Det finns en [[equity-in-ai-education|rättvise]]dimension här. Ogenomskinliga policyer förutsätter delad bakgrundskunskap om författarskap, upphovsangivelse och normerna för akademiskt arbete, så de drabbar hårdast de studenter som kommer utan den. McCorkles fall är att transparens monterar ned en del av [[social-norms-ai-use|den dolda läroplanen]] och minskar risken att ett regelbrott blir ett disciplinärende.
 
 Den billigaste versionen av allt detta är få och specifik: de uppgifter du bedömer, de användningar som är tillåtna i var och en, deklarationsmekaniken och konsekvensen av en överträdd gräns, var och en med sitt skäl bifogat.
 
 ## Säg det högt, och se vad du själv förebildar
 
-Deklarationsregler fungerar inte som regelefterlevnadsmekanismer i sig, och att behandla dem som om de gjorde det är det vanligaste designfelet. I en mixad studie av 409 studenter på grundnivå fann [[qu-wang-disclose-or-not-genai-2026|Qu och Wang (2026)]] att utebliven deklaration var **strategisk anpassning till upplevda kamratnormer och låg [[trust|tillit]] till hur lärare tolkar det**, snarare än moralisk försumlighet. Upplevd kamratdeklaration och trygghet med läraren var de starkaste prediktorerna för studenternas egen deklaration; moralisk distansering hade svagare effekter.
+Deklarationsregler fungerar inte som regelefterlevnadsmekanismer i sig, och att behandla dem som om de gjorde det är det vanligaste designfelet. I en [[mixed-methods-research|mixad studie]] av 409 studenter på grundnivå fann [[qu-wang-disclose-or-not-genai-2026|Qu och Wang (2026)]] att utebliven deklaration var **strategisk anpassning till upplevda kamratnormer och låg [[trust|tillit]] till hur lärare tolkar det**, snarare än moralisk försumlighet. Upplevd kamratdeklaration och trygghet med läraren var de starkaste prediktorerna för studenternas egen deklaration; moralisk distansering hade svagare effekter.
 
 Det lämnar dig med två hävstänger du faktiskt kontrollerar: vad studenterna tror att deras kamrater gör, och om de litar på att du läser en deklaration rättvist. Båda svarar på hur du talar om regeln under första veckan. Ingen av dem svarar på hur sträng formuleringen är.
 
-[[student-rationalization-ai-writing|Kim m.fl. (2026)]] fann **fem olika platser** där en kurs verkliga policy lever: lärarens avsikt, den formella policyn, studentens tolkning, studentens egen policy och studentens praktik. Gapen mellan dem är systemiska. De katalogiserade också **23 rationaliseringar i sex klasser** som studenter använde för att rättfärdiga AI-användning i akademiskt skrivande, från ”ingen mänsklig offer” till ”lärarens likgiltighet”. Rationaliseringarna var ad hoc och efterhandsbyggda: studenterna förklarade beteenden som redan hade hänt i stället för att resonera i förväg, vilket är skälet till att tydligare formuleringar och hårdare detektering inte stänger gapet på egen hand.
+[[student-rationalization-ai-writing|Kim m.fl. (2026)]] fann **fem olika platser** där en kurs verkliga policy lever: lärarens avsikt, den formella policyn, studentens tolkning, studentens egen policy och studentens praktik. Gapen mellan dem är systemiska. De katalogiserade också **23 rationaliseringar i sex klasser** som studenter använde för att rättfärdiga AI-användning i akademiskt [[writing-education|skrivande]], från ”ingen mänsklig offer” till ”lärarens likgiltighet”. Rationaliseringarna var ad hoc och efterhandsbyggda: studenterna förklarade beteenden som redan hade hänt i stället för att resonera i förväg, vilket är skälet till att tydligare formuleringar och hårdare [[ai-detection|detektering]] inte stänger gapet på egen hand.
 
 En deltagare som ville lyda en strikt regel om ingen AI fortsatte att använda AI och sa att förbudet ”skapar konflikt för mig, eftersom jag bryter mot reglerna”. Förbudet skärpte den moraliska konflikten utan att förhindra användningen. En regel som producerar skuld utan regelefterlevnad urholkar den relation du behöver för att få deklarationer.
 
@@ -118,11 +119,11 @@ I rummet betyder det att fråga vad arbetet var tänkt att bedöma, be studenten
 
 **Studenten som anger AI som källa till allt.** Det är oftast en färdighetslucka i regelefterlevnadskostym. Krav på upphovsangivelse steg från 16 % till 43 % av kursplanerna medan hänvisningar till akademisk integritet föll från 63 % till 49 %, så fältet ber om citat snarare än bekännelse. Ange formatet en gång, på uppgiftsbladet i stället för i en fotnot i kursplanen. Säg hur tillräcklig upphovsangivelse ser ut i din disciplin och ge ett genomarbetat exempel. Där det verkliga problemet är att studenten ännu inte kan göra det underliggande arbetet utan modellen är svaret uppgiftens design.
 
-**Grupparbete.** Fem studenter kan bära fem tolkningar av en mening, och en inlämning betygssätts. För varje gruppleverans, bestäm och publicera om AI-användning är tillåten, vem som deklarerar den och vad som händer när en medlem går utanför regeln. Gör det innan projektet börjar, medan det är en planeringsfråga. Om du inte kan ange det individuella bidrag som en medlem är ansvarig för, betygssätt uppgiften som enbart grupparbete i stället för att döma om författarskap i efterhand.
+**[[group-work|Grupparbete]].** Fem studenter kan bära fem tolkningar av en mening, och en inlämning betygssätts. För varje gruppleverans, bestäm och publicera om AI-användning är tillåten, vem som deklarerar den och vad som händer när en medlem går utanför regeln. Gör det innan projektet börjar, medan det är en planeringsfråga. Om du inte kan ange det individuella bidrag som en medlem är ansvarig för, betygssätt uppgiften som enbart grupparbete i stället för att döma om författarskap i efterhand.
 
 **Deklaration du inte kan verifiera.** Vissa deklarationer blir ofullständiga och vissa utelämnanden omöjliga att motbevisa. [[bassett-ai-detectors-education-2026|Bassett m.fl. (2026)]] argumenterar för att AI-detektering inte bör användas i utbildning alls, på tre grunder som rör formuleringar. Detektorutdata är en probabilistisk skattning som inte kan verifieras oberoende, eftersom verkligt textursprung är okänt, så valideringen vilar på cirkelresonemang. Detektorpoäng når inte det beviskrav som en utredning om [[academic-integrity|akademisk integritet]] kräver. Och dikotomin människa mot AI är meningslös för arbete som skapats med snarare än av AI. Deras slutsats är att detektering ”inte skyddar akademisk integritet; den undergräver den”.
 
-De pekar på ett formuleringsproblem värt att kopiera in i din revideringsrunda. Regler som begränsar AI-användning ”i examination” anger inte när en examination börjar, så AI-assisterad research, planering eller redigering kan vara eller inte vara en överträdelse beroende på vem som läser. Namnge processbevis du kan observera i stället: en inlämnad prompt och interaktionslogg, en övning producerad i rummet, en muntlig förklaring. Om din institution ändå kör en detektor gäller deras varningar om datalagring, gallring och kommersiell användning av studentarbete, och den [[privacy|integritets]]invändning som två lärarstudenter reste är den invändning dina studenter kommer att resa.
+De pekar på ett formuleringsproblem värt att kopiera in i din revideringsrunda. Regler som begränsar AI-användning ”i examination” anger inte när en examination börjar, så [[ai-assisted-educational-research|AI-assisterad research]], planering eller redigering kan vara eller inte vara en överträdelse beroende på vem som läser. Namnge processbevis du kan observera i stället: en inlämnad prompt och interaktionslogg, en övning producerad i rummet, en muntlig förklaring. Om din institution ändå kör en detektor gäller deras varningar om datalagring, gallring och kommersiell användning av studentarbete, och den [[privacy|integritets]]invändning som två [[teacher-education|lärarstudenter]] reste är den invändning dina studenter kommer att resa.
 
 ## Vad lärare missförstår om detta
 

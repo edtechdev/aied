@@ -6,9 +6,9 @@ weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-updated: "2026-10-29T14:48:08-04:00"
+updated: "2026-11-15T16:05:39-05:00"
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ Intinya: teknik prompt adalah bagian terkecil dari semua ini. Dosen perlu menila
 
 ## Definisikan kompetensinya sebelum Anda memesan ruangan
 
-Sintesis [[ai-literacy|Literasi AI]] dalam basis pengetahuan mengidentifikasi empat dimensi, dan semuanya agenda yang berguna karena masing-masing menuntut jenis sesi yang berbeda:
+Sintesis [[ai-literacy|Literasi AI]] mengidentifikasi empat dimensi, dan semuanya agenda yang berguna karena masing-masing menuntut jenis sesi yang berbeda:
 
 - **Pemahaman fondasional** tentang kapabilitas dan keterbatasan AI.
 - **Kompetensi praktis** dalam memakai alat AI.
@@ -54,6 +54,8 @@ Tuliskan daftarnya sebelum Anda merencanakan sesinya. Empat dimensi ditambah lap
 ## Nilai kinerja alih-alih keyakinan
 
 Literasi AI yang [[self-report-measures|dilaporkan sendiri]] dapat menyimpang jauh dari kapabilitas yang terbukti, dan itulah peringatan paling praktis dalam literatur ini bagi siapa pun yang menjalankan pengembangan dosen. Survei keyakinan di akhir lokakarya mengukur bagaimana lokakarya itu terasa.
+
+Sebuah survei bahkan dapat diprediksi terlalu baik. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez dkk. (2026)]] mengklasifikasikan 314 dari 315 dosen ke dalam pita kompetensi dari skala 300 butir dengan α = 0,997 dan tanpa analisis faktor, dan afiliasi institusional adalah kontributor terbesar — tanda bahwa skornya melacak di mana orang bekerja, bukan apa yang dapat mereka lakukan.
 
 Penelitian alur kerja [[agentic-ai|multi-agen]] guru menambahkan alasan kedua untuk menguji alih-alih bertanya: cara berpikir sistem, keyakinan pedagogis dan [[self-efficacy|efikasi diri]] saling berinteraksi dalam integrasi AI, sehingga sesi yang sama mendarat secara berbeda pada dua dosen dengan latar bidang yang sama. Itu berargumen untuk program yang terdiferensiasi, dan menentang lokakarya alat yang seragam yang dijalankan sebagian besar institusi.
 
@@ -103,7 +105,7 @@ Para ahli konten akan menyelesaikan integrasinya sendiri. Pengetahuan konten tid
 
 Satu kerangka akan mencakup semua orang. Standar enam peran ada karena TPACK, SAMR dan standar pendidik utama mencakup guru K-12 atau dimensi pengajaran saja.
 
-Penolakan adalah kesenjangan pengetahuan yang harus diisi. Penghindaran risiko memprediksi niat secara negatif, dan kerja identitas menggambarkan dosen yang bernalar dari nilai pedagogis. Sebagian dari yang tampak seperti keengganan adalah posisi yang dapat dipertahankan tentang ketergantungan berlebih mahasiswa.
+Penolakan adalah kesenjangan pengetahuan yang harus diisi. Penghindaran risiko memprediksi niat secara negatif, dan [[learner-identity|kerja identitas]] menggambarkan dosen yang bernalar dari nilai pedagogis. Sebagian dari yang tampak seperti keengganan adalah posisi yang dapat dipertahankan tentang ketergantungan berlebih mahasiswa.
 
 ## Apa yang akan kembali kepada Anda
 

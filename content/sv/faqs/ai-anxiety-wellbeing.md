@@ -9,9 +9,9 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:03:31-05:00"
 translation_of: faqs/ai-anxiety-wellbeing
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -105,7 +105,7 @@ Målet är att få ner ångesten. Kim (2026) fann att ångest var positivt förk
 
 Självförtroende skyddar studenterna från karriärskadan. I Duan et al.s modell buffrade [[self-efficacy|tilltro till egen förmåga]] inte skadan. Karriäranpassningsförmågan bar den medierade vägen.
 
-Det här är ett [[student-support-and-success|studenthälsoproblem]]. De flesta åtgärder på den här sidan är undervisningsmässiga: övning med låg insats, vägledd utvärdering av AI-output, feedbackdriven revision, och ett förväntansdokument som studenterna kan läsa. Att känna till hänvisningsvägen är en post bland dem.
+Det här är ett [[student-support-and-success|studenthälsoproblem]]. De flesta åtgärder är undervisningsmässiga: övning med låg insats, vägledd utvärdering av AI-output, feedbackdriven revision, och ett förväntansdokument som studenterna kan läsa. Att känna till hänvisningsvägen är en post bland dem.
 
 En välbefinnandechattbot är det skalbara svaret på tunn vägledningskapacitet. Tillgängligheten är verklig och lockelsen begriplig. Träffsäkerhet på en enda avsatt testdel är inte evidens för att en student i kris har det bättre, och frågorna om felklassificering, lagring och eskalering har inga publicerade svar i det arbete som citeras här.
 
@@ -117,7 +117,7 @@ En välbefinnandechattbot är det skalbara svaret på tunn vägledningskapacitet
 
 **”Jag är ämneslärare, inte vägledare.”** Ingen ber dig behandla någon. Övning med låg insats, en kritikuppgift och en revisionsloop är vanliga undervisningsgrepp. Det enda fyndet som talar till din position är att relationen mellan lärare och student ligger tvåa i Bashir och Afzals variabelviktsanalys (10,0 %), över sömnkvalitet (9,3 %) och socialt stöd (7,6 %). Författarna kallar det en hypotes, och det är en rimlig satsning för en roll du redan har.
 
-**”Vi har ingen vägledningskapacitet, så ett verktyg är bättre än inget.”** Möjligen, och den här sidan kan inte avgöra det. Vad du kan kräva före införandet är skriftliga svar om validering av träffsäkerheten, hur stödnivån avgörs, vad som händer vid en skadlig felklassificering, hur avslöjanden lagras och hur eskalering till en människa fungerar. Inga svar, inget införande. En student som avslöjar något för ett verktyg som arkiverar det fel kanske inte avslöjar igen.
+**”Vi har ingen vägledningskapacitet, så ett verktyg är bättre än inget.”** Möjligen, och evidensen kan inte avgöra det. Vad du kan kräva före införandet är skriftliga svar om validering av träffsäkerheten, hur stödnivån avgörs, vad som händer vid en skadlig felklassificering, hur avslöjanden lagras och hur eskalering till en människa fungerar. Inga svar, inget införande. En student som avslöjar något för ett verktyg som arkiverar det fel kanske inte avslöjar igen.
 
 **”Om jag tar upp karriärutsikter i undervisningen går jag utanför mitt ämne.”** Alternativet är att studenterna sätter ihop sitt svar från arbetsmarknaden och från varandra. Duan et al. rekommenderar karriärplanering som en del av det akademiska programmet, och Dağ et al. rekommenderar den vid sidan av AI-kompetens. Du kan hysa samtalet utan att göra anspråk på expertis i det, och slussa de enskilda fallen till karriärservice.
 

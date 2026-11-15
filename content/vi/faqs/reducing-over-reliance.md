@@ -11,9 +11,9 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
-updated: "2026-10-29T16:56:07-04:00"
+updated: "2026-11-15T16:03:21-05:00"
 translation_of: faqs/reducing-over-reliance
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ Một sinh viên làm bài tập về nhà hoàn hảo rồi bỏ trắng nửa 
 
 **5.** Đặt câu hỏi phản tư đúng vào giai đoạn của nhiệm vụ mà nó còn có thể thay đổi được.
 
-**6.** Nhìn xem thiết kế của bạn bỏ lại ai phía sau, theo nền kiến thức chứ không theo mức trung bình.
+**6.** Nhìn xem thiết kế của bạn bỏ lại ai phía sau, theo [[prior-knowledge|nền kiến thức]] chứ không theo mức trung bình.
 
 ## Xác định xem bạn có vấn đề hay chỉ là dùng nhiều
 
@@ -59,7 +59,7 @@ Các công cụ đo hành vi thì mỏng hơn. [[pause-ai-cognitive-offloading-s
 
 ## Đặt nỗ lực của sinh viên lên trước công cụ
 
-Trình tự đã được kiểm nghiệm rõ nhất là “nghĩ trước, ChatGPT sau”. [[think-first-chatgpt-later-2026|Wong và Qiu (2026)]] phân ngẫu nhiên N = 196 sinh viên vào ba điều kiện: làm việc độc lập, dùng ChatGPT tự do, hoặc làm việc theo điều kiện có quy định: tự tạo ý tưởng của mình, cộng tác với ChatGPT để cải thiện và đánh giá các ý tưởng đó, rồi tự mình tinh chỉnh và nộp một lời giải. Nhóm dùng tự do tạo ra nhiều sản phẩm sáng tạo hơn trên nhiệm vụ có hỗ trợ và rơi trở lại mức chỉ có con người trên một nhiệm vụ khó hơn làm sau đó mà không có ChatGPT. Nhóm có quy định không có lợi thế tức thời và vượt cả hai nhóm còn lại về sáng tạo độc lập sau đó.
+Trình tự đã được kiểm nghiệm rõ nhất là “nghĩ trước, [[generative-ai|ChatGPT]] sau”. [[think-first-chatgpt-later-2026|Wong và Qiu (2026)]] phân ngẫu nhiên N = 196 sinh viên vào ba điều kiện: làm việc độc lập, dùng ChatGPT tự do, hoặc làm việc theo điều kiện có quy định: tự tạo ý tưởng của mình, cộng tác với ChatGPT để cải thiện và đánh giá các ý tưởng đó, rồi tự mình tinh chỉnh và nộp một lời giải. Nhóm dùng tự do tạo ra nhiều sản phẩm sáng tạo hơn trên nhiệm vụ có hỗ trợ và rơi trở lại mức chỉ có con người trên một nhiệm vụ khó hơn làm sau đó mà không có ChatGPT. Nhóm có quy định không có lợi thế tức thời và vượt cả hai nhóm còn lại về [[creativity|sáng tạo]] độc lập sau đó.
 
 Dữ liệu prompt giải thích khoảng cách này. Ở nhóm có quy định, 88.6% prompt mang tính cộng tác, và đó là kiểu prompt duy nhất tương quan có ý nghĩa với tính độc đáo độc lập về sau. Ở nhóm dùng tự do, 70.9% prompt không mang tính cộng tác và 59.6% chỉ đơn giản yêu cầu ChatGPT tạo ý tưởng thẳng ra. Cùng một công cụ, được hỏi theo hai cách khác nhau, tạo ra hai kiểu người học khác nhau.
 
@@ -75,7 +75,7 @@ Hai chi tiết trong lớp quyết định trình tự này có đứng vững h
 
 Trên thực tế, điều đó nghĩa là AI có rào chắn đặt ở giữa nhiệm vụ, nơi gợi ý, ví dụ mẫu và bài tập luyện làm việc, còn bước kiểm tra được bảo đảm đặt ở cuối. Nó cũng biến một chính sách sử dụng AI thành một quy tắc đặt vị trí theo từng kỹ năng, thứ dễ viết hơn và dễ bảo vệ hơn một danh sách những điều cấm.
 
-Một gợi ý là một câu hỏi về bước tiếp theo của sinh viên, một ví dụ mẫu của một bài tương tự, hoặc một chỉ dẫn tới đoạn văn liên quan. Một câu trả lời là một câu hoàn chỉnh mà sinh viên có thể dán vào. Hầu hết chatbot đa dụng mặc định tạo ra loại thứ hai, bằng văn xuôi trôi chảy đọc như đang giúp, đó là lý do việc cấu hình quan trọng hơn ý định của sinh viên.
+Một gợi ý là một câu hỏi về bước tiếp theo của sinh viên, một ví dụ mẫu của một bài tương tự, hoặc một chỉ dẫn tới đoạn văn liên quan. Một câu trả lời là một câu hoàn chỉnh mà sinh viên có thể dán vào. Hầu hết [[conversational-ai|chatbot]] đa dụng mặc định tạo ra loại thứ hai, bằng văn xuôi trôi chảy đọc như đang giúp, đó là lý do việc cấu hình quan trọng hơn ý định của sinh viên.
 
 ## Yêu cầu bước kiểm chứng, và làm cho nó hiển thị
 
@@ -97,7 +97,7 @@ Hãy chọn một thất bại vừa phải và kiểm tra được, như một 
 
 Sản phẩm có hỗ trợ là một đại diện kém cho năng lực, nên ít nhất một thời điểm chấm điểm phải diễn ra không có công cụ. Nhiệm vụ không hỗ trợ về sau trong nghiên cứu của [[think-first-chatgpt-later-2026|Wong và Qiu (2026)]] chính là phép đo đó. Nhóm chỉ có con người của họ cũng giảm sút trên bài tiếp theo khó hơn, điều này loại trừ phiên bản đơn giản của giải pháp: lấy công cụ đi mà không hỗ trợ người học không phải là một can thiệp.
 
-Việc luân phiên các chế độ có chỗ dựa. PAUSE dẫn kết quả buổi thứ tư của Kosmyna và cộng sự (2025), trong đó những người tham gia chỉ dùng não rồi sau đó dùng ChatGPT thể hiện tốt hơn những người dùng LLM liên tục. Trách nhiệm giải trình cũng phát huy qua việc giải thích: Makransky và cộng sự (2025) thấy một chatbot gia sư, vốn nhắc sinh viên nối các ý tưởng và giải thích lập luận của mình, tạo ra kết quả đánh giá tốt hơn việc giảng dạy truyền thống.
+Việc luân phiên các chế độ có chỗ dựa. PAUSE dẫn kết quả buổi thứ tư của Kosmyna và cộng sự (2025), trong đó những người tham gia chỉ dùng não rồi sau đó dùng ChatGPT thể hiện tốt hơn những người dùng [[llm|LLM]] liên tục. Trách nhiệm giải trình cũng phát huy qua việc giải thích: Makransky và cộng sự (2025) thấy một chatbot gia sư, vốn nhắc sinh viên nối các ý tưởng và giải thích lập luận của mình, tạo ra kết quả đánh giá tốt hơn việc giảng dạy truyền thống.
 
 Với một khóa học, hãy luân phiên: việc có hỗ trợ ở phần luyện tập, việc không hỗ trợ ở chỗ quan trọng. Đọc phần có hỗ trợ như một ghi nhận về hiệu suất trong điều kiện tốt, và phần không hỗ trợ như bằng chứng về việc học. So sánh hai phần cũng là cuộc trò chuyện hữu ích nhất bạn có thể có với một sinh viên không hiểu nổi điểm của mình.
 
@@ -127,7 +127,7 @@ Cách diễn đạt câu hỏi ít quan trọng hơn vị trí của nó. Trư�
 
 ## Lường trước rằng rủi ro sẽ tập trung
 
-[[lodge-loble-cognitive-offloading-2026|Lodge và Loble (2026)]] đặt rủi ro ở nền kiến thức và khả năng tự điều chỉnh, và gọi tên một **khoảng cách công bằng về siêu nhận thức**: dùng AI giỏi đòi hỏi những nguồn lực mà người mới chưa có, nên những sinh viên cần luyện tập nhất lại là những người dễ ủy thác chính việc học nhất. Họ báo cáo rằng 80% học sinh Úc đã dùng AI và hai phần ba giáo viên trung học cơ sở cũng vậy (OECD 2025).
+[[lodge-loble-cognitive-offloading-2026|Lodge và Loble (2026)]] đặt rủi ro ở nền kiến thức và khả năng tự điều chỉnh, và gọi tên một **khoảng cách [[equity-in-ai-education|công bằng]] về siêu nhận thức**: dùng AI giỏi đòi hỏi những nguồn lực mà người mới chưa có, nên những sinh viên cần luyện tập nhất lại là những người dễ ủy thác chính việc học nhất. Họ báo cáo rằng 80% học sinh Úc đã dùng AI và hai phần ba giáo viên trung học cơ sở cũng vậy (OECD 2025).
 
 Tuổi và thói quen tương quan với cùng mẫu hình đó. [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] thấy những người 17-25 tuổi có mức phụ thuộc AI và giảm tải cao hơn, đồng thời tư duy phản biện thấp hơn nhóm từ 46 tuổi trở lên, và rằng trình độ học vấn dự báo tư duy phản biện tốt hơn bất kể việc dùng AI (r = +0.34), với một tương tác có ý nghĩa cho thấy trình độ học vấn làm giảm nhẹ tác động tiêu cực. [[genai-over-reliance-learning-2026|Gao, Sun và Khan (2026)]] thấy tính đa nhiệm, tức xu hướng làm nhiều việc cùng lúc, điều tiết con đường này, với sinh viên có tính đa nhiệm cao gặp rủi ro lớn hơn.
 
@@ -139,27 +139,27 @@ Bối cảnh quan trọng ngang với con người, và khóa học của bạn 
 
 Không có gì trong tập bằng chứng này kiểm tra xem một can thiệp cụ thể chống phụ thuộc quá mức có đứng vững qua các bối cảnh hay học kỳ khác nhau hay không. Nghĩ trước dựa trên một thực nghiệm với N = 196. Kết quả về việc từ chối đưa câu trả lời đến từ tổng hợp của [[brcic-effortless-trap-productive-struggle-2026|Brcic và Frljic (2026)]] chứ không phải từ một thử nghiệm của chính họ. Lập luận về ma sát là một bài bình luận khái niệm không có dữ liệu mới. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] nêu rõ giới hạn của mô hình: chất lượng AI dừng, ngoại sinh; một mạng cố định; kiểm chứng được cách điệu hóa. Ước lượng các giá trị thật sẽ cần dấu vết dọc về tỉ lệ kiểm chứng theo từng nhiệm vụ, độ mạnh của bằng chứng xã hội, và cách niềm tin cập nhật sau khi dùng có kiểm chứng so với không kiểm chứng.
 
-Đo lường vẫn là mắt xích yếu nhất. Các thiết kế khảo sát chiếm ưu thế, và cả [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] lẫn [[genai-over-reliance-learning-2026|Gao, Sun và Khan (2026)]] đều kêu gọi theo dõi dọc và thực nghiệm tiếp theo. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] không có trắc lượng tâm lý và được xây cho người lớn. Việc khoảng cách công bằng có thể được thu hẹp bằng giảng dạy hay không mới chỉ được lý thuyết hóa chứ chưa được chứng minh.
+Đo lường vẫn là mắt xích yếu nhất. Các thiết kế khảo sát chiếm ưu thế, và cả [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] lẫn [[genai-over-reliance-learning-2026|Gao, Sun và Khan (2026)]] đều kêu gọi theo dõi dọc và thực nghiệm tiếp theo. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] không có [[educational-measurement|trắc lượng tâm lý]] và được xây cho người lớn. Việc khoảng cách công bằng có thể được thu hẹp bằng giảng dạy hay không mới chỉ được lý thuyết hóa chứ chưa được chứng minh.
 
 Điều đó để lại cho bạn một canh bạc hợp lý, với chi phí thấp. Hãy đổi một bài tập, giữ lại phép đo không hỗ trợ, và kiểm tra xem khoảng cách giữa việc có hỗ trợ và không hỗ trợ có thu hẹp lại hay không. Đừng xây lại cả một khóa học dựa trên sức nặng của những con số này.
 
 ## Giảng viên hiểu sai gì về điều này
 
-**Những sinh viên dùng nó nhiều nhất là những người đang gặp rắc rối.** Tần suất là thứ khảo sát ghi được và bảng điều khiển hiển thị, và nó không phải là cấu trúc cần đo. Một sinh viên kiểm tra mọi câu trả lời và trích dẫn tài liệu của bạn có thể dùng AI hằng ngày mà vẫn ổn. Một sinh viên nộp đầu ra đầu tiên mỗi tuần một lần mới là người có vấn đề.
+**Những sinh viên dùng nó nhiều nhất là những người đang gặp rắc rối.** Tần suất là thứ khảo sát ghi được và [[visualization|bảng điều khiển]] hiển thị, và nó không phải là cấu trúc cần đo. Một sinh viên kiểm tra mọi câu trả lời và trích dẫn tài liệu của bạn có thể dùng AI hằng ngày mà vẫn ổn. Một sinh viên nộp đầu ra đầu tiên mỗi tuần một lần mới là người có vấn đề.
 
 **Một lệnh cấm sẽ xóa bỏ rủi ro.** Những kết quả mạnh nhất ở đây đến từ vị trí đặt công cụ, và nhánh chỉ có con người trong thực nghiệm của Wong và Qiu cũng giảm sút trên bài tiếp theo khó hơn. Lấy công cụ đi mà không hỗ trợ người học thì độ khó vẫn y nguyên.
 
-**Kiểm tra rẻ hơn sẽ sửa được việc kiểm chứng.** Làm cho việc kiểm tra dễ hơn là đòn bẩy yếu nhất trong mô hình của Biswas, vì trở ngại là xã hội. Một công cụ phát hiện đạo văn tốt hơn không khiến sinh viên đọc nguồn.
+**Kiểm tra rẻ hơn sẽ sửa được việc kiểm chứng.** Làm cho việc kiểm tra dễ hơn là đòn bẩy yếu nhất trong mô hình của Biswas, vì trở ngại là xã hội. Một công cụ phát hiện [[academic-integrity|đạo văn]] tốt hơn không khiến sinh viên đọc nguồn.
 
 **Một bảng điều khiển sử dụng cho tôi biết ai đang giảm tải.** Các mục của PAUSE ghi lại AI xuất hiện trong quy trình khi nào và bao nhiêu lần, và chính các tác giả tự nêu vấn đề hiệu lực. Một người dựng giàn giáo cẩn thận bị tính điểm như người giảm tải, nên hành động dựa trên những con số đó sẽ trừng phạt đúng những sinh viên bạn muốn giữ lại.
 
 **Sự trôi chảy và mức hài lòng cho thấy thiết kế đang hiệu quả.** Đó chính là ảo giác mà [[lodge-loble-cognitive-offloading-2026|Lodge và Loble (2026)]] mô tả trong nghịch lý hiệu suất của họ: bài làm thấy trôi chảy và sinh viên thể hiện tốt ngay lúc đó nhưng ghi nhớ được ít hơn. Hiệu suất khi không hỗ trợ và [[transfer-of-learning|sự chuyển giao]] sau một thời gian mới là những phép đo trả lời câu hỏi này.
 
-**Chỉ cần dạy năng lực AI cho sinh viên là vấn đề biến mất.** [[lodge-loble-cognitive-offloading-2026|Lodge và Loble (2026)]] cảnh báo rằng đầu tư quá nhiều vào năng lực AI hướng tới sinh viên có thể là phân bổ sai, xét theo những gì người mới còn thiếu.
+**Chỉ cần dạy [[ai-literacy|năng lực AI]] cho sinh viên là vấn đề biến mất.** [[lodge-loble-cognitive-offloading-2026|Lodge và Loble (2026)]] cảnh báo rằng đầu tư quá nhiều vào năng lực AI hướng tới sinh viên có thể là phân bổ sai, xét theo những gì người mới còn thiếu.
 
 ## Những gì sẽ quay lại với bạn
 
-**“Đây chỉ là sư phạm tốt với một cái tên mới.”** Một phần đúng. Giàn giáo, phản hồi định hình và vật lộn có hiệu quả là những ý tưởng cũ. Cái mới hơn là thứ tự: kiểm chứng hiển thị thắng kiểm chứng rẻ hơn, và hai thời điểm đáng bảo vệ là lần thử khó đầu tiên và bước kiểm tra cuối cùng không có hỗ trợ. Hãy làm những việc quen thuộc theo thứ tự mới.
+**“Đây chỉ là [[pedagogy|sư phạm]] tốt với một cái tên mới.”** Một phần đúng. [[scaffolding|Giàn giáo]], phản hồi định hình và vật lộn có hiệu quả là những ý tưởng cũ. Cái mới hơn là thứ tự: kiểm chứng hiển thị thắng kiểm chứng rẻ hơn, và hai thời điểm đáng bảo vệ là lần thử khó đầu tiên và bước kiểm tra cuối cùng không có hỗ trợ. Hãy làm những việc quen thuộc theo thứ tự mới.
 
 **“Tôi không thể giám sát nổi.”** Bạn không thể, và bằng chứng nói rằng đừng thử. Vị trí đặt công cụ tạo ra kết quả mạnh nhất. Hãy thiết kế nhiệm vụ sao cho việc dùng công cụ sai lúc sẽ lộ ra ngay trong bài làm, như một câu trả lời sinh viên không giải thích được hoặc một bước kiểm chứng bị thiếu.
 

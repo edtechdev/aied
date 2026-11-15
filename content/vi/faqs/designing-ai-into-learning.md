@@ -6,9 +6,9 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-11-01T11:35:17-05:00"
+updated: "2026-11-15T15:58:53-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
 
-Đề cương học phần có một dòng ghi “hoạt động AI” mà không ai nói được nó thay thế hoạt động nào. Hoặc một giảng viên đã yêu cầu thêm chatbot vào một khóa học vốn đang chạy tốt, và việc của bạn là đặt nó vào mà không làm hỏng phần đã khiến khóa học ấy chạy tốt.
+Đề cương học phần có một dòng ghi “hoạt động AI” mà không ai nói được nó thay thế hoạt động nào. Hoặc một giảng viên đã yêu cầu thêm [[conversational-ai|chatbot]] vào một khóa học vốn đang chạy tốt, và việc của bạn là đặt nó vào mà không làm hỏng phần đã khiến khóa học ấy chạy tốt.
 
 Hãy bắt đầu từ mục tiêu học tập và từ hoạt động tạo ra mục tiêu đó. Cùng một mô hình có thể là giàn giáo, một người bạn đồng hành theo [[socratic-method|phương pháp Socratic]], một người đọc bản nháp, một [[simulation|mô phỏng]], hay một cỗ máy trả lời, và bạn nhận được cái nào là do thiết kế chứ không do mô hình. Hãy gọi tên chế độ bạn đang xây, đặt nỗ lực của người học trước khi bất kỳ trợ giúp nào xuất hiện, và giữ ít nhất một lối đi qua khóa học mà chạy được mà không cần công cụ.
 
@@ -42,7 +42,7 @@ Hãy bắt đầu từ mục tiêu học tập và từ hoạt động tạo ra 
 
 ## Quyết định người học làm gì khi không có công cụ
 
-Khái niệm [[pedagogy|Sư phạm và các chiến lược dạy học]] trong cơ sở tri thức cung cấp phép thử: cấu hình này có giữ được hoạt động tạo ra việc học như dự định không? Hãy trả lời trên giấy, trước khi bất kỳ ai chọn một tính năng.
+Khái niệm [[pedagogy|Sư phạm và các chiến lược dạy học]] cung cấp phép thử: cấu hình này có giữ được hoạt động tạo ra việc học như dự định không? Hãy trả lời trên giấy, trước khi bất kỳ ai chọn một tính năng.
 
 [[finkelstein-principled-ai-education-2025|Khung giáo dục AI có nguyên tắc]] nêu quy tắc chung: công nghệ nên tăng cường thay vì thay thế những năng lực con người mà giáo dục định phát triển. Viết thành phép thử cho một học phần, điều đó có nghĩa là gọi tên năng lực, gọi tên hoạt động xây năng lực ấy, và hỏi xem AI nằm bên trong hoạt động đó hay bên cạnh nó.
 
@@ -72,7 +72,7 @@ Hai bài học rút ra cho thiết kế AI. Đặt công cụ vào chỗ chuỗi
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] coi thời gian là một giàn giáo được thiết kế chứ không phải một đặc điểm của người học: một khóa học tự điều chỉnh nhịp có định mức khoảng 100 phút mỗi tuần với mục tiêu gần 20 phút mỗi ngày, nhắc nhở biết đến thời gian, bảng điều khiển tiến độ và một bài kiểm tra ngắn 3 đến 12 câu ở cuối mỗi tiểu mục. Đường cơ sở mà thiết kế này trả lời thật khắc nghiệt: gần 25 phần trăm trong hơn 600 người học chỉ bắt đầu vào tuần cuối, và 95 phần trăm nhóm đó trượt.
 
-Hãy đọc đây như một câu hỏi thiết kế hơn là một hiệu ứng đã được chứng minh. Bài báo so sánh một khóa học sau này với một khóa trước đó thay vì tiến hành thử nghiệm có đối chứng, nên không thể tách cải thiện khỏi sự thay đổi về nhóm học viên và môn học, và những lời nhắc đủ mạnh để dịch chuyển thời điểm học cũng là một câu hỏi [[privacy]] mà bạn phải trả lời trong đề cương.
+Hãy đọc đây như một câu hỏi thiết kế hơn là một hiệu ứng đã được chứng minh. Bài báo so sánh một khóa học sau này với một khóa trước đó thay vì tiến hành một [[rct|thử nghiệm có đối chứng]], nên không thể tách cải thiện khỏi sự thay đổi về nhóm học viên và môn học, và những lời nhắc đủ mạnh để dịch chuyển thời điểm học cũng là một câu hỏi [[privacy|quyền riêng tư]] mà bạn phải trả lời trong đề cương.
 
 ## Quyết định giữ lại gì, và trả lại khi nào
 
@@ -100,7 +100,7 @@ Hiệu suất là mục tiêu của việc thiết kế lại. Soạn chuẩn đ
 
 **“Chúng tôi không có thời gian sắp xếp lại cả một khóa học.”** Vậy thì sắp xếp lại một học phần và một bài đánh giá. Bản lề giữ lại rồi khuếch đại là một điểm kiểm tra, và chuỗi nghĩ trước là ba chỉ dẫn trên một tờ phát tay.
 
-**“Tính năng AI của chúng tôi đã có rào chắn.”** Rào chắn hạn chế điều mô hình nói. Chúng không quyết định người học có thử trước hay không, hỗ trợ có giảm dần hay không, hay có lối đi không AI hay không. Đó là những quyết định thiết kế trong khóa học của bạn, không phải cài đặt trong sản phẩm.
+**“Tính năng AI của chúng tôi đã có [[guardrails|rào chắn]].”** Rào chắn hạn chế điều mô hình nói. Chúng không quyết định người học có thử trước hay không, hỗ trợ có giảm dần hay không, hay có lối đi không AI hay không. Đó là những quyết định thiết kế trong khóa học của bạn, không phải cài đặt trong sản phẩm.
 
 ## Việc cần làm trong tuần này
 

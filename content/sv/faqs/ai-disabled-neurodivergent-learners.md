@@ -9,9 +9,9 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:03:31-05:00"
 translation_of: faqs/ai-disabled-neurodivergent-learners
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 Anpassningsbrevet namner en student, en kurs och ett verktyg du aldrig har hört talas om. Eller så har en student frågat, med all rätt, om hen får fortsätta använda sitt tal-till-text-program på en tentamen med tidsgräns, och din kursregel för AI säger ingen AI av något slag. Eller så vill tillgänglighetskontoret ha svar senast fredag på om de ska licensiera ett läsverktyg, och leverantörens underlag är ett vittnesmål från ett annat campus.
 
-Svaret som klarar alla tre: utgå från hindret som uppgiften skapar, använd de verktyg som faktiskt har mätts, och undervisa om det du inför. Två regler spelar större roll än något produktval. Namnge transkribering och OCR i din AI-policy som anpassningar i egen rätt, och ge uppgiften struktur i stället för att be studenterna sluta sig till den. Var klarögd om underlaget: den starkaste siffran på den här sidan kommer från specialpedagogiska miljöer inom PK-12, alltså förskoleklass till årskurs 12, med mestadels AI före den generativa vågen, och litteraturen om högre utbildning är en karta över vad som har prövats.
+Svaret som klarar alla tre: utgå från hindret som uppgiften skapar, använd de verktyg som faktiskt har mätts, och undervisa om det du inför. Två regler spelar större roll än något produktval. Namnge transkribering och OCR i din AI-policy som anpassningar i egen rätt, och ge uppgiften struktur i stället för att be studenterna sluta sig till den. Var klarögd om underlaget: den starkaste siffran kommer från specialpedagogiska miljöer inom PK-12, alltså förskoleklass till årskurs 12, med mestadels AI före den generativa vågen, och litteraturen om högre utbildning är en karta över vad som har prövats.
 
 ## Kortversionen
 
@@ -51,11 +51,11 @@ Samma försiktighet gäller gruppstatistik. [[differential-effects-across-learne
 
 ## Använd det som har mätts, och läs etiketten
 
-Det starkaste [[quantitative-research|kvantitativa]] resultatet på den här sidan är också det mest allmänna, och det kommer med gränser du bör bära med dig in i köpbeslutet.
+Det starkaste [[quantitative-research|kvantitativa]] resultatet är också det mest allmänna, och det kommer med gränser du bör bära med dig in i köpbeslutet.
 
 [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang, Carter, Liu och Peng (2024)]] sammanställde 29 (kvasi)experimentella studier av AI-baserade insatser för [[inclusive-learning|studenter med funktionsnedsättning]]: 239 effektstorlekar från 41 oberoende urval, en statistiskt signifikant medelstor sammantagen effekt på läranderesultat på Hedges g = 0,588 (95 % CI [0,349; 0,826], p < 0,01) och hög heterogenitet mellan studierna. Akademisk prestation var den största undergruppen av utfall (k = 80, g = 0,929) och socioemotionella färdigheter den minsta (k = 144, g = 0,382). Datorprogramvara, det vill säga [[speech-and-voice-technologies|taligenkänning]], expertsystem och [[intelligent-tutoring|intelligenta handledarsystem]], presterade starkt (k = 74, g = 0,959) och [[educational-robotics|robotar]] måttligt (k = 144, g = 0,509), medan intelligent VR (g = 0,528) inte var signifikant. Publikationsbias förelåg (Eggers β = 2,837, p < 0,001); trim-and-fill sänkte skattningen till g = 0,269, fortfarande signifikant.
 
-Varje studie gällde PK-12. 96,6 % använde stegbaserad undervisning i specialpedagogiska eller kliniska miljöer, och de flesta använde äldre regelbaserad AI snarare än [[generative-ai|generativ AI]]. Det stöder ett försiktigt införande av strukturerad undervisningsprogramvara. Det överförs inte till en allmän chatbot, och att behandla det som om det gjorde det är det dyraste misstaget som står till buds på den här sidan.
+Varje studie gällde PK-12. 96,6 % använde stegbaserad undervisning i specialpedagogiska eller kliniska miljöer, och de flesta använde äldre regelbaserad AI snarare än [[generative-ai|generativ AI]]. Det stöder ett försiktigt införande av strukturerad undervisningsprogramvara. Det överförs inte till en allmän chatbot, och att behandla det som om det gjorde det är det dyraste misstaget som står till buds.
 
 Tre mindre resultat visar vad ett enskilt verktyg kan göra när hindret är snävt. Var och en prövades på en handfull studenter, så behandla dem som billiga och reversibla experiment snarare än som infrastruktur.
 
@@ -84,7 +84,7 @@ Det dokumenterade misslyckandet är en anpassning som ges utan undervisning. I *
 
 Två saker gör det misslyckandet sannolikt, och båda är institutionella. [[shin-ai-policies-sld-2026|Shin m.fl. (2026)]] använde LLM-baserad ämnesmodellering och två omgångar Delphi-enkäter med 17 experter över 12 amerikanska policydokument om AI i [[educational-policy-ai|utbildning]] från 2015 till 2025. Lärarutbildning är ett av deras fem validerade teman, med 4 av 36 poster, och experterna rankade studentinflytande och [[ai-literacy|AI-kompetens]] som mest väsentliga: dessa studenter ska lära sig att använda AI ansvarsfullt och självständigt, med skydd mot överberoende undervisat som en del av samma färdighet. [[ludia-udl-ai-thought-partner-2026|LUDIA]]:s författare kallar hindret ”glappet mellan att veta och att göra”: vägledning finns i överflöd, är skriven i allmänna ordalag, och ett hinder är alltid bundet till just det här rummet, den här veckan.
 
-Det sidan inte kan ge dig är ett utbildningsprotokoll. Det finns inga formella evidensbaserade riktlinjer för hur lärare eller familjer ska införa AI för dessa studenter, så mängden undervisning, dess ordning och vem som ger den är bedömningsfrågor. Rättspraxis sätter golvet snarare än standarden: studenten måste till slut kunna göra saken, och någon måste stå till svars för att hen kommer dit.
+Det evidensen inte kan ge dig är ett utbildningsprotokoll. Det finns inga formella evidensbaserade riktlinjer för hur lärare eller familjer ska införa AI för dessa studenter, så mängden undervisning, dess ordning och vem som ger den är bedömningsfrågor. Rättspraxis sätter golvet snarare än standarden: studenten måste till slut kunna göra saken, och någon måste stå till svars för att hen kommer dit.
 
 ## Skriv in transkribering och OCR i AI-regeln vid namn
 
@@ -92,7 +92,7 @@ Det sidan inte kan ge dig är ett utbildningsprotokoll. Det finns inga formella 
 
 En regel skriven som ”ingen AI” kan därför dra tillbaka studentens främsta sätt att producera läsbart arbete. Ingen har ännu mätt hur stor den undanträngningen är, vilket är ett skäl att vara tydlig i stället för att vänta på siffran. Namnge transkribering och OCR som anpassningar i policyn, vid sidan av förbuden mot textproduktion, så att de två frågorna avgörs var för sig. Den exponering detta skapar för institutionen hör hemma hos [[legal-issues-and-risks|juridiska frågor och risker]].
 
-Det är en enradig fix i de flesta dokument och den rad på sidan som har störst konsekvenser.
+Det är en enradig fix i de flesta dokument och den rad i policyn som har störst konsekvenser.
 
 ## Ge struktur där uppgiften förutsätter den
 
@@ -106,7 +106,7 @@ Sammanlagda effekter ger dig en riktning. De säger inte om verktyget fungerar f
 
 Tre varningar bör forma det måttet. Den första är att ordningen mellan undergrupper är antydd snarare än fastställd: ingen moderator av något slag nådde signifikans i metaanalysen från 2024, så rangordningar som [[learning-by-teaching|undervisningsbara agenter]] (g = 1,100) före socioemotionella coacher (g = 0,336), eller dyadisk interaktion före triadisk (g = 0,973 mot g = 0,385), bör inte behandlas som avgjorda. Effektens riktning stöds; storleken, designoptimumet och hållbarheten i varje vinst gör det inte.
 
-Den andra är att den här korpusen beskriver införanden och uppfattningar mer än mätt lärande. Uppmärksamhet (n = 4) och social kommunikation (n = 5) är de minst studerade hindren, och bristen på (kvasi)experimentella och longitudinella designer är skälet till att arbetet om högre utbildning är en scoping-översikt i stället för en metaanalys. Täckningen lutar mot grundnivå och globala norr, sökningen gällde engelskspråkigt peer-reviewat arbete, och studenter på avancerad nivå är underrepresenterade. Engagemang och nöjdhet är svaga indikatorer.
+Den andra är att litteraturen beskriver införanden och uppfattningar mer än mätt lärande. Uppmärksamhet (n = 4) och social kommunikation (n = 5) är de minst studerade hindren, och bristen på (kvasi)experimentella och longitudinella designer är skälet till att arbetet om högre utbildning är en scoping-översikt i stället för en metaanalys. Täckningen lutar mot grundnivå och globala norr, sökningen gällde engelskspråkigt peer-reviewat arbete, och studenter på avancerad nivå är underrepresenterade. Engagemang och nöjdhet är svaga indikatorer.
 
 Den tredje är att ett verktyg som åtgärdar ett hinder kan lämna ett annat. Kontrollera verktyget mot den specifika svårighet studenten beskriver, vare sig det är läsning och skrivning, studiestrategi, uppmärksamhet eller social kommunikation, och utvärdera mot den svårigheten i stället för mot hur studenten upplevde produkten. Fråga studenten vad som ska räknas. Zastudil m.fl.:s deltagare och Rezazadegan m.fl.:s forumskribenter beskriver båda sina behov mer exakt än de produkter som byggts för dem.
 
@@ -128,13 +128,13 @@ En diagnos säger mig vilket verktyg jag ska köpa. Hindren går tvärs över di
 
 En anpassning är en personlig ordning, så lösningen tillhör studenten. Vissa är det, och de som är värda att generalisera är de du skulle ha designat in ändå. Segmentering hjälpte varje student i sin studie. Designändringar tar bort steget där studenten måste avslöja sig, och därmed stigmat.
 
-Engagemang och nöjdhet visar att verktyget fungerade. De visar att studenten gillade det. Den här korpusen är mest införanden och uppfattningar, och bara 6 av 40 studier om högre utbildning tjänade mer än ett hinder, så en nöjd student är ännu inget belägg för att ett hinder försvann.
+Engagemang och nöjdhet visar att verktyget fungerade. De visar att studenten gillade det. Litteraturen är mest införanden och uppfattningar, och bara 6 av 40 studier om högre utbildning tjänade mer än ett hinder, så en nöjd student är ännu inget belägg för att ett hinder försvann.
 
 Verktyget bär stödet, och undervisning är ett tillägg. Rättspraxis behandlar ett verktyg utan undervisning som misslyckandet, och policyexperterna rankade studentinflytande och AI-kompetens som sitt mest väsentliga tema. Budgetera undervisningstiden tillsammans med licensen.
 
 ## Vad som kommer att slå tillbaka mot dig
 
-**”Vi kan inte kräva ett verktyg för alla.”** Där verktyget är en designfunktion är kravet själva poängen. Videosegmentering med fasta pauser förbättrade alla studenter och förde deltagarnas med ADHD fel och tvekan ned till samma nivå som de andras, vilket är det universella designutfallet som tar bort behovet av att avslöja sig. Tillgängliga standardval bär samma logik: uppläsning, OCR och textanpassning återkommer i Shin m.fl.:s validerade policyposter. Deras korpus visar också hur långt policyn har att vandra, eftersom bara 2 av de 12 dokumenten särskilt behandlar inlärningssvårigheter, medan 18 teman som finns i allmän AI-policy eller policy för andra funktionsnedsättningar, bland dem [[privacy|dataskydd]], hantering av juridisk risk och etiska riktlinjer, saknas i policy för specifika inlärningssvårigheter.
+**”Vi kan inte kräva ett verktyg för alla.”** Där verktyget är en designfunktion är kravet själva poängen. Videosegmentering med fasta pauser förbättrade alla studenter och förde deltagarnas med ADHD fel och tvekan ned till samma nivå som de andras, vilket är det universella designutfallet som tar bort behovet av att avslöja sig. Tillgängliga standardval bär samma logik: uppläsning, OCR och textanpassning återkommer i Shin m.fl.:s validerade policyposter. Deras dokumentuppsättning visar också hur långt policyn har att vandra, eftersom bara 2 av de 12 dokumenten särskilt behandlar inlärningssvårigheter, medan 18 teman som finns i allmän AI-policy eller policy för andra funktionsnedsättningar, bland dem [[privacy|dataskydd]], hantering av juridisk risk och etiska riktlinjer, saknas i policy för specifika inlärningssvårigheter.
 
 **”Textning och översättning är inte [[student-support-and-success|akademiskt stöd]].”** Textning är en början, inte hela den språkliga tillgången. Chen m.fl.:s visuella frågor och känslofrågor finns därför att enbart en transkription lämnar en döv student att rekonstruera sammanhang som videon aldrig uttalade. Policyexperternas rangordning motsäger också invändningen. Deras 36 validerade poster fördelar sig på fem teman, med inkluderande och [[personalized-learning|personligt anpassat lärande]] störst på 11 (30,56 %) och [[ethics|etik]], rättvisa och inkludering på 9 (25,00 %), och lärarutbildning på 4 (11,11 %), men experterna rankade studentinflytande och AI-kompetens som mest väsentliga av de fem, på 6 poster (16,67 %), i nivå med bedömning och forskning.
 

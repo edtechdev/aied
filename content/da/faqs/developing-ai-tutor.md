@@ -12,9 +12,9 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T12:23:33-04:00"
+updated: "2026-11-15T16:01:30-05:00"
 translation_of: faqs/developing-ai-tutor
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -54,7 +54,7 @@ Tre lister, skrevet før nogen vælger en model:
 
 Litteraturen om [[intelligent-tutoring|intelligent vejledning]] understreger, at effektiviteten afhænger af [[pedagogy|pædagogisk]] design og ikke af modellens formåen alene, og fejlen er let at bygge ved et tilfælde. En vejleder optimeret til »færdiggør opgaven« vil underminere en vejleder optimeret til »lær at løse opgaven«, mens den består hver eneste funktionelle test, du skriver, fordi begge producerer korrekte slutresultater. Forskellen ligger i, hvad den studerende gjorde mellem spørgsmålet og svaret.
 
-Den anden liste er, hvor udviklingsteams bliver konkrete. Tag en mestringsetiket som »mestring af afledte funktioner« og nægt at lade den betyde at producere den korrekte afledte. Bryd den op i at genkende, hvornår en afledt er relevant, at fortolke den som en øjeblikkelig ændringsrate, at vælge reglen, at udføre proceduren, at forklare hvorfor valget var rigtigt, at kontrollere rimeligheden og at anvende den på en ukendt opgave. Hver af dem er en separat ting at logge, og hver af dem implicerer en anden respons, når den mangler. Denne opdeling er også forsvaret mod [[correct-answer-trap-misconceptions|fælden med det rigtige svar]], hvor en lærende når det rigtige svar gennem fejlbehæftet ræsonnement, og din analyse registrerer en succes. [[correct-answer-trap-ai-tutor|At fange fælden med det rigtige svar]] og [[zhang-tutormoments-2026|Når hjælp ikke hjælper]] beskriver begge versioner af den fejl i produktion.
+Den anden liste er, hvor udviklingsteams bliver konkrete. Tag en mestringsetiket som »mestring af afledte funktioner« og nægt at lade den betyde at producere den korrekte afledte. Bryd den op i at genkende, hvornår en afledt er relevant, at fortolke den som en øjeblikkelig ændringsrate, at vælge reglen, at udføre proceduren, at forklare hvorfor valget var rigtigt, at kontrollere rimeligheden og at anvende den på en ukendt opgave. Hver af dem er en separat ting at logge, og hver af dem implicerer en anden respons, når den mangler. Denne opdeling er også forsvaret mod [[correct-answer-trap-misconceptions|fælden med det rigtige svar]], hvor en lærende når det rigtige svar gennem fejlbehæftet ræsonnement, og din [[learning-analytics|analyse]] registrerer en succes. [[correct-answer-trap-ai-tutor|At fange fælden med det rigtige svar]] og [[zhang-tutormoments-2026|Når hjælp ikke hjælper]] beskriver begge versioner af den fejl i produktion.
 
 ## Byg den lærendes model før samtalen
 
@@ -100,7 +100,7 @@ I domæner med formelt kontrollerbare svar tilføjer du deterministiske værktø
 
 ## Kræv, at den lærende handler på feedbacken
 
-Feedback, der siger »Korrekt«, »Forkert« eller »Godt gået«, er en scoringshændelse i undervisningens klæder. Vidensbasen behandler [[feedback]] som en loop mellem tilbud og optag: feedback understøtter læring, når de studerende forstår den og handler på den, og den anden halvdel er den halvdel, systemerne plejer at springe over. Byg vejlederen til at navngive det ræsonnementstrin, der er involveret, sige hvad der skal overvejes igen, give én konkret næste handling og bede den lærende forudsige eller forklare, før feedbacken afsløres.
+Feedback, der siger »Korrekt«, »Forkert« eller »Godt gået«, er en scoringshændelse i undervisningens klæder. Forskningen behandler [[feedback]] som en loop mellem tilbud og optag: feedback understøtter læring, når de studerende forstår den og handler på den, og den anden halvdel er den halvdel, systemerne plejer at springe over. Byg vejlederen til at navngive det ræsonnementstrin, der er involveret, sige hvad der skal overvejes igen, give én konkret næste handling og bede den lærende forudsige eller forklare, før feedbacken afsløres.
 
 Den sekvens, der bærer dette, er lærende først, AI derefter, lærende igen. Den studerende genererer, vælger, begrunder, vurderer eller reflekterer; vejlederen svarer; den studerende gør noget med svaret. Design turstrukturen, så det ikke er valgfrit. Et system, hvor modellen kan producere tre afsnit som svar på ét spørgsmål, lærer den studerende at spørge og læse.
 
@@ -114,7 +114,7 @@ Test for svarlækage, forstærkning af misforståelser, overdreven enighed, uhen
 
 ## Læg dataarkitekturen i samme designdokument
 
-Indsaml kun lærendedata, der er pædagogisk nødvendige, og vær i stand til at sige, hvorfor hvert felt findes. Hvor du holder vedvarende hukommelse eller en [[student-modeling|lærendemodel]], skal du gøre dens formål synligt for den lærende, give dem passende kontrol over den, beskytte følsomme oplysninger, definere opbevaring og sende konsekvensrige beslutninger til en underviser eller et andet [[human-in-the-loop-ai|menneskeligt]] kontrolpunkt. En lærendemodel, der stille akkumulerer et selvtillidsskøn, som en studerende aldrig ser, er et databeskyttelsesproblem og et pædagogisk problem.
+Indsaml kun lærendedata, der er pædagogisk nødvendige, og vær i stand til at sige, hvorfor hvert felt findes. Hvor du holder vedvarende hukommelse eller en [[student-modeling|lærendemodel]], skal du gøre dens formål synligt for den lærende, give dem passende kontrol over den, beskytte følsomme oplysninger, definere opbevaring og sende konsekvensrige beslutninger til en underviser eller et andet [[human-in-the-loop-ai|menneskeligt]] kontrolpunkt. En lærendemodel, der stille akkumulerer et selvtillidsskøn, som en studerende aldrig ser, er et [[privacy|databeskyttelsesproblem]] og et pædagogisk problem.
 
 Revider adfærd på tværs af sproglige baggrunde, færdighedsniveauer, kulturelle kontekster, [[accessibility|tilgængeligheds]]behov og niveauer af [[prior-knowledge|forhåndsviden]] og AI-erfaring. Forskellig præstation på samme mål er en fejl med en studerende hængt på, og den vil ikke dukke op i dit samlede nøjagtighedstal.
 
@@ -152,7 +152,7 @@ En vejleder til første semester på universitetets calculuskursus bør hæve, h
 
 ## Case to: en skrivecoach, hvor fasen afgør tilladelsen
 
-Skrivning har ikke ét korrekt svar, så verifikation er vurdering, og designarbejdet flytter til fasestyring. Vidensbasen rammesætter skrivning som en kognitiv, social og retorisk proces, hvilket betyder, at et AI-skrivesystem kan understøtte læring og også kan eliminere præcis den tænkning, opgaven fandtes for at udvikle ([[writing-education]], [[coach-not-crutch-ai-writing]]).
+Skrivning har ikke ét korrekt svar, så verifikation er vurdering, og designarbejdet flytter til fasestyring. Forskningen rammesætter skrivning som en kognitiv, social og retorisk proces, hvilket betyder, at et AI-skrivesystem kan understøtte læring og også kan eliminere præcis den tænkning, opgaven fandtes for at udvikle ([[writing-education]], [[coach-not-crutch-ai-writing]]).
 
 **En kapacitetsmodel.** Følg argumentation (tesens specificitet, påstandes sammenhæng med evidens, modargument), organisering (afsnittets fokus, logisk fremdrift, overgange), evidens (kildens relevans, integration, fortolkning), revision (global og sætningsniveau, vurdering af feedback) og stil (klarhed, grammatik, stemme). Hver bliver et separat signal i lærendemodellen, og det er det, der overhovedet gør målrettet feedback mulig.
 
@@ -209,11 +209,11 @@ Begge systemer bruger det samme sæt [[ai-technologies|AI-teknologier]] og legem
 
 **»De studerende elsker det, og fuldførelsen er oppe.«** Begge fakta er forenelige med et system, der svarer godt på spørgsmål og ikke underviser i noget. Studiet med 6.000 studerende fandt langsommere fremgang og færre forsøgte spørgsmål sammen med bedre nøjagtighed, så et fald i fuldførelse er heller ikke automatisk dårligt nyt. Rapportér uassisteret præstation ved siden af engagementstallene, og lad de to være uenige offentligt.
 
-**»Vi kan ikke køre et randomiseret forsøg.«** Du kan køre en sammenligning inden for den enkelte studerende uden: samme mål, assisteret i løbet af forløbet, testet uassisteret to uger senere, med den assisterede score rapporteret ved siden af. Det design besvarer produktspørgsmålet og kræver ingen kontrolarm. Det, det ikke kan fortælle dig, er kontrafaktummet for studerende, der aldrig brugte vejlederen.
+**»Vi kan ikke køre et [[rct|randomiseret forsøg]].«** Du kan køre en sammenligning inden for den enkelte studerende uden: samme mål, assisteret i løbet af forløbet, testet uassisteret to uger senere, med den assisterede score rapporteret ved siden af. Det design besvarer produktspørgsmålet og kræver ingen kontrolarm. Det, det ikke kan fortælle dig, er kontrafaktummet for studerende, der aldrig brugte vejlederen.
 
-**»Modellen er en leverandørs API, så hjælpeadfærden er ude af vores hænder.«** Trinnene bor i dit orkestreringslag, og resultatet i guardrail-eksperimentet kom fra at ændre, hvad vejlederen måtte sige, ikke fra at skifte model. Forvent, at leverandørens eftertræning trækker mod at svare med det samme, fordi hjælpsomhed er det, den er tunet til, og læg tilbageholdenheden i din egen kode.
+**»Modellen er en leverandørs API, så hjælpeadfærden er ude af vores hænder.«** Trinnene bor i dit orkestreringslag, og resultatet i guardrail-eksperimentet kom fra at ændre, hvad vejlederen måtte sige, ikke fra at skifte model. Forvent, at leverandørens [[llm-training-and-fine-tuning|eftertræning]] trækker mod at svare med det samme, fordi hjælpsomhed er det, den er tunet til, og læg tilbageholdenheden i din egen kode.
 
-**»Underviserne vil ikke bruge endnu et dashboard.«** De vil ikke bruge et, der udsender konstant diagnostik, hvilket K-12-gennemgangen fandt trak opmærksomheden væk fra deres egen observation. Giv dem et lille antal fortolkelige signaler, en måde at acceptere eller afvise hver anbefaling og tid i ugen til at se på dem.
+**»Underviserne vil ikke bruge endnu et dashboard.«** De vil ikke bruge et, der udsender konstant diagnostik, hvilket [[k-12|K-12]]-gennemgangen fandt trak opmærksomheden væk fra deres egen observation. Giv dem et lille antal fortolkelige signaler, en måde at acceptere eller afvise hver anbefaling og tid i ugen til at se på dem.
 
 **»Vi har ikke fageksperter ansat.«** Så vil vejlederen undervise i generisk metode, og kursets notation driver inden for et semester. En fagekspert i to dage i designfasen, som skriver listen over misforståelser og listen over godkendte metoder, er den billigste post i projektet og den, teams skærer først.
 

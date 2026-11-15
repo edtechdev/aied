@@ -13,9 +13,9 @@ level: [higher ed]
 audience: [researchers, instructors]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-11-08T05:10:57-05:00"
+updated: "2026-11-15T16:03:31-05:00"
 translation_of: faqs/research-gaps-aied
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -29,7 +29,7 @@ ai_assist:
 
 En ansökningsdeadline är åtta dagar bort och bakgrundsavsnittet behöver en mening om vad det här fältet ännu inte vet. Eller så har en kollega sagt till en kommitté att AI-handledning höjer prestationerna, med hänvisning till ett tvåårigt experiment i 18 högstadieskolor, och du är personen som måste säga vad den studien kan bära. Eller så väljer du en avhandlingsfråga och varje version av den verkar redan vara gjord.
 
-De luckor som spelar roll handlar om styrka, specificitet och tillämplighet. AI kan utföra pedagogiska uppgifter; de öppna frågorna är om en viss design ger varaktig nytta, för vem, genom vilken mekanism och under vilka villkor. Den skillnaden avgör två saker på ditt skrivbord: vad du ska studera härnäst, och vad du ska sluta hävda under tiden. [[limitations-in-aied-research|Begränsningar i AIEd-forskning]] är katalogen bakom den här sidan. Evidens om [[intelligent-tutoring|intelligenta handledningssystem]], prediktiv [[learning-analytics|analys]], [[generative-ai|generativ AI]] och autonoma agenter är inte heller utbytbara, och forskning om att använda AI för att stödja lärande skiljer sig från forskning om att lära människor om AI, vilket översikten [[ai-education|AI i utbildning]] förklarar.
+De luckor som spelar roll handlar om styrka, specificitet och tillämplighet. AI kan utföra pedagogiska uppgifter; de öppna frågorna är om en viss design ger varaktig nytta, för vem, genom vilken mekanism och under vilka villkor. Den skillnaden avgör två saker på ditt skrivbord: vad du ska studera härnäst, och vad du ska sluta hävda under tiden. Katalogen finns i [[limitations-in-aied-research|Begränsningar i AIEd-forskning]]. Evidens om [[intelligent-tutoring|intelligenta handledningssystem]], prediktiv [[learning-analytics|analys]], [[generative-ai|generativ AI]] och autonoma agenter är inte heller utbytbara, och forskning om att använda AI för att stödja lärande skiljer sig från forskning om att lära människor om AI, vilket översikten [[ai-education|AI i utbildning]] förklarar.
 
 ## Kortversionen
 
@@ -85,7 +85,7 @@ Det som saknas är validering av hela utvärderingskedjan, från modellbeteende 
 
 AI skapar två sammankopplade bedömningsproblem: det hjälper till att producera det arbete som bedöms, och det kan påverka hur arbetet poängsätts.
 
-Kunskapsbasens [[ai-agents-complete-lms-assessment-validity-2026|studie av AI-agenter som slutför bedömda LMS-uppgifter]] dokumenterar agenter som navigerar en levande grundutbildningskurs och slutför bedömda aktiviteter. Det visar en förmåga som utmanar antaganden om studentproducerad bevisning. Det fastställer inte hur vanlig sådan användning är, och det ogiltigförklarar inte asynkron bedömning som kategori.
+En [[ai-agents-complete-lms-assessment-validity-2026|studie av AI-agenter som slutför bedömda LMS-uppgifter]] dokumenterar agenter som navigerar en levande grundutbildningskurs och slutför bedömda aktiviteter. Det visar en förmåga som utmanar antaganden om studentproducerad bevisning. Det fastställer inte hur vanlig sådan användning är, och det ogiltigförklarar inte asynkron bedömning som kategori.
 
 Forskningsfrågan är vilka designer som fortfarande stöder försvarbara slutsatser om den lärande. [[eportfolio|Portföljer]], reflektioner, stegvisa inlämningar och aktivitetsloggar behöver valideras som bevis i stället för att antas fastställa författarskap eller förståelse. Studier bör pröva kombinationer av bevis mot oberoende observerad kompetens och samtidigt ta hänsyn till tillgänglighet, arbetsbelastning, integritet och [[anxiety-and-stress|studenters oro]]. [[assessment-validity|Bedömningsvaliditet]] håller detaljerna.
 
@@ -119,7 +119,7 @@ Forskningsprioriteringen är att identifiera designer som minskar skillnader i d
 
 När system planerar, initierar handlingar, håller minne och koordinerar verktyg blir den pedagogiska frågan vem som bör kontrollera vilka delar av lärprocessen, och när den kontrollen bör flyttas.
 
-[[agentic-ai-education-scoping-review|Agentisk AI i utbildning: en scoping review]] kartlägger 474 studier och finner begränsad longitudinell validering, koncentration till [[higher-ed|högre utbildning]] och STEM, och svag integration av utbildningsteori: bara 29 % av de granskade studierna byggde uttryckligen på utbildningsteori, ett fynd om den korpusen snarare än om all AIED-forskning.
+[[agentic-ai-education-scoping-review|Agentisk AI i utbildning: en scoping review]] kartlägger 474 studier och finner begränsad longitudinell validering, koncentration till [[higher-ed|högre utbildning]] och STEM, och svag integration av utbildningsteori: bara 29 % av de granskade studierna byggde uttryckligen på utbildningsteori, ett fynd om dessa 474 studier snarare än om all AIED-forskning.
 
 Öppna frågor följer. Ger elevinitierad hjälp andra utfall än agentinitierad hjälp? Kan stöd dras tillbaka i takt med att kompetensen utvecklas utan förlust? Behåller de lärande förmågan att utmana systemet? Synteserna om [[agentic-ai|agentisk AI]] och [[human-ai-collaboration|människa-AI-samarbete]] tillför [[teacher-role|lärarens]] ingripande och ansvarsskyldighet i multiagentsituationer, där ingen har fastställt vem som svarar för en agents beslut. Större autonomi är ett pedagogiskt designval med en evidensbas som ännu återstår att bygga.
 
@@ -199,4 +199,4 @@ Lärare som vill ha klassrumsversionen kan följa [[evaluating-ai-interventions-
 
 ## Vart du går härnäst
 
-[[reporting-interpreting-aied-research|Att rapportera och tolka AIEd-forskning]] är rapporteringsmotstycket till den här sidan, och [[research-methods-aied|Forskningsmetoder inom AI i utbildning]] täcker designvalen bakom varje lucka. [[evaluating-ai-interventions-methods|Att utvärdera AI-interventioner: metoder]] hanterar mått och jämförelsedesigner, [[checking-whether-educational-ai-works|Att kontrollera om pedagogisk AI fungerar]] är den kortare versionen av effektfrågan, och [[does-ai-help-students-learn|Hjälper AI mina studenter att lära sig?]] samlar vad som är känt om varaktigt lärande. [[theory-development-aied|Teoriutveckling inom AI i utbildning]] och [[equity-ethics-pedagogical-safety-research|Forskning om rättvisa, etik och pedagogisk säkerhet]] för teorin och rättvisesträngarna vidare.
+[[reporting-interpreting-aied-research|Att rapportera och tolka AIEd-forskning]] är rapporteringsmotstycket, och [[research-methods-aied|Forskningsmetoder inom AI i utbildning]] täcker designvalen bakom varje lucka. [[evaluating-ai-interventions-methods|Att utvärdera AI-interventioner: metoder]] hanterar mått och jämförelsedesigner, [[checking-whether-educational-ai-works|Att kontrollera om pedagogisk AI fungerar]] är den kortare versionen av effektfrågan, och [[does-ai-help-students-learn|Hjälper AI mina studenter att lära sig?]] samlar vad som är känt om varaktigt lärande. [[theory-development-aied|Teoriutveckling inom AI i utbildning]] och [[equity-ethics-pedagogical-safety-research|Forskning om rättvisa, etik och pedagogisk säkerhet]] för teorin och rättvisesträngarna vidare.

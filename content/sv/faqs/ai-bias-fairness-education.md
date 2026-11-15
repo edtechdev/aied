@@ -8,9 +8,9 @@ foundations: [ai-education]
 technology: [generative-ai, intelligent-tutoring]
 ethics: [bias-mitigation, equity-in-ai-education, privacy, inclusive-learning]
 audience: [instructors, administrators, software developers, researchers]
-updated: "2026-11-08T04:27:05-05:00"
+updated: "2026-11-15T16:03:31-05:00"
 translation_of: "faqs/ai-bias-fairness-education"
-source_updated: "2026-11-06T02:15:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
 
-Bias och orättvisa i utbildnings-AI är inte ett enda problem. Forskningen i den här kunskapsbasen dokumenterar hur bias kommer in i nästan varje skede av ett systems liv — träningsdata, modellbeteende, [[prompt-engineering|prompter]], poängsättning, återkoppling, allokeringsbeslut och infrastrukturen under dem — och den drabbar lärare, utvecklare, forskare och administratörer olika. Mönstret i allt detta är tillräckligt konsekvent för att sägas rakt ut: fråga efter siffror per delgrupp, inte medelvärden; definiera ”missgynnad” efter utfall, inte efter gruppstorlek; och behandla rättvisa som något du designar och granskar, inte något du skruvar på efteråt.
+Bias och orättvisa i utbildnings-AI är inte ett enda problem. Forskningen dokumenterar hur bias kommer in i nästan varje skede av ett systems liv — träningsdata, modellbeteende, [[prompt-engineering|prompter]], poängsättning, återkoppling, allokeringsbeslut och infrastrukturen under dem — och den drabbar lärare, utvecklare, forskare och administratörer olika. Mönstret i allt detta är tillräckligt konsekvent för att sägas rakt ut: fråga efter siffror per delgrupp, inte medelvärden; definiera ”missgynnad” efter utfall, inte efter gruppstorlek; och behandla rättvisa som något du designar och granskar, inte något du skruvar på efteråt.
 
 ## Var bias och orättvisa visar sig
 

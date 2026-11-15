@@ -1,6 +1,7 @@
 ---
 title: "YZ ile Etkili Bir Biçimde Nasıl Çalışır ve Öğrenirim?"
 created: "2026-10-14T21:30:00-04:00"
+updated: "2026-11-15T16:08:48-05:00"
 connected_faqs: [reducing-over-reliance, verify-ai-output, how-ai-impacts-students, ai-anxiety-wellbeing]
 weight: 60
 type: faq
@@ -12,7 +13,7 @@ audience: [learners, instructors]
 level: [higher ed, secondary]
 connected_resources: [gemini-notebook]
 translation_of: faqs/study-with-ai
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -46,15 +47,15 @@ Bu sayfadan götürmeye değer cümle şu: aynı model, çalışma sürecinizin 
 
 ## Oturuma kendi denemenizle başlayın
 
-[[adaptive-pretesting-retention|Akgun ve Toker (2026)]], 89 lisans öğrencisine aynı uyarlanabilir ön test oturumunu ve aynı yönergeleri verdi, ardından yedi hafta boyunca farklı alıştırma koşulları uyguladı. YZ'nin yanlış anlamaları yokladığı, yüzeysel yanıtlar için açımlama talep ettiği ve yalnızca gerçek kavramsal katılımda ilerlediği gruptaki öğrenciler gecikmeli son testte en yüksek puanı aldı (M = 78,19) ve en fazla alıştırma çabasını gösterdi (M = 0,85). Aynı modelle serbest sohbet 67,28 ve 0,49 puan aldı; aradaki fark d = 0,92.
+[[adaptive-pretesting-retention|Akgun ve Toker (2026)]], 89 lisans öğrencisine aynı uyarlanabilir ön test oturumunu ve aynı yönergeleri verdi, ardından yedi hafta boyunca farklı alıştırma koşulları uyguladı. YZ'nin [[misconceptions|yanlış anlamalar]]ı yokladığı, yüzeysel yanıtlar için açımlama talep ettiği ve yalnızca gerçek kavramsal katılımda ilerlediği gruptaki öğrenciler gecikmeli son testte en yüksek puanı aldı (M = 78,19) ve en fazla alıştırma çabasını gösterdi (M = 0,85). Aynı modelle serbest sohbet 67,28 ve 0,49 puan aldı; aradaki fark d = 0,92.
 
 Deneme, kötü olduğunda bile işi yapar. Bir yanıt yazmak, zaten bildiğinizi harekete geçirir ve size onun sınırını gösterir. Ardından düzeltme bir şeyin üzerine oturur.
 
-Bu gece herhangi bir sohbet robotuna yapıştırabileceğiniz bir kural: *bunu sınavda test edilecekmişim gibi açıkla, bana tek tek soru sor, ben denemeden cevabı verme, neyi yanlış yaptığımı ve nedenini söyle.* Bu cümle 78,19'u üreten düzeni yeniden kurar ve hiçbir maliyeti yoktur.
+Bu gece herhangi bir [[conversational-ai|sohbet robotu]]na yapıştırabileceğiniz bir kural: *bunu sınavda test edilecekmişim gibi açıkla, bana tek tek soru sor, ben denemeden cevabı verme, neyi yanlış yaptığımı ve nedenini söyle.* Bu cümle 78,19'u üreten düzeni yeniden kurar ve hiçbir maliyeti yoktur.
 
 ## Bir öğretici isteyin ve işi adlandırın
 
-Belirsiz istekler belirsiz yardım alır. [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg, Feldman-Maggor ve Wong (2026)]], 20 STEM öğrencisiyle yardımı nasıl aradıkları üzerine görüştü ve kopyalamaya değer dört aşamalı bir dizi buldu: yardıma ihtiyaç olup olmadığına karar vermek, kime soracağını seçmek, ne tür bir yardım isteyeceğine karar vermek ve gelen şeyi yargılamak. Bu öğrenciler en düşük engelli seçenek olduğu için önce modele gittiler; bir öğrencinin deyimiyle "önce ChatGPT, sonra sınıf arkadaşları, en son öğretmenler," ve bitmiş çözümler yerine ipuçları, adım adım yönlendirme ve kavram açıklamaları istediler. Bir başkası sohbet robotunu "bir ipucu, yardımcı bir araç, ama tek başına çözüm değil" diye tanımladı.
+Belirsiz istekler belirsiz yardım alır. [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg, Feldman-Maggor ve Wong (2026)]], 20 STEM öğrencisiyle yardımı nasıl aradıkları üzerine görüştü ve kopyalamaya değer dört aşamalı bir dizi buldu: yardıma ihtiyaç olup olmadığına karar vermek, kime soracağını seçmek, ne tür bir yardım isteyeceğine karar vermek ve gelen şeyi yargılamak. Bu öğrenciler en düşük engelli seçenek olduğu için önce modele gittiler; bir öğrencinin deyimiyle "önce ChatGPT, sonra sınıf arkadaşları, en son [[teacher-role|öğretmen]]ler," ve bitmiş çözümler yerine ipuçları, adım adım yönlendirme ve kavram açıklamaları istediler. Bir başkası sohbet robotunu "bir ipucu, yardımcı bir araç, ama tek başına çözüm değil" diye tanımladı.
 
 Yazıya döküldüğünde bu şöyle kulağa gelir: "Parçalı integrasyonda işareti sürekli yanlış buluyorum; işte denemem; nerede kırılıyor?" Adlandırılmış bir tıkanma noktası işe yarar bir yanıt alır, "bu ödevde bana yardım et" ise bir taslak alır. Bir problem türünün çözülmüş örneğini isteyin, biçimini inceleyin, sonra bir sonrakini tek başınıza yapın. Kavramı sınavda test edilecekmişsiniz gibi açıklamasını isteyin, sonra bakmadan geri anlatın. Tek tek sorular isteyin ve birine bağlanana kadar yanıtınızı tutun.
 
@@ -62,7 +63,7 @@ Desen şudur: araç sizin anlayışınız üzerinde çalışır. Okuduğunuz bir
 
 ## İlk yanıtın ötesinde konuşmada kalın
 
-Öğrencilerin niyet ettikleri ile yaptıkları arasındaki boşluk, bu literatürdeki en tutarlı bulgudur. [[yan-cognitive-outsourcing-genai-assessments-2026|Yan ve meslektaşları (2026)]], Japonya ve Çin'deki 38 lisans öğrencisiyle, öğrenciler denetimsiz makale değerlendirmeleri için kendi sohbet geçmişlerini baştan sona anlatırken görüştü. 38 öğrencinin 31'i YZ'yi bir öğrenme asistanı olarak kullanmayı amaçladıklarını söyledi ve yine de [[cognitive-offloading|aşırı güven]], zihinsel rehavet ve hızlı unutma tarif ettiler. Biri "unutma hızınız da çok hızlı" dedi. Daha küçük bir grup işin tamamını devretti: öğretmen verir, öğrenci üretken YZ'ye geçirir, üretken YZ üretir, öğrenci biçimlendirmeyi kontrol eder, öğrenci teslim eder; bir katılımcı bunu "beynimi tamamen değiştirdi" diye tanımladı.
+Öğrencilerin niyet ettikleri ile yaptıkları arasındaki boşluk, bu literatürdeki en tutarlı bulgudur. [[yan-cognitive-outsourcing-genai-assessments-2026|Yan ve meslektaşları (2026)]], Japonya ve Çin'deki 38 lisans öğrencisiyle, öğrenciler denetimsiz makale değerlendirmeleri için kendi sohbet geçmişlerini baştan sona anlatırken görüştü. 38 öğrencinin 31'i YZ'yi bir öğrenme asistanı olarak kullanmayı amaçladıklarını söyledi ve yine de [[cognitive-offloading|aşırı güven]], zihinsel rehavet ve hızlı unutma tarif ettiler. Biri "unutma hızınız da çok hızlı" dedi. Daha küçük bir grup işin tamamını devretti: öğretmen verir, öğrenci [[generative-ai|üretken YZ]]'ye geçirir, üretken YZ üretir, öğrenci biçimlendirmeyi kontrol eder, öğrenci teslim eder; bir katılımcı bunu "beynimi tamamen değiştirdi" diye tanımladı.
 
 38 öğrencinin yalnızca 8'i yazarların bilişsel ortak dediği biçimde çalıştı. Daha az YZ kullanmadılar. Toplam çabaları sabit kaldı ve biçim değiştirdi. Biri çabayı arama yapmaktan kalite kontrolüne taşıdı. Bir başkası, anında getirilen bilginin solmasını yavaşlatmak için her YZ oturumundan sonra kısa yansıtma notları yazdı.
 
@@ -76,15 +77,15 @@ Desen şudur: araç sizin anlayışınız üzerinde çalışır. Okuduğunuz bir
 
 "Eleştirel kullanım", parçaları ayırmadıkça çok az anlam taşıyan bir ifadedir. [[verification-quality-reliance-calibration-genai-2026|Wei ve Shang (2026)]] yedi parça ayırır: epistemik değerlendirme, kontrol etmeye başlayıp başlamadığınız, ne kadar iyi kontrol ettiğiniz, kontrolün başarılı olup olmadığı, çıktıyla ne yaptığınız, görevde nasıl performans gösterdiğiniz ve bağımsız olarak ne öğrendiğiniz. Bunlardan ikisi geri kalanından daha önemlidir. Kontrol etmek, başarılı kontrol etmekle aynı şey değildir ve dikkatli bir süreç sonuçsuz kalabilirken özensiz bir süreç şans eseri doğru yanıta varabilir. [[trust-calibration|Kalibre edilmiş güven]], kabul etme ya da reddetme kararınızın çıktının gerçek kalitesiyle eşleşmesi demektir; bunu da yanıtın ne kadar kendinden emin kulağa geldiğinden okuyamazsınız.
 
-Üç bulgu sorunu somutlaştırıyor. Dávila ve diğerleri (2025), öğrencilere yarı yarıya doğru olan tavsiyeler verdi ve ona ne kadar ağırlık verdiklerinin [[prior-knowledge|ön bilgilerine]] ve cinsiyetlerine göre değiştiğini buldu; yani güven doğruluğu takip etmiyordu. Zheng ve diğerleri (2025), bir öğrencinin doğru yönlendirmeyi doğru biçimde izleyip yine de yanlış bir yanıta ulaştığı bir "başarısız uygulama" deseni belgeledi. [[self-efficacy|Özgüven]] de bir kılavuz değildir: Rheu ve Cho (2025), dil modellerinin nasıl çalıştığını anlamanın daha fazla öz bildirimli olgu kontrolüyle ilişkili olduğunu, bazı özgüven biçimlerinin ve özellik bilgisinin ise daha azıyla ilişkili olduğunu buldu.
+Üç bulgu sorunu somutlaştırıyor. Dávila ve diğerleri (2025), öğrencilere yarı yarıya doğru olan tavsiyeler verdi ve ona ne kadar ağırlık verdiklerinin [[prior-knowledge|ön bilgilerine]] ve cinsiyetlerine göre değiştiğini buldu; yani güven doğruluğu takip etmiyordu. Zheng ve diğerleri (2025), bir öğrencinin doğru yönlendirmeyi doğru biçimde izleyip yine de yanlış bir yanıta ulaştığı bir "başarısız uygulama" deseni belgeledi. [[self-efficacy|Özgüven]] de bir kılavuz değildir: Rheu ve Cho (2025), dil modellerinin nasıl çalıştığını anlamanın daha fazla [[self-report-measures|öz bildirim]]li olgu kontrolüyle ilişkili olduğunu, bazı özgüven biçimlerinin ve özellik bilgisinin ise daha azıyla ilişkili olduğunu buldu.
 
 Dolayısıyla not alınacak her şeyi adını koyabildiğiniz bir kaynakla doğrulayın. Viberg çalışmasındaki öğrenciler çıktıları ders materyalleriyle ve eğitmenleriyle kontrol etti; biri şöyle açıkladı: "ChatGPT'nin bir şey uydurup uydurmadığını anlayamazsak ancak o zaman asistan hocaya giderim." Gerçekten anlayamadığınızda, noktayı çözülmemiş olarak işaretleyin ve bir insana sorun. Sayfayı bitirmek için bir iddiayı benimsemek, küçük bir belirsizliğin prova ettiğiniz yanlış bir yanıta dönüşme yoludur.
 
-Toprak kurallarınıza ihtiyaç duymadan önce karar verin. [[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella ve meslektaşları (2026)]], 151 lisans öğrencisiyle anket yaptı ve etik yargıların sınav hazırlığı için bir büyük dil modeli kullanma niyetinin gerekli koşulları olduğunu buldu; sonuççu ve ödevci akıl yürütme bu niyeti, niyet ise fiili kullanımı güçlü biçimde öngördü. Neyi yapıp neyi yapmayacağınıza önceden karar vermek, gece 11'de davranışınızın izleyeceği şeydir.
+Toprak kurallarınıza ihtiyaç duymadan önce karar verin. [[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella ve meslektaşları (2026)]], 151 lisans öğrencisiyle anket yaptı ve etik yargıların sınav hazırlığı için bir büyük [[llm|dil modeli]] kullanma niyetinin gerekli koşulları olduğunu buldu; sonuççu ve ödevci akıl yürütme bu niyeti, niyet ise fiili kullanımı güçlü biçimde öngördü. Neyi yapıp neyi yapmayacağınıza önceden karar vermek, gece 11'de davranışınızın izleyeceği şeydir.
 
 ## Lojistiği ona bırakın
 
-Hızın meşru kullanımları vardır. [[ai-guided-learning-audiovideo-2026|Kawamura (2026)]], sesli oynatmayı her bölümün zorluğuna uyarlayan, ortalama yaklaşık 1,30x hızında çalışan ve sınav puanlarında istatistiksel olarak anlamlı bir fark olmaksızın izleme süresini %53 azaltan çok kipli video özetleri üreten sistemler kurdu. Özetlemek, çevirmek ve bir çalışma programı planlamak aynı kategoriye girer. Materyalde daha hızlı ilerlemek sorun değildir. Sizi değiştiren işi atlamak, kaçınılması gereken kısımdır.
+Hızın meşru kullanımları vardır. [[ai-guided-learning-audiovideo-2026|Kawamura (2026)]], sesli oynatmayı her bölümün zorluğuna uyarlayan, ortalama yaklaşık 1,30x hızında çalışan ve sınav puanlarında istatistiksel olarak anlamlı bir fark olmaksızın izleme süresini %53 azaltan [[multimodal|çok kipli]] video özetleri üreten sistemler kurdu. Özetlemek, çevirmek ve bir çalışma programı planlamak aynı kategoriye girer. Materyalde daha hızlı ilerlemek sorun değildir. Sizi değiştiren işi atlamak, kaçınılması gereken kısımdır.
 
 Ayrım, aracın düşünmeye göre nerede durduğudur. Zaten okuduğunuz bir bölümün özeti zaman kazandırır. Bölüm yerine okuduğunuz bir özet, okumayı ikame eder.
 
@@ -96,7 +97,7 @@ Bir oturumu nasıl hissettirdiğine ya da çıktının ne kadar cilalı göründ
 - **Bir gecikmeden sonra test edin.** İstatistik çalışmasında koşulları ayıran şey yedi haftalık son testti. Konuşma hâlâ ekrandayken alınan bir puan size çok az şey söyler.
 - **Sesli olarak, hafızadan, notsuz açıklayın.** Aracın ifadesine ihtiyaç duyuyorsanız, anlayış henüz sizin değildir.
 
-Geri getirmenin bir programa ihtiyacı var. [[memdora-ai-spaced-repetition|Zhang (2026)]], yeni öğrenilen materyalin yaklaşık %70'inin tekrar olmadan 24 saat içinde unutulduğu bulgusuna dayanan ve Memdora adlı bir YZ aralıklı tekrar sistemini anlatır. Okuduğunuz her şeyden kartlar üretir ve bunları FSRS-6 ile programlar. Bunun neye değdiği konusunda kesin olun: makale geleneksel kart araçlarından daha iyi kalıcılık bildiriyor ve katkısı kontrollü bir kalıcılık denemesi değil, bir tasarım ve etkileşim taksonomisidir. Aralıkları ve geri getirmeyi yerleşik, özel etkileşim tasarımını ise umut verici sayın. Kullandığınız uygulama öğe başına sonuç bildiriyorsa onları okuyun, çünkü kart başına öğrenme size bir seri sayacından daha fazlasını söyler.
+Geri getirmenin bir programa ihtiyacı var. [[memdora-ai-spaced-repetition|Zhang (2026)]], yeni öğrenilen materyalin yaklaşık %70'inin tekrar olmadan 24 saat içinde unutulduğu bulgusuna dayanan ve Memdora adlı bir YZ [[retrieval-spacing-interleaving|aralıklı tekrar]] sistemini anlatır. Okuduğunuz her şeyden kartlar üretir ve bunları FSRS-6 ile programlar. Bunun neye değdiği konusunda kesin olun: makale geleneksel kart araçlarından daha iyi kalıcılık bildiriyor ve katkısı kontrollü bir kalıcılık denemesi değil, bir tasarım ve etkileşim taksonomisidir. Aralıkları ve geri getirmeyi yerleşik, özel etkileşim tasarımını ise umut verici sayın. Kullandığınız uygulama öğe başına sonuç bildiriyorsa onları okuyun, çünkü kart başına öğrenme size bir seri sayacından daha fazlasını söyler.
 
 ## Öğrencilerin bu konuda yanlış anladıkları
 

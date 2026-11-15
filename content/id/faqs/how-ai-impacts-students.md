@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
-updated: "2026-10-29T14:48:08-04:00"
+updated: "2026-11-15T16:05:39-05:00"
 translation_of: faqs/how-ai-impacts-students
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
 
-Anda memakai AI untuk tugas kuliah dan semuanya berjalan baik, kecuali bahwa ujian tanpa buku terasa seperti membaca catatan orang lain. Atau seorang teman mengatakan ia tidak menulis apa pun dan tetap mendapat nilai A, dan Anda bertanya-tanya apa artinya itu bagi Anda. Atau Anda sudah mulai mengajukan lebih banyak pertanyaan kepada chatbot daripada kepada pengajar Anda.
+Anda memakai AI untuk tugas kuliah dan semuanya berjalan baik, kecuali bahwa [[summative-assessment|ujian tanpa buku]] terasa seperti membaca catatan orang lain. Atau seorang teman mengatakan ia tidak menulis apa pun dan tetap mendapat nilai A, dan Anda bertanya-tanya apa artinya itu bagi Anda. Atau Anda sudah mulai mengajukan lebih banyak pertanyaan kepada chatbot daripada kepada pengajar Anda.
 
 Jawaban singkatnya, dalam bentuk yang dapat Anda ulangi kepada teman: AI berguna di tempat Anda membutuhkan umpan balik dan tidak membantu di tempat Anda membutuhkan latihan. Simpan langkah berpikirnya untuk diri Anda sendiri, uji diri Anda tanpa alat sebelum menyerahkan, dan jujurlah tentang apa yang Anda gunakan. Sisa halaman ini menjelaskan mengapa hal itu berlaku dan bagaimana bentuknya pada suatu malam Selasa.
 
@@ -55,7 +55,7 @@ Mengetahui alat itu ada juga mengubah apa yang Anda bersedia perjuangkan. [[ai-a
 
 ## Uji diri Anda tanpa alat
 
-Pemeriksaannya memakan sepuluh menit dan itu hal paling berguna di halaman ini. Tutup semuanya, ambil halaman kosong, dan tuliskan argumen kiriman Anda dari ingatan: klaimnya, dua atau tiga alasannya, dan apa yang akan bertentangan dengannya. Lalu buka pekerjaan Anda dan bandingkan.
+Pemeriksaannya memakan sepuluh menit dan itu hal paling berguna yang dapat Anda lakukan. Tutup semuanya, ambil halaman kosong, dan tuliskan argumen kiriman Anda dari ingatan: klaimnya, dua atau tiga alasannya, dan apa yang akan bertentangan dengannya. Lalu buka pekerjaan Anda dan bandingkan.
 
 Jika halaman kosong itu menghasilkan sesuatu yang mirip, Anda mempelajari materinya dan alat itu membantu Anda mengaturnya. Jika halaman kosong itu kosong sementara dokumennya rapi, Anda memiliki kesenjangan kinerja, dan nilainya akan menyembunyikannya sampai sebuah ujian atau penempatan kerja tidak menyembunyikannya lagi. Kembalilah ke bagian yang tidak dapat Anda reproduksi, kerjakan tanpa bantuan, dan periksa lagi.
 
@@ -111,4 +111,4 @@ Sisi emosionalnya juga bisa baik. Dalam studi [[qualitative-research|kualitatif]
 
 ## Ke mana selanjutnya
 
-[[does-ai-help-students-learn|Apakah menggunakan AI benar-benar membantu siswa belajar?]] adalah pertanyaan bukti di balik halaman ini, dan [[study-with-ai|belajar dengan AI]] mencakup rutinitas kerja. [[ai-anxiety-wellbeing|Kecemasan dan kesejahteraan akibat AI]] membawa sisi kecemasan lebih jauh, dan [[guardrails|penjagaan]] menjelaskan bagaimana perancah berubah menjadi pengganti. Pandangan desain mata kuliah ada di [[incorporating-ai-literacy|Bagaimana saya memasukkan literasi AI ke dalam mata kuliah saya?]] dan [[ai-literacy-evidence|Apa buktinya tentang intervensi literasi AI di pendidikan tinggi?]].
+[[does-ai-help-students-learn|Apakah menggunakan AI benar-benar membantu siswa belajar?]] adalah pertanyaan bukti di balik jawaban-jawaban ini, dan [[study-with-ai|belajar dengan AI]] mencakup rutinitas kerja. [[ai-anxiety-wellbeing|Kecemasan dan kesejahteraan akibat AI]] membawa sisi kecemasan lebih jauh, dan [[guardrails|penjagaan]] menjelaskan bagaimana perancah berubah menjadi pengganti. Pandangan desain mata kuliah ada di [[incorporating-ai-literacy|Bagaimana saya memasukkan literasi AI ke dalam mata kuliah saya?]] dan [[ai-literacy-evidence|Apa buktinya tentang intervensi literasi AI di pendidikan tinggi?]].

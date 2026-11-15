@@ -6,9 +6,9 @@ weight: 70
 foundations: [ai-literacy, educational-development, teacher-role, teacher-ai-competency]
 audience: [faculty developers, instructors]
 level: [adult learning]
-updated: "2026-10-29T16:56:07-04:00"
+updated: "2026-11-15T16:01:50-05:00"
 translation_of: faqs/faculty-ai-competencies
-source_updated: "2026-10-28T11:29:19-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -54,6 +54,8 @@ Hãy viết danh sách ra trước khi bạn lên kế hoạch cho các phiên. 
 ## Đánh giá năng lực thực hiện thay vì sự tự tin
 
 Năng lực AI [[self-report-measures|tự báo cáo]] có thể tách rời đáng kể khỏi năng lực đã thể hiện, và đó là cảnh báo thực tế nhất trong tài liệu này cho bất kỳ ai điều hành việc phát triển giảng viên. Một bản khảo sát sự tự tin vào cuối buổi tập huấn đo cảm giác của buổi tập huấn.
+
+Một khảo sát thậm chí có thể bị dự đoán quá tốt. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez và cộng sự (2026)]] phân loại 314 trong 315 giảng viên vào các bậc năng lực từ một thang 300 mục với α = 0.997 và không phân tích nhân tố, và cơ sở liên kết là yếu tố đóng góp lớn nhất — dấu hiệu cho thấy điểm số phản ánh nơi người ta làm việc chứ không phải điều họ có thể làm.
 
 Nghiên cứu về quy trình [[agentic-ai|đa tác tử]] của giáo viên thêm một lý do thứ hai để kiểm tra thay vì hỏi: tư duy hệ thống, niềm tin sư phạm và [[self-efficacy|sự tự tin]] tương tác với nhau trong việc tích hợp AI, nên cùng một phiên đáp xuống hai giảng viên có cùng nền môn học theo hai cách khác nhau. Điều đó lập luận cho việc lập trình khác biệt hóa, và chống lại buổi tập huấn công cụ một cỡ cho tất cả mà phần lớn các cơ sở đang chạy.
 
@@ -103,7 +105,7 @@ Chuyên gia nội dung sẽ tự tìm ra cách tích hợp. Kiến thức nội 
 
 Một khung sẽ bao phủ tất cả mọi người. Tiêu chuẩn sáu vai trò tồn tại vì TPACK, SAMR và các tiêu chuẩn nhà giáo dục chủ yếu chỉ bao phủ giáo viên K-12 hoặc riêng chiều giảng dạy.
 
-Sự kháng cự là một lỗ hổng kiến thức cần được lấp. Sự ngại rủi ro dự đoán ý định theo hướng âm, và phần việc về bản sắc mô tả giảng viên lý luận từ các giá trị sư phạm. Một phần của cái trông như sự miễn cưỡng là một lập trường bảo vệ được về việc sinh viên phụ thuộc quá mức.
+Sự kháng cự là một lỗ hổng kiến thức cần được lấp. Sự ngại rủi ro dự đoán ý định theo hướng âm, và [[learner-identity|phần việc về bản sắc]] mô tả giảng viên lý luận từ các giá trị sư phạm. Một phần của cái trông như sự miễn cưỡng là một lập trường bảo vệ được về việc sinh viên phụ thuộc quá mức.
 
 ## Những gì sẽ quay lại với bạn
 

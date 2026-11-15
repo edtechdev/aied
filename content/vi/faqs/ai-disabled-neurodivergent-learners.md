@@ -9,9 +9,9 @@ ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-
 research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
-updated: "2026-11-08T04:26:08-05:00"
+updated: "2026-11-15T16:00:47-05:00"
 translation_of: faqs/ai-disabled-neurodivergent-learners
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,7 @@ ai_assist:
 
 Lá thư điều chỉnh hỗ trợ nêu tên một sinh viên, một khóa học và một công cụ bạn chưa từng nghe tới. Hoặc một sinh viên đã hỏi, một cách hợp lý, liệu họ có thể tiếp tục dùng phần mềm chuyển giọng nói thành văn bản trong một bài thi có giới hạn thời gian hay không, trong khi quy định AI của khóa học bạn ghi là không dùng AI dưới bất kỳ hình thức nào. Hoặc văn phòng hỗ trợ tiếp cận muốn có câu trả lời trước thứ Sáu về việc có nên mua bản quyền một công cụ đọc hay không, còn bằng chứng phía nhà cung cấp chỉ là một lời chứng thực từ một trường khác.
 
-Câu trả lời đứng vững trước cả ba tình huống: hãy bắt đầu từ rào cản mà nhiệm vụ tạo ra, dùng những công cụ đã thực sự được đo, và dạy bất cứ thứ gì bạn áp dụng. Hai nguyên tắc quan trọng hơn mọi lựa chọn sản phẩm. Ghi rõ chuyển giọng nói thành văn bản và OCR trong quy định AI của bạn như những điều chỉnh hỗ trợ theo đúng nghĩa của chúng, và trao cho bài tập một cấu trúc thay vì yêu cầu sinh viên tự suy ra. Hãy tỉnh táo về bằng chứng: con số mạnh nhất trên trang này đến từ các bối cảnh giáo dục đặc biệt PK-12 với phần lớn là AI tiền tạo sinh, còn tài liệu về giáo dục đại học chỉ là một bản đồ những gì đã được thử.
+Câu trả lời đứng vững trước cả ba tình huống: hãy bắt đầu từ rào cản mà nhiệm vụ tạo ra, dùng những công cụ đã thực sự được đo, và dạy bất cứ thứ gì bạn áp dụng. Hai nguyên tắc quan trọng hơn mọi lựa chọn sản phẩm. Ghi rõ chuyển giọng nói thành văn bản và OCR trong quy định AI của bạn như những điều chỉnh hỗ trợ theo đúng nghĩa của chúng, và trao cho bài tập một cấu trúc thay vì yêu cầu sinh viên tự suy ra. Hãy tỉnh táo về bằng chứng: con số mạnh nhất đến từ các bối cảnh giáo dục đặc biệt PK-12 với phần lớn là AI tiền tạo sinh, còn tài liệu về giáo dục đại học chỉ là một bản đồ những gì đã được thử.
 
 ## Tóm tắt
 
@@ -51,11 +51,11 @@ Lời cảnh báo tương tự áp dụng cho các thống kê nhóm. [[differen
 
 ## Dùng những gì đã được đo, và đọc nhãn
 
-Kết quả [[quantitative-research|định lượng]] mạnh nhất trên trang này cũng là kết quả chung nhất, và nó đi kèm những giới hạn bạn nên mang theo vào quyết định mua sắm.
+Kết quả [[quantitative-research|định lượng]] mạnh nhất cũng là kết quả chung nhất, và nó đi kèm những giới hạn bạn nên mang theo vào quyết định mua sắm.
 
 [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang, Carter, Liu và Peng (2024)]] tổng hợp 29 nghiên cứu (bán) thực nghiệm về các can thiệp dựa trên AI cho [[inclusive-learning|học sinh khuyết tật]]: 239 cỡ hiệu ứng từ 41 mẫu độc lập, một hiệu ứng tổng thể mức trung bình có ý nghĩa thống kê đối với kết quả học tập là g Hedges = 0.588 (95% CI [0.349, 0.826], p < .01), và độ không đồng nhất giữa các nghiên cứu cao. Hiệu suất học tập là phân nhóm kết quả lớn nhất (k = 80, g = 0.929) và kỹ năng cảm xúc xã hội là nhỏ nhất (k = 144, g = 0.382). Phần mềm máy tính, tức [[speech-and-voice-technologies|nhận dạng giọng nói]], hệ chuyên gia và [[intelligent-tutoring|hệ gia sư thông minh]], đạt kết quả mạnh (k = 74, g = 0.959) và [[educational-robotics|robot]] ở mức trung bình (k = 144, g = 0.509), trong khi VR thông minh (g = 0.528) không có ý nghĩa thống kê. Có thiên lệch công bố (β của Egger = 2.837, p < .001); phương pháp trim-and-fill hạ ước lượng xuống g = 0.269, vẫn có ý nghĩa thống kê.
 
-Mọi nghiên cứu đều ở cấp PK-12. 96.6% dùng giảng dạy theo bước trong bối cảnh giáo dục đặc biệt hoặc lâm sàng, và phần lớn dùng AI dựa trên luật cũ hơn thay vì [[generative-ai|AI sinh tạo]]. Điều đó ủng hộ việc áp dụng thận trọng phần mềm dạy học có cấu trúc. Nó không chuyển sang được cho một chatbot đa dụng, và coi như nó chuyển được là sai lầm tốn kém nhất có thể mắc phải trên trang này.
+Mọi nghiên cứu đều ở cấp PK-12. 96.6% dùng giảng dạy theo bước trong bối cảnh giáo dục đặc biệt hoặc lâm sàng, và phần lớn dùng AI dựa trên luật cũ hơn thay vì [[generative-ai|AI sinh tạo]]. Điều đó ủng hộ việc áp dụng thận trọng phần mềm dạy học có cấu trúc. Nó không chuyển sang được cho một chatbot đa dụng, và coi như nó chuyển được là sai lầm tốn kém nhất có thể mắc phải.
 
 Ba kết quả nhỏ hơn cho thấy một công cụ đơn lẻ làm được gì khi rào cản hẹp. Mỗi kết quả được thử trên một vài người học, nên hãy coi chúng là những thử nghiệm rẻ và có thể đảo ngược chứ không phải hạ tầng.
 
@@ -84,7 +84,7 @@ Kiểu thất bại đã được ghi nhận là một điều chỉnh hỗ tr�
 
 Hai điều khiến kiểu thất bại đó dễ xảy ra, và cả hai đều mang tính thể chế. [[shin-ai-policies-sld-2026|Shin và các cộng sự (2026)]] dùng mô hình hoá chủ đề dựa trên LLM và hai vòng khảo sát Delphi với 17 chuyên gia trên 12 văn bản [[educational-policy-ai|chính sách AI trong giáo dục]] của Hoa Kỳ từ 2015 đến 2025. Chuẩn bị cho nhà giáo dục là một trong năm chủ đề đã được kiểm chứng của họ, gồm 4 trên 36 mục, và các chuyên gia xếp việc trao quyền cho người học cùng [[ai-literacy|năng lực AI]] là thiết yếu nhất: những học sinh này nên học cách dùng AI có trách nhiệm và độc lập, với việc phòng ngừa phụ thuộc quá mức được dạy như một phần của chính kỹ năng đó. Các tác giả của [[ludia-udl-ai-thought-partner-2026|LUDIA]] gọi trở ngại là “khoảng cách biết và làm”: hướng dẫn thì có rất nhiều, được viết bằng những thuật ngữ chung chung, trong khi một rào cản thì luôn cụ thể cho căn phòng này, tuần này.
 
-Điều trang này không thể cho bạn là một quy trình tập huấn. Không tồn tại hướng dẫn chính thức dựa trên bằng chứng nào giúp nhà giáo dục hay gia đình triển khai AI cho những người học này, nên lượng hướng dẫn, trình tự của nó và người thực hiện đều là những phán đoán. Án lệ đặt ra mức sàn chứ không phải tiêu chuẩn: cuối cùng người học phải làm được việc đó, và phải có người chịu trách nhiệm đưa họ tới đó.
+Điều bằng chứng không thể cho bạn là một quy trình tập huấn. Không tồn tại hướng dẫn chính thức dựa trên bằng chứng nào giúp nhà giáo dục hay gia đình triển khai AI cho những người học này, nên lượng hướng dẫn, trình tự của nó và người thực hiện đều là những phán đoán. Án lệ đặt ra mức sàn chứ không phải tiêu chuẩn: cuối cùng người học phải làm được việc đó, và phải có người chịu trách nhiệm đưa họ tới đó.
 
 ## Ghi rõ chuyển giọng nói thành văn bản và OCR vào quy định AI
 
@@ -92,7 +92,7 @@ Hai điều khiến kiểu thất bại đó dễ xảy ra, và cả hai đều 
 
 Do đó một quy định viết là “không dùng AI” có thể rút mất phương tiện chính để tạo ra bài làm đọc được của sinh viên. Chưa ai đo được quy mô của sự thay thế đó, và đó là lý do để nói rõ thay vì chờ con số. Hãy nêu chuyển giọng nói thành văn bản và OCR như những điều chỉnh hỗ trợ trong chính sách, đặt cạnh các lệnh cấm soạn thảo, để hai câu hỏi được quyết định riêng. Rủi ro mà điều này tạo ra cho nhà trường thuộc về [[legal-issues-and-risks|Các vấn đề pháp lý và rủi ro]].
 
-Đây là một sửa đổi một dòng trong hầu hết các văn bản, và nó là dòng có hậu quả lớn nhất trên trang này.
+Đây là một sửa đổi một dòng trong hầu hết các văn bản, và nó là dòng có hậu quả lớn nhất trong chính sách.
 
 ## Cung cấp cấu trúc ở nơi bài tập mặc định rằng đã có
 
@@ -106,7 +106,7 @@ Hiệu ứng tổng hợp cho bạn một hướng đi. Chúng không cho bạn 
 
 Ba lưu ý nên định hình thước đo đó. Thứ nhất, thứ tự xếp hạng giữa các phân nhóm chỉ gợi ý chứ chưa được xác lập: không biến số điều tiết nào đạt mức có ý nghĩa thống kê trong phân tích tổng hợp năm 2024, nên những xếp hạng như [[learning-by-teaching|tác nhân có thể dạy]] (g = 1.100) đứng trên huấn luyện viên cảm xúc xã hội (g = 0.336), hay tương tác song đôi đứng trên tương tác bộ ba (g = 0.973 so với g = 0.385), không nên được coi là đã an bài. Hướng của hiệu ứng thì có cơ sở; độ lớn, thiết kế tối ưu và độ bền của bất kỳ mức tăng nào thì không.
 
-Thứ hai, tập tài liệu này mô tả các đợt triển khai và cảm nhận nhiều hơn là việc học được đo lường. Chú ý (n = 4) và giao tiếp xã hội (n = 5) là những rào cản ít được nghiên cứu nhất, và sự khan hiếm các thiết kế (bán) thực nghiệm cùng thiết kế theo chiều dọc là lý do công trình về giáo dục đại học là một tổng quan phạm vi chứ không phải phân tích tổng hợp. Độ phủ nghiêng về bậc đại học và khu vực Bắc bán cầu, tìm kiếm chỉ gồm công trình đã bình duyệt bằng tiếng Anh, và sinh viên sau đại học ít được đại diện. Mức độ tham gia và sự hài lòng là những chỉ báo yếu.
+Thứ hai, tài liệu này mô tả các đợt triển khai và cảm nhận nhiều hơn là việc học được đo lường. Chú ý (n = 4) và giao tiếp xã hội (n = 5) là những rào cản ít được nghiên cứu nhất, và sự khan hiếm các thiết kế (bán) thực nghiệm cùng thiết kế theo chiều dọc là lý do công trình về giáo dục đại học là một tổng quan phạm vi chứ không phải phân tích tổng hợp. Độ phủ nghiêng về bậc đại học và khu vực Bắc bán cầu, tìm kiếm chỉ gồm công trình đã bình duyệt bằng tiếng Anh, và sinh viên sau đại học ít được đại diện. Mức độ tham gia và sự hài lòng là những chỉ báo yếu.
 
 Thứ ba, một công cụ sửa được rào cản này có thể để nguyên rào cản khác. Hãy kiểm tra công cụ đối chiếu với đúng khó khăn mà sinh viên báo cáo, dù đó là đọc và viết, quản lý việc học, chú ý hay giao tiếp xã hội, và đánh giá dựa trên khó khăn đó chứ không dựa trên cảm nhận của sinh viên về sản phẩm. Hãy hỏi sinh viên nên đếm cái gì. Những người tham gia của Zastudil và những người đăng bài trên diễn đàn của Rezazadegan đều mô tả nhu cầu của mình chính xác hơn những sản phẩm được làm cho họ.
 
@@ -128,7 +128,7 @@ Một chẩn đoán cho tôi biết nên mua công cụ nào. Các rào cản c�
 
 Điều chỉnh hỗ trợ là một thoả thuận cá nhân, nên cách khắc phục thuộc về sinh viên. Một số đúng là như vậy, và những cái đáng được khái quát hoá chính là những cái bạn vốn sẽ thiết kế vào bài từ đầu. Việc chia nhỏ video giúp mọi người học trong nghiên cứu của nó. Thay đổi thiết kế xoá bỏ bước tự khai báo, và xoá luôn sự kỳ thị.
 
-Mức độ tham gia và sự hài lòng cho thấy công cụ đã hiệu quả. Chúng cho thấy sinh viên thích nó. Tập tài liệu này phần lớn là các đợt triển khai và cảm nhận, và chỉ 6 trên 40 nghiên cứu giáo dục đại học phục vụ nhiều hơn một rào cản, nên một sinh viên hài lòng chưa phải là bằng chứng rằng một rào cản đã được gỡ.
+Mức độ tham gia và sự hài lòng cho thấy công cụ đã hiệu quả. Chúng cho thấy sinh viên thích nó. Tài liệu này phần lớn là các đợt triển khai và cảm nhận, và chỉ 6 trên 40 nghiên cứu giáo dục đại học phục vụ nhiều hơn một rào cản, nên một sinh viên hài lòng chưa phải là bằng chứng rằng một rào cản đã được gỡ.
 
 Công cụ mang theo sự hỗ trợ, còn việc dạy chỉ là phần thêm. Án lệ coi một công cụ không được dạy cách dùng là thất bại, và các chuyên gia chính sách xếp việc trao quyền cho người học cùng năng lực AI là chủ đề thiết yếu nhất của họ. Hãy tính thời gian dạy vào cùng với chi phí bản quyền.
 
@@ -158,4 +158,4 @@ Công cụ mang theo sự hỗ trợ, còn việc dạy chỉ là phần thêm. 
 
 ## Đi tiếp từ đây
 
-[[universal-design-for-learning]] bao quát cách tiếp cận thiết kế ngăn rào cản trước khi chúng xuất hiện, [[assistive-technology]] là lớp công cụ mà sinh viên dùng, [[accessibility]] hỏi liệu một định dạng có thể được cảm nhận và vận hành hay không, và [[neurodiversity]] là lăng kính coi khác biệt là sự đa dạng chứ không phải khiếm khuyết, tất cả nằm trong ô chung của [[inclusive-learning]]. [[reducing-over-reliance]] đề cập những hiệu ứng phụ thuộc quá mức và hiệu ứng đảo ngược quyết định liệu một công cụ còn tiếp tục giúp ích hay không, còn [[equity-ethics-pedagogical-safety-research|đưa công bằng, khả năng tiếp cận, quyền riêng tư, đạo đức và an toàn sư phạm vào nghiên cứu AIED]] đề cập những nghĩa vụ phía nghiên cứu.
+[[universal-design-for-learning|Thiết kế phổ quát cho học tập]] bao quát cách tiếp cận thiết kế ngăn rào cản trước khi chúng xuất hiện, [[assistive-technology|công nghệ hỗ trợ]] là lớp công cụ mà sinh viên dùng, [[accessibility|khả năng tiếp cận]] hỏi liệu một định dạng có thể được cảm nhận và vận hành hay không, và [[neurodiversity]] là lăng kính coi khác biệt là sự đa dạng chứ không phải khiếm khuyết, tất cả nằm trong ô chung của [[inclusive-learning]]. [[reducing-over-reliance]] đề cập những hiệu ứng phụ thuộc quá mức và hiệu ứng đảo ngược quyết định liệu một công cụ còn tiếp tục giúp ích hay không, còn [[equity-ethics-pedagogical-safety-research|đưa công bằng, khả năng tiếp cận, quyền riêng tư, đạo đức và an toàn sư phạm vào nghiên cứu AIED]] đề cập những nghĩa vụ phía nghiên cứu.

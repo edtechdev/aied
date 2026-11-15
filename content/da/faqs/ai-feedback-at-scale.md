@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T15:57:48-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,8 @@ Peer-feedback gør sig fortjent til sin egen plads i sekvensen. [[scaffolding-sr
 
 Gu et al.s fordel var lille, og de læser den som reel, men ikke transformerende i sig selv. Lærerstøtte, promptvejledninger og arbejdsark gjorde det understøttende arbejde.
 
+Kilden betyder måske mindre end tidspunktet. Hos 391 tyske gymnasieelever gav lærer-skrevet og LLM-feedback ingen signifikant forskel i revisioner, senere skrivning, tid på opgaven eller oplevelser; bayesianske posteriorer hældede mod lærerfeedback for senere skrivning, men beholdt en fjerdedel til to femtedele af massen inde i ækvivalensregionen, og kun øjeblikkelig AI-feedback trak bedre vurderinger af anvendelighed og motivation ([[meyer-teacher-ai-feedback-writing-2026|Meyer et al., 2026]]). Hvis en førstegangskommentar kan nå frem, mens den studerende stadig reviderer, er den timing en del af det design, der gør arbejdet.
+
 ## Giv modellen en rubrik, og lad den derefter vise sine skridt
 
 Rubrikrefereret generering er den automatisérbare del.
@@ -92,7 +94,7 @@ Aldino et al. finder samme mønster med assistance og derefter verifikation i al
 
 Tolv af Aldino et al.s 21 undervisere lavede yderligere revisioner på sætningsniveau, og det dominerende mønster var at kalibrere tone: at skrue ros ned (f = 11), fjerne forslag (f = 9), fjerne opmuntring (f = 8). Revisionerne klyngede sig i den relationelle dimension, især Student-Teacher Relationship (f = 24). De beskyttede autenticitet og faglig stemme, og det arbejde automatiseres ikke.
 
-Studerende er den anden side af den verifikation, og deres beskrivelse af arbejdsdelingen ligger tæt på den, denne side anbefaler. I fokusgrupper med 20 bachelorstuderende blev underviserens feedback værdsat for at være relationel, personlig og ekspertdrevet, mens AI-genereret feedback fremstod upersonlig og potentielt uretfærdig; de samme studerende var åbne over for en hybrid model, hvor underviseren læser deres arbejde og supplerer modellens kommentarer ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). Samme undersøgelse fandt, at deres vurderinger var i overensstemmelse med ChatGPT's om specificitet og anvendelighed, men afveg om rettidighed og positivitet, så de dimensioner, hvor man kan stole på modellens egen dom, er smallere end hele rubrikken.
+Studerende er den anden side af den verifikation, og deres beskrivelse af arbejdsdelingen ligger tæt på den anbefalede. I fokusgrupper med 20 bachelorstuderende blev underviserens feedback værdsat for at være relationel, personlig og ekspertdrevet, mens AI-genereret feedback fremstod upersonlig og potentielt uretfærdig; de samme studerende var åbne over for en hybrid model, hvor underviseren læser deres arbejde og supplerer modellens kommentarer ([[fong-chatgpt-feedback-evaluations-2026|Fong et al. (2026)]]). Samme undersøgelse fandt, at deres vurderinger var i overensstemmelse med ChatGPT's om specificitet og anvendelighed, men afveg om rettidighed og positivitet, så de dimensioner, hvor man kan stole på modellens egen dom, er smallere end hele rubrikken.
 
 ## Lær studerende at læse kommentaren
 
@@ -144,6 +146,6 @@ Tilfredshedsvurderinger fortæller dig, at kommentarerne er nøjagtige. I Deakin
 
 ## Hvor du kan gå videre hen
 
-[[feedback|Feedback]] er paraplybegrebet for hele systemet: levering, loop, optagelse og bedømmelseskontekst. [[ai-feedback-quality|AI-feedbackkvalitet]] dækker, hvad der gør genererede kommentarer nøjagtige, brugbare, rettidige og pædagogisk forsvarlige, og denne side er den praktiske midterdel om, hvilke kombinationer af de dele der giver bedre feedback i stor skala.
+[[feedback|Feedback]] er paraplybegrebet for hele systemet: levering, loop, optagelse og bedømmelseskontekst. [[ai-feedback-quality|AI-feedbackkvalitet]] dækker, hvad der gør genererede kommentarer nøjagtige, brugbare, rettidige og pædagogisk forsvarlige, og det praktiske spørgsmål er, hvilke kombinationer af de dele der giver bedre feedback i stor skala.
 
 Spørgsmål om, hvad en karakter bør betyde, når AI er involveret, herunder konstruktsubstitution, autentificeret procesevidens og integritetsregler, hører til [[redesign-assessment-ai-era|at gentænke bedømmelse i AI-tidsalderen]] og [[assessment-validity|bedømmelsesvaliditet]] frem for her. Det særlige tilfælde med skriveundervisning findes i [[writing-instruction-ai-best-practices|bedste praksis for skriveundervisning i en AI-kontekst]].

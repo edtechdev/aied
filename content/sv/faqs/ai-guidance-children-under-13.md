@@ -12,9 +12,9 @@ research_method: [literature review, experiment]
 audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:03:31-05:00"
 translation_of: faqs/ai-guidance-children-under-13
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Leverantörens villkor säger att verktyget är för användare från 13 år. F�
 
 Tre frågor trasslar ihop sig i den förfrågan: vad en sexåring får göra med de här systemen, vad skolan är skyldig familjer vars barn möter AI hemma, och vad man gör när ett förbud inte är det svar du kan försvara.
 
-Det korta svaret du kan ge styrelsen: nivåindela åtkomsten efter ålder, lär barn hur de här systemen är byggda innan du räcker över ett, och håll en vuxen i loopen där barnet inte kan bedöma utdata. Ett generellt förbud är alternativet med minst evidens bakom sig. Ingen studie av åldersbaserade förbud finns i den här kunskapsbasen, och det mesta av den här åldersgruppens exponering sker hemma, där en skolregel inte når.
+Det korta svaret du kan ge styrelsen: nivåindela åtkomsten efter ålder, lär barn hur de här systemen är byggda innan du räcker över ett, och håll en vuxen i loopen där barnet inte kan bedöma utdata. Ett generellt förbud är alternativet med minst evidens bakom sig. Ingen studie av åldersbaserade förbud finns, och det mesta av den här åldersgruppens exponering sker hemma, där en skolregel inte når.
 
 ## Kortversionen
 
@@ -52,7 +52,7 @@ Deras utvärdering är en enda enkät efter exponeringen med 831 deltagare, och 
 
 De två utgåvorna visar också vad gränsen är till för. Grundskolebandet får plattformsbaserade aktiviteter som är stöttade och icke-generativa, så barnet lär sig vad systemet gör utan ett system som svarar tillbaka. Det avancerade bandet kopplar etiskt resonemang till övervakad generativ användning. Personal som förväntar sig att engagemang ska följa verktygets sofistikering finner oftast det motsatta.
 
-Det nivåindelningen ger dig är en försvarbar ordning för operationerna. Många skolor kör den baklänges, köper chattboten på hösten och undervisar om den på våren, och evidensen om den ordningen finns längre ner på den här sidan.
+Det nivåindelningen ger dig är en försvarbar ordning för operationerna. Många skolor kör den baklänges, köper chattboten på hösten och undervisar om den på våren, när den försvarbara ordningen är den omvända.
 
 ## Börja de yngsta med lek, skapande och maskiner
 
@@ -66,7 +66,7 @@ Undervisning om hur maskiner fungerar hör också till det här bandet. [[tsingi
 
 ## Flytta 9- till 12-åringarna till granskat, mestadels icke-generativt arbete
 
-Det här är bandet där läroplansbevisen är starkast. [[demir-akar-ai-media-literacy-children-2026|Demir och Akar (2026)]] körde ett 18 timmar långt, 5E-baserat program i kritisk mediekompetens för 36 turkiska fjärdeklassare som täckte dataintegritet, säker kommunikation och [[ethics|medieetik]], med Cohens *d* mellan grupperna på 1,12 för läsning, 1,18 för skrivning och 1,31 för total läskunnighet. Ett program som ryms inom en enda termin och rapporterar effekter av den storleken är det mest uppmuntrande resultatet på den här sidan.
+Det här är bandet där läroplansbevisen är starkast. [[demir-akar-ai-media-literacy-children-2026|Demir och Akar (2026)]] körde ett 18 timmar långt, 5E-baserat program i kritisk mediekompetens för 36 turkiska fjärdeklassare som täckte dataintegritet, säker kommunikation och [[ethics|medieetik]], med Cohens *d* mellan grupperna på 1,12 för läsning, 1,18 för skrivning och 1,31 för total läskunnighet. Ett program som ryms inom en enda termin och rapporterar effekter av den storleken är det mest uppmuntrande resultatet i den här litteraturen.
 
 Ålder 9 till 12 får stöttad exponering på plattformar som skolan har granskat, med de generativa delarna reserverade för senare och under övervakning. När barn kan läsa, argumentera och kontrollera ett påstående blir det arbetet att lära dem vad ett system gör, och verktyget kan komma in som studieobjekt snarare än som hjälpmedel.
 
@@ -126,7 +126,7 @@ För det här åldersbandet motsvarar det en sekvens: om och genom att forma fö
 
 Ett styrelsepapper kan lova ett översynsdatum och en definition av framgång som din skola faktiskt kan kontrollera: genomförda lektioner, lärare som kan svara på en förälders fråga, databegäranden besvarade skriftligt. Att hävda en lärandevinst skulle överträffa varje studie som citeras här.
 
-Det finns ingen studie av åldersbaserade förbud i den här kunskapsbasen. Inget här kan avgöra om de förbud som nu dyker upp i vissa skolsystem fungerar, och den ärliga versionen av den meningen hör hemma i ditt styrelsepapper. Vad evidensen däremot visar är att alternativet till ett förbud inte är laissez-faire. [[moral-panic-genai-classroom|Studien om tillgång till GenAI kontra integration]] fann att det att göra GenAI tillgängligt utan att lära eleverna hur man använder det var förknippat med signifikant lägre prestation på tillämpade frågor (ω² = 0,35), medan explicit undervisning i att använda det för uppgifter som sammanfattning återförde tillämpad prestation till nivåer före GenAI och överträffade baslinjen i ett svårare quiz. Det här åldersbandet går att undervisa: fjärdeklassprogrammet ovan gav effekter på *d* = 1,12 till 1,31.
+Det finns ingen studie av åldersbaserade förbud. Inget här kan avgöra om de förbud som nu dyker upp i vissa skolsystem fungerar, och den ärliga versionen av den meningen hör hemma i ditt styrelsepapper. Vad evidensen däremot visar är att alternativet till ett förbud inte är laissez-faire. [[moral-panic-genai-classroom|Studien om tillgång till GenAI kontra integration]] fann att det att göra GenAI tillgängligt utan att lära eleverna hur man använder det var förknippat med signifikant lägre prestation på tillämpade frågor (ω² = 0,35), medan explicit undervisning i att använda det för uppgifter som sammanfattning återförde tillämpad prestation till nivåer före GenAI och överträffade baslinjen i ett svårare quiz. Det här åldersbandet går att undervisa: fjärdeklassprogrammet ovan gav effekter på *d* = 1,12 till 1,31.
 
 ## Vad skolor missförstår
 
@@ -172,4 +172,4 @@ Det finns ingen studie av åldersbaserade förbud i den här kunskapsbasen. Inge
 
 ## Vart du går härnäst
 
-[[how-ai-impacts-students|Hur AI påverkar studenter]] täcker vad verktygen gör med lärandet, och [[incorporating-ai-literacy|Att integrera AI-kompetens]] med [[ai-literacy|AI-kompetens]] täcker vad man ska undervisa. [[parents-and-families|Föräldrar och familjer]] och [[early-childhood-elementary-ai-education|AI i förskola och lågstadium]] håller forskningsbasen för den här sidan, och [[equity-ethics-pedagogical-safety-research|Rättvisa, etik och pedagogisk säkerhet i AI-forskning]] är där integritets- och säkerhetsargumentet fortsätter. Om din fråga gäller bedömningssidan för äldre elever tar [[should-we-use-ai-detectors|Bör vi använda AI-detektorer?]] och [[reduce-ai-cheating|Att minska AI-fusk]] det vidare.
+[[how-ai-impacts-students|Hur AI påverkar studenter]] täcker vad verktygen gör med lärandet, och [[incorporating-ai-literacy|Att integrera AI-kompetens]] med [[ai-literacy|AI-kompetens]] täcker vad man ska undervisa. [[parents-and-families|Föräldrar och familjer]] och [[early-childhood-elementary-ai-education|AI i förskola och lågstadium]] håller forskningsbasen, och [[equity-ethics-pedagogical-safety-research|Rättvisa, etik och pedagogisk säkerhet i AI-forskning]] är där integritets- och säkerhetsargumentet fortsätter. Om din fråga gäller bedömningssidan för äldre elever tar [[should-we-use-ai-detectors|Bör vi använda AI-detektorer?]] och [[reduce-ai-cheating|Att minska AI-fusk]] det vidare.

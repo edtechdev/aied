@@ -8,9 +8,9 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:00:33-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -127,7 +127,7 @@ Giv kritikken af modellen som fagligt arbejde. Giv de studerende en AI-fortolkni
 
 ### STEM-kurser og laboratorierapporter
 
-Først et forbehold: denne vidensbase har langt stærkere evidens om AI-understøttet akademisk skrivning generelt end om skrivning af laboratorierapporter specifikt. Praktisk og laboratoriebaseret [[pedagogy|pædagogik]] er stadig underbelyst, også i [[engineering-education|ingeniøruddannelseslitteraturen]], så det følgende anvender fund om skrivning, udlicitering, validitet og ingeniørfag på en kontekst, som de studier ikke har testet.
+Først et forbehold: evidensen er langt stærkere for AI-understøttet akademisk skrivning generelt end om skrivning af laboratorierapporter specifikt. Praktisk og laboratoriebaseret [[pedagogy|pædagogik]] er stadig underbelyst, også i [[engineering-education|ingeniøruddannelseslitteraturen]], så det følgende anvender fund om skrivning, udlicitering, validitet og ingeniørfag på en kontekst, som de studier ikke har testet.
 
 Træk grænsen omkring videnskabelig ræsonnering snarere end omkring prosa som helhed. De studerende forbliver ansvarlige for observationer, rådata, beregninger, usikkerhed, figurer, analysevalg, resultater og ræsonnering fra påstand til evidens. Når disse ting findes, kan AI med rimelighed hjælpe med organisering, læsbarhed, overgange og faglige konventioner, hvilket er den samme opdeling mellem overflade og ræsonnement som i [[layer-sensitive-cognitive-offloading-writing-2026|Chens studie]].
 
@@ -151,7 +151,7 @@ De studerende drager selv en lignende grænse. I et bachelor-kursus i teknisk ko
 
 ## Bedøm evidensen, før du omskriver studieordningen
 
-Sagen for disse designs er lovende og endnu ikke stærk nok til at retfærdiggøre én universel politik for AI-skrivning. Noget af den bedste evidens kommer fra substantielle klasseværelsesstudier som [[pairr-ai-peer-review-2025|PAIRR]] med dets 654 studerende. Meget af resten hviler på kvasi-eksperimenter, små eksperimentelle stikprøver, begrebsanalyser og arbejde fra 2025-2026, der stadig er nyt: [[layer-sensitive-cognitive-offloading-writing-2026|Chens afgrænsede skrivestudie]] havde 168 studerende, men kun seks intakte klasser, [[ai-writing-support-stage-ownership-2026|ejerskabsstudiet]] brugte en kort eksperimentel skriveopgave, og et studie, der rapporterede øjeblikkelige kvalitetsgevinster efter ChatGPT-træning, omfattede kun 21 internationale førsteårsstuderende og fastslog ikke [[transfer-of-learning|transfer]] på lang sigt ([[chatgpt-academic-writing-quality-ownership-2026]]). Det, [[ai-education|AI i uddannelse]]-vidensbasen understøtter, er et sæt designprincipper, og det mest pålidelige fund på tværs af studier er at bevare de studerendes [[agency|handlekraft]], [[evaluative-judgment|evaluerende dømmekraft]], selvstændige kompetence, faglige ræsonnement og menneskelige feedback, mens AI bruges til at udvide adgangen til kritik, øvelse, revisionsstøtte og sproglig assistance.
+Sagen for disse designs er lovende og endnu ikke stærk nok til at retfærdiggøre én universel politik for AI-skrivning. Noget af den bedste evidens kommer fra substantielle klasseværelsesstudier som [[pairr-ai-peer-review-2025|PAIRR]] med dets 654 studerende. Meget af resten hviler på kvasi-eksperimenter, små eksperimentelle stikprøver, begrebsanalyser og arbejde fra 2025-2026, der stadig er nyt: [[layer-sensitive-cognitive-offloading-writing-2026|Chens afgrænsede skrivestudie]] havde 168 studerende, men kun seks intakte klasser, [[ai-writing-support-stage-ownership-2026|ejerskabsstudiet]] brugte en kort eksperimentel skriveopgave, og et studie, der rapporterede øjeblikkelige kvalitetsgevinster efter ChatGPT-træning, omfattede kun 21 internationale førsteårsstuderende og fastslog ikke [[transfer-of-learning|transfer]] på lang sigt ([[chatgpt-academic-writing-quality-ownership-2026]]). Det, [[ai-education|AI i uddannelse]] understøtter, er et sæt designprincipper, og det mest pålidelige fund på tværs af studier er at bevare de studerendes [[agency|handlekraft]], [[evaluative-judgment|evaluerende dømmekraft]], selvstændige kompetence, faglige ræsonnement og menneskelige feedback, mens AI bruges til at udvide adgangen til kritik, øvelse, revisionsstøtte og sproglig assistance.
 
 Den blanding har en praktisk konsekvens. Ændr én opgave, behold artefaktet, og sammenlign den næste årgang med denne på den samme måling. En regel, du kan revidere efter et semester, er mere værd end en politik, du ikke kan teste, og de små studier ovenfor fortæller dig ikke, hvad der sker i dit kursus.
 
@@ -169,7 +169,7 @@ Den blanding har en praktisk konsekvens. Ændr én opgave, behold artefaktet, og
 
 ## Hvad du vil få tilbage
 
-**»Jeg har ikke tid til at læse endnu et artefakt.«** Så gør artefaktet lille: fire kolonner i en beslutningstabel eller fem minutter af skrivning i undervisningen som den uafhængige prøve. Vidensbasen rapporterer ingen data om rettetid for disse designs, så arbejdsbelastningsargumentet må testes på én opgave snarere end antages ud fra denne side.
+**»Jeg har ikke tid til at læse endnu et artefakt.«** Så gør artefaktet lille: fire kolonner i en beslutningstabel eller fem minutter af skrivning i undervisningen som den uafhængige prøve. Der findes ingen data om rettetid for disse designs, så arbejdsbelastningsargumentet må testes på én opgave snarere end antages ud fra denne side.
 
 **»Mine studerende bruger AI, uanset hvad reglen siger.«** Det gør de, og designspørgsmålet er, hvilket svar din opgave gør nemmest. En redegørelse, der ikke koster noget, og en rubrik, der belønner processen, gør redegørelsen til den billigere vej. Den mekanisme kommer fra modellering snarere end fra et forsøg med en redegørelsespolitik, så behandl forudsigelsen som rimelig og ubekræftet.
 

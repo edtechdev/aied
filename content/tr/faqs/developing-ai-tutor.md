@@ -1,9 +1,11 @@
 ---
 title: "Etkili Bir YZ Eğitmeni Geliştirmeye Yönelik En İyi Uygulamalar Nelerdir?"
 created: "2026-10-14T21:30:00-04:00"
+updated: "2026-11-15T16:08:48-05:00"
 connected_faqs: [training-ai-tutors-to-guide-rather-than-answer, making-ai-better-at-supporting-learning, checking-whether-educational-ai-works, designing-educational-ai-software]
 weight: 74
 type: faq
+audience: [educational technology developers, software developers, instructional designers]
 foundations: [learner-identity]
 pedagogy: [scaffolding]
 technology: [intelligent-tutoring]
@@ -12,7 +14,7 @@ discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
 translation_of: faqs/developing-ai-tutor
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -56,7 +58,7 @@ Bir eğitmen, bir [[conversational-ai|sohbet robotunun]] etrafına sarılmış b
 
 [[intelligent-tutoring|Akıllı özel ders]] literatürü, etkililiğin tek başına model kapasitesine değil [[pedagogy|pedagojik]] tasarıma bağlı olduğunu ortaya koyar ve bu hata kazara kolayca inşa edilir. "Problemi bitirmek" için optimize edilmiş bir eğitmen, "problemi çözmeyi öğrenmek" için optimize edilmiş bir eğitmeni baltalar; üstelik yazdığınız her işlevsel testi geçer, çünkü ikisi de doğru nihai cevabı üretir. Fark, öğrencinin soru ile cevap arasında ne yaptığında yaşar.
 
-İkinci liste, geliştirme ekiplerinin somutlaştığı yerdir. "Türev ustalığı" gibi bir etiketi alın ve doğru türevi üretmek anlamına gelmesine izin vermeyin. Onu şu parçalara ayırın: bir türevin ne zaman uygun olduğunu tanıma, onu anlık değişim oranı olarak yorumlama, kuralı seçme, prosedürü yürütme, seçimin neden doğru olduğunu açıklama, makullüğünü kontrol etme ve onu tanıdık olmayan bir probleme uygulama. Bunların her biri kaydedilecek ayrı bir şeydir ve her biri eksik olduğunda farklı bir yanıt gerektirir. Bu ayrıştırma aynı zamanda [[correct-answer-trap-misconceptions|doğru cevap tuzağına]] karşı savunmadır: öğrenen hatalı bir akıl yürütmeyle doğru cevaba ulaşır ve analitiğiniz bir başarı kaydeder. [[correct-answer-trap-ai-tutor|Doğru Cevap Tuzağını Yakalamak]] ve [[zhang-tutormoments-2026|Yardımın Yararsız Olduğu Anlar]] bu hatanın üretimdeki versiyonlarını anlatır.
+İkinci liste, geliştirme ekiplerinin somutlaştığı yerdir. "Türev ustalığı" gibi bir etiketi alın ve doğru türevi üretmek anlamına gelmesine izin vermeyin. Onu şu parçalara ayırın: bir türevin ne zaman uygun olduğunu tanıma, onu anlık değişim oranı olarak yorumlama, kuralı seçme, prosedürü yürütme, seçimin neden doğru olduğunu açıklama, makullüğünü kontrol etme ve onu tanıdık olmayan bir probleme uygulama. Bunların her biri kaydedilecek ayrı bir şeydir ve her biri eksik olduğunda farklı bir yanıt gerektirir. Bu ayrıştırma aynı zamanda [[correct-answer-trap-misconceptions|doğru cevap tuzağına]] karşı savunmadır: öğrenen hatalı bir akıl yürütmeyle doğru cevaba ulaşır ve [[learning-analytics|analitiğiniz]] bir başarı kaydeder. [[correct-answer-trap-ai-tutor|Doğru Cevap Tuzağını Yakalamak]] ve [[zhang-tutormoments-2026|Yardımın Yararsız Olduğu Anlar]] bu hatanın üretimdeki versiyonlarını anlatır.
 
 ## Öğrenen modelini konuşmadan önce kurun
 
@@ -86,7 +88,7 @@ Yetkinlik arttıkça destek solar; [[scaffolding|iskele]] kavramının merkezind
 
 Merdiveni kurmanın nedensel kanıtı, korumasız bir GPT arayüzünün destekli matematik performansını artırıp sonraki desteksiz sınav performansını düşürdüğü bir saha deneyinden gelir. İpucu veren bir eğitmen bu öğrenme cezasını büyük ölçüde ortadan kaldırdı ([[generative-ai-guardrails-harm-learning|Korumasız üretken YZ öğrenmeye zarar verebilir]]). Kısıt mimaridir. Aynı model, farklı bir yardım davranışı verildiğinde, önemli olan ölçütte zıt sonuçlar üretti.
 
-Ustalık temelli bir alıştırma platformunda 6.000'den fazla ortaokul öğrencisiyle yapılan daha büyük bir randomize saha deneyi, merdivenin kayıtlarda nasıl göründüğünü gösterir. YZ desteğine atanan öğrenciler daha yavaş ilerledi ve daha az soru denedi, buna karşılık daha doğru yanıtladı. En net mekanizma, bir hatadan sonraki denemenin doğruluğuydu: doğru bir cevaba dönmek için daha az deneme gerekti. Bu desen verimli bir yavaşlamadır ve bir ipucu merdiveninin bırakması gereken izdir ([[making-ai-tutoring-productive-mastery-math-2026|YZ Özel Dersini Verimli Kılmak]]).
+Ustalık temelli bir alıştırma platformunda 6.000'den fazla ortaokul öğrencisiyle yapılan daha büyük bir [[rct|randomize]] saha deneyi, merdivenin kayıtlarda nasıl göründüğünü gösterir. YZ desteğine atanan öğrenciler daha yavaş ilerledi ve daha az soru denedi, buna karşılık daha doğru yanıtladı. En net mekanizma, bir hatadan sonraki denemenin doğruluğuydu: doğru bir cevaba dönmek için daha az deneme gerekti. Bu desen verimli bir yavaşlamadır ve bir ipucu merdiveninin bırakması gereken izdir ([[making-ai-tutoring-productive-mastery-math-2026|YZ Özel Dersini Verimli Kılmak]]).
 
 Aynı çalışma, kendi panolarınıza dair bir uyarı da sağlıyor. Üst üste üç doğru cevap istemek, platform tanımlı ustalığı keskin biçimde yükseltti ama bir hafta sonraki gecikmeli testte saptanabilir bir kazanç üretmedi. Gecikmeli teste dair en güçlü kanıt yalnızca YZ'nin ustalık iş akışının içinde oturduğu yerde ortaya çıktı (katsayı 0,085), tek başına erişilebilir olduğu yerde değil. Başarı ölçütünüz bir seri sayacıysa, seriyi optimize eden bir sistem sevk edersiniz.
 
@@ -116,7 +118,7 @@ Cevap sızması, yanlış anlamanın pekiştirilmesi, aşırı anlaşma, uygunsu
 
 ## Veri mimarisini aynı tasarım belgesine koyun
 
-Yalnızca pedagojik olarak gerekli öğrenen verisini toplayın ve her alanın neden var olduğunu söyleyebilin. Kalıcı bellek ya da bir [[student-modeling|öğrenen modeli]] tuttuğunuz yerlerde amacını öğrenen için görünür kılın, ona uygun kontrolü verin, hassas bilgileri koruyun, saklama süresini tanımlayın ve sonuçları ağır kararları bir eğitmene ya da başka bir [[human-in-the-loop-ai|insan]] kontrol noktasına yönlendirin. Öğrencinin hiç görmediği bir güven tahminini sessizce biriktiren bir öğrenen modeli hem bir veri koruma sorunu hem de pedagojik bir sorundur.
+Yalnızca pedagojik olarak gerekli öğrenen verisini toplayın ve her alanın neden var olduğunu söyleyebilin. Kalıcı bellek ya da bir [[student-modeling|öğrenen modeli]] tuttuğunuz yerlerde amacını öğrenen için görünür kılın, ona uygun kontrolü verin, hassas bilgileri koruyun, saklama süresini tanımlayın ve sonuçları ağır kararları bir eğitmene ya da başka bir [[human-in-the-loop-ai|insan]] kontrol noktasına yönlendirin. Öğrencinin hiç görmediği bir güven tahminini sessizce biriktiren bir öğrenen modeli hem bir [[privacy|veri koruma]] sorunu hem de pedagojik bir sorundur.
 
 Davranışı dil geçmişleri, yetenek düzeyleri, kültürel bağlamlar, [[accessibility|erişilebilirlik]] ihtiyaçları ile [[prior-knowledge|ön bilgi]] ve YZ deneyimi düzeyleri arasında denetleyin. Aynı hedefte farklı performans, arkasında bir öğrenci olan bir hatadır ve toplam doğruluk sayınızda görünmez.
 
@@ -213,9 +215,9 @@ Katılım hedeftir. Konuşma uzunluğu ve oturum sayısı ölçümlenmesi en ucu
 
 **"Randomize bir deney yürütemeyiz."** Randomize deney olmadan da öğrenci içi bir karşılaştırma yürütebilirsiniz: aynı hedef, ünite boyunca destekli, iki hafta sonra desteksiz test edilir ve destekli puan onun yanında raporlanır. Bu tasarım ürün sorusunu yanıtlar ve kontrol kolu gerektirmez. Size söyleyemeyeceği şey, eğitmeni hiç kullanmayan öğrenciler için karşı olgudur.
 
-**"Model bir satıcı API'si, dolayısıyla yardım davranışı bizim elimizde değil."** Basamaklar sizin orkestrasyon katmanınızda yaşar ve koruma kalkanı deneyinin sonucu modelleri değiştirmekten değil, eğitmenin ne söylemesine izin verildiğini değiştirmekten geldi. Satıcının eğitim sonrası çalışmasının hızlı yanıtlamaya çekeceğini bekleyin, çünkü ayarlandığı şey yardımseverliktir, ve kısıtlamayı kendi kodunuza koyun.
+**"Model bir satıcı API'si, dolayısıyla yardım davranışı bizim elimizde değil."** Basamaklar sizin orkestrasyon katmanınızda yaşar ve koruma kalkanı deneyinin sonucu modelleri değiştirmekten değil, eğitmenin ne söylemesine izin verildiğini değiştirmekten geldi. Satıcının [[llm-training-and-fine-tuning|eğitim sonrası]] çalışmasının hızlı yanıtlamaya çekeceğini bekleyin, çünkü ayarlandığı şey yardımseverliktir, ve kısıtlamayı kendi kodunuza koyun.
 
-**"Öğretmenler bir pano daha kullanmaz."** Sürekli tanı yayan bir panoyu kullanmazlar; K-12 derlemesi bunun dikkati kendi gözlemlerinden uzaklaştırdığını buldu. Onlara az sayıda yorumlanabilir sinyal, her öneriyi kabul etme ya da reddetme yolu ve hafta içinde bunlara bakacak zaman verin.
+**"Öğretmenler bir pano daha kullanmaz."** Sürekli tanı yayan bir panoyu kullanmazlar; [[k-12|K-12]] derlemesi bunun dikkati kendi gözlemlerinden uzaklaştırdığını buldu. Onlara az sayıda yorumlanabilir sinyal, her öneriyi kabul etme ya da reddetme yolu ve hafta içinde bunlara bakacak zaman verin.
 
 **"Kadromuzda disiplin uzmanı yok."** O zaman eğitmen genel geçer yöntem öğretir ve dersin gösterimi bir dönem içinde kayar. Tasarım aşamasında iki günlüğüne bir konu uzmanı, yanlış anlama listesini ve onaylı yöntem listesini yazmak için, projenin en ucuz kalemidir ve ekiplerin ilk kestiği kalemdir.
 

@@ -1,13 +1,14 @@
 ---
 title: "YZ Öğrenme Deneyiminin İçine Nasıl Tasarınmalıdır?"
 created: "2026-10-14T21:30:00-04:00"
-updated: "2026-11-01T11:35:17-05:00"
+updated: "2026-11-15T16:08:48-05:00"
 connected_faqs: [designing-educational-ai-software, developing-ai-tutor]
 weight: 72
+audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -33,7 +34,7 @@ ai_assist:
 
 **Öğrenme hedefinden ve o hedefi üreten etkinlikten başlayın; aynı modelin iskele mi yoksa cevap makinesi mi olacağına model değil tasarım karar verir.**
 
-Modül taslağında "YZ etkinliği" yazan bir satır var ve kimse bunun neyin yerini aldığını söyleyemiyor. Ya da bir öğretim elemanı, zaten iyi işleyen bir kursa sohbet robotu eklemek istedi ve sizin işiniz, kursu işler kılan kısmı bozmadan onu yerleştirmek.
+Modül taslağında "YZ etkinliği" yazan bir satır var ve kimse bunun neyin yerini aldığını söyleyemiyor. Ya da bir öğretim elemanı, zaten iyi işleyen bir kursa [[conversational-ai|sohbet robotu]] eklemek istedi ve sizin işiniz, kursu işler kılan kısmı bozmadan onu yerleştirmek.
 
 Öğrenme hedefinden ve o hedefi üreten etkinlikten başlayın. Aynı model bir iskele, bir [[socratic-method|Sokratik]] ortak, bir taslak okuyucusu, bir [[simulation|simülasyon]] ya da bir cevap makinesi olabilir; hangisini elde ettiğiniz modelden çok tasarıma bağlıdır. İnşa ettiğiniz modu adlandırın, herhangi bir yardım görünmeden önce öğrenenin denemesini koyun ve kursta araç olmadan işleyen en az bir yol bırakın.
 
@@ -51,7 +52,7 @@ Modül taslağında "YZ etkinliği" yazan bir satır var ve kimse bunun neyin ye
 
 ## Öğrenenin araç olmadan ne yaptığına karar verin
 
-Bilgi tabanındaki [[pedagogy|Pedagojiler ve Öğretim Stratejileri]] kavramı testi verir: bu yapılandırma, amaçlanan öğrenmeyi üreten etkinliği koruyor mu? Bunu, kimse bir özellik seçmeden önce kâğıt üzerinde yanıtlayın.
+[[pedagogy|Pedagojiler ve Öğretim Stratejileri]] kavramı testi verir: bu yapılandırma, amaçlanan öğrenmeyi üreten etkinliği koruyor mu? Bunu, kimse bir özellik seçmeden önce kâğıt üzerinde yanıtlayın.
 
 [[finkelstein-principled-ai-education-2025|İlkeli YZ Eğitimi Çerçevesi]] genel kuralı koyar: teknoloji, eğitimin geliştirmeyi amaçladığı insan kapasitelerini yerinden etmek yerine onları güçlendirmelidir. Bir modül için teste çevrildiğinde bu, kapasiteyi adlandırmak, onu inşa eden etkinliği adlandırmak ve YZ'nin o etkinliğin içinde mi yoksa yanında mı durduğunu sormak demektir.
 
@@ -81,7 +82,7 @@ YZ tasarımı için bundan iki ders çıkar. Aracı, dizinin bir etkinlik türü
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] zamanı öğrencinin bir özelliği değil, tasarlanmış bir iskele olarak ele alır: kendi hızında ilerleyen bir ders, haftada yaklaşık 100 dakikalık bir kota, günde 20 dakikaya yakın bir hedef, zamanı gözeten hatırlatmalar, bir ilerleme panosu ve her alt bölümün sonunda 3 ila 12 soruluk kısa bir kontrol içerir. Bu tasarımın yanıt verdiği başlangıç çizgisi çarpıcı: 600'den fazla öğrenenin neredeyse yüzde 25'i yalnızca son hafta başladı ve bu grubun yüzde 95'i başarısız oldu.
 
-Bunu kanıtlanmış bir etki değil, bir tasarım sorusu olarak okuyun. Makale kontrollü bir deney yürütmek yerine sonraki bir dersi öncekiyle karşılaştırıyor; bu yüzden iyileşme, kohort ve ders değişiminden ayrılamaz. Ayrıca çalışma zamanlamasını kaydıracak kadar güçlü hatırlatmalar, izlence içinde yanıtlamanız gereken bir [[privacy]] sorunudur da.
+Bunu kanıtlanmış bir etki değil, bir tasarım sorusu olarak okuyun. Makale [[rct|kontrollü bir deney]] yürütmek yerine sonraki bir dersi öncekiyle karşılaştırıyor; bu yüzden iyileşme, kohort ve ders değişiminden ayrılamaz. Ayrıca çalışma zamanlamasını kaydıracak kadar güçlü hatırlatmalar, izlence içinde yanıtlamanız gereken bir [[privacy|gizlilik]] sorunudur da.
 
 ## Neyi esirgeyeceğinize ve ne zaman geri vereceğinize karar verin
 
@@ -109,7 +110,7 @@ Verimlilik, yeniden tasarımın hedefi sayılır. Bir modelle çıktı ve rubrik
 
 **"Koca bir kursu yeniden sıralamaya vaktimiz yok."** O zaman bir modülü ve bir değerlendirmeyi yeniden sıralayın. Alıkoy-sonra-çoğalt menteşesi tek bir denetim noktasıdır, önce düşün dizisi ise bir föydeki üç yönergedir.
 
-**"YZ özelliğimizde zaten koruma bariyerleri var."** Koruma bariyerleri modelin ne söylediğini sınırlar. Öğrenenin önce deneyip denemediğini, desteğin azalıp azalmadığını ya da YZ'siz bir yolun bulunup bulunmadığını belirlemezler. Bunlar üründeki ayarlar değil, sizin kursunuzdaki tasarım kararlarıdır.
+**"YZ özelliğimizde zaten [[guardrails|koruma bariyerleri]] var."** Koruma bariyerleri modelin ne söylediğini sınırlar. Öğrenenin önce deneyip denemediğini, desteğin azalıp azalmadığını ya da YZ'siz bir yolun bulunup bulunmadığını belirlemezler. Bunlar üründeki ayarlar değil, sizin kursunuzdaki tasarım kararlarıdır.
 
 ## Bu hafta ne yapmalı
 

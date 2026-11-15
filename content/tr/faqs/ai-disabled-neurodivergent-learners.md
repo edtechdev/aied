@@ -3,6 +3,7 @@ title: "Kursumda Engelli ve Nöroçeşitli Öğrenenleri YZ Nasıl Destekleyebil
 created: "2026-10-14T22:15:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, reducing-over-reliance]
 weight: 65
+updated: "2026-11-15T16:08:48-05:00"
 type: faq
 methods: [meta-analysis-systematic-review]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -10,7 +11,7 @@ research_method: [case study]
 audience: [instructors, instructional designers]
 level: [higher ed, k 12, special education]
 translation_of: faqs/ai-disabled-neurodivergent-learners
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -28,7 +29,7 @@ ai_assist:
 
 Uyarlama mektubu bir öğrenciyi, bir dersi ve hiç duymadığınız bir aracı adlandırıyor. Ya da bir öğrenci, süreli bir sınavda konuşma-metin yazılımını kullanmaya devam edip edemeyeceğini makul bir dille soruyor ve dersinizin YZ kuralı hiçbir türde YZ kullanılamayacağını söylüyor. Ya da erişilebilirlik ofisi cuma gününe kadar bir okuma aracının lisanslanıp lisanslanmayacağına dair yanıt istiyor ve satıcının kanıtı başka bir kampüsten alınmış bir referans mektubu.
 
-Üçünün de altından kalkan yanıt şu: görevin yarattığı engelden başlayın, gerçekten ölçülmüş araçları kullanın ve benimsediğiniz her şeyi öğretin. İki kural herhangi bir ürün seçiminden daha önemli. YZ politikanızda konuşma-metin dönüştürmeyi ve OCR'ı başlı başına uyarlamalar olarak adlandırın ve öğrencilerden çıkarmalarını istemek yerine ödeve yapıyı verin. Kanıtlara dürüstçe bakın: bu sayfadaki en güçlü sayı, çoğunlukla üretici YZ döneminden önceki YZ'yi kullanan PK-12 özel eğitim ortamlarından geliyor ve yükseköğretim literatürü, neyin denendiğinin bir haritası.
+Üçünün de altından kalkan yanıt şu: görevin yarattığı engelden başlayın, gerçekten ölçülmüş araçları kullanın ve benimsediğiniz her şeyi öğretin. İki kural herhangi bir ürün seçiminden daha önemli. YZ politikanızda konuşma-metin dönüştürmeyi ve OCR'ı başlı başına uyarlamalar olarak adlandırın ve öğrencilerden çıkarmalarını istemek yerine ödeve yapıyı verin. Kanıtlara dürüstçe bakın: en güçlü sayı, çoğunlukla üretici YZ döneminden önceki YZ'yi kullanan PK-12 özel eğitim ortamlarından geliyor ve yükseköğretim literatürü, neyin denendiğinin bir haritası.
 
 ## Kısa özet
 
@@ -54,17 +55,17 @@ Aynı uyarı grup istatistikleri için de geçerli. [[differential-effects-acros
 
 ## Ölçülmüş olanı kullanın ve etiketi okuyun
 
-Bu sayfadaki en güçlü [[quantitative-research|nicel]] sonuç aynı zamanda en genel olanı ve satın alma kararınıza taşımanız gereken sınırlarla birlikte geliyor.
+En güçlü [[quantitative-research|nicel]] sonuç aynı zamanda en genel olanı ve satın alma kararınıza taşımanız gereken sınırlarla birlikte geliyor.
 
 [[zhang-ai-students-disabilities-meta-analysis-2024|Zhang, Carter, Liu ve Peng (2024)]], [[inclusive-learning|engelli öğrencilere]] yönelik YZ temelli müdahalelere ilişkin 29 (yarı)deneysel çalışmayı sentezledi: 41 bağımsız örneklemden 239 etki büyüklüğü, öğrenme çıktıları üzerinde istatistiksel olarak anlamlı orta düzeyde bir genel etki (Hedges' g = 0,588; %95 GA [0,349, 0,826]; p < .01) ve çalışmalar arası yüksek heterojenlik. Akademik performans en büyük çıktı alt grubuydu (k = 80, g = 0,929), sosyal-duygusal beceriler en küçüğü (k = 144, g = 0,382). [[speech-and-voice-technologies|Konuşma tanıma]], uzman sistemler ve [[intelligent-tutoring|akıllı özel ders sistemleri]] anlamına gelen bilgisayar yazılımı güçlü (k = 74, g = 0,959), [[educational-robotics|robotlar]] orta düzeyde (k = 144, g = 0,509) performans gösterdi; akıllı VR (g = 0,528) ise anlamlı değildi. Yayın yanlılığı mevcuttu (Egger β = 2,837, p < .001); kırp-ve-doldur yöntemi tahmini g = 0,269'a indirdi, yine de anlamlıydı.
 
-Her çalışma PK-12 düzeyindeydi. %96,6'sı özel eğitim veya klinik ortamlarda adım temelli öğretim kullandı ve çoğu [[generative-ai|üretici YZ]] yerine daha eski kural tabanlı YZ kullandı. Bu, yapılandırılmış öğretim yazılımının temkinli biçimde benimsenmesini destekler. Genel amaçlı bir sohbet robotuna aktarılamaz ve aktarıldığını varsaymak bu sayfadaki en pahalı hatadır.
+Her çalışma PK-12 düzeyindeydi. %96,6'sı özel eğitim veya klinik ortamlarda adım temelli öğretim kullandı ve çoğu [[generative-ai|üretici YZ]] yerine daha eski kural tabanlı YZ kullandı. Bu, yapılandırılmış öğretim yazılımının temkinli biçimde benimsenmesini destekler. Genel amaçlı bir sohbet robotuna aktarılamaz ve aktarıldığını varsaymak mevcut en pahalı hatadır.
 
 Üç küçük sonuç, engel dar olduğunda tek bir aracın neler yapabildiğini gösteriyor. Her biri bir avuç öğrenci üzerinde test edildi; bu yüzden onları altyapı değil, düşük maliyetli ve geri alınabilir deneyler olarak değerlendirin.
 
 Dikkat için [[adhd-video-segmentation-computing-education|Pimenova, Begel ve arkadaşları (2026)]], [[video-education|öğretim videolarını]] sonradan sabit duraklamalarla tek yönergeli parçalara ayırdı. DEHB'li 17 ve DEHB'siz 10 öğrenciyle herkesin performansını iyileştirdi ve DEHB'li katılımcıların hatalarını ve tereddütlerini eşit düzeye getirdi. Eşitleyici etki, materyalin hafif bir dönüşümünden geldi.
 
-Dil erişimi için [[llm-question-generation-deaf-hard-of-hearing-2026|Chen ve arkadaşları (2026)]], bir [[llm]] temel setine Görsel sorular (görsel bilginin yanlış okunma olasılığının yüksek olduğu zaman damgaları) ve Duygu soruları (önceki Sağır ve Az İşiten öğrencilerin hayal kırıklığı bildirdiği zaman damgaları) ekleyerek 30 soru üretti; her stratejiden on tane. 16 öğrenciyle, yedi puanlık bir ölçekte [[self-efficacy|öz yeterlik]] ortalama 5,70 (SS = 1,12) oldu ve görsel sorular Sağır katılımcılar tarafından az işiten katılımcılardan daha sık seçildi.
+Dil erişimi için [[llm-question-generation-deaf-hard-of-hearing-2026|Chen ve arkadaşları (2026)]], bir [[llm|LLM]] temel setine Görsel sorular (görsel bilginin yanlış okunma olasılığının yüksek olduğu zaman damgaları) ve Duygu soruları (önceki Sağır ve Az İşiten öğrencilerin hayal kırıklığı bildirdiği zaman damgaları) ekleyerek 30 soru üretti; her stratejiden on tane. 16 öğrenciyle, yedi puanlık bir ölçekte [[self-efficacy|öz yeterlik]] ortalama 5,70 (SS = 1,12) oldu ve görsel sorular Sağır katılımcılar tarafından az işiten katılımcılardan daha sık seçildi.
 
 Okuma ve yazma için [[dyslexlens-dyslexic-learners-ai|Rezazadegan ve arkadaşları (2026)]], disleksik öğrencilerin kendi forum tartışmalarını taradı. Bu öğrenciler YZ'yi okuryazarlık desteği için değerli buluyor, çıktı kalitesinin tutarsızlığından ve [[equity-in-ai-education|eşitlikçi]] uyarlamaların yokluğundan yakınıyordu. Tutarsızlığın kendisi bir engeldir: güvenilemeyen bir araç, işi kaldırmak yerine iş ekler.
 
@@ -87,15 +88,15 @@ Belgelenmiş başarısızlık, eğitim verilmeden sağlanan bir uyarlamadır. *W
 
 Bu başarısızlığı olası kılan iki şey var ve ikisi de kurumsal. [[shin-ai-policies-sld-2026|Shin ve arkadaşları (2026)]], 2015'ten 2025'e kadar 12 ABD YZ-[[educational-policy-ai|eğitim politikası]] belgesinde LLM tabanlı konu modellemesi ve 17 uzmanla iki tur Delphi anketi kullandı. Eğitimci hazırlığı, doğrulanmış beş temalarından biri ve 36 maddenin 4'ünü taşıyor; uzmanlar öğrenci güçlendirmeyi ve [[ai-literacy|YZ okuryazarlığını]] en temel olarak sıraladı: bu öğrenciler YZ'yi sorumlu ve bağımsız biçimde kullanmayı öğrenmeli, aşırı güvene karşı korunma da aynı becerinin parçası olarak öğretilmeli. [[ludia-udl-ai-thought-partner-2026|LUDIA]]'nın yazarları engeli "bilme-yapma uçurumu" olarak adlandırıyor: rehberlik bol miktarda var, genel terimlerle yazılmış ve bir engel her zaman bu odaya, bu haftaya özgüdür.
 
-Bu sayfanın size veremeyeceği şey bir eğitim protokolü. Eğitimcilerin veya ailelerin bu öğrenciler için YZ'yi uygulamasına yardımcı olacak resmî kanıta dayalı kılavuzlar yok; dolayısıyla eğitimin miktarı, sıralaması ve kimin vereceği bir muhakeme meselesi. İçtihat hukuku standardı değil tabanı belirler: öğrenci sonunda o şeyi yapabilir hale gelmeli ve birileri onu oraya ulaştırmaktan sorumlu olmalı.
+Kanıtın size veremeyeceği şey bir eğitim protokolü. Eğitimcilerin veya ailelerin bu öğrenciler için YZ'yi uygulamasına yardımcı olacak resmî kanıta dayalı kılavuzlar yok; dolayısıyla eğitimin miktarı, sıralaması ve kimin vereceği bir muhakeme meselesi. İçtihat hukuku standardı değil tabanı belirler: öğrenci sonunda o şeyi yapabilir hale gelmeli ve birileri onu oraya ulaştırmaktan sorumlu olmalı.
 
 ## Konuşma-metin dönüştürmeyi ve OCR'ı adıyla YZ kuralına yazın
 
 [[wright-transcription-not-generation-2026|Wright (2026)]], tüm "YZ kullanımını" aynı sayan kuralların aşırı kapsayıcı olduğunu savunuyor; çünkü bu kurallar konuşma-metin dönüştürmeyi ve OCR'ı üretici taslaktan ayırmıyor. İnce motor kontrolünü, el yazısı okunaklılığını veya yazma doğruluğunu etkileyen durumları olan öğrenciler Dragon NaturallySpeaking gibi bağımsız ses-metin ürünlerine ve bağımsız OCR'a güvenmiştir; bunların birkaçı kaldırılmış ya da işlevselliği düşürülmüş, işlevsel boşluğu YZ destekli dönüştürme doldurmuştur.
 
-"YZ yok" diye yazılmış bir kural, bu nedenle öğrencinin okunaklı iş üretmesinin birincil aracını elinden alabilir. Bu yer değiştirmenin ölçeğini henüz kimse ölçmedi; bu da sayıyı beklemek yerine açık olmak için bir nedendir. Politikada taslak yasaklarının yanı sıra konuşma-metin dönüştürmeyi ve OCR'ı uyarlama olarak adlandırın; böylece iki soru ayrı ayrı karara bağlanır. Bunun kurum için yarattığı risk [[legal-issues-and-risks]] sayfasına aittir.
+"YZ yok" diye yazılmış bir kural, bu nedenle öğrencinin okunaklı iş üretmesinin birincil aracını elinden alabilir. Bu yer değiştirmenin ölçeğini henüz kimse ölçmedi; bu da sayıyı beklemek yerine açık olmak için bir nedendir. Politikada taslak yasaklarının yanı sıra konuşma-metin dönüştürmeyi ve OCR'ı uyarlama olarak adlandırın; böylece iki soru ayrı ayrı karara bağlanır. Bunun kurum için yarattığı risk [[legal-issues-and-risks|yasal sorunlar ve riskler]] sayfasına aittir.
 
-Bu, çoğu belgede tek satırlık bir düzeltmedir ve bu sayfadaki sonuçları en ağır satırdır.
+Bu, çoğu belgede tek satırlık bir düzeltmedir ve politikadaki en ağır satırdır.
 
 ## Ödevin varsaydığı yerde yapıyı verin
 
@@ -109,7 +110,7 @@ Toplam etkiler size bir yön verir. Aracın gelecek hafta sizin şubenizdeki ö�
 
 Bu ölçütü üç uyarı biçimlendirmeli. Birincisi, alt grup sıralamasının yerleşik değil sezdirici olması: 2024 meta-analizinde hiçbir türden moderatör anlamlılığa ulaşmadı; dolayısıyla [[learning-by-teaching|öğretilebilir ajanların]] (g = 1,100) sosyal-duygusal koçların (g = 0,336) önünde yer alması ya da ikili etkileşimin üçlü etkileşimin önünde olması (g = 0,973'e karşı g = 0,385) yerleşmiş kabul edilmemelidir. Etkinin yönü destekleniyor; büyüklüğü, tasarım optimumu ve herhangi bir kazanımın kalıcılığı desteklenmiyor.
 
-İkincisi, bu derlemin ölçülmüş öğrenmeden çok uygulamaları ve algıları betimlemesi. Dikkat (n = 4) ve sosyal iletişim (n = 5) en az çalışılmış engellerdir ve (yarı)deneysel ve boylamsal tasarımların kıtlığı, yükseköğretim çalışmasının neden meta-analiz değil kapsam belirleme derlemesi olduğunu açıklar. Kapsam lisans ve Küresel Kuzey yönünde çarpıktır, arama İngilizce hakemli çalışmalarla sınırlıydı ve lisansüstü öğrenciler yetersiz temsil ediliyor. Katılım ve memnuniyet zayıf göstergelerdir.
+İkincisi, literatürün ölçülmüş öğrenmeden çok uygulamaları ve algıları betimlemesi. Dikkat (n = 4) ve sosyal iletişim (n = 5) en az çalışılmış engellerdir ve (yarı)deneysel ve boylamsal tasarımların kıtlığı, yükseköğretim çalışmasının neden meta-analiz değil kapsam belirleme derlemesi olduğunu açıklar. Kapsam lisans ve Küresel Kuzey yönünde çarpıktır, arama İngilizce hakemli çalışmalarla sınırlıydı ve lisansüstü öğrenciler yetersiz temsil ediliyor. Katılım ve memnuniyet zayıf göstergelerdir.
 
 Üçüncüsü, bir engeli düzelten aracın bir başkasını bırakabilmesi. Aracı öğrencinin bildirdiği belirli güçlüğe göre kontrol edin — okuma ve yazma, çalışma yönetimi, dikkat ya da sosyal iletişim — ve öğrencinin ürün hakkında ne hissettiğine göre değil o güçlüğe göre değerlendirin. Öğrenciye neyi sayacağını sorun. Zastudil ve arkadaşlarının katılımcıları da Rezazadegan ve arkadaşlarının forum yazarları da ihtiyaçlarını, kendileri için yapılmış ürünlerin tarif ettiğinden daha kesin tarif ediyor.
 
@@ -131,7 +132,7 @@ Bir tanı bana hangi aracı satın alacağımı söyler. Engeller tanıların i�
 
 Bir uyarlama kişisel bir düzenlemedir, dolayısıyla çözüm öğrenciye aittir. Bazıları öyledir ve genelleştirmeye değer olanlar zaten tasarlamış olacağınız şeylerdir. Parçalama çalışmasındaki her öğrenciye yardım etti. Tasarım değişiklikleri kendini açıklama adımını ve onunla birlikte damgalamayı ortadan kaldırır.
 
-Katılım ve memnuniyet aracın işe yaradığını gösterir. Öğrencinin onu sevdiğini gösterirler. Bu derlem çoğunlukla uygulamalar ve algılardır ve 40 yükseköğretim çalışmasının yalnızca 6'sı birden fazla engele hizmet etmiştir; dolayısıyla memnun bir öğrenci henüz bir engelin kalktığının kanıtı değildir.
+Katılım ve memnuniyet aracın işe yaradığını gösterir. Öğrencinin onu sevdiğini gösterirler. Literatür çoğunlukla uygulamalar ve algılardır ve 40 yükseköğretim çalışmasının yalnızca 6'sı birden fazla engele hizmet etmiştir; dolayısıyla memnun bir öğrenci henüz bir engelin kalktığının kanıtı değildir.
 
 Desteği araç taşır, öğretim ise ekstra bir şeydir. İçtihat hukuku öğretilmemiş aracı başarısızlık sayar ve politika uzmanları öğrenci güçlendirme ile YZ okuryazarlığını en temel temaları olarak sıraladı. Öğretim süresini lisansla birlikte bütçeleyin.
 
@@ -161,4 +162,4 @@ Desteği araç taşır, öğretim ise ekstra bir şeydir. İçtihat hukuku öğr
 
 ## Bundan sonra nereye gidilir
 
-[[universal-design-for-learning]] engelleri ortaya çıkmadan önleyen tasarım yaklaşımını, [[assistive-technology]] öğrencinin kullandığı araç katmanını, [[accessibility]] bir biçimin hiç algılanıp işletilip işletilemeyeceğini ve [[neurodiversity]] farklılığı eksiklik değil çeşitlilik olarak gören bakışı ele alır; hepsi [[inclusive-learning]] şemsiyesi altındadır. [[reducing-over-reliance]] bir aracın yardım etmeyi sürdürüp sürdürmeyeceğini belirleyen aşırı güven ve tersine dönme etkilerini, [[equity-ethics-pedagogical-safety-research|eşitlik, erişilebilirlik, gizlilik, etik ve pedagojik güvenliğin YZED araştırmasına dahil edilmesi]] ise araştırma tarafındaki yükümlülükleri ele alır.
+[[universal-design-for-learning|Evrensel Öğrenme Tasarımı]] engelleri ortaya çıkmadan önleyen tasarım yaklaşımını, [[assistive-technology|yardımcı teknoloji]] öğrencinin kullandığı araç katmanını, [[accessibility|erişilebilirlik]] bir biçimin hiç algılanıp işletilip işletilemeyeceğini ve [[neurodiversity|nöroçeşitlilik]] farklılığı eksiklik değil çeşitlilik olarak gören bakışı ele alır; hepsi [[inclusive-learning|kapsayıcı öğrenme]] şemsiyesi altındadır. [[reducing-over-reliance]] bir aracın yardım etmeyi sürdürüp sürdürmeyeceğini belirleyen aşırı güven ve tersine dönme etkilerini, [[equity-ethics-pedagogical-safety-research|eşitlik, erişilebilirlik, gizlilik, etik ve pedagojik güvenliğin YZED araştırmasına dahil edilmesi]] ise araştırma tarafındaki yükümlülükleri ele alır.

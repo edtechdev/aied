@@ -1,7 +1,7 @@
 ---
 title: "Hvad bør studerende lære til karrierer, hvor AI er almindeligt?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T15:57:06-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
@@ -48,6 +48,8 @@ Det korte svar til en kollega: undervis i den komplette professionelle opgave, i
 [[ithaka-sr-ai-skills-college-graduates-2026|Ithaka S+R's rapport]] bad 500 amerikanske undervisere på fireårige universitetsuddannelser vurdere 26 færdigheder fra en ramme med syv kategorier og sammenlignede deres vurderinger med et panel af arbejdsgivere, som rammens forfattere havde undersøgt. Uenigheden er systematisk og ikke tilfældig: underviserne rangerede AI'ens grænser, kildeangivelse og menneskeligt ansvar i top, mens arbejdsgiverne rangerede arbejdsgangsdesign, automatisering og menneske-AI-teamsamarbejde højere.
 
 To læsninger af det gab frister, og begge er forkerte. Den første er, at underviserne er bagud i forhold til arbejdsmarkedet. Den anden er, at arbejdsgivere vil have lydighed. En mere brugbar læsning er, at hver gruppe beskriver en anden halvdel af det samme job, og en kandidat, der kun kan den ene halvdel, er dårligt forberedt til begge. En studerende, der ikke kan forklare, hvorfor et resultat er forkert, er til ingen nytte for en arbejdsgiver, der stoler på arbejdsgangen; en studerende, der kun kan kritisere AI-output, er til ingen nytte for en arbejdsgiver, der har brug for, at opgaven bliver færdig.
+
+At omsætte et arbejdsgiversignal til en ændring af pensum er selv en proces med beslutningspunkter. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] foreslår seks faser — sansning, interessentvalidering, programdiagnose, pensumredesign, implementering og kapacitet samt revurdering af resultater — hver med en navngivet beslutningsret og et ansvarligt output, og begrænser AI til afgrænsede støttefunktioner som mønstergenkendelse og kompetencekortlægning. Det er et forslag, ikke en evaluering, men det navngiver de trin, som en anmodning fra et rådgivningsudvalg normalt springer over.
 
 Evidensens grænser betyder noget. Det er angivne prioriteter fra spørgeskemaer, og rapporten viser ikke, at nogen studieordning giver bedre ansættelser, bedre præstation eller bedre løn. Det, den giver dig, er en forsvarlig grund til at spørge, om dine studerende nogensinde øver sig i at gennemføre og tjekke en AI-støttet arbejdsgang, frem for at tale om den.
 

@@ -1,6 +1,7 @@
 ---
 title: "YZ Öğrenci Kaygısını ve İyi Oluşu Nasıl Etkiler, ve Ne Yapabiliriz?"
 created: "2026-10-14T22:00:00-04:00"
+updated: "2026-11-15T16:08:48-05:00"
 connected_faqs: [how-ai-impacts-students, study-with-ai]
 weight: 60
 type: faq
@@ -10,7 +11,7 @@ research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
 translation_of: faqs/ai-anxiety-wellbeing
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:

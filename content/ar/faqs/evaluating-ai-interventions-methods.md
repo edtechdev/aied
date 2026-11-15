@@ -1,13 +1,14 @@
 ---
 title: "ما المقاييس ومناهج البحث التي يمكن للمدرّس استخدامها لتقييم التدخلات المرتبطة بالذكاء الاصطناعي؟"
 created: "2026-10-13T00:08:00-04:00"
+updated: "2026-11-15T16:08:20-05:00"
 connected_faqs: [does-ai-help-students-learn, checking-whether-educational-ai-works, research-gaps-aied]
 weight: 55
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -71,7 +72,7 @@ ai_assist:
 
 أحجام الأثر المنشورة تنتقل إلى صفي. تحليلات أوّنيل البعدية الـ14 لم تستطع دعم الادعاءات المبنية عليها، وكل فاصلَي تنبؤ أبلغ عنهما شملا الصفر.
 
-تحليلات المنصة تقيس جودة التدريس. فالوكيل الثالث عند تشانغ كان الأخير على سلم الخبراء.
+[[learning-analytics|تحليلات المنصة]] تقيس جودة التدريس. فالوكيل الثالث عند تشانغ كان الأخير على سلم الخبراء.
 
 ## ما سيعود إليك
 

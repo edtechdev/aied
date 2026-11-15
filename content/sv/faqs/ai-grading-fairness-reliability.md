@@ -1,7 +1,7 @@
 ---
 title: "Kan jag använda AI för att bedöma studentarbeten rättvist och tillförlitligt?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:03:31-05:00"
 type: faq
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale, should-we-use-ai-detectors, checking-whether-educational-ai-works, ai-bias-fairness-education]
 weight: 84
@@ -11,7 +11,7 @@ methods: [quantitative-research, mixed-methods-research]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, assessment professionals, administrators]
 level: [higher ed]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-grading-fairness-reliability
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
@@ -46,11 +46,11 @@ Här är det korta svaret: AI-bedömning förtjänar en plats som granskande ass
 
 Tre arrangemang kallas "AI-bedömning", och de bär olika förpliktelser.
 
-En **återkopplingsassistent** skriver utkast till kommentarer eller flaggar möjliga utelämnanden som du kan acceptera, skriva om eller kasta. Risken är begränsad till kommentarens kvalitet, och du läser allt innan det når en student. En **andre läsare** föreslår kriteriepoäng eller flaggar meningsskiljaktigheter för att strukturera din egen rättning. Dess fel måste vara användbara och inte bara felaktiga: en flagga som skickar tillbaka dig till en inlämning du annars hade rättat slarvigt är värd att ha. En **primär bedömare** producerar poäng som blir registrerade betyg. Det är det arrangemang som evidensen i den här kunskapsbasen inte stöder utanför snäva, lokalt validerade fall.
+En **återkopplingsassistent** skriver utkast till kommentarer eller flaggar möjliga utelämnanden som du kan acceptera, skriva om eller kasta. Risken är begränsad till kommentarens kvalitet, och du läser allt innan det når en student. En **andre läsare** föreslår kriteriepoäng eller flaggar meningsskiljaktigheter för att strukturera din egen rättning. Dess fel måste vara användbara och inte bara felaktiga: en flagga som skickar tillbaka dig till en inlämning du annars hade rättat slarvigt är värd att ha. En **primär bedömare** producerar poäng som blir registrerade betyg. Det är det arrangemang som evidensen inte stöder utanför snäva, lokalt validerade fall.
 
 Välj det lägsta steget som adresserar din faktiska begränsning. Om din rättningsbörda kommer från att kontrollera ett fast facit är vanlig deterministisk poängsättning mer transparent och granskningsbar än en [[llm|språkmodell]], och farmacistudien antyder att LLM:ens fördel på objektiva uppgifter delvis var en artefakt av att den fick de korrekta svaren under bedömningen. Spara modellen till arbete som kräver tolkning, och kontrollera sedan tolkningen.
 
-[[automated-assessment|Automatiserad bedömning]] täcker den vidare maskineriet för poängsättning, moderation och generering av återkoppling. Den här sidan är omdömesfrågan under allt detta.
+[[automated-assessment|Automatiserad bedömning]] täcker den vidare maskineriet för poängsättning, moderation och generering av återkoppling. Omdömesfrågan under allt detta är huruvida något av maskineriet är rättvist och tillförlitligt nog att registrera ett betyg.
 
 ## Vad evidensen faktiskt visar
 

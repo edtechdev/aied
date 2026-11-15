@@ -8,9 +8,9 @@ assessment: [educational-measurement]
 research_method: [literature review]
 level: [higher ed]
 audience: [instructors, researchers, administrators]
-updated: "2026-10-29T12:23:32-04:00"
+updated: "2026-11-15T16:01:30-05:00"
 translation_of: faqs/ai-literacy-evidence
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -40,7 +40,7 @@ Svaret til det lokale, og evidensens tilstand i [[higher-ed|videregående uddann
 
 ## Byg sekvensen op omkring en kritik
 
-Det stærkeste klasseværelseseksempel i vidensbasen kommer fra bachelorpsykologi. Richmond og Nicholls lod studerende bedømme en [[generative-ai|ChatGPT]]-genereret pressemeddelelse mod deres egen kursusrubrik, navngive fejlene og revidere den. Studerende så generelt, at prosaen var poleret, og at indholdet fejlagtigt fremstillede forskningens formål, metoder og fund. Mod det foregående [[peer-assessment|peer-vurderings]]hold klarede AI-kritikgruppen sig beskedent bedre på den manuskriptrevision, der fulgte (*d* = 0,36), uden signifikant fordel på den endelige video ([[richmond-nicholls-genai-psych-feedback-ai-literacies]]).
+Det stærkeste klasseværelseseksempel kommer fra bachelorpsykologi. Richmond og Nicholls lod studerende bedømme en [[generative-ai|ChatGPT]]-genereret pressemeddelelse mod deres egen kursusrubrik, navngive fejlene og revidere den. Studerende så generelt, at prosaen var poleret, og at indholdet fejlagtigt fremstillede forskningens formål, metoder og fund. Mod det foregående [[peer-assessment|peer-vurderings]]hold klarede AI-kritikgruppen sig beskedent bedre på den manuskriptrevision, der fulgte (*d* = 0,36), uden signifikant fordel på den endelige video ([[richmond-nicholls-genai-psych-feedback-ai-literacies]]).
 
 Den litteratur, disse eksempler kommer fra, hælder mod korte interventioner, [[self-regulated-learning|selvrapportering]] og designbaseret arbejde, og dette studie bærer to af de grænser. Sammenligningen var historisk, så et bedre forberedt hold ville give samme mønster. Fordelen viste sig også på det mellemliggende artefakt og forsvandt på det færdige, hvilket er hvad man ville forvente, hvis kritikken lærte revision.
 
@@ -52,7 +52,7 @@ Hingle og Johris [[meta-analysis-systematic-review|systematiske review]] sortere
 
 NC States **AI Literacy Continuum** beskriver en progression fra *Not Yet Engaged* og *Uncritical Use* gennem *Informed Use*, *[[critical-thinking|Critical Evaluation]]* og *Improvement*, og blev implementeret med mere end 330 deltagere på tværs af kurser og workshops ([[ai-literacy-continuum-higher-education]]). Dets observationer antyder en opsplitning: korte erfaringer flyttede studerende mod informeret brug, mens kritisk evaluering og forbedring især viste sig i vedvarende, fagligt indlejret arbejde. Der var ingen valideret før/efter-måling og ingen sammenligningsgruppe, så dette er praksisbaseret evidens.
 
-Læreruddannelsen viser samme loft fra en anden vinkel. Le m.fl.s [[design-based-research|designbaserede]] intervention blev pilottestet med 14 kandidatstuderende og evalueret med 29 [[teacher-education|læreruddannelses]]studerende. Rapporteret AI-kompetence-[[self-efficacy|tro på egen formåen]] steg, og studerende bevægede sig mod mere kritisk [[pedagogy|pædagogisk]] overvejelse af GenAI, mens etikgevinster kun nåede marginal signifikans. Et lille designbaseret studie af den form kan ikke fastslå kompetence ([[genai-literacy-training-teacher-education-dbr-2026]]).
+Uddannelsen af [[teacher-role|lærere]] viser samme loft fra en anden vinkel. Le m.fl.s [[design-based-research|designbaserede]] intervention blev pilottestet med 14 kandidatstuderende og evalueret med 29 [[teacher-education|læreruddannelses]]studerende. Rapporteret AI-kompetence-[[self-efficacy|tro på egen formåen]] steg, og studerende bevægede sig mod mere kritisk [[pedagogy|pædagogisk]] overvejelse af GenAI, mens etikgevinster kun nåede marginal signifikans. Et lille designbaseret studie af den form kan ikke fastslå kompetence ([[genai-literacy-training-teacher-education-dbr-2026]]).
 
 ## Mål, hvad studerende kan
 
@@ -60,7 +60,7 @@ En [[liu-ai-literacy-interventions-meta-analysis-2026|tre-niveau-metaanalyse af 
 
 Forfatterne læser deres eget resultat som et argument for at bevæge sig forbi viden og mod færdigheder, praksisser, etik og holdninger gennem integreret refleksiv pædagogik og [[culturally-relevant-pedagogy|kulturelt relevant]] design. For et udvalg er der to implikationer, der gør arbejdet. Det udfald, du måler, former den effekt, du finder, så vælg det udfald, du faktisk bekymrer dig om. Et prædiktionsinterval, der er så bredt, taler for et lokalt pilotprojekt.
 
-Måling er der, hvor de fleste programpåstande fejler. Den validerede **GLAT**-præstationstest forudsagde præstation på en AI-assisteret opgave i videregående uddannelse. En [[self-report-measures|selvrapporteret]] ChatGPT-kompetencemåling gjorde ikke ([[jin-glat-genai-literacy-assessment]]; [[ai-literacy-assessment-misalignment]]). På tværs af vidensbasen divergerer rapporteret og demonstreret AI-kompetence betydeligt, hvilket gør [[educational-measurement|pædagogisk måling]] og [[assessment-validity|bedømmelsesvaliditet]] til en del af designet snarere end en eftertanke i [[ai-ed-evaluation|evalueringen]].
+Måling er der, hvor de fleste programpåstande fejler. Den validerede **GLAT**-præstationstest forudsagde præstation på en AI-assisteret opgave i videregående uddannelse. En [[self-report-measures|selvrapporteret]] ChatGPT-kompetencemåling gjorde ikke ([[jin-glat-genai-literacy-assessment]]; [[ai-literacy-assessment-misalignment]]). På tværs af litteraturen divergerer rapporteret og demonstreret AI-kompetence betydeligt, hvilket gør [[educational-measurement|pædagogisk måling]] og [[assessment-validity|bedømmelsesvaliditet]] til en del af designet snarere end en eftertanke i [[ai-ed-evaluation|evalueringen]].
 
 Burriss m.fl. skærper, hvad der tæller. Deres studie af 22 elever i 11. klasse, der komponerede video-PSA'er om AI-etik, argumenterer for, at eksisterende kompetenceskalaer og kompetencerammer forudsætter individuelt målbar præstation, hvilket udelukker kollaborativ og kreativ udtryksform. De foreslår studerendes refleksioner, [[multimodal|multimodale]] artefakter og borgerlig diskurs som supplement til konventionelle målinger. Deres studerende udviklede kritisk AI-etisk forståelse gennem kollaborativ [[critical-pedagogy|kritisk pædagogik]], og det udfordrer færdighedslistebegreber om kompetence sammen med de instrumenter, der er bygget på dem. Femten af 18 svar ved enhedens afslutning bekræftede ny læring, og forfatterne bemærker, at projektet modstår traditionel [[summative-assessment|summativ bedømmelse]] ([[burriss-multimodal-composition-critical-ai-literacy-2026]]).
 
@@ -86,7 +86,7 @@ Det spørgsmål, der følger, er det, du skal stille dit eget program: registrer
 
 ## Hvad denne målgruppe tager fejl af
 
-En workshop er et pensum. Continuumets observationer placerer kritisk evaluering og forbedring i vedvarende, fagligt indlejret arbejde, og Le m.fl. flyttede self-efficacy uden at fastslå kompetence.
+En workshop er et [[curriculum-design|pensum]]. Continuumets observationer placerer kritisk evaluering og forbedring i vedvarende, fagligt indlejret arbejde, og Le m.fl. flyttede self-efficacy uden at fastslå kompetence.
 
 Selvtillid er en proxy for kompetence. GLAT-resultatet er direkte: en præstationstest forudsagde opgavepræstation, og en selvrapporteringsmåling gjorde ikke.
 

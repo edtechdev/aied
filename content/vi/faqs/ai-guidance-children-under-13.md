@@ -12,9 +12,9 @@ research_method: [literature review, experiment]
 audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
-updated: "2026-11-08T04:26:08-05:00"
+updated: "2026-11-15T16:00:08-05:00"
 translation_of: faqs/ai-guidance-children-under-13
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 Ba câu hỏi rối vào nhau trong yêu cầu đó: một đứa trẻ sáu tuổi được làm gì với những hệ thống này, nhà trường nợ gì với các gia đình có con gặp AI ở nhà, và phải làm gì khi lệnh cấm không phải là câu trả lời bạn có thể bảo vệ.
 
-Câu trả lời ngắn bạn có thể đưa cho hội đồng: phân tầng quyền truy cập theo độ tuổi, dạy trẻ cách những hệ thống này được xây dựng trước khi trao một cái cho trẻ, và giữ một người lớn trong vòng kiểm soát ở bất cứ đâu trẻ chưa thể đánh giá kết quả. Cấm toàn diện là phương án có ít bằng chứng nhất phía sau. Không có nghiên cứu nào về lệnh cấm theo độ tuổi trong cơ sở tri thức này, và phần lớn việc tiếp xúc của nhóm tuổi này diễn ra ở nhà, nơi quy định của trường không với tới.
+Câu trả lời ngắn bạn có thể đưa cho hội đồng: phân tầng quyền truy cập theo độ tuổi, dạy trẻ cách những hệ thống này được xây dựng trước khi trao một cái cho trẻ, và giữ một người lớn trong vòng kiểm soát ở bất cứ đâu trẻ chưa thể đánh giá kết quả. Cấm toàn diện là phương án có ít bằng chứng nhất phía sau. Không có nghiên cứu nào về lệnh cấm theo độ tuổi, và phần lớn việc tiếp xúc của nhóm tuổi này diễn ra ở nhà, nơi quy định của trường không với tới.
 
 ## Tóm tắt
 
@@ -52,7 +52,7 @@ Thiết kế phân tầng không phải là thứ bạn phải tự phát minh. 
 
 Hai ấn bản cũng cho thấy ranh giới dùng để làm gì. Nhóm tiểu học nhận các hoạt động dựa trên nền tảng, có giàn giáo và không tạo sinh, để trẻ học được hệ thống làm gì mà không cần một hệ thống nói lại với mình. Nhóm nâng cao gắn lập luận đạo đức với việc dùng tạo sinh có giám sát. Những nhân viên kỳ vọng mức độ tham gia sẽ tăng theo độ tinh vi của công cụ thường thấy điều ngược lại.
 
-Phân tầng mang lại cho bạn một thứ tự thao tác có thể bảo vệ được. Nhiều trường làm ngược lại, mua chatbot vào mùa thu rồi dạy về nó vào mùa xuân, và bằng chứng về thứ tự đó nằm ở phần dưới của trang này.
+Phân tầng mang lại cho bạn một thứ tự thao tác có thể bảo vệ được. Nhiều trường làm ngược lại, mua chatbot vào mùa thu rồi dạy về nó vào mùa xuân, trong khi thứ tự có thể bảo vệ được là ngược lại.
 
 ## Bắt đầu với trẻ nhỏ nhất bằng chơi, làm và máy móc
 
@@ -66,7 +66,7 @@ Dạy cách máy móc hoạt động cũng thuộc nhóm này. [[tsingidou-ct-ro
 
 ## Chuyển trẻ 9 đến 12 tuổi sang công việc đã thẩm định, phần lớn không tạo sinh
 
-Đây là nhóm tuổi có bằng chứng giáo trình mạnh nhất. [[demir-akar-ai-media-literacy-children-2026|Demir và Akar (2026)]] đã chạy một chương trình năng lực truyền thông phê phán dựa trên 5E, dài 18 giờ, cho 36 học sinh lớp bốn người Thổ Nhĩ Kỳ, bao gồm quyền riêng tư dữ liệu, giao tiếp an toàn và [[ethics|đạo đức]] truyền thông, với Cohen's *d* giữa nhóm là 1.12 cho đọc, 1.18 cho viết và 1.31 cho năng lực truyền thông tổng thể. Một chương trình vừa trong một học kỳ và báo cáo hiệu ứng cỡ đó là kết quả khích lệ nhất trên trang này.
+Đây là nhóm tuổi có bằng chứng giáo trình mạnh nhất. [[demir-akar-ai-media-literacy-children-2026|Demir và Akar (2026)]] đã chạy một chương trình năng lực truyền thông phê phán dựa trên 5E, dài 18 giờ, cho 36 học sinh lớp bốn người Thổ Nhĩ Kỳ, bao gồm quyền riêng tư dữ liệu, giao tiếp an toàn và [[ethics|đạo đức]] truyền thông, với Cohen's *d* giữa nhóm là 1.12 cho đọc, 1.18 cho viết và 1.31 cho năng lực truyền thông tổng thể. Một chương trình vừa trong một học kỳ và báo cáo hiệu ứng cỡ đó là kết quả khích lệ nhất trong tài liệu này.
 
 Lứa 9 đến 12 tuổi được tiếp xúc có giàn giáo trên các nền tảng trường đã thẩm định, với phần tạo sinh để dành cho sau và có giám sát. Khi trẻ đã đọc được, lập luận được và kiểm tra được một khẳng định, dạy trẻ hệ thống đang làm gì trở thành công việc chính, và công cụ có thể bước vào như một đối tượng nghiên cứu thay vì một người trợ giúp.
 
@@ -126,7 +126,7 @@ Với nhóm tuổi này, điều đó ánh xạ thành một trình tự: về A
 
 Một bản trình hội đồng có thể hứa một ngày rà soát và một định nghĩa thành công mà trường bạn thực sự kiểm tra được: số bài đã dạy, số giáo viên trả lời được câu hỏi của phụ huynh, số yêu cầu dữ liệu được trả lời bằng văn bản. Khẳng định có lợi ích học tập sẽ vượt quá mọi nghiên cứu được trích ở đây.
 
-Không có nghiên cứu nào về lệnh cấm theo độ tuổi trong cơ sở tri thức này. Không gì ở đây có thể kết luận liệu những lệnh cấm đang xuất hiện ở một số hệ thống trường học có hiệu quả hay không, và phiên bản trung thực của câu đó thuộc về bản trình hội đồng của bạn. Điều bằng chứng cho thấy là phương án thay thế lệnh cấm không phải là thả lỏng. [[moral-panic-genai-classroom|Nghiên cứu về việc có GenAI so với việc tích hợp GenAI]] thấy rằng đưa GenAI ra sẵn mà không dạy sinh viên cách dùng nó gắn với hiệu suất thấp hơn có ý nghĩa ở các câu hỏi ứng dụng (ω² = 0.35), trong khi dạy tường minh cách dùng nó cho các nhiệm vụ như tóm tắt đưa hiệu suất ứng dụng trở lại mức trước GenAI và vượt mức nền ở một bài kiểm tra khó hơn. Nhóm tuổi này dạy được: chương trình lớp bốn ở trên tạo ra hiệu ứng *d* = 1.12 đến 1.31.
+Không có nghiên cứu nào về lệnh cấm theo độ tuổi. Không gì ở đây có thể kết luận liệu những lệnh cấm đang xuất hiện ở một số hệ thống trường học có hiệu quả hay không, và phiên bản trung thực của câu đó thuộc về bản trình hội đồng của bạn. Điều bằng chứng cho thấy là phương án thay thế lệnh cấm không phải là thả lỏng. [[moral-panic-genai-classroom|Nghiên cứu về việc có GenAI so với việc tích hợp GenAI]] thấy rằng đưa GenAI ra sẵn mà không dạy sinh viên cách dùng nó gắn với hiệu suất thấp hơn có ý nghĩa ở các câu hỏi ứng dụng (ω² = 0.35), trong khi dạy tường minh cách dùng nó cho các nhiệm vụ như tóm tắt đưa hiệu suất ứng dụng trở lại mức trước GenAI và vượt mức nền ở một bài kiểm tra khó hơn. Nhóm tuổi này dạy được: chương trình lớp bốn ở trên tạo ra hiệu ứng *d* = 1.12 đến 1.31.
 
 ## Nhà trường hiểu sai điều gì
 

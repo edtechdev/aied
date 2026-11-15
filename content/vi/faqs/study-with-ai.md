@@ -11,9 +11,9 @@ research_method: [experiment, literature review, survey]
 audience: [learners, instructors]
 level: [higher ed, secondary]
 connected_resources: [gemini-notebook]
-updated: "2026-10-29T16:56:07-04:00"
+updated: "2026-11-15T16:02:37-05:00"
 translation_of: faqs/study-with-ai
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -43,15 +43,15 @@ Câu đáng mang theo khỏi trang này: cùng một mô hình, mở ra ở mộ
 
 ## Bắt đầu phiên bằng bài thử của chính bạn
 
-[[adaptive-pretesting-retention|Akgun và Toker (2026)]] cho 89 sinh viên đại học cùng một phiên tiền kiểm tra thích ứng và cùng một chỉ dẫn, rồi bảy tuần luyện tập khác nhau. Nhóm mà AI dò các quan niệm sai, đòi làm rõ những câu trả lời mỏng, và chỉ tiến lên khi có tham gia khái niệm thật, đạt điểm cao nhất ở bài kiểm tra trì hoãn (M = 78.19) và bỏ nhiều nỗ lực luyện tập nhất (M = 0.85). Chat tự do với cùng mô hình đạt 67.28 và 0.49, một khác biệt d = 0.92.
+[[adaptive-pretesting-retention|Akgun và Toker (2026)]] cho 89 sinh viên đại học cùng một phiên [[retrieval-spacing-interleaving|tiền kiểm tra]] thích ứng và cùng một chỉ dẫn, rồi bảy tuần luyện tập khác nhau. Nhóm mà AI dò các [[misconceptions|quan niệm sai lầm]], đòi làm rõ những câu trả lời mỏng, và chỉ tiến lên khi có tham gia khái niệm thật, đạt điểm cao nhất ở bài kiểm tra trì hoãn (M = 78.19) và bỏ nhiều nỗ lực luyện tập nhất (M = 0.85). Chat tự do với cùng mô hình đạt 67.28 và 0.49, một khác biệt d = 0.92.
 
 Bài thử làm việc đó ngay cả khi bài thử dở. Viết ra một câu trả lời kích hoạt những gì bạn đã biết, và nó cho bạn thấy rìa của phần biết đó. Rồi phần sửa chữa đáp xuống một thứ đã có.
 
-Một chỉ dẫn bạn có thể dán vào bất kỳ chatbot nào ngay đêm nay: *hãy giải thích điều này như thể tôi sẽ bị kiểm tra về nó, kiểm tra tôi từng câu một, đừng cho tôi đáp án cho tới khi tôi đã thử, nói cho tôi biết tôi sai ở đâu và vì sao.* Câu đó tái tạo lại cách sắp xếp đã tạo ra con số 78.19, và nó không tốn gì.
+Một chỉ dẫn bạn có thể dán vào bất kỳ [[conversational-ai|chatbot]] nào ngay đêm nay: *hãy giải thích điều này như thể tôi sẽ bị kiểm tra về nó, kiểm tra tôi từng câu một, đừng cho tôi đáp án cho tới khi tôi đã thử, nói cho tôi biết tôi sai ở đâu và vì sao.* Câu đó tái tạo lại cách sắp xếp đã tạo ra con số 78.19, và nó không tốn gì.
 
 ## Xin một gia sư và gọi tên công việc
 
-Yêu cầu mơ hồ nhận được trợ giúp mơ hồ. [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg, Feldman-Maggor và Wong (2026)]] phỏng vấn 20 sinh viên STEM về cách họ tìm trợ giúp và tìm ra một trình tự bốn giai đoạn đáng để bắt chước: quyết định xem có cần trợ giúp không, chọn hỏi ai, quyết định xin loại trợ giúp nào, và đánh giá thứ nhận về. Những sinh viên này tìm tới mô hình trước vì đó là lựa chọn có rào cản thấp nhất, theo lời một sinh viên là “ChatGPT trước, rồi bạn cùng lớp, cuối cùng là giáo viên”, và họ xin gợi ý, hướng dẫn từng bước, và giải thích khái niệm chứ không xin lời giải hoàn chỉnh. Một người khác mô tả chatbot như “một gợi ý, một công cụ hỗ trợ, nhưng không phải lời giải độc lập”.
+Yêu cầu mơ hồ nhận được trợ giúp mơ hồ. [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg, Feldman-Maggor và Wong (2026)]] phỏng vấn 20 sinh viên STEM về cách họ tìm trợ giúp và tìm ra một trình tự bốn giai đoạn đáng để bắt chước: quyết định xem có cần trợ giúp không, chọn hỏi ai, quyết định xin loại trợ giúp nào, và đánh giá thứ nhận về. Những sinh viên này tìm tới mô hình trước vì đó là lựa chọn có rào cản thấp nhất, theo lời một sinh viên là “[[generative-ai|ChatGPT]] trước, rồi bạn cùng lớp, cuối cùng là giáo viên”, và họ xin gợi ý, hướng dẫn từng bước, và giải thích khái niệm chứ không xin lời giải hoàn chỉnh. Một người khác mô tả chatbot như “một gợi ý, một công cụ hỗ trợ, nhưng không phải lời giải độc lập”.
 
 Điều đó nghe thế này khi gõ ra: “Tôi cứ bị sai dấu khi tích phân từng phần; đây là bài thử của tôi; nó đứt ở đâu?” Một điểm vướng được gọi tên nhận được câu trả lời hữu ích, còn “giúp tôi bài tập này” nhận được một bản nháp. Hãy xin một ví dụ đã giải cho một kiểu bài, nghiên cứu hình dạng của nó, rồi tự làm bài tiếp theo. Hãy xin giải thích khái niệm như thể bạn sẽ bị kiểm tra về nó, rồi giải thích lại mà không nhìn. Hãy xin câu hỏi, từng câu một, và giữ câu trả lời của bạn cho tới khi bạn đã cam kết với một câu.
 
@@ -59,7 +59,7 @@ Mô thức là công cụ làm việc trên sự hiểu của bạn. Tóm tắt 
 
 ## Ở lại trong cuộc trò chuyện qua câu trả lời đầu tiên
 
-Khoảng cách giữa điều sinh viên định làm và điều họ làm là phát hiện nhất quán nhất trong tài liệu này. [[yan-cognitive-outsourcing-genai-assessments-2026|Yan và cộng sự (2026)]] phỏng vấn 38 sinh viên đại học ở Nhật Bản và Trung Quốc trong khi họ đi qua lịch sử chat của chính họ cho các bài đánh giá luận không giám sát. 31 trong 38 người nói họ định dùng AI như một trợ lý học tập, và họ vẫn mô tả [[cognitive-offloading|phụ thuộc quá mức]], sự tự mãn tinh thần, và quên nhanh. Một người nói “tốc độ bạn quên nó cũng rất nhanh”. Một nhóm nhỏ hơn giao cả nhiệm vụ đi: giáo viên giao bài, sinh viên chuyển nó cho GenAI, GenAI tạo ra, sinh viên kiểm tra định dạng, sinh viên nộp, và một người tham gia mô tả việc đó là đã “thay thế hoàn toàn bộ não của tôi”.
+Khoảng cách giữa điều sinh viên định làm và điều họ làm là phát hiện nhất quán nhất trong tài liệu này. [[yan-cognitive-outsourcing-genai-assessments-2026|Yan và cộng sự (2026)]] phỏng vấn 38 sinh viên đại học ở Nhật Bản và Trung Quốc trong khi họ đi qua lịch sử chat của chính họ cho các bài đánh giá luận không giám sát. 31 trong 38 người nói họ định dùng AI như một trợ lý học tập, và họ vẫn mô tả [[cognitive-offloading|phụ thuộc quá mức]], sự tự mãn tinh thần, và quên nhanh. Một người nói “tốc độ bạn quên nó cũng rất nhanh”. Một nhóm nhỏ hơn giao cả nhiệm vụ đi: [[teacher-role|giáo viên]] giao bài, sinh viên chuyển nó cho GenAI, GenAI tạo ra, sinh viên kiểm tra định dạng, sinh viên nộp, và một người tham gia mô tả việc đó là đã “thay thế hoàn toàn bộ não của tôi”.
 
 Chỉ 8 trong 38 người làm việc như thứ mà các tác giả gọi là đối tác nhận thức. Họ không dùng ít AI hơn. Tổng nỗ lực của họ giữ nguyên và đổi hình dạng. Một người chuyển nỗ lực từ tìm kiếm sang kiểm tra chất lượng. Một người khác viết những ghi chú phản tư ngắn sau mỗi phiên AI để làm chậm sự phai của thông tin được truy hồi tức thì.
 
@@ -73,15 +73,15 @@ Những thói quen tách hai nhóm, viết thành chỉ dẫn cho chính bạn:
 
 “Sử dụng có phê phán” là một cụm từ nói được rất ít cho tới khi bạn tách các phần ra. [[verification-quality-reliance-calibration-genai-2026|Wei và Shang (2026)]] tách thành bảy phần: đánh giá nhận thức luận, việc bạn có bắt đầu kiểm tra hay không, bạn đã kiểm tra tốt đến đâu, việc kiểm tra có thành công hay không, bạn đã làm gì với đầu ra, bạn thực hiện nhiệm vụ thế nào, và bạn học được gì một cách độc lập. Hai trong số đó quan trọng hơn phần còn lại. Kiểm tra không giống với kiểm tra thành công, và một quy trình cẩn thận có thể kết thúc mà không đi tới kết luận trong khi một quy trình cẩu thả lại rơi vào đáp án đúng một cách tình cờ. [[trust-calibration|Sự phụ thuộc đã hiệu chỉnh]] nghĩa là quyết định chấp nhận hay bác bỏ của bạn khớp với chất lượng thật của đầu ra, thứ bạn không thể đọc ra từ việc câu trả lời nghe tự tin đến đâu.
 
-Ba phát hiện làm vấn đề trở nên cụ thể. Dávila và cộng sự (2025) cho người học lời khuyên đúng khoảng một nửa số lần và phát hiện rằng mức độ họ dựa vào lời khuyên đó thay đổi theo [[prior-knowledge|kiến thức nền]] và giới tính của họ, nên sự tin cậy không bám theo độ chính xác. Zheng và cộng sự (2025) ghi nhận một mô thức “áp dụng thất bại”, trong đó một sinh viên làm theo hướng dẫn đúng một cách đúng đắn mà vẫn đi tới đáp án sai. [[self-efficacy|Sự tự tin]] cũng không phải là một người dẫn đường: Rheu và Cho (2025) phát hiện rằng hiểu cách các mô hình ngôn ngữ hoạt động có liên hệ với việc tự báo cáo kiểm tra dữ kiện nhiều hơn, trong khi một số dạng tự tin và hiểu biết về tính năng lại có liên hệ với việc kiểm tra ít hơn.
+Ba phát hiện làm vấn đề trở nên cụ thể. Dávila và cộng sự (2025) cho người học lời khuyên đúng khoảng một nửa số lần và phát hiện rằng mức độ họ dựa vào lời khuyên đó thay đổi theo [[prior-knowledge|kiến thức nền]] và giới tính của họ, nên sự tin cậy không bám theo độ chính xác. Zheng và cộng sự (2025) ghi nhận một mô thức “áp dụng thất bại”, trong đó một sinh viên làm theo hướng dẫn đúng một cách đúng đắn mà vẫn đi tới đáp án sai. [[self-efficacy|Sự tự tin]] cũng không phải là một người dẫn đường: Rheu và Cho (2025) phát hiện rằng hiểu cách các mô hình ngôn ngữ hoạt động có liên hệ với việc [[self-report-measures|tự báo cáo]] kiểm tra dữ kiện nhiều hơn, trong khi một số dạng tự tin và hiểu biết về tính năng lại có liên hệ với việc kiểm tra ít hơn.
 
 Vậy nên hãy xác minh bất cứ thứ gì được chấm điểm với một nguồn bạn gọi tên được. Những sinh viên trong nghiên cứu của Viberg kiểm tra đầu ra với bài học và với giảng viên của họ, một người giải thích “tôi chỉ tìm trợ giảng khi chúng tôi không thể biết liệu ChatGPT có đang bịa ra thứ gì không”. Khi bạn thật sự không thể biết, hãy đánh dấu điểm đó là chưa giải quyết và hỏi một người. Chấp nhận một khẳng định để cho xong trang là cách một chút không chắc chắn biến thành một đáp án sai mà bạn đã tập dượt.
 
-Hãy quyết định các nguyên tắc nền của bạn trước khi bạn cần tới chúng. [[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella và cộng sự (2026)]] khảo sát 151 sinh viên đại học và phát hiện rằng các phán đoán đạo đức là điều kiện cần để có ý định dùng một mô hình ngôn ngữ lớn cho việc ôn thi, với lý luận hệ quả và lý luận nghĩa vụ dự đoán được ý định đó, và ý định dự đoán mạnh việc sử dụng thật. Điều bạn quyết định trước về những gì bạn sẽ và sẽ không làm là điều mà hành vi của bạn tuân theo lúc 11 giờ đêm.
+Hãy quyết định các nguyên tắc nền của bạn trước khi bạn cần tới chúng. [[ethical-conditions-llm-exam-preparation-2026|Pérez-Portabella và cộng sự (2026)]] khảo sát 151 sinh viên đại học và phát hiện rằng các phán đoán đạo đức là điều kiện cần để có ý định dùng một [[llm|mô hình ngôn ngữ lớn]] cho việc ôn thi, với lý luận hệ quả và lý luận nghĩa vụ dự đoán được ý định đó, và ý định dự đoán mạnh việc sử dụng thật. Điều bạn quyết định trước về những gì bạn sẽ và sẽ không làm là điều mà hành vi của bạn tuân theo lúc 11 giờ đêm.
 
 ## Để nó xử lý phần hậu cần
 
-Tốc độ có những công dụng chính đáng. [[ai-guided-learning-audiovideo-2026|Kawamura (2026)]] xây các hệ thống điều chỉnh tốc độ phát âm thanh theo độ khó của từng đoạn, trung bình khoảng 1.30 lần, và tạo ra các bản tóm tắt video đa phương thức cắt thời gian xem đi 53% mà không có khác biệt có ý nghĩa thống kê nào về điểm kiểm tra. Tóm tắt, dịch, và lập kế hoạch ôn tập nằm trong cùng hạng mục. Đi qua tài liệu nhanh hơn thì ổn. Bỏ qua công việc làm thay đổi bạn mới là phần cần tránh.
+Tốc độ có những công dụng chính đáng. [[ai-guided-learning-audiovideo-2026|Kawamura (2026)]] xây các hệ thống điều chỉnh tốc độ phát âm thanh theo độ khó của từng đoạn, trung bình khoảng 1.30 lần, và tạo ra các bản tóm tắt video [[multimodal|đa phương thức]] cắt thời gian xem đi 53% mà không có khác biệt có ý nghĩa thống kê nào về điểm kiểm tra. Tóm tắt, dịch, và lập kế hoạch ôn tập nằm trong cùng hạng mục. Đi qua tài liệu nhanh hơn thì ổn. Bỏ qua công việc làm thay đổi bạn mới là phần cần tránh.
 
 Sự phân biệt nằm ở chỗ công cụ đứng so với tư duy. Một bản tóm tắt của chương bạn đã đọc thì tiết kiệm thời gian. Một bản tóm tắt bạn đọc thay cho chương thì thay thế việc đọc.
 

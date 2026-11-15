@@ -11,9 +11,9 @@ ethics: [trust-calibration]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers]
 level: [higher ed, secondary, k 12]
-updated: "2026-10-29T12:23:33-04:00"
+updated: "2026-11-15T16:01:30-05:00"
 translation_of: faqs/reducing-over-reliance
-source_updated: "2026-10-28T11:14:24-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -41,7 +41,7 @@ Bundlinjen: overafhængighed er for det meste et placeringsproblem. De design, d
 
 **5.** Tidsindstil refleksionsprompten til den fase af opgaven, den stadig kan ændre.
 
-**6.** Se på, hvem dit design efterlader, fordelt på forhåndsviden snarere end på gennemsnit.
+**6.** Se på, hvem dit design efterlader, fordelt på [[prior-knowledge|forhåndsviden]] snarere end på gennemsnit.
 
 ## Beslut, om du har et problem, eller bare tung brug
 
@@ -59,7 +59,7 @@ Adfærdsinstrumenter er tyndere. [[pause-ai-cognitive-offloading-self-reflection
 
 ## Sæt den studerendes forsøg foran værktøjet
 
-Det klareste testede forløb er »tænk først, ChatGPT bagefter«. [[think-first-chatgpt-later-2026|Wong og Qiu (2026)]] fordelte N = 196 studerende til at arbejde selvstændigt, til at bruge ChatGPT frit eller til at arbejde under en reguleret betingelse: generér dine egne idéer, samarbejd med ChatGPT om at forbedre og evaluere dem, og forfin og aflever derefter selvstændigt én løsning. Den frie brugsgruppe producerede mere kreativt arbejde på den assisterede opgave og faldt tilbage til niveauet for kun mennesker på en senere, sværere opgave uden ChatGPT. Den regulerede gruppe viste ingen umiddelbar fordel og overgik begge de andre grupper på selvstændig kreativitet bagefter.
+Det klareste testede forløb er »tænk først, [[generative-ai|ChatGPT]] bagefter«. [[think-first-chatgpt-later-2026|Wong og Qiu (2026)]] fordelte N = 196 studerende til at arbejde selvstændigt, til at bruge ChatGPT frit eller til at arbejde under en reguleret betingelse: generér dine egne idéer, samarbejd med ChatGPT om at forbedre og evaluere dem, og forfin og aflever derefter selvstændigt én løsning. Den frie brugsgruppe producerede mere kreativt arbejde på den assisterede opgave og faldt tilbage til niveauet for kun mennesker på en senere, sværere opgave uden ChatGPT. Den regulerede gruppe viste ingen umiddelbar fordel og overgik begge de andre grupper på selvstændig [[creativity|kreativitet]] bagefter.
 
 Promptdata forklarer gabet. I den regulerede gruppe var 88,6 % af prompterne samarbejdsorienterede, og det var den eneste prompttype, der signifikant korrelerede med senere selvstændig originalitet. I den frie brugsgruppe var 70,9 % af prompterne ikke-samarbejdsorienterede, og 59,6 % bad simpelthen ChatGPT om at generere idéer direkte. Det samme værktøj, spurgt på to forskellige måder, producerede to forskellige lærende.
 
@@ -75,7 +75,7 @@ To klasserumsdetaljer afgør, om forløbet holder. Den første er tid. Hvis den 
 
 Praktisk betyder det bevogtet AI midt i opgaven, hvor hints, gennemregnede eksempler og øvelsesitems gør arbejdet, og en sikret kontrol til sidst. Det gør også en AI-brugspolitik til en placeringsregel pr. færdighed, hvilket er lettere at skrive og lettere at forsvare end en liste af forbud.
 
-Et hint er et spørgsmål om den studerendes næste skridt, et gennemregnet eksempel på en lignende opgave eller en henvisning til det relevante afsnit. Et svar er en færdig sætning, den studerende kan indsætte. De fleste alment anvendelige chatbots producerer det andet som standard, i flydende prosa der læses som hjælp, og derfor betyder konfigurationen mere end den studerendes intentioner.
+Et hint er et spørgsmål om den studerendes næste skridt, et gennemregnet eksempel på en lignende opgave eller en henvisning til det relevante afsnit. Et svar er en færdig sætning, den studerende kan indsætte. De fleste alment anvendelige [[conversational-ai|chatbots]] producerer det andet som standard, i flydende prosa der læses som hjælp, og derfor betyder konfigurationen mere end den studerendes intentioner.
 
 ## Kræv kontrollen, og gør den synlig
 
@@ -97,7 +97,7 @@ Vælg en fejl, der er beskeden og kontrollerbar, som en kildehenvisning der ikke
 
 Det assisterede produkt er en dårlig proxy for formåen, så mindst ét bedømt øjeblik skal finde sted uden værktøjet. [[think-first-chatgpt-later-2026|Wong og Qius (2026)]] senere uassisterede opgave er den måling. Deres gruppe med kun mennesker faldt også på den sværere opfølgning, hvilket udelukker den simple version af rettelsen: at fjerne værktøjet uden at støtte den lærende er ikke en intervention.
 
-At skifte mellem tilstande har støtte. PAUSE rapporterer Kosmyna et al.s (2025) resultat fra session fire, hvor deltagere, der kun brugte hjernen og senere brugte ChatGPT, klarede sig bedre end vedvarende LLM-brugere. Ansvarlighed virker også gennem forklaring: Makransky et al. (2025) fandt, at en vejledende chatbot, der bad studerende om at forbinde idéer og forklare deres ræsonnement, gav bedre bedømmelsespræstation end traditionel undervisning.
+At skifte mellem tilstande har støtte. PAUSE rapporterer Kosmyna et al.s (2025) resultat fra session fire, hvor deltagere, der kun brugte hjernen og senere brugte ChatGPT, klarede sig bedre end vedvarende [[llm|LLM]]-brugere. Ansvarlighed virker også gennem forklaring: Makransky et al. (2025) fandt, at en vejledende chatbot, der bad studerende om at forbinde idéer og forklare deres ræsonnement, gav bedre bedømmelsespræstation end traditionel undervisning.
 
 For et kursus: skift mellem assisteret arbejde i øvelsen og uassisteret arbejde der, hvor det tæller. Læs den assisterede del som en registrering af præstation under gode betingelser og den uassisterede del som evidensen om læring. At sammenligne dem er også den mest nyttige samtale, du kan have med en studerende, der ikke forstår en karakter.
 
@@ -127,7 +127,7 @@ Formuleringen af prompten betyder mindre end dens placering. Før et forløb: sp
 
 ## Forvent at risikoen klumper sig sammen
 
-[[lodge-loble-cognitive-offloading-2026|Lodge og Loble (2026)]] placerer risikoen i forhåndsviden og selvregulering og navngiver et **metakognitivt lighedsgab**: at bruge AI godt kræver ressourcer, som novicer mangler, så de studerende, der har mest brug for øvelsen, er de sandsynligste til at uddelegere selve læringen. De rapporterer, at 80 % af australske studerende allerede bruger AI, og at to tredjedele af underviserne i den tidlige sekundære del gør det (OECD 2025).
+[[lodge-loble-cognitive-offloading-2026|Lodge og Loble (2026)]] placerer risikoen i forhåndsviden og selvregulering og navngiver et **metakognitivt [[equity-in-ai-education|lighedsgab]]**: at bruge AI godt kræver ressourcer, som novicer mangler, så de studerende, der har mest brug for øvelsen, er de sandsynligste til at uddelegere selve læringen. De rapporterer, at 80 % af australske studerende allerede bruger AI, og at to tredjedele af underviserne i den tidlige sekundære del gør det (OECD 2025).
 
 Alder og vane korrelerer med samme mønster. [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] fandt, at deltagere i alderen 17-25 år viste højere AI-afhængighed og udlicitering og lavere kritisk tænkning end dem på 46 år og derover, og at uddannelsesniveau forudsagde bedre kritisk tænkning uanset AI-brug (r = +0,34), med en signifikant interaktion der indikerer, at uddannelsesniveau afbøder den negative effekt. [[genai-over-reliance-learning-2026|Gao, Sun og Khan (2026)]] fandt, at polykronicitet, en tilbøjelighed til at multitaske, modererer vejen, med studerende med høj polykronicitet i større risiko.
 
@@ -137,29 +137,29 @@ Kontekst betyder lige så meget som person, og dit kursus styrer en del af konte
 
 ## Beslut, hvor meget vægt evidensen bærer
 
-Intet i dette korpus tester, om en specifik overafhængighedsintervention holder på tværs af kontekster eller semestre. Tænk-først hviler på ét eksperiment med N = 196. Resultatet om at tilbageholde svar kommer fra [[brcic-effortless-trap-productive-struggle-2026|Brcic og Frljics (2026)]] syntese snarere end fra et eget forsøg. Friktionsargumentet er en konceptuel kommentar uden nye data. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] angiver modellens grænser: eksogen stationær AI-kvalitet, et fast netværk, stiliserede verifikation. At estimere de reelle værdier ville kræve longitudinelle spor af verifikationsrater pr. opgave, styrken af social proof og hvordan tillid opdateres efter verificeret kontra uverificeret brug.
+Intet i denne litteratur tester, om en specifik overafhængighedsintervention holder på tværs af kontekster eller semestre. Tænk-først hviler på ét eksperiment med N = 196. Resultatet om at tilbageholde svar kommer fra [[brcic-effortless-trap-productive-struggle-2026|Brcic og Frljics (2026)]] syntese snarere end fra et eget forsøg. Friktionsargumentet er en konceptuel kommentar uden nye data. [[ai-overreliance-complex-adaptive-system-2026|Biswas (2026)]] angiver modellens grænser: eksogen stationær AI-kvalitet, et fast netværk, stiliserede verifikation. At estimere de reelle værdier ville kræve longitudinelle spor af verifikationsrater pr. opgave, styrken af social proof og hvordan tillid opdateres efter verificeret kontra uverificeret brug.
 
-Måling er fortsat det svageste led. Survey-design dominerer, og både [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] og [[genai-over-reliance-learning-2026|Gao, Sun og Khan (2026)]] opfordrer til longitudinel og eksperimentel opfølgning. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] har ingen psykometri og blev bygget til voksne. Om lighedsgabet kan lukkes med undervisning, er teoretiseret snarere end demonstreret.
+Måling er fortsat det svageste led. Survey-design dominerer, og både [[gerlich-ai-tools-cognitive-offloading-critical-thinking|Gerlich (2025)]] og [[genai-over-reliance-learning-2026|Gao, Sun og Khan (2026)]] opfordrer til longitudinel og eksperimentel opfølgning. [[pause-ai-cognitive-offloading-self-reflection-2026|PAUSE]] har ingen [[educational-measurement|psykometri]] og blev bygget til voksne. Om lighedsgabet kan lukkes med undervisning, er teoretiseret snarere end demonstreret.
 
 Det efterlader dig med et rimeligt væddemål, sat billigt. Ændr én opgave, behold den uassisterede måling, og tjek, om gabet mellem assisteret og uassisteret arbejde indsnævres. Byg ikke et kursus om på styrken af disse tal.
 
 ## Hvad undervisere tager fejl af
 
-**De studerende, der bruger det mest, er dem i problemer.** Frekvens er det, surveys fanger og dashboards viser, og det er ikke konstruktet. En studerende, der tjekker hvert svar og citerer dine materialer, kan bruge AI dagligt og være fin. En studerende, der afleverer det første output én gang om ugen, har problemet.
+**De studerende, der bruger det mest, er dem i problemer.** Frekvens er det, surveys fanger og [[visualization|dashboards]] viser, og det er ikke konstruktet. En studerende, der tjekker hvert svar og citerer dine materialer, kan bruge AI dagligt og være fin. En studerende, der afleverer det første output én gang om ugen, har problemet.
 
 **Et forbud fjerner risikoen.** De stærkeste resultater her kommer fra placering, og armen med kun mennesker i Wong og Qius eksperiment faldt også på den sværere opfølgning. At fjerne værktøjet uden at støtte den lærende lader sværhedsgraden være, hvor den var.
 
-**Billigere kontrol vil løse verifikationen.** At gøre kontrollen lettere var det svageste håndtag i Biswas' model, fordi forhindringen er social. En bedre plagiatkontrol får ikke en studerende til at læse kilden.
+**Billigere kontrol vil løse verifikationen.** At gøre kontrollen lettere var det svageste håndtag i Biswas' model, fordi forhindringen er social. En bedre [[academic-integrity|plagiatkontrol]] får ikke en studerende til at læse kilden.
 
 **Et brugsdashboard fortæller mig, hvem der udliciterer.** PAUSEs items registrerer, hvornår og hvor ofte AI kommer ind i en arbejdsgang, og forfatterne flagger selv validitetsproblemet. En omhyggelig stilladserer scorer som udliciterer, så at handle på de tal straffer de studerende, du gerne vil beholde.
 
 **Flydende arbejde og tilfredshed viser, at designet virker.** Det er den illusion, [[lodge-loble-cognitive-offloading-2026|Lodge og Loble (2026)]] beskriver i deres præstationsparadoks: arbejdet føles flydende, og studerende præsterer godt i øjeblikket, mens de husker mindre. Uassisteret præstation og forsinket [[transfer-of-learning|overførsel]] er de mål, der besvarer spørgsmålet.
 
-**Lær studerende AI-kompetence, og problemet forsvinder.** [[lodge-loble-cognitive-offloading-2026|Lodge og Loble (2026)]] advarer om, at overinvestering i studerendevendt AI-kompetence kan være den forkerte allokering, givet hvad novicer mangler.
+**Lær studerende [[ai-literacy|AI-kompetence]], og problemet forsvinder.** [[lodge-loble-cognitive-offloading-2026|Lodge og Loble (2026)]] advarer om, at overinvestering i studerendevendt AI-kompetence kan være den forkerte allokering, givet hvad novicer mangler.
 
 ## Hvad du vil få tilbage
 
-**»Det her er bare god pædagogik med et nyt navn.«** Delvist. Stilladsering, formativ feedback og produktiv kamp er gamle idéer. Det nyere er rækkefølgen: synlig verifikation slog billigere verifikation, og de to øjeblikke, der er værd at beskytte, er det første svære forsøg og den endelige uassisterede kontrol. Gør de velkendte ting i den nye rækkefølge.
+**»Det her er bare god [[pedagogy|pædagogik]] med et nyt navn.«** Delvist. [[scaffolding|Stilladsering]], formativ feedback og produktiv kamp er gamle idéer. Det nyere er rækkefølgen: synlig verifikation slog billigere verifikation, og de to øjeblikke, der er værd at beskytte, er det første svære forsøg og den endelige uassisterede kontrol. Gør de velkendte ting i den nye rækkefølge.
 
 **»Jeg kan ikke holde opsyn med det.«** Det kan du ikke, og evidensen siger, at du ikke skal prøve. Placering gav det stærkeste resultat. Design opgaven sådan, at brug af værktøjet på det forkerte tidspunkt viser sig i selve arbejdet, som et svar den studerende ikke kan forklare, eller et verifikationstrin der mangler.
 

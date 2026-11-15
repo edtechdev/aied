@@ -1,9 +1,9 @@
 ---
 title: "Hvad bør undervisere undgå at gøre med AI?"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-11T06:20:00-05:00"
+updated: "2026-11-15T16:01:30-05:00"
 type: faq
-connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors]
+connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors, adopting-ai-options-and-issues]
 weight: 90
 foundations: [misconceptions, reducing-ai-misuse, ai-literacy, limitations-in-aied-research]
 pedagogy: [reflection, professional-training]
@@ -12,7 +12,7 @@ assessment: [assessment-validity, ai-detection, self-report-measures, feedback]
 ethics: [privacy, pedagogical-safety, equity-in-ai-education, accessibility, automation-bias]
 audience: [instructors, learners, parents and families, faculty developers, software developers, administrators, researchers]
 translation_of: faqs/what-not-to-do-ai-education
-source_updated: "2026-11-11T06:20:00-05:00"
+source_updated: "2026-11-14T04:30:00-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -157,8 +157,8 @@ Ingen af disse forbehold betyder, at værktøjet altid er forkert. En detektor k
 ## Hvor du kan gå videre
 
 - [[addressing-common-misconceptions-ai-education]]: de forestillinger, der ligger bag disse praksisser, og hvordan man korrigerer dem uden nedladenhed.
-- [[limitations-in-aied-research]]: hvad evidensgrundlaget endnu ikke kan bære.
-- [[reducing-ai-misuse]]: strukturelle håndtag mod misbrug, og hvorfor de slår formaning.
-- [[pedagogical-safety]]: hvad en vejleder kan gøre ved en lærende, mens den består enhver indholdskontrol.
+- [[limitations-in-aied-research|Begrænsninger i AIEd-forskning]]: hvad evidensgrundlaget endnu ikke kan bære.
+- [[reducing-ai-misuse|At reducere AI-misbrug]]: strukturelle håndtag mod misbrug, og hvorfor de slår formaning.
+- [[pedagogical-safety|Pædagogisk sikkerhed]]: hvad en vejleder kan gøre ved en lærende, mens den består enhver indholdskontrol.
 - [[should-we-use-ai-detectors]]: detektorevidensen i sin helhed.
 - [[checking-whether-educational-ai-works]]: hvordan man vurderer en påstand, før man tager den i brug.

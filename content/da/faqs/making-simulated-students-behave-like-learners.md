@@ -12,9 +12,9 @@ level: [higher ed, k 12]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
-updated: "2026-10-29T12:23:33-04:00"
+updated: "2026-11-15T16:01:30-05:00"
 translation_of: faqs/making-simulated-students-behave-like-learners
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -44,11 +44,11 @@ Inden næste demo har du brug for så meget klarhed: at prompte en model til at 
 
 ## Beslut, hvilket spørgsmål simulatoren besvarer
 
-Tre opgaver bliver klumpet sammen under »simuleret studerende«, og de kræver forskelligt maskineri. At øve en lærer eller en vejleder kræver en partner, der opfører sig plausibelt under pres. At revidere, hvordan en AI behandler forskellige lærendeprofiler, kræver dækning af de profiler, du bekymrer dig om. At forudsige udfald for et kursus kræver en fordeling af lærende snarere end ét overbevisende individ. En simulator bygget til den første opgave vil skuffe dig på den tredje, og evidensen nedenfor bliver ved med at skelne dem.
+Tre opgaver bliver klumpet sammen under »simuleret studerende«, og de kræver forskelligt maskineri. At øve en [[teacher-role|lærer]] eller en vejleder kræver en partner, der opfører sig plausibelt under pres. At revidere, hvordan en AI behandler forskellige lærendeprofiler, kræver dækning af de profiler, du bekymrer dig om. At forudsige udfald for et kursus kræver en fordeling af lærende snarere end ét overbevisende individ. En simulator bygget til den første opgave vil skuffe dig på den tredje, og evidensen nedenfor bliver ved med at skelne dem.
 
 ## Navngiv de lærende, du ikke dækker
 
-Det mest nyttige fund for enhver, der er ved at stole på en simulator, handler om dækning. Tolv lærere, der vejledte LLM-studerende, rapporterede om overkomplekst sprog, manglende følelser, unaturlig opmærksomhed og uforklarede vidensspring, og simulationerne repræsenterede kun én af fire kvadranter af virkelig elevadfærd ([[llm-student-simulation-teacher-insights|Martynova et al., 2026]]). Den kvadrant, de dækkede, var den nemmeste at simulere.
+Det mest nyttige fund for enhver, der er ved at stole på en simulator, handler om dækning. Tolv lærere, der vejledte [[llm|LLM]]-studerende, rapporterede om overkomplekst sprog, manglende følelser, unaturlig opmærksomhed og uforklarede vidensspring, og [[simulation|simulationerne]] repræsenterede kun én af fire kvadranter af virkelig elevadfærd ([[llm-student-simulation-teacher-insights|Martynova et al., 2026]]). Den kvadrant, de dækkede, var den nemmeste at simulere.
 
 Det betyder noget, fordi næsten ingen tjekker. Kun 3 % af de studier, der simulerer lærende, validerer deres simulator efter brug. Bygger du en og springer valideringen over, er du i det overvældende flertal, og du er også grunden til, at den statistik bliver ved med at være citerbar.
 
@@ -64,13 +64,13 @@ To noter fra det studie. Modelvalg er ikke endimensionelt, da et system, der mat
 
 Hvis modellen ved for meget, kan du navngive den tilstand, den bør være i, eller trække den viden fra, den ikke bør have.
 
-**Beting på en epistemisk tilstand.** En træningsfri ramme bygger hver studerendes kognitive prototype fra en [[knowledge-graph|vidensgraf]] og scorer beam-search-kandidater mod den og rapporterer en forbedring i simulationens nøjagtighed på 100 % ([[simulating-students-diverse-cognitive-levels-2025|Wu et al., 2025]]). Dens kvalitet stiger med den studerendes kognitive niveau, så svagere lærende forbliver det svære tilfælde, hvilket er uheldigt, givet at de normalt er pointen. At modellere kognitiv dynamik snarere end en statisk persona går længere: CogEvolutions ICAP-baserede tilstandsopdateringer nåede R²LC = 0,92, hvor statiske agenter når 0,45, og kollapsede til 0,58 uden dens ICAP-modul ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et al., 2026]]).
+**Beting på en epistemisk tilstand.** En træningsfri ramme bygger hver studerendes kognitive prototype fra en [[knowledge-graph|vidensgraf]] og scorer beam-search-kandidater mod den og rapporterer en forbedring i simulationens nøjagtighed på 100 % ([[simulating-students-diverse-cognitive-levels-2025|Wu et al., 2025]]). Dens kvalitet stiger med den studerendes kognitive niveau, så svagere lærende forbliver det svære tilfælde, hvilket er uheldigt, givet at de normalt er pointen. At modellere kognitiv dynamik snarere end en statisk persona går længere: CogEvolutions [[icap-framework|ICAP]]-baserede tilstandsopdateringer nåede R²LC = 0,92, hvor statiske agenter når 0,45, og kollapsede til 0,58 uden dens ICAP-modul ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang et al., 2026]]).
 
 **Fjern viden.** At undertrykke 16 målrettede videnskomponenter i Mistral-7B sænkede nøjagtigheden fra cirka 0,75 ved et glemselsforhold på 10 % til under 0,5 ved 40 %, mens basismodellen holdt sig nær 0,85. Den undertrykte viden viste sig genoprettelig gennem superviseret genindlæring og coach-guidet dialog ([[simulating-novice-students-machine-unlearning-2026|Song, Guo og Lin, 2026]]). Det er det tætteste, man kommer på at fremstille en novice direkte, og genopretteligheden bliver en funktion, hvis du vil have simulatoren til at lære i løbet af en session.
 
 ## Script turene, ikke personaen
 
-Personastabilitet viser sig at være et interaktionsdesignproblem snarere end et modelvalgsproblem. Ved at krydse fem LLM'er med tre promptdesigns og fire ADHD-intensitetsprofiler eliminerede scriptede, opgaveforankrede interaktioner observatørvurderet adfærdsdrift, med op til 97 % mod uscriptet dialog. Uden eksplicitte personainstrukser hældede baseline-elevrepræsentationen mod høje ADHD-symptomer ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase og Leins, 2026]]).
+Personastabilitet viser sig at være et interaktionsdesignproblem snarere end et modelvalgsproblem. Ved at krydse fem LLM'er med tre promptdesigns og fire [[neurodiversity|ADHD]]-intensitetsprofiler eliminerede scriptede, opgaveforankrede interaktioner observatørvurderet adfærdsdrift, med op til 97 % mod uscriptet dialog. Uden eksplicitte personainstrukser hældede baseline-elevrepræsentationen mod høje ADHD-symptomer ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase og Leins, 2026]]).
 
 Hvis din simulator driver, så se på, hvad du beder den gøre tur for tur, før du skifter model eller omskriver beskrivelsen af den studerende.
 
@@ -86,9 +86,9 @@ Troskab på handlingsniveau har sin egen grænse. Elevsimulatorer gengiver obser
 
 To sammenligninger viser, hvad validering koster.
 
-Ved at benchmarke ni simulationsmetoder mod syv referencebaserede metrics på 382 tilbageholdte dialoger fra det største offentlige korpus af rigtige elev-vejleder-matematikdialoger kom promptning bagud for finjustering på dialoghandlinger (0,4998 mod 0,6840), ROUGE-L (0,1648 mod 0,3212) og cosinuslighed (0,5460 mod 0,7390). Den bedste testede metode, præferenceoptimering på en 8B-model, slog kun marginalt superviseret finjustering og var dårligere på fejl, og en menneskelig evaluering med tre vejledere gengav den rangorden ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). Toppen af denne rangstige ligger tæt på midten, så den baseline, du rapporterer, afgør, hvor imponerende dit eget tal ser ud.
+Ved at benchmarke ni simulationsmetoder mod syv referencebaserede metrics på 382 tilbageholdte dialoger fra det største offentlige korpus af rigtige elev-vejleder-matematikdialoger kom promptning bagud for [[llm-training-and-fine-tuning|finjustering]] på dialoghandlinger (0,4998 mod 0,6840), ROUGE-L (0,1648 mod 0,3212) og cosinuslighed (0,5460 mod 0,7390). Den bedste testede metode, præferenceoptimering på en 8B-model, slog kun marginalt superviseret finjustering og var dårligere på fejl, og en menneskelig evaluering med tre vejledere gengav den rangorden ([[simulated-students-tutoring-dialogues-2026|Scarlatos et al., 2026]]). Toppen af denne rangstige ligger tæt på midten, så den baseline, du rapporterer, afgør, hvor imponerende dit eget tal ser ud.
 
-SWIM er den klareste sammenligning af promptning, finjustering og forstærkningsindlæring, fordi den scorer hvert genereret essay mod en måltrækprofil i stedet for at bedømme det impressionistisk. Rubrikforankret promptning gav begrænset kontrol selv for stærke proprietære modeller, med et bedste gennemsnitligt træk-QWK på 0,577 (Claude Sonnet) og 0,422 (GPT-5.4) og nær nul for en åben 7B-model. Superviseret finjustering på rigtige score-essay-par nåede 0,474 ± 0,023 for den 7B-model. GRPO med en belønning afledt af automatisk essay-scoring nåede 0,618 ± 0,005, med gevinster der holdt på to uafhængige scorere, som policyen aldrig blev trænet imod ([[swim-student-writing-simulation-2026]]).
+SWIM er den klareste sammenligning af promptning, finjustering og forstærkningsindlæring, fordi den scorer hvert genereret essay mod en måltrækprofil i stedet for at bedømme det impressionistisk. Rubrikforankret promptning gav begrænset kontrol selv for stærke proprietære modeller, med et bedste gennemsnitligt træk-QWK på 0,577 (Claude Sonnet) og 0,422 (GPT-5.4) og nær nul for en åben 7B-model. Superviseret finjustering på rigtige score-essay-par nåede 0,474 ± 0,023 for den 7B-model. GRPO med en belønning afledt af [[automated-essay-scoring|automatisk essay-scoring]] nåede 0,618 ± 0,005, med gevinster der holdt på to uafhængige scorere, som policyen aldrig blev trænet imod ([[swim-student-writing-simulation-2026]]).
 
 Promptning producerede også en idealiseret population snarere end en realistisk: gennemsnitlig normaliseret samlet score 0,74 mod 0,58 for rigtige studerende, og en medianlængde på 304 ord mod 167. De trænede modeller genskabte de menneskelige score- og længdefordelinger uden nogen længdesupervision. Én ting forblev svær: autentisk lavkompetent form. Trænede modeller genskabte syntaks, men skrev for få stave- og grammatikfejl, mens promptning simulerede svaghed gennem overfladisk korruption, stavefejl sprøjtet ud over ellers kompetent prosa.
 
@@ -96,7 +96,7 @@ Overfladisk realisme er en svag test i begge retninger. I et blindet studie fejl
 
 ## Tjek, om en beskrivelse ville gøre det
 
-Før du bygger en kohorte, så tjek den billigere mulighed. Til at evaluere en online læringsoplevelse, før studerende engagerer sig, forudsige frafald og gennemførelse og give designfeedback klarede en enkelt »beskrivende« webagent, der går gennem lektionen og producerer en rig beskrivelse af oplevelsen, sig bedre end direkte at simulere en population af studerende.
+Før du bygger en kohorte, så tjek den billigere mulighed. Til at evaluere en [[online-teaching-and-learning|online læringsoplevelse]], før studerende engagerer sig, forudsige frafald og gennemførelse og give designfeedback klarede en enkelt »beskrivende« webagent, der går gennem lektionen og producerer en rig beskrivelse af oplevelsen, sig bedre end direkte at simulere en population af studerende.
 
 De simulerede studerende i den sammenligning viste langt mindre adfærdsmæssigt spænd end rigtige lærende: på tværs af 100 agenter på fem testlektioner gengav de kun cirka 4 % af de stier, rigtige studerende tog, mens de kostede væsentligt mere compute. Describe-then-predict-pipelinen opnåede den bedste forudsigelse af frafaldsfordelingen på et massivt globalt CS1-kursus, med en gennemsnitlig JSD på 0,060 ([[ai-web-agents-lesson-design-2025|Wang, Mitchell og Piech, 2025]]).
 

@@ -1,7 +1,7 @@
 ---
 title: "Hur kontrollerar jag om AI-genererade quiz- och tentamensfrågor verkligen är bra?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:03:31-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-05T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Du ber om tjugo frågor utifrån dina föreläsningsanteckningar. Du får tillbaka dem med facit, förklaringar, svårighetsgrader och Bloom-taxonomiska kategorier, i ett formaterat dokument som ser färdigt ut. Ditt namn ska strax stå på det.
 
-Här är det korta svaret: genererade frågor är kandidater, inte en bedömning. Lös varje fråga själv, kontrollera vad uppgiften kräver att en student faktiskt gör, och ta reda på hur studenterna svarar på den innan den räknas. I de två största studierna i den här kunskapsbasen är den intressanta signalen inte att generering fungerar utan var den fallerar. Iterativ generering inuti ett kursanpassat arbetsflöde gav användbara flervalstentamina i 71 högskoleklasser ([[assessing-quality-ai-generated-exams-field-2025|Isley m.fl., 2025]]). I en datavetenskaplig granskning av 311 frågor i drift följde modellens svårighetsgrader nästan perfekt de Bloom-nivåer den hade genererat tillsammans med dem (Spearman ρ = 0,90) medan de följde vad studenterna faktiskt presterade med ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An och Wang, 2026]]). Graderingen var en beskrivning av prompten, inte en mätning av frågan.
+Här är det korta svaret: genererade frågor är kandidater, inte en bedömning. Lös varje fråga själv, kontrollera vad uppgiften kräver att en student faktiskt gör, och ta reda på hur studenterna svarar på den innan den räknas. I de två största studierna är den intressanta signalen inte att generering fungerar utan var den fallerar. Iterativ generering inuti ett kursanpassat arbetsflöde gav användbara flervalstentamina i 71 högskoleklasser ([[assessing-quality-ai-generated-exams-field-2025|Isley m.fl., 2025]]). I en datavetenskaplig granskning av 311 frågor i drift följde modellens svårighetsgrader nästan perfekt de Bloom-nivåer den hade genererat tillsammans med dem (Spearman ρ = 0,90) medan de följde vad studenterna faktiskt presterade med ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An och Wang, 2026]]). Graderingen var en beskrivning av prompten, inte en mätning av frågan.
 
 ## Kortversionen
 

@@ -1,7 +1,7 @@
 ---
 title: "Bagaimana kita dapat menangani kesalahpahaman umum tentang AI dalam pendidikan?"
 created: "2026-09-04T04:39:00-04:00"
-connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices]
+connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]
 technology: [prompt-engineering]
@@ -10,9 +10,9 @@ ethics: [equity-in-ai-education, pedagogical-safety, trust-calibration]
 weight: 95
 audience: [instructors, instructional designers, administrators, policymakers, learners, researchers, parents and families]
 institutions: [governance]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:59:14-05:00"
 translation_of: faqs/addressing-common-misconceptions-ai-education
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ ai_assist:
 
 Provos Anda ingin selebaran “mitos AI” satu halaman untuk rapat fakultas musim semi. Atau seorang anggota dewan pengawas telah membaca bahwa chatbot menghancurkan berpikir kritis dan menginginkan sikap resmi pada hari Jumat. Atau Anda adalah orang yang harus menjelaskan, secara tertulis, mengapa jurusan tidak akan sekadar melarang alat itu, dan Anda sudah kehabisan cara untuk mengatakan bahwa larangan bukanlah pedagogi.
 
-Setiap keyakinan di halaman ini berangkat dari sesuatu yang pernah dilihat orang yang berakal sehat. Prosa yang lancar memang terbaca akurat. Tugas yang rapi memang terlihat seperti pembelajaran. Tutor yang menjawab pertanyaan memang terasa seperti bantuan, dan kebijakan yang memuat kata “dilarang” memang terasa seperti keputusan. Koreksi yang berhasil menamai apa yang tidak dapat diberitahukan oleh pengamatan itu, lalu menyerahkan pemeriksaan yang dapat dijalankan orang tersebut pada hari Senin.
+Masing-masing keyakinan ini berangkat dari sesuatu yang pernah dilihat orang yang berakal sehat. Prosa yang lancar memang terbaca akurat. Tugas yang rapi memang terlihat seperti pembelajaran. Tutor yang menjawab pertanyaan memang terasa seperti bantuan, dan kebijakan yang memuat kata “dilarang” memang terasa seperti keputusan. Koreksi yang berhasil menamai apa yang tidak dapat diberitahukan oleh pengamatan itu, lalu menyerahkan pemeriksaan yang dapat dijalankan orang tersebut pada hari Senin.
 
 Jawaban yang bisa diberikan kepada kolega, dalam satu tarikan napas: efek pendidikan AI bergantung pada siapa yang memakainya, untuk tugas apa, pemikiran apa yang dijalankan alat itu, tanggung jawab apa yang tetap pada orangnya, dan bagaimana pembelajarannya dievaluasi. Keyakinan diri, kecepatan, keterlibatan, dan penyelesaian tugas adalah ciri penggunaan. Tidak satu pun darinya bukti bahwa kapabilitasnya berubah.
 
@@ -48,7 +48,7 @@ Jawaban yang bisa diberikan kepada kolega, dalam satu tarikan napas: efek pendid
 
 ## Putuskan apa yang diperhitungkan sebagai bukti bahwa pembelajaran terjadi
 
-Lima keyakinan menentukan apakah sisa halaman ini penting. Masing-masing mengambil sinyal nyata dan membacakan ke dalamnya kesimpulan yang tidak dapat dibawa oleh sinyal itu.
+Lima keyakinan menentukan apakah sisa argumen ini penting. Masing-masing mengambil sinyal nyata dan membacakan ke dalamnya kesimpulan yang tidak dapat dibawa oleh sinyal itu.
 
 ### “Mereka lebih baik saat alatnya terbuka, jadi mereka belajar lebih banyak.”
 
@@ -66,11 +66,11 @@ Rata-rata menyembunyikan justru variasi yang menentukan pertanyaan ekuitas. Efek
 
 ### “Mereka melaporkan bahwa mereka belajar banyak.”
 
-[[self-report-measures|Laporan diri]] mengukur persepsi, penerimaan, [[anxiety-and-stress|kecemasan]], dan [[self-efficacy|efikasi diri]], dan ia baik untuk keempatnya. Ia bukan ukuran kapabilitas yang ditunjukkan, karena orang bisa percaya diri dan salah, atau terampil dan kurang percaya diri. Sintesis wiki atas penelitian literasi AI guru melaporkan jurang yang besar antara [[self-assessment|penilaian diri]] dan kinerja terukur, dan para pengajar di dalamnya melebih-lebihkan kompetensi mereka secara signifikan ([[ai-literacy-assessment-misalignment|Penilaian Literasi AI: Ketidakselarasan Laporan Diri dan Kinerja]]). Pasangkan setiap laporan diri dengan tugas: mengidentifikasi kesalahan dalam keluaran, memverifikasi sumber, memilih strategi penggunaan, mengenali bias atau sikofansi, merevisi respons yang cacat, mengkalibrasi keyakinan terhadap akurasi. Satu butir semacam itu dalam survei mengubah opini menjadi hasil.
+[[self-report-measures|Laporan diri]] mengukur persepsi, penerimaan, [[anxiety-and-stress|kecemasan]], dan [[self-efficacy|efikasi diri]], dan ia baik untuk keempatnya. Ia bukan ukuran kapabilitas yang ditunjukkan, karena orang bisa percaya diri dan salah, atau terampil dan kurang percaya diri. Sebuah sintesis atas penelitian literasi AI guru melaporkan jurang yang besar antara [[self-assessment|penilaian diri]] dan kinerja terukur, dan para pengajar di dalamnya melebih-lebihkan kompetensi mereka secara signifikan ([[ai-literacy-assessment-misalignment|Penilaian Literasi AI: Ketidakselarasan Laporan Diri dan Kinerja]]). Pasangkan setiap laporan diri dengan tugas: mengidentifikasi kesalahan dalam keluaran, memverifikasi sumber, memilih strategi penggunaan, mengenali bias atau sikofansi, merevisi respons yang cacat, mengkalibrasi keyakinan terhadap akurasi. Satu butir semacam itu dalam survei mengubah opini menjadi hasil.
 
 ### “Siswa simulasi adalah pengganti murah bagi siswa nyata.”
 
-Simulasi berguna untuk pembuatan prototipe, uji tekanan, dan pembangkitan skenario, dan ia bukan bukti tentang pembelajaran manusia sampai divalidasi terhadap orang. Model dapat meniru bahasa kebingungan tanpa ketekunan, motivasi, pengetahuan awal, emosi, atau lintasan perkembangan seorang pembelajar, dan penelitian yang diringkas di wiki menemukan siswa simulasi meninggalkan kesalahpahaman yang ditugaskan setelah koreksi minimal, yang menimbulkan keraguan apakah mereka mewakili perubahan konseptual sama sekali ([[simulating-students|Mensimulasikan Siswa]], [[llm-student-simulation-misconception-faithfulness|Mensimulasikan Siswa atau Pemecahan Masalah yang Sikofantik?]]). Pakailah untuk menemukan cacat pada prompt Anda sebelum siswa nyata menghadapinya, lalu perlakukan klaim apa pun tentang pembelajar sebagai belum tervalidasi.
+Simulasi berguna untuk pembuatan prototipe, uji tekanan, dan pembangkitan skenario, dan ia bukan bukti tentang pembelajaran manusia sampai divalidasi terhadap orang. Model dapat meniru bahasa kebingungan tanpa ketekunan, motivasi, pengetahuan awal, emosi, atau lintasan perkembangan seorang pembelajar, dan penelitian tentang siswa simulasi menemukan mereka meninggalkan kesalahpahaman yang ditugaskan setelah koreksi minimal, yang menimbulkan keraguan apakah mereka mewakili perubahan konseptual sama sekali ([[simulating-students|Mensimulasikan Siswa]], [[llm-student-simulation-misconception-faithfulness|Mensimulasikan Siswa atau Pemecahan Masalah yang Sikofantik?]]). Pakailah untuk menemukan cacat pada prompt Anda sebelum siswa nyata menghadapinya, lalu perlakukan klaim apa pun tentang pembelajar sebagai belum tervalidasi.
 
 ## Tetapkan kondisi AI pada langkah yang membawa pembelajaran
 
@@ -144,7 +144,7 @@ Keandalan adalah konsistensi, validitas adalah apakah interpretasi dan penggunaa
 
 ### “Satu percakapan yang berperilaku baik menunjukkan tutornya aman.”
 
-Kerugian pendidikan terakumulasi sepanjang interaksi. Sistem dapat menjawab satu prompt dengan tepat lalu, sepanjang giliran, mulai menyediakan jawaban, memperkuat kesalahpahaman, mendorong ketergantungan, atau keluar dari peran tutornya. Tolok ukur SafeTutors yang diringkas di wiki menemukan kegagalan bahaya pedagogis meningkat tajam ketika sistem dievaluasi sepanjang beberapa giliran alih-alih satu pertukaran ([[hazra-safetutors-pedagogical-safety-2026|Keamanan Tutor AI dan Bahaya Pedagogis]]). Tuntut percakapan berkelanjutan, kesalahan siswa yang berulang, upaya jawaban langsung, skenario emosional dan relasional, pemberian prompt adversarial, dan ukuran ketergantungan dari waktu ke waktu. Bukti tolok ukur semacam ini bukan estimasi pembelajaran kelas, dan ia adalah minimum yang harus menjadi dasar klaim keamanan.
+Kerugian pendidikan terakumulasi sepanjang interaksi. Sistem dapat menjawab satu prompt dengan tepat lalu, sepanjang giliran, mulai menyediakan jawaban, memperkuat kesalahpahaman, mendorong ketergantungan, atau keluar dari peran tutornya. Tolok ukur SafeTutors menemukan kegagalan bahaya pedagogis meningkat tajam ketika sistem dievaluasi sepanjang beberapa giliran alih-alih satu pertukaran ([[hazra-safetutors-pedagogical-safety-2026|Keamanan Tutor AI dan Bahaya Pedagogis]]). Tuntut percakapan berkelanjutan, kesalahan siswa yang berulang, upaya jawaban langsung, skenario emosional dan relasional, pemberian prompt adversarial, dan ukuran ketergantungan dari waktu ke waktu. Bukti tolok ukur semacam ini bukan estimasi pembelajaran kelas, dan ia adalah minimum yang harus menjadi dasar klaim keamanan.
 
 ### “Tinjauan manusia adalah tambalan sementara sampai modelnya membaik.”
 
@@ -176,7 +176,7 @@ Itu menunjukkan kinerja seseorang ditambah sebuah alat. Kompetensi terlihat pada
 
 ### “Literasi AI berarti tahu cara menulis prompt yang baik.”
 
-Menulis prompt adalah satu keterampilan operasional. Cakupan yang penting bagi seorang guru atau karyawan lebih luas: apa yang dapat dan tidak dapat dilakukan [[ai-technologies|sistem AI]] secara andal, bagaimana mengevaluasi akurasi dan bias, bagaimana AI memengaruhi validitas penilaian, kapan offloading menjadi penggusuran, persyaratan privasi dan aksesibilitas, bagaimana penggunaan itu cocok dengan disiplinnya, dan kapan tidak memakainya sama sekali. Sintesis wiki menemukan para guru secara substansial melebih-lebihkan kompetensi AI mereka ketika laporan diri dibandingkan dengan ukuran kinerja, dan kompetensi yang ditunjukkan memprediksi integrasi kelas jauh lebih baik daripada keyakinan diri ([[ai-literacy-assessment-misalignment|Penilaian Literasi AI: Ketidakselarasan Laporan Diri dan Kinerja]]). Teknik prompt juga menua lebih cepat daripada pertimbangan. Ajarkan [[prompt-engineering|Rekayasa Prompt]] sebagai keterampilan dan nilai [[teacher-ai-competency|Kompetensi AI Guru]] sebagai yang lebih luas.
+Menulis prompt adalah satu keterampilan operasional. Cakupan yang penting bagi seorang guru atau karyawan lebih luas: apa yang dapat dan tidak dapat dilakukan [[ai-technologies|sistem AI]] secara andal, bagaimana mengevaluasi akurasi dan bias, bagaimana AI memengaruhi validitas penilaian, kapan offloading menjadi penggusuran, persyaratan privasi dan aksesibilitas, bagaimana penggunaan itu cocok dengan disiplinnya, dan kapan tidak memakainya sama sekali. Sebuah sintesis bukti menemukan para guru secara substansial melebih-lebihkan kompetensi AI mereka ketika laporan diri dibandingkan dengan ukuran kinerja, dan kompetensi yang ditunjukkan memprediksi integrasi kelas jauh lebih baik daripada keyakinan diri ([[ai-literacy-assessment-misalignment|Penilaian Literasi AI: Ketidakselarasan Laporan Diri dan Kinerja]]). Teknik prompt juga menua lebih cepat daripada pertimbangan. Ajarkan [[prompt-engineering|Rekayasa Prompt]] sebagai keterampilan dan nilai [[teacher-ai-competency|Kompetensi AI Guru]] sebagai yang lebih luas.
 
 ### “Pengetahuan disipliner fondasional sudah usang karena AI dapat mengambilnya kembali.”
 
@@ -232,7 +232,7 @@ Mengotomatiskan tugas bukan menggantikan fungsi pendidikan. Menyusun contoh, men
 
 ## Apa yang salah dipahami orang-orang yang menjalankan ini
 
-Kesalahpahaman di atas milik audiens yang menjadi sasaran halaman ini. Yang berikut milik orang-orang yang menulis memonya, dan itulah sebabnya koreksi yang baik gagal mendarat.
+Kesalahpahaman pertama milik audiens yang menjadi sasaran koreksi ini. Kelompok kedua milik orang-orang yang menulis memonya, dan itulah sebabnya koreksi yang baik gagal mendarat.
 
 ### “Berbasis data berarti objektif.”
 
@@ -262,7 +262,7 @@ Mempermalukan menghasilkan sikap defensif dan penyembunyian, dan pesan seperti �
 
 Mekanismenya cukup singkat untuk dipakai dalam rapat fakultas. Sebutkan keyakinannya, katakan mengapa ia tampak benar, tolak dengan jelas, jelaskan kegagalannya, berikan model yang lebih baik, lalu serahkan penerapannya.
 
-Versi yang sudah dikerjakan, yang dapat Anda adaptasi untuk butir mana pun di halaman ini:
+Versi yang sudah dikerjakan, yang dapat Anda adaptasi untuk kesalahpahaman mana pun dalam daftar ini:
 
 > **Kesalahpahaman:** “Tugas yang dihasilkan AI dengan baik menunjukkan bahwa siswa belajar.”
 > **Refutasi:** “Itu belum tentu benar. Produknya menunjukkan apa yang dihasilkan siswa dan AI bersama-sama, tetapi ia tidak mengungkapkan penalaran mana yang dijalankan siswa.”

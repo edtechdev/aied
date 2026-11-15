@@ -9,9 +9,9 @@ ethics: [hallucination-risk, trust-calibration]
 research_method: [experiment, literature review, survey]
 audience: [instructors, instructional designers, learners]
 level: [higher ed, secondary]
-updated: "2026-10-29T12:23:33-04:00"
+updated: "2026-11-15T16:01:30-05:00"
 translation_of: faqs/verify-ai-output
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -23,7 +23,7 @@ ai_assist:
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
 
-Det er ugen før karaktererne skal gives, og to besvarelser citerer kilder, der ikke findes. Begge studerende siger, at de tjekkede. Den ene åbnede linket. Den anden læste afsnittet og syntes, det lød rigtigt. Du har allerede fortalt klassen, at de skal verificere det, chatrobotten giver dem, og det at fortælle det frembragte ikke adfærden.
+Det er ugen før karaktererne skal gives, og to besvarelser citerer kilder, der ikke findes. Begge studerende siger, at de tjekkede. Den ene åbnede linket. Den anden læste afsnittet og syntes, det lød rigtigt. Du har allerede fortalt klassen, at de skal verificere det, [[conversational-ai|chatrobotten]] giver dem, og det at fortælle det frembragte ikke adfærden.
 
 Verifikation er en sekvens, du kan bygge ind i en opgave. Beslut, hvad der tæller som korrekt, før opgaven begynder, få den studerende til at forpligte sig skriftligt på en forventning, send dem til registret i stedet for til deres indtryk af prosaen, og bedøm det register, de producerer. En rubriklinje, der siger »tjekkede kilder«, måler intet af det.
 
@@ -45,7 +45,7 @@ Verifikation er en sekvens, du kan bygge ind i en opgave. Beslut, hvad der tæll
 
 [[verification-quality-reliance-calibration-genai-2026|Wei og Shang (2026)]], der har gennemgået 493 deduplikerede poster og kortlagt 14 prioriterede empiriske studier, skelner mellem syv ting, som »kritisk AI-brug« smelter sammen til én: epistemisk vurdering, initiering af verifikation, proceskvalitet, verifikationssucces, afhængighedsbeslutninger, øjeblikkelig opgavepræstation og selvstændig læring. Din rubrik siger »tjekkede kilder«, hvilket ligger på trin to og ikke fortæller dig noget om, hvorvidt kontrollen var kompetent, eller om den ændrede den studerendes svar. Initiering er ikke succes. En stærk proces kan ende uafklaret, en svag kan lande på det rigtige svar, og en studerende, der kørte en søgning og forblev forvirret, scorer det samme som en, der løste spørgsmålet.
 
-Den samme gennemgang drager en anden grænse, mellem [[trust|tillid]] og afhængighed. [[trust-calibration|Kalibrering af afhængighed]] spørger, om en afhængighedsbeslutning var passende givet outputtets faktiske kvalitet, hvilket binder dommen til én beslutning og ét output. Ét revideret studie fandt, at falsk ChatGPT-information flyttede deltagernes rapporterede tillid og aldrig registrerede, om de senere accepterede eller forkastede en bestemt anbefaling. Et andet loggede accept- og forkastelsesbeslutninger på ChatGPT-[[feedback]] for 78 oversættelsesstuderende, men uden en uafhængig ekspertvurdering kan en accept ikke kaldes passende, og en forkastelse kan ikke kaldes berettiget. Uden grundsandhed om outputkvalitet kan afhængighed slet ikke klassificeres.
+Den samme gennemgang drager en anden grænse, mellem [[trust|tillid]] og afhængighed. [[trust-calibration|Kalibrering af afhængighed]] spørger, om en afhængighedsbeslutning var passende givet outputtets faktiske kvalitet, hvilket binder dommen til én beslutning og ét output. Ét revideret studie fandt, at falsk [[generative-ai|ChatGPT]]-information flyttede deltagernes rapporterede tillid og aldrig registrerede, om de senere accepterede eller forkastede en bestemt anbefaling. Et andet loggede accept- og forkastelsesbeslutninger på ChatGPT-[[feedback]] for 78 oversættelsesstuderende, men uden en uafhængig ekspertvurdering kan en accept ikke kaldes passende, og en forkastelse kan ikke kaldes berettiget. Uden grundsandhed om outputkvalitet kan afhængighed slet ikke klassificeres.
 
 Det er designkonsekvensen, og det er det første, der skal rettes. Før du sætter en verifikationsopgave, skal du skrive to korte beskrivelser: hvordan et korrekt output ser ud for denne opgave, og hvordan et plausibelt, men forkert output ser ud. Én af hver er nok. De studerende har så en standard at kontrollere imod, og du har noget at bedømme kontrollen imod andet end, hvor omhyggelig den studerende lyder.
 
@@ -59,7 +59,7 @@ I praksis er det én linje på opgavearket: før du åbner værktøjet, skriv ne
 
 ## Send dem til registret
 
-[[citation-errors-hallucinations-computing-education-2026|Denny m.fl. (2026)]] sporede 113.588 referencer fra 5.225 datalogiundervisningsartikler publiceret siden 2021 og verificerede manuelt 828 mistænkelige poster. De fandt 30, der indeholdt verificerbart fabrikeret bibliografisk information, fordelt på 14 artikler, alle fra 2025 og 2026. Tretten var helt opdigtede. De øvrige 17 kombinerede en rigtig titel med fabrikeret eller forkert forfatterskab, udgiver eller år. På SIGCSE Technical Symposium steg antallet fra 3 i 2025-forhandlingerne til 17 i 2026, eller 2,3 % af årets symposiumartikler.
+[[citation-errors-hallucinations-computing-education-2026|Denny m.fl. (2026)]] sporede 113.588 referencer fra 5.225 [[cs-education|datalogiundervisningsartikler]] publiceret siden 2021 og verificerede manuelt 828 mistænkelige poster. De fandt 30, der indeholdt verificerbart fabrikeret bibliografisk information, fordelt på 14 artikler, alle fra 2025 og 2026. Tretten var helt opdigtede. De øvrige 17 kombinerede en rigtig titel med fabrikeret eller forkert forfatterskab, udgiver eller år. På SIGCSE Technical Symposium steg antallet fra 3 i 2025-forhandlingerne til 17 i 2026, eller 2,3 % af årets symposiumartikler.
 
 Forfatterfelter fejler oftere end nogen anden del af en genereret reference. Det ene fund fortæller dig, hvad du skal bede om. »Åbn kilden og læs forfatterlisten« rammer det felt, der mest sandsynligt er forkert, og det producerer et faktum, som den studerende enten har eller ikke har. »Sørg for, at kilderne er rigtige« producerer en forsikring. Bed de studerende om at bekræfte forfattere, udgiver og år imod selve registret. Artiklen anbefaler, at hvert citeret værk verificeres, og at enhver automatisk kontrol forbliver [[human-in-the-loop-ai|menneskeligt tilsyn]], hvilket netop er den vane, et citationskrav indøver.
 
@@ -89,7 +89,7 @@ Tre fund ovenfor hører til i kursusopbygningen, hvor en underviser, der arbejde
 
 Det første er en diagnosticering. Kør en opgave med indplantede fejl: tyve elementer, otte med en faglig fejl. Den fortæller dig, om de studerende overhovedet kan skelne, før du bruger et semester på at undervise i et kriterium, de ikke kan bruge. En klasse, der overser de indplantede fejl, har brug for indholdsrepetition, uanset hvad studieordningen siger om kritisk brug.
 
-Det andet er placeringen af advarslen. [[chatgpt-inoculation-training-verification-2026|Vu, Cummings og Park (2026)]] viste en generisk forvarselsbesked umiddelbart før to opgaver til 100 studerende i USA, 40 med engelsk som førstesprog og 60 internationale med engelsk som fremmedsprog. Inokulerede studerende var signifikant mere tilbøjelige til at verificere opgaven med opsummering af akademiske kilder (M = 0,34 mod 0,18), mens de selvrapporterede verifikationshensigter ikke flyttede sig. Effekten var også opgaveafhængig: den viste sig for opsummeringsopgaven, men ikke ensartet for en matematikquiz om potensopløftning og multiplikation med store tal. Sæt advarslen ved brugspunktet, per opgavetype, snarere end én gang i studieordningen eller i introforløbet.
+Det andet er placeringen af advarslen. [[chatgpt-inoculation-training-verification-2026|Vu, Cummings og Park (2026)]] viste en generisk forvarselsbesked umiddelbart før to opgaver til 100 studerende i USA, 40 med engelsk som førstesprog og 60 internationale med engelsk som fremmedsprog. Inokulerede studerende var signifikant mere tilbøjelige til at verificere opgaven med opsummering af akademiske kilder (M = 0,34 mod 0,18), mens de [[self-report-measures|selvrapporterede]] verifikationshensigter ikke flyttede sig. Effekten var også opgaveafhængig: den viste sig for opsummeringsopgaven, men ikke ensartet for en matematikquiz om potensopløftning og multiplikation med store tal. Sæt advarslen ved brugspunktet, per opgavetype, snarere end én gang i studieordningen eller i introforløbet.
 
 Det tredje er planlægning. En studieordning, der lader verifikation være uplanlagt, siger, at den er valgfri, og tidspres er en dokumenteret grund til, at studerende springer kontroller over. Verifikation, der lever inde i opgaven, med et markeret artefakt vedhæftet, bliver udført. Verifikation, der lever i et politikafsnit, gør ikke.
 
@@ -119,7 +119,7 @@ Mislyd følelsen af, at prosaen læser godt. Novicer, der blev bedt om at forkla
 
 **»Flere advarsler vil rette de studerende, der ikke kan se forskel.«** Advarsler flytter kriteriet. De hæver ikke sensitiviteten, og sensitiviteten er det, der adskiller en studerende, der kan se fejlen, fra en, der ikke kan.
 
-**»En detektor bakker politikken op.«** På evidensen ovenfor fejler en detektorscore den standard, en integritetssag kræver, opdelingen menneske mod AI holder ikke for arbejde lavet med AI, og regimet koster dig den [[trust|tillid]], du har brug for, for at studerende vil oplyse noget som helst.
+**»En detektor bakker politikken op.«** På evidensen ovenfor fejler en detektorscore den standard, en [[academic-integrity|integritetssag]] kræver, opdelingen menneske mod AI holder ikke for arbejde lavet med AI, og regimet koster dig den [[trust|tillid]], du har brug for, for at studerende vil oplyse noget som helst.
 
 ## Hvad du vil få tilbage
 
@@ -129,7 +129,7 @@ Mislyd følelsen af, at prosaen læser godt. Novicer, der blev bedt om at forkla
 
 **»Værktøjet har som regel ret.«** Så er kontrollen billig, og undtagelserne er pointen. Forfatterfelter fejler oftere end nogen anden del af en genereret reference, 17 af de 30 fabrikerede poster parrede en rigtig titel med forkert forfatterskab, udgiver eller år, og 17 dukkede op i ét enkelt års symposiumforhandlinger. Nøjagtighed på de dele, du tilfældigt bemærker, siger intet om de dele, du ikke bemærker.
 
-**»Mine studerende ved ikke nok til at bedømme outputtet.«** Det er sensitivitetstærsklen, og den er reel. Gousopoulos forudsiger, at verifikationsundervisning fejler under et fagligt vidensgulv, og bemærker, at nogle fag leverer et eksternt kriterium, fysik, kemi, økologi og epidemiologi blandt dem, mens historie, litteratur og [[ethics|etik]] i vid udstrækning ikke gør. Undervis i faget, og knyt kontrollen til det, eller forvent, at kontrollen bliver en ritual.
+**»Mine studerende ved ikke nok til at bedømme outputtet.«** Det er sensitivitetstærsklen, og den er reel. Gousopoulos forudsiger, at verifikationsundervisning fejler under et fagligt vidensgulv, og bemærker, at nogle fag leverer et eksternt kriterium, fysik, [[chemistry-education|kemi]], økologi og epidemiologi blandt dem, mens historie, litteratur og [[ethics|etik]] i vid udstrækning ikke gør. Undervis i faget, og knyt kontrollen til det, eller forvent, at kontrollen bliver en ritual.
 
 **»Det her er overvågning.«** Det er det, hvis du bedømmer indsats eller overvåger, hvordan studerende arbejder. Bedøm artefaktet op imod facitlisten, angiv, hvilken feedback der blev maskinkontrolleret, og hvilken der blev bedømt af et menneske, og hold detektorer ude af det.
 

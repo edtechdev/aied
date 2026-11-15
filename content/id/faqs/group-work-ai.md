@@ -11,9 +11,9 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:56:14-05:00"
 translation_of: faqs/group-work-ai
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -89,7 +89,7 @@ Pasangkan nilai kelompok dengan komponen individual: [[oral-assessment|pertahana
 
 Keterbatasan mereka menyertai sitasinya: satu basis data, hanya artikel jurnal, tanpa perhatian pada [[ethics|etika]] atau privasi, dua tahun pertama teknologi itu, dan tidak ada instrumen risiko bias yang diterapkan. Bacalah “katalis” sebagai deskripsi praktik yang teramati, bukan hasil yang terukur.
 
-Deteksi adalah instrumen yang salah untuk memilah kontribusi individual: tidak satu pun dari enam studi ini menguji detektor dalam situasi kelompok, dan masalah deteksi pada tingkat individu didokumentasikan di tempat lain dalam basis pengetahuan ini. Sikap menahan diri perlu ditafsirkan sebelum perlu dikoreksi. Chen dan Zou memperingatkan bahwa kelompok yang menolak AI mungkin menghindari sesuatu yang tidak akrab alih-alih menjalankan [[self-regulated-learning|regulasi diri]] yang disengaja, dan keduanya menuntut respons yang berbeda: yang satu masalah pengajaran, yang lain posisi yang dipertimbangkan yang dapat Anda nilai.
+Deteksi adalah instrumen yang salah untuk memilah kontribusi individual: tidak satu pun dari enam studi ini menguji detektor dalam situasi kelompok, dan masalah deteksi pada tingkat individu didokumentasikan dengan baik. Sikap menahan diri perlu ditafsirkan sebelum perlu dikoreksi. Chen dan Zou memperingatkan bahwa kelompok yang menolak AI mungkin menghindari sesuatu yang tidak akrab alih-alih menjalankan [[self-regulated-learning|regulasi diri]] yang disengaja, dan keduanya menuntut respons yang berbeda: yang satu masalah pengajaran, yang lain posisi yang dipertimbangkan yang dapat Anda nilai.
 
 Rekan tim simulasi juga tidak menyelesaikan pertanyaannya. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] menyetel ulang agen [[llm|LLM]] pada dialog partisipan nyata (adaptor [[llm-training-and-fine-tuning|LoRA]]/QLoRA pada LLaMA 3.2-3B) untuk memodelkan 48 partisipan di 3.824 giliran dan enam kode tematik, lalu membandingkan wacana nyata dan wacana simulasi dengan [[network-analysis|Epistemic Network Analysis]]. Jaringan simulasi mencapai jarak 0,17 dari jaringan empiris, di bawah ambang 0,30, dengan nilai p permutasi 0,65, secara statistik tidak dapat dibedakan, meski agak terlalu menekankan tautan Kendala Teknis dan Desain serta kurang mewakili Data dan Parameter Kinerja. Ini adalah makalah kerangka dengan keyakinan sedang, dan ia mendukung satu klaim: agen yang spesifik per partisipan dapat mereproduksi wacana kolaboratif yang realistis. Ia tidak menunjukkan bahwa siswa belajar lebih banyak dari rekan tim simulasi.
 

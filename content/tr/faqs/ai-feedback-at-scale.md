@@ -3,6 +3,7 @@ title: "YZ Ölçekte Daha İyi Geri Bildirim Vermeme Nasıl Yardım Edebilir?"
 created: "2026-10-14T22:30:00-04:00"
 connected_faqs: [writing-instruction-ai-best-practices, checking-whether-educational-ai-works, ai-save-instructor-time]
 weight: 70
+updated: "2026-11-15T16:08:48-05:00"
 type: faq
 technology: [human-in-the-loop-ai]
 assessment: [ai-feedback-quality, automated-assessment, feedback, feedback-literacy, formative-assessment]
@@ -11,7 +12,7 @@ research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -81,6 +82,8 @@ Akran geri bildirimi sıralamada kendi yerini kazanır. [[scaffolding-srl-feedba
 
 Gu ve arkadaşlarının avantajı küçüktü ve yazarlar bunu gerçek ama tek başına dönüştürücü olmayan bir şey olarak okudu. Destekleyici işi öğretmen iskelesi, istem kılavuzları ve çalışma kâğıtları yaptı.
 
+Kaynak, saatten daha az önemli olabilir. 391 Alman ortaokul öğrencisinde öğretmen yazımı ile LLM geri bildirimi düzeltmelerde, sonraki yazmada, görev süresinde ya da algılarda anlamlı bir fark üretmedi; Bayesçi sonsal dağılımlar sonraki yazmada öğretmen geri bildirimine doğru eğilim gösterdi, ama kütlenin dörtte biri ile beşte ikisi arasındaki bir kısmı denklik bölgesi içinde tuttu ve yalnızca anlık YZ geri bildirimi daha iyi yararlılık ve motivasyon puanları çekti ([[meyer-teacher-ai-feedback-writing-2026|Meyer ve ark., 2026]]). İlk geçiş bir yorum öğrenci hâlâ düzeltme yaparken ulaşabiliyorsa, o zamanlama tasarımın işi yapan bir parçasıdır.
+
 ## Modele bir değerlendirme ölçütü verin, sonra adımlarını göstermesini sağlayın
 
 Değerlendirme ölçütüne dayalı üretim, otomatikleştirilebilir kısımdır.
@@ -97,7 +100,7 @@ Aldino ve ark. sıradan uygulamada aynı yardım-sonra-doğrula örüntüsünü 
 
 Aldino ve arkadaşlarının 21 öğretmeninden 12'si ayrıca cümle düzeyinde düzeltmeler yaptı ve baskın örüntü tonu kalibre etmekti: övgüyü aşağı çekmek (f = 11), önerileri kaldırmak (f = 9), teşviki kaldırmak (f = 8). Düzeltmeler ilişkisel boyutta, özellikle Öğrenci-Öğretmen İlişkisi'nde yoğunlaştı (f = 24). Özgünlüğü ve mesleki sesi koruyorlardı ve o iş otomatikleşmez.
 
-Öğrenciler bu doğrulamanın diğer tarafındadır ve iş bölümüne dair anlatıları bu sayfanın önerdiğine yakındır. 20 lisans öğrencisiyle yapılan odak gruplarında eğitmen geri bildirimi ilişkisel, kişiselleştirilmiş ve uzman temelli olduğu için değerli bulundu; YZ tarafından üretilen geri bildirim ise kişisel olmayan ve potansiyel olarak adaletsiz olarak okundu. Aynı öğrenciler, eğitmenin çalışmalarını okuyup modelin yorumlarını tamamladığı hibrit bir modele açıktı ([[fong-chatgpt-feedback-evaluations-2026|Fong ve ark. (2026)]]). Aynı çalışma, öğrencilerin yargılarının belirginlik ve eyleme dönüştürülebilirlik boyutlarında ChatGPT'ninkilerle örtüştüğünü, zamanındalık ve olumluluk boyutlarında ise ayrıştığını buldu; yani bir modelin kendi hükmüne güvenilebilecek boyutlar tüm ölçütten dardır.
+Öğrenciler bu doğrulamanın diğer tarafındadır ve iş bölümüne dair anlatıları önerilen yaklaşıma yakındır. 20 lisans öğrencisiyle yapılan odak gruplarında eğitmen geri bildirimi ilişkisel, kişiselleştirilmiş ve uzman temelli olduğu için değerli bulundu; YZ tarafından üretilen geri bildirim ise kişisel olmayan ve potansiyel olarak adaletsiz olarak okundu. Aynı öğrenciler, eğitmenin çalışmalarını okuyup modelin yorumlarını tamamladığı hibrit bir modele açıktı ([[fong-chatgpt-feedback-evaluations-2026|Fong ve ark. (2026)]]). Aynı çalışma, öğrencilerin yargılarının belirginlik ve eyleme dönüştürülebilirlik boyutlarında ChatGPT'ninkilerle örtüştüğünü, zamanındalık ve olumluluk boyutlarında ise ayrıştığını buldu; yani bir modelin kendi hükmüne güvenilebilecek boyutlar tüm ölçütten dardır.
 
 ## Öğrencilere yorumu okumayı öğretin
 
@@ -149,6 +152,6 @@ Memnuniyet puanlarının yorumların doğru olduğunu söylediği sanılır. Dea
 
 ## Bundan sonra nereye gidilir
 
-[[feedback|geri bildirim]] tüm sistem için şemsiye kavramdır: sunum, döngü, alım ve değerlendirme bağlamı. [[ai-feedback-quality|YZ geri bildirim kalitesi]], üretilen yorumları doğru, yararlı, zamanında ve pedagojik olarak sağlam kılan şeyi kapsar; bu sayfa ise pratik orta kısımdır: bu parçaların hangi bileşimlerinin ölçekte daha iyi geri bildirim ürettiği.
+[[feedback|geri bildirim]] tüm sistem için şemsiye kavramdır: sunum, döngü, alım ve değerlendirme bağlamı. [[ai-feedback-quality|YZ geri bildirim kalitesi]], üretilen yorumları doğru, yararlı, zamanında ve pedagojik olarak sağlam kılan şeyi kapsar; pratik soru ise bu parçaların hangi bileşimlerinin ölçekte daha iyi geri bildirim ürettiğidir.
 
 YZ devreye girdikten sonra bir notun ne anlama gelmesi gerektiğine dair sorular, yapı ikamesi, kimliği doğrulanmış süreç kanıtı ve dürüstlük kuralları dahil, buraya değil [[redesign-assessment-ai-era|YZ çağında değerlendirmeyi yeniden tasarlama]] ve [[assessment-validity|değerlendirme geçerliliği]] sayfalarına aittir. Yazma öğretiminin özel durumu için [[writing-instruction-ai-best-practices|YZ bağlamında yazma öğretimi için en iyi uygulamalar]] sayfasına bakın.

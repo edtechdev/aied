@@ -6,9 +6,9 @@ weight: 88
 audience: [instructors, assessment designers]
 foundations: [academic-integrity, ai-literacy, reducing-ai-misuse]
 assessment: [assessment]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:03:31-05:00"
 translation_of: faqs/reduce-ai-cheating
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -52,7 +52,7 @@ Syntesen [[reducing-ai-misuse|Minska AI-missbruk]] rangordnar omdesign som nivå
 
 Börja med en etikett. [[ai-assessment-scale-reform|AI Assessment Scale (AIAS)]] ger varje uppgift en AI-användningsnivå, från ”ingen AI” via ”AI endast för brainstorming” och ”AI-assistans med upphovsangivelse” till ”full AI-användning”, så att förväntan blir uttrycklig och genomförbar i stället för underförstådd.
 
-Ändra sedan artefakten. En [[meta-analysis-systematic-review|systematisk översikt]] av 72 studier om generativ AI i [[cs-education|datavetenskaplig utbildning]] bedömer omdesign som både genomförbar och mest hävstångseffektiv, och pekar ut ett drag: lägg till ett muntligt eller på annat sätt processynligt inslag i minst en bedömning med höga insatser per kurs. Den kallar det den enskilt mest effektiva interventionen i korpusen. Detektering är det tunnaste område översikten täcker, med bara 3 studier, mot att 60 till 80 % av datavetenskapsstudenterna rapporterar generativ AI-användning i kursarbete, oftast utan uttryckligt lärartillstånd, och att 70 % av ett nationellt lärarurval uttryckligen ber om utbildning i AI-resistent bedömningsdesign ([[kumar-genai-computing-education-systematic-review-2026|Kumar m.fl.]]).
+Ändra sedan artefakten. En [[meta-analysis-systematic-review|systematisk översikt]] av 72 studier om generativ AI i [[cs-education|datavetenskaplig utbildning]] bedömer omdesign som både genomförbar och mest hävstångseffektiv, och pekar ut ett drag: lägg till ett muntligt eller på annat sätt processynligt inslag i minst en bedömning med höga insatser per kurs. Den kallar det den enskilt mest effektiva interventionen i översikten. Detektering är det tunnaste område översikten täcker, med bara 3 studier, mot att 60 till 80 % av datavetenskapsstudenterna rapporterar generativ AI-användning i kursarbete, oftast utan uttryckligt lärartillstånd, och att 70 % av ett nationellt lärarurval uttryckligen ber om utbildning i AI-resistent bedömningsdesign ([[kumar-genai-computing-education-systematic-review-2026|Kumar m.fl.]]).
 
 En treårig datavetenskapskurs visar hur långt ett stöttat redovisningsflöde kan flytta beteende. [[shakil-scaffolding-genai-ethical-essay-2026|Shakil m.fl. (2026)]] krävde ett självständigt utkast med en checklista på fyra punkter, ett AI-steg för att förfina men inte skriva om, ett redovisningsformulär och en strukturerad reflektion, där ett saknat utkast eller formulär gav noll. Användningen steg från omkring två tredjedelar av studenterna under frivillig policy till 93 % under det stöttade året; 81 % och 84 % av AI-användarna uppgav att de förkastade eller modifierade förslag, bedömarna kodade 77–81 % av inlämningarna för kritiskt engagemang, och AI-användning förutsade inte uppsatskvalitet självständigt när tidigare skrivförmåga kontrollerades. Det här är en erfarenhetsrapport från en enda kurs, inte en kontrollerad studie, men den visar att integritetsarbetet flyttar från detektion till de villkor under vilka studenter redovisar och reviderar.
 

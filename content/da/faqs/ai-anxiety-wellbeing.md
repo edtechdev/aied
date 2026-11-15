@@ -9,9 +9,9 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
-updated: "2026-11-08T04:01:00-05:00"
+updated: "2026-11-15T16:00:02-05:00"
 translation_of: faqs/ai-anxiety-wellbeing
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -105,7 +105,7 @@ Målet er at få angsten ned. Kim (2026) fandt angst positivt forbundet med veri
 
 Selvtillid beskytter studerende mod karriereskaden. I Duan et al.s model afbødede [[self-efficacy|selvvirke]] den ikke. Karrierefleksibilitet bar den medierede vej.
 
-Det her er et problem for [[student-support-and-success|studerendeservice]]. De fleste tiltag på denne side er undervisningsmæssige: øvelse med lav indsats, guidet evaluering af AI-output, feedbackdrevet revision og en erklæring om forventninger, som studerende kan læse. At kende henvisningsvejen er ét punkt blandt dem.
+Det her er et problem for [[student-support-and-success|studerendeservice]]. De fleste tiltag er undervisningsmæssige: øvelse med lav indsats, guidet evaluering af AI-output, feedbackdrevet revision og en erklæring om forventninger, som studerende kan læse. At kende henvisningsvejen er ét punkt blandt dem.
 
 En trivsels-chatbot er det skalerbare svar på tynd rådgivningskapacitet. Tilgængelighed er reel, og appellen er forståelig. Nøjagtighed på et enkelt hold-out-split er ikke evidens for, at en studerende i mistrivsel har det bedre, og spørgsmålene om fejlklassificering, opbevaring og eskalering har ingen offentliggjorte svar i det arbejde, der citeres her.
 
@@ -117,7 +117,7 @@ En trivsels-chatbot er det skalerbare svar på tynd rådgivningskapacitet. Tilg�
 
 **»Jeg er faglærer, ikke rådgiver.«** Ingen beder dig behandle nogen. Øvelse med lav indsats, en kritikopgave og en revisionsløkke er almindelige undervisningsgreb. Det ene fund, der taler til din position, er lærer-elev-forholdet på andenpladsen i Bashir og Afzals feature-importance-analyse (10,0 %), over søvnkvalitet (9,3 %) og social støtte (7,6 %). Forfatterne kalder det en hypotese, og det er et rimeligt væddemål for en rolle, du allerede har.
 
-**»Vi har ingen rådgivningskapacitet, så et værktøj er bedre end ingenting.«** Måske, og denne side kan ikke afgøre det. Det, du kan insistere på før ibrugtagning, er skriftlige svar på validering af nøjagtighed, hvordan støtteniveauet besluttes, hvad der sker ved en skadelig fejlklassificering, hvordan åbne svar opbevares, og hvordan eskalering til et menneske foregår. Ingen svar, ingen ibrugtagning. En studerende, der åbner sig for et værktøj, der fejlplacerer det, åbner sig måske ikke igen.
+**»Vi har ingen rådgivningskapacitet, så et værktøj er bedre end ingenting.«** Måske, og evidensen kan ikke afgøre det. Det, du kan insistere på før ibrugtagning, er skriftlige svar på validering af nøjagtighed, hvordan støtteniveauet besluttes, hvad der sker ved en skadelig fejlklassificering, hvordan åbne svar opbevares, og hvordan eskalering til et menneske foregår. Ingen svar, ingen ibrugtagning. En studerende, der åbner sig for et værktøj, der fejlplacerer det, åbner sig måske ikke igen.
 
 **»Hvis jeg rejser karriereudsigter i timen, overskrider jeg mit fag.«** Alternativet er, at studerende sammensætter deres svar ud fra arbejdsmarkedet og ud fra hinanden. Duan et al. anbefaler karriereplanlægning som en del af det akademiske program, og Dağ et al. anbefaler det sammen med AI-kompetence. Du kan huse samtalen uden at hævde ekspertise i den og sende de enkelte sager videre til karrierevejledningen.
 

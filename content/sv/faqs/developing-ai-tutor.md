@@ -12,9 +12,9 @@ assessment: [feedback]
 discipline: [math education, writing education]
 methods: [ai-ed-evaluation]
 ethics: [pedagogical-safety]
-updated: "2026-10-29T17:10:58-04:00"
+updated: "2026-11-15T16:03:31-05:00"
 translation_of: faqs/developing-ai-tutor
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,7 @@ ai_assist:
     date: "2026-10-29"
     agent: hermes-agent
 ---
+
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
 
@@ -54,7 +55,7 @@ Tre listor, skrivna innan någon väljer modell:
 
 Litteraturen om [[intelligent-tutoring|intelligent handledning]] gör poängen att effektiviteten beror på [[pedagogy|pedagogisk]] design snarare än på modellförmåga ensam, och felet är lätt att bygga av misstag. En handledare som är optimerad för ”gör klart problemet” underminerar en handledare som är optimerad för ”lär dig lösa problemet” medan den klarar varje funktionstest du skriver, eftersom båda ger korrekta slutsvar. Skillnaden sitter i vad studenten gjorde mellan frågan och svaret.
 
-Den andra listan är där utvecklingsteamen blir konkreta. Ta en behärskningsetikett som ”behärskar derivata” och vägra låta den betyda att producera rätt derivata. Dela upp den i att känna igen när en derivata är lämplig, att tolka den som en momentan förändringstakt, att välja regel, att utföra proceduren, att förklara varför valet var rätt, att kontrollera rimlighet och att tillämpa den på ett obekant problem. Var och en av dem är en separat sak att logga, och var och en antyder ett annat svar när den saknas. Den uppdelningen är också försvaret mot [[correct-answer-trap-misconceptions|fällan med det rätta svaret]], där en student når rätt svar genom felaktigt resonemang och din analys registrerar en framgång. [[correct-answer-trap-ai-tutor|Att fånga fällan med det rätta svaret]] och [[zhang-tutormoments-2026|När hjälpen inte hjälper]] beskriver båda versioner av det felet i produktion.
+Den andra listan är där utvecklingsteamen blir konkreta. Ta en behärskningsetikett som ”behärskar derivata” och vägra låta den betyda att producera rätt derivata. Dela upp den i att känna igen när en derivata är lämplig, att tolka den som en momentan förändringstakt, att välja regel, att utföra proceduren, att förklara varför valet var rätt, att kontrollera rimlighet och att tillämpa den på ett obekant problem. Var och en av dem är en separat sak att logga, och var och en antyder ett annat svar när den saknas. Den uppdelningen är också försvaret mot [[correct-answer-trap-misconceptions|fällan med det rätta svaret]], där en student når rätt svar genom felaktigt resonemang och din [[learning-analytics|analys]] registrerar en framgång. [[correct-answer-trap-ai-tutor|Att fånga fällan med det rätta svaret]] och [[zhang-tutormoments-2026|När hjälpen inte hjälper]] beskriver båda versioner av det felet i produktion.
 
 ## Bygg studentmodellen innan samtalet
 
@@ -92,7 +93,7 @@ Friktion i gränssnittet hör hemma i samma designomgång. Obegränsade ledtråd
 
 ## Låt en kontrollfunktion ta de kontrollerbara delarna
 
-Förankra genereringen i lärargodkänt material: avsnitt i läroboken, kursanteckningar, genomräknade exempel, terminologi, godkända metoder, notation, uppgiftsregler, policyer och [[curriculum-design|kursplane]]resurser. Retrievalförstärkt generering mot den korpusen minskar [[hallucination-risk|hallucinationsrisken]] och tar inte bort den, vilket [[rag|RAG]] redogör för. Visa källhänvisningar eller proveniens i gränssnittet där en student kan kontrollera ett påstående, för källhänvisningen är det som gör förankringen granskningsbar i efterhand.
+Förankra genereringen i lärargodkänt material: avsnitt i läroboken, kursanteckningar, genomräknade exempel, terminologi, godkända metoder, notation, uppgiftsregler, policyer och [[curriculum-design|kursplane]]resurser. Retrievalförstärkt generering mot det materialet minskar [[hallucination-risk|hallucinationsrisken]] och tar inte bort den, vilket [[rag|RAG]] redogör för. Visa källhänvisningar eller proveniens i gränssnittet där en student kan kontrollera ett påstående, för källhänvisningen är det som gör förankringen granskningsbar i efterhand.
 
 Förankring gör också ett jobb som träffsäkerhetsmått missar. En kurs har godkända metoder, och en handledare som inför en matematiskt giltig teknik som kursen inte använder har lärt studenten något de får poängavdrag för. Retrieval från kurslagret är hur handledaren håller sig inom metodmängden.
 
@@ -100,7 +101,7 @@ För domäner med formellt kontrollerbara svar, lägg till deterministiska verkt
 
 ## Kräv att studenten agerar på återkopplingen
 
-Återkoppling som säger ”Rätt”, ”Fel” eller ”Bra jobbat” är en poängsättningshändelse i undervisningens kläder. Kunskapsbasen behandlar [[feedback|återkoppling]] som en loop mellan erbjudande och upptag: återkoppling stöder lärande när studenter förstår den och agerar på den, och den andra halvan är den halva systemen brukar hoppa över. Bygg handledaren så att den namnger det resonemangssteg som är inblandat, säger vad som behöver omprövas, ger en konkret nästa handling och ber studenten förutsäga eller förklara innan återkopplingen visas.
+Återkoppling som säger ”Rätt”, ”Fel” eller ”Bra jobbat” är en poängsättningshändelse i undervisningens kläder. Forskningen behandlar [[feedback|återkoppling]] som en loop mellan erbjudande och upptag: återkoppling stöder lärande när studenter förstår den och agerar på den, och den andra halvan är den halva systemen brukar hoppa över. Bygg handledaren så att den namnger det resonemangssteg som är inblandat, säger vad som behöver omprövas, ger en konkret nästa handling och ber studenten förutsäga eller förklara innan återkopplingen visas.
 
 Sekvensen som bär detta är student först, AI sedan, student igen. Studenten genererar, väljer, motiverar, utvärderar eller reflekterar; handledaren svarar; studenten gör något med svaret. Designa turens struktur så att detta inte är valfritt. Ett system där modellen kan producera tre stycken som svar på en fråga lär studenten att fråga och läsa.
 
@@ -114,7 +115,7 @@ Testa för svarsläckage, förstärkning av missuppfattningar, överdrivet inst�
 
 ## Sätt dataarkitekturen i samma designdokument
 
-Samla bara in studentdata som är pedagogiskt nödvändig, och kunna säga varför varje fält finns. Där du har beständigt minne eller en [[student-modeling|studentmodell]], gör dess syfte synligt för studenten, ge dem rimlig kontroll över den, skydda känslig information, definiera lagringstid och skicka konsekvensbeslut till en lärare eller en annan [[human-in-the-loop-ai|mänsklig]] kontrollpunkt. En studentmodell som tyst ackumulerar en konfidensskattning som studenten aldrig ser är ett dataskyddsproblem och ett pedagogiskt problem.
+Samla bara in studentdata som är pedagogiskt nödvändig, och kunna säga varför varje fält finns. Där du har beständigt minne eller en [[student-modeling|studentmodell]], gör dess syfte synligt för studenten, ge dem rimlig kontroll över den, skydda känslig information, definiera lagringstid och skicka konsekvensbeslut till en lärare eller en annan [[human-in-the-loop-ai|mänsklig]] kontrollpunkt. En studentmodell som tyst ackumulerar en konfidensskattning som studenten aldrig ser är ett [[privacy|dataskyddsproblem]] och ett pedagogiskt problem.
 
 Granska beteendet över språkliga bakgrunder, förmågenivåer, kulturella kontexter, [[accessibility|tillgänglighets]]behov och nivåer av [[prior-knowledge|förkunskaper]] och AI-erfarenhet. Olika prestation på samma mål är en bugg med en student kopplad till sig, och den syns inte i ditt aggregerade träffsäkerhetstal.
 
@@ -132,7 +133,7 @@ Mer grundläggande: de flesta utvärderingar stannar i det ögonblick stödet up
 
 Före driftsättning, låt lärare testa realistiska studentprofiler, vanliga missuppfattningar, gränsfall, fientliga prompts, tvetydiga svar och långa handledningssamtal. Logga de pedagogiska felen och mata tillbaka dem i systemprompter, handledningspolicyer, kunskapskällor, [[guardrails|skyddsräcken]], studentmodellregler och modellval. Ett flytande svar kan fortfarande vara pedagogiskt fel, och en lärare är den enda granskare som kan se det.
 
-[[teacher-intervention-k12-ai-based-instruction-2026|Lees systematiska genomgång av 29 K-12-studier]] beskriver vad den tillsynen består av och var den brister. [[teacher-role|Lärar]]intervention är en återkommande fyrafascykel av övervakning, bedömning, intervention och orkestrering. AI-larm, [[visualization|instrumentpaneler]] och automatiska poäng ”leder inte automatiskt till pedagogisk handling”. Den starkaste lärarstrategin som genomgången finner är pedagogisk översättning: att välja ut, revidera, komplettera, sammanfatta eller stryka chattbotens återkoppling i stället för att skicka den vidare.
+[[teacher-intervention-k12-ai-based-instruction-2026|Lees systematiska genomgång av 29 K-12-studier]] beskriver vad den tillsynen består av och var den brister. [[teacher-role|Lärarintervention]] är en återkommande fyrafascykel av övervakning, bedömning, intervention och orkestrering. AI-larm, [[visualization|instrumentpaneler]] och automatiska poäng ”leder inte automatiskt till pedagogisk handling”. Den starkaste lärarstrategin som genomgången finner är pedagogisk översättning: att välja ut, revidera, komplettera, sammanfatta eller stryka chattbotens återkoppling i stället för att skicka den vidare.
 
 Två designvarningar följer, och båda motsäger den vanliga färdplanen. Mer AI-information är inte bättre: system som kontinuerligt sänder ut diagnostik överbelastade lärare och drog uppmärksamheten från deras egen observation. Prioritera det som är värt att agera på, gör det tolkningsbart och erbjud rekommendationer i en form som en lärare kan acceptera, ändra, skjuta upp eller avvisa. Mer lärarstöd är inte heller bättre: att skjuta upp interventionen så att studenter kan arbeta självständigt är i sig expertis. Strukturella villkor, alltså tid att granska data, klasstorlek och möjligheten att fysiskt nå de grupper som behöver hjälp, är en del av interventionen snarare än bakgrundslogistik. En instrumentpanel byggd för en lärare utan ledig lektion öppnas inte.
 
@@ -152,7 +153,7 @@ En handledare för första terminens universitetsanalys ska höja vad studentern
 
 ## Fall två: en skrivcoach, där fasen avgör tillåtelsen
 
-Skrivande har inget enda rätt svar, så verifiering är omdöme och designarbetet flyttar till fasindelning. Kunskapsbasen ramar in skrivande som en kognitiv, social och retorisk process, vilket betyder att ett AI-skrivsystem kan stödja lärande och också kan eliminera exakt det tänkande uppgiften fanns för att utveckla ([[writing-education|skrivundervisning]], [[coach-not-crutch-ai-writing|coach, inte krycka]]).
+Skrivande har inget enda rätt svar, så verifiering är omdöme och designarbetet flyttar till fasindelning. Skrivande är en kognitiv, social och retorisk process, vilket betyder att ett AI-skrivsystem kan stödja lärande och också kan eliminera exakt det tänkande uppgiften fanns för att utveckla ([[writing-education|skrivundervisning]], [[coach-not-crutch-ai-writing|coach, inte krycka]]).
 
 **En förmågemodell.** Följ argumentation (tesens precision, samstämmighet mellan påstående och evidens, motargument), organisation (styckefokus, logisk progression, övergångar), evidens (källans relevans, integrering, tolkning), revidering (global och meningsnära revidering, utvärdering av återkoppling) och stil (klarhet, grammatik, röst). Var och en blir en separat signal i studentmodellen, vilket är det som gör riktad återkoppling möjlig över huvud taget.
 
@@ -209,11 +210,11 @@ Engagemang är målet. Samtalslängd och antal sessioner är de billigaste mått
 
 **”Studenterna älskar det och genomförandet är uppe.”** Båda fakta är förenliga med ett system som svarar bra på frågor och inte lär ut något. Studien med 6 000 elever fann långsammare progression och färre försökta frågor vid sidan av bättre träffsäkerhet, så en nedgång i genomförande är inte automatiskt dåliga nyheter heller. Rapportera prestation utan stöd bredvid engagemangstalen och låt de två vara oense offentligt.
 
-**”Vi kan inte göra en randomiserad studie.”** Du kan göra en jämförelse inom studenten utan en: samma mål, med stöd under momentet, testat utan stöd två veckor senare, med poängen med stöd rapporterad bredvid. Den designen svarar på produktfrågan och behöver ingen kontrollgrupp. Det den inte kan säga är kontrafaktualen för studenter som aldrig använde handledaren.
+**”Vi kan inte göra en [[rct|randomiserad studie]].”** Du kan göra en jämförelse inom studenten utan en: samma mål, med stöd under momentet, testat utan stöd två veckor senare, med poängen med stöd rapporterad bredvid. Den designen svarar på produktfrågan och behöver ingen kontrollgrupp. Det den inte kan säga är kontrafaktualen för studenter som aldrig använde handledaren.
 
-**”Modellen är ett leverantörs-API, så hjälpbeteendet ligger utanför vår kontroll.”** Stegen bor i ditt orkestreringslager, och skyddsräckesexperimentets resultat kom från att ändra vad handledaren fick säga, inte från att byta modell. Räkna med att leverantörens efterträning drar mot att svara snabbt, eftersom hjälpsamhet är vad den trimmats för, och lägg återhållsamheten i din egen kod.
+**”Modellen är ett leverantörs-API, så hjälpbeteendet ligger utanför vår kontroll.”** Stegen bor i ditt orkestreringslager, och skyddsräckesexperimentets resultat kom från att ändra vad handledaren fick säga, inte från att byta modell. Räkna med att leverantörens [[llm-training-and-fine-tuning|efterträning]] drar mot att svara snabbt, eftersom hjälpsamhet är vad den trimmats för, och lägg återhållsamheten i din egen kod.
 
-**”Lärarna kommer inte att använda ännu en instrumentpanel.”** De kommer inte att använda en som sänder ut kontinuerlig diagnostik, vilket K-12-genomgången fann drog uppmärksamheten från deras egen observation. Ge dem ett litet antal tolkningsbara signaler, ett sätt att acceptera eller avvisa varje rekommendation, och tid i veckan att titta på dem.
+**”Lärarna kommer inte att använda ännu en instrumentpanel.”** De kommer inte att använda en som sänder ut kontinuerlig diagnostik, vilket [[k-12|K-12]]-genomgången fann drog uppmärksamheten från deras egen observation. Ge dem ett litet antal tolkningsbara signaler, ett sätt att acceptera eller avvisa varje rekommendation, och tid i veckan att titta på dem.
 
 **”Vi har inga ämnesexperter anställda.”** Då kommer handledaren att lära ut generisk metod och kursens notation driver inom en termin. En ämnesexpert i två dagar vid designtidpunkten, som skriver listan över missuppfattningar och listan över godkända metoder, är den billigaste posten i projektet och den team skär bort först.
 

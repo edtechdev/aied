@@ -1,9 +1,9 @@
 ---
 title: "ما ينبغي أن يتجنّبه المربّون في استخدام الذكاء الاصطناعي؟"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-11T06:20:00-05:00"
+updated: "2026-11-15T16:08:23-05:00"
 type: faq
-connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors]
+connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors, adopting-ai-options-and-issues]
 weight: 90
 foundations: [misconceptions, reducing-ai-misuse, ai-literacy, limitations-in-aied-research]
 pedagogy: [reflection, professional-training]
@@ -11,7 +11,7 @@ technology: [generative-ai, learning-analytics, affective-computing]
 assessment: [assessment-validity, ai-detection, self-report-measures, feedback]
 ethics: [privacy, pedagogical-safety, equity-in-ai-education, accessibility, automation-bias]
 audience: [instructors, learners, parents and families, faculty developers, software developers, administrators, researchers]
-source_updated: "2026-11-11T06:20:00-05:00"
+source_updated: "2026-11-14T04:30:00-05:00"
 translation_of: faqs/what-not-to-do-ai-education
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
@@ -24,7 +24,7 @@ ai_assist:
 
 *ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي.*
 
-معظم الإرشادات حول الذكاء الاصطناعي في التعليم تقول ما ينبغي تجربته. هذه الصفحة تجمع الممارسات التي تقول الأدلة إنه ينبغي التوقف عنها، مرتبة بحسب الدور الذي سيتعيّن عليه أن يوقفها. أما المعتقدات الخاطئة فتُعالَج في مكان آخر: [[addressing-common-misconceptions-ai-education|الأسئلة الشائعة عن المفاهيم الخاطئة]] تتناولها، وصفحة مفهوم [[misconceptions|المفاهيم الخاطئة]] تشرح لماذا تستمر. وما لا يستطيع البحث قوله لكم بعد يندرج تحت [[limitations-in-aied-research|حدود البحث في الذكاء الاصطناعي في التعليم]]. وما يلي هنا هو الخطوة التي تأتي بعد المعتقد، أي ما يفعله الناس، وما يكلّفهم، وما ينبغي فعله بدلًا منه.
+معظم الإرشادات حول الذكاء الاصطناعي في التعليم تقول ما ينبغي تجربته. يجمع هذا الدليل الممارسات التي تقول الأدلة إنه ينبغي التوقف عنها، مرتبة بحسب الدور الذي سيتعيّن عليه أن يوقفها. أما المعتقدات الخاطئة فتُعالَج في مكان آخر: [[addressing-common-misconceptions-ai-education|الأسئلة الشائعة عن المفاهيم الخاطئة]] تتناولها، وصفحة مفهوم [[misconceptions|المفاهيم الخاطئة]] تشرح لماذا تستمر. وما لا يستطيع البحث قوله لكم بعد يندرج تحت [[limitations-in-aied-research|حدود البحث في الذكاء الاصطناعي في التعليم]]. وما يلي هنا هو الخطوة التي تأتي بعد المعتقد، أي ما يفعله الناس، وما يكلّفهم، وما ينبغي فعله بدلًا منه.
 
 تتكرر ثلاثة إخفاقات عبر الأدوار.
 

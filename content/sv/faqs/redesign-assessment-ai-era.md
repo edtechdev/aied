@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-10-29T17:10:58-04:00"
+updated: "2026-11-15T16:03:31-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-10-28T10:45:41-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -17,6 +17,7 @@ ai_assist:
     date: "2026-10-29"
     agent: hermes-agent
 ---
+
 
 *Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*
 
@@ -38,7 +39,7 @@ Det korta svaret: bestäm vad betyget ska vara evidens **för**, lägg in minst 
 
 ## Bestäm vad betyget är evidens för
 
-Börja med att uttryckligen ange vilken förmåga betyget ska representera. Bedömer du vad en student kan göra självständigt, vad hen kan åstadkomma på lämpligt sätt med AI, hens förmåga att värdera och styra AI, eller någon kombination av dessa? Kunskapsbasens [[assessment-validity|Bedömningsvaliditet]] behandlar detta som ett validitetsproblem: en polerad produkt är inte längre tillräcklig evidens för att studenten har den förmåga som produkten uppenbart uppvisar. Det här är bedömningshalvan av samma argument; kontrollhalvan finns i [[reduce-ai-cheating|Att minska AI-fusk]], och den allmänna validitetsramen löper genom [[evaluating-ai-interventions-methods|Att utvärdera AI-interventioner: metoder]].
+Börja med att uttryckligen ange vilken förmåga betyget ska representera. Bedömer du vad en student kan göra självständigt, vad hen kan åstadkomma på lämpligt sätt med AI, hens förmåga att värdera och styra AI, eller någon kombination av dessa? [[assessment-validity|Bedömningsvaliditet]] behandlar detta som ett validitetsproblem: en polerad produkt är inte längre tillräcklig evidens för att studenten har den förmåga som produkten uppenbart uppvisar. Det här är bedömningshalvan av samma argument; kontrollhalvan finns i [[reduce-ai-cheating|Att minska AI-fusk]], och den allmänna validitetsramen löper genom [[evaluating-ai-interventions-methods|Att utvärdera AI-interventioner: metoder]].
 
 Säg svaret i kursplanen, i uppgiftsbladet och i bedömningsmatrisen. Studenterna läser tre dokument och följer det som är mest specifikt. ”AI-användning är tillåten med redovisning” är inget påstående om vad du mäter, och det ger studenten ingen möjlighet att veta om den tillåtna användningen undergräver det du betygssätter.
 
@@ -86,7 +87,7 @@ Syftet betyder lika mycket som mekaniken. [[ai-agents-joyful-assessment-third-sp
 
 **”Ackreditering och programgodkännande kommer inte att röra sig så fort.”** Studien ovan namnger långa ledtider och ackrediteringsbegränsningar för stora kullar som den centrala friktionen. En enskild kurs kan ändra vad som händer inom en befintlig bedömning utan att ändra dess namn, dess vikt eller dess lärandemål, och det räcker oftast för att börja.
 
-**”Det här missgynnar ängsliga studenter och studenter med funktionsnedsättning.”** Det kan det göra. Muntliga komponenter i realtid behöver anpassningar planerade i förväg, ett val av format där konstruktet tillåter det, och uppmärksamhet på språklig skillnad och bedömarpartiskhet. Verifiera förmågan, inte förutsättningarna för prestationen.
+**”Det här missgynnar ängsliga studenter och [[inclusive-learning|studenter med funktionsnedsättning]].”** Det kan det göra. Muntliga komponenter i realtid behöver anpassningar planerade i förväg, ett val av format där konstruktet tillåter det, och uppmärksamhet på språklig skillnad och bedömarpartiskhet. Verifiera förmågan, inte förutsättningarna för prestationen.
 
 **”Vi borde bara köpa en detektor.”** Diskriminationsresultatet talar emot det som designens ryggrad: om falska positiva ökar snabbare än sanna positiva gör starkare övervakning döljandet relativt sett mer attraktivt. Detektion kan ha en plats i ett svar som också gör om uppgiften, och [[should-we-use-ai-detectors|Bör vi använda AI-detektorer?]] täcker det argumentet.
 
@@ -107,3 +108,4 @@ Syftet betyder lika mycket som mekaniken. [[ai-agents-joyful-assessment-third-sp
 ## Vart du går härnäst
 
 Validitetsargumentet bakom hela sidan finns i [[assessment-validity|Bedömningsvaliditet]]; kontrollhalvans följeslagare är [[reduce-ai-cheating|Att minska AI-fusk]], med [[course-ai-policy|AI-policy för kursen]] bredvid. [[writing-instruction-ai-best-practices|Bästa praxis för skrivundervisning med AI]] täcker formuleringarna som studenterna faktiskt följer, och [[evaluating-ai-interventions-methods|Att utvärdera AI-interventioner: metoder]] täcker huruvida verktyget du utformar kring fungerar över huvud taget.
+

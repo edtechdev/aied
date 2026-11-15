@@ -11,9 +11,9 @@ methods: [meta-analysis-systematic-review, mixed-methods-research]
 research_method: [interviews]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:26:08-05:00"
+updated: "2026-11-15T15:56:55-05:00"
 translation_of: faqs/group-work-ai
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -89,7 +89,7 @@ Hãy ghép điểm nhóm với một phần cá nhân: một [[oral-assessment|b
 
 Những hạn chế của họ đi kèm với trích dẫn: một cơ sở dữ liệu duy nhất, chỉ bài báo tạp chí, không chú ý đến [[ethics|đạo đức]] hay quyền riêng tư, hai năm đầu của công nghệ, và không áp dụng công cụ đánh giá nguy cơ thiên lệch. Hãy đọc “xúc tác” như một mô tả thực tiễn quan sát được, không phải một kết quả đã đo.
 
-Phát hiện là công cụ sai để phân loại đóng góp cá nhân: không nghiên cứu nào trong sáu nghiên cứu này kiểm nghiệm công cụ phát hiện trong bối cảnh nhóm, và những vấn đề ở cấp cá nhân với việc phát hiện đã được ghi ở chỗ khác trong cơ sở tri thức này. Sự tiết chế cần được diễn giải trước khi cần được chỉnh. Chen và Zou cảnh báo rằng một nhóm từ chối AI có thể đang né một thứ xa lạ chứ không phải đang thực thi [[self-regulated-learning|tự điều chỉnh]] có chủ đích, và hai trường hợp đòi hai phản ứng khác nhau: một là vấn đề dạy học, còn một là một lập trường đã cân nhắc mà bạn chấm được.
+Phát hiện là công cụ sai để phân loại đóng góp cá nhân: không nghiên cứu nào trong sáu nghiên cứu này kiểm nghiệm công cụ phát hiện trong bối cảnh nhóm, và những vấn đề ở cấp cá nhân với việc phát hiện đã được ghi nhận đầy đủ. Sự tiết chế cần được diễn giải trước khi cần được chỉnh. Chen và Zou cảnh báo rằng một nhóm từ chối AI có thể đang né một thứ xa lạ chứ không phải đang thực thi [[self-regulated-learning|tự điều chỉnh]] có chủ đích, và hai trường hợp đòi hai phản ứng khác nhau: một là vấn đề dạy học, còn một là một lập trường đã cân nhắc mà bạn chấm được.
 
 Các thành viên nhóm mô phỏng cũng không giải quyết câu hỏi này. [[llm-agents-collaborative-problem-solving-simulation-2026|Fang (2026)]] tinh chỉnh các tác nhân [[llm|LLM]] trên hội thoại thật của người tham gia (bộ chuyển đổi [[llm-training-and-fine-tuning|LoRA/QLoRA]] trên LLaMA 3.2-3B) để mô hình hóa 48 người tham gia qua 3.824 lượt nói và sáu mã chủ đề, rồi so sánh diễn ngôn thật với diễn ngôn mô phỏng bằng [[network-analysis|Phân tích Mạng Nhận thức]]. Mạng mô phỏng đạt khoảng cách 0.17 so với mạng thực nghiệm, dưới ngưỡng 0.30, với p-value hoán vị là 0.65, tức là không phân biệt được về mặt thống kê, dù nó hơi quá nhấn mạnh các liên kết Ràng buộc Kỹ thuật và Thiết kế, và ít thể hiện hơn các Tham số Dữ liệu và Hiệu suất. Đây là một bài báo khung với độ tin cậy trung bình, và nó chỉ ủng hộ một khẳng định: các tác nhân riêng cho từng người tham gia có thể tái tạo diễn ngôn hợp tác giống thật. Nó không cho thấy sinh viên học được nhiều hơn từ những người bạn cùng nhóm mô phỏng.
 

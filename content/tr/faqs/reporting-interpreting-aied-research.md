@@ -1,6 +1,7 @@
 ---
 title: "Eğitimde Yapay Zeka Araştırmalarını Bildirmenin ve Yorumlamanın En İyi Uygulamaları Nelerdir?"
 created: "2026-10-14T10:36:01-04:00"
+updated: "2026-11-15T16:08:48-05:00"
 connected_faqs: [checking-whether-educational-ai-works, research-gaps-aied, evaluating-ai-interventions-methods]
 weight: 65
 type: faq
@@ -12,7 +13,7 @@ audience: [researchers]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, benchmark, meta-analysis-systematic-review, research-methods-aied]
 translation_of: faqs/reporting-interpreting-aied-research
-source_updated: "2026-10-28T11:43:14-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -34,7 +35,7 @@ Bu vakaların çoğunu altı eksiklik belirler: hangi YZ sisteminin kullanıldı
 
 ## Kısa özet
 
-**1.** YZ’yi bir satıcı olarak değil bir müdahale olarak betimleyin. Model, sürüm, yapılandırma, istemler, rol ve çıktıyı kimin tasarladığı ya da gözden geçirdiği.
+**1.** YZ’yi bir satıcı olarak değil bir müdahale olarak betimleyin. Model, sürüm, yapılandırma, [[prompt-engineering|istem]]ler, rol ve çıktıyı kimin tasarladığı ya da gözden geçirdiği.
 
 **2.** Pedagojik gerekçeyi ve etkin karşılaştırmayı adlandırın. Bir ürün adı yöntem değildir ve her zamanki öğretim adil bir kontrol değildir.
 
@@ -50,9 +51,9 @@ Bu vakaların çoğunu altı eksiklik belirler: hangi YZ sisteminin kullanıldı
 
 Bu, gönderimlerin çoğunun başarısız olduğu kontroldür. RAISE çerçevesi (*Reporting AI Studies in Education*, Allison 2026), on tematik alana yayılan 30 maddelik bir denetim listesidir ve teşhis iddiası belirgindir: gönderimler hangi modelin kullanıldığını, nasıl yapılandırıldığını, hangi rolü oynadığını ve insan aktörlerin çıktılarını tasarlayıp tasarlamadığını ya da gözden geçirip geçirmediğini rutin olarak atlar. Hakemlere sonra yanıtlanamaz dört soru kalır. YZ tam olarak ne yapıyordu? Gerekli miydi? Bu yinelenebilir mi? Öğrenme iddiaları inandırıcı mı?
 
-RAISE eğitsel gerekçeden başlayıp API düzeyinde belirtime, öğrenen–YZ etkileşimine, erişilebilirliğe ve kültürel uyuma, katılımcılara ve ortama, insan katılımına, tasarıma, etiğe, şeffaflığa ve yinelenebilirliğe ve oradan sınırlılıklara uzanır. Eşlik eden Etik ve Risk Matrisi, öğrenen [[agency|özerkliğine]], [[equity-in-ai-education|eşitliğe]], veri [[governance|yönetişimine]] ve algoritmik şeffaflığa yönelik riskleri kapsar. [[tep-aied-model-reporting-2026|Hwang, Xie, Wah ve Gašević (2026)]] sadeleştirilmiş bir alternatif sunar. TEP-AIED Şeffaflık, Etik ve Pedagojiyi tek bir karşılıklı bağımlı yapıda birleştirir, yedi makale bölümüne eşlenmiş bir kılavuz tablosu sağlar ve yazarlardan “Transparency, Ethics, and Pedagogy Considerations” başlıklı bir Yöntem alt bölümü eklemelerini ister. Gerekçeleri pratiktir: RAISE kapsamlıdır ve rutin ampirik kullanım için fazla ayrıntılıdır. Açıklama [[ai-use-disclosure]] altında durur ve [[privacy|gizlilik]] ile [[ethics|etik]] iddialarını denetlenebilir kılan şey odur.
+RAISE eğitsel gerekçeden başlayıp API düzeyinde belirtime, öğrenen–YZ [[student-ai-interaction|etkileşim]]ine, erişilebilirliğe ve kültürel uyuma, katılımcılara ve ortama, insan katılımına, tasarıma, etiğe, şeffaflığa ve yinelenebilirliğe ve oradan sınırlılıklara uzanır. Eşlik eden Etik ve Risk Matrisi, öğrenen [[agency|özerkliğine]], [[equity-in-ai-education|eşitliğe]], veri [[governance|yönetişimine]] ve algoritmik şeffaflığa yönelik riskleri kapsar. [[tep-aied-model-reporting-2026|Hwang, Xie, Wah ve Gašević (2026)]] sadeleştirilmiş bir alternatif sunar. TEP-AIED Şeffaflık, Etik ve Pedagojiyi tek bir karşılıklı bağımlı yapıda birleştirir, yedi makale bölümüne eşlenmiş bir kılavuz tablosu sağlar ve yazarlardan “Transparency, Ethics, and Pedagogy Considerations” başlıklı bir Yöntem alt bölümü eklemelerini ister. Gerekçeleri pratiktir: RAISE kapsamlıdır ve rutin ampirik kullanım için fazla ayrıntılıdır. Açıklama [[ai-use-disclosure]] altında durur ve [[privacy|gizlilik]] ile [[ethics|etik]] iddialarını denetlenebilir kılan şey odur.
 
-Eğitsel gerekçe RAISE’de ilk sıradadır, çünkü YZ tarafsız bir araç değildir. Değer, öğrenme problemi ile kuramsal gerekçe arasındaki hizaya ve hedeflerden sonuç ölçülerine giden eşlemeye bağlıdır. [[oneill-presumed-effective-meta-analysis-2026|O’Neill (2026)]], denetlenen 14 meta-analizden ikisi dışında hepsinin müdahaleyi bir araç olarak tanımladığını buldu: ChatGPT ya da GenAI ya da genel olarak “YZ”. Bir ürün adı [[pedagogy|pedagoji]] değildir. ChatGPT’ye maruz kalmayı tek bir ortak müdahale saymak, “kâğıt”ın etkilerini meta-analize sokmaya benzer.
+Eğitsel gerekçe RAISE’de ilk sıradadır, çünkü YZ tarafsız bir araç değildir. Değer, öğrenme problemi ile kuramsal gerekçe arasındaki hizaya ve hedeflerden sonuç ölçülerine giden eşlemeye bağlıdır. [[oneill-presumed-effective-meta-analysis-2026|O’Neill (2026)]], denetlenen 14 meta-analizden ikisi dışında hepsinin müdahaleyi bir araç olarak tanımladığını buldu: ChatGPT ya da [[generative-ai|GenAI]] ya da genel olarak “YZ”. Bir ürün adı [[pedagogy|pedagoji]] değildir. ChatGPT’ye maruz kalmayı tek bir ortak müdahale saymak, “kâğıt”ın etkilerini meta-analize sokmaya benzer.
 
 [[weidlich-chatgpt-effect-search-cause-2025|Weidlich ve arkadaşları (2025)]] birincil çalışmalar için aynı argümanı kurar. Öne çıkan bir meta-analizin arkasındaki karşılaştırmaların bir alt kümesini denetlediklerinde yalnızca %21’inin iyi tanımlanmış bir müdahalesi, bir kontrol grubu ve geçerli bir öğrenme ölçüsü olduğunu buldular. Bildirilen etki büyüklüğü (g = 0,7) ayrıca amaca özel [[intelligent-tutoring|akıllı eğitmenlik sistemlerininkini]] de (0,66) aşıyordu ve bu fark bir uyarı işaretidir: amaca özel eğitmenliği geçen bir müdahale, muhtemelen tek bir etiketin altında farklı şeylerden oluşan bir demettir.
 
@@ -90,7 +91,7 @@ Aracı hareket eden bir hedef olarak ele alın. Tescilli sistemler haber vermede
 
 ## Maliyetleri ve kendi kullanımınızı açıklayın
 
-AIED 2025 konferans bildirilerinin tamamını kapsayan bir inceleme, açıklama olmadan LLM benimsenmesinden oluşan bir örüntü buldu: projelerin çoğu LLM kullandı ve birkaçından azı kaynak tüketimini ya da karbon ayak izini bildirdi. O makale, yerel ve bulut donanımı için ölçüm araçlarıyla birlikte açık kaynaklı bir yöntem ve parametre sayıları açıklanmayan öncü modellerin hesaplama maliyetini tahmin etmek için bir formül sunuyor. Argümanı, bu maliyetleri bildirmemenin kendi başına bir etik kaygı olduğudur. Veri yönetişimi, rıza, erişilebilirlik ve kültürel uyum aynı paragrafa aittir (RAISE maddeleri; [[universal-design-for-learning]], [[accessibility]]). Daha kapsamlı ele alış [[equity-ethics-pedagogical-safety-research]] sayfasındadır.
+AIED 2025 konferans bildirilerinin tamamını kapsayan bir inceleme, açıklama olmadan LLM benimsenmesinden oluşan bir örüntü buldu: projelerin çoğu LLM kullandı ve birkaçından azı kaynak tüketimini ya da karbon ayak izini bildirdi. O makale, yerel ve bulut donanımı için ölçüm araçlarıyla birlikte [[open-source|açık kaynak]]lı bir yöntem ve parametre sayıları açıklanmayan öncü modellerin hesaplama maliyetini tahmin etmek için bir formül sunuyor. Argümanı, bu maliyetleri bildirmemenin kendi başına bir etik kaygı olduğudur. Veri yönetişimi, rıza, erişilebilirlik ve kültürel uyum aynı paragrafa aittir (RAISE maddeleri; [[universal-design-for-learning]], [[accessibility]]). Daha kapsamlı ele alış [[equity-ethics-pedagogical-safety-research]] sayfasındadır.
 
 Araştırma sürecinde kendi YZ kullanımınız da aynı açıklamayı gerektirir. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta ve Lin’in PRISMA-LLM analizi]], 888 derleme otomasyonu makalesi üzerinden bu bildirimin ne kadar düzensiz olduğunu gösteriyor. 2023’ten bu yana yazılım ve ürün makalelerinin %38,0’ı hiç değerlendirme bildirmedi; LLM makalelerinde bu oran %9,3. Ortalama bildirim zenginliği LLM makalelerinde 6,3, yazılım ve ürün makalelerinde 3,3’tü. LLM kullanımının %84,1’i tescilli ya da barındırılan sistemlere dayanıyordu; yalnızca %4,9’u açık ağırlıklıydı. Çerçeveleri, uygulama açıklamasını sonuç duyarlı değerlendirmeden beş açıklama katmanında ayırır; bu, bir aracın bir derleme içinde ne yaptığını betimlemek için kullanılabilir bir şablondur.
 
@@ -106,7 +107,7 @@ Sıfır ve olumsuz bulguları bildirmek dürüst bir kanıt tabanının diğer y
 
 ## Araştırmacıların bu konuda yanlış yaptığı şeyler
 
-**“Etki büyüklüğü, yöntemin bir özelliğidir.”** Eğitimde YZ’nin bildirilecek bir etkisi yoktur. Denetlenen meta-analizlerin ikisi dışında hepsi müdahaleyi bir araç adı olarak tanımladı, denetlenen karşılaştırmaların yalnızca %21’inde tanımlı bir müdahale, bir kontrol ve geçerli bir ölçü vardı ve birleştirilmiş g = 0,7, amaca özel akıllı eğitmenliğin 0,66’sının üzerinde oturuyordu. Bir etki büyüklüğü bir tasarıma, bir popülasyona ve bir ölçüm anına aittir.
+**“Etki büyüklüğü, yöntemin bir özelliğidir.”** [[ai-education|Eğitimde YZ’nin]] bildirilecek bir etkisi yoktur. Denetlenen meta-analizlerin ikisi dışında hepsi müdahaleyi bir araç adı olarak tanımladı, denetlenen karşılaştırmaların yalnızca %21’inde tanımlı bir müdahale, bir kontrol ve geçerli bir ölçü vardı ve birleştirilmiş g = 0,7, amaca özel akıllı eğitmenliğin 0,66’sının üzerinde oturuyordu. Bir etki büyüklüğü bir tasarıma, bir popülasyona ve bir ölçüm anına aittir.
 
 **“Birleştirilmiş ortalama, benim öğrencilerime olacak şeydir.”** Ortalama, çalışmalar kümesini betimler ve içindeki hiçbir şey tek bir sınıfı sabitlemez. Yanlılık düzeltmeli ortalama SMD = 0,196’dır ve tahmin aralığı -1,521 ile +1,908 arasında uzanır. Bildirilen heterojenlik 13 meta-analizin 12’sinde %80’in üzerindedir ve daha büyük havuzdaki hiçbir alt grup tutarlı kazanç göstermedi. Öğrenci düzeyinde bir değişim iki sayıdan da tanımlanamaz.
 
@@ -124,7 +125,7 @@ Sıfır ve olumsuz bulguları bildirmek dürüst bir kanıt tabanının diğer y
 
 **“Herkes böyle bildiriyor.”** Sayılar normun sorun olduğunu söylüyor: denetlenmiş birincil çalışmaların %61’inde geçerlilik kaygısı, 13 meta-analizin 12’sinde %80 üzeri heterojenlik, yazılım ve ürün makalelerinin %38,0’ında hiç değerlendirme yok.
 
-**“Aracımız tescilli, dolayısıyla modeli bildiremiyoruz.”** Sürümü, erişim tarihini, yapılandırmayı, sağladığınız istemleri, rolü ve koruma kurallarını bildirin. Satıcı söylemiyorsa bu kısıt, iddia üzerinde bir bağ olarak sınırlılıklara aittir.
+**“Aracımız tescilli, dolayısıyla modeli bildiremiyoruz.”** Sürümü, erişim tarihini, yapılandırmayı, sağladığınız istemleri, rolü ve [[guardrails|koruma]] kurallarını bildirin. Satıcı söylemiyorsa bu kısıt, iddia üzerinde bir bağ olarak sınırlılıklara aittir.
 
 **“Sıfır sonuçları bildirmek bize zarar verir.”** Bastırılmış sıfır sonuçlar, SMD = 0,196’lık yanlılık düzeltmeli ortalamanın arkasındaki belgelenmiş mekanizmadır. Onları yayımlamak, olumlu sonucunuzu okunabilir tutan şeydir.
 

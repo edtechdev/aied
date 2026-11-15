@@ -6,9 +6,9 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-11-01T11:34:42-05:00"
+updated: "2026-11-15T15:59:39-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
 
-Modulbeskrivelsen har en linje, hvor der står »AI-aktivitet«, og ingen kan sige, hvad den erstatter. Eller en underviser har bedt om at få en chatbot ind i et kursus, der allerede fungerer, og din opgave er at placere den uden at ødelægge den del, der fik kurset til at fungere.
+Modulbeskrivelsen har en linje, hvor der står »AI-aktivitet«, og ingen kan sige, hvad den erstatter. Eller en underviser har bedt om at få en [[conversational-ai|chatbot]] ind i et kursus, der allerede fungerer, og din opgave er at placere den uden at ødelægge den del, der fik kurset til at fungere.
 
 Start ved læringsmålet og ved den aktivitet, der frembringer det. Den samme model kan være en stilladsning, en [[socratic-method|sokratisk]] partner, en læser af udkast, en [[simulation|simulering]] eller en svarmaskine, og hvilken af dem du får, afhænger af designet og ikke af modellen. Navngiv den tilstand, du bygger, sæt den lærendes forsøg før nogen form for hjælp dukker op, og behold mindst én rute gennem kurset, der kører uden værktøjet.
 
@@ -42,7 +42,7 @@ Start ved læringsmålet og ved den aktivitet, der frembringer det. Den samme mo
 
 ## Beslut, hvad den lærende gør uden værktøjet
 
-Vidensbasens koncept om [[pedagogy|pædagogik og undervisningsstrategier]] leverer testen: bevarer konfigurationen den aktivitet, der frembringer den tilsigtede læring? Svar på det på papir, før nogen vælger en funktion.
+Konceptet [[pedagogy|pædagogik og undervisningsstrategier]] leverer testen: bevarer konfigurationen den aktivitet, der frembringer den tilsigtede læring? Svar på det på papir, før nogen vælger en funktion.
 
 [[finkelstein-principled-ai-education-2025|rammen for principiel AI-uddannelse]] formulerer den generelle regel: teknologi bør forstærke og ikke fortrænge de menneskelige kapaciteter, som uddannelse har til hensigt at udvikle. Skrevet som en test for et modul betyder det at navngive kapaciteten, navngive den aktivitet der opbygger den, og spørge, om AI'en sidder inde i den aktivitet eller ved siden af den.
 
@@ -72,7 +72,7 @@ To lektioner følger for AI-design. Sæt værktøjet der, hvor forløbet har tæ
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] behandler tid som en designet støttestruktur frem for en egenskab ved den lærende: et selvstyret forløb har en ugentlig tildeling på omkring 100 minutter med et mål på nær 20 minutter om dagen, tidsbevidste påmindelser, et fremskridtsdashboard og en kort kontrol i slutningen af hvert underafsnit på 3 til 12 spørgsmål. Det udgangspunkt, designet svarer på, er barsk: næsten 25 procent af over 600 lærende starter først i den sidste uge, og 95 procent af den gruppe fejler.
 
-Læs det som et designprompt og ikke som en bevist effekt. Artiklen sammenligner et senere forløb med et tidligere i stedet for at køre et kontrolleret forsøg, så forbedringen kan ikke skilles fra skiftet i kohorte og fag, og påmindelser, der er stærke nok til at flytte studietidspunktet, er også et [[privacy|privatliv]]sspørgsmål, du skal besvare i studieordningen.
+Læs det som et designprompt og ikke som en bevist effekt. Artiklen sammenligner et senere forløb med et tidligere i stedet for at køre et [[rct|kontrolleret forsøg]], så forbedringen kan ikke skilles fra skiftet i kohorte og fag, og påmindelser, der er stærke nok til at flytte studietidspunktet, er også et [[privacy|privatliv]]sspørgsmål, du skal besvare i studieordningen.
 
 ## Beslut, hvad der skal tilbageholdes, og hvornår det skal genindføres
 
@@ -100,7 +100,7 @@ Effektivitet er målet med redesignet. At udkaste læringsmål og rubrikker med 
 
 **»Vi har ikke tid til at omsekventere et helt kursus.«** Omsekventér så ét modul og én bedømmelse. Hængslet med tilbagehold og forstærk er ét kontrolpunkt, og tænk-først-forløbet er tre instruktioner på et handout.
 
-**»Vores AI-funktion har allerede guardrails.«** Guardrails begrænser, hvad modellen siger. De afgør ikke, om den lærende forsøgte først, om støtten udfases, eller om der findes en AI-fri rute. Det er designbeslutninger i dit kursus, ikke indstillinger i produktet.
+**»Vores AI-funktion har allerede [[guardrails|guardrails]].«** Guardrails begrænser, hvad modellen siger. De afgør ikke, om den lærende forsøgte først, om støtten udfases, eller om der findes en AI-fri rute. Det er designbeslutninger i dit kursus, ikke indstillinger i produktet.
 
 ## Hvad du kan gøre i denne uge
 

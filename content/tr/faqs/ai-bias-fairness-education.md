@@ -8,9 +8,9 @@ foundations: [ai-education]
 technology: [generative-ai, intelligent-tutoring]
 ethics: [bias-mitigation, equity-in-ai-education, privacy, inclusive-learning]
 audience: [instructors, administrators, software developers, researchers]
-updated: "2026-11-08T04:27:05-05:00"
+updated: "2026-11-15T16:08:48-05:00"
 translation_of: "faqs/ai-bias-fairness-education"
-source_updated: "2026-11-06T02:15:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,7 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-Eğitimde YZ yanlılığı ve adaletsizliği tek bir sorun değildir. Bu bilgi tabanındaki araştırmalar, yanlılığın bir sistemin yaşamının neredeyse her aşamasına girdiğini belgeliyor — eğitim verisi, model davranışı, [[prompt-engineering|istemler]], puanlama, geri bildirim, tahsis kararları ve bunların altındaki altyapı — ve bu durum eğitmenleri, geliştiricileri, araştırmacıları ve yöneticileri farklı biçimlerde etkiliyor. Tüm bunlardaki örüntü, açıkça söylenecek kadar tutarlı: alt grup sayılarını isteyin, ortalamaları değil; "dezavantajlı"yı grup büyüklüğüyle değil sonuçlarla tanımlayın; ve adaleti sonradan eklenen bir şey değil, tasarlanan ve denetlenen bir şey olarak görün.
+Eğitimde YZ yanlılığı ve adaletsizliği tek bir sorun değildir. Araştırmalar, yanlılığın bir sistemin yaşamının neredeyse her aşamasına girdiğini belgeliyor — eğitim verisi, model davranışı, [[prompt-engineering|istemler]], puanlama, geri bildirim, tahsis kararları ve bunların altındaki altyapı — ve bu durum eğitmenleri, geliştiricileri, araştırmacıları ve yöneticileri farklı biçimlerde etkiliyor. Tüm bunlardaki örüntü, açıkça söylenecek kadar tutarlı: alt grup sayılarını isteyin, ortalamaları değil; "dezavantajlı"yı grup büyüklüğüyle değil sonuçlarla tanımlayın; ve adaleti sonradan eklenen bir şey değil, tasarlanan ve denetlenen bir şey olarak görün.
 
 ## Yanlılık ve adaletsizlik nerede ortaya çıkar
 
@@ -56,8 +56,8 @@ Eğitimde YZ yanlılığı ve adaletsizliği tek bir sorun değildir. Bu bilgi t
 
 **Sonradan eşitlik düzeltmeleri.** Erken uyarı çalışmasındaki her müdahale ya hataları yeniden dağıttı, ya zaten avantajlı olanı düzeltti, ya da bir grubu daha az görünür kılarak eşitliği sağladı. İşlem hattını düzeltmek, çıktıyı yamamaktan iyidir.
 
-**Bir kez yapılan tek bir azaltma.** Yanlılık veri, istem, puanlama ve dağıtım yoluyla yeniden girer; araştırma tam da tek bir düzeltmenin işlem hattının tamamını kapsamaması nedeniyle tamamlayıcı stratejiler gösteriyor (adil eğitim hedefleri, istem tasarımı, lehçe değişmezliği, anlayışı dilden ayıran puanlama, açıklanabilirlik, insan gözetimi) ([[bias-mitigation]]).
+**Bir kez yapılan tek bir azaltma.** Yanlılık veri, istem, puanlama ve dağıtım yoluyla yeniden girer; araştırma tam da tek bir düzeltmenin işlem hattının tamamını kapsamaması nedeniyle tamamlayıcı stratejiler gösteriyor (adil eğitim hedefleri, istem tasarımı, lehçe değişmezliği, anlayışı dilden ayıran puanlama, açıklanabilirlik, insan gözetimi) ([[bias-mitigation|yanlılık azaltma]]).
 
 ## Daha derine nasıl gidilir
 
-[[bias-mitigation]] sayfası işlem hattı boyunca kaynakları ve azaltma yaklaşımlarını kataloglar; [[equity-in-ai-education]] erişim, temsil ve sonuç boyutlarını her biri için kanıtlarla ele alır; [[automation-bias]] okuyucu tarafındaki başarısızlığı — yanlı ya da yalnızca yanlış bir öneriye aşırı güvenmeyi — kapsar; [[differential-effects-across-learner-groups]] ise aynı aracın farklı gruplara nasıl farklı indiğini izleyen çalışmaları toplar.
+[[bias-mitigation|Yanlılık azaltma]] sayfası işlem hattı boyunca kaynakları ve azaltma yaklaşımlarını kataloglar; [[equity-in-ai-education|hakkaniyet]] erişim, temsil ve sonuç boyutlarını her biri için kanıtlarla ele alır; [[automation-bias|otomasyon yanlılığı]] okuyucu tarafındaki başarısızlığı — yanlı ya da yalnızca yanlış bir öneriye aşırı güvenmeyi — kapsar; [[differential-effects-across-learner-groups|öğrenen grupları arasındaki farklı etkiler]] ise aynı aracın farklı gruplara nasıl farklı indiğini izleyen çalışmaları toplar.

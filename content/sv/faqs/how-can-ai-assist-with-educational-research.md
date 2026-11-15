@@ -14,9 +14,9 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:03:31-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ Det korta svaret för det mötet: AI kan ta sökning, en första sållningsomgå
 
 **5.** Verifiera varje referens för hand, författare först, närhelst AI har rört vid texten.
 
-**6.** Logga promptar, modellversioner och korpusversioner, och budgetera timmarna för det.
+**6.** Logga promptar, modellversioner och datasetversioner, och budgetera timmarna för det.
 
 ## Bestäm vad AI får röra vid innan projektet börjar
 
@@ -60,7 +60,7 @@ Merparten av vinsten kommer från två designbeslut. Skriv beslutsregler för gr
 
 ## Fastställ kodningsschemat innan modellen läser något
 
-[[qualitative-research|Kvalitativ analys]] är det steg där tolkningen är produkten. Konstrukt, kodningsrubriker och träningsdata är mänskliga beslut snarare än modellutdata ([[ai-methodologies-science-education-research-2026|Martin m.fl., 2026]]), vilket betyder att kodningsschemat måste vara fastställt innan en automatiserad omgång löper över korpuset. Alternativet är ett kodningssystem skrivet kring det modellen råkade lyfta fram, och temana beskriver då verktygets läsning av dina data.
+[[qualitative-research|Kvalitativ analys]] är det steg där tolkningen är produkten. Konstrukt, kodningsrubriker och träningsdata är mänskliga beslut snarare än modellutdata ([[ai-methodologies-science-education-research-2026|Martin m.fl., 2026]]), vilket betyder att kodningsschemat måste vara fastställt innan en automatiserad omgång löper över datasetet. Alternativet är ett kodningssystem skrivet kring det modellen råkade lyfta fram, och temana beskriver då verktygets läsning av dina data.
 
 Delegeringen kan vara finmaskigare än allt-eller-inget. [[agreement-not-quality-llm-coding-verification|En blind verifieringsstudie]] klassificerade 15 av 72 poster i kodningsschemat som påvisbart krävande mänsklig expertis, 12 som bättre lämpade för en modell och 16 som lämpade för förtroendebaserad triage. Sortera dina egna poster så, och arbetsbesparingen landar där den är säker.
 
@@ -75,7 +75,7 @@ Verifieringssteget behöver alltså en guldstandard som varken är modellens utd
 
 ## Sök snabbt, kontrollera sedan varje källa själv
 
-Generativ sökning sammanfattar, rekommenderar, syntetiserar och samtalar, vilket rubbar den äldre ordningen där systemet lokaliserar och läsaren tolkar ([[genai-academic-search-workshop]]). Behandla den som ett upptäcktsverktyg. Workshoprapporten bär två varningar: kapaciteten är ojämn, med högciterade forskare rekonstruerade ungefär dubbelt så ofta som lägre citerade kollegor, och en [[librarians|bibliotekarie]] beskrev ett förtroendegap där studenter litade för mycket på generativ sökning medan fakulteten misstrodde den.
+Generativ sökning sammanfattar, rekommenderar, syntetiserar och samtalar, vilket rubbar den äldre ordningen där systemet lokaliserar och läsaren tolkar ([[genai-academic-search-workshop|Liu et al., 2026]]). Behandla den som ett upptäcktsverktyg. Workshoprapporten bär två varningar: kapaciteten är ojämn, med högciterade forskare rekonstruerade ungefär dubbelt så ofta som lägre citerade kollegor, och en [[librarians|bibliotekarie]] beskrev ett förtroendegap där studenter litade för mycket på generativ sökning medan fakulteten misstrodde den.
 
 Referensverifiering är där detta blir icke förhandlingsbart, och felen klustrar i författarfältet, det som bär krediten. [[citation-errors-hallucinations-computing-education-2026|Denny m.fl. (2026)]] granskade 723 930 publikationer och 15 872 533 referenser och verifierade 30 fabricerade referenser i 14 datavetenskapliga utbildningsartiklar, alla från 2025 och 2026. Sjutton av de 30 var hybrider: en verklig titel fäst vid fabricerade eller felaktiga författare. Det verifierade antalet vid ett tekniskt symposium steg från 3 år 2025 till 17 år 2026, i 2,3 % av årets konferensbidrag. Deras summa är en medveten undre gräns, och automatiska kontroller ärver bristerna i de metadata de behandlar som sanning. Kontrollera författarna först.
 
@@ -89,13 +89,13 @@ Misslyckandet är konkret. I [[zhang-platform-scores-miss-ai-teaching-agents-202
 
 Införandet har sprungit före rapporteringen. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta och Lin (2026)]] analyserade 888 artiklar om automatisering av översikter: sedan 2023 rapporterade 38,0 % av artiklarna om programvara och produkter ingen utvärdering alls, mot 9,3 % av LLM-artiklarna, och modellåtkomsten var överväldigande proprietär (84,1 %). En positiv helhetsbedömning innebar inte heller att arbetsflödet var lämpligt att delegera, eftersom 52 % av 118 LLM-artiklar med enbart positiva resultat ändå rapporterade en oro för att arbetsflödet låg under den ribba som dess roll krävde. Deras [[meta-analysis-systematic-review|PRISMA]]-LLM-ram skiljer redovisning av implementering från konsekvenskänslig utvärdering och behandlar dess fem nivåer som nivåer för redovisning snarare än risknivåer.
 
-Den praktiska versionen: namnge systemet och dess version, promptarna, korpusversionen, vad en människa kontrollerade och var det misslyckades. Behåll loggar över prompt och svar, eftersom en flytande genererad temalista ser oundviklig ut långt innan dess bevisarbete har börjat ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
+Den praktiska versionen: namnge systemet och dess version, promptarna, datasetversionen, vad en människa kontrollerade och var det misslyckades. Behåll loggar över prompt och svar, eftersom en flytande genererad temalista ser oundviklig ut långt innan dess bevisarbete har börjat ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
 Budgetera timmarna också. [[persistent-ai-agents-academic-research|En 115 dagar lång fallstudie med en enda forskare]] av en persistent forskningsagent fann att det starkaste mönstret var kapacitetsutvidgning snarare än bevisad arbetssubstitution: när minne och procedurer ackumulerades växte omfattningen av delegerat arbete medan människans insats inte krympte.
 
 ## Bedriv praktikernära undersökande med samma regler i mindre skala
 
-Om du är lärare och studerar din egen kurs arbetar du i korpusets tunnaste sträng. [[ai-assisted-educational-research|AI-Assisted Educational Research]] anger detta som ett gap snarare än ett fynd: AI-assisterat undersökande från praktiker är rimligen utbrett och nästan odokumenterat, och evidensen om automatisering av översikter och bibliometri avgör inte hur en lärare bör studera sin egen undervisning.
+Om du är lärare och studerar din egen kurs arbetar du i den minst studerade strängen i den här litteraturen. [[ai-assisted-educational-research|AI-Assisted Educational Research]] anger detta som ett gap snarare än ett fynd: AI-assisterat undersökande från praktiker är rimligen utbrett och nästan odokumenterat, och evidensen om automatisering av översikter och bibliometri avgör inte hur en lärare bör studera sin egen undervisning.
 
 Det som bär över är en uppsättning hållningar:
 

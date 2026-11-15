@@ -10,9 +10,9 @@ technology: [educational-nlp, generative-ai, llm]
 ethics: [accessibility]
 audience: [instructors, curriculum designers, instructional designers]
 level: [higher ed, secondary, primary education]
-updated: "2026-11-08T04:27:04-05:00"
+updated: "2026-11-15T15:56:14-05:00"
 translation_of: "faqs/ai-support-reading-comprehension"
-source_updated: "2026-11-06T02:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Jika Anda mengajar mata pelajaran apa pun, Anda memilih bacaan, mengadaptasi tek
 
 **Menemukan dan mengadaptasi teks dalam skala besar.** AI kuat dalam menemukan sumber, menyederhanakan kosakata, menghasilkan glosarium, dan mengubah sebuah petikan menjadi [[study-with-ai|panduan belajar atau ringkasan]]. Gunakan untuk bagian mekanis dari persiapan membaca — memindai, menyetarakan tingkat kesulitan, menarik istilah kunci — dan pertahankan pemeriksaan manusia atas apa yang penting.
 
-**Memodelkan pembaca alih-alih teks.** Karena variabel pembaca membawa banyak sinyal tentang seberapa sulit sebuah teks terasa, alat yang membuat profil pembaca memprediksi kesulitan yang dipersepsikan lebih baik daripada formula mana pun. Dalam studi terbesar dalam basis pengetahuan ini, 193 siswa sekolah menengah Jerman menilai 3.954 kalimat, dan model berbasis profil (RMSE ansambel terbaik 0,822 vs garis dasar rata-rata 1,070) mengalahkan skor Flesch teks, yang menilai materi yang sama jauh lebih sulit daripada yang dialami siswa — 72,8% anotasi tergolong mudah atau sangat mudah ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck dan Conrad, 2025]]). Versi praktisnya: penilaian beberapa siswa atas sebuah petikan mengalahkan label formula mana pun.
+**Memodelkan pembaca alih-alih teks.** Karena variabel pembaca membawa banyak sinyal tentang seberapa sulit sebuah teks terasa, alat yang membuat profil pembaca memprediksi kesulitan yang dipersepsikan lebih baik daripada formula mana pun. Dalam studi terbesar dalam literatur ini, 193 siswa sekolah menengah Jerman menilai 3.954 kalimat, dan model berbasis profil (RMSE ansambel terbaik 0,822 vs garis dasar rata-rata 1,070) mengalahkan skor Flesch teks, yang menilai materi yang sama jauh lebih sulit daripada yang dialami siswa — 72,8% anotasi tergolong mudah atau sangat mudah ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck dan Conrad, 2025]]). Versi praktisnya: penilaian beberapa siswa atas sebuah petikan mengalahkan label formula mana pun.
 
 ## Di mana AI kurang
 

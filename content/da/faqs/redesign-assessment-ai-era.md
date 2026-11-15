@@ -6,9 +6,9 @@ weight: 84
 audience: [instructors, assessment designers]
 foundations: [academic-integrity]
 assessment: [assessment, assessment-validity, authentic-assessment]
-updated: "2026-10-29T12:23:33-04:00"
+updated: "2026-11-15T16:01:10-05:00"
 translation_of: faqs/redesign-assessment-ai-era
-source_updated: "2026-10-28T10:45:41-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -38,7 +38,7 @@ Det korte svar: beslut, hvad karakteren skal være evidens **for**, læg mindst 
 
 ## Beslut hvad karakteren er evidens for
 
-Begynd med at angive eksplicit, hvilken kompetence karakteren skal repræsentere. Bedømmer du, hvad en studerende kan gøre uafhængigt, hvad de kan opnå hensigtsmæssigt med AI, deres evne til at evaluere og styre AI, eller en kombination af disse? Vidensbasens [[assessment-validity|bedømmelsesgyldighed]] behandler dette som et gyldighedsproblem: et poleret produkt er ikke længere tilstrækkelig evidens for, at den studerende besidder den kompetence, produktet tilsyneladende udviser. Dette er bedømmelsessidens halvdel af samme argument; håndhævelsessidens halvdel står i [[reduce-ai-cheating]], og den generelle gyldighedsramme løber gennem [[evaluating-ai-interventions-methods]].
+Begynd med at angive eksplicit, hvilken kompetence karakteren skal repræsentere. Bedømmer du, hvad en studerende kan gøre uafhængigt, hvad de kan opnå hensigtsmæssigt med AI, deres evne til at evaluere og styre AI, eller en kombination af disse? [[assessment-validity|Bedømmelsesgyldighed]] behandler dette som et gyldighedsproblem: et poleret produkt er ikke længere tilstrækkelig evidens for, at den studerende besidder den kompetence, produktet tilsyneladende udviser. Dette er bedømmelsessidens halvdel af samme argument; håndhævelsessidens halvdel står i [[reduce-ai-cheating]], og den generelle gyldighedsramme løber gennem [[evaluating-ai-interventions-methods]].
 
 Sig svaret i studieordningen, i opgavebeskrivelsen og i rubrikken. Studerende læser tre dokumenter og retter sig efter det, der er mest specifikt. »AI-brug er tilladt med angivelse« er ikke en udtalelse om, hvad du måler, og det giver ikke den studerende nogen måde at vide, om den tilladte brug underminerer det, du bedømmer.
 
@@ -86,7 +86,7 @@ Formålet betyder lige så meget som mekanikken. [[ai-agents-joyful-assessment-t
 
 **»Akkreditering og programgodkendelse flytter sig ikke så hurtigt.«** Undersøgelsen ovenfor nævner lange ledetider og akkrediteringsbegrænsninger ved store hold som den centrale friktion. Et enkelt kursus kan ændre, hvad der sker inde i en eksisterende bedømmelse, uden at ændre dens navn, dens vægt eller dens læringsmål, og det er som regel nok til at begynde.
 
-**»Det her straffer ængstelige studerende og studerende med handicap.«** Det kan det. Mundtlige komponenter live kræver tilpasninger planlagt på forhånd, et valg af format hvor konstruktet tillader det, og opmærksomhed på sproglig forskel og bedømmerbias. Verificér kompetencen, ikke præstationsbetingelserne.
+**»Det her straffer ængstelige studerende og [[inclusive-learning|studerende med handicap]].«** Det kan det. Mundtlige komponenter live kræver tilpasninger planlagt på forhånd, et valg af format hvor konstruktet tillader det, og opmærksomhed på sproglig forskel og bedømmerbias. Verificér kompetencen, ikke præstationsbetingelserne.
 
 **»Vi skal bare købe en detektor.«** Resultatet om diskriminationsevne taler imod det som designerens rygrad: hvis falske positiver stiger hurtigere end sande positiver, gør stærkere overvågning skjul relativt mere attraktivt. Detektion kan have en plads i et svar, der også redesignede opgaven, og [[should-we-use-ai-detectors]] dækker det argument.
 

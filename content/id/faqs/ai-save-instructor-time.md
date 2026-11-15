@@ -6,9 +6,9 @@ weight: 78
 foundations: [ai-literacy, educational-development, teacher-role]
 assessment: [ai-feedback-quality]
 audience: [instructors, faculty developers]
-updated: "2026-10-29T14:48:08-04:00"
+updated: "2026-11-15T16:05:39-05:00"
 translation_of: faqs/ai-save-instructor-time
-source_updated: "2026-10-28T11:21:07-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ Sekarang Kamis malam di minggu kedelapan. Tiga kerangka pelajaran jatuh tempo Se
 
 Kalian berdua sedang menggambarkan alat yang sama. Ia menghemat waktu untuk menyusun materi yang memang akan Anda sunting, dan ia memakan waktu ketika Anda mengarahkannya pada penilaian tentang siswa tertentu. Apakah penghematannya menjadi milik Anda bergantung pada keputusan yang jarang diambil pengajar: untuk apa jam yang kembali itu.
 
-Intinya untuk rapat: serahkan draf pertamanya dan pertahankan penilaiannya. Kerangka pelajaran, contoh terkerjakan, pertanyaan diskusi, butir kuis [[formative-assessment|formatif]], penjelasan alternatif, rumusan rubrik dan teks administratif rutin adalah pekerjaan yang dapat Anda spesifikasikan, periksa dan koreksi. Tujuan, nilai akhir dan setiap keputusan tentang pembelajar tertentu tetap pada Anda. Sebutkan apa yang dibeli jam yang terbebaskan itu, karena bukti tentang penghematan waktu adalah bukti tentang ke mana waktunya pergi.
+Intinya untuk rapat: serahkan draf pertamanya dan pertahankan penilaiannya. Kerangka pelajaran, contoh terkerjakan, pertanyaan diskusi, butir kuis [[formative-assessment|formatif]], penjelasan alternatif, rumusan rubrik dan teks administratif rutin adalah pekerjaan yang dapat Anda spesifikasikan, periksa dan koreksi. Tujuan, nilai akhir dan setiap keputusan tentang [[learners|pembelajar]] tertentu tetap pada Anda. Sebutkan apa yang dibeli jam yang terbebaskan itu, karena bukti tentang penghematan waktu adalah bukti tentang ke mana waktunya pergi.
 
 ## Versi singkat
 
@@ -40,7 +40,7 @@ Intinya untuk rapat: serahkan draf pertamanya dan pertahankan penilaiannya. Kera
 
 ## Mulailah dari pekerjaan yang memang akan Anda tulis ulang
 
-Angka terkuat dalam basis pengetahuan ini datang dari [[rct|uji acak]] yang dirangkum dalam [[ai-changing-teaching-workflows|Bagaimana AI mengubah alur kerja pengajaran]]. Dua ratus lima puluh sembilan guru sains yang memakai ChatGPT menghabiskan sekitar 69% waktu persiapan pelajaran dibandingkan kelompok kontrol, pemangkasan sekitar 31%, dan peninjau ahli tersamar tidak menemukan penurunan kualitas yang terdeteksi. Para guru mengalokasikannya ulang alih-alih menyimpannya, memindahkan waktu itu ke perencanaan, penilaian dan pekerjaan yang berhadapan dengan siswa.
+Angka terkuat datang dari [[rct|uji acak]] yang dirangkum dalam [[ai-changing-teaching-workflows|Bagaimana AI mengubah alur kerja pengajaran]]. Dua ratus lima puluh sembilan guru sains yang memakai ChatGPT menghabiskan sekitar 69% waktu persiapan pelajaran dibandingkan kelompok kontrol, pemangkasan sekitar 31%, dan peninjau ahli tersamar tidak menemukan penurunan kualitas yang terdeteksi. Para guru mengalokasikannya ulang alih-alih menyimpannya, memindahkan waktu itu ke perencanaan, penilaian dan pekerjaan yang berhadapan dengan siswa.
 
 Kumpulan data kedua dalam karya yang sama, lebih dari 104.000 pesan dari lebih dari 15.000 pendidik, menunjukkan mengapa penghematannya mendarat di tempat yang aneh. Prompt rata-rata menyentuh 1,7 kategori sekaligus, sehingga satu permintaan untuk rencana pelajaran kembali membawa diferensiasi dan kuis yang tidak terpikirkan untuk diminta guru.
 
@@ -64,11 +64,11 @@ Peringatannya adalah kalimat yang perlu dibawa ke rapat. Kuartil terbawah tidak 
 
 ## Ukur penghematannya alih-alih merasakannya
 
-Penghematan waktu adalah klaim yang paling andal salah diukur pengajar tentang dirinya sendiri. Di tiga studi terpraregistrasi dengan 2.691 peserta, orang meremehkan seberapa sering mereka memakai AI dan melebih-lebihkan waktu serta upaya yang dihematnya, melaporkan tugas sebagai lebih cepat dan lebih mudah sementara ukuran objektif tidak menunjukkan perbedaan. Memakai alat itu lebih awal dalam satu sesi memprediksi pemakaian yang lebih banyak kemudian, sehingga galatnya menumpuk di dalam satu sore ([[efficiency-gain-illusion-ai-overreliance]]).
+Penghematan waktu adalah klaim yang paling andal salah diukur pengajar tentang dirinya sendiri. Di tiga studi terpraregistrasi dengan 2.691 peserta, orang meremehkan seberapa sering mereka memakai AI dan melebih-lebihkan waktu serta upaya yang dihematnya, melaporkan tugas sebagai lebih cepat dan lebih mudah sementara ukuran objektif tidak menunjukkan perbedaan. Memakai alat itu lebih awal dalam satu sesi memprediksi pemakaian yang lebih banyak kemudian, sehingga galatnya menumpuk di dalam satu sore ([[efficiency-gain-illusion-ai-overreliance|Yu et al. (2026)]]).
 
 Yang membantu adalah kalibrasi [[metacognition|metakognitif]], dan versi murahnya adalah catatan. Selama dua minggu, catat waktu mulai dan selesai pada tiga tugas berulang, satu dengan alat itu dan dua tanpa. Perkirakan satu tugas dengan penghematan nyata yang besar, beberapa tanpa penghematan, dan dua-tiga ketika alat itu menambah langkah telaah yang memakan perolehannya.
 
-Upaya dan kapabilitas juga berpisah. Studi dalam-subjek atas 13 guru pendidikan tinggi menemukan akses AI memangkas upaya kognitif yang dirasakan dalam [[learning-design|desain pembelajaran]] dari median 6,33 menjadi 3,33 (p = 0,004), sementara pelatihan [[prompt-engineering|perumusan prompt]] yang dilapiskan di atasnya tidak memperbaiki kualitas desainnya ([[pishtari-teacher-ai-training-learning-design-2026]]). Beban yang lebih ringan pada Kamis malam adalah manfaat nyata. Itu bukan bukti bahwa desainnya membaik.
+Upaya dan kapabilitas juga berpisah. Studi dalam-subjek atas 13 guru pendidikan tinggi menemukan akses AI memangkas upaya kognitif yang dirasakan dalam [[learning-design|desain pembelajaran]] dari median 6,33 menjadi 3,33 (p = 0,004), sementara pelatihan [[prompt-engineering|perumusan prompt]] yang dilapiskan di atasnya tidak memperbaiki kualitas desainnya ([[pishtari-teacher-ai-training-learning-design-2026|Pishtari et al., 2026]]). Beban yang lebih ringan pada Kamis malam adalah manfaat nyata. Itu bukan bukti bahwa desainnya membaik.
 
 ## Simpan tujuan dan nilai akhir di sisi Anda
 
@@ -80,7 +80,7 @@ Anda dapat memakai [[automated-essay-scoring|penilaian esai otomatis]] jika Anda
 
 ## Apa yang salah dipahami pengajar
 
-**“31% itu angka saya.”** Angka itu berasal dari 259 guru sains [[science-education|pendidikan sains]] K-12 pada persiapan pelajaran. Arahnya menular; besarnya tidak. Seminar yang dibangun di atas diskusi mungkin menghemat lebih sedikit, dan mata kuliah laboratorium dengan batasan keselamatan mungkin tidak menghemat apa pun pada bagian yang paling Anda ingin bantu.
+**“31% itu angka saya.”** Angka itu berasal dari 259 guru sains [[science-education|pendidikan sains]] [[k-12|K-12]] pada persiapan pelajaran. Arahnya menular; besarnya tidak. Seminar yang dibangun di atas diskusi mungkin menghemat lebih sedikit, dan mata kuliah laboratorium dengan batasan keselamatan mungkin tidak menghemat apa pun pada bagian yang paling Anda ingin bantu.
 
 **“Hemat waktu adalah tujuannya.”** Eksperimen Brasil adalah kontracontohnya. Jamnya datang gratis dan kuartil terbawah tidak memperoleh apa pun. Tujuannya adalah apa yang dibeli jam itu.
 

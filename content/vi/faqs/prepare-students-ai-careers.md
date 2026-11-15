@@ -1,7 +1,7 @@
 ---
 title: "Sinh viên nên học gì cho những nghề mà AI đã trở nên phổ biến?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:26:08-05:00"
+updated: "2026-11-15T15:57:48-05:00"
 type: faq
 connected_faqs: [incorporating-ai-literacy, ai-anxiety-wellbeing, reducing-over-reliance, does-ai-help-students-learn]
 weight: 76
@@ -12,7 +12,7 @@ methods: [quantitative-research, ai-ed-evaluation]
 research_method: [survey, case study]
 audience: [instructors, curriculum designers, administrators, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-12T06:25:00-05:00"
 translation_of: faqs/prepare-students-ai-careers
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
@@ -48,6 +48,8 @@ Câu trả lời ngắn để nói với đồng nghiệp: hãy dạy toàn bộ
 [[ithaka-sr-ai-skills-college-graduates-2026|Báo cáo của Ithaka S+R]] yêu cầu 500 giảng viên đại học bốn năm của Hoa Kỳ đánh giá 26 kỹ năng thuộc một khung gồm bảy hạng mục, và so sánh xếp hạng của họ với một hội đồng nhà tuyển dụng do chính các tác giả của khung khảo sát. Sự bất đồng mang tính hệ thống chứ không ngẫu nhiên: giảng viên xếp những giới hạn của AI, việc ghi nguồn và trách nhiệm giải trình của con người lên đầu, trong khi nhà tuyển dụng xếp thiết kế quy trình làm việc, tự động hóa và việc phối hợp người–AI cao hơn.
 
 Có hai cách đọc khoảng cách đó rất dễ xiêu lòng và cả hai đều sai. Cách thứ nhất là giảng viên đang tụt lại so với thị trường lao động. Cách thứ hai là nhà tuyển dụng muốn sự tuân thủ. Một cách đọc hữu ích hơn là mỗi nhóm đang mô tả một nửa khác nhau của cùng một công việc, và một người tốt nghiệp chỉ làm được một nửa là chưa được chuẩn bị cho cả hai. Một sinh viên không giải thích được vì sao một kết quả sai thì không dùng được cho một nhà tuyển dụng tin vào quy trình; một sinh viên chỉ biết phê phán đầu ra của AI thì không dùng được cho một nhà tuyển dụng cần công việc được hoàn thành.
+
+Biến một tín hiệu từ nhà tuyển dụng thành thay đổi chương trình học tự nó là một quy trình có các điểm quyết định. [[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale (2026)]] đề xuất sáu giai đoạn — nhận diện, xác nhận với các bên liên quan, chẩn đoán chương trình, thiết kế lại chương trình, triển khai và năng lực, và đánh giá kết quả — mỗi giai đoạn có một quyền quyết định được nêu tên và một đầu ra phải chịu trách nhiệm, đồng thời giới hạn AI trong những chức năng hỗ trợ có phạm vi như phát hiện mô thức và lập bản đồ năng lực. Đây là một đề xuất, không phải một đánh giá, nhưng nó gọi tên những bước mà một yêu cầu từ hội đồng cố vấn thường bỏ qua.
 
 Những giới hạn của bằng chứng này đáng lưu ý. Đây là những ưu tiên được khai báo từ khảo sát, và báo cáo không cho thấy chương trình học nào tạo ra người được tuyển tốt hơn, hiệu suất tốt hơn hay mức lương tốt hơn. Điều nó mang lại là lý do có thể biện minh để hỏi xem sinh viên của bạn có bao giờ luyện tập hoàn thành và kiểm tra một quy trình có AI hỗ trợ hay không, thay vì chỉ thảo luận.
 
@@ -126,6 +128,6 @@ Sinh viên đến với những nỗi sợ thật, và tài liệu khảo sát v
 
 ## Đi tiếp từ đây
 
-[[career-development-and-readiness]] là trang khái niệm về khả năng được tuyển dụng, khả năng thích ứng và bằng chứng về lực lượng lao động, còn [[ai-literacy]] bao quát ý nghĩa của năng lực AI vượt ra ngoài thao tác công cụ. Về việc đưa nó vào một học phần cụ thể, xem [[incorporating-ai-literacy|đưa năng lực AI vào giảng dạy]] và [[faculty-ai-competencies|những năng lực giảng viên cần có]].
+[[career-development-and-readiness|Phát triển và sẵn sàng nghề nghiệp]] là trang khái niệm về khả năng được tuyển dụng, khả năng thích ứng và bằng chứng về lực lượng lao động, còn [[ai-literacy|năng lực AI]] bao quát ý nghĩa của năng lực AI vượt ra ngoài thao tác công cụ. Về việc đưa nó vào một học phần cụ thể, xem [[incorporating-ai-literacy|đưa năng lực AI vào giảng dạy]] và [[faculty-ai-competencies|những năng lực giảng viên cần có]].
 
 Về [[assessment|thiết kế đánh giá]] làm cho hiệu suất có hỗ trợ và hiệu suất độc lập trở nên phân biệt được, xem [[redesign-assessment-ai-era|thiết kế lại đánh giá trong kỷ nguyên AI]] và [[ai-grading-fairness-reliability|chấm bài bằng AI]]. Về cách giữ cho hỗ trợ không trở thành phụ thuộc, xem [[reducing-over-reliance|giảm phụ thuộc quá mức]].

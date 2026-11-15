@@ -10,9 +10,9 @@ technology: [educational-nlp, generative-ai, llm]
 ethics: [accessibility]
 audience: [instructors, curriculum designers, instructional designers]
 level: [higher ed, secondary, primary education]
-updated: "2026-11-08T04:27:04-05:00"
+updated: "2026-11-15T15:56:30-05:00"
 translation_of: "faqs/ai-support-reading-comprehension"
-source_updated: "2026-11-06T02:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Hvis du underviser i et hvilket som helst fag, vælger du læsestof, tilpasser t
 
 **Find og tilpas tekster i stor skala.** AI er stærk til at finde kilder, forenkle ordforråd, generere ordlister og omdanne en passage til en [[study-with-ai|studievejledning eller et resumé]]. Brug den til de mekaniske dele af læseforberedelsen — scanning, niveaubestemmelse, udtræk af nøgletermer — og behold den menneskelige kontrol med det, der betyder noget.
 
-**Modellér læseren frem for teksten.** Fordi læservariable bærer en stor del af signalet i, hvor svær en tekst føles, forudsiger værktøjer, der profilerer læseren, den oplevede sværhedsgrad bedre end nogen formel. I vidensbasens største studie vurderede 193 tyske gymnasieelever 3.954 sætninger, og profilbaserede modeller (bedste ensemble RMSE 0,822 mod en gennemsnitlig baseline på 1,070) slog teksternes Flesch-scorer, som vurderede det samme materiale langt sværere, end de studerende oplevede det — 72,8 % af annotationerne var lette eller meget lette ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck og Conrad, 2025]]). Den praktiske version: nogle få studerendes vurderinger af en passage slår enhver formels etiket.
+**Modellér læseren frem for teksten.** Fordi læservariable bærer en stor del af signalet i, hvor svær en tekst føles, forudsiger værktøjer, der profilerer læseren, den oplevede sværhedsgrad bedre end nogen formel. I den største undersøgelse i denne litteratur vurderede 193 tyske gymnasieelever 3.954 sætninger, og profilbaserede modeller (bedste ensemble RMSE 0,822 mod en gennemsnitlig baseline på 1,070) slog teksternes Flesch-scorer, som vurderede det samme materiale langt sværere, end de studerende oplevede det — 72,8 % af annotationerne var lette eller meget lette ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck og Conrad, 2025]]). Den praktiske version: nogle få studerendes vurderinger af en passage slår enhver formels etiket.
 
 ## Hvor AI kommer til kort
 

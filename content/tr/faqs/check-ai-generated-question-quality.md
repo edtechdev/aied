@@ -1,7 +1,7 @@
 ---
 title: "YZ ile Üretilen Test ve Sınav Sorularının Gerçekten İyi Olup Olmadığını Nasıl Kontrol Ederim?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:26:08-05:00"
+updated: "2026-11-15T16:08:48-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-05T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Ders notlarınızdan yirmi soru istiyorsunuz. Yanıt anahtarları, açıklamalar, zorluk etiketleri ve Bloom taksonomisi kategorileriyle birlikte, bitmiş görünen biçimlendirilmiş bir belge olarak geri geliyorlar. Adınız birazdan onun üzerine gidecek.
 
-Bir meslektaşınıza vereceğiniz kısa yanıt: üretilen sorular adaylardır, bir değerlendirme değil. Her birini kendiniz çözün, maddenin öğrenciden gerçekte ne yapmasını istediğini kontrol edin ve saymaya başlamadan önce öğrencilerin ona nasıl yanıt verdiğini öğrenin. Bu bilgi tabanındaki en büyük iki çalışmada ilginç sinyal, üretimin işe yaraması değil, nerede başarısız olduğudur. Derse özgü bir iş akışı içinde yinelemeli üretim, 71 üniversite sınıfında kullanılabilir çoktan seçmeli sınavlar üretti ([[assessing-quality-ai-generated-exams-field-2025|Isley ve ark., 2025]]). 311 dağıtılmış sorunun veri bilimi denetiminde, modelin zorluk etiketleri yanlarında ürettiği Bloom düzeylerini neredeyse kusursuz izledi (Spearman ρ = 0,90), öğrencilerin gerçekte ne puan aldığını ise ρ = 0,06 ile izledi ([[student-llm-use-ai-question-difficulty-data-science-2026|An ve Wang, 2026]]). Etiket, istemin bir tanımıydı; maddenin ölçümü değil.
+Kısa yanıt: üretilen sorular adaylardır, bir değerlendirme değil. Her birini kendiniz çözün, maddenin öğrenciden gerçekte ne yapmasını istediğini kontrol edin ve saymaya başlamadan önce öğrencilerin ona nasıl yanıt verdiğini öğrenin. En büyük iki çalışmada ilginç sinyal, üretimin işe yaraması değil, nerede başarısız olduğudur. Derse özgü bir iş akışı içinde yinelemeli üretim, 71 üniversite sınıfında kullanılabilir çoktan seçmeli sınavlar üretti ([[assessing-quality-ai-generated-exams-field-2025|Isley ve ark., 2025]]). 311 dağıtılmış sorunun veri bilimi denetiminde, modelin zorluk etiketleri yanlarında ürettiği Bloom düzeylerini neredeyse kusursuz izledi (Spearman ρ = 0,90), öğrencilerin gerçekte ne puan aldığını ise ρ = 0,06 ile izledi ([[student-llm-use-ai-question-difficulty-data-science-2026|An ve Wang, 2026]]). Etiket, istemin bir tanımıydı; maddenin ölçümü değil.
 
 ## Kısa özet
 

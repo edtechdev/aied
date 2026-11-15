@@ -1,9 +1,9 @@
 ---
 title: "Nhà giáo dục nên tránh làm gì khi dùng AI?"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-11T06:20:00-05:00"
+updated: "2026-11-15T16:08:34-05:00"
 type: faq
-connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors]
+connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors, adopting-ai-options-and-issues]
 weight: 90
 foundations: [misconceptions, reducing-ai-misuse, ai-literacy, limitations-in-aied-research]
 pedagogy: [reflection, professional-training]
@@ -11,7 +11,7 @@ technology: [generative-ai, learning-analytics, affective-computing]
 assessment: [assessment-validity, ai-detection, self-report-measures, feedback]
 ethics: [privacy, pedagogical-safety, equity-in-ai-education, accessibility, automation-bias]
 audience: [instructors, learners, parents and families, faculty developers, software developers, administrators, researchers]
-source_updated: "2026-11-11T06:20:00-05:00"
+source_updated: "2026-11-14T04:30:00-05:00"
 translation_of: faqs/what-not-to-do-ai-education
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
@@ -34,15 +34,15 @@ Ba thất bại lặp lại ở mọi vai trò.
 
 ## Bản tóm tắt
 
-**1.** Không bao giờ chấm điểm, trích dẫn hay quảng bá một đầu ra như bằng chứng về năng lực đã tạo ra nó.
+**1.** Không bao giờ chấm điểm, trích dẫn hay quảng bá một đầu ra của công cụ như thể sinh viên tạo ra nó.
 
 **2.** Luôn thu thập phép đo không có hỗ trợ song song với phép đo có hỗ trợ, mỗi lần.
 
 **3.** Coi độ trôi chảy, sự tự tin và mức độ tham gia là đặc điểm của việc sử dụng, không phải của việc học.
 
-**4.** Đặt biện pháp bảo vệ vào quy trình làm việc, không phải vào một lời cảnh báo.
+**4.** Đặt biện pháp bảo vệ vào nhiệm vụ hoặc phần mềm, không phải vào một lời cảnh báo.
 
-**5.** Giả định mọi dữ liệu công cụ có thể thấy sẽ bị lưu giữ, kết hợp và rò rỉ.
+**5.** Giả định bất cứ thứ gì công cụ có thể thấy sẽ được lưu, kết hợp với dữ liệu khác và cuối cùng bị rò rỉ.
 
 **6.** Nếu tuyên bố đi kèm một bản demo nhưng không có phép so sánh, đó là tiếp thị.
 
@@ -157,8 +157,8 @@ Không cảnh báo nào ở trên có nghĩa là công cụ luôn sai. Một cô
 ## Đi tiếp từ đây
 
 - [[addressing-common-misconceptions-ai-education]]: những niềm tin nằm sau các thực hành này, và cách sửa chúng mà không trịch thượng.
-- [[limitations-in-aied-research]]: những gì nền bằng chứng chưa thể chống đỡ.
-- [[reducing-ai-misuse]]: các đòn bẩy cấu trúc cho việc sử dụng sai, và vì sao chúng thắng lời khuyên.
-- [[pedagogical-safety]]: một gia sư có thể làm gì với người học trong khi vẫn qua mọi kiểm tra nội dung.
+- [[limitations-in-aied-research|Những hạn chế trong nghiên cứu AIEd]]: những gì nền bằng chứng chưa thể chống đỡ.
+- [[reducing-ai-misuse|Giảm sử dụng AI sai cách]]: các thay đổi ở nhiệm vụ và phần mềm ngăn việc sử dụng sai, và vì sao chúng hiệu quả hơn lời nhắc.
+- [[pedagogical-safety|An toàn sư phạm]]: một gia sư có thể làm gì với người học trong khi vẫn qua mọi kiểm tra nội dung.
 - [[should-we-use-ai-detectors]]: toàn bộ bằng chứng về công cụ phát hiện.
 - [[checking-whether-educational-ai-works]]: cách đánh giá một tuyên bố trước khi bạn áp dụng nó.

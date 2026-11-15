@@ -1,7 +1,7 @@
 ---
 title: "Bagaimana Saya Memeriksa Apakah Soal Kuis dan Ujian yang Dihasilkan AI Benar-Benar Baik?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T15:56:14-05:00"
 type: faq
 connected_faqs: [ai-grading-fairness-reliability, redesign-assessment-ai-era, checking-whether-educational-ai-works, does-ai-help-students-learn]
 weight: 78
@@ -11,7 +11,7 @@ methods: [quantitative-research, research-methods-aied]
 research_method: [experiment, case study]
 audience: [instructors, assessment designers, instructional designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-05T21:45:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/check-ai-generated-question-quality
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
@@ -26,7 +26,7 @@ ai_assist:
 
 Anda meminta dua puluh soal dari catatan kuliah Anda. Soal-soal itu kembali dengan kunci jawaban, penjelasan, label kesulitan, dan kategori taksonomi Bloom, dalam dokumen berformat yang tampak sudah jadi. Nama Anda akan segera tercantum di sana.
 
-Jawaban singkat untuk diberikan kepada kolega: soal yang dihasilkan adalah kandidat, bukan sebuah penilaian. Selesaikan setiap butir sendiri, periksa apa yang sebenarnya dituntut dari siswa, dan cari tahu bagaimana siswa meresponsnya sebelum soal itu dihitung. Pada dua studi terbesar dalam basis pengetahuan ini, sinyal yang menarik bukanlah bahwa pembuatan soal berhasil, melainkan di mana ia gagal. Pembuatan iteratif di dalam alur kerja khusus mata kuliah menghasilkan ujian pilihan ganda yang dapat digunakan pada 71 kelas perguruan tinggi ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). Dalam audit ilmu data atas 311 soal yang digunakan, label kesulitan model hampir sempurna mengikuti tingkat Bloom yang dihasilkannya bersamaan dengan soal itu (Spearman ρ = 0,90) sementara mengikuti skor yang sebenarnya diperoleh siswa pada ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An dan Wang, 2026]]). Label itu adalah deskripsi atas prompt, bukan pengukuran atas butirnya.
+Inilah jawaban singkatnya: soal yang dihasilkan adalah kandidat, bukan sebuah penilaian. Selesaikan setiap butir sendiri, periksa apa yang sebenarnya dituntut dari siswa, dan cari tahu bagaimana siswa meresponsnya sebelum soal itu dihitung. Dalam dua studi terbesar, sinyal yang menarik bukanlah bahwa pembuatan soal berhasil, melainkan di mana ia gagal. Pembuatan iteratif di dalam alur kerja khusus mata kuliah menghasilkan ujian pilihan ganda yang dapat digunakan pada 71 kelas perguruan tinggi ([[assessing-quality-ai-generated-exams-field-2025|Isley et al., 2025]]). Dalam audit ilmu data atas 311 soal yang digunakan, label kesulitan model hampir sempurna mengikuti tingkat Bloom yang dihasilkannya bersamaan dengan soal itu (Spearman ρ = 0,90) sementara mengikuti skor yang sebenarnya diperoleh siswa pada ρ = 0,06 ([[student-llm-use-ai-question-difficulty-data-science-2026|An dan Wang, 2026]]). Label itu adalah deskripsi atas prompt, bukan pengukuran atas butirnya.
 
 ## Versi singkat
 
@@ -121,6 +121,6 @@ Bagi siswa yang membuat soal latihan mereka sendiri, aturan yang sama berlaku pa
 
 ## Ke mana selanjutnya
 
-[[automated-question-generation]] adalah halaman konsep untuk metode pembuatan soal dan kualitasnya yang terukur, dan [[educational-measurement]] mencakup analisis butir, reliabilitas, serta psikometri yang hanya disinggung sekilas oleh uji coba. Keduanya berada di bawah [[assessment-validity|validitas penilaian]], yaitu standar yang dilayani seluruh siklus ini.
+[[automated-question-generation|Pembuatan soal otomatis]] adalah halaman konsep untuk metode pembuatan soal dan kualitasnya yang terukur, dan [[educational-measurement|Pengukuran pendidikan]] mencakup analisis butir, reliabilitas, serta psikometri yang hanya disinggung sekilas oleh uji coba. Keduanya berada di bawah [[assessment-validity|validitas penilaian]], yaitu standar yang dilayani seluruh siklus ini.
 
 Sisi pertimbangan dari masalah yang sama menjadi milik [[ai-grading-fairness-reliability|penilaian AI]], karena butir yang baik yang dinilai dengan buruk tidak lebih baik daripada butir yang buruk yang dinilai dengan baik. Untuk pertanyaan yang lebih luas tentang apa yang seharusnya diwakili sebuah nilai ketika siswa dapat menggunakan AI, lihat [[redesign-assessment-ai-era|merancang ulang penilaian di era AI]].

@@ -1,9 +1,11 @@
 ---
 title: "Eğitimde Yapay Zeka Araştırma Literatüründeki Kayda Değer Boşluklar Nelerdir?"
 created: "2026-10-14T21:30:00-04:00"
+updated: "2026-11-15T16:08:48-05:00"
 connected_faqs: [reporting-interpreting-aied-research, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research]
 weight: 45
 type: faq
+audience: [researchers, instructors]
 foundations: [limitations-in-aied-research]
 technology: [learning-analytics]
 assessment: [learning-gains]
@@ -13,7 +15,7 @@ level: [higher ed]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
 translation_of: faqs/research-gaps-aied
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:

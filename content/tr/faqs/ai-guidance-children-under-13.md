@@ -3,6 +3,7 @@ title: "Ebeveynler ve Öğretmenler 13 Yaş Altı Çocuklarla YZ’ye Nasıl Yak
 created: "2026-10-14T22:45:00-04:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, incorporating-ai-literacy, how-ai-impacts-students]
 weight: 75
+updated: "2026-11-15T16:08:48-05:00"
 type: faq
 foundations: [ai-literacy]
 pedagogy: [social-emotional-learning]
@@ -13,7 +14,7 @@ audience: [instructors, administrators, policymakers, parents and families]
 level: [preschool, primary education, k 12]
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: faqs/ai-guidance-children-under-13
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
@@ -33,7 +34,7 @@ Satıcının koşulları aracın 13 yaş ve üzeri kullanıcılar için olduğun
 
 Bu talepte üç soru birbirine dolanmış durumda: altı yaşındaki bir çocuğun bu sistemlerle neler yapabileceği, çocukları YZ ile evde karşılaşan ailelere okulun ne borçlu olduğu ve bir yasak savunabileceğiniz yanıt olmadığında ne yapılacağı.
 
-Kurula verebileceğiniz kısa yanıt şu: erişimi yaşa göre katmanlandırın, birini çocuğa vermeden önce bu sistemlerin nasıl inşa edildiğini öğretin ve çocuğun çıktıyı yargılayamadığı her yerde döngüde bir yetişkin tutun. Toptan yasak, arkasında en az kanıt bulunan seçenektir. Bu bilgi tabanında yaşa dayalı yasaklara ilişkin hiçbir çalışma yok ve bu yaş grubunun maruziyetinin çoğu, bir okul kuralının ulaşmadığı evde gerçekleşiyor.
+Kurula verebileceğiniz kısa yanıt şu: erişimi yaşa göre katmanlandırın, birini çocuğa vermeden önce bu sistemlerin nasıl inşa edildiğini öğretin ve çocuğun çıktıyı yargılayamadığı her yerde döngüde bir yetişkin tutun. Toptan yasak, arkasında en az kanıt bulunan seçenektir. Yaşa dayalı yasaklara ilişkin hiçbir çalışma yok ve bu yaş grubunun maruziyetinin çoğu, bir okul kuralının ulaşmadığı evde gerçekleşiyor.
 
 ## Kısa özet
 
@@ -55,7 +56,7 @@ Değerlendirmeleri 831 katılımcıyla yapılmış tek bir maruziyet sonrası an
 
 İki baskı, sınırın ne için çizildiğini de gösteriyor. İlkokul katmanı iskeleli ve üretken olmayan platform tabanlı etkinlikler alıyor, böylece çocuk sistemin ne yaptığını karşılık veren bir sistem olmadan öğreniyor. İleri katman etik akıl yürütmeyi gözetimli üretken kullanıma bağlıyor. Katılımın aracın gelişmişliğini izleyeceğini bekleyen personel genellikle tam tersini bulur.
 
-Katmanlamanın size kazandırdığı şey, savunulabilir bir işlemler sırasıdır. Pek çok okul bunu tersine yürütüyor: sohbet robotunu sonbaharda satın alıp ilkbaharda onu öğretiyor; bu sıranın kanıtı sayfanın ilerisinde.
+Katmanlamanın size kazandırdığı şey, savunulabilir bir işlemler sırasıdır. Pek çok okul bunu tersine yürütüyor: sohbet robotunu sonbaharda satın alıp ilkbaharda onu öğretiyor; oysa savunulabilir sıra bunun tersidir.
 
 ## En küçük çocuklarla oyun, üretim ve makinelerle başlayın
 
@@ -69,7 +70,7 @@ Makinelerin nasıl çalıştığını öğretmek de bu katmana aittir. [[tsingid
 
 ## 9-12 yaşındakileri denetlenmiş, çoğunlukla üretken olmayan işe geçirin
 
-Müfredat kanıtının en güçlü olduğu katman burasıdır. [[demir-akar-ai-media-literacy-children-2026|Demir ve Akar (2026)]], 36 Türk dördüncü sınıf öğrencisiyle veri gizliliği, güvenli iletişim ve medya [[ethics|etiğini]] kapsayan 18 saatlik, 5E temelli bir eleştirel medya okuryazarlığı programı yürüttü; gruplar arası Cohen *d* değeri okumada 1,12, yazmada 1,18 ve toplam okuryazarlıkta 1,31 oldu. Tek bir yarıyıla sığan ve bu büyüklükte etkiler bildiren bir program, bu sayfadaki en cesaretlendirici sonuçtur.
+Müfredat kanıtının en güçlü olduğu katman burasıdır. [[demir-akar-ai-media-literacy-children-2026|Demir ve Akar (2026)]], 36 Türk dördüncü sınıf öğrencisiyle veri gizliliği, güvenli iletişim ve medya [[ethics|etiğini]] kapsayan 18 saatlik, 5E temelli bir eleştirel medya okuryazarlığı programı yürüttü; gruplar arası Cohen *d* değeri okumada 1,12, yazmada 1,18 ve toplam okuryazarlıkta 1,31 oldu. Tek bir yarıyıla sığan ve bu büyüklükte etkiler bildiren bir program, bu literatürdeki en cesaretlendirici sonuçtur.
 
 9-12 yaş, okulun denetlediği platformlarda iskeleli maruziyet alır; üretken kısımlar sonraya ve gözetim altına ayrılır. Çocuklar bir iddiayı okuyabildiğinde, tartışabildiğinde ve kontrol edebildiğinde, iş onlara bir sistemin ne yaptığını öğretmek olur ve araç bir yardımcı olarak değil, incelenecek bir nesne olarak girebilir.
 
@@ -129,7 +130,7 @@ Bu yaş katmanı için bu bir diziye karşılık gelir: önce hakkında ve biçi
 
 Bir kurul belgesi bir gözden geçirme tarihi ve okulunuzun gerçekten kontrol edebileceği bir başarı tanımı vaat edebilir: işlenen dersler, bir velinin sorusunu yanıtlayabilen öğretmenler, yazılı olarak yanıtlanan veri talepleri. Bir öğrenme kazanımı iddia etmek, burada atıf yapılan her çalışmayı aşırıya taşır.
 
-Bu bilgi tabanında yaşa dayalı yasaklara ilişkin hiçbir çalışma yok. Buradaki hiçbir şey, bazı okul sistemlerinde şimdi ortaya çıkan yasakların işe yarayıp yaramadığını çözemez ve o cümlenin dürüst sürümü kurul belgenizde yer almalıdır. Kanıtın gösterdiği şey, yasağa alternatifin bırakınız yapsınlar olmadığıdır. [[moral-panic-genai-classroom|GenAI'nin erişilebilir olması ile bütünleştirilmesini karşılaştıran çalışma]], GenAI'yi öğrencilere nasıl kullanacaklarını öğretmeden erişilebilir kılmanın uygulamalı sorularda anlamlı ölçüde daha düşük performansla ilişkili olduğunu (ω² = 0,35), özetleme gibi görevler için kullanımını açıkça öğretmenin ise uygulamalı performansı GenAI öncesi düzeylere döndürdüğünü ve daha zor bir sınavda başlangıç düzeyini aştığını buldu. Bu yaş katmanı öğretilebilir: yukarıdaki dördüncü sınıf programı *d* = 1,12 ile 1,31 arasında etkiler üretti.
+Yaşa dayalı yasaklara ilişkin hiçbir çalışma yok. Buradaki hiçbir şey, bazı okul sistemlerinde şimdi ortaya çıkan yasakların işe yarayıp yaramadığını çözemez ve o cümlenin dürüst sürümü kurul belgenizde yer almalıdır. Kanıtın gösterdiği şey, yasağa alternatifin bırakınız yapsınlar olmadığıdır. [[moral-panic-genai-classroom|GenAI'nin erişilebilir olması ile bütünleştirilmesini karşılaştıran çalışma]], GenAI'yi öğrencilere nasıl kullanacaklarını öğretmeden erişilebilir kılmanın uygulamalı sorularda anlamlı ölçüde daha düşük performansla ilişkili olduğunu (ω² = 0,35), özetleme gibi görevler için kullanımını açıkça öğretmenin ise uygulamalı performansı GenAI öncesi düzeylere döndürdüğünü ve daha zor bir sınavda başlangıç düzeyini aştığını buldu. Bu yaş katmanı öğretilebilir: yukarıdaki dördüncü sınıf programı *d* = 1,12 ile 1,31 arasında etkiler üretti.
 
 ## Okulların yanlış yaptığı şeyler
 
@@ -175,4 +176,4 @@ Bu bilgi tabanında yaşa dayalı yasaklara ilişkin hiçbir çalışma yok. Bur
 
 ## Bundan sonra nereye bakmalı
 
-[[how-ai-impacts-students]] araçların öğrenmeye ne yaptığını, [[incorporating-ai-literacy]] ile [[ai-literacy]] ne öğretileceğini kapsıyor. [[parents-and-families]] ve [[early-childhood-elementary-ai-education]] bu sayfanın araştırma temelini tutuyor ve [[equity-ethics-pedagogical-safety-research]] gizlilik ile güvenlik tartışmasının devam ettiği yerdir. Sorunuz daha büyük öğrenciler için değerlendirme tarafıysa, [[should-we-use-ai-detectors]] ve [[reduce-ai-cheating]] konuyu ileri taşıyor.
+[[how-ai-impacts-students]] araçların öğrenmeye ne yaptığını, [[incorporating-ai-literacy]] ile [[ai-literacy|YZ okuryazarlığı]] ne öğretileceğini kapsıyor. [[parents-and-families|Ebeveynler ve aileler]] ile [[early-childhood-elementary-ai-education|erken çocukluk eğitimi]] araştırma temelini tutuyor ve [[equity-ethics-pedagogical-safety-research]] gizlilik ile güvenlik tartışmasının devam ettiği yerdir. Sorunuz daha büyük öğrenciler için değerlendirme tarafıysa, [[should-we-use-ai-detectors]] ve [[reduce-ai-cheating]] konuyu ileri taşıyor.

@@ -7,9 +7,9 @@ audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T12:23:33-04:00"
+updated: "2026-11-15T16:01:30-05:00"
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -69,7 +69,7 @@ En fremgang før-efter viser, at interventionen virkede. Den viser, at scorerne 
 
 Offentliggjorte effektstørrelser overføres til mit hold. O'Neills 14 metaanalyser kunne ikke understøtte de påstande, der blev bygget på dem, og begge de rapporterede prædiktionsintervaller indeholdt nul.
 
-Platformanalyser måler undervisningskvalitet. Zhangs tredjeplacerede agent lå sidst på en ekspertrubrik.
+[[learning-analytics|Platformanalyser]] måler undervisningskvalitet. Zhangs tredjeplacerede agent lå sidst på en ekspertrubrik.
 
 ## Hvad du bliver mødt med
 

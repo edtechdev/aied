@@ -9,9 +9,9 @@ methods: [mixed-methods-research]
 research_method: [survey, structural equation modeling]
 audience: [instructors, administrators]
 level: [higher ed, secondary, k 12]
-updated: "2026-11-08T04:26:08-05:00"
+updated: "2026-11-15T15:59:44-05:00"
 translation_of: faqs/ai-anxiety-wellbeing
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -105,7 +105,7 @@ Mục tiêu là làm lo âu giảm xuống. Kim (2026) thấy lo âu tương qua
 
 Sự tự tin bảo vệ sinh viên khỏi tổn hại nghề nghiệp. Trong mô hình của Duan và cộng sự, [[self-efficacy|hiệu năng tự thân]] không đệm được tổn hại đó. Khả năng thích ứng nghề nghiệp mới là thứ mang con đường qua trung gian.
 
-Đây là vấn đề của [[student-support-and-success|dịch vụ sinh viên]]. Phần lớn các động tác trên trang này là việc giảng dạy: luyện tập rủi ro thấp, đánh giá có hướng dẫn đầu ra của AI, sửa bài dựa trên phản hồi, và một bản nêu kỳ vọng để sinh viên đọc. Biết đường chuyển tuyến chỉ là một mục trong số đó.
+Đây là vấn đề của [[student-support-and-success|dịch vụ sinh viên]]. Phần lớn các động tác là việc giảng dạy: luyện tập rủi ro thấp, đánh giá có hướng dẫn đầu ra của AI, sửa bài dựa trên phản hồi, và một bản nêu kỳ vọng để sinh viên đọc. Biết đường chuyển tuyến chỉ là một mục trong số đó.
 
 Một chatbot chăm sóc tinh thần là câu trả lời có thể mở rộng cho năng lực tư vấn mỏng. Tính sẵn có là thật và sức hấp dẫn là dễ hiểu. Độ chính xác trên một lần chia tập giữ lại không phải bằng chứng rằng một sinh viên đang khổ sở thì khá hơn, và các câu hỏi về phân loại sai, lưu trữ và chuyển tuyến không có câu trả lời nào được công bố trong các công trình được dẫn ở đây.
 
@@ -117,7 +117,7 @@ Một chatbot chăm sóc tinh thần là câu trả lời có thể mở rộng 
 
 **“Tôi là giáo viên bộ môn, không phải người tư vấn tâm lý.”** Không ai yêu cầu bạn trị liệu cho ai. Luyện tập rủi ro thấp, một nhiệm vụ phê phán và một vòng sửa bài là những động tác giảng dạy bình thường. Phát hiện duy nhất nói về vị trí của bạn là quan hệ thầy trò đứng thứ hai trong phân tích mức quan trọng của đặc trưng của Bashir và Afzal (10.0%), trên chất lượng giấc ngủ (9.3%) và hỗ trợ xã hội (7.6%). Các tác giả gọi đó là một giả thuyết, và nó là một canh bạc hợp lý cho một vai trò bạn đã đang giữ.
 
-**“Chúng tôi không có năng lực tư vấn, nên có công cụ vẫn hơn không có gì.”** Có thể, và trang này không thể phân xử điều đó. Điều bạn có thể nhất quyết đòi trước khi triển khai là những câu trả lời bằng văn bản về kiểm định độ chính xác, cách bậc hỗ trợ được quyết định, điều gì xảy ra khi phân loại sai một cách có hại, việc bộc lộ được lưu trữ thế nào, và việc chuyển tuyến tới người thật diễn ra ra sao. Không có câu trả lời thì không triển khai. Một sinh viên bộc lộ với một công cụ xếp sai hồ sơ của mình có thể sẽ không bộc lộ lần nữa.
+**“Chúng tôi không có năng lực tư vấn, nên có công cụ vẫn hơn không có gì.”** Có thể, và bằng chứng không thể phân xử điều đó. Điều bạn có thể nhất quyết đòi trước khi triển khai là những câu trả lời bằng văn bản về kiểm định độ chính xác, cách bậc hỗ trợ được quyết định, điều gì xảy ra khi phân loại sai một cách có hại, việc bộc lộ được lưu trữ thế nào, và việc chuyển tuyến tới người thật diễn ra ra sao. Không có câu trả lời thì không triển khai. Một sinh viên bộc lộ với một công cụ xếp sai hồ sơ của mình có thể sẽ không bộc lộ lần nữa.
 
 **“Nếu tôi nêu chuyện triển vọng nghề nghiệp trong lớp thì tôi đang vượt ra ngoài bộ môn của mình.”** Cách thay thế là sinh viên tự ghép câu trả lời của mình từ thị trường lao động và từ nhau. Duan và cộng sự khuyến nghị công việc lập kế hoạch nghề nghiệp như một phần của chương trình học thuật, và Dağ và cộng sự khuyến nghị nó song song với năng lực AI. Bạn có thể tổ chức cuộc trò chuyện đó mà không cần nhận mình là chuyên gia về nó, và chuyển các trường hợp cá nhân sang dịch vụ hướng nghiệp.
 
@@ -135,4 +135,4 @@ Một chatbot chăm sóc tinh thần là câu trả lời có thể mở rộng 
 
 ## Đi tiếp từ đây
 
-[[anxiety-and-stress]] là phần trình bày khái niệm về chính cảm xúc này, gồm căng thẳng do giám sát thi, mặt có ích của lo âu và lo âu của nhà giáo dục. [[well-being|sức khỏe tinh thần]] bao quát cách đóng khung trạng thái tích cực trên các chiều cảm xúc, tâm lý và xã hội. Về bức tranh xung quanh, [[how-ai-impacts-students]] xử lý tác động chung của AI lên sinh viên, còn [[redesign-assessment-ai-era]] trình bày phía đánh giá trong một phản ứng ở cấp cơ sở. [[career-development-and-readiness]] là nơi lập luận về nghề nghiệp tiếp tục.
+[[anxiety-and-stress|Lo âu và căng thẳng]] là phần trình bày khái niệm về chính cảm xúc này, gồm căng thẳng do giám sát thi, mặt có ích của lo âu và lo âu của nhà giáo dục. [[well-being|sức khỏe tinh thần]] bao quát cách đóng khung trạng thái tích cực trên các chiều cảm xúc, tâm lý và xã hội. Về bức tranh xung quanh, [[how-ai-impacts-students]] xử lý tác động chung của AI lên sinh viên, còn [[redesign-assessment-ai-era]] trình bày phía đánh giá trong một phản ứng ở cấp cơ sở. [[career-development-and-readiness]] là nơi lập luận về nghề nghiệp tiếp tục.

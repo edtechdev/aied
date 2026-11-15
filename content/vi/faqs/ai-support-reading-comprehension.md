@@ -10,9 +10,9 @@ technology: [educational-nlp, generative-ai, llm]
 ethics: [accessibility]
 audience: [instructors, curriculum designers, instructional designers]
 level: [higher ed, secondary, primary education]
-updated: "2026-11-08T04:27:05-05:00"
+updated: "2026-11-15T15:56:55-05:00"
 translation_of: "faqs/ai-support-reading-comprehension"
-source_updated: "2026-11-06T02:10:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,7 @@ Nếu bạn dạy bất kỳ môn nào, bạn chọn bài đọc, điều chỉn
 
 **Tìm và điều chỉnh văn bản ở quy mô lớn.** AI mạnh ở việc tìm nguồn, đơn giản hóa từ vựng, tạo bảng thuật ngữ và biến một đoạn văn thành [[study-with-ai|hướng dẫn học hoặc bản tóm tắt]]. Hãy dùng nó cho các phần cơ học của việc chuẩn bị bài đọc — quét, phân cấp, rút ra thuật ngữ chính — và giữ bước kiểm tra của con người ở phần quan trọng.
 
-**Mô hình hóa người đọc thay vì văn bản.** Vì các biến số người đọc mang phần lớn tín hiệu về việc một văn bản cảm thấy khó đến đâu, các công cụ lập hồ sơ người đọc dự đoán độ khó cảm nhận tốt hơn bất kỳ công thức nào. Trong nghiên cứu lớn nhất của cơ sở tri thức, 193 học sinh trung học Đức đánh giá 3,954 câu, và các mô hình dựa trên hồ sơ (mô hình kết hợp tốt nhất RMSE 0.822 so với đường cơ sở trung bình 1.070) vượt điểm Flesch của văn bản, vốn đánh giá cùng tài liệu khó hơn nhiều so với trải nghiệm của học sinh — 72.8% chú thích là dễ hoặc rất dễ ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck và Conrad, 2025]]). Phiên bản thực tế: đánh giá của một vài sinh viên về một đoạn văn tốt hơn nhãn của bất kỳ công thức nào.
+**Mô hình hóa người đọc thay vì văn bản.** Vì các biến số người đọc mang phần lớn tín hiệu về việc một văn bản cảm thấy khó đến đâu, các công cụ lập hồ sơ người đọc dự đoán độ khó cảm nhận tốt hơn bất kỳ công thức nào. Trong nghiên cứu lớn nhất trong tài liệu này, 193 học sinh trung học Đức đánh giá 3,954 câu, và các mô hình dựa trên hồ sơ (mô hình kết hợp tốt nhất RMSE 0.822 so với đường cơ sở trung bình 1.070) vượt điểm Flesch của văn bản, vốn đánh giá cùng tài liệu khó hơn nhiều so với trải nghiệm của học sinh — 72.8% chú thích là dễ hoặc rất dễ ([[thome-perceived-text-complexity-student-profiles-2025|Thome, Hertweck và Conrad, 2025]]). Phiên bản thực tế: đánh giá của một vài sinh viên về một đoạn văn tốt hơn nhãn của bất kỳ công thức nào.
 
 ## AI yếu ở đâu
 

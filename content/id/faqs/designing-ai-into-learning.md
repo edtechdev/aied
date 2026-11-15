@@ -6,9 +6,9 @@ weight: 72
 audience: [instructional designers, instructors]
 foundations: [learning-design, reducing-ai-misuse]
 pedagogy: [active-learning, pedagogy, scaffolding]
-updated: "2026-11-01T11:34:42-05:00"
+updated: "2026-11-15T15:58:33-05:00"
 translation_of: faqs/designing-ai-into-learning
-source_updated: "2026-10-31T14:05:47-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,7 @@ ai_assist:
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
 
-Kerangka modul punya satu baris yang bertuliskan “aktivitas AI” dan tidak ada seorang pun yang bisa mengatakan apa yang digantikannya. Atau seorang pengajar meminta agar sebuah chatbot ditambahkan ke mata kuliah yang sudah berjalan baik, dan tugas Anda adalah menempatkannya tanpa merusak bagian yang membuat mata kuliah itu berhasil.
+Kerangka modul punya satu baris yang bertuliskan “aktivitas AI” dan tidak ada seorang pun yang bisa mengatakan apa yang digantikannya. Atau seorang pengajar meminta agar sebuah [[conversational-ai|chatbot]] ditambahkan ke mata kuliah yang sudah berjalan baik, dan tugas Anda adalah menempatkannya tanpa merusak bagian yang membuat mata kuliah itu berhasil.
 
 Mulailah dari tujuan pembelajaran dan dari aktivitas yang menghasilkannya. Model yang sama bisa menjadi perancah, mitra [[socratic-method|Sokratik]], pembaca draf, sebuah [[simulation|simulasi]], atau mesin jawaban, dan mana yang Anda dapatkan bergantung pada desainnya, bukan pada modelnya. Sebutkan mode yang Anda bangun, letakkan upaya pembelajar sebelum bantuan apa pun muncul, dan pertahankan setidaknya satu jalur melalui mata kuliah yang berjalan tanpa alat itu.
 
@@ -42,7 +42,7 @@ Mulailah dari tujuan pembelajaran dan dari aktivitas yang menghasilkannya. Model
 
 ## Tentukan apa yang dilakukan pembelajar tanpa alat itu
 
-Konsep [[pedagogy|Pedagogi dan Strategi Pengajaran]] di basis pengetahuan menyediakan ujinya: apakah konfigurasi itu mempertahankan aktivitas yang menghasilkan pembelajaran yang dimaksud? Jawablah di atas kertas, sebelum siapa pun memilih fitur.
+Konsep [[pedagogy|Pedagogi dan Strategi Pengajaran]] menyediakan ujinya: apakah konfigurasi itu mempertahankan aktivitas yang menghasilkan pembelajaran yang dimaksud? Jawablah di atas kertas, sebelum siapa pun memilih fitur.
 
 [[finkelstein-principled-ai-education-2025|Kerangka Pendidikan AI Berprinsip]] menyatakan aturan umumnya: teknologi seharusnya memperbesar, bukan menggantikan, kapabilitas manusia yang ingin dikembangkan oleh pendidikan. Jika ditulis sebagai uji untuk sebuah modul, itu berarti menamai kapabilitasnya, menamai aktivitas yang membangunnya, dan menanyakan apakah AI berada di dalam aktivitas itu atau di sampingnya.
 
@@ -72,7 +72,7 @@ Dua pelajaran mengikutinya untuk desain AI. Tempatkan alat di titik yang dimaksu
 
 [[englmeier-ai-scaffolding-self-paced-learning-2025|Englmeier (2025)]] memperlakukan waktu sebagai perancah yang dirancang, bukan sifat pembelajar: kursus dengan kecepatan sendiri membawa jatah mingguan sekitar 100 menit dengan target mendekati 20 menit sehari, pengingat yang sadar waktu, dasbor kemajuan, dan pemeriksaan singkat di akhir subbab berisi 3 sampai 12 pertanyaan. Garis dasar yang dijawab rancangan ini keras: hampir 25 persen dari lebih dari 600 pembelajar baru mulai pada minggu terakhir dan 95 persen dari kelompok itu gagal.
 
-Bacalah sebagai petunjuk desain, bukan efek yang terbukti. Makalah ini membandingkan kursus yang lebih baru dengan kursus sebelumnya alih-alih menjalankan uji terkontrol, sehingga perbaikannya tidak dapat dipisahkan dari perubahan kohort dan mata kuliah, dan pengingat yang cukup kuat untuk menggeser waktu belajar juga merupakan pertanyaan [[privacy|privasi]] yang harus Anda jawab di silabus.
+Bacalah sebagai petunjuk desain, bukan efek yang terbukti. Makalah ini membandingkan kursus yang lebih baru dengan kursus sebelumnya alih-alih menjalankan [[rct|uji acak terkontrol]], sehingga perbaikannya tidak dapat dipisahkan dari perubahan kohort dan mata kuliah, dan pengingat yang cukup kuat untuk menggeser waktu belajar juga merupakan pertanyaan [[privacy|privasi]] yang harus Anda jawab di silabus.
 
 ## Tentukan apa yang ditahan, dan kapan mengembalikannya
 
@@ -100,7 +100,7 @@ Efisiensi dianggap sebagai tujuan desain ulangnya. Menyusun capaian dan rubrik d
 
 **“Kami tidak punya waktu untuk menyusun ulang urutan seluruh mata kuliah.”** Maka susun ulang satu modul dan satu penilaian. Engsel tahan lalu perkuat adalah satu titik pemeriksaan, dan urutan berpikir dulu adalah tiga instruksi pada selembar selebaran.
 
-**“Fitur AI kami sudah punya pagar pengaman.”** Pagar pengaman membatasi apa yang dikatakan model. Ia tidak memutuskan apakah pembelajar mencoba lebih dulu, apakah dukungan memudar, atau apakah ada jalur tanpa AI. Itu keputusan desain di mata kuliah Anda, bukan pengaturan di produknya.
+**“Fitur AI kami sudah punya [[guardrails|pagar pengaman]].”** Pagar pengaman membatasi apa yang dikatakan model. Ia tidak memutuskan apakah pembelajar mencoba lebih dulu, apakah dukungan memudar, atau apakah ada jalur tanpa AI. Itu keputusan desain di mata kuliah Anda, bukan pengaturan di produknya.
 
 ## Yang perlu dilakukan pekan ini
 

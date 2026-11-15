@@ -12,9 +12,9 @@ level: [higher ed, k 12]
 confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety, trust-calibration]
-updated: "2026-10-29T16:56:07-04:00"
+updated: "2026-11-15T16:07:48-05:00"
 translation_of: faqs/making-simulated-students-behave-like-learners
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -44,11 +44,11 @@ Trước buổi trình diễn tiếp theo, bạn cần nắm chắc chừng này
 
 ## Quyết định trình mô phỏng đang trả lời câu hỏi nào
 
-Ba công việc bị gộp dưới cụm “sinh viên mô phỏng”, và chúng cần bộ máy khác nhau. Tập dượt cho một giáo viên hay một gia sư cần một người bạn đồng hành hành xử hợp lý dưới áp lực. Kiểm toán cách một AI đối xử với các hồ sơ người học khác nhau cần độ bao phủ các hồ sơ bạn quan tâm. Dự đoán kết quả cho một môn học cần một phân bố người học chứ không phải một cá nhân thuyết phục. Một trình mô phỏng xây cho công việc thứ nhất sẽ làm bạn thất vọng ở công việc thứ ba, và bằng chứng bên dưới liên tục tách chúng ra.
+Ba công việc bị gộp dưới cụm “sinh viên mô phỏng”, và chúng cần bộ máy khác nhau. Tập dượt cho một [[teacher-role|giáo viên]] hay một gia sư cần một người bạn đồng hành hành xử hợp lý dưới áp lực. Kiểm toán cách một AI đối xử với các hồ sơ người học khác nhau cần độ bao phủ các hồ sơ bạn quan tâm. Dự đoán kết quả cho một môn học cần một phân bố người học chứ không phải một cá nhân thuyết phục. Một trình mô phỏng xây cho công việc thứ nhất sẽ làm bạn thất vọng ở công việc thứ ba, và bằng chứng bên dưới liên tục tách chúng ra.
 
 ## Nêu tên những người học bạn không bao phủ
 
-Phát hiện hữu ích nhất cho bất cứ ai sắp tin một trình mô phỏng là về độ bao phủ. Mười hai giáo viên dạy kèm cho sinh viên LLM báo cáo ngôn ngữ quá phức tạp, thiếu cảm xúc, sự chú ý không tự nhiên, và những bước nhảy kiến thức không giải thích được, và các mô phỏng chỉ đại diện cho một trong bốn góc phần tư hành vi người học thật ([[llm-student-simulation-teacher-insights|Martynova và cộng sự, 2026]]). Góc phần tư họ bao phủ là góc dễ mô phỏng nhất.
+Phát hiện hữu ích nhất cho bất cứ ai sắp tin một trình mô phỏng là về độ bao phủ. Mười hai giáo viên dạy kèm cho sinh viên [[llm|LLM]] báo cáo ngôn ngữ quá phức tạp, thiếu cảm xúc, sự chú ý không tự nhiên, và những bước nhảy kiến thức không giải thích được, và các [[simulation|mô phỏng]] chỉ đại diện cho một trong bốn góc phần tư hành vi người học thật ([[llm-student-simulation-teacher-insights|Martynova và cộng sự, 2026]]). Góc phần tư họ bao phủ là góc dễ mô phỏng nhất.
 
 Điều đó quan trọng vì gần như không ai kiểm tra. Chỉ 3% nghiên cứu mô phỏng người học kiểm chứng trình mô phỏng của họ sau khi dùng. Nếu bạn xây một cái và bỏ qua kiểm chứng, bạn ở trong nhóm đa số áp đảo, và bạn cũng là lý do con số thống kê đó vẫn còn đáng trích dẫn.
 
@@ -64,13 +64,13 @@ Hai ghi chú từ nghiên cứu đó. Việc chọn mô hình không phải mộ
 
 Nếu mô hình biết quá nhiều, bạn có thể nêu trạng thái mà nó nên ở, hoặc trừ đi kiến thức mà nó không nên có.
 
-**Đặt điều kiện theo một trạng thái nhận thức.** Một khung không cần huấn luyện xây nguyên mẫu nhận thức của từng sinh viên từ một [[knowledge-graph|đồ thị tri thức]] và cho điểm các ứng viên tìm kiếm chùm đối chiếu với nó, báo cáo mức cải thiện 100% về độ chính xác mô phỏng ([[simulating-students-diverse-cognitive-levels-2025|Wu và cộng sự, 2025]]). Chất lượng của nó tăng theo mức nhận thức của sinh viên, nên người học yếu hơn vẫn là ca khó hơn, điều này đáng tiếc vì họ thường chính là mục đích. Mô hình hóa động lực nhận thức thay vì một nhân vật tĩnh đi xa hơn: các cập nhật trạng thái dựa trên ICAP của CogEvolution đạt R²LC = 0.92 trong khi tác nhân tĩnh đạt 0.45, và sụt xuống 0.58 khi không có mô-đun ICAP của nó ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang và cộng sự, 2026]]).
+**Đặt điều kiện theo một trạng thái nhận thức.** Một khung không cần huấn luyện xây nguyên mẫu nhận thức của từng sinh viên từ một [[knowledge-graph|đồ thị tri thức]] và cho điểm các ứng viên tìm kiếm chùm đối chiếu với nó, báo cáo mức cải thiện 100% về độ chính xác mô phỏng ([[simulating-students-diverse-cognitive-levels-2025|Wu và cộng sự, 2025]]). Chất lượng của nó tăng theo mức nhận thức của sinh viên, nên người học yếu hơn vẫn là ca khó hơn, điều này đáng tiếc vì họ thường chính là mục đích. Mô hình hóa động lực nhận thức thay vì một nhân vật tĩnh đi xa hơn: các cập nhật trạng thái dựa trên [[icap-framework|ICAP]] của CogEvolution đạt R²LC = 0.92 trong khi tác nhân tĩnh đạt 0.45, và sụt xuống 0.58 khi không có mô-đun ICAP của nó ([[cogevolution-student-cognitive-evolution-agent-2026|Zhang và cộng sự, 2026]]).
 
 **Bỏ kiến thức đi.** Việc ức chế 16 thành phần kiến thức được nhắm tới trong Mistral-7B làm độ chính xác giảm từ khoảng 0.75 ở tỷ lệ quên 10% xuống dưới 0.5 ở 40%, trong khi mô hình gốc giữ gần 0.85. Kiến thức bị ức chế hóa ra có thể phục hồi qua học lại có giám sát và đối thoại có người hướng dẫn ([[simulating-novice-students-machine-unlearning-2026|Song, Guo và Lin, 2026]]). Đây là thứ gần nhất với việc trực tiếp chế tạo một người mới học, và khả năng phục hồi trở thành một điểm cộng nếu bạn muốn trình mô phỏng học trong một phiên.
 
 ## Kịch bản hóa các lượt, không phải nhân vật
 
-Độ ổn định của nhân vật hóa ra là một bài toán thiết kế tương tác chứ không phải bài toán chọn mô hình. Kết hợp năm LLM với ba thiết kế prompt và bốn nhân vật có cường độ ADHD, các tương tác có kịch bản neo vào nhiệm vụ loại bỏ được sự trôi dạt hành vi do người quan sát đánh giá, tới 97% so với đối thoại không kịch bản. Không có chỉ dẫn nhân vật rõ ràng, hình đại diện sinh viên mặc định nghiêng về triệu chứng ADHD cao ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase và Leins, 2026]]).
+Độ ổn định của nhân vật hóa ra là một bài toán thiết kế tương tác chứ không phải bài toán chọn mô hình. Kết hợp năm LLM với ba thiết kế prompt và bốn nhân vật có cường độ [[neurodiversity|ADHD]], các tương tác có kịch bản neo vào nhiệm vụ loại bỏ được sự trôi dạt hành vi do người quan sát đánh giá, tới 97% so với đối thoại không kịch bản. Không có chỉ dẫn nhân vật rõ ràng, hình đại diện sinh viên mặc định nghiêng về triệu chứng ADHD cao ([[llm-educational-simulation-adhd|Gonnermann-Müller, Haase và Leins, 2026]]).
 
 Nếu trình mô phỏng của bạn trôi dạt, hãy xem điều bạn yêu cầu nó làm theo từng lượt trước khi đổi mô hình hay viết lại phần mô tả sinh viên.
 
@@ -86,9 +86,9 @@ Như một chứng minh khái niệm, một StudentSim đóng băng được dù
 
 Hai so sánh cho thấy kiểm chứng tốn gì.
 
-Đánh giá chín phương pháp mô phỏng theo bảy chỉ số dựa trên tham chiếu trên 382 đoạn đối thoại giữ lại từ kho ngữ liệu công khai lớn nhất các đối thoại toán thật giữa sinh viên và gia sư, phương pháp prompt kém hơn tinh chỉnh ở hành động đối thoại (0.4998 so với 0.6840), ROUGE-L (0.1648 so với 0.3212) và độ tương đồng cosine (0.5460 so với 0.7390). Phương pháp tốt nhất được thử, tối ưu hóa sở thích trên một mô hình 8B, chỉ vượt tinh chỉnh có giám sát một cách không đáng kể và kém hơn ở lỗi, và một đánh giá của con người với ba gia sư tái tạo lại thứ hạng đó ([[simulated-students-tutoring-dialogues-2026|Scarlatos và cộng sự, 2026]]). Đỉnh của cái thang này nằm gần mức giữa, nên mức nền bạn báo cáo quyết định con số của chính bạn trông ấn tượng đến đâu.
+Đánh giá chín phương pháp mô phỏng theo bảy chỉ số dựa trên tham chiếu trên 382 đoạn đối thoại giữ lại từ kho ngữ liệu công khai lớn nhất các đối thoại toán thật giữa sinh viên và gia sư, phương pháp prompt kém hơn [[llm-training-and-fine-tuning|tinh chỉnh]] ở hành động đối thoại (0.4998 so với 0.6840), ROUGE-L (0.1648 so với 0.3212) và độ tương đồng cosine (0.5460 so với 0.7390). Phương pháp tốt nhất được thử, tối ưu hóa sở thích trên một mô hình 8B, chỉ vượt tinh chỉnh có giám sát một cách không đáng kể và kém hơn ở lỗi, và một đánh giá của con người với ba gia sư tái tạo lại thứ hạng đó ([[simulated-students-tutoring-dialogues-2026|Scarlatos và cộng sự, 2026]]). Đỉnh của cái thang này nằm gần mức giữa, nên mức nền bạn báo cáo quyết định con số của chính bạn trông ấn tượng đến đâu.
 
-SWIM là so sánh rõ nhất giữa prompt, tinh chỉnh và học tăng cường, vì nó cho điểm từng bài luận được tạo đối chiếu với một hồ sơ đặc điểm mục tiêu thay vì đánh giá theo cảm nhận. Prompt có neo theo thang đánh giá chỉ cho quyền kiểm soát hạn chế ngay cả với các mô hình độc quyền mạnh, với QWK đặc điểm trung bình tốt nhất là 0.577 (Claude Sonnet) và 0.422 (GPT-5.4), và gần bằng không với một mô hình mở 7B. Tinh chỉnh có giám sát trên các cặp bài luận và điểm thật đạt 0.474 ± 0.023 cho mô hình 7B đó. GRPO với phần thưởng dẫn xuất từ chấm bài luận tự động đạt 0.618 ± 0.005, với mức tăng vẫn giữ trên hai người chấm độc lập mà chính sách chưa bao giờ huấn luyện đối chiếu ([[swim-student-writing-simulation-2026]]).
+SWIM là so sánh rõ nhất giữa prompt, tinh chỉnh và học tăng cường, vì nó cho điểm từng bài luận được tạo đối chiếu với một hồ sơ đặc điểm mục tiêu thay vì đánh giá theo cảm nhận. Prompt có neo theo thang đánh giá chỉ cho quyền kiểm soát hạn chế ngay cả với các mô hình độc quyền mạnh, với QWK đặc điểm trung bình tốt nhất là 0.577 (Claude Sonnet) và 0.422 (GPT-5.4), và gần bằng không với một mô hình mở 7B. Tinh chỉnh có giám sát trên các cặp bài luận và điểm thật đạt 0.474 ± 0.023 cho mô hình 7B đó. GRPO với phần thưởng dẫn xuất từ [[automated-essay-scoring|chấm bài luận tự động]] đạt 0.618 ± 0.005, với mức tăng vẫn giữ trên hai người chấm độc lập mà chính sách chưa bao giờ huấn luyện đối chiếu ([[swim-student-writing-simulation-2026]]).
 
 Prompt cũng tạo ra một quần thể lý tưởng hóa chứ không phải một quần thể thực tế: điểm tổng thể chuẩn hóa trung bình 0.74 so với 0.58 của sinh viên thật, và độ dài trung vị 304 từ so với 167. Các mô hình được huấn luyện khôi phục được phân bố điểm và độ dài của con người mà không cần giám sát độ dài. Một thứ vẫn khó: hình thức yếu năng lực thật. Các mô hình được huấn luyện khôi phục được cú pháp nhưng viết quá ít lỗi chính tả và ngữ pháp, trong khi prompt mô phỏng sự yếu kém bằng cách làm hỏng bề mặt, rắc lỗi chính tả lên những đoạn văn vốn đã thành thạo.
 
@@ -96,7 +96,7 @@ Prompt cũng tạo ra một quần thể lý tưởng hóa chứ không phải m
 
 ## Kiểm tra xem một bản mô tả có đủ không
 
-Trước khi bạn xây một nhóm, hãy kiểm tra phương án rẻ hơn. Để đánh giá một trải nghiệm học trực tuyến trước khi sinh viên tham gia, dự đoán bỏ học và hoàn thành, và đưa phản hồi thiết kế, một tác nhân web “mô tả” duy nhất đi qua bài học và tạo ra một bản mô tả phong phú về trải nghiệm đó vượt trội hơn việc mô phỏng trực tiếp một quần thể sinh viên.
+Trước khi bạn xây một nhóm, hãy kiểm tra phương án rẻ hơn. Để đánh giá một trải nghiệm [[online-teaching-and-learning|học trực tuyến]] trước khi sinh viên tham gia, dự đoán bỏ học và hoàn thành, và đưa phản hồi thiết kế, một tác nhân web “mô tả” duy nhất đi qua bài học và tạo ra một bản mô tả phong phú về trải nghiệm đó vượt trội hơn việc mô phỏng trực tiếp một quần thể sinh viên.
 
 Các sinh viên mô phỏng trong so sánh đó cho thấy phạm vi hành vi ít hơn nhiều so với người học thật: trên 100 tác nhân với năm bài học thử, chúng tái tạo chỉ khoảng 4% các đường đi mà sinh viên thật đã đi, trong khi tốn nhiều tính toán hơn đáng kể. Quy trình mô tả rồi dự đoán đạt dự đoán phân bố bỏ học tốt nhất trên một môn CS1 toàn cầu quy mô lớn, với JSD trung bình 0.060 ([[ai-web-agents-lesson-design-2025|Wang, Mitchell và Piech, 2025]]).
 

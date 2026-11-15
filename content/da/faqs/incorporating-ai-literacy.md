@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learning-design]
 assessment: [assessment]
 level: [higher ed]
 audience: [instructors, instructional designers]
-updated: "2026-10-29T12:23:33-04:00"
+updated: "2026-11-15T16:01:30-05:00"
 translation_of: faqs/incorporating-ai-literacy
-source_updated: "2026-10-28T11:06:17-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -39,7 +39,7 @@ Bundlinjen: føj et trin til arbejde, du allerede bedømmer, hvor de studerende 
 
 ## Tilføj ikke en lektion, tilføj et trin til arbejde, du allerede bedømmer
 
-Det institutionelle standardtræk er et fritstående modul, normalt tidligt i semesteret, om hvordan store sprogmodeller virker, og hvordan man skriver prompter. Syntesen om [[ai-literacy|AI-kompetence]] argumenterer for en anden ordning: studerende udvikler mere brugbar kompetence, når de bruger, stiller spørgsmål til, verificerer, kritiserer og beslutter om AI inde i autentiske kursusopgaver, gentagne gange. Bevægelsen mod kritisk evaluering er tydeligst, hvor disse erfaringer er vedvarende og indlejrede snarere end leveret én gang ([[ai-literacy-continuum-higher-education|Et praktisk femtrins-kontinuum for AI-kompetence i videregående uddannelse]]).
+Det institutionelle standardtræk er et fritstående modul, normalt tidligt i semesteret, om hvordan [[llm|store sprogmodeller]] virker, og hvordan man skriver prompter. Syntesen om [[ai-literacy|AI-kompetence]] argumenterer for en anden ordning: studerende udvikler mere brugbar kompetence, når de bruger, stiller spørgsmål til, verificerer, kritiserer og beslutter om AI inde i autentiske kursusopgaver, gentagne gange. Bevægelsen mod kritisk evaluering er tydeligst, hvor disse erfaringer er vedvarende og indlejrede snarere end leveret én gang ([[ai-literacy-continuum-higher-education|Et praktisk femtrins-kontinuum for AI-kompetence i videregående uddannelse]]).
 
 Den [[quantitative-research|kvantitative]] evidens peger samme vej. En [[liu-ai-literacy-interventions-meta-analysis-2026|metaanalyse af 59 AI-kompetenceinterventioner]] fandt de største effekter for integrerede og reflekterende pædagogikker. Den advarer også om, at vidensfokuserede interventioner viser større *målte* effekter end dem, der retter sig mod færdigheder, holdninger eller etik. Hav det i mente, når du vælger, hvad du vil måle.
 
@@ -71,7 +71,7 @@ Generiske regler som »tjek AI for [[hallucination-risk|hallucinationer]]« er s
 
 Skriv den liste selv, ud fra din egen bedømmelse, før semesteret starter. Fem eksempler fra dit fag vil gøre mere arbejde end en generisk tjekliste, og de fungerer samtidig som fejlbank til kritikopgaven ovenfor.
 
-Gentagelsen er den anden halvdel. Én øvelse i uge tre producerer en studerende, der har lavet øvelsen. Den samme øvelse i tre opgaver, på forskelligt materiale, producerer en vane, og de cases i dette korpus, der viser [[discipline-specific-aied|fagligt specifik]] integration, er dem, hvor praksissen gentages gennem et kursus snarere end at ligge i en enkelt session.
+Gentagelsen er den anden halvdel. Én øvelse i uge tre producerer en studerende, der har lavet øvelsen. Den samme øvelse i tre opgaver, på forskelligt materiale, producerer en vane, og de cases i denne litteratur, der viser [[discipline-specific-aied|fagligt specifik]] integration, er dem, hvor praksissen gentages gennem et kursus snarere end at ligge i en enkelt session.
 
 ## Lån de modeller, der allerede findes i dit fag
 
@@ -79,11 +79,11 @@ Du behøver ikke opfinde designet. Flere er dokumenteret, og hvert af dem er lil
 
 Økonomistuderende løser først et problem, henter et GenAI-svar, sammenligner det med deres egen ræsonnering, kritiserer AI'en, reflekterer og diskuterer derefter med medstuderende ([[beck-genai-literacy-economics-hands-on|At fremme generativ AI-kompetence i økonomi]]).
 
-Psykologistuderende evaluerer en ChatGPT-genereret pressemeddelelse mod en kursusrubrik, identificerer svaghederne og reviderer den, hvilket udvikler både faglig kompetence og feedbackkompetence i samme opgave ([[richmond-nicholls-genai-psych-feedback-ai-literacies|At bruge generativ AI til at fremme psykologisk, feedback- og AI-kompetence]]).
+Psykologistuderende evaluerer en ChatGPT-genereret pressemeddelelse mod en kursusrubrik, identificerer svaghederne og reviderer den, hvilket udvikler både faglig kompetence og [[feedback-literacy|feedbackkompetence]] i samme opgave ([[richmond-nicholls-genai-psych-feedback-ai-literacies|At bruge generativ AI til at fremme psykologisk, feedback- og AI-kompetence]]).
 
 Biologi integrerer aktiviteterne i faglig læring snarere end at undervise i et separat teknisk emne ([[zha-ai-literacy-biology-case-study|At integrere AI-kompetenceundervisning i en biologiklasse]]). Database- og designkurser bruger fejlanalyse som læringsaktivitet, hvor studerende analyserer AI-genererede fejl og itererer på prompter og løsninger ([[pedagogy-ai-mistakes|Pædagogikken i AI-fejl]]). LearnAI-modellen indlejrer just-in-time AI-samskabelse på tværs af discipliner i stedet for at køre ét generisk modul ([[learnai-just-in-time-ai-cocreation-university-2026|LearnAI: just-in-time AI-samskabelse på tværs af discipliner]]).
 
-Én advarsel kommer med et tal. Et redesignet indledende kursus i partikelfysik tillod generativ AI som en eksplicit partner på forskningslignende problemer, og en skriftlig eksamen uden hjælpemidler gav et gennemsnit på 20,6 ud af 80, hvor kun to studerende nåede 40 ([[ai-particle-physics-education-redesign-2026|AI i partikelfysikundervisning]]). Assisteret præstation og selvstændigt hentbar viden er forskellige præstationer. Forfatterne argumenterer for at undervise i AI-kompetence, herunder verifikation og at behandle AI som en lærer snarere end som en kopimaskine, tidligt og side om side med dedikeret øvelse uden hjælpemidler. [[physics-education|Fysikundervisning]] har den fyldigere redegørelse.
+Én advarsel kommer med et tal. Et redesignet indledende kursus i partikelfysik tillod generativ AI som en eksplicit partner på forskningslignende problemer, og en skriftlig eksamen uden hjælpemidler gav et gennemsnit på 20,6 ud af 80, hvor kun to studerende nåede 40 ([[ai-particle-physics-education-redesign-2026|AI i partikelfysikundervisning]]). Assisteret præstation og selvstændigt hentbar viden er forskellige præstationer. Forfatterne argumenterer for at undervise i AI-kompetence, herunder verifikation og at behandle AI som en [[teacher-role|lærer]] snarere end som en kopimaskine, tidligt og side om side med dedikeret øvelse uden hjælpemidler. [[physics-education|Fysikundervisning]] har den fyldigere redegørelse.
 
 Der er også en version, hvor studerende laver noget til et rigtigt publikum. Burriss et al. lod 22 studerende i 11. klasse komponere video-PSA'er om de AI-[[ethics|etik]]problemer, de levede med: skoleovervågning, elektroniske »gangpas« og algoritmisk anklage om [[academic-integrity|plagiering]]. Forløbet trak på kritisk posthumanistisk kompetence og [[multimodal|multimodal komposition]]. De studerende fremstillede skade som noget, der opstår af sammenfiltret menneske-maskine-ansvar snarere end af et ondt værktøj, vendte snydfortællingen mod voksnes overafhængighed af fejlbehæftet AI og sluttede på [[agency|agens]] (»løsningen er inden for rækkevidde«). Forfatterne placerer [[storytelling-in-education|fortælling]] og kollaborativ produktion i centrum af [[critical-pedagogy|kritisk AI-kompetencepædagogik]] og argumenterer for, at det at komponere *om* AI til et rigtigt publikum udvikler en kritisk kompetence, som kompetenceskalaer ikke kan se ([[burriss-multimodal-composition-critical-ai-literacy-2026|»Young Scholar[s] on the Beat«]]). Det er et argument fra et enkelt forløb med 22 studerende, så læs det som en designidé snarere end som en effektstørrelse.
 
@@ -95,7 +95,7 @@ Evidensen støtter kognitivt [[active-learning|aktive]] og [[collaborative-learn
 
 ## Bedøm dømmekraft med en opgave
 
-Studerende overvurderer, hvor godt de kan evaluere AI, og et [[self-report-measures|selvrapporteret]] selvtillidsspørgsmål vil bekræfte fejlen snarere end afsløre den. Vidensbasen dokumenterer en betydelig uoverensstemmelse mellem selvrapporteret og præstationsbaseret AI-kompetence og anbefaler præstationsbedømmelse ([[ai-literacy-assessment-misalignment|AI-kompetencevurdering: selvrapporteret kontra præstationsmæssig uoverensstemmelse]]; [[jin-glat-genai-literacy-assessment|GLAT]]).
+Studerende overvurderer, hvor godt de kan evaluere AI, og et [[self-report-measures|selvrapporteret]] selvtillidsspørgsmål vil bekræfte fejlen snarere end afsløre den. Forskningen dokumenterer en betydelig uoverensstemmelse mellem selvrapporteret og præstationsbaseret AI-kompetence og anbefaler præstationsbedømmelse ([[ai-literacy-assessment-misalignment|AI-kompetencevurdering: selvrapporteret kontra præstationsmæssig uoverensstemmelse]]; [[jin-glat-genai-literacy-assessment|GLAT]]).
 
 I stedet for et selvtillidsspørgsmål kan du give dem noget at gøre: finde en fejl, verificere en kilde, forbedre et output, forklare en begrænsning, begrunde hvorfor en bestemt brug af AI er passende til en bestemt opgave.
 
@@ -117,7 +117,7 @@ Bedre prompter løser ikke modellen. I forskning i kontekstuel sycophancy reduce
 
 **AI-kompetence betyder at undervise i prompting.** Prompting er den synlige del. Studerende kan blive teknisk dygtige med disse værktøjer og samtidig forblive dårlige dommere af, hvad der kommer ud af dem, og afhængighedsfundet ovenfor peger samme vej.
 
-**Én session dækker det.** En session kan introducere ordforråd. Evidensen for gentaget øvelse på rigtigt kursusmateriale er stærkere, og metaanalysen af 59 interventioner fandt de største effekter, hvor arbejdet var integreret og reflekterende.
+**Én session dækker det.** En session kan introducere ordforråd. Evidensen for gentaget øvelse på rigtigt kursusmateriale er stærkere, og [[meta-analysis-systematic-review|metaanalysen]] af 59 interventioner fandt de største effekter, hvor arbejdet var integreret og reflekterende.
 
 **Studerende, der bruger disse værktøjer dagligt, kan allerede evaluere output.** Yan et al. fandt 76,32 % af 38 studerende i et mønster med et enkelt træk, og datalogisyntesen fandt studerende signifikant dårligere til at rette AI-genereret kode end til almindelige programmeringseksamensopgaver. Fortrolighed med grænsefladen er ikke kalibrering.
 

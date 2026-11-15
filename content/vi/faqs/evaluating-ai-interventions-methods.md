@@ -7,9 +7,9 @@ audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T16:56:07-04:00"
+updated: "2026-11-15T16:01:15-05:00"
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -69,7 +69,7 @@ Một mức tăng trước và sau cho thấy can thiệp đã hiệu quả. Nó
 
 Các cỡ hiệu ứng đã công bố chuyển được sang lớp của tôi. 14 phân tích tổng hợp của O'Neill không thể chống đỡ các tuyên bố được xây trên chúng, và cả hai khoảng dự báo được báo cáo đều bao gồm số không.
 
-Số liệu phân tích của nền tảng đo được chất lượng giảng dạy. Tác nhân xếp thứ ba của Zhang lại xếp cuối trên rubric của chuyên gia.
+[[learning-analytics|Phân tích]] của nền tảng đo được chất lượng giảng dạy. Tác nhân xếp thứ ba của Zhang lại xếp cuối trên rubric của chuyên gia.
 
 ## Những gì sẽ quay lại với bạn
 

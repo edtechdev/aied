@@ -1,6 +1,7 @@
 ---
 title: "كيف يمكن للذكاء الاصطناعي أن يساعد في البحث التربوي؟"
 created: "2026-10-12T19:55:00-04:00"
+updated: "2026-11-15T16:08:20-05:00"
 weight: 72
 type: faq
 connected_faqs: [evaluating-ai-interventions-methods, reporting-interpreting-aied-research, research-gaps-aied, equity-ethics-pedagogical-safety-research]
@@ -16,7 +17,7 @@ page_kind: [evaluation]
 confidence: medium
 contributors: [editor]
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -154,4 +155,4 @@ ai_assist:
 
 ## إلى أين تذهب بعد ذلك
 
-والأسئلة المصاحبة هي [[evaluating-ai-interventions-methods]] عن كيفية قياس تدخل، و[[reporting-interpreting-aied-research]] عن الإبلاغ عن النظام وعن استخدامك أنت للذكاء الاصطناعي، و[[research-gaps-aied]] عن أين تكون الأدبيات رقيقة. و[[equity-ethics-pedagogical-safety-research]] يغطي بيانات الطلاب، و[[ai-assisted-educational-research]] هي صفحة المفهوم الكاملة خلف هذه الصفحة.
+والأسئلة المصاحبة هي [[evaluating-ai-interventions-methods]] عن كيفية قياس تدخل، و[[reporting-interpreting-aied-research]] عن الإبلاغ عن النظام وعن استخدامك أنت للذكاء الاصطناعي، و[[research-gaps-aied]] عن أين تكون الأدبيات رقيقة. و[[equity-ethics-pedagogical-safety-research]] يغطي بيانات الطلاب، و[[ai-assisted-educational-research]] هي صفحة المفهوم الكاملة.

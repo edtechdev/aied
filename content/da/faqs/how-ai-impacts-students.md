@@ -7,9 +7,9 @@ foundations: [ai-literacy, cognitive-offloading, learner-identity]
 pedagogy: [well-being]
 ethics: [equity-in-ai-education]
 audience: [learners]
-updated: "2026-10-29T12:23:33-04:00"
+updated: "2026-11-15T16:01:30-05:00"
 translation_of: faqs/how-ai-impacts-students
-source_updated: "2026-10-28T11:14:23-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
@@ -21,7 +21,7 @@ ai_assist:
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
 
-Du bruger AI til dit studie og klarer dig fint, bortset fra at den lukkede eksamen føltes som at læse en andens noter. Eller en ven fortæller, at de ikke skrev noget og alligevel fik topkarakter, og du spekulerer på, hvad det betyder for dig. Eller du er begyndt at stille en chatbot flere spørgsmål, end du stiller din underviser.
+Du bruger AI til dit studie og klarer dig fint, bortset fra at den [[summative-assessment|lukkede eksamen]] føltes som at læse en andens noter. Eller en ven fortæller, at de ikke skrev noget og alligevel fik topkarakter, og du spekulerer på, hvad det betyder for dig. Eller du er begyndt at stille en chatbot flere spørgsmål, end du stiller din underviser.
 
 Det korte svar, i en form du kan gentage for en ven: AI er nyttig, hvor du har brug for feedback, og unyttig, hvor du har brug for øvelse. Behold tænketrinnet selv, test dig selv uden værktøjet før du afleverer, og vær ærlig om, hvad du brugte. Resten af denne side handler om, hvorfor det holder, og hvordan det ser ud en tirsdag aften.
 

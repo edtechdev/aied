@@ -7,9 +7,9 @@ audience: [instructors, researchers, faculty developers]
 assessment: [assessment, self-report-measures]
 page_kind: [evaluation]
 methods: [ai-ed-evaluation, research-methods-aied]
-updated: "2026-10-29T16:28:01-04:00"
+updated: "2026-11-15T16:03:17-05:00"
 translation_of: faqs/evaluating-ai-interventions-methods
-source_updated: "2026-10-28T11:47:13-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
@@ -69,7 +69,7 @@ ai_assist:
 
 প্রকাশিত প্রভাব-আকার আমার শ্রেণিতে স্থানান্তরিত হয়। ও'নিলের 14টি মেটা-বিশ্লেষণ তাদের উপর গড়া দাবিগুলো সমর্থন করতে পারেনি, আর প্রতিবেদিত দুটি পূর্বাভাস-ব্যবধানেরই শূন্য অন্তর্ভুক্ত ছিল।
 
-প্ল্যাটফর্ম-বিশ্লেষণ শিক্ষণের মান মাপে। ঝাং-এর তৃতীয় স্থানের এজেন্ট বিশেষজ্ঞ-রুব্রিকে শেষ স্থানে ছিল।
+প্ল্যাটফর্ম [[learning-analytics|বিশ্লেষণ]] শিক্ষণের মান মাপে। ঝাং-এর তৃতীয় স্থানের এজেন্ট বিশেষজ্ঞ-রুব্রিকে শেষ স্থানে ছিল।
 
 ## যা আপনার দিকে ফিরে আসবে
 

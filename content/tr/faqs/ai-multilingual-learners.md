@@ -1,7 +1,7 @@
 ---
 title: "YZ, Çok Dilli Öğrencileri Bilgilerini Yanlış Değerlendirmeden ve Seslerini Silmeden Nasıl Destekleyebilir?"
 created: "2026-10-30T16:00:00-04:00"
-updated: "2026-11-08T04:26:08-05:00"
+updated: "2026-11-15T16:08:48-05:00"
 type: faq
 connected_faqs: [ai-disabled-neurodivergent-learners, writing-instruction-ai-best-practices, redesign-assessment-ai-era, verify-ai-output, ai-support-reading-comprehension]
 weight: 72
@@ -12,7 +12,7 @@ methods: [meta-analysis-systematic-review, quantitative-research]
 research_method: [literature review, experiment]
 audience: [instructors, instructional designers, assessment designers]
 level: [higher ed, secondary]
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: faqs/ai-multilingual-learners
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
@@ -51,7 +51,7 @@ Kararı öğrencilerin okuyabileceği bir yere yazın. Öğrenciler yönergeleri
 
 ## Araştırmanın desteklediği ve desteklemediği
 
-[[genai-chatbots-language-learning-affordances-review-2026|Lopez ve Arabadzhy (2026)]], [[language-learning|dil öğreniminde]] üretici [[conversational-ai|sohbet robotları]] üzerine 24 ampirik çalışmayı gözden geçirdi. Katkıları sınıflandırıcıdır: üretici öncesi sohbet robotları için kataloğa alınan her alt olanak varlığını sürdürüyor ve üçü yeni; bunlar arasında öğrenmenin bir parçası olarak diller arasında bilinçli geçiş anlamına gelen **diller arası geçiş** de var. Bu, birleştirilmiş bir tahmin değil, bildirilen kullanımların ve deneyimlerin bir haritasıdır ve derlem coğrafi olarak yoğunlaşmıştır; Çin, İran, Tayvan ve Türkiye 24 çalışmanın 19'unu oluşturur ve biri hariç hepsi biçimsel kurumların içinde geçer. Diller arası açıklamayı bir öğrenme hamlesi olarak kullanmaya verilen destek, her ödevi çevirmeye verilen destek değildir.
+[[genai-chatbots-language-learning-affordances-review-2026|Lopez ve Arabadzhy (2026)]], [[language-learning|dil öğreniminde]] üretici [[conversational-ai|sohbet robotları]] üzerine 24 ampirik çalışmayı gözden geçirdi. Katkıları sınıflandırıcıdır: üretici öncesi sohbet robotları için kataloğa alınan her alt olanak varlığını sürdürüyor ve üçü yeni; bunlar arasında öğrenmenin bir parçası olarak diller arasında bilinçli geçiş anlamına gelen **diller arası geçiş** de var. Bu, birleştirilmiş bir tahmin değil, bildirilen kullanımların ve deneyimlerin bir haritasıdır ve çalışmalar coğrafi olarak yoğunlaşmıştır; Çin, İran, Tayvan ve Türkiye 24 çalışmanın 19'unu oluşturur ve biri hariç hepsi biçimsel kurumların içinde geçer. Diller arası açıklamayı bir öğrenme hamlesi olarak kullanmaya verilen destek, her ödevi çevirmeye verilen destek değildir.
 
 Kanıtların keskinleştiği ve risklerin yükseldiği yer değerlendirmedir. [[ai-scoring-language-bias-physics|Feser ve Tschisgale (2026)]], 116 ortaokul öğrencisinin fizik açıklamaları için on bir otomatik notlandırma yaklaşımını insan uzman puanlarıyla karşılaştırdı ve dilsel olarak daha zayıf açıklamalarda kavramsal anlayışın sistematik olarak hafife alındığını, her bir yaklaşımda ayrı ayrı buldu. Tasarım mekanizmayı yalıtıyor: aynı kavramsal içerik, daha zayıf bir düzyazıyla ifade edildiğinde daha düşük notlandı. Bu, herhangi bir ülkenin çok dilli öğrencileri hakkında bir iddia değildir ve genel notlandırma uzlaşmasını kötü bir tanı aracı yapan örüntü tam olarak budur. Bir notlandırıcı ortalama olarak insan notlandırıcılarla uzlaşabilirken, dili hâlâ gelişmekte olan öğrenciler için tutarlı bir yönde hata yapabilir.
 

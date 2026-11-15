@@ -1,7 +1,7 @@
 ---
 title: "Làm sao biết một AI giáo dục đang hoạt động đúng, chứ không chỉ cho điểm cao?"
 created: "2026-10-02T08:07:09-04:00"
-connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods]
+connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, reporting-interpreting-aied-research, evaluating-ai-interventions-methods, adopting-ai-options-and-issues]
 weight: 73
 type: faq
 foundations: [ai-education]
@@ -14,9 +14,9 @@ discipline: [writing education, math education]
 confidence: high
 methods: [benchmark, ai-ed-evaluation]
 ethics: [pedagogical-safety, trust-calibration]
-updated: "2026-10-29T16:56:07-04:00"
+updated: "2026-11-15T16:05:40-05:00"
 translation_of: faqs/checking-whether-educational-ai-works
-source_updated: "2026-10-28T11:26:02-04:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -58,7 +58,7 @@ Trợ lý môn Hệ thống điều khiển tuyến tính báo cáo điều này
 
 ## Chấm điểm từng đầu ra riêng biệt
 
-Trong dự án WrAFT, một mô hình được tinh chỉnh đạt điểm khớp **0.84** với người chấm trên 360 bài luận TOEFL để riêng. Đó là kết quả mạnh cho việc chấm điểm. Mô hình của cùng dự án được huấn luyện để viết phản hồi lại tạo ra đầu ra bị cắt cụt và không phân tích được, trong khi chỉ cần dùng prompt cho một mô hình khác thì tạo ra phản hồi được giáo viên ưa hơn ([[wraft-automated-writing-evaluation-argumentative-2026]]).
+Trong dự án WrAFT, một mô hình được tinh chỉnh đạt điểm khớp **0.84** với người chấm trên 360 bài luận TOEFL để riêng. Đó là kết quả mạnh cho việc chấm điểm. Mô hình của cùng dự án được huấn luyện để viết phản hồi lại tạo ra đầu ra bị cắt cụt và không phân tích được, trong khi chỉ cần dùng [[prompt-engineering|prompt]] cho một mô hình khác thì tạo ra phản hồi được giáo viên ưa hơn ([[wraft-automated-writing-evaluation-argumentative-2026]]).
 
 Cơ sở kiến thức ghi lại cùng thất bại ở dạng thứ hai: một triển khai có mô-đun chấm điểm đạt điểm tốt và phần phản hồi đến bị cắt giữa câu, không đọc được. Không gì trong con số nổi bật nói lên điều đó.
 
@@ -84,13 +84,13 @@ Phiên bản thực dụng: lấy một mẫu khoảng năm mươi đầu ra, ch
 
 Cách sửa gọn nhất là huấn luyện mô hình trên đúng đại lượng bạn định đo. Một mô hình được tinh chỉnh được huấn luyện để tái tạo các thuộc tính thống kê của câu hỏi kiểm tra: mỗi câu khó đến đâu, nó phân tách sinh viên mạnh với sinh viên yếu tốt đến đâu. Nó học những mô thức đó thay vì được nói cho biết ([[multimodal-item-parameter-estimation-2026]]). Vì mục tiêu là một thuộc tính của chính bài đánh giá, việc đánh giá có thể nói về thuộc tính đó thay vì về cách diễn đạt.
 
-Báo cáo cả quá trình tiến triển lẫn điểm cuối. Trình mô phỏng viết của SWIM công bố điểm của từng giai đoạn cạnh nhau: prompt dựa trên rubric **0.577**, tinh chỉnh **0.474 ± 0.023**, học tăng cường **0.618 ± 0.005** ([[swim-student-writing-simulation-2026]]). Người đọc có thể thấy từ bảng đó liệu việc huấn luyện có làm được gì. Một con số cuối cùng duy nhất không cho họ biết, và nó che giấu một giai đoạn nơi mô hình tinh chỉnh làm kém hơn prompt.
+Báo cáo cả quá trình tiến triển lẫn điểm cuối. [[simulation|Trình mô phỏng]] viết của SWIM công bố điểm của từng giai đoạn cạnh nhau: prompt dựa trên rubric **0.577**, tinh chỉnh **0.474 ± 0.023**, [[reinforcement-learning|học tăng cường]] **0.618 ± 0.005** ([[swim-student-writing-simulation-2026]]). Người đọc có thể thấy từ bảng đó liệu việc huấn luyện có làm được gì. Một con số cuối cùng duy nhất không cho họ biết, và nó che giấu một giai đoạn nơi mô hình tinh chỉnh làm kém hơn prompt.
 
 ## So sánh với một thứ bên ngoài dự án của bạn
 
 Trước tiên hãy lấy một đường cơ sở, kể cả một đường rẻ. Mô hình của trợ lý môn học không có neo ngữ cảnh đạt điểm dưới một tìm kiếm từ khóa đơn giản, đúng kiểu kết quả làm thay đổi lộ trình và chỉ tốn một ngày để tìm ra.
 
-Một điểm chuẩn bên ngoài sau đó cho bạn biết con số của mình có tốt chút nào không. Trên điểm chuẩn sư phạm CDPK, EduQwen đạt **96.52%** so với **90.55%** của Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Pedagogy Benchmark, xây từ các kỳ thi phát triển chuyên môn thật của giáo viên và bao phủ **97 mô hình**, tìm thấy độ chính xác trải từ **28% đến 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre và cộng sự, 2025]]).
+Một điểm chuẩn bên ngoài sau đó cho bạn biết con số của mình có tốt chút nào không. Trên [[pedagogy|điểm chuẩn sư phạm]] CDPK, EduQwen đạt **96.52%** so với **90.55%** của Gemini-3 Pro ([[singh-eduqwen-pedagogical-rl-2026]]). Pedagogy Benchmark, xây từ các kỳ thi phát triển chuyên môn thật của [[teacher-role|giáo viên]] và bao phủ **97 mô hình**, tìm thấy độ chính xác trải từ **28% đến 89%** ([[cdpk-pedagogy-benchmark-llms|Lelièvre và cộng sự, 2025]]).
 
 Trong một nhiệm vụ về dạy học, các mô hình trải từ kém đến tốt, nên một kết quả điểm chuẩn đặt hệ thống của bạn vào đâu đó trong một dải rộng.
 
@@ -102,9 +102,9 @@ Chạy phép kiểm trên những cuộc trò chuyện trọn vẹn, và viết 
 
 ## Kiểm tra sinh viên mô phỏng trước khi tin nó
 
-Tạo sinh viên mô phỏng thay vì tuyển sinh viên thật làm cho việc đánh giá rẻ hơn nhiều. Sinh viên mô phỏng cũng là một dụng cụ đo, và nó có thể sai theo những cách dụng cụ sai: quá hợp tác, quá trôi chảy, quá nhanh chấp nhận một gợi ý.
+Tạo [[simulating-students|sinh viên mô phỏng]] thay vì tuyển sinh viên thật làm cho việc đánh giá rẻ hơn nhiều. Sinh viên mô phỏng cũng là một dụng cụ đo, và nó có thể sai theo những cách dụng cụ sai: quá hợp tác, quá trôi chảy, quá nhanh chấp nhận một gợi ý.
 
-Phép kiểm trực tiếp nhất trong cơ sở kiến thức đối chiếu sinh viên mô phỏng và sinh viên được prompt với **382 cuộc đối thoại để riêng** từ bộ sưu tập công khai lớn nhất các cuộc đối thoại toán học thật giữa sinh viên và gia sư, dùng bảy thước đo bao phủ ngôn ngữ, hành vi và tư duy ([[simulated-students-tutoring-dialogues-2026]]). Công trình khác đẩy tính chân thực từ các hướng khác: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] huấn luyện mô hình vừa hành động vừa suy nghĩ như sinh viên, và hồ sơ có nhận biết lịch sử đặt điều kiện mô phỏng trên quá khứ của một sinh viên thay vì một nhân dạng cố định ([[history-aware-student-simulation]]).
+Phép kiểm trực tiếp nhất trong tài liệu này đối chiếu sinh viên mô phỏng và sinh viên được prompt với **382 cuộc đối thoại để riêng** từ bộ sưu tập công khai lớn nhất các cuộc đối thoại toán học thật giữa sinh viên và gia sư, dùng bảy thước đo bao phủ ngôn ngữ, hành vi và tư duy ([[simulated-students-tutoring-dialogues-2026]]). Công trình khác đẩy tính chân thực từ các hướng khác: [[inside-llm-student-simulator-reasoning-2026|INSIDE]] huấn luyện mô hình vừa hành động vừa suy nghĩ như sinh viên, và hồ sơ có nhận biết lịch sử đặt điều kiện mô phỏng trên quá khứ của một sinh viên thay vì một nhân dạng cố định ([[history-aware-student-simulation]]).
 
 Nếu bộ khung của bạn là một sinh viên mô phỏng, hãy kiểm định trình mô phỏng với bản ghi thật trước khi để nó chấm gia sư của bạn.
 

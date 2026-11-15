@@ -8,9 +8,9 @@ ethics: [ai-use-disclosure, multilingual-learning]
 weight: 80
 audience: [instructors, instructional designers]
 discipline: [engineering education, humanities education, writing education]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:03:31-05:00"
 translation_of: faqs/writing-instruction-ai-best-practices
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -127,7 +127,7 @@ Ge kritiken av modellen som disciplinärt arbete. Ge studenterna en AI-tolkning 
 
 ### STEM-kurser och laborationsrapporter
 
-En kvalificering först: den här kunskapsbasen har mycket starkare evidens om AI-stött akademiskt skrivande i allmänhet än om skrivande av laborationsrapporter i synnerhet. Praktisk och laborativ [[pedagogy|pedagogik]] är fortfarande underrepresenterad, även i litteraturen om [[engineering-education|teknikutbildning]], så det som följer tillämpar fynd om skrivande, avlastning, validitet och teknik på en miljö som studierna inte testade.
+En kvalificering först: evidensen är mycket starkare för AI-stött akademiskt skrivande i allmänhet än för skrivande av laborationsrapporter i synnerhet. Praktisk och laborativ [[pedagogy|pedagogik]] är fortfarande underrepresenterad, även i litteraturen om [[engineering-education|teknikutbildning]], så det som följer tillämpar fynd om skrivande, avlastning, validitet och teknik på en miljö som studierna inte testade.
 
 Dra gränsen kring det vetenskapliga resonemanget snarare än kring prosan som helhet. Studenter förblir ansvariga för observationer, rådata, beräkningar, osäkerhet, figurer, analysval, resultat och påståenden som kopplar evidens till slutsats. När de finns kan AI rimligen hjälpa till med organisering, läsbarhet, övergångar och disciplinära konventioner, vilket är samma uppdelning mellan yta och resonemang som i [[layer-sensitive-cognitive-offloading-writing-2026|Chens studie]].
 
@@ -147,17 +147,17 @@ Läs de två texterna sida vid sida och fråga om resonemanget i den assisterade
 
 Två resultat som ser motsägelsefulla ut är förenliga. Omsorgsfullt kalibrerade system med detaljerade rubriker och exempel kan bedöma vissa uppgifter väl, och [[llm|LLM]]-bedömning direkt ur lådan avviker kraftigt från mänskligt omdöme. [[llms-do-not-grade-essays-like-humans-2026|Mathew m.fl.]] fann svag överensstämmelse mellan människa och LLM som varierar systematiskt med uppsatsens kvalitet: modellerna överbelönar korta, ytligt läsbara uppsatser, underbelönar längre och starkare uppsatser med mindre ytliga fel, och klumpar sig mot mitten av skalan. Det mönstret stöder AI för [[formative-assessment|formativa]] lågriskändamål, utkast till kommentarer och triage långt mer än för autonom [[summative-assessment|summativ]] bedömning ([[automated-essay-scoring|Automatiserad uppsatsbedömning]]).
 
-Studenter drar själva en liknande gräns. I en grundkurs i teknisk kommunikation där [[generative-ai|ChatGPT]] betygsatte handskriven text och studenterna fick veta det, fann alla 13 deltagare återkopplingen tydlig och användbar för revidering på ytnivå. De flesta skilde återkopplingens användbarhet från den värderande auktoriteten: de accepterade kritiken och insisterade på att läraren avgör betyget ([[student-perspectives-ai-writing-grading-2026]]). Designa [[human-in-the-loop-ai|mänsklig tillsyn]] som den punkt där AI-output blir ett betyg, snarare än som en artighet som erbjuds när det passar.
+Studenter drar själva en liknande gräns. I en grundkurs i teknisk kommunikation där [[generative-ai|ChatGPT]] betygsatte handskriven text och studenterna fick veta det, fann alla 13 deltagare återkopplingen tydlig och användbar för revidering på ytnivå. De flesta skilde återkopplingens användbarhet från den värderande auktoriteten: de accepterade kritiken och insisterade på att läraren avgör betyget ([[student-perspectives-ai-writing-grading-2026|AlGhamdi, 2026]]). Designa [[human-in-the-loop-ai|mänsklig tillsyn]] som den punkt där AI-output blir ett betyg, snarare än som en artighet som erbjuds när det passar.
 
 ## Bedöm evidensen innan du skriver om kursplanen
 
-Argumentet för dessa designer är lovande och ännu inte starkt nog för att motivera en enda universell policy för AI-skrivande. En del av den bästa evidensen kommer från omfattande klassrumsstudier som [[pairr-ai-peer-review-2025|PAIRR]] med sina 654 studenter. Mycket av resten vilar på kvasi-experiment, små experimentella urval, begreppsliga analyser och arbete från 2025-2026 som fortfarande är nytt: [[layer-sensitive-cognitive-offloading-writing-2026|Chens avgränsade skrivstudie]] hade 168 studenter men bara sex intakta klasser, [[ai-writing-support-stage-ownership-2026|studien om äganderätt]] använde en kort experimentell skrivuppgift, och en studie som rapporterade omedelbara kvalitetsvinster efter ChatGPT-övning omfattade bara 21 förstaårsstudenter på internationella program och fastställde inte långsiktig [[transfer-of-learning|överföring]] ([[chatgpt-academic-writing-quality-ownership-2026]]). Det kunskapsbasen om [[ai-education|AI i utbildning]] stöder är en uppsättning designprinciper, och det mest tillförlitliga fyndet tvärs över studierna är att bevara studentens [[agency|handlingsutrymme]], [[evaluative-judgment|värderande omdöme]], självständiga kompetens, disciplinära resonemang och mänskliga återkoppling medan AI används för att vidga tillgången till kritik, övning, revideringsstöd och språklig hjälp.
+Argumentet för dessa designer är lovande och ännu inte starkt nog för att motivera en enda universell policy för AI-skrivande. En del av den bästa evidensen kommer från omfattande klassrumsstudier som [[pairr-ai-peer-review-2025|PAIRR]] med sina 654 studenter. Mycket av resten vilar på kvasi-experiment, små experimentella urval, begreppsliga analyser och arbete från 2025-2026 som fortfarande är nytt: [[layer-sensitive-cognitive-offloading-writing-2026|Chens avgränsade skrivstudie]] hade 168 studenter men bara sex intakta klasser, [[ai-writing-support-stage-ownership-2026|studien om äganderätt]] använde en kort experimentell skrivuppgift, och en studie som rapporterade omedelbara kvalitetsvinster efter ChatGPT-övning omfattade bara 21 förstaårsstudenter på internationella program och fastställde inte långsiktig [[transfer-of-learning|överföring]] ([[chatgpt-academic-writing-quality-ownership-2026|Bauer et al., 2026]]). Det som forskningen om [[ai-education|AI i utbildning]] stöder är en uppsättning designprinciper, och det mest tillförlitliga fyndet tvärs över studierna är att bevara studentens [[agency|handlingsutrymme]], [[evaluative-judgment|värderande omdöme]], självständiga kompetens, disciplinära resonemang och mänskliga återkoppling medan AI används för att vidga tillgången till kritik, övning, revideringsstöd och språklig hjälp.
 
 Den blandningen har en praktisk konsekvens. Ändra en uppgift, behåll artefakten, och jämför nästa kull med den här på samma mått. En regel du kan revidera efter en termin är värd mer än en policy du inte kan pröva, och de små studierna ovan kommer inte att tala om för dig vad som händer i din kurs.
 
 ## Vad lärare missförstår om detta
 
-**En detektor avgör om skrivandet är studentens.** Det gör den inte. I en hemlig fältstudie gick 94 % av AI-genererade tentamenssvar oupptäckta och fick högre poäng än riktiga studenter, och en kontrollerad studie fann att detektorer flaggade tillåten lätt AI-redigering i 38 till 80 % av fallen samtidigt som de missade mer än 96 % av humaniserade omskrivningar ([[teichmann-detecting-undetectable-misconduct-2026]]; [[karr-ai-detection-humanization-2026]]). Detektion besvarar en detektionsfråga, och [[assessment-validity|validitet]] är en annan fråga.
+**En detektor avgör om skrivandet är studentens.** Det gör den inte. I en hemlig fältstudie gick 94 % av AI-genererade tentamenssvar oupptäckta och fick högre poäng än riktiga studenter, och en kontrollerad studie fann att detektorer flaggade tillåten lätt AI-redigering i 38 till 80 % av fallen samtidigt som de missade mer än 96 % av humaniserade omskrivningar ([[teichmann-detecting-undetectable-misconduct-2026|Teichmann, 2026]]; [[karr-ai-detection-humanization-2026|Karr et al., 2026]]). Detektion besvarar en detektionsfråga, och [[assessment-validity|validitet]] är en annan fråga.
 
 **En policy på kursnivå är tydligare än en regel per uppgift.** Nash och Burriss policyer var dokument på kursnivå, och 22 av 27 tillät brainstorming, 22 begränsade eller grumlade formulering, och 22 var tysta om läsning. Ett dokument som täcker allt tenderar att vara specifikt om det steg läraren oroar sig för och vagt om resten.
 
@@ -169,7 +169,7 @@ Den blandningen har en praktisk konsekvens. Ändra en uppgift, behåll artefakte
 
 ## Vad som kommer att slå tillbaka mot dig
 
-**”Jag har inte tid att läsa ännu en artefakt.”** Gör då artefakten liten: fyra kolumner beslutstabell, eller fem minuters skrivande i klassrummet som det självständiga provet. Materialet rapporterar inga data om rättningstid för dessa designer, så arbetsbelastningsargumentet måste prövas på en uppgift i stället för antas från den här sidan.
+**”Jag har inte tid att läsa ännu en artefakt.”** Gör då artefakten liten: fyra kolumner beslutstabell, eller fem minuters skrivande i klassrummet som det självständiga provet. Ingen studie rapporterar data om rättningstid för dessa designer, så arbetsbelastningsargumentet måste prövas på en uppgift i stället för antas.
 
 **”Mina studenter kommer att använda AI vad regeln än säger.”** Det kommer de, och designfrågan är vilket svar din uppgift gör lättast. En deklaration som inte kostar något och en rubrik som betalar för processen gör redovisningen till den billigare vägen. Den mekanismen kommer från modellering snarare än från ett försök med en redovisningspolicy, så behandla förutsägelsen som rimlig och obekräftad.
 
@@ -179,7 +179,7 @@ Den blandningen har en praktisk konsekvens. Ändra en uppgift, behåll artefakte
 
 **”Modellen betygsätter den här uppgiften lika bra som jag.”** Kalibrerade system med detaljerade rubriker och genomarbetade exempel kan bedöma vissa uppgifter väl. Generisk bedömning gör det inte, och Mathew m.fl. visar att oenigheten följer uppsatsens kvalitet i stället för att spridas slumpmässigt, vilket är den svårare sortens fel att lägga märke till. Pröva verktyget på din egen rättade samling innan det rör ett betyg.
 
-**”Det här missgynnar studenter vars akademiska engelska är svagare.”** Det kan det, om regeln behandlar uttryck och författarskap som en enda sak. Skilj dem åt, och granska AI-återkopplingen för det mönster Tan m.fl. fann, där identisk text fick mer beröm och mindre substantiell kritik när demografiska eller utbildningsmässiga attribut fanns i prompten. Materialet dokumenterar den biasen. Det rapporterar ingen prövad åtgärd, så din egen jämförelse är kontrollen.
+**”Det här missgynnar studenter vars akademiska engelska är svagare.”** Det kan det, om regeln behandlar uttryck och författarskap som en enda sak. Skilj dem åt, och granska AI-återkopplingen för det mönster Tan m.fl. fann, där identisk text fick mer beröm och mindre substantiell kritik när demografiska eller utbildningsmässiga attribut fanns i prompten. Den biasen är dokumenterad. Det rapporterar ingen prövad åtgärd, så din egen jämförelse är kontrollen.
 
 ## Vad du ska göra den här veckan
 
@@ -195,4 +195,4 @@ Den blandningen har en praktisk konsekvens. Ändra en uppgift, behåll artefakte
 
 ## Vart du går härnäst
 
-Bedömningssidan av det här argumentet, inklusive designen av autentiserade steg, finns i [[redesign-assessment-ai-era|Att designa om bedömning i AI-eran]]. För det policydokument som studenterna faktiskt läser, se [[course-ai-policy|Kursens AI-policy]], och för själva återkopplingsverktygen, [[ai-feedback-quality|Kvalitet i AI-återkoppling]]. [[verify-ai-output|Att verifiera AI-output]] handlar om vad studenter bör kontrollera när modellen levererar ett påstående eller en källa, och konceptsidan [[coach-not-crutch-ai-writing|Handledare, inte krycka]] anger den gräns som den här sidan återvänder till.
+Bedömningssidan av det här argumentet, inklusive designen av autentiserade steg, finns i [[redesign-assessment-ai-era|Att designa om bedömning i AI-eran]]. För det policydokument som studenterna faktiskt läser, se [[course-ai-policy|Kursens AI-policy]], och för själva återkopplingsverktygen, [[ai-feedback-quality|Kvalitet i AI-återkoppling]]. [[verify-ai-output|Att verifiera AI-output]] handlar om vad studenter bör kontrollera när modellen levererar ett påstående eller en källa, och [[coach-not-crutch-ai-writing|Lira et al. (2025)]] anger den gräns som spelar störst roll.

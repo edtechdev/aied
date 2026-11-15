@@ -14,9 +14,9 @@ audience: [researchers, instructors]
 level: [higher ed]
 page_kind: [evaluation]
 confidence: medium
-updated: "2026-11-08T04:26:08-05:00"
+updated: "2026-11-15T15:58:53-05:00"
 translation_of: faqs/how-can-ai-assist-with-educational-research
-source_updated: "2026-11-06T13:58:13-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
@@ -44,7 +44,7 @@ Câu trả lời ngắn cho cuộc họp đó: AI có thể đảm nhận việc
 
 **5.** Thẩm định từng tài liệu tham khảo bằng tay, kiểm tra tác giả trước, mỗi khi AI có chạm vào phần viết.
 
-**6.** Ghi lại prompt, phiên bản mô hình và phiên bản kho ngữ liệu, và dự trù số giờ cho việc đó.
+**6.** Ghi lại prompt, phiên bản mô hình và phiên bản bộ dữ liệu, và dự trù số giờ cho việc đó.
 
 ## Quyết định AI được chạm vào đâu trước khi dự án bắt đầu
 
@@ -60,7 +60,7 @@ Phần lớn lợi ích đến từ hai quyết định thiết kế. Hãy viế
 
 ## Chốt bộ mã trước khi mô hình đọc bất cứ thứ gì
 
-[[qualitative-research|Phân tích định tính]] là giai đoạn mà việc diễn giải chính là sản phẩm. Các cấu trúc, rubric mã hóa và dữ liệu huấn luyện là những quyết định của con người chứ không phải đầu ra của mô hình ([[ai-methodologies-science-education-research-2026|Martin và cộng sự, 2026]]), nghĩa là bộ mã phải được chốt trước khi một lượt tự động chạy trên kho ngữ liệu. Lựa chọn thay thế là một sơ đồ mã hóa được viết quanh những gì mô hình tình cờ làm nổi lên, và khi đó các chủ đề mô tả cách đọc dữ liệu của công cụ chứ không phải của bạn.
+[[qualitative-research|Phân tích định tính]] là giai đoạn mà việc diễn giải chính là sản phẩm. Các cấu trúc, rubric mã hóa và dữ liệu huấn luyện là những quyết định của con người chứ không phải đầu ra của mô hình ([[ai-methodologies-science-education-research-2026|Martin và cộng sự, 2026]]), nghĩa là bộ mã phải được chốt trước khi một lượt tự động chạy trên bộ dữ liệu. Lựa chọn thay thế là một sơ đồ mã hóa được viết quanh những gì mô hình tình cờ làm nổi lên, và khi đó các chủ đề mô tả cách đọc dữ liệu của công cụ chứ không phải của bạn.
 
 Việc ủy thác có thể chi tiết hơn nhiều so với kiểu được ăn cả, mất cả. [[agreement-not-quality-llm-coding-verification|Một nghiên cứu thẩm định mù]] phân loại 15 trong 72 mục của bộ mã là thực sự cần chuyên môn của con người, 12 mục phù hợp hơn với một mô hình, và 16 mục phù hợp với việc phân loại dựa trên độ tin cậy. Hãy phân loại các mục của bạn theo cách đó và khoản tiết kiệm công sức sẽ rơi vào nơi an toàn.
 
@@ -89,13 +89,13 @@ Thất bại thì cụ thể. Trong [[zhang-platform-scores-miss-ai-teaching-age
 
 Việc áp dụng đã chạy trước việc báo cáo. [[prisma-llm-ai-assisted-systematic-reviews-2026|Zabaleta và Lin (2026)]] phân tích 888 bài về tự động hóa tổng quan: từ 2023, 38,0% các bài về phần mềm và sản phẩm không báo cáo đánh giá nào cả, so với 9,3% ở các bài về LLM, và quyền truy cập mô hình áp đảo là độc quyền (84,1%). Một đánh giá tổng thể thuận lợi cũng không hàm ý phù hợp để ủy thác, vì 52% trong 118 bài về LLM chỉ báo cáo kết quả tích cực vẫn nêu một mối lo rằng quy trình làm việc dưới chuẩn mà vai trò của nó đòi hỏi. Khung [[meta-analysis-systematic-review|PRISMA]]-LLM của họ tách việc công bố cách triển khai khỏi đánh giá nhạy cảm với hệ quả, và coi năm cấp độ của nó là các bậc công bố thông tin chứ không phải các bậc rủi ro.
 
-Phiên bản thực dụng: nêu tên hệ thống và phiên bản của nó, các prompt, phiên bản kho ngữ liệu, điều gì con người đã kiểm tra, và nó thất bại ở đâu. Hãy giữ nhật ký prompt và phản hồi, vì một danh sách chủ đề do máy tạo trông trôi chảy và hiển nhiên rất lâu trước khi công việc làm bằng chứng của nó bắt đầu ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
+Phiên bản thực dụng: nêu tên hệ thống và phiên bản của nó, các prompt, phiên bản bộ dữ liệu, điều gì con người đã kiểm tra, và nó thất bại ở đâu. Hãy giữ nhật ký prompt và phản hồi, vì một danh sách chủ đề do máy tạo trông trôi chảy và hiển nhiên rất lâu trước khi công việc làm bằng chứng của nó bắt đầu ([[chain-behind-claim-warrantability-2026|Holster, 2026]]).
 
 Hãy dự trù cả số giờ. [[persistent-ai-agents-academic-research|Một nghiên cứu trường hợp 115 ngày với một nhà nghiên cứu duy nhất]] về một tác tử nghiên cứu thường trú phát hiện mẫu mạnh nhất là mở rộng năng lực chứ không phải thay thế lao động đã được chứng minh: khi bộ nhớ và các thủ tục tích lũy, phạm vi công việc được ủy thác lớn lên trong khi phần đóng góp của con người không hề thu nhỏ.
 
 ## Thực hiện nghiên cứu của người thực hành với cùng quy tắc ở quy mô nhỏ hơn
 
-Nếu bạn là một giảng viên đang nghiên cứu khóa học của chính mình, bạn đang làm việc trong sợi mỏng nhất của kho ngữ liệu. [[ai-assisted-educational-research|Nghiên cứu giáo dục có AI hỗ trợ]] nêu điều này như một khoảng trống chứ không phải một phát hiện: nghiên cứu của người thực hành có AI hỗ trợ có khả năng phổ biến rộng và gần như không được ghi chép, và bằng chứng về tự động hóa tổng quan cùng trắc lượng thư mục không giải quyết được việc một giảng viên nên nghiên cứu việc dạy của chính mình như thế nào.
+Nếu bạn là một giảng viên đang nghiên cứu khóa học của chính mình, bạn đang làm việc trong sợi ít được nghiên cứu nhất của tài liệu này. [[ai-assisted-educational-research|Nghiên cứu giáo dục có AI hỗ trợ]] nêu điều này như một khoảng trống chứ không phải một phát hiện: nghiên cứu của người thực hành có AI hỗ trợ có khả năng phổ biến rộng và gần như không được ghi chép, và bằng chứng về tự động hóa tổng quan cùng trắc lượng thư mục không giải quyết được việc một giảng viên nên nghiên cứu việc dạy của chính mình như thế nào.
 
 Điều chuyển được sang là một tập hợp các khuynh hướng:
 

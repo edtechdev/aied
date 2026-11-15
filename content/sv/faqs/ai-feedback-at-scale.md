@@ -10,9 +10,9 @@ methods: [mixed-methods-research, meta-analysis-systematic-review]
 research_method: [experiment]
 audience: [instructors, assessment designers, assessment professionals]
 level: [higher ed, secondary]
-updated: "2026-11-08T04:14:23-05:00"
+updated: "2026-11-15T16:03:31-05:00"
 translation_of: faqs/ai-feedback-at-scale
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,8 @@ Kamratåterkoppling förtjänar sin egen plats i sekvensen. [[scaffolding-srl-fe
 
 Gu m.fl.:s fördel var liten, och de läste den som verklig men inte transformativ i sig. Lärarstöttning, promptriktlinjer och arbetsblad gjorde det bärande arbetet.
 
+Källan kan spela mindre roll än klockan. Bland 391 tyska gymnasieelever gav lärarskriven och LLM-genererad återkoppling ingen signifikant skillnad i revideringar, senare skrivande, tid på uppgiften eller uppfattningar; bayesianska posteriorer lutade mot läraråterkoppling för senare skrivande men behöll en fjärdedel till två femtedelar av massan inom ekvivalensregionen, och bara omedelbar AI-återkoppling fick bättre betyg för användbarhet och motivation ([[meyer-teacher-ai-feedback-writing-2026|Meyer m.fl., 2026]]). Om en förstakommentar kan komma medan studenten fortfarande reviderar, är den tidpunkten en del av designen som gör arbetet.
+
 ## Ge modellen en bedömningsmatris och låt den visa sina steg
 
 Matrisrefererad generering är den automatiserbara delen.
@@ -92,7 +94,7 @@ Aldino m.fl. finner samma mönster med stöd först och verifiering sedan i vanl
 
 Tolv av Aldino m.fl.:s 21 lärare gjorde ytterligare revisioner på meningsnivå, och det dominerande mönstret var att kalibrera tonen: skriva ned beröm (f = 11), ta bort förslag (f = 9), ta bort uppmuntran (f = 8). Revisionerna klustrade i den relationella dimensionen, särskilt Elev-lärarrelation (f = 24). De skyddade autenticitet och professionell röst, och det arbetet automatiseras inte.
 
-Studenterna är den andra sidan av den verifieringen, och deras bild av arbetsfördelningen ligger nära den som sidan rekommenderar. I fokusgrupper med 20 studenter på grundnivå värderades lärarens återkoppling för att den var relationell, personlig och expertdriven, medan AI-genererad återkoppling uppfattades som opersonlig och potentiellt orättvis; samma studenter var öppna för en hybrid modell där läraren läser deras arbete och kompletterar modellens kommentarer ([[fong-chatgpt-feedback-evaluations-2026|Fong m.fl. (2026)]]). Samma studie fann att deras bedömningar stämde med ChatGPT:s i specificitet och handlingsbarhet men skilde sig i rättidighet och positivitet, så de dimensioner där en modells eget omdöme kan litas på är snävare än hela bedömningsmatrisen.
+Studenterna är den andra sidan av den verifieringen, och deras bild av arbetsfördelningen ligger nära den rekommenderade. I fokusgrupper med 20 studenter på grundnivå värderades lärarens återkoppling för att den var relationell, personlig och expertdriven, medan AI-genererad återkoppling uppfattades som opersonlig och potentiellt orättvis; samma studenter var öppna för en hybrid modell där läraren läser deras arbete och kompletterar modellens kommentarer ([[fong-chatgpt-feedback-evaluations-2026|Fong m.fl. (2026)]]). Samma studie fann att deras bedömningar stämde med ChatGPT:s i specificitet och handlingsbarhet men skilde sig i rättidighet och positivitet, så de dimensioner där en modells eget omdöme kan litas på är snävare än hela bedömningsmatrisen.
 
 ## Lär studenterna att läsa kommentaren
 
@@ -144,6 +146,6 @@ Nöjdhetsbetyg säger dig att kommentarerna är träffsäkra. I Deakin-piloten s
 
 ## Vart du går härnäst
 
-[[feedback|Återkoppling]] är paraplybegreppet för hela systemet: tillhandahållande, loop, upptag och bedömningskontext. [[ai-feedback-quality|AI-återkopplingens kvalitet]] täcker vad som gör genererade kommentarer träffsäkra, användbara, lägliga och pedagogiskt hållbara, och den här sidan är den praktiska mitten, om vilka kombinationer av dessa delar som ger bättre återkoppling i skala.
+[[feedback|Återkoppling]] är paraplybegreppet för hela systemet: tillhandahållande, loop, upptag och bedömningskontext. [[ai-feedback-quality|AI-återkopplingens kvalitet]] täcker vad som gör genererade kommentarer träffsäkra, användbara, lägliga och pedagogiskt hållbara, och den praktiska frågan är vilka kombinationer av dessa delar som ger bättre återkoppling i skala.
 
 Frågor om vad ett betyg ska betyda när AI är inblandat, inklusive konstruktsubstitution, autentiserad processevidens och integritetsregler, hör till [[redesign-assessment-ai-era|att designa om bedömning i AI-eran]] och [[assessment-validity|bedömningsvaliditet]] snarare än hit. För specialfallet skrivundervisning, se [[writing-instruction-ai-best-practices|bästa praxis för skrivundervisning i en AI-kontext]].

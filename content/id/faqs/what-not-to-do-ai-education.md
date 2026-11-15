@@ -1,9 +1,9 @@
 ---
 title: "Apa yang Harus Dihindari Pendidik Saat Menggunakan AI?"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-11T06:20:00-05:00"
+updated: "2026-11-15T16:03:21-05:00"
 type: faq
-connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors]
+connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reducing-over-reliance, designing-educational-ai-software, ai-guidance-children-under-13, top-10-findings-ai-education-instructors, adopting-ai-options-and-issues]
 weight: 90
 foundations: [misconceptions, reducing-ai-misuse, ai-literacy, limitations-in-aied-research]
 pedagogy: [reflection, professional-training]
@@ -12,7 +12,7 @@ assessment: [assessment-validity, ai-detection, self-report-measures, feedback]
 ethics: [privacy, pedagogical-safety, equity-in-ai-education, accessibility, automation-bias]
 audience: [instructors, learners, parents and families, faculty developers, software developers, administrators, researchers]
 translation_of: faqs/what-not-to-do-ai-education
-source_updated: "2026-11-11T06:20:00-05:00"
+source_updated: "2026-11-14T04:30:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
@@ -157,8 +157,8 @@ Tidak satu pun peringatan ini berarti alatnya selalu salah. Detektor dapat menja
 ## Ke mana selanjutnya
 
 - [[addressing-common-misconceptions-ai-education]]: keyakinan di balik praktik-praktik ini, dan cara mengoreksinya tanpa merendahkan.
-- [[limitations-in-aied-research]]: apa yang belum dapat didukung basis bukti.
-- [[reducing-ai-misuse]]: tuas struktural untuk penyalahgunaan, dan mengapa tuas itu mengalahkan imbauan.
-- [[pedagogical-safety]]: apa yang dapat dilakukan tutor terhadap pembelajar sambil lolos setiap pemeriksaan konten.
+- [[limitations-in-aied-research|Keterbatasan dalam penelitian AIEd]]: apa yang belum dapat didukung basis bukti.
+- [[reducing-ai-misuse|Mengurangi penyalahgunaan AI]]: tuas struktural untuk penyalahgunaan, dan mengapa tuas itu mengalahkan imbauan.
+- [[pedagogical-safety|Keselamatan pedagogis]]: apa yang dapat dilakukan tutor terhadap pembelajar sambil lolos setiap pemeriksaan konten.
 - [[should-we-use-ai-detectors]]: bukti detektor secara lengkap.
 - [[checking-whether-educational-ai-works]]: cara mengevaluasi klaim sebelum mengadopsinya.
