@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Automated Question Generation
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T09:58:00-05:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -25,6 +25,8 @@ reviewed_by: [editor]
 ## Introduction
 
 Automated question generation matters because assessment items are expensive to create by hand, and AI can produce them rapidly and at scale. However, the research shows that generated items must be validated for correctness, relevance, and difficulty, and that different item types (MCQs, short-answer, code) vary in how reliably they can be generated. AQG therefore sits at the intersection of [[generative-ai|generative AI]], [[educational-nlp|educational NLP]], and [[educational-measurement|educational measurement]].
+
+A practical limit: the saving is narrower than "AI writes the questions." Across 150 matched pairs from eight dental faculty, item finalization fell from 6.0 to 1.0 minutes per item — 5.1 minutes saved (95% CI 4.6 to 5.7, d = 3.79) — timed from a usable draft and excluding upload, latency, failed generations and discarded drafts ([[islam-human-vs-ai-sba-dental-2026|Islam et al. (2026)]]). The measured gain is the review pass, so end-to-end savings depend on what sits outside the timer.
 
 ## Approaches to question generation
 
@@ -132,3 +134,4 @@ AQG is a key enabler of [[adaptive-learning|adaptive]] and [[personalized-learni
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
 - [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Students could not tell AI-generated MCQs from licensing-exam items in a graded exam, and 18.2% of generated items were eliminated in review (Vogt et al. 2026)
 - [[rodemer-ai-generated-mcq-chemistry-assessment-2026]] — Generated items that pass a writing rubric can still miss their intended competence level
+- [[islam-human-vs-ai-sba-dental-2026]] — Finalization time fell from 6.0 to 1.0 minutes per item, measured from usable draft to final, not end to end

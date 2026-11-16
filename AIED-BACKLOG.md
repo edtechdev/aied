@@ -7,20 +7,15 @@
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
 **Last updated:** 2026-11-16
-**Total backlog:** 31 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Total backlog:** 26 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-16)
 
-Five BMC Medical Education articles from the journal watch were retrieved at their landing pages
-but the full text is not served: Springer Nature Link published all five as early-access records
-carrying abstract and metadata only, so no PDF or HTML body was available and no page was created.
-All five need the publisher PDF supplied for full-text ingestion. (The nursing scoping review was
-already listed under the 2026-11-15 sweep.)
-
-- [Exploring prompt literacy in allied health professions education: an explanatory sequential mixed-methods study of student and educator perspectives](https://doi.org/10.1186/s12909-026-10829-z) — [DOI: 10.1186/s12909-026-10829-z](https://doi.org/10.1186/s12909-026-10829-z)
-- [Feasibility of an AI-simulated patient encounter delivered in group and individual learning formats for first-year medical students: a two-cohort pilot study](https://doi.org/10.1186/s12909-026-10812-8) — [DOI: 10.1186/s12909-026-10812-8](https://doi.org/10.1186/s12909-026-10812-8)
-- [Teaching practice and pedagogical reform of basic medical courses for intelligent medical engineering program under cross-institutional integration](https://doi.org/10.1186/s12909-026-10774-x) — [DOI: 10.1186/s12909-026-10774-x](https://doi.org/10.1186/s12909-026-10774-x)
-- [Comparison of human versus AI-assisted workflows for developing structured clinical single-best-answer questions in dental education](https://doi.org/10.1186/s12909-026-10745-2) — [DOI: 10.1186/s12909-026-10745-2](https://doi.org/10.1186/s12909-026-10745-2)
+Five BMC Medical Education early-access records needed publisher PDFs. Resolved on 2026-11-16:
+three were supplied and ingested as `ago-prompt-literacy-allied-health-2026`,
+`tischkau-ai-simulated-patient-formats-2026` and `islam-human-vs-ai-sba-dental-2026`; the other
+two (10.1186/s12909-026-10774-x and the OSF nursing scoping-review registration) were declined
+and recorded in `rejected-sources.yaml`.
 
 ## OpenAlex weekly topic sweep (2026-11-15)
 

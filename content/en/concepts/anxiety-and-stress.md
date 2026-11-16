@@ -1,7 +1,7 @@
 ---
 title: Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-11-16T05:33:47-05:00"
+updated: "2026-11-16T09:58:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -89,6 +89,8 @@ Competence is not a full buffer, though: among 551 Chinese first-year students, 
 This direction connects AI anxiety to [[motivation|motivation]], [[ai-literacy|AI literacy]], [[student-experience|student experience]], and [[self-regulated-learning|self-regulated learning]].
 
 An agent that resembles an examiner can carry an examination's pressure with it. Students who practiced speaking with Replika scored significantly higher than they did with peers, yet described the interaction as anxious and awkward and did not want to use it again — measured performance and experienced stress moving in opposite directions ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez & Belda-Medina (2026)]]).
+
+That pressure depends on who is watching. In a two-cohort pilot, five of seven students who interviewed an AI patient in front of classmates privately reported discomfort doing so, while the group's spoken debrief comments were largely positive ([[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]]). Public praise alongside private discomfort means a facilitator's read of the room can understate how exposed students felt.
 
 ## Career-related AI anxiety
 
@@ -189,3 +191,4 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Perceived AI assistant intelligence lowers academic anxiety through study-goal progress (medical students)
 
 - [[petricini-ai-literacy-communication-equity-2026]] — AI Literacy in a Basic Communication Course: Insights on Equity, Motivation, and Reducing Uncertainty
+- [[tischkau-ai-simulated-patient-formats-2026]] — Five of seven group participants privately reported discomfort interviewing an avatar patient in front of classmates

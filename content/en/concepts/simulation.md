@@ -2,7 +2,7 @@
 connected_resources: [openmaic, primer]
 title: Simulation
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T09:58:00-05:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
@@ -42,6 +42,8 @@ Simulation sits at the core of [[experiential-learning|experiential]] and [[acti
 - **Make counterfactual history a first-class feature.** SupplyNet's contextual multi-agent [[llm|LLM]] agents generate supply-chain dynamics emergent from learner decisions rather than scripted, and its branching timeline lets learners revisit earlier choices without penalty — 13 of 14 participants rated it highly for connecting decisions to performance against 3 for the baseline ([[supplynet-visual-exploratory-learning|Li et al. (2026)]]).
 - **Grounded dynamics, not a prompted persona.** [[adaptive-virtual-patient-psychotherapy-training|Chen et al. (2026)]] parameterized a virtual patient's disclosure dynamics from nearly 2,000 hours of real psychotherapy transcripts, then updated the level each turn; across 1,033 turns with 20 clinicians its disclosure rose with therapist empathy and exploration while a prompt-only baseline on the same LLM stayed flat.
 - **Role-play puts the learner in the part.** Where simulated agents supply the counterpart, role-play gives the learner that part instead. [[remind-robot-mediated-roleplay-antibullying-2026|Sanoubari and colleagues (2026)]] had 18 children aged 9-10 watch a bullying scene enacted by social robots, reason about each character's position, then rehearse defending by puppeteering a robotic avatar, and reported gains in perceived [[self-efficacy|self-efficacy]] for defending plus better-calibrated beliefs about whether confronting a bully actually stops it. Their framing, robot-mediated applied drama, keeps a human facilitator in the Forum Theatre role and confines automation to narrative control, which is a useful reminder that the demanding part of role-play is the reflection rather than the machinery. [[lock-integrating-ai-online-learning-higher-ed-2025|Lock, Arteaga and Johnson (2025)]] place role-play alongside simulation among the strategies that AI-supported [[online-teaching-and-learning|online learning]] draws on.
+
+Cost and delivery format are separable questions from fidelity. A two-cohort pilot ran one LLM patient case with 19 first-year medical students at roughly US\$2 per student per session, plus an hour of one faculty member's and one staff member's time for the facilitated group session ([[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]]). Facilitated group delivery and a solo laptop encounter produced no detectable difference across the nine items worded alike (r = 0.02 to 0.11) and identical composite medians, so what facilitation adds is not visible in learner ratings.
 
 - **Simulated learners:** models of student behavior let [[research-methods-aied|researchers]] and designers test [[intelligent-tutoring|tutoring systems]] and [[curriculum-design|curriculum]] before live deployment, grounding [[student-modeling|student modeling]] and [[knowledge-tracing|knowledge tracing]].
 - **Trust and fidelity:** the value of a simulation depends on how faithfully it models the real context — and on the learner's awareness of its limits, connecting to [[trust-calibration|trust calibration]].
@@ -120,3 +122,4 @@ The framework travels as a test rather than a catalog. Three questions decide an
 - [[theelen-classroom-simulations-four-layer-framework-2026]] — Four-layer framework separating the practice represented, the simulated situation, agency and adaptation, and orchestration
 - [[herrera-alcaino-simulation-curricular-coherence-2026]] — From technology adoption to curricular coherence: technology-enhanced simulation as a bridge in health professions education
 - [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — What a teacher cannot delegate to a conversational agent across the simulation cycle
+- [[tischkau-ai-simulated-patient-formats-2026]] — One LLM patient in facilitated group and solo laptop formats: about US\$2 per student per session, no detectable difference in learner ratings (Tischkau et al. 2026)

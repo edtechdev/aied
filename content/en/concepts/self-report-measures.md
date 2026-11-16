@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-11-16T05:34:25-05:00"
+updated: "2026-11-16T09:58:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -120,6 +120,8 @@ Four properties separate a survey that can support a claim from one that cannot.
 
 A recent faculty survey shows the failure in its extreme form. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] administered 300 items to 315 university faculty, reported α = 0.997 for the total scale, and ran no factor analysis, yet a Naive Bayes model classified 314 of 315 respondents correctly (accuracy 0.9968) into low, medium and high competence bands. An instrument whose items behave as near-duplicates can be predicted almost perfectly from a handful of demographic and institutional variables because it carries little independent information: the authors found affiliation the largest global contributor in their SHAP analysis, and the cut points defining the three bands were not retained.
 
+Pre-post wording can manufacture the change it reports. In a two-cohort pilot of an AI-simulated patient, [[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]] worded pre-encounter items as expectations and post-encounter items as experience, so the difference scores compared an expectation with a memory. Their provisional BSLS-P returned subscale alphas from −0.39 to 0.87 across administrations, and item sets that did not move together still carried a psychological-safety claim.
+
 ## Sampling, response, and non-response
 
 Because surveys are cheap to administer, the sampling problems are usually where the generalizability claim fails. The studies report them explicitly and instructively:
@@ -217,3 +219,4 @@ The constructive answers are consistent, and none of them requires abandoning su
 - [[onodipe-enhance-not-replace-ai-classroom-2026]] — Perceived learning and engagement rose on every survey measure while exam scores did not move
 - [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — A 300-item faculty scale with α = 0.997 predicted to 99.68% accuracy without any factor analysis
 - [[jarvie-jiving-llms-programming-self-efficacy-2026]] — Significant sign tests with an unchanged median on a validated scale
+- [[tischkau-ai-simulated-patient-formats-2026]] — A provisional pre-post scale that compares expectations with memories, with subscale alphas from −0.39 to 0.87 (Tischkau et al. 2026)

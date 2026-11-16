@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-16T05:36:00-05:00"
+updated: "2026-11-16T09:58:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 connected_resources: [vfwa]
@@ -69,6 +69,8 @@ A conceptual proposal raises a validity boundary that applies to every AI-mediat
 - **Generated items can fit without measuring.** [[baghaei-generative-operationalism-2026|Baghaei and Eryilmaz (2026)]] name *generative operationalism* — construct label in, items out, post-hoc fit read as warrant — and show how semantic redundancy and construct underrepresentation produce desirable psychometrics without the attribute driving responses.
 
 A success criterion can fail validity before any instrument is scored. [[williams-coding-curriculum-critique-2026|Williams and Prishtina (2026)]] review Ch'ng's (2023) five-phase account of AI in [[learning-design|instructional design]], which treated return on investment as the measure of successful integration, and argue that a cost figure cannot evidence that the learning experience improved. Their objection concerns what the study could conclude rather than what it found: resource availability varies enough across institutions to bound the transfer, and each ADDIE phase leaves a condition of use — tool access, educator training, curriculum fit, connectivity, evaluation of higher-order outcomes — unaddressed.
+
+Threshold compliance and item quality can move in opposite directions. In a paired dental comparison, 94% of platform-drafted single-best-answer items cleared discrimination of 0.20 or above against 81% of manual items, yet mean point-biserial discrimination was lower (0.24 versus 0.26) and mean difficulty shifted down (0.40 versus 0.46) ([[islam-human-vs-ai-sba-dental-2026|Islam et al. (2026)]]). Those statistics were computed descriptively from low-stakes formative forms with no test-level reliability, so clearing a cutoff describes this item pool rather than establishing interchangeable examinations.
 
 ### Redesign over detection
 
@@ -234,3 +236,4 @@ Winstone, Gravett and Elkington frame the GenAI assessment problem as wicked in 
 - [[black-box-assessment-winstone-2026]] — Black Box Assessment: process windows, error as evidence, and integrity through visibility (Winstone, Gravett & Elkington 2026)
 
 - [[williams-coding-curriculum-critique-2026]] — Coding the Curriculum: A Critique of \"How AI Makes Its Mark on Instructional Design\"
+- [[islam-human-vs-ai-sba-dental-2026]] — Threshold compliance rose while mean discrimination fell, computed descriptively with no test-level reliability

@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy, vibe-coding-center, agentic-builds]
 title: Vibe Coding
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T09:06:00-05:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -45,6 +45,8 @@ A preregistered cross-sectional study (N = 100 tertiary students) provides the f
 ## Vibe coding as end-user development and teacher tooling
 
 A major promise of vibe coding is that it lets non-programmers — including [[teacher-role|teachers]] and domain experts — build their own software, an LLM-era form of end-user development. A [[gaide-vibe-coding-k12-teachers|GAIDE framework study]] showed [[k-12]] teachers (non-programmers) using vibe coding in an eight-week workshop to create AI-powered learning tools, raising their [[ai-literacy|AI literacy]] and demonstrating "learning-by-creating" as a professional-development model. In [[higher-ed|higher education]], an instructor rapidly built a [[vibe-coding-programming-process-visualizer|programming-process visualizer from IDE activity logs]] via vibe coding in a matter of days, making students' programming processes visible for teaching and [[academic-integrity|academic integrity]] review. These cases position vibe coding not merely as a learner skill but as an authoring capability that [[educational-development|reshapes who can create educational technology]].
+
+**Authoring is an assessment move, not only an access story.** [[ho-invariant-core-faculty-development-2027|Ho (2026)]] draws the consequence: if artifacts no longer evidence the thinking they were meant to elicit, assessment must capture process, and process evidence needs extended observation that limited staffing cannot supply. A teacher-built tool can carry the pedagogical decisions, scaffolding and encouragement a purchased product will not, which returns design judgment to the instructor who is judging the learning.
 
 ## Design homogenization: access without diversity
 
@@ -117,3 +119,4 @@ A faculty-level case study supplies the organizational layer. [[zimmer-ai-intrap
 - [[flowcode-ai-creative-coding]] — Flowcode: An AI-Powered Programming Environment for Scaffolding Iteration in Creative Computing Education
 - [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — AI intrapreneurship: faculty building their own tools, and the organizational enablers that decide whether the impulse survives (Zimmer 2026)
 - [[vibe-coding-design-diversity-2026]] — One Tool, One Taste? How Vibe Coding Trades Collective Diversity for Individual Creativity
+- [[ho-invariant-core-faculty-development-2027]] — Teacher-built tools as an assessment strategy: process evidence that staffing cannot supply (Ho 2026)

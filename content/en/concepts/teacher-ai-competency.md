@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T08:24:32-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -67,6 +67,8 @@ A stronger version of that reframing holds that GenAI is a threshold concept rat
 **Two dimensions are commitments, not scores.** [[feng-ai-literacy-psychological-dimensions-2026|Feng and Carolus (2026)]] synthesize 58 school-education studies and place *contextual knowledge* and *continuous professional growth* among the six dimensions of teacher AI literacy, beside TPACK-based knowledge and skills, ethics, the psychological dimension and a generative-AI-specific one. Thirteen of the reviewed articles build their teacher conceptualisation on [[tpack|TPACK]]. Reading growth as a dimension rather than an outcome changes what a competency framework has to measure: a teacher's trajectory and school constraints become part of the competence, not conditions around it.
 
 **Competence-building does not answer the depletion path.** In the same survey of 436 university design teachers, [[ding-genai-colleague-teacher-depletion-2026|Ding et al. (2026)]] found generative AI use raised both teaching [[self-efficacy|self-efficacy]] (β = 0.322) and AI anxiety (β = 0.268) at once, and the anxiety predicted less innovative teaching and more work withdrawal (β = −0.152 and β = 0.264). A professional-development program that only builds skill leaves the second path untouched — the moderators were organizational support and psychological contract breach, not competence.
+
+Frameworks specify what a teacher should know and stay silent about the conditions under which that knowledge is exercised. [[ji-judgement-space-dialogic-inquiry-2027|Ji and Mercer (2026)]] read UNESCO's teacher framework, the OECD teaching compass, DigCompEdu and the BEME review as one genre of list, and note that the OECD's insistence that AI must not replace human judgment arrives without an account of what would make the claim true. Competency models that add another dimension therefore miss the gap the paper names.
 
 ## The competency gap
 
@@ -142,6 +144,8 @@ Training without timetable time does not reach students. iRAISE's 2026 four-coun
 A psychometric study developed the Teachers' AI Literacy Scale (TAILS) to measure AI literacy within [[teacher-education|language teacher education]], operationalizing the ED-AI framework's six dimensions. The instrument addresses a gap in assessments written for students or general users rather than for teachers.
 
 The instrument landscape itself has since been reviewed. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat's 2026 systematic review of teacher AI literacy measurement tools]] compares what the available scales actually measure and where they diverge, which is the first thing to read before adopting one.
+
+Measurement assumes the individual is the right unit, and role distribution weakens that assumption. [[chen-future-faculty-development-ai-2027|Chen et al. (2026)]] distribute five of their seven teacher roles across a teaching team while keeping baseline technical and ethical competence universal, so an individual score describes one contributor's share rather than the capability the course actually runs on. A program that measures only individuals will read a well-staffed team as a set of partial teachers.
 
 ## Teacher AI competency and the transforming teacher role
 
@@ -254,3 +258,5 @@ Department chairs can evaluate competence by demonstration. Self-report scales a
 - [[white-scandinavian-teachers-genai-attitudes-2026]] — Scandinavian teachers' attitudes toward generative artificial intelligence: Exploration of associations
 - [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — Faculty self-rated competence band predicted largely from institutional affiliation rather than individual attributes
 - [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — Adoption judged discipline by discipline, with students' reasoning the main worry
+- [[chen-future-faculty-development-ai-2027]] — Competence distributed across a teaching team, with baseline technical and ethical capability held universally
+- [[ji-judgement-space-dialogic-inquiry-2027]] — Frameworks list competencies and leave the conditions of judgment untheorized

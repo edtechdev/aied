@@ -1,7 +1,7 @@
 ---
 title: Limitations in AIEd Research
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T09:58:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -56,6 +56,8 @@ The [[research-methods-aied|research methods]] literature details the strengths 
 - **Model-generated labels are not ground truth.** Where the labels that train or evaluate a system are themselves produced by language models, agreement between annotators cannot establish validity: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] never validated their assertion annotations against human gold labels, and the 49 encoder classifiers they release inherit that provenance and may not be valid where applications differ in significant dimensions. Their schema also strictly underperformed the fine-tuned classifier trained on expert-annotated data (macro-F1 0.673 against 0.76), leaving expert-labeled datasets worthwhile when high confidence is required.
 - **The evidence base itself is unevenly distributed.** A scoping review of 407 technology-supported [[formative-assessment|formative assessment]] studies drew only on Web of Science and Scopus. It also excluded 61 records on language criteria, so the geographic imbalance the field reports may partly reflect which venues are indexed ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
 - **The three-condition design is missing.** Across twelve reviewed GenAI studies, none measured assisted performance alongside both an immediate and a delayed no-AI test with verified exclusion, so assisted gains are never tied to retention ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
+
+**Feasibility is an outcome class, not a preface.** A two-cohort pilot of an AI-simulated patient recruited 19 of 72 invited students (26%), completed every encounter and survey (100%), and ended no session on a technical failure — real results, but the feasibility and acceptability outcomes were defined after collection and no progression criteria were prespecified ([[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]]). A completion rate is informative only against criteria fixed in advance; otherwise "it ran" and "it worked" are the same sentence.
 
 ## The speed problem: AI evolves faster than findings
 
@@ -165,3 +167,4 @@ A practical consequence of these limits is that several widely used educational 
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Cross-national K-12 teacher survey: machine-translated items, single-item concern measures, no invariance testing
 - [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Systematic review of 103 GenAI higher-education studies: 56% conditional gains, grades masking process change (Hawi & Samaha 2026)
 - [[automated-essay-scoring-critical-thinking-physics-2026]] — Data augmentation can manufacture the headline metric
+- [[tischkau-ai-simulated-patient-formats-2026]] — Feasibility as its own outcome class: 26% recruitment, 100% completion, outcomes defined after collection

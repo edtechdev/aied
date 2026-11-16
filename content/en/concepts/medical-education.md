@@ -1,7 +1,7 @@
 ---
 title: Medical and Health Professions Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T09:58:00-05:00"
 type: concept
 foundations: [teacher-role]
 technology: [adaptive-learning, simulation]
@@ -73,6 +73,8 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - **What the curricula teach about data provenance.** [[giancotti-data-provenance-health-ai-curricula-2026|Giancotti et al. (2026)]] coded the publicly advertised curricula of 36 U.S. health AI programs and found ethics covered in 29 (80.6%) but data provenance at a structural or dataset-limitation level in only 8 (22.2%), with no program addressing the environmental cost of computation and none of the seven master's degrees meeting the provenance threshold. Of 92 named instructors, 76.1% came from computational disciplines and 3.3% from the social sciences or humanities. The gap is clinically consequential: the deployment failures the paper opens with were introduced upstream, in how training data were generated or labeled, which is a teachable competency the curriculum appears not to carry.
 - **Use has outrun instruction.** Among 310 health science students, 90% had used ChatGPT while 82.6% had received no formal AI instruction; usage frequency tracked higher GPA, and 61% reported [[ethics|ethical]] concerns ([[alshahrani-health-sciences-ai-use-2026|Alshahrani et al., 2026]]).
 
+The sub-Saharan African evidence makes that gap concrete under material constraint. Surveying 417 undergraduates across six allied-health programs at one Ghanaian public university, [[ago-prompt-literacy-allied-health-2026|Ago et al. (2026)]] found 76.3% (n = 318) had received no prior teaching in responsible AI use, and students named paid subscriptions and internet connectivity among the constraints on their use. What they asked for was curriculum rather than prohibition: AI literacy and capacity building drew 185 codes, over three-quarters of suggested support strategies.
+
 ## Implications for health-professions educators
 
 - **Use AI to operationalize learning principles, not replace the educator.** [[fowlin-operationalizing-learning-principles-ai|Fowlin et al.]] argue AI should operationalize experiential, situated, and distributed-cognition learning while the teacher remains central to engagement and outcomes.
@@ -138,3 +140,4 @@ HPE is a high-stakes, competency-based domain where AI's benefits (scalable prac
 - [[rony-nursing-educators-ai-tpack-2025]] — Nursing educators in Bangladesh on AI readiness, barriers, and data governance, read through TPACK
 - [[bursic-ai-residency-education-curriculum-2026]] — Barriers to integrating AI into residency curricula: qualitative interviews with twelve physician leaders
 - [[alshahrani-health-sciences-ai-use-2026]] — Bridging technology and pedagogy: a cross-sectional analysis of AI use, self-reported academic effects, and ethical concerns among students across diverse health science curricula
+- [[ago-prompt-literacy-allied-health-2026]] — Prompt literacy across six Ghanaian allied-health programs: routine GenAI use without training, subscription and connectivity constraints, and a prompt-verification paradox where prior knowledge is thinnest (Ago et al. 2026)

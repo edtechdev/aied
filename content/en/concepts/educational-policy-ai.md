@@ -1,7 +1,7 @@
 ---
 title: Educational AI Policy
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T09:06:00-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -58,6 +58,8 @@ Where consensus has formed to fill that gap, [[crompton-governing-genai-higher-e
 **Advisory documents outnumber binding policy.** A census of every accredited program in one professional field shows that the maturity gap is one of form as well as timing. [[institutional-ai-policy-health-informatics-2026|Eldredge et al. (2026)]] collected AI policy and guidance documents from all 48 CAHIIM-accredited health informatics and health information management master's programs in the United States and found that 40 (83%) had at least one publicly available AI-related document while 8 had none, but that the documents were mostly guidance rather than enforceable rules: 21 guidelines (53%) against 7 formal policies (18%). Their content centered on academic integrity and acceptable use, with privacy, intellectual property, and regulatory concepts (HIPAA, FERPA, research compliance) appearing far less often, and topic modeling returned the same student-conduct emphasis. Neither document type nor intended audience varied by delivery mode (Fisher's exact P = .85 and P = .71). The authors read this as evidence that academic program policy is a distinct activity from curriculum design and workforce competency development, and argue that accrediting bodies could reduce the resulting variation by providing AI policy frameworks that integrate academic integrity, data ethics, and equitable access.
 
 **Legal form is rarer than legal language.** In a 160-document scoping review, 2.5% of instruments carried legal force while 57.5% were guidance or toolkits, and only 3 of the 131 documents invoking legal controls were themselves legal instruments ([[generative-ai-governance-education-scoping-review-2026|Elmahjub et al. (2026)]]).
+
+**Legal force raises coverage, not the collegial core.** [[jiang-faculty-development-japan-2027|Jiang, Wang and Taguchi (2026)]] trace Japan's 2007 and 2008 statutory mandate for faculty development in graduate and undergraduate courses. Dedicated centers reached 87.5% of universities by 2016, and full participation climbed from 12.9% of universities in 2015 to 32.7% in 2023, while active-learning workshops fell from 42% to 33% and peer observation from 57% to 53%. Because the statute bound institutions rather than individuals, compliance could be shown through countable participation without building the collegial formats that carry developmental substance.
 
 A UK systematic review adds a sectoral layer to the same gap: infrastructure investment and staff AI training concentrate in research-intensive (Russell Group) universities while teaching-led (post-92) institutions face capacity constraints, and only a minority of UK institutions maintain official AI governance plans ([[ai-uk-higher-education-policy-2026|Ashiq (2026)]]).
 
@@ -205,3 +207,4 @@ Policymakers can pair rollout with evaluation designed in advance. The El Salvad
 - [[williamson-experimental-futuring-ai-prototyping-governance-2026]] — England's EdTech Impact Testbed as anticipatory governance: pilots that produce promissory evidence (Williamson et al
 - [[pandey-davies-he-governance-administrative-ai-2026]] — Procurement sets the data environment before pedagogy
 - [[chan-ai-policy-gap-2026]] — 56 documents from 46 funders: a research-funder policy layer with 12 funding-specific instruments (Chan 2026)
+- [[jiang-faculty-development-japan-2027]] — Japan's statutory faculty-development mandate: coverage rose while workshops, peer observation and peer review stayed flat or fell (Jiang, Wang & Taguchi 2026)

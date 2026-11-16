@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-11-16T05:34:55-05:00"
+updated: "2026-11-16T09:06:00-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -83,6 +83,9 @@ Agentic AI moves the governing question again: [[wong-sun-agentic-ai-assessment-
 ### Governance across levels
 
 AI governance operates at multiple levels — from **national/regulatory** (government policy, the OECD framework, state AI guidelines) to **institutional** (university policies, AI steering groups, ethical review boards) to **classroom** (instructor guidelines, syllabus statements, assignment design). Effective governance aligns these levels: national frameworks set expectations, institutions translate them into policies and support structures, and educators implement them in ways that build students' AI literacy and agency. The research emphasizes that governance is not merely about restriction but about creating the conditions for responsible, equitable, and learning-supportive AI integration — including [[educational-development|faculty development]], transparent guidance, and ongoing evaluation.
+
+**A level above the institution.** Cross-border faculty development adds a level the national–institutional–classroom stack does not name. [[tian-transnational-faculty-development-governance-2027|Tian, Sun and Wang (2026)]] describe shared governance among partner institutions, where a coordinating hub supplies continuity, common structure and an archive while partners keep authority over substance and adapt the work locally. They judge such a network by reciprocal influence, reuse and local adaptation rather than attendance, since recurring meetings or a convening institution do not by themselves demonstrate shared decision-making.
+
 **Identical conduct, different verdicts.** [[genai-governance-australian-higher-ed-2026|Poudyal (2026)]] applied 15 standardized student-use vignettes to the public policy environments of 20 Australian universities, producing 300 classifications: 40.0% clearly prohibited, 32.3% potential policy breaches, 9.0% permitted with conditions, and 18.7% indeterminate — none meeting the threshold for clearly permitted. Binding instruments were silent on generative AI in 100 combinations while guidance resolved 88, and disclosed language rewriting and an AI-drafted paragraph produced the highest cross-university divergence against unanimity for an explicit assessment prohibition. Where the levels described above are assumed to align, this study measures how far they diverge, and it locates the operational boundary in guidance rather than in binding policy.
 
 
@@ -190,5 +193,6 @@ One 2026 argument extends governance past learner use to the production of teach
 - [[pandey-davies-he-governance-administrative-ai-2026]] — Administrative AI as a service-operations question
 - [[chan-ai-policy-gap-2026]] — Governance language sits in general policies and never in the funding rules that bind applicants (Chan 2026)
 - [[kaziya-learner-data-privacy-governance-2026]] — Competence and governance treated as complements, not substitutes, in learner data protection
+- [[tian-transnational-faculty-development-governance-2027]] — Shared governance across institutions: coordination and common structure without centralizing authority over substance (Tian, Sun & Wang 2026)
 
 - [[rodafinos-llm-curriculum-audit-2026]] — Large Language Model–assisted curriculum audit in psychology: A prompt-based method
