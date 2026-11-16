@@ -18,7 +18,10 @@ import { strings } from '../../i18n';
 import { DEFAULT_LOCALE, LOCALE_CODES, localeDir, localeHref } from '../../i18n/config';
 import { searchFilterBar } from '../../i18n/searchLabels';
 
-const { locale } = Astro.props;
+// `headScript` is the untranslated-page fallback (src/lib/routeFallback.ts),
+// injected into <head> so the hop to the English page happens before the
+// not-found copy paints. A page that has no English counterpart keeps this page.
+const { locale, headScript = '' } = Astro.props;
 const s = strings(locale).notFound;
 
 // The default locale's home page, which is what the copy modules author their
@@ -55,7 +58,7 @@ const localeCopyJson = JSON.stringify({ base: defaultHome, locales: localeCopy }
 );
 ---
 
-<BaseLayout title={s.title} locale={locale} hideHeaderSearch>
+<BaseLayout title={s.title} locale={locale} hideHeaderSearch headScript={headScript}>
   <div data-pagefind-ignore>
     <h1 data-nf="h1">{s.h1}</h1>
     <p style="line-height:1.7" data-nf="message" set:html={s.messageHtml} />

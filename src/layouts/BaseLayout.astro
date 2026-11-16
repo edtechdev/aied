@@ -36,6 +36,10 @@ const {
   // locale prefix, so translated pages do not have to pass it.
   locale = siteConfig.i18n.defaultLocale,
   route,
+  // Inline JS for <head>, before anything else renders. Only the 404 document
+  // uses it: the untranslated-page fallback has to decide before the not-found
+  // copy paints (src/lib/routeFallback.ts).
+  headScript = '',
 } = Astro.props;
 
 // Site-relative route of this page, e.g. '/' , '/ai' , '/search'.
@@ -367,6 +371,7 @@ const recentConceptItems = recentConcepts.map(c => {
     })();
   </script>
   <meta name="description" content={description} />
+  {headScript && <script is:inline set:html={headScript} />}
   <!-- Favicon -->
   <link rel="icon" type="image/svg+xml" href="/aied/logo.svg" />
   <link rel="apple-touch-icon" href="/aied/pwa-192x192.png" />

@@ -13,7 +13,7 @@ import { getCollection } from 'astro:content';
 import { strings } from '../i18n';
 import { searchChrome, searchFilterBar, type SearchChrome } from '../i18n/searchLabels';
 import { FACET_DISPLAY_ORDER } from '../data/facetVocab';
-import { taxonomyHeading } from '../i18n/config';
+import { taxonomyHeading, localizeHref } from '../i18n/config';
 
 const { locale = 'en' } = Astro.props;
 const s = strings(locale).search;
@@ -38,12 +38,13 @@ const facetLabel = (facet: string): string => {
   return taxonomyHeading(raw === 'page_kind' ? 'page_kind' : raw, locale);
 };
 
-// Localized index links for the no-JS fallback and the empty state.
-const l = locale === 'en' ? '' : `/${locale}`;
+// Localized index links for the no-JS fallback and the empty state. The FAQ
+// collection has no listing page of its own — its index is the hand-written
+// /faq/ page — so linking `/faqs/` here produced a 404 in every locale.
 const indexHrefs = {
-  concepts: `/aied${l}/concepts/`,
-  faqs: `/aied${l}/faqs/`,
-  resources: `/aied${l}/resources/`,
+  concepts: localizeHref('/aied/concepts/', locale),
+  faqs: localizeHref('/aied/faq/', locale),
+  resources: localizeHref('/aied/resources/', locale),
 };
 
 const config: SearchChrome & {

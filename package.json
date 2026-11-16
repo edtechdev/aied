@@ -8,8 +8,8 @@
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
-    "build": "astro check && astro build && node generate-sw.mjs",
-    "build:ci": "astro build && node generate-sw.mjs",
+    "build": "astro check && astro build && node tooling/scripts/pagefind-index.mjs && node generate-sw.mjs",
+    "build:ci": "astro build && node tooling/scripts/pagefind-index.mjs && node generate-sw.mjs",
     "size:report": "python3 tooling/scripts/report-build-size.py --dist dist --config tooling/build-size-budget.json --out reports/build-size --mode report",
     "size:check": "python3 tooling/scripts/report-build-size.py --dist dist --config tooling/build-size-budget.json --out reports/build-size --mode enforce",
     "test:size": "python3 -m unittest discover -s tooling/tests -p 'test_report_build_size.py'",

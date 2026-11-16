@@ -3,8 +3,59 @@
 // unknown path under the site root — including a locale-prefixed path with no
 // page behind it, which is why the copy is the default locale's and there is no
 // per-locale 404 route: a static host has exactly one error document.
+//
+// It is also the site's only redirect mechanism for a partial translation. The
+// corpus is fully English and only partly translated, so a shared
+// `/aied/el/concepts/<slug>/` link may name a page that exists only in English.
+// Rather than generating a redirect stub for every untranslated page in every
+// locale (~77,000 files, and a build/deploy that cannot fit the Pages window),
+// this one document carries the hashes of the English routes and sends the
+// reader there before the not-found copy paints. See src/lib/routeFallback.ts.
+import { getCollection } from 'astro:content';
 import NotFoundPage from '../components/pages/NotFoundPage.astro';
-import { DEFAULT_LOCALE } from '../i18n/config';
+import { DEFAULT_LOCALE, LOCALE_CODES } from '../i18n/config';
+import { CONCEPT_REDIRECTS } from '../data/conceptRedirects';
+import { ARTICLE_REDIRECTS } from '../data/articleRedirects';
+import { fallbackRedirectScript, fnv1a } from '../lib/routeFallback';
+import siteConfig from '../config/siteConfig';
+
+// Every route the default locale publishes. Derived from the collections rather
+// than hand-listed, so a new concept, article, FAQ, resource or issue is covered
+// on the next build.
+const [concepts, articles, faqs, resources, newsletters] = await Promise.all([
+  getCollection('concepts'),
+  getCollection('articles'),
+  getCollection('faqs'),
+  getCollection('resources'),
+  getCollection('newsletters'),
+]);
+const slugOf = (entry: { id: string }) => entry.id.replace(/\.md$/, '');
+const englishRoutes = [
+  '/',
+  '/ai',
+  '/search',
+  '/resources',
+  '/journal',
+  '/faq',
+  '/concepts',
+  '/news',
+  '/offline',
+  ...concepts.map((e) => `/concepts/${slugOf(e)}`),
+  ...articles.map((e) => `/articles/${slugOf(e)}`),
+  ...faqs.map((e) => `/faqs/${slugOf(e)}`),
+  ...resources.map((e) => `/resources/${slugOf(e)}`),
+  ...newsletters.filter((e) => e.data.status !== 'draft').map((e) => `/news/${slugOf(e)}`),
+  // Retired slugs still resolve in English through a 301, so a locale link to one
+  // of them should reach that 301 rather than dead-end on this page.
+  ...Object.keys(CONCEPT_REDIRECTS).map((slug) => `/concepts/${slug}`),
+  ...Object.keys(ARTICLE_REDIRECTS).map((slug) => `/articles/${slug}`),
+];
+const hashes = englishRoutes.map(fnv1a).sort((a, b) => a - b).map((h) => h.toString(36));
+const headScript = fallbackRedirectScript({
+  hashes,
+  basePath: siteConfig.basePath,
+  locales: LOCALE_CODES.filter((code) => code !== DEFAULT_LOCALE),
+});
 ---
 
-<NotFoundPage locale={DEFAULT_LOCALE} />
+<NotFoundPage locale={DEFAULT_LOCALE} headScript={headScript} />

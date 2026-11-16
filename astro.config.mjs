@@ -74,7 +74,19 @@ export default defineConfig({
       '/aied/articles/wang-multi-agent-systems-learning-designers-2025',
   },
   integrations: [
-    pagefind(),
+    // Pagefind indexes in a separate process after the build
+    // (tooling/scripts/pagefind-index.mjs, wired into the npm scripts). Running
+    // it in the `astro:build:done` hook shares one heap with the render, and at
+    // ~13.4k pages the render peak (~7.5 GB) plus the indexer peak (~5 GB) is
+    // what gets the build OOM-killed after "Pagefind indexed N pages", before
+    // the index and sw.js are written. During `astro dev` the integration only
+    // serves the existing index, so it stays registered there.
+    //
+    // Gated on the CLI subcommand rather than the `defineConfig(({ command }))`
+    // function form: the function form makes Astro resolve the Vite config in a
+    // way that drops VitePWA's `virtual:pwa-register` module and fails the
+    // build in under a second.
+    ...(process.argv.slice(2).includes('build') ? [] : [pagefind()]),
     sitemap({
       // The service-worker fallback is not content; keep it out of the sitemap.
       filter: (page) => !page.endsWith('/offline/'),
