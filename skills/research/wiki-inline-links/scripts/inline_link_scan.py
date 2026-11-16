@@ -17,6 +17,7 @@ Usage:
     python3 inline_link_scan.py <wiki_path> [slug1 slug2 ...]   # specific pages
     python3 inline_link_scan.py <wiki_path> --all               # every article+concept
     python3 inline_link_scan.py <wiki_path> --all --apply       # auto-insert links
+    python3 inline_link_scan.py <wiki_path> --all -j 8          # 8 worker processes (default: all cores)
     python3 inline_link_scan.py <wiki_path> slug1 slug2 --apply
 
 Rules honoured (both modes):
@@ -34,6 +35,7 @@ Why --apply exists:
   occurrence. Run it after EVERY new/enriched page, before build/deploy.
 """
 import os, re, sys, json
+import multiprocessing as mp
 
 def content_base(wiki):
     """Folder holding the default-locale collections inside `wiki`.
@@ -745,6 +747,48 @@ def apply_links(path, slug, concepts, dry_run=True):
     open(path, 'w', encoding='utf-8').write(fm + nar + tail)
     return len(edits), edits, txt
 
+_WIKI = None
+_CONCEPTS = None
+_DRY = True
+
+
+def _init_worker(wiki, concepts, dry):
+    global _WIKI, _CONCEPTS, _DRY, ALIASES
+    _WIKI, _CONCEPTS, _DRY = wiki, concepts, dry
+    # Re-load rather than rely on fork inheritance, so the pool also works under a
+    # start method that does not copy the parent's globals.
+    ALIASES = load_registry_aliases(wiki)
+
+
+def _scan_page(task):
+    slug, d = task
+    path = os.path.join(content_base(_WIKI), d, f'{slug}.md')
+    del REJECTED_HITS[:]
+    try:
+        n, edits, _ = apply_links(path, slug, _CONCEPTS, dry_run=_DRY)
+    except Exception as e:
+        return slug, d, 0, [], [], str(e)
+    return slug, d, n, edits, sorted(set(REJECTED_HITS)), None
+
+
+def _report(slug, n, edits, rejected, error, apply_mode, total):
+    if error:
+        print(f"ERROR {slug}: {error}")
+        return
+    if apply_mode:
+        if n:
+            print(f"  {slug}: applied {n} link(s)")
+            total[0] += n
+        return
+    if edits:
+        print(f"\n=== {slug} ===")
+        for pos, length, new, disp, tgt in edits:
+            print(f"  -> [[{tgt}]]  from: {disp}")
+    if rejected:
+        print(f"  (suppressed by REJECT_PAIRS: " +
+              ', '.join(f"'{t}'->{g}" for t, g in rejected) + ")")
+
+
 def main():
     if len(sys.argv) < 3:
         print(__doc__); sys.exit(1)
@@ -755,6 +799,23 @@ def main():
     args = sys.argv[2:]
     apply_mode = '--apply' in args
     args = [a for a in args if a != '--apply']
+    jobs_wanted = None
+    positional = []
+    i = 0
+    while i < len(args):
+        a = args[i]
+        if a in ('-j', '--jobs'):
+            jobs_wanted = int(args[i + 1])
+            i += 2
+            continue
+        m = re.fullmatch(r'-j(\d+)', a)
+        if m:
+            jobs_wanted = int(m.group(1))
+            i += 1
+            continue
+        positional.append(a)
+        i += 1
+    args = positional
     pages = []
     if args and args[0] == '--all':
         base = content_base(wiki)
@@ -774,29 +835,25 @@ def main():
                     break
             else:
                 print(f"(skip {s}: not found)")
-    total_applied = 0
-    for slug, d in pages:
-        path = os.path.join(content_base(wiki), d, f'{slug}.md')
-        del REJECTED_HITS[:]
-        try:
-            n, edits, _ = apply_links(path, slug, concepts, dry_run=not apply_mode)
-        except Exception as e:
-            print(f"ERROR {slug}: {e}"); continue
-        if apply_mode:
-            if n:
-                print(f"  {slug}: applied {n} link(s)")
-                total_applied += n
-        else:
-            if edits:
-                print(f"\n=== {slug} ===")
-                seen = {}
-                for pos, length, new, disp, tgt in edits:
-                    print(f"  -> [[{tgt}]]  from: {disp}")
-            if REJECTED_HITS:
-                print(f"  (suppressed by REJECT_PAIRS: " +
-                      ', '.join(f"'{t}'->{g}" for t, g in sorted(set(REJECTED_HITS))) + ")")
+    # The scan is one page per 0.6 s of pure CPU, so the corpus splits cleanly across
+    # processes. Small page sets stay serial: pool start-up costs more than the work.
+    workers = jobs_wanted or (min(16, os.cpu_count() or 1) if len(pages) >= 32 else 1)
+    workers = max(1, min(workers, len(pages) or 1))
+    total_applied = [0]
+    if workers > 1:
+        ctx = mp.get_context('fork') if 'fork' in mp.get_all_start_methods() else mp.get_context()
+        with ctx.Pool(workers, initializer=_init_worker,
+                      initargs=(wiki, concepts, not apply_mode)) as pool:
+            chunk = max(1, len(pages) // (workers * 8))
+            for slug, d, n, edits, rejected, err in pool.imap(_scan_page, pages, chunksize=chunk):
+                _report(slug, n, edits, rejected, err, apply_mode, total_applied)
+    else:
+        _init_worker(wiki, concepts, not apply_mode)
+        for task in pages:
+            slug, d, n, edits, rejected, err = _scan_page(task)
+            _report(slug, n, edits, rejected, err, apply_mode, total_applied)
     if apply_mode:
-        print(f"\nTotal links applied across {len(pages)} page(s): {total_applied}")
+        print(f"\nTotal links applied across {len(pages)} page(s): {total_applied[0]}")
 
 if __name__ == '__main__':
     main()

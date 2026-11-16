@@ -4,15 +4,30 @@
 One command answers "did I break the wiki?" without an agent having to remember
 three script paths:
 
-    python3 tooling/scripts/run-gates.py --changed  # ONLY pages touched vs HEAD (default for local work)
-    python3 tooling/scripts/run-gates.py            # run every gate (full-site; explicit opt-in only)
-    python3 tooling/scripts/run-gates.py --list      # show them
-    python3 tooling/scripts/run-gates.py --only 1    # run just gate 1 (1-based)
+    python3 tooling/scripts/run-gates.py --changed  # pages scoped, corpus gates still full
+    python3 tooling/scripts/run-gates.py            # every blocking gate (full-site)
+    python3 tooling/scripts/run-gates.py --links    # add the advisory inline-link report
+    python3 tooling/scripts/run-gates.py --cold     # ignore the result cache
+    python3 tooling/scripts/run-gates.py --list     # show the gates and their scope
+    python3 tooling/scripts/run-gates.py --only 1   # run just gate 1 (1-based)
 
-`--changed` exists because re-auditing unchanged pages is wasted work: the result
-for a file that has not changed is the same as the last time the gate ran. It
-scopes every gate that can be scoped to the pages touched since HEAD and names the
-gates it had to skip, instead of silently scanning all ~1,800 pages.
+Three tiers, because the cost is not spread evenly. Measured on the current corpus,
+29 of the 30 gates take 138 s together while `inline_link_scan.py . --all` takes
+26 minutes and cannot fail: it prints link suggestions for a human to curate. That
+scan is ADVISORY. It is skipped unless `--links` is passed, and it never decides the
+exit code.
+
+`--changed` scopes the page gates to the pages touched since HEAD but still runs the
+corpus-level gates in full. Those cost about 30 s and validate every page's
+frontmatter, the concept registry and the exported artifacts. Skipping them made a
+scoped green say nothing about a new page's facets, which is the defect class they
+exist to catch. They cannot be narrowed further: their subject is the corpus, not
+the diff.
+
+Successful results are cached in `.astro/gates-cache.json`, keyed by a fingerprint of
+every gate input (content, tooling, skills, src, public artifacts, config, interpreter
+and the command itself). A repeat run over an unchanged tree costs seconds; `--cold`
+forces the full work. The cache never records a failure.
 
 The house-style gate is scoped by file rather than by page slug: a British spelling in
 AGENTS.md or README.md is the same defect as one in an article, and scoping it to page
@@ -20,17 +35,17 @@ slugs alone would let those through. tooling/ and skills/ are deliberately outsi
 scoped pass, because several files there document this rule and their examples would be
 reported as defects; the explicit --include-docs pass is what covers them.
 
-A full-site run is a deliberate act (the user rule is explicit opt-in), because the
-inline-link gate walks the whole corpus and dominates the wall time.
-
-Exit code is non-zero if any gate fails, so it can wire straight into CI or a
+Exit code is non-zero if any blocking gate fails, so it can wire straight into CI or a
 pre-commit hook. A green `npm run build` is NOT a substitute for these checks.
 """
+import hashlib
+import json
 import os
 import re
 import shlex
 import subprocess
 import sys
+import time
 
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 from wiki_config import load_config, path  # noqa: E402
@@ -46,12 +61,14 @@ from wiki_config import load_config, path  # noqa: E402
 #                changed_slugs() reports English pages only, so a wave of new locale files
 #                would otherwise find an empty page set and the gate would silently not run.
 SCOPABLE = {
-    'inline_link_scan.py': 'slugs',
     'check_list_formatting.py': 'slugs',
     'audit-article-sections.py': 'changed',
     'check-citation-attribution.py': 'changed',
     'check-ai-disclosure.py': 'changed',
     'check-evidence-context.py': 'changed',
+    'check-concept-first-mentions.py': 'changed',
+    'check-self-reference.py': 'changed',
+    'check-created-dates.py': 'changed',
     'verify-number-grounding.py': 'changed',
     'check-us-english.py': 'paths',
     'check-resource-wiring.py': 'slugs',
@@ -59,12 +76,14 @@ SCOPABLE = {
     'check-concept-integration.py': 'changed',
     'check-concept-prose.py': 'changed',
     'check-concept-updated-bump.py': 'changed',
+    # Only used when --links is passed: the scan is advisory, but when it does run on
+    # a diff it should still see only the touched pages.
+    'inline_link_scan.py': 'slugs',
     'check-translation-parity.py': 'translated',
 }
 
-# Registry- and corpus-level gates: they validate a fixed artifact (the concept
-# registry, exported artifacts, every page's frontmatter) rather than the pages you
-# edited, so there is nothing to narrow them to.
+# Corpus-level gates: their subject is every page or a fixed artifact, so there is
+# nothing to narrow them to. They always run, in both modes.
 GLOBAL = (
     'check_concepts.py', 'validate-facets.py', 'gen-concept-artifacts.py',
     'check-slugs.py', 'check-frontmatter-dates.py',
@@ -73,6 +92,15 @@ GLOBAL = (
     # rebuild states the wrong size on the page.
     'check-offline-manifest.py',
 )
+
+# Gates that report for a human and cannot fail. They are outside the blocking pass:
+# the inline-link scan is 26 of the suite's 28 minutes and always exits 0, so a green
+# "all gates passed" says nothing about it either way.
+ADVISORY = ('inline_link_scan.py',)
+
+CACHE_RELPATH = os.path.join('.astro', 'gates-cache.json')
+FINGERPRINT_DIRS = ('content', 'tooling', 'skills', 'src')
+FINGERPRINT_FILES = ('wiki.config.yaml', 'package.json', 'AGENTS.md')
 
 
 def changed_slugs(wiki):
@@ -168,98 +196,193 @@ def scope_of(gate):
     return None
 
 
+def is_advisory(gate):
+    return any(script in gate for script in ADVISORY)
+
+
+def _hash_file(p):
+    h = hashlib.sha256()
+    with open(p, 'rb') as fh:
+        for chunk in iter(lambda: fh.read(1 << 20), b''):
+            h.update(chunk)
+    return h
+
+
+def inputs_fingerprint(wiki):
+    """sha256 over every file a gate can read.
+
+    Content is hashed, not stat-ed: a checkout or rebase can change mtimes without
+    changing bytes, and a gate skipped on a false match is worse than a slow gate.
+    public/ holds large binaries the gates only read for name and size, so those are
+    identified by size and mtime instead of hashed.
+    """
+    h = hashlib.sha256()
+    h.update(f'py{sys.version_info.major}.{sys.version_info.minor}'.encode())
+    for d in FINGERPRINT_DIRS:
+        base = os.path.join(wiki, d)
+        if not os.path.isdir(base):
+            continue
+        for root, dirs, files in os.walk(base):
+            dirs[:] = sorted(x for x in dirs if x not in ('__pycache__', '.git', 'node_modules'))
+            for name in sorted(files):
+                p = os.path.join(root, name)
+                h.update(os.path.relpath(p, wiki).encode())
+                try:
+                    h.update(_hash_file(p).digest())
+                except OSError:
+                    h.update(b'<unreadable>')
+    base = os.path.join(wiki, 'public')
+    if os.path.isdir(base):
+        for root, dirs, files in os.walk(base):
+            dirs[:] = sorted(dirs)
+            for name in sorted(files):
+                p = os.path.join(root, name)
+                st = os.stat(p)
+                h.update(f'{os.path.relpath(p, wiki)}:{st.st_size}:{st.st_mtime_ns}'.encode())
+    for name in FINGERPRINT_FILES:
+        p = os.path.join(wiki, name)
+        if os.path.exists(p):
+            h.update(name.encode())
+            h.update(_hash_file(p).digest())
+    return h.hexdigest()
+
+
+def load_cache(wiki):
+    try:
+        with open(os.path.join(wiki, CACHE_RELPATH)) as fh:
+            data = json.load(fh)
+        return data if isinstance(data, dict) else {}
+    except (OSError, ValueError):
+        return {}
+
+
+def save_cache(wiki, cache):
+    p = os.path.join(wiki, CACHE_RELPATH)
+    os.makedirs(os.path.dirname(p), exist_ok=True)
+    tmp = p + '.tmp'
+    with open(tmp, 'w') as fh:
+        json.dump(cache, fh, indent=1, sort_keys=True)
+    os.replace(tmp, p)
+
+
 def main():
     cfg = load_config()
     gates = cfg.get('build', {}).get('gates') or []
     argv = sys.argv[1:]
     if '--list' in argv or not gates:
         for i, g in enumerate(gates, 1):
-            kind = scope_of(g) or 'global'
+            if is_advisory(g):
+                kind = 'advisory'
+            else:
+                kind = scope_of(g) or 'corpus'
             print(f"{i}. {g}   [{kind}]")
         return 0
     wiki = path(cfg, 'root')
     only = int(argv[argv.index('--only') + 1]) if '--only' in argv else None
     changed_mode = '--changed' in argv
+    run_links = '--links' in argv
+    cold = '--cold' in argv or '--no-cache' in argv
 
     slugs = changed_slugs(wiki) if changed_mode else []
     paths = changed_paths(wiki) if changed_mode else []
     translated = changed_translated(wiki) if changed_mode else []
-    skipped, skipped_nopage = [], []
     if changed_mode:
         if not slugs and not paths and not translated:
-            print("Nothing changed versus HEAD — no page-scoped gate has anything to check.")
-            print("(Use a bare run for the full-site pass.)")
-            return 0
+            print("Nothing changed versus HEAD — the page gates have nothing to check; "
+                  "running the corpus gates only.")
         if slugs:
             print(f"Changed page(s) vs HEAD: {len(slugs)}")
             for s in slugs:
                 print(f"  - {s}")
         if not slugs:
-            # Only notes, scripts or translations changed: the English page-scoped gates
-            # have nothing to check, but the house-style gate and the translation parity
-            # gate do.
             print("No changed English page slugs vs HEAD.")
         if translated:
             locales = sorted({t[0] for t in translated})
             print(f"Changed translated page(s) vs HEAD: {len(translated)} "
                   f"across {len(locales)} locale(s): {', '.join(locales)}")
 
+    fingerprint = inputs_fingerprint(wiki)
+    cache = {} if cold else load_cache(wiki)
     skipped_nopage = []
+    skipped_advisory = []
     failures = []
     ran = 0
+    cached = 0
     for i, gate in enumerate(gates, 1):
         if only and i != only:
             continue
+        if is_advisory(gate) and not run_links:
+            skipped_advisory.append((i, gate))
+            continue
         kind = scope_of(gate)
-        if changed_mode and kind is None:
-            skipped.append((i, gate))
-            continue
-        if changed_mode and kind == 'translated' and not translated:
-            skipped_nopage.append((i, gate))
-            continue
-        if changed_mode and kind in ('slugs', 'changed') and not slugs:
-            # never run a page-scoped gate with an empty page set: the inline-link and
-            # list-formatting commands strip their own --all, so an empty argument list
-            # would silently turn them into a full-corpus scan, which is the cost this
-            # mode exists to avoid.
-            skipped_nopage.append((i, gate))
-            continue
         cmd = gate
-        if changed_mode and kind in ('changed', 'translated'):
+        if changed_mode and kind == 'translated':
+            if not translated:
+                skipped_nopage.append((i, gate))
+                continue
+            cmd = gate if '--changed' in gate else f"{gate} --changed"
+        elif changed_mode and kind == 'changed':
+            if not slugs:
+                # never run a page-scoped gate with an empty page set: several of these
+                # commands fall back to the whole corpus when handed no pages, which is
+                # the cost this mode exists to avoid.
+                skipped_nopage.append((i, gate))
+                continue
             cmd = gate if '--changed' in gate else f"{gate} --changed"
         elif changed_mode and kind == 'slugs':
+            if not slugs:
+                skipped_nopage.append((i, gate))
+                continue
             # the configured command carries `--all`; drop it, or the script scans
             # the whole corpus and ignores the slugs we just computed
             cmd = re.sub(r'\s+--all\b', '', gate) + ' ' + ' '.join(slugs)
         elif changed_mode and kind == 'paths':
             if not paths:
-                skipped.append((i, gate))
+                skipped_nopage.append((i, gate))
                 continue
             cmd = re.sub(r'\s+--all\b', '', gate) + ' ' + ' '.join(shlex.quote(x) for x in paths)
+
+        fp = hashlib.sha256(f'{fingerprint}\x00{cmd}'.encode()).hexdigest()
+        entry = cache.get(cmd)
+        if entry and entry.get('fp') == fp:
+            print(f"\n=== gate {i}/{len(gates)} (cached: inputs unchanged since "
+                  f"{entry.get('at', '?')}): {cmd}")
+            cached += 1
+            continue
+
         ran += 1
         print(f"\n=== gate {i}/{len(gates)}: {cmd}")
         result = subprocess.run(cmd, shell=True, cwd=wiki)
         if result.returncode != 0:
             failures.append((i, gate, result.returncode))
+            cache.pop(cmd, None)
+        else:
+            cache[cmd] = {'fp': fp, 'at': time.strftime('%Y-%m-%dT%H:%M:%S')}
+    if not cold:
+        save_cache(wiki, cache)
     print()
+    if skipped_advisory:
+        print(f"Not run ({len(skipped_advisory)} advisory gate(s); they report for a human "
+              f"and cannot fail):")
+        for i, gate in skipped_advisory:
+            print(f"  gate {i}: {gate}")
+        print("  Pass --links to run them.")
+        print()
     if skipped_nopage:
-        print(f"Not run ({len(skipped_nopage)} page-scoped gate(s); no page changed, and running "
-              f"them with an empty page set would scan the whole corpus):")
+        print(f"Not run ({len(skipped_nopage)} page-scoped gate(s); no page of that kind "
+              f"changed, and running them with an empty page set would scan the whole "
+              f"corpus):")
         for i, gate in skipped_nopage:
             print(f"  gate {i}: {gate}")
-        print()
-    if skipped:
-        print(f"Not run ({len(skipped)} registry/corpus gate(s); they validate fixed artifacts, "
-              f"not the pages you edited):")
-        for i, gate in skipped:
-            print(f"  gate {i}: {gate}")
-        print("  Run a bare `python3 tooling/scripts/run-gates.py` for the full-site pass.")
         print()
     if failures:
         for i, gate, code in failures:
             print(f"FAIL (exit {code})  gate {i}: {gate}")
         return 1
-    print(f"OK — all {ran} scoped gate(s) passed.")
+    tally = f"{ran} gate(s) passed"
+    if cached:
+        tally += f", {cached} cached"
+    print(f"OK — all {tally}.")
     return 0
 
 
