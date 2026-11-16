@@ -1,7 +1,7 @@
 ---
 title: Metaphors and Analogies
 created: "2026-11-07T08:43:02-05:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:34:25-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, misconceptions]
 pedagogy: [student-engagement]
@@ -58,6 +58,8 @@ Several studies now offer windows into the metaphors people actually use. They d
 Students show a similar range. [[genai-professionalization-metaphors-2026|Bohmer and colleagues (2026)]] found students conceptualizing GenAI as a social actor, a technique, learning material, or a structure, with socio-emotional and technical frames both salient. [[ai-engineering-education-balancing-act|Kudina (2026)]] describes engineering students' dominant frames as the LLM "oracle" and "tutor," both of which attribute authority and [[personalized-learning|personalization]] beyond what the tool reliably supplies. [[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman and colleagues (2026)]] treat one student's "vending machine of feedback" as a more useful literacy artifact than the polished tutor vocabulary, because it makes the transaction visible: insert work, receive output, no relationship and no agency.
 
 The cross-cutting finding is that metaphor is diagnostic of expectation. A student who calls an LLM an oracle is not simply using a colorful word. The label predicts what the student will do when the model is wrong, and what the student will believe about verification. A faculty member who calls it a search engine is not simply being imprecise. The label predicts what they will ask students to do with it. That is why [[educational-development|educational development]] programs can use metaphor elicitation before policy or assessment redesign, and why [[engineering-education|engineering education]] and [[cs-education|CS education]] need [[discipline-specific-aied|discipline-specific]] conversations rather than one institution-wide definition.
+
+[[rodak-hire-ai-future-focused-literacy-2026|Rodak (2026)]] pushed the assistant metaphor into the syllabus: 72 undergraduates hired a named assistant, wrote its job description and scope of work. The framing changed the question students asked, from whether AI use was allowed to whether a task fell inside the job they had defined. Every student's scope list excluded undisclosed copy-paste and completed assignments, while 81% hired the assistant for practice questions and proofreading.
 
 A [[philosophy-of-ai-in-education|philosophical]] strand pushes metaphor in a different direction: [[daoism-ai-education-philosophy-2026|Xie (2026)]] proposes "Zhenren" as a counter-ideal to the algorithm-managed learner, treating the image as a way to argue about educational aims rather than to explain a technical process.
 
@@ -151,3 +153,4 @@ The risk of overclaiming is real in both directions. A teacher who treats a meta
 - [[code-anchor-multi-view-visualization]] — Metaphorical visualization scaffolds and their legitimacy problem
 - [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — A student's "vending machine of feedback" metaphor as literacy evidence
 - [[daoism-ai-education-philosophy-2026]] — "Zhenren" as a counter-metaphor for AI in education
+- [[rodak-hire-ai-future-focused-literacy-2026]] — The hired-assistant metaphor and a student-written scope of work

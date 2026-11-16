@@ -1,7 +1,7 @@
 ---
 title: Hallucination Risk
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:34:55-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -37,6 +37,8 @@ The risk is also language-dependent: [[genai-l2-written-feedback-scoping-review-
 **Assessment hallucination** is particularly damaging. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** found that LLMs fabricate evidence quotes not present in student handwriting when diagnosing cognitive skills, with 58.5% of incorrect diagnoses accompanied by false claims of evidential confidence. **[[llm-fallacy-misattribution|Kim et al. (2026)]]** documented systematic over-attribution of evidence in [[llm|LLM]] reasoning — models claim evidential support where none exists. Both connect to [[ai-ed-evaluation|AI ed evaluation]] and [[knowledge-tracing|knowledge tracing]] concerns about [[assessment-validity|assessment validity]]. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] add two failure modes visible when AI output is marked rather than inspected: fabricated particulars that survive grading — a reviewed paper that does not exist, complete with an unresolvable DOI, and a sample size reported as 378 where the source said 329 — and self-contradiction inside a single response, where the model reasoned its way to the correct option and then reported a different one in its closing summary. Because reference lists are currently marked for formatting rather than accuracy, this class of error reaches a passing grade while misleading the student who uses the same tool to revise.
 
 In an assessment-design pilot, [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] found fabricated references and unrealistic time estimates that survived repeated prompting and required substantial academic revision — hallucination in an educator-facing drafting tool rather than in student work.
+
+**Generation and reformatting fail differently.** Asked for an IEEE-style reference list on perovskite solar cells, ChatGPT returned entries the authors found mostly hallucinated or incorrectly cited: wrong initials, year, volume and pages, and one plausible-looking article attributed to a group that never did the work ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra and Gong, 2026]]). Asked instead to convert an already-verified reference set into APA, the same tool was accurate and saved substantial time. The risk sits in sourcing rather than in bibliographic work, which is a line an assignment rubric can state.
 
 **Strategic [[misconceptions|misconceptions]]** are a subtler relative of overt hallucination. [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] prompted seven open-weight models to produce a "[[socratic-method|Socratic]] trap" for 35 core computer-science concepts — an explanation that is fluent and authoritative while resting on a subtle, domain-specific error — and three domain experts confirmed 221 of 241 prompted segments (91.7%) as strategic misconceptions, with no significant differences between CS domains. The errors were predominantly conceptual rather than factual (66.5% vs. 33.5%) and none were purely logical, and they were rated moderately to highly persuasive (M = 3.71 on a five-point scale), with model identity explaining 43% of the variance. Because individual statements can be correct while the relation between them is wrong, fact-checking is insufficient; the authors argue [[ai-literacy|learners]] need conceptual verification and mental-model validation. They also caution that the rate measures capability under adversarial [[prompt-engineering|prompting]] rather than the prevalence of such errors in ordinary use, and that no students were tested, so no deception or learning outcome was measured.
 
@@ -92,3 +94,5 @@ Defenses against such manipulation carry their own trade-off: a multi-layer guar
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Hidden prompt injections raise AI-graded marks undetected, and detected attacks go unreported (Humble 2026)
 
 - [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
+
+- [[maitra-next-gen-literature-reviews-ai-guide-2026]] — Next-Gen Literature Reviews: A Practical AI Guide for New Scholars

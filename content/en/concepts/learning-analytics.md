@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-15T09:05:00-05:00"
+updated: "2026-11-16T05:34:55-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -62,6 +62,8 @@ Sensor and gaze analytics is a second instrument family feeding the same learner
 Learning analytics is canonically framed as a cycle that begins with learner activity producing data, which is processed into measures and indicators that are then translated into **interventions** — and the intervention feeds back into learner activity to close the loop. The intervention step is what distinguishes analytics from mere monitoring or prediction: without it, analytics describe and flag but never change learning. This cycle is the organizing frame for understanding where AI tools (dashboards, feedback generators, prescriptive recommenders) sit in the pipeline and which step they automate.
 
 A learner-facing dashboard is only as good as its reach: in a Hong Kong Grade 9 writing study a prompt classifier reached a macro F1 of 0.757, about a third of the 46 students opened the three GenAI-use dashboards and the group differences in copying and learning-oriented [[prompt-engineering|prompting]] were not reliable ([[learning-analytics-genai-secondary-writing-2026|Fong et al. (2026)]]).
+
+Analytics can audit the assignment before a student meets it. In four focus groups with 26 STEM undergraduates, perceived usefulness of a discussion board tracked the prompt's cognitive demand rather than the platform, which is why the design response is an instructor dashboard that classifies a draft prompt and suggests revisions ([[reding-discussion-boards-tam-ai-analytics-2026|Reding, Gartner and Nugent, 2026]]). Detection has the mirror-image blind spot: matching more than 5,000 prompts against a 572-question bank cleared the 75 similarity threshold on 121, and hand review confirmed 74 as solution-seeking, so verbatim copying was visible and paraphrase was not ([[wyszynski-genai-user-input-engineering-statics-2026|Wyszynski, Barry and Dosse, 2026]]).
 
 A frequency encoding of [[qualitative-research|qualitative]] data is an entry point, not a verdict: in a ten-participant study, some instructors read frequency encodings as a productive way in while others warned they obscure rare but critical responses, so the design keeps every aggregate view linked back to verbatim student text ([[wordstream-glass-learning-analytics|Nguyen et al. (2026)]]).
 
@@ -202,3 +204,6 @@ Semantic analytics can score reasoning only where the categories are defined tig
 - [[kim-ai-embodied-learning-review-2026]] — AI in embodied learning mostly observes: sensing roles 62.5% of coded role tags, and no reviewed system fused multimodal streams while learners used it (Kim & Han 2026)
 - [[liu-teaching-analytics-dashboard-2026]] — Active-control microteaching study isolating the explanation layer: interpretation moved, action did not (Liu et al. 2026)
 - [[wang-yi-semantic-learning-analytics-moral-reasoning-2026]] — Human-in-the-loop semantic scoring of moral reasoning, strong on large categories, weak on small ones
+
+- [[reding-discussion-boards-tam-ai-analytics-2026]] — Student Perceptions of Discussion Boards: A Technology Acceptance Model Study to Inform AI-Enabled Learning Analytics Design
+- [[wyszynski-genai-user-input-engineering-statics-2026]] — Examining Student Use of Generative AI Through User-Input Data in an Engineering Statics Course

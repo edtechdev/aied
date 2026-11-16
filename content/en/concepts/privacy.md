@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Privacy
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:34:25-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -57,6 +57,7 @@ A two-stage verifier lifted precision to 0.8893 where false positives would corr
 - **Treat privacy as a design requirement, not a policy afterthought.** The [[teachlm-post-training-llms-education|TeachLM]] example shows that consent, anonymization, and secure data handling can be built into the data pipeline itself — a model for ethically sourcing the authentic data that makes [[intelligent-tutoring|AI tutors]] effective.
 - **Design for data minimization.** Favor approaches that collect only what adaptation requires (edge/federated AI, on-device processing) rather than hoarding interaction data by default. [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026|Boyapati et al. (2026)]] demonstrate a concrete federated form of this for [[cognitive-diagnosis|cognitive diagnosis]]: multiple commercial [[llm|LLM]] APIs collaborate on diagnosis while adding ε-local differential privacy noise locally to each model's prediction before aggregation, so no provider sees raw student data — a privacy-preserving architecture that keeps [[intelligent-tutoring|AI tutoring]] functional without centralizing sensitive learner trajectories. Federated learning also enables **cross-institutional analytics without data sharing**: [[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch et al. (2026)]] train a multitask academic-risk model across institutions via federated aggregation so raw learner data stays local and only model parameters are shared — a collaborative, privacy-preserving alternative to centralized [[learning-analytics|learning analytics]] that keeps data sovereignty while capturing cross-institutional patterns.
 - **Remove identity rather than manage it.** [[intelligent-tutoring|AI Tutor Pro]] is built so that students need no account and leave no profile: the privacy model is a design choice that eliminates the identity risk instead of governing it after the fact ([[owston-ai-tutor-pro-pedagogy-privacy-trust-2026|Owston, 2026]]). Most privacy advice asks institutions to audit, minimize and consent; this is the cheaper structural alternative, and it applies wherever a tool does not need to know who the learner is.
+- **Choose the tenancy before the pedagogy.** Wells (2026) ran a sociology research-assistant pilot on a university-licensed Copilot rather than a public chatbot so student work stayed inside the institution's Microsoft 365 environment, and gated access behind a five-unit training module and a five-item quiz at 80% to pass ([[wells-genai-research-assistant-sociology-2026|Wells (2026)]]). The privacy control and the competence gate shipped as one deployment decision.
 
 - **Secure explicit, informed consent.** Where learner data funds AI development or improvement, institutions should be transparent about collection, storage, and use — and students should have real options, not mandated platforms.
 - **Audit for who is protected.** Privacy safeguards should not default to protecting only some learners; [[equity-in-ai-education|equity]] demands that the same care applies across age, language, disability, and socioeconomic lines.
@@ -106,3 +107,4 @@ Privacy connects to [[learning-analytics|learning analytics]] (the data collecto
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — What proctoring systems capture, and the privacy literature's absence from the evidence base
 - [[edtech-privacy-deferral-2026]] — "We'll Fix It Later": Education, AI, and the Deferral of Student Privacy in EdTech
 - [[kaziya-learner-data-privacy-governance-2026]] — Framework separating a teacher's privacy competence from the institutional authority to act on it
+- [[wells-genai-research-assistant-sociology-2026]] — A licensed institutional tenancy plus a certification gate as the privacy design

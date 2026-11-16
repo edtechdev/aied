@@ -1,7 +1,7 @@
 ---
 title: AI Use and Disclosure Statements
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:33:47-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -63,6 +63,8 @@ Surveying the GenAI guidance of the 50 US universities ranked most innovative, [
 - **Disclosure carries a trust penalty, and legitimacy is the argued mechanism.** In thirteen experiments, mostly with United States online panelists and pooled at 4,093 observations (θ = 0.81, z = 10.52, 95% CI [0.66, 0.96]), an actor who disclosed AI use was trusted less than one who stayed silent ([[obhdp-ai-disclosure-erodes-trust-2025|Schilke and Reimann (2025)]]). The effect survived six disclosure framings, an evaluator who already knew AI had been used, and both mandatory and voluntary regimes. It is the experimental counterpart to the survey finding above that always-disclosing students faced over three times the odds of an accusation: transparency itself can cost the discloser. The paper's one student-facing result is that students trusted a professor less when she disclosed [[automated-assessment|AI grading]].
 - **A content label changes the description, not the verdict.** With 617 adults randomly assigned to see or not see an "AI-Generated Content/Synthetic Video" label, the label lowered perceived authenticity (means of 4.92 without and 4.21 with) but left trust (B = -0.130, p = 0.216), risk, adoption and sharing unchanged ([[fu-ai-label-authenticity-trust-generated-videos-2026|Fu, Zhang and Zhang (2026)]]).
 
+The documents students actually receive carry less than the instructors who wrote them intend. [[benmessaoud-genai-course-materials-faculty-2026|BenMessaoud et al. (2026)]] coded 16 syllabi, policy statements and assignments volunteered by 56 instructors at one large public Midwestern research university: a permission and acknowledgment statement was robust in 59%, data privacy was silent in 75%, citation rules were robust in 19%, and 81% had no revision clause. The same instructors reported at 71% that institutional guidelines shaped their course materials “none” or “a little,” which locates the gap in the guidance as much as in the syllabus. A disclosure clause is only as good as the template and the citation standard behind it.
+
 ## Designing effective disclosure
 
 - **Clarity and consistency beat deterrence.** Develop clear, consistent, collaboratively-built AI policies with concrete examples of acceptable use and how to declare it; avoid punitive or vague frameworks that motivate concealment.
@@ -121,3 +123,5 @@ AI use and disclosure sits at the intersection of [[academic-integrity|academic 
 - [[authorial-warrant-ai-supported-scholarship-2026]] — When Disclosure Rules Are Not Enough: Authorial Warrant and Judgment in AI-Supported Scholarship (Mirończuk 2026)
 
 - [[fu-ai-label-authenticity-trust-generated-videos-2026]] — AI disclosure labels, perceived authenticity, and trust in AI-generated instructional videos
+
+- [[benmessaoud-genai-course-materials-faculty-2026]] — GenAI in Course Materials: Faculty Use and Perceptions

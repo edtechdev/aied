@@ -1,7 +1,7 @@
 ---
 title: Curriculum Design
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:36:00-05:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -39,6 +39,8 @@ Reviewing the change as systemic rather than additive, [[rewriting-curriculum-ge
 **Curriculum mapping and analysis** uses AI to understand existing curricula. **[[ai-assisted-se-curriculum-syllabus-analysis-2026|Geng et al.]]** analyzed 23 syllabi from AI-assisted software engineering courses, identifying common themes — [[prompt-engineering|prompt engineering]], code review with AI, [[ethics|ethical considerations]] — and deriving design guidance that emphasizes balancing tool fluency with foundational knowledge. **[[coursegraph-cs-course-comparison-2026|CourseGraph]]** applies computational methods to compare CS course structures across institutions.
 
 Weighting changes what a curriculum analysis reports: [[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al. (2026)]] had GPT-o3-mini distribute 100% across seven enterprise skills for each of 48 assessments, reaching a Krippendorff's alpha of 0.81 against expert weights, but agreement turned negative for skills the descriptions never state explicitly (-0.19).
+
+An audit can be a stage of its own rather than the front half of a redesign. [[rodafinos-llm-curriculum-audit-2026|Rodafinos (2026)]] sequences program review as four audit prompts that fit inside one meeting — a curriculum health check, a mission-fit test, a course-by-competency map and an outcome-tagging pass — then competency mapping from job postings and disciplinary standards, with revision held as an optional third stage. No competency becomes a core priority without at least two supporting signals, which keeps a labor-market scan from setting the curriculum. The governance layer is what makes the separation work: a Curriculum Evidence Pack held constant across runs, a prompt log recording version, operator and model, repeat-run checks, and a decision log linked to the approving body, so an [[llm|LLM]] output enters committee deliberation as a time-stamped artifact rather than a finding.
 
 **Modular structure outlasts current content.** A pattern recurs where the field moves faster than the review cycle: a stable core of [[ai-literacy|AI literacy]], critical appraisal, bias detection and [[ethics|ethics]], with specialty and locally available tool content attached as modules and revisited every six to twelve months ([[bursic-ai-residency-education-curriculum-2026|Bursic et al. (2026)]]). Postgraduate [[medical-education|medical education]] is the stated case, but the principle generalizes: the program commits to competencies that survive tool turnover and schedules the tool-specific layer for replacement.
 
@@ -153,3 +155,5 @@ Curriculum design connects directly to [[learning-design|learning design]] — c
 - [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
 - [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - competency frameworks converge on five dimensions without a shared vocabulary or crosswalk
 - [[bursic-ai-residency-education-curriculum-2026]] — Barriers to integrating AI into residency curricula: qualitative interviews with twelve physician leaders
+
+- [[rodafinos-llm-curriculum-audit-2026]] — Large Language Model–assisted curriculum audit in psychology: A prompt-based method

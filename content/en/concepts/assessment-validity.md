@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:36:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 connected_resources: [vfwa]
@@ -67,6 +67,8 @@ A conceptual proposal raises a validity boundary that applies to every AI-mediat
 
 - **Realign the assessment triangle rather than patch one vertex.** [[koretsky-genai-stem-assessment-2026|Koretsky et al. (2026)]] frame the [[generative-ai|GenAI]] problem through the assessment triangle — cognition (what is assessed), observation (how evidence of learning is elicited), and interpretation (the inference drawn) — and argue the three vertices must be realigned together, since redesigning tasks without repairing the interpretation leaves the inference unsupported. Their [[meta-analysis-systematic-review|scoping review]] also makes the fidelity of AI-generated assessment materials a validity property in its own right, cataloguing content, linguistic, cognitive, behavioral, structural, and pedagogical dimensions and requiring human-in-the-loop evaluation before such tasks ground assessment.
 - **Generated items can fit without measuring.** [[baghaei-generative-operationalism-2026|Baghaei and Eryilmaz (2026)]] name *generative operationalism* — construct label in, items out, post-hoc fit read as warrant — and show how semantic redundancy and construct underrepresentation produce desirable psychometrics without the attribute driving responses.
+
+A success criterion can fail validity before any instrument is scored. [[williams-coding-curriculum-critique-2026|Williams and Prishtina (2026)]] review Ch'ng's (2023) five-phase account of AI in [[learning-design|instructional design]], which treated return on investment as the measure of successful integration, and argue that a cost figure cannot evidence that the learning experience improved. Their objection concerns what the study could conclude rather than what it found: resource availability varies enough across institutions to bound the transfer, and each ADDIE phase leaves a condition of use — tool access, educator training, curriculum fit, connectivity, evaluation of higher-order outcomes — unaddressed.
 
 ### Redesign over detection
 
@@ -230,3 +232,5 @@ Winstone, Gravett and Elkington frame the GenAI assessment problem as wicked in 
 - [[rodemer-ai-generated-mcq-chemistry-assessment-2026]] — Items passing 87.71% of writing criteria still matched their intended competence level only 25.93% of the time
 - [[webb-davies-voice-first-written-assessment-2026]] — A two-stage written assessment that secures reasoning under observation before grading a home-written submission, with a conditional viva for unclear links (Webb-Davies, Ratner & Bassett 2026)
 - [[black-box-assessment-winstone-2026]] — Black Box Assessment: process windows, error as evidence, and integrity through visibility (Winstone, Gravett & Elkington 2026)
+
+- [[williams-coding-curriculum-critique-2026]] — Coding the Curriculum: A Critique of \"How AI Makes Its Mark on Instructional Design\"

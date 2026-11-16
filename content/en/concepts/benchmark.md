@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:36:00-05:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -71,6 +71,8 @@ Item-level run stability held at 79.0%-85.4% consistency, mean pairwise Cohen's 
 
 - **A scoring rule can be gamed by the model it trains.** An [[adaptive-learning|adaptivity]] metric maximized by repeating one best decision shows that benchmark design should publish the argmax, score adaptation as a difference, and report above-random baselines ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026]]).
 
+The matching rule is part of the measurement, and its size is not marginal. [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah and colleagues (2026)]] scored 11 configurations — embedding models, [[generative-ai|generative]] LLM setups and one ReAct agent — against an ESCO-annotated benchmark of 926 job-posting samples carrying 1,696 gold skills, then re-scored each through an eight-layer matching pipeline. The pipeline ran from exact string match to a 0.85 embedding-similarity cutoff, and measured recall rose by 11 to 72 percentage points across all 11 configurations. The largest jump, 70.9 points, went to Gemini 2.5 Pro with chain-of-thought, whose descriptions matched gold labels semantically but rarely lexically — a swing the authors read as evidence that exact-match evaluation measured formatting as much as capability.
+
 ## Common Misconceptions
 
 - **"Leaderboard position tells you how good a tutor is."** StudentBench **randomizes 2,383 adults across AI tutoring, live expert human tutoring and a video** condition and scores against human tutors rather than against other systems. A benchmark scaled to other models answers a question nobody needed answered.
@@ -111,3 +113,5 @@ Item-level run stability held at 79.0%-85.4% consistency, mean pairwise Cohen's 
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluation of pre-trained models for pedagogical assessment of novel AI-assisted educational questions
 - [[llm-benchmark-secondary-science-topics-2026]] — A Benchmark for LLM's Understanding of Middle School and High School Science Topics
 - [[llm-tutor-pedagogical-metric-degradation-2026]] — Eight design principles for AI-tutor benchmarks, derived from a metric that was optimized into repetition (Domínguez Figaredo & Fernández De la Cruz 2026)
+
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — Comparing AI Approaches for Automated Skill Extraction: From Embeddings to Agentic Systems for Engineering Education

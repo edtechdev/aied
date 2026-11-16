@@ -1,7 +1,7 @@
 ---
 title: AI Avatars and Synthetic Instructors
 created: "2026-11-04T15:58:10-05:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:33:47-05:00"
 type: concept
 foundations: [human-ai-collaboration, teacher-role, academic-integrity]
 pedagogy: [professional-training, experiential-learning, situated-learning, video-education]
@@ -66,6 +66,8 @@ For [[simulating-students|simulated students]], the evidence concerns interactio
 For role-play, REMind reports a significant pre-to-post gain in children's perceived [[self-efficacy|self-efficacy]] for defending, with better-calibrated beliefs about whether confronting a bully stops it. That is 18 children aged nine to ten in a play-testing context, which supports promise rather than sustained behavior change.([[remind-robot-mediated-roleplay-antibullying-2026|Sanoubari et al., 2026]])
 
 For assessment, the SOPHIE judge is the clearest result and the voice interviewer is the least. Tamme's proposal reports a technical pilot and data not yet formally analyzed; every claim about what voice elicits remains a hypothesis.([[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme et al., 2026]])
+
+Course communication is one more role, and the evidence for it is a workflow rather than an effect. [[wu-singing-syllabus-avatars-2026|Wu (2026)]] documents a seven-stage pipeline that turns a first-year Introduction to Computer Science syllabus into a sung video performed by a lip-synchronized avatar, with ChatGPT drafting lyrics, Suno AI generating the music, and HeyGem synthesizing the face in Colab. The transferable part is the constraint set: accuracy takes priority over rhyme, every transformed policy line is mapped back to the official syllabus, and the adopting instructor absorbs the verification cost. Wu reports no student data, so engagement and recall remain hypotheses, and the sung syllabus supplements rather than replaces the written document.
 
 ## Trust travels through the face
 
@@ -162,3 +164,4 @@ Adoption is a different question from effectiveness: [[wang-ai-avatars-tam-doi-a
 - [[trikonet-trivalence-co-creativity-2026]] — Co-creative pedagogical avatars in socio-technical networks (TriKoNet)
 - [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Only 51.7% of 654 students took the offered anthropomorphic roles; one called it a vending machine of feedback
 
+- [[wu-singing-syllabus-avatars-2026]] — Designing singing syllabi with virtual avatars: AI-assisted syllabus reauthoring

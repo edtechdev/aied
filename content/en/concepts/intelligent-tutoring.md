@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic, learnharness, ai-tutor-pro-teaching-assistant-pro]
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:34:55-05:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -41,6 +41,8 @@ Historically, **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** locate
 ## ITS in the learner-modeling family
 
 Intelligent tutoring is the classic *application-side* member of the [[student-modeling|learner modeling and adaptive instruction]] family. Its canonical architecture — domain model, [[student-modeling|student model]], and pedagogical model — is precisely the "model a learner, then adapt instruction" pipeline the family describes. ITS consume the learner representations produced by [[knowledge-tracing|knowledge tracing]] and [[cognitive-diagnosis|cognitive diagnosis]] to select problems and scaffold guidance, which is why tutoring is so tightly coupled to those modeling methods. Within the family, ITS sits alongside [[adaptive-learning|adaptive learning]] (the real-time adaptation mechanism) and [[personalized-learning|personalized learning]] (the broader goal) as the [[edtech-platform|platforms]] that turn learner models into instruction.
+
+The canonical blueprint has no slot for the educator. Across 21 classroom-deployed ITS studies and 435 extracted statements, 160 concerned educators, but 66 of those covered learner analytics and monitoring, 23 authoring and configuration, 18 professional development and only 5 teaching support ([[gnadlinger-educator-perspectives-its-design-2026|Gnadlinger and Kriglstein, 2026]]). A dashboard tells a teacher what students did; almost nothing in that literature tells them how to teach with the system, which is the gap the authors' proposed Educator Interface is meant to fill.
 
 ## ITS vs. LLM-based tutoring
 
@@ -260,3 +262,5 @@ Two new studies test who controls the timing of help, and neither finds a simple
 - [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — Yet off-the-shelf models may not supply that evidence: Worden et al
 - [[multi-sourced-ai-tutor-non-native-english-2026]] — Multi-sourced AI Tutor for Non-Native English Speaker Students
 - [[wu-hybrid-human-ai-tutoring-architecture-2026]] — Four hybrid tutoring architectures, the "iron triangle" of effectiveness, cost and reach, and a micro/meso/macro research agenda (Wu et al. 2026)
+
+- [[gnadlinger-educator-perspectives-its-design-2026]] — Towards incorporating educators’ perspectives into the meta-system design of intelligent tutoring systems

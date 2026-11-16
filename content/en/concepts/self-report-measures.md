@@ -1,7 +1,7 @@
 ---
 title: Self-Report Measures
 created: "2026-09-12T11:05:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:34:25-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -151,6 +151,7 @@ The constructive answers are consistent, and none of them requires abandoning su
 - Ask what kind of claim it is. Perceptions are fair game; behavior is approximated; learning and competence are not reachable this way.
 - Check who answered and who did not. Response rate, sampling frame, and self-selection decide what the percentages describe — a study of one institution's students describes that setting, not students in general.
 - Check the instrument. Was it validated for this construct and population, and if groups are compared, was invariance tested?
+- Check the distribution before trusting the test. Both factors of a validated programming self-efficacy scale moved on sign tests (p = .0074 and p = .012) while Factor 1's median held at 5.87 from pretest to posttest, and all factors were negatively skewed ([[jarvie-jiving-llms-programming-self-efficacy-2026|Jarvie-Eggart et al. (2026)]]).
 - Watch for single-source designs. If predictors and outcomes both come from the same questionnaire at one time point, the associations are consistent with common-method variance as well as with the theory proposed.
 - Treat satisfaction as a design signal, not a learning outcome. High satisfaction plus untested learning is the standard configuration in AI tool evaluation, and the evidence shows the two diverging.
 - Prefer studies that show their working: stated response rates, stated limitations, and at least one source of evidence that does not come from asking.
@@ -215,3 +216,4 @@ The constructive answers are consistent, and none of them requires abandoning su
 - [[huang-genai-academic-information-resources-2026]] — Library logs and survey attitudes pointing in different directions
 - [[onodipe-enhance-not-replace-ai-classroom-2026]] — Perceived learning and engagement rose on every survey measure while exam scores did not move
 - [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — A 300-item faculty scale with α = 0.997 predicted to 99.68% accuracy without any factor analysis
+- [[jarvie-jiving-llms-programming-self-efficacy-2026]] — Significant sign tests with an unchanged median on a validated scale

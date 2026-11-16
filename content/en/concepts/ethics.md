@@ -1,7 +1,7 @@
 ---
 title: Ethics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:36:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -89,6 +89,8 @@ That practical case is reinforced by empirical work on how ethics functions insi
 
 Ethical awareness, reflective reasoning, and [[self-report-measures|self-reported]] responsible practice develop largely independently. Across three annual waves of 350 Nigerian computing [[higher-ed|undergraduates]], [[ayanwale-ethical-engagement-ai-growth-modeling-2026|Ayanwale et al. (2026)]] found all three rose substantially, yet their growth factors were near-uncorrelated and initial awareness did not predict later growth.
 
+Confidence in ethical procedure can rise while self-knowledge stays where it was. [[pal-ethically-aware-learning-ai-classroom-2026|Pal, Jones and Hoover (2026)]] built GenAI into an undergraduate leadership ethics elective, sequencing the same [[case-based-learning|case]] once unaided and once with ChatGPT, and analyzed 38 matched confidence surveys from roughly 80 students. On a 0–10 scale, self-rated ability to recognize the ethical dilemma moved from 7.24 to 8.39 and to make a sound and justifiable decision from 7.24 to 8.45, both at p < .001, and using ethical theories to explain a decision rose from 5.39 to 7.08. The two introspective items — identifying one's own virtues, values and rights (p = .063) and explaining how personal values affect a decision (p = .124) — did not move, which locates the gain in procedural skill rather than moral self-knowledge.
+
 ## Connections
 
 Ethics connects to [[equity-in-ai-education|equity]], [[privacy|privacy]], [[bias-mitigation|bias mitigation]], [[regulation|regulation]], [[pedagogical-safety|pedagogical safety]], [[academic-integrity|academic integrity]], and [[governance|governance]]. It is the normative foundation for all other AI education concepts — the frame within which questions of fairness, transparency, autonomy, and safety are raised and resolved.
@@ -149,3 +151,5 @@ Ethics connects to [[equity-in-ai-education|equity]], [[privacy|privacy]], [[bia
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — Who Acts, Who Knows, Who Answers? Agency, Epistemic Responsibility, and Accountability in Generative AI Higher Education Research
 - [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — Ethical awareness, reflection and reported responsible practice grew largely independently over three annual waves (Ayanwale et al
 - [[qi-information-ethics-ai-judgment-2026]] — Information ethics education and artificial intelligence ethical judgment among university students
+
+- [[pal-ethically-aware-learning-ai-classroom-2026]] — Ethically Aware Learning in an AI-Enabled Classroom

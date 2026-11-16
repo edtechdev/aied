@@ -363,3 +363,10 @@
   - simulation
   - agentic-ai
   reason: 'Primer builds the artifact the simulation page describes — an adaptive scenario a student plays through with a mentor, a practice counterpart and transcript-based feedback — so that page lists it. It also sits on agentic-ai because the authoring pipeline (Intake, Design, Casting Director, Image Generation, Experience Builder) is a worked, inspectable multi-agent workflow, which is what that page discusses in the abstract. Not listed on learning-design: the page covers designing learning, while Primer designs the simulation artifact inside a design the educator has already chosen. Not listed on intelligent-tutoring: it is not a tutor that adapts to a learner, it is an authoring system an instructor operates before anyone plays.'
+
+- resource: canvas-mcp
+  reviewed: '2026-11-16'
+  hosts:
+  - agentic-ai
+  - institutional-ai-infrastructure
+  reason: An MCP server for Canvas LMS, listed on the two concept pages it serves.

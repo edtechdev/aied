@@ -1,7 +1,7 @@
 ---
 title: AI Governance
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:34:55-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -115,6 +115,8 @@ Governance is distinct from — but inseparable from — [[educational-policy-ai
 - **Governance can be designed into the tool.** A six-dimension governance profile - [[pedagogy|pedagogical]] grounding, instructional authority, human accountability and control, learner agency and cognitive engagement, context specificity, and evaluation visibility - locates governance in a teaching tool's interaction model, prompts, rubrics, approval gates and [[visualization|dashboards]]. It asks whether mechanisms fit the instructional function rather than how strict or permissive a tool is ([[instructional-governance-design-computing-education-2026|Dickey, 2026]]).
 - **A human-centered framework puts interpretation, not the tool, at the center.** At a mission-driven liberal arts college, faculty used a generative-AI-supported Assessment Wizard during a structured Education Day, and the authors conclude that human judgment must stay the non-negotiable interpretive authority, with verification checkpoints and governance in place before broad implementation ([[aalhe-chaos-to-consistency-ai-assessment-2026|Ravesloot, Copeland & Pryor, 2026]]). The sequence is formation and verification first, scale second.
 
+**A run record is what makes an LLM-assisted curriculum decision auditable.** [[rodafinos-llm-curriculum-audit-2026|Rodafinos (2026)]] builds the sequence into a program-level audit: a scope boundary, a Curriculum Evidence Pack held constant across runs, and a run record giving prompt version, operator, tool and model version, settings and verbatim output. A validation checklist, a disagreement procedure, a stability rating and a decision log tied to the approving body complete it, with repeat-run checks reserved for high-stakes uses and an equity and bias review. Because textual reproduction is unavailable, the protocol rates procedural reproducibility, output stability and decision robustness instead, and unstable output may not enter program documentation without further triangulation or committee review.
+
 Governance provisions appeared only in general policy documents and never in the funding-specific instruments that bind applicants, so a funder can govern AI in principle while imposing nothing on the research it pays for ([[chan-ai-policy-gap-2026|Chan, 2026]]).
 
 One 2026 argument extends governance past learner use to the production of teaching material itself. Chew (2026) separates representational content (images, diagrams), reasoning content (cases, simulated patients) and assessment content (items, rubrics, feedback). Each type has a characteristic failure and a different checker: a reference standard, an expert who can reach the conclusion unaided, or evidence of what an instrument measures. Because a plausible error in curriculum content reaches every learner and may never surface as a signal, he locates accountability with the institution and specifies four capabilities: know what is in use, test before use, act on findings including withdrawal, and monitor approved tools for drift ([[chew-ai-content-governance-medical-education-2026|Chew, 2026]]).
@@ -188,3 +190,5 @@ One 2026 argument extends governance past learner use to the production of teach
 - [[pandey-davies-he-governance-administrative-ai-2026]] — Administrative AI as a service-operations question
 - [[chan-ai-policy-gap-2026]] — Governance language sits in general policies and never in the funding rules that bind applicants (Chan 2026)
 - [[kaziya-learner-data-privacy-governance-2026]] — Competence and governance treated as complements, not substitutes, in learner data protection
+
+- [[rodafinos-llm-curriculum-audit-2026]] — Large Language Model–assisted curriculum audit in psychology: A prompt-based method

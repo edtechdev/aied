@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:33:47-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -68,6 +68,8 @@ Students do not generally [[ai-misuse-learning-harm|misuse]] AI out of malice; t
 
 [[ethical-ai-higher-ed-game-theory|A coordination-game framework]] provides a mechanism-level account of why policy pronouncements rarely change behavior: students' AI use is a **coordination problem**, where individual choices depend on peer expectations and assessment design. The model's key finding is **non-linear threshold dynamics** — small, well-calibrated changes to reflective-assessment incentives can trigger rapid cohort-wide shifts toward responsible use, while weak or misaligned incentives let opportunistic practice persist. In practical terms, modest redesign (e.g., requiring students to reflect on their AI interactions) can have disproportionate effects where abstract rules have none.
 
+Knowing the rule and following it are separate outcomes. In [[wyszynski-genai-user-input-engineering-statics-2026|Wyszynski, Barry and Dosse’s (2026)]] 215-student Statics course, students who completed the ethics module passed its knowledge check at 100% correctness, yet a chi-squared test found no significant difference in solution-seeking between that section, a section that also received an effective-use lecture, and a no-intervention control. Fewer than 1.5% of more than 5,000 logged prompts were clearly solution-seeking, so the null describes a low base rate as well as an unchanged one.
+
 Peer accountability does not always point toward integrity, as [[chen-zou-genai-group-assessment-agency-2026|Chen and Zou (2026)]] found in graded [[group-work|group assessment]]: seven of fifteen student groups deliberately reduced their GenAI use partly to avoid free-riding on groupmates, since group consequences were shared rather than self-contained, yet in five groups a permissive collective climate — "everyone in my group is using GenAI" — lowered the perceived [[ai-misuse-learning-harm|risk of misuse]] and inverted the very accountability mechanism group work is meant to create. The same study found students reframing originality as faithfulness to the understanding their classmates built together, and its practical recommendation follows directly: make the negotiation of acceptable AI use an explicit, documented, and assessable outcome rather than leaving the norm to emerge from peer pressure or perceived risk.
 
 Policy inconsistency across the institution produced exactly the guessing the coordination account predicts. Nine of the eleven interviewees in [[zou-is-this-a-trap-student-teachers-genai-2026|Zou et al. (2026)]] framed their own course's explicit permission to use generative AI as a possible "trap" — a lure to identify students who could not resist — even though the policy was open and written into the assessment guidelines; students generalized from bans and warnings encountered elsewhere rather than reading their own course's rules on their own terms. The authors' conclusion follows the mechanism rather than the wording: per-course clarity was not enough, and [[educational-policy-ai|program- or institution-level]] consistency is needed so that students stop inferring intent from the surrounding culture.
@@ -121,6 +123,8 @@ Students outside Anglophone higher education describe the same tension in their 
 [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] takes the pedagogical inversion a step further by extending Eaton's postplagiarism frame from an ethical orientation into assessment design. Integrity, on this account, is enacted through [[evaluative-judgment|evaluative judgment]] — the learner's capacity to weigh options, justify academic choices, and assume responsibility under epistemic uncertainty — and made visible through four practices: annotated decision trails, verification and accountability practices, [[oral-assessment|oral defense]] and dialogic accountability, and draft differences with version history. Detection is retained only as a supplementary layer for clear misrepresentation or deliberate outsourcing of intellectual labor, never as the primary infrastructure of integrity, because it asks whether GenAI was used rather than how the decisions behind the work were made. The argument also names the equity risk that detection-centered models fall hardest on learners who rely on generative tools for linguistic or cognitive [[scaffolding|scaffolding]].
 
 A third route sits between detection and redesign. [[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar (2026)]] predicts AI-assisted cheating risk from early-semester [[learning-analytics|LMS traces]] with an AUC of 0.763, and frames the output as low-stakes academic guidance — reminders, assignment follow-up, brief check-ins — rather than evidence of misconduct, insisting the score stay separate from grading and disciplinary records.
+
+Handing students the pen produces a stricter boundary than imposing one. [[rodak-hire-ai-future-focused-literacy-2026|Rodak (2026)]] had 72 students in three sections of a required undergraduate business writing course co-write the course AI policy and then write a scope of work for a named assistant. Every list excluded undisclosed copy-paste, having the assistant complete assignments, and AI-invented sources, while 81% hired the assistant for practice questions and proofreading. The lines read as authorship rather than compliance, and they turn “may I use AI” into “is this inside the job.”
 
 ## Connections
 
@@ -259,3 +263,6 @@ Winstone, Gravett and Elkington invert the usual logic: integrity is produced by
 - [[crisol-moya-integrity-assessment-2026]] — 546 students: integrity ranks first and is flat across degree programs (Crisol Moya et al. 2026)
 - [[ragab-ai-integrity-verification-model-2026]] — The AI Integrity Crisis: When Artificial Intelligence Challenges What It Means to Earn a Degree
 - [[black-box-assessment-winstone-2026]] — Black Box Assessment: process windows, error as evidence, and integrity through visibility (Winstone, Gravett & Elkington 2026)
+
+- [[rodak-hire-ai-future-focused-literacy-2026]] — Collaborating With AI Assistants on Future-Focused AI Literacy
+- [[wyszynski-genai-user-input-engineering-statics-2026]] — Examining Student Use of Generative AI Through User-Input Data in an Engineering Statics Course

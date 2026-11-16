@@ -1,7 +1,7 @@
 ---
 title: Learning Design
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-14T21:52:00-05:00"
+updated: "2026-11-16T05:34:55-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -84,6 +84,8 @@ Learning design is the lever that decides whether AI produces [[learning-gains|l
 For instructional designers, course developers, and engineers building AI-assisted learning experiences, the findings translate into actionable practice. One boundary is worth marking before the practices themselves: learning design means the design of a course for a known cohort. The same principles baked into a product that many courses will use, taught by people the designer will never meet, are the work of [[educational-technology-developers|educational technology developers]], where defaults, configurability and documentation carry pedagogical weight:
 
 **Ground AI generation in a structured instructional model.** AI content is only as good as the pedagogical structure behind it — explicit structure, not AI fluency, determines quality. Design around a recognized model (ADDIE, Dick & Carey, rapid prototyping) and encode pedagogical decisions explicitly rather than relying on the model to infer them.([[courseblueprint-adaptive-video-generation|Zabirul et al., 2026]])([[jeon-isd-agent-bench-2026|Jeon et al., 2026]])([[didactical-teacher-assistant-dimensional-modeling|Brisson et al., 2026]])
+
+The model is also a list of what it leaves out. Reviewing the five ADDIE phases, Williams and Prishtina (2026) find each omits a condition of use: tool access in analysis, educator training in design, curriculum fit in development, connectivity and software compatibility in implementation, and creativity in evaluation ([[williams-coding-curriculum-critique-2026|Williams and Prishtina, 2026]]). The role change runs alongside it: in [[chng-ai-instructional-design-2023|Ch'ng's (2023)]] account, subject-matter experts stop drafting content and become accessors who validate what a model produced, which makes review capacity the bottleneck.
 
 **Adopt a principle-level framework as well as an instructional model.** A course-level model structures one design; a published framework sets the criteria that many designs should satisfy. An example worth reading in full is Digital Promise's *Powerful Learning with Emerging Technology*, which organizes its guidance under three principles — Evidence-Based, Learner-Centered, Skill-Building — each expanded into practices and strategies, and attaches [[privacy|privacy]], [[explainable-ai|explainability]] and fairness to particular practices as safety obligations rather than optional extras.([[powerful-learning-with-emerging-technology-2025|Mills et al., 2025]])
 **Match the AI configuration to the task, not to sophistication.** [[pchl-he-framework-genai-content-creation-2026|Nalyvaiko (2026)]] distinguishes four layers — prompt, context, harness, and verified loop — and applies a minimally sufficient layer principle: use the least complex configuration capable of a verifiable result, since added orchestration brings coordination, verification, privacy and comprehension costs.
@@ -185,3 +187,6 @@ Design moderates effects more than technology does in Zhang and colleagues' synt
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
 - [[zeivots-postdigital-co-design-genai-2025]] — GenAI as an unreliable collaborator in co-design
 - [[zhang-genai-l2-learning-meta-analysis-2026]] — Three-level meta-analysis: GenAI works through feedback and learner-directed design, not as a uniform intervention (Zhang et al. 2026)
+
+- [[williams-coding-curriculum-critique-2026]] — Coding the Curriculum: A Critique of \"How AI Makes Its Mark on Instructional Design\"
+- [[chng-ai-instructional-design-2023]] — How AI Makes its Mark on Instructional Design

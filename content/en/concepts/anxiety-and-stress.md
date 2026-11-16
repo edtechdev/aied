@@ -1,7 +1,7 @@
 ---
 title: Anxiety and Stress
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-11-15T09:05:00-05:00"
+updated: "2026-11-16T05:33:47-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -74,6 +74,8 @@ That reframing has a boundary in speaking: among 708 [[multilingual-learning|Eng
  network cross-validation ranked self-efficacy and perceived usefulness as the most stable predictors of anxiety. The implication is
  that institutional encouragement aimed at anxiety only lands if it changes what students believe about their own capability and the
  tool's usefulness; general reassurance does not alter the appraisals that generate the anxiety.
+
+A course can lower this anxiety through low-stakes contact, but the relief does not distribute itself evenly. Across 133 students in an asynchronous public speaking course that embedded ten short AI literacy activities, worry about not performing well once AI tools were involved fell from 2.63 to 2.16 on a seven-point scale, p = .04 ([[petricini-ai-literacy-communication-equity-2026|Petricini & Cruz, 2026]]). White-identifying students dropped significantly on all three pressure and tension items, including worry from 2.67 to 1.90, while students of other racial, ethnic or heritage identities showed no significant change on any of them. The authors report the pattern without a mechanism, which makes the equity gap a design problem rather than a reassurance problem.
 
 
 AI can also relieve academic anxiety by advancing learning goals rather than by reassurance: across a survey of 721 medical students and an experiment with 398, higher perceived assistant capability predicted greater study-goal progress, which predicted lower academic anxiety and better mental health ([[perceived-ai-intelligence-medical-students-mental-health-2026|Chen et al. (2026)]]).
@@ -185,3 +187,5 @@ The positive side: AI systems increasingly detect and help alleviate stress and 
 - [[ai-attitude-latent-profiles-career-development-2026]] — A profile high on both AI anxiety and perceived AI quality, not one or the other
 - [[ai-speaking-practice-communicative-readiness-2026]] — Speaking anxiety's link to willingness to communicate reverses at high speaking self-efficacy
 - [[perceived-ai-intelligence-medical-students-mental-health-2026]] — Perceived AI assistant intelligence lowers academic anxiety through study-goal progress (medical students)
+
+- [[petricini-ai-literacy-communication-equity-2026]] — AI Literacy in a Basic Communication Course: Insights on Equity, Motivation, and Reducing Uncertainty

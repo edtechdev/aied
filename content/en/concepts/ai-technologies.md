@@ -1,7 +1,7 @@
 ---
 title: Technologies
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:33:47-05:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
@@ -29,6 +29,8 @@ reviewed_by: [editor]
 - **Generative AI.** The broader category of systems that produce text, code, images, and other content — [[generative-ai|generative AI]] (driven chiefly by LLMs) is the technology behind the current wave of [[ai-education|AIED]] research. See also [[multimodal|multimodal models]] (text, image, audio) and [[simulation|simulation]].
 - **Robots and [[embodied-learning|embodied]] systems.** [[educational-robotics|Robots in education]] add an embodied and often [[community-of-inquiry|social presence]] — programmable kits for [[computational-thinking|computational thinking]] and humanoid/social robots for tutoring, [[storytelling-in-education|storytelling]], and role-play. Robotics is a distinct technical strand that overlaps [[agentic-ai|agentic AI]] and [[human-in-the-loop-ai|human-in-the-loop]] design.
 - **Knowledge-based systems.** [[knowledge-graph|Knowledge graphs]] and [[educational-nlp|educational NLP]] represent and process domain knowledge, increasingly combined with LLMs for grounded, explainable tutoring.
+
+A function-based taxonomy travels further into teacher professional development than a list of model architectures. [[jaksic-engaging-high-school-teachers-ai-2025|Jaksic, Ansaf and Massey (2025)]] organized a one-day workshop for nine high school teachers around six families of AI application — classification, recognition, memory, decision-making, optimization and prediction — each paired with an application the teachers already used, from spam filtering to credit scoring. Teachers arrived split on whether AI was a threat, with 40% saying so and 40% undecided, and every participant reported learning something new. The organizing unit is what the system does, which a teacher can recognize in a classroom tool without knowing how it was trained.
 
 ## Techniques and methods
 
@@ -102,3 +104,4 @@ The technical strand is inseparable from the field's other themes:
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini generative social robot
 - [[benzion-ai-physics-simulations-virtual-lab]] — LLM-generated physics simulations for the classroom
 
+- [[jaksic-engaging-high-school-teachers-ai-2025]] — Engaging High School Teachers with Artificial Intelligence Concepts, Applications, and Developments

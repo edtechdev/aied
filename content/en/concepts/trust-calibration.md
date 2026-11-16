@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:34:40-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -106,6 +106,7 @@ Trust calibration is central to [[ai-literacy|AI literacy]] and sits alongside [
 - **Anxiety as a boundary condition on literacy turning into trust (2026):** In a survey of 450 university students in mainland China who already used ChatGPT, [[hu-psychological-predictors-continued-chatgpt-use-2026|Hu (2026)]] found the AI literacy to trust path was the largest association in the model (beta = 0.50) and that [[anxiety-and-stress|AI anxiety]] weakened that link (interaction beta = -0.25), with simple slopes falling from 0.76 at one standard deviation below the mean of anxiety to 0.25 above it, while a serial path from literacy to trust to self-efficacy to continued use was significant. Calibration is therefore partly affective: the same knowledge translated into less trust among more anxious students, and the cross-sectional design leaves open whether anxiety blocks the appraisal that turns knowledge into reliance or reflects evaluation that students decline to act on.
 
 - **Role rotation as a structure for practicing critique (2026):** In a design-based study of 62 pre-service educational psychologists moving through four rotating professional roles over eight weeks, [[kenzhebayeva-ai-role-rotation-pedagogical-model-2026|Kenzhebayeva et al. (2026)]] had participants compare AI-generated recommendations with psychological theory and modify or reject those that did not fit the case, yet still recorded overreliance on apparently authoritative AI responses, with some students seeking AI confirmation before offering their own interpretation even in later cycles. Rotation creates repeated occasions for the accept or reject judgment without guaranteeing it, and the study reports engagement during the intervention rather than measured competence gains.
+- **A course split trust by prompt, not attitude (2026):** Before and after a course whose ChatGPT lessons showed the model failing, 288 engineering students grew more trusting of prompts the model handles well and sharply less trusting of prompts it handles badly (partial eta squared of .402; [[bego-course-guided-chatgpt-trust-attitudes-2026|Bego et al., 2026]]). General attitudes toward ChatGPT showed no significant within-group change, which the authors read as the point: a course can teach discrimination without changing whether students like the tool.
 
 - **Surface identity cues move trust independently of capability.** Across two experiments (N = 396), learners rated White [[ai-avatars-and-synthetic-instructors|avatar]]s — and Asian male avatars in STEM — more credible and competent, penalized older Black female avatars on every measure, and adopted racial-ingroup guidance more readily ([[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis & Kyriakidou-Zacharoudiou (2026)]]).
 - **A source label moves acceptance without improving discrimination.** When 103 participants judged answers labeled ChatGPT or computer, acceptance was higher under the ChatGPT label (68.0% versus 63.4%, p = 0.002), yet signal detection found no source difference in sensitivity (p = 0.930) or criterion (p = 0.082) ([[chatgpt-source-cue-answer-acceptance-2026|Fabio, Rantuccio & Bruno, 2026]]). The label raises trust without raising accuracy.
@@ -202,3 +203,5 @@ Calibration is a state, not an outcome, and the outcome it licenses has its own 
 - [[yang-ai-advice-agreement-trust-self-efficacy-pe-2026]] — When AI advice agrees or disagrees with human judgment: trust, self-efficacy, psychological resilience, and adaptive responses in physical education
 - [[kim-overtrust-ai-literacy-2026]] - overtrust correlated with self-efficacy and performance expectancy but not with AI literacy in 300 students
 - [[trust-ai-assistants-consistently-wrong-2026]] — Do People Trust AI Assistants Even When They Are Consistently Wrong?
+
+- [[bego-course-guided-chatgpt-trust-attitudes-2026]] — The Influence of Course-Guided ChatGPT Experiences on Engineering Students’ Trust and Attitudes Toward ChatGPT

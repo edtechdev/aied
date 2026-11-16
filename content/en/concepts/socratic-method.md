@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills, context-aideatext]
 title: Socratic Method
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:34:25-05:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -65,6 +65,7 @@ The gap between "knowledge-based skills" (4.0/5) and "overall effectiveness" (3.
 - Socratic dialogue is effortful; students may prefer direct answers for efficiency
 - The chatbot cannot provide the relational support of a human tutor
 - Some students may get stuck in Socratic loops without resolution
+- Delivery may vary more than the design specifies. In a C++ course, the item asking whether the chatbot posed reflective or application questions was the survey's lowest and most variable at 3.86 out of 5 (SD 1.24), which the authors read as inconsistent delivery of what the system prompt named ([[jackson-ai-chatbots-learning-assistants-cs-2026|Jackson, Mware and Jiang (2026)]]).
 
 ### A counter-finding: unrestricted access can outperform constrained modes
 
@@ -163,3 +164,4 @@ The Socratic method is closely tied to [[scaffolding|scaffolding]] (providing ju
 - [[genai-socratic-tutor-biology-argumentation-2026]] — Enhancing PISA-aligned argumentation skills of prospective biology teachers through generative artificial intelligence
 - [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
 - [[socratic-probing-agent-physics-cave-detection-2026]] — Designing an AI Agent That Does Not Tutor: Design Rules for Socratic Probing in Introductory Physics
+- [[jackson-ai-chatbots-learning-assistants-cs-2026]] — Reflective questions rated lowest and most variable in a guided chatbot

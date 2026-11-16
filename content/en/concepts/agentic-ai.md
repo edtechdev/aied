@@ -1,8 +1,8 @@
 ---
-connected_resources: [deeptutor, learnharness, primer]
+connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:33:47-05:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -59,6 +59,8 @@ Where [[agentic-ai-education-scoping-review|the 474-study scoping review]] and [
 - **Adversarial robustness testing:** [[adversarial-stress-testing-role-playing-agents|Multi-agent stress testing]] coordinates Interrogator, Target, and Judge agents to reveal failure modes invisible to single-strategy testing, reducing robustness scores by 0.17–0.20 points — critical for persona consistency and [[pedagogical-safety|safe deployment]] with learners.
 - **Domain applications:** agentic systems appear across domains, including [[learnmate2-llm-adaptive-learning|adaptive learning agents]], [[educlaw-bench-pedagogical-llm-agents-2026|pedagogical LLM agents]], [[guided-llm-scaffolding-independent-learning|guided LLM scaffolding]], [[cyberagents-gamified-cybersecurity-learning-2026|gamified cybersecurity learning agents]], and [[hdr-brachytherapy-agentic-ai-simulation-2026|clinical simulation agents]].
 - **Agentic marking is a reliability question before it is a workload question.** An agentic Claude Code deployment was given three rubric files and 60 scanned handwritten mid-term papers from a computer-graphics course. Its marks agreed with the instructor at r = 0.97, with a mean absolute error of 0.85 marks on a 20-mark paper, a mean AI-positive bias of 0.68, and test-retest ICC = 0.96 across two sessions a week apart. The aggregate hides where it fails: weighted kappa ran from 0.98 on multiple choice to 0.65 on evaluative items, with hand-drawn diagrams the weakest case ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). One course, one instructor and one rubric set locate the variance; they do not establish that agentic marking generalizes.
+
+Agentic architectures buy coverage at a measurable cost in precision. On [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah et al.’s (2026)]] benchmark of 926 job-posting samples and 1,696 gold-standard skills, a ReAct agent with an ESCO lookup tool led enhanced recall at 89.7%, against 83.7% for the best generative configuration and 49.1% for the best embedding model. Its precision was 22.7%, leaving F1 at 36.3%, below a tool-grounded Gemini 2.5 Flash at 51.6%, and it ran at about 16 seconds per sample. Recall is the right metric when a human advisor prunes the list; unmediated output needs the grounded alternative.
 
 - **Web agents as learning-experience evaluators:** a single autonomous "describing" web agent that navigates an online [[learning-design|lesson]] like a student — [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] — produces a description rich enough to predict student dropout and give the designer actionable feedback before real learners engage, outperforming a full simulated cohort and every baseline on a global CS1 course. This positions agentic evaluation (an agent as a stand-in critic of a learning experience) as a distinct, low-cost use of agentic AI alongside agents that teach or design.
 
@@ -230,3 +232,5 @@ Agentic AI is neither a panacea nor an inevitable harm: its value depends on des
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD with AI agents in software PBL; automation vs. comprehension
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
+
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — Comparing AI Approaches for Automated Skill Extraction: From Embeddings to Agentic Systems for Engineering Education

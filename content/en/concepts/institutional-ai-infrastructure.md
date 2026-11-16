@@ -3,7 +3,7 @@ title: Institutional AI Infrastructure
 created: "2026-11-12T07:36:15-05:00"
 updated: "2026-11-14T08:32:58-05:00"
 type: concept
-connected_resources: [mindrouter, amplify-genai]
+connected_resources: [mindrouter, amplify-genai, canvas-mcp]
 technology: [llm, generative-ai, open-source, edtech-platform]
 ethics: [privacy]
 audience: [administrators, educational technology developers, faculty developers]

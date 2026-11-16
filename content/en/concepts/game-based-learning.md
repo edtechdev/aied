@@ -1,7 +1,7 @@
 ---
 title: Game-Based Learning
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-14T21:52:00-05:00"
+updated: "2026-11-16T05:36:00-05:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
@@ -37,6 +37,8 @@ GBL is grounded in [[motivation|motivation]], [[student-engagement|student engag
 - **Split the AI into a dialogue coach and a difficulty engine.** An AI-enhanced Roblox environment for upper-secondary computational thinking paired a GPT-4 non-player character, capped at two to three sentences and barred from giving answers, with a rule-based engine that set difficulty from time-to-solution and error rate ([[hengsawat-ai-game-based-learning-computational-thinking-2026|Hengsawat, Junruang & Kanjug, 2026]]).
 
 - **Escape rooms with an in-game chatbot.** A two-month build produced a browser-based 3D escape room for K-12 cybersecurity, with a GPT-4o panel embedded as a robot students can question; teachers joined the second iteration and closed a shortcut in the puzzle chain ([[na-yang-escape-room-cybersecurity-2026|Na & Yang (2026)]]).
+
+A guessing round can teach what writing a prompt alone does not. [[kumar-picprompt-game-prompt-engineering-k12-2026|Kumar, Lim, Sotelo and Driscoll (2026)]] built PicPrompt, in which one player writes a prompt that a text-to-image model renders and the rest of the table guesses the original prompt before voting on the closest attempt, and ran it with 22 students across grades 2 to 9 at an informal learning site. Writing a prompt and seeing the image teaches cause and effect, but guessing someone else's prompt from the image is where a viewer's reading turns out not to be the writer's intention, which is what makes word choice and specificity matter. Self-rated prompt-writing knowledge moved from 2.23 to 2.73 on a four-point scale (p = .118, d = 0.35), and the share who had never written a prompt fell from 8 of 22 to 1.
 
 ## Gamification
 
@@ -104,3 +106,4 @@ GBL and gamification together connect to [[educational-robotics|educational robo
 - [[xie-genai-mystery-game-legal-education-2026]] — GenAI-authored mystery role-play game versus lecture in legal education (Xie et al. 2026)
 - [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — Design and preliminary validation of an AI enhanced game based learning environment for computational thinking
 
+- [[kumar-picprompt-game-prompt-engineering-k12-2026]] — PicPrompt: A Game-Based Tool for Teaching Prompt Engineering Through Text-to-Image Generation in K–12 Settings

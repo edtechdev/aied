@@ -1,7 +1,7 @@
 ---
 title: Technology Adoption Models
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:34:40-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -86,6 +86,8 @@ TAM's cognitive focus also under-captures emotional and relational dimensions of
 
 A recent extension inverts the usual direction, placing [[discipline-specific-aied|subject-specific]] motivational beliefs upstream of the TAM perceptions rather than beside them. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi & Lu (2026)]] report utility value predicting perceived usefulness at β = 0.43 and expectancy for success predicting ease of use at β = 0.39, while core TAM paths attenuate but stay significant.
 
+**Usefulness can belong to the task set rather than the tool.** In four focus groups with 26 STEM undergraduates, the same discussion board was worth their time when the prompt asked for application or showed how classmates reasoned, and busywork when it asked for restatement ([[reding-discussion-boards-tam-ai-analytics-2026|Reding, Gartner and Nugent, 2026]]). The authors state the conclusion as a TAM claim: perceived usefulness attaches to how the prompt is built rather than to the presence of the board.
+
 **Task–technology fit as a parallel path, and necessity as a separate question.** Most extensions above add constructs *inside* the belief model. One sibling framework that TAM studies rarely carry is Task–Technology Fit, which asks whether a tool's capabilities match the demands of the specific task. [[chu-design-students-ai-agent-tam-ttf-2026|Chu and Liu (2026)]] joined the two in 405 design graduate students at Chinese universities, and fit acted as a second route into attitude rather than a determinant of usefulness.
 
 Task characteristics fed fit at β = 0.322 and technology characteristics at β = 0.266. Fit then fed attitude at β = 0.224, beside perceived usefulness (0.376) and perceived ease of use (0.185), and attitude fed intention at β = 0.388. Self-efficacy carried the largest upstream coefficients, 0.458 on usefulness and 0.394 on ease of use. Perceived enjoyment raised ease of use (0.220) and left usefulness untouched (−0.033, p = 0.483) — an instrumental/affective split the classic model does not draw.
@@ -162,3 +164,5 @@ Risk's link to use also depends on the system: across the 49 TALIS 2024 systems 
 - [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — Design features upstream of TAM beliefs, and importance that is not necessity
 - [[pinedo-genai-adoption-marketing-students-2026]] — Habit carries UTAUT2 in an already-adopted population
 - [[stalboerger-faculty-perceptions-2026]] — 22 faculty, 12 follow-ups: familiarity hardened ethical scrutiny for some, reversing the ease-of-use direction (Stalboerger et al. 2026)
+
+- [[reding-discussion-boards-tam-ai-analytics-2026]] — Student Perceptions of Discussion Boards: A Technology Acceptance Model Study to Inform AI-Enabled Learning Analytics Design

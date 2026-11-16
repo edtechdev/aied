@@ -1,7 +1,7 @@
 ---
 title: Differential Effects Across Learner Groups
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:36:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -76,6 +76,8 @@ Gender research here divides into whether tools treat learners differently, and 
 - **Space and framing matter as much as the tool.** [[all-girls-genai-makerspace-gender-equity-2026|An all-girls generative AI makerspace case study]] found girls valued the single-gender setting as safer and more relaxed, and warns against "girlification" — surface-level adaptation that leaves power relations untouched.
 - **Model sensitivity is a model property, not a constant.** In [[edufair-bench-pedagogical-fairness-llm-tutors-2026|EduFair-Bench]], five tutors from 7B to 70B were audited across nine demographic levels: Qwen2.5-7B exceeded the |r| ≥ 0.10 bias threshold in 7 of 12 domain-by-dimension cells, while LLaMA-3.1-8B exceeded it once. Pedagogy-specific training reduced some biases and increased others.
 - **A single-axis fix can leave a group worse off:** gender-diverse students collapsed into an “Unknown Gender” category had the lowest true positive rates under every fairness method, and no single-axis method improved their treatment — the group-label variation noted above, inside a predictive early-warning model rather than a tutor ([[fairness-theatre-early-warning-systems-2026|McConvey et al. (2026)]]).
+
+A semester of low-stakes AI literacy activities can move confidence differently for different groups. [[petricini-ai-literacy-communication-equity-2026|Petricini and Cruz (2026)]] embedded ten activities across weeks 2 to 11 of an asynchronous public speaking course and analyzed 133 usable responses from 200 enrolled students; perceived competence fell overall, from 5.63 to 5.12 on a 1–7 scale, and the decline was uneven. Female-identifying students registered significant pre-to-post declines on two competence items, while male-identifying students declined on one and gained on the value of the course, and male-identifying students rated themselves higher at posttest on using any new tool in the course (p = .02). The same intervention gave White-identifying students a significant drop on all three pressure-and-tension items, including worry about performance from 2.67 to 1.90, while students of other racial, ethnic or heritage identities showed no significant change on any of them.
 
 ## Race, ethnicity, and minoritized students
 
@@ -177,3 +179,5 @@ The honest finding of this survey is how thin some groups are. Each of these is 
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — A knowledge-based grouping variable with direct process evidence: groups matched on prior knowledge but differing in preconception diversity took up the same AI differently (Wang et al. 2026)
 - [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
 - [[porcaro-ai-grader-reliability-2026]] — Learner context changes an LLM grader's marks on identical work, and agreement with the teacher does not register it (Porcaro 2026, Paper VI)
+
+- [[petricini-ai-literacy-communication-equity-2026]] — AI Literacy in a Basic Communication Course: Insights on Equity, Motivation, and Reducing Uncertainty

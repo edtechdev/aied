@@ -2,7 +2,7 @@
 connected_resources: [idstack, lesson-md, master-instructional-design]
 title: Assessment
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:36:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -77,6 +77,8 @@ The redesign above assumes a grade still means what it meant before the tool arr
 
 A proposal in this literature pushes past redesign-within-the-current-frame. [[ai-agents-joyful-assessment-third-space-2026|El Khoury and Ma (2026)]] argue that reform organized around preventing misconduct or detecting AI use narrows the educational imagination to control and compliance, and propose **joyful assessment** instead: assessment that is safe, emotionally responsive, empowering and supportive of student [[agency|student agency]], with safety as the load-bearing condition because without it emotional attunement becomes performance, empowerment becomes pressure and agency becomes risk. Their framing inverts the detection agenda — integrity becomes a consequence of designing assessment students want to engage in rather than its starting point — and they position instructor-built [[agentic-ai|AI agents]] (custom GPTs, Gems, Copilot Studio agents) as a low-stakes rehearsal space where students practice before judgment, with the claim that the AI organizes evidence while the instructor interprets it.
 
+The color code is the alternative that keeps being proposed, and one institution's version has run its course. [[nerantzi-traffic-light-assessment-genai-2026|Nerantzi, Palfreyman and Pavlopoulou (2026)]] reconstruct a panel conversation about the University of Leeds framework, in force across all faculties since 2023, in which red bans AI, amber leaves the rules to each module tutor and green teaches responsible use. Their objection is scope: a color attached to an assignment answers whether a tool may be used here but not whether it may be used to understand the reading. In 2024/25 about 85% of taught modules in the Business School carried red assignments while the university's stated goal was to move all assessment to green, and the authors conclude that the traffic light is outdated and should give way to a framework keeping [[evaluative-judgment|human judgment]] central.
+
 ## Implications for AI in education
 
 - **Assessment and learning are inseparable:** good AI assessment should support learning ([[feedback|formative feedback]]) as much as it evaluates it.
@@ -144,3 +146,5 @@ A proposal in this literature pushes past redesign-within-the-current-frame. [[a
 - [[computing-assessment-genai-workshop-report-2026]] — AI Can Do Your Homework. Now What? Report from an online workshop on computing assessment in the age of generative AI
 - [[koretsky-genai-stem-assessment-2026]] — A three-vertex frame for realigning assessment
 - [[rubrics-genai-process-based-assessment-2026]] — Rubric criteria that grade the interaction, not the artifact
+
+- [[nerantzi-traffic-light-assessment-genai-2026]] — A reflective conversation on assessment in the age of generative AI using the traffic light framework at the University of Leeds

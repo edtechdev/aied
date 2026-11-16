@@ -1,7 +1,7 @@
 ---
 title: AI Feedback Quality
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:33:47-05:00"
 connected_resources: [my-essay-feedback]
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
@@ -93,6 +93,8 @@ AI–teacher agreement is issue-dependent within a single writing task: F1 reach
 Style is a quality dimension with a cost: with the same model, directive feedback scored higher on prioritizing essential features and on specificity, while [[socratic-method|Socratic]] feedback raised comprehension monitoring — and directive feedback carried the higher cognitive load ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
 
 How the feedback is *produced* belongs on that list too. In a modular automated writing evaluation system for argumentative essays, supervised [[llm-training-and-fine-tuning|fine-tuning]] on 90 teacher-annotated essays produced unusable feedback — the fine-tuned GPT-4o exceeded its 8,000-token context window on every inference and fine-tuned LLaMA-3.3-70B emitted JSON that would not parse. Directly prompting Claude 3.7, by contrast, generated 630 micro comments across 40 essays whose teachers judged 94.69% necessary and effective, leading the authors to conclude that for a non-deterministic generation task prompting can beat fine-tuning ([[wraft-automated-writing-evaluation-argumentative-2026|Labib et al., 2026]]).
+
+The model that plays the learner is not the model that should judge the encounter. In [[kim-ai-simbot-nursing-communication-2026|Kim and Pankhania’s (2026)]] AI SimBot, 98 prelicensure nursing students interviewed a 17-year-old virtual patient played by GPT-4o, and that model’s feedback proved inaccurate and overly positive against the faculty rubric. The evaluator role moved to O3-mini, which gave judgments better grounded in the rubric, at roughly fifty cents per student for the whole speech pipeline. Persona fidelity and evaluative accuracy are separate requirements, and one deployment cannot be assumed to satisfy both.
 
 ## Quality dimensions
 
@@ -200,3 +202,5 @@ A reply correct on the first turn can be wrong by the third: across 11 models, 1
 - [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — Three evaluation dimensions across 68 studies, with rubric alignment the thin one (Yang 2026)
 - [[llm-feedback-handwritten-mathematics-exam-performance-2026]] — Criterion-level and rater-level divergence in 157 rated feedback messages (Vanhoyweghen et al. 2026)
 - [[liu-educational-sycophancy-2026]] — Correctness is interaction-dependent: a 12.7 percent flip rate under pushback (Liu & Korolova 2026)
+
+- [[kim-ai-simbot-nursing-communication-2026]] — AI-Powered Simulation: Leveraging Technology to Advance Nursing Communication Skills with AI SimBot

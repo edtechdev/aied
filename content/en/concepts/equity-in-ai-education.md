@@ -2,7 +2,7 @@
 
 title: Equity
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:36:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -48,6 +48,8 @@ Direct evidence that support can be distributed by need: when adaptive questioni
 Preparation matters more than preference, and the right to refuse is unevenly distributed. Students with strong academic confidence can refuse AI without penalty, while students who need language support, accessibility support or rapid feedback experience refusal as a loss of opportunity, and casual staff may feel pressure to adopt tools that cut preparation time without cutting responsibility. Where a duty to understand is imposed without training, secure infrastructure and clear policy, it becomes hidden workload, and refusal turns into a predictable response to institutional under-preparation rather than resistance to the technology ([[ai-refusal-higher-education-diagnostic-non-use-2026|Zagami 2026]]).
 
 **Rent is paid in three currencies, and owned competence goes with the graduate.** [[rented-self-decoupling-performance-becoming-2026|de Barba (2026)]] argues that capability residing in a commercial tool is available only on the provider's terms, so institutional licenses relocate the landlord rather than remove it: access typically ends with enrollment, and rented capability then persists only for graduates who can keep paying. She adds two further distributions that access debates usually miss — self costs concentrate in acclimation, where learners with less prior domain knowledge spend longest, and rented standards carry the model's reference points, predicted to displace more of the standards of learners whose cultural and linguistic reference points differ from the model's. The same tool widens access and displaces standards at once, which is why she treats naming the capabilities a course must build itself as an equity measure as well as a pedagogical one.
+
+A requirement to use AI can itself be the equity harm, without unequal provision behind it. [[mcdonald-inclusive-assessment-genai-2026|McDonald, Saunders, Kennedy and Tansell (2026)]] ran three focus groups with 19 science students at a Russell Group university and found the harm running in both directions. Requiring generative AI penalized students who were never taught to use it and lacked the hardware, while declining it when peers used it felt like accepting a disadvantage; paid versus free versions were named as a bias, and group work as the place where unequal use becomes unequal workload. Choice across formats was valued only when the options were equivalent, since students feared the essay would be marked worse than the video.
 
 ## Representational equity
 
@@ -199,3 +201,4 @@ Equity also has an environmental and computational dimension: unequal access to 
 - [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — Detection fires hardest on multilingual writers
 - [[li-who-benefits-llms-prompt-engineering-equity-2026]] — Competence mediates the benefit students draw from LLM access (Li et al. 2026)
 
+- [[mcdonald-inclusive-assessment-genai-2026]] — Inclusive assessment design in the age of GenAI: Advancing pedagogy and practice

@@ -1,7 +1,7 @@
 ---
 title: Help-Seeking
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-11-15T15:46:26-05:00"
+updated: "2026-11-16T05:34:55-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -96,6 +96,8 @@ Help-seeking is an integral part of [[self-regulated-learning|self-regulated lea
 
 Population-scale evidence complicates the substitution story: among 12,191 PISA 2025 students in four Chinese regions, more frequent GenAI use for schoolwork went with more academic help-seeking (β = 0.169), not less ([[wu-genai-scientific-literacy-china-2026|Wu et al. (2026)]]).
 
+Logs put the demand on a clock and on the item. In a 215-student Statics course, prompts to the textbook's ChatGPT-backed assistant peaked on Sundays and Mondays and again between 1 and 3 am, the hours when office hours were closed ([[wyszynski-genai-user-input-engineering-statics-2026|Wyszynski, Barry and Dosse, 2026]]). What students ask for tracks difficulty: prompted attempts in a graduate assembly-language course were less likely to be correct (OR = 0.35), and metacognitive prompting concentrated on medium items, where prompted attempts carried 3.79 times the odds of success ([[huang-multi-agent-self-regulated-learning-cs-2026|Huang et al., 2026]]). Item difficulty, more than hint design, decides whether help turns reflective.
+
 ### LLM-mediated help-seeking as a four-stage process
 
 [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg et al. (2026)]] show that, in everyday STEM study, LLM help-seeking is not a single act but a layered, context-dependent process with four stages: (1) *deciding whether help is needed* — students try tasks independently first to preserve learning value; (2) *choosing whom to ask* — ChatGPT as a low-barrier first step, then peers for conceptual negotiation, then instructors for complex or high-stakes issues; (3) *determining the type of help* — from hints and explanations to scaffolding [[problem-solving|problem-solving]], streamlining routine work, and extending learning; and (4) *judging the help received* — exercising selective trust and verifying AI outputs against coursework or with humans. Crucially, students favored **instrumental help-seeking** (enhancing understanding) over **executive help-seeking** (obtaining solutions), a distinction that the authors propose adapting into new SRL-for-LLM measurement items.
@@ -176,3 +178,6 @@ In fully online [[english-education|composition]], availability of the tool is n
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving
 - [[guided-ai-tutor-impasse-resolution-2026]] — Examining Variation in How Guided AI Tutors Resolve Student Impasses
 - [[student-query-demand-hybrid-ai-support-2026]] — What Students Actually Ask: Demand Structure and Automation Potential in a Hybrid Support System
+
+- [[wyszynski-genai-user-input-engineering-statics-2026]] — Examining Student Use of Generative AI Through User-Input Data in an Engineering Statics Course
+- [[huang-multi-agent-self-regulated-learning-cs-2026]] — Multi-Agent Artificial Intelligence Model to Enhance Self-Regulated Learning and Conceptual Understanding in Computer Science Edu...

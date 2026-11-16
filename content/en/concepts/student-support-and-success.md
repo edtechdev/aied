@@ -1,7 +1,7 @@
 ---
 title: Student Support and Success
 created: "2026-10-01T20:31:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:34:40-05:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -78,6 +78,8 @@ The word "success" hides at least five different measurements, and AI support do
 
 The authors' explanation for the pattern is the central claim: a reminder acts on a decision that is discrete and near-term, while persistence and GPA are cumulative and shaped by instruction, finances, employment, family circumstances, and prior preparation. They conclude that communication through a tool like this, **on its own**, may be insufficient to change them — and that the nulls are precise rather than underpowered. Early registration still carries institutional value for staffing and space planning even where learning outcomes do not move.
 
+A support channel can move institutional workload without moving any rung of this ladder. In a first-year engineering design course of more than 800 students, help-form questions per student fell from 1.16 to 0.5, a 57% reduction, while the issue-type mix held at 29% assignment, 33% grade, 27% software and 11% other ([[gupta-ai-virtual-assistant-adoption-engineering-2026|Gupta et al., 2026]]). The authors are explicit that this is a workload result rather than an achievement result, the accounting a support business case usually omits.
+
 ## Equity and the risks of acting on a score
 
 Support systems act on students, which makes their failure modes different from a tutor's. A stress test of six post-hoc fairness interventions on a replicated vendor-controlled early warning system built from 168,550 student records found the interventions failing to deliver the fairness they promised ([[fairness-theatre-early-warning-systems-2026|McConvey et al., 2026]]). A student-advocacy review organizes the risk surface around admissions, recruitment and financial aid, and **student-success services** — the areas where institutional AI bears most directly on students ([[students-at-stake-ai-deployment-risks-2026|Student Defense, 2026]]). Privacy and equity are structural here rather than incidental: federated learning exists because sharing student records across institutions is unacceptable, and the [[human-in-the-loop-ai|human-in-the-loop]] component in the CSUN program is what the authors argue reaches students who ignore email and phone. Administrators answer what the chatbot could not, then add the answer to the material the chatbot draws on.
@@ -149,3 +151,5 @@ Student support connects to [[student-experience|student experience]] as the stu
 - [[credentials-carry-evidence-ai-agents-2026]] — what a completion record means when an agent can do the work
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicting AI-assisted cheating risk early, and the threshold trade-off for low-stakes outreach
 - [[rienties-institutional-ai-assistant-co-design-2026]] — Five co-design studies of an institutional AI study assistant: availability first, values-based resistance last
+
+- [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — From Queries to Conversations: Exploring AI-Based Virtual Assistant Adoption, Usability, and Impact in Engineering Education

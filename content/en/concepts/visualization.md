@@ -5,7 +5,7 @@ type: concept
 technology: [ai-technologies, learning-analytics, multimodal, visualization]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:34:55-05:00"
 reviewed_by: [editor]
 ---
 
@@ -37,6 +37,8 @@ Dashboards also function as shared representations that bridge human and AI reas
 A second major strand concerns AI producing visualizations directly. [[nuclear-diffusion-text-to-image-learning-2026|Radaideh et al., 2026]] shows that domain-adapted text-to-image models can generate accurate illustrations of specialized STEM concepts: fine-tuning Stable Diffusion on nuclear domain images raised domain accuracy from 12% to 78%, enabling instructors to produce correct reactor-component and safety-system visualizations on demand. This generative capacity is powerful but uneven. [[mllm-scientific-visualization-literacy|Phuoc et al., 2026]] [[benchmark|benchmarks]] six multimodal large language models against 485 human participants on scientific visualization literacy, finding no uniform competence: closed-source Gemini exceeded the human mean on several subsets while all [[open-source|open source]] models fell below it, with particular weaknesses in fine-grained [[quantitative-research|quantitative]] estimation and texture-based or integration-based visualizations. AI should therefore support — not substitute for — human visualization literacy, a finding with direct [[ai-literacy|AI literacy]] and [[formative-assessment|formative assessment]] implications.
 
 Prompt-to-chart generation raises a different question from whether AI can produce a competent visualization: whether the learner still performs the analytic and encoding work that makes the artifact educational. A 2026 framework calls this the process–output divide and proposes transparency, invitation, and fading as the agency line between [[scaffolding|scaffolding]] and substitution ([[genai-visualization-education-framework-2026|Purohit et al., 2026]]).
+
+Frequency is not significance, and the gap is a teaching object. A word cloud drawn from the authors' own perovskite manuscript surfaced "PSC," "stability" and "PCE" while under-weighting "space applications," "manufacturing" and "device modeling," and included non-technical words such as "can" and "one" ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra and Gong, 2026]]). A mind map from the same draft organized the field well enough to be useful, so the authors ask students to state what each figure leaves out rather than to read it as a summary.
 
 Ethics and reliability temper enthusiasm for AI-generated visual content. [[data-comics-for-education-evaluating-effectiveness-benefits-ethics|Shan et al. (2026)]] found [[generative-ai|GenAI]]-assisted data comics improved [[student-engagement|engagement]] and comprehension over conventional visualizations regardless of prior visualization literacy, yet participants raised concerns about misinformation risk and [[academic-integrity|authorship]] attribution, and two-thirds flagged downsides such as information overload from overly busy layouts. The counterfactual CFES-P24 benchmark extends this scrutiny to [[cfes-p24-multimodal-slide-auditing-2026|slide auditing]], showing that multimodal LLMs can reliably recognize [[learning-design|learning design]] constructs (operations, principles, evidence localization) while sharply diverging on comparative judgment and severity calibration — evidence that composite scores conceal which capability fails and that confidence is not reliability. Together these works argue for layered [[ai-ed-evaluation|evaluation of AI]]-generated visuals rather than holistic ratings.
 
@@ -75,3 +77,5 @@ Across the works discussed here, visualization emerges as a dual-use medium: AI 
 - [[cfes-p24-multimodal-slide-auditing-2026]] — Counterfactual benchmark for multimodal slide auditing
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
 - [[genai-visualization-education-framework-2026]] — Constructing Meaning, Not Just Charts: A Cognitive–Instructional Framework for Generative AI Usage in Visualisation Education
+
+- [[maitra-next-gen-literature-reviews-ai-guide-2026]] — Next-Gen Literature Reviews: A Practical AI Guide for New Scholars

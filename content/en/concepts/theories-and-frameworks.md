@@ -1,7 +1,7 @@
 ---
 title: Theories and Frameworks
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:34:40-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -56,6 +56,7 @@ These explain mechanisms: they name the parts that do the work and predict what 
 
 - **[[tpack|TPACK]]** — the teacher knowledge that blends technology, pedagogy, and content; the default framework for teacher-facing AI studies.
 - **[[technology-acceptance-model|Adoption models]]** — intention as a function of perceived usefulness and ease of use. Used widely enough that the field's reliance on intention rather than behavior is a standing critique.
+- **Expectation-confirmation model (ECM)** — satisfaction as the confirmation of prior expectations, with continuance rather than initial adoption as the outcome. In a one-semester sociology methods pilot with 24 undergraduates, 87% rated Copilot good or excellent and 91% would recommend it, but only 57% intended to keep using it ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). The gap is the model's point: a satisfied user can still decline to return, so satisfaction and continuance need separate measures.
 - **[[icap-framework|ICAP]]** — ranks engagement as passive, active, constructive, interactive; useful for asking what mode an [[student-ai-interaction|AI interaction]] actually affords.
 - **[[samr-model|SAMR]]** — substitution through redefinition. Popular as a maturity story, weak as a measurement instrument.
 - **[[universal-design-for-learning|Universal design for learning]]**, **[[inclusive-learning|inclusive learning]]**, and **[[accessibility|accessibility]]** — design frames for who gets served, and the ones most often invoked in disability and [[equity-in-ai-education|equity]] work.
@@ -147,3 +148,5 @@ Mechanism-to-theory alignment can nonetheless be decisive: a thematic synthesis 
 - [[yan-agentivism-learning-theory-ai-2026]] — a mid-range learning theory for human-AI interaction
 - [[ai-literacy-instrument-development-systematic-review-2026]] — instrument development across a young construct
 - [[mishra-control-vs-agency-history-2025]] — the field's foundational control-versus-agency tension
+
+- [[wells-genai-research-assistant-sociology-2026]] — Exploring the Role of Generative AI as a Research Assistant in Undergraduate Sociology Research Methods

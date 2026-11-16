@@ -1,7 +1,7 @@
 ---
 title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:34:40-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
@@ -35,6 +35,8 @@ Transparency about *what a system is* — not only what it can do — also shape
 
 In higher-education institutions, the lever may be usefulness rather than rules: among 2,121 students, faculty and staff surveyed at a single university, [[technology-acceptance-model|perceived usefulness]] outweighed policy clarity as a correlate of AI trust (β = 0.402 against 0.223) ([[ai-adaptation-gap-higher-education-2026|Braun & Khafizov, 2026]]).
 **Distrust of accuracy can coexist with confidence in managing the tool.** In a survey of 8,021 students across four Australian universities, 51% distrusted GenAI's factual accuracy while 76% were confident in their ability to get the outputs they wanted, and usefulness rather than trust or rule compliance drove their use ([[genai-use-usefulness-student-experience-australia-2026|Chung et al., 2026]]).
+
+Trust and use also separate at the point of entry. A course assistant in a first-year engineering design course drew 72% of students and 85% of spring respondents intended to keep using it, yet 20% of the 294 users who answered open-ended questions still named lack of trust ([[gupta-ai-virtual-assistant-adoption-engineering-2026|Gupta et al., 2026]]). Among the 201 non-users, 38% gave lack of trust as the reason they never tried it — the same objection was a caveat for users and a closed door for others.
 
 The [[ai-overreliance-complex-adaptive-system-2026|modeling of AI overreliance as a complex adaptive system]] reframes trust as a population-level process: whether people trust an assistant when it is right and check it when it is wrong depends on social dynamics and feedback loops, not just individual judgment. Sycophancy threatens calibration from the other direction — [[ai-sycophancy|an AI that always agrees]] can feel trustworthy precisely because it never challenges the user, inviting uncritical acceptance ([[contextual-sycophancy-ai-literacy|contextual sycophancy]] and [[sycophantic-ai-social-interaction-2026|sycophantic AI in social interaction]]). In [[embodied-learning|embodied]] contexts like [[educational-robotics|educational robotics]], trust is shaped more by what the robot does than what it looks like ([[task-context-trust-educational-hri-2026|task context and trust in educational HRI]]), and [[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|avatar identity]] shapes the epistemic trust learners place in AI content. Trust in [[learning-analytics|analytics]] tools is also context-dependent. [[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain et al. (2026)]] found that teachers' concerns and adoption barriers diverged sharply by learning context: flipped-classroom (university) teachers worried most about data anonymization and student opt-out, whereas reflective-writing (vocational) teachers feared misuse of the tool by fellow educators and stressed the need to contextualize data — even though both groups reported similar [[self-efficacy|self-efficacy]] and perceived benefits in a trust in AI survey. The finding that trust in the tool is decoupled from trust in its data governance and social use underscores that building appropriate trust in analytics requires attending to context-specific concerns, not just the system's apparent competence.
 
@@ -168,3 +170,5 @@ Trust in a tool can carry part of how employable its user feels. Among 579 Chine
 - [[trust-calibration-genai-collaborative-regulation-2026]] — A structural model gives that bridging role an empirical test
 - [[zhu-creative-agency-trust-genai-art-2026]] — Instrumental trust as the strongest predictor of GenAI intention for art students
 - [[yan-genai-employability-career-self-efficacy-2026]] — Trust in GenAI as one indirect route from use to self-perceived employability
+
+- [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — From Queries to Conversations: Exploring AI-Based Virtual Assistant Adoption, Usability, and Impact in Engineering Education

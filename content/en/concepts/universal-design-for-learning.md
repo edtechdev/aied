@@ -1,7 +1,7 @@
 ---
 title: Universal Design for Learning
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:34:40-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -63,6 +63,8 @@ UDL turns "fix the learner" into "fix the design." For instructors and designers
 - Provide choice of assessment product (essay, presentation, video, diagram, code) aligned to the same learning outcome.
 - *Example:* A project allows submission as a written report, an AI-assisted video explainer, or a live demonstration — with AI [[scaffolding|scaffolds]] supporting each mode. In [[assessment|assessment]] design, this parallels [[authentic-assessment|authentic assessment]]'s representational fairness.
 
+Choice only includes when the options look equally credible. Students in one Faculty of Science study liked choosing between a video and an essay but reported that peers feared the essay would be marked worse, so shared criteria and an explained marking logic are what turn a menu of formats into inclusion rather than strategic guessing ([[mcdonald-inclusive-assessment-genai-2026|McDonald et al., 2026]]).
+
 **Design for AI-literacy and agency.**
 - Teach students how and when to use AI, and build checkpoints that keep the learner (not the tool) accountable — see [[ai-literacy|AI literacy]] and [[reducing-ai-misuse|reducing AI misuse]].
 - *Example:* A UDL-aligned assignment lets students use AI to draft but requires a [[metacognition|metacognitive]] reflection on their own contribution, preserving the engagement and agency principles.
@@ -112,3 +114,5 @@ UDL turns "fix the learner" into "fix the design." For instructors and designers
 - [[faculty-accessible-course-design-ai-2026]] — “AI is reducing options I had used”: exploring faculty perceptions of accessible course design in a ChatGPT world
 
 - [[alenezi-ai-universal-design-learning-kuwait-2026]] — Artificial intelligence and universal design for learning in Kuwait's higher education institutions: towards an AI-enabled framework for inclusive education
+
+- [[mcdonald-inclusive-assessment-genai-2026]] — Inclusive assessment design in the age of GenAI: Advancing pedagogy and practice

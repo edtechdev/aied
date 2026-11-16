@@ -1,7 +1,7 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:34:25-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -37,6 +37,7 @@ A 42-study meta-analysis (56 effect sizes, 6,059 students) found GenAI-supported
 - **Unreflective use erodes motivation — more so for men.** Thoughtless GenAI use (accepting answers unexamined) predicted lower motivation (β = −0.54) and lower [[self-efficacy|self-efficacy]] (β = −0.37) among 487 undergraduates, and the motivation effect was significantly stronger for male students while the self-efficacy effect was stronger for female students ([[genai-thoughtless-use-self-directed-learning-2026|Zhao & Gu, 2026]]).
 - **Cutting frustration is not the same as sustaining motivation.** A three-arm [[rct|RCT]] found a scaffolded tutor and unrestricted ChatGPT cut frustration equally (3.21 and 3.13 vs 4.09), but only the scaffolded tutor raised intrinsic motivation (2.82 vs 2.42, p < .001); ChatGPT did not (2.64, p = .076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
 - **Equal feedback quality does not mean an equal motivational effect.** A three-arm RCT with 312 first-year writers found AI-generated and instructor feedback improved revised essays by the same margin: d = 0.60 and 0.59, equivalent inside a pre-specified ±0.35 SD band. Instructor feedback nonetheless raised intrinsic motivation more than AI feedback (5.16 vs 4.90, d = 0.31), and perceived relatedness to the source mediated that gap (indirect 0.25, 95% CI [0.12, 0.40]) with almost no direct effect left ([[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026|Liu et al. (2026)]]). Performance ran through feedback engagement rather than self-efficacy, whose indirect path was not significant. Where the Bassner trial separated autonomy from answer-supply, this one holds output quality constant and locates the motivational difference in who the learner is answering.
+- **Engagement frequency, not prior proficiency, predicted motivation.** In a 12-week EFL study of 310 students, use frequency was the only significant predictor of motivation (β = .46, 20.4% of variance), and prior proficiency and anxiety were dropped as non-significant ([[mekheimer-motivation-ethics-trust-efl-2026|Mekheimer and Fageeh (2026)]]). The authors read it as a democratizing effect: gains accrued to whoever used the tools rather than to whoever arrived strongest.
 
 Why a reader reaches for AI is itself a measurable variable: the AIR scale resolves four motives for GenAI-assisted reading — Task-oriented, Feel-good, Translation and Low-effort — and only Low-effort, using AI when tired or disengaged, was negatively related to need for cognition (r = −.18) ([[air-scale-motivations-ai-reading-2026|Brann, Etgar and Sidi (2026)]]).
 
@@ -133,3 +134,4 @@ Motivation is the parent construct of [[self-determination-theory|self-determina
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — Scaffolded tutor raised intrinsic motivation where unrestricted ChatGPT did not
 - [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — Matched-quality AI and instructor feedback, with the motivational gap running through relatedness (Liu et al. 2026)
 - [[pan-generative-ai-student-motivation-sdt-review-2026]] - SDT-guided review of 39 studies: needs and engagement measured often, motivational regulation almost never
+- [[mekheimer-motivation-ethics-trust-efl-2026]] — Use frequency as the sole significant predictor of motivation in a 12-week EFL study

@@ -2,7 +2,7 @@
 connected_resources: [student-guide-to-ai]
 title: Metacognition
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T05:34:55-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition, scaffolding, self-regulated-learning]
@@ -74,6 +74,8 @@ When AI is designed to support reflection rather than replace it, metacognition 
 - **Assign an AI-use level per task.** HAIML pairs its three layers with Four AI Use Levels — from no AI use, through brainstorming, to AI collaboration and AI-integrated creation with output evaluation — so an instructor sets the level for a task and keeps metacognitive reflection central at every level ([[haiml-human-centered-ai-metacognitive-model-2026|Reardon, 2026]]).
 - The **example-based course** in Scheu et al.'s [[conversational-ai|chatbot]] increased **perceived competence** (a metacognitive [[self-assessment|self-assessment]]) even when the [[llm|LLM]] assistant alone did not
 - **An emerging framing puts the system, not just the individual, in the loop.** A bibliometric–[[meta-analysis-systematic-review|systematic review]] of 135 STEM-classroom studies (24 core studies) finds a posthumanist framing emerging that positions AI as a co-regulator of learning, shifting the unit of analysis from individual reflection to system-level [[regulation|regulation]] and [[distributed-cognition|distributed cognition]] ([[ai-metacognition-stem-review|Tsakeni et al. (2025)]]).
+
+Difficulty sets the ceiling on that demand. Across 109 help-seeking attempts in a graduate assembly-language course, metacognitive prompting was rare on low-difficulty items and concentrated at medium difficulty, where prompted attempts carried 3.79 times the odds of a correct answer ([[huang-multi-agent-self-regulated-learning-cs-2026|Huang et al., 2026]]). Prompted attempts overall were less likely to be correct (OR = 0.35), which the authors read as hints spent where knowledge ran out rather than as dependence. An item bank pitched at recall will not produce the reflective dialogue the scaffold is built for.
 
 [[marrone-genai-qualitative-coding-metacognitive-reflections-2026|Marrone et al. (2026)]] fine-tuned GPT-4o-mini to identify four metacognitive sub-elements — Goal Setting, Strategy Choice, Reflection on Learning and Effort Regulation — at the sentence level in 14,100 classroom reflections. Human reliability set the ceiling: initial double coding agreed at κ = 0.32 to 0.51, calibration lifted agreement to κ = 0.52 to 1.00, and model accuracy followed the same ordering — Goal Setting at 91.28%, Reflection on Learning at 67.44%, Effort Regulation at 60.74% — across 18,883 labeled samples.
 
@@ -227,3 +229,5 @@ Executive function is the neighbouring construct, and one result separates them 
 - [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — When monitoring is skipped, and what it costs
 - [[wilder-adhd-ai-interview-eye-tracking-2025]] — Cognitive flexibility predicts interview tier; self-reported regulation does not
 - [[sidorkin-extended-executive-cognition-2025]] — Extended executive cognition as a learning outcome (framework)
+
+- [[huang-multi-agent-self-regulated-learning-cs-2026]] — Multi-Agent Artificial Intelligence Model to Enhance Self-Regulated Learning and Conceptual Understanding in Computer Science Edu...
