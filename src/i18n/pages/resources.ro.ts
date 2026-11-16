@@ -26,9 +26,10 @@ const ro: ResourcesStrings = {
   ],
   empty: 'Nicio resursă încă.',
   groupLabels: {
-    software: 'Software',
+    application: 'Aplicații',
     'ai tutor': 'Tutorii AI',
     'agent skill': 'Competențe pentru agenți',
+    'developer tool': 'Instrumente pentru dezvoltatori și servere',
     'prompt or gem library': 'Biblioteci de prompturi și gem-uri',
     'collection of tools': 'Colecții de instrumente',
     'collection of activities': 'Colecții de activități',

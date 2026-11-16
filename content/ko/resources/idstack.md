@@ -7,7 +7,7 @@ summary: "교수설계 증거 기반에 비추어 강좌를 감사하는 열한 
 url: https://idstack.org/
 source_code: https://github.com/savvides/idstack
 author: "savvides"
-resource_type: [agent skill, software]
+resource_type: [agent skill, developer tool]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-24"

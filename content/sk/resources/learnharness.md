@@ -7,7 +7,7 @@ url: https://learnharness.ai
 source_code: https://github.com/amosblomqvist/learnharness
 author: "Amos Blomqvist"
 author_url: https://github.com/amosblomqvist
-resource_type: [software, ai tutor]
+resource_type: [application, ai tutor]
 access: [free]
 license: "AGPL-3.0"
 last_verified: "2026-11-02"

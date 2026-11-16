@@ -6,7 +6,7 @@ type: resource
 summary: "대학 에세이를 위한 교수자 통제형 AI 피드백 플랫폼입니다. 200가지가 넘는 유형의 OER 라이브러리에서 가져온 피드백 프롬프트, AI 제안마다의 구조화된 학생 성찰, AI 학급 요약이 있는 교수자 대시보드, Canvas·Blackboard·Moodle과의 LTI 통합을 제공합니다."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

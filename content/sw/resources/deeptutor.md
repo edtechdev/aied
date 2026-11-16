@@ -5,7 +5,7 @@ type: resource
 summary: "Toleo la chanzo huria la mfumo wa ualimu wa wakala wa DeepTutor: nafasi moja ya kazi kwa ualimu, uzalishaji wa maswali, mazoezi ya umahiri, utafiti na taswira, pamoja na kumbukumbu ya mwanafunzi inayoweza kukaguliwa."
 url: https://github.com/HKUDS/DeepTutor
 author: "HKU Data Intelligence Lab (HKUDS)"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "Apache 2.0"
 last_verified: "2026-09-20"

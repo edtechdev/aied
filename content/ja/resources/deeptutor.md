@@ -6,7 +6,7 @@ type: resource
 summary: "DeepTutor のエージェント型チュータリングフレームワークのオープンソース実装。チュータリング、問題生成、習熟度練習、調査、可視化を 1 つのワークスペースにまとめ、学習者の記憶を検査可能にしています。"
 url: https://github.com/HKUDS/DeepTutor
 author: "HKU Data Intelligence Lab (HKUDS)"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "Apache 2.0"
 last_verified: "2026-09-20"

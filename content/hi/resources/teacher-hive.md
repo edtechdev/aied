@@ -7,7 +7,7 @@ summary: "Tony Vincent का निःशुल्क उपयोग वाल
 url: https://teacherhive.app/
 author: "Tony Vincent"
 author_url: https://teacherhive.app/about
-resource_type: [software, collection of tools]
+resource_type: [application, collection of tools]
 access: [freemium]
 last_verified: "2026-11-10"
 foundations: [teacher-ai-competency]

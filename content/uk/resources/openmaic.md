@@ -5,7 +5,7 @@ type: resource
 summary: "Відкрите видання коду MAIC: мультиагентна аудиторія, що перетворює тему або документ на слайди, вікторини, інтерактивні симуляції та проєктні завдання, які проводять учителі-ШІ та однокласники-ШІ."
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

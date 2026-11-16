@@ -7,7 +7,7 @@ summary: "Een open-source Moodle-vraagtype (GPL v3) dat antwoorden in vrije teks
 url: https://github.com/marcusgreen/moodle-qtype_aitext
 source_code: https://github.com/marcusgreen/moodle-qtype_aitext
 author: "Marcus Green"
-resource_type: [software]
+resource_type: [developer tool]
 access: [free]
 license: "GPL v3 or later"
 last_verified: "2026-11-12"

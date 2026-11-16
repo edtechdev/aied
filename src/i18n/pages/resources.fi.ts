@@ -26,9 +26,10 @@ const fi: ResourcesStrings = {
   ],
   empty: 'Resursseja ei ole vielä.',
   groupLabels: {
-    software: 'Ohjelmisto',
+    application: 'Sovellukset',
     'ai tutor': 'Tekoälytuutorit',
     'agent skill': 'Agentin taidot',
+    'developer tool': 'Kehittäjä- ja palvelintyökalut',
     'prompt or gem library': 'Kehote- ja gemikirjastot',
     'collection of tools': 'Työkalukokoelmat',
     'collection of activities': 'Aktiviteettikokoelmat',

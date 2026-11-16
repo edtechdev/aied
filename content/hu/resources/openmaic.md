@@ -5,7 +5,7 @@ type: resource
 summary: "A MAIC nyílt forráskódú kiadása: többügynökös tanterem, amely egy témát vagy dokumentumot diákká, kvízekké, interaktív szimulációkká és projektalapú tevékenységekké alakít, MI-tanárok és MI-osztálytársak előadásában."
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

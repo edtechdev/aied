@@ -6,7 +6,7 @@ type: resource
 summary: "Platform umpan balik AI yang dikendalikan pengajar untuk esai perguruan tinggi: prompt umpan balik yang diambil dari pustaka OER berisi 200+ jenis, refleksi siswa terstruktur atas setiap saran AI, dasbor pengajar dengan ringkasan kelas dari AI, dan integrasi LTI dengan Canvas, Blackboard, dan Moodle."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

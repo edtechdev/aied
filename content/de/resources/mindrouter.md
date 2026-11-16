@@ -7,7 +7,7 @@ summary: "Ein Apache-2.0-Inferenz-Gateway der University of Idaho, das einen Cam
 url: https://github.com/ui-insight/MindRouter
 source_code: https://github.com/ui-insight/MindRouter
 author: "University of Idaho (ui-insight)"
-resource_type: [software]
+resource_type: [developer tool]
 access: [free]
 license: "Apache-2.0"
 last_verified: "2026-11-12"

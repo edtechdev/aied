@@ -5,7 +5,7 @@ type: resource
 summary: "Den öppna källkodsutgåvan av MAIC: ett multiagentklassrum som gör ett ämne eller dokument till bildspel, quiz, interaktiva simuleringar och projektbaserade aktiviteter, framfört av AI-lärare och AI-klasskamrater."
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

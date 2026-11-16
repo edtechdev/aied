@@ -7,7 +7,7 @@ summary: "Google 的基于来源的笔记本助手（2026 年 7 月前名为 Not
 url: https://notebook.google/
 author: "Google Labs"
 author_url: https://notebook.google/
-resource_type: [software]
+resource_type: [application]
 access: [free with account, freemium]
 last_verified: "2026-09-22"
 technology: [generative-ai, rag, llm, multimodal]

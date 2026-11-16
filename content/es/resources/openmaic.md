@@ -6,7 +6,7 @@ type: resource
 summary: "La versión de código abierto de MAIC: un aula multiagente que convierte un tema o un documento en diapositivas, cuestionarios, simulaciones interactivas y actividades basadas en proyectos, impartidos por profesores y compañeros de clase de IA."
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

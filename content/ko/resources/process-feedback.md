@@ -6,7 +6,7 @@ type: resource
 summary: "AI 탐지의 무료 대안으로, 글의 작성 과정을 기록하여 판결이 아니라 학습에 관한 대화를 위한 보고서로 만들어냅니다."
 url: https://processfeedback.org/
 author: "The Process Feedback project"
-resource_type: [software]
+resource_type: [application]
 access: [free with account]
 last_verified: "2026-09-23"
 foundations: [academic-integrity, ai-literacy]

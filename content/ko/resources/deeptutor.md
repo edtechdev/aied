@@ -6,7 +6,7 @@ type: resource
 summary: "에이전트형 튜터링 프레임워크 DeepTutor의 오픈소스 공개 버전: 검사 가능한 학습자 메모리를 갖추고, 튜터링·문제 생성·숙달 연습·연구·시각화를 하나의 워크스페이스에서 다룹니다."
 url: https://github.com/HKUDS/DeepTutor
 author: "HKU Data Intelligence Lab (HKUDS)"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "Apache 2.0"
 last_verified: "2026-09-20"

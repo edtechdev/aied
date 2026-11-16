@@ -26,9 +26,10 @@ const ur: ResourcesStrings = {
   ],
   empty: 'ابھی کوئی وسیلہ موجود نہیں۔',
   groupLabels: {
-    software: 'سافٹ ویئر',
+    application: 'ایپلیکیشنز',
     'ai tutor': 'AI اساتذہ',
     'agent skill': 'ایجنٹ مہارتیں',
+    'developer tool': 'ڈویلپر اور سرور ٹولز',
     'prompt or gem library': 'پرامپٹ اور Gem کے کتب خانے',
     'collection of tools': 'اوزار کے مجموعے',
     'collection of activities': 'سرگرمیوں کے مجموعے',

@@ -8,7 +8,7 @@ url: https://clarity.addy.ie/
 source_code: https://github.com/addyosmani/clarity
 author: "Addy Osmani"
 author_url: https://addyosmani.com/
-resource_type: [agent skill, software]
+resource_type: [agent skill, application]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-24"

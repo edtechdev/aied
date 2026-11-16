@@ -6,7 +6,7 @@ type: resource
 summary: "Μια πλατφόρμα σχολίων με ΤΝ υπό τον έλεγχο του διδάσκοντα για πανεπιστημιακά δοκίμια: προτροπές σχολίων από βιβλιοθήκη OER με 200+ τύπους, δομημένοι στοχασμοί των φοιτητών σε κάθε πρόταση της ΤΝ, πίνακας ελέγχου διδάσκοντα με σύνοψη τάξης από ΤΝ και ενσωμάτωση LTI με Canvas, Blackboard και Moodle."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

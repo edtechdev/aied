@@ -7,7 +7,7 @@ summary: "En Apache-2.0-gateway för inferens från University of Idaho som fron
 url: https://github.com/ui-insight/MindRouter
 source_code: https://github.com/ui-insight/MindRouter
 author: "University of Idaho (ui-insight)"
-resource_type: [software]
+resource_type: [developer tool]
 access: [free]
 license: "Apache-2.0"
 last_verified: "2026-11-12"

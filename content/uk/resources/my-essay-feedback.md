@@ -6,7 +6,7 @@ type: resource
 summary: "Платформа зворотного зв’язку на основі ШІ для коледжних есе, контрольована викладачем: промпти зворотного зв’язку з бібліотеки OER із понад 200 типами, структуровані рефлексії студентів щодо кожної пропозиції ШІ, панель викладача зі ШІ-підсумком по класу та інтеграція LTI з Canvas, Blackboard і Moodle."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

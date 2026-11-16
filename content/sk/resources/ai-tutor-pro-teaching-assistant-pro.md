@@ -7,7 +7,7 @@ summary: "Dve bezplatné webové aplikácie AI od Contact North bez registrácie
 url: https://www.aitutorpro.ca/
 author: "Contact North | Contact Nord"
 author_url: https://contactnorth.ca/
-resource_type: [software, ai tutor, collection of tools]
+resource_type: [application, ai tutor, collection of tools]
 access: [free]
 last_verified: "2026-11-10"
 foundations: [ai-literacy]

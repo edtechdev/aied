@@ -6,7 +6,7 @@ type: resource
 summary: "La publication open source de MAIC : une classe multi-agents qui transforme un sujet ou un document en diapositives, quiz, simulations interactives et activités par projet, animée par des enseignants et des camarades d'IA."
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

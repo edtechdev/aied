@@ -26,9 +26,10 @@ const ko: ResourcesStrings = {
   ],
   empty: '아직 리소스가 없습니다.',
   groupLabels: {
-    software: '소프트웨어',
+    application: '애플리케이션',
     'ai tutor': 'AI 튜터',
     'agent skill': '에이전트 스킬',
+    'developer tool': '개발자 및 서버 도구',
     'prompt or gem library': '프롬프트 및 Gem 라이브러리',
     'collection of tools': '도구 모음',
     'collection of activities': '활동 모음',

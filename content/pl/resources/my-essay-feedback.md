@@ -6,7 +6,7 @@ type: resource
 summary: "Kontrolowana przez prowadzącego platforma informacji zwrotnej AI do esejów akademickich: prompty informacji zwrotnej z biblioteki OER ponad 200 typów, ustrukturyzowane refleksje studentów nad każdą sugestią AI, panel prowadzącego z podsumowaniem klasy generowanym przez AI oraz integracja LTI z Canvas, Blackboard i Moodle."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

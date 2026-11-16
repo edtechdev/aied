@@ -5,7 +5,7 @@ type: resource
 summary: "O alternativă gratuită, bazată pe proces, la detectarea IA: înregistrează cum a fost produs un text și transformă asta într-un raport pentru o conversație despre învățare, nu într-o sentință."
 url: https://processfeedback.org/
 author: "The Process Feedback project"
-resource_type: [software]
+resource_type: [application]
 access: [free with account]
 last_verified: "2026-09-23"
 foundations: [academic-integrity, ai-literacy]

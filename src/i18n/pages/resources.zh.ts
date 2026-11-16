@@ -26,9 +26,10 @@ const zh: ResourcesStrings = {
   ],
   empty: '暂无资源。',
   groupLabels: {
-    software: '软件',
+    application: '应用',
     'ai tutor': 'AI 辅导工具',
     'agent skill': '智能体技能',
+    'developer tool': '开发者与服务器工具',
     'prompt or gem library': '提示词与 gem 资源库',
     'collection of tools': '工具合集',
     'collection of activities': '活动合集',

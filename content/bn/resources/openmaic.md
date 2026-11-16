@@ -5,7 +5,7 @@ type: resource
 summary: "MAIC-এর ওপেন-সোর্স রিলিজ: একটি মাল্টি-এজেন্ট শ্রেণিকক্ষ, যা একটি বিষয় বা নথিকে স্লাইড, কুইজ, ইন্টারঅ্যাকটিভ সিমুলেশন ও প্রকল্পভিত্তিক কার্যকলাপে বদলায়, এবং এআই শিক্ষক ও সহপাঠীরা তা পরিবেশন করে।"
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

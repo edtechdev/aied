@@ -6,7 +6,7 @@ type: resource
 summary: "An instructor-controlled AI feedback platform for college essays: feedback prompts drawn from an OER library of 200+ types, structured student reflections on each AI suggestion, an instructor dashboard with an AI class summary, and LTI integration with Canvas, Blackboard and Moodle."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

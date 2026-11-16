@@ -7,7 +7,7 @@ summary: "コースをインストラクショナルデザインのエビデン�
 url: https://idstack.org/
 source_code: https://github.com/savvides/idstack
 author: "savvides"
-resource_type: [agent skill, software]
+resource_type: [agent skill, developer tool]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-24"

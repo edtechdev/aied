@@ -26,9 +26,10 @@ const fr: ResourcesStrings = {
   ],
   empty: 'Aucune ressource pour le moment.',
   groupLabels: {
-    software: 'Logiciels',
+    application: 'Applications',
     'ai tutor': 'Tuteurs d\'IA',
     'agent skill': 'Compétences d\'agent',
+    'developer tool': 'Outils pour développeurs et serveurs',
     'prompt or gem library': 'Bibliothèques de consignes et de gems',
     'collection of tools': 'Collections d\'outils',
     'collection of activities': 'Collections d\'activités',

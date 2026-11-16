@@ -7,7 +7,7 @@ summary: "프로그래밍 수업의 모든 학생에게 구두 코드 방어의 
 url: https://code-viva.netlify.app/
 author: "Code Viva"
 author_url: https://code-viva.netlify.app/
-resource_type: [software]
+resource_type: [application]
 access: [free]
 last_verified: "2026-10-24"
 foundations: [academic-integrity]

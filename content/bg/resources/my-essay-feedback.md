@@ -6,7 +6,7 @@ type: resource
 summary: "Платформа за обратна връзка с AI, контролирана от преподавателя, за есета в колеж: подкани за обратна връзка, изтеглени от OER библиотека с над 200 типа, структурирани размисли на студентите върху всяко AI предложение, табло за преподавателя с AI обобщение на класа и LTI интеграция с Canvas, Blackboard и Moodle."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

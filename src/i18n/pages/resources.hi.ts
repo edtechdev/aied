@@ -26,9 +26,10 @@ const hi: ResourcesStrings = {
   ],
   empty: 'अभी कोई संसाधन नहीं है।',
   groupLabels: {
-    software: 'सॉफ़्टवेयर',
+    application: 'एप्लिकेशन',
     'ai tutor': 'AI शिक्षक',
     'agent skill': 'एजेंट कौशल',
+    'developer tool': 'डेवलपर और सर्वर टूल्स',
     'prompt or gem library': 'प्रॉम्प्ट और जेम संग्रह',
     'collection of tools': 'उपकरणों के संग्रह',
     'collection of activities': 'गतिविधियों के संग्रह',

@@ -5,7 +5,7 @@ type: resource
 summary: "Open-source vydanie MAIC: multiagentná trieda, ktorá z témy alebo dokumentu urobí slajdy, kvízy, interaktívne simulácie a projektové aktivity, ktoré odučia učitelia AI a spolužiaci AI."
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

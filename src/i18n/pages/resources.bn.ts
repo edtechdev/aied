@@ -26,9 +26,10 @@ const bn: ResourcesStrings = {
   ],
   empty: 'এখনও কোনো রিসোর্স নেই।',
   groupLabels: {
-    software: 'সফটওয়্যার',
+    application: 'অ্যাপ্লিকেশন',
     'ai tutor': 'AI টিউটর',
     'agent skill': 'এজেন্ট স্কিল',
+    'developer tool': 'ডেভেলপার ও সার্ভার টুলস',
     'prompt or gem library': 'প্রম্পট ও জেম লাইব্রেরি',
     'collection of tools': 'টুলের সংগ্রহ',
     'collection of activities': 'কার্যক্রমের সংগ্রহ',

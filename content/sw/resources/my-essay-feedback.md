@@ -6,7 +6,7 @@ type: resource
 summary: "Jukwaa la maoni ya AI linalodhibitiwa na mwalimu kwa insha za chuo: ilani za maoni kutoka maktaba ya OER ya aina 200+, tafakari za wanafunzi zilizopangwa kwa kila pendekezo la AI, dashibodi ya mwalimu yenye muhtasari wa darasa wa AI, na muunganisho wa LTI na Canvas, Blackboard na Moodle."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

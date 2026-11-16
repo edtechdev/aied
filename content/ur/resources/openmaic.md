@@ -5,7 +5,7 @@ type: resource
 summary: "MAIC کا اوپن سورس اجرا: کثیر ایجنٹ کلاس روم جو موضوع یا دستاویز کو سلائیڈوں، کوئز، انٹرایکٹو سمیولیشنز اور پروجیکٹ سرگرمیوں میں بدلتا ہے۔"
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

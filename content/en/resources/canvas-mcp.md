@@ -1,14 +1,14 @@
 ---
 title: "Canvas MCP"
-created: "2026-11-16T10:05:00-05:00"
-updated: "2026-11-16T10:05:00-05:00"
+created: "2026-11-16T07:29:00-05:00"
+updated: "2026-11-16T07:29:00-05:00"
 type: resource
 summary: "An open-source MCP server that lets Claude, Cursor, Codex and other agents read and act inside Canvas LMS — student, educator and learning-designer tools, with write actions gated and optional anonymization for student data."
 url: https://github.com/vishalsachdev/canvas-mcp
 source_code: https://github.com/vishalsachdev/canvas-mcp
 author: "Vishal Sachdev"
 author_url: https://github.com/vishalsachdev
-resource_type: [software, agent skill]
+resource_type: [developer tool, agent skill]
 access: [free]
 license: "MIT"
 last_verified: "2026-11-16"

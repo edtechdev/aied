@@ -358,9 +358,10 @@ const faqs = defineCollection({
 // The shared typed facets still apply, so a resource joins the same concept graph
 // and the same search filters as articles and concept pages.
 const RESOURCE_TYPES = [
-    'software',
+    'application',
     'ai tutor',
     'agent skill',
+    'developer tool',
     'prompt or gem library',
     'collection of tools',
     'collection of activities',

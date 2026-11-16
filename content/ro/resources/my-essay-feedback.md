@@ -6,7 +6,7 @@ type: resource
 summary: "O platformă de feedback cu IA controlată de instructor pentru eseuri universitare: prompturi de feedback luate dintr-o bibliotecă OER cu peste 200 de tipuri, reflecții structurate ale studenților la fiecare sugestie a IA, un tablou de bord al instructorului cu un rezumat de clasă generat de IA și integrare LTI cu Canvas, Blackboard și Moodle."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

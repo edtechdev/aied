@@ -10,7 +10,7 @@ author_url: https://nextgenailearning.com/about
 foundations: [learning-design]
 pedagogy: [online-teaching-and-learning]
 assessment: [formative-assessment]
-resource_type: [collection of tools, software]
+resource_type: [collection of tools, application]
 access: [free]
 last_verified: "2026-09-20"
 level: [higher ed]

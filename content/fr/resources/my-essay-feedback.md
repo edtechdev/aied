@@ -6,7 +6,7 @@ type: resource
 summary: "Une plateforme de retour par IA contrôlée par l'enseignant pour les dissertations universitaires : invites de retour tirées d'une bibliothèque de ressources éducatives libres de plus de 200 types, réflexions structurées des étudiants sur chaque suggestion de l'IA, tableau de bord enseignant avec synthèse de classe par IA et intégration LTI avec Canvas, Blackboard et Moodle."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

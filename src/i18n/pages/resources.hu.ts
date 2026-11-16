@@ -26,9 +26,10 @@ const hu: ResourcesStrings = {
   ],
   empty: 'Még nincs forrás.',
   groupLabels: {
-    software: 'Szoftver',
+    application: 'Alkalmazások',
     'ai tutor': 'AI-oktatók',
     'agent skill': 'Ügynök-készségek',
+    'developer tool': 'Fejlesztői és szervereszközök',
     'prompt or gem library': 'Prompt- és gyöngyszem-könyvtárak',
     'collection of tools': 'Eszközgyűjtemények',
     'collection of activities': 'Tevékenység-gyűjtemények',

@@ -6,7 +6,7 @@ type: resource
 summary: "Platforma za povratne informacije uz AI koju kontrolira nastavnik, za fakultetske eseje: upiti za povratne informacije iz OER knjižnice s više od 200 vrsta, strukturirane studentske refleksije o svakom AI prijedlogu, nastavnička nadzorna ploča sa AI sažetkom razreda i LTI integracija s Canvasom, Blackboardom i Moodleom."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

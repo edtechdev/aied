@@ -26,9 +26,10 @@ const nl: ResourcesStrings = {
   ],
   empty: 'Nog geen bronnen.',
   groupLabels: {
-    software: 'Software',
+    application: 'Applicaties',
     'ai tutor': 'AI-tutoren',
     'agent skill': 'Agentvaardigheden',
+    'developer tool': 'Ontwikkelaars- en servertools',
     'prompt or gem library': 'Prompt- en gem-bibliotheken',
     'collection of tools': 'Collecties met tools',
     'collection of activities': 'Collecties met activiteiten',

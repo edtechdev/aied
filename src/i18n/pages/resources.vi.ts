@@ -26,9 +26,10 @@ const vi: ResourcesStrings = {
   ],
   empty: 'Chưa có tài nguyên.',
   groupLabels: {
-    software: 'Phần mềm',
+    application: 'Ứng dụng',
     'ai tutor': 'Gia sư AI',
     'agent skill': 'Kỹ năng cho tác nhân',
+    'developer tool': 'Công cụ cho nhà phát triển và máy chủ',
     'prompt or gem library': 'Thư viện prompt và gem',
     'collection of tools': 'Bộ sưu tập công cụ',
     'collection of activities': 'Bộ sưu tập hoạt động',

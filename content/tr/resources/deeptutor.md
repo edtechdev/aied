@@ -5,7 +5,7 @@ type: resource
 summary: "DeepTutor ajan temelli özel ders çerçevesinin açık kaynaklı sürümü: özel ders, soru üretimi, ustalık çalışması, araştırma ve görselleştirme için tek bir çalışma alanı, incelenebilir öğrenen belleğiyle."
 url: https://github.com/HKUDS/DeepTutor
 author: "HKU Data Intelligence Lab (HKUDS)"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "Apache 2.0"
 last_verified: "2026-09-20"

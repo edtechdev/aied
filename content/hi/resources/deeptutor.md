@@ -6,7 +6,7 @@ type: resource
 summary: "डीपट्यूटर एजेंटिक ट्यूटरिंग फ्रेमवर्क का ओपन-सोर्स रिलीज़: ट्यूटरिंग, प्रश्न निर्माण, महारत अभ्यास, अनुसंधान और विज़ुअलाइज़ेशन के लिए एक ही वर्कस्पेस, जिसमें जाँचने योग्य शिक्षार्थी स्मृति (learner memory) शामिल है।"
 url: https://github.com/HKUDS/DeepTutor
 author: "HKU Data Intelligence Lab (HKUDS)"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "Apache 2.0"
 last_verified: "2026-09-20"

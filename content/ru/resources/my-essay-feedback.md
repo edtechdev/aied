@@ -6,7 +6,7 @@ type: resource
 summary: "Платформа обратной связи на основе ИИ для эссе в колледже, контролируемая преподавателем: промпты обратной связи из библиотеки OER с более чем 200 типами, структурированные рефлексии студентов по каждому предложению ИИ, панель преподавателя с ИИ-сводкой по классу и интеграция LTI с Canvas, Blackboard и Moodle."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

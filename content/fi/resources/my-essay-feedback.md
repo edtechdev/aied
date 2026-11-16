@@ -6,7 +6,7 @@ type: resource
 summary: "Opettajan hallitsema tekoälypalautteen alusta korkeakouluesseille: palautekehotukset 200+ tyypin OER-kirjastosta, jäsennellyt opiskelijoiden refleksiot jokaisesta tekoälyehdotuksesta, opettajan kojelauta tekoälyn luomalla luokkayhteenvedolla ja LTI-integraatio Canvasin, Blackboardin ja Moodlen kanssa."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

@@ -6,7 +6,7 @@ type: resource
 summary: "En lärarkontrollerad plattform för AI-återkoppling på högskoleuppsatser: återkopplingspromptar hämtade från ett OER-bibliotek med 200+ typer, strukturerade studentreflektioner över varje AI-förslag, en lärarinstrumentpanel med en AI-genererad klassammanfattning och LTI-integration med Canvas, Blackboard och Moodle."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

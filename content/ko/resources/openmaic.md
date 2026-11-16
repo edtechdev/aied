@@ -6,7 +6,7 @@ type: resource
 summary: "MAIC의 오픈소스 공개 버전: 주제나 문서를 슬라이드, 퀴즈, 인터랙티브 시뮬레이션, 프로젝트 기반 활동으로 바꾸어 AI 교사와 AI 급우가 전달하는 다중 에이전트 교실입니다."
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

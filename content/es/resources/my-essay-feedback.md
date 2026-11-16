@@ -6,7 +6,7 @@ type: resource
 summary: "Una plataforma de retroalimentación con IA controlada por el profesorado para ensayos universitarios: instrucciones de retroalimentación extraídas de una biblioteca de recursos educativos abiertos con 200+ tipos, reflexiones estructuradas del estudiantado sobre cada sugerencia de la IA, un panel docente con un resumen de la clase generado por IA e integración LTI con Canvas, Blackboard y Moodle."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

@@ -7,7 +7,7 @@ summary: "Un dialecto abierto de Markdown que convierte un archivo de texto plan
 url: https://liascript.github.io/
 source_code: https://github.com/LiaScript/LiaScript
 author: "André Dietrich and contributors"
-resource_type: [open format or specification, software, collection of tools]
+resource_type: [open format or specification, developer tool, collection of tools]
 access: [free]
 license: "BSD-3-Clause"
 last_verified: "2026-09-24"

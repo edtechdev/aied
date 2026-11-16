@@ -5,7 +5,7 @@ type: resource
 summary: "Bản mã nguồn mở của khung dạy kèm tác tử DeepTutor: một không gian làm việc cho dạy kèm, tạo câu hỏi, luyện thành thạo, nghiên cứu và trực quan hóa, với bộ nhớ người học có thể kiểm tra."
 url: https://github.com/HKUDS/DeepTutor
 author: "HKU Data Intelligence Lab (HKUDS)"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "Apache 2.0"
 last_verified: "2026-09-20"

@@ -26,9 +26,10 @@ const ar: ResourcesStrings = {
   ],
   empty: 'لا توجد موارد بعد.',
   groupLabels: {
-    software: 'برمجيات',
+    application: 'تطبيقات',
     'ai tutor': 'معلّمون أذكياء',
     'agent skill': 'مهارات للوكلاء الأذكياء',
+    'developer tool': 'أدوات للمطورين والخوادم',
     'prompt or gem library': 'مكتبات المطالبات والأدوات الجاهزة',
     'collection of tools': 'مجموعات أدوات',
     'collection of activities': 'مجموعات أنشطة',

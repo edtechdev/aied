@@ -290,9 +290,11 @@ Requirements and conventions:
   actually opened — link rot is the failure mode here, which is why `last_verified` is mandatory.
 - `author` is a real person or the project itself. When a project publishes no author, name the
   project (or the GitHub account) and say so in the body; **never invent a person**.
-- `resource_type` values: software, ai tutor, agent skill, prompt or gem library, collection of tools,
+- `resource_type` values: application, ai tutor, agent skill, developer tool, prompt or gem library, collection of tools,
   collection of activities, assessment instrument, open format or specification, ebook or guide,
-  case study collection, dataset or benchmark.
+  case study collection, dataset or benchmark. `application` is something a teacher or student
+  uses directly; `developer tool` is a server, API, plugin, gateway or CLI that someone has to
+  install, host or wire up first.
 - `access` describes what a reader has to give up to use it; `license` only records a license the site
   itself states.
 - `connected_resources` is frontmatter (validated against `content/en/resources/`), so the section can never

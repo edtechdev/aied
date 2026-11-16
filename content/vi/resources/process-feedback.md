@@ -5,7 +5,7 @@ type: resource
 summary: "Lựa chọn miễn phí, dựa trên quá trình, thay cho việc phát hiện AI: ghi lại cách một bài viết được tạo ra và biến nó thành báo cáo cho một cuộc trò chuyện về việc học."
 url: https://processfeedback.org/
 author: "The Process Feedback project"
-resource_type: [software]
+resource_type: [application]
 access: [free with account]
 last_verified: "2026-09-23"
 foundations: [academic-integrity, ai-literacy]

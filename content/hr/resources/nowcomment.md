@@ -7,7 +7,7 @@ summary: "Besplatna platforma za anotacije s računom u kojoj se nitna rasprava 
 url: https://nowcomment.com/
 author: "Paul Allison"
 author_url: https://youtube.com/@paulallison
-resource_type: [software, collection of activities]
+resource_type: [application, collection of activities]
 access: [free with account]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

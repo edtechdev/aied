@@ -7,7 +7,7 @@ summary: "一个免费的浏览器工具，为编程课的每位学生运行一�
 url: https://code-viva.netlify.app/
 author: "Code Viva"
 author_url: https://code-viva.netlify.app/
-resource_type: [software]
+resource_type: [application]
 access: [free]
 last_verified: "2026-10-24"
 foundations: [academic-integrity]

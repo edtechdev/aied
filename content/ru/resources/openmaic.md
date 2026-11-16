@@ -5,7 +5,7 @@ type: resource
 summary: "Открытый релиз MAIC: мультиагентная учебная аудитория, которая превращает тему или документ в слайды, тесты, интерактивные симуляции и проектные задания, а проводит их ИИ-преподаватели и однокурсники."
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

@@ -7,7 +7,7 @@ summary: "교사들이 AI로 생성한 교실용 웹 앱을 게시하고 링크�
 url: https://teacherhive.app/
 author: "Tony Vincent"
 author_url: https://teacherhive.app/about
-resource_type: [software, collection of tools]
+resource_type: [application, collection of tools]
 access: [freemium]
 last_verified: "2026-11-10"
 foundations: [teacher-ai-competency]

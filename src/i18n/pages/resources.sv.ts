@@ -26,9 +26,10 @@ const sv: ResourcesStrings = {
   ],
   empty: 'Inga resurser ännu.',
   groupLabels: {
-    software: 'Programvara',
+    application: 'Applikationer',
     'ai tutor': 'AI-handledare',
     'agent skill': 'Agentfärdigheter',
+    'developer tool': 'Utvecklar- och serververktyg',
     'prompt or gem library': 'Bibliotek med prompter och gems',
     'collection of tools': 'Samlingar av verktyg',
     'collection of activities': 'Samlingar av aktiviteter',

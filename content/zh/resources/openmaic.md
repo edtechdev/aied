@@ -6,7 +6,7 @@ type: resource
 summary: "MAIC 的开源版本：一个多智能体教室，能把一个主题或文档转化为幻灯片、测验、交互式模拟和基于项目的活动，由 AI 教师和 AI 同学授课。"
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

@@ -26,9 +26,10 @@ const sk: ResourcesStrings = {
   ],
   empty: 'Zatiaľ žiadne zdroje.',
   groupLabels: {
-    software: 'Softvér',
+    application: 'Aplikácie',
     'ai tutor': 'AI tutori',
     'agent skill': 'Zručnosti agentov',
+    'developer tool': 'Nástroje pre vývojárov a servery',
     'prompt or gem library': 'Knižnice výziev a gemov',
     'collection of tools': 'Kolekcie nástrojov',
     'collection of activities': 'Kolekcie aktivít',

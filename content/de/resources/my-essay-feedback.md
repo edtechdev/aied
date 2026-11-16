@@ -6,7 +6,7 @@ type: resource
 summary: "Eine lehrkraftgesteuerte KI-Feedback-Plattform für College-Essays: Feedback-Prompts aus einer OER-Bibliothek mit über 200 Typen, strukturierte Reflexionen der Studierenden zu jedem KI-Vorschlag, ein Lehrenden-Dashboard mit KI-Klassenzusammenfassung und LTI-Integration mit Canvas, Blackboard und Moodle."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

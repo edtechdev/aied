@@ -8,7 +8,7 @@ url: https://www.amplifygenai.org/
 source_code: https://github.com/gaiin-platform
 author: "Vanderbilt University (gaiin-platform)"
 author_url: https://www.vanderbilt.edu/agi/platforms/amplify/
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-11-12"

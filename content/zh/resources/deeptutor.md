@@ -6,7 +6,7 @@ type: resource
 summary: "DeepTutor 智能体辅导框架的开源版本：一个工作空间同时承载辅导、题目生成、掌握度练习、研究与可视化，学习者记忆可见可编辑。"
 url: https://github.com/HKUDS/DeepTutor
 author: "HKU Data Intelligence Lab (HKUDS)"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "Apache 2.0"
 last_verified: "2026-09-20"

@@ -6,7 +6,7 @@ type: resource
 summary: "कॉलेज निबंधों के लिए शिक्षक-नियंत्रित एआई प्रतिक्रिया प्लेटफ़ॉर्म: 200+ प्रकारों की OER लाइब्रेरी से लिए गए प्रतिक्रिया प्रॉम्प्ट, प्रत्येक एआई सुझाव पर छात्रों का संरचित चिंतन, एआई कक्षा-सारांश वाला शिक्षक डैशबोर्ड, और Canvas, Blackboard तथा Moodle के साथ LTI एकीकरण।"
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

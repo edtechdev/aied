@@ -6,7 +6,7 @@ type: resource
 summary: "Üniversite makaleleri için öğretim elemanı denetiminde bir YZ geri bildirim platformu: 200'den fazla türden oluşan bir OER kütüphanesinden alınan geri bildirim istemleri, her YZ önerisine yapılandırılmış öğrenci yansımaları, YZ sınıf özeti olan bir öğretim elemanı panosu ve Canvas, Blackboard ve Moodle ile LTI entegrasyonu."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

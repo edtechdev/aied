@@ -6,7 +6,7 @@ summary: "Een no-code-bouwer waarmee onderwijsprofessionals gerichte AI-apps mak
 url: https://onmicro.ai/
 source_code: https://github.com/onmicroai/micro_ai
 author: "The OnMicro.AI project"
-resource_type: [software, collection of tools]
+resource_type: [application, collection of tools]
 access: [freemium]
 license: "AGPL-3.0"
 last_verified: "2026-09-23"

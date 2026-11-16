@@ -5,7 +5,7 @@ type: resource
 summary: "MAICin avoimen lähdekoodin julkaisu: moniagenttinen luokkahuone, joka muuttaa aiheen tai asiakirjan dioiksi, visailuiksi, interaktiivisiksi simulaatioiksi ja projektipohjaisiksi aktiviteeteiksi tekoälyopettajien ja -luokkatovereiden toteuttamana."
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

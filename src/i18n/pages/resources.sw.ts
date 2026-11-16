@@ -26,9 +26,10 @@ const sw: ResourcesStrings = {
   ],
   empty: 'Hakuna rasilimali bado.',
   groupLabels: {
-    software: 'Programu',
+    application: 'Programu',
     'ai tutor': 'Walimu wa Akili Bandia',
     'agent skill': 'Ujuzi wa wakala',
+    'developer tool': 'Zana za watengenezaji na seva',
     'prompt or gem library': 'Maktaba za prompts na gems',
     'collection of tools': 'Makusanyo ya zana',
     'collection of activities': 'Makusanyo ya shughuli',

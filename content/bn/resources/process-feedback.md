@@ -5,7 +5,7 @@ type: resource
 summary: "এআই শনাক্তকরণের একটি বিনামূল্যে, প্রক্রিয়া-ভিত্তিক বিকল্প: এটি নথিভুক্ত করে একটি লেখা কীভাবে তৈরি হলো এবং তা রূপান্তর করে শেখা নিয়ে আলোচনার প্রতিবেদনে, রায়ে নয়।"
 url: https://processfeedback.org/
 author: "The Process Feedback project"
-resource_type: [software]
+resource_type: [application]
 access: [free with account]
 last_verified: "2026-09-23"
 foundations: [academic-integrity, ai-literacy]

@@ -6,7 +6,7 @@ type: resource
 summary: "کالج مضامین کے لیے انسٹرکٹر کے کنٹرول والا AI رائے کا پلیٹ فارم: 200+ اقسام کی OER لائبریری سے لیے گئے رائے کے پرامپٹس، ہر AI تجویز پر طلبہ کا منظم غور و فکر، AI کلاس خلاصے کے ساتھ انسٹرکٹر ڈیش بورڈ، اور Canvas، Blackboard اور Moodle کے ساتھ LTI انٹیگریشن۔"
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

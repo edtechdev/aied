@@ -5,7 +5,7 @@ type: resource
 summary: "Izdanje otvorenog koda sustava MAIC: razred s više agenata koji temu ili dokument pretvara u slajdove, kvizove, interaktivne simulacije i projektne aktivnosti koje vode AI nastavnici i kolege."
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

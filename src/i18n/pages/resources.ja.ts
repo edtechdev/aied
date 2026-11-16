@@ -26,9 +26,10 @@ const ja: ResourcesStrings = {
   ],
   empty: 'リソースはまだありません。',
   groupLabels: {
-    software: 'ソフトウェア',
+    application: 'アプリケーション',
     'ai tutor': 'AIチューター',
     'agent skill': 'エージェントスキル',
+    'developer tool': '開発者・サーバー向けツール',
     'prompt or gem library': 'プロンプトとGemのライブラリ',
     'collection of tools': 'ツールのコレクション',
     'collection of activities': '活動のコレクション',

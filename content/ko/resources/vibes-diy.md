@@ -7,7 +7,7 @@ summary: "평이한 언어로 된 앱 빌더입니다: 작은 도구를 말로 �
 url: https://vibes.diy/
 source_code: https://github.com/VibesDIY/use-vibes
 author: "The Vibes DIY project"
-resource_type: [software, collection of tools]
+resource_type: [application, collection of tools]
 access: [freemium]
 license: "Apache-2.0"
 last_verified: "2026-09-23"

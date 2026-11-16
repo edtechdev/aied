@@ -5,7 +5,7 @@ type: resource
 summary: "Випуск рамки агентного тьюторства DeepTutor з відкритим кодом: одне робоче простір для тьюторства, генерації запитань, практики на оволодіння матеріалом, досліджень і візуалізації, із прозорою для перегляду пам’яттю здобувача."
 url: https://github.com/HKUDS/DeepTutor
 author: "HKU Data Intelligence Lab (HKUDS)"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "Apache 2.0"
 last_verified: "2026-09-20"

@@ -6,7 +6,7 @@ type: resource
 summary: "Eine kostenlose, prozessbasierte Alternative zur KI-Erkennung: Sie erfasst, wie ein Text entstanden ist, und macht daraus einen Bericht für ein Gespräch über das Lernen statt ein Urteil."
 url: https://processfeedback.org/
 author: "The Process Feedback project"
-resource_type: [software]
+resource_type: [application]
 access: [free with account]
 last_verified: "2026-09-23"
 foundations: [academic-integrity, ai-literacy]

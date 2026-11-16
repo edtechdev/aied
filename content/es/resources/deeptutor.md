@@ -6,7 +6,7 @@ type: resource
 summary: "La publicación de código abierto del marco de tutoría agéntica DeepTutor: un único espacio de trabajo para la tutoría, la generación de preguntas, la práctica de dominio, la investigación y la visualización, con una memoria de quien aprende inspeccionable."
 url: https://github.com/HKUDS/DeepTutor
 author: "HKU Data Intelligence Lab (HKUDS)"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "Apache 2.0"
 last_verified: "2026-09-20"

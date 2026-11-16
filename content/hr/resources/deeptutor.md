@@ -5,7 +5,7 @@ type: resource
 summary: "Izdanje otvorenog koda agentnog okvira za poučavanje DeepTutor: jedno radno okruženje za poučavanje, generiranje pitanja, uvježbavanje do ovladanosti, istraživanje i vizualizaciju, s pamćenjem učenika koje se može pregledati."
 url: https://github.com/HKUDS/DeepTutor
 author: "HKU Data Intelligence Lab (HKUDS)"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "Apache 2.0"
 last_verified: "2026-09-20"

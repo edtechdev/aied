@@ -6,7 +6,7 @@ type: resource
 summary: "MAIC का ओपन-सोर्स संस्करण: एक मल्टी-एजेंट कक्षा जो किसी विषय या दस्तावेज़ को स्लाइड, क्विज़, इंटरैक्टिव सिमुलेशन और प्रोजेक्ट-आधारित गतिविधियों में बदल देती है, और इन्हें AI शिक्षकों तथा AI सहपाठियों के माध्यम से प्रस्तुत करती है।"
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

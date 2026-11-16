@@ -6,7 +6,7 @@ summary: "Tvorba aplikácií v prirodzenom jazyku: opíšte malý nástroj slova
 url: https://vibes.diy/
 source_code: https://github.com/VibesDIY/use-vibes
 author: "The Vibes DIY project"
-resource_type: [software, collection of tools]
+resource_type: [application, collection of tools]
 access: [freemium]
 license: "Apache-2.0"
 last_verified: "2026-09-23"

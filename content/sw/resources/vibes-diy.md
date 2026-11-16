@@ -6,7 +6,7 @@ summary: "Mjenzi wa programu wa lugha rahisi: elezea zana ndogo kwa maneno na up
 url: https://vibes.diy/
 source_code: https://github.com/VibesDIY/use-vibes
 author: "The Vibes DIY project"
-resource_type: [software, collection of tools]
+resource_type: [application, collection of tools]
 access: [freemium]
 license: "Apache-2.0"
 last_verified: "2026-09-23"

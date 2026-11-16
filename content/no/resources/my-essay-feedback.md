@@ -6,7 +6,7 @@ type: resource
 summary: "En underviserstyrt plattform for AI-tilbakemelding på høgskoleessay: tilbakemeldingsprompts hentet fra et OER-bibliotek med 200+ typer, strukturerte studentrefleksjoner over hvert AI-forslag, et underviserdashbord med et AI-generert klassesammendrag og LTI-integrasjon med Canvas, Blackboard og Moodle."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

@@ -26,9 +26,10 @@ const uk: ResourcesStrings = {
   ],
   empty: 'Ще немає ресурсів.',
   groupLabels: {
-    software: 'Програмне забезпечення',
+    application: 'Застосунки',
     'ai tutor': 'ШІ-репетитори',
     'agent skill': 'Навички агентів',
+    'developer tool': 'Інструменти для розробників і серверів',
     'prompt or gem library': 'Бібліотеки підказок і елементів gem',
     'collection of tools': 'Збірки інструментів',
     'collection of activities': 'Збірки занять',

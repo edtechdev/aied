@@ -26,9 +26,10 @@ const cs: ResourcesStrings = {
   ],
   empty: 'Zatím žádné zdroje.',
   groupLabels: {
-    software: 'Software',
+    application: 'Aplikace',
     'ai tutor': 'AI tutoři',
     'agent skill': 'Dovednosti agentů',
+    'developer tool': 'Nástroje pro vývojáře a servery',
     'prompt or gem library': 'Knihovny výzev a gemů',
     'collection of tools': 'Sbírky nástrojů',
     'collection of activities': 'Sbírky aktivit',

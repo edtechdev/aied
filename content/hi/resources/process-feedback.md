@@ -6,7 +6,7 @@ type: resource
 summary: "AI पहचान का एक मुफ़्त, प्रक्रिया-आधारित विकल्प: यह दर्ज करता है कि कोई लेखन किस प्रकार तैयार किया गया और उसी को सीखने पर बातचीत के लिए एक रिपोर्ट में बदल देता है, न कि किसी फैसले में।"
 url: https://processfeedback.org/
 author: "The Process Feedback project"
-resource_type: [software]
+resource_type: [application]
 access: [free with account]
 last_verified: "2026-09-23"
 foundations: [academic-integrity, ai-literacy]

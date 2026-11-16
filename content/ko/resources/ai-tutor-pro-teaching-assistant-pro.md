@@ -7,7 +7,7 @@ summary: "Contact North의 두 가지 무료, 가입 불필요 AI 웹 앱입니�
 url: https://www.aitutorpro.ca/
 author: "Contact North | Contact Nord"
 author_url: https://contactnorth.ca/
-resource_type: [software, ai tutor, collection of tools]
+resource_type: [application, ai tutor, collection of tools]
 access: [free]
 last_verified: "2026-11-10"
 foundations: [ai-literacy]

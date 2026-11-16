@@ -6,7 +6,7 @@ type: resource
 summary: "AI 检测的免费替代方案：它记录一篇文字的产出过程，并将其转化为一份用于关于学习的对话的报告，而非判决。"
 url: https://processfeedback.org/
 author: "The Process Feedback project"
-resource_type: [software]
+resource_type: [application]
 access: [free with account]
 last_verified: "2026-09-23"
 foundations: [academic-integrity, ai-literacy]

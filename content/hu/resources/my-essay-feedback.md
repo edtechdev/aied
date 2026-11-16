@@ -6,7 +6,7 @@ type: resource
 summary: "Oktató által irányított MI-visszajelző platform főiskolai esszékhez: visszajelző promptok egy 200+ típusú OER-könyvtárból, strukturált diákreflexiók minden MI-javaslatra, oktatói műszerfal MI-vel készült osztályösszegzéssel, és LTI-integráció Canvas, Blackboard és Moodle rendszerekkel."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

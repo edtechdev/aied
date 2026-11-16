@@ -5,7 +5,7 @@ type: resource
 summary: "Bản mã nguồn mở của MAIC: lớp học đa tác tử biến một chủ đề hay tài liệu thành slide, trắc nghiệm, mô phỏng tương tác và hoạt động dự án, do giáo viên và bạn học AI trình bày."
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

@@ -7,7 +7,7 @@ summary: "노트 사진, PDF 또는 텍스트를 읽고 학생과 소크라테�
 url: https://context.aideatext.ai/?lang=en
 author: "AIdeaText"
 author_url: https://aideatext.ai/
-resource_type: [software]
+resource_type: [application]
 access: [free]
 last_verified: "2026-11-12"
 pedagogy: [socratic-method, metacognition, scaffolding]

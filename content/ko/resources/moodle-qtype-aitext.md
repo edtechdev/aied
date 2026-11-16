@@ -7,7 +7,7 @@ summary: "대규모 언어 모델로 자유 서술 답안을 문제별 프롬프
 url: https://github.com/marcusgreen/moodle-qtype_aitext
 source_code: https://github.com/marcusgreen/moodle-qtype_aitext
 author: "Marcus Green"
-resource_type: [software]
+resource_type: [developer tool]
 access: [free]
 license: "GPL v3 or later"
 last_verified: "2026-11-12"

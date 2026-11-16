@@ -6,7 +6,7 @@ type: resource
 summary: "一个由教师掌控的大学作文 AI 反馈平台：反馈提示词取自 200 多种类型的 OER 库，学生对每条 AI 建议做结构化反思，教师仪表盘带 AI 班级摘要，并与 Canvas、Blackboard 和 Moodle 做 LTI 集成。"
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

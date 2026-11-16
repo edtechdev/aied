@@ -8,7 +8,7 @@ url: https://sirhanmacx.github.io/Claw-ED
 source_code: https://github.com/SirhanMacx/Claw-ED
 author: "SirhanMacx (MacxLabs)"
 author_url: https://macxlabs.app/
-resource_type: [software, collection of tools]
+resource_type: [application, collection of tools]
 access: [free]
 license: "MIT (original code; third-party components keep their own terms)"
 last_verified: "2026-09-23"

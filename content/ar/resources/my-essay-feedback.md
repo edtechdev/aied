@@ -6,7 +6,7 @@ type: resource
 summary: "منصة تغذية راجعة بالذكاء الاصطناعي يتحكم فيها المعلّم لمقالات الجامعة: مطالبات تغذية مستمدّة من مكتبة OER تضم أكثر من 200 نوع، وتأملات طلابية منظمة على كل اقتراح من الذكاء الاصطناعي، ولوحة معلّم بملخص صفّي بالذكاء الاصطناعي، وتكامل LTI مع Canvas وBlackboard وMoodle."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

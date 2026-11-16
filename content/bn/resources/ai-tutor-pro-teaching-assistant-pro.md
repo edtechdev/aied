@@ -7,7 +7,7 @@ summary: "Contact North-এর দুটি বিনামূল্যের, �
 url: https://www.aitutorpro.ca/
 author: "Contact North | Contact Nord"
 author_url: https://contactnorth.ca/
-resource_type: [software, ai tutor, collection of tools]
+resource_type: [application, ai tutor, collection of tools]
 access: [free]
 last_verified: "2026-11-10"
 foundations: [ai-literacy]

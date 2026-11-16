@@ -5,7 +5,7 @@ type: resource
 summary: "Μια δωρεάν εναλλακτική στην ανίχνευση ΤΝ βασισμένη στη διαδικασία: καταγράφει πώς παρήχθη ένα κείμενο και το μετατρέπει σε αναφορά για συζήτηση περί μάθησης και όχι σε ετυμηγορία."
 url: https://processfeedback.org/
 author: "The Process Feedback project"
-resource_type: [software]
+resource_type: [application]
 access: [free with account]
 last_verified: "2026-09-23"
 foundations: [academic-integrity, ai-literacy]

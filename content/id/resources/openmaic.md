@@ -5,7 +5,7 @@ type: resource
 summary: "Rilis open-source MAIC: kelas multi-agen yang mengubah topik atau dokumen menjadi slide, kuis, simulasi interaktif dan aktivitas berbasis proyek, disampaikan oleh guru dan teman sekelas AI."
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

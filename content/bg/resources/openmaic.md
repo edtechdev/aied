@@ -5,7 +5,7 @@ type: resource
 summary: "Изданието с отворен код на MAIC: класна стая с много агенти, която превръща тема или документ в слайдове, тестове, интерактивни симулации и проектни дейности, водени от AI учители и съученици."
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

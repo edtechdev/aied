@@ -5,7 +5,7 @@ type: resource
 summary: "Toleo la chanzo huria la MAIC: darasa la mawakala wengi linalogeuza mada au hati kuwa slaidi, maswali ya mtihani, mifano inayoshirikika na shughuli za kujifunza kwa mradi, likisambazwa na walimu wa AI na wanafunzi wenzako wa AI."
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

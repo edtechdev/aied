@@ -5,7 +5,7 @@ type: resource
 summary: "המהדורה בקוד-פתוח של MAIC: כיתה מרובת-סוכנים שהופכת נושא או מסמך לשקפים, חידונים, סימולציות אינטראקטיביות ופעילויות מבוססות-פרויקטים, שנמסרים על ידי מורים ושותפי-כיתה של AI."
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

@@ -5,7 +5,7 @@ type: resource
 summary: "DeepTutor এজেন্টিক টিউটরিং কাঠামোর ওপেন-সোর্স রিলিজ: টিউটরিং, প্রশ্ন তৈরি, মাস্টারি অনুশীলন, গবেষণা ও ভিজুয়ালাইজেশন এক কর্মক্ষেত্রে, সঙ্গে পরিদর্শনযোগ্য শিক্ষার্থী-স্মৃতি।"
 url: https://github.com/HKUDS/DeepTutor
 author: "HKU Data Intelligence Lab (HKUDS)"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "Apache 2.0"
 last_verified: "2026-09-20"

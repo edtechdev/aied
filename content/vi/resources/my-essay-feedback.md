@@ -6,7 +6,7 @@ type: resource
 summary: "Nền tảng phản hồi AI do giảng viên kiểm soát cho bài luận đại học: prompt phản hồi lấy từ thư viện OER hơn 200 loại, phần phản tư có cấu trúc của sinh viên về từng gợi ý của AI, bảng điều khiển giảng viên với tóm tắt lớp do AI tạo, và tích hợp LTI với Canvas, Blackboard và Moodle."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

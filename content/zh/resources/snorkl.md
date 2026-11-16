@@ -7,7 +7,7 @@ summary: "一款课堂工具，让学生用录制的口头和手写解释表达�
 url: https://snorkl.app/
 author: "Snorkl"
 author_url: https://snorkl.app/about
-resource_type: [software, collection of activities]
+resource_type: [application, collection of activities]
 access: [free with account, freemium]
 last_verified: "2026-10-07"
 technology: [multimodal, speech-and-voice-technologies, learning-analytics, generative-ai]

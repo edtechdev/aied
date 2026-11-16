@@ -26,9 +26,10 @@ const pt: ResourcesStrings = {
   ],
   empty: 'Ainda não há recursos.',
   groupLabels: {
-    software: 'Software',
+    application: 'Aplicações',
     'ai tutor': 'Tutores de IA',
     'agent skill': 'Habilidades de agente',
+    'developer tool': 'Ferramentas para desenvolvedores e servidores',
     'prompt or gem library': 'Bibliotecas de prompts e gems',
     'collection of tools': 'Coleções de ferramentas',
     'collection of activities': 'Coleções de atividades',

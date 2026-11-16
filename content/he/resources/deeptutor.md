@@ -5,7 +5,7 @@ type: resource
 summary: "המהדורה בקוד פתוח של מסגרת ההוראה האג'נטית DeepTutor: מרחב עבודה אחד להוראה, יצירת שאלות, תרגול לשליטה, מחקר וויזואליזציה, עם זיכרון לומד שניתן לבדיקה."
 url: https://github.com/HKUDS/DeepTutor
 author: "HKU Data Intelligence Lab (HKUDS)"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "Apache 2.0"
 last_verified: "2026-09-20"

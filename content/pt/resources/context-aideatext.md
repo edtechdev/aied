@@ -7,7 +7,7 @@ summary: "Um tutor gratuito de navegador que lê a foto de um caderno, um PDF ou
 url: https://context.aideatext.ai/?lang=en
 author: "AIdeaText"
 author_url: https://aideatext.ai/
-resource_type: [software]
+resource_type: [application]
 access: [free]
 last_verified: "2026-11-12"
 pedagogy: [socratic-method, metacognition, scaffolding]

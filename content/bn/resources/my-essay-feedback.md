@@ -6,7 +6,7 @@ type: resource
 summary: "কলেজ প্রবন্ধের জন্য শিক্ষক-নিয়ন্ত্রিত এআই প্রতিক্রিয়া প্ল্যাটফর্ম: 200+ ধরনের OER লাইব্রেরি থেকে নেওয়া প্রতিক্রিয়া প্রম্পট, প্রতিটি এআই প্রস্তাবের উপর শিক্ষার্থীদের সুগঠিত প্রতিফলন, এআই ক্লাস-সারাংশসহ শিক্ষক ড্যাশবোর্ড, এবং Canvas, Blackboard ও Moodle-এর সঙ্গে LTI সংযোগ।"
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

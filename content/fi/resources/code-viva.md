@@ -6,7 +6,7 @@ summary: "Ilmainen selaintyökalu, joka järjestää kirjallisen, aikarajoitetun
 url: https://code-viva.pisan.me/
 author: "Code Viva"
 author_url: https://code-viva.pisan.me/
-resource_type: [software]
+resource_type: [application]
 access: [free]
 last_verified: "2026-11-04"
 foundations: [academic-integrity]

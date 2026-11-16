@@ -1042,7 +1042,8 @@ else:
     parts.append(f"# {_res_h1} {{#free-tools-and-resources}}\n\n{_res_intro or ''}\n")
 
 RESOURCE_GROUP_ORDER = [
-    'software', 'ai tutor', 'agent skill', 'prompt or gem library',
+    'application', 'ai tutor', 'agent skill', 'developer tool',
+    'prompt or gem library',
     'collection of tools', 'collection of activities', 'assessment instrument',
     'open format or specification', 'ebook or guide', 'case study collection',
     'dataset or benchmark',

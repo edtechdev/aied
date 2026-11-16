@@ -6,7 +6,7 @@ type: resource
 summary: "大学のエッセイ向けの、教員が統制する AI フィードバック・プラットフォーム。200 種類以上の OER ライブラリから選ぶフィードバック・プロンプト、各 AI 提案に対する学生の構造化された省察、AI によるクラス要約付きの教員ダッシュボード、Canvas、Blackboard、Moodle との LTI 連携を備えます。"
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

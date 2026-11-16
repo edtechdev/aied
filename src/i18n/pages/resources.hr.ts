@@ -26,9 +26,10 @@ const hr: ResourcesStrings = {
   ],
   empty: 'Još nema resursa.',
   groupLabels: {
-    software: 'Softver',
+    application: 'Aplikacije',
     'ai tutor': 'AI tutori',
     'agent skill': 'Vještine agenta',
+    'developer tool': 'Alati za razvijatelje i poslužitelje',
     'prompt or gem library': 'Knjižnice prompta i dragulja',
     'collection of tools': 'Zbirke alata',
     'collection of activities': 'Zbirke aktivnosti',

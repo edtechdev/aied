@@ -15,9 +15,10 @@ const tr: ResourcesStrings = {
   ],
   empty: 'Henüz kaynak yok.',
   groupLabels: {
-    software: 'Yazılım',
+    application: 'Uygulamalar',
     'ai tutor': 'YZ Özel Dersleri',
     'agent skill': 'Aracı Yetenekleri',
+    'developer tool': 'Geliştirici ve sunucu araçları',
     'prompt or gem library': 'İstek Metni ve Gem Kütüphaneleri',
     'collection of tools': 'Araç Koleksiyonları',
     'collection of activities': 'Etkinlik Koleksiyonları',

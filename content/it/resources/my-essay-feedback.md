@@ -6,7 +6,7 @@ type: resource
 summary: "Una piattaforma di feedback IA controllata dal docente per i saggi universitari: prompt di feedback tratti da una libreria OER di oltre 200 tipi, riflessioni strutturate degli studenti su ogni suggerimento dell'IA, una dashboard del docente con un riepilogo della classe generato dall'IA e integrazione LTI con Canvas, Blackboard e Moodle."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

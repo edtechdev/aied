@@ -5,7 +5,7 @@ type: resource
 summary: "Otwartoźródłowe wydanie agentowych ram korepetycji DeepTutor: jedno środowisko do korepetycji, generowania pytań, ćwiczenia do mistrzostwa, badań i wizualizacji, z możliwą do wglądu pamięcią uczącego się."
 url: https://github.com/HKUDS/DeepTutor
 author: "HKU Data Intelligence Lab (HKUDS)"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "Apache 2.0"
 last_verified: "2026-09-20"

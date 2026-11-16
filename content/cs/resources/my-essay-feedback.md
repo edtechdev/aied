@@ -6,7 +6,7 @@ type: resource
 summary: "Platforma zpětné vazby od AI pro vysokoškolské eseje pod kontrolou vyučujícího: prompty zpětné vazby z OER knihovny více než 200 typů, strukturované reflexe studentů u každého návrhu AI, panel vyučujícího s shrnutím třídy od AI a integrace LTI s Canvas, Blackboard a Moodle."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

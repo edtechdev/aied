@@ -5,7 +5,7 @@ type: resource
 summary: "Бесплатная альтернатива выявлению ИИ, построенная на процессе: записывает, как создавался текст, и превращает это в отчёт для разговора об обучении, а не в приговор."
 url: https://processfeedback.org/
 author: "The Process Feedback project"
-resource_type: [software]
+resource_type: [application]
 access: [free with account]
 last_verified: "2026-09-23"
 foundations: [academic-integrity, ai-literacy]

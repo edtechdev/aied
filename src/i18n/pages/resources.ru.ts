@@ -26,9 +26,10 @@ const ru: ResourcesStrings = {
   ],
   empty: 'Ресурсов пока нет.',
   groupLabels: {
-    software: 'Программное обеспечение',
+    application: 'Приложения',
     'ai tutor': 'Репетиторы на базе ИИ',
     'agent skill': 'Навыки для агентов',
+    'developer tool': 'Инструменты для разработчиков и серверов',
     'prompt or gem library': 'Библиотеки промптов и gems',
     'collection of tools': 'Подборки инструментов',
     'collection of activities': 'Подборки занятий',

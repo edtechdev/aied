@@ -26,9 +26,10 @@ const no: ResourcesStrings = {
   ],
   empty: 'Ingen ressurser ennå.',
   groupLabels: {
-    software: 'Programvare',
+    application: 'Applikasjoner',
     'ai tutor': 'AI-veiledere',
     'agent skill': 'Agentferdigheter',
+    'developer tool': 'Utvikler- og serververktøy',
     'prompt or gem library': 'Biblioteker med instruksjoner og gems',
     'collection of tools': 'Verktøysamlinger',
     'collection of activities': 'Aktivitetssamlinger',

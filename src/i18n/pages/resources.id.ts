@@ -26,9 +26,10 @@ const id: ResourcesStrings = {
   ],
   empty: 'Belum ada sumber daya.',
   groupLabels: {
-    software: 'Perangkat lunak',
+    application: 'Aplikasi',
     'ai tutor': 'Tutor AI',
     'agent skill': 'Keterampilan Agen',
+    'developer tool': 'Alat pengembang dan server',
     'prompt or gem library': 'Perpustakaan Prompt dan Gem',
     'collection of tools': 'Koleksi Alat',
     'collection of activities': 'Koleksi Aktivitas',

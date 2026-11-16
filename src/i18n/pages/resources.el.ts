@@ -26,9 +26,10 @@ const el: ResourcesStrings = {
   ],
   empty: 'Δεν υπάρχουν ακόμη πόροι.',
   groupLabels: {
-    software: 'Λογισμικό',
+    application: 'Εφαρμογές',
     'ai tutor': 'Εκπαιδευτικοί βοηθοί AI',
     'agent skill': 'Δεξιότητες πράκτορα',
+    'developer tool': 'Εργαλεία για προγραμματιστές και διακομιστές',
     'prompt or gem library': 'Βιβλιοθήκες prompt και gems',
     'collection of tools': 'Συλλογές εργαλείων',
     'collection of activities': 'Συλλογές δραστηριοτήτων',

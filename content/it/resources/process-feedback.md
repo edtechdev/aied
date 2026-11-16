@@ -5,7 +5,7 @@ type: resource
 summary: "Un'alternativa gratuita e basata sul processo al rilevamento dell'IA: registra come un testo è stato prodotto e lo trasforma in un report per una conversazione sull'apprendimento anziché in un verdetto."
 url: https://processfeedback.org/
 author: "The Process Feedback project"
-resource_type: [software]
+resource_type: [application]
 access: [free with account]
 last_verified: "2026-09-23"
 foundations: [academic-integrity, ai-literacy]

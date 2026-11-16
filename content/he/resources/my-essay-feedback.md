@@ -6,7 +6,7 @@ type: resource
 summary: "פלטפורמת משוב בינה מלאכותית בשליטת המרצה לחיבורים אקדמיים: הנחיות משוב מתוך ספריית OER של יותר מ-200 סוגים, רפלקציות מובנות של סטודנטים על כל הצעה של הבינה המלאכותית, לוח מחוונים למרצה עם סיכום כיתה שנוצר בבינה מלאכותית, ושילוב LTI עם Canvas, Blackboard ו-Moodle."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

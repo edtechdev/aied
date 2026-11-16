@@ -6,7 +6,7 @@ summary: "Tantermi eszköz, amely azonnali MI-visszajelzést ad a diákok felvet
 url: https://snorkl.app/
 author: "Snorkl"
 author_url: https://snorkl.app/about
-resource_type: [software, collection of activities]
+resource_type: [application, collection of activities]
 access: [free with account, freemium]
 last_verified: "2026-10-07"
 technology: [multimodal, speech-and-voice-technologies, learning-analytics, generative-ai]

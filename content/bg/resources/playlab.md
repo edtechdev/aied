@@ -9,7 +9,7 @@ author_url: https://www.playlab.ai/about
 foundations: [ai-literacy, learning-design, teacher-ai-competency]
 technology: [generative-ai, llm, rag]
 ethics: [privacy, guardrails]
-resource_type: [software, collection of tools]
+resource_type: [application, collection of tools]
 access: [free with account]
 last_verified: "2026-09-20"
 level: [k 12, higher ed]

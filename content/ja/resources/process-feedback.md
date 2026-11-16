@@ -6,7 +6,7 @@ type: resource
 summary: "AI 検知に代わる、プロセス重視の無料の選択肢：文章がどう作られたかを記録し、それを判定ではなく学びについての対話のためのレポートに変えます。"
 url: https://processfeedback.org/
 author: "The Process Feedback project"
-resource_type: [software]
+resource_type: [application]
 access: [free with account]
 last_verified: "2026-09-23"
 foundations: [academic-integrity, ai-literacy]

@@ -5,7 +5,7 @@ type: resource
 summary: "Rilis open-source kerangka bimbingan agentic DeepTutor: satu ruang kerja untuk bimbingan, pembuatan soal, latihan penguasaan, riset dan visualisasi, dengan memori pembelajar yang dapat diperiksa."
 url: https://github.com/HKUDS/DeepTutor
 author: "HKU Data Intelligence Lab (HKUDS)"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "Apache 2.0"
 last_verified: "2026-09-20"

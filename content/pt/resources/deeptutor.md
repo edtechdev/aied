@@ -6,7 +6,7 @@ type: resource
 summary: "O lançamento open-source do framework de tutoria agentiva DeepTutor: um só espaço de trabalho para tutoria, geração de questões, prática de domínio, pesquisa e visualização, com memória do aprendiz inspecionável."
 url: https://github.com/HKUDS/DeepTutor
 author: "HKU Data Intelligence Lab (HKUDS)"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "Apache 2.0"
 last_verified: "2026-09-20"

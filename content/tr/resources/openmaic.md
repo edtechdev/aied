@@ -5,7 +5,7 @@ type: resource
 summary: "MAIC’in açık kaynak sürümü: bir konuyu veya belgeyi slaytlara, sınavlara, etkileşimli simülasyonlara ve proje tabanlı etkinliklere dönüştüren, YZ öğretmenleri ve sınıf arkadaşları tarafından sunulan çok ajanlı bir sınıf."
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

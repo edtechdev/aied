@@ -5,7 +5,7 @@ type: resource
 summary: "بديل مجاني قائم على العملية لكشف استخدام الذكاء الاصطناعي: يسجّل كيف أُنتجت قطعة الكتابة ويحوّل ذلك إلى تقرير يفتح حواراً عن التعلّم بدلاً من إصدار حكم."
 url: https://processfeedback.org/
 author: "The Process Feedback project"
-resource_type: [software]
+resource_type: [application]
 access: [free with account]
 last_verified: "2026-09-23"
 foundations: [academic-integrity, ai-literacy]

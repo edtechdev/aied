@@ -5,7 +5,7 @@ type: resource
 summary: "Besplatna alternativa otkrivanju umjetne inteligencije utemeljena na procesu: bilježi kako je tekst nastao i od toga stvara izvještaj za razgovor o učenju, a ne presudu."
 url: https://processfeedback.org/
 author: "The Process Feedback project"
-resource_type: [software]
+resource_type: [application]
 access: [free with account]
 last_verified: "2026-09-23"
 foundations: [academic-integrity, ai-literacy]

@@ -26,9 +26,10 @@ const bg: ResourcesStrings = {
   ],
   empty: 'Все още няма ресурси.',
   groupLabels: {
-    software: 'Софтуер',
+    application: 'Приложения',
     'ai tutor': 'AI тутори',
     'agent skill': 'Умения за агенти',
+    'developer tool': 'Инструменти за разработчици и сървъри',
     'prompt or gem library': 'Библиотеки с подкани и скъпоценни материали',
     'collection of tools': 'Колекции от инструменти',
     'collection of activities': 'Колекции от дейности',

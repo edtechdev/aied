@@ -5,7 +5,7 @@ type: resource
 summary: "Bezplatná procesní alternativa k detekci AI: zaznamenává, jak text vznikl, a mění to ve zprávu pro rozhovor o učení, nikoli v rozsudek."
 url: https://processfeedback.org/
 author: "The Process Feedback project"
-resource_type: [software]
+resource_type: [application]
 access: [free with account]
 last_verified: "2026-09-23"
 foundations: [academic-integrity, ai-literacy]

@@ -5,7 +5,7 @@ type: resource
 summary: "الإصدار مفتوح المصدر من MAIC: صف متعدد الوكلاء يحوّل موضوعًا أو مستندًا إلى شرائح واختبارات ومحاكاة تفاعلية وأنشطة قائمة على المشاريع، يقدّمها معلّمون وزملاء بالذكاء الاصطناعي."
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

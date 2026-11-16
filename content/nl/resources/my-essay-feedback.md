@@ -6,7 +6,7 @@ type: resource
 summary: "Een door de docent bestuurd AI-feedbackplatform voor essays in het hoger onderwijs: feedbackprompts uit een OER-bibliotheek van meer dan 200 typen, gestructureerde reflecties van studenten op elke AI-suggestie, een docentdashboard met een AI-klassenoverzicht en LTI-integratie met Canvas, Blackboard en Moodle."
 url: https://myessayfeedback.ai/
 author: "Eric Kean"
-resource_type: [software, prompt or gem library]
+resource_type: [application, prompt or gem library]
 access: [freemium]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

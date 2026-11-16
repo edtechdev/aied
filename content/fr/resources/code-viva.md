@@ -7,7 +7,7 @@ summary: "Un outil web gratuit qui fait passer une version écrite et chronomét
 url: https://code-viva.netlify.app/
 author: "Code Viva"
 author_url: https://code-viva.netlify.app/
-resource_type: [software]
+resource_type: [application]
 access: [free]
 last_verified: "2026-10-24"
 foundations: [academic-integrity]

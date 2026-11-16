@@ -6,7 +6,7 @@ type: resource
 summary: "A free, process-based alternative to AI detection: it records how a piece of writing was produced and turns that into a report for a conversation about learning rather than a verdict."
 url: https://processfeedback.org/
 author: "The Process Feedback project"
-resource_type: [software]
+resource_type: [application]
 access: [free with account]
 last_verified: "2026-09-23"
 foundations: [academic-integrity, ai-literacy]

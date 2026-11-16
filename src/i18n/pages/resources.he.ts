@@ -15,9 +15,10 @@ const he: ResourcesStrings = {
   ],
   empty: 'אין עדיין משאבים.',
   groupLabels: {
-    software: 'תוכנה',
+    application: 'אפליקציות',
     'ai tutor': 'חונכים מבוססי בינה מלאכותית',
     'agent skill': 'כישורי סוכן (Agent Skills)',
+    'developer tool': 'כלים למפתחים ולשרתים',
     'prompt or gem library': 'ספריות הנחיות וג׳מים',
     'collection of tools': 'אוספי כלים',
     'collection of activities': 'אוספי פעילויות',

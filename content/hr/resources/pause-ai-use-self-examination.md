@@ -10,7 +10,7 @@ author_url: https://orcid.org/0000-0002-1101-3793
 foundations: [cognitive-offloading, critical-thinking, ai-literacy]
 pedagogy: [self-regulated-learning, metacognition]
 ethics: [privacy]
-resource_type: [software]
+resource_type: [application]
 access: [free]
 last_verified: "2026-09-20"
 level: [higher ed]

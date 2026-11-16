@@ -5,7 +5,7 @@ type: resource
 summary: "Open source-udgivelsen af MAIC: et multiagent-klasseværelse, der gør et emne eller dokument til slides, quizzes, interaktive simulationer og projektbaserede aktiviteter, leveret af AI-lærere og AI-klassekammerater."
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

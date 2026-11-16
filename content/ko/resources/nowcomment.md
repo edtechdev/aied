@@ -7,7 +7,7 @@ summary: "무료 계정 기반 주석 플랫폼으로, 스레드 토론이 특�
 url: https://nowcomment.com/
 author: "Paul Allison"
 author_url: https://youtube.com/@paulallison
-resource_type: [software, collection of activities]
+resource_type: [application, collection of activities]
 access: [free with account]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

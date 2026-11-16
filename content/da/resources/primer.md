@@ -8,7 +8,7 @@ url: https://gail.wharton.upenn.edu/primer/
 source_code: https://github.com/wharton-generative-ai-labs/primer
 author: "Wharton Generative AI Labs, University of Pennsylvania"
 author_url: https://gail.wharton.upenn.edu/
-resource_type: [software]
+resource_type: [developer tool]
 access: [free]
 license: "MIT"
 last_verified: "2026-11-13"

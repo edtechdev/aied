@@ -5,7 +5,7 @@ type: resource
 summary: "Bezpłatna alternatywa dla detekcji SI oparta na procesie: zapisuje, jak powstał tekst, i zamienia to w raport do rozmowy o uczeniu się, a nie w wyrok."
 url: https://processfeedback.org/
 author: "The Process Feedback project"
-resource_type: [software]
+resource_type: [application]
 access: [free with account]
 last_verified: "2026-09-23"
 foundations: [academic-integrity, ai-literacy]

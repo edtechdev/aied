@@ -9,7 +9,7 @@ author: "Miguel Guhlin"
 foundations: [ai-education]
 technology: [visualization, multimodal]
 assessment: [formative-assessment]
-resource_type: [collection of tools, software]
+resource_type: [collection of tools, application]
 access: [free]
 license: "GNU AGPL-3.0-or-later (whiteboard); GPL-3.0-only (SplatWorks apps)"
 last_verified: "2026-09-22"

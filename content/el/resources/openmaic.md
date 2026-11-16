@@ -5,7 +5,7 @@ type: resource
 summary: "Η έκδοση ανοιχτού κώδικα του MAIC: μια τάξη πολλαπλών πρακτόρων που μετατρέπει ένα θέμα ή έγγραφο σε διαφάνειες, κουίζ, διαδραστικές προσομοιώσεις και δραστηριότητες έργου, με δασκάλους και συμμαθητές ΤΝ."
 url: https://github.com/THU-MAIC/OpenMAIC
 author: "Tsinghua University MAIC team"
-resource_type: [software, collection of tools]
+resource_type: [developer tool, collection of tools]
 access: [free]
 license: "MIT"
 last_verified: "2026-09-20"

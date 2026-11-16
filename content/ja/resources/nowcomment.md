@@ -7,7 +7,7 @@ summary: "文、画像、動画への注釈が、特定の文、画像領域、�
 url: https://nowcomment.com/
 author: "Paul Allison"
 author_url: https://youtube.com/@paulallison
-resource_type: [software, collection of activities]
+resource_type: [application, collection of activities]
 access: [free with account]
 last_verified: "2026-11-12"
 foundations: [ai-literacy, human-ai-collaboration]

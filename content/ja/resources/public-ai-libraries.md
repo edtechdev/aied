@@ -7,7 +7,7 @@ url: https://libraries.publicai.co/
 source_code: https://github.com/forpublicai/libraries-kiosk
 author: "Public AI"
 author_url: https://libraries.publicai.co/
-resource_type: [software, collection of tools]
+resource_type: [application, collection of tools]
 access: [freemium]
 license: "GPL-3.0 (kiosk site); MIT (inference utility)"
 last_verified: "2026-11-05"

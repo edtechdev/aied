@@ -10,7 +10,7 @@ foundations: [teacher-ai-competency]
 pedagogy: [online-teaching-and-learning]
 technology: [generative-ai, llm]
 assessment: [formative-assessment, assessment]
-resource_type: [collection of tools, software]
+resource_type: [collection of tools, application]
 access: [free with account]
 last_verified: "2026-09-22"
 level: [k 12, higher ed]
