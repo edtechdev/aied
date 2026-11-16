@@ -16,21 +16,59 @@ jobs:
       contents: read
     steps:
       - uses: actions/checkout@v5
-      - uses: actions/setup-node@v5
         with:
-          node-version: 22
-          cache: 'npm'
-      - run: npm ci
+          # Two commits are enough for the common single-commit push; the gate step
+          # fetches the exact base commit when the push is longer.
+          fetch-depth: 2
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
       - run: pip install pyyaml
       - name: Run build tooling tests
         run: python3 -m unittest discover -s tooling/tests -p 'test_*.py' -v
-      - name: Validate config and concept registry
+      # The gate suite diffs the WORKING TREE against HEAD, so a fresh checkout shows
+      # nothing and every diff-scoped gate would report "no pages in scope" and pass.
+      # Resetting HEAD to the commit this push started from makes the pushed content
+      # look like an uncommitted change set — the same shape the suite is run in
+      # locally — so section, grounding, disclosure, evidence-context, first-mention,
+      # created-date and parity gates all see this push's pages.
+      - name: Resolve gate base
+        id: gatebase
+        env:
+          EVENT: ${{ github.event_name }}
+          BEFORE: ${{ github.event.before }}
         run: |
-          python3 tooling/scripts/wiki_config.py --check
-          python3 tooling/scripts/check_concepts.py
+          set -euo pipefail
+          if [ "$EVENT" = "pull_request" ]; then
+            # actions/checkout checks out the synthetic merge commit; its first
+            # parent is the base branch tip, so the diff against it is the PR.
+            rev="HEAD^1"
+          else
+            rev="$BEFORE"
+            if [ -z "$rev" ] || [ "$rev" = "0000000000000000000000000000000000000000" ]; then
+              rev="HEAD^1"
+            fi
+            if ! git cat-file -e "${rev}^{commit}" 2>/dev/null; then
+              git fetch --no-tags --depth=1 origin "$rev" || git fetch --no-tags --deepen=50 origin || true
+            fi
+          fi
+          if ! git cat-file -e "${rev}^{commit}" 2>/dev/null; then
+            echo "::error::Cannot resolve gate base '$rev'. Refusing to run a suite that would check nothing."
+            exit 1
+          fi
+          echo "rev=$rev" >> "$GITHUB_OUTPUT"
+          echo "Gate base: $rev ($(git rev-parse --short "$rev"))"
+      - name: Run content gates
+        timeout-minutes: 10
+        run: |
+          git reset --mixed "${{ steps.gatebase.outputs.rev }}"
+          # --cold: a fresh checkout has no cache, and a cache must never decide CI.
+          python3 tooling/scripts/run-gates.py --changed --cold
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: 'npm'
+      - run: npm ci
       # build:ci skips `astro check` - type-checking runs locally (npm run
       # build), and in CI the time is better spent on the build itself.
       - run: npm run build:ci

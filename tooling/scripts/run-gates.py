@@ -103,16 +103,31 @@ FINGERPRINT_DIRS = ('content', 'tooling', 'skills', 'src')
 FINGERPRINT_FILES = ('wiki.config.yaml', 'package.json', 'AGENTS.md')
 
 
+def _diff_paths(wiki):
+    """Paths in the working tree that differ from HEAD, plus untracked files.
+
+    CI uses the same definition: the workflow resets HEAD to the base commit before
+    running the suite, so a pushed commit looks like an uncommitted change set and
+    every checker's own `git diff HEAD` sees it. A plain checkout would show no diff
+    and each diff-scoped gate would report "no pages in scope" while passing.
+    """
+    res = subprocess.run(['git', 'diff', '--name-only', 'HEAD'], cwd=wiki,
+                         capture_output=True, text=True)
+    if res.returncode != 0:
+        # A bad HEAD must not degrade into an empty change set: that would report
+        # every gate green while checking nothing.
+        print(f"FATAL: git diff HEAD failed: {res.stderr.strip()}", file=sys.stderr)
+        raise SystemExit(2)
+    paths = {p for p in res.stdout.splitlines() if p.strip()}
+    untracked = subprocess.run(['git', 'ls-files', '--others', '--exclude-standard'],
+                               cwd=wiki, capture_output=True, text=True)
+    paths.update(p for p in untracked.stdout.splitlines() if p.strip())
+    return paths
+
+
 def changed_slugs(wiki):
     """Page slugs created, edited or deleted in the working tree since HEAD."""
-    cmds = [
-        ['git', 'diff', '--name-only', 'HEAD'],
-        ['git', 'ls-files', '--others', '--exclude-standard'],
-    ]
-    paths = set()
-    for cmd in cmds:
-        out = subprocess.run(cmd, cwd=wiki, capture_output=True, text=True).stdout
-        paths.update(p for p in out.splitlines() if p.strip())
+    paths = _diff_paths(wiki)
     slugs = set()
     for p in paths:
         parts = p.replace('\\', '/').split('/')
@@ -125,21 +140,14 @@ def changed_slugs(wiki):
 
 
 def changed_translated(wiki):
-    """Translated page files created, edited or deleted in the working tree since HEAD.
+    """Translated page files created, edited or deleted in the change set.
 
     Returns (locale, section, slug) triples for every content/<locale>/<section>/<slug>.md
     with a locale other than English. changed_slugs() deliberately reports English pages
     only, so without this a translation wave reports 'nothing changed' to the gate runner
     and every gate is skipped while the wave looks verified.
     """
-    cmds = [
-        ['git', 'diff', '--name-only', 'HEAD'],
-        ['git', 'ls-files', '--others', '--exclude-standard'],
-    ]
-    paths = set()
-    for cmd in cmds:
-        out = subprocess.run(cmd, cwd=wiki, capture_output=True, text=True).stdout
-        paths.update(p for p in out.splitlines() if p.strip())
+    paths = _diff_paths(wiki)
     found = set()
     for p in paths:
         parts = p.replace('\\', '/').split('/')
@@ -149,21 +157,14 @@ def changed_translated(wiki):
 
 
 def changed_paths(wiki):
-    """Repo-relative markdown files created or edited since HEAD, pages and notes.
+    """Repo-relative markdown files created or edited in the change set.
 
     The house-style gate is the one gate whose subject is prose anywhere, so it is
     scoped by file rather than by page slug: a British spelling introduced in
     AGENTS.md, a reference doc or a skill file is the same defect as one in an
     article. Pages are covered too, so nothing is checked twice or left out.
     """
-    cmds = [
-        ['git', 'diff', '--name-only', 'HEAD'],
-        ['git', 'ls-files', '--others', '--exclude-standard'],
-    ]
-    paths = set()
-    for cmd in cmds:
-        out = subprocess.run(cmd, cwd=wiki, capture_output=True, text=True).stdout
-        paths.update(p for p in out.splitlines() if p.strip())
+    paths = _diff_paths(wiki)
     # Mirror the checker's own scope exactly: the default-locale page collections, plus
     # the note files it scans with --include-docs. AIED-BACKLOG.md is deliberately
     # outside both, because it reproduces published titles verbatim and a British
@@ -266,6 +267,11 @@ def save_cache(wiki, cache):
 
 
 def main():
+    # Keep our own progress lines in order relative to gate output when stdout is a
+    # pipe (CI logs): child processes write unbuffered, so a buffered header would
+    # appear after the gates it introduces.
+    if hasattr(sys.stdout, 'reconfigure'):
+        sys.stdout.reconfigure(line_buffering=True)  # type: ignore[attr-defined]
     cfg = load_config()
     gates = cfg.get('build', {}).get('gates') or []
     argv = sys.argv[1:]
@@ -286,19 +292,20 @@ def main():
     slugs = changed_slugs(wiki) if changed_mode else []
     paths = changed_paths(wiki) if changed_mode else []
     translated = changed_translated(wiki) if changed_mode else []
+    scope_label = "versus HEAD"
     if changed_mode:
         if not slugs and not paths and not translated:
-            print("Nothing changed versus HEAD — the page gates have nothing to check; "
+            print(f"Nothing changed {scope_label} — the page gates have nothing to check; "
                   "running the corpus gates only.")
         if slugs:
-            print(f"Changed page(s) vs HEAD: {len(slugs)}")
+            print(f"Changed page(s) {scope_label}: {len(slugs)}")
             for s in slugs:
                 print(f"  - {s}")
         if not slugs:
-            print("No changed English page slugs vs HEAD.")
+            print(f"No changed English page slugs {scope_label}.")
         if translated:
             locales = sorted({t[0] for t in translated})
-            print(f"Changed translated page(s) vs HEAD: {len(translated)} "
+            print(f"Changed translated page(s) {scope_label}: {len(translated)} "
                   f"across {len(locales)} locale(s): {', '.join(locales)}")
 
     fingerprint = inputs_fingerprint(wiki)
