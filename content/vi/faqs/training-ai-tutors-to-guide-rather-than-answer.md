@@ -28,9 +28,9 @@ ai_assist:
 
 *Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét.*
 
-Gia sư của bạn để lộ đáp án. Buổi trình diễn không cho thấy điều đó, vì câu hỏi dễ và sinh viên hợp tác. Nhưng nhật ký của đợt thử nghiệm thì có: sinh viên hỏi hai lần, mô hình nhắc lại phương pháp, rồi giải luôn. Một giáo viên xem một phiên và nói đó chỉ là chatbot với giọng thân thiện. Giờ bạn đang cân nhắc xem có nên dành một phần tư thời gian kỹ thuật cho huấn luyện sau hay phát hành với một system prompt tốt hơn.
+Gia sư của bạn để lộ đáp án. Buổi trình diễn không cho thấy điều đó, vì câu hỏi dễ và sinh viên hợp tác. Nhưng nhật ký của đợt thử nghiệm thì có: sinh viên hỏi hai lần, mô hình nhắc lại phương pháp, rồi giải luôn. Một [[teacher-role|giáo viên]] xem một phiên và nói đó chỉ là [[conversational-ai|chatbot]] với giọng thân thiện. Giờ bạn đang cân nhắc xem có nên dành một phần tư thời gian kỹ thuật cho huấn luyện sau hay phát hành với một system prompt tốt hơn.
 
-Câu trả lời ngắn: việc viết prompt không gỡ được lực kéo về phía trả lời, vì sự hay giúp đỡ chính là thứ mô hình gốc được huấn luyện để tạo ra. Nếu hành vi hướng dẫn là sản phẩm, thì nó phải được huấn luyện, và biến quyết định kết quả là **phần thưởng**. Hãy viết phần thưởng dựa trên một bộ đánh giá chuẩn, đưa lập luận ở cấp từng bước vào dữ liệu huấn luyện, và đánh giá việc huấn luyện bằng bước sư phạm tiếp theo mà mô hình chọn.
+Câu trả lời ngắn: việc viết prompt không gỡ được lực kéo về phía trả lời, vì sự hay giúp đỡ chính là thứ mô hình gốc được huấn luyện để tạo ra. Nếu hành vi hướng dẫn là sản phẩm, thì nó phải được huấn luyện, và biến quyết định kết quả là **phần thưởng**. Hãy viết phần thưởng dựa trên một bộ đánh giá chuẩn, đưa lập luận ở cấp từng bước vào dữ liệu huấn luyện, và đánh giá việc huấn luyện bằng [[pedagogy|bước sư phạm]] tiếp theo mà mô hình chọn.
 
 ## Tóm tắt
 
@@ -40,7 +40,7 @@ Câu trả lời ngắn: việc viết prompt không gỡ được lực kéo v�
 
 **3.** Huấn luyện trên dấu vết ở cấp từng bước. Một tập dữ liệu gồm cặp câu hỏi và đáp án đúng không thể dạy mô hình nhìn ra chỗ sinh viên sai.
 
-**4.** Ưu tiên học tăng cường hơn bắt chước khi phán đoán là thứ quan trọng, và giữ lại điểm của các giai đoạn trung gian.
+**4.** Ưu tiên [[reinforcement-learning|học tăng cường]] hơn bắt chước khi phán đoán là thứ quan trọng, và giữ lại điểm của các giai đoạn trung gian.
 
 **5.** Làm cho phần thưởng đủ dày để có tác dụng trên phần lớn phản hồi, và chạy đánh giá trên toàn bộ cuộc hội thoại.
 
@@ -62,13 +62,13 @@ Hai điều suy ra từ đó. Hãy lường trước rằng phần thưởng s�
 
 ## Làm cho phần thưởng có tác dụng đủ thường xuyên để dạy được
 
-Một phần thưởng khớp chính xác là quá thưa khi thứ bạn quan tâm có nhiều chiều. Trình mô phỏng viết của SWIM cho thấy tiến trình này rõ ràng: viết prompt dựa trên rubric đạt QWK trung bình tốt nhất cho từng đặc trưng là **0.577** với Claude Sonnet và **0.422** với GPT-5.4, gần bằng không với một mô hình mở 7B; tinh chỉnh có giám sát đạt **0.474 ± 0.023** cho mô hình 7B đó; GRPO với một phần thưởng độ chính xác dày và được chuẩn hóa theo đặc trưng đạt **0.618 ± 0.005** trên mọi đặc trưng và mọi prompt ([[swim-student-writing-simulation-2026]]).
+Một phần thưởng khớp chính xác là quá thưa khi thứ bạn quan tâm có nhiều chiều. [[simulation|Trình mô phỏng]] viết của SWIM cho thấy tiến trình này rõ ràng: viết prompt dựa trên rubric đạt QWK trung bình tốt nhất cho từng đặc trưng là **0.577** với Claude Sonnet và **0.422** với GPT-5.4, gần bằng không với một mô hình mở 7B; tinh chỉnh có giám sát đạt **0.474 ± 0.023** cho mô hình 7B đó; GRPO với một phần thưởng độ chính xác dày và được chuẩn hóa theo đặc trưng đạt **0.618 ± 0.005** trên mọi đặc trưng và mọi prompt ([[swim-student-writing-simulation-2026]]).
 
 Thiết kế phần thưởng tạo ra khoảng cách đó. Một tín hiệu dày được chuẩn hóa theo đặc trưng thắng khớp chính xác trong bối cảnh nhiều đặc trưng, và nếu phần thưởng của bạn chỉ có tác dụng trên một phản hồi hoàn hảo thì phần lớn tín hiệu huấn luyện của bạn là im lặng.
 
 ## Đặt lập luận vào trong các ví dụ
 
-Phát hiện dễ hành động nhất trong lĩnh vực này liên quan tới việc dữ liệu huấn luyện phải chứa gì. Các mô hình đã tinh chỉnh theo chỉ dẫn chỉ học được những hiểu sai về đại số khi được huấn luyện trên **dấu vết lời giải ở cấp từng bước**. Khi chỉ huấn luyện trên đáp án cuối, độ chính xác vẫn **dưới 30% ở mọi kích thước dữ liệu** ([[misconception-acquisition-dynamics-llms-2026]]).
+Phát hiện dễ hành động nhất trong lĩnh vực này liên quan tới việc dữ liệu huấn luyện phải chứa gì. Các mô hình đã tinh chỉnh theo chỉ dẫn chỉ học được những [[misconceptions|hiểu sai]] về đại số khi được huấn luyện trên **dấu vết lời giải ở cấp từng bước**. Khi chỉ huấn luyện trên đáp án cuối, độ chính xác vẫn **dưới 30% ở mọi kích thước dữ liệu** ([[misconception-acquisition-dynamics-llms-2026]]).
 
 Hai chi tiết từ nghiên cứu đó quan trọng với bất kỳ ai xây một trong hai phía của một gia sư. Vai sinh viên tổng quát hóa quá mức lỗi đã học cho tới khi các ví dụ đúng được trộn vào với tỉ lệ thấp tới **một phần tư**. Vai gia sư không cho thấy cái giá đó, giữ độ chính xác đúng trong khoảng **93% đến 98%** qua mười hiểu sai được huấn luyện đồng thời.
 
@@ -84,7 +84,7 @@ Cách đọc thực tế: nếu thất bại của bạn là sai giọng điệu
 
 ## Gán nhãn cho mỗi ví dụ theo hành vi nó dạy
 
-Nếu phần giám sát phải chứa lập luận, thì cách gán nhãn là một quyết định về chương trình học. Một nghiên cứu về nhãn giám sát thấy rằng việc gán cho mỗi ví dụ huấn luyện một hành vi đích, trong số năng lực môn học, bám sát chương trình, lập luận chẩn đoán và giàn giáo, đã nâng điểm ở mọi kích thước mô hình được thử, với mức tăng lớn nhất ở giàn giáo và ở việc sử dụng lịch sử của người học. Chẩn đoán trạng thái kiến thức vẫn là hành vi yếu nhất ở **54.04%** ([[omniedu-open-educational-foundation-models-2026]]). Chẩn đoán là mục khó nhất trong danh sách đó, nên hãy dự trù cho nó.
+Nếu phần giám sát phải chứa lập luận, thì cách gán nhãn là một quyết định về [[curriculum-design|chương trình học]]. Một nghiên cứu về nhãn giám sát thấy rằng việc gán cho mỗi ví dụ huấn luyện một hành vi đích, trong số năng lực môn học, bám sát chương trình, lập luận chẩn đoán và [[scaffolding|giàn giáo]], đã nâng điểm ở mọi kích thước mô hình được thử, với mức tăng lớn nhất ở giàn giáo và ở việc sử dụng lịch sử của người học. Chẩn đoán trạng thái kiến thức vẫn là hành vi yếu nhất ở **54.04%** ([[omniedu-open-educational-foundation-models-2026]]). Chẩn đoán là mục khó nhất trong danh sách đó, nên hãy dự trù cho nó.
 
 Chọn dữ liệu là một bài toán huấn luyện riêng. Edu-QuRating chuyển thể việc chưng cất sở thích sang việc tuyển chọn dữ liệu giáo dục, thay một điểm số duy nhất kiểu “cái này có tính giáo dục không?” bằng **20 chiều rubric** bao quát độ chính xác thực tế, cấu trúc sư phạm và mức phù hợp với trình độ ([[garrod-edu-qurating-educational-data-curation-2026]]). Nếu bạn đang lắp một tập dữ liệu từ văn bản trên web, bộ lọc đó quyết định mô hình của bạn học cách nghe như thế nào.
 
@@ -102,7 +102,7 @@ Một con đường rẻ hơn là chưng cất. Pedagogy-R1, ở 1.5B và 7B, đ
 
 Huấn luyện sau không nhất thiết chỉ định hình điều mô hình nói. TACT huấn luyện sau một gia sư trên một hệ phân loại 13 chiến lược cộng với một hệ phân loại nước đi của sinh viên theo hai trục và giành được **20.30 điểm** so với mô hình nền Qwen3.5-4B của nó, với một bộ đánh giá chuẩn chẩn đoán **giữ lại các nhãn trạng thái người học** vốn có trong lúc huấn luyện để mô hình phải suy ra trạng thái từ cuộc đối thoại ([[tact-pedagogically-adaptive-esl-tutoring]]).
 
-Cùng logic đó chạy qua việc căn chỉnh cho [[special-education|giáo dục đặc biệt]] ([[special-r1-rl-special-education]]) và qua công trình RL theo heuristic, vốn căn chỉnh mô hình thành những người dẫn dắt kiểu Socrates thay vì những người trả lời ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Một nền tảng đi xa hơn và huấn luyện chính chính sách chứ không phải văn bản: một tác nhân học tăng cường chọn bài luyện tập tiếp theo, nên điều người học làm tiếp theo do mô hình đã huấn luyện quyết định ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
+Cùng logic đó chạy qua việc căn chỉnh cho [[special-education|giáo dục đặc biệt]] ([[special-r1-rl-special-education]]) và qua công trình RL theo heuristic, vốn căn chỉnh mô hình thành những người dẫn dắt [[socratic-method|kiểu Socrates]] thay vì những người trả lời ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Một nền tảng đi xa hơn và huấn luyện chính chính sách chứ không phải văn bản: một tác nhân học tăng cường chọn bài luyện tập tiếp theo, nên điều người học làm tiếp theo do mô hình đã huấn luyện quyết định ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
 
 Trường hợp cuối đó là phép thử xem bạn đã thiết kế một gia sư hay một máy sinh văn bản. Nếu đầu ra duy nhất của mô hình là văn xuôi, thì sư phạm nằm trong mã điều phối của bạn. Nếu mô hình chọn nhiệm vụ tiếp theo, thì sư phạm nằm trong trọng số.
 
@@ -112,7 +112,7 @@ Huấn luyện không làm cho một mô hình an toàn qua một cuộc hội t
 
 ## Những gì đội huấn luyện hiểu sai
 
-Viết prompt nhiều hơn rồi sẽ đủ. Sự nịnh bợ vẫn tồn tại sau khi viết prompt và căn chỉnh, và áp lực thẩm quyền mở lại hành vi mà một bài kiểm tra chuyển ngữ cảnh đã đóng lại. Bản ghi từ chính bài kiểm tra áp lực của bạn là bằng chứng cho điều này trong sản phẩm của bạn.
+Viết prompt nhiều hơn rồi sẽ đủ. [[ai-sycophancy|Sự nịnh bợ]] vẫn tồn tại sau khi viết prompt và căn chỉnh, và áp lực thẩm quyền mở lại hành vi mà một bài kiểm tra chuyển ngữ cảnh đã đóng lại. Bản ghi từ chính bài kiểm tra áp lực của bạn là bằng chứng cho điều này trong sản phẩm của bạn.
 
 Con số trên bảng xếp hạng là kết quả. 96.52% trên CDPK mô tả hiệu suất trên các nhiệm vụ sư phạm của một bộ đánh giá chuẩn. Sinh viên của bạn gặp chương trình của bạn, ký hiệu của bạn, và một sinh viên đã tắc hai mươi phút.
 

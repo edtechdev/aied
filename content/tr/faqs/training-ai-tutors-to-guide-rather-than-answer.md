@@ -35,9 +35,9 @@ translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından g
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-Öğretmeniniz yanıtı hemen veriyor. Demo bunu göstermedi, çünkü soru kolaydı ve öğrenci işbirliğine açıktı. Pilot günlükleri gösteriyor: öğrenci iki kez soruyor, model yöntemi yeniden anlatıyor, sonra çözüyor. Bir öğretmen oturumu izleyip bunun dost canlısı bir sesi olan bir sohbet robotu olduğunu söylüyor. Şimdi mühendislik zamanının çeyreğini eğitim sonrasına mı ayıracağınıza yoksa daha iyi bir sistem istemiyle mi yayına çıkacağınıza karar veriyorsunuz.
+Öğretmeniniz yanıtı hemen veriyor. Demo bunu göstermedi, çünkü soru kolaydı ve öğrenci işbirliğine açıktı. Pilot günlükleri gösteriyor: öğrenci iki kez soruyor, model yöntemi yeniden anlatıyor, sonra çözüyor. [[teacher-role|Bir öğretmen]] oturumu izleyip bunun dost canlısı bir sesi olan bir [[conversational-ai|sohbet robotu]] olduğunu söylüyor. Şimdi mühendislik zamanının çeyreğini eğitim sonrasına mı ayıracağınıza yoksa daha iyi bir sistem istemiyle mi yayına çıkacağınıza karar veriyorsunuz.
 
-Kısa yanıt: istem yazmak, yanıt vermeye doğru çekimi ortadan kaldırmaz, çünkü temel model yardımseverlik üretmek üzere eğitilmiştir. Ürününüz yönlendirme davranışıysa bu davranışın eğitilmesi gerekir ve sonucu belirleyen değişken **ödüldür**. Ödülü bir benchmark'a göre yazın, eğitim verisine adım düzeyinde akıl yürütme koyun ve eğitimi modelin seçtiği bir sonraki pedagojik hamle üzerinden değerlendirin.
+Kısa yanıt: istem yazmak, yanıt vermeye doğru çekimi ortadan kaldırmaz, çünkü temel model yardımseverlik üretmek üzere eğitilmiştir. Ürününüz yönlendirme davranışıysa bu davranışın eğitilmesi gerekir ve sonucu belirleyen değişken **ödüldür**. Ödülü bir benchmark'a göre yazın, eğitim verisine adım düzeyinde akıl yürütme koyun ve eğitimi modelin seçtiği bir sonraki [[pedagogy|pedagojik]] hamle üzerinden değerlendirin.
 
 ## Kısa özet
 
@@ -47,7 +47,7 @@ Kısa yanıt: istem yazmak, yanıt vermeye doğru çekimi ortadan kaldırmaz, ç
 
 **3.** Adım düzeyindeki izler üzerinde eğitin. Soru ve doğru yanıt çiftlerinden oluşan bir derlem, bir modele öğrencinin nerede yanıldığını görmeyi öğretemez.
 
-**4.** Yargı söz konusu olduğunda taklitten çok pekiştirmeli öğrenmeyi tercih edin ve ara aşama puanlarını saklayın.
+**4.** Yargı söz konusu olduğunda taklitten çok [[reinforcement-learning|pekiştirmeli öğrenmeyi]] tercih edin ve ara aşama puanlarını saklayın.
 
 **5.** Ödülü, yanıtların çoğunda tetiklenecek kadar yoğun yapın ve değerlendirmeyi tüm konuşmalar üzerinde çalıştırın.
 
@@ -69,13 +69,13 @@ Bundan iki sonuç çıkar. Ödülün suiistimal edileceğini bekleyin, çünkü 
 
 ## Ödülü öğretecek kadar sık tetikleyin
 
-Tam eşleşmeye dayalı bir ödül, önemsediğiniz şeyin birkaç boyutu olduğunda fazla seyrektir. SWIM'in yazma simülatörü ilerlemeyi net gösteriyor: rubriğe dayalı istem yazımı Claude Sonnet ile en iyi ortalama özellik QWK'sine, **0,577**'ye, GPT-5.4 ile **0,422**'ye ulaştı ve açık bir 7B modelde sıfıra yakın kaldı; gözetimli ince ayar o 7B model için **0,474 ± 0,023**'e ulaştı; yoğun ve özelliğe göre normalleştirilmiş bir doğruluk ödülüyle GRPO ise her özellik ve istemde **0,618 ± 0,005**'e ulaştı ([[swim-student-writing-simulation-2026]]).
+Tam eşleşmeye dayalı bir ödül, önemsediğiniz şeyin birkaç boyutu olduğunda fazla seyrektir. SWIM'in yazma [[simulation|simülatörü]] ilerlemeyi net gösteriyor: rubriğe dayalı istem yazımı Claude Sonnet ile en iyi ortalama özellik QWK'sine, **0,577**'ye, GPT-5.4 ile **0,422**'ye ulaştı ve açık bir 7B modelde sıfıra yakın kaldı; gözetimli ince ayar o 7B model için **0,474 ± 0,023**'e ulaştı; yoğun ve özelliğe göre normalleştirilmiş bir doğruluk ödülüyle GRPO ise her özellik ve istemde **0,618 ± 0,005**'e ulaştı ([[swim-student-writing-simulation-2026]]).
 
 Bu farkı ödül tasarımı üretti. Çok özellikli bir ortamda yoğun ve özelliğe göre normalleştirilmiş bir sinyal tam eşleşmeyi yener; ödülünüz yalnızca kusursuz bir yanıtta tetikleniyorsa eğitim sinyalinizin çoğu sessizliktir.
 
 ## Akıl yürütmeyi örneklere koyun
 
-Bu alandaki en uygulanabilir bulgu, eğitim verisinin ne içermesi gerektiğiyle ilgili. Komutla ince ayar yapılmış modeller cebir yanılgılarını ancak **adım düzeyinde çözüm izleriyle** eğitildiklerinde öğrendi. Yalnızca nihai yanıtlarla eğitildiklerinde doğruluk **her veri boyutunda %30'un altında** kaldı ([[misconception-acquisition-dynamics-llms-2026]]).
+Bu alandaki en uygulanabilir bulgu, eğitim verisinin ne içermesi gerektiğiyle ilgili. Komutla ince ayar yapılmış modeller cebir [[misconceptions|yanılgılarını]] ancak **adım düzeyinde çözüm izleriyle** eğitildiklerinde öğrendi. Yalnızca nihai yanıtlarla eğitildiklerinde doğruluk **her veri boyutunda %30'un altında** kaldı ([[misconception-acquisition-dynamics-llms-2026]]).
 
 O çalışmadaki iki ayrıntı, bir öğretmenin her iki tarafını da kuranlar için önemli. Öğrenci rolü, öğrendiği hatayı, doğru örnekler **dörtte bir** gibi düşük oranlarda karıştırılana kadar aşırı genelledi. Öğretmen rolünde böyle bir bedel görülmedi; birlikte eğitilen on yanılgı boyunca doğru yanıt oranı **%93 ile %98** arasında korundu.
 
@@ -91,7 +91,7 @@ Pratik okuma şu: arızanız yanlış bir ton ya da eksik bir biçimse SFT ucuz 
 
 ## Her örneği öğrettiği davranışla etiketleyin
 
-Gözetimin akıl yürütme içermesi gerekiyorsa etiketleme şeması bir izlence kararıdır. Gözetim etiketleri üzerine bir çalışma, her eğitim önesine ders yeterliği, izlenceye dayanma, tanısal akıl yürütme ve iskeleleme arasından tek bir hedef davranış atamanın, denenen her model boyutunda puanları yükselttiğini; en büyük kazançların iskeleleme ve öğrencinin geçmişini kullanmada olduğunu buldu. Bilgi durumu tanısı **%54,04** ile en zayıf davranış olarak kaldı ([[omniedu-open-educational-foundation-models-2026]]). Tanı, o listedeki en zor maddedir; bütçesini buna göre ayırın.
+Gözetimin akıl yürütme içermesi gerekiyorsa etiketleme şeması bir [[curriculum-design|izlence]] kararıdır. Gözetim etiketleri üzerine bir çalışma, her eğitim önesine ders yeterliği, izlenceye dayanma, tanısal akıl yürütme ve [[scaffolding|iskeleleme]] arasından tek bir hedef davranış atamanın, denenen her model boyutunda puanları yükselttiğini; en büyük kazançların iskeleleme ve öğrencinin geçmişini kullanmada olduğunu buldu. Bilgi durumu tanısı **%54,04** ile en zayıf davranış olarak kaldı ([[omniedu-open-educational-foundation-models-2026]]). Tanı, o listedeki en zor maddedir; bütçesini buna göre ayırın.
 
 Veri seçimi başlı başına bir eğitim sorunudur. Edu-QuRating, tercih damıtmayı eğitim verisi küratörlüğüne uyarlıyor ve tek bir "bu eğitimsel mi?" puanının yerine olgusal doğruluk, pedagojik yapı ve düzeye uygunluğu kapsayan **20 rubrik boyutu** koyuyor ([[garrod-edu-qurating-educational-data-curation-2026]]). Web metninden bir derlem oluşturuyorsanız, modelinizin neye benzeyerek konuşmayı öğreneceğini bu filtre belirler.
 
@@ -109,7 +109,7 @@ Daha ucuz bir yol damıtmadır. 1.5B ve 7B boyutlarındaki Pedagogy-R1, bir QwQ-
 
 Eğitim sonrası yalnızca modelin ne söylediğini biçimlendirmek zorunda değil. TACT, bir öğretmeni 13 stratejili bir taksonomi ve iki eksenli bir öğrenci hamlesi taksonomisi üzerinde eğitim sonrasından geçirdi ve Qwen3.5-4B omurgasına göre **20,30 puan** kazandı; tanısal benchmark'ı ise eğitim sırasında erişilebilen **öğrenci durumu etiketlerini saklıyor**, böylece model durumu diyalogdan çıkarmak zorunda kalıyor ([[tact-pedagogically-adaptive-esl-tutoring]]).
 
-Aynı mantık [[special-education|özel eğitim]] hizalamasında ([[special-r1-rl-special-education]]) ve modelleri yanıtlayıcı değil Sokratik rehber olarak hizalayan buluşsal pekiştirmeli öğrenme çalışmasında da işliyor ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Bir platform daha ileri gidip metni değil politikayı eğitiyor: pekiştirmeli öğrenme ajanı bir sonraki alıştırma sorusunu seçiyor, yani öğrencinin bir sonraki adımda ne yapacağına eğitilmiş model karar veriyor ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
+Aynı mantık [[special-education|özel eğitim]] hizalamasında ([[special-r1-rl-special-education]]) ve modelleri yanıtlayıcı değil [[socratic-method|Sokratik]] rehber olarak hizalayan buluşsal pekiştirmeli öğrenme çalışmasında da işliyor ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Bir platform daha ileri gidip metni değil politikayı eğitiyor: pekiştirmeli öğrenme ajanı bir sonraki alıştırma sorusunu seçiyor, yani öğrencinin bir sonraki adımda ne yapacağına eğitilmiş model karar veriyor ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
 
 Bu son durum, bir öğretmen mi yoksa bir metin üreticisi mi tasarladığınızın testidir. Modelin tek çıktısı düz metinse pedagoji sizin orkestrasyon kodunuzda yaşıyor. Model bir sonraki görevi seçiyorsa pedagoji ağırlıklarda.
 
@@ -119,7 +119,7 @@ Eğitim, bir modeli uzun bir konuşma boyunca güvenli kılmaz. SafeTutors, öze
 
 ## Eğitim ekiplerinin yanlış yaptıkları
 
-Daha fazla istem yazmak eninde sonunda tutar. Dalkavukluk istem yazımından ve hizalamadan sonra da sürüyor, otorite baskısı ise bağlam değiştirme testinin kapattığı davranışı yeniden açıyor. Bunun ürününüzdeki kanıtı, kendi baskı testinizden çıkan dökümdür.
+Daha fazla istem yazmak eninde sonunda tutar. [[ai-sycophancy|Dalkavukluk]] istem yazımından ve hizalamadan sonra da sürüyor, otorite baskısı ise bağlam değiştirme testinin kapattığı davranışı yeniden açıyor. Bunun ürününüzdeki kanıtı, kendi baskı testinizden çıkan dökümdür.
 
 Sıralama tablosundaki sayı sonuçtur. CDPK'da %96,52, bir benchmark'ın pedagoji görevlerindeki performansı anlatır. Sizin öğrencileriniz sizin izlencenizle, sizin gösteriminizle ve yirmi dakikadır tıkanmış bir öğrenciyle karşılaşır.
 

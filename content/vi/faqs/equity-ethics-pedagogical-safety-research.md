@@ -46,7 +46,7 @@ Hai hàm ý thiết kế đi theo. Hãy nhắm vào các cơ sở mới hơn và
 
 ## Đưa người học khuyết tật vào phòng thiết kế
 
-Hãy đưa người học khuyết tật vào việc thiết kế và đánh giá, kiểm thử giao diện thật đối chiếu với các yêu cầu về khả năng tiếp cận, và cung cấp những đường đi tương đương để tham gia và để thể hiện việc học. Tuân thủ kỹ thuật và dạy học bao trùm là hai phép kiểm tra riêng, và [[accessibility|Khả năng tiếp cận]] bao quát cả hai.
+Hãy đưa [[inclusive-learning|người học khuyết tật]] vào việc thiết kế và đánh giá, kiểm thử giao diện thật đối chiếu với các yêu cầu về khả năng tiếp cận, và cung cấp những đường đi tương đương để tham gia và để thể hiện việc học. Tuân thủ kỹ thuật và [[inclusive-learning|dạy học bao trùm]] là hai phép kiểm tra riêng, và [[accessibility|Khả năng tiếp cận]] bao quát cả hai.
 
 Một [[ko-hughes-vsd-student-centered-its-2026|nghiên cứu thiết kế nhạy cảm với giá trị]] với sinh viên cao đẳng cộng đồng, giảng viên và nhà phát triển cho thấy công việc đó trên thực tế. Nó tạo ra 16 tính năng gắn với giá trị trên ba nhóm: [[explainable-ai|khả năng giải thích]] (E1-E5), quyền kiểm soát [[human-in-the-loop-ai|con người trong vòng lặp]] (H1-H9), và [[privacy|quyền riêng tư]] (P1-P4), và làm nổi lên những căng thẳng chứ không phải những câu trả lời gọn gàng: minh bạch đối lại khả năng diễn giải, quyền riêng tư đối lại hiểu biết về dạy học, [[agency|quyền hành]] của người học đối lại [[scaffolding|giàn giáo]] do hệ thống dẫn dắt. Hãy dự liệu sẽ phải phân xử những căng thẳng đó, và ghi lại bạn đã đi theo hướng nào.
 
@@ -64,7 +64,7 @@ Những người làm thực tế hội tụ về một thiết kế tương th�
 
 ## Kết hợp phương pháp, và cho thấy đường đi từ dữ liệu đến khẳng định
 
-Kết quả [[quantitative-research|định lượng]] được tách theo nhóm có thể cho thấy [[differential-effects-across-learner-groups|hiệu ứng khác biệt]]. Phỏng vấn, quan sát, thảo luận nhóm và đồng thiết kế làm nổi lên những rào cản, tác hại, giả định văn hóa và trải nghiệm người học mà điểm số tổng hợp bỏ sót. Bản tổng hợp [[research-methods-aied|Phương pháp nghiên cứu trong AIED]] xem việc tam giác hóa là cần thiết vì không một phương pháp [[qualitative-research|định tính]] hay định lượng nào tối đa hóa cùng lúc suy luận nhân quả, giá trị sinh thái, hiểu biết bối cảnh và khả năng khái quát hóa.
+Kết quả [[quantitative-research|định lượng]] được tách theo nhóm có thể cho thấy [[differential-effects-across-learner-groups|hiệu ứng khác biệt]]. Phỏng vấn, quan sát, thảo luận nhóm và đồng thiết kế làm nổi lên những rào cản, tác hại, giả định văn hóa và [[student-experience|trải nghiệm người học]] mà điểm số tổng hợp bỏ sót. Bản tổng hợp [[research-methods-aied|Phương pháp nghiên cứu trong AIED]] xem việc tam giác hóa là cần thiết vì không một phương pháp [[qualitative-research|định tính]] hay định lượng nào tối đa hóa cùng lúc suy luận nhân quả, giá trị sinh thái, hiểu biết bối cảnh và khả năng khái quát hóa.
 
 Phân tích của chính bạn cũng cần cùng kỷ luật đó. [[chain-behind-claim-warrantability-2026|Đề xuất về khả năng bảo chứng]] lập luận rằng một diễn giải có AI hỗ trợ vẫn kiểm tra được, phản bác được và sửa được khi nó đi kèm các hiện vật như bảng chủ đề có liên kết nguồn, chồng thấu kính, và dòng bằng chứng. Một bản tóm tắt trôi chảy không nên che đi con đường đã tạo ra nó.
 

@@ -28,9 +28,9 @@ ai_assist:
 
 *Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*
 
-A tutora odaadja a választ. A demó nem mutatta meg, mert a kérdés könnyű volt, a diák pedig együttműködő. A próbaüzem naplói megmutatják: a diák kétszer kérdez, a modell elismétli a módszert, majd megoldja. Egy tanár végignéz egy beszélgetést, és azt mondja, ez egy csevegőbot barátságos hanggal. Most arról dönt, hogy a mérnöki idő negyedét utólagos tanításra költi-e, vagy jobb rendszerprompttal szállít.
+A tutora odaadja a választ. A demó nem mutatta meg, mert a kérdés könnyű volt, a diák pedig együttműködő. A próbaüzem naplói megmutatják: a diák kétszer kérdez, a modell elismétli a módszert, majd megoldja. Egy [[teacher-role|tanár]] végignéz egy beszélgetést, és azt mondja, ez egy [[conversational-ai|csevegőbot]] barátságos hanggal. Most arról dönt, hogy a mérnöki idő negyedét utólagos tanításra költi-e, vagy jobb rendszerprompttal szállít.
 
-A rövid válasz: a promptolás nem szünteti meg a válaszadás felé húzó erőt, mert a segítőkészség az, amire az alaps modellt tanították. Ha az irányító viselkedés a termék, azt tanítani kell, és a kimenetről döntő változó a **jutalom**. Írja a jutalmat benchmarkhoz mérve, tegyen lépésszintű gondolkodást a tanító adatba, és a tanítást a modell következő pedagógiai lépésén ítélje meg.
+A rövid válasz: a promptolás nem szünteti meg a válaszadás felé húzó erőt, mert a segítőkészség az, amire az alaps modellt tanították. Ha az irányító viselkedés a termék, azt tanítani kell, és a kimenetről döntő változó a **jutalom**. Írja a jutalmat benchmarkhoz mérve, tegyen lépésszintű gondolkodást a tanító adatba, és a tanítást a modell következő [[pedagogy|pedagógiai]] lépésén ítélje meg.
 
 ## A rövid változat
 
@@ -40,7 +40,7 @@ A rövid válasz: a promptolás nem szünteti meg a válaszadás felé húzó er
 
 **3.** Lépésszintű nyomokon tanítson. Kérdés és helyes válasz párokból álló korpusz nem tudja megtanítani a modellt arra, hogy lássa, hol tévedett a diák.
 
-**4.** Ha az ítélőképesség számít, részesítse előnyben a megerősítéses tanulást az utánzással szemben, és tartsa meg a köztes szakasz pontszámait.
+**4.** Ha az ítélőképesség számít, részesítse előnyben a [[reinforcement-learning|megerősítéses tanulást]] az utánzással szemben, és tartsa meg a köztes szakasz pontszámait.
 
 **5.** Tegye a jutalmat elég sűrűvé, hogy a válaszok többségénél bekapcsoljon, és az értékelést teljes beszélgetéseken futtassa.
 
@@ -62,13 +62,13 @@ Két dolog következik. Számítson arra, hogy a jutalmat kijátsszák, mert kev
 
 ## Tegye a jutalmat elég sűrűvé, hogy tanítson
 
-A pontos egyezésre épülő jutalom túl ritka, amikor a számításba vett dolognak több dimenziója van. A SWIM írásszimulátora tisztán mutatja a fokozatokat: a rubrikára épülő promptolás a legjobb átlagos vonás-QWK **0,577**-át érte el Claude Sonnet mellett, **0,422**-t GPT-5.4 mellett, egy nyílt 7B modellnél pedig közel nullát; a felügyelt finomhangolás **0,474 ± 0,023**-ra jutott annál a 7B modellnél; a sűrű, vonásnormalizált pontossági jutalommal futó GRPO **0,618 ± 0,005**-ot ért el minden vonáson és minden prompton ([[swim-student-writing-simulation-2026|SWIM írásszimulátor]]).
+A pontos egyezésre épülő jutalom túl ritka, amikor a számításba vett dolognak több dimenziója van. A SWIM [[simulation|írásszimulátora]] tisztán mutatja a fokozatokat: a rubrikára épülő promptolás a legjobb átlagos vonás-QWK **0,577**-át érte el Claude Sonnet mellett, **0,422**-t GPT-5.4 mellett, egy nyílt 7B modellnél pedig közel nullát; a felügyelt finomhangolás **0,474 ± 0,023**-ra jutott annál a 7B modellnél; a sűrű, vonásnormalizált pontossági jutalommal futó GRPO **0,618 ± 0,005**-ot ért el minden vonáson és minden prompton ([[swim-student-writing-simulation-2026|SWIM írásszimulátor]]).
 
 A különbséget a jutalomtervezés hozta létre. A sűrű, vonásnormalizált jel többvonásos környezetben legyőzi a pontos egyezést, és ha a jutalma csak tökéletes válaszra kapcsol be, a tanító jel nagy része csend.
 
 ## Tegye a gondolkodást a példákba
 
-Az ezen a területen leginkább használható eredmény arról szól, mit kell tartalmaznia a tanító adatnak. Az utasításra finomhangolt modellek csak akkor tanulták meg az algebrai tévhiteket, amikor **lépésszintű megoldási nyomokon** tanították őket. Kizárólag végső válaszokon tanítva a pontosság **minden adatméretnél 30% alatt** maradt ([[misconception-acquisition-dynamics-llms-2026|a tévhitek elsajátítási dinamikája]]).
+Az ezen a területen leginkább használható eredmény arról szól, mit kell tartalmaznia a tanító adatnak. Az utasításra finomhangolt modellek csak akkor tanulták meg az algebrai [[misconceptions|tévhiteket]], amikor **lépésszintű megoldási nyomokon** tanították őket. Kizárólag végső válaszokon tanítva a pontosság **minden adatméretnél 30% alatt** maradt ([[misconception-acquisition-dynamics-llms-2026|a tévhitek elsajátítási dinamikája]]).
 
 A tanulmányból két részlet számít annak, aki a tutor bármelyik oldalát építi. A diák szerep túláltalánosította a megtanult hibát, amíg a helyes példákat be nem keverték akár **egy a négyhez** arányban is. A tutor szerep nem mutatott ilyen költséget, a helyes pontosságot **93%-ról 98%-ra** tartva tíz együtt tanított tévhit mentén.
 
@@ -84,7 +84,7 @@ A gyakorlati olvasat: ha a hibája rossz hangnem vagy hiányzó formátum, az SF
 
 ## Címkézze meg minden példát azzal a viselkedéssel, amelyet tanít
 
-Ha a felügyeletnek tartalmaznia kell a gondolkodást, a címkézési séma tantervi döntés. A felügyeleti címkékről szóló tanulmány azt találta, hogy minden tanítópéldához egyetlen célviselkedést rendelve, a tantárgyi kompetencia, a tantervi megalapozás, a diagnosztikai gondolkodás és az állványozás közül, minden kipróbált modellméretnél emelkedtek a pontszámok, a legnagyobb nyereség az állványozásban és a tanuló előtörténetének használatában jelentkezett. A tudásállapot-diagnózis maradt a leggyengébb viselkedés **54,04%**-kal ([[omniedu-open-educational-foundation-models-2026|OmniEdu]]). A diagnózis a legnehezebb tétel a listán, ezért tervezzen rá büdzsét.
+Ha a felügyeletnek tartalmaznia kell a gondolkodást, a címkézési séma [[curriculum-design|tantervi]] döntés. A felügyeleti címkékről szóló tanulmány azt találta, hogy minden tanítópéldához egyetlen célviselkedést rendelve, a tantárgyi kompetencia, a tantervi megalapozás, a diagnosztikai gondolkodás és az [[scaffolding|állványozás]] közül, minden kipróbált modellméretnél emelkedtek a pontszámok, a legnagyobb nyereség az állványozásban és a tanuló előtörténetének használatában jelentkezett. A tudásállapot-diagnózis maradt a leggyengébb viselkedés **54,04%**-kal ([[omniedu-open-educational-foundation-models-2026|OmniEdu]]). A diagnózis a legnehezebb tétel a listán, ezért tervezzen rá büdzsét.
 
 Az adatkiválasztás önálló tanítási probléma. Az Edu-QuRating a preferencia-desztillációt az oktatási adatok válogatásához és gondozásához igazítja, egyetlen „ez oktatási jellegű-e?” pontszám helyett **20 rubrikadimenzióval** fedve a tényszerű pontosságot, a pedagógiai szerkezetet és a szint megfelelőségét ([[garrod-edu-qurating-educational-data-curation-2026|Edu-QuRating]]). Ha webes szövegből állít össze korpuszt, az a szűrő dönti el, hogy a modell milyen hangvételt tanul meg.
 
@@ -102,7 +102,7 @@ Olcsóbb út a desztilláció. A Pedagogy-R1, 1.5B és 7B méretben, utasításr
 
 Az utólagos tanításnak nemcsak azt kell formálnia, amit a modell mond. A TACT egy 13 stratégiából álló taxonómián és egy két tengelyű diákmozdulat-taxonómián tanított tutort, és **20,30 pontot** nyert a Qwen3.5-4B gerincével szemben, olyan diagnosztikai benchmarkkal, amely **visszatartja a tanulóállapot-címkéket**, amelyek a tanítás során elérhetők voltak, így a modellnek a párbeszédből kell kikövetkeztetnie az állapotot ([[tact-pedagogically-adaptive-esl-tutoring|TACT]]).
 
-Ugyanez a logika fut végig a [[special-education|gyógypedagógiai]] illesztésen ([[special-r1-rl-special-education|Special-R1]]) és azon a heurisztikus RL-munkán, amely a modelleket válaszadó helyett szókratészi vezetőként illeszti ([[wang-socratic-guides-heuristic-reinforcement-learning-2026|szókratészi vezetők heurisztikus RL-je]]). Egy platform tovább megy, és a próza helyett a politikát tanítja: egy megerősítéses tanulású ügynök választja ki a következő gyakorlófeladatot, így azt, hogy a tanuló mihez kezd következőként, a tanított modell dönti el ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|személyre szabott MI-tutorok RL-je]]).
+Ugyanez a logika fut végig a [[special-education|gyógypedagógiai]] illesztésen ([[special-r1-rl-special-education|Special-R1]]) és azon a heurisztikus RL-munkán, amely a modelleket válaszadó helyett [[socratic-method|szókratészi]] vezetőként illeszti ([[wang-socratic-guides-heuristic-reinforcement-learning-2026|szókratészi vezetők heurisztikus RL-je]]). Egy platform tovább megy, és a próza helyett a politikát tanítja: egy megerősítéses tanulású ügynök választja ki a következő gyakorlófeladatot, így azt, hogy a tanuló mihez kezd következőként, a tanított modell dönti el ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|személyre szabott MI-tutorok RL-je]]).
 
 Ez az utolsó eset annak a próbája, hogy tutort tervezett-e vagy szöveggenerátort. Ha a modell egyetlen kimenete a próza, a pedagógia a vezérlő kódjában él. Ha a modell választja a következő feladatot, a pedagógia a súlyokban van.
 
@@ -112,7 +112,7 @@ A tanítás nem teszi a modellt biztonságossá hosszú beszélgetésen. A SafeT
 
 ## Amit a tanítócsapatok eltévesztenek
 
-A több promptolás előbb-utóbb tartani fog. A hízelkedés fennmarad a promptolás és az illesztés után, a tekintélyi nyomás pedig újranyitja azt a viselkedést, amelyet egy kontextusváltásos teszt bezárt. A saját nyomástesztjének átirata az erre vonatkozó bizonyíték a termékében.
+A több promptolás előbb-utóbb tartani fog. A [[ai-sycophancy|hízelkedés]] fennmarad a promptolás és az illesztés után, a tekintélyi nyomás pedig újranyitja azt a viselkedést, amelyet egy kontextusváltásos teszt bezárt. A saját nyomástesztjének átirata az erre vonatkozó bizonyíték a termékében.
 
 A ranglista száma az eredmény. A 96,52% a CDPK-n egyetlen benchmark pedagógiai feladatain mért teljesítményt ír le. Az Ön diákjai az Ön tantervével, az Ön jelölésével és egy húsz perce elakadt diákkal találkoznak.
 

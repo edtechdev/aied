@@ -46,7 +46,7 @@ Z toho plynou dva důsledky pro design. Zaměřte se na novější instituce a n
 
 ## Přiveďte žáky s postižením do designové místnosti
 
-Zapojte žáky s postižením do designu a hodnocení, testujte skutečná rozhraní proti požadavkům na přístupnost a zajistěte rovnocenné cesty k účasti a k prokázání učení. Technický soulad a inkluzivní výuka jsou dva oddělené testy a [[accessibility|přístupnost]] pokrývá oba.
+Zapojte [[inclusive-learning|žáky s postižením]] do designu a hodnocení, testujte skutečná rozhraní proti požadavkům na přístupnost a zajistěte rovnocenné cesty k účasti a k prokázání učení. Technický soulad a [[inclusive-learning|inkluzivní výuka]] jsou dva oddělené testy a [[accessibility|přístupnost]] pokrývá oba.
 
 [[ko-hughes-vsd-student-centered-its-2026|Studie designu citlivého na hodnoty]] se studenty, vyučujícími a vývojáři z komunitní vysoké školy ukazuje tu práci v praxi. Vytvořila 16 funkcí sladěných s hodnotami napříč [[explainable-ai|vysvětlitelností]] (E1-E5), kontrolou v [[human-in-the-loop-ai|režimu člověk ve smyčce]] (H1-H9) a [[privacy|soukromím]] (P1-P4) a odhalila spíš napětí než úhledné odpovědi: transparentnost proti interpretovatelnosti, soukromí proti vhledu do výuky, [[agency|agenturnost žáka]] proti systémem vedenému [[scaffolding|scaffolding]]. Očekávejte, že o nich budete muset rozhodovat, a zaznamenejte, kterou cestou jste šli.
 
@@ -64,7 +64,7 @@ Praktici se shodují na slučitelném designu. V [[reichert-human-centered-llm-c
 
 ## Kombinujte metody a ukažte cestu od dat k tvrzení
 
-Desagregované [[quantitative-research|kvantitativní]] výsledky mohou odhalit [[differential-effects-across-learner-groups|rozdílné účinky]]. Rozhovory, pozorování, ohniskové skupiny a společný design odhalují bariéry, újmy, kulturní předpoklady a zkušenost žáka, které agregované skóre míjí. Syntéza o [[research-methods-aied|výzkumných metodách v AIED]] bere triangulaci jako nutnou, protože žádná jednotlivá [[qualitative-research|kvalitativní]] ani kvantitativní metoda nemaximalizuje kauzální usuzování, ekologickou validitu, porozumění kontextu a zobecnitelnost zároveň.
+Desagregované [[quantitative-research|kvantitativní]] výsledky mohou odhalit [[differential-effects-across-learner-groups|rozdílné účinky]]. Rozhovory, pozorování, ohniskové skupiny a společný design odhalují bariéry, újmy, kulturní předpoklady a [[student-experience|zkušenost žáka]], které agregované skóre míjí. Syntéza o [[research-methods-aied|výzkumných metodách v AIED]] bere triangulaci jako nutnou, protože žádná jednotlivá [[qualitative-research|kvalitativní]] ani kvantitativní metoda nemaximalizuje kauzální usuzování, ekologickou validitu, porozumění kontextu a zobecnitelnost zároveň.
 
 Vaše vlastní analýza potřebuje stejnou disciplínu. [[chain-behind-claim-warrantability-2026|Návrh na obhajitelnost]] argumentuje, že interpretace s podporou AI zůstává prozkoumatelná, napadnutelná a revidovatelná, když je dodána s artefakty, jako jsou tabulky témat propojené se zdroji, vrstvy pohledů a řeky důkazů. Plynulé shrnutí by nemělo skrývat cestu, která k němu vedla.
 

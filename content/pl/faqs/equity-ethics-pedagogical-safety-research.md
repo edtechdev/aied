@@ -46,7 +46,7 @@ Wynikają z tego dwie konsekwencje projektowe. Kierować działania do nowszych 
 
 ## Wprowadzić uczących się z niepełnosprawnościami do pokoju projektowego
 
-Włączać uczących się z niepełnosprawnościami w projektowanie i ewaluację, testować rzeczywiste interfejsy wobec wymogów dostępności i zapewniać równoważne drogi uczestnictwa oraz pokazania tego, czego się nauczyli. Zgodność techniczna i inkluzywne nauczanie to dwa osobne testy, a [[accessibility|Dostępność]] obejmuje oba.
+Włączać [[inclusive-learning|uczących się z niepełnosprawnościami]] w projektowanie i ewaluację, testować rzeczywiste interfejsy wobec wymogów dostępności i zapewniać równoważne drogi uczestnictwa oraz pokazania tego, czego się nauczyli. Zgodność techniczna i [[inclusive-learning|inkluzywne nauczanie]] to dwa osobne testy, a [[accessibility|Dostępność]] obejmuje oba.
 
 [[ko-hughes-vsd-student-centered-its-2026|Badanie projektowania wrażliwego na wartości]] ze studentami college'u, prowadzącymi i deweloperami pokazuje tę pracę w praktyce. Dało ono 16 cech zgodnych z wartościami w obszarach [[explainable-ai|wyjaśnialności]] (E1-E5), kontroli [[human-in-the-loop-ai|z człowiekiem w obiegu]] (H1-H9) i [[privacy|prywatności]] (P1-P4) i wydobyło napięcia, a nie uporządkowane odpowiedzi: przejrzystość wobec interpretowalności, prywatność wobec wglądu dydaktycznego, [[agency|sprawczość]] uczącego się wobec prowadzonego przez system [[scaffolding|rusztowania]]. Trzeba się tych napięć spodziewać i zapisać, w którą stronę się poszło.
 
@@ -64,7 +64,7 @@ Praktycy zbiegają się w zgodnym projekcie. W [[reichert-human-centered-llm-cha
 
 ## Łączyć metody i pokazywać drogę od danych do twierdzenia
 
-Zdezagregowane wyniki [[quantitative-research|ilościowe]] mogą ujawnić [[differential-effects-across-learner-groups|zróżnicowane efekty]]. Wywiady, obserwacje, grupy fokusowe i wspólne projektowanie wydobywają bariery, szkody, założenia kulturowe i doświadczenie uczącego się, które pomijają wyniki zbiorcze. Synteza [[research-methods-aied|metod badawczych w AIED]] traktuje triangulację jako konieczną, bo żadna pojedyncza metoda [[qualitative-research|jakościowa]] ani ilościowa nie maksymalizuje jednocześnie wnioskowania przyczynowego, trafności ekologicznej, rozumienia kontekstu i uogólnialności.
+Zdezagregowane wyniki [[quantitative-research|ilościowe]] mogą ujawnić [[differential-effects-across-learner-groups|zróżnicowane efekty]]. Wywiady, obserwacje, grupy fokusowe i wspólne projektowanie wydobywają bariery, szkody, założenia kulturowe i [[student-experience|doświadczenie uczącego się]], które pomijają wyniki zbiorcze. Synteza [[research-methods-aied|metod badawczych w AIED]] traktuje triangulację jako konieczną, bo żadna pojedyncza metoda [[qualitative-research|jakościowa]] ani ilościowa nie maksymalizuje jednocześnie wnioskowania przyczynowego, trafności ekologicznej, rozumienia kontekstu i uogólnialności.
 
 Własna analiza wymaga tej samej dyscypliny. [[chain-behind-claim-warrantability-2026|Propozycja uzasadnialności]] argumentuje, że interpretacja wspierana przez SI pozostaje możliwa do obejrzenia, zakwestionowania i rewizji, gdy towarzyszą jej artefakty, takie jak tabele tematyczne powiązane ze źródłami, stosy soczewek i rzeki dowodów. Płynne podsumowanie nie powinno ukrywać drogi, która je wytworzyła.
 

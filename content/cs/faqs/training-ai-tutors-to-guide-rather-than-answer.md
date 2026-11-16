@@ -28,9 +28,9 @@ ai_assist:
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
 
-Váš tutor prozradí odpověď. Demo to neukázalo, protože otázka byla snadná a student spolupracoval. Logy z pilotu to ukazují: student se zeptá dvakrát, model zopakuje postup a pak to vyřeší. Učitel se podívá na sezení a řekne, že je to chatbot s přátelským hlasem. Teď rozhodujete, zda dát čtvrtinu inženýrského času do post-tréninku, nebo to vydat s lepším systémovým promptem.
+Váš tutor prozradí odpověď. Demo to neukázalo, protože otázka byla snadná a student spolupracoval. Logy z pilotu to ukazují: student se zeptá dvakrát, model zopakuje postup a pak to vyřeší. [[teacher-role|Učitel]] se podívá na sezení a řekne, že je to [[conversational-ai|chatbot]] s přátelským hlasem. Teď rozhodujete, zda dát čtvrtinu inženýrského času do post-tréninku, nebo to vydat s lepším systémovým promptem.
 
-Krátká odpověď: promptování neodstraní tah k odpovídání, protože vstřícnost je to, k čemu byl základní model trénován. Pokud je vodící chování produkt, musí se natrénovat, a proměnná, která rozhoduje o výsledku, je **odměna**. Napište odměnu proti benchmarku, dejte do trénovacích dat uvažování na úrovni kroků a hodnoťte trénink podle dalšího pedagogického kroku, který model zvolí.
+Krátká odpověď: promptování neodstraní tah k odpovídání, protože vstřícnost je to, k čemu byl základní model trénován. Pokud je vodící chování produkt, musí se natrénovat, a proměnná, která rozhoduje o výsledku, je **odměna**. Napište odměnu proti benchmarku, dejte do trénovacích dat uvažování na úrovni kroků a hodnoťte trénink podle dalšího [[pedagogy|pedagogického]] kroku, který model zvolí.
 
 ## Stručně
 
@@ -40,7 +40,7 @@ Krátká odpověď: promptování neodstraní tah k odpovídání, protože vst�
 
 **3.** Trénujte na záznamech na úrovni kroků. Korpus dvojic otázka a správná odpověď nemůže model naučit vidět, kde student udělal chybu.
 
-**4.** Dejte přednost posilovanému učení před imitací, když jde o úsudek, a uchovejte skóre mezistupňů.
+**4.** Dejte přednost [[reinforcement-learning|posilovanému učení]] před imitací, když jde o úsudek, a uchovejte skóre mezistupňů.
 
 **5.** Udělejte odměnu dost hustou, aby se aktivovala u většiny odpovědí, a vyhodnocení spouštějte na celých konverzacích.
 
@@ -62,13 +62,13 @@ Z toho plynou dvě věci. Počítejte s tím, že odměna bude ohnuta, protože 
 
 ## Udělejte odměnu dost hustou, aby učila
 
-Odměna na přesnou shodu je příliš řídká, když má věc, o kterou vám jde, několik dimenzí. Simulátor psaní SWIM ukazuje postup čistě: promptování ukotvené v rubrice dosáhlo nejlepšího průměrného QWK pro rys **0,577** s Claude Sonnet a **0,422** s GPT-5.4, u otevřeného 7B modelu téměř nula; supervizované doladění dosáhlo **0,474 ± 0,023** u toho 7B modelu; GRPO s hustou, na rys normalizovanou odměnou za přesnost dosáhlo **0,618 ± 0,005** napříč všemi rysy a prompty ([[swim-student-writing-simulation-2026]]).
+Odměna na přesnou shodu je příliš řídká, když má věc, o kterou vám jde, několik dimenzí. [[simulation|Simulátor]] psaní SWIM ukazuje postup čistě: promptování ukotvené v rubrice dosáhlo nejlepšího průměrného QWK pro rys **0,577** s Claude Sonnet a **0,422** s GPT-5.4, u otevřeného 7B modelu téměř nula; supervizované doladění dosáhlo **0,474 ± 0,023** u toho 7B modelu; GRPO s hustou, na rys normalizovanou odměnou za přesnost dosáhlo **0,618 ± 0,005** napříč všemi rysy a prompty ([[swim-student-writing-simulation-2026]]).
 
 Ten rozdíl vytvořil návrh odměny. Hustý signál normalizovaný na rysy poráží přesnou shodu v prostředí s více rysy, a pokud se vaše odměna aktivuje jen u dokonalé odpovědi, většina vašeho trénovacího signálu je ticho.
 
 ## Dejte uvažování do příkladů
 
-Nejlépe použitelné zjištění v této oblasti se týká toho, co musí trénovací data obsahovat. Modely doladěné na instrukce se naučily chybná pojetí algebry jen tehdy, když byly trénovány na **záznamech řešení na úrovni kroků**. Při tréninku jen na konečných odpovědích zůstala přesnost **pod 30 % při každé velikosti dat** ([[misconception-acquisition-dynamics-llms-2026]]).
+Nejlépe použitelné zjištění v této oblasti se týká toho, co musí trénovací data obsahovat. Modely doladěné na instrukce se naučily [[misconceptions|chybná pojetí]] algebry jen tehdy, když byly trénovány na **záznamech řešení na úrovni kroků**. Při tréninku jen na konečných odpovědích zůstala přesnost **pod 30 % při každé velikosti dat** ([[misconception-acquisition-dynamics-llms-2026]]).
 
 Pro každého, kdo staví kteroukoli stranu tutoru, jsou důležité dva detaily z té studie. Role studenta přehnaně zobecnila naučenou chybu, dokud se správné příklady nepřimíchaly v poměru až **jedna ku čtyřem**. Role tutora takovou cenu neukázala a udržela správnou přesnost od **93 % do 98 %** napříč deseti společně trénovanými chybnými pojetími.
 
@@ -84,7 +84,7 @@ Praktické čtení: pokud je vaším selháním špatný tón nebo chybějící 
 
 ## Označte každý příklad chováním, které učí
 
-Pokud supervize musí obsahovat uvažování, schéma označování je rozhodnutí o kurikulu. Studie supervizních štítků zjistila, že přiřazení jednoho cílového chování každému trénovacímu příkladu, mezi oborovou kompetencí, ukotvením v kurikulu, diagnostickým uvažováním a scaffoldingem, zvýšilo skóre při každé testované velikosti modelu, s největšími zisky u scaffoldu a u využívání historie žáka. Diagnóza stavu znalostí zůstala nejslabším chováním na **54,04 %** ([[omniedu-open-educational-foundation-models-2026]]). Diagnóza je nejtěžší položka na tom seznamu, takže na ni naplánujte rozpočet.
+Pokud supervize musí obsahovat uvažování, schéma označování je rozhodnutí o kurikulu. Studie supervizních štítků zjistila, že přiřazení jednoho cílového chování každému trénovacímu příkladu, mezi oborovou kompetencí, ukotvením v [[curriculum-design|kurikulu]], diagnostickým uvažováním a [[scaffolding|scaffoldingem]], zvýšilo skóre při každé testované velikosti modelu, s největšími zisky u scaffoldu a u využívání historie žáka. Diagnóza stavu znalostí zůstala nejslabším chováním na **54,04 %** ([[omniedu-open-educational-foundation-models-2026]]). Diagnóza je nejtěžší položka na tom seznamu, takže na ni naplánujte rozpočet.
 
 Výběr dat je samostatný trénovací problém. Edu-QuRating přizpůsobuje destilaci preferencí kurátorství vzdělávacích dat a nahrazuje jediné skóre „je toto vzdělávací?“ **20 dimenzemi rubriky**, které pokrývají faktickou správnost, pedagogickou strukturu a vhodnost úrovně ([[garrod-edu-qurating-educational-data-curation-2026]]). Pokud skládáte korpus z webového textu, ten filtr rozhoduje o tom, jak bude váš model znít.
 
@@ -102,7 +102,7 @@ Levnější cestou je destilace. Pedagogy-R1, ve velikostech 1,5B a 7B, byl dola
 
 Post-trénink nemusí formovat jen to, co model říká. TACT dotrénoval tutora na taxonomii 13 strategií a dvouosé taxonomii tahů studenta a získal **20,30 bodu** proti svému základu Qwen3.5-4B, s diagnostickým benchmarkem, který **zadržuje štítky stavu žáka** dostupné při tréninku, takže model musí stav odvodit z dialogu ([[tact-pedagogically-adaptive-esl-tutoring]]).
 
-Stejná logika prochází sladěním pro [[special-education|speciální vzdělávání]] ([[special-r1-rl-special-education]]) a prací s heuristickým RL, která modely slazuje jako sokratovské průvodce, ne jako odpovídače ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Jedna platforma jde dál a trénuje politiku, ne prózu: agent posilovaného učení volí další cvičný problém, takže o tom, co žák udělá příště, rozhoduje natrénovaný model ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
+Stejná logika prochází sladěním pro [[special-education|speciální vzdělávání]] ([[special-r1-rl-special-education]]) a prací s heuristickým RL, která modely slazuje jako [[socratic-method|sokratovské]] průvodce, ne jako odpovídače ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Jedna platforma jde dál a trénuje politiku, ne prózu: agent posilovaného učení volí další cvičný problém, takže o tom, co žák udělá příště, rozhoduje natrénovaný model ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
 
 Ten poslední případ je test, zda jste navrhli tutora, nebo generátor textu. Pokud je jediným výstupem modelu próza, pedagogika žije ve vašem orchestračním kódu. Pokud model volí další úkol, pedagogika je ve vahách.
 
@@ -112,7 +112,7 @@ Trénink nedělá model bezpečným v dlouhé konverzaci. SafeTutors ukazuje, ž
 
 ## V čem se tréninkové týmy mýlí
 
-Víc promptování to nakonec udrží. Patolízalství přetrvává po promptování i sladění a tlak autority znovu otevírá chování, které test přepnutí kontextu uzavřel. Přepis z vašeho vlastního tlakového testu je důkazem pro toto tvrzení ve vašem produktu.
+Víc promptování to nakonec udrží. [[ai-sycophancy|Patolízalství]] přetrvává po promptování i sladění a tlak autority znovu otevírá chování, které test přepnutí kontextu uzavřel. Přepis z vašeho vlastního tlakového testu je důkazem pro toto tvrzení ve vašem produktu.
 
 Číslo z žebříčku je výsledek. 96,52 % na CDPK popisuje výkon na pedagogických úlohách jednoho benchmarku. Vaši studenti se setkávají s vaším kurikulem, vaší notací a studentem, který uvízl na dvacet minut.
 

@@ -50,7 +50,7 @@ Duas implicações de design decorrem disso. Mire instituições mais novas e re
 
 ## Coloque aprendizes com deficiência na sala de design
 
-Inclua aprendizes com deficiência no design e na avaliação, teste interfaces reais contra requisitos de acessibilidade, e ofereça rotas equivalentes para participar e para demonstrar aprendizagem. Conformidade técnica e ensino inclusivo são testes separados, e [[accessibility|Acessibilidade]] cobre os dois.
+Inclua [[inclusive-learning|aprendizes com deficiência]] no design e na avaliação, teste interfaces reais contra requisitos de acessibilidade, e ofereça rotas equivalentes para participar e para demonstrar aprendizagem. Conformidade técnica e [[inclusive-learning|ensino inclusivo]] são testes separados, e [[accessibility|Acessibilidade]] cobre os dois.
 
 Um [[ko-hughes-vsd-student-centered-its-2026|estudo de design sensível a valores]] com estudantes de faculdade comunitária, professores e desenvolvedores mostra o trabalho na prática. Ele produziu 16 funcionalidades alinhadas a valores em [[explainable-ai|explicabilidade]] (E1-E5), controle [[human-in-the-loop-ai|com humano no circuito]] (H1-H9) e [[privacy|privacidade]] (P1-P4), e revelou tensões em vez de respostas arrumadas: transparência contra interpretabilidade, privacidade contra insight instrucional, [[agency|autonomia]] do aprendiz contra [[scaffolding]] guiado pelo sistema. Espere adjudicar essas tensões, e registre para que lado você foi.
 
@@ -68,7 +68,7 @@ Profissionais convergem em um desenho compatível. Em um [[reichert-human-center
 
 ## Combine métodos, e mostre o caminho dos dados até a alegação
 
-Resultados [[quantitative-research|quantitativos]] desagregados podem revelar [[differential-effects-across-learner-groups|efeitos diferenciais]]. Entrevistas, observações, grupos focais e co-design trazem à tona barreiras, danos, pressupostos culturais e experiência do aprendiz que pontuações agregadas perdem. A síntese sobre [[research-methods-aied|Métodos de Pesquisa em AIED]] trata a triangulação como necessária porque nenhum método [[qualitative-research|qualitativo]] ou quantitativo isolado maximiza ao mesmo tempo inferência causal, validade ecológica, compreensão contextual e generalizabilidade.
+Resultados [[quantitative-research|quantitativos]] desagregados podem revelar [[differential-effects-across-learner-groups|efeitos diferenciais]]. Entrevistas, observações, grupos focais e co-design trazem à tona barreiras, danos, pressupostos culturais e [[student-experience|experiência do aprendiz]] que pontuações agregadas perdem. A síntese sobre [[research-methods-aied|Métodos de Pesquisa em AIED]] trata a triangulação como necessária porque nenhum método [[qualitative-research|qualitativo]] ou quantitativo isolado maximiza ao mesmo tempo inferência causal, validade ecológica, compreensão contextual e generalizabilidade.
 
 Sua própria análise precisa da mesma disciplina. [[chain-behind-claim-warrantability-2026|A proposta de garantibilidade]] argumenta que uma interpretação assistida por IA permanece inspecionável, contestável e revisável quando vem acompanhada de artefatos como tabelas de tópicos vinculadas às fontes, pilhas de lentes e rios de evidência. Um resumo fluente não deveria esconder o caminho que o produziu.
 

@@ -28,9 +28,9 @@ ai_assist:
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
 
-Vaš tutor odaje odgovor. Demo to nije pokazao, jer je pitanje bilo lako, a učenik surađivao. Pokazuju to zapisi iz pilot-projekta: učenik pita dvaput, model ponovi metodu, a zatim riješi. Nastavnik gleda sesiju i kaže da je to chatbot s prijateljskim glasom. Sada odlučujete hoćete li četvrtinu inženjerskog vremena potrošiti na naknadno treniranje ili isporučiti s boljim sistemskim upitom.
+Vaš tutor odaje odgovor. Demo to nije pokazao, jer je pitanje bilo lako, a učenik surađivao. Pokazuju to zapisi iz pilot-projekta: učenik pita dvaput, model ponovi metodu, a zatim riješi. [[teacher-role|Nastavnik]] gleda sesiju i kaže da je to [[conversational-ai|chatbot]] s prijateljskim glasom. Sada odlučujete hoćete li četvrtinu inženjerskog vremena potrošiti na naknadno treniranje ili isporučiti s boljim sistemskim upitom.
 
-Kratak odgovor: upit ne uklanja težnju prema odgovaranju, jer je uslužnost ono na što je osnovni model treniran. Ako je ponašanje vođenja proizvod, ono se mora trenirati, a varijabla koja odlučuje ishod jest **nagrada**. Napišite nagradu prema mjerilu, stavite rasuđivanje na razini koraka u podatke za treniranje i procijenite treniranje prema sljedećem pedagoškom potezu koji model odabere.
+Kratak odgovor: upit ne uklanja težnju prema odgovaranju, jer je uslužnost ono na što je osnovni model treniran. Ako je ponašanje vođenja proizvod, ono se mora trenirati, a varijabla koja odlučuje ishod jest **nagrada**. Napišite nagradu prema mjerilu, stavite rasuđivanje na razini koraka u podatke za treniranje i procijenite treniranje prema sljedećem [[pedagogy|pedagoškom]] potezu koji model odabere.
 
 ## Kratka verzija
 
@@ -40,7 +40,7 @@ Kratak odgovor: upit ne uklanja težnju prema odgovaranju, jer je uslužnost ono
 
 **3.** Trenirajte na zapisima na razini koraka. Korpus parova pitanja i točnih odgovora ne može naučiti model da vidi gdje je učenik pogriješio.
 
-**4.** Prednost dajte učenju s potkrepljenjem pred oponašanjem kad je prosudba važna, i čuvajte rezultate međufaza.
+**4.** Prednost dajte [[reinforcement-learning|učenju s potkrepljenjem]] pred oponašanjem kad je prosudba važna, i čuvajte rezultate međufaza.
 
 **5.** Učinite nagradu dovoljno gustom da se aktivira na većini odgovora i provedite evaluaciju na cijelim razgovorima.
 
@@ -62,13 +62,13 @@ Iz toga slijede dvije stvari. Očekujte da će nagrada biti izigrana, jer specif
 
 ## Učinite nagradu dovoljno čestom da poučava
 
-Nagrada točnog podudaranja previše je rijetka kad stvar koja vas zanima ima nekoliko dimenzija. Simulator pisanja SWIM čisto pokazuje napredak: upiti utemeljeni na rubrikama dosegnuli su najbolji prosječni QWK značajke od **0,577** s Claudeom Sonnetom i **0,422** s GPT-5.4, blizu nule za otvoreni model od 7B; nadzirano fino podešavanje dosegnulo je **0,474 ± 0,023** za taj model od 7B; GRPO s gustom nagradom za točnost normaliziranom po značajkama dosegnuo je **0,618 ± 0,005** na svakoj značajki i svakom upitu ([[swim-student-writing-simulation-2026]]).
+Nagrada točnog podudaranja previše je rijetka kad stvar koja vas zanima ima nekoliko dimenzija. [[simulation|Simulator]] pisanja SWIM čisto pokazuje napredak: upiti utemeljeni na rubrikama dosegnuli su najbolji prosječni QWK značajke od **0,577** s Claudeom Sonnetom i **0,422** s GPT-5.4, blizu nule za otvoreni model od 7B; nadzirano fino podešavanje dosegnulo je **0,474 ± 0,023** za taj model od 7B; GRPO s gustom nagradom za točnost normaliziranom po značajkama dosegnuo je **0,618 ± 0,005** na svakoj značajki i svakom upitu ([[swim-student-writing-simulation-2026]]).
 
 Taj jaz proizveo je dizajn nagrade. Gusti signal normaliziran po značajkama pobjeđuje točno podudaranje u okruženju s više značajki, a ako se vaša nagrada aktivira samo na savršenom odgovoru, većina vašeg signala za treniranje jest tišina.
 
 ## Stavite rasuđivanje u primjere
 
-Najprimjenjiviji nalaz u ovom području tiče se onoga što podatci za treniranje moraju sadržavati. Modeli podešeni uputama naučili su zablude iz algebre samo kad su trenirani na **zapisima rješenja na razini koraka**. Trenirani samo na konačnim odgovorima, točnost je ostala **ispod 30% pri svakoj veličini podataka** ([[misconception-acquisition-dynamics-llms-2026]]).
+Najprimjenjiviji nalaz u ovom području tiče se onoga što podatci za treniranje moraju sadržavati. Modeli podešeni uputama naučili su [[misconceptions|zablude]] iz algebre samo kad su trenirani na **zapisima rješenja na razini koraka**. Trenirani samo na konačnim odgovorima, točnost je ostala **ispod 30% pri svakoj veličini podataka** ([[misconception-acquisition-dynamics-llms-2026]]).
 
 Za svakoga tko gradi bilo koju stranu tutora važna su dva detalja iz te studije. Uloga učenika previše je generalizirala naučenu pogrešku dok se točni primjeri nisu umiješali u omjeru od samo **jedan prema četiri**. Uloga tutora nije pokazala takav trošak, držeći točnost od **93% do 98%** kroz deset zajednički treniranih zabluda.
 
@@ -84,7 +84,7 @@ Praktično čitanje: ako je vaš kvar pogrešan ton ili format koji nedostaje, S
 
 ## Označite svaki primjer ponašanjem koje poučava
 
-Ako nadzor mora sadržavati rasuđivanje, shema označavanja je odluka o kurikulu. Studija oznaka nadzora našla je da je dodjela jednog ciljanog ponašanja svakom primjeru za treniranje, među predmetnom kompetencijom, utemeljenošću u kurikulu, dijagnostičkim rasuđivanjem i postupnom potporom, podigla rezultate pri svakoj ispitanoj veličini modela, s najvećim dobitcima u postupnoj potpori i u korištenju učeničke povijesti. Dijagnoza stanja znanja ostala je najslabije ponašanje na **54,04%** ([[omniedu-open-educational-foundation-models-2026]]). Dijagnoza je najteža stavka na tom popisu, pa planirajte sredstva za nju.
+Ako nadzor mora sadržavati rasuđivanje, shema označavanja je odluka o [[curriculum-design|kurikulu]]. Studija oznaka nadzora našla je da je dodjela jednog ciljanog ponašanja svakom primjeru za treniranje, među predmetnom kompetencijom, utemeljenošću u kurikulu, dijagnostičkim rasuđivanjem i [[scaffolding|postupnom potporom]], podigla rezultate pri svakoj ispitanoj veličini modela, s najvećim dobitcima u postupnoj potpori i u korištenju učeničke povijesti. Dijagnoza stanja znanja ostala je najslabije ponašanje na **54,04%** ([[omniedu-open-educational-foundation-models-2026]]). Dijagnoza je najteža stavka na tom popisu, pa planirajte sredstva za nju.
 
 Odabir podataka zaseban je problem treniranja. Edu-QuRating prilagođuje destilaciju preferencija na uređivanje obrazovnih podataka, zamjenjujući jednu ocjenu „je li ovo obrazovno?“ s **20 dimenzija rubrike** koje pokrivaju činjeničnu točnost, pedagošku strukturu i primjerenost razini ([[garrod-edu-qurating-educational-data-curation-2026]]). Ako sastavljate korpus iz web-teksta, taj filtar odlučuje kako će vaš model zvučati.
 
@@ -102,7 +102,7 @@ Jeftiniji je put destilacija. Pedagogy-R1, u veličinama 1,5B i 7B, podešen je 
 
 Naknadno treniranje ne mora oblikovati samo ono što model kaže. TACT je naknadno trenirao tutora na taksonomiji od 13 strategija i taksonomiji učeničkih poteza s dvije osi i dobio **20,30 bodova** više od svoje osnove Qwen3.5-4B, uz dijagnostičko mjerilo koje **uskraćuje oznake stanja učenika** dostupne tijekom treniranja, pa model mora zaključiti stanje iz dijaloga ([[tact-pedagogically-adaptive-esl-tutoring]]).
 
-Ista logika prolazi kroz usklađivanje za [[special-education|posebno obrazovanje]] ([[special-r1-rl-special-education]]) i kroz rad na heurističkom RL-u koji modele usklađuje kao sokratske vodiče, a ne kao davatelje odgovora ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Jedna platforma ide dalje i trenira politiku, a ne prozu: agent koji uči s potkrepljenjem bira sljedeći zadatak za vježbu, pa o tome što učenik radi sljedeće odlučuje trenirani model ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
+Ista logika prolazi kroz usklađivanje za [[special-education|posebno obrazovanje]] ([[special-r1-rl-special-education]]) i kroz rad na heurističkom RL-u koji modele usklađuje kao [[socratic-method|sokratske]] vodiče, a ne kao davatelje odgovora ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Jedna platforma ide dalje i trenira politiku, a ne prozu: agent koji uči s potkrepljenjem bira sljedeći zadatak za vježbu, pa o tome što učenik radi sljedeće odlučuje trenirani model ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
 
 Taj je posljednji slučaj test toga jeste li osmislili tutora ili generator teksta. Ako je jedini izlaz modela proza, pedagogija živi u vašem kodu za orkestraciju. Ako model bira sljedeći zadatak, pedagogija je u težinama.
 
@@ -112,7 +112,7 @@ Treniranje ne čini model sigurnim kroz dug razgovor. SafeTutors pokazuje da ča
 
 ## Što timovi za treniranje pogrešno shvaćaju
 
-Više upita na kraju će izdržati. Ulagivanje se održava nakon upita i usklađivanja, a pritisak autoriteta ponovno otvara ponašanje koje je test prebacivanja konteksta zatvorio. Transkript iz vašeg vlastitog testa pritiska dokaz je za to u vašem proizvodu.
+Više upita na kraju će izdržati. [[ai-sycophancy|Ulagivanje]] se održava nakon upita i usklađivanja, a pritisak autoriteta ponovno otvara ponašanje koje je test prebacivanja konteksta zatvorio. Transkript iz vašeg vlastitog testa pritiska dokaz je za to u vašem proizvodu.
 
 Brojka s ljestvice rezultat je. 96,52% na CDPK opisuje učinak na pedagoškim zadatcima jednog mjerila. Vaši učenici susreću vaš kurikul, vaš zapis i učenika koji stoji na mjestu dvadeset minuta.
 

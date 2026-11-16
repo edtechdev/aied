@@ -49,7 +49,7 @@ Bundan iki tasarım çıkarımı doğuyor. Daha yeni kurumları ve yeterince hiz
 
 ## Engelli öğrenenleri tasarım odasına koyun
 
-Engelli öğrenenleri tasarıma ve değerlendirmeye katın, gerçek arayüzleri erişilebilirlik gerekliliklerine karşı test edin ve katılmak ile öğrenmeyi göstermek için eşdeğer yollar sağlayın. Teknik uyum ve kapsayıcı öğretim ayrı testlerdir ve [[accessibility|Erişilebilirlik]] ikisini de kapsıyor.
+[[inclusive-learning|Engelli öğrenenleri]] tasarıma ve değerlendirmeye katın, gerçek arayüzleri erişilebilirlik gerekliliklerine karşı test edin ve katılmak ile öğrenmeyi göstermek için eşdeğer yollar sağlayın. Teknik uyum ve [[inclusive-learning|kapsayıcı öğretim]] ayrı testlerdir ve [[accessibility|Erişilebilirlik]] ikisini de kapsıyor.
 
 [[ko-hughes-vsd-student-centered-its-2026|Topluluk koleji öğrencileri, öğretim elemanları ve geliştiricilerle yapılan değer duyarlı bir tasarım çalışması]] işi pratikte gösteriyor. [[explainable-ai|açıklanabilirlik]] (E1-E5), [[human-in-the-loop-ai|insan döngüde]] kontrol (H1-H9) ve [[privacy|gizlilik]] (P1-P4) boyunca 16 değere hizalı özellik üretti ve düzenli yanıtlar yerine gerilimleri ortaya çıkardı: şeffaflığa karşı yorumlanabilirlik, gizliliğe karşı öğretimsel içgörü, öğrenen [[agency|özerkliğine]] karşı sistem güdümlü [[scaffolding|iskeleleme]]. Bunları karara bağlamayı bekleyin ve hangi yöne gittiğinizi kaydedin.
 
@@ -67,7 +67,7 @@ Uygulayıcılar uyumlu bir tasarımda buluşuyor. [[reichert-human-centered-llm-
 
 ## Yöntemleri birleştirin ve veriden iddiaya giden yolu gösterin
 
-Ayrıştırılmış [[quantitative-research|nicel]] sonuçlar [[differential-effects-across-learner-groups|farklılaşan etkileri]] ortaya çıkarabilir. Görüşmeler, gözlemler, odak grupları ve ortak tasarım, toplam puanların kaçırdığı engelleri, zararları, kültürel varsayımları ve öğrenen deneyimini açığa çıkarır. [[research-methods-aied|AIED'de Araştırma Yöntemleri]] sentezi üçgenlemeyi gerekli görüyor, çünkü hiçbir [[qualitative-research|nitel]] ya da nicel yöntem tek başına nedensel çıkarımı, ekolojik geçerliliği, bağlamsal anlayışı ve genellenebilirliği aynı anda en üst düzeye çıkarmaz.
+Ayrıştırılmış [[quantitative-research|nicel]] sonuçlar [[differential-effects-across-learner-groups|farklılaşan etkileri]] ortaya çıkarabilir. Görüşmeler, gözlemler, odak grupları ve ortak tasarım, toplam puanların kaçırdığı engelleri, zararları, kültürel varsayımları ve [[student-experience|öğrenen deneyimini]] açığa çıkarır. [[research-methods-aied|AIED'de Araştırma Yöntemleri]] sentezi üçgenlemeyi gerekli görüyor, çünkü hiçbir [[qualitative-research|nitel]] ya da nicel yöntem tek başına nedensel çıkarımı, ekolojik geçerliliği, bağlamsal anlayışı ve genellenebilirliği aynı anda en üst düzeye çıkarmaz.
 
 Kendi analiziniz de aynı disipline ihtiyaç duyuyor. [[chain-behind-claim-warrantability-2026|Gerekçelendirilebilirlik önerisi]], YZ destekli bir yorumun kaynağa bağlı konu tabloları, mercek yığınları ve kanıt nehirleri gibi eserlerle birlikte sunulduğunda incelenebilir, itiraz edilebilir ve gözden geçirilebilir kaldığını savunuyor. Akıcı bir özet, onu üreten yolu saklamamalıdır.
 

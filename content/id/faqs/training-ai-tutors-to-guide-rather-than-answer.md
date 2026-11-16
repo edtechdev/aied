@@ -28,9 +28,9 @@ ai_assist:
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
 
-Tutor Anda membocorkan jawabannya. Demo tidak menunjukkannya, karena pertanyaannya mudah dan mahasiswanya kooperatif. Log pilot menunjukkannya: seorang mahasiswa bertanya dua kali, model mengulang metodenya, lalu menyelesaikannya. Seorang guru menonton satu sesi dan mengatakan itu chatbot dengan suara yang ramah. Sekarang Anda memutuskan apakah akan menghabiskan seperempat waktu rekayasa untuk pasca-pelatihan atau merilis dengan system prompt yang lebih baik.
+Tutor Anda membocorkan jawabannya. Demo tidak menunjukkannya, karena pertanyaannya mudah dan mahasiswanya kooperatif. Log pilot menunjukkannya: seorang mahasiswa bertanya dua kali, model mengulang metodenya, lalu menyelesaikannya. Seorang [[teacher-role|guru]] menonton satu sesi dan mengatakan itu [[conversational-ai|chatbot]] dengan suara yang ramah. Sekarang Anda memutuskan apakah akan menghabiskan seperempat waktu rekayasa untuk pasca-pelatihan atau merilis dengan system prompt yang lebih baik.
 
-Jawaban singkatnya: prompting tidak menghapus tarikan untuk menjawab, karena sifat suka menolong adalah apa yang dilatihkan pada model dasar. Jika perilaku membimbing adalah produknya, perilaku itu harus dilatih, dan variabel yang menentukan hasilnya adalah **reward**. Tulis reward terhadap sebuah benchmark, masukkan penalaran tingkat langkah ke dalam data pelatihan, dan nilai pelatihannya dari langkah pedagogis berikutnya yang dipilih model.
+Jawaban singkatnya: prompting tidak menghapus tarikan untuk menjawab, karena sifat suka menolong adalah apa yang dilatihkan pada model dasar. Jika perilaku membimbing adalah produknya, perilaku itu harus dilatih, dan variabel yang menentukan hasilnya adalah **reward**. Tulis reward terhadap sebuah benchmark, masukkan penalaran tingkat langkah ke dalam data pelatihan, dan nilai pelatihannya dari langkah [[pedagogy|pedagogis]] berikutnya yang dipilih model.
 
 ## Versi singkat
 
@@ -40,7 +40,7 @@ Jawaban singkatnya: prompting tidak menghapus tarikan untuk menjawab, karena sif
 
 **3.** Latih pada jejak tingkat langkah. Korpus berisi pasangan pertanyaan dan jawaban benar tidak dapat mengajari model untuk melihat di mana mahasiswa salah.
 
-**4.** Utamakan pembelajaran penguatan di atas imitasi ketika pertimbangan itu penting, dan simpan skor tahap antara.
+**4.** Utamakan [[reinforcement-learning|pembelajaran penguatan]] di atas imitasi ketika pertimbangan itu penting, dan simpan skor tahap antara.
 
 **5.** Buat reward cukup padat agar menyala pada sebagian besar respons, dan jalankan evaluasi pada percakapan utuh.
 
@@ -62,13 +62,13 @@ Ada dua hal yang menyusul. Perkirakan reward akan dimanipulasi, karena ia menent
 
 ## Buat reward cukup sering menyala untuk mengajar
 
-Reward kecocokan persis terlalu jarang ketika hal yang Anda pedulikan memiliki beberapa dimensi. Simulator menulis SWIM menunjukkan progresinya dengan rapi: prompting berlandaskan rubrik mencapai QWK sifat rata-rata terbaik **0,577** dengan Claude Sonnet dan **0,422** dengan GPT-5.4, hampir nol untuk model 7B terbuka; fine-tuning terawasi mencapai **0,474 ± 0,023** untuk model 7B itu; GRPO dengan reward akurasi yang padat dan ternormalisasi per sifat mencapai **0,618 ± 0,005** pada setiap sifat dan prompt ([[swim-student-writing-simulation-2026|SWIM]]).
+Reward kecocokan persis terlalu jarang ketika hal yang Anda pedulikan memiliki beberapa dimensi. [[simulation|Simulator]] menulis SWIM menunjukkan progresinya dengan rapi: prompting berlandaskan rubrik mencapai QWK sifat rata-rata terbaik **0,577** dengan Claude Sonnet dan **0,422** dengan GPT-5.4, hampir nol untuk model 7B terbuka; fine-tuning terawasi mencapai **0,474 ± 0,023** untuk model 7B itu; GRPO dengan reward akurasi yang padat dan ternormalisasi per sifat mencapai **0,618 ± 0,005** pada setiap sifat dan prompt ([[swim-student-writing-simulation-2026|SWIM]]).
 
 Desain reward menghasilkan kesenjangan itu. Sinyal padat yang ternormalisasi per sifat mengalahkan kecocokan persis dalam latar multi-sifat, dan jika reward Anda hanya menyala pada respons yang sempurna, sebagian besar sinyal pelatihan Anda adalah keheningan.
 
 ## Masukkan penalaran ke dalam contoh
 
-Temuan yang paling dapat ditindaklanjuti di bidang ini menyangkut apa yang harus dikandung data pelatihan. Model yang disetel instruksi mempelajari miskonsepsi aljabar hanya ketika dilatih pada **jejak solusi tingkat langkah**. Ketika dilatih pada jawaban akhir saja, akurasinya tetap **di bawah 30% pada setiap ukuran data** ([[misconception-acquisition-dynamics-llms-2026|dinamika akuisisi miskonsepsi]]).
+Temuan yang paling dapat ditindaklanjuti di bidang ini menyangkut apa yang harus dikandung data pelatihan. Model yang disetel instruksi mempelajari [[misconceptions|miskonsepsi]] aljabar hanya ketika dilatih pada **jejak solusi tingkat langkah**. Ketika dilatih pada jawaban akhir saja, akurasinya tetap **di bawah 30% pada setiap ukuran data** ([[misconception-acquisition-dynamics-llms-2026|dinamika akuisisi miskonsepsi]]).
 
 Dua detail dari studi itu penting bagi siapa pun yang membangun salah satu sisi tutor. Peran mahasiswa menggeneralisasi berlebihan atas kesalahan yang dipelajari sampai contoh yang benar dicampurkan pada rasio serendah **satu dari empat**. Peran tutor tidak menunjukkan biaya semacam itu, mempertahankan akurasi yang benar dari **93% hingga 98%** pada sepuluh miskonsepsi yang dilatih bersama.
 
@@ -84,7 +84,7 @@ Pembacaan praktisnya: jika kegagalan Anda adalah nada yang salah atau format yan
 
 ## Beri label pada setiap contoh dengan perilaku yang diajarkannya
 
-Jika supervisi harus mengandung penalaran, skema pelabelan adalah keputusan kurikulum. Sebuah studi tentang label supervisi menemukan bahwa menetapkan satu perilaku target pada setiap contoh pelatihan, di antara kompetensi mata pelajaran, landasan kurikulum, penalaran diagnostik, dan perancah, menaikkan skor pada setiap ukuran model yang diuji, dengan keuntungan terbesar pada perancah dan pada penggunaan riwayat pembelajar. Diagnosis keadaan pengetahuan tetap menjadi perilaku terlemah pada **54,04%** ([[omniedu-open-educational-foundation-models-2026|OmniEdu]]). Diagnosis adalah butir tersulit dalam daftar itu, jadi anggarkan untuknya.
+Jika supervisi harus mengandung penalaran, skema pelabelan adalah keputusan [[curriculum-design|kurikulum]]. Sebuah studi tentang label supervisi menemukan bahwa menetapkan satu perilaku target pada setiap contoh pelatihan, di antara kompetensi mata pelajaran, landasan kurikulum, penalaran diagnostik, dan [[scaffolding|perancah]], menaikkan skor pada setiap ukuran model yang diuji, dengan keuntungan terbesar pada perancah dan pada penggunaan riwayat pembelajar. Diagnosis keadaan pengetahuan tetap menjadi perilaku terlemah pada **54,04%** ([[omniedu-open-educational-foundation-models-2026|OmniEdu]]). Diagnosis adalah butir tersulit dalam daftar itu, jadi anggarkan untuknya.
 
 Seleksi data adalah masalah pelatihan tersendiri. Edu-QuRating mengadaptasi distilasi preferensi untuk kurasi data pendidikan, menggantikan satu skor “apakah ini mendidik?” dengan **20 dimensi rubrik** yang mencakup akurasi faktual, struktur pedagogis, dan kesesuaian tingkat ([[garrod-edu-qurating-educational-data-curation-2026|Edu-QuRating]]). Jika Anda merakit korpus dari teks web, filter itulah yang menentukan seperti apa model Anda akan terdengar.
 
@@ -102,7 +102,7 @@ Jalur yang lebih murah adalah distilasi. Pedagogy-R1, pada 1,5B dan 7B, disetel 
 
 Pasca-pelatihan tidak harus hanya membentuk apa yang dikatakan model. TACT memasca-latih tutor pada taksonomi 13 strategi plus taksonomi gerak mahasiswa dua sumbu dan memperoleh **20,30 poin** di atas tulang punggung Qwen3.5-4B-nya, dengan benchmark diagnostik yang **menahan label keadaan pembelajar** yang tersedia saat pelatihan sehingga model harus menyimpulkan keadaan dari dialog ([[tact-pedagogically-adaptive-esl-tutoring|TACT]]).
 
-Logika yang sama mengalir melalui penyelarasan [[special-education|pendidikan khusus]] ([[special-r1-rl-special-education|Special-R1]]) dan melalui kerja RL heuristik yang menyelaraskan model sebagai pemandu Sokratik alih-alih penjawab ([[wang-socratic-guides-heuristic-reinforcement-learning-2026|pemandu Sokratik]]). Satu platform melangkah lebih jauh dan melatih kebijakannya alih-alih prosanya: agen pembelajaran penguatan memilih soal latihan berikutnya, sehingga apa yang dilakukan pembelajar berikutnya diputuskan oleh model yang terlatih ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|tutor AI yang dipersonalisasi]]).
+Logika yang sama mengalir melalui penyelarasan [[special-education|pendidikan khusus]] ([[special-r1-rl-special-education|Special-R1]]) dan melalui kerja RL heuristik yang menyelaraskan model sebagai pemandu [[socratic-method|Sokratik]] alih-alih penjawab ([[wang-socratic-guides-heuristic-reinforcement-learning-2026|pemandu Sokratik]]). Satu platform melangkah lebih jauh dan melatih kebijakannya alih-alih prosanya: agen pembelajaran penguatan memilih soal latihan berikutnya, sehingga apa yang dilakukan pembelajar berikutnya diputuskan oleh model yang terlatih ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026|tutor AI yang dipersonalisasi]]).
 
 Kasus terakhir itu adalah ujian apakah Anda merancang tutor atau generator teks. Jika satu-satunya keluaran model adalah prosa, pedagoginya hidup dalam kode orkestrasi Anda. Jika model memilih tugas berikutnya, pedagoginya ada di dalam bobotnya.
 
@@ -112,7 +112,7 @@ Pelatihan tidak membuat model aman sepanjang percakapan panjang. SafeTutors menu
 
 ## Apa yang salah dipahami tim pelatihan
 
-Lebih banyak prompting pada akhirnya akan bertahan. Sikofansi bertahan setelah prompting dan penyelarasan, dan tekanan otoritas membuka kembali perilaku yang telah ditutup uji pergantian konteks. Transkrip dari uji tekanan Anda sendiri adalah buktinya dalam produk Anda.
+Lebih banyak prompting pada akhirnya akan bertahan. [[ai-sycophancy|Sikofansi]] bertahan setelah prompting dan penyelarasan, dan tekanan otoritas membuka kembali perilaku yang telah ditutup uji pergantian konteks. Transkrip dari uji tekanan Anda sendiri adalah buktinya dalam produk Anda.
 
 Angka papan peringkat adalah hasilnya. 96,52% pada CDPK menggambarkan kinerja pada tugas pedagogis satu benchmark. Mahasiswa Anda menghadapi kurikulum Anda, notasi Anda, dan mahasiswa yang sudah macet selama dua puluh menit.
 

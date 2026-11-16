@@ -28,9 +28,9 @@ ai_assist:
 
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
 
-Tutor oddaje odpowiedź. Demo tego nie pokazało, bo pytanie było łatwe, a student współpracował. Logi pilotażu pokazują: student pyta dwa razy, model powtarza metodę, a potem rozwiązuje zadanie. Nauczyciel ogląda sesję i mówi, że to chatbot z przyjaznym głosem. Teraz trzeba rozstrzygnąć, czy przeznaczyć ćwierć czasu inżynierskiego na douczanie po treningu, czy wypuścić produkt z lepszą instrukcją systemową.
+Tutor oddaje odpowiedź. Demo tego nie pokazało, bo pytanie było łatwe, a student współpracował. Logi pilotażu pokazują: student pyta dwa razy, model powtarza metodę, a potem rozwiązuje zadanie. [[teacher-role|Nauczyciel]] ogląda sesję i mówi, że to [[conversational-ai|chatbot]] z przyjaznym głosem. Teraz trzeba rozstrzygnąć, czy przeznaczyć ćwierć czasu inżynierskiego na douczanie po treningu, czy wypuścić produkt z lepszą instrukcją systemową.
 
-Krótka odpowiedź: samo formułowanie instrukcji nie usuwa ciągoty do odpowiadania, ponieważ bycie pomocnym to właśnie to, do czego wytrenowano model bazowy. Jeśli zachowanie polegające na prowadzeniu ma być produktem, trzeba je wytrenować, a zmienną, która rozstrzyga wynik, jest **nagroda**. Nagrodę trzeba napisać względem benchmarku, umieścić w danych treningowych rozumowanie na poziomie kroków i oceniać trening po następnym posunięciu pedagogicznym, które model wybiera.
+Krótka odpowiedź: samo formułowanie instrukcji nie usuwa ciągoty do odpowiadania, ponieważ bycie pomocnym to właśnie to, do czego wytrenowano model bazowy. Jeśli zachowanie polegające na prowadzeniu ma być produktem, trzeba je wytrenować, a zmienną, która rozstrzyga wynik, jest **nagroda**. Nagrodę trzeba napisać względem benchmarku, umieścić w danych treningowych rozumowanie na poziomie kroków i oceniać trening po następnym [[pedagogy|posunięciu pedagogicznym]], które model wybiera.
 
 ## W skrócie
 
@@ -40,7 +40,7 @@ Krótka odpowiedź: samo formułowanie instrukcji nie usuwa ciągoty do odpowiad
 
 **3.** Trenować na śladach na poziomie kroków. Korpus par pytanie i poprawna odpowiedź nie nauczy modelu widzieć, gdzie student się pomylił.
 
-**4.** Preferować uczenie ze wzmocnieniem nad naśladownictwem, gdy liczy się osąd, i zachowywać wyniki etapów pośrednich.
+**4.** Preferować [[reinforcement-learning|uczenie ze wzmocnieniem]] nad naśladownictwem, gdy liczy się osąd, i zachowywać wyniki etapów pośrednich.
 
 **5.** Uczynić nagrodę wystarczająco gęstą, aby zadziałała przy większości odpowiedzi, i prowadzić ewaluację na całych rozmowach.
 
@@ -62,13 +62,13 @@ Wynikają z tego dwie rzeczy. Należy oczekiwać, że nagroda zostanie oszukana,
 
 ## Sprawić, by nagroda zadziałała wystarczająco często, by uczyć
 
-Nagroda za dokładne dopasowanie jest zbyt rzadka, gdy to, na czym zależy, ma kilka wymiarów. Symulator pisania SWIM pokazuje progresję czytelnie: instrukcje oparte na rubryce osiągnęły najlepszą średnią cechę QWK **0,577** z Claude Sonnet i **0,422** z GPT-5.4, blisko zera dla otwartego modelu 7B; nadzorowane dostrajanie osiągnęło **0,474 ± 0,023** dla tego modelu 7B; GRPO z gęstą, znormalizowaną względem cech nagrodą za trafność osiągnęło **0,618 ± 0,005** na każdej cesze i każdej instrukcji ([[swim-student-writing-simulation-2026]]).
+Nagroda za dokładne dopasowanie jest zbyt rzadka, gdy to, na czym zależy, ma kilka wymiarów. [[simulation|Symulator]] pisania SWIM pokazuje progresję czytelnie: instrukcje oparte na rubryce osiągnęły najlepszą średnią cechę QWK **0,577** z Claude Sonnet i **0,422** z GPT-5.4, blisko zera dla otwartego modelu 7B; nadzorowane dostrajanie osiągnęło **0,474 ± 0,023** dla tego modelu 7B; GRPO z gęstą, znormalizowaną względem cech nagrodą za trafność osiągnęło **0,618 ± 0,005** na każdej cesze i każdej instrukcji ([[swim-student-writing-simulation-2026]]).
 
 Tę lukę wytworzył projekt nagrody. Gęsty sygnał znormalizowany względem cech bije dokładne dopasowanie w warunkach wielu cech, a jeśli nagroda zadziała tylko przy doskonałej odpowiedzi, większość sygnału treningowego to cisza.
 
 ## Umieścić rozumowanie w przykładach
 
-Najbardziej praktyczne ustalenie w tym obszarze dotyczy tego, co muszą zawierać dane treningowe. Modele dostrojone do instrukcji uczyły się błędnych przekonań algebraicznych tylko wtedy, gdy trenowano je na **śladach rozwiązań na poziomie kroków**. Trenowane wyłącznie na odpowiedziach końcowych, utrzymywały trafność **poniżej 30% przy każdym rozmiarze danych** ([[misconception-acquisition-dynamics-llms-2026]]).
+Najbardziej praktyczne ustalenie w tym obszarze dotyczy tego, co muszą zawierać dane treningowe. Modele dostrojone do instrukcji uczyły się [[misconceptions|błędnych przekonań]] algebraicznych tylko wtedy, gdy trenowano je na **śladach rozwiązań na poziomie kroków**. Trenowane wyłącznie na odpowiedziach końcowych, utrzymywały trafność **poniżej 30% przy każdym rozmiarze danych** ([[misconception-acquisition-dynamics-llms-2026]]).
 
 Dwa szczegóły z tego badania są istotne dla każdego, kto buduje którąkolwiek stronę tutora. Rola studenta nadmiernie generalizowała wyuczony błąd, dopóki poprawne przykłady nie zostały domieszane w proporcjach tak niskich jak **jeden do czterech**. Rola tutora nie poniosła takiego kosztu, utrzymując poprawną trafność od **93% do 98%** w dziesięciu wspólnie trenowanych błędnych przekonaniach.
 
@@ -84,7 +84,7 @@ Praktyczny odczyt: jeśli awarią jest niewłaściwy ton albo brakujący format,
 
 ## Oznaczyć każdy przykład zachowaniem, którego uczy
 
-Jeśli nadzór musi zawierać rozumowanie, schemat oznaczania jest decyzją o programie nauczania. Badanie etykiet nadzoru wykazało, że przypisanie każdemu przykładowi treningowemu jednego docelowego zachowania, spośród kompetencji przedmiotowej, osadzenia w programie, rozumowania diagnostycznego i rusztowania, podniosło wyniki przy każdym testowanym rozmiarze modelu, z największymi zyskami w rusztowaniu i w korzystaniu z historii osoby uczącej się. Diagnoza stanu wiedzy pozostała najsłabszym zachowaniem na poziomie **54,04%** ([[omniedu-open-educational-foundation-models-2026]]). Diagnoza jest najtrudniejszą pozycją na tej liście, więc trzeba na nią zaplanować budżet.
+Jeśli nadzór musi zawierać rozumowanie, schemat oznaczania jest decyzją o [[curriculum-design|programie nauczania]]. Badanie etykiet nadzoru wykazało, że przypisanie każdemu przykładowi treningowemu jednego docelowego zachowania, spośród kompetencji przedmiotowej, osadzenia w programie, rozumowania diagnostycznego i [[scaffolding|rusztowania]], podniosło wyniki przy każdym testowanym rozmiarze modelu, z największymi zyskami w rusztowaniu i w korzystaniu z historii osoby uczącej się. Diagnoza stanu wiedzy pozostała najsłabszym zachowaniem na poziomie **54,04%** ([[omniedu-open-educational-foundation-models-2026]]). Diagnoza jest najtrudniejszą pozycją na tej liście, więc trzeba na nią zaplanować budżet.
 
 Selekcja danych to osobny problem treningowy. Edu-QuRating dostosowuje destylację preferencji do porządkowania danych edukacyjnych, zastępując jedną ocenę „czy to jest edukacyjne?” **20 wymiarami rubryki** obejmującymi trafność faktyczną, strukturę pedagogiczną i dopasowanie poziomu ([[garrod-edu-qurating-educational-data-curation-2026]]). Jeśli korpus składa się z tekstu z sieci, ten filtr decyduje, jak model nauczy się brzmieć.
 
@@ -102,7 +102,7 @@ Tańszą drogą jest destylacja. Pedagogy-R1, w wersjach 1,5B i 7B, dostrojono d
 
 Douczanie nie musi kształtować wyłącznie tego, co model mówi. TACT douczył tutora na taksonomii 13 strategii oraz dwuosiowej taksonomii posunięć studenta i zyskał **20,30 punktu** wobec swojego szkieletu Qwen3.5-4B, przy benchmarku diagnostycznym, który **wstrzymuje etykiety stanu osoby uczącej się** dostępne w treningu, tak że model musi wnioskować stan z dialogu ([[tact-pedagogically-adaptive-esl-tutoring]]).
 
-Ta sama logika przenika dopasowanie w [[special-education|edukacji specjalnej]] ([[special-r1-rl-special-education]]) oraz prace nad RL heurystycznym, które dopasowują modele jako przewodników sokratejskich, a nie odpowiadających ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Jedna platforma idzie dalej i trenuje politykę, a nie prozę: agent uczący się ze wzmocnieniem wybiera następne zadanie ćwiczeniowe, więc to, co osoba ucząca się zrobi dalej, rozstrzyga wytrenowany model ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
+Ta sama logika przenika dopasowanie w [[special-education|edukacji specjalnej]] ([[special-r1-rl-special-education]]) oraz prace nad RL heurystycznym, które dopasowują modele jako [[socratic-method|przewodników sokratejskich]], a nie odpowiadających ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Jedna platforma idzie dalej i trenuje politykę, a nie prozę: agent uczący się ze wzmocnieniem wybiera następne zadanie ćwiczeniowe, więc to, co osoba ucząca się zrobi dalej, rozstrzyga wytrenowany model ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
 
 Ten ostatni przypadek jest testem, czy zaprojektowano tutora, czy generator tekstu. Jeśli jedynym wyjściem modelu jest proza, pedagogika tkwi w kodzie orkiestracji. Jeśli model wybiera następne zadanie, pedagogika jest w wagach.
 
@@ -112,7 +112,7 @@ Trening nie czyni modelu bezpiecznym w długiej rozmowie. SafeTutors pokazuje, �
 
 ## Co zespoły trenujące rozumieją błędnie
 
-Więcej instrukcji w końcu utrzyma zachowanie. Sykofancja utrzymuje się po instrukcjach i po dopasowaniu, a nacisk autorytetu otwiera na nowo zachowanie, które zamknął test ze zmianą kontekstu. Zapis własnego testu nacisku jest dowodem w konkretnym produkcie.
+Więcej instrukcji w końcu utrzyma zachowanie. [[ai-sycophancy|Sykofancja]] utrzymuje się po instrukcjach i po dopasowaniu, a nacisk autorytetu otwiera na nowo zachowanie, które zamknął test ze zmianą kontekstu. Zapis własnego testu nacisku jest dowodem w konkretnym produkcie.
 
 Liczba z rankingu jest wynikiem. 96,52% na CDPK opisuje wykonanie na zadaniach pedagogicznych jednego benchmarku. Studenci spotkają program, notację i osobę, która utknęła dwadzieścia minut temu.
 

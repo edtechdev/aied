@@ -35,9 +35,9 @@ ai_assist:
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
-Il tuo tutor regala la risposta. La demo non lo mostrava, perché la domanda era facile e lo studente collaborativo. I log del pilota sì: uno studente chiede due volte, il modello ripete il metodo, poi risolve. Un docente guarda una sessione e dice che è un chatbot con una voce gentile. Adesso stai decidendo se spendere un quarto del tempo di ingegneria nel post-addestramento o pubblicare con un prompt di sistema migliore.
+Il tuo tutor regala la risposta. La demo non lo mostrava, perché la domanda era facile e lo studente collaborativo. I log del pilota sì: uno studente chiede due volte, il modello ripete il metodo, poi risolve. Un [[teacher-role|docente]] guarda una sessione e dice che è un [[conversational-ai|chatbot]] con una voce gentile. Adesso stai decidendo se spendere un quarto del tempo di ingegneria nel post-addestramento o pubblicare con un prompt di sistema migliore.
 
-La risposta breve: fare prompt non elimina la spinta a rispondere, perché l'utilità è ciò che il modello di base è stato addestrato a produrre. Se il comportamento di guida è il prodotto, va addestrato, e la variabile che decide l'esito è la **ricompensa**. Scrivi la ricompensa contro un benchmark, metti negli dati di addestramento il ragionamento a livello di passo, e valuta l'addestramento sulla prossima mossa pedagogica che il modello sceglie.
+La risposta breve: fare prompt non elimina la spinta a rispondere, perché l'utilità è ciò che il modello di base è stato addestrato a produrre. Se il comportamento di guida è il prodotto, va addestrato, e la variabile che decide l'esito è la **ricompensa**. Scrivi la ricompensa contro un benchmark, metti negli dati di addestramento il ragionamento a livello di passo, e valuta l'addestramento sulla prossima mossa [[pedagogy|pedagogica]] che il modello sceglie.
 
 ## La versione breve
 
@@ -47,7 +47,7 @@ La risposta breve: fare prompt non elimina la spinta a rispondere, perché l'uti
 
 **3.** Addestra su tracce a livello di passo. Un corpus di coppie domanda-risposta corretta non può insegnare a un modello a vedere dove uno studente ha sbagliato.
 
-**4.** Preferisci l'apprendimento per rinforzo all'imitazione quando conta il giudizio, e conserva i punteggi degli stadi intermedi.
+**4.** Preferisci l'[[reinforcement-learning|apprendimento per rinforzo]] all'imitazione quando conta il giudizio, e conserva i punteggi degli stadi intermedi.
 
 **5.** Rendi la ricompensa abbastanza densa da scattare sulla maggior parte delle risposte, e fai la valutazione su conversazioni intere.
 
@@ -69,13 +69,13 @@ Ne seguono due cose. Aspettati che la ricompensa venga aggirata, perché specifi
 
 ## Fai in modo che la ricompensa scatti abbastanza spesso da insegnare
 
-Una ricompensa a corrispondenza esatta è troppo sparsa quando la cosa che ti interessa ha più dimensioni. Il simulatore di scrittura SWIM mostra la progressione con chiarezza: il prompting ancorato a una rubrica ha raggiunto un QWK medio migliore per tratto di **0,577** con Claude Sonnet e **0,422** con GPT-5.4, quasi zero per un modello aperto da 7B; il fine-tuning supervisionato ha raggiunto **0,474 ± 0,023** per quel modello da 7B; il GRPO con una ricompensa densa, normalizzata per tratto, ha raggiunto **0,618 ± 0,005** su ogni tratto e ogni prompt ([[swim-student-writing-simulation-2026]]).
+Una ricompensa a corrispondenza esatta è troppo sparsa quando la cosa che ti interessa ha più dimensioni. Il [[simulation|simulatore]] di scrittura SWIM mostra la progressione con chiarezza: il prompting ancorato a una rubrica ha raggiunto un QWK medio migliore per tratto di **0,577** con Claude Sonnet e **0,422** con GPT-5.4, quasi zero per un modello aperto da 7B; il fine-tuning supervisionato ha raggiunto **0,474 ± 0,023** per quel modello da 7B; il GRPO con una ricompensa densa, normalizzata per tratto, ha raggiunto **0,618 ± 0,005** su ogni tratto e ogni prompt ([[swim-student-writing-simulation-2026]]).
 
 Quel divario è prodotto dal disegno della ricompensa. Un segnale denso e normalizzato per tratto batte la corrispondenza esatta in un contesto multi-tratto, e se la tua ricompensa scatta solo su una risposta perfetta, la maggior parte del tuo segnale di addestramento è silenzio.
 
 ## Metti il ragionamento negli esempi
 
-Il risultato più azionabile in quest'area riguarda ciò che i dati di addestramento devono contenere. I modelli istruiti con istruzioni hanno imparato i fraintendimenti di algebra solo se addestrati su **tracce di soluzione a livello di passo**. Addestrati solo sulle risposte finali, l'accuratezza è rimasta **sotto il 30% a ogni dimensione del dataset** ([[misconception-acquisition-dynamics-llms-2026]]).
+Il risultato più azionabile in quest'area riguarda ciò che i dati di addestramento devono contenere. I modelli istruiti con istruzioni hanno imparato i [[misconceptions|fraintendimenti]] di algebra solo se addestrati su **tracce di soluzione a livello di passo**. Addestrati solo sulle risposte finali, l'accuratezza è rimasta **sotto il 30% a ogni dimensione del dataset** ([[misconception-acquisition-dynamics-llms-2026]]).
 
 Due dettagli di quello studio contano per chi costruisce l'uno o l'altro lato di un tutor. Il ruolo di studente ha generalizzato eccessivamente l'errore appreso finché non sono stati mescolati esempi corretti a rapporti bassi come **uno su quattro**. Il ruolo di tutor non ha mostrato quel costo, mantenendo l'accuratezza corretta dal **93% al 98%** su dieci fraintendimenti addestrati insieme.
 
@@ -91,7 +91,7 @@ La lettura pratica: se il tuo guasto è un tono sbagliato o un formato mancante,
 
 ## Etichetta ogni esempio con il comportamento che insegna
 
-Se la supervisione deve contenere ragionamento, lo schema di etichettatura è una decisione di curricolo. Uno studio sulle etichette di supervisione ha trovato che assegnare a ogni esempio di addestramento un comportamento obiettivo, tra competenza disciplinare, ancoraggio al curricolo, ragionamento diagnostico e impalcatura, ha alzato i punteggi a ogni dimensione di modello testata, con i guadagni maggiori nell'impalcatura e nell'uso della storia dello studente. La diagnosi dello stato di conoscenza è rimasta il comportamento più debole, al **54,04%** ([[omniedu-open-educational-foundation-models-2026]]). La diagnosi è la voce più difficile di quell'elenco, quindi mettila a budget.
+Se la supervisione deve contenere ragionamento, lo schema di etichettatura è una decisione di [[curriculum-design|curricolo]]. Uno studio sulle etichette di supervisione ha trovato che assegnare a ogni esempio di addestramento un comportamento obiettivo, tra competenza disciplinare, ancoraggio al curricolo, ragionamento diagnostico e impalcatura, ha alzato i punteggi a ogni dimensione di modello testata, con i guadagni maggiori nell'[[scaffolding|impalcatura]] e nell'uso della storia dello studente. La diagnosi dello stato di conoscenza è rimasta il comportamento più debole, al **54,04%** ([[omniedu-open-educational-foundation-models-2026]]). La diagnosi è la voce più difficile di quell'elenco, quindi mettila a budget.
 
 La selezione dei dati è un problema di addestramento a sé. Edu-QuRating adatta la distillazione delle preferenze alla curatela dei dati educativi, sostituendo un unico punteggio «questo è educativo?» con **20 dimensioni di rubrica** che coprono accuratezza fattuale, struttura pedagogica e adeguatezza al livello ([[garrod-edu-qurating-educational-data-curation-2026]]). Se stai assemblando un corpus da testo web, quel filtro decide come imparerà a suonare il tuo modello.
 
@@ -109,7 +109,7 @@ Una strada più economica è la distillazione. Pedagogy-R1, a 1,5B e 7B, è stat
 
 Il post-addestramento non deve per forza plasmare solo ciò che il modello dice. TACT ha post-addestrato un tutor su una tassonomia di 13 strategie più una tassonomia delle mosse dello studente su due assi, guadagnando **20,30 punti** rispetto alla sua base Qwen3.5-4B, con un benchmark diagnostico che **nasconde le etichette dello stato dello studente** disponibili in addestramento, così il modello deve inferire lo stato dal dialogo ([[tact-pedagogically-adaptive-esl-tutoring]]).
 
-La stessa logica attraversa l'allineamento per l'[[special-education|istruzione speciale]] ([[special-r1-rl-special-education]]) e il lavoro di RL euristico che allinea i modelli come guide socratiche invece che come risponditori ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Una piattaforma va oltre e addestra la politica invece della prosa: un agente di apprendimento per rinforzo sceglie il prossimo esercizio, quindi ciò che lo studente fa dopo è deciso dal modello addestrato ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
+La stessa logica attraversa l'allineamento per l'[[special-education|istruzione speciale]] ([[special-r1-rl-special-education]]) e il lavoro di RL euristico che allinea i modelli come [[socratic-method|guide socratiche]] invece che come risponditori ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Una piattaforma va oltre e addestra la politica invece della prosa: un agente di apprendimento per rinforzo sceglie il prossimo esercizio, quindi ciò che lo studente fa dopo è deciso dal modello addestrato ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
 
 Quest'ultimo caso è il test per capire se hai progettato un tutor o un generatore di testo. Se l'unico output del modello è prosa, la pedagogia vive nel tuo codice di orchestrazione. Se il modello sceglie il compito successivo, la pedagogia è nei pesi.
 
@@ -119,7 +119,7 @@ L'addestramento non rende un modello sicuro su una conversazione lunga. SafeTuto
 
 ## Cosa sbagliano i team di addestramento
 
-Più prompting alla fine terrà. La sycophancy persiste dopo il prompting e l'allineamento, e la pressione di autorità riapre il comportamento che un test di cambio di contesto aveva chiuso. La trascrizione del tuo test di pressione è la prova di questo nel tuo prodotto.
+Più prompting alla fine terrà. La [[ai-sycophancy|sycophancy]] persiste dopo il prompting e l'allineamento, e la pressione di autorità riapre il comportamento che un test di cambio di contesto aveva chiuso. La trascrizione del tuo test di pressione è la prova di questo nel tuo prodotto.
 
 Il numero in classifica è il risultato. Il 96,52% su CDPK descrive la prestazione sui compiti pedagogici di un benchmark. I tuoi studenti incontrano il tuo curricolo, la tua notazione e uno studente fermo da venti minuti.
 

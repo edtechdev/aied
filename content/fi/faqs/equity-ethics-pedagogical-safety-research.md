@@ -46,7 +46,7 @@ Siitä seuraa kaksi suunnitteluvaikutusta. Kohdista uudempiin instituutioihin ja
 
 ## Ota vammaiset oppijat suunnitteluhuoneeseen
 
-Sisällytä vammaiset oppijat suunnitteluun ja arviointiin, testaa varsinaisia käyttöliittymiä saavutettavuusvaatimuksia vasten ja tarjoa vastaavat reitit osallistua ja osoittaa oppimista. Tekninen vaatimustenmukaisuus ja inklusiivinen opetus ovat erillisiä testejä, ja [[accessibility|Saavutettavuus]] kattaa molemmat.
+Sisällytä [[inclusive-learning|vammaiset oppijat]] suunnitteluun ja arviointiin, testaa varsinaisia käyttöliittymiä saavutettavuusvaatimuksia vasten ja tarjoa vastaavat reitit osallistua ja osoittaa oppimista. Tekninen vaatimustenmukaisuus ja [[inclusive-learning|inklusiivinen opetus]] ovat erillisiä testejä, ja [[accessibility|Saavutettavuus]] kattaa molemmat.
 
 [[ko-hughes-vsd-student-centered-its-2026|Arvoherkkä suunnittelututkimus]], johon osallistui yhteisöopiston opiskelijoita, opettajia ja kehittäjiä, näyttää työn käytännössä. Se tuotti 16 arvojen mukaista ominaisuutta [[explainable-ai|selitettävyyden]] (E1-E5), [[human-in-the-loop-ai|ihmisen valvonnan]] (H1-H9) ja [[privacy|yksityisyyden]] (P1-P4) osalta, ja nosti esiin jännitteitä siistien vastausten sijaan: läpinäkyvyys tulkitsevuutta vastaan, yksityisyys opetuksellista oivallusta vastaan, oppijan [[agency|toimijuus]] järjestelmän ohjaamaa [[scaffolding|tukemista]] vastaan. Odota, että joudut ratkaisemaan ne, ja kirjaa, kumpaan suuntaan menit.
 
@@ -64,7 +64,7 @@ Käytännön tekijät päätyvät yhteensopivaan suunnitteluun. [[reichert-human
 
 ## Yhdistä menetelmiä ja näytä polku datasta väitteeseen
 
-Eritellyt [[quantitative-research|määrälliset]] tulokset voivat paljastaa [[differential-effects-across-learner-groups|eriytyviä vaikutuksia]]. Haastattelut, havainnoinnit, fokusryhmät ja yhteissuunnittelu tuovat esiin esteitä, haittoja, kulttuurisia oletuksia ja oppijakokemusta, jotka aggregaattipisteet ohittavat. [[research-methods-aied|Tutkimusmenetelmien AIED-synteesi]] pitää triangulaatiota välttämättömänä, koska mikään yksittäinen [[qualitative-research|laadullinen]] tai määrällinen menetelmä ei maksimoi kausalipäätelmää, ekologista validiteettia, kontekstuaalista ymmärrystä ja yleistettävyyttä yhtä aikaa.
+Eritellyt [[quantitative-research|määrälliset]] tulokset voivat paljastaa [[differential-effects-across-learner-groups|eriytyviä vaikutuksia]]. Haastattelut, havainnoinnit, fokusryhmät ja yhteissuunnittelu tuovat esiin esteitä, haittoja, kulttuurisia oletuksia ja [[student-experience|oppijakokemusta]], jotka aggregaattipisteet ohittavat. [[research-methods-aied|Tutkimusmenetelmien AIED-synteesi]] pitää triangulaatiota välttämättömänä, koska mikään yksittäinen [[qualitative-research|laadullinen]] tai määrällinen menetelmä ei maksimoi kausalipäätelmää, ekologista validiteettia, kontekstuaalista ymmärrystä ja yleistettävyyttä yhtä aikaa.
 
 Oma analyysisi tarvitsee saman kurinalaisuuden. [[chain-behind-claim-warrantability-2026|Perusteltavuusehdotus]] väittää, että tekoälyavusteinen tulkinta pysyy tarkastettavana, kiistettävänä ja korjattavana, kun se toimitetaan artefaktien kuten lähdelinkitettyjen aihetaulukoiden, linssipinojen ja näyttövirtojen kanssa. Sujuva tiivistelmä ei saa piilottaa polkua, joka sen tuotti.
 

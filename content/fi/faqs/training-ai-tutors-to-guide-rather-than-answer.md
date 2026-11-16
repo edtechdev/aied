@@ -28,9 +28,9 @@ ai_assist:
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
 
-Ohjaajasi antaa vastauksen. Demo ei näyttänyt sitä, koska kysymys oli helppo ja opiskelija myötämielinen. Pilotin lokit näyttävät: opiskelija kysyy kahdesti, malli toistaa menetelmän ja ratkaisee sitten. Opettaja katsoo istuntoa ja sanoo, että se on chatbot, jolla on ystävällinen ääni. Nyt päätät, käytätkö neljänneksen insinöörityöajasta jälkikoulutukseen vai toimitatko paremmalla järjestelmäkehotteella.
+Ohjaajasi antaa vastauksen. Demo ei näyttänyt sitä, koska kysymys oli helppo ja opiskelija myötämielinen. Pilotin lokit näyttävät: opiskelija kysyy kahdesti, malli toistaa menetelmän ja ratkaisee sitten. [[teacher-role|Opettaja]] katsoo istuntoa ja sanoo, että se on [[conversational-ai|chatbot]], jolla on ystävällinen ääni. Nyt päätät, käytätkö neljänneksen insinöörityöajasta jälkikoulutukseen vai toimitatko paremmalla järjestelmäkehotteella.
 
-Lyhyt vastaus: kehotteistus ei poista vetoa vastaamiseen, koska avuliaisuus on se, mitä perusmalli koulutettiin tuottamaan. Jos ohjaava käyttäytyminen on tuote, se on koulutettava, ja lopputuloksen ratkaiseva muuttuja on **palkkio**. Kirjoita palkkio vertailuaineistoa vasten, laita askeltason päättely koulutusaineistoon ja arvioi koulutus sen perusteella, minkä pedagogisen siirron malli valitsee seuraavaksi.
+Lyhyt vastaus: kehotteistus ei poista vetoa vastaamiseen, koska avuliaisuus on se, mitä perusmalli koulutettiin tuottamaan. Jos ohjaava käyttäytyminen on tuote, se on koulutettava, ja lopputuloksen ratkaiseva muuttuja on **palkkio**. Kirjoita palkkio vertailuaineistoa vasten, laita askeltason päättely koulutusaineistoon ja arvioi koulutus sen perusteella, minkä [[pedagogy|pedagogisen]] siirron malli valitsee seuraavaksi.
 
 ## Lyhyesti
 
@@ -40,7 +40,7 @@ Lyhyt vastaus: kehotteistus ei poista vetoa vastaamiseen, koska avuliaisuus on s
 
 **3.** Kouluta askeltason jäljillä. Kysymys- ja oikeavastausparien kokoelma ei opeta mallia näkemään, mihin opiskelija meni vikaan.
 
-**4.** Suosi vahvistusoppimista jäljittelyn sijaan, kun harkinta ratkaisee, ja säilytä välivaiheiden pisteet.
+**4.** Suosi [[reinforcement-learning|vahvistusoppimista]] jäljittelyn sijaan, kun harkinta ratkaisee, ja säilytä välivaiheiden pisteet.
 
 **5.** Tee palkkiosta tarpeeksi tiheä, jotta se laukeaa useimmilla vastauksilla, ja aja arviointi kokonaisilla keskusteluilla.
 
@@ -62,13 +62,13 @@ Tästä seuraa kaksi asiaa. Odota, että palkkiota pelataan, koska se määritte
 
 ## Tee palkkiosta tarpeeksi usein laukeava, jotta se opettaa
 
-Tarkka vastaavuus on liian harva palkkio, kun sillä, millä on merkitystä, on useita ulottuvuuksia. SWIMin kirjoitussimulaattori näyttää kehityskulun selvästi: arviointikriteereihin nojaava kehotteistus ylsi parhaimmillaan keskimääräiseen piirrekohtaiseen QWK-arvoon **0,577** Claude Sonnetilla ja **0,422** GPT-5.4:llä, avoimella 7B-mallilla lähelle nollaa; ohjattu hienosäätö ylsi **0,474 ± 0,023**:een sillä 7B-mallilla; GRPO tiheällä, piirrekohtaisesti normalisoidulla tarkkuuspalkkiolla ylsi **0,618 ± 0,005**:een jokaisella piirteellä ja kehotteella ([[swim-student-writing-simulation-2026]]).
+Tarkka vastaavuus on liian harva palkkio, kun sillä, millä on merkitystä, on useita ulottuvuuksia. SWIMin [[simulation|kirjoitussimulaattori]] näyttää kehityskulun selvästi: arviointikriteereihin nojaava kehotteistus ylsi parhaimmillaan keskimääräiseen piirrekohtaiseen QWK-arvoon **0,577** Claude Sonnetilla ja **0,422** GPT-5.4:llä, avoimella 7B-mallilla lähelle nollaa; ohjattu hienosäätö ylsi **0,474 ± 0,023**:een sillä 7B-mallilla; GRPO tiheällä, piirrekohtaisesti normalisoidulla tarkkuuspalkkiolla ylsi **0,618 ± 0,005**:een jokaisella piirteellä ja kehotteella ([[swim-student-writing-simulation-2026]]).
 
 Palkkion suunnittelu tuotti sen eron. Tiheä, piirrekohtaisesti normalisoitu signaali voittaa tarkan vastaavuuden usean piirteen asetelmassa, ja jos palkkiosi laukeaa vain täydellisestä vastauksesta, suurin osa koulutussignaalistasi on hiljaisuutta.
 
 ## Laita päättely esimerkkeihin
 
-Tämän alan käytännöllisin löydös koskee sitä, mitä koulutusaineiston on sisällettävä. Ohjeistetut mallit oppivat algebran väärinkäsitykset vain, kun ne koulutettiin **askeltason ratkaisujäljillä**. Pelkillä loppuvastauksilla koulutettuna tarkkuus pysyi **alle 30 %:ssa jokaisella aineistokoolla** ([[misconception-acquisition-dynamics-llms-2026]]).
+Tämän alan käytännöllisin löydös koskee sitä, mitä koulutusaineiston on sisällettävä. Ohjeistetut mallit oppivat algebran [[misconceptions|väärinkäsitykset]] vain, kun ne koulutettiin **askeltason ratkaisujäljillä**. Pelkillä loppuvastauksilla koulutettuna tarkkuus pysyi **alle 30 %:ssa jokaisella aineistokoolla** ([[misconception-acquisition-dynamics-llms-2026]]).
 
 Kaksi yksityiskohtaa siitä tutkimuksesta on tärkeä jokaiselle, joka rakentaa ohjaajan jompaa kumpaa puolta. Opiskelijarooli yleisti opitun virheen liikaa, kunnes oikeita esimerkkejä sekoitettiin mukaan jopa suhteessa **yksi neljästä**. Ohjaajarooli ei osoittanut sellaista kustannusta, vaan piti oikean tarkkuuden **93 %:sta 98 %:iin** kymmenen yhdessä koulutetun väärinkäsityksen yli.
 
@@ -84,7 +84,7 @@ Käytännön tulkinta: jos epäonnistumisesi on väärä sävy tai puuttuva muot
 
 ## Merkitse jokainen esimerkki käyttäytymisellä, jota se opettaa
 
-Jos ohjauksen on sisällettävä päättelyä, merkintäjärjestelmä on opetussuunnitelmapäätös. Ohjausmerkintöjä käsittelevä tutkimus havaitsi, että kun jokaiselle koulutusesimerkille annettiin yksi tavoitekäyttäytyminen aineen osaamisen, opetussuunnitelmaan kiinnittymisen, diagnostisen päättelyn ja tukemisen joukosta, pisteet nousivat jokaisella testatulla mallikoolla, ja suurimmat voitot tulivat tukemisessa ja oppijan historian käytössä. Tietotilan diagnosointi jäi heikoimmaksi käyttäytymiseksi **54,04 %:ssa** ([[omniedu-open-educational-foundation-models-2026]]). Diagnosointi on luettelon vaikein kohta, joten varaa siihen.
+Jos ohjauksen on sisällettävä päättelyä, merkintäjärjestelmä on [[curriculum-design|opetussuunnitelman suunnittelua]] koskeva päätös. Ohjausmerkintöjä käsittelevä tutkimus havaitsi, että kun jokaiselle koulutusesimerkille annettiin yksi tavoitekäyttäytyminen aineen osaamisen, opetussuunnitelmaan kiinnittymisen, diagnostisen päättelyn ja [[scaffolding|tukemisen]] joukosta, pisteet nousivat jokaisella testatulla mallikoolla, ja suurimmat voitot tulivat tukemisessa ja oppijan historian käytössä. Tietotilan diagnosointi jäi heikoimmaksi käyttäytymiseksi **54,04 %:ssa** ([[omniedu-open-educational-foundation-models-2026]]). Diagnosointi on luettelon vaikein kohta, joten varaa siihen.
 
 Aineiston valinta on oma koulutusongelmansa. Edu-QuRating soveltaa preferenssien destillointia koulutusaineiston kuratointiin ja korvaa yhden ”onko tämä koulutuksellista?” -pisteytyksen **20 arviointikriteerin ulottuvuudella**, jotka kattavat faktisen tarkkuuden, pedagogisen rakenteen ja tason sopivuuden ([[garrod-edu-qurating-educational-data-curation-2026]]). Jos kokoaiset aineiston verkkotekstistä, se suodatin päättää, miltä mallisi oppii kuulostamaan.
 
@@ -102,7 +102,7 @@ Halvempi reitti on destillointi. Pedagogy-R1, kooltaan 1,5B ja 7B, ohjekoulutett
 
 Jälkikoulutuksen ei tarvitse muovata vain sitä, mitä malli sanoo. TACT jälkikoulutti ohjaajan 13 strategian taksonomialla sekä kaksiakselisella opiskelijasiirtojen taksonomialla ja voitti **20,30 pistettä** Qwen3.5-4B-perusmallistaan, ja sen diagnostinen vertailuaineisto **pidättää oppijantilan merkinnät**, jotka olivat koulutuksessa saatavilla, joten mallin on pääteltävä tila dialogista ([[tact-pedagogically-adaptive-esl-tutoring]]).
 
-Sama logiikka kulkee [[special-education|erityisopetuksen]] linjauksen läpi ([[special-r1-rl-special-education]]) ja heuristisen vahvistusoppimisen työn läpi, joka linjaa mallit sokraattisiksi ohjaajiksi vastaajien sijaan ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Yksi alusta menee pidemmälle ja kouluttaa toimintapolitiikan eikä tekstiä: vahvistusoppimisagentti valitsee seuraavan harjoitustehtävän, joten sen, mitä oppija tekee seuraavaksi, päättää koulutettu malli ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
+Sama logiikka kulkee [[special-education|erityisopetuksen]] linjauksen läpi ([[special-r1-rl-special-education]]) ja heuristisen vahvistusoppimisen työn läpi, joka linjaa mallit [[socratic-method|sokraattisiksi]] ohjaajiksi vastaajien sijaan ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Yksi alusta menee pidemmälle ja kouluttaa toimintapolitiikan eikä tekstiä: vahvistusoppimisagentti valitsee seuraavan harjoitustehtävän, joten sen, mitä oppija tekee seuraavaksi, päättää koulutettu malli ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
 
 Juuri se viimeinen tapaus on testi siitä, oletko suunnitellut ohjaajan vai tekstigeneraattorin. Jos mallin ainoa tuotos on tekstiä, pedagogiikka asuu orkestrointikoodissasi. Jos malli valitsee seuraavan tehtävän, pedagogiikka on painoissa.
 
@@ -112,7 +112,7 @@ Koulutus ei tee mallista turvallista pitkässä keskustelussa. SafeTutors osoitt
 
 ## Mitä koulutustiimit ymmärtävät väärin
 
-Lisäkehotteistus riittää lopulta. Mielistely säilyy kehotteistuksen ja linjauksen jälkeen, ja auktoriteettipaine avaa uudelleen sen käyttäytymisen, jonka kontekstinvaihtotesti sulki. Oman painetestisi litteraatti on todiste tästä tuotteessasi.
+Lisäkehotteistus riittää lopulta. [[ai-sycophancy|Mielistely]] säilyy kehotteistuksen ja linjauksen jälkeen, ja auktoriteettipaine avaa uudelleen sen käyttäytymisen, jonka kontekstinvaihtotesti sulki. Oman painetestisi litteraatti on todiste tästä tuotteessasi.
 
 Tulostaulun luku on tulos. 96,52 % CDPK:ssa kuvaa suoriutumista yhden vertailuaineiston pedagogisissa tehtävissä. Opiskelijasi kohtaavat sinun opetussuunnitelmasi, sinun merkintätapasi ja opiskelijan, joka on ollut jumissa kaksikymmentä minuuttia.
 

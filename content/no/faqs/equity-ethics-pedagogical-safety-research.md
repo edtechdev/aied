@@ -46,7 +46,7 @@ To designimplikasjoner følger. Rett innsatsen mot nyere institusjoner og underb
 
 ## Sett funksjonshemmede lærende inn i designrommet
 
-Inkluder lærende med funksjonsnedsettelser i design og evaluering, test faktiske grensesnitt mot tilgjengelighetskrav, og tilby likeverdige veier til å delta og til å vise læring. Teknisk samsvar og inkluderende undervisning er separate tester, og [[accessibility|tilgjengelighet]] dekker begge.
+Inkluder [[inclusive-learning|lærende med funksjonsnedsettelser]] i design og evaluering, test faktiske grensesnitt mot tilgjengelighetskrav, og tilby likeverdige veier til å delta og til å vise læring. Teknisk samsvar og [[inclusive-learning|inkluderende undervisning]] er separate tester, og [[accessibility|tilgjengelighet]] dekker begge.
 
 En [[ko-hughes-vsd-student-centered-its-2026|verdisensitiv designstudie]] med studenter, undervisere og utviklere ved en community college viser arbeidet i praksis. Den produserte 16 verdijusterte funksjoner fordelt på [[explainable-ai|forklarbarhet]] (E1-E5), [[human-in-the-loop-ai|menneske-i-loopen]]-kontroll (H1-H9) og [[privacy|personvern]] (P1-P4), og brakte fram spenninger snarere enn ryddige svar: åpenhet mot fortolkbarhet, personvern mot undervisningsinnsikt, studentens [[agency|handlekraft]] mot systemstyrt [[scaffolding|støtte]]. Forvent å måtte avgjøre dem, og registrer hvilken vei du gikk.
 
@@ -64,7 +64,7 @@ Utøvere konvergerer mot et kompatibelt design. I en [[reichert-human-centered-l
 
 ## Kombiner metoder, og vis veien fra data til påstand
 
-Disaggregerte [[quantitative-research|kvantitative]] utfall kan avdekke [[differential-effects-across-learner-groups|differensielle effekter]]. Intervjuer, observasjoner, fokusgrupper og samdesign bringer fram barrierer, skader, kulturelle antakelser og studentens opplevelse som aggregerte skårer overser. Syntesen om [[research-methods-aied|forskningsmetoder i AIED]] behandler triangulering som nødvendig fordi ingen enkelt [[qualitative-research|kvalitativ]] eller kvantitativ metode maksimerer kausal slutning, økologisk validitet, kontekstuell forståelse og generaliserbarhet på én gang.
+Disaggregerte [[quantitative-research|kvantitative]] utfall kan avdekke [[differential-effects-across-learner-groups|differensielle effekter]]. Intervjuer, observasjoner, fokusgrupper og samdesign bringer fram barrierer, skader, kulturelle antakelser og [[student-experience|studentens opplevelse]] som aggregerte skårer overser. Syntesen om [[research-methods-aied|forskningsmetoder i AIED]] behandler triangulering som nødvendig fordi ingen enkelt [[qualitative-research|kvalitativ]] eller kvantitativ metode maksimerer kausal slutning, økologisk validitet, kontekstuell forståelse og generaliserbarhet på én gang.
 
 Din egen analyse trenger samme disiplin. [[chain-behind-claim-warrantability-2026|Forslaget om warrantability]] argumenterer for at en AI-assistert fortolkning forblir granskningsbar, bestridbar og reviderbar når den leveres med artefakter som kildelenkede emnetabeller, linsestabler og beviselver. Et flytende sammendrag bør ikke skjule veien som produserte det.
 

@@ -28,9 +28,9 @@ ai_assist:
 
 *Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare.*
 
-Veilederen din gir bort svaret. Demoen viste det ikke, fordi spørsmålet var enkelt og studenten samarbeidsvillig. Pilotloggene gjør det: en student spør to ganger, modellen gjengir metoden, og så løser den oppgaven. En lærer ser en økt og sier at det er en chatbot med vennlig stemme. Nå avgjør du om du skal bruke et kvartal med utviklertid på ettertrening eller levere med en bedre systemprompt.
+Veilederen din gir bort svaret. Demoen viste det ikke, fordi spørsmålet var enkelt og studenten samarbeidsvillig. Pilotloggene gjør det: en student spør to ganger, modellen gjengir metoden, og så løser den oppgaven. En [[teacher-role|lærer]] ser en økt og sier at det er en [[conversational-ai|chatbot]] med vennlig stemme. Nå avgjør du om du skal bruke et kvartal med utviklertid på ettertrening eller levere med en bedre systemprompt.
 
-Det korte svaret: prompting fjerner ikke draget mot å svare, fordi hjelpsomhet er det grunnmodellen ble trent til å produsere. Hvis veiledende atferd er produktet, må den trenes, og variabelen som avgjør utfallet, er **belønningen**. Skriv belønningen mot en benchmark, legg trinnvis resonnering inn i treningsdataene, og vurder treningen etter det neste pedagogiske trekket modellen velger.
+Det korte svaret: prompting fjerner ikke draget mot å svare, fordi hjelpsomhet er det grunnmodellen ble trent til å produsere. Hvis veiledende atferd er produktet, må den trenes, og variabelen som avgjør utfallet, er **belønningen**. Skriv belønningen mot en benchmark, legg trinnvis resonnering inn i treningsdataene, og vurder treningen etter det neste [[pedagogy|pedagogiske]] trekket modellen velger.
 
 ## Kortversjonen
 
@@ -40,7 +40,7 @@ Det korte svaret: prompting fjerner ikke draget mot å svare, fordi hjelpsomhet 
 
 **3.** Tren på trinnvise spor. Et korpus med spørsmål og riktige svar kan ikke lære en modell å se hvor en student gikk feil.
 
-**4.** Foretrekk forsterkningslæring framfor imitasjon når skjønn betyr noe, og behold delskårene fra hvert trinn.
+**4.** Foretrekk [[reinforcement-learning|forsterkningslæring]] framfor imitasjon når skjønn betyr noe, og behold delskårene fra hvert trinn.
 
 **5.** Gjør belønningen tett nok til å utløses på de fleste svar, og kjør evalueringen på hele samtaler.
 
@@ -62,13 +62,13 @@ To ting følger. Forvent at belønningen blir spilt, fordi den spesifiserer mind
 
 ## Gjør belønningen tett nok til å lære bort
 
-En belønning basert på eksakt match er for sparsom når det du bryr deg om, har flere dimensjoner. Skrivesimulatoren SWIM viser progresjonen tydelig: rubrikkforankret prompting nådde beste gjennomsnittlige QWK per trekk på **0,577** med Claude Sonnet og **0,422** med GPT-5.4, nær null for en åpen 7B-modell; veiledet finjustering nådde **0,474 ± 0,023** for den 7B-modellen; GRPO med en tett, trekknormalisert nøyaktighetsbelønning nådde **0,618 ± 0,005** på tvers av alle trekk og prompter ([[swim-student-writing-simulation-2026]]).
+En belønning basert på eksakt match er for sparsom når det du bryr deg om, har flere dimensjoner. [[simulation|Skrivesimulatoren]] SWIM viser progresjonen tydelig: rubrikkforankret prompting nådde beste gjennomsnittlige QWK per trekk på **0,577** med Claude Sonnet og **0,422** med GPT-5.4, nær null for en åpen 7B-modell; veiledet finjustering nådde **0,474 ± 0,023** for den 7B-modellen; GRPO med en tett, trekknormalisert nøyaktighetsbelønning nådde **0,618 ± 0,005** på tvers av alle trekk og prompter ([[swim-student-writing-simulation-2026]]).
 
 Belønningsdesignet produserte det gapet. Et tett trekknormalisert signal slår eksakt match i en setting med flere trekk, og hvis belønningen din bare utløses på et perfekt svar, er mesteparten av treningssignalet stillhet.
 
 ## Legg resonnementet inn i eksemplene
 
-Det mest handlingsrettede funnet på dette området gjelder hva treningsdataene må inneholde. Instruksjonstrente modeller lærte algebrafeiloppfatninger bare når de ble trent på **trinnvise løsningsspor**. Trent på bare sluttsvar holdt nøyaktigheten seg **under 30 % ved hver datastørrelse** ([[misconception-acquisition-dynamics-llms-2026]]).
+Det mest handlingsrettede funnet på dette området gjelder hva treningsdataene må inneholde. Instruksjonstrente modeller lærte [[misconceptions|algebrafeiloppfatninger]] bare når de ble trent på **trinnvise løsningsspor**. Trent på bare sluttsvar holdt nøyaktigheten seg **under 30 % ved hver datastørrelse** ([[misconception-acquisition-dynamics-llms-2026]]).
 
 To detaljer fra den studien betyr noe for alle som bygger en av sidene i en veileder. Studentrollen overgeneraliserte den lærte feilen helt til riktige eksempler ble blandet inn i forhold så lave som **én av fire**. Veilederrollen viste ingen slik kostnad og holdt riktig nøyaktighet fra **93 % til 98 %** på tvers av ti feiloppfatninger som ble trent samtidig.
 
@@ -84,7 +84,7 @@ Den praktiske lesningen: hvis feilen din er feil tone eller et manglende format,
 
 ## Merk hvert eksempel med atferden det lærer bort
 
-Hvis supervisjonen må inneholde resonnement, er merkeordningen en læreplanbeslutning. En studie av supervisjonsetiketter fant at det å tildele hvert treningseksempel én målatferd, blant fagkompetanse, læreplanforankring, diagnostisk resonnering og støtte, hevet skårene ved hver modellstørrelse som ble testet, med de største gevinstene i støtte og i å bruke en students historikk. Diagnose av kunnskapstilstand forble den svakeste atferden på **54,04 %** ([[omniedu-open-educational-foundation-models-2026]]). Diagnose er det vanskeligste elementet på listen, så budsjetter for det.
+Hvis supervisjonen må inneholde resonnement, er merkeordningen en [[curriculum-design|læreplanbeslutning]]. En studie av supervisjonsetiketter fant at det å tildele hvert treningseksempel én målatferd, blant fagkompetanse, læreplanforankring, diagnostisk resonnering og [[scaffolding|støtte]], hevet skårene ved hver modellstørrelse som ble testet, med de største gevinstene i støtte og i å bruke en students historikk. Diagnose av kunnskapstilstand forble den svakeste atferden på **54,04 %** ([[omniedu-open-educational-foundation-models-2026]]). Diagnose er det vanskeligste elementet på listen, så budsjetter for det.
 
 Dataseleksjon er et treningsproblem i seg selv. Edu-QuRating tilpasser preferansedestillasjon til kuratering av utdanningsdata og erstatter én enkelt skår for «er dette pedagogisk?» med **20 rubrikkdimensjoner** som dekker faktisk nøyaktighet, pedagogisk struktur og nivåegnethet ([[garrod-edu-qurating-educational-data-curation-2026]]). Hvis du setter sammen et korpus fra webtekst, avgjør det filteret hvordan modellen din lærer å høres ut.
 
@@ -102,7 +102,7 @@ En billigere vei er destillasjon. Pedagogy-R1, i 1,5B og 7B, ble instruksjonstre
 
 Ettertrening trenger ikke bare forme hva modellen sier. TACT ettertrente en veileder på en taksonomi med 13 strategier pluss en studenttrekkstaksonomi med to akser, og vant **20,30 poeng** over Qwen3.5-4B-grunnmodellen, med en diagnostisk benchmark som **holder tilbake etikettene for studenttilstand** som var tilgjengelige under treningen, slik at modellen må utlede tilstanden fra dialogen ([[tact-pedagogically-adaptive-esl-tutoring]]).
 
-Den samme logikken går gjennom alignment for [[special-education|spesialundervisning]] ([[special-r1-rl-special-education]]) og gjennom heuristisk RL-arbeid som aligner modeller som sokratiske veiledere snarere enn svarere ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Én plattform går lenger og trener policyen snarere enn prosaen: en forsterkningslæringsagent velger neste øvelsesoppgave, så det studenten gjør neste gang, bestemmes av den trente modellen ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
+Den samme logikken går gjennom alignment for [[special-education|spesialundervisning]] ([[special-r1-rl-special-education]]) og gjennom heuristisk RL-arbeid som aligner modeller som [[socratic-method|sokratiske]] veiledere snarere enn svarere ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Én plattform går lenger og trener policyen snarere enn prosaen: en forsterkningslæringsagent velger neste øvelsesoppgave, så det studenten gjør neste gang, bestemmes av den trente modellen ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
 
 Det siste tilfellet er testen på om du har designet en veileder eller en tekstgenerator. Hvis modellens eneste output er prosa, bor pedagogikken i orkestreringskoden din. Hvis modellen velger neste oppgave, er pedagogikken i vektene.
 
@@ -112,7 +112,7 @@ Trening gjør ikke en modell trygg over en lang samtale. SafeTutors viser at sel
 
 ## Hva treningsteam tar feil om
 
-Mer prompting vil til slutt holde. Sykofanti vedvarer etter prompting og alignment, og autoritetspress åpner atferden som en kontekstbyttetest lukket. Transkripsjonen fra din egen presstest er evidensen for dette i produktet ditt.
+Mer prompting vil til slutt holde. [[ai-sycophancy|Sykofanti]] vedvarer etter prompting og alignment, og autoritetspress åpner atferden som en kontekstbyttetest lukket. Transkripsjonen fra din egen presstest er evidensen for dette i produktet ditt.
 
 Ledertavletallet er resultatet. 96,52 % på CDPK beskriver prestasjon på én benchmarks pedagogikkoppgaver. Studentene dine møter din læreplan, din notasjon og en student som har sittet fast i tjue minutter.
 

@@ -46,7 +46,7 @@ Daaruit volgen twee ontwerpimplicaties. Richt u op nieuwere instellingen en onde
 
 ## Zet lerenden met een beperking in de ontwerpkamer
 
-Betrek lerenden met een beperking bij ontwerp en evaluatie, test werkelijke interfaces tegen toegankelijkheidseisen, en bied gelijkwaardige routes om deel te nemen en om te laten zien wat men heeft geleerd. Technische naleving en inclusief onderwijs zijn aparte toetsen, en [[accessibility|Toegankelijkheid]] dekt beide.
+Betrek [[inclusive-learning|lerenden met een beperking]] bij ontwerp en evaluatie, test werkelijke interfaces tegen toegankelijkheidseisen, en bied gelijkwaardige routes om deel te nemen en om te laten zien wat men heeft geleerd. Technische naleving en [[inclusive-learning|inclusief onderwijs]] zijn aparte toetsen, en [[accessibility|Toegankelijkheid]] dekt beide.
 
 Een [[ko-hughes-vsd-student-centered-its-2026|waardengevoelig ontwerponderzoek]] met studenten van een community college, docenten en ontwikkelaars laat het werk in de praktijk zien. Het leverde 16 waardeafgestemde functies op over [[explainable-ai|uitlegbaarheid]] (E1-E5), [[human-in-the-loop-ai|mens-in-de-lus]]-controle (H1-H9) en [[privacy]] (P1-P4), en bracht spanningen aan het licht in plaats van nette antwoorden: transparantie tegen interpreteerbaarheid, privacy tegen onderwijskundig inzicht, [[agency|handelingsvermogen]] van de lerende tegen systeemgestuurde [[scaffolding]]. Verwacht dat u die moet beslechten, en leg vast welke kant u op ging.
 
@@ -64,7 +64,7 @@ Praktijkmensen komen uit op een verenigbaar ontwerp. In een [[reichert-human-cen
 
 ## Combineer methoden, en toon het pad van data naar claim
 
-Opgelichte [[quantitative-research|kwantitatieve]] uitkomsten kunnen [[differential-effects-across-learner-groups|differentiële effecten]] aan het licht brengen. Interviews, observaties, focusgroepen en co-design brengen drempels, schade, culturele aannames en de ervaring van lerenden naar boven die geaggregeerde scores missen. De synthese over [[research-methods-aied|onderzoeksmethoden in AIED]] beschouwt triangulatie als noodzakelijk omdat geen enkele [[qualitative-research|kwalitatieve]] of kwantitatieve methode tegelijk causaal redeneren, ecologische validiteit, contextueel begrip en generaliseerbaarheid maximaliseert.
+Opgelichte [[quantitative-research|kwantitatieve]] uitkomsten kunnen [[differential-effects-across-learner-groups|differentiële effecten]] aan het licht brengen. Interviews, observaties, focusgroepen en co-design brengen drempels, schade, culturele aannames en [[student-experience|de ervaring van lerenden]] naar boven die geaggregeerde scores missen. De synthese over [[research-methods-aied|onderzoeksmethoden in AIED]] beschouwt triangulatie als noodzakelijk omdat geen enkele [[qualitative-research|kwalitatieve]] of kwantitatieve methode tegelijk causaal redeneren, ecologische validiteit, contextueel begrip en generaliseerbaarheid maximaliseert.
 
 Uw eigen analyse heeft dezelfde discipline nodig. [[chain-behind-claim-warrantability-2026|Het warrantability-voorstel]] betoogt dat een AI-ondersteunde interpretatie inspecteerbaar, betwistbaar en herzienbaar blijft wanneer ze wordt geleverd met artefacten zoals brontabellen met verwijzingen, lensstapels en bewijsstromen. Een vloeiende samenvatting mag het pad dat haar heeft opgeleverd niet verbergen.
 

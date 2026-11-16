@@ -28,9 +28,9 @@ ai_assist:
 
 *Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ.*
 
-Tutorul tău dă răspunsul. Demonstrația nu a arătat asta, pentru că întrebarea era ușoară și studentul cooperant. Jurnalele pilotului o arată: un student întreabă de două ori, modelul reia metoda, apoi o rezolvă. Un profesor privește o sesiune și spune că este un chatbot cu voce prietenoasă. Acum decizi dacă cheltui un sfert din timpul de inginerie pe post-antrenare sau lansezi cu un prompt de sistem mai bun.
+Tutorul tău dă răspunsul. Demonstrația nu a arătat asta, pentru că întrebarea era ușoară și studentul cooperant. Jurnalele pilotului o arată: un student întreabă de două ori, modelul reia metoda, apoi o rezolvă. Un [[teacher-role|profesor]] privește o sesiune și spune că este un [[conversational-ai|chatbot]] cu voce prietenoasă. Acum decizi dacă cheltui un sfert din timpul de inginerie pe post-antrenare sau lansezi cu un prompt de sistem mai bun.
 
-Răspunsul scurt: promptingul nu înlătură tentația de a răspunde, pentru că utilitatea este ce a fost antrenat modelul de bază să producă. Dacă comportamentul de îndrumare este produsul, el trebuie antrenat, iar variabila care decide rezultatul este **recompensa**. Scrie recompensa în raport cu un benchmark, pune raționamentul la nivel de pas în datele de antrenare și judecă antrenarea după următoarea mișcare pedagogică pe care o alege modelul.
+Răspunsul scurt: promptingul nu înlătură tentația de a răspunde, pentru că utilitatea este ce a fost antrenat modelul de bază să producă. Dacă comportamentul de îndrumare este produsul, el trebuie antrenat, iar variabila care decide rezultatul este **recompensa**. Scrie recompensa în raport cu un benchmark, pune raționamentul la nivel de pas în datele de antrenare și judecă antrenarea după următoarea [[pedagogy|mișcare pedagogică]] pe care o alege modelul.
 
 ## Pe scurt
 
@@ -40,7 +40,7 @@ Răspunsul scurt: promptingul nu înlătură tentația de a răspunde, pentru c�
 
 **3.** Antrenează pe urme la nivel de pas. Un corpus de perechi întrebare și răspuns corect nu poate învăța un model să vadă unde a greșit un student.
 
-**4.** Preferă învățarea prin întărire în fața imitației când contează judecata și păstrează scorurile etapelor intermediare.
+**4.** Preferă [[reinforcement-learning|învățarea prin întărire]] în fața imitației când contează judecata și păstrează scorurile etapelor intermediare.
 
 **5.** Fă recompensa suficient de densă ca să se aprindă pe majoritatea răspunsurilor și rulează evaluarea pe conversații întregi.
 
@@ -62,13 +62,13 @@ Din asta decurg două lucruri. Așteaptă-te ca recompensa să fie păcălită, 
 
 ## Fă recompensa să se aprindă destul de des ca să învețe
 
-O recompensă de potrivire exactă este prea rară când lucrul care îți pasă are mai multe dimensiuni. Simulatorul de scriere SWIM arată progresia curat: promptingul fundamentat pe rubrică a atins un QWK mediu pe trăsătură de **0,577** cu Claude Sonnet și **0,422** cu GPT-5.4, aproape zero pentru un model deschis de 7B; ajustarea fină supervizată a atins **0,474 ± 0,023** pentru acel model de 7B; GRPO cu o recompensă densă de acuratețe normalizată pe trăsătură a atins **0,618 ± 0,005** pe fiecare trăsătură și prompt ([[swim-student-writing-simulation-2026]]).
+O recompensă de potrivire exactă este prea rară când lucrul care îți pasă are mai multe dimensiuni. [[simulation|Simulatorul]] de scriere SWIM arată progresia curat: promptingul fundamentat pe rubrică a atins un QWK mediu pe trăsătură de **0,577** cu Claude Sonnet și **0,422** cu GPT-5.4, aproape zero pentru un model deschis de 7B; ajustarea fină supervizată a atins **0,474 ± 0,023** pentru acel model de 7B; GRPO cu o recompensă densă de acuratețe normalizată pe trăsătură a atins **0,618 ± 0,005** pe fiecare trăsătură și prompt ([[swim-student-writing-simulation-2026]]).
 
 Designul recompensei a produs diferența aceea. Un semnal dens normalizat pe trăsătură bate potrivirea exactă într-un cadru cu mai multe trăsături, iar dacă recompensa ta se aprinde doar la un răspuns perfect, cea mai mare parte din semnalul de antrenare este tăcere.
 
 ## Pune raționamentul în exemple
 
-Constatarea cea mai aplicabilă din acest domeniu privește ce trebuie să conțină datele de antrenare. Modelele instruite prin instrucțiuni au învățat misconcepțiile algebrei doar când au fost antrenate pe **urme de soluție la nivel de pas**. Antrenate doar pe răspunsuri finale, acuratețea a rămas **sub 30% la orice dimensiune a datelor** ([[misconception-acquisition-dynamics-llms-2026]]).
+Constatarea cea mai aplicabilă din acest domeniu privește ce trebuie să conțină datele de antrenare. Modelele instruite prin instrucțiuni au învățat [[misconceptions|misconcepțiile]] algebrei doar când au fost antrenate pe **urme de soluție la nivel de pas**. Antrenate doar pe răspunsuri finale, acuratețea a rămas **sub 30% la orice dimensiune a datelor** ([[misconception-acquisition-dynamics-llms-2026]]).
 
 Două detalii din acel studiu contează pentru cine construiește oricare dintre cele două roluri ale unui tutor. Rolul de student a generalizat excesiv eroarea învățată până când exemplele corecte au fost amestecate în proporții de doar **unul din patru**. Rolul de tutor nu a arătat acest cost, ținând acuratețea corectă de la **93% la 98%** pe zece misconcepții antrenate împreună.
 
@@ -84,7 +84,7 @@ Citirea practică: dacă eșecul tău este un ton greșit sau un format lipsă, 
 
 ## Etichetează fiecare exemplu cu comportamentul pe care îl predă
 
-Dacă supervizarea trebuie să conțină raționament, schema de etichetare este o decizie de curriculum. Un studiu al etichetelor de supervizare a constatat că atribuirea fiecărui exemplu de antrenare a unui singur comportament-țintă, între competența de disciplină, fundamentarea în curriculum, raționamentul diagnostic și sprijinul de tip schelă, a ridicat scorurile la fiecare dimensiune de model testată, cu cele mai mari câștiguri la sprijinul de tip schelă și la folosirea istoricului unui învățăcel. Diagnosticul stării de cunoaștere a rămas cel mai slab comportament, la **54,04%** ([[omniedu-open-educational-foundation-models-2026]]). Diagnosticul este elementul cel mai greu de pe listă, așa că bugetează pentru el.
+Dacă supervizarea trebuie să conțină raționament, schema de etichetare este o decizie de [[curriculum-design|curriculum]]. Un studiu al etichetelor de supervizare a constatat că atribuirea fiecărui exemplu de antrenare a unui singur comportament-țintă, între competența de disciplină, fundamentarea în curriculum, raționamentul diagnostic și [[scaffolding|sprijinul de tip schelă]], a ridicat scorurile la fiecare dimensiune de model testată, cu cele mai mari câștiguri la sprijinul de tip schelă și la folosirea istoricului unui învățăcel. Diagnosticul stării de cunoaștere a rămas cel mai slab comportament, la **54,04%** ([[omniedu-open-educational-foundation-models-2026]]). Diagnosticul este elementul cel mai greu de pe listă, așa că bugetează pentru el.
 
 Selecția datelor este o problemă de antrenare de sine stătătoare. Edu-QuRating adaptează distilarea preferințelor la curatorierea datelor educaționale, înlocuind un singur scor de tipul „este educațional?” cu **20 de dimensiuni de rubrică** care acoperă acuratețea factuală, structura pedagogică și potrivirea nivelului ([[garrod-edu-qurating-educational-data-curation-2026]]). Dacă asamblezi un corpus din text de pe web, filtrul acela decide cum va suna modelul tău.
 
@@ -102,7 +102,7 @@ O rută mai ieftină este distilarea. Pedagogy-R1, la 1,5B și 7B, a fost ajusta
 
 Post-antrenarea nu trebuie să modeleze doar ce spune modelul. TACT a post-antrenat un tutor pe o taxonomie de 13 strategii plus o taxonomie de mișcări ale studentului pe două axe și a câștigat **20,30 puncte** față de modelul său de bază Qwen3.5-4B, cu un benchmark de diagnostic care **reține etichetele stării învățăcelului** disponibile în timpul antrenării, astfel încât modelul trebuie să deducă starea din dialog ([[tact-pedagogically-adaptive-esl-tutoring]]).
 
-Aceeași logică străbate alinierea pentru [[special-education|educația specială]] ([[special-r1-rl-special-education]]) și lucrul cu învățare prin întărire euristică care aliniază modelele ca ghizi socratici, nu ca entități care răspund ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). O platformă merge mai departe și antrenează politica, nu proza: un agent cu învățare prin întărire alege următoarea problemă de exersare, așa că ce face învățăcelul în continuare este decis de modelul antrenat ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
+Aceeași logică străbate alinierea pentru [[special-education|educația specială]] ([[special-r1-rl-special-education]]) și lucrul cu învățare prin întărire euristică care aliniază modelele ca [[socratic-method|ghizi socratici]], nu ca entități care răspund ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). O platformă merge mai departe și antrenează politica, nu proza: un agent cu învățare prin întărire alege următoarea problemă de exersare, așa că ce face învățăcelul în continuare este decis de modelul antrenat ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
 
 Ultimul caz este testul dacă ai proiectat un tutor sau un generator de text. Dacă singurul rezultat al modelului este proză, pedagogia trăiește în codul tău de orchestrare. Dacă modelul alege următoarea sarcină, pedagogia este în ponderi.
 
@@ -112,7 +112,7 @@ Antrenarea nu face un model sigur pe o conversație lungă. SafeTutors arată c�
 
 ## Ce greșesc echipele de antrenare
 
-Mai mult prompting va ține în cele din urmă. Sicofantismul persistă după prompting și aliniere, iar presiunea de autoritate redeschide comportamentul pe care un test de schimbare a contextului îl închisese. Transcrierea din propriul tău test de presiune este dovada pentru asta în produsul tău.
+Mai mult prompting va ține în cele din urmă. [[ai-sycophancy|Sicofantismul]] persistă după prompting și aliniere, iar presiunea de autoritate redeschide comportamentul pe care un test de schimbare a contextului îl închisese. Transcrierea din propriul tău test de presiune este dovada pentru asta în produsul tău.
 
 Numărul de pe clasament este rezultatul. 96,52% pe CDPK descrie performanța pe sarcinile pedagogice ale unui singur benchmark. Studenții tăi întâlnesc curriculumul tău, notația ta și un student blocat de douăzeci de minute.
 

@@ -28,9 +28,9 @@ ai_assist:
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
 
-Din vejleder afslører svaret. Demoen viste det ikke, fordi spørgsmålet var let, og den studerende var samarbejdsvillig. Pilotlogfilerne viser det: en studerende spørger to gange, modellen gentager metoden og løser så opgaven. En underviser ser en session og siger, at det er en chatbot med en venlig stemme. Nu overvejer du, om du skal bruge et kvartals udviklingstid på eftertræning eller udgive med en bedre systemprompt.
+Din vejleder afslører svaret. Demoen viste det ikke, fordi spørgsmålet var let, og den studerende var samarbejdsvillig. Pilotlogfilerne viser det: en studerende spørger to gange, modellen gentager metoden og løser så opgaven. En [[teacher-role|underviser]] ser en session og siger, at det er en [[conversational-ai|chatbot]] med en venlig stemme. Nu overvejer du, om du skal bruge et kvartals udviklingstid på eftertræning eller udgive med en bedre systemprompt.
 
-Det korte svar: promptning fjerner ikke trækket mod at svare, fordi hjælpsomhed er det, grundmodellen er trænet til at producere. Hvis guidende adfærd er produktet, skal den trænes, og den variabel, der afgør udfaldet, er **belønningen**. Skriv belønningen mod en benchmark, læg ræsonnement på trinniveau i træningsdata, og bedøm træningen på det næste pædagogiske træk, modellen vælger.
+Det korte svar: promptning fjerner ikke trækket mod at svare, fordi hjælpsomhed er det, grundmodellen er trænet til at producere. Hvis guidende adfærd er produktet, skal den trænes, og den variabel, der afgør udfaldet, er **belønningen**. Skriv belønningen mod en benchmark, læg ræsonnement på trinniveau i træningsdata, og bedøm træningen på det næste [[pedagogy|pædagogiske]] træk, modellen vælger.
 
 ## Den korte version
 
@@ -40,7 +40,7 @@ Det korte svar: promptning fjerner ikke trækket mod at svare, fordi hjælpsomhe
 
 **3.** Træn på spor på trinniveau. Et korpus af spørgsmål-og-korrekt-svar-par kan ikke lære en model at se, hvor en studerende gik galt.
 
-**4.** Foretræk forstærkningslæring frem for imitation, når dommen betyder noget, og gem scorene fra mellemtrinnene.
+**4.** Foretræk [[reinforcement-learning|forstærkningslæring]] frem for imitation, når dommen betyder noget, og gem scorene fra mellemtrinnene.
 
 **5.** Gør belønningen tæt nok til at udløse på de fleste svar, og kør evalueringen på hele samtaler.
 
@@ -62,13 +62,13 @@ To ting følger. Forvent, at belønningen bliver udnyttet, fordi den specificere
 
 ## Få belønningen til at udløse ofte nok til at lære
 
-En belønning baseret på eksakt match er for sparsom, når det, du bekymrer dig om, har flere dimensioner. SWIMs skrivesimulator viser forløbet rent: rubrikbaseret promptning nåede en bedste gennemsnitlig trait-QWK på **0,577** med Claude Sonnet og **0,422** med GPT-5.4, nær nul for en åben 7B-model; superviseret finjustering nåede **0,474 ± 0,023** for den 7B-model; GRPO med en tæt, trait-normaliseret nøjagtighedsbelønning nåede **0,618 ± 0,005** på tværs af hver trait og prompt ([[swim-student-writing-simulation-2026]]).
+En belønning baseret på eksakt match er for sparsom, når det, du bekymrer dig om, har flere dimensioner. SWIMs [[simulation|skrivesimulator]] viser forløbet rent: rubrikbaseret promptning nåede en bedste gennemsnitlig trait-QWK på **0,577** med Claude Sonnet og **0,422** med GPT-5.4, nær nul for en åben 7B-model; superviseret finjustering nåede **0,474 ± 0,023** for den 7B-model; GRPO med en tæt, trait-normaliseret nøjagtighedsbelønning nåede **0,618 ± 0,005** på tværs af hver trait og prompt ([[swim-student-writing-simulation-2026]]).
 
 Belønningsdesignet skabte det gab. Et tæt trait-normaliseret signal slår eksakt match i en fler-trait-indstilling, og hvis din belønning kun udløser på et perfekt svar, er det meste af dit træningssignal tavshed.
 
 ## Læg ræsonnementet i eksemplerne
 
-Det mest anvendelige fund på området handler om, hvad træningsdata skal indeholde. Instruktionstrænede modeller lærte kun algebra-misforståelser, når de blev trænet på **løsningsspor på trinniveau**. Trænet på slutkontrol alene forblev nøjagtigheden **under 30 % ved hver datastørrelse** ([[misconception-acquisition-dynamics-llms-2026]]).
+Det mest anvendelige fund på området handler om, hvad træningsdata skal indeholde. Instruktionstrænede modeller lærte kun algebra-[[misconceptions|misforståelser]], når de blev trænet på **løsningsspor på trinniveau**. Trænet på slutkontrol alene forblev nøjagtigheden **under 30 % ved hver datastørrelse** ([[misconception-acquisition-dynamics-llms-2026]]).
 
 To detaljer fra det studie betyder noget for enhver, der bygger en af siderne i en vejleder. Elevrollen overgeneraliserede den lærte fejl, indtil korrekte eksempler blev blandet ind i forhold så lave som **én ud af fire**. Underviserrollen viste ingen sådan omkostning og holdt korrekt nøjagtighed fra **93 % til 98 %** på tværs af ti fælles trænede misforståelser.
 
@@ -84,7 +84,7 @@ Den praktiske læsning: hvis din fejl er en forkert tone eller et manglende form
 
 ## Mærk hvert eksempel med den adfærd, det lærer
 
-Hvis superviseringen skal indeholde ræsonnement, er mærkningsskemaet en beslutning om pensum. Et studie af superviseringsmærkater fandt, at det at tildele hvert træningseksempel én mål-adfærd, blandt fagkompetence, pensumforankring, diagnostisk ræsonnement og stilladsering, hævede scorene ved hver testet modelstørrelse, med de største gevinster inden for stilladsering og brug af en lærendes historik. Diagnose af videntilstand forblev den svageste adfærd ved **54,04 %** ([[omniedu-open-educational-foundation-models-2026]]). Diagnose er det sværeste punkt på listen, så budgettér for det.
+Hvis superviseringen skal indeholde ræsonnement, er mærkningsskemaet en [[curriculum-design|pensum]]beslutning. Et studie af superviseringsmærkater fandt, at det at tildele hvert træningseksempel én mål-adfærd, blandt fagkompetence, pensumforankring, diagnostisk ræsonnement og [[scaffolding|stilladsering]], hævede scorene ved hver testet modelstørrelse, med de største gevinster inden for stilladsering og brug af en lærendes historik. Diagnose af videntilstand forblev den svageste adfærd ved **54,04 %** ([[omniedu-open-educational-foundation-models-2026]]). Diagnose er det sværeste punkt på listen, så budgettér for det.
 
 Datavalg er et træningsproblem i sig selv. Edu-QuRating tilpasser præference-destillation til kuratering af undervisningsdata og erstatter en enkelt score for »er dette undervisningsrelevant?« med **20 rubrikdimensioner**, der dækker faktuel nøjagtighed, pædagogisk struktur og niveaupasning ([[garrod-edu-qurating-educational-data-curation-2026]]). Hvis du sammensætter et korpus fra webtekst, afgør det filter, hvordan din model kommer til at lyde.
 
@@ -102,7 +102,7 @@ En billigere vej er destillation. Pedagogy-R1, ved 1,5B og 7B, blev instruktions
 
 Eftertræning behøver ikke kun forme, hvad modellen siger. TACT eftertrænede en vejleder på en taksonomi med 13 strategier plus en elevtrækstaksonomi med to akser og vandt **20,30 point** over sin Qwen3.5-4B-rygrad, med en diagnostisk benchmark, der **tilbageholder de lærendetilstandsmærkater**, som var tilgængelige under træningen, så modellen må udlede tilstanden fra dialogen ([[tact-pedagogically-adaptive-esl-tutoring]]).
 
-Den samme logik løber gennem alignment for [[special-education|specialundervisning]] ([[special-r1-rl-special-education]]) og gennem heuristisk RL-arbejde, der aligner modeller som sokratiske guider snarere end som svarere ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Én platform går videre og træner politikken snarere end prosæn: en forstærkningslæringsagent vælger den næste øvelsesopgave, så det, den lærende gør næste gang, besluttes af den trænede model ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
+Den samme logik løber gennem alignment for [[special-education|specialundervisning]] ([[special-r1-rl-special-education]]) og gennem heuristisk RL-arbejde, der aligner modeller som [[socratic-method|sokratiske]] guider snarere end som svarere ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Én platform går videre og træner politikken snarere end prosæn: en forstærkningslæringsagent vælger den næste øvelsesopgave, så det, den lærende gør næste gang, besluttes af den trænede model ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
 
 Det sidste tilfælde er testen på, om du har designet en vejleder eller en tekstgenerator. Hvis modellens eneste output er prosa, bor pædagogikken i din orkestreringskode. Hvis modellen vælger den næste opgave, er pædagogikken i vægtene.
 
@@ -112,7 +112,7 @@ Træning gør ikke en model sikker over en lang samtale. SafeTutors viser, at se
 
 ## Hvad træningsteams gør forkert
 
-Mere promptning holder til sidst. Sycophancy består efter promptning og alignment, og autoritetspres genåbner den adfærd, som en kontekstskift-test lukkede. Transskriptionen fra din egen prestest er evidensen for det i dit produkt.
+Mere promptning holder til sidst. [[ai-sycophancy|Sycophancy]] består efter promptning og alignment, og autoritetspres genåbner den adfærd, som en kontekstskift-test lukkede. Transskriptionen fra din egen prestest er evidensen for det i dit produkt.
 
 Tallet på leaderboarden er resultatet. 96,52 % på CDPK beskriver præstation på én benchmarks pædagogiske opgaver. Dine studerende møder dit pensum, din notation og en studerende, der har siddet fast i tyve minutter.
 

@@ -32,9 +32,9 @@ ai_assist:
 
 *Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa.*
 
-Seu tutor entrega a resposta. A demonstração não mostrou isso, porque a pergunta era fácil e o estudante era colaborativo. Os registros do piloto mostram: um estudante pergunta duas vezes, o modelo reformula o método e então resolve. Um professor observa uma sessão e diz que é um chatbot com voz amigável. Agora você está decidindo se gasta um quarto do tempo de engenharia em pós-treinamento ou se lança com um prompt de sistema melhor.
+Seu tutor entrega a resposta. A demonstração não mostrou isso, porque a pergunta era fácil e o estudante era colaborativo. Os registros do piloto mostram: um estudante pergunta duas vezes, o modelo reformula o método e então resolve. Um [[teacher-role|professor]] observa uma sessão e diz que é um [[conversational-ai|chatbot]] com voz amigável. Agora você está decidindo se gasta um quarto do tempo de engenharia em pós-treinamento ou se lança com um prompt de sistema melhor.
 
-A resposta curta: prompting não remove a inclinação a responder, porque a utilidade é o que o modelo base foi treinado para produzir. Se o comportamento de guiar é o produto, ele precisa ser treinado, e a variável que decide o resultado é a **recompensa**. Escreva a recompensa contra um benchmark, coloque raciocínio em nível de passo nos dados de treino e julgue o treinamento pelo próximo movimento pedagógico que o modelo escolhe.
+A resposta curta: prompting não remove a inclinação a responder, porque a utilidade é o que o modelo base foi treinado para produzir. Se o comportamento de guiar é o produto, ele precisa ser treinado, e a variável que decide o resultado é a **recompensa**. Escreva a recompensa contra um benchmark, coloque raciocínio em nível de passo nos dados de treino e julgue o treinamento pelo próximo [[pedagogy|movimento pedagógico]] que o modelo escolhe.
 
 ## A versão curta
 
@@ -44,7 +44,7 @@ A resposta curta: prompting não remove a inclinação a responder, porque a uti
 
 **3.** Treine com traços em nível de passo. Um corpus de pares pergunta e resposta correta não ensina um modelo a ver onde o estudante errou.
 
-**4.** Prefira aprendizado por reforço à imitação quando o julgamento importa, e guarde as pontuações dos estágios intermediários.
+**4.** Prefira [[reinforcement-learning|aprendizado por reforço]] à imitação quando o julgamento importa, e guarde as pontuações dos estágios intermediários.
 
 **5.** Faça a recompensa densa o bastante para disparar na maioria das respostas, e rode a avaliação em conversas inteiras.
 
@@ -66,13 +66,13 @@ Duas coisas decorrem disso. Espere que a recompensa seja manipulada, porque ela 
 
 ## Faça a recompensa disparar com frequência suficiente para ensinar
 
-Uma recompensa de correspondência exata é esparsa demais quando a coisa que importa tem várias dimensões. O simulador de escrita do SWIM mostra a progressão com clareza: prompting fundamentado em rubrica alcançou a melhor média de QWK por atributo de **0,577** com o Claude Sonnet e **0,422** com o GPT-5.4, perto de zero para um modelo aberto de 7B; o ajuste fino supervisionado alcançou **0,474 ± 0,023** para esse modelo de 7B; o GRPO com uma recompensa densa e normalizada por atributo alcançou **0,618 ± 0,005** em todos os atributos e prompts ([[swim-student-writing-simulation-2026]]).
+Uma recompensa de correspondência exata é esparsa demais quando a coisa que importa tem várias dimensões. O [[simulation|simulador]] de escrita do SWIM mostra a progressão com clareza: prompting fundamentado em rubrica alcançou a melhor média de QWK por atributo de **0,577** com o Claude Sonnet e **0,422** com o GPT-5.4, perto de zero para um modelo aberto de 7B; o ajuste fino supervisionado alcançou **0,474 ± 0,023** para esse modelo de 7B; o GRPO com uma recompensa densa e normalizada por atributo alcançou **0,618 ± 0,005** em todos os atributos e prompts ([[swim-student-writing-simulation-2026]]).
 
 O design da recompensa produziu essa diferença. Um sinal denso e normalizado por atributo vence a correspondência exata em um cenário com múltiplos atributos, e se sua recompensa dispara apenas em uma resposta perfeita, a maior parte do seu sinal de treino é silêncio.
 
 ## Coloque o raciocínio nos exemplos
 
-O achado mais acionável nesta área diz respeito ao que os dados de treino precisam conter. Modelos ajustados por instrução aprenderam concepções errôneas de álgebra apenas quando treinados com **traços de solução em nível de passo**. Treinados apenas com respostas finais, a acurácia ficou **abaixo de 30% em todos os tamanhos de dados** ([[misconception-acquisition-dynamics-llms-2026]]).
+O achado mais acionável nesta área diz respeito ao que os dados de treino precisam conter. Modelos ajustados por instrução aprenderam [[misconceptions|concepções errôneas]] de álgebra apenas quando treinados com **traços de solução em nível de passo**. Treinados apenas com respostas finais, a acurácia ficou **abaixo de 30% em todos os tamanhos de dados** ([[misconception-acquisition-dynamics-llms-2026]]).
 
 Dois detalhes desse estudo importam para quem constrói qualquer um dos lados de um tutor. O papel de estudante supergeneralizou o erro aprendido até que exemplos corretos fossem misturados em proporções tão baixas quanto **um em cada quatro**. O papel de tutor não mostrou esse custo, mantendo a acurácia de respostas corretas entre **93% e 98%** ao longo de dez concepções errôneas treinadas conjuntamente.
 
@@ -88,7 +88,7 @@ A leitura prática: se a sua falha é um tom errado ou um formato ausente, o SFT
 
 ## Rotule cada exemplo com o comportamento que ele ensina
 
-Se a supervisão precisa conter raciocínio, o esquema de rotulagem é uma decisão curricular. Um estudo sobre rótulos de supervisão descobriu que atribuir a cada exemplo de treino um comportamento-alvo, entre competência de conteúdo, fundamentação curricular, raciocínio diagnóstico e scaffolding, elevou as pontuações em todos os tamanhos de modelo testados, com os maiores ganhos em scaffolding e no uso do histórico do aprendiz. O diagnóstico do estado de conhecimento continuou sendo o comportamento mais fraco, com **54,04%** ([[omniedu-open-educational-foundation-models-2026]]). O diagnóstico é o item mais difícil dessa lista, então orce para ele.
+Se a supervisão precisa conter raciocínio, o esquema de rotulagem é uma [[curriculum-design|decisão curricular]]. Um estudo sobre rótulos de supervisão descobriu que atribuir a cada exemplo de treino um comportamento-alvo, entre competência de conteúdo, fundamentação curricular, raciocínio diagnóstico e [[scaffolding|scaffolding]], elevou as pontuações em todos os tamanhos de modelo testados, com os maiores ganhos em scaffolding e no uso do histórico do aprendiz. O diagnóstico do estado de conhecimento continuou sendo o comportamento mais fraco, com **54,04%** ([[omniedu-open-educational-foundation-models-2026]]). O diagnóstico é o item mais difícil dessa lista, então orce para ele.
 
 A seleção de dados é um problema de treino por si só. O Edu-QuRating adapta a destilação de preferências à curadoria de dados educacionais, substituindo uma única pontuação de "isto é educacional?" por **20 dimensões de rubrica** que cobrem acurácia factual, estrutura pedagógica e adequação de nível ([[garrod-edu-qurating-educational-data-curation-2026]]). Se você está montando um corpus a partir de texto da web, esse filtro decide como o seu modelo vai soar.
 
@@ -106,7 +106,7 @@ Um caminho mais barato é a destilação. O Pedagogy-R1, com 1,5B e 7B, foi ajus
 
 O pós-treinamento não precisa moldar apenas o que o modelo diz. O TACT pós-treinou um tutor com uma taxonomia de 13 estratégias mais uma taxonomia de movimentos do estudante em dois eixos e ganhou **20,30 pontos** sobre seu backbone Qwen3.5-4B, com um benchmark diagnóstico que **retém os rótulos de estado do aprendiz** disponíveis durante o treino, de modo que o modelo precisa inferir o estado a partir do diálogo ([[tact-pedagogically-adaptive-esl-tutoring]]).
 
-A mesma lógica atravessa o alinhamento para [[special-education|educação especial]] ([[special-r1-rl-special-education]]) e o trabalho de RL heurístico que alinha modelos como guias socráticos em vez de respondedores ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Uma plataforma vai além e treina a política em vez da prosa: um agente de aprendizado por reforço escolhe o próximo problema de prática, então o que o aprendiz faz em seguida é decidido pelo modelo treinado ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
+A mesma lógica atravessa o alinhamento para [[special-education|educação especial]] ([[special-r1-rl-special-education]]) e o trabalho de RL heurístico que alinha modelos como [[socratic-method|guias socráticos]] em vez de respondedores ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Uma plataforma vai além e treina a política em vez da prosa: um agente de aprendizado por reforço escolhe o próximo problema de prática, então o que o aprendiz faz em seguida é decidido pelo modelo treinado ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
 
 Esse último caso é o teste de se você projetou um tutor ou um gerador de texto. Se a única saída do modelo é prosa, a pedagogia vive no seu código de orquestração. Se o modelo escolhe a próxima tarefa, a pedagogia está nos pesos.
 
@@ -116,7 +116,7 @@ O treinamento não torna um modelo seguro ao longo de uma conversa longa. O Safe
 
 ## O que as equipes de treinamento erram
 
-Mais prompting vai acabar segurando. A sifofância persiste depois de prompting e alinhamento, e a pressão de autoridade reabre o comportamento que um teste de troca de contexto fechou. A transcrição do seu próprio teste de pressão é a evidência disso no seu produto.
+Mais prompting vai acabar segurando. A [[ai-sycophancy|sicofância]] persiste depois de prompting e alinhamento, e a pressão de autoridade reabre o comportamento que um teste de troca de contexto fechou. A transcrição do seu próprio teste de pressão é a evidência disso no seu produto.
 
 O número do ranking é o resultado. 96,52% no CDPK descreve desempenho nas tarefas pedagógicas de um benchmark. Seus estudantes encontram o seu currículo, a sua notação e um estudante que está travado há vinte minutos.
 

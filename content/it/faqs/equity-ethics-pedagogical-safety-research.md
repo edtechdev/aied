@@ -49,7 +49,7 @@ Ne seguono due implicazioni di progetto. Punta sulle istituzioni più recenti e 
 
 ## Metti nell'aula di progettazione gli studenti con disabilità
 
-Includi gli studenti con disabilità nella progettazione e nella valutazione, testa le interfacce reali contro i requisiti di accessibilità, e fornisci vie equivalenti per partecipare e per dimostrare l'apprendimento. La conformità tecnica e l'insegnamento inclusivo sono due test separati, e [[accessibility|Accessibilità]] copre entrambi.
+Includi gli [[inclusive-learning|studenti con disabilità]] nella progettazione e nella valutazione, testa le interfacce reali contro i requisiti di accessibilità, e fornisci vie equivalenti per partecipare e per dimostrare l'apprendimento. La conformità tecnica e l'[[inclusive-learning|insegnamento inclusivo]] sono due test separati, e [[accessibility|Accessibilità]] copre entrambi.
 
 Uno [[ko-hughes-vsd-student-centered-its-2026|studio di progettazione sensibile ai valori]] con studenti, docenti e sviluppatori di community college mostra il lavoro nella pratica. Ha prodotto 16 funzionalità allineate ai valori tra [[explainable-ai|spiegabilità]] (E1-E5), controllo [[human-in-the-loop-ai|human-in-the-loop]] (H1-H9) e [[privacy]] (P1-P4), e ha portato in superficie tensioni invece che risposte ordinate: trasparenza contro interpretabilità, privacy contro intuizione didattica, [[agency|agentività]] dello studente contro lo [[scaffolding]] guidato dal sistema. Aspettati di doverle dirimere, e annota da che parte sei andato.
 
@@ -67,7 +67,7 @@ Chi lavora sul campo converge su un progetto compatibile. In uno [[reichert-huma
 
 ## Combina i metodi, e mostra il percorso dal dato all'affermazione
 
-Gli esiti [[quantitative-research|quantitativi]] disaggregati possono rivelare [[differential-effects-across-learner-groups|effetti differenziali]]. Interviste, osservazioni, focus group e co-progettazione fanno emergere barriere, danni, assunti culturali ed esperienze degli studenti che i punteggi aggregati mancano. La sintesi su [[research-methods-aied|metodi di ricerca nell'AIED]] tratta la triangolazione come necessaria perché nessun metodo [[qualitative-research|qualitativo]] o quantitativo massimizza contemporaneamente inferenza causale, validità ecologica, comprensione contestuale e generalizzabilità.
+Gli esiti [[quantitative-research|quantitativi]] disaggregati possono rivelare [[differential-effects-across-learner-groups|effetti differenziali]]. Interviste, osservazioni, focus group e co-progettazione fanno emergere barriere, danni, assunti culturali ed [[student-experience|esperienze degli studenti]] che i punteggi aggregati mancano. La sintesi su [[research-methods-aied|metodi di ricerca nell'AIED]] tratta la triangolazione come necessaria perché nessun metodo [[qualitative-research|qualitativo]] o quantitativo massimizza contemporaneamente inferenza causale, validità ecologica, comprensione contestuale e generalizzabilità.
 
 Anche la tua analisi ha bisogno della stessa disciplina. [[chain-behind-claim-warrantability-2026|La proposta sulla giustificabilità]] sostiene che un'interpretazione assistita dall'IA resta ispezionabile, contestabile e revisionabile quando arriva con artefatti come tabelle di argomenti collegate alle fonti, stack di lenti e fiumi di evidenze. Un riassunto fluente non dovrebbe nascondere il percorso che lo ha prodotto.
 

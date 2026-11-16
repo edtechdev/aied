@@ -46,7 +46,7 @@ Två designimplikationer följer. Rikta in dig på nyare institutioner och efter
 
 ## Sätt studenter med funktionsnedsättning i designrummet
 
-Inkludera studenter med funktionsnedsättning i design och utvärdering, testa faktiska gränssnitt mot tillgänglighetskrav, och erbjud likvärdiga vägar att delta och att visa vad man lärt sig. Teknisk efterlevnad och inkluderande undervisning är två separata prov, och [[accessibility|tillgänglighet]] omfattar båda.
+Inkludera [[inclusive-learning|studenter med funktionsnedsättning]] i design och utvärdering, testa faktiska gränssnitt mot tillgänglighetskrav, och erbjud likvärdiga vägar att delta och att visa vad man lärt sig. Teknisk efterlevnad och [[inclusive-learning|inkluderande undervisning]] är två separata prov, och [[accessibility|tillgänglighet]] omfattar båda.
 
 En [[ko-hughes-vsd-student-centered-its-2026|värdekänslig designstudie]] med studenter, lärare och utvecklare vid ett community college visar arbetet i praktiken. Den tog fram 16 värdeanpassade funktioner inom [[explainable-ai|förklaringsbarhet]] (E1-E5), [[human-in-the-loop-ai|människa-i-loopen]]-kontroll (H1-H9) och [[privacy|integritet]] (P1-P4), och synliggjorde spänningar i stället för prydliga svar: transparens mot tolkningsbarhet, integritet mot pedagogisk insikt, studentens [[agency|agens]] mot systemstyrd [[scaffolding|stöttning]]. Räkna med att behöva avgöra dem, och skriv ner vilken väg du valde.
 
@@ -64,7 +64,7 @@ Utövarna närmar sig en design som är förenlig med det. I en [[reichert-human
 
 ## Kombinera metoder, och visa vägen från data till påstående
 
-Uppdelade [[quantitative-research|kvantitativa]] utfall kan avslöja [[differential-effects-across-learner-groups|differentiella effekter]]. Intervjuer, observationer, fokusgrupper och samdesign synliggör hinder, skador, kulturella antaganden och studenters upplevelse som aggregerade poäng missar. Syntesen om [[research-methods-aied|forskningsmetoder inom AIED]] ser triangulering som nödvändig eftersom ingen enskild [[qualitative-research|kvalitativ]] eller kvantitativ metod samtidigt maximerar kausal slutledning, ekologisk validitet, kontextuell förståelse och generaliserbarhet.
+Uppdelade [[quantitative-research|kvantitativa]] utfall kan avslöja [[differential-effects-across-learner-groups|differentiella effekter]]. Intervjuer, observationer, fokusgrupper och samdesign synliggör hinder, skador, kulturella antaganden och [[student-experience|studenters upplevelse]] som aggregerade poäng missar. Syntesen om [[research-methods-aied|forskningsmetoder inom AIED]] ser triangulering som nödvändig eftersom ingen enskild [[qualitative-research|kvalitativ]] eller kvantitativ metod samtidigt maximerar kausal slutledning, ekologisk validitet, kontextuell förståelse och generaliserbarhet.
 
 Din egen analys behöver samma disciplin. [[chain-behind-claim-warrantability-2026|Förslaget om garantibarhet]] argumenterar för att en AI-assisterad tolkning förblir granskningsbar, bestridbar och reviderbar när den levereras med artefakter som källänkade ämnestabeller, linsstaplar och evidensfloder. En ledig sammanfattning bör inte dölja den väg som producerade den.
 

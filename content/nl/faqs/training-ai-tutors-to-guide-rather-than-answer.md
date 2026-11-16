@@ -28,9 +28,9 @@ ai_assist:
 
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
 
-Uw tutor verraadt het antwoord. De demo liet dat niet zien, omdat de vraag gemakkelijk was en de student meewerkte. De pilotlogs doen dat wel: een student vraagt twee keer, het model herhaalt de methode en lost het dan op. Een docent kijkt mee met een sessie en zegt dat het een chatbot met een vriendelijke stem is. Nu besluit u of u een kwart van de engineeringtijd aan post-training besteedt of uitrolt met een betere systeemprompt.
+Uw tutor verraadt het antwoord. De demo liet dat niet zien, omdat de vraag gemakkelijk was en de student meewerkte. De pilotlogs doen dat wel: een student vraagt twee keer, het model herhaalt de methode en lost het dan op. Een [[teacher-role|docent]] kijkt mee met een sessie en zegt dat het een [[conversational-ai|chatbot]] met een vriendelijke stem is. Nu besluit u of u een kwart van de engineeringtijd aan post-training besteedt of uitrolt met een betere systeemprompt.
 
-Het korte antwoord: prompten haalt de neiging om te antwoorden niet weg, omdat behulpzaamheid is waartoe het basismodel is getraind. Als begeleidend gedrag het product is, moet het worden getraind, en de variabele die de uitkomst bepaalt is de **beloning**. Schrijf de beloning tegen een benchmark, zet redeneringen op stapniveau in de trainingsdata, en beoordeel de training op de volgende didactische zet die het model kiest.
+Het korte antwoord: prompten haalt de neiging om te antwoorden niet weg, omdat behulpzaamheid is waartoe het basismodel is getraind. Als begeleidend gedrag het product is, moet het worden getraind, en de variabele die de uitkomst bepaalt is de **beloning**. Schrijf de beloning tegen een benchmark, zet redeneringen op stapniveau in de trainingsdata, en beoordeel de training op de volgende [[pedagogy|didactische]] zet die het model kiest.
 
 ## De korte versie
 
@@ -40,7 +40,7 @@ Het korte antwoord: prompten haalt de neiging om te antwoorden niet weg, omdat b
 
 **3.** Train op sporen op stapniveau. Een corpus van vraag-en-juist-antwoordparen kan een model niet leren zien waar een student de fout in ging.
 
-**4.** Geef reinforcement learning de voorkeur boven imitatie wanneer oordeel ertoe doet, en bewaar de tussentijdse scores per fase.
+**4.** Geef [[reinforcement-learning|reinforcement learning]] de voorkeur boven imitatie wanneer oordeel ertoe doet, en bewaar de tussentijdse scores per fase.
 
 **5.** Maak de beloning dicht genoeg dat zij bij de meeste antwoorden afgaat, en voer de evaluatie uit op hele gesprekken.
 
@@ -62,13 +62,13 @@ Daaruit volgen twee dingen. Verwacht dat de beloning wordt gemanipuleerd, omdat 
 
 ## Zorg dat de beloning vaak genoeg afgaat om iets te leren
 
-Een beloning op exacte overeenkomst is te schaars wanneer wat u belangrijk vindt meerdere dimensies heeft. De schrijfsimulator van SWIM laat de progressie helder zien: prompten op basis van een rubric bereikte een beste gemiddelde QWK per kenmerk van **0,577** met Claude Sonnet en **0,422** met GPT-5.4, bijna nul voor een open 7B-model; supervised fine-tuning bereikte **0,474 ± 0,023** voor dat 7B-model; GRPO met een dichte, per kenmerk genormaliseerde accuratesse-beloning bereikte **0,618 ± 0,005** over elk kenmerk en elke prompt ([[swim-student-writing-simulation-2026]]).
+Een beloning op exacte overeenkomst is te schaars wanneer wat u belangrijk vindt meerdere dimensies heeft. De [[simulation|schrijfsimulator]] van SWIM laat de progressie helder zien: prompten op basis van een rubric bereikte een beste gemiddelde QWK per kenmerk van **0,577** met Claude Sonnet en **0,422** met GPT-5.4, bijna nul voor een open 7B-model; supervised fine-tuning bereikte **0,474 ± 0,023** voor dat 7B-model; GRPO met een dichte, per kenmerk genormaliseerde accuratesse-beloning bereikte **0,618 ± 0,005** over elk kenmerk en elke prompt ([[swim-student-writing-simulation-2026]]).
 
 Het beloningsontwerp veroorzaakte dat verschil. Een dicht, per kenmerk genormaliseerd signaal verslaat exacte overeenkomst in een setting met meerdere kenmerken, en als uw beloning alleen afgaat bij een volmaakt antwoord, is het grootste deel van uw trainingssignaal stilte.
 
 ## Zet de redenering in de voorbeelden
 
-De meest bruikbare bevinding in dit gebied gaat over wat de trainingsdata moet bevatten. Op instructie afgestemde modellen leerden algebraïsche misvattingen alleen wanneer zij op **sporen van oplossingen op stapniveau** werden getraind. Getraind op alleen eindantwoorden bleef de accuratesse **onder 30% bij elke datagrootte** ([[misconception-acquisition-dynamics-llms-2026]]).
+De meest bruikbare bevinding in dit gebied gaat over wat de trainingsdata moet bevatten. Op instructie afgestemde modellen leerden algebraïsche [[misconceptions|misvattingen]] alleen wanneer zij op **sporen van oplossingen op stapniveau** werden getraind. Getraind op alleen eindantwoorden bleef de accuratesse **onder 30% bij elke datagrootte** ([[misconception-acquisition-dynamics-llms-2026]]).
 
 Twee details uit die studie zijn van belang voor iedereen die een van beide kanten van een tutor bouwt. De studentrol overgeneraliseerde de aangeleerde fout totdat juiste voorbeelden werden bijgemengd in verhoudingen van slechts **één op de vier**. De tutorrol liet die kosten niet zien en hield een juiste accuratesse van **93% tot 98%** over tien gezamenlijk getrainde misvattingen.
 
@@ -84,7 +84,7 @@ De praktische lezing: als uw falen een verkeerde toon of een ontbrekende vorm is
 
 ## Label elk voorbeeld met het gedrag dat het onderwijst
 
-Als de supervisie redeneringen moet bevatten, is het labelschema een curriculumbeslissing. Een studie naar supervisielabels vond dat het toekennen van één doelgedrag aan elk trainingsvoorbeeld, uit vakbekwaamheid, curriculumverankering, diagnostisch redeneren en scaffolding, de scores verhoogde bij elke geteste modelgrootte, met de grootste winst bij scaffolding en bij het gebruiken van de geschiedenis van een lerende. Diagnose van de kennistoestand bleef het zwakste gedrag met **54,04%** ([[omniedu-open-educational-foundation-models-2026]]). Diagnose is het moeilijkste item op die lijst, dus begroot het.
+Als de supervisie redeneringen moet bevatten, is het labelschema een [[curriculum-design|curriculumbeslissing]]. Een studie naar supervisielabels vond dat het toekennen van één doelgedrag aan elk trainingsvoorbeeld, uit vakbekwaamheid, curriculumverankering, diagnostisch redeneren en [[scaffolding|scaffolding]], de scores verhoogde bij elke geteste modelgrootte, met de grootste winst bij scaffolding en bij het gebruiken van de geschiedenis van een lerende. Diagnose van de kennistoestand bleef het zwakste gedrag met **54,04%** ([[omniedu-open-educational-foundation-models-2026]]). Diagnose is het moeilijkste item op die lijst, dus begroot het.
 
 Dataselectie is een eigen trainingsprobleem. Edu-QuRating past preferentiedistillatie toe op het samenstellen van educatieve data, waarbij een enkele score "is dit educatief?" wordt vervangen door **20 rubricdimensies** over feitelijke juistheid, didactische structuur en geschiktheid van niveau ([[garrod-edu-qurating-educational-data-curation-2026]]). Als u een corpus uit webtekst samenstelt, bepaalt dat filter hoe uw model gaat klinken.
 
@@ -102,7 +102,7 @@ Een goedkopere route is distillatie. Pedagogy-R1, op 1,5B en 7B, werd op instruc
 
 Post-training hoeft niet alleen vorm te geven aan wat het model zegt. TACT post-trainde een tutor op een taxonomie van 13 strategieën plus een taxonomie van studentzetten met twee assen en won **20,30 punten** ten opzichte van zijn Qwen3.5-4B-basis, met een diagnostische benchmark die **de labels van de lerendetoestand achterhoudt** die tijdens de training beschikbaar waren, zodat het model de toestand uit de dialoog moet afleiden ([[tact-pedagogically-adaptive-esl-tutoring]]).
 
-Dezelfde logica loopt door de alignment voor [[special-education|speciaal onderwijs]] ([[special-r1-rl-special-education]]) en door heuristisch-RL-werk dat modellen afstemt als socratische gidsen in plaats van als antwoordgevers ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Eén platform gaat verder en traint het beleid in plaats van het proza: een reinforcement-learning-agent kiest de volgende oefenopgave, dus wat de lerende daarna doet wordt bepaald door het getrainde model ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
+Dezelfde logica loopt door de alignment voor [[special-education|speciaal onderwijs]] ([[special-r1-rl-special-education]]) en door heuristisch-RL-werk dat modellen afstemt als [[socratic-method|socratische]] gidsen in plaats van als antwoordgevers ([[wang-socratic-guides-heuristic-reinforcement-learning-2026]]). Eén platform gaat verder en traint het beleid in plaats van het proza: een reinforcement-learning-agent kiest de volgende oefenopgave, dus wat de lerende daarna doet wordt bepaald door het getrainde model ([[chung-personalized-ai-tutors-llm-reinforcement-learning-2026]]).
 
 Dat laatste geval is de toets of u een tutor hebt ontworpen of een tekstgenerator. Als de enige output van het model proza is, woont de didactiek in uw orkestratiecode. Als het model de volgende taak kiest, zit de didactiek in de gewichten.
 
@@ -112,7 +112,7 @@ Training maakt een model niet veilig over een lang gesprek. SafeTutors laat zien
 
 ## Wat trainingsteams fout doen
 
-Meer prompten houdt het uiteindelijk wel. Sycofantie blijft bestaan na prompten en alignment, en autoriteitsdruk opent het gedrag weer dat een contextwisseltest sloot. Het transcript van uw eigen druktest is het bewijs hiervoor in uw product.
+Meer prompten houdt het uiteindelijk wel. [[ai-sycophancy|Sycofantie]] blijft bestaan na prompten en alignment, en autoriteitsdruk opent het gedrag weer dat een contextwisseltest sloot. Het transcript van uw eigen druktest is het bewijs hiervoor in uw product.
 
 Het leaderboardcijfer is het resultaat. 96,52% op CDPK beschrijft prestatie op de didactiektaken van één benchmark. Uw studenten treffen uw curriculum, uw notatie en een student die twintig minuten vastzit.
 

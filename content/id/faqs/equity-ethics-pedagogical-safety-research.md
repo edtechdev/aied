@@ -46,7 +46,7 @@ Dua implikasi desain mengikutinya. Sasaran institusi yang lebih baru dan wilayah
 
 ## Tempatkan pembelajar penyandang disabilitas di ruang desain
 
-Sertakan pembelajar penyandang disabilitas dalam desain dan evaluasi, uji antarmuka yang sebenarnya terhadap persyaratan aksesibilitas, dan sediakan jalur setara untuk berpartisipasi dan menunjukkan pembelajaran. Kepatuhan teknis dan pengajaran inklusif adalah dua uji yang terpisah, dan [[accessibility|Aksesibilitas]] membahas keduanya.
+Sertakan [[inclusive-learning|pembelajar penyandang disabilitas]] dalam desain dan evaluasi, uji antarmuka yang sebenarnya terhadap persyaratan aksesibilitas, dan sediakan jalur setara untuk berpartisipasi dan menunjukkan pembelajaran. Kepatuhan teknis dan [[inclusive-learning|pengajaran inklusif]] adalah dua uji yang terpisah, dan [[accessibility|Aksesibilitas]] membahas keduanya.
 
 [[ko-hughes-vsd-student-centered-its-2026|Studi desain sensitif nilai]] dengan mahasiswa community college, dosen, dan pengembang menunjukkan pekerjaannya dalam praktik. Studi itu menghasilkan 16 fitur selaras nilai di seluruh [[explainable-ai|keterjelasan]] (E1-E5), kendali [[human-in-the-loop-ai|manusia dalam lingkar]] (H1-H9), dan [[privacy|privasi]] (P1-P4), dan memunculkan ketegangan alih-alih jawaban yang rapi: transparansi berhadapan dengan keterinterpretasian, privasi berhadapan dengan wawasan instruksional, [[agency|agensi]] pembelajar berhadapan dengan [[scaffolding|perancah]] yang dipandu sistem. Bersiaplah memutuskan hal-hal itu, dan catat ke arah mana Anda mengambil keputusan.
 
@@ -64,7 +64,7 @@ Praktisi bertemu pada desain yang sejalan. Dalam [[reichert-human-centered-llm-c
 
 ## Gabungkan metode, dan tunjukkan jalur dari data ke klaim
 
-Hasil [[quantitative-research|kuantitatif]] yang dipilah dapat mengungkap [[differential-effects-across-learner-groups|efek diferensial]]. Wawancara, observasi, kelompok fokus, dan desain bersama memunculkan hambatan, kerugian, asumsi budaya, dan pengalaman pembelajar yang dilewatkan skor agregat. Sintesis [[research-methods-aied|Metode Penelitian dalam AIED]] memperlakukan triangulasi sebagai keharusan karena tidak ada satu metode [[qualitative-research|kualitatif]] atau kuantitatif pun yang memaksimalkan inferensi kausal, validitas ekologis, pemahaman kontekstual, dan kemampuan generalisasi sekaligus.
+Hasil [[quantitative-research|kuantitatif]] yang dipilah dapat mengungkap [[differential-effects-across-learner-groups|efek diferensial]]. Wawancara, observasi, kelompok fokus, dan desain bersama memunculkan hambatan, kerugian, asumsi budaya, dan [[student-experience|pengalaman pembelajar]] yang dilewatkan skor agregat. Sintesis [[research-methods-aied|Metode Penelitian dalam AIED]] memperlakukan triangulasi sebagai keharusan karena tidak ada satu metode [[qualitative-research|kualitatif]] atau kuantitatif pun yang memaksimalkan inferensi kausal, validitas ekologis, pemahaman kontekstual, dan kemampuan generalisasi sekaligus.
 
 Analisis Anda sendiri memerlukan disiplin yang sama. [[chain-behind-claim-warrantability-2026|Proposal keterjaminan]] berargumen bahwa interpretasi berbantuan AI tetap dapat diperiksa, dipertentangkan, dan direvisi ketika disertai artefak seperti tabel topik bertaut sumber, tumpukan lensa, dan sungai bukti. Ringkasan yang fasih tidak boleh menyembunyikan jalur yang menghasilkannya.
 

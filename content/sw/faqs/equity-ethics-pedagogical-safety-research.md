@@ -49,7 +49,7 @@ Maana mbili za ubunifu zinafuata. Lenga taasisi mpya na kanda zisizohudumiwa vya
 
 ## Weka wanafunzi wenye ulemavu kwenye chumba cha ubunifu
 
-Jumuisha wanafunzi wenye ulemavu katika ubunifu na tathmini, jaribu violesura halisi dhidi ya mahitaji ya upatikanaji, na toa njia sawa za kushiriki na za kuonyesha kujifunza. Utiifu wa kiufundi na ufundishaji unaojumuisha ni majaribio tofauti, na [[accessibility|Upatikanaji]] unashughulikia yote mawili.
+Jumuisha [[inclusive-learning|wanafunzi wenye ulemavu]] katika ubunifu na tathmini, jaribu violesura halisi dhidi ya mahitaji ya upatikanaji, na toa njia sawa za kushiriki na za kuonyesha kujifunza. Utiifu wa kiufundi na [[inclusive-learning|ufundishaji unaojumuisha]] ni majaribio tofauti, na [[accessibility|Upatikanaji]] unashughulikia yote mawili.
 
 [[ko-hughes-vsd-student-centered-its-2026|Utafiti wa ubunifu unaozingatia thamani]] na wanafunzi wa chuo cha jamii, waalimu na waendelezaji unaonyesha kazi hiyo kivitendo. Ulizalisha sifa 16 zinazolingana na thamani katika [[explainable-ai|uwezo wa kuelezeka]] (E1-E5), udhibiti wa [[human-in-the-loop-ai|mtu ndani ya mzunguko]] (H1-H9), na [[privacy|faragha]] (P1-P4), na ukajitokeza mivutano badala ya majibu safi: uwazi dhidi ya ufafanuzi, faragha dhidi ya utambuzi wa kufundisha, [[agency|uwakala]] wa mwanafunzi dhidi ya [[scaffolding|ngazi za msaada]] unaoongozwa na mfumo. Tarajia kuamua hayo, na rekodi ulikwenda upande gani.
 
@@ -67,7 +67,7 @@ Wataalam wanaungana kwenye ubunifu unaolingana. Katika [[reichert-human-centered
 
 ## Unganisha mbinu, na uonyeshe njia kutoka data hadi dai
 
-Matokeo ya [[quantitative-research|utafiti wa kiasi]] yaliyotenganishwa yanaweza kufichua [[differential-effects-across-learner-groups|athari tofauti]]. Mahojiano, uchunguzi, vikundi lengwa na ubunifu wa pamoja hujitokeza vizuizi, madhara, dhana za kitamaduni na uzoefu wa mwanafunzi ambao alama za jumla hukosa. Muunganiko wa [[research-methods-aied|Mbinu za Utafiti katika AIED]] unachukua muunganiko wa mbinu kama jambo la lazima kwa kuwa hakuna mbinu moja ya [[qualitative-research|utafiti wa ubora]] au wa kiasi inayoongeza hadi kilele uhitimishaji wa kisababishi, uhalali wa kiikolojia, uelewa wa kimuktadha na ujumlishaji kwa wakati mmoja.
+Matokeo ya [[quantitative-research|utafiti wa kiasi]] yaliyotenganishwa yanaweza kufichua [[differential-effects-across-learner-groups|athari tofauti]]. Mahojiano, uchunguzi, vikundi lengwa na ubunifu wa pamoja hujitokeza vizuizi, madhara, dhana za kitamaduni na [[student-experience|uzoefu wa mwanafunzi]] ambao alama za jumla hukosa. Muunganiko wa [[research-methods-aied|Mbinu za Utafiti katika AIED]] unachukua muunganiko wa mbinu kama jambo la lazima kwa kuwa hakuna mbinu moja ya [[qualitative-research|utafiti wa ubora]] au wa kiasi inayoongeza hadi kilele uhitimishaji wa kisababishi, uhalali wa kiikolojia, uelewa wa kimuktadha na ujumlishaji kwa wakati mmoja.
 
 Uchanganuzi wako mwenyewe unahitaji nidhamu hiyo hiyo. [[chain-behind-claim-warrantability-2026|Pendekezo la ustahiki]] linahoji kwamba tafsiri inayosaidiwa na AI hubaki ikikagulika, ikibishaniwa na kurekebishika pale inapowasilishwa na vitu kama majedwali ya mada yenye viungo vya chanzo, marundo ya lenzi, na mito ya ushahidi. Muhtasari wenye ufasaha haupaswi kuficha njia iliouzalisha.
 

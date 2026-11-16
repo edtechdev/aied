@@ -46,7 +46,7 @@ Urmează două implicații de design. Țintește instituțiile mai noi și regiu
 
 ## Adu cursanții cu dizabilități în camera de design
 
-Include cursanți cu dizabilități în design și în evaluare, testează interfețele reale față de cerințele de accesibilitate și oferă rute echivalente de participare și de demonstrare a învățării. Conformarea tehnică și predarea incluzivă sunt teste separate, iar [[accessibility|accesibilitatea]] le acoperă pe amândouă.
+Include [[inclusive-learning|cursanți cu dizabilități]] în design și în evaluare, testează interfețele reale față de cerințele de accesibilitate și oferă rute echivalente de participare și de demonstrare a învățării. Conformarea tehnică și [[inclusive-learning|predarea incluzivă]] sunt teste separate, iar [[accessibility|accesibilitatea]] le acoperă pe amândouă.
 
 Un [[ko-hughes-vsd-student-centered-its-2026|studiu de design sensibil la valori]] cu studenți, instructori și dezvoltatori dintr-un colegiu comunitar arată munca în practică. A produs 16 funcții aliniate la valori în [[explainable-ai|explicabilitate]] (E1-E5), control [[human-in-the-loop-ai|cu omul în buclă]] (H1-H9) și [[privacy|confidențialitate]] (P1-P4) și a scos la suprafață tensiuni, nu răspunsuri ordonate: transparență împotriva interpretabilității, confidențialitate împotriva perspectivei didactice, [[agency|agentivitatea]] cursantului împotriva [[scaffolding|sprijinului de tip schelă]] ghidat de sistem. Așteaptă-te să arbitrezi aceste tensiuni și să notezi în ce direcție ai mers.
 
@@ -64,7 +64,7 @@ Practicienii converg spre un design compatibil. Într-un [[reichert-human-center
 
 ## Combină metodele și arată calea de la date la afirmație
 
-Rezultatele [[quantitative-research|cantitative]] dezagregate pot dezvălui [[differential-effects-across-learner-groups|efecte diferențiale]]. Interviurile, observațiile, grupurile de discuție și co-proiectarea scot la suprafață bariere, daune, presupuneri culturale și experiența cursantului pe care scorurile agregate le ratează. Sinteza despre [[research-methods-aied|metodele de cercetare în AIED]] tratează triangularea ca necesară, pentru că nicio metodă [[qualitative-research|calitativă]] sau cantitativă singură nu maximizează simultan inferența cauzală, validitatea ecologică, înțelegerea contextuală și generalizabilitatea.
+Rezultatele [[quantitative-research|cantitative]] dezagregate pot dezvălui [[differential-effects-across-learner-groups|efecte diferențiale]]. Interviurile, observațiile, grupurile de discuție și co-proiectarea scot la suprafață bariere, daune, presupuneri culturale și [[student-experience|experiența cursantului]] pe care scorurile agregate le ratează. Sinteza despre [[research-methods-aied|metodele de cercetare în AIED]] tratează triangularea ca necesară, pentru că nicio metodă [[qualitative-research|calitativă]] sau cantitativă singură nu maximizează simultan inferența cauzală, validitatea ecologică, înțelegerea contextuală și generalizabilitatea.
 
 Și propria ta analiză are nevoie de aceeași disciplină. [[chain-behind-claim-warrantability-2026|Propunerea privind justificabilitatea]] susține că o interpretare asistată de IA rămâne inspectabilă, contestabilă și revizuibilă când vine cu artefacte precum tabele de teme legate de surse, stive de lentile și râuri de dovezi. Un rezumat fluent nu ar trebui să ascundă calea care l-a produs.
 

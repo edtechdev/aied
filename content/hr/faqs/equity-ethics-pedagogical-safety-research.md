@@ -46,7 +46,7 @@ Iz toga slijede dvije dizajnerske implikacije. Ciljajte novije institucije i ned
 
 ## Stavite učenike s invaliditetom u sobu za dizajn
 
-Uključite učenike s invaliditetom u dizajn i evaluaciju, testirajte stvarna sučelja prema zahtjevima pristupačnosti i osigurajte jednakovrijedne putove sudjelovanja i pokazivanja učenja. Tehnička usklađenost i inkluzivna nastava odvojeni su testovi, a [[accessibility|pristupačnost]] pokriva oba.
+Uključite [[inclusive-learning|učenike s invaliditetom]] u dizajn i evaluaciju, testirajte stvarna sučelja prema zahtjevima pristupačnosti i osigurajte jednakovrijedne putove sudjelovanja i pokazivanja učenja. Tehnička usklađenost i [[inclusive-learning|inkluzivna nastava]] odvojeni su testovi, a [[accessibility|pristupačnost]] pokriva oba.
 
 [[ko-hughes-vsd-student-centered-its-2026|Studija dizajna osjetljivog na vrijednosti]] sa studentima, nastavnicima i programerima više škole pokazuje taj rad u praksi. Proizvela je 16 značajki usklađenih s vrijednostima u području [[explainable-ai|objašnjivosti]] (E1-E5), kontrole s [[human-in-the-loop-ai|čovjekom u petlji]] (H1-H9) i [[privacy|privatnosti]] (P1-P4) i iznijela napetosti, a ne uredne odgovore: transparentnost nasuprot interpretabilnosti, privatnost nasuprot nastavnom uvidu, [[agency|agenciju]] učenika nasuprot [[scaffolding|postupnoj potpori]] koju vodi sustav. Očekujte da ćete te napetosti presuditi i zabilježite kojim ste putem krenuli.
 
@@ -64,7 +64,7 @@ Praktičari se slažu oko kompatibilnog dizajna. U [[reichert-human-centered-llm
 
 ## Kombinirajte metode i pokažite put od podataka do tvrdnje
 
-Razdvojeni [[quantitative-research|kvantitativni]] ishodi mogu otkriti [[differential-effects-across-learner-groups|različite učinke]]. Intervjui, promatranja, fokus-grupe i suradnički dizajn iznose na vidjelo prepreke, štete, kulturne pretpostavke i iskustvo učenika koje agregirani rezultati promašuju. [[research-methods-aied|Sinteza o istraživačkim metodama u AIED-u]] triangulaciju smatra nužnom jer nijedna pojedina [[qualitative-research|kvalitativna]] ili kvantitativna metoda ne maksimizira istodobno kauzalno zaključivanje, ekološku valjanost, razumijevanje konteksta i generalizabilnost.
+Razdvojeni [[quantitative-research|kvantitativni]] ishodi mogu otkriti [[differential-effects-across-learner-groups|različite učinke]]. Intervjui, promatranja, fokus-grupe i suradnički dizajn iznose na vidjelo prepreke, štete, kulturne pretpostavke i [[student-experience|iskustvo učenika]] koje agregirani rezultati promašuju. [[research-methods-aied|Sinteza o istraživačkim metodama u AIED-u]] triangulaciju smatra nužnom jer nijedna pojedina [[qualitative-research|kvalitativna]] ili kvantitativna metoda ne maksimizira istodobno kauzalno zaključivanje, ekološku valjanost, razumijevanje konteksta i generalizabilnost.
 
 I vaša vlastita analiza treba istu disciplinu. [[chain-behind-claim-warrantability-2026|Prijedlog provjerljivosti]] tvrdi da interpretacija potpomognuta umjetnom inteligencijom ostaje pregledna, osporiva i revidirajuća kad se isporuči s artefaktima poput tablica tema povezanih s izvorima, slojeva gledišta i rijeka dokaza. Tečan sažetak ne bi smio skrivati put koji ga je proizveo.
 
