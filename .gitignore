@@ -92,3 +92,6 @@ __pycache__/
 
 # Local pre-edit snapshots (never published; keep them in scratch, not the repo)
 backups/
+
+# Scratch drafts with absolute local paths and unpublished prose (never published)
+drafts/
