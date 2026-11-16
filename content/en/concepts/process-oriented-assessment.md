@@ -1,7 +1,7 @@
 ---
 title: Process-Oriented Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T09:20:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -40,6 +40,7 @@ The idea has moved from a proposition to a recurring recommendation across the r
 The most explicit design vocabulary comes from Thapa and Lewis, whose four commitments carry the argument into task design: reflective justification, staged task design, dialogic engagement, and evaluative transparency. In practice, students explain interpretive decisions rather than only presenting conclusions, submit work that develops across checkpoints, take part in [[oral-assessment|oral or dialogic]] exchanges about their reasoning, and work against criteria they can apply themselves — the terrain of [[feedback-literacy|feedback literacy]] and [[self-assessment|self-assessment]]. Boysen's (2026) proposal for open learning practices translates the same logic into an audit trail: a shared learning plan set before the project begins, a learning analysis plan naming required and forbidden sources, and documented drafts and version histories, preserved through Track Changes and saved file versions, that expose the work process and explain what informed each revision. He frames this as [[self-regulated-learning|self-regulation]] made visible.
 
 Alam and Jackson's redesign puts the same commitments in one module. Twenty-three first-year Business Analyst degree apprentices at Queen Mary University of London worked in 11 self-selecting teams on a 1,500-word essay drawn from three pre-set titles. At least two documented stages of development were required, and iteration and collaboration were written into the marking criteria rather than merely recommended. GenAI was permitted inside boundaries the brief set: no submitted generated text, no rewriting functions in grammar tools, no AI-formatted reference lists. The authors present this as practice-based insight from a first run, not as a measured effect ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
+Ahmed and Shehata take the same logic into a framework: AI-integrated programmatic assessment pairs two tasks on the same construct at the same difficulty, one without AI and one with it, and reads the gap between them alongside orchestration evidence as a developmental signal rather than a cheating flag ([[ahmed-ai-programmatic-assessment-cognitive-development-2026|Ahmed & Shehata (2026)]]).
 
 A second structural answer comes from Webb-Davies, Ratner and Bassett, whose Voice-First Written Assessment secures one authenticated baseline and interprets everything after it against that baseline. Stage 1 is observed, ungraded and open in modality; Stage 2 is written at home with [[generative-ai|AI]] unrestricted and graded on how the student developed the earlier reasoning. The authors call the ambition minimal: one checkpoint plus a conditional viva, rather than a portfolio of process artifacts ([[webb-davies-voice-first-written-assessment-2026|Webb-Davies et al., 2026]]).
 
@@ -108,6 +109,7 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[equity-in-ai-education]]
 
 ## Connected Articles
+- [[ahmed-ai-programmatic-assessment-cognitive-development-2026]] — Three evidence streams, matched task pairs and orchestration as a meta-competence
 - [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — A critical narrative review arguing the default failure is AI support that never fades paired with product-only assessment (Salameh 2026)
 - [[alam-process-oriented-collaborative-essays-2026]] — A graded, collaboratively written process essay in a first-year degree apprenticeship: iteration and collaboration in the rubric, GenAI permitted within stated boundaries (Alam & Jackson 2026)
 - [[genai-performance-vs-learning]] — performance is not learning: a research agenda built on process measures (Yan et al. 2026)

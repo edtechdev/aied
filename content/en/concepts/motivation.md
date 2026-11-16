@@ -1,7 +1,7 @@
 ---
 title: Motivation
 created: "2026-08-10T17:38:45-04:00"
-updated: "2026-11-16T05:34:25-05:00"
+updated: "2026-11-16T09:20:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -40,6 +40,8 @@ A 42-study meta-analysis (56 effect sizes, 6,059 students) found GenAI-supported
 - **Engagement frequency, not prior proficiency, predicted motivation.** In a 12-week EFL study of 310 students, use frequency was the only significant predictor of motivation (β = .46, 20.4% of variance), and prior proficiency and anxiety were dropped as non-significant ([[mekheimer-motivation-ethics-trust-efl-2026|Mekheimer and Fageeh (2026)]]). The authors read it as a democratizing effect: gains accrued to whoever used the tools rather than to whoever arrived strongest.
 
 Why a reader reaches for AI is itself a measurable variable: the AIR scale resolves four motives for GenAI-assisted reading — Task-oriented, Feel-good, Translation and Low-effort — and only Low-effort, using AI when tired or disengaged, was negatively related to need for cognition (r = −.18) ([[air-scale-motivations-ai-reading-2026|Brann, Etgar and Sidi (2026)]]).
+
+- **Two brief scales separate valuing learning from feeling able to learn it without the tool.** Across 882 US undergraduates, learning value and learning self-efficacy in AI contexts were distinct factors, both negatively associated with AI use, and together they carried over half of AI use's negative association with effort expenditure ([[mirpour-learning-value-self-efficacy-ai-scales-2026|Mirpour & Behdarvandirad (2026)]]).
 
 **Motivation in AI-mediated engagement** examines how motivational quality (not just quantity) changes with AI. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combined self-determination theory with [[network-analysis|epistemic network analysis]] to study engagement with [[generative-ai|generative AI]]. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** traced motivation developmentally via latent transition analysis of **2,086 [[k-12|secondary]] students** in a year-long AI curriculum, finding three stable profiles (Disengaged, Developing, Self-Determined) and that reaching the Self-Determined profile predicted the largest [[ai-literacy|AI literacy]] gains. **[[wang-goal-setting-ai-engagement-2026|Wang & Wang (2026)]]** used goal-setting theory with **758 [[higher-ed|university]] [[multilingual-learning|English learners]]**, showing that **teacher support** drives AI-assisted engagement primarily through mastery-approach and performance-approach goals (the approach, not avoidance, goal orientations). Together these studies show that motivation in AI contexts is both developmental and socially scaffolded — it shifts over time and responds to teacher support and goal framing, not just tool design.
 
@@ -100,6 +102,7 @@ Motivation is the parent construct of [[self-determination-theory|self-determina
 
 ## Connected Articles
 
+- [[mirpour-learning-value-self-efficacy-ai-scales-2026]] — Two brief scales for learning value and learning self-efficacy in AI contexts, and what they predict
 - [[high-school-genai-acceptance-tam-physics-2026]] — Expectancy-value beliefs as antecedents of GenAI acceptance
 - [[liu-ai-assistance-reduces-persistence-2026]] — Brief AI use reduced persistence on later unassisted problems (Liu et al. 2026)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Automated feedback on argumentative writing: The role of secondary students' feedback receptivity and feedback perception

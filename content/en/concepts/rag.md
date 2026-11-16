@@ -1,7 +1,7 @@
 ---
 title: RAG (Retrieval-Augmented Generation)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-16T05:34:25-05:00"
+updated: "2026-11-16T09:20:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -29,6 +29,7 @@ reviewed_by: [editor]
 - **Hallucination reduction:** [[eduguard-safe-rag-llm-tutor|EduGuard]] and [[eduzone-llm-safety-k12|EduZone]] use RAG to keep AI tutor responses grounded in verified educational content, reducing [[hallucination-risk|hallucination risk]].
 - **Guidance is a dial and groundedness does not win preference.** [[levonian-safe-relevant-generative-chats-math-its-2025|Levonian et al. (2025)]] had nine educators and designers rank RAG-answered math questions across three prompt-guidance levels: low-guidance responses were pairwise-preferred over high-guidance 63.8% of the time even though high guidance was perceived as most grounded (mean 0.90 on a 0-2 scale). Retrieved-document relevance correlated with perceived groundedness (r = 0.56, p < 0.001) but showed no significant relationship with preference — grounding shapes what the tutor says, not whether students prefer it.
 - **Grounding is only as good as source inspection:** only 1 of 12 participants noticed a deliberately mismatched source card, so a provenance label can act as a seal of authority rather than an invitation to verify the retrieved material ([[veriforge-narrative-drafting-scaffolding-2026|Sun et al. (2026)]]).
+- **Grounding improved how feedback was judged, not what students did with it.** Adding retrieval to an AI review tool raised perceived quality (d = 0.45) and usefulness (d = 0.67) across two graduate writing cohorts, while perceived actionability did not move (d = −0.06) ([[hughes-rag-ai-feedback-implementation-2026|Hughes et al. (2026)]]).
 - **Curriculum-grounded tutoring:** [[retrieval-augmented-tutoring-algorithm-kite|KITE]] retrieves relevant curriculum materials to inform tutoring responses, ensuring alignment with course content.
 - **On-premises deployment for institutional control:** CourseChat runs a multi-course RAG tutor for undergraduate [[business-education|business education]] on local edge hosts with a local vector database and an Ollama-served 8B model, keeping course materials and student dialogue on campus infrastructure; model choice became a joint hardware-and-serving decision when larger candidates failed a latency gate ([[on-premises-rag-tutoring-business-education-2026|CourseChat]]).
 - **Curriculum-grounded retrieval did not separate itself on time.** Aila retrieves from Oak National Academy's quality-assured curriculum plans, and teachers in its trial spent 0.76 of the comparison group's lesson preparation time ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]]). The report reads that as similar to the general [[generative-ai|ChatGPT]] trial's 0.69, so grounding in verified curriculum content was not what separated them.
@@ -67,6 +68,7 @@ RAG serves a complementary role to [[llm|LLM]] fine-tuning — retrieval provide
 
 ## Connected Articles
 
+- [[hughes-rag-ai-feedback-implementation-2026]] — RAG raised perceived feedback quality and usefulness, not actionability, across two graduate cohorts
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — A curriculum-grounded lesson assistant whose time saving did not exceed a general chatbot's
 
 - [[eduguard-safe-rag-llm-tutor]]
