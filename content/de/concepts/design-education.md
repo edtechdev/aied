@@ -39,7 +39,7 @@ ai_assist:
 
 ## Einführung
 
-Designeducation ist enger als [[arts-design-and-media-education|Kunst, Design und Medien]], das Studio- und Aufführungsdisziplinen gemeinsam abdeckt — Architektur, Musik, bildende Kunst, Medien und [[storytelling-in-education|digitales Storytelling]]. Diese Seite behandelt die professionellen Designdisziplinen und ihre Formierungspipeline: [[eportfolio|Portfolio-Assessment]], Akkreditierungserwartungen, [[career-development-and-readiness|Beschäftigungsfähigkeit]], und eine Praxiskultur, die generative Werkzeuge schneller aufgenommen hat als ihre Curricula.
+Designeducation ist enger als [[arts-and-media-education|Kunst, Design und Medien]], das Studio- und Aufführungsdisziplinen gemeinsam abdeckt — Architektur, Musik, bildende Kunst, Medien und [[storytelling-in-education|digitales Storytelling]]. Diese Seite behandelt die professionellen Designdisziplinen und ihre Formierungspipeline: [[eportfolio|Portfolio-Assessment]], Akkreditierungserwartungen, [[career-development-and-readiness|Beschäftigungsfähigkeit]], und eine Praxiskultur, die generative Werkzeuge schneller aufgenommen hat als ihre Curricula.
 
 Sie ist auch verschieden von [[design-thinking|Design Thinking]], einer menschzentrierten [[problem-solving|Problemlösungsmethode]], die über Wirtschaft, Bildung und Recht als transferierbare Fähigkeit gelehrt wird. In der Designeducation ist der Prozess keine Methode, die auf eine Disziplin angewandt wird; er ist die Disziplin, und das Studio ist der Ort, an dem er gelehrt, betreut und bewertet wird. [[engineering-education|Ingenieurwesen]] ist der nächste professionelle Nachbar — ebenfalls designlastig, ebenfalls der Praxis verantwortlich —, aber Ingenieur-Assessment ruht auf berechenbaren Artefakten und Verantwortung für die öffentliche Sicherheit, während das von Design auf Kritik und auf Prozessevidenz ruht, die generative Werkzeuge sichtbar simulieren können.
 
@@ -81,7 +81,7 @@ Assessmentprobleme sind hier von professionellen untrennbar. [[ai-interior-desig
 - [[generative-ai]]
 - [[ai-literacy]]
 - [[higher-ed]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[engineering-education]]
 - [[professional-training]]
 - [[assessment-validity]]

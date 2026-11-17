@@ -39,7 +39,7 @@ ai_assist:
 
 ## Introdução
 
-A educação em design é mais restrita que o [[arts-design-and-media-education|ensino de artes, design e mídia]], que cobre as disciplinas de ateliê e de performance em conjunto — arquitetura, música, artes visuais, mídia e [[storytelling-in-education|narrativa digital]]. Esta página cobre as disciplinas profissionais do design e seu pipeline de formação: [[eportfolio|avaliação por portfólio]], expectativas de acreditação, [[career-development-and-readiness|empregabilidade]], e uma cultura de prática que absorveu as ferramentas generativas mais rápido do que seus currículos.
+A educação em design é mais restrita que o [[arts-and-media-education|ensino de artes, design e mídia]], que cobre as disciplinas de ateliê e de performance em conjunto — arquitetura, música, artes visuais, mídia e [[storytelling-in-education|narrativa digital]]. Esta página cobre as disciplinas profissionais do design e seu pipeline de formação: [[eportfolio|avaliação por portfólio]], expectativas de acreditação, [[career-development-and-readiness|empregabilidade]], e uma cultura de prática que absorveu as ferramentas generativas mais rápido do que seus currículos.
 
 Ela também é distinta do [[design-thinking]], um método de [[problem-solving|resolução de problemas]] centrado no humano ensinado em administração, educação e direito como uma competência transferível. Na educação em design, o processo não é um método aplicado a uma disciplina; ele *é* a disciplina, e o ateliê é o lugar onde ele é ensinado, supervisionado e avaliado. A [[engineering-education|educação em engenharia]] é a vizinha profissional mais próxima — também intensiva em desenho, também responsável perante a prática —, mas a avaliação em engenharia se apoia em artefatos calculáveis e na responsabilidade pela segurança pública, enquanto a do design se apoia na crítica e em evidências de processo que as ferramentas generativas conseguem simular de forma visível.
 
@@ -82,7 +82,7 @@ Os problemas de avaliação aqui são inseparáveis dos profissionais. [[ai-inte
 - [[generative-ai]]
 - [[ai-literacy]]
 - [[higher-ed]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[engineering-education]]
 - [[professional-training]]
 - [[assessment-validity]]

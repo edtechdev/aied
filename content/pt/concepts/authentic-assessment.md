@@ -123,7 +123,7 @@ O recuo carrega um custo probatório que a evidência dos arquivos de caso torna
 - [[ai-education]]
 - [[feedback]]
 - [[summative-assessment]] — Avaliação somativa: formatos resistentes à IA (oral, com supervisão, livros fechados)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[reflection]]
 
 ## Artigos conectados

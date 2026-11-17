@@ -71,7 +71,7 @@ Classroom studies cluster around motivation rather than achievement. [[zhang-tan
 
 ## Connected Concepts
 
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[creativity]]
 - [[embodied-learning]]
 - [[assessment-validity]]

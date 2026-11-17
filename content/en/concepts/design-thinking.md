@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy]
 title: Design Thinking
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T22:52:00-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -28,7 +28,7 @@ Design thinking sits at the intersection of creativity, craft, and critique — 
 
 ## Evidence from the research
 
-- **GenAI in design studios and architecture.** Two architecture-focused studies ground the concept in [[arts-design-and-media-education|studio pedagogy]]. [[genai-architecture-education|Gen-AI-tecture]] found that a locally executed, [[discipline-specific-aied|discipline-specific]] tool enhanced creative fluency, broadened participation across diverse learner profiles, and strengthened confidence in AI-supported workflows — an important signal for [[equity-in-ai-education|equity]] as visual-spatial design becomes more accessible. [[genai-architectural-design-studios|GenAI in architectural design studios]] likewise found students using GenAI as visual stimuli and inspirational resources in early ideation, and as a combinatorial method for expanding the solution space during development. Crucially, both warn that without critical discernment students risk **design fixation** or aesthetic lock-in, reframing the [[teacher-role|teacher role]] in [[higher-ed|higher education]] from transmitting craft to coaching how, when, and why to delegate creative exploration to generative models. [[creativity|Creativity]] is thereby preserved and even amplified — but only under careful pedagogical orchestration.
+- **GenAI in design studios and architecture.** Two architecture-focused studies ground the concept in [[arts-and-media-education|studio pedagogy]]. [[genai-architecture-education|Gen-AI-tecture]] found that a locally executed, [[discipline-specific-aied|discipline-specific]] tool enhanced creative fluency, broadened participation across diverse learner profiles, and strengthened confidence in AI-supported workflows — an important signal for [[equity-in-ai-education|equity]] as visual-spatial design becomes more accessible. [[genai-architectural-design-studios|GenAI in architectural design studios]] likewise found students using GenAI as visual stimuli and inspirational resources in early ideation, and as a combinatorial method for expanding the solution space during development. Crucially, both warn that without critical discernment students risk **design fixation** or aesthetic lock-in, reframing the [[teacher-role|teacher role]] in [[higher-ed|higher education]] from transmitting craft to coaching how, when, and why to delegate creative exploration to generative models. [[creativity|Creativity]] is thereby preserved and even amplified — but only under careful pedagogical orchestration.
 
 - **Adversarial AI agents prompting reconsideration.** [[ai-agents-constructive-conflict-design-education-2026|Constructive conflicts with AI agents]] takes design thinking toward [[agentic-ai|agentic AI]], testing adversarial versus cooperative AI roles with novice interaction designers (N=48). The adversarial condition produced significantly more design iterations, broader exploration of alternatives, and higher-rated final designs — participants found the conflict agent frustrating but ultimately helpful. This productive-friction dynamic, echoing the [[socratic-method|socratic method]] and [[scaffolding|scaffolding]], shows that design thinking benefits from challenge rather than mere assistance, a finding with implications for how [[student-experience|student experience]] is designed in AI-augmented studio settings.
 
@@ -79,7 +79,7 @@ Design thinking in AI education is deeply entangled with [[human-ai-collaboratio
 - [[professional-training]]
 - [[academic-integrity]]
 - [[open-source]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Connected Articles
 - [[design-thinking-aigc-fashion-film-2026]] — Design thinking mindset across learning stages in AIGC-supported fashion film design (Liu et al. 2026)

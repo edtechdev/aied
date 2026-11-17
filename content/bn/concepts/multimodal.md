@@ -131,7 +131,7 @@ ai_assist:
 - [[ai-technologies]] — ছাতা: এআই প্রযুক্তি ও কৌশল (মডেল, এলএলএম প্রশিক্ষণ, রোবোটিক্স, RAG, এজেন্টিক)
 - [[virtual-and-augmented-reality]] — শেখার চ্যানেল হিসেবে অঙ্গভঙ্গি, কণ্ঠ ও স্থানিক ইনপুট
 - [[speech-and-voice-technologies]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[sensor-and-gaze-analytics]]
 
 ## সংযুক্ত নিবন্ধ

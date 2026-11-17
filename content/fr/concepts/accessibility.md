@@ -110,7 +110,7 @@ Une vidéo dotée de sous-titres exacts et d'une transcription correctement bali
 - [[virtual-and-augmented-reality]] — le casque, le mal des transports et l'accès aux appareils déterminent qui peut l'utiliser
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — la page parapluie sur les règles trop larges, les preuves défectueuses et les aménagements raisonnables
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Articles liés
 - [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026) : 0% des 100 universités d'élite publient une politique d'accessibilité de l'IA tandis que 93% déploient des services de campus alimentés par l'IA

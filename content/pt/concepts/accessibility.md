@@ -104,7 +104,7 @@ Um vídeo com legendas precisas e uma transcrição corretamente marcada é *ace
 - [[virtual-and-augmented-reality]] — headsets, cinetose e acesso ao dispositivo decidem quem pode usá-lo
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — a página guarda-chuva para regras excessivamente abrangentes, evidência defeituosa e ajustes razoáveis
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Artigos conectados
 - [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 0% de 100 universidades de elite publicam uma política de acessibilidade de IA enquanto 93% implantam serviços de campus com IA

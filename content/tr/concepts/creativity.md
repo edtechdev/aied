@@ -106,7 +106,7 @@ Yaratıcılık, [[critical-thinking]] ile ve [[constructivist]] öğrenmeyle ba�
 - [[inquiry-based-learning]]
 - [[cognitive-offloading]]
 - [[scaffolding]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Bağlı makaleler
 - [[wei-genai-configurations-creative-phases-2026]] — Yaratıcı aşamalar boyunca üretken YZ yapılandırmaları: sanat ve tasarım eğitiminde yaratıcı performans ve anlık bilgi üzerine 2 × 2 bir deney

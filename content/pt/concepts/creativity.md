@@ -106,7 +106,7 @@ A criatividade se conecta ao [[critical-thinking|pensamento crítico]] e à apre
 - [[inquiry-based-learning]]
 - [[cognitive-offloading]]
 - [[scaffolding]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Artigos conectados
 

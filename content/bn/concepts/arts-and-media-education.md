@@ -1,5 +1,5 @@
 ---
-title: "শিল্প, নকশা ও মিডিয়া শিক্ষা"
+title: শিল্প ও মিডিয়া শিক্ষা
 created: "2026-09-16T14:29:36-04:00"
 type: concept
 foundations: [design-thinking]
@@ -10,7 +10,7 @@ confidence: medium
 audience: [instructors, learners, instructional designers, curriculum designers]
 level: [higher ed]
 updated: "2026-11-08T10:40:25-05:00"
-translation_of: "concepts/arts-design-and-media-education"
+translation_of: "concepts/arts-and-media-education"
 source_updated: "2026-11-04T15:40:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]

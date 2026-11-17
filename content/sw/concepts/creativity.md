@@ -111,7 +111,7 @@ Ubunifu unaunganisha na [[critical-thinking]] na kujifunza [[constructivist]]. U
 - [[inquiry-based-learning]]
 - [[cognitive-offloading]]
 - [[scaffolding]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Makala Zilizounganishwa
 

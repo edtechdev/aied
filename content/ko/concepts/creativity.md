@@ -110,7 +110,7 @@ ai_assist:
 - [[inquiry-based-learning]]
 - [[cognitive-offloading]]
 - [[scaffolding]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## 연결된 문서
 - [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — 생성형 AI 이미지 생성은 설계 수행은 그대로 두었으나 일반적 창의적 자기효능감을 낮췄다

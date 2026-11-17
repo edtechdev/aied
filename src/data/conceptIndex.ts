@@ -45,9 +45,13 @@ export const conceptIndex: ConceptSection[] = [
   },
   {
     heading: 'AI in the disciplines',
-    blurb: 'How AI is applied across academic subjects and educational levels: the field\u2019s subject-area coverage.',
+    blurb: 'How AI is applied across academic subjects, organized by the four clusters the disciplines fall into: humanities and arts, social sciences, STEM, and the professions.',
     groups: [
-      { label: 'Subject areas', items: ['discipline-specific-aied', 'math-education', 'statistics-and-data-science-education', 'physics-education', 'chemistry-education', 'biology-education', 'cs-education', 'engineering-education', 'stem-education', 'science-education', 'writing-education', 'language-learning', 'english-education', 'reading-education', 'environmental-education', 'business-education', 'humanities-education', 'civic-and-political-education', 'arts-design-and-media-education', 'music-education', 'design-education', 'medical-education', 'nursing-education', 'legal-education', 'information-technology', 'libraries', 'teacher-education'] },
+      { label: 'Overview', items: ['discipline-specific-aied'] },
+      { label: 'Humanities and arts', items: ['humanities-education', 'arts-and-media-education', 'music-education', 'english-education', 'writing-education', 'reading-education', 'language-learning'] },
+      { label: 'Social sciences', items: ['social-sciences-education', 'civic-and-political-education', 'business-education', 'environmental-education'] },
+      { label: 'STEM', items: ['stem-education', 'science-education', 'math-education', 'statistics-and-data-science-education', 'physics-education', 'chemistry-education', 'biology-education', 'cs-education', 'engineering-education', 'information-technology'] },
+      { label: 'Professions', items: ['professions-education', 'medical-education', 'nursing-education', 'legal-education', 'teacher-education', 'design-education', 'libraries'] },
       { label: 'Research fields', items: ['learning-sciences'] },
     ],
   },

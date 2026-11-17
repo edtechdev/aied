@@ -101,7 +101,7 @@ Doğru altyazılı ve uygun biçimde etiketlenmiş yazıya çevrilmiş kaydı ol
 - [[virtual-and-augmented-reality]] — başlıklar, hareket hastalığı ve cihaz erişimi kimin kullanabileceğini belirler
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — aşırı geniş kurallar, kusurlu kanıt ve makul ayarlama için şemsiye sayfa
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Bağlı makaleler
 

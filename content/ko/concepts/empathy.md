@@ -110,7 +110,7 @@ AI는 서로 다른 세 지점에서 들어오며, 이들을 뒤섞는 것이 �
 - [[ai-sycophancy]]
 - [[pedagogical-safety]]
 - [[well-being]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## 연결된 문서
 

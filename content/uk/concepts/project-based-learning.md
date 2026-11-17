@@ -96,7 +96,7 @@ PBL пов’язаний з [[active-learning]], [[experiential-learning]], [[c
 - [[computational-thinking]]
 - [[higher-ed]]
 - [[pedagogy]] — Парасолька: педагогіки та стратегії викладання в освіті зі ШІ
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Пов’язані статті
 

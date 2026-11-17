@@ -121,7 +121,7 @@ Una terza via irrobustisce il compito stesso: rendere i prompt come immagini per
 - [[problem-based-learning]] — Apprendimento basato su problemi con l'IA
 - [[teacher-role]] — Ruolo docente in evoluzione nelle classi con IA
 - [[stakeholders]] — Ombrello: persone e pubblici nell'educazione all'IA (chi apprende, insegnanti, progettisti, amministratori, policymaker)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[student-support-and-success]] — orientamento, outreach, segnalazione e allocazione del supporto — il lato istituzionale del successo studentesco
 
 ## Articoli collegati

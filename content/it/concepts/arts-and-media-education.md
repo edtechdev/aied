@@ -1,5 +1,5 @@
 ---
-title: Educazione artistica, al design e ai media
+title: Educazione artistica e ai media
 created: "2026-10-14T22:05:00-04:00"
 type: concept
 foundations: [design-thinking]
@@ -9,7 +9,7 @@ assessment: [authentic-assessment]
 confidence: medium
 audience: [instructors, learners, instructional designers, curriculum designers]
 level: [higher ed]
-translation_of: "concepts/arts-design-and-media-education"
+translation_of: "concepts/arts-and-media-education"
 updated: "2026-11-08T11:15:12-05:00"
 source_updated: "2026-11-04T15:40:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"

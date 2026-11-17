@@ -122,7 +122,7 @@ ai_assist:
 - [[ai-education]]
 - [[feedback]]
 - [[summative-assessment]] — योगात्मक मूल्यांकन: AI-प्रतिरोधी प्रारूप (मौखिक, प्रॉक्टर्ड, क्लोज़्ड-बुक परीक्षाएँ)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 - [[reflection]]
 

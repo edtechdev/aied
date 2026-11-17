@@ -82,7 +82,7 @@ PBL connects to [[active-learning|active learning]], [[experiential-learning|exp
 - [[computational-thinking]]
 - [[higher-ed]]
 - [[pedagogy]] — Umbrella: pedagogies and teaching strategies in AI education
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Connected Articles
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Problem-based and project-based learning as promising frameworks for generative AI-supported education: Emerging evidence from a systematic review and three-level meta-analysis

@@ -110,7 +110,7 @@ AIは3つの異なる地点で入ってきます。そしてそれらを混同�
 - [[ai-sycophancy]]
 - [[pedagogical-safety]]
 - [[well-being]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## 関連する記事
 

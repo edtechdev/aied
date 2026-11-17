@@ -1,7 +1,7 @@
 ---
 title: STEM Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T22:45:00-05:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -27,6 +27,8 @@ reviewed_by: [editor]
 
 ### STEM as the primary AIED domain
 
+The disciplines section sorts subject pages into four clusters — [[humanities-education|humanities and arts]], [[social-sciences-education|social sciences]], STEM, and the [[professions-education|professions]] — and STEM is the largest of them by a wide margin, which is itself a finding about where AI-in-education evidence accumulates.
+
 - **Mathematics:** [[math-education|Math education]] research spans [[generative-ai-reduced-study-time-math|GenAI impact on math learning]], [[ai-powered-personalized-learning-elementary-fractions-2026|elementary fraction tutoring]], and [[student-math-competence-clustering|competence clustering]].
 - **Mathematics ITS evidence is bounded and conditional.** A structured narrative review of 20 publications (2020–April 2026) found the clearest measured advantage for real-time diagnostic [[feedback|feedback]] layered onto the same adaptive system, yet concluded that intelligent tutoring supports mathematics learning only when valid [[student-modeling|learner modeling]], calibrated scaffolding and teacher mediation combine, and that scalability is technical, not educational ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]]).
 - **Physics:** [[physics-education|Physics education]] includes [[becker-chatgpt-typology-physics-2026|ChatGPT typology studies]], [[hashmi-socratic-physics-chatbot-2025|Socratic physics chatbots]], and [[ai-scoring-language-bias-physics|scoring bias analysis]].
@@ -36,7 +38,7 @@ reviewed_by: [editor]
 - **Simulation-supported instruction:** In drone-based STEM education, [[teacher-role|teacher]]-AI co-designed [[simulation|simulation]] scaffolds were evaluated against an identical hands-on [[curriculum-design|curriculum]] with 30 secondary students, testing whether simulation-supported instruction yields superior [[learning-gains|learning outcomes]]. GenAI's role was to accelerate content creation while teacher involvement preserved pedagogical validity and contextual relevance.
 - **Outcomes favored the scaffolded group.** The simulation group outgained the hands-on group on curriculum-aligned STEM knowledge (M = 3.00 versus 2.06; t(28) = 2.23, p = .034, d = 0.82) and on 21st-century competencies (d = 1.52) ([[simulation-assisted-drone-learning-stem-2026|Yeung et al. (2026)]]).
 - **Digital twins in STEM: prototypes outrun measured learning.** A PRISMA review of 11 higher-education studies found every one demonstrated a working, hardware-synchronized prototype, yet only three (27.3%) reported statistically significant learning gains, with development complexity and reduced social interaction the recurring barriers ([[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et al., 2026]]).
-- **AI-assisted planning in STEAM [[arts-design-and-media-education|arts education]]:** An experimental study of children's STEAM arts teachers ([[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo and Tahir 2025]]) found ChatGPT-assisted lesson plans outperformed teacher-generated ones on expert-rated quality (median 20.5 vs. 17.6, p = .002, large effect, six professor raters), with teachers reporting gains in efficiency and interdisciplinary integration (61% rated 4+). The result came through the teacher's delegation method — most usefully by having ChatGPT fill content gaps in a self-outlined lesson — reinforcing the recurring point that AI lifts STEM/STEAM work when the teacher structures the task and critically evaluates output rather than handing the whole plan to the model.
+- **AI-assisted planning in STEAM [[arts-and-media-education|arts education]]:** An experimental study of children's STEAM arts teachers ([[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo and Tahir 2025]]) found ChatGPT-assisted lesson plans outperformed teacher-generated ones on expert-rated quality (median 20.5 vs. 17.6, p = .002, large effect, six professor raters), with teachers reporting gains in efficiency and interdisciplinary integration (61% rated 4+). The result came through the teacher's delegation method — most usefully by having ChatGPT fill content gaps in a self-outlined lesson — reinforcing the recurring point that AI lifts STEM/STEAM work when the teacher structures the task and critically evaluates output rather than handing the whole plan to the model.
 
 ### How effective AI-supported instruction is in STEM, pooled
 

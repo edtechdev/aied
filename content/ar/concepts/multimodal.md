@@ -142,7 +142,7 @@ updated: "2026-11-08T10:26:27-05:00"
 
 - [[sensor-and-gaze-analytics]]
 
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## المقالات المرتبطة
 - [[elkington-human-centred-assessment-value-2026]] — تقويم محوره الإنسان وتجمّعات وقود توليدية (إلكينغتون 2026)

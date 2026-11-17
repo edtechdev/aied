@@ -123,7 +123,7 @@ Multimodal systems also expand access and [[personalized-learning|personalizatio
 - [[ai-technologies]] — Umbrella: AI technologies and techniques (models, LLM training, robotics, RAG, agentic)
 - [[virtual-and-augmented-reality]] — gesture, voice and spatial input as learning channels
 - [[speech-and-voice-technologies]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[sensor-and-gaze-analytics]]
 
 ## Connected Articles

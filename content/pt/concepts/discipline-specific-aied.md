@@ -55,7 +55,7 @@ A base de conhecimento tem páginas de conceito dedicadas a várias áreas de ma
 - **[[medical-education]]** — simulação clínica, treinamento por [[reinforcement-learning|aprendizagem por reforço]] e princípios de aprendizagem fundacionais na educação das profissões de saúde.
 - **[[nursing-education]]** — o registro empírico mais denso na vertente clínica: simulação com pacientes virtuais, apoio de raciocínio por LLM e plataformas adaptativas, enquadrado em torno da formação da identidade profissional tanto quanto da competência, e estreito o bastante para nomear a fronteira onde os benefícios documentados da IA param (habilidade psicomotora complexa e interação carregada de emoção) em vez de tratar as profissões de saúde como um caso único.
 - **[[vocational-education]]** — preparação inicial para ofícios nomeados e ocupações técnicas, organizada por frameworks de qualificação e avaliada no que quem aprende consegue fazer com o equipamento. Ela se estende além da formação profissional e do [[lifelong-learning|aprimoramento]] no local de trabalho que a [[professional-training]] cobre, alcançando aqueles ainda não empregados, e sua questão recorrente de desenho é quais partes caras de pessoal da prática a IA consegue absorver sem deslocar a repetição que produz competência.
-- **[[design-education]]** — formação profissional baseada em estúdio em desenho de produto, serviço, interação, interiores e arquitetura, onde o processo visível é o objeto avaliado e onde as ferramentas generativas tornam barato o artefato polido: ela estreita as disciplinas de estúdio que a [[arts-design-and-media-education]] cobre ao pipeline de desenho profissional, de modo que a crítica, [[eportfolio|o portfólio]] e a regulamentação — e não a prática material e performativa — carreguem o argumento.
+- **[[design-education]]** — formação profissional baseada em estúdio em desenho de produto, serviço, interação, interiores e arquitetura, onde o processo visível é o objeto avaliado e onde as ferramentas generativas tornam barato o artefato polido: ela estreita as disciplinas de estúdio que a [[arts-and-media-education]] cobre ao pipeline de desenho profissional, de modo que a crítica, [[eportfolio|o portfólio]] e a regulamentação — e não a prática material e performativa — carreguem o argumento.
 - **[[engineering-education]]** — formação profissional, desenho e [[experiential-learning|aprendizagem prática]], uso [[ethics|ético]] da IA, avaliação [[embodied-learning|corporificada]] e preparação para o mundo do trabalho em engenharia.
 - **[[business-education]]** — IA nos negócios, na economia e na educação em gestão: frameworks de GenAI informados pelos estudantes, integração curricular por meio de [[curriculum-design|alinhamento construtivo]] e preparação para a prática profissional integrada à IA.
 - **[[humanities-education]]** — cognição interpretativa, autoria e construção de sentido nas humanidades e ciências sociais.
@@ -131,7 +131,7 @@ Essas disciplinas sub-representadas se beneficiariam de páginas de conceito ded
 - [[k-12]]
 - [[higher-ed]]
 - [[equity-in-ai-education]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[design-education]]
 - [[information-technology]]
 - [[learning-sciences]]

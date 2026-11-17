@@ -105,7 +105,7 @@ Ein Video mit korrekten Untertiteln und einem ordnungsgemäß ausgezeichneten Tr
 - [[virtual-and-augmented-reality]] — Headsets, Bewegungskrankheit und Gerätezugang entscheiden, wer es nutzen kann
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — die Überblicksseite für übermäßig weite Regeln, mangelhafte Evidenz und angemessene Anpassungen
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Verbundene Artikel
 - [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 0% von 100 Eliteuniversitäten veröffentlichen eine KI-Barrierefreiheitsrichtlinie, während 93% KI-Campusdienste einsetzen

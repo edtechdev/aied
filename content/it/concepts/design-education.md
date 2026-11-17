@@ -39,7 +39,7 @@ ai_assist:
 
 ## Introduzione
 
-L'educazione al design è più ristretta dell'[[arts-design-and-media-education]], che copre insieme le discipline di studio e di performance — architettura, musica, arti visive, media e [[storytelling-in-education|narrazione digitale]]. Questa pagina copre le discipline professionali del design e la loro filiera formativa: la [[eportfolio|valutazione del portfolio]], le aspettative, le aspettative di accreditamento, l'[[career-development-and-readiness|occupabilità]] e una cultura e una cultura della pratica che ha assorbito gli strumenti generativi più rapidamente di quanto i suoi curricula abbiano fatto.
+L'educazione al design è più ristretta dell'[[arts-and-media-education]], che copre insieme le discipline di studio e di performance — architettura, musica, arti visive, media e [[storytelling-in-education|narrazione digitale]]. Questa pagina copre le discipline professionali del design e la loro filiera formativa: la [[eportfolio|valutazione del portfolio]], le aspettative, le aspettative di accreditamento, l'[[career-development-and-readiness|occupabilità]] e una cultura e una cultura della pratica che ha assorbito gli strumenti generativi più rapidamente di quanto i suoi curricula abbiano fatto.
 
 È anche distinta dal [[design-thinking]], un metodo di [[problem-solving|risoluzione dei problemi]] centrato sull'uomo insegnato trasversalmente nel business, nell'educazione e nel diritto come competenza trasferibile. Nell'educazione al design il processo non è un metodo applicato a una disciplina; è la disciplina, e lo studio è il luogo in cui viene insegnato, supervisionato e valutato. L'[[engineering-education]] è il vicino professionale più prossimo — anch'essa pesantemente basata sul design, anch'essa responsabile verso la pratica — ma la valutazione in ingegneria poggia su artefatti calcolabili e sulla responsabilità per la sicurezza pubblica, mentre quella del design poggia sulla critica e sull'evidenza di processo che gli strumenti generativi possono visibilmente simulare.
 
@@ -82,7 +82,7 @@ Qui i problemi di valutazione sono inseparabili da quelli professionali. [[ai-in
 - [[generative-ai]]
 - [[ai-literacy]]
 - [[higher-ed]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[engineering-education]]
 - [[professional-training]]
 - [[assessment-validity]]

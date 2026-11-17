@@ -137,7 +137,7 @@ Sistem multimodal juga memperluas akses dan [[personalized-learning|personalisas
 - [[ai-technologies]] — Payung: teknologi dan teknik AI (model, pelatihan LLM, robotika, RAG, agentic)
 - [[virtual-and-augmented-reality]] — gestur, suara, dan masukan spasial sebagai kanal belajar
 - [[speech-and-voice-technologies]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 - [[sensor-and-gaze-analytics]]
 

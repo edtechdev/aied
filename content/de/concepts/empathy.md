@@ -110,7 +110,7 @@ Für die Bildung schneidet das in zwei Richtungen. Ein Curriculum, das KI nutzt,
 - [[ai-sycophancy]]
 - [[pedagogical-safety]]
 - [[well-being]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Verbundene Artikel
 

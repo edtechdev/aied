@@ -110,7 +110,7 @@ Bagi pendidikan hal ini memotong dua arah. Kurikulum yang menggunakan AI untuk m
 - [[ai-sycophancy]]
 - [[pedagogical-safety]]
 - [[well-being]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Artikel terkait
 

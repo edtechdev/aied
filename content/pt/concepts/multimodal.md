@@ -137,7 +137,7 @@ Os sistemas multimodais também ampliam o acesso e a [[personalized-learning|per
 - [[ai-technologies]] — Guarda-chuva: tecnologias e técnicas de IA (modelos, treinamento de LLM, robótica, RAG, agentiva)
 - [[virtual-and-augmented-reality]] — gesto, voz e entrada espacial como canais de aprendizagem
 - [[speech-and-voice-technologies]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[sensor-and-gaze-analytics]]
 
 ## Artigos conectados

@@ -104,7 +104,7 @@ Un video con sottotitoli accurati e una trascrizione correttamente etichettata �
 - [[virtual-and-augmented-reality]] — visori, motion sickness e accesso ai dispositivi decidono chi può usarli
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — la pagina ombrello per regole eccessivamente ampie, evidenze difettose e accomodamento ragionevole
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Articoli collegati
 - [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 0% of 100 elite universities publish an AI accessibility policy while 93% deploy AI campus services

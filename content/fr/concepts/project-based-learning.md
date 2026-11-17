@@ -100,7 +100,7 @@ Le PjBL se relie à l'[[active-learning|apprentissage actif]], à l'[[experienti
 - [[computational-thinking]]
 - [[higher-ed]]
 - [[pedagogy]] — Ensemble : pédagogies et stratégies d'enseignement dans l'éducation à l'IA
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Articles liés
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — L'apprentissage par problèmes et par projets comme cadres prometteurs pour l'éducation soutenue par l'IA générative : données émergentes d'une revue systématique et d'une méta-analyse à trois niveaux

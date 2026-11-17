@@ -102,7 +102,7 @@ ai_assist:
 - [[virtual-and-augmented-reality]] — হেডসেট, মোশন সিকনেস ও ডিভাইস-প্রবেশই ঠিক করে কে এটি ব্যবহার করতে পারবে
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — অতিরিক্ত-ব্যাপক নিয়ম, ত্রুটিপূর্ণ প্রমাণ ও যুক্তিসঙ্গত সমন্বয়ের ছাতা-পাতা
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## সংযুক্ত নিবন্ধ
 - [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 100টি অভিজাত বিশ্ববিদ্যালয়ের 0% এআই অভিগম্যতা-নীতি প্রকাশ করে, অথচ 93% এআই ক্যাম্পাস-সেবা মোতায়েন করে

@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-15T06:35:59-05:00"
+updated: "2026-11-16T22:52:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -54,7 +54,7 @@ Beyond the classroom, AI reaches students through the institution itself — adv
 
 The literature is weighted heavily toward undergraduate study, and graduate and professional preparation is treated within [[discipline-specific-aied|discipline-specific]] work ([[medical-education|medical and health-professions education]], [[business-education|business education]], [[teacher-education|teacher education]]) rather than as a separate graduate strand. Two strands nonetheless bear specifically on master's, doctoral, and professional students: research training, and professional-degree programs.
 
-The subdivision now has its own pages: [[undergraduate-education|undergraduate education]] holds the large-enrollment, introductory-course evidence, and [[graduate-education|graduate education]] holds supervision, research training, and professional-program evidence. This page keeps the institutional and faculty-level picture that applies across both.
+The subdivision now has its own pages: [[undergraduate-education|undergraduate education]] holds the large-enrollment, introductory-course evidence, and [[graduate-education|graduate education]] holds supervision, research training, and professional-program evidence. The institutional and faculty-level picture applies across both levels.
 
 Postgraduate *research* practice is the more distinctive of the two. [[dai-chan-responsible-genai-research-ai-literacy-2026|Dai and Chan (2026)]] analyzed how 28 postgraduate research students across seven focus groups enacted [[ai-literacy|AI literacy]] in their GenAI-assisted research and found them to be calibrated users rather than passive adopters — matching tools to tasks by perceived stakes and disciplinary norms, retaining [[human-in-the-loop-ai|human oversight]], and drawing their own boundaries between acceptable drafting help and substitution of their reasoning. Their central finding is a policy gap: institutional GenAI guidance addresses [[teacher-role|teaching]], learning, and assessment but says almost nothing about the research process, so the authors propose researcher-oriented guidelines that [[scaffolding|scaffold]] each AI literacy dimension across the research workflow for [[research-methods-aied|researchers]] and their supervisors. [[engagement-intensity-learner-modeling|Oh, Talton and Bui (2026)]] approach the same population from the institutional side: among 93 bioscience graduate students and postdoctoral trainees in a required research-ethics course, three simple pre-instruction behavioral signals informed lightweight intake profiling for adaptive AI [[ethics|ethics]] instruction, while prior AI coursework predicted none of the five perception outcomes. AI is also reshaping the research team itself — [[ai-assisted-writing-research-teams|analysis of 147,074 publications]] since 2020 associates AI-assisted writing with smaller, junior-leaner teams producing highly cited work, reversing the decades-long "Big Science" drift toward larger collaborations — and [[persistent-ai-agents-academic-research|a single-investigator case study]] documents what sustained [[agentic-ai|agentic]] support looks like inside one researcher's own workflow.
 
@@ -121,7 +121,7 @@ A third route hardens the assignment itself: rendering prompts as perturbed imag
 - [[problem-based-learning]] — Problem-based learning with AI
 - [[teacher-role]] — Evolving teacher role in AI classrooms
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[student-support-and-success]] — advising, outreach, referral, and support allocation — the institutional side of student success
 
 ## Connected Articles

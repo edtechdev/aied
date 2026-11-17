@@ -136,7 +136,7 @@ Multimodale Systeme erweitern auch Zugang und [[personalized-learning|Personalis
 - [[ai-technologies]] — Überblicksseite: KI-Technologien und -Techniken (Modelle, LLM-Training, Robotik, RAG, agentische Systeme)
 - [[virtual-and-augmented-reality]] — Gestik, Stimme und räumliche Eingabe als Lernkanäle
 - [[speech-and-voice-technologies]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[sensor-and-gaze-analytics]]
 
 ## Verbundene Artikel

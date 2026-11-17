@@ -131,7 +131,7 @@ Pratik tasarım çıkarımı, çok kipli öğretimde bir **görsel temellendirme
 - [[ai-technologies]] — Şemsiye: YZ teknolojileri ve teknikleri (modeller, YZ eğitimi, robotik, RAG, etken)
 - [[virtual-and-augmented-reality]] — jest, ses ve uzamsal girdi öğrenme kanalları olarak
 - [[speech-and-voice-technologies]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[sensor-and-gaze-analytics]]
 
 ## Bağlı makaleler

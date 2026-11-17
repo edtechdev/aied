@@ -101,7 +101,7 @@ Video yenye manukuu sahihi na nakala iliyowekwa lebo ipasavyo ni *inayopatikana*
 - [[virtual-and-augmented-reality]] — vifaa vya kichwani, kichefuchefu cha mwendo na ufikivu wa kifaa huamua ni nani anaweza kuvitumia
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — ukurasa wa paa kwa kanuni zilizo pana kupita kiasi, ushahidi wenye kasoro na marekebisho ya kimaarifa
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Makala Zinazohusiana
 - [[shin-ai-policies-sld-2026]] — Sera za AI na marekebisho kwa wanafunzi wenye ulemavu mahususi wa kujifunza

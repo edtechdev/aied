@@ -140,7 +140,7 @@ ai_assist:
 - [[ai-technologies]] — Збірне: технології та методи ШІ (моделі, навчання LLM, робототехніка, RAG, агенти)
 - [[virtual-and-augmented-reality]] — жест, голос і просторовий ввід як канали навчання
 - [[speech-and-voice-technologies]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 - [[sensor-and-gaze-analytics]]
 

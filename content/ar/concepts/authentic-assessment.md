@@ -127,7 +127,7 @@ ai_assist:
 - [[ai-education]]
 - [[feedback]]
 - [[summative-assessment]] — التقويم الختامي: صيغ مقاومة للذكاء الاصطناعي (شفوية، ومراقَبة، وامتحانات كتب مغلقة)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 - [[reflection]]
 

@@ -119,7 +119,7 @@ Bir saatlik YZ ile özel ders, 2.383 yetişkinle yürütülen 2.469 oturum boyun
 - [[problem-based-learning]] — Problem-based learning with AI
 - [[teacher-role]] — Evolving teacher role in AI classrooms
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[student-support-and-success]] — advising, outreach, referral, and support allocation — the institutional side of student success
 
 ## Bağlı makaleler

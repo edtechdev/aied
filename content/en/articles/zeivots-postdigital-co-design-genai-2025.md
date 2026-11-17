@@ -54,7 +54,7 @@ The article is also candid about the tensions this creates. Several contribution
 ## What this means for practice
 
 - **Instructional designers.** Use GenAI's limitations as the content. The provocateur–pluraliser–facilitator sequence works because the AI is asked for material to critique, not for a finished design, and the group's negotiation is what produces the artifact.
-- **Faculty developers.** Treat the eleven contributions as a case library rather than a model. Each is a situated account from a different institution and country, which is more useful for adapting a co-[[arts-design-and-media-education|design studio]] than a single transferable method would be.
+- **Faculty developers.** Treat the eleven contributions as a case library rather than a model. Each is a situated account from a different institution and country, which is more useful for adapting a co-[[arts-and-media-education|design studio]] than a single transferable method would be.
 - **Administrators.** Expect co-design with GenAI to distribute authorship, and govern accordingly. The article's caution is that language fluency is not breadth of knowing, which matters when AI-mediated design documents start carrying institutional authority.
 - **Researchers.** Note the evidentiary status you are working with: a forum of practice accounts plus open review, not a study. It generates hypotheses about distributed agency and about normative homogenization; it does not test either.
 

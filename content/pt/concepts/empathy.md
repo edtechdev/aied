@@ -110,7 +110,7 @@ Para a educação, isso corta nos dois sentidos. Um currículo que usa a IA para
 - [[ai-sycophancy]]
 - [[pedagogical-safety]]
 - [[well-being]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Artigos conectados
 

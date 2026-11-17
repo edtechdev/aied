@@ -99,7 +99,7 @@ PBL 连接到[[active-learning]]、[[experiential-learning]]、[[collaborative-l
 - [[computational-thinking]]
 - [[higher-ed]]
 - [[pedagogy]] — 总括：AI 教育中的教学法与教学策略
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## 关联文章
 

@@ -94,7 +94,7 @@ PBL [[active-learning]], [[experiential-learning]], [[collaborative-learning]], 
 - [[computational-thinking]]
 - [[higher-ed]]
 - [[pedagogy]] — छत्र: AI शिक्षा में पैडागॉजी और शिक्षण रणनीतियाँ
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## संबंधित लेख
 

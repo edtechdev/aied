@@ -55,7 +55,7 @@ VR/AR 的理由建立在临场感与 [[embodied-learning|具身性]]之上，而
 
 它的缺口界定了该模式当前的边界。评估是客观指标加上单一领域专家用户，而非学习者；没有自动化的 [[assessment]] 或 [[adaptive-learning|自适应反馈]]；助手无法超越它所获得的文档，因此机构特定规程与罕见情境在其能力之外。换言之，沉浸式环境内部的教学智能仍然主要是**指导**，而非测量——而同一平台架构，配合把 [[llm|模型推理]]卸载到本地 GPU 后端，正是免手持指导快到可用所依赖的东西。
 
-对那份缺失测量迄今最清晰的尝试，来自一个职业[[arts-design-and-media-education|设计工作室]]而非临床场景。在一门 12 周的室内设计课程中，一个配有 LLM 支持助手（渲染为数字人）的 VR 环境（头显加 3D 建模工具）与常规的 [[project-based-learning|项目式]]教学作了比较，助手在每个阶段被赋予不同角色——资源推荐与任务分解、带知识图谱的分层提问、模拟设计效果与缺陷检测，然后是供教师使用的对话日志（[[ai-ive-pbl-vocational-design-creativity-2026|Jin 等（2026）]]）。在 63 份有效回答中，沉浸加代理条件产出了显著更高的设计能力（η²p = .138）与创造能力（η²p = .111）、认知（d = 0.90）与行为（d = 0.75）[[student-engagement|参与]]，以及动机（d = 0.74）与满意度（d = 0.69）——而报告的 [[cognitive-offloading|认知负荷]]*更低*而非更高（d = −0.52），作者归因于助手削减了搜索与跨学科整合的努力。两点限制使这未能定案：观念新颖性与 [[affective-computing|情感]]参与没有变化，且每项结果都是 [[self-report-measures|自陈]]，没有制品评分或头显日志。
+对那份缺失测量迄今最清晰的尝试，来自一个职业[[arts-and-media-education|设计工作室]]而非临床场景。在一门 12 周的室内设计课程中，一个配有 LLM 支持助手（渲染为数字人）的 VR 环境（头显加 3D 建模工具）与常规的 [[project-based-learning|项目式]]教学作了比较，助手在每个阶段被赋予不同角色——资源推荐与任务分解、带知识图谱的分层提问、模拟设计效果与缺陷检测，然后是供教师使用的对话日志（[[ai-ive-pbl-vocational-design-creativity-2026|Jin 等（2026）]]）。在 63 份有效回答中，沉浸加代理条件产出了显著更高的设计能力（η²p = .138）与创造能力（η²p = .111）、认知（d = 0.90）与行为（d = 0.75）[[student-engagement|参与]]，以及动机（d = 0.74）与满意度（d = 0.69）——而报告的 [[cognitive-offloading|认知负荷]]*更低*而非更高（d = −0.52），作者归因于助手削减了搜索与跨学科整合的努力。两点限制使这未能定案：观念新颖性与 [[affective-computing|情感]]参与没有变化，且每项结果都是 [[self-report-measures|自陈]]，没有制品评分或头显日志。
 
 与一项可比的[[design-education|设计教育]]部署的对比很有教益。一个使用 [[generative-ai|GenAI]] 加多用户 XR 流水线的建筑工作室发现，使用它的团队设计 [[self-efficacy|自我效能]]信心*下降*，且在盲审小组评分中没有优势。两者的差别与其说在硬件，不如说在编排：职业研究在干预之前就固定了阶段结构、助手在每个阶段的角色以及评分量规，并把生产能力与观念新颖性分开测量。
 
@@ -105,7 +105,7 @@ VR/AR 最强的证据是比较性的且 [[discipline-specific-aied|学科特定]
 - [[trust-calibration]] — 保真度，以及学习者对其局限的觉察
 - [[cognitive-offloading]] — 延迟与不稳定作为额外负荷
 - [[edtech-platform]] — 同步、延迟与多地点的临场
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[ai-avatars-and-synthetic-instructors]]
 
 ## 关联文章

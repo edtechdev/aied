@@ -244,17 +244,14 @@ concepts:
     - student anxiety
     - surveillance stress
     - test anxiety
-  arts-design-and-media-education:
-    title: Arts, Design and Media Education
+  arts-and-media-education:
+    title: Arts and Media Education
     aliases:
-    - architectural design education
-    - architecture education
     - art education
+    - arts and media education
     - arts education
-    - design studio
-    - interior design education
     - media arts
-    - studio pedagogy
+    - performance education
     - visual arts education
   music-education:
     title: Music Education
@@ -264,6 +261,20 @@ concepts:
     - music learning
     - music pedagogy
     - musical education
+  professions-education:
+    title: Professions Education
+    aliases:
+    - applied disciplines
+    - licensed practice education
+    - professional programs
+    - professions education
+  social-sciences-education:
+    title: Social Science Education
+    aliases:
+    - social science education
+    - social sciences
+    - social studies education
+    - sociology education
   assessment:
     title: Assessment
     aliases:
@@ -980,7 +991,7 @@ concepts:
     - human-in-the-loop
     - human-in-the-loop AI
   humanities-education:
-    title: Humanities and Social Science Education
+    title: Humanities Education
     aliases:
     - HSS education
     - humanities
@@ -1343,6 +1354,11 @@ concepts:
     - design learning
     - design studio education
     - industrial design education
+    - architectural design education
+    - architecture education
+    - design studio
+    - interior design education
+    - studio pedagogy
   interpreting-and-applying-aied-research:
     title: Interpreting and Applying AIEd Research
     aliases:
@@ -2495,11 +2511,30 @@ sections:
     - open-source
     - edtech-platform
 - heading: AI in the disciplines
-  blurb: 'How AI is applied across academic subjects and educational levels: the field\u2019s subject-area coverage.'
+  blurb: 'How AI is applied across academic subjects, organized by the four clusters the disciplines fall into: humanities and arts, social sciences, STEM, and the professions.'
   groups:
-  - label: Subject areas
+  - label: Overview
     items:
     - discipline-specific-aied
+  - label: Humanities and arts
+    items:
+    - humanities-education
+    - arts-and-media-education
+    - music-education
+    - english-education
+    - writing-education
+    - reading-education
+    - language-learning
+  - label: Social sciences
+    items:
+    - social-sciences-education
+    - civic-and-political-education
+    - business-education
+    - environmental-education
+  - label: STEM
+    items:
+    - stem-education
+    - science-education
     - math-education
     - statistics-and-data-science-education
     - physics-education
@@ -2507,25 +2542,16 @@ sections:
     - biology-education
     - cs-education
     - engineering-education
-    - stem-education
-    - science-education
-    - writing-education
-    - language-learning
-    - english-education
-    - reading-education
-    - environmental-education
-    - business-education
-    - humanities-education
-    - civic-and-political-education
-    - arts-design-and-media-education
-    - music-education
-    - design-education
+    - information-technology
+  - label: Professions
+    items:
+    - professions-education
     - medical-education
     - nursing-education
     - legal-education
-    - information-technology
-    - libraries
     - teacher-education
+    - design-education
+    - libraries
   - label: Research fields
     items:
     - learning-sciences
@@ -2653,6 +2679,7 @@ sections:
     - sustainability
     - pedagogical-safety
 redirects:
+  arts-design-and-media-education: arts-and-media-education
   information-literacy: information-and-media-literacy
   media-literacy: information-and-media-literacy
   pedagogical-llm-training: llm-training-and-fine-tuning

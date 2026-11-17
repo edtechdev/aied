@@ -104,7 +104,7 @@ ai_assist:
 - [[inquiry-based-learning]]
 - [[cognitive-offloading]]
 - [[scaffolding]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## संबंधित लेख
 - [[wei-genai-configurations-creative-phases-2026]] — रचनात्मक चरणों में जनरेटिव AI विन्यास: कला और डिज़ाइन शिक्षा में रचनात्मक प्रदर्शन और तात्कालिक ज्ञान पर 2 × 2 प्रयोग

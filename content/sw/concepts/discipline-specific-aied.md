@@ -50,7 +50,7 @@ Hifadhi ya maarifa ina kurasa za dhana mahususi kwa maeneo kadhaa ya somo:
 - **[[medical-education]]** — mifumo ya kliniki, mafunzo ya [[reinforcement-learning|kujifunza kwa kuimarisha]], na kanuni za msingi za kujifunza katika elimu ya taaluma za afya.
 - **[[nursing-education]]** — rekodi ya uzoefu yenye uzito zaidi katika nyuzi ya kliniki: mifumo ya wagonjwa wa kweli, msaada wa hozi ya LLM, na majukwaa yanayobadilika, yakiwekwa kuzunguka uundaji wa utambulisho wa kitaalamu kiasi kama uwezo, na nyembamba zaidi ya kutosha kutaja mpaka ambapo faida za AI zilizorekodiwa zinaishia (ujuzi wa kiakili wa psychomotor na mwingiliano wenye hisia) badala ya kutendea taaluma za afya kama moja.
 - **[[vocational-education]]** — maandalizi ya awali kwa biashara zilizotajwa na kazi za kiufundi, zilizopangwa na miundo ya sifa na kutathminiwa kwa wanafunzi wanaoweza kufanya nini na vifaa: inapanua zaidi ya mafunzo ya kitaalamu na [[lifelong-learning|kuongeza ujuzi wa mahali pa kazi]] ambayo [[professional-training]] inafunika kwa wale ambao bado hawajajiriwa, na swali lake la kudumu la kubuni ni ni sehemu zipi za gharama kubwa za kazi za mazoezi ambazo AI inaweza kuchukua bila kupindua urudiaji unaozalisha uwezo.
-- **[[design-education]]** — uundaji wa kitaalamu wa msingi wa studio katika kubuni bidhaa, huduma, mwingiliano, ndani na usanifu, ambapo mchakato unaoonekana ni kitu kilichotathminiwa na ambapo zana za kizazi hufanya kazi ya kupangwa kuwa ya bei ndogo: inapunguza taaluma za studio ambazo [[arts-design-and-media-education]] inafunika hadi mstari wa kubuni wa kitaalamu, ili ukosaji, [[eportfolio|jalada]] na kanuni badala ya mazoezi ya nyenzo na ya kufanya waweza kubeba hoja.
+- **[[design-education]]** — uundaji wa kitaalamu wa msingi wa studio katika kubuni bidhaa, huduma, mwingiliano, ndani na usanifu, ambapo mchakato unaoonekana ni kitu kilichotathminiwa na ambapo zana za kizazi hufanya kazi ya kupangwa kuwa ya bei ndogo: inapunguza taaluma za studio ambazo [[arts-and-media-education]] inafunika hadi mstari wa kubuni wa kitaalamu, ili ukosaji, [[eportfolio|jalada]] na kanuni badala ya mazoezi ya nyenzo na ya kufanya waweza kubeba hoja.
 - **[[engineering-education]]** — uundaji wa kitaalamu, kubuni na [[experiential-learning|kujifunza kwa mikono]], matumizi ya [[ethics|maadili]] ya AI, tathmini ya [[embodied-learning|iliyoingizwa]], na maandalizi ya wafanyakazi katika uhandisi.
 - **[[business-education]]** — AI katika elimu ya biashara, uchumi, na usimamizi: miundo ya GenAI ya kutegemea-mwanafunzi, muunganishaji wa [[curriculum-design|mtaala]] kupitia upatanishi wa kujenga, na maandalizi kwa mazoezi ya kitaalamu yaliyounganishwa na AI.
 - **[[humanities-education]]** — ufahamu wa tafsiri, uandishi wa kazi, na kufanya maana katika sayansi za kibinadamu na za kijamii.
@@ -125,7 +125,7 @@ Taaluma hizi zilizokosewa zingefaidika kutoka kurasa za dhana mahususi na kupoke
 - [[k-12]]
 - [[higher-ed]]
 - [[equity-in-ai-education]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[design-education]]
 - [[information-technology]]
 - [[learning-sciences]]

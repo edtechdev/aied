@@ -124,7 +124,7 @@ ai_assist:
 - [[ai-education]]
 - [[feedback]]
 - [[summative-assessment]] — اختتامی جانچ: AI کے خلاف مزاحم فارمیٹس (زبانی، نگرانی والے، بند کتاب والے امتحانات)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[reflection]]
 
 ## منسلک مضامین

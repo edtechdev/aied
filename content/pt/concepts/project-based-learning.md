@@ -97,7 +97,7 @@ A PBL se conecta ao [[active-learning|aprendizado ativo]], à [[experiential-lea
 - [[computational-thinking]]
 - [[higher-ed]]
 - [[pedagogy]] — Guarda-chuva: pedagogias e estratégias de ensino na educação com IA
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Artigos conectados
 

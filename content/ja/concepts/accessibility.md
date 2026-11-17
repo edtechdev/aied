@@ -100,7 +100,7 @@ ai_assist:
 - [[virtual-and-augmented-reality]] — ヘッドセット、動揺病、機器へのアクセスが誰が使えるかを決めます
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — 過度に広い規則、欠陥のあるエビデンス、合理的調整のための包括的なページ
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## 関連記事
 - [[shin-ai-policies-sld-2026]] — 特定の学習障害のある学生のための AI 方針と配慮

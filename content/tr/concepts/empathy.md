@@ -110,7 +110,7 @@ Eğitim için bu iki yöne keser. Empati pratiği yapmak üzere YZ kullanan bir 
 - [[ai-sycophancy]]
 - [[pedagogical-safety]]
 - [[well-being]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Bağlı makaleler
 

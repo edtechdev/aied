@@ -145,7 +145,7 @@ I sistemi multimodali ampliano anche l'accesso e la [[personalized-learning|pers
 
 - [[sensor-and-gaze-analytics]]
 
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Articoli collegati
 - [[elkington-human-centred-assessment-value-2026]] — Valutazione centrata sulla persona, assemblaggi e vincoli generativi (Elkington 2026)

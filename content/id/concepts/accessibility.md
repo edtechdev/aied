@@ -100,7 +100,7 @@ Video dengan takarir akurat dan transkrip yang ditandai dengan benar bersifat *a
 - [[virtual-and-augmented-reality]] — headset, mabuk gerak, dan akses perangkat menentukan siapa yang dapat menggunakannya
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — halaman payung untuk aturan yang terlalu luas, bukti yang cacat, dan penyesuaian yang wajar
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Artikel terkait
 - [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 0% dari 100 universitas elite menerbitkan kebijakan aksesibilitas AI sementara 93% menerapkan layanan kampus AI

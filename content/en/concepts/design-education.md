@@ -1,7 +1,7 @@
 ---
 title: "Design Education"
 created: "2026-09-17T14:04:29-04:00"
-updated: "2026-11-16T21:25:00-05:00"
+updated: "2026-11-16T22:52:00-05:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -26,7 +26,7 @@ reviewed_by: [editor]
 
 ## Introduction
 
-Design education is narrower than [[arts-design-and-media-education|arts, design and media education]], which covers studio and performance disciplines together — architecture, music, visual art, media and [[storytelling-in-education|digital storytelling]]. The subject is the professional design disciplines and their formation pipeline: [[eportfolio|portfolio assessment]], accreditation expectations, [[career-development-and-readiness|employability]], and a practice culture that has absorbed generative tools faster than its curricula have.
+Design education is narrower than [[arts-and-media-education|arts, design and media education]], which covers studio and performance disciplines together — architecture, music, visual art, media and [[storytelling-in-education|digital storytelling]]. The subject is the professional design disciplines and their formation pipeline: [[eportfolio|portfolio assessment]], accreditation expectations, [[career-development-and-readiness|employability]], and a practice culture that has absorbed generative tools faster than its curricula have.
 
 It is also distinct from [[design-thinking|design thinking]], a human-centered [[problem-solving|problem-solving]] method taught across business, education and law as a transferable skill. In design education the process is not a method applied to a discipline; it is the discipline, and the studio is where it is taught, supervised and assessed. [[engineering-education|Engineering education]] is the closest professional neighbour — also design-heavy, also accountable to practice — but engineering assessment rests on calculable artifacts and public-safety responsibility, whereas design's rests on critique and on process evidence that generative tools can visibly simulate.
 
@@ -85,7 +85,7 @@ Assessment problems here are inseparable from professional ones. [[ai-interior-d
 - [[generative-ai]]
 - [[ai-literacy]]
 - [[higher-ed]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[engineering-education]]
 - [[professional-training]]
 - [[assessment-validity]]

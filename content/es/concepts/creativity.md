@@ -118,7 +118,7 @@ La creatividad se conecta con el [[critical-thinking|pensamiento crítico]] y co
 - [[inquiry-based-learning]]
 - [[cognitive-offloading]]
 - [[scaffolding]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Artículos conectados
 - [[malkani-paul-ai-steam-visual-storytelling-2026]] — La narración visual con IA desplazó al estudiantado de diseño de la imitación de la naturaleza hacia escenarios centrados en el usuario (Malkani y Paul 2026)

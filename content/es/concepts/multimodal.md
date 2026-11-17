@@ -140,7 +140,7 @@ Los sistemas multimodales también amplían el acceso y la [[personalized-learni
 - [[ai-technologies]] — Marco general: tecnologías y técnicas de IA (modelos, entrenamiento de LLM, robótica, RAG, agentes)
 - [[virtual-and-augmented-reality]] — gesto, voz y entrada espacial como canales de aprendizaje
 - [[speech-and-voice-technologies]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[sensor-and-gaze-analytics]]
 
 ## Artículos conectados

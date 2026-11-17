@@ -109,7 +109,7 @@ Pour l'éducation, cela coupe dans deux sens. Un [[curriculum-design|programme]]
 - [[ai-sycophancy]]
 - [[pedagogical-safety]]
 - [[well-being]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Articles liés
 

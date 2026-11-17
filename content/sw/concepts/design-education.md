@@ -34,7 +34,7 @@ ai_assist:
 
 ## Utangulizi
 
-Elimu ya ubunifu ni nyembamba kuliko [[arts-design-and-media-education]], ambayo inashughulikia taaluma za studio na utendaji pamoja — usanifu, muziki, sanaa ya kuona, media na [[storytelling-in-education|hadithi za kidijitali]]. Ukurasa huu unashughulikia taaluma za ubunifu wa kitaalamu na mtiririko wao wa uundaji: [[eportfolio|tathmini ya jalada]], matarajio ya uthibitisho, [[career-development-and-readiness|uwezo wa kazi]], na utamaduni wa mazoezi ambao umezoea zana za kizazi haraka kuliko mitaala yake.
+Elimu ya ubunifu ni nyembamba kuliko [[arts-and-media-education]], ambayo inashughulikia taaluma za studio na utendaji pamoja — usanifu, muziki, sanaa ya kuona, media na [[storytelling-in-education|hadithi za kidijitali]]. Ukurasa huu unashughulikia taaluma za ubunifu wa kitaalamu na mtiririko wao wa uundaji: [[eportfolio|tathmini ya jalada]], matarajio ya uthibitisho, [[career-development-and-readiness|uwezo wa kazi]], na utamaduni wa mazoezi ambao umezoea zana za kizazi haraka kuliko mitaala yake.
 
 Pia ni tofauti na [[design-thinking]], mbinu ya [[problem-solving|kutatua matatizo]] inayoelekea kwa binadamu inayofundishwa katika biashara, elimu na sheria kama ujuzi unaoweza kuhama. Katika elimu ya ubunifu mchakato si mbinu inayotumika kwa taaluma; ni taaluma, na studio ni mahali inapofundishwa, kusimamiwa na kutathminiwa. [[engineering-education]] ni jirani wa kitaalamu wa karibu zaidi — pia nzito kwa ubunifu, pia anayewajibika kwa mazoezi — lakini tathmini ya uhandisi inategemea vitu vinavyoweza kuhesabiwa na uwajibikisho wa usalama wa umma, huku ile ya ubunifu ikitegemea ukosoaji na ushahidi wa mchakato ambao zana za kizazi zinaweza kuigwa wazi.
 
@@ -79,7 +79,7 @@ Matatizo ya tathmini hapa hayatenganiki na ya kitaalamu. [[ai-interior-design-ma
 - [[generative-ai]]
 - [[ai-literacy]]
 - [[higher-ed]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[engineering-education]]
 - [[professional-training]]
 - [[assessment-validity]]

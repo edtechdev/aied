@@ -134,7 +134,7 @@ AI में बहुमाध्यमिता का अर्थ केव�
 - [[ai-technologies]] — छत्र: AI तकनीकें और तकनीकी विधियाँ (मॉडल, LLM प्रशिक्षण, रोबोटिक्स, RAG, एजेंटिक)
 - [[virtual-and-augmented-reality]] — सीखने के माध्यमों के रूप में इशारा, आवाज़ और स्थानिक इनपुट
 - [[speech-and-voice-technologies]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 - [[sensor-and-gaze-analytics]]
 

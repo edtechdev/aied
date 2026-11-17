@@ -27,7 +27,7 @@ export const METADATA_LINKS: Record<string, Record<string, string>> = {
     'network analysis': 'network-analysis',
   },
   discipline: {
-    'arts education': 'arts-design-and-media-education',
+    'arts education': 'arts-and-media-education',
     'biology education': 'biology-education',
     'business education': 'business-education',
     'chemistry education': 'chemistry-education',

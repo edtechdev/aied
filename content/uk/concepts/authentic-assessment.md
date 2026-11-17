@@ -130,7 +130,7 @@ ai_assist:
 - [[ai-education]]
 - [[feedback]]
 - [[summative-assessment]] — Підсумкове оцінювання: формати, стійкі до ШІ (усні, іспити з наглядом, закриті іспити)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Пов’язані статті
 

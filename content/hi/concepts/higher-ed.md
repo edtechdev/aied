@@ -117,7 +117,7 @@ connected_resources: [pressing-prompts, teacherserver]
 - [[problem-based-learning]] — AI के साथ समस्या-आधारित अधिगम
 - [[teacher-role]] — AI कक्षाओं में विकसित होती शिक्षक भूमिका
 - [[stakeholders]] — छत्र: AI शिक्षा में व्यक्ति और दर्शक (शिक्षार्थी, शिक्षक, डिज़ाइनर, प्रशासक, नीति-निर्माता)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[student-support-and-success]] — परामर्श, आउटरीच, रेफ़रल और सहायता आवंटन — छात्र सफलता की संस्थागत पक्ष
 
 ## संबंधित लेख

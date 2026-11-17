@@ -121,7 +121,7 @@ Ein dritter Weg härten die Aufgabe selbst: das Rendern von Prompts als perturbi
 - [[problem-based-learning]] — Problembasiertes Lernen mit KI
 - [[teacher-role]] — Sich entwickelnde Rolle der Lehrenden in KI-Kursräumen
 - [[stakeholders]] — Überblicksseite: Menschen und Publika in der KI-Bildung (Lernende, Lehrende, Designerinnen und Designer, Administration, politisch Verantwortliche)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[student-support-and-success]] — Beratung, Ansprache, Weiterverweis und Allokation von Unterstützung — die institutionelle Seite des Studierendenerfolgs
 
 ## Verbundene Artikel

@@ -110,7 +110,7 @@ Kreativität verbindet sich mit [[critical-thinking|kritischem Denken]] und mit 
 - [[inquiry-based-learning]]
 - [[cognitive-offloading]]
 - [[scaffolding]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Verbundene Artikel
 - [[wei-genai-configurations-creative-phases-2026]] — Generative KI-Konfigurationen über kreative Phasen hinweg: ein 2 × 2 Experiment zu kreativer Leistung und unmittelbarem Wissen in Kunst- und Designbildung

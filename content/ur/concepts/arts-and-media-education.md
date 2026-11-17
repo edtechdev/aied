@@ -1,5 +1,5 @@
 ---
-title: "فنون، ڈیزائن اور میڈیا کی تعلیم"
+title: فنون اور میڈیا کی تعلیم
 created: "2026-09-16T14:29:36-04:00"
 type: concept
 foundations: [design-thinking]
@@ -10,7 +10,7 @@ confidence: medium
 audience: [instructors, learners, instructional designers, curriculum designers]
 level: [higher ed]
 updated: "2026-11-08T11:46:54-05:00"
-translation_of: "concepts/arts-design-and-media-education"
+translation_of: "concepts/arts-and-media-education"
 source_updated: "2026-11-04T15:40:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]

@@ -110,7 +110,7 @@ Kwa elimu, jambo hili linakata pande mbili. Mtaala unaotumia AI kufanya mazoezi 
 - [[ai-sycophancy]]
 - [[pedagogical-safety]]
 - [[well-being]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Makala zinazohusiana
 

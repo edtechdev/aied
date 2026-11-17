@@ -39,7 +39,7 @@ ai_assist:
 
 ## Introduction
 
-L'enseignement du design est plus étroit que l'[[arts-design-and-media-education|enseignement des arts, du design et des médias]], qui couvre ensemble les disciplines d'atelier et de spectacle — architecture, musique, arts visuels, médias et [[storytelling-in-education|narration numérique]]. Le sujet est les disciplines professionnelles du design et leur filière de formation : l'[[eportfolio|évaluation par portfolio]], les attentes d'accréditation, l'[[career-development-and-readiness|employabilité]], et une culture de pratique qui a absorbé les outils génératifs plus vite que ses programmes.
+L'enseignement du design est plus étroit que l'[[arts-and-media-education|enseignement des arts, du design et des médias]], qui couvre ensemble les disciplines d'atelier et de spectacle — architecture, musique, arts visuels, médias et [[storytelling-in-education|narration numérique]]. Le sujet est les disciplines professionnelles du design et leur filière de formation : l'[[eportfolio|évaluation par portfolio]], les attentes d'accréditation, l'[[career-development-and-readiness|employabilité]], et une culture de pratique qui a absorbé les outils génératifs plus vite que ses programmes.
 
 Il se distingue aussi du [[design-thinking]], une méthode de [[problem-solving|résolution de problèmes]] centrée sur l'humain enseignée dans la gestion, l'éducation et le droit comme compétence transférable. Dans l'enseignement du design, le processus n'est pas une méthode appliquée à une discipline ; il *est* la discipline, et l'atelier est le lieu où il est enseigné, supervisé et évalué. L'[[engineering-education|enseignement de l'ingénierie]] est le voisin professionnel le plus proche — lui aussi lourd de conception, lui aussi comptable de la pratique — mais l'évaluation en ingénierie repose sur des artefacts calculables et sur une responsabilité de sécurité publique, tandis que celle du design repose sur la critique et sur des traces de processus que les outils génératifs peuvent visiblement simuler.
 
@@ -81,7 +81,7 @@ Les problèmes d'évaluation sont ici inséparables des problèmes professionnel
 - [[generative-ai]]
 - [[ai-literacy]]
 - [[higher-ed]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[engineering-education]]
 - [[professional-training]]
 - [[assessment-validity]]

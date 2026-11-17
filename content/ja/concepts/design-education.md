@@ -35,7 +35,7 @@ ai_assist:
 
 ## はじめに
 
-デザイン教育は、スタジオ系とパフォーマンス系の分野をまとめて扱う[[arts-design-and-media-education]]——建築、音楽、視覚芸術、メディア、[[storytelling-in-education|デジタルストーリーテリング]]——よりも狭い領域です。このページは専門的なデザイン分野と、その育成パイプライン——[[eportfolio|ポートフォリオ評価]]、認証の期待、[[career-development-and-readiness|就労可能性]]、そして生成的なツールをカリキュラムよりも速く吸収してきた実践文化——を扱います。
+デザイン教育は、スタジオ系とパフォーマンス系の分野をまとめて扱う[[arts-and-media-education]]——建築、音楽、視覚芸術、メディア、[[storytelling-in-education|デジタルストーリーテリング]]——よりも狭い領域です。このページは専門的なデザイン分野と、その育成パイプライン——[[eportfolio|ポートフォリオ評価]]、認証の期待、[[career-development-and-readiness|就労可能性]]、そして生成的なツールをカリキュラムよりも速く吸収してきた実践文化——を扱います。
 
 またこれは、ビジネス、教育、法律にわたって転用可能なスキルとして教えられる人間中心の[[problem-solving|問題解決]]手法である[[design-thinking]]とも異なります。デザイン教育では、プロセスは分野に適用される手法ではなく、分野そのものであり、スタジオはそれが教えられ、監督され、評価される場所です。[[engineering-education]]は最も近い専門的な隣人です——デザインへの傾斜が強く、実践に対して責任を負う点でも同様です——ただし工学の評価は計算可能な成果物と公共安全に対する責任に依るのに対し、デザインの評価は批評と、生成的なツールが見える形で模擬できるプロセスの証拠に依っています。
 
@@ -77,7 +77,7 @@ ai_assist:
 - [[generative-ai]]
 - [[ai-literacy]]
 - [[higher-ed]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[engineering-education]]
 - [[professional-training]]
 - [[assessment-validity]]

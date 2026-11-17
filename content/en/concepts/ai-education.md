@@ -1,7 +1,7 @@
 ---
 title: "AI in Education"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-15T06:45:00-05:00"
+updated: "2026-11-16T22:52:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -85,7 +85,7 @@ The [[ai-technologies|Technologies]] page is the umbrella for the technical laye
 
 AI is applied across disciplines and educational levels. The [[discipline-specific-aied|overview of AIEd in the disciplines]] maps subject-area coverage — alongside [[learning-sciences|learning sciences]], which is not a taught subject but the cross-cutting research field that studies learning itself and takes subject matter as one variable among others:
 
-- **Subject areas:** [[math-education|mathematics]], [[statistics-and-data-science-education|statistics and data science]], [[physics-education|physics]], [[chemistry-education|chemistry]], [[biology-education|biology]], [[cs-education|computer science]], [[engineering-education|engineering]], [[stem-education|STEM]], [[writing-education|writing]], [[reading-education|reading education]], [[language-learning|language learning]], [[english-education|English education (EAP/EFL/ESL)]], [[libraries|library and information science]], [[science-education|science education]], [[environmental-education|environmental education]], [[business-education|business, economics, and management]], [[humanities-education|humanities and social sciences]], [[civic-and-political-education|civic and political education]], [[arts-design-and-media-education|arts, design and media education]], [[medical-education|medical and health professions]], [[legal-education|legal education]], and the professional and applied strands — [[nursing-education|nursing]], [[information-technology|information technology]], [[vocational-education|vocational education and training]], and [[design-education|design education]].
+- **Subject areas:** [[math-education|mathematics]], [[statistics-and-data-science-education|statistics and data science]], [[physics-education|physics]], [[chemistry-education|chemistry]], [[biology-education|biology]], [[cs-education|computer science]], [[engineering-education|engineering]], [[stem-education|STEM]], [[writing-education|writing]], [[reading-education|reading education]], [[language-learning|language learning]], [[english-education|English education (EAP/EFL/ESL)]], [[libraries|library and information science]], [[science-education|science education]], [[environmental-education|environmental education]], [[business-education|business, economics, and management]], [[humanities-education|humanities and social sciences]], [[civic-and-political-education|civic and political education]], [[arts-and-media-education|arts, design and media education]], [[medical-education|medical and health professions]], [[legal-education|legal education]], and the professional and applied strands — [[nursing-education|nursing]], [[information-technology|information technology]], [[vocational-education|vocational education and training]], and [[design-education|design education]].
 
 ## Levels and contexts
 

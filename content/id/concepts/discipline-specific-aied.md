@@ -51,7 +51,7 @@ Basis pengetahuan memiliki halaman konsep khusus untuk beberapa bidang studi:
 - **[[medical-education]]** — Simulasi klinis, pelatihan berbasis [[reinforcement-learning|pembelajaran penguatan]], dan prinsip pembelajaran dasar dalam pendidikan profesi kesehatan.
 - **[[nursing-education]]** — catatan empiris terpadat dalam untaian klinis: simulasi dengan pasien virtual, dukungan penalaran LLM, dan platform adaptif, dibingkai di sekitar pembentukan identitas profesional sebanyak kompetensi, dan cukup sempit untuk menamai batas tempat manfaat AI yang terdokumentasi berhenti (keterampilan psikomotor kompleks dan interaksi yang bermuatan emosi) alih-alih memperlakukan profesi kesehatan sebagai satu kasus.
 - **[[vocational-education]]** — persiapan awal bagi kejuruan dan okupasi teknis tertentu, diorganisasi oleh kerangka kualifikasi dan dinilai berdasarkan apa yang dapat dilakukan pembelajar dengan peralatan. Ia melampaui pelatihan profesional dan [[lifelong-learning|peningkatan keterampilan]] di tempat kerja yang dicakup [[professional-training]] hingga mereka yang belum bekerja, dan pertanyaan desainnya yang berulang adalah bagian praktik mana yang mahal untuk distafkan dapat diserap AI tanpa menggeser pengulangan yang menghasilkan kompetensi.
-- **[[design-education]]** — pembentukan profesional berbasis studio dalam desain produk, layanan, interaksi, interior, dan arsitektur, ketika proses yang terlihat adalah objek yang dinilai dan alat generatif membuat artefak yang mengilap menjadi murah: ia menyempitkan disiplin studio yang dicakup [[arts-design-and-media-education]] ke jalur desain profesional, sehingga kritik, [[eportfolio|portofolio]], dan regulasi alih-alih praktik material dan performatif yang membawa argumennya.
+- **[[design-education]]** — pembentukan profesional berbasis studio dalam desain produk, layanan, interaksi, interior, dan arsitektur, ketika proses yang terlihat adalah objek yang dinilai dan alat generatif membuat artefak yang mengilap menjadi murah: ia menyempitkan disiplin studio yang dicakup [[arts-and-media-education]] ke jalur desain profesional, sehingga kritik, [[eportfolio|portofolio]], dan regulasi alih-alih praktik material dan performatif yang membawa argumennya.
 - **[[engineering-education]]** — pembentukan profesional, desain dan [[experiential-learning|pembelajaran langsung]], penggunaan AI yang [[ethics|etis]], penilaian [[embodied-learning|terwujud]], dan persiapan tenaga kerja dalam teknik.
 - **[[business-education]]** — AI dalam pendidikan bisnis, ekonomi, dan manajemen: kerangka GenAI yang diinformasikan siswa, integrasi [[curriculum-design|kurikulum]] melalui keselarasan konstruktif, dan persiapan bagi praktik profesional terintegrasi AI.
 - **[[humanities-education]]** — kognisi interpretatif, kepengarangan, dan pemaknaan dalam humaniora dan ilmu sosial.
@@ -128,7 +128,7 @@ Disiplin yang kurang terwakili ini akan memperoleh manfaat dari halaman konsep k
 - [[k-12]]
 - [[higher-ed]]
 - [[equity-in-ai-education]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[design-education]]
 - [[information-technology]]
 - [[learning-sciences]]

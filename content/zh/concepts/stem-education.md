@@ -46,7 +46,7 @@ ai_assist:
 - **模拟支持的教学：** 在基于无人机的 STEM 教育中，[[teacher-role|教师]]与 AI 共同设计的 [[simulation]] 支架被与一门完全相同的动手 [[curriculum-design|课程]]作对照，涉及 30 名中学生，检验模拟支持的教学是否产出更优的 [[learning-gains|学习结果]]。GenAI 的角色是加速内容创作，而教师的参与保住了教学法效度与情境相关性。
 - **结果偏向支架组。**模拟组在与课程对齐的 STEM 知识上比动手组增益更大（M = 3.00 对 2.06；t(28) = 2.23，p = .034，d = 0.82），在 21 世纪胜任力上亦然（d = 1.52）（[[simulation-assisted-drone-learning-stem-2026|Yeung 等（2026）]]）。
 - **STEM 中的数字孪生：原型跑在已测量的学习之前。**一项对 11 项高等教育研究的 PRISMA 综述发现，每一项都展示了一个可运行的、与硬件同步的原型，但只有三项（27.3%）报告了统计上显著的学习增益，而开发复杂性与减少的社会互动是反复出现的障碍（[[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González 等，2026]]）。
-- **STEAM [[arts-design-and-media-education|艺术教育]]中 AI 辅助的规划：** 一项针对儿童 STEAM 艺术教师的实验研究（[[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo 与 Tahir 2025]]）发现，ChatGPT 辅助的教案在专家评定的质量上胜过教师生成的教案（中位数 20.5 对 17.6，p = .002，效应大，六位教授评分），教师报告了在效率与跨学科整合上的增益（61% 评为 4 分及以上）。这一结果是通过教师的委派方法实现的——最有用的方式是让 ChatGPT 在一份自行勾勒的教案中填补内容缺口——强化了那个反复出现的论点：当教师构建任务并批判地评估输出，而不是把整份教案交给模型时，AI 才抬升 STEM／STEAM 的工作。
+- **STEAM [[arts-and-media-education|艺术教育]]中 AI 辅助的规划：** 一项针对儿童 STEAM 艺术教师的实验研究（[[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo 与 Tahir 2025]]）发现，ChatGPT 辅助的教案在专家评定的质量上胜过教师生成的教案（中位数 20.5 对 17.6，p = .002，效应大，六位教授评分），教师报告了在效率与跨学科整合上的增益（61% 评为 4 分及以上）。这一结果是通过教师的委派方法实现的——最有用的方式是让 ChatGPT 在一份自行勾勒的教案中填补内容缺口——强化了那个反复出现的论点：当教师构建任务并批判地评估输出，而不是把整份教案交给模型时，AI 才抬升 STEM／STEAM 的工作。
 
 ### 汇总来看，AI 支持的教学在 STEM 中的效果如何
 

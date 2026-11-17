@@ -35,7 +35,7 @@ ai_assist:
 
 ## 들어가며
 
-디자인 교육은 [[arts-design-and-media-education]]보다 좁은데, 후자는 건축, 음악, 시각 예술, 미디어와 [[storytelling-in-education|디지털 스토리텔링]]을 함께 아우르는 스튜디오 및 공연 학문을 포괄합니다. 이 페이지는 전문 디자인 학문들과 그것들의 형성 파이프라인 — [[eportfolio|포트폴리오 평가]], 인증 기대, [[career-development-and-readiness|취업 가능성]], 그리고 자신의 교과보다 생성 도구를 더 빨리 흡수한 실행 문화 — 을 다룹니다.
+디자인 교육은 [[arts-and-media-education]]보다 좁은데, 후자는 건축, 음악, 시각 예술, 미디어와 [[storytelling-in-education|디지털 스토리텔링]]을 함께 아우르는 스튜디오 및 공연 학문을 포괄합니다. 이 페이지는 전문 디자인 학문들과 그것들의 형성 파이프라인 — [[eportfolio|포트폴리오 평가]], 인증 기대, [[career-development-and-readiness|취업 가능성]], 그리고 자신의 교과보다 생성 도구를 더 빨리 흡수한 실행 문화 — 을 다룹니다.
 
 이것은 또한 이전 가능한 기술로서 기업, 교육, 법률 전반에 걸쳐 가르치는 인간 중심 [[problem-solving|문제 해결]] 방법인 [[design-thinking]]과도 구별됩니다. 디자인 교육에서 그 과정은 한 학문에 적용되는 방법이 아니라 그것 자체가 학문이며, 스튜디오는 그것이 가르쳐지고, 지도받고, 평가되는 곳입니다. [[engineering-education]]는 가장 가까운 전문적 이웃입니다 — 역시 디자인이 많고 실행에 책임을 지지만, 공학 평가는 계산 가능한 산출물과 공공 안전 책임에 기대는 반면, 디자인의 평가는 생성 도구가 가시적으로 흉내 낼 수 있는 비평과 과정 증거에 기댑니다.
 
@@ -77,7 +77,7 @@ ai_assist:
 - [[generative-ai]]
 - [[ai-literacy]]
 - [[higher-ed]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[engineering-education]]
 - [[professional-training]]
 - [[assessment-validity]]

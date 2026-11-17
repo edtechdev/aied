@@ -35,7 +35,7 @@ ai_assist:
 
 ## Pendahuluan
 
-Pendidikan desain lebih sempit daripada [[arts-design-and-media-education]], yang mencakup disiplin studio dan pertunjukan sekaligus — arsitektur, musik, seni visual, media, dan [[storytelling-in-education|penceritaan digital]]. Halaman ini mencakup disiplin desain profesional dan jalur pembentukannya: [[eportfolio|penilaian portofolio]], ekspektasi akreditasi, [[career-development-and-readiness|daya kerja]], dan budaya praktik yang menyerap alat generatif lebih cepat daripada kurikulumnya.
+Pendidikan desain lebih sempit daripada [[arts-and-media-education]], yang mencakup disiplin studio dan pertunjukan sekaligus — arsitektur, musik, seni visual, media, dan [[storytelling-in-education|penceritaan digital]]. Halaman ini mencakup disiplin desain profesional dan jalur pembentukannya: [[eportfolio|penilaian portofolio]], ekspektasi akreditasi, [[career-development-and-readiness|daya kerja]], dan budaya praktik yang menyerap alat generatif lebih cepat daripada kurikulumnya.
 
 Ia juga berbeda dari [[design-thinking]], metode [[problem-solving|pemecahan masalah]] yang berpusat pada manusia yang diajarkan lintas bisnis, pendidikan, dan hukum sebagai keterampilan yang dapat ditransfer. Dalam pendidikan desain, proses bukanlah metode yang diterapkan pada suatu disiplin; proses itulah disiplinnya, dan studio adalah tempat ia diajarkan, disupervisi, dan dinilai. [[engineering-education]] adalah tetangga profesional terdekat — juga berat desain, juga akuntabel kepada praktik — tetapi penilaian teknik bertumpu pada artefak yang dapat dihitung dan tanggung jawab keselamatan publik, sedangkan penilaian desain bertumpu pada kritik dan pada bukti proses yang dapat disimulasikan secara kasatmata oleh alat generatif.
 
@@ -87,7 +87,7 @@ Masalah penilaian di sini tidak terpisahkan dari masalah profesional. [[ai-inter
 - [[generative-ai]]
 - [[ai-literacy]]
 - [[higher-ed]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[engineering-education]]
 - [[professional-training]]
 - [[assessment-validity]]

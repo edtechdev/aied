@@ -97,7 +97,7 @@ PBL מתחברת ל[[active-learning]], ל[[experiential-learning]], ל[[collabo
 - [[computational-thinking]]
 - [[higher-ed]]
 - [[pedagogy]] — מטרייה: פדגוגיות ואסטרטגיות הוראה בחינוך בבינה מלאכותית
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## מאמרים מקושרים
 

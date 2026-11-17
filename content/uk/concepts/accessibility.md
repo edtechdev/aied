@@ -103,7 +103,7 @@ ai_assist:
 - [[virtual-and-augmented-reality]] — гарнітури, морська хвороба від руху та доступ до пристроїв визначають, хто може його використовувати
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — сторінка-засніт для надмірно ширі правил, дефектних доказів і розумної адаптації
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Пов’язані статті
 - [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 0% зі 100 елітних університетів публікують політику доступності ШІ, тоді як 93% розгортають кампусні сервіси ШІ

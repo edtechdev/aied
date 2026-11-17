@@ -50,7 +50,7 @@ Bilgi tabanında birkaç konu alanına ilişkin ayrılmış kavram sayfaları va
 - **[[medical-education]]** — sağlık meslekleri eğitiminde klinik benzetim, [[reinforcement-learning|pekiştirmeli öğrenme]] eğitimi ve temel öğrenme ilkeleri.
 - **[[nursing-education]]** — klinik başlıktaki en yoğun ampirik kayıt: sanal hastalarla benzetim, LLM akıl yürütme desteği ve uyarlanabilir platformlar; yetkinlik kadar mesleki kimlik oluşumu çevresinde çerçevelenir ve belgelenmiş YZ yararlarının durduğu sınırı (karmaşık psikomotor beceri ve duygusal olarak yüklü etkileşim) adlandıracak kadar dardır, sağlık mesleklerini tek bir örnek olarak ele almak yerine.
 - **[[vocational-education]]** — adlandırılmış meslekler ve teknik işler için ilk hazırlık; yeterlik çerçeveleriyle örgütlenmiş ve öğrenenlerin ekipmanla neler yapabildiği üzerinden değerlendirilir: [[professional-training]]’nin kapsadığı profesyonel eğitim ve iş yeri [[lifelong-learning|beceri geliştirmenin]] ötesine, henüz çalışmayanlara uzar ve yinelenen tasarım sorusu, pratiğin personelleştirilmesi pahalı olan hangi kısımlarının YZ tarafından, yetkinliği üreten tekrarı ortadan kaldırmadan üstlenilebileceğidir.
-- **[[design-education]]** — ürün, hizmet, etkileşim, iç mekân ve mimari tasarımda stüdyo temelli profesyonel oluşum; burada değerlendirilen nesne görünür süreçtir ve üretken araçlar parlak yapıtı ucuzlatır: [[arts-design-and-media-education]]’nın kapsadığı stüdyo disiplinlerini profesyonel tasarım hattına daraltır, böylece tartışmayı malzeme ve performatif pratik değil, eleştiri, [[eportfolio|portfolyo]] ve düzenleme taşır.
+- **[[design-education]]** — ürün, hizmet, etkileşim, iç mekân ve mimari tasarımda stüdyo temelli profesyonel oluşum; burada değerlendirilen nesne görünür süreçtir ve üretken araçlar parlak yapıtı ucuzlatır: [[arts-and-media-education]]’nın kapsadığı stüdyo disiplinlerini profesyonel tasarım hattına daraltır, böylece tartışmayı malzeme ve performatif pratik değil, eleştiri, [[eportfolio|portfolyo]] ve düzenleme taşır.
 - **[[engineering-education]]** — mühendislikte profesyonel oluşum, tasarım ve [[experiential-learning|uygulamalı öğrenme]], YZ’nin [[ethics|etik]] kullanımı, [[embodied-learning|gövdeleyen]] değerlendirme ve işgücü hazırlığı.
 - **[[business-education]]** — işletme, iktisat ve yönetim eğitiminde YZ: öğrenci kaynaklı GenAI çerçeveleri, yapıcı hizalama yoluyla [[curriculum-design|müfredat]] bütünleştirmesi ve YZ bütünleşik profesyonel pratiğe hazırlık.
 - **[[humanities-education]]** — beşeri ve sosyal bilimlerde yorumlayıcı biliş, yazarlık ve anlam yapılandırma.
@@ -128,7 +128,7 @@ Bu yetersince temsil edilmeyen disiplinler, bilgi tabanı büyüdükçe ayrılm�
 - [[k-12]]
 - [[higher-ed]]
 - [[equity-in-ai-education]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[design-education]]
 - [[information-technology]]
 - [[learning-sciences]]

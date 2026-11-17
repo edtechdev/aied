@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 243
+**Total concepts:** 245
 
 ## Foundations of AI in education
 
@@ -170,35 +170,49 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 ## AI in the disciplines
 
-### Subject areas
+### Overview
 
-- **`arts-design-and-media-education`** — Arts, Design and Media Education — phrases: architectural design education; architecture education; art education; arts education; design studio; interior design education; media arts; studio pedagogy; visual arts education
-- **`biology-education`** — Biology Education — phrases: biological; biological education; biology; biology education; biology laboratory; biology learning; life sciences
-- **`business-education`** — Business Education — phrases: business degree; business education; business school; business schools; economics education; management education
-- **`chemistry-education`** — Chemistry Education — phrases: chemical education; chemistry; chemistry education; chemistry laboratory; chemistry learning
-- **`civic-and-political-education`** — Civic and Political Education — phrases: civic education; civics; citizenship education; political education; political science education
-- **`cs-education`** — CS Education — phrases: block coding; block programming; block-based programming; coding education; computer science; computer science education; computing education; CS education; CS1; introductory programming; programming; programming education; Scratch; visual programming
-- **`design-education`** — Design Education — phrases: design pedagogy; design learning; design studio education; industrial design education
 - **`discipline-specific-aied`** — AIEd in the Disciplines — phrases: AI in the disciplines; disciplinary education; discipline-specific; discipline-specific AIEd; domain-specific; domain-specific AIED; subject-specific; subject-specific AIED
-- **`engineering-education`** — Engineering Education — phrases: biomedical engineering; engineering; engineering education
+
+### Humanities and arts
+
+- **`arts-and-media-education`** — Arts and Media Education — phrases: art education; arts and media education; arts education; media arts; performance education; visual arts education
 - **`english-education`** — English Education (EAP / EFL / ESL) — phrases: english as a foreign language; english education
-- **`environmental-education`** — Environmental Education — phrases: climate education; environmental education; environmental literacy; green skills education; sustainability education
-- **`humanities-education`** — Humanities and Social Science Education — phrases: HSS education; humanities; humanities and social science education; humanities education; liberal arts education
-- **`information-technology`** — Information Technology Education — phrases: IT education; information systems education; applied computing education
+- **`humanities-education`** — Humanities Education — phrases: HSS education; humanities; humanities and social science education; humanities education; liberal arts education
 - **`language-learning`** — Language Learning — phrases: efl; english; esl; foreign language; foreign language learning; language acquisition; language education; language learning; second language; second language acquisition; SLA; tefl
-- **`legal-education`** — Legal Education — phrases: law school; law schools; law student; law students; legal education; legal pedagogy; legal training; bar examination; bar exam
-- **`libraries`** — Libraries — phrases: academic libraries; library and information science; library operations; library science; library services; library systems; public libraries; school libraries
-- **`math-education`** — Math Education — phrases: math education; mathematics; mathematics education
-- **`medical-education`** — Medical and Health Professions Education — phrases: clinical; clinical education; health professions; health professions education; medical and health education; medical education; medical school; medicine
 - **`music-education`** — Music Education — phrases: aural skills education; music education; music learning; music pedagogy; musical education
-- **`nursing-education`** — Nursing Education — phrases: nurse education; nurse training; nursing curricula
-- **`physics-education`** — Physics Education — phrases: physics; physics education; physics teaching
 - **`reading-education`** — Reading Education — phrases: reading assessment; reading comprehension; reading education; reading instruction; reading motivation; readability; text readability
+- **`writing-education`** — Writing — phrases: academic writing; composition; writing; writing education; writing instruction; writing quality
+
+### Social sciences
+
+- **`business-education`** — Business Education — phrases: business degree; business education; business school; business schools; economics education; management education
+- **`civic-and-political-education`** — Civic and Political Education — phrases: civic education; civics; citizenship education; political education; political science education
+- **`environmental-education`** — Environmental Education — phrases: climate education; environmental education; environmental literacy; green skills education; sustainability education
+- **`social-sciences-education`** — Social Science Education — phrases: social science education; social sciences; social studies education; sociology education
+
+### STEM
+
+- **`biology-education`** — Biology Education — phrases: biological; biological education; biology; biology education; biology laboratory; biology learning; life sciences
+- **`chemistry-education`** — Chemistry Education — phrases: chemical education; chemistry; chemistry education; chemistry laboratory; chemistry learning
+- **`cs-education`** — CS Education — phrases: block coding; block programming; block-based programming; coding education; computer science; computer science education; computing education; CS education; CS1; introductory programming; programming; programming education; Scratch; visual programming
+- **`engineering-education`** — Engineering Education — phrases: biomedical engineering; engineering; engineering education
+- **`information-technology`** — Information Technology Education — phrases: IT education; information systems education; applied computing education
+- **`math-education`** — Math Education — phrases: math education; mathematics; mathematics education
+- **`physics-education`** — Physics Education — phrases: physics; physics education; physics teaching
 - **`science-education`** — Science Education — phrases: science classrooms; science education; science inquiry; science learning; science teaching
 - **`statistics-and-data-science-education`** — Statistics and Data Science Education — phrases: data science education; statistics and data science education; statistics education; statistical literacy; data literacy
 - **`stem-education`** — STEM Education — phrases: stem; stem education
+
+### Professions
+
+- **`design-education`** — Design Education — phrases: design pedagogy; design learning; design studio education; industrial design education; architectural design education; architecture education; design studio; interior design education; studio pedagogy
+- **`legal-education`** — Legal Education — phrases: law school; law schools; law student; law students; legal education; legal pedagogy; legal training; bar examination; bar exam
+- **`libraries`** — Libraries — phrases: academic libraries; library and information science; library operations; library science; library services; library systems; public libraries; school libraries
+- **`medical-education`** — Medical and Health Professions Education — phrases: clinical; clinical education; health professions; health professions education; medical and health education; medical education; medical school; medicine
+- **`nursing-education`** — Nursing Education — phrases: nurse education; nurse training; nursing curricula
+- **`professions-education`** — Professions Education — phrases: applied disciplines; licensed practice education; professional programs; professions education
 - **`teacher-education`** — Teacher Education — phrases: initial teacher; preservice; preservice teacher education; preservice teachers; teacher education; teacher training
-- **`writing-education`** — Writing — phrases: academic writing; composition; writing; writing education; writing instruction; writing quality
 
 ### Research fields
 
@@ -339,6 +353,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - `accessible-learning` → **`inclusive-learning`**
 - `ai-anxiety-and-stress` → **`anxiety-and-stress`**
 - `ai-tutoring` → **`intelligent-tutoring`**
+- `arts-design-and-media-education` → **`arts-and-media-education`**
 - `automated-grading` → **`automated-assessment`**
 - `blended-learning` → **`online-teaching-and-learning`**
 - `block-programming` → **`cs-education`**

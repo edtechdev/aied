@@ -117,7 +117,7 @@ Jalur ketiga mengeraskan tugas itu sendiri: merender prompt sebagai gambar terpe
 - [[problem-based-learning]] — Pembelajaran berbasis masalah dengan AI
 - [[teacher-role]] — Peran guru yang terus berkembang di kelas AI
 - [[stakeholders]] — Payung: orang dan audiens dalam pendidikan AI (pembelajar, guru, perancang, administrator, pembuat kebijakan)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[student-support-and-success]] — pendampingan akademik, penjangkauan, rujukan, dan alokasi dukungan — sisi institusional keberhasilan mahasiswa
 
 ## Artikel terkait

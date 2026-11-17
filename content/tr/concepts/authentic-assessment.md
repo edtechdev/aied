@@ -123,7 +123,7 @@ Geri çekilme, vaka dosyası kanıtının görünür kıldığı bir kanıtsal m
 - [[ai-education]]
 - [[feedback]]
 - [[summative-assessment]] — Toplam değerlendirme: YZ’ye dirençli biçimler (sözlü, gözetimli, kitapsız sınavlar)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 - [[reflection]]
 

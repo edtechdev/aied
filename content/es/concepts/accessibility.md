@@ -108,7 +108,7 @@ Un vídeo con subtítulos precisos y una transcripción correctamente etiquetada
 - [[virtual-and-augmented-reality]] — los visores, el mareo por movimiento y el acceso a los dispositivos deciden quién puede usarla
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — la página paraguas sobre reglas demasiado amplias, evidencia defectuosa y ajuste razonable
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Artículos conectados
 - [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): el 0% de 100 universidades de élite publica una política de accesibilidad de la IA, mientras que el 93% despliega servicios de campus con IA

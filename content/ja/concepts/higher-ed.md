@@ -116,7 +116,7 @@ AI による個別指導の 1 時間は、2,383 人の成人による 2,469 セ�
 - [[problem-based-learning]] — AIを用いた問題基盤型学習
 - [[teacher-role]] — AI教室における教員の役割の進化
 - [[stakeholders]] — 包括:AI教育における人々と読み手(学習者、教員、設計者、管理者、政策立案者)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[student-support-and-success]] — 進路指導、働きかけ、紹介、支援の配分 — 学生の成功の制度的な側面
 
 ## 関連する記事

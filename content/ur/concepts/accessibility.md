@@ -100,7 +100,7 @@ ai_assist:
 - [[virtual-and-augmented-reality]] — ہیڈ سیٹ، حرکت کی متلی اور ڈیوائس تک رسائی طے کرتی ہے کہ کون اِسے استعمال کر سکتا ہے
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — حد سے وسیع قواعد، ناقص شواہد اور معقول ایڈجسٹمنٹ کا چھتری صفحہ
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## منسلک مضامین
 - [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 100 نخبہ یونیورسٹیوں میں سے 0% AI رسائی پالیسی شائع کرتی ہیں جبکہ 93% AI کیمپس خدمات تعینات کرتی ہیں

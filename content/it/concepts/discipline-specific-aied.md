@@ -55,7 +55,7 @@ La knowledge base ha pagine di concetto dedicate a diverse aree disciplinari:
 - **[[medical-education]]** — simulazione clinica, addestramento con [[reinforcement-learning|reinforcement learning]] e principi fondamentali dell'apprendimento nella formazione delle professioni sanitarie.
 - **[[nursing-education]]** — la documentazione empirica più densa nel filone clinico: simulazione con pazienti virtuali, supporto al ragionamento con LLM e piattaforme adattive, inquadrata intorno alla formazione dell'identità professionale tanto quanto alla competenza, e abbastanza circoscritta da nominare il confine dove si arrestano i benefici documentati dell'IA (abilità psicomotoria complessa e interazione emotivamente carica) anziché trattare le professioni sanitarie come un unico caso.
 - **[[vocational-education]]** — preparazione iniziale a mestieri e occupazioni tecniche denominati, organizzata per quadri di qualificazione e valutata su ciò che chi apprende sa fare con le attrezzature. Si estende oltre la formazione professionale e l'[[lifelong-learning|upskilling]] sul posto di lavoro coperti da [[professional-training]] fino a chi non è ancora occupato, e la sua domanda progettuale ricorrente è quali parti costose da presidiare della pratica l'IA possa assorbire senza soppiantare la ripetizione che produce la competenza.
-- **[[design-education]]** — formazione professionale basata sullo studio (studio-based) nel design di prodotto, servizio, interazione, interni e architettura, dove l'oggetto valutato è il processo visibile e dove gli strumenti generativi rendono a buon mercato l'artefatto rifinito: restringe le discipline di studio coperte da [[arts-design-and-media-education]] alla pipeline professionale del design, così che la critica, il [[eportfolio|portfolio]] e la normativa — anziché la pratica materiale e performativa — reggano l'argomentazione.
+- **[[design-education]]** — formazione professionale basata sullo studio (studio-based) nel design di prodotto, servizio, interazione, interni e architettura, dove l'oggetto valutato è il processo visibile e dove gli strumenti generativi rendono a buon mercato l'artefatto rifinito: restringe le discipline di studio coperte da [[arts-and-media-education]] alla pipeline professionale del design, così che la critica, il [[eportfolio|portfolio]] e la normativa — anziché la pratica materiale e performativa — reggano l'argomentazione.
 - **[[engineering-education]]** — formazione professionale, progettazione e [[experiential-learning|apprendimento pratico]], uso [[ethics|etico]] dell'IA, valutazione [[embodied-learning|incorporata]] e preparazione al mondo del lavoro in ingegneria.
 - **[[business-education]]** — IA nell'educazione a business, economia e management: framework di GenAI informati dagli studenti, integrazione nel [[curriculum-design|curricolo]] tramite constructive alignment e preparazione alla pratica professionale integrata con l'IA.
 - **[[humanities-education]]** — cognizione interpretativa, paternità dell'opera e produzione di significato nelle discipline umanistiche e sociali.
@@ -131,7 +131,7 @@ Queste discipline sottorappresentate trarrebbero beneficio da pagine di concetto
 - [[k-12]]
 - [[higher-ed]]
 - [[equity-in-ai-education]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[design-education]]
 - [[information-technology]]
 - [[learning-sciences]]

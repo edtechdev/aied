@@ -51,7 +51,7 @@ AI in education은 분야마다 다르게 나타나는데, 이는 각 분야가 
 - **[[medical-education]]** — 임상 시뮬레이션, [[reinforcement-learning|강화 학습]] 훈련, 그리고 보건 전문직 교육의 기초 학습 원칙.
 - **[[nursing-education]]** — 임상 줄기에서 가장 밀도 높은 경험적 기록: 가상 환자를 사용한 시뮬레이션, LLM 추론 지원, 적응형 플랫폼이 능력만큼이나 전문적 정체성 형성을 중심으로 프레임되며, 보건 전문직을 하나의 사례로 취급하기보다 AI의 문서화된 이점이 멈추는 경계(복잡한 정신운동 기술과 정서적으로 부하된 상호작용)를 명명할 수 있을 만큼 좁습니다.
 - **[[vocational-education]]** — 명명된 직업과 기술 직종을 위한 초기 준비로, 자격 프레임워크에 의해 조직되고 학습자가 장비로 무엇을 할 수 있는지에 따라 평가됩니다: 이것은 [[professional-training]]이 다루는 전문 훈련과 직장 [[lifelong-learning|재교육]]을 넘어 아직 고용되지 않은 이들에게까지 확장되며, 그 반복적인 설계 질문은 AI가 능력을 만들어내는 반복을 대체하지 않고 실천의 값비싼 인력 부분을 얼마나 흡수할 수 있는지입니다.
-- **[[design-education]]** — 제품, 서비스, 상호작용, 실내 및 건축 디자인에서의 스튜디오 기반 전문 형성으로, 보이는 과정이 평가되는 대상이며 생성 도구가 다듬어진 산출물을 값싸게 만드는 곳입니다: 이것은 [[arts-design-and-media-education]]가 다루는 스튜디오 분야들을 비평, [[eportfolio|포트폴리오]], 규제가 자료와 수행적 실천보다 논증을 떠받드는 전문 디자인 파이프라인으로 좁힙니다.
+- **[[design-education]]** — 제품, 서비스, 상호작용, 실내 및 건축 디자인에서의 스튜디오 기반 전문 형성으로, 보이는 과정이 평가되는 대상이며 생성 도구가 다듬어진 산출물을 값싸게 만드는 곳입니다: 이것은 [[arts-and-media-education]]가 다루는 스튜디오 분야들을 비평, [[eportfolio|포트폴리오]], 규제가 자료와 수행적 실천보다 논증을 떠받드는 전문 디자인 파이프라인으로 좁힙니다.
 - **[[engineering-education]]** — 공학에서의 전문 형성, 설계와 [[experiential-learning|실습 학습]], AI의 [[ethics|윤리적]] 사용, [[embodied-learning|구체화된]] 평가, 그리고 인력 준비.
 - **[[business-education]]** — 경영, 경제, 관리 교육의 AI: 학생에게 정보를 얻은 GenAI 프레임워크, 구성적 정렬을 통한 [[curriculum-design|커리큘럼]] 통합, 그리고 AI 통합 전문 실천을 위한 준비.
 - **[[humanities-education]]** — 인문학과 사회 과학에서의 해석적 인지, 저작, 의미 구성.
@@ -124,7 +124,7 @@ AI in education은 분야마다 다르게 나타나는데, 이는 각 분야가 
 - [[k-12]]
 - [[higher-ed]]
 - [[equity-in-ai-education]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[design-education]]
 - [[information-technology]]
 - [[learning-sciences]]

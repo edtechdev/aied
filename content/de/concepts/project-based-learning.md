@@ -98,7 +98,7 @@ PBL verbindet sich mit [[active-learning|aktivem Lernen]], [[experiential-learni
 - [[computational-thinking]]
 - [[higher-ed]]
 - [[pedagogy]] — Überblicksseite: Pädagogien und Lehrstrategien in KI in der Bildung
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Verbundene Artikel
 

@@ -52,7 +52,7 @@ The equivalence testing is the part worth copying: a non-significant difference 
 
 ## What a reader should take from it
 
-For [[arts-design-and-media-education|art and design education]], the practical implication is that authorship policy written as one rule for creative fields will miss how students actually work. A design program can require disclosure of AI execution while assessing selection and judgment; a fine-art program may reasonably restrict AI at the production stage while permitting it in reference generation, which is where its students already draw the line.
+For [[arts-and-media-education|art and design education]], the practical implication is that authorship policy written as one rule for creative fields will miss how students actually work. A design program can require disclosure of AI execution while assessing selection and judgment; a fine-art program may reasonably restrict AI at the production stage while permitting it in reference generation, which is where its students already draw the line.
 
 The caution is that the survey measured self-reported tendencies and the interviews were 22 purposively selected participants, so the two authorial models are patterns and contrasting cases, not prevalence estimates.
 

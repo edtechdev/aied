@@ -116,7 +116,7 @@ ai_assist:
 - [[problem-based-learning]] — AI와 함께하는 문제 기반 학습
 - [[teacher-role]] — AI 교실에서 변화하는 교수자 역할
 - [[stakeholders]] — 상위 개념: AI 교육의 사람과 독자(학습자, 교수자, 설계자, 관리자, 정책 입안자)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[student-support-and-success]] — 진로 상담, 홍보, 의뢰, 지원 배분 — 학생 성공의 기관적 측면
 
 ## 연결된 문서

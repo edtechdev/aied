@@ -137,7 +137,7 @@ LLM 기반 튜터가 의미가 그래프, 힘의 도표, 개요도, 또는 표�
 - [[ai-technologies]] — 상위 개념: AI 기술과 기법(모델, LLM 훈련, 로봇공학, RAG, 에이전트형)
 - [[virtual-and-augmented-reality]] — 학습 채널로서의 제스처, 음성, 공간 입력
 - [[speech-and-voice-technologies]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[sensor-and-gaze-analytics]]
 
 

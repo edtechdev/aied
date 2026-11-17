@@ -121,7 +121,7 @@ ai_assist:
 - [[problem-based-learning]] — 与AI的问题式学习
 - [[teacher-role]] — AI课堂中演化的教师角色
 - [[stakeholders]] — 总览：AI教育中的人与受众（学习者、教师、设计者、管理者、政策制定者）
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[student-support-and-success]] — 咨询、外展、转介与支持分配——学生成功的机构一侧
 
 ## 关联文章

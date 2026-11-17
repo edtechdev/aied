@@ -105,7 +105,7 @@ ai_assist:
 - [[virtual-and-augmented-reality]] — سماعات الرأس ودوار الحركة ووصول الأجهزة هي ما يقرّر من يستطيع استخدامها
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — الصفحة الجامعة للقواعد المفرطة الاتساع والأدلّة المعيوبة والتسهيل المعقول
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## المقالات المتصلة
 

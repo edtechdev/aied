@@ -34,7 +34,7 @@ ai_assist:
 
 ## Giriş
 
-Tasarım eğitimi, atölye ve performans disiplinlerini birlikte kapsayan — mimari, müzik, görsel sanatlar, medya ve [[storytelling-in-education|dijital hikâye anlatıcılığı]] — [[arts-design-and-media-education]] alanından daha dardır. Bu sayfa profesyonel tasarım disiplinlerini ve onların yetiştirme hattını kapsar: [[eportfolio|portfolyo değerlendirmesi]], akreditasyon beklentileri, [[career-development-and-readiness|istihdama uygunluk]] ve üretken araçları müfredatından daha hızlı özümseyen bir uygulama kültürü.
+Tasarım eğitimi, atölye ve performans disiplinlerini birlikte kapsayan — mimari, müzik, görsel sanatlar, medya ve [[storytelling-in-education|dijital hikâye anlatıcılığı]] — [[arts-and-media-education]] alanından daha dardır. Bu sayfa profesyonel tasarım disiplinlerini ve onların yetiştirme hattını kapsar: [[eportfolio|portfolyo değerlendirmesi]], akreditasyon beklentileri, [[career-development-and-readiness|istihdama uygunluk]] ve üretken araçları müfredatından daha hızlı özümseyen bir uygulama kültürü.
 
 Aynı zamanda işletme, eğitim ve hukukta aktarılabilir bir beceri olarak öğretilen, insan merkezli bir [[problem-solving|problem çözme]] yöntemi olan [[design-thinking]]’den de ayrıdır. Tasarım eğitiminde süreç, bir disipline uygulanan bir yöntem değildir; sürecin kendisi disiplindir ve atölye onun öğretildiği, denetlendiği ve değerlendirildiği yerdir. [[engineering-education]] en yakın profesyonel komşudur — aynı zamanda tasarıma dayalı, aynı zamanda uygulamaya hesap veren — ancak mühendislik değerlendirmesi hesaplanabilir yapıtlar ve kamusal güvenlik sorumluluğu üzerinde dururken, tasarımın değerlendirmesi eleştiri ve üretken araçların görünür biçimde taklit edebildiği süreç kanıtları üzerinde durur.
 
@@ -76,7 +76,7 @@ Buradaki değerlendirme sorunları profesyonel olanlardan ayrılamaz. [[ai-inter
 - [[generative-ai]]
 - [[ai-literacy]]
 - [[higher-ed]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[engineering-education]]
 - [[professional-training]]
 - [[assessment-validity]]

@@ -117,7 +117,7 @@ Utafiti wa [[educational-development]] unachunguza jinsi waelimishaji wanavyopit
 - [[problem-based-learning]] — Kujifunza kwa msingi wa matatizo kwa AI
 - [[teacher-role]] — Jukumu la mwalimu linalobadilika katika madarasa ya AI
 - [[stakeholders]] — Kiolezo: watu na hadhira katika elimu ya AI (wanafunzi, walimu, wabuni, wasimamizi, watengenezaji sera)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[student-support-and-success]] — ushauri, ufikishaji wa habari, rufaa, na mgawanyo wa msaada — upande wa taasisi wa mafanikio ya wanafunzi
 
 ## Makala Zilizounganishwa

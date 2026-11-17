@@ -34,7 +34,7 @@ ai_assist:
 
 ## 引言
 
-设计教育比 [[arts-design-and-media-education]] 更窄，后者连同工作室与表演学科一并涵盖——建筑、音乐、视觉艺术、媒体与[[storytelling-in-education|数字叙事]]。本页涵盖专业设计学科及其养成管线：[[eportfolio|档案袋评估]]、认证期望、[[career-development-and-readiness|就业能力]]，以及一种比其课程更快吸收生成式工具的实践文化。
+设计教育比 [[arts-and-media-education]] 更窄，后者连同工作室与表演学科一并涵盖——建筑、音乐、视觉艺术、媒体与[[storytelling-in-education|数字叙事]]。本页涵盖专业设计学科及其养成管线：[[eportfolio|档案袋评估]]、认证期望、[[career-development-and-readiness|就业能力]]，以及一种比其课程更快吸收生成式工具的实践文化。
 
 它也不同于 [[design-thinking]]，那是一种在商业、教育与法律中作为可迁移技能教授的人本[[problem-solving|问题解决]]方法。在设计教育中，过程不是被应用于一门学科的方法；它就是这门学科，而工作室是它被教授、监督与评估之处。[[engineering-education]] 是最近的专业邻域——同样重设计、同样对实践负责——但工程评估建立在可计算的成果物与公共安全责任之上，而设计的评估建立在评图以及生成式工具能显式模拟的过程证据之上。
 
@@ -88,7 +88,7 @@ ai_assist:
 - [[generative-ai]]
 - [[ai-literacy]]
 - [[higher-ed]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[engineering-education]]
 - [[professional-training]]
 - [[assessment-validity]]

@@ -124,7 +124,7 @@ Kemunduran itu membawa biaya evidensial yang terlihat dalam bukti berkas kasus. 
 - [[ai-education]]
 - [[feedback]]
 - [[summative-assessment]] — Penilaian sumatif: format yang tahan AI (ujian lisan, berpengawas, buku tertutup)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[reflection]]
 
 ## Artikel terkait

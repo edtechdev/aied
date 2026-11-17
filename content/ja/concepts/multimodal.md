@@ -132,7 +132,7 @@ LLMを基盤とするチューターが、グラフ、力の図、模式図、�
 - [[ai-technologies]] — 傘概念：AI技術と技法（モデル、LLM学習、ロボット工学、RAG、エージェント的）
 - [[virtual-and-augmented-reality]] — 学習の経路としてのジェスチャー、音声、空間入力
 - [[speech-and-voice-technologies]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 - [[sensor-and-gaze-analytics]]
 

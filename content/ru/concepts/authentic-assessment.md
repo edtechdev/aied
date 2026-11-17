@@ -127,7 +127,7 @@ ai_assist:
 - [[ai-education]]
 - [[feedback]]
 - [[summative-assessment]] — Итоговое оценивание: форматы, устойчивые к ИИ (устные, под наблюдением, закрытые книги)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[reflection]]
 
 ## Связанные статьи

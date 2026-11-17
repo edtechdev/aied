@@ -1,5 +1,5 @@
 ---
-title: アート・デザイン・メディア教育
+title: アート・メディア教育
 created: "2026-10-10T22:31:17-04:00"
 updated: "2026-11-07T20:21:18-05:00"
 type: concept
@@ -11,7 +11,7 @@ confidence: medium
 audience: [instructors, learners, instructional designers, curriculum designers]
 level: [higher ed]
 source_updated: "2026-11-04T15:40:00-05:00"
-translation_of: concepts/arts-design-and-media-education
+translation_of: concepts/arts-and-media-education
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:

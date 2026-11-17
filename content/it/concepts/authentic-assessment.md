@@ -128,7 +128,7 @@ Il ripiegamento porta un costo probatorio che l'evidenza dei fascicoli rende vis
 - [[ai-education]]
 - [[feedback]]
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 - [[reflection]]
 

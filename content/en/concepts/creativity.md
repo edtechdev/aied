@@ -99,7 +99,7 @@ Creativity connects to [[critical-thinking|critical thinking]] and to [[construc
 - [[inquiry-based-learning]]
 - [[cognitive-offloading]]
 - [[scaffolding]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Connected Articles
 

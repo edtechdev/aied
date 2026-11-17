@@ -38,7 +38,7 @@ ai_assist:
 
 ## 来自知识库的证据
 
-- **设计工作室与建筑中的 GenAI。** 两项以建筑为中心的研究把该概念扎根于[[arts-design-and-media-education|工作室教学法]]。[[genai-architecture-education|Gen-AI-tecture]] 发现，一个本地执行的、[[discipline-specific-aied|学科专用]]的工具增强了创意流畅性、拓宽了不同学习者画像的参与，并加强了对 AI 支持工作流的信心——随着视觉-空间设计变得更可及，这是对 [[equity-in-ai-education|AI 教育中的公平性]]的一个重要信号。[[genai-architectural-design-studios|建筑设计工作室中的 GenAI]] 同样发现，学生在早期构思中把 GenAI 用作视觉刺激与灵感资源，并在开发阶段用作扩展解空间的组合方法。关键的是，两者都警告：若无批判性辨识力，学生有**设计固着**或审美锁定的风险，这重新框定了 [[higher-ed]] 中 [[teacher-role]] 的角色，从传授技艺转向辅导如何、何时以及为何把创意探索委派给生成式模型。[[creativity|创造性]]由此得以保存甚至放大——但只在细心的教学编排之下。
+- **设计工作室与建筑中的 GenAI。** 两项以建筑为中心的研究把该概念扎根于[[arts-and-media-education|工作室教学法]]。[[genai-architecture-education|Gen-AI-tecture]] 发现，一个本地执行的、[[discipline-specific-aied|学科专用]]的工具增强了创意流畅性、拓宽了不同学习者画像的参与，并加强了对 AI 支持工作流的信心——随着视觉-空间设计变得更可及，这是对 [[equity-in-ai-education|AI 教育中的公平性]]的一个重要信号。[[genai-architectural-design-studios|建筑设计工作室中的 GenAI]] 同样发现，学生在早期构思中把 GenAI 用作视觉刺激与灵感资源，并在开发阶段用作扩展解空间的组合方法。关键的是，两者都警告：若无批判性辨识力，学生有**设计固着**或审美锁定的风险，这重新框定了 [[higher-ed]] 中 [[teacher-role]] 的角色，从传授技艺转向辅导如何、何时以及为何把创意探索委派给生成式模型。[[creativity|创造性]]由此得以保存甚至放大——但只在细心的教学编排之下。
 
 - **促使重新考虑的对抗性 AI 智能体。** [[ai-agents-constructive-conflict-design-education-2026|与 AI 智能体的建设性冲突]]把设计思维引向 [[agentic-ai]]，以新手交互设计师测试对抗性与合作性 AI 角色（N=48）。对抗性条件产生了显著更多的设计迭代、对替代方案更广的探索，以及评分更高的最终设计——参与者发现冲突智能体令人沮丧但终究有帮助。这种生产性摩擦的动态，呼应 [[socratic-method]] 与 [[scaffolding]]，表明设计思维受益于挑战而非仅援助，这一发现对 [[student-experience|学生体验]]如何在 AI 增强的工作室情境中被设计具有意涵。
 
@@ -89,7 +89,7 @@ ai_assist:
 - [[professional-training]]
 - [[academic-integrity]]
 - [[open-source]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## 关联文章
 

@@ -93,7 +93,7 @@ PBL [[active-learning]]، [[experiential-learning]]، [[collaborative-learning]]
 - [[computational-thinking]]
 - [[higher-ed]]
 - [[pedagogy]] — چھتری: AI تعلیم میں تدریسی طریقے اور حکمت عملیاں
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## منسلک مضامین
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — جنریٹو AI کی معاونت والی تعلیم کے لیے امید افزا فریم ورک بہ طورِ مسئلہ پر مبنی اور منصوبے پر مبنی سیکھنا: منظم جائزے اور تین سطحی میٹا تجزیے سے ابھرتے ثبوت

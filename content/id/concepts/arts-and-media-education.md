@@ -1,5 +1,5 @@
 ---
-title: "Pendidikan Seni, Desain, dan Media"
+title: Pendidikan Seni dan Media
 created: "2026-09-16T14:29:36-04:00"
 type: concept
 foundations: [design-thinking]
@@ -10,7 +10,7 @@ confidence: medium
 audience: [instructors, learners, instructional designers, curriculum designers]
 level: [higher ed]
 updated: "2026-11-08T11:16:43-05:00"
-translation_of: "concepts/arts-design-and-media-education"
+translation_of: "concepts/arts-and-media-education"
 source_updated: "2026-11-04T15:40:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]

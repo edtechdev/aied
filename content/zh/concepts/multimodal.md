@@ -134,7 +134,7 @@ ai_assist:
 - [[ai-technologies]] — 总括：人工智能技术与技术手段（模型、大语言模型训练、机器人、RAG、代理式）
 - [[virtual-and-augmented-reality]] — 手势、语音与空间输入作为学习渠道
 - [[speech-and-voice-technologies]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 - [[sensor-and-gaze-analytics]]
 

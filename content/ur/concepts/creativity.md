@@ -107,7 +107,7 @@ ai_assist:
 - [[inquiry-based-learning]]
 - [[cognitive-offloading]]
 - [[scaffolding]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## منسلک مضامین
 - [[wei-genai-configurations-creative-phases-2026]] — تخلیقی مراحل میں جنریٹو AI کی ترتیبیں: فن اور ڈیزائن کی تعلیم میں تخلیقی کارکردگی اور فوری علم پر 2 × 2 تجربہ

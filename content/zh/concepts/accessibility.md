@@ -105,7 +105,7 @@ ai_assist:
 - [[virtual-and-augmented-reality]] — 头显、晕动症与设备可及性决定了谁能使用它
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — 过度宽泛的规则、缺陷证据与合理调整的总括页面
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## 关联文章
 

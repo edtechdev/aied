@@ -54,7 +54,7 @@ VR/AR에 대한 논거는 정보 전달이 아니라 현장감과 [[embodied-lea
 
 그것의 공백들이 이 패턴의 현재의 최전선을 규정합니다. 평가는 객관적 지표와 단일 영역 전문가 사용자였고 학습자가 아니었습니다. 자동화된 [[assessment]]나 [[adaptive-learning|adaptive feedback]]이 없었습니다. 그리고 조수는 주어진 문서를 넘어설 수 없어, 기관 특수적 절차와 드문 시나리오는 그것의 역량 밖에 놓입니다. 다시 말해 몰입형 환경 안의 조력 지능은 여전히 대부분 **안내**이지 측정이 아니며, 손을 자유롭게 한 안내가 전혀 사용 가능할 만큼 빠르게 만드는 것은 [[llm|model inference]]을 로컬 GPU 백엔드로 외주화한 바로 그 플랫폼 구조입니다.
 
-그 빠진 측정에 대한 현재까지 가장 분명한 시도는 임상 환경이 아니라 직업 [[arts-design-and-media-education|설계 스튜디오]]에서 나왔습니다. 12-week 실내 설계 수업에서, 디지털 인간으로 렌더링된 LLM 기반 조수를 갖춘 VR 환경(헤드셋과 3D 모형화 도구)이 전통적인 [[project-based-learning|project-based]] 수업과 비교되었으며, 조수는 단계별로 구별되는 역할을 부여받았습니다. 자원 추천과 과제 분해, 지식 지도를 동반한 층위화된 질문, 모의 설계 효과와 결함 탐지, 그런 다음 교사를 위한 담론 기록([[ai-ive-pbl-vocational-design-creativity-2026|Jin et al., 2026]]). 유효 응답 63건에 걸쳐 몰입형+에이전트 조건은 유의하게 더 높은 설계 능력(η²p = .138)과 창의적 능력(η²p = .111), 인지적(d = 0.90) 및 행동적(d = 0.75) [[student-engagement|engagement]], 동기(d = 0.74)와 만족도(d = 0.69)를 산출했으며, 보고된 [[cognitive-offloading|cognitive load]]는 *낮았고* 높지 않았습니다(d = −0.52). 저자들은 이것을 조수가 검색과 학제 간 통합 노력을 줄여 준 덕으로 돌립니다. 두 가지 한계가 이것을 질문을 해결하지 못하도록 붙잡습니다. 관념적 새로움과 [[affective-computing|affective]] 참여는 움직이지 않았고, 모든 결과는 [[self-report-measures|self-report]]이며 산출물 평정이나 헤드셋 로그가 없습니다.
+그 빠진 측정에 대한 현재까지 가장 분명한 시도는 임상 환경이 아니라 직업 [[arts-and-media-education|설계 스튜디오]]에서 나왔습니다. 12-week 실내 설계 수업에서, 디지털 인간으로 렌더링된 LLM 기반 조수를 갖춘 VR 환경(헤드셋과 3D 모형화 도구)이 전통적인 [[project-based-learning|project-based]] 수업과 비교되었으며, 조수는 단계별로 구별되는 역할을 부여받았습니다. 자원 추천과 과제 분해, 지식 지도를 동반한 층위화된 질문, 모의 설계 효과와 결함 탐지, 그런 다음 교사를 위한 담론 기록([[ai-ive-pbl-vocational-design-creativity-2026|Jin et al., 2026]]). 유효 응답 63건에 걸쳐 몰입형+에이전트 조건은 유의하게 더 높은 설계 능력(η²p = .138)과 창의적 능력(η²p = .111), 인지적(d = 0.90) 및 행동적(d = 0.75) [[student-engagement|engagement]], 동기(d = 0.74)와 만족도(d = 0.69)를 산출했으며, 보고된 [[cognitive-offloading|cognitive load]]는 *낮았고* 높지 않았습니다(d = −0.52). 저자들은 이것을 조수가 검색과 학제 간 통합 노력을 줄여 준 덕으로 돌립니다. 두 가지 한계가 이것을 질문을 해결하지 못하도록 붙잡습니다. 관념적 새로움과 [[affective-computing|affective]] 참여는 움직이지 않았고, 모든 결과는 [[self-report-measures|self-report]]이며 산출물 평정이나 헤드셋 로그가 없습니다.
 
 비교 가능한 [[design-education|설계 교육]] 배치와의 대조는 교훈적입니다. [[generative-ai|GenAI]]와 다중 사용자 XR 파이프라인을 사용한 건축 스튜디오는 그것을 사용한 팀들의 설계 [[self-efficacy]] 자신감이 *하락*하고 맹점 패널 평정에서는 이점이 없음을 발견했습니다. 둘의 차이는 하드웨어보다 오케스트레이션에 있습니다. 직업 연구는 개입 전에 단계 구조, 각 단계에서 조수의 역할, 평가 루브릭을 고정하고, 생산적 능력을 관념적 새로움과 별도로 측정했습니다.
 
@@ -105,7 +105,7 @@ VR/AR에 대한 가장 강한 증거는 비교적이고 [[discipline-specific-ai
 - [[trust-calibration]] — 충실도, 그리고 그것의 한계에 대한 학습자의 인식
 - [[cognitive-offloading]] — 외재적 부하로서의 지연과 불안정
 - [[edtech-platform]] — 동기화, 지연, 다중 지점 현장감
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 - [[ai-avatars-and-synthetic-instructors]]
 

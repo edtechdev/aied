@@ -131,7 +131,7 @@ Le repli porte un coût probatoire que les preuves issues des dossiers d'affaire
 - [[ai-education]]
 - [[feedback]]
 - [[summative-assessment]] — Évaluation sommative : formats résistants à l'IA (examens oraux, surveillés, à livre fermé)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 - [[reflection]]
 

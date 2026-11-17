@@ -98,7 +98,7 @@ El ABP se conecta con el [[active-learning|aprendizaje activo]], el [[experienti
 - [[computational-thinking]]
 - [[higher-ed]]
 - [[pedagogy]] — Marco general: pedagogías y estrategias docentes en la educación en IA
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Artículos conectados
 

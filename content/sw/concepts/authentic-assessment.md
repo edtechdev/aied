@@ -121,7 +121,7 @@ Kurejea hubeba gharama ya ushahidi ambayo ushahidi wa faili unaifanya kuonekana.
 - [[ai-education]]
 - [[feedback]]
 - [[summative-assessment]] — Tathmini ya jumla: muundo unaostahimili AI (mitihani ya mdomo, iliyosimamiwa, ya kitabu kilichofungwa)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 - [[reflection]]
 

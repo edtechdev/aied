@@ -104,7 +104,7 @@ ai_assist:
 - [[virtual-and-augmented-reality]] — гарнитуры, морская болезнь от движения и доступ к устройствам решают, кто может их использовать
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — зонтичная страница для избыточно широких правил, дефектных доказательств и разумной корректировки
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Связанные статьи
 

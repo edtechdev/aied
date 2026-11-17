@@ -119,7 +119,7 @@ ai_assist:
 - [[ai-education]]
 - [[feedback]]
 - [[summative-assessment]] — 총괄평가: AI에 강건한 형식(구두, 감독, 폐쇄 서적 시험)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 - [[reflection]]
 

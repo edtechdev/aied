@@ -123,7 +123,7 @@ ai_assist:
 - [[problem-based-learning]] — למידה מבוססת בעיות עם בינה מלאכותית
 - [[teacher-role]] — תפקיד המורה המתפתח בכיתות בינה מלאכותית
 - [[stakeholders]] — מטרייה: אנשים וקהלים בחינוך עם בינה מלאכותית (לומדים, מורים, מעצבים, מנהלים, קובעי מדיניות)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[student-support-and-success]] — ייעוץ, פנייה, הפניה, והקצאת תמיכה — הצד המוסדי של הצלחת הסטודנט
 
 ## מאמרים מחוברים

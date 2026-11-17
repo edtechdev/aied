@@ -107,7 +107,7 @@ ai_assist:
 
 人工智能被应用于各个学科与教育层次。本知识库的[[discipline-specific-aied|各学科 AIED 概览]]梳理了学科领域的覆盖范围，并与[[learning-sciences|学习科学]]并列，后者不是一门被教授的科目，而是研究学习本身的横贯性研究领域，它把学科内容视为众多变量之一：
 
-- **学科领域：**[[math-education|数学]]、[[statistics-and-data-science-education|统计与数据科学]]、[[physics-education|物理]]、[[chemistry-education|化学]]、[[biology-education|生物]]、[[cs-education|计算机科学]]、[[engineering-education|工程]]、[[stem-education|STEM]]、[[writing-education|写作]]、[[reading-education|阅读教育]]、[[language-learning|语言学习]]、[[english-education|英语教育（EAP/EFL/ESL）]]、[[libraries|图书馆与信息科学]]、[[science-education|科学教育]]、[[environmental-education|环境教育]]、[[business-education|商科、经济与管理]]、[[humanities-education|人文与社会科学]]、[[civic-and-political-education|公民与政治教育]]、[[arts-design-and-media-education|艺术、设计与媒体教育]]、[[medical-education|医学与医疗卫生专业]]、[[legal-education|法律教育]]，以及专业与应用脉络，包括[[nursing-education|护理]]、[[information-technology|信息技术]]、[[vocational-education|职业教育与培训]]与[[design-education|设计教育]]。
+- **学科领域：**[[math-education|数学]]、[[statistics-and-data-science-education|统计与数据科学]]、[[physics-education|物理]]、[[chemistry-education|化学]]、[[biology-education|生物]]、[[cs-education|计算机科学]]、[[engineering-education|工程]]、[[stem-education|STEM]]、[[writing-education|写作]]、[[reading-education|阅读教育]]、[[language-learning|语言学习]]、[[english-education|英语教育（EAP/EFL/ESL）]]、[[libraries|图书馆与信息科学]]、[[science-education|科学教育]]、[[environmental-education|环境教育]]、[[business-education|商科、经济与管理]]、[[humanities-education|人文与社会科学]]、[[civic-and-political-education|公民与政治教育]]、[[arts-and-media-education|艺术、设计与媒体教育]]、[[medical-education|医学与医疗卫生专业]]、[[legal-education|法律教育]]，以及专业与应用脉络，包括[[nursing-education|护理]]、[[information-technology|信息技术]]、[[vocational-education|职业教育与培训]]与[[design-education|设计教育]]。
 
 ## 层次与情境
 

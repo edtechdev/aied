@@ -139,7 +139,7 @@ Les systèmes multimodaux élargissent aussi l'accès et l'[[personalized-learni
 - [[ai-technologies]] — Parapluie : technologies et techniques d'IA (modèles, entraînement de grands modèles de langue, robotique, RAG, agentique)
 - [[virtual-and-augmented-reality]] — le geste, la voix et l'entrée spatiale comme canaux d'apprentissage
 - [[speech-and-voice-technologies]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 - [[sensor-and-gaze-analytics]]
 

@@ -39,7 +39,7 @@ Designtänkande ligger i skärningspunkten mellan kreativitet, hantverk och krit
 
 ## Evidens från kunskapsbasen
 
-- **GenAI i designstudior och arkitektur.** Två arkitekturinriktade studier förankrar begreppet i [[arts-design-and-media-education|studiopedagogik]]. [[genai-architecture-education|Gen-AI-tecture]] fann att ett lokalt drivet, [[discipline-specific-aied|disciplinspecifikt]] verktyg förbättrade kreativt flyt, breddade deltagandet över olika elevprofiler och stärkte tilltron till AI-stödda arbetsflöden — en viktig signal för [[equity-in-ai-education]] i takt med att visuellt-spatial design blir mer tillgänglig. [[genai-architectural-design-studios|GenAI i arkitekturens designstudior]] fann på samma sätt att elever använde GenAI som visuella stimuli och inspirationsresurser i tidig idégenerering, och som en kombinatorisk metod för att vidga lösningsrymden under utvecklingen. Avgörande är att båda varnar för att elever utan kritiskt omdöme riskerar **designfixering** eller estetisk inlåsning, vilket omramar [[teacher-role]] inom [[higher-ed]] från att förmedla hantverk till att coacha hur, när och varför kreativ utforskning ska delegeras till generativa modeller. [[creativity|Kreativitet]] bevaras därmed och förstärks till och med — men bara under noggrann pedagogisk orkestrering.
+- **GenAI i designstudior och arkitektur.** Två arkitekturinriktade studier förankrar begreppet i [[arts-and-media-education|studiopedagogik]]. [[genai-architecture-education|Gen-AI-tecture]] fann att ett lokalt drivet, [[discipline-specific-aied|disciplinspecifikt]] verktyg förbättrade kreativt flyt, breddade deltagandet över olika elevprofiler och stärkte tilltron till AI-stödda arbetsflöden — en viktig signal för [[equity-in-ai-education]] i takt med att visuellt-spatial design blir mer tillgänglig. [[genai-architectural-design-studios|GenAI i arkitekturens designstudior]] fann på samma sätt att elever använde GenAI som visuella stimuli och inspirationsresurser i tidig idégenerering, och som en kombinatorisk metod för att vidga lösningsrymden under utvecklingen. Avgörande är att båda varnar för att elever utan kritiskt omdöme riskerar **designfixering** eller estetisk inlåsning, vilket omramar [[teacher-role]] inom [[higher-ed]] från att förmedla hantverk till att coacha hur, när och varför kreativ utforskning ska delegeras till generativa modeller. [[creativity|Kreativitet]] bevaras därmed och förstärks till och med — men bara under noggrann pedagogisk orkestrering.
 
 - **Motståndsinriktade AI-agenter som får designern att tänka om.** [[ai-agents-constructive-conflict-design-education-2026|Konstruktiva konflikter med AI-agenter]] för designtänkandet mot [[agentic-ai]] och prövar motståndsinriktade kontra samarbetsinriktade AI-roller med novisa interaktionsdesigners (N=48). Motståndsvillkoret gav signifikant fler designiterationer, bredare utforskning av alternativ och högre bedömda slutliga designer — deltagarna upplevde konfliktagenten som frustrerande men till slut hjälpsam. Denna produktiva friktionsdynamik, som påminner om [[socratic-method]] och [[scaffolding]], visar att designtänkande vinner på utmaning snarare än enbart hjälp, ett fynd med konsekvenser för hur [[student-experience]] utformas i AI-förstärkta studiomiljöer.
 
@@ -90,7 +90,7 @@ Designtänkande i AI-utbildning är djupt sammanflätat med [[human-ai-collabora
 - [[professional-training]]
 - [[academic-integrity]]
 - [[open-source]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Anslutna artiklar
 

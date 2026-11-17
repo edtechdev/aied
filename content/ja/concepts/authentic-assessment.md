@@ -124,7 +124,7 @@ ai_assist:
 - [[ai-education]]
 - [[feedback]]
 - [[summative-assessment]] — 総括的評価:AIに抵抗する形式(口頭、監督付き、閉鎖式の試験)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 - [[reflection]]
 

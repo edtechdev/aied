@@ -139,7 +139,7 @@ Une troisième voie durcit l'exercice lui-même : présenter les énoncés sous 
 - [[problem-based-learning]] — Apprentissage par problèmes avec l'IA
 - [[teacher-role]] — Évolution du rôle enseignant dans les classes avec IA
 - [[stakeholders]] — Parapluie : acteurs et publics de l'éducation à l'IA (apprenants, enseignants, concepteurs, administrateurs, décideurs)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[student-support-and-success]] — conseil, démarche proactive, orientation et allocation du soutien — le volet institutionnel de la réussite étudiante
 
 ## Articles liés

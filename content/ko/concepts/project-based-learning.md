@@ -93,7 +93,7 @@ PBL은 [[active-learning]], [[experiential-learning]], [[collaborative-learning]
 - [[computational-thinking]]
 - [[higher-ed]]
 - [[pedagogy]] — 포괄 개념: AI 교육의 교수법과 교수 전략
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## 연결된 문서
 

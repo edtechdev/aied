@@ -51,7 +51,7 @@ ai_assist:
 - **[[medical-education|医学教育]]** —— 临床模拟、[[reinforcement-learning|强化学习]]训练，以及健康专业教育中的基础学习原则。
 - **[[nursing-education|护理教育]]** —— 临床 strand 中最密的实证记录：虚拟病人的模拟、大语言模型推理支持与自适应平台，围绕专业身份的形成与能力同等框定，且窄到足以命名 AI 有据可查的收益止步之处（复杂精神运动技能与情感负荷的互动），而非把健康专业当作一个案例。
 - **[[vocational-education|职业教育]]** —— 面向特定行业与技术职业的初始准备，由资格框架组织、以学习者能用设备做什么来评估。它延伸到 [[professional-training|专业培训]] 所覆盖的专业培训与职场[[lifelong-learning|技能提升]]之外、通往尚未就业者，其反复出现的设计问题是：实践中最费人力的部分 AI 能吸收哪些而不取代产生能力的重复。
-- **[[design-education|设计教育]]** —— 产品、服务、交互、室内与建筑设计中的工作室式专业形成，其中可见过程是被评估的对象，而生成式工具使抛光的制品变得廉价：它收窄了 [[arts-design-and-media-education|艺术、设计与媒介教育]] 所覆盖的工作室学科至专业设计管线，于是评论、[[eportfolio|作品集]]与规制（而非材料与表演性实践）承载论证。
+- **[[design-education|设计教育]]** —— 产品、服务、交互、室内与建筑设计中的工作室式专业形成，其中可见过程是被评估的对象，而生成式工具使抛光的制品变得廉价：它收窄了 [[arts-and-media-education|艺术、设计与媒介教育]] 所覆盖的工作室学科至专业设计管线，于是评论、[[eportfolio|作品集]]与规制（而非材料与表演性实践）承载论证。
 - **[[engineering-education|工程教育]]** —— 专业形成、设计与 [[experiential-learning|动手学习]]、[[ethics|伦理的]] AI 使用、[[embodied-learning|具身的]] 评估，以及工程中的劳动力准备。
 - **[[business-education|商科教育]]** —— 商业、经济与管理教育中的 AI：学生 informed 的生成式 AI 框架、经建构性对齐的 [[curriculum-design|课程]] 整合，以及为 AI 整合的专业实践做准备。
 - **[[humanities-education|人文教育]]** —— 人文与社会科学中的解释性认知、署名与意义建构。
@@ -126,7 +126,7 @@ ai_assist:
 - [[k-12]]
 - [[higher-ed]]
 - [[equity-in-ai-education]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[design-education]]
 - [[information-technology]]
 - [[learning-sciences]]

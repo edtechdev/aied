@@ -124,7 +124,7 @@ ai_assist:
 - [[ai-education]]
 - [[feedback]]
 - [[summative-assessment]] — 总结性评估：抗 AI 的形式（口试、监考、闭卷考试）
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[reflection]]
 
 ## 关联文章

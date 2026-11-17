@@ -1,7 +1,7 @@
 ---
 title: Virtual and Augmented Reality
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T22:52:00-05:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -45,7 +45,7 @@ The second direction is where AI stops authoring and starts teaching inside the 
 
 Its gaps define the current frontier of the pattern. Evaluation was objective metrics plus a single domain-expert user, not learners; there was no automated [[assessment|assessment]] or [[adaptive-learning|adaptive feedback]]; and the assistant cannot exceed the documents it was given, so institution-specific protocols and rare scenarios sit outside its competence. In other words, the tutoring intelligence inside immersive environments is still mostly **guidance**, not measurement — and the same platform architecture, with [[llm|model inference]] offloaded to a local GPU backend, is what makes hands-free guidance fast enough to be usable at all.
 
-The clearest attempt to date at that missing measurement comes from a vocational [[arts-design-and-media-education|design studio]] rather than a clinical setting. In a 12-week interior-design course, a VR environment (headsets plus a 3D modeling tool) with an LLM-backed assistant rendered as a digital human was compared against conventional [[project-based-learning|project-based]] instruction. The assistant was assigned a distinct role per phase — resource recommendation and task decomposition, layered questioning with knowledge maps, simulated design effects and flaw detection, then discourse logging for the teacher ([[ai-ive-pbl-vocational-design-creativity-2026|Jin et al., 2026]]). Across 63 valid responses the immersive-plus-agent condition produced significantly higher design ability (η²p = .138) and creative ability (η²p = .111), cognitive (d = 0.90) and behavioral (d = 0.75) [[student-engagement|engagement]], and motivation (d = 0.74) and satisfaction (d = 0.69). Reported [[cognitive-offloading|cognitive load]] was *lower*, not higher (d = −0.52), which the authors credit to the assistant cutting search and cross-disciplinary integration effort. Two limits keep this from settling the question: ideational novelty and [[affective-computing|affective]] engagement did not move, and every outcome is [[self-report-measures|self-report]], with no artifact ratings or headset logs.
+The clearest attempt to date at that missing measurement comes from a vocational [[arts-and-media-education|design studio]] rather than a clinical setting. In a 12-week interior-design course, a VR environment (headsets plus a 3D modeling tool) with an LLM-backed assistant rendered as a digital human was compared against conventional [[project-based-learning|project-based]] instruction. The assistant was assigned a distinct role per phase — resource recommendation and task decomposition, layered questioning with knowledge maps, simulated design effects and flaw detection, then discourse logging for the teacher ([[ai-ive-pbl-vocational-design-creativity-2026|Jin et al., 2026]]). Across 63 valid responses the immersive-plus-agent condition produced significantly higher design ability (η²p = .138) and creative ability (η²p = .111), cognitive (d = 0.90) and behavioral (d = 0.75) [[student-engagement|engagement]], and motivation (d = 0.74) and satisfaction (d = 0.69). Reported [[cognitive-offloading|cognitive load]] was *lower*, not higher (d = −0.52), which the authors credit to the assistant cutting search and cross-disciplinary integration effort. Two limits keep this from settling the question: ideational novelty and [[affective-computing|affective]] engagement did not move, and every outcome is [[self-report-measures|self-report]], with no artifact ratings or headset logs.
 
 The contrast with a comparable [[design-education|design education]] deployment is instructive. An architectural studio using a [[generative-ai|GenAI]] plus multi-user XR pipeline found *declining* design [[self-efficacy|self-efficacy]] confidence for the teams that used it and no advantage in blinded panel ratings. The difference between the two is less the hardware than the orchestration: the vocational study fixed the phase structure, the assistant's role in each phase, and the evaluation rubric before the intervention, and measured productive ability separately from ideational novelty.
 
@@ -97,7 +97,7 @@ The same logic explains why presence is not automatically good. Motion sickness,
 - [[trust-calibration]] — fidelity, and the learner's awareness of its limits
 - [[cognitive-offloading]] — latency and instability as extraneous load
 - [[edtech-platform]] — synchronisation, latency and multi-site presence
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[ai-avatars-and-synthetic-instructors]]
 
 ## Connected Articles

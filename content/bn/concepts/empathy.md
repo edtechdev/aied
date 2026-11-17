@@ -110,7 +110,7 @@ AI তিনটি পৃথক বিন্দুতে প্রবেশ ক�
 - [[ai-sycophancy]]
 - [[pedagogical-safety]]
 - [[well-being]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## সংযুক্ত নিবন্ধ
 

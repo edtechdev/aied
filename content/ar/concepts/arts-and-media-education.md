@@ -1,5 +1,5 @@
 ---
-title: تعليم الفنون والتصميم والإعلام
+title: تعليم الفنون والإعلام
 created: "2026-10-12T18:10:00-04:00"
 updated: "2026-11-08T10:26:27-05:00"
 type: concept
@@ -10,7 +10,7 @@ assessment: [authentic-assessment]
 confidence: medium
 audience: [instructors, learners, instructional designers, curriculum designers]
 level: [higher ed]
-translation_of: concepts/arts-design-and-media-education
+translation_of: concepts/arts-and-media-education
 source_updated: "2026-11-04T15:40:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]

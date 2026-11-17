@@ -51,7 +51,7 @@ ai_assist:
 - **把 AI 嵌入学科之中，而非置于其旁：** 一门基于项目的热工[[curriculum-design|课程]]把机器学习折入从入门、应用到进阶的既有热工主题中，而非增设计算机课程，而仅满足最低入学要求的本科生产出的项目弱于研究生同伴（[[mechanical-engineering-ai-curriculum-2026|Li 等（2026）]]）。
 - **面向[[quantitative-research|定量]]工程课程的[[intelligent-tutoring|AI 辅导]]与反馈：** [[yin-arthur-ai-teaching-assistant-engineering-econ-2026|Yin 等（2026）]]引入了 Arthur，一个在本科工程经济学课程中就 Calculated Formula Questions 提供实时个性化反馈的 AI 教学助手——这是一个笔答、非结构化解答曾挡住此前 AI 支持的领域。它的全生命周期流水线（整理以往评过分的手写提交、随机遮蔽的[[machine-learning|数据增强]]、逐题的 XGBoost 诊断主干，以及一个基于对话的题库网页界面）为缺乏结构化数字数据的工程课程提供了一条可扩展的[[ai-feedback-quality|AI 反馈]]路径，且该框架被设计为可推广到其他工程学科的 CFQ。
 - **面向可持续性的 AI，是整合而非模块化的。** 四支柱 AI-SEE 框架（智能驱动、绿色赋能、责任引领、实践融合）把 AI 分布到工程课程作业中；在一个 144 名学生的交通工程案例中，学生报告了个人、学业、专业与社会各层面的投入，而可持续性推理被带进了家庭与同伴网络（[[liu-ai-sustainable-engineering-education-2026|Liu 等（2026）]]）。
-- **工具丰富的工作室会在不改进产物的同时压低效能。** 在一个 27 人的[[arts-design-and-media-education|建筑设计工作室]]中，使用生成式 AI 加[[virtual-and-augmented-reality|XR]]流水线的团队在设计[[self-efficacy]]（β = −1.675）与结果预期（β = −2.088）上的前后降幅大于对照组，而每人一副头显并未产生协同的协作（[[genai-xr-architectural-design-education-2026|Xiao 等，2026]]）。
+- **工具丰富的工作室会在不改进产物的同时压低效能。** 在一个 27 人的[[arts-and-media-education|建筑设计工作室]]中，使用生成式 AI 加[[virtual-and-augmented-reality|XR]]流水线的团队在设计[[self-efficacy]]（β = −1.675）与结果预期（β = −2.088）上的前后降幅大于对照组，而每人一副头显并未产生协同的协作（[[genai-xr-architectural-design-education-2026|Xiao 等，2026]]）。
 
 - **在反驳压力下，决定反馈可靠性的是模型选择，而非提示。**[[apostolakis-trusstutor-bench-statics-2026|Apostolakis 等人（2026）]]构建了 200 道经核验的二维桁架题，让十三个模型经历三种姿态：求解、在学生坚称有误时确认一个正确解法、以及定位一处注入的错误。求解准确率从 64.5% 到 97.0%，每个模型都至少捕获 90.4% 的注入错误，因此两者都无法区分各模型；对反驳的抵抗力则做到了，范围从 46.5% 到 98.5%。对一门静力学课程而言，辅导风险不是最终答案错误，而是当学生错误地怀疑正确工作时模型却表示同意；作者还指出，如果可靠性随付费档位变化，学生收到的反馈就会随其机构能购买什么而变化。
 

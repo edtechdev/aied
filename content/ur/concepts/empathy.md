@@ -110,7 +110,7 @@ AI تین الگ مقامات پر داخل ہوتا ہے، اور انہیں م
 - [[ai-sycophancy]]
 - [[pedagogical-safety]]
 - [[well-being]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## منسلک مضامین
 

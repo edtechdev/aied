@@ -117,7 +117,7 @@ La créativité se rattache à la [[critical-thinking]] et à l'apprentissage [[
 - [[inquiry-based-learning]]
 - [[cognitive-offloading]]
 - [[scaffolding]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Articles liés
 - [[wei-genai-configurations-creative-phases-2026]] — Configurations d'IA générative selon les phases créatives : une expérience 2 × 2 sur la performance créative et les connaissances immédiates en enseignement de l'art et du design

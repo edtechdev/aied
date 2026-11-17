@@ -90,7 +90,7 @@ A video with accurate captions and a properly tagged transcript is *accessible*;
 - [[virtual-and-augmented-reality]] — headsets, motion sickness and device access decide who can use it
 - [[speech-and-voice-technologies]]
 - [[legal-issues-and-risks]] — the umbrella page for over-broad rules, defective evidence and reasonable adjustment
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Connected Articles
 - [[chan-ai-institutionalization-index-global-universities-2026]] — Chan (2026): 0% of 100 elite universities publish an AI accessibility policy while 93% deploy AI campus services

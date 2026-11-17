@@ -124,7 +124,7 @@ ai_assist:
 - [[ai-education]]
 - [[feedback]]
 - [[summative-assessment]] — সমষ্টিগত মূল্যায়ন: এআই-প্রতিরোধী বিন্যাস (মৌখিক, তত্ত্বাবধানে করা, বন্ধ-বই পরীক্ষা)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 - [[reflection]]
 

@@ -105,7 +105,7 @@ For education this cuts two ways. A [[curriculum-design|curriculum]] that uses A
 - [[ai-sycophancy]]
 - [[pedagogical-safety]]
 - [[well-being]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Connected Articles
 

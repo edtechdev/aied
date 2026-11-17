@@ -1,5 +1,5 @@
 ---
-title: 예술, 디자인 및 미디어 교육
+title: 예술 및 미디어 교육
 created: "2026-09-16T14:29:36-04:00"
 updated: "2026-11-08T00:14:58-05:00"
 type: concept
@@ -10,7 +10,7 @@ assessment: [authentic-assessment]
 confidence: medium
 audience: [instructors, learners, instructional designers, curriculum designers]
 level: [higher ed]
-translation_of: concepts/arts-design-and-media-education
+translation_of: concepts/arts-and-media-education
 source_updated: "2026-11-04T15:40:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]

@@ -128,7 +128,7 @@ El repliegue conlleva un coste probatorio que la evidencia de los expedientes ha
 - [[ai-education]]
 - [[feedback]]
 - [[summative-assessment]] — Evaluación sumativa: formatos resistentes a la IA (orales, supervisados, exámenes a libro cerrado)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[reflection]]
 
 ## Artículos conectados

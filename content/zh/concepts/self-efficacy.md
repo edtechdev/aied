@@ -42,7 +42,7 @@ ai_assist:
 
 ### 自我效能如何出现在知识库的研究中
 
-- **在生成式 AI + XR 工作室工作中下降：**在一个 27 名学生的建筑[[arts-design-and-media-education|设计工作室]]中，使用[[generative-ai|生成式 AI]]与多用户 XR 管线的团队，在设计自我效能信心（β = −1.675, p = 0.021）与结果预期（β = −2.088, p = 0.002）上比继续正常工作流的团队有更大的相对前后下降，而其汇报的盲评小组评分无显著差异（[[genai-xr-architectural-design-education-2026|Xiao 等人，2026]]）。工具丰富的环境即使在工作本身被评为等值时，也可能压低效能信念。
+- **在生成式 AI + XR 工作室工作中下降：**在一个 27 名学生的建筑[[arts-and-media-education|设计工作室]]中，使用[[generative-ai|生成式 AI]]与多用户 XR 管线的团队，在设计自我效能信心（β = −1.675, p = 0.021）与结果预期（β = −2.088, p = 0.002）上比继续正常工作流的团队有更大的相对前后下降，而其汇报的盲评小组评分无显著差异（[[genai-xr-architectural-design-education-2026|Xiao 等人，2026]]）。工具丰富的环境即使在工作本身被评为等值时，也可能压低效能信念。
 - **AI 自我效能与职业准备度：**[[ai-literacy-career-adaptability-business-2026|关于 AI 准备度的研究]]表明，AI 自我效能调节 AI 素养与 AI 准备度之间的关系：素养只有在学习者对使用 AI 有信心时才转化为准备度，且自我效能直接预测[[career-development-and-readiness|职业适应性]]。
 
 - **信心并不总是杠杆。**一项对 502 名大学教师的横断面 SEM 发现，技术自我效能只是 AI [[well-being|幸福感]]的弱预测因子（β = 0.082），而 AI 素养主导（β = 0.713），这为"信心把关 AI 结果"的主张设界：对幸福感而言，知识压过了信心（[[faculty-ai-well-being-social-supports-2026|Liu 等人（2026）]]）。

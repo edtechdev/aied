@@ -38,7 +38,7 @@ ai_assist:
 
 ## 지식 기반으로부터의 증거
 
-- **설계 스튜디오와 건축에서의 GenAI.** 두 건축 중심 연구가 이 개념을 [[arts-design-and-media-education|스튜디오 교수법]]에 기반을 둡니다. [[genai-architecture-education|Gen-AI-tecture]]는 지역에서 실행되는 [[discipline-specific-aied|영역 특수적]] 도구가 창의적 유창성을 향상하고 다양한 학습자 프로파일에 걸쳐 참여를 넓히며 AI 지원 작업 흐름에 대한 자신감을 강화했음을 발견했습니다. 이는 시공간적 설계가 더 접근 가능해짐에 따라 [[equity-in-ai-education]]에 대한 중요한 신호입니다. [[genai-architectural-design-studios|GenAI in architectural design studios]] 역시 학생들이 초기 관념화에서 GenAI를 시각적 자극과 영감 자원으로, 그리고 개발 중 해법 공간을 확장하는 조합적 방법으로 사용했음을 발견했습니다. 결정적으로, 둘 모두 비판적 분별 없이는 학생들이 **설계 고착**이나 미적 고정의 위험을 무릅쓴다고 경고하며, [[higher-ed]]에서 [[teacher-role]]을 기예의 전달에서 생성 모형으로 창의적 탐색을 언제, 어떻게, 왜 위임할지 코칭하는 것으로 재규정합니다. 그렇게 [[creativity|Creativity]]은 보존되고 심지어 증폭됩니다 — 그러나 세심한 교수법적 조율 아래에서만 그렇습니다.
+- **설계 스튜디오와 건축에서의 GenAI.** 두 건축 중심 연구가 이 개념을 [[arts-and-media-education|스튜디오 교수법]]에 기반을 둡니다. [[genai-architecture-education|Gen-AI-tecture]]는 지역에서 실행되는 [[discipline-specific-aied|영역 특수적]] 도구가 창의적 유창성을 향상하고 다양한 학습자 프로파일에 걸쳐 참여를 넓히며 AI 지원 작업 흐름에 대한 자신감을 강화했음을 발견했습니다. 이는 시공간적 설계가 더 접근 가능해짐에 따라 [[equity-in-ai-education]]에 대한 중요한 신호입니다. [[genai-architectural-design-studios|GenAI in architectural design studios]] 역시 학생들이 초기 관념화에서 GenAI를 시각적 자극과 영감 자원으로, 그리고 개발 중 해법 공간을 확장하는 조합적 방법으로 사용했음을 발견했습니다. 결정적으로, 둘 모두 비판적 분별 없이는 학생들이 **설계 고착**이나 미적 고정의 위험을 무릅쓴다고 경고하며, [[higher-ed]]에서 [[teacher-role]]을 기예의 전달에서 생성 모형으로 창의적 탐색을 언제, 어떻게, 왜 위임할지 코칭하는 것으로 재규정합니다. 그렇게 [[creativity|Creativity]]은 보존되고 심지어 증폭됩니다 — 그러나 세심한 교수법적 조율 아래에서만 그렇습니다.
 
 **마인드셋 자체는 측정 가능하며, 프로그램을 가로질러 움직입니다.** [[design-thinking-aigc-fashion-film-2026|Liu 등(2026)]]은 AIGC를 사용하는 패션 영상 디자인 학생 409명에서 디자인 씽킹 마인드셋의 다섯 차원을 타당화했고, 3학년 학생이 다섯 차원 모두에서 더 높았으며, 귀추적 추론(0.865)과 창의적 자신감(0.760)이 표준화 차이가 가장 컸습니다. 생성된 대안만으로는 입증되지 않는 [[design-education|디자인 교육]]의 성과입니다.
 
@@ -87,7 +87,7 @@ AI 교육에서 디자인 씽킹은 [[human-ai-collaboration]]과 깊이 얽혀 
 - [[professional-training]]
 - [[academic-integrity]]
 - [[open-source]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## 연결된 문서
 

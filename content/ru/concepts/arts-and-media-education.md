@@ -1,5 +1,5 @@
 ---
-title: Образование в области искусств, дизайна и медиа
+title: Образование в области искусств и медиа
 created: "2026-10-13T14:30:00-04:00"
 type: concept
 foundations: [design-thinking]
@@ -9,7 +9,7 @@ assessment: [authentic-assessment]
 confidence: medium
 audience: [instructors, learners, instructional designers, curriculum designers]
 level: [higher ed]
-translation_of: concepts/arts-design-and-media-education
+translation_of: concepts/arts-and-media-education
 source_updated: "2026-11-04T15:40:00-05:00"
 translation_note: "Автоматический перевод данной английской страницы, не проверенный носителем языка."
 contributors: [editor]

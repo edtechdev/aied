@@ -93,7 +93,7 @@ PBL terhubung ke pedagogi [[active-learning|pembelajaran aktif]], [[experiential
 - [[computational-thinking]]
 - [[higher-ed]]
 - [[pedagogy]] — Payung: pedagogi dan strategi pengajaran dalam pendidikan AI
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Artikel terkait
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — Pembelajaran berbasis masalah dan berbasis proyek sebagai kerangka menjanjikan bagi pendidikan yang didukung AI generatif: Bukti awal dari tinjauan sistematis dan meta-analisis tiga tingkat

@@ -137,7 +137,7 @@ ai_assist:
 - [[ai-technologies]] — מטרייה: טכנולוגיות וטכניקות של בינה מלאכותית (מודלים, אימון מודלים לשוניים גדולים, רובוטיקה, RAG, סוכניות)
 - [[virtual-and-augmented-reality]] — מחוות, קול וקלט מרחבי כערוצי למידה
 - [[speech-and-voice-technologies]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[sensor-and-gaze-analytics]]
 
 ## מאמרים מקושרים

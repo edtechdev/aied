@@ -115,7 +115,7 @@ The retreat carries an evidentiary cost that the case-file evidence makes visibl
 - [[ai-education]]
 - [[feedback]]
 - [[summative-assessment]] — Summative assessment: AI-resistant formats (oral, proctored, closed-book exams)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[reflection]]
 
 ## Connected Articles

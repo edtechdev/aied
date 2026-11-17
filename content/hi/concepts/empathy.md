@@ -110,7 +110,7 @@ AI तीन अलग बिंदुओं पर प्रवेश करत
 - [[ai-sycophancy]]
 - [[pedagogical-safety]]
 - [[well-being]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## संबंधित लेख
 

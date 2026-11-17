@@ -38,7 +38,7 @@ ai_assist:
 
 ## Introducción
 
-La educación en diseño es más estrecha que la [[arts-design-and-media-education|educación en artes, diseño y medios]], que abarca juntas las disciplinas de taller y de interpretación: arquitectura, música, artes visuales, medios y [[storytelling-in-education|narrativa digital]]. El tema son las disciplinas profesionales del diseño y su cadena de formación: la [[eportfolio|evaluación por portafolio]], las expectativas de acreditación, la [[career-development-and-readiness|empleabilidad]] y una cultura de la práctica que ha absorbido las herramientas generativas más rápido de lo que lo han hecho sus currículos.
+La educación en diseño es más estrecha que la [[arts-and-media-education|educación en artes, diseño y medios]], que abarca juntas las disciplinas de taller y de interpretación: arquitectura, música, artes visuales, medios y [[storytelling-in-education|narrativa digital]]. El tema son las disciplinas profesionales del diseño y su cadena de formación: la [[eportfolio|evaluación por portafolio]], las expectativas de acreditación, la [[career-development-and-readiness|empleabilidad]] y una cultura de la práctica que ha absorbido las herramientas generativas más rápido de lo que lo han hecho sus currículos.
 
 También es distinta del [[design-thinking|pensamiento de diseño]], un método de [[problem-solving|resolución de problemas]] centrado en las personas que se enseña en empresa, educación y derecho como habilidad transferible. En la educación en diseño el proceso no es un método aplicado a una disciplina: es la disciplina, y el taller es donde se enseña, se supervisa y se evalúa. La [[engineering-education|educación en ingeniería]] es el vecino profesional más cercano —también intensiva en diseño y también responsable ante la práctica—, pero la evaluación en ingeniería se apoya en artefactos calculables y en la responsabilidad de seguridad pública, mientras que la del diseño se apoya en la crítica y en una evidencia de proceso que las herramientas generativas pueden simular de forma visible.
 
@@ -88,7 +88,7 @@ Los problemas de evaluación aquí son inseparables de los profesionales. [[ai-i
 - [[generative-ai]]
 - [[ai-literacy]]
 - [[higher-ed]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[engineering-education]]
 - [[professional-training]]
 - [[assessment-validity]]

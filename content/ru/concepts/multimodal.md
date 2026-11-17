@@ -135,7 +135,7 @@ ai_assist:
 - [[ai-technologies]] — Зонтичная концепция: технологии и методы ИИ (модели, обучение LLM, робототехника, RAG, агентные системы)
 - [[virtual-and-augmented-reality]] — жесты, голос и пространственный ввод как каналы обучения
 - [[speech-and-voice-technologies]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[sensor-and-gaze-analytics]]
 
 ## Связанные статьи

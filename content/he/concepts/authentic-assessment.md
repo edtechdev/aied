@@ -128,7 +128,7 @@ ai_assist:
 - [[ai-education]]
 - [[feedback]]
 - [[summative-assessment]] — הערכה מסכמת: פורמטים עמידים בבינה מלאכותית (בעל-פה, בפיקוח, בספרים סגורים)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[reflection]]
 
 ## מאמרים מחוברים

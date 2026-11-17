@@ -127,7 +127,7 @@ Der Rückzug trägt einen evidentiellen Preis, den die Aktenbelege sichtbar mach
 - [[ai-education]]
 - [[feedback]]
 - [[summative-assessment]] — Summatives Assessment: KI-resistente Formate (mündlich, beaufsichtigt, geschlossen)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[reflection]]
 
 ## Verbundene Artikel

@@ -110,7 +110,7 @@ ai_assist:
 - [[inquiry-based-learning]]
 - [[cognitive-offloading]]
 - [[scaffolding]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Пов’язані статті
 - [[caeai-genai-architectural-design-creative-self-efficacy-2026]] — Генерація зображень на GenAI залишила продуктивність проєктування незмінною, але знизила загальну креативну само-фективність

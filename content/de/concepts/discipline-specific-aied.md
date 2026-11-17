@@ -55,7 +55,7 @@ Die Wissensbasis hat eigene Konzeptseiten für mehrere Fachbereiche:
 - **[[medical-education]]** — klinische Simulation, [[reinforcement-learning|Training mit bestärkendem Lernen]] und grundlegende Lernprinzipien in der Bildung von Gesundheitsberufen.
 - **[[nursing-education]]** — die dichteste empirische Aufzeichnung im klinischen Strang: Simulation mit virtuellen Patientinnen, LLM-Schlussfolgerunterstützung und adaptive Plattformen, gerahmt um Identitätsbildung im Beruf ebenso sehr wie um Kompetenz, und schmal genug, die Grenze zu benennen, wo der dokumentierte Nutzen von KI endet (komplexe psychomotorische Fähigkeit und emotional beladene Interaktion), statt Gesundheitsberufe als einen Fall zu behandeln.
 - **[[vocational-education]]** — Erstvorbereitung auf benannte Berufe und technische Berufe, organisiert über Qualifikationsrahmen und bewertet an dem, was Lernende mit Geräten tun können. Sie erstreckt sich über die professionelle Ausbildung und die berufliche [[lifelong-learning|Weiterbildung]] hinaus, die [[professional-training]] abdeckt, auf jene, die noch nicht beschäftigt sind, und ihre wiederkehrende Designfrage ist, welche teuer zu besetzenden Teile der Praxis KI absorbieren kann, ohne die Wiederholung zu verdrängen, die Kompetenz erzeugt.
-- **[[design-education]]** — studiopbasierte professionelle Formation in Produkt-, Service-, Interaktions-, Innen- und Architekturdesign, wo sichtbarer Prozess der bewertete Gegenstand ist und wo generative Werkzeuge das polierte Artefakt billig machen: sie verengt die Studioodisziplinen, die [[arts-design-and-media-education]] abdeckt, auf die professionelle Designpipeline, sodass Kritik, [[eportfolio|Portfolio]] und Regulierung statt materielle und performative Praxis das Argument tragen.
+- **[[design-education]]** — studiopbasierte professionelle Formation in Produkt-, Service-, Interaktions-, Innen- und Architekturdesign, wo sichtbarer Prozess der bewertete Gegenstand ist und wo generative Werkzeuge das polierte Artefakt billig machen: sie verengt die Studioodisziplinen, die [[arts-and-media-education]] abdeckt, auf die professionelle Designpipeline, sodass Kritik, [[eportfolio|Portfolio]] und Regulierung statt materielle und performative Praxis das Argument tragen.
 - **[[engineering-education]]** — professionelle Formation, Design und [[experiential-learning|praktisches Lernen]], [[ethics|ethischer]] Einsatz von KI, [[embodied-learning|verkörpertes]] Assessment und Vorbereitung auf den Arbeitsmarkt im Ingenieurwesen.
 - **[[business-education]]** — KI in der Wirtschafts-, Ökonomie- und Managementbildung: von Studierenden informierte GenAI-Frameworks, [[curriculum-design|Curriculum]]-Integration über konstruktive Ausrichtung und Vorbereitung auf KI-integrierte professionelle Praxis.
 - **[[humanities-education]]** — interpretative Kognition, Autorschaft und Sinnstiftung in Geistes- und Sozialwissenschaften.
@@ -130,7 +130,7 @@ Diese unterrepräsentierten Disziplinen würden von eigenen Konzeptseiten und zu
 - [[k-12]]
 - [[higher-ed]]
 - [[equity-in-ai-education]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[design-education]]
 - [[information-technology]]
 - [[learning-sciences]]

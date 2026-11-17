@@ -133,7 +133,7 @@ AI میں کثیرالوسیطیت سے مراد صرف متن کے بجائے �
 - [[ai-technologies]] — چھتری: AI ٹیکنالوجیاں اور تکنیکیں (ماڈل، LLM تربیت، روبوٹکس، RAG، ایجنٹک)
 - [[virtual-and-augmented-reality]] — اشارہ، آواز اور مقامی اِن پُٹ بطور سیکھنے کے ذرائع
 - [[speech-and-voice-technologies]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[sensor-and-gaze-analytics]]
 
 ## منسلک مضامین

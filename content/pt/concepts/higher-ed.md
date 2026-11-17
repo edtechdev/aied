@@ -121,7 +121,7 @@ Uma terceira rota endurece a própria tarefa: renderizar os enunciados como imag
 - [[problem-based-learning]] — Aprendizagem baseada em problemas com IA
 - [[teacher-role]] — Papel do professor em evolução em salas de aula com IA
 - [[stakeholders]] — Guarda-chuva: pessoas e públicos na educação com IA (quem aprende, professores, designers, gestores, formuladores de política)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[student-support-and-success]] — orientação, prospecção, encaminhamento e alocação de apoio — o lado institucional do sucesso estudantil
 
 ## Artigos conectados

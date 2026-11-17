@@ -93,7 +93,7 @@ PBL যুক্ত হয় [[active-learning]], [[experiential-learning]], [[
 - [[computational-thinking]]
 - [[higher-ed]]
 - [[pedagogy]] — ছাতা: এআই শিক্ষায় শিক্ষাবিদ্যা ও শিক্ষণ-কৌশল
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## সংযুক্ত নিবন্ধ
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — জেনারেটিভ এআই-সমর্থিত শিক্ষার প্রতিশ্রুতিময় কাঠামো হিসেবে সমস্যা-ভিত্তিক ও প্রকল্প-ভিত্তিক শেখা: পদ্ধতিগত পর্যালোচনা ও তিন-স্তরের মেটা-বিশ্লেষণ থেকে উদীয়মান প্রমাণ

@@ -1,5 +1,5 @@
 ---
-title: "Arts, design et enseignement des médias"
+title: Arts et enseignement des médias
 created: "2026-09-16T14:29:36-04:00"
 updated: "2026-11-15T11:59:25-05:00"
 type: concept
@@ -10,7 +10,7 @@ assessment: [authentic-assessment]
 confidence: medium
 audience: [instructors, learners, instructional designers, curriculum designers]
 level: [higher ed]
-translation_of: concepts/arts-design-and-media-education
+translation_of: concepts/arts-and-media-education
 source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]

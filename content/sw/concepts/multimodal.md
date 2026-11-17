@@ -133,7 +133,7 @@ Mifumo ya modaliti nyingi pia inapanua upatikanaji na [[personalized-learning|ub
 - [[ai-technologies]] — Bambo: teknolojia na mbinu za AI (mifano, mafunzo ya LLM, roboti, RAG, ya wakala)
 - [[virtual-and-augmented-reality]] — ishara za kubofya, sauti na nafasi kama njia za kujifunza
 - [[speech-and-voice-technologies]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 - [[sensor-and-gaze-analytics]]
 

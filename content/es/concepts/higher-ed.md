@@ -136,7 +136,7 @@ Una tercera vía endurece la propia tarea: presentar los enunciados como imágen
 - [[problem-based-learning]] — Aprendizaje basado en problemas con IA
 - [[teacher-role]] — La evolución del papel docente en las aulas con IA
 - [[stakeholders]] — Marco: las personas y los públicos de la educación con IA (estudiantado, profesorado, diseñadores, administración, responsables de políticas)
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 - [[student-support-and-success]] — asesoramiento, divulgación, derivación y asignación de apoyos: el lado institucional del éxito estudiantil
 
 ## Artículos conectados

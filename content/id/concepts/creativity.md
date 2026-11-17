@@ -107,7 +107,7 @@ Kreativitas terhubung dengan [[critical-thinking|berpikir kritis]] dan pembelaja
 - [[inquiry-based-learning]]
 - [[cognitive-offloading]]
 - [[scaffolding]]
-- [[arts-design-and-media-education]]
+- [[arts-and-media-education]]
 
 ## Artikel terkait
 - [[wei-genai-configurations-creative-phases-2026]] — Konfigurasi AI generatif lintas fase kreatif: eksperimen 2 × 2 tentang kinerja kreatif dan pengetahuan langsung dalam pendidikan seni dan desain

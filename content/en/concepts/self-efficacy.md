@@ -1,7 +1,7 @@
 ---
 title: Self-Efficacy
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-16T09:20:00-05:00"
+updated: "2026-11-16T22:50:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, self-efficacy, self-regulated-learning]
@@ -34,7 +34,7 @@ Self-efficacy is distinct from actual competence: it is a belief about capabilit
 
 ## How self-efficacy appears in the research
 
-- **Declines under GenAI-plus-XR studio work:** in a 27-student architectural [[arts-design-and-media-education|design studio]], teams using a [[generative-ai|GenAI]] and multi-user XR pipeline showed larger relative pre–post declines in design self-efficacy confidence (β = −1.675, p = 0.021) and outcome expectancy (β = −2.088, p = 0.002) than teams continuing the normal workflow, with no significant difference in blinded panel ratings of their presentations ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]). Tool-rich environments can depress efficacy beliefs even when the work itself is judged equivalent.
+- **Declines under GenAI-plus-XR studio work:** in a 27-student architectural [[arts-and-media-education|design studio]], teams using a [[generative-ai|GenAI]] and multi-user XR pipeline showed larger relative pre–post declines in design self-efficacy confidence (β = −1.675, p = 0.021) and outcome expectancy (β = −2.088, p = 0.002) than teams continuing the normal workflow. There was no significant difference in blinded panel ratings of their presentations ([[genai-xr-architectural-design-education-2026|Xiao et al., 2026]]). Tool-rich environments can depress efficacy beliefs even when the work itself is judged equivalent.
 - **A competence drop can be the learning.** In an asynchronous public speaking course, perceived competence fell from 5.63 to 5.12 (p < .01) and belief in being capable of doing well from 6.02 to 5.51 (p = .03), which [[petricini-ai-literacy-communication-equity-2026|Petricini and Cruz (2026)]] read as recalibration: meeting boundary cases tempered initial overconfidence.
 - **AI self-efficacy and career readiness:** [[ai-literacy-career-adaptability-business-2026|Research on AI readiness]] shows that AI self-efficacy moderates the relationship between AI literacy and AI readiness: literacy translates into readiness only when learners have confidence in using AI, and self-efficacy directly predicts [[career-development-and-readiness|career adaptability]].
 
