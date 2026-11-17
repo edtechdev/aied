@@ -1,7 +1,7 @@
 ---
 title: Benchmark
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-11-16T05:36:00-05:00"
+updated: "2026-11-17T08:35:00-05:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -9,6 +9,7 @@ connected_faqs: [reporting-interpreting-aied-research, checking-whether-educatio
 page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
+connected_resources: [gradebench, raid-benchmark-leaderboard, fab-ai-benchmark-leaderboard]
 reviewed_by: [editor]
 ---
 
@@ -72,6 +73,18 @@ Item-level run stability held at 79.0%-85.4% consistency, mean pairwise Cohen's 
 - **A scoring rule can be gamed by the model it trains.** An [[adaptive-learning|adaptivity]] metric maximized by repeating one best decision shows that benchmark design should publish the argmax, score adaptation as a difference, and report above-random baselines ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo & Fernández De la Cruz, 2026]]).
 
 The matching rule is part of the measurement, and its size is not marginal. [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah and colleagues (2026)]] scored 11 configurations — embedding models, [[generative-ai|generative]] LLM setups and one ReAct agent — against an ESCO-annotated benchmark of 926 job-posting samples carrying 1,696 gold skills, then re-scored each through an eight-layer matching pipeline. The pipeline ran from exact string match to a 0.85 embedding-similarity cutoff, and measured recall rose by 11 to 72 percentage points across all 11 configurations. The largest jump, 70.9 points, went to Gemini 2.5 Pro with chain-of-thought, whose descriptions matched gold labels semantically but rarely lexically — a swing the authors read as evidence that exact-match evaluation measured formatting as much as capability.
+
+## Where the benchmarks live
+
+A benchmark is not always a paper. Three surfaces now carry most of the operational reading, and they differ in what they let a reader check.
+
+Leaderboards turn a benchmark into a running comparison. [GradeBench](/resources/gradebench/) scores frontier models on 464 handwritten STEM answers from 45 university courses against the rubric items instructors actually selected, and the best model reaches 57.3% exact rubric match. The cost axis matters more than the ranking: a model 0.8 points behind costs about a seventh as much per thousand answers. It measures grading, not learning.
+
+Detector leaderboards answer a different question. The [RAID leaderboard](/resources/raid-benchmark-leaderboard/) scores detection models across domains, decoding settings and adversarial attacks, and its true-positive rate at a 1% false-positive rate is the column that matters at institutional scale, where 1% is hundreds of students.
+
+Some benchmarks exist to compare access rather than capability. [Fab AI](/resources/fab-ai-benchmark-leaderboard/) evaluates models for education in low- and middle-income countries across pedagogy, foundational literacy, SEND and visual reasoning, with price, parameter count and open-weight columns beside the score. The spread, frontier models in the low nineties and sub-2B open models between 21% and 43%, makes the deployment trade explicit.
+
+The distinction is worth keeping. A leaderboard score is a claim about a fixed item set and never about a classroom, and these three instruments disagree about what education measurement is for.
 
 ## Common Misconceptions
 

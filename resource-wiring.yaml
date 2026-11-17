@@ -375,3 +375,27 @@
   - agentic-ai
   - institutional-ai-infrastructure
   reason: An MCP server for Canvas LMS, listed on the two concept pages it serves.
+
+- resource: integrating-generative-ai-in-psychology-courses
+  reviewed: '2026-11-17'
+  hosts:
+  - social-sciences-education
+  reason: 'The volume is the course-level practice the social science page says psychology lacks: 20 chapters of instructors describing how they changed a specific psychology course, including the statistics and research-methods courses the page treats as method light. Listed there because that page names psychology as the cluster discipline whose evidence is thinnest, and this book is the concrete counter-example. Not listed on ai-literacy or academic-integrity: both pages already carry the arguments the book restates, and the book is about what to do in a course rather than about either concept.'
+
+- resource: gradebench
+  reviewed: '2026-11-17'
+  hosts:
+  - benchmark
+  reason: 'The benchmark page needs a live example of a leaderboard that scores grading against instructor rubric selections, which is what this resource publishes.'
+
+- resource: raid-benchmark-leaderboard
+  reviewed: '2026-11-17'
+  hosts:
+  - benchmark
+  reason: 'The benchmark page names detection leaderboards as a distinct evaluation surface; this resource is the canonical one.'
+
+- resource: fab-ai-benchmark-leaderboard
+  reviewed: '2026-11-17'
+  hosts:
+  - benchmark
+  reason: 'The benchmark page argues some benchmarks exist to compare access rather than capability; this resource is that case.'

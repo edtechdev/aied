@@ -1,7 +1,7 @@
 ---
 title: "TeachArena: Are language agents ready for realistic teaching work?"
 created: "2026-09-24T02:29:46-04:00"
-updated: "2026-09-24T05:16:25-04:00"
+updated: "2026-11-17T08:40:00-05:00"
 type: article
 sources: ['raw/papers/chen-teacharena-language-agents-realistic-teaching-2026.md']
 confidence: medium
@@ -21,7 +21,7 @@ discipline: [stem education]
 audience: [researchers, instructors, educational technology developers]
 page_kind: [evaluation]
 ---
-> **Synthesis:** Chen and colleagues ask whether language agents are ready for realistic teaching work, not for answering questions about teaching. TeachArena holds 354 audited tasks across three surfaces: professional [[pedagogy|pedagogical]] judgment under packaged evidence, situated multi-turn tutoring with a simulated learner, and end-to-end workflows in a Canvas-style [[edtech-platform|learning management system]]. The tasks span six [[teacher-role|teacher]]-work capabilities: diagnosing, designing, creating, teaching, communicating, and evaluating. Success means satisfying an evidence-to-trace contract, not matching a preferred answer style, and across 17 frontier models bounded judgment is largely manageable (mean 0.893) while situated tutoring and institutional action are not: rankings reshuffle and workflow scores top out at 0.704. The authors name this the knowing, teaching, and acting gap.
+> **Synthesis:** Chen and colleagues ask whether language agents are ready for realistic teaching work, not for answering questions about teaching. TeachArena holds 354 audited tasks across three surfaces: professional [[pedagogy|pedagogical]] judgment under packaged evidence, situated multi-turn tutoring with a [[simulating-students|simulated learner]], and end-to-end workflows in a Canvas-style [[edtech-platform|learning management system]]. The tasks span six [[teacher-role|teacher]]-work capabilities: diagnosing, designing, creating, teaching, communicating, and evaluating. Success means satisfying an evidence-to-trace contract, not matching a preferred answer style, and across 17 frontier models bounded judgment is largely manageable (mean 0.893) while situated tutoring and institutional action are not: rankings reshuffle and workflow scores top out at 0.704. The authors name this the knowing, teaching, and acting gap.
 
 ## Key Findings
 
@@ -30,6 +30,8 @@ page_kind: [evaluation]
 - **Stage rankings reshuffle.** Rank correlations are weak with judgment (0.24) and workflows (0.21), and the median model moves seven positions between its best and worst stage.
 - **Workflow execution does not saturate.** Claude Opus 4.8 has the highest overall estimate (0.803) and the only top-three placement on every stage, yet scores 0.773 on tutoring and 0.704 on workflows.
 - **Two stress conditions recur.** The strategic surface learner is the lowest-scoring profile for 15 of 17 models (0.702 against 0.757), and the six long-chain workflows average 0.321 against 0.559.
+
+The paper has been revised five times since its May 2026 posting, and the fifth revision (8 November 2026) accompanied its acceptance at NeurIPS 2026; the task count, the three surfaces and the reported model scores are unchanged across those revisions.
 
 ## What the benchmark measures, and how tasks are grounded
 
@@ -59,4 +61,4 @@ Two failure modes recur. The strategic surface learner is the lowest-scoring of 
 
 ## Citation
 
-Chen, Z., Liu, P., Sheng, R., Li, H., Tu, J., Deng, X., Shum, K., Liu, D., & Qu, H. (2026). [*TeachArena: Are language agents ready for realistic teaching work?*](https://arxiv.org/abs/2605.14322). arXiv:2605.14322 (version 3, revised August 2026). https://doi.org/10.48550/arXiv.2605.14322
+Chen, Z., Liu, P., Sheng, R., Li, H., Tu, J., Deng, X., Shum, K., Liu, D., & Qu, H. (2026). [*TeachArena: Are language agents ready for realistic teaching work?*](https://arxiv.org/abs/2605.14322). arXiv:2605.14322v5 (8 November 2026); accepted at NeurIPS 2026. arXiv:2605.14322 (version 3, revised August 2026). https://doi.org/10.48550/arXiv.2605.14322
