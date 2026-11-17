@@ -1,7 +1,7 @@
 ---
 title: "GradeBench"
-created: "2026-11-17T08:20:00-05:00"
-updated: "2026-11-17T08:20:00-05:00"
+created: "2026-11-17T06:39:43-05:00"
+updated: "2026-11-17T13:05:00-05:00"
 type: resource
 summary: "A public leaderboard for frontier models grading real handwritten university STEM answers against the rubric items the instructor selected."
 url: https://gradebench.com/
@@ -23,7 +23,7 @@ GradeBench asks a narrow, useful question about [[automated-assessment|automated
 
 ## What you can do with it
 
-Read the leaderboard before trusting any grading vendor's accuracy claim, and read the task construction before trusting the leaderboard. The benchmark holds 464 tasks drawn from 125 questions across 45 university courses at more than ten institutions, restricted to free-response exam and quiz items that a professor or TA reviewed line by line, and skewed toward partial credit — full-marks and zero-marks tasks are capped at 5% each because models find those easy.
+Read the leaderboard before trusting any grading vendor's accuracy claim, and read the task construction before trusting the leaderboard. The [[benchmark]] holds 464 tasks drawn from 125 questions across 45 [[higher-ed|university]] courses at more than ten institutions, restricted to free-response exam and quiz items that a professor or TA reviewed line by line, and skewed toward partial credit — full-marks and zero-marks tasks are capped at 5% each because models find those easy.
 
 The current leaderboard tops out well below human agreement: the best model reaches 57.3% exact rubric match, and the site plots accuracy against cost per 1,000 answers, where a model 0.8 points behind costs about a seventh as much. That cost axis is the practically useful part, since grading is a volume operation.
 
@@ -35,7 +35,7 @@ Instructors deciding whether to let a grading tool release marks unreviewed, ass
 
 ## Notes and caveats
 
-GradeBench is published by Pensive, a commercial AI grading platform, so the benchmark and the product share an owner; the task construction is documented and defensible, but treat the framing as the vendor's. It covers STEM exams with rubrics of at least four items, which excludes essays, short answers and discussion posts — the formats where most humanities grading happens. Exact rubric match is a strict metric: two graders can disagree on an item and both be right about the student. The scores describe model versions available in November 2026 and will move.
+GradeBench is published by Pensive, a commercial AI grading platform, so the benchmark and the product share an owner; the task construction is documented and defensible, but treat the framing as the vendor's. It covers STEM exams with rubrics of at least four items, which excludes essays, short answers and discussion posts — the formats where most [[humanities-education|humanities]] grading happens. Exact rubric match is a strict metric: two graders can disagree on an item and both be right about the student. The scores describe model versions available in November 2026 and will move.
 
 ## Connected Concepts
 

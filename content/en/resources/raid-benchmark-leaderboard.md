@@ -1,7 +1,7 @@
 ---
 title: "RAID Benchmark leaderboard"
-created: "2026-11-17T08:20:00-05:00"
-updated: "2026-11-17T08:20:00-05:00"
+created: "2026-11-17T06:39:43-05:00"
+updated: "2026-11-17T13:05:00-05:00"
 type: resource
 summary: "A public leaderboard of AI-text detectors scored on RAID, a benchmark built to test robustness against models, domains, decoding settings and adversarial attacks."
 url: https://raid-bench.xyz/leaderboard
@@ -25,7 +25,7 @@ RAID is the benchmark behind most serious claims about [[ai-detection|AI-text de
 
 Filter by domain — abstracts, books, news, poetry, recipes, Reddit, reviews, wiki — by decoding strategy (greedy or sampling), by repetition penalty, and by adversarial attack, including whitespace, homoglyph, synonym substitution, paraphrase, zero-width spaces and article deletion. Then compare a detector across metrics: AUROC, TPR at a 5% false-positive rate, and TPR at 1%.
 
-That filter set is the point. A detector that scores near 1.000 on aggregate can fall away once the text has been paraphrased or the source model changes, and the leaderboard lets you see the fall before an institution stakes a misconduct case on it. The 1% false-positive column matters most in education, because at institutional scale a 1% error rate means hundreds of wrongly accused students.
+That filter set is the point. A detector that scores near 1.000 on aggregate can fall away once the text has been paraphrased or the source model changes, and the leaderboard lets you see the fall before an institution stakes a [[academic-integrity|misconduct]] case on it. The 1% false-positive column matters most in education, because at institutional scale a 1% error rate means hundreds of wrongly accused students.
 
 ## Who it is for
 
@@ -33,7 +33,7 @@ Researchers evaluating detection methods, administrators writing policy that mig
 
 ## Notes and caveats
 
-The benchmark measures detection of machine-generated text, not misconduct: a student who uses AI to plan, outline or revise produces text the detectors were not built to catch, and a student writing in a second language is a known false-positive risk that a leaderboard cannot show. RAID is a research artifact maintained by an academic team; coverage tracks the generator models in its test set, so newer models may be under-represented until the benchmark is refreshed. The leaderboard ranks detectors, not their vendors' data-handling practices, and a high AUROC says nothing about whether submitting student work to that service is lawful or ethical in your jurisdiction.
+The benchmark measures detection of machine-generated text, not misconduct: a student who uses AI to plan, outline or revise produces text the detectors were not built to catch, and a student [[language-learning|writing in a second language]] is a known false-positive risk that a leaderboard cannot show. RAID is a research artifact maintained by an academic team; coverage tracks the generator models in its test set, so newer models may be under-represented until the benchmark is refreshed. The leaderboard ranks detectors, not their vendors' data-handling practices, and a high AUROC says nothing about whether submitting student work to that service is lawful or ethical in your jurisdiction.
 
 ## Connected Concepts
 

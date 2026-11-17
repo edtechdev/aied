@@ -1,7 +1,7 @@
 ---
 title: "Fab AI benchmark leaderboard"
-created: "2026-11-17T08:25:00-05:00"
-updated: "2026-11-17T08:25:00-05:00"
+created: "2026-11-17T06:39:43-05:00"
+updated: "2026-11-17T13:05:00-05:00"
 type: resource
 summary: "A model leaderboard for education benchmarks aimed at low- and middle-income countries, covering pedagogy, foundational literacy, SEND, visual maths and multilingual performance, with price and open-weight columns."
 url: https://www.fab-ai.org/benchmarks
@@ -18,13 +18,13 @@ ai_assist:
     role: drafting
 ---
 
-Fab AI evaluates models on education tasks that matter where budgets, bandwidth and language coverage are constrained, and publishes the results as a sortable leaderboard rather than a paper. The core table scores a pedagogy benchmark alongside SEND, visual maths and visual reasoning, with separate tabs for multilingual pedagogy, foundational literacy and read-aloud assessment.
+Fab AI evaluates models on education tasks that matter where budgets, bandwidth and language coverage are constrained in the [[global-south|low- and middle-income countries]] the benchmark is built for, and publishes the results as a sortable leaderboard rather than a paper. The core table scores a pedagogy benchmark alongside SEND, visual maths and visual reasoning, with separate tabs for multilingual pedagogy, foundational literacy and read-aloud assessment.
 
 ## What you can do with it
 
 Compare roughly 300 models on pedagogy scores that currently run from the low nineties down to 21%, then sort by what an education ministry actually has to weigh: price per million tokens, parameter count, open weights and release date. The spread at the bottom is the useful part. Sub-2B open models sit between 21% and 43% on the pedagogy benchmark while frontier models sit in the low nineties, which turns "can we run this offline on cheap hardware" into a quantified trade rather than a guess.
 
-The multilingual pedagogy tab is the reason to bookmark the page. Most education benchmarks are English-only, and the question of whether a model's pedagogy survives translation is exactly the question a ministry in a multilingual system needs answered. The data is downloadable as CSV, so the comparisons can be re-run locally.
+The [[multilingual-learning|multilingual]] pedagogy tab is the reason to bookmark the page. Most education benchmarks are English-only, and the question of whether a model's pedagogy survives translation is exactly the question a ministry in a multilingual system needs answered. The data is downloadable as CSV, so the comparisons can be re-run locally.
 
 ## Who it is for
 
