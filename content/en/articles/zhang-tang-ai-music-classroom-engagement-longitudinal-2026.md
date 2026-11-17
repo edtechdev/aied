@@ -46,7 +46,7 @@ The growth mediation is the part most likely to be over-read. Slopes are estimat
 
 For arts teaching the practically interesting quantity is the level and trajectory of [[student-engagement|classroom engagement]] itself. This study cannot isolate what the AI contributed, because there is no non-AI comparison group — every classroom in the study was AI-assisted. What it can say is that in classrooms where AI was present, engagement, flow and emotional intelligence all grew, and that growth in engagement went with growth in flow rather than with growth in emotional intelligence directly.
 
-That is consistent with a familiar instructional story: the activity that holds attention is the one that produces absorption, and absorption is what supports the emotional-reflective work [[arts-design-and-media-education|music education]] cares about. It is also consistent with a much simpler story in which well-taught music classes produce all three, and the paper does not discriminate between them.
+That is consistent with a familiar instructional story: the activity that holds attention is the one that produces absorption, and absorption is what supports the emotional-reflective work [[music-education|music education]] cares about. It is also consistent with a much simpler story in which well-taught music classes produce all three, and the paper does not discriminate between them.
 
 ## Where the sample limits the claims
 

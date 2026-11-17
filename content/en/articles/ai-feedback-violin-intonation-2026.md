@@ -54,7 +54,7 @@ The authors read these accounts through [[self-regulated-learning|self-regulatio
 
 ## Where this leaves studio teaching
 
-The paper is candid that its contribution is to a thin literature: generative AI feedback for intonation has almost no experimental base in [[arts-design-and-media-education|music education]]. Its own reading of the evidence is that AI feedback complements conventional violin instruction and strengthens data-driven decisions rather than displacing the teacher, and its forward-looking recommendations point at mobile and free tools for out-of-lesson [[self-assessment|self-assessment]], systems that combine intonation with posture analysis, and development work for traditional repertoires such as Turkish music.
+The paper is candid that its contribution is to a thin literature: generative AI feedback for intonation has almost no experimental base in [[music-education|music education]]. Its own reading of the evidence is that AI feedback complements conventional violin instruction and strengthens data-driven decisions rather than displacing the teacher, and its forward-looking recommendations point at mobile and free tools for out-of-lesson [[self-assessment|self-assessment]], systems that combine intonation with posture analysis, and development work for traditional repertoires such as Turkish music.
 
 ## What this means for practice
 

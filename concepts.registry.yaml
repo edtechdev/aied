@@ -254,9 +254,16 @@ concepts:
     - design studio
     - interior design education
     - media arts
-    - music education
     - studio pedagogy
     - visual arts education
+  music-education:
+    title: Music Education
+    aliases:
+    - aural skills education
+    - music education
+    - music learning
+    - music pedagogy
+    - musical education
   assessment:
     title: Assessment
     aliases:
@@ -1158,7 +1165,9 @@ concepts:
     title: Libraries
     aliases:
     - academic libraries
+    - library and information science
     - library operations
+    - library science
     - library services
     - library systems
     - public libraries
@@ -1171,8 +1180,6 @@ concepts:
     - information science
     - librarian
     - librarians
-    - library and information science
-    - library science
     - school librarian
   lifelong-learning:
     title: Lifelong Learning
@@ -2511,6 +2518,7 @@ sections:
     - humanities-education
     - civic-and-political-education
     - arts-design-and-media-education
+    - music-education
     - design-education
     - medical-education
     - nursing-education

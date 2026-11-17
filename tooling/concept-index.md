@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 242
+**Total concepts:** 243
 
 ## Foundations of AI in education
 
@@ -172,7 +172,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 
 ### Subject areas
 
-- **`arts-design-and-media-education`** — Arts, Design and Media Education — phrases: architectural design education; architecture education; art education; arts education; design studio; interior design education; media arts; music education; studio pedagogy; visual arts education
+- **`arts-design-and-media-education`** — Arts, Design and Media Education — phrases: architectural design education; architecture education; art education; arts education; design studio; interior design education; media arts; studio pedagogy; visual arts education
 - **`biology-education`** — Biology Education — phrases: biological; biological education; biology; biology education; biology laboratory; biology learning; life sciences
 - **`business-education`** — Business Education — phrases: business degree; business education; business school; business schools; economics education; management education
 - **`chemistry-education`** — Chemistry Education — phrases: chemical education; chemistry; chemistry education; chemistry laboratory; chemistry learning
@@ -187,9 +187,10 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`information-technology`** — Information Technology Education — phrases: IT education; information systems education; applied computing education
 - **`language-learning`** — Language Learning — phrases: efl; english; esl; foreign language; foreign language learning; language acquisition; language education; language learning; second language; second language acquisition; SLA; tefl
 - **`legal-education`** — Legal Education — phrases: law school; law schools; law student; law students; legal education; legal pedagogy; legal training; bar examination; bar exam
-- **`libraries`** — Libraries — phrases: academic libraries; library operations; library services; library systems; public libraries; school libraries
+- **`libraries`** — Libraries — phrases: academic libraries; library and information science; library operations; library science; library services; library systems; public libraries; school libraries
 - **`math-education`** — Math Education — phrases: math education; mathematics; mathematics education
 - **`medical-education`** — Medical and Health Professions Education — phrases: clinical; clinical education; health professions; health professions education; medical and health education; medical education; medical school; medicine
+- **`music-education`** — Music Education — phrases: aural skills education; music education; music learning; music pedagogy; musical education
 - **`nursing-education`** — Nursing Education — phrases: nurse education; nurse training; nursing curricula
 - **`physics-education`** — Physics Education — phrases: physics; physics education; physics teaching
 - **`reading-education`** — Reading Education — phrases: reading assessment; reading comprehension; reading education; reading instruction; reading motivation; readability; text readability
@@ -284,7 +285,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`administrator`** — Administrators — phrases: admin; administration; administrator; administrator perspective; administrators; edtech administrator; education administrator; institutional leader
 - **`educational-technology-developers`** — Educational Technology Developers — phrases: educational technology developers; edtech designers; edtech developers; educational software developers; edtech companies
 - **`learners`** — Learners — phrases: learners and students; students and learners; learner population; student population
-- **`librarians`** — Librarians — phrases: academic librarian; embedded librarian; information science; librarian; librarians; library and information science; library science; school librarian
+- **`librarians`** — Librarians — phrases: academic librarian; embedded librarian; information science; librarian; librarians; school librarian
 - **`parents-and-families`** — Parents and Families — phrases: parents and families; caregivers; families; family engagement; home learning; parent involvement; parental involvement; parents
 - **`stakeholders`** — Stakeholders — phrases: instructional designers; policymakers; stakeholder; stakeholders
 
