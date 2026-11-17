@@ -1,7 +1,7 @@
 ---
 title: Psychology Education
 created: "2026-11-17T06:03:44-05:00"
-updated: "2026-11-17T12:15:00-05:00"
+updated: "2026-11-17T12:40:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking]
 pedagogy: [student-ai-interaction]
@@ -66,6 +66,18 @@ Dispositions: [[critical-genai-use-predictors|Hefter, Paaßen and Berthold]] fou
 Use: [[burke-ai-proliferation-college-students-replication-2026|Burke and colleagues]] surveyed 991 undergraduates across five universities and found college use at 81%, with studying displaced writing as the most common task, while 30.2% of students who call AI use cheating use it anyway.
 
 Every one of those studies is about students who happen to be psychology students. That is the discipline's advantage as a research site and its weakness as a literature.
+
+## The psychology the research borrows
+
+AI-in-education research runs on a small set of psychological theories that were built long before it. Naming them matters, because each predicts something different about whether a tool helps.
+
+[[cognitive-offloading|Cognitive offloading]] says a tool that removes effort removes the learning with it. [[productive-failure|Productive failure]] says the struggle before the answer is where the instruction happens. [[scaffolding|Scaffolding]] says help has to be scheduled and withdrawn, not simply provided. A study can cite all three and still design a tool that satisfies none of them, which is why the theory belongs in the methods section rather than the introduction.
+
+The frames that recur most here are individual-cognition ones: [[self-regulated-learning|self-regulated learning]] and [[metacognition]], [[self-efficacy]], [[self-determination-theory|self-determination theory]] for motivation, and [[feedback]] through its [[feedback-literacy|literacy]] variant. The studies in the section above are typical of the pattern: each takes a construct from this family, measures it as the mechanism, and reports which way the path runs. [[akkurt-counselor-trainees-chatgpt-simulated-client-2025|Akkurt]] is the exception, and the more interesting one: a [[situated-learning|situated]] design in which a trainee rehearses a practice rather than acquiring a proposition.
+
+Two limits are worth stating. Theory is usually imported as a frame and rarely tested against a rival, the weakness [[theory-development-aied|theory development in AI education]] documents. And the individual unit of analysis is contested: [[sociocultural-learning|sociocultural]] and [[activity-theory-aied|activity-theory]] accounts, with [[distributed-cognition|distributed cognition]], locate the learning in the room rather than the head, which changes what a chatbot is doing. [[learning-theories|Learning theories]] holds the map and [[cognitive-psychology]] the machinery most of these studies assume.
+
+When a paper says "scaffolding" or "critical thinking", ask which theory's version it means: the word does different work in each.
 
 ## Implications for psychology instructors
 
