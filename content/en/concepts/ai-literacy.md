@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-16T09:58:00-05:00"
+updated: "2026-11-16T20:30:23-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -186,6 +186,8 @@ The frameworks and empirical studies converge on a set of practical guidelines f
 **8. Start from learners' actual entry point.** Learners enter with distinct orientations — avoidance driven by fear, mistrust, or lack of access, versus uncritical reliance that masks misunderstanding. A diagnostic, stage-based approach (rather than a uniform curriculum) lets designers meet students where they are and move them toward critical, responsible engagement.([[ai-literacy-continuum-higher-education|Liu et al., 2026]])
 
 **9. Extend provision beyond the audiences formal education already reaches.** The [[ai-literacies-young-adults-2025|AI Literacies framework for public service media]] argues from a landscape review of more than 40 frameworks and 35 expert interviews that provision has tilted toward technical and functional skills, and that AI literacies overlap and should be connected to digital, media and information literacy rather than taught as a standalone subject. Its structure — six competency areas, five values and three progression levels (*Understanding and Applying*, *Analysing and Evaluating*, *Synthesising and Specialising*) with an assessment guide — is a usable template for providers outside formal schooling, and its equity argument is a design instruction: reaching young people who are digitally or otherwise marginalized takes deliberate partnerships, not universal publication.([[ai-literacies-young-adults-2025|Belshaw et al., 2025]])
+
+**Make training a precondition rather than an invitation.** Optional provision is the sector default: [[making-ai-work-for-students-ofs-2026|OfS and Advance HE (2026)]], studying 127 institutions, found staff training mostly optional with low take-up and student training uneven or absent, while the most valued training was subject-specific. The University of Kent's ChatGPT Edu rollout in March 2026 shows the opposite design, with students completing modules on AI literacy, responsible use, data protection, prompting and academic integrity before gaining access, and the training delivered without requiring anyone to use the tools.
 
 Provision is thin even where a professional curriculum already exists. Among 417 allied-health undergraduates at one Ghanaian public university, 76.3% (n = 318) reported no prior training in responsible AI use, and 40.8% rated academic staff guidance inadequate against 28.1% who rated it appropriate ([[ago-prompt-literacy-allied-health-2026|Ago et al. (2026)]]). Intervention design in health professions therefore starts from novices who were never taught the material, not from learners extending an existing curriculum.
 
@@ -372,3 +374,4 @@ Discipline leads can keep the critical strand visible. Literacy that covers only
 
 - [[dumancic-tool-to-method-ai-literacy-history-2026]] — From Tool to Method: Developing AI Literacy in an Upper-Level History Course
 - [[ago-prompt-literacy-allied-health-2026]] — 417 allied-health undergraduates in Ghana: 76.3% had no responsible-AI training, and 40.8% rated academic staff guidance inadequate against 28.1% who rated it appropriate (Ago et al. 2026)
+- [[making-ai-work-for-students-ofs-2026]] — OfS and Advance HE (2026): 244 staff and 91 students at 127 institutions on detection, assessment design, AI literacy and strategy

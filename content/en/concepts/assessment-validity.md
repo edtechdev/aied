@@ -1,7 +1,7 @@
 ---
 title: Assessment Validity
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-16T09:58:00-05:00"
+updated: "2026-11-16T20:30:23-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 type: concept
 connected_resources: [vfwa]
@@ -91,6 +91,8 @@ The outcome construct moves the estimate too: in a three-level meta-analysis of 
 AI-aware grading takes a third path between redesign and detection. AICG estimates a per-response AI-use probability and discounts the cognitive evidence by `max(δ, 1 − pAI)` rather than docking the grade, lowering MAE by 4.2% over the unweighted cognitive model and keeping AI-assisted responses scoreable ([[guo-aicg-ai-aware-cognitive-supervision-math-grading-2026|Guo et al., 2026]]).
 
 **Policy has moved to graded permission, and to assurance over friction.** Coding 55 institutional documents, [[ansari-policing-provenance-designing-for-evidence-2026|Ansari (2026)]] found 4 prohibiting AI by default and 31 defining named categories of use, and of the 23 taking a position on [[ai-detection|detection]], 16 rejected detectors. Redesign, on that reading, is redesign plus an assurance mechanism rather than friction alone.
+
+**Institutional adoption of the two-lane model.** [[making-ai-work-for-students-ofs-2026|OfS and Advance HE (2026)]] document the University of Bath replacing its three-category traffic-light scheme in September 2026 with a two-lane model first developed at Sydney: every assessment is either closed, with conditions that keep AI out, or open, where AI is permitted, because staff found intermediate permissions impossible to police reliably. Bath's framing keeps the validity test in view, since every assessment, closed-lane included, is designed around intended learning outcomes: ringfencing a task from AI does not make it measure the right thing.
 
 ### Connections
 
@@ -237,3 +239,4 @@ Winstone, Gravett and Elkington frame the GenAI assessment problem as wicked in 
 
 - [[williams-coding-curriculum-critique-2026]] — Coding the Curriculum: A Critique of \"How AI Makes Its Mark on Instructional Design\"
 - [[islam-human-vs-ai-sba-dental-2026]] — Threshold compliance rose while mean discrimination fell, computed descriptively with no test-level reliability
+- [[making-ai-work-for-students-ofs-2026]] — OfS and Advance HE (2026): 244 staff and 91 students at 127 institutions on detection, assessment design, AI literacy and strategy

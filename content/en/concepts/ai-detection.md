@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: AI Detection
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T20:30:23-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -79,6 +79,8 @@ Detection research also carries a validity argument that outlasts questions of a
 Bassett et al. conclude that AI detection is an unworkable solution to a problem that cannot be solved through surveillance and punishment: the focus must move to [[assessment|assessment design]] that recognizes AI's role in learning and the reality that unsupervised assessments cannot be secured. This consolidates the [[beyond-detection-authentic-assessment-ai-2025|beyond-detection]] stance with a direct, evidence-based argument for retiring detection tools.
 
 Of 40 psychology assessments spanning 16 types, 36 (90%) produced ChatGPT output judged adequate for a pass, and the four failures were the tasks needing presence, a visual artifact, or the student's own dataset — evidence that the pass boundary, not detection, decided whether AI work counted as achievement ([[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]]).
+
+**Practice lags the evidence.** Studying 127 institutions, [[making-ai-work-for-students-ofs-2026|OfS and Advance HE (2026)]] found detector use continuing years after the research consensus against it. Staff described scores entering misconduct cases as supporting evidence, some institutions had stopped using detectors altogether, and Turnitin told the researchers its tool's output should be one data point when establishing authorship. Students described the receiving end: once flagged, no route to prove authorship, and strategies such as removing em dashes or adding deliberate errors to lower the score.
 
 ### Detector bias and the mechanism of the arms race
 
@@ -177,3 +179,4 @@ The constructive question shifts from "how do we prevent students from using AI?
 - [[argus-academic-integrity-genai-2026]] — Argus: Academic Integrity in the Era of Generative AI
 - [[student-llm-code-detection-cs1-2026]] — LLM code converges on tightly constrained assignments (1-14 AST forms per 1,000 files) but not on free ones - detectability follows task design
 - [[kazakh-ai-text-detectors-2026]] — Unchecked or Falsely Accused? Evaluating AI-Generated Text Detectors on Kazakh
+- [[making-ai-work-for-students-ofs-2026]] — OfS and Advance HE (2026): 244 staff and 91 students at 127 institutions on detection, assessment design, AI literacy and strategy

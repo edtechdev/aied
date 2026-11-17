@@ -1,7 +1,7 @@
 ---
 title: Institutional AI Infrastructure
 created: "2026-11-12T07:36:15-05:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T20:30:23-05:00"
 type: concept
 connected_resources: [mindrouter, amplify-genai, canvas-mcp]
 technology: [llm, generative-ai, open-source, edtech-platform]
@@ -55,6 +55,8 @@ The field describes six shapes, not two. They differ in who holds the data, who 
 **AI inside tools you already run.** A Moodle question type, a discussion platform's AI partner, an essay-feedback tool. The organizational lift is small and change arrives course by course, which is also its limit: nothing at the center learns from it.
 
 These shapes nest. A gateway can front a hosted platform; a hosted platform can call a local model; a free tool can be the pilot that justifies none of the above. The useful question is not which shape is best but which decision each shape silently makes for you.
+
+**The sector's real default is a seat on a vendor tenant.** Not every institution makes the choice deliberately. [[making-ai-work-for-students-ofs-2026|OfS and Advance HE (2026)]], studying 127 institutions, found most provide tools through existing Microsoft 365 licensing, most commonly Copilot Chat, valued because its closed environment keeps institutional data inside the compliance envelope. Staff at institutions without licenses reached for more powerful free tools, sometimes with student data, and participants flagged that today's free or cheap tier becomes tomorrow's unbudgeted price increase.
 
 ## The gateway layer
 
@@ -158,3 +160,4 @@ Department heads can look past the chat window. Articulation, workload analytics
 - [[mcnamara-aimcai-continuous-assessment-infrastructure-2026]] — AIM-CAI: six layers for connecting learning evidence
 - [[on-premises-rag-tutoring-business-education-2026]] — CourseChat: an 8B model kept over larger candidates that failed a latency gate
 - [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: a local reasoning model that removes the FERPA question rather than managing it
+- [[making-ai-work-for-students-ofs-2026]] — OfS and Advance HE (2026): 244 staff and 91 students at 127 institutions on detection, assessment design, AI literacy and strategy
