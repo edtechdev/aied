@@ -1,7 +1,7 @@
 ---
 title: "Skills for Real Engineers"
 created: "2026-09-24T05:57:40-04:00"
-updated: "2026-10-10T09:50:22-04:00"
+updated: "2026-11-16T19:14:57-05:00"
 type: resource
 summary: "Matt Pococks Open-Source-Sammlung kleiner, komponierbarer Agent Skills, darunter ein Skill für das Lehren über mehrere Sitzungen, ein Skill für unnachgiebiges Befragen und Anleitungen zum Schreiben von Dokumenten, denen ein Agent folgen kann."
 url: https://github.com/mattpocock/skills
@@ -20,10 +20,14 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [clarity, education-agent-skills]
 translation_of: resources/matt-pocock-skills
-source_updated: "2026-09-27T03:31:33-04:00"
+source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -34,7 +38,7 @@ ai_assist:
 
 **Skills for Real Engineers** ist Matt Pococks veröffentlichtes Verzeichnis von Agent Skills: kleine, komponierbare Anweisungsdateien, die sich in Claude Code, Codex oder einen anderen Agenten installieren lassen und dazu geschrieben sind, angepasst statt als Ganzes übernommen zu werden. Der Großteil der Sammlung dient der Softwarearbeit, aber mehrere Skills sind Bildungsinstrumente, die zum Lehren und Befragen gebaut wurden und nicht für Code.
 
-Das deutlichste Beispiel ist `teach`, das über mehrere Sitzungen läuft und das Arbeitsverzeichnis als zustandsbehafteten Lehrarbeitsbereich behandelt, sodass Fortschritt und offene Fragen einer lernenden Person zwischen Gesprächen bestehen bleiben statt bei jedem Mal neu zu beginnen. `grill-me` und das zugrundeliegende `grilling` befragen die nutzende Person unnachgiebig zu einem Plan, bis jeder Zweig aufgelöst ist – [[socratic-method|sokratisches Befragen]] als wiederverwendbares Verfahren statt als Gesprächsstimmung. `wait-what` reagiert in dem Moment, in dem eine Nachricht nicht ankommt, indem es sie in einfacher Sprache mit dem fehlenden Kontext neu formuliert, ein Zug, den jede Lehrkraft wiedererkennt, wenn eine Erklärung beim ersten Mal nicht trifft. `writing-for-agents` behandelt, wie man Dokumente schreibt, denen ein [[prompt-engineering|Agent]] folgen kann, was heute die praktische Form davon ist, Anweisungen für KI-Kursmaterial zu schreiben, also für [[pedagogical-agent|KI]]. `to-questionnaire` verwandelt eine Entscheidung in einen Fragebogen für diejenigen, die sie beantworten können, `handoff` verdichtet ein Gespräch zu einem Dokument, aus dem ein anderer Agent weiterarbeiten kann, und `wizard` erzeugt eine interaktive Anleitung für Schritte, die nur ein Mensch ausführen kann.
+Das deutlichste Beispiel ist `teach`, das über mehrere Sitzungen läuft und das Arbeitsverzeichnis als zustandsbehafteten Lehrarbeitsbereich behandelt, sodass Fortschritt und offene Fragen einer lernenden Person zwischen Gesprächen bestehen bleiben statt bei jedem Mal neu zu beginnen. `grill-me` und das zugrundeliegende `grilling` befragen die nutzende Person unnachgiebig zu einem Plan, bis jeder Zweig aufgelöst ist – [[socratic-method|sokratisches Befragen]] als wiederverwendbares Verfahren statt als Gesprächsstimmung. `wait-what` reagiert in dem Moment, in dem eine Nachricht nicht ankommt, indem es sie in einfacher Sprache mit dem fehlenden Kontext neu formuliert, ein Zug, den jede Lehrkraft wiedererkennt, wenn eine Erklärung beim ersten Mal nicht trifft. `writing-for-agents` behandelt, wie man Dokumente schreibt, denen ein [[prompt-engineering|Agent]] folgen kann, was heute die praktische Form davon ist, Anweisungen für KI-Kursmaterial zu schreiben, also für [[pedagogical-agent|KI]]. `to-questionnaire` verwandelt eine Entscheidung in einen Fragebogen für diejenigen, die sie beantworten können, `handoff` verdichtet ein Gespräch zu einem Dokument, aus dem ein anderer Agent weiterarbeiten kann, und `wizard` erzeugt eine interaktive Anleitung für Schritte, die nur ein Mensch ausführen kann. Wenn Sie nur die Tutoringschleife wollen statt eines Verzeichnisses zum Anpassen, veröffentlicht Jane Street einen zweckgebundenen [`socratic-tutor`-Skill](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md), der eine Diagnose durchführt, jede Teilfähigkeit auf Stufen 0–5 einordnet, verteilte Wiederholung einplant und mit einer Bewertung schließt – ohne den Engineering-Rahmen und mit einer Vorkehrung dagegen, eine lernende Person abzufragen, die nur eine schnelle Antwort wollte.
 
 ## Was vor der Einführung zu wissen ist
 

@@ -1,7 +1,7 @@
 ---
 title: "MyEssayFeedback"
 created: "2026-11-12T19:40:00-05:00"
-updated: "2026-11-12T19:40:00-05:00"
+updated: "2026-11-16T19:27:34-05:00"
 type: resource
 summary: "O platformă de feedback cu IA controlată de instructor pentru eseuri universitare: prompturi de feedback luate dintr-o bibliotecă OER cu peste 200 de tipuri, reflecții structurate ale studenților la fiecare sugestie a IA, un tablou de bord al instructorului cu un rezumat de clasă generat de IA și integrare LTI cu Canvas, Blackboard și Moodle."
 url: https://myessayfeedback.ai/
@@ -16,10 +16,14 @@ ethics: [ai-use-disclosure]
 audience: [instructors, learners, faculty developers]
 level: [higher ed]
 translation_of: resources/my-essay-feedback
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

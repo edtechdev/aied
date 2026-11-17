@@ -1,7 +1,7 @@
 ---
 title: "Usmernenia k AI podľa veku"
 created: "2026-11-12T14:10:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:27:34-05:00"
 type: resource
 summary: "Interaktívny sprievodca Harvardu od Compass Collaborative, ktorý spája deväť vekových pásiem od 0–2 do 26–40 s desiatimi vývinovými oblasťami a na každom priesečníku sa pýta, čo sa vyvíja, aký výskum AI existuje a ako môže AI pomôcť alebo prekážať — výslovne ako hypotézy, nie ako zistenia."
 url: https://compass.gse.harvard.edu/explore/
@@ -16,10 +16,14 @@ technology: [generative-ai]
 audience: [parents and families, instructors, administrators, learners, policymakers, researchers]
 level: [preschool, primary education, secondary, higher ed, adult learning]
 translation_of: resources/ai-guidance-by-age
-source_updated: "2026-11-12T13:50:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -43,7 +47,7 @@ Učitelia [[early-childhood-elementary-ai-education|predškolského a raného š
 
 ## Poznámky a upozornenia
 
-Usmernenie je úprimné o svojom vlastnom postavení a stránku treba čítať rovnako. Jeho autori nazývajú záznamy hypotézami postavenými abduktívnym uvažovaním z etablovanej vývinovej vedy plus z raného, často malého výskumu AI — nie ako záverečné usmernenie, pretože systematické dôkazy o tom, ako AI formuje vyvíjajúcu sa myseľ, môžu trvať desaťročie. Nástroj modeluje starostlivé uvažovanie, neoznamuje účinky.
+Usmernenie je úprimné o svojom vlastnom postavení. Jeho autori nazývajú záznamy hypotézami postavenými abduktívnym uvažovaním z etablovanej vývinovej vedy plus z raného, často malého výskumu AI — nie ako záverečné usmernenie, pretože systematické dôkazy o tom, ako AI formuje vyvíjajúcu sa myseľ, môžu trvať desaťročie. Nástroj modeluje starostlivé uvažovanie, neoznamuje účinky.
 
 Ďalšie dve obmedzenia sú dôležité pre výučbu. Odporúčania sú dizajnové podnety, nie testované intervencie; nič na stránke neuvádza výsledok. A štruktúra vekových pásiem ukladá hrubú mriežku vývinu, ktorý sa líši v rámci pásiem, medzi kultúrami a medzi kontextami, čo pripúšťa aj samotný sprievodca.
 

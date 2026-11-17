@@ -19,10 +19,14 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [clarity, education-agent-skills]
 translation_of: resources/matt-pocock-skills
-source_updated: "2026-09-27T03:31:33-04:00"
+source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
@@ -33,7 +37,7 @@ ai_assist:
 
 **Skills voor echte ingenieurs** is de gepubliceerde agentskills-map van Matt Pocock: kleine, combineerbare instructiebestanden die installeren in Claude Code, Codex of een andere agent, geschreven om te worden aangepast in plaats van in hun geheel overgenomen. Het grootste deel van de verzameling dient softwarewerk, maar verschillende skills zijn onderwijsinstrumenten die zijn gebouwd voor lesgeven en doorvragen in plaats van voor code.
 
-Het duidelijkste voorbeeld is `teach`, dat over meerdere sessies loopt en de werkmap behandelt als een stateful leerwerkruimte, zodat de voortgang en open vragen van een lerende tussen gesprekken blijven bestaan in plaats van elke keer opnieuw te beginnen. `grill-me` en de onderliggende `grilling`-primitief ondervragen de gebruiker meedogenloos over een plan tot elke tak is opgelost, wat [[socratic-method|socratisch doorvragen]] is als herbruikbare procedure in plaats van als gesprekstoon. `wait-what` reageert op het moment dat een boodschap niet landt door haar opnieuw te presenteren in gewone taal met de ontbrekende context — een zet die elke docent herkent uit het zien mislukken van een uitleg bij de eerste poging. `writing-for-agents` behandelt hoe u documenten schrijft die een [[prompt-engineering|agent]] kan volgen, wat nu de praktische vorm is van het schrijven van instructies voor [[pedagogical-agent|AI]]-cursusmateriaal. `to-questionnaire` zet een beslissing om in een vragenlijst voor wie haar kan beantwoorden, `handoff` comprimeert een gesprek tot een document waarmee een andere agent verder kan, en `wizard` genereert een interactieve doorloop voor stappen die alleen een mens kan uitvoeren.
+Het duidelijkste voorbeeld is `teach`, dat over meerdere sessies loopt en de werkmap behandelt als een stateful leerwerkruimte, zodat de voortgang en open vragen van een lerende tussen gesprekken blijven bestaan in plaats van elke keer opnieuw te beginnen. `grill-me` en de onderliggende `grilling`-primitief ondervragen de gebruiker meedogenloos over een plan tot elke tak is opgelost, wat [[socratic-method|socratisch doorvragen]] is als herbruikbare procedure in plaats van als gesprekstoon. `wait-what` reageert op het moment dat een boodschap niet landt door haar opnieuw te presenteren in gewone taal met de ontbrekende context — een zet die elke docent herkent uit het zien mislukken van een uitleg bij de eerste poging. `writing-for-agents` behandelt hoe u documenten schrijft die een [[prompt-engineering|agent]] kan volgen, wat nu de praktische vorm is van het schrijven van instructies voor [[pedagogical-agent|AI]]-cursusmateriaal. `to-questionnaire` zet een beslissing om in een vragenlijst voor wie haar kan beantwoorden, `handoff` comprimeert een gesprek tot een document waarmee een andere agent verder kan, en `wizard` genereert een interactieve doorloop voor stappen die alleen een mens kan uitvoeren. Als het alleen om de tutoringlus gaat en niet om een verzameling om aan te passen, publiceert Jane Street een [`socratic-tutor`-skill](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md) met één doel: die voert een diagnose uit, brengt elke subvaardigheid op niveaus 0-5 in kaart, plant gespreide herhaling in en sluit af met een beoordeling, zonder het engineeringkader en met een waarborg tegen het overhoren van een lerende die alleen een snel antwoord wilde.
 
 ## Wat u moet weten voordat u het gebruikt
 

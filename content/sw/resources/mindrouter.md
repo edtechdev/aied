@@ -1,7 +1,7 @@
 ---
 title: "MindRouter"
 created: "2026-11-12T11:38:00-05:00"
-updated: "2026-11-12T11:38:00-05:00"
+updated: "2026-11-16T19:27:35-05:00"
 type: resource
 summary: "Gateway ya inference ya Apache-2.0 kutoka Chuo Kikuu cha Idaho inayoweka kundi la chuo la nodi za GPU za vLLM na Ollama nyuma ya API moja inayolingana na OpenAI, ikiongeza upangaji wa usawa, kwota za tokeni kwa mtumiaji, SSO, uwekaji kumbukumbu wa ukaguzi na ufuatiliaji wa moja kwa moja wa GPU na nishati."
 url: https://github.com/ui-insight/MindRouter
@@ -16,10 +16,14 @@ audience: [administrators, educational technology developers, faculty developers
 level: [higher ed]
 connected_resources: [amplify-genai]
 translation_of: resources/mindrouter
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

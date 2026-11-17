@@ -1,7 +1,7 @@
 ---
 title: "Amplify GenAI"
 created: "2026-11-12T19:22:00-05:00"
-updated: "2026-11-12T19:22:00-05:00"
+updated: "2026-11-16T19:24:12-05:00"
 type: resource
 summary: "Vanderbilt का MIT-लाइसेंस प्राप्त एंटरप्राइज़ जनरेटिव एआई प्लेटफ़ॉर्म, जो संस्थान के अपने AWS खाते में तैनात होता है: स्थानीय दस्तावेज़ों पर कस्टम सहायक, रिट्रीवल-ऑगमेंटेड उत्तर, संगठन भर में साझाकरण, और प्रत्येक संदेश तक लागत लेखांकन।"
 url: https://www.amplifygenai.org/
@@ -20,10 +20,14 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
     date: "2026-11-12"
     agent: hermes-agent
 translation_of: resources/amplify-genai
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 ---
 

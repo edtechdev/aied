@@ -18,6 +18,10 @@ audience: [learners, instructors]
 level: [undergraduate, secondary]
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
     date: "2026-09-28"
@@ -27,7 +31,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ---
 
@@ -41,7 +45,7 @@ La guida sul campo del 2026 sviluppa dieci capacità — curiosità, [[critical-
 
 ## A chi è rivolto
 
-Agli studenti universitari di qualsiasi disciplina e agli studenti della secondaria di secondo grado. Docenti, personale di supporto accademico, bibliotecari ed educatori degli affari studenteschi ricevono il set di moduli e le domande per la discussione; la guida è deliberatamente neutrale rispetto alle discipline, ed è per questo che le istituzioni la usano per i seminari del primo anno, lo sviluppo dei docenti e un vocabolario condiviso tra iniziative sull'IA separate.
+Agli studenti universitari di qualsiasi disciplina e agli studenti della secondaria di secondo grado. Docenti, personale di supporto accademico, bibliotecari ed educatori degli affari studenteschi ricevono il set di moduli e le domande per la discussione; la guida è deliberatamente neutrale rispetto alle discipline, ed è per questo che le istituzioni la usano per i seminari del primo anno, lo [[educational-development|sviluppo dei docenti]] e un vocabolario condiviso tra iniziative sull'IA separate.
 
 ## Note e avvertenze
 

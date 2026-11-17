@@ -1,7 +1,7 @@
 ---
 title: "MindRouter"
 created: "2026-11-12T11:28:00-05:00"
-updated: "2026-11-12T11:28:00-05:00"
+updated: "2026-11-16T19:31:20-05:00"
 type: resource
 summary: "爱达荷大学以 Apache-2.0 许可发布的推理网关，把校园里由 vLLM 和 Ollama GPU 节点组成的集群放在一个兼容 OpenAI 的 API 之后，并加入公平份额调度、按用户 token 配额、SSO、审计日志以及实时 GPU 与能耗监测。"
 url: https://github.com/ui-insight/MindRouter
@@ -15,11 +15,15 @@ technology: [generative-ai, llm, open-source]
 audience: [administrators, educational technology developers, faculty developers]
 level: [higher ed]
 connected_resources: [amplify-genai]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/mindrouter
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

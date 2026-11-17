@@ -17,10 +17,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors]
 level: [undergraduate, secondary]
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
@@ -37,7 +41,7 @@ Vuoden 2026 kenttäopas käy läpi kymmenen kyvykkyyttä – uteliaisuus, [[crit
 
 ## Kenelle se on tarkoitettu
 
-Minkä tahansa alan kandidaattiopiskelijoille ja lukio-opiskelijoille. Tiedekunta, akateeminen tukihallinto, kirjastonhoitajat ja opiskelija-asioiden kasvattajat saavat moduulisarjan ja keskustelukehotteet; opas on tarkoituksella tieteenalaneutraali, minkä vuoksi instituutiot käyttävät sitä ensimmäisen vuoden seminaareissa, tiedekunnan kehittämisessä ja yhteisenä sanastona erillisissä tekoälyhankkeissa.
+Minkä tahansa alan kandidaattiopiskelijoille ja lukio-opiskelijoille. Tiedekunta, akateeminen tukihallinto, kirjastonhoitajat ja opiskelija-asioiden kasvattajat saavat moduulisarjan ja keskustelukehotteet; opas on tarkoituksella tieteenalaneutraali, minkä vuoksi instituutiot käyttävät sitä ensimmäisen vuoden seminaareissa, [[educational-development|tiedekunnan kehittämisessä]] ja yhteisenä sanastona erillisissä tekoälyhankkeissa.
 
 ## Huomioita ja varauksia
 

@@ -1,7 +1,7 @@
 ---
 title: "Amplify GenAI"
 created: "2026-11-12T11:04:00-05:00"
-updated: "2026-11-12T11:38:00-05:00"
+updated: "2026-11-16T19:27:34-05:00"
 type: resource
 summary: "Podniková platforma generatívnej AI Vanderbilt University s licenciou MIT, nasadená vo vlastnom účte AWS inštitúcie: vlastní asistenti nad lokálnymi dokumentmi, odpovede s rozšíreným vyhľadávaním, zdieľanie v organizácii a účtovanie nákladov až po jednotlivú správu."
 url: https://www.amplifygenai.org/
@@ -17,10 +17,14 @@ audience: [administrators, instructors, faculty developers, educational technolo
 level: [higher ed]
 connected_resources: [mindrouter]
 translation_of: resources/amplify-genai
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

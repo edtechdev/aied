@@ -1,7 +1,7 @@
 ---
 title: "Student Guide to AI"
 created: "2026-09-28T04:47:03-04:00"
-updated: "2026-10-10T09:50:22-04:00"
+updated: "2026-11-16T19:14:57-05:00"
 type: resource
 summary: "Ein kostenloser Studienleitfaden in drei Ausgaben von der Elon University, AAC&U und The Princeton Review, dessen Ausgabe 2026 zehn menschliche Fähigkeiten mit unterrichtsfertigen Lernmodulen und einer anonymen Selbsteinschätzung aufbaut."
 url: https://studentguidetoai.org/
@@ -18,10 +18,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors]
 level: [undergraduate, secondary]
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -38,7 +42,7 @@ Der Field Guide 2026 arbeitet zehn Fähigkeiten durch – Neugier, [[critical-th
 
 ## Für wen es gedacht ist
 
-Studierende in jedem Fach und Lernende der oberen Sekundarstufe. Fakultätsmitglieder, Personal der Studienunterstützung, Bibliothekarinnen und Bibliothekare sowie Personal der Studienberufung erhalten das Modul-Set und die Diskussionsaufforderungen; der Leitfaden ist bewusst fachneutral, weshalb Institutionen ihn für Seminare im ersten Jahr, Fakultätsentwicklung und ein gemeinsames Vokabular über getrennte KI-Initiativen hinweg nutzen.
+Studierende in jedem Fach und Lernende der oberen Sekundarstufe. Fakultätsmitglieder, Personal der Studienunterstützung, Bibliothekarinnen und Bibliothekare sowie Personal der Studienberufung erhalten das Modul-Set und die Diskussionsaufforderungen; der Leitfaden ist bewusst fachneutral, weshalb Institutionen ihn für Seminare im ersten Jahr, [[educational-development|Fakultätsentwicklung]] und ein gemeinsames Vokabular über getrennte KI-Initiativen hinweg nutzen.
 
 ## Anmerkungen und Vorbehalte
 

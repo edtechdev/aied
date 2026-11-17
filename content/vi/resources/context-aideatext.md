@@ -1,7 +1,7 @@
 ---
 title: "conText"
 created: "2026-11-12T11:30:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:31:19-05:00"
 type: resource
 summary: "Gia sư trên trình duyệt miễn phí đọc ảnh chụp vở ghi, PDF hoặc văn bản, rồi dẫn dắt sinh viên theo kiểu Socrates bằng tiếng Anh hoặc tiếng Tây Ban Nha trong khi vẽ trực tiếp đồ thị các ý tưởng họ kết nối khi nói."
 url: https://context.aideatext.ai/?lang=en
@@ -16,10 +16,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors, faculty developers]
 level: [k 12, higher ed]
 translation_of: resources/context-aideatext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

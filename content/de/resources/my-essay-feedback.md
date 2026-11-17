@@ -1,7 +1,7 @@
 ---
 title: "MyEssayFeedback"
 created: "2026-11-12T11:20:00-05:00"
-updated: "2026-11-12T11:20:00-05:00"
+updated: "2026-11-16T19:14:57-05:00"
 type: resource
 summary: "Eine lehrkraftgesteuerte KI-Feedback-Plattform für College-Essays: Feedback-Prompts aus einer OER-Bibliothek mit über 200 Typen, strukturierte Reflexionen der Studierenden zu jedem KI-Vorschlag, ein Lehrenden-Dashboard mit KI-Klassenzusammenfassung und LTI-Integration mit Canvas, Blackboard und Moodle."
 url: https://myessayfeedback.ai/
@@ -16,10 +16,14 @@ ethics: [ai-use-disclosure]
 audience: [instructors, learners, faculty developers]
 level: [higher ed]
 translation_of: resources/my-essay-feedback
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

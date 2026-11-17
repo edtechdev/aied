@@ -1,7 +1,7 @@
 ---
 title: "Τύπος ερώτησης AI Text για Moodle"
 created: "2026-11-12T20:14:00-05:00"
-updated: "2026-11-12T20:14:00-05:00"
+updated: "2026-11-16T19:19:09-05:00"
 type: resource
 summary: "Ένας τύπος ερώτησης Moodle ανοιχτού κώδικα (GPL v3) που βαθμολογεί απαντήσεις ελεύθερου κειμένου με μεγάλο γλωσσικό μοντέλο βάσει προτροπής ανά ερώτηση και προαιρετικού σχήματος βαθμολόγησης, χρησιμοποιώντας OpenAI, Azure ή αυτοφιλοξενούμενο μοντέλο Ollama και δείχνοντας τα σχόλια της ΤΝ σε ανθρώπινο βαθμολογητή."
 url: https://github.com/marcusgreen/moodle-qtype_aitext
@@ -16,11 +16,15 @@ assessment: [automated-essay-scoring, ai-feedback-quality, formative-assessment]
 foundations: [academic-integrity]
 audience: [instructors, educational technology developers, administrators]
 level: [higher ed, k 12]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/moodle-qtype-aitext
 translation_note: "Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

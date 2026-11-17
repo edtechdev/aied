@@ -1,7 +1,7 @@
 ---
 title: "Amplify GenAI"
 created: "2026-11-12T11:24:00-05:00"
-updated: "2026-11-12T11:24:00-05:00"
+updated: "2026-11-16T19:31:20-05:00"
 type: resource
 summary: "范德堡大学以 MIT 许可证发布的企业级生成式 AI 平台，部署在院校自己的 AWS 账户中：基于本地文档的自定义助手、检索增强的回答、组织内共享，以及细到单条消息的成本核算。"
 url: https://www.amplifygenai.org/
@@ -16,11 +16,15 @@ technology: [generative-ai, llm, open-source, rag]
 audience: [administrators, instructors, faculty developers, educational technology developers]
 level: [higher ed]
 connected_resources: [mindrouter]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/amplify-genai
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

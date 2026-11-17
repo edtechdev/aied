@@ -1,7 +1,7 @@
 ---
 title: "Tathmini ya Maandishi Inayotanguliza Sauti"
 created: "2026-11-12T14:15:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:27:35-05:00"
 type: resource
 summary: "Muundo wa tathmini wa hatua mbili pamoja na mwongozo wa utekelezaji: kunasa kwa uangalizi na bila alama hoja ya mwanafunzi kuhusu ilani asiyoiona kabla, kikifuatiwa na kazi ya maandishi yenye alama inayokamilishwa nyumbani huku zana za AI zikiwa hazizuiliwi, ikihusishwa na hatua ya kwanza kwa hukumu inayotegemea ushahidi, na viva ya masharti pale kaitan hiyo haiko wazi."
 url: https://kellywebbdavies.com/vfwa/
@@ -17,10 +17,14 @@ ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
 translation_of: resources/vfwa
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

@@ -1,7 +1,7 @@
 ---
 title: "Äänilähtöinen kirjallinen arviointi"
 created: "2026-11-12T13:52:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:19:32-05:00"
 type: resource
 summary: "Kaksivaiheinen arviointimalli ja käyttöönottopas: havainnoitu, arvioimaton tallenne opiskelijan päättelystä ennalta näkemättömästä tehtävästä, jota seuraa kotona tehtävä arvioitu kirjallinen palautus, jossa AI-työkalut ovat vapaasti käytössä, yhdistettynä ensimmäiseen vaiheeseen näyttöarvion kautta, sekä ehdollinen suullinen kuulustelu tapauksissa, joissa yhteys on epäselvä."
 url: https://kellywebbdavies.com/vfwa/
@@ -17,10 +17,14 @@ ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
 translation_of: resources/vfwa
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

@@ -1,7 +1,7 @@
 ---
 title: "MyEssayFeedback"
 created: "2026-11-12T19:20:00-05:00"
-updated: "2026-11-12T19:45:00-05:00"
+updated: "2026-11-16T19:31:19-05:00"
 type: resource
 summary: "Платформа зворотного зв’язку на основі ШІ для коледжних есе, контрольована викладачем: промпти зворотного зв’язку з бібліотеки OER із понад 200 типами, структуровані рефлексії студентів щодо кожної пропозиції ШІ, панель викладача зі ШІ-підсумком по класу та інтеграція LTI з Canvas, Blackboard і Moodle."
 url: https://myessayfeedback.ai/
@@ -16,10 +16,14 @@ ethics: [ai-use-disclosure]
 audience: [instructors, learners, faculty developers]
 level: [higher ed]
 translation_of: resources/my-essay-feedback
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

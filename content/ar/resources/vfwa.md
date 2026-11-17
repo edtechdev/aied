@@ -1,7 +1,7 @@
 ---
 title: "التقييم الكتابي القائم على الصوت"
 created: "2026-11-12T13:40:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:19:07-05:00"
 type: resource
 summary: "نموذج تقييم من مرحلتين ودليل تنفيذ: تسجيل مُلاحَظ وغير مُقيَّم لاستدلال الطالب على مطالبة لم يرها من قبل، يتبعه تسليم كتابي مُقيَّم يُنجز في المنزل وأدوات الذكاء الاصطناعي فيه غير مُقيَّدة، مرتبط بالمرحلة الأولى بحكم قائم على الأدلة، مع مناقشة شفهية مشروطة في الحالات التي يكون فيها هذا الارتباط غير واضح."
 url: https://kellywebbdavies.com/vfwa/
@@ -17,10 +17,14 @@ ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
 translation_of: resources/vfwa
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

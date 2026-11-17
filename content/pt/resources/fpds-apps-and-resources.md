@@ -1,7 +1,7 @@
 ---
 title: "FPDS Apps and Resources"
 created: "2026-09-25T18:48:15-04:00"
-updated: "2026-10-30T21:00:00-04:00"
+updated: "2026-11-16T19:27:33-05:00"
 type: resource
 summary: "A página pública de recursos do Faculty Professional Development Services do Hillsborough College, reunindo em um só lugar seus recursos de IA, ensino e acessibilidade."
 url: https://fpdshc.github.io/apps/
@@ -10,7 +10,7 @@ author: "Faculty Professional Development Services at Hillsborough College"
 resource_type: [collection of tools]
 access: [free]
 license: "MIT"
-last_verified: "2026-09-26"
+last_verified: "2026-10-24"
 foundations: [academic-integrity, learning-design, educational-development, ai-literacy]
 pedagogy: [online-teaching-and-learning]
 technology: [generative-ai, open-source]
@@ -18,12 +18,16 @@ ethics: [accessibility, universal-design-for-learning]
 audience: [instructors, faculty developers, instructional designers]
 level: [higher ed]
 confidence: high
-connected_resources: [eduprompts, gemini-notebook, liascript]
+connected_resources: [eduprompts, gemini-notebook, liascript, vibe-coding-center]
 translation_of: resources/fpds-apps-and-resources
-source_updated: "2026-10-24T11:51:12-04:00"
+source_updated: "2026-11-13T08:48:20-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"

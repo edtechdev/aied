@@ -1,7 +1,7 @@
 ---
 title: "Îndrumări despre IA pe vârste"
 created: "2026-11-12T14:10:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:27:34-05:00"
 type: resource
 summary: "Un ghid interactiv al Compass Collaborative de la Harvard care îmbină nouă benzi de vârstă, de la 0–2 la 26–40, cu zece domenii de dezvoltare și întreabă, la fiecare intersecție, ce se dezvoltă, ce cercetare despre IA există și cum ar putea IA să ajute sau să împiedice — explicit ca ipoteze, nu ca rezultate."
 url: https://compass.gse.harvard.edu/explore/
@@ -16,10 +16,14 @@ technology: [generative-ai]
 audience: [parents and families, instructors, administrators, learners, policymakers, researchers]
 level: [preschool, primary education, secondary, higher ed, adult learning]
 translation_of: resources/ai-guidance-by-age
-source_updated: "2026-11-12T13:50:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -43,7 +47,7 @@ Educatori din [[early-childhood-elementary-ai-education|educația timpurie]] și
 
 ## Note și precauții
 
-Îndrumarea este onestă cu privire la propriul statut, iar pagina ar trebui citită la fel. Autorii ei numesc intrările ipoteze construite prin raționament abductiv din știința dezvoltării deja consacrată, plus cercetare timpurie despre IA, adesea de mică amploare — nu îndrumare concludentă, fiindcă dovezi sistematice despre felul în care IA modelează o minte în dezvoltare pot dura un deceniu. Instrumentul modelează o deliberare atentă, nu raportează efecte.
+Îndrumarea este onestă cu privire la propriul statut. Autorii ei numesc intrările ipoteze construite prin raționament abductiv din știința dezvoltării deja consacrată, plus cercetare timpurie despre IA, adesea de mică amploare — nu îndrumare concludentă, fiindcă dovezi sistematice despre felul în care IA modelează o minte în dezvoltare pot dura un deceniu. Instrumentul modelează o deliberare atentă, nu raportează efecte.
 
 Alte două limite contează pentru predare. Recomandările sunt îndemnuri de proiectare, nu intervenții testate; nimic de pe site nu raportează un rezultat. Iar structura pe benzi de vârstă impune o grilă grosieră unei dezvoltări care variază în interiorul benzilor, între culturi și între contexte, ceea ce ghidul însuși recunoaște.
 

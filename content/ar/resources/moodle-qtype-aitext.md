@@ -1,7 +1,7 @@
 ---
 title: "نوع سؤال النص بالذكاء الاصطناعي في Moodle"
 created: "2026-11-12T19:25:00-05:00"
-updated: "2026-11-12T19:25:00-05:00"
+updated: "2026-11-16T19:19:07-05:00"
 type: resource
 summary: "نوع سؤال مفتوح المصدر في Moodle (GPL v3) يصحّح الإجابات النصية الحرة بنموذج لغوي كبير وفق مطالبة لكل سؤال ومخطط تنقيط اختياري، باستخدام OpenAI أو Azure أو نموذج Ollama مستضاف ذاتيًا، ويعرض تغذية الذكاء الاصطناعي الراجعة لمصحّح بشري."
 url: https://github.com/marcusgreen/moodle-qtype_aitext
@@ -17,10 +17,14 @@ foundations: [academic-integrity]
 audience: [instructors, educational technology developers, administrators]
 level: [higher ed, k 12]
 translation_of: resources/moodle-qtype-aitext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

@@ -1,7 +1,7 @@
 ---
 title: "MyEssayFeedback"
 created: "2026-11-12T11:42:00-05:00"
-updated: "2026-11-12T11:42:00-05:00"
+updated: "2026-11-16T19:27:35-05:00"
 type: resource
 summary: "Jukwaa la maoni ya AI linalodhibitiwa na mwalimu kwa insha za chuo: ilani za maoni kutoka maktaba ya OER ya aina 200+, tafakari za wanafunzi zilizopangwa kwa kila pendekezo la AI, dashibodi ya mwalimu yenye muhtasari wa darasa wa AI, na muunganisho wa LTI na Canvas, Blackboard na Moodle."
 url: https://myessayfeedback.ai/
@@ -16,10 +16,14 @@ ethics: [ai-use-disclosure]
 audience: [instructors, learners, faculty developers]
 level: [higher ed]
 translation_of: resources/my-essay-feedback
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

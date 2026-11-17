@@ -1,7 +1,7 @@
 ---
 title: "MyEssayFeedback"
 created: "2026-11-12T11:33:00-05:00"
-updated: "2026-11-12T11:33:00-05:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "大学のエッセイ向けの、教員が統制する AI フィードバック・プラットフォーム。200 種類以上の OER ライブラリから選ぶフィードバック・プロンプト、各 AI 提案に対する学生の構造化された省察、AI によるクラス要約付きの教員ダッシュボード、Canvas、Blackboard、Moodle との LTI 連携を備えます。"
 url: https://myessayfeedback.ai/
@@ -15,11 +15,15 @@ assessment: [ai-feedback-quality, feedback-literacy, formative-assessment]
 ethics: [ai-use-disclosure]
 audience: [instructors, learners, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/my-essay-feedback
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

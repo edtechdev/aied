@@ -1,7 +1,7 @@
 ---
 title: "Orientação sobre IA por idade"
 created: "2026-11-12T13:44:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:27:33-05:00"
 type: resource
 summary: "Um guia interativo do Compass Collaborative, da Harvard Graduate School of Education, que combina nove faixas etárias, de 0–2 a 26–40, com dez domínios do desenvolvimento e, em cada interseção, pergunta o que está se desenvolvendo, que pesquisa sobre IA existe e como a IA pode ajudar ou atrapalhar — explicitamente como hipóteses, não como achados."
 url: https://compass.gse.harvard.edu/explore/
@@ -16,10 +16,14 @@ technology: [generative-ai]
 audience: [parents and families, instructors, administrators, learners, policymakers, researchers]
 level: [preschool, primary education, secondary, higher ed, adult learning]
 translation_of: resources/ai-guidance-by-age
-source_updated: "2026-11-12T13:50:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -43,7 +47,7 @@ Para professores da [[early-childhood-elementary-ai-education|educação infanti
 
 ## Notas e ressalvas
 
-O guia é honesto sobre seu próprio status, e a página deve ser lida do mesmo modo. Sua autoria chama as entradas de hipóteses construídas por raciocínio abdutivo a partir da ciência do desenvolvimento consolidada e de pesquisas iniciais, muitas vezes pequenas, sobre IA — não orientação conclusiva, pois evidências sistemáticas sobre como a IA molda uma mente em desenvolvimento podem levar uma década. A ferramenta modela uma deliberação cuidadosa em vez de relatar efeitos.
+O guia é honesto sobre seu próprio status. Sua autoria chama as entradas de hipóteses construídas por raciocínio abdutivo a partir da ciência do desenvolvimento consolidada e de pesquisas iniciais, muitas vezes pequenas, sobre IA — não orientação conclusiva, pois evidências sistemáticas sobre como a IA molda uma mente em desenvolvimento podem levar uma década. A ferramenta modela uma deliberação cuidadosa em vez de relatar efeitos.
 
 Mais dois limites importam para o ensino. As recomendações são provocações de design, não intervenções testadas; nada no site relata um resultado. E a estrutura por faixas etárias impõe uma grade grossa a um desenvolvimento que varia dentro das faixas, entre culturas e entre contextos, o que o próprio guia reconhece.
 

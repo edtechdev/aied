@@ -1,7 +1,7 @@
 ---
 title: "conText"
 created: "2026-11-12T19:25:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:19:07-05:00"
 type: resource
 summary: "مدرّب مجاني يعمل في المتصفّح يقرأ صورة لدفتر أو ملف PDF أو نصًا، ثم يتحدّث مع الطالب بشأنه على الطريقة السقراطية بالإنجليزية أو الإسبانية، ويرسم أثناء ذلك رسمًا بيانيًا حيًّا للأفكار التي يربطها وهو يتحدّث."
 url: https://context.aideatext.ai/?lang=en
@@ -16,10 +16,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors, faculty developers]
 level: [k 12, higher ed]
 translation_of: resources/context-aideatext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

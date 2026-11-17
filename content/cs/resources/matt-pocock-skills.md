@@ -19,10 +19,14 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [clarity, education-agent-skills]
 translation_of: resources/matt-pocock-skills
-source_updated: "2026-09-27T03:31:33-04:00"
+source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
@@ -33,7 +37,7 @@ ai_assist:
 
 **Skills for Real Engineers** je zveřejněný adresář agentních dovedností Matta Pococka: malé, skládatelné instrukční soubory, které se instalují do Claude Code, Codex nebo jiného agenta a jsou psané tak, aby se přizpůsobovaly, nikoli přejímaly celé. Většina sbírky slouží softwarové práci, ale několik dovedností jsou vzdělávací nástroje postavené pro výuku a dotazování, nikoli pro kód.
 
-Nejjasnějším příkladem je `teach`, který běží přes několik sezení a pracovní adresář bere jako stavový výukový prostor, takže pokrok studenta a otevřené otázky přetrvávají mezi rozhovory, místo aby se pokaždé začínalo znovu. `grill-me` a jeho základní primitiv `grilling` neúnavně zpovídají uživatele o plánu, dokud není vyřešena každá větev, což je [[socratic-method|sokratovské dotazování]] jako opakovaně použitelný postup, nikoli jako konverzační nálada. `wait-what` reaguje ve chvíli, kdy zpráva nedopadne, tím, že ji znovu podá v prostém jazyce s chybějícím kontextem — tah, který každý vyučující zná z toho, když vysvětlení napoprvé mine. `writing-for-agents` pokrývá, jak psát dokumenty, které [[prompt-engineering|agent]] umí sledovat, což je dnes praktická podoba psaní instrukcí pro [[pedagogical-agent|AI]] výukové materiály. `to-questionnaire` mění rozhodnutí v dotazník pro toho, kdo na něj umí odpovědět, `handoff` zhutní rozhovor do dokumentu, z něhož může pokračovat jiný agent, a `wizard` generuje interaktivní průchod kroky, které umí provést jen člověk.
+Nejjasnějším příkladem je `teach`, který běží přes několik sezení a pracovní adresář bere jako stavový výukový prostor, takže pokrok studenta a otevřené otázky přetrvávají mezi rozhovory, místo aby se pokaždé začínalo znovu. `grill-me` a jeho základní primitiv `grilling` neúnavně zpovídají uživatele o plánu, dokud není vyřešena každá větev, což je [[socratic-method|sokratovské dotazování]] jako opakovaně použitelný postup, nikoli jako konverzační nálada. `wait-what` reaguje ve chvíli, kdy zpráva nedopadne, tím, že ji znovu podá v prostém jazyce s chybějícím kontextem — tah, který každý vyučující zná z toho, když vysvětlení napoprvé mine. `writing-for-agents` pokrývá, jak psát dokumenty, které [[prompt-engineering|agent]] umí sledovat, což je dnes praktická podoba psaní instrukcí pro [[pedagogical-agent|AI]] výukové materiály. `to-questionnaire` mění rozhodnutí v dotazník pro toho, kdo na něj umí odpovědět, `handoff` zhutní rozhovor do dokumentu, z něhož může pokračovat jiný agent, a `wizard` generuje interaktivní průchod kroky, které umí provést jen člověk. Pokud chcete jen samotnou doučovací smyčku, a ne adresář k přizpůsobení, Jane Street vydává jednoúčelovou dovednost [`socratic-tutor`](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md), která provede diagnostiku, zmapuje každou dílčí dovednost na úrovních 0–5, naplánuje rozložené opakování a uzavře ji hodnocením, bez inženýrského rámování a s pojistkou proti vyzkoušování studenta, který chtěl jen rychlou odpověď.
 
 ## Co vědět, než jej přijmete
 

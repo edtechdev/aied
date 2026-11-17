@@ -1,7 +1,7 @@
 ---
 title: "آواز اولیت والا تحریری جائزہ"
 created: "2026-11-12T13:40:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:31:19-05:00"
 type: resource
 summary: "دو مرحلوں پر مشتمل جائزہ ماڈل اور عمل درآمد رہنما: کسی ان دیکھے پرامپٹ پر طالب علم کی استدلال کا نگرانی میں، بغیر نمبروں کے ریکارڈ، پھر گھر پر AI ٹولز کی بلا قید اجازت کے ساتھ مکمل کی گئی نمبر شدہ تحریری جمع کاری، جسے ثبوت پر مبنی فیصلے سے پہلے مرحلے سے جوڑا جاتا ہے، اور جہاں یہ ربط واضح نہ ہو وہاں مشروط زبانی امتحان۔"
 url: https://kellywebbdavies.com/vfwa/
@@ -17,10 +17,14 @@ ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
 translation_of: resources/vfwa
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

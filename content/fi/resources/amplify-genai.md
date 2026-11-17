@@ -1,7 +1,7 @@
 ---
 title: "Amplify GenAI"
 created: "2026-11-12T19:44:00-05:00"
-updated: "2026-11-12T19:44:00-05:00"
+updated: "2026-11-16T19:19:32-05:00"
 type: resource
 summary: "Vanderbiltin MIT-lisensoitu yritystason generatiivisen tekoälyn alusta, joka asennetaan oppilaitoksen omaan AWS-tiliin: mukautetut avustajat paikallisten asiakirjojen päälle, hakuun perustuvat vastaukset, jakaminen organisaation sisällä ja kustannuslaskenta yksittäiseen viestiin asti."
 url: https://www.amplifygenai.org/
@@ -16,11 +16,15 @@ technology: [generative-ai, llm, open-source, rag]
 audience: [administrators, instructors, faculty developers, educational technology developers]
 level: [higher ed]
 connected_resources: [mindrouter]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/amplify-genai
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

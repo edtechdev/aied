@@ -1,7 +1,7 @@
 ---
 title: "음성 우선 작문 평가"
 created: "2026-11-12T14:00:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "2단계 평가 모델과 실행 안내서: 학생이 처음 보는 프롬프트에 대해 감독 아래에서 추론하는 과정을 관찰하되 점수 없이 포착한 뒤, AI 도구를 제한 없이 쓸 수 있는 상태에서 집에서 완성하는 점수 부여 작문 과제를 증거적 판단으로 첫 단계와 연결하고, 그 연결이 불분명한 경우 조건부 구술 심사를 두는 방식입니다."
 url: https://kellywebbdavies.com/vfwa/
@@ -17,10 +17,14 @@ ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
 translation_of: resources/vfwa
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

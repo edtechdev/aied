@@ -1,7 +1,7 @@
 ---
 title: "NowComment"
 created: "2026-11-12T11:11:00-05:00"
-updated: "2026-11-12T11:30:00-05:00"
+updated: "2026-11-16T19:27:33-05:00"
 type: resource
 summary: "Bezpłatna platforma adnotacji oparta na kontach, w której wątkowe dyskusje przypisują się do konkretnych zdań, obszarów obrazu i znaczników czasu wideo, a oparte na OpenAI „AI Thinking Partners” mogą przygotować odpowiedź na wybrany fragment, którą student edytuje przed opublikowaniem."
 url: https://nowcomment.com/
@@ -16,10 +16,14 @@ assessment: [peer-assessment, ai-feedback-quality, formative-assessment]
 audience: [instructors, learners, faculty developers]
 level: [k 12, higher ed]
 translation_of: resources/nowcomment
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -32,7 +36,7 @@ NowComment zamienia tekst, obraz lub wideo w powierzchnię dyskusji: komentarze 
 
 ## Co można z nim zrobić
 
-Prześlij dokument, zaproś czytelników, a każdy wybrany fragment może nieść wiele rozmów, wyświetlanych w kolumnie bocznej lub w tekście. Na tym tle funkcje AI są powodem, by przyjrzeć się narzędziu teraz. **Ask AI** na zdaniu lub akapicie klikniętym dwukrotnie otwiera wybór partnera: czytelnik wybiera *GPT Thinking Partner*, pisze pytanie, dodaje opcjonalną notatkę o czytelniku i może wielokrotnie użyć **Resubmit**, aż wynik będzie użyteczny. Odpowiedź jest potem edytowana na miejscu przed opublikowaniem, co czyni studenta współautorem tekstu AI, a nie jego przekazicielem. Katalog sprawdzonych partnerów stoi obok partnerów tworzonych przez użytkowników, a materiały pomocy strony zawierają przewodniki po [[prompt-engineering|promptach]], które skłaniają asystenta do proszenia czytelnika o zaplanowanie rewizji, zamiast jej produkowania. Towarzyszący wzorzec *GPT Dialogue Notebook* zbiera cotygodniowe pisemne dzienniki plus lektury, obrazy i filmy, z którymi się łączą, z [[privacy|prywatnością]] ustawianą dla każdego dokumentu, więc dialog z AI narasta przez semestr, zamiast resetować się co sesję. Wbudowana analityka liczy komentarze i wizyty na dokument i eksportuje do CSV.
+Prześlij dokument, zaproś czytelników, a każdy wybrany fragment może nieść wiele rozmów, wyświetlanych w kolumnie bocznej lub w tekście. **Ask AI** na zdaniu lub akapicie klikniętym dwukrotnie otwiera wybór partnera: czytelnik wybiera *GPT Thinking Partner*, pisze pytanie, dodaje opcjonalną notatkę o czytelniku i może wielokrotnie użyć **Resubmit**, aż wynik będzie użyteczny. Odpowiedź jest potem edytowana na miejscu przed opublikowaniem, co czyni studenta współautorem tekstu AI, a nie jego przekazicielem. Katalog sprawdzonych partnerów stoi obok partnerów tworzonych przez użytkowników, a materiały pomocy strony zawierają przewodniki po [[prompt-engineering|promptach]], które skłaniają asystenta do proszenia czytelnika o zaplanowanie rewizji, zamiast jej produkowania. Towarzyszący wzorzec *GPT Dialogue Notebook* zbiera cotygodniowe pisemne dzienniki plus lektury, obrazy i filmy, z którymi się łączą, z [[privacy|prywatnością]] ustawianą dla każdego dokumentu, więc dialog z AI narasta przez semestr, zamiast resetować się co sesję. Wbudowana analityka liczy komentarze i wizyty na dokument i eksportuje do CSV.
 
 Pętla adnotacji sama w sobie jest projektem [[collaborative-learning|uczenia się współpracy]] w starszym sensie: czytelnicy odpowiadają na te same dowody, a wątek zapisuje, kto co powiedział o którym zdaniu. Ponieważ odpowiedzi mogą być rówieśnicze lub AI, działa też jako niskostawkowa powierzchnia [[peer-assessment|oceny rówieśniczej]], a prompty partnerów można kierować na cechy [[ai-feedback-quality|użytecznej informacji zwrotnej AI]], a nie na odpowiedzi.
 

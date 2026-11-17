@@ -1,7 +1,7 @@
 ---
 title: "Tale-først skriftlig vurdering"
 created: "2026-11-12T14:05:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:19:09-05:00"
 type: resource
 summary: "En to-trins vurderingsmodel og implementeringsvejledning: en observeret, ikke-bedømt indfangning af en studerendes ræsonnement på en uset prompt, efterfulgt af en bedømt skriftlig aflevering udarbejdet derhjemme med ubegrænsede AI-værktøjer, knyttet til første trin ved en evidensbaseret vurdering, med et betinget mundtligt forsvar, hvor den forbindelse er uklar."
 url: https://kellywebbdavies.com/vfwa/
@@ -17,10 +17,14 @@ ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
 translation_of: resources/vfwa
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

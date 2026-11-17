@@ -1,7 +1,7 @@
 ---
 title: "Mwongozo wa AI kwa Umri"
 created: "2026-11-12T14:35:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:27:35-05:00"
 type: resource
 summary: "Mwongozo unaoingiliana kutoka Compass Collaborative ya Harvard unaounganisha makundi tisa ya umri kuanzia 0–2 hadi 26–40 na nyanja kumi za maendeleo, na kuuliza katika kila makutano kile kinachokua, utafiti gani wa AI upo, na jinsi AI inaweza kusaidia au kuzuia — kwa uwazi kama dhana za kudhaniwa badala ya matokeo ya utafiti."
 url: https://compass.gse.harvard.edu/explore/
@@ -16,10 +16,14 @@ technology: [generative-ai]
 audience: [parents and families, instructors, administrators, learners, policymakers, researchers]
 level: [preschool, primary education, secondary, higher ed, adult learning]
 translation_of: resources/ai-guidance-by-age
-source_updated: "2026-11-12T13:50:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -43,7 +47,7 @@ Waelimishaji wa [[early-childhood-elementary-ai-education|elimu ya watoto wadogo
 
 ## Vidokezo na maelezo ya tahadhari
 
-Mwongozo huu ni mkweli kuhusu hali yake yenyewe, na ukurasa unapaswa kusomwa vivyo hivyo. Waandishi huita maingizo hayo dhana za kudhaniwa zilizojengwa kwa kufikiri kwa uwezekano bora kutoka sayansi ya maendeleo iliyothibitishwa pamoja na utafiti wa awali wa AI, ambao mara nyingi ni mdogo — si mwongozo wa kuhitimisha, kwa sababu ushahidi wa kimfumo kuhusu jinsi AI inavyounda akili inayokua unaweza kuchukua muongo mmoja. Chombo hiki kinatoa mfano wa ufikiriaji wa makini badala ya kuripoti athari.
+Mwongozo huu ni mkweli kuhusu hali yake yenyewe. Waandishi huita maingizo hayo dhana za kudhaniwa zilizojengwa kwa kufikiri kwa uwezekano bora kutoka sayansi ya maendeleo iliyothibitishwa pamoja na utafiti wa awali wa AI, ambao mara nyingi ni mdogo — si mwongozo wa kuhitimisha, kwa sababu ushahidi wa kimfumo kuhusu jinsi AI inavyounda akili inayokua unaweza kuchukua muongo mmoja. Chombo hiki kinatoa mfano wa ufikiriaji wa makini badala ya kuripoti athari.
 
 Mipaka miwili zaidi ni muhimu kwa ufundishaji. Mapendekezo ni vichocheo vya kubuni, si hatua zilizojaribiwa; hakuna chochote kwenye tovuti kinachoripoti matokeo. Na muundo wa makundi ya umri unaweka gridi isiyo finyu juu ya maendeleo yanayotofautiana ndani ya makundi, kati ya tamaduni na kati ya miktadha, jambo ambalo mwongozo wenyewe unakubali.
 

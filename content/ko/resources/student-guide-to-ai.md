@@ -1,7 +1,7 @@
 ---
 title: "학생용 AI 안내서"
 created: "2026-09-28T04:47:03-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "Elon University, AAC&U, The Princeton Review이 함께 만든 무료 학생용 인공지능 안내서로, 세 개 판이 나왔으며 2026년 판은 교수자가 바로 쓸 수 있는 학습 모듈과 익명 자기 평가로 인간의 열 가지 역량을 다룹니다."
 url: https://studentguidetoai.org/
@@ -19,6 +19,10 @@ audience: [learners, instructors]
 level: [undergraduate, secondary]
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
     date: "2026-09-28"
@@ -28,7 +32,7 @@ ai_assist:
     date: "2026-10-11"
     agent: hermes-agent
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 ---
 
@@ -58,7 +62,7 @@ Imagining the Digital Future Center, 미국 대학·대학원 협회(American As
 
 전공을 불문한 학부생과 고등학교 고학년입니다. 교수, 학업 지원 담당자,
 사서, 학생 업무 종사자는 모듈 집합과 토론 질문을 받습니다. 이 안내서는 의도적으로
-학문 분야에 중립적이며, 이것이 기관들이 1학년 세미나, 교수자 연수, 그리고
+학문 분야에 중립적이며, 이것이 기관들이 1학년 세미나, [[educational-development|교수자 연수]], 그리고
 각자의 AI 사업에 공통되는 어휘를 만드는 데 이 안내서를 쓰는 이유입니다.
 
 ## 참고사항과 유의점

@@ -1,7 +1,7 @@
 ---
 title: "Röstbaserad skriftlig bedömning"
 created: "2026-11-12T13:52:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:27:34-05:00"
 type: resource
 summary: "En tvåstegs bedömningsmodell med implementeringsguide: en observerad, icke-betygssatt insamling av en students resonemang kring en osedd uppgift, följd av en betygssatt skriftlig inlämning som görs hemma med AI-verktyg fritt tillgängliga, kopplad till det första steget genom en bevisbedömning, med en villkorad muntlig examination när den kopplingen är oklar."
 url: https://kellywebbdavies.com/vfwa/
@@ -17,10 +17,14 @@ ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
 translation_of: resources/vfwa
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

@@ -1,7 +1,7 @@
 ---
 title: "MindRouter"
 created: "2026-11-12T20:20:00-05:00"
-updated: "2026-11-12T20:20:00-05:00"
+updated: "2026-11-16T19:27:33-05:00"
 type: resource
 summary: "Um gateway de inferência sob Apache-2.0 da Universidade de Idaho que coloca uma única API compatível com OpenAI na frente de um cluster universitário de nós GPU com vLLM e Ollama, e acrescenta agendamento de repartição justa, cotas de tokens por usuário, SSO, registro de auditoria e monitoramento ao vivo de GPU e energia."
 url: https://github.com/ui-insight/MindRouter
@@ -15,11 +15,15 @@ technology: [generative-ai, llm, open-source]
 audience: [administrators, educational technology developers, faculty developers]
 level: [higher ed]
 connected_resources: [amplify-genai]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/mindrouter
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

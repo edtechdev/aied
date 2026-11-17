@@ -1,7 +1,7 @@
 ---
 title: "Amplify GenAI"
 created: "2026-11-12T19:20:00-05:00"
-updated: "2026-11-12T19:20:00-05:00"
+updated: "2026-11-16T19:24:14-05:00"
 type: resource
 summary: "Vanderbilts MIT-gelicenseerde enterpriseplatform voor generatieve AI, uitgerold in het eigen AWS-account van een instelling: aangepaste assistenten op lokale documenten, retrieval-augmented antwoorden, delen binnen de organisatie en kostenadministratie tot op het niveau van het individuele bericht."
 url: https://www.amplifygenai.org/
@@ -17,10 +17,14 @@ audience: [administrators, instructors, faculty developers, educational technolo
 level: [higher ed]
 connected_resources: [mindrouter]
 translation_of: resources/amplify-genai
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

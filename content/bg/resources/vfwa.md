@@ -1,7 +1,7 @@
 ---
 title: "Писмено оценяване с приоритет на гласа"
 created: "2026-11-12T13:48:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:19:31-05:00"
 type: resource
 summary: "Двуетапен модел за оценяване и ръководство за внедряване: наблюдавано и неоценявано фиксиране на разсъждението на студента по непозната задача, последвано от оценявана писмена работа, изготвена вкъщи без ограничения върху инструментите за ИИ и свързана с първия етап чрез доказателствено съждение, с условно устно изпитване там, където тази връзка е неясна."
 url: https://kellywebbdavies.com/vfwa/
@@ -17,10 +17,14 @@ ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
 translation_of: resources/vfwa
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

@@ -1,7 +1,7 @@
 ---
 title: "MindRouter"
 created: "2026-11-12T19:25:00-05:00"
-updated: "2026-11-12T19:25:00-05:00"
+updated: "2026-11-16T19:19:07-05:00"
 type: resource
 summary: "بوابة استدلال بترخيص Apache-2.0 من جامعة Idaho تضع كتلة الحرم من عقد vLLM وOllama على وحدات GPU خلف واجهة برمجة واحدة متوافقة مع OpenAI، وتضيف جدولة عادلة بالحصص، وحصص رموز لكل مستخدم، ودخولًا موحّدًا، وتسجيل تدقيق، ومراقبة حيّة لوحدات GPU والطاقة."
 url: https://github.com/ui-insight/MindRouter
@@ -16,10 +16,14 @@ audience: [administrators, educational technology developers, faculty developers
 level: [higher ed]
 connected_resources: [amplify-genai]
 translation_of: resources/mindrouter
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

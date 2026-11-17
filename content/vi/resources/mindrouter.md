@@ -1,7 +1,7 @@
 ---
 title: "MindRouter"
 created: "2026-11-12T11:30:00-05:00"
-updated: "2026-11-12T11:30:00-05:00"
+updated: "2026-11-16T19:31:19-05:00"
 type: resource
 summary: "Cổng suy luận Apache-2.0 của Đại học Idaho, đặt cụm GPU vLLM và Ollama của khuôn viên sau một API tương thích OpenAI, bổ sung lập lịch chia sẻ công bằng, hạn ngạch token theo người dùng, SSO, ghi log kiểm toán và giám sát GPU cùng năng lượng trực tiếp."
 url: https://github.com/ui-insight/MindRouter
@@ -16,10 +16,14 @@ audience: [administrators, educational technology developers, faculty developers
 level: [higher ed]
 connected_resources: [amplify-genai]
 translation_of: resources/mindrouter
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

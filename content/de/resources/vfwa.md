@@ -1,7 +1,7 @@
 ---
 title: "Sprachzentrierte schriftliche Leistungsbewertung"
 created: "2026-11-12T13:41:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:14:57-05:00"
 type: resource
 summary: "Ein zweistufiges Bewertungsmodell mit Umsetzungsleitfaden: eine beobachtete, unbenotete Erfassung des Denkens einer studierenden Person zu einer unbekannten Aufgabe, gefolgt von einer benoteten schriftlichen Abgabe, die zu Hause mit uneingeschränkt zugänglichen KI-Werkzeugen entsteht, über ein evidentielles Urteil mit der ersten Stufe verknüpft und bei unklarem Zusammenhang durch eine bedingte mündliche Prüfung ergänzt."
 url: https://kellywebbdavies.com/vfwa/
@@ -17,10 +17,14 @@ ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
 translation_of: resources/vfwa
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

@@ -1,7 +1,7 @@
 ---
 title: "MyEssayFeedback"
 created: "2026-11-12T11:04:00-05:00"
-updated: "2026-11-12T11:38:00-05:00"
+updated: "2026-11-16T19:27:34-05:00"
 type: resource
 summary: "Platforma spätnej väzby AI pod kontrolou učiteľa pre eseje na vysokej škole: prompty spätnej väzby z knižnice OER s viac než 200 typmi, štruktúrované reflexie študentov ku každému návrhu AI, panel učiteľa so zhrnutím triedy od AI a integrácia LTI s Canvas, Blackboard a Moodle."
 url: https://myessayfeedback.ai/
@@ -16,10 +16,14 @@ ethics: [ai-use-disclosure]
 audience: [instructors, learners, faculty developers]
 level: [higher ed]
 translation_of: resources/my-essay-feedback
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

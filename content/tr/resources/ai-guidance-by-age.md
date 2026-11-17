@@ -1,7 +1,7 @@
 ---
 title: "Yaşa Göre YZ Rehberliği"
 created: "2026-11-12T13:41:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:31:19-05:00"
 type: resource
 summary: "Harvard'ın Compass Collaborative girişiminden, 0–2'den 26–40'a dokuz yaş bandını on gelişim alanıyla eşleştiren ve her kesişimde neyin gelişmekte olduğunu, hangi YZ araştırmasının bulunduğunu ve YZ'nin nasıl yardımcı olabileceğini ya da engel olabileceğini soran etkileşimli bir kılavuz — bunları bulgu olarak değil açıkça hipotez olarak sunuyor."
 url: https://compass.gse.harvard.edu/explore/
@@ -16,10 +16,14 @@ technology: [generative-ai]
 audience: [parents and families, instructors, administrators, learners, policymakers, researchers]
 level: [preschool, primary education, secondary, higher ed, adult learning]
 translation_of: resources/ai-guidance-by-age
-source_updated: "2026-11-12T13:50:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -43,7 +47,7 @@ Hangi yaşta neye izin verileceğine karar veren [[early-childhood-elementary-ai
 
 ## Notlar ve uyarılar
 
-Rehberlik kendi durumu hakkında dürüsttür ve sayfa da aynı şekilde okunmalıdır. Yazarları kayıtları, yerleşik gelişim biliminden ve erken, çoğu zaman küçük ölçekli YZ araştırmasından abdüktif akıl yürütmeyle kurulmuş hipotezler olarak adlandırıyor — kesin rehberlik değil, çünkü YZ'nin gelişen bir zihni nasıl biçimlendirdiğine dair sistematik kanıt on yıl alabilir. Araç, etkileri raporlamak yerine dikkatli bir muhakemeyi örnekliyor.
+Rehberlik kendi durumu hakkında dürüsttür. Yazarları kayıtları, yerleşik gelişim biliminden ve erken, çoğu zaman küçük ölçekli YZ araştırmasından abdüktif akıl yürütmeyle kurulmuş hipotezler olarak adlandırıyor — kesin rehberlik değil, çünkü YZ'nin gelişen bir zihni nasıl biçimlendirdiğine dair sistematik kanıt on yıl alabilir. Araç, etkileri raporlamak yerine dikkatli bir muhakemeyi örnekliyor.
 
 Öğretim açısından iki sınır daha önemlidir. Öneriler test edilmiş müdahaleler değil tasarım istemleridir; sitede hiçbir şey bir sonuç raporlamıyor. Yaş bandı yapısı da, bantların içinde, kültürler arasında ve bağlamlar arasında değişen gelişime kaba bir ızgara dayatıyor; kılavuzun kendisi de bunu kabul ediyor.
 

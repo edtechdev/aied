@@ -1,7 +1,7 @@
 ---
 title: "Písomné hodnotenie vychádzajúce z hlasu"
 created: "2026-11-12T14:05:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:27:34-05:00"
 type: resource
 summary: "Dvojfázový model hodnotenia a príručka na implementáciu: pozorované, neznámkované zachytenie uvažovania študenta na nevidený podnet, po ktorom nasleduje známkované písomné zadanie vypracované doma s neobmedzenými nástrojmi AI, prepojené s prvou fázou dôkazovým posúdením, s podmienečnou ústnou obhajobou v prípadoch, keď je toto prepojenie nejasné."
 url: https://kellywebbdavies.com/vfwa/
@@ -17,10 +17,14 @@ ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
 translation_of: resources/vfwa
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Automatický strojový preklad tejto anglickej stránky, ktorý ešte nebol skontrolovaný rodeným hovorcom."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

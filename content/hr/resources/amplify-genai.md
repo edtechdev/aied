@@ -1,7 +1,7 @@
 ---
 title: "Amplify GenAI"
 created: "2026-11-12T19:15:00-05:00"
-updated: "2026-11-12T19:45:00-05:00"
+updated: "2026-11-16T19:24:26-05:00"
 type: resource
 summary: "Vanderbiltova MIT-licencirana korporativna platforma za generativnu umjetnu inteligenciju, postavljena u vlastitom AWS računu ustanove: prilagođeni asistenti nad lokalnim dokumentima, odgovori s dohvaćanjem, dijeljenje u cijeloj organizaciji i obračun troškova do pojedinačne poruke."
 url: https://www.amplifygenai.org/
@@ -17,10 +17,14 @@ audience: [administrators, instructors, faculty developers, educational technolo
 level: [higher ed]
 connected_resources: [mindrouter]
 translation_of: resources/amplify-genai
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

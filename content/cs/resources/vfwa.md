@@ -1,7 +1,7 @@
 ---
 title: "Hlasově orientované písemné hodnocení"
 created: "2026-11-12T13:39:44-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:19:31-05:00"
 type: resource
 summary: "Dvoufázový model hodnocení a implementační příručka: pozorovaný, neznámkovaný záznam uvažování studenta nad neznámým zadáním, po němž následuje známkovaná písemná práce vypracovaná doma s neomezeným použitím nástrojů AI, propojená s první fází důkazním úsudkem, s podmíněnou ústní obhajobou (viva) v případech, kdy je toto propojení nejasné."
 url: https://kellywebbdavies.com/vfwa/
@@ -20,13 +20,18 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
 translation_of: "resources/vfwa"
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "*Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*"
 ---
+
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
 
 VFWA není produkt, který si nainstalujete; je to struktura hodnocení, za níž stojí web, pracovní text a implementační příručka. Struktura má dvě fáze. V první studenti reagují na zadání, které dosud neviděli, pod dohledem, v jazyce nebo formě, která jim vyhovuje — řeč, rukopis, argumentační mapa, jiný jazyk — a odpověď se posuzuje z hlediska dostatečnosti, nikoli známkuje. Ve druhé si tento artefakt vezmou domů a rozvinou ho ve známkovanou práci, přičemž [[generative-ai|nástroje AI]] jsou povoleny a volitelné. Hodnotitel posuzuje, zda lze konečný text číst jako studentovo odpovědné rozpracování prvního.

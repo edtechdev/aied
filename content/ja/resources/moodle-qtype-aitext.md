@@ -1,7 +1,7 @@
 ---
 title: "Moodle AI テキスト問題タイプ"
 created: "2026-11-12T11:31:00-05:00"
-updated: "2026-11-12T11:31:00-05:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "自由記述の解答を、問題ごとのプロンプトと任意の採点基準に照らして大規模言語モデルで採点する、オープンソースの Moodle 問題タイプ（GPL v3）。OpenAI、Azure、またはセルフホストの Ollama モデルを使い、AI のフィードバックを人間の採点者に示します。"
 url: https://github.com/marcusgreen/moodle-qtype_aitext
@@ -16,11 +16,15 @@ assessment: [automated-essay-scoring, ai-feedback-quality, formative-assessment]
 foundations: [academic-integrity]
 audience: [instructors, educational technology developers, administrators]
 level: [higher ed, k 12]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/moodle-qtype-aitext
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

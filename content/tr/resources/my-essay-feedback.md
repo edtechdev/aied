@@ -1,7 +1,7 @@
 ---
 title: "MyEssayFeedback"
 created: "2026-11-12T19:20:00-05:00"
-updated: "2026-11-12T19:20:00-05:00"
+updated: "2026-11-16T19:31:19-05:00"
 type: resource
 summary: "Üniversite makaleleri için öğretim elemanı denetiminde bir YZ geri bildirim platformu: 200'den fazla türden oluşan bir OER kütüphanesinden alınan geri bildirim istemleri, her YZ önerisine yapılandırılmış öğrenci yansımaları, YZ sınıf özeti olan bir öğretim elemanı panosu ve Canvas, Blackboard ve Moodle ile LTI entegrasyonu."
 url: https://myessayfeedback.ai/
@@ -16,10 +16,14 @@ ethics: [ai-use-disclosure]
 audience: [instructors, learners, faculty developers]
 level: [higher ed]
 translation_of: resources/my-essay-feedback
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

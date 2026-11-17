@@ -19,10 +19,14 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [clarity, education-agent-skills]
 translation_of: resources/matt-pocock-skills
-source_updated: "2026-09-27T03:31:33-04:00"
+source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
@@ -47,7 +51,12 @@ penjelasan yang meleset pertama kali. `writing-for-agents` membahas cara menulis
 diikuti [[prompt-engineering|agen]], yang kini menjadi bentuk praktis dari menulis instruksi untuk materi
 mata kuliah [[pedagogical-agent|AI]]. `to-questionnaire` mengubah sebuah keputusan menjadi kuesioner bagi
 siapa pun yang dapat menjawabnya, `handoff` memadatkan percakapan menjadi dokumen yang dapat dilanjutkan
-agen lain, dan `wizard` menghasilkan panduan interaktif untuk langkah yang hanya dapat dilakukan orang.
+agen lain, dan `wizard` menghasilkan panduan interaktif untuk langkah yang hanya dapat dilakukan orang. Jika
+yang Anda inginkan hanyalah lingkar tutorial itu sendiri alih-alih direktori untuk diadaptasi, Jane Street
+menerbitkan [skill `socratic-tutor`](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md)
+satu tujuan yang menjalankan diagnostik, memetakan setiap subketerampilan pada level 0-5, menjadwalkan
+tinjauan berjarak dan menutup dengan asesmen, tanpa pembingkaian engineering dan dengan pengaman agar tidak
+mengujikan pertanyaan kepada pembelajar yang hanya menginginkan jawaban cepat.
 
 ## Yang perlu diketahui sebelum mengadopsinya
 

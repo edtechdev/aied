@@ -1,7 +1,7 @@
 ---
 title: "MindRouter"
 created: "2026-11-12T11:29:00-05:00"
-updated: "2026-11-12T11:29:00-05:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "アイダホ大学による Apache-2.0 の推論ゲートウェイ。vLLM と Ollama の GPU ノードからなるキャンパスクラスタを、OpenAI 互換の単一 API の背後に置き、公平シェアのスケジューリング、利用者ごとのトークンクォータ、SSO、監査ログ、GPU とエネルギーのリアルタイム監視を加えます。"
 url: https://github.com/ui-insight/MindRouter
@@ -15,11 +15,15 @@ technology: [generative-ai, llm, open-source]
 audience: [administrators, educational technology developers, faculty developers]
 level: [higher ed]
 connected_resources: [amplify-genai]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/mindrouter
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

@@ -1,7 +1,7 @@
 ---
 title: "MyEssayFeedback"
 created: "2026-11-12T20:50:00-05:00"
-updated: "2026-11-12T20:50:00-05:00"
+updated: "2026-11-16T19:19:10-05:00"
 type: resource
 summary: "פלטפורמת משוב בינה מלאכותית בשליטת המרצה לחיבורים אקדמיים: הנחיות משוב מתוך ספריית OER של יותר מ-200 סוגים, רפלקציות מובנות של סטודנטים על כל הצעה של הבינה המלאכותית, לוח מחוונים למרצה עם סיכום כיתה שנוצר בבינה מלאכותית, ושילוב LTI עם Canvas, Blackboard ו-Moodle."
 url: https://myessayfeedback.ai/
@@ -16,10 +16,14 @@ ethics: [ai-use-disclosure]
 audience: [instructors, learners, faculty developers]
 level: [higher ed]
 translation_of: resources/my-essay-feedback
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

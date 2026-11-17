@@ -17,10 +17,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors]
 level: [undergraduate, secondary]
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
@@ -37,7 +41,7 @@ Ghidul de teren din 2026 parcurge zece capacități — curiozitate, [[critical-
 
 ## Pentru cine este
 
-Studenți la orice disciplină și elevi din ciclul superior de liceu. Corpul didactic, personalul de sprijin academic, bibliotecarii și educatorii din serviciile pentru studenți primesc setul de module și îndemnurile de discuție; ghidul este deliberat neutru disciplinar, motiv pentru care instituțiile îl folosesc la seminarele din primul an, în dezvoltarea profesională și ca vocabular comun între inițiative IA separate.
+Studenți la orice disciplină și elevi din ciclul superior de liceu. Corpul didactic, personalul de sprijin academic, bibliotecarii și educatorii din serviciile pentru studenți primesc setul de module și îndemnurile de discuție; ghidul este deliberat neutru disciplinar, motiv pentru care instituțiile îl folosesc la seminarele din primul an, în [[educational-development|dezvoltarea profesională]] și ca vocabular comun între inițiative IA separate.
 
 ## Note și precauții
 

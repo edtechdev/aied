@@ -1,7 +1,7 @@
 ---
 title: "Teacher Hive"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-10T23:05:00-05:00"
+updated: "2026-11-16T19:19:31-05:00"
 type: resource
 summary: "Bezplatná hostovací platforma Tonyho Vincenta, kde učitelé publikují AI generované webové aplikace do výuky, sdílejí je odkazem nebo QR kódem a procházejí stovky aplikací od jiných učitelů."
 url: https://teacherhive.app/
@@ -15,11 +15,15 @@ technology: [generative-ai]
 audience: [instructors, instructional designers]
 discipline: [teacher education]
 level: [k 12]
-source_updated: "2026-11-10T19:52:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/teacher-hive
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-10"

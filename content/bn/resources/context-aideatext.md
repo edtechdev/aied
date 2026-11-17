@@ -1,7 +1,7 @@
 ---
 title: "conText"
 created: "2026-11-12T19:44:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:19:08-05:00"
 type: resource
 summary: "একটি বিনামূল্যের ব্রাউজার টিউটর, যা নোটবুকের ছবি, PDF বা একটি লেখা পড়ে, তারপর শিক্ষার্থীকে ইংরেজি বা স্প্যানিশে সক্রেটিক পদ্ধতিতে কথা বলে বুঝিয়ে দেয় এবং শিক্ষার্থী বলার সময় যে ধারণাগুলো যুক্ত করছে তার একটি জীবন্ত গ্রাফ আঁকে।"
 url: https://context.aideatext.ai/?lang=en
@@ -19,10 +19,14 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
     date: "2026-11-12"
     agent: hermes-agent
 translation_of: resources/context-aideatext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 ---
 

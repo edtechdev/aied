@@ -1,7 +1,7 @@
 ---
 title: "MindRouter"
 created: "2026-11-12T20:46:00-05:00"
-updated: "2026-11-12T20:46:00-05:00"
+updated: "2026-11-16T19:19:10-05:00"
 type: resource
 summary: "שער הסקה ברישיון Apache-2.0 מאוניברסיטת איידהו שמציב אשכול קמפוסי של צומתי GPU מסוג vLLM ו-Ollama מאחורי API אחד תואם OpenAI, ומוסיף תזמון חלוקה הוגנת, מכסות טוקנים פר משתמש, SSO, תיעוד ביקורת וניטור חי של GPU וצריכת אנרגיה."
 url: https://github.com/ui-insight/MindRouter
@@ -16,10 +16,14 @@ audience: [administrators, educational technology developers, faculty developers
 level: [higher ed]
 connected_resources: [amplify-genai]
 translation_of: resources/mindrouter
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

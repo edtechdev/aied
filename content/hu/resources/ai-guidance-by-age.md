@@ -1,7 +1,7 @@
 ---
 title: "MI-útmutató életkor szerint"
 created: "2026-11-12T14:10:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:24:12-05:00"
 type: resource
 summary: "A Harvard Compass Collaborative interaktív útmutatója, amely kilenc életszakaszt (0–2-től 26–40-ig) párosít tíz fejlődési területtel, és minden metszéspontban azt kérdezi, mi van fejlődésben, milyen MI-kutatás létezik, és hogyan segíthet vagy akadályozhat a MI — kifejezetten hipotézisként, nem eredményként."
 url: https://compass.gse.harvard.edu/explore/
@@ -16,10 +16,14 @@ technology: [generative-ai]
 audience: [parents and families, instructors, administrators, learners, policymakers, researchers]
 level: [preschool, primary education, secondary, higher ed, adult learning]
 translation_of: resources/ai-guidance-by-age
-source_updated: "2026-11-12T13:50:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -43,7 +47,7 @@ Minden bejegyzés azonos felépítésű: egy gyors összefoglaló, számozott aj
 
 ## Megjegyzések és fenntartások
 
-Az útmutató őszinte a saját státuszához, és az oldalt ugyanígy kell olvasni. Szerzői a bejegyzéseket a megalapozott fejlődéslélektanból és a korai, gyakran kis léptékű MI-kutatásból abduktív érveléssel épített hipotéziseknek nevezik — nem lezáró útmutatásnak, mert a rendszerszintű bizonyíték arról, hogyan formálja a MI a fejlődő elmét, akár egy évtizedet is igénybe vehet. Az eszköz gondos mérlegelést modellez, nem hatásokat jelent.
+Az útmutató őszinte a saját státuszához. Szerzői a bejegyzéseket a megalapozott fejlődéslélektanból és a korai, gyakran kis léptékű MI-kutatásból abduktív érveléssel épített hipotéziseknek nevezik — nem lezáró útmutatásnak, mert a rendszerszintű bizonyíték arról, hogyan formálja a MI a fejlődő elmét, akár egy évtizedet is igénybe vehet. Az eszköz gondos mérlegelést modellez, nem hatásokat jelent.
 
 Két további korlát számít a tanításhoz. Az ajánlások tervezési ösztönzők, nem tesztelt beavatkozások; a webhely semmilyen eredményt nem jelent. Az életszakasz-szerkezet pedig durva rácsot kényszerít egy olyan fejlődésre, amely a sávokon belül, kultúrák és kontextusok között is változik, amit maga az útmutató is elismer.
 

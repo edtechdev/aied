@@ -1,7 +1,7 @@
 ---
 title: "conText（AIdeaText）"
 created: "2026-11-12T11:26:00-05:00"
-updated: "2026-11-12T11:26:00-05:00"
+updated: "2026-11-16T19:31:20-05:00"
 type: resource
 summary: "一个免费的浏览器辅导工具：它读取笔记本照片、PDF 或文本，然后用英语或西班牙语以苏格拉底式对话引导学生，并在学生说话时实时绘制他们所连接概念的图谱。"
 url: https://context.aideatext.ai/?lang=en
@@ -15,11 +15,15 @@ technology: [conversational-ai, knowledge-graph, speech-and-voice-technologies]
 assessment: [formative-assessment]
 audience: [learners, instructors, faculty developers]
 level: [k 12, higher ed]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_of: resources/context-aideatext
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

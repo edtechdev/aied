@@ -20,6 +20,10 @@ confidence: high
 connected_resources: [clarity, education-agent-skills]
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
     date: "2026-09-24"
@@ -29,7 +33,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: resources/matt-pocock-skills
-source_updated: "2026-09-27T03:31:33-04:00"
+source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ---
 
@@ -37,7 +41,7 @@ translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından g
 
 **Gerçek Mühendisler için Beceriler**, Matt Pocock'ın yayınlanmış ajan becerileri dizinidir: Claude Code, Codex veya başka bir ajana kurulan, bütün olarak benimsenmekten ziyade uyarlanmak üzere yazılmış küçük, birleştirilebilir yönerge dosyaları. Koleksiyonun çoğu yazılım işine hizmet eder, ancak birkaç beceri, kod için değil öğretme ve sorgulama için inşa edilmiş eğitim araçlarıdır.
 
-En açık örnek, birden çok oturum üzerinde çalışan ve çalışma dizinini durum taşıyan bir öğretim çalışma alanı olarak ele alan `teach` becerisidir; böylece bir öğrenenin ilerlemesi ve açık soruları her seferinde yeniden başlamak yerine konuşmalar arasında korunur. `grill-me` ve onun temelindeki `grilling` ilkesi, her dal çözülene kadar kullanıcıyı bir plan hakkında acımasızca sorgular; bu, konuşma havasından ziyade yeniden kullanılabilir bir prosedür olarak [[socratic-method|Sokratik sorgulama]] olarak karşımıza çıkar. `wait-what`, bir mesajın yerine ulaşmadığı anda, onu eksik bağlamla birlikte sade dille yeniden sunarak karşılık verir; herhangi bir öğretmenin, bir açıklamanın ilk seferde hedefini ıskalamasını izlerken tanıdığı bir hamledir. `writing-for-agents`, bir [[prompt-engineering|ajan]]ın izleyebileceği belgelerin nasıl yazılacağını kapsar; bu, günümüzde [[pedagogical-agent|YZ]] kurs materyalleri için yönerge yazmanın pratik biçimidir. `to-questionnaire`, bir kararı onu yanıtlayabilecek kişiler için bir anket formuna dönüştürür; `handoff`, bir konuşmayı başka bir ajanın devam edebileceği bir belgeye sıkıştırır; `wizard` ise yalnızca bir insanın gerçekleştirebileceği adımlar için etkileşimli bir kılavuz üretir.
+En açık örnek, birden çok oturum üzerinde çalışan ve çalışma dizinini durum taşıyan bir öğretim çalışma alanı olarak ele alan `teach` becerisidir; böylece bir öğrenenin ilerlemesi ve açık soruları her seferinde yeniden başlamak yerine konuşmalar arasında korunur. `grill-me` ve onun temelindeki `grilling` ilkesi, her dal çözülene kadar kullanıcıyı bir plan hakkında acımasızca sorgular; bu, konuşma havasından ziyade yeniden kullanılabilir bir prosedür olarak [[socratic-method|Sokratik sorgulama]] olarak karşımıza çıkar. `wait-what`, bir mesajın yerine ulaşmadığı anda, onu eksik bağlamla birlikte sade dille yeniden sunarak karşılık verir; herhangi bir öğretmenin, bir açıklamanın ilk seferde hedefini ıskalamasını izlerken tanıdığı bir hamledir. `writing-for-agents`, bir [[prompt-engineering|ajan]]ın izleyebileceği belgelerin nasıl yazılacağını kapsar; bu, günümüzde [[pedagogical-agent|YZ]] kurs materyalleri için yönerge yazmanın pratik biçimidir. `to-questionnaire`, bir kararı onu yanıtlayabilecek kişiler için bir anket formuna dönüştürür; `handoff`, bir konuşmayı başka bir ajanın devam edebileceği bir belgeye sıkıştırır; `wizard` ise yalnızca bir insanın gerçekleştirebileceği adımlar için etkileşimli bir kılavuz üretir. Uyarlanacak bir dizin yerine yalnızca özel ders döngüsünü istiyorsanız, Jane Street tek amaçlı bir [`socratic-tutor` becerisi](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md) yayımlıyor: bir tanılama yürütüyor, her alt beceriyi 0-5 düzeylerinde eşliyor, aralıklı tekrar planlıyor ve bir değerlendirmeyle kapanıyor; mühendislik çerçevesi olmadan ve yalnızca hızlı bir yanıt isteyen bir öğrenciyi sınamaya karşı bir koruma ile.
 
 ## Benimsemeden önce bilinmesi gerekenler
 

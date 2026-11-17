@@ -1,7 +1,7 @@
 ---
 title: "NowComment"
 created: "2026-11-12T20:20:00-05:00"
-updated: "2026-11-12T20:20:00-05:00"
+updated: "2026-11-16T19:27:33-05:00"
 type: resource
 summary: "Uma plataforma de anotação gratuita baseada em conta, em que a discussão em tópicos se prende a frases específicas, regiões de imagens e marcas de tempo de vídeo, e onde “Parceiros de Pensamento com IA” baseados em OpenAI podem redigir uma resposta sobre um trecho selecionado para o estudante editar antes de publicar."
 url: https://nowcomment.com/
@@ -15,11 +15,15 @@ pedagogy: [collaborative-learning, student-ai-interaction]
 assessment: [peer-assessment, ai-feedback-quality, formative-assessment]
 audience: [instructors, learners, faculty developers]
 level: [k 12, higher ed]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/nowcomment
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -32,7 +36,7 @@ O NowComment transforma um texto, uma imagem ou um vídeo em uma superfície de 
 
 ## O que você pode fazer com ele
 
-Envie um documento, convide leitores, e qualquer trecho selecionado pode carregar várias conversas, exibidas em uma coluna lateral ou em linha. Sobre isso, os recursos de IA são a razão para olhá-lo agora. **Ask AI** em uma frase ou um parágrafo com duplo clique abre um seletor de parceiro: o leitor escolhe um *GPT Thinking Partner*, escreve uma pergunta, acrescenta uma nota opcional sobre o leitor e pode **Resubmit** repetidamente até a saída ser útil. A resposta é então editada no local antes de ser publicada, o que faz do estudante coautor do texto da IA em vez de seu repassador. Um diretório de parceiros avaliados convive com os criados por usuários, e os materiais de ajuda do site incluem guias de [[prompt-engineering|prompt]] que mantêm o assistente pedindo ao leitor que planeje uma revisão em vez de produzi-la. Um padrão complementar de *GPT Dialogue Notebook* reúne registros semanais escritos mais as leituras, imagens e vídeos a que se ligam, com a [[privacy|privacidade]] definida por documento, de modo que o diálogo com IA se acumula ao longo de um período em vez de reiniciar a cada sessão. As análises integradas contam comentários e visitas por documento e exportam para CSV.
+Envie um documento, convide leitores, e qualquer trecho selecionado pode carregar várias conversas, exibidas em uma coluna lateral ou em linha. **Ask AI** em uma frase ou um parágrafo com duplo clique abre um seletor de parceiro: o leitor escolhe um *GPT Thinking Partner*, escreve uma pergunta, acrescenta uma nota opcional sobre o leitor e pode **Resubmit** repetidamente até a saída ser útil. A resposta é então editada no local antes de ser publicada, o que faz do estudante coautor do texto da IA em vez de seu repassador. Um diretório de parceiros avaliados convive com os criados por usuários, e os materiais de ajuda do site incluem guias de [[prompt-engineering|prompt]] que mantêm o assistente pedindo ao leitor que planeje uma revisão em vez de produzi-la. Um padrão complementar de *GPT Dialogue Notebook* reúne registros semanais escritos mais as leituras, imagens e vídeos a que se ligam, com a [[privacy|privacidade]] definida por documento, de modo que o diálogo com IA se acumula ao longo de um período em vez de reiniciar a cada sessão. As análises integradas contam comentários e visitas por documento e exportam para CSV.
 
 O ciclo de anotação é, ele mesmo, um desenho de [[collaborative-learning|aprendizagem colaborativa]] no sentido antigo: os leitores respondem à mesma evidência, e o tópico registra quem disse o quê sobre qual frase. Como as respostas podem ser de pares ou de IA, ele também funciona como superfície de [[peer-assessment|avaliação por pares]] de baixo risco, e os prompts dos parceiros podem mirar as qualidades do [[ai-feedback-quality|feedback de IA útil]] em vez de respostas.
 

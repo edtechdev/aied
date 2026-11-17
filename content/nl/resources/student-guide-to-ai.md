@@ -17,10 +17,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors]
 level: [undergraduate, secondary]
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
@@ -37,7 +41,7 @@ De veldgids van 2026 werkt tien vermogens door — nieuwsgierigheid, [[critical-
 
 ## Voor wie het is
 
-Bachelorstudenten in elke discipline, en bovenbouwleerlingen van het voortgezet onderwijs. Docenten, medewerkers academische ondersteuning, bibliothecarissen en onderwijsprofessionals in studentzaken krijgen de moduleset en de discussievragen; de gids is bewust disciplineneutraal, wat de reden is dat instellingen hem gebruiken voor eerstejaarsseminars, professionele ontwikkeling en een gedeelde woordenschat over afzonderlijke AI-initiatieven heen.
+Bachelorstudenten in elke discipline, en bovenbouwleerlingen van het voortgezet onderwijs. Docenten, medewerkers academische ondersteuning, bibliothecarissen en onderwijsprofessionals in studentzaken krijgen de moduleset en de discussievragen; de gids is bewust disciplineneutraal, wat de reden is dat instellingen hem gebruiken voor eerstejaarsseminars, [[educational-development|professionele ontwikkeling]] en een gedeelde woordenschat over afzonderlijke AI-initiatieven heen.
 
 ## Opmerkingen en kanttekeningen
 

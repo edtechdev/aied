@@ -1,7 +1,7 @@
 ---
 title: "NowComment"
 created: "2026-11-12T20:28:00-05:00"
-updated: "2026-11-12T20:28:00-05:00"
+updated: "2026-11-16T19:19:32-05:00"
 type: resource
 summary: "Ilmainen, tiliin perustuva annotointialusta, jossa ketjutettu keskustelu kiinnittyy tiettyihin lauseisiin, kuva-alueisiin ja videon aikaleimoihin, ja jossa OpenAI-pohjaiset ”AI Thinking Partnerit” voivat luonnostella vastauksen valittuun kohtaan opiskelijan muokattavaksi ennen julkaisua."
 url: https://nowcomment.com/
@@ -15,11 +15,15 @@ pedagogy: [collaborative-learning, student-ai-interaction]
 assessment: [peer-assessment, ai-feedback-quality, formative-assessment]
 audience: [instructors, learners, faculty developers]
 level: [k 12, higher ed]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/nowcomment
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -32,7 +36,7 @@ NowComment muuttaa tekstin, kuvan tai videon keskustelupinnaksi: kommentit ketju
 
 ## Mitä sillä voi tehdä
 
-Lataa asiakirja, kutsu lukijoita, ja mikä tahansa valittu kohta voi kantaa useita keskusteluja, jotka näytetään sivupalstalla tai tekstin seassa. Sen päälle tekoälyominaisuudet ovat syy katsoa sitä nyt. Kaksoisklikatun lauseen tai kappaleen **Ask AI** avaa kumppanin valitsimen: lukija valitsee *GPT Thinking Partnerin*, kirjoittaa kysymyksen, lisää valinnaisen huomautuksen lukijasta ja voi **Resubmit** toistuvasti, kunnes tuotos on hyödyllinen. Vastausta muokataan sitten paikallaan ennen julkaisua, mikä tekee opiskelijasta tekoälytekstin kanssakirjoittajan eikä sen edelleenlähettäjän. Valikoitujen kumppanien hakemisto on käyttäjien rakentamien rinnalla, ja sivuston ohjeisto sisältää [[prompt-engineering|kehote]]oppaita, jotka saavat avustajan pyytämään lukijaa suunnittelemaan muokkauksen sen sijaan että se tuottaisi sellaisen. Kumppanimalli *GPT Dialogue Notebook* kerää viikoittaiset kirjalliset lokit sekä niihin liittyvät lukemistot, kuvat ja videot, ja [[privacy|tietosuoja]] asetetaan asiakirjakohtaisesti, joten tekoälydialogi kertyy lukukauden yli sen sijaan että se nollautuisi joka istunnossa. Sisäänrakennettu analytiikka laskee kommentit ja käynnit asiakirjaa kohden ja vie ne CSV:hen.
+Lataa asiakirja, kutsu lukijoita, ja mikä tahansa valittu kohta voi kantaa useita keskusteluja, jotka näytetään sivupalstalla tai tekstin seassa. Kaksoisklikatun lauseen tai kappaleen **Ask AI** avaa kumppanin valitsimen: lukija valitsee *GPT Thinking Partnerin*, kirjoittaa kysymyksen, lisää valinnaisen huomautuksen lukijasta ja voi **Resubmit** toistuvasti, kunnes tuotos on hyödyllinen. Vastausta muokataan sitten paikallaan ennen julkaisua, mikä tekee opiskelijasta tekoälytekstin kanssakirjoittajan eikä sen edelleenlähettäjän. Valikoitujen kumppanien hakemisto on käyttäjien rakentamien rinnalla, ja sivuston ohjeisto sisältää [[prompt-engineering|kehote]]oppaita, jotka saavat avustajan pyytämään lukijaa suunnittelemaan muokkauksen sen sijaan että se tuottaisi sellaisen. Kumppanimalli *GPT Dialogue Notebook* kerää viikoittaiset kirjalliset lokit sekä niihin liittyvät lukemistot, kuvat ja videot, ja [[privacy|tietosuoja]] asetetaan asiakirjakohtaisesti, joten tekoälydialogi kertyy lukukauden yli sen sijaan että se nollautuisi joka istunnossa. Sisäänrakennettu analytiikka laskee kommentit ja käynnit asiakirjaa kohden ja vie ne CSV:hen.
 
 Annotointisilmukka itsessään on [[collaborative-learning|yhteistoiminnallisen oppimisen]] suunnittelua vanhemmassa merkityksessä: lukijat vastaavat samaan evidenssiin, ja ketju tallentaa, kuka sanoi mitä mistä lauseesta. Koska vastaukset voivat olla vertaisten tai tekoälyn, se toimii myös matalan panoksen [[peer-assessment|vertaisarvioinnin]] pintana, ja kumppanikehotteet voidaan kohdistaa [[ai-feedback-quality|hyödyllisen tekoälypalautteen]] ominaisuuksiin vastausten sijaan.
 

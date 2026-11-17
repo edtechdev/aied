@@ -1,7 +1,7 @@
 ---
 title: "conText"
 created: "2026-11-12T19:20:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:31:19-05:00"
 type: resource
 summary: "Bir defter sayfasının fotoğrafını, bir PDF'yi ya da bir metni okuyan, sonra öğrenciyle İngilizce veya İspanyolca Sokratik bir biçimde konuşarak konuştukça bağladığı fikirlerin canlı grafiğini çizen ücretsiz bir tarayıcı özel dersi."
 url: https://context.aideatext.ai/?lang=en
@@ -16,10 +16,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors, faculty developers]
 level: [k 12, higher ed]
 translation_of: resources/context-aideatext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

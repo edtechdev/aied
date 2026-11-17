@@ -1,7 +1,7 @@
 ---
 title: "年齢別 AI ガイダンス（Compass Collaborative）"
 created: "2026-11-12T13:54:00-05:00"
-updated: "2026-11-12T13:54:00-05:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "ハーバード大学の Compass Collaborative によるインタラクティブなガイド。0〜2 歳から 26〜40 歳までの 9 つの年齢帯と 10 の発達領域を組み合わせ、各交点で何が発達しているか、どのような AI 研究があるか、AI がどう助け、どう妨げうるかを問いかけます。これらは知見ではなく仮説として明示されています。"
 url: https://compass.gse.harvard.edu/explore/
@@ -15,11 +15,15 @@ pedagogy: [metacognition, cognitive-psychology]
 technology: [generative-ai]
 audience: [parents and families, instructors, administrators, learners, policymakers, researchers]
 level: [preschool, primary education, secondary, higher ed, adult learning]
-source_updated: "2026-11-12T13:50:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_of: resources/ai-guidance-by-age
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -43,7 +47,7 @@ verified: [citation]
 
 ## 注記と注意点
 
-このガイダンスは自らの位置づけについて正直であり、ページもそのように読まれるべきです。著者らは各項目を、確立された発達科学と、初期の、しばしば小規模な AI 研究から、アブダクションによって組み立てた仮説と呼んでいます。決定的な指針ではありません。AI が発達途上の心をどう形づくるかについての系統的な証拠が揃うには 10 年かかるかもしれないからです。このツールが示すのは、効果の報告ではなく、慎重な熟慮の型です。
+このガイダンスは自らの位置づけについて正直です。著者らは各項目を、確立された発達科学と、初期の、しばしば小規模な AI 研究から、アブダクションによって組み立てた仮説と呼んでいます。決定的な指針ではありません。AI が発達途上の心をどう形づくるかについての系統的な証拠が揃うには 10 年かかるかもしれないからです。このツールが示すのは、効果の報告ではなく、慎重な熟慮の型です。
 
 教育にとって重要な制約がさらに 2 つあります。推奨事項は設計のための問いかけであり、検証済みの介入ではありません。サイト上のどの項目も成果を報告していません。また、年齢帯という構造は、帯の内部でも、文化や文脈によっても異なる発達に粗い格子を当てはめるものであり、ガイド自身もそれを認めています。
 

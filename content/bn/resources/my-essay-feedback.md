@@ -1,7 +1,7 @@
 ---
 title: "MyEssayFeedback"
 created: "2026-11-12T19:50:00-05:00"
-updated: "2026-11-12T19:50:00-05:00"
+updated: "2026-11-16T19:19:08-05:00"
 type: resource
 summary: "কলেজ প্রবন্ধের জন্য শিক্ষক-নিয়ন্ত্রিত এআই প্রতিক্রিয়া প্ল্যাটফর্ম: 200+ ধরনের OER লাইব্রেরি থেকে নেওয়া প্রতিক্রিয়া প্রম্পট, প্রতিটি এআই প্রস্তাবের উপর শিক্ষার্থীদের সুগঠিত প্রতিফলন, এআই ক্লাস-সারাংশসহ শিক্ষক ড্যাশবোর্ড, এবং Canvas, Blackboard ও Moodle-এর সঙ্গে LTI সংযোগ।"
 url: https://myessayfeedback.ai/
@@ -19,10 +19,14 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
     date: "2026-11-12"
     agent: hermes-agent
 translation_of: resources/my-essay-feedback
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 ---
 

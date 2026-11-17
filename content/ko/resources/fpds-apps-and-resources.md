@@ -1,7 +1,7 @@
 ---
 title: "FPDS 앱과 자료"
 created: "2026-09-25T18:48:15-04:00"
-updated: "2026-10-30T04:56:45-04:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "Hillsborough College의 Faculty Professional Development Services 공개 자료 페이지로, AI·교수·접근성 자료를 한곳에 모읍니다."
 url: https://fpdshc.github.io/apps/
@@ -10,7 +10,7 @@ author: "Faculty Professional Development Services at Hillsborough College"
 resource_type: [collection of tools]
 access: [free]
 license: "MIT"
-last_verified: "2026-09-26"
+last_verified: "2026-10-24"
 foundations: [academic-integrity, learning-design, educational-development, ai-literacy]
 pedagogy: [online-teaching-and-learning]
 technology: [generative-ai, open-source]
@@ -18,12 +18,16 @@ ethics: [accessibility, universal-design-for-learning]
 audience: [instructors, faculty developers, instructional designers]
 level: [higher ed]
 confidence: high
-connected_resources: [eduprompts, gemini-notebook, liascript]
+connected_resources: [eduprompts, gemini-notebook, liascript, vibe-coding-center]
 translation_of: resources/fpds-apps-and-resources
-source_updated: "2026-10-24T11:51:12-04:00"
+source_updated: "2026-11-13T08:48:20-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
     date: "2026-09-25"

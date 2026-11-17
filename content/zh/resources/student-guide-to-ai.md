@@ -1,7 +1,7 @@
 ---
 title: "Student Guide to AI"
 created: "2026-09-28T04:47:03-04:00"
-updated: "2026-10-09T19:11:12-04:00"
+updated: "2026-11-16T19:31:20-05:00"
 type: resource
 summary: "Elon University、AAC&U 与 The Princeton Review 推出的免费三版学生 AI 指南，其 2026 年版以十种人类能力为纲，配有可直接使用的教学模块与匿名自评。"
 url: https://studentguidetoai.org/
@@ -18,10 +18,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors]
 level: [undergraduate, secondary]
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
@@ -38,7 +42,7 @@ ai_assist:
 
 ## 适用对象
 
-任何学科的本科生，以及高中高年级学生。教师、学业支持人员、图书馆员与学生事务教育者可以使用整套模块与讨论提示；该指南刻意保持学科中立，这正是各机构将它用于新生研讨课、教师发展以及跨独立 AI 项目的统一词汇表的原因。
+任何学科的本科生，以及高中高年级学生。教师、学业支持人员、图书馆员与学生事务教育者可以使用整套模块与讨论提示；该指南刻意保持学科中立，这正是各机构将它用于新生研讨课、[[educational-development|教师发展]]以及跨独立 AI 项目的统一词汇表的原因。
 
 ## 说明与注意事项
 

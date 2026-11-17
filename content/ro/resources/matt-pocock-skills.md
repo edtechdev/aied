@@ -19,10 +19,14 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [clarity, education-agent-skills]
 translation_of: resources/matt-pocock-skills
-source_updated: "2026-09-27T03:31:33-04:00"
+source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
@@ -33,7 +37,7 @@ ai_assist:
 
 **Competențe pentru ingineri adevărați** este directorul publicat de Matt Pocock cu competențe de agent: fișiere mici de instrucțiuni, combinabile, care se instalează în Claude Code, Codex sau alt agent, scrise pentru a fi adaptate, nu preluate întregi. Cea mai mare parte a colecției servește munca de software, dar câteva competențe sunt instrumente educaționale, construite pentru predare și interogare, nu pentru cod.
 
-Exemplul cel mai clar este `teach`, care rulează pe mai multe sesiuni și tratează directorul de lucru ca pe un spațiu didactic cu stare, astfel încât progresul unui cursant și întrebările lui deschise persistă între conversații în loc să repornească de fiecare dată. `grill-me` și primitiva sa de bază `grilling` intervievează utilizatorul fără cruțare despre un plan până când fiecare ramură este rezolvată, ceea ce este [[socratic-method|interogarea socratică]] ca procedură reutilizabilă, nu ca dispoziție conversațională. `wait-what` reacționează în momentul în care un mesaj nu ajunge, reformulându-l în limbaj simplu, cu contextul lipsă — o mișcare pe care orice instructor o recunoaște din a vedea o explicație ratată prima dată. `writing-for-agents` acoperă felul de a scrie documente pe care un [[prompt-engineering|agent]] le poate urma, ceea ce este acum forma practică a scrierii de instrucțiuni pentru materiale de curs [[pedagogical-agent|IA]]. `to-questionnaire` transformă o decizie într-un chestionar pentru cine poate răspunde, `handoff` compactează o conversație într-un document din care alt agent poate continua, iar `wizard` generează o parcurgere interactivă pentru pașii pe care doar o persoană îi poate face.
+Exemplul cel mai clar este `teach`, care rulează pe mai multe sesiuni și tratează directorul de lucru ca pe un spațiu didactic cu stare, astfel încât progresul unui cursant și întrebările lui deschise persistă între conversații în loc să repornească de fiecare dată. `grill-me` și primitiva sa de bază `grilling` intervievează utilizatorul fără cruțare despre un plan până când fiecare ramură este rezolvată, ceea ce este [[socratic-method|interogarea socratică]] ca procedură reutilizabilă, nu ca dispoziție conversațională. `wait-what` reacționează în momentul în care un mesaj nu ajunge, reformulându-l în limbaj simplu, cu contextul lipsă — o mișcare pe care orice instructor o recunoaște din a vedea o explicație ratată prima dată. `writing-for-agents` acoperă felul de a scrie documente pe care un [[prompt-engineering|agent]] le poate urma, ceea ce este acum forma practică a scrierii de instrucțiuni pentru materiale de curs [[pedagogical-agent|IA]]. `to-questionnaire` transformă o decizie într-un chestionar pentru cine poate răspunde, `handoff` compactează o conversație într-un document din care alt agent poate continua, iar `wizard` generează o parcurgere interactivă pentru pașii pe care doar o persoană îi poate face. Dacă vrei doar bucla de tutorat, nu un director pe care să-l adaptezi, Jane Street publică o competență dedicată, [`socratic-tutor`](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md), care rulează un diagnostic, mapează fiecare subcompetență pe niveluri de la 0 la 5, programează recapitulări distanțate și se încheie cu o evaluare, fără cadrul de inginerie și cu o protecție împotriva testării unui cursant care voia doar un răspuns rapid.
 
 ## Ce trebuie să știi înainte de a le adopta
 

@@ -1,7 +1,7 @@
 ---
 title: "Amplify GenAI"
 created: "2026-11-12T11:34:00-05:00"
-updated: "2026-11-12T11:34:00-05:00"
+updated: "2026-11-16T19:27:35-05:00"
 type: resource
 summary: "Jukwaa la AI ya kizalishaji la biashara lenye leseni ya MIT kutoka Vanderbilt, linalowekwa katika akaunti ya AWS ya taasisi yenyewe: wasaidizi maalum juu ya nyaraka za ndani, majibu yanayoboreshwa kwa urejeshaji, kushiriki kote katika shirika, na uhasibu wa gharama hadi kwa ujumbe mmoja."
 url: https://www.amplifygenai.org/
@@ -17,10 +17,14 @@ audience: [administrators, instructors, faculty developers, educational technolo
 level: [higher ed]
 connected_resources: [mindrouter]
 translation_of: resources/amplify-genai
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

@@ -1,7 +1,7 @@
 ---
 title: "Tipo de questão de texto com IA para Moodle"
 created: "2026-11-12T20:20:00-05:00"
-updated: "2026-11-12T20:20:00-05:00"
+updated: "2026-11-16T19:27:33-05:00"
 type: resource
 summary: "Um tipo de questão do Moodle de código aberto (GPL v3) que atribui nota a respostas de texto livre com um modelo de linguagem grande contra um prompt por questão e um esquema de correção opcional, usando OpenAI, Azure ou um modelo Ollama auto-hospedado e mostrando o feedback da IA a um corretor humano."
 url: https://github.com/marcusgreen/moodle-qtype_aitext
@@ -16,11 +16,15 @@ assessment: [automated-essay-scoring, ai-feedback-quality, formative-assessment]
 foundations: [academic-integrity]
 audience: [instructors, educational technology developers, administrators]
 level: [higher ed, k 12]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/moodle-qtype-aitext
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

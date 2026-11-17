@@ -19,10 +19,14 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [clarity, education-agent-skills]
 translation_of: resources/matt-pocock-skills
-source_updated: "2026-09-27T03:31:33-04:00"
+source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
@@ -33,7 +37,7 @@ ai_assist:
 
 **Skills for Real Engineers** Matt Pocockov je objavljeni imenik agentnih vještina: male, složive datoteke s uputama koje se instaliraju u Claude Code, Codex ili drugog agenta i napisane su da se prilagode, a ne usvoje cijele. Većina zbirke služi softverskom radu, ali nekoliko su vještina obrazovni instrumenti izgrađeni za poučavanje i ispitivanje, a ne za kod.
 
-Najjasniji je primjer `teach`, koji radi kroz više sesija i radnu mapu tretira kao radni prostor za poučavanje sa stanjem, pa napredak učenika i otvorena pitanja ostaju između razgovora, umjesto da se svaki put resetiraju. `grill-me` i njegova osnovna primitiva `grilling` nemilosrdno intervjuiraju korisnika o planu dok se ne razriješi svaka grana, što je [[socratic-method|sokratsko ispitivanje]] kao postupak koji se može ponovno rabiti, a ne kao razgovorni ugođaj. `wait-what` reagira u trenutku kad poruka ne sleti, ponovno je izlažući običnim jezikom uz kontekst koji nedostaje, potez koji svaki nastavnik prepoznaje iz gledanja kako objašnjenje prvi put promaši. `writing-for-agents` pokriva kako pisati dokumente koje [[prompt-engineering|agent]] može slijediti, što je danas praktični oblik pisanja uputa za [[pedagogical-agent|AI]] materijale kolegija. `to-questionnaire` pretvara odluku u upitnik za onoga tko na njega može odgovoriti, `handoff` sažima razgovor u dokument iz kojeg drugi agent može nastaviti, a `wizard` generira interaktivni vodič za korake koje može izvesti samo osoba.
+Najjasniji je primjer `teach`, koji radi kroz više sesija i radnu mapu tretira kao radni prostor za poučavanje sa stanjem, pa napredak učenika i otvorena pitanja ostaju između razgovora, umjesto da se svaki put resetiraju. `grill-me` i njegova osnovna primitiva `grilling` nemilosrdno intervjuiraju korisnika o planu dok se ne razriješi svaka grana, što je [[socratic-method|sokratsko ispitivanje]] kao postupak koji se može ponovno rabiti, a ne kao razgovorni ugođaj. `wait-what` reagira u trenutku kad poruka ne sleti, ponovno je izlažući običnim jezikom uz kontekst koji nedostaje, potez koji svaki nastavnik prepoznaje iz gledanja kako objašnjenje prvi put promaši. `writing-for-agents` pokriva kako pisati dokumente koje [[prompt-engineering|agent]] može slijediti, što je danas praktični oblik pisanja uputa za [[pedagogical-agent|AI]] materijale kolegija. `to-questionnaire` pretvara odluku u upitnik za onoga tko na njega može odgovoriti, `handoff` sažima razgovor u dokument iz kojeg drugi agent može nastaviti, a `wizard` generira interaktivni vodič za korake koje može izvesti samo osoba. Ako želite samo petlju podučavanja, a ne imenik za prilagodbu, Jane Street objavljuje namjensku [vještinu `socratic-tutor`](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md) koja provodi dijagnostiku, preslikava svaku podvještinu na razine 0–5, zakazuje ponavljanje u razmacima i završava procjenom, bez inženjerskog okvira i sa zaštitom od ispitivanja učenika koji je želio samo brz odgovor. Ako želite samo petlju podučavanja, a ne imenik za prilagodbu, Jane Street objavljuje namjensku [vještinu `socratic-tutor`](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md) koja provodi dijagnostiku, preslikava svaku podvještinu na razine 0–5, zakazuje ponavljanje u razmacima i završava procjenom, bez inženjerskog okvira i sa zaštitom od ispitivanja učenika koji je želio samo brz odgovor.
 
 ## Što treba znati prije primjene
 

@@ -1,7 +1,7 @@
 ---
 title: "MyEssayFeedback"
 created: "2026-11-12T11:32:00-05:00"
-updated: "2026-11-12T11:32:00-05:00"
+updated: "2026-11-16T19:31:20-05:00"
 type: resource
 summary: "一个由教师掌控的大学作文 AI 反馈平台：反馈提示词取自 200 多种类型的 OER 库，学生对每条 AI 建议做结构化反思，教师仪表盘带 AI 班级摘要，并与 Canvas、Blackboard 和 Moodle 做 LTI 集成。"
 url: https://myessayfeedback.ai/
@@ -15,11 +15,15 @@ assessment: [ai-feedback-quality, feedback-literacy, formative-assessment]
 ethics: [ai-use-disclosure]
 audience: [instructors, learners, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/my-essay-feedback
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

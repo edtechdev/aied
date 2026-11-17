@@ -1,7 +1,7 @@
 ---
 title: "Panduan AI menurut Usia"
 created: "2026-11-12T14:30:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "Panduan interaktif dari Compass Collaborative Harvard yang memasangkan sembilan rentang usia dari 0–2 hingga 26–40 dengan sepuluh domain perkembangan, dan di setiap persimpangan menanyakan apa yang sedang berkembang, penelitian AI apa yang ada, dan bagaimana AI mungkin membantu atau menghambat — secara eksplisit sebagai hipotesis, bukan temuan."
 url: https://compass.gse.harvard.edu/explore/
@@ -16,10 +16,14 @@ technology: [generative-ai]
 audience: [parents and families, instructors, administrators, learners, policymakers, researchers]
 level: [preschool, primary education, secondary, higher ed, adult learning]
 translation_of: resources/ai-guidance-by-age
-source_updated: "2026-11-12T13:50:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -43,7 +47,7 @@ Pendidik [[early-childhood-elementary-ai-education|anak usia dini]] dan K–12 y
 
 ## Catatan dan peringatan
 
-Panduan ini jujur tentang statusnya sendiri, dan halaman ini harus dibaca dengan cara yang sama. Penulisnya menyebut entri sebagai hipotesis yang dibangun dengan penalaran abduktif dari ilmu perkembangan yang mapan ditambah penelitian AI awal yang sering kali kecil — bukan panduan konklusif, karena bukti sistematis tentang bagaimana AI membentuk pikiran yang sedang berkembang mungkin butuh satu dekade. Alat ini memodelkan pertimbangan yang cermat alih-alih melaporkan efek.
+Panduan ini jujur tentang statusnya sendiri. Penulisnya menyebut entri sebagai hipotesis yang dibangun dengan penalaran abduktif dari ilmu perkembangan yang mapan ditambah penelitian AI awal yang sering kali kecil — bukan panduan konklusif, karena bukti sistematis tentang bagaimana AI membentuk pikiran yang sedang berkembang mungkin butuh satu dekade. Alat ini memodelkan pertimbangan yang cermat alih-alih melaporkan efek.
 
 Dua batas lain penting untuk pengajaran. Rekomendasinya adalah pemicu desain, bukan intervensi yang teruji; tidak ada apa pun di situs yang melaporkan hasil. Dan struktur rentang usia memaksakan kisi kasar pada perkembangan yang bervariasi di dalam rentang, lintas budaya dan lintas konteks, yang diakui panduan itu sendiri.
 

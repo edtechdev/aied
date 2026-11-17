@@ -1,7 +1,7 @@
 ---
 title: "学生のための AI ガイド"
 created: "2026-10-10T21:52:22-04:00"
-updated: "2026-10-10T21:52:22-04:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "Elon University、AAC&U、The Princeton Review による無料の 3 版シリーズの学生向け人工知能ガイド。2026 年版では 10 の人間的資質を、すぐに使える学習モジュールと匿名の自己評価で育てます。"
 url: https://studentguidetoai.org/
@@ -18,10 +18,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors]
 level: [undergraduate, secondary]
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -38,7 +42,7 @@ ai_assist:
 
 ## 対象となる人
 
-あらゆる分野の学部生と、高等学校の上級生です。教員、学習支援スタッフ、司書、学生生活担当の教育者はモジュール一式と討論用の問いを受け取ります。このガイドは意図的に分野中立であり、それが 1 年次セミナー、教員研修、そして別々の AI 施策をつなぐ共通語彙として、各機関で使われている理由です。
+あらゆる分野の学部生と、高等学校の上級生です。教員、学習支援スタッフ、司書、学生生活担当の教育者はモジュール一式と討論用の問いを受け取ります。このガイドは意図的に分野中立であり、それが 1 年次セミナー、[[educational-development|教員研修]]、そして別々の AI 施策をつなぐ共通語彙として、各機関で使われている理由です。
 
 ## 注記と注意点
 

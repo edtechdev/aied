@@ -1,7 +1,7 @@
 ---
 title: "conText（AIdeaText）"
 created: "2026-11-12T11:27:00-05:00"
-updated: "2026-11-12T11:27:00-05:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "ノートの写真、PDF、テキストを読み取り、英語またはスペイン語でソクラテス式に対話しながら、学生が話すそばから結びつけた考えをライブのグラフとして描く、無料のブラウザチューター。"
 url: https://context.aideatext.ai/?lang=en
@@ -15,11 +15,15 @@ technology: [conversational-ai, knowledge-graph, speech-and-voice-technologies]
 assessment: [formative-assessment]
 audience: [learners, instructors, faculty developers]
 level: [k 12, higher ed]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_of: resources/context-aideatext
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

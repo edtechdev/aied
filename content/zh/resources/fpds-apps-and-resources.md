@@ -1,7 +1,7 @@
 ---
 title: "FPDS Apps and Resources"
 created: "2026-09-25T18:48:15-04:00"
-updated: "2026-10-24T12:15:00-04:00"
+updated: "2026-11-16T19:31:20-05:00"
 type: resource
 summary: "希尔斯伯勒学院（Hillsborough College）教师专业发展服务（Faculty Professional Development Services）的公开资源页，将其人工智能设计教练、Canvas 课程与无障碍指南集中在一处。"
 url: https://fpdshc.github.io/apps/
@@ -18,12 +18,16 @@ ethics: [accessibility, universal-design-for-learning]
 audience: [instructors, faculty developers, instructional designers]
 level: [higher ed]
 confidence: high
-connected_resources: [eduprompts, gemini-notebook, liascript]
+connected_resources: [eduprompts, gemini-notebook, liascript, vibe-coding-center]
 contributors: [editor]
 translation_of: resources/fpds-apps-and-resources
-source_updated: "2026-10-24T11:51:12-04:00"
+source_updated: "2026-11-13T08:48:20-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"

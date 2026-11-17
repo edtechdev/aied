@@ -1,7 +1,7 @@
 ---
 title: "MyEssayFeedback"
 created: "2026-11-12T20:19:00-05:00"
-updated: "2026-11-12T20:19:00-05:00"
+updated: "2026-11-16T19:19:32-05:00"
 type: resource
 summary: "Opettajan hallitsema tekoälypalautteen alusta korkeakouluesseille: palautekehotukset 200+ tyypin OER-kirjastosta, jäsennellyt opiskelijoiden refleksiot jokaisesta tekoälyehdotuksesta, opettajan kojelauta tekoälyn luomalla luokkayhteenvedolla ja LTI-integraatio Canvasin, Blackboardin ja Moodlen kanssa."
 url: https://myessayfeedback.ai/
@@ -15,11 +15,15 @@ assessment: [ai-feedback-quality, feedback-literacy, formative-assessment]
 ethics: [ai-use-disclosure]
 audience: [instructors, learners, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/my-essay-feedback
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

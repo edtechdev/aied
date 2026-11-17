@@ -19,10 +19,14 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [clarity, education-agent-skills]
 translation_of: resources/matt-pocock-skills
-source_updated: "2026-09-27T03:31:33-04:00"
+source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
@@ -33,7 +37,7 @@ ai_assist:
 
 **Skills for Real Engineers** là thư mục agent skill được Matt Pocock công bố: những tệp hướng dẫn nhỏ, ghép được, cài vào Claude Code, Codex hoặc một tác tử khác, được viết để điều chỉnh chứ không phải áp dụng nguyên khối. Phần lớn bộ sưu tập phục vụ công việc phần mềm, nhưng một số skill là công cụ giáo dục được xây cho việc dạy và việc đặt câu hỏi chứ không phải cho mã.
 
-Ví dụ rõ nhất là `teach`, chạy qua nhiều phiên và coi thư mục làm việc như một không gian dạy học có trạng thái, nên tiến độ và những câu hỏi còn mở của người học tồn tại giữa các cuộc trò chuyện thay vì khởi động lại mỗi lần. `grill-me` và nguyên thủy `grilling` đứng sau nó chất vấn người dùng không ngừng về một kế hoạch cho tới khi mọi nhánh được giải quyết, tức là [[socratic-method|đặt câu hỏi kiểu Socrates]] như một thủ tục tái dùng được chứ không phải một tâm trạng trò chuyện. `wait-what` phản hồi ngay khi một thông điệp không tới được người nghe bằng cách trình bày lại nó bằng ngôn ngữ thường kèm ngữ cảnh còn thiếu, một động tác mà bất kỳ giảng viên nào cũng nhận ra khi thấy một lời giải thích trượt ngay lần đầu. `writing-for-agents` bao quát cách viết tài liệu mà một [[prompt-engineering|tác tử]] theo được, hiện là hình thức thực tiễn của việc viết hướng dẫn cho học liệu khóa học do [[pedagogical-agent|AI]] tạo. `to-questionnaire` chuyển một quyết định thành bảng hỏi cho người có thể trả lời nó, `handoff` nén một cuộc trò chuyện thành tài liệu để một tác tử khác tiếp tục, và `wizard` tạo một buổi hướng dẫn tương tác cho những bước chỉ con người làm được.
+Ví dụ rõ nhất là `teach`, chạy qua nhiều phiên và coi thư mục làm việc như một không gian dạy học có trạng thái, nên tiến độ và những câu hỏi còn mở của người học tồn tại giữa các cuộc trò chuyện thay vì khởi động lại mỗi lần. `grill-me` và nguyên thủy `grilling` đứng sau nó chất vấn người dùng không ngừng về một kế hoạch cho tới khi mọi nhánh được giải quyết, tức là [[socratic-method|đặt câu hỏi kiểu Socrates]] như một thủ tục tái dùng được chứ không phải một tâm trạng trò chuyện. `wait-what` phản hồi ngay khi một thông điệp không tới được người nghe bằng cách trình bày lại nó bằng ngôn ngữ thường kèm ngữ cảnh còn thiếu, một động tác mà bất kỳ giảng viên nào cũng nhận ra khi thấy một lời giải thích trượt ngay lần đầu. `writing-for-agents` bao quát cách viết tài liệu mà một [[prompt-engineering|tác tử]] theo được, hiện là hình thức thực tiễn của việc viết hướng dẫn cho học liệu khóa học do [[pedagogical-agent|AI]] tạo. `to-questionnaire` chuyển một quyết định thành bảng hỏi cho người có thể trả lời nó, `handoff` nén một cuộc trò chuyện thành tài liệu để một tác tử khác tiếp tục, và `wizard` tạo một buổi hướng dẫn tương tác cho những bước chỉ con người làm được. Nếu điều bạn muốn chỉ là vòng lặp dạy kèm chứ không phải một thư mục để điều chỉnh, Jane Street công bố một [kỹ năng `socratic-tutor`](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md) chuyên cho một việc: chạy một bài chẩn đoán, ánh xạ từng kỹ năng con theo các mức 0-5, lên lịch ôn tập giãn cách và kết thúc bằng một bài đánh giá, không mang khung kỹ thuật và có biện pháp chặn việc chất vấn một người học vốn chỉ muốn một câu trả lời nhanh.
 
 ## Những điều cần biết trước khi áp dụng
 

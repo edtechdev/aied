@@ -1,7 +1,7 @@
 ---
 title: "Тип въпрос с AI текст в Moodle"
 created: "2026-11-12T19:10:00-05:00"
-updated: "2026-11-12T19:40:00-05:00"
+updated: "2026-11-16T19:19:31-05:00"
 type: resource
 summary: "Тип въпрос за Moodle с отворен код (GPL v3), който оценява свободни текстови отговори с голям езиков модел според подкана за всеки въпрос и незадължителна схема за оценяване, използвайки OpenAI, Azure или самостоятелно хостван модел Ollama и показвайки обратната връзка на AI на човешки оценител."
 url: https://github.com/marcusgreen/moodle-qtype_aitext
@@ -17,10 +17,14 @@ foundations: [academic-integrity]
 audience: [instructors, educational technology developers, administrators]
 level: [higher ed, k 12]
 translation_of: resources/moodle-qtype-aitext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

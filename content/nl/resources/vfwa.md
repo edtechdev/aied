@@ -1,7 +1,7 @@
 ---
 title: "Voice-first schriftelijke toetsing"
 created: "2026-11-12T13:39:44-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:24:14-05:00"
 type: resource
 summary: "Een tweefasig beoordelingsmodel en een implementatiegids: een geobserveerde, onbeoordeelde vastlegging van de redenering van een student op een ongeziene opdracht, gevolgd door een beoordeelde schriftelijke inzending die thuis wordt gemaakt met onbeperkte AI-hulpmiddelen, verbonden met de eerste fase door een bewijsoordeel, met een voorwaardelijke mondelinge verdediging (viva) voor gevallen waarin die verbinding onduidelijk is."
 url: https://kellywebbdavies.com/vfwa/
@@ -20,13 +20,18 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
 translation_of: "resources/vfwa"
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "*Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*"
 ---
+
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
 
 VFWA is geen product dat je installeert; het is een beoordelingsstructuur met een website, een working paper en een implementatiegids erachter. De structuur kent twee fasen. In de eerste reageren studenten op een opdracht die ze nog niet hebben gezien, onder toezicht, in welke taal of modaliteit hun ook past — spraak, handschrift, een argumentatiemap, een andere taal — en de reactie wordt op toereikendheid bekeken in plaats van becijferd. In de tweede nemen ze dat artefact mee naar huis en werken ze het uit tot de beoordeelde inzending, waarbij [[generative-ai|AI-hulpmiddelen]] zijn toegestaan en optioneel. Wat de beoordelaar beoordeelt, is of het eindproduct kan worden gelezen als de verantwoorde uitwerking door de student van het eerste.

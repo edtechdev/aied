@@ -1,7 +1,7 @@
 ---
 title: "Amplify GenAI"
 created: "2026-11-12T20:20:00-05:00"
-updated: "2026-11-12T20:20:00-05:00"
+updated: "2026-11-16T19:27:33-05:00"
 type: resource
 summary: "A plataforma de IA generativa empresarial da Vanderbilt, licenciada sob MIT e implantada na própria conta da AWS da instituição: assistentes personalizados sobre documentos locais, respostas com recuperação aumentada, compartilhamento em toda a organização e contabilização de custos até a mensagem individual."
 url: https://www.amplifygenai.org/
@@ -16,11 +16,15 @@ technology: [generative-ai, llm, open-source, rag]
 audience: [administrators, instructors, faculty developers, educational technology developers]
 level: [higher ed]
 connected_resources: [mindrouter]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/amplify-genai
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

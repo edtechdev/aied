@@ -1,7 +1,7 @@
 ---
 title: "conText"
 created: "2026-11-12T19:56:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:19:09-05:00"
 type: resource
 summary: "Ένας δωρεάν δικτυακός δάσκαλος που διαβάζει τη φωτογραφία ενός τετραδίου, ένα PDF ή ένα κείμενο και μετά καθοδηγεί τον μαθητή σωκρατικά στα αγγλικά ή στα ισπανικά, ζωγραφίζοντας ταυτόχρονα ένα ζωντανό γράφημα των ιδεών που συνδέει καθώς μιλά."
 url: https://context.aideatext.ai/?lang=en
@@ -15,11 +15,15 @@ technology: [conversational-ai, knowledge-graph, speech-and-voice-technologies]
 assessment: [formative-assessment]
 audience: [learners, instructors, faculty developers]
 level: [k 12, higher ed]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_of: resources/context-aideatext
 translation_note: "Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

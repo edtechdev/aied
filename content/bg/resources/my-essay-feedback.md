@@ -1,7 +1,7 @@
 ---
 title: "MyEssayFeedback"
 created: "2026-11-12T19:10:00-05:00"
-updated: "2026-11-12T19:40:00-05:00"
+updated: "2026-11-16T19:19:31-05:00"
 type: resource
 summary: "Платформа за обратна връзка с AI, контролирана от преподавателя, за есета в колеж: подкани за обратна връзка, изтеглени от OER библиотека с над 200 типа, структурирани размисли на студентите върху всяко AI предложение, табло за преподавателя с AI обобщение на класа и LTI интеграция с Canvas, Blackboard и Moodle."
 url: https://myessayfeedback.ai/
@@ -16,10 +16,14 @@ ethics: [ai-use-disclosure]
 audience: [instructors, learners, faculty developers]
 level: [higher ed]
 translation_of: resources/my-essay-feedback
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Автоматичен машинен превод на тази английска страница, който още не е проверен от носител на езика."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

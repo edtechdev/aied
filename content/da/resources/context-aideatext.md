@@ -1,7 +1,7 @@
 ---
 title: "conText"
 created: "2026-11-12T11:04:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:19:09-05:00"
 type: resource
 summary: "En gratis browsertutor, der læser et foto af en notesbog, en PDF eller en tekst og derefter taler den studerende igennem det sokratisk på engelsk eller spansk, mens den tegner en levende graf over de idéer, de forbinder, mens de taler."
 url: https://context.aideatext.ai/?lang=en
@@ -16,10 +16,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors, faculty developers]
 level: [k 12, higher ed]
 translation_of: resources/context-aideatext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

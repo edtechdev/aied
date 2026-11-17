@@ -1,7 +1,7 @@
 ---
 title: "conText"
 created: "2026-11-12T19:52:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:19:32-05:00"
 type: resource
 summary: "Ilmainen selainpohjainen ohjaaja, joka lukee kuvan vihkosta, PDF:n tai tekstin ja käy sitten opiskelijan kanssa sen läpi sokraattisesti englanniksi tai espanjaksi piirtäen samalla reaaliaikaista kuvaajaa ideoista, joita opiskelija yhdistää puhuessaan."
 url: https://context.aideatext.ai/?lang=en
@@ -15,11 +15,15 @@ technology: [conversational-ai, knowledge-graph, speech-and-voice-technologies]
 assessment: [formative-assessment]
 audience: [learners, instructors, faculty developers]
 level: [k 12, higher ed]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_of: resources/context-aideatext
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

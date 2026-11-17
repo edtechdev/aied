@@ -1,7 +1,7 @@
 ---
 title: "Aina ya Swali la Maandishi ya AI la Moodle"
 created: "2026-11-12T11:40:00-05:00"
-updated: "2026-11-12T11:40:00-05:00"
+updated: "2026-11-16T19:27:35-05:00"
 type: resource
 summary: "Aina ya swali la Moodle la chanzo huria (GPL v3) linalotathmini majibu ya maandishi huru kwa modeli kubwa ya lugha kwa kutumia ilani ya kila swali na mpango wa alama wa hiari, likitumia OpenAI, Azure au modeli ya Ollama inayojihifadhi, na kuonyesha maoni ya AI kwa mtathmini wa binadamu."
 url: https://github.com/marcusgreen/moodle-qtype_aitext
@@ -17,10 +17,14 @@ foundations: [academic-integrity]
 audience: [instructors, educational technology developers, administrators]
 level: [higher ed, k 12]
 translation_of: resources/moodle-qtype-aitext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

@@ -1,7 +1,7 @@
 ---
 title: "conText"
 created: "2026-11-12T11:36:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:27:35-05:00"
 type: resource
 summary: "Mwalimu wa kivinjari wa bure anayesoma picha ya daftari, PDF au maandishi, kisha anazungumza na mwanafunzi kuyapitia kwa mtindo wa Socratic kwa Kiingereza au Kihispania huku akichora grafu hai ya mawazo anayoyaunganisha anapozungumza."
 url: https://context.aideatext.ai/?lang=en
@@ -16,10 +16,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors, faculty developers]
 level: [k 12, higher ed]
 translation_of: resources/context-aideatext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

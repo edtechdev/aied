@@ -1,7 +1,7 @@
 ---
 title: "NowComment"
 created: "2026-11-12T19:20:00-05:00"
-updated: "2026-11-12T19:20:00-05:00"
+updated: "2026-11-16T19:31:19-05:00"
 type: resource
 summary: "Hesap tabanlı, ücretsiz bir açıklama platformu; zincirleme tartışma belirli cümlelere, görüntü bölgelerine ve video zaman damgalarına bağlanır ve OpenAI tabanlı 'AI Thinking Partners' seçili bir pasaj için öğrencinin göndermeden önce düzenlediği bir yanıt taslağı çıkarabilir."
 url: https://nowcomment.com/
@@ -16,10 +16,14 @@ assessment: [peer-assessment, ai-feedback-quality, formative-assessment]
 audience: [instructors, learners, faculty developers]
 level: [k 12, higher ed]
 translation_of: resources/nowcomment
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -28,11 +32,11 @@ ai_assist:
 
 *Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir.*
 
-NowComment bir metni, bir görüntüyü ya da bir videoyu bir tartışma yüzeyine dönüştürür: yorumlar yanıtladıkları tam cümleye, paragrafa, görüntü bölgesine ya da zaman damgasına göre dizilir; böylece bir sınıf konuşması bir yorum akışına kaymak yerine kanıta bağlı kalır. Onu düz bir açıklama aracından ayıran şey, bakımcının aynı yüzeye kurduğu YZ katmanıdır — [OpenAI tabanlı](https://nowcomment.com/) bir "AI Thinking Partner"a okuyucunun seçtiği bir pasaj hakkında soru sorulabilir ve sonuç yanıt olarak değil düzenlenebilir bir taslak olarak gelir.
+NowComment bir metni, bir görüntüyü ya da bir videoyu bir tartışma yüzeyine dönüştürür: yorumlar yanıtladıkları tam cümleye, paragrafa, görüntü bölgesine ya da zaman damgasına göre dizilir; böylece bir sınıf konuşması bir yorum akışına kaymak yerine kanıta bağlı kalır. YZ katmanı aynı yüzeyde çalışır. [OpenAI tabanlı](https://nowcomment.com/) bir "AI Thinking Partner"a okuyucunun seçtiği bir pasaj hakkında soru sorulabilir ve sonuç düzenlenebilir bir taslak olarak gelir.
 
 ## Bu kaynakla neler yapılabilir
 
-Bir belge yükleyin, okuyucuları davet edin; seçilen her pasaj yan sütunda ya da satır içinde gösterilen birden çok konuşma taşıyabilir. Bunun üzerine, YZ özellikleri ona şimdi bakmanın nedenidir. Çift tıklanan bir cümle ya da paragrafta **Ask AI**, bir ortak seçici açar: okuyucu bir *GPT Thinking Partner* seçer, bir soru yazar, okuyucu hakkında isteğe bağlı bir not ekler ve çıktı işe yarayana kadar tekrar tekrar **Resubmit** edebilir. Yanıt daha sonra gönderilmeden önce yerinde düzenlenir; bu, öğrenciyi YZ metninin ileticisi değil ortak yazarı yapar. Denetlenmiş ortaklardan oluşan bir dizin, kullanıcıların yaptıklarıyla yan yana durur ve sitenin yardım malzemeleri, bir asistanın bir revizyon üretmek yerine okuyucudan bir revizyon planlamasını istemesini sağlayan [[prompt-engineering|istem]] kılavuzları içerir. Eşlik eden bir *GPT Dialogue Notebook* deseni, haftalık yazılı günlükleri ve bağlandıkları okumaları, görüntüleri ve videoları toplar; [[privacy|gizlilik]] belge başına ayarlanır, böylece YZ diyaloğu her oturumda sıfırlanmak yerine dönem boyunca birikir. Yerleşik analitik, belge başına yorumları ve ziyaretleri sayar ve CSV'ye aktarır.
+Bir belge yükleyin, okuyucuları davet edin; seçilen her pasaj yan sütunda ya da satır içinde gösterilen birden çok konuşma taşıyabilir. Çift tıklanan bir cümle ya da paragrafta **Ask AI**, bir ortak seçici açar: okuyucu bir *GPT Thinking Partner* seçer, bir soru yazar, okuyucu hakkında isteğe bağlı bir not ekler ve çıktı işe yarayana kadar tekrar tekrar **Resubmit** edebilir. Yanıt daha sonra gönderilmeden önce yerinde düzenlenir; bu, öğrenciyi YZ metninin ileticisi değil ortak yazarı yapar. Denetlenmiş ortaklardan oluşan bir dizin, kullanıcıların yaptıklarıyla yan yana durur ve sitenin yardım malzemeleri, bir asistanın bir revizyon üretmek yerine okuyucudan bir revizyon planlamasını istemesini sağlayan [[prompt-engineering|istem]] kılavuzları içerir. Eşlik eden bir *GPT Dialogue Notebook* deseni, haftalık yazılı günlükleri ve bağlandıkları okumaları, görüntüleri ve videoları toplar; [[privacy|gizlilik]] belge başına ayarlanır, böylece YZ diyaloğu her oturumda sıfırlanmak yerine dönem boyunca birikir. Yerleşik analitik, belge başına yorumları ve ziyaretleri sayar ve CSV'ye aktarır.
 
 Açıklama döngüsünün kendisi daha eski anlamda bir [[collaborative-learning|işbirlikli öğrenme]] tasarımıdır: okuyucular aynı kanıta yanıt verir ve dizin kimin hangi cümle hakkında ne söylediğini kaydeder. Yanıtlar akran ya da YZ olabildiği için düşük riskli bir [[peer-assessment|akran değerlendirmesi]] yüzeyi olarak da işler ve ortak istemleri yanıtlara değil [[ai-feedback-quality|yararlı YZ geri bildiriminin]] niteliklerine yöneltilebilir.
 

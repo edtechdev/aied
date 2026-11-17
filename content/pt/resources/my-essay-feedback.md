@@ -1,7 +1,7 @@
 ---
 title: "MyEssayFeedback"
 created: "2026-11-12T20:20:00-05:00"
-updated: "2026-11-12T20:20:00-05:00"
+updated: "2026-11-16T19:27:33-05:00"
 type: resource
 summary: "Uma plataforma de feedback com IA controlada pelo professor para redações universitárias: prompts de feedback tirados de uma biblioteca de recursos educacionais abertos com 200+ tipos, reflexões estruturadas dos estudantes sobre cada sugestão da IA, um painel do professor com um resumo da turma gerado por IA e integração LTI com Canvas, Blackboard e Moodle."
 url: https://myessayfeedback.ai/
@@ -15,11 +15,15 @@ assessment: [ai-feedback-quality, feedback-literacy, formative-assessment]
 ethics: [ai-use-disclosure]
 audience: [instructors, learners, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/my-essay-feedback
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

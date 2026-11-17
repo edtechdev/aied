@@ -1,7 +1,7 @@
 ---
 title: "Moodle AI 文本题型"
 created: "2026-11-12T11:30:00-05:00"
-updated: "2026-11-12T11:30:00-05:00"
+updated: "2026-11-16T19:31:20-05:00"
 type: resource
 summary: "一个开源的 Moodle 题型（GPL v3），用大语言模型依据每道题自带的提示词和可选评分方案来批改自由文本答案，可使用 OpenAI、Azure 或自托管的 Ollama 模型，并把 AI 的反馈展示给人工评分者。"
 url: https://github.com/marcusgreen/moodle-qtype_aitext
@@ -16,11 +16,15 @@ assessment: [automated-essay-scoring, ai-feedback-quality, formative-assessment]
 foundations: [academic-integrity]
 audience: [instructors, educational technology developers, administrators]
 level: [higher ed, k 12]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/moodle-qtype-aitext
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

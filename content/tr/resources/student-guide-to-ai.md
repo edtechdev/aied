@@ -18,6 +18,10 @@ audience: [learners, instructors]
 level: [undergraduate, secondary]
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
     date: "2026-09-28"
@@ -27,7 +31,7 @@ ai_assist:
     date: "2026-10-14"
     agent: hermes-agent
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 ---
 
@@ -41,7 +45,7 @@ translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından g
 
 ## Kimin için
 
-Herhangi bir disiplinde lisans öğrencileri ve üst düzey ortaöğretim öğrencileri. Fakülte üyeleri, akademik destek personeli, kütüphaneciler ve öğrenci işleri eğitmenleri modül setini ve tartışma istem metinlerini alır; rehber kasıtlı olarak disiplinden bağımsızdır — kurumların onu birinci yıl seminerleri, fakülte gelişimi ve ayrı YZ girişimleri arasında paylaşılan bir sözlük için kullanmasının nedeni budur.
+Herhangi bir disiplinde lisans öğrencileri ve üst düzey ortaöğretim öğrencileri. Fakülte üyeleri, akademik destek personeli, kütüphaneciler ve öğrenci işleri eğitmenleri modül setini ve tartışma istem metinlerini alır; rehber kasıtlı olarak disiplinden bağımsızdır — kurumların onu birinci yıl seminerleri, [[educational-development|fakülte gelişimi]] ve ayrı YZ girişimleri arasında paylaşılan bir sözlük için kullanmasının nedeni budur.
 
 ## Notlar ve uyarılar
 

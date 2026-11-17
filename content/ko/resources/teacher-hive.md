@@ -1,7 +1,7 @@
 ---
 title: "Teacher Hive"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-10T23:05:00-05:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "교사들이 AI로 생성한 교실용 웹 앱을 게시하고 링크나 QR 코드로 공유하며, 다른 교사들이 만든 수백 개의 앱을 둘러볼 수 있는 Tony Vincent의 무료 사용 호스팅 플랫폼입니다."
 url: https://teacherhive.app/
@@ -16,10 +16,14 @@ audience: [instructors, instructional designers]
 discipline: [teacher education]
 level: [k 12]
 translation_of: resources/teacher-hive
-source_updated: "2026-11-10T19:52:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-10"

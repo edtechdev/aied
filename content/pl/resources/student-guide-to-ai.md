@@ -17,10 +17,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors]
 level: [undergraduate, secondary]
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
@@ -37,7 +41,7 @@ Przewodnik terenowy z 2026 przechodzi przez dziesięć zdolności — ciekawoś�
 
 ## Dla kogo
 
-Studenci studiów licencjackich dowolnej dyscypliny oraz uczniowie starszych klas szkoły średniej. Kadra, personel wsparcia akademickiego, bibliotekarze i edukatorzy ds. studenckich dostają zestaw modułów i pytania do dyskusji; przewodnik jest celowo neutralny dyscyplinarnie, dlatego instytucje używają go na seminariach pierwszego roku, w rozwoju kadry i do wspólnego słownictwa między odrębnymi inicjatywami SI.
+Studenci studiów licencjackich dowolnej dyscypliny oraz uczniowie starszych klas szkoły średniej. Kadra, personel wsparcia akademickiego, bibliotekarze i edukatorzy ds. studenckich dostają zestaw modułów i pytania do dyskusji; przewodnik jest celowo neutralny dyscyplinarnie, dlatego instytucje używają go na seminariach pierwszego roku, w [[educational-development|rozwoju kadry]] i do wspólnego słownictwa między odrębnymi inicjatywami SI.
 
 ## Uwagi i zastrzeżenia
 

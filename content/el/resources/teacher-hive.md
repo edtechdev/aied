@@ -1,7 +1,7 @@
 ---
 title: "Teacher Hive"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-10T23:05:00-05:00"
+updated: "2026-11-16T19:19:09-05:00"
 type: resource
 summary: "Η δωρεάν πλατφόρμα φιλοξενίας του Tony Vincent, όπου οι εκπαιδευτικοί δημοσιεύουν εφαρμογές ιστού για την τάξη παραγόμενες από ΤΝ, τις μοιράζονται με σύνδεσμο ή κωδικό QR και περιηγούνται σε εκατοντάδες εφαρμογές άλλων εκπαιδευτικών."
 url: https://teacherhive.app/
@@ -16,10 +16,14 @@ audience: [instructors, instructional designers]
 discipline: [teacher education]
 level: [k 12]
 translation_of: resources/teacher-hive
-source_updated: "2026-11-10T19:52:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-10"

@@ -17,10 +17,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors]
 level: [undergraduate, secondary]
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
@@ -37,7 +41,7 @@ Student Guide to Artificial Intelligence، Elon University کے Imagining the Di
 
 ## یہ کس کے لیے ہے
 
-کسی بھی مضمون کے انڈر گریجویٹ، اور اعلیٰ ثانوی کے طلبہ۔ اساتذہ، تعلیمی معاونت کا عملہ، لائبریرینز اور طالب علم امور کے ماہرینِ تعلیم کو ماڈیول سیٹ اور بحث کے اشاریے ملتے ہیں؛ گائیڈ جان بوجھ کر مضمون سے غیر جانبدار ہے، اسی لیے ادارے اسے پہلے سال کے سیمیناروں، فیکلٹی ڈویلپمنٹ اور الگ الگ AI اقدامات میں مشترک الفاظ کے لیے استعمال کرتے ہیں۔
+کسی بھی مضمون کے انڈر گریجویٹ، اور اعلیٰ ثانوی کے طلبہ۔ اساتذہ، تعلیمی معاونت کا عملہ، لائبریرینز اور طالب علم امور کے ماہرینِ تعلیم کو ماڈیول سیٹ اور بحث کے اشاریے ملتے ہیں؛ گائیڈ جان بوجھ کر مضمون سے غیر جانبدار ہے، اسی لیے ادارے اسے پہلے سال کے سیمیناروں، [[educational-development|فیکلٹی ڈویلپمنٹ]] اور الگ الگ AI اقدامات میں مشترک الفاظ کے لیے استعمال کرتے ہیں۔
 
 ## نوٹس اور احتیاطیں
 

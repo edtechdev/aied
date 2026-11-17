@@ -1,7 +1,7 @@
 ---
 title: "Amplify GenAI"
 created: "2026-11-12T11:30:00-05:00"
-updated: "2026-11-12T11:30:00-05:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "Vanderbilt의 MIT 라이선스 엔터프라이즈 생성형 AI 플랫폼으로, 기관 자체 AWS 계정에 배포됩니다: 로컬 문서에 기반한 맞춤 어시스턴트, 검색 증강 답변, 조직 전체 공유, 개별 메시지까지 내려가는 비용 회계를 제공합니다."
 url: https://www.amplifygenai.org/
@@ -17,10 +17,14 @@ audience: [administrators, instructors, faculty developers, educational technolo
 level: [higher ed]
 connected_resources: [mindrouter]
 translation_of: resources/amplify-genai
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

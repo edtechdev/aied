@@ -1,7 +1,7 @@
 ---
 title: "MyEssayFeedback"
 created: "2026-11-12T19:25:00-05:00"
-updated: "2026-11-12T19:25:00-05:00"
+updated: "2026-11-16T19:19:07-05:00"
 type: resource
 summary: "منصة تغذية راجعة بالذكاء الاصطناعي يتحكم فيها المعلّم لمقالات الجامعة: مطالبات تغذية مستمدّة من مكتبة OER تضم أكثر من 200 نوع، وتأملات طلابية منظمة على كل اقتراح من الذكاء الاصطناعي، ولوحة معلّم بملخص صفّي بالذكاء الاصطناعي، وتكامل LTI مع Canvas وBlackboard وMoodle."
 url: https://myessayfeedback.ai/
@@ -16,10 +16,14 @@ ethics: [ai-use-disclosure]
 audience: [instructors, learners, faculty developers]
 level: [higher ed]
 translation_of: resources/my-essay-feedback
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

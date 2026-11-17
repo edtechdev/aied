@@ -1,7 +1,7 @@
 ---
 title: "NowComment"
 created: "2026-11-12T11:11:00-05:00"
-updated: "2026-11-12T11:30:00-05:00"
+updated: "2026-11-16T19:19:31-05:00"
 type: resource
 summary: "Bezplatná anotační platforma založená na účtech, kde se vláknové diskuse připojují ke konkrétním větám, oblastem obrázku a časovým značkám videa a kde „AI Thinking Partners“ postavení na OpenAI mohou navrhnout odpověď na vybranou pasáž, kterou student před zveřejněním upraví."
 url: https://nowcomment.com/
@@ -16,10 +16,14 @@ assessment: [peer-assessment, ai-feedback-quality, formative-assessment]
 audience: [instructors, learners, faculty developers]
 level: [k 12, higher ed]
 translation_of: resources/nowcomment
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -28,11 +32,11 @@ ai_assist:
 
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
 
-NowComment mění text, obrázek nebo video v plochu pro diskusi: komentáře tvoří vlákna u přesné věty, odstavce, oblasti obrázku nebo časové značky, na něž reagují, takže konverzace třídy zůstává ukotvená v důkazech, místo aby se rozplynula ve feedu komentářů. Od běžného anotačního nástroje ho odlišuje vrstva AI, kterou správce zabudoval do stejné plochy — [„AI Thinking Partner“ postavený na OpenAI](https://nowcomment.com/) se lze zeptat na pasáž, kterou čtenář vybral, a výsledek přijde jako upravitelný koncept, nikoli jako odpověď.
+NowComment mění text, obrázek nebo video v plochu pro diskusi: komentáře tvoří vlákna u přesné věty, odstavce, oblasti obrázku nebo časové značky, na něž reagují, takže konverzace třídy zůstává ukotvená v důkazech, místo aby se rozplynula ve feedu komentářů. Vrstva AI běží ve stejné ploše. [„AI Thinking Partner“ postavený na OpenAI](https://nowcomment.com/) se lze zeptat na pasáž, kterou čtenář vybral, a výsledek přijde jako upravitelný koncept, nikoli jako odpověď.
 
 ## Co s ním můžete dělat
 
-Nahrajte dokument, pozvěte čtenáře a každá vybraná pasáž může nést několik konverzací zobrazených v postranním sloupci nebo přímo v textu. A právě funkce AI jsou důvodem, proč se na nástroj vyplatí podívat právě teď. **Ask AI** na dvakrát kliknuté větě nebo odstavci otevře výběr partnera: čtenář zvolí *GPT Thinking Partner*, napíše otázku, přidá volitelnou poznámku o čtenáři a může opakovaně použít **Resubmit**, dokud není výstup užitečný. Odpověď se potom před zveřejněním upraví na místě, což ze studenta činí spoluautora textu AI, nikoli jeho přeposílatele. Adresář prověřených partnerů stojí vedle partnerů vytvořených uživateli a materiály nápovědy obsahují průvodce [[prompt-engineering|prompty]], které vedou asistenta k tomu, aby čtenáře žádal o naplánování revize, místo aby ji vytvářel. Doprovodný vzor *GPT Dialogue Notebook* shromažďuje týdenní písemné záznamy plus četby, obrázky a videa, k nimž se vztahují, se [[privacy|soukromím]] nastaveným pro každý dokument, takže dialog s AI se během semestru hromadí, místo aby se každé sezení resetovalo. Vestavěná analytika počítá komentáře a návštěvy u dokumentu a exportuje do CSV.
+Nahrajte dokument, pozvěte čtenáře a každá vybraná pasáž může nést několik konverzací zobrazených v postranním sloupci nebo přímo v textu. **Ask AI** na dvakrát kliknuté větě nebo odstavci otevře výběr partnera: čtenář zvolí *GPT Thinking Partner*, napíše otázku, přidá volitelnou poznámku o čtenáři a může opakovaně použít **Resubmit**, dokud není výstup užitečný. Odpověď se potom před zveřejněním upraví na místě, což ze studenta činí spoluautora textu AI, nikoli jeho přeposílatele. Adresář prověřených partnerů stojí vedle partnerů vytvořených uživateli a materiály nápovědy obsahují průvodce [[prompt-engineering|prompty]], které vedou asistenta k tomu, aby čtenáře žádal o naplánování revize, místo aby ji vytvářel. Doprovodný vzor *GPT Dialogue Notebook* shromažďuje týdenní písemné záznamy plus četby, obrázky a videa, k nimž se vztahují, se [[privacy|soukromím]] nastaveným pro každý dokument, takže dialog s AI se během semestru hromadí, místo aby se každé sezení resetovalo. Vestavěná analytika počítá komentáře a návštěvy u dokumentu a exportuje do CSV.
 
 Samotná anotační smyčka je designem [[collaborative-learning|kolaborativního učení]] ve starším smyslu: čtenáři reagují na stejné důkazy a vlákno zaznamenává, kdo co řekl ke které větě. Protože odpovědi mohou být od vrstevníků i od AI, funguje také jako nenáročná plocha pro [[peer-assessment|vzájemnou evaluaci]] a prompty partnerů lze zaměřit na vlastnosti [[ai-feedback-quality|užitečné zpětné vazby od AI]], nikoli na odpovědi.
 

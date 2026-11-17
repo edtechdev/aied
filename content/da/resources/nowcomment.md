@@ -1,7 +1,7 @@
 ---
 title: "NowComment"
 created: "2026-11-12T11:04:00-05:00"
-updated: "2026-11-12T11:38:00-05:00"
+updated: "2026-11-16T19:19:09-05:00"
 type: resource
 summary: "En gratis kontobaseret annotationsplatform, hvor trådet diskussion knytter sig til bestemte sætninger, billedområder og videotidsstempler, og hvor OpenAI-baserede »AI Thinking Partners« kan skrive et udkast til svar på en valgt passage, som den studerende redigerer, før det postes."
 url: https://nowcomment.com/
@@ -16,10 +16,14 @@ assessment: [peer-assessment, ai-feedback-quality, formative-assessment]
 audience: [instructors, learners, faculty developers]
 level: [k 12, higher ed]
 translation_of: resources/nowcomment
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -28,11 +32,11 @@ ai_assist:
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
 
-NowComment gør en tekst, et billede eller en video til en diskussionsflade: kommentarer er trådet mod den præcise sætning, det afsnit, det billedområde eller det tidsstempel, de svarer på, så en klassekonversation forbliver forankret i evidens i stedet for at drive ud i et kommentarfeed. Det, der adskiller den fra et almindeligt annotationsværktøj, er det AI-lag, vedligeholderen har bygget ind i samme flade — en [OpenAI-baseret](https://nowcomment.com/) »AI Thinking Partner« kan spørges om en passage, læseren har valgt, og resultatet kommer som et redigerbart udkast i stedet for som svaret.
+NowComment gør en tekst, et billede eller en video til en diskussionsflade: kommentarer er trådet mod den præcise sætning, det afsnit, det billedområde eller det tidsstempel, de svarer på, så en klassekonversation forbliver forankret i evidens i stedet for at drive ud i et kommentarfeed. AI-laget kører i samme flade. En [OpenAI-baseret](https://nowcomment.com/) »AI Thinking Partner« kan spørges om en passage, læseren har valgt, og resultatet kommer som et redigerbart udkast.
 
 ## Hvad du kan gøre med det
 
-Upload et dokument, inviter læsere, og enhver valgt passage kan bære flere samtaler, vist i en sidekolonne eller inline. Oven på det er AI-funktionerne grunden til at se på den nu. **Ask AI** på en dobbeltklikket sætning eller et afsnit åbner en parnervælger: læseren vælger en *GPT Thinking Partner*, skriver et spørgsmål, tilføjer en valgfri note om læseren og kan trykke **Resubmit** igen og igen, indtil outputtet er nyttigt. Svaret redigeres derefter på stedet, før det postes, hvilket gør den studerende til medforfatter af AI-teksten i stedet for dens videresender. Et katalog over gennemgåede partnere står ved siden af brugerbyggede, og sidens hjælpematerialer indeholder [[prompt-engineering|prompt]]guider, der holder en assistent til at bede læseren planlægge en revision i stedet for at producere en. Et ledsagende *GPT Dialogue Notebook*-mønster samler ugentlige skriftlige logs plus de læsninger, billeder og videoer, de knytter sig til, med [[privacy|privatliv]] sat pr. dokument, så AI-dialogen akkumuleres gennem et semester i stedet for at nulstilles hver session. Indbygget analyse tæller kommentarer og besøg pr. dokument og eksporterer til CSV.
+Upload et dokument, inviter læsere, og enhver valgt passage kan bære flere samtaler, vist i en sidekolonne eller inline. **Ask AI** på en dobbeltklikket sætning eller et afsnit åbner en parnervælger: læseren vælger en *GPT Thinking Partner*, skriver et spørgsmål, tilføjer en valgfri note om læseren og kan trykke **Resubmit** igen og igen, indtil outputtet er nyttigt. Svaret redigeres derefter på stedet, før det postes, hvilket gør den studerende til medforfatter af AI-teksten i stedet for dens videresender. Et katalog over gennemgåede partnere står ved siden af brugerbyggede, og sidens hjælpematerialer indeholder [[prompt-engineering|prompt]]guider, der holder en assistent til at bede læseren planlægge en revision i stedet for at producere en. Et ledsagende *GPT Dialogue Notebook*-mønster samler ugentlige skriftlige logs plus de læsninger, billeder og videoer, de knytter sig til, med [[privacy|privatliv]] sat pr. dokument, så AI-dialogen akkumuleres gennem et semester i stedet for at nulstilles hver session. Indbygget analyse tæller kommentarer og besøg pr. dokument og eksporterer til CSV.
 
 Selve annotationsløkken er et [[collaborative-learning|kollaborativt lærings]]design i den ældre betydning: læsere svarer på den samme evidens, og tråden registrerer, hvem der sagde hvad om hvilken sætning. Fordi svar kan være fra peers eller AI, fungerer den også som en lavrisikoflade for [[peer-assessment|peer-bedømmelse]], og partnerprompterne kan rettes mod kvaliteterne i [[ai-feedback-quality|nyttig AI-feedback]] i stedet for mod svar.
 

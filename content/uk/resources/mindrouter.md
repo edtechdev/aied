@@ -1,7 +1,7 @@
 ---
 title: "MindRouter"
 created: "2026-11-12T19:20:00-05:00"
-updated: "2026-11-12T19:45:00-05:00"
+updated: "2026-11-16T19:31:19-05:00"
 type: resource
 summary: "Шлюз інференсу під Apache-2.0 від Університету Айдахо, який ставить кампусний кластер GPU-вузлів vLLM і Ollama за один API, сумісний з OpenAI, додаючи справедливе планування, квоти токенів на користувача, SSO, аудит-журналювання та моніторинг GPU й енергоспоживання в реальному часі."
 url: https://github.com/ui-insight/MindRouter
@@ -16,10 +16,14 @@ audience: [administrators, educational technology developers, faculty developers
 level: [higher ed]
 connected_resources: [amplify-genai]
 translation_of: resources/mindrouter
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

@@ -1,7 +1,7 @@
 ---
 title: "연령별 AI 지침"
 created: "2026-11-12T14:20:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "하버드 Compass Collaborative의 인터랙티브 안내서로, 0–2세부터 26–40세까지의 아홉 연령대와 열 가지 발달 영역을 짝지어 각 교차점에서 무엇이 발달 중인지, 어떤 AI 연구가 있는지, AI가 어떻게 도움이 되거나 방해할 수 있는지를 — 결론이 아니라 가설로서 명시적으로 — 묻습니다."
 url: https://compass.gse.harvard.edu/explore/
@@ -16,10 +16,14 @@ technology: [generative-ai]
 audience: [parents and families, instructors, administrators, learners, policymakers, researchers]
 level: [preschool, primary education, secondary, higher ed, adult learning]
 translation_of: resources/ai-guidance-by-age
-source_updated: "2026-11-12T13:50:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -43,7 +47,7 @@ verified: [citation]
 
 ## 참고사항과 유의점
 
-이 지침은 자신의 지위에 대해 정직하며, 페이지도 같은 방식으로 읽어야 합니다. 저자들은 항목을 확립된 발달 과학과 이른 시기의, 흔히 규모가 작은 AI 연구로부터 귀추적 추론으로 세운 가설이라고 부릅니다. 결정적 지침이 아닙니다. AI가 발달 중인 마음을 어떻게 형성하는지에 대한 체계적 증거는 10년이 걸릴 수 있기 때문입니다. 이 도구는 효과를 보고하기보다 신중한 숙고를 모형화합니다.
+이 지침은 자신의 지위에 대해 정직합니다. 저자들은 항목을 확립된 발달 과학과 이른 시기의, 흔히 규모가 작은 AI 연구로부터 귀추적 추론으로 세운 가설이라고 부릅니다. 결정적 지침이 아닙니다. AI가 발달 중인 마음을 어떻게 형성하는지에 대한 체계적 증거는 10년이 걸릴 수 있기 때문입니다. 이 도구는 효과를 보고하기보다 신중한 숙고를 모형화합니다.
 
 교육에 중요한 두 가지 한계가 더 있습니다. 권고는 검증된 개입이 아니라 설계를 위한 질문이며, 사이트 어디에도 결과를 보고한 곳이 없습니다. 또한 연령대 구조는 연령대 내부에서, 문화와 맥락에 따라 달라지는 발달에 거친 격자를 부과하며, 안내서 자체도 이를 인정합니다.
 

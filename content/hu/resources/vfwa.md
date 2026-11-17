@@ -1,7 +1,7 @@
 ---
 title: "Hangalapú írásbeli értékelés"
 created: "2026-11-12T14:05:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:24:12-05:00"
 type: resource
 summary: "Kétlépcsős értékelési modell és bevezetési útmutató: egy diák érvelésének megfigyelt, nem osztályozott rögzítése egy nem látott promptra, majd egy otthon, korlátozás nélküli MI-eszközökkel elkészített, osztályozott írásbeli beadandó, amelyet bizonyítékértékelés kapcsol az első szakaszhoz, és feltételes szóbeli vizsga ott, ahol ez a kapcsolat nem egyértelmű."
 url: https://kellywebbdavies.com/vfwa/
@@ -17,10 +17,14 @@ ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
 translation_of: resources/vfwa
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

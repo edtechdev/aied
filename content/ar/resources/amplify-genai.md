@@ -1,7 +1,7 @@
 ---
 title: "Amplify GenAI"
 created: "2026-11-12T19:25:00-05:00"
-updated: "2026-11-12T19:25:00-05:00"
+updated: "2026-11-16T19:19:07-05:00"
 type: resource
 summary: "منصة Vanderbilt للمذكاء الاصطناعي التوليدي على مستوى المؤسسة، بترخيص MIT، تُنشر في حساب AWS الخاص بالمؤسسة: مساعدون مخصّصون فوق مستندات محلية، وإجابات معزّزة بالاسترجاع، ومشاركة على مستوى المؤسسة، ومحاسبة الكلفة حتى الرسالة الواحدة."
 url: https://www.amplifygenai.org/
@@ -17,10 +17,14 @@ audience: [administrators, instructors, faculty developers, educational technolo
 level: [higher ed]
 connected_resources: [mindrouter]
 translation_of: resources/amplify-genai
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

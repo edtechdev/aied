@@ -1,7 +1,7 @@
 ---
 title: "Wskazówki dotyczące AI według wieku"
 created: "2026-11-12T13:39:44-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:27:33-05:00"
 type: resource
 summary: "Interaktywny przewodnik Compass Collaborative przy Harvardzie, który łączy dziewięć przedziałów wiekowych od 0–2 do 26–40 z dziesięcioma domenami rozwojowymi i przy każdym przecięciu pyta, co się rozwija, jakie badania nad AI istnieją i jak AI może pomagać lub przeszkadzać — wprost jako hipotezy, a nie ustalenia."
 url: https://compass.gse.harvard.edu/explore/
@@ -19,13 +19,18 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
 translation_of: "resources/ai-guidance-by-age"
-source_updated: "2026-11-12T13:50:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "*Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*"
 ---
+
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
 
 Większość wskazówek dotyczących AI w edukacji pisana jest dla jednego wieku lub jednej roli i po cichu zakłada uogólnionego uczącego się. Ten przewodnik robi odwrotnie: ustala przedział wiekowy i zdolność rozwojową, a następnie rozumuje o tej konkretnej parze. Założenie jest takie, że to samo narzędzie spotyka bardzo różny umysł w wieku pięciu, piętnastu i trzydziestu pięciu lat, więc porada, która pomija, która zdolność wciąż się kształtuje, jest poradą o narzędziu, a nie o uczącym się.
@@ -42,7 +47,7 @@ Nauczyciele [[early-childhood-elementary-ai-education|edukacji wczesnodziecięce
 
 ## Uwagi i zastrzeżenia
 
-Przewodnik jest uczciwy co do własnego statusu i stronę należy czytać tak samo. Autorzy nazywają wpisy hipotezami zbudowanymi przez rozumowanie abdukcyjne z ustalonej nauki o rozwoju oraz z wczesnych, często niewielkich badań nad AI — a nie rozstrzygającymi wskazówkami, ponieważ systematyczne dowody na to, jak AI kształtuje rozwijający się umysł, mogą zająć dekadę. Narzędzie modeluje staranną deliberację, a nie relacjonuje efekty.
+Przewodnik jest uczciwy co do własnego statusu. Autorzy nazywają wpisy hipotezami zbudowanymi przez rozumowanie abdukcyjne z ustalonej nauki o rozwoju oraz z wczesnych, często niewielkich badań nad AI — a nie rozstrzygającymi wskazówkami, ponieważ systematyczne dowody na to, jak AI kształtuje rozwijający się umysł, mogą zająć dekadę. Narzędzie modeluje staranną deliberację, a nie relacjonuje efekty.
 
 Dwa dalsze ograniczenia mają znaczenie dla nauczania. Rekomendacje są podpowiedziami projektowymi, nie przetestowanymi interwencjami; nic na stronie nie relacjonuje wyniku. A struktura przedziałów wiekowych narzuca zgrubną siatkę na rozwój, który różni się wewnątrz przedziałów, między kulturami i między kontekstami, co sam przewodnik przyznaje.
 

@@ -1,7 +1,7 @@
 ---
 title: "Guida all'IA per età"
 created: "2026-11-12T13:39:44-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "Una guida interattiva del Compass Collaborative di Harvard che abbina nove fasce d'età da 0–2 a 26–40 a dieci domini di sviluppo e, a ogni incrocio, chiede che cosa si sta sviluppando, quale ricerca sull'IA esiste e come l'IA potrebbe aiutare o ostacolare — esplicitamente come ipotesi e non come risultati."
 url: https://compass.gse.harvard.edu/explore/
@@ -19,13 +19,18 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
 translation_of: "resources/ai-guidance-by-age"
-source_updated: "2026-11-12T13:50:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ---
+
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
 La maggior parte degli orientamenti sull'IA per l'istruzione è scritta per una sola età o un solo ruolo, e presuppone in silenzio un discente generico. Questa guida fa il contrario: fissa una fascia d'età e una capacità di sviluppo, poi ragiona su quella specifica combinazione. La premessa è che lo stesso strumento incontra menti molto diverse a cinque, quindici e trentacinque anni, quindi un consiglio che ignora quale capacità sia ancora in formazione è un consiglio sullo strumento, non sul discente.
@@ -42,11 +47,11 @@ La [[early-childhood-elementary-ai-education|prima infanzia]] e chi insegna dall
 
 ## Note e avvertenze
 
-La guida è onesta sul proprio statuto, e la pagina va letta allo stesso modo. Gli autori definiscono le schede ipotesi costruite per ragionamento abduttivo a partire da una scienza dello sviluppo consolidata e da una ricerca sull'IA precoce, spesso di piccola scala — non indicazioni conclusive, perché prove sistematiche su come l'IA plasmi una mente in sviluppo potrebbero richiedere un decennio. Lo strumento modella una deliberazione accurata anziché riportare effetti.
+La guida è onesta sul proprio statuto. Gli autori definiscono le schede ipotesi costruite per ragionamento abduttivo a partire da una scienza dello sviluppo consolidata e da una ricerca sull'IA precoce, spesso di piccola scala — non indicazioni conclusive, perché prove sistematiche su come l'IA plasmi una mente in sviluppo potrebbero richiedere un decennio. Lo strumento modella una deliberazione accurata anziché riportare effetti.
 
 Due ulteriori limiti contano per l'insegnamento. Le raccomandazioni sono spunti di progettazione, non interventi sperimentati; nulla nel sito riporta un esito. E la struttura per fasce d'età impone una griglia grossolana a uno sviluppo che varia all'interno delle fasce, tra culture e tra contesti, come la guida stessa riconosce.
 
-L'inquadramento che vale la pena portare nella pratica è quello del sito stesso: mantieni umano il ciclo, poi individua dove l'IA vi si inserisce, invece di mettere un punto di controllo umano dentro un ciclo che appartiene alla macchina — la stessa preoccupazione che il corpus registra come rischio di [[cognitive-offloading|offloading]] quando uno strumento si assume la parte del compito che svolgeva il lavoro di sviluppo.
+L'inquadramento che vale la pena portare nella pratica è quello del sito stesso: mantieni umano il ciclo, poi individua dove l'IA vi si inserisce, invece di mettere un punto di controllo umano dentro un ciclo che appartiene alla macchina — la stessa preoccupazione che la ricerca registra come rischio di [[cognitive-offloading|offloading]] quando uno strumento si assume la parte del compito che svolgeva il lavoro di sviluppo.
 
 ## Concetti collegati
 

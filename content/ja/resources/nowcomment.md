@@ -1,7 +1,7 @@
 ---
 title: "NowComment"
 created: "2026-11-12T11:35:00-05:00"
-updated: "2026-11-12T11:35:00-05:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "文、画像、動画への注釈が、特定の文、画像領域、動画のタイムスタンプにスレッド形式で結びつく、無料のアカウント制注釈プラットフォーム。OpenAI ベースの「AI シンキング・パートナー」が、選んだ一節への返信の下書きを作り、学生が編集してから投稿できます。"
 url: https://nowcomment.com/
@@ -15,11 +15,15 @@ pedagogy: [collaborative-learning, student-ai-interaction]
 assessment: [peer-assessment, ai-feedback-quality, formative-assessment]
 audience: [instructors, learners, faculty developers]
 level: [k 12, higher ed]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/nowcomment
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -28,7 +32,7 @@ ai_assist:
 
 *英語ページの自動翻訳です。母語話者による確認はまだ行われていません。*
 
-NowComment は、テキスト、画像、動画を議論の面に変えます。コメントは、それが応答する正確な文、段落、画像領域、タイムスタンプに対してスレッド化されるので、クラスの会話はコメントの流れに流れず、根拠に留まります。単なる注釈ツールと違うのは、運営者が同じ面に組み込んだ AI 層です。[OpenAI ベース](https://nowcomment.com/)の「AI シンキング・パートナー」に、読者が選んだ一節について尋ねると、結果は返信そのものではなく、編集可能な下書きとして届きます。
+NowComment は、テキスト、画像、動画を議論の面に変えます。コメントは、それが応答する正確な文、段落、画像領域、タイムスタンプに対してスレッド化されるので、クラスの会話はコメントの流れに流れず、根拠に留まります。AI 層は同じ面の中で動きます。[OpenAI ベース](https://nowcomment.com/)の「AI シンキング・パートナー」に、読者が選んだ一節について尋ねると、結果は返信そのものではなく、編集可能な下書きとして届きます。
 
 ## できること
 

@@ -17,10 +17,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors]
 level: [undergraduate, secondary]
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
@@ -53,8 +57,8 @@ dijalankan sebelum membaca panduan lalu didiskusikan, bukan tes.
 
 Mahasiswa sarjana di disiplin apa pun, dan siswa sekolah menengah atas. Dosen, staf pendukung akademik,
 pustakawan dan pendidik urusan kemahasiswaan mendapatkan set modul dan prompt diskusinya; panduannya
-sengaja netral disiplin, itulah sebabnya institusi memakainya untuk seminar tahun pertama, pengembangan
-dosen dan kosakata bersama lintas inisiatif AI yang terpisah.
+sengaja netral disiplin, itulah sebabnya institusi memakainya untuk seminar tahun pertama, [[educational-development|pengembangan
+dosen]] dan kosakata bersama lintas inisiatif AI yang terpisah.
 
 ## Catatan dan peringatan
 

@@ -1,7 +1,7 @@
 ---
 title: "MyEssayFeedback"
 created: "2026-11-12T20:23:00-05:00"
-updated: "2026-11-12T20:23:00-05:00"
+updated: "2026-11-16T19:19:09-05:00"
 type: resource
 summary: "Μια πλατφόρμα σχολίων με ΤΝ υπό τον έλεγχο του διδάσκοντα για πανεπιστημιακά δοκίμια: προτροπές σχολίων από βιβλιοθήκη OER με 200+ τύπους, δομημένοι στοχασμοί των φοιτητών σε κάθε πρόταση της ΤΝ, πίνακας ελέγχου διδάσκοντα με σύνοψη τάξης από ΤΝ και ενσωμάτωση LTI με Canvas, Blackboard και Moodle."
 url: https://myessayfeedback.ai/
@@ -15,11 +15,15 @@ assessment: [ai-feedback-quality, feedback-literacy, formative-assessment]
 ethics: [ai-use-disclosure]
 audience: [instructors, learners, faculty developers]
 level: [higher ed]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/my-essay-feedback
 translation_note: "Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

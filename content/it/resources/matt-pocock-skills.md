@@ -20,6 +20,10 @@ confidence: high
 connected_resources: [clarity, education-agent-skills]
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
     date: "2026-09-24"
@@ -33,7 +37,7 @@ ai_assist:
     date: "2026-11-02"
     agent: hermes-agent
 translation_of: "resources/matt-pocock-skills"
-source_updated: "2026-09-27T03:31:33-04:00"
+source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 
 ---
@@ -42,7 +46,7 @@ translation_note: "*Traduzione automatica della pagina in inglese, non ancora ri
 
 **Competenze per veri ingegneri** (Skills for Real Engineers) è il catalogo di agent skills pubblicato da Matt Pocock: piccoli file di istruzioni componibili che si installano in Claude Code, Codex o un altro agente, scritti per essere adattati anziché adottati per intero. La maggior parte della raccolta serve al lavoro di sviluppo software, ma diverse skill sono strumenti educativi, costruiti per insegnare e per interrogare anziché per scrivere codice.
 
-L'esempio più evidente è `teach`, che si sviluppa su più sessioni e tratta la directory di lavoro come uno spazio didattico dotato di stato, così i progressi dello studente e le domande ancora aperte persistono tra una conversazione e l'altra invece di azzerarsi ogni volta. `grill-me` e il suo primitivo di base `grilling` sottopongono l'utente a un interrogatorio incessante su un piano finché ogni ramificazione non è risolta: è il [[socratic-method|metodo socratico]] inteso come procedura riutilizzabile anziché come tono conversazionale. `wait-what` interviene nel momento in cui un messaggio non arriva, riformulandolo in linguaggio semplice con il contesto mancante, una mossa che qualsiasi docente riconosce per aver visto una spiegazione non atterrare al primo colpo. `writing-for-agents` tratta di come scrivere documenti che un [[prompt-engineering|agente]] può seguire, che è oggi la forma pratica di scrivere istruzioni per materiale didattico basato sull'[[pedagogical-agent|AI]]. `to-questionnaire` trasforma una decisione in un questionario per chi può rispondere, `handoff` comprime una conversazione in un documento da cui un altro agente può continuare, e `wizard` genera un percorso interattivo per i passaggi che solo una persona può compiere.
+L'esempio più evidente è `teach`, che si sviluppa su più sessioni e tratta la directory di lavoro come uno spazio didattico dotato di stato, così i progressi dello studente e le domande ancora aperte persistono tra una conversazione e l'altra invece di azzerarsi ogni volta. `grill-me` e il suo primitivo di base `grilling` sottopongono l'utente a un interrogatorio incessante su un piano finché ogni ramificazione non è risolta: è il [[socratic-method|metodo socratico]] inteso come procedura riutilizzabile anziché come tono conversazionale. `wait-what` interviene nel momento in cui un messaggio non arriva, riformulandolo in linguaggio semplice con il contesto mancante, una mossa che qualsiasi docente riconosce per aver visto una spiegazione non atterrare al primo colpo. `writing-for-agents` tratta di come scrivere documenti che un [[prompt-engineering|agente]] può seguire, che è oggi la forma pratica di scrivere istruzioni per materiale didattico basato sull'[[pedagogical-agent|AI]]. `to-questionnaire` trasforma una decisione in un questionario per chi può rispondere, `handoff` comprime una conversazione in un documento da cui un altro agente può continuare, e `wizard` genera un percorso interattivo per i passaggi che solo una persona può compiere. Se quello che cercate è solo il ciclo di tutoraggio e non un catalogo da adattare, Jane Street pubblica una [`socratic-tutor` skill](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md) per un solo scopo, che esegue una diagnostica, mappa ogni sottoabilità su livelli 0-5, pianifica un ripasso dilazionato e si chiude con una valutazione, senza l'inquadramento ingegneristico e con una salvaguardia contro il rischio di interrogare uno studente che voleva solo una risposta rapida.
 
 ## Cosa sapere prima di adottarla
 

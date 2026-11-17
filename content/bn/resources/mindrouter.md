@@ -1,7 +1,7 @@
 ---
 title: "MindRouter"
 created: "2026-11-12T19:46:00-05:00"
-updated: "2026-11-12T19:46:00-05:00"
+updated: "2026-11-16T19:19:08-05:00"
 type: resource
 summary: "University of Idaho-র একটি Apache-2.0 ইনফারেন্স গেটওয়ে, যা vLLM ও Ollama জিপিইউ নোডের একটি ক্যাম্পাস ক্লাস্টারকে একটি OpenAI-সামঞ্জস্যপূর্ণ API-র পিছনে রাখে এবং ন্যায্য-অংশ সময়সূচি, প্রতি-ব্যবহারকারী টোকেন কোটা, SSO, অডিট লগিং এবং জীবন্ত জিপিইউ ও শক্তি পর্যবেক্ষণ যোগ করে।"
 url: https://github.com/ui-insight/MindRouter
@@ -19,10 +19,14 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
     date: "2026-11-12"
     agent: hermes-agent
 translation_of: resources/mindrouter
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 ---
 

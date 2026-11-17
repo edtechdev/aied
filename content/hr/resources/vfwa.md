@@ -1,7 +1,7 @@
 ---
 title: "Pisana procjena s glasom na prvom mjestu"
 created: "2026-11-12T13:50:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:24:26-05:00"
 type: resource
 summary: "Dvostupanjski model ocjenjivanja i vodič za provedbu: promatrano i neocjenjivano bilježenje studentova rasuđivanja na nepoznatom zadatku, zatim ocjenjivani pisani rad dovršen kod kuće bez ograničenja na alate umjetne inteligencije i povezan s prvim stupnjem dokaznom prosudbom, s uvjetnim usmenim ispitom ondje gdje je ta veza nejasna."
 url: https://kellywebbdavies.com/vfwa/
@@ -17,10 +17,14 @@ ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
 translation_of: resources/vfwa
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

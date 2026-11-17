@@ -1,7 +1,7 @@
 ---
 title: "AI-richtlijnen per leeftijd"
 created: "2026-11-12T13:39:44-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:24:14-05:00"
 type: resource
 summary: "Een interactieve gids van Harvard's Compass Collaborative die negen leeftijdsbanden van 0–2 tot 26–40 koppelt aan tien ontwikkelingsdomeinen en bij elk snijpunt vraagt wat zich ontwikkelt, welk AI-onderzoek er is en hoe AI kan helpen of belemmeren — uitdrukkelijk als hypotheses, niet als bevindingen."
 url: https://compass.gse.harvard.edu/explore/
@@ -19,13 +19,18 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
 translation_of: "resources/ai-guidance-by-age"
-source_updated: "2026-11-12T13:50:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "*Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*"
 ---
+
 *Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker.*
 
 De meeste AI-richtlijnen voor het onderwijs zijn geschreven voor één leeftijd of één rol, en gaan stilzwijgend uit van een generieke lerende. Deze gids doet het omgekeerde: hij legt een leeftijdsband en een ontwikkelingscapaciteit vast en redeneert vervolgens over die specifieke combinatie. Het uitgangspunt is dat hetzelfde hulpmiddel een heel ander hoofd tegenkomt op vijf, vijftien en vijfendertig jaar, dus advies dat negeert welke capaciteit nog in ontwikkeling is, is advies over het hulpmiddel in plaats van over de lerende.
@@ -42,7 +47,7 @@ Wie met [[early-childhood-elementary-ai-education|jonge kinderen]] werkt en doce
 
 ## Aandachtspunten en beperkingen
 
-De gids is eerlijk over zijn eigen status, en de pagina moet op dezelfde manier worden gelezen. De auteurs noemen de items hypotheses die met abductief redeneren zijn opgebouwd uit gevestigde ontwikkelingswetenschap plus vroeg, vaak kleinschalig AI-onderzoek — geen sluitende richtlijnen, omdat systematisch bewijs over hoe AI een zich ontwikkelend hoofd vormt wel eens een decennium kan vergen. Het hulpmiddel modelleert zorgvuldige afweging in plaats van effecten te rapporteren.
+De gids is eerlijk over zijn eigen status. De auteurs noemen de items hypotheses die met abductief redeneren zijn opgebouwd uit gevestigde ontwikkelingswetenschap plus vroeg, vaak kleinschalig AI-onderzoek — geen sluitende richtlijnen, omdat systematisch bewijs over hoe AI een zich ontwikkelend hoofd vormt wel eens een decennium kan vergen. Het hulpmiddel modelleert zorgvuldige afweging in plaats van effecten te rapporteren.
 
 Twee verdere beperkingen zijn van belang voor het onderwijs. De aanbevelingen zijn ontwerpaanwijzingen, geen geteste interventies; niets op de site rapporteert een uitkomst. En de structuur met leeftijdsbanden legt een grof raster op een ontwikkeling die binnen banden, tussen culturen en tussen contexten verschilt, wat de gids zelf ook erkent.
 

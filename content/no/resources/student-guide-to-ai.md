@@ -17,10 +17,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors]
 level: [undergraduate, secondary]
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
@@ -37,7 +41,7 @@ Feltguiden fra 2026 går gjennom ti kapasiteter – nysgjerrighet, [[critical-th
 
 ## Hvem den er for
 
-Studenter på bachelornivå i alle fag, og elever i videregående. Faglig ansatte, ansatte i akademisk støtte, bibliotekarer og ansatte i studenttjenester får modulsettet og diskusjonsspørsmålene; guiden er bevisst fagnøytral, som er grunnen til at institusjoner bruker den i førsteseminarer, til kompetanseutvikling og for å skape et felles vokabular på tvers av separate AI-initiativer.
+Studenter på bachelornivå i alle fag, og elever i videregående. Faglig ansatte, ansatte i akademisk støtte, bibliotekarer og ansatte i studenttjenester får modulsettet og diskusjonsspørsmålene; guiden er bevisst fagnøytral, som er grunnen til at institusjoner bruker den i førsteseminarer, til [[educational-development|kompetanseutvikling]] og for å skape et felles vokabular på tvers av separate AI-initiativer.
 
 ## Merknader og forbehold
 

@@ -1,7 +1,7 @@
 ---
 title: "Amplify GenAI"
 created: "2026-11-12T11:25:00-05:00"
-updated: "2026-11-12T11:25:00-05:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "ヴァンダービルト大学による MIT ライセンスのエンタープライズ生成 AI プラットフォーム。機関自身の AWS アカウントに展開し、ローカル文書に基づくカスタムアシスタント、検索拡張された回答、組織内での共有、メッセージ単位までのコスト計測を提供します。"
 url: https://www.amplifygenai.org/
@@ -16,11 +16,15 @@ technology: [generative-ai, llm, open-source, rag]
 audience: [administrators, instructors, faculty developers, educational technology developers]
 level: [higher ed]
 connected_resources: [mindrouter]
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_of: resources/amplify-genai
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

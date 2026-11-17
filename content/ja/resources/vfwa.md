@@ -1,7 +1,7 @@
 ---
 title: "音声ファーストの筆記評価（VFWA）"
 created: "2026-11-12T13:47:00-05:00"
-updated: "2026-11-12T13:47:00-05:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "2 段階の評価モデルと実施ガイド。学生が未見のプロンプトに対して行う推論を監督下で評点せずに収録し、その後、自宅で AI ツールの利用を認め任意としたうえで、採点対象の筆記提出物へと発展させる。両者は証拠に基づく判断で結ばれ、その結びつきが不明瞭な場合には条件付きの口頭試問を行う。"
 url: https://kellywebbdavies.com/vfwa/
@@ -16,11 +16,15 @@ technology: [speech-and-voice-technologies, generative-ai]
 ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_of: resources/vfwa
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

@@ -1,7 +1,7 @@
 ---
 title: "Student Guide to AI"
 created: "2026-09-28T04:47:03-04:00"
-updated: "2026-10-03T02:57:43-04:00"
+updated: "2026-11-16T19:27:33-05:00"
 type: resource
 summary: "Um guia estudantil gratuito de inteligência artificial em três edições, da Elon University, da AAC&U e do The Princeton Review, cuja edição de 2026 desenvolve dez capacidades humanas com módulos de aprendizagem prontos para o professor e uma autoavaliação anônima."
 url: https://studentguidetoai.org/
@@ -18,10 +18,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors]
 level: [undergraduate, secondary]
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -38,7 +42,7 @@ O guia de campo de 2026 percorre dez capacidades — curiosidade, [[critical-thi
 
 ## Para quem é
 
-Estudantes de graduação de qualquer disciplina e estudantes do final do ensino médio. Corpo docente, equipe de apoio acadêmico, bibliotecários e educadores de assuntos estudantis recebem o conjunto de módulos e os disparos de discussão; o guia é deliberadamente neutro quanto à disciplina, e é por isso que instituições o usam em seminários de primeiro ano, desenvolvimento de corpo docente e vocabulário comum entre iniciativas de IA separadas.
+Estudantes de graduação de qualquer disciplina e estudantes do final do ensino médio. Corpo docente, equipe de apoio acadêmico, bibliotecários e educadores de assuntos estudantis recebem o conjunto de módulos e os disparos de discussão; o guia é deliberadamente neutro quanto à disciplina, e é por isso que instituições o usam em seminários de primeiro ano, [[educational-development|desenvolvimento de corpo docente]] e vocabulário comum entre iniciativas de IA separadas.
 
 ## Observações e ressalvas
 

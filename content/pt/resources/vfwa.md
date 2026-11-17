@@ -1,7 +1,7 @@
 ---
 title: "Avaliação escrita a partir da voz"
 created: "2026-11-12T13:41:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:27:33-05:00"
 type: resource
 summary: "Um modelo de avaliação em duas etapas e um guia de implementação: uma captura observada e não avaliada do raciocínio de um estudante sobre um enunciado inédito, seguida de uma entrega escrita avaliada, concluída em casa com ferramentas de IA sem restrições, ligada à primeira etapa por um juízo probatório, com uma defesa oral condicional nos casos em que essa ligação não é clara."
 url: https://kellywebbdavies.com/vfwa/
@@ -17,10 +17,14 @@ ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
 translation_of: resources/vfwa
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

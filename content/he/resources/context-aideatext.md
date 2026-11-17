@@ -1,7 +1,7 @@
 ---
 title: "conText"
 created: "2026-11-12T20:44:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:19:10-05:00"
 type: resource
 summary: "חונך דפדפן חינמי שקורא תמונה של מחברת, קובץ PDF או טקסט, ואז מלווה את הסטודנט דרכו בשיטה סוקרטית באנגלית או בספרדית תוך ציור גרף חי של הרעיונות שהוא מחבר בדיבור."
 url: https://context.aideatext.ai/?lang=en
@@ -16,10 +16,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors, faculty developers]
 level: [k 12, higher ed]
 translation_of: resources/context-aideatext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

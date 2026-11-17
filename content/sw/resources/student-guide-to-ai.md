@@ -18,6 +18,10 @@ audience: [learners, instructors]
 level: [undergraduate, secondary]
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
     date: "2026-09-28"
@@ -27,7 +31,7 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 ---
 
@@ -41,7 +45,7 @@ Mwongozo wa uwanja wa 2026 unafanya kazi kupitia uwezo kumi — udadisi, [[criti
 
 ## Ni kwa ajili ya nani
 
-Wanafunzi wa shahada ya kwanza katika taaluma yoyote, na wanafunzi wa sekondari ya juu. Wataalam, wafanyakazi wa msaada wa kitaaluma, wakurugenzi wa maktaba na waelimishaji wa masuala ya wanafunzi hupata seti ya moduli na maswali ya majadiliano; mwongozo ni wa upole kwa makusudi kuhusu taaluma, ndiyo maana taasisi zinatumia kwa semina za mwaka wa kwanza, maendeleo ya wataalam na msamiati wa pamoja katika miradi tofauti ya AI.
+Wanafunzi wa shahada ya kwanza katika taaluma yoyote, na wanafunzi wa sekondari ya juu. Wataalam, wafanyakazi wa msaada wa kitaaluma, wakurugenzi wa maktaba na waelimishaji wa masuala ya wanafunzi hupata seti ya moduli na maswali ya majadiliano; mwongozo ni wa upole kwa makusudi kuhusu taaluma, ndiyo maana taasisi zinatumia kwa semina za mwaka wa kwanza, [[educational-development|maendeleo ya wataalam]] na msamiati wa pamoja katika miradi tofauti ya AI.
 
 ## Vidokezo na tahadhari
 

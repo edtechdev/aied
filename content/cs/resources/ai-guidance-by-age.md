@@ -1,7 +1,7 @@
 ---
 title: "Pokyny k AI podle věku"
 created: "2026-11-12T13:39:44-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:19:31-05:00"
 type: resource
 summary: "Interaktivní příručka společnosti Compass Collaborative při Harvardu, která spojuje devět věkových pásem od 0–2 do 26–40 s deseti vývojovými doménami a u každého průsečíku se ptá, co se vyvíjí, jaký výzkum AI existuje a jak může AI pomoci nebo uškodit — výslovně jako hypotézy, nikoli zjištění."
 url: https://compass.gse.harvard.edu/explore/
@@ -19,13 +19,18 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
 translation_of: "resources/ai-guidance-by-age"
-source_updated: "2026-11-12T13:50:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "*Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*"
 ---
+
 *Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*
 
 Většina pokynů k AI ve vzdělávání je psaná pro jeden věk nebo jednu roli a tiše předpokládá obecného učícího se. Tato příručka dělá opak: stanoví věkové pásmo a vývojovou schopnost a pak uvažuje o této konkrétní dvojici. Premisou je, že stejný nástroj potkává velmi odlišnou mysl v pěti, patnácti a pětatřiceti letech, takže rada, která pomíjí, která schopnost se ještě formuje, je radou o nástroji, nikoli o učícím se.
@@ -42,11 +47,11 @@ Učitelé [[early-childhood-elementary-ai-education|raného dětství]] a zákla
 
 ## Poznámky a výhrady
 
-Příručka je upřímná o svém vlastním statutu a stránku je třeba číst stejně. Autoři označují záznamy za hypotézy sestavené abduktivním uvažováním z ustálené vývojové vědy a z raného, často malého výzkumu AI — nikoli za definitivní pokyny, protože systematické důkazy o tom, jak AI utváří vyvíjející se mysl, mohou trvat desetiletí. Nástroj modeluje pečlivé uvažování, místo aby vykazoval účinky.
+Příručka je upřímná o svém vlastním statutu. Autoři označují záznamy za hypotézy sestavené abduktivním uvažováním z ustálené vývojové vědy a z raného, často malého výzkumu AI — nikoli za definitivní pokyny, protože systematické důkazy o tom, jak AI utváří vyvíjející se mysl, mohou trvat desetiletí. Nástroj modeluje pečlivé uvažování, místo aby vykazoval účinky.
 
 Pro výuku jsou podstatná dvě další omezení. Doporučení jsou podněty k designu, nikoli otestované intervence; nic na webu nevykazuje výsledek. A struktura věkových pásem vnucuje hrubou mřížku vývoji, který se liší uvnitř pásem, mezi kulturami i mezi kontexty, což příručka sama přiznává.
 
-Rámec, který stojí za to přenést do praxe, je ten vlastní webu: udržujte smyčku lidskou a poté zjistěte, kam se do ní AI vejde, místo abyste vkládali lidský kontrolní bod do smyčky, která patří stroji — stejná obava, kterou korpus zaznamenává jako riziko [[cognitive-offloading|odlehčení]], když nástroj převezme tu část úkolu, která odváděla vývojovou práci.
+Rámec, který stojí za to přenést do praxe, je ten vlastní webu: udržujte smyčku lidskou a poté zjistěte, kam se do ní AI vejde, místo abyste vkládali lidský kontrolní bod do smyčky, která patří stroji — stejná obava, kterou výzkum zaznamenává jako riziko [[cognitive-offloading|odlehčení]], když nástroj převezme tu část úkolu, která odváděla vývojovou práci.
 
 ## Související pojmy
 

@@ -1,7 +1,7 @@
 ---
 title: "Kiểu câu hỏi Văn bản AI của Moodle"
 created: "2026-11-12T11:30:00-05:00"
-updated: "2026-11-12T11:30:00-05:00"
+updated: "2026-11-16T19:31:19-05:00"
 type: resource
 summary: "Kiểu câu hỏi Moodle mã nguồn mở (GPL v3) chấm câu trả lời tự luận bằng mô hình ngôn ngữ lớn theo prompt riêng của từng câu hỏi và thang chấm tùy chọn, dùng OpenAI, Azure hoặc mô hình Ollama tự lưu trữ và hiển thị phản hồi của AI cho người chấm."
 url: https://github.com/marcusgreen/moodle-qtype_aitext
@@ -17,10 +17,14 @@ foundations: [academic-integrity]
 audience: [instructors, educational technology developers, administrators]
 level: [higher ed, k 12]
 translation_of: resources/moodle-qtype-aitext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

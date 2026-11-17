@@ -1,7 +1,7 @@
 ---
 title: "Moodle-Fragentyp KI-Text"
 created: "2026-11-12T11:18:00-05:00"
-updated: "2026-11-12T11:18:00-05:00"
+updated: "2026-11-16T19:14:57-05:00"
 type: resource
 summary: "Ein Open-Source-Fragentyp für Moodle (GPL v3), der Freitextantworten mit einem großen Sprachmodell anhand eines Prompts pro Frage und eines optionalen Bewertungsschemas bewertet, OpenAI, Azure oder ein selbst gehostetes Ollama-Modell nutzt und das KI-Feedback einer menschlichen Bewertungsperson anzeigt."
 url: https://github.com/marcusgreen/moodle-qtype_aitext
@@ -17,10 +17,14 @@ foundations: [academic-integrity]
 audience: [instructors, educational technology developers, administrators]
 level: [higher ed, k 12]
 translation_of: resources/moodle-qtype-aitext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

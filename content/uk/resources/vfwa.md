@@ -1,7 +1,7 @@
 ---
 title: "Письмове оцінювання з пріоритетом голосу"
 created: "2026-11-12T13:46:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:31:19-05:00"
 type: resource
 summary: "Двоетапна модель оцінювання та настанова з упровадження: спостережувана й неоцінювана фіксація міркування студента за незнайомим завданням, потім оцінювана письмова робота, виконана вдома без обмежень на інструменти ШІ та пов'язана з першим етапом доказовим судженням, з умовною усною співбесідою там, де цей зв'язок неясний."
 url: https://kellywebbdavies.com/vfwa/
@@ -17,10 +17,14 @@ ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
 translation_of: resources/vfwa
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

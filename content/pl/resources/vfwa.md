@@ -1,7 +1,7 @@
 ---
 title: "Ocena pisemna oparta na głosie"
 created: "2026-11-12T13:39:44-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:27:33-05:00"
 type: resource
 summary: "Dwuetapowy model oceny i przewodnik wdrożeniowy: obserwowana i nieoceniana rejestracja rozumowania studenta nad nieznanym wcześniej poleceniem, po której następuje oceniana praca pisemna przygotowywana w domu bez ograniczeń w korzystaniu z narzędzi AI, powiązana z pierwszym etapem za pomocą osądu dowodowego, z warunkową obroną ustną (viva) w przypadkach, gdy to powiązanie jest niejasne."
 url: https://kellywebbdavies.com/vfwa/
@@ -20,13 +20,18 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
 translation_of: "resources/vfwa"
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "*Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*"
 ---
+
 *Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*
 
 VFWA nie jest produktem do zainstalowania; to struktura oceniania, za którą stoją strona internetowa, working paper i przewodnik wdrożeniowy. Struktura ma dwa etapy. W pierwszym studenci odpowiadają na polecenie, którego wcześniej nie widzieli, pod nadzorem, w języku lub formie, jaka im odpowiada — mowa, pismo odręczne, mapa argumentacyjna, inny język — a odpowiedź jest sprawdzana pod kątem wystarczalności, a nie oceniana punktowo. W drugim zabierają ten artefakt do domu i rozwijają go w ocenianą pracę, przy czym [[generative-ai|narzędzia AI]] są dozwolone i opcjonalne. Oceniający rozstrzyga, czy finalny tekst można odczytać jako odpowiedzialne opracowanie pierwszego przez studenta.

@@ -1,7 +1,7 @@
 ---
 title: "conText"
 created: "2026-11-12T19:24:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:24:12-05:00"
 type: resource
 summary: "एक मुफ़्त ब्राउज़र ट्यूटर जो नोटबुक की फ़ोटो, PDF या किसी पाठ को पढ़ता है, फिर छात्र से अंग्रेज़ी या स्पेनिश में सुकराती ढंग से बातचीत करता हुआ उसे समझाता है और बोलते समय छात्र द्वारा जोड़े जा रहे विचारों का जीवंत ग्राफ़ बनाता है।"
 url: https://context.aideatext.ai/?lang=en
@@ -19,10 +19,14 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
     date: "2026-11-12"
     agent: hermes-agent
 translation_of: resources/context-aideatext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 ---
 

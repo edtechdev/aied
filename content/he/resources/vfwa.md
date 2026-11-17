@@ -1,7 +1,7 @@
 ---
 title: "הערכה כתובה מבוססת קול"
 created: "2026-11-12T13:40:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:19:10-05:00"
 type: resource
 summary: "מודל הערכה דו-שלבי ומדריך יישום: תיעוד נצפה ובלתי מנוקד של חשיבת התלמיד/ה על פרומפט שלא ראו קודם, ואחריו הגשה כתובה מנוקדת שנעשתה בבית כשכלי בינה מלאכותית מותרים ללא הגבלה, המקושרת לשלב הראשון באמצעות שיפוט ראייתי, עם ויוה מותנית במקרים שבהם הקישור אינו ברור."
 url: https://kellywebbdavies.com/vfwa/
@@ -17,10 +17,14 @@ ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
 translation_of: resources/vfwa
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

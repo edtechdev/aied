@@ -17,10 +17,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors]
 level: [undergraduate, secondary]
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
@@ -37,7 +41,7 @@ Cẩm nang thực địa 2026 đi qua mười năng lực — tò mò, [[critica
 
 ## Dành cho ai
 
-Sinh viên đại học ở mọi ngành, và học sinh trung học phổ thông. Giảng viên, nhân viên hỗ trợ học tập, thủ thư và nhà giáo dục công tác sinh viên nhận được bộ mô-đun và các câu hỏi thảo luận; cẩm nang cố ý trung lập về ngành học, đó là lý do các cơ sở dùng nó cho seminar năm nhất, phát triển giảng viên và một vốn từ chung giữa những sáng kiến AI riêng rẽ.
+Sinh viên đại học ở mọi ngành, và học sinh trung học phổ thông. Giảng viên, nhân viên hỗ trợ học tập, thủ thư và nhà giáo dục công tác sinh viên nhận được bộ mô-đun và các câu hỏi thảo luận; cẩm nang cố ý trung lập về ngành học, đó là lý do các cơ sở dùng nó cho seminar năm nhất, [[educational-development|phát triển giảng viên]] và một vốn từ chung giữa những sáng kiến AI riêng rẽ.
 
 ## Ghi chú và lưu ý
 

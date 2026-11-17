@@ -1,7 +1,7 @@
 ---
 title: "NowComment"
 created: "2026-11-12T19:15:00-05:00"
-updated: "2026-11-12T19:45:00-05:00"
+updated: "2026-11-16T19:24:26-05:00"
 type: resource
 summary: "Besplatna platforma za anotacije s računom u kojoj se nitna rasprava veže uz pojedine rečenice, područja slike i vremenske oznake u videu, i gdje OpenAI-jevi „AI misleći partneri“ mogu sastaviti odgovor na odabrani odlomak koji student uređuje prije objave."
 url: https://nowcomment.com/
@@ -16,10 +16,14 @@ assessment: [peer-assessment, ai-feedback-quality, formative-assessment]
 audience: [instructors, learners, faculty developers]
 level: [k 12, higher ed]
 translation_of: resources/nowcomment
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -28,11 +32,11 @@ ai_assist:
 
 *Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*
 
-NowComment pretvara tekst, sliku ili video u površinu za raspravu: komentari se vežu u nit uz točnu rečenicu, odlomak, područje slike ili vremensku oznaku na koju odgovaraju, pa razgovor u razredu ostaje usidren uz dokaze umjesto da sklizne u niz komentara. Ono što ga razlikuje od običnog alata za anotacije jest AI sloj koji je održavatelj ugradio u tu istu površinu — [OpenAI-jev](https://nowcomment.com/) „AI misleći partner“ može se pitati o odlomku koji je čitatelj odabrao, a rezultat dolazi kao nacrt koji se može uređivati, a ne kao odgovor.
+NowComment pretvara tekst, sliku ili video u površinu za raspravu: komentari se vežu u nit uz točnu rečenicu, odlomak, područje slike ili vremensku oznaku na koju odgovaraju, pa razgovor u razredu ostaje usidren uz dokaze umjesto da sklizne u niz komentara. AI sloj radi u toj istoj površini: [OpenAI-jev](https://nowcomment.com/) „AI misleći partner“ može se pitati o odlomku koji je čitatelj odabrao, a rezultat dolazi kao nacrt koji se može uređivati.
 
 ## Što možete raditi s njim
 
-Učitajte dokument, pozovite čitatelje i svaki odabrani odlomak može nositi više razgovora, prikazanih u bočnom stupcu ili umetnutih. Povrh toga, AI značajke razlog su da ga pogledate sada. **Pitaj AI** na dvostruko kliknutoj rečenici ili odlomku otvara izbornik partnera: čitatelj odabire *GPT mislećeg partnera*, piše pitanje, dodaje neobveznu bilješku o čitatelju i može **ponovno poslati** više puta dok rezultat ne postane koristan. Odgovor se zatim uređuje na mjestu prije objave, što studenta čini suautorom AI teksta, a ne njegovim prosljeđivačem. Uz partnere koje grade korisnici stoji imenik provjerenih partnera, a pomoćni materijali stranice uključuju vodiče za [[prompt-engineering|upite]] koji drže asistenta da od čitatelja traži planiranje revizije umjesto da je proizvede. Popratni obrazac *GPT Dialogue Notebook* skuplja tjedne pisane dnevnike uz tekstove, slike i videozapise na koje se odnose, s [[privacy|privatnošću]] postavljenom po dokumentu, pa se AI dijalog nakuplja tijekom semestra umjesto da se poništava svaku sesiju. Ugrađena analitika broji komentare i posjete po dokumentu i izvozi u CSV.
+Učitajte dokument, pozovite čitatelje i svaki odabrani odlomak može nositi više razgovora, prikazanih u bočnom stupcu ili umetnutih. **Pitaj AI** na dvostruko kliknutoj rečenici ili odlomku otvara izbornik partnera: čitatelj odabire *GPT mislećeg partnera*, piše pitanje, dodaje neobveznu bilješku o čitatelju i može **ponovno poslati** više puta dok rezultat ne postane koristan. Odgovor se zatim uređuje na mjestu prije objave, što studenta čini suautorom AI teksta, a ne njegovim prosljeđivačem. Uz partnere koje grade korisnici stoji imenik provjerenih partnera, a pomoćni materijali stranice uključuju vodiče za [[prompt-engineering|upite]] koji drže asistenta da od čitatelja traži planiranje revizije umjesto da je proizvede. Popratni obrazac *GPT Dialogue Notebook* skuplja tjedne pisane dnevnike uz tekstove, slike i videozapise na koje se odnose, s [[privacy|privatnošću]] postavljenom po dokumentu, pa se AI dijalog nakuplja tijekom semestra umjesto da se poništava svaku sesiju. Ugrađena analitika broji komentare i posjete po dokumentu i izvozi u CSV.
 
 Sama petlja anotacije dizajn je za [[collaborative-learning|suradničko učenje]] u starijem smislu: čitatelji odgovaraju na iste dokaze, a nit bilježi tko je što rekao o kojoj rečenici. Budući da odgovori mogu biti vršnjački ili AI-jevi, radi i kao površina za [[peer-assessment|vršnjačko ocjenjivanje]] niskog rizika, a upiti partnera mogu ciljati kvalitete [[ai-feedback-quality|korisne AI povratne informacije]], a ne odgovore.
 

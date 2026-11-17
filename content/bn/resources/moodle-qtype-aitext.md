@@ -1,7 +1,7 @@
 ---
 title: "Moodle AI Text প্রশ্ন-ধরন"
 created: "2026-11-12T19:48:00-05:00"
-updated: "2026-11-12T19:48:00-05:00"
+updated: "2026-11-16T19:19:08-05:00"
 type: resource
 summary: "একটি ওপেন-সোর্স Moodle প্রশ্ন-ধরন (GPL v3), যা মুক্ত-লেখা উত্তরকে বড় ভাষা মডেল দিয়ে প্রতি-প্রশ্ন প্রম্পট ও ঐচ্ছিক নম্বর-পরিকল্পনার ভিত্তিতে নম্বর দেয়, OpenAI, Azure বা স্ব-হোস্টেড Ollama মডেল ব্যবহার করে এবং এআই-এর প্রতিক্রিয়া একজন মানব মূল্যায়ককে দেখায়।"
 url: https://github.com/marcusgreen/moodle-qtype_aitext
@@ -20,10 +20,14 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
     date: "2026-11-12"
     agent: hermes-agent
 translation_of: resources/moodle-qtype-aitext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 ---
 

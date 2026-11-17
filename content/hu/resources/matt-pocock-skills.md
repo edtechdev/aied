@@ -19,10 +19,14 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [clarity, education-agent-skills]
 translation_of: resources/matt-pocock-skills
-source_updated: "2026-09-27T03:31:33-04:00"
+source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
@@ -33,7 +37,7 @@ ai_assist:
 
 A **Készségek igazi mérnököknek** Matt Pocock közzétett ügynökkészség-könyvtára: kicsi, összeépíthető utasításfájlok, amelyek Claude Code-ba, Codexbe vagy más ügynökbe települnek, és úgy íródtak, hogy adaptálják őket, ne egészben vegyék át. A gyűjtemény nagy része szoftveres munkát szolgál, de több készség oktatási eszköz, amelyet tanításra és kérdezésre, nem kódra építettek.
 
-A legvilágosabb példa a `teach`, amely több munkameneten át fut, és a munkakönyvtárat állapottartó tanítási munkaterületként kezeli, így a tanuló előrehaladása és nyitott kérdései megmaradnak a beszélgetések között, ahelyett hogy minden alkalommal újraindulnának. A `grill-me` és a mögötte álló `grilling` primitív kíméletlenül kérdezi a felhasználót egy tervről, amíg minden ág meg nem oldódik – ez a [[socratic-method|szókratészi kérdezés]] újrafelhasználható eljárásként, nem beszélgetési hangulatként. A `wait-what` abban a pillanatban reagál, amikor egy üzenet nem ér célba, újrafogalmazva azt köznyelven, a hiányzó kontextussal együtt – ezt a lépést minden oktató felismeri, aki látta, hogy egy magyarázat elsőre nem talált. A `writing-for-agents` arról szól, hogyan írjunk olyan dokumentumokat, amelyeket egy [[prompt-engineering|ügynök]] követni tud, ami ma a [[pedagogical-agent|MI]]-kurzusanyaghoz írt utasítások gyakorlati formája. A `to-questionnaire` egy döntést kérdőívvé alakít annak számára, aki meg tudja válaszolni, a `handoff` egy beszélgetést sűrít dokumentummá, amelyből egy másik ügynök folytatni tud, a `wizard` pedig interaktív végigvezetést generál olyan lépésekhez, amelyeket csak ember tud elvégezni.
+A legvilágosabb példa a `teach`, amely több munkameneten át fut, és a munkakönyvtárat állapottartó tanítási munkaterületként kezeli, így a tanuló előrehaladása és nyitott kérdései megmaradnak a beszélgetések között, ahelyett hogy minden alkalommal újraindulnának. A `grill-me` és a mögötte álló `grilling` primitív kíméletlenül kérdezi a felhasználót egy tervről, amíg minden ág meg nem oldódik – ez a [[socratic-method|szókratészi kérdezés]] újrafelhasználható eljárásként, nem beszélgetési hangulatként. A `wait-what` abban a pillanatban reagál, amikor egy üzenet nem ér célba, újrafogalmazva azt köznyelven, a hiányzó kontextussal együtt – ezt a lépést minden oktató felismeri, aki látta, hogy egy magyarázat elsőre nem talált. A `writing-for-agents` arról szól, hogyan írjunk olyan dokumentumokat, amelyeket egy [[prompt-engineering|ügynök]] követni tud, ami ma a [[pedagogical-agent|MI]]-kurzusanyaghoz írt utasítások gyakorlati formája. A `to-questionnaire` egy döntést kérdőívvé alakít annak számára, aki meg tudja válaszolni, a `handoff` egy beszélgetést sűrít dokumentummá, amelyből egy másik ügynök folytatni tud, a `wizard` pedig interaktív végigvezetést generál olyan lépésekhez, amelyeket csak ember tud elvégezni. Ha csak magára a tutorálási hurokra van szükség, nem egy adaptálandó könyvtárra, a Jane Street egyetlen célra készült [`socratic-tutor` készséget](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md) tesz közzé, amely diagnosztikát futtat, minden részkészséget 0–5-ös szinten térképez fel, osztott ismétlést ütemez, és egy értékeléssel zár – mérnöki keretezés nélkül, és azzal a védelemmel, hogy ne kérdezzen ki olyan tanulót, aki csak egy gyors választ akart.
 
 ## Amit a bevezetés előtt tudni kell
 

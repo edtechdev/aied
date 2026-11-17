@@ -1,7 +1,7 @@
 ---
 title: "Teacher Hive"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-10T23:05:00-05:00"
+updated: "2026-11-16T19:19:08-05:00"
 type: resource
 summary: "Tony Vincent-এর বিনামূল্যে ব্যবহারযোগ্য হোস্টিং প্ল্যাটফর্ম, যেখানে শিক্ষকেরা AI-নির্মিত শ্রেণিকক্ষের ওয়েব অ্যাপ প্রকাশ করেন, লিংক বা QR কোডে সেগুলো শেয়ার করেন, এবং অন্য শিক্ষকদের তৈরি শত শত অ্যাপ ব্রাউজ করেন।"
 url: https://teacherhive.app/
@@ -16,10 +16,14 @@ audience: [instructors, instructional designers]
 discipline: [teacher education]
 level: [k 12]
 translation_of: resources/teacher-hive
-source_updated: "2026-11-10T19:52:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-10"

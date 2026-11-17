@@ -1,7 +1,7 @@
 ---
 title: "KI-Orientierung nach Alter"
 created: "2026-11-12T13:44:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:14:57-05:00"
 type: resource
 summary: "Ein interaktiver Leitfaden der Compass Collaborative an der Harvard Graduate School of Education, der neun Altersstufen von 0–2 bis 26–40 mit zehn Entwicklungsbereichen verbindet und an jeder Schnittstelle fragt, was sich gerade entwickelt, welche KI-Forschung es gibt und wie KI helfen oder schaden könnte – ausdrücklich als Hypothesen, nicht als Befunde."
 url: https://compass.gse.harvard.edu/explore/
@@ -16,10 +16,14 @@ technology: [generative-ai]
 audience: [parents and families, instructors, administrators, learners, policymakers, researchers]
 level: [preschool, primary education, secondary, higher ed, adult learning]
 translation_of: resources/ai-guidance-by-age
-source_updated: "2026-11-12T13:50:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -43,7 +47,7 @@ Lehrkräfte in der [[early-childhood-elementary-ai-education|frühen Kindheit un
 
 ## Hinweise und Einschränkungen
 
-Der Leitfaden ist ehrlich über seinen eigenen Status, und die Seite sollte ebenso gelesen werden. Die Autorinnen und Autoren nennen die Einträge Hypothesen, die durch abduktives Schließen aus etablierter Entwicklungsforschung plus früher, oft kleiner KI-Forschung gebildet wurden – keine abschließende Orientierung, denn systematische Belege dazu, wie KI ein sich entwickelndes Denken prägt, könnten ein Jahrzehnt brauchen. Das Werkzeug modelliert sorgfältiges Abwägen, statt Effekte zu berichten.
+Der Leitfaden ist ehrlich über seinen eigenen Status. Die Autorinnen und Autoren nennen die Einträge Hypothesen, die durch abduktives Schließen aus etablierter Entwicklungsforschung plus früher, oft kleiner KI-Forschung gebildet wurden – keine abschließende Orientierung, denn systematische Belege dazu, wie KI ein sich entwickelndes Denken prägt, könnten ein Jahrzehnt brauchen. Das Werkzeug modelliert sorgfältiges Abwägen, statt Effekte zu berichten.
 
 Zwei weitere Grenzen sind für den Unterricht wichtig. Die Empfehlungen sind Designimpulse, keine getesteten Interventionen; nichts auf der Seite berichtet ein Ergebnis. Und die Altersstufen legen ein grobes Raster über eine Entwicklung, die innerhalb der Stufen, zwischen Kulturen und zwischen Kontexten variiert – was der Leitfaden selbst einräumt.
 

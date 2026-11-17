@@ -1,7 +1,7 @@
 ---
 title: "Amplify GenAI"
 created: "2026-11-12T11:34:00-05:00"
-updated: "2026-11-12T11:34:00-05:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "Platform AI generatif perusahaan berlisensi MIT dari Vanderbilt, yang diterapkan di akun AWS institusi sendiri: asisten khusus atas dokumen lokal, jawaban yang diperkaya retrieval, berbagi di seluruh organisasi, dan akuntansi biaya hingga ke pesan individual."
 url: https://www.amplifygenai.org/
@@ -17,10 +17,14 @@ audience: [administrators, instructors, faculty developers, educational technolo
 level: [higher ed]
 connected_resources: [mindrouter]
 translation_of: resources/amplify-genai
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

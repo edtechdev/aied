@@ -1,7 +1,7 @@
 ---
 title: "NowComment"
 created: "2026-11-12T11:44:00-05:00"
-updated: "2026-11-12T11:44:00-05:00"
+updated: "2026-11-16T19:27:35-05:00"
 type: resource
 summary: "Jukwaa la uwekaji maelezo lenye akaunti la bure ambapo majadiliano yenye nyuzi hushikamana na sentensi, maeneo ya picha na alama za muda za video mahususi, na ambapo 'AI Thinking Partner' inayotegemea OpenAI inaweza kuandika rasimu ya jibu juu ya kifungu kilichochaguliwa ili mwanafunzi aihariri kabla ya kuchapisha."
 url: https://nowcomment.com/
@@ -16,10 +16,14 @@ assessment: [peer-assessment, ai-feedback-quality, formative-assessment]
 audience: [instructors, learners, faculty developers]
 level: [k 12, higher ed]
 translation_of: resources/nowcomment
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -28,11 +32,11 @@ ai_assist:
 
 *Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa.*
 
-NowComment hubadilisha maandishi, picha au video kuwa uso wa majadiliano: maoni huwekwa kwa nyuzi dhidi ya sentensi, aya, eneo la picha au alama ya muda husika, hivyo mazungumzo ya darasa hubaki yametingishwa kwenye ushahidi badala ya kuteleza kuwa mtiririko wa maoni. Kinachoitofautisha na zana ya kawaida ya uwekaji maelezo ni tabaka la AI alilojenga mhudumu ndani ya uso huo huo — [inayotegemea OpenAI](https://nowcomment.com/) "AI Thinking Partner" inaweza kuulizwa kuhusu kifungu alichochagua msomaji, na matokeo huja kama rasimu inayoweza kuhaririwa badala ya jibu.
+NowComment hubadilisha maandishi, picha au video kuwa uso wa majadiliano: maoni huwekwa kwa nyuzi dhidi ya sentensi, aya, eneo la picha au alama ya muda husika, hivyo mazungumzo ya darasa hubaki yametingishwa kwenye ushahidi badala ya kuteleza kuwa mtiririko wa maoni. Tabaka la AI hufanya kazi ndani ya uso huo huo — [inayotegemea OpenAI](https://nowcomment.com/) "AI Thinking Partner" inaweza kuulizwa kuhusu kifungu alichochagua msomaji, na matokeo huja kama rasimu inayoweza kuhaririwa.
 
 ## Unachoweza kufanya nacho
 
-Pakia hati, alika wasomaji, na kifungu chochote kilichochaguliwa kinaweza kubeba mazungumzo mengi, yakitolewa kwenye safu ya kando au ndani ya mstari. Juu ya hayo, vipengele vya AI ndiyo sababu ya kuiangalia sasa. **Uliza AI** kwenye sentensi au aya iliyobofyiwa mara mbili hufungua kichaguzi cha mshirika: msomaji huchagua *GPT Thinking Partner*, huandika swali, huongeza dokezo la hiari kuhusu msomaji, na anaweza **Kuwasilisha Tena** mara kwa mara hadi matokeo yawe na manufaa. Jibu kisha huhaririwa mahali pale kabla ya kuchapishwa, jambo linalomfanya mwanafunzi kuwa mwandishi mwenza wa maandishi ya AI badala ya msambazaji wake. Saraka ya washirika waliokaguliwa iko kando ya wale walioundwa na watumiaji, na nyenzo za msaada za tovuti zinajumuisha miongozo ya [[prompt-engineering|ilani]] inayomfanya msaidizi aendelee kumwomba msomaji apange marekebisho badala ya kuyazalisha. Mtindo shirikishi wa *GPT Dialogue Notebook* hukusanya kumbukumbu za maandishi za kila wiki pamoja na masomo, picha na video zinazohusiana, huku [[privacy|faragha]] ikiwekwa kwa kila hati, ili mazungumzo ya AI yakusanyike kwa muhula mzima badala ya kuanza upya kila kikao. Uchanganuzi uliojengewa ndani huhesabu maoni na ziara kwa kila hati na kuhamisha kwa CSV.
+Pakia hati, alika wasomaji, na kifungu chochote kilichochaguliwa kinaweza kubeba mazungumzo mengi, yakitolewa kwenye safu ya kando au ndani ya mstari. **Uliza AI** kwenye sentensi au aya iliyobofyiwa mara mbili hufungua kichaguzi cha mshirika: msomaji huchagua *GPT Thinking Partner*, huandika swali, huongeza dokezo la hiari kuhusu msomaji, na anaweza **Kuwasilisha Tena** mara kwa mara hadi matokeo yawe na manufaa. Jibu kisha huhaririwa mahali pale kabla ya kuchapishwa, jambo linalomfanya mwanafunzi kuwa mwandishi mwenza wa maandishi ya AI badala ya msambazaji wake. Saraka ya washirika waliokaguliwa iko kando ya wale walioundwa na watumiaji, na nyenzo za msaada za tovuti zinajumuisha miongozo ya [[prompt-engineering|ilani]] inayomfanya msaidizi aendelee kumwomba msomaji apange marekebisho badala ya kuyazalisha. Mtindo shirikishi wa *GPT Dialogue Notebook* hukusanya kumbukumbu za maandishi za kila wiki pamoja na masomo, picha na video zinazohusiana, huku [[privacy|faragha]] ikiwekwa kwa kila hati, ili mazungumzo ya AI yakusanyike kwa muhula mzima badala ya kuanza upya kila kikao. Uchanganuzi uliojengewa ndani huhesabu maoni na ziara kwa kila hati na kuhamisha kwa CSV.
 
 Mzunguko wa uwekaji maelezo wenyewe ni muundo wa [[collaborative-learning|kujifunza kwa ushirikiano]] kwa maana ya zamani: wasomaji hujibu ushahidi huo huo, na uzi hurekodi nani alisema nini kuhusu sentensi ipi. Kwa sababu majibu yanaweza kuwa ya marika au ya AI, pia hufanya kazi kama uso wa [[peer-assessment|tathmini ya marika]] wa hatari ndogo, na ilani za washirika zinaweza kuelekezwa kwenye sifa za [[ai-feedback-quality|maoni ya AI yenye manufaa]] badala ya majibu.
 

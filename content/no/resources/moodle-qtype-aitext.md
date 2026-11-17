@@ -1,7 +1,7 @@
 ---
 title: "Moodle-spørsmålstypen AI Text"
 created: "2026-11-12T11:33:00-05:00"
-updated: "2026-11-12T12:16:00-05:00"
+updated: "2026-11-16T19:27:33-05:00"
 type: resource
 summary: "En åpen kildekode-spørsmålstype for Moodle (GPL v3) som vurderer fritekstsvar med en stor språkmodell mot en prompt per spørsmål og et valgfritt vurderingsskjema, med OpenAI, Azure eller en selvdriftet Ollama-modell, og viser AI-ens tilbakemelding til en menneskelig vurderer."
 url: https://github.com/marcusgreen/moodle-qtype_aitext
@@ -17,10 +17,14 @@ foundations: [academic-integrity]
 audience: [instructors, educational technology developers, administrators]
 level: [higher ed, k 12]
 translation_of: resources/moodle-qtype-aitext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

@@ -1,7 +1,7 @@
 ---
 title: "语音优先的书面评估（VFWA）"
 created: "2026-11-12T13:46:00-05:00"
-updated: "2026-11-12T13:46:00-05:00"
+updated: "2026-11-16T19:31:20-05:00"
 type: resource
 summary: "一个两阶段的评估模型与实施指南：在有监督的情况下，对学生就未见过的提示所作推理进行不评分的采集；随后学生回家，在允许且可选使用 AI 工具的条件下完成计分书面提交；两者通过证据判断相连接，关联不清晰时辅以有条件的口头答辩。"
 url: https://kellywebbdavies.com/vfwa/
@@ -16,11 +16,15 @@ technology: [speech-and-voice-technologies, generative-ai]
 ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_of: resources/vfwa
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

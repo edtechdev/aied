@@ -1,7 +1,7 @@
 ---
 title: "Moodle AI Text kérdéstípus"
 created: "2026-11-12T19:40:00-05:00"
-updated: "2026-11-12T19:40:00-05:00"
+updated: "2026-11-16T19:24:12-05:00"
 type: resource
 summary: "Nyílt forráskódú Moodle-kérdéstípus (GPL v3), amely nagy nyelvi modellel osztályozza a szabad szöveges válaszokat egy kérdésenkénti prompt és opcionális értékelési séma alapján, OpenAI, Azure vagy saját hosztolású Ollama-modellt használva, és az MI visszajelzését emberi értékelőnek mutatja."
 url: https://github.com/marcusgreen/moodle-qtype_aitext
@@ -17,10 +17,14 @@ foundations: [academic-integrity]
 audience: [instructors, educational technology developers, administrators]
 level: [higher ed, k 12]
 translation_of: resources/moodle-qtype-aitext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

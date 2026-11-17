@@ -20,6 +20,10 @@ confidence: high
 connected_resources: [clarity, education-agent-skills]
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
     date: "2026-09-24"
@@ -29,7 +33,7 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 translation_of: resources/matt-pocock-skills
-source_updated: "2026-09-27T03:31:33-04:00"
+source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 ---
 
@@ -37,7 +41,7 @@ translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo h
 
 **Skills for Real Engineers** ni saraka ya ujuzi za mawakala ya Matt Pocock iliyochapishwa: faili ndogo za maelekezo, zinazoweza kuunganishwa, ambazo zinasakinishwa kwenye Claude Code, Codex au wakala mwingine, zikiandikwa ili kurekebishwa badala ya kukubaliwa kwa ukamilifu. Sehemu kubwa ya mkusanyiko hutumikia kazi za programu, lakini ujuzi kadhaa ni vyombo vya elimu vilivyojengwa kwa ajili ya kufundisha na kuuliza maswali badala ya kwa ajili ya msimbo.
 
-Mfano mahususi zaidi ni `teach`, ambayo hufanya kazi katika vipindi vingi na huchukulia saraka ya kazi kama nafasi ya kufundisha yenye hali, ili maendeleo ya mwanafunzi na maswali yaliyo wazi yahifadhiwe kati ya mazungumzo badala ya kuanzishwa upya kila wakati. `grill-me` na msingi wake `grilling` wanahoji mtumiaji kwa ukali kuhusu mpango hadi kila tawi litatuliwe, ambayo ni [[socratic-method|maswali ya kisokratiki]] kama taratibu inayoweza kutumika tena badala ya hali ya mazungumzo. `wait-what` hujibu mara moja ujumbe unaposhindwa kueleweka kwa kuutamka upya kwa lugha rahisi pamoja na muktadha uliopungua, hatua ambayo mkufunzi yeyote anaitambua kutokana na kufuatilia maelezo yanayokosa mara ya kwanza. `writing-for-agents` inashughulikia jinsi ya kuandika nyaraka ambazo [[prompt-engineering|wakala]] anaweza kuzitegemeza, ambayo sasa ni umbo halisi la kuandika maelekezo ya nyenzo za kozi za [[pedagogical-agent|AI]]. `to-questionnaire` hubadilisha uamuzi kuwa dodoso kwa yeyote anayeweza kulijibu, `handoff` hufupisha mazungumzo kuwa hati ambayo wakala mwingine anaweza kuendelea nayo, na `wizard` huzalisha mwongozo wa mwingiliano kwa hatua ambazo binadamu tu wanaweza kuzitekeleza.
+Mfano mahususi zaidi ni `teach`, ambayo hufanya kazi katika vipindi vingi na huchukulia saraka ya kazi kama nafasi ya kufundisha yenye hali, ili maendeleo ya mwanafunzi na maswali yaliyo wazi yahifadhiwe kati ya mazungumzo badala ya kuanzishwa upya kila wakati. `grill-me` na msingi wake `grilling` wanahoji mtumiaji kwa ukali kuhusu mpango hadi kila tawi litatuliwe, ambayo ni [[socratic-method|maswali ya kisokratiki]] kama taratibu inayoweza kutumika tena badala ya hali ya mazungumzo. `wait-what` hujibu mara moja ujumbe unaposhindwa kueleweka kwa kuutamka upya kwa lugha rahisi pamoja na muktadha uliopungua, hatua ambayo mkufunzi yeyote anaitambua kutokana na kufuatilia maelezo yanayokosa mara ya kwanza. `writing-for-agents` inashughulikia jinsi ya kuandika nyaraka ambazo [[prompt-engineering|wakala]] anaweza kuzitegemeza, ambayo sasa ni umbo halisi la kuandika maelekezo ya nyenzo za kozi za [[pedagogical-agent|AI]]. `to-questionnaire` hubadilisha uamuzi kuwa dodoso kwa yeyote anayeweza kulijibu, `handoff` hufupisha mazungumzo kuwa hati ambayo wakala mwingine anaweza kuendelea nayo, na `wizard` huzalisha mwongozo wa mwingiliano kwa hatua ambazo binadamu tu wanaweza kuzitekeleza. Ikiwa unachotaka ni mzunguko wa ualimu peke yake badala ya saraka ya kurekebisha, Jane Street huchapisha [ujuzi wa `socratic-tutor` wenye kusudi moja](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md) unaofanya uchunguzi, unaoweka kila ujuzi mdogo katika viwango 0-5, unaopanga marudio yaliyotawanywa kwa muda na kuhitimisha kwa tathmini, bila mfumo wa uhandisi na ukiwa na kinga dhidi ya kuuliza maswali mwanafunzi aliyekuwa akitaka jibu la haraka tu.
 
 ## Jua kabla ya kuitekeleza
 

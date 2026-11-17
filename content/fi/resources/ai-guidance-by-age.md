@@ -1,7 +1,7 @@
 ---
 title: "AI-ohjeistus iän mukaan"
 created: "2026-11-12T13:54:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:19:32-05:00"
 type: resource
 summary: "Harvardin Compass Collaborativen interaktiivinen opas, joka yhdistää yhdeksän ikähaarukkaa väliltä 0–2 välille 26–40 kymmeneen kehitykselliseen alueeseen ja kysyy jokaisessa leikkauspisteessä, mitä on kehittymässä, mitä AI-tutkimusta on olemassa ja miten AI voi auttaa tai haitata – nimenomaisesti hypoteeseina eikä löydöksinä."
 url: https://compass.gse.harvard.edu/explore/
@@ -16,10 +16,14 @@ technology: [generative-ai]
 audience: [parents and families, instructors, administrators, learners, policymakers, researchers]
 level: [preschool, primary education, secondary, higher ed, adult learning]
 translation_of: resources/ai-guidance-by-age
-source_updated: "2026-11-12T13:50:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -43,7 +47,7 @@ Jokaisella merkinnällä on sama muoto: nopea tiivistelmä, numeroitu joukko suo
 
 ## Huomioita ja varauksia
 
-Ohjeistus on rehellinen omasta asemastaan, ja sivua pitäisi lukea samalla tavalla. Sen tekijät kutsuvat merkintöjä hypoteeseiksi, jotka on rakennettu abduktiivisella päättelyllä vakiintuneesta kehitystieteestä sekä varhaisesta, usein pienestä, AI-tutkimuksesta – ei lopulliseksi ohjeeksi, koska järjestelmällinen näyttö siitä, miten AI muovaa kehittyvää mieltä, voi kestää vuosikymmenen. Työkalu mallintaa huolellista harkintaa sen sijaan, että se raportoisi vaikutuksia.
+Ohjeistus on rehellinen omasta asemastaan. Sen tekijät kutsuvat merkintöjä hypoteeseiksi, jotka on rakennettu abduktiivisella päättelyllä vakiintuneesta kehitystieteestä sekä varhaisesta, usein pienestä, AI-tutkimuksesta – ei lopulliseksi ohjeeksi, koska järjestelmällinen näyttö siitä, miten AI muovaa kehittyvää mieltä, voi kestää vuosikymmenen. Työkalu mallintaa huolellista harkintaa sen sijaan, että se raportoisi vaikutuksia.
 
 Kaksi muuta rajaa ovat opetuksen kannalta merkityksellisiä. Suositukset ovat suunnittelukehotteita, eivät testattuja interventioita; mikään sivustolla ei raportoi tulosta. Ja ikähaarukkarakenne asettaa kehitykselle karkean ruudukon, joka vaihtelee haarukoiden sisällä, kulttuurien ja kontekstien välillä, minkä opas itse myöntää.
 

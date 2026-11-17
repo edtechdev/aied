@@ -1,7 +1,7 @@
 ---
 title: "Stemmebasert skriftlig vurdering"
 created: "2026-11-12T13:52:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:27:33-05:00"
 type: resource
 summary: "En vurderingsmodell i to trinn med implementeringsveiledning: en observert, ikke-vurdert registrering av en students resonnering om en usett oppgave, etterfulgt av en vurdert skriftlig innlevering som gjøres hjemme med AI-verktøy fritt tilgjengelig, koblet til det første trinnet gjennom en bevisvurdering, med en betinget muntlig eksaminasjon når den koblingen er uklar."
 url: https://kellywebbdavies.com/vfwa/
@@ -17,10 +17,14 @@ ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
 translation_of: resources/vfwa
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

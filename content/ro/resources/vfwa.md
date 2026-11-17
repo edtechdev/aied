@@ -1,7 +1,7 @@
 ---
 title: "Evaluarea scrisă pornind de la voce"
 created: "2026-11-12T14:05:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:27:34-05:00"
 type: resource
 summary: "Un model de evaluare în două etape și un ghid de implementare: o înregistrare observată și nenotată a raționamentului unui student pe un prompt nevăzut, urmată de o lucrare scrisă notată, realizată acasă cu instrumente de IA fără restricții, legată de prima etapă printr-o judecată bazată pe dovezi, cu o susținere orală condiționată în cazurile în care această legătură este neclară."
 url: https://kellywebbdavies.com/vfwa/
@@ -17,10 +17,14 @@ ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
 translation_of: resources/vfwa
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

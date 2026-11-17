@@ -19,10 +19,14 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [clarity, education-agent-skills]
 translation_of: resources/matt-pocock-skills
-source_updated: "2026-09-27T03:31:33-04:00"
+source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
@@ -33,7 +37,7 @@ ai_assist:
 
 **Skills for Real Engineers** on Matt Pocockin julkaisema agenttitaitojen hakemisto: pieniä, yhdisteltäviä ohjetiedostoja, jotka asennetaan Claude Codeen, Codexiin tai toiseen agenttiin ja jotka on kirjoitettu mukautettaviksi eikä kokonaisina omaksuttaviksi. Suurin osa kokoelmasta palvelee ohjelmistotyötä, mutta useat taidot ovat opetusvälineitä, jotka rakennettiin opettamista ja kysymistä varten eikä koodia varten.
 
-Selkein esimerkki on `teach`, joka toimii useiden istuntojen yli ja kohtelee työhakemistoa tilallaan olevana opetustyötilana, joten oppijan edistyminen ja avoimet kysymykset säilyvät keskustelujen välillä sen sijaan, että ne alkaisivat joka kerta alusta. `grill-me` ja sen taustalla oleva `grilling`-primitiivi haastattelevat käyttäjää armottomasti suunnitelmasta, kunnes jokainen haara on ratkaistu – se on [[socratic-method|sokraattinen kysely]] uudelleenkäytettävänä menettelynä eikä keskustelun sävynä. `wait-what` vastaa heti, kun viesti ei mene perille, muotoilemalla sen uudelleen selkokielellä ja puuttuvalla kontekstilla – liike, jonka jokainen opettaja tunnistaa seurattuaan selityksen epäonnistuvan ensimmäisellä kerralla. `writing-for-agents` käsittelee sitä, miten kirjoitetaan asiakirjoja, joita [[prompt-engineering|agentti]] voi seurata, mikä on nykyään käytännöllinen muoto ohjeiden kirjoittamiselle [[pedagogical-agent|tekoälylle]] kurssimateriaalista. `to-questionnaire` muuttaa päätöksen kyselylomakkeeksi sille, joka osaa vastata siihen, `handoff` tiivistää keskustelun asiakirjaksi, josta toinen agentti voi jatkaa, ja `wizard` tuottaa interaktiivisen läpikäynnin vaiheille, jotka vain ihminen voi suorittaa.
+Selkein esimerkki on `teach`, joka toimii useiden istuntojen yli ja kohtelee työhakemistoa tilallaan olevana opetustyötilana, joten oppijan edistyminen ja avoimet kysymykset säilyvät keskustelujen välillä sen sijaan, että ne alkaisivat joka kerta alusta. `grill-me` ja sen taustalla oleva `grilling`-primitiivi haastattelevat käyttäjää armottomasti suunnitelmasta, kunnes jokainen haara on ratkaistu – se on [[socratic-method|sokraattinen kysely]] uudelleenkäytettävänä menettelynä eikä keskustelun sävynä. `wait-what` vastaa heti, kun viesti ei mene perille, muotoilemalla sen uudelleen selkokielellä ja puuttuvalla kontekstilla – liike, jonka jokainen opettaja tunnistaa seurattuaan selityksen epäonnistuvan ensimmäisellä kerralla. `writing-for-agents` käsittelee sitä, miten kirjoitetaan asiakirjoja, joita [[prompt-engineering|agentti]] voi seurata, mikä on nykyään käytännöllinen muoto ohjeiden kirjoittamiselle [[pedagogical-agent|tekoälylle]] kurssimateriaalista. `to-questionnaire` muuttaa päätöksen kyselylomakkeeksi sille, joka osaa vastata siihen, `handoff` tiivistää keskustelun asiakirjaksi, josta toinen agentti voi jatkaa, ja `wizard` tuottaa interaktiivisen läpikäynnin vaiheille, jotka vain ihminen voi suorittaa. Jos haluat vain ohjaussilmukan sen sijaan että tarvitset mukautettavan hakemiston, Jane Street julkaisee yksikäyttöisen [`socratic-tutor`-taidon](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md), joka tekee diagnostisen kartoituksen, sijoittaa jokaisen osataidon tasoille 0–5, ajastaa hajautetun kertauksen ja päättyy arviointiin – ilman insinöörikehystä ja suojauksella sitä vastaan, että kuulusteltaisiin oppijaa, joka halusi vain nopean vastauksen.
 
 ## Mitä on tiedettävä ennen käyttöönottoa
 

@@ -1,7 +1,7 @@
 ---
 title: "Γραπτή αξιολόγηση με προτεραιότητα στον λόγο"
 created: "2026-11-12T13:52:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:19:09-05:00"
 type: resource
 summary: "Ένα μοντέλο αξιολόγησης δύο σταδίων και οδηγός εφαρμογής: μια παρατηρούμενη, χωρίς βαθμολογία καταγραφή του συλλογισμού ενός σπουδαστή πάνω σε ένα άγνωστο θέμα, που ακολουθείται από βαθμολογούμενη γραπτή παράδοση στο σπίτι με ελεύθερη χρήση εργαλείων AI, συνδεδεμένη με το πρώτο στάδιο μέσω κρίσης αποδεικτικής αξίας, με προαιρετική προφορική εξέταση όταν αυτή η σύνδεση είναι ασαφής."
 url: https://kellywebbdavies.com/vfwa/
@@ -17,10 +17,14 @@ ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
 translation_of: resources/vfwa
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Αυτόματη μηχανική μετάφραση αυτής της αγγλικής σελίδας, που δεν έχει ακόμη ελεγχθεί από φυσικό ομιλητή."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

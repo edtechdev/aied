@@ -1,7 +1,7 @@
 ---
 title: "Asesmen Tertulis Berbasis Suara"
 created: "2026-11-12T14:10:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "Model asesmen dua tahap beserta panduan penerapannya: perekaman dengan pengawasan dan tanpa nilai atas penalaran siswa pada prompt yang belum pernah dilihat, disusul tugas tertulis bernilai yang diselesaikan di rumah dengan alat AI tanpa batasan, dihubungkan ke tahap pertama lewat pertimbangan berbasis bukti, dengan viva bersyarat untuk kasus ketika kaitan itu tidak jelas."
 url: https://kellywebbdavies.com/vfwa/
@@ -17,10 +17,14 @@ ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
 translation_of: resources/vfwa
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

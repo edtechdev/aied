@@ -17,10 +17,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors]
 level: [undergraduate, secondary]
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
@@ -37,7 +41,7 @@ Terenski vodič iz 2026. prolazi kroz deset sposobnosti — znatiželju, [[criti
 
 ## Za koga je
 
-Studenti preddiplomskog studija svih smjerova i učenici viših razreda srednje škole. Nastavnici, osoblje za akademsku podršku, knjižničari i stručnjaci za studentska pitanja dobivaju skup modula i poticaje za raspravu; vodič je namjerno neovisan o disciplini, zbog čega ga ustanove rabe za seminare prve godine, stručno usavršavanje nastavnika i zajednički rječnik među odvojenim inicijativama o umjetnoj inteligenciji.
+Studenti preddiplomskog studija svih smjerova i učenici viših razreda srednje škole. Nastavnici, osoblje za akademsku podršku, knjižničari i stručnjaci za studentska pitanja dobivaju skup modula i poticaje za raspravu; vodič je namjerno neovisan o disciplini, zbog čega ga ustanove rabe za seminare prve godine, [[educational-development|stručno usavršavanje nastavnika]] i zajednički rječnik među odvojenim inicijativama o umjetnoj inteligenciji.
 
 ## Napomene i upozorenja
 

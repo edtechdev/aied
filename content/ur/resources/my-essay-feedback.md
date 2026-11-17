@@ -1,7 +1,7 @@
 ---
 title: "MyEssayFeedback"
 created: "2026-11-12T21:06:00-05:00"
-updated: "2026-11-12T21:06:00-05:00"
+updated: "2026-11-16T19:31:19-05:00"
 type: resource
 summary: "کالج مضامین کے لیے انسٹرکٹر کے کنٹرول والا AI رائے کا پلیٹ فارم: 200+ اقسام کی OER لائبریری سے لیے گئے رائے کے پرامپٹس، ہر AI تجویز پر طلبہ کا منظم غور و فکر، AI کلاس خلاصے کے ساتھ انسٹرکٹر ڈیش بورڈ، اور Canvas، Blackboard اور Moodle کے ساتھ LTI انٹیگریشن۔"
 url: https://myessayfeedback.ai/
@@ -16,10 +16,14 @@ ethics: [ai-use-disclosure]
 audience: [instructors, learners, faculty developers]
 level: [higher ed]
 translation_of: resources/my-essay-feedback
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

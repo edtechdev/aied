@@ -1,7 +1,7 @@
 ---
 title: "Skills for Real Engineers"
 created: "2026-09-24T05:57:40-04:00"
-updated: "2026-09-27T03:31:33-04:00"
+updated: "2026-11-16T19:27:33-05:00"
 type: resource
 summary: "A coleção de código aberto de skills de agente pequenas e componíveis de Matt Pocock, incluindo uma skill de ensino multissessão, uma skill de questionamento implacável e orientação sobre como escrever documentos que um agente consiga seguir."
 url: https://github.com/mattpocock/skills
@@ -20,10 +20,14 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [clarity, education-agent-skills]
 translation_of: resources/matt-pocock-skills
-source_updated: "2026-09-27T03:31:33-04:00"
+source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
@@ -34,7 +38,7 @@ ai_assist:
 
 **Skills for Real Engineers** é o diretório publicado de skills de agente de Matt Pocock: arquivos de instrução pequenos e componíveis que se instalam no Claude Code, no Codex ou em outro agente, escritos para serem adaptados em vez de adotados inteiros. A maior parte da coleção serve ao trabalho de software, mas várias skills são instrumentos de educação, construídos para ensinar e questionar em vez de para escrever código.
 
-O exemplo mais claro é `teach`, que roda ao longo de múltiplas sessões e trata o diretório de trabalho como um espaço de ensino com estado, de modo que o progresso de quem aprende e as questões em aberto persistem entre conversas em vez de recomeçar a cada vez. `grill-me` e seu primitivo subjacente `grilling` entrevistam o usuário implacavelmente sobre um plano até que cada ramificação esteja resolvida, o que é [[socratic-method|questionamento socrático]] como um procedimento reutilizável em vez de um clima conversacional. `wait-what` responde no momento em que uma mensagem não pega, reapresentando-a em linguagem simples com o contexto que faltava, um movimento que qualquer instrutor reconhece de ver uma explicação não emplacar na primeira vez. `writing-for-agents` cobre como escrever documentos que um [[prompt-engineering|agente]] consiga seguir, o que hoje é a forma prática de escrever instruções para material de curso com [[pedagogical-agent|IA]]. `to-questionnaire` converte uma decisão em um questionário para quem puder respondê-la, `handoff` compacta uma conversa em um documento de que outro agente possa continuar, e `wizard` gera um walkthrough interativo para passos que só uma pessoa pode executar.
+O exemplo mais claro é `teach`, que roda ao longo de múltiplas sessões e trata o diretório de trabalho como um espaço de ensino com estado, de modo que o progresso de quem aprende e as questões em aberto persistem entre conversas em vez de recomeçar a cada vez. `grill-me` e seu primitivo subjacente `grilling` entrevistam o usuário implacavelmente sobre um plano até que cada ramificação esteja resolvida, o que é [[socratic-method|questionamento socrático]] como um procedimento reutilizável em vez de um clima conversacional. `wait-what` responde no momento em que uma mensagem não pega, reapresentando-a em linguagem simples com o contexto que faltava, um movimento que qualquer instrutor reconhece de ver uma explicação não emplacar na primeira vez. `writing-for-agents` cobre como escrever documentos que um [[prompt-engineering|agente]] consiga seguir, o que hoje é a forma prática de escrever instruções para material de curso com [[pedagogical-agent|IA]]. `to-questionnaire` converte uma decisão em um questionário para quem puder respondê-la, `handoff` compacta uma conversa em um documento de que outro agente possa continuar, e `wizard` gera um walkthrough interativo para passos que só uma pessoa pode executar. Se o que você quer é apenas o ciclo de tutoria, e não um diretório para adaptar, a Jane Street publica uma [skill `socratic-tutor` de propósito único](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md) que faz um diagnóstico, mapeia cada sub-habilidade em níveis 0–5, agenda revisões espaçadas e encerra com uma avaliação, sem o enquadramento de engenharia e com uma proteção contra testar um estudante que só queria uma resposta rápida.
 
 ## O que saber antes de adotá-lo
 

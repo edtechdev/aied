@@ -1,7 +1,7 @@
 ---
 title: "एफपीडीएस ऐप्स और संसाधन"
 created: "2026-09-25T18:48:15-04:00"
-updated: "2026-10-30T07:40:00-04:00"
+updated: "2026-11-16T19:24:12-05:00"
 type: resource
 summary: "हिल्सबरो कॉलेज में फैकल्टी प्रोफेशनल डेवलपमेंट सर्विसेज़ के सार्वजनिक संसाधन पेज, जो इसके एआई डिज़ाइन कोच, कैनवास पाठ्यक्रम और सुगमता गाइडों को एक ही स्थान पर एकत्र करता है।"
 url: https://fpdshc.github.io/apps/
@@ -18,12 +18,16 @@ ethics: [accessibility, universal-design-for-learning]
 audience: [instructors, faculty developers, instructional designers]
 level: [higher ed]
 confidence: high
-connected_resources: [eduprompts, gemini-notebook, liascript]
+connected_resources: [eduprompts, gemini-notebook, liascript, vibe-coding-center]
 translation_of: resources/fpds-apps-and-resources
-source_updated: "2026-10-24T11:51:12-04:00"
+source_updated: "2026-11-13T08:48:20-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
     date: "2026-09-25"

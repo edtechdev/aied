@@ -1,7 +1,7 @@
 ---
 title: "AI-veiledning etter alder"
 created: "2026-11-12T13:54:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:27:33-05:00"
 type: resource
 summary: "En interaktiv veiledning fra Harvards Compass Collaborative som kobler ni aldersbånd fra 0–2 til 26–40 med ti utviklingsdomener, og som ved hvert skjæringspunkt spør hva som utvikles, hvilken AI-forskning som finnes og hvordan AI kan hjelpe eller hemme – uttrykkelig som hypoteser snarere enn funn."
 url: https://compass.gse.harvard.edu/explore/
@@ -16,10 +16,14 @@ technology: [generative-ai]
 audience: [parents and families, instructors, administrators, learners, policymakers, researchers]
 level: [preschool, primary education, secondary, higher ed, adult learning]
 translation_of: resources/ai-guidance-by-age
-source_updated: "2026-11-12T13:50:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Automatisk maskinoversettelse av denne engelske siden, ennå ikke korrekturlest av en morsmålstalare."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -43,7 +47,7 @@ Hver oppføring har samme form: et raskt sammendrag, et nummerert sett anbefalin
 
 ## Merknader og forbehold
 
-Veiledningen er ærlig om sin egen status, og siden bør leses på samme måte. Forfatterne kaller oppføringene hypoteser bygget gjennom abduktiv resonnering fra etablert utviklingsvitenskap pluss tidlig, ofte liten, AI-forskning – ikke avgjørende veiledning, fordi systematisk evidens om hvordan AI former et voksende sinn kan ta et tiår. Verktøyet modellerer nøye overveielse snarere enn å rapportere effekter.
+Veiledningen er ærlig om sin egen status. Forfatterne kaller oppføringene hypoteser bygget gjennom abduktiv resonnering fra etablert utviklingsvitenskap pluss tidlig, ofte liten, AI-forskning – ikke avgjørende veiledning, fordi systematisk evidens om hvordan AI former et voksende sinn kan ta et tiår. Verktøyet modellerer nøye overveielse snarere enn å rapportere effekter.
 
 To flere grenser betyr noe for undervisning. Anbefalingene er designpåminnelser, ikke testede intervensjoner; ingenting på nettstedet rapporterer et utfall. Og aldersbåndsstrukturen legger et grovt rutenett på en utvikling som varierer innenfor båndene, på tvers av kulturer og på tvers av kontekster, noe veiledningen selv innrømmer.
 

@@ -1,7 +1,7 @@
 ---
 title: "Moodle AI Metin Soru Türü"
 created: "2026-11-12T19:20:00-05:00"
-updated: "2026-11-12T19:20:00-05:00"
+updated: "2026-11-16T19:31:19-05:00"
 type: resource
 summary: "Serbest metin yanıtları, soru başına bir isteme ve isteğe bağlı bir puanlama şemasına göre büyük bir dil modeliyle notlandıran açık kaynaklı Moodle soru türü (GPL v3); OpenAI, Azure ya da kendi barındırılan bir Ollama modeli kullanır ve YZ'nin geri bildirimini insan bir notlandırıcıya gösterir."
 url: https://github.com/marcusgreen/moodle-qtype_aitext
@@ -17,10 +17,14 @@ foundations: [academic-integrity]
 audience: [instructors, educational technology developers, administrators]
 level: [higher ed, k 12]
 translation_of: resources/moodle-qtype-aitext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -35,7 +39,7 @@ ai_assist:
 
 Herhangi bir Moodle sınavına bir AIText sorusu ekleyin, istemi ve puanlama şemasını yazın ve istemleri önizleme denemeleri arasında dönmek yerine düzenleme formundaki bir AJAX **istem test edicisiyle** sınayın. Notlandırma, soru türüyle birlikte kurulması gereken iki yardımcı soru davranışı (anında ve ertelenmiş) üzerinden yürür; bu, YZ notlandırmasını Moodle'ın çekirdek davranışlarından ayrı tutar; eski `interactivecountback` davranışını kullanan mevcut denemeler yükseltmede taşınır. Model erişilemezse notlandırma hata vermek yerine bozulur, böylece bir deneme kaybedilmez. Soru yerel bir sınav türü olduğu için sonuçlar herhangi bir madde gibi karne defterine düşer — bir ders ekibinin [[automated-assessment|otomatik notlandırmayı]] demo değil pilot olarak ele alabilmesi için ihtiyaç duyduğu şey budur.
 
-Tasarım ayrıca değerlendirme ölçütlerini [[ai-feedback-quality|geri bildirim kalitesinin]] kararlaştırıldığı yere koyar: bir satıcının varsayılanına değil, öğretim elemanının yazdığı isteme. Bu, aracın dürüst kullanımıdır — inceleyip revize edebileceğiniz ölçütler — gerçi bu aynı zamanda kalite tavanının ölçütler olduğu anlamına da gelir ve belirsiz bir istem belirsiz notlandırma üretir. Kurumlar ona [[formative-assessment|biçimlendirici değerlendirmenin]] dayandığı düşük riskli, sık kontrollerde başvurur; oralarda bir insan aksi hâlde bir gecede kırk kısa yanıt okurdu.
+Tasarım ayrıca değerlendirme ölçütlerini [[ai-feedback-quality|geri bildirim kalitesinin]] kararlaştırıldığı yere koyar: bir satıcının varsayılanına değil, öğretim elemanının yazdığı isteme. İnceleyip revize edebileceğiniz ölçütler — gerçi bu aynı zamanda kalite tavanının ölçütler olduğu anlamına da gelir ve belirsiz bir istem belirsiz notlandırma üretir. Kurumlar ona [[formative-assessment|biçimlendirici değerlendirmenin]] dayandığı düşük riskli, sık kontrollerde başvurur; oralarda bir insan aksi hâlde bir gecede kırk kısa yanıt okurdu.
 
 ## Kimler için
 

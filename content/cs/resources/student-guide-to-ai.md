@@ -17,10 +17,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors]
 level: [undergraduate, secondary]
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
@@ -37,7 +41,7 @@ Terénní průvodce z roku 2026 prochází deset schopností — zvídavost, [[c
 
 ## Pro koho je určen
 
-Pro vysokoškolské studenty jakéhokoli oboru a pro studenty vyššího sekundárního stupně. Fakulta, pracovníci akademické podpory, knihovníci a vzdělavatelé ve studentských záležitostech dostávají sadu modulů a diskusní podněty; průvodce je záměrně oborově neutrální, a proto jej instituce používají pro první ročníky, profesní rozvoj a sdílený slovník napříč oddělenými AI iniciativami.
+Pro vysokoškolské studenty jakéhokoli oboru a pro studenty vyššího sekundárního stupně. Fakulta, pracovníci akademické podpory, knihovníci a vzdělavatelé ve studentských záležitostech dostávají sadu modulů a diskusní podněty; průvodce je záměrně oborově neutrální, a proto jej instituce používají pro první ročníky, [[educational-development|profesní rozvoj]] a sdílený slovník napříč oddělenými AI iniciativami.
 
 ## Poznámky a upozornění
 

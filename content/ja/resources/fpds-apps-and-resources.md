@@ -1,7 +1,7 @@
 ---
 title: "FPDS Apps and Resources"
 created: "2026-10-10T22:11:00-04:00"
-updated: "2026-10-30T03:25:23-04:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "ヒルズボロ・カレッジの Faculty Professional Development Services（教員専門能力開発部門）の公開リソースページ。AI、教育、アクセシビリティの資料を一か所にまとめています。"
 url: https://fpdshc.github.io/apps/
@@ -10,7 +10,7 @@ author: "Faculty Professional Development Services at Hillsborough College"
 resource_type: [collection of tools]
 access: [free]
 license: "MIT"
-last_verified: "2026-09-26"
+last_verified: "2026-10-24"
 foundations: [academic-integrity, learning-design, educational-development, ai-literacy]
 pedagogy: [online-teaching-and-learning]
 technology: [generative-ai, open-source]
@@ -18,12 +18,16 @@ ethics: [accessibility, universal-design-for-learning]
 audience: [instructors, faculty developers, instructional designers]
 level: [higher ed]
 confidence: high
-connected_resources: [eduprompts, gemini-notebook, liascript]
+connected_resources: [eduprompts, gemini-notebook, liascript, vibe-coding-center]
 translation_of: resources/fpds-apps-and-resources
-source_updated: "2026-10-24T11:51:12-04:00"
+source_updated: "2026-11-13T08:48:20-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"

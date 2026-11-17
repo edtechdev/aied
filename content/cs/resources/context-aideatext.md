@@ -1,7 +1,7 @@
 ---
 title: "conText"
 created: "2026-11-12T11:07:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:19:31-05:00"
 type: resource
 summary: "Bezplatný tutor v prohlížeči, který přečte fotografii sešitu, PDF nebo text a potom provede studenta tímto materiálem sokratovskou metodou v angličtině nebo španělštině a přitom živě kreslí graf nápadů, které student během mluvení propojuje."
 url: https://context.aideatext.ai/?lang=en
@@ -16,10 +16,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors, faculty developers]
 level: [k 12, higher ed]
 translation_of: resources/context-aideatext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

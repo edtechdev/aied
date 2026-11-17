@@ -1,7 +1,7 @@
 ---
 title: "ভয়েস-ফার্স্ট লিখিত মূল্যায়ন"
 created: "2026-11-12T13:45:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:19:08-05:00"
 type: resource
 summary: "দুই ধাপের একটি মূল্যায়ন মডেল ও বাস্তবায়ন নির্দেশিকা: অচেনা প্রম্পটে শিক্ষার্থীর যুক্তিপ্রক্রিয়া তত্ত্বাবধানে সংগ্রহ করা হয়, নম্বর দেওয়া হয় না; এরপর শিক্ষার্থী তা বাড়িতে নিয়ে এআই টুলের অবাধ অনুমতিসহ নম্বরপ্রাপ্ত লিখিত জমায় বিকশিত করে; সাক্ষ্যভিত্তিক বিচারে দুটি ধাপ যুক্ত হয়, আর যোগসূত্র অস্পষ্ট হলে শর্তসাপেক্ষ ভাইভা।"
 url: https://kellywebbdavies.com/vfwa/
@@ -16,11 +16,15 @@ technology: [speech-and-voice-technologies, generative-ai]
 ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_of: resources/vfwa
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

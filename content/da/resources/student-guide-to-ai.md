@@ -17,10 +17,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors]
 level: [undergraduate, secondary]
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
@@ -37,7 +41,7 @@ Student Guide to Artificial Intelligence er en gratis publikationsserie fra Elon
 
 ## Hvem det er til
 
-Bachelorstuderende på alle fag og elever i ungdomsuddannelserne. Undervisere, studievejledere, bibliotekarer og medarbejdere i studenterliv får modulsættet og diskussionspromptene; guiden er med vilje fagneutral, hvilket er grunden til, at institutioner bruger den til førsteårsseminarer, faglig udvikling og et fælles ordforråd på tværs af separate AI-initiativer.
+Bachelorstuderende på alle fag og elever i ungdomsuddannelserne. Undervisere, studievejledere, bibliotekarer og medarbejdere i studenterliv får modulsættet og diskussionspromptene; guiden er med vilje fagneutral, hvilket er grunden til, at institutioner bruger den til førsteårsseminarer, [[educational-development|faglig udvikling]] og et fælles ordforråd på tværs af separate AI-initiativer.
 
 ## Noter og forbehold
 

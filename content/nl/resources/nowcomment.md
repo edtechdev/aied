@@ -1,7 +1,7 @@
 ---
 title: "NowComment"
 created: "2026-11-12T19:30:00-05:00"
-updated: "2026-11-12T19:30:00-05:00"
+updated: "2026-11-16T19:24:14-05:00"
 type: resource
 summary: "Een gratis annotatieplatform met account waarin threaddiscussies aan specifieke zinnen, beeldregio's en videotijdstippen hangen, en waarin op OpenAI gebaseerde 'AI Thinking Partners' een antwoord op een geselecteerde passage kunnen opstellen dat de student bewerkt voordat hij het plaatst."
 url: https://nowcomment.com/
@@ -16,10 +16,14 @@ assessment: [peer-assessment, ai-feedback-quality, formative-assessment]
 audience: [instructors, learners, faculty developers]
 level: [k 12, higher ed]
 translation_of: resources/nowcomment
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -32,7 +36,7 @@ NowComment maakt van een tekst, een afbeelding of een video een discussieoppervl
 
 ## Wat je ermee kunt doen
 
-Upload een document, nodig lezers uit, en elke geselecteerde passage kan meerdere gesprekken dragen, getoond in een zijkolom of inline. Daarbovenop zijn de AI-functies de reden om er nu naar te kijken. **Ask AI** op een dubbelgeklikte zin of alinea opent een partnerkiezer: de lezer kiest een *GPT Thinking Partner*, schrijft een vraag, voegt een optionele notitie over de lezer toe en kan herhaaldelijk **Resubmit** doen tot de uitvoer bruikbaar is. Het antwoord wordt vervolgens ter plaatse bewerkt voordat het wordt geplaatst, waardoor de student medeauteur van de AI-tekst wordt in plaats van doorgever. Een map met gecontroleerde partners staat naast door gebruikers gemaakte partners, en de helpmaterialen van de site bevatten [[prompt-engineering|promptgidsen]] die een assistent ertoe aanzetten de lezer te vragen een revisie te plannen in plaats van er een te produceren. Een bijbehorend *GPT Dialogue Notebook*-patroon verzamelt wekelijkse schriftelijke logboeken plus de teksten, afbeeldingen en video's waaraan ze verbonden zijn, met [[privacy|privacy]] per document, zodat AI-dialoog zich over een termijn opbouwt in plaats van zich elke sessie te resetten. Ingebouwde analytics tellen opmerkingen en bezoeken per document en exporteren naar CSV.
+Upload een document, nodig lezers uit, en elke geselecteerde passage kan meerdere gesprekken dragen, getoond in een zijkolom of inline. **Ask AI** op een dubbelgeklikte zin of alinea opent een partnerkiezer: de lezer kiest een *GPT Thinking Partner*, schrijft een vraag, voegt een optionele notitie over de lezer toe en kan herhaaldelijk **Resubmit** doen tot de uitvoer bruikbaar is. Het antwoord wordt vervolgens ter plaatse bewerkt voordat het wordt geplaatst, waardoor de student medeauteur van de AI-tekst wordt in plaats van doorgever. Een map met gecontroleerde partners staat naast door gebruikers gemaakte partners, en de helpmaterialen van de site bevatten [[prompt-engineering|promptgidsen]] die een assistent ertoe aanzetten de lezer te vragen een revisie te plannen in plaats van er een te produceren. Een bijbehorend *GPT Dialogue Notebook*-patroon verzamelt wekelijkse schriftelijke logboeken plus de teksten, afbeeldingen en video's waaraan ze verbonden zijn, met [[privacy|privacy]] per document, zodat AI-dialoog zich over een termijn opbouwt in plaats van zich elke sessie te resetten. Ingebouwde analytics tellen opmerkingen en bezoeken per document en exporteren naar CSV.
 
 De annotatielus zelf is een ontwerp voor [[collaborative-learning|samenwerkend leren]] in de oudere zin: lezers reageren op hetzelfde bewijs, en de thread legt vast wie wat over welke zin zei. Omdat antwoorden van medestudenten of van AI kunnen komen, werkt het ook als een laagdrempelig oppervlak voor [[peer-assessment|peerassessment]], en de partnerprompts kunnen worden gericht op de kwaliteiten van [[ai-feedback-quality|nuttige AI-feedback]] in plaats van op antwoorden.
 

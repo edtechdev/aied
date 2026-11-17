@@ -1,7 +1,7 @@
 ---
 title: "Amplify GenAI"
 created: "2026-11-12T20:42:00-05:00"
-updated: "2026-11-12T20:42:00-05:00"
+updated: "2026-11-16T19:19:10-05:00"
 type: resource
 summary: "פלטפורמת בינה מלאכותית יוצרת ארגונית של ואנדרבילט ברישיון MIT, הנפרסת בחשבון ה-AWS של המוסד עצמו: עוזרים מותאמים מעל מסמכים מקומיים, תשובות מבוססות שליפה, שיתוף בארגון, והקצאת עלויות עד לרמת ההודעה הבודדת."
 url: https://www.amplifygenai.org/
@@ -17,10 +17,14 @@ audience: [administrators, instructors, faculty developers, educational technolo
 level: [higher ed]
 connected_resources: [mindrouter]
 translation_of: resources/amplify-genai
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

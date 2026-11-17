@@ -1,7 +1,7 @@
 ---
 title: "NowComment"
 created: "2026-11-12T11:30:00-05:00"
-updated: "2026-11-12T11:30:00-05:00"
+updated: "2026-11-16T19:31:19-05:00"
 type: resource
 summary: "Nền tảng chú thích miễn phí dựa trên tài khoản, nơi thảo luận theo luồng gắn vào từng câu, vùng ảnh và mốc thời gian video cụ thể, và nơi 'Đối tác Tư duy AI' dựa trên OpenAI có thể soạn câu trả lời cho một đoạn đã chọn để sinh viên sửa trước khi đăng."
 url: https://nowcomment.com/
@@ -16,10 +16,14 @@ assessment: [peer-assessment, ai-feedback-quality, formative-assessment]
 audience: [instructors, learners, faculty developers]
 level: [k 12, higher ed]
 translation_of: resources/nowcomment
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -32,7 +36,7 @@ NowComment biến một văn bản, một hình ảnh hoặc một video thành 
 
 ## Bạn có thể làm gì với nó
 
-Tải một tài liệu lên, mời người đọc, và bất kỳ đoạn được chọn nào cũng có thể mang nhiều cuộc trò chuyện, hiển thị ở cột bên hoặc ngay trong dòng. Trên đó, các tính năng AI là lý do để xem nó lúc này. **Ask AI** trên một câu hoặc đoạn được nhấp đúp mở bộ chọn đối tác: người đọc chọn một *Đối tác Tư duy GPT*, viết câu hỏi, thêm ghi chú tùy chọn về người đọc, và có thể **Resubmit** nhiều lần cho đến khi đầu ra hữu ích. Câu trả lời sau đó được sửa tại chỗ trước khi đăng, điều này biến sinh viên thành đồng tác giả của văn bản AI chứ không phải người chuyển tiếp nó. Một danh mục các đối tác đã được thẩm định nằm cạnh những đối tác do người dùng tạo, và tài liệu trợ giúp của trang có các hướng dẫn [[prompt-engineering|prompt]] giúp trợ lý yêu cầu người đọc lập kế hoạch sửa bài thay vì tạo ra bản sửa. Một mẫu *Sổ Đối thoại GPT* đồng hành thu thập nhật ký viết hàng tuần cùng các bài đọc, hình ảnh và video mà chúng kết nối, với [[privacy|quyền riêng tư]] đặt theo từng tài liệu, để đối thoại AI tích lũy qua một học kỳ thay vì thiết lập lại mỗi phiên. Phân tích tích hợp đếm nhận xét và lượt truy cập theo tài liệu và xuất ra CSV.
+Tải một tài liệu lên, mời người đọc, và bất kỳ đoạn được chọn nào cũng có thể mang nhiều cuộc trò chuyện, hiển thị ở cột bên hoặc ngay trong dòng. **Ask AI** trên một câu hoặc đoạn được nhấp đúp mở bộ chọn đối tác: người đọc chọn một *Đối tác Tư duy GPT*, viết câu hỏi, thêm ghi chú tùy chọn về người đọc, và có thể **Resubmit** nhiều lần cho đến khi đầu ra hữu ích. Câu trả lời sau đó được sửa tại chỗ trước khi đăng, điều này biến sinh viên thành đồng tác giả của văn bản AI chứ không phải người chuyển tiếp nó. Một danh mục các đối tác đã được thẩm định nằm cạnh những đối tác do người dùng tạo, và tài liệu trợ giúp của trang có các hướng dẫn [[prompt-engineering|prompt]] giúp trợ lý yêu cầu người đọc lập kế hoạch sửa bài thay vì tạo ra bản sửa. Một mẫu *Sổ Đối thoại GPT* đồng hành thu thập nhật ký viết hàng tuần cùng các bài đọc, hình ảnh và video mà chúng kết nối, với [[privacy|quyền riêng tư]] đặt theo từng tài liệu, để đối thoại AI tích lũy qua một học kỳ thay vì thiết lập lại mỗi phiên. Phân tích tích hợp đếm nhận xét và lượt truy cập theo tài liệu và xuất ra CSV.
 
 Bản thân vòng lặp chú thích là một thiết kế [[collaborative-learning|học tập cộng tác]] theo nghĩa cũ: người đọc phản hồi cùng một bằng chứng, và luồng ghi lại ai đã nói gì về câu nào. Vì câu trả lời có thể là của bạn học hoặc của AI, nó cũng hoạt động như một bề mặt [[peer-assessment|đánh giá đồng đẳng]] ít rủi ro, và prompt của đối tác có thể nhắm vào những phẩm chất của [[ai-feedback-quality|phản hồi AI hữu ích]] thay vì vào đáp án.
 

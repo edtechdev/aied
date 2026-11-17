@@ -1,7 +1,7 @@
 ---
 title: "AI-vägledning efter ålder"
 created: "2026-11-12T13:54:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:27:34-05:00"
 type: resource
 summary: "En interaktiv guide från Harvards Compass Collaborative som parar nio åldersband från 0–2 till 26–40 med tio utvecklingsdomäner och vid varje skärningspunkt frågar vad som utvecklas, vilken AI-forskning som finns och hur AI kan hjälpa eller hindra – uttryckligen som hypoteser snarare än forskningsresultat."
 url: https://compass.gse.harvard.edu/explore/
@@ -16,10 +16,14 @@ technology: [generative-ai]
 audience: [parents and families, instructors, administrators, learners, policymakers, researchers]
 level: [preschool, primary education, secondary, higher ed, adult learning]
 translation_of: resources/ai-guidance-by-age
-source_updated: "2026-11-12T13:50:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -43,7 +47,7 @@ Varje post har samma form: en kort sammanfattning, en numrerad uppsättning reko
 
 ## Anteckningar och förbehåll
 
-Vägledningen är ärlig om sin egen status, och sidan bör läsas på samma sätt. Författarna kallar posterna hypoteser byggda genom abduktivt resonemang från etablerad utvecklingsvetenskap plus tidig, ofta liten, AI-forskning – inte avgörande vägledning, eftersom systematisk evidens om hur AI formar ett växande sinne kan ta ett decennium. Verktyget modellerar noggrant övervägande snarare än rapporterar effekter.
+Vägledningen är ärlig om sin egen status. Författarna kallar posterna hypoteser byggda genom abduktivt resonemang från etablerad utvecklingsvetenskap plus tidig, ofta liten, AI-forskning – inte avgörande vägledning, eftersom systematisk evidens om hur AI formar ett växande sinne kan ta ett decennium. Verktyget modellerar noggrant övervägande snarare än rapporterar effekter.
 
 Två ytterligare gränser spelar roll för undervisning. Rekommendationerna är designpromptar, inte testade interventioner; inget på webbplatsen rapporterar ett utfall. Och åldersbandsstrukturen lägger ett grovt raster på en utveckling som varierar inom banden, mellan kulturer och mellan sammanhang, vilket guiden själv erkänner.
 

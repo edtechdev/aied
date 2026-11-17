@@ -18,6 +18,10 @@ audience: [learners, instructors]
 level: [undergraduate, secondary]
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
     date: "2026-09-28"
@@ -27,7 +31,7 @@ ai_assist:
     date: "2026-10-12"
     agent: hermes-agent
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 ---
 
@@ -59,7 +63,7 @@ The Princeton Review. שלוש המהדורות נבנות זו על גבי זו
 סטודנטים לתואר ראשון בכל תחום דעת, ותלמידי בית הספר התיכון בשנות העלייות. חברי
 סגל, צוות תמיכה אקדמית, ספרנים ומחנכים לענייני סטודנטים מקבלים את מערך המודולים
 ואת שאלות הדיון; המדרך הוא במכוון ניטרלי מבחינת תחום דעת, וזו הסיבה לכך שמוסדות
-משתמשים בו בסמינריוני שנה א', בהכשרת סגל, ולשפה משותפת ביוזמות בינה מלאכותית
+משתמשים בו בסמינריוני שנה א', ב[[educational-development|הכשרת סגל]], ולשפה משותפת ביוזמות בינה מלאכותית
 נפרדות.
 
 ## הערות ואזהרות

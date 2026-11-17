@@ -1,7 +1,7 @@
 ---
 title: "NowComment"
 created: "2026-11-12T19:40:00-05:00"
-updated: "2026-11-12T19:40:00-05:00"
+updated: "2026-11-16T19:24:12-05:00"
 type: resource
 summary: "Ingyenes, fiókalapú jelölőplatform, ahol a szálba rendezett vita konkrét mondatokhoz, képrészletekhez és videó-időbélyegekhez kapcsolódik, és ahol az OpenAI-alapú „MI-gondolkodópartnerek” szerkeszthető választervezetet írhatnak egy kijelölt részhez, amelyet a diák közzététel előtt szerkeszt."
 url: https://nowcomment.com/
@@ -16,10 +16,14 @@ assessment: [peer-assessment, ai-feedback-quality, formative-assessment]
 audience: [instructors, learners, faculty developers]
 level: [k 12, higher ed]
 translation_of: resources/nowcomment
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -32,7 +36,7 @@ A NowComment egy szöveget, képet vagy videót vitafelületté alakít: a megje
 
 ## Mire használható
 
-Tölts fel egy dokumentumot, hívd meg az olvasókat, és bármely kijelölt rész több beszélgetést is hordozhat, oldalsávban vagy soron belül megjelenítve. Ezen felül az MI-funkciók miatt érdemes most megnézni. A **Ask AI** egy duplán kattintott mondaton vagy bekezdésen partner-választót nyit: az olvasó kiválaszt egy *GPT Thinking Partnert*, kérdést ír, opcionális megjegyzést fűz az olvasóhoz, és a **Resubmit** ismételt használatával addig finomíthat, amíg a kimenet hasznos lesz. A választ ezután a helyén szerkeszti, mielőtt közzéteszi, ami a diákot az MI-szöveg társszerzőjévé teszi, nem továbbítójává. Az ellenőrzött partnerek könyvtára a felhasználók által építettek mellett található, az oldal súgóanyagai pedig [[prompt-engineering|prompt]]-útmutatókat tartalmaznak, amelyek az asszisztenst arra tartják, hogy átdolgozás tervezését kérje az olvasótól, ne magát az átdolgozást készítse el. Egy kísérő *GPT Dialogue Notebook* minta heti írásos naplókat gyűjt, valamint az olvasmányokat, képeket és videókat, amelyekhez kapcsolódnak, dokumentumonként beállított [[privacy|adatvédelemmel]], így az MI-párbeszéd egy félév során halmozódik, nem nullázódik minden foglalkozásnál. A beépített analitika dokumentumonként számolja a megjegyzéseket és látogatásokat, és CSV-be exportál.
+Tölts fel egy dokumentumot, hívd meg az olvasókat, és bármely kijelölt rész több beszélgetést is hordozhat, oldalsávban vagy soron belül megjelenítve. A **Ask AI** egy duplán kattintott mondaton vagy bekezdésen partner-választót nyit: az olvasó kiválaszt egy *GPT Thinking Partnert*, kérdést ír, opcionális megjegyzést fűz az olvasóhoz, és a **Resubmit** ismételt használatával addig finomíthat, amíg a kimenet hasznos lesz. A választ ezután a helyén szerkeszti, mielőtt közzéteszi, ami a diákot az MI-szöveg társszerzőjévé teszi, nem továbbítójává. Az ellenőrzött partnerek könyvtára a felhasználók által építettek mellett található, az oldal súgóanyagai pedig [[prompt-engineering|prompt]]-útmutatókat tartalmaznak, amelyek az asszisztenst arra tartják, hogy átdolgozás tervezését kérje az olvasótól, ne magát az átdolgozást készítse el. Egy kísérő *GPT Dialogue Notebook* minta heti írásos naplókat gyűjt, valamint az olvasmányokat, képeket és videókat, amelyekhez kapcsolódnak, dokumentumonként beállított [[privacy|adatvédelemmel]], így az MI-párbeszéd egy félév során halmozódik, nem nullázódik minden foglalkozásnál. A beépített analitika dokumentumonként számolja a megjegyzéseket és látogatásokat, és CSV-be exportál.
 
 A jelölési hurok maga [[collaborative-learning|kollaboratív tanulási]] terv a régebbi értelemben: az olvasók ugyanarra a bizonyítékra válaszolnak, a szál pedig rögzíti, ki mit mondott melyik mondatról. Mivel a válaszok társaktól vagy MI-től egyaránt jöhetnek, alacsony tétű [[peer-assessment|társértékelési]] felületként is működik, a partner-promptok pedig a [[ai-feedback-quality|hasznos MI-visszajelzés]] tulajdonságaira irányíthatók, nem válaszokra.
 

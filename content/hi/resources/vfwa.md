@@ -1,7 +1,7 @@
 ---
 title: "आवाज़-प्रथम लिखित मूल्यांकन"
 created: "2026-11-12T13:44:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:24:12-05:00"
 type: resource
 summary: "एक दो-चरणीय मूल्यांकन मॉडल और कार्यान्वयन मार्गदर्शिका: किसी अनदेखे प्रॉम्प्ट पर विद्यार्थी की तर्क-प्रक्रिया का पर्यवेक्षित, बिना अंक वाला संग्रहण, और उसके बाद घर पर AI उपकरणों की खुली अनुमति के साथ पूरा किया गया अंक-युक्त लिखित सबमिशन, जो एक साक्ष्य-आधारित निर्णय द्वारा पहले चरण से जुड़ा होता है, और जहाँ यह संबंध अस्पष्ट हो वहाँ एक सशर्त वाइवा।"
 url: https://kellywebbdavies.com/vfwa/
@@ -16,11 +16,15 @@ technology: [speech-and-voice-technologies, generative-ai]
 ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_of: resources/vfwa
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

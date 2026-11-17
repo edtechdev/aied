@@ -17,10 +17,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors]
 level: [undergraduate, secondary]
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
@@ -37,7 +41,7 @@ A 2026-os terepútmutató tíz képességet dolgoz fel – kíváncsiság, [[cri
 
 ## Kinek szól
 
-Alapképzéses hallgatók bármely szakon, és felső tagozatos középiskolások. Az oktatók, tanulmányi támogató munkatársak, könyvtárosok és hallgatói ügyekkel foglalkozó pedagógusok a modulkészletet és a beszélgetési promptokat kapják; az útmutató szándékosan tantárgysemleges, ezért használják az intézmények elsőéves szemináriumokhoz, oktatófejlesztéshez és közös szókincshez a különálló MI-kezdeményezések között.
+Alapképzéses hallgatók bármely szakon, és felső tagozatos középiskolások. Az oktatók, tanulmányi támogató munkatársak, könyvtárosok és hallgatói ügyekkel foglalkozó pedagógusok a modulkészletet és a beszélgetési promptokat kapják; az útmutató szándékosan tantárgysemleges, ezért használják az intézmények elsőéves szemináriumokhoz, [[educational-development|oktatófejlesztés]]hez és közös szókincshez a különálló MI-kezdeményezések között.
 
 ## Megjegyzések és fenntartások
 

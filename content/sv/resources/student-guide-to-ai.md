@@ -17,10 +17,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors]
 level: [undergraduate, secondary]
 translation_of: resources/student-guide-to-ai
-source_updated: "2026-10-03T02:57:43-04:00"
+source_updated: "2026-11-12T18:45:00-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-03"
@@ -37,7 +41,7 @@ Fältguiden från 2026 arbetar igenom tio förmågor – nyfikenhet, [[critical-
 
 ## Vem den är för
 
-Studenter på grundnivå i alla discipliner och elever i gymnasieskolan. Lärare, studiestödspersonal, bibliotekarier och studentlivspedagoger får moduluppsättningen och diskussionspromptarna; guiden är medvetet disciplinneutral, vilket är skälet till att lärosäten använder den i introduktionskurser, i fortbildning och för att skapa ett gemensamt språk mellan separata AI-initiativ.
+Studenter på grundnivå i alla discipliner och elever i gymnasieskolan. Lärare, studiestödspersonal, bibliotekarier och studentlivspedagoger får moduluppsättningen och diskussionspromptarna; guiden är medvetet disciplinneutral, vilket är skälet till att lärosäten använder den i introduktionskurser, i [[educational-development|fortbildning]] och för att skapa ett gemensamt språk mellan separata AI-initiativ.
 
 ## Anteckningar och förbehåll
 

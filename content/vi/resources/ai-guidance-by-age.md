@@ -1,7 +1,7 @@
 ---
 title: "Hướng dẫn AI theo độ tuổi"
 created: "2026-11-12T14:25:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:31:19-05:00"
 type: resource
 summary: "Một hướng dẫn tương tác của Compass Collaborative thuộc Harvard, ghép chín nhóm tuổi từ 0–2 đến 26–40 với mười lĩnh vực phát triển, và tại mỗi điểm giao hỏi điều gì đang phát triển, có nghiên cứu AI nào, và AI có thể giúp hay cản trở ra sao — một cách rõ ràng như những giả thuyết chứ không phải những phát hiện."
 url: https://compass.gse.harvard.edu/explore/
@@ -16,10 +16,14 @@ technology: [generative-ai]
 audience: [parents and families, instructors, administrators, learners, policymakers, researchers]
 level: [preschool, primary education, secondary, higher ed, adult learning]
 translation_of: resources/ai-guidance-by-age
-source_updated: "2026-11-12T13:50:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Bản dịch máy tự động của trang tiếng Anh này, chưa được người bản ngữ xem xét."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -43,7 +47,7 @@ Các nhà giáo dục [[early-childhood-elementary-ai-education|mầm non]] và 
 
 ## Ghi chú và lưu ý
 
-Hướng dẫn trung thực về địa vị của chính nó, và trang cũng nên được đọc theo cách đó. Các tác giả gọi các mục là những giả thuyết được dựng bằng lập luận abductive (suy luận tới giải thích tốt nhất) từ khoa học phát triển đã xác lập, cộng với nghiên cứu AI sớm và thường nhỏ — không phải hướng dẫn kết luận, vì bằng chứng hệ thống về cách AI định hình một tâm trí đang phát triển có thể mất cả một thập kỷ. Công cụ này mô hình hóa sự cân nhắc cẩn trọng thay vì báo cáo các hiệu ứng.
+Hướng dẫn trung thực về địa vị của chính nó. Các tác giả gọi các mục là những giả thuyết được dựng bằng lập luận abductive (suy luận tới giải thích tốt nhất) từ khoa học phát triển đã xác lập, cộng với nghiên cứu AI sớm và thường nhỏ — không phải hướng dẫn kết luận, vì bằng chứng hệ thống về cách AI định hình một tâm trí đang phát triển có thể mất cả một thập kỷ. Công cụ này mô hình hóa sự cân nhắc cẩn trọng thay vì báo cáo các hiệu ứng.
 
 Hai giới hạn nữa quan trọng với việc dạy học. Các khuyến nghị là gợi ý thiết kế, không phải can thiệp đã kiểm nghiệm; không có gì trên trang báo cáo một kết quả đo lường. Và cấu trúc nhóm tuổi áp một lưới thô lên sự phát triển vốn khác nhau ngay trong cùng nhóm, giữa các nền văn hóa và giữa các bối cảnh, điều mà chính hướng dẫn thừa nhận.
 

@@ -1,7 +1,7 @@
 ---
 title: "NowComment"
 created: "2026-11-12T11:36:00-05:00"
-updated: "2026-11-12T12:19:00-05:00"
+updated: "2026-11-16T19:27:34-05:00"
 type: resource
 summary: "En gratis kontobaserad annoteringsplattform där trådad diskussion fästs vid specifika meningar, bildregioner och videotidsstämplar, och där OpenAI-baserade ”AI-tankepartner” kan skriva ett utkast till svar på en vald passage som studenten redigerar före publicering."
 url: https://nowcomment.com/
@@ -16,10 +16,14 @@ assessment: [peer-assessment, ai-feedback-quality, formative-assessment]
 audience: [instructors, learners, faculty developers]
 level: [k 12, higher ed]
 translation_of: resources/nowcomment
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -32,7 +36,7 @@ NowComment gör en text, en bild eller en video till en diskussionsyta: kommenta
 
 ## Vad du kan göra med den
 
-Ladda upp ett dokument, bjud in läsare, och varje markerad passage kan bära flera konversationer, visade i en sidokolumn eller inline. Ovanpå det är AI-funktionerna anledningen att titta på den nu. **Fråga AI** på en dubbelklickad mening eller ett stycke öppnar en partnerväljare: läsaren väljer en *GPT-tankepartner*, skriver en fråga, lägger till en valfri notering om läsaren och kan **Skicka igen** upprepade gånger tills utdata är användbart. Svaret redigeras sedan på plats innan det publiceras, vilket gör studenten till medförfattare till AI-texten i stället för dess vidarebefordrare. En katalog med granskade partner ligger bredvid användarskapade, och sajtens hjälpmaterial innehåller [[prompt-engineering|prompt]]guider som får en assistent att be läsaren planera en revidering i stället för att producera en. Ett medföljande mönster, *GPT Dialogue Notebook*, samlar veckovisa skriftliga loggar plus de texter, bilder och videor de kopplar till, med [[privacy|integritet]] inställd per dokument, så att AI-dialogen ackumuleras över en termin i stället för att nollställas varje session. Inbyggd analys räknar kommentarer och besök per dokument och exporterar till CSV.
+Ladda upp ett dokument, bjud in läsare, och varje markerad passage kan bära flera konversationer, visade i en sidokolumn eller inline. **Fråga AI** på en dubbelklickad mening eller ett stycke öppnar en partnerväljare: läsaren väljer en *GPT-tankepartner*, skriver en fråga, lägger till en valfri notering om läsaren och kan **Skicka igen** upprepade gånger tills utdata är användbart. Svaret redigeras sedan på plats innan det publiceras, vilket gör studenten till medförfattare till AI-texten i stället för dess vidarebefordrare. En katalog med granskade partner ligger bredvid användarskapade, och sajtens hjälpmaterial innehåller [[prompt-engineering|prompt]]guider som får en assistent att be läsaren planera en revidering i stället för att producera en. Ett medföljande mönster, *GPT Dialogue Notebook*, samlar veckovisa skriftliga loggar plus de texter, bilder och videor de kopplar till, med [[privacy|integritet]] inställd per dokument, så att AI-dialogen ackumuleras över en termin i stället för att nollställas varje session. Inbyggd analys räknar kommentarer och besök per dokument och exporterar till CSV.
 
 Själva annoteringsloopen är en design för [[collaborative-learning|kollaborativt lärande]] i äldre bemärkelse: läsare svarar på samma evidens, och tråden registrerar vem som sade vad om vilken mening. Eftersom svaren kan vara från kamrater eller AI fungerar den också som en yta för [[peer-assessment|kamratbedömning]] med låg risk, och partnerpromptarna kan riktas mot kvaliteterna hos [[ai-feedback-quality|användbar AI-återkoppling]] i stället för mot svar.
 

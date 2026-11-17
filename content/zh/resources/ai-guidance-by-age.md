@@ -1,7 +1,7 @@
 ---
 title: "分年龄的 AI 指导（Compass Collaborative）"
 created: "2026-11-12T13:53:00-05:00"
-updated: "2026-11-12T13:53:00-05:00"
+updated: "2026-11-16T19:31:20-05:00"
 type: resource
 summary: "哈佛 Compass Collaborative 的一份互动指南，把从 0–2 岁到 26–40 岁的九个年龄段与十个发展领域配对，并在每个交叉点上追问：什么正在发展、存在哪些 AI 研究、AI 可能如何帮助或妨碍——并明确把这些当作假设而非结论。"
 url: https://compass.gse.harvard.edu/explore/
@@ -15,11 +15,15 @@ pedagogy: [metacognition, cognitive-psychology]
 technology: [generative-ai]
 audience: [parents and families, instructors, administrators, learners, policymakers, researchers]
 level: [preschool, primary education, secondary, higher ed, adult learning]
-source_updated: "2026-11-12T13:50:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_of: resources/ai-guidance-by-age
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
@@ -43,7 +47,7 @@ verified: [citation]
 
 ## 备注与注意事项
 
-这份指导对自己的定位是诚实的，页面也应这样读。作者称这些条目是由既有发展科学加上早期、往往规模很小的 AI 研究，通过溯因推理构建的假设——不是定论性指导，因为关于 AI 如何塑造发展中头脑的系统证据可能需要十年。该工具示范的是审慎的思考，而不是报告效应。
+这份指导对自己的定位是诚实的。作者称这些条目是由既有发展科学加上早期、往往规模很小的 AI 研究，通过溯因推理构建的假设——不是定论性指导，因为关于 AI 如何塑造发展中头脑的系统证据可能需要十年。该工具示范的是审慎的思考，而不是报告效应。
 
 还有两个限制对教学很重要。建议是设计提示，不是经过检验的干预；网站上没有任何内容报告结果。而且年龄段结构把一张粗网格强加于发展之上，而发展在同一阶段内部、跨文化和跨情境都有差异，指南本身也承认这一点。
 

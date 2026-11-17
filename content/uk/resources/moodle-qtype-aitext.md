@@ -1,7 +1,7 @@
 ---
 title: "Тип питання Moodle для текстових відповідей із ШІ"
 created: "2026-11-12T19:20:00-05:00"
-updated: "2026-11-12T19:45:00-05:00"
+updated: "2026-11-16T19:31:19-05:00"
 type: resource
 summary: "Відкритий тип питання Moodle (GPL v3), який оцінює вільні текстові відповіді за допомогою великої мовної моделі за промптом для кожного питання та необов’язковою схемою оцінювання, використовуючи OpenAI, Azure або самостійно розміщену модель Ollama і показуючи зворотний зв’язок ШІ живому оцінювачу."
 url: https://github.com/marcusgreen/moodle-qtype_aitext
@@ -17,10 +17,14 @@ foundations: [academic-integrity]
 audience: [instructors, educational technology developers, administrators]
 level: [higher ed, k 12]
 translation_of: resources/moodle-qtype-aitext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

@@ -1,7 +1,7 @@
 ---
 title: "Valutazione scritta voice-first"
 created: "2026-11-12T13:39:44-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "Un modello di valutazione in due fasi e una guida all'implementazione: una rilevazione osservata e non valutata del ragionamento di uno studente su un prompt inedito, seguita da una consegna scritta valutata e svolta a casa con strumenti di IA senza restrizioni, collegata alla prima fase da un giudizio probatorio, con una discussione orale condizionale nei casi in cui quel legame non è chiaro."
 url: https://kellywebbdavies.com/vfwa/
@@ -20,13 +20,18 @@ contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
     date: "2026-11-12"
     agent: hermes-agent
 verified: [citation]
 translation_of: "resources/vfwa"
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ---
+
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
 VFWA non è un prodotto da installare: è un'architettura di valutazione sostenuta da un sito, un working paper e una guida all'implementazione. L'architettura si articola in due fasi. Nella prima, gli studenti rispondono a un prompt che non hanno mai visto, sotto supervisione, nella lingua o nella modalità che preferiscono — parlato, scrittura a mano, una mappa argomentativa, un'altra lingua — e la risposta viene verificata per sufficienza anziché valutata con un voto. Nella seconda, portano quell'artefatto a casa e lo sviluppano nella consegna valutata, con gli [[generative-ai|strumenti di IA]] consentiti e facoltativi. Ciò che il valutatore giudica è se il prodotto finale possa essere letto come sviluppo responsabile, da parte dello studente, del primo.

@@ -1,7 +1,7 @@
 ---
 title: "Ses Öncelikli Yazılı Değerlendirme"
 created: "2026-11-12T13:40:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:31:19-05:00"
 type: resource
 summary: "İki aşamalı bir değerlendirme modeli ve uygulama kılavuzu: öğrencinin daha önce görmediği bir istem üzerindeki akıl yürütmesinin gözetim altında, not verilmeden kaydedilmesi; ardından evde YZ araçları sınırsızken tamamlanan notlandırılmış yazılı teslim; iki aşama kanıtsal bir yargıyla birbirine bağlanıyor ve bu bağın belirsiz kaldığı durumlar için koşullu bir sözlü sınav öngörülüyor."
 url: https://kellywebbdavies.com/vfwa/
@@ -17,10 +17,14 @@ ethics: [equity-in-ai-education, accessibility]
 audience: [instructors, assessment designers, administrators]
 level: [higher ed]
 translation_of: resources/vfwa
-source_updated: "2026-11-12T13:30:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Bu İngilizce sayfanın bir ana dili konuşanı tarafından gözden geçirilmemiş otomatik çevirisidir."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

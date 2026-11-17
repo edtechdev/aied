@@ -1,7 +1,7 @@
 ---
 title: "Moodle AI 텍스트 문제 유형"
 created: "2026-11-12T11:30:00-05:00"
-updated: "2026-11-12T11:30:00-05:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "대규모 언어 모델로 자유 서술 답안을 문제별 프롬프트와 선택적 채점 기준에 비추어 채점하는 오픈 소스 Moodle 문제 유형(GPL v3)입니다. OpenAI, Azure 또는 자체 호스팅 Ollama 모델을 사용하며 AI의 피드백을 사람 채점자에게 보여 줍니다."
 url: https://github.com/marcusgreen/moodle-qtype_aitext
@@ -17,10 +17,14 @@ foundations: [academic-integrity]
 audience: [instructors, educational technology developers, administrators]
 level: [higher ed, k 12]
 translation_of: resources/moodle-qtype-aitext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

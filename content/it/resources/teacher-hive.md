@@ -1,7 +1,7 @@
 ---
 title: "Teacher Hive"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-10T23:05:00-05:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "La piattaforma di hosting gratuita di Tony Vincent dove gli insegnanti pubblicano app web per la classe generate dall'IA, le condividono tramite link o codice QR e sfogliano centinaia di app create da altri insegnanti."
 url: https://teacherhive.app/
@@ -17,9 +17,13 @@ discipline: [teacher education]
 level: [k 12]
 contributors: [editor]
 translation_of: "resources/teacher-hive"
-source_updated: "2026-11-10T19:52:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-10"

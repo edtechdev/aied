@@ -1,7 +1,7 @@
 ---
 title: "conText"
 created: "2026-11-12T11:14:00-05:00"
-updated: "2026-11-13T12:50:00-05:00"
+updated: "2026-11-16T19:14:57-05:00"
 type: resource
 summary: "Ein kostenloser Browser-Tutor, der ein Foto eines Hefts, ein PDF oder einen Text liest und die Schülerin oder den Schüler dann sokratisch auf Englisch oder Spanisch durch den Stoff führt, während er die Ideen, die sie beim Sprechen verbindet, als lebendiges Diagramm zeichnet."
 url: https://context.aideatext.ai/?lang=en
@@ -16,10 +16,14 @@ assessment: [formative-assessment]
 audience: [learners, instructors, faculty developers]
 level: [k 12, higher ed]
 translation_of: resources/context-aideatext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T12:50:00-05:00"
 translation_note: "Dies ist eine automatische Übersetzung der englischen Seite; sie wurde noch nicht von einer muttersprachlichen Person geprüft."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"

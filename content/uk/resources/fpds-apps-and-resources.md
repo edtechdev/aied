@@ -9,7 +9,7 @@ author: "Faculty Professional Development Services at Hillsborough College"
 resource_type: [collection of tools]
 access: [free]
 license: "MIT"
-last_verified: "2026-09-26"
+last_verified: "2026-10-24"
 foundations: [academic-integrity, learning-design, educational-development, ai-literacy]
 pedagogy: [online-teaching-and-learning]
 technology: [generative-ai, open-source]
@@ -17,9 +17,13 @@ ethics: [accessibility, universal-design-for-learning]
 audience: [instructors, faculty developers, instructional designers]
 level: [higher ed]
 confidence: high
-connected_resources: [eduprompts, gemini-notebook, liascript]
+connected_resources: [eduprompts, gemini-notebook, liascript, vibe-coding-center]
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
@@ -33,7 +37,7 @@ ai_assist:
     date: "2026-10-13"
     agent: hermes-agent
 translation_of: resources/fpds-apps-and-resources
-source_updated: "2026-10-24T11:51:12-04:00"
+source_updated: "2026-11-13T08:48:20-05:00"
 translation_note: "Автоматичний переклад цієї англійської сторінки, не перевірений носієм мови."
 ---
 

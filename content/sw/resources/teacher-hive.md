@@ -1,7 +1,7 @@
 ---
 title: "Teacher Hive"
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-10T23:05:00-05:00"
+updated: "2026-11-16T19:27:35-05:00"
 type: resource
 summary: "Jukwaa la bure la upangishaji la Tony Vincent ambapo walimu huchapisha programu za wavuti za darasani zilizozalishwa na AI, huzishiriki kwa kiungo au msimbo wa QR, na hupitia mamia ya programu zilizotengenezwa na walimu wengine."
 url: https://teacherhive.app/
@@ -16,10 +16,14 @@ audience: [instructors, instructional designers]
 discipline: [teacher education]
 level: [k 12]
 translation_of: resources/teacher-hive
-source_updated: "2026-11-10T19:52:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Tafsiri ya kiotomatiki ya ukurasa huu wa Kiingereza, ambayo haijakaguliwa na mzungumzaji mzawa."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-10"

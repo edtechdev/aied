@@ -1,7 +1,7 @@
 ---
 title: "실무 엔지니어를 위한 스킬"
 created: "2026-09-24T05:57:40-04:00"
-updated: "2026-09-27T03:31:33-04:00"
+updated: "2026-11-16T19:24:13-05:00"
 type: resource
 summary: "여러 세션에 걸쳐 동작하는 학습 스킬, 끈질긴 질문을 던지는 스킬, 그리고 에이전트가 따라갈 수 있는 문서 작성 지침을 포함하여, Matt Pocock이 공개한 작고 조립 가능한 에이전트 스킬 모음입니다."
 url: https://github.com/mattpocock/skills
@@ -21,6 +21,10 @@ confidence: high
 connected_resources: [clarity, education-agent-skills]
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash
     role: drafting
     date: "2026-09-24"
@@ -30,7 +34,7 @@ ai_assist:
     date: "2026-10-11"
     agent: hermes-agent
 translation_of: resources/matt-pocock-skills
-source_updated: "2026-09-27T03:31:33-04:00"
+source_updated: "2026-11-12T16:55:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 ---
 
@@ -38,7 +42,7 @@ translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 
 
 **실무 엔지니어를 위한 스킬(Skills for Real Engineers)**은 Matt Pocock이 공개한 에이전트 스킬 디렉터리입니다. Claude Code, Codex 또는 다른 에이전트에 설치되는 작고 조립 가능한 지시 파일의 모음으로, 통째로 도입하기보다는 수정해서 쓰도록 만들어졌습니다. 이 모음의 대부분은 소프트웨어 작업을 위한 것이지만, 그 가운데 몇 가지는 코드가 아니라 가르치고 질문하기 위해 만들어진 교육용 도구입니다.
 
-가장 분명한 예는 `teach`입니다. 이 스킬은 여러 세션에 걸쳐 동작하며 작업 디렉터리를 상태를 지닌 교육 작업 공간으로 다루기 때문에, 학습자의 진도와 풀리지 않은 질문이 매번 새로 시작되지 않고 대화 사이에 유지됩니다. `grill-me`과 그 기반이 되는 `grilling` 기본 요소는 계획의 모든 분기가 해결될 때까지 사용자에게 끈질기게 질문을 던지는데, 이는 대화의 분위기가 아니라 재사용 가능한 절차로 자리 잡은 [[socratic-method|소크라테스식 질문]]입니다. `wait-what`은 메시지가 전달되지 않는 순간 즉시 반응하여 빠진 맥락을 더해 평이한 언어로 다시 설명합니다. 설명이 처음에 빗나가는 모습을 지켜본 적이 있다면 어떤 교수자도 알아보는 움직임입니다. `writing-for-agents`는 [[prompt-engineering|에이전트]]가 따라갈 수 있는 문서를 작성하는 방법을 다루며, 이는 이제 [[pedagogical-agent|AI]] 수업 자료에 대한 지시문을 쓰는 실질적인 형태가 되었습니다. `to-questionnaire`는 하나의 결정을 그것에 답할 수 있는 사람을 위한 질문지로 바꾸고, `handoff`는 대화를 다른 에이전트가 이어갈 수 있는 문서로 압축하며, `wizard`는 사람만이 수행할 수 있는 단계에 대한 대화형 둘러보기를 생성합니다.
+가장 분명한 예는 `teach`입니다. 이 스킬은 여러 세션에 걸쳐 동작하며 작업 디렉터리를 상태를 지닌 교육 작업 공간으로 다루기 때문에, 학습자의 진도와 풀리지 않은 질문이 매번 새로 시작되지 않고 대화 사이에 유지됩니다. `grill-me`과 그 기반이 되는 `grilling` 기본 요소는 계획의 모든 분기가 해결될 때까지 사용자에게 끈질기게 질문을 던지는데, 이는 대화의 분위기가 아니라 재사용 가능한 절차로 자리 잡은 [[socratic-method|소크라테스식 질문]]입니다. `wait-what`은 메시지가 전달되지 않는 순간 즉시 반응하여 빠진 맥락을 더해 평이한 언어로 다시 설명합니다. 설명이 처음에 빗나가는 모습을 지켜본 적이 있다면 어떤 교수자도 알아보는 움직임입니다. `writing-for-agents`는 [[prompt-engineering|에이전트]]가 따라갈 수 있는 문서를 작성하는 방법을 다루며, 이는 이제 [[pedagogical-agent|AI]] 수업 자료에 대한 지시문을 쓰는 실질적인 형태가 되었습니다. `to-questionnaire`는 하나의 결정을 그것에 답할 수 있는 사람을 위한 질문지로 바꾸고, `handoff`는 대화를 다른 에이전트가 이어갈 수 있는 문서로 압축하며, `wizard`는 사람만이 수행할 수 있는 단계에 대한 대화형 둘러보기를 생성합니다. 수정할 디렉터리가 아니라 튜터링 순환만 원한다면, Jane Street은 단일 목적의 [`socratic-tutor` 스킬](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md)을 공개합니다. 이 스킬은 진단을 실행하고, 각 하위 기술을 0–5 수준으로 매핑하며, 간격 반복을 예약하고, 평가로 마무리합니다. 엔지니어링 프레임이 없고, 빠른 답만 원했던 학습자에게 퀴즈를 내지 않도록 하는 장치가 있습니다.
 
 ## 채택하기 전에 알아야 할 것
 

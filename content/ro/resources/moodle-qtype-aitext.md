@@ -1,7 +1,7 @@
 ---
 title: "Tipul de întrebare AI Text din Moodle"
 created: "2026-11-12T19:40:00-05:00"
-updated: "2026-11-12T19:40:00-05:00"
+updated: "2026-11-16T19:27:34-05:00"
 type: resource
 summary: "Un tip de întrebare Moodle open-source (GPL v3) care notează răspunsuri libere cu un model lingvistic mare, pe baza unui prompt per întrebare și a unei scheme de notare opționale, folosind OpenAI, Azure sau un model Ollama auto-găzduit și arătând feedbackul IA unui corector uman."
 url: https://github.com/marcusgreen/moodle-qtype_aitext
@@ -17,10 +17,14 @@ foundations: [academic-integrity]
 audience: [instructors, educational technology developers, administrators]
 level: [higher ed, k 12]
 translation_of: resources/moodle-qtype-aitext
-source_updated: "2026-11-12T18:05:00-05:00"
+source_updated: "2026-11-13T00:25:09-05:00"
 translation_note: "Traducere automată a acestei pagini în limba engleză, încă neverificată de un vorbitor nativ."
 contributors: [editor]
 ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-16"
+    agent: hermes-agent
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
