@@ -1,7 +1,7 @@
 ---
 title: Social Science Education
 created: "2026-11-16T22:30:00-05:00"
-updated: "2026-11-17T08:45:00-05:00"
+updated: "2026-11-17T09:20:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking]
 technology: [generative-ai]
@@ -53,6 +53,8 @@ Psychology and sociology are named in the cluster's definition and almost absent
 
 Psychology is studied as learning theory rather than as a discipline. [[cognitive-psychology|Cognitive psychology]], [[developmental-psychology|developmental psychology]], [[motivation|motivation]] and [[self-efficacy|self-efficacy]] are pages about how learning works, not about how a psychology course is taught. The individual-differences work that does exist is about students in general: in a simulated AI-assisted essay task, feedback literacy was the only significant predictor of essay grade (β = 0.46, p = 0.017; [[hawkins-feedback-literacy-ai-essay-writing]]). [[critical-genai-use-predictors|Critical GenAI use]] is predicted by knowledge measured both by self-report and by objective test, alongside epistemic orientation and intellectual values.
 
+Psychology is also where the respondents come from: the largest single major in the replication sample is psychology, at 300 of 991 students, so the discipline supplies the samples for surveys like this one without being their subject ([[burke-ai-proliferation-college-students-replication-2026|Burke et al., 2026]]).
+
 One case is genuinely disciplinary, and it is clinical. [[adaptive-virtual-patient-psychotherapy-training|An adaptive virtual patient]] for psychotherapy training ran 1,033 turns with 20 clinicians and trainees. Disclosure rose with therapist empathy and exploration, and in the underlying corpus exploration did roughly 78 times the work of empathy while the deployed system weighted it three times as heavily. Trainees practicing against it risk optimizing for what the simulator rewards.
 
 Sociology has nothing. No study examines AI in a sociology course, curriculum or assessment. The discipline is named in the scope because it belongs to the cluster, not because there is evidence to report, and geography is thinner still, reaching this literature only through [[environmental-education|environmental education]]. If you teach either, the absence is the finding: the literature here is a literature about management, civics and sustainability, and the cluster's two most methodologically central disciplines are the two with least evidence.
@@ -98,3 +100,4 @@ Sociology has nothing. No study examines AI in a sociology course, curriculum or
 - [[hawkins-feedback-literacy-ai-essay-writing]] — Feedback literacy as the only significant predictor of essay grade in a simulated AI-assisted writing task
 - [[critical-genai-use-predictors]] — Knowledge (self-report and objective), epistemic orientation and intellectual values predict critical GenAI use
 - [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive virtual patient for psychotherapy training: 1,033 turns, disclosure responding to empathy and exploration
+- [[burke-ai-proliferation-college-students-replication-2026]] — 991 undergraduates across five universities: AI use roughly doubled, and psychology supplied 30% of the sample

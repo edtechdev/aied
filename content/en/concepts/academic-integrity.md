@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-16T09:20:00-05:00"
+updated: "2026-11-17T09:20:00-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -65,6 +65,8 @@ Benau (2026) reaches the same boundary from the other direction. Much of the une
 Students do not generally [[ai-misuse-learning-harm|misuse]] AI out of malice; they rationalize it. [[student-rationalization-ai-writing|Interview research]] identifies at least **five disconnect sites** where students' interpretation of AI policy diverges from faculty intent, and a taxonomy of **20+ distinct rationalizations** — from "copying AI text is victimless" to "text reflecting my beliefs is my own writing." These rationalizations are ad hoc, post hoc, and internally inconsistent, and they describe a "steep, ethical slippery slope" on which students slide far outside [[pedagogy|pedagogical]] goals. This is why [[misconceptions|student misconceptions]] about AI are the upstream cause of integrity violations, and why integrity education must address [[ethics|ethical reasoning]], not just technical skill.
 
 [[ji-student-voices-academic-integrity-scoping-2026|Ji's (2026)]] scoping review of 38 empirical studies of student voices supplies the synthesis behind the rationalization account. Its four themes are ambiguity (generating a whole task reads as cheating, grammar checking and brainstorming are largely acceptable, and paraphrasing, outlining and translation sit in a gray area) and ethical [[agency|agency]], in which students build personal rules in a guidance vacuum they read as a silent approval of their actions. The other two are the gap between ethical awareness and practice, and diversity by gender, level, discipline and culture. The awareness-practice gap is the rationalization problem measured at scale. Huang et al.'s Ethical Dissonance Index sorted 522 Chinese students into four clusters, one of which frequently did what it viewed as illegitimate. Ofem et al.'s structural-equation modeling of 4,679 Nigerian students found that positive perceptions of ChatGPT predicted dishonest use while positive integrity attitudes acted as a significant negative mediator. Ji reads students as neither passive recipients of GenAI nor culprits without moral constraint but active agents navigating an ethical gray zone, which is why the reviewed studies converge on co-created, educative and context-sensitive responses rather than punitive ones.
+
+Students' own boundary has moved, and the movement is measurable. Across the same five universities surveyed two years apart, the share who called AI use cheating fell from 56% to 42%, and 30.2% of those who still called it cheating reported using it anyway ([[burke-ai-proliferation-college-students-replication-2026|Burke et al., 2026]]). Both the cheating and the non-cheating explanation networks in that study carried a conditional node — it depends on how you use it — which is the rationalization account appearing in students' own words rather than in a taxonomy imposed on them.
 
 ## Why policy alone fails: the coordination problem
 
@@ -269,3 +271,4 @@ Winstone, Gravett and Elkington invert the usual logic: integrity is produced by
 
 - [[rodak-hire-ai-future-focused-literacy-2026]] — Collaborating With AI Assistants on Future-Focused AI Literacy
 - [[wyszynski-genai-user-input-engineering-statics-2026]] — Examining Student Use of Generative AI Through User-Input Data in an Engineering Statics Course
+- [[burke-ai-proliferation-college-students-replication-2026]] — Two-year replication across five universities: cheating perception down 14 points while 30.2% of self-identified cheaters still use AI

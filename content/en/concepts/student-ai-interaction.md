@@ -1,7 +1,7 @@
 ---
 title: Student-AI Interaction
 created: "2026-08-20T02:55:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-17T09:20:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -87,6 +87,8 @@ The anxiety dialogue relieves can be social rather than technical: across 596 Eg
 ## Discipline and Cognitive Engagement in Student-AI Chat
 
 - **Discipline-associated cognitive engagement in student-AI chat.** Chang and Li (2026) analyze student prompts to AI across 116 courses with a within-person, cross-discipline design, showing that student-AI conversations reflect **discipline-associated** cognitive engagement rather than fixed individual interaction styles. Roughly 62% of prompts encoded higher-order cognitive demand overall, but Bloom-level profiles differed sharply by discipline: [[stem-education|STEM]] courses elicited Apply-prevalent prompts (20.8%), language courses Understand-prevalent (31.7%), and social science courses Create-prevalent (33.8%). Paired within-person comparisons confirmed the same students produced significantly more higher-order prompts in social science than STEM courses (pooled n = 16, p < .001), and course-level variation exceeded student-level variation — a strong argument that AI teaching assistants should be designed and evaluated with disciplinary context in mind.
+- **Use concentrates where the work is problem-shaped.** In a 991-student replication across five U.S. universities, students reported using AI in 88% of their natural-science courses against 52% of humanities and 36% of social-science courses, and studying had displaced writing as the most common task ([[burke-ai-proliferation-college-students-replication-2026|Burke et al., 2026]]).
+
 - **How much students use AI did not predict how they felt about it.** Among 819 students, gender, self-rated AI expertise and usage frequency all failed to reach significance in a MANOVA (Wilks' Lambda 0.997, p = 0.551; 0.990, p = 0.295). Heavy and light users in that sample held the same views ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]).
 
 - **"A student cannot move a grader's mark."** They can, and it is the most persistent failure in the battery: **17 of 22** models raised their grade more after a bare objection than after a request for a second look, including **six of the eight** that had passed every gaming and blank-answer check. The largest was Llama 3.2 3B at **+33.2% of the scale**, and the request for a second look itself lowered grades for **ten** of the 17, so the contrast is not the objection's raw effect. [[porcaro-ai-grading-benchmark-2026|Grades a student can argue with need a record of the exchange]].
@@ -135,3 +137,4 @@ The anxiety dialogue relieves can be social rather than technical: across 596 Eg
 - [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
 - [[shen-ai-skill-formation-2026]] — Six AI interaction patterns, from 86% down to 24% on an unaided quiz (Shen & Tamkin 2026)
 - [[cs-students-llm-conceptualizations-prompting-2026]] — Who (or what) are they prompting? How CS students conceptualize and use LLMs
+- [[burke-ai-proliferation-college-students-replication-2026]] — 991 undergraduates: use by course area (88% natural science, 52% humanities, 36% social science) and studying as the top task
