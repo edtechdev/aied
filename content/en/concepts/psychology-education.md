@@ -1,7 +1,7 @@
 ---
 title: Psychology Education
 created: "2026-11-17T06:03:44-05:00"
-updated: "2026-11-17T11:40:00-05:00"
+updated: "2026-11-17T12:15:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking]
 pedagogy: [student-ai-interaction]
@@ -25,7 +25,7 @@ ai_assist:
 - A generated item bank can be reliable to acceptable standards while testing almost nothing above recall. Which matters more for the grade your students earn: that the marks are consistent, or that the items measure what the degree claims?
 - The R-Tutor study prompts a model to guide rather than to answer inside a statistics course. If the tutor withholds the answer, what is it teaching that a chatbot that answers is not?
 - Counselor trainees practiced with a simulated client that was agreeable, emotionally flat and culturally neutral. Which of those three would worry you most in a trainee's first real session, and why?
-- A clinical psychology program spent an estimated 0.52% of its time on machine learning in 2021, before any of this was urgent. Has your program changed the number, or only the conversation?
+- Clinical training is where a tool becomes a professional claim, not a study aid: a system that recommends a treatment is making a judgment about a person. Where would you draw the line between the two, and who in your program should draw it?
 
 ## Introduction
 
@@ -49,11 +49,9 @@ Statistics is the third, and the best-evidenced intervention. [[ai-tutor-statist
 
 ## Clinical and counseling training
 
-Clinical psychology is where AI enters as a professional question rather than a study aid, and the evidence has a clear before-and-after shape.
+Clinical psychology is where AI enters as a professional question rather than a study aid. The two studies here divide along that line: one on what a simulated client does to the trainee, one on how far trainees differ from each other.
 
-[[blease-machine-learning-clinical-psychology-education-2021|Blease and colleagues]] supply the baseline from 2021: 97% of Basel's postgraduate clinical psychology students had heard of machine learning, 46% intended to learn about it for mental health care, and they estimated that 0.52% of the program was spent on it. They moderately agreed it belonged in the curriculum.
-
-[[akkurt-counselor-trainees-chatgpt-simulated-client-2025|Akkurt, Maurya and Brown]] then used GPT-4o as a simulated client for counselor trainees. Nine transcripts and a four-person focus group is thin evidence, but the pattern is specific: the simulator lowered performance anxiety and built confidence, while the client agreed too readily, carried no emotional nuance and stayed culturally neutral — removing exactly the resistance and identity dynamics that counseling training exists to practice.
+[[akkurt-counselor-trainees-chatgpt-simulated-client-2025|Akkurt, Maurya and Brown]] used GPT-4o as a simulated client for counselor trainees. Nine transcripts and a four-person focus group is thin evidence, but the pattern is specific: the simulator lowered performance anxiety and built confidence, while the client agreed too readily, carried no emotional nuance and stayed culturally neutral — removing exactly the resistance and identity dynamics that counseling training exists to practice.
 
 [[armagan-bogatekin-ai-attitudes-psychology-trainees-2026|Armagan-Bogatekin]] modeled 286 psychology students and psychotherapy trainees across six domains and found three to four latent classes in every one. There is no average trainee: skepticism, learning anxiety, job anxiety and risk concern form separate profiles, and the profiles differ by whether the tool is a feedback aid or a treatment recommender.
 
@@ -99,7 +97,6 @@ Every one of those studies is about students who happen to be psychology student
 - [[richmond-nicholls-genai-psych-feedback-ai-literacies]] — ChatGPT replaces peer assessment in a second-year psychology media assignment
 - [[baudin-ai-generated-mcq-psychology-exams-2025]] — 80 generated items: reliable, and 73.75% recall
 - [[ai-tutor-statistical-programming-adoption-2026]] — Preregistered longitudinal study of R-Tutor in a psychology statistics course
-- [[blease-machine-learning-clinical-psychology-education-2021]] — 2021 baseline: 0.52% of the clinical psychology program on AI/ML
 - [[akkurt-counselor-trainees-chatgpt-simulated-client-2025]] — GPT-4o as a client: lower anxiety, agreeable and culturally flat
 - [[armagan-bogatekin-ai-attitudes-psychology-trainees-2026]] — Three to four latent classes in every domain
 - [[mental-health-literacy-students-llms-2026]] — 150 psychology students against four LLMs on 30 statements
