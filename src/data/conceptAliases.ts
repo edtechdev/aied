@@ -186,6 +186,7 @@ export const CONCEPT_ALIASES: Record<string, string[]> = {
   'professions-education': ['applied disciplines', 'licensed practice education', 'professional programs', 'professions education'],
   'project-based-learning': ['project based learning', 'project-based', 'project-based learning'],
   'prompt-engineering': ['prompt design', 'prompt engineering', 'prompt literacy', 'prompting', 'prompting strategies', 'prompting strategy'],
+  'psychology-education': ['psychology education', 'psychology teaching', 'teaching of psychology', 'psychology pedagogy', 'psychology curriculum'],
   'psychometrically-aware-ai': ['psychometric AI', 'psychometric awareness', 'psychometrically aligned AI', 'psychometrically aware', 'psychometrically aware AI'],
   'qualitative-research': ['qualitative', 'qualitative research'],
   'quantitative-research': ['quantitative', 'quantitative research'],

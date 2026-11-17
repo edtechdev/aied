@@ -275,6 +275,14 @@ concepts:
     - social sciences
     - social studies education
     - sociology education
+  psychology-education:
+    title: Psychology Education
+    aliases:
+    - psychology education
+    - psychology teaching
+    - teaching of psychology
+    - psychology pedagogy
+    - psychology curriculum
   assessment:
     title: Assessment
     aliases:
@@ -2528,6 +2536,7 @@ sections:
   - label: Social sciences
     items:
     - social-sciences-education
+    - psychology-education
     - civic-and-political-education
     - business-education
     - environmental-education

@@ -3,7 +3,7 @@
 Canonical reference for inline `[[slug]]` linking. Generated from
 `concepts.registry.yaml` — **edit the registry, never this file**.
 
-**Total concepts:** 245
+**Total concepts:** 246
 
 ## Foundations of AI in education
 
@@ -189,6 +189,7 @@ Canonical reference for inline `[[slug]]` linking. Generated from
 - **`business-education`** — Business Education — phrases: business degree; business education; business school; business schools; economics education; management education
 - **`civic-and-political-education`** — Civic and Political Education — phrases: civic education; civics; citizenship education; political education; political science education
 - **`environmental-education`** — Environmental Education — phrases: climate education; environmental education; environmental literacy; green skills education; sustainability education
+- **`psychology-education`** — Psychology Education — phrases: psychology education; psychology teaching; teaching of psychology; psychology pedagogy; psychology curriculum
 - **`social-sciences-education`** — Social Science Education — phrases: social science education; social sciences; social studies education; sociology education
 
 ### STEM

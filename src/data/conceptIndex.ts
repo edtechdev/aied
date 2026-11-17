@@ -49,7 +49,7 @@ export const conceptIndex: ConceptSection[] = [
     groups: [
       { label: 'Overview', items: ['discipline-specific-aied'] },
       { label: 'Humanities and arts', items: ['humanities-education', 'arts-and-media-education', 'music-education', 'english-education', 'writing-education', 'reading-education', 'language-learning'] },
-      { label: 'Social sciences', items: ['social-sciences-education', 'civic-and-political-education', 'business-education', 'environmental-education'] },
+      { label: 'Social sciences', items: ['social-sciences-education', 'psychology-education', 'civic-and-political-education', 'business-education', 'environmental-education'] },
       { label: 'STEM', items: ['stem-education', 'science-education', 'math-education', 'statistics-and-data-science-education', 'physics-education', 'chemistry-education', 'biology-education', 'cs-education', 'engineering-education', 'information-technology'] },
       { label: 'Professions', items: ['professions-education', 'medical-education', 'nursing-education', 'legal-education', 'teacher-education', 'design-education', 'libraries'] },
       { label: 'Research fields', items: ['learning-sciences'] },
