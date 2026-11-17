@@ -1,7 +1,7 @@
 ---
 title: "Design Education"
 created: "2026-09-17T14:04:29-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-16T21:25:00-05:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -22,6 +22,7 @@ reviewed_by: [editor]
 - Unsupported novices in one experiment never revised a single idea until an adversarial agent surfaced stakeholder pushback. Should design teaching manufacture friction deliberately — and where does productive difficulty end?
 - The designer's role, on this account, moves from producing forms to judging what the machine generates. If so, what comes first in a [[curriculum-design|curriculum]]: manual craft, or critical evaluation of model output?
 - If an [[llm|LLM]] can approximate instructor, peer and grant-reviewer readings of the same poster, what is left for the human critic?
+- Teams using a GenAI-plus-XR pipeline reported *lower* confidence in their own design ability afterward, and blinded raters scored their presentations no better than a control group's. What would you need to know before concluding the tools harmed learning — and what would make you conclude it anyway?
 
 ## Introduction
 
@@ -57,6 +58,14 @@ It is also distinct from [[design-thinking|design thinking]], a human-centered [
 
 - **AI critique can be bound to the artifact rather than the prompt.** [[critsly-design-education-ai-critique-2026|Kadir (2026)]] routes studio feedback through a shared board of designs, notes and pins and five bounded activities; the study reports simulated readiness (78% of 109 labels at Analyzing or above), not [[learning-gains|learning gains]].
 - **A process rubric can make AI verification the graded object.** [[human-ai-collaboration-design-education-rubric-2026|Orhon et al. (2026)]] propose the Merit Report, a four-criterion rubric (documented curatorial will 20%, tectonic translation 20%, rule-based technical validation 40%, peer audit 20%) that grades a student's documented AI-verification process rather than the artifact's polish, underwritten by a [[tpack|TPACK]] extension they call AI-Validation Knowledge.
+
+## The studio and the critique under generative AI
+
+Generative tools reach these disciplines through an existing ritual: work made publicly, shown incomplete, and criticized. What the sources show is that AI changes the *middle* of that process most reliably and the *ends* least. In the GenARch study, [[genai-xr-architectural-design-education-2026|Xiao et al. (2026)]] put a GenAI plus multi-user XR pipeline into a real undergraduate architectural design studio and found a complementary division of labor: [[generative-ai|generative AI]] externalized ideas, giving teams something concrete to point at, compare and argue over, while XR supported evaluation, letting students judge proportion, adjacency, lighting and site context at full scale.
+
+The tooling was awkward at both ends of the process. At the start, teams had no ideas yet to encode in a prompt; later, richer concepts made [[prompt-engineering|prompting]] easier but raised expectations of constraint-following, and when precision mattered students went back to SketchUp and Revit. They reported a dimensional-fidelity failure — "I asked it to make a 10 feet wall of 3D model, it wasn't 10 feet" — asset latency of seconds to minutes, and shared attention that drifted when team members looked at different parts of a model. Giving every participant a headset did not by itself produce [[collaborative-learning|coordinated collaboration]].
+
+The studio's accountabilities did shift. In a longitudinal study of generative models in design studios, [[genai-architectural-design-studios|Gül et al. (2026)]] distinguish using GenAI as visual stimulus in early ideation from a combinatorial use that expands the solution space during development, and locate the [[pedagogy|pedagogical]] problem in competence rather than access: without the discernment to differentiate between models and use them deliberately, abundant output produces [[design-thinking|design fixation]] and aesthetic lock-in. Their conclusion moves the [[teacher-role|instructor's role]] from transmitting craft toward coaching when, how and why to delegate creative exploration.
 
 ## Professional formation and regulation
 

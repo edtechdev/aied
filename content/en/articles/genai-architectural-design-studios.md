@@ -14,7 +14,7 @@ confidence: medium
 discipline: [design education]
 ---
 
-> **Synthesis:** Examines the integration of deep generative models into [[arts-design-and-media-education|architectural design education]]. The findings, based on students' views and observations in design studios, suggest that [[generative-ai|GenAI]] supports the exploration of creative ideas — serving as visual stimuli and inspirational resources in early design stages — while also highlighting the competencies students need to differentiate between GenAI models and use them effectively.
+> **Synthesis:** Examines the integration of deep generative models into [[design-education|architectural design education]]. The findings, based on students' views and observations in design studios, suggest that [[generative-ai|GenAI]] supports the exploration of creative ideas — serving as visual stimuli and inspirational resources in early design stages — while also highlighting the competencies students need to differentiate between GenAI models and use them effectively.
 
 ## Key Findings
 
