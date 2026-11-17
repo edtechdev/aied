@@ -24,7 +24,7 @@ ai_assist:
 reviewed_by: [editor]
 ---
 
-**Vibe-Coded Classroom Examples** is José Antonio Bowen's gallery of just over thirty simulations, games and visualizations that teachers built by prompting an AI model, grouped by discipline and each one opening the running tool rather than a screenshot. It sits on the Teaching with AI site that accompanies Bowen and C. Edward Watson's book, and it is the most concrete answer this corpus has found to the question of what [[vibe-coding|vibe coding]] produces in a classroom.
+**Vibe-Coded Classroom Examples** is José Antonio Bowen's gallery of just over thirty simulations, games and visualizations that teachers built by prompting an AI model, grouped by discipline and each one opening the running tool rather than a screenshot. It sits on the Teaching with AI site that accompanies Bowen and C. Edward Watson's book, and it gives the most concrete answer yet to the question of what [[vibe-coding|vibe coding]] produces in a classroom.
 
 ## What you can do with it
 
