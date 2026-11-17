@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: Detección de IA
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-11-15T10:24:54-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -14,7 +14,7 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-detection
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T20:30:23-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -95,6 +95,8 @@ Bassett et al. concluyen que la detección de IA es una solución inviable para 
 
 De 40 evaluaciones de psicología que abarcaban 16 tipos, 36 (90%) produjeron salidas de ChatGPT juzgadas adecuadas para un aprobado, y los cuatro fallos fueron las tareas que requerían presencia, un artefacto visual o el propio conjunto de datos del estudiante: una evidencia de que fue el umbral de aprobado, y no la detección, lo que decidió si el trabajo de IA contaba como logro ([[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]]).
 
+**La práctica va por detrás de la evidencia.** Al estudiar 127 instituciones, [[making-ai-work-for-students-ofs-2026|OfS y Advance HE (2026)]] encontraron que el uso de detectores continuaba años después del consenso investigador en su contra. El personal describió puntuaciones que entraban en los casos de conducta indebida como prueba de apoyo, algunas instituciones habían dejado de usar detectores por completo, y Turnitin dijo a los investigadores que la salida de su herramienta debería ser un solo dato a la hora de establecer la autoría. El estudiantado describió el otro extremo: una vez marcado, no hay vía para demostrar la autoría, y estrategias como eliminar las rayas o introducir errores deliberados para bajar la puntuación.
+
 ### El sesgo de los detectores y el mecanismo de la carrera armamentística
 
 La detección no es meramente imprecisa; sus errores están pautados. [[teichmann-detecting-undetectable-misconduct-2026|Teichmann (2026)]] reúne el caso acumulado contra tratar la puntuación de un detector como prueba: ninguna herramienta del [[benchmark|benchmark]] inicial más exhaustivo alcanzó el 80% de exactitud; un simple parafraseo o «humanización» reduce eso aproximadamente a la mitad; los falsos positivos con tasas base realistas superan a los verdaderos; y quienes hablan inglés como lengua no nativa se clasifican erróneamente de forma sistemática porque los rasgos que los detectores tratan como señales de IA también caracterizan la escritura competente en una segunda lengua. El juicio humano no cubre esa laguna: evaluadores expertos y novatos por igual no logran distinguir la IA de la prosa del estudiantado y confían en su juicio cuando se equivocan; y la asimetría del error significa que los descuidados pero honestos son capturados mientras que los deliberadamente deshonestos evaden, ya que los detectores son además opacos (sin umbrales, sin datos de entrenamiento, sin replicación independiente) y por tanto no pueden ser respondidos ni contrainterrogados en una audiencia.
@@ -105,13 +107,13 @@ La adaptación en tiempo de prueba es el contraejemplo que esa afirmación deja 
 
 - **Cinco herramientas, un manuscrito, respuestas incompatibles —y las instituciones que han dejado de usarlas.** [[angelier-ai-detection-pitfalls-inclusive-assessment-2026|Angelier (2026)]] envió un único manuscrito de autoría humana a cinco detectores comerciales el mismo día y obtuvo clasificaciones que iban desde «0% human» (Winston AI) hasta «Human Generated» (la etiqueta categórica de GPTZero, impresa junto a su cifra del 42% de IA), con Copyleaks en el 80,4% de IA, Originality.ai en «81% Likely AI» y una quinta herramienta en el 34% de IA y el 66% de humano: tres salidas inclinadas hacia la IA y dos hacia lo humano sobre un texto idéntico, sin ninguna base validada para tratar el voto mayoritario entre sistemas propietarios como prueba de procedencia. El mismo artículo documenta la retirada institucional: Vanderbilt desactivó el detector de IA de Turnitin en agosto de 2023, haciendo la aritmética de una tasa de falsos positivos del 1% sobre aproximadamente 75.000 trabajos; la Universidad de Curtin anunció una desactivación similar en 2025; la Universidad de Waterloo interrumpió la función de detección de IA de Turnitin en septiembre de 2025 tras una auditoría interna en la que trabajo escrito por humanos se había clasificado como 100% generado por IA; la Universidad de Ciudad del Cabo desactivó la puntuación de IA a partir de octubre de 2025; la Universidad del Estado Libre lo hizo en julio de 2026; la Universidad de Witwatersrand informó de que nunca había adoptado tales herramientas; y un tribunal de Nueva York anuló una conclusión de conducta indebida que se apoyaba en la puntuación de un detector. Dos hallazgos procedimentales completan el caso: una extracción de PDF gravemente corrupta seguía devolviendo una clasificación a cinco puntos porcentuales del resultado del texto limpio, y una salida de detector archivada establece lo que una interfaz informó pero no puede recrear el estado del modelo propietario que la produjo.
 
-- **La salida del detector es la prueba más débil del expediente, y la calidad de la prueba no decide los casos.** Al codificar 1.162 denuncias de conducta indebida con IA generativa, la salida del detector obtuvo las calificaciones probatorias más bajas y cayó al 0,5% de los elementos en 2025. La calidad de la prueba no mostró relación alguna con los resultados porque el proceso no fijaba ningún umbral probatorio ([[munoz-misconduct-allegation-evidence-2026|Munoz et al., 2026)]]).
+- **Las herramientas coinciden en el orden y discrepan en la cifra.** Tres detectores comerciales separaron cinco condiciones calificadas de uso de IA (p < 0,001 en todas) pero coincidieron solo débilmente en la puntuación absoluta, ICC de 0,57 a 0,95 ([[cheng-ai-detection-tools-humans-2025|Cheng et al. (2025)]]), y una revisión sistemática de 90 estudios concluye que las tasas publicadas de falsos positivos varían tanto según la herramienta y el contexto que la comparación directa resulta imposible ([[maghami-ai-detection-false-positives-2026|Maghami, Ho y Camilleri (2026)]]).
+
+- **La salida del detector es la prueba más débil del expediente, y la calidad de la prueba no decide los casos.** Al codificar 1.162 denuncias de conducta indebida con IA generativa, la salida del detector obtuvo las calificaciones probatorias más bajas y cayó al 0,5% de los elementos en 2025. La calidad de la prueba no mostró relación alguna con los resultados porque el proceso no fijaba ningún umbral probatorio ([[munoz-misconduct-allegation-evidence-2026|Munoz et al., 2026]]).
 
 - **El estudiantado cambia su trabajo para sobrevivir a la detección, no solo sus respuestas.** El informe documenta que el estudiantado atenúa sus propias respuestas para evitar una acusación falsa, y que el profesorado recurre al juicio informal —lo que se denomina AI-DAR— una vez que los detectores comercializados resultan poco fiables ([[tench-ai-policy-isnt-a-playbook-2026|Tench, Weinstein y James (2026)]]).
 
 - **El detector está apagado y solo queda la intuición.** El personal docente contratado por sesión perdió su detector de IA en una institución porque marcaba herramientas de corrección gramatical, así que se quedó leyendo en busca de referencias inventadas (diecinueve de veinte) y de desconexión con los materiales del curso ([[sessional-academics-contract-cheating-digital-misconduct-2026|Andriamora y Andriamora, 2026]]).
-
-- **Las herramientas coinciden en el orden y discrepan en la cifra.** Tres detectores comerciales separaron cinco condiciones calificadas de uso de IA (p < 0,001 en todas) pero coincidieron solo débilmente en la puntuación absoluta, ICC de 0,57 a 0,95 ([[cheng-ai-detection-tools-humans-2025|Cheng et al. (2025)]]), y una revisión sistemática de 90 estudios concluye que las tasas publicadas de falsos positivos varían tanto según la herramienta y el contexto que la comparación directa resulta imposible ([[maghami-ai-detection-false-positives-2026|Maghami, Ho y Camilleri (2026)]]).
 
 ## Más allá de la detección: rediseño de la evaluación
 
@@ -191,6 +193,7 @@ La pregunta constructiva se desplaza de «¿cómo impedimos que los estudiantes 
 - [[argus-academic-integrity-genai-2026]] — Argus: integridad académica en la era de la IA generativa
 - [[student-llm-code-detection-cs1-2026]] — El código de los LLM converge en tareas muy restringidas (de 1 a 14 formas AST por cada 1.000 archivos), pero no en las libres: la detectabilidad depende del diseño de la tarea
 - [[kazakh-ai-text-detectors-2026]] — ¿Sin revisar o acusados injustamente? Evaluación de detectores de texto generado por IA en kazajo
+- [[making-ai-work-for-students-ofs-2026]] — OfS and Advance HE (2026): 244 docentes y 91 estudiantes de 127 instituciones sobre detección, diseño de la evaluación, alfabetización en IA y estrategia
 
 - [[roe-ai-humanizers-legitimacy-assessment-2026]] — 55 sitios humanizadores que escenifican legitimidad: la detección y la evasión como un mismo mercado comercial (Roe et al. 2026)
 - [[hashem-cheating-habitus-ai-governance-discourse-2026]] — La hipótesis de que la aplicación de las normas filtra por capital académico y no por conducta

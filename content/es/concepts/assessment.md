@@ -1,7 +1,7 @@
 ---
 title: Evaluación
 created: "2026-09-25T03:53:48-04:00"
-updated: "2026-11-15T10:26:22-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -12,7 +12,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/assessment
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:36:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [idstack, lesson-md, master-instructional-design]
 contributors: [editor]
@@ -99,6 +99,8 @@ El rediseño anterior supone que una calificación sigue significando lo que sig
 
 Una propuesta de esta literatura va más allá del rediseño dentro del marco actual. [[ai-agents-joyful-assessment-third-space-2026|El Khoury y Ma (2026)]] sostienen que una reforma organizada en torno a prevenir la conducta indebida o detectar el uso de IA reduce la imaginación educativa al control y el cumplimiento, y proponen en su lugar la **evaluación gozosa**: una evaluación segura, emocionalmente receptiva, empoderadora y favorable a la [[agency|agencia del estudiantado]], con la seguridad como condición que lo sostiene todo, porque sin ella la sintonía emocional se vuelve actuación, el empoderamiento se vuelve presión y la agencia se vuelve riesgo. Su marco invierte la agenda de la detección (la integridad pasa a ser una consecuencia de diseñar evaluaciones en las que el estudiantado quiera participar, y no su punto de partida) y sitúa los [[agentic-ai|agentes de IA]] construidos por el profesorado (GPT personalizados, Gems, agentes de Copilot Studio) como un espacio de ensayo de bajo riesgo donde el estudiantado practica antes del juicio, con la afirmación de que la IA organiza la evidencia mientras quien enseña la interpreta.
 
+El código de colores es la alternativa que no deja de proponerse, y la versión de una institución ya ha agotado su recorrido. [[nerantzi-traffic-light-assessment-genai-2026|Nerantzi, Palfreyman y Pavlopoulou (2026)]] reconstruyen una conversación de panel sobre el marco de la Universidad de Leeds, vigente en todas las facultades desde 2023, en el que el rojo prohíbe la IA, el ámbar deja las reglas a cada docente de módulo y el verde enseña un uso responsable. Su objeción es de alcance: un color adherido a una tarea responde si una herramienta puede usarse aquí, pero no si puede usarse para comprender la lectura. En 2024/25 alrededor del 85% de los módulos impartidos en la Business School llevaban tareas en rojo mientras el objetivo declarado de la universidad era trasladar toda la evaluación al verde, y los autores concluyen que el semáforo está desfasado y debería ceder ante un marco que mantenga el [[evaluative-judgment|juicio humano]] en el centro.
+
 ## Implicaciones para la IA en la educación
 
 - **La evaluación y el aprendizaje son inseparables:** una buena evaluación con IA debería apoyar el aprendizaje ([[feedback|retroalimentación formativa]]) tanto como valorarlo.
@@ -166,3 +168,4 @@ Una propuesta de esta literatura va más allá del rediseño dentro del marco ac
 - [[computing-assessment-genai-workshop-report-2026]] — La IA puede hacer tus deberes. ¿Y ahora qué? Informe de un taller en línea sobre la evaluación en informática en la era de la IA generativa
 - [[koretsky-genai-stem-assessment-2026]] — Un marco de tres vértices para realinear la evaluación
 - [[rubrics-genai-process-based-assessment-2026]] — Criterios de rúbrica que califican la interacción y no el artefacto
+- [[nerantzi-traffic-light-assessment-genai-2026]] — Una conversación reflexiva sobre la evaluación en la era de la IA generativa a partir del marco del semáforo de la Universidad de Leeds

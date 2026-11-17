@@ -1,7 +1,7 @@
 ---
 title: Pensamiento computacional
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-11-15T10:15:49-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,7 +9,7 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:36:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,8 @@ Al automatizarse la implementación, las competencias duraderas cambian: un info
 - La elección de la medida cambia el veredicto: las entradas de pensamiento computacional y crítico alcanzaron conclusiones discordantes o mixtas en 13 de 23 pares del mismo constructo, de modo que una encuesta de PC autoinformada y una medida basada en tareas a menudo discrepan ([[same-construct-same-conclusion-self-report-vs-performance-2026|Fan et al. (2026)]]).
 
 - El pensamiento computacional también se mide como disposición: en un estudio de juegos de tres semanas con estudiantado de quinto grado, las tendencias autodeclaradas de PC ajustadas favorecieron a la clase con IA generativa, 4,325 frente a 4,037 (p = 0,046, eta cuadrado parcial = 0,052, n = 78). Una prueba de conocimiento algorítmico no separó a los grupos (80,7 frente a 74,9), de modo que las medidas de tendencia y de conocimiento rastreaban constructos distintos ([[zhou-genai-contextual-games-computational-thinking-2026|Zhou et al., 2026]]).
+
+Los perfiles de subhabilidades complican la puntuación única de PC que informa un diseño pre-post. [[koraneekij-codecraft-computational-thinking-2026|Koraneekij y Khlaisang (2026)]] llevaron a 28 estudiantes de grado tailandeses de fuera de informática por ocho semanas de sesiones de tres horas que combinaban un ciclo de [[design-thinking|pensamiento de diseño]] de cinco pasos con la construcción de aplicaciones de bajo código, puntuando el trabajo de proyecto con una rúbrica de tres puntos. La media de pensamiento computacional subió de 1,13 en la primera sesión a 1,80 y luego a 2,49, con el pensamiento algorítmico como el hilo más fuerte, 2,08, y una trayectoria de 1,46 a 1,93 y 2,86. El pensamiento lógico promedió 1,54 y apenas se movió entre las dos primeras sesiones, de 1,04 a 1,29, antes de llegar a 2,29 en la tercera: un recordatorio de que las ganancias en un componente no implican que los demás hayan seguido.
 
 ## El PC y el giro de consumidores de IA a productores, creadores y diseñadores
 
@@ -133,3 +135,4 @@ El pensamiento computacional es el fundamento cognitivo compartido que subyace a
 - [[astor-computational-thinking-meta-review-2026]] — Metarrevisión del PC sobre 128 revisiones sistemáticas
 - [[tsingidou-ct-robotics-kindergarten-2026]] — Revisión sistemática del PC mediante robótica en educación infantil
 - [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE: A Reproducible Workflow for Non-Programmer Scientists to Implement Published AI Models
+- [[koraneekij-codecraft-computational-thinking-2026]] — Code Craft: la plataforma de pensamiento de diseño digital y aprendizaje para mejorar el pensamiento computacional y la alfabetización digital

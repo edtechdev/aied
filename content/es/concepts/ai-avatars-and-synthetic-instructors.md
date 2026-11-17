@@ -1,7 +1,7 @@
 ---
 title: Avatares de IA e instructores sintéticos
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-15T10:24:54-05:00"
+updated: "2026-11-17T16:10:00-05:00"
 type: concept
 foundations: [human-ai-collaboration, teacher-role, academic-integrity]
 pedagogy: [professional-training, experiential-learning, situated-learning, video-education]
@@ -14,7 +14,7 @@ audience: [instructors, instructional designers]
 confidence: medium
 contributors: [editor]
 translation_of: concepts/ai-avatars-and-synthetic-instructors
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -70,6 +70,8 @@ Para los [[simulating-students|estudiantes simulados]], la evidencia se refiere 
 Para el juego de rol, REMind informa de una ganancia significativa de antes a después en la [[self-efficacy|autoeficacia]] percibida de los niños para defender, con creencias mejor calibradas sobre si enfrentarse a un acosador lo detiene. Son 18 niños de nueve a diez años en un contexto de prueba de juego, lo que respalda una promesa y no un cambio de conducta sostenido.([[remind-robot-mediated-roleplay-antibullying-2026|Sanoubari et al., 2026]])
 
 Para la evaluación, el juez de SOPHIE es el resultado más claro y el entrevistador de voz el menos claro. La propuesta de Tamme informa de un piloto técnico y de datos aún no analizados formalmente; toda afirmación sobre lo que la voz elicita sigue siendo una hipótesis.([[voice-based-ai-feedback-interviews-higher-ed-2026|Tamme et al., 2026]])
+
+La comunicación del curso es un rol más, y la evidencia que lo respalda es un flujo de trabajo y no un efecto. [[wu-singing-syllabus-avatars-2026|Wu (2026)]] documenta un proceso de siete etapas que convierte el programa de estudios de un curso introductorio de Ciencias de la Computación de primer año en un vídeo cantado interpretado por un avatar con sincronización labial, con ChatGPT redactando la letra, Suno AI generando la música y HeyGem sintetizando el rostro en Colab. La parte transferible es el conjunto de restricciones: la exactitud tiene prioridad sobre la rima, cada línea de política transformada se remite al programa oficial y el docente que lo adopta asume el costo de verificación. Wu no informa de datos de estudiantado, así que la implicación y el recuerdo siguen siendo hipótesis, y el programa cantado complementa el documento escrito en lugar de sustituirlo.
 
 ## La confianza viaja a través del rostro
 
@@ -165,3 +167,4 @@ La adopción es una cuestión distinta de la eficacia: [[wang-ai-avatars-tam-doi
 - [[voice-based-ai-feedback-interviews-higher-ed-2026]] — Un agente de voz conversacional propuesto para entrevistas de retroalimentación de curso
 - [[trikonet-trivalence-co-creativity-2026]] — Avatares pedagógicos cocreativos en redes sociotécnicas (TriKoNet)
 - [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — Solo el 51,7% de 654 estudiantes adoptó los roles antropomórficos ofrecidos; uno lo llamó máquina expendedora de retroalimentación
+- [[wu-singing-syllabus-avatars-2026]] — Diseñar programas de estudios cantados con avatares virtuales: reescritura del programa asistida por IA

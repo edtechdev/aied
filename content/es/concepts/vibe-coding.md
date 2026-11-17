@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy, vibe-coding-center, agentic-builds, vibe-coded-classroom-examples]
 title: "Vibe coding"
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-11-15T10:10:18-05:00"
+updated: "2026-11-17T16:30:00-05:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 discipline: [cs education, writing education]
 translation_of: concepts/vibe-coding
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -51,6 +51,8 @@ Un estudio transversal preregistrado (N = 100 estudiantes de educación superior
 
 Una de las grandes promesas del vibe coding es que permite a quienes no programan —incluidos [[teacher-role|docentes]] y especialistas de dominio— construir su propio software, una forma de desarrollo por parte de usuarios finales propia de la era de los LLM. Un [[gaide-vibe-coding-k12-teachers|estudio del marco GAIDE]] mostró a docentes de [[k-12|K-12]] (no programadores) usando vibe coding en un taller de ocho semanas para crear herramientas de aprendizaje impulsadas por IA, lo que elevó su [[ai-literacy|alfabetización en IA]] y demostró el «aprender creando» como modelo de desarrollo profesional. En [[higher-ed|educación superior]], un docente construyó rápidamente un [[vibe-coding-programming-process-visualizer|visualizador del proceso de programación a partir de registros de actividad del IDE]] mediante vibe coding en cuestión de días, haciendo visibles los procesos de programación del estudiantado para la docencia y la revisión de [[academic-integrity|integridad académica]]. Estos casos sitúan el vibe coding no solo como una habilidad de quien aprende, sino como una capacidad de autoría que [[educational-development|reconfigura quién puede crear tecnología educativa]].
 
+**La autoría es una decisión de evaluación, no solo un relato de acceso.** [[ho-invariant-core-faculty-development-2027|Ho (2026)]] extrae la consecuencia: si los artefactos ya no evidencian el pensamiento que debían suscitar, la evaluación tiene que capturar el proceso, y la evidencia del proceso exige una observación prolongada que una plantilla escasa no puede aportar. Una herramienta construida por el profesorado puede incorporar las decisiones pedagógicas, el andamiaje y el aliento que un producto comprado no incorporará, lo que devuelve el juicio de diseño a quien juzga el aprendizaje.
+
 ## Homogeneización del diseño: acceso sin diversidad
 
 La promesa de desarrollo de usuarios finales del vibe coding tiene que ver con quién puede construir, no con qué se construye. En un despliegue de curso, 73 estudiantes que construían sitios para negocios distintos en una misma plataforma de vibe coding produjeron alrededor de una docena de diseños distintos, y la autoría percibida no se correspondía con la originalidad medida ([[vibe-coding-design-diversity-2026|Boussioux et al. (2026)]]). Bajar la barrera para construir puede estandarizar el resultado: un coste que la promesa de acceso no anuncia.
@@ -66,16 +68,6 @@ Un segundo límite aparece en la propia construcción: eliminar la barrera de la
 El vibe coding conecta de forma natural con la [[prompt-engineering|ingeniería de prompts]] (la calidad del prompt es el mecanismo del desarrollo guiado por prosa), con la [[cs-education|enseñanza de la informática]] (como el dominio donde más se usa y más se discute la técnica), con el [[computational-thinking|pensamiento computacional]] (el modelado mental que predice el éxito incluso sin acceso al código), con la [[writing-education|enseñanza de la escritura]] (la escritura convertida en habilidad de programación) y con la [[agentic-ai|IA agéntica]] (dirigir un modelo hacia un artefacto en lugar de construirlo a mano). También se cruza con la [[ai-literacy|alfabetización en IA]] y el [[teacher-role|rol docente]], ya que la capacidad de construir las propias herramientas cambia lo que pueden hacer docentes y estudiantes. Por último, plantea preguntas de [[academic-integrity|integridad académica]] y de evaluación idénticas a las que plantea la generación de código por IA en toda la educación en informática.
 
 Un estudio de caso a nivel de facultad aporta la capa organizativa. [[zimmer-ai-intrapreneurship-faculty-innovation-2026|Zimmer (2026)]] describe el *intraemprendimiento con IA* —educadores que construyen sus propias herramientas en lugar de esperar la compra institucional—, incluida una autora que no programa y que usa Claude Code para construir un comprobador de 321 enlaces de curso. Los facilitadores decisivos fueron organizativos y no técnicos: la discrecionalidad sobre el trabajo, los reconocimientos y la disponibilidad de tiempo, esta última descrita como la más obviamente deficitaria en los entornos académicos y minada por la promoción y la titularidad. La seguridad se quedó con la advertencia sobria: un prototipo que funciona no es uno revisado, y el despliegue en el aula hecho con vibe coding añade una pasada de revisión antes de manejar datos del estudiantado y una conexión con el LMS.
-
-## Concepciones erróneas
-
-**«El vibe coding baja la barrera de habilidad, así que es sobre todo cuestión de escribir bien.»** La competencia en comunicación escrita ayuda y no sostiene el resultado por sí sola. En un estudio transversal prerregistrado (N = 100 estudiantes de educación superior), tanto la [[writing-education|competencia en comunicación escrita]] (r = 0,29) como el rendimiento en informática (r = 0,39) predijeron significativamente el desempeño en tareas de vibe coding orientadas a interfaz gráfica y validadas por especialistas, y en un modelo conjunto el rendimiento en informática aportó alrededor de **el doble de varianza única** que la habilidad de escritura, mientras ambas conservaban valor predictivo independiente. La barrera se ha movido, no ha desaparecido, y una parte sigue siendo técnica.
-
-**«Como ahora cualquiera puede construir software, lo que se construya será más diverso.»** El acceso y la diversidad son resultados distintos, y el acceso puede incluso comprimir el segundo. La evidencia sobre homogeneización del diseño describe exactamente ese patrón: una población más amplia de personas que construyen a partir de los mismos modelos, las mismas convenciones de componentes y los mismos valores por defecto de prompting tiende a diseños convergentes. Democratizar la autoría no diversifica automáticamente los artefactos.
-
-**«El vibe coding "puro" es lo que significa el término, así que la distinción da igual.»** Importa para la evaluación y para la seguridad. En el vibe coding puro, la persona deliberadamente no inspecciona ni edita el código generado y se apoya por completo en el prompting iterativo y la evaluación conductual; el trabajo con código visible es aquel en el que la persona lee lo que se produjo. Son actividades distintas con perfiles de error distintos, y un estudio de una no autoriza afirmaciones sobre la otra.
-
-**«Si la aplicación funciona, el código generado está bien.»** Que funcione es una prueba débil. El análisis de Veracode de 2025 encontró que solo el 55% del código generado por IA era seguro, así que las herramientas de aula hechas con vibe coding siguen necesitando una pasada de revisión antes de manejar datos del estudiantado o de conectarse a cualquier sistema que merezca protección. La evaluación conductual confirma los caminos que la persona ejercita por casualidad y no dice nada de los que no ejercita.
 
 ## Poner el vibe coding en práctica
 
@@ -95,6 +87,16 @@ Un estudio de caso a nivel de facultad aporta la capa organizativa. [[zimmer-ai-
 
 - Informe de la condición de vibe coding (puro frente a código visible) junto con los resultados, y use tareas orientadas a interfaz gráfica validadas por especialistas en lugar del [[self-report-measures|éxito autoinformado]], para que los resultados sean comparables entre estudios.
 - Mida la diversidad de los artefactos, y no solo su número o el de personas que los construyen, si se está poniendo a prueba el argumento del acceso.
+
+## Concepciones erróneas
+
+**«El vibe coding baja la barrera de habilidad, así que es sobre todo cuestión de escribir bien.»** La competencia en comunicación escrita ayuda y no sostiene el resultado por sí sola. En un estudio transversal prerregistrado (N = 100 estudiantes de educación superior), tanto la [[writing-education|competencia en comunicación escrita]] (r = 0,29) como el rendimiento en informática (r = 0,39) predijeron significativamente el desempeño en tareas de vibe coding orientadas a interfaz gráfica y validadas por especialistas, y en un modelo conjunto el rendimiento en informática aportó alrededor de **el doble de varianza única** que la habilidad de escritura, mientras ambas conservaban valor predictivo independiente. La barrera se ha movido, no ha desaparecido, y una parte sigue siendo técnica.
+
+**«Como ahora cualquiera puede construir software, lo que se construya será más diverso.»** El acceso y la diversidad son resultados distintos, y el acceso puede incluso comprimir el segundo. La evidencia sobre homogeneización del diseño describe exactamente ese patrón: una población más amplia de personas que construyen a partir de los mismos modelos, las mismas convenciones de componentes y los mismos valores por defecto de prompting tiende a diseños convergentes. Democratizar la autoría no diversifica automáticamente los artefactos.
+
+**«El vibe coding "puro" es lo que significa el término, así que la distinción da igual.»** Importa para la evaluación y para la seguridad. En el vibe coding puro, la persona deliberadamente no inspecciona ni edita el código generado y se apoya por completo en el prompting iterativo y la evaluación conductual; el trabajo con código visible es aquel en el que la persona lee lo que se produjo. Son actividades distintas con perfiles de error distintos, y un estudio de una no autoriza afirmaciones sobre la otra.
+
+**«Si la aplicación funciona, el código generado está bien.»** Que funcione es una prueba débil. El análisis de Veracode de 2025 encontró que solo el 55% del código generado por IA era seguro, así que las herramientas de aula hechas con vibe coding siguen necesitando una pasada de revisión antes de manejar datos del estudiantado o de conectarse a cualquier sistema que merezca protección. La evaluación conductual confirma los caminos que la persona ejercita por casualidad y no dice nada de los que no ejercita.
 
 ## Conceptos conectados
 
@@ -122,3 +124,4 @@ Un estudio de caso a nivel de facultad aporta la capa organizativa. [[zimmer-ai-
 - [[flowcode-ai-creative-coding]] — Flowcode: un entorno de programación impulsado por IA para andamiar la iteración en la educación en computación creativa
 - [[zimmer-ai-intrapreneurship-faculty-innovation-2026]] — Intraemprendimiento con IA: el profesorado que construye sus propias herramientas, y los facilitadores organizativos que deciden si el impulso sobrevive (Zimmer 2026)
 - [[vibe-coding-design-diversity-2026]] — Una herramienta, un gusto? Cómo el vibe coding cambia diversidad colectiva por creatividad individual
+- [[ho-invariant-core-faculty-development-2027]] — Herramientas construidas por el profesorado como estrategia de evaluación: evidencia de proceso que la dotación de personal no puede aportar (Ho 2026)

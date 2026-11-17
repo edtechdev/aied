@@ -1,7 +1,7 @@
 ---
 title: Política educativa sobre IA
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-11-15T10:15:45-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [academic-integrity, educational-development]
 ethics: [equity-in-ai-education, ethics]
@@ -12,7 +12,7 @@ confidence: high
 institutions: [governance, regulation]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack, campus-ai-development, okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/educational-policy-ai
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T20:30:23-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -75,6 +75,8 @@ La inconsistencia no es un asunto académico para quienes la aplican: quince doc
 
 Donde se ha formado consenso para llenar esa brecha, el Delphi de 35 expertos de [[crompton-governing-genai-higher-ed-delphi-2026|Crompton et al. (2026)]] en 22 países convergió en ocho áreas de gobernanza —con la integridad académica como ancla central— más un mecanismo de revisión de seis partes (comité permanente de IAG, revisiones programadas de políticas, desarrollo profesional, comunicación, evaluación de impacto, seguimiento) para mantener las políticas al día.
 
+**La fuerza jurídica eleva la cobertura, no el núcleo colegiado.** [[jiang-faculty-development-japan-2027|Jiang, Wang y Taguchi (2026)]] trazan el mandato estatutario de Japón de 2007 y 2008 para el desarrollo del profesorado en cursos de grado y posgrado. Los centros dedicados llegaron al 87,5% de las universidades en 2016, y la participación plena subió del 12,9% de las universidades en 2015 al 32,7% en 2023, mientras que los talleres de aprendizaje activo cayeron del 42% al 33% y la observación entre pares del 57% al 53%. Como el estatuto obligaba a las instituciones y no a las personas, el cumplimiento podía demostrarse mediante una participación contable sin construir los formatos colegiados que portan la sustancia del desarrollo.
+
 **La preparación nacional en IA no predice la solidez de la política institucional.** [[adarkwah-genai-unesco-policy-2026|Adarkwah et al. (2026)]] puntuaron 26 universidades de diez países con AIPI alto frente al marco de ocho componentes de la UNESCO sobre IAG y encontraron que las instituciones nórdicas y neozelandesas lo cubrían de forma más completa que pares mejor clasificados, mientras que la inclusión, la equidad y la sostenibilidad eran los elementos más desatendidos.
 
 **Los documentos de orientación superan en número a las políticas vinculantes.** Un censo de todos los programas acreditados de un campo profesional muestra que la brecha de madurez es tanto de forma como de momento. [[institutional-ai-policy-health-informatics-2026|Eldredge et al. (2026)]] recogieron documentos de política y orientación sobre IA de los 48 programas de máster en informática de la salud y gestión de la información sanitaria acreditados por CAHIIM en Estados Unidos y encontraron que 40 (83%) tenían al menos un documento público relacionado con la IA mientras que 8 no tenían ninguno, pero que los documentos eran mayoritariamente orientaciones y no reglas exigibles: 21 directrices (53%) frente a 7 políticas formales (18%). Su contenido se centraba en la integridad académica y el uso aceptable, con los conceptos de privacidad, propiedad intelectual y regulación (HIPAA, FERPA, cumplimiento en investigación) apareciendo mucho menos, y el modelado de temas devolvió el mismo énfasis en la conducta del estudiantado. Ni el tipo de documento ni el público destinatario variaron según la modalidad de impartición (P exacta de Fisher = 0,85 y P = 0,71). Los autores lo leen como evidencia de que la política de los programas académicos es una actividad distinta del diseño curricular y del desarrollo de competencias de la fuerza laboral, y sostienen que los organismos acreditadores podrían reducir la variación resultante proporcionando marcos de política de IA que integren la integridad académica, la ética de datos y el acceso equitativo.
@@ -134,6 +136,8 @@ La política y la gobernanza están estrechamente relacionadas pero son distinta
 El liderazgo sénior en IA es escaso en relación con la ambición estratégica. Una revisión de alcance de 19 fuentes encontró que solo el 7% de las instituciones había creado roles de liderazgo sénior en IA aunque el 49% trataba la IA como una prioridad estratégica, y la mayoría de los estudios incluidos eran conceptuales o transversales, por lo que no pudo establecerse ningún efecto causal de la gobernanza anticipatoria ([[baroudi-anticipatory-governance-ai-higher-ed-2026|Baroudi (2026)]]).
 
 La prueba práctica que las separa: una política puede leerse sobre el papel, pero la gobernanza se observa en si la regla se implementa, se aplica y se adapta. Por eso la [[governance]] extiende la [[regulation]] y la política hacia el interior de las instituciones, y por eso las elecciones de formato de evaluación ([[summative-assessment]]) cuentan como decisiones de *política* que solo se vuelven efectivas mediante estructuras de *gobernanza* como los consejos de revisión, los marcos de declaración y las vías de apelación.
+
+**Lo que el sector pide a los reguladores.** En el estudio del OfS y Advance HE sobre 127 instituciones, las personas participantes se opusieron en gran medida a nuevas condiciones de registro en materia de IA, argumentando que más regulación restringiría la innovación y ralentizaría la respuesta institucional. Lo que pidieron en su lugar fue claridad sobre cómo se aplican a la IA las condiciones existentes de calidad (B) y gobernanza (E), con ejemplos trabajados de casos concretos. El personal también creía que la legislación de protección de los consumidores les impedía cambiar los métodos de evaluación en respuesta a la IA, algo que la orientación de la Competition and Markets Authority no dice: unos términos justos y transparentes pueden permitir los cambios necesarios ([[making-ai-work-for-students-ofs-2026|OfS y Advance HE (2026)]]).
 
 **La política de aula como frontera interpretativa de la gobernanza.** La maquinaria de la gobernanza no se detiene en el documento institucional; el profesorado que lo lee y lo adapta es el último eslabón de la cadena, y [[nash-preservice-teachers-classroom-ai-policies-2026|Nash y Burriss (2026)]] muestran cómo es ese eslabón en la práctica. Su profesorado en [[teacher-education|formación inicial]] esperaba trabajar en distritos con políticas de IA y aun así tuvo que redactar reglas específicas de aula para su propio estudiantado —una habilidad de adaptación esencial—, y los autores sostienen que el profesorado puede negarse a adoptar la IA en tareas concretas de lectura y escritura sin ignorarla, con una negativa fundamentada distinguible de un rechazo acrítico. Mantener viable esa distinción es en sí mismo una tarea de gobernanza: los distritos y los programas de formación necesitan las orientaciones, el [[educational-development|desarrollo profesional]] y la infraestructura de política que permitan al profesorado negarse a usos concretos sin ser tildado de quedarse atrás.
 
@@ -227,3 +231,5 @@ Quienes hacen política pueden emparejar el despliegue con una evaluación dise�
 - [[hashem-cheating-habitus-ai-governance-discourse-2026]] — Los textos de la UNESCO y la OCDE comparten un vocabulario de gobernanza y ninguna definición operativa; veintitrés jurisdicciones convergen sin ella
 - [[pandey-davies-he-governance-administrative-ai-2026]] — La contratación fija el entorno de datos antes que la pedagogía
 - [[chan-ai-policy-gap-2026]] — 56 documentos de 46 financiadores: una capa de política de financiación de la investigación con 12 instrumentos específicos de financiación (Chan 2026)
+- [[jiang-faculty-development-japan-2027]] — El mandato estatutario japonés de desarrollo del profesorado: la cobertura subió mientras los talleres, la observación entre pares y la revisión por pares se mantenían planos o caían (Jiang, Wang y Taguchi 2026)
+- [[making-ai-work-for-students-ofs-2026]] — OfS y Advance HE (2026): 244 miembros del personal y 91 estudiantes en 127 instituciones sobre detección, diseño de evaluación, alfabetización en IA y estrategia

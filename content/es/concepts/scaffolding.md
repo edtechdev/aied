@@ -1,7 +1,7 @@
 ---
 title: Andamiaje
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-15T10:14:32-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 connected_resources: [onmicro-ai]
 connected_faqs: [designing-ai-into-learning, developing-ai-tutor, asynchronous-online-courses-ai]
 type: concept
@@ -11,7 +11,7 @@ technology: [intelligent-tutoring]
 assessment: [feedback]
 confidence: high
 translation_of: concepts/scaffolding
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:34:25-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -104,6 +104,7 @@ La secuenciación es la otra palanca del andamiaje: [[critical-thinking-genai-sc
 ## Andamiaje guiado por reglas frente a andamiaje ad hoc
 
 - **Andamiaje guiado por reglas frente a andamiaje ad hoc.** Looi, Liu y Sun (2026) formalizan una distinción central para el diseño del andamiaje: el **andamiaje guiado por reglas**, en el que la tutoría se rige por una arquitectura auditable de tres capas (diagnóstico → selección de intención → generación de respuesta restringida), frente al **andamiaje ad hoc**, donde los movimientos de ayuda son difíciles de auditar y de replicar. Su estudio de matemáticas en primaria mostró que el andamiaje guiado por reglas mejora la consistencia interaccional, reduce el dar respuestas prematuras y el cierre temprano, y sostiene la [[student-engagement|implicación]] cognitiva —una prueba de que la explicitación y la auditabilidad de los movimientos de andamiaje importan tanto para la consistencia como para el aprendizaje en dominios procedimentales—.
+- **Una escalera fija puede vivir en el prompt de sistema.** Cruz y sus colegas (2026) codificaron el desvanecimiento directamente en un prompt escrito por el docente: el tutor de arquitectura de computadores forzaba turnos alternos, retenía las respuestas directas y retiraba el apoyo a medida que avanzaba la sesión, sin ningún modelo del estudiantado que decidiera cuándo ([[cruz-structured-ai-tutoring-computer-architecture-2026|Cruz et al. (2026)]]). El acuerdo de cuarenta estudiantes en que fomentaba la resolución independiente de problemas aumentó a lo largo del semestre (pendiente 0,679, p = 0,050), aunque las respuestas cayeron de 33 a 8 y no existió grupo de comparación.
 - **El andamiaje como vía restringida entre el rodeo y la descarga cognitiva.** El modelo de interacción entre [[student-ai-interaction|neuroplasticidad e IA]] nombra el andamiaje como la tercera de las tres vías para la ayuda de los LLM, junto con el rodeo directo y la descarga cognitiva, y lo define por si el modelo preserva el procesamiento con esfuerzo que la tarea está llamada a entrenar ([[naim-bypass-offload-scaffold-llm-learning-2026]]). La evidencia de calibración del modelo es un experimento natural en la restricción del andamiaje: el acceso sin restricciones a GPT-4 en un estudio con cerca de 1.000 estudiantes de secundaria de [[math-education|matemáticas]] produjo una ganancia de práctica del 48 % pero un déficit del 17 % en el examen sin asistencia, mientras que GPT Tutor con restricción de pistas produjo una ganancia de práctica del 127 % con el déficit en el examen prácticamente eliminado. La lección de diseño coincide con la distinción entre guiado por reglas y ad hoc de arriba a un grano más grueso: es la restricción sobre lo que se permite suministrar al tutor, y no la presencia de un tutor, lo que determina si el andamiaje se retira con éxito.
 
 El momento puede ser la regla. Rotter y sus colegas entrenaron un agente de aprendizaje por refuerzo para decidir, pregunta a pregunta, si el estudiantado podía abrir un LLM sin restricciones, y lo probaron frente al acceso siempre activo y al nunca activo con 105 estudiantes universitarios. El acceso cronometrado obtuvo 5,11 en la prueba posterior sin ayuda frente a 4,03 del acceso siempre activo (t(71) = 2,51, p = 0,014, d = 0,59) e igualó la restricción total con 5,25, mientras que la precisión de la autoevaluación subió a 5,95 frente a 5,17 (p = 0,023). El mecanismo fue el racionamiento y no el entrenamiento: el estudiantado en la condición cronometrada hizo 2,46 solicitudes de media frente a 11,25, el 43,2% nunca usó el modelo y la conciencia metacognitiva declarada no se movió. El diseño también expuso un resquicio contra el que conviene diseñar: una persona participante consideró responder mal a propósito para desbloquear la IA antes ([[rotter-access-timing-scaffolding-2026|Rotter et al., 2026]]).
@@ -178,3 +179,4 @@ El andamiaje puede residir en la tarea y no en la herramienta. En una sección d
 - [[etq-ai-conversational-teacher-training-2026]] — Diagnóstico conversacional de IA para las concepciones erróneas docentes mediante diálogo fundamentado en la evidencia (Miranda y Calvani 2026)
 - [[englmeier-ai-scaffolding-self-paced-learning-2025]] — Capas de andamiaje de contenido y temporal en un curso a ritmo propio, con tasas de inicio tardío y de fracaso según el momento de estudio
 - [[assistance-dilemma-rl-tutoring-2026]] — El dilema de la asistencia: entrenar un tutor de RL multiturno cuyo horizonte de recompensa termina con el problema entrena la desaparición de la retirada (Macina, Kapur y Sachan 2026)
+- [[cruz-structured-ai-tutoring-computer-architecture-2026]] — Una escalera de desvanecimiento fija escrita en un prompt de sistema redactado por el docente

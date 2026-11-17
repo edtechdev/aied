@@ -1,7 +1,7 @@
 ---
 title: Medidas de autoinforme
 created: "2026-09-28T19:11:16-04:00"
-updated: "2026-11-15T10:14:32-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [self-efficacy, student-engagement]
@@ -14,7 +14,7 @@ connected_faqs: [evaluating-ai-interventions-methods, does-ai-help-students-lear
 confidence: high
 methods: [quantitative-research, research-methods-aied, qualitative-research]
 translation_of: concepts/self-report-measures
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T09:58:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -131,6 +131,8 @@ Cuatro propiedades separan una encuesta que puede respaldar una afirmación de o
 
 Una encuesta reciente al profesorado muestra el fallo en su forma extrema. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] administraron 300 ítems a 315 docentes universitarios, informaron α = 0.997 para la escala total y no realizaron ningún análisis factorial, y aun así un modelo de Naive Bayes clasificó correctamente a 314 de los 315 encuestados (exactitud 0.9968) en bandas de competencia baja, media y alta. Un instrumento cuyos ítems se comportan como casi duplicados puede predecirse casi a la perfección a partir de un puñado de variables demográficas e institucionales porque apenas aporta información independiente: los autores encontraron que la afiliación era el mayor contribuyente global en su análisis SHAP, y los puntos de corte que definen las tres bandas no se conservaron.
 
+La redacción pre-post puede fabricar el cambio que informa. En un piloto de dos cohortes con un paciente simulado por IA, [[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]] redactaron los ítems previos al encuentro como expectativas y los posteriores como experiencia, de modo que las puntuaciones de diferencia comparaban una expectativa con un recuerdo. Su BSLS-P provisional arrojó alfas de subescala de −0,39 a 0,87 entre administraciones, y conjuntos de ítems que no se movían juntos seguían sosteniendo una afirmación sobre seguridad psicológica.
+
 ## Muestreo, respuesta y no respuesta
 
 Como las encuestas son baratas de administrar, los problemas de muestreo suelen ser el punto donde falla la afirmación de generalizabilidad. Los estudios los informan de forma explícita e instructiva:
@@ -162,6 +164,7 @@ Las respuestas constructivas de la investigación son consistentes, y ninguna de
 - Pregunte de qué tipo de afirmación se trata. Las percepciones son admisibles; la conducta se aproxima; el aprendizaje y la competencia no son alcanzables por esta vía.
 - Compruebe quién respondió y quién no. La tasa de respuesta, el marco muestral y la autoselección deciden qué describen los porcentajes: un estudio del estudiantado de una institución describe ese contexto, no al estudiantado en general.
 - Compruebe el instrumento. ¿Se validó para este constructo y esta población, y, si se comparan grupos, se probó la invarianza?
+- Compruebe la distribución antes de confiar en la prueba. Los dos factores de una escala validada de autoeficacia en programación se movieron en pruebas de signos (p = 0,0074 y p = 0,012) mientras la mediana del factor 1 se mantuvo en 5,87 del pretest al postest, y todos los factores presentaban asimetría negativa ([[jarvie-jiving-llms-programming-self-efficacy-2026|Jarvie-Eggart et al. (2026)]]).
 - Esté atento a los diseños de fuente única. Si los predictores y los resultados proceden del mismo cuestionario y en un mismo momento, las asociaciones son compatibles tanto con la varianza por método común como con la teoría propuesta.
 - Trate la satisfacción como una señal de diseño, no como un resultado de aprendizaje. Una alta satisfacción con un aprendizaje no comprobado es la configuración estándar en la evaluación de herramientas de IA, y la evidencia muestra que ambas cosas divergen.
 - Prefiera los estudios que muestran su trabajo: tasas de respuesta declaradas, limitaciones declaradas y al menos una fuente de evidencia que no proceda de preguntar.
@@ -226,3 +229,5 @@ Las respuestas constructivas de la investigación son consistentes, y ninguna de
 - [[huang-genai-academic-information-resources-2026]] — Registros de biblioteca y actitudes de encuesta apuntando en direcciones distintas
 - [[onodipe-enhance-not-replace-ai-classroom-2026]] — El aprendizaje y la implicación percibidos subieron en todas las medidas de encuesta mientras las puntuaciones de examen no se movieron
 - [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — Una escala docente de 300 ítems con α = 0.997 predicha con un 99.68% de exactitud sin ningún análisis factorial
+- [[jarvie-jiving-llms-programming-self-efficacy-2026]] — Pruebas de signos significativas con una mediana sin cambios en una escala validada
+- [[tischkau-ai-simulated-patient-formats-2026]] — Una escala pre-post provisional que compara expectativas con recuerdos, con alfas de subescala de −0,39 a 0,87 (Tischkau et al. 2026)

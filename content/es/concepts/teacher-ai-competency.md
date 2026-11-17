@@ -1,7 +1,7 @@
 ---
 title: "Competencia en IA del profesorado"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-11-15T10:14:13-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T08:24:32-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -76,7 +76,6 @@ La investigación converge en varias dimensiones interconectadas:
 
 - En una encuesta de cinco países con 1.405 docentes de K-12, la preparación en IA predijo creencias positivas sobre el valor instruccional de la IA generativa (B = 0,59, R² = 0,50) pero predijo una *mayor* preocupación por la [[creativity|creatividad]] (B = 0,18), y esos mismos predictores explicaron solo el 7% y el 6% de la preocupación: construir preparación por sí solo deja la preocupación intacta ([[k12-teachers-genai-beliefs-five-countries-2026|Xiu et al. (2026)]]).
 
-
 La preparación debería ordenarse y medirse en consecuencia: el modelo Capacidad–Decisión sitúa la capacidad demostrada de IA antes que la actitud y la confianza y propone indicadores de desempeño en lugar de autoinforme únicamente —tareas de diseño de clases, tareas de evaluación de prompts sembradas con errores, juicios de validez de contenido y rúbricas de artefactos de aula ([[capability-decision-model-teacher-readiness-2026|Mnguni (2026)]]).
 
 **La preparación emocional y moral es una dimensión distinta.** [[vassallo-ai-guilt-complex-faculty-2026|Vassallo (2026)]] encuestó al personal académico de una [[higher-ed|universidad]] maltesa (109 respuestas) y construyó un Índice de Culpa por IA (α = 0,88) a partir de cuatro ítems de emoción moral, y encontró que la culpa *anticipatoria* pesaba más que el remordimiento experimentado después del uso: la afirmación más respaldada era la preocupación de que usar IA menoscabe la propia credibilidad (34,9% de acuerdo), seguida de sentirse como si se hiciera [[academic-integrity|trampa]] al usarla (25,7%), mientras que el remordimiento posterior al uso solo alcanzó el 9,2%. Los hallazgos que importan para los marcos de competencia son que quienes no la usaban declararon *más* culpa que quienes la usaban (M = 3,25 frente a M = 2,32) y que la culpa descendía a medida que aumentaba la seguridad profesional: el personal académico al inicio de su carrera declaró la más alta (M = 2,71) y el personal sénior la más baja (M = 2,03). La preparación emocional no queda, por tanto, recogida por las medidas de habilidad o de confianza, y el artículo sostiene que los marcos de competencia deberían tratar la culpa y la preocupación identitaria como respuestas transitorias normales y no como defectos que corregir.
@@ -88,6 +87,8 @@ Una versión más fuerte de ese reencuadre sostiene que la IA generativa es un c
 **Dos dimensiones son compromisos, no puntuaciones.** [[feng-ai-literacy-psychological-dimensions-2026|Feng y Carolus (2026)]] sintetizan 58 estudios de educación escolar y sitúan el *conocimiento contextual* y el *crecimiento profesional continuo* entre las seis dimensiones de la alfabetización en IA del profesorado, junto al conocimiento y las habilidades basados en TPACK, la ética, la dimensión psicológica y una específica de la IA generativa. Trece de los artículos revisados construyen su conceptualización docente sobre [[tpack|TPACK]]. Leer el crecimiento como dimensión y no como resultado cambia lo que un marco de competencia tiene que medir: la trayectoria de un docente y las restricciones de su escuela pasan a formar parte de la competencia, y no son condiciones a su alrededor.
 
 **Construir competencia no responde a la vía del desgaste.** En la misma encuesta a 436 docentes universitarios de diseño, [[ding-genai-colleague-teacher-depletion-2026|Ding et al. (2026)]] encontraron que el uso de IA generativa elevaba a la vez la [[self-efficacy|autoeficacia]] docente (β = 0,322) y la ansiedad ante la IA (β = 0,268), y la ansiedad predecía menos enseñanza innovadora y más retirada del trabajo (β = −0,152 y β = 0,264). Un programa de desarrollo profesional que solo construye habilidad deja intacta la segunda vía: los moderadores eran el apoyo organizativo y la ruptura del contrato psicológico, no la competencia.
+
+Los marcos especifican lo que el profesorado debería saber y callan sobre las condiciones en las que ese conocimiento se ejerce. [[ji-judgement-space-dialogic-inquiry-2027|Ji y Mercer (2026)]] leen el marco docente de la UNESCO, la brújula de la enseñanza de la OCDE, DigCompEdu y la revisión BEME como un mismo género de lista, y señalan que la insistencia de la OCDE en que la IA no debe sustituir el juicio humano llega sin una explicación de qué haría verdadera esa afirmación. Los modelos de competencia que añaden otra dimensión, por tanto, no atienden a la brecha que el artículo nombra.
 
 ## La brecha de competencia
 
@@ -141,7 +142,6 @@ La configuración de creencias es un segundo eje de perfilado: entre 40.680 doce
 - **Apoyo institucional:** el [[educational-development|desarrollo profesional]] debe ir acompañado de infraestructura institucional ([[educational-policy-ai|política]], [[institutional-change-framework-ai|cambio institucional]]) para una adopción sostenible.
 - **Las herramientas de autoría no garantizan la fidelidad pedagógica.** [[teachers-configure-educational-chatbots-2026|Riahi et al. (2026)]] estudiaron a 27 docentes de secundaria que configuraban [[conversational-ai|chatbots]] educativos en talleres de desarrollo profesional, y analizaron grupos focales junto con registros de configuración e interacción. El profesorado trataba el chatbot como un andamiaje instruccional acotado por reglas definidas por él mismo, pero la alineación basada en registros entre intención y conducta era más fuerte para la capacidad de respuesta (88,9%) y la persona (81,5%) que para las reglas (70,4%) y el propósito (59,3%). Los controles configurables por sí solos no trasladan la intención pedagógica a la conducta, así que expresar, probar y refinar la pedagogía de un chatbot es en sí mismo una competencia que las herramientas de autoría tienen que apoyar.
 
-
 Un contraejemplo basado en el diseño trata la competencia como situacional y no como un peldaño de una escalera. [[adaptive-ai-model-teacher-educators-2025|El estudio basado en el diseño de Eyal (2025) con 22 formadores de docentes de educación superior]] hizo que las personas participantes examinaran cinco marcos de evaluación publicados y codiseñaran una alternativa organizada en torno a tres ejes interrelacionados: la adecuación al contexto (infraestructura, factores socioculturales, necesidades locales, etapa de desarrollo), las necesidades profesionales (disciplina, pedagogía, liderazgo, apoyo) y el desarrollo dinámico. El modelo rechaza los niveles de competencia fijos y permite una progresión no lineal, y se acompaña de un cuestionario de autoevaluación reflexiva de 20 ítems valorado de 1 a 5. Su validación es solo [[qualitative-research|cualitativa]], sin pruebas [[quantitative-research|cuantitativas]] de fiabilidad, por lo que se sostiene como contribución de diseño y no como instrumento validado.
 
 - **Estimación metaanalítica.** [[teacher-ai-literacy-professional-development-meta-2026|Guo et al. (2026)]] agruparon 212 tamaños del efecto de 34 estudios y estiman la formación continua en alfabetización en IA del profesorado en g = 0,76 (IC del 95% [0,50, 1,02]), más fuerte para las habilidades (g = 0,91) y más débil para actitudes y valores (g = 0,61); corregir la aparente selección de publicaciones rebaja la estimación a alrededor de g = 0,49.
@@ -159,6 +159,8 @@ La formación sin tiempo en el horario no llega al estudiantado. La revisión de
 Un estudio psicométrico desarrolló la Escala de Alfabetización en IA del Profesorado (TAILS) para medir la alfabetización en IA específicamente en la [[teacher-education|formación de profesorado de idiomas]], operacionalizando las seis dimensiones del marco ED-AI. El instrumento cubre una carencia de evaluaciones escritas para estudiantes o usuarios generales y no para el profesorado.
 
 El panorama de instrumentos se ha revisado desde entonces. [[assessing-teachers-ai-literacy-measurement-tools-2026|La revisión sistemática de Zainal, Mohd Matore y Maat (2026) sobre instrumentos de medición de la alfabetización en IA del profesorado]] compara qué miden realmente las escalas disponibles y dónde divergen, que es lo primero que hay que leer antes de adoptar una.
+
+La medición asume que la persona individual es la unidad correcta, y la distribución de roles debilita ese supuesto. [[chen-future-faculty-development-ai-2027|Chen et al. (2026)]] distribuyen cinco de sus siete roles docentes entre un equipo de enseñanza y mantienen universal la competencia técnica y ética de base, de modo que una puntuación individual describe la aportación de una persona y no la capacidad con la que el curso funciona realmente. Un programa que solo mide a individuos leerá un equipo bien dotado como un conjunto de docentes parciales.
 
 ## La competencia en IA del profesorado y la transformación del rol docente
 
@@ -272,3 +274,5 @@ Quienes dirigen departamentos pueden evaluar la competencia por demostración. L
 - [[white-scandinavian-teachers-genai-attitudes-2026]] — Actitudes del profesorado escandinavo hacia la inteligencia artificial generativa: exploración de asociaciones
 - [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — La banda de competencia autoevaluada del profesorado se predice en gran medida por la afiliación institucional y no por atributos individuales
 - [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — La adopción se juzga disciplina a disciplina, con el razonamiento del estudiantado como principal preocupación
+- [[chen-future-faculty-development-ai-2027]] — Competencia distribuida entre un equipo docente, con la capacidad técnica y ética de base mantenida de forma universal
+- [[ji-judgement-space-dialogic-inquiry-2027]] — Los marcos enumeran competencias y dejan sin teorizar las condiciones del juicio

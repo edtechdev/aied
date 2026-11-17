@@ -1,9 +1,9 @@
 ---
 title: Infraestructura institucional de IA
 created: "2026-11-12T22:30:00-05:00"
-updated: "2026-11-15T10:11:29-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
-connected_resources: [mindrouter, amplify-genai]
+connected_resources: [mindrouter, amplify-genai, canvas-mcp]
 technology: [llm, generative-ai, open-source, edtech-platform]
 ethics: [privacy]
 audience: [administrators, educational technology developers, faculty developers]
@@ -12,7 +12,7 @@ discipline: [information technology]
 confidence: high
 contributors: [editor]
 translation_of: concepts/institutional-ai-infrastructure
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T20:30:23-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -59,6 +59,8 @@ El campo describe seis formas, no dos. Difieren en quién posee los datos, quié
 **IA dentro de herramientas que ya ejecuta.** Un tipo de pregunta de Moodle, el socio de IA de una plataforma de debate, una herramienta de retroalimentación de ensayos. El esfuerzo organizativo es pequeño y el cambio llega curso a curso, que es también su límite: nada en el centro aprende de ello.
 
 Estas formas se anidan. Una pasarela puede situarse delante de una plataforma alojada; una plataforma alojada puede llamar a un modelo local; una herramienta gratuita puede ser el piloto que no justifica nada de lo anterior. La pregunta útil no es qué forma es mejor, sino qué decisión toma cada forma silenciosamente por usted.
+
+**El valor por defecto real del sector es una licencia en el inquilino de un proveedor.** No todas las instituciones toman la decisión de forma deliberada. [[making-ai-work-for-students-ofs-2026|OfS y Advance HE (2026)]], al estudiar 127 instituciones, encontraron que la mayoría proporciona herramientas a través de licencias existentes de Microsoft 365, con Copilot Chat como la más común, valorada porque su entorno cerrado mantiene los datos institucionales dentro del perímetro de cumplimiento. El personal de instituciones sin licencias recurría a herramientas gratuitas más potentes, a veces con datos del estudiantado, y las personas participantes advirtieron que el nivel gratuito o barato de hoy se convierte en la subida de precio no presupuestada de mañana.
 
 ## La capa de pasarela
 
@@ -162,3 +164,4 @@ Quienes dirigen departamentos pueden mirar más allá de la ventana de chat. La 
 - [[mcnamara-aimcai-continuous-assessment-infrastructure-2026]] — AIM-CAI: seis capas para conectar la evidencia del aprendizaje
 - [[on-premises-rag-tutoring-business-education-2026]] — CourseChat: un modelo de 8B mantenido frente a candidatos mayores que no superaron un umbral de latencia
 - [[lata-ferpa-compliant-local-llm-autograder]] — LaTA: un modelo de razonamiento local que elimina la cuestión de FERPA en lugar de gestionarla
+- [[making-ai-work-for-students-ofs-2026]] — OfS y Advance HE (2026): 244 miembros del personal y 91 estudiantes en 127 instituciones sobre detección, diseño de evaluación, alfabetización en IA y estrategia

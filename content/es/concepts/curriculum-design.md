@@ -1,7 +1,7 @@
 ---
 title: Diseño curricular
 created: "2026-09-25T04:31:16-04:00"
-updated: "2026-11-15T10:10:18-05:00"
+updated: "2026-11-17T16:10:00-05:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -13,7 +13,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks, learning-commons]
 translation_of: concepts/curriculum-design
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -50,6 +50,8 @@ Al revisar el cambio como algo sistémico y no aditivo, [[rewriting-curriculum-g
 
 La ponderación cambia lo que reporta un análisis curricular: [[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath et al. (2026)]] hicieron que GPT-o3-mini distribuyera el 100% entre siete habilidades empresariales para cada una de 48 evaluaciones, alcanzando un alfa de Krippendorff de 0,81 frente a las ponderaciones de personas expertas, pero la concordancia se volvió negativa en las habilidades que las descripciones nunca declaran explícitamente (-0,19).
 
+Una auditoría puede ser una etapa propia y no la primera mitad de un rediseño. [[rodafinos-llm-curriculum-audit-2026|Rodafinos (2026)]] secuencia la revisión del programa como cuatro prompts de auditoría que caben en una sola reunión —una comprobación de salud del currículo, una prueba de ajuste a la misión, un mapa de cursos por competencias y una pasada de etiquetado de resultados— y después el mapeo de competencias a partir de ofertas de empleo y estándares disciplinares, con la revisión reservada como tercera etapa opcional. Ninguna competencia se convierte en prioridad central sin al menos dos señales de respaldo, lo que impide que un escaneo del mercado laboral termine fijando el currículo. La capa de gobernanza es lo que hace funcionar la separación: un Paquete de Evidencia Curricular que se mantiene constante entre ejecuciones, un registro de prompts que anota versión, operador y modelo, comprobaciones de ejecuciones repetidas y un registro de decisiones vinculado al órgano aprobador, de modo que la salida de un [[llm|LLM]] entra en la deliberación del comité como un artefacto con marca de tiempo y no como un hallazgo.
+
 **La estructura modular sobrevive al contenido actual.** Un patrón se repite allí donde el campo avanza más rápido que el ciclo de revisión: un núcleo estable de [[ai-literacy|alfabetización en IA]], evaluación crítica, detección de sesgos y [[ethics|ética]], con contenidos sobre herramientas especializadas y disponibles localmente adjuntos como módulos y revisados cada seis o doce meses ([[bursic-ai-residency-education-curriculum-2026|Bursic et al. (2026)]]). La [[medical-education|educación médica]] de posgrado es el caso declarado, pero el principio se generaliza: el programa se compromete con competencias que sobreviven a la rotación de herramientas y programa la capa específica de cada herramienta para su sustitución.
 
 **El contenido ético necesita un marco para afrontarlo, no solo concienciación.** Entre 584 estudiantes universitarios sin currículo de IA, la competencia elevó la conciencia ética (β = 0,644), que a su vez elevó la ansiedad (β = 0,439); nombrar los problemas sin enseñar cómo se gobiernan convierte la conciencia en el factor de estrés ([[mu-ai-competence-ethical-awareness-anxiety-2026|Mu et al. (2026)]]).
@@ -61,7 +63,6 @@ LearnAI muestra cómo se ve una versión integrada: una capa de amplia exposici�
 La integración en la práctica va por detrás de los marcos. [[critical-media-literacy-education-2026|Santos-Albardía et al. (2025)]] encontraron que solo el 13,8% del estudiantado encuestado de educación y periodismo decía que sus asignaturas abordaban el análisis crítico de medios, frente al 97,8% que lo valoraba como importante, y sus entrevistas a expertos situaron la brecha en una [[teacher-education|formación docente]] que prioriza las habilidades técnicas e instruccionales sobre la educación mediática.
 
 Una revisión PRISMA de 39 estudios STEAM (2016–2025) encontró un desequilibrio paralelo en los elementos de alfabetización en IA: las implementaciones desarrollaban alfabetizaciones técnicas —conceptos fundamentales de IA, [[computational-thinking|pensamiento computacional]], [[statistics-and-data-science-education|alfabetización de datos]]— mientras dejaban poco desarrolladas la conciencia ética, la imaginación creativa y el crear, gestionar y diseñar con IA, por lo que auditar cada unidad frente a ellas es la respuesta práctica ([[niri-steam-ai-literacy-review-2026|Niri et al., 2026]]).
-
 
 [[student-experience|La voz del estudiantado]] es otra entrada de diseño: el 84% de 166 estudiantes de último curso de empresariales quería que se enseñara IA generativa en sus asignaturas y el 85% la veía esencial para la empleabilidad, mientras que solo el 7% había aprendido sobre ella en su universidad ([[rook-plumb-genai-curricula-student-insights-2026|Rook y Plumb (2026)]]).
 
@@ -161,3 +162,4 @@ El diseño curricular conecta directamente con el [[learning-design|diseño del 
 - [[computing-assessment-genai-workshop-report-2026]] — La IA puede hacer tus tareas. ¿Y ahora qué? Informe de un taller en línea sobre la evaluación en computación en la era de la IA generativa
 - [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] - los marcos de competencia convergen en cinco dimensiones sin un vocabulario compartido ni una homologación
 - [[bursic-ai-residency-education-curriculum-2026]] — Barreras para integrar la IA en los currículos de residencia: entrevistas cualitativas con doce líderes médicos
+- [[rodafinos-llm-curriculum-audit-2026]] — Auditoría curricular asistida por modelos de lenguaje grandes en psicología: un método basado en prompts

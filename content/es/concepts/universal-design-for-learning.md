@@ -1,7 +1,7 @@
 ---
 title: Diseño universal para el aprendizaje
 created: "2026-09-28T21:16:52-04:00"
-updated: "2026-11-15T10:24:18-05:00"
+updated: "2026-11-17T16:55:00-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -79,6 +79,8 @@ El DUA convierte «arreglar al estudiante» en «arreglar el diseño». Para el 
 - Ofrezca la posibilidad de elegir el producto de la evaluación (ensayo, presentación, vídeo, diagrama, código) alineado con el mismo resultado de aprendizaje.
 - *Ejemplo:* un proyecto permite entregar un informe escrito, un vídeo explicativo asistido por IA o una demostración en vivo, con [[scaffolding|andamiajes]] de IA que apoyan cada modo. En el diseño de la [[assessment|evaluación]], esto es paralelo a la equidad representacional de la [[authentic-assessment|evaluación auténtica]].
 
+La elección solo incluye cuando las opciones parecen igual de creíbles. El estudiantado de un estudio de una facultad de ciencias valoró poder elegir entre un vídeo y un ensayo, pero señaló que sus pares temían que el ensayo recibiera una nota peor, así que unos criterios compartidos y una lógica de calificación explicada son lo que convierte un menú de formatos en inclusión y no en una apuesta estratégica ([[mcdonald-inclusive-assessment-genai-2026|McDonald et al., 2026]]).
+
 **Diseñar para la alfabetización en IA y la agencia.**
 
 - Enseñe al estudiantado cómo y cuándo usar la IA, y cree puntos de control que mantengan la responsabilidad en quien aprende (y no en la herramienta): véanse [[ai-literacy|alfabetización en IA]] y [[reducing-ai-misuse|reducir el mal uso de la IA]].
@@ -122,6 +124,7 @@ El DUA convierte «arreglar al estudiante» en «arreglar el diseño». Para el 
 
 ## Artículos conectados
 - [[alenezi-ai-universal-design-learning-kuwait-2026]] — Inteligencia artificial y diseño universal para el aprendizaje en las instituciones de educación superior de Kuwait: hacia un marco habilitado por IA para la educación inclusiva
+- [[mcdonald-inclusive-assessment-genai-2026]] — Diseño inclusivo de la evaluación en la era de la IA generativa: avanzar en pedagogía y práctica
 - [[seung-basham-cognitive-offloading-swld-2026]] — Desplazamiento cognitivo con IA generativa en estudiantado con dificultades de aprendizaje
 - [[authentic-products-authenticated-processes-2026]] — De productos auténticos a procesos autenticados
 - [[tactile-statistical-graphs-accessibility]] — Gráficos estadísticos táctiles para la accesibilidad

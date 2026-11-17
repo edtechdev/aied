@@ -1,7 +1,7 @@
 ---
 title: Validez de la evaluación
 created: "2026-09-25T04:31:09-04:00"
-updated: "2026-11-15T10:16:20-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, reporting-interpreting-aied-research, asynchronous-online-courses-ai, checking-whether-educational-ai-works]
 connected_resources: [vfwa]
 type: concept
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, equity-in-ai-education]
 confidence: high
 methods: [rct]
 translation_of: concepts/assessment-validity
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-17T07:20:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -89,6 +89,10 @@ Una propuesta conceptual plantea un límite de validez que se aplica a toda eval
 - **Realinear el triángulo de la evaluación en lugar de parchear un vértice.** [[koretsky-genai-stem-assessment-2026|Koretsky et al. (2026)]] enmarcan el problema de la [[generative-ai|IA generativa]] a través del triángulo de la evaluación —cognición (lo que se evalúa), observación (cómo se obtiene la evidencia de aprendizaje) e interpretación (la inferencia que se extrae)— y sostienen que los tres vértices deben realinearse juntos, ya que rediseñar tareas sin reparar la interpretación deja la inferencia sin respaldo. Su [[meta-analysis-systematic-review|revisión de alcance]] convierte además la fidelidad de los materiales de evaluación generados por IA en una propiedad de validez en sí misma, catalogando dimensiones de contenido, lingüísticas, cognitivas, conductuales, estructurales y pedagógicas y exigiendo una evaluación con supervisión humana antes de que tales tareas sustenten una evaluación.
 - **Los ítems generados pueden ajustar sin medir.** [[baghaei-generative-operationalism-2026|Baghaei y Eryilmaz (2026)]] nombran el *operacionalismo generativo* —entra la etiqueta del constructo, salen los ítems y el ajuste posterior se lee como garantía— y muestran cómo la redundancia semántica y la subrepresentación del constructo producen psicometría deseable sin que el atributo impulse las respuestas.
 
+Un criterio de éxito puede fallar la validez antes de que se puntúe ningún instrumento. [[williams-coding-curriculum-critique-2026|Williams y Prishtina (2026)]] revisan el relato de Ch'ng (2023) en cinco fases sobre la IA en el [[learning-design|diseño instruccional]], que trataba el retorno de la inversión como medida de una integración exitosa, y sostienen que una cifra de coste no puede evidenciar que la experiencia de aprendizaje mejorara. Su objeción se refiere a lo que el estudio podía concluir y no a lo que encontró: la disponibilidad de recursos varía lo suficiente entre instituciones como para acotar la transferencia, y cada fase de ADDIE deja una condición de uso sin abordar —acceso a herramientas, formación del profesorado, encaje curricular, conectividad, evaluación de resultados de orden superior—.
+
+El cumplimiento de umbrales y la calidad de los ítems pueden moverse en direcciones opuestas. En una comparación emparejada en odontología, el 94% de los ítems de respuesta única redactados por la plataforma superaron una discriminación de 0,20 o más, frente al 81% de los ítems manuales, y sin embargo la discriminación media punto-biserial fue menor (0,24 frente a 0,26) y la dificultad media se desplazó a la baja (0,40 frente a 0,46) ([[islam-human-vs-ai-sba-dental-2026|Islam et al. (2026)]]). Esas estadísticas se calcularon de forma descriptiva a partir de formularios formativos de bajo riesgo sin fiabilidad a nivel de prueba, de modo que superar un punto de corte describe este conjunto de ítems y no establece exámenes intercambiables.
+
 ### Rediseño en lugar de detección
 
 Mantener la validez de la evaluación exige rediseñar las evaluaciones para un estudiantado capaz de usar la IA, y no [[ai-detection|detectar el uso de la IA]]. Un problema de validez paralelo recorre la medición en investigación: muchas afirmaciones sobre la IA en la educación se apoyan en [[self-report-measures|datos de autoinforme]], que no pueden sostener una inferencia sobre el aprendizaje o la competencia por muy bien validado que esté el propio instrumento. Los [[beyond-detection-authentic-assessment-ai-2025|enfoques más allá de la detección]] y la [[assessment|evaluación]] representan un pensamiento que pone la validez por delante.
@@ -109,6 +113,8 @@ La calificación consciente de la IA toma una tercera vía entre el rediseño y 
 
 **La política ha pasado al permiso graduado y a la garantía por encima de la fricción.** Al codificar 55 documentos institucionales, [[ansari-policing-provenance-designing-for-evidence-2026|Ansari (2026)]] encontró 4 que prohíben la IA por defecto y 31 que definen categorías nominales de uso, y de los 23 que toman posición sobre la [[ai-detection|detección]], 16 rechazan los detectores. El rediseño, en esa lectura, es rediseño más un mecanismo de garantía y no solo fricción.
 
+**La adopción institucional del modelo de dos carriles.** [[making-ai-work-for-students-ofs-2026|OfS y Advance HE (2026)]] documentan que la Universidad de Bath sustituyó en septiembre de 2026 su esquema de semáforo de tres categorías por un modelo de dos carriles desarrollado primero en Sídney: toda evaluación es cerrada, con condiciones que mantienen la IA fuera, o abierta, donde la IA está permitida, porque el personal consideraba imposible vigilar de forma fiable los permisos intermedios. El planteamiento de Bath mantiene a la vista la prueba de validez, ya que toda evaluación, incluido el carril cerrado, se diseña en torno a los resultados de aprendizaje previstos: aislar una tarea de la IA no hace que mida lo correcto.
+
 ### Conexiones
 
 La validez de la evaluación conecta con la [[authentic-assessment|evaluación auténtica]], la [[automated-assessment|calificación automatizada]], los [[automated-assessment|sistemas de evaluación con IA con conciencia de la confianza]], la [[formative-assessment|evaluación formativa]], la [[academic-integrity|integridad académica]] y el [[rct|ensayo controlado aleatorizado]] (que depende de medidas de resultado válidas).
@@ -118,6 +124,8 @@ La IA desafía la validez en el plano epistémico: [[end-of-assessment-ai-disrup
 **Cuando la IA genera el artefacto evaluable.** [[kumar-genai-computing-education-systematic-review-2026|Kumar, Wongsirichot y Nanthaamornphong (2026)]] dan al problema de la validez su caso disciplinar más agudo: en la [[cs-education|educación en informática]] la IA produce el artefacto que se califica —el código fuente—, de modo que el uso de la herramienta, el aprendizaje y la evaluación se funden en una única interacción, y un código entregado ya no separa el aprendizaje de la delegación. A lo largo de 72 estudios encuentran ganancias de eficiencia que no se transfieren al desempeño sin ayuda (21 estudios), el [[prior-knowledge|conocimiento previo]] moderando si la ayuda de la IA se convierte en competencia (6 estudios) y la investigación sobre detección prácticamente ausente de la base de evidencia (3 estudios), mientras que el rediseño de la evaluación está comparativamente bien evidenciado (25 estudios). Su conclusión para la práctica es específica del constructo y de baja tecnología: añadir un componente oral u otro elemento con el proceso visible al menos a una evaluación de alto impacto por curso —la intervención de mayor palanca de la revisión— y exigir una [[student-engagement|implicación]] crítica con la salida de la IA como componente calificado y observable, y no como una disposición opcional ([[academic-integrity|integridad académica]], [[assessment|evaluación]]).
 
 [[correnti-erevise-validity-argument-formative-assessment-2026|Correnti et al. (2026)]] replican y amplían un argumento de validez para eRevise, un [[automated-essay-scoring|sistema automatizado de evaluación de la escritura]] para la escritura argumentativa de los últimos cursos de primaria, con 34 docentes y 609 estudiantes de ocho parroquias de Luisiana, y comprueban si los mismos [[sociocultural-learning|mecanismos socioculturales]] se sostienen en tres resultados de escritura distintos en lugar de uno solo.
+
+La evaluación automatizada de la docencia es la versión institucional del mismo problema. [[xu-ai-teaching-evaluation-systematic-review-2026|Xu y sus colegas]] revisaron 60 estudios empíricos de 2015 a 2025 y se quedaron con 19 que informaban de fiabilidad, validez o impacto educativo demostrado; el resto demostraba una técnica. Su hallazgo es que la concordancia con evaluadores humanos se ofrece como validación, que el sesgo se discute mucho más de lo que se prueba en cuanto a desempeño diferencial entre grupos de docentes, y que la división del trabajo entre humanos e IA se afirma en lugar de diseñarse. Como la evaluación estudiantil de la docencia ya arrastra sesgos de puntuación conocidos, añadir un modelo hereda el sesgo y lo esconde tras un número.
 
 ## La validez bajo información imperfecta
 
@@ -250,3 +258,7 @@ Winstone, Gravett y Elkington enmarcan el problema de la evaluación en la era d
 - [[rodemer-ai-generated-mcq-chemistry-assessment-2026]] — Ítems que superan el 87,71% de los criterios de redacción seguían sin coincidir con el nivel de competencia previsto
 - [[webb-davies-voice-first-written-assessment-2026]] — Una evaluación escrita en dos etapas que asegura el razonamiento bajo observación antes de calificar una entrega hecha en casa
 - [[black-box-assessment-winstone-2026]] — Evaluación de caja negra: ventanas al proceso, el error como evidencia y la integridad mediante la visibilidad
+- [[williams-coding-curriculum-critique-2026]] — Codificar el currículo: una crítica de «Cómo la IA está transformando el diseño instruccional»
+- [[islam-human-vs-ai-sba-dental-2026]] — El cumplimiento de umbrales subió mientras la discriminación media caía, calculado de forma descriptiva y sin fiabilidad a nivel de prueba
+- [[making-ai-work-for-students-ofs-2026]] — OfS and Advance HE (2026): 244 docentes y 91 estudiantes de 127 instituciones sobre detección, diseño de la evaluación, alfabetización en IA y estrategia
+- [[xu-ai-teaching-evaluation-systematic-review-2026]] — 60 estudios revisados, 19 con evidencia de validación: la concordancia con evaluadores no es validez

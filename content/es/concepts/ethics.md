@@ -1,7 +1,7 @@
 ---
 title: Ética
 created: "2026-09-25T03:54:01-04:00"
-updated: "2026-11-15T10:11:31-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -9,7 +9,7 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:36:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -110,6 +110,8 @@ Ese argumento práctico se refuerza con trabajo empírico sobre cómo funciona l
 
 La conciencia ética, el razonamiento reflexivo y la práctica responsable [[self-report-measures|autoinformada]] se desarrollan en gran medida de forma independiente. A lo largo de tres oleadas anuales de 350 [[higher-ed|estudiantes de grado]] nigerianos de informática, [[ayanwale-ethical-engagement-ai-growth-modeling-2026|Ayanwale et al. (2026)]] encontraron que los tres aumentaron sustancialmente, pero sus factores de crecimiento estaban casi descorrelacionados y la conciencia inicial no predecía el crecimiento posterior.
 
+La confianza en el procedimiento ético puede subir mientras el autoconocimiento se queda donde estaba. [[pal-ethically-aware-learning-ai-classroom-2026|Pal, Jones y Hoover (2026)]] integraron IA generativa en un curso optativo de ética del liderazgo de grado, secuenciando el mismo [[case-based-learning|caso]] una vez sin ayuda y otra con ChatGPT, y analizaron 38 encuestas de confianza emparejadas de unos 80 estudiantes. En una escala de 0 a 10, la capacidad autoevaluada de reconocer el dilema ético pasó de 7,24 a 8,39 y la de tomar una decisión sólida y justificable de 7,24 a 8,45, ambas con p < 0,001, y el uso de teorías éticas para explicar una decisión subió de 5,39 a 7,08. Los dos ítems introspectivos —identificar las propias virtudes, valores y derechos (p = 0,063) y explicar cómo los valores personales afectan a una decisión (p = 0,124)— no se movieron, lo que sitúa la ganancia en la habilidad procedimental y no en el autoconocimiento moral.
+
 ## Conexiones
 
 La ética se conecta con la [[equity-in-ai-education|equidad]], la [[privacy|privacidad]], la [[bias-mitigation|mitigación de sesgos]], la [[regulation|regulación]], la [[pedagogical-safety|seguridad pedagógica]], la [[academic-integrity|integridad académica]] y la [[governance|gobernanza]]. Es el fundamento normativo de todos los demás conceptos de la IA en la educación: el marco en el que se plantean y se resuelven las cuestiones de justicia, transparencia, autonomía y seguridad.
@@ -170,3 +172,4 @@ La ética se conecta con la [[equity-in-ai-education|equidad]], la [[privacy|pri
 - [[genai-higher-ed-agency-responsibility-discourse-2026]] — ¿Quién actúa, quién sabe, quién responde? Agencia, responsabilidad epistémica y rendición de cuentas en la investigación sobre IA generativa en educación superior
 - [[ayanwale-ethical-engagement-ai-growth-modeling-2026]] — La conciencia ética, la reflexión y la práctica responsable informada crecieron en gran medida de forma independiente a lo largo de tres oleadas anuales (Ayanwale et al., 2026)
 - [[qi-information-ethics-ai-judgment-2026]] — Educación en ética de la información y juicio ético sobre la IA entre estudiantes universitarios
+- [[pal-ethically-aware-learning-ai-classroom-2026]] — Aprendizaje éticamente consciente en un aula con IA

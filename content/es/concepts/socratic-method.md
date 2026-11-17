@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills, context-aideatext]
 title: Método socrático
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-11-15T10:14:32-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:34:25-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -81,6 +81,7 @@ La brecha entre las «habilidades basadas en conocimiento» (4,0/5) y la «efica
 - El diálogo socrático requiere esfuerzo; los estudiantes pueden preferir respuestas directas por eficiencia
 - El chatbot no puede proporcionar el apoyo relacional de un tutor humano
 - Algunos estudiantes pueden quedarse atrapados en bucles socráticos sin resolución
+- La implementación puede variar más de lo que especifica el diseño. En un curso de C++, el ítem que preguntaba si el chatbot planteaba preguntas reflexivas o de aplicación fue el más bajo y el más variable de la encuesta, con 3,86 sobre 5 (DE 1,24), lo que las autorías leen como una implementación inconsistente de lo que nombraba el prompt del sistema ([[jackson-ai-chatbots-learning-assistants-cs-2026|Jackson, Mware y Jiang (2026)]]).
 
 ### Un hallazgo contrario: el acceso sin restricciones puede superar a los modos restringidos
 
@@ -180,3 +181,4 @@ El método socrático está estrechamente ligado al [[scaffolding]] (proporciona
 - [[genai-socratic-tutor-biology-argumentation-2026]] — Mejora de las habilidades de argumentación alineadas con PISA de futuros docentes de biología mediante inteligencia artificial generativa
 - [[etq-ai-conversational-teacher-training-2026]] — Diagnóstico conversacional de IA para las concepciones erróneas docentes mediante diálogo fundamentado en la evidencia (Miranda y Calvani 2026)
 - [[socratic-probing-agent-physics-cave-detection-2026]] — Diseñar un agente de IA que no da tutoría: reglas de diseño para el sondeo socrático en física introductoria
+- [[jackson-ai-chatbots-learning-assistants-cs-2026]] — Las preguntas reflexivas fueron las peor valoradas y las más variables en un chatbot guiado

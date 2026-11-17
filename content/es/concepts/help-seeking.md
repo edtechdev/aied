@@ -1,7 +1,7 @@
 ---
 title: Búsqueda de ayuda
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-11-15T15:48:57-05:00"
+updated: "2026-11-17T16:30:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-11-15T15:46:26-05:00"
+source_updated: "2026-11-16T05:34:55-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -101,6 +101,8 @@ La búsqueda de ayuda es parte integral del [[self-regulated-learning|aprendizaj
 
 La evidencia a escala poblacional complica el relato de la sustitución: entre 12.191 estudiantes de PISA 2025 en cuatro regiones chinas, un uso más frecuente de IA generativa para las tareas escolares se asoció con más búsqueda de ayuda académica (β = 0,169) y no con menos ([[wu-genai-scientific-literacy-china-2026|Wu et al. (2026)]]).
 
+Los registros sitúan la demanda en un horario y en un ítem. En un curso de Estática con 215 estudiantes, las consultas al asistente del libro de texto respaldado por ChatGPT se concentraban los domingos y los lunes y de nuevo entre la 1 y las 3 de la madrugada, las horas en que las tutorías estaban cerradas ([[wyszynski-genai-user-input-engineering-statics-2026|Wyszynski, Barry y Dosse, 2026]]). Lo que pide el estudiantado sigue a la dificultad: los intentos con prompt en un curso de posgrado de lenguaje ensamblador tenían menos probabilidades de ser correctos (OR = 0,35), y el prompting metacognitivo se concentraba en los ítems de dificultad media, donde los intentos con prompt tenían 3,79 veces las probabilidades de éxito ([[huang-multi-agent-self-regulated-learning-cs-2026|Huang et al., 2026]]). La dificultad del ítem, más que el diseño de las pistas, decide si la ayuda llega a ser reflexiva.
+
 ### La búsqueda de ayuda mediada por LLM como proceso de cuatro etapas
 
 [[viberg-efficiency-effectiveness-srl-llm-help-seeking-2026|Viberg et al. (2026)]] muestran que, en el estudio cotidiano de materias STEM, la búsqueda de ayuda con LLM no es un acto único, sino un proceso estratificado y dependiente del contexto con cuatro etapas: (1) *decidir si se necesita ayuda* —el estudiantado intenta primero las tareas por su cuenta para preservar el valor de aprendizaje—; (2) *elegir a quién preguntar* —ChatGPT como primer paso de bajo umbral, luego los compañeros para negociar conceptos y después el profesorado para cuestiones complejas o de alto riesgo—; (3) *determinar el tipo de ayuda* —desde pistas y explicaciones hasta andamiar la [[problem-solving|resolución de problemas]], agilizar el trabajo rutinario y ampliar el aprendizaje—; y (4) *juzgar la ayuda recibida* —ejerciendo una confianza selectiva y verificando las salidas de la IA contra el material del curso o con personas—. De forma crucial, el estudiantado prefirió la **búsqueda de ayuda instrumental** (mejorar la comprensión) a la **búsqueda de ayuda ejecutiva** (obtener soluciones), una distinción que los autores proponen adaptar como nuevos ítems de medición del aprendizaje autorregulado para LLM.
@@ -182,3 +184,6 @@ En la [[english-education|composición]] totalmente en línea, la disponibilidad
 
 - [[taufer-human-ai-interaction-haidl-2026]] — Las interacciones como datos de primera clase: clasificar una consulta por el estado de ejecución que la rodea
 - [[abdelghani-student-llm-epistemic-proactivity-math-2026]] — La trayectoria de la búsqueda de ayuda, y no su nivel, predice el rendimiento matemático sin asistencia
+
+- [[wyszynski-genai-user-input-engineering-statics-2026]] — Examinar el uso estudiantil de la IA generativa a través de datos de entrada del usuario en un curso de Estática de ingeniería
+- [[huang-multi-agent-self-regulated-learning-cs-2026]] — Un modelo de IA multiagente para mejorar el aprendizaje autorregulado y la comprensión conceptual en la educación en informática...

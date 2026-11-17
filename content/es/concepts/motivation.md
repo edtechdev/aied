@@ -1,7 +1,7 @@
 ---
 title: Motivación
 created: "2026-09-28T18:17:50-04:00"
-updated: "2026-11-15T10:16:27-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-determination-theory, student-engagement]
@@ -10,7 +10,7 @@ connected_faqs: [ai-anxiety-wellbeing, asynchronous-online-courses-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/motivation
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T09:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -53,9 +53,13 @@ Un metaanálisis de 42 estudios (56 tamaños de efecto, 6.059 estudiantes) encon
 - **Reducir la frustración no es lo mismo que sostener la motivación.** Un [[rct|ECA]] de tres brazos encontró que un tutor andamiado y ChatGPT sin restricciones redujeron la frustración por igual (3,21 y 3,13 frente a 4,09), pero solo el tutor andamiado elevó la motivación intrínseca (2,82 frente a 2,42, p < 0,001); ChatGPT no lo hizo (2,64, p = 0,076) ([[bassner-performance-learning-dissociation-ai-programming-2026|Bassner et al. (2026)]]).
 - **La misma calidad de retroalimentación no implica el mismo efecto motivacional.** Un ECA de tres brazos con 312 escritores de primer año encontró que la retroalimentación generada por IA y la del profesorado mejoraron los ensayos revisados en la misma medida: d = 0,60 y 0,59, equivalentes dentro de una banda preespecificada de ±0,35 DE. La retroalimentación del profesorado, sin embargo, elevó la motivación intrínseca más que la de la IA (5,16 frente a 4,90, d = 0,31), y la relación percibida con la fuente medió esa brecha (indirecto 0,25, IC del 95% [0,12, 0,40]) sin que quedara casi ningún efecto directo ([[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026|Liu et al. (2026)]]). El desempeño pasó por la implicación con la retroalimentación y no por la autoeficacia, cuya vía indirecta no fue significativa. Donde el ensayo de Bassner separaba la autonomía de la entrega de respuestas, este mantiene constante la calidad del producto y sitúa la diferencia motivacional en a quién responde quien aprende.
 
+- **La frecuencia de uso, y no la competencia previa, predijo la motivación.** En un estudio de doce semanas de inglés como lengua extranjera con 310 estudiantes, la frecuencia de uso fue el único predictor significativo de la motivación (β = .46, 20,4% de la varianza), y la competencia previa y la ansiedad quedaron descartadas por no ser significativas ([[mekheimer-motivation-ethics-trust-efl-2026|Mekheimer y Fageeh (2026)]]). Los autores lo leen como un efecto democratizador: las ganancias recayeron en quien usó las herramientas y no en quien llegó más fuerte.
+
 Por qué un lector recurre a la IA es en sí mismo una variable medible: la escala AIR resuelve cuatro motivos para la lectura asistida por IAG —orientado a tareas, sentirse bien, traducción y bajo esfuerzo—, y solo el de bajo esfuerzo, usar la IA cuando se está cansado o desconectado, se relacionó negativamente con la necesidad de cognición (r = −.18) ([[air-scale-motivations-ai-reading-2026|Brann, Etgar y Sidi (2026)]]).
 
 **La motivación en la implicación mediada por IA** examina cómo cambia la calidad motivacional (no solo la cantidad) con la IA. **[[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|Isaeva et al.]]** combinaron la teoría de la autodeterminación con el [[network-analysis|análisis de redes epistémico]] para estudiar la implicación con la [[generative-ai|IA generativa]]. **[[liang-ai-learning-motivation-sdt-2026|Liang et al. (2026)]]** siguieron el desarrollo de la motivación mediante un análisis de transición latente de **2.086 [[k-12|estudiantes de secundaria]]** en un currículo de IA de un año, encontrando tres perfiles estables (Desimplicado, En desarrollo, Autodeterminado) y que alcanzar el perfil Autodeterminado predecía las mayores ganancias de [[ai-literacy|alfabetización en IA]]. **[[wang-goal-setting-ai-engagement-2026|Wang y Wang (2026)]]** usaron la teoría del establecimiento de metas con **758 estudiantes [[higher-ed|universitarios]] de [[multilingual-learning|inglés]]**, mostrando que el **apoyo docente** impulsa la implicación asistida por IA principalmente a través de metas de aproximación al dominio y de aproximación al rendimiento (las orientaciones de aproximación, no de evitación). En conjunto, estos estudios muestran que la motivación en contextos de IA es a la vez evolutiva y socialmente andamiada: cambia con el tiempo y responde al apoyo docente y al enmarcado de las metas, no solo al diseño de la herramienta.
+
+- **Dos escalas breves separan valorar el aprendizaje de sentirse capaz de aprenderlo sin la herramienta.** En 882 estudiantes universitarios estadounidenses, el valor del aprendizaje y la autoeficacia de aprendizaje en contextos de IA fueron factores distintos, ambos asociados negativamente al uso de IA, y juntos portaron más de la mitad de la asociación negativa del uso de IA con el gasto de esfuerzo ([[mirpour-learning-value-self-efficacy-ai-scales-2026|Mirpour y Behdarvandirad (2026)]]).
 
 La orientación a metas también encauza cómo se usa la herramienta: las metas de dominio y de rendimiento normativo tienden a apoyar la elaboración y el refinamiento, mientras que las metas de rendimiento aparente hacen más probables la minimización del esfuerzo y la protección de la competencia percibida, de modo que un mismo asistente ofrece andamiaje o sustituye el pensamiento según el clima motivacional ([[oby-chatgpt-use-learning-framework-2026|Øby, 2026]]). La motivación de recompensa puede embotar el alcance de la retroalimentación de la IA: para [[chatgpt-feedback-credibility-perceived-learning|Pérez-López et al. (2026)]], el vínculo entre credibilidad y aprendizaje percibido se debilitaba a medida que aumentaba la sensibilidad a la recompensa basada en notas —pendientes simples b = 0,733, 0,607 y 0,483 con sensibilidad baja, media y alta.
 
@@ -112,6 +116,7 @@ La motivación es el constructo padre de la [[self-determination-theory|teoría 
 
 ## Artículos conectados
 
+- [[mirpour-learning-value-self-efficacy-ai-scales-2026]] — Dos escalas breves para el valor del aprendizaje y la autoeficacia de aprendizaje en contextos de IA, y qué predicen
 - [[high-school-genai-acceptance-tam-physics-2026]] — Las creencias de expectativa-valor como antecedentes de la aceptación de la IAG
 - [[liu-ai-assistance-reduces-persistence-2026]] — El uso breve de la IA redujo la persistencia en problemas posteriores sin ayuda (Liu et al. 2026)
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — Retroalimentación automatizada en la escritura argumentativa: el papel de la receptividad y la percepción de la retroalimentación en estudiantes de secundaria
@@ -146,3 +151,4 @@ La motivación es el constructo padre de la [[self-determination-theory|teoría 
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — El tutor andamiado elevó la motivación intrínseca donde ChatGPT sin restricciones no lo hizo
 - [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — Retroalimentación de IA y del profesorado de calidad equiparable, con la brecha motivacional pasando por la relación percibida (Liu et al. 2026)
 - [[pan-generative-ai-student-motivation-sdt-review-2026]] — Revisión de 39 estudios guiada por la SDT: las necesidades y la implicación se miden a menudo, la regulación motivacional casi nunca
+- [[mekheimer-motivation-ethics-trust-efl-2026]] — La frecuencia de uso como único predictor significativo de la motivación en un estudio de doce semanas de inglés como lengua extranjera

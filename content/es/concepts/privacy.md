@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: Privacidad
 created: "2026-09-28T19:11:03-04:00"
-updated: "2026-11-15T10:13:22-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: concepts/privacy
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:34:25-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -90,6 +90,8 @@ Los entornos de [[k-12|educación K-12]] exigen salvaguardas de privacidad más 
 - **Diseñe para la minimización de datos.** Prefiera los enfoques que recopilan solo lo que la adaptación requiere (IA en el borde o federada, procesamiento en el dispositivo) en lugar de acumular datos de interacción por defecto. [[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026|Boyapati et al. (2026)]] demuestran una forma federada concreta de esto para el [[cognitive-diagnosis|diagnóstico cognitivo]]: varias API comerciales de [[llm|LLM]] colaboran en el diagnóstico mientras añaden localmente ruido de privacidad diferencial local ε a la predicción de cada modelo antes de la agregación, de modo que ningún proveedor ve datos brutos de estudiantes, una arquitectura que preserva la privacidad y mantiene funcional la [[intelligent-tutoring|tutoría con IA]] sin centralizar trayectorias sensibles de los aprendices. El aprendizaje federado también permite una **analítica interinstitucional sin compartir datos**: [[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch et al. (2026)]] entrenan un modelo multitarea de riesgo académico entre instituciones mediante agregación federada, de modo que los datos brutos de los aprendices permanecen en local y solo se comparten los parámetros del modelo, una alternativa colaborativa y respetuosa con la privacidad a la [[learning-analytics|analítica del aprendizaje]] centralizada que mantiene la soberanía de los datos y a la vez capta patrones interinstitucionales.
 - **Elimine la identidad en lugar de gestionarla.** [[intelligent-tutoring|AI Tutor Pro]] está construido para que el estudiantado no necesite cuenta y no deje perfil: el modelo de privacidad es una decisión de diseño que elimina el riesgo de identidad en lugar de gobernarlo a posteriori ([[owston-ai-tutor-pro-pedagogy-privacy-trust-2026|Owston, 2026]]). La mayor parte del asesoramiento sobre privacidad pide a las instituciones auditar, minimizar y consentir; esta es la alternativa estructural más barata, y se aplica siempre que una herramienta no necesite saber quién es el aprendiz.
 
+- **Elija la tenencia antes que la pedagogía.** Wells (2026) llevó a cabo un piloto de asistente de investigación para sociología en un Copilot con licencia universitaria y no en un chatbot público, para que el trabajo del estudiantado permaneciera dentro del entorno Microsoft 365 de la institución, y restringió el acceso mediante un módulo de formación de cinco unidades y un cuestionario de cinco ítems con un 80% para aprobar ([[wells-genai-research-assistant-sociology-2026|Wells (2026)]]). El control de privacidad y la puerta de competencia se implementaron como una única decisión de despliegue.
+
 - **Obtenga un consentimiento explícito e informado.** Cuando los datos de los aprendices financian el desarrollo o la mejora de la IA, las instituciones deberían ser transparentes sobre la recopilación, el almacenamiento y el uso, y los estudiantes deberían tener opciones reales y no plataformas obligatorias.
 - **Audite a quién se protege.** Las salvaguardas de privacidad no deberían acabar protegiendo solo a algunos aprendices; la [[equity-in-ai-education|equidad]] exige que el mismo cuidado se aplique a través de la edad, la lengua, la discapacidad y las líneas socioeconómicas.
 
@@ -138,3 +140,4 @@ La privacidad se conecta con la [[learning-analytics|analítica del aprendizaje]
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — Qué capturan los sistemas de supervisión y la ausencia de la literatura sobre privacidad en la base de evidencia
 - [[edtech-privacy-deferral-2026]] — "Ya lo arreglaremos después": educación, IA y el aplazamiento de la privacidad estudiantil en el sector edtech
 - [[kaziya-learner-data-privacy-governance-2026]] — Un marco que separa la competencia del profesorado en privacidad de la autoridad institucional para actuar
+- [[wells-genai-research-assistant-sociology-2026]] — Una tenencia institucional con licencia más una puerta de certificación como diseño de privacidad

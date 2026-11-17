@@ -1,7 +1,7 @@
 ---
 title: Teorías y marcos
 created: "2026-09-28T18:22:10-04:00"
-updated: "2026-11-15T10:32:41-05:00"
+updated: "2026-11-17T16:30:00-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -65,6 +65,7 @@ Estas explican mecanismos: nombran las piezas que hacen el trabajo y predicen qu
 
 - **[[tpack|TPACK]]** — el conocimiento docente que combina tecnología, pedagogía y contenido; el marco por defecto de los estudios sobre IA dirigidos al profesorado.
 - **[[technology-acceptance-model|Modelos de adopción]]** — la intención como función de la utilidad percibida y la facilidad de uso. Se usan tanto que la dependencia del campo de la intención y no del comportamiento es una crítica constante.
+- **Modelo de confirmación de expectativas (ECM)** — la satisfacción como la confirmación de expectativas previas, con la continuidad y no la adopción inicial como resultado. En un piloto de un semestre en un curso de métodos sociológicos con 24 estudiantes de grado, el 87% calificó a Copilot como bueno o excelente y el 91% lo recomendaría, pero solo el 57% pensaba seguir usándolo ([[wells-genai-research-assistant-sociology-2026|Wells, 2026]]). La brecha es justamente el punto del modelo: una persona usuaria satisfecha puede aun así no volver, así que la satisfacción y la continuidad requieren medidas separadas.
 - **[[icap-framework|ICAP]]** — clasifica la implicación como pasiva, activa, constructiva o interactiva; útil para preguntar qué modo permite de verdad una [[student-ai-interaction|interacción con IA]].
 - **[[samr-model|SAMR]]** — de la sustitución a la redefinición. Popular como relato de madurez, débil como instrumento de medición.
 - **[[universal-design-for-learning|Diseño universal para el aprendizaje]]**, el **[[inclusive-learning|aprendizaje inclusivo]]** y la **[[accessibility|accesibilidad]]** — marcos de diseño sobre a quién se atiende, y los que más se invocan en el trabajo sobre discapacidad y [[equity-in-ai-education|equidad]].
@@ -154,3 +155,5 @@ La alineación entre mecanismo y teoría puede ser, aun así, decisiva: una sín
 - [[yan-agentivism-learning-theory-ai-2026]] — una teoría del aprendizaje de rango medio para la interacción humano-IA
 - [[ai-literacy-instrument-development-systematic-review-2026]] — desarrollo de instrumentos en torno a un constructo joven
 - [[mishra-control-vs-agency-history-2025]] — la tensión fundacional del campo entre control y agencia
+
+- [[wells-genai-research-assistant-sociology-2026]] — Explorar el papel de la IA generativa como asistente de investigación en un curso de grado de métodos de investigación sociológica

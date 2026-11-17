@@ -1,7 +1,7 @@
 ---
 title: Educación médica y en profesiones de la salud
 created: "2026-09-28T19:11:07-04:00"
-updated: "2026-11-15T10:16:27-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [teacher-role]
 technology: [adaptive-learning, simulation]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 translation_of: concepts/medical-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T09:58:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -73,7 +73,6 @@ Una segunda brecha de gobernanza se sitúa en el lado de la producción. Las pol
 
 - **La forma de la propia literatura del ámbito.** [[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram, Nichols, Ganti y Gue (2026)]] cartografían la propia literatura sobre ética de la IA en la educación médica: 1.403 publicaciones de Web of Science de 1995 a 2026, insignificantes durante dos décadas, y luego 113 en 2023, 256 en 2024 y 500 en 2025; 39 países superan el umbral de autoría, liderados por Estados Unidos (533 publicaciones) por delante de China (189) e Inglaterra (95); y los trabajos más citados son pruebas de capacidad —el rendimiento de ChatGPT en los exámenes de licencia médica por encima de todo— y no estudios de gobernanza. Su lectura es que el ámbito ha crecido rápido sin crecer de manera uniforme, y que la evaluación empírica de los marcos de [[governance|gobernanza]] es el trabajo que el registro de citas no está recompensando. Es una advertencia útil para quien trate el volumen de investigación publicada sobre IA en la educación médica como prueba de que sus preguntas sobre uso seguro han sido respondidas.
 
-
 Una revisión de alcance de 153 informes sobre IA generativa en la educación médica cartografía las aplicaciones —[[simulation|simulación]] y habilidades clínicas como la mayor (47 informes), por delante de la generación de evaluaciones y la retroalimentación (22) y del aprendizaje basado en casos y el razonamiento clínico (21)—, pero solo 13 informes incluían una señal de seguimiento o retención y no se encontró ningún resultado a nivel de paciente ([[genai-medical-education-transformation-review-2026|Zhao et al. (2026)]]).
 
 - **ABP y aprendizaje basado en casos con IA: seis ensayos aleatorizados, dos de ellos de ABC.** [[wei-ai-pbl-cbl-medical-dental-meta-analysis-2025|Wei et al. (2025)]] agruparon cuatro ensayos para conocimiento (46%, IC del 95%: 0,18 a 0,73), tres para satisfacción (0,7, IC del 95%: 0,47 a 0,92), y no pudieron agrupar el razonamiento clínico porque los instrumentos diferían. Solo dos ensayos probaron el aprendizaje basado en casos y la revisión no analizó los formatos por separado, por lo que el resultado respalda diseños de problemas apoyados por IA sin identificar qué características de los casos importan.
@@ -86,6 +85,8 @@ La HPE es un ámbito de alto riesgo y basado en competencias donde los beneficio
 
 - **Qué enseñan los planes de estudios sobre la procedencia de los datos.** [[giancotti-data-provenance-health-ai-curricula-2026|Giancotti et al. (2026)]] codificaron los planes de estudios anunciados públicamente de 36 programas estadounidenses de IA en salud y encontraron que la ética aparecía en 29 (80,6%) pero la procedencia de los datos, en un nivel estructural o de limitaciones del conjunto de datos, solo en 8 (22,2%), sin ningún programa que abordara el costo ambiental de la computación y sin que ninguno de los siete másteres alcanzara el umbral de procedencia. De 92 docentes nombrados, el 76,1% procedía de disciplinas computacionales y el 3,3% de las ciencias sociales o las humanidades. La brecha tiene consecuencias clínicas: los fallos de despliegue con los que abre el artículo se introdujeron aguas arriba, en cómo se generaron o etiquetaron los datos de entrenamiento, que es una competencia enseñable que el plan de estudios parece no recoger.
 - **El uso ha superado a la instrucción.** Entre 310 estudiantes de ciencias de la salud, el 90% había usado ChatGPT mientras que el 82,6% no había recibido instrucción formal sobre IA; la frecuencia de uso se asociaba a un GPA más alto y el 61% declaró preocupaciones [[ethics|éticas]] ([[alshahrani-health-sciences-ai-use-2026|Alshahrani et al., 2026]]).
+
+Los datos del África subsahariana hacen concreto ese vacío bajo restricciones materiales. Al encuestar a 417 estudiantes de grado de seis programas de profesiones afines a la salud en una universidad pública de Ghana, [[ago-prompt-literacy-allied-health-2026|Ago et al. (2026)]] encontraron que el 76,3% (n = 318) no había recibido antes enseñanza sobre uso responsable de la IA, y el estudiantado señaló las suscripciones de pago y la conectividad a internet entre las restricciones a su uso. Lo que pedían era currículo y no prohibición: la alfabetización en IA y el desarrollo de capacidades reunieron 185 códigos, más de tres cuartas partes de las estrategias de apoyo sugeridas.
 
 ## Implicaciones para el profesorado de profesiones de la salud
 
@@ -155,3 +156,4 @@ La HPE es un ámbito de alto riesgo y basado en competencias donde los beneficio
 - [[rony-nursing-educators-ai-tpack-2025]] — Docentes de enfermería en Bangladesh sobre preparación para la IA, barreras y gobernanza de datos, leídos a través del TPACK
 - [[bursic-ai-residency-education-curriculum-2026]] — Barreras para integrar la IA en los planes de estudios de residencia: entrevistas cualitativas con doce médicos líderes
 - [[alshahrani-health-sciences-ai-use-2026]] — Tender puentes entre tecnología y pedagogía: análisis transversal del uso de IA, efectos académicos autodeclarados y preocupaciones éticas entre estudiantado de diversos planes de estudios de ciencias de la salud
+- [[ago-prompt-literacy-allied-health-2026]] — Alfabetización en consignas en seis programas ghaneses de profesiones afines a la salud: uso rutinario de IA generativa sin formación, restricciones de suscripción y conectividad, y una paradoja de verificación de consignas donde el conocimiento previo es más escaso (Ago et al. 2026)

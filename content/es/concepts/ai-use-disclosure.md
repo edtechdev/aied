@@ -1,7 +1,7 @@
 ---
 title: Declaraciones de uso y divulgación de la IA
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-11-15T10:26:22-05:00"
+updated: "2026-11-17T16:30:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -80,6 +80,8 @@ Al examinar las orientaciones sobre IA generativa de las 50 universidades estado
 - **La divulgación conlleva una penalización de confianza, y la legitimidad es el mecanismo que se argumenta.** En trece experimentos, en su mayoría con paneles en línea estadounidenses y agrupados en 4.093 observaciones (θ = 0,81, z = 10,52, IC del 95% [0,66, 0,96]), se confió menos en quien divulgaba el uso de IA que en quien permanecía en silencio ([[obhdp-ai-disclosure-erodes-trust-2025|Schilke y Reimann (2025)]]). El efecto se mantuvo con seis formulaciones de la divulgación, con un evaluador que ya sabía que se había usado IA y con regímenes tanto obligatorios como voluntarios. Es la contraparte experimental del hallazgo de encuesta anterior de que el estudiantado que siempre divulgaba se enfrentaba a más del triple de probabilidades de ser acusado: la transparencia misma puede costarle a quien divulga. El único resultado del artículo orientado al estudiantado es que este confiaba menos en una profesora cuando ella divulgaba que la [[automated-assessment|IA calificaba]].
 - **Una etiqueta de contenido cambia la descripción, no el veredicto.** Con 617 personas adultas asignadas al azar a ver o no ver una etiqueta de "AI-Generated Content/Synthetic Video", la etiqueta redujo la autenticidad percibida (medias de 4,92 sin ella y 4,21 con ella), pero dejó sin cambios la confianza (B = -0,130, p = 0,216), el riesgo, la adopción y el hecho de compartir ([[fu-ai-label-authenticity-trust-generated-videos-2026|Fu, Zhang y Zhang (2026)]]).
 
+Los documentos que el estudiantado recibe realmente contienen menos de lo que pretenden quienes los redactan. [[benmessaoud-genai-course-materials-faculty-2026|BenMessaoud et al. (2026)]] codificaron 16 programas, declaraciones de política y tareas aportados por 56 docentes de una gran universidad pública de investigación del Medio Oeste: una declaración de permiso y reconocimiento era sólida en el 59%, la privacidad de los datos estaba silenciada en el 75%, las normas de citación eran sólidas en el 19% y el 81% no tenía cláusula de revisión. Los mismos docentes declararon en un 71% que las directrices institucionales influían en sus materiales de curso «nada» o «un poco», lo que sitúa la brecha tanto en la orientación como en el programa. Una cláusula de divulgación vale lo que valen la plantilla y el estándar de citación que la respaldan.
+
 ## Diseñar una divulgación eficaz
 
 - **La claridad y la coherencia superan a la disuasión.** Desarrolle políticas de IA claras, coherentes y construidas de forma colaborativa, con ejemplos concretos de uso aceptable y de cómo declararlo; evite los marcos punitivos o vagos que motivan la ocultación.
@@ -124,6 +126,8 @@ El uso y la divulgación de la IA se sitúan en la intersección de la [[academi
 ## Artículos conectados
 - [[liu-genai-truthful-declaration-tpb-deterrence-2026]] — Un modelo de ecuaciones estructurales dividido: la certeza de detección frente al riesgo de que declarar exponga un uso indebido (Liu et al. 2026)
 - [[fu-ai-label-authenticity-trust-generated-videos-2026]] — Etiquetas de divulgación de IA, autenticidad percibida y confianza en vídeos instructivos generados por IA
+
+- [[benmessaoud-genai-course-materials-faculty-2026]] — La IA generativa en los materiales de curso: uso y percepciones del profesorado
 - [[wu-lam-genai-writing-assessment-professors-2026]] — La dirección inversa: decir al estudiantado cuándo la IA califica su trabajo y preguntar antes de subirlo
 - [[kirsanov-beyond-detection-ai-online-assessments-2026]] — Más allá de la detección: cómo el estudiantado usa y oculta la IA en las evaluaciones en línea
 - [[chang-should-i-tell-my-teacher-ai-disclosure-2026]] — Divulgación de la IA por parte del estudiantado, estigma y aprendizaje autorregulado

@@ -1,7 +1,7 @@
 ---
 title: Descarga cognitiva
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-15T10:16:55-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-11-15T09:05:00-05:00"
+source_updated: "2026-11-16T09:06:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -125,6 +125,8 @@ La evidencia documenta la descarga cognitiva en múltiples dimensiones:
 
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette et al. (2026)]] registran la externalización como experiencia propia de los participantes y no como riesgo teórico: uno dijo que la IA generativa "me impidió leer y descubrir por mí mismo qué es importante en el texto, para desarrollar habilidades de lectura", y otro temía "el desarrollo a largo plazo, en el que me vuelvo peor en ciertas habilidades en las que ahora soy muy fuerte".
 
+**La prueba constitutiva tiene una base en la estructura de la tarea.** [[ho-invariant-core-faculty-development-2027|Ho (2026)]] sitúa la línea entre internet y la IA generativa en la taxonomía SOLO de Biggs. Internet facilitaba las tareas multiestructurales, pero el estudiante aún tenía que construir las conexiones que elevan el trabajo al nivel relacional, mientras que la IA generativa produce esa estructura a petición. Una vez que el artefacto deja de evidenciar el pensamiento relacional que la tarea estaba diseñada para elicitar, la evaluación tiene que ponderar el proceso de producirlo.
+
 - **El efecto está en la división del trabajo, no en la herramienta.** Nakamura (2026) sostiene que la heterogeneidad de los efectos de la IA generativa en el aprendizaje se disuelve cuando la unidad de análisis pasa a ser el reparto del trabajo cognitivo entre estudiante y máquina. La externalización aumenta el aprendizaje cuando descarga operaciones periféricas al objetivo actual, y arriesga la erosión cuando se salta el procesamiento constitutivo de ese objetivo ([[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]). Procesar sustantivamente la salida, o reconstruirla después, es lo que rescata una externalización que de otro modo sería constitutiva.
 - **Lo que una persona puede entregar depende de su experiencia con la tarea.** [[akcaoglu-offloading-ladder-experience-2026|Akcaoglu (2026)]] hace que el orden de las tareas sea relativo a la persona: lo que es de orden superior para un novato es de orden inferior para quien ya domina el procedimiento, así que la externalización permitida debería crecer con la experiencia y detenerse en el núcleo del trabajo.
 
@@ -134,11 +136,12 @@ La evidencia documenta la descarga cognitiva en múltiples dimensiones:
 
 [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] informa de un experimento preregistrado (N = 317) en el que adultos aprendieron contenido nuevo a partir de hojas de trabajo convencionales o de un asistente de propósito general restringido a esas mismas hojas. La condición con IA redujo la descarga cognitiva medida en lugar de aumentarla (mediana de −0,27, intervalo creíble del 95% de −0,58 a 0,04). El procesamiento profundo cayó aun así, pero por una cadena en la que una menor descarga se asoció con un menor [[critical-thinking|pensamiento crítico]], que a su vez predijo un procesamiento profundo más débil (0,78). La desorganización aumentó en 0,84 sin que ningún mediador canalizara el efecto. El hallazgo es una advertencia para el relato estándar: la descarga no es la única vía por la que un entorno de [[generative-ai|IA]] erosiona el procesamiento, y una condición puede dejar la descarga intacta mientras suprime aquello que se suponía que la descarga protegía.
 
+- **La disposición, y no la cantidad, decide si la externalización ayuda.** El estudiantado universitario que usó IA generativa dentro de hojas de trabajo de pensamiento de diseño que mantenían en manos de quien aprende el encuadre del problema, la comparación y la revisión informó una mayor [[self-efficacy|autoeficacia]] creativa y productos mejor valorados que el estudiantado que usó el mismo modelo sin restricciones ([[wang-design-thinking-scaffolds-agency-preserving-ai-2026|Wang, 2026]]).
+
 ### Externalizar la empatía, no solo la cognición
 
 El mismo trueque se aplica al trabajo emocional, y ahí la evidencia es más reciente. [[shastry-gray-empathy-offloading-2026|Shastry y Gray (2026)]] denominan externalización de la empatía a este fenómeno: cuando un sistema puede ofrecer apoyo emocional, las personas aportan menos del suyo (N = 2.223 en cuatro estudios). La disposición a entregar la empatía a un modelo siguió a la creencia en la capacidad del modelo para tenerla (b = 0,44), y un experimento que elevó esa creencia mediante una cobertura informativa ordinaria desplazó la externalización a través de ella (indirecto 0,73, directo no creíble). La parte instructiva está en dónde se separan el autoinforme y la conducta: al saber que un estudiante había recibido apoyo de un chatbot, los participantes valoraron su propia externalización como menor que ante un amigo o un terapeuta, y después eligieron menos palabras de empatía y más palabras de indiferencia sobre ese estudiante.
 
-- **La disposición, y no la cantidad, decide si la externalización ayuda.** El estudiantado universitario que usó IA generativa dentro de hojas de trabajo de pensamiento de diseño que mantenían en manos de quien aprende el encuadre del problema, la comparación y la revisión informó una mayor [[self-efficacy|autoeficacia]] creativa y productos mejor valorados que el estudiantado que usó el mismo modelo sin restricciones ([[wang-design-thinking-scaffolds-agency-preserving-ai-2026|Wang, 2026]]).
 - **La descarga se divide en una ganancia visible y una pérdida invisible.** [[pradubwate-illusion-ai-competence-miscalibration-2026|Pradubwate (2026)]] sostiene que el fallo de calibración es una inferencia *transdimensional* y no un exceso de confianza general. La competencia operativa (formular instrucciones, iterar, integrar) devuelve retroalimentación inmediata e inequívoca, mientras que la competencia evaluativa (juzgar si una salida es exacta) devuelve una retroalimentación tardía, escasa o ausente. La descarga eleva la comprensión percibida y reduce el procesamiento profundo a la vez, y solo la primera se experimenta. Por eso las advertencias sobre las limitaciones de la IA son intervenciones débiles: abordan creencias sobre el sistema mientras la ilusión la genera una ausencia en la propia experiencia de quien la usa. La revisión es conceptual y no aporta datos propios.
 
 ## Dependencia excesiva: cuando la externalización se vuelve dañina
@@ -306,3 +309,4 @@ Dos estudios recientes dotan a la descarga de un aparato de medición. La escala
 - [[ayasrah-executive-function-learning-difficulties-scale-2026]] — Seis dimensiones autoinformadas de la dificultad de aprendizaje mediada por IA
 - [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — El estrés académico media entre la dependencia de ChatGPT y la disfunción ejecutiva
 - [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — La descarga cognitiva en la era de la IA generativa: una revisión narrativa que la vincula con la memoria, el aprendizaje y la función ejecutiva
+- [[ho-invariant-core-faculty-development-2027]] — Los niveles SOLO explican por qué la IA generativa puede suministrar el artefacto relacional, de modo que la evaluación debe ponderar el proceso (Ho 2026)

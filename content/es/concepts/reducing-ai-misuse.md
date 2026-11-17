@@ -1,7 +1,7 @@
 ---
 title: Reducir el mal uso de la IA
 created: "2026-09-28T21:04:13-04:00"
-updated: "2026-11-15T10:16:34-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -10,7 +10,7 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -79,17 +79,7 @@ Las palancas educativas vuelven a verse distintas cuando la integridad se trata 
 
 - **[[desirable-difficulties|Fricción productiva]] y función pedagógica.** La revisión rápida de Sídney sostiene que la IA generativa socava el aprendizaje cuando permite al estudiantado eludir la fricción cognitiva y metacognitiva necesaria para aprender, y que las herramientas diseñadas con intención introducen *fricción productiva* (retener respuestas, pedir explicaciones). Distingue cuatro funciones pedagógicas —aprender *de*, *con*, *sobre* o *moldeando* la IA generativa—, cada una con exigencias distintas respecto a la agencia y la evaluación.([[young-people-learning-generative-ai-rapid-review-2026|Arthars et al., 2026]])
 
-## Concepciones erróneas
-
-**«Enseñar al estudiantado sobre los riesgos es la principal palanca contra el mal uso.»** Es la palanca que depende de que el estudiantado coopere, y por eso se sitúa por debajo de las estructurales en esta página. Las salvaguardas y el rediseño de la evaluación funcionan tanto si el estudiantado elige la conducta correcta como si no; los enfoques educativos solo funcionan con adhesión. La distinción no es moral sino mecánica: un entorno cambiado constriñe la conducta directamente, mientras que una creencia cambiada tiene que sobrevivir a la noche antes de la entrega.
-
-**«Si una salvaguarda se sostiene durante la sesión, el aprendizaje está asegurado.»** Sostener y enseñar son resultados distintos, y la evidencia contiene un doble resultado limpio. Retener la posición agregada en un debate [[agentic-ai|multiagente]] redujo el cambio del estudiantado hacia una posición incorrecta de la IA del 42–60,5% al 5,7–8,2% —un efecto protector grande— y sin embargo no produjo **ningún efecto de aprendizaje dentro de la sesión** (β = 0,03, p = 0,18). El rail hizo su trabajo como rail y no se convirtió en instrucción. Diseñar para prevenir el mal uso no es lo mismo que diseñar para el aprendizaje.
-
-**«Detectar el mal uso y castigarlo es una estrategia de prevención.»** La prevención tiene que cubrir también al propio corrector. [[humble-prompt-injection-ai-grading-red-team-2026|La evaluación de red-team de Humble (2026)]] encontró que dos de cinco estrategias de inyección indirecta de prompts incrustadas en un archivo de entrega elevaron la puntuación de un ensayo suspenso. Una canalización que detecta el mal uso del estudiantado mientras confía en el contenido de la entrega sin examinarlo está defendida por un solo lado.
-
-**«El mal uso es un problema de motivación del estudiantado.»** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher y Calderon (2025)]] suben la restricción vinculante un nivel, tratando la gobernanza y no la conducta del estudiantado como lo que hay que cambiar, y proponen un marco de 130 indicadores de integridad. Y el daño al aprendizaje es medible a escala: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei y Wu (2026)]] encontraron que externalizar los deberes subió las notas de deberes un 18% mientras *bajaba* las notas de los exámenes con libros cerrados un 20%, un fallo de diseño que aparece justo en la brecha entre desempeño y aprendizaje.
-
-## Orientación para la implementación por rol
+## Implicaciones para la práctica
 
 **Para el profesorado y los equipos docentes**
 
@@ -107,6 +97,16 @@ Las palancas educativas vuelven a verse distintas cuando la integridad se trata 
 **Para la administración y los responsables de políticas**
 
 - Sitúe la restricción vinculante donde la evidencia la sitúa. Los indicadores y las estructuras de gobernanza abordan el entorno; la exhortación al estudiantado se dirige a la persona con menos capacidad de cambiar el diseño institucional.
+
+## Concepciones erróneas
+
+**«Enseñar al estudiantado sobre los riesgos es la principal palanca contra el mal uso.»** Es la palanca que depende de que el estudiantado coopere, y por eso se sitúa por debajo de las estructurales en esta página. Las salvaguardas y el rediseño de la evaluación funcionan tanto si el estudiantado elige la conducta correcta como si no; los enfoques educativos solo funcionan con adhesión. La distinción no es moral sino mecánica: un entorno cambiado constriñe la conducta directamente, mientras que una creencia cambiada tiene que sobrevivir a la noche antes de la entrega.
+
+**«Si una salvaguarda se sostiene durante la sesión, el aprendizaje está asegurado.»** Sostener y enseñar son resultados distintos, y la evidencia contiene un doble resultado limpio. Retener la posición agregada en un debate [[agentic-ai|multiagente]] redujo el cambio del estudiantado hacia una posición incorrecta de la IA del 42–60,5% al 5,7–8,2% —un efecto protector grande— y sin embargo no produjo **ningún efecto de aprendizaje dentro de la sesión** (β = 0,03, p = 0,18). El rail hizo su trabajo como rail y no se convirtió en instrucción. Diseñar para prevenir el mal uso no es lo mismo que diseñar para el aprendizaje.
+
+**«Detectar el mal uso y castigarlo es una estrategia de prevención.»** La prevención tiene que cubrir también al propio corrector. [[humble-prompt-injection-ai-grading-red-team-2026|La evaluación de red-team de Humble (2026)]] encontró que dos de cinco estrategias de inyección indirecta de prompts incrustadas en un archivo de entrega elevaron la puntuación de un ensayo suspenso. Una canalización que detecta el mal uso del estudiantado mientras confía en el contenido de la entrega sin examinarlo está defendida por un solo lado.
+
+**«El mal uso es un problema de motivación del estudiantado.»** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher y Calderon (2025)]] suben la restricción vinculante un nivel, tratando la gobernanza y no la conducta del estudiantado como lo que hay que cambiar, y proponen un marco de 130 indicadores de integridad. Y el daño al aprendizaje es medible a escala: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei y Wu (2026)]] encontraron que externalizar los deberes subió las notas de deberes un 18% mientras *bajaba* las notas de los exámenes con libros cerrados un 20%, un fallo de diseño que aparece justo en la brecha entre desempeño y aprendizaje.
 
 ## Conceptos conectados
 

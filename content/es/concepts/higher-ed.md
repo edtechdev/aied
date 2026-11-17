@@ -1,7 +1,7 @@
 ---
 title: Educación superior
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-15T10:14:47-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -10,7 +10,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-11-15T06:35:59-05:00"
+source_updated: "2026-11-17T07:20:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 connected_resources: [pressing-prompts, teacherserver]
 contributors: [editor]
@@ -95,6 +95,8 @@ Una hora de tutoría con IA resultó estadísticamente equivalente a la tutoría
 La investigación sobre la [[academic-integrity]] y la [[ai-assessment-scale-reform|reforma de la evaluación con IA]] aborda cómo deben rediseñar las universidades la evaluación para un estudiantado capaz de usar IA. Los enfoques [[ai-detection|centrados en la detección]] están dejando paso a la [[authentic-assessment|evaluación auténtica]] y a la evaluación basada en el proceso, incluidas las [[fenton-oral-exams-ai-authentic-assessment-2025|pruebas orales]], los [[roe-assessment-twins-2026|gemelos de evaluación]] y el [[beyond-detection-authentic-assessment-ai-2025|rediseño de la evaluación auténtica]]. El cambio refleja una preocupación más profunda: [[ai-tools-academic-work-cheating-2026|cómo definen el estudiantado y las instituciones el fraude]] con IA, y la [[assessing-quality-ai-generated-exams-field-2025|calidad de los materiales de evaluación generados por IA]]. La automatización de la propia corrección está madurando para el trabajo universitario abierto: [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko y Drlik (2025)]] evaluaron comparativamente once modelos de IA generativa y de incrustación de frases sobre 1.885 respuestas a 24 preguntas de examen de ingeniería del software y encontraron que solo GPTo1 alcanzó una coincidencia casi perfecta con dos evaluadores humanos expertos (kappa de Fleiss 0,82), con los modelos sensibles al contexto superando a los basados en referencias, pero sus costes de API propietaria llevaron a los autores a recomendar un despliegue híbrido con participación humana para las instituciones con recursos limitados. En el nivel de los programas profesionales, [[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026)]] muestran que la puntuación con [[llm]] (GPT-4) de preguntas abiertas de examen [[medical-education|médicas]] previas al prácticum puede alcanzar una coincidencia de sustancial a casi perfecta con el profesorado evaluador (kappa ponderada de hasta 0,94) tras un refinamiento iterativo de la rúbrica por personas, si bien los autores siguen recomendando mantener a las personas en el proceso para arbitrar las discrepancias residuales. En complemento de esta evidencia a nivel de modelo, [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat, Das, Bhaumik y Thambi (2026)]] corrigieron un examen universitario de farmacia de 21 ítems con ChatGPT-5 y encontraron una coincidencia casi perfecta con el profesorado en los ítems objetivos (CCC 0,935–1,000), pero una coincidencia poco fiable en los ítems de respuesta breve y de ensayo, sin que la entrega de la rúbrica mejorara el rendimiento de forma sistemática, lo que refuerza el argumento a favor de una corrección [[human-in-the-loop-ai|híbrida, con participación humana]] en la evaluación universitaria.
 
 Una tercera vía endurece la propia tarea: presentar los enunciados como imágenes perturbadas elevó el fallo de los LLM al completar la tarea del 7,4% al 55,6% e hizo que el error de extracción de Tesseract llegara al 100,0%, lo que replantea la integridad como diseño de contenido que complementa la detección en lugar de sustituirla ([[airri-machine-resistant-reading-interface-2026|Salaun et al., 2026]]).
+
+La versión de ese corolario en el plano del diseño es el argumento de [[klapproth-constructive-alignment-genai-2026|Klapproth]] de que la [[generative-ai|IA generativa]] no invalida la alineación constructiva, sino que obliga a extenderla. Los resultados de aprendizaje deben especificar las condiciones de desempeño —con IA, sin ella o con uso declarado—, porque una misma tarea bajo condiciones distintas mide cosas distintas. La afirmación más incisiva de la revisión es que la IA recorre una de dos vías, andamiaje o atajo, y cuál domina lo decide el diseño de la tarea y el formato de evaluación, no la herramienta.
 
 ## Implicaciones para el profesorado de educación superior
 
@@ -186,3 +188,4 @@ Una tercera vía endurece la propia tarea: presentar los enunciados como imágen
 - [[kumar-chatgpt-academic-assignments-2025]] — La conciencia ética no predijo el rendimiento autodeclarado en las tareas (β = −0,006, p = 0,924)
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Cuatro perfiles de adopción dentro de una misma universidad; el hábito fue el predictor más fuerte y el nivel educativo no moderó
 - [[kong-ai-employability-cognitive-engagement-2026]] — La adopción y la frecuencia se leen como proxies de la capacidad; casi todos los resultados medidos quedan en el extremo proximal
+- [[klapproth-constructive-alignment-genai-2026]] — La alineación constructiva extendida: los resultados deben enunciar las condiciones de desempeño

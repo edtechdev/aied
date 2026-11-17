@@ -1,7 +1,7 @@
 ---
 title: Limitaciones de la investigación en AIEd
 created: "2026-09-28T20:10:35-04:00"
-updated: "2026-11-15T10:18:59-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T09:58:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -68,6 +68,8 @@ La literatura sobre [[research-methods-aied|métodos de investigación]] detalla
 - **Las etiquetas generadas por modelos no son verdad de referencia.** Cuando las etiquetas que entrenan o evalúan un sistema las producen los propios modelos de lenguaje, el acuerdo entre anotadores no puede establecer validez: [[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado et al. (2026)]] nunca validaron sus anotaciones de aserciones contra etiquetas de referencia humanas, y los 49 clasificadores de codificador que publican heredan esa procedencia y pueden no ser válidos donde las aplicaciones difieren en dimensiones significativas. Su esquema además rindió estrictamente por debajo del clasificador ajustado finamente entrenado con datos anotados por expertos (macro-F1 0,673 frente a 0,76), lo que deja los corpus etiquetados por expertos como algo que merece la pena cuando se requiere alta confianza.
 - **La propia base de evidencia está distribuida de forma desigual.** Una revisión de alcance de 407 estudios sobre [[formative-assessment|evaluación formativa]] apoyada por tecnología se basó solo en Web of Science y Scopus. También excluyó 61 registros por criterios de idioma, así que el desequilibrio geográfico que el campo informa puede reflejar en parte qué sedes están indexadas ([[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]).
 - **Falta el diseño de tres condiciones.** En los doce estudios de IA generativa revisados, ninguno midió el rendimiento asistido junto con una prueba inmediata y otra diferida sin IA con exclusión verificada, así que las ganancias asistidas nunca se vinculan a la retención ([[wei-assisted-performance-unaided-retention-2026|Wei (2026)]]).
+
+**La viabilidad es una clase de resultado, no un prefacio.** Un piloto de dos cohortes de un paciente simulado con IA reclutó a 19 de 72 estudiantes invitados (26%), completó todos los encuentros y encuestas (100%) y no terminó ninguna sesión por un fallo técnico: resultados reales, pero los resultados de viabilidad y aceptabilidad se definieron después de la recogida y no se prespecificaron criterios de progresión ([[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]]). Una tasa de finalización solo informa frente a criterios fijados de antemano; si no, "funcionó" y "se ejecutó" son la misma frase.
 
 ## El problema de la velocidad: la IA evoluciona más rápido que los hallazgos
 
@@ -128,7 +130,6 @@ Dos prácticas de notificación concretas inflan o distorsionan una síntesis, y
 
 Una consecuencia práctica de estos límites es que varias prácticas educativas muy utilizadas se apoyan en una evidencia que no puede sostenerlas; [[what-not-to-do-ai-education|lo que el personal educativo debería evitar hacer con la IA]] recoge esas prácticas por rol y nombra el límite concreto que hay detrás de cada advertencia.
 
-
 ## Concepciones erróneas
 
 - **«Las secciones de limitaciones son texto de relleno.»** Los límites metodológicos son **medibles y no impresionistas**: en una revisión crítica de **80 estudios** de interacción persona-ordenador sobre pensamiento crítico con IA, **42 (el 52%) no tenía grupo de control**. Un recuento preciso es lo que hace la limitación accionable.
@@ -179,3 +180,4 @@ Una consecuencia práctica de estos límites es que varias prácticas educativas
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Encuesta transnacional a docentes de K-12: ítems traducidos automáticamente, medidas de preocupación de un solo ítem, sin pruebas de invariancia
 - [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — Revisión sistemática de 103 estudios de IA generativa en educación superior: 56% de ganancias condicionales, con las notas enmascarando el cambio de proceso (Hawi y Samaha 2026)
 - [[automated-essay-scoring-critical-thinking-physics-2026]] — El aumento de datos puede fabricar la métrica estrella
+- [[tischkau-ai-simulated-patient-formats-2026]] — La viabilidad como clase de resultado propia: 26% de reclutamiento, 100% de finalización, resultados definidos después de la recogida

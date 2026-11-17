@@ -1,7 +1,7 @@
 ---
 title: Educación STEM
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-11-15T10:14:32-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -10,7 +10,7 @@ discipline: [cs education, math education, physics education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/stem-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T22:45:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,8 @@ connected_resources: [teacher-dev]
 ## Introducción
 
 ### STEM como dominio principal de la AIED
+
+La sección de disciplinas ordena las páginas de asignaturas en cuatro conglomerados —[[humanities-education|humanidades y artes]], [[social-sciences-education|ciencias sociales]], STEM y las [[professions-education|profesiones]]—, y STEM es el mayor de ellos con una diferencia amplia, lo que constituye en sí mismo un hallazgo sobre dónde se acumula la evidencia relativa a la IA en la educación.
 
 - **Matemáticas:** la investigación sobre [[math-education|educación matemática]] abarca el [[generative-ai-reduced-study-time-math|impacto de la IA generativa en el aprendizaje de las matemáticas]], la [[ai-powered-personalized-learning-elementary-fractions-2026|tutoría de fracciones en primaria]] y la [[student-math-competence-clustering|agrupación por competencia]].
 - **La evidencia de los ITS en matemáticas es acotada y condicional.** Una revisión narrativa estructurada de 20 publicaciones (2020–abril de 2026) encontró la ventaja medida más clara en la [[feedback]] diagnóstica en tiempo real superpuesta al mismo sistema adaptativo, pero concluyó que la tutoría inteligente apoya el aprendizaje de las matemáticas solo cuando se combinan un [[student-modeling|modelado de quien aprende]] válido, un andamiaje calibrado y la mediación del profesorado, y que la escalabilidad es técnica y no educativa ([[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin et al. (2026)]]).

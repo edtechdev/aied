@@ -1,13 +1,13 @@
 ---
 title: Aprendizaje basado en juegos
 created: "2026-09-28T18:19:10-04:00"
-updated: "2026-11-15T10:12:59-05:00"
+updated: "2026-11-17T16:30:00-05:00"
 type: concept
 pedagogy: [active-learning, game-based-learning, motivation, student-engagement]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/game-based-learning
-source_updated: "2026-11-14T21:52:00-05:00"
+source_updated: "2026-11-16T05:36:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -47,6 +47,8 @@ El GBL se fundamenta en las teorías de la [[motivation]], la [[student-engageme
 - **Separe la IA en un entrenador de diálogo y un motor de dificultad.** Un entorno Roblox mejorado con IA para el pensamiento computacional de secundaria superior emparejó un personaje no jugador basado en GPT-4, limitado a dos o tres frases y al que se impedía dar respuestas, con un motor basado en reglas que fijaba la dificultad a partir del tiempo hasta la solución y la tasa de error ([[hengsawat-ai-game-based-learning-computational-thinking-2026|Hengsawat, Junruang y Kanjug, 2026]]).
 
 - **Salas de escape con un chatbot integrado en el juego.** Una construcción de dos meses produjo una sala de escape 3D en el navegador para ciberseguridad en K-12, con un panel de GPT-4o integrado como un robot al que el estudiantado puede preguntar; el profesorado se sumó a la segunda iteración y cerró un atajo en la cadena de puzles ([[na-yang-escape-room-cybersecurity-2026|Na y Yang (2026)]]).
+
+Una ronda de adivinanzas puede enseñar lo que escribir un prompt por sí solo no enseña. [[kumar-picprompt-game-prompt-engineering-k12-2026|Kumar, Lim, Sotelo y Driscoll (2026)]] crearon PicPrompt, en el que una persona escribe un prompt que un modelo de texto a imagen convierte en imagen y el resto de la mesa adivina el prompt original antes de votar por el intento más cercano, y lo aplicaron con 22 estudiantes de 2.º a 9.º grado en un espacio de aprendizaje informal. Escribir un prompt y ver la imagen enseña causa y efecto, pero adivinar el prompt de otra persona a partir de la imagen es donde la lectura de quien mira resulta no ser la intención de quien lo escribió, y eso es lo que hace que la elección de palabras y la especificidad importen. El conocimiento autoevaluado sobre escritura de prompts pasó de 2,23 a 2,73 en una escala de cuatro puntos (p = 0,118, d = 0,35), y la proporción de quienes nunca habían escrito un prompt cayó de 8 de 22 a 1.
 
 ## Gamificación
 
@@ -114,3 +116,5 @@ El GBL y la gamificación se conectan en conjunto con la [[educational-robotics]
 - [[hengsawat-ai-game-based-learning-computational-thinking-2026]] — Diseño y validación preliminar de un entorno de aprendizaje basado en juegos mejorado con IA para el pensamiento computacional
 
 - [[karampa-students-game-designers-ai-literacy-2026]] — Estudiantes de primaria diseñan un juego de mesa de escape; la alfabetización en IA sube dentro de un laboratorio de curso en línea
+
+- [[kumar-picprompt-game-prompt-engineering-k12-2026]] — PicPrompt: una herramienta basada en juegos para enseñar ingeniería de prompts mediante la generación de texto a imagen en contextos de K-12

@@ -1,7 +1,7 @@
 ---
 title: Calidad de la retroalimentación de la IA
 created: "2026-09-28T21:02:41-04:00"
-updated: "2026-11-15T10:24:54-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale, checking-whether-educational-ai-works]
 type: concept
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [ai-feedback-quality, automated-assessment, feedback, formative-asse
 connected_resources: [my-essay-feedback]
 confidence: high
 translation_of: concepts/ai-feedback-quality
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -96,8 +96,7 @@ Una comparación controlada aísla el componente de retroalimentación del siste
 
 - **La exactitud diagnóstica solo determina en parte la calidad de la retroalimentación, y la [[self-assessment|autoevaluación]] de los LLM se desalinea con el [[human-in-the-loop-ai|juicio humano]]:** [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora y MacLellan (2025)]] encontraron que GPT-4 producía pistas dirigidas al error en torno al 66% de las veces en un tutor de álgebra universitaria, y aun así cerca del 35% eran demasiado generales, incorrectas o revelaban la respuesta; incluso cuando el diagnóstico era erróneo, el modelo a menudo se recuperaba con retroalimentación pertinente y correcta aunque general, si bien casi toda la retroalimentación incorrecta seguía a un diagnóstico equivocado. Sus comprobaciones automáticas de calidad con estudiantes simulados aprobaron solo el 21,4% de las pistas en ambas pruebas, rechazaron la retroalimentación dirigida en torno al 70% de las veces y favorecieron las pistas que simplemente revelaban la respuesta, una demostración contundente de que la [[ai-ed-evaluation|evaluación]] automatizada puede divergir marcadamente de los juicios humanos sobre la utilidad y debe calibrarse contra ellos.
 
-- 
-El acuerdo entre IA y docentes depende del aspecto dentro de una misma tarea de escritura: la F1 alcanzó 0,824 en la elección de vocabulario pero 0,579 en el uso de fuentes y evidencia, donde una fuente debe sopesarse frente a una afirmación ([[automated-scoring-learning-diagnosis-mechanism-2026|Yao y Fan (2026)]]).
+- El acuerdo entre IA y docentes depende del aspecto dentro de una misma tarea de escritura: la F1 alcanzó 0,824 en la elección de vocabulario pero 0,579 en el uso de fuentes y evidencia, donde una fuente debe sopesarse frente a una afirmación ([[automated-scoring-learning-diagnosis-mechanism-2026|Yao y Fan (2026)]]).
 
 - **Una salida estable no es retroalimentación válida:** en 12 vídeos de aula del marco TEACH, la fiabilidad y la exactitud se separaron: el más estable de ocho puntos de acceso de LLM estuvo entre los más débiles frente a expertos certificados (concordancia exacta 0,31), y todos los modelos privilegiaron las señales verbales sobre la evidencia pedagógica implícita, puntuando bajo donde no había directrices ([[melo-llm-classroom-observation-teach-2026|Melo et al., 2026]]).
 
@@ -108,6 +107,8 @@ El acuerdo entre IA y docentes depende del aspecto dentro de una misma tarea de 
 El estilo es una dimensión de calidad con un costo: con el mismo modelo, la retroalimentación directiva puntuó más alto en priorización de los rasgos esenciales y en especificidad, mientras que la retroalimentación [[socratic-method|socrática]] elevó el monitoreo de la comprensión, y la retroalimentación directiva conllevó una mayor carga cognitiva ([[agent-type-feedback-style-self-directed-learning-2026|Han et al. (2026)]]).
 
 Cómo se *produce* la retroalimentación pertenece también a esa lista. En un sistema modular de evaluación automatizada de la escritura para ensayos argumentativos, el [[llm-training-and-fine-tuning|ajuste fino]] supervisado sobre 90 ensayos anotados por docentes produjo retroalimentación inservible: el GPT-4o ajustado superó su ventana de contexto de 8.000 tokens en cada inferencia y el LLaMA-3.3-70B ajustado emitía JSON que no se podía analizar, mientras que indicar directamente a Claude 3.7 generó 630 microcomentarios en 40 ensayos que los docentes juzgaron necesarios y eficaces en el 94,69% de los casos, lo que llevó a los autores a concluir que, para una tarea de generación no determinista, la indicación puede superar al ajuste fino ([[wraft-automated-writing-evaluation-argumentative-2026|Labib et al., 2026]]).
+
+El modelo que interpreta al paciente no es el modelo que debería juzgar el encuentro. En el SimBot de IA de [[kim-ai-simbot-nursing-communication-2026|Kim y Pankhania (2026)]], 98 estudiantes de enfermería previos a la licenciatura entrevistaron a una paciente virtual de 17 años interpretada por GPT-4o, y la retroalimentación de ese modelo resultó inexacta y excesivamente positiva frente a la rúbrica del profesorado. El papel de evaluador pasó a O3-mini, que emitió juicios mejor anclados en la rúbrica, por unos cincuenta centavos por estudiante para toda la canalización de voz. La fidelidad de la persona simulada y la exactitud evaluativa son requisitos distintos, y no cabe suponer que un mismo despliegue satisfaga ambos.
 
 ## Dimensiones de calidad
 
@@ -144,7 +145,6 @@ La evidencia que sostiene esas afirmaciones sobre la calidad es más delgada de 
 Una respuesta correcta en el primer turno puede ser errónea en el tercero: en 11 modelos, el 12,7% cambió a una respuesta incorrecta bajo presión de la autoridad, de modo que la calidad de la retroalimentación debe puntuarse a lo largo de una interacción y no en la primera respuesta ([[liu-educational-sycophancy-2026|Liu y Korolova, 2026]]).
 
 - **Las ganancias de calidad provienen del apoyo a quien revisa, no de la salida bruta.** Los ayudantes que usaron FeedbackWriter adoptaron el 51,3% de las sugerencias de IA y corrigieron el 11,3% de los juicios de la rúbrica de la IA, y después entregaron comentarios más largos y con una cobertura de rúbrica más amplia; la calidad de la revisión subió d = 0,50 sin ganancia en la prueba posterior ([[lu-ai-mediated-feedback-feedbackwriter-rct-2026|Lu et al., 2026]]).
-
 
 ## Concepciones erróneas comunes
 
@@ -216,3 +216,4 @@ Una respuesta correcta en el primer turno puede ser errónea en el tercero: en 1
 - [[evidence-grounded-framework-ai-generated-educational-feedback-2026]] — tres dimensiones de evaluación en 68 estudios, con la alineación con la rúbrica como la más delgada (Yang 2026)
 - [[llm-feedback-handwritten-mathematics-exam-performance-2026]] — divergencia por criterio y por evaluador en 157 mensajes de retroalimentación valorados (Vanhoyweghen et al. 2026)
 - [[liu-educational-sycophancy-2026]] — La corrección depende de la interacción: una tasa de cambio del 12,7% bajo réplica (Liu y Korolova 2026)
+- [[kim-ai-simbot-nursing-communication-2026]] — Simulación con IA: cómo una paciente virtual interpretada por GPT-4o y un evaluador distinto enseñan comunicación en enfermería

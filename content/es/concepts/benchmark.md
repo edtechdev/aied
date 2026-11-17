@@ -1,7 +1,7 @@
 ---
 title: Punto de referencia
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-15T10:12:57-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-17T08:35:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -91,6 +91,20 @@ Los puntos de referencia se conectan con la [[ai-ed-evaluation|evaluación de la
 - **Informar de la capacidad del modelo como un nivel calibrado, y no solo como exactitud.** [[standardized-assessment-llm-english-proficiency-2026|Min et al. (2026)]] asignan 624 ítems anotados por personas expertas a niveles de competencia con nombre propio usando 2.050 respuestas de estudiantes, y encuentran que los modelos de frontera superan el techo calibrado: un límite que un porcentaje oculta.
 - **Una regla de puntuación puede ser burlada por el modelo al que entrena.** Una métrica de [[adaptive-learning|adaptabilidad]] que se maximiza repitiendo una única mejor decisión muestra que el diseño de benchmarks debería publicar el argmax, puntuar la adaptación como una diferencia e informar de líneas base por encima del azar ([[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo y Fernández De la Cruz, 2026]]).
 
+La regla de emparejamiento forma parte de la medición, y su tamaño no es marginal. [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah y sus colegas (2026)]] puntuaron 11 configuraciones —modelos de embeddings, configuraciones de LLM [[generative-ai|generativas]] y un agente ReAct— frente a un benchmark anotado con ESCO de 926 muestras de ofertas de empleo que contenían 1.696 competencias de referencia, y volvieron a puntuar cada una mediante una canalización de emparejamiento de ocho capas. La canalización iba de la coincidencia exacta de cadenas a un umbral de similitud de embeddings de 0,85, y la recuperación medida subió entre 11 y 72 puntos porcentuales en las 11 configuraciones. El mayor salto, de 70,9 puntos, correspondió a Gemini 2.5 Pro con cadena de pensamiento, cuyas descripciones coincidían semánticamente con las etiquetas de referencia pero rara vez de forma léxica: un vuelco que los autores leen como evidencia de que la evaluación por coincidencia exacta medía tanto el formato como la capacidad.
+
+## Dónde viven los puntos de referencia
+
+Un punto de referencia no siempre es un artículo. Tres superficies concentran hoy la mayor parte de la lectura operativa, y difieren en lo que permiten comprobar a quien lee.
+
+Las tablas de clasificación convierten un punto de referencia en una comparación continua. [GradeBench](/resources/gradebench/) puntúa modelos de frontera sobre 464 respuestas STEM manuscritas de 45 cursos universitarios frente a los ítems de rúbrica que el profesorado seleccionó realmente, y el mejor modelo alcanza un 57,3% de coincidencia exacta con la rúbrica. El eje del coste importa más que la clasificación: un modelo 0,8 puntos por detrás cuesta alrededor de una séptima parte por cada mil respuestas. Mide la calificación, no el aprendizaje.
+
+Las tablas de clasificación de detectores responden a otra pregunta. La [tabla de RAID](/resources/raid-benchmark-leaderboard/) puntúa modelos de detección en dominios, configuraciones de decodificación y ataques adversariales, y su tasa de verdaderos positivos con una tasa de falsos positivos del 1% es la columna que importa a escala institucional, donde el 1% son cientos de estudiantes.
+
+Algunos puntos de referencia existen para comparar el acceso y no la capacidad. [Fab AI](/resources/fab-ai-benchmark-leaderboard/) evalúa modelos para la educación en países de renta baja y media en pedagogía, alfabetización fundacional, necesidades educativas especiales y razonamiento visual, con columnas de precio, número de parámetros y peso abierto junto a la puntuación. La dispersión —modelos de frontera en los noventa bajos y modelos abiertos de menos de 2B entre el 21% y el 43%— hace explícito el compromiso de despliegue.
+
+La distinción merece conservarse. La puntuación de una tabla de clasificación es una afirmación sobre un conjunto fijo de ítems y nunca sobre un aula, y estos tres instrumentos discrepan sobre para qué sirve la medición educativa.
+
 ## Concepciones erróneas
 
 - **«La posición en la clasificación indica lo bueno que es un tutor.»** StudentBench **asigna al azar a 2.383 adultos a tutoría con IA, tutoría humana experta en vivo y una condición de vídeo**, y puntúa contra tutores humanos y no contra otros sistemas. Un punto de referencia escalado contra otros modelos responde a una pregunta que nadie necesitaba responder.
@@ -131,3 +145,4 @@ Los puntos de referencia se conectan con la [[ai-ed-evaluation|evaluación de la
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluación de modelos preentrenados para la valoración pedagógica de nuevas preguntas educativas asistidas por IA
 - [[llm-benchmark-secondary-science-topics-2026]] — Un punto de referencia para la comprensión de temas de ciencias de secundaria por parte de los LLM
 - [[llm-tutor-pedagogical-metric-degradation-2026]] — Ocho principios de diseño para benchmarks de tutores de IA, derivados de una métrica que fue optimizada hasta la repetición (Domínguez Figaredo y Fernández De la Cruz 2026)
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — 11 configuraciones frente a 1.696 competencias de referencia: la regla de emparejamiento movió la recuperación entre 11 y 72 puntos porcentuales

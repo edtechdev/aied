@@ -1,14 +1,14 @@
 ---
-title: Educación en humanidades y ciencias sociales
+title: Educación en humanidades
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-11-15T10:15:30-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
-foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
+foundations: [ai-literacy, critical-thinking, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]
 translation_of: concepts/humanities-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-17T07:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -20,84 +20,80 @@ ai_assist:
 
 *Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa.*
 
-> **La educación en humanidades y ciencias sociales (SSH)** — la [[teacher-role|enseñanza]] de las disciplinas que se ocupan de la cultura humana, los valores, el significado y la vida social, entre ellas la historia, la filosofía, la literatura, las lenguas, la sociología y las artes. La IA en la educación SSH plantea preguntas peculiares porque estos campos se centran en la interpretación, el juicio crítico, la autoría y la construcción de significado, procesos que la [[generative-ai|IA generativa]] a la vez apoya y desestabiliza. Aquí la IA funciona menos como tutora de contenido factual y más como mediadora epistémica que reconfigura cómo el estudiantado interpreta los textos, construye argumentos y entiende su propia [[agency|agencia]] como escritores y pensadores.
+> **La educación en humanidades** — la enseñanza de la historia, la filosofía, la literatura, las lenguas, los estudios clásicos y los estudios religiosos, las disciplinas cuyo objeto es la interpretación y no el procedimiento. La [[generative-ai|IA generativa]] importa aquí menos como tutora de contenido que como mediadora epistémica: puede producir al instante una lectura plausible, lo que convierte la autoría, el juicio sobre las fuentes y la posición de quien lee en aquello que un curso tiene que proteger. El clúster se sitúa bajo la [[discipline-specific-aied|IA en las disciplinas]], junto a la [[social-sciences-education|educación en ciencias sociales]], que estudia a las personas en agregado, y junto a la [[arts-and-media-education|educación en artes y medios]] y la [[music-education|educación musical]], donde el aprendizaje se encarna en un artefacto fabricado. La cobertura se concentra en la [[higher-ed|educación superior]] y en estudios de un solo curso.
 
 ## Preguntas para reflexionar
 
-- Las humanidades valoran la interpretación, la autoría y el juicio crítico, justo las capacidades que la IA generativa más desafía. ¿En qué medida eso hace que la integración de la IA en estas disciplinas sea distinta de la de STEM?
-- La IA actúa como una «mediadora epistémica» que puede externalizar su pensamiento interpretativo e hibridar su autoría. Cuando la IA le ayuda a interpretar un texto, ¿quién está interpretando en realidad?
-- Se identifican tres trayectorias para quien aprende: interpretación dependiente de la IA, mejorada con IA y crítica con la IA. ¿Dónde cree que se sitúa hoy la mayoría del estudiantado de humanidades, y qué lo llevaría hacia el extremo crítico con la IA?
-- En la educación histórica, la [[research-methods-aied|investigación]] muestra que la IA puede moldear el razonamiento y la interpretación de las fuentes, incluso mediante filtros que «protegen» al estudiantado. ¿Cómo enseñaría a su estudiantado a interrogar la mediación que hace una IA de las afirmaciones históricas?
-- Si la autoría original y la autonomía interpretativa son los valores centrales de las humanidades, ¿qué significa que la IA pueda producir una interpretación plausible al instante? ¿Qué capacidad humana se vuelve más valiosa, y no menos?
-- La IA no debería tratarse como tutora de contenido en campos centrados en la construcción de significado. ¿Cómo sería usar la IA deliberadamente para profundizar, en lugar de aplanar, el análisis crítico del estudiantado?
+- Si un modelo puede suministrar en segundos una lectura competente de un texto, ¿qué enseña el curso: la lectura o el juicio sobre qué lectura merece confianza?
+- Voicu distingue la interpretación dependiente de la IA, la mejorada con IA y la crítica con la IA. ¿Dónde se sitúa su estudiantado, y qué lo llevaría hacia el extremo crítico?
+- Una auditoría encontró que el 58,6% de los ítems de evaluación de las unidades de Artes y Humanidades tenía una alta exposición a la IA generativa. ¿Cuáles de sus evaluaciones sobrevivirían a esa exposición, y cuáles están expuestas por su formato y no por su materia?
+- Cuando un curso de historia restringe lo que un modelo puede decir sobre una fuente, ¿qué protege la restricción: el juicio del estudiante o la conclusión del docente?
 
 ## Introducción
 
-La educación SSH es un área temática propia, complementaria a la [[stem-education|educación STEM]] y al [[language-learning|aprendizaje de idiomas]]. Como las humanidades valoran la profundidad interpretativa, la autoría y el juicio contextual, plantean retos de integración de la IA distintos de los de STEM, y se conectan con la [[higher-ed|educación superior]] y la [[ai-literacy|alfabetización en IA]] de maneras [[discipline-specific-aied|específicas del dominio]].
+Las humanidades son el conjunto de disciplinas que interpretan la cultura humana: historia, filosofía, literatura, lenguas, estudios clásicos y estudios religiosos. Su pedagogía característica es el seminario, y su evaluación característica es un argumento defendido en prosa. Eso las convierte en la parte del currículo donde la capacidad central de la IA generativa —texto fluido y plausible— incide de la forma más directa sobre lo que se califica.
 
-La educación cívica y política es un área temática hermana de estas disciplinas y no una rama de ellas, y [[civic-and-political-education]] la trata por derecho propio. La evidencia en ese ámbito es escasa: ocho fuentes tocan el tema y ninguna mide el aprendizaje cívico.
+Dos fronteras importan para leer la evidencia. La primera son las artes: la [[arts-and-media-education|educación en artes y medios]] y la [[music-education|educación musical]] cubren disciplinas en las que el aprendizaje se encarna en un artefacto fabricado, y allí el argumento gira en torno al oficio y la interpretación escénica y no a la interpretación de textos. La segunda son las ciencias sociales: la [[social-sciences-education|educación en ciencias sociales]] cubre política, economía, gestión y estudios ambientales, donde el objeto de estudio son las personas en agregado y el método suele ser cuantitativo. Las humanidades no comparten método con ninguna de las dos, y los estudios que siguen tratan específicamente de la interpretación textual e histórica.
 
-### Cómo aparece la IA en la educación en humanidades y ciencias sociales
+La [[philosophy-of-ai-in-education|filosofía de la IA en la educación]] aporta los términos en los que argumenta este clúster: autoridad epistémica, autoría y qué cuenta como una lectura defendible de un texto.
 
-- **Reestructurar la cognición interpretativa.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] sostiene que la IA generativa actúa como una *mediadora epistémica* que reconfigura la construcción de significado, la autoría y la [[agency|agencia]] de quien aprende en la educación SSH. Identifica tres transformaciones —la externalización de la cognición interpretativa, la hibridación de la autoría y la aparición de una agencia epistémica distribuida— y tres trayectorias de desarrollo (interpretación dependiente de la IA, mejorada con IA y crítica con la IA). Esto fundamenta un modelo [[pedagogy|pedagógico]] desarrollista y crítico para preservar la profundidad interpretativa.
-- **Lo que una tarea permite ver a quien lee decide si la autoría es evaluable.** En una simulación de modelos de 148 textos, los memorandos y las defensas de revisión puntuaron 3,16 y 3,10 en visibilidad argumentativa frente a 2,63 de los ensayos de postura, porque el propio formato exigía explicar las fuentes o responder a las objeciones ([[liu-argumentative-work-visible-genai-assessment-2026|Liu y Liu (2026)]]).
-- **Educación histórica.** [[paternalistic-filter-llm-history-education|La investigación sobre los LLM en la educación histórica]] examina cómo la IA da forma al razonamiento histórico y a la interpretación de las fuentes.
-- **Experiencias del estudiantado de humanidades y ciencias sociales.** [[genai-impact-chinese-students-hss|El impacto de la IA generativa en el estudiantado chino de humanidades y ciencias sociales]] y [[acceptance-ai-english-tools-2026|la aceptación de la IA entre quienes aprenden idiomas e inglés]] documentan los efectos sobre el estudiantado en distintas disciplinas SSH.
-- **Dimensiones críticas y filosóficas.** [[voicu-ai-interpretive-cognition-ssh-2026|La alfabetización crítica en IA]] y la [[philosophy-of-ai-in-education|filosofía de la IA en la educación]] son especialmente relevantes en SSH, donde las cuestiones de significado, valores y autoridad epistémica son centrales.
-- **Transformación digital [[governance|institucional]].** Qin (2026) documenta cómo la Universidad de Lingnan se reposicionó como «institución de artes liberales orientada a la investigación en la era digital», al exigir alfabetización en IA generativa a todo el estudiantado de grado (incluido un curso obligatorio de primer año del tronco común sobre IA generativa que abarca espacios latentes, GAN, modelos de difusión, [[prompt-engineering|prompts]], [[llm-training-and-fine-tuning|ajuste fino]], sesgo y desinformación). El artículo de posición sostiene que el giro de la IA hacia la educación es una *transformación intelectual* y no una mejora tecnocéntrica, y sitúa la [[ai-literacy|fluidez digital]] como competencia central de las artes liberales, mientras que un modelo [[human-in-the-loop-ai|con intervención humana]] pone en primer plano el razonamiento [[ethics|ético]], el juicio crítico y la responsabilidad social: un plano concreto para que la [[higher-ed|educación superior]] equilibre la innovación con la [[generative-ai|IA generativa]] y los fundamentos humanísticos.
+## Cómo cambia la IA el trabajo interpretativo
 
-- **La exposición evaluativa del sector ya está medida, y está concentrada más que difusa.** [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] auditó 15.587 registros de unidades de Artes y Humanidades en las universidades del Group of Eight de Australia y encontró que el 58,6% de los ítems de evaluación de 2026 tenían una alta exposición a la [[generative-ai|IA generativa]], y que los ensayos para llevar a casa y los informes de investigación representaban el 71,4% de esa exposición una vez ponderada por las notas.
-- [[corbin-essay-time-genai-2026|Corbin et al. (2026)]] replantean esa exposición: el ensayo evaluado ya se había estrechado hasta convertirse en un informe de tesis y evidencia, así que lo que la IA generativa simula es un género de informe, no el pensamiento ensayístico.
+- **La interpretación se externaliza.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu (2026)]] describe la IA generativa como una mediadora epistémica que reconfigura la construcción de significado, la autoría y la [[agency|agencia]] de quien aprende, mediante la externalización de la cognición interpretativa, la hibridación de la autoría y la agencia epistémica distribuida. La respuesta propuesta es desarrollista: enseñar hacia una interpretación crítica con la IA en lugar de prohibir la herramienta.
+- **El ensamblaje de fuentes pasa a los agentes.** [[capodieci-humanities-hil-2026|Capodieci et al. (2026)]] documentan al estudiantado de humanidades usando IA agéntica para reunir fuentes y redactar, lo que desplaza la pregunta de evaluación de si se generó el texto hacia si la interpretación puede atribuirse al estudiante.
+- **La enseñanza de la historia puede filtrar el modelo.** [[paternalistic-filter-llm-history-education|La investigación sobre los LLM en la educación histórica]] examina cómo la IA da forma al razonamiento histórico y a la interpretación de las fuentes, incluso mediante filtros que protegen al estudiantado de afirmaciones que el docente discutiría. [[dumancic-tool-to-method-ai-literacy-history-2026|Dumančić (2026)]] traza el paso contiguo de enseñar la herramienta a enseñar el método, en un estudio de caso construido sobre encuesta y análisis temático.
+- **La creación literaria puede andamiarse en lugar de sustituirse.** [[incipit-axiom-grounded-scaffolding-literary-creation-2026|Incipit]] es un sistema de andamiaje fundamentado para la creación literaria, construido sobre un grafo de conocimiento y un [[llm|LLM]], y su problema de diseño es el de la disciplina: mantener la invención del estudiante en el bucle mientras el modelo aporta estructura.
+- **La versión genérica del problema es el formato de la tarea.** En una simulación de 148 textos, los memorandos y las defensas de revisión puntuaron 3,16 y 3,10 en visibilidad argumentativa frente a 2,63 de los ensayos de postura, porque el propio formato exigía explicar las fuentes o responder a las objeciones ([[liu-argumentative-work-visible-genai-assessment-2026|Liu y Liu (2026)]]).
 
-### Por qué importa
+El marco más claro para el problema propio de las humanidades proviene de [[stornaiuolo-humanities-genai-integrity-framework-2026|Stornaiuolo y Elkins]], que sostienen que la [[academic-integrity|integridad]] y la [[ai-literacy|alfabetización digital crítica]] son un mismo problema educativo y no un problema de reglas más un problema de destrezas. Su constructo conector es el juicio evaluativo: la capacidad del estudiante para juzgar la calidad de una interpretación, que es lo que exigen tanto la integridad como la alfabetización y lo que la detección no puede suministrar. Como los ensayos, los resúmenes y los comentarios son a la vez los instrumentos de evaluación de las humanidades y las salidas más fuertes del modelo, concluyen que la disciplina se encuentra con la IA en su núcleo, y que la evaluación tiene que exigir juicio demostrado en lugar de una mejor vigilancia de los géneros antiguos.
 
-La educación SSH pone en primer plano justo las capacidades que la IA generativa más desafía: la autoría original, el juicio interpretativo, el análisis crítico y la construcción de significado sensible al contexto. La educación SSH se trata como un contrapeso crítico a los marcos instrumentales y basados en destrezas de la IA: se pregunta si el aprendizaje asistido por IA preserva el [[critical-thinking|pensamiento crítico]], la responsabilidad epistémica y la autonomía interpretativa, en conexión con la [[critical-pedagogy|pedagogía crítica]] y la [[ai-literacy|alfabetización en IA]].
+## Lo que muestra la evidencia del sector
 
-La enseñanza de humanidades ha empezado a usar IA agéntica para reunir fuentes y redactar borradores, lo que desplaza la pregunta de evaluación de la disciplina desde si se generó el texto hacia si la interpretación puede atribuirse al estudiantado ([[capodieci-humanities-hil-2026|Capodieci et al., 2026]]).
+La exposición de la evaluación en humanidades está medida y no supuesta. [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] auditó 15.587 registros de unidades de Artes y Humanidades en las universidades del Group of Eight de Australia y encontró que el 58,6% de los ítems de evaluación de 2026 tenía una alta exposición a la [[generative-ai|IA generativa]]. Los ensayos para llevar a casa y los informes de investigación representaban el 71,4% de esa exposición una vez ponderada por las notas, así que la exposición se concentra en un artefacto y no se reparte por el currículo.
 
-## Implicaciones para el profesorado de humanidades y ciencias sociales
+[[corbin-essay-time-genai-2026|Corbin et al. (2026)]] acotan la afirmación: el ensayo evaluado ya se había estrechado hasta convertirse en un informe de tesis y evidencia, así que lo que la IA generativa simula es un género de informe y no el pensamiento ensayístico. Leídos juntos, los dos estudios dicen que el artefacto vulnerable es aquel cuyo pensamiento ya era previsible y repetitivo.
 
-- **Trate la IA como mediadora epistémica, no como tutora de contenido.** [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] muestra que la IA reconfigura la construcción de significado, la autoría y la agencia en SSH: [[design-education|diseñe la pedagogía]] en torno a las tres trayectorias (dependiente de la IA, mejorada con IA y crítica con la IA) y apunte al extremo crítico con la IA.
-- **Proteja la profundidad interpretativa y la autoría.** Como las humanidades valoran el juicio y la autoría original, prevenga que la IA aplane el análisis; convierta la [[ai-ed-evaluation|evaluación crítica de la salida de la IA]] en un objetivo de aprendizaje ([[critical-thinking|pensamiento crítico]], [[ai-literacy|alfabetización en IA]]).
-- **Use la IA deliberadamente en el trabajo con fuentes.** [[paternalistic-filter-llm-history-education|La investigación en historia]] muestra que la IA puede dar forma al razonamiento y a la interpretación de las fuentes: enseñe al estudiantado a interrogar las afirmaciones históricas mediadas por IA y los filtros que esta aplica.
-- **Tenga en cuenta los efectos sobre el estudiantado.** [[genai-impact-chinese-students-hss|Los estudios sobre la experiencia del estudiantado]] documentan cómo la IA generativa afecta a quienes aprenden SSH; adapte el apoyo y el marco de integridad al uso real y no a suposiciones.
+La estrategia institucional también está documentada. [[ai-digital-transformation-liberal-arts-lingnan-2026|Qin (2026)]] describe a la Universidad de Lingnan reposicionándose como institución de artes liberales orientada a la investigación en la era digital, con alfabetización en IA generativa obligatoria para el estudiantado de grado y un curso obligatorio de primer año que abarca espacios latentes, modelos de difusión, formulación de prompts, ajuste fino, sesgo y desinformación. El argumento es que el giro es intelectual y no tecnocéntrico.
+
+## Implicaciones para el profesorado de humanidades
+
+- **Califique la interpretación, no el texto.** Diseñe tareas cuyo trabajo visible sea la selección de fuentes, la objeción y la revisión, siguiendo el efecto de formato descrito arriba.
+- **Trate la IA como mediadora epistémica.** Use las tres trayectorias de [[voicu-ai-interpretive-cognition-ssh-2026|Voicu]] como diagnóstico y apunte al extremo crítico.
+- **Interrogue el filtro.** Cuando un modelo está restringido para no hacer afirmaciones discutidas, convierta la restricción misma en objeto de estudio.
+- **Enuncie el resultado en términos interpretativos.** La [[ai-literacy|alfabetización en IA]] en humanidades es la capacidad de situar la posición de quien lee en un argumento, no la de formular prompts, y el [[critical-thinking|pensamiento crítico]] es la capacidad que ese uso debe desarrollar.
 
 ## Concepciones erróneas
 
-**«Las humanidades son la parte del [[curriculum-design|currículo]] menos expuesta a la IA.»** La exposición se ha medido y está concentrada más que difusa: [[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva (2026)]] auditó **15.587 registros de unidades de Artes y Humanidades** para establecer dónde se sitúa esa exposición. Se distribuye de forma desigual entre unidades en lugar de estar repartida, lo que convierte el rediseño de la evaluación en un problema focalizado y no en uno de todo el sector.
+**«Las humanidades son la parte del currículo menos expuesta a la IA.»** La exposición se ha medido en el 58,6% de los ítems de evaluación auditados, concentrada en ensayos e informes ([[villanueva-ai-vulnerability-assessment-audit-2026|Villanueva, 2026]]).
 
-**«La IA en la educación humanística es una mejora tecnocéntrica.»** El artículo de posición que respalda ese argumento insiste en que el cambio es intelectual y no tecnológico, y en que la [[ai-literacy|fluidez digital]] pertenece a las artes liberales. Añadir una herramienta a un curso sin cambios confunde la transformación con su instrumento.
+**«La IA en la educación humanística es una mejora tecnocéntrica.»** El caso de Lingnan trata el cambio como intelectual y sitúa la fluidez digital entre las artes liberales y no junto a ellas.
 
-**«La educación en valores puede entregarse a un modelo como contenido.»** [[genai-values-education-affordances-risks-2026|Chen (2026)]] replantea la educación en valores como una práctica relacional con tres condiciones —responsabilidad ante el otro, ejemplaridad y dirigirse a alguien— y lee cada una de las cinco posibilidades de la IA generativa como la sustitución de una relación: la perspectiva simulada sustituye al actor al que se puede perjudicar.
+**«La educación en valores puede entregarse a un modelo como contenido.»** [[genai-values-education-affordances-risks-2026|Chen (2026)]] replantea la educación en valores como una práctica relacional con tres condiciones —responsabilidad ante el otro, ejemplaridad y dirigirse a alguien— y lee cada una de las posibilidades de la IA generativa como la sustitución de una relación: la perspectiva simulada sustituye al actor al que se puede perjudicar.
 
-**«El análisis crítico es lo que más amenaza la IA, así que debería restringirse.»** El análisis crítico es también lo que más desarrolla el uso intencionado, cuando la tarea se diseña para profundizarlo en lugar de aplanarlo. Un modelo [[human-in-the-loop-ai|con intervención humana]] sitúa la contribución de la disciplina en el juicio de quien aprende y no en la salida de la herramienta.
-
-**«Un modelo de propósito general sirve tanto para la erudición textual como para resumir.»** La interpretación exige la posición de quien lee, y una capa de asistencia que suministra la lectura ha realizado el acto interpretativo que la disciplina existe para enseñar.
-
-Un cuestionario con IA creado para una unidad obligatoria de musicología de primer año muestra dónde recae la objeción disciplinar. Treinta y cuatro estudiantes del Conservatorio de Música de Sídney usaron un cuestionario adaptativo y gamificado sobre el contenido de las clases. Las quejas que tenían peso disciplinar no versaban sobre la exactitud factual, sino sobre el juicio de correcto o incorrecto aplicado a material interpretativo y sobre la externalización de la pericia; solo uno de los 34 comentarios vinculaba la aplicación con la interpretación crítica o interdisciplinar ([[lee-ai-music-quiz-disciplinary-thinking-2026|Lee et al. (2026)]]). La recomendación de los autores es mantener este tipo de herramientas como repaso opcional y añadir prompts abiertos que separen la coincidencia superficial de palabras clave de la interpretación.
+**«Las humanidades afrontan el mismo problema de evaluación que todas las demás.»** El artefacto es distinto: una afirmación sobre lo que significa un texto, defendida frente a lecturas contrarias, no es un informe de hallazgos y no se convierte en uno porque un modelo pueda escribir informes.
 
 ## Conceptos conectados
 
+- [[discipline-specific-aied]]
+- [[social-sciences-education]]
+- [[arts-and-media-education]]
+- [[music-education]]
 - [[higher-ed]]
 - [[critical-thinking]]
 - [[ai-literacy]]
-- [[critical-pedagogy]]
-- [[philosophy-of-ai-in-education]]
 - [[agency]]
-- [[language-learning]]
-- [[stem-education]]
-- [[ai-education]]
-- [[discipline-specific-aied]]
-- [[civic-and-political-education]]
+- [[philosophy-of-ai-in-education]]
 
 ## Artículos conectados
 
 - [[voicu-ai-interpretive-cognition-ssh-2026]] — Un modelo desarrollista y crítico de la cognición interpretativa para la educación SSH
-- [[paternalistic-filter-llm-history-education]] — Uso de LLM y razonamiento histórico en la educación histórica
-- [[genai-impact-chinese-students-hss]] — El impacto de la IA generativa en el estudiantado de humanidades y ciencias sociales
-- [[acceptance-ai-english-tools-2026]] — Aceptación de la IA entre quienes aprenden idiomas y humanidades
-- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Auditoría computacional de 15.587 unidades de Artes y Humanidades del Go8: el 58,6% de los ítems de evaluación de 2026 con alta exposición a la IA, concentrada en ensayos e informes
-- [[genai-values-education-affordances-risks-2026]] — La IA generativa en la educación en valores: posibilidades, riesgos éticos e implicaciones para la enseñanza (Chen 2026)
-- [[liu-argumentative-work-visible-genai-assessment-2026]] — El formato de la tarea y las instrucciones de uso de IA como aquello que el artefacto puede evidenciar (Liu y Liu 2026)
-- [[capodieci-humanities-hil-2026]] — IA agéntica en el aprendizaje de humanidades y el paso de la autoría del texto a la atribución de la interpretación (Capodieci et al. 2026)
-- [[lee-ai-music-quiz-disciplinary-thinking-2026]] — El estudiantado de musicología objetó el juicio binario del material interpretativo, no el error factual
+- [[capodieci-humanities-hil-2026]] — IA agéntica en el aprendizaje de humanidades y el paso de la autoría del texto a la atribución de la interpretación
+- [[paternalistic-filter-llm-history-education]] — Uso de LLM, filtros y razonamiento histórico en la educación histórica
+- [[dumancic-tool-to-method-ai-literacy-history-2026]] — De la herramienta al método: alfabetización en IA en la enseñanza de la historia
+- [[incipit-axiom-grounded-scaffolding-literary-creation-2026]] — Andamiaje fundamentado para la creación literaria con un grafo de conocimiento y un LLM
+- [[villanueva-ai-vulnerability-assessment-audit-2026]] — Auditoría computacional de 15.587 unidades de Artes y Humanidades del Go8: el 58,6% de los ítems de evaluación de 2026 con alta exposición a la IA
+- [[corbin-essay-time-genai-2026]] — El ensayo evaluado ya se había estrechado a un informe de tesis y evidencia
+- [[ai-digital-transformation-liberal-arts-lingnan-2026]] — Una institución de artes liberales que exige alfabetización en IA generativa en todo el currículo de grado
+- [[genai-values-education-affordances-risks-2026]] — La educación en valores como práctica relacional, y lo que sustituye cada posibilidad de la IA generativa
+- [[liu-argumentative-work-visible-genai-assessment-2026]] — El formato de la tarea y las instrucciones de uso de IA como aquello que el artefacto puede evidenciar
+- [[stornaiuolo-humanities-genai-integrity-framework-2026]] — La integridad y la alfabetización digital crítica como un solo problema, unidas por el juicio evaluativo

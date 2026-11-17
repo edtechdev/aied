@@ -1,7 +1,7 @@
 ---
 title: Metáforas y analogías
 created: "2026-11-07T12:10:00-05:00"
-updated: "2026-11-15T10:16:27-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, misconceptions]
 pedagogy: [student-engagement]
@@ -10,7 +10,7 @@ audience: [instructors, learners, researchers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/metaphors-and-analogies
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -67,6 +67,8 @@ El estudiantado muestra un abanico similar. [[genai-professionalization-metaphor
 
 El hallazgo transversal es que la metáfora es un diagnóstico de la expectativa. Un estudiante que llama oráculo a un LLM no usa simplemente una palabra colorida. La etiqueta predice qué hará cuando el modelo se equivoque y qué creerá sobre la verificación. Un miembro del profesorado que lo llama motor de búsqueda no es simplemente impreciso. La etiqueta predice qué pedirá al estudiantado que haga con él. Por eso los programas de [[educational-development]] pueden usar la elicitación de metáforas antes de rediseñar las políticas o la evaluación, y por eso la [[engineering-education]] y la [[cs-education]] necesitan [[discipline-specific-aied|conversaciones específicas de cada disciplina]] y no una única definición institucional.
 
+[[rodak-hire-ai-future-focused-literacy-2026|Rodak (2026)]] llevó la metáfora del asistente al programa de la asignatura: 72 estudiantes de grado contrataron un asistente con nombre, escribieron su descripción de puesto y su alcance de trabajo. El encuadre cambió la pregunta que se hacía el estudiantado: de si se permitía usar la IA a si una tarea entraba dentro del puesto que habían definido. La lista de alcance de cada estudiante excluía la copia y pega no declarada y las tareas entregadas completas, mientras que el 81% contrató al asistente para preguntas de práctica y corrección de pruebas.
+
 Una línea [[philosophy-of-ai-in-education|filosófica]] empuja la metáfora en otra dirección: [[daoism-ai-education-philosophy-2026|Xie (2026)]] propone «Zhenren» como contraideal del estudiante gestionado por algoritmos, y trata la imagen como una forma de argumentar sobre los fines educativos y no de explicar un proceso técnico.
 
 ## Las analogías como técnica de enseñanza
@@ -112,20 +114,20 @@ Eso es también lo que conecta el trabajo con metáforas con la [[ai-literacy]] 
 - **Mantener cerca la explicación técnica.** Una analogía puede abrir un tema, pero no debería sustituir la instrucción sobre los datos de entrenamiento, la generación probabilística o la diferencia entre una salida fluida y conocimiento verificado.
 - **Evaluar la actividad, no solo la implicación.** La evidencia todavía no muestra que las lecciones basadas en metáforas mejoren la alfabetización en IA o los resultados de aprendizaje. Trate las actividades como diseños que hay que probar y mida qué puede hacer el estudiantado después.
 
-## Concepciones erróneas
-
-- **«Una metáfora memorable es una buena metáfora.»** La memorabilidad no es poder explicativo. El estudiantado puede recordar una analogía vívida y seguir malinterpretando el concepto que debía aclarar.
-- **«Las metáforas son ilustraciones neutras.»** Toda metáfora selecciona algunas características y oculta otras. La elección conlleva supuestos sobre la agencia, la confianza y la responsabilidad.
-- **«Las analogías generadas por IA están listas para usarse.»** Las analogías generadas pueden ser estructuralmente erróneas, culturalmente estrechas o pedagógicamente inadecuadas. Necesitan revisión docente o una tarea de crítica para el estudiantado.
-- **«Si el estudiantado disfruta de la analogía, aprendió el concepto.»** La implicación y el aprendizaje son resultados separados. La base de evidencia aquí es en su mayoría cualitativa y no establece una ganancia de aprendizaje.
-
-## Límites y lagunas de evidencia
+## Dónde la evidencia es escasa
 
 La literatura es desigual. Los estudios sobre metáforas del profesorado y del estudiantado son [[qualitative-research|cualitativos]] y a menudo pequeños. El estudio del profesorado de ingeniería analiza las respuestas a una sola pregunta de entrevista. El estudio sobre profesionalización trata los recuentos de metáforas como exploratorios. El estudio de analogías en el aula tiene diez estudiantes de grado y un factor de confusión entre la personalización y el formato de la explicación. El marco de Roe et al. es conceptual y sus actividades no se han probado con estudiantado. ANVIL es una evaluación de sistema con profesorado, no un estudio de aprendizaje.
 
 Eso no hace inútil el trabajo. Hace que las afirmaciones sean modestas en la medida adecuada. La elicitación de metáforas puede revelar supuestos que las encuestas pasan por alto. La crítica de analogías puede hacer visible la comprensión estructural. Una metáfora bien elegida puede dar a una clase un objeto compartido sobre el que discutir. Pero el campo todavía necesita estudios que comparen la instrucción basada en metáforas con la instrucción ordinaria, midan la transferencia y no el recuerdo de la metáfora, y prueben si el enfoque viaja entre culturas y disciplinas.
 
 El riesgo de exagerar las conclusiones es real en ambas direcciones. Un docente que trata una metáfora como explicación completa puede instalar una concepción errónea. Un investigador que trata la metáfora como mera decoración puede pasar por alto un mecanismo por el cual el estudiantado construye o no construye un modelo mental. La posición productiva es tratar la metáfora como una representación diseñada, parcial y criticable, y estudiar qué hace el estudiantado con ella.
+
+## Concepciones erróneas
+
+- **«Una metáfora memorable es una buena metáfora.»** La memorabilidad no es poder explicativo. El estudiantado puede recordar una analogía vívida y seguir malinterpretando el concepto que debía aclarar.
+- **«Las metáforas son ilustraciones neutras.»** Toda metáfora selecciona algunas características y oculta otras. La elección conlleva supuestos sobre la agencia, la confianza y la responsabilidad.
+- **«Las analogías generadas por IA están listas para usarse.»** Las analogías generadas pueden ser estructuralmente erróneas, culturalmente estrechas o pedagógicamente inadecuadas. Necesitan revisión docente o una tarea de crítica para el estudiantado.
+- **«Si el estudiantado disfruta de la analogía, aprendió el concepto.»** La implicación y el aprendizaje son resultados separados. La base de evidencia aquí es en su mayoría cualitativa y no establece una ganancia de aprendizaje.
 
 ## Conceptos conectados
 
@@ -159,3 +161,4 @@ El riesgo de exagerar las conclusiones es real en ambas direcciones. Un docente 
 - [[code-anchor-multi-view-visualization]] — Andamiajes de visualización metafórica y su problema de legitimidad
 - [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — La metáfora de la «máquina expendedora de retroalimentación» de una estudiante como evidencia de alfabetización
 - [[daoism-ai-education-philosophy-2026]] — «Zhenren» como contrametáfora de la IA en la educación
+- [[rodak-hire-ai-future-focused-literacy-2026]] — La metáfora del asistente contratado y un alcance de trabajo escrito por el estudiantado

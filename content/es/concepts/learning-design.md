@@ -1,7 +1,7 @@
 ---
 title: Diseño de aprendizaje
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-15T10:19:45-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-lite
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: concepts/learning-design
-source_updated: "2026-11-14T21:52:00-05:00"
+source_updated: "2026-11-16T05:34:55-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -97,6 +97,8 @@ El diseño de aprendizaje es la palanca que decide si la IA produce [[learning-g
 Para los diseñadores instruccionales, los desarrolladores de cursos y los ingenieros que construyen experiencias de aprendizaje asistidas por IA, los hallazgos se traducen en práctica accionable. Vale la pena marcar un límite antes de las prácticas mismas: el diseño de aprendizaje tal como se describe aquí es el diseño de un curso para una cohorte conocida, mientras que los mismos principios incorporados en un producto que usarán muchos cursos, impartidos por personas que el diseñador nunca conocerá, son el trabajo de los [[educational-technology-developers|desarrolladores de tecnología educativa]], donde los valores por defecto, la configurabilidad y la documentación tienen peso pedagógico:
 
 **Funde la generación con IA en un modelo instruccional estructurado.** El contenido de IA es tan bueno como la estructura pedagógica que tiene detrás: la estructura explícita, y no la fluidez con la IA, determina la calidad. Diseñe en torno a un modelo reconocido (ADDIE, Dick & Carey, prototipado rápido) y codifique las decisiones pedagógicas de forma explícita en lugar de confiar en que el modelo las infiera.([[courseblueprint-adaptive-video-generation|CourseBlueprint]])([[jeon-isd-agent-bench-2026|ISD-Agent-Bench]])([[didactical-teacher-assistant-dimensional-modeling|Brisson et al.]])
+
+El modelo también es una lista de lo que deja fuera. Al revisar las cinco fases de ADDIE, Williams y Prishtina (2026) encuentran que cada una omite una condición de uso: el acceso a las herramientas en el análisis, la formación del profesorado en el diseño, la adecuación al currículo en el desarrollo, la conectividad y la compatibilidad de software en la implementación, y la creatividad en la evaluación ([[williams-coding-curriculum-critique-2026|Williams y Prishtina, 2026]]). El cambio de rol va en paralelo: en la exposición de [[chng-ai-instructional-design-2023|Ch'ng (2023)]], el personal experto en la materia deja de redactar contenido y pasa a validar lo que produjo un modelo, lo que convierte la capacidad de revisión en el cuello de botella.
 
 **Adopte un marco a nivel de principios además de un modelo instruccional.** Un modelo de nivel de curso estructura un diseño; un marco publicado fija los criterios que muchos diseños deberían satisfacer. Un ejemplo que vale la pena leer completo es *Powerful Learning with Emerging Technology* de Digital Promise, que organiza su orientación en tres principios (basado en evidencia, centrado en quien aprende, constructor de habilidades), cada uno desplegado en prácticas y estrategias, y que vincula la [[privacy|privacidad]], la [[explainable-ai|explicabilidad]] y la equidad a prácticas concretas como obligaciones de seguridad y no como extras opcionales.([[powerful-learning-with-emerging-technology-2025|Mills et al., 2025]])
 **Ajuste la configuración de la IA a la tarea, no a la sofisticación.** [[pchl-he-framework-genai-content-creation-2026|Nalyvaiko (2026)]] distingue cuatro capas (prompt, contexto, arnés y bucle verificado) y aplica un principio de capa mínimamente suficiente: use la configuración menos compleja capaz de dar un resultado verificable, ya que la orquestación añadida trae costos de coordinación, verificación, privacidad y comprensión.
@@ -199,3 +201,6 @@ El diseño modera los efectos más que la tecnología en la síntesis de Zhang y
 - [[yasar-llms-iterative-pedagogical-design-2026]] — Los LLM como agentes de diseño pedagógico iterativo
 - [[zeivots-postdigital-co-design-genai-2025]] — La IA generativa como colaboradora poco fiable en el codesarrollo
 - [[zhang-genai-l2-learning-meta-analysis-2026]] — Metanálisis de tres niveles: la IA generativa actúa mediante la retroalimentación y el diseño dirigido por quien aprende, no como una intervención uniforme (Zhang et al. 2026)
+
+- [[williams-coding-curriculum-critique-2026]] — Codificar el currículo: una crítica de "cómo la IA deja su marca en el diseño instruccional"
+- [[chng-ai-instructional-design-2023]] — Cómo la IA deja su marca en el diseño instruccional

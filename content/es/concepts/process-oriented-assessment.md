@@ -11,8 +11,8 @@ level: [higher ed]
 confidence: high
 connected_resources: [process-feedback, code-viva, vfwa]
 translation_of: concepts/process-oriented-assessment
-updated: "2026-11-15T10:14:15-05:00"
-source_updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-17T15:00:00-05:00"
+source_updated: "2026-11-17T09:26:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -53,6 +53,9 @@ La idea ha pasado de ser una propuesta a ser una recomendación recurrente en to
 El vocabulario de diseño más explícito proviene de Thapa y Lewis, cuyos cuatro compromisos llevan el argumento al diseño de tareas: justificación reflexiva, diseño de tareas por etapas, participación dialógica y transparencia evaluativa. En la práctica, el estudiantado explica decisiones interpretativas en lugar de presentar solo conclusiones, entrega trabajo que se desarrolla a lo largo de puntos de control, participa en intercambios [[oral-assessment|orales o dialógicos]] sobre su razonamiento y trabaja con criterios que puede aplicarse por sí mismo: el terreno de la [[feedback-literacy|alfabetización en retroalimentación]] y la [[self-assessment|autoevaluación]]. La propuesta de Boysen (2026) de prácticas de aprendizaje abierto traduce la misma lógica en un rastro de auditoría: un plan de aprendizaje compartido fijado antes de que empiece el proyecto, un plan de análisis del aprendizaje que nombra las fuentes obligatorias y las prohibidas, y borradores e historiales de versiones documentados, conservados mediante Control de cambios y versiones guardadas de los archivos, que exponen el proceso de trabajo y explican qué informó cada revisión. Lo enmarca como [[self-regulated-learning|autorregulación]] hecha visible.
 
 El rediseño de Alam y Jackson sitúa los mismos compromisos en un único módulo. Veintitrés aprendices del grado de Analista de Negocios de primer año en la Queen Mary University of London trabajaron en 11 equipos autoseleccionados en un ensayo de 1.500 palabras a partir de tres títulos preestablecidos. Se exigieron al menos dos etapas documentadas de desarrollo, y la iteración y la colaboración se escribieron en los criterios de calificación en lugar de solo recomendarse. Se permitió la IA generativa dentro de los límites fijados por el enunciado: ningún texto generado entregado, ninguna reescritura con funciones de herramientas gramaticales y ninguna lista de referencias formateada por IA. Los autores lo presentan como una intuición basada en la práctica de una primera puesta en marcha, no como un efecto medido ([[alam-process-oriented-collaborative-essays-2026|Alam y Jackson, 2026]]).
+Ahmed y Shehata llevan la misma lógica a un marco: la evaluación programática integrada con IA empareja dos tareas sobre el mismo constructo y a la misma dificultad, una sin IA y otra con ella, y lee la brecha entre ambas junto con la evidencia de orquestación como una señal de desarrollo y no como una bandera de copia ([[ahmed-ai-programmatic-assessment-cognitive-development-2026|Ahmed y Shehata (2026)]]).
+
+Francis, Rutherford y Smith convierten el mismo compromiso en una estructura calificable: PACE puntúa cinco dominios de proceso en una escala de agencia de cuatro niveles que va de diferir a criticar, y mantiene el proceso y el producto como resultados separados, de modo que un artefacto pulido construido sobre una dependencia acrítica no puede puntuar como competente ([[francis-pace-framework-genai-assessment-2026|Francis et al. (2026)]]).
 
 Una segunda respuesta estructural proviene de Webb-Davies, Ratner y Bassett, cuya Evaluación Escrita con la Voz Primero (Voice-First Written Assessment) asegura una línea de base autenticada e interpreta todo lo posterior contra esa línea de base. La etapa 1 es observada, no calificada y abierta en cuanto a modalidad; la etapa 2 se escribe en casa con la [[generative-ai|IA]] sin restricciones y se califica según cómo el estudiantado desarrolló el razonamiento anterior. Los autores califican la ambición de mínima: un punto de control más una defensa oral condicional, en lugar de un portafolio de artefactos de proceso ([[webb-davies-voice-first-written-assessment-2026|Webb-Davies et al., 2026]]).
 
@@ -119,6 +122,7 @@ El relato de Thapa y Lewis es conceptual: sin participantes, sin recogida de dat
 - [[equity-in-ai-education]]
 
 ## Artículos conectados
+- [[ahmed-ai-programmatic-assessment-cognitive-development-2026]] — Tres flujos de evidencia, pares de tareas emparejadas y la orquestación como medida del desarrollo cognitivo (Ahmed y Shehata 2026)
 - [[alam-process-oriented-collaborative-essays-2026]] — Un ensayo de proceso calificado y escrito de forma colaborativa en un grado de aprendizaje basado en el trabajo: iteración y colaboración en la rúbrica, con la IA generativa permitida dentro de límites declarados (Alam y Jackson 2026)
 - [[genai-performance-vs-learning]] — el desempeño no es el aprendizaje: una agenda de investigación construida sobre medidas de proceso (Yan et al. 2026)
 - [[human-centered-ai-teacher-educators-2026]] — formadores de docentes que piden tareas resistentes a la IA y basadas en el proceso, construidas sobre la justificación y la reflexión (Baran et al. 2026)
@@ -142,3 +146,4 @@ El relato de Thapa y Lewis es conceptual: sin participantes, sin recogida de dat
 - [[xian-process-visualization-feedback-news-translation-2026]] — Las visualizaciones de proceso más una sesión de reflexión desplazaron la revisión de la superficie al significado sin aumentar el volumen de ediciones
 - [[webb-davies-voice-first-written-assessment-2026]] — Una evaluación escrita en dos etapas que asegura el razonamiento bajo observación antes de calificar una entrega escrita en casa, con una defensa oral condicional para vínculos poco claros (Webb-Davies, Ratner y Bassett 2026)
 - [[black-box-assessment-winstone-2026]] — Black Box Assessment: ventanas sobre el proceso, el error como evidencia y la integridad mediante la visibilidad (Winstone, Gravett y Elkington 2026)
+- [[francis-pace-framework-genai-assessment-2026]] — PACE: puntuar el proceso en una escala de agencia de cuatro niveles (Francis et al., 2026)

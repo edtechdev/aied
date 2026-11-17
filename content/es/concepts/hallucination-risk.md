@@ -1,7 +1,7 @@
 ---
 title: Riesgo de alucinación
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-11-15T10:10:18-05:00"
+updated: "2026-11-17T16:50:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -11,7 +11,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/hallucination-risk
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:34:55-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -55,6 +55,8 @@ El riesgo también depende del idioma: [[genai-l2-written-feedback-scoping-revie
 La **alucinación en la evaluación** es especialmente dañina. **[[llm-cognitive-diagnosis-handwritten-math|MathCog]]** halló que los LLM fabrican citas de evidencia no presentes en la escritura a mano del estudiantado al diagnosticar habilidades cognitivas, con un 58,5% de los diagnósticos incorrectos acompañados de afirmaciones falsas de confianza evidencial. **[[llm-fallacy-misattribution]]** documentó la sobre-atribución sistemática de evidencia en el razonamiento de los [[llm]] — los modelos afirman respaldo evidencial donde no existe ninguno. Ambos conectan con las preocupaciones de [[ai-ed-evaluation]] y [[knowledge-tracing]] en torno a [[assessment-validity]]. [[ivory-psychology-assessment-integrity-2026|Ivory et al. (2026)]] añaden dos modos de fallo visibles cuando la salida de la IA se califica en lugar de inspeccionarse: detalles concretos fabricados que sobreviven a la corrección — un artículo revisado por pares que no existe, completo con un DOI irresoluble, y un tamaño de muestra comunicado como 378 cuando la fuente decía 329 — y la autocontradicción dentro de una única respuesta, donde el modelo razona hasta la opción correcta y luego informa de otra distinta en su resumen final. Dado que las listas de referencias se califican actualmente por su formato y no por su exactitud, esta clase de error alcanza una nota de aprobado a la vez que induce a error al estudiante que usa la misma herramienta para repasar.
 
 En un piloto de diseño de evaluación, [[authentic-assessments-generative-ai-pilot-2026|Paula et al. (2026)]] hallaron referencias fabricadas y estimaciones de tiempo poco realistas que sobrevivían a repetidos prompts y exigían una revisión académica sustancial: alucinación en una herramienta de borradores orientada al docente más que en el trabajo del estudiantado.
+
+**La generación y el reformateo fallan de manera distinta.** Cuando se le pidió una lista de referencias en estilo IEEE sobre células solares de perovskita, ChatGPT devolvió entradas que quienes escribieron el estudio encontraron en su mayoría alucinadas o mal citadas: iniciales, año, volumen y páginas incorrectos, y un artículo de aspecto plausible atribuido a un grupo que nunca hizo ese trabajo ([[maitra-next-gen-literature-reviews-ai-guide-2026|Maitra y Gong, 2026]]).
 
 Las **[[misconceptions]] estratégicas** son un pariente más sutil de la alucinación manifiesta. [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] pidieron a siete modelos de pesos abiertos que produjeran una «[[socratic-method|socrática]] trampa» para 35 conceptos nucleares de informática — una explicación fluida y autorizada que descansa sobre un error sutil y específico del dominio — y tres expertos del dominio confirmaron 221 de 241 segmentos solicitados (91,7%) como ideas erróneas estratégicas, sin diferencias significativas entre los dominios de informática. Los errores eran predominantemente conceptuales más que factuales (66,5% frente a 33,5%) y ninguno era puramente lógico, y fueron valorados como de moderada a altamente persuasivos (M = 3,71 en una escala de cinco puntos), con la identidad del modelo explicando el 43% de la varianza. Dado que afirmaciones individuales pueden ser correctas mientras que la relación entre ellas es errónea, la verificación de hechos resulta insuficiente; los autores sostienen que los [[ai-literacy|estudiantes]] necesitan verificación conceptual y validación de modelos mentales. También advierten de que la tasa mide la capacidad bajo un [[prompt-engineering|prompting]] adversarial más que la prevalencia de tales errores en el uso ordinario, y de que no se puso a prueba a ningún estudiante, de modo que no se midió ningún engaño ni resultado de aprendizaje.
 
@@ -110,3 +112,5 @@ Las **estrategias de mitigación** incluyen diseños de [[human-in-the-loop-ai]]
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Inyecciones de prompt ocultas suben las notas corregidas por IA sin ser detectadas, y los ataques detectados no se comunican (Humble 2026)
 
 - [[authentic-assessments-generative-ai-pilot-2026]] — Diseño de evaluaciones auténticas con IA generativa: un estudio piloto de Assessment Authentifire en educación superior
+
+- [[maitra-next-gen-literature-reviews-ai-guide-2026]] — Revisiones de literatura de nueva generación: una guía práctica de IA para personas investigadoras noveles

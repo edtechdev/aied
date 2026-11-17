@@ -1,7 +1,7 @@
 ---
 title: Implicación del estudiantado
 created: "2026-09-25T04:03:10-04:00"
-updated: "2026-11-15T10:14:32-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [motivation, self-regulated-learning, student-engagement]
@@ -11,7 +11,7 @@ level: [higher ed]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/student-engagement
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -86,6 +86,8 @@ La implicación se operacionaliza mediante una serie de señales observables. La
 
 La elección de la métrica es definitoria: un estudio que mide la implicación como *tiempo en la tarea* puede concluir que una herramienta de IA mejora la implicación cuando el estudiantado pasa más tiempo interactuando con ella, mientras que un estudio que mide la implicación como *procesamiento crítico* puede llegar a la conclusión opuesta con la misma herramienta. Por eso la investigación distingue la implicación (participación) del aprendizaje (ganancia cognitiva real), véase [[genai-performance-vs-learning|rendimiento frente a aprendizaje]], y por eso las métricas de implicación deben validarse contra aquello que afirman medir.
 
+Cuando publicar se califica, un recuento de publicaciones no puede separar la implicación del cumplimiento. En cuatro grupos focales con 26 estudiantes de grado de STEM, la mayoría dijo que publicaba solo para satisfacer la nota, y uno describió el trabajo de discusión como «una cosa más que hay que ir marcando en la lista» ([[reding-discussion-boards-tam-ai-analytics-2026|Reding, Gartner y Nugent, 2026]]). Una métrica conductual es más débil justamente allí donde la actividad se evalúa, porque la nota proporciona la actividad que la métrica registra.
+
 **El autoinforme y los registros conductuales del mismo uso pueden divergir casi por completo.** Keith, Wood y Posey (2026) midieron los modos de implicación con IA dos veces en los mismos 171 estudiantes: una con un instrumento de autoinforme de 29 ítems y otra clasificando 1.353 turnos de transcripción. Ninguna correlación de perfiles emparejados sobrevivió a la corrección con |r| ≥ 0,30, la distancia de variación total media fue de 0,701 y solo 0,002 más cercana que un reemparejamiento aleatorio, y la composición conductual elevó la varianza explicada en 0,166 frente a 0,031 del autoinforme; solo los perfiles observados se asociaron con las puntuaciones de los cuestionarios, donde los turnos de búsqueda de explicaciones acompañaron puntuaciones más altas (r = 0,33, p < 0,001) ([[eight-mode-ai-engagement-typology-2026]]). Un autoinforme sobre cómo se implica un estudiante no aportó casi ninguna información sobre cómo se implicó realmente, lo que convierte la advertencia anterior sobre la elección de métrica en un resultado medido y no en una cautela.
 
 - **La implicación como señal frágil y dependiente de la situación:** [[polished-artifacts-fragile-engagement-2026|Artefactos pulidos, implicación frágil]] y [[genai-tutor-engagement-patterns|patrones de implicación en varias instituciones]] encuentran que la implicación varía según el contexto, la tarea y quien aprende: la misma herramienta produce una implicación fuerte en algunos estudiantes y una conducta superficial de persecución de la salida en otros.
@@ -103,7 +105,6 @@ La elección de la métrica es definitoria: un estudio que mide la implicación 
 Un tema central en la investigación es que la implicación y el aprendizaje deben distinguirse. Las herramientas de IA que generan una implicación alta (tiempo en la tarea, volumen de interacción) pueden no producir aprendizaje si esa implicación es pasiva o sustituye el [[cognitive-offloading|trabajo cognitivo]] de comprender, véase [[genai-performance-vs-learning|rendimiento frente a aprendizaje]]. A la inversa, el esfuerzo productivo y las [[desirable-difficulties|dificultades deseables]] pueden producir aprendizaje incluso cuando la implicación superficial parece menor. Por tanto, lo mejor es tratar la implicación como un *mecanismo*, valioso en la medida en que refleja o habilita un [[cognitive-psychology|procesamiento cognitivo]] significativo, y no como un resultado terminal.
 
 La distinción no es académica. [[pramod-agentic-ai-motivational-pathways-2026|Pramod y Patil (2026)]] sitúan la implicación en el centro de su modelo PLS-SEM, entre la motivación y la [[community-of-inquiry|presencia social]] por un lado y el rendimiento *percibido* por el otro: el coeficiente más grande de su modelo, y aun así una percepción y no una medida del aprendizaje.
-
 
 ## La pedagogía media en el efecto de la IA sobre la implicación
 
@@ -125,7 +126,6 @@ La implicación del estudiantado se conecta con la [[motivation|motivación]] y 
 
 - **La alfabetización en IA actúa sobre la implicación a través de recursos psicológicos (2026):** un estudio de mediación moderada con 1.198 estudiantes de grado en Zhengzhou (China) ([[ai-literacy-learning-engagement-psych-capital-2026|Wang, 2026]]) modeló la implicación como resultado de la [[ai-literacy|alfabetización en IA]] y no como un subproducto del uso de la herramienta. La alfabetización en IA predijo la implicación en el aprendizaje directamente y también indirectamente al construir capital psicológico, con la vía indirecta aportando aproximadamente la mitad del efecto total: mediación parcial, de modo que una competencia tecnológica se convierte en implicación solo en parte a través de los recursos psicológicos que genera. El compromiso profesional, una variable basada en la identidad, moderó el vínculo entre capital psicológico e implicación sin tener ningún efecto directo propio, y la traducción del capital psicológico en implicación fue marcadamente más fuerte en el estudiantado que se veía encaminado a la profesión. El patrón es el caso disponible más claro del punto anterior de que las características de quien aprende condicionan cómo la IA afecta a la implicación.
 - **La práctica previa a clase con IA puede elevar la participación en directo (2026):** un experimento de campo preregistrado con 759 estudiantes de MBA encontró que prepararse con un compañero de discusión basado en la voz con IA elevó las contribuciones voluntarias alrededor de un 31% en sesiones posteriores, pero solo tras un segundo uso; un primer uso precedió a una participación menor ([[assigned-ai-preclass-student-engagement-2026|Wang et al., 2026]]).
-
 
 - **La desimplicación como movimiento a nivel de turno, no como estado estable:** [[rho-disengaged-conversational-behaviors-2026|Rho et al. (2026)]] codificaron 5.522 enunciados del estudiantado dirigidos a un enseñante de IA en Math Nation en seis categorías de desimplicación conversacional (respuesta falsa, burla, fantasma, espejado, retención y aleatorio/ruidoso) y encontraron que la tasa de implicación dominaba con el 75,7% de los enunciados. Las asociaciones basadas en la prevalencia de la respuesta falsa y la burla con las puntuaciones del postest no sobrevivieron a una comprobación de sensibilidad con anotación humana. El análisis secuencial es el resultado relevante para la implicación: el grupo de mayor desempeño combinó una desimplicación moderada con transiciones fuertes de recuperación de la implicación (retención → implicación, p = 0,83), mientras que el más bajo mostró bucles de autorreferencia persistentes sin recuperación (bucle de autorreferencia de la implicación, p = 0,96). La retención fue el único tipo de desimplicación que tendió a persistir en lugar de resolverse: la persistencia frente a la reparación, y no la presencia frente a la ausencia, es la distinción que separa las trayectorias de implicación.
 
@@ -222,3 +222,5 @@ La implicación del estudiantado se conecta con la [[motivation|motivación]] y 
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — El acceso a un tutor de IA redujo la participación registrada en la plataforma en 0,90 SD mientras la entrega de deberes se mantenía (Liu et al. 2026)
 - [[eight-mode-ai-engagement-typology-2026]] — Los perfiles de implicación con IA autoinformados y observados no se correspondían, y solo la conducta se asoció con las puntuaciones de los cuestionarios (Keith, Wood y Posey 2026)
 - [[al-nafjan-genai-eap-writing-engagement-2026]] — Cuatro configuraciones de implicación previstas bajo IA generativa, y por qué la herramienta las amplifica
+
+- [[reding-discussion-boards-tam-ai-analytics-2026]] — Percepciones del estudiantado sobre los foros de discusión: un estudio del modelo de aceptación tecnológica para orientar el diseño de analíticas de aprendizaje con IA

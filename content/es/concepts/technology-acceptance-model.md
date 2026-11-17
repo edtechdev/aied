@@ -1,7 +1,7 @@
 ---
 title: Modelos de adopción tecnológica
 created: "2026-09-28T20:10:39-04:00"
-updated: "2026-11-15T10:13:56-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,7 +10,7 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -95,6 +95,8 @@ El enfoque cognitivo del TAM también capta deficientemente las dimensiones emoc
 
 Una ampliación reciente invierte la dirección habitual y sitúa las creencias motivacionales [[discipline-specific-aied|específicas de la asignatura]] aguas arriba de las percepciones del TAM en lugar de junto a ellas. [[high-school-genai-acceptance-tam-physics-2026|Xue, Xu, Qi y Lu (2026)]] informan de que el valor de utilidad predice la utilidad percibida con β = 0,43 y la expectativa de éxito predice la facilidad de uso con β = 0,39, mientras que las rutas centrales del TAM se atenúan pero siguen siendo significativas.
 
+**La utilidad puede pertenecer al conjunto de tareas y no a la herramienta.** En cuatro grupos focales con 26 estudiantes de grado de STEM, el mismo foro de discusión merecía su tiempo cuando la consigna pedía aplicar lo aprendido o mostraba cómo razonaban sus compañeros y compañeras, y era trabajo de relleno cuando pedía repetir lo ya dicho ([[reding-discussion-boards-tam-ai-analytics-2026|Reding, Gartner y Nugent, 2026]]). Las autorías formulan la conclusión como una afirmación del TAM: la utilidad percibida se adhiere a cómo se construye la consigna y no a la presencia del foro.
+
 **El ajuste tarea–tecnología como vía paralela, y la necesidad como pregunta aparte.** La mayoría de las extensiones anteriores añaden constructos *dentro* del modelo de creencias. Un marco hermano que los estudios del TAM rara vez incorporan es el Ajuste Tarea–Tecnología, que pregunta si las capacidades de una herramienta coinciden con las exigencias de la tarea concreta. [[chu-design-students-ai-agent-tam-ttf-2026|Chu y Liu (2026)]] unieron ambos en 405 estudiantes de posgrado de diseño de universidades chinas, y el ajuste actuó como una segunda ruta hacia la actitud en lugar de como un determinante de la utilidad.
 
 Las características de la tarea alimentaron el ajuste con β = 0,322 y las de la tecnología con β = 0,266. El ajuste alimentó después la actitud con β = 0,224, junto a la utilidad percibida (0,376) y la facilidad de uso percibida (0,185), y la actitud alimentó la intención con β = 0,388. La autoeficacia aportó los coeficientes más altos aguas arriba, 0,458 sobre la utilidad y 0,394 sobre la facilidad de uso. El disfrute percibido elevó la facilidad de uso (0,220) y dejó intacta la utilidad (−0,033, p = 0,483), una escisión instrumental/afectiva que el modelo clásico no traza.
@@ -168,3 +170,5 @@ El vínculo del riesgo con el uso también depende del sistema: en los 49 sistem
 - [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — Rasgos de diseño aguas arriba de las creencias del TAM, e importancia que no es necesidad
 - [[pinedo-genai-adoption-marketing-students-2026]] — El hábito sostiene UTAUT2 en una población que ya adoptó la herramienta
 - [[stalboerger-faculty-perceptions-2026]] — 22 docentes y 12 seguimientos: la familiaridad endureció el escrutinio ético de algunas personas e invirtió la dirección de la facilidad de uso (Stalboerger et al. 2026)
+
+- [[reding-discussion-boards-tam-ai-analytics-2026]] — Percepciones del estudiantado sobre los foros de discusión: un estudio del modelo de aceptación tecnológica para orientar el diseño de analíticas de aprendizaje con IA

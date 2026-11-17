@@ -10,9 +10,9 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-15T10:15:41-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:34:55-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -83,6 +83,8 @@ El profesorado puede tratar la salida de un detector como evidencia y no como ve
 
 Quienes diseñan currículos pueden mantener la producción en el curso. Crear medios es lo que hizo concreta la crítica en los estudios revisados aquí, y generar con IA la apoya solo cuando el estudiantado examina las elecciones que la herramienta hizo por él.
 
+Puntuar el constructo como desempeño y no como actitud pone en evidencia el punto débil. En un ensayo de ocho semanas de Code Craft con 28 estudiantes de grado tailandeses, la alfabetización digital subió de 1,51 a 2,82 en una rúbrica de tres puntos, pero la gestión de la información promedió 1,92 y la creación de información 2,05 frente a 2,36 en comunicación y trabajo con otras personas ([[koraneekij-codecraft-computational-thinking-2026|Koraneekij y Khlaisang, 2026]]). Las puntuaciones más bajas se situaron en el lado productivo del constructo, allí donde un curso que se detiene en la búsqueda y la evaluación nunca llega.
+
 Quienes dirigen programas pueden integrar a un bibliotecario o especialista en medios en el flujo de trabajo. El resultado instruccional más sólido de esta literatura proviene de un diseño en el que la consulta humana estaba integrada y no se ofrecía después.
 
 Quienes desarrollan al profesorado pueden evaluar la capacidad del personal antes de que un departamento escriba su programa. El déficit medido está en el diseño de objetivos y la evaluación de resultados, no en el uso de herramientas.
@@ -124,3 +126,5 @@ La mayoría de los estudios aquí son pequeños, [[self-report-measures|autoinfo
 - [[demir-akar-ai-media-literacy-children-2026]] — Transforming clicks into critical thinking: An AI-based media literacy program for children
 - [[ai-literacies-young-adults-2025]] — Supporting AI Literacies for Young Adults Aged 14-19
 - [[salvi-conversational-persuasiveness-gpt4-2025]] — El GPT-4 personalizado venció a los debatientes humanos; la detección no inmunizó (Salvi et al. 2025)
+
+- [[koraneekij-codecraft-computational-thinking-2026]] — Code Craft: la plataforma de pensamiento de diseño digital y aprendizaje para mejorar el pensamiento computacional y la alfabetización digital

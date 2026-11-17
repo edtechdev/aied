@@ -1,7 +1,7 @@
 ---
 title: Interacción entre el estudiantado y la IA
 created: "2026-09-28T18:15:36-04:00"
-updated: "2026-11-15T10:10:18-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [student-ai-interaction]
@@ -10,7 +10,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/student-ai-interaction
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-17T09:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -95,6 +95,7 @@ La desconexión conversacional tiene su propia taxonomía —burlarse, desaparec
 ## Disciplina e implicación cognitiva en el chat entre el estudiantado y la IA
 
 - **Implicación cognitiva asociada a la disciplina en el chat entre el estudiantado y la IA.** Chang y Li (2026) analizan los prompts del estudiantado a la IA en 116 cursos con un diseño intrapersonal y transdisciplinar, y muestran que las conversaciones entre el estudiantado y la IA reflejan una implicación cognitiva **asociada a la disciplina** y no estilos de interacción individuales fijos. En conjunto, alrededor del 62% de los prompts codificaba una demanda cognitiva de orden superior, pero los perfiles por nivel de Bloom diferían marcadamente según la disciplina: los cursos de [[stem-education|STEM]] provocaban prompts predominantemente de Aplicar (20,8%), los de idiomas de Comprender (31,7%) y los de ciencias sociales de Crear (33,8%). Las comparaciones intrapersonales emparejadas confirmaron que los mismos estudiantes producían significativamente más prompts de orden superior en ciencias sociales que en cursos de STEM (n agrupada = 16, p < 0,001), y la variación a nivel de curso superó la variación a nivel de estudiante: un argumento sólido de que los asistentes docentes de IA deberían diseñarse y evaluarse teniendo en cuenta el contexto disciplinar.
+- **El uso se concentra allí donde el trabajo tiene forma de problema.** En una réplica con 991 estudiantes de cinco universidades estadounidenses, el estudiantado declaró usar la IA en el 88% de sus cursos de ciencias naturales, frente al 52% de los de humanidades y el 36% de los de ciencias sociales, y estudiar había desplazado a escribir como la tarea más frecuente ([[burke-ai-proliferation-college-students-replication-2026|Burke et al., 2026]]).
 - **Cuánto usó el estudiantado la IA no predijo cómo se sintió al respecto.** Entre 819 estudiantes, el género, la pericia en IA autoevaluada y la frecuencia de uso no alcanzaron la significación en un MANOVA (lambda de Wilks 0,997, p = 0,551; 0,990, p = 0,295). Quienes la usaban mucho y quienes la usaban poco en esa muestra mantenían las mismas opiniones ([[ai-chatbots-emotional-support-human-connection-2025|Al-Zahrani (2025)]]).
 - **«Un estudiante no puede mover la nota de un calificador.»** Sí puede, y es el fallo más persistente de la batería: **17 de 22** modelos subieron su nota más tras una objeción escueta que tras pedir una segunda revisión, incluidos **seis de los ocho** que habían superado todas las comprobaciones de manipulación y de respuesta en blanco. El mayor fue Llama 3.2 3B, con **+33,2% de la escala**, y la propia petición de una segunda revisión bajó las notas de **diez** de los 17, así que el contraste no es el efecto bruto de la objeción. [[porcaro-ai-grading-benchmark-2026|Las notas que un estudiante puede discutir necesitan un registro del intercambio]].
 
@@ -141,3 +142,4 @@ La desconexión conversacional tiene su propia taxonomía —burlarse, desaparec
 - [[porcaro-ai-grading-benchmark-2026]] — Más allá del acuerdo: 22 calificadores mediante prompts se enfrentan a sondas cuya respuesta correcta se conoce, y a la mayoría se les puede subir el nivel (Porcaro 2026)
 - [[shen-ai-skill-formation-2026]] — Seis patrones de interacción con la IA, del 86% al 24% en una prueba sin ayuda (Shen y Tamkin 2026)
 - [[cs-students-llm-conceptualizations-prompting-2026]] — ¿A quién (o a qué) le escriben prompts? Cómo el estudiantado de informática conceptualiza y usa los LLM
+- [[burke-ai-proliferation-college-students-replication-2026]] — 991 estudiantes de grado: uso por área de curso (88% ciencias naturales, 52% humanidades, 36% ciencias sociales) y estudiar como tarea principal

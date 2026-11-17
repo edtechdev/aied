@@ -1,7 +1,7 @@
 ---
 title: Realidad virtual y aumentada
 created: "2026-09-28T21:04:13-04:00"
-updated: "2026-11-15T10:24:18-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -9,7 +9,7 @@ ethics: [accessibility]
 confidence: high
 discipline: [medical education, stem education]
 translation_of: concepts/virtual-and-augmented-reality
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

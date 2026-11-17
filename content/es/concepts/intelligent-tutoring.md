@@ -1,7 +1,7 @@
 ---
 title: Tutoría inteligente
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-15T10:12:11-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -11,7 +11,7 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/intelligent-tutoring
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-17T09:26:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 connected_resources: [deeptutor, openmaic, learnharness, ai-tutor-pro-teaching-assistant-pro]
 contributors: [editor]
@@ -71,6 +71,8 @@ Históricamente, **[[mishra-control-vs-agency-history-2025|Mishra et al.]]** sit
 
 La tutoría inteligente es el miembro clásico del *lado de la aplicación* en la familia del [[student-modeling|modelado del estudiante y la instrucción adaptativa]]. Su arquitectura canónica (modelo de dominio, [[student-modeling|modelo del estudiante]] y modelo pedagógico) es precisamente el flujo de "modelar al estudiante y después adaptar la instrucción" que describe la familia. Los ITS consumen las representaciones del estudiante que producen el [[knowledge-tracing|rastreo del conocimiento]] y el [[cognitive-diagnosis|diagnóstico cognitivo]] para seleccionar problemas y andamiar la guía, razón por la cual la tutoría está tan estrechamente acoplada a esos métodos de modelado. Dentro de la familia, los ITS se sitúan junto al [[adaptive-learning|aprendizaje adaptativo]] (el mecanismo de adaptación en tiempo real) y el [[personalized-learning|aprendizaje personalizado]] (el objetivo más amplio) como las [[edtech-platform|plataformas]] que convierten los modelos del estudiante en instrucción.
 
+El plano canónico no tiene un lugar para el educador. En 21 estudios de ITS desplegados en aulas y 435 afirmaciones extraídas, 160 se referían al personal docente, pero 66 de ellas cubrían analíticas y monitoreo del estudiantado, 23 la autoría y configuración, 18 el desarrollo profesional y solo 5 el apoyo a la enseñanza ([[gnadlinger-educator-perspectives-its-design-2026|Gnadlinger y Kriglstein, 2026]]). Un cuadro de mando dice al docente qué hizo el estudiantado; casi nada en esa literatura le dice cómo enseñar con el sistema, que es la brecha que la Interfaz para Educadores propuesta por los autores pretende llenar.
+
 ## ITS frente a la tutoría basada en LLM
 
 La aparición de los [[llm|LLM]] ha creado una tensión productiva en el campo de la tutoría. Los Sistemas de Tutoría Inteligente (ITS) tradicionales ofrecen precisión y transparencia (se sabe exactamente por qué el sistema tomó una decisión concreta), pero carecen de flexibilidad. Los tutores basados en LLM ofrecen diálogo natural y conocimiento amplio, pero pueden alucinar, andamiar en exceso o saltarse el aprendizaje por completo. La [[research-methods-aied|investigación]] moderna explora cada vez más los **enfoques híbridos** que combinan componentes estructurados de ITS con la flexibilidad de los LLM. [[reddig-maclellan-personalized-feedback-llm-2026|Reddig, Arora y MacLellan (2025)]] lo demuestran de forma concreta en el ITS Apprentice Tutor College Algebra: suministrar a GPT-4 la estructura de interfaz del tutor y las estimaciones bayesianas de habilidad del [[knowledge-tracing|rastreo del conocimiento]] dentro del prompt elevó el diagnóstico de errores lógicos del 40% al 81% en factorización (y la identificación de errores en general al 87,8%) y produjo un ~66% de pistas dirigidas al error; evidencia directa de que incrustar un LLM en el marco estructurado de un ITS fundamenta la generación, frena los diagnósticos alucinados y produce retroalimentación correctiva consciente del contexto, aunque alrededor de un tercio de las pistas siguieron siendo demasiado generales, incorrectas o reveladoras de la respuesta.
@@ -89,6 +91,8 @@ Los Sistemas de Tutoría Inteligente representan una de las áreas más antiguas
 
 - **Ensayos microrrandomizados de una plataforma de tutoría:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] realizaron una evaluación de cuatro semanas, multisitio e individualmente aleatorizada de Medly en [[biology-education|Biología]], [[chemistry-education|Química]] y [[physics-education|Física]] de GCSE, con 644 de 929 estudiantes completando el postest; la asignación a la plataforma produjo una g de Hedges de 0,33 (IC del 95%: 0,18 a 0,48) frente a la revisión [[self-directed-learning|autodirigida]] habitual, con estimaciones positivas en las tres materias y sin evidencia de impacto diferencial por desventaja (Pupil Premium g = 0,28 frente a no Pupil Premium g = 0,35).
 - **Un metaanálisis estadounidense de K-12 sitúa el efecto medio en g = 0,271.** En 18 experimentos, los ejemplos resueltos y las pistas solicitadas por el estudiantado sostenían el efecto, mientras que las pistas activadas automáticamente no, y las implementaciones de más de seis meses se diluyeron a un g = 0,110 no significativo ([[leite-its-k12-meta-analysis-2025|Leite et al., 2025]]).
+- **Dónde se traza la frontera de comparación decide el titular.** En 89 estudios de 2015 a 2026, el 80% informó una ventaja, pero contar como comparaciones activas los 15 estudios cuyo control era el mismo software con un módulo desactivado reduce esa proporción del 85% al 39% ([[tararina-its-educational-achievement-systematic-review-2026|Tararina et al. (2026)]]).
+- **Tras un error, andamiar la práctica en lugar de explicar el fallo.** Un experimento preregistrado con 400 personas adultas encontró que los ciclos socráticos de práctica y retroalimentación ganaban 0,24 DE sobre las explicaciones personalizadas del error, y que personalizar la explicación no añadía nada frente a una genérica ([[asher-llm-tutoring-scaffolded-error-correction-2026|Asher et al. (2026)]]).
 - **[[lak2026-hint-button-unproductive-use|La investigación sobre el botón de pistas]]** muestra que el diseño tradicional de pistas de los ITS puede permitir inadvertidamente estrategias de evasión, lo que exige enfoques de [[scaffolding|andamiaje]] más sofisticados.
 - **[[deeptutor]]** proporciona un marco de tutoría agéntica totalmente [[open-source|código abierto]], con tutoría fundamentada en citas y [[automated-question-generation|generación de preguntas]] calibrada por dificultad.
 - **[[huang-interpretable-knowledge-tracing-2026|El rastreo interpretable del conocimiento]]** aborda el problema de la opacidad al producir cantidades cognitivas interpretables a partir de los logits del LLM.
@@ -232,6 +236,7 @@ Dos estudios nuevos examinan quién controla el momento de la ayuda, y ninguno e
 - [[speech-and-voice-technologies]]
 
 ## Artículos conectados
+- [[tararina-its-educational-achievement-systematic-review-2026]] — Revisión sistemática de 89 estudios: el 80% informa una ventaja, pero la frontera de comparación la mueve del 85% al 39%
 - [[rai-calibrating-tutor-initiation-2026]] — 90 estudiantes: la iniciación proactiva no superó al apoyo reactivo (0,14 frente a 0,13) y perjudicó al estudiantado con más conocimiento previo (Rai et al., 2026)
 - [[rotter-access-timing-scaffolding-2026]] — 105 estudiantes: el acceso cronometrado al LLM obtuvo 5,11 frente a 4,03 con acceso sin restricciones en un postest sin ayuda (Rotter et al., 2026)
 - [[west-spark-support-clarity-asynchronous-2026]] — El estudiantado que usó Spark declaró un apoyo y una claridad ligeramente mayores en 4.587 encuestas, un efecto pequeño (West et al. 2026)
@@ -286,3 +291,6 @@ Dos estudios nuevos examinan quién controla el momento de la ayuda, y ninguno e
 - [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — Sin embargo, los modelos listos para usar pueden no suministrar esa evidencia: Worden et al
 - [[multi-sourced-ai-tutor-non-native-english-2026]] — Tutor de IA de múltiples fuentes para estudiantes no nativos de inglés
 - [[wu-hybrid-human-ai-tutoring-architecture-2026]] — Cuatro arquitecturas de tutoría híbrida, el «triángulo de hierro» de eficacia, coste y alcance, y una agenda de investigación micro/meso/macro (Wu et al. 2026)
+
+- [[gnadlinger-educator-perspectives-its-design-2026]] — Hacia la incorporación de las perspectivas del personal docente en el diseño del metasistema de los sistemas de tutoría inteligente
+- [[asher-llm-tutoring-scaffolded-error-correction-2026]] — La corrección andamiada de errores supera a las explicaciones personalizadas en la tutoría con LLM (Asher et al., 2026)

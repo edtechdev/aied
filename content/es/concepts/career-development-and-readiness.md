@@ -1,7 +1,7 @@
 ---
 title: Desarrollo y preparación profesional
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-15T10:16:10-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
@@ -37,7 +37,6 @@ A medida que la IA transforma las ocupaciones, el papel de la educación en el d
 
 ## Cómo aparecen el desarrollo y la preparación profesional en la investigación
 - **La adaptabilidad profesional reduce la ansiedad ante la IA.** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang (2026)]] muestra que las capacidades de adaptabilidad profesional predicen de forma significativa y negativa la ansiedad ante la IA entre estudiantes de filología inglesa, con unas autoevaluaciones centrales que median parcialmente la relación; el grupo de baja adaptabilidad mostró la mayor ansiedad ante la IA. [[duan-ai-anxiety-career-decisions-college-2026|Duan et al.]] confirman el mecanismo con un modelo de ecuaciones estructurales: la ansiedad ante la IA perjudica las decisiones profesionales en gran medida por una adaptabilidad profesional erosionada (63,35% del efecto total), y la autoeficacia ofreció un amortiguamiento limitado. [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün y Danacıoğlu]] añaden que la ansiedad ante la IA y las actitudes negativas hacia la IA predicen la ansiedad por encontrar empleo después de graduarse en 1.057 estudiantes, con las mujeres, el estudiantado de ciencias sociales y el de segundo año como los más afectados. [[dag-ai-perceptions-career-anxiety-health-2026|Dağ et al.]] lo extienden al estudiantado de ciencias de la salud (821, r = 0,233). La preparación profesional es, por tanto, un amortiguador validado empíricamente frente a la [[anxiety-and-stress|ansiedad ante la IA relacionada con la carrera]].
-
 
 - **La preparación se medía por la implicación, no por el nivel de amenaza.** En [[ai-attitude-latent-profiles-career-development-2026|Song et al. (2026)]], el perfil con mayor ansiedad ante la IA seguía informando de la mayor elaboración activa de la carrera (4,222) y de la mayor empleabilidad autopercibida (3,964), junto con el perfil favorable, que no difería significativamente, de modo que el nivel de ansiedad no indexaba la preparación profesional.
 - **La alfabetización en IA es necesaria pero no suficiente.** [[ai-literacy-career-adaptability-business-2026|Testa et al.]] sostienen que la alfabetización en IA por sí sola no basta para la preparación profesional: el estudiantado también necesita adaptabilidad y autoevaluaciones positivas, lo que vincula directamente la [[ai-literacy|alfabetización en IA]] con los resultados profesionales. [[ai-literacy-graduate-employability-2026|Hendrawan y Lestari (2026)]] lo ponen a prueba cuantitativamente con 455 estudiantes de último año en Yakarta: la adaptabilidad profesional conlleva un efecto indirecto significativo (β = 0,173), y la mentalidad de crecimiento no modera en absoluto esa vía, de modo que es la adaptabilidad, y no la mentalidad, la que hace el trabajo.

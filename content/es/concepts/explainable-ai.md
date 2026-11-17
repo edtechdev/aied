@@ -1,7 +1,7 @@
 ---
 title: IA explicable
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-15T10:12:07-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -27,7 +27,6 @@ ai_assist:
     role: translation
     date: "2026-09-28"
     agent: hermes-agent
-
 
 ---
 
@@ -86,7 +85,6 @@ Una lección recurrente en toda la evidencia: **tener una explicación no basta*
 - **Jugar con el sistema:** los estudiantes pueden explotar las explicaciones para sortear el aprendizaje real.
 
 La calidad de la explicación tiene también una dimensión de equidad: una explicación técnicamente presente pero ilegible para una parte interesada concreta, o que oscurece el [[bias-mitigation|sesgo]] de una predicción, fracasa en su propósito. Por eso la pregunta de diseño es la de *calidad y ajuste*, y por eso el diseño de explicaciones centrado en las personas y específico para cada parte interesada es inseparable de la generación técnica de explicaciones. Una XAI eficaz es un acto de comunicación diseñado para las necesidades cognitivas del receptor, y no meramente un artefacto técnico.
-
 
 La explicación no siempre nivela el terreno. En un experimento de viñetas de 2 × 2 con 250 estudiantes de séptimo grado, una justificación escrita de una calificación de matemáticas elevó la aceptación y la justicia percibida en ambas condiciones, pero amplió en lugar de cerrar la brecha entre las decisiones tomadas por el [[teacher-role|docente]] y las tomadas por la IA ([[decision-making-agent-student-decision-acceptance-2026|Zhang et al. (2026)]]).
 

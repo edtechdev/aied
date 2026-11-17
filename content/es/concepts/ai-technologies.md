@@ -1,13 +1,13 @@
 ---
 title: Tecnologías
 created: "2026-09-28T20:12:29-04:00"
-updated: "2026-11-15T10:26:22-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -44,6 +44,8 @@ ai_assist:
 - **IA generativa.** La categoría más amplia de sistemas que producen texto, código, imágenes y otros contenidos: la [[generative-ai|IA generativa]] (impulsada principalmente por LLM) es la tecnología detrás de la ola actual de investigación en [[ai-education|IAED]]. Véanse también los [[multimodal|modelos multimodales]] (texto, imagen, audio) y la [[simulation|simulación]].
 - **Robots y sistemas corporeizados.** La [[educational-robotics|robótica educativa]] añade una presencia [[embodied-learning|corporeizada]] y a menudo [[community-of-inquiry|social]]: kits programables para el [[computational-thinking|pensamiento computacional]] y robots humanoides o sociales para tutoría, [[storytelling-in-education|narración]] y juego de roles. La robótica es una vertiente técnica distinta que se solapa con la [[agentic-ai|IA agéntica]] y el diseño con [[human-in-the-loop-ai|human-in-the-loop]].
 - **Sistemas basados en conocimiento.** Los [[knowledge-graph|grafos de conocimiento]] y la [[educational-nlp|PLN educativa]] representan y procesan conocimiento de dominio, cada vez más combinados con LLM para una tutoría fundamentada y explicable.
+
+Una taxonomía basada en funciones llega más lejos en el desarrollo profesional docente que una lista de arquitecturas de modelos. [[jaksic-engaging-high-school-teachers-ai-2025|Jaksic, Ansaf y Massey (2025)]] organizaron un taller de un día para nueve docentes de secundaria en torno a seis familias de aplicaciones de IA —clasificación, reconocimiento, memoria, toma de decisiones, optimización y predicción—, cada una emparejada con una aplicación que el profesorado ya utilizaba, desde el filtrado de spam hasta la puntuación crediticia. Los docentes llegaron divididos sobre si la IA era una amenaza: el 40% lo pensaba y el 40% estaba indeciso; todos los participantes informaron haber aprendido algo nuevo. La unidad organizadora es lo que hace el sistema, algo que un docente puede reconocer en una herramienta de aula sin saber cómo se entrenó.
 
 ## Técnicas y métodos
 
@@ -117,3 +119,4 @@ La vertiente técnica es inseparable de los demás temas del campo:
 - [[elbench-education-llm-benchmark-2026]] — Punto de referencia de LLM educativos
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — El robot social generativo Teachy Mini
 - [[benzion-ai-physics-simulations-virtual-lab]] — Simulaciones de física generadas por LLM para el aula
+- [[jaksic-engaging-high-school-teachers-ai-2025]] — Acercar la IA a docentes de secundaria: un taller de un día organizado en torno a seis familias funcionales de aplicación, cada una ligada a una herramienta que el profesorado ya usaba

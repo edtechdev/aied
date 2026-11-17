@@ -1,7 +1,7 @@
 ---
 title: "Educación en diseño"
 created: "2026-09-28T18:18:41-04:00"
-updated: "2026-11-15T10:15:45-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -12,7 +12,7 @@ audience: [instructors, instructional designers, curriculum designers, faculty d
 level: [higher ed]
 confidence: high
 translation_of: concepts/design-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -35,6 +35,7 @@ ai_assist:
 - En un experimento, los novatos sin apoyo no revisaron ni una sola idea hasta que un agente adversarial sacó a la luz las objeciones de las partes interesadas. ¿Debería la enseñanza del diseño fabricar fricción de forma deliberada, y dónde termina la dificultad productiva?
 - El papel del diseñador, según esta lectura, pasa de producir formas a juzgar lo que genera la máquina. Si es así, ¿qué va primero en un [[curriculum-design|currículo]]: el oficio manual o la evaluación crítica de la salida de los modelos?
 - Si un [[llm|LLM]] puede aproximarse a las lecturas que hacen de un mismo póster el profesorado, los pares y los revisores de subvenciones, ¿qué le queda al crítico humano?
+- Los equipos que usaron un flujo de trabajo de IA generativa más XR informaron después de una confianza *menor* en su propia capacidad de diseño, y evaluadores a ciegas puntuaron sus presentaciones sin mejor resultado que las de un grupo de control. ¿Qué necesitaría saber antes de concluir que las herramientas perjudicaron el aprendizaje, y qué le haría concluir lo contrario?
 
 ## Introducción
 
@@ -69,6 +70,14 @@ También es distinta del [[design-thinking|pensamiento de diseño]], un método 
 
 - **La crítica con IA puede vincularse al artefacto y no al prompt.** [[critsly-design-education-ai-critique-2026|Kadir (2026)]] canaliza la retroalimentación de taller a través de un tablero compartido de diseños, notas y chinchetas y cinco actividades acotadas; el estudio informa de una preparación simulada (78% de 109 etiquetas en «Analyzing» o por encima), no de [[learning-gains|mejoras de aprendizaje]].
 - **Una rúbrica de proceso puede convertir la verificación con IA en el objeto calificado.** [[human-ai-collaboration-design-education-rubric-2026|Orhon et al. (2026)]] proponen el Merit Report, una rúbrica de cuatro criterios (voluntad curatorial documentada 20%, traducción tectónica 20%, validación técnica basada en reglas 40%, auditoría entre pares 20%) que califica el proceso de verificación con IA documentado por el estudiantado y no el acabado del artefacto, respaldada por una extensión del [[tpack|TPACK]] que denominan Conocimiento de Validación con IA.
+
+## El taller y la crítica bajo la IA generativa
+
+Las herramientas generativas llegan a estas disciplinas a través de un ritual ya existente: el trabajo se hace público, se muestra incompleto y se critica. Lo que muestran las fuentes es que la IA cambia el *medio* de ese proceso de forma más fiable y los *extremos* menos. En el estudio GenARch, [[genai-xr-architectural-design-education-2026|Xiao et al. (2026)]] introdujeron un flujo de trabajo de IA generativa más XR multiusuario en un taller real de diseño arquitectónico de grado y encontraron una división del trabajo complementaria: la [[generative-ai|IA generativa]] externalizaba las ideas, dando a los equipos algo concreto que señalar, comparar y discutir, mientras que la XR sostenía la evaluación, permitiendo al estudiantado juzgar proporción, adyacencia, iluminación y contexto del sitio a escala real.
+
+Las herramientas resultaron incómodas en ambos extremos del proceso. Al principio, los equipos aún no tenían ideas que codificar en un prompt; más tarde, conceptos más ricos hicieron más fácil la [[prompt-engineering|formulación de prompts]] pero elevaron las expectativas de cumplimiento de restricciones, y cuando la precisión importaba el estudiantado volvía a SketchUp y Revit. Informaron de un fallo de fidelidad dimensional —«le pedí que hiciera un muro de 10 pies en el modelo 3D y no medía 10 pies»—, de latencias de recursos de entre segundos y minutos, y de una atención compartida que se desviaba cuando los miembros del equipo miraban partes distintas de un modelo. Dar un visor a cada participante no produjo por sí mismo una [[collaborative-learning|colaboración coordinada]].
+
+Las responsabilidades del taller sí se desplazaron. En un estudio longitudinal de modelos generativos en talleres de diseño, [[genai-architectural-design-studios|Gül et al. (2026)]] distinguen el uso de la IA generativa como estímulo visual en la ideación temprana de un uso combinatorio que amplía el espacio de soluciones durante el desarrollo, y sitúan el problema [[pedagogy|pedagógico]] en la competencia y no en el acceso: sin el discernimiento para diferenciar entre modelos y usarlos de forma deliberada, una producción abundante genera [[design-thinking|fijación en el diseño]] y bloqueo estético. Su conclusión desplaza el [[teacher-role|rol docente]] de transmitir el oficio a acompañar cuándo, cómo y por qué delegar la exploración creativa.
 
 ## Formación profesional y regulación
 

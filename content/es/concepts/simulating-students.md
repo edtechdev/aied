@@ -1,7 +1,7 @@
 ---
 title: Simular estudiantes
 created: "2026-09-28T19:10:59-04:00"
-updated: "2026-11-15T10:14:32-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 type: concept
 foundations: [agentic-ai, teacher-role]
@@ -9,7 +9,7 @@ technology: [cognitive-diagnosis, generative-ai, intelligent-tutoring, knowledge
 audience: [instructors]
 confidence: high
 translation_of: concepts/simulating-students
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-17T11:40:00-05:00"
 translation_note: "Traducción automática de la página en inglés, todavía sin revisar por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -89,7 +89,6 @@ La validez es la preocupación central: un estudiante simulado solo es útil si 
 El fallo está cuantificado: en siete modelos de 4B a 120B parámetros, los simuladores cambiaban a la respuesta correcta a tasas casi uniformes cualquiera fuera la retroalimentación, por lo que la similitud de la salida no dice nada sobre el estado de creencia que la sustenta, mientras que el entrenamiento contra el Selective Flip Score elevó la fidelidad hasta +0,56 ([[llm-student-simulation-misconception-faithfulness|Do, Sonkar y Sachan (2026)]]).
 
 **Los clientes simulados eliminan la fase de aclaración, y el comportamiento de quien se entrena sigue esa pauta.** [[rudolph-llm-simulated-counselling-clients-2026|Rudolph et al. (2026)]] compararon 64 juegos de rol de consejería en chat entre personas con 74 conversaciones persona-LLM (Mixtral 8x7B, 4 bits) bajo el sistema de categorías GeCCo y encontraron que los clientes LLM revelaban el problema incrustado en su prompt en lugar de darle vueltas. En consecuencia, quienes aconsejaban llegaron a la resolución de problemas en el 17,63% del comportamiento codificado frente al 10,67% con clientes humanos, se apoyaron más en la reflexión factual que en la moderación facilitadora, y cerraron las sesiones con formalidades con más frecuencia (11,95% frente a 5,95%). La consecuencia de diseño es que un plan de estudios construido principalmente sobre clientes simulados entrena la segunda mitad de una sesión: lograr que alguien relate algo con reticencia es justo lo que el cliente simulado se salta, de modo que un prompt que haga al cliente reservado lo restaura.
-
 
 ## Conexión con otros conceptos
 

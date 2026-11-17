@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Escritura
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-15T10:24:18-05:00"
+updated: "2026-11-17T16:30:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -12,7 +12,7 @@ level: [higher ed]
 connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
 translation_of: concepts/writing-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-17T07:30:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -115,6 +115,7 @@ Como la escritura no tiene una única respuesta correcta, las herramientas de es
 - **Anclar la retroalimentación en la tarea.** Recuperar el enunciado real, la rúbrica, las lecturas del curso, las convenciones de cita y de género y la política de uso de IA, para que la retroalimentación se refiera a la tarea concreta en lugar de inventar expectativas genéricas.
 - **Tratar de forma distinta las etapas de la escritura.** La participación de la IA en la planificación reduce menos la titularidad percibida que en la redacción, y la redacción generada por IA produce la mayor caída de titularidad. Así, un acompañante puede hacer preguntas y criticar esquemas en la planificación, mientras exige a quien aprende producir primero la prosa en la redacción.
 - **Hacer la retroalimentación priorizada y reflexiva.** Cada ronda puede ofrecer una fortaleza que preservar, un problema de alto impacto, una pregunta que exija el juicio de quien escribe y un objetivo de revisión concreto, y el acompañante debería pedir a quienes aprenden que valoren si están de acuerdo con una sugerencia, desarrollando el [[evaluative-judgment|juicio evaluativo]] en lugar de la obediencia.
+- **Presupueste la etapa de edición que genera el borrador.** En un proyecto de composición de primer año con 28 estudiantes, el descubrimiento central de la segunda cohorte fue que el texto del modelo despoja de voz —una estudiante lo llamó «un bloque o una lista de texto insulso»— y varias personas señalaron que el uso de IA podía aumentar en lugar de reducir el tiempo que lleva una tarea ([[dumin-ai-research-projects-first-year-writing-2026|Dumin, 2026]]). Nombrar y calificar esa etapa de reconciliación enseña la parte con la que el estudiantado realmente lucha.
 - **Enseñar el proceso, y no solo la herramienta.** Una unidad de proceso y género de cinco semanas que construyó la planificación, el análisis de género y la revisión en torno a la escritura multimodal apoyada por IA elevó los tres resultados en un cuasi-experimento con 32 estudiantes de séptimo grado (texto informativo r = 0,66; multimodal r = 0,84; escritura asistida por IA r = 0,86) ([[gunay-ozden-process-genre-ai-writing-2026|Günay y Özden, 2026]]).
 - **Preservar la voz autoral y proteger frente a la homogeneización.** El acompañante debería distinguir errores, problemas de claridad, elecciones retóricas y preferencias de estilo, y no «corregir» automáticamente estas últimas, sobre todo en el caso de quienes escriben de forma [[multilingual-learning|multilingüe]] y de estilos retóricos no estándar.
 
@@ -133,6 +134,8 @@ La educación de la escritura se conecta con la [[automated-essay-scoring|evalua
 Al Nafjan (2026) propone el Marco de Alineación entre Rigor y Compromiso (RCAF), que sitúa la implicación en la tarea de escritura y en la enseñanza que la rodea y no en la herramienta ([[al-nafjan-genai-eap-writing-engagement-2026]]). El rigor académico es la exigencia que una tarea plantea al esfuerzo cognitivo sostenido y al razonamiento disciplinar, y el marco lo divide en exigencia cognitiva, autenticidad epistémica y responsabilidad de desempeño. El compromiso docente se define de forma estrecha, como compromiso con el aprendizaje del estudiantado puesto en acto mediante la capacidad de respuesta instruccional, el apoyo relacional y el [[scaffolding|andamiaje crítico]], y no como un rasgo que una persona docente tiene o no tiene. El autor es explícito en que el RCAF es proposicional y no ha sido validado empíricamente, así que es un vocabulario de diseño para programas de escritura y no un efecto probado.
 
 Para el diseño de tareas, la afirmación es que el rigor y el compromiso interactúan en lugar de sumarse. Se prevé que una exigencia alta con un apoyo escaso empuje al estudiantado hacia la ocultación y los juegos de detección, mientras que la calidez sin exigencia deja que una salida fluida pase por aprendizaje. Solo se prevé que la configuración de alta exigencia y alto apoyo produzca una implicación profunda, con el [[evaluative-judgment|juicio evaluativo]] haciendo el trabajo de decidir cuándo una salida es útil, insuficiente o engañosa. Como la IA generativa puede producir prosa académica aceptable, el marco impone a la evaluación de la escritura una obligación concreta: exigir borradores y revisiones visibles para que el desempeño siga ligado al pensamiento que se supone que representa.
+
+Un caso específico de disciplina muestra cómo se ve esa exigencia en la práctica. [[malik-chatgpt-cognitive-tool-sociology-writing-2025|Malik]] entrevistó a 18 estudiantes de sociología y comparó su escritura con y sin ChatGPT: el 61% lo usaba sobre todo mientras redactaba el borrador y el 39% sobre todo mientras revisaba, las muestras asistidas estaban mejor organizadas, y el propio estudiantado declaró que contrastaba las afirmaciones teóricas que aportaba la herramienta porque algunas eran erróneas. El patrón es apoyo a la planificación más verificación, que es la versión del uso de IA que un curso de escritura puede enseñar en lugar de vigilar.
 
 ## Implicaciones para el profesorado de escritura
 
@@ -251,3 +254,6 @@ El relato de aula más completo de ese rediseño es el despliegue de PAIRR. [[st
 - [[alam-process-oriented-collaborative-essays-2026]] — Ensayos colaborativos orientados al proceso: iteración y colaboración calificadas, con la IA generativa permitida dentro de límites
 - [[webb-davies-voice-first-written-assessment-2026]] — Una evaluación escrita en dos etapas que asegura el razonamiento bajo observación antes de calificar una entrega hecha en casa
 - [[black-box-assessment-winstone-2026]] — Evaluación de caja negra: ventanas al proceso, el error como evidencia y la integridad mediante la visibilidad
+
+- [[dumin-ai-research-projects-first-year-writing-2026]] — Análisis de proyectos de investigación con IA en la composición en inglés de primer año
+- [[malik-chatgpt-cognitive-tool-sociology-writing-2025]] — 18 estudiantes de sociología: ChatGPT para esquematizar y revisar, y la teoría que tuvieron que comprobar

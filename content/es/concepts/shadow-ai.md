@@ -1,7 +1,7 @@
 ---
 title: IA en la sombra
 created: "2026-11-12T22:30:00-05:00"
-updated: "2026-11-15T10:14:32-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 technology: [generative-ai, llm]
 ethics: [privacy, equity-in-ai-education]
@@ -11,7 +11,7 @@ discipline: [information technology]
 confidence: high
 contributors: [editor]
 translation_of: concepts/shadow-ai
-source_updated: "2026-11-14T07:06:17-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
@@ -108,8 +108,7 @@ Quienes dirigen los departamentos pueden construir el apoyo colegiado que permit
 
 **«La formación en concienciación lo resuelve.»** El 94% usaba las herramientas y el 54% conocía la política, y la brecha de 40 puntos no se cerró cuando se informó a la gente. Lo que la cierra es una alternativa utilizable con una vía corta hacia la aprobación.
 
-## Lecturas adicionales
-
+## Recursos conectados
 Tres fuentes abordan directamente la IA en la sombra y no pueden ingerirse aquí: dos estudios de acceso cerrado y un artículo profesional. Se enlazan en lugar de ingerirse, así que ninguna afirmación aquí descansa en sus hallazgos.
 
 - [Beyond Curiosity: Habit and Organizational Learning Capability as Predictors of Shadow AI](https://doi.org/10.1016/j.chb.2026.109243) — Lovett y Yang, *Computers in Human Behavior*, artículo 109243, noviembre de 2026. Evidencia de encuesta con usuarios recientes de IA en el trabajo, con el hábito como el mayor peso de importancia relativa y el pago personal de las herramientas asociado a una mayor IA en la sombra.

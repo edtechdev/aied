@@ -1,7 +1,7 @@
 ---
 title: RAG (Generación Aumentada por Recuperación)
 created: "2026-09-28T18:15:22-04:00"
-updated: "2026-11-15T10:16:01-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 connected_faqs: [making-ai-better-at-supporting-learning]
 type: concept
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -9,7 +9,7 @@ ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 connected_resources: [gemini-notebook]
 translation_of: concepts/rag
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T09:20:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -47,10 +47,12 @@ ai_assist:
 - **Reducción de alucinaciones:** [[eduguard-safe-rag-llm-tutor|EduGuard]] y [[eduzone-llm-safety-k12|EduZone]] usan RAG para mantener las respuestas del tutor de IA fundamentadas en contenido educativo verificado, reduciendo el [[hallucination-risk|riesgo de alucinación]].
 - **La orientación es un dial y la fundamentación no gana la preferencia.** [[levonian-safe-relevant-generative-chats-math-its-2025|Levonian et al. (2025)]] hicieron que nueve educadores y diseñadores clasificaran preguntas de matemáticas respondidas con RAG en tres niveles de orientación del prompt: las respuestas de baja orientación fueron preferidas en comparaciones por pares sobre las de alta orientación el 63,8% de las veces, aunque la alta orientación se percibió como la más fundamentada (media 0,90 en una escala de 0 a 2). La relevancia del documento recuperado se correlacionó con la fundamentación percibida (r = 0,56, p < 0,001), pero no mostró relación significativa con la preferencia: la fundamentación moldea lo que dice el tutor, no si el estudiantado lo prefiere.
 - **La fundamentación solo es tan buena como la inspección de la fuente:** solo 1 de 12 participantes advirtió una tarjeta de fuente deliberadamente mal emparejada, así que una etiqueta de procedencia puede actuar como un sello de autoridad en lugar de como una invitación a verificar el material recuperado ([[veriforge-narrative-drafting-scaffolding-2026|Sun et al. (2026)]]).
+- **La fundamentación mejoró cómo se juzgó la retroalimentación, no lo que el estudiantado hizo con ella.** Añadir recuperación a una herramienta de revisión con IA elevó la calidad percibida (d = 0,45) y la utilidad percibida (d = 0,67) en dos cohortes de posgrado de escritura, mientras que la accionabilidad percibida no se movió (d = −0,06) ([[hughes-rag-ai-feedback-implementation-2026|Hughes et al. (2026)]]).
 - **Tutoría fundamentada en el currículo:** [[retrieval-augmented-tutoring-algorithm-kite|KITE]] recupera materiales curriculares relevantes para informar las respuestas de tutoría, asegurando la alineación con el contenido del curso.
 - **Indexación de libros de texto y materiales:** [[book-level-synthetic-textbook-organization|La organización sintética de libros de texto]] indexa contenido educativo para su recuperación. [[structrag-diagram-reasoning-ai-tutoring|StructRAG]] extiende la recuperación a diagramas estructurados.
 - **Integración en el pipeline de entrenamiento:** [[llm-training-and-fine-tuning|El entrenamiento pedagógico de LLM]] usa RAG para fundamentar el entrenamiento de tutores en las mejores prácticas educativas.
 - **[[student-support-and-success|Apoyo académico]] específico de cada curso:** [[course-specific-rag-help-seeking-higher-ed-2026|Beacon]] recupera de los materiales didácticos aprobados de un único módulo de programación para atender a estudiantes que dudan en acudir a un docente, y el 89% de los 15 estudiantes evaluadores calificó sus respuestas como muy alineadas con los materiales del curso. El punto de diseño es que la fundamentación es una respuesta institucional al desajuste entre los [[llm|LLM]] de propósito general y las expectativas a nivel de módulo.
+- **El trabajo de despliegue es la curación del índice y la fijación del alcance.** Gupta y sus colegas (2026) configuraron un asistente de curso subiendo materiales con metadatos claros y fijando un prompt de persona cuyo alcance mantenía las respuestas dentro de la base de conocimiento del curso, y la inexactitud fue la principal preocupación para el 54% de los 294 usuarios que respondieron a las preguntas abiertas ([[gupta-ai-virtual-assistant-adoption-engineering-2026|Gupta et al. (2026)]]).
 - **Estructura en el momento de la ingesta frente a recuperación en el momento de la consulta:** [[wiki-llm-indexing-ml-classes-2026|Wright (2026)]] compiló los mismos materiales del curso de [[machine-learning|aprendizaje automático]] DS3001 en siete páginas wiki de conceptos interconectadas con citas de fuentes, y lo contrastó con una línea base de RAG vectorial ajustada, basada en recuperación por fragmentos con embeddings. Sobre 59 preguntas escritas por personas, el wiki compilado respondió mejor que el índice ajustado, 9,95 frente a 9,05 de 10, con un intervalo de confianza bootstrap de la diferencia que excluye el cero. También estuvo más a menudo fundamentado en el material que quien respondía realmente veía (98% frente a 81%), con ambas brechas casi triplicándose en las preguntas que necesitaban material de más de una página (puntuaciones entre páginas de 9,93 frente a 8,14, donde la tasa de fundamentación de RAG cayó del 87% al 64%). La brecha de fundamentación no fue un fallo de recuperación: solo 2 de las 11 respuestas no fundamentadas del RAG vectorial fueron fallos de recuperación, mientras que las otras 9 tenían los extractos relevantes en contexto y aun así añadieron detalle no respaldado —evidencia de que la estructura en la ingesta restringe la elaboración, no solo el acceso.
 - **Despliegue local para el control institucional:** CourseChat ejecuta un tutor RAG multidcurso para la educación empresarial de grado ([[business-education|negocios]]) en servidores edge locales, con una base de datos vectorial local y un modelo de 8B servido por Ollama, manteniendo los materiales del curso y el diálogo del estudiantado en la infraestructura del campus; la elección del modelo se convirtió en una decisión conjunta de hardware y servicio cuando los candidatos mayores no superaron un umbral de latencia ([[on-premises-rag-tutoring-business-education-2026|CourseChat]]).
 - **La recuperación fundamentada en el currículo no se distinguió en tiempo.** Aila recupera de los planes de estudio con garantía de calidad de Oak National Academy, y el profesorado de su ensayo dedicó 0,76 del tiempo de preparación de clases del grupo de comparación ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]]). El informe lo lee como similar al 0,69 del ensayo general con [[generative-ai|ChatGPT]], así que fundamentar en contenido curricular verificado no fue lo que los separó.
@@ -83,6 +85,7 @@ RAG cumple un papel complementario al ajuste fino de [[llm|LLM]]: la recuperaci�
 
 ## Artículos conectados
 
+- [[hughes-rag-ai-feedback-implementation-2026]] — La RAG elevó la calidad y la utilidad percibidas de la retroalimentación, no su accionabilidad, en dos cohortes de posgrado
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — Un asistente de planificación de clases fundamentado en el currículo cuyo ahorro de tiempo no superó al de un chatbot general
 - [[eduguard-safe-rag-llm-tutor]]
 - [[eduzone-llm-safety-k12]]
@@ -95,3 +98,4 @@ RAG cumple un papel complementario al ajuste fino de [[llm|LLM]]: la recuperaci�
 - [[course-specific-rag-help-seeking-higher-ed-2026]] — Reducir las barreras al apoyo académico: evaluación de un sistema RAG específico de curso para abordar las disparidades en la búsqueda de ayuda en la educación superior
 - [[wiki-llm-indexing-ml-classes-2026]] — Potencial para mejorar el aprendizaje en cursos de aprendizaje automático mediante la indexación con wiki y LLM
 - [[on-premises-rag-tutoring-business-education-2026]] — Tutoría RAG multidcurso en local para la educación empresarial
+- [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — La curación del índice y el alcance de la recuperación como trabajo de despliegue

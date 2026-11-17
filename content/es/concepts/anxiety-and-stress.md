@@ -1,7 +1,7 @@
 ---
 title: Ansiedad y estrés
 created: "2026-09-28T20:10:55-04:00"
-updated: "2026-11-15T10:16:20-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
 translation_of: concepts/anxiety-and-stress
-source_updated: "2026-11-15T09:05:00-05:00"
+source_updated: "2026-11-16T09:58:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -76,6 +76,8 @@ Ese reencuadre tiene un límite en la expresión oral: entre 708 [[multilingual-
 
 **El apoyo institucional actúa sobre la ansiedad a través de las valoraciones, no de las palabras tranquilizadoras.** Una encuesta de dos oleadas con 547 estudiantes de grado chinos ([[school-support-ai-learning-anxiety-control-value-2026|Jiang, Chen y Chen, 2026]]) rastreó cómo el apoyo escolar percibido se relaciona con la ansiedad ante el aprendizaje con IA a través de las valoraciones de control y valor: la percepción de competencia de quien aprende (control) y de la utilidad de la herramienta (valor). El apoyo predijo directamente una menor ansiedad, pero la mayor parte de su asociación pasó por las valoraciones y no al margen de ellas: mediante la autoeficacia para el aprendizaje con IA, mediante la [[technology-acceptance-model|utilidad percibida]] y mediante una ruta secuencial en la que la autoeficacia alimentaba la utilidad, que a su vez reducía la ansiedad. Un modelo de primer orden mostró que las *dimensiones* del apoyo no actuaban de forma independiente —solo el apoyo informativo conservó una ruta significativa hacia la autoeficacia—, y una validación cruzada con red neuronal artificial clasificó la autoeficacia y la utilidad percibida como los predictores más estables de la ansiedad. La implicación es que el estímulo institucional dirigido a la ansiedad solo surte efecto si cambia lo que el estudiantado cree sobre su propia capacidad y sobre la utilidad de la herramienta; las palabras tranquilizadoras generales no alteran las valoraciones que generan la ansiedad.
 
+Un curso puede reducir esta ansiedad mediante el contacto de bajo riesgo, pero el alivio no se distribuye de forma homogénea. Entre 133 estudiantes de un curso asíncrono de expresión oral en público que incorporaba diez breves actividades de alfabetización en IA, la preocupación por no rendir bien una vez que intervenían herramientas de IA cayó de 2,63 a 2,16 en una escala de siete puntos, p = 0,04 ([[petricini-ai-literacy-communication-equity-2026|Petricini y Cruz, 2026]]). El estudiantado que se identificó como blanco descendió significativamente en los tres ítems de presión y tensión, incluida la preocupación, de 2,67 a 1,90, mientras que el estudiantado de otras identidades raciales, étnicas o de herencia no mostró cambios significativos en ninguno de ellos. Las personas autoras informan del patrón sin un mecanismo, lo que convierte la brecha de equidad en un problema de diseño y no en un problema de tranquilidad.
+
 La IA también puede aliviar la ansiedad académica avanzando en las metas de aprendizaje en lugar de tranquilizando: en una encuesta a 721 estudiantes de medicina y un experimento con 398, una mayor capacidad percibida del asistente predecía un mayor progreso hacia las metas de estudio, que a su vez predecía una menor ansiedad académica y una mejor salud mental ([[perceived-ai-intelligence-medical-students-mental-health-2026|Chen et al. (2026)]]).
 
 La competencia no es, sin embargo, un amortiguador completo: entre 551 estudiantes chinos de primer año, la [[self-report-measures|presión autodeclarada]] por el uso de IA debilitaba el vínculo entre la competencia en IA y el ajuste psicológico, con la pendiente de competencia en IA a ajuste cayendo de 0,42 con presión baja a 0,20 con presión alta ([[ai-enabled-course-development-first-year-adjustment-2026|Zhang y Yin (2026)]]).
@@ -86,6 +88,8 @@ La competencia no es, sin embargo, un amortiguador completo: entre 551 estudiant
 Esta dirección conecta la ansiedad ante la IA con la [[motivation|motivación]], la [[ai-literacy|alfabetización en IA]], la [[student-experience|experiencia del estudiantado]] y el [[self-regulated-learning|aprendizaje autorregulado]].
 
 Un agente que se parece a un examinador puede arrastrar consigo la presión de un examen. El estudiantado que practicó la expresión oral con Replika obtuvo puntuaciones significativamente más altas que con sus pares, pero describió la interacción como ansiosa e incómoda y no quiso volver a usarla: el rendimiento medido y el estrés experimentado se movieron en direcciones opuestas ([[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez y Belda-Medina (2026)]]).
+
+Esa presión depende de quién esté mirando. En un piloto de dos cohortes, cinco de siete estudiantes que entrevistaron a un paciente de IA delante de sus compañeros informaron en privado de incomodidad al hacerlo, mientras que los comentarios hablados del grupo en la puesta en común fueron en gran medida positivos ([[tischkau-ai-simulated-patient-formats-2026|Tischkau et al. (2026)]]). El elogio público junto con la incomodidad privada significa que la lectura del ambiente que hace quien facilita puede subestimar lo expuesto que se sintió el estudiantado.
 
 ## La ansiedad ante la IA relacionada con la carrera profesional
 
@@ -182,3 +186,5 @@ El [[well-being|bienestar]] es el estado positivo amplio (salud emocional, psico
 - [[ai-speaking-practice-communicative-readiness-2026]] — El vínculo de la ansiedad al hablar con la disposición a comunicarse se invierte con una alta autoeficacia oral
 - [[perceived-ai-intelligence-medical-students-mental-health-2026]] — La inteligencia percibida del asistente de IA reduce la ansiedad académica a través del progreso hacia las metas de estudio (estudiantes de medicina)
 - [[mu-ai-competence-ethical-awareness-anxiety-2026]] — La competencia eleva la conciencia ética, la conciencia ética eleva la ansiedad ante la IA: mediación solo indirecta entre 584 estudiantes
+- [[petricini-ai-literacy-communication-equity-2026]] — Alfabetización en IA en un curso básico de comunicación: perspectivas sobre equidad, motivación y reducción de la incertidumbre
+- [[tischkau-ai-simulated-patient-formats-2026]] — Cinco de siete participantes del grupo informaron en privado de incomodidad al entrevistar a un paciente avatar delante de sus compañeros

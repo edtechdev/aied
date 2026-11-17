@@ -1,14 +1,14 @@
 ---
 title: IA generativa
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-15T10:13:08-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 technology: [intelligent-tutoring, llm, prompt-engineering, rag]
 ethics: [hallucination-risk]
 confidence: high
 translation_of: concepts/generative-ai
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:

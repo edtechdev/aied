@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: Generación automática de preguntas
 created: "2026-09-28T18:15:33-04:00"
-updated: "2026-11-15T10:12:10-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -10,7 +10,7 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/automated-question-generation
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T09:58:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -39,6 +39,8 @@ ai_assist:
 ## Introducción
 
 La generación automática de preguntas importa porque crear ítems de evaluación a mano es caro, y la IA puede producirlos con rapidez y a escala. Sin embargo, la investigación muestra que los ítems generados deben validarse en cuanto a corrección, pertinencia y dificultad, y que los distintos tipos de ítem (opción múltiple, respuesta corta, código) varían en la fiabilidad con que pueden generarse. La AQG se sitúa, por tanto, en la intersección de la [[generative-ai|IA generativa]], la [[educational-nlp|PLN educativa]] y la [[educational-measurement|medición educativa]].
+
+Un límite práctico: el ahorro es más estrecho que «la IA escribe las preguntas». En 150 pares emparejados de ocho facultades de odontología, la finalización de cada ítem cayó de 6,0 a 1,0 minutos por ítem —5,1 minutos ahorrados (IC del 95%: 4,6 a 5,7; d = 3,79)—, medidos desde un borrador utilizable y excluyendo la carga, la latencia, las generaciones fallidas y los borradores descartados ([[islam-human-vs-ai-sba-dental-2026|Islam et al. (2026)]]). La ganancia medida es la pasada de revisión, de modo que el ahorro de extremo a extremo depende de lo que queda fuera del cronómetro.
 
 ## Enfoques para la generación de preguntas
 
@@ -147,3 +149,4 @@ La AQG es un habilitador clave del aprendizaje [[adaptive-learning|adaptativo]] 
 - [[bloom-classifier-ai-assisted-questions-2026]] — Evaluación de modelos preentrenados para la valoración pedagógica de nuevas preguntas educativas asistidas por IA
 - [[vogt-ai-mcq-recognition-medical-assessment-2026]] — El estudiantado no pudo distinguir los ítems de opción múltiple generados por IA de los de un examen de licencia en un examen calificado, y el 18,2% de los ítems generados se eliminaron en la revisión (Vogt et al. 2026)
 - [[rodemer-ai-generated-mcq-chemistry-assessment-2026]] — Los ítems generados que aprueban una rúbrica de redacción pueden aun así no alcanzar el nivel de competencia previsto
+- [[islam-human-vs-ai-sba-dental-2026]] — El tiempo de finalización cayó de 6,0 a 1,0 minutos por ítem, medido desde el borrador utilizable hasta el final, no de extremo a extremo

@@ -1,7 +1,7 @@
 ---
 title: Equidad
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-15T10:10:18-05:00"
+updated: "2026-11-17T16:10:00-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 translation_of: concepts/equity-in-ai-education
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:36:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -78,6 +78,8 @@ Hay evidencia directa de que el apoyo puede distribuirse según la necesidad: cu
 La preparación importa más que la preferencia, y el derecho a rechazar se distribuye de forma desigual. El estudiantado con una sólida confianza académica puede rechazar la IA sin penalización, mientras que quienes necesitan apoyo lingüístico, apoyo de accesibilidad o retroalimentación rápida viven ese rechazo como una pérdida de oportunidad, y el personal ocasional puede sentir presión para adoptar herramientas que recortan el tiempo de preparación sin recortar la responsabilidad. Cuando se impone un deber de comprender sin formación, sin infraestructura segura y sin una política clara, se convierte en carga de trabajo oculta, y el rechazo pasa a ser una respuesta predecible a la falta de preparación institucional más que una resistencia a la tecnología ([[ai-refusal-higher-education-diagnostic-non-use-2026|Zagami 2026]]).
 
 **La renta se paga en tres monedas, y la competencia propia se va con quien se gradúa.** [[rented-self-decoupling-performance-becoming-2026|de Barba (2026)]] sostiene que la capacidad que reside en una herramienta comercial solo está disponible en los términos del proveedor, de modo que las licencias institucionales trasladan al arrendador en lugar de eliminarlo: el acceso suele terminar con la matrícula, y la capacidad alquilada persiste después únicamente para quienes se gradúan y pueden seguir pagando. Añade otras dos distribuciones que los debates sobre el acceso suelen pasar por alto: los costes para el yo se concentran en la aclimatación, donde el estudiantado con menos conocimientos previos del dominio es el que más tiempo pasa, y las normas alquiladas llevan consigo los puntos de referencia del modelo, de los que se prevé que desplacen una parte mayor de las normas del estudiantado cuyos puntos de referencia culturales y lingüísticos difieren de los del modelo. La misma herramienta amplía el acceso y desplaza normas a la vez, y por eso ella considera que nombrar las capacidades que un curso debe construir por sí mismo es una medida de equidad además de una medida pedagógica.
+
+Exigir el uso de la IA puede ser en sí mismo el daño de equidad, sin que haya detrás un suministro desigual. [[mcdonald-inclusive-assessment-genai-2026|McDonald, Saunders, Kennedy y Tansell (2026)]] realizaron tres grupos focales con 19 estudiantes de ciencias en una universidad del Russell Group y encontraron que el daño corría en ambas direcciones. Exigir IA generativa penalizaba a estudiantes a quienes nunca se les enseñó a usarla y que carecían del hardware, mientras que rechazarla cuando sus pares la usaban se vivía como aceptar una desventaja; las versiones de pago frente a las gratuitas se señalaron como un sesgo, y el trabajo en grupo como el lugar donde un uso desigual se convierte en una carga de trabajo desigual. La posibilidad de elegir entre formatos solo se valoraba cuando las opciones eran equivalentes, ya que el estudiantado temía que el ensayo se calificara peor que el vídeo.
 
 ## Equidad representacional
 
@@ -229,3 +231,5 @@ La equidad tiene también una dimensión ambiental y computacional: el acceso de
 - [[rodrigues-aied-unplugged-numeracy-2026]] — La entrega mediada por el profesorado llega a estudiantes que la IA nunca toca
 - [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — La detección se ceba con quienes escriben en varias lenguas
 - [[li-who-benefits-llms-prompt-engineering-equity-2026]] — La competencia media en el beneficio que el estudiantado obtiene del acceso a los LLM (Li et al. 2026)
+
+- [[mcdonald-inclusive-assessment-genai-2026]] — Diseño de evaluación inclusiva en la era de la IA generativa: avanzar en la pedagogía y la práctica

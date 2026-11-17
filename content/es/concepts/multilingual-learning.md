@@ -2,14 +2,14 @@
 connected_resources: [mglearn]
 title: Aprendizaje multilingüe
 created: "2026-09-28T19:10:33-04:00"
-updated: "2026-11-15T10:16:27-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
 discipline: [language learning]
 confidence: medium
 translation_of: concepts/multilingual-learning
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-17T09:26:00-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -52,6 +52,8 @@ La IA multilingüe debe ir más allá de la traducción para reflejar una [[cult
 El translenguaje es una posibilidad que los [[conversational-ai|chatbots]] generativos añaden y que las herramientas lingüísticas anteriores no ofrecían. En una [[meta-analysis-systematic-review|revisión sistemática]] de 24 estudios, quienes aprendían pedían frases y explicaciones contextualizadas en su propia lengua como puente hacia la lengua meta, un uso que los revisores clasifican como una subcapacidad nueva y no como otra reempaquetada ([[genai-chatbots-language-learning-affordances-review-2026|Lopez y Arabadzhy (2026)]]).
 
 El coste lingüístico de incorporarse a una herramienta es medible: [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] encontraron que quienes aprendían inglés tardaban significativamente más que los hablantes nativos en un tutorial andamiado de creación de agentes, mientras que la tarea de diseño abierta no mostró diferencias.
+
+El inglés domina incluso allí donde se usan a diario cuatro lenguas. Entre 42 estudiantes de Curazao y Aruba, dos tercios nombraron el inglés como su lengua preferida para la IA, y solo las sesiones con GPT se desplazaron hacia el papiamento a medida que la conversación se volvía local ([[bush-quadrilingual-code-switching-conversational-ai-2026|Bush et al. (2026)]]).
 
 ## Sesgo en la evaluación
 
@@ -97,3 +99,4 @@ El juicio comparativo basado en LLM es un caso en el que el sesgo siguió la lí
 - [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: conjunto de datos de sistemas de conocimiento indios
 - [[kutti-ai-voice-first-learning-companion]] — Compañero de aprendizaje con la voz como primer medio
 - [[ai-scoring-language-bias-physics]] — Sesgo lingüístico en la calificación con IA en física
+- [[bush-quadrilingual-code-switching-conversational-ai-2026]] — Cambio de código cuatrilingüe con IA conversacional en Curazao y Aruba (Bush et al., 2026)

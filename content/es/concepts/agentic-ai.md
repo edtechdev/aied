@@ -1,8 +1,8 @@
 ---
-connected_resources: [deeptutor, learnharness, primer]
+connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 title: IA agéntica
 created: "2026-09-28T18:19:10-04:00"
-updated: "2026-11-15T10:10:18-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -13,7 +13,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -71,6 +71,8 @@ La [[research-methods-aied|investigación]] abarca el diseño y la evaluación:
 - **Aplicaciones de dominio:** los sistemas agénticos aparecen en diversos dominios, como los [[learnmate2-llm-adaptive-learning|agentes de aprendizaje adaptativo]], los [[educlaw-bench-pedagogical-llm-agents-2026|agentes pedagógicos con LLM]], el [[guided-llm-scaffolding-independent-learning|andamiaje guiado con LLM]], los [[cyberagents-gamified-cybersecurity-learning-2026|agentes de aprendizaje gamificado en ciberseguridad]] y los [[hdr-brachytherapy-agentic-ai-simulation-2026|agentes de simulación clínica]].
 - **La calificación agéntica es una cuestión de fiabilidad antes que de carga de trabajo.** Un despliegue agéntico de Claude Code recibió tres archivos de rúbrica y 60 exámenes parciales manuscritos y escaneados de un curso de gráficos por computadora. Sus calificaciones coincidieron con las del instructor en r = 0,97, con un error absoluto medio de 0,85 puntos sobre 20, un sesgo medio positivo de la IA de 0,68 y un ICC de test-retest de 0,96 entre dos sesiones separadas por una semana. El agregado oculta dónde falla: el kappa ponderado fue de 0,98 en opción múltiple y de 0,65 en los ítems evaluativos, con los diagramas dibujados a mano como el caso más débil ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Un curso, un instructor y un conjunto de rúbricas localizan la varianza; no establecen que la calificación agéntica se generalice.
 
+La arquitectura agéntica compra cobertura a un coste medible en precisión. Sobre el [[nkrumah-ai-skill-extraction-engineering-2026|benchmark de Nkrumah et al. (2026)]] con 926 muestras de ofertas de empleo y 1.696 competencias de referencia, un agente ReAct con una herramienta de consulta a ESCO lideró la recuperación ampliada con un 89,7%, frente al 83,7% de la mejor configuración generativa y el 49,1% del mejor modelo de embeddings. Su precisión fue del 22,7%, lo que dejó el F1 en 36,3%, por debajo de un Gemini 2.5 Flash ancorado en herramientas con un 51,6%, y tardó unos 16 segundos por muestra. La recuperación es la métrica correcta cuando una persona asesora poda la lista; la salida sin mediación necesita la alternativa ancorada.
+
 - **Agentes web como evaluadores de la experiencia de aprendizaje:** un único agente web autónomo «descriptor» que navega una [[learning-design|lección]] en línea como lo haría un estudiante —[[ai-web-agents-lesson-design-2025|Wang, Mitchell y Piech (2025)]]— produce una descripción lo bastante rica como para predecir el abandono del estudiantado y dar al diseñador retroalimentación accionable antes de que intervenga estudiantado real, y supera a una cohorte simulada completa y a todas las líneas de base en un curso global de CS1. Esto sitúa la evaluación agéntica (un agente como crítico sustituto de una experiencia de aprendizaje) como un uso distinto y de bajo coste de la IA agéntica, junto a los agentes que enseñan o diseñan.
 
 ### Sistemas multiagente
@@ -83,7 +85,6 @@ Un paso más allá de orquestar unos pocos agentes especializados es el **ecosis
 
 - **Agentes LLM específicos de cada participante para la resolución colaborativa de problemas.** Fang (2026) ajusta agentes LLM individuales con los datos de diálogo de participantes reales para representar a cada participante en simulaciones de resolución colaborativa de problemas, con selección probabilística de hablante y de código temático y una memoria de ventana deslizante más resumida. Validados con el [[network-analysis|Análisis de Redes Epistémicas]], los diálogos simulados son estadísticamente indistinguibles de los reales (distancia ENA 0,17, p de permutación = 0,65): una demostración de que la IA agéntica reproduce discurso colaborativo auténtico.
 - **Tutoría multiagente socialmente inteligente.** Los prototipos de tutoría multiagente socialmente inteligente, como ASTRA, estudian cómo coordina quien aprende con la IA en díadas, usando agentes diferenciados de tutor y de facilitador para propiciar la coordinación y una participación equilibrada. La evaluación basada en trazas del marco permite un análisis reproducible de la interacción, el equilibrio de participación y la verificación en [[cs-education|programación introductoria]].
-
 
 **Una respuesta organizativa: quien aprende como miembro participante y no como receptor.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan et al. (2026)]] instancian una organización multiagente de participación humana en la que agentes especializados mantienen un Programa de Capacidades revisable que vincula metas personales, actividades [[multimodal|multimodales]] y evaluación por capas, con un «Nodo Humano» corregible que traslada la evidencia y los desafíos de quien aprende a las revisiones posteriores. Frente a la línea base multiagente más cercana, en 96 casos de estudiantes simulados, la ventaja se concentró en el [[assessment|diseño de la evaluación]]: 19,32 puntos más en [[assessment-validity|validez de la evaluación]] (IC del 95% [17,55, 21,04]) y 5,89 en cobertura de capacidades, mientras que la personalización no marcó diferencias (1,35 puntos, con un intervalo que cruza cero). En un estudio aleatorizado con 32 estudiantes, la ganancia de conocimiento en una prueba objetiva de 50 puntos fue de 12,19 frente a 5,61 puntos.
 
@@ -139,7 +140,6 @@ Esto conecta el debate sobre la IA agéntica con la cobertura de la [[academic-i
 ## Fricción productiva e interacción social
 
 No todo comportamiento agéntico tiene que ser asistencia fluida. [[ai-agents-constructive-conflict-design-education-2026|La investigación sobre agentes de diseño adversariales]] muestra que los agentes que ponen en acto el **conflicto constructivo** propiciaron significativamente más iteraciones de diseño, una exploración más amplia de alternativas y diseños finales mejor valorados entre diseñadores de interacción novatos (N=48): una dinámica de *fricción productiva*, donde el agente de conflicto resultaba frustrante pero a la postre útil. Esto conecta con el [[socratic-method|cuestionamiento socrático]] y el [[design-thinking]], e ilustra cómo la IA agéntica puede apoyar una reconsideración profunda en lugar de una aceptación pasiva.
-
 
 Un estudio sobre cómo la IA agéntica alcanza resultados de aprendizaje por vías *psicológicas* y no tecnológicas aporta el ángulo de medición que faltaba. [[pramod-agentic-ai-motivational-pathways-2026|Pramod y Patil (2026)]] encuestaron a 398 estudiantes de empresariales en la India y modelaron la autonomía, la competencia y la relación junto con la interactividad, el intercambio de información y la [[community-of-inquiry|presencia social]] percibida; la autonomía fue el motor [[motivation|motivacional]] más fuerte (β = 0,504) y la interactividad el social más fuerte (0,468), con la motivación y la presencia social alimentando la [[student-engagement|implicación]] con una fuerza casi idéntica (0,533 y 0,493) antes de que la implicación predijera el rendimiento de aprendizaje percibido (0,671). La lección de diseño es que la vía social no es automática: un constructo de entorno colaborativo movió la presencia social percibida menos que la simple capacidad de respuesta y el intercambio de información, así que tratar a un agente como una interfaz de chat en lugar de como un participante deja sin usar la mayor parte de esa vía.
 
@@ -240,3 +240,4 @@ La IA agéntica no es ni una panacea ni un daño inevitable: su valor depende de
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Agentes de formación ética: facilitar la educación ética grupal con juego de roles y discusión para la reflexión y la exploración éticas
 
 - [[jingru-fan-agentic-university-collaborative-agents-2026]] — Agentes organizados en torno a un programa de capacidades revisable, con quien aprende como miembro
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — Comparación de enfoques de IA para la extracción automatizada de competencias: de los embeddings a los sistemas agénticos para la educación en ingeniería

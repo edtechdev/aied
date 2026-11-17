@@ -1,7 +1,7 @@
 ---
 title: Apoyo y éxito estudiantil
 created: "2026-10-02T01:17:18-04:00"
-updated: "2026-11-15T10:10:50-05:00"
+updated: "2026-11-17T15:00:00-05:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -15,7 +15,7 @@ level: [higher ed, undergraduate]
 confidence: high
 connected_faqs: [ai-agents-support-students-instructors, institutional-ai-policy]
 translation_of: concepts/student-support-and-success
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_note: "Esta es una traducción automática de la página en inglés y todavía no ha sido revisada por una persona hablante nativa."
 contributors: [editor]
 ai_assist:
@@ -86,6 +86,8 @@ La palabra «éxito» esconde al menos cinco mediciones distintas, y el apoyo co
 - La **graduación** es el resultado terminal y plurianual. La media de graduación del grupo de control al cuarto año era 0,190 en el estudio de CSUN, y el efecto del tratamiento sobre ella no fue estadísticamente significativo.
 
 La explicación que dan los autores de este patrón es la afirmación central: un recordatorio actúa sobre una decisión discreta y de corto plazo, mientras que la persistencia y el promedio de calificaciones son acumulativos y están moldeados por la enseñanza, las finanzas, el empleo, las circunstancias familiares y la preparación previa. Concluyen que la comunicación mediante una herramienta como esta, **por sí sola**, puede ser insuficiente para cambiarlos, y que los resultados nulos son precisos y no fruto de una potencia insuficiente. La matrícula temprana conserva valor institucional para la planificación de personal y de espacios incluso allí donde los resultados de aprendizaje no se mueven.
+
+Un canal de apoyo puede mover la carga de trabajo institucional sin mover ningún peldaño de esta escalera. En un curso de primer año de diseño en ingeniería con más de 800 estudiantes, las preguntas por estudiante enviadas mediante el formulario de ayuda bajaron de 1,16 a 0,5, una reducción del 57%, mientras la composición de tipos de incidencia se mantuvo en 29% de tareas, 33% de calificaciones, 27% de software y 11% de otros ([[gupta-ai-virtual-assistant-adoption-engineering-2026|Gupta et al., 2026]]). Las autorías son explícitas en que se trata de un resultado de carga de trabajo y no de rendimiento académico, la contabilidad que suele omitir un caso de negocio sobre el apoyo estudiantil.
 
 ## Equidad y los riesgos de actuar sobre una puntuación
 
@@ -158,3 +160,5 @@ El apoyo estudiantil se conecta con [[student-experience]] como su contraparte o
 - [[credentials-carry-evidence-ai-agents-2026]] — qué significa un registro de finalización cuando un agente puede hacer el trabajo
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar (2026) — Predicción temprana del riesgo de trampa asistida por IA y el equilibrio de umbrales para la intervención de bajo riesgo
 - [[rienties-institutional-ai-assistant-co-design-2026]] — Cinco estudios de codiseño de un asistente institucional de estudio con IA: la disponibilidad primero y la resistencia por valores al final
+
+- [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — De consultas a conversaciones: adopción, usabilidad e impacto de un asistente virtual basado en IA en la educación en ingeniería
