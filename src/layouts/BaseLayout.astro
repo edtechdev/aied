@@ -1726,6 +1726,9 @@ const recentConceptItems = recentConcepts.map(c => {
                   class="compact-strand"
                   data-state-key={`strand:${anchor}`}
                   data-taxonomy-section={anchor}
+                  data-taxonomy-default-open={
+                    anchor === 'foundations-of-ai-in-education' ? 'true' : undefined
+                  }
                 >
                   <summary>
                     <span>{taxonomyHeading(section.heading, locale)}</span>

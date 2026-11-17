@@ -105,6 +105,49 @@
         });
       });
 
+      // First visit only: reveal the foundations strand without a click. The
+      // taxonomy payload is shared by every strand (44 KB per locale, cached
+      // by the browser), so this costs one request per locale, not one per
+      // strand, and only on wide viewports where the sidebar is on screen.
+      // Hydration happens before opening so the visitor never sees an empty
+      // box, and a flag keeps the reveal to a single visit: after that, the
+      // strand's open state is whatever the visitor chose.
+      const revealDefaultStrand = (): void => {
+        const defaults = document.querySelectorAll<HTMLDetailsElement>(
+          'details[data-taxonomy-default-open="true"]'
+        );
+        if (defaults.length === 0) return;
+        if (!window.matchMedia('(min-width: 64rem)').matches) return;
+        const FLAG = 'aied:default-strand-revealed';
+        try {
+          if (localStorage.getItem(FLAG) === '1') return;
+          localStorage.setItem(FLAG, '1');
+        } catch {
+          // Storage blocked: reveal anyway, the toggle listener still works.
+        }
+        let saved: Record<string, boolean> = {};
+        try {
+          saved = JSON.parse(localStorage.getItem('aied:collapse-state') || '{}') as Record<
+            string,
+            boolean
+          >;
+        } catch {
+          saved = {};
+        }
+        defaults.forEach((details) => {
+          const key = details.dataset.stateKey;
+          if (key && key in saved) return; // the visitor already chose
+          void hydrateSection(details).then(() => {
+            // Open only once the links are in place: a failed fetch would
+            // otherwise present an empty box where a summary used to be.
+            if (details.dataset.loaded === 'true') details.open = true;
+          });
+        });
+      };
+
+      if (document.readyState === 'complete') revealDefaultStrand();
+      else window.addEventListener('load', revealDefaultStrand, { once: true });
+
       let faqsPending = false;
 
       const faqLink = (item: TaxonomyItem): HTMLAnchorElement => {
