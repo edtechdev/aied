@@ -1,7 +1,7 @@
 ---
 title: Metaphors and Analogies
 created: "2026-11-07T08:43:02-05:00"
-updated: "2026-11-16T05:34:25-05:00"
+updated: "2026-11-17T11:05:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, misconceptions]
 pedagogy: [student-engagement]
@@ -106,20 +106,19 @@ That is also what connects metaphor work to [[ai-literacy|AI literacy]] more bro
 - **Keep the technical account nearby.** An analogy can open a topic, but it should not replace instruction about training data, probabilistic generation, or the difference between fluent output and verified knowledge.
 - **Evaluate the activity, not just the engagement.** The evidence does not yet show that metaphor-based lessons improve AI literacy or learning outcomes. Treat the activities as designs to test, and measure what students can do afterward.
 
+## Where the evidence is thin
+The literature is uneven. The faculty and student metaphor studies are qualitative and often small. The engineering faculty study analyzes responses to a single interview question. The professionalization study treats metaphor counts as exploratory. The classroom analogy study has ten undergraduates and a confound between personalization and explanation format. The Roe et al. framework is conceptual and its activities have not been tested with students. ANVIL is a system evaluation with educators, not a learning study.
+
+That does not make the work useless. It makes the claims appropriately modest. Metaphor elicitation can reveal assumptions that surveys miss. Analogy critique can make structural understanding visible. A well-chosen metaphor can give a class a shared object to argue about. But the field still needs studies that compare metaphor-based instruction with ordinary instruction, measure transfer rather than recall of the metaphor, and test whether the approach travels across cultures and disciplines.
+
+The risk of overclaiming is real in both directions. A teacher who treats a metaphor as a complete explanation can install a misconception. A researcher who treats metaphor as mere decoration can miss a mechanism by which students build or fail to build a mental model. The productive position is to treat metaphor as a designed, partial, and criticizable representation, and to study what learners do with it.
+
 ## Common Misconceptions
 
 - **"A memorable metaphor is a good metaphor."** Memorability is not explanatory power. Students can remember a vivid analogy and still misunderstand the concept it was meant to clarify.
 - **"Metaphors are neutral illustrations."** Every metaphor selects some features and hides others. The choice carries assumptions about agency, trust, and responsibility.
 - **"AI-generated analogies are ready to use."** Generated analogies can be structurally wrong, culturally narrow, or pedagogically mismatched. They need teacher review or a student critique task.
 - **"If students enjoy the analogy, they learned the concept."** Engagement and learning are separate outcomes. The evidence base here is mostly qualitative and does not establish a learning gain.
-
-## Limits and evidence gaps
-
-The literature is uneven. The faculty and student metaphor studies are qualitative and often small. The engineering faculty study analyzes responses to a single interview question. The professionalization study treats metaphor counts as exploratory. The classroom analogy study has ten undergraduates and a confound between personalization and explanation format. The Roe et al. framework is conceptual and its activities have not been tested with students. ANVIL is a system evaluation with educators, not a learning study.
-
-That does not make the work useless. It makes the claims appropriately modest. Metaphor elicitation can reveal assumptions that surveys miss. Analogy critique can make structural understanding visible. A well-chosen metaphor can give a class a shared object to argue about. But the field still needs studies that compare metaphor-based instruction with ordinary instruction, measure transfer rather than recall of the metaphor, and test whether the approach travels across cultures and disciplines.
-
-The risk of overclaiming is real in both directions. A teacher who treats a metaphor as a complete explanation can install a misconception. A researcher who treats metaphor as mere decoration can miss a mechanism by which students build or fail to build a mental model. The productive position is to treat metaphor as a designed, partial, and criticizable representation, and to study what learners do with it.
 
 ## Connected Concepts
 

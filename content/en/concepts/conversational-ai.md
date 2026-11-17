@@ -1,7 +1,7 @@
 ---
 title: Conversational AI
 created: "2026-08-22T04:44:37-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-17T11:05:00-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration]
 technology: [conversational-ai, generative-ai, intelligent-tutoring, llm, pedagogical-agent]
@@ -90,6 +90,10 @@ The executive-function training literature is small and young. [[pergantis-chatb
 - **"LLM critique partners replace the learner's judgement."** [[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer, Cash and Connell Pensky (2025)]] show the **preservation** side concretely: the value is in keeping the learner's thinking intact rather than in producing the critique for them.
 - **"The umbrella evidence on conversational agents is conclusive."** The [[conversational-ai-agents-umbrella-review-2026|umbrella review]] synthesises reviews of CAI agents, and an umbrella review's strength is bounded by the quality of the reviews it gathers.
 
+## Citation
+
+Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.
+
 ## Connected Concepts
 
 - [[intelligent-tutoring]]
@@ -139,7 +143,3 @@ The executive-function training literature is small and young. [[pergantis-chatb
 - [[pergantis-chatbots-executive-functions-systematic-review-2025]] — Ten chatbot studies targeting executive functions
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach: Scaffolding Targeted AI Help-Seeking During Problem-Solving
 - [[fang-chatbot-psychosocial-extended-use-2025]] — Text, neutral voice and engaging voice over four weeks: modality changed the exchange, not the psychosocial outcome (Fang et al. 2025)
-
-## Citation
-
-Ganguly, A., Mehjabin, N., Malik, A., & Johri, A. (2025). [*Conversational AI agents in education: an umbrella review*](https://doi.org/10.1007/s43681-025-00916-0). *AI and Ethics*, 6, 72.

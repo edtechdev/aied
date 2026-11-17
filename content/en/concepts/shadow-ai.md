@@ -1,7 +1,7 @@
 ---
 title: Shadow AI
 created: "2026-11-12T07:49:43-05:00"
-updated: "2026-11-14T07:06:17-05:00"
+updated: "2026-11-17T11:05:00-05:00"
 type: concept
 technology: [generative-ai, llm]
 ethics: [privacy, equity-in-ai-education]
@@ -100,8 +100,7 @@ Department chairs can build the collegial support that let some teachers develop
 
 **"Awareness training solves it."** 94% used the tools and 54% knew the policy, and the 40-point gap did not close when people were told. What closes it is a usable alternative with a short path to approval.
 
-## Further Reading
-
+## Connected Resources
 Three sources address shadow AI directly and cannot be ingested here: two closed-access studies and one trade article. They are linked rather than ingested, so no claim here rests on their findings.
 
 - [Beyond Curiosity: Habit and Organizational Learning Capability as Predictors of Shadow AI](https://doi.org/10.1016/j.chb.2026.109243) — Lovett and Yang, *Computers in Human Behavior*, article 109243, November 2026. Survey evidence from recent workplace AI users, with habit carrying the largest relative-importance weight and personal payment for tools associated with elevated shadow AI.

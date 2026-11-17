@@ -1,7 +1,7 @@
 ---
 title: History of AI in Education
 created: "2026-08-23T13:00:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-17T11:05:00-05:00"
 type: concept
 foundations: [agency, ai-education, history-of-aied]
 pedagogy: [constructivist, learning-theories]
@@ -60,18 +60,7 @@ The arrival of [[generative-ai|generative AI]] — a broad family that includes 
 - **Weigh control against agency deliberately.** Whether AI should optimize toward standard outcomes or enable diverse, learner-directed outcomes is a genuine choice with institutional and political consequences, not a technical given.
 - **Preserve learner agency.** The recurring resistance to standardization and control in favor of open-ended, learner-centered approaches is a durable thread worth defending.
 
-## Common Misconceptions
-
-**"AI in education began with ChatGPT."** It did not, and the belief is costly because it makes every earlier lesson invisible. [[intelligent-tutoring|Intelligent tutoring]] descends from the heuristic-search and expert-systems work of the 1960s and 70s, and the AIED community formed around it decades before [[llm|large language models]]. [[mishra-control-vs-agency-history-2025|Mishra et al.]] show the current debates reproducing a divide already explicit in Anderson's cognitive tutors and Papert's constructionism, so a reader who dates the field to 2022 will re-derive arguments the field settled, abandoned, or lost once before.
-
-**"The field has steadily abandoned AI-as-analogy in favor of applied tools, and generative AI continues that trend."** The trajectory is real but not monotonic, which makes this the most instructive correction. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian and Doroudi's]] positional analysis of AIED 1985, 1993, 2021 and 2024 and IJAIED 2004, 2014 and 2021 does show a drift from a mixed field toward near-exclusive applied instrumentality by the 2000s. But at AIED 2024, three of the four papers in the AI-as-analogy quadrant were LLM-based, including best-paper work on LLM-based teachable agents. Generative AI partly **reverses** the trend rather than extending it, which is why treating it as "the next intelligent tutor" misreads where the research frontier actually moved.
-
-**"Personalization means adapting the difficulty to each learner."** That is only one of two incompatible senses, and conflating them hides a political choice. In the first sense the outcome is held fixed and only the path varies, the lineage running from Skinner's teaching machines through mastery-based tutoring. In the second the outcomes themselves diversify, as learners pursue individual interests unconstrained by standard curriculum (Zhao, 2024). An [[intelligent-tutoring|ITS]] implements the first; [[constructivist|constructionism]] the second. A tool described as "personalized" has told you nothing until you know which it means.
-
-**"'Artificial intelligence' was simply the obvious name for the field."** The term was a deliberate choice. When McCarthy planned the 1956 Dartmouth project he favored *artificial intelligence* over *cybernetics* partly to distance the work from Wiener's analog feedback tradition. That single decision framed machines in direct comparison to human cognition, and the anthropomorphic framing it installed still shapes research priorities, product language, and the ethical questions the public asks.
-
-## Putting It into Practice
-
+## Implications for Practice
 **For instructors and instructional designers**
 
 - Name the tradition your tool belongs to before adopting it. Ask whether it optimizes toward fixed outcomes or opens learner direction, because that answer, not the feature list, determines what it will do to your [[assessment|assessment design]].
@@ -87,6 +76,16 @@ The arrival of [[generative-ai|generative AI]] — a broad family that includes 
 
 - Use the historical proceedings as a baseline rather than treating the present as the only available comparison. The AIED proceedings for 1985, 1993, 2021 and 2024 and IJAIED for 2004, 2014 and 2021 are a ready-made longitudinal sample of the field's own claims.
 - Cite lineage when you claim novelty. A claim that a system "personalizes learning" or "models the learner" is only novel relative to a specific prior tradition, and the tradition is documented.
+
+## Common Misconceptions
+
+**"AI in education began with ChatGPT."** It did not, and the belief is costly because it makes every earlier lesson invisible. [[intelligent-tutoring|Intelligent tutoring]] descends from the heuristic-search and expert-systems work of the 1960s and 70s, and the AIED community formed around it decades before [[llm|large language models]]. [[mishra-control-vs-agency-history-2025|Mishra et al.]] show the current debates reproducing a divide already explicit in Anderson's cognitive tutors and Papert's constructionism, so a reader who dates the field to 2022 will re-derive arguments the field settled, abandoned, or lost once before.
+
+**"The field has steadily abandoned AI-as-analogy in favor of applied tools, and generative AI continues that trend."** The trajectory is real but not monotonic, which makes this the most instructive correction. [[rismanchian-ai-education-four-decades-aixed-2026|Rismanchian and Doroudi's]] positional analysis of AIED 1985, 1993, 2021 and 2024 and IJAIED 2004, 2014 and 2021 does show a drift from a mixed field toward near-exclusive applied instrumentality by the 2000s. But at AIED 2024, three of the four papers in the AI-as-analogy quadrant were LLM-based, including best-paper work on LLM-based teachable agents. Generative AI partly **reverses** the trend rather than extending it, which is why treating it as "the next intelligent tutor" misreads where the research frontier actually moved.
+
+**"Personalization means adapting the difficulty to each learner."** That is only one of two incompatible senses, and conflating them hides a political choice. In the first sense the outcome is held fixed and only the path varies, the lineage running from Skinner's teaching machines through mastery-based tutoring. In the second the outcomes themselves diversify, as learners pursue individual interests unconstrained by standard curriculum (Zhao, 2024). An [[intelligent-tutoring|ITS]] implements the first; [[constructivist|constructionism]] the second. A tool described as "personalized" has told you nothing until you know which it means.
+
+**"'Artificial intelligence' was simply the obvious name for the field."** The term was a deliberate choice. When McCarthy planned the 1956 Dartmouth project he favored *artificial intelligence* over *cybernetics* partly to distance the work from Wiener's analog feedback tradition. That single decision framed machines in direct comparison to human cognition, and the anthropomorphic framing it installed still shapes research priorities, product language, and the ethical questions the public asks.
 
 ## Connected Concepts
 

@@ -1,7 +1,7 @@
 ---
 title: Explainable AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-17T11:05:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -93,6 +93,10 @@ For explainability specifically, the assignments that matter are the ones that f
 - **"General XAI practice transfers to education."** The [[xai-education-framework|XAI-ED framework]] (Khosravi et al., 2022) insists education has **distinctive explainability needs** beyond general XAI, because the audience includes learners who must act on the explanation rather than auditors who must certify it.
 - **"Faithfulness is a property you can claim without probing."** Measured faithfulness requires **counterfactual deletion of rubric-critical spans** alongside human ratings. Attention-to-rubric alignment reaching **78.0% against 41.7% for GPT-4 zero-shot and 32.1% for BERT** is a comparative result from that kind of probing, not from a claim about interpretability.
 
+## Citation
+
+Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.
+
 ## Connected Concepts
 - [[trust-calibration]]
 - [[trust]]
@@ -135,7 +139,3 @@ For explainability specifically, the assignments that matter are the ones that f
 - [[decision-making-agent-student-decision-acceptance-2026]] — Teacher- versus AI-made grading decisions: a written rationale widened the fairness gap
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Citations and authority signals raised deference to incorrect output, some references misattributed or fictitious
 - [[hooshyar-responsible-trustworthy-educational-data-mining-2026]] - symbolic, sub-symbolic and neural-symbolic models on one cohort attributed their predictions to different factors
-
-## Citation
-
-Khosravi, H., Buckingham Shum, S., Chen, G., Conati, C., Tsai, Y.-S., Kay, J., Knight, S., Martinez-Maldonado, R., Sadiq, S., & Gašević, D. (2022). [*Explainable Artificial Intelligence in education*](https://doi.org/10.1016/j.caeai.2022.100074). *Computers and Education: Artificial Intelligence*, 100074.

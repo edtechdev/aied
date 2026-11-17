@@ -1,7 +1,7 @@
 ---
 title: Reducing AI Misuse
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-17T11:05:00-05:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -66,18 +66,7 @@ Educative levers look different again once integrity is treated as a practice to
 
 - **[[desirable-difficulties|Productive friction]] and pedagogical function.** The Sydney rapid review argues GenAI undermines learning when it lets students bypass the cognitive/metacognitive friction needed to learn, and that purposefully designed tools introduce *productive friction* (withholding answers, prompting explanation). It distinguishes four pedagogical functions — learning *from*, *with*, *about*, or *by shaping* GenAI — each with different demands on agency and assessment.([[young-people-learning-generative-ai-rapid-review-2026|Arthars et al., 2026]])
 
-## Common Misconceptions
-
-**"Teaching students about the risks is the main lever against misuse."** It is the lever that depends on the student cooperating, which is why it ranks below the structural ones here. Guardrails and assessment redesign work whether or not a student chooses the right behavior; educative approaches work only with buy-in. The distinction is not moral but mechanical — a changed environment constrains the behavior directly, while a changed belief must survive the night before the deadline.
-
-**"If a guardrail holds during the session, the learning is secured."** Holding and teaching are separate outcomes, and the evidence contains a clean double result. Withholding the aggregate position in a [[agentic-ai|multi-agent]] debate cut students' switching to an incorrect AI position from 42–60.5% down to 5.7–8.2% — a large protective effect — yet produced **no learning effect within the session** (β = 0.03, p = 0.18). The rail did its job as a rail and did not become instruction. Designing for misuse prevention is not the same as designing for learning.
-
-**"Detecting misuse and punishing it is a prevention strategy."** Prevention has to cover the grader itself. [[humble-prompt-injection-ai-grading-red-team-2026|Humble's (2026)]] red-team evaluation found that two of five indirect prompt-injection strategies embedded in a submission file raised a failing essay's score. A pipeline that detects student misuse while trusting unexamined submission content is defended on one side only.
-
-**"Misuse is a student-motivation problem."** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher and Calderon (2025)]] push the binding constraint up a level, treating governance rather than student behavior as the thing to change and proposing a 130-item integrity indicator framework. And the learning harm is measurable at scale: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei and Wu (2026)]] found homework outsourcing raised homework scores 18% while *lowering* closed-book exam scores 20% — a design failure that shows up in exactly the gap between performance and learning.
-
-## Implementation Guidance by Role
-
+## Implications for Practice
 **For instructors and course teams**
 
 - Start with the assessment, not the policy text. Ask of every graded task whether the unaided version would show what you intend to certify, and fix the task first — it is the lever that does not require student consent.
@@ -94,6 +83,16 @@ Educative levers look different again once integrity is treated as a practice to
 **For administrators and policymakers**
 
 - Put the binding constraint where the evidence puts it. Indicators and governance structures address the environment; exhortation to students addresses the person least able to change institutional design.
+
+## Common Misconceptions
+
+**"Teaching students about the risks is the main lever against misuse."** It is the lever that depends on the student cooperating, which is why it ranks below the structural ones here. Guardrails and assessment redesign work whether or not a student chooses the right behavior; educative approaches work only with buy-in. The distinction is not moral but mechanical — a changed environment constrains the behavior directly, while a changed belief must survive the night before the deadline.
+
+**"If a guardrail holds during the session, the learning is secured."** Holding and teaching are separate outcomes, and the evidence contains a clean double result. Withholding the aggregate position in a [[agentic-ai|multi-agent]] debate cut students' switching to an incorrect AI position from 42–60.5% down to 5.7–8.2% — a large protective effect — yet produced **no learning effect within the session** (β = 0.03, p = 0.18). The rail did its job as a rail and did not become instruction. Designing for misuse prevention is not the same as designing for learning.
+
+**"Detecting misuse and punishing it is a prevention strategy."** Prevention has to cover the grader itself. [[humble-prompt-injection-ai-grading-red-team-2026|Humble's (2026)]] red-team evaluation found that two of five indirect prompt-injection strategies embedded in a submission file raised a failing essay's score. A pipeline that detects student misuse while trusting unexamined submission content is defended on one side only.
+
+**"Misuse is a student-motivation problem."** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher and Calderon (2025)]] push the binding constraint up a level, treating governance rather than student behavior as the thing to change and proposing a 130-item integrity indicator framework. And the learning harm is measurable at scale: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei and Wu (2026)]] found homework outsourcing raised homework scores 18% while *lowering* closed-book exam scores 20% — a design failure that shows up in exactly the gap between performance and learning.
 
 ## Connected Concepts
 
@@ -141,7 +140,6 @@ Educative levers look different again once integrity is treated as a practice to
 - [[li-genai-assessment-language-equity-2026]] — Where language support ends and substitution begins for EAL writers (Li 2026)
 - [[humble-prompt-injection-ai-grading-red-team-2026]] — Prompt injection as a misuse vector against AI grading (Humble 2026)
 - [[coates-governing-academic-integrity-indicators-2025]] — Governance as the binding constraint on integrity: a 130-item indicator framework (Coates, Croucher & Calderon 2025)
-
 
 - [[tie-responsible-genai-use-academic-writing-review-2026]] — Responsible student use of generative AI in academic writing: a scoping review of boundaries, educational approaches, and evidence gaps
 - [[guo-overreliance-genai-feedback-2026]] — Cognitive load runs through offloading into overreliance, with monitoring changing the route

@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-17T09:26:00-05:00"
+updated: "2026-11-17T11:05:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -161,13 +161,23 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 - The teacher's role extends to co-designing AI learning resources: teacher-AI co-designed [[simulation|simulations]] for drone STEM instruction kept GenAI output pedagogically valid and contextually relevant, and teachers are the intended beneficiaries of the Teachers' AI Literacy Scale. Effective GenAI integration increasingly depends on teacher involvement in design.
 - **Instructor-built AI beat centrally designed tools.** A pre-registered [[rct|RCT]] with 7,200 students in 55 courses at 19 universities found 0.32 SD higher scores on proctored, AI-free exams when frontline instructors designed the AI support themselves ([[li-instructor-designed-ai-rct-2026|Li et al. (2026)]]), the strongest evidence yet that design authority belongs with the teacher.
 
-
 ### AI Reflection Systems Should Adapt to Teacher Experience
 
 - **Teacher-facing AI reflection analytics should be expertise-adapted, not one-size-fits-all.** A survey of 100 US K–12 teachers (median split at nine years; binomial tests; 15% choice differences detectable at ~83% power) found systematic preference splits. Less experienced teachers cite lack of reflection time as a top obstacle at 3x the experienced rate (37% vs. 12%, p < .001) and want analytics on student disengagement (48% vs. 33%, p = .028) and emotions (31% vs. 18%, p = .036).
 - **The design rule derived from the split is experience-adapted recommendation modes.** Experienced teachers want analytics on improved learning after helping a student (40% vs. 26%, p = .019) and on their teaching methods (42% vs. 26%, p = .012); their top obstacle is tracking performance (28% vs. 15%, p = .009). Design rule: novice mode = structured prompts and engagement analytics; expert mode = flexible longitudinal analysis — a direct argument against uniform dashboards. ([[falhs-teacher-expertise-reflection-2025|Falhs et al., 2025]])
 
 Two recent trials put numbers on the workload case and its limits. A cluster-randomized trial across 68 English secondary schools cut lesson-preparation time from 81.5 to 56.2 minutes a week, a saving of 25.3 minutes, without a detected loss of lesson quality ([[roy-chatgpt-lesson-preparation-nfer-2024|Roy et al., 2024]]). On ASSISTments, teachers given LLM assignment summaries saw more students start and complete assignments, while class-level scores did not improve ([[lim-llm-summaries-teachers-rct-2026|Lim et al., 2026]]). Time saved and behavior changed; measured learning did not.
+
+## Implications for Practice
+The evidence supports a specific order of operations for an instructor adopting AI, rather than a list of features to learn.
+
+1. **Write the activity before choosing the tool.** Specify the objective, the student attempt that comes first, and what counts as evidence of understanding. Tools chosen first tend to rewrite the activity around themselves.
+2. **Decide the delegation pattern explicitly.** Outline the lesson yourself and let AI fill content gaps, rather than accepting a generated outline — the pattern above with the measured quality difference.
+3. **Place the human checkpoint where ownership sits.** Design so the learner evaluates, corrects, and owns the AI-assisted work, and so AI feedback arrives as a draft the teacher curates rather than a comment the teacher relays.
+4. **Protect the interpretation time the shift creates.** If attention moves from materials production to reading learners, that reallocated time needs to survive contact with the calendar; if it is absorbed by new administrative work, the promised role change does not occur.
+5. **Check whether you are being trained on tools or on pedagogy.** Given the SEM result, prefer professional development that works on disciplinary tasks and identity over feature tours.
+
+Epistemic authority in AI-assisted planning is negotiated episode by episode rather than settled by policy. Across 34 planning episodes from five preservice mathematics teachers, authority was retained in 16, shared in 12 and ceded in 6; the teacher who pasted a complete AI lesson plan had moved from construction to authorization, while another kept her own framework and adjusted the model's output against it ([[pang-epistemic-authority-ai-lesson-planning-2026|Pang et al. (2026)]]).
 
 ## Common Misconceptions
 
@@ -178,18 +188,6 @@ Two recent trials put numbers on the workload case and its limits. A cluster-ran
 **"Teachers are already co-designers of AI, so the transition is underway."** The aspiration is real; the description is not yet. [[wang-teacher-ai-co-design-review-2026|Wang, Liu and Islam's (2026)]] systematic review of teacher–AI co-design of learning tasks finds the co-designer stance **remains uneven**, with the dominant mode still AI as assistant or content generator. Reading that review as evidence of an accomplished shift would hide the gap between the teachers a page like this recommends and the teachers most institutions actually have.
 
 **"How a teacher delegates to a chatbot barely matters, since the model does the work."** The delegation pattern is the intervention. In children's STEAM arts lesson planning, [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo and Tahir (2025)]] found experimentally that filling content gaps in a *self-outlined* lesson preserved teacher design autonomy while still raising expert-rated plan quality (median 20.5 vs 17.6, p = .002, large effect), outperforming the alternative of letting the model supply the outline. Same model, same task, different division of labor, materially different result.
-
-## A Practical Starting Sequence
-
-The evidence supports a specific order of operations for an instructor adopting AI, rather than a list of features to learn.
-
-1. **Write the activity before choosing the tool.** Specify the objective, the student attempt that comes first, and what counts as evidence of understanding. Tools chosen first tend to rewrite the activity around themselves.
-2. **Decide the delegation pattern explicitly.** Outline the lesson yourself and let AI fill content gaps, rather than accepting a generated outline — the pattern above with the measured quality difference.
-3. **Place the human checkpoint where ownership sits.** Design so the learner evaluates, corrects, and owns the AI-assisted work, and so AI feedback arrives as a draft the teacher curates rather than a comment the teacher relays.
-4. **Protect the interpretation time the shift creates.** If attention moves from materials production to reading learners, that reallocated time needs to survive contact with the calendar; if it is absorbed by new administrative work, the promised role change does not occur.
-5. **Check whether you are being trained on tools or on pedagogy.** Given the SEM result, prefer professional development that works on disciplinary tasks and identity over feature tours.
-
-Epistemic authority in AI-assisted planning is negotiated episode by episode rather than settled by policy. Across 34 planning episodes from five preservice mathematics teachers, authority was retained in 16, shared in 12 and ceded in 6; the teacher who pasted a complete AI lesson plan had moved from construction to authorization, while another kept her own framework and adjusted the model's output against it ([[pang-epistemic-authority-ai-lesson-planning-2026|Pang et al. (2026)]]).
 
 ## Connected Concepts
 - [[pedagogical-partnerships]] — Pedagogical Partnerships

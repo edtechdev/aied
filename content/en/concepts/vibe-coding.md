@@ -2,7 +2,7 @@
 connected_resources: [vibes-diy, vibe-coding-center, agentic-builds, vibe-coded-classroom-examples]
 title: Vibe Coding
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-11-16T20:06:00-05:00"
+updated: "2026-11-17T11:05:00-05:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]
@@ -64,18 +64,7 @@ Vibe coding connects naturally to [[prompt-engineering|prompt engineering]] (pro
 
 A faculty-level case study supplies the organizational layer. [[zimmer-ai-intrapreneurship-faculty-innovation-2026|Zimmer (2026)]] describes *AI intrapreneurship* — educators building their own tools instead of waiting for institutional procurement — including an author who does not code using Claude Code to build a checker for 321 course links. The decisive enablers were organizational rather than technical: work discretion, rewards, and time availability, the last described as most obviously in deficit in academic settings and undercut by promotion and tenure. Security stayed the sober caveat: a working prototype is not a reviewed one, and classroom deployment adds student data and an LMS connection.
 
-## Common Misconceptions
-
-**"Vibe coding lowers the skill barrier, so it is mainly a matter of writing well."** Written-communication proficiency helps and does not carry the outcome alone. In a preregistered cross-sectional study (N = 100 tertiary students), both [[writing-education|written-communication proficiency]] (r = .29) and computer-science achievement (r = .39) significantly predicted performance on expert-vetted, GUI-oriented vibe-coding tasks, and in a joint model CS achievement contributed roughly **twice the unique variance** of writing skill while both retained independent predictive value. The barrier has moved, not disappeared, and part of it remains technical.
-
-**"Because anyone can now build software, what gets built will become more diverse."** Access and diversity are separate outcomes, and access can even compress the second. The design-homogenization evidence describes exactly this pattern: a wider population of builders working from the same models, the same component conventions and the same prompting defaults tends toward converging designs. Democratizing authorship does not automatically diversify artifacts.
-
-**"'Pure' vibe coding is what the term means, so the distinction does not matter."** It matters for evaluation and for safety. In pure vibe coding the source is never read or edited; only behavior is judged. Code-visible work has the user reading what was produced. These are different activities with different error profiles, and a study of one does not license claims about the other.
-
-**"If the app runs, the generated code is fine."** Running is a weak test. Veracode's 2025 analysis found only 55% of AI-generated code secure, so vibe-coded classroom tools still need a review pass before handling student data or connecting to any system worth protecting. Behavioral evaluation confirms the paths a user happens to exercise and says nothing about the ones they do not.
-
-## Putting Vibe Coding into Practice
-
+## Implications for Practice
 **For instructors and teacher educators**
 
 - Teach the difference between pure and code-visible vibe coding explicitly, and require the second for anything that will handle student data. The distinction is a teachable habit, not a [[philosophy-of-ai-in-education|philosophical]] nicety.
@@ -92,6 +81,16 @@ A faculty-level case study supplies the organizational layer. [[zimmer-ai-intrap
 
 - Report the vibe-coding condition (pure versus code-visible) alongside outcomes, and use expert-vetted, GUI-oriented tasks rather than [[self-report-measures|self-reported]] success, so results are comparable across studies.
 - Measure artifact diversity, not only artifact count or builder count, if the access argument is being tested.
+
+## Common Misconceptions
+
+**"Vibe coding lowers the skill barrier, so it is mainly a matter of writing well."** Written-communication proficiency helps and does not carry the outcome alone. In a preregistered cross-sectional study (N = 100 tertiary students), both [[writing-education|written-communication proficiency]] (r = .29) and computer-science achievement (r = .39) significantly predicted performance on expert-vetted, GUI-oriented vibe-coding tasks, and in a joint model CS achievement contributed roughly **twice the unique variance** of writing skill while both retained independent predictive value. The barrier has moved, not disappeared, and part of it remains technical.
+
+**"Because anyone can now build software, what gets built will become more diverse."** Access and diversity are separate outcomes, and access can even compress the second. The design-homogenization evidence describes exactly this pattern: a wider population of builders working from the same models, the same component conventions and the same prompting defaults tends toward converging designs. Democratizing authorship does not automatically diversify artifacts.
+
+**"'Pure' vibe coding is what the term means, so the distinction does not matter."** It matters for evaluation and for safety. In pure vibe coding the source is never read or edited; only behavior is judged. Code-visible work has the user reading what was produced. These are different activities with different error profiles, and a study of one does not license claims about the other.
+
+**"If the app runs, the generated code is fine."** Running is a weak test. Veracode's 2025 analysis found only 55% of AI-generated code secure, so vibe-coded classroom tools still need a review pass before handling student data or connecting to any system worth protecting. Behavioral evaluation confirms the paths a user happens to exercise and says nothing about the ones they do not.
 
 ## Connected Concepts
 
