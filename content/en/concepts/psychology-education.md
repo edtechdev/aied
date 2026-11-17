@@ -1,7 +1,7 @@
 ---
 title: Psychology Education
 created: "2026-11-17T06:03:44-05:00"
-updated: "2026-11-17T11:20:00-05:00"
+updated: "2026-11-17T11:40:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking]
 pedagogy: [student-ai-interaction]
@@ -17,21 +17,21 @@ ai_assist:
     role: drafting
 ---
 
-> **Psychology education** — the teaching of psychology as a discipline: the introductory and methods sequence, the undergraduate major, and the clinical and counselling training that leads to practice. It has the largest AI literature of any discipline in this base, and most of that literature does not study the psychology curriculum at all. Psychology students are the most convenient sample in higher education. They supply the respondents for generic studies of AI use, motivation and feedback. A smaller set of studies examines the courses themselves: assessment design in a second-year unit, an AI tutor in a statistics course, and the clinical training where AI is both a tool and a professional risk. The distinction matters because a finding that psychology students use AI in one way is not a finding about teaching psychology.
+> **Psychology education** — the teaching of psychology as a discipline: the introductory and methods sequence, the undergraduate major, and the clinical and counseling training that leads to practice. It has the largest AI literature of any discipline in this base, and most of that literature does not study the psychology curriculum at all. Psychology students are the most convenient sample in higher education. They supply the respondents for generic studies of AI use, motivation and feedback. A smaller set of studies examines the courses themselves: assessment design in a second-year unit, an AI tutor in a statistics course, and the clinical training where AI is both a tool and a professional risk. The distinction matters because a finding that psychology students use AI in one way is not a finding about teaching psychology.
 
 ## Questions to Consider
 
 - Psychology students are the easiest sample to recruit in higher education, so most studies of "students and AI" are really studies of psychology students. What could a finding from a participant pool tell you about your own course, and what could it not tell you?
 - A generated item bank can be reliable to acceptable standards while testing almost nothing above recall. Which matters more for the grade your students earn: that the marks are consistent, or that the items measure what the degree claims?
 - The R-Tutor study prompts a model to guide rather than to answer inside a statistics course. If the tutor withholds the answer, what is it teaching that a chatbot that answers is not?
-- Counsellor trainees practiced with a simulated client that was agreeable, emotionally flat and culturally neutral. Which of those three would worry you most in a trainee's first real session, and why?
+- Counselor trainees practiced with a simulated client that was agreeable, emotionally flat and culturally neutral. Which of those three would worry you most in a trainee's first real session, and why?
 - A clinical psychology program spent an estimated 0.52% of its time on machine learning in 2021, before any of this was urgent. Has your program changed the number, or only the conversation?
 
 ## Introduction
 
 Psychology sits in an unusual position in this literature. It supplies the discipline's methods, its constructs and most of its respondents, and it also teaches a subject whose core skills — designing a study, reading a statistic, judging evidence — are the ones generative AI is most often accused of short-cutting. That combination makes psychology education both the best-documented discipline in the AI literature and one of the least studied as a curriculum.
 
-Separating the two is the whole of the discipline's AI problem. What is known about teaching psychology itself is narrower than the volume of research suggests: assessment design in the undergraduate major, an AI tutor in the statistics sequence, the clinical and counselling training where AI arrives as a professional question, and the survey evidence on what psychology students know and believe. Studies that use psychology students as a convenience sample for a question about students in general are not evidence about the discipline, and the difference is worth naming each time.
+Separating the two is the whole of the discipline's AI problem. What is known about teaching psychology itself is narrower than the volume of research suggests: assessment design in the undergraduate major, an AI tutor in the statistics sequence, the clinical and counseling training where AI arrives as a professional question, and the survey evidence on what psychology students know and believe. Studies that use psychology students as a convenience sample for a question about students in general are not evidence about the discipline, and the difference is worth naming each time.
 
 ## Why psychology dominates the literature
 
@@ -47,13 +47,13 @@ Assessment generation is the second strand. [[baudin-ai-generated-mcq-psychology
 
 Statistics is the third, and the best-evidenced intervention. [[ai-tutor-statistical-programming-adoption-2026|Préau and colleagues]] deployed a purpose-built "R-Tutor" inside a semester-long R programming course for psychology undergraduates at Tübingen, in a preregistered longitudinal design, with the tutor prompted to guide rather than to answer.
 
-## Clinical and counselling training
+## Clinical and counseling training
 
 Clinical psychology is where AI enters as a professional question rather than a study aid, and the evidence has a clear before-and-after shape.
 
 [[blease-machine-learning-clinical-psychology-education-2021|Blease and colleagues]] supply the baseline from 2021: 97% of Basel's postgraduate clinical psychology students had heard of machine learning, 46% intended to learn about it for mental health care, and they estimated that 0.52% of the program was spent on it. They moderately agreed it belonged in the curriculum.
 
-[[akkurt-counselor-trainees-chatgpt-simulated-client-2025|Akkurt, Maurya and Brown]] then used GPT-4o as a simulated client for counsellor trainees. Nine transcripts and a four-person focus group is thin evidence, but the pattern is specific: the simulator lowered performance anxiety and built confidence, while the client agreed too readily, carried no emotional nuance and stayed culturally neutral — removing exactly the resistance and identity dynamics that counselling training exists to practice.
+[[akkurt-counselor-trainees-chatgpt-simulated-client-2025|Akkurt, Maurya and Brown]] then used GPT-4o as a simulated client for counselor trainees. Nine transcripts and a four-person focus group is thin evidence, but the pattern is specific: the simulator lowered performance anxiety and built confidence, while the client agreed too readily, carried no emotional nuance and stayed culturally neutral — removing exactly the resistance and identity dynamics that counseling training exists to practice.
 
 [[armagan-bogatekin-ai-attitudes-psychology-trainees-2026|Armagan-Bogatekin]] modeled 286 psychology students and psychotherapy trainees across six domains and found three to four latent classes in every one. There is no average trainee: skepticism, learning anxiety, job anxiety and risk concern form separate profiles, and the profiles differ by whether the tool is a feedback aid or a treatment recommender.
 

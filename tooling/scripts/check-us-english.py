@@ -69,6 +69,8 @@ WORDS = {
     "modelling": "modeling", "modelled": "modeled", "modeller": "modeler",
     "analyse": "analyze", "analysed": "analyzed", "analysing": "analyzing", "analyser": "analyzer",
     "judgement": "judgment", "judgements": "judgments",
+    "counselling": "counseling", "counsellor": "counselor", "counsellors": "counselors",
+    "counselled": "counseled", "counselling's": "counseling's",
     "artefact": "artifact", "artefacts": "artifacts",
     "sceptical": "skeptical", "scepticism": "skepticism",
     "defence": "defense", "licence": "license", "enrol": "enroll", "enrolment": "enrollment",

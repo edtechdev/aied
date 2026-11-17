@@ -1,7 +1,7 @@
 ---
 title: Well-Being
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-17T11:40:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [motivation, social-emotional-learning]
@@ -57,7 +57,7 @@ Well-being in education is multifaceted: it includes emotional well-being (posit
 
 
 - **Whether AI bonding protects or harms depends on offline relationships.** [[ai-connectedness-adolescent-mental-health-2026|Fu and Zhao (2026)]] propose that mental-health effects track AI connectedness relative to traditional offline connectedness rather than its intensity alone — supplementary when real-world bonds meet identity-confirmation needs, compensatory when [[parents-and-families|caregivers]] do not — and predict an inverted-U relation between the two.
-- **Culturally [[situated-learning|situated]] well-being support and its limits:** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] describe Sukoon, a hybrid well-being system for Pakistani university students that pairs a Random Forest stress classifier (89.09% accuracy over three severity levels; 20 survey features) with an [[llm|LLM]] dialogue layer that escalates tone and support intensity across three tiers in line with the Stepped Care Model. It was built because Western-designed mental-health tools are English-language and culturally mismatched for students who express distress in Urdu or Roman Urdu and who face academic, financial, familial and relational stressors simultaneously; the authors are explicit that it is not a [[medical-education|clinical]] diagnostic or therapy tool, that high-distress responses point toward professional counselling, and that the chatbot layer has not yet been evaluated with students on cultural appropriateness or emotional safety.
+- **Culturally [[situated-learning|situated]] well-being support and its limits:** [[culturally-aware-student-stress-chatbot-2026|Bashir and Afzal (2026)]] describe Sukoon, a hybrid well-being system for Pakistani university students. It pairs a Random Forest stress classifier (89.09% accuracy over three severity levels; 20 survey features) with an [[llm|LLM]] dialogue layer that escalates tone and support intensity across three tiers in line with the Stepped Care Model. It was built because Western-designed mental-health tools are English-language and culturally mismatched for students who express distress in Urdu or Roman Urdu and who face academic, financial, familial and relational stressors simultaneously. The authors are explicit that it is not a [[medical-education|clinical]] diagnostic or therapy tool, that high-distress responses point toward professional counseling, and that the chatbot layer has not yet been evaluated with students on cultural appropriateness or emotional safety.
 
 - **Teacher well-being and role:** AI's impact on [[teacher-role|teachers]] — including workload, anxiety about teaching with disruptive technology, and the capacity to provide emotional support — is a recurring concern, connecting to [[teacher-ai-competency|teacher AI competency]] and [[educational-development|professional development]].
 
@@ -78,7 +78,7 @@ A recurring theme is that well-being should be a deliberate design consideration
 **The social-emotional evidence base does not say who should act.** A [[meta-analysis-systematic-review|systematic review]] of 65 studies at the intersection of AI and [[social-emotional-learning|social-emotional learning]] found nearly three-quarters made no mention of policy implications, and the minority that did offered little actor-specific guidance on privacy, [[teacher-education|teacher training]] or resource allocation ([[policy-deficit-ai-sel-2026|Tran, Liu and Nguyen (2026)]]). Well-being as a design consideration therefore has evidence about effects and very little about responsibility, which leaves the question of who designs for it to the institution rather than to the literature.
 
 
-A conceptual reframing grounds [[self-regulated-learning|emotion regulation]] support in physical activity and campus ecology rather than affect detection alone: no single expressive channel identifies distress without context, so AI should support regulation through exercise while teachers and counsellors keep interpretation, and affect monitoring becomes coercive once tied to attendance or grading ([[ai-emotion-regulation-sport-exercise-2026|Zhang et al. (2026)]]).
+A conceptual reframing grounds [[self-regulated-learning|emotion regulation]] support in physical activity and campus ecology rather than affect detection alone. No single expressive channel identifies distress without context, so AI should support regulation through exercise while teachers and counselors keep interpretation. Affect monitoring becomes coercive once tied to attendance or grading ([[ai-emotion-regulation-sport-exercise-2026|Zhang et al. (2026)]]).
 
 ## Connections to related concepts
 

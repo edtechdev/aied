@@ -1,7 +1,7 @@
 ---
 title: "An AI-Powered Culturally Aware Chatbot for Stress Detection and Wellness Support among Pakistani University Students Using NLP and Machine Learning"
 created: "2026-09-11T09:35:00-04:00"
-updated: "2026-09-19T07:09:40-04:00"
+updated: "2026-11-17T11:55:00-05:00"
 type: article
 pedagogy: [anxiety-and-stress, well-being]
 technology: [conversational-ai, machine-learning]
@@ -37,7 +37,7 @@ Class-level precision and recall are reported as reasonably uniform (precision 0
 
 ## Feature importance and the teacher-student relationship finding
 
-[[explainable-ai|Feature importance]] places blood pressure first (15.6%), consistent with the bi-directional stress–blood-pressure association documented in exam-period college samples, followed by **teacher-student relationship (10.0%)**, sleep quality (9.3%), depression (8.3%) and social support (7.6%). Ranked ninth, and notably weak, was anxiety level (4.8%) — the authors read this as evidence that student [[anxiety-and-stress|stress]] is multi-dimensional rather than driven by a single psychological indicator.
+[[explainable-ai|Feature importance]] puts blood pressure first (0.156), consistent with the bi-directional stress–blood-pressure association documented in exam-period college samples, followed by **teacher–student relationship (0.100)**, sleep quality (0.093), depression (0.083) and social support (0.0757). Ranked ninth, and notably weak, was anxiety level (0.048).
 
 The ranked second place of the teacher-student relationship is the paper's culturally distinctive claim. The authors attribute it to the comparatively hierarchical educational environment in Pakistan, where power imbalance and limited [[student-support-and-success|academic support]] structure [[student-experience|student experience]] in ways that Western-instrumented tools do not capture. They present this as a hypothesis requiring locally collected data rather than a settled finding — a reasonable hedge, since the dataset is not Pakistani and feature importances are model-relative.
 
@@ -53,7 +53,7 @@ Two evaluations are reported. The classifier is evaluated on the held-out test s
 
 The limitations are substantive and [[self-report-measures|self-reported]]: the training data is not representative of Pakistani students, so the feature-importance conclusions are preliminary; the chatbot has not been evaluated with students on cultural appropriateness, emotional safety or satisfaction; the system is English at its core with prompted Urdu expressions rather than a genuinely bilingual NLP pipeline; and the classifier was validated on a single stratified split without k-fold confidence intervals. Future work commits to Urdu-translated DASS-21 primary data collection from Pakistani universities, particularly among students moving from FSc into undergraduate study, and to formal evaluation of the conversational layer.
 
-Because a [[machine-learning|trained classifier]] decides the support tier, several [[governance|governance]] questions remain open rather than addressed: what happens when a student is misclassified in the harmful direction, how distress disclosures are stored and what [[privacy|privacy]] protections apply in a university setting, and how escalation to human counselling is operationalized when the high-stress tier only *asks* the model to point toward professional services. The system is explicitly not presented as a [[medical-education|clinical]] diagnostic or therapy tool, and the authors note attention to avoiding stigmatizing language in high-stress responses — but the boundary between [[human-in-the-loop-ai|human oversight]] and automated encouragement is left as a design question for the deployment stage.
+Because a [[machine-learning|trained classifier]] decides the support tier, several [[governance|governance]] questions remain open rather than addressed: what happens when a student is misclassified in the harmful direction, how distress disclosures are stored and what [[privacy|privacy]] protections apply in a university setting, and how escalation to human counseling is operationalized when the high-stress tier only *asks* the model to point toward professional services. The system is explicitly not presented as a [[medical-education|clinical]] diagnostic or therapy tool, and the authors note attention to avoiding stigmatizing language in high-stress responses — but the boundary between [[human-in-the-loop-ai|human oversight]] and automated encouragement is left as a design question for the deployment stage.
 
 ## What this means for practice
 

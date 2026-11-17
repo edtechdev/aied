@@ -1,7 +1,7 @@
 ---
 title: Simulating Students
 created: "2026-08-12T22:10:30-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-17T11:40:00-05:00"
 type: concept
 connected_faqs: [checking-whether-educational-ai-works, making-simulated-students-behave-like-learners, how-can-ai-assist-with-educational-research]
 foundations: [agentic-ai, teacher-role]
@@ -66,7 +66,7 @@ Validity is the central concern: a simulated student is only useful if its behav
 
 The failure is quantified: across seven models from 4B to 120B parameters, simulators flipped to the correct answer at near-uniform rates whatever the feedback, so output similarity says nothing about the belief state behind it, while training against the Selective Flip Score lifted faithfulness by up to +0.56 ([[llm-student-simulation-misconception-faithfulness|Do, Sonkar & Sachan (2026)]]).
 
-**Simulated clients remove the clarification phase, and the trainee's behavior follows.** [[rudolph-llm-simulated-counselling-clients-2026|Rudolph et al. (2026)]] compared 64 human-human chat counselling role-plays with 74 human-LLM conversations (Mixtral 8x7B, 4-bit) under the GeCCo category system and found that LLM clients disclosed the problem embedded in their prompt rather than circling it. Counsellors consequently reached Problem-Solving in 17.63% of coded behavior against 10.67% with human clients, relied more on factual reflection than facilitative moderation, and closed sessions with formalities more often (11.95% vs 5.95%). The design consequence is that a curriculum built mainly on simulated clients trains the second half of a session: eliciting a reluctant account is exactly what the simulated client skips, so a prompt that makes the client withhold restores it.
+**Simulated clients remove the clarification phase, and the trainee's behavior follows.** [[rudolph-llm-simulated-counselling-clients-2026|Rudolph et al. (2026)]] compared 64 human-human chat counseling role-plays with 74 human-LLM conversations (Mixtral 8x7B, 4-bit) under the GeCCo category system and found that LLM clients disclosed the problem embedded in their prompt rather than circling it. Counselors consequently reached Problem-Solving in 17.63% of coded behavior against 10.67% with human clients, relied more on factual reflection than facilitative moderation, and closed sessions with formalities more often (11.95% vs 5.95%). The design consequence is that a curriculum built mainly on simulated clients trains the second half of a session: eliciting a reluctant account is exactly what the simulated client skips, so a prompt that makes the client withhold restores it.
 
 ## Connection to other concepts
 
@@ -149,7 +149,7 @@ Training against a simulator can also travel: TutorLoop's reinforcement-learning
 ## Connected Articles
 - [[muller-role-prompted-gpt-empathetic-communication-2026]] — A role-prompted GPT-4o patient produced a d = 0.58 self-assessed competence gain in 13 exchanges (Müller et al., 2026)
 - [[radmehr-alps-simulated-students-long-horizon-2026]] — ALPS: hierarchical planning keeps simulated students on profile over long horizons (Radmehr et al. 2026)
-- [[rudolph-llm-simulated-counselling-clients-2026]] — Simulated counselling clients disclose faster, so trainees skip facilitative moderation
+- [[rudolph-llm-simulated-counselling-clients-2026]] — Simulated counseling clients disclose faster, so trainees skip facilitative moderation
 - [[hachimi-ii-learner-behavior-modeling-student-simulation-2026]] — HACHIMI-II: From Role-Play to Learner Behavior Modeling for Faithful Student Simulation
 - [[tutorloop-sensor-cognitive-feedback-2026]] — A simulator-trained reinforcement-learning tutor transferred offline to a new real task (Xu & Zhang 2026)
 
