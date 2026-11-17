@@ -9,6 +9,7 @@ assessment: [assessment-validity]
 level: [higher ed]
 confidence: medium
 audience: [instructors, curriculum designers, faculty developers]
+connected_resources: [integrating-generative-ai-in-psychology-courses]
 reviewed_by: [editor]
 contributors: [editor]
 ai_assist:
