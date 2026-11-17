@@ -1,7 +1,7 @@
 ---
 title: "Open Education"
 created: "2026-10-28T18:32:28-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-17T18:50:00-05:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -63,6 +63,8 @@ Practice has a maturity literature of its own. [[duan-open-educational-practices
 
 Two further studies show how quickly the practice layer becomes a governance layer. [[patino-ai-international-cooperation-open-education-2026|Patiño, Martínez-Pérez, Ramírez-Montoya and Miranda (2026)]] document a UNESCO and ICDE residency of 110 participants from 13 countries in 10 teams, but their survey base is 72 responses from 54 institutions with no response rate, which is thin support for a roadmap aimed at the UN 2030 Agenda. And [[guo-teachers-ai-literacy-open-education-practices-2026|Guo, Lu and Gao (2026)]] surveyed 512 teachers across 30 Chinese provinces on whether AI literacy translates into open teaching practice, finding an indirect path through innovative behavior of 0.218 at low institutional support that falls to a non-significant 0.042 at high support.
 
+
+The licensing problem is where open practice and [[generative-ai|generative AI]] collide in the field. [[jordan-faculty-ai-oer-creation-2025|Jordan et al. (2025)]] paid seven faculty to build open materials with ChatGPT in an eight-week cohort, and found the program's own output could not carry a Creative Commons license: model-generated text enters the public domain without the authorship a license needs to attach to. They argue for separating the licensed layer from the model-generated one. A second approach keeps the model inside the course: [[powell-chatbot-enhanced-oer-composition-2026|Powell et al. (2026)]] trained a writing assistant on one open textbook and its course documents, so the assistant extends the resource rather than replacing it, and [[beznosko-local-ai-rag-physics-oer-2026|Beznosko et al. (2026)]] show the same move on local hardware, generating quizzes from instructor materials with nothing sent to a vendor.
 ## Equity, sustainability and the Global South
 
 The [[equity-in-ai-education|equity]] argument for open content is the oldest one: a resource without a price cannot be priced out. It is also the one most easily asserted and least often tested. The AI-era versions are more careful. Atenas and colleagues frame OER as a lever for marginalized communities and for meaningful participation in data collection, while warning that over-reliance on generated resources risks devaluing human [[creativity|creativity]] and judgment. Tlili and colleagues name the mechanisms by which generation degrades that lever: translation error, training-data bias, and a [[hallucination-risk|hallucination]] loop in which generated content is recycled into the training data for the next model.
@@ -109,6 +111,9 @@ The second is a reminder that a generative system can be open and its content cl
 
 ## Connected Articles
 
+- [[beznosko-local-ai-rag-physics-oer-2026]] — Approach to physics education using local AI with RAG for open educational materials generation (Beznosko et al., 2026)
+- [[powell-chatbot-enhanced-oer-composition-2026]] — The text talks back: Chatbot-enhanced OER in asynchronous Composition II (Powell et al., 2026)
+- [[jordan-faculty-ai-oer-creation-2025]] — From prompt to practice: A faculty-centered initiative to explore AI-supported OER creation (Jordan et al., 2025)
 - [[tlili-double-edged-sword-oer-generative-ai-2026]] — Five framings for OER once generative AI enters production (Tlili et al., 2026)
 - [[atenas-oer-digital-public-goods-2026]] — OER as digital public goods and the argument for governed infrastructure (Atenas et al., 2026)
 - [[deimann-rethinking-openness-ai-2026]] — Why twenty-five years of openness left the institutional middle intact (Deimann and Lukács, 2026)

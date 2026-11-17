@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-17T07:30:00-05:00"
+updated: "2026-11-17T18:50:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -145,6 +145,8 @@ The most complete classroom account of that redesign is the PAIRR deployment. [[
 
 - **Assess the process, not only the essay.** Winstone, Gravett and Elkington propose keeping the task and adding windows into how it was built — drafts, logs, reflection on decisions — with rubric language that credits revision and error; their worked example shortens a 2,500-word essay to 1,500 words plus 1,000 words of process evidence so marking stays flat ([[black-box-assessment-winstone-2026|Winstone et al., 2026]]).
 
+
+One design worth copying comes from an asynchronous composition course built around an open textbook. [[powell-chatbot-enhanced-oer-composition-2026|Powell et al. (2026)]] trained a writing assistant on that course's own materials, introduced [[ai-literacy|AI literacy]] videos before the first demanding assignment, and watched use peak at 84.44% in Week 3 when students were writing research proposals, then fall away. Their most useful observation is about failure: when students called an answer wrong, the error was usually rhetorical fit rather than fact, which is the judgment the course is trying to teach.
 ## Common Misconceptions
 
 **"AI writing support is just faster writing."** Writing is a process of thinking, not only an output, which is why AI can displace the very mental work that makes it a learning activity. The design guidance that follows is *coaching, not composing*: have the system question and critique outlines while the learner produces the prose. A tool that generates the draft has removed the thinking the assignment existed to develop, however good the draft is.
@@ -182,7 +184,8 @@ The most complete classroom account of that redesign is the PAIRR deployment. [[
 - [[reflection]]
 
 ## Connected Articles
-- [[favero-thinking-not-writing-chatbot-2026]] — Thinking Is Not Writing: Designing AI Chatbots to Connect Reasoning and Revision
+
+- [[powell-chatbot-enhanced-oer-composition-2026]] — The text talks back: Chatbot-enhanced OER in asynchronous Composition II (Powell et al., 2026)- [[favero-thinking-not-writing-chatbot-2026]] — Thinking Is Not Writing: Designing AI Chatbots to Connect Reasoning and Revision
 
 - [[gunay-ozden-process-genre-ai-writing-2026]] — A 32-student quasi-experiment: process–genre instruction raised informative, multimodal and AI-assisted writing (Günay & Özden 2026)
 - [[wu-lam-genai-writing-assessment-professors-2026]] — 24 writing professors on grading with AI: benefits for feedback, drift in scores, no institutional rule

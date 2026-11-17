@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-17T07:20:00-05:00"
+updated: "2026-11-17T18:50:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -193,6 +193,8 @@ The frameworks and empirical studies converge on a set of practical guidelines f
 
 Provision is thin even where a professional curriculum already exists. Among 417 allied-health undergraduates at one Ghanaian public university, 76.3% (n = 318) reported no prior training in responsible AI use, and 40.8% rated academic staff guidance inadequate against 28.1% who rated it appropriate ([[ago-prompt-literacy-allied-health-2026|Ago et al. (2026)]]). Intervention design in health professions therefore starts from novices who were never taught the material, not from learners extending an existing curriculum.
 
+
+Sequencing shows up as the design decision that matters most in two of the field's recent accounts. [[powell-chatbot-enhanced-oer-composition-2026|Powell et al. (2026)]] put short AI literacy videos in Weeks 1 to 4 of an asynchronous composition course, before the assignments where students would need the assistant, and both students and instructors named those videos as the element that made acceptable use legible. [[jordan-faculty-ai-oer-creation-2025|Jordan et al. (2025)]] ran the same logic for instructors: eight weeks, paid time, a cohort, and a shared framework for critiquing output, which moved self-reported familiarity modestly (3.2 to 3.5 on a five-point scale) while comfort rose to four or five for every participant.
 ## Measuring AI literacy
 
 A distinct research thread treats AI literacy not only as a target for instruction but as a construct to be measured. The assessment literature separates **self-reported** from **performance-based** skill: reporting diverges sharply from demonstrated competence (teachers overestimate by ~40%), and performance-based instruments predict classroom AI integration far better than confidence surveys (r≈0.72 vs 0.31). Intervention work reproduces that divergence at the level of behavior: in [[clerc-ai-literacy-workshop-llm-regulation-2026|Clerc et al. (2026)]], neither GenAI attitudes nor a general metacognitive-awareness scale predicted students' regulation of LLM interaction or their final task scores (r = .01 and r = .04, both non-significant), while the behaviors the workshop changed — rejecting underspecified prompts, judging answer correctness, asking a follow-up — did track answer quality. Validated instruments are emerging to close this gap — the [[jin-glat-genai-literacy-assessment|GLAT]] provides a psychometrically validated generative-AI literacy assessment, and diagnostic profiles (overestimators vs. true novices) let designers target support where it is needed. [[caeai-digital-literacy-frameworks-review-2026|Guo et al. (2026)]] map that instrument landscape directly, reviewing 80 validated frameworks — 69 digital literacy and 11 AI literacy — published between January 2014 and February 2025. AI has pulled digital literacy toward ethics and recast communication to include human–[[student-ai-interaction|AI interaction]], while metacognitive regulation and educator-specific human–AI collaboration remain the least specified. For design and research, this ties AI literacy to [[educational-measurement|educational measurement]] and to [[assessment|assessment]] broadly: a literacy framework is only as useful as the instruments used to track growth, and stage-based continua require reliable measurement to place learners along them. The K–12 audit behind one such progression is blunter: nine validated instruments, only one for early childhood, and none that captures the process of using, interrogating or revising with AI ([[guo-ai-literacy-developmental-paces-2026|Guo et al., 2026]]).
@@ -306,7 +308,9 @@ Discipline leads can keep the critical strand visible. Literacy that covers only
 - [[civic-and-political-education]]
 
 ## Connected Articles
-- [[feng-ai-literacy-psychological-dimensions-2026]] — 58 school-education studies: six teacher and eight student AI literacy dimensions sharing a psychological core (Feng & Carolus, 2026)
+
+- [[jordan-faculty-ai-oer-creation-2025]] — From prompt to practice: A faculty-centered initiative to explore AI-supported OER creation (Jordan et al., 2025)
+- [[powell-chatbot-enhanced-oer-composition-2026]] — The text talks back: Chatbot-enhanced OER in asynchronous Composition II (Powell et al., 2026)- [[feng-ai-literacy-psychological-dimensions-2026]] — 58 school-education studies: six teacher and eight student AI literacy dimensions sharing a psychological core (Feng & Carolus, 2026)
 - [[guo-ai-literacy-developmental-paces-2026]] — 118 K–12 records into nine categories: a ten-consideration progression from sensory play to team projects, and nine validated instruments, none of which captures process (Guo, Ali & Wong, 2026)
 - [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISE's four-country review: 84 of 194 states put MIL beyond technical skills into curricula, and human factors decided outcomes in all four systems (Cerioli, 2026)
 - [[islam-credibility-weaker-llms-2026]] — 42 undergraduates: answer-first lowered AI credibility to 5.65 against 6.60 unrestricted, with verification at 6.22 (Islam et al., 2026)

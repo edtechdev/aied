@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-16T08:24:32-05:00"
+updated: "2026-11-17T18:50:00-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -129,6 +129,8 @@ Participation and substance can move in opposite directions, and the reason is s
 
 **The setting changes the shape of the development, not the need for it.** In medical education, an AI residency treats faculty development and co-learning as the mechanism rather than an add-on ([[bursic-ai-residency-education-curriculum-2026|Bursic et al.]]). A review of 86 early-childhood resources identifies educator development as one of its four themes ([[early-childhood-ai-holistic-competencies-review-2026|the review]]). CTE renewal reaches for faculty development once curriculum change exposes a capability gap ([[wang-legacy-curriculum-ai-cte-renewal-2026|Wang]]). And among 146 teachers, engagement in professional development mediated the link between motivation and intended GenAI use ([[yuan-teacher-need-satisfaction-genai-2026|Yuan et al.]]).
 
+
+A worked example of the cohort model comes from a university library. [[jordan-faculty-ai-oer-creation-2025|Jordan et al. (2025)]] paid seven faculty stipends for an eight-week program that combined four weeks of instruction, independent project development and peer feedback, grounded in Knowles's adult learning principles and the CLEAR prompt framework. The gains were modest in AI familiarity and larger in OER familiarity, and the authors treat the stipend and the union agreement that let adjuncts be paid as part of the intervention rather than as administration.
 ## Common Misconceptions
 
 **"A skills workshop is the intervention educational development needs."** Readiness is a sociotechnical alignment problem, not an individual deficit, which is why a standalone "AI workshop" falls short of the need it addresses. A program that worked the question directly was a **six-week summer institute** taking ten faculty from Education, Health Sciences, Business and other programs through identity-level work. Duration and cohort are not incidental to that design; they are what distinguishes it from a feature tour.
@@ -157,7 +159,8 @@ Participation and substance can move in opposite directions, and the reason is s
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## Connected Articles
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI alignment advice: developers recast as technology trainers
+
+- [[jordan-faculty-ai-oer-creation-2025]] — From prompt to practice: A faculty-centered initiative to explore AI-supported OER creation (Jordan et al., 2025)- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI alignment advice: developers recast as technology trainers
 - [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (DBR)
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Ethical dimensions of AI: faculty and student views
 - [[nicola-richmond-programwide-assessment-genai-2025]]

@@ -1,7 +1,7 @@
 ---
 title: Physics Education
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-17T18:50:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -100,6 +100,8 @@ Physics education sits within the broader [[stem-education|STEM education]] doma
 
 - **Verify facilitator fidelity; keep the model-building phase AI-free.** Pressed to "just tell us" which can weighed more, a purpose-configured Gem invented mass values no one had measured, so a language-based facilitator's fidelity must be checked rather than assumed, and the AI-free build phase preserves the hands-on work it cannot reach ([[embodied-inquiry-ai-facilitator-physics-2026|Tufino & Damiani (2026)]]).
 
+
+The lowest-infrastructure route into course materials is documented for physics teaching. [[beznosko-local-ai-rag-physics-oer-2026|Beznosko et al. (2026)]] run a small model locally, point it at the course's own notes and problem sets, and generate quizzes and study guides from them, with the instructor validating every output. The setup needs no vendor agreement and sends no student data anywhere, which makes it a realistic first step for a department that cannot procure an enterprise tool but can spare a workstation.
 ## Common Misconceptions
 
 - **"Students trust AI enough to rely on it uncritically."** [[fouad-bentley-trust-utility-gap-physics-2026|Fouad and Bentley]] found a **50-point trust-utility gap**: **91% use AI for coursework but only 41% trust it**. Widespread use coexists with low trust, so an intervention aimed at building enthusiasm addresses the wrong variable.
@@ -131,6 +133,7 @@ Physics education sits within the broader [[stem-education|STEM education]] doma
 
 ## Connected Articles
 
+- [[beznosko-local-ai-rag-physics-oer-2026]] — Approach to physics education using local AI with RAG for open educational materials generation (Beznosko et al., 2026)
 - [[high-school-genai-acceptance-tam-physics-2026]] — Acceptance of GenAI modeled in Grade 10 physics
 - [[genai-video-engineering-physics-workflow-2026]] — From Prompts to Physical Laws: A Generative AI Workflow for Engineering Physics Education
 - [[wang-teacher-student-centered-agents-physics-2026]] — Teacher-centered vs. student-centered prompt-engineered physics agents (Wang et al. 2026)

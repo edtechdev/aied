@@ -1,7 +1,7 @@
 ---
 title: RAG (Retrieval-Augmented Generation)
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-16T09:20:00-05:00"
+updated: "2026-11-17T18:50:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 technology: [generative-ai, intelligent-tutoring, knowledge-graph, llm, llm-training-and-fine-tuning, edtech-platform]
@@ -23,6 +23,8 @@ reviewed_by: [editor]
 
 ## Introduction
 
+
+A local variant of the pattern is documented for physics teaching. [[beznosko-local-ai-rag-physics-oer-2026|Beznosko et al. (2026)]] run a model through Ollama on an instructor's own machine, retrieve from lecture notes, textbooks and problem sets, and generate quizzes, summaries and study guides from that context. The argument is privacy first — nothing leaves the device — and disciplinary fit second, since the retrieval corpus is the course itself. The acknowledged cost is model size: what fits in roughly 8 GB of video memory is not the most capable model available.
 ## How RAG is used in education
 
 - **Domain-specific retrieval with notation awareness:** [[algorag-rag-theoretical-cs-education-2026|AlgoRAG]] indexes textbooks, 847 lecture slides, 312 solved practice problems, 156 worked proof templates and 89 complexity worksheets for theoretical [[cs-education|computer science]] courses, adding mathematical entity recognition and notation-aware re-ranking; it answered all 179 instructor-authored exam questions within a 240-second timeout (mean 38.0 seconds) but produced BLEU-4 = 0.0000 and a 0.7620 rubric score, which illustrates both the value of the architecture and the limits of the metrics used to judge it.
@@ -68,6 +70,7 @@ RAG serves a complementary role to [[llm|LLM]] fine-tuning — retrieval provide
 
 ## Connected Articles
 
+- [[beznosko-local-ai-rag-physics-oer-2026]] — Approach to physics education using local AI with RAG for open educational materials generation (Beznosko et al., 2026)
 - [[hughes-rag-ai-feedback-implementation-2026]] — RAG raised perceived feedback quality and usefulness, not actionability, across two graduate cohorts
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — A curriculum-grounded lesson assistant whose time saving did not exceed a general chatbot's
 
