@@ -1,7 +1,7 @@
 ---
 title: Student Use of and Views on GenAI for Writing
 created: "2026-09-12T08:05:00-04:00"
-updated: "2026-09-19T11:14:39-04:00"
+updated: "2026-11-17T12:05:00-05:00"
 type: article
 foundations: [academic-integrity, ai-literacy, teacher-role]
 pedagogy: [student-ai-interaction]
@@ -19,7 +19,7 @@ discipline: [writing education]
 
 ## Overview
 
-Writing has always been central to sociology teaching, and the scholarship of teaching and learning has a long record of work on how students develop it. Generative AI complicates that work in a specific way: students can now produce competent-looking prose without doing the thinking the assignment was designed to elicit, and [[teacher-role|instructors]] cannot reliably tell the difference. But the authors note that much of the resulting debate has run ahead of evidence about what students are actually doing.
+Writing has always been central to sociology teaching, and the scholarship of teaching and learning has a long record of work on how students develop it. Sociology is the thinnest strand of [[social-sciences-education|social science education]], which is why a study of 504 sociology students carries more weight than its sample size suggests. Generative AI complicates that work in a specific way: students can now produce competent-looking prose without doing the thinking the assignment was designed to elicit, and [[teacher-role|instructors]] cannot reliably tell the difference. But the authors note that much of the resulting debate has run ahead of evidence about what students are actually doing.
 
 The study answers three questions: what students think about using GenAI in coursework, both for students generally and for themselves; how they are using it; and how well professors address AI use in [[learning-design|course design]] and in the evaluation of written work. The setup is deliberate: views and behavior are treated as linked, since a student who thinks AI use is broadly acceptable may still avoid it personally, and a student who uses it heavily may be uneasy about doing so. The findings are then read through a [[writing-education|writing education]] lens, asking what instructors should change rather than what students should stop doing.
 
