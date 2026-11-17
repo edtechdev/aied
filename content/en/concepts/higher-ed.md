@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-16T22:52:00-05:00"
+updated: "2026-11-17T07:20:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -81,6 +81,8 @@ One hour of AI tutoring was statistically equivalent to live expert human tutori
 [[academic-integrity|Academic integrity]] and [[ai-assessment-scale-reform|AI assessment reform]] research grapple with how universities should redesign evaluation for an AI-capable student body. [[ai-detection|Detection-centered]] approaches are giving way to [[authentic-assessment|authentic assessment]] and process-based evaluation, including [[fenton-oral-exams-ai-authentic-assessment-2025|oral exams]], [[roe-assessment-twins-2026|assessment twins]], and [[beyond-detection-authentic-assessment-ai-2025|authentic assessment redesign]]. The shift reflects a deeper concern: [[ai-tools-academic-work-cheating-2026|how students and institutions define cheating]] with AI, and the [[assessing-quality-ai-generated-exams-field-2025|quality of AI-generated assessment materials]]. Automation of grading itself is maturing for open-ended university work: [[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko & Drlik (2025)]] benchmarked eleven GenAI and sentence-embedding models on 1,885 responses to 24 software-engineering exam questions and found only GPTo1 reached almost-perfect agreement with two expert human graders (Fleiss' Kappa 0.82), with context-sensitive models outclassing reference-based ones — but its proprietary API costs led the authors to recommend hybrid human-in-the-loop deployment for resource-constrained institutions. At the professional-program level, [[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026)]] show that [[llm|LLM]] (GPT-4) scoring of pre-clerkship [[medical-education|medical]] open-ended exam questions can reach substantial-to-almost-perfect agreement with faculty graders (weighted kappa up to 0.94) after iterative human rubric refinement, while the authors still recommend keeping humans in the loop to arbitrate residual discrepancies. Complementing this model-level evidence, [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat, Das, Bhaumik & Thambi (2026)]] graded a 21-item university pharmacy exam with ChatGPT-5 and found near-perfect agreement with faculty on objective items (CCC 0.935–1.000) but unreliable agreement on short-answer and essay items, with rubric provision not consistently improving performance — reinforcing the case for [[human-in-the-loop-ai|hybrid, human-in-the-loop]] grading in university assessment.
 
 A third route hardens the assignment itself: rendering prompts as perturbed images raised LLM assignment-completion failure from 7.4% to 55.6% and pushed Tesseract extraction error to 100.0%, reframing integrity as content design that complements detection rather than replacing it ([[airri-machine-resistant-reading-interface-2026|Salaun et al., 2026]]).
+
+The design-level version of that implication is [[klapproth-constructive-alignment-genai-2026|Klapproth]]'s argument that [[generative-ai|generative AI]] does not invalidate constructive alignment but forces its extension. Outcomes must specify the conditions of performance — with AI, without it, or with disclosed use — because the same task under different conditions measures different things. The review's sharper claim is that AI runs down one of two pathways, scaffold or shortcut, and which one dominates is settled by task design and assessment format rather than by the tool.
 
 ## Implications for higher-education instructors
 
@@ -170,3 +172,4 @@ A third route hardens the assignment itself: rendering prompts as perturbed imag
 - [[kumar-chatgpt-academic-assignments-2025]] — Ethical awareness did not predict self-reported assignment performance (β = −0.006, p = .924)
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Four adoption profiles within one university; habit the strongest predictor and education level no moderator
 - [[kong-ai-employability-cognitive-engagement-2026]] — Adoption and frequency are read as capability proxies; nearly every measured outcome sits at the proximal end
+- [[klapproth-constructive-alignment-genai-2026]] — Constructive alignment extended: outcomes must state the conditions of performance

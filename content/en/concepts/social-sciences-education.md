@@ -1,7 +1,7 @@
 ---
 title: Social Science Education
 created: "2026-11-16T22:30:00-05:00"
-updated: "2026-11-17T12:05:00-05:00"
+updated: "2026-11-17T07:15:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking]
 technology: [generative-ai]
@@ -50,13 +50,17 @@ The honest reading is that this cluster knows more about how AI is being used in
 
 ## Where the cluster is thin
 
-**Psychology: sampled more often than studied.** Most psychology evidence comes from studies that recruit psychology students as convenient participants rather than examine the psychology curriculum. Four exceptions look at the course itself. [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond and Nicholls]] replaced peer assessment in a second-year psychology "Media Assignment" with ChatGPT, in a task that turns a published article into a media release and video. [[ai-tutor-statistical-programming-adoption-2026|Préau and colleagues]] deployed "R-Tutor" across a semester-long R programming course for psychology undergraduates at Tübingen, preregistered and longitudinal.
+**Psychology: sampled more often than studied.** The discipline now has its own page, [[psychology-education|psychology education]], because it carries more course-level evidence than the rest of the cluster combined. What follows is the cluster-level summary and the reason it exists. Most psychology evidence comes from studies that recruit psychology students as convenient participants rather than examine the psychology curriculum. Four exceptions look at the course itself. [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond and Nicholls]] replaced peer assessment in a second-year psychology "Media Assignment" with ChatGPT, in a task that turns a published article into a media release and video. [[ai-tutor-statistical-programming-adoption-2026|Préau and colleagues]] deployed "R-Tutor" across a semester-long R programming course for psychology undergraduates at Tübingen, preregistered and longitudinal.
 
 Two more test what psychology students know and how they judge. [[mental-health-literacy-students-llms-2026|Richter and colleagues]] put 30 mental-health statements to 150 psychology students, and to four LLMs across 80 runs each. [[reed-ai-literacy-ethical-judgment-scenarios-2026|Reed and colleagues]] tested whether AI literacy predicts applied ethical judgment across 531 undergraduates, using six vignettes.
 
 The rest is about students in general. [[cognitive-psychology|Cognitive psychology]], [[developmental-psychology|developmental psychology]], [[motivation|motivation]] and [[self-efficacy|self-efficacy]] are pages about how learning works, not about how a psychology course is taught. In a simulated AI-assisted essay task, feedback literacy was the only significant predictor of essay grade (β = 0.46, p = 0.017; [[hawkins-feedback-literacy-ai-essay-writing]]).
 
 [[critical-genai-use-predictors|Critical GenAI use]] is predicted by knowledge measured both by self-report and by objective test, alongside epistemic orientation and intellectual values. Psychology is also where the respondents come from. The largest single major in a recent two-year replication is psychology, at 300 of 991 students, so the discipline supplies the samples for surveys like that one without being their subject.
+
+Two more psychology courses are now in the record. [[baudin-ai-generated-mcq-psychology-exams-2025|Baudin]] had ChatGPT-4 write 80 items for an Experimental Psychology course and ran them through expert review and item analysis with 120 students: reliability held, but 73.75% of items tested recall and only 8.75% reached analysis or evaluation. [[akkurt-counselor-trainees-chatgpt-simulated-client-2025|Akkurt and colleagues]] used GPT-4o as a client for counsellor trainees, which lowered performance anxiety but produced a client who agreed too readily, had no emotional nuance and stayed culturally neutral. [[armagan-bogatekin-ai-attitudes-psychology-trainees-2026|Armagan-Bogatekin]] modeled 286 psychology students and psychotherapy trainees and found three to four classes in every one of six domains, which is the strongest evidence yet that there is no average trainee to train. [[blease-machine-learning-clinical-psychology-education-2021|Blease and colleagues]] supply the baseline from 2021: 97% of Basel's postgraduate clinical psychology students had heard of machine learning, 46% intended to learn about it, and they estimated 0.52% of the program was spent on it.
+
+Sociology has grown from three studies to five. [[dixon-buchmann-llm-reliability-sociology-quiz-2026|Dixon and Buchmann]] put a 20-item sociology quiz to ChatGPT, DeepSeek and Gemini every day for two weeks and found combined kappa of 0.91 to 1.00, with disagreement concentrated on the two items that required application. [[malik-chatgpt-cognitive-tool-sociology-writing-2025|Malik]] interviewed 18 sociology students, who described ChatGPT as a thinking companion for outlining and theory clarification while worrying about losing their voice. [[garcia-alonso-chatgpt-acceptance-social-science-students-2024|García-Alonso and colleagues]] surveyed 216 Spanish social science students and found that students who received faculty training reported *lower* confidence in the tool.
 
 **Sociology: three studies.** [[student-genai-use-views-writing|Kuznetsov, Sheely and Baker]] surveyed 504 sociology students and interviewed 12 more. Two thirds use AI selectively, mostly for follow-up questions, summarizing readings and practice questions. 81% had received some guidance, and only 46% found it very clear.
 
@@ -115,3 +119,10 @@ Geography reaches the literature only through [[environmental-education|environm
 - [[reed-ai-literacy-ethical-judgment-scenarios-2026]] — 531 undergraduates, six ethical vignettes, and whether AI literacy predicts judgment
 - [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive virtual patient for psychotherapy training: 1,033 turns, disclosure responding to empathy and exploration
 - [[burke-ai-proliferation-college-students-replication-2026]] — 991 undergraduates across five universities: AI use roughly doubled, and psychology supplied 30% of the sample
+- [[baudin-ai-generated-mcq-psychology-exams-2025]] — 80 ChatGPT-4 items in an Experimental Psychology course: reliability held, Bloom coverage did not
+- [[akkurt-counselor-trainees-chatgpt-simulated-client-2025]] — GPT-4o as a simulated client for counsellor trainees: lower anxiety, agreeable and culturally flat client
+- [[armagan-bogatekin-ai-attitudes-psychology-trainees-2026]] — 286 psychology students and trainees: three to four latent classes in every domain
+- [[blease-machine-learning-clinical-psychology-education-2021]] — 2021 baseline: 0.52% of a clinical psychology program spent on AI/ML, by student estimate
+- [[dixon-buchmann-llm-reliability-sociology-quiz-2026]] — 20 sociology items across ChatGPT, DeepSeek and Gemini: kappa 0.91 to 1.00, disagreement on the applied items
+- [[malik-chatgpt-cognitive-tool-sociology-writing-2025]] — 18 sociology students: ChatGPT as a thinking companion, and the voice they feared losing
+- [[garcia-alonso-chatgpt-acceptance-social-science-students-2024]] — 216 social science students: training associated with lower confidence, not higher

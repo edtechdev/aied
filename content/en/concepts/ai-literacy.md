@@ -1,7 +1,7 @@
 ---
 title: AI Literacy
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-16T20:30:23-05:00"
+updated: "2026-11-17T07:20:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, ai-literacy, educational-development]
 technology: [generative-ai, llm]
@@ -65,6 +65,8 @@ Disciplinary verification raises the same bar further. [[vega-baudrit-genai-univ
 **The facets do not predict the same outcome.** In a PLS-SEM survey of 475 design students across Europe, Asia, and Australia, ethical awareness predicted academic [[well-being|well-being]] (β = 0.324) but not perceived learning performance, while emotional adaptability was the strongest direct predictor of performance (β = 0.322) ([[liang-ai-literacy-facets-creative-higher-education-2026|Liang et al., 2026]]).
 
 **The dimension set depends on who is being taught.** [[feng-ai-literacy-psychological-dimensions-2026|Feng and Carolus (2026)]] screened 2642 records down to 58 school-education studies and found three constructs under one name: six dimensions for teachers, eight for students, and a decision-oriented set for administrators. AI knowledge and skills, ethics and societal implications, generative-AI competency and a psychological dimension are shared across all three. The psychological dimension splits into cognitive elements — reasoning in 20 studies, [[metacognition|metacognition]] in 8, cognitive readiness in 7 — and non-cognitive ones, with attitudes in 16, [[self-efficacy|self-efficacy]] in 9, motivation in 9 and emotional readiness in 6.
+
+A recent moderated mediation gives that development claim a mechanism. [[yan-genai-use-critical-thinking-feedback-literacy-2026|Yan, Fang and Zou]] surveyed 421 undergraduates and found that [[feedback|feedback]] literacy carried 71.98% of the association between GenAI use and self-reported critical thinking, with the direct path going non-significant once the mediator entered. Reflective thinking moderated the structure: at high reflection the effect ran almost entirely through feedback literacy, while at low reflection use was directly associated with critical thinking — the pattern a skills-only account would misinterpret as benefit.
 
 ## How AI literacy is developed
 
@@ -375,3 +377,4 @@ Discipline leads can keep the critical strand visible. Literacy that covers only
 - [[dumancic-tool-to-method-ai-literacy-history-2026]] — From Tool to Method: Developing AI Literacy in an Upper-Level History Course
 - [[ago-prompt-literacy-allied-health-2026]] — 417 allied-health undergraduates in Ghana: 76.3% had no responsible-AI training, and 40.8% rated academic staff guidance inadequate against 28.1% who rated it appropriate (Ago et al. 2026)
 - [[making-ai-work-for-students-ofs-2026]] — OfS and Advance HE (2026): 244 staff and 91 students at 127 institutions on detection, assessment design, AI literacy and strategy
+- [[yan-genai-use-critical-thinking-feedback-literacy-2026]] — 421 undergraduates: feedback literacy carries 72% of the AI-to-critical-thinking association

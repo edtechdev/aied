@@ -1,7 +1,7 @@
 ---
 title: "AIEd in the Disciplines"
 created: "2026-08-16T09:41:18-04:00"
-updated: "2026-11-16T22:52:00-05:00"
+updated: "2026-11-17T07:55:00-05:00"
 type: concept
 foundations: [ai-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
@@ -82,7 +82,7 @@ Each discipline brings distinctive [[pedagogy|pedagogical]] traditions that AI r
 
 - **Teacher education** — a discipline whose AI research centers on preparing teachers to integrate AI: intelligent-TPACK frameworks ([[designing-ai-professional-development-itpack-2026|i-TPACK PD]]), teacher AI literacy ([[science-educators-ai-literacy-postqualification-2026|science educators]]), pre-service readiness ([[conceptualizing-preservice-teachers-ai-readiness-2026|intelligent-TPACK readiness]]), and in-service trust and ethics ([[intelligent-tpack-ethics-teachers-trust-distrust-2026|trust and ethics]]).
 - **Humanities** — interpretation, authorship, and critical meaning-making. AI research foregrounds interpretive cognition ([[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]) and the [[philosophy-of-ai-in-education|philosophy of AI]] rather than tutoring for correctness, and the sector audit puts 58.6% of Arts and Humanities assessment items in the high-exposure band.
-- **Social sciences** — claims about populations, institutions and markets, defended through survey, model and comparison. The civics literature shows the characteristic failure: 310 AI-generated lesson plans against 53 standards, 90% of them pitched at lower-order objectives.
+- **Social sciences** — claims about populations, institutions and markets, defended through survey, model and comparison. The civics literature shows the characteristic failure: 310 AI-generated lesson plans against 53 standards, 90% of them pitched at lower-order objectives. Psychology now sits on its own page, [[psychology-education|psychology education]], because it carries far more course-level work than the rest of the cluster; sociology stays inside the cluster with five studies.
 
 ## Represented disciplines
 

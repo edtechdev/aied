@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: Writing
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-16T05:34:40-05:00"
+updated: "2026-11-17T07:30:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -107,6 +107,8 @@ Writing education connects to [[automated-essay-scoring|automated essay scoring]
 Al Nafjan (2026) proposes the Rigor–Commitment Alignment Framework (RCAF), which locates engagement in the writing task and the teaching around it rather than in the tool ([[al-nafjan-genai-eap-writing-engagement-2026|Al Nafjan, 2026]]). Academic rigor is the demand a task places on sustained cognitive effort and disciplinary reasoning, and the framework splits it into cognitive demand, epistemic authenticity, and performance accountability. Teacher commitment is defined narrowly, as commitment to students' learning enacted through instructional responsiveness, relational support, and [[scaffolding|critical scaffolding]], not as a trait a teacher has or lacks. The author is explicit that the RCAF is propositional and has not been empirically validated, so it is a design vocabulary for writing programs rather than a tested effect.
 
 For task design the claim is that rigor and commitment interact rather than add. High demand with thin support is predicted to push students toward concealment and detection games, while warmth without demand lets fluent output pass for learning. Only the high-demand, high-support configuration is predicted to produce deep engagement, with [[evaluative-judgment|evaluative judgment]] doing the work of deciding when output is useful, insufficient, or misleading. Because GenAI can produce acceptable academic prose, the framework gives writing assessment a specific obligation: require visible drafting and revision so that performance stays tied to the thinking it is supposed to represent.
+
+A discipline-specific case shows what that demand looks like in practice. [[malik-chatgpt-cognitive-tool-sociology-writing-2025|Malik]] interviewed 18 sociology students and compared their writing with and without ChatGPT: 61% used it mainly while drafting and 39% mainly while revising, the assisted samples were better organized, and the students themselves reported cross-checking the theoretical claims the tool supplied because some were wrong. The pattern is planning support plus verification, which is the version of AI use a writing course can teach rather than police.
 
 ## Implications for writing instructors
 
@@ -235,3 +237,4 @@ The most complete classroom account of that redesign is the PAIRR deployment. [[
 - [[black-box-assessment-winstone-2026]] — Black Box Assessment: process windows, error as evidence, and integrity through visibility (Winstone, Gravett & Elkington 2026)
 
 - [[dumin-ai-research-projects-first-year-writing-2026]] — Analysis of AI Research Projects in 1st-Year English Composition
+- [[malik-chatgpt-cognitive-tool-sociology-writing-2025]] — 18 sociology students: ChatGPT for outlining and revision, and the theory they had to check

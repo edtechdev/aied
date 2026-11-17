@@ -1,7 +1,7 @@
 ---
 title: Humanities Education
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-16T22:25:00-05:00"
+updated: "2026-11-17T07:20:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, philosophy-of-ai-in-education]
 technology: [generative-ai]
@@ -35,6 +35,8 @@ The [[philosophy-of-ai-in-education|philosophy of AI in education]] supplies the
 - **History teaching can filter the model.** [[paternalistic-filter-llm-history-education|Research on LLMs in history education]] examines how AI shapes historical reasoning and source interpretation, including through filters that protect students from claims a teacher would contest. [[dumancic-tool-to-method-ai-literacy-history-2026|Dumančić (2026)]] traces the adjacent move from teaching the tool to teaching the method, in a case study built on survey and thematic analysis.
 - **Literary creation can be scaffolded rather than replaced.** [[incipit-axiom-grounded-scaffolding-literary-creation-2026|Incipit]] is a grounded scaffolding system for literary creation, built on a knowledge graph and an [[llm|LLM]], and its design problem is the discipline's: keep the student's invention in the loop while the model supplies structure.
 - **The generic version of the problem is task format.** In a simulation of 148 texts, memoranda and revision defenses scored 3.16 and 3.10 on argumentative visibility against 2.63 for position essays, because the format itself required source explanation or a response to objections ([[liu-argumentative-work-visible-genai-assessment-2026|Liu & Liu (2026)]]).
+
+The clearest framework for the humanities' own problem comes from [[stornaiuolo-humanities-genai-integrity-framework-2026|Stornaiuolo and Elkins]], who argue that [[academic-integrity|integrity]] and [[ai-literacy|critical digital literacy]] are one educational problem rather than a rule problem plus a skills problem. Their connective construct is evaluative judgment: the student's capacity to judge the quality of an interpretation, which is what both integrity and literacy require and what detection cannot supply. Because essays, summaries and commentaries are both the humanities' assessment instruments and the model's strongest outputs, they conclude that the discipline meets AI at its core, and that assessment has to require demonstrated judgment rather than better policing of the old genres.
 
 ## What the sector evidence shows
 
@@ -85,3 +87,4 @@ Institutional strategy is also documented. [[ai-digital-transformation-liberal-a
 - [[ai-digital-transformation-liberal-arts-lingnan-2026]] — A liberal arts institution mandating GenAI literacy across the undergraduate curriculum
 - [[genai-values-education-affordances-risks-2026]] — Values education as a relational practice, and what each GenAI affordance replaces
 - [[liu-argumentative-work-visible-genai-assessment-2026]] — Task format and AI-use instructions as what the artifact can evidence
+- [[stornaiuolo-humanities-genai-integrity-framework-2026]] — Integrity and critical digital literacy as one problem, joined by evaluative judgment
