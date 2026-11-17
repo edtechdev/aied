@@ -1,5 +1,5 @@
 ---
-connected_resources: [vibes-diy]
+connected_resources: [vibes-diy, vibe-coding-center, agentic-builds, vibe-coded-classroom-examples]
 title: Вайб-кодинг
 created: "2026-10-13T20:30:00-04:00"
 type: concept

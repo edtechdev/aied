@@ -1,8 +1,8 @@
 ---
-connected_resources: [vibes-diy, vibe-coding-center, agentic-builds]
+connected_resources: [vibes-diy, vibe-coding-center, agentic-builds, vibe-coded-classroom-examples]
 title: Vibe Coding
 created: "2026-09-08T01:30:00-04:00"
-updated: "2026-11-16T09:06:00-05:00"
+updated: "2026-11-16T20:06:00-05:00"
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]

@@ -1,5 +1,5 @@
 ---
-connected_resources: [vibes-diy]
+connected_resources: [vibes-diy, vibe-coding-center, agentic-builds, vibe-coded-classroom-examples]
 title: Kuandika kwa Hisia (Vibe Coding)
 created: "2026-10-13T06:40:00-04:00"
 type: concept

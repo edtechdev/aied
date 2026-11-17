@@ -1,5 +1,5 @@
 ---
-connected_resources: [vibes-diy]
+connected_resources: [vibes-diy, vibe-coding-center, agentic-builds, vibe-coded-classroom-examples]
 title: Vibe Coding（バイブコーディング）
 created: '2026-10-11T05:06:08-04:00'
 type: concept

@@ -1,5 +1,5 @@
 ---
-connected_resources: [vibes-diy]
+connected_resources: [vibes-diy, vibe-coding-center, agentic-builds, vibe-coded-classroom-examples]
 title: Vibe-Coding
 created: "2026-09-08T01:30:00-04:00"
 updated: "2026-11-07T20:05:54-05:00"

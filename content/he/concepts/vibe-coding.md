@@ -2,7 +2,7 @@
 title: קידוד אווירה
 created: "2026-10-12T20:25:00-04:00"
 updated: "2026-11-08T11:34:07-05:00"
-connected_resources: [vibes-diy]
+connected_resources: [vibes-diy, vibe-coding-center, agentic-builds, vibe-coded-classroom-examples]
 type: concept
 foundations: [agentic-ai, ai-literacy, computational-thinking, human-ai-collaboration, teacher-role]
 technology: [generative-ai, llm, prompt-engineering]

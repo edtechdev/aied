@@ -1,5 +1,5 @@
 ---
-connected_resources: [vibes-diy]
+connected_resources: [vibes-diy, vibe-coding-center, agentic-builds, vibe-coded-classroom-examples]
 title: "وائب کوڈنگ"
 created: "2026-09-08T01:30:00-04:00"
 type: concept

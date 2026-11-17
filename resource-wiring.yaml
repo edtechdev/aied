@@ -346,6 +346,11 @@
   - parents-and-families
   - early-childhood-elementary-ai-education
   reason: 'The guide exists to tell caregivers and educators what AI is developmentally appropriate at which age, which is the question the parents-and-families page asks about homes and the early-childhood page asks about the 0-11 band, so both host pages now list it in connected_resources. Not listed on ai-literacy: that page is about teaching the capability, and this resource is guidance about developmental fit rather than a curriculum. Not listed on cognitive-psychology: that page carries the mechanisms, and the guide is a practical instrument built on them.'
+- resource: vibe-coded-classroom-examples
+  reviewed: '2026-11-16'
+  hosts:
+  - vibe-coding
+  reason: 'The gallery is a worked set of the exact artifact the vibe-coding page describes — a static tool prompted into existence and judged by what a student does with it — so the page lists it beside the Vibe-Coding Center and Agentic Builds. Not listed on learning-design: the page has prompt structure for building a tool, not a method for designing a course. Not listed on ai-literacy: it is a gallery of builds, and the capability is taught elsewhere.'
 - resource: vibe-coding-center
   reviewed: '2026-11-13'
   hosts:
