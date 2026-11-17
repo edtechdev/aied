@@ -1,7 +1,7 @@
 ---
 title: Social Science Education
 created: "2026-11-16T22:30:00-05:00"
-updated: "2026-11-16T22:30:00-05:00"
+updated: "2026-11-17T08:45:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking]
 technology: [generative-ai]
@@ -29,7 +29,7 @@ ai_assist:
 
 The social sciences study people in aggregate: how institutions distribute power, how markets allocate goods, how publics form opinions, how societies use land and energy. Their methods are the survey, the model, the comparison and the case, and their signature assessment asks students to make a claim about a social world that they cannot observe directly.
 
-That object is what makes the cluster distinct from its neighbours. [[humanities-education|Humanities education]] interprets texts and artifacts; the social sciences interpret populations and mechanisms, and the difference shows up in what a student can be asked to defend. [[stem-education|STEM education]] shares the quantitative method but not the object: a physics result is checkable against nature, a claim about voting behavior is checkable only against a sample.
+That object is what makes the cluster distinct from its neighbours. Humanities education interprets texts and artifacts; the social sciences interpret populations and mechanisms, and the difference shows up in what a student can be asked to defend. STEM education shares the quantitative method but not the object: a physics result is checkable against nature, a claim about voting behavior is checkable only against a sample.
 
 The cluster's internal variation is large, and the literature follows it. Management and business education has a decade of published work on curricula, assessment and adoption. Civic and political education has sources that describe how AI could undermine democratic competence without a single measured civic learning outcome. Environmental education carries a double subject, because the technology being taught is itself an environmental actor. Each of those strands has its own treatment — [[business-education|business education]], [[civic-and-political-education|civic and political education]], [[environmental-education|environmental education]] — and what they share is this cluster's argument.
 
@@ -46,6 +46,16 @@ The cluster's internal variation is large, and the literature follows it. Manage
 The cluster's weakest evidence is its most politically consequential. Civic education supplies the clearest account of what AI could damage — democratic competence, shared factual ground, the ability to reason about institutions — and almost no evidence that any intervention improves it. Business education supplies the most studies and the least agreement on what should be graded. Environmental education supplies effect sizes for inquiry and disclosure audits for footprints, but rarely both in one course.
 
 The honest reading is that this cluster knows more about how AI is being used in its classrooms than about what students learn. The [[research-methods-aied|research methods]] needed to close that gap are ordinary: pre-registered comparisons, outcome measures that are not self-report, and designs that survive the objection that the treatment and the assessment were both written by a model.
+
+## Where the cluster is thin
+
+Psychology and sociology are named in the cluster's definition and almost absent from its evidence, and the asymmetry is worth stating rather than smoothing over.
+
+Psychology is studied as learning theory rather than as a discipline. [[cognitive-psychology|Cognitive psychology]], [[developmental-psychology|developmental psychology]], [[motivation|motivation]] and [[self-efficacy|self-efficacy]] are pages about how learning works, not about how a psychology course is taught. The individual-differences work that does exist is about students in general: in a simulated AI-assisted essay task, feedback literacy was the only significant predictor of essay grade (β = 0.46, p = 0.017; [[hawkins-feedback-literacy-ai-essay-writing]]). [[critical-genai-use-predictors|Critical GenAI use]] is predicted by knowledge measured both by self-report and by objective test, alongside epistemic orientation and intellectual values.
+
+One case is genuinely disciplinary, and it is clinical. [[adaptive-virtual-patient-psychotherapy-training|An adaptive virtual patient]] for psychotherapy training ran 1,033 turns with 20 clinicians and trainees. Disclosure rose with therapist empathy and exploration, and in the underlying corpus exploration did roughly 78 times the work of empathy while the deployed system weighted it three times as heavily. Trainees practicing against it risk optimizing for what the simulator rewards.
+
+Sociology has nothing. No study examines AI in a sociology course, curriculum or assessment. The discipline is named in the scope because it belongs to the cluster, not because there is evidence to report, and geography is thinner still, reaching this literature only through [[environmental-education|environmental education]]. If you teach either, the absence is the finding: the literature here is a literature about management, civics and sustainability, and the cluster's two most methodologically central disciplines are the two with least evidence.
 
 ## Implications for social science instructors
 
@@ -85,3 +95,6 @@ The honest reading is that this cluster knows more about how AI is being used in
 - [[daniel-ai-sustainability-scoping-review-2026]] — Separates AI for sustainability from sustainable AI; Global South gap
 - [[aied-carbon-footprint-reporting]] — AIED 2025 disclosure review plus an open-source footprint method
 - [[ai-assisted-inquiry-ssi-climate]] — AI-assisted climate inquiry, d = 0.69 over inquiry alone
+- [[hawkins-feedback-literacy-ai-essay-writing]] — Feedback literacy as the only significant predictor of essay grade in a simulated AI-assisted writing task
+- [[critical-genai-use-predictors]] — Knowledge (self-report and objective), epistemic orientation and intellectual values predict critical GenAI use
+- [[adaptive-virtual-patient-psychotherapy-training]] — Adaptive virtual patient for psychotherapy training: 1,033 turns, disclosure responding to empathy and exploration
