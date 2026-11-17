@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: Multilingual Learning
 created: "2026-08-19T09:55:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-17T09:26:00-05:00"
 type: concept
 technology: [llm]
 ethics: [culturally-relevant-pedagogy, digital-divide, equity-in-ai-education, global-south, inclusive-learning, multilingual-learning]
@@ -42,6 +42,8 @@ Multilingual AI must go beyond translation to reflect [[culturally-relevant-peda
 Translanguaging is an affordance generative [[conversational-ai|chatbots]] add that earlier language tools lacked. In a [[meta-analysis-systematic-review|systematic review]] of 24 studies, learners asked for contextualized phrases and explanations in their own language as a bridge into the target language — a use the reviewers classify as a new sub-affordance rather than a repackaged one ([[genai-chatbots-language-learning-affordances-review-2026|Lopez & Arabadzhy (2026)]]).
 
 The language cost of tool onboarding is measurable: [[zangari-student-created-ai-agents-codesigned-instruction-2026|Zangari et al. (2026)]] found English learners spent significantly longer on a scaffolded agent-building tutorial than native speakers, while the open-ended design task showed no difference.
+
+English dominates even where four languages are in daily use. Among 42 students in Curaçao and Aruba, two thirds named English as their preferred language for AI, and only the GPT sessions shifted toward Papiamentu as the conversation turned local ([[bush-quadrilingual-code-switching-conversational-ai-2026|Bush et al. (2026)]]).
 
 ## Assessment bias
 
@@ -87,4 +89,5 @@ LLM-based comparative judgment is a case where bias tracked the human baseline r
 - [[iks-instruct-dataset-indian-knowledge]] — IKS-Instruct: Indian Knowledge Systems Dataset
 - [[kutti-ai-voice-first-learning-companion]] — Voice-First Learning Companion
 - [[ai-scoring-language-bias-physics]] — AI Scoring Language Bias in Physics
+- [[bush-quadrilingual-code-switching-conversational-ai-2026]] — Quadrilingual code-switching with conversational AI in Curacao and Aruba (Bush et al., 2026)
 

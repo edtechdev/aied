@@ -1,7 +1,7 @@
 ---
 title: Teaching
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-16T09:20:00-05:00"
+updated: "2026-11-17T09:26:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -159,6 +159,7 @@ Teacher role and [[learner-identity|learner identity]] are reciprocal faces of t
 ### Teachers Co-Designing AI Learning Resources
 
 - The teacher's role extends to co-designing AI learning resources: teacher-AI co-designed [[simulation|simulations]] for drone STEM instruction kept GenAI output pedagogically valid and contextually relevant, and teachers are the intended beneficiaries of the Teachers' AI Literacy Scale. Effective GenAI integration increasingly depends on teacher involvement in design.
+- **Instructor-built AI beat centrally designed tools.** A pre-registered [[rct|RCT]] with 7,200 students in 55 courses at 19 universities found 0.32 SD higher scores on proctored, AI-free exams when frontline instructors designed the AI support themselves ([[li-instructor-designed-ai-rct-2026|Li et al. (2026)]]), the strongest evidence yet that design authority belongs with the teacher.
 
 
 ### AI Reflection Systems Should Adapt to Teacher Experience
@@ -274,3 +275,5 @@ Epistemic authority in AI-assisted planning is negotiated episode by episode rat
 - [[reding-discussion-boards-tam-ai-analytics-2026]] — Student Perceptions of Discussion Boards: A Technology Acceptance Model Study to Inform AI-Enabled Learning Analytics Design
 - [[gnadlinger-educator-perspectives-its-design-2026]] — Towards incorporating educators’ perspectives into the meta-system design of intelligent tutoring systems
 - [[chen-future-faculty-development-ai-2027]] — The teacher as conductor of others' expertise, with roles distributed across a teaching team
+- [[li-instructor-designed-ai-rct-2026]] — Instructor-designed AI improves learning in a randomized trial across 19 universities (Li et al., 2026)
+

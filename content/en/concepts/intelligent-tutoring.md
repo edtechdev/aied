@@ -2,7 +2,7 @@
 connected_resources: [deeptutor, openmaic, learnharness, ai-tutor-pro-teaching-assistant-pro]
 title: Intelligent Tutoring
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-16T09:20:00-05:00"
+updated: "2026-11-17T09:26:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]
@@ -63,6 +63,7 @@ Intelligent Tutoring Systems represent one of the oldest and most researched are
 - **Micro-randomized trials of a tutoring platform:** [[ai-tutoring-micro-rct-gcse-science-2026|Harrison et al. (2026)]] ran a four-week multisite individually randomized evaluation of Medly in GCSE [[biology-education|Biology]], [[chemistry-education|Chemistry]] and [[physics-education|Physics]], with 644 of 929 students completing post-testing; allocation to the platform produced Hedges' g = 0.33 (95% CI 0.18 to 0.48) against business-as-usual [[self-directed-learning|self-directed]] revision, with positive estimates in all three subjects and no evidence of differential impact by disadvantage (Pupil Premium g = 0.28 versus non-Pupil Premium g = 0.35).
 - **A U.S. K-12 meta-analysis puts the average effect at g = 0.271.** Across 18 experiments, worked-out examples and student-requested hints carried the effect while automatically triggered hints did not, and implementations past six months faded to a non-significant g = 0.110 ([[leite-its-k12-meta-analysis-2025|Leite et al., 2025]]).
 - **Where the comparison boundary is drawn decides the headline.** Across 89 studies from 2015–2026, 80% reported an advantage, but counting 15 studies whose control was the same software with a module disabled as active comparisons drops that proportion from 85% to 39% ([[tararina-its-educational-achievement-systematic-review-2026|Tararina et al. (2026)]]).
+- **After an error, scaffold the practice rather than explain the mistake.** A preregistered experiment with 400 adults found that Socratic practice-and-feedback cycles gained 0.24 SD over personalized error explanations, and personalizing the explanation added nothing over a generic one ([[asher-llm-tutoring-scaffolded-error-correction-2026|Asher et al. (2026)]]).
 - **[[lak2026-hint-button-unproductive-use|Hint button research]]** shows that traditional ITS hint design can inadvertently enable bypass strategies, calling for more sophisticated [[scaffolding|scaffolding]] approaches.
 - **[[deeptutor]]** provides a fully [[open-source|open source]] agentic tutoring framework with citation-grounded tutoring and difficulty-calibrated [[automated-question-generation|question generation]].
 - **[[huang-interpretable-knowledge-tracing-2026|Interpretable Knowledge Tracing]]** addresses the opacity problem by producing interpretable cognitive quantities from LLM logits.
@@ -266,3 +267,5 @@ Two new studies test who controls the timing of help, and neither finds a simple
 - [[wu-hybrid-human-ai-tutoring-architecture-2026]] — Four hybrid tutoring architectures, the "iron triangle" of effectiveness, cost and reach, and a micro/meso/macro research agenda (Wu et al. 2026)
 
 - [[gnadlinger-educator-perspectives-its-design-2026]] — Towards incorporating educators’ perspectives into the meta-system design of intelligent tutoring systems
+- [[asher-llm-tutoring-scaffolded-error-correction-2026]] — Scaffolded error correction beats personalized explanations in LLM tutoring (Asher et al., 2026)
+

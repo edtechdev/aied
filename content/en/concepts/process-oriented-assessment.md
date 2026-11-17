@@ -1,7 +1,7 @@
 ---
 title: Process-Oriented Assessment
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-11-16T09:20:00-05:00"
+updated: "2026-11-17T09:26:00-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -41,6 +41,8 @@ The most explicit design vocabulary comes from Thapa and Lewis, whose four commi
 
 Alam and Jackson's redesign puts the same commitments in one module. Twenty-three first-year Business Analyst degree apprentices at Queen Mary University of London worked in 11 self-selecting teams on a 1,500-word essay drawn from three pre-set titles. At least two documented stages of development were required, and iteration and collaboration were written into the marking criteria rather than merely recommended. GenAI was permitted inside boundaries the brief set: no submitted generated text, no rewriting functions in grammar tools, no AI-formatted reference lists. The authors present this as practice-based insight from a first run, not as a measured effect ([[alam-process-oriented-collaborative-essays-2026|Alam & Jackson, 2026]]).
 Ahmed and Shehata take the same logic into a framework: AI-integrated programmatic assessment pairs two tasks on the same construct at the same difficulty, one without AI and one with it, and reads the gap between them alongside orchestration evidence as a developmental signal rather than a cheating flag ([[ahmed-ai-programmatic-assessment-cognitive-development-2026|Ahmed & Shehata (2026)]]).
+
+Francis, Rutherford and Smith turn the same commitment into a gradeable structure: PACE scores five process domains on a four-level agency scale running from deferring to critiquing, and keeps process and product as separate outcomes so a polished artifact built on uncritical reliance cannot score as competent ([[francis-pace-framework-genai-assessment-2026|Francis et al. (2026)]]).
 
 A second structural answer comes from Webb-Davies, Ratner and Bassett, whose Voice-First Written Assessment secures one authenticated baseline and interprets everything after it against that baseline. Stage 1 is observed, ungraded and open in modality; Stage 2 is written at home with [[generative-ai|AI]] unrestricted and graded on how the student developed the earlier reasoning. The authors call the ambition minimal: one checkpoint plus a conditional viva, rather than a portfolio of process artifacts ([[webb-davies-voice-first-written-assessment-2026|Webb-Davies et al., 2026]]).
 
@@ -132,3 +134,5 @@ Thapa and Lewis's account is conceptual: no participants, no data collection, an
 - [[xian-process-visualization-feedback-news-translation-2026]] - process visualizations plus one reflection session shifted revision from surface to meaning level without increasing edit volume
 - [[webb-davies-voice-first-written-assessment-2026]] — A two-stage written assessment that secures reasoning under observation before grading a home-written submission, with a conditional viva for unclear links (Webb-Davies, Ratner & Bassett 2026)
 - [[black-box-assessment-winstone-2026]] — Black Box Assessment: process windows, error as evidence, and integrity through visibility (Winstone, Gravett & Elkington 2026)
+- [[francis-pace-framework-genai-assessment-2026]] — PACE: scoring process on a four-level agency scale (Francis et al., 2026)
+

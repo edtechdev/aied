@@ -1,7 +1,7 @@
 ---
 title: Learning Analytics
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-16T05:34:55-05:00"
+updated: "2026-11-17T09:26:00-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -93,6 +93,8 @@ A complementary line targets the *interpretation* of analytics itself. [[factria
 Network methods are core to learning analytics: [[network-analysis|transition network analysis (TNA)]] models temporal sequences of learner actions (e.g., the revision and chat loops in [[conversational-ai|chatbot]]-scaffolded writing), and [[network-analysis|epistemic network analysis (ENA)]] maps how codes/constructs co-occur across activity — together revealing the *process* of learning and learner-[[student-ai-interaction|AI interaction]] rather than only its product.([[penny-transition-network-analysis-efl-writing-2026|Woollaston et al., 2026]])([[tracing-genai-literacy-interaction-patterns|Chen et al. (2026)]])
 
 - **Clustering clickstreams in self-directed model building.** [[an-goel-self-directed-modeling-2026|An, Hammock & Goel (2025)]] combined [[pedagogical-patterns|activity sequence]] analysis, hierarchical clustering, and Markov chain models on the clickstreams of 315 online learners who built 822 ecological models in VERA, distilling nine fine-grained, transition-based behavioral clusters into three broader patterns (Observation, Construction, Exploration). Their work demonstrates that combining sequence analysis with Markov chain modeling can uncover meaningful behavior in unstructured, [[self-directed-learning|self-directed]] tasks even in the complete absence of demographic or contextual data.
+
+- **Pooled correlations overstate what traces predict.** Across 576 model configurations on 424 university students' browsing sessions, correlations pooled across tasks exceeded within-task correlations by a median of 0.169, so a high pooled correlation ranks which task a student faced rather than how well that student did ([[konca-digital-traces-critical-online-reasoning-2026|Konca & Mehler (2026)]]).
 
 - **LA and GenAI shape learning design differently (2026).** [[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]] used ENA on 11 instructor focus groups to compare how learning analytics versus [[generative-ai|generative AI]] inform [[learning-design|learning design]] decision-making. LA discussions centered on contextual information, course-level design, and creative [[problem-solving|problem-solving]] (LA for diagnosing engagement and targeting support), while GenAI discussions centered on [[assessment|assessment design]] and designing for student [[self-determination-theory|self-determination]] (GenAI for ideation and assessment development). Context and [[creativity|creativity]] were central across both — a reminder that analytics inform design only within [[pedagogy|pedagogical]] context and instructor autonomy.
 - **Talk beats fusion when the construct is social, and the best source is per construct.** Rather than maximizing modalities, a LAK26 comparison of five feature configurations on collaborative modeling segments found text-only embeddings strongest overall (mean ROC AUC 0.650, 95% CI 0.615 to 0.685) against text plus logs (0.613) and text plus logs with a context window (0.623). Logs measured 0.526 alone, near chance for a social construct, yet they were the only source that improved detection of reflection (0.5862), while planning depended on the surrounding talk rather than on environment traces. Feature choice is a claim about the construct, not a budget decision ([[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang et al., 2026]]).
@@ -207,3 +209,5 @@ Semantic analytics can score reasoning only where the categories are defined tig
 
 - [[reding-discussion-boards-tam-ai-analytics-2026]] — Student Perceptions of Discussion Boards: A Technology Acceptance Model Study to Inform AI-Enabled Learning Analytics Design
 - [[wyszynski-genai-user-input-engineering-statics-2026]] — Examining Student Use of Generative AI Through User-Input Data in an Engineering Statics Course
+- [[konca-digital-traces-critical-online-reasoning-2026]] — Pooled trace correlations reflect task differences, not student differences (Konca & Mehler, 2026)
+

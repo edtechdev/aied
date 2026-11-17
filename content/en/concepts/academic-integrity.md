@@ -1,7 +1,7 @@
 ---
 title: Academic Integrity
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-17T09:20:00-05:00"
+updated: "2026-11-17T09:26:00-05:00"
 connected_faqs: [writing-instruction-ai-best-practices, should-we-use-ai-detectors, redesign-assessment-ai-era, reduce-ai-cheating, addressing-common-misconceptions-ai-education, course-ai-policy, verify-ai-output, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [ai-literacy]
@@ -186,6 +186,8 @@ Two new papers move the integrity question from policing to design. A criminolog
 
 Winstone, Gravett and Elkington invert the usual logic: integrity is produced by making process visible rather than by policing products. Their Black Box Assessment asks for windows into how work developed, treats error and revision as credit-worthy evidence, and accepts that the design cannot make assessment AI-proof — only make genuine engagement the least effortful and most rewarded path ([[black-box-assessment-winstone-2026|Winstone et al., 2026]]).
 
+What resists a capable model is narrower than the AI-proofing literature implies. Benchmarking 61 faculty-hardened questions, [[mingole-ai-proofing-higher-education-assessments-2026|Mingole et al. (2026)]] found only added strategic complexity lowered scores consistently, while demanding a specific output format raised them above the unhardened control.
+
 ## Common Misconceptions
 
 - **"Detection tools identify AI writing."** AI-generated text has **passed as human-authored in up to 80% of cases**, while the evidence for detection puts **machine detection at about 80% against 78.4% for human raters**. Human and machine judgment are almost equally (un)reliable, so a detection verdict is not evidence of authorship.
@@ -272,3 +274,5 @@ Winstone, Gravett and Elkington invert the usual logic: integrity is produced by
 - [[rodak-hire-ai-future-focused-literacy-2026]] — Collaborating With AI Assistants on Future-Focused AI Literacy
 - [[wyszynski-genai-user-input-engineering-statics-2026]] — Examining Student Use of Generative AI Through User-Input Data in an Engineering Statics Course
 - [[burke-ai-proliferation-college-students-replication-2026]] — Two-year replication across five universities: cheating perception down 14 points while 30.2% of self-identified cheaters still use AI
+- [[mingole-ai-proofing-higher-education-assessments-2026]] — AI-proofing strategies benchmarked: only added complexity resisted (Mingole et al., 2026)
+

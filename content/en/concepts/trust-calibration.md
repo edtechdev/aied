@@ -1,7 +1,7 @@
 ---
 title: Trust Calibration
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-16T05:34:40-05:00"
+updated: "2026-11-17T09:26:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading, human-ai-collaboration]
 pedagogy: [metacognition]
@@ -72,7 +72,7 @@ The design implication is a two-dimensional user typology — the *ability* to v
 A third lever operates on the interaction structure itself: replacing a single recommendation with a [[tuo-armada-multi-agent-debate-overreliance-2026|multi-agent debate whose aggregate position is withheld (Tuo et al., 2026)]] cut detrimental switching to an incorrect AI position from 42–60.5% to 5.7–8.2% among 186 participants. The lever is protective rather than corrective — participants who began with a wrong judgment recovered the correct decision in only 30.6% and 24.7% of trials, below chance for a binary choice.
 
 [[calibrating-trustworthiness-llm-education-2026|Coscia et al. (2026)]] supply a design lever that did move calibration: showing reviewers co-designed trustworthiness criteria while they compared LLM responses raised inter-rater agreement from Krippendorff's alpha 0.3987 to 0.4931, though pooled agreement stayed below 0.67 and extra measures added overhead.
-For children, the design lever may be the agent's own register: in a game-based probe with 12 children aged 8–10, [[children-verification-ai-suggestions-game-2026|Liu et al. (2026)]] found partner-like phrasing routed them toward questioning the AI directly while tool-like phrasing routed them toward seeking evidence. Children who *design* chatbots show the pattern in another register: among 115 learners aged 8–18, younger students set significantly higher confidence, and some deliberately built bots that gave wrong answers yet still rated them trustworthy ([[children-design-trustworthy-ai-chatbots-2026|Ozturk et al. (2026)]]).
+For children, the design lever may be the agent's own register: in a game-based probe with 12 children aged 8–10, [[children-verification-ai-suggestions-game-2026|Liu et al. (2026)]] found partner-like phrasing routed them toward questioning the AI directly while tool-like phrasing routed them toward seeking evidence. Children who *design* chatbots show the pattern in another register: among 115 learners aged 8–18, younger students set significantly higher confidence, and some deliberately built bots that gave wrong answers yet still rated them trustworthy ([[children-design-trustworthy-ai-chatbots-2026|Ozturk et al. (2026)]]). A classroom test with 23 fifth- and sixth-graders found the same gap in a spoken multimodal tutor: 39.1% believed its answers were always correct and only 30.4% caught its mistakes, even after being told it could err ([[jacobs-young-learners-multimodal-genai-scratch-2026|Jacobs et al. (2026)]]).
 
 With [[agentic-ai|autonomous agents]] the object of calibration changes. [[agentic-literacy-debt|Nama (2026)]] argues the user becomes a principal who has delegated authority to a system whose actions are largely unobserved and irreversible, shifting the competency from judging outputs to understanding what was authorized, overseeing it, and attributing accountability when harm occurs.
 
@@ -205,3 +205,5 @@ Calibration is a state, not an outcome, and the outcome it licenses has its own 
 - [[trust-ai-assistants-consistently-wrong-2026]] — Do People Trust AI Assistants Even When They Are Consistently Wrong?
 
 - [[bego-course-guided-chatgpt-trust-attitudes-2026]] — The Influence of Course-Guided ChatGPT Experiences on Engineering Students’ Trust and Attitudes Toward ChatGPT
+- [[jacobs-young-learners-multimodal-genai-scratch-2026]] — Children trusted a spoken multimodal tutor's wrong answers (Jacobs et al., 2026)
+

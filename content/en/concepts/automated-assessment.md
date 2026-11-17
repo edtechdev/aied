@@ -1,7 +1,7 @@
 ---
 title: Automated Assessment
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-15T15:46:26-05:00"
+updated: "2026-11-17T09:26:00-05:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -117,6 +117,8 @@ Three requirements follow for any of them. Because alignment is model- and insti
 
 Combining the three models did not remove that error: because their mistakes were correlated — the same direction on 63.4% of assignments — the [[machine-human-marking-agreement-institutions-2026|Corsi et al. (2026)]] ensemble was statistically indistinguishable from the best single model, leaving the shared central-tendency compression in place.
 
+Whether an LLM can stand in for a human rater can be tested rather than assumed. Across 523 configurations on 631 student responses, substituting the best LLM-prompt pairing for one of two human raters left group agreement no lower on 88.3% of 103 criteria, yet only 14.6% of the 20,464 configurations tried per criterion cleared that bar ([[baumartz-rubric-aes-llm-ensembles-2026|Baumartz et al. (2026)]]).
+
 
 [[tripartite-feedback-framework-ai-assessment-2026|Venetsanos (2026)]] supplies the criteria those requirements presuppose, arguing that what makes automation defensible is the *epistemic status* of the task rather than what the technology can technically perform. His framework limits AI to bounded verification of factual and procedural claims: all four of unambiguous documented criteria, direct comparison against established knowledge, no assessment of alternative valid approaches, and a single correct answer or pre-specified acceptable set must hold simultaneously. Ambiguity escalates to a human by default. AI involvement at that level is conditional on five non-negotiable principles that must all hold at once. The source collection must be assessor-curated and grounded in module materials rather than the model's parametric knowledge. Human assessors review every AI output before it reaches students and hold absolute override with unshared accountability. Feedback must carry clear provenance and attribution. Security must be designed against adversarial use from the start, with input sanitisation for instructions hidden in white or small text, encodings, images or document metadata, since successful circumvention of an automated system spreads through student cohorts. The same paper is explicit that its principles are untested for simultaneous feasibility and that assessor time for curation, security infrastructure and high-frequency oversight may shift staff effort rather than reduce it — a caution that sits alongside the local-validation requirement above.
 
@@ -231,3 +233,5 @@ Automated assessment connects to [[assessment-validity|assessment validity]] (qu
 - [[wargaming-adjudication-ai-judged-grading-2026]] — Thumb on the Scale: Using Traditional Wargaming Adjudication Practices to Improve AI-Judged Evaluations and Grading (Epstein 2026)
 - [[porcaro-ai-grading-benchmark-2026]] — Beyond agreement: 22 prompted graders meet probes whose right answer is known, and most of them can be talked up (Porcaro 2026)
 - [[dino-ai-teacher-performance-learner-behavior-review-2026]] — Assessing teaching rather than student work, without pooling
+- [[baumartz-rubric-aes-llm-ensembles-2026]] — Rubric-based AES with LLM ensembles, tested against human rater agreement (Baumartz et al., 2026)
+

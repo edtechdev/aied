@@ -1,7 +1,7 @@
 ---
 title: Trust
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-16T05:34:40-05:00"
+updated: "2026-11-17T09:26:00-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [educational-robotics, intelligent-tutoring]
@@ -34,6 +34,9 @@ Trust is a measured casualty, not only a principle. In [[gillette-partnership-et
 Transparency about *what a system is* — not only what it can do — also shapes calibration: the Amico accompaniment prototype made its identity and limits explicit, and its Italy–China pilot found learners recognized it as a bounded support tool rather than an autonomous tutor or relational substitute, avoiding anthropomorphic over-trust ([[ai-pedagogical-accompaniment-amico|Benedetti (2026)]]).
 
 In higher-education institutions, the lever may be usefulness rather than rules: among 2,121 students, faculty and staff surveyed at a single university, [[technology-acceptance-model|perceived usefulness]] outweighed policy clarity as a correlate of AI trust (β = 0.402 against 0.223) ([[ai-adaptation-gap-higher-education-2026|Braun & Khafizov, 2026]]).
+
+Trust also has a narrower job than usefulness. In a 30-item instrument validated with 106 educators, trust predicted co-creative "thought partner" use but not adoption intention, whose effect ran entirely through usefulness ([[mcgehee-trail-educator-trust-readiness-ai-2026|McGehee (2026)]]).
+
 **Distrust of accuracy can coexist with confidence in managing the tool.** In a survey of 8,021 students across four Australian universities, 51% distrusted GenAI's factual accuracy while 76% were confident in their ability to get the outputs they wanted, and usefulness rather than trust or rule compliance drove their use ([[genai-use-usefulness-student-experience-australia-2026|Chung et al., 2026]]).
 
 Trust and use also separate at the point of entry. A course assistant in a first-year engineering design course drew 72% of students and 85% of spring respondents intended to keep using it, yet 20% of the 294 users who answered open-ended questions still named lack of trust ([[gupta-ai-virtual-assistant-adoption-engineering-2026|Gupta et al., 2026]]). Among the 201 non-users, 38% gave lack of trust as the reason they never tried it — the same objection was a caveat for users and a closed door for others.
@@ -172,3 +175,5 @@ Trust in a tool can carry part of how employable its user feels. Among 579 Chine
 - [[yan-genai-employability-career-self-efficacy-2026]] — Trust in GenAI as one indirect route from use to self-perceived employability
 
 - [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — From Queries to Conversations: Exploring AI-Based Virtual Assistant Adoption, Usability, and Impact in Engineering Education
+- [[mcgehee-trail-educator-trust-readiness-ai-2026]] — TRAIL: trust predicts thought-partner use, usefulness predicts adoption (McGehee 2026)
+
