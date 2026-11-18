@@ -1,7 +1,7 @@
 ---
 title: "How Do I Redesign Assessment So That a Grade Still Tells Me Something Defensible About What the Student Knows or Can Do?"
 created: "2026-08-25T09:20:00-04:00"
-updated: "2026-11-13T00:25:09-05:00"
+updated: "2026-11-18T06:05:00-05:00"
 connected_faqs: [should-we-use-ai-detectors, reduce-ai-cheating, writing-instruction-ai-best-practices, course-ai-policy]
 weight: 84
 audience: [instructors, assessment designers]
@@ -13,6 +13,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision
     date: "2026-10-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -37,6 +41,10 @@ The short answer: decide what the grade is meant to be evidence **of**, put at l
 Begin by stating explicitly what capability the grade is supposed to represent. Are you assessing what a student can do independently, what they can accomplish appropriately with AI, their ability to evaluate and direct AI, or some combination of these? [[assessment-validity|Assessment validity]] treats this as a validity problem: a polished artifact is no longer sufficient evidence that the student possesses the capability apparently demonstrated by that artifact. This is the assessment-side half of the same argument; the enforcement-side half is in [[reduce-ai-cheating]], and the general validity framing runs through [[evaluating-ai-interventions-methods]].
 
 Say the answer in the syllabus, in the assignment sheet, and in the rubric. Students read three documents and comply with the one that is most specific. "AI use is permitted with acknowledgment" is not a statement of what you are measuring, and it gives a student no way to know whether the permitted use undercuts the thing you are grading.
+
+## What the unsupervised setting now costs
+
+The magnitude is measurable now. In a Finance course tracked across eight cohorts and 75,404 question grades, the advantage of unsupervised online quizzes over the proctored final exam doubled after ChatGPT, while scores on the proctored exam did not move at all ([[rodriguez-longarela-genai-unsupervised-assessment-finance-2026|Rodríguez Longarela and McGrath, 2026]]). Against the remaining headroom, about 60% of the exploitable gap had been realized across the whole period and 70% by the last two cohorts, and the gain sat in conceptual items rather than calculation items. Two consequences follow for redesign. First, the format now separates the uses: where the score certifies, an unsupervised result supports a weaker inference than it did before 2022, while the same quiz read formatively still tells you something about engagement. Second, the component's weight is the exposure: a quiz worth a fifth of the course grade is a fifth of the defensible grade unless something in the design offsets what the quiz no longer measures. Detection does not offset it; a supervised or authenticated step does.
 
 ## The risk of construct substitution
 

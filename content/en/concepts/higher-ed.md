@@ -2,7 +2,12 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: Higher Education
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-17T07:20:00-05:00"
+updated: "2026-11-18T05:55:00-05:00"
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-18"
+    agent: hermes-agent
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -83,6 +88,8 @@ One hour of AI tutoring was statistically equivalent to live expert human tutori
 A third route hardens the assignment itself: rendering prompts as perturbed images raised LLM assignment-completion failure from 7.4% to 55.6% and pushed Tesseract extraction error to 100.0%, reframing integrity as content design that complements detection rather than replacing it ([[airri-machine-resistant-reading-interface-2026|Salaun et al., 2026]]).
 
 The design-level version of that implication is [[klapproth-constructive-alignment-genai-2026|Klapproth]]'s argument that [[generative-ai|generative AI]] does not invalidate constructive alignment but forces its extension. Outcomes must specify the conditions of performance — with AI, without it, or with disclosed use — because the same task under different conditions measures different things. The review's sharper claim is that AI runs down one of two pathways, scaffold or shortcut, and which one dominates is settled by task design and assessment format rather than by the tool.
+
+The unit of analysis can also be the credential rather than the assessment. Meng, Zhang and Li's framework of "Synthetic Credentialism" describes signal decoupling: language models compress the cost of acceptable academic work, so the separating equilibrium that made a degree informative thins, and what fails is institutional verification rather than detection. They rate written coursework, dissertations and take-home examinations as the most exposed forms and oral or invigilated examinations as the least, and argue that permissive integration and verification are orthogonal, so allowing AI does not by itself restore attribution ([[meng-synthetic-credentialism-framework-2026|Meng et al., 2026]]). It is a conceptual proposal: no decoupling is measured and the collapse threshold is stipulated.
 
 ## Implications for higher-education instructors
 
@@ -173,3 +180,4 @@ The design-level version of that implication is [[klapproth-constructive-alignme
 - [[jacome-vasconez-chatgpt-adoption-xai-2026]] — Four adoption profiles within one university; habit the strongest predictor and education level no moderator
 - [[kong-ai-employability-cognitive-engagement-2026]] — Adoption and frequency are read as capability proxies; nearly every measured outcome sits at the proximal end
 - [[klapproth-constructive-alignment-genai-2026]] — Constructive alignment extended: outcomes must state the conditions of performance
+- [[meng-synthetic-credentialism-framework-2026]] — Synthetic Credentialism: signal decoupling and verification collapse as a credential-system problem rather than a detection problem (Meng, Zhang & Li 2026)

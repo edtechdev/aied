@@ -2,7 +2,12 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Educational Development
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-17T18:50:00-05:00"
+updated: "2026-11-18T05:55:00-05:00"
+ai_assist:
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: revision
+    date: "2026-11-18"
+    agent: hermes-agent
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -36,6 +41,7 @@ Educational development is the professional and institutional work through which
 - **Curriculum integration:** [[institutional-change-framework-ai|Institutional change frameworks]] and [[ai-assessment-scale-reform|assessment reform]] require faculty to redesign courses, not just add AI tools.
 - **Training programs:** [[crewscaler-ai-upskilling-framework|AI upskilling frameworks]] and [[ai-tpack-preservice-math-teachers|TPACK-based preservice training]] provide models for structured faculty [[ai-education|AI education]].
 - **Demand is not a needs assessment.** 345 Quebec CEGEP teachers scored lowest on technical understanding (2.706 of 5) yet asked for discipline-specific practical applications, calling earlier sessions too general ([[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachini et al. (2026)]]).
+- **Academics volunteer automation, and reveal pedagogy only when asked what the tool could do.** Across 20 disciplines and 24 countries, five open questions drew 737 comments on efficiency and automation against 305 on institutional policy, while customization appeared in 74 answers about capabilities and 3 in each of the barrier questions ([[sheridan-teaching-academics-genai-plans-2026|Sheridan et al., 2026]]). The constraints they named were time, a coherent policy and funded support, with professional development and travel budgets described as the first things cut; a minority read the change through labor relations, expecting institutions to use it to reduce academic staff.
 
 - **AI-mediated professional reflection.** The Reflective Triangle Model positions AI as a cognitive mediator across [[reflection|self-reflection]], collaborative reflection, and community reflection in a professional learning community, tested in a four-week feasibility case with six teachers; the boundary it draws is that individual insight does not automatically become shared professional knowledge ([[reflective-triangle-model-teacher-ai-2026|Nguyen (2026)]]).
 - **[[governance|governance]] and policy:** [[genai-policies-higher-ed-computing|Institutional AI policy analysis]] documents the gap between institutional ambitions and faculty support capacity.
@@ -213,3 +219,4 @@ A worked example of the cohort model comes from a university library. [[jordan-f
 - [[jiang-faculty-development-japan-2027]] — Japan's dual-track FD: participation rose while collegial formats did not
 - [[tian-transnational-faculty-development-governance-2027]] — Transnational faculty development: connectivity is episodic, coordination is the work
 - [[ho-invariant-core-faculty-development-2027]] — Invariant core, changing edge: the learning mechanism ahead of the technology
+- [[sheridan-teaching-academics-genai-plans-2026]] — 20 disciplines, 24 countries: academics plan automation first, name time and policy as the constraints (Sheridan et al. 2026)
