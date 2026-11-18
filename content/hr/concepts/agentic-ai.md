@@ -10,16 +10,20 @@ discipline: [stem education]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
-connected_resources: [deeptutor, learnharness, primer]
+connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-13T18:20:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -68,6 +72,8 @@ Dok [[agentic-ai-education-scoping-review|pregled opsega sa 474 studije]] i [[ko
 - **Skalar izvještavanja i upravljanja: okvir autonomije, nadzora i dokaza (AOE).** [[beyond-agent-label-agentic-ai-governance-2026|Dey (2026)]] tvrdi da se pojam *agentska umjetna inteligencija* primjenjuje tako nedosljedno da se dokazi i nadzor ne mogu uspoređivati među studijama - sustavi koji planiraju, pamte, upotrebljavaju alate ili koordiniraju više agenata strpani su zajedno sa statičnim sučeljima generativne umjetne inteligencije i konvencionalnim [[pedagogical-agent|pedagoškim agentima]]. Njegov kritički integrativni pregled petnaest recenziranih pregleda nalazi da su dokazi najjači za ishode na razini artefakta (točnost povratnih informacija, smanjenje [[hallucination-risk|halucinacija]]), a najslabiji za trajno učenje, ravnopravnost, radno opterećenje ili institucionalne ishode, pri čemu su stvarne implementacije obično kratke, na jednoj lokaciji i slabo povezane s nadzorom. Rješenje je konkretna trojka izvještavanja - **razina autonomije A0-A4** (reaktivno generiranje → ograničena orkestracija → delegirana autonomija zadatka → autonomija tijeka rada → *posljedična autonomija* nad ocjenjivanjem, upisom i napredovanjem), **razina nadzora O0-O4** (neodređena → retroaktivna revizija → odobrenje prije upotrebe → kontrolirano upravljanje kontrolnim točkama → *kontinuirani ograničeni nadzor*) i **faza zrelosti dokaza M0-M5** (koncept → prototip ili mjerno ogledalo → evaluacija sa sudionicima → stvarna implementacija → proširena ili višelokacijska → *replicirana ili na razini institucije*) - uz **pravilo proporcionalnosti**: dopuštena autonomija ne smije nadmašiti ni zrelost dokaza ni snagu nadzora (npr. posljedični sustav A4 zahtijeva dokaze M4-M5, pravnu validaciju i O4 s konačnom ljudskom vlašću). Izvještavanje *A2-O3-M3* pretvara neodređene tvrdnje o „agentskoj implementaciji“ u usporedive i provjerljive specifikacije i daje institucijama gramatiku postupnog usvajanja, bilježenja i vraćanja unatrag - dokaznu dopunu spektru od kopilota do autopilota [[baradziej-agentic-ai-higher-education-2026|opisanom gore]].
 - **Testiranje protivničke robusnosti:** [[adversarial-stress-testing-role-playing-agents|Višeagentsko testiranje pod stresom]] koordinira agente Ispitivača, Mete i Succa kako bi otkrilo načine neuspjeha nevidljive testiranju jednom strategijom, snižavajući ocjene robusnosti za 0,17-0,20 bodova - ključno za dosljednost personâ i [[pedagogical-safety|sigurnu implementaciju]] s učenicima.
 - **Primjene u domenama:** agentski sustavi pojavljuju se u raznim domenama, uključujući [[learnmate2-llm-adaptive-learning|agente prilagodljivog učenja]], [[educlaw-bench-pedagogical-llm-agents-2026|pedagoške LLM agente]], [[guided-llm-scaffolding-independent-learning|vođenu LLM potporu]], [[cyberagents-gamified-cybersecurity-learning-2026|agente za igrificirano učenje kibersigurnosti]] i [[hdr-brachytherapy-agentic-ai-simulation-2026|agente kliničke simulacije]].
+- **Agentsko ocjenjivanje prije je pitanje pouzdanosti nego radnog opterećenja.** Agentskoj implementaciji Claude Codea dana su tri datoteke rubrika i 60 skeniranih rukom pisanih međuispita iz kolegija računalne grafike. Njezine ocjene slagale su se s nastavnikovima uz r = 0.97, uz prosječnu apsolutnu pogrešku od 0.85 bodova na radu od 20 bodova, prosječnu UI-pozitivnu pristranost od 0.68 i test-retest ICC = 0.96 kroz dvije sesije u razmaku od tjedan dana. Zbirni rezultat skriva gdje ona pada: ponderirana kapa kretala se od 0.98 na višestrukom izboru do 0.65 na evaluacijskim česticama, a rukom crtani dijagrami bili su najslabiji slučaj ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026.]]). Jedan kolegij, jedan nastavnik i jedan skup rubrika lociraju varijancu; oni ne utvrđuju da se agentsko ocjenjivanje generalizira.
+Agentske arhitekture kupuju pokrivenost uz mjerljivu cijenu u preciznosti. Na benchmarku [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumaha i sur. (2026.)]] s 926 uzoraka natječaja za posao i 1.696 zlatnih vještina, ReAct agent s alatom za pretraživanje ESCO-a vodio je po povećanom odzivu sa 89,7 %, nasuprot 83,7 % najbolje generativne konfiguracije i 49,1 % najboljeg modela ugrađivanja. Njegova preciznost bila je 22,7 %, ostavljajući F1 na 36,3 %, ispod Gemini 2.5 Flash utemeljenog na alatima sa 51,6 %, a radio je oko 16 sekundi po uzorku. Odziv je prava mjera kada ljudski savjetnik pročišćava popis; neposredovan rezultat treba utemeljenu alternativu.
 - **Web agenti kao evaluatori iskustva učenja:** jedan autonomni „opisujući“ web agent koji prolazi kroz online [[learning-design|lekciju]] kao student - [[ai-web-agents-lesson-design-2025|Wang, Mitchell i Piech (2025)]] - daje opis dovoljno bogat da predvidi odustajanje studenata i pruži dizajneru djelotvorne povratne informacije prije nego se stvarni učenici uključe, nadmašujući cijelu simuliranu kohortu i svaku osnovnu razinu na globalnom kolegiju CS1. To pozicionira agentsku evaluaciju (agent kao zamjenski kritičar iskustva učenja) kao zasebnu, jeftinu upotrebu agentske umjetne inteligencije uz agente koji poučavaju ili dizajniraju.
 
 ### Višeagentski sustavi
@@ -207,8 +213,9 @@ Agentska umjetna inteligencija nije ni univerzalni lijek ni neizbježna šteta: 
 
 ## Povezani članci
 
-- [[jingru-fan-agentic-university-collaborative-agents-2026]] — agenti organizirani oko revidiranog programa sposobnosti, s učenikom kao članom
 
+- [[alghamdi-claude-code-agentic-grading-2026]] — agentsko ocjenjivanje 60 rukom pisanih ispita: r = .97 ukupno, kapa pada na .65 na evaluacijskim česticama
+- [[jingru-fan-agentic-university-collaborative-agents-2026]] — agenti organizirani oko revidiranog programa sposobnosti, s učenikom kao članom
 - [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomija, kompetencija, povezanost i društvena prisutnost kao putovi od agentske umjetne inteligencije do angažmana (Pramod i Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agenti, radosna procjena i treći prostor
 - [[ilieva-agentic-genai-higher-education-2026]] — Okvir AGAI-HE: ograničena, ljudski nadzirana agentska generativna umjetna inteligencija u visokom obrazovanju (Ilieva i sur. 2026)
@@ -235,3 +242,4 @@ Agentska umjetna inteligencija nije ni univerzalni lijek ni neizbježna šteta: 
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — Razvoj vođen specifikacijom s AI agentima u softverskom PBL-u; automatizacija nasuprot razumijevanju
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluacija višeagentskog sustava velikih jezičnih modela usmjerenog na postupnu potporu za obuku kliničkog intervjua
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Agenti za etičku obuku: olakšavanje grupne etičke edukacije igranjem uloga i raspravom za etičku refleksiju i istraživanje
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — Usporedba UI pristupa automatiziranom izdvajanju vještina: od ugrađivanja do agentskih sustava u inženjerskom obrazovanju

@@ -11,14 +11,18 @@ audience: [learners]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-11-04T17:25:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-16T09:06:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -102,11 +106,15 @@ Tietopohjan artikkelit dokumentoivat kognitiivista siirtokuormitusta useilla ulo
 
 - **Mitä henkilö voi luovuttaa, riippuu hänen kokemuksestaan tehtävästä.** [[akcaoglu-offloading-ladder-experience-2026|Akcaoglu (2026)]] tekee tehtäväjärjestyksestä henkilösidonnaisen: se, mikä on korkeamman tason toimintaa noviisille, on matalamman tason toimintaa sille, joka jo hallitsee proseduurin, joten sallitun siirtokuormituksen pitäisi kasvaa kokemuksen myötä ja pysähtyä työn ytimeen.
 
+**Konstitutiivisella testillä on tehtävärakenteellinen perusta.** [[ho-invariant-core-faculty-development-2027|Ho (2026)]] paikantaa internetin ja GenAI:n välisen rajan Biggsin SOLO-taksonomiaan. Internet helpotti monirakenteisia tehtäviä, mutta oppijan oli silti rakennettava ne yhteydet, jotka nostavat työn relationaaliselle tasolle, kun taas GenAI tuottaa tuon rakenteen pyydettäessä. Kun artefakti lakkaa todistamasta sitä relationaalista ajattelua, jonka tehtävä oli tarkoitettu herättämään, arvioinnin on painotettava sen tuottamisen prosessia.
+
 **Kognitiivinen pääoma on se varanto, jota siirtokuormitus kuluttaa.** [[riva-cognitive-capital-generative-ai-review-2026|Riva et al. (2026)]] kehystävät siirtokuormituksen uudelleen varannon muutokseksi teon sijaan. Kognitiivinen pääoma on kertyvää, uusiutuvaa ja ehtyvää tietoa, kyvykkyyttä ja käytäntöä, jota yksilöt ja organisaatiot pitävät hallussaan ja joka pidetään erillään ihmisen ja tekoälyn järjestelmän kyvykkyydestä, jotta yhteissuorituksen voitto voidaan nähdä inhimillisen kyvykkyyden menetyksen rinnalla. Heidän neljä mekanismiaan — käytännön korvaaminen, tukeminen ja palaute, metakognitiivinen kalibrointi ja organisatorinen koostaminen — tuottavat seitsemän periaatetta, mukaan lukien sen, että avustettu suoriutuminen ei ole säilytettyä kompetenssia ja että tehtävän siirtäminen eroaa taidon rakentavan käytännön siirtämisestä. Motivoiva tilasto on porrastettu käyttöönotto 5 172 asiakastuen agentille, jossa avustaja nosti ratkaistuja ongelmia tunnissa 15 %:lla; luku kuvaa yhteisjärjestelmää, ja se, pystyivätkö agentit yhä tekemään työn ilman apua, on mittaus, jota katsottu kirjallisuus ei sisällä.
 
 ### Milloin siirtokuormitus laskee sen sijaan että nousisi
 
 [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] raportoi esirekisteröidyn kokeen (N = 317), jossa aikuiset oppivat uutta sisältöä tavanomaisilta työarkeilta tai yleiskäyttöiseltä avustajalta, joka oli rajattu samoihin työarkkeihin. Tekoälyehto laski mitattua kognitiivista siirtokuormitusta sen nostamisen sijaan (mediaani −0,27, 95 %:n uskottavuusväli −0,58–0,04). Syvä prosessointi laski silti, mutta ketjun kautta, jossa matalampi siirtokuormitus seurasi matalampaa [[critical-thinking|kriittistä ajattelua]], mikä puolestaan ennusti heikompaa syvää prosessointia (0,78). Jäsentymättömyys nousi 0,84:llä ilman välittävää tekijää. Löydös on varoitus vakiokertomukselle: siirtokuormitus ei ole ainoa reitti, jota pitkin [[generative-ai|tekoäly]]-ympäristö rapauttaa prosessointia, ja ehto voi jättää siirtokuormituksen koskemattomaksi samalla kun se tukahduttaa sen, mitä siirtokuormituksen oli tarkoitus suojella.
+
+- **Järjestely, ei määrä, ratkaisee, auttaako siirtokuormitus.** Opiskelijat, jotka käyttivät GenAI:ta muotoiluajattelun työarkeilla, jotka pitivät ongelman kehystämisen, vertailun ja muokkaamisen oppijalla, raportoivat korkeampaa luovaa [[self-efficacy|itsetehokkuutta]] ja paremmin arvioituja tuotoksia kuin opiskelijat, jotka käyttivät samaa mallia rajoittamatta ([[wang-design-thinking-scaffolds-agency-preserving-ai-2026|Wang, 2026]]).
 
 ### Empatian siirtokuormitus, ei vain kognition
 
@@ -187,6 +195,12 @@ Kaksi kontrolloitua tutkimusta viimeisimmästä erästä kiinnittävät tämän 
 **Ohituskonfiguraatiolla on kansalaisen hinta, jota oppimistutkimukset eivät laskuta.** [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz ja Castro Samayoa (2026)]] väittävät, että tahdonalainen tutkimisen, analyysin, arvioinnin ja synteesin siirtokuormitus surkastuttaa käytäntöä, josta demokraattinen kansalaisuus riippuu. Heidän sekvensointisääntönsä on ohituksen ja tuen erottelu kehityksellisesti ilmaistuna: aritmetiikka ennen laskimia, viittauskäytännöt ennen viitteidenhallintaohjelmia ja chatbot, joka otetaan käyttöön taidon jälkeen eikä sen sijaan. He nimeävät myös kehyksen, joka tekee ohituksesta houkuttelevan: tehokkuuspremissin, jonka mukaan koulutyön tarkoitus on valmistua nopeasti.
 Sama logiikka tekee palkkion muotoilusta suunnittelutyökalun: [[assistance-dilemma-rl-tutoring-2026|Macina et al. (2026)]] kouluttavat LLM-tuutoreita maskatulla lähisiirtotestillä ja kahdella binäärisellä portilla, joten palkkio voi nousta vain sen kautta, mitä opiskelija kirjoitti omissa vuoroissaan, ja heidän ablaationsa osoittaa, että juuri portit eivätkä raaka oppimishyötypalkkio vähentävät ratkaisujen luovuttamista.
 
+Uudempi kausaalinäyttö erottaa tehtävän loppuun saattamisen sen oppimisesta. 2×2-kokeessa, jossa oli 24 kanadalaista opiskelijaa, ChatGPT:tä käyttäneet aloittelijat läpäisivät 410,7 viidestäsadasta tuotetusta testistä ilman sitä 80,7:ää vastaan, kun taas keskitason opiskelijat eivät hyötyneet mitään ja pärjäsivät paremmin tavanomaisilla resursseilla ([[chen-genai-programming-understanding-2026|Chen et al., 2026]]). Erillinen 22 ohjelmoijan tutkimus havaitsi, että GitHub Copilot tuotti 14,09 pisteen suoritusedun ja matalamman työkuorman tehtävän aikana, ilman hyötyä avustamattomassa uusintatestissä noin viikkoa myöhemmin ([[gardella-copilot-fast-forgettable-2026|Gardella et al., 2026]]). Siirtokuormitus voi nostaa tuotosta jättämättä koskemattomaksi kykyä tuottaa se.
+
+Kaksi tuoretta tutkimusta antaa siirtokuormitukselle mittausvälineistön. [[ayasrah-executive-function-learning-difficulties-scale-2026|Ayasrahin ja kollegoiden]] 35 kohdan asteikko muuttaa prosessin kuudeksi raportoitavaksi ulottuvuudeksi - liiallinen nojautuminen, pinnallinen ymmärrys, heikentynyt vahvistaminen, heikompi muisti, vähentynyt vaivannäkö ja heikentynyt kriittinen arviointi - validoituna 616 toisen asteen opiskelijalla. [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026|Sharman, Mananin ja Thakwanin]] korkeakouluopiskelijoille tekemä kysely havaitsi, että ChatGPT-riippuvuus liittyi heikompaan toiminnanohjaukseen pääasiassa akateemisen stressin kautta, ja suora polku laski arvoon P = 0,328, kun stressi tuli malliin. Molemmat kuuluvat [[executive-function|toiminnanohjaukseen]], joka kantaa sen kapasiteetin, jonka siirtokuormituksen ajatellaan syrjäyttävän.
+
+[[papasideri-cognitive-offloading-genai-narrative-review-2026|Papasideri, Chatziioannou ja Palaiologos (2026)]] kartoittavat konstruktin siirtymistä generatiiviseen tekoälyyn narratiivisessa katsauksessa, joka ei yhdistä mitään eikä raportoi uutta dataa. Heidän kehyksensä ohjaa analyysia: siirtokuormitus on vaivan uudelleenkohdentamista, ja kysymys on, palaako uudelleenkohdennettu vaiva oppimisena. Generatiivisen tekoälyn myötä muuttuu kohde - päättely, synteesi ja arviointi haun ja aritmetiikan sijaan - joten vanha tulos siitä, että siirtokuormitus ennustaa heikompaa viivästynyttä muistamista, pätee nyt korkeamman tason työhön. Heidän ainoa suunnitteluväitteensä on konkreettinen: kehotteet, jotka vaativat perustelua tai arviointia, vähensivät siirtokuormitusta ja paransivat argumentin laatua, mikä tekee vuorovaikutussuunnittelusta - ei mallin kyvykkyydestä - vivun.
+
 ## Yleiset väärinkäsitykset
 
 - **"Kehotemäärä mittaa siirtokuormitusta."** **97 oppijaa** klusteroitiin kehotteiden määrän mukaan, ja **määräklusterit eivät eronneet merkittävästi paikallisen vs. globaalin tai aktiivisen roolin kehotteistuksessa**. Kehotteiden laskeminen laski aktiivisuutta, ei kognitiivisen työn jakautumista.
@@ -215,9 +229,12 @@ Sama logiikka tekee palkkion muotoilusta suunnittelutyökalun: [[assistance-dile
 - [[cognitive-surrender]]
 
 - [[reflection]]
+- [[executive-function]]
 
 ## Liittyvät artikkelit
 
+- [[chen-genai-programming-understanding-2026]] — aloittelija- ja keskitason ohjelmoijat: ChatGPT nosti testiläpäisyt 410,7 vs. 80,7, mutta ymmärrys ei seurannut (Chen et al., 2026)
+- [[gardella-copilot-fast-forgettable-2026]] — 22 noviisia: Copilotin 14,09 pisteen etu ei kestänyt avustamatonta uusintatestiä viikkoa myöhemmin (Gardella et al., 2026)
 - [[riva-cognitive-capital-generative-ai-review-2026]] — Kognitiivinen pääoma varantona, jota siirtokuormitus kuluttaa (Riva et al. 2026)
 - [[pradubwate-illusion-ai-competence-miscalibration-2026]] — Näkyvä voitto, näkymätön menetys: siirtokuormitus pätevyyden illuusiona
 - [[akcaoglu-offloading-ladder-experience-2026]] — Siirtokuormituksen tikas on henkilösidonnainen: kokemus määrää, mitä voi luovuttaa
@@ -270,3 +287,7 @@ Sama logiikka tekee palkkion muotoilusta suunnittelutyökalun: [[assistance-dile
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Generatiivisen tekoälyn riippuvuus kriittisen ajattelun disposition ja itse koetun työllistettävyyden rajaehtona (Shojaei et al. 2026)
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Lapset osoittivat heikompaa frontoparietaalista, salienssi- ja dorsaalista tarkkaavuusyhteyttä kuin aikuiset keskustellessaan ChatGPT:n kanssa samansuuruisilla luovuuspisteillä
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Generatiivinen tekoäly ja lasten luova ajattelu: liiallinen nojautuminen ja kehoteriippuvuus kartoittavassa katsauksessa (Niu et al. 2026)
+- [[ayasrah-executive-function-learning-difficulties-scale-2026]] — Kuusi itse raportoitua tekoälyn välittämän oppimisvaikeuden ulottuvuutta
+- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — Akateeminen stressi välittää ChatGPT-riippuvuuden ja toiminnanohjauksen heikkenemisen välistä yhteyttä
+- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — Kognitiivinen siirtokuormitus generatiivisen tekoälyn aikakaudella: narratiivinen katsaus, joka yhdistää siirtokuormituksen muistiin, oppimiseen ja toiminnanohjaukseen
+- [[ho-invariant-core-faculty-development-2027]] — SOLO-tasot selittävät, miksi GenAI voi tuottaa relationaalisen artefaktin, joten arvioinnin on painotettava prosessia (Ho 2026)

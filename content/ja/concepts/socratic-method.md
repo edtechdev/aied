@@ -2,7 +2,7 @@
 title: ソクラテス式問答法
 created: "2026-10-10T22:53:47-04:00"
 updated: "2026-11-07T20:21:18-05:00"
-connected_resources: [matt-pocock-skills]
+connected_resources: [matt-pocock-skills, context-aideatext]
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]

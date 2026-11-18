@@ -12,14 +12,18 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-06T09:20:00-05:00"
-updated: "2026-11-08T06:31:30-05:00"
+source_updated: "2026-11-16T08:24:32-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -37,7 +41,7 @@ ai_assist:
 
 ## Uvod
 
-Kompetencije nastavnika za umjetnu inteligenciju važne su jer je nastavnik odlučujući čimbenik u tome poboljšava li umjetna inteligencija učenje. Istraživanja dosljedno pokazuju da se alati umjetne inteligencije pretvaraju u bolje ishode samo kada nastavnici mogu planirati s njima, postupno poduprijeti učenikovu upotrebu, vrednovati rezultate i integrirati ih u koherentnu nastavu. Literatura baze znanja ispituje *dimenzije* te kompetencije, *jazove* između samopercepcije i stvarne vještine i *profesionalni razvoj* koji je gradi.
+Kompetencije nastavnika za umjetnu inteligenciju važne su jer nastavnik odlučuje poboljšava li umjetna inteligencija učenje. Alat mijenja ishode kada nastavnik za njega planira, podupire upotrebu kod učenika, vrednuje rezultat i uklapa upotrebu u koherentnu nastavu. Istraživanje ispituje *dimenzije* te kompetencije, *praznine* između samopercepcije i stvarne vještine te *profesionalni razvoj* koji je gradi.
 
 [[nunez-canal-stakeholder-engagement-ai-competency-2026|Nunez-Canal i sur. (2026.)]] izravno povezuju kompetencije nastavnika za umjetnu inteligenciju s ishodima učenika, koristeći teorije ljudskog kapitala i dionika na anketi među nastavnicima poslovanja i ekonomije kako bi ustvrdili da ulaganje sveučilišta u kompetencije nastavnika nije diskrecijsko.
 - **Obuka u poticajima kupuje vrijeme, a ne bolje materijale.** U preregistriranom [[rct|randomiziranom kontroliranom pokusu]] sa 204 nastavnika Appel, Fervers i Piepenburg (2026.) našli su da je ChatGPT poboljšao kvalitetu materijala za pripremu nastave i skratio vrijeme pripreme za 34%, dok je prethodna obuka o umjetnoj inteligenciji dodala daljnjih 21% smanjenja vremena bez poboljšanja ocijenjene kvalitete ([[appel-genai-teacher-lesson-preparation-experiment-2026|Appel i sur., 2026.]]). Obučeni nastavnici pisali su dulje poticaje i manje iterirali; oba su puta dala jednaku kvalitetu.
@@ -67,7 +71,13 @@ Spremnost treba poredati i mjeriti u skladu s tim: model sposobnosti i odluke sm
 
 Snažnija inačica tog preoblikovanja drži da je generativna umjetna inteligencija granični koncept, a ne jaz u vještinama: autoetnografski prikaz tvrdi da su [[anxiety-and-stress|anksioznost]] i otpor nastavnika konstitutivni za prelaženje granice, pa obuka utemeljena na vještinama propada, a načelno neprihvaćanje treba poštovati, a ne ispravljati ([[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026.)]]).
 
+**Dvije su dimenzije obveze, a ne rezultati.** [[feng-ai-literacy-psychological-dimensions-2026|Feng i Carolus (2026.)]] sintetiziraju 58 studija o školskom obrazovanju i među šest dimenzija nastavničke pismenosti o umjetnoj inteligenciji smještaju *kontekstualno znanje* i *trajni profesionalni rast*, uz znanje i vještine utemeljene na TPACK-u, etiku, psihološku dimenziju i onu specifičnu za generativnu umjetnu inteligenciju. Trinaest pregledanih radova svoju konceptualizaciju nastavnika gradi na [[tpack|TPACK-u]]. Čitanje rasta kao dimenzije, a ne kao ishoda, mijenja ono što okvir kompetencija mora mjeriti: nastavnikova putanja i školska ograničenja postaju dio kompetencije, a ne uvjeti oko nje.
+
+**Izgradnja kompetencije ne odgovara na put istrošenosti.** U istoj anketi među 436 sveučilišnih nastavnika dizajna, [[ding-genai-colleague-teacher-depletion-2026|Ding i sur. (2026.)]] pronašli su da upotreba generativne umjetne inteligencije istodobno podiže nastavničku [[self-efficacy|samoučinkovitost]] (β = 0.322) i UI anksioznost (β = 0.268), a anksioznost je predviđala manje inovativno poučavanje i više povlačenja s posla (β = −0.152 i β = 0.264). Program profesionalnog razvoja koji gradi samo vještinu drugi put ostavlja netaknutim — moderatori su bili organizacijska podrška i kršenje psihološkog ugovora, a ne kompetencija.
+
 **Kompetencija se pokazuje kao popravljanje, a ne samo kao oblikovanje poticaja.** Sa sedam nastavnika matematike u srednjoj školi koji su prepisivali 143 zadatka, [[walkington-teacher-in-loop-personalized-tasks-2026|Walkington i sur. (2026.)]] kodirali su 415 dodatnih poticaja: većina je ispravljala realističnost, čitljivost ili matematičku strukturu, a šest je uhvatilo neprikladan ili pristran rezultat: nastavnička prosudba djeluje kao [[human-in-the-loop-ai|nadzor]] generiranog zadatka, a ne kao tečnost u poticanju.
+
+Okviri propisuju što nastavnik treba znati i šute o uvjetima u kojima se to znanje izvršava. [[ji-judgement-space-dialogic-inquiry-2027|Ji i Mercer (2026.)]] čitaju UNESCO-ov okvir za nastavnike, OECD-ov kompas poučavanja, DigCompEdu i BEME pregled kao jedan žanr popisa i bilježe da OECD-ovo inzistiranje da umjetna inteligencija ne smije zamijeniti ljudsku prosudbu dolazi bez objašnjenja što bi tu tvrdnju učinilo istinitom. Modeli kompetencija koji dodaju još jednu dimenziju stoga promašuju prazninu koju rad imenuje.
 
 ## Jaz u kompetenciji
 
@@ -79,13 +89,19 @@ Jaz nije samo između percipirane i stvarne vještine, nego i u *širini* onoga 
 
 Anketa među 132 nastavnika u Indoneziji našla je gotovo univerzalno prihvaćanje uz slabo mehanističko razumijevanje: 96,2% podržalo je upotrebu umjetne inteligencije među nastavnicima, no samo 4,6% navelo je tokenizaciju ili dekodiranje, a 21,5% vjerovalo je da ChatGPT pretražuje bazu podataka ili internet ([[ai-misconceptions-indonesian-k12-teachers-2026|Aji i sur. (2026.)]]). Povoljan stav nije dokaz upotrebljivog mentalnog modela alata.
 
+- **Upotreba i obuka o generativnoj umjetnoj inteligenciji oblikuju stavove; opće pouzdanje ne.** U TALIS-u 2024. skandinavski nastavnici koji su koristili [[generative-ai|generativnu umjetnu inteligenciju]] postizali su 0,72 SD više na slaganju s koristima i 0,26 SD niže na nesigurnosti u vezi s njima, profesionalni razvoj specifičan za generativnu umjetnu inteligenciju dodao je 0,20 SD, a korisnici su se također češće slagali sa zabrinutostima zbog pogrešnog predstavljanja ([[white-scandinavian-teachers-genai-attitudes-2026|White i sur., 2026.]]). Među 425 stručnjaka u K-12 kapacitet epistemičke budnosti predviđao je kalibriranu UI spremnost uz β = .675, dok autonomna motivacija nije (β = .076), a samo je 143 izvijestilo o jasnoj pisanoj UI politici ([[song-calibrated-ai-readiness-k12-2026|Song, 2026.]]).
+
 Jaz je vidljiv i u artefaktu, kao i u samoprocjeni. [[ai-integration-instructional-design-collaboratory-2026|Međuinstitucionalni laboratorij nastavnika u obrazovanju nastavnika]], u kojem su edukatori nastavnika ugrađivali umjetnu inteligenciju u vlastite metodike kolegije, izvijestio je da su kandidati mogli proizvesti uglađene planove nastave uz pomoć umjetne inteligencije, a da pritom nisu mogli objasniti zašto plan odgovara učenicima i standardima, jer sam plan ne govori ništa o rasuđivanju koje stoji za njim. Ocjenjivanje obrazloženja, a ne proizvoda, jedan je odgovor. [[bondurant-shaughnessy-ai-pedagogies-practice-2026|Okvir pedagogija prakse]] upućuje na drugi, tretirajući probu kao približavanje praksi: proba posredovana umjetnom inteligencijom sa strukturiranom povratnom informacijom nakon probe povećala je upotrebu istraživačkih i produbljujućih pitanja među kandidatima, no vlastite prosudbe kandidata o njihovoj izvedbi i dalje su se razilazile s onim što su promatrači zabilježili.
+
+Model na razini fakulteta sugerira da je dio signala iz samoprocjene institucionalan, a ne individualan. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez i sur. (2026.)]] predvidjeli su samoprocjenjenu razinu digitalne kompetencije 315 sveučilišnih nastavnika i pronašli da je pripadnost ustanovi najveći globalni doprinositelj, ispred dobi i stupnja, uz raspodjelu razina nastavničke kompetencije 90,1 % prema 42,9 % visokih među ustanovama (χ² = 82.710, V = 0.512). Rezultat kompetencije koji prati to koje sveučilište zapošljava ispitanika mjeri kontekst jednako kao i sposobnost.
 
 **Pad samoprocjene nakon obuke može signalizirati učenje, a ne gubitak.** U šestomjesečnom programu [[educational-development|profesionalnog razvoja]] [[tpack|Intelligent-TPACK]] sa 64 nastavnika sveučilišta u Hong Kongu nasuprot 61 u kontrolnoj skupini ukupna kompetencija za umjetnu inteligenciju porasla je za oko pola standardne devijacije (Cohenov d = -0,521), no neki su nastavnici u obje skupine na završnom mjerenju postigli niže rezultate nego na početnom ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng i Ling, 2025.]]). Intervjui su padove pripisali pomaku s nesvjesne na svjesnu nesposobnost, odnosno rekalibraciji koju predviđa Dunning-Krugerov učinak, a ne izgubljenoj vještini. Autori zaključuju da samoprocjena prije i poslije podcjenjuje intervenciju, jer dio dobitka dolazi kao korekcija instrumenta naniže.
 
 **Jaz se može obrnuti duž obrazovnog lanca.** U poslijediplomskom [[medical-education|medicinskom obrazovanju]] dvanaest liječnika koji vode rad na kurikulumu o umjetnoj inteligenciji očekivalo je da će specijalizanti postati tečniji u umjetnoj inteligenciji od mnogih svojih nastavnika i predložilo zajedničko učenje i zajedničko poučavanje, a ne jednosmjerno [[lifelong-learning|podizanje vještina]] nastavnika ([[bursic-ai-residency-education-curriculum-2026|Bursic i sur. (2026.)]]). Isti su intervjui opisali informatike jedinice koje još nisu dovoljno zrele da vode razvoj kurikuluma, što ograničenje smješta u institucionalni kapacitet, kao i u pojedinačnu vještinu.
 
 **Jaz se pokazuje i kao nesudjelovanje.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson i Rainie (2026.)]] anketirali su 1.057 američkih sveučilišnih nastavnika krajem 2025. i našli da 26% uopće ne upotrebljava alate [[generative-ai|generativne umjetne inteligencije]], pri čemu se trećina odlučila ne upotrebljavati ih za poučavanje, a neupotreba je koncentrirana u umjetnosti i [[humanities-education|humanistici]] (40%). Institucionalna strana jaza bila je veća od pojedinačne: 68% reklo je da njihove ustanove nisu pripremile nastavnike za upotrebu generativne umjetne inteligencije u poučavanju i mentorstvu, a nastavnici su kao vodeće prepreke prihvaćanju na razini odsjeka naveli otpor kolega (82%) i njihovu neuputrćenost (83%): slika u kojoj izgradnja sposobnosti, norme vršnjaka i politika moraju ići zajedno.
+
+Usvajanje ide kroz prosudbu o disciplini, a ne kroz opći entuzijazam. U intervjuima s 14 nastavnika na četiri kineska sveučilišta sudionici su umjetnu inteligenciju ocjenjivali korisnom prema zahtjevima znanja vlastitog područja, držali su je u pomoćnoj ulozi i upotrebu uvjetovali jasnom svrhom i time da studenti prvo razmisle ([[xiong-teachers-ai-attitudes-chinese-higher-ed-2026|Xiong i sur. (2026.)]]). Njihova najdosljednija briga nije bila vlastita vještina, nego to što studenti predaju misaoni proces.
 
 **Početno obrazovanje nastavnika u velikoj mjeri zaobilazi etičku dimenziju kompetencije.** [[meta-analysis-systematic-review|Sistematski pregled]] umjetne inteligencije u početnom obrazovanju nastavnika za buduće nastavnike razredne nastave matematike ([[pinto-ai-initial-teacher-training-mathematics-review-2026|Pinto i sur. 2026.]], 11 studija odabranih iz 341 zapisa) našao je da su se intervencije usredotočile na kratkoročne tehničke i pedagoške dobitke, pri čemu je devet od jedanaest bilo kratkih intervencija od jedne do šest sesija, i izvijestio da je etika obrađena u samo tri od jedanaest studija. Okviri kompetencija etičku prosudbu navode kao dimenziju; literatura o početnom obrazovanju koja bi je trebala izgraditi rijetko je poučava ili mjeri.
 
@@ -123,27 +139,36 @@ Dizajnerski protuprimjer tretira kompetenciju kao situacijsku, a ne kao stepenic
 
 - **Vrijednosti zaostaju za vještinama i u programu specifičnom za domenu.** U jednogodišnjem programu u Hong Kongu s 30 nastavnika engleskog znanje o [[multimodal|multimodalnim]] strategijama procjene poraslo je s 3,13 na 4,15 od 5 (parcijalni η² = 0,571), a kompetencija u podupiranju učenika s 3,05 na 3,98 (0,482), oboje značajno, dok je svaka poddomena vrijednosti ostala statistički nepromijenjena uz alfa korigiranu Bonferronijem od 0,006. Nastavnici su dobitke pripisali zajedničkom planiranju u školi i sastancima klastera među školama, a ne samo radionicama ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang i sur., 2026.]]).
 
+- **UI planovi su osnova, a posredovanje je kompetencija.** Dvadeset i šest nastavnika početnika koji su revidirali UI-generirane planove lekcija prepisali su zadatke, dodali modeliranje i jezične potpore, razjasnili ciljeve i obnovili slijed oko razredne logistike, opisujući svoju ulogu kao pregledavanje i prilagodbu, a ne prihvaćanje rezultata ([[wilcoxen-steiner-bell-ai-lesson-planning-2026|Wilcoxen i sur., 2026.]]).
+
 - **Mikroučenje može razviti kompetenciju sveučilišnih nastavnika za umjetnu inteligenciju.** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky (2026.)]] dotjerao je dva modula [[vocational-education|strukovnog obrazovanja]] kroz dvije mrežne grupne rasprave u pet načela oblikovanja (jasna struktura i orijentacija, vođenje i potpora u navigaciji, segmentacija i modularizacija, multimodalno izlaganje i aktiviranje učenika) i našao da su navigacija platformom i pronalaženje modula glavne praktične prepreke.
 - **Namjera usvajanja počiva na zadovoljenju potreba.** U strukturnom modelu sa 146 nastavnika zadovoljenje potrebe za kompetencijom predviđalo je namjeru upotrebe generativne umjetne inteligencije kroz [[motivation|intrinzičnu motivaciju]] i angažman u profesionalnom razvoju (neizravni učinak 0,233), dok zadovoljenje potreba za autonomijom i povezanošću nije ([[yuan-teacher-need-satisfaction-genai-2026|Yuan i sur., 2026.]]).
+
+## Mjerenje kompetencije nastavnika za umjetnu inteligenciju
+
+[[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026.)]] validirao je dijagnostički instrument utemeljen na modelu prihvaćanja tehnologije na 434 nastavnika u službi. Bihevioralna namjera bila je glavni prediktor digitalne kompetencije za upotrebu generativne umjetne inteligencije u planiranju kurikuluma, sa samoučinkovitošću kao korijenskim pokretačem.
+
+Psihometrijska studija razvila je Skalu pismenosti nastavnika o umjetnoj inteligenciji (TAILS) za mjerenje pismenosti o umjetnoj inteligenciji unutar [[teacher-education|obrazovanja jezičnih nastavnika]], operacionalizirajući šest dimenzija okvira ED-AI. Instrument odgovara na prazninu u procjenama pisanima za studente ili opće korisnike, a ne za nastavnike.
+
+Krajolik instrumenata od tada je pregledan. [[assessing-teachers-ai-literacy-measurement-tools-2026|Sistematski pregled alata za mjerenje UI pismenosti nastavnika Zainala, Mohd Matorea i Maata iz 2026.]] uspoređuje što dostupne ljestvice doista mjere i gdje se razilaze, što je prvo što treba pročitati prije usvajanja neke od njih.
+
+Mjerenje pretpostavlja da je pojedinac prava jedinica, a raspodjela uloga tu pretpostavku slabi. [[chen-future-faculty-development-ai-2027|Chen i sur. (2026.)]] raspodjeljuju pet od svojih sedam nastavničkih uloga po nastavničkom timu, dok temeljnu tehničku i etičku kompetenciju drže univerzalnom, pa pojedinačni rezultat opisuje udio jednog suradnika, a ne sposobnost na kojoj kolegij doista radi. Program koji mjeri samo pojedince čitat će dobro popunjen tim kao skup nedovršenih nastavnika.
 
 ## Kompetencije nastavnika za umjetnu inteligenciju i preobražaj uloge nastavnika
 
 Kako umjetna inteligencija preuzima rutinske nastavne i procjembene zadatke, nastavnički se doprinos pomiče prema orkestraciji, prosudbi i odnosu: odlučivanju kada i kako se umjetna inteligencija upotrebljava, postupnom podupiranju [[agency|djelotvornosti učenika]] i kritičke upotrebe, osiguravanju ravnopravnosti i pružanju socijalne i emocionalne potpore koju umjetna inteligencija ne može dati. To preoblikuje nastavničku kompetenciju oko [[human-in-the-loop-ai|nadzora s čovjekom u petlji]], [[ethics|etičke prosudbe]] i [[self-regulated-learning|podupiranja samoreguliranog učenja]], povezujući se s [[teacher-role|ulogom nastavnika]] i [[cognitive-offloading|zaštitom od pretjeranog oslanjanja]].
 
-## Posljedice za umjetnu inteligenciju u obrazovanju
+## Implikacije za praksu
 
-- **Procjenjujte izvedbu, a ne samo samoprocjenu:** nastavničku kompetenciju treba vrednovati kroz pokazivanje, s obzirom na dokumentirani jaz u samoprocjeni.
-- **Osposobljavajte cijelu kompetenciju, a ne samo alate:** profesionalni razvoj treba istodobno graditi tehničku, pedagošku, procjembenu i etičku dimenziju, utemeljenu u [[learning-theories|teoriji učenja]].
-- **Gradite pouzdanje uz vještinu:** stavovi i [[self-efficacy|samoučinkovitost]] oblikuju prihvaćanje, pa profesionalni razvoj treba smanjiti anksioznost i izgraditi pouzdanje kroz autentičnu praksu s potporom.
-- **Podupirite institucionalni sloj:** održiva nastavnička kompetencija zahtijeva usklađenu politiku, upravljanje i kapacitet, a ne izoliranu obuku.
+Savjetnici za razvoj nastavnika mogu profesionalni razvoj usmjeriti na pedagoško UI znanje, a ne na tečnost s alatima. Programi koji su gradili pedagoško sadržajno znanje izvijestili su o velikim dobitcima prije i poslije, što sugerira da je gornja granica viša nego što jedna radionica implicira, a sama tehnička obuka nije pomaknula percepcije studenata u pregledanim studijama.
 
-- **Digitalna kompetencija nastavnika za [[curriculum-design|oblikovanje kurikuluma]] s generativnom umjetnom inteligencijom.** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026.)]] validirao je dijagnostički instrument utemeljen na TAM-u sa 434 nastavnika u službi; bihevioralna namjera bila je glavni prediktor digitalne kompetencije za upotrebu generativne umjetne inteligencije u planiranju kurikuluma, sa samoučinkovitosti kao temeljnim pokretačem.
+Edukatori nastavnika mogu razdvojiti dvije stvari koje obuka u upitima donosi. Ušteđeno vrijeme pripreme jedna je korist, a bolji materijali druga, i dokazi podupiru prvu bez potpore za drugu. Program koji obećava oboje razočarat će u kvaliteti.
 
-### Psihometrijski instrument za kompetencije nastavnika za umjetnu inteligenciju
+Nastavnici mogu upute agentima pisati kao uređene korake. Kada su nastavnici konfigurirali chatbotove prirodnim jezikom, dominantan propust bio je preskočen korak tijeka rada, a ne pogrešna činjenica, pa je vještina koju vrijedi vježbati specificiranje slijeda i preduvjeta, a ne dodavanje više pojedinosti o sadržaju.
 
-- Psihometrijska studija razvila je Skalu pismenosti nastavnika o umjetnoj inteligenciji (TAILS) za mjerenje pismenosti o umjetnoj inteligenciji posebno unutar [[teacher-education|obrazovanja nastavnika jezika]], operacionalizirajući šest dimenzija okvira ED-AI. Razvoj instrumenta popunjava prazninu u procjenama koje ciljaju učenike ili opće korisnike i podupire mjerenje nastavničke kompetencije za umjetnu inteligenciju.
+Voditelji škola mogu financirati uvjete koji kompetenciju čine upotrebljivom: plaćeno radno vrijeme, mjesto u rasporedu i predmetno specifičnu podršku. Usporedba iRAISE pokazala je da je nastavničko pouzdanje odlučilo hoće li se alati uopće koristiti, a pouzdanje slijedi praksu s podrškom, a ne samu obuku.
 
-Krajolik instrumenata od tada je pregledan. [[assessing-teachers-ai-literacy-measurement-tools-2026|Sistematski pregled alata za mjerenje pismenosti nastavnika o umjetnoj inteligenciji Zainala, Mohd Matorea i Maata iz 2026.]] ocijenio je 33 instrumenta objavljena između 2019. i 2025. i našao da je područje metodološki monotono: 31 (93,9%) su skale samoprocjene percipiranog pouzdanja, samo dva (6,1%) objektivno ispituju znanje, a nijedan ne upotrebljava zadatke utemeljene na izvedbi. Unutarnja konzistencija bila je najsnažnija domena kvalitete (28 od 33 na razini A), a pravičnost najslabija, s pet instrumenata (15,2%) koji izvješćuju o invarijantnosti mjerenja ili razlikovanju čestica. Sadržaj i zaostaje za tehnologijom, jer 29 instrumenata (87,9%) cilja opće koncepte umjetne inteligencije, a samo četiri (12,1%), svi iz 2025., bave se generativnom umjetnom inteligencijom.
+Voditelji odjela mogu kompetenciju vrednovati demonstracijom. Ljestvice samoprocjene i demonstracija razilaze se, a instrumenti ovdje pregledani mjere vrlo različite konstrukte, pa portfelj održanih lekcija ili ocijenjenih studentskih radova kaže više od ankete o spremnosti.
 
 ## Uobičajene zablude
 
@@ -175,6 +200,11 @@ Krajolik instrumenata od tada je pregledan. [[assessing-teachers-ai-literacy-mea
 
 ## Povezani članci
 
+
+- [[feng-ai-literacy-psychological-dimensions-2026]] — Šest dimenzija nastavničke pismenosti o umjetnoj inteligenciji, među njima kontekstualno znanje i trajni profesionalni rast (Feng i Carolus 2026)
+- [[ding-genai-colleague-teacher-depletion-2026]] — 436 nastavnika dizajna: dobitci u kompetenciji i UI anksioznost rastu zajedno, pa o ishodu odlučuje podrška, a ne obuka (Ding i sur. 2026)
+- [[cerioli-human-centered-ai-literacy-schools-2026]] — Pregled iRAISE u četiri zemlje: 84 od 194 države stavljaju MIL izvan tehničkih vještina u kurikule, a ljudski čimbenici odlučili su ishode u sva četiri sustava (Cerioli 2026)
+- [[wilcoxen-steiner-bell-ai-lesson-planning-2026]] — 26 nastavnika početnika revidiralo je UI planove lekcija; prilagodba je bila najveća praznina (Wilcoxen i sur. 2026)
 - [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — Istraživačka kompetencija nastavnika kemije nakon profesionalnog razvoja potpomognutog umjetnom inteligencijom: mješovita studija prije i poslije
 - [[walkington-teacher-in-loop-personalized-tasks-2026]] — Personalizacija matematičkih zadataka u srednjoj školi uz ChatGPT s nastavnikom u petlji (Walkington i sur. 2026.)
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — Koji su nastavnici dobili vrijeme za planiranje: niže pouzdanje u predmetno znanje, niže pedagoško znanje, kraći staž ili visoko pouzdanje u tehnologiju
@@ -183,7 +213,6 @@ Krajolik instrumenata od tada je pregledan. [[assessing-teachers-ai-literacy-mea
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Multimodalna pismenost o procjeni: jednogodišnji program u kojem su se znanje i kompetencija pomaknuli, a vrijednosti nisu
 - [[teacher-ai-literacy-professional-development-meta-2026]]
 - [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK profesionalni razvoj: pola standardne devijacije dobitka i negativni dobici koji se čitaju kao rekalibracija - Utjecaj programa profesionalnog razvoja na pismenost nastavnika K-12 o umjetnoj inteligenciji: sistematski pregled i metaanaliza
-
 - [[ailithub-ai-literacy-case-infrastructure-2026]] — Nastavnici su označili vlastite slučajeve upotrebe umjetne inteligencije u učionici i lako dosegli praktične kompetencije, a društvene i etičke rijetko (Wang i sur. 2026.)
 - [[typology-generative-ai-tools-education-2026]] — Odabir alata kao ostvarenje djelotvornosti edukatora
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Sistematski pregled generativne umjetne inteligencije u poučavanju i učenju u K-12 (Marzano 2026.)
@@ -234,3 +263,8 @@ Krajolik instrumenata od tada je pregledan. [[assessing-teachers-ai-literacy-mea
 - [[chen-ai-visualization-teaching-competency-scale-2026]] — Razvoj i validacija ljestvice kompetencije poučavanja vizualizacijom potpomognute umjetnom inteligencijom
 - [[bursic-ai-residency-education-curriculum-2026]] — Prepreke integraciji umjetne inteligencije u kurikulume specijalizacija: kvalitativni intervjui s dvanaest liječnika voditelja
 - [[yuan-teacher-need-satisfaction-genai-2026]] — Zadovoljenje osnovnih psiholoških potreba nastavnika i namjere upotrebe generativne umjetne inteligencije: posredujuća uloga angažmana u profesionalnom razvoju
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — Stavovi skandinavskih nastavnika prema generativnoj umjetnoj inteligenciji: istraživanje povezanosti
+- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — Samoprocjenjena razina kompetencije nastavnika predviđena uglavnom institucionalnom pripadnošću, a ne osobnim osobinama
+- [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — Usvajanje prosuđeno disciplinu po disciplinu, uz studentsko rasuđivanje kao glavnu brigu
+- [[chen-future-faculty-development-ai-2027]] — Kompetencija raspodijeljena po nastavničkom timu, s temeljnom tehničkom i etičkom sposobnošću univerzalno
+- [[ji-judgement-space-dialogic-inquiry-2027]] — Okviri nabrajaju kompetencije i ostavljaju uvjete prosudbe neobjašnjenima

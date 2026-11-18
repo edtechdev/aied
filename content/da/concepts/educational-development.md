@@ -10,8 +10,8 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 translation_of: "concepts/educational-development"
-source_updated: "2026-11-07T12:15:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-17T18:50:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*"
 contributors: [editor]
 ai_assist:
@@ -19,10 +19,13 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
-
 > **Uddannelsesudvikling** (også kendt som *underviserudvikling*) betegner de processer, programmer og institutionelle støtteordninger, der hjælper undervisere med at udvikle de færdigheder, den selvtillid og den [[learner-identity|professionelle identitet]], der skal til for at undervise godt med AI. Uddannelsesudvikling spænder over individuel oplæring, redesign af [[curriculum-design|kurrikulum]], ændringer i [[educational-policy-ai|institutionel politik]] og det kulturelle arbejde med at forstå, hvad generativ AI betyder for den akademiske profession.
 
 ## Spørgsmål at overveje
@@ -46,9 +49,14 @@ Uddannelsesudvikling er det professionelle og institutionelle arbejde, hvorigenn
 - **Kurrikulær integration:** [[institutional-change-framework-ai|Rammer for institutionel forandring]] og [[ai-assessment-scale-reform|evalueringsreform]] kræver, at undervisere redesigner kurser og ikke blot tilføjer AI-værktøjer.
 - **Oplæringsprogrammer:** [[crewscaler-ai-upskilling-framework|Rammer for AI-opkvalificering]] og [[ai-tpack-preservice-math-teachers|TPACK-baseret grunduddannelse]] giver modeller for struktureret [[ai-education|AI-undervisning]] af undervisere.
 
+- **Efterspørgsel er ikke en behovsanalyse.** 345 lærere fra Quebecs CEGEP'er scorede lavest på teknisk forståelse (2,706 af 5) og bad alligevel om fagspecifikke praktiske anvendelser og kaldte tidligere sessioner for generelle ([[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachini et al. (2026)]]).
 - **AI-formidlet professionel refleksion.** Reflective Triangle-modellen placerer AI som kognitiv mediator på tværs af [[reflection|selvrefleksion]], kollegial refleksion og fællesskabsrefleksion i et professionelt læringsfællesskab, testet i et fire uger langt gennemførlighedscase med seks lærere; den grænse, den drager, er, at individuel indsigt ikke automatisk bliver fælles professionel viden ([[reflective-triangle-model-teacher-ai-2026|Nguyen (2026)]]).
 - **[[governance|Styring]] og politik:** [[genai-policies-higher-ed-computing|Analyse af institutionel AI-politik]] dokumenterer kløften mellem institutionelle ambitioner og undervisernes støttekapacitet.
 - **AI-kompetence er institutionelt usynlig.** En [[meta-analysis-systematic-review|systematisk gennemgang]] af 32 studier af sproglæreres AI-kompetence fandt den fraværende i arbejdsbelastningsmodeller, forfremmelsespolitikker og ressourceallokering, med fragmenteret udvikling og ansvar, der forskydes mellem institutioner og myndigheder, så kompetenceudviklingen ender som en individuel indsats frem for strukturel støtte ([[governing-unseen-ai-literacy-language-teachers-2026|Deng, Çelik & Duran, 2026]]).
+
+- **Konstruktionistiske workshops har brug for et kort.** Tre sessioner på 50 minutter flyttede 20 til 25 undervisere fra legende prompting til genanvendelige undervisningsmaterialer, men deltagere, der var nye med AI, bad om en begrebsmæssig introduktion før sandkassen ([[fischer-learning-by-making-faculty-development-2026|Fischer (2026)]]).
+
+Grænseoverskridende udvikling har en analyseenhed ud over workshoppet. [[tian-transnational-faculty-development-governance-2027|Tian, Sun og Wang (2026)]] argumenterer for, at konnektivitet som standard er episodisk, da et webinar distribuerer uden at sætte en dagsorden, og en platform hoster uden at skabe enighed om brug. Det, der omdanner begivenheder til akkumuleret infrastruktur, er uglamourøst: et sekretariat, der holder rytmen, et dateret arkiv af dagsordener og caseeksempler, og delt styring behandlet som en bevægelsesretning snarere end en status, et netværk kan gøre krav på.
 
 ### Metaforer og fælles sprog i uddannelsesudviklingen
 
@@ -80,9 +88,7 @@ For underviserudviklere, akademiske ledere og [[stakeholders|instruktionsdesigne
 
 **Adressér de fire indførelsesdrivere, ikke blot viden.** Selvtillid, holdninger, støtte og bekymringer forudsiger, om undervisere faktisk tager AI i brug, og en workshop, der kun handler om viden og ignorerer disse, ændrer næppe praksis. Design udviklingen, så den opbygger selvtillid gennem praktisk brug, giver vedvarende støtte (ikke engangsoplæring) og aktivt bringer undervisernes bekymringer frem og responderer på dem.([[teacher-ai-adoption-confidence]])
 
-
 Selvtillid og kompetence er ikke udskiftelige mål: i en SEM-analyse med 502 universitetsundervisere var AI-kompetence den dominerende prædiktor for AI-relateret [[well-being|trivsel]] (β = 0,713), mens [[self-efficacy|teknologisk self-efficacy]] bidrog lidt (β = 0,082), og støtte nåede kun trivsel indirekte ([[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]).
-
 
 **Behandl efterspørgsel efter retningslinjer og retningslinjers tilstrækkelighed som to forskellige problemer.** Undervisere på ét universitet støttede stærkt institutionelle tiltag mod uetisk AI-brug (M = 4,59), mens de vurderede de eksisterende retningslinjer lavest (M = 2,99) og udpegede [[privacy|databeskyttelse]] og kulturel inklusion som deres svageste viden, et konkret mål for professionel udvikling ([[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgic & Sever, 2026]]).
 
@@ -91,15 +97,21 @@ Selvtillid og kompetence er ikke udskiftelige mål: i en SEM-analyse med 502 uni
 **Sæt ikke lighedsteg mellem infrastrukturinvesteringer og forvandling.** På tværs af 125 studier korrelerede institutionel investering i GenAI-infrastruktur og uddannelsesudvikling kun svagt med faktisk pædagogisk forandring (r = 0,12), mens 60-70% af underviserne følte sig uforberedte på at integrere GenAI, hvilket gør udvikling og ikke indkøb til den bindende begrænsning.([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]])
 **Navngiv fejlmåden, ikke kun effektstørrelsen.** [[fajardo-ramos-teacher-education-ai-agenda-2026|Fajardo-Ramos, Chiappe og Martínez-Pérez (2026)]] kalder det simuleret innovation: tilstedeværelsen af værktøjer signalerer fremskridt, undervisnings- og evalueringsformater forbliver intakte, adoptionsrater og [[visualization|dashboards]] står i stedet for læring, og teknologiens udgivelsescyklus sætter retningen. Deres diagnostik kræver, at et udviklingsprogram begrunder hvert værktøj i forhold til et navngivet læringsproblem, før det tages i brug.
 
+Dømmekraft behandles bedst som en betingelse snarere end som et kompetencepunkt. [[ji-judgement-space-dialogic-inquiry-2027|Ji og Mercer (2026)]] beskriver dømmekraftsrummet som den relationelle, normative og betingede interaktion, hvorigennem professionel dømmekraft artikuleres og undersøges, og i AI-understøttede rammer bliver det rum trepartet, fordi genererede evalueringer træder ind i det. Deres trekolonne-revision spørger, hvad læreren gør, hvad studerende gør, og hvordan AI positioneres — et kollegialt instrument til at lokalisere, hvor dømmekraft stille er flyttet til et værktøj.
+
 **Arbejd mod redesign af kurrikulum, ikke mod værktøjsindførelse.** Målet er, at undervisere redesigner kurser og evaluering, ikke blot at de tilføjer AI-værktøjer. Forankr den professionelle udvikling i redesignarbejde på kursusniveau og i evalueringsreform, og giv underviserne strukturerede rammer til at gøre det (fx [[ai-assessment-scale-reform|evalueringsskalaer]], [[institutional-change-framework-ai|rammer for institutionel forandring]]).([[institutional-change-framework-ai]])([[ai-assessment-scale-reform]])
 
 **Saml landsbyen, ikke individet.** På tværs af 12 interviewede akademikere og 17 studerende oversteg redesign af evalueringen i GenAI-tiden enhver enkelt akademikers formåen, og ufleksible processer, lange gennemløbstider og arbejdsbyrde blev nævnt, så forfatterne foreslår et programdækkende team, der kombinerer evalueringsdesign, GenAI, faglig, programmæssig og branchemæssig ekspertise ([[nicola-richmond-programwide-assessment-genai-2025|Nicola-Richmond et al., 2025]]).
+
+Udviklingsenheden kan være mindre end instituttet og større end personen. [[chen-future-faculty-development-ai-2027|Chen et al. (2026)]] opstiller syv lærerroller, men insisterer på, at de ikke behøver at sidde i én akademiker: menneskecentreret underviser og faglig ekspert er universelle fundamenter, mens læringsarkitektur, evalueringsredesign, teknisk kompetence, etisk forvaltning og disciplineret eksperimenteren kan fordeles over et undervisningsteam. Deres betingelse er, at alle beholder basal teknisk og etisk kapacitet, så delt ekspertise ikke bliver delt uvidenhed.
 
 **Kør serien på lokalets egne data frem for importeret best practice.** [[physics-faculty-learning-community-ai-2026|Perl-Nussbaum og Finkelstein (2026)]] dokumenterer en gennemarbejdet model fra et stort offentligt R1-fysikinstitut: seks sessioner hver anden uge af 60 til 75 minutter, nitten undervisere deltog over serien og omkring ti ved hvert møde, hvor hver session åbnede med lokale data eller instituttets egne materialer, gik videre til smågruppetest af AI mod rigtige anonymiserede studerendelektier og sluttede i fælles diskussion. Det, underviserne fandt ved at teste, var mere brugbart end nogen pakke, facilitatorerne kunne have importeret: AI løste hver opgave, de forsøgte, men dens feedback på rigtige studerendes arbejde var ujævn, promptafhængig og overfladefokuseret, medmindre den fik eksplicitte mål og rubrikker, og de studerende promptede overfladisk og ændrede output kosmetisk, medmindre produktiv brug blev modelleret. Det første konkrete output var et levende lager på fem poster, nemlig pensumpolitiske erklæringer, materialer til klassediskussion, studerendes spørgeskema, AI-integrerede lektieopgaver og evalueringsstrukturer, hvilket er grunden til, at forfatterne behandler sessionens struktur som selve argumentet frem for noget indhold, den leverede.
 
 **Forankr i en kompetenceramme.** Udviklingen bør også opbygge **pædagogisk [[prompt-engineering|promptkompetence]]**, evnen til at indkode pædagogiske intentioner i prompts, da [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] finder, at det er pædagogisk ekspertise og ikke AI-færdighed, der afgør kvaliteten af læreres AI-assisterede designarbejde.([[crewscaler-ai-upskilling-framework]])([[ai-tpack-preservice-math-teachers]])([[talebzadeh-ai-group-activity-roles-2026]])
 
 **Sekvensér forståelse før automatisering.** En [[qualitative-research|kritisk diskursanalyse]] af 14 stykker grå litteratur udgivet mellem november 2022 og april 2025, der rådgiver praktikere om generativ AI til konstruktiv sammenhæng, finder, at kompetence må komme før værktøjsadgang: fordi kvaliteten af engagement kommer før kvaliteten af forståelse i en [[constructivist|konstruktivistisk]] ramme, skalerer risikoen omvendt med fortrolighed, og nybegyndere er mest udsat for plausibilitetsdrevet accept af plausibelt udseende, men pædagogisk tynde output. [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al. (2026)]] argumenterer desuden for, at udviklingsenheder bør modsætte sig et teknokratisk mandat, hvor man hjælper undervisere med at "opnå færdighed" i værktøjer, der udfører "det tunge arbejde" i [[learning-design|kursusdesign]], fordi den rammesætning lukker udviklere ude af et lukket underviser-GenAI-loop og omdanner værdiledet, relationel udvikling til en medierende mekanisme for softwareindførelse. Det forsvarlige alternativ holder underviserudviklere som kuratorer og regelsættere for enhver institutionelt afgrænset [[rag|retrieval-augmenteret]] sammenhængsassistent, der stiller undersøgende spørgsmål, flagger under- og overevaluering og genererer alternativer, men aldrig færdige artefakter, med eskalering til [[human-in-the-loop-ai|menneskelig dømmekraft]] i akkrediterings- og tværprogramspørgsmål behandlet som en egenskab frem for en undtagelse.
+
+Udvikling kan også organiseres omkring en invariant kerne og en flyttende kant. [[ho-invariant-core-faculty-development-2027|Ho (2026)]] sætter læringens neuropsykologiske mekanisme foran enhver teknologi, argumenterer for, at GenAI kollapser afstanden mellem artefakt og tænkning, og udleder en rute for scholarship of teaching, hvor undervisere undersøger deres egen undervisning under evidens, refleksion og peer review. Hans prioritering følger: uddyb, hvordan læring virker, lad derefter lærere forfatte små værktøjer, og behandl teknologiens kant som den del, der forventes at flytte sig.
 
 **Bring frygt og mentale modeller frem og håndter dem.** Før undervisningen redesignes, brug et metaforanalyseværksted ([[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson & Casey 2025]]) til at bringe et teams antagelser og bekymringer om generativ AI frem, herunder frygten for at den vil erstatte undervisningsroller, og byg udvikling, der responderer på dem frem for at ignorere dem.([[fear-awe-genai-metaphor-workshops-2025]])
 
@@ -111,12 +123,24 @@ Selvtillid og kompetence er ikke udskiftelige mål: i en SEM-analyse med 502 uni
 
 **Mål fremmøde, ikke følelsen af engagement.** I et seks måneder langt Intelligent-TPACK-program for 64 universitetslærere forudsagde fremmødeprocent gevinsten i AI-kompetence (β = 0,407, p = 0,001), mens selvopfattet deltagelse ikke gjorde (β = 0,049, p = 0,692), hvilket forfatterne læser som konkret adfærdsmæssig investering frem for overfladisk engagement ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]). Programmet parrede onlineforelæsninger med tre fysiske workshops og krævede derefter, at lærerne reviderede deres undervisningsdesigns og implementerede dem i det følgende semester, og forfatterne anbefaler at knytte fremmøde til medarbejdersamtalen sammen med meningsfulde incitamenter.
 
+Deltagelse og substans kan bevæge sig i modsatte retninger, og årsagen er strukturel snarere end motiverende. [[jiang-faculty-development-japan-2027|Jiang, Wang og Taguchi (2026)]] sporer japansk deltagelse stigende til 32,7 % af universiteterne i 2023, mens aktive læringsworkshops, peer-observation og peer review forblev flade eller faldt, og de lokaliserer begrænsningen i fraværet af en vedvarende professionel rolle i akademisk udvikling. Rotation, sideløbende opgaver og tidsbegrænsede kontrakter bryder den kontinuitet, som kollegiale formater afhænger af, så indikatoren, der bør rapporteres, er formatmiks side om side med antal hoveder.
+
 **Benchmark mod det, underviserne selv rapporterer.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]]'s undersøgelse blandt 1 057 amerikanske undervisere finder det institutionelle lag tyndt på måder, programdesignere kan måle direkte: 59% vurderede deres institution som uforberedt på at bruge generativ AI effektivt til at forberede studerende på fremtiden, og 68% sagde, at den ikke havde forberedt underviserne på at bruge den til undervisning og vejledning, mens den strukturelle respons bestod i en taskforce på 55% af institutionerne, men i et generelt uddannelsesmål om AI-kompetence på kun 13%. Underviserne havde ikke ventet på politikken: 87% skrev deres egne regler på opgaveniveau, mens 48% kunne pege på en institutionel, og de nævnte kollegers modstand (82%) og ukendskab (83%), ikke påbud, som forhindringerne for institutternes indførelse. For udviklingsprogrammer taler det for at behandle kollegiale normer, et fælles politiksprog på opgaveniveau og eksplicitte mål for institutionel parathed som en del af interventionen frem for at overlade dem til politikdokumentet.
 
 **Underviseres respons afspejler magtcentre, ikke holdning.** I et instrumentelt casestudie af 33 skriveundervisere formede fire polycentriske magtcentre (den globale GenAI-trend, universitetet og instituttet, kolleger og studerende) praksissen, og deltidsansatte, der var begrænset af lav diskursmagt, flyttede sig fra detektion mod at undervise i acceptabel brug ([[zuo-instructor-power-genai-writing-2026|Zuo et al. (2026)]]).
 
 - **Seks familier af professionel udvikling, tre med god evidens og en klar vinder.** En gennemgang af 78 studier af AI-understøttet instruktionsdesign sorterer dokumenteret professionel udvikling i kompakte indlejrede moduler (2-4 uger), semestrerlang mikrolæring, opgavebaserede designcyklusser, samarbejdende dialogbaserede spørgsmålskæder, kritisk fælles opdagelse og [[self-directed-learning|selvstyret]] praktikerlæring. Udfaldsevidensen er stærkest for **kompakte indlejrede moduler**: et tre uger langt modul gav statistisk signifikante gevinster på alle seks Intelligent-TPACK-domæner med mellemstore til store effektstørrelser, og et fire uger langt program med **436 lærerstuderende og en kontrolbetingelse** er den stærkeste kontrollerede evaluering i materialet ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
 - **Tre designtræk adskiller de bedst underbyggede interventioner.** Etik indlejret som **[[retrieval-spacing-interleaving|distribueret øvelse]] med kontrolpunkter ved hver opgave** frem for en enkeltstående session; **præstationsbaseret kompetencevurdering** med undervisningsplaner, beslutningslogge og mikro-undervisning, motiveret direkte af selvrapporteringens upålidelighed; og promptkonstruktion udviklet som reflekteret, pædagogisk forankret praksis. Indførelse er ikke samme håndtag som præstation: på tværs af 200 lærere i Nordsumatra havde AI-brug ingen direkte effekt på læreres præstation (β = 0,112, p = 0,087), mens organisatorisk medborgerskabsadfærd bar den indirekte, så udviklingsarbejde rettet mod samarbejdende brug ud over kerneopgaven er den version, evidensen understøtter ([[ai-use-teacher-performance-north-sumatra-2026|Sherly et al. (2027)]]). Et tilhørende to uger langt studie fandt hurtige gevinster i viden og selvtillid og udpegede samtidig biasdetektion som den svageste fremspirende kompetence, et gab der holdt i det længere modul, i tråd med at etisk perceptuel kapacitet udvikles langsommere end teknologisk fortrolighed.
+
+**Skala er dokumenteret; forandring i klasseværelset er ikke.** [[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay og kolleger]] fulgte 105 kemilærere gennem et seksugers program, og [[ma-ai-corpus-language-teaching-coi-2026|Ma og kolleger]] kørte et 20-ugers onlineprogram med over 150 sproglærere fra 28 lande. [[white-scandinavian-teachers-genai-attitudes-2026|White og kolleger]] målte en gevinst på 0,20 SD i oplevede fordele blandt 2.159 skandinaviske lærere, der modtog GenAI-professionel udvikling. Hvert studie viser, at udvikling flytter, hvad undervisere rapporterer; ingen følger dem ind i et klasseværelse for at måle, hvad eleverne gjorde anderledes.
+
+**Hvad undervisere beder om, ligner mesterlære mere end træning.** I distriktsstudiet bad 22 lærere om udvikling leveret af tidligere lærere, der forstod klasseværelsesbegrænsninger, en en-sides guide til, hvornår værktøjerne hjælper, og den planlægningstid, der skal til for at bruge begge ([[dangol-relief-or-displacement-teachers-generative-ai-2026|Dangol et al.]]). Institutioner vælger imidlertid at opbygge kapacitet frem for at købe den: blandt dem, hvis strategi omfatter arbejdsstyrkekompetencer, opkvalificerer 69 % eksisterende personale og undervisere ([[robert-educause-impact-ai-work-higher-education-2026|EDUCAUSE, 2026]]).
+
+**Fraværet af udvikling er et politisk valg med et synligt resultat.** [[rameskumar-shadow-ai-legitimized-higher-education-2027|Rameskumar og kolleger]] interviewede 20 undervisere, der havde bygget deres egne regler, fordi der ikke kom nogen vejledning, og [[bodek-prompted-to-explore-microlearning-2026|Bodek]] beskriver en mikrolæringsramme bygget til den tid, underviserne faktisk har. Programmer, der behandler udvikling som et gentaget lag af institutionel støtte snarere end en enkeltbegivenhed, rapporterer forskellen ([[aalhe-capacity-disposition-genai-assessment-2026|AALHE]]).
+
+**Rammen ændrer udviklingens form, ikke behovet for den.** I medicinsk uddannelse behandler en AI-residens underviserudvikling og fælles læring som mekanismen snarere end som et tillæg ([[bursic-ai-residency-education-curriculum-2026|Bursic et al.]]). En gennemgang af 86 ressourcer om tidlig barndom identificerer underviserudvikling som et af sine fire temaer ([[early-childhood-ai-holistic-competencies-review-2026|gennemgangen]]). CTE-fornyelse rækker efter underviserudvikling, når pensumændringer afdækker et kapacitetsgab ([[wang-legacy-curriculum-ai-cte-renewal-2026|Wang]]). Og blandt 146 lærere medierede engagement i professionel udvikling forbindelsen mellem motivation og tilsigtet GenAI-brug ([[yuan-teacher-need-satisfaction-genai-2026|Yuan et al.]]).
+
+Et gennemarbejdet eksempel på kohortemodellen kommer fra et universitetsbibliotek. [[jordan-faculty-ai-oer-creation-2025|Jordan et al. (2025)]] betalte stipendier til syv undervisere for et otteugers program, der kombinerede fire ugers undervisning, selvstændig projektudvikling og peer-feedback, forankret i Knowles' voksenlæringsprincipper og CLEAR-promptrammen. Gevinsterne var beskedne i AI-kendskab og større i OER-kendskab, og forfatterne behandler stipendiet og den overenskomst, der lod adjunkter blive betalt, som en del af interventionen snarere end som administration.
 
 ## Almindelige fejlopfattelser
 
@@ -147,25 +171,26 @@ Selvtillid og kompetence er ikke udskiftelige mål: i en SEM-analyse med 502 uni
 - [[stakeholders]] — Paraply: mennesker og målgrupper i AI-uddannelse (elever, lærere, designere, administratorer, politiske beslutningstagere)
 
 ## Forbundne artikler
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritisk diskursanalyse af rådgivning om GenAI-sammenhæng: udviklere omdefineret som teknologioplærere
+
+- [[jordan-faculty-ai-oer-creation-2025]] — Fra prompt til praksis: Et fagcentreret initiativ til at udforske AI-understøttet OER-skabelse (Jordan et al., 2025)
+  [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Kritisk diskursanalyse af GenAI-rådgivning om konstruktiv sammenhæng: udviklere omdefineret som teknokrater, og et forsvarligt alternativ for dem som kuratorer (McInnes et al., 2026)
 - [[crompton-faculty-technology-integration-standards-2026]] — Standarder for underviseres teknologiintegration (DBR)
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Etiske dimensioner ved AI: underviseres og studerendes syn
-- [[nicola-richmond-programwide-assessment-genai-2025]]
+- [[nicola-richmond-programwide-assessment-genai-2025]] — 
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — Hvordan ingeniørfaglige metaforer konstruerer (og begrænser) forståelsen af AI
 - [[fear-awe-genai-metaphor-workshops-2025]] — Frygt og ærefrygt: at forstå generativ AI gennem metaforer (metaforværksted for undervisere, personale og studerende)
-
 - [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Fire kriterier og fire metaforer til at undervise i kritisk AI-kompetence
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — At styre det usynlige: AI-kompetence blandt sproglærere
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[teacher-ai-adoption-confidence]]
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-assessment-scale-reform]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[genai-pd-ai-pck-learning-gain-2026]]
-- [[genai-higher-education-systematic-review-2026]]
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — 
+- [[teacher-ai-adoption-confidence]] — 
+- [[institutional-change-framework-ai]] — 
+- [[genai-policies-higher-ed-computing]] — 
+- [[ai-tpack-preservice-math-teachers]] — 
+- [[crewscaler-ai-upskilling-framework]] — 
+- [[ai-assessment-scale-reform]] — 
+- [[pchl-he-framework-genai-content-creation-2026]] — 
+- [[genai-pd-ai-pck-learning-gain-2026]] — 
+- [[genai-higher-education-systematic-review-2026]] — 
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI som identitetskrise, ikke kompetencegab
 - [[zuo-instructor-power-genai-writing-2026]] — Magtforhold oplevet af universitetsundervisere, der kæmper med GenAI i skrivning (Zuo, Xu & Dunning 2026)
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle-modellen: AI som kognitiv mediator
@@ -179,8 +204,23 @@ Selvtillid og kompetence er ikke udskiftelige mål: i en SEM-analyse med 502 uni
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon-undersøgelse af 1 057 amerikanske undervisere: institutionel uforberedthed, tynd styring og politikkløften på 87%/48% (Watson & Rainie 2026)
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Akademiske udviklere som digitale mediatorer i videregående uddannelse i det globale syd: udvikling som socioteknisk praksis
 - [[physics-faculty-learning-community-ai-2026]] — En workshoppserie om effektiv brug af AI i usikre tider: at bygge et fysikfagligt læringsfællesskab
-
 - [[faculty-ai-well-being-social-supports-2026]] — Underviseres AI-relaterede trivsel følger AI-kompetence snarere end teknologisk self-efficacy
 - [[ai-competence-framework-landscape-2026]] — Undersøg, hvad en rammes niveauer beskriver, før du tager den i brug
-
 - [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Kan uddannelse sætte dagsordenen for AI? Simuleret innovation og pædagogisk retningssætning i læreruddannelsen
+- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 kemilærere i et seksugers program
+- [[ma-ai-corpus-language-teaching-coi-2026]] — 150+ sproglærere fra 28 lande over 20 uger
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2.159 skandinaviske lærere; 0,20 SD gevinst i oplevede fordele
+- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 lærere efter et GenAI-læringsprogram, med behov der medierer engagement
+- [[bodek-prompted-to-explore-microlearning-2026]] — en mikrolæringsramme for underviserudvikling i generativ AI
+- [[bursic-ai-residency-education-curriculum-2026]] — en AI-residens i medicinsk uddannelse
+- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 ressourcer; underviserudvikling som et af fire temaer
+- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 lærere, der bad om udvikling ledet af tidligere lærere
+- [[robert-educause-impact-ai-work-higher-education-2026]] — 69 % opkvalificerer eksisterende personale og undervisere
+- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 undervisere, der legitimerede skygge-AI, hvor vejledning manglede
+- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — kapacitetsgab, der driver underviserudvikling og ansættelsesbeslutninger
+- [[aalhe-capacity-disposition-genai-assessment-2026]] — gentaget udvikling som et af fem støttelag
+- [[chen-future-faculty-development-ai-2027]] — Syv lærerroller, to universelle fundamenter og undervisningsteamet som udviklingsenhed
+- [[ji-judgement-space-dialogic-inquiry-2027]] — Dømmekraftsrummet, dialogisk undersøgelse og en trekolonne-revision af, hvor dømmekraft er flyttet til et værktøj
+- [[jiang-faculty-development-japan-2027]] — Japans tosporede FD: deltagelsen steg, mens kollegiale formater ikke gjorde
+- [[tian-transnational-faculty-development-governance-2027]] — Transnational underviserudvikling: konnektivitet er episodisk, koordinering er arbejdet
+- [[ho-invariant-core-faculty-development-2027]] — Invariant kerne, flyttende kant: læringsmekanismen foran teknologien

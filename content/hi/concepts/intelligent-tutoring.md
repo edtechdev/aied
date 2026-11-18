@@ -10,7 +10,7 @@ discipline: [stem education]
 level: [higher ed, k 12]
 confidence: high
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
-connected_resources: [deeptutor, openmaic, learnharness]
+connected_resources: [deeptutor, openmaic, learnharness, ai-tutor-pro-teaching-assistant-pro]
 translation_of: concepts/intelligent-tutoring
 source_updated: "2026-11-08T08:56:00-05:00"
 translation_note: "यह अंग्रेज़ी पेज का ऑटोमैटिक अनुवाद है और इसकी अभी तक किसी मूल भाषी ने समीक्षा नहीं की है।"

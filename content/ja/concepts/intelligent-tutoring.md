@@ -2,7 +2,7 @@
 title: 知的個別指導
 created: "2026-10-10T21:52:56-04:00"
 updated: "2026-11-08T10:12:52-05:00"
-connected_resources: [deeptutor, openmaic, learnharness]
+connected_resources: [deeptutor, openmaic, learnharness, ai-tutor-pro-teaching-assistant-pro]
 connected_faqs: [ai-agents-support-students-instructors, developing-ai-tutor, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works, making-simulated-students-behave-like-learners]
 type: concept
 pedagogy: [scaffolding]

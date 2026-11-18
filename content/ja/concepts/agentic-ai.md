@@ -1,8 +1,8 @@
 ---
-connected_resources: [deeptutor, learnharness, primer]
+connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 title: エージェンティックAI
 created: "2026-10-10T21:52:44-04:00"
-updated: "2026-11-13T18:20:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 type: concept
 foundations: [agency, agentic-ai, ai-literacy, cognitive-offloading]
@@ -13,13 +13,17 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -68,6 +72,10 @@ ai_assist:
 - **報告とガバナンスの基準尺度:自律性・監督・証拠(AOE)フレームワーク。**[[beyond-agent-label-agentic-ai-governance-2026|Dey (2026)]]は、*エージェンティックAI*という用語が極めて一貫性なく使われているため、証拠と監督を研究横断で比較できないと論じます。計画し、記憶し、ツールを使い、複数のエージェントを調整するシステムが、静的なGenAIインターフェースや従来の[[pedagogical-agent|教授法的エージェント]]と同じ袋にまとめられているのです。査読付きレビュー15本を統合的に批判的に検討した結果、証拠は成果物レベルの結果(フィードバックの正確さ、[[hallucination-risk|ハルシネーション]]の低減)で最も強く、持続的な学習、公平性、業務負荷、制度的な結果では最も弱いことがわかりました。実際の導入は概して短期間、単一の現場に限られ、監督との結びつきも弱いものです。解決策は、具体的な報告の3つ組です。**自律性レベルA0–A4**(反応的な生成→限定された統括→委譲された課題の自律性→ワークフローの自律性→採点・入学・進級に対する*帰結を伴う自律性*)、**監督レベルO0–O4**(未指定→事後的監査→使用前承認→チェックポイント管理→*継続的で限定された監督*)、**証拠の成熟段階M0–M5**(概念→試作・ベンチマーク→参加者評価→実際の導入→長期・複数現場→*再現・制度規模*)に加えて、**比例性の原則**、すなわち許容される自律性は、証拠の成熟度も監督の強度も超えてはならないという原則です(例えば、A4の帰結を伴うシステムは、M4–M5の証拠、法的検証、人間の最終権限を持つO4を要求します)。*A2–O3–M3*と報告することは、曖昧な「エージェンティックな導入」という主張を、比較可能で検証可能な仕様に変え、段階的な導入・記録・巻き戻しのための文法を組織に与えます。これは、上記の[[baradziej-agentic-ai-higher-education-2026|CopilotからAutopilotへのスペクトラム]]に対する証拠面での補完物です。
 - **敵対的ロバスト性のテスト:**[[adversarial-stress-testing-role-playing-agents|マルチエージェント・ストレステスト]]は、尋問者、標的、審査員の各エージェントを調整し、単一戦略のテストでは見えない失敗モードを明らかにします。ロバスト性スコアを0.17–0.20ポイント低下させ、学習者との[[pedagogical-safety|安全な導入]]におけるペルソナの一貫性に不可欠です。
 - **分野別の応用:**エージェンティックなシステムは、[[learnmate2-llm-adaptive-learning|適応学習エージェント]]、[[educlaw-bench-pedagogical-llm-agents-2026|教授法的LLMエージェント]]、[[guided-llm-scaffolding-independent-learning|ガイド付きLLMの足場かけ]]、[[cyberagents-gamified-cybersecurity-learning-2026|ゲーム化されたサイバーセキュリティ学習エージェント]]、[[hdr-brachytherapy-agentic-ai-simulation-2026|臨床シミュレーションエージェント]]など、さまざまな分野に登場しています。
+- **エージェンティックな採点は、業務量の問題である前に信頼性の問題です。**エージェンティックな Claude Code の展開に、コンピュータグラフィックスのコースから3つのルーブリックのファイルと、手書きの答案用紙60枚が与えられました。その採点は教員と r = 0.97 で一致し、20点満点の答案で平均絶対誤差0.85点、AI が高くつける平均バイアス0.68点、1週間を隔てた2回のセッション間の再テスト ICC = 0.96 でした。集計は、どこで失敗するかを隠します。重み付きカッパは多肢選択の0.98から評価系の項目の0.65まで下がり、手描きの図が最も弱い事例でした([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]])。1つのコース、1人の教員、1組のルーブリックは分散の所在を特定しますが、エージェンティックな採点が一般化することを立証はしません。
+
+エージェンティックなアーキテクチャは、精度という測定可能な代償と引き換えに網羅性を買います。[[nkrumah-ai-skill-extraction-engineering-2026|Nkrumahら(2026)]]の926件の求人票の標本と1,696件の金標準スキルのベンチマークでは、ESCO検索ツールを持つReActエージェントが再現率89.7%で最高でした。最良の生成的構成が83.7%、最良の埋め込みモデルが49.1%です。その精度は22.7%で、F1は36.3%にとどまり、ツールに基礎づけられたGemini 2.5 Flashの51.6%を下回り、1標本あたり約16秒で走りました。人間の助言者が一覧を削るなら再現率が正しい指標であり、媒介のない出力には基礎づけられた代替が必要です。
+
 - **学習体験の評価者としてのWebエージェント:**[[learning-design|授業]]を学生のように閲覧する単一の自律的な「記述する」Webエージェント([[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]])は、学生の中退を予測し、実際の学習者が関わる前に設計者に対して実行可能なフィードバックを与えるのに十分な豊かな記述を生み出します。グローバルなCS1(計算機科学入門)コースで、完全にシミュレートされた集団およびすべてのベースラインを上回りました。これは、エージェンティックな評価(学習体験の代役となる批評者としてのエージェント)を、教えたり設計したりするエージェントと並ぶ、エージェンティックAIの独自かつ低コストな用途として位置づけます。
 
 ### マルチエージェントシステム
@@ -206,6 +214,7 @@ ai_assist:
 
 ## 関連する記事
 
+- [[alghamdi-claude-code-agentic-grading-2026]] — 手書き答案60枚のエージェンティックな採点:全体で r = .97、評価系の項目ではカッパが .65 まで下がる
 - [[jingru-fan-agentic-university-collaborative-agents-2026]] — 改訂可能な能力プログラムを中心に組織されたエージェントと、成員としての学習者
 - [[pramod-agentic-ai-motivational-pathways-2026]] — エージェンティックAIから関与への経路としての自律性、有能感、関係性、社会的プレゼンス(Pramod & Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — AIエージェント、楽しい評価、そして第3の空間
@@ -233,3 +242,4 @@ ai_assist:
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — ソフトウェアPBLにおけるAIエージェントを用いたSDD。自動化と理解
 - [[ai-standardized-patient-scaffolding-medical-2026]] — 臨床面接訓練のための足場かけ指向マルチエージェント大規模言語モデルシステムの評価
 - [[ethics-training-agents-group-ethics-discussion-2026]] — 倫理訓練エージェント:倫理的な省察と探求のためのロールプレイと討論を促進するグループベースの倫理教育
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — 自動スキル抽出のためのAIアプローチの比較:工学教育における埋め込みからエージェンティックなシステムへ

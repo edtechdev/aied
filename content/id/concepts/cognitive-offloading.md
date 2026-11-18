@@ -10,9 +10,9 @@ ethics: [trust-calibration]
 audience: [learners]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
-translation_of: concepts/cognitive-offloading
-source_updated: "2026-11-04T17:25:00-05:00"
-updated: "2026-11-08T06:34:27-05:00"
+translation_of: "concepts/cognitive-offloading"
+source_updated: "2026-11-16T09:06:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*"
 contributors: [editor]
 ai_assist:
@@ -24,7 +24,10 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
-
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -107,11 +110,15 @@ Artikel-artikel dalam basis pengetahuan ini mendokumentasikan offloading kogniti
 - **Efeknya terletak pada pembagian kerja, bukan pada alatnya.** Nakamura (2026) berargumen bahwa heterogenitas efek pembelajaran GenAI menghilang begitu unit analisisnya menjadi pembagian kerja kognitif antara pembelajar dan mesin. Offloading mengaugmentasi pembelajaran ketika ia menunaikan operasi yang bersifat periferal terhadap tujuan saat ini, dan berisiko erosi ketika ia melewati pemrosesan yang konstitutif bagi tujuan itu ([[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]). Memproses keluaran secara substantif, atau merekonstruksinya kemudian, adalah yang menyelamatkan offload yang sebaliknya bersifat konstitutif.
 - **Apa yang boleh diserahkan seseorang bergantung pada pengalamannya atas tugas.** [[akcaoglu-offloading-ladder-experience-2026|Akcaoglu (2026)]] menjadikan urutan tugas relatif terhadap orang: apa yang bersifat tingkat lebih tinggi bagi seorang pemula adalah tingkat lebih rendah bagi seseorang yang sudah menguasai prosedurnya, sehingga offloading yang diizinkan seharusnya tumbuh seiring pengalaman dan berhenti di inti pekerjaan.
 
+**Uji konstitutif memiliki dasar struktur-tugas.** [[ho-invariant-core-faculty-development-2027|Ho (2026)]] menempatkan garis antara internet dan GenAI dalam taksonomi SOLO Biggs. Internet memudahkan tugas multistruktural, tetapi pembelajar tetap harus membangun koneksi yang menaikkan karya ke tingkat relasional, sementara GenAI menghasilkan struktur itu atas permintaan. Begitu artefak berhenti membuktikan pemikiran relasional yang hendak dielicit tugas, penilaian harus memberi bobot pada proses menghasilkannya.
+
 **Modal kognitif adalah stok yang dikuras oleh offloading.** [[riva-cognitive-capital-generative-ai-review-2026|Riva et al. (2026)]] membingkai ulang offloading sebagai perubahan pada suatu stok alih-alih suatu tindakan. Modal kognitif adalah pengetahuan, kapabilitas dan praktik yang terakumulasi, terbarukan dan dapat terkuras, yang dipegang oleh individu dan oleh organisasi, serta dijaga terpisah dari kapabilitas sistem manusia-AI sehingga keuntungan kinerja bersama dapat dilihat berdampingan dengan hilangnya kapabilitas manusia. Empat mekanisme mereka — substitusi praktik, penopangan dan umpan balik, kalibrasi metakognitif, dan agregasi organisasional — menghasilkan tujuh prinsip, termasuk bahwa kinerja yang terbantu bukanlah kompetensi yang tertahan dan bahwa meng-offload suatu tugas berbeda dari meng-offload praktik yang membangun keterampilan itu. Statistik yang memotivasinya adalah peluncuran bertahap kepada 5.172 agen dukungan pelanggan di mana sebuah asisten menaikkan masalah yang terselesaikan per jam sebesar 15%; angka itu menggambarkan sistem bersama, dan apakah para agen masih dapat mengerjakan pekerjaan itu tanpa bantuan adalah pengukuran yang tidak dimuat literatur yang ditinjau.
 
 ### Ketika offloading turun alih-alih naik
 
 [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] melaporkan eksperimen yang dipraregistrasi (N = 317) di mana orang dewasa mempelajari konten baru dari lembar kerja konvensional atau dari asisten serbaguna yang dibatasi pada lembar kerja yang sama. Kondisi AI menurunkan offloading kognitif yang terukur alih-alih menaikkannya (median -0,27, interval kredibel 95% -0,58 hingga 0,04). Pemrosesan mendalam tetap turun, tetapi melalui rantai di mana offloading yang lebih rendah berjalan seiring [[critical-thinking|berpikir kritis]] yang lebih rendah, yang pada gilirannya memprediksi pemrosesan mendalam yang lebih lemah (0,78). Ketidakteraturan naik sebesar 0,84 tanpa mediator yang membawa efek itu. Temuan ini merupakan peringatan bagi akun standar: offloading bukan satu-satunya jalur yang melaluinya lingkungan [[generative-ai|AI]] mengikis pemrosesan, dan suatu kondisi dapat membiarkan offloading tak tersentuh sambil menekan apa yang seharusnya dilindungi oleh offloading.
+
+- **Penataannya, bukan jumlahnya, menentukan apakah offloading membantu.** Mahasiswa yang menggunakan GenAI di dalam lembar kerja design-thinking yang menjaga pembingkaian masalah, perbandingan, dan revisi pada pembelajar melaporkan [[self-efficacy|efikasi diri]] kreatif yang lebih tinggi dan produk yang dinilai lebih baik daripada siswa yang menggunakan model yang sama tanpa batasan ([[wang-design-thinking-scaffolds-agency-preserving-ai-2026|Wang, 2026]]).
 
 ### Meng-offload empati, bukan hanya kognisi
 
@@ -191,6 +198,12 @@ Logika yang sama mengubah pembentukan imbalan menjadi alat desain: [[assistance-
 
 **Konfigurasi bypass memiliki harga kewargaan yang tidak ditagih oleh studi pembelajaran.** [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz dan Castro Samayoa (2026)]] berargumen bahwa pengalihan yang dikehendaki atas inkuiri, analisis, evaluasi, dan sintesis mengatropikan praktik yang menjadi sandaran kewargaan demokratis. Aturan pengurutan mereka adalah pembedaan bypass/perancah yang dinyatakan secara perkembangan: aritmetika sebelum kalkulator, konvensi sitasi sebelum manajer referensi, dan chatbot yang diperkenalkan setelah keterampilannya alih-alih menggantikannya. Mereka juga menamai bingkai yang membuat bypass menarik, yaitu premis efisiensi bahwa inti pekerjaan sekolah adalah selesai dengan cepat.
 
+Bukti kausal yang lebih baru memisahkan menyelesaikan tugas dari mempelajarinya. Dalam eksperimen 2×2 dengan 24 mahasiswa S1 Kanada, pemula dengan ChatGPT lulus 410.7 dari 500 tes yang dihasilkan melawan 80.7 tanpanya, sementara siswa tingkat menengah tidak memperoleh apa pun dan lebih baik dengan sumber daya konvensional ([[chen-genai-programming-understanding-2026|Chen et al., 2026]]). Studi terpisah atas 22 programmer menemukan GitHub Copilot menghasilkan keunggulan kinerja 14.09 poin dan beban kerja yang lebih rendah selama tugas, tanpa manfaat pada tes ulang tanpa bantuan sekitar seminggu kemudian ([[gardella-copilot-fast-forgettable-2026|Gardella et al., 2026]]). Offloading dapat menaikkan keluaran sambil membiarkan kapasitas untuk menghasilkannya tak tersentuh.
+
+Dua studi terkini memberi offloading sebuah aparatus pengukuran. Skala 35-butir [[ayasrah-executive-function-learning-difficulties-scale-2026|Ayasrah dan kolega]] mengubah prosesnya menjadi enam dimensi yang dapat dilaporkan — ketergantungan berlebih, pemahaman superfisial, verifikasi yang berkurang, memori yang melemah, usaha yang menyusut, dan evaluasi kritis yang berkurang — tervalidasi pada 616 siswa sekolah menengah. Survei [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026|Sharma, Manani dan Thakwani]] atas mahasiswa menemukan bahwa ketergantungan ChatGPT berasosiasi dengan fungsi eksekutif yang lebih buruk terutama melalui stres akademik, dengan jalur langsung turun ke P = 0.328 begitu stres masuk ke model. Keduanya termasuk dalam [[executive-function|fungsi eksekutif]], yang menampung kapasitas yang diduga digantikan oleh offloading.
+
+[[papasideri-cognitive-offloading-genai-narrative-review-2026|Papasideri, Chatziioannou dan Palaiologos (2026)]] meninjau migrasi konstruk ini ke AI generatif dalam sebuah tinjauan naratif yang tidak menggabungkan apa pun dan tidak melaporkan data baru. Kerangka mereka mengatur analisisnya: offloading adalah realokasi usaha, dan pertanyaannya adalah apakah usaha yang direalokasi kembali sebagai pembelajaran. Yang berubah dengan AI generatif adalah objeknya — penalaran, sintesis, dan evaluasi alih-alih pencarian dan aritmetika — sehingga hasil lama bahwa offloading memprediksi retensi tertunda yang lebih lemah kini berlaku untuk kerja orde-tinggi. Satu klaim desain mereka bersifat konkret: prompt yang menuntut justifikasi atau evaluasi mengurangi offloading dan meningkatkan kualitas argumen, yang menjadikan desain interaksi, alih-alih kapabilitas model, sebagai tuasnya.
+
 ## Miskonsepsi Umum
 
 - **"Volume prompt mengukur offloading."** **97 pembelajar** dikelompokkan berdasarkan volume prompt, dan **klaster volume tidak berbeda secara signifikan dalam prompting lokal-versus-global atau peran aktif**. Menghitung prompt berarti menghitung aktivitas, bukan distribusi kerja kognitif.
@@ -217,10 +230,13 @@ Logika yang sama mengubah pembentukan imbalan menjadi alat desain: [[assistance-
 - [[trust-calibration]] - Mengetahui kapan harus mempercayai dan kapan harus mempertanyakan AI
 - [[retrieval-spacing-interleaving]] - praktik lawan dari membiarkan model mengambil kembali atas nama pembelajar
 - [[cognitive-surrender]]
-
 - [[reflection]]
+- [[executive-function]] — Kapasitas yang diduga digantikan oleh offloading
 
 ## Artikel terkait
+
+- [[chen-genai-programming-understanding-2026]] — programmer pemula dan menengah: ChatGPT menaikkan kelulusan tes 410.7 melawan 80.7 sementara pemahaman tidak mengikuti (Chen et al., 2026)
+- [[gardella-copilot-fast-forgettable-2026]] — 22 pemula: keunggulan 14.09 poin Copilot tidak bertahan pada tes ulang tanpa bantuan seminggu kemudian (Gardella et al., 2026)
 - [[riva-cognitive-capital-generative-ai-review-2026]] — Modal kognitif: offloading sebagai penarikan dari stok kapabilitas yang terbarukan
 - [[pradubwate-illusion-ai-competence-miscalibration-2026]] — Miskalibrasi lintas dimensi: kelancaran operasional disalahbaca sebagai kompetensi evaluatif dan domain (tinjauan konseptual)
 - [[akcaoglu-offloading-ladder-experience-2026]] — Tangga Offloading: bagaimana pengalaman mengubah apa yang seharusnya diserahkan pembelajar dan praktisi kepada AI (Akcaoglu 2026)
@@ -273,3 +289,7 @@ Logika yang sama mengubah pembentukan imbalan menjadi alat desain: [[assistance-
 - [[zhang-usefulness-dependence-genai-2026]] — Dari "kegunaan" ke "ketergantungan": mekanisme evolusi dinamis perilaku penggunaan AI generatif
 - [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — Menarik kembali pengatur menaikkan offloading dan menurunkan kualitas keluaran
 - [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — Aturan pengurutan diterapkan secara perkembangan: aritmetika sebelum kalkulator, sitasi sebelum manajer referensi
+- [[ayasrah-executive-function-learning-difficulties-scale-2026]] — Enam dimensi laporan diri atas kesulitan belajar yang dimediasi AI
+- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — Stres akademik memediasi ketergantungan ChatGPT dan disfungsi eksekutif
+- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — Offloading kognitif di era AI generatif: tinjauan naratif yang menghubungkan offloading dengan memori, pembelajaran, dan fungsi eksekutif
+- [[ho-invariant-core-faculty-development-2027]] — Tingkat SOLO menjelaskan mengapa GenAI dapat memasok artefak relasional, sehingga penilaian harus memberi bobot pada prosesnya (Ho 2026)

@@ -9,15 +9,19 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
-translation_of: concepts/educational-development
-source_updated: "2026-11-07T12:15:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+translation_of: "concepts/educational-development"
+source_updated: "2026-11-17T18:50:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -45,17 +49,19 @@ Az oktatásfejlesztés az a szakmai és intézményi munka, amelyen keresztül a
 - **Elfogadás és önbizalom:** [[teacher-ai-adoption-confidence|A tanárok MI-elfogadásáról szóló kutatás]] az aggodalmakat, a támogatást, az önbizalmat és az attitűdöket azonosítja kulcsfontosságú előrejelzőkként. Az oktatói fejlesztési programoknak mind a négyet kezelniük kell.
 - **Tantervi integráció:** [[institutional-change-framework-ai|Az intézményi változás keretrendszerei]] és az [[ai-assessment-scale-reform|értékelési reform]] megkövetelik, hogy az oktatók újratervezzék a kurzusokat, ne csupán MI-eszközöket adjanak hozzá.
 - **Képzési programok:** [[crewscaler-ai-upskilling-framework|A MI-felkészítési keretrendszerek]] és a [[ai-tpack-preservice-math-teachers|TPACK-alapú tanárképzés]] modelleket adnak a strukturált oktatói [[ai-education|MI-oktatáshoz]].
-
+- **A kereslet nem igényfelmérés.** 345 québeci CEGEP-tanár a technikai megértésben pontozott a legalacsonyabban (2,706 az 5-ből), mégis tantárgyspecifikus gyakorlati alkalmazásokat kért, a korábbi alkalmakat túl általánosnak nevezve ([[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachini és mtsai. (2026)]]).
 - **MI által közvetített szakmai reflexió.** A reflektív háromszög modell a MI-t kognitív közvetítőként helyezi el az [[reflection|önreflexió]], az együttműködő reflexió és a közösségi reflexió között egy szakmai tanulóközösségben, egy hat tanárral végzett négyhetes megvalósíthatósági esettanulmányban tesztelve; a határvonal, amelyet meghúz, hogy az egyéni belátás nem válik automatikusan közös szakmai tudássá ([[reflective-triangle-model-teacher-ai-2026|Nguyen (2026)]]).
 - **[[governance|Irányítás]] és politika:** [[genai-policies-higher-ed-computing|Az intézményi MI-politika elemzése]] dokumentálja az intézményi ambíciók és az oktatói támogatási kapacitás közötti szakadékot.
 - **A MI-írástudatosság intézményileg láthatatlan.** Egy 32 tanulmányt áttekintő [[meta-analysis-systematic-review|szisztematikus áttekintés]] a nyelvtanárok MI-írástudatosságáról azt találta, hogy az hiányzik a munkaterhelési modellekből, az előléptetési politikákból és az erőforrás-elosztásból, a fejlesztés töredezett, az elszámoltathatóság pedig szétszóródik az intézmények és ügynökségek között -, így az írástudatosság fejlesztése az egyéni erőfeszítés alapértelmezett útjára szorul a strukturális támogatás helyett ([[governing-unseen-ai-literacy-language-teachers-2026|Deng, Çelik és Duran, 2026]]).
+- **A konstrukcionista műhelyeknek térkép kell.** Három 50 perces alkalom 20–25 oktatót mozdított a játékos promptolástól az újrahasznosítható tananyagok felé, ám az MI-ben új résztvevők fogalmi eligazítást kértek a homokozó előtt ([[fischer-learning-by-making-faculty-development-2026|Fischer (2026)]]).
+
+A határokon átnyúló fejlesztésnek van elemzési egysége a műhelyen túl is. [[tian-transnational-faculty-development-governance-2027|Tian, Sun és Wang (2026)]] amellett érvelnek, hogy a kapcsolódás alapértelmezésben epizodikus, mivel egy webinárium terjeszt anélkül, hogy napirendet állítana, és egy platform hosztol anélkül, hogy megegyezés születne a használatról. Amit az eseményeket felhalmozott infrastruktúrává alakít, az nem látványos: egy titkárság, amely tartja a ritmust, a napirendek és esetpéldák dátumozott archívuma, és a megosztott irányítás, amelyet utazási irányként, nem egy hálózat által igényelhető státuszként kezelnek.
 
 ### Metaforák és közös nyelv az oktatásfejlesztésben
 
 Az oktatók heterogén, gyakran mélyen ambivalens mentális modellekkel rendelkeznek a MI-ről, és a hatékony fejlesztésnek felszínre kell hoznia és dolgoznia kell velük. [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt és mtsai.]] kimutatják, hogy a [[engineering-education|mérnökképzés]] oktatói olyan metaforákon keresztül keretezik a MI-t, amelyek egyszerre építik és korlátozzák a megértést (a MI mint emberszerű „asszisztens”, szemben az „eszközzel” vagy „keresőmotorral”); mivel ugyanazon tanszék oktatói gyakran alapvetően eltérő fogalmi konstrukciókat tartanak, a [[generative-ai|generatív MI]]-ről alkotott közös, pontos nyelv előfeltétele a hatékony oktatói fejlesztésnek és a produktív tanszéki elfogadási beszélgetéseknek.
 
 Ezeknek a mentális modelleknek a felszínre hozására gyakorlati módszer a **metaforaelemző műhely**. [[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson és Casey (2025)]] terveztek és validáltak egy alacsony technológiai igényű, együttműködő műhelyt oktatók, munkatársak és diákok számára, hogy megfogalmazzák a generatív MI-re vonatkozó metaforáikat. A résztvevők metaforái négy kategóriába tömörültek - *Funkciók* (eszközszerű: „svájci bicska”), *Szerepek* (emberszerű: „segítő”, „barát-ellenség”), *Tulajdonságok* (megismerhetetlen: „fekete doboz”, „lejtős terep”) és *Cselekvőképesség* (fenyegető: „versenytárs”, „baljós robot”) -, felszínre hozva a tartós feszültségeket az emberi és gépi [[agency|cselekvőképesség]], valamint az ismert és a megismerhetetlen között. A műhely segített a résztvevőknek felszínre hozni feltevéseiket, szerepeken átívelően kapcsolódni, „nem egyedül” érezni magukat, és a generatív MI [[ethics|etikájára]] gondolni anélkül, hogy technikai szakértelemre lett volna szükség. Fejlesztési eszközként alacsony belépési korlátot ad a programtervezőknek, hogy felszínre hozzák egy csapat feltevéseit *azelőtt*, hogy újraterveznék az [[assessment|értékelést]] vagy bevezetnének egy politikát, és hogy szembenézzenek a félelmekkel - köztük azzal, hogy a MI helyettesíteni fogja a [[teacher-role|tanítási szerepeket]].([[fear-awe-genai-metaphor-workshops-2025]])
-
 
 Az átfogó tervezési kérdés az, hogyan válasszunk metaforát egyáltalán. [[metaphors-and-analogies]] a keresztható bizonyítékokat gyűjti össze, és [[roe-perkins-furze-metaphors-critical-ai-literacy-2025|Roe, Perkins és Furze (2025)]] négy kritériumot kínál: hozzáférhetőség, magyarázó erő, a kritikai MI-írástudatosság lehetősége és pedagógiai hasznosság.
 
@@ -81,26 +87,31 @@ Az oktatói fejlesztőket, a tudományos vezetőket és a MI-re vonatkozó szakm
 
 **Kezelje a négy elfogadási mozgatórugót, ne csak a tudást.** Az önbizalom, az attitűdök, a támogatás és az aggodalmak jelzik előre, hogy az oktatók valóban átveszik-e a MI-t - egy csak tudásra építő műhely, amely ezeket figyelmen kívül hagyja, valószínűleg nem változtat a gyakorlaton. Tervezze a fejlesztést úgy, hogy gyakorlati használaton keresztül építse az önbizalmat, folyamatos támogatást nyújtson (nem egyszeri képzést), és aktívan hozza felszínre és kezelje az oktatók aggodalmait.([[teacher-ai-adoption-confidence]])
 
-
 Az önbizalom és az írástudatosság nem felcserélhető célok: egy 502 válaszadós egyetemi oktatói SEM-modellben a MI-írástudatosság volt a [[well-being|MI-jóllét]] domináns előrejelzője (β = 0,713), míg a [[self-efficacy|technológiai önhatékonyság]] keveset tett hozzá (β = 0,082), és a támogatás csak közvetetten érte el a jóllétet ([[faculty-ai-well-being-social-supports-2026|Liu és mtsai. (2026)]]).
-
 
 **Kezelje az irányelv iránti igényt és az irányelvek megfelelőségét külön problémaként.** Egy egyetem oktatói erősen támogatták az etikátlan MI-használat elleni intézményi intézkedéseket (M = 4,59), miközben a meglévő irányelveket értékelték a legalacsonyabbra (M = 2,99), és az [[privacy|adatvédelmet]] és a kulturális inkluzivitást nevezték meg leggyengébb tudásterületükként - ez konkrét célpont a szakmai fejlesztés számára ([[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgic és Sever, 2026]]).
 
 **Kezelje a készenlétet szociotechnikai összehangolási problémaként.** Az [[sangwa-epiq-ai-faculty-readiness-2026|EPIQ-AI keretrendszer]] megmutatja, hogy az oktatói készenlét episztemikus, pedagógiai, intézményi, valamint minőségügyi és megfelelési területekre terjed ki. Azok a programok, amelyek csak az egyént képzik, kihagyják azokat az intézményi eszközöket (politika, munkaterhelés, ösztönzők, minőségi standardok), amelyek lehetővé teszik vagy blokkolják a változást - ezeket a képzéssel párhuzamosan kell összehangolni.([[sangwa-epiq-ai-faculty-readiness-2026]])
 
 **Ne azonosítsa az infrastruktúra-befektetést az átalakulással.** 125 tanulmány alapján az intézményi befektetés a generatív MI infrastruktúrájába és az oktatásfejlesztésbe csak gyengén korrelált a tényleges pedagógiai változással (r = 0,12), miközben az oktatók 60-70%-a felkészületlennek érezte magát a generatív MI integrálására -, ez a fejlesztést, nem a beszerzést teszi a szűk keresztmetszetté.([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]])
+
 **Nevezze meg a kudarcmódot, ne csak a hatásméretet.** [[fajardo-ramos-teacher-education-ai-agenda-2026|Fajardo-Ramos, Chiappe és Martínez-Pérez (2026)]] szimulált innovációnak nevezi: az eszköz jelenléte előrelépést jelez, a tanítási és értékelési formák érintetlenek maradnak, az átvételi arányok és a [[visualization|műszerfalak]] helyettesítik a tanulást, és a technológia kiadási ciklusa szabja meg az irányt. Diagnosztikájuk arra kéri a fejlesztési programot, hogy minden eszközt egy megnevezett tanulási probléma alapján igazoljon az átvétel előtt.
+
+Az ítélőképességet jobb feltételként, mint kompetenciaelemként kezelni. [[ji-judgement-space-dialogic-inquiry-2027|Ji és Mercer (2026)]] az ítélőképesség terét mint azt a kapcsolati, normatív és feltételes interakciót írják le, amelyen keresztül a szakmai ítélőképesség megfogalmazódik és vizsgálat alá kerül, és MI-támogatott környezetben ez a tér háromoldalúvá válik, mert generált értékelések lépnek bele. Háromoszlopos auditjuk azt kérdezi, mit tesz a tanár, mit tesznek a diákok, és hogyan pozicionálódik az MI — kollégiális műszer annak megállapítására, hol csúszott át észrevétlenül az ítélőképesség egy eszközbe.
 
 **Haladjon a tanterv újratervezése felé, ne az eszközök átvétele felé.** A cél az, hogy az oktatók újratervezzék a kurzusokat és az értékelést, ne csak MI-eszközöket adjanak hozzá. A szakmai fejlesztést a kurzusszintű újratervezési munkába és az értékelési reformba kell alapozni, és strukturált keretrendszereket kell adni az oktatóknak ehhez (például [[ai-assessment-scale-reform|értékelési skálák]], [[institutional-change-framework-ai|intézményi változás keretrendszerei]]).([[institutional-change-framework-ai]])([[ai-assessment-scale-reform]])
 
 **Hívja össze a falut, ne az egyént.** Tizenkét oktató és 17 diák megkérdezése alapján a generatív MI korszakában az értékelés újratervezése meghaladta bármely egyetlen oktató képességét - rugalmatlan folyamatokat, hosszú átfutási időket és munkaterhelés-terhet neveztek meg -, így a szerzők programszintű csapatot javasolnak, amely értékeléstervezési, generatív MI, szaktárgyi, program- és iparági szakértelmet egyesít ([[nicola-richmond-programwide-assessment-genai-2025|Nicola-Richmond és mtsai., 2025]]).
+
+A fejlesztés egysége kisebb lehet a tanszéknél és nagyobb a személynél. [[chen-future-faculty-development-ai-2027|Chen és mtsai. (2026)]] hét tanári szerepet vázolnak fel, de ragaszkodnak ahhoz, hogy ezeknek nem kell egy akadémikusban ülniük: az emberközpontú nevelő és a tudományági szakértő egyetemes alap, míg a tanulási architektúra, az értékelés újratervezése, a technikai kompetencia, az etikai gondnokság és a fegyelmezett kísérletezés szétosztható egy tanítócsapaton. Feltételük, hogy mindenki megtartja az alapvető technikai és etikai képességet, így a megosztott szakértelem nem válik megosztott tudatlansággá.
 
 **A sorozatot a terem saját adatain futtassa, ne importált legjobb gyakorlaton.** [[physics-faculty-learning-community-ai-2026|Perl-Nussbaum és Finkelstein (2026)]] egy kidolgozott modellt dokumentálnak egy nagy állami R1 fizikai tanszékről: hat kéthetenkénti, 60-75 perces ülés, tizenkilenc oktató részvételével a sorozat során és mintegy tízzel bármely ülésen, amelyekben minden ülés helyi adatokkal vagy tanszéki forrású anyagokkal nyitott, áttért a MI kis csoportos tesztelésére valódi, anonimizált diákházi feladatokon, és kollektív beszélgetéssel zárult. Amit az oktatók a tesztelés során találtak, hasznosabb volt, mint bármely csomag, amelyet a facilitátorok importálhattak volna - a MI minden kipróbált feladatot megoldott, de a visszajelzése a valódi diákmunkáról egyenetlen, promptfüggő és felszínes volt, hacsak nem adtak neki kifejezett célokat és rubrikákat, és a diákok felszínesen promptoltak és felületesen módosították a kimenetet, hacsak nem modellezték a produktív használatot. Az első konkrét termék egy öt bejegyzésből álló, élő tárház volt - tantárgyi politikai nyilatkozatok, tantermi beszélgetési anyagok, a diákfelmérés, MI-vel integrált házi feladatok és értékelési struktúrák -, ezért a szerzők magát az ülésstruktúrát tekintik az érvnek, nem bármely tartalmat, amelyet átadott.
 
 **Horgonyozzon egy kompetenciakeretben.** A fejlesztésnek **pedagógiai [[prompt-engineering|promptírástudást]]** is építenie kell - a pedagógiai szándékok promptokba kódolásának képességét -, mivel [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] szerint a pedagógiai szakértelem, nem a MI-gördülékenység határozza meg a tanárok MI-támogatott tervezőmunkájának minőségét.([[crewscaler-ai-upskilling-framework]])([[ai-tpack-preservice-math-teachers]])([[talebzadeh-ai-group-activity-roles-2026]])
 
 **Sorolja a megértést az automatizálás elé.** Egy [[qualitative-research|kritikai diskurzuselemzés]] 14 szürke irodalmi anyagról, amelyeket 2022 novembere és 2025 áprilisa között jelentettek meg a gyakorlati szakembereknek a generatív MI és a konstruktív összehangolás témájában, azt találja, hogy a képességnek meg kell előznie az eszközhozzáférést: mivel egy [[constructivist|konstruktivista]] keretben az elköteleződés minősége megelőzi a megértés minőségét, a kockázat fordítottan arányos az ismeretséggel, és a kezdők a legkitettebbek a hihetően kinéző, de pedagógiailag vékony kimenetek valószerűségvezérelt elfogadásának. [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes és mtsai. (2026)]] továbbá amellett érvelnek, hogy a fejlesztési egységeknek ellen kell állniuk egy technicista megbízásnak - hogy segítsenek az oktatóknak „gördülékenységet szerezni” olyan eszközökben, amelyek a [[learning-design|kurzustervezés]] „nehéz munkáját” végzik -, mert ez a keretezés kizárja a fejlesztőket egy zárt oktató-generatív MI hurokból, és az értékvezérelt, kapcsolati fejlesztést a szoftverátvétel közvetítő mechanizmusává alakítja. A védhető alternatíva a fejlesztőket bármely intézményileg határolt, [[rag|retrieval-augmented]] összehangolási asszisztens kurátoraiként és szabályalkotóiként tartja meg, amely feltáró kérdéseket tesz fel, jelzi az alul- és túlértékelést, és alternatívákat generál, de soha nem kész termékeket, ahol az akkreditációval és programközi ügyekkel kapcsolatos [[human-in-the-loop-ai|emberi ítélethez]] való eszkaláció jellemző, nem kivétel.
+
+A fejlesztés egy változatlan mag és egy mozgó él köré is szervezhető. [[ho-invariant-core-faculty-development-2027|Ho (2026)]] a tanulás neuropszichológiai mechanizmusát minden technológia elé helyezi, amellett érvel, hogy a GenAI összeomlasztja a termék és a gondolkodás közötti távolságot, és olyan tudóstanári útvonalat vezet le, amelyben az oktatók bizonyítékok, reflexió és szakmai bírálat mellett a saját tanításukat vizsgálják. Priorizálása ezt követi: mélyítsük el, hogyan működik a tanulás, aztán engedjük a tanárokat kis eszközöket alkotni, és kezeljük a technológiai élt úgy, mint ami várhatóan mozogni fog.
 
 **Hozza felszínre és kezelje a félelmeket és a mentális modelleket.** A tanítás újratervezése előtt használjon metaforaelemző műhelyt ([[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson és Casey 2025]]), hogy felszínre hozza egy csapat generatív MI-vel kapcsolatos feltevéseit és szorongásait - köztük az azzal kapcsolatos félelmet, hogy helyettesíteni fogja a tanítási szerepeket -, és olyan fejlesztést építsen, amely ezekre válaszol, nem pedig figyelmen kívül hagyja őket.([[fear-awe-genai-metaphor-workshops-2025]])
 
@@ -112,12 +123,24 @@ Az önbizalom és az írástudatosság nem felcserélhető célok: egy 502 vála
 
 **A részvételt mérje, ne az elköteleződés érzését.** Egy hat hónapos, 64 egyetemi tanárral folytatott Intelligent-TPACK programban a részvételi arány jelezte előre a MI-kompetencia nyereségét (β = ,407, p = ,001), míg az önészlelt részvétel nem (β = ,049, p = ,692), amit a szerzők konkrét viselkedéses befektetésként olvasnak a felszíni elköteleződéssel szemben ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng és Ling, 2025]]). A program online előadásokat párosított három személyes műhellyel, majd megkövetelte a tanároktól, hogy dolgozzák át oktatási terveiket és valósítsák meg azokat a következő félévben, és a szerzők azt javasolják, hogy a részvételt értékelési szempontként kössék össze érdemi ösztönzőkkel.
 
+A részvétel és a tartalom ellentétes irányba mozdulhat, és ennek oka szerkezeti, nem motivációs. [[jiang-faculty-development-japan-2027|Jiang, Wang és Taguchi (2026)]] a japán részvétel 32,7%-ra emelkedését követik 2023-ban, miközben az aktív tanulási műhelyek, a kollégák hospitálása és a szakmai bírálat szinten maradt vagy csökkent, és a korlátot abban azonosítják, hogy nincs folyamatos szakmai szerep az akadémiai fejlesztésben. A rotáció, a párhuzamos feladatok és a határozott idejű szerződések megtörik azt a folytonosságot, amelyre a kollégiális formák épülnek, így a jelentendő mutató a formátumok összetétele a létszám mellett.
+
 **Viszonyítson ahhoz, amit az oktatók maguk jelentenek.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson és Rainie (2026)]] 1 057 amerikai oktatót felmérő vizsgálata az intézményi réteget olyan módon találja vékonynak, amelyet a programtervezők közvetlenül mérhetnek: 59% ítélte iskoláját felkészületlennek a generatív MI hatékony használatára a diákok jövőre való felkészítésében, és 68% mondta, hogy az nem készítette fel az oktatókat annak tanításban és mentorálásban való használatára, míg a strukturális válasz az intézmények 55%-ában munkacsoportra futott ki, de csak 13%-ban egy MI-írástudási általános képzési kimenetre. Az oktatók nem vártak a politikára - 87% saját, feladatszintű szabályokat írt, szemben a 48%-kal, akik intézményire tudtak mutatni -, és a kollégák ellenállását (82%) és járatlanságát (83%) nevezték meg a tanszéki átvétel akadályaként, nem a kötelezettséget. Fejlesztési programok számára ez amellett érvel, hogy a társnormákat, a közös feladatszintű politikai nyelvet és az intézményi készenlét kifejezett méréseit a beavatkozás részének tekintsük, ne hagyjuk a politikai dokumentumra.
 
 **Az oktatói válasz hatalmi központokat tükröz, nem attitűdöt.** Egy 33 írástanárral folytatott instrumentális esettanulmányban négy policentrikus hatalmi központ - a globális generatív MI-trend, az egyetem és a tanszék, a kollégák és a diákok - alakította a gyakorlatot, és a korlátozott diskurzushatalommal rendelkező óraadók a detektálástól az elfogadható használat tanítása felé mozdultak el ([[zuo-instructor-power-genai-writing-2026|Zuo és mtsai. (2026)]]).
 
 - **Hat szakmai fejlesztési család, három jól alátámasztva, és egyértelmű győztes.** A MI-támogatott oktatástervezésről szóló 78 tanulmány áttekintése a dokumentált szakmai fejlesztést kompakt beágyazott modulokra (2-4 hét), féléves mikro-tanulásra, feladatalapú tervezési ciklusokra, együttműködő párbeszédalapú kérdésláncokra, kritikai közös felfedezésre és [[self-directed-learning|önálló gyakorló tanulásra]] osztja. Az eredménybizonyíték a **kompakt beágyazott modulok** esetében a legerősebb: egy háromhetes modul statisztikailag szignifikáns nyereséget hozott mind a hat Intelligent-TPACK területen, közepes és nagy hatásméretekkel, és egy négyhetes program **436 tanárképzős hallgatóval és kontrollfeltétellel** a korpusz legerősebb kontrollált értékelése ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou és Kameas, 2026]]).
 - **Három tervezési jellemző különíti el a legjobban alátámasztott beavatkozásokat.** Az etika **[[retrieval-spacing-interleaving|elosztott gyakorlatként]], minden feladatnál ellenőrzési pontokkal** való beágyazása az önálló foglalkozás helyett; **teljesítményalapú kompetenciaértékelés** óravázlatokkal, döntési naplókkal és mikro-tanítással, amelyet közvetlenül az önbevallás megbízhatatlansága motivál; és a prompttervezés reflektív, pedagógiailag megalapozott gyakorlatként való fejlesztése. Az átvétel nem ugyanaz a kar, mint a teljesítmény: Észak-Szumátra 200 tanára körében a MI-használatnak nem volt közvetlen hatása a tanári teljesítményre (β = 0,112, p = ,087), miközben a szervezeti állampolgári magatartás közvetítette azt, így az együttműködő, szerepen túli használatra irányuló oktatói fejlesztés az a változat, amelyet a bizonyítékok támogatnak ([[ai-use-teacher-performance-north-sumatra-2026|Sherly és mtsai. (2027)]]). Egy kísérő két hetes vizsgálat gyors nyereséget talált a tudásban és az önbizalomban, miközben a torzításfelismerést a leggyengébb kialakuló kompetenciaként azonosította - ez a hiány fennmaradt a hosszabb modulban is, összhangban azzal, hogy az etikai észlelési képesség lassabban fejlődik, mint a technológiai ismeretség.
+
+**A lépték dokumentált; az osztálytermi változás nem.** [[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay és munkatársai]] 105 kémiatanárt követtek végig egy hathetes programon, [[ma-ai-corpus-language-teaching-coi-2026|Ma és munkatársai]] pedig egy 20 hetes online programot futtattak 28 országból több mint 150 nyelvtanárral. [[white-scandinavian-teachers-genai-attitudes-2026|White és munkatársai]] 0,20 SD-nyi nyereséget mértek az észlelt előnyökben 2 159 skandináv tanár körében, akik GenAI-szakmai fejlődést kaptak. Mindegyik tanulmány azt mutatja, hogy a fejlesztés mozgatja, amiről a nevelők beszámolnak; egyik sem követi őket be egy osztályterembe, hogy mérje, mit tettek másképp a diákok.
+
+**Amit a nevelők kérnek, inkább inasidőre, mint képzésre hasonlít.** A tankerületi vizsgálatban 22 tanár olyan fejlesztést kért, amelyet korábbi tanárok tartanak, akik értik az osztálytermi korlátokat, egy egyoldalas útmutatót arról, mikor segítenek az eszközök, és a tervezési időt bármelyik használatára ([[dangol-relief-or-displacement-teachers-generative-ai-2026|Dangol és mtsai.]]). Az intézmények eközben kapacitást építeni választanak ahelyett, hogy vásárolnának: azok körében, akiknek stratégiája tartalmaz munkaerő-készségeket, 69% képezi tovább a meglévő munkatársakat és oktatókat ([[robert-educause-impact-ai-work-higher-education-2026|EDUCAUSE, 2026]]).
+
+**A fejlesztés hiánya látható eredményű szakpolitikai döntés.** [[rameskumar-shadow-ai-legitimized-higher-education-2027|Rameskumar és munkatársai]] 20 nevelőt interjúvoltak meg, akik saját szabályokat építettek, mert nem érkezett útmutatás, [[bodek-prompted-to-explore-microlearning-2026|Bodek]] pedig egy mikro-tanulási modellt ír le, amelyet arra építettek, hogy illeszkedjen az oktatók tényleges idejéhez. Azok a programok, amelyek a fejlesztést az intézményi támogatás egy ismétlődő rétegeként, nem egyszeri eseményként kezelik, kimutatják a különbséget ([[aalhe-capacity-disposition-genai-assessment-2026|AALHE]]).
+
+**A környezet a fejlesztés formáját változtatja meg, nem a szükségletét.** Az orvosképzésben egy MI-rezidensprogram a tanári fejlesztést és a közös tanulást mechanizmusként kezeli, nem kiegészítésként ([[bursic-ai-residency-education-curriculum-2026|Bursic és mtsai.]]). A 86 kisgyermekkori forrás áttekintése a nevelői fejlesztést a négy témája egyikeként azonosítja ([[early-childhood-ai-holistic-competencies-review-2026|az áttekintés]]). A CTE megújítása akkor nyúl a tanári fejlesztéshez, amikor a tantervi változás felszínre hoz egy képességhiányt ([[wang-legacy-curriculum-ai-cte-renewal-2026|Wang]]). És 146 tanár körében a szakmai fejlődésben való részvétel közvetítette a motiváció és a tervezett GenAI-használat kapcsolatát ([[yuan-teacher-need-satisfaction-genai-2026|Yuan és mtsai.]]).
+
+A kohorszmodell kidolgozott példája egy egyetemi könyvtárból érkezik. [[jordan-faculty-ai-oer-creation-2025|Jordan és mtsai. (2025)]] hét oktatónak fizettek ösztöndíjat egy nyolchetes programért, amely négy hét oktatást, önálló projektfejlesztést és társvisszajelzést kombinált, Knowles felnőttanulási elveire és a CLEAR promptkeretrendszerre építve. A nyereség szerény volt az MI-ismerősségben és nagyobb az OER-ismerősségben, és a szerzők az ösztöndíjat és azt a szakszervezeti megállapodást, amely lehetővé tette az óraadók fizetését, a beavatkozás részének tekintik, nem adminisztrációnak.
 
 ## Gyakori tévhitek
 
@@ -134,7 +157,6 @@ Az önbizalom és az írástudatosság nem felcserélhető célok: egy 502 vála
 - [[teacher-ai-competency]]
 - [[teacher-role]]
 - [[ai-literacy]]
-
 - [[metaphors-and-analogies]] — Metaforák felszínre hozása és analógiatervezés az oktatói fejlesztésben
 - [[educational-policy-ai]]
 - [[higher-ed]]
@@ -148,13 +170,14 @@ Az önbizalom és az írástudatosság nem felcserélhető célok: egy 502 vála
 - [[stakeholders]] - Gyűjtőfogalom: emberek és közönségek a MI-oktatásban (tanulók, tanárok, tervezők, adminisztrátorok, döntéshozók)
 
 ## Kapcsolódó cikkek
+
+- [[jordan-faculty-ai-oer-creation-2025]] — Hét oktató nyolchetes ösztöndíjas programja: szerény MI-ismerősség, nagyobb OER-ismerősség (Jordan és mtsai., 2025)
 - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — A generatív MI összehangolási tanácsainak kritikai diskurzuselemzése: a fejlesztők technológiaképzőkként újraértelmezve
 - [[crompton-faculty-technology-integration-standards-2026]] — Oktatói standardok a technológiaintegrációhoz (DBR)
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — A MI etikai dimenziói: oktatói és diáknézetek
 - [[nicola-richmond-programwide-assessment-genai-2025]]
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — Hogyan építik (és korlátozzák) a mérnökkari metaforák a MI megértését
 - [[fear-awe-genai-metaphor-workshops-2025]] — Félelem és áhítat: a generatív MI értelmezése metaforákon keresztül (oktatói, munkatársi és diákmetafora-műhely)
-
 - [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Négy kritérium és négy metafora a kritikai MI-írástudatosság tanításához
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — A láthatatlan irányítása: MI-írástudatosság a nyelvtanárok körében
 - [[sangwa-epiq-ai-faculty-readiness-2026]]
@@ -180,8 +203,23 @@ Az önbizalom és az írástudatosság nem felcserélhető célok: egy 502 vála
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon felmérés 1 057 amerikai oktató körében: intézményi felkészületlenség, vékony irányítás és a 87%/48%-os politikai szakadék (Watson és Rainie 2026)
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Tudományos fejlesztők mint digitális közvetítők a globális dél felsőoktatásában: a fejlesztés mint szociotechnikai praxis
 - [[physics-faculty-learning-community-ai-2026]] — Műhelysorozat a MI hatékony használatáért bizonytalan időkben: fizikaoktatói tanulóközösség építése
-
 - [[faculty-ai-well-being-social-supports-2026]] — Az oktatók MI-jólléte a MI-írástudatosságot követi, nem a technológiai önhatékonyságot
 - [[ai-competence-framework-landscape-2026]] — Ellenőrizze, mit írnak le egy keretrendszer szintjei, mielőtt átveszi
-
 - [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Meghatározhatja-e az oktatás a MI napirendjét? Szimulált innováció és pedagógiai irányszabás a tanárképzésben
+- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 kémiatanár egy hathetes programban
+- [[ma-ai-corpus-language-teaching-coi-2026]] — több mint 150 nyelvtanár 28 országból, 20 hét alatt
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2 159 skandináv tanár; 0,20 SD nyereség az észlelt előnyökben
+- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 tanár egy GenAI-tanulási program után, a szükségletek közvetítik az elköteleződést
+- [[bodek-prompted-to-explore-microlearning-2026]] — mikro-tanulási tanári fejlesztési modell a generatív MI-hez
+- [[bursic-ai-residency-education-curriculum-2026]] — MI-rezidensprogram az orvosképzésben
+- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 forrás; a nevelői fejlesztés a négy téma egyike
+- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 tanár, akik korábbi tanárok által vezetett fejlesztést kérnek
+- [[robert-educause-impact-ai-work-higher-education-2026]] — 69% a meglévő munkatársakat és oktatókat képzi tovább
+- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 nevelő legitimálja az árnyék-MI-t, ahol hiányzott az útmutatás
+- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — képességhiányok, amelyek tanári fejlesztést és felvételi döntéseket hajtanak
+- [[aalhe-capacity-disposition-genai-assessment-2026]] — az ismétlődő fejlesztés mint az öt támogatási réteg egyike
+- [[chen-future-faculty-development-ai-2027]] — Hét tanári szerep, két egyetemes alap, és a tanítócsapat mint a fejlesztés egysége
+- [[ji-judgement-space-dialogic-inquiry-2027]] — Az ítélőképesség tere, dialogikus vizsgálódás és háromoszlopos audit arról, hová csúszott az ítélőképesség egy eszközbe
+- [[jiang-faculty-development-japan-2027]] — Japán kettős pályás tanári fejlesztése: a részvétel nőtt, a kollégiális formák nem
+- [[tian-transnational-faculty-development-governance-2027]] — Határokon átnyúló tanári fejlesztés: a kapcsolódás epizodikus, a koordináció a munka
+- [[ho-invariant-core-faculty-development-2027]] — Változatlan mag, változó él: a tanulási mechanizmus a technológia előtt

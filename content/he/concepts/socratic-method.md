@@ -1,5 +1,5 @@
 ---
-connected_resources: [matt-pocock-skills]
+connected_resources: [matt-pocock-skills, context-aideatext]
 title: השיטה הסוקרטית
 created: "2026-10-12T19:18:00-04:00"
 type: concept

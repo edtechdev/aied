@@ -1,7 +1,7 @@
 ---
 title: "Misvattingen over AI"
 created: "2026-11-12T04:06:21-05:00"
-updated: "2026-11-12T04:06:21-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,13 +11,17 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -38,11 +42,11 @@ ai_assist:
 
 Misvattingen over AI doen ertoe omdat ze de cognitieve voorloper zijn van de schadelijke gedragingen die de kennisbasis documenteert onder [[cognitive-offloading|Overmatige afhankelijkheid]] en zorgen over [[academic-integrity|academische integriteit]]. Mensen zijn zelden van plan AI te [[ai-misuse-learning-harm|misbruiken]]; ze doen het omdat onnauwkeurige mentale modellen hen ertoe brengen vertrouwen verkeerd te plaatsen, verificatie over te slaan en output als begrip te behandelen. In het onderwijs bepalen deze fouten alles van hoe studenten studeren tot hoe docenten en instellingen curricula, [[assessment|toetsing]] en beleid ontwerpen.
 
-### Wat AI-misvattingen zijn
+## Wat AI-misvattingen zijn
 
 Een misvatting is hier niet louter onwetendheid over hoe een model werkt — het is een actief aangehouden, vaak zelfversterkende overtuiging die systematische fouten veroorzaakt in de manier waarop studenten met AI omgaan. Ze zijn direct vergelijkbaar met de domeinmisvattingen die in de [[learning-sciences|leerwetenschap]] worden bestudeerd: stabiel, plausibel en bestand tegen correctie tot ze direct worden geconfronteerd. Het corrigeren ervan is een kerndoel van [[ai-literacy]]- en [[trust-calibration]]-onderwijs.
 
-### Veelvoorkomende misvattingen in academische contexten
+## Veelvoorkomende misvattingen in academische contexten
 
 - **De autoriteitsdrogreden** — [[llm]]-output behandelen als een geverifieerd feit in plaats van een probabilistische aanvulling. Dit drijft kritiekloze acceptatie en het patroon waarbij antwoorden zoeken boven begrip gaat, zoals gedocumenteerd in onderzoek naar [[intelligent-tutoring|AI-tutoring]], waar lerenden het antwoord van een model accepteren zonder het tegen [[hallucination-risk|hallucinatierisico]] te toetsen.
 - **De illusie van de onafhankelijke controle** — [[ai-feedback-quality|AI-feedback]] behandelen als een correctie van buitenaf, terwijl het model je eigen redenering weerspiegelt. De basisnauwkeurigheid van gebruikers was de sterkste voorspeller van de uiteindelijke prestatie, en [[ai-sycophancy|sycophancy]]-specifieke prompting verminderde positionele nabootsing (OR = 0,26) maar liet foutpropagatie ongemoeid, dus training van de lerende is niet de waarborg ([[contextual-sycophancy-ai-literacy|Koyuturk et al. (2026)]]).
@@ -57,17 +61,17 @@ Een misvatting is hier niet louter onwetendheid over hoe een model werkt — het
 
 De grijze zone van integriteit heeft een structuur, niet alleen twee uitersten. Interviews met 20 studenten, samen met hun chatlogs en cursusdocumenten, vonden vijf afzonderlijke plaatsen waar AI-beleid leeft, van de intentie van docenten via formeel beleid en het eigen beleid van studenten tot de feitelijke praktijk, plus 23 verschillende rationalisaties in zes klassen ([[student-rationalization-ai-writing|Kim et al., 2026]]). De rationalisaties waren ad hoc en post hoc, samengesteld om gebruik te verklaren dat al had plaatsgevonden in plaats van het te sturen. Een strikt verbod voorkwam gebruik niet zozeer, maar versterkte het morele conflict bij studenten die wilden voldoen, wat het correctiedoel bij het beleid legt in plaats van bij de formulering van de regel.
 
-### Institutionele en publieke AI-mythes
+## Institutionele en publieke AI-mythes
 
 Misvattingen blijven niet beperkt tot studenten — ze doordringen het institutionele en publieke AI-discours dat studenten erven. [[rudolph-ai-myths-critical-higher-ed|Rudolph et al. (2025)]] ontmantelen acht ingesleten "mythes" die het hogeronderwijsbeleid en -onderwijs vormgeven: dat AI werkelijk "kunstmatig" is (in plaats van gebouwd op uitgebuit mensenwerk), dat ze werkelijk "intelligent" en [[agentic-ai|agentisch]] is, dat ze probleemloos "de wereld een betere plek maakt", dat ze "objectief en onbevooroordeeld" is, dat de VS een monopolie als enige supermacht heeft, dat ze de arbeidsmarkt niet zal verstoren, dat ze het [[higher-ed|hoger onderwijs]] "revolutioneert", en dat docenten AI-gegenereerd werk betrouwbaar kunnen detecteren. Deze institutionele mythes zijn de stroomopwaartse bron van veel hierboven gedocumenteerde studentenmisvattingen — het meest direct de [[trust|neutraliteitsillusie]] ("AI is objectief") en de [[trust-calibration|autoriteitsdrogreden]] ("AI is intelligent"), en de verkeerde kalibratie van detectie die studenten ertoe brengt aan te nemen dat ondetecteerbaar, niet-verifieerbaar gebruik veilig is. Waar studenten institutioneel herhaalde mythes opnemen en ernaar handelen, vereist correctie niet alleen confrontatie met de overtuiging van de lerende maar ook met het discours dat die voedt.
 
-### Waarom misvattingen ertoe doen voor leren
+## Waarom misvattingen ertoe doen voor leren
 
 Misvattingen vertalen zich direct in de gedragingen die leerschade veroorzaken. De overtuiging dat "AI altijd gelijk heeft" onderdrukt verificatie; de overtuiging dat "AI gebruiken leren is" onderdrukt inspannende verwerking; de overtuiging dat "het geen fraude is" omzeilt de metacognitieve herziening die begrip consolideert. In die zin staan misvattingen stroomopwaarts van de [[ai-misuse-learning-harm|leerschade]] die in de kennisbasis wordt gedocumenteerd.
 
 De overtuiging dat AI gebruiken leren is, bestaat niet alleen vóór gebruik; de tool kan haar produceren. [[llm-fallacy-misattribution|Kim et al.]] beschrijven een LLM-drogreden waarbij ondoorzichtige, vloeiende, onmiddellijke output wordt gelezen als bewijs van de eigen competentie van de gebruiker, zodat waargenomen en werkelijke bekwaamheid uiteenlopen met een marge die zij ΔC noemen. Omdat het mechanisme vloeiendheid en attributie-ambiguïteit is en niet fouten, blijft de drogreden bestaan of het model nu accuraat is of hallucineert, wat betekent dat een correct AI-ondersteund antwoord geen bewijs is dat de overtuiging is gecorrigeerd.
 
-### Misvattingen voorbij studenten: docenten, instellingen en het publiek
+## Misvattingen voorbij studenten: docenten, instellingen en het publiek
 
 AI-misvattingen blijven niet beperkt tot lerenden — ze zijn alomtegenwoordig bij de volwassenen die het onderwijs vormgeven:
 
@@ -79,7 +83,7 @@ Die breedte is waarom de kennisbasis misvattingen behandelt als een doorsnijdend
 
 Pedagogische misvattingen van docenten zijn hiervan het spiegelbeeld: geen misverstanden over AI, maar niet door bewijs ondersteunde overtuigingen over lesgeven die voortbestaan ongeacht AI. [[etq-ai-conversational-teacher-training-2026|Miranda en Calvani (2026)]] meten dit met de Effective Teaching Questionnaire, waarin 50 binaire items zijn gekoppeld aan [[meta-analysis-systematic-review|meta-analytische]] effectgroottes (d ≥ 0,40), zodat het antwoord van een docent kan worden vergeleken met een evidence-based benchmark — en hun bevinding is dat de misvattingen diep en specifiek zijn. Een pilot met 123 onderwijzers in Italië vond de scherpste onenigheid bij de claim over leerstijlen (78% van de docenten verdedigde visueel/auditief matchen), daarna bij inclusie en [[group-work|groepswerk]] (68%) en EdTech-overload (54%); de gemiddelde aansluiting lag rond 50% op de dimensies planning, cognitie, evaluatie en management. Twee details zijn van belang voor het ontwerpen van correcties. Ten eerste overleven de misvattingen de universitaire opleiding en de onderwijspraktijk — de auteurs beschrijven een "geïnternaliseerd gezond verstand" dat "voorafgaat aan de intrede in de school" en blijft bestaan — dus het zijn geen kennislacunes die een hoorcollege dicht. Ten tweede, toen een conversationele AI dezelfde items pas opnieuw introduceerde nadat de eigen context van de docent was gevalideerd, verwees 41% van de bezwaren naar echte contextuele beperkingen — klassengrootte, studenten met [[special-education|speciale behoeften]], [[curriculum-design|curriculum]]dekking — in plaats van naar het bewijs zelf. Nog eens 5,9% noemde het systeem "een algoritmische dogmamachine": de grensconditie waarin normatieve framing verdediging kweekt in plaats van reflectie. Voor de ontwikkeling van [[teacher-ai-competency]] betekent dit dat diagnostiek plus dialoog kan blootleggen welke overtuigingen evidence-based meningsverschil zijn en welke misvatting — een onderscheid dat een score alleen niet kan maken.
 
-### Misvattingen corrigeren
+## Misvattingen corrigeren
 
 Correctie is geen eenmalige onthulling maar een doorlopend [[ai-literacy]]-proces dat [[metacognition|metacognitie]] en [[self-regulated-learning|zelfregulerend leren]] ontwikkelt: studenten (en de volwassenen om hen heen) helpen hun afhankelijkheid te monitoren, te kalibreren wanneer ze een model moeten vertrouwen en wanneer ze het moeten bevragen, en de kosten te zien van het omzeilen van hun eigen [[cognitive-offloading|cognitieve werk]]. Omdat misvattingen weerbarstig zijn, kunnen ze het best worden aangepakt door directe confrontatie met bewijs — inclusief de bevinding dat studenten de leerschade van AI-misbruik vaak *niet waarnemen*.
 
@@ -95,7 +99,7 @@ Bernstein en Sibia (2026) laten zien dat door [[generative-ai|GenAI]] gegenereer
 
 **Door modellen gegenereerde misvattingen zijn een meetbare capaciteit, geen ongeluk.** [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] bouwden SocraticTrap-CS, dat zeven open-weight modellen opdroeg een "[[socratic-method|Socratische]] val" te schrijven voor 35 kernconcepten uit de informatica — een uitleg die vloeiend en gezaghebbend is maar op een subtiele, domeinspecifieke fout berust. Van 241 gepromptde segmenten werden 221 (91,7%) door meerderheidsstemming van experts bevestigd als strategische misvattingen (Fleiss' κ = 0,9487), zonder significante verschillen tussen informatica-domeinen; 66,5% van de bevestigde fouten was conceptueel in plaats van feitelijk en geen enkele was puur logisch. Vloeiendheid is het mechanisme, niet de verdediging: overtuigingskracht gemiddeld 3,71 op een vijfpuntschaal en sterk modelafhankelijk, en frequentie en ernst vielen uiteen, waarbij de twee modellen die het vaakst vallen produceerden, ook het overtuigendst werden beoordeeld. Omdat een slecht geformuleerde vraag van een student zelf als adversarial prompt kan werken, behandelen de auteurs het percentage als een capaciteit onder adversarial prompting in plaats van als een basisratio voor gewone studiesessies — en stellen ze dat de [[ai-literacy]]-taak verschuift van factchecking van individuele uitspraken naar conceptuele verificatie en validatie van mentale modellen. Dit is de donkerdere kant van het generatieve gebruik hierboven: dezelfde capaciteit die productieve peerdiscussie kan zaaien, kan ook een fout verankeren die een lerende al aan het vormen was.
 
-### Weerleggende correcties voor veelvoorkomende AI-misvattingen
+## Weerleggende correcties voor veelvoorkomende AI-misvattingen
 
 Omdat misvattingen actief worden aangehouden en weerbarstig zijn, is de meest directe manier om ze aan te pakken — ook op deze pagina — de structuur van de [[refutation-text|weerleggingstekst]]: **benoem de misvatting, weerleg haar expliciet en formuleer de juiste opvatting.** De onderstaande items passen die structuur toe op de meest ingrijpende misvattingen over AI en over leren, lesgeven en onderwijs:
 
@@ -123,7 +127,7 @@ Deze weerleggingen zijn bewust in de vorm van een [[refutation-text|weerleggings
 - **"Bezwaren van docenten tegen bewijs zijn allemaal weerstand."** Toen dezelfde items werden aangeboden via een conversationele AI die **de context van de docent valideerde voordat het bewijs opnieuw werd geïntroduceerd**, betrof **41% van de bezwaren echte contextuele beperkingen** — klassengrootte, speciale behoeften, curriculumseisen. Een substantieel deel van de schijnbare misvatting was een accurate tegenwerping.
 - **"Misvattingen zijn betrouwbaar uit dialoog te detecteren."** **Van 241 gepromptde segmenten werden 221 (91,7%) door meerderheidsstemming van experts bevestigd als strategische misvattingen (Fleiss' κ = 0,9487)**, met **geen significante verschillen** tussen groepen. Hoge betrouwbaarheid is haalbaar onder expertadjudicatie, en dat is de voorwaarde waarvan de claim afhangt.
 
-## Gerelateerde concepten
+## Verbonden concepten
 
 - [[pedagogical-patterns]] — De conceptuele-veranderingssequenties die een specifieke aangehouden overtuiging confronteren
 - [[learners]] — Lerenden: het overkoepelende begrip voor de concepten aan de lerendenkant
@@ -142,7 +146,7 @@ Deze weerleggingen zijn bewust in de vorm van een [[refutation-text|weerleggings
 - [[educational-policy-ai]]
 - [[trust]]
 
-## Gerelateerde artikelen
+## Verbonden artikelen
 
 - [[rudolph-ai-myths-critical-higher-ed]] — Geloof de hype niet: acht AI-mythes en de noodzaak van een kritische benadering in het hoger onderwijs
 - [[student-rationalization-ai-writing]] — Rationalisatie door studenten van AI-schrijven

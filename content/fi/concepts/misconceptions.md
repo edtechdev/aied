@@ -1,7 +1,6 @@
 ---
 title: "Väärinkäsityksiä tekoälystä"
 created: "2026-11-12T04:06:21-05:00"
-updated: "2026-11-12T04:06:21-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,7 +10,8 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
@@ -19,13 +19,17 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
 
 *Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja.*
 
 > **Väärinkäsityksiä tekoälystä** — virheellisiä uskomuksia siitä, mitä tekoälyjärjestelmät ovat, mitä ne tekevät ja mitä niiden käyttäminen merkitsee oppimiselle ja työlle. Väärinkäsitykset eivät ole yksittäinen harhaluulo vaan joukko kalibrointivirheitä, jotka keskittyvät kahden ydinvirheen ympärille: väärä käsitys siitä, mikä malli on (auktoriteetti vai työkalu, neutraali vai puolueellinen, ymmärtäminen vai tuottaminen) ja väärä käsitys siitä, mitä oppiminen edellyttää (tuotos vai prosessi). Niitä esiintyy paitsi opiskelijoilla myös opettajilla, hallinnolla, päättäjillä ja suurella yleisöllä – ja niiden korjaaminen on [[ai-literacy]]- ja [[trust-calibration]]-kasvatuksen keskeinen tavoite. Siksi niitä on kohdeltava opetettavana sisältönä, ei vain varoituksena.
 
-## Pohdittavia kysymyksiä
+## Pohdittavaksi
 
 - Monet uskovat, että tekoälychatbotin vastaus on vahvistettu tosiasia, koska se kuulostaa varmalta ja sujuvalta. Sivu kutsuu tätä "auktoriteettiharhaksi". Kun luet tekoälyn tuottamaa selitystä, miten päätät, hyväksytkö sen – ja kuinka usein todella tarkistat sen?
 - "Oppiminen yhtä kuin tuotos" -väärinkäsitys on uskomus, että työn tuottaminen tekoälyllä on sama kuin sen oppiminen. Oletko koskaan tuntenut "oppineesi" jotain antamalla työkalun tehdä luonnoksen? Mitä itse asiassa jäi puuttumaan jälkeenpäin?
@@ -38,11 +42,11 @@ ai_assist:
 
 Tekoälyä koskevat väärinkäsitykset ovat tärkeitä, koska ne ovat kognitiivinen edeltäjä niille haitallisille käyttäytymisille, joita tietopohja dokumentoi [[cognitive-offloading|liiallisen tukeutumisen]] ja [[academic-integrity|akateemisen rehellisyyden]] huolten yhteydessä. Ihmiset harvoin päättävät [[ai-misuse-learning-harm|käyttää väärin]] tekoälyä; he tekevät niin, koska epätarkat mielikuvat saavat heidät sijoittamaan luottamuksensa väärin, ohittamaan tarkistamisen ja pitämään tuotosta ymmärryksenä. Koulutuksessa nämä virheet muovaavat kaikkea siitä, miten opiskelijat opiskelevat, siihen, miten opettajat ja instituutiot suunnittelevat opetussuunnitelmia, [[assessment|arviointia]] ja politiikkaa. Siksi niiden tunnistaminen ja korjaaminen ei ole sivutuote vaan edellytys sille, että tekoälyn käyttö koulutuksessa voi olla sekä rehellistä että oppimista tukevaa.
 
-### Mitä tekoälyä koskevat väärinkäsitykset ovat
+## Mitä tekoälyä koskevat väärinkäsitykset ovat
 
 Väärinkäsitys ei tässä ole pelkkää tietämättömyyttä siitä, miten malli toimii – se on aktiivisesti pidetty, usein itseään vahvistava uskomus, joka tuottaa systemaattisia virheitä siinä, miten opiskelijat toimivat tekoälyn kanssa. Ne ovat suoraan rinnastettavissa alakohtaisiin väärinkäsityksiin, joita tutkitaan [[learning-sciences|oppimistieteessä]]: pysyviä, uskottavia ja korjausta vastustavia, kunnes ne kohdataan suoraan. Toisin kuin puuttuva tieto, ne eivät korjaannu pelkällä lisätiedolla, koska ne ovat jo järjestäneet sen, miten uusi tieto tulkitaan. Niiden korjaaminen on [[ai-literacy]]- ja [[trust-calibration]]-kasvatuksen keskeinen tavoite.
 
-### Yleisiä väärinkäsityksiä akateemisissa yhteyksissä
+## Yleisiä väärinkäsityksiä akateemisissa yhteyksissä
 
 - **Auktoriteettiharha** – [[llm]]-mallin tuotoksen pitäminen vahvistettuna tosiasiana eikä todennäköisyyspohjaisena täydennyksenä. Johtaa kritiikittömään hyväksyntään ja vastauksen etsimisen ylivaltaan ymmärryksen kustannuksella, mitä dokumentoidaan [[intelligent-tutoring|tekoälyohjauksen]] tutkimuksessa, jossa oppijat hyväksyvät mallin vastauksen tarkistamatta sitä [[hallucination-risk|hallusinaatioriskiä]] vastaan.
 - **Itsenäisen tarkistuksen illuusio** – [[ai-feedback-quality|tekoälypalautteen]] pitäminen ulkopuolisena korjauksena, vaikka malli heijastaa käyttäjän omaa päättelyä. Käyttäjien lähtötason tarkkuus oli voimakkain yksittäinen selittäjä loppusuoritukselle, ja [[ai-sycophancy|mielistelyyn]] kohdennettu kehotteistus vähensi positionaalista matkimista (OR = 0,26) mutta jätti virheiden leviämisen ennalleen, joten oppijan kouluttaminen ei ole suojakeino ([[contextual-sycophancy-ai-literacy|Koyuturk ym. (2026)]]).
@@ -57,17 +61,17 @@ Väärinkäsitys ei tässä ole pelkkää tietämättömyyttä siitä, miten mal
 
 Rehellisyyden harmaalla alueella on rakenne, ei vain kahta ääripäätä. Haastattelut 20 opiskelijan kanssa yhdessä heidän chat-lokiensa ja kurssidokumenttiensa kanssa löysivät viisi erillistä kohtaa, joissa tekoälypolitiikka elää – tiedekunnan aikomuksesta virallisen politiikan ja opiskelijan oman politiikan kautta todelliseen käytäntöön – sekä 23 erillistä rationalisointia kuudessa luokassa ([[student-rationalization-ai-writing|Kim ym., 2026]]). Rationalisoinnit olivat ad hoc -luonteisia ja jälkikäteisiä, koottuja selittämään jo tapahtunutta käyttöä sen sijaan, että ne olisivat ohjanneet sitä. Tiukka kielto ei niinkään estänyt käyttöä kuin voimisti moraalista ristiriitaa opiskelijoissa, jotka halusivat noudattaa sitä – mikä siirtää korjauksen kohteen politiikkaan eikä säännön muotoiluun. Toisin sanoen opiskelijat eivät ensisijaisesti tarvitse tarkempaa sääntöä vaan enemmän tukea sen tulkitsemiseen omassa tilanteessaan.
 
-### Instituutioiden ja yleisön tekoälymyytit
+## Instituutioiden ja yleisön tekoälymyytit
 
 Väärinkäsitykset eivät rajoitu opiskelijoihin – ne kyllästyttävät sitä institutionaalista ja julkista tekoälykeskustelua, jonka opiskelijat perivät. Tämä keskustelu välittyy paitsi puheessa myös hankinnoissa, säännöissä ja oppimateriaaleissa. [[rudolph-ai-myths-critical-higher-ed|Rudolph ym. (2025)]] purkavat kahdeksan juurtunutta "myyttiä", jotka muovaavat korkeakoulupolitiikkaa ja -opetusta: että tekoäly on aidosti "keinotekoista" (eikä rakennettu hyväksikäytetystä ihmistyöstä), että se on todella "älykästä" ja [[agentic-ai|agenttista]], että se ongelmattomasti "tekee maailmasta paremman paikan", että se on "objektiivinen ja puolueeton", että Yhdysvalloilla on supervaltana monopoli, ettei se ravistele työmarkkinoita, että se "mullistaa [[higher-ed|korkeakoulutuksen]]" ja että opettajat voivat luotettavasti tunnistaa tekoälyn tuottaman työn. Nämä institutionaaliset myytit eivät ole irrallisia yksittäisvirheitä vaan toisiaan tukeva kehys, ja ne ovat monien edellä dokumentoitujen opiskelijoiden väärinkäsitysten alkulähde – suorimmin [[trust|neutraaliuden illuusio]] ("tekoäly on objektiivinen") ja [[trust-calibration|auktoriteettiharha]] ("tekoäly on älykäs") sekä tunnistuksen virhekalibrointi, joka saa opiskelijat olettamaan, että tunnistamaton ja todentamaton käyttö on turvallista. Kun opiskelijat omaksuvat institutionaalisesti toistettuja myyttejä ja toimivat niiden mukaan, niiden korjaaminen edellyttää paitsi oppijan uskomuksen myös sitä ruokkivan diskurssin kohtaamista. Pelkkä yksittäisen opiskelijan valistaminen jättää siis koskematta siihen lähteeseen, josta uskomus jatkuvasti uudistuu.
 
-### Miksi väärinkäsitykset ovat merkityksellisiä oppimiselle
+## Miksi väärinkäsitykset ovat merkityksellisiä oppimiselle
 
 Väärinkäsitykset kääntyvät suoraan käyttäytymisiksi, jotka aiheuttavat oppimishaittaa. Uskomus "tekoäly on aina oikeassa" vaimentaa tarkistamista; uskomus "tekoälyn käyttö on oppimista" vaimentaa ponnistelevaa prosessointia; uskomus "se ei ole huijaamista" ohittaa metakognitiivisen katsauksen, joka lujittaa ymmärrystä. Tässä mielessä väärinkäsitykset ovat sen [[ai-misuse-learning-harm|oppimishaitan]] alkupäässä, jota tietopohjan todistusaineisto dokumentoi. Kun uskomus poistetaan, myös sitä seuraava käyttäytyminen menettää perustansa – siksi väärinkäsitykset ovat strateginen kohde.
 
 Uskomus, että tekoälyn käyttö on oppimista, ei ole olemassa vain ennen käyttöä; työkalu voi valmistaa sen. [[llm-fallacy-misattribution|Kim ym.]] kuvaavat LLM-harhaluulon, jossa läpinäkymätön, sujuva ja välitön tuotos tulkitaan väärin todisteeksi käyttäjän omasta osaamisesta, jolloin koettu ja todellinen kyvykkyys eroavat marginaalilla, jota he kutsuvat nimellä ΔC. Koska mekanismi on sujuvuus ja attribuution monitulkintaisuus eikä virhe, harhaluulo säilyy riippumatta siitä, onko malli tarkka vai hallusinoiva – mikä tarkoittaa, että oikea tekoälyavusteinen vastaus ei ole todiste siitä, että uskomus on korjattu. Korjauksen onnistumista ei siis voi päätellä lopputuloksen laadusta, vaan se on testattava erikseen.
 
-### Väärinkäsityksiä opiskelijoiden lisäksi: opettajat, instituutiot ja yleisö
+## Väärinkäsityksiä opiskelijoiden lisäksi: opettajat, instituutiot ja yleisö
 
 Tekoälyä koskevat väärinkäsitykset eivät rajoitu oppijoihin – ne ovat kaikkialla niiden aikuisten keskuudessa, jotka muovaavat koulutusta. Siksi niitä on tarkasteltava myös silloin, kun kysymys ei näytä koskevan oppimista lainkaan:
 
@@ -79,7 +83,7 @@ Tämä laajuus on syy siihen, miksi tietopohja käsittelee väärinkäsityksiä 
 
 Opettajien pedagogiset väärinkäsitykset ovat tämän peilikuva: ei väärinymmärryksiä tekoälystä vaan näyttöön perustumattomia uskomuksia opetuksesta, jotka jatkuvat tekoälystä riippumatta. [[etq-ai-conversational-teacher-training-2026|Miranda ja Calvani (2026)]] mittaavat tätä Effective Teaching Questionnaire -kyselyllä, jossa 50 binääristä väittämää vastaavat [[meta-analysis-systematic-review|meta-analyyttisiä]] vaikutuskokoja (d ≥ 0,40), jotta opettajan vastausta voidaan verrata näyttöön perustuvaan vertailuarvoon – ja heidän havaintonsa on, että väärinkäsitykset ovat syviä ja spesifejä. Pilotti, johon osallistui 123 kasvattajaa Italiassa, löysi jyrkimmän erimielisyyden oppimistyylejä koskevasta väitteestä (78 % opettajista puolusti visuaalisen ja auditiivisen yhteensovittamista), sitten inkluusiosta ja [[group-work|ryhmätyöstä]] (68 %) ja EdTech-ylikuormituksesta (54 %); keskimääräinen yhdenmukaisuus oli noin 50 % suunnittelun, kognition, arvioinnin ja hallinnan ulottuvuuksilla. Kaksi yksityiskohtaa on tärkeitä korjauksen suunnittelulle. Ensinnäkin väärinkäsitykset selviävät yliopistokoulutuksesta ja opetuskäytännöstä – kirjoittajat kuvaavat "sisäistettyä maalaisjärkeä", joka "edeltää kouluun tuloa" ja säilyy – joten ne eivät ole tietoaukkoja, jotka luento sulkee. Toiseksi, kun keskusteleva tekoäly toi samat väittämät uudelleen vasta validoituaan opettajan oman kontekstin, 41 % vastalauseista viittasi todellisiin kontekstuaalisiin rajoituksiin – luokkakokoihin, opiskelijoihin, joilla on [[special-education|erityistarpeita]], [[curriculum-design|opetussuunnitelman]] kattavuuteen – eikä itse näyttöön. Lisäksi 5,9 % kutsui järjestelmää "algoritmiseksi dogmikoneeksi": rajaehto, jossa normatiivinen kehystys synnyttää puolustautumista reflektion sijaan. Diagnostinen työkalu ei siis korvaa keskustelua vaan avaa sen. [[teacher-ai-competency|Opettajien tekoälyosaamisen]] kehittämiselle johtopäätös on, että diagnostiikka ja dialogi yhdessä voivat paljastaa, mitkä uskomukset ovat näyttöön perustuvaa erimielisyyttä ja mitkä väärinkäsityksiä – erottelu, jota pelkkä pistemäärä ei voi tehdä.
 
-### Väärinkäsitysten korjaaminen
+## Väärinkäsitysten korjaaminen
 
 Korjaaminen ei ole kertaluonteinen paljastus vaan jatkuva [[ai-literacy]]-prosessi, joka kehittää [[metacognition|metakognitiota]] ja [[self-regulated-learning|itsesäädeltyä oppimista]]: auttaa opiskelijoita (ja heidän ympärillään olevia aikuisia) seuraamaan riippuvuuttaan, kalibroimaan milloin malliin luottaa ja milloin sitä kyseenalaistaa, ja näkemään oman [[cognitive-offloading|kognitiivisen työn]] ohittamisen hinnan. Korjauksen mittari on siten käyttäytymisen muutos, ei se, osaako oppija toistaa oikean väitteen. Koska väärinkäsitykset vastustavat korjausta, ne on parasta kohdata suoralla näytön kohtaamisella – mukaan lukien havainto, että opiskelijat usein *eivät havaitse* tekoälyn väärinkäytön oppimishaitaa. Tämä tekee korjauksesta vaikeampaa kuin tavallisen tietovajeen täyttäminen: ensin on tehtävä näkyväksi haitta, jota oppija ei itse tunnista.
 
@@ -95,7 +99,7 @@ Bernstein ja Sibia (2026) osoittavat, että [[generative-ai|GenAI]]:n tuottamat 
 
 **Mallin tuottamat väärinkäsitykset ovat mitattavissa oleva kyvykkyys, eivät vahinko.** [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević ym. (2026)]] rakensivat SocraticTrap-CS:n, joka kehotti seitsemää avoimen painon mallia kirjoittamaan "[[socratic-method|Sokraattisen]] ansan" 35 keskeiselle tietojenkäsittelyn käsitteelle – selityksen, joka on sujuva ja auktoriteettinen mutta nojaa hienovaraiseen, alakohtaiseen virheeseen. 241 kehotteistetusta segmentistä 221 (91,7 %) vahvistettiin strategisiksi väärinkäsityksiksi asiantuntijoiden enemmistöäänestyksellä (Fleissin κ = 0,9487), eikä tietojenkäsittelyn osa-alueiden välillä ollut merkittäviä eroja; 66,5 % vahvistetuista virheistä oli käsitteellisiä eikä faktuaalisia, eikä yksikään puhtaasti loogisia. Sujuvuus on mekanismi, ei puolustus: vakuuttavuus oli keskimäärin 3,71 viisiportaisella asteikolla ja vahvasti malliriippuvaista, ja yleisyys ja vakavuus erkanivat toisistaan, kun kaksi mallia, jotka tuottivat ansoja useimmin, arvioitiin myös vakuuttavimmiksi. Koska opiskelijan huonosti muotoiltu kysymys voi itsessään toimia vihamielisenä kehotteena, kirjoittajat pitävät määrää kyvykkyytenä vihamielisen kehotteistuksen alla eivätkä perustasona tavallisille opiskelusessioille – ja väittävät, että [[ai-literacy]]-tehtävä siirtyy yksittäisten väitteiden faktantarkistuksesta käsitteelliseen vahvistamiseen ja mielikuvien validointiin. Tämä on edellä kuvatun generatiivisen käytön synkempi puoli: sama kyvykkyys, joka voi kylvää tuottavaa vertaiskeskustelua, voi myös juurruttaa virheen, jota oppija oli jo muodostamassa. Sama mekanismi, joka tekee tekoälystä hyödyllisen opettajan, tekee siitä siis myös tehokkaan väärinkäsitysten lähteen.
 
-### Kumoamistyyppiset korjaukset yleisiin tekoälyväärinkäsityksiin
+## Kumoamistyyppiset korjaukset yleisiin tekoälyväärinkäsityksiin
 
 Koska väärinkäsitykset ovat aktiivisesti pidettyjä ja vastustavia, suorin tapa käsitellä niitä – myös tällä sivulla – on [[refutation-text|kumoamistekstin]] rakenne: **nimeä väärinkäsitys, kumoa se eksplisiittisesti ja esitä oikea käsitys.** Alla olevat kohdat soveltavat tätä rakennetta merkittävimpiin väärinkäsityksiin tekoälystä sekä oppimisesta, opettamisesta ja koulutuksesta:
 
@@ -117,7 +121,7 @@ Koska väärinkäsitykset ovat aktiivisesti pidettyjä ja vastustavia, suorin ta
 
 Nämä kumoamiset on tarkoituksella kirjoitettu [[refutation-text|kumoamistekstin]] muotoon, jotta niitä voidaan itse käyttää (tai mukauttaa interaktiiviseksi [[conversational-ai|tekoälydialogiksi]]) tekoälyä – ja laajemmin oppimista, opettamista ja koulutusta – koskevien väärinkäsitysten kohtaamiseen ja korjaamiseen. Sivun omat kappaleet toimivat siis sekä sisältönä että mallina siitä, miltä korjaava teksti näyttää.
 
-## Yleisiä väärinkäsityksiä
+## Yleiset väärinkäsitykset
 
 - **"Opettajien väärinkäsitykset voidaan korjata esittämällä näyttöä."** Pilotissa, johon osallistui **123 italialaista kasvattajaa**, erimielisyys keskittyi voimakkaimmin **kognitiivisiin oppimistyyleihin (78 % opettajista puolusti visuaalisen ja auditiivisen yhteensovittamista)**, inkluusioon ja ryhmätyöhön (68 %) ja EdTech-ylikuormitukseen (54 %). Voimakkaimmat erimielisyydet olivat niitä, jotka vastustivat eniten näyttöä, minkä vuoksi [[refutation-text|kumoaminen]] voittaa väittämisen. Pelkät tietoiskut jäävät siksi riittämättömiksi.
 - **"Opettajien vastalauseet näyttöä kohtaan ovat kaikki vastarintaa."** Kun samat väittämät toimitettiin keskustelevan tekoälyn kautta, joka **validoi opettajan kontekstin ennen näytön esittämistä uudelleen**, **41 % vastalauseista koski todellisia kontekstuaalisia rajoituksia** – luokkakokoa, erityistarpeita, opetussuunnitelman vaatimuksia. Merkittävä osa näennäisestä väärinkäsityksestä olikin tarkkaa vastalausetta. Ero näiden välillä on ratkaiseva, kun suunnitellaan täydennyskoulutusta.

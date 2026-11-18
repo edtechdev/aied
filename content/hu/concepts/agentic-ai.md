@@ -10,16 +10,20 @@ discipline: [stem education]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
-connected_resources: [deeptutor, learnharness, primer]
-translation_of: concepts/agentic-ai
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-13T18:20:00-05:00"
+connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
+translation_of: "concepts/agentic-ai"
+source_updated: "2026-11-16T05:33:47-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -41,6 +45,7 @@ ai_assist:
 ## Bevezetés
 
 Az ügynöki MI olyan mesterségesintelligencia-rendszerekre utal, amelyek önállóan képesek több lépésből álló munkafolyamatokat tervezni, végrehajtani és igazítani tanulási célok eléréséhez, túllépve az egyfordulós kérdés-feleleten, hogy tartós, célorientált együttműködőkként működjenek oktatási kontextusokban. Az oktatásban az ügynöki MI MI-tutorként jelenik meg, amely hosszabb interakciókon át állványozza a tanulást, többágenses rendszerekként, amelyek összetett [[learning-design|oktatási terveket]] hangolnak össze, és autonóm ágensként, amelyek a tanulói igényekhez igazítják [[pedagogy|pedagógiai]] stratégiáikat. Ez a feltörekvő paradigma az MI-t a promptokra válaszoló eszközből olyan együttműködővé alakítja, amely aktívan vezet, igazít és társ-szabályozza a tanulási folyamatokat.
+
 - **A specifikáció és a végrehajtás szétválasztása teszi megbízhatóvá az ügynöki folyamatot.** A DagFlow-AI-ban LLM-ágensek határozzák meg egy adatgeneráló mechanizmus minden összetevőjét (változók, irányított körmentes gráf, eloszlások és modellképletek), míg egy program mintát vesz a megfigyelésekből, és egy validációs szkript ellenőrzi minden ágens kimenetét ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur és mtsai., 2026]]). Egyetlen ágens sem generál adatot vagy ír generáló kódot, amit a szerzők a nem alátámasztott kimenet és az utasításeltolódás válaszának mutatnak be.
 
 ## Az ügynöki MI meghatározása és osztályozása
@@ -68,6 +73,10 @@ A tudásbázis [[research-methods-aied|kutatása]] a tervezés és az értékel�
 - **Jelentési és irányítási lépték: az autonómia, felügyelet és bizonyíték (AOE) keretrendszer.** [[beyond-agent-label-agentic-ai-governance-2026|Dey (2026)]] amellett érvel, hogy az *ügynöki MI* kifejezést olyan következetlenül használják, hogy a bizonyítékok és a felügyelet nem hasonlíthatók össze a tanulmányok között: a tervező, emlékező, eszközhasználó vagy több ágenst összehangoló rendszereket statikus GenAI-felületekkel és hagyományos [[pedagogical-agent|pedagógiai ágensekkel]] mossák össze. Tizenöt lektorált áttekintést feldolgozó kritikai integráló áttekintése szerint a bizonyítékok a legerősebbek az artefaktumszintű kimeneteknél (visszajelzés pontossága, [[hallucination-risk|hallucinációcsökkentés]]), és a leggyengébbek a tartós tanulásnál, az esélyegyenlőségnél, a munkaterhelésnél vagy az intézményi kimeneteknél, míg az autentikus telepítések jellemzően rövidek, egy helyszínen zajlanak, és gyengén kapcsolódnak a felügyelethez. A megoldás egy konkrét jelentési hármas: az **autonómiaszint A0-A4** (reaktív generálás → kötött összehangolás → delegált feladatautonómia → munkafolyamat-autonómia → *következményes autonómia* az osztályozás, a felvételi és az előmenetel felett), a **felügyeleti szint O0-O4** (meghatározatlan → utólagos audit → használat előtti jóváhagyás → ellenőrzőpontos kontroll → *folyamatos, kötött felügyelet*), és a **bizonyíték-érettségi szakasz M0-M5** (koncepció → prototípus/benchmark → résztvevői értékelés → autentikus telepítés → kiterjesztett/több helyszínes → *megismételt/intézményi lépték*), valamint egy **arányossági szabály**: a megengedett autonómia nem haladhatja meg sem a bizonyítékok érettségét, sem a felügyelet erősségét (például egy A4-es, következményes rendszer M4-M5 szintű bizonyítékot, jogi validálást és emberi végső hatáskörrel rendelkező O4-et igényel). Az *A2-O3-M3* formátumú jelentés a homályos „ügynöki telepítés” állításokat összehasonlítható, tesztelhető specifikációkká alakítja, és szakaszos bevezetési, naplózási és visszaállítási nyelvtant ad az intézményeknek; ez a bizonyítékoldali kiegészítése a fenti [[baradziej-agentic-ai-higher-education-2026|Copilot-autopilot]] spektrumnak.
 - **Ellenséges robusztusságtesztelés:** a [[adversarial-stress-testing-role-playing-agents|többágenses stressztesztelés]] Kihallgató, Célpont és Bíró ágenseket hangol össze, hogy feltárja az egyetlen stratégiával nem látható hibamódokat, a robusztussági pontszámokat 0,17-0,20 ponttal csökkentve; ez kritikus a személyazonosság-konzisztencia és a tanulókkal való [[pedagogical-safety|biztonságos telepítés]] szempontjából.
 - **Tartományi alkalmazások:** ügynöki rendszerek több tartományban is megjelennek, többek között [[learnmate2-llm-adaptive-learning|adaptív tanulóágensekben]], [[educlaw-bench-pedagogical-llm-agents-2026|pedagógiai LLM-ágensekben]], [[guided-llm-scaffolding-independent-learning|irányított LLM-állványozásban]], [[cyberagents-gamified-cybersecurity-learning-2026|játékosított kiberbiztonsági tanulóágensekben]] és [[hdr-brachytherapy-agentic-ai-simulation-2026|klinikai szimulációs ágensekben]].
+- **Az ügynöki javítás megbízhatósági kérdés, mielőtt munkaterhelés-kérdés lenne.** Egy ügynöki Claude Code telepítést három rubrikafájllal és egy számítógépes grafika kurzus 60 beszkennelt, kézzel írt félévközi dolgozatával láttak el. Pontszámai r = 0,97-nél egyeztek az oktatóéval, 0,85-es átlagos abszolút hibával egy 20 pontos dolgozaton, 0,68-as átlagos MI-pozitív torzítással és 0,96-os teszt-reteszt ICC-vel két, egy héttel eltérő ülés között. Az összesített érték elrejti, hol vall kudarcot: a súlyozott kappa a feleletválasztós tételeken 0,98-tól az értékelő tételeken 0,65-ig terjedt, a leggyengébb eset a kézzel rajzolt ábra volt ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Egy kurzus, egy oktató és egy rubrikakészlet lokalizálja a szórást; azt nem bizonyítja, hogy az ügynöki javítás általánosítható.
+
+Az ügynöki architektúrák lefedettséget vásárolnak mérhető pontossági áron. [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah és mtsai. (2026)]] 926 álláshirdetés-minta és 1 696 aranystandard készség benchmarkján egy ESCO-kereső eszközzel dolgozó ReAct-ágens vezette a javított felidézést 89,7%-kal, szemben a legjobb generatív konfiguráció 83,7%-ával és a legjobb beágyazási modell 49,1%-ával. Pontossága 22,7% volt, az F1 így 36,3%-on maradt, egy eszközre alapozott Gemini 2.5 Flash 51,6%-a alatt, és mintánként körülbelül 16 másodpercet vett igénybe. A felidézés a helyes mérőszám, amikor emberi tanácsadó szűri a listát; a közvetítés nélküli kimenetnek a megalapozott alternatíva kell.
+
 - **Webágensek mint tanulási élmény értékelők:** egyetlen autonóm, „leíró” webágens, amely úgy navigál egy online [[learning-design|órán]], mint egy diák ([[ai-web-agents-lesson-design-2025|Wang, Mitchell és Piech (2025)]]), olyan gazdag leírást állít elő, amely elég a diák lemorzsolódásának előrejelzéséhez, és a valódi tanulók belépése előtt cselekvésre alkalmas visszajelzést ad a tervezőnek, felülmúlva egy teljes szimulált kohorszot és minden alapvonalat egy globális CS1 kurzuson. Ez az ügynöki értékelést (egy ágenst mint a tanulási élmény helyettes kritikusát) az ügynöki MI önálló, alacsony költségű felhasználási módjaként helyezi el a tanító vagy tervező ágensek mellett.
 
 ### Többágenses rendszerek
@@ -80,7 +89,6 @@ Egy lépéssel tovább a néhány specializált ágens összehangolásánál a [
 
 - **Résztvevőspecifikus LLM-ágensek a kollaboratív problémamegoldáshoz.** Fang (2026) egyéni LLM-ágenseket finomhangol a valódi résztvevők dialógusadatain, hogy minden résztvevőt képviseljen a kollaboratív problémamegoldási szimulációkban, valószínűségi beszélő- és tematikus kódválasztással, valamint csúszóablakos és összegzett memóriával. [[network-analysis|Episztemikus hálózatelemzéssel]] validálva a szimulált dialógusok statisztikailag megkülönböztethetetlenek a valódiaktól (ENA-távolság 0,17, permutációs p = 0,65): annak bemutatása, hogy az ügynöki MI hiteles kollaboratív diskurzust képes újratermelni.
 - **Társasán intelligens többágenses tutorálás.** Az olyan társasán intelligens többágenses tutorálási prototípusok, mint az ASTRA, azt vizsgálják, hogyan koordinálnak a tanulók MI-vel diádokban, differenciált Tutor- és Facilitátor-ágensekkel ösztönözve az egyeztetést és a kiegyensúlyozott részvételt. A keretrendszer nyomkövetésalapú értékelése lehetővé teszi az interakció, a részvételi egyensúly és az ellenőrzés reprodukálható elemzését a [[cs-education|bevezető programozásban]].
-
 
 **Szervezeti válasz: a tanuló mint részt vevő tag, nem pedig címzett.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan és mtsai. (2026)]] egy emberi részvétellel működő többágenses szervezetet valósítanak meg, amelyben specializált ágensek egy felülvizsgálható Képességprogramot tartanak fenn, amely a személyes célokat, a [[multimodal|multimodális]] tevékenységeket és a rétegzett értékelést kapcsolja össze, egy javítható „emberi csomóponttal”, amely a tanuló saját bizonyítékait és kihívásait viszi át a későbbi revíziókba. A legközelebbi többágenses alapvonalhoz képest 96 szimulált tanulói esetben az előny az [[assessment|értékeléstervezésben]] összpontosult: 19,32 ponttal magasabb [[assessment-validity|értékelési érvényesség]] (95% CI [17,55; 21,04]) és 5,89 ponttal a képességlefedettségben, míg a személyre szabás nem különült el (1,35 pont, nullát átfogó intervallum). Egy randomizált, 32 tanulós vizsgálatban a tudásnövekedés egy objektív 50 pontos teszten 12,19 volt 5,61 ponttal szemben.
 
@@ -207,6 +215,8 @@ Az ügynöki MI sem nem csodaszer, sem nem elkerülhetetlen kár: értéke a ter
 
 ## Kapcsolódó cikkek
 
+- [[alghamdi-claude-code-agentic-grading-2026]] — 60 kézzel írt vizsga ügynöki javítása: r = 0,97 összesítve, a kappa 0,65-re esik az értékelő tételeken
+- [[jingru-fan-agentic-university-collaborative-agents-2026]] — A tanuló mint részt vevő tag: többágenses szervezet, amely az értékelési érvényességet emeli (Fan és mtsai. 2026)
 - [[pramod-agentic-ai-motivational-pathways-2026]] — Az autonómia, a kompetencia, a kapcsolódás és a társas jelenlét mint az ügynöki MI-től az elköteleződéshez vezető utak (Pramod és Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — MI-ágensek, örömteli értékelés és harmadik tér
 - [[ilieva-agentic-genai-higher-education-2026]] — Az AGAI-HE keretrendszer: kötött, ember által felügyelt ügynöki GAI a felsőoktatásban (Ilieva és mtsai. 2026)
@@ -233,5 +243,4 @@ Az ügynöki MI sem nem csodaszer, sem nem elkerülhetetlen kár: értéke a ter
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD MI-ágensekkel szoftveres PBL-ben; automatizálás kontra megértés
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Állványozásorientált többágenses nagy nyelvi modell rendszer értékelése klinikai interjú képzéshez
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Etikai képzőágensek: csoportalapú etikaoktatás elősegítése szerepjátékkal és vitával az etikai reflexió és feltárás érdekében
-
-- [[jingru-fan-agentic-university-collaborative-agents-2026]] — A tanuló mint részt vevő tag: többágenses szervezet, amely az értékelési érvényességet emeli (Fan és mtsai. 2026)
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — MI-megközelítések összehasonlítása az automatizált készségkinyeréshez: a beágyazásoktól az ügynöki rendszerekig a mérnökképzésben

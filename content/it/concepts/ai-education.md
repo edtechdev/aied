@@ -1,7 +1,7 @@
 ---
 title: "IA in educazione"
 created: "2026-10-14T21:57:00-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/ai-education"
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-17T08:15:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -29,6 +29,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -87,8 +91,8 @@ I concetti trasversali e fondativi del campo ancorano la copertura della knowled
 Il modo in cui l'IA sostiene insegnamento e apprendimento è il cuore del campo. I concetti chiave includono:
 
 - **Pedagogie di base:** le [[pedagogy|pedagogie e strategie didattiche]] — l'ombrello della copertura sui metodi didattici della knowledge base — insieme ai [[pedagogical-patterns|pattern pedagogici]] (le sequenze testate in cui quei metodi si risolvono), l'[[active-learning|apprendimento attivo]], l'[[collaborative-learning|apprendimento collaborativo]], il [[group-work|lavoro di gruppo]], l'[[project-based-learning|apprendimento basato su progetti]], l'[[problem-based-learning|apprendimento basato su problemi]], il [[productive-failure|fallimento produttivo]], l'[[inquiry-based-learning|apprendimento basato sull'indagine]], l'[[experiential-learning|apprendimento esperienziale]], l'[[game-based-learning|apprendimento basato sul gioco]], l'[[learning-by-teaching|apprendimento insegnando]], lo [[scaffolding|scaffolding]], il [[socratic-method|metodo socratico]], la [[critical-pedagogy|pedagogia critica]], le [[pedagogical-partnerships|partnership pedagogiche]], lo [[storytelling-in-education|storytelling]], la [[learning-design|progettazione dell'apprendimento]], l'[[online-teaching-and-learning|insegnamento e apprendimento online]] e il [[video-education|video in educazione]].
-- **Teorie e processi dell'apprendimento:** l'ombrello delle [[learning-theories|teorie dell'apprendimento]] ([[behaviorism|comportamentismo]], [[cognitive-psychology|cognitivismo]], [[constructivist|costruzionismo]], [[sociocultural-learning|socioculturale]], [[distributed-cognition|cognizione distribuita]], [[situated-learning|apprendimento situato]], [[embodied-learning|apprendimento incarnato]], [[community-of-inquiry|comunità di indagine]]) si affianca a processi rivolti al discente come l'[[self-regulated-learning|apprendimento autoregolato]], la [[self-determination-theory|teoria dell'autodeterminazione]], la [[motivation|motivazione]], l'[[self-efficacy|autoefficacia]], l'[[self-directed-learning|apprendimento autodiretto]], la [[reflection|riflessione]], la [[metacognition|metacognizione]], le [[desirable-difficulties|difficoltà desiderabili]], il [[transfer-of-learning|trasferimento dell'apprendimento]], le [[prior-knowledge|conoscenze pregresse]], l'[[icap-framework|engagement cognitivo ICAP]], il [[refutation-text|testo di confutazione]], il [[retrieval-spacing-interleaving|recupero, la distribuzione e l'interleaving]] e la [[activity-theory-aied|teoria dell'attività]].
-- **Coinvolgimento ed esperienza del discente:** lo [[student-engagement|coinvolgimento degli studenti]], l'[[help-seeking|ricerca di aiuto]], l'[[social-emotional-learning|apprendimento socio-emotivo]], il [[well-being|benessere]], la [[creativity|creatività]], il [[problem-solving|problem solving]], l'[[mastery-learning|apprendimento per padronanza]] e l'[[student-ai-interaction|interazione studente–IA]] danno forma al modo in cui i discenti incontrano effettivamente l'IA e ne sono influenzati, mentre le [[social-norms-ai-use|norme sociali che si stabiliscono attorno all'uso dell'IA]] decidono quanto apertamente tutto ciò possa essere discusso. Al di là del corso, il [[student-support-and-success|sostegno e il successo degli studenti]] copre il lavoro sul versante istituzionale — orientamento, outreach, invio a servizi e allocazione di un sostegno scarso — dove l'IA muove in modo affidabile il completamento dei compiti ma non la perseveranza o il conseguimento del titolo.
+- **Teorie e processi dell'apprendimento:** l'ombrello delle [[learning-theories|teorie dell'apprendimento]] ([[behaviorism|comportamentismo]], [[cognitive-psychology|cognitivismo]], [[constructivist|costruzionismo]], [[sociocultural-learning|socioculturale]], [[distributed-cognition|cognizione distribuita]], [[situated-learning|apprendimento situato]], [[embodied-learning|apprendimento incarnato]], [[community-of-inquiry|comunità di indagine]]) si affianca a processi rivolti al discente come l'[[self-regulated-learning|apprendimento autoregolato]], la [[self-determination-theory|teoria dell'autodeterminazione]], la [[motivation|motivazione]], l'[[self-efficacy|autoefficacia]], l'[[self-directed-learning|apprendimento autodiretto]], la [[reflection|riflessione]], la [[metacognition|metacognizione]], le [[desirable-difficulties|difficoltà desiderabili]], il [[transfer-of-learning|trasferimento dell'apprendimento]], le [[prior-knowledge|conoscenze pregresse]], l'[[icap-framework|engagement cognitivo ICAP]], il [[refutation-text|testo di confutazione]], il [[retrieval-spacing-interleaving|recupero, la distribuzione e l'interleaving]] e la [[activity-theory-aied|teoria dell'attività]]. La cornice evolutiva attraversa questi elementi: la [[developmental-psychology|psicologia dello sviluppo]] spiega perché lo stesso processo appare diverso a cinque, a quindici e a venticinque anni.
+- **Coinvolgimento ed esperienza del discente:** lo [[student-engagement|coinvolgimento degli studenti]], l'[[help-seeking|ricerca di aiuto]], l'[[social-emotional-learning|apprendimento socio-emotivo]], il [[well-being|benessere]], la [[creativity|creatività]], il [[problem-solving|problem solving]], l'[[mastery-learning|apprendimento per padronanza]] e l'[[student-ai-interaction|interazione studente–IA]] danno forma al modo in cui i discenti incontrano effettivamente l'IA e ne sono influenzati, con l'[[empathy|empatia]] come esito affettivo spesso rivendicato e raramente misurato, mentre le [[social-norms-ai-use|norme sociali che si stabiliscono attorno all'uso dell'IA]] decidono quanto apertamente tutto ciò possa essere discusso. Al di là del corso, il [[student-support-and-success|sostegno e il successo degli studenti]] copre il lavoro sul versante istituzionale — orientamento, outreach, invio a servizi e allocazione di un sostegno scarso — dove l'IA muove in modo affidabile il completamento dei compiti ma non la perseveranza o il conseguimento del titolo.
 
 ## Tecnologie e tecniche
 
@@ -103,11 +107,20 @@ La pagina sulle [[ai-technologies|tecnologie]] è l'ombrello dello strato tecnic
 
 L'IA è applicata attraverso le discipline e i livelli educativi. La [[discipline-specific-aied|panoramica dell'AIEd nelle discipline]] della knowledge base mappa la copertura per area disciplinare — accanto alle [[learning-sciences|scienze dell'apprendimento]], che non sono una materia insegnata ma il campo di ricerca trasversale che studia l'apprendimento stesso e tratta la materia come una variabile tra le altre:
 
-- **Aree disciplinari:** [[math-education|matematica]], [[statistics-and-data-science-education|statistica e scienza dei dati]], [[physics-education|fisica]], [[chemistry-education|chimica]], [[biology-education|biologia]], [[cs-education|informatica]], [[engineering-education|ingegneria]], [[stem-education|STEM]], [[writing-education|scrittura]], [[language-learning|apprendimento delle lingue]], [[english-education|insegnamento dell'inglese (EAP/EFL/ESL)]], [[science-education|educazione scientifica]], [[environmental-education|educazione ambientale]], [[business-education|economia aziendale, economia e management]], [[humanities-education|scienze umane e sociali]], [[arts-and-media-education|arti, design e educazione ai media]], [[medical-education|professioni mediche e sanitarie]], [[legal-education|educazione giuridica]] e i filoni professionali e applicati — [[nursing-education|infermieristica]], [[information-technology|tecnologie dell'informazione]], [[vocational-education|istruzione e formazione professionale]] [[design-education|design education]], le [[libraries|biblioteche]], l'[[civic-and-political-education|educazione civica e politica]] e l'[[reading-education|educazione alla lettura]].
+- **Aree disciplinari:** [[math-education|matematica]], [[statistics-and-data-science-education|statistica e scienza dei dati]], [[physics-education|fisica]], [[chemistry-education|chimica]], [[biology-education|biologia]], [[cs-education|informatica]], [[engineering-education|ingegneria]], [[stem-education|STEM]], [[writing-education|scrittura]], [[language-learning|apprendimento delle lingue]], [[english-education|insegnamento dell'inglese (EAP/EFL/ESL)]], [[science-education|educazione scientifica]], [[environmental-education|educazione ambientale]], [[business-education|economia aziendale, economia e management]], [[humanities-education|scienze umane e sociali]] (con [[arts-and-media-education|arti, design e educazione ai media]] e [[music-education|musica]] accanto), [[social-sciences-education|scienze sociali]] (educazione civica, economia aziendale e studi ambientali), [[medical-education|professioni mediche e sanitarie]], [[legal-education|educazione giuridica]] e i filoni professionali e applicati — [[professions-education|professioni]] come [[nursing-education|infermieristica]], [[information-technology|tecnologie dell'informazione]], [[vocational-education|istruzione e formazione professionale]] [[design-education|design education]], le [[libraries|biblioteche]], l'[[civic-and-political-education|educazione civica e politica]] e l'[[reading-education|educazione alla lettura]].
 
+Anche il cluster in cui ricade una materia decide quale pagina possiede le sue evidenze. L'[[vocational-education|istruzione e formazione professionale]] è archiviata sotto i livelli anziché qui, perché nomina un percorso di qualifica più che una disciplina.
 ## Livelli e contesti
 
-Lo stesso strumento di IA incontra contesti molto diversi, e la knowledge base separa il livello educativo dalla pedagogia, così che i risultati non si trasferiscano silenziosamente dall'uno all'altro: le scuole [[k-12|K-12]], l'[[early-childhood-elementary-ai-education|educazione della prima infanzia e primaria]], l'[[higher-ed|istruzione superiore]], l'[[adult-learning|apprendimento degli adulti]], l'[[vocational-education|istruzione e formazione professionale]], l'[[special-education|educazione speciale]] e la [[teacher-education|formazione degli insegnanti]]. I concetti adiacenti al dominio che attraversano i livelli includono la [[universal-design-for-learning|progettazione universale per l'apprendimento]], la [[neurodiversity|neurodiversità]], l'[[multilingual-learning|apprendimento multilingue]] e l'[[social-emotional-learning|apprendimento socio-emotivo]].
+Lo stesso strumento di IA incontra contesti molto diversi, e il livello educativo è tenuto separato dalla pedagogia così che i risultati non si trasferiscano silenziosamente dall'uno all'altro: le scuole [[k-12|K-12]], che ora si dividono in [[early-childhood-elementary-ai-education|prima infanzia e scuola primaria iniziale]], [[primary-education|istruzione primaria]] e [[secondary-education|istruzione secondaria]]; l'[[higher-ed|istruzione superiore]], che si divide in [[undergraduate-education|studi di primo ciclo]] e [[graduate-education|studi post-laurea]]; e i contesti fuori da queste scale, l'[[adult-learning|apprendimento degli adulti]], l'[[vocational-education|istruzione e formazione professionale]], l'[[special-education|educazione speciale]] e la [[teacher-education|formazione degli insegnanti]]. [[education-levels|I livelli di istruzione]] li confronta. I concetti adiacenti al dominio che attraversano i livelli includono la [[universal-design-for-learning|progettazione universale per l'apprendimento]], la [[neurodiversity|neurodiversità]], l'[[multilingual-learning|apprendimento multilingue]] e l'[[social-emotional-learning|apprendimento socio-emotivo]].
+
+## Lo stesso strumento, scelte progettuali opposte
+
+Il livello è la variabile che inverte più nettamente una raccomandazione progettuale. Le evidenze sulla secondaria mettono il docente tra studente e strumento: su 33 studi, i guadagni arrivavano dove gli studenti confrontavano l'output, e svanivano dove lo strumento produceva il lavoro ([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca et al. (2026)]]).
+
+Le evidenze sul post-laurea indicano l'altra direzione, verso una partnership con un umano responsabile. I facilitatori della prontezza raggiungevano l'[[self-efficacy|auto-efficacia]] di ricerca attraverso il supporto del supervisore (β = 0,201 indiretto), non attraverso l'uso degli strumenti ([[luo-ai-readiness-graduate-research-self-efficacy-2026|Luo et al. (2026)]]). Una revisione dottorale arriva alla stessa conclusione progettuale dall'etica: la legittimità dipende dal compito anziché dallo strumento, la dichiarazione è proporzionata al peso intellettuale, e la governance si rivede alle tappe miliari ([[guanilo-pareja-genai-doctoral-supervision-2026|Guanilo Pareja et al. (2026)]]).
+
+Ciò che non cambia è che un umano detiene il giudizio. Gli studenti di un seminario post-laurea accettavano l'output dell'IA solo dopo che un garante competente lo aveva verificato, il che Chen legge come agentività delegata anziché ceduta ([[chen-genai-self-directed-learning-graduate-seminar-2026|Chen (2026)]]). La frequenza è la metrica sbagliata per confrontare i livelli: prediceva la competenza post-laurea a β = 0,030 una volta entrate nel modello etica e autoregolazione ([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova et al. (2026)]]).
 
 ## Valutazione e misurazione
 
@@ -120,7 +133,7 @@ L'IA trasforma sia come valutiamo i discenti sia come valutiamo i sistemi di IA 
 
 Il modo in cui sappiamo se l'IA funziona è un filone a sé, e la knowledge base lo tratta come tale:
 
-- **Metodi di ricerca:** i [[research-methods-aied|metodi di ricerca nell'AIED]] come ombrello, con approcci [[qualitative-research|qualitativi]], [[quantitative-research|quantitativi]], [[mixed-methods-research|metodi misti]], [[design-based-research|design-based]] e [[usability-research|di usabilità]], oltre a [[rct|trial controllati randomizzati]], [[meta-analysis-systematic-review|meta-analisi e revisione sistematica]] e [[network-analysis|analisi delle reti]].
+- **Metodi di ricerca:** i [[research-methods-aied|metodi di ricerca nell'AIED]] come ombrello, con approcci [[qualitative-research|qualitativi]], [[quantitative-research|quantitativi]], [[mixed-methods-research|metodi misti]], [[design-based-research|design-based]], [[usability-research|di usabilità]] e [[longitudinal-research|longitudinali]], oltre a [[rct|trial controllati randomizzati]], [[meta-analysis-systematic-review|meta-analisi e revisione sistematica]] e [[network-analysis|analisi delle reti]].
 
 Il lavoro di ricerca del campo è ora esso stesso un soggetto a sé. L'[[ai-assisted-educational-research|AI-Assisted Educational Research]] copre l'IA usata come strumento per ricerca bibliografica, screening, codifica qualitativa, analisi e scrittura, inclusa la ricerca dei professionisti come lo scholarship of teaching and learning. Resta distinta dai disegni usati per studiare ciò che l'IA fa ai discenti.
 
@@ -215,11 +228,13 @@ L'IA in educazione si collega a ogni concetto della knowledge base — è il cam
 - [[civic-and-political-education]] — educazione civica e politica
 
 ## Articoli collegati
-
-Revisioni di campo sull'IA in educazione — gli studi che esaminano l'intero campo o un intero livello educativo anziché un singolo argomento:
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
+- [[rismanchian-ai-education-four-decades-aixed-2026]] — L'evoluzione della ricerca su IA ed educazione lungo quattro decenni (framework AIxEd)
 - [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
 - [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies
-- [[stanford-evidence-base-ai-k12-2026]] — The evidence base on AI in K-12: a review of 818 papers
+- [[stanford-evidence-base-ai-k12-2026]] — La base di evidenze sull'IA nella K-12: 52 solidi studi causali estratti da 1.686 paper di repository (aggiornamento novembre 2026)
 - [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 studi sulla secondaria; guadagni dove gli studenti giudicano l'output, non dove lo strumento produce il lavoro
+- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 studenti magistrali; la prontezza raggiungeva l'auto-efficacia attraverso il supporto del supervisore
+- [[guanilo-pareja-genai-doctoral-supervision-2026]] — Revisione di 61 fonti su etica, feedback e governance della supervisione dottorale
+- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Seminario post-laurea a gruppo singolo; guadagni di apprendimento autodiretto senza un test non assistito
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 studenti; divario primo ciclo–post-laurea su etica e autoregolazione

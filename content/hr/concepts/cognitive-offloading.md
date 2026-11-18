@@ -11,14 +11,18 @@ audience: [learners]
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-11-04T17:25:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-16T09:06:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -96,10 +100,15 @@ Radovi u bazi znanja dokumentiraju kognitivno rasterećenje kroz više dimenzija
 
 - **Spektar ICAP i SAMR uokviruje rasterećenje kao kontinuum načina, a ne binarnost.** [[thermomix-genai-education-analogy-2026|Rummel, Nachtigall i Panadero (2026)]] preslikavaju analogiju kuhinjskog stroja Thermomix na učenje s generativnom umjetnom inteligencijom ([[generative-ai]]) unutar okvira [[icap-framework|ICAP]] i [[samr-model|SAMR]], pokazujući četiri scenarija koji napreduju od **pasivne supstitucije** (potpuno preuzimanje zadataka: kraj rasterećenja, s rizikom gubitka vještina i ograničene [[creativity|kreativnosti]]) do **interaktivne redefinicije** (umjetna inteligencija kao [[pedagogical-agent|partner u dijalogu]] koji pruža [[feedback|prilagodljive povratne informacije]] u stvarnom vremenu i sukostrukciju: angažirani kraj). Time se šteta rasterećenja preokviruje kao uvjetna ovisno o *načinu upotrebe*, a ne o pukoj učestalosti, konvergirajući raširenoj granici „poduprijeti nasuprot zamijeniti“: nalazi li se upotreba umjetne inteligencije na kraju supstitucije ili redefinicije spektra, određuje potiskuje li ili podupire kogniciju koja gradi učenje.
 
+**Konstitutivni test ima osnovu u strukturi zadatka.** [[ho-invariant-core-faculty-development-2027|Ho (2026.)]] granicu između interneta i generativne umjetne inteligencije smješta u Biggsovu SOLO taksonomiju. Internet je olakšao multistrukturalne zadatke, ali učenik je još morao izgraditi veze koje rad podižu na relacijsku razinu, dok generativna umjetna inteligencija tu strukturu proizvodi na zahtjev. Kada artefakt prestane svjedočiti relacijsko razmišljanje koje je zadatak trebao izazvati, procjena mora otežati proces njegova nastajanja.
+
+- **O rasporedu, a ne o količini, ovisi pomaže li rasterećenje.** Studenti preddiplomskog studija koji su generativnu umjetnu inteligenciju koristili unutar radnih listova dizajnerskog mišljenja koji su učeniku zadržali uokvirivanje problema, usporedbu i reviziju izvijestili su o višoj kreativnoj [[self-efficacy|samoučinkovitosti]] i bolje ocijenjenim proizvodima od studenata koji su isti model koristili bez ograničenja ([[wang-design-thinking-scaffolds-agency-preserving-ai-2026|Wang, 2026.]]).
+
 [[navas-romero-designing-teaching-materials-genai-2026|Navas-Romero i sur. (2026)]] izvješćuju o percepcijama studenata o kognitivnim zahtjevima nastavnih materijala koje je osmislila generativna umjetna inteligencija u visokom obrazovanju, uz njihove dobitke u kompetencijama učenika, razdvajajući opterećenje koje ti materijali nameću od kompetencija koje grade.
 
 [[gillette-partnership-ethics-genai-higher-education-2026|Gillette i sur. (2026)]] bilježe rasterećenje kao vlastito iskustvo sudionika, a ne teorijski rizik: jedan je rekao da mu je generativna umjetna inteligencija „zabranila da doista čitam i sam otkrijem što je u tekstu važno, da razvijem vještine čitanja“, a drugi se pribojavao „dugoročnog razvoja, gdje postajem lošiji u određenim vještinama u kojima sam sada vrlo jak“.
 
+- **Učinak je u podjeli rada, a ne u alatu.** Nakamura (2026) tvrdi da se heterogenost učinaka učenja s generativnom umjetnom inteligencijom razrješava kad jedinica analize postane podjela kognitivnog rada između učenika i stroja. Rasterećenje povećava učenje kad obavlja operacije periferne za trenutni cilj, a riskira eroziju kad zaobilazi obradu koja je konstitutivna za taj cilj ([[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]). Sadržajna obrada rezultata, ili njegova kasnija rekonstrukcija, ono je što spašava inače konstitutivno rasterećenje.
 - **Što osoba smije predati ovisi o njezinu iskustvu zadatka.** [[akcaoglu-offloading-ladder-experience-2026|Akcaoglu (2026.)]] čini redoslijed zadataka relativnim prema osobi: ono što je višeg reda za novaka nižeg je reda za nekoga tko već vlada postupkom, pa dopušteno rasterećenje treba rasti s iskustvom i zaustaviti se na jezgri posla.
 
 **Kognitivni kapital je zaliha koju rasterećenje crpi.** [[riva-cognitive-capital-generative-ai-review-2026|Riva i sur. (2026.)]] preokviruju rasterećenje kao promjenu zalihe, a ne kao čin. Kognitivni kapital je nagomilano, obnovljivo i iscrpivo znanje, sposobnost i praksa koje drže pojedinci i organizacije, odvojeno od sposobnosti sustava čovjek–umjetna inteligencija, kako bi se zajednički dobitak u izvedbi mogao vidjeti uz gubitak ljudske sposobnosti. Njihova četiri mehanizma — zamjena prakse, potpora i povratne informacije, metakognitivna kalibracija i organizacijsko zbrajanje — daju sedam načela, uključujući to da potpomognuta izvedba nije zadržana kompetencija i da se rasterećenje zadatka razlikuje od rasterećenja prakse koja gradi vještinu. Pokretačka statistika je postupno uvođenje kod 5.172 agenta za korisničku podršku, gdje je pomoćnik podigao broj riješenih problema na sat za 15 %; taj broj opisuje zajednički sustav, a to mogu li agenti posao obaviti i bez pomoći mjerenje je koje pregledana literatura ne sadrži.
@@ -113,7 +122,6 @@ Radovi u bazi znanja dokumentiraju kognitivno rasterećenje kroz više dimenzija
 Ista pogodba vrijedi za emocionalni rad, a ondje je dokaz noviji. [[shastry-gray-empathy-offloading-2026|Shastry i Gray (2026.)]] imenuju rasterećenje empatije: kad sustav može pružiti emocionalnu podršku, ljudi je sami daju manje (N = 2.223 u četiri studije). Spremnost da se empatija preda modelu pratila je uvjerenje u njegovu sposobnost za nju (b = 0,44), a eksperiment koji je to uvjerenje podigao običnim novinskim izvještavanjem pomaknuo je rasterećenje kroz njega (neizravno 0,73, izravno nije vjerodostojno). Poučan je dio ondje gdje se samoprocjena i ponašanje razdvajaju: kad im je rečeno da je student dobio podršku od chatbota, sudionici su svoje rasterećenje ocijenili nižim nego za prijatelja ili terapeuta, a zatim birali manje riječi empatije i više riječi ravnodušnosti o tom studentu.
 
 - **Rasterećenje se dijeli na vidljiv dobitak i nevidljiv gubitak.** [[pradubwate-illusion-ai-competence-miscalibration-2026|Pradubwate (2026.)]] tvrdi da je kalibracijski neuspjeh koji ova stranica dokumentira *međudimenzijski* zaključak, a ne opće pretjerano samopouzdanje. Operativna kompetencija (oblikovanje upita, iteriranje, integriranje) vraća neposrednu nedvosmislenu povratnu informaciju, dok evaluativna kompetencija (prosudba je li izlaz točan) dobiva povratnu informaciju koja je odgođena, rijetka ili odsutna. Rasterećenje istodobno podiže percipirano razumijevanje i snizuje duboku obradu, a doživljava se samo prvo. Zato su upozorenja o ograničenjima umjetne inteligencije slabe intervencije: obraćaju se uvjerenjima o sustavu, dok iluziju stvara praznina u korisnikovu vlastitom iskustvu. Pregled je konceptualan i nema vlastitih podataka.
-- **Učinak je u podjeli rada, a ne u alatu.** Nakamura (2026) tvrdi da se heterogenost učinaka učenja s generativnom umjetnom inteligencijom razrješava kad jedinica analize postane podjela kognitivnog rada između učenika i stroja. Rasterećenje povećava učenje kad obavlja operacije periferne za trenutni cilj, a riskira eroziju kad zaobilazi obradu koja je konstitutivna za taj cilj ([[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]). Sadržajna obrada rezultata, ili njegova kasnija rekonstrukcija, ono je što spašava inače konstitutivno rasterećenje.
 
 ## Pretjerano oslanjanje: kada rasterećenje postaje štetno
 
@@ -187,6 +195,12 @@ Dvije kontrolirane studije iz nedavne serije utvrđuju dvije polovice te tvrdnje
 **Konfiguracija zaobilaženja ima građansku cijenu koju studije učenja ne naplaćuju.** [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz i Castro Samayoa (2026.)]] tvrde da voljno rasterećenje istraživanja, analize, vrednovanja i sinteze atrofira praksu o kojoj ovisi demokratsko građanstvo. Njihovo pravilo sekvenciranja razlika je zaobilaženja i potpore izrečena razvojno: aritmetika prije kalkulatora, citacijske konvencije prije alata za upravljanje referencama i chatbot uveden nakon vještine, a ne umjesto nje. Imenuju i okvir koji zaobilaženje čini privlačnim: premisu učinkovitosti da je smisao školskog rada brzo završiti.
 Ista logika pretvara oblikovanje nagrada u dizajnerski alat: [[assistance-dilemma-rl-tutoring-2026|Macina i sur. (2026)]] obučavaju LLM tutore s maskiranim testom bliskog prijenosa i dvama binarnim vratima, pa nagrada može rasti samo kroz ono što je student napisao u vlastitim potezima, a njihova ablacija pokazuje da upravo vrata, a ne sirova nagrada za dobitak u učenju, smanjuju predaju rješenja.
 
+Noviji kauzalni dokazi razdvajaju dovršavanje zadatka od njegova učenja. U eksperimentu 2×2 s 24 kanadska studenta preddiplomskog studija, početnici s ChatGPT-om prošli su 410,7 od 500 generiranih testova nasuprot 80,7 bez njega, dok studenti srednje razine nisu ništa dobili i bili su bolji s konvencionalnim resursima ([[chen-genai-programming-understanding-2026|Chen i sur., 2026.]]). Zasebna studija 22 programera pokazala je da je GitHub Copilot dao prednost u izvedbi od 14,09 bodova i manje radno opterećenje tijekom zadatka, bez ikakve koristi na ponovnom testu bez pomoći otprilike tjedan dana kasnije ([[gardella-copilot-fast-forgettable-2026|Gardella i sur., 2026.]]). Rasterećenje može podići rezultat, a pritom ne dotaknuti sposobnost da se on proizvede.
+
+Dvije nedavne studije daju rasterećenju mjerni aparat. Ljestvica od 35 čestica [[ayasrah-executive-function-learning-difficulties-scale-2026|Ayasrah i sur.]] pretvara proces u šest izvještivih dimenzija — pretjerano oslanjanje, površno razumijevanje, smanjena verifikacija, slabije pamćenje, umanjeni trud i smanjena kritička procjena — validiranih na 616 srednjoškolaca. Anketa [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026|Sharme, Mananija i Thakwanija]] na sveučilišnim studentima utvrdila je da je ovisnost o ChatGPT-u povezana sa slabijim izvršnim funkcijama uglavnom kroz akademski stres, pri čemu je izravni put pao na P = 0.328 kada je stres ušao u model. Obje pripadaju [[executive-function|izvršnim funkcijama]], koje drže kapacitet koji rasterećenje navodno potiskuje.
+
+[[papasideri-cognitive-offloading-genai-narrative-review-2026|Papasideri, Chatziioannou i Palaiologos (2026.)]] istražuju migraciju konstrukta u generativnu umjetnu inteligenciju u narativnom pregledu koji ništa ne objedinjuje i ne izvješćuje o novim podacima. Njihov okvir upravlja analizom: rasterećenje je preraspodjela truda, a pitanje je vraća li se preraspodijeljeni trud kao učenje. Ono što se s generativnom umjetnom inteligencijom mijenja jest objekt — rasuđivanje, sinteza i procjena umjesto traženja i aritmetike — pa se stariji nalaz da rasterećenje predviđa slabije odgođeno zadržavanje sada odnosi na rad višeg reda. Njihova jedina dizajnerska tvrdnja konkretna je: upiti koji zahtijevaju opravdanje ili procjenu smanjili su rasterećenje i poboljšali kvalitetu argumentacije, što polugu čini dizajnom interakcije, a ne sposobnošću modela.
+
 ## Uobičajene zablude
 
 - **„Količina poticaja mjeri rasterećenje.“** **97 učenika** grupirano je prema količini poticaja, a **skupine prema količini nisu se značajno razlikovale u lokalnom nasuprot globalnom poticanju ni u poticanju s aktivnom ulogom**. Brojanje poticaja brojilo je aktivnost, a ne raspodjelu kognitivnog rada.
@@ -218,19 +232,16 @@ Ista logika pretvara oblikovanje nagrada u dizajnerski alat: [[assistance-dilemm
 
 ## Povezani članci
 
+
+- [[chen-genai-programming-understanding-2026]] — početnici i programeri srednje razine: ChatGPT je podigao prolaz na testovima 410,7 prema 80,7, dok razumijevanje nije slijedilo (Chen i sur. 2026)
+- [[gardella-copilot-fast-forgettable-2026]] — 22 novaka: prednost Copilota od 14,09 bodova nije preživjela ponovni test bez pomoći tjedan dana kasnije (Gardella i sur. 2026)
 - [[riva-cognitive-capital-generative-ai-review-2026]] — kognitivni kapital kao zaliha koju rasterećenje crpi (Riva i sur. 2026.)
 - [[pradubwate-illusion-ai-competence-miscalibration-2026]] — vidljiv dobitak, nevidljiv gubitak: rasterećenje kao iluzija kompetencije
 - [[akcaoglu-offloading-ladder-experience-2026]] — ljestve rasterećenja relativne prema osobi: iskustvo određuje što se smije predati
-- [[shastry-gray-empathy-offloading-2026]] — rasterećenje empatije: kad sustav podržava, ljudi daju manje
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — kognitivna dormantnost: umjetna inteligencija može sniziti rasterećenje i ipak oslabiti duboku obradu
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — pretjerano oslanjanje u pregledu 66 studija istraživačkog učenja (Yahya i sur. 2026.)
-- [[fan-metacognitive-offloading-sync-model-2026]] - SYNC kvadranti i petlja rekalibracije: delegiranje regulatora, a ne samo posla (Fan i sur. 2026.)
-- [[zhang-usefulness-dependence-genai-2026]] — od „korisnosti“ do „ovisnosti“: dinamički mehanizam evolucije ponašanja upotrebe generativne umjetne inteligencije
-- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — povlačenje regulatora podiže rasterećenje i snižava kvalitetu izlaza
-- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — kritička pismenost o umjetnoj inteligenciji i medijska pismenost kao građanska protuteža kognitivnom prenošenju
 - [[ai-proof-learning-cognitive-offloading-2026]] — Podržava ili zamjenjuje studentsko rezoniranje? Kognitivno rasterećenje u učenju dokazivanja uz pomoć umjetne inteligencije (Chen i sur. 2026)
 - [[llm-math-homework-offloading-traces-2026]] — Što predaja ne pokazuje: kompleksifikacija kognitivnog rasterećenja u studentskom matematičkom radu s LLM-ovima (Kontorovich i Wallach 2026)
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — Konsenzus 30 stručnjaka o 65 procesa učenja: rasterećenje na oba kraja slijeda učenja
+- [[shastry-gray-empathy-offloading-2026]] — rasterećenje empatije: kad sustav podržava, ljudi daju manje
 - [[rented-self-decoupling-performance-becoming-2026]] — Iznajmljeni self: rasterećenje koje stoji domenski self učenika, a ne samo vještinu
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — Skupine koje su počele jednako su se razišle: 74,1 % prihvaćanja modela u jednom profilu nasuprot 80,8 % rasterećenja i blokade u drugom (Kilinc i sur. 2026)
 - [[liu-ai-assistance-reduces-persistence-2026]] — Podrška umjetne inteligencije smanjila je istrajnost i izvedbu bez pomoći u tri RCT-a (Liu i sur. 2026)
@@ -270,3 +281,13 @@ Ista logika pretvara oblikovanje nagrada u dizajnerski alat: [[assistance-dilemm
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — Ovisnost o generativnoj umjetnoj inteligenciji kao rubni uvjet dispozicije kritičkog mišljenja i samoopažene [[career-development-and-readiness|zapošljivosti]] (Shojaei i sur. 2026)
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — Djeca su pokazala slabiju frontoparijetalnu povezanost, povezanost mreže značajnosti i dorzalne pažnje od odraslih tijekom razgovora s ChatGPT-om, uz izjednačene ocjene kreativnosti
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — Generativna umjetna inteligencija i dječje kreativno mišljenje: pretjerano oslanjanje i ovisnost o poticajima u pregledu opsega (Niu i sur. 2026)
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — kognitivna dormantnost: umjetna inteligencija može sniziti rasterećenje i ipak oslabiti duboku obradu
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — pretjerano oslanjanje u pregledu 66 studija istraživačkog učenja (Yahya i sur. 2026.)
+- [[fan-metacognitive-offloading-sync-model-2026]] — SYNC kvadranti i petlja rekalibracije: delegiranje regulatora, a ne samo posla (Fan i sur. 2026.)
+- [[zhang-usefulness-dependence-genai-2026]] — od „korisnosti“ do „ovisnosti“: dinamički mehanizam evolucije ponašanja upotrebe generativne umjetne inteligencije
+- [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — povlačenje regulatora podiže rasterećenje i snižava kvalitetu izlaza
+- [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — kritička pismenost o umjetnoj inteligenciji i medijska pismenost kao građanska protuteža kognitivnom prenošenju
+- [[ayasrah-executive-function-learning-difficulties-scale-2026]] — Šest samoprocjenjivih dimenzija poteškoća učenja posredovanog umjetnom inteligencijom
+- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — Akademski stres posreduje između ovisnosti o ChatGPT-u i izvršne disfunkcije
+- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — Kognitivno rasterećenje u doba generativne umjetne inteligencije: narativni pregled koji rasterećenje povezuje s pamćenjem, učenjem i izvršnim funkcijama
+- [[ho-invariant-core-faculty-development-2027]] — SOLO razine objašnjavaju zašto generativna umjetna inteligencija može isporučiti relacijski artefakt, pa procjena mora otežati proces (Ho 2026)

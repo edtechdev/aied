@@ -1,7 +1,7 @@
 ---
 title: "Competenza in IA dei docenti"
 created: "2026-10-14T21:55:00-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-16T08:24:32-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -71,8 +75,13 @@ La preparazione dovrebbe essere ordinata e misurata di conseguenza: il Capabilit
 
 Una versione più forte di questo rifiuto sostiene che la GenAI sia un concetto soglia piuttosto che una carenza di abilità: un resoconto autoetnografico argomenta che l'[[anxiety-and-stress|ansia]] e la resistenza del corpo docente siano costitutive dell'attraversamento della soglia, per cui la formazione sulle abilità fallisce e la non-adozione per principio dovrebbe essere rispettata anziché corretta ([[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]]).
 
-
 **La competenza si manifesta come riparazione, non solo come prompting.** Con 7 insegnanti di matematica della scuola secondaria che riscrivevano 143 problemi, [[walkington-teacher-in-loop-personalized-tasks-2026|Walkington et al. (2026)]] hanno codificato 415 prompt di follow-up: la maggior parte correggeva il realismo, la leggibilità o la struttura matematica, e sei coglievano output inappropriati o distorti — il giudizio del docente che opera come [[human-in-the-loop-ai|monitoraggio]] del compito generato anziché come fluidità nel prompting.
+
+**Due dimensioni sono impegni, non punteggi.** [[feng-ai-literacy-psychological-dimensions-2026|Feng e Carolus (2026)]] sintetizzano 58 studi sull'istruzione scolastica e collocano la *conoscenza contestuale* e la *crescita professionale continua* tra le sei dimensioni dell'alfabetizzazione in IA dei docenti, accanto a conoscenze e abilità basate sul TPACK, all'etica, alla dimensione psicologica e a una specifica per la IA generativa. Tredici degli articoli esaminati costruiscono la loro concettualizzazione del docente sul [[tpack|TPACK]]. Leggere la crescita come dimensione anziché come esito cambia ciò che un framework di competenza deve misurare: la traiettoria di un docente e i vincoli della scuola diventano parte della competenza, non condizioni che la circondano.
+
+**La costruzione di competenza non risponde al percorso di esaurimento.** Nella stessa indagine su 436 docenti universitari di design, [[ding-genai-colleague-teacher-depletion-2026|Ding et al. (2026)]] hanno trovato che l'uso della IA generativa alzava insieme l'[[self-efficacy|auto-efficacia]] didattica (β = 0,322) e l'ansia verso l'IA (β = 0,268), e che l'ansia prediceva meno insegnamento innovativo e più ritiro dal lavoro (β = −0,152 e β = 0,264). Un programma di sviluppo professionale che costruisce solo abilità lascia intatto il secondo percorso: i moderatori erano il supporto organizzativo e la violazione del contratto psicologico, non la competenza.
+
+I framework specificano ciò che un docente dovrebbe sapere e tacciono sulle condizioni in cui quella conoscenza si esercita. [[ji-judgement-space-dialogic-inquiry-2027|Ji e Mercer (2026)]] leggono il framework UNESCO per i docenti, la bussola pedagogica dell'OCSE, DigCompEdu e la revisione BEME come un unico genere di elenco, e notano che l'insistenza dell'OCSE perché l'IA non sostituisca il giudizio umano arriva senza un resoconto di che cosa renderebbe vera quell'affermazione. I modelli di competenza che aggiungono un'altra dimensione mancano quindi proprio il divario che il saggio nomina.
 
 ## Il divario di competenza
 
@@ -84,14 +93,19 @@ Il divario non riguarda solo la distanza tra abilità percepita ed effettiva, ma
 
 Un'indagine su 132 docenti in Indonesia ha trovato un'accettazione quasi universale accanto a una comprensione meccanicistica sottile: il 96,2% approvava l'uso dell'IA da parte dei docenti, eppure solo il 4,6% nominava la tokenizzazione o la decodifica e il 21,5% credeva che ChatGPT cercasse in un database o su internet ([[ai-misconceptions-indonesian-k12-teachers-2026|Aji et al. (2026)]]). Un atteggiamento favorevole non è prova di un modello mentale utilizzabile dello strumento.
 
+- **L'uso e la formazione specifica sulla GenAI stabilizzano gli atteggiamenti; la fiducia generale no.** In TALIS 2024, i docenti scandinavi che avevano usato la [[generative-ai|GenAI]] ottenevano 0,72 DS in più nell'accordo sui benefici e 0,26 DS in meno nell'incertezza al loro riguardo, lo sviluppo professionale specifico sulla GenAI aggiungeva 0,20 DS, e gli utenti concordavano anche più spesso con le preoccupazioni sulla misrepresentation ([[white-scandinavian-teachers-genai-attitudes-2026|White et al., 2026]]). Tra 425 professionisti della K-12, la capacità di vigilanza epistemica prediceva una prontezza all'IA calibrata a β = 0,675 mentre la motivazione autonoma no (β = 0,076), e solo 143 riportavano una politica scritta chiara sull'IA ([[song-calibrated-ai-readiness-k12-2026|Song, 2026]]).
+
 Il divario è visibile nell'artefatto oltre che nell'autorapporto. Un [[ai-integration-instructional-design-collaboratory-2026|collaboratorio interistituzionale di docenti nella formazione degli insegnanti]], in cui i formatori di docenti hanno progettato l'integrazione dell'IA nei propri corsi di metodo, ha riferito che i candidati riuscivano a produrre piani di lezione rifiniti assistiti dall'IA pur essendo incapaci di spiegare perché un piano si adattasse agli studenti e agli standard, dal momento che il piano stesso non dice nulla del ragionamento che lo sorregge. Valutare la giustificazione anziché il prodotto è una risposta. Il [[bondurant-shaughnessy-ai-pedagogies-practice-2026|frame delle pedagogie della pratica]] ne suggerisce un'altra, trattando le prove come approssimazione della pratica: le prove mediate dall'IA con feedback strutturato post-prova hanno aumentato il ricorso a domande di approfondimento e di esplorazione da parte dei candidati, eppure i giudizi che i candidati davano della propria performance continuavano a divergere da ciò che gli osservatori registravano.
 
-**Un calo dell'auto-valutazione dopo la formazione può segnalare apprendimento anziché perdita.** In un programma di sviluppo professionale [[tpack|Intelligent-TPACK]] [[educational-development|professionale]] della durata di sei mesi con 64 docenti universitari di Hong Kong contro 61 controlli, la competenza complessiva in IA è cresciuta di circa mezza deviazione standard (d di Cohen = −0,521), eppure alcuni docenti in entrambi i gruppi hanno ottenuto punteggi inferiori al post-test rispetto al pre-test ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]). Le interviste attribuivano i cali a uno spostamento dall'incompetenza inconscia all'incompetenza consapevole — la ricalibrazione prevista dall'effetto Dunning–Kruger — anziché a un'abilità perduta. Gli autori concludono che l'autorapporto pre-post sottostima un intervento, perché parte del guadagno arriva come correzione al ribasso nello strumento stesso.
+Un modello a livello di corpo docente suggerisce che parte del segnale dell'autorapporto è istituzionale anziché individuale. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] hanno predetto la fascia di competenza digitale autovalutata di 315 docenti universitari e hanno trovato l'affiliazione il maggiore contributore globale, prima di età e titolo di studio, con le fasce di competenza didattica divise 90,1% contro 42,9% di livello alto tra le istituzioni (χ² = 82,710, V = 0,512). Un punteggio di competenza che segue quale università impiega il rispondente sta misurando il contesto tanto quanto la capacità.
 
+**Un calo dell'auto-valutazione dopo la formazione può segnalare apprendimento anziché perdita.** In un programma di sviluppo professionale [[tpack|Intelligent-TPACK]] [[educational-development|professionale]] della durata di sei mesi con 64 docenti universitari di Hong Kong contro 61 controlli, la competenza complessiva in IA è cresciuta di circa mezza deviazione standard (d di Cohen = −0,521), eppure alcuni docenti in entrambi i gruppi hanno ottenuto punteggi inferiori al post-test rispetto al pre-test ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]). Le interviste attribuivano i cali a uno spostamento dall'incompetenza inconscia all'incompetenza consapevole — la ricalibrazione prevista dall'effetto Dunning–Kruger — anziché a un'abilità perduta. Gli autori concludono che l'autorapporto pre-post sottostima un intervento, perché parte del guadagno arriva come correzione al ribasso nello strumento stesso.
 
 **Il divario può invertirsi lungo la pipeline.** Nell'[[medical-education|educazione medica]] post-laurea, dodici medici che guidano il lavoro curricolare sull'IA si aspettavano che gli specializzandi diventassero più fluenti con l'IA di molti dei loro insegnanti, e proponevano co-apprendimento e co-insegnamento anziché un [[lifelong-learning|aggiornamento]] unidirezionale del corpo docente ([[bursic-ai-residency-education-curriculum-2026|Bursic et al. (2026)]]). Le stesse interviste descrivevano unità di informatica non ancora mature per guidare lo sviluppo curricolare, il che colloca il vincolo nella capacità istituzionale oltre che nelle abilità individuali.
 
 **Il divario si manifesta anche come non partecipazione.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]] hanno intervistato 1.057 docenti universitari statunitensi alla fine del 2025 e hanno rilevato che il 26% non usa affatto gli strumenti di [[generative-ai|IA generativa]], con un terzo che sceglie di non usarli per l'insegnamento e il non uso concentrato nelle arti e nelle [[humanities-education|discipline umanistiche]] (40%). Il lato istituzionale del divario era più ampio di quello individuale: il 68% dichiarava che il proprio istituto non aveva preparato i docenti a usare l'IA generativa per l'insegnamento e la tutorizzazione, e i docenti indicavano la resistenza dei colleghi (82%) e la loro non familiarità (83%) come i principali ostacoli all'adozione a livello dipartimentale — un quadro in cui costruzione delle capacità, norme tra pari e politiche devono muoversi insieme.
+
+L'adozione passa per il giudizio sulla disciplina più che per l'entusiasmo generale. In interviste con 14 docenti di quattro università cinesi, i partecipanti giudicavano l'IA utile in base alle esigenze di conoscenza del proprio campo, la mantenevano in un ruolo ausiliario e subordinavano l'uso a uno scopo chiaro e al fatto che gli studenti pensassero prima ([[xiong-teachers-ai-attitudes-chinese-higher-ed-2026|Xiong et al. (2026)]]). La loro preoccupazione più costante non era la propria competenza ma gli studenti che cedevano il processo di pensiero.
 
 **La formazione pre-servizio elude in gran parte la dimensione etica della competenza.** Una [[meta-analysis-systematic-review|revisione sistematica]] sull'IA nella formazione iniziale degli insegnanti di matematica della scuola primaria ([[pinto-ai-initial-teacher-training-mathematics-review-2026|Pinto et al. 2026]], 11 studi selezionati da 341 record) ha rilevato che gli interventi si concentravano su guadagni tecnici e pedagogici a breve termine, con nove degli undici che conducevano interventi brevi della durata da una a sei sessioni, e ha riferito che l'etica era trattata in soli tre degli undici studi. I framework di competenza nominano il giudizio etico come dimensione; la letteratura pre-servizio destinata a costruirlo raramente lo insegna o lo misura.
 
@@ -127,28 +141,39 @@ Un controesempio basato sul design tratta la competenza come situazionale anzich
 
 - **Anche in un programma specifico di dominio i valori restano indietro rispetto alle abilità.** In un programma di un anno a Hong Kong con 30 docenti di inglese, la conoscenza delle strategie di valutazione [[multimodal|multimodale]] è salita da 3,13 a 4,15 su 5 (η² parziale = 0,571) e la competenza nel sostenere gli studenti da 3,05 a 3,98 (0,482), entrambe significative, mentre ogni sottodominio dei valori è rimasto statisticamente piatto con un alfa corretto secondo Bonferroni di 0,006. I docenti attribuivano i guadagni alla co-pianificazione nella scuola e agli incontri dei cluster tra scuole, piuttosto che ai soli workshop ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al., 2026]]).
 
+- **I piani generati dall'IA sono una base, e la mediazione è la competenza.** Ventisei docenti principianti che rivedevano piani di lezione generati dall'IA riscrivevano i compiti, aggiungevano modellizzazione e supporti linguistici, chiarivano gli obiettivi e ricostruivano la sequenza attorno alla logistica dell'aula, descrivendo il proprio ruolo come revisione e personalizzazione anziché accettazione dell'output ([[wilcoxen-steiner-bell-ai-lesson-planning-2026|Wilcoxen et al., 2026]]).
+
 - **Il microlearning può sviluppare la competenza in IA dei docenti universitari.** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky (2026)]] ha perfezionato due moduli di [[vocational-education|istruzione e formazione professionale]] attraverso due discussioni di gruppo online, distillandoli in cinque principi di progettazione — struttura e orientamento chiari, supporto alla guida e alla navigazione, segmentazione e modularizzazione, presentazione multimodale e attivazione di chi apprende — e ha rilevato che la navigazione della piattaforma e l'individuazione dei moduli costituivano i principali ostacoli pratici.
 
 - **L'intenzione di adottare dipende dalla soddisfazione dei bisogni.** In un modello strutturale su 146 docenti, la soddisfazione del bisogno di competenza prediceva l'intenzione di usare la GenAI attraverso la [[motivation|motivazione intrinseca]] e l'impegno nello sviluppo professionale (indiretto 0.233), mentre la soddisfazione di autonomia e relazione no ([[yuan-teacher-need-satisfaction-genai-2026|Yuan et al., 2026]]).
 
+La formazione senza tempo in calendario non raggiunge gli studenti. La revisione 2026 di iRAISE su quattro paesi mette il punto in termini strutturali: curricoli, formazione dei docenti e materiali hanno un impatto solo limitato se le scuole non riservano tempo per insegnare l'alfabetizzazione digitale e all'IA, con lezioni dedicate o progetti trasversali alle materie, il che impone una decisione su quali contenuti o attività esistenti ridurre o sostituire ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). La revisione colloca inoltre la formazione dentro il tempo di lavoro retribuito, a partire dalla formazione iniziale e lungo tutta la carriera, differenziata per materia e ruolo — condizioni che trattano la competenza come una condizione di lavoro anziché come un risultato personale. In tutti e quattro i suoi casi di studio, fu la fiducia dei docenti, non la disponibilità degli strumenti, a decidere se qualcosa veniva usato.
+
+## Misurare la competenza in IA dei docenti
+
+[[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] ha validato uno strumento diagnostico basato sul TAM con 434 docenti in servizio. L'intenzione comportamentale era il predittore principale della competenza digitale per l'uso della GenAI nella pianificazione curricolare, con l'auto-efficacia come motore alla radice.
+
+Uno studio psicometrico ha sviluppato la Teachers' AI Literacy Scale (TAILS) per misurare l'alfabetizzazione in IA specificamente nell'ambito della [[teacher-education|formazione dei docenti di lingua]], operazionalizzando le sei dimensioni del framework ED-AI. Lo strumento affronta un vuoto nelle valutazioni scritte per studenti o utenti generici anziché per i docenti.
+
+Anche il panorama degli strumenti è stato oggetto di revisione. [[assessing-teachers-ai-literacy-measurement-tools-2026|La revisione sistematica di Zainal, Mohd Matore e Maat (2026) sugli strumenti di misurazione dell'alfabetizzazione in IA dei docenti]] confronta che cosa misurano effettivamente le scale disponibili e dove divergono, che è la prima cosa da leggere prima di adottarne una.
+
+La misurazione presume che l'individuo sia l'unità giusta, e la distribuzione dei ruoli indebolisce quel presupposto. [[chen-future-faculty-development-ai-2027|Chen et al. (2026)]] distribuiscono cinque dei loro sette ruoli docenti su un team didattico mantenendo universale la competenza tecnica ed etica di base, quindi un punteggio individuale descrive la quota di un contributore anziché la capacità su cui il corso funziona davvero. Un programma che misura solo gli individui leggerà un team ben organico come un insieme di docenti parziali.
+
 ## La competenza in IA dei docenti e la trasformazione del ruolo docente
 
-Man mano che l'IA assume i compiti routinari di istruzione e valutazione, il contributo distintivo del docente si sposta verso l'orchestrazione, il giudizio e la relazione: decidere quando e come usare l'IA, sostenere l'[[agency|agentività]] e l'uso critico degli studenti, garantire l'equità e fornire il supporto sociale ed emotivo che l'IA non può dare. Questo riformula la competenza docente attorno alla supervisione [[human-in-the-loop-ai|umana nel ciclo]], al [[ethics|giudizio etico]] e al [[self-regulated-learning|sostegno all'apprendimento auto-regolato]] — collegandosi al [[teacher-role|ruolo del docente]] e alla [[cognitive-offloading|difesa contro l'eccessivo affidamento]].
+Man mano che l'IA assume i compiti routinari di istruzione e valutazione, il contributo distintivo del docente si sposta verso l'orchestrazione, il giudizio e la relazione: decidere quando e come si usa l'IA, fare da impalcatura all'[[agency|agentività]] dello studente e all'uso critico, garantire l'equità e fornire il supporto sociale ed emotivo che l'IA non può dare. Questo riformula la competenza docente attorno alla supervisione [[human-in-the-loop-ai|umana nel ciclo]], al [[ethics|giudizio etico]] e al [[self-regulated-learning|sostegno all'apprendimento autoregolato]] — collegandosi al [[teacher-role|ruolo docente]] e alla [[cognitive-offloading|difesa dal sovra-affidamento]].
 
-## Implicazioni per l'IA nell'educazione
+## Implicazioni per la pratica
 
-- **Valutare la performance, non solo l'autorapporto:** la competenza docente dovrebbe essere valutata attraverso la dimostrazione, dato il divario documentato nell'autorapporto.
-- **Formare la competenza nella sua interezza, non solo gli strumenti:** lo sviluppo professionale dovrebbe costruire insieme le dimensioni tecnica, pedagogica, valutativa ed etica, ancorate alle [[learning-theories|teorie dell'apprendimento]].
-- **Costruire la fiducia accanto all'abilità:** gli atteggiamenti e l'[[self-efficacy|auto-efficacia]] influenzano l'adozione, per cui lo sviluppo professionale dovrebbe ridurre l'ansia e costruire fiducia attraverso una pratica autentica e supportata.
-- **Sostenere il livello istituzionale:** una competenza docente sostenibile richiede politiche, governance e capacità allineate, non una formazione isolata.
+Gli sviluppatori del corpo docente possono puntare lo sviluppo professionale sulla conoscenza pedagogica dell'IA anziché sulla fluidità negli strumenti. I programmi che costruivano conoscenza pedagogica dei contenuti riportavano ampi guadagni pre-post, il che suggerisce che il tetto è più alto di quanto implichi un singolo workshop, e la formazione tecnica da sola non ha mosso le percezioni degli studenti negli studi esaminati.
 
-- **La competenza digitale dei docenti per la [[curriculum-design|progettazione curricolare]] con la GenAI.** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validano uno strumento diagnostico basato sul TAM con 434 docenti in servizio; l'intenzione comportamentale era il principale predittore della competenza digitale nell'uso della GenAI nella pianificazione curricolare, con l'auto-efficacia come motore alla radice.
+I formatori dei docenti possono separare le due cose che la formazione al prompting compra. Il tempo risparmiato nella preparazione è un beneficio e materiali migliori è un altro, e l'evidenza sostiene il primo senza sostenere il secondo. Un programma che promette entrambi deluderà sulla qualità.
 
-### Uno strumento psicometrico per la competenza in IA dei docenti
+I docenti possono scrivere le istruzioni per gli agenti come passi ordinati. Quando i docenti configuravano chatbot in linguaggio naturale, il fallimento dominante era un passo del flusso di lavoro saltato anziché un fatto sbagliato, quindi l'abilità che vale la pena esercitare è specificare sequenza e prerequisiti, non aggiungere dettagli sui contenuti.
 
-- Uno studio psicometrico ha sviluppato la Teachers' AI Literacy Scale (TAILS) per misurare l'alfabetizzazione in IA specificamente nell'ambito della [[teacher-education|formazione dei docenti di lingua]], operazionalizzando le sei dimensioni del framework ED-AI. Lo sviluppo dello strumento colma un vuoto nelle valutazioni rivolte agli studenti o agli utenti generici, sostenendo la misurazione della competenza in IA dei docenti.
+I dirigenti scolastici possono finanziare le condizioni che rendono la competenza utilizzabile: tempo di lavoro retribuito, uno spazio nel calendario e supporto specifico per materia. Il confronto iRAISE ha trovato che la fiducia dei docenti decideva se gli strumenti venissero usati, e la fiducia segue la pratica con supporto anziché la sola formazione.
 
-Anche il panorama degli strumenti è stato oggetto di revisione. [[assessing-teachers-ai-literacy-measurement-tools-2026|La revisione sistematica di Zainal, Mohd Matore e Maat (2026) sugli strumenti di misurazione dell'alfabetizzazione in IA dei docenti]] ha valutato 33 strumenti pubblicati tra il 2019 e il 2025 e ha rilevato che il campo è metodologicamente monotono: 31 (93,9%) sono scale di autorapporto della fiducia percepita, solo due (6,1%) verificano la conoscenza in modo oggettivo, e nessuno usa compiti basati sulla performance. La coerenza interna era il dominio di qualità più forte (28 su 33 al Grado A) e l'equità il più debole, con cinque strumenti (15,2%) che riportavano evidenze di invarianza di misura o di funzionamento differenziale degli item. Anche i contenuti restano indietro rispetto alla tecnologia, dal momento che 29 strumenti (87,9%) prendono di mira i concetti generali di IA e solo quattro (12,1%), tutti del 2025, affrontano l'IA generativa.
+I coordinatori di dipartimento possono valutare la competenza per dimostrazione. Le scale di autovalutazione e la dimostrazione divergono, e gli strumenti qui esaminati misurano costrutti molto diversi, quindi un portfolio di lezioni tenute o di elaborati corretti dice più di un sondaggio sulla prontezza.
 
 ## Fraintendimenti comuni
 
@@ -179,14 +204,18 @@ Anche il panorama degli strumenti è stato oggetto di revisione. [[assessing-tea
 - [[pedagogy]] — Ombrello: pedagogie e strategie didattiche nell'educazione con l'IA
 
 ## Articoli collegati
-
+- [[feng-ai-literacy-psychological-dimensions-2026]] — Sei dimensioni dell'alfabetizzazione in IA dei docenti, tra cui conoscenza contestuale e crescita professionale continua (Feng & Carolus, 2026)
+- [[ding-genai-colleague-teacher-depletion-2026]] — 436 docenti di design: guadagni di competenza e ansia verso l'IA crescono insieme, quindi è il supporto, non la formazione, a decidere l'esito (Ding et al., 2026)
+- [[cerioli-human-centered-ai-literacy-schools-2026]] — La revisione iRAISE su quattro paesi: 84 dei 194 Stati inseriscono l'alfabetizzazione mediatica e informativa oltre le abilità tecniche nei curricoli, e i fattori umani hanno deciso gli esiti in tutti e quattro i sistemi (Cerioli, 2026)
+- [[wilcoxen-steiner-bell-ai-lesson-planning-2026]] — 26 docenti principianti hanno revisionato piani di lezione generati dall'IA; l'adattamento era il divario più ampio (Wilcoxen et al. 2026)
+- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — Chemistry teachers’ research competence following AI-supported professional development: a mixed-methods pre–post study
+- [[walkington-teacher-in-loop-personalized-tasks-2026]] — Teacher-in-the-loop personalization: what teachers repair in AI-generated tasks (Walkington et al. 2026)
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — Quali docenti hanno guadagnato tempo di pianificazione: minore fiducia nella conoscenza disciplinare, minore conoscenza pedagogica, più recenti nella professione o alta fiducia nella tecnologia
 - [[ai-misconceptions-indonesian-k12-teachers-2026]] — I docenti accettano l'IA fraintendendone il funzionamento (Aji et al. 2026)
 - [[manto-ai-integration-mathematics-education-systematic-review-2026]] — La preparazione dei docenti e l'integrazione tecnologico-pedagogica come sfida più frequentemente riportata in 54 studi sull'educazione matematica (Manto et al. 2026)
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — Multimodal assessment literacy: a year-long program where knowledge and competence moved and values did not
-- [[teacher-ai-literacy-professional-development-meta-2026]]
-- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD: half a standard deviation of gain, and negative gains that read as recalibration — The impact of professional development programs on K-12 teachers' AI literacy: A systematic review and meta-analysis
-
+- [[teacher-ai-literacy-professional-development-meta-2026]] — 
+- [[intelligent-tpack-pd-intervention-hongkong-2025]] — Sviluppo professionale sull'Intelligent-TPACK: mezzo punto di deviazione standard di guadagno, e guadagni negativi che si leggono come ricalibrazione — L'impatto dei programmi di sviluppo professionale sull'alfabetizzazione in IA dei docenti K-12: una revisione sistematica e meta-analisi
 - [[ailithub-ai-literacy-case-infrastructure-2026]] — Teachers tagged their own classroom AI cases and reached practical competencies readily but societal and ethical ones rarely (Wang et al. 2026)
 - [[typology-generative-ai-tools-education-2026]] — Tool selection as an exercise of educator agency
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — Systematic review of generative AI in K-12 teaching and learning (Marzano 2026)
@@ -211,23 +240,23 @@ Anche il panorama degli strumenti è stato oggetto di revisione. [[assessing-tea
 - [[institutional-change-framework-ai]] — Institutional change framework for AI
 - [[teachingcoach-chatbot-instructor-guidance]] — TeachingCoach chatbot for instructor guidance
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
-- [[raffaghelli-situated-ai-ethics-2026]]
+- [[raffaghelli-situated-ai-ethics-2026]] — 
 - [[guillen-curriculum-genai-teacher-competence-2026]] — Assessing Teacher Digital Competence for GenAI Curriculum Design (Guillén-Gámez 2026)
 - [[stenalt-good-education-teacher-ai-conceptions-2026]] — phenomenographic study of university teachers' conceptions of AI
 - [[ukraine-ai-literacy-secondary-framework-2026]] — Five-level AI literacy framework + PD for Ukrainian secondary educators (Marienko et al. 2026)
 - [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
-- [[xai-teachers-trust-edtech-recommendations-2026]]
+- [[xai-teachers-trust-edtech-recommendations-2026]] — 
 - [[teacher-ai-literacy-prompt-feedback-quality-2026]] — Prompt engineering and model selection as predictors of AI-feedback quality (Jacobsen et al. 2026)
 - [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: anticipatory guilt and four moral response profiles among academic staff (Vassallo 2026)
-- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — A three-hour teacher PD session raised perceived usefulness and ease of use but not stated intention to adopt (Mesenhöller & Böhme 2026)
+- [[mesenhoeller-teachers-ai-differentiation-acceptance-2026]] — Una sessione di sviluppo professionale di tre ore ha alzato l'utilità e la facilità d'uso percepite ma non l'intenzione dichiarata di adottare (Mesenhöller & Böhme 2026)
 - [[pinto-ai-initial-teacher-training-mathematics-review-2026]] — Systematic review of AI in pre-service primary mathematics teacher training: ethics addressed in only three of eleven studies (Pinto et al. 2026)
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: preparedness, non-use and the individual-vs-institutional policy gap (Watson & Rainie 2026)
 - [[ai-integration-instructional-design-collaboratory-2026]] — Cross-institutional faculty collaboratory: AI integration as instructional design in teacher preparation
 - [[assessing-teachers-ai-literacy-measurement-tools-2026]] — Systematic review of 33 instruments for measuring teacher AI literacy: 31 self-report, two objective knowledge tests, no performance tasks (Zainal, Mohd Matore & Maat 2026)
 - [[adaptive-ai-model-teacher-educators-2025]] — A design-based adaptive AI literacy model and 20-item reflective questionnaire co-designed with 22 teacher educators (Eyal 2025)
-- [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community
-- [[authentic-assessments-generative-ai-pilot-2026]] — Designing Authentic Assessments with Generative AI: A Pilot Study of Assessment Authentifire in Higher Education
+- [[physics-faculty-learning-community-ai-2026]] — Una serie di workshop per un uso efficace dell'IA in tempi incerti: costruire una comunità di apprendimento tra docenti di fisica
+- [[authentic-assessments-generative-ai-pilot-2026]] — Progettare valutazioni autentiche con la IA generativa: uno studio pilota su Assessment Authentifire nell'istruzione superiore
 - [[teachers-configure-educational-chatbots-2026]] — Will It Teach as Intended? How Teachers Configure Educational AI Chatbots
 - [[capability-decision-model-teacher-readiness-2026]] — Ordered capability-first teacher readiness model with performance-based capability indicators
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — Cross-national survey of 1,405 K-12 teachers: readiness predicts positive beliefs but not concern
@@ -235,8 +264,10 @@ Anche il panorama degli strumenti è stato oggetto di revisione. [[assessing-tea
 - [[microlearning-ai-modules-vocational-teacher-education-2026]] — Progettazione di moduli di microlearning sull'IA per i docenti universitari nella formazione professionale: uno studio di design-based research
 - [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: come i chatbot configurati dai docenti falliscono nell'uso reale e come ripararli
 - [[chen-ai-visualization-teaching-competency-scale-2026]] — Development and validation of the AI-empowered teacher visualization teaching competency scale
-
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — Chemistry teachers’ research competence following AI-supported professional development: a mixed-methods pre–post study
-- [[walkington-teacher-in-loop-personalized-tasks-2026]] — Teacher-in-the-loop personalization: what teachers repair in AI-generated tasks (Walkington et al. 2026)
-- [[yuan-teacher-need-satisfaction-genai-2026]] — Teachers’ basic psychological need satisfaction and intention to use GenAI (Yuan et al. 2026)
 - [[bursic-ai-residency-education-curriculum-2026]] — Barriers to integrating AI into residency curricula: qualitative interviews with twelve physician leaders
+- [[yuan-teacher-need-satisfaction-genai-2026]] — Teachers’ basic psychological need satisfaction and intention to use GenAI (Yuan et al. 2026)
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — Gli atteggiamenti dei docenti scandinavi verso l'intelligenza artificiale generativa: esplorazione delle associazioni
+- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — La fascia di competenza autovalutata dai docenti è predetta in larga parte dall'affiliazione istituzionale anziché da attributi individuali
+- [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — Adozione giudicata disciplina per disciplina, con il ragionamento degli studenti come principale preoccupazione
+- [[chen-future-faculty-development-ai-2027]] — Competenza distribuita su un team didattico, con una capacità tecnica ed etica di base tenuta universale
+- [[ji-judgement-space-dialogic-inquiry-2027]] — I framework elencano competenze e lasciano le condizioni del giudizio non teorizzate

@@ -10,15 +10,19 @@ audience: [instructors, faculty developers]
 level: [higher ed]
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
-translation_of: concepts/learning-design
-source_updated: "2026-11-05T01:53:02-05:00"
-updated: "2026-11-08T06:32:22-05:00"
+translation_of: "concepts/learning-design"
+source_updated: "2026-11-16T05:34:55-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -42,14 +46,13 @@ Apa yang terlibat dalam kerja desain itu dalam praktiknya sendiri merupakan pert
 
 [[learning-analytics|Analitik pembelajaran]] dan AI generatif mendukung bagian desain yang berbeda: pada 11 kelompok fokus di satu universitas Australia, wacana analitik paling sering berko-okurensi dengan konteks dan [[problem-solving|pemecahan masalah]] tingkat mata kuliah (0,32), sementara wacana GenAI berpusat pada [[assessment|desain penilaian]] (0,26) dan merancang untuk penentuan nasib sendiri mahasiswa (0,15) ([[claassen-learning-analytics-genai-learning-design-2026|Claassen et al. (2026)]]).
 
-### Tema penelitian utama
+## Tema penelitian utama
 
 **Pembuatan konten berbantuan AI** adalah aplikasi yang paling langsung transformatif. **[[curriculum-as-code-instructional-design-2026|Curriculum as Code]]** menyajikan arsitektur enam fase yang mengintegrasikan AI Generatif dengan LaTeX dan Python untuk mengotomasi pembuatan materi [[stem-education|STEM]], yang divalidasi pada 8 modul dan 28 konteks proyek dengan penilaian mutu oleh siswa sebesar 8,5-9,9/10. **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** menggunakan kerangka multi-agen yang terstruktur di sekitar model ADDIE, dengan agen berbasis peran (Teaching Faculty, Instructional Designer, Course Coordinator) yang berkolaborasi untuk menghasilkan materi mata kuliah lengkap. **[[courseblueprint-adaptive-video-generation|CourseBlueprint]]** menyediakan pipeline terstruktur untuk [[video-education|pembuatan video]] [[pedagogy|pedagogis]] adaptif yang berdasar pada korpus mata kuliah, menunjukkan bahwa struktur pedagogis yang eksplisit - bukan hanya kefasihan AI - sangat penting bagi pembuatan konten pendidikan. Platform [[generative-ai|AI generatif]] juga dapat mewujudkan prinsip desain pembelajaran dalam konten yang dihasilkannya: [[ai-modeling-problem-generation-platform-2026|sebuah platform bertenaga AI untuk menghasilkan masalah pemodelan matematika]] menggabungkan prinsip desain yang mapan dengan [[rag|retrieval-augmented generation]], yang dikembangkan melalui pendekatan ADDIE untuk menghasilkan tugas dan rekomendasi yang berdasar pedagogis yang tidak dimiliki generator konten konvensional. Namun hasil dari pembuatan konten dan pelajaran berbantuan AI semacam itu dimediasi oleh keahlian guru itu sendiri: [[choi-teacher-ai-interaction-lesson-design-2026|Choi et al. (2026)]] menemukan bahwa guru berpengalaman secara kritis menyesuaikan ide pelajaran yang dihasilkan AI dengan siswa dan konteksnya (memberi prompt ulang dan mengelaborasi keluaran), sedangkan pemula cenderung menerima saran AI secara langsung - sehingga nilai pedagogis alat konten AI bergantung pada pengalaman dan kemahiran AI guru, bukan pada alatnya saja. Tinjauan sistematis atas [[wang-teacher-ai-co-design-review-2026|ko-desain tugas belajar oleh guru dan AI]] (Wang, Liu & Islam 2026) menegaskan pola itu dalam skala 28 studi (2015-2025): GenAI terutama digunakan untuk perencanaan pelajaran, pembuatan prompt, dan ideasi kreatif, dan mode kolaborasi yang dominan adalah AI sebagai asisten/generator konten alih-alih ko-perancang yang lebih penuh - dengan efisiensi, daya tanggap, [[creativity]], dan [[equity-in-ai-education|ekuitas]] berulang sebagai afordansi. [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] mempertajam temuan keahlian guru untuk desain aktivitas kelompok: guru berpengalaman menghasilkan arsitektur peran yang lebih kaya, lebih sinergis, dan lebih selaras ZPD dalam aktivitas kooperatif yang dirancang AI dibandingkan pemula terlepas dari keakraban AI, membingkai "literasi prompt pedagogis" sebagai tuas yang mengubah keluaran AI menjadi [[collaborative-learning|pembelajaran kelompok terdiferensiasi]] yang efektif.
 
 Uji coba Aila memberi angka waktu perencanaan pada pola itu. Guru di sekolah dasar yang diacak dalam uji itu menghabiskan 2,51 jam seminggu untuk menyiapkan pelajaran dengan alat itu berbanding 3,32 jam tanpanya, namun guru median hanya merencanakan 21% hingga 40% pelajaran dari nol, yang merupakan kasus yang diatasi oleh alat dari-nol ([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]]).
 
 Di mana materi yang dihasilkan kurang memadai adalah kesesuaian kurikulum: tujuh guru matematika menilai [[productive-failure|masalah productive-failure]] yang dihasilkan AI mendekati buatan manusia pada mutu keseluruhan (M = 17,19 vs 17,43 dari 25) tetapi lebih rendah pada keselarasan kurikulum (M = 2,57 vs 3,29), sehingga masalah yang dihasilkan masih perlu diedit untuk panjang, [[reading-education|tingkat keterbacaan]], dan visual ([[rhaimi-productivemath-2025|Rhaimi et al. (2025)]]).
-
 
 Kualitas prosa adalah kekurangan lainnya, dan itu bukan hal yang sama dengan tingkat keterbacaan. Clark et al. (2026) menunjukkan bahwa keluaran model kelebihan menggunakan konstruksi dengan biaya pemahaman yang diketahui — n-gram berfrekuensi rendah, kata benda bertumpuk, verba denominal, dependensi panjang, klausa relatif objek tereduksi — dibandingkan parafrase yang mempertahankan makna dan baseline manusia, sehingga penjelasan dan bacaan yang ditulis AI memerlukan tahap penyuntingan yang tidak akan tertangkap oleh formula tingkat kelas ([[clark-ai-generated-language-readability-2026]]).
 
@@ -65,24 +68,29 @@ Kualitas prosa adalah kekurangan lainnya, dan itu bukan hal yang sama dengan tin
 
 **Agen AI untuk desain instruksional** memperluas bidang ini ke [[agentic-ai|AI agensik]]. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** adalah tolok ukur terstandar pertama yang berdasar teori untuk mengevaluasi agen desain instruksional berbasis LLM - Context Matrix-nya yang berisi 25.795 skenario (51 variabel kontekstual × 33 sub-langkah ISD dari ADDIE) menunjukkan bahwa agen yang berdasar pada kerangka ISD klasik (ADDIE, Dick & Carey, Rapid Prototyping ISD) mengalahkan agen tanpa teori, yang memvalidasi secara empiris bahwa desain instruksional adalah disiplin terstruktur alih-alih tugas prompting generik. Agen bukan hanya *pembangun* desain tetapi juga *kritikus* atasnya: [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] menggunakan satu agen web otonom yang menavigasi pelajaran daring multi-langkah seperti seorang siswa untuk mengevaluasi desain pembelajaran *sebelum* pembelajar nyata terlibat - deskripsinya tentang [[student-experience|pengalaman siswa]] memprediksi di mana pemula akan berhenti dan memunculkan umpan balik desain yang dapat ditindaklanjuti, mengalahkan setiap baseline dan bahkan kohort siswa simulasi pada mata kuliah CS1 global. Ini membingkai evaluasi agensik pra-peluncuran sebagai pelengkap berbiaya rendah bagi iterasi desain manusia. **[[wang-multi-agent-systems-learning-designers-2025]]** dan **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** mengeksplorasi kerangka multi-agen yang mengorkestrasi agen berbasis peran di sekitar model desain instruksional, sementara **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]** mengkaji bagaimana guru dan agen bersama-sama menerapkan pengetahuan teknologi-pedagogis-konten. Kerja ini menghubungkan desain instruksional dengan [[benchmark|pembandingan]], [[ai-ed-evaluation]], dan desain [[curriculum-design|kurikulum]] dalam skala besar.
 
-### Koneksi ke konsep terkait
+**Konten yang disesuaikan memakan waktu, bukan keterampilan alat.** Profesional pendidikan menyebut waktu, materi, dan tugas yang bersaing sebagai hambatan untuk menghasilkan materi yang terdiferensiasi, dengan hanya 12% yang menyebut teknologi sebagai hambatan utama ([[hilali-adaptive-learning-challenges-2026|Hilali dan Chergui (2026)]]).
+
+## Koneksi ke konsep terkait
 
 Desain pembelajaran adalah disiplin jembatan [[ai-education|AI dalam pendidikan]] - ia menghubungkan [[curriculum-design]] (apa yang diajarkan) dengan [[scaffolding]] (bagaimana mendukung pembelajar), [[educational-development]] (bagaimana menyiapkan pendidik), dan [[generative-ai]] (alatnya sendiri). Ia terkopel erat dengan [[teacher-role]] karena alat AI membentuk ulang apa yang dilakukan perancang pembelajaran dan guru, dan dengan [[ai-literacy]] karena integrasi AI yang efektif menuntut pendidik memahami kemampuan dan keterbatasan AI. Kerja desain pada akhirnya mengkristal menjadi *urutan aktivitas*: [[pedagogical-patterns|pola pedagogis]] mengatalogkan urutan langkah yang telah teruji, sehingga perancang dapat memutuskan di mana AI berada dalam sebuah pelajaran alih-alih hanya apa yang harus disertakan. [[learning-sciences|Ilmu pembelajaran]] adalah bidang penelitian di balik prinsip-prinsip ini: ketika halaman ini mencakup praktik profesional menciptakan pengalaman belajar, ilmu pembelajaran mempelajari praktik itu dan desainnya secara empiris serta menghasilkan prinsip kognitif, [[motivation|motivasional]] dan sosial yang kemudian dioperasionalkan oleh desain pembelajaran.
 
-
-### Kodesain dan apa yang harus tetap manusia
+## Kodesain dan apa yang harus tetap manusia
 
 Kodesain adalah bagian dari praktik desain di mana kerja relasional paling sulit digantikan. [[zeivots-postdigital-co-design-genai-2025|Zeivots et al. (2025)]] memperlakukan [[generative-ai|GenAI]] sebagai kolaborator yang tidak dapat diandalkan alih-alih alat penyusunan draf, dan membangun urutan tiga fase di sekitar ketidakandalan itu: model memancing, mempluralkan, dan memfasilitasi, sementara kelompok menginterogasi pembingkaiannya, menghasilkan kontra-narasi, dan memegang deliberasi itu sendiri. Yang tetap manusia adalah negosiasi — suara siapa yang hilang, pembingkaian mana yang diadopsi kelompok, dan apa pemahaman bersama yang akan dicapai. Artikel itu adalah forum kolektif sembilan belas penulis tanpa eksperimen, sehingga urutannya adalah proposal tentang praktik alih-alih metode yang teruji.
 
-### Bagaimana desain pembelajaran menentukan perolehan belajar
+Rangkaian MOOC tiga kursus menjadikan alur kerja perancang itu sendiri sebagai objek instruksi, memisahkan demonstrasi spesifik alat dari prinsip desain yang tahan lama agar materinya bertahan melewati rilis model ([[quintana-generative-ai-learning-design-partner-2025|Quintana et al. (2025)]]).
+
+## Bagaimana desain pembelajaran menentukan perolehan belajar
 
 Desain pembelajaran adalah tuas yang menentukan apakah AI menghasilkan [[learning-gains|perolehan belajar]] atau hanya kinerja yang digelembungkan AI. Bukti dalam basis pengetahuan ini konsisten tentang hal ini: **alat AI yang sama menghasilkan perolehan besar atau kerugian bersih bergantung pada bagaimana pengalaman belajar dirancang di sekitarnya.** [[instructional-guidance-genai-learning|Hou et al.]] menunjukkan bahwa kerangka prompting lima langkah yang berdasar teori pembelajaran secara signifikan memperbaiki hasil kognitif tingkat tinggi, sementara akses ke AI saja tidak; kerangka [[genai-mindtool-generative-learning|mindtool]] dan [[airis-cognitively-activated-ai-physics-2026|AIRIS]] mempertahankan kerja kognitif pembelajar sehingga perolehan yang bertahan lama (bukan efisiensi tugas) yang dihasilkan. Pilihan desain yang melindungi [[learning-gains]] - penopangan yang menuntut upaya siswa, [[formative-assessment]] dengan ukuran hasil tanpa bantuan, dan struktur pedagogis yang menjaga pembelajar sebagai agennya - mencerminkan temuan bidang ini (lihat [[learning-gains]]) bahwa AI adalah perolehan yang kuat ketika ia melatih dan kerugian ketika ia menjawab. Sebaliknya, pelajaran terintegrasi AI yang dirancang buruk jatuh ke dalam [[cognitive-offloading|jurang kinerja-pembelajaran]], di mana keberhasilan yang tampak menutupi ketiadaan pembelajaran.
 
-### Panduan praktis bagi perancang dan pengembang
+## Panduan praktis bagi perancang dan pengembang
 
 Bagi perancang instruksional, pengembang mata kuliah, dan teknisi yang membangun pengalaman belajar berbantuan AI, temuan dalam basis pengetahuan ini diterjemahkan menjadi praktik yang dapat ditindaklanjuti. Satu batas layak ditandai sebelum praktik-praktik itu sendiri: desain pembelajaran sebagaimana digambarkan halaman ini adalah desain sebuah mata kuliah untuk kohort yang diketahui, sedangkan prinsip yang sama yang dipanggang ke dalam produk yang akan digunakan banyak mata kuliah - yang diajar oleh orang-orang yang tidak akan pernah ditemui perancangnya - adalah kerja [[educational-technology-developers]], di mana default, kemampuan konfigurasi dan dokumentasi membawa bobot pedagogis:
 
 **Dasarkan pembuatan AI pada model instruksional yang terstruktur.** Konten AI hanya sebaik struktur pedagogis di belakangnya - struktur eksplisit, bukan kefasihan AI, yang menentukan mutunya. Rancang di sekitar model yang diakui (ADDIE, Dick & Carey, rapid prototyping) dan kodekan keputusan pedagogis secara eksplisit alih-alih mengandalkan model untuk menyimpulkannya.([[courseblueprint-adaptive-video-generation]])([[jeon-isd-agent-bench-2026]])([[didactical-teacher-assistant-dimensional-modeling]])
+
+Model itu juga merupakan daftar apa yang ditinggalkannya. Dengan meninjau lima fase ADDIE, Williams dan Prishtina (2026) menemukan masing-masing menghilangkan satu kondisi penggunaan: akses alat dalam analysis, pelatihan pendidik dalam design, kesesuaian kurikulum dalam development, konektivitas dan kompatibilitas perangkat lunak dalam implementation, dan kreativitas dalam evaluation ([[williams-coding-curriculum-critique-2026|Williams dan Prishtina, 2026]]). Perubahan peran berjalan seiring itu: dalam akun [[chng-ai-instructional-design-2023|Ch'ng (2023)]], pakar materi subjek berhenti menyusun konten dan menjadi pengakses yang memvalidasi apa yang dihasilkan model, yang menjadikan kapasitas tinjauan sebagai hambatannya.
 
 **Adopsi kerangka tingkat-prinsip selain model instruksional.** Model tingkat mata kuliah menata satu desain; kerangka terpublikasi menetapkan kriteria yang harus dipenuhi banyak desain. Contoh yang layak dibaca utuh adalah *Powerful Learning with Emerging Technology* dari Digital Promise, yang menata panduannya di bawah tiga prinsip - Evidence-Based, Learner-Centered, Skill-Building - yang masing-masing diperluas menjadi praktik dan strategi, dan mengaitkan [[privacy]], [[explainable-ai|keterjelasan]] dan keadilan pada praktik tertentu sebagai kewajiban keamanan alih-alih tambahan opsional.([[powerful-learning-with-emerging-technology-2025]])
 **Sesuaikan konfigurasi AI dengan tugasnya, bukan dengan kecanggihannya.** [[pchl-he-framework-genai-content-creation-2026|Nalyvaiko (2026)]] membedakan empat lapisan - prompt, konteks, harness, dan lingkar terverifikasi - dan menerapkan prinsip lapisan minimal yang memadai: gunakan konfigurasi paling sederhana yang mampu menghasilkan hasil terverifikasi, karena orkestrasi tambahan membawa biaya koordinasi, verifikasi, privasi dan pemahaman.
@@ -108,6 +116,9 @@ Fowlin et al. (2026) menambahkan langkah operasional untuk memutuskan di mana AI
 
 - **Aktivitas yang terdokumentasi terkonsentrasi pada satu fase siklus.** Dalam tinjauan atas 78 studi tentang desain instruksional berbantuan AI, aktivitas fase Design muncul pada **74 dari 78 studi (95%)** dan Development pada 44 (56%), sementara Analysis hanya mencapai 11 (14%), Evaluation 10 (13%) dan Implementation 7 (9%) - dan **tidak ada studi yang mengkaji dukungan AI di seluruh siklus ADDIE yang lengkap**. Siklus itu adalah aspirasi yang tidak dicakup basis bukti, yang penting bagi siapa pun yang dijual "pengembangan mata kuliah bertenaga AI" sebagai kemampuan ujung-ke-ujung ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
 - **Tiga peran AI, terdistribusi hierarkis.** Penggunaan *generatif* - AI menghasilkan konten desain atas arahan pendidik - mendominasi pada **96% studi**; penggunaan *penopangan*, di mana AI menata penalaran perancang sendiri, muncul pada 35%; penggunaan *evaluatif*, di mana AI menilai mutu artefak, pada 21%. Bidang ini secara luar biasa menggunakan AI untuk membuat sesuatu alih-alih untuk menginterogasi keputusan desainnya sendiri, yang merupakan kebalikan dari konfigurasi teman-kritis yang oleh tinjauan itu disebut menjanjikan secara pendidikan.
+- **Perancang meminta kemudi, bukan otonomi.** Delapan perancang instruksional yang menguji platform pembuatan butir ([[wei-perspicacious-instructional-design-2026|Wei et al., 2026]]) menginginkan kendali atas tingkat kesulitan, format, dan provenans, menilainya 78.8 pada SUS, dan menyebut kepercayaan sebagai syarat adopsi.
+
+Desain memoderasi efek lebih dari teknologi dalam sintesis Zhang dan kolega: kapabilitas GenAI yang sama menghasilkan g = 0.92 ketika pembelajar mengarahkannya dan g = 0.34 ketika ia berjalan otonom. Mode interaksi karena itu merupakan keputusan desain alih-alih properti alat ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
 
 ## Miskonsepsi Umum
 
@@ -143,30 +154,31 @@ Fowlin et al. (2026) menambahkan langkah operasional untuk memutuskan di mana AI
 - [[stakeholders]] - Payung: orang dan audiens dalam pendidikan AI (pembelajar, guru, perancang, administrator, pembuat kebijakan)
 
 ## Artikel terkait
+
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — Penghematan waktu perencanaan yang terukur bersamaan dengan temuan bahwa guru hanya merencanakan 21% hingga 40% pelajaran dari nol
 - [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
 - [[claassen-learning-analytics-genai-learning-design-2026]] — LA dan GenAI dalam pengambilan keputusan desain pembelajaran
 - [[tang-chatbots-learning-design-2026]] — Penggunaan chatbot dalam desain pembelajaran: perancang berhenti pada hasil dan pedagogi alih-alih pembuatan konten (Tang et al. 2026)
 - [[choi-teacher-ai-interaction-lesson-design-2026]] — Pola interaksi guru-AI dalam desain pelajaran lintas pengalaman dan kemahiran AI (Choi et al. 2026)
 - [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI di pendidikan tinggi: keterlibatan + peran mediasi metode pengajaran
-- [[curriculum-as-code-instructional-design-2026]]
+- [[curriculum-as-code-instructional-design-2026]] — 
 - [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taksonomi (objek batas) untuk mengklasifikasikan aktivitas pembelajaran GenAI
-- [[instructional-agents-multi-agent-course-gen]]
-- [[didactical-teacher-assistant-dimensional-modeling]]
-- [[instructional-guidance-genai-learning]]
-- [[courseblueprint-adaptive-video-generation]]
-- [[bridging-instructional-design-framework-math]]
-- [[cotal-formative-assessment-scoring-2026]]
-- [[genai-mindtool-generative-learning]]
-- [[ludia-udl-ai-thought-partner-2026]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[jeon-isd-agent-bench-2026]]
+- [[instructional-agents-multi-agent-course-gen]] — 
+- [[didactical-teacher-assistant-dimensional-modeling]] — 
+- [[instructional-guidance-genai-learning]] — 
+- [[courseblueprint-adaptive-video-generation]] — 
+- [[bridging-instructional-design-framework-math]] — 
+- [[cotal-formative-assessment-scoring-2026]] — 
+- [[genai-mindtool-generative-learning]] — 
+- [[ludia-udl-ai-thought-partner-2026]] — 
+- [[pchl-he-framework-genai-content-creation-2026]] — 
+- [[jeon-isd-agent-bench-2026]] — 
 - [[ai-web-agents-lesson-design-2025]] — AI Web Agents: agen web otonom mengevaluasi desain pelajaran dan memprediksi putus sekolah siswa sebelum siswa terlibat (Wang, Mitchell & Piech 2025)
 - [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: Kerangka untuk Augmentasi AI yang Diaktifkan Secara Kognitif dalam Fisika
-- [[wang-multi-agent-systems-learning-designers-2025]]
-- [[ai-tpack-teacher-multi-agent-workflow]]
+- [[wang-multi-agent-systems-learning-designers-2025]] — 
+- [[ai-tpack-teacher-multi-agent-workflow]] — 
 - [[halani-designing-for-reach-2026]] — Designing for Reach: Tujuh Tuas dan Siswa yang Sendirian dengan AI
-- [[fowlin-operationalizing-learning-principles-ai]]
+- [[fowlin-operationalizing-learning-principles-ai]] — 
 - [[ai-video-dual-gatekeeping-2026]] — Ketika Mengatakan Tidak Menghasilkan Video Lebih Baik: Gatekeeping Ganda untuk Pembuatan Konten AI yang Berdasar Pedagogis
 - [[rhaimi-productivemath-2025]] — ProductiveMath: AI untuk Mendukung Desain Masalah Productive Failure
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI dan Praktik Desain Instruksional: Tinjauan Sistematis (Kibar & Ilgaz 2026)
@@ -177,5 +189,7 @@ Fowlin et al. (2026) menambahkan langkah operasional untuk memutuskan di mana AI
 - [[wang-teacher-ai-co-design-review-2026]] — Ko-desain tugas belajar oleh guru-AI: tren dan perspektif (Wang et al. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Arsitektur peran dalam aktivitas kelompok terdiferensiasi yang dirancang AI (Talebzadeh 2026)
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLM sebagai agen desain pedagogis iteratif
-
 - [[zeivots-postdigital-co-design-genai-2025]] — GenAI sebagai kolaborator yang tidak dapat diandalkan dalam kodesain
+- [[zhang-genai-l2-learning-meta-analysis-2026]] — Desain memoderasi efek lebih dari teknologinya: kapabilitas GenAI yang sama menghasilkan g = 0.92 ketika pembelajar mengarahkan dan g = 0.34 ketika berjalan otonom (Zhang et al. 2026)
+- [[williams-coding-curriculum-critique-2026]] — Mengodekan Kurikulum: Kritik atas "How AI Makes Its Mark on Instructional Design"
+- [[chng-ai-instructional-design-2023]] — How AI Makes its Mark on Instructional Design

@@ -9,15 +9,19 @@ ethics: [trust-calibration]
 audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
-updated: "2026-11-08T11:16:43-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_of: "concepts/misconceptions"
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-04"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -38,11 +42,11 @@ ai_assist:
 
 Miskonsepsi tentang AI penting karena ia adalah prekursor kognitif bagi perilaku merugikan yang didokumentasikan basis pengetahuan di bawah [[cognitive-offloading|Kelebihan-Ketergantungan]] dan kekhawatiran [[academic-integrity]]. Orang jarang berniat [[ai-misuse-learning-harm|menyalahgunakan]] AI; mereka melakukannya karena model mental yang tidak akurat membuat mereka salah menempatkan kepercayaan, melewati verifikasi, dan memperlakukan keluaran sebagai pemahaman. Dalam pendidikan, kesalahan ini membentuk segala hal mulai dari cara siswa belajar hingga cara guru dan institusi merancang kurikulum, [[assessment|penilaian]], dan kebijakan.
 
-### Apa itu miskonsepsi tentang AI
+## Apa itu miskonsepsi tentang AI
 
 Miskonsepsi di sini bukan sekadar ketidaktahuan tentang cara kerja sebuah model — ia adalah keyakinan yang dipegang secara aktif dan sering menguatkan diri sendiri yang menghasilkan kesalahan sistematis dalam cara siswa berinteraksi dengan AI. Ia secara langsung analog dengan miskonsepsi domain yang diteliti dalam [[learning-sciences|ilmu pembelajaran]]: stabil, masuk akal, dan tahan terhadap koreksi sampai dihadapkan. Mengoreksinya adalah tujuan inti pendidikan [[ai-literacy]] dan [[trust-calibration]].
 
-### Miskonsepsi umum dalam konteks akademik
+## Miskonsepsi umum dalam konteks akademik
 
 - **Kekeliruan otoritas** — memperlakukan keluaran [[llm]] sebagai fakta terverifikasi alih-alih pelengkapan probabilistik. Mendorong penerimaan tanpa kritik dan pola mencari-jawaban-alih-alih-memahami yang didokumentasikan dalam penelitian [[intelligent-tutoring|tutoring AI]], di mana pembelajar menerima jawaban model tanpa memeriksanya terhadap [[hallucination-risk]].
 - **Ilusi pemeriksaan independen** — memperlakukan [[ai-feedback-quality|umpan balik AI]] sebagai koreksi dari luar padahal model mencerminkan penalaran Anda sendiri. Akurasi dasar pengguna adalah prediktor dominan kinerja akhir, dan prompting yang spesifik-[[ai-sycophancy|sikofansi]] memotong mimikri posisional (OR = 0.26) tetapi tidak menyentuh propagasi kesalahan, sehingga pelatihan pembelajar bukanlah pengamannya ([[contextual-sycophancy-ai-literacy|Koyuturk et al. (2026)]]).
@@ -57,17 +61,17 @@ Miskonsepsi di sini bukan sekadar ketidaktahuan tentang cara kerja sebuah model 
 
 Zona kelabu integritas memiliki struktur, bukan hanya dua ekstrem. Wawancara dengan 20 siswa, bersama log obrolan dan dokumen mata kuliah mereka, menemukan lima lokasi terpisah tempat kebijakan AI hidup, dari niat fakultas melalui kebijakan formal dan kebijakan-diri siswa hingga praktik aktual, plus 23 rasionalisasi berbeda dalam enam kelas ([[student-rationalization-ai-writing|Kim et al., 2026]]). Rasionalisasi itu bersifat ad hoc dan post hoc, dirangkai untuk menjelaskan penggunaan yang sudah terjadi alih-alih untuk memandunya. Larangan ketat tidak mencegah penggunaan melainkan memperkuat konflik moral pada siswa yang ingin mematuhi, yang menempatkan sasaran koreksi pada lokasi kebijakan alih-alih pada pernyataan aturannya.
 
-### Mitos AI institusional dan publik
+## Mitos AI institusional dan publik
 
 Miskonsepsi tidak terbatas pada siswa — ia memenuhi wacana institusional dan publik tentang AI yang diwarisi siswa. [[rudolph-ai-myths-critical-higher-ed|Rudolph et al. (2025)]] membongkar delapan "mitos" yang telah mengakar yang membentuk kebijakan dan pengajaran pendidikan tinggi: bahwa AI benar-benar "artifisial" (alih-alih dibangun dari tenaga kerja manusia yang dieksploitasi), bahwa ia benar-benar "cerdas" dan [[agentic-ai|agensik]], bahwa ia akan tanpa masalah "membuat dunia menjadi tempat yang lebih baik," bahwa ia "objektif dan tidak berbias," bahwa AS memegang monopoli kekuatan super tunggal, bahwa ia tidak akan mengganggu pasar kerja, bahwa ia "merevolusi [[higher-ed|pendidikan tinggi]]," dan bahwa guru dapat secara andal mendeteksi karya yang dihasilkan AI. Mitos institusional ini adalah sumber hulu bagi banyak miskonsepsi siswa yang didokumentasikan di atas — paling langsung [[trust|ilusi netralitas]] ("AI itu objektif") dan [[trust-calibration|kekeliruan otoritas]] ("AI itu cerdas"), serta kalibrasi keliru deteksi yang membuat siswa menganggap penggunaan tak terdeteksi dan tak terverifikasi itu aman. Di mana siswa menyerap dan bertindak atas mitos yang diulang institusi, mengoreksinya menuntut menghadapi bukan hanya keyakinan pembelajar tetapi juga wacana yang memberinya makan.
 
-### Mengapa miskonsepsi penting bagi pembelajaran
+## Mengapa miskonsepsi penting bagi pembelajaran
 
 Miskonsepsi langsung berterjemah menjadi perilaku yang menyebabkan kerugian belajar. Keyakinan bahwa "AI selalu benar" menekan verifikasi; keyakinan bahwa "menggunakan AI adalah belajar" menekan pemrosesan yang berusaha; keyakinan bahwa "ini bukan kecurangan" melewati tinjauan metakognitif yang mengonsolidasikan pemahaman. Dalam pengertian ini miskonsepsi berada di hulu [[ai-misuse-learning-harm]] yang didokumentasikan di sepanjang basis bukti pengetahuan.
 
 Keyakinan bahwa menggunakan AI adalah belajar tidak hanya dipegang sebelum penggunaan; alat itu dapat memproduksinya. [[llm-fallacy-misattribution|Kim et al.]] menggambarkan kekeliruan LLM di mana keluaran yang opak, lancar, dan segera disalahbaca sebagai bukti kompetensi pengguna sendiri, sehingga kemampuan yang dirasakan dan yang aktual menyimpang sejauh margin yang mereka sebut ΔC. Karena mekanismenya adalah kelancaran dan ambiguitas atribusi alih-alih kesalahan, kekeliruan itu bertahan baik modelnya akurat maupun berhalusinasi, yang berarti jawaban berbantuan AI yang benar bukanlah bukti bahwa keyakinan itu telah dikoreksi.
 
-### Miskonsepsi di luar siswa: guru, institusi, dan publik
+## Miskonsepsi di luar siswa: guru, institusi, dan publik
 
 Miskonsepsi AI tidak terbatas pada pembelajar — ia meresap di antara orang dewasa yang membentuk pendidikan:
 
@@ -79,7 +83,7 @@ Cakupan inilah sebabnya basis pengetahuan memperlakukan miskonsepsi sebagai tema
 
 Miskonsepsi pedagogis guru adalah cermin dari hal ini: bukan kesalahpahaman tentang AI, melainkan keyakinan tentang pengajaran yang tidak didukung bukti dan bertahan terlepas dari AI. [[etq-ai-conversational-teacher-training-2026|Miranda dan Calvani (2026)]] menginstrumentasikannya dengan Effective Teaching Questionnaire, di mana 50 butir biner dipetakan ke ukuran efek [[meta-analysis-systematic-review|meta-analitik]] (d ≥ 0.40) sehingga jawaban guru dapat dibandingkan dengan tolok ukur selaras-bukti — dan temuan mereka adalah bahwa miskonsepsi itu dalam dan spesifik. Dalam uji coba dengan 123 pendidik Italia, ketidaksetujuan paling mengelompok pada gaya belajar kognitif (78% guru membela pencocokan visual/auditori), inklusi dan [[group-work|kerja kelompok]] (68%), serta kelebihan EdTech (54%), dengan keselarasan rata-rata mendekati 50% di sepanjang dimensi perencanaan, kognitif, evaluatif, dan manajemen. Dua detail penting bagi desain koreksi. Pertama, miskonsepsi itu bertahan melewati pendidikan universitas dan praktik mengajar — para penulis menggambarkan "akal sehat yang terinternalisasi" yang "mendahului masuknya ke sekolah" dan bertahan — sehingga ia bukan celah pengetahuan yang dapat ditutup ceramah. Kedua, ketika butir yang sama disampaikan melalui AI percakapan yang memvalidasi konteks guru sebelum memperkenalkan kembali buktinya, 41% keberatan menyangkut kendala kontekstual nyata (ukuran kelas, [[special-education|kebutuhan khusus]], [[curriculum-design|cakupan kurikulum]]) alih-alih bukti itu sendiri, dan 5.9% menolak sistem itu sebagai "mesin dogma algoritmik" — kondisi batas di mana pembingkaian normatif menumbuhkan sikap bertahan alih-alih refleksi. Bagi pengembangan [[teacher-ai-competency]], implikasinya adalah diagnostik-plus-dialog dapat menyingkap keyakinan mana yang merupakan ketidaksetujuan berbasis bukti dan mana yang miskonsepsi, pembedaan yang tidak dapat dibuat oleh skor semata.
 
-### Mengoreksi miskonsepsi
+## Mengoreksi miskonsepsi
 
 Koreksi bukan pengungkapan sekali-jalan melainkan proses [[ai-literacy]] berkelanjutan yang mengembangkan [[metacognition]] dan [[self-regulated-learning]]: membantu siswa (dan orang dewasa di sekitar mereka) memantau kebergantungan mereka, mengalibrasi kapan harus memercayai dan kapan harus mempertanyakan model, dan melihat biaya melewati [[cognitive-offloading|kerja kognitif]] mereka sendiri. Karena miskonsepsi bersifat resistan, ia paling baik diatasi melalui konfrontasi langsung dengan bukti — termasuk temuan bahwa siswa sering *tidak memersepsikan* kerugian belajar dari penyalahgunaan AI.
 
@@ -95,7 +99,7 @@ Bernstein dan Sibia (2026) menunjukkan bahwa analogi yang dihasilkan [[generativ
 
 **Miskonsepsi yang dihasilkan model adalah kapabilitas terukur, bukan kecelakaan.** [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] membangun SocraticTrap-CS, yang meminta tujuh model berbobot-terbuka menulis "[[socratic-method|jebakan Sokratik]]" untuk 35 konsep inti ilmu komputer — penjelasan yang lancar dan berwibawa tetapi bersandar pada kesalahan halus yang spesifik domain. Dari 241 segmen berprompt, 221 (91.7%) dikonfirmasi sebagai miskonsepsi strategis oleh suara mayoritas ahli (Fleiss' κ = 0.9487), tanpa perbedaan signifikan antar domain ilmu komputer; 66.5% kesalahan yang dikonfirmasi bersifat konseptual alih-alih faktual dan tidak ada yang murni logis. Kelancaran adalah mekanismenya alih-alih pertahanannya: daya persuasi rata-rata 3.71 pada skala lima poin dan sangat bergantung model, dan frekuensi serta keparahan terdisosiasi, dengan dua model yang paling sering menghasilkan jebakan juga dinilai paling meyakinkan. Karena pertanyaan siswa yang dibingkai buruk dapat dengan sendirinya bertindak sebagai prompt adversarial, para penulis memperlakukan laju itu sebagai kapabilitas di bawah prompting adversarial alih-alih laju dasar untuk sesi belajar biasa — dan berargumen bahwa tugas [[ai-literacy]] bergeser dari memeriksa fakta pernyataan individual ke verifikasi konseptual dan validasi model mental. Ini wajah yang lebih gelap dari penggunaan generatif di atas: kapabilitas yang sama yang dapat menanam benih diskusi sejawat yang produktif juga dapat mengukuhkan kesalahan yang sudah mulai dibentuk pembelajar.
 
-### Koreksi bergaya sanggahan untuk miskonsepsi AI yang umum
+## Koreksi bergaya sanggahan untuk miskonsepsi AI yang umum
 
 Karena miskonsepsi dipegang secara aktif dan resistan, cara paling langsung untuk mengatasinya — termasuk di halaman ini — adalah struktur [[refutation-text]]: **namai miskonsepsinya, sanggah secara eksplisit, dan nyatakan konsepsi yang benar.** Entri di bawah menerapkan struktur itu pada miskonsepsi paling berkonsekuensi tentang AI dan tentang belajar, mengajar, serta pendidikan:
 

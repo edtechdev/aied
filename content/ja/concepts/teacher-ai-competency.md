@@ -1,7 +1,7 @@
 ---
 title: 教師の AI リテラシー
 created: "2026-10-10T22:55:24-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -12,7 +12,7 @@ audience: [faculty developers, learners, instructors]
 level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-16T08:24:32-05:00"
 translation_of: concepts/teacher-ai-competency
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
@@ -20,6 +20,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -69,6 +73,12 @@ ai_assist:
 
 **コンピテンシーはプロンプトだけでなく、修復として現れる。** 7 人の中学校数学教師が 143 の問題を書き換えた研究で、[[walkington-teacher-in-loop-personalized-tasks-2026|Walkington et al. (2026)]]は 415 の追跡プロンプトをコーディングしました。大半は現実性、読みやすさ、数学的構造を修正し、6 件は不適切あるいは偏った出力を捉えました——教師の判断は、プロンプトの流暢さとしてではなく、生成された課題の[[human-in-the-loop-ai|監視]]として働いていたのです。
 
+**2つの次元はスコアではなくコミットメントです。**[[feng-ai-literacy-psychological-dimensions-2026|Feng and Carolus (2026)]]は58件の学校教育研究を統合し、*文脈的な知識*と*継続的な専門的成長*を、教師のAIリテラシーの6つの次元のなかに置きます。TPACKに基づく知識と技能、倫理、心理的な次元、そして生成的AIに固有の次元と並んでです。レビューした論文のうち13件は、教師の概念化を[[tpack|TPACK]]の上に築いています。成長を成果ではなく次元として読むことは、能力フレームワークが何を測らなければならないかを変えます。教師の軌跡と学校の制約が、能力の周りの条件ではなく、能力の一部になるのです。
+
+**力量の構築は、枯渇の経路に答えません。**同じ436人の大学のデザイン専攻の教師への調査で、[[ding-genai-colleague-teacher-depletion-2026|Dingら(2026)]]は、生成的AIの利用が教授の[[self-efficacy|自己効力感]](β = 0.322)とAI不安(β = 0.268)を同時に高め、その不安がより少ない革新的な教授とより多い仕事からの撤退を予測することを見出しました(β = −0.152 と β = 0.264)。技能だけを築く専門性開発のプログラムは、2つ目の経路に手をつけないままです。調整変数は組織的な支援と心理的契約の違反であり、能力ではありませんでした。
+
+フレームワークは教師が何を知るべきかを特定し、その知識が行使される条件については沈黙します。[[ji-judgement-space-dialogic-inquiry-2027|Ji and Mercer (2026)]]は、ユネスコの教師フレームワーク、OECDのteaching compass、DigCompEdu、そしてBEMEのレビューをひとつの種類の一覧として読み、AIが人間の判断を代替してはならないというOECDの主張が、それを真にするものの説明を欠いたまま届くことを指摘します。したがって、もうひとつの次元を付け加える能力モデルは、この論文が名指す隔たりを見逃します。
+
 ## リテラシーの乖離
 
 主要な知見は、[[self-report-measures|自己申告]]によるリテラシーとパフォーマンスに基づくリテラシーの**乖離**です。[[ai-literacy-assessment-misalignment|AI リテラシー評価に関する研究]]は、教師が自分で*できると信じている*ことと実際に*実証できる*ことの間に大きな隔たり(最大で約 40%)を記録しています。AI スキルに自信を持つ教師が、基礎的なプロンプトの作成や評価の能力を欠いていることがしばしばあるのです。これは、自己申告に頼るのではなく、教師のリテラシーの**[[assessment|パフォーマンスに基づく評価]]**を促し、[[self-assessment|較正された自己評価]]につながります。2,586人のナイジェリアの中等教育教師を対象とした全国調査は、別々の測定器具で両側面を測定しました——中程度の AI に関する認識(8点中 M = 3.13)に対し、より低い AI 教授スキル(5点中 M = 2.47)——で、若手・中堅の教師が経験豊富な同僚より高いスキルを報告しました([[nigerian-teachers-ai-awareness-pedagogical-skills-2026|Olurinola 他, 2026]])。
@@ -79,11 +89,17 @@ ai_assist:
 
 乖離は認識されるスキルと実際のスキルの間だけでなく、教師が知っていることの*幅*にもあります。2,018人のウクライナの中等教育者を対象とした全国調査では、84% が専門的な実践で AI を使っていると報告した一方、ChatGPT 以外の専門的な AI サービスを名前を挙げられたのは 11% にとどまりました([[ukraine-ai-literacy-secondary-framework-2026|Marienko, Markova & Semerikov (2026)]])。2つ目の狭さは、教師が名前を挙げられることではなく自発的に挙げるものに見られます。53人の現職教師が自分の教室での事例を OECD AI Literacy Framework に対してタグ付けしたところ、AI リテラシーに満ちた実践43件に対し失敗はわずか10件と記述されました([[ailithub-ai-literacy-case-infrastructure-2026|Wang 他 (2026)]])。彼らのリテラシーの選択は実践的な判断(AI 出力の評価、N = 38)に集中し、社会におけるバイアス(N = 5)、倫理的な整合(N = 6)、AI のエネルギー利用(N = 9)にまで及ぶことはまれでした。
 
+- **利用と生成的AIの訓練が態度を決め、一般的な自信は決めない。**TALIS 2024では、[[generative-ai|生成的AI]]を使ったことのあるスカンディナビアの教師は、便益への同意で0.72 SD高く、それについての不確実性で0.26 SD低く、生成的AIに固有の専門性開発はさらに0.20 SDを加え、利用者は誤った表象への懸念にもより頻繁に同意しました([[white-scandinavian-teachers-genai-attitudes-2026|Whiteら、2026]])。425人のK-12の専門職の間では、認識論的な警戒の能力が較正されたAIの準備をβ = .675で予測した一方、自律的な動機づけは予測せず(β = .076)、明確な書面のAI方策を報告したのは143人だけでした([[song-calibrated-ai-readiness-k12-2026|Song, 2026]])。
+
 乖離は自己申告だけでなく成果物にも現れます。[[ai-integration-instructional-design-collaboratory-2026|教師養成における学際横断的な教員のコラボラトリー]]では、教師教育者が自分の方法論の授業に AI を設計しましたが、養成課程の学生は、磨き上げられた AI 支援の授業計画を作成できる一方で、なぜその計画が学習者と基準に適合するのかを説明できませんでした。計画自体がその背後にある理由づけについて何も語らないからです。成果物ではなく理由づけを評価することは一つの対応です。[[bondurant-shaughnessy-ai-pedagogies-practice-2026|pedagogies-of-practice の枠組み]]は別の対応を示唆し、リハーサルを実践の近似として扱います。AI を介したリハーサルに構造化された事後フィードバックを伴わせることは、養成課程の学生による掘り下げ・探究的な問いの使用を高めましたが、学生自身の自分のパフォーマンスの判断は、観察者が記録したものと依然として乖離しました。
+
+教員レベルのモデルは、自己申告の信号の一部が個人ではなく制度のものだと示唆します。[[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choezら(2026)]]は315人の大学教員の自己評定によるデジタル・コンピテンシーの帯域を予測し、所属が年齢や学位を上回る最大の寄与であり、教学能力の帯域は機関をまたいで90.1%対42.9%に分かれることを見出しました(χ² = 82.710、V = 0.512)。回答者がどの大学に雇われているかを追跡するコンピテンシーのスコアは、能力と同じだけ文脈を測っています。
 
 **訓練後に自己評価が下がることは、喪失ではなく学習のシグナルになりうる。** 香港の大学教師64人を対象とした6か月の[[tpack|Intelligent-TPACK]][[educational-development|専門能力開発]]プログラム(対照61人)では、AI リテラシー全体でおよそ標準偏差半分の伸びが見られました(Cohen's d = −.521)が、両群の一部の教師は事後テストで事前テストより低く得点しました([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]])。インタビューは、この低下を無意識の無能力から意識的な無能力への移行——ダニング＝クルーガー効果が予測する再較正——に帰しました。技能が失われたからではありません。著者らは、事前・事後の自己申告は介入の効果を過小に見積もると結論づけています。なぜなら、伸びの一部は測定器具自体における下方修正として現れるからです。
 
 **乖離は不参加としても現れる。** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]]は2025年後半に1,057人の米国の大学教員を調査し、26% が[[generative-ai|生成 AI]]ツールを全く使っていないことを見出しました。3分の1が教育目的での利用を選ばず、非利用は芸術と[[humanities-education|人文学]]に集中していました(40%)。乖離の制度的側面は個人のそれを上回りました。68% が自分の学校は教員に対して生成 AI を教育と指導に用いる準備を整えていないと述べ、教員は同僚の抵抗(82%)と不慣れ(83%)を学部内導入の主要な障害として挙げました——これは、能力形成、同僚の規範、政策がすべて共に動かなければならない図景です。
+
+導入は、一般的な熱意ではなく、専門分野についての判断を通じて進みます。中国の4つの大学の14人の教師へのインタビューで、参加者は自分の分野の知識の要求によってAIの有用性を判断し、それを補助的な役割にとどめ、利用を明確な目的と学生がまず考えることを条件にしました([[xiong-teachers-ai-attitudes-chinese-higher-ed-2026|Xiongら(2026)]])。彼らの最も一貫した懸念は自分の技能ではなく、学生が思考の過程を手放すことでした。
 
 **乖離はパイプラインの中で反転しうる。** 大学院の[[medical-education|医学教育]]では、AI カリキュラムの仕事を導く 12 人の医師が、レジデントは多くの教師よりも AI に流暢になることを期待し、教員の一方向的な[[lifelong-learning|スキル向上]]ではなく、共同学習と共同教授を提案しました（[[bursic-ai-residency-education-curriculum-2026|Bursic et al.（2026）]]）。同じインタビューは、カリキュラム開発を導くにはまだ成熟していない情報学の部門を描写しており、制約を個人の技能だけでなく制度的能力に位置づけています。
 
@@ -120,28 +136,38 @@ ai_assist:
 - **参加の実績は伸びを予測するが、参加しているという実感は予測しない。** 同じ6か月のプログラムの中で、出席率がリテラシーの伸びを予測しました(β = .407, p = .001)が、自己認識される参加は予測しませんでした(β = .049, p = .692)。そして専門分野、教育経験、職位はほとんど説明しませんでした。著者らは出席を行動的な投資、知覚される参加を表層的な関与として読みます([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]])。
 
 - **価値は領域固有のプログラムでもスキルに遅れる。** 香港の英語教師30人を対象とした1年間のプログラムでは、[[multimodal|マルチモーダル]]な評価戦略の知識が 3.13 から 4.15(5点中、部分 η² = 0.571)に、学生を支える力量が 3.05 から 3.98(0.482)に上昇し、いずれも有意でしたが、価値のすべての下位領域は Bonferroni 補正された α = .006 のもとで統計的に平坦なままでした。教師はこの伸びを、ワークショップだけではなく校内での共同計画と学校間のクラスター会議に帰しました([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang 他, 2026]])。
+- **AIの授業計画は基準線であり、媒介こそがコンピテンシーである。**AIが生成した授業計画を改訂した26人の初任教師は、課題を書き換え、モデリングと言語の支援を加え、目的を明確にし、教室の物流に合わせて順序を組み直し、自分の役割を、出力を受け入れることではなく検討し定制することとして描写しました([[wilcoxen-steiner-bell-ai-lesson-planning-2026|Wilcoxenら、2026]])。
 - **マイクロラーニングは大学教員のAIコンピテンシーを発達させうる。** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky (2026)]]は、2回のオンラインでの集団討議を経て、[[vocational-education|職業教育]]の2つのモジュールを5つのデザイン原則——明確な構造と見通し、指導とナビゲーションの支援、分割とモジュール化、マルチモーダルな提示、学習者の活性化——に洗練させ、プラットフォームのナビゲーションとモジュールの所在の発見が主な実践的な障壁であることを見出しました。
 
 - **採用の意図は欲求の満足の上で動く。** 146 人の教師の構造モデルでは、コンピテンス欲求の満足が、[[motivation|内発的動機づけ]]と専門能力開発への関与を通じて GenAI を利用する意図を予測し（間接効果 0.233）、自律性と関係性の満足は予測しませんでした（[[yuan-teacher-need-satisfaction-genai-2026|Yuan et al., 2026]]）。
+
+時間割上の時間なしの訓練は学生に届きません。iRAISEの2026年の4カ国レビューはこの点を構造的に述べます。カリキュラム、教師の訓練、教材は、学校がデジタル・AIリテラシーを教える時間を確保しない限り——専用の授業や教科を横断するプロジェクトを通じて——限られた影響しか持ちません。そしてそれは、既存のどの内容や活動が削減され、置き換えられるかについての決定を強います([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]])。このレビューはまた、訓練を報酬のある労働時間の内側に置き、初任の教師教育から始めてキャリアを通じて続け、教科と役割によって差別化します。能力を個人の達成ではなく労働条件として扱う条件です。その4つの事例研究のすべてで、何かが使われたかどうかを決めたのは、道具の入手可能性ではなく教師の自信でした。
+
+## 教師のAIリテラシーの測定
+
+[[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]]は、434人の現職教師を対象に、TAMに基づく診断的な測定器具を検証しました。カリキュラム計画における生成的AI利用のデジタル・コンピテンシーについては、行動の意図が主要な予測変数であり、自己効力感が根本的な駆動因でした。
+
+心理測定の研究は、[[teacher-education|言語教師教育]]の中でAIリテラシーを測定する教師のAIリテラシー尺度(TAILS)を開発し、ED-AI枠組みの6つの次元を具体化しました。この測定器具は、学生や一般の利用者向けに書かれた評価の欠落を埋めるものです。
+
+測定器具の状況自体もその後レビューされています。[[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat の2026年の教師AIリテラシー測定器具に関するシステマティックレビュー]]は、入手可能な尺度が実際に何を測り、どこで分岐するかを比較しており、どれかを採用する前にまず読むべきものです。
+
+測定は個人を正しい単位と想定しますが、役割の分配はその想定を弱めます。[[chen-future-faculty-development-ai-2027|Chenら(2026)]]は、7つの教師の役割のうち5つを教授チームに分配しながら、基礎的な技術的・倫理的な能力は全員に共通に保ちます。したがって個人のスコアが記述するのは、コースが実際に動いている能力ではなく、一人の貢献分なのです。個人だけを測定するプログラムは、十分な人員のチームを、部分的な教師の集まりとして読むことになります。
 
 ## 教師の AI リテラシーと変容する教師の役割
 
 AI が日常的な指導と評価の作業を引き受けるにつれて、教師の独自の貢献は、AI をいつどう使うかの決定、学生の[[agency|行為主体性]]と批判的な利用の支え、公正性の確保、そして AI にはできない社会的・情緒的な支援へと移ります。これは教師のリテラシーを[[human-in-the-loop-ai|人間が監督する]]監視、[[ethics|倫理的判断]]、そして[[self-regulated-learning|自己調整学習の支援]]を中心に再枠づけます——[[teacher-role]]と[[cognitive-offloading|過度の依存への警戒]]につながります。
 
-## AI 教育への示唆
+## 実践への含意
 
-- **自己申告だけでなくパフォーマンスを評価する:** 記録された自己申告の乖離を踏まえ、教師のリテラシーは実証を通じて評価されるべきです。
-- **ツールだけでなく完全なリテラシーを訓練する:** PD は技術的・教授学的・評価・倫理的次元を、[[learning-theories|学習理論]]に根ざしてともに築くべきです。
-- **スキルと並んで自信を築く:** 態度と[[self-efficacy]]は導入を形づくるため、PD は不安を減らし、本物で支えられた実践を通じて自信を築くべきです。
-- **制度的な層を支える:** 持続可能な教師のリテラシーには、孤立した訓練ではなく整合した政策、ガバナンス、能力が必要です。
+教員開発の担当者は、専門性開発を道具の流暢さではなく教授学的なAIの知識に向けられます。教授学的な内容の知識を築いたプログラムは、事前・事後の大きな伸びを報告しており、天井は単発のワークショップが示唆するよりも高いことがうかがえます。そしてレビューされた研究では、技術的な訓練だけでは学生の認識を動かしていません。
 
-- **GenAI による[[curriculum-design|カリキュラム設計]]のための教師のデジタル・コンピテンシー。** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]]は、434人の現職教師を対象に TAM に基づく診断的測定器具を検証しました。行動の意図がカリキュラム計画での GenAI 利用のデジタル・コンピテンシーの主要な予測変数であり、自己効力感が根本的な駆動因でした。
+教師教育者は、プロンプト訓練が買う2つのものを分けられます。準備にかかる時間の節約はひとつの便益であり、より良い教材はもうひとつです。証拠は前者を支持しますが、後者は支持しません。両方を約束するプログラムは、質で期待を裏切ることになります。
 
-### 教師の AI リテラシーのための心理測定の測定器具
+教員は、エージェントへの指示を順序づけられた手順として書けます。教師が自然言語でチャットボットを設定したとき、支配的な失敗は誤った事実ではなく、飛ばされた作業の段階でした。したがって練習する価値のある技能は、内容について詳しく述べることではなく、順序と前提条件を特定することです。
 
-- 心理測定の研究は、教師の AI リテラシー尺度(TAILS)を開発し、[[teacher-education|言語教師教育]]の中での AI リテラシーを、ED-AI 枠組みの6つの次元を具体化して測定しました。この測定器具の開発は、学生や一般の利用者を対象とする評価の欠落を埋め、教師の AI リテラシーの測定を支えます。
+学校の管理職は、能力を使えるものにする条件に資金を出せます。報酬のある労働時間、時間割上の位置づけ、主題特有の支援です。iRAISEの比較は、道具がそもそも使われるかどうかを教師の自信が決めていたことを見出しました。そして自信は、訓練だけではなく、支援を伴う実践に従います。
 
-測定器具の状況自体がその後レビューされました。[[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore and Maat の2026年の教師 AI リテラシー測定器具に関するシステマティックレビュー]]は、2019年から2025年の間に公表された33の測定器具を評価し、この分野が方法的に単調であることを見出しました。31件(93.9%)は知覚された自信についての自己申告尺度で、知識を客観的に試すものはわずか2件(6.1%)で、パフォーマンスに基づく課題を用いるものはありませんでした。内的整合性が最も強かった質の領域で(33件中28件がグレード A)、公平性が最も弱く、5つの測定器具(15.2%)が測定不変性または項目機能差異の証拠を報告していました。内容も技術に遅れており、29の測定器具(87.9%)が一般的な AI の概念を対象とし、生成 AI に取り組むものはわずか4つ(12.1%)で、いずれも2025年のものでした。
+学科の主任は、実演によって能力を評価できます。自己報告の尺度と実演は乖離し、ここでレビューされた測定器具は非常に異なる構成概念を測っています。したがって、実際に教えた授業や採点した学生の成果のポートフォリオのほうが、準備状況の調査よりも多くを語ります。
 
 ## よくある誤解
 
@@ -173,15 +199,18 @@ AI が日常的な指導と評価の作業を引き受けるにつれて、教�
 
 ## 関連する記事
 
-- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — Chemistry teachers' research competence following AI-supported professional development: a mixed-methods pre–post study
-- [[walkington-teacher-in-loop-personalized-tasks-2026]] — Teacher-in-the-loop personalization of middle school mathematics tasks with ChatGPT (Walkington et al. 2026)
+- [[feng-ai-literacy-psychological-dimensions-2026]] — 教師のAIリテラシーの6つの次元。文脈的な知識と継続的な専門的成長を含む(Feng & Carolus 2026)
+- [[ding-genai-colleague-teacher-depletion-2026]] — デザイン専攻の教師436人:能力の伸びとAI不安が同時に上がるため、結果を決めるのは訓練ではなく支援である(Dingら 2026)
+- [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISEの4カ国レビュー:194カ国のうち84がMILを技術的技能の先へとカリキュラムに持ち込み、4つの制度すべてで人間的な要因が成果を決めた(Cerioli 2026)
+- [[wilcoxen-steiner-bell-ai-lesson-planning-2026]] — 初任教師26人がAIの授業計画を改訂し、適応が最大の隔たりだった(Wilcoxenら 2026)
+- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — AI支援の専門性開発後の化学教師の研究能力:混合研究法による事前・事後研究
+- [[walkington-teacher-in-loop-personalized-tasks-2026]] — ChatGPTによる中学校数学課題の教師参加型の個人化(Walkingtonら 2026)
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — どの教師が計画の時間を得たか。教科知識への自信が低い、教授学的知識が低い、職歴が短い、または技術への自信が高い教師
 - [[ai-misconceptions-indonesian-k12-teachers-2026]] — 教師はAIを受け入れながら、それがどう働くかを誤解している(Aji et al. 2026)
 - [[manto-ai-integration-mathematics-education-systematic-review-2026]] — 54の数学教育研究で最も頻繁に報告された課題としての教師の準備の程度と技術的・教授学的統合(Manto et al. 2026)
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — マルチモーダルな評価リテラシー:知識と力量は動き価値は動かなかった1年間のプログラム
 - [[teacher-ai-literacy-professional-development-meta-2026]]
 - [[intelligent-tpack-pd-intervention-hongkong-2025]] — Intelligent-TPACK PD:標準偏差半分の伸びと、再較正として読める負の伸び — K-12 教師の AI リテラシーに対する専門能力開発プログラムの影響:システマティックレビューとメタ分析
-
 - [[ailithub-ai-literacy-case-infrastructure-2026]] — 教師は自分の教室での AI の事例にタグ付けし、実践的なリテラシーには容易に到達したが社会的・倫理的なものにはまれにしか到達しなかった(Wang 他 2026)
 - [[typology-generative-ai-tools-education-2026]] — 教育者の行為主体性の行使としてのツールの選択
 - [[generative-ai-k12-teaching-learning-systematic-review-2026]] — K-12 の教育と学習における生成 AI のシステマティックレビュー(Marzano 2026)
@@ -226,9 +255,14 @@ AI が日常的な指導と評価の作業を引き受けるにつれて、教�
 - [[teachers-configure-educational-chatbots-2026]] — 意図通りに教えるだろうか:教師は教育用 AI チャットボットをどう設定するか
 - [[capability-decision-model-teacher-readiness-2026]] — パフォーマンスに基づく能力指標を伴う、能力優先の順序づけられた教師の準備の程度のモデル
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — 1,405人の K-12 教師の横断的な調査:準備の程度は肯定的な信念を予測するが懸念は予測しない
-- [[microlearning-ai-modules-vocational-teacher-education-2026]] — Designing Microlearning Modules on AI for University Teachers in Vocational Teacher Education: A Design-Based Research Study
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — TALIS 2024 の4つの教師の信念プロファイルは専門的な学びとプロファイル固有の障害を AI の利用に結びつける
+- [[microlearning-ai-modules-vocational-teacher-education-2026]] — 職業教育の大学教員向けAIマイクロラーニングモジュールの設計:デザインに基づく研究
 - [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild:教師が設定したチャットボットが実世界でどう失敗するか、そしてどう直すか
 - [[chen-ai-visualization-teaching-competency-scale-2026]] — AIを活用した教員の視覚化教授コンピテンシー尺度の開発と検証
-- [[bursic-ai-residency-education-curriculum-2026]] — Barriers to integrating AI into residency curricula: qualitative interviews with twelve physician leaders
-- [[yuan-teacher-need-satisfaction-genai-2026]] — Teachers' basic psychological need satisfactions and their intentions to use generative artificial intelligence: the mediating role of engagement in professional development
+- [[bursic-ai-residency-education-curriculum-2026]] — レジデンシーのカリキュラムへのAI統合の障壁:12人の医師リーダーへの質的インタビュー
+- [[yuan-teacher-need-satisfaction-genai-2026]] — 教師の基本的心理欲求の満足と生成的AI利用の意図:専門性開発への関与の媒介役割
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — スカンディナビアの教師の生成的AIへの態度:関連の探究
+- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — 教員の自己評定のコンピテンシー帯域は、個人の属性よりも所属機関から主に予測される
+- [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — 採用は専門分野ごとに判断され、学生の推論が主な懸念である
+- [[chen-future-faculty-development-ai-2027]] — 能力は教授チームに分配され、基礎的な技術的・倫理的な能力は全員に共通して保たれる
+- [[ji-judgement-space-dialogic-inquiry-2027]] — フレームワークは能力を列挙し、判断の条件を理論化しないままにする

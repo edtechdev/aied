@@ -9,14 +9,18 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-11-04T15:40:00-05:00"
-updated: "2026-11-08T06:31:30-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -39,12 +43,12 @@ Koncept počiva na dokazima da zloupotreba umjetne inteligencije aktivno šteti 
 
 Mehanizam kojim zloupotreba nastaje sada ima iza sebe izmjereni lanac. [[guo-overreliance-genai-feedback-2026|Guo i Dong (2026.)]] anketirali su 600 studenata preddiplomskog studija i utvrdili da percipirano kognitivno opterećenje predviđa kognitivno rasterećenje s β = 0,844 u skupini s niskim praćenjem i β = 0,840 u skupini s visokim. Rasterećenje je zatim predviđalo pretjerano oslanjanje na povratne informacije umjetne inteligencije s β = 0,396 odnosno 0,506, uz neizravne učinke od 0,335 [0,069; 0,611] i 0,426 [0,149; 0,648]. Opterećenje je i izravno predviđalo pretjerano oslanjanje (β = 0,560 i 0,419), pa je rasterećenje djelomični posrednik, a prethodnik na koji strukturna poluga može djelovati jest samo opterećenje.
 
-### Zašto su strukturne poluge najvažnije
+## Zašto su strukturne poluge najvažnije
 
 Intervencije se mogu poredati prema **kauzalnim dokazima × strukturnom dosegu × skalabilnosti × [[sustainability|održivosti]]**. Na tom temelju dvije *strukturne* poluge rangiraju najviše jer djeluju bez obzira na to odabere li učenik ispravno ponašanje: one ograničavaju okruženje, umjesto da ovise o unutarnjoj motivaciji. *Obrazovne* su poluge nužne, ali djelotvorne samo kada ih učenici prihvate, pa se tretiraju kao druga razina unatoč konceptualnom obećanju. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher i Calderon (2025.)]] podižu strukturni argument na višu razinu, tretirajući upravljanje, a ne ponašanje učenika, kao obvezujuće ograničenje, i predlažu okvir od 130 pokazatelja čestitosti kako bi akademske upravljačke strukture mogle vidjeti je li procjena autentična, poznaju li nastavnici koji ocjenjuju učenike pojedinačno i pojavljuje li se čestitost u uvodnim i orijentacijskim programima. Njihove reforme ciljaju arhitekture upravljanja, ljude te [[ai-technologies|tehnologije i resurse]], i predlažu posuđivanje [[guardrails|crvenog tima]] iz kibernetičke sigurnosti kako bi se ranjivosti procjene razotkrile prije nego što ih učenici pronađu: podsjetnik da strukturni pod održavaju institucije koje trebaju i informaciju i volju da ga održavaju.
 Literatura o odgovornoj upotrebi rijetko sama testira lanac koji to rangiranje pretpostavlja. Od 122 zapisa o pristupima iz 31 studije, 51 su bili i provedeni i evaluirani, uglavnom kroz [[self-report-measures|samoprocjenu]], a samo četiri studije definirale su granicu, osmislile intervenciju oko nje i provjerile jesu li odluke učenika usklađene s njom ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega i Zhao (2026.)]]).
 
-### Razina 1: izravno dokazano da smanjuje štetu za učenje
+## Razina 1: izravno dokazano da smanjuje štetu za učenje
 
 **Oblikovanje alata s zaštitnim ogradama („poticaj, a ne odgovor“ kroz [[scaffolding|postupno skidanje potpore]]).** U najsnažnijem kauzalnom nalazu u bazi znanja terenski [[rct|randomizirani kontrolirani pokus]] pokazao je da je tutor u stilu ChatGPT-a bez ograde podigao uspjeh u vježbi s pomoći za **48%**, ali snizio ocjene na ispitu bez pomoći za **17%**, dok je tutor s ogradom (poticaji umjesto odgovora, uz podatke o problemu koje su napisali nastavnici) štetu u potpunosti uklonio. To mehanički sprječava ponašanje „štake“ prepisivanja odgovora koje stoji za štetom. Aktivnosti uključuju podučavanje poticajima umjesto odgovorima, popunjavanje poticaja točnim rješenjima i uobičajenim [[misconceptions|zabludama]] te zahtjev da učenik prvo pokuša prije nego što se otkrije rezultat umjetne inteligencije.
 
@@ -54,7 +58,7 @@ Literatura o odgovornoj upotrebi rijetko sama testira lanac koji to rangiranje p
 
 Strukturne poluge imaju i provedbeni krak, a njegova je baza dokaza slabija od dosega koji sugerira. [[munoz-misconduct-allegation-evidence-2026|Munoz i sur. (2026.)]] kodirali su 1.162 slučaja nedoličnog ponašanja s generativnom umjetnom inteligencijom i našli da su dokazi najčešće citirani u trenutku optužbe (rezultat [[ai-detection|detektora]], izvješća o sličnosti, obrasci sadržaja tipični za umjetnu inteligenciju) nosili najslabiju dokaznu vrijednost, dok su priznanja, opaženo ponašanje na ispitu i neovisno provjerene izmišljene reference bili najsnažniji; budući da institucionalni postupci ne postavljaju minimalni dokazni prag, kvaliteta dokaza nije imala pouzdan odnos s ishodima slučajeva, a učenici čiji su se slučajevi temeljili na slabim dokazima imali su uglavnom samo žalbu. [[wright-transcription-not-generation-2026|Wright (2026.)]] pokazuje drugi trošak iste nepreciznosti: zabrane napisane oko „generativne umjetne inteligencije“, a ne oko funkcije, obuhvaćaju alate koji samo pretvaraju format rada koji je učenik već napisao, pa se upotreba isključivo za transkripciju može sankcionirati kao nedolično ponašanje: preširok obuhvat koji najteže pogađa [[learners|učenike]] s invaliditetom i one izložene [[equity-in-ai-education|nejednakosti]], a ne čini ništa za [[assessment-validity|valjanost]]. [[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana, Mtshali i Mchunu (2026.)]] dodaju da [[remote-proctoring|daljinski nadzor ispita]], najraširenija kontrola čestitosti, svoj argument o odvraćanju temelji na tome kako se učenici kažu osjećati, a ne na smanjenom nedoličnom ponašanju, i nameće [[anxiety-and-stress|anksioznost]], gubitak koncentracije i isključenost zbog infrastrukture za koju nije pokazano da je rješava manja zloupotreba. [[li-genai-assessment-language-equity-2026|Li (2026.)]] dodaje dimenziju oblikovanja pravila: budući da isto sučelje obavlja dopušteno jezično uređivanje i zabranjeno sadržajno sastavljanje, nediferencirana pravila o generativnoj umjetnoj inteligenciji nameću obveze usklađenosti nerazmjerno nagnute prema skupini učenika koji engleski upotrebljavaju kao dodatni jezik, pa je obranjivija prevencija granica između potpore i zamjene utemeljena na svrsi i usidrena u konstruktu procjene, uz kalibrirano objavljivanje, proporcionalnost stupnjevanu kroz odluke o pragu, dokazima i sankciji te dizajnerske poluge (stupnjevane predaje, kratka usmena provjera usklađena s konstruktom, pitanja utemeljena na kritici) koje obavljaju posao koji otkrivanje ne može. Prevencija mora pokriti i sam alat za ocjenjivanje: [[humble-prompt-injection-ai-grading-red-team-2026|Humbleovo (2026.)]] crveno-timsko ocjenjivanje našlo je da su dvije od pet strategija neizravnog ubacivanja poticaja ugrađenih u datoteku predaje podigle esej koji nije prolazio do prolaza neotkriveno, uz prijavljene stope uspjeha od 100% i 94%, pa ondje gdje alati umjetne inteligencije ocjenjuju rad učenika, [[human-in-the-loop-ai|ljudski pregled]], jasnije razdvajanje uputa od predanog sadržaja i testiranje otpornosti pripadaju u strukturni pod, a ne u neobveznu razinu.
 
-### Razina 2: snažna potpora okvira, visok potencijal
+## Razina 2: snažna potpora okvira, visok potencijal
 
 **Sekvence upotrebe s postupnom potporom: prvo misliti, zatim umjetna inteligencija, zatim refleksija.** Osam načela oblikovanja za integriranje LLM-ova bez potiskivanja [[critical-thinking|kritičkog mišljenja]]: sačuvati kognitivno trenje, postaviti umjetnu inteligenciju kao privremenog partnera u razmišljanju, a ne kao autoritet, ugraditi kontrolne točke vrednovanja, zahtijevati [[metacognition|metakognitivno]] vođenje dnevnika i zapise poticaja te uravnotežiti faze posredovane umjetnom inteligencijom s fazama bez nje. Korelacijski dokazi (samostalan rad prije umjetne inteligencije daje snažnije rezultate) snažni su; to je pedagoški potpuna inačica Razine 1.
 
@@ -64,7 +68,7 @@ Strukturne poluge imaju i provedbeni krak, a njegova je baza dokaza slabija od d
 
 Obrazovne poluge izgledaju drukčije kada se čestitost tretira kao praksa koju treba poučavati, a ne kao pravilo koje treba provoditi. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026.)]] tvrdi da su režimi čestitosti utemeljeni na otkrivanju i provjeri neusklađeni s radom pojačanim generativnom umjetnom inteligencijom i preoblikuje čestitost u pedagošku praksu koja se ostvaruje kroz [[evaluative-judgment|procjenjivačku prosudbu]] (sposobnost učenika da odvaže mogućnosti, opravda akademske odluke i preuzme odgovornost u nesigurnosti), učinjenu vidljivom kroz artefakte kao što su anotirani tragovi odluka, dokumentirana provjera, [[oral-assessment|usmena obrana]] i povijesti verzija od nacrta do nacrta, pri čemu je otkrivanje degradirano na jedan dopunski sloj, a ne na glavnu infrastrukturu. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa i Mezgebu (2026.)]] isti otvor nalaze s učenikove strane: u 27 intervjua na jednom etiopskom [[higher-ed|sveučilištu]] upotreba je bila gotovo univerzalna, većina sudionika pripisivala je generativnoj umjetnoj inteligenciji porast postignuća, a najoštrija je pritužba išla u drugom smjeru: korisnici umjetne inteligencije dobivali su bolje ocjene od marljivih samostalnih radnika, što su sudionici opisali kao demotivirajuće. Autori zaključuju da uvjerenja učenika bolje predviđaju etičku upotrebu nego institucionalna pravila, pa svijest, jasna politika i preoblikovanje procjene moraju stići zajedno: to je obrazovna razina sa stranice izrečena kao uvjet, jer izgradnja sposobnosti mijenja ponašanje samo kroz [[framing-ai-use-for-students|prihvaćanje među učenicima]] popraćeno strukturnim podom. [[ji-student-voices-academic-integrity-scoping-2026|Jijev (2026.)]] [[meta-analysis-systematic-review|pregled opsega]] 38 studija o glasovima učenika daje inačicu istog zaključka na razini područja: pregledane studije konvergiraju prema pomaku s retrospektivnog otkrivanja na proaktivno etičko rasuđivanje, prema poučavanju etike umjetne inteligencije i „AI-plagiranja“ u [[curriculum-design|kurikulumu]], a ne u jednokratnim sesijama [[ai-literacy|pismenosti]], i prema detaljnim smjernicama koje zajedno stvaraju voditelji, nastavnici i učenici, jer se nejasne smjernice čitaju kao prešutno dopuštenje, a ne kao oprez. Ji vlastito čitanje vidi u tome da vlasništvo i moralno rasuđivanje motiviraju učenike više od straha od kazne, i da učenici nisu ni pasivni primatelji generativne umjetne inteligencije ni krivci bez moralnog ograničenja, nego moralni akteri koji rade u sivoj zoni: premisa ove razine izrečena kao nalaz.
 
-### Razina 3: obećavajuće, slabiji izravni kauzalni dokazi
+## Razina 3: obećavajuće, slabiji izravni kauzalni dokazi
 
 **Metakognitivne intervencije i intervencije [[self-assessment|samoprocjene]].** [[reflection|Refleksivni dnevnici]], zapisi poticaja i obuka u kalibraciji obnavljaju „odsutnu kognitivnu osnovicu“ učenika odraslih uz umjetnu inteligenciju koji ne mogu locirati vlastitu kognitivnu granicu jer je tečnost koju generira umjetna inteligencija maskira. Konceptualno središnje, ali još nije kauzalno testirano.
 
@@ -76,17 +80,7 @@ Obrazovne poluge izgledaju drukčije kada se čestitost tretira kao praksa koju 
 
 - **[[desirable-difficulties|Produktivno trenje]] i pedagoška funkcija.** Sydneyski brzi pregled tvrdi da generativna umjetna inteligencija potkopava učenje kada učenicima omogući da zaobiđu kognitivno i metakognitivno trenje potrebno za učenje, i da namjerno oblikovani alati uvode *produktivno trenje* (uskraćivanje odgovora, traženje objašnjenja). Razlikuje četiri pedagoške funkcije: učenje *od*, *s*, *o* i *oblikovanjem* generativne umjetne inteligencije, svaka sa svojim zahtjevima prema djelotvornosti i procjeni ([[young-people-learning-generative-ai-rapid-review-2026]]).
 
-## Uobičajene zablude
-
-**„Poučavanje učenika o rizicima glavna je poluga protiv zloupotrebe.“** To je poluga koja ovisi o suradnji učenika, zato je ovdje rangirana ispod strukturnih. Ograde i preoblikovanje procjene djeluju bez obzira na to odabere li učenik ispravno ponašanje; obrazovni pristupi djeluju samo uz prihvaćanje. Razlika nije moralna, nego mehanička: promijenjeno okruženje izravno ograničava ponašanje, dok promijenjeno uvjerenje mora preživjeti noć prije roka.
-
-**„Ako ograda drži tijekom sesije, učenje je osigurano.“** Držanje i poučavanje odvojeni su ishodi, a korpus sadrži čist dvostruki rezultat. Uskraćivanje zajedničkog stava u raspravi [[agentic-ai|više agenata]] smanjilo je prelazak učenika na netočan stav umjetne inteligencije s 42 do 60,5% na 5,7 do 8,2%, što je snažan zaštitni učinak, ali nije proizvelo **nikakav učinak na učenje unutar sesije** (β = 0,03, p = 0,18). Ograda je odradila svoj posao kao ograda i nije postala poduka. Oblikovati za prevenciju zloupotrebe nije isto što i oblikovati za učenje.
-
-**„Otkrivanje zloupotrebe i kažnjavanje strategija je prevencije.“** Prevencija mora pokriti i sam alat za ocjenjivanje. [[humble-prompt-injection-ai-grading-red-team-2026|Humbleovo (2026.)]] crveno-timsko ocjenjivanje našlo je da su dvije od pet strategija neizravnog ubacivanja poticaja ugrađenih u datoteku predaje podigle ocjenu eseja koji nije prolazio. Tijek rada koji otkriva zloupotrebu među učenicima, a vjeruje nepregledanom sadržaju predaje, branjen je samo s jedne strane.
-
-**„Zloupotreba je problem motivacije učenika.“** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher i Calderon (2025.)]] podižu obvezujuće ograničenje na višu razinu, tretirajući upravljanje, a ne ponašanje učenika, kao ono što treba mijenjati, i predlažu okvir od 130 pokazatelja čestitosti. A šteta za učenje mjerljiva je na razini opsega: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei i Wu (2026.)]] našli su da je prenošenje domaće zadaće podiglo ocjene iz zadaće za 18%, dok je *snizilo* ocjene na ispitu bez literature za 20%: dizajnerski propust koji se pojavljuje upravo u jazu o kojem govori ova stranica.
-
-## Smjernice za provedbu prema ulozi
+## Implikacije za praksu
 
 **Za nastavnike i timove kolegija**
 
@@ -104,6 +98,16 @@ Obrazovne poluge izgledaju drukčije kada se čestitost tretira kao praksa koju 
 **Za administratore i kreatore politika**
 
 - Postavite obvezujuće ograničenje ondje gdje ga dokazi postavljaju. Pokazatelji i strukture upravljanja bave se okruženjem; poticanje učenika bavi se osobom koja najmanje može promijeniti institucionalno oblikovanje.
+
+## Uobičajene zablude
+
+**„Poučavanje učenika o rizicima glavna je poluga protiv zloupotrebe.“** To je poluga koja ovisi o suradnji učenika, zato je ovdje rangirana ispod strukturnih. Ograde i preoblikovanje procjene djeluju bez obzira na to odabere li učenik ispravno ponašanje; obrazovni pristupi djeluju samo uz prihvaćanje. Razlika nije moralna, nego mehanička: promijenjeno okruženje izravno ograničava ponašanje, dok promijenjeno uvjerenje mora preživjeti noć prije roka.
+
+**„Ako ograda drži tijekom sesije, učenje je osigurano.“** Držanje i poučavanje odvojeni su ishodi, a korpus sadrži čist dvostruki rezultat. Uskraćivanje zajedničkog stava u raspravi [[agentic-ai|više agenata]] smanjilo je prelazak učenika na netočan stav umjetne inteligencije s 42 do 60,5% na 5,7 do 8,2%, što je snažan zaštitni učinak, ali nije proizvelo **nikakav učinak na učenje unutar sesije** (β = 0,03, p = 0,18). Ograda je odradila svoj posao kao ograda i nije postala poduka. Oblikovati za prevenciju zloupotrebe nije isto što i oblikovati za učenje.
+
+**„Otkrivanje zloupotrebe i kažnjavanje strategija je prevencije.“** Prevencija mora pokriti i sam alat za ocjenjivanje. [[humble-prompt-injection-ai-grading-red-team-2026|Humbleovo (2026.)]] crveno-timsko ocjenjivanje našlo je da su dvije od pet strategija neizravnog ubacivanja poticaja ugrađenih u datoteku predaje podigle ocjenu eseja koji nije prolazio. Tijek rada koji otkriva zloupotrebu među učenicima, a vjeruje nepregledanom sadržaju predaje, branjen je samo s jedne strane.
+
+**„Zloupotreba je problem motivacije učenika.“** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher i Calderon (2025.)]] podižu obvezujuće ograničenje na višu razinu, tretirajući upravljanje, a ne ponašanje učenika, kao ono što treba mijenjati, i predlažu okvir od 130 pokazatelja čestitosti. A šteta za učenje mjerljiva je na razini opsega: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei i Wu (2026.)]] našli su da je prenošenje domaće zadaće podiglo ocjene iz zadaće za 18%, dok je *snizilo* ocjene na ispitu bez literature za 20%: dizajnerski propust koji se pojavljuje upravo u jazu o kojem govori ova stranica.
 
 ## Povezani koncepti
 
@@ -123,6 +127,8 @@ Obrazovne poluge izgledaju drukčije kada se čestitost tretira kao praksa koju 
 - [[cognitive-surrender]]
 
 ## Povezani članci
+
+
 - [[ivory-psychology-assessment-integrity-2026]] — Tragovi dokaza u sustavu kontrole verzija i reproducibilni analitički dokumenti kao odvraćanje od zloupotrebe (Ivory i sur. 2026.)
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Uskraćivanje preporuke uvelike je spriječilo pretjerano oslanjanje, a da nije izgradilo prosudbu koju štiti
 - [[generative-ai-guardrails-harm-learning]] — Generativna umjetna inteligencija bez ograda može naškoditi učenju

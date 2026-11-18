@@ -1,7 +1,7 @@
 ---
 title: "AI i uddannelse"
 created: "2026-10-15T14:22:00-04:00"
-updated: "2026-11-08T06:13:34-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/ai-education"
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-17T08:15:00-05:00"
 translation_note: "*Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*"
 contributors: [editor]
 ai_assist:
@@ -26,9 +26,13 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
-*Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
 
+*Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
 > **AI i uddannelse (AIED)** — det brede, tværfaglige felt, der anvender kunstig intelligens til undervisning og læring, og som undersøger dens design, anvendelse, evaluering og konsekvenser. Som vidensbasens paraplybegreb omfatter AI i uddannelse både **AI til uddannelse** (brug af AI til at forbedre undervisning og evaluering) og **uddannelse om AI** (udvikling af AI-kompetencer og kritisk forståelse). Feltet befinder sig i skæringspunktet mellem undervisningsteknologi, de [[learning-sciences|læringsvidenskaber]] — det empiriske forskningsfelt, der spørger, om den studerende har forandret sig, snarere end kun om et værktøj virkede — datalogi, [[educational-policy-ai|uddannelsespolitik]], [[ethics|etik]] og [[equity-in-ai-education|ligestilling]]. Denne side er en introduktion til feltet og et kort over alle begreber, som vidensbasen dækker.
 
 ## Spørgsmål at overveje
@@ -53,9 +57,9 @@ Vidensbasens dækning af begreber er forankret i flere **paraplysider**, der gru
 - **AI i uddannelse** — denne side, feltets overblik og kort over al dækning.
 - **[[ai-literacy|AI-kompetence]]** — paraplyen for at forstå, bruge og kritisk vurdere AI, omfattende [[prompt-engineering|promptkonstruktion]], [[critical-thinking|kritisk tænkning]], [[ethics|AI-etik]] og [[reducing-ai-misuse|ansvarlig brug]]. Sammen med den indrammer [[human-ai-collaboration|menneske–AI-samarbejde]] og [[agentic-ai|agentbaseret AI]], hvordan mennesker og AI arbejder sammen.
 - **[[pedagogy|Pædagogikker og undervisningsstrategier]]** — paraplyen for, hvordan undervisning foregår: de undervisningsmetoder og -strategier, som AI opererer inden for ([[active-learning|aktive]], [[collaborative-learning|samarbejdsbaserede]], [[project-based-learning|projektbaserede]], [[problem-based-learning|problembaserede]], [[experiential-learning|erfaringsbaserede]], [[game-based-learning|spilbaserede]], [[socratic-method|sokratiske]], [[scaffolding|stilladsning]] og flere), herunder den særlige kontekst [[online-teaching-and-learning|online undervisning og læring]].
-- **[[learning-theories|Læringsteorier]]** — paraplyen for, hvordan læring foregår: de teoretiske rammer ([[behaviorism|behaviorisme]], [[cognitive-psychology|kognitivisme]], [[constructivist|konstruktivisme]], [[sociocultural-learning|sociokulturelt]], kognitive, [[motivation|motiverende]]), der former AI-design og -evaluering.
+- **[[learning-theories|Læringsteorier]]** — paraplyen for, hvordan læring foregår: de teoretiske rammer ([[behaviorism|behaviorisme]], [[cognitive-psychology|kognitivisme]], [[constructivist|konstruktivisme]], [[sociocultural-learning|sociokulturelt]], [[developmental-psychology|udviklingspsykologi]], kognitive, [[motivation|motiverende]]), der former AI-design og -evaluering.
 - **[[ai-technologies|Teknologier]]** — paraplyen for det tekniske lag: AI-systemerne ([[llm|LLM'er]], [[generative-ai|generativ AI]], [[multimodal]], [[educational-robotics|robotik]]) og teknikkerne ([[rag]], [[prompt-engineering|promptkonstruktion]], [[reinforcement-learning|forstærkende læring]], [[llm-training-and-fine-tuning|modeltræning]], [[agentic-ai|agentbaseret orkestrering]]), der driver AIED. Elevmodelleringsfamilien — [[knowledge-tracing|videnssporing]], [[cognitive-diagnosis|kognitiv diagnose]], [[simulating-students|simulering af elever]] og de systemer, der forbruger dem ([[intelligent-tutoring|intelligent undervisning]], [[adaptive-learning|adaptiv læring]], [[personalized-learning|personaliseret læring]]) — er grupperet under paraplyen [[student-modeling|Elevmodellering og adaptiv undervisning]] inden for dette tekniske lag.
-- **[[discipline-specific-aied|AI i fagene]]** — paraplyen for, hvordan AI anvendes på tværs af fagområder ([[math-education|matematik]], [[physics-education|fysik]], [[language-learning|sproglæring]], [[cs-education|datalogi]], [[writing-education|skriftlig fremstilling]], [[stem-education|STEM]], [[engineering-education|ingeniørvidenskab]], [[business-education|erhvervsliv]], [[teacher-education|læreruddannelse]], [[medical-education|sundhedsfag]] og flere) — og, forbi de akademiske fag, den professionelle og anvendte gren, der vurderer demonstreret praksis frem for korrekthed ([[nursing-education|sygepleje]], [[information-technology|informationsteknologi]], [[vocational-education|erhvervsuddannelse og -træning]], [[design-education|designuddannelse]]) — og uddannelsesniveauer ([[k-12]], [[higher-ed|højere uddannelse]], [[adult-learning|voksenlæring]]).
+- **[[discipline-specific-aied|AI i fagene]]** — paraplyen for, hvordan AI anvendes på tværs af fagområder (matematik, fysik, sproglæring, datalogi, skriftlig fremstilling, [[stem-education|STEM]], ingeniørvidenskab, erhvervsliv, [[teacher-education|læreruddannelse]], [[medical-education|sundhedsfag]], [[humanities-education|humaniora]], [[arts-and-media-education|kunst-, design- og medieundervisning]], [[music-education|musikundervisning]], [[social-sciences-education|samfundsfag]], [[professions-education|professionsuddannelser]], [[legal-education|juraundervisning]], [[libraries|biblioteks- og informationsvidenskab]] og flere) — og, forbi de akademiske fag, den professionelle og anvendte gren, der vurderer demonstreret praksis frem for korrekthed ([[nursing-education|sygepleje]], informationsteknologi, erhvervsuddannelse og -træning, [[design-education|designuddannelse]]) — og uddannelsesniveauer (K-12, højere uddannelse, voksenlæring).
 - **[[assessment]]** (med de [[formative-assessment|formative]], [[summative-assessment|summative]], [[authentic-assessment|autentiske]], [[oral-assessment|mundtlige]] og [[automated-assessment|automatiserede]] grene) — paraplyen for, hvordan AI både evaluerer elever og omformer evalueringens validitet og integritet.
 - **[[feedback]]** — paraplyen for, hvordan feedback genereres, leveres og bruges: feedbackloopet, [[ai-feedback-quality|feedbackkvalitet]], [[feedback-literacy|feedback-kompetence]] og dets evalueringskontekster ([[formative-assessment|formativ]], [[peer-assessment|medelever]], [[automated-assessment|automatiseret]]).
 - **[[stakeholders|Interessenter i AI-uddannelse]]** — paraplyen for, hvem aktørerne er: elever, [[teacher-role|lærere]], [[learning-design|læringsdesignere]], [[administrator|administratorer]] og [[educational-policy-ai|politiske beslutningstagere]].
@@ -83,7 +87,7 @@ Hvordan AI understøtter undervisning og læring, er hjertet af feltet. Nøglebe
 
 - **Kernepædagogikker:** [[pedagogy|pædagogikker og undervisningsstrategier]] — paraplyen for vidensbasens dækning af undervisningsmetoder — sammen med [[pedagogical-patterns|pædagogiske mønstre]] (de afprøvede sekvenser, disse metoder løser sig i), [[active-learning|aktiv læring]], [[collaborative-learning|samarbejdslæring]], [[group-work|gruppearbejde]], [[project-based-learning|projektbaseret læring]], [[problem-based-learning|problembaseret læring]], [[productive-failure|produktivt nederlag]], [[inquiry-based-learning|undersøgelsesbaseret læring]], [[experiential-learning|erfaringsbaseret læring]], [[game-based-learning|spilbaseret læring]], [[learning-by-teaching|læring gennem undervisning]], [[scaffolding|stilladsning]], [[socratic-method|den sokratiske metode]], [[critical-pedagogy|kritisk pædagogik]], [[pedagogical-partnerships|pædagogiske partnerskaber]], [[storytelling-in-education|fortælling]], [[learning-design|læringsdesign]], [[online-teaching-and-learning|online undervisning og læring]] og [[video-education|video i uddannelse]].
 - **Læringsteorier og -processer:** paraplyen [[learning-theories|læringsteorier]] ([[behaviorism|behaviorisme]], [[cognitive-psychology|kognitivisme]], [[constructivist|konstruktivisme]], [[sociocultural-learning|sociokulturelt]], [[distributed-cognition|distribueret kognition]], [[situated-learning|situeret læring]], [[embodied-learning|legemliggjort læring]], [[community-of-inquiry|undersøgelsesfællesskab]]) sidder side om side med elevvendte processer som [[self-regulated-learning|selvreguleret læring]], [[self-determination-theory|teori om selvbestemmelse]], [[motivation|motivation]], [[self-efficacy|selvtillid]], [[self-directed-learning|selvstyret læring]], [[metacognition|metakognition]], [[desirable-difficulties|ønskværdige vanskeligheder]], [[transfer-of-learning|læringsoverførsel]], [[prior-knowledge|forudgående viden]], [[icap-framework|ICAP-kognitivt engagement]], [[reflection|refleksion]], [[refutation-text|modbevisningstekst]], [[retrieval-spacing-interleaving|genkaldelse, spredning og indfleksning]] og [[activity-theory-aied|aktivitetsteori]].
-- **Elevengagement og -oplevelse:** [[student-engagement|elevengagement]], [[help-seeking|hjælpsøgning]], [[social-emotional-learning|social-emotionel læring]], [[well-being|trivsel]], [[creativity|kreativitet]], [[problem-solving|problem-løsning]], [[mastery-learning|mestringslæring]] og [[student-ai-interaction|elev–AI-interaktion]] former, hvordan elever faktisk møder og påvirkes af AI, mens de [[social-norms-ai-use|sociale normer, der fæstner sig omkring AI-brug]], bestemmer, hvor åbent noget af det kan diskuteres. Uden for kurset dækker [[student-support-and-success|elevstøtte og -succes]] det institutionsvendte arbejde — vejledning, opsøgende arbejde, henvisning og fordelingen af knappe støtteressourcer — hvor AI pålideligt flytter opgavefuldførelse, men ikke vedbliven eller færdiggørelse af uddannelsen.
+- **Elevengagement og -oplevelse:** [[student-engagement|elevengagement]], [[help-seeking|hjælpsøgning]], [[empathy|empati]], [[social-emotional-learning|social-emotionel læring]], [[well-being|trivsel]], [[creativity|kreativitet]], [[problem-solving|problem-løsning]], [[mastery-learning|mestringslæring]] og [[student-ai-interaction|elev–AI-interaktion]] former, hvordan elever faktisk møder og påvirkes af AI, mens de [[social-norms-ai-use|sociale normer, der fæstner sig omkring AI-brug]], bestemmer, hvor åbent noget af det kan diskuteres. Uden for kurset dækker [[student-support-and-success|elevstøtte og -succes]] det institutionsvendte arbejde — vejledning, opsøgende arbejde, henvisning og fordelingen af knappe støtteressourcer — hvor AI pålideligt flytter opgavefuldførelse, men ikke vedbliven eller færdiggørelse af uddannelsen.
 
 ## Teknologier og teknikker
 
@@ -98,11 +102,24 @@ Siden [[ai-technologies|Teknologier]] er paraplyen for det tekniske lag:
 
 AI anvendes på tværs af fag og uddannelsesniveauer. Vidensbasens [[discipline-specific-aied|overblik over AIEd i fagene]] kortlægger dækningen af fagområder — sammen med [[learning-sciences|læringsvidenskaberne]], som ikke er et undervist fag, men det tværgående forskningsfelt, der studerer læring i sig selv og behandler fagindhold som én variabel blandt andre:
 
-- **Fagområder:** [[math-education|matematik]], [[statistics-and-data-science-education|statistik og datavidenskab]], [[physics-education|fysik]], [[chemistry-education|kemi]], [[biology-education|biologi]], [[cs-education|datalogi]], [[engineering-education|ingeniørvidenskab]], [[stem-education|STEM]], [[writing-education|skriftlig fremstilling]], [[reading-education|læseundervisning]], [[language-learning|sproglæring]], [[english-education|engelskundervisning (EAP/EFL/ESL)]], [[libraries|biblioteks- og informationsvidenskab]], [[science-education|naturvidenskabsundervisning]], [[environmental-education|miljøundervisning]], [[business-education|erhvervsliv, økonomi og ledelse]], [[humanities-education|humaniora og samfundsvidenskaber]], [[civic-and-political-education|demokratisk og politisk dannelse]], [[arts-and-media-education|kunst-, design- og medieundervisning]], [[medical-education|medicinske og sundhedsfaglige uddannelser]], [[legal-education|juraundervisning]] og de professionelle og anvendte grene — [[nursing-education|sygepleje]], [[information-technology|informationsteknologi]], [[vocational-education|erhvervsuddannelse og -træning]] og [[design-education|designuddannelse]].
+- **Humaniora og kunst:** [[humanities-education|humaniora]], [[arts-and-media-education|kunst-, design- og medieundervisning]], [[music-education|musikundervisning]], [[writing-education|skriftlig fremstilling]], [[reading-education|læseundervisning]], [[language-learning|sproglæring]] og [[english-education|engelskundervisning (EAP/EFL/ESL)]].
+- **Samfundsvidenskab:** [[social-sciences-education|samfundsfag]], [[civic-and-political-education|demokratisk og politisk dannelse]], [[business-education|erhvervsliv, økonomi og ledelse]] og [[environmental-education|miljøundervisning]].
+- **STEM:** [[stem-education|STEM]], [[science-education|naturvidenskabsundervisning]], [[math-education|matematik]], [[statistics-and-data-science-education|statistik og datavidenskab]], [[physics-education|fysik]], [[chemistry-education|kemi]], [[biology-education|biologi]], [[cs-education|datalogi]], [[engineering-education|ingeniørvidenskab]] og [[information-technology|informationsteknologi]].
+- **Professioner:** [[professions-education|professionsuddannelser]], [[medical-education|medicinske og sundhedsfaglige uddannelser]], [[nursing-education|sygepleje]], [[legal-education|juraundervisning]], [[teacher-education|læreruddannelse]], [[design-education|designuddannelse]] og [[libraries|biblioteks- og informationsvidenskab]].
+
+Den klynge, et fag hører til, afgør også, hvilken side der ejer evidensen for det. [[vocational-education|Erhvervsuddannelse og -træning]] er placeret under niveauer snarere end her, fordi det betegner en kvalifikationsvej mere end en disciplin.
 
 ## Niveauer og kontekster
 
-Det samme AI-værktøj møder meget forskellige settinger, og vidensbasen adskiller uddannelsesniveau fra pædagogik, så resultater ikke ubemærket overføres på tværs af dem: [[k-12|K-12-skoler]], [[early-childhood-elementary-ai-education|tidlig barndom og grundskolen]], [[higher-ed|højere uddannelse]], [[adult-learning|voksenlæring]], [[vocational-education|erhvervsuddannelse og -træning]], [[special-education|specialundervisning]] og [[teacher-education|læreruddannelse]]. Domæneadjacente begreber, der gennemskærer niveauer, omfatter [[universal-design-for-learning|universelt design for læring]], [[neurodiversity|neurodiversitet]], [[multilingual-learning|flersproget læring]] og [[social-emotional-learning|social-emotionel læring]].
+Det samme AI-værktøj møder meget forskellige settinger, og vidensbasen adskiller [[education-levels|uddannelsesniveau]] fra pædagogik, så resultater ikke ubemærket overføres på tværs af dem: [[k-12|K-12-skoler]], [[early-childhood-elementary-ai-education|tidlig barndom og grundskolen]], [[primary-education|grundskoleundervisning]], [[secondary-education|sekundæruddannelse]], [[higher-ed|højere uddannelse]], [[undergraduate-education|bachelorstudium]], [[graduate-education|kandidat- og ph.d.-studium]], [[adult-learning|voksenlæring]], [[vocational-education|erhvervsuddannelse og -træning]], [[special-education|specialundervisning]] og [[teacher-education|læreruddannelse]]. Domæneadjacente begreber, der gennemskærer niveauer, omfatter [[universal-design-for-learning|universelt design for læring]], [[neurodiversity|neurodiversitet]], [[multilingual-learning|flersproget læring]] og [[social-emotional-learning|social-emotionel læring]].
+
+## Det samme værktøj, modsatte designvalg
+
+Niveauet er den variabel, der klarest vender en designanbefaling. Evidens fra sekundæruddannelsen placerer læreren mellem elev og værktøj: på tværs af 33 studier kom gevinsterne, hvor eleverne sammenlignede output, og faldt, hvor værktøjet producerede arbejdet ([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca et al. (2026)]]).
+
+Evidens fra kandidatniveau peger den anden vej, mod partnerskab med et ansvarligt menneske. Beredskabsfremmere nåede forsknings-[[self-efficacy|self-efficacy]] gennem vejlederstøtte (β = 0,201 indirekte), ikke gennem værktøjsbrug ([[luo-ai-readiness-graduate-research-self-efficacy-2026|Luo et al. (2026)]]). Et review af ph.d.-vejledning når den samme designkonklusion ud fra etik: legitimitet afhænger af opgaven snarere end af værktøjet, deklaration står i forhold til den intellektuelle betydning, og styring revideres ved milepæle ([[guanilo-pareja-genai-doctoral-supervision-2026|Guanilo Pareja et al. (2026)]]).
+
+Det, der ikke ændrer sig, er, at et menneske holder dømmekraften. Studerende i et kandidatseminar accepterede først AI-output, efter en kyndig gatekeeper havde kontrolleret det, hvilket Chen læser som delegeret snarere end overgivet agens ([[chen-genai-self-directed-learning-graduate-seminar-2026|Chen (2026)]]). Frekvens er det forkerte mål på tværs af niveauer: den forudsagde kandidatkompetence med β = 0,030, når etik og selvregulering kom i modellen ([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova et al. (2026)]]).
 
 ## Evaluering og måling
 
@@ -115,7 +132,7 @@ AI forvandler både, hvordan vi evaluerer elever, og hvordan vi vurderer AI-syst
 
 Hvordan vi ved, om AI virker, er sin egen gren, og vidensbasen behandler den som en sådan:
 
-- **Forskningsmetoder:** [[research-methods-aied|forskningsmetoder i AIED]] som paraply, med [[qualitative-research|kvalitative]], [[quantitative-research|kvantitative]], [[mixed-methods-research|mixed-methods]], [[design-based-research|designbaserede]] og [[usability-research|brugbarheds]] tilgange, plus [[rct|randomiserede kontrollerede forsøg]], [[meta-analysis-systematic-review|meta-analyse og systematisk gennemgang]] og [[network-analysis|netværksanalyse]].
+- **Forskningsmetoder:** [[research-methods-aied|forskningsmetoder i AIED]] som paraply, med [[qualitative-research|kvalitative]], [[quantitative-research|kvantitative]], [[mixed-methods-research|mixed-methods]], [[design-based-research|designbaserede]] og [[usability-research|brugbarheds]] og [[longitudinal-research|longitudinelle]] tilgange, plus [[rct|randomiserede kontrollerede forsøg]], [[meta-analysis-systematic-review|meta-analyse og systematisk gennemgang]] og [[network-analysis|netværksanalyse]].
 
 Feltets eget forskningsarbejde er nu et emne i sin egen ret. [[ai-assisted-educational-research|AI-assisteret uddannelsesforskning]] dækker AI brugt som instrument til litteratursøgning, screening, kvalitativ kodning, analyse og skrivning, herunder praksisforskning som undervisnings- og læringsforskning. Det forbliver adskilt fra de designs, der bruges til at studere, hvad AI gør ved elever.
 
@@ -174,13 +191,16 @@ AI i uddannelse forbinder til hvert begreb i vidensbasen — det er det felt, so
 **'Feltets modenhed kan aflæses af dets publikationsvolumen.'** Volumen og modenhed divergerer; forskningsmetodegrenen dokumenterer tilbagevendende svagheder i design, som volumen ikke retter, og rammer formerer sig hurtigere, end de testes.
 
 ## Forbundne begreber
+
+- [[primary-education]] — AI i grundskolen
+- [[secondary-education]] — AI i mellemtrin og ungdomsuddannelse
+- [[undergraduate-education]] — AI på bachelorniveau
+- [[graduate-education]] — AI på kandidat- og ph.d.-niveau
 - [[pedagogical-patterns]] — De afprøvede sekvenser, der operationaliserer feltets pædagogikker
 - [[ai-literacy]] — paraply: forståelse, brug og evaluering af AI
-
 - [[automation-bias]] — læser-sidens fejl: at acceptere en automatiseret dom uden at kontrollere den
 - [[human-ai-collaboration]] — paraply: hvordan mennesker og AI arbejder sammen
 - [[pedagogy]] — paraply: undervisningsmetoder og -strategier
-
 - [[case-based-learning]] — casemetode, casediskussion og kontrasterende cases
 - [[metaphors-and-analogies]] — hvordan metaforer former AI-forståelse, og hvordan analogier understøtter undervisning
 - [[learning-theories]] — paraply: hvordan læring foregår
@@ -206,17 +226,19 @@ AI i uddannelse forbinder til hvert begreb i vidensbasen — det er det felt, so
 - [[philosophy-of-ai-in-education]] — de filosofiske fundamenter
 - [[theories-and-frameworks]] — kortet over teori- og rammeknuder
 - [[theory-development-aied]] — opbygning og revision af teori
-
 - [[sensor-and-gaze-analytics]] — paraply: sansning af elever gennem blik, EEG og wearables
 - [[ai-avatars-and-synthetic-instructors]] — paraply: syntetiske mennesker, der underviser, vejleder, simulerer og vurderer
 - [[civic-and-political-education]] — fagområde: dannelse til det offentlige liv med et tyndt evidensgrundlag
 
 ## Forbundne artikler
 
-Feltdækkende gennemgange af AI i uddannelse — de studier, der undersøger hele feltet eller et helt uddannelsesniveau frem for et enkelt emne:
-
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — Udviklingen af forskning i AI og uddannelse på tværs af fire årtier (AIxEd-rammen)
 - [[mishra-control-vs-agency-history-2025]] — Kontrol vs. handlingsrum: en historie om AI i uddannelse
 - [[genai-higher-education-systematic-review-2026]] — Generativ AI i højere uddannelse: systematisk gennemgang af 125 studier
 - [[stanford-evidence-base-ai-k12-2026]] — Evidensgrundlaget om AI i K-12: en gennemgang af 818 artikler
 - [[genai-educational-outcomes-meta-analysis]] — Generativ AI og uddannelsesmæssige udfald: omfattende meta-analyse
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 sekundære studier; gevinster hvor eleverne bedømmer output, ikke hvor værktøjet producerer arbejdet
+- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 kandidatstuderende; beredskab nåede self-efficacy gennem vejlederstøtte
+- [[guanilo-pareja-genai-doctoral-supervision-2026]] — review af 61 kilder om etik, feedback og styring i ph.d.-vejledning
+- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — enkeltgruppe-kandidatseminar; gevinster i selvstyret læring uden en uhjulpet test
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 studerende; gab mellem bachelor- og kandidatniveau i etik og selvregulering

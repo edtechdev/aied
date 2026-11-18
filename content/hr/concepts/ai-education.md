@@ -1,7 +1,7 @@
 ---
 title: "Umjetna inteligencija u obrazovanju"
 created: "2026-10-15T14:22:00-04:00"
-updated: "2026-11-08T06:13:34-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/ai-education"
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-17T08:15:00-05:00"
 translation_note: "*Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*"
 contributors: [editor]
 ai_assist:
@@ -25,6 +25,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -83,8 +87,8 @@ Prekogranični i temeljni koncepti područja usidravaju pokrivenost baze znanja 
 To kako umjetna inteligencija podupire poučavanje i učenje, srce je područja. Ključni koncepti uključuju:
 
 - **Temeljne pedagogije:** [[pedagogy|pedagogije i strategije poučavanja]] — krov za pokrivenost metoda poučavanja u bazi znanja — uz [[pedagogical-patterns|pedagoške uzorke]] (ispitane sekvence u koje se te metode razrješavaju), [[active-learning|aktivno učenje]], [[collaborative-learning|suradničko učenje]], [[group-work|rad u grupi]], [[project-based-learning|projektno učenje]], [[problem-based-learning|učenje temeljeno na problemima]], [[productive-failure|produktivno neuspjeh]], [[inquiry-based-learning|istraživačko učenje]], [[experiential-learning|iskustveno učenje]], [[game-based-learning|učenje temeljeno na igrama]], [[learning-by-teaching|učenje poučavanjem]], [[scaffolding|postupno skidanje potpore]], [[socratic-method|sokratska metoda]], [[critical-pedagogy|kritička pedagogija]], [[pedagogical-partnerships|pedagoška partnerstva]], [[storytelling-in-education|pripovijedanje]], [[learning-design|oblikovanje učenja]], [[online-teaching-and-learning|poučavanje i učenje na mreži]] i [[video-education|video u obrazovanju]].
-- **Teorije i procesi učenja:** krov [[learning-theories|teorije učenja]] ([[behaviorism|biheviorizam]], [[cognitive-psychology|kognitivizam]], [[constructivist|konstruktivizam]], [[sociocultural-learning|sociokulturno]], [[distributed-cognition|distribuirana kognicija]], [[situated-learning|situirano učenje]], [[embodied-learning|utjelovljeno učenje]], [[community-of-inquiry|zajednica istraživanja]]) stoji uz procese usmjerene na učenika kao što su [[self-regulated-learning|samoregulirano učenje]], [[self-determination-theory|teorija samoodređenja]], [[motivation|motivacija]], [[self-efficacy|samoučinkovitost]], [[self-directed-learning|samousmjereno učenje]], [[metacognition|metakognicija]], [[desirable-difficulties|poželjne poteškoće]], [[transfer-of-learning|prijenos učenja]], [[prior-knowledge|prethodno znanje]], [[icap-framework|kognitivno angažmanje ICAP]], [[reflection|refleksija]], [[refutation-text|tekst opovrgavanja]], [[retrieval-spacing-interleaving|pronalaženje, razmak i preplitanje]] i [[activity-theory-aied|teorija aktivnosti]].
-- **Angažman i iskustvo učenika:** [[student-engagement|angažman učenika]], [[help-seeking|traženje pomoći]], [[social-emotional-learning|socijalno-emocionalno učenje]], [[well-being|blagostanje]], [[creativity|kreativnost]], [[problem-solving|rješavanje problema]], [[mastery-learning|ovladavanje učenjem]] i [[student-ai-interaction|interakcija učenika i umjetne inteligencije]] oblikuju kako učenici zapravo susreću umjetnu inteligenciju i kako na njih utječe, dok [[social-norms-ai-use|socijalne norme koje se uspostavljaju oko upotrebe umjetne inteligencije]] određuju koliko otvoreno se o svemu tome može raspravljati. Iza samog kolegija, [[student-support-and-success|podrška i uspjeh učenika]] pokriva rad na institucionalnoj strani — savjetovanje, aktivnosti kontakta, upućivanja i raspodjelu oskudne podrške — gdje umjetna inteligencija pouzdano poboljšava dovršenje zadataka, ali ne i istrajnost ili diplomiranje.
+- **Teorije i procesi učenja:** krov [[learning-theories|teorije učenja]] ([[behaviorism|biheviorizam]], [[cognitive-psychology|kognitivizam]], [[constructivist|konstruktivizam]], [[sociocultural-learning|sociokulturno]], [[distributed-cognition|distribuirana kognicija]], [[situated-learning|situirano učenje]], [[embodied-learning|utjelovljeno učenje]], [[community-of-inquiry|zajednica istraživanja]]) stoji uz procese usmjerene na učenika kao što su [[self-regulated-learning|samoregulirano učenje]], [[self-determination-theory|teorija samoodređenja]], [[motivation|motivacija]], [[self-efficacy|samoučinkovitost]], [[self-directed-learning|samousmjereno učenje]], [[metacognition|metakognicija]], [[desirable-difficulties|poželjne poteškoće]], [[transfer-of-learning|prijenos učenja]], [[prior-knowledge|prethodno znanje]], [[icap-framework|kognitivno angažmanje ICAP]], [[reflection|refleksija]], [[refutation-text|tekst opovrgavanja]], [[retrieval-spacing-interleaving|pronalaženje, razmak i preplitanje]] i [[activity-theory-aied|teorija aktivnosti]]. Razvojni okvir presijeca ih: [[developmental-psychology|razvojna psihologija]] objašnjava zašto isti proces izgleda drukčije s pet, petnaest i dvadeset i pet godina.
+- **Angažman i iskustvo učenika:** [[student-engagement|angažman učenika]], [[help-seeking|traženje pomoći]], [[social-emotional-learning|socijalno-emocionalno učenje]], [[well-being|blagostanje]], [[creativity|kreativnost]], [[problem-solving|rješavanje problema]], [[mastery-learning|ovladavanje učenjem]] i [[student-ai-interaction|interakcija učenika i umjetne inteligencije]] oblikuju kako učenici zapravo susreću umjetnu inteligenciju i kako na njih utječe, s [[empathy|empatijom]] kao afektivnim ishodom koji se često tvrdi, a rijetko mjeri, dok [[social-norms-ai-use|socijalne norme koje se uspostavljaju oko upotrebe umjetne inteligencije]] određuju koliko otvoreno se o svemu tome može raspravljati. Iza samog kolegija, [[student-support-and-success|podrška i uspjeh učenika]] pokriva rad na institucionalnoj strani — savjetovanje, aktivnosti kontakta, upućivanja i raspodjelu oskudne podrške — gdje umjetna inteligencija pouzdano poboljšava dovršenje zadataka, ali ne i istrajnost ili diplomiranje.
 
 ## Tehnologije i tehnike
 
@@ -99,11 +103,22 @@ Stranica [[ai-technologies|Tehnologije]] krov je za tehnički sloj:
 
 Umjetna inteligencija primjenjuje se kroz discipline i obrazovne razine. Pregled [[discipline-specific-aied|AIED-a u disciplinama]] u bazi znanja mapira pokrivenost po predmetnim područjima — uz [[learning-sciences|znanost o učenju]], koja nije poučavani predmet, nego prekogranično istraživačko područje koje proučava samo učenje i uzima predmetnu sadržaj kao jednu varijablu među ostalima:
 
-- **Predmetna područja:** [[math-education|matematika]], [[statistics-and-data-science-education|statistika i znanost o podacima]], [[physics-education|fizika]], [[chemistry-education|kemija]], [[biology-education|biologija]], [[cs-education|računalne znanosti]], [[engineering-education|inženjerstvo]], [[stem-education|STEM]], [[writing-education|pisanje]], [[reading-education|poučavanje čitanja]], [[language-learning|učenje jezika]], [[english-education|obrazovanje iz engleskog (EAP/EFL/ESL)]], [[libraries|knjižnična i informacijska znanost]], [[science-education|prirodoslovno obrazovanje]], [[environmental-education|obrazovanje za okoliš]], [[business-education|poslovanje, ekonomija i menadžment]], [[humanities-education|humanističke i društvene znanosti]], [[civic-and-political-education|građansko i političko obrazovanje]], [[arts-and-media-education|obrazovanje za umjetnost, dizajn i medije]], [[medical-education|medicinske i zdravstvene profesije]], [[legal-education|pravno obrazovanje]] i profesionalne i primijenjene niti — [[nursing-education|medicinsko sestrinstvo]], [[information-technology|informacijska tehnologija]], [[vocational-education|strukovno obrazovanje i obuka]] i [[design-education|obrazovanje za dizajn]].
+- **Humanističke znanosti i umjetnost:** [[humanities-education|obrazovanje u humanističkim znanostima]], [[arts-and-media-education|obrazovanje za umjetnost i medije]], [[music-education|glazbeno obrazovanje]], [[writing-education|poučavanje pisanja]], [[reading-education|poučavanje čitanja]], [[language-learning|učenje jezika]] i [[english-education|obrazovanje iz engleskog (EAP/EFL/ESL)]].
+- **Društvene znanosti:** [[social-sciences-education|obrazovanje u društvenim znanostima]], [[civic-and-political-education|građansko i političko obrazovanje]], [[business-education|poslovanje, ekonomija i menadžment]] i [[environmental-education|obrazovanje za okoliš]].
+- **STEM:** [[stem-education|STEM obrazovanje]], [[science-education|prirodoslovno obrazovanje]], [[math-education|matematika]], [[statistics-and-data-science-education|statistika i znanost o podacima]], [[physics-education|fizika]], [[chemistry-education|kemija]], [[biology-education|biologija]], [[cs-education|računalne znanosti]], [[engineering-education|inženjerstvo]] i [[information-technology|informacijska tehnologija]].
+- **Profesije:** [[professions-education|obrazovanje za profesije]], [[medical-education|medicinske i zdravstvene profesije]], [[nursing-education|medicinsko sestrinstvo]], [[legal-education|pravno obrazovanje]], [[teacher-education|obrazovanje nastavnika]], [[design-education|obrazovanje za dizajn]] i [[libraries|knjižnična i informacijska znanost]].
 
 ## Razine i konteksti
 
-Isti alat s umjetnom inteligencijom susreće vrlo različite okolnosti, a baza znanja odvaja obrazovnu razinu od pedagogije tako da se nalazi ne prenose tiho među njima: [[k-12|škole K-12]], [[early-childhood-elementary-ai-education|rano djetinjstvo i osnovno obrazovanje]], [[higher-ed|visoko obrazovanje]], [[adult-learning|obrazovanje odraslih]], [[vocational-education|strukovno obrazovanje i obuka]], [[special-education|specijalno obrazovanje]] i [[teacher-education|obrazovanje nastavnika]]. Koncepti iz susjednih područja koji presijecaju razine uključuju [[universal-design-for-learning|univerzalno oblikovanje za učenje]], [[neurodiversity|neurodiverzitet]], [[multilingual-learning|višejezično učenje]] i [[social-emotional-learning|socijalno-emocionalno učenje]].
+Isti alat s umjetnom inteligencijom susreće vrlo različite okolnosti, a baza znanja odvaja obrazovnu razinu od pedagogije tako da se nalazi ne prenose tiho među njima: [[k-12|škole K-12]], koje se sada dijele na [[early-childhood-elementary-ai-education|rano djetinjstvo]], [[primary-education|osnovno obrazovanje]] i [[secondary-education|srednje obrazovanje]]; [[higher-ed|visoko obrazovanje]], koje se dijeli na [[undergraduate-education|preddiplomski]] i [[graduate-education|diplomski]] studij; te okruženja izvan tih ljestava, [[adult-learning|obrazovanje odraslih]], [[vocational-education|strukovno obrazovanje i obuka]], [[special-education|specijalno obrazovanje]] i [[teacher-education|obrazovanje nastavnika]]. [[education-levels|Razine obrazovanja]] ih uspoređuje. Koncepti iz susjednih područja koji presijecaju razine uključuju [[universal-design-for-learning|univerzalno oblikovanje za učenje]], [[neurodiversity|neurodiverzitet]], [[multilingual-learning|višejezično učenje]] i [[social-emotional-learning|socijalno-emocionalno učenje]].
+
+## Isti alat, suprotne dizajnerske odluke
+
+Razina je varijabla koja najčišće preokreće dizajnersku preporuku. Srednjoškolski dokazi stavljaju nastavnika između učenika i alata: kroz 33 studije dobitci su dolazili ondje gdje su učenici uspoređivali rezultate, a slabili ondje gdje je alat proizveo rad ([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca i sur. (2026.)]]).
+
+Diplomski dokazi pokazuju suprotno, prema partnerstvu s odgovornom osobom. Čimbenici spremnosti do istraživačke [[self-efficacy|samoučinkovitosti]] dolazili su kroz podršku mentora (β = 0.201 neizravno), a ne kroz upotrebu alata ([[luo-ai-readiness-graduate-research-self-efficacy-2026|Luo i sur. (2026.)]]). Pregled na doktorskoj razini do istog dizajnerskog zaključka dolazi iz etike: legitimnost ovisi o zadatku, a ne o alatu, objavljivanje je razmjerno intelektualnoj važnosti, a upravljanje se pregledava na ključnim točkama ([[guanilo-pareja-genai-doctoral-supervision-2026|Guanilo Pareja i sur. (2026.)]]).
+
+Ono što se ne mijenja jest to da prosudbu drži čovjek. Studenti na diplomskom seminaru prihvatili su UI rezultat tek nakon što ga je provjerio znajući nadzornik, što Chen čita kao delegiranu, a ne predanu djelotvornost ([[chen-genai-self-directed-learning-graduate-seminar-2026|Chen (2026.)]]). Učestalost je pogrešna mjera među razinama: predviđala je diplomsku kompetenciju uz β = 0.030 kada su etika i samoregulacija ušle u model ([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova i sur. (2026.)]]).
 
 ## Procjena i mjerenje
 
@@ -116,7 +131,7 @@ Umjetna inteligencija preobražava i to kako ocjenjujemo učenike i to kako proc
 
 To kako znamo funkcionira li umjetna inteligencija vlastita je nit, a baza znanja s njom i postupa tako:
 
-- **Istraživačke metode:** [[research-methods-aied|istraživačke metode u AIED-u]] kao krov, s [[qualitative-research|kvalitativnim]], [[quantitative-research|kvantitativnim]], [[mixed-methods-research|mješovitim]], [[design-based-research|dizajnersko-temeljenim]] i [[usability-research|upotrebljivim]] pristupima, uz [[rct|randomizirane kontrolirane studije]], [[meta-analysis-systematic-review|metaanalizu i sistematski pregled]] i [[network-analysis|mrežnu analizu]].
+- **Istraživačke metode:** [[research-methods-aied|istraživačke metode u AIED-u]] kao krov, s [[qualitative-research|kvalitativnim]], [[quantitative-research|kvantitativnim]], [[mixed-methods-research|mješovitim]], [[design-based-research|dizajnersko-temeljenim]] i [[usability-research|upotrebljivim]] i [[longitudinal-research|longitudinalnim]] pristupima, uz [[rct|randomizirane kontrolirane studije]], [[meta-analysis-systematic-review|metaanalizu i sistematski pregled]] i [[network-analysis|mrežnu analizu]].
 
 Vlastiti istraživački rad područja sada je sam predmet. [[ai-assisted-educational-research|AI-Assisted Educational Research]] pokriva umjetnu inteligenciju upotrijebljenu kao instrument za pretraživanje literature, probir, kvalitativno kodiranje, analizu i pisanje, uključujući istraživanje praktičara kao što je znanstveni rad o poučavanju i učenju. Ostaje različita od dizajna upotrebljenih za proučavanje onoga što umjetna inteligencija čini učenicima.
 
@@ -214,10 +229,14 @@ Umjetna inteligencija u obrazovanju povezuje se sa svakim konceptom u bazi znanj
 
 ## Povezani članci
 
-Cjelopodručni pregledi umjetne inteligencije u obrazovanju — studije koje opisuju cijelo područje ili cijelu obrazovnu razinu, a ne jednu temu:
 
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — Razvoj istraživanja umjetne inteligencije i obrazovanja kroz četiri desetljeća (okvir AIxEd)
 - [[mishra-control-vs-agency-history-2025]] — Kontrola nasuprot djelotvornosti: povijest umjetne inteligencije u obrazovanju
 - [[genai-higher-education-systematic-review-2026]] — Generativna umjetna inteligencija u visokom obrazovanju: sistematski pregled 125 studija
 - [[stanford-evidence-base-ai-k12-2026]] — Baza dokaza o umjetnoj inteligenciji u K-12: pregled 818 radova
 - [[genai-educational-outcomes-meta-analysis]] — Generativna umjetna inteligencija i obrazovni ishodi: sveobuhvatna metaanaliza
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 srednjoškolske studije; dobitci ondje gdje učenici prosuđuju rezultat, a ne gdje alat proizvodi rad
+- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 studenata diplomskog studija; spremnost je do samoučinkovitosti došla kroz podršku mentora
+- [[guanilo-pareja-genai-doctoral-supervision-2026]] — Pregled 61 izvora o etici, povratnim informacijama i upravljanju u doktorskom mentorstvu
+- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Diplomski seminar u jednoj skupini; dobitci u samousmjerenom učenju bez testa bez pomoći
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 student; jaz između preddiplomskog i diplomskog studija u etici i samoregulaciji

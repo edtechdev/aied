@@ -9,14 +9,18 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-11-04T15:40:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -37,15 +41,14 @@ ai_assist:
 
 Het concept rust op het bewijs dat AI-misbruik duurzaam leren actief schaadt - de prestatie-leerkloof die is gedocumenteerd in [[ai-misuse-learning-harm]] - terwijl het de onmiddellijke prestatie opblaast. Interventies richten zich daarom op de mechanismen van die schade: antwoorden kopiëren, [[cognitive-offloading]], uitholling van motivatie en verdringing van leren. Ze sluiten elkaar niet uit; een robuuste aanpak combineert een structurele vloer met educatieve capaciteitsopbouw.
 
-
 **Het mechanisme waarlangs misbruik ontstaat, heeft nu een gemeten keten.** [[guo-overreliance-genai-feedback-2026|Guo en Dong (2026)]] enquêteerden 600 bachelorstudenten en vonden dat ervaren cognitieve belasting cognitieve offloading voorspelde met β = 0,844 in de groep met weinig monitoring en β = 0,840 in de groep met veel monitoring. Offloading voorspelde vervolgens overmatige afhankelijkheid van AI-feedback met β = 0,396 respectievelijk β = 0,506, met indirecte effecten van 0,335 [0,069; 0,611] en 0,426 [0,149; 0,648]. Belasting voorspelde overmatige afhankelijkheid ook direct (β = 0,560 en 0,419), dus offloading is een gedeeltelijke mediator, en de antecedent die een structurele hefboom kan aanpakken is de belasting zelf.
 
-### Waarom structurele hefbomen het zwaarst wegen
+## Waarom structurele hefbomen het zwaarst wegen
 
 Interventies kunnen worden gerangschikt naar **causaal bewijs × structurele reikwijdte × schaalbaarheid × [[sustainability]]**. Op die basis staan de twee *structurele* hefbomen het hoogst, omdat zij werken of studenten nu het juiste gedrag kiezen of niet - zij beperken de omgeving in plaats van afhankelijk te zijn van interne motivatie. De *educatieve* hefbomen zijn essentieel maar alleen effectief wanneer studenten instemmen, dus worden zij ondanks hun conceptuele belofte als tweede niveau behandeld. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher en Calderon (2025)]] tillen het structurele argument een niveau hoger, door governance in plaats van studentgedrag als de bindende beperking te behandelen en een kader van 130 integriteitsindicatoren voor te stellen zodat academische bestuurders kunnen zien of beoordeling authentiek is, of studenten individueel bekend zijn bij de docenten die hen beoordelen, en of integriteit voorkomt in introductie en oriëntatie. Hun hervormingen richten zich op governancearchitecturen, mensen en [[ai-technologies|technologieën en middelen]], en zij stellen voor [[guardrails|red teaming]] uit de cyberbeveiliging te lenen om kwetsbaarheden in beoordeling bloot te leggen voordat studenten ze vinden - een herinnering dat de structurele vloer wordt onderhouden door instellingen die zowel de informatie als de wil moeten hebben om hem te onderhouden.
 De literatuur over verantwoord gebruik toetst de keten die deze rangorde veronderstelt zelf zelden. Van 122 benaderingsrecords uit 31 studies waren er 51 zowel uitgevoerd als geëvalueerd, meestal via [[self-report-measures|zelfrapportage]], en slechts vier studies definieerden een grens, ontwierpen daarrond een interventie en toetsten of de beslissingen van studenten daarmee overeenkwamen ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega en Zhao (2026)]]).
 
-### Niveau 1 - direct bewezen dat het leerschade vermindert
+## Niveau 1 - direct bewezen dat het leerschade vermindert
 
 **Ontwerp van AI-tools met guardrails ("hint-in-plaats-van-antwoord"-[[scaffolding]]).** In de sterkste causale bevinding in de kennisbank toonde een veld-[[rct]] aan dat een ongeguardrailde ChatGPT-achtige tutor de prestatie bij ondersteunde oefening met **+48%** verhoogde maar de scores op het examen zonder hulp met **−17%** verlaagde, terwijl een tutor met guardrails (hints in plaats van antwoorden, plus door de docent geschreven probleeminformatie) de schade volledig elimineerde. Dit voorkomt mechanisch het gedrag van antwoorden kopiëren als "kruk" dat achter de schade zit. Activiteiten omvatten tutoring met hints in plaats van antwoorden, prompts voeden met correcte oplossingen en veelvoorkomende [[misconceptions]], en vereisen dat een student een poging doet voordat AI-output wordt onthuld.
 
@@ -55,7 +58,7 @@ De literatuur over verantwoord gebruik toetst de keten die deze rangorde veronde
 
 De structurele hefbomen hebben een handhavingsarm, en de bewijsbasis daarvan is zwakker dan haar reikwijdte suggereert. [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] codeerden 1.162 wangedragzaken met generatieve AI en vonden dat het bewijs waarnaar op het moment van de beschuldiging het vaakst werd verwezen - [[ai-detection|detectoroutput]], gelijkenisrapporten, voor AI typische inhoudspatronen - de zwakste bewijswaarde droeg, terwijl toelatingsgegevens, waargenomen examengedrag en onafhankelijk geverifieerde verzonnen referenties het sterkst waren; omdat institutionele procedures geen minimale bewijsdrempel stellen, had de bewijskwaliteit geen betrouwbare relatie met de uitkomsten van zaken, en studenten wier zaak op dun bewijs rustte, hadden vooral de mogelijkheid van beroep. [[wright-transcription-not-generation-2026|Wright (2026)]] toont een tweede prijs van dezelfde onnauwkeurigheid: verboden die rond "generatieve AI" zijn geschreven in plaats van rond functie, pakken tools die slechts het formaat converteren van werk dat een student al zelf heeft geschreven, zodat louter transcriptioneel gebruik als wangedrag kan worden bestraft - een te ruime omvatting die het hardst neerkomt op studenten met een beperking en op [[equity-in-ai-education|gelijkwaardigheid]] blootgestelde [[learners]] en die niets doet voor [[assessment-validity|validiteit]]. [[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana, Mtshali en Mchunu (2026)]] voegen toe dat [[remote-proctoring|remote proctoring]], de meest verspreide integriteitscontrole, haar afschrikkingsclaim baseert op hoe studenten zeggen zich te voelen in plaats van op verminderd wangedrag, en [[anxiety-and-stress|angst]], concentratieverlies en infrastructuurgebonden uitsluiting oplegt waarvan niet is aangetoond dat minder misbruik er het antwoord op is. [[li-genai-assessment-language-equity-2026|Li (2026)]] voegt de regelontwerpdimensie toe: omdat dezelfde interface zowel toegestaan taalredigeren als verboden inhoudelijk schrijven uitvoert, leggen ongedifferentieerde GenAI-regels cohortvertekende compliancekosten op aan studenten die Engels als aanvullende taal gebruiken, dus de verdedigbaardere preventie is een op doel gebaseerde grens tussen ondersteuning en substitutie, verankerd in het beoordelingsconstruct, met gekalibreerde openbaarmaking, proportionaliteit gefaseerd over drempel-, bewijs- en sanctiebeslissingen, en ontwerphefbomen - gefaseerde inzendingen, korte constructgerelateerde mondelinge verificatie, op kritiek gebaseerde vragen - die het werk doen dat detectie niet kan. Preventie moet ook de beoordelaar zelf dekken: [[humble-prompt-injection-ai-grading-red-team-2026|Humble's (2026)]] red-team-evaluatie vond dat twee van de vijf indirecte promptinjectiestrategieën die in een inzendingsbestand waren ingebed, een onvoldoende essay ongedetecteerd naar een voldoende brachten, met gerapporteerde successen van 100% en 94%, dus waar AI-tools studentenwerk beoordelen, horen [[human-in-the-loop-ai|menselijke beoordeling]], een duidelijker scheiding tussen instructies en ingeleverde inhoud en weerbaarheidstests in de structurele vloer in plaats van in een optioneel niveau.
 
-### Niveau 2 - sterke kaderondersteuning, hoog potentieel
+## Niveau 2 - sterke kaderondersteuning, hoog potentieel
 
 **Gescaffolde gebruiksfasen: eerst denken, dan AI, dan reflecteren.** Acht ontwerpprincipes voor het integreren van LLM's zonder [[critical-thinking]] te verdringen: behoud cognitieve wrijving, positioneer AI als een voorlopige denkpartner in plaats van een autoriteit, bouw evaluatiecontrolepunten in, vereis [[metacognition|metacognitief]] dagboekschrijven en promptlogboeken, en balanceer AI-gemedieerde met AI-vrije fasen. Correlationeel bewijs (zelfstandig werk vóór AI levert sterkere output) is robuust; het is de pedagogisch volledige versie van niveau 1.
 
@@ -65,7 +68,7 @@ De structurele hefbomen hebben een handhavingsarm, en de bewijsbasis daarvan is 
 
 Educatieve hefbomen zien er weer anders uit zodra integriteit wordt behandeld als een praktijk die moet worden onderwezen in plaats van een regel die moet worden gehandhaafd. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] betoogt dat op detectie en verificatie gebaseerde integriteitsregimes niet passen bij GenAI-ondersteund werk, en herformuleert integriteit als pedagogische praktijk die wordt uitgevoerd via [[evaluative-judgment|evaluatief oordeel]] - het vermogen van de lerende om opties af te wegen, academische keuzes te rechtvaardigen en verantwoordelijkheid te nemen onder onzekerheid - zichtbaar gemaakt via artefacten zoals geannoteerde beslissingstrajecten, gedocumenteerde verificatie, [[oral-assessment|mondelinge verdediging]] en versiegeschiedenissen van concept naar concept, waarbij detectie wordt teruggebracht tot één aanvullende laag in plaats van de primaire infrastructuur. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa en Mezgebu (2026)]] vinden dezelfde opening van de kant van studenten: over 27 interviews aan een Ethiopische [[higher-ed|universiteit]] was gebruik bijna universeel, de meeste deelnemers schreven GenAI een hogere prestatie toe, en de scherpste klacht liep de andere kant op - AI-gebruikers scoorden hoger dan ijverige zelfstandige werkers, wat deelnemers als demotiverend beschreven. De auteurs concluderen dat overtuigingen van studenten ethisch gebruik sterker voorspellen dan institutionele regels, dus bewustzijn, helder beleid en herontwerp van beoordeling moeten samen komen - wat het educatieve niveau van deze pagina is, geformuleerd als voorwaarde: capaciteitsopbouw verandert gedrag alleen via [[framing-ai-use-for-students|draagvlak bij studenten]] vergezeld van een structurele vloer. [[ji-student-voices-academic-integrity-scoping-2026|Ji's (2026)]] [[meta-analysis-systematic-review|scopingreview]] van 38 studies naar de stem van studenten levert de veldbrede versie van dezelfde conclusie: de besproken studies komen uit op een verschuiving van retrospectieve detectie naar proactief ethisch redeneren, op het onderwijzen van AI-ethiek en AI-plagiaat in het [[curriculum-design|curriculum]] in plaats van in eenmalige [[ai-literacy|geletterdheids]]sessies, en op gedetailleerde richtlijnen die samen met leiders, docenten en studenten worden opgesteld, omdat onduidelijke begeleiding wordt gelezen als stilzwijgende toestemming in plaats van als waarschuwing. Ji's eigen lezing is dat eigenaarschap en moreel redeneren studenten meer motiveren dan angst voor straf, en dat studenten noch passieve ontvangers van GenAI noch daders zonder morele beperking zijn, maar morele actoren die in een grijze zone werken - de premisse van dit niveau, geformuleerd als bevinding.
 
-### Niveau 3 - veelbelovend, minder direct causaal bewijs
+## Niveau 3 - veelbelovend, minder direct causaal bewijs
 
 **Metacognitieve en [[self-assessment|zelfbeoordelingsinterventies]].** [[reflection|Reflectieve dagboeken]], promptlogboeken en kalibratietraining herstellen de "afwezige cognitieve basislijn" van AI-native studenten die hun eigen cognitieve grens niet kunnen lokaliseren omdat door AI gegenereerde vlotheid die maskeert. Conceptueel centraal maar nog niet causaal getest.
 
@@ -77,17 +80,7 @@ Educatieve hefbomen zien er weer anders uit zodra integriteit wordt behandeld al
 
 - **[[desirable-difficulties|Productieve wrijving]] en pedagogische functie.** De Sydney rapid review betoogt dat GenAI leren ondermijnt wanneer zij studenten de cognitieve en metacognitieve wrijving laat overslaan die nodig is om te leren, en dat doelbewust ontworpen tools *productieve wrijving* introduceren (antwoorden onthouden, om uitleg vragen). Zij onderscheidt vier pedagogische functies - leren *van*, *met*, *over* of *door het vormen van* GenAI - elk met andere eisen aan agency en beoordeling.([[young-people-learning-generative-ai-rapid-review-2026]])
 
-## Veelvoorkomende misverstanden
-
-**"Studenten over de risico's onderwijzen is de belangrijkste hefboom tegen misbruik."** Het is de hefboom die afhangt van de medewerking van de student, en daarom staat zij hier onder de structurele. Guardrails en herontwerp van beoordeling werken of een student nu het juiste gedrag kiest of niet; educatieve benaderingen werken alleen met draagvlak. Het onderscheid is niet moreel maar mechanisch - een veranderde omgeving beperkt het gedrag direct, terwijl een veranderde overtuiging de nacht vóór de deadline moet overleven.
-
-**"Als een guardrail standhoudt tijdens de sessie, is het leren veiliggesteld."** Standhouden en onderwijzen zijn afzonderlijke uitkomsten, en het corpus bevat een schoon dubbel resultaat. Het onthouden van de samengevatte positie in een [[agentic-ai|multi-agent]]-debat verlaagde het overstappen van studenten naar een onjuiste AI-positie van 42-60,5% naar 5,7-8,2% - een groot beschermend effect - maar leverde **geen leereffect binnen de sessie** op (β = 0,03, p = 0,18). De rail deed haar werk als rail en werd geen instructie. Ontwerpen voor preventie van misbruik is niet hetzelfde als ontwerpen voor leren.
-
-**"Misbruik detecteren en bestraffen is een preventiestrategie."** Preventie moet ook de beoordelaar zelf dekken. [[humble-prompt-injection-ai-grading-red-team-2026|Humble's (2026)]] red-team-evaluatie vond dat twee van de vijf indirecte promptinjectiestrategieën die in een inzendingsbestand waren ingebed, het cijfer van een onvoldoende essay verhoogden. Een pijplijn die misbruik door studenten detecteert terwijl zij ongecontroleerde ingeleverde inhoud vertrouwt, is slechts aan één kant verdedigd.
-
-**"Misbruik is een probleem van studentmotivatie."** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher en Calderon (2025)]] tillen de bindende beperking een niveau hoger, door governance in plaats van studentgedrag als het te veranderen ding te behandelen en een kader van 130 integriteitsindicatoren voor te stellen. En de leerschade is op schaal meetbaar: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei en Wu (2026)]] vonden dat het uitbesteden van huiswerk de huiswerkcijfers met 18% verhoogde terwijl het de cijfers voor het gesloten-boekexamen met 20% *verlaagde* - een ontwerpfout die precies zichtbaar wordt in de kloof waarover deze pagina gaat.
-
-## Implementatiebegeleiding per rol
+## Implicaties voor de praktijk
 
 **Voor docenten en vakteams**
 
@@ -105,6 +98,16 @@ Educatieve hefbomen zien er weer anders uit zodra integriteit wordt behandeld al
 **Voor bestuurders en beleidsmakers**
 
 - Leg de bindende beperking waar het bewijs haar legt. Indicatoren en governancestructuren richten zich op de omgeving; vermaningen aan studenten richten zich op de persoon die het minst in staat is institutioneel ontwerp te veranderen.
+
+## Veelvoorkomende misverstanden
+
+**"Studenten over de risico's onderwijzen is de belangrijkste hefboom tegen misbruik."** Het is de hefboom die afhangt van de medewerking van de student, en daarom staat zij hier onder de structurele. Guardrails en herontwerp van beoordeling werken of een student nu het juiste gedrag kiest of niet; educatieve benaderingen werken alleen met draagvlak. Het onderscheid is niet moreel maar mechanisch - een veranderde omgeving beperkt het gedrag direct, terwijl een veranderde overtuiging de nacht vóór de deadline moet overleven.
+
+**"Als een guardrail standhoudt tijdens de sessie, is het leren veiliggesteld."** Standhouden en onderwijzen zijn afzonderlijke uitkomsten, en het corpus bevat een schoon dubbel resultaat. Het onthouden van de samengevatte positie in een [[agentic-ai|multi-agent]]-debat verlaagde het overstappen van studenten naar een onjuiste AI-positie van 42-60,5% naar 5,7-8,2% - een groot beschermend effect - maar leverde **geen leereffect binnen de sessie** op (β = 0,03, p = 0,18). De rail deed haar werk als rail en werd geen instructie. Ontwerpen voor preventie van misbruik is niet hetzelfde als ontwerpen voor leren.
+
+**"Misbruik detecteren en bestraffen is een preventiestrategie."** Preventie moet ook de beoordelaar zelf dekken. [[humble-prompt-injection-ai-grading-red-team-2026|Humble's (2026)]] red-team-evaluatie vond dat twee van de vijf indirecte promptinjectiestrategieën die in een inzendingsbestand waren ingebed, het cijfer van een onvoldoende essay verhoogden. Een pijplijn die misbruik door studenten detecteert terwijl zij ongecontroleerde ingeleverde inhoud vertrouwt, is slechts aan één kant verdedigd.
+
+**"Misbruik is een probleem van studentmotivatie."** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher en Calderon (2025)]] tillen de bindende beperking een niveau hoger, door governance in plaats van studentgedrag als het te veranderen ding te behandelen en een kader van 130 integriteitsindicatoren voor te stellen. En de leerschade is op schaal meetbaar: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei en Wu (2026)]] vonden dat het uitbesteden van huiswerk de huiswerkcijfers met 18% verhoogde terwijl het de cijfers voor het gesloten-boekexamen met 20% *verlaagde* - een ontwerpfout die precies zichtbaar wordt in de kloof waarover deze pagina gaat.
 
 ## Verbonden concepten
 
@@ -124,6 +127,7 @@ Educatieve hefbomen zien er weer anders uit zodra integriteit wordt behandeld al
 - [[cognitive-surrender]]
 
 ## Verbonden artikelen
+
 - [[ivory-psychology-assessment-integrity-2026]] — Bewijstrajecten via versiebeheer en reproduceerbare analysedocumenten als afschrikmiddel tegen misbruik (Ivory et al. 2026)
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Het onthouden van een aanbeveling voorkwam overafhankelijkheid grotendeels zonder het oordeel op te bouwen dat zij beschermt
 - [[generative-ai-guardrails-harm-learning]] — GenAI zonder guardrails kan leren schaden

@@ -1,7 +1,7 @@
 ---
 title: בינה מלאכותית בחינוך
 created: "2026-09-22T14:34:58-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-17T08:15:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -67,7 +71,7 @@ ai_assist:
 - **[[pedagogy|פדגוגיות ואסטרטגיות הוראה]]**: המטרייה לאופן שבו מתרחשת ההוראה, כלומר שיטות ההוראה והאסטרטגיות שבינה מלאכותית פועלת בתוכן ([[active-learning|למידה פעילה]], [[collaborative-learning|למידה שיתופית]], [[project-based-learning|למידה מבוססת פרויקטים]], [[problem-based-learning|למידה מבוססת בעיות]], [[experiential-learning|למידה חווייתית]], [[game-based-learning|למידה מבוססת משחק]], [[socratic-method|השיטה הסוקרטית]], [[scaffolding|פיגום]] ועוד), כולל ההקשר הנפרד של [[online-teaching-and-learning|הוראה ולמידה מקוונות]].
 - **[[learning-theories|תיאוריות למידה]]**: המטרייה לאופן שבו מתרחשת הלמידה, כלומר המסגרות התיאורטיות ([[behaviorism|ביהביוריזם]], [[cognitive-psychology|קוגניטיביזם]], [[constructivist|קונסטרוקטיביזם]], [[sociocultural-learning|סוציו-תרבותיות]], קוגניטיביות, [[motivation|מוטיבציוניות]]) שמעצבות את העיצוב ואת ההערכה של בינה מלאכותית.
 - **[[ai-technologies|טכנולוגיות]]**: המטרייה לשכבה הטכנית, כלומר מערכות הבינה המלאכותית ([[llm|מודלים לשוניים גדולים]], [[generative-ai|בינה מלאכותית יוצרת]], [[multimodal|רב-מודאליות]], [[educational-robotics|רובוטיקה]]) והטכניקות ([[rag|הפקה מוגברת באחזור]], [[prompt-engineering|הנדסת הנחיות]], [[reinforcement-learning|למידת חיזוק]], [[llm-training-and-fine-tuning|אימון מודלים]], [[agentic-ai|תזמור סוכני]]) שמפעילות את התחום. משפחת מידול הלומד ([[knowledge-tracing|מעקב אחר ידע]], [[cognitive-diagnosis|אבחון קוגניטיבי]], [[simulating-students|סימולציית סטודנטים]], והמערכות שנעזרות בהן: [[intelligent-tutoring|הוראה חכמה]], [[adaptive-learning|למידה אדפטיבית]], [[personalized-learning|למידה מותאמת אישית]]) מקובצת תחת מטריית [[student-modeling|מידול הלומד והוראה אדפטיבית]] בתוך האשכול הטכני הזה.
-- **[[discipline-specific-aied|בינה מלאכותית בתחומי הדעת]]**: המטרייה לאופן שבו בינה מלאכותית מיושמת על פני תחומי דעת ([[math-education|מתמטיקה]], [[physics-education|פיזיקה]], [[language-learning|לימוד שפות]], [[cs-education|מדעי המחשב]], [[writing-education|כתיבה]], [[stem-education|STEM]], [[engineering-education|הנדסה]], [[business-education|עסקים]], [[teacher-education|הכשרת מורים]], [[medical-education|מקצועות הבריאות]] ועוד), ומעבר לתחומי הדעת האקדמיים גם האשכול המקצועי והיישומי שמעריך פרקטיקה מודגמת ולא נכונות ([[nursing-education|סיעוד]], [[information-technology|טכנולוגיות מידע]], [[vocational-education|חינוך והכשרה מקצועיים]], [[design-education|חינוך לעיצוב]]), וכן רמות חינוכיות ([[k-12|גן עד תיכון]], [[higher-ed|השכלה גבוהה]], [[adult-learning|למידת מבוגרים]]).
+- **[[discipline-specific-aied|בינה מלאכותית בתחומי הדעת]]**: המטרייה לאופן שבו בינה מלאכותית מיושמת על פני תחומי דעת, מקובצת לארבעה אשכולות. [[humanities-education|מדעי הרוח והאמנויות]] מכסים היסטוריה, פילוסופיה, ספרות ושפות, ולצידם [[arts-and-media-education|אמנויות ומדיה]] ו[[music-education|מוזיקה]]. [[social-sciences-education|מדעי החברה]] מכסים אזרחות, עסקים וכלכלה, ומדעי הסביבה. [[stem-education|STEM]] מכסים מתמטיקה, פיזיקה, כימיה, ביולוגיה, מחשוב והנדסה. [[professions-education|מקצועות]] מכסים את התוכניות המוכרות — [[medical-education|רפואה ומקצועות הבריאות]], [[nursing-education|סיעוד]], [[legal-education|משפטים]], [[teacher-education|הכשרת מורים]], [[design-education|חינוך לעיצוב]] ו[[libraries|ספריות ומדעי המידע]] — שבהן ההערכה צריכה להראות שהשיפוט המוסמך היה של המועמד. האשכולות חלים גם על רמות חינוך ולא רק על תחומי דעת.
 - **[[assessment|הערכה]]** (עם אשכולות [[formative-assessment|מעצבת]], [[summative-assessment|מסכמת]], [[authentic-assessment|אותנטית]], [[oral-assessment|בעל-פה]] ו[[automated-assessment|אוטומטית]]): המטרייה לאופן שבו בינה מלאכותית גם מעריכה לומדים וגם מעצבת מחדש את תוקף ההערכה ואת יושרה.
 - **[[feedback|משוב]]**: המטרייה לאופן שבו משוב נוצר, נמסר ומשמש: לולאת המשוב, [[ai-feedback-quality|איכות המשוב]], [[feedback-literacy|אוריינות משוב]], והקשרי ההערכה שלו ([[formative-assessment|מעצבת]], [[peer-assessment|עמיתים]], [[automated-assessment|אוטומטית]]).
 - **[[stakeholders|בעלי עניין בחינוך עם בינה מלאכותית]]**: המטרייה לשאלה מי הם השחקנים: לומדים, [[teacher-role|מורים]], [[learning-design|מעצבי למידה]], [[administrator|מנהלים]] ו[[educational-policy-ai|קובעי מדיניות]].
@@ -93,7 +97,7 @@ ai_assist:
 
 האופן שבו בינה מלאכותית תומכת בהוראה ובלמידה הוא לב התחום. מושגי המפתח כוללים:
 
-- **פדגוגיות ליבה:** [[pedagogy|פדגוגיות ואסטרטגיות הוראה]], המטרייה לכיסוי שיטות ההוראה במאגר הידע, לצד [[pedagogical-patterns|דפוסים פדגוגיים]] (הרצפים הנבדקים שאליהם השיטות מתכנסות), [[active-learning|למידה פעילה]], [[collaborative-learning|למידה שיתופית]], [[group-work|עבודה בקבוצות]], [[project-based-learning|למידה מבוססת פרויקטים]], [[problem-based-learning|למידה מבוססת בעיות]], [[productive-failure|כישלון פרודוקטיבי]], [[inquiry-based-learning|למידה מבוססת חקר]], [[experiential-learning|למידה חווייתית]], [[game-based-learning|למידה מבוססת משחק]], [[learning-by-teaching|לימוד דרך הוראה]], [[scaffolding|פיגום]], [[socratic-method|השיטה הסוקרטית]], [[critical-pedagogy|פדגוגיה ביקורתית]], [[pedagogical-partnerships|שותפויות פדגוגיות]], [[storytelling-in-education|סיפור סיפורים]], [[learning-design|עיצוב למידה]], [[online-teaching-and-learning|הוראה ולמידה מקוונות]] ו[[video-education|וידאו בחינוך]].
+- **פדגוגיות ליבה:** [[pedagogy|פדגוגיות ואסטרטגיות הוראה]], המטרייה לכיסוי שיטות ההוראה במאגר הידע, לצד [[pedagogical-patterns|דפוסים פדגוגיים]] (הרצפים הנבדקים שאליהם השיטות מתכנסות), [[active-learning|למידה פעילה]], [[collaborative-learning|למידה שיתופית]], [[group-work|עבודה בקבוצות]], [[project-based-learning|למידה מבוססת פרויקטים]], [[problem-based-learning|למידה מבוססת בעיות]], [[productive-failure|כישלון פרודוקטיבי]], [[inquiry-based-learning|למידה מבוססת חקר]], [[experiential-learning|למידה חווייתית]], [[game-based-learning|למידה מבוססת משחק]], [[learning-by-teaching|לימוד דרך הוראה]], [[scaffolding|פיגום]], [[socratic-method|השיטה הסוקרטית]], [[critical-pedagogy|פדגוגיה ביקורתית]], [[pedagogical-partnerships|שותפויות פדגוגיות]], [[storytelling-in-education|סיפור סיפורים]], [[learning-design|עיצוב למידה]], [[online-teaching-and-learning|הוראה ולמידה מקוונות]] [[video-education|וידאו בחינוך]], [[developmental-psychology|פסיכולוגיה התפתחותית]] ו[[empathy|אמפתיה]].
 - **תיאוריות ותהליכי למידה:** מטריית [[learning-theories|תיאוריות הלמידה]] ([[behaviorism|ביהביוריזם]], [[cognitive-psychology|קוגניטיביזם]], [[constructivist|קונסטרוקטיביזם]], [[sociocultural-learning|סוציו-תרבותיות]], [[distributed-cognition|קוגניציה מבוזרת]], [[situated-learning|למידה ממוקמת]], [[embodied-learning|למידה מגולמת]], [[community-of-inquiry|קהילת חקר]]) יושבת לצד תהליכים הפונים ללומד כמו [[self-regulated-learning|למידה עצמית מוסדרת]], [[self-determination-theory|תיאוריית ההגדרה העצמית]], [[motivation|מוטיבציה]], [[self-efficacy|מסוגלות עצמית]], [[self-directed-learning|למידה מוכוונת עצמית]], [[metacognition|מטא-קוגניציה]], [[desirable-difficulties|קשיים רצויים]], [[transfer-of-learning|העברה של למידה]], [[prior-knowledge|ידע קודם]], [[icap-framework|מעורבות קוגניטיבית לפי ICAP]], [[reflection|רפלקציה]], [[refutation-text|טקסט הפרכה]], [[retrieval-spacing-interleaving|שליפה, פיזור ומיזוג]] ו[[activity-theory-aied|תיאוריית הפעילות]].
 - **מעורבות וחוויה של הלומד:** [[student-engagement|מעורבות סטודנטים]], [[help-seeking|חיפוש עזרה]], [[social-emotional-learning|למידה חברתית-רגשית]], [[well-being|רווחה]], [[creativity|יצירתיות]], [[problem-solving|פתרון בעיות]], [[mastery-learning|למידת שליטה]] ו[[student-ai-interaction|אינטראקציה בין סטודנט לבינה מלאכותית]] מעצבים כיצד לומדים פוגשים את הבינה המלאכותית ומושפעים ממנה בפועל, ואילו [[social-norms-ai-use|הנורמות החברתיות שמתגבשות סביב השימוש בבינה מלאכותית]] קובעות באיזו פתיחות ניתן לדון בכך. מעבר לקורס, [[student-support-and-success|תמיכת סטודנטים והצלחה]] מכסה את העבודה בצד המוסדי — ייעוץ, פנייה חודרת, הפניה והקצאת משאבי תמיכה דלים — ושם AI מזיזה בצורה מהימנה את השלמת המשימות אך לא את ההתמדה או את סיום התואר.
 
@@ -110,11 +114,24 @@ ai_assist:
 
 בינה מלאכותית מיושמת על פני תחומי דעת ורמות חינוכיות. ה[[discipline-specific-aied|סקירה של בינה מלאכותית בחינוך בתחומי הדעת]] במאגר הידע ממפה את הכיסוי לפי תחום דעת, לצד [[learning-sciences|מדעי הלמידה]], שאינם תחום דעת נלמד אלא שדה המחקר הרוחבי שחוקר את הלמידה עצמה ומתייחס לתחום הדעת כמשתנה אחד מני רבים:
 
-- **תחומי דעת:** [[math-education|מתמטיקה]], [[statistics-and-data-science-education|סטטיסטיקה ומדעי הנתונים]], [[physics-education|פיזיקה]], [[chemistry-education|כימיה]], [[biology-education|ביולוגיה]], [[cs-education|מדעי המחשב]], [[engineering-education|הנדסה]], [[stem-education|STEM]], [[writing-education|כתיבה]], [[reading-education|הוראת קריאה]], [[language-learning|לימוד שפות]], [[english-education|הוראת אנגלית (EAP/EFL/ESL)]], [[libraries|ספריות ומדעי המידע]], [[science-education|הוראת מדעים]], [[environmental-education|חינוך סביבתי]], [[business-education|עסקים, כלכלה וניהול]], [[humanities-education|מדעי הרוח והחברה]], [[civic-and-political-education|חינוך אזרחי ופוליטי]], [[arts-and-media-education|אמנויות, עיצוב ומדיה]], [[medical-education|רפואה ומקצועות הבריאות]], [[legal-education|משפטים]], והאשכולות המקצועיים והיישומיים: [[nursing-education|סיעוד]], [[information-technology|טכנולוגיות מידע]], [[vocational-education|חינוך והכשרה מקצועיים]] ו[[design-education|חינוך לעיצוב]].
+- **מדעי הרוח והאמנויות:** [[humanities-education|מדעי הרוח והחברה]], [[arts-and-media-education|אמנויות, עיצוב ומדיה]], [[music-education|חינוך מוזיקלי]], [[writing-education|כתיבה]], [[reading-education|הוראת קריאה]], [[language-learning|לימוד שפות]] ו[[english-education|הוראת אנגלית (EAP/EFL/ESL)]].
+- **מדעי החברה:** [[social-sciences-education|חינוך למדעי החברה]], [[civic-and-political-education|חינוך אזרחי ופוליטי]], [[business-education|עסקים, כלכלה וניהול]] ו[[environmental-education|חינוך סביבתי]].
+- **STEM:** [[stem-education|STEM]], [[science-education|הוראת מדעים]], [[math-education|מתמטיקה]], [[statistics-and-data-science-education|סטטיסטיקה ומדעי הנתונים]], [[physics-education|פיזיקה]], [[chemistry-education|כימיה]], [[biology-education|ביולוגיה]], [[cs-education|מדעי המחשב]], [[engineering-education|הנדסה]] ו[[information-technology|טכנולוגיות מידע]].
+- **מקצועות:** [[professions-education|הכשרת מקצועות]], [[medical-education|רפואה ומקצועות הבריאות]], [[nursing-education|סיעוד]], [[legal-education|משפטים]], [[teacher-education|הכשרת מורים]], [[design-education|חינוך לעיצוב]] ו[[libraries|ספריות ומדעי המידע]].
+
+האשכול שאליו משתייך תחום דעת קובע גם איזה עמוד מחזיק את הראיות שלו. [[vocational-education|חינוך והכשרה מקצועיים]] מתויק תחת רמות ולא כאן, מפני שהוא מציין מסלול הסמכה יותר מאשר תחום דעת.
 
 ## רמות והקשרים
 
-אותו כלי בינה מלאכותית פוגש מסגרות שונות מאוד, ומאגר הידע מפריד בין הרמה החינוכית לבין הפדגוגיה כדי שממצאים לא יועברו בשקט ביניהן: [[k-12|בתי ספר מגן ועד תיכון]], [[early-childhood-elementary-ai-education|חינוך לגיל הרך וליסודי]], [[higher-ed|השכלה גבוהה]], [[adult-learning|למידת מבוגרים]], [[vocational-education|חינוך והכשרה מקצועיים]], [[special-education|חינוך מיוחד]] ו[[teacher-education|הכשרת מורים]]. מושגים קרובים לתחום שחוצים רמות כוללים [[universal-design-for-learning|עיצוב אוניברסלי ללמידה]], [[neurodiversity|נוירו-מגוון]], [[multilingual-learning|למידה רב-לשונית]] ו[[social-emotional-learning|למידה חברתית-רגשית]].
+אותו כלי בינה מלאכותית פוגש מסגרות שונות מאוד, ומאגר הידע מפריד בין הרמה החינוכית לבין הפדגוגיה כדי שממצאים לא יועברו בשקט ביניהן: [[k-12|בתי ספר K-12]], המתחלקים כעת ל[[early-childhood-elementary-ai-education|גיל הרך ויסודי]], [[primary-education|חינוך יסודי]] ו[[secondary-education|חינוך תיכוני]]; [[higher-ed|השכלה גבוהה]], המתחלקת ל[[undergraduate-education|תואר ראשון]] ול[[graduate-education|תואר שני ושלישי]]; והמסגרות שמחוץ לרצפים האלה, [[adult-learning|למידת מבוגרים]], [[vocational-education|חינוך והכשרה מקצועיים]], [[special-education|חינוך מיוחד]] ו[[teacher-education|הכשרת מורים]]. [[education-levels|רמות החינוך]] משווה ביניהן. מושגים סמוכים לתחום שחוצים רמות כוללים [[universal-design-for-learning|עיצוב אוניברסלי ללמידה]], [[neurodiversity|נוירו-מגוון]], [[multilingual-learning|למידה רב-לשונית]] ו[[social-emotional-learning|למידה חברתית-רגשית]].
+
+## אותו כלי, בחירות עיצוב הפוכות
+
+הרמה היא המשתנה שהופך המלצת עיצוב בצורה הנקייה ביותר. ראיות מהחטיבה העליונה שמות את המורה בין התלמיד לכלי: על פני 33 מחקרים, רווחים הופיעו היכן שהתלמידים השוו תוצרים, ונמוגו היכן שהכלי הפיק את העבודה ([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca et al. (2026)]]).
+
+ראיות מהתואר השני והשלישי מצביעות לכיוון ההפוך, לעבר שותפות עם אדם שנושא באחריות. מנחי מוכנות הגיעו ל[[self-efficacy|יעילות עצמית]] מחקרית דרך תמיכת המנחה (β = 0.201 בתיווך עקיף), ולא דרך שימוש בכלי ([[luo-ai-readiness-graduate-research-self-efficacy-2026|Luo et al. (2026)]]). סקירת דוקטורט מגיעה לאותה מסקנת עיצוב מהאתיקה: לגיטימיות תלויה במשימה ולא בכלי, חשיפה פרופורציונלית למשמעות האינטלקטואלית, והממשל נבחן בנקודות ציון ([[guanilo-pareja-genai-doctoral-supervision-2026|Guanilo Pareja et al. (2026)]]).
+
+מה שאינו משתנה הוא שאדם מחזיק בשיפוט. סטודנטים בסמינר לתואר שני קיבלו פלט AI רק לאחר ששומר סף בעל ידע בדק אותו, ומה ש-Chen קורא לו סוכנות מואצלת ולא נכנעת ([[chen-genai-self-directed-learning-graduate-seminar-2026|Chen (2026)]]). תדירות היא המדד השגוי בין הרמות: היא ניבאה כשירות בתואר שני ב-β = 0.030 ברגע שאתיקה וויסות עצמי נכנסו למודל ([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova et al. (2026)]]).
 
 ## הערכה ומדידה
 
@@ -127,7 +144,7 @@ ai_assist:
 
 השאלה כיצד אנחנו יודעים אם בינה מלאכותית עובדת היא אשכול בפני עצמו, ומאגר הידע מתייחס אליה ככזו:
 
-- **שיטות מחקר:** [[research-methods-aied|שיטות מחקר ב-AIED]] כמטרייה, עם גישות [[qualitative-research|איכותניות]], [[quantitative-research|כמותיות]], [[mixed-methods-research|מעורבות]], [[design-based-research|מבוססות עיצוב]] ו[[usability-research|בדיקות שמישות]], ובנוסף [[rct|ניסויים מבוקרים אקראיים]], [[meta-analysis-systematic-review|מטא-אנליזה וסקירה שיטתית]] ו[[network-analysis|ניתוח רשתות]].
+- **שיטות מחקר:** [[research-methods-aied|שיטות מחקר ב-AIED]] כמטרייה, עם גישות [[qualitative-research|איכותניות]], [[quantitative-research|כמותיות]], [[mixed-methods-research|מעורבות]], [[design-based-research|מבוססות עיצוב]] [[usability-research|בדיקות שמישות]] ו[[longitudinal-research|מחקר אורכי]], ובנוסף [[rct|ניסויים מבוקרים אקראיים]], [[meta-analysis-systematic-review|מטא-אנליזה וסקירה שיטתית]] ו[[network-analysis|ניתוח רשתות]].
 
 עבודת המחקר של השדה עצמה היא כיום נושא בזכות עצמה. [[ai-assisted-educational-research|מחקר חינוכי בסיוע בינה מלאכותית]] מכסה שימוש ב-AI ככלי לחיפוש ספרות, סינון, קידוד איכותני, ניתוח וכתיבה, כולל מחקר פרקטיקנים כגון תרומת ההוראה והלמידה. הוא נשחר ומובדל מהעיצובים המשמשים לחקור מה AI עושה ללומדים.
 
@@ -186,6 +203,10 @@ ai_assist:
 
 ## מושגים מחוברים
 
+- [[primary-education|חינוך יסודי]] — בינה מלאכותית בבית הספר היסודי
+- [[secondary-education|חינוך תיכוני]] — בינה מלאכותית בחטיבת הביניים ובתיכון
+- [[undergraduate-education|תואר ראשון]] — בינה מלאכותית בלימודי תואר ראשון
+- [[graduate-education|תואר שני ושלישי]] — בינה מלאכותית בלימודי מוסמך ודוקטורט
 - [[ai-literacy|אוריינות AI]] — מטרייה: הבנה, שימוש והערכה של בינה מלאכותית
 - [[human-ai-collaboration|שיתוף פעולה בין אדם לבינה מלאכותית]] — מטרייה: כיצד אנשים ובינה מלאכותית עובדים יחד
 - [[pedagogy|פדגוגיה]] — מטרייה: שיטות ואסטרטגיות הוראה
@@ -214,7 +235,7 @@ ai_assist:
 - [[pedagogical-patterns]] — דפוסים פדגוגיים: הרצפים הנבדקים המממשים את המתודולוגיות של התחום
 - [[ai-assisted-educational-research]] — מחקר חינוכי בסיוע בינה מלאכותית
 - [[automation-bias]] — כשל בצד הקורא: קבלת שיפוט אוטומטי בלי לבדוק אותו
-- [[case-based-learning]] — שיטת מקרה, דיון במקרה ומקרים מנוגדים
+- [[case-based-learning]] — שיטת מקרה, דיון במקוםה ומקרים מנוגדים
 - [[metaphors-and-analogies]] — כיצד מטפורה מעצבת הבנה של AI וכיצד אנלוגיה תומכת בהוראה
 - [[sensor-and-gaze-analytics]] — מטרייה: חישת לומדים באמצעות מבט, EEG ואותות לבישים
 - [[ai-avatars-and-synthetic-instructors]] — מטרייה: בני אדם סינתטיים שמלמדים, חונכים, מדמים ומעריכים
@@ -224,6 +245,11 @@ ai_assist:
 
 סקירות חוצות-תחום של בינה מלאכותית בחינוך: המחקרים שסוקרים את כל התחום או רמה חינוכית שלמה ולא נושא אחד:
 
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 מחקרי GenAI בחינוך תיכוני: רווחים היכן שתלמידים השוו תוצרים, דעיכה היכן שהכלי הפיק את העבודה (Pérez-Montesdeoca et al. 2026)
+- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — מוכנות מחקרית בתואר שני מגיעה דרך תמיכת מנחה, לא דרך שימוש בכלי (Luo et al. 2026)
+- [[guanilo-pareja-genai-doctoral-supervision-2026]] — אתיקה של הנחיית דוקטורט ב-GenAI: לגיטימיות לפי משימה, חשיפה פרופורציונלית, ממשל בנקודות ציון (Guanilo Pareja et al. 2026)
+- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — סמינר לתואר שני: סוכנות מואצלת ולא נכנעת כאשר שומר סף בקיא בודק את הפלט (Chen 2026)
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — תדירות שימוש היא מדד שגוי לכשירות בין רמות; אתיקה וויסות עצמי נושאים את הקשר (Zaripova et al. 2026)
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
 - [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
 - [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies

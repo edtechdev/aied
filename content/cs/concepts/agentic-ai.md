@@ -10,16 +10,20 @@ discipline: [stem education]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
-connected_resources: [deeptutor, learnharness, primer]
+connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-13T18:20:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -41,6 +45,7 @@ ai_assist:
 ## Úvod
 
 Agentní AI označuje systémy umělé inteligence, které dokážou autonomně plánovat, vykonávat a přizpůsobovat vícekrokové pracovní postupy k dosažení učebních cílů a přesahují jednokolové zodpovídání otázek, aby ve vzdělávacích kontextech působily jako trvalí, na cíl orientovaní spolupracovníci. Ve vzdělávání se agentní AI projevuje jako AI tutoři, kteří poskytují scaffolding v rozsáhlých interakcích, víceagentní systémy, které orchestrují složité [[learning-design|návrhy výuky]], a autonomní agenti, kteří přizpůsobují své [[pedagogy|pedagogické]] strategie potřebám studentů. Toto vznikající paradigma mění AI z nástroje, který reaguje na prompty, ve spolupracovníka, který aktivně vede, přizpůsobuje a spolureguluje procesy učení.
+
 - **Oddělení specifikace od vykonání je to, co činí agentní pipeline spolehlivou.** DagFlow-AI nechává LLM agenty definovat každou komponentu mechanismu generujícího data (proměnné, orientovaný acyklický graf, rozdělení a modelové formule), zatímco program vzorkuje pozorování a validační skript kontroluje výstup každého agenta ([[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur et al., 2026]]). Žádný agent negeneruje data ani nepíše kód generování, což autoři představují jako odpověď na nepodložený výstup a drift instrukcí.
 
 ## Definování a klasifikace agentní AI
@@ -68,6 +73,10 @@ Zatímco [[agentic-ai-education-scoping-review|scoping review 474 studií]] a [[
 - **Škálovač reportingu a řízení: rámec Autonomie-Dohled-Důkazy (AOE).** [[beyond-agent-label-agentic-ai-governance-2026|Dey (2026)]] tvrdí, že termín *agentní AI* se používá tak nekonzistentně, že důkazy a dohled nelze mezi studiemi srovnávat: systémy, které plánují, pamatují si, používají nástroje nebo koordinují více agentů, se hází do jednoho pytle se statickými rozhraními generativní AI a konvenčními [[pedagogical-agent|pedagogickými agenty]]. Jeho kritický integrativní přehled patnácti recenzovaných přehledů zjišťuje, že důkazy jsou nejsilnější pro výsledky na úrovni artefaktů (přesnost zpětné vazby, snížení [[hallucination-risk|halucinací]]) a nejslabší pro trvalé učení, rovnost, pracovní zátěž nebo institucionální výsledky, přičemž autentická nasazení bývají krátká, jednomístná a slabě svázaná s dohledem. Nápravou je konkrétní tripletný reporting: **úroveň autonomie A0-A4** (reaktivní generování, ohraničená orchestrace, delegovaná autonomie úkolů, autonomie pracovních postupů, *následková autonomie* nad známkováním, přijímáním a postupem), **úroveň dohledu O0-O4** (nespecifikovaný, retrospektivní audit, schválení před použitím, kontrolní body, *nepřetržitý ohraničený dozor*) a **stupeň zralosti důkazů M0-M5** (koncept, prototyp či benchmark, hodnocení s účastníky, autentické nasazení, rozšířené či vícemístné, *replikované či v měřítku instituce*), plus **pravidlo proporcionality**: přípustná autonomie by neměla předbíhat ani zralost důkazů, ani sílu dohledu (např. následkový systém A4 vyžaduje důkazy M4-M5, právní validaci a O4 s konečnou autoritou člověka). Reporting *A2-O3-M3* mění vágní tvrzení o „agentním nasazení" ve srovnatelné, testovatelné specifikace a dává institucím gramatiku postupného zavádění, logování a vracení změn, tedy důkazní protějšek spektra [[baradziej-agentic-ai-higher-education-2026|Copilot až Autopilot]] výše.
 - **Testování adversariální robustnosti:** [[adversarial-stress-testing-role-playing-agents|Stresové testování více agentů]] koordinuje agenty Interrogator, Target a Judge, aby odhalilo režimy selhání neviditelné při testování jedinou strategií, a snižuje skóre robustnosti o 0,17-0,20 bodu, což je klíčové pro konzistenci person a [[pedagogical-safety|bezpečné nasazení]] se studenty.
 - **Aplikace v oborech:** agentní systémy se objevují napříč obory, včetně [[learnmate2-llm-adaptive-learning|adaptivních učebních agentů]], [[educlaw-bench-pedagogical-llm-agents-2026|pedagogických LLM agentů]], [[guided-llm-scaffolding-independent-learning|řízeného LLM scaffoldu]], [[cyberagents-gamified-cybersecurity-learning-2026|agentů pro gamifikované učení kyberbezpečnosti]] a [[hdr-brachytherapy-agentic-ai-simulation-2026|agentů pro klinickou simulaci]].
+- **Agentní známkování je nejprve otázkou spolehlivosti, teprve potom pracovní zátěže.** Agentní nasazení Claude Code dostalo tři soubory rubrik a 60 naskenovaných ručně psaných pololetních prací z kurzu počítačové grafiky. Jeho známky se shodovaly s vyučujícím na r = 0,97, s průměrnou absolutní chybou 0,85 známky u dvacetibodové práce, průměrným pozitivním zkreslením AI 0,68 a test-retest ICC = 0,96 napříč dvěma sezeními týden od sebe. Agregát skrývá, kde selhává: vážená kappa se pohybovala od 0,98 u multiple choice po 0,65 u hodnoticích položek, přičemž nejslabším případem byly ručně kreslené diagramy ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Jeden kurz, jeden vyučující a jeden soubor rubrik lokalizují rozptyl; neprokazují, že agentní známkování zobecňuje.
+
+Agentní architektury kupují pokrytí za měřitelnou cenu v přesnosti. Na benchmarku [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumaha et al. (2026)]] s 926 vzorky pracovních nabídek a 1 696 zlatými standardy dovedností vedl ReAct agent s vyhledávacím nástrojem ESCO v rozšířeném recallu s 89,7 %, proti 83,7 % u nejlepší generativní konfigurace a 49,1 % u nejlepšího embeddingového modelu. Jeho přesnost byla 22,7 %, takže F1 zůstalo na 36,3 %, pod Gemini 2.5 Flash zakotveným v nástrojích s 51,6 %, a běžel asi 16 sekund na vzorek. Recall je správnou metrikou, když lidský poradce seznam prořezává; nezprostředkovaný výstup potřebuje zakotvenou alternativu.
+
 - **Weboví agenti jako hodnotitelé učební zkušenosti:** jediný autonomní „popisující" webový agent, který prochází online [[learning-design|lekci]] jako student, [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]], vytváří popis natolik bohatý, že předpovídá předčasné ukončení studia a dává návrháři použitelnou zpětnou vazbu dříve, než se zapojí skuteční studenti; v celosvětovém kurzu CS1 překonal plnou simulovanou kohortu i všechny baseline. Tím se agentní hodnocení (agent jako zástupný kritik učební zkušenosti) staví jako svébytné, nízkonákladové využití agentní AI vedle agentů, kteří učí nebo navrhují.
 
 ### Víceagentní systémy
@@ -206,6 +215,7 @@ Agentní AI není ani všelék, ani nevyhnutelná újma: její hodnota závisí 
 
 ## Související články
 
+- [[alghamdi-claude-code-agentic-grading-2026]] — agentic marking of 60 handwritten exams: r = .97 overall, kappa falling to .65 on evaluative items
 - [[jingru-fan-agentic-university-collaborative-agents-2026]] — Agenti organizovaní kolem revidovatelného programu schopností, se studujícím jako členem
 - [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomie, kompetence, sounáležitost a sociální přítomnost jako cesty od agentní AI k angažovanosti (Pramod & Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agenti, radostné hodnocení a třetí prostor
@@ -233,3 +243,4 @@ Agentní AI není ani všelék, ani nevyhnutelná újma: její hodnota závisí 
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD s AI agenty v softwarovém PBL; automatizace versus porozumění
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Hodnocení víceagentního LLM systému orientovaného na scaffolding pro výuku klinického rozhovoru
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Agenti pro etický trénink: podpora skupinového etického vzdělávání s hraním rolí a diskusí pro etickou reflexi a zkoumání
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — Porovnání AI přístupů k automatické extrakci dovedností: od embeddingů k agentním systémům pro inženýrské vzdělávání

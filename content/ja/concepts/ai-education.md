@@ -1,7 +1,7 @@
 ---
 title: 教育におけるAI
 created: "2026-09-22T14:35:13-04:00"
-updated: "2026-11-07T20:33:50-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-17T08:15:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
@@ -32,6 +32,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -63,7 +67,7 @@ ai_assist:
 - **[[pedagogy|教授法と教育戦略]]** — 教えることがどのように行われるかの最上位概念です。AIがその中で働く教育方法と戦略([[active-learning|アクティブラーニング]]、[[collaborative-learning|協調学習]]、[[project-based-learning|プロジェクトベース学習]]、[[problem-based-learning|問題基盤型学習]]、[[experiential-learning|経験学習]]、[[game-based-learning|ゲームベース学習]]、[[socratic-method|ソクラテス式問答法]]、[[scaffolding|足場かけ]]など)を扱い、[[online-teaching-and-learning|オンライン教育と学習]]という独特な文脈も含みます。
 - **[[learning-theories|学習理論]]** — 学習がどのように起こるかの最上位概念です。AIの設計と評価を形づくる理論的枠組み([[behaviorism|行動主義]]、[[cognitive-psychology|認知主義]]、[[constructivist|構成主義]]、[[sociocultural-learning|社会文化的学習]]、認知的、[[motivation|動機づけ]])を扱います。
 - **[[ai-technologies|技術]]** — 技術的な層の最上位概念です。AIEDを支えるAIシステム([[llm|LLM]]、[[generative-ai|生成AI]]、[[multimodal|マルチモーダル]]、[[educational-robotics|ロボティクス]])と手法([[rag|RAG]]、[[prompt-engineering|プロンプトエンジニアリング]]、[[reinforcement-learning|強化学習]]、[[llm-training-and-fine-tuning|モデル訓練]]、[[agentic-ai|エージェント型オーケストレーション]])を扱います。学習者モデリングの系列、すなわち[[knowledge-tracing|知識トレーシング]]、[[cognitive-diagnosis|認知診断]]、[[simulating-students|学生のシミュレーション]]と、これらを利用するシステム([[intelligent-tutoring|知的個別指導]]、[[adaptive-learning|適応学習]]、[[personalized-learning|個別最適化学習]])は、この技術系統の中で[[student-modeling|学習者モデリングと適応的な指導]]という最上位概念のもとにまとめられています。
-- **[[discipline-specific-aied|専門分野におけるAI]]** — AIが教科領域をまたいでどのように応用されるかの最上位概念です([[math-education|数学]]、[[physics-education|物理]]、[[language-learning|言語学習]]、[[cs-education|情報科学]]、[[writing-education|作文]]、[[stem-education|STEM]]、[[engineering-education|工学]]、[[business-education|経営]]、[[teacher-education|教員養成]]、[[medical-education|医療専門職]]など)。さらに、学問教科を越えて、正しさよりも実践の実証を評価する専門職・応用の系統([[nursing-education|看護]]、[[information-technology|情報技術]]、[[vocational-education|職業教育訓練]]、[[design-education|デザイン教育]])と、教育段階([[k-12|K-12]]、[[higher-ed|高等教育]]、[[adult-learning|成人学習]])も扱います。
+- **[[discipline-specific-aied|専門分野におけるAI]]** — AIが教科領域をまたいでどのように応用されるかについての最上位概念で、4つのクラスターに分かれます。[[humanities-education|人文・芸術]]は歴史、哲学、文学、言語を扱い、その傍らに[[arts-and-media-education|芸術・メディア]]と[[music-education|音楽]]があります。[[social-sciences-education|社会科学]]は市民性、経営・経済、環境研究を扱います。[[stem-education|STEM]]は数学、物理、化学、生物、情報科学、工学を扱います。[[professions-education|専門職]]は認定されたプログラム——[[medical-education|医療・保健専門職]]、[[nursing-education|看護]]、[[legal-education|法学教育]]、[[teacher-education|教員養成]]、[[design-education|デザイン教育]]、[[libraries|図書館学]]——を扱い、そこでは評価が、認定された判断が受験者自身のものであったことを示さなければなりません。クラスターは教科だけでなく学校教育の段階にも及びます。
 - **[[assessment|評価]]**([[formative-assessment|形成的]]、[[summative-assessment|総括的]]、[[authentic-assessment|真正の]]、[[oral-assessment|口頭]]、[[automated-assessment|自動]]の各系統を含む) — AIが学習者を評価すると同時に、評価の妥当性と誠実性を作り変える様子を扱う最上位概念です。
 - **[[feedback|フィードバック]]** — フィードバックがどのように生成され、届けられ、使われるかの最上位概念です。フィードバックループ、[[ai-feedback-quality|フィードバックの品質]]、[[feedback-literacy|フィードバックリテラシー]]、そしてその評価の文脈([[formative-assessment|形成的]]、[[peer-assessment|相互]]、[[automated-assessment|自動]])を扱います。
 - **[[stakeholders|AI教育のステークホルダー]]** — 行為者が誰であるかの最上位概念です。学習者、[[teacher-role|教員]]、[[learning-design|学習デザイナー]]、[[administrator|管理者]]、[[educational-policy-ai|政策立案者]]です。
@@ -90,8 +94,8 @@ ai_assist:
 AIが指導と学習をどのように支えるかは、この分野の中心です。主要な概念は次のとおりです。
 
 - **中核となる教授法:** [[pedagogy|教授法と教育戦略]](ナレッジベースの教育方法の網羅の最上位概念)と、[[pedagogical-patterns|教授のパターン]](それらの方法が行き着く検証された順序)、[[active-learning|アクティブラーニング]]、[[collaborative-learning|協調学習]]、[[group-work|グループワーク]]、[[project-based-learning|プロジェクトベース学習]]、[[problem-based-learning|問題基盤型学習]]、[[productive-failure|生産的失敗]]、[[inquiry-based-learning|探究型学習]]、[[experiential-learning|経験学習]]、[[game-based-learning|ゲームベース学習]]、[[learning-by-teaching|教えることによる学習]]、[[scaffolding|足場かけ]]、[[socratic-method|ソクラテス式問答法]]、[[critical-pedagogy|批判的教育学]]、[[pedagogical-partnerships|教育パートナーシップ]]、[[storytelling-in-education|ストーリーテリング]]、[[learning-design|学習設計]]、[[online-teaching-and-learning|オンライン教育と学習]]、[[video-education|教育における動画]]です。
-- **学習理論と学習プロセス:** [[learning-theories|学習理論]]の最上位概念([[behaviorism|行動主義]]、[[cognitive-psychology|認知主義]]、[[constructivist|構成主義]]、[[sociocultural-learning|社会文化的学習]]、[[distributed-cognition|分散認知]]、[[situated-learning|状況的学習]]、[[embodied-learning|身体化された学習]]、[[community-of-inquiry|探究共同体]])は、学習者に向き合うプロセス、すなわち[[self-regulated-learning|自己調整学習]]、[[self-determination-theory|自己決定理論]]、[[motivation|動機づけ]]、[[self-efficacy|自己効力感]]、[[self-directed-learning|自己主導学習]]、[[metacognition|メタ認知]]、[[desirable-difficulties|望ましい困難]]、[[transfer-of-learning|学習の転移]]、[[prior-knowledge|事前知識]]、[[icap-framework|ICAP認知エンゲージメント]]、[[reflection]]、[[refutation-text|反駁テキスト]]、[[retrieval-spacing-interleaving|検索練習・分散・インターリービング]]、[[activity-theory-aied|活動理論]]と並びます。
-- **学習者のエンゲージメントと経験:** [[student-engagement|学生エンゲージメント]]、[[help-seeking|援助要請]]、[[social-emotional-learning|社会情動的学習]]、[[well-being|ウェルビーイング]]、[[creativity|創造性]]、[[problem-solving|問題解決]]、[[mastery-learning|完全習得学習]]、[[student-ai-interaction|学生とAIの相互作用]]が、学習者が実際にAIとどう出会い、どう影響を受けるかを形づくります。そして[[social-norms-ai-use|AI利用をめぐって定着する社会的規範]]が、それをどれだけ率直に議論できるかを決めます。コースを超えて、[[student-support-and-success|学生の支援と成功]]は制度的側面の仕事——指導、働きかけ、紹介、そして配分——を扱います。
+- **学習理論と学習プロセス:** [[learning-theories|学習理論]]の最上位概念([[behaviorism|行動主義]]、[[cognitive-psychology|認知主義]]、[[constructivist|構成主義]]、[[sociocultural-learning|社会文化的学習]]、[[distributed-cognition|分散認知]]、[[situated-learning|状況的学習]]、[[embodied-learning|身体化された学習]]、[[community-of-inquiry|探究共同体]])は、学習者に向き合うプロセス、すなわち[[self-regulated-learning|自己調整学習]]、[[self-determination-theory|自己決定理論]]、[[motivation|動機づけ]]、[[self-efficacy|自己効力感]]、[[self-directed-learning|自己主導学習]]、[[metacognition|メタ認知]]、[[desirable-difficulties|望ましい困難]]、[[transfer-of-learning|学習の転移]]、[[prior-knowledge|事前知識]]、[[icap-framework|ICAP認知エンゲージメント]]、[[reflection]]、[[refutation-text|反駁テキスト]]、[[retrieval-spacing-interleaving|検索練習・分散・インターリービング]]、[[activity-theory-aied|活動理論]]と並びます。発達的な枠組みはこれらを横断します。[[developmental-psychology|発達心理学]]は、同じ過程が5歳、15歳、25歳でなぜ異なって見えるのかを説明します。
+- **学習者のエンゲージメントと経験:** [[student-engagement|学生エンゲージメント]]、[[help-seeking|援助要請]]、[[social-emotional-learning|社会情動的学習]]、[[well-being|ウェルビーイング]]、[[creativity|創造性]]、[[problem-solving|問題解決]]、[[mastery-learning|完全習得学習]]、[[student-ai-interaction|学生とAIの相互作用]]が、学習者が実際にAIとどう出会い、どう影響を受けるかを形づくります。そこでは[[empathy|共感]]が、しばしば主張されながらめったに測定されない情動的な成果であり、そして[[social-norms-ai-use|AI利用をめぐって定着する社会的規範]]が、それをどれだけ率直に議論できるかを決めます。コースを超えて、[[student-support-and-success|学生の支援と成功]]は制度的側面の仕事——指導、働きかけ、紹介、そして配分——を扱います。
 
 ## 技術と手法
 
@@ -104,13 +108,26 @@ AIが指導と学習をどのように支えるかは、この分野の中心で
 
 ## 専門分野におけるAI
 
-AIは専門分野と教育段階をまたいで応用されます。ナレッジベースの[[discipline-specific-aied|専門分野におけるAIEDの概観]]は教科領域の網羅を地図にします。あわせて[[learning-sciences|学習科学]]も挙げられます。これは教えられる教科ではなく、学習そのものを研究し、教科内容を数ある変数の一つとして扱う横断的な研究分野です。
+教科領域の網羅はこの分野の最大の部分です。[[discipline-specific-aied|専門分野におけるAIEd]]がそれを担い、その傍らに[[learning-sciences|学習科学]]があります。学習科学は教えられる教科ではなく、学習そのものを研究し、教科内容を数ある変数の一つとして扱う横断的な研究分野です。4つのクラスターが教科のページを組織します。
 
-- **教科領域:** [[math-education|数学]]、[[statistics-and-data-science-education|統計・データサイエンス]]、[[physics-education|物理]]、[[chemistry-education|化学]]、[[biology-education|生物]]、[[cs-education|情報科学]]、[[engineering-education|工学]]、[[stem-education|STEM]]、[[writing-education|作文]]、[[reading-education|読解教育]]、[[language-learning|言語学習]]、[[english-education|英語教育(EAP/EFL/ESL)]]、[[libraries|図書館情報学]]、[[science-education|科学教育]]、[[environmental-education|環境教育]]、[[business-education|経営・経済・マネジメント]]、[[humanities-education|人文・社会科学]]、[[civic-and-political-education|市民・政治教育]]、[[arts-and-media-education|芸術・デザイン・メディア教育]]、[[medical-education|医療・保健専門職]]、[[legal-education|法学教育]]、そして専門職・応用の系統である[[nursing-education|看護]]、[[information-technology|情報技術]]、[[vocational-education|職業教育訓練]]、[[design-education|デザイン教育]]です。
+- **人文・芸術:** [[humanities-education|人文教育]]、[[arts-and-media-education|芸術・メディア教育]]、[[music-education|音楽教育]]、[[writing-education|作文教育]]、[[reading-education|読解教育]]、[[language-learning|言語学習]]、そして[[english-education|英語教育(EAP/EFL/ESL)]]。
+- **社会科学:** [[social-sciences-education|社会科学教育]]、[[civic-and-political-education|市民・政治教育]]、[[business-education|経営・経済・マネジメント]]、そして[[environmental-education|環境教育]]。
+- **STEM:** [[stem-education|STEM教育]]、[[science-education|科学教育]]、[[math-education|数学]]、[[statistics-and-data-science-education|統計・データサイエンス]]、[[physics-education|物理]]、[[chemistry-education|化学]]、[[biology-education|生物]]、[[cs-education|情報科学]]、[[engineering-education|工学]]、そして[[information-technology|情報技術]]。
+- **専門職:** [[professions-education|専門職教育]]、[[medical-education|医療・保健専門職]]、[[nursing-education|看護]]、[[legal-education|法学教育]]、[[teacher-education|教員養成]]、[[design-education|デザイン教育]]、そして[[libraries|図書館情報学]]。
+
+教科がどのクラスターに入るかは、その証拠をどのページが所有するかも決めます。[[vocational-education|職業教育訓練]]は、教科というより資格への経路を名指すため、ここではなく教育段階の下に置かれています。
 
 ## 教育段階と文脈
 
-同じAIツールでも、出会う場面は大きく異なります。そこでナレッジベースは教育段階と教授法を切り分け、知見がそれらの間で無自覚に転用されないようにしています。[[k-12|K-12の学校]]、[[early-childhood-elementary-ai-education|幼児・初等教育]]、[[higher-ed|高等教育]]、[[adult-learning|成人学習]]、[[vocational-education|職業教育訓練]]、[[special-education|特別支援教育]]、[[teacher-education|教員養成]]です。段階を横断する領域隣接の概念には、[[universal-design-for-learning|学習のユニバーサルデザイン]]、[[neurodiversity|ニューロダイバーシティ]]、[[multilingual-learning|多言語学習]]、[[social-emotional-learning|社会情動的学習]]があります。
+同じAIツールでも、出会う場面は大きく異なります。そこで教育段階は教授法から切り離して保たれ、知見がそれらの間で無自覚に転用されないようにしています。[[k-12|K-12の学校]]は、現在では[[early-childhood-elementary-ai-education|幼児期]]、[[primary-education|初等教育]]、[[secondary-education|中等教育]]に分かれます。[[higher-ed|高等教育]]は[[undergraduate-education|学部]]と[[graduate-education|大学院]]の課程に分かれます。そしてそれらの梯子の外にある場面、すなわち[[adult-learning|成人学習]]、[[vocational-education|職業教育訓練]]、[[special-education|特別支援教育]]、[[teacher-education|教員養成]]があります。[[education-levels|教育の段階]]がそれらを比較します。段階を横断する領域隣接の概念には、[[universal-design-for-learning|学習のユニバーサルデザイン]]、[[neurodiversity|ニューロダイバーシティ]]、[[multilingual-learning|多言語学習]]、[[social-emotional-learning|社会情動的学習]]があります。
+
+## 同じ道具、反対の設計選択
+
+教育段階は、設計上の推奨を最も明快に反転させる変数です。中等教育の証拠は、学生と道具の間に教師を置きます。33の研究を通じて、学生が出力を比較したところで伸びが生じ、道具が作業を生み出したところで薄れました([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeocaら(2026)]])。
+
+大学院の証拠は逆を指し、説明責任を持つ人間との協働へと向かいます。準備を促す要因は、道具の利用ではなく指導教員の支援を通じて研究の[[self-efficacy|自己効力感]]に届きました(間接 β = 0.201)([[luo-ai-readiness-graduate-research-self-efficacy-2026|Luoら(2026)]])。博士課程のレビューも倫理から同じ設計上の結論に達します。正当性は道具ではなく課題にかかり、開示は知的意義に比例し、ガバナンスは節目ごとに検討されます([[guanilo-pareja-genai-doctoral-supervision-2026|Guanilo Parejaら(2026)]])。
+
+変わらないのは、人間が判断を持つということです。大学院の演習の学生は、知識のある門番が確かめた後にしかAIの出力を受け入れず、Chenはそれを降伏ではなく委任された主体性として読みます([[chen-genai-self-directed-learning-graduate-seminar-2026|Chen (2026)]])。頻度は段階をまたぐ指標としては誤りです。倫理と自己調整がモデルに入ると、頻度は大学院のコンピテンシーをβ = 0.030で予測するだけでした([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripovaら(2026)]])。
 
 ## 評価と測定
 
@@ -123,7 +140,7 @@ AIは、学習者をどう評価するかと、AIシステムそのものをど�
 
 AIが機能するかどうかをどうやって知るかは、それ自体が一つの系統であり、ナレッジベースもそう扱っています。
 
-- **研究方法:** 最上位概念としての[[research-methods-aied|AIEDの研究方法]]があり、[[qualitative-research|質的]]、[[quantitative-research|量的]]、[[mixed-methods-research|混合]]、[[design-based-research|デザインに基づく]]、[[usability-research|ユーザビリティ]]の各アプローチ、さらに[[rct|ランダム化比較試験]]、[[meta-analysis-systematic-review|メタ分析と系統的レビュー]]、[[network-analysis|ネットワーク分析]]があります。
+- **研究方法:** 最上位概念としての[[research-methods-aied|AIEDの研究方法]]があり、[[qualitative-research|質的]]、[[quantitative-research|量的]]、[[mixed-methods-research|混合]]、[[design-based-research|デザインに基づく]]、[[usability-research|ユーザビリティ]]、[[longitudinal-research|縦断的]]の各アプローチ、さらに[[rct|ランダム化比較試験]]、[[meta-analysis-systematic-review|メタ分析と系統的レビュー]]、[[network-analysis|ネットワーク分析]]があります。
 
 この分野自身の研究作業は、今やそれ自体が一つの主題となっています。[[ai-assisted-educational-research|AI支援による教育研究]]は、文献検索、スクリーニング、質的な符号化、分析、執筆の道具としてのAIを扱います。教育と学習の学術研究(SoTL)のような実践者による研究も含めてです。これは、AIが学習者に何をするかを研究するために用いられる設計とは区別されたままです。
 - **AIシステムの検証:** システムの能力を判断するための[[ai-ed-evaluation|教育AIの検証]]と[[benchmark|ベンチマーク]]があり、重要となる成果としての[[learning-gains|学習効果]]、そして警戒のための重しとして、この根拠の[[limitations-in-aied-research|横断的な限界]]と[[interpreting-and-applying-aied-research|1つの研究をどう読むか]]があります。
@@ -182,6 +199,11 @@ AIが機能するかどうかをどうやって知るかは、それ自体が一
 **「分野の成熟度は出版量から読み取れる。」** 量と成熟度は乖離します。研究方法の系列は、量では直らない設計上の弱点が繰り返し現れることを記録しており、枠組みは検証される速さよりも速く増えていきます。
 
 ## 関連する概念
+- [[primary-education]] — 初等教育におけるAI
+- [[secondary-education]] — 中等教育におけるAI
+- [[undergraduate-education]] — 学部課程におけるAI
+- [[graduate-education]] — 修士・博士課程におけるAI
+- [[pedagogical-patterns]] — 教育学的パターン：当該分野の教授法を具体化する実証済みの連鎖
 - [[ai-literacy]] — 最上位概念:AIを理解し、使い、評価すること
 - [[automation-bias]] — 読み手側の失敗:自動化された判断を確かめずに受け入れること
 - [[human-ai-collaboration]] — 最上位概念:人とAIがどのように協働するか
@@ -213,15 +235,17 @@ AIが機能するかどうかをどうやって知るかは、それ自体が一
 - [[sensor-and-gaze-analytics]] — 最上位概念:視線、EEG、ウェアラブル信号を通じて学習者を感知する
 - [[ai-avatars-and-synthetic-instructors]] — 最上位概念:教え、指導し、シミュレートし、評価する合成された人間
 - [[civic-and-political-education]] — 教科領域:公共生活のためのリテラシー、証拠基盤は薄い
-- [[pedagogical-patterns]] — 教育学的パターン：当該分野の教授法を具体化する実証済みの連鎖
 - [[ai-assisted-educational-research]] — AI支援教育研究
 
 ## 関連する記事
 
-教育におけるAIに関する分野全体のレビュー。1つのトピックではなく、分野全体あるいはある教育段階全体を概観する研究です。
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
-- [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
-- [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies
-- [[stanford-evidence-base-ai-k12-2026]] — The evidence base on AI in K-12: a review of 818 papers
-- [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis
+- [[rismanchian-ai-education-four-decades-aixed-2026]] — 40年にわたるAIと教育の研究の進化(AI×Edフレームワーク)
+- [[mishra-control-vs-agency-history-2025]] — 統制か主体性か:教育におけるAIの歴史
+- [[genai-higher-education-systematic-review-2026]] — 高等教育における生成的AI:125研究の系統的レビュー
+- [[stanford-evidence-base-ai-k12-2026]] — K-12におけるAIの証拠基盤:818本の論文のレビュー
+- [[genai-educational-outcomes-meta-analysis]] — 生成的AIと教育成果:包括的なメタ分析
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 中等教育の33研究:学生が出力を判断するところで伸び、道具が作業を生み出すところでは伸びない
+- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 修士の学生425人:準備は指導教員の支援を通じて自己効力感に届いた
+- [[guanilo-pareja-genai-doctoral-supervision-2026]] — 博士課程の指導の倫理、フィードバック、ガバナンスに関する61資料のレビュー
+- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — 単一群の大学院演習:支援なしのテストなしで自己主導学習の伸び
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 学生381人:倫理と自己調整における学部と大学院の隔たり

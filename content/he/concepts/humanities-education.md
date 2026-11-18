@@ -3,7 +3,7 @@ title: חינוך במדעי הרוח והמדעים החברתיים
 created: "2026-10-12T20:40:00-04:00"
 updated: "2026-11-08T11:34:07-05:00"
 type: concept
-foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
+foundations: [ai-literacy, critical-thinking, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]

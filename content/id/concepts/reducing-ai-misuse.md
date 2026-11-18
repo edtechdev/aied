@@ -8,9 +8,9 @@ pedagogy: [metacognition, motivation, scaffolding, self-regulated-learning]
 technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
-translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-11-04T15:40:00-05:00"
-updated: "2026-11-08T06:32:22-05:00"
+translation_of: "concepts/reducing-ai-misuse"
+source_updated: "2026-11-17T11:05:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*"
 contributors: [editor]
 ai_assist:
@@ -22,7 +22,10 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
-
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -42,15 +45,14 @@ ai_assist:
 
 Konsep ini bersandar pada bukti bahwa penyalahgunaan AI secara aktif merugikan pembelajaran yang bertahan lama - kesenjangan kinerja-pembelajaran yang didokumentasikan dalam [[ai-misuse-learning-harm]] - bahkan sambil mengembungkan kinerja langsung. Karena itu intervensi menyasar mekanisme kerugian tersebut: penyalinan jawaban, [[cognitive-offloading|pengalihan kognitif]], erosi motivasi, dan penggeseran pembelajaran. Intervensi-intervensi itu tidak saling eksklusif; pendekatan yang kokoh menggabungkan lantai struktural dengan pembangunan kapasitas yang edukatif.
 
-
 **Mekanisme terbentuknya penyalahgunaan kini punya rantai terukur di belakangnya.** [[guo-overreliance-genai-feedback-2026|Guo dan Dong (2026)]] mensurvei 600 mahasiswa dan menemukan beban kognitif yang dipersepsikan memprediksi pengalihan kognitif pada β = 0.844 di kelompok pemantauan rendah dan β = 0.840 di kelompok pemantauan tinggi. Pengalihan itu kemudian memprediksi ketergantungan berlebih pada umpan balik AI masing-masing pada β = 0.396 dan β = 0.506, dengan efek tidak langsung 0.335 [0.069, 0.611] dan 0.426 [0.149, 0.648]. Beban juga memprediksi ketergantungan berlebih secara langsung (β = 0.560 dan 0.419), sehingga pengalihan merupakan mediator parsial, dan anteseden yang dapat diserang tuas struktural adalah beban itu sendiri.
 
-### Mengapa tuas struktural paling penting
+## Mengapa tuas struktural paling penting
 
 Intervensi dapat diurutkan menurut **bukti kausal x jangkauan struktural x skalabilitas x [[sustainability|keberlanjutan]]**. Atas dasar ini, dua tuas *struktural* menempati peringkat tertinggi karena keduanya bekerja terlepas dari apakah siswa memilih perilaku yang benar - keduanya membatasi lingkungan alih-alih bergantung pada motivasi internal. Tuas *edukatif* penting tetapi hanya efektif ketika siswa menerimanya, sehingga diperlakukan sebagai tingkat kedua meskipun janji konseptualnya besar. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher dan Calderon (2025)]] menaikkan argumen struktural satu tingkat ke atas, memperlakukan tata kelola alih-alih perilaku siswa sebagai kendala pengikat dan mengusulkan kerangka indikator integritas 130 butir agar pengelola akademik dapat melihat apakah penilaian autentik, apakah siswa dikenal secara individual oleh guru yang menilai mereka, dan apakah integritas muncul dalam induksi dan orientasi. Reformasi mereka menyasar arsitektur tata kelola, orang, dan [[ai-technologies|teknologi serta sumber daya]], dan mereka mengusulkan meminjam [[guardrails|uji tim merah]] dari keamanan siber untuk mengekspos kerentanan penilaian sebelum siswa menemukannya - sebuah pengingat bahwa lantai struktural dipelihara oleh institusi yang membutuhkan informasi sekaligus kemauan untuk memeliharanya.
 Literatur penggunaan yang bertanggung jawab itu sendiri jarang menguji rantai yang diasumsikan peringkat ini. Dari 122 catatan pendekatan yang diambil dari 31 studi, 51 diimplementasikan sekaligus dievaluasi, sebagian besar melalui [[self-report-measures|laporan diri]], dan hanya empat studi yang menetapkan batas, merancang intervensi di sekitarnya, dan menguji apakah keputusan siswa selaras ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega dan Zhao (2026)]]).
 
-### Tingkat 1 - Terbukti langsung mengurangi kerugian pembelajaran
+## Tingkat 1 — Terbukti langsung mengurangi kerugian pembelajaran
 
 **Desain alat AI dengan pagar pengaman ([[scaffolding]] "petunjuk-bukan-jawaban").** Dalam temuan kausal terkuat di basis pengetahuan, sebuah [[rct]] lapangan menunjukkan tutor bergaya ChatGPT tanpa pagar menaikkan kinerja latihan berbantuan **+48%** tetapi menurunkan skor ujian tanpa bantuan **-17%**, sementara tutor dengan pagar pengaman (petunjuk alih-alih jawaban, ditambah informasi soal yang ditulis guru) menghilangkan kerugian itu sepenuhnya. Ini secara mekanis mencegah perilaku "tongkat penyangga" penyalinan jawaban yang menjadi dasar kerusakan tersebut. Kegiatannya mencakup tutoring petunjuk-bukan-jawaban, menyemai prompt dengan solusi yang benar dan [[misconceptions|miskonsepsi]] umum, serta mewajibkan siswa mencoba terlebih dahulu sebelum keluaran AI ditampilkan.
 
@@ -60,7 +62,7 @@ Literatur penggunaan yang bertanggung jawab itu sendiri jarang menguji rantai ya
 
 Tuas struktural memiliki lengan penegakan, dan basis buktinya lebih lemah daripada yang disiratkan jangkauannya. [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] mengodekan 1.162 kasus pelanggaran AI generatif dan menemukan bahwa bukti yang paling sering dikutip pada titik tuduhan - keluaran [[ai-detection|detektor]], laporan kemiripan, pola konten khas AI - membawa nilai probatif paling lemah, sementara pengakuan, perilaku ujian yang teramati, dan referensi fabrikasi yang diverifikasi secara independen adalah yang terkuat; karena prosedur institusional tidak menetapkan ambang pembuktian minimum, kualitas bukti tidak memiliki hubungan yang dapat diandalkan dengan hasil kasus, dan siswa yang kasusnya bersandar pada bukti tipis memiliki jalan keluar terutama melalui banding. [[wright-transcription-not-generation-2026|Wright (2026)]] menunjukkan biaya kedua dari ketidaktepatan yang sama: larangan yang ditulis seputar "AI generatif" alih-alih seputar fungsi menangkap alat yang sekadar mengonversi format karya yang telah ditulis siswa, sehingga penggunaan transkripsi saja dapat disanksi sebagai pelanggaran - inklusi berlebih yang paling berat menimpa mereka yang terekspos oleh [[equity-in-ai-education|ekuitas]], termasuk pembelajar penyandang disabilitas, dan tidak melakukan apa pun untuk [[learners|pembelajar]] itu maupun untuk [[assessment-validity|validitas]]. [[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana, Mtshali dan Mchunu (2026)]] menambahkan bahwa [[remote-proctoring|pengawasan jarak jauh]], kontrol integritas yang paling luas diadopsi, mendasarkan argumen pencegahannya pada bagaimana siswa mengatakan mereka merasa alih-alih pada berkurangnya pelanggaran, dan menimbulkan [[anxiety-and-stress|kecemasan]], hilangnya konsentrasi, dan eksklusi terkait infrastruktur yang tidak terbukti terimbangi oleh penyalahgunaan yang lebih rendah. [[li-genai-assessment-language-equity-2026|Li (2026)]] menambahkan dimensi desain aturan: karena antarmuka yang sama melakukan penyuntingan bahasa yang diizinkan dan penyusunan draf substantif yang dilarang, aturan GenAI yang tidak dibedakan membebani siswa yang menggunakan bahasa Inggris sebagai bahasa tambahan dengan biaya kepatuhan yang miring per kohort, sehingga pencegahan yang lebih dapat dipertahankan adalah batas dukungan-substitusi berbasis tujuan yang berjangkar pada konstruk penilaian, dengan pengungkapan yang terkalibrasi, proporsionalitas yang bertahap di seluruh keputusan ambang, pembuktian, dan sanksi, serta tuas desain - kiriman bertahap, verifikasi lisan singkat yang selaras konstruk, pertanyaan berbasis kritik - yang melakukan kerja yang tidak dapat dilakukan deteksi. Pencegahan juga harus mencakup penilai itu sendiri: evaluasi tim merah [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] menemukan bahwa dua dari lima strategi injeksi prompt tidak langsung yang disematkan dalam berkas kiriman menaikkan esai yang gagal menjadi lulus tanpa terdeteksi, pada tingkat keberhasilan yang dilaporkan 100% dan 94%, sehingga ketika alat AI menilai karya siswa, [[human-in-the-loop-ai|tinjauan manusia]], pemisahan instruksi dari konten kiriman yang lebih jelas, dan pengujian ketahanan termasuk dalam lantai struktural alih-alih dalam tingkat opsional.
 
-### Tingkat 2 - Dukungan kerangka kuat, potensi tinggi
+## Tingkat 2 — Dukungan kerangka kuat, potensi tinggi
 
 **Urutan penggunaan yang dirancah: berpikir dulu, AI kedua, refleksi ketiga.** Delapan prinsip desain untuk mengintegrasikan LLM tanpa menggeser [[critical-thinking|berpikir kritis]]: pertahankan gesekan kognitif, posisikan AI sebagai mitra berpikir sementara alih-alih otoritas, sematkan titik pemeriksaan evaluasi, wajibkan jurnal [[metacognition|metakognitif]] dan catatan prompt, serta seimbangkan fase yang dimediasi AI dengan fase bebas AI. Bukti korelasional (kerja mandiri sebelum AI menghasilkan keluaran yang lebih kuat) kuat; ini adalah versi lengkap secara pedagogis dari Tingkat 1.
 
@@ -70,7 +72,7 @@ Tuas struktural memiliki lengan penegakan, dan basis buktinya lebih lemah daripa
 
 Tuas edukatif terlihat berbeda lagi begitu integritas diperlakukan sebagai praktik yang harus diajarkan alih-alih aturan yang harus ditegakkan. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] berargumen bahwa rezim integritas berbasis deteksi dan verifikasi tidak selaras dengan kerja yang diperkaya GenAI, dan membingkai ulang integritas sebagai praktik pedagogis yang diwujudkan melalui [[evaluative-judgment|pertimbangan evaluatif]] - kapasitas pembelajar untuk menimbang opsi, membenarkan pilihan akademik, dan mengambil tanggung jawab di bawah ketidakpastian - yang dibuat terlihat melalui artefak seperti jejak keputusan beranotasi, verifikasi terdokumentasi, [[oral-assessment|pertahanan lisan]], dan riwayat versi antardraf, dengan deteksi diturunkan menjadi satu lapisan tambahan alih-alih infrastruktur utama. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa dan Mezgebu (2026)]] menemukan celah yang sama dari sisi siswa: di seluruh 27 wawancara di sebuah [[higher-ed|universitas]] Ethiopia, penggunaan hampir universal, sebagian besar peserta menganggap GenAI menaikkan prestasi mereka, dan keluhan paling tajam berjalan sebaliknya - pengguna AI mendapat nilai di atas pekerja mandiri yang tekun, yang digambarkan peserta sebagai menurunkan motivasi. Para penulis menyimpulkan bahwa keyakinan siswa memprediksi penggunaan etis lebih kuat daripada aturan institusional, sehingga kesadaran, kebijakan yang jelas, dan desain ulang penilaian harus datang bersamaan - yang merupakan tingkat edukatif halaman ini yang dinyatakan sebagai syarat: pembangunan kapasitas mengubah perilaku hanya melalui [[framing-ai-use-for-students|penerimaan siswa]] yang disertai lantai struktural. [[ji-student-voices-academic-integrity-scoping-2026|Tinjauan pelingkupan]] [[meta-analysis-systematic-review|Ji (2026)]] atas 38 studi tentang suara siswa menyediakan versi tingkat bidang dari kesimpulan yang sama: studi yang ditinjau bertemu pada pergeseran dari deteksi retrospektif ke penalaran etis proaktif, pada pengajaran etika AI dan AI-giarisme dalam [[curriculum-design|kurikulum]] alih-alih dalam sesi [[ai-literacy|literasi]] sekali jalan, dan pada panduan terperinci yang diciptakan bersama oleh pemimpin, fakultas, dan siswa, karena panduan yang tidak jelas dibaca sebagai izin tersirat alih-alih sebagai kehati-hatian. Pembacaan Ji sendiri adalah bahwa kepemilikan dan penalaran moral memotivasi siswa lebih dari rasa takut akan hukuman, dan bahwa siswa bukan penerima pasif GenAI maupun pelaku tanpa batas moral melainkan agen moral yang bekerja di zona kelabu - premis tingkat ini, dinyatakan sebagai temuan.
 
-### Tingkat 3 - Menjanjikan, bukti kausal langsung lebih rendah
+## Tingkat 3 — Menjanjikan, bukti kausal langsung lebih rendah
 
 **Intervensi metakognitif dan [[self-assessment|penilaian diri]].** [[reflection|Jurnal reflektif]], catatan prompt, dan pelatihan kalibrasi membangun kembali "dasar kognitif yang absen" pada siswa asli AI yang tidak dapat menemukan batas kognitif mereka sendiri karena kelancaran yang dihasilkan AI menutupinya. Sentral secara konseptual tetapi belum diuji secara kausal.
 
@@ -82,17 +84,7 @@ Tuas edukatif terlihat berbeda lagi begitu integritas diperlakukan sebagai prakt
 
 - **[[desirable-difficulties|Gesekan produktif]] dan fungsi pedagogis.** Tinjauan cepat Sydney berargumen bahwa GenAI merusak pembelajaran ketika membiarkan siswa melewati gesekan kognitif/metakognitif yang dibutuhkan untuk belajar, dan bahwa alat yang dirancang dengan sengaja memasukkan *gesekan produktif* (menahan jawaban, mendorong penjelasan). Tinjauan itu membedakan empat fungsi pedagogis - belajar *dari*, *dengan*, *tentang*, atau *dengan membentuk* GenAI - masing-masing dengan tuntutan berbeda pada agensi dan penilaian.([[young-people-learning-generative-ai-rapid-review-2026]])
 
-## Miskonsepsi Umum
-
-**"Mengajarkan siswa tentang risikonya adalah tuas utama melawan penyalahgunaan."** Itu adalah tuas yang bergantung pada kerja sama siswa, itulah sebabnya peringkatnya di bawah tuas struktural di sini. Pagar pengaman dan desain ulang penilaian bekerja terlepas dari apakah siswa memilih perilaku yang benar; pendekatan edukatif bekerja hanya dengan penerimaan. Perbedaannya bukan moral melainkan mekanis - lingkungan yang berubah membatasi perilaku secara langsung, sementara keyakinan yang berubah harus bertahan sampai malam sebelum tenggat.
-
-**"Jika pagar pengaman bertahan selama sesi, pembelajarannya aman."** Bertahan dan mengajar adalah hasil yang berbeda, dan korpus memuat hasil ganda yang bersih. Menahan posisi agregat dalam debat [[agentic-ai|multi-agen]] memangkas peralihan siswa ke posisi AI yang salah dari 42-60,5% menjadi 5,7-8,2% - efek perlindungan yang besar - tetapi menghasilkan **tidak ada efek pembelajaran dalam sesi tersebut** (β = 0,03, p = 0,18). Pagar itu menjalankan tugasnya sebagai pagar dan tidak menjadi pengajaran. Merancang untuk pencegahan penyalahgunaan tidak sama dengan merancang untuk pembelajaran.
-
-**"Mendeteksi penyalahgunaan dan menghukumnya adalah strategi pencegahan."** Pencegahan harus mencakup penilai itu sendiri. Evaluasi tim merah [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] menemukan bahwa dua dari lima strategi injeksi prompt tidak langsung yang disematkan dalam berkas kiriman menaikkan skor esai yang gagal. Alur yang mendeteksi penyalahgunaan oleh siswa sambil memercayai konten kiriman yang tidak diperiksa hanya dipertahankan di satu sisi.
-
-**"Penyalahgunaan adalah masalah motivasi siswa."** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher dan Calderon (2025)]] menaikkan kendala pengikat satu tingkat ke atas, memperlakukan tata kelola alih-alih perilaku siswa sebagai hal yang harus diubah dan mengusulkan kerangka indikator integritas 130 butir. Dan kerugian pembelajaran dapat diukur dalam skala: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei dan Wu (2026)]] menemukan pengalihdayaan pekerjaan rumah menaikkan nilai pekerjaan rumah 18% sementara *menurunkan* nilai ujian buku tertutup 20% - kegagalan desain yang muncul tepat pada kesenjangan yang menjadi pokok halaman ini.
-
-## Panduan Penerapan menurut Peran
+## Implikasi bagi Praktik
 
 **Untuk pengajar dan tim mata kuliah**
 
@@ -110,6 +102,16 @@ Tuas edukatif terlihat berbeda lagi begitu integritas diperlakukan sebagai prakt
 **Untuk administrator dan pembuat kebijakan**
 
 - Letakkan kendala pengikat di tempat bukti meletakkannya. Indikator dan struktur tata kelola menyasar lingkungan; seruan kepada siswa menyasar orang yang paling tidak mampu mengubah desain institusional.
+
+## Miskonsepsi Umum
+
+**"Mengajarkan siswa tentang risikonya adalah tuas utama melawan penyalahgunaan."** Itu adalah tuas yang bergantung pada kerja sama siswa, itulah sebabnya peringkatnya di bawah tuas struktural di sini. Pagar pengaman dan desain ulang penilaian bekerja terlepas dari apakah siswa memilih perilaku yang benar; pendekatan edukatif bekerja hanya dengan penerimaan. Perbedaannya bukan moral melainkan mekanis - lingkungan yang berubah membatasi perilaku secara langsung, sementara keyakinan yang berubah harus bertahan sampai malam sebelum tenggat.
+
+**"Jika pagar pengaman bertahan selama sesi, pembelajarannya aman."** Bertahan dan mengajar adalah hasil yang berbeda, dan korpus memuat hasil ganda yang bersih. Menahan posisi agregat dalam debat [[agentic-ai|multi-agen]] memangkas peralihan siswa ke posisi AI yang salah dari 42-60,5% menjadi 5,7-8,2% - efek perlindungan yang besar - tetapi menghasilkan **tidak ada efek pembelajaran dalam sesi tersebut** (β = 0,03, p = 0,18). Pagar itu menjalankan tugasnya sebagai pagar dan tidak menjadi pengajaran. Merancang untuk pencegahan penyalahgunaan tidak sama dengan merancang untuk pembelajaran.
+
+**"Mendeteksi penyalahgunaan dan menghukumnya adalah strategi pencegahan."** Pencegahan harus mencakup penilai itu sendiri. Evaluasi tim merah [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] menemukan bahwa dua dari lima strategi injeksi prompt tidak langsung yang disematkan dalam berkas kiriman menaikkan skor esai yang gagal. Alur yang mendeteksi penyalahgunaan oleh siswa sambil memercayai konten kiriman yang tidak diperiksa hanya dipertahankan di satu sisi.
+
+**"Penyalahgunaan adalah masalah motivasi siswa."** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher dan Calderon (2025)]] menaikkan kendala pengikat satu tingkat ke atas, memperlakukan tata kelola alih-alih perilaku siswa sebagai hal yang harus diubah dan mengusulkan kerangka indikator integritas 130 butir. Dan kerugian pembelajaran dapat diukur dalam skala: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei dan Wu (2026)]] menemukan pengalihdayaan pekerjaan rumah menaikkan nilai pekerjaan rumah 18% sementara *menurunkan* nilai ujian buku tertutup 20% - kegagalan desain yang muncul tepat pada kesenjangan yang menjadi pokok halaman ini.
 
 ## Konsep terkait
 

@@ -1,7 +1,7 @@
 ---
 title: "La compétence des enseignants en IA"
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-15T11:51:14-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -13,7 +13,7 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-16T08:24:32-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -77,6 +81,8 @@ Une version plus forte de ce recadrage soutient que l'IA générative est un con
 **Deux dimensions sont des engagements, pas des scores.** [[feng-ai-literacy-psychological-dimensions-2026|Feng et Carolus (2026)]] synthétisent 58 études sur l'éducation scolaire et placent la *connaissance contextuelle* et la *croissance professionnelle continue* parmi les six dimensions de la littératie en IA des enseignants, aux côtés des connaissances et compétences fondées sur le TPACK, de l'éthique, de la dimension psychologique et d'une dimension propre à l'IA générative. Treize des articles examinés fondent leur conceptualisation de l'enseignant sur le [[tpack|TPACK]]. Lire la croissance comme une dimension plutôt que comme un résultat change ce qu'un cadre de compétence doit mesurer : la trajectoire d'un enseignant et les contraintes de son établissement font partie de la compétence, et non des conditions qui l'entourent.
 
 **Le développement de la compétence ne répond pas à la voie de l'épuisement.** Dans la même enquête auprès de 436 enseignants de design universitaires, [[ding-genai-colleague-teacher-depletion-2026|Ding et al. (2026)]] ont constaté que l'usage de l'IA générative élevait à la fois l'[[self-efficacy|auto-efficacité]] pédagogique (β = 0.322) et l'anxiété liée à l'IA (β = 0.268), et que l'anxiété prédisait un enseignement moins innovant et davantage de retrait du travail (β = −0.152 et β = 0.264). Un programme de développement professionnel qui ne construit que la compétence laisse la seconde voie intacte — les modérateurs étaient le soutien organisationnel et la rupture du contrat psychologique, non la compétence.
+
+Les cadres spécifient ce qu'un enseignant doit savoir et restent muets sur les conditions dans lesquelles ce savoir s'exerce. [[ji-judgement-space-dialogic-inquiry-2027|Ji et Mercer (2026)]] lisent le cadre pour les enseignants de l'UNESCO, la boussole pédagogique de l'OCDE, DigCompEdu et la revue BEME comme un même genre de liste, et notent que l'insistance de l'OCDE à ce que l'IA ne remplace pas le jugement humain arrive sans aucune explication de ce qui rendrait cette affirmation vraie. Les modèles de compétence qui ajoutent une dimension supplémentaire manquent donc précisément l'écart que l'article nomme.
 
 ## L'écart de compétence
 
@@ -134,7 +140,7 @@ Un contre-exemple fondé sur la conception traite la compétence comme situation
 - **Estimation méta-analytique.** [[teacher-ai-literacy-professional-development-meta-2026|Guo et al. (2026)]] ont regroupé 212 tailles d'effet issues de 34 études et estiment le développement professionnel en littératie en IA des enseignants à g = 0.76 (IC à 95% [0.50, 1.02]), au plus fort pour les compétences (g = 0.91) et au plus faible pour les attitudes et les valeurs (g = 0.61) ; la correction de l'apparente sélection par la publication abaisse l'estimation à environ g = 0.49.
 - **L'assiduité prédit les gains là où le sentiment de participer ne le fait pas.** Dans le même programme de six mois, le taux d'assiduité prédisait le gain de compétence (β = .407, p = .001) tandis que la participation auto-perçue ne le faisait pas (β = .049, p = .692), et la discipline, l'expérience d'enseignement et le titre professionnel expliquaient peu ; les auteurs lisent l'assiduité comme un investissement comportemental et la participation perçue comme un engagement de surface ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]).
 - **Les valeurs retardent sur les compétences dans un programme propre à un domaine aussi.** Dans un programme d'un an mené à Hong Kong avec 30 enseignants d'anglais, la connaissance des stratégies d'évaluation [[multimodal|multimodales]] est passée de 3.13 à 4.15 sur 5 (η² partiel = 0.571) et la compétence à accompagner les étudiants de 3.05 à 3.98 (0.482), toutes deux significatives, tandis que chaque sous-domaine de valeurs restait statistiquement plat sous un alpha corrigé de Bonferroni de .006. Les enseignants attribuaient les gains à la co-planification au sein de l'établissement et aux rencontres de grappes entre établissements plutôt qu'aux seuls ateliers ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al., 2026]]).
-- **Les plans générés par l'IA sont un point de départ, et la médiation est la compétence.** Vingt-six enseignants débutants révisant des plans de leçon générés par l'IA ont réécrit des tâches, ajouté des modélisations et des étayages linguistiques, clarifié les objectifs et reconstruit la séquence autour de la logistique de classe, décrivant leur rôle comme celui de réviser et personnaliser plutôt que d'accepter la production ([[wilcoxen-steiner-bell-ai-lesson-planning-2026]]).
+- **Les plans générés par l'IA sont un point de départ, et la médiation est la compétence.** Vingt-six enseignants débutants révisant des plans de leçon générés par l'IA ont réécrit des tâches, ajouté des modélisations et des étayages linguistiques, clarifié les objectifs et reconstruit la séquence autour de la logistique de classe, décrivant leur rôle comme celui de réviser et personnaliser plutôt que d'accepter la production ([[wilcoxen-steiner-bell-ai-lesson-planning-2026|Wilcoxen et al., 2026]]).
 - **Le microlearning peut développer la compétence en IA des enseignants universitaires.** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky (2026)]] a affiné deux modules de [[vocational-education|formation professionnelle]] au fil de deux discussions de groupe en ligne, pour en tirer cinq principes de conception — structure et orientation claires, soutien à l'orientation et à la navigation, segmentation et modularisation, présentation multimodale, et activation de l'apprenant — et a constaté que la navigation sur la plateforme et la localisation des modules constituaient les principaux obstacles pratiques.
 - **L'intention d'adopter repose sur la satisfaction des besoins.** Dans un modèle structurel portant sur 146 enseignants, la satisfaction du besoin de compétence prédisait l'intention d'utiliser l'IA générative par l'intermédiaire de la [[motivation|motivation intrinsèque]] et de l'engagement dans le développement professionnel (effet indirect 0.233), tandis que la satisfaction de l'autonomie et de l'appartenance ne le faisait pas ([[yuan-teacher-need-satisfaction-genai-2026|Yuan et al., 2026]]).
 
@@ -147,6 +153,8 @@ Une formation sans temps dans l'emploi du temps n'atteint pas les élèves. La r
 Une étude psychométrique a mis au point l'échelle de littératie en IA des enseignants (TAILS) pour mesurer la littératie en IA dans le cadre de la formation des enseignants de [[teacher-education|langues]], en opérationnalisant les six dimensions du cadre ED-AI. L'instrument comble un manque dans les évaluations conçues pour les étudiants ou les utilisateurs généraux plutôt que pour les enseignants.
 
 Le paysage des instruments a lui-même fait l'objet depuis d'une revue. La [[assessing-teachers-ai-literacy-measurement-tools-2026|revue systématique de Zainal, Mohd Matore et Maat (2026) portant sur les outils de mesure de la littératie en IA des enseignants]] compare ce que les échelles disponibles mesurent réellement et où elles divergent, ce qu'il faut lire avant d'en adopter une.
+
+La mesure suppose que l'individu est la bonne unité, et la répartition des rôles affaiblit cette hypothèse. [[chen-future-faculty-development-ai-2027|Chen et al. (2026)]] répartissent cinq de leurs sept rôles enseignants dans une équipe pédagogique tout en gardant universelle une compétence technique et éthique de base, si bien qu'un score individuel décrit la part d'un contributeur plutôt que la capacité sur laquelle le cours fonctionne réellement. Un programme qui ne mesure que des individus lira une équipe bien dotée comme un ensemble d'enseignants partiels.
 
 ## La compétence des enseignants en IA et la transformation du rôle enseignant
 
@@ -199,9 +207,7 @@ Les chefs de département peuvent évaluer la compétence par la démonstration.
 - [[cerioli-human-centered-ai-literacy-schools-2026]] — La revue iRAISE sur quatre pays : 84 des 194 États inscrivent la MIL au-delà des compétences techniques dans les programmes, et les facteurs humains ont décidé des résultats dans les quatre systèmes (Cerioli, 2026)
 - [[wilcoxen-steiner-bell-ai-lesson-planning-2026]] — 26 enseignants débutants ont révisé des plans de leçon par l'IA ; l'adaptation était le principal manque (Wilcoxen et al. 2026)
 - [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — La compétence de recherche d'enseignants de chimie après un développement professionnel soutenu par l'IA : une étude pré-post à méthodes mixtes
-
 - [[walkington-teacher-in-loop-personalized-tasks-2026]] — La personnalisation des tâches de mathématiques au collège avec l'enseignant dans la boucle et ChatGPT (Walkington et coll. 2026)
-
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — Quels enseignants ont gagné du temps de planification : confiance disciplinaire plus faible, connaissances pédagogiques plus faibles, plus récents dans le métier ou forte confiance technologique
 - [[ai-misconceptions-indonesian-k12-teachers-2026]] — Les enseignants acceptent l'IA tout en comprenant mal son fonctionnement (Aji et al. 2026)
 - [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Préparation des enseignants et intégration technico-pédagogique comme défi le plus fréquemment rapporté dans 54 études sur l'éducation mathématique (Manto et al. 2026)
@@ -255,11 +261,11 @@ Les chefs de département peuvent évaluer la compétence par la démonstration.
 - [[teachers-ai-belief-profiles-talis-2024-2026]] — Quatre profils de croyances des enseignants TALIS 2024 relient l'apprentissage professionnel et des obstacles propres au profil à l'usage de l'IA
 - [[microlearning-ai-modules-vocational-teacher-education-2026]] — Conception de modules de microlearning sur l'IA destinés aux enseignants universitaires en formation professionnelle des enseignants : une étude de recherche fondée sur la conception
 - [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild : comment les chatbots configurés par les enseignants échouent en usage réel et comment y remédier
-
 - [[chen-ai-visualization-teaching-competency-scale-2026]] — Développement et validation de l'échelle de compétence pédagogique en visualisation assistée par l'IA
-
 - [[bursic-ai-residency-education-curriculum-2026]] — Obstacles à l'intégration de l'IA dans les programmes de résidence : entretiens qualitatifs avec douze responsables médecins
 - [[yuan-teacher-need-satisfaction-genai-2026]] — Les satisfactions des besoins psychologiques fondamentaux des enseignants et leurs intentions d'utiliser l'IA générative : le rôle médiateur de l'engagement dans le développement professionnel
 - [[white-scandinavian-teachers-genai-attitudes-2026]] — Attitudes des enseignants scandinaves envers l'intelligence artificielle générative : exploration des associations
 - [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — La bande de compétence auto-évaluée des enseignants-chercheurs est largement prédite par l'affiliation institutionnelle plutôt que par les attributs individuels
 - [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — Une adoption jugée discipline par discipline, l'inquiétude principale portant sur le raisonnement des étudiants
+- [[chen-future-faculty-development-ai-2027]] — Une compétence répartie dans une équipe enseignante, avec une capacité technique et éthique de base tenue universellement
+- [[ji-judgement-space-dialogic-inquiry-2027]] — Les cadres énumèrent des compétences et laissent les conditions du jugement non théorisées

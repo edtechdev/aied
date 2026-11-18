@@ -3,7 +3,7 @@ title: Bildung in Geistes- und Sozialwissenschaften
 created: "2026-08-16T09:22:41-04:00"
 updated: "2026-11-08T10:12:52-05:00"
 type: concept
-foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
+foundations: [ai-literacy, critical-thinking, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]

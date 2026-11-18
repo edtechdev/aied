@@ -1,7 +1,7 @@
 ---
 title: الذكاء الاصطناعي في التعليم
 created: "2026-09-22T14:35:26-04:00"
-updated: "2026-11-08T06:32:21-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-17T08:15:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -36,6 +36,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -67,7 +71,7 @@ ai_assist:
 - **[[pedagogy|أصول التدريس واستراتيجيات التعليم]]**: المحور الجامع لكيفية حدوث التدريس، أي طرائق التدريس والاستراتيجيات التي يعمل الذكاء الاصطناعي داخلها ([[active-learning|التعلّم النشط]]، و[[collaborative-learning|التعلّم التعاوني]]، و[[project-based-learning|التعلّم القائم على المشاريع]]، و[[problem-based-learning|التعلّم القائم على المشكلات]]، و[[experiential-learning|التعلّم بالتجربة]]، و[[game-based-learning|التعلّم القائم على الألعاب]]، و[[socratic-method|الطريقة السقراطية]]، و[[scaffolding|السقالات التعليمية]]، وغيرها)، بما في ذلك سياق [[online-teaching-and-learning|التعليم والتعلّم عبر الإنترنت]] المتميّز.
 - **[[learning-theories|نظريات التعلّم]]**: المحور الجامع لكيفية حدوث التعلّم، أي الأطر النظرية ([[behaviorism|السلوكية]]، و[[cognitive-psychology|المعرفية]]، و[[constructivist|البنائية]]، و[[sociocultural-learning|الاجتماعية الثقافية]]، والمعرفية، و[[motivation|الدافعية]]) التي تُشكّل تصميم الذكاء الاصطناعي وتقويمه.
 - **[[ai-technologies|التقنيات]]**: المحور الجامع للطبقة التقنية، أي أنظمة الذكاء الاصطناعي ([[llm|النماذج اللغوية الكبيرة]]، و[[generative-ai|الذكاء الاصطناعي التوليدي]]، و[[multimodal|النماذج متعددة الوسائط]]، و[[educational-robotics|الروبوتات]]) والتقنيات ([[rag|التوليد المعزَّز بالاستدعاء]]، و[[prompt-engineering|هندسة المطالبات]]، و[[reinforcement-learning|التعلّم المعزَّز]]، و[[llm-training-and-fine-tuning|تدريب النماذج]]، و[[agentic-ai|التنسيق الوكيلي]]) التي تُشغّل الذكاء الاصطناعي في التعليم. أما أسرة نمذجة المتعلّم، وهي [[knowledge-tracing|تتبّع المعرفة]] و[[cognitive-diagnosis|التشخيص المعرفي]] و[[simulating-students|محاكاة الطلاب]] والأنظمة التي تستهلكها ([[intelligent-tutoring|التدريس الخصوصي الذكي]] و[[adaptive-learning|التعلّم التكيّفي]] و[[personalized-learning|التعلّم المخصّص]])، فهي مجموعة تحت محور [[student-modeling|نمذجة المتعلّم والتعليم التكيّفي]] داخل هذا المحور التقني.
-- **[[discipline-specific-aied|الذكاء الاصطناعي في التخصصات]]**: المحور الجامع لكيفية تطبيق الذكاء الاصطناعي عبر المواد الدراسية ([[math-education|الرياضيات]]، و[[physics-education|الفيزياء]]، و[[language-learning|تعلّم اللغات]]، و[[cs-education|علوم الحاسوب]]، و[[writing-education|الكتابة]]، و[[stem-education|العلوم والتقنية والهندسة والرياضيات]]، و[[engineering-education|الهندسة]]، و[[business-education|الأعمال]]، و[[teacher-education|إعداد المعلّمين]]، و[[medical-education|المهن الصحية]]، وغيرها)، ثم ما يتجاوز المواد الأكاديمية إلى المحور المهني والتطبيقي الذي يقوّم الممارسة المُظهَرة لا الصحة ([[nursing-education|التمريض]]، و[[information-technology|تقنية المعلومات]]، و[[vocational-education|التعليم والتدريب المهني]]، و[[design-education|تعليم التصميم]])، وإلى المستويات التعليمية ([[k-12|التعليم ما قبل الجامعي]]، و[[higher-ed|التعليم العالي]]، و[[adult-learning|تعلّم الكبار]]).
+- **[[discipline-specific-aied|الذكاء الاصطناعي في التخصصات]]**: المحور الجامع لكيفية تطبيق الذكاء الاصطناعي عبر المواد الدراسية، مرتّبًا في أربعة عناقيد. تغطّي [[humanities-education|العلوم الإنسانية والفنون]] التاريخَ والفلسفة والأدب واللغات، ومعها [[arts-and-media-education|الفنون والإعلام]] و[[music-education|الموسيقى]]. وتغطّي [[social-sciences-education|العلوم الاجتماعية]] التربيةَ المدنية والأعمال والاقتصاد والدراسات البيئية. ويغطّي [[stem-education|STEM]] الرياضياتِ والفيزياء والكيمياء والأحياء والحوسبة والهندسة. وتغطّي [[professions-education|المهن]] البرامجَ المعتمدة — [[medical-education|الطب والمهن الصحية]]، و[[nursing-education|التمريض]]، و[[legal-education|التعليم القانوني]]، و[[teacher-education|إعداد المعلّمين]]، و[[design-education|تعليم التصميم]] و[[libraries|المكتبات وعلوم المعلومات]] — حيث يجب أن يُظهر التقويم أن الحكم المعتمَد كان حكم المرشّح نفسه. وتُطبَّق العناقيد عبر المستويات المدرسية كما تُطبَّق عبر المواد.
 - **[[assessment|التقييم]]** (بمحاوره [[formative-assessment|التكويني]] و[[summative-assessment|الختامي]] و[[authentic-assessment|الأصيل]] و[[oral-assessment|الشفهي]] و[[automated-assessment|الآلي]]): المحور الجامع لكيفية تقييم الذكاء الاصطناعي للمتعلّمين وإعادة تشكيله في الوقت نفسه لصدق التقييم ونزاهته.
 - **[[feedback|التغذية الراجعة]]**: المحور الجامع لكيفية توليد التغذية الراجعة وتقديمها واستخدامها: حلقة التغذية الراجعة، و[[ai-feedback-quality|جودة التغذية الراجعة]]، و[[feedback-literacy|الثقافة في التغذية الراجعة]]، وسياقاتها التقييمية ([[formative-assessment|التكويني]] و[[peer-assessment|تقييم الأقران]] و[[automated-assessment|الآلي]]).
 - **[[stakeholders|أصحاب المصلحة في تعليم الذكاء الاصطناعي]]**: المحور الجامع لمن هم الفاعلون: المتعلّمون، و[[teacher-role|المعلّمون]]، و[[learning-design|مصمّمو التعلّم]]، و[[administrator|الإداريون]]، و[[educational-policy-ai|واضعو السياسات]].
@@ -96,6 +100,7 @@ ai_assist:
 - **أصول التدريس الجوهرية:** [[pedagogy|أصول التدريس واستراتيجيات التعليم]]، وهو المحور الجامع لتغطية قاعدة المعارف لطرائق التدريس، إلى جانب [[pedagogical-patterns|الأنماط البيداغوجية]] (التسلسلات المُختبَرة التي تُحلّ تلك الطرائق إليها)، و[[active-learning|التعلّم النشط]]، و[[collaborative-learning|التعلّم التعاوني]]، و[[group-work|العمل الجماعي]]، و[[project-based-learning|التعلّم القائم على المشاريع]]، و[[problem-based-learning|التعلّم القائم على المشكلات]]، و[[productive-failure|الفشل المنتج]]، و[[inquiry-based-learning|التعلّم القائم على الاستقصاء]]، و[[experiential-learning|التعلّم بالتجربة]]، و[[game-based-learning|التعلّم القائم على الألعاب]]، و[[learning-by-teaching|التعلّم بالتدريس]]، و[[scaffolding|السقالات التعليمية]]، و[[socratic-method|الطريقة السقراطية]]، و[[critical-pedagogy|أصول التدريس النقدية]]، و[[pedagogical-partnerships|الشراكات التربوية]]، و[[storytelling-in-education|السرد القصصي]]، و[[learning-design|تصميم التعلّم]]، و[[online-teaching-and-learning|التعليم والتعلّم عبر الإنترنت]]، و[[video-education|الفيديو في التعليم]].
 - **نظريات التعلّم وعملياته:** يقف محور [[learning-theories|نظريات التعلّم]] ([[behaviorism|السلوكية]]، و[[cognitive-psychology|المعرفية]]، و[[constructivist|البنائية]]، و[[sociocultural-learning|الاجتماعية الثقافية]]، و[[distributed-cognition|الإدراك الموزّع]]، و[[situated-learning|التعلّم الموقفي]]، و[[embodied-learning|التعلّم التجسيدي]]، و[[community-of-inquiry|مجتمع الاستقصاء]]) إلى جانب عمليات موجَّهة للمتعلّم مثل [[self-regulated-learning|التعلّم المنظَّم ذاتيًا]]، و[[self-determination-theory|نظرية التحديد الذاتي]]، و[[motivation|الدافعية]]، و[[self-efficacy|الكفاءة الذاتية]]، و[[self-directed-learning|التعلّم الموجَّه ذاتيًا]]، و[[metacognition|ما وراء المعرفة]]، و[[desirable-difficulties|الصعوبات المرغوبة]]، و[[transfer-of-learning|انتقال أثر التعلّم]]، و[[prior-knowledge|المعرفة المسبقة]]، و[[icap-framework|الاندماج المعرفي في إطار ICAP]]، و[[reflection|التأمل]]، و[[refutation-text|النص الداحض]]، و[[retrieval-spacing-interleaving|الاستدعاء والتباعد والتداخل]]، و[[activity-theory-aied|نظرية النشاط]].
 - **اندماج المتعلّم وتجربته:** تُشكّل [[student-engagement|مشاركة الطلاب]]، و[[help-seeking|طلب المساعدة]]، و[[social-emotional-learning|التعلّم الاجتماعي العاطفي]]، و[[well-being|العافية]]، و[[creativity|الإبداع]]، و[[problem-solving|حل المشكلات]]، و[[mastery-learning|التعلّم التمكني]]، و[[student-ai-interaction|تفاعل الطالب مع الذكاء الاصطناعي]] الطريقة التي يلقى بها المتعلّمون الذكاء الاصطناعي فعلًا ويتأثرون به، في حين تحدّد [[social-norms-ai-use|المعايير الاجتماعية التي تستقرّ حول استخدام الذكاء الاصطناعي]] مدى انفتاح النقاش حوله. وإلى جانب المقرّر، يغطّي [[student-support-and-success|دعم الطلاب ونجاحهم]] العملَ المؤسسي — الإرشاد، والتواصل، والإحالة، وتخصيص الدعم النادر — حيث يُحرّك الذكاء الاصطناعي إتمام المهام بثبات لا المثابرة أو التخرّج.
+والإطار النمائي يقطع هذه المفاهيم كلها: فـ[[developmental-psychology|علم النفس النمائي]] يفسّر لماذا تبدو العملية نفسها مختلفة في الخامسة والخامسة عشرة والخامسة والعشرين. ومن النواتج الوجدانية التي تُدّعى كثيرًا وتُقاس نادرًا [[empathy|التعاطف]].
 
 ## التقنيات والأساليب
 
@@ -107,16 +112,28 @@ ai_assist:
 
 ## الذكاء الاصطناعي في التخصصات
 
-يُطبَّق الذكاء الاصطناعي عبر التخصصات والمستويات التعليمية. وترسم [[discipline-specific-aied|نظرة قاعدة المعارف العامة على الذكاء الاصطناعي في التعليم في التخصصات]] تغطية المواد الدراسية، إلى جانب [[learning-sciences|علوم التعلّم]]، وهي ليست مادة تُدرَّس بل مجال البحث الشامل الذي يدرس التعلّم نفسه ويتعامل مع المادة الدراسية كمتغيّر من متغيّرات أخرى:
+يُطبَّق الذكاء الاصطناعي عبر التخصصات والمستويات التعليمية. وترسم [[discipline-specific-aied|نظرة قاعدة المعارف العامة على الذكاء الاصطناعي في التعليم في التخصصات]] تغطية المواد الدراسية، إلى جانب [[learning-sciences|علوم التعلّم]]، وهي ليست مادة تُدرَّس بل مجال البحث الشامل الذي يدرس التعلّم نفسه ويتعامل مع المادة الدراسية كمتغيّر من متغيّرات أخرى. وتُنظَّم صفحات المواد في أربعة عناقيد:
 
-- **المواد الدراسية:** [[math-education|الرياضيات]]، و[[statistics-and-data-science-education|الإحصاء وعلم البيانات]]، و[[physics-education|الفيزياء]]، و[[chemistry-education|الكيمياء]]، و[[biology-education|الأحياء]]، و[[cs-education|علوم الحاسوب]]، و[[engineering-education|الهندسة]]، و[[stem-education|العلوم والتقنية والهندسة والرياضيات]]، و[[writing-education|الكتابة]]، و[[reading-education|تعليم القراءة]]، و[[language-learning|تعلّم اللغات]]، و[[english-education|تعليم الإنجليزية (EAP/EFL/ESL)]]، و[[libraries|المكتبات وعلوم المعلومات]]، و[[science-education|تعليم العلوم]]، و[[environmental-education|التعليم البيئي]]، و[[business-education|الأعمال والاقتصاد والإدارة]]، و[[humanities-education|العلوم الإنسانية والاجتماعية]]، و[[civic-and-political-education|التربية المدنية والسياسية]]، و[[arts-and-media-education|الفنون والتصميم والإعلام]]، و[[medical-education|الطب والمهن الصحية]]، و[[legal-education|التعليم القانوني]]، والمحاور المهنية والتطبيقية، وهي [[nursing-education|التمريض]]، و[[information-technology|تقنية المعلومات]]، و[[vocational-education|التعليم والتدريب المهني]]، و[[design-education|تعليم التصميم]].
+- **العلوم الإنسانية والفنون:** [[humanities-education|تعليم العلوم الإنسانية]]، و[[arts-and-media-education|تعليم الفنون والإعلام]]، و[[music-education|تعليم الموسيقى]]، و[[writing-education|تعليم الكتابة]]، و[[reading-education|تعليم القراءة]]، و[[language-learning|تعلّم اللغات]] و[[english-education|تعليم الإنجليزية (EAP/EFL/ESL)]].
+- **العلوم الاجتماعية:** [[social-sciences-education|تعليم العلوم الاجتماعية]]، و[[civic-and-political-education|التربية المدنية والسياسية]]، و[[business-education|الأعمال والاقتصاد والإدارة]] و[[environmental-education|التعليم البيئي]].
+- **العلوم والتقنية والهندسة والرياضيات:** [[stem-education|تعليم STEM]]، و[[science-education|تعليم العلوم]]، و[[math-education|الرياضيات]]، و[[statistics-and-data-science-education|الإحصاء وعلم البيانات]]، و[[physics-education|الفيزياء]]، و[[chemistry-education|الكيمياء]]، و[[biology-education|الأحياء]]، و[[cs-education|علوم الحاسوب]]، و[[engineering-education|الهندسة]] و[[information-technology|تقنية المعلومات]].
+- **المهن:** [[professions-education|تعليم المهن]]، و[[medical-education|الطب والمهن الصحية]]، و[[nursing-education|التمريض]]، و[[legal-education|التعليم القانوني]]، و[[teacher-education|إعداد المعلّمين]]، و[[design-education|تعليم التصميم]] و[[libraries|المكتبات وعلوم المعلومات]].
+
+والعنقود الذي تقع فيه المادة يحدّد أيضًا أي صفحة تملك أدلّتها. فـ[[vocational-education|التعليم والتدريب المهني]] مُدرَج تحت المستويات لا هنا، لأنه يسمّي مسار مؤهل أكثر مما يسمّي تخصصًا.
 
 ## المستويات والسياقات
 
-تلقى الأداة نفسها من الذكاء الاصطناعي أوضاعًا مختلفة جدًا، ويفصل هذا في قاعدة المعارف بين المستوى التعليمي وأصول التدريس حتى لا تنتقل النتائج بينهما انتقالًا خفيًا: [[k-12|المدارس ما قبل الجامعية]]، و[[early-childhood-elementary-ai-education|الطفولة المبكرة والتعليم الابتدائي]]، و[[higher-ed|التعليم العالي]]، و[[adult-learning|تعلّم الكبار]]، و[[vocational-education|التعليم والتدريب المهني]]، و[[special-education|التعليم الخاص]]، و[[teacher-education|إعداد المعلّمين]]. ومن المفاهيم القريبة من الميادين والتي تقطع المستويات: [[universal-design-for-learning|التصميم الشامل للتعلّم]]، و[[neurodiversity|التنوّع العصبي]]، و[[multilingual-learning|التعلّم متعدد اللغات]]، و[[social-emotional-learning|التعلّم الاجتماعي العاطفي]].
+تلقى الأداة نفسها من الذكاء الاصطناعي أوضاعًا مختلفة جدًا، ويفصل هذا في قاعدة المعارف بين المستوى التعليمي وأصول التدريس حتى لا تنتقل النتائج بينهما انتقالًا خفيًا: [[k-12|المدارس ما قبل الجامعية]]، التي تنقسم الآن إلى [[early-childhood-elementary-ai-education|الطفولة المبكرة]]، و[[primary-education|التعليم الابتدائي]]، و[[secondary-education|التعليم الثانوي]]؛ و[[higher-ed|التعليم العالي]]، الذي ينقسم إلى الدراسة [[undergraduate-education|الجامعية]] و[[graduate-education|الدراسات العليا]]؛ والأوضاع خارج هذه السلالم، وهي [[adult-learning|تعلّم الكبار]]، و[[vocational-education|التعليم والتدريب المهني]]، و[[special-education|التعليم الخاص]]، و[[teacher-education|إعداد المعلّمين]]. ويقارن بينها [[education-levels|مستويات التعليم]]. ومن المفاهيم القريبة من الميادين والتي تقطع المستويات: [[universal-design-for-learning|التصميم الشامل للتعلّم]]، و[[neurodiversity|التنوّع العصبي]]، و[[multilingual-learning|التعلّم متعدد اللغات]]، و[[social-emotional-learning|التعلّم الاجتماعي العاطفي]].
+
+## الأداة نفسها، خيارات تصميم متعاكسة
+
+المستوى هو المتغيّر الذي يعكس توصية تصميمية عكسًا أنظف ما يكون. فأدلة المرحلة الثانوية تضع المعلّم بين الطالب والأداة: عبر 33 دراسة، جاءت المكاسب حيث قارن الطلاب المخرجات، وخفتت حيث أنتجت الأداة العمل ([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca et al. (2026)]]).
+
+وأدلة الدراسات العليا تشير في الاتجاه الآخر، نحو شراكة مع إنسان مسؤول. فبلغ الميسّرون للجاهزية [[self-efficacy|الكفاءة الذاتية]] البحثية عبر دعم المشرف (β = 0.201 غير مباشر)، لا عبر استخدام الأداة ([[luo-ai-readiness-graduate-research-self-efficacy-2026|Luo et al. (2026)]]). وتصل مراجعة الدكتوراه إلى الاستنتاج التصميمي نفسه من الأخلاقيات: فالشرعية تتعلّق بالمهمة لا بالأداة، والإفصاح يتناسب مع الأهمية الفكرية، والحوكمة تُراجَع عند المحطات ([[guanilo-pareja-genai-doctoral-supervision-2026|Guanilo Pareja et al. (2026)]]).
+
+وما لا يتغيّر هو أن إنسانًا يحمل الحكم. فطلاب في حلقة بحث للدراسات العليا لم يقبلوا مخرَج الذكاء الاصطناعي إلا بعد أن دقّقه حارس معرفي متمكّن، وهو ما يقرؤه Chen فاعليةً مُفوَّضة لا مُسلَّمة ([[chen-genai-self-directed-learning-graduate-seminar-2026|Chen (2026)]]). والتكرار مقياس خاطئ بين المستويات: فقد تنبّأ بالكفاءة في الدراسات العليا عند β = 0.030 بمجرد دخول الأخلاقيات والتنظيم الذاتي في النموذج ([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova et al. (2026)]]).
 
 ## التقييم والقياس
-
 يغيّر الذكاء الاصطناعي طريقة تقييمنا المتعلّمين وطريقة تقويمنا لأنظمة الذكاء الاصطناعي نفسها:
 
 - **التقييم والتغذية الراجعة:** [[assessment|التقييم]]، و[[formative-assessment|التقييم التكويني]]، و[[summative-assessment|التقييم الختامي]]، و[[authentic-assessment|التقييم الأصيل]]، و[[eportfolio|الملف الإلكتروني]]، و[[feedback|التغذية الراجعة]] و[[feedback-literacy|الثقافة في التغذية الراجعة]]، و[[ai-feedback-quality|جودة التغذية الراجعة بالذكاء الاصطناعي]]، و[[peer-assessment|تقييم الأقران]]، و[[oral-assessment|التقييم الشفهي]]، و[[automated-assessment|التقييم الآلي]]، و[[automated-essay-scoring|التصحيح الآلي للمقالات]]، و[[automated-question-generation|التوليد الآلي للأسئلة]]. ولأن النموذج يستطيع الآن أن ينتج عملًا منجزًا مقنعًا عند الطلب، تُبرز قاعدة المعارف القدرة التي تبقى للمتعلّم نفسه: [[evaluative-judgment|الحكم التقييمي]]، أي القدرة على تقدير جودة عمله هو وعمل أقرانه ومخرجات الذكاء الاصطناعي في ضوء معايير معلَّلة. وهو المُتغيّر الذي تتقارب عليه عدة دراسات في التغذية الراجعة والتقييم الأصيل: شرط التغذية الراجعة المهجّن الذي تفوّق على التغذية الراجعة المباشرة بالذكاء الاصطناعي في تجربة متعددة المواقع، وفجوة الاستدامة في التغذية الراجعة التكوينية بالذكاء الاصطناعي، والخطوة العملية المتمثلة في تقييم القرارات التي يتخذها الطلاب لا المخرَج وحده؛ وهو سبب جوهري في أن إعادة التصميم في عصر الذكاء الاصطناعي تنتقل من [[ai-detection|الكشف]] نحو مهام تصمد نزاهتها عند الفحص. ويُقيَّم [[group-work|العمل الجماعي]] بالمثل على أساس العملية والمخرَج معًا، حيث يتعيّن على الفرق أن تتفاوض على أي انخراط مع الذكاء الاصطناعي وأي نوع منه يُعدّ مقبولًا.
@@ -126,7 +143,7 @@ ai_assist:
 
 كيف نعرف هل ينجح الذكاء الاصطناعي محور قائم بذاته، وتعامله قاعدة المعارف كذلك:
 
-- **مناهج البحث:** [[research-methods-aied|مناهج البحث في الذكاء الاصطناعي في التعليم]] كمحور جامع، مع مقاربات [[qualitative-research|نوعية]] و[[quantitative-research|كمية]] و[[mixed-methods-research|مختلطة]] و[[design-based-research|قائمة على التصميم]] و[[usability-research|قابلة للاستخدام]]، إضافة إلى [[rct|التجارب العشوائية المضبوطة]] و[[meta-analysis-systematic-review|التحليل البَعدي والمراجعة المنهجية]] و[[network-analysis|تحليل الشبكات]].
+- **مناهج البحث:** [[research-methods-aied|مناهج البحث في الذكاء الاصطناعي في التعليم]] كمحور جامع، مع مقاربات [[qualitative-research|نوعية]] و[[quantitative-research|كمية]] و[[mixed-methods-research|مختلطة]] و[[design-based-research|قائمة على التصميم]] و[[usability-research|قابلة للاستخدام]] و[[longitudinal-research|الطولية]]، إضافة إلى [[rct|التجارب العشوائية المضبوطة]] و[[meta-analysis-systematic-review|التحليل البَعدي والمراجعة المنهجية]] و[[network-analysis|تحليل الشبكات]].
 
 وصار عمل المجال البحثي نفسه موضوعًا قائمًا بذاته. فـ[[ai-assisted-educational-research|البحث التعليمي المُساعَد بالذكاء الاصطناعي]] يغطّي الذكاء الاصطناعي مستخدَمًا كأداة للبحث الببليوغرافي والغربلة والترميز النوعي والتحليل والكتابة، بما في ذلك بحوث الممارسين كدراسة تدريس التعلّم. وهو يبقى مميّزًا عن التصاميم المستخدمة لدراسة ما يفعله الذكاء الاصطناعي بالمتعلّمين.
 
@@ -187,6 +204,10 @@ ai_assist:
 ## المفاهيم المتصلة
 
 - [[ai-literacy|الثقافة بالذكاء الاصطناعي]]: محور جامع لفهم الذكاء الاصطناعي واستخدامه وتقويمه
+- [[primary-education]] — الذكاء الاصطناعي في التعليم الابتدائي
+- [[secondary-education]] — الذكاء الاصطناعي في التعليم الثانوي
+- [[undergraduate-education]] — الذكاء الاصطناعي في الدراسة الجامعية
+- [[graduate-education]] — الذكاء الاصطناعي في الدراسات العليا
 - [[automation-bias]] — فشل جانب القارئ: قبول حكم آلي دون التحقق منه
 - [[human-ai-collaboration|التعاون بين الإنسان والذكاء الاصطناعي]]: محور جامع لكيفية عمل الناس والذكاء الاصطناعي معًا
 - [[pedagogy|أصول التدريس]]: محور جامع لطرائق التدريس واستراتيجياته
@@ -222,10 +243,13 @@ ai_assist:
 
 ## المقالات المتصلة
 
-مراجعات على مستوى المجال للذكاء الاصطناعي في التعليم، أي الدراسات التي تستقصي المجال كله أو مستوى تعليميًا كاملًا لا موضوعًا واحدًا:
-
-- [[rismanchian-ai-education-four-decades-aixed-2026]] — The evolution of AI-and-education research across four decades (AIxEd framework)
-- [[mishra-control-vs-agency-history-2025]] — Control vs. agency: a history of AI in education
-- [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies
-- [[stanford-evidence-base-ai-k12-2026]] — The evidence base on AI in K-12: a review of 818 papers
-- [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis
+- [[rismanchian-ai-education-four-decades-aixed-2026]] — تطوّر بحوث الذكاء الاصطناعي والتعليم عبر أربعة عقود (إطار AIxEd)
+- [[mishra-control-vs-agency-history-2025]] — التحكّم مقابل الفاعلية: تاريخ الذكاء الاصطناعي في التعليم
+- [[genai-higher-education-systematic-review-2026]] — الذكاء الاصطناعي التوليدي في التعليم العالي: مراجعة منهجية لـ125 دراسة
+- [[stanford-evidence-base-ai-k12-2026]] — قاعدة الأدلة على الذكاء الاصطناعي في مرحلة K-12: مراجعة 818 ورقة
+- [[genai-educational-outcomes-meta-analysis]] — الذكاء الاصطناعي التوليدي والنواتج التعليمية: تحليل بعدي شامل
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 دراسة في المرحلة الثانوية: المكاسب حيث قارن الطلاب المخرجات، وخفتت حيث أنتجت الأداة العمل
+- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — دعم المشرف (β = 0.201 غير مباشر) لا استخدام الأداة يبني الكفاءة الذاتية البحثية
+- [[guanilo-pareja-genai-doctoral-supervision-2026]] — الإشراف على الدكتوراه بالذكاء الاصطناعي التوليدي: الشرعية بحسب المهمة، والإفصاح بحسب الأهمية الفكرية، والحوكمة عند المحطات
+- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — طلاب الدراسات العليا قبلوا مخرَج الذكاء الاصطناعي بعد تدقيق حارس معرفي: فاعلية مُفوَّضة لا مُسلَّمة (Chen 2026)
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — التكرار مقياس خاطئ: β = 0.030 بمجرد دخول الأخلاقيات والتنظيم الذاتي

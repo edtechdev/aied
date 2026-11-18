@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: Sviluppo educativo professionale
 created: "2026-10-14T22:10:00-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/educational-development"
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-17T18:50:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -50,16 +54,21 @@ Lo sviluppo educativo è il lavoro professionale e istituzionale attraverso cui 
 - **Integrazione curricolare:** i [[institutional-change-framework-ai|quadri di cambiamento istituzionale]] e la [[ai-assessment-scale-reform|riforma della valutazione]] richiedono al corpo docente di riprogettare i corsi, non solo di aggiungere strumenti di IA.
 - **Programmi di formazione:** i [[crewscaler-ai-upskilling-framework|quadri di riqualificazione sull'IA]] e la [[ai-tpack-preservice-math-teachers|formazione pre-servizio basata sul TPACK]] forniscono modelli per l'[[ai-education|educazione all'IA]] strutturata del corpo docente.
 
+- **La domanda non è un'analisi dei bisogni.** 345 docenti CEGEP del Québec hanno ottenuto i punteggi più bassi nella comprensione tecnica (2,706 su 5) eppure chiedevano applicazioni pratiche specifiche per disciplina, giudicando le sessioni precedenti troppo generiche ([[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachini et al. (2026)]]).
+
 - **Riflessione professionale mediata dall'IA.** Il Modello del Triangolo Riflessivo posiziona l'IA come mediatore cognitivo attraverso l'[[reflection|autoriflessione]], la riflessione collaborativa e la riflessione di comunità all'interno di una comunità di apprendimento professionale, testato in un caso di fattibilità di quattro settimane con sei insegnanti; il confine che esso traccia è che l'intuizione individuale non diventa automaticamente conoscenza professionale condivisa ([[reflective-triangle-model-teacher-ai-2026|Nguyen (2026)]]).
 - **[[governance|Governance]] e politica:** l'[[genai-policies-higher-ed-computing|analisi della politica istituzionale sull'IA]] documenta il divario tra le ambizioni istituzionali e la capacità di supporto al corpo docente.
 - **L'alfabetizzazione sull'IA è istituzionalmente invisibile.** Una [[meta-analysis-systematic-review|revisione sistematica]] di 32 studi sull'alfabetizzazione sull'IA degli insegnanti di lingue l'ha trovata assente dai modelli di carico di lavoro, dalle politiche di promozione e dall'allocazione delle risorse, con uno sviluppo frammentato e una responsabilità spostata attraverso istituzioni e agenzie — cosicché lo sviluppo dell'alfabetizzazione ricade per default sullo sforzo individuale piuttosto che su un supporto strutturale ([[governing-unseen-ai-literacy-language-teachers-2026|Deng, Çelik & Duran, 2026]]).
+
+- **I workshop costruzionisti hanno bisogno di una mappa.** Tre sessioni da 50 minuti hanno portato da 20 a 25 docenti dal prompting giocoso a materiali didattici riutilizzabili, eppure i partecipanti nuovi all'IA chiedevano un briefing concettuale prima della sandbox ([[fischer-learning-by-making-faculty-development-2026|Fischer (2026)]]).
+
+Lo sviluppo transfrontaliero ha un'unità di analisi che va oltre il workshop. [[tian-transnational-faculty-development-governance-2027|Tian, Sun e Wang (2026)]] sostengono che la connettività sia episodica per default, poiché un webinar distribuisce senza fissare un'agenda e una piattaforma ospita senza produrre accordo sull'uso. Ciò che converte gli eventi in infrastruttura accumulata è poco appariscente: un segretariato che tiene il ritmo, un archivio datato di agende e casi esemplari, e una governance condivisa trattata come direzione di marcia anziché come status che una rete può rivendicare.
 
 ### Metafore e linguaggio condiviso nello sviluppo educativo
 
 Il corpo docente detiene modelli mentali dell'IA eterogenei e spesso profondamente ambivalenti, e uno sviluppo efficace deve portarli alla luce e lavorare con essi. [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt et al.]] mostrano che gli insegnanti di [[engineering-education|ingegneria]] inquadrano l'IA attraverso metafore che insieme costruiscono e vincolano la comprensione (l'IA come "assistente" umanoide rispetto a "strumento" o "motore di ricerca"); poiché gli insegnanti all'interno di uno stesso dipartimento detengono spesso concettualizzazioni fondamentalmente diverse, un linguaggio condiviso e accurato sulla [[generative-ai|GenAI]] è un prerequisito per uno sviluppo efficace del corpo docente e per discussioni produttive sull'adozione a livello dipartimentale.
 
 Un metodo pratico per portare alla luce questi modelli mentali è il **laboratorio di analisi delle metafore**. [[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson & Casey (2025)]] hanno progettato e validato un laboratorio collaborativo a bassa tecnologia per corpo docente, personale e studenti, volto ad articolare le loro metafore sull'IA generativa. Le metafore dei partecipanti si sono raggruppate in quattro categorie — *Funzioni* (simili a strumenti: "coltellino svizzero"), *Ruoli* (simili a umani: "aiutante", "amico-nemico"), *Qualità* (inconoscibili: "scatola nera", "pendio scivoloso") e *Agentività* (minacciose: "concorrente", "robot sinistro") — portando alla luce tensioni persistenti tra l'[[agency|agentività]] umana e quella della macchina e tra il noto e l'inconoscibile. Il laboratorio ha aiutato i partecipanti a far emergere i propri presupposti, a connettersi tra ruoli diversi, a sentirsi "non soli" e a riflettere sull'[[ethics|etica]] della GenAI, senza richiedere competenze tecniche. Come strumento di sviluppo, offre ai progettisti di programmi un modo a bassa soglia per far emergere i presupposti di un team *prima* di riprogettare la [[assessment|valutazione]] o di varare una politica, e per affrontare le paure frontalmente — inclusa la paura che l'IA sostituisca i [[teacher-role|ruoli dell'insegnamento]]. ([[fear-awe-genai-metaphor-workshops-2025]])
-
 
 La domanda progettuale più ampia è come scegliere una metafora in primo luogo. [[metaphors-and-analogies]] raccoglie l'evidenza trasversale, e [[roe-perkins-furze-metaphors-critical-ai-literacy-2025|Roe, Perkins e Furze (2025)]] offrono quattro criteri: accessibilità, potere esplicativo, potenziale di alfabetizzazione critica sull'IA e utilità pedagogica.
 
@@ -85,9 +94,7 @@ Per gli sviluppatori del corpo docente, i dirigenti accademici e gli [[stakehold
 
 **Affrontare i quattro motori dell'adozione, non solo la conoscenza.** Fiducia, atteggiamenti, supporto e preoccupazioni predicono se il corpo docente adotti effettivamente l'IA — un laboratorio basato sulla sola conoscenza che ignori questi elementi difficilmente cambierà la pratica. Progettare lo sviluppo per costruire fiducia attraverso l'uso pratico, fornire supporto continuativo (non una formazione una tantum), e portare attivamente alla luce le preoccupazioni del corpo docente rispondendo a esse. ([[teacher-ai-adoption-confidence]])
 
-
 Fiducia e alfabetizzazione non sono obiettivi intercambiabili: in un modello di equazioni strutturali su 502 intervistati del corpo docente universitario, l'alfabetizzazione sull'IA era il predittore dominante del [[well-being|benessere]] rispetto all'IA (β = 0,713), mentre l'[[self-efficacy|autoefficacia tecnologica]] contribuiva poco (β = 0,082), e il supporto raggiungeva il benessere solo indirettamente ([[faculty-ai-well-being-social-supports-2026|Liu et al. (2026)]]).
-
 
 **Trattare la domanda di linee guida e la loro adeguatezza come problemi distinti.** In un'università il corpo docente sosteneva con forza le misure istituzionali contro l'uso non etico dell'IA (M = 4,59) valutando al contempo le linee guida esistenti al livello più basso (M = 2,99), e indicava la [[privacy|privacy dei dati]] e l'inclusività culturale come le aree di conoscenza più deboli — un obiettivo concreto per la formazione professionale ([[bilgic-sever-ethical-dimensions-ai-higher-ed-2026|Bilgic & Sever, 2026]]).
 
@@ -96,15 +103,21 @@ Fiducia e alfabetizzazione non sono obiettivi intercambiabili: in un modello di 
 **Non equiparare l'investimento in infrastrutture alla trasformazione.** Su 125 studi, l'investimento istituzionale nelle infrastrutture GenAI e nello sviluppo educativo correlava solo debolmente con il cambiamento pedagogico effettivo (r = 0,12), mentre il 60–70% degli insegnanti si sentiva impreparato a integrare la GenAI — il che rende lo sviluppo, e non l'approvvigionamento, il vincolo stringente. ([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]])
 **Nominate la modalità di fallimento, non solo l'ampiezza dell'effetto.** [[fajardo-ramos-teacher-education-ai-agenda-2026|Fajardo-Ramos, Chiappe e Martínez-Pérez (2026)]] la chiamano innovazione simulata: la presenza dello strumento segnala progresso, i formati di insegnamento e valutazione restano intatti, i tassi di adozione e le [[visualization|dashboard]] sostituiscono l'apprendimento, e il ciclo di rilascio della tecnologia detta la direzione. La loro diagnostica chiede a un programma di sviluppo di giustificare ogni strumento rispetto a un problema di apprendimento nominato prima dell'adozione.
 
+Il giudizio è meglio trattato come condizione che come voce di competenza. [[ji-judgement-space-dialogic-inquiry-2027|Ji e Mercer (2026)]] descrivono lo spazio del giudizio come l'interazione relazionale, normativa e condizionale attraverso cui il giudizio professionale si articola e si esamina, e nei contesti assistiti dall'IA quello spazio diventa a tre parti perché le valutazioni generate vi entrano. Il loro audit a tre colonne chiede che cosa fa il docente, che cosa fanno gli studenti e come è posizionata l'IA, uno strumento collegiale per individuare dove il giudizio si è spostato silenziosamente su uno strumento.
+
 **Puntare alla riprogettazione curricolare, non all'adozione di strumenti.** L'obiettivo è che il corpo docente riprogett i corsi e la valutazione, non che aggiunga semplicemente strumenti di IA. Fondare la formazione professionale nel lavoro di riprogettazione a livello di corso e nella riforma della valutazione, e fornire al corpo docente quadri strutturati per farlo (ad es. [[ai-assessment-scale-reform|scale di valutazione]], [[institutional-change-framework-ai|quadri di cambiamento istituzionale]]). ([[institutional-change-framework-ai]])([[ai-assessment-scale-reform]])
 
 **Radunare il villaggio, non l'individuo.** Tra 12 accademici e 17 studenti intervistati, la riprogettazione della valutazione nell'era della GenAI eccedeva la capacità di qualsiasi singolo accademico — sono stati nominati processi inflessibili, lunghi tempi di preparazione e il carico di lavoro — cosicché gli autori propongono un team a livello di programma che combini competenze di progettazione della valutazione, GenAI, disciplina, programma e industria ([[nicola-richmond-programwide-assessment-genai-2025|Nicola-Richmond et al., 2025]]).
+
+L'unità di sviluppo può essere più piccola del dipartimento e più grande della persona. [[chen-future-faculty-development-ai-2027|Chen et al. (2026)]] delineano sette ruoli docenti ma insistono che non devono stare in un solo accademico: educatore centrato sulla persona ed esperto disciplinare sono fondamenta universali, mentre architettura dell'apprendimento, riprogettazione della valutazione, competenza tecnica, custodia etica e sperimentazione disciplinata possono distribuirsi su un team didattico. La loro condizione è che tutti conservino una capacità tecnica ed etica di base, così che l'expertise condivisa non diventi ignoranza condivisa.
 
 **Condurre la serie sui dati della stanza stessa piuttosto che su buone pratiche importate.** [[physics-faculty-learning-community-ai-2026|Perl-Nussbaum and Finkelstein (2026)]] documentano un modello concretamente realizzato in un grande dipartimento di fisica di un'università pubblica R1: sei sessioni bisettimanali di 60-75 minuti, diciannove membri del corpo docente partecipanti nell'arco della serie e circa dieci a ciascun incontro, in cui ogni sessione si apriva con dati locali o materiali provenienti dal dipartimento, passava al test in piccoli gruppi dell'IA sui compiti a casa reali e anonimizzati degli studenti, e si chiudeva in una discussione collettiva. Ciò che il corpo docente trovava testando era più utile di qualsiasi pacchetto i facilitatori avrebbero potuto importare — l'IA risolveva ogni problema che provavano, ma il suo feedback sui lavori reali degli studenti era diseguale, dipendente dal prompt e incentrato sulla superficie, a meno che non le fossero forniti obiettivi e rubriche espliciti, e gli studenti formulavano prompt superficiali e modificavano l'output in modo superficiale, a meno che l'uso produttivo non fosse modellato. Il primo output concreto fu un repertorio vivente di cinque voci — dichiarazioni di politica nel programma del corso, materiali per la discussione in classe, l'indagine sugli studenti, compiti a casa integrati con l'IA e strutture di valutazione — ed è per questo che gli autori trattano la struttura stessa della sessione come l'argomentazione, piuttosto che un qualsiasi contenuto che essa abbia fornito.
 
 **Ancorarsi a un quadro di competenze.** Lo sviluppo dovrebbe costruire anche l'**[[prompt-engineering|alfabetizzazione pedagogica sui prompt]]** — la capacità di codificare le intenzioni pedagogiche nei prompt — poiché [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] rileva che è la competenza pedagogica, non la fluidità nell'IA, a determinare la qualità del lavoro di progettazione assistita dall'IA degli insegnanti. ([[crewscaler-ai-upskilling-framework]])([[ai-tpack-preservice-math-teachers]])([[talebzadeh-ai-group-activity-roles-2026]])
 
 **Mettere in sequenza la comprensione prima dell'automazione.** Un'[[qualitative-research|analisi critica del discorso]] di 14 testi di letteratura grigia pubblicati tra novembre 2022 e aprile 2025 che consigliano i professionisti sull'IA generativa per l'allineamento costruttivo rileva che la capacità deve precedere l'accesso agli strumenti: poiché in un quadro [[constructivist|costruttivista]] la qualità del coinvolgimento precede la qualità della comprensione, il rischio scala in modo inversamente proporzionale alla familiarità, e i novizi sono i più esposti all'accettazione guidata dalla plausibilità di output dall'aspetto plausibile ma pedagogicamente sottili. [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al. (2026)]] sostengono inoltre che le unità di sviluppo dovrebbero resistere a un mandato tecnicistico — aiutare il corpo docente ad "acquisire fluidità" in strumenti che compiono "il lavoro pesante" della [[learning-design|progettazione del corso]] — perché quell'inquadratura esclude gli sviluppatori da un ciclo chiuso educatore-GenAI e riformula lo sviluppo valoriale e relazionale come meccanismo di mediazione per l'adozione di software. L'alternativa difendibile mantiene gli sviluppatori educativi come curatori e fissatori di regole di qualsiasi assistente di allineamento basato sul [[rag|recupero]] istituzionalmente circoscritto che ponga domande sondanti, segnali sotto- e sovra-valutazione e generi alternative, ma mai artefatti finiti, con l'escalation al giudizio [[human-in-the-loop-ai|umano]] sulle questioni di accreditamento e inter-programma trattata come una caratteristica anziché un'eccezione.
+
+Lo sviluppo può anche essere organizzato attorno a un nucleo invariante e a un bordo mobile. [[ho-invariant-core-faculty-development-2027|Ho (2026)]] mette il meccanismo neuropsicologico dell'apprendimento davanti a qualsiasi tecnologia, sostiene che la GenAI collassa la distanza tra artefatto e pensiero, e deriva una via di insegnamento accademico in cui i docenti indagano il proprio insegnamento sotto evidenza, riflessione e revisione tra pari. La sua priorità ne segue: approfondire come funziona l'apprendimento, poi lasciare che i docenti costruiscano piccoli strumenti, e trattare il bordo tecnologico come la parte che ci si aspetta si muova.
 
 **Portare alla luce paure e modelli mentali e affrontarli.** Prima di riprogettare l'insegnamento, usare un laboratorio di analisi delle metafore ([[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson & Casey 2025]]) per far emergere i presupposti e le ansie di un team sulla GenAI — inclusa la paura che essa sostituisca i ruoli dell'insegnamento — e costruire uno sviluppo che risponda a essi piuttosto che ignorarli. ([[fear-awe-genai-metaphor-workshops-2025]])
 
@@ -116,12 +129,24 @@ Fiducia e alfabetizzazione non sono obiettivi intercambiabili: in un modello di 
 
 **Misurare la presenza, non la sensazione di coinvolgimento.** In un programma Intelligent-TPACK di sei mesi per 64 insegnanti universitari, il tasso di partecipazione prediceva il guadagno nella competenza sull'IA (β = ,407, p = ,001) mentre la partecipazione autopercepita non lo faceva (β = ,049, p = ,692), il che gli autori leggono come concreto investimento comportamentale contro il coinvolgimento di superficie ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]). Il programma abbinava lezioni online a tre laboratori in presenza, poi richiedeva agli insegnanti di rivedere le loro progettazioni didattiche e di implementarle nel semestre successivo, e gli autori raccomandano di legare la partecipazione alla valutazione della performance insieme a incentivi significativi.
 
+Partecipazione e sostanza possono muoversi in direzioni opposte, e la ragione è strutturale anziché motivazionale. [[jiang-faculty-development-japan-2027|Jiang, Wang e Taguchi (2026)]] tracciano la partecipazione giapponese salita al 32,7% delle università nel 2023 mentre i workshop sull'apprendimento attivo, l'osservazione tra pari e la revisione tra pari restavano piatti o calavano, e collocano il vincolo nell'assenza di qualsiasi ruolo professionale continuativo nello sviluppo accademico. Rotazione, incarichi concorrenti e contratti a tempo determinato rompono la continuità da cui dipendono i formati collegiali, quindi l'indicatore da riportare è il mix di formati accanto al numero di teste.
+
 **Confrontarsi con ciò che il corpo docente stesso riporta.** L'indagine di [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]] su 1.057 membri del corpo docente statunitense rileva che lo strato istituzionale è sottile in modi che i progettisti di programmi possono misurare direttamente: il 59% giudicava la propria istituzione impreparata a usare l'IA generativa in modo efficace per preparare gli studenti al futuro e il 68% dichiarava che essa non aveva preparato il corpo docente a usarla per insegnare e fare mentorship, mentre la risposta strutturale si limitava a un gruppo di lavoro nel 55% delle istituzioni ma a un risultato di educazione generale in materia di alfabetizzazione sull'IA solo nel 13%. Il corpo docente non aveva atteso la politica — l'87% aveva scritto regole proprie a livello di singolo incarico contro il 48% che poteva indicarne una istituzionale — e ha nominato la resistenza (82%) e la familiarità (83%) dei colleghi, non l'obbligo, come ostacoli all'adozione a livello dipartimentale. Per i programmi di sviluppo questo sostiene l'idea di trattare le norme tra pari, il linguaggio politico condiviso a livello di incarico e misure esplicite della prontezza istituzionale come parte dell'intervento, piuttosto che lasciarli al documento di politica.
 
 **La risposta degli insegnanti riflette i centri di potere, non l'atteggiamento.** In uno studio di caso strumentale su 33 insegnanti di scrittura, quattro centri di potere policentrici — la tendenza globale della GenAI, l'università/dipartimento, i colleghi e gli studenti — hanno plasmato la pratica, e gli insegnanti a contratto vincolati da un limitato potere discorsivo si sono spostati dal rilevamento verso l'insegnamento di un uso accettabile ([[zuo-instructor-power-genai-writing-2026|Zuo et al. (2026)]]).
 
 - **Sei famiglie di sviluppo professionale, tre ben documentate, e una vincente chiara.** Una revisione di 78 studi sulla progettazione didattica supportata dall'IA ordina lo sviluppo professionale documentato in moduli compatti integrati (2-4 settimane), microlearning di un semestre, cicli di progettazione basati su compiti, catene di domande dialogiche collaborative, co-scoperta critica e [[self-directed-learning|apprendimento autodiretto]] dei professionisti. L'evidenza sugli esiti è più forte per i **moduli compatti integrati**: un modulo di tre settimane ha prodotto guadagni statisticamente significativi in tutti e sei i domini dell'Intelligent-TPACK con effect size da medi a grandi, e un programma di quattro settimane con **436 docenti in formazione e una condizione di controllo** è la valutazione controllata più solida del corpus ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
 - **Tre caratteristiche di progettazione separano gli interventi meglio documentati.** L'etica incorporata come **[[retrieval-spacing-interleaving|pratica distribuita]] con checkpoint a ogni compito** anziché come sessione autonoma; la **valutazione della competenza basata sulla performance** con piani di lezione, registri delle decisioni e micro-insegnamento, motivata direttamente dall'inaffidabilità dell'autorapporto; e il prompt engineering sviluppato come pratica riflessiva e pedagogicamente fondata. L'adozione non è la stessa leva della performance: su 200 docenti nel Nord Sumatra, l'uso dell'IA non aveva alcun effetto diretto sulla prestazione dei docenti (β = 0,112, p = .087) mentre il comportamento di cittadinanza organizzativa la portava indirettamente, quindi il lavoro di sviluppo del corpo docente orientato a un uso collaborativo ed extra-ruolo è la versione che l'evidenza sostiene ([[ai-use-teacher-performance-north-sumatra-2026|Sherly et al. (2027)]]). Uno studio complementare di due settimane ha trovato guadagni rapidi in conoscenza e fiducia mentre identificava il rilevamento del pregiudizio come la competenza emergente più debole, un divario che persisteva nel modulo più lungo, coerente con una capacità etica percettiva che si sviluppa più lentamente della familiarità tecnologica.
+
+**La scala è documentata; il cambiamento nelle aule no.** [[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay e colleghi]] hanno seguito 105 docenti di chimica attraverso un programma di sei settimane, e [[ma-ai-corpus-language-teaching-coi-2026|Ma e colleghi]] hanno condotto un programma online di 20 settimane con oltre 150 docenti di lingua da 28 paesi. [[white-scandinavian-teachers-genai-attitudes-2026|White e colleghi]] hanno misurato un guadagno di 0,20 DS nei benefici percepiti su 2.159 docenti scandinavi che avevano ricevuto sviluppo professionale sulla GenAI. Ogni studio mostra che lo sviluppo muove ciò che gli educatori riportano; nessuno li segue in un'aula per misurare che cosa gli studenti hanno fatto diversamente.
+
+**Ciò che gli educatori chiedono assomiglia più a un apprendistato che a una formazione.** Nello studio distrettuale, 22 docenti chiedevano uno sviluppo erogato da ex docenti che capivano i vincoli dell'aula, una guida di una pagina su quando gli strumenti aiutano, e il tempo di progettazione per usare l'una o gli altri ([[dangol-relief-or-displacement-teachers-generative-ai-2026|Dangol et al.]]). Le istituzioni, intanto, scelgono di costruire capacità anziché comprarla: tra quelle la cui strategia include competenze della forza lavoro, il 69% sta riqualificando personale e docenti in servizio ([[robert-educause-impact-ai-work-higher-education-2026|EDUCAUSE, 2026]]).
+
+**L'assenza di sviluppo è una scelta politica con un risultato visibile.** [[rameskumar-shadow-ai-legitimized-higher-education-2027|Rameskumar e colleghi]] hanno intervistato 20 educatori che si erano costruiti le proprie regole perché non arrivava alcuna guida, e [[bodek-prompted-to-explore-microlearning-2026|Bodek]] descrive un modello di microlearning costruito per adattarsi al tempo che i docenti hanno davvero. I programmi che trattano lo sviluppo come uno strato ripetuto di supporto istituzionale anziché come un evento singolo riportano la differenza ([[aalhe-capacity-disposition-genai-assessment-2026|AALHE]]).
+
+**Il contesto cambia la forma dello sviluppo, non il bisogno.** Nella formazione medica, una residenza sull'IA tratta lo sviluppo dei docenti e il co-apprendimento come il meccanismo anziché come un'aggiunta ([[bursic-ai-residency-education-curriculum-2026|Bursic et al.]]). Una revisione di 86 risorse sulla prima infanzia identifica lo sviluppo degli educatori come uno dei suoi quattro temi ([[early-childhood-ai-holistic-competencies-review-2026|la revisione]]). Il rinnovamento dell'istruzione tecnico-professionale ricorre allo sviluppo dei docenti quando il cambiamento curricolare espone un divario di capacità ([[wang-legacy-curriculum-ai-cte-renewal-2026|Wang]]). E tra 146 docenti, l'engagement nello sviluppo professionale mediava il legame tra motivazione e intenzione d'uso della GenAI ([[yuan-teacher-need-satisfaction-genai-2026|Yuan et al.]]).
+
+Un esempio pratico del modello a coorte viene da una biblioteca universitaria. [[jordan-faculty-ai-oer-creation-2025|Jordan et al. (2025)]] hanno pagato sette stipendi per un programma di otto settimane che combinava quattro settimane di istruzione, sviluppo autonomo di un progetto e feedback tra pari, fondato sui principi dell'apprendimento adulto di Knowles e sul framework di prompting CLEAR. I guadagni erano modesti nella familiarità con l'IA e maggiori in quella con gli OER, e gli autori trattano lo stipendio e l'accordo sindacale che permetteva di pagare i docenti a contratto come parte dell'intervento anziché come amministrazione.
 
 ## Fraintendimenti comuni
 
@@ -152,23 +177,24 @@ Fiducia e alfabetizzazione non sono obiettivi intercambiabili: in un modello di 
 - [[metaphors-and-analogies]] — Elicitazione delle metafore e progettazione delle analogie
 
 ## Articoli collegati
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Critical discourse analysis of GenAI alignment advice: developers recast as technology trainers
+- [[jordan-faculty-ai-oer-creation-2025]] — Dalla richiesta alla pratica: un'iniziativa centrata sul corpo docente per esplorare la creazione di OER assistita dall'IA (Jordan et al., 2025)- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Analisi critica del discorso sui consigli di allineamento con la GenAI: gli sviluppatori educativi ricondotti al ruolo di formatori tecnologici (McInnes et al., 2026)
 - [[crompton-faculty-technology-integration-standards-2026]] — Faculty standards for technology integration (DBR)
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Ethical dimensions of AI: faculty and student views
-- [[nicola-richmond-programwide-assessment-genai-2025]]
+- [[nicola-richmond-programwide-assessment-genai-2025]] — 
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — How Engineering Faculty Metaphors Construct (and Constrain) AI Understanding
 - [[fear-awe-genai-metaphor-workshops-2025]] — Fear and Awe: Making Sense of Generative AI Through Metaphor (faculty/staff/student metaphor workshop)
+- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Four criteria for choosing an AI metaphor: accessibility, explanatory power, critical AI literacy, pedagogical utility
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Governing the unseen: AI literacy among language teachers
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[teacher-ai-adoption-confidence]]
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-assessment-scale-reform]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[genai-pd-ai-pck-learning-gain-2026]]
-- [[genai-higher-education-systematic-review-2026]]
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — 
+- [[teacher-ai-adoption-confidence]] — 
+- [[institutional-change-framework-ai]] — 
+- [[genai-policies-higher-ed-computing]] — 
+- [[ai-tpack-preservice-math-teachers]] — 
+- [[crewscaler-ai-upskilling-framework]] — 
+- [[ai-assessment-scale-reform]] — 
+- [[pchl-he-framework-genai-content-creation-2026]] — 
+- [[genai-pd-ai-pck-learning-gain-2026]] — 
+- [[genai-higher-education-systematic-review-2026]] — 
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
 - [[zuo-instructor-power-genai-writing-2026]] — Power relations perceived by college instructors grappling with GenAI in writing (Zuo, Xu & Dunning 2026)
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI as cognitive mediator
@@ -177,14 +203,28 @@ Fiducia e alfabetizzazione non sono obiettivi intercambiabili: in un modello di 
 - [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
 - [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
 - [[farazouli-navigating-uncertainty-teachers-genai-2026]] — University teachers' experiences and perceptions of GAI: vulnerability, rethinking assessment, student learning at risk (Farazouli et al. 2026)
-- [[chick-faculty-development-ethical-ai-2026]] — From fear to innovation: a six-week faculty institute, symbiotic pedagogy, and the institutional conditions it could not supply
+- [[chick-faculty-development-ethical-ai-2026]] — Dalla paura all'innovazione: un istituto per il corpo docente di sei settimane, la pedagogia simbiotica e le condizioni istituzionali che non ha potuto fornire
 - [[vassallo-ai-guilt-complex-faculty-2026]] — The AI Guilt Complex: anticipatory guilt, concealment and career-stage differences among academic staff (Vassallo 2026)
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon survey of 1,057 US faculty: institutional unpreparedness, thin governance and the 87%/48% policy gap (Watson & Rainie 2026)
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers as digital mediators in Global South higher education: development as sociotechnical praxis
-- [[physics-faculty-learning-community-ai-2026]] — A Workshop Series for Effective Use of AI in Uncertain Times: Building a Physics Faculty Learning Community
-
+- [[physics-faculty-learning-community-ai-2026]] — Una serie di workshop per un uso efficace dell'IA in tempi incerti: costruire una comunità di apprendimento tra docenti di fisica
 - [[faculty-ai-well-being-social-supports-2026]] — Faculty AI well-being tracks AI literacy rather than technological self-efficacy
 - [[ai-competence-framework-landscape-2026]] — Verificate cosa descrivono i livelli di un quadro prima di adottarlo
 - [[fajardo-ramos-teacher-education-ai-agenda-2026]] — L'educazione può dettare l'agenda dell'IA? Innovazione simulata e direzione pedagogica nella formazione degli insegnanti
-
-- [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Four criteria for choosing an AI metaphor: accessibility, explanatory power, critical AI literacy, pedagogical utility
+- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 docenti di chimica in un programma di sei settimane
+- [[ma-ai-corpus-language-teaching-coi-2026]] — Oltre 150 docenti di lingua da 28 paesi in 20 settimane
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2.159 docenti scandinavi; guadagno di 0,20 DS nei benefici percepiti
+- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 docenti dopo un programma di apprendimento sulla GenAI, con i bisogni che mediano l'engagement
+- [[bodek-prompted-to-explore-microlearning-2026]] — Un modello di microlearning per lo sviluppo del corpo docente sulla IA generativa
+- [[bursic-ai-residency-education-curriculum-2026]] — Una residenza sull'IA nella formazione medica
+- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 risorse; lo sviluppo degli educatori come uno di quattro temi
+- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 docenti che chiedono uno sviluppo condotto da ex docenti
+- [[robert-educause-impact-ai-work-higher-education-2026]] — Il 69% riqualifica personale e docenti già in servizio
+- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 educatori che legittimano l'IA ombra dove la guida mancava
+- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — Divari di capacità che guidano lo sviluppo del corpo docente e le decisioni di assunzione
+- [[aalhe-capacity-disposition-genai-assessment-2026]] — Lo sviluppo ripetuto come uno di cinque strati di supporto
+- [[chen-future-faculty-development-ai-2027]] — Sette ruoli docenti, due fondamenta universali e il team didattico come unità di sviluppo
+- [[ji-judgement-space-dialogic-inquiry-2027]] — Lo spazio del giudizio, l'indagine dialogica e un audit a tre colonne su dove il giudizio si è spostato su uno strumento
+- [[jiang-faculty-development-japan-2027]] — Il doppio binario giapponese dello sviluppo del corpo docente: la partecipazione è salita mentre i formati collegiali no
+- [[tian-transnational-faculty-development-governance-2027]] — Sviluppo transnazionale del corpo docente: la connettività è episodica, il coordinamento è il lavoro
+- [[ho-invariant-core-faculty-development-2027]] — Nucleo invariante, bordo che cambia: il meccanismo dell'apprendimento davanti alla tecnologia

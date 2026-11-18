@@ -1,7 +1,7 @@
 ---
 title: "শিক্ষায় কৃত্রিম বুদ্ধিমত্তা"
 created: "2026-10-15T14:22:00-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/ai-education"
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-17T08:15:00-05:00"
 translation_note: "ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।"
 contributors: [editor]
 ai_assist:
@@ -30,6 +30,11 @@ ai_assist:
     role: translation
     date: "2026-11-03"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
+
 ---
 
 *ইংরেজি পাতার এই স্বয়ংক্রিয় অনুবাদ, এখনও মাতৃভাষিক বক্তার দ্বারা পর্যালোচনা করা হয়নি।*
@@ -45,7 +50,7 @@ ai_assist:
 - AIED-এর মধ্যে শিক্ষার্থীদের AI সমালোচনামূলকভাবে ব্যবহার করতে শেখানো একটি স্বত্বরূপে লক্ষ্য অন্তর্ভুক্ত। আপনার প্রসঙ্গে, AI কি বেশি এমন কিছু হিসেবে ধরা হয় যা শেখানো হবে, নাকি এমন একটি সরঞ্জাম হিসেবে যা ব্যবহার করা হবে — এবং সেই ভারসাম্য কি শিক্ষার্থীদের প্রকৃত চাহিদার প্রতিফলন করে?
 - শিক্ষার্থীরা AI সমালোচনামূলকভাবে ব্যবহার করে AI সাক্ষরতা শিখতে পারেন, কেবল AI সম্পর্কে শিখেই নয়। হাতে-কলমে, সমালোচনামূলক ব্যবহার কীভাবে এমন বোঝাপড়া গড়ে তুলতে পারে যা নিষ্ক্রিয় শিক্ষাদান পারছে না?
 
-## পরিচয়
+## ভূমিকা
 
 শিক্ষায় কৃত্রিম বুদ্ধিমত্তা হলো সেই ছাতা যা অন্য সব ধারণার পাতাগুলো একসঙ্গে সংজ্ঞায়িত করে। জ্ঞানভিত্তি ক্ষেত্রটিকে নিচের প্রধান ধারাগুলিতে সাজায়, প্রতিটি প্রাসঙ্গিক ধারণার পাতাগুলোর সঙ্গে সংযুক্ত।
 
@@ -60,7 +65,7 @@ ai_assist:
 - **[[pedagogy|পেডাগজি ও শিক্ষাদান কৌশল]]** — কীভাবে শিক্ষাদান হয় তার ছাতা: যে শিক্ষাদান পদ্ধতি ও কৌশলগুলোর মধ্যে AI কাজ করে ([[active-learning|সক্রিয়]], [[collaborative-learning|সহযোগিতামূলক]], [[project-based-learning|প্রকল্পভিত্তিক]], [[problem-based-learning|সমস্যা-ভিত্তিক]], [[experiential-learning|অভিজ্ঞতামূলক]], [[game-based-learning|গেম-ভিত্তিক]], [[socratic-method|সক্রেটিক]], [[scaffolding|স্ক্যাফোল্ডিং]], এবং আরও), সাথে [[online-teaching-and-learning|অনলাইন শিক্ষাদান ও শিখন]]র স্বতন্ত্র প্রসঙ্গও অন্তর্ভুক্ত।
 - **[[learning-theories|শিখনের তত্ত্ব]]** — কীভাবে শিখন হয় তার ছাতা: যে তাত্ত্বিক কাঠামোগুলো ([[behaviorism|বিহেভিয়োরিজম]], [[cognitive-psychology|সংজ্ঞানবাদ]], [[constructivist|কনস্ট্রাকটিভিজম]], [[sociocultural-learning|সামাজিক-সাংস্কৃতিক]], সংজ্ঞানাত্মক, [[motivation|প্রেরণামূলক]]) AI-এর নকশা ও মূল্যায়নকে রূপ দেয়।
 - **[[ai-technologies|প্রযুক্তি]]** — প্রযুক্তিগত স্তরের ছাতা: যে AI সিস্টেমগুলো ([[llm|LLM]], [[generative-ai|জেনারেটিভ AI]], [[multimodal|মাল্টিমোডাল]], [[educational-robotics|রোবোটিক্স]]) এবং কৌশলগুলো ([[rag|RAG]], [[prompt-engineering|প্রম্পট ইঞ্জিনিয়ারিং]], [[reinforcement-learning|রিইনফোর্সমেন্ট লার্নিং]], [[llm-training-and-fine-tuning|মডেল প্রশিক্ষণ]], [[agentic-ai|এজেন্টিক অর্কেস্ট্রেশন]]) AIED-কে চালিত করে। শিক্ষার্থী-মডেলিং পরিবার — [[knowledge-tracing|নলেজ ট্রেসিং]], [[cognitive-diagnosis|সংজ্ঞানাত্মক নির্ণয়]], [[simulating-students|শিক্ষার্থী সিমুলেশন]], এবং সেইগুলো গ্রহণকারী সিস্টেমগুলো ([[intelligent-tutoring|ইন্টেলিজেন্ট টিউটরিং]], [[adaptive-learning|অ্যাডাপটিভ লার্নিং]], [[personalized-learning|পার্সোনালাইজড লার্নিং]]) — এই প্রযুক্তিগত ধারের মধ্যে [[student-modeling|লার্নার মডেলিং ও অ্যাডাপটিভ ইনস্ট্রাকশন]] ছাতার অধীনে গোষ্ঠীভুক্ত।
-- **[[discipline-specific-aied|বিষয়বস্তুতে AI]]** — AI কীভাবে বিভিন্ন বিষয়ের ক্ষেত্রে প্রয়োগ হয় তার ছাতা ([[math-education|গণিত]], [[physics-education|পদার্থবিদ্যা]], [[language-learning|ভাষা শিখন]], [[cs-education|কম্পিউটার বিজ্ঞান]], [[writing-education|লেখন]], [[stem-education|STEM]], [[engineering-education|প্রকৌশল]], [[business-education|ব্যবসা]], [[teacher-education|শিক্ষক প্রশিক্ষণ]], [[medical-education|স্বাস্থ্য পেশা]], এবং আরও) — এবং, একাডেমিক বিষয়গুলো পার হয়ে, পেশাদার ও প্রয়োগমূলক ধারা যা প্রদর্শিত অভ্যাস মূল্যায়ন করে সঠিকতা নয় ([[nursing-education|নার্সিং]], [[information-technology|তথ্য প্রযুক্তি]], [[vocational-education|বৃত্তিমূলক শিক্ষা ও প্রশিক্ষণ]], [[design-education|নকশা শিক্ষা]]) — এবং শিক্ষার স্তর ([[k-12|K-12]], [[higher-ed|উচ্চ শিক্ষা]], [[adult-learning|প্রাপ্তবয়স্ক শিখন]])।
+- **[[discipline-specific-aied|বিষয়বস্তুতে AI]]** — AI কীভাবে বিভিন্ন বিষয়ের ক্ষেত্রে প্রয়োগ হয় তার ছাতা, চারটি গুচ্ছে সাজানো। [[humanities-education|মানবিক ও শিল্প]] ইতিহাস, দর্শন, সাহিত্য ও ভাষা নিয়ে, পাশে [[arts-and-media-education|শিল্প ও মিডিয়া]] এবং [[music-education|সঙ্গীত]]। [[social-sciences-education|সামাজিক বিজ্ঞান]] নাগরিক শিক্ষা, ব্যবসা ও অর্থনীতি এবং পরিবেশ অধ্যয়ন নিয়ে। [[stem-education|STEM]] গণিত, পদার্থবিদ্যা, রসায়ন, জীববিদ্যা, কম্পিউটিং ও প্রকৌশল নিয়ে। [[professions-education|পেশা]] স্বীকৃত কর্মসূচিগুলো নিয়ে — [[medical-education|চিকিৎসা ও স্বাস্থ্য পেশা]], [[nursing-education|নার্সিং]], [[legal-education|আইন শিক্ষা]], [[teacher-education|শিক্ষক প্রশিক্ষণ]], [[design-education|নকশা শিক্ষা]] এবং [[libraries|গ্রন্থাগার ও তথ্য বিজ্ঞান]] — যেখানে মূল্যায়নকে দেখাতে হয় যে প্রত্যয়িত রায়টি প্রার্থীর নিজের ছিল। এই গুচ্ছগুলো বিষয়ের পাশাপাশি বিদ্যালয়-স্তর জুড়েও প্রযোজ্য।
 - **[[assessment|মূল্যায়ন]]** ([[formative-assessment|গঠনমূলক]], [[summative-assessment|সারসংক্ষেপমূলক]], [[authentic-assessment|বাস্তবসম্মত]], [[oral-assessment|মৌখিক]], এবং [[automated-assessment|স্বয়ংক্রিয়]] ধারাসহ) — কীভাবে AI শিক্ষার্থীদের মূল্যায়ন করে এবং মূল্যায়নের বৈধতা ও নিষ্ঠাকে নতুন রূপ দেয় তার ছাতা।
 - **[[feedback|ফিডব্যাক]]** — ফিডব্যাক কীভাবে তৈরি, পরিবহিত ও ব্যবহৃত হয় তার ছাতা: ফিডব্যাক লুপ, [[ai-feedback-quality|ফিডব্যাকের মান]], [[feedback-literacy|ফিডব্যাক সাক্ষরতা]], এবং তার মূল্যায়ন প্রসঙ্গ ([[formative-assessment|গঠনমূলক]], [[peer-assessment|সহপাঠী]], [[automated-assessment|স্বয়ংক্রিয়]])।
 - **[[stakeholders|শিক্ষায় AI-এর অংশীদার]]** — কারা কর্তারা তার ছাতা: শিক্ষার্থী, [[teacher-role|শিক্ষক]], [[learning-design|লার্নিং ডিজাইনার]], [[administrator|প্রশাসক]], এবং [[educational-policy-ai|নীতিনির্ধারণকারী]]।
@@ -87,8 +92,8 @@ ai_assist:
 AI কীভাবে শিক্ষাদান ও শিখনকে সমর্থন করে তা ক্ষেত্রের কেন্দ্রবিন্দু। মূল ধারণাগুলোর মধ্যে রয়েছে:
 
 - **মূল পেডাগজি:** [[pedagogy|পেডাগজি ও শিক্ষাদান কৌশল]] — জ্ঞানভিত্তির শিক্ষাদান-পদ্ধতি ব্যাপ্তির ছাতা — সঙ্গে [[pedagogical-patterns|পেডাগজিক্যাল প্যাটার্ন]] (যে পরীক্ষিত ক্রমগুলোর মধ্যে সেই পদ্ধতিগুলো রূপ নেয়), [[active-learning|সক্রিয় শিখন]], [[collaborative-learning|সহযোগিতামূলক শিখন]], [[group-work|দলগত কাজ]], [[project-based-learning|প্রকল্পভিত্তিক শিখন]], [[problem-based-learning|সমস্যা-ভিত্তিক শিখন]], [[productive-failure|উৎপাদনশীল ব্যর্থতা]], [[inquiry-based-learning|অনুসন্ধান-ভিত্তিক শিখন]], [[experiential-learning|অভিজ্ঞতামূলক শিখন]], [[game-based-learning|গেম-ভিত্তিক শিখন]], [[learning-by-teaching|শিখিয়ে শিখন]], [[scaffolding|স্ক্যাফোল্ডিং]], [[socratic-method|সক্রেটিক পদ্ধতি]], [[critical-pedagogy|সমালোচনামূলক পেডাগজি]], [[pedagogical-partnerships|পেডাগজিক্যাল পার্টনারশিপ]], [[storytelling-in-education|গল্প বলা]], [[learning-design|লার্নিং ডিজাইন]], [[online-teaching-and-learning|অনলাইন শিক্ষাদান ও শিখন]], এবং [[video-education|শিক্ষায় ভিডিও]]।
-- **শিখনের তত্ত্ব ও প্রক্রিয়া:** [[learning-theories|শিখনের তত্ত্ব]]র ছাতা ([[behaviorism|বিহেভিয়োরিজম]], [[cognitive-psychology|সংজ্ঞানবাদ]], [[constructivist|কনস্ট্রাকটিভিজম]], [[sociocultural-learning|সামাজিক-সাংস্কৃতিক]], [[distributed-cognition|বিতরণকৃত সংজ্ঞানা]], [[situated-learning|পরিস্থিতিশীল শিখন]], [[embodied-learning|দেহাবিষ্ট শিখন]], [[community-of-inquiry|অনুসন্ধান সম্প্রদায়]]) শিক্ষার্থী-মুখী প্রক্রিয়াগুলোর — [[self-regulated-learning|স্ব-নিয়ন্ত্রিত শিখন]], [[self-determination-theory|স্ব-নির্ণয় তত্ত্ব]], [[motivation|প্রেরণা]], [[self-efficacy|স্ব-দক্ষতা]], [[self-directed-learning|স্ব-নির্দেশিত শিখন]], [[metacognition|মেটাকগনিশন]], [[desirable-difficulties|কাঙ্ক্ষিত কঠিনতা]], [[transfer-of-learning|শিখনের স্থানান্তর]], [[prior-knowledge|পূর্ব-জ্ঞান]], [[icap-framework|ICAP সংজ্ঞানাত্মক সম্পৃক্ততা]], [[reflection|প্রতিফলন]], [[refutation-text|খণ্ডন পাঠ্য]], [[retrieval-spacing-interleaving|স্মৃতিনির্দেশ, বিরতি ও ইন্টারলিভিং]], এবং [[activity-theory-aied|ক্রিয়াকলাপ তত্ত্ব]] — পাশাপাশি অবস্থিত।
-- **শিক্ষার্থীর সম্পৃক্ততা ও অভিজ্ঞতা:** [[student-engagement|শিক্ষার্থী সম্পৃক্ততা]], [[help-seeking|সাহায্য-সন্ধান]], [[social-emotional-learning|সামাজিক-আবেগীয় শিখন]], [[well-being|মঙ্গল]], [[creativity|সৃষ্টিশীলতা]], [[problem-solving|সমস্যা সমাধান]], [[mastery-learning|দক্ষতা অর্জনের শিখন]], এবং [[student-ai-interaction|শিক্ষার্থী–AI মিথস্ক্রিয়া]] রূপ দেয় শিক্ষার্থীরা প্রকৃতপক্ষে AI-কে কীভাবে সম্মুখীন হয় এবং প্রভাবিত হয়, আর AI ব্যবহারকে ঘিরে যে [[social-norms-ai-use|সামাজিক নিয়মগুলো স্থির হয়]] তারা ঠিক করে তার কোনো অংশ কতটা মুক্তভাবে আলোচনা করা যায়। পাঠ্যক্রমের বাইরে, [[student-support-and-success|শিক্ষার্থী সহায়তা ও সাফল্য]] প্রাতিষ্ঠানিক-পক্ষের কাজকে অন্তর্ভুক্ত করে — পরামর্শ, আউটরিচ, রেফারেল, এবং দুর্লভ সহায়তার বণ্টন — যেখানে AI নির্ভরযোগ্যভাবে কাজ সম্পন্ন করা এগিয়ে নেয় কিন্তু স্থায়িত্ব বা স্নাতক নয়।
+- **শিখনের তত্ত্ব ও প্রক্রিয়া:** [[learning-theories|শিখনের তত্ত্ব]]র ছাতা ([[behaviorism|বিহেভিয়োরিজম]], [[cognitive-psychology|সংজ্ঞানবাদ]], [[constructivist|কনস্ট্রাকটিভিজম]], [[sociocultural-learning|সামাজিক-সাংস্কৃতিক]], [[distributed-cognition|বিতরণকৃত সংজ্ঞানা]], [[situated-learning|পরিস্থিতিশীল শিখন]], [[embodied-learning|দেহাবিষ্ট শিখন]], [[community-of-inquiry|অনুসন্ধান সম্প্রদায়]]) শিক্ষার্থী-মুখী প্রক্রিয়াগুলোর — [[self-regulated-learning|স্ব-নিয়ন্ত্রিত শিখন]], [[self-determination-theory|স্ব-নির্ণয় তত্ত্ব]], [[motivation|প্রেরণা]], [[self-efficacy|স্ব-দক্ষতা]], [[self-directed-learning|স্ব-নির্দেশিত শিখন]], [[metacognition|মেটাকগনিশন]], [[desirable-difficulties|কাঙ্ক্ষিত কঠিনতা]], [[transfer-of-learning|শিখনের স্থানান্তর]], [[prior-knowledge|পূর্ব-জ্ঞান]], [[icap-framework|ICAP সংজ্ঞানাত্মক সম্পৃক্ততা]], [[reflection|প্রতিফলন]], [[refutation-text|খণ্ডন পাঠ্য]], [[retrieval-spacing-interleaving|স্মৃতিনির্দেশ, বিরতি ও ইন্টারলিভিং]], এবং [[activity-theory-aied|ক্রিয়াকলাপ তত্ত্ব]] — পাশাপাশি অবস্থিত। বিকাশমূলক কাঠামো এগুলোকে ছেদ করে: [[developmental-psychology|বিকাশমূলক মনোবিজ্ঞান]] ব্যাখ্যা করে কেন একই প্রক্রিয়া পাঁচ, পনেরো ও পঁচিশ বছরে আলাদা দেখায়।
+- **শিক্ষার্থীর সম্পৃক্ততা ও অভিজ্ঞতা:** [[student-engagement|শিক্ষার্থী সম্পৃক্ততা]], [[help-seeking|সাহায্য-সন্ধান]], [[social-emotional-learning|সামাজিক-আবেগীয় শিখন]], [[well-being|মঙ্গল]], [[creativity|সৃষ্টিশীলতা]], [[problem-solving|সমস্যা সমাধান]], [[mastery-learning|দক্ষতা অর্জনের শিখন]], এবং [[student-ai-interaction|শিক্ষার্থী–AI মিথস্ক্রিয়া]] রূপ দেয় শিক্ষার্থীরা প্রকৃতপক্ষে AI-কে কীভাবে সম্মুখীন হয় এবং প্রভাবিত হয়, যেখানে [[empathy|সহানুভূতি]] হলো সেই আবেগীয় ফল যা প্রায়ই দাবি করা হয়, বিরলভাবে মাপা হয়, আর AI ব্যবহারকে ঘিরে যে [[social-norms-ai-use|সামাজিক নিয়মগুলো স্থির হয়]] তারা ঠিক করে তার কোনো অংশ কতটা মুক্তভাবে আলোচনা করা যায়। পাঠ্যক্রমের বাইরে, [[student-support-and-success|শিক্ষার্থী সহায়তা ও সাফল্য]] প্রাতিষ্ঠানিক-পক্ষের কাজকে অন্তর্ভুক্ত করে — পরামর্শ, আউটরিচ, রেফারেল, এবং দুর্লভ সহায়তার বণ্টন — যেখানে AI নির্ভরযোগ্যভাবে কাজ সম্পন্ন করা এগিয়ে নেয় কিন্তু স্থায়িত্ব বা স্নাতক নয়।
 
 ## প্রযুক্তি ও কৌশল
 
@@ -103,11 +108,24 @@ AI কীভাবে শিক্ষাদান ও শিখনকে সম�
 
 AI বিষয়বস্তু ও শিক্ষার স্তর জুড়ে প্রয়োগ হয়। জ্ঞানভিত্তির [[discipline-specific-aied|বিষয়ভিত্তিক AIEd-এর সংক্ষিপ্ত বিবরণ]] বিষয়-ক্ষেত্রের ব্যাপ্তি ম্যাপ করে — [[learning-sciences|শিক্ষা বিজ্ঞান]]সহ, যা একটি শিক্ষণীয় বিষয় নয় বরং সেই আড়ালপর্বের গবেষণার ক্ষেত্র যা শিখন নিজেই অধ্যয়ন করে এবং বিষয়বস্তুকে অন্য ভেরিয়েবলগুলোর মধ্যে একটি ভেরিয়েবল হিসেবে গ্রহণ করে:
 
-- **বিষয়ের ক্ষেত্র:** [[math-education|গণিত]], [[statistics-and-data-science-education|পরিসংখ্যান ও তথ্য বিজ্ঞান]], [[physics-education|পদার্থবিদ্যা]], [[chemistry-education|রসায়ন]], [[biology-education|জীববিদ্যা]], [[cs-education|কম্পিউটার বিজ্ঞান]], [[engineering-education|প্রকৌশল]], [[stem-education|STEM]], [[writing-education|লেখন]], [[reading-education|পঠন শিক্ষা]], [[language-learning|ভাষা শিখন]], [[english-education|ইংরেজি শিক্ষা (EAP/EFL/ESL)]], [[libraries|গ্রন্থাগার ও তথ্য বিজ্ঞান]], [[science-education|বিজ্ঞান শিক্ষা]], [[environmental-education|পরিবেশ শিক্ষা]], [[business-education|ব্যবসা, অর্থনীতি এবং ব্যবস্থাপনা]], [[humanities-education|মানবিক ও সামাজিক বিজ্ঞান]], [[civic-and-political-education|নাগরিক ও রাজনৈতিক শিক্ষা]], [[arts-and-media-education|শিল্প, নকশা ও মিডিয়া শিক্ষা]], [[medical-education|চিকিৎসা ও স্বাস্থ্য পেশা]], [[legal-education|আইন শিক্ষা]], এবং পেশাদার ও প্রয়োগমূলক ধারাগুলো — [[nursing-education|নার্সিং]], [[information-technology|তথ্য প্রযুক্তি]], [[vocational-education|বৃত্তিমূলক শিক্ষা ও প্রশিক্ষণ]], এবং [[design-education|নকশা শিক্ষা]]।
+- **মানবিক ও শিল্প:** [[humanities-education|মানবিক শিক্ষা]], [[arts-and-media-education|শিল্প ও মিডিয়া শিক্ষা]], [[music-education|সঙ্গীত শিক্ষা]], [[writing-education|লেখন শিক্ষা]], [[reading-education|পঠন শিক্ষা]], [[language-learning|ভাষা শিখন]] এবং [[english-education|ইংরেজি শিক্ষা (EAP/EFL/ESL)]]।
+- **সামাজিক বিজ্ঞান:** [[social-sciences-education|সামাজিক বিজ্ঞান শিক্ষা]], [[civic-and-political-education|নাগরিক ও রাজনৈতিক শিক্ষা]], [[business-education|ব্যবসা, অর্থনীতি এবং ব্যবস্থাপনা]] এবং [[environmental-education|পরিবেশ শিক্ষা]]।
+- **STEM:** [[stem-education|STEM শিক্ষা]], [[science-education|বিজ্ঞান শিক্ষা]], [[math-education|গণিত]], [[statistics-and-data-science-education|পরিসংখ্যান ও তথ্য বিজ্ঞান]], [[physics-education|পদার্থবিদ্যা]], [[chemistry-education|রসায়ন]], [[biology-education|জীববিদ্যা]], [[cs-education|কম্পিউটার বিজ্ঞান]], [[engineering-education|প্রকৌশল]] এবং [[information-technology|তথ্য প্রযুক্তি]]।
+- **পেশা:** [[professions-education|পেশা শিক্ষা]], [[medical-education|চিকিৎসা ও স্বাস্থ্য পেশা]], [[nursing-education|নার্সিং]], [[legal-education|আইন শিক্ষা]], [[teacher-education|শিক্ষক প্রশিক্ষণ]], [[design-education|নকশা শিক্ষা]] এবং [[libraries|গ্রন্থাগার ও তথ্য বিজ্ঞান]]।
+
+কোন বিষয় কোন গুচ্ছে পড়ে তা ঠিক করে তার প্রমাণ কোন পাতার। [[vocational-education|বৃত্তিমূলক শিক্ষা ও প্রশিক্ষণ]] এখানে নয়, স্তরের অধীনে রাখা হয়েছে, কারণ এটি বিষয়ের চেয়ে বেশি একটি যোগ্যতা-পথের নাম বলে।
 
 ## স্তর ও প্রসঙ্গ
 
-একই AI সরঞ্জাম সম্পূর্ণ ভিন্ন পরিবেশের সম্মুখীন হয়, এবং জ্ঞানভিত্তি শিক্ষার স্তরকে পেডাগজি থেকে আলাদা রাখে যাতে গবেষণাফল নির্জনে ধারা বদলে না যায়: [[k-12|K-12 বিদ্যালয়]], [[early-childhood-elementary-ai-education|প্রারম্ভিক শিশুকাল ও প্রাথমিক শিক্ষা]], [[higher-ed|উচ্চ শিক্ষা]], [[adult-learning|প্রাপ্তবয়স্ক শিখন]], [[vocational-education|বৃত্তিমূলক শিক্ষা ও প্রশিক্ষণ]], [[special-education|বিশেষ শিক্ষা]], এবং [[teacher-education|শিক্ষক প্রশিক্ষণ]]। স্তর ছেদকারী ডোমেইন-সংলগ্ন ধারণার মধ্যে রয়েছে [[universal-design-for-learning|সার্বজনীন ডিজাইন ফর লার্নিং]], [[neurodiversity|নিউরোডাইভার্সিটি]], [[multilingual-learning|বহুভাষিক শিখন]], এবং [[social-emotional-learning|সামাজিক-আবেগীয় শিখন]]।
+একই AI সরঞ্জাম সম্পূর্ণ ভিন্ন পরিবেশের সম্মুখীন হয়, এবং জ্ঞানভিত্তি শিক্ষার স্তরকে পেডাগজি থেকে আলাদা রাখে যাতে গবেষণাফল নির্জনে ধারা বদলে না যায়: [[k-12|K-12 বিদ্যালয়]], যা এখন [[early-childhood-elementary-ai-education|প্রারম্ভিক শিশুকাল]], [[primary-education|প্রাথমিক শিক্ষা]] ও [[secondary-education|মাধ্যমিক শিক্ষায়]] ভাগ হয়; [[higher-ed|উচ্চ শিক্ষা]], যা [[undergraduate-education|স্নাতক]] ও [[graduate-education|স্নাতকোত্তর]] পড়াশোনায় ভাগ হয়; এবং সেই সিঁড়ির বাইরের পরিবেশ — [[adult-learning|প্রাপ্তবয়স্ক শিখন]], [[vocational-education|বৃত্তিমূলক শিক্ষা ও প্রশিক্ষণ]], [[special-education|বিশেষ শিক্ষা]], এবং [[teacher-education|শিক্ষক প্রশিক্ষণ]]। [[education-levels|শিক্ষার স্তরগুলো]] এদের তুলনা করে। স্তর ছেদকারী ডোমেইন-সংলগ্ন ধারণার মধ্যে রয়েছে [[universal-design-for-learning|সার্বজনীন ডিজাইন ফর লার্নিং]], [[neurodiversity|নিউরোডাইভার্সিটি]], [[multilingual-learning|বহুভাষিক শিখন]], এবং [[social-emotional-learning|সামাজিক-আবেগীয় শিখন]]।
+
+## একই সরঞ্জাম, বিপরীত নকশা-সিদ্ধান্ত
+
+স্তরই সেই চলক যা একটি নকশা-সুপারিশকে সবচেয়ে পরিচ্ছন্নভাবে উল্টে দেয়। মাধ্যমিক-স্তরের প্রমাণ শিক্ষককে শিক্ষার্থী ও সরঞ্জামের মাঝে বসায়: 33টি গবেষণা জুড়ে লাভ এসেছে যেখানে শিক্ষার্থীরা আউটপুট তুলনা করেছে, আর মিলিয়ে গেছে যেখানে সরঞ্জামই কাজটি তৈরি করেছে ([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca প্রমুখ (2026)]])।
+
+স্নাতকোত্তর-স্তরের প্রমাণ উল্টো দিকে, জবাবদিহিযুক্ত মানুষের সঙ্গে অংশীদারিত্বের দিকে ইঙ্গিত করে। প্রস্তুতি-সহায়করা গবেষণা-[[self-efficacy|স্ব-কার্যকারিতায়]] পৌঁছেছেন তত্ত্বাবধায়কের সহায়তার মাধ্যমে (β = 0.201 পরোক্ষ), সরঞ্জাম-ব্যবহারের মাধ্যমে নয় ([[luo-ai-readiness-graduate-research-self-efficacy-2026|Luo প্রমুখ (2026)]])। একটি ডক্টরাল পর্যালোচনা নীতিশাস্ত্র থেকে একই নকশা-সিদ্ধান্তে পৌঁছায়: বৈধতা সরঞ্জাম নয়, কাজের উপর নির্ভর করে; ঘোষণা বৌদ্ধিক গুরুত্বের অনুপাতে; এবং শাসন মাইলফলকে পুনরালোচিত হয় ([[guanilo-pareja-genai-doctoral-supervision-2026|Guanilo Pareja প্রমুখ (2026)]])।
+
+যা বদলায় না তা হলো, বিচারবোধ একজন মানুষের হাতে থাকে। একটি স্নাতকোত্তর সেমিনারের শিক্ষার্থীরা কেবল একজন জ্ঞানী প্রবেশ-রক্ষক তা যাচাই করার পরেই এআই-আউটপুট গ্রহণ করেছেন, যা Chen পড়েন হস্তান্তরিত নয়, প্রতিনিধিত্বকৃত এজেন্সি হিসেবে ([[chen-genai-self-directed-learning-graduate-seminar-2026|Chen (2026)]])। কম্পাঙ্ক ভুল আন্তঃস্তর মাপকাঠি: নীতিশাস্ত্র ও স্ব-নিয়ন্ত্রণ মডেলে ঢোকার পর তা স্নাতকোত্তর সক্ষমতা পূর্বানুমান করে β = 0.030-এ ([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova প্রমুখ (2026)]])।
 
 ## মূল্যায়ন ও পরিমাপ
 
@@ -120,7 +138,7 @@ AI রূপ দেয় — আমরা কীভাবে শিক্ষা
 
 আমরা কীভাবে জানি AI কাজ করে কি না তা নিজেই একটি ধারা, এবং জ্ঞানভিত্তি তাকে সেইরকমই আচরণ করে:
 
-- **গবেষণা পদ্ধতি:** ছাতা হিসেবে [[research-methods-aied|AIED-এ গবেষণা পদ্ধতি]], সঙ্গে [[qualitative-research|গুণগত]], [[quantitative-research|পরিমাণগত]], [[mixed-methods-research|মিশ্র-পদ্ধতির]], [[design-based-research|ডিজাইন-ভিত্তিক]], এবং [[usability-research|ব্যবহারযোগ্যতা]] প্রচেষ্টা, প্লাস [[rct|র‍্যান্ডমাইজড কন্ট্রোলড ট্রায়াল]], [[meta-analysis-systematic-review|মেটা-অ্যানালাইসিস ও সিস্টেম্যাটিক রিভিউ]], এবং [[network-analysis|নেটওয়ার্ক অ্যানালাইসিস]]।
+- **গবেষণা পদ্ধতি:** ছাতা হিসেবে [[research-methods-aied|AIED-এ গবেষণা পদ্ধতি]], সঙ্গে [[qualitative-research|গুণগত]], [[quantitative-research|পরিমাণগত]], [[mixed-methods-research|মিশ্র-পদ্ধতির]], [[design-based-research|ডিজাইন-ভিত্তিক]], এবং [[usability-research|ব্যবহারযোগ্যতা]] ও [[longitudinal-research|অনুদৈর্ঘ্য]] প্রচেষ্টা, প্লাস [[rct|র‍্যান্ডমাইজড কন্ট্রোলড ট্রায়াল]], [[meta-analysis-systematic-review|মেটা-অ্যানালাইসিস ও সিস্টেম্যাটিক রিভিউ]], এবং [[network-analysis|নেটওয়ার্ক অ্যানালাইসিস]]।
 
 ক্ষেত্রের নিজের গবেষণাকর্ম এখন নিজেই একটি বিষয়। [[ai-assisted-educational-research|AI-সহায়তাপ্রাপ্ত শিক্ষামূলক গবেষণা]] সাহিত্য সন্ধান, স্ক্রিনিং, গুণগত কোডিং, বিশ্লেষণ এবং লেখায় যন্ত্র হিসেবে ব্যবহৃত AI অন্তর্ভুক্ত করে, যার মধ্যে শিক্ষণ ও শিখনের বৃত্তিয়তার মতো অনুশীলনকারী গবেষণাও রয়েছে। এটি শিক্ষার্থীদের উপর AI-এর প্রভাব অধ্যয়নের ব্যবহৃত নকশা থেকে স্বতন্ত্র থাকে।
 
@@ -201,6 +219,10 @@ AI রূপ দেয় — আমরা কীভাবে শিক্ষা
 - [[governance]] — ছাতা: প্রাতিষ্ঠানিক ও নিয়ন্ত্রক স্তর
 - [[educational-policy-ai]] — ছাতা: নীতি, নির্দেশনা এবং বাস্তবায়ন
 - [[equity-in-ai-education]] — ছাতা: ন্যায়বিচার, প্রবেশাধিকার এবং অন্তর্ভুক্তি
+- [[primary-education]] — প্রাথমিক শিক্ষায় এআই
+- [[secondary-education]] — মাধ্যমিক ও উচ্চ বিদ্যালয়ে এআই
+- [[undergraduate-education]] — স্নাতক-স্তরের পড়াশোনায় এআই
+- [[graduate-education]] — স্নাতকোত্তর ও ডক্টরাল পড়াশোনায় এআই
 - [[learning-sciences]] — AIED-এর পেছনের অন্বেষণমূলক ক্ষেত্র
 - [[ethics]] — শিক্ষায় কৃত্রিম বুদ্ধিমত্তার নৈতিক মাত্রা
 - [[misconceptions]] — মানুষের AI সম্পর্কে আনীত মানসিক মডেল
@@ -223,5 +245,10 @@ AI রূপ দেয় — আমরা কীভাবে শিক্ষা
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — চার দশকে AI-ও-শিক্ষা গবেষণার বিবর্তন (AIxEd কাঠামো)
 - [[mishra-control-vs-agency-history-2025]] — নিয়ন্ত্রণ বনাম এজেন্সি: শিক্ষায় কৃত্রিম বুদ্ধিমত্তার একটি ইতিহাস
 - [[genai-higher-education-systematic-review-2026]] — উচ্চ শিক্ষায় জেনারেটিভ AI: 125 গবেষণার সিস্টেম্যাটিক রিভিউ
-- [[stanford-evidence-base-ai-k12-2026]] — K-12-তে AI প্রমাণভিত্তি: 818 প্রবন্ধের একটি রিভিউ
+- [[stanford-evidence-base-ai-k12-2026]] — K-12-তে AI-এর প্রমাণভিত্তি: 1,686টি ভাণ্ডার-প্রবন্ধ থেকে নেওয়া 52টি জোরালো কারণগত গবেষণা (নভেম্বর 2026 হালনাগাদ)
 - [[genai-educational-outcomes-meta-analysis]] — জেনারেটিভ AI ও শিক্ষাগত ফলাফল: বিস্তৃত মেটা-অ্যানালাইসিস
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33টি মাধ্যমিক-স্তরের গবেষণা: লাভ আসে যেখানে শিক্ষার্থীরা আউটপুট তুলনা করে
+- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 জন স্নাতকোত্তর: তত্ত্বাবধায়কের সহায়তার মধ্য দিয়ে প্রস্তুতি স্ব-কার্যকারিতায় পৌঁছায়
+- [[guanilo-pareja-genai-doctoral-supervision-2026]] — ডক্টরাল তত্ত্বাবধানের নীতি, প্রতিক্রিয়া ও শাসন নিয়ে 61টি উৎসের পর্যালোচনা
+- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — একক-দলীয় স্নাতকোত্তর সেমিনার: জ্ঞানী প্রবেশ-রক্ষকের যাচাইয়ের পরেই এআই-আউটপুট গ্রহণ
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 শিক্ষার্থী: নীতিশাস্ত্র ও স্ব-নিয়ন্ত্রণে স্নাতক–স্নাতকোত্তর ফাঁক

@@ -1,7 +1,7 @@
 ---
 title: "Tévhitek a MI-ről"
 created: "2026-11-12T03:59:53-05:00"
-updated: "2026-11-12T03:59:53-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -10,14 +10,18 @@ ethics: [trust-calibration]
 audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
-translation_of: concepts/misconceptions
-source_updated: "2026-11-04T12:05:00-05:00"
+translation_of: "concepts/misconceptions"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Ennek az angol oldalnak a gépi fordítása, amelyet még nem ellenőrzött anyanyelvi beszélő.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -38,11 +42,11 @@ ai_assist:
 
 A MI-vel kapcsolatos tévhitek azért számítanak, mert ezek a kognitív előzményei azoknak az ártalmas viselkedéseknek, amelyeket a tudásbázis a [[cognitive-offloading|túlzott támaszkodás]] és az [[academic-integrity|akadémiai integritás]] problémái alatt dokumentál. Az emberek ritkán indulnak el azzal a szándékkal, hogy [[ai-misuse-learning-harm|visszaéljenek]] a MI-vel; azért teszik, mert pontatlan mentális modelljeik rossz helyre teszik a bizalmukat, kihagyják az ellenőrzést, és a kimenetet megértésnek tekintik. Az oktatásban ezek a hibák mindent alakítanak, a diákok tanulási módjától kezdve addig, ahogy a tanárok és az intézmények a tantervet, az [[assessment|értékelést]] és a szakpolitikát tervezik.
 
-### Mik az MI-tévhitek
+## Mik az MI-tévhitek
 
 Egy tévhit itt nem pusztán tudatlanság arról, hogyan működik egy modell — hanem aktívan tartott, gyakran önmagát erősítő hiedelem, amely rendszeres hibákat okoz abban, ahogy a diákok a MI-vel érintkeznek. Közvetlenül analógok a [[learning-sciences|tanulástudomány]]ban vizsgált szakterületi tévhitekkel: stabilak, hihetők és a szembesítésig ellenállnak a korrekciónak. Korrekciójuk az [[ai-literacy|MI-írástudás]] és a [[trust-calibration|bizalmi kalibráció]] oktatásának központi célja.
 
-### Gyakori tévhitek akadémiai környezetben
+## Gyakori tévhitek akadémiai környezetben
 
 - **A tekintély csapdája** — az [[llm|LLM]] kimenetét ellenőrzött tényként kezelni valószínűségi kiegészítés helyett. Kritikátlan elfogadáshoz és ahhoz a mintához vezet, amelyben a válasz keresése megelőzi a megértést, amelyet az [[intelligent-tutoring|MI-tutorálás]] kutatása dokumentál: a tanulók elfogadják a modell válaszát anélkül, hogy a [[hallucination-risk|hallucinációkockázathoz]] mérnék.
 - **A független ellenőrzés illúziója** — az [[ai-feedback-quality|MI-visszajelzést]] külső korrekcióként kezelni, miközben a modell a saját gondolatmenetét tükrözi. A felhasználók kiinduló pontossága volt a végső teljesítmény domináns előrejelzője, és a [[ai-sycophancy|hízelgésre]] célzott promptolás csökkentette a pozicionális utánzást (OR = 0,26), de a hiba terjedését érintetlenül hagyta, tehát a tanulók képzése nem nyújt védelmet ([[contextual-sycophancy-ai-literacy|Koyuturk et al. (2026)]]).
@@ -57,17 +61,17 @@ Egy tévhit itt nem pusztán tudatlanság arról, hogyan működik egy modell �
 
 Az integritás szürke zónájának szerkezete van, nem csupán két véglete. Húsz diákkal készült interjú, valamint a csevegési naplóik és kurzusdokumentumaik öt különálló helyet találtak, ahol a MI-szakpolitika él, a tanári szándéktól a formális szabályzaton és a diák önszabályán át a tényleges gyakorlatig, valamint 23 különböző racionalizálást hat osztályban ([[student-rationalization-ai-writing|Kim et al., 2026]]). A racionalizálások ad hoc és utólagos jellegűek voltak, olyan használat magyarázatára álltak össze, amely már megtörtént, nem annak irányítására. A szigorú tiltás nem annyira megakadályozta a használatot, mint inkább felerősítette az erkölcsi konfliktust azokban a diákokban, akik be akartak tartani, ami a korrekció célpontját a szabályzat szintjére teszi, nem a szabály kimondására.
 
-### Intézményi és nyilvános MI-mítoszok
+## Intézményi és nyilvános MI-mítoszok
 
 A tévhitek nem korlátozódnak a diákokra — átitatják azt az intézményi és nyilvános MI-diskurzust, amelyet a diákok örökölnek. [[rudolph-ai-myths-critical-higher-ed|Rudolph et al. (2025)]] nyolc beidegződött „mítoszt” bontanak le, amelyek a felsőoktatás politikáját és oktatását alakítják: hogy a MI valóban „mesterséges” (nem pedig kizsákmányolt emberi munkaerőből épül fel), hogy valóban „intelligens” és [[agentic-ai|ügynöki]], hogy problémamentesen „jobb hellyé teszi a világot”, hogy „objektív és elfogulatlan”, hogy az Egyesült Államok egyedüli szuperhatalmi monopóliummal rendelkezik, hogy nem fogja felforgatni a munkaerőpiacot, hogy „forradalmasítja a [[higher-ed|felsőoktatást]]”, és hogy a tanárok megbízhatóan felismerik a MI-vel készült munkát. Ezek az intézményi mítoszok a fent dokumentált diáktévhitek felső forrása — legközvetlenebbül a [[trust|semlegesség illúziója]] („a MI objektív”) és a [[trust-calibration|tekintély csapdája]] („a MI intelligens”), valamint az észlelés hibás kalibrációja, amely miatt a diákok azt hiszik, hogy a fel nem ismerhető, ellenőrizhetetlen használat biztonságos. Ahol a diákok intézményesen ismételt mítoszokat szívnak magukba és cselekszenek szerintük, a korrekcióhoz nemcsak a tanuló hiedelmével, hanem az azt tápláló diskurzussal is szembe kell nézni.
 
-### Miért számítanak a tévhitek a tanulás szempontjából
+## Miért számítanak a tévhitek a tanulás szempontjából
 
 A tévhitek közvetlenül azokká a viselkedésekké fordulnak, amelyek tanulási ártalmat okoznak. Az a hiedelem, hogy „a MI-nek mindig igaza van”, elfojtja az ellenőrzést; az a hiedelem, hogy „a MI használata tanulás”, elfojtja az erőfeszítést igénylő feldolgozást; az a hiedelem, hogy „ez nem csalás”, megkerüli a megértést megszilárdító metakognitív áttekintést. Ebben az értelemben a tévhitek megelőzik a tudásbázis bizonyítékbázisában dokumentált [[ai-misuse-learning-harm|MI-visszaélésből származó ártalom]].
 
 Az a hiedelem, hogy a MI használata tanulás, nemcsak a használat előtt él; az eszköz meg is tudja termelni. [[llm-fallacy-misattribution|Kim et al.]] egy LLM-téveszmét írnak le, amelyben az átláthatatlan, gördülékeny, azonnali kimenetet a felhasználó saját kompetenciájának bizonyítékaként olvassák, így az észlelt és a tényleges képesség egy ΔC-nek nevezett különbséggel tér el. Mivel a mechanizmus a gördülékenység és az attribúciós kétértelműség, nem pedig a hiba, a téveszme fennmarad, akár pontos a modell, akár hallucinál, ami azt jelenti, hogy egy helyes MI-támogatott válasz nem bizonyíték arra, hogy a hiedelem korrigálódott.
 
-### Tévhitek a diákokon túl: tanárok, intézmények és a közönség
+## Tévhitek a diákokon túl: tanárok, intézmények és a közönség
 
 A MI-tévhitek nem korlátozódnak a tanulókra — átjárják az oktatást alakító felnőtteket:
 
@@ -79,7 +83,7 @@ Ez a szélesség az oka annak, hogy a tudásbázis a tévhiteket átfogó alapve
 
 A tanárok pedagógiai tévhitei ennek a tükörképei: nem a MI-ről szóló félreértések, hanem a tanításról szóló, bizonyítékokkal nem támogatott hiedelmek, amelyek a MI-től függetlenül fennmaradnak. [[etq-ai-conversational-teacher-training-2026|Miranda és Calvani (2026)]] ezt a Hatékony Tanítás Kérdőívvel teszik mérhetővé, ahol 50 bináris tétel [[meta-analysis-systematic-review|meta-analitikus]] hatásméretekhez (d ≥ 0,40) rendelődik, így egy tanár válasza összevethető egy bizonyítékokhoz igazított referenciával — és azt találják, hogy a tévhitek mélyek és specifikusak. Egy 123 olasz pedagógussal végzett pilotban a legélesebb egyet nem értés a tanulási stílusok állításánál volt (a tanárok 78%-a védte a vizuális/hallási párosítást), majd az inklúziónál és a [[group-work|csoportmunkánál]] (68%), valamint az oktatástechnológiai túlterhelésnél (54%); az átlagos illeszkedés 50% körül mozgott a tervezési, kognitív, értékelési és menedzsment dimenzióban. Két részlet számít a korrekció tervezésénél. Először, a tévhitek túlélik az egyetemi képzést és a tanítási gyakorlatot — a szerzők egy „internalizált józan észt” írnak le, amely „megelőzi az iskolába lépést”, és fennmarad —, tehát nem tudáshiányok, amelyeket egyetlen előadás sem szüntet meg. Másodszor, amikor egy beszélgetős MI csak a tanár saját kontextusának érvényesítése után vezette be újra ugyanezeket a tételeket, az ellenvetések 41%-a valódi kontextuális korlátokra hivatkozott — osztálylétszámokra, [[special-education|sajátos nevelési igényű]] diákokra, a [[curriculum-design|tanterv]] lefedettségére —, nem magukra a bizonyítékokra. További 5,9% „algoritmikus dogmagépnek” nevezte a rendszert: ez a határeset, ahol a normatív keretezés védekezést szül reflexió helyett. A [[teacher-ai-competency|tanári MI-kompetencia]] fejlesztése szempontjából a következtetés az, hogy a diagnózis és a párbeszéd együtt felszínre hozhatja, mely hiedelmek bizonyítékalapú egyet nem értések és melyek tévhitek — ezt a különbségtételt egyedül egy pontszám nem tudja megtenni.
 
-### A tévhitek korrigálása
+## A tévhitek korrigálása
 
 A korrekció nem egyszeri leleplezés, hanem folyamatos [[ai-literacy|MI-írástudási]] folyamat, amely a [[metacognition|metakogníciót]] és az [[self-regulated-learning|önszabályozott tanulást]] fejleszti: segít a diákoknak (és a körülöttük lévő felnőtteknek) figyelni a támaszkodásukat, kalibrálni, mikor bízzanak és mikor kérdőjelezzék meg a modellt, és meglátni a saját [[cognitive-offloading|kognitív munkájuk]] megkerülésének árát. Mivel a tévhitek ellenállók, a legjobban a bizonyítékokkal való közvetlen szembesítés útján kezelhetők — beleértve azt a felismerést, hogy a diákok gyakran *nem érzékelik* a MI-visszaélés tanulási ártalmát.
 
@@ -95,7 +99,7 @@ Bernstein és Sibia (2026) bemutatják, hogy a [[generative-ai|generatív MI]] �
 
 **A modell által generált tévhitek mérhető képesség, nem baleset.** [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] megépítették a SocraticTrap-CS-t, amely hét nyílt súlyú modellt arra késztetett, hogy „[[socratic-method|szókratészi]] csapdát” írjanak 35 alapvető számítástudományi fogalomra — olyan magyarázatot, amely gördülékeny és tekintélyt sugárzó, miközben egy finom, domainspecifikus hibán nyugszik. A 241 generált szegmensből 221-et (91,7%) szakértői többségi szavazás stratégiai tévhitként igazolt (Fleiss' κ = 0,9487), a számítástudományi területek között jelentős különbség nélkül; az igazolt hibák 66,5%-a fogalmi volt, nem ténybeli, és egyik sem volt tisztán logikai. A gördülékenység a mechanizmus, nem a védelem: a meggyőző erő átlaga 3,71 volt egy ötfokú skálán, és erősen modellfüggő, a gyakoriság és a súlyosság pedig szétvált, a leggyakrabban csapdát termelő két modellt értékelték a legmeggyőzőbbnek is. Mivel egy diák rosszul megfogalmazott kérdése maga is működhet ellenséges promptként, a szerzők az arányt ellenséges promptolás melletti képességnek tekintik, nem pedig a szokásos tanulási ülések alaparánynak — és amellett érvelnek, hogy az [[ai-literacy|MI-írástudás]] feladata eltolódik az egyes állítások tényellenőrzésétől a fogalmi ellenőrzés és a mentális modellek validálása felé. Ez a fenti generatív felhasználás sötétebb oldala: ugyanaz a képesség, amely termékeny társbeszélgetést indíthat, meg is szilárdíthat egy hibát, amelyet a tanuló már alakítgatott.
 
-### Cáfoló jellegű korrekciók a gyakori MI-tévhitekhez
+## Cáfoló jellegű korrekciók a gyakori MI-tévhitekhez
 
 Mivel a tévhiteket aktívan tartják és ellenállnak, a legközvetlenebb kezelési mód — ezen az oldalon is — a [[refutation-text|cáfoló szöveg]] szerkezete: **nevezze meg a tévhitet, cáfolja kifejezetten, és mondja ki a helyes koncepciót.** Az alábbi tételek ezt a szerkezetet alkalmazzák a MI-ről és a tanulásról, tanításról és oktatásról szóló legfontosabb tévhitekre:
 
@@ -143,6 +147,7 @@ Ezek a cáfolatok szándékosan a [[refutation-text|cáfoló szöveg]] formájá
 - [[trust]]
 
 ## Kapcsolódó cikkek
+
 - [[rudolph-ai-myths-critical-higher-ed]] — Ne higgyen a hype-nak: nyolc MI-mítosz és a kritikus megközelítés szükségessége a felsőoktatásban
 - [[student-rationalization-ai-writing]] — A diákok racionalizálása a MI-vel való írásról
 - [[genai-skill-bypass-literacy]] — A generatív MI készségmegkerülése és az írástudás

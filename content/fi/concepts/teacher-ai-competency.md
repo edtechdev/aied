@@ -12,14 +12,18 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [claw-ed, eduprompts, playlab, teacher-hive, teacherserver]
 translation_of: concepts/teacher-ai-competency
-source_updated: "2026-11-06T09:20:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-16T08:24:32-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -68,8 +72,13 @@ Valmius pitäisi järjestää ja mitata vastaavasti: Capability-Decision-malli s
 
 Vahvempi versio tuosta uudelleenkehyksestä pitää GenAI:ta kynnyskäsitteenä eikä taitokuiluna: autoetnografinen kertomus väittää, että tiedekunnan [[anxiety-and-stress|ahdistus]] ja vastarinta ovat kynnyksen ylittämisen rakennusaineita, joten taitopohjainen koulutus epäonnistuu ja periaatteellista käyttämättömyyttä pitäisi kunnioittaa eikä korjata ([[laidlaw-genai-identity-crisis-faculty-2026|Laidlaw (2026)]]).
 
-
 **Osaaminen näkyy korjauksena, ei vain kehotteistamisena.** Seitsemän yläkoulun matematiikan opettajan kirjoittaessa uudelleen 143 tehtävää [[walkington-teacher-in-loop-personalized-tasks-2026|Walkington et al. (2026)]] koodasivat 415 seurantakehotetta: useimmat korjasivat realismia, luettavuutta tai matemaattista rakennetta, ja kuusi tarttui sopimattomaan tai vinoutuneeseen tuotokseen — opettajan harkinta toimi [[human-in-the-loop-ai|valvontana]] tuotetun tehtävän yli eikä kehotteiden sujuvuutena.
+
+**Kaksi ulottuvuutta ovat sitoumuksia, ei pistemääriä.** [[feng-ai-literacy-psychological-dimensions-2026|Feng ja Carolus (2026)]] syntetisoivat 58 koulutusalan tutkimusta ja sijoittavat *kontekstuaalisen tiedon* ja *jatkuvan ammatillisen kasvun* opettajan tekoälylukutaidon kuuden ulottuvuuden joukkoon TPACK-pohjaisen tiedon ja taidon, etiikan, psykologisen ulottuvuuden ja generatiiviseen tekoälyyn keskittyvän ulottuvuuden rinnalle. Kolmetoista katsotuista artikkeleista rakentaa opettajakäsityksensä [[tpack|TPACK]]ille. Kasvun lukeminen ulottuvuutena eikä tuloksena muuttaa sitä, mitä osaamisviitekehyksen on mitattava: opettajan kehityskaaresta ja koulun rajoitteista tulee osa osaamista, ei sen ympärillä olevia ehtoja.
+
+**Osaamisen rakentaminen ei vastaa ehtymisen polkuun.** Samassa 436 yliopiston muotoiluopettajan kyselyssä [[ding-genai-colleague-teacher-depletion-2026|Ding et al. (2026)]] havaitsivat, että generatiivisen tekoälyn käyttö nosti samaan aikaan sekä opettamisen [[self-efficacy|itsetehokkuutta]] (β = 0,322) että tekoälyahdistusta (β = 0,268), ja ahdistus ennusti vähemmän innovatiivista opetusta ja enemmän työstä vetäytymistä (β = −0,152 ja β = 0,264). Ammatillisen kehittämisen ohjelma, joka rakentaa vain taitoa, jättää toisen polun koskemattomaksi - moderaattorit olivat organisatorinen tuki ja psykologisen sopimuksen rikkomus, eivät kompetenssi.
+
+Viitekehykset määrittelevät, mitä opettajan pitäisi tietää, ja vaikenevat niistä ehdoista, joissa tuota tietoa käytetään. [[ji-judgement-space-dialogic-inquiry-2027|Ji ja Mercer (2026)]] lukevat UNESCO:n opettajaviitekehyksen, OECD:n opetuksen kompassin, DigCompEdun ja BEME-katsauksen yhdeksi listojen lajityypiksi ja huomauttavat, että OECD:n vaatimus siitä, ettei tekoäly saa korvata ihmisen harkintaa, saapuu ilman selitystä siitä, mikä tekisi väitteestä toden. Kompetenssimallit, jotka lisäävät vielä yhden ulottuvuuden, sivuuttavat siksi juuri sen kuilun, jonka artikkeli nimeää.
 
 ## Osaamisen kuilu
 
@@ -81,14 +90,19 @@ Kuilu ei ole vain koetun ja todellisen taidon välillä vaan siinä, miten *laaj
 
 Kysely 132 indonesialaisopettajalle havaitsi lähes yleismaailmallisen hyväksynnän yhdessä ohuen mekanistisen ymmärryksen kanssa: 96,2 % hyväksyi opettajien tekoälyn käytön, mutta vain 4,6 % nimesi tokenisoinnin tai dekoodauksen ja 21,5 % uskoi, että ChatGPT haki tietokannasta tai internetistä ([[ai-misconceptions-indonesian-k12-teachers-2026|Aji et al. (2026)]]). Myönteinen asenne ei ole näyttöä toimivasta mielikuvasta työkalusta.
 
+- **Käyttö ja GenAI-koulutus asettavat asenteet; yleinen itseluottamus ei.** TALIS 2024 -aineistossa skandinaaviset opettajat, jotka olivat käyttäneet [[generative-ai|GenAI:ta]], saivat 0,72 SD korkeammat pisteet hyötyjen hyväksynnässä ja 0,26 SD matalammat pisteet niihin liittyvässä epävarmuudessa, GenAI-kohtainen ammatillinen kehittäminen lisäsi 0,20 SD, ja käyttäjät olivat useammin samaa mieltä myös virheellisen esittämisen huolista ([[white-scandinavian-teachers-genai-attitudes-2026|White et al., 2026]]). 425 K-12-ammattilaisen joukossa episteemisen valppauden kapasiteetti ennusti kalibroitua tekoälyvalmiutta β = ,675, kun autonominen motivaatio ei (β = ,076), ja vain 143 raportoi selkeästä kirjallisesta tekoälypolitiikasta ([[song-calibrated-ai-readiness-k12-2026|Song, 2026]]).
+
 Kuilu näkyy artefaktissa yhtä lailla kuin itsearvioinnissa. [[ai-integration-instructional-design-collaboratory-2026|Opettajankoulutuksen poikkilaitoksellinen tiedekuntakollaboratorio]], jossa opettajakouluttajat suunnittelivat tekoälyn omiin menetelmäopintojaksoihinsa, raportoi, että opettajaopiskelijat pystyivät tuottamaan hiottuja tekoälyavusteisia oppituntisuunnitelmia mutta eivät selittämään, miksi suunnitelma sopi oppijoille ja standardeille, koska suunnitelma itsessään ei kerro mitään sen taustalla olevasta päättelystä. Perustelun arvosteleminen tuotoksen sijaan on yksi vastaus. [[bondurant-shaughnessy-ai-pedagogies-practice-2026|Käytäntöjen pedagogiikka -kehys]] ehdottaa toista: harjoittelun kohtelemista käytännön approksimaationa, sillä tekoälyn välittämä harjoittelu, johon liittyi jäsennelty harjoittelunjälkeinen palaute, lisäsi opiskelijoiden koettelevien ja tutkivien kysymysten käyttöä, mutta opiskelijoiden omat arviot suoriutumisestaan poikkesivat silti siitä, mihin havainnoijat päätyivät.
 
-**Itsearvioinnin lasku koulutuksen jälkeen voi viestiä oppimisesta eikä menetyksestä.** Kuuden kuukauden [[tpack|Intelligent-TPACK]]-[[educational-development|ammatillisen kehittämisen]] ohjelmassa, jossa oli 64 Hongkongin yliopiston opettajaa 61 verrokkiopettajaa vastaan, kokonaisteoälyosaaminen nousi noin puoli keskihajontaa (Cohenin d = −,521), mutta jotkut opettajat molemmissa ryhmissä saivat jälkitestissä alemman pistemäärän kuin esitestissä ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]). Haastattelut selittivät laskut siirtymänä tiedostamattomasta tietoiseen osaamattomuuteen, mikä on Dunning-Kruger-ilmiön ennustama uudelleenkalibrointi, eikä menetettyyn taitoon. Tekijät päättelevät, että esi- ja jälkimittauksen itsearviointi aliarvioi intervention, koska osa voitosta saapuu mittarin itsensä alaspäin korjaamisena.
+Opettajakunnan tason malli viittaa siihen, että osa itsearviointisignaalista on institutionaalista eikä yksilöllistä. [[moreira-choez-explainable-ml-faculty-digital-competence-2026|Moreira-Choez et al. (2026)]] ennustivat 315 yliopisto-opettajan itsearvioitua digitaalisen kompetenssin kaistaa ja havaitsivat affiliaation suurimmaksi globaaliksi tekijäksi, ennen ikää ja tutkintoa, kun opetuskompetenssin kaistat jakautuivat 90,1 % versus 42,9 % korkealle instituutioiden välillä (χ² = 82,710, V = 0,512). Kompetenssipisteet, jotka seuraavat sitä, mikä yliopisto vastaajaa työllistää, mittaavat yhtä paljon kontekstia kuin kyvykkyyttä.
 
+**Itsearvioinnin lasku koulutuksen jälkeen voi viestiä oppimisesta eikä menetyksestä.** Kuuden kuukauden [[tpack|Intelligent-TPACK]]-[[educational-development|ammatillisen kehittämisen]] ohjelmassa, jossa oli 64 Hongkongin yliopiston opettajaa 61 verrokkiopettajaa vastaan, kokonaisteoälyosaaminen nousi noin puoli keskihajontaa (Cohenin d = −,521), mutta jotkut opettajat molemmissa ryhmissä saivat jälkitestissä alemman pistemäärän kuin esitestissä ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]). Haastattelut selittivät laskut siirtymänä tiedostamattomasta tietoiseen osaamattomuuteen, mikä on Dunning-Kruger-ilmiön ennustama uudelleenkalibrointi, eikä menetettyyn taitoon. Tekijät päättelevät, että esi- ja jälkimittauksen itsearviointi aliarvioi intervention, koska osa voitosta saapuu mittarin itsensä alaspäin korjaamisena.
 
 **Kuilu voi kääntyä putken aikana.** Jatko-opiskelijoiden [[medical-education|lääketieteen koulutuksessa]] kaksitoista lääkäriä, jotka johtavat tekoälyopetussuunnitelmatyötä, odottivat asukkaiden tulevan tekoälyn suhteen sujuvammiksi kuin moni heidän opettajistaan, ja ehdottivat yhteisoppimista ja -opetusta tiedekunnan yksisuuntaisen [[lifelong-learning|osaamisen päivittämisen]] sijaan ([[bursic-ai-residency-education-curriculum-2026|Bursic et al. (2026)]]). Samat haastattelut kuvasivat informatiikan yksiköitä, jotka eivät vielä olleet riittävän kypsiä johtamaan opetussuunnitelmatyötä, mikä paikantaa rajoitteen institutionaaliseen kapasiteettiin yhtä hyvin kuin yksilön taitoon.
 
 **Kuilu näkyy myös osallistumattomuutena.** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]] kartoittivat 1 057 yhdysvaltalaista korkeakouluopettajaa loppuvuodesta 2025 ja havaitsivat, että 26 % ei käytä [[generative-ai|generatiivisen tekoälyn]] työkaluja lainkaan, kolmannes päättää olla käyttämättä niitä opetuksessa ja käyttämättömyys keskittyy taiteisiin ja [[humanities-education|humanistisiin aloihin]] (40 %). Kuilun institutionaalinen puoli oli yksilöllistä suurempi: 68 % sanoi, etteivät heidän oppilaitoksensa olleet valmistaneet tiedekuntaa käyttämään generatiivista tekoälyä opetuksessa ja ohjauksessa, ja tiedekunta nimesi kollegoiden vastarinnan (82 %) ja tuntemattomuuden (83 %) johtaviksi esteiksi laitoksen omaksumiselle: kuva, jossa kapasiteetin rakentamisen, vertaisnormien ja politiikan on liikuttava yhdessä.
+
+Omaksuminen kulkee oman alan harkinnan kautta eikä yleisen innostuksen kautta. Neljän kiinalaisen yliopiston 14 opettajan haastatteluissa osallistujat arvioivat tekoälyn hyödylliseksi oman alansa tietovaatimusten perusteella, pitivät sitä avustavassa roolissa ja tekivät käytöstä ehdollista selkeälle tarkoitukselle ja sille, että opiskelijat ajattelevat ensin ([[xiong-teachers-ai-attitudes-chinese-higher-ed-2026|Xiong et al. (2026)]]). Heidän johdonmukaisin huolensa ei ollut oma taito vaan se, että opiskelijat luovuttavat ajatteluprosessin.
 
 **Opettajankoulutus väistää pitkälti osaamisen eettisen ulottuvuuden.** [[meta-analysis-systematic-review|Systemaattinen katsaus]] tekoälystä luokanopettajaksi koulutettavien matematiikan opettajien peruskoulutuksessa ([[pinto-ai-initial-teacher-training-mathematics-review-2026|Pinto et al. 2026]], 11 tutkimusta 341 tietueesta) havaitsi, että interventiot keskittyivät lyhyen aikavälin teknisiin ja pedagogisiin voittoihin, yhdeksän yhdestätoista oli lyhyitä interventioita, jotka kestivät yhdestä kuuteen istuntoa, ja raportoi, että etiikkaa käsiteltiin vain kolmessa yhdestätoista tutkimuksesta. Osaamiskehykset nimeävät eettisen harkinnan ulottuvuudeksi; sen rakentamiseen tarkoitettu peruskoulutuskirjallisuus harvoin opettaa tai mittaa sitä.
 
@@ -124,28 +138,38 @@ Suunnittelututkimuksellinen vastaesimerkki kohtelee osaamista tilannesidonnaisen
 
 - **Arvot laahaavat taitoja jäljessä myös alakohtaisessa ohjelmassa.** Vuoden mittaisessa Hongkongin ohjelmassa 30 englannin opettajan kanssa [[multimodal]]-arviointistrategioiden tietämys nousi 3,13:sta 4,15:een asteikolla 5 (osittainen η² = 0,571) ja osaaminen opiskelijoiden tukemisessa 3,05:stä 3,98:aan (0,482), molemmat merkitseviä, kun taas jokainen arvoalue pysyi tilastollisesti tasaisena Bonferroni-korjatulla alfalla ,006. Opettajat liittivät voitot koulun sisäiseen yhteissuunnitteluun ja koulujen välisiin klusteritapaamisiin eivätkä pelkkiin työpajoihin ([[multimodal-assessment-literacy-l2-teachers-genai-2026|Jiang et al., 2026]]).
 
+- **Tekoälysuunnitelmat ovat lähtötaso, ja välittäminen on kompetenssi.** Kaksikymmentäkuusi aloittelevaa opettajaa, jotka muokkasivat tekoälyn tuottamia oppituntisuunnitelmia, kirjoittivat tehtäviä uudelleen, lisäsivät mallintamista ja kielellistä tukea, selkiyttivät tavoitteita ja rakensivat sekvenssin uudelleen luokkahuoneen logistiikan ympärille ja kuvasivat roolinsa tarkistamiseksi ja mukauttamiseksi tuotoksen hyväksymisen sijaan ([[wilcoxen-steiner-bell-ai-lesson-planning-2026|Wilcoxen et al., 2026]]).
+
 - **Mikro-oppiminen voi kehittää yliopisto-opettajien tekoälyosaamista.** [[microlearning-ai-modules-vocational-teacher-education-2026|Cechovsky (2026)]] jalosti kahta [[vocational-education]]-moduulia kahden verkossa käydyn ryhmäkeskustelun kautta viideksi suunnitteluperiaatteeksi (selkeä rakenne ja orientaatio, ohjaus ja navigointituki, segmentointi ja modulointi, multimodaalinen esittäminen ja oppijan aktivointi) ja havaitsi alustan navigoinnin ja moduulien löytämisen tärkeimmiksi käytännön esteiksi.
 
 - **Omaksumisaikomus kulkee tarpeiden tyydytyksen kautta.** 146 opettajan rakenneyhtälömallissa kompetenssin tarpeen tyydytys ennusti aikomusta käyttää GenAI:ta [[motivation|sisäisen motivaation]] ja ammatillisen kehittämisen sitoutumisen kautta (epäsuora 0,233), kun taas autonomian ja yhteenkuuluvuuden tyydytys eivät ([[yuan-teacher-need-satisfaction-genai-2026|Yuan et al., 2026)]]).
+
+Koulutus ilman lukujärjestyksessä varattua aikaa ei tavoita opiskelijoita. iRAISE:n vuoden 2026 neljän maan katsaus esittää asian rakenteellisesti: opetussuunnitelmilla, opettajankoulutuksella ja materiaaleilla on vain rajallinen vaikutus, elleivät koulut varaa aikaa digitaalisen ja tekoälylukutaidon opettamiseen erillisillä oppitunneilla tai oppiaineiden välisillä projekteilla, mikä pakottaa päättämään, mitä olemassa olevaa sisältöä tai toimintaa vähennetään tai korvataan ([[cerioli-human-centered-ai-literacy-schools-2026|Cerioli, 2026]]). Katsaus sijoittaa koulutuksen myös palkalliseen työaikaan, alkaen opettajankoulutuksesta ja jatkuen uran läpi, eriytyen oppiaineen ja roolin mukaan - ehtoja, jotka kohtelevat kompetenssia työehtona eikä henkilökohtaisena saavutuksena. Kaikissa neljässä tapaustutkimuksessa opettajien itseluottamus eikä työkalun saatavuus ratkaisi, käytettiinkö mitään.
+## Opettajan tekoälyosaamisen mittaaminen
+
+[[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validoi TAM-pohjaisen diagnostiikkamittarin 434 työssä olevalle opettajalle. Käyttäytymisaikomus oli tärkein digitaalisen kompetenssin ennustaja GenAI:n käytölle opetussuunnitelman suunnittelussa, ja itsetehokkuus oli juuritekijä.
+
+Psykometrinen tutkimus kehitti Teachers' AI Literacy Scale (TAILS) -mittarin mittaamaan tekoälylukutaitoa [[teacher-education|kieltenopettajien koulutuksessa]] operationalisoiden ED-AI-kehyksen kuusi ulottuvuutta. Mittari vastaa aukkoon arvioinneissa, jotka on kirjoitettu opiskelijoille tai yleiskäyttäjille eikä opettajille.
+
+Mittaristoa itsessään on sittemmin arvioitu. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainalin, Mohd Matoren ja Maatin vuoden 2026 systemaattinen katsaus opettajien tekoälylukutaidon mittausvälineistä]] vertailee, mitä saatavilla olevat asteikot todella mittaavat ja missä ne erkanevat, ja se on ensimmäinen luettava ennen välineen käyttöönottoa.
+
+Mittaus olettaa, että yksilö on oikea yksikkö, ja roolien jakautuminen heikentää tätä oletusta. [[chen-future-faculty-development-ai-2027|Chen et al. (2026)]] jakavat viisi seitsemästä opettajaroolistaan opetustiimin kesken pitäen teknisen ja eettisen perusosaamisen kaikille yhteisenä, joten yksilön pistemäärä kuvaa yhden tekijän osuutta eikä sitä kyvykkyyttä, jolla kurssi todella toimii. Ohjelma, joka mittaa vain yksilöitä, lukee hyvin miehitetyn tiimin osittaisten opettajien joukkona.
 
 ## Opettajan tekoälyosaaminen ja muuttuva opettajan rooli
 
 Kun tekoäly ottaa haltuunsa rutiininomaisia opetus- ja arviointitehtäviä, opettajan erottuva panos siirtyy orkestrointiin, harkintaan ja suhteeseen: sen päättämiseen, milloin ja miten tekoälyä käytetään, [[agency|opiskelijan toimijuuden]] ja kriittisen käytön tukemiseen, tasa-arvon varmistamiseen ja sellaisen sosiaalisen ja emotionaalisen tuen tarjoamiseen, johon tekoäly ei pysty. Tämä kehystää opettajan osaamisen uudelleen [[human-in-the-loop-ai|ihmisen silmukassa tapahtuvan valvonnan]], [[ethics|eettisen harkinnan]] ja [[self-regulated-learning|itsesäädellyn oppimisen tukemisen]] ympärille kytkeytyen opettajan rooliin ([[teacher-role]]) ja [[cognitive-offloading|liialliselta riippuvuudelta suojautumiseen]].
 
-## Seuraukset tekoälylle koulutuksessa
+## Käytännön seuraukset
 
-- **Arvioi suoriutumista, ei vain itsearviointia:** opettajan osaaminen pitäisi arvioida osoittamisen kautta, kun otetaan huomioon dokumentoitu itsearviointikuilu.
-- **Kouluta koko osaaminen, ei vain työkaluja:** PD:n pitäisi rakentaa tekniset, pedagogiset, arvioinnilliset ja eettiset ulottuvuudet yhdessä [[learning-theories|oppimisteoriaan]] ankkuroituna.
-- **Rakenna luottamusta taidon rinnalle:** asenteet ja [[self-efficacy]] muovaavat omaksumista, joten PD:n pitäisi vähentää ahdistusta ja rakentaa luottamusta autenttisen, tuetun harjoittelun kautta.
-- **Tue institutionaalista kerrosta:** kestävä opettajan osaaminen edellyttää yhdenmukaista politiikkaa, hallintoa ja kapasiteettia, ei erillistä koulutusta.
+Opettajakunnan kehittäjät voivat kohdistaa ammatillisen kehittämisen pedagogiseen tekoälytietoon työkalujen sujuvuuden sijaan. Ohjelmat, jotka rakensivat pedagogista sisältötietoa, raportoivat suuria ennen-jälkeen-hyötyjä, mikä viittaa siihen, että katto on korkeampi kuin yksittäinen työpaja antaa ymmärtää, eikä pelkkä tekninen koulutus ole tarkastelluissa tutkimuksissa liikuttanut opiskelijoiden käsityksiä.
 
-- **Opettajan digitaalinen kompetenssi GenAI:n [[curriculum-design|opetussuunnittelussa]].** [[guillen-curriculum-genai-teacher-competence-2026|Guillén-Gámez (2026)]] validoi TAM-pohjaisen diagnostiikkamittarin 434 työssä olevalla opettajalla; käyttäytymisaikomus oli tärkein digitaalisen kompetenssin ennustaja GenAI:n käytölle opetussuunnitelman suunnittelussa, ja itsetehokkuus oli juuritekijä.
+Opettajankouluttajat voivat erottaa ne kaksi asiaa, jotka kehoteharjoittelu ostaa. Säästetty valmisteluaika on yksi hyöty ja paremmat materiaalit toinen, ja näyttö tukee ensimmäistä ilman että se tukisi toista. Ohjelma, joka lupaa molemmat, tuottaa pettymyksen laadussa.
 
-### Psykometrinen mittari opettajan tekoälyosaamiselle
+Opettajat voivat kirjoittaa agenttiohjeet järjestettyinä vaiheina. Kun opettajat konfiguroivat chatbotteja luonnollisella kielellä, hallitseva epäonnistuminen oli ohitettu työnkulun vaihe eikä väärä fakta, joten harjoittelemisen arvoinen taito on sekvenssin ja ennakkoehtojen määrittely, ei sisällöstä kertominen lisää.
 
-- Psykometrinen tutkimus kehitti Teachers' AI Literacy Scale (TAILS) -mittarin mittaamaan tekoälylukutaitoa erityisesti [[teacher-education|kieltenopettajien koulutuksessa]] operationalisoiden ED-AI-kehyksen kuusi ulottuvuutta. Mittarin kehittäminen täyttää aukon arvioinneissa, jotka kohdistuvat opiskelijoihin tai yleiskäyttäjiin, ja tukee opettajan tekoälyosaamisen mittaamista.
+Koulun johtajat voivat rahoittaa ne ehdot, jotka tekevät osaamisesta käytettävää: palkallinen työaika, paikka lukujärjestyksessä ja alakohtainen tuki. iRAISE-vertailu havaitsi, että opettajien itseluottamus ratkaisi, käytettiinkö työkaluja lainkaan, ja itseluottamus seuraa tuettua harjoittelua eikä pelkkää koulutusta.
 
-Mittaristoa itsessään on sittemmin arvioitu katsauksessa. [[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal, Mohd Matore ja Maatin vuoden 2026 systemaattinen katsaus opettajien tekoälylukutaidon mittausvälineistä]] arvioi 33 välinettä, jotka julkaistiin vuosien 2019 ja 2025 välillä, ja havaitsi alan menetelmällisesti yksitoikkoiseksi: 31 (93,9 %) on itsearviointiasteikkoja koetusta luottamuksesta, vain kaksi (6,1 %) testaa tietoa objektiivisesti, eikä yksikään käytä suoriutumispohjaisia tehtäviä. Sisäinen johdonmukaisuus oli vahvin laatualue (28:lla 33:sta arvosana A) ja oikeudenmukaisuus heikoin, ja viisi välinettä (15,2 %) raportoi mittausinvarianssista tai differentiaalisesta osioutumisesta. Sisältö laahaa myös teknologiaa jäljessä: 29 välinettä (87,9 %) kohdistuu yleisiin tekoälykäsitteisiin ja vain neljä (12,1 %), kaikki vuodelta 2025, käsittelee generatiivista tekoälyä.
+Osastonjohtajat voivat arvioida osaamisen osoittamisen kautta. Itsearviointiasteikot ja osoittaminen erkanevat, ja tässä katsotut välineet mittaavat hyvin erilaisia konstrukteja, joten portfolio pidetyistä oppitunneista tai arvioidusta opiskelijatyöstä kertoo enemmän kuin valmiusskysely.
 
 ## Yleiset väärinkäsitykset
 
@@ -177,6 +201,10 @@ Mittaristoa itsessään on sittemmin arvioitu katsauksessa. [[assessing-teachers
 
 ## Liittyvät artikkelit
 
+- [[feng-ai-literacy-psychological-dimensions-2026]] — Kuusi opettajan tekoälylukutaidon ulottuvuutta, niiden joukossa kontekstuaalinen tieto ja jatkuva ammatillinen kasvu (Feng & Carolus, 2026)
+- [[ding-genai-colleague-teacher-depletion-2026]] — 436 muotoiluopettajaa: osaamisen kasvu ja tekoälyahdistus nousevat yhdessä, joten tuki eikä koulutus ratkaisee lopputuloksen (Ding et al., 2026)
+- [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISE:n neljän maan katsaus: 84 maata 194:stä vie MIL-taidot teknisten taitojen ohi opetussuunnitelmiin, ja inhimilliset tekijät ratkaisivat lopputuloksen kaikissa neljässä järjestelmässä (Cerioli, 2026)
+- [[wilcoxen-steiner-bell-ai-lesson-planning-2026]] — 26 aloittelevaa opettajaa muokkasi tekoälyn oppituntisuunnitelmia; mukauttaminen oli suurin kuilu (Wilcoxen et al. 2026)
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — Mitkä opettajat hyötyivät suunnitteluajasta: matalampi luottamus aineosaamiseen, matalampi pedagoginen tieto, uudempi ammatissa tai korkea teknologialuottamus
 - [[ai-misconceptions-indonesian-k12-teachers-2026]] — Opettajat hyväksyvät tekoälyn mutta ymmärtävät väärin, miten se toimii (Aji et al. 2026)
 - [[manto-ai-integration-mathematics-education-systematic-review-2026]] — Opettajan valmius ja teknologispedagoginen integraatio useimmin raportoituina haasteina 54 matematiikan opetuksen tutkimuksessa (Manto et al. 2026)
@@ -237,3 +265,8 @@ Mittaristoa itsessään on sittemmin arvioitu katsauksessa. [[assessing-teachers
 - [[bursic-ai-residency-education-curriculum-2026]] — esteet tekoälyn integroinnille erikoistumiskoulutuksen opetussuunnitelmiin: laadulliset haastattelut kahdentoista lääkärijohtajan kanssa
 - [[yuan-teacher-need-satisfaction-genai-2026]] — opettajien psykologisten perustarpeiden tyydytys ja aikomus käyttää generatiivista tekoälyä: ammatillisen kehittämisen sitoutumisen välittävä rooli
 - [[eduwild-teacher-configured-chatbots-failures-2026]] — EduWild: Miten opettajien konfiguroimat chatbotit epäonnistuvat tosielämän käytössä ja miten ne korjataan
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — Skandinaavisten opettajien asenteet generatiivista tekoälyä kohtaan: assosiaatioiden tarkastelu
+- [[moreira-choez-explainable-ml-faculty-digital-competence-2026]] — Opettajakunnan itsearvioitu kompetenssikaista ennustui pääosin institutionaalisesta affiliaatiosta eikä yksilöominaisuuksista
+- [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — Omaksuminen arvioidaan ala kerrallaan, ja päähuoli on opiskelijoiden päättely
+- [[chen-future-faculty-development-ai-2027]] — Kompetenssi jaettuna opetustiimin kesken, tekninen ja eettinen peruskyvykkyys kaikille yhteisenä
+- [[ji-judgement-space-dialogic-inquiry-2027]] — Viitekehykset listaavat kompetensseja ja jättävät harkinnan ehdot teorioimatta

@@ -7,7 +7,7 @@ foundations: [ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
 audience: [instructors]
 discipline: [teacher education]
-level: [adult learning, higher ed, k 12]
+level: [higher ed, k 12, adult learning]
 confidence: high
 source_updated: "2026-11-08T09:30:45-05:00"
 translation_of: concepts/teacher-education

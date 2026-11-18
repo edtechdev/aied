@@ -11,8 +11,8 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-11-04T17:25:00-05:00"
-updated: "2026-11-08T06:32:21-05:00"
+source_updated: "2026-11-16T09:06:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -105,9 +109,13 @@ ai_assist:
 
 **رأس المال المعرفي هو المخزون الذي يستهلكه التفريغ.** يُعيد [[riva-cognitive-capital-generative-ai-review-2026|Riva et al. (2026)]] تأطير التفريغ تغيّرًا في مخزون لا فعلًا. فرأس المال المعرفي معرفة وقدرة وممارسة متراكمة متجدّدة قابلة للنضوب، يحملها أفراد ومؤسسات، ويُبقى منفصلًا عن قدرة نظام الإنسان والذكاء الاصطناعي حتى يُرى مكسبُ الأداء المشترك إلى جانب خسارة القدرة البشرية. وتُنتج آلياتهم الأربع — استبدال الممارسة، والسقالة والتغذية الراجعة، والمعايرة ما وراء المعرفية، والتجميع التنظيمي — سبعة مبادئ، منها أن الأداء المدعوم ليس كفاءة محفوظة، وأن تفريغ مهمة يختلف عن تفريغ الممارسة التي تبني المهارة. والإحصاء المُحرِّض هو نشر متدرّج على 5,172 وكيل دعم عملاء رفع فيه مساعدٌ القضايا المحلولة في الساعة بنسبة 15%؛ وهذا الرقم يصف النظام المشترك، أما هل كان الوكلاء يستطيعون أداء العمل دون مساعدة فقياس لا تحتويه الأدبيات المراجَعة.
 
+**للاختبار التأسيسي أساس في بنية المهمة.** يحدّد [[ho-invariant-core-faculty-development-2027|Ho (2026)]] الخطّ بين الإنترنت والذكاء الاصطناعي التوليدي في تصنيف SOLO عند Biggs. فقد سهّل الإنترنت المهام متعددة البنية، لكن المتعلّم كان لا يزال عليه أن يبني الروابط التي ترفع العمل إلى المستوى العلائقي، بينما يُنتج الذكاء الاصطناعي التوليدي تلك البنية عند الطلب. وبمجرد أن يتوقّف المصنوع عن إظهار التفكير العلائقي الذي صُمّمت المهمة لاستدعائه، يصير على التقويم أن يزِن عملية إنتاجه.
+
 ### عندما يهبط التفريغ بدلًا من أن يرتفع
 
 يقدّم [[braun-cognitive-dormancy-ai-affordances-2026|Braun (2026)]] تجربة مُسجَّلة مسبقًا (N = 317) تعلّم فيها بالغون محتوى جديدًا من أوراق عمل تقليدية أو من مساعد عامّ مقيَّد بتلك الأوراق نفسها. فخفّض شرط الذكاء الاصطناعي التفريغ المعرفي المقيس بدلًا من أن يرفعه (الوسيط −0.27، والفاصل القبلي الموثوق 95% من −0.58 إلى 0.04). وظلّت المعالجة العميقة تهبط، لكن عبر سلسلة تتبّع فيها التفريغ الأدنى تفكيرًا [[critical-thinking|نقديًا]] أدنى، الذي تنبّأ بدوره بمعالجة عميقة أضعف (0.78). وارتفع عدم التنظيم بمقدار 0.84 دون وسيط يحمل الأثر. والنتيجة تحذير للتفسير المعتاد: التفريغ ليس المسار الوحيد الذي تُنقص به بيئة [[generative-ai|الذكاء الاصطناعي]] المعالجة، وقد يترك شرطٌ التفريغَ دون مساس بينما يكبت ما كان يُفترض أن يحميه.
+
+- **الترتيب لا المقدار هو ما يحدّد هل يساعد التفريغ.** أفاد طلاب جامعيون يستخدمون الذكاء الاصطناعي التوليدي داخل أوراق عمل تصميم التفكير التي أبقت تأطير المشكلة والمقارنة والمراجعة مع المتعلّم بأنّ [[self-efficacy|كفاءتهم الذاتية]] الإبداعية أعلى ومنتجاتهم أفضل تقييمًا من طلاب استخدموا النموذج نفسه بلا قيود ([[wang-design-thinking-scaffolds-agency-preserving-ai-2026|Wang, 2026]]).
 
 ### تفريغ التعاطف، لا الإدراك وحده
 
@@ -185,6 +193,12 @@ ai_assist:
 
 **لتكوين التجاوز ثمن مدني لا تحسبه دراسات التعلّم.** يجادل [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz وCastro Samayoa (2026)]] بأن التفريغ الإرادي للاستقصاء والتحليل والتقويم والتركيب يُضمر الممارسة التي تعتمد عليها المواطنة الديمقراطية. وقاعدتهم في التسلسل هي تمييز التجاوز/السقالة مصوغًا نمائيًا: الحساب قبل الآلات الحاسبة، وأعراف الاستشهاد قبل مديري المراجع، وروبوت محادثة يُدخَل بعد المهارة لا بدلًا منها. ويسمّيان أيضًا الإطار الذي يجعل التجاوز جاذبًا، وهو فرضية الكفاءة القائلة إن غاية العمل الدراسي الإنجاز السريع.
 
+تفصل الأدلة السببية الأحدث بين إنجاز المهمة وتعلّمها. ففي تجربة 2×2 مع 24 طالبًا جامعيًا كنديًا، اجتاز المبتدئون بمساعدة ChatGPT 410.7 من 500 اختبار مُولَّد مقابل 80.7 بدونه، بينما لم يكسب الطلاب المتوسطون شيئًا وأبلوا أفضل بالموارد التقليدية ([[chen-genai-programming-understanding-2026|Chen et al., 2026]]). ووجدت دراسة أخرى على 22 مبرمجًا أن GitHub Copilot أنتج ميزة أداء قدرها 14.09 نقطة وحملًا معرفيًا أدنى أثناء المهمة، بلا منفعة في اختبار إعادة دون مساعدة بعد نحو أسبوع ([[gardella-copilot-fast-forgettable-2026|Gardella et al., 2026]]). فالتفريغ يستطيع رفع المخرَج مع ترك القدرة على إنتاجه دون مساس.
+
+تمنح دراستان حديثتان التفريغ جهاز قياس. فسُلَّم [[ayasrah-executive-function-learning-difficulties-scale-2026|Ayasrah وزملائه]] ذو البنود الخمسة والثلاثين يحوّل العملية إلى ستة أبعاد قابلة للإبلاغ — الاعتماد المفرط، والفهم السطحي، وتقلّص التحقق، وضعف الذاكرة، وتناقص الجهد، وتقلّص التقويم النقدي — وُثّق على 616 طالبًا في المرحلة الثانوية. ووجد مسح [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026|Sharma وManani وThakwani]] على طلاب جامعيين أن الاعتماد على ChatGPT ارتبط بضعف في الوظائف التنفيذية أساسًا عبر الضغط الأكاديمي، مع هبوط المسار المباشر إلى P = 0.328 بمجرد دخول الضغط في النموذج. وينتمي الاثنان إلى [[executive-function|الوظائف التنفيذية]]، التي تحمل القدرة التي يُفترض أن يزيحها التفريغ.
+
+يستقصي [[papasideri-cognitive-offloading-genai-narrative-review-2026|Papasideri وChatziioannou وPalaiologos (2026)]] هجرة البناء إلى الذكاء الاصطناعي التوليدي في مراجعة سردية لا تجمع شيئًا ولا تبلّغ بيانات جديدة. ويحكم إطارهم التحليل: فالتفريغ إعادة توزيع للجهد، والسؤال هل يعود الجهد المُعاد توزيعه تعلّمًا. وما يتغيّر مع الذكاء الاصطناعي التوليدي هو الموضوع — الاستدلال والتركيب والتقويم بدل الاستعلام والحساب — فتنطبق النتيجة الأقدم بأن التفريغ يتنبأ باحتفاظ مؤجّل أضعف على العمل من الرتبة العليا. وادّعاؤهم التصميمي الواحد ملموس: فالمطالبات التي تطالب بالتبرير أو التقويم خفّضت التفريغ وحسّنت جودة الحجة، وهو ما يجعل تصميم التفاعل — لا قدرة النموذج — الرافعة.
+
 ## المفاهيم الخاطئة الشائعة
 
 - **«حجم المطالبات يقيس التفريغ.»** صُنِّف **97 متعلّمًا** حسب حجم المطالبات، و**لم تختلف مجموعات الحجم اختلافًا دالًّا في المطالبة المحلية مقابل الشاملة ولا في نمط الدور النشط**. فعدّ المطالبات عدّ نشاطًا لا توزيعًا للعمل المعرفي.
@@ -212,16 +226,19 @@ ai_assist:
 - [[retrieval-spacing-interleaving]] — الممارسة المضادة للسماح لنموذج بالاستدعاء عن المتعلّم
 - [[cognitive-surrender]]
 - [[reflection]]
+- [[executive-function]]
 
 ## المقالات المتصلة
 
+- [[chen-genai-programming-understanding-2026]] — مبرمجون مبتدئون ومتوسطون: ChatGPT رفع نجاح الاختبارات إلى 410.7 مقابل 80.7 بينما لم يتبع الفهم (Chen et al., 2026)
+- [[gardella-copilot-fast-forgettable-2026]] — 22 مبتدئًا: ميزة Copilot البالغة 14.09 نقطة لم تصمد في اختبار إعادة دون مساعدة بعد أسبوع (Gardella et al., 2026)
 - [[riva-cognitive-capital-generative-ai-review-2026]] — رأس المال المعرفي: التفريغ سحبٌ من مخزون متجدّد من القدرة
 - [[pradubwate-illusion-ai-competence-miscalibration-2026]] — سوء معايرة عابر للأبعاد: الطلاقة التشغيلية تُقرأ خطأً كفاءة تقييمية ومجالية (مراجعة مفاهيمية)
 - [[akcaoglu-offloading-ladder-experience-2026]] — سلّم التفريغ: كيف تغيّر الخبرة ما ينبغي للمتعلّمين والممارسين تسليمه للذكاء الاصطناعي (Akcaoglu 2026)
 - [[ai-proof-learning-cognitive-offloading-2026]] — دعم استدلال الطلاب أم استبداله؟ التفريغ المعرفي في تعلّم البراهين المدعوم بالذكاء الاصطناعي (Chen وآخرون 2026)
 - [[llm-math-homework-offloading-traces-2026]] — ما لا يُظهره التسليم: تعقيد التفريغ المعرفي في العمل الرياضي للطلاب مع النماذج اللغوية الكبيرة (Kontorovich & Wallach 2026)
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — إجماع 30 خبيرًا على 65 عملية تعلّم: التفريغ عند طرفَي سلسلة التعلّم
-- [[shastry-gray-empathy-offloading-2026]] — People offload empathy when they think AI can give it instead (Shastry & Gray 2026)
+- [[shastry-gray-empathy-offloading-2026]] — يفرّغ الناس تعاطفهم حين يظنّون أن الذكاء الاصطناعي يستطيع تقديمه بدلًا منهم (Shastry & Gray 2026)
 - [[rented-self-decoupling-performance-becoming-2026]] — الذات المستأجرة: التفريغ الذي يكلّف ذات المتعلّم في المجال الدراسي لا مهارته وحدها
 - [[caeai-ai-scaffolding-inquiry-profiles-middle-school-2026]] — مجموعات بدت متماثلة فتباعدت: 74.1% تبنّيًا للنموذج في ملف مقابل 80.8% تفريغًا ومأزقًا في آخر (Kilinc et al. 2026)
 - [[liu-ai-assistance-reduces-persistence-2026]] — قلّلت مساعدة الذكاء الاصطناعي المثابرة والأداء دون مساعدة عبر ثلاث تجارب عشوائية مضبوطة (Liu et al. 2026)
@@ -229,7 +246,7 @@ ai_assist:
 - [[yan-cognitive-outsourcing-genai-assessments-2026]] — من الاستعانة المعرفية الخارجية إلى إعادة التخصيص: تحليل 3P لانخراط الطالب مع الذكاء الاصطناعي التوليدي في التقييمات غير المُشرَّفة (Yan et al. 2026)
 - [[family-school-autonomy-support-genai-2026]] — دعم الأسرة والمدرسة لاستقلالية الاستخدام المسؤول للذكاء الاصطناعي التوليدي
 - [[zohar-bloom-inzlicht-against-frictionless-ai-2026]] — الاحتكاك الزائد مقابل المفيد: لماذا يختلف تفريغ الذكاء الاصطناعي عن الأدوات السابقة
-- [[thermomix-genai-education-analogy-2026]] — With a Thermomix You Lose the Ability to Cook: a kitchen-machine analogy for generative AI in education (Rummel, Nachtigall & Panadero 2026)
+- [[thermomix-genai-education-analogy-2026]] — «بآلة Thermomix تفقد القدرة على الطهي»: تشبيه آلة مطبخ للذكاء الاصطناعي التوليدي في التعليم (Rummel, Nachtigall & Panadero 2026)
 - [[cognitive-washout-ai-skill-decay-2026]] — الغسل المعرفي: ديناميات ما بعد الانسحاب في تلاشي المهارة المُستحدث بالذكاء الاصطناعي
 - [[yan-conversational-ai-engagement-dependence-synthesis-2026]] — تركيب سردي نقدي لانخراط الذكاء الاصطناعي الحواري والاعتماد عليه
 - [[layer-sensitive-cognitive-offloading-writing-2026]] — التفريغ المعرفي الحسّاس للطبقات في الكتابة المدعومة بالذكاء الاصطناعي التوليدي (Chen 2026)
@@ -241,7 +258,7 @@ ai_assist:
 - [[critical-thinking-paradox-genai-learning-2026]] — مفارقة التفكير النقدي في التعلّم المُدمج بالذكاء الاصطناعي التوليدي
 - [[cognitive-offloading-speedup-illusion]] — وهم التسريع في العمل المدعوم بالذكاء الاصطناعي
 - [[misiejuk-cognitive-offloading-prompting-2026]] — تحليل شبكات التواتر المشترك لأنماط المطالبات
-- [[shaw-nave-cognitive-surrender-2026]] — Tri-System Theory and cognitive surrender: how AI reshapes human reasoning (Shaw & Nave 2026)
+- [[shaw-nave-cognitive-surrender-2026]] — نظرية الأنظمة الثلاثة والاستسلام المعرفي: كيف يعيد الذكاء الاصطناعي تشكيل الاستدلال البشري (Shaw & Nave 2026)
 - [[young-people-learning-generative-ai-rapid-review-2026]] — سلسلة الاستسلام–التفريغ–الفاعلية في الذكاء الاصطناعي التوليدي
 - [[ai-making-us-stupid]] — أبحاث الآثار المعرفية للذكاء الاصطناعي وانزياح التعلّم
 - [[brcic-effortless-trap-productive-struggle-2026]] — فخ السهولة: الذكاء الاصطناعي يحلّ محلّ العمل المعرفي (Brcic & Frljic 2026)
@@ -251,20 +268,23 @@ ai_assist:
 - [[coach-not-crutch-ai-writing]] — يمكن للذكاء الاصطناعي أن يُنتج عملًا أقل وتعلّمًا أكثر (Lira et al. 2025)
 - [[making-ai-tutoring-productive-mastery-math-2026]] — جعل التدريس الخصوصي بالذكاء الاصطناعي مُنتجًا: ممارسة الرياضيات القائمة على التمكّن
 - [[cognitive-commons-ai-expertise-regeneration]] — مأساة الكومن المعرفي: الذكاء الاصطناعي وإعادة توليد الخبرة
-- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: A Privacy-Preserving Self-Reflection Tool for AI-Associated Cognitive Offloading
+- [[pause-ai-cognitive-offloading-self-reflection-2026]] — PAUSE: أداة فحص ذاتي تحفظ الخصوصية للتفريغ المعرفي المرتبط بالذكاء الاصطناعي (Alam 2026)
 - [[chatgpt-writing-cognitive-impact-2026]] — تجربة كتابة للتعلّم أنتجت فيها الكتابة المدعومة بـChatGPT مكسبًا معرفيًا أقل من مجموعة ضابطة دون مساعدة
-- [[student-cognitive-offloading-ai-higher-ed-2026]] — Patterns of student cognitive offloading to AI in higher education: naturalistic ChatGPT message-level evidence (Piatnitckaia et al. 2026)
-- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — Designing Against Deskilling: Metacognitive Feedback Reduces Cognitive Offloading to LLM Assistants
-- [[chatgpt-programming-performance-retention-ownership-2026]] — Your Programming Students' Cognition with ChatGPT: Higher Performance, Lower Retention, and Reduced Ownership
+- [[student-cognitive-offloading-ai-higher-ed-2026]] — أنماط التفريغ المعرفي للطلاب إلى الذكاء الاصطناعي في التعليم العالي: دليل طبيعي على مستوى الرسائل في ChatGPT (Piatnitckaia et al. 2026)
+- [[metacognitive-feedback-anti-deskilling-offloading-2026]] — التصميم ضد فقدان المهارة: التغذية الراجعة في ما وراء المعرفة تقلّل التفريغ المعرفي إلى مساعدي النماذج اللغوية
+- [[chatgpt-programming-performance-retention-ownership-2026]] — إدراك طلاب البرمجة مع ChatGPT: أداء أعلى، واحتفاظ أدنى، وملكية أقل
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — ميل التفريغ وثقافة التحقق يتنبّئان بنتائج الرتبة العليا عبر التنظيم الذاتي المعرفي (Davor et al. 2026)
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — مطالبة تأمل تُقلّل قبول المشورة الخاطئة للذكاء الاصطناعي وتحسّن معايرة الوعي (Ren 2026)
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — الاعتماد على الذكاء الاصطناعي التوليدي كشرط حدّي على الميل للتفكير النقدي والقابلية الوظيفية المُدركة ذاتيًا (Shojaei et al. 2026)
 - [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — أظهر الأطفال اتصالًا أضعف في الجبهي-الجداري والبروز والانتباه الظهري من البالغين أثناء الحديث مع ChatGPT، عند درجات إبداع متطابقة
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — الذكاء الاصطناعي التوليدي والتفكير الإبداعي للأطفال: الاعتماد المفرط واعتماد المطالبة في مراجعة استقصائية (Niu et al. 2026)
-
-- [[braun-cognitive-dormancy-ai-affordances-2026]] — Cognitive dormancy: a preregistered experiment in which AI affordances lowered deep processing and raised disorganization without raising offloading (Braun 2026)
-- [[yahya-generative-ai-inquiry-based-learning-review-2026]] - الاعتماد المفرط أو التفريغ المعرفي مسمّى كتحدٍّ في 16 من 66 دراسة استقصائية
-- [[fan-metacognitive-offloading-sync-model-2026]] - أرباع SYNC وحلقة إعادة المعايرة: تفويض المنظّم لا العمل وحده (Fan et al. 2026)
+- [[braun-cognitive-dormancy-ai-affordances-2026]] — الخمول المعرفي: تجربة مسجَّلة مسبقًا خفّضت فيها إتاحات الذكاء الاصطناعي المعالجة العميقة ورفعت عدم التنظيم دون رفع التفريغ (Braun 2026)
+- [[yahya-generative-ai-inquiry-based-learning-review-2026]] — الاعتماد المفرط أو التفريغ المعرفي مسمّى كتحدٍّ في 16 من 66 دراسة استقصائية
+- [[fan-metacognitive-offloading-sync-model-2026]] — أرباع SYNC وحلقة إعادة المعايرة: تفويض المنظّم لا العمل وحده (Fan et al. 2026)
 - [[zhang-usefulness-dependence-genai-2026]] — من «الفائدة» إلى «الاعتماد»: آلية التطور الديناميكي لسلوكيات استخدام الذكاء الاصطناعي التوليدي
 - [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — سحب المنظّم يرفع التفريغ ويخفض جودة المخرجات
 - [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — قاعدة التسلسل مطبَّقة نمائيًا: الحساب قبل الآلات الحاسبة، والاستشهاد قبل مديري المراجع
+- [[ayasrah-executive-function-learning-difficulties-scale-2026]] — ستة أبعاد مُبلَّغة ذاتيًا لصعوبة التعلّم بوساطة الذكاء الاصطناعي
+- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — الضغط الأكاديمي يتوسّط بين الاعتماد على ChatGPT والخلل التنفيذي
+- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — التفريغ المعرفي في عصر الذكاء الاصطناعي التوليدي: مراجعة سردية تربط التفريغ بالذاكرة والتعلّم والوظائف التنفيذية
+- [[ho-invariant-core-faculty-development-2027]] — مستويات SOLO تفسّر قدرة الذكاء الاصطناعي التوليدي على توفير المصنوع العلائقي، فوجب أن يزِن التقويم العملية (Ho 2026)

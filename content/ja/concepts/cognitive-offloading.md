@@ -1,7 +1,7 @@
 ---
 title: 認知的オフローディング
 created: "2026-10-10T22:09:40-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -12,13 +12,17 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-11-04T17:25:00-05:00"
+source_updated: "2026-11-16T09:06:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -110,11 +114,15 @@ ai_assist:
 - **効果は道具ではなく分業の中にある。** Nakamura（2026）は、分析の単位が学習者と機械の間の認知的労働の分割になれば、生成的AIの学習効果の異質性は解消すると論じます。オフローディングは、現在の目標に対して周辺的な操作を肩代わりするとき学習を増強し、その目標を構成する処理を迂回するとき侵食のリスクを生みます（[[nakamura-augmentation-erosion-cognitive-offloading-stem-2026|Nakamura, 2026]]）。出力を実質的に処理すること、あるいは後でそれを再構成することが、そうでなければ構成的なオフロードを救うのです。
 - **何を手放してよいかは、その課題についての経験に依存する。** [[akcaoglu-offloading-ladder-experience-2026|Akcaoglu（2026）]]は、課題の順序を人に相対的なものにします。初心者にとって高次のものが、その手続きをすでに持っている人にとっては低次であるため、許されるオフローディングは経験とともに増え、仕事の中核で止まるべきです。
 
+**構成的なテストには、課題構造の基盤があります。**[[ho-invariant-core-faculty-development-2027|Ho (2026)]]は、インターネットと生成AIの間の線を、BiggsのSOLO分類の中に見出します。インターネットはマルチストラクチュラルな課題を容易にしましたが、学習者はなお、仕事をリレーショナルな水準へと引き上げる結びつきを自分で築かなければなりませんでした。一方、生成AIはその構造を求めに応じて生み出します。成果物が、課題が引き出そうと設計したリレーショナルな思考をもはや証拠づけなくなったとき、評価はそれを生み出す過程に重みを置かなければなりません。
+
 **認知資本は、オフローディングが引き出すストックである。** [[riva-cognitive-capital-generative-ai-review-2026|Riva et al.（2026）]]は、オフローディングを行為ではなくストックの変化として再枠組みします。認知資本は、個人と組織が保持する、蓄積され、再生可能で、枯渇しうる知識、能力、実践であり、人間とAIのシステムの能力から切り離されて保たれるため、共同のパフォーマンスの利得と人間の能力の損失を並べて見ることができます。彼らの 4 つの機構——実践の代替、足場かけとフィードバック、メタ認知的較正、組織的な集約——は 7 つの原則を生み、その中には、支援されたパフォーマンスは保持されたコンピテンスではないこと、課題をオフロードすることはその技能を築く実践をオフロードすることとは異なることが含まれます。動機づけとなる統計は、5,172 人のカスタマーサポートのエージェントへの段階的な展開で、アシスタントが 1 時間あたりに解決される問題を 15% 上げたというものです。その数字は共同のシステムを記述しており、エージェントが支援なしでその仕事をまだできるかどうかは、レビューされた文献に含まれない測定です。
 
 ### オフローディングが増えるのではなく減るとき
 
 [[braun-cognitive-dormancy-ai-affordances-2026|Braun（2026）]]は、大人が従来のワークシートから、あるいは同じワークシートに限定された汎用アシスタントから新しい内容を学ぶ事前登録実験（N = 317）を報告しています。AI条件は、測定された認知的オフローディングを高めるのではなく低めました（中央値 −0.27、95%信用区間 −0.58 〜 0.04）。深い処理はそれでも低下しましたが、それは低いオフローディングが低い[[critical-thinking|批判的思考]]と連動し、それが次に弱い深い処理を予測するという連鎖を通じてでした（0.78）。無秩序さは0.84上昇し、その効果を運ぶ媒介変数はありませんでした。この発見は標準的な説明への注意です。オフローディングは、[[generative-ai|AI]]環境が処理を侵食する唯一の経路ではなく、ある条件はオフローディングに手をつけないまま、オフローディングが守るはずだったものを抑圧しうるのです。
+
+- **配置が、量ではなく、オフローディングが助けになるかどうかを決めます。**問題の枠づけ、比較、改訂を学習者に残したデザイン思考のワークシートの中で生成AIを使った学部生は、同じモデルを無制限に使った学生よりも、創造的な[[self-efficacy|自己効力感]]が高く、成果物の評定も良好でした([[wang-design-thinking-scaffolds-agency-preserving-ai-2026|Wang, 2026]])。
 
 ### 認知だけでなく共感もオフロードする
 
@@ -202,6 +210,12 @@ ai_assist:
 
 **迂回の構成には、学習研究が請求しない市民的な代償がある。** [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026|Muñiz と Castro Samayoa（2026）]]は、探究、分析、評価、総合を意志的にオフロードすることが、民主的な市民性が依存する実践を萎縮させると論じます。彼らの順序づけの規則は、迂回と足場かけの区別を発達的に述べたものです。計算機の前に算数、参照管理ツールの前に引用の慣習、そして技能の後にチャットボットを導入することであり、その代わりにではありません。彼らはまた、迂回を魅力的にする枠組みを名指します。すなわち、学校の仕事の目的は速く終えることだという効率性の前提です。
 
+新しい因果的な証拠は、課題を終えることとそれを学ぶことを分けます。カナダの学部生24人を対象とした2×2の実験では、初心者はChatGPTがあれば生成された500のテストのうち410.7に合格し、なければ80.7でした。一方、中級の学生は何も得ず、従来の資料のほうがよくできました([[chen-genai-programming-understanding-2026|Chenら、2026]])。別の、プログラマー22人を対象とした研究では、GitHub Copilotが14.09ポイントの成績上の優位と課題中の低い負荷を生みましたが、約1週間後の支援なしの再テストでは便益がありませんでした([[gardella-copilot-fast-forgettable-2026|Gardellaら、2026]])。オフローディングは、それを生み出す能力を手つかずのまま、出力を上げうるのです。
+
+最近の2つの研究が、オフローディングに測定の道具を与えます。[[ayasrah-executive-function-learning-difficulties-scale-2026|Ayasrahら]]の35項目の尺度は、この過程を6つの報告可能な次元、すなわち過度の依存、表面的な理解、検証の減少、記憶の弱まり、努力の減退、批判的評価の低下に変え、中等教育の学生616人で検証されました。[[sharma-chatgpt-dependency-executive-dysfunction-stress-2026|Sharma, Manani and Thakwani]]の大学生調査は、ChatGPTへの依存が、主に学業上のストレスを通じて実行機能の低下と関連しており、ストレスがモデルに入ると直接経路はP = 0.328に下がったことを見出しました。どちらも[[executive-function|実行機能]]に属し、それはオフローディングが置き換えると考えられている能力を保持しています。
+
+[[papasideri-cognitive-offloading-genai-narrative-review-2026|Papasideri, Chatziioannou and Palaiologos (2026)]]は、何もプールせず新しいデータも報告しないナラティブレビューで、この構成概念が生成的AIへと移っていく様を概観します。彼らの枠組みが分析を統べます。オフローディングは労力の再配分であり、問いは、再配分された労力が学習として戻ってくるかどうかです。生成的AIによって変わるのは対象であり、検索や算術ではなく推論、統合、評価であるため、オフローディングが遅延保持の弱さを予測するという古い知見は、今や高次の仕事に当てはまります。彼らの設計上の主張はひとつで具体的です。正当化や評価を要求するプロンプトはオフローディングを減らし、論証の質を高めました。それは、モデルの能力ではなく相互作用の設計を梃子にするのです。
+
 ## よくある誤解
 
 - **「プロンプトの量がオフローディングを測る。」** **97名の学習者**をプロンプトの量でクラスタリングしたところ、**その量のクラスターは、ローカル対グローバル、あるいは能動的な役割のプロンプティングにおいて有意に異ならなかった**。プロンプトを数えることは活動を数えたのであって、認知的作業の配分を数えたのではありません。
@@ -230,9 +244,12 @@ ai_assist:
 - [[cognitive-surrender]]
 
 - [[reflection]]
+- [[executive-function]]
 
 ## 関連する記事
 
+- [[chen-genai-programming-understanding-2026]] — 初心者と中級のプログラマー:ChatGPTはテストの合格を80.7から410.7へ上げたが、理解はついてこなかった(Chenら 2026)
+- [[gardella-copilot-fast-forgettable-2026]] — 初心者22人:Copilotの14.09ポイントの優位は、1週間後の支援なしの再テストで保たれなかった(Gardellaら 2026)
 - [[riva-cognitive-capital-generative-ai-review-2026]] — 認知資本：再生可能な能力のストックからの引き出しとしてのオフローディング
 - [[pradubwate-illusion-ai-competence-miscalibration-2026]] — 次元をまたぐ誤較正：操作的な流暢さを評価的・領域的なコンピテンスと誤読する（概念的レビュー）
 - [[akcaoglu-offloading-ladder-experience-2026]] — オフローディングのはしご：経験が、学習者と実践者がAIに何を手渡すべきかをどう変えるか（Akcaoglu 2026）
@@ -266,7 +283,6 @@ ai_assist:
 - [[genai-thoughtless-use-self-directed-learning-2026]] — 思慮なきAI使用は自律学習を侵食する
 - [[generative-ai-guardrails-harm-learning]] — 無防備な生成的AIに関する高校数学のRCT
 - [[stromberg-generative-ai-learning-penalty-secondary-2026]] — 生成的AIの学習ペナルティ：宿題の外注は学習を害する
-- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — ChatGPTと話している間、創造性のスコアが一致していても、子どもは大人よりも前頭–頭頂、顕著性、背側注意の接続性が弱かった
 - [[coach-not-crutch-ai-writing]] — AIはより少なく働きより多く学ばせうる（Lira et al. 2025）
 - [[making-ai-tutoring-productive-mastery-math-2026]] — AI家庭教師を生産的なものにする：熟達に基づく数学の練習
 - [[cognitive-commons-ai-expertise-regeneration]] — 認知的コモンズの悲劇：AIと専門性の再生産
@@ -278,6 +294,7 @@ ai_assist:
 - [[davor-ai-supported-learning-higher-order-outcomes-2026]] — メタ認知的自己調整を通じて高次の成果を予測するオフローディングの傾向と検証リテラシー（Davor et al. 2026）
 - [[ren-metacognitive-awareness-genai-reliance-2026]] — 省察プロンプトは誤ったAI助言の受容を減らし自覚の較正を改善する（Ren 2026）
 - [[shojaei-genai-dependence-critical-thinking-employability-2026]] — 批判的思考の傾向と自己知覚された雇用可能性に対する境界条件としての生成的AI依存（Shojaei et al. 2026）
+- [[horowitz-kraus-children-chatgpt-cognitive-control-2026]] — ChatGPTと話している間、創造性のスコアが一致していても、子どもは大人よりも前頭–頭頂、顕著性、背側注意の接続性が弱かった
 - [[niu-genai-children-creative-thinking-cognitive-development-review-2026]] — 生成的AIと子どもの創造的思考：範囲設定レビューにおける過度の依存とプロンプトへの依存（Niu et al. 2026）
 - [[braun-cognitive-dormancy-ai-affordances-2026]] — 認知的休眠：AIのアフォーダンスが、オフローディングを高めずに深い処理を下げ無秩序さを上げた事前登録実験（Braun 2026）
 - [[yahya-generative-ai-inquiry-based-learning-review-2026]] — 66 の探究研究のうち 16 で過度の依存または認知的オフローディングが課題として名指された
@@ -285,3 +302,7 @@ ai_assist:
 - [[zhang-usefulness-dependence-genai-2026]] — 「有用性」から「依存」へ：生成的 AI 利用行動の動的な進化の機構
 - [[xiao-metacognitive-disengagement-knowledge-innovation-2026]] — 調整者を引き上げるとオフローディングが上がり出力の質が下がる
 - [[muniz-samayoa-genai-erosion-critical-democratic-citizenship-2026]] — 発達的に適用された順序づけの規則：計算機の前に算数、参照管理ツールの前に引用
+- [[ayasrah-executive-function-learning-difficulties-scale-2026]] — AIを媒介とする学習困難の6つの自己報告次元
+- [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — 学業上のストレスがChatGPTへの依存と実行機能の低下を媒介する
+- [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — 生成的AIの時代の認知的オフローディング:オフローディングを記憶、学習、実行機能に結びつけるナラティブレビュー
+- [[ho-invariant-core-faculty-development-2027]] — SOLOの水準は、なぜ生成AIがリレーショナルな成果物を供給できるのかを説明する。したがって評価は過程に重みを置かなければならない(Ho 2026)

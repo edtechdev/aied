@@ -1,7 +1,7 @@
 ---
 title: 교육에서의 인공지능
 created: "2026-09-22T14:35:21-04:00"
-updated: "2026-11-08T00:14:58-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -13,7 +13,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-17T08:15:00-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:
@@ -63,7 +63,7 @@ ai_assist:
 - **[[pedagogy|교수법과 교수 전략]]**: 교수가 이루어지는 방식에 대한 상위 개념으로, AI가 그 안에서 작동하는 교수 방법과 전략([[active-learning|능동적 학습]], [[collaborative-learning|협력 학습]], [[project-based-learning|프로젝트 기반 학습]], [[problem-based-learning|문제 기반 학습]], [[experiential-learning|경험 학습]], [[game-based-learning|게임 기반 학습]], [[socratic-method|소크라테스식 문답법]], [[scaffolding|스캐폴딩]] 등)을 다루며, [[online-teaching-and-learning|온라인 교수와 학습]]이라는 별도의 맥락도 포함합니다.
 - **[[learning-theories|학습 이론]]**: 학습이 이루어지는 방식에 대한 상위 개념으로, AI의 설계와 평가를 형성하는 이론적 틀([[behaviorism|행동주의]], [[cognitive-psychology|인지주의]], [[constructivist|구성주의]], [[sociocultural-learning|사회문화적 접근]], 인지적 접근, [[motivation|동기적 접근]])을 다룹니다.
 - **[[ai-technologies|기술]]**: 기술적 층위에 대한 상위 개념으로, AIED를 가능하게 하는 AI 시스템([[llm|LLM]], [[generative-ai|생성형 AI]], [[multimodal|멀티모달]], [[educational-robotics|로보틱스]])과 기법([[rag|RAG]], [[prompt-engineering|프롬프트 엔지니어링]], [[reinforcement-learning|강화 학습]], [[llm-training-and-fine-tuning|모델 훈련]], [[agentic-ai|에이전트형 오케스트레이션]])을 다룹니다. 학습자 모델링 계열, 즉 [[knowledge-tracing|지식 추적]], [[cognitive-diagnosis|인지적 진단]], [[simulating-students|학생 시뮬레이션]]과 이를 활용하는 시스템([[intelligent-tutoring|지능형 튜터링]], [[adaptive-learning|적응형 학습]], [[personalized-learning|개인화 학습]])은 이 기술 갈래 안의 [[student-modeling|학습자 모델링과 적응형 교수]] 상위 개념 아래에 묶입니다.
-- **[[discipline-specific-aied|전공 분야에서의 AI]]**: AI가 여러 교과 영역에 어떻게 적용되는지에 대한 상위 개념입니다([[math-education|수학]], [[physics-education|물리]], [[language-learning|언어 학습]], [[cs-education|컴퓨터 과학]], [[writing-education|글쓰기]], [[stem-education|STEM]], [[engineering-education|공학]], [[business-education|경영]], [[teacher-education|교사 교육]], [[medical-education|보건 전문직]] 등). 나아가 학문적 교과를 넘어 정답 여부가 아니라 실제 수행을 평가하는 전문·응용 갈래([[nursing-education|간호]], [[information-technology|정보 기술]], [[vocational-education|직업 교육과 훈련]], [[design-education|디자인 교육]])와 교육 수준([[k-12|K-12]], [[higher-ed|고등 교육]], [[adult-learning|성인 학습]])도 포함합니다.
+- **[[discipline-specific-aied|전공 분야에서의 AI]]**: AI가 여러 교과 영역에 어떻게 적용되는지에 대한 상위 개념으로, 네 개의 군집으로 묶입니다. [[humanities-education|인문학과 예술]]은 역사, 철학, 문학, 언어를 다루며 그 옆에 [[arts-and-media-education|예술과 미디어]], [[music-education|음악]]이 있습니다. [[social-sciences-education|사회과학]]은 시민성, 경영과 경제, 환경 연구를 다룹니다. [[stem-education|STEM]]은 수학, 물리, 화학, 생물, 컴퓨팅, 공학을 다룹니다. [[professions-education|전문직]]은 인증 프로그램 — [[medical-education|의학 및 보건 전문직]], [[nursing-education|간호]], [[legal-education|법학 교육]], [[teacher-education|교사 교육]], [[design-education|디자인 교육]], [[libraries|사서직]] — 을 다루며, 여기서는 평가가 인증된 판단이 지원자 자신의 것임을 보여주어야 합니다. 이 군집들은 교과뿐 아니라 학교급 전반에도 적용됩니다.
 - **[[assessment|평가]]**([[formative-assessment|형성평가]], [[summative-assessment|총괄평가]], [[authentic-assessment|실제적 평가]], [[oral-assessment|구두]], [[automated-assessment|자동화 평가]] 갈래 포함): AI가 학습자를 평가하는 방식과 함께 평가의 타당성과 정직성을 재편하는 방식에 대한 상위 개념입니다.
 - **[[feedback|피드백]]**: 피드백이 생성되고 전달되고 활용되는 방식에 대한 상위 개념으로, 피드백 루프, [[ai-feedback-quality|피드백 품질]], [[feedback-literacy|피드백 리터러시]]와 그 평가 맥락([[formative-assessment|형성평가]], [[peer-assessment|동료 평가]], [[automated-assessment|자동화 평가]])을 다룹니다.
 - **[[stakeholders|AI 교육의 이해관계자]]**: 행위자가 누구인지에 대한 상위 개념으로, 학습자, [[teacher-role|교수자]], [[learning-design|학습 설계자]], [[administrator|관리자]], [[educational-policy-ai|정책 입안자]]를 다룹니다.
@@ -90,8 +90,8 @@ ai_assist:
 AI가 교수와 학습을 어떻게 지원하는가는 이 분야의 핵심입니다. 주요 개념은 다음과 같습니다.
 
 - **핵심 교수법:** [[pedagogy|교수법과 교수 전략]]은 지식베이스의 교수 방법 커버리지를 총괄하는 상위 개념이며, [[pedagogical-patterns|교육학적 패턴]](그 방법들이 귀결되는 검증된 순서들), [[active-learning|능동적 학습]], [[collaborative-learning|협력 학습]], [[group-work|모둠 활동]], [[project-based-learning|프로젝트 기반 학습]], [[problem-based-learning|문제 기반 학습]], [[productive-failure|생산적 실패]], [[inquiry-based-learning|탐구 기반 학습]], [[experiential-learning|경험 학습]], [[game-based-learning|게임 기반 학습]], [[learning-by-teaching|가르치며 배우기]], [[scaffolding|스캐폴딩]], [[socratic-method|소크라테스식 문답법]], [[critical-pedagogy|비판적 교수법]], [[pedagogical-partnerships|교수 파트너십]], [[storytelling-in-education|스토리텔링]], [[learning-design|학습 설계]], [[online-teaching-and-learning|온라인 교수와 학습]], [[video-education|교육에서의 영상]]이 함께합니다.
-- **학습 이론과 과정:** [[learning-theories|학습 이론]] 상위 개념([[behaviorism|행동주의]], [[cognitive-psychology|인지주의]], [[constructivist|구성주의]], [[sociocultural-learning|사회문화적 접근]], [[distributed-cognition|분산 인지]], [[situated-learning|상황 학습]], [[embodied-learning|체화 학습]], [[community-of-inquiry|탐구 공동체]])이 [[self-regulated-learning|자기조절 학습]], [[self-determination-theory|자기결정이론]], [[motivation|동기]], [[self-efficacy|자기효능감]], [[self-directed-learning|자기주도 학습]], [[metacognition|메타인지]], [[desirable-difficulties|바람직한 어려움]], [[transfer-of-learning|학습 전이]], [[prior-knowledge|선행 지식]], [[icap-framework|ICAP 인지적 참여]], [[reflection|성찰]], [[refutation-text|반박 텍스트]], [[retrieval-spacing-interleaving|인출, 간격, 교차 학습]], [[activity-theory-aied|활동 이론]]처럼 학습자에게 향하는 과정과 나란히 자리합니다.
-- **학습자 참여와 경험:** [[student-engagement|학생 참여]], [[help-seeking|도움 요청]], [[social-emotional-learning|사회정서 학습]], [[well-being|웰빙]], [[creativity|창의성]], [[problem-solving|문제 해결]], [[mastery-learning|완전 학습]], [[student-ai-interaction|학생-AI 상호작용]]은 학습자가 실제로 AI를 어떻게 마주하고 영향을 받는지를 규정합니다. 그리고 [[social-norms-ai-use|AI 활용을 둘러싸고 자리 잡는 사회적 규범]]이 그것을 얼마나 공개적으로 논의할 수 있는지를 결정합니다. 과목 너머에서는 [[student-support-and-success|학생 지원과 성공]]가 제도 쪽의 작업 — 상담, 외연, 의뢰, 그리고 희소한 지원의 배분 — 을 다루며, AI는 거기서 과제 완수는 확실히 움직이지만 지속이나 졸업은 움직이지 않습니다.
+- **학습 이론과 과정:** [[learning-theories|학습 이론]] 상위 개념([[behaviorism|행동주의]], [[cognitive-psychology|인지주의]], [[constructivist|구성주의]], [[sociocultural-learning|사회문화적 접근]], [[distributed-cognition|분산 인지]], [[situated-learning|상황 학습]], [[embodied-learning|체화 학습]], [[community-of-inquiry|탐구 공동체]])이 [[self-regulated-learning|자기조절 학습]], [[self-determination-theory|자기결정이론]], [[motivation|동기]], [[self-efficacy|자기효능감]], [[self-directed-learning|자기주도 학습]], [[metacognition|메타인지]], [[desirable-difficulties|바람직한 어려움]], [[transfer-of-learning|학습 전이]], [[prior-knowledge|선행 지식]], [[icap-framework|ICAP 인지적 참여]], [[reflection|성찰]], [[refutation-text|반박 텍스트]], [[retrieval-spacing-interleaving|인출, 간격, 교차 학습]], [[activity-theory-aied|활동 이론]]처럼 학습자에게 향하는 과정과 나란히 자리합니다. 발달적 틀은 이것들을 가로지릅니다. [[developmental-psychology|발달 심리학]]은 같은 과정이 다섯 살, 열다섯 살, 스물다섯 살에서 왜 다르게 보이는지를 설명합니다.
+- **학습자 참여와 경험:** [[student-engagement|학생 참여]], [[help-seeking|도움 요청]], [[social-emotional-learning|사회정서 학습]], [[well-being|웰빙]], [[creativity|창의성]], [[problem-solving|문제 해결]], [[mastery-learning|완전 학습]], [[student-ai-interaction|학생-AI 상호작용]]은 학습자가 실제로 AI를 어떻게 마주하고 영향을 받는지를 규정하며, [[empathy|공감]]은 흔히 주장되지만 좀처럼 측정되지 않는 정서적 결과입니다. 그리고 [[social-norms-ai-use|AI 활용을 둘러싸고 자리 잡는 사회적 규범]]이 그것을 얼마나 공개적으로 논의할 수 있는지를 결정합니다. 과목 너머에서는 [[student-support-and-success|학생 지원과 성공]]가 제도 쪽의 작업 — 상담, 외연, 의뢰, 그리고 희소한 지원의 배분 — 을 다루며, AI는 거기서 과제 완수는 확실히 움직이지만 지속이나 졸업은 움직이지 않습니다.
 
 ## 기술과 기법
 
@@ -103,13 +103,26 @@ AI가 교수와 학습을 어떻게 지원하는가는 이 분야의 핵심입�
 
 ## 전공 분야에서의 AI
 
-AI는 다양한 전공 분야와 교육 수준에 걸쳐 적용됩니다. 지식베이스의 [[discipline-specific-aied|전공 분야에서의 AIED 개요]]는 교과 영역 커버리지를 정리합니다. 여기에는 가르치는 교과는 아니지만 학습 자체를 연구하고 교과 내용을 여러 변수 중 하나로 취급하는 교차적 연구 분야인 [[learning-sciences|학습과학]]도 함께합니다.
+교과 영역 커버리지는 이 분야에서 가장 큰 부분입니다. [[discipline-specific-aied|학문 분야에서의 AIED]]가 그것을 담고, 그 옆에 [[learning-sciences|학습 과학]]이 있습니다. 후자는 가르치는 교과는 아니지만 학습 자체를 연구하고 교과 내용을 여러 변수 중 하나로 취급하는 교차적 연구 분야입니다. 교과 페이지는 네 개의 군집으로 조직됩니다:
 
-- **교과 영역:** [[math-education|수학]], [[statistics-and-data-science-education|통계 및 데이터 과학]], [[physics-education|물리]], [[chemistry-education|화학]], [[biology-education|생물]], [[cs-education|컴퓨터 과학]], [[engineering-education|공학]], [[stem-education|STEM]], [[writing-education|글쓰기]], [[reading-education|읽기 교육]], [[language-learning|언어 학습]], [[english-education|영어 교육(EAP/EFL/ESL)]], [[libraries|도서관 및 정보 과학]], [[science-education|과학교육]], [[environmental-education|환경 교육]], [[business-education|경영, 경제, 관리]], [[humanities-education|인문학과 사회과학]], [[civic-and-political-education|시민 및 정치 교육]], [[arts-and-media-education|예술, 디자인, 미디어 교육]], [[medical-education|의학 및 보건 전문직]], [[legal-education|법학 교육]], 그리고 전문·응용 갈래인 [[nursing-education|간호]], [[information-technology|정보 기술]], [[vocational-education|직업 교육과 훈련]], [[design-education|디자인 교육]]입니다.
+- **인문학과 예술:** [[humanities-education|인문학 교육]], [[arts-and-media-education|예술 및 미디어 교육]], [[music-education|음악 교육]], [[writing-education|글쓰기 교육]], [[reading-education|읽기 교육]], [[language-learning|언어 학습]], [[english-education|영어 교육(EAP/EFL/ESL)]].
+- **사회과학:** [[social-sciences-education|사회과학 교육]], [[civic-and-political-education|시민 및 정치 교육]], [[business-education|경영, 경제, 관리]], [[environmental-education|환경 교육]].
+- **STEM:** [[stem-education|STEM 교육]], [[science-education|과학교육]], [[math-education|수학]], [[statistics-and-data-science-education|통계 및 데이터 과학]], [[physics-education|물리]], [[chemistry-education|화학]], [[biology-education|생물]], [[cs-education|컴퓨터 과학]], [[engineering-education|공학]], [[information-technology|정보 기술]].
+- **전문직:** [[professions-education|전문직 교육]], [[medical-education|의학 및 보건 전문직]], [[nursing-education|간호]], [[legal-education|법학 교육]], [[teacher-education|교사 교육]], [[design-education|디자인 교육]], [[libraries|도서관 및 정보 과학]].
+
+한 교과가 어느 군집에 속하는지는 어느 페이지가 그 증거를 소유하는지도 결정합니다. [[vocational-education|직업 교육과 훈련]]은 학문 분야보다 자격 경로를 지칭하므로 이곳이 아니라 교육 수준 아래에 분류됩니다.
 
 ## 수준과 맥락
 
-같은 AI 도구가 아주 다른 환경을 만납니다. 그래서 지식베이스는 교육 수준과 교수법을 분리합니다. 연구 결과가 어느 한쪽에서 다른 쪽으로 조용히 전이되지 않도록 하기 위해서입니다. [[k-12|K-12 학교]], [[early-childhood-elementary-ai-education|유아 및 초등 교육]], [[higher-ed|고등 교육]], [[adult-learning|성인 학습]], [[vocational-education|직업 교육과 훈련]], [[special-education|특수 교육]], [[teacher-education|교사 교육]]입니다. 수준을 가로지르는 인접 개념으로는 [[universal-design-for-learning|보편적 학습 설계]], [[neurodiversity|신경다양성]], [[multilingual-learning|다언어 학습]], [[social-emotional-learning|사회정서 학습]]이 있습니다.
+같은 AI 도구가 아주 다른 환경을 만납니다. 그래서 교육 수준은 교수법과 분리해 두어, 연구 결과가 어느 한쪽에서 다른 쪽으로 조용히 전이되지 않도록 합니다. [[k-12|K-12 학교]]는 이제 [[early-childhood-elementary-ai-education|유아기]], [[primary-education|초등 교육]], [[secondary-education|중등 교육]]으로 나뉘고, [[higher-ed|고등 교육]]은 [[undergraduate-education|학부]]와 [[graduate-education|대학원]] 과정으로 나뉩니다. 그 사다리 밖의 환경으로는 [[adult-learning|성인 학습]], [[vocational-education|직업 교육과 훈련]], [[special-education|특수 교육]], [[teacher-education|교사 교육]]이 있습니다. [[education-levels|교육 수준]]은 그것들을 비교합니다. 수준을 가로지르는 영역 인접 개념으로는 [[universal-design-for-learning|보편적 학습 설계]], [[neurodiversity|신경다양성]], [[multilingual-learning|다언어 학습]], [[social-emotional-learning|사회정서 학습]]이 있습니다.
+
+## 같은 도구, 반대의 설계 선택
+
+교육 수준은 설계 권고를 가장 깔끔하게 뒤집는 변수입니다. 중등 증거는 교사를 학생과 도구 사이에 놓습니다. 33개 연구에 걸쳐, 학생들이 산출물을 비교한 곳에서 이득이 나타났고 도구가 작업을 대신한 곳에서는 사라졌습니다([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca 등(2026)]]).
+
+대학원 증거는 반대 방향, 즉 책임을 지는 인간과의 파트너십을 가리킵니다. 준비도 촉진 요인은 도구 사용이 아니라 지도 교수의 지원을 통해 연구 [[self-efficacy|자기효능감]]에 도달했습니다(β = 0.201 간접).([[luo-ai-readiness-graduate-research-self-efficacy-2026|Luo 등(2026)]]) 박사 과정 고찰은 윤리에서 같은 설계 결론에 도달합니다. 정당성은 도구가 아니라 과제에 달려 있고, 공개는 지적 중요성에 비례하며, 거버넌스는 마일스톤에서 검토됩니다([[guanilo-pareja-genai-doctoral-supervision-2026|Guanilo Pareja 등(2026)]]).
+
+변하지 않는 것은 인간이 판단을 쥔다는 점입니다. 대학원 세미나 학생들은 지식 있는 문지기가 확인한 뒤에야 AI 산출물을 받아들였고, Chen은 이를 항복된 주체성이 아니라 위임된 주체성으로 읽습니다([[chen-genai-self-directed-learning-graduate-seminar-2026|Chen (2026)]]). 빈도는 수준을 가로지르는 잘못된 지표입니다. 윤리와 자기조절이 모형에 들어오자 빈도는 대학원 역량을 β = 0.030으로 예측했습니다([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova 등(2026)]]).
 
 ## 평가와 측정
 
@@ -122,7 +135,7 @@ AI는 학습자를 평가하는 방식과 AI 시스템 자체를 평가하는 �
 
 AI가 효과가 있는지 우리가 어떻게 아는가는 그 자체로 하나의 갈래이며, 지식베이스도 그렇게 다룹니다.
 
-- **연구 방법:** 상위 개념은 [[research-methods-aied|AIED 연구 방법]]이며, [[qualitative-research|질적]], [[quantitative-research|양적]], [[mixed-methods-research|혼합 방법]], [[design-based-research|설계 기반]], [[usability-research|사용성]] 접근과 함께 [[rct|무작위 대조 시험]], [[meta-analysis-systematic-review|메타분석과 체계적 문헌고찰]], [[network-analysis|네트워크 분석]]이 있습니다.
+- **연구 방법:** 상위 개념은 [[research-methods-aied|AIED 연구 방법]]이며, [[qualitative-research|질적]], [[quantitative-research|양적]], [[mixed-methods-research|혼합 방법]], [[design-based-research|설계 기반]], [[usability-research|사용성]], [[longitudinal-research|종단적]] 접근과 함께 [[rct|무작위 대조 시험]], [[meta-analysis-systematic-review|메타분석과 체계적 문헌고찰]], [[network-analysis|네트워크 분석]]이 있습니다.
 
 이 분야의 연구 작업 자체가 이제 하나의 주제가 되었습니다. [[ai-assisted-educational-research|AI 지원 교육 연구]]는 문헌 검색, 스크리닝, 질적 코딩, 분석, 글쓰기에 이르기까지 도구로서 사용되는 AI를 다루며, 교수학술(scholarship of teaching and learning)과 같은 실천자 연구도 포함합니다. 이것은 AI가 학습자에게 무엇을 하는지를 연구하는 데 쓰이는 설계와는 구별됩니다.
 
@@ -182,6 +195,11 @@ AI가 효과가 있는지 우리가 어떻게 아는가는 그 자체로 하나�
 
 ## 연결된 개념
 
+- [[primary-education]] — 초등 교육에서의 AI
+- [[secondary-education]] — 중등 교육에서의 AI
+- [[undergraduate-education]] — 학부 과정에서의 AI
+- [[graduate-education]] — 대학원 과정에서의 AI
+
 - [[ai-literacy]] — AI를 이해하고, 사용하고, 평가하기 위한 상위 개념
 
 - [[automation-bias]] — 독자 측 실패: 자동화된 판단을 받아들이는 것
@@ -228,3 +246,8 @@ AI가 효과가 있는지 우리가 어떻게 아는가는 그 자체로 하나�
 - [[genai-higher-education-systematic-review-2026]] — Generative AI in higher education: systematic review of 125 studies
 - [[stanford-evidence-base-ai-k12-2026]] — The evidence base on AI in K-12: a review of 818 papers
 - [[genai-educational-outcomes-meta-analysis]] — Generative AI and educational outcomes: comprehensive meta-analysis
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 2차 연구 33편: 학생이 결과물을 판단하는 곳에서 이득이 나타나고, 도구가 작업을 대신하는 곳에서는 나타나지 않음
+- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 석사 과정 학생 425명: 준비도는 지도교수 지원을 통해 자기효능감에 도달
+- [[guanilo-pareja-genai-doctoral-supervision-2026]] — 박사 지도의 윤리·피드백·거버넌스에 관한 61개 출처 검토
+- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — 단일 집단 대학원 세미나: 비계 없는 시험 없이도 자기주도 학습 이득
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 학생 381명: 윤리와 자기조절에서 학부–대학원 격차

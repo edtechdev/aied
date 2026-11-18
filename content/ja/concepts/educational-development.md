@@ -2,7 +2,7 @@
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
 title: 教育開発
 created: "2026-10-10T22:31:17-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 connected_faqs: [ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role, teacher-ai-competency]
@@ -11,13 +11,17 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/educational-development
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-17T18:50:00-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
-    date: "2026-10-10"
+    date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -46,9 +50,15 @@ ai_assist:
 - **カリキュラムへの統合:** [[institutional-change-framework-ai|制度変更の枠組み]]と[[ai-assessment-scale-reform|評価の改革]]は、教員が AI ツールを付け加えるだけでなく、コースを再設計することを求めます。
 - **訓練プログラム:** [[crewscaler-ai-upskilling-framework|AI スキル向上の枠組み]]と[[ai-tpack-preservice-math-teachers|TPACK ベースの養成課程の訓練]]は、構造化された教員の[[ai-education|AI教育]]のためのモデルを提供します。
 
+- **需要は、ニーズ評価ではありません。**ケベックのCEGEPの教師345人は、技術的な理解で最も低い得点(5点中2.706)でありながら、専門分野に固有の実践的な応用を求め、以前のセッションを一般論すぎると評しました([[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachiniら(2026)]])。
+
 - **AI を介した専門職的な省察。** 省察の三角形モデルは、専門職学習共同体の中で、AI を[[reflection|自己省察]]、協働的な省察、共同体の省察にわたる認知的媒介者として位置づけます。6人の教師による4週間の実現可能性事例で検証され、それが引く境界は、個人の洞察が自動的に共有された専門的知識になるわけではないということです（[[reflective-triangle-model-teacher-ai-2026|Nguyen（2026）]]）。
 - **[[governance]]と方針:** [[genai-policies-higher-ed-computing|制度の AI 方針の分析]]は、制度の抱負と教員支援の能力の間の隔たりを記録しています。
 - **AI リテラシーは制度的に見えない。** 語学教師の AI リテラシーに関する32件の研究の[[meta-analysis-systematic-review|システマティックレビュー]]は、それが業務量モデル、昇進の方針、資源配分から欠落していることを見出しました。開発は分断され、説明責任は機関と機関を越えて移され——したがって、リテラシーの開発は構造的な支援ではなく個人の努力に既定値として委ねられています（[[governing-unseen-ai-literacy-language-teachers-2026|Deng, Çelik & Duran（2026）]]）。
+
+- **構成主義的なワークショップには地図が要ります。**50分の3つのセッションで、20人から25人の教員が遊び的なプロンプトから再利用可能な教材へと移りましたが、AIに不慣れな参加者は砂場の前に概念的な説明を求めました([[fischer-learning-by-making-faculty-development-2026|Fischer (2026)]])。
+
+国境を越えた開発には、ワークショップを超えた分析の単位があります。[[tian-transnational-faculty-development-governance-2027|Tian, Sun and Wang (2026)]]は、接続が既定では断続的であると論じます。ウェビナーは議題を定めずに配布し、プラットフォームは利用についての合意を生まずに場所を提供するからです。出来事を蓄積されたインフラへと変えるのは、地味なものです。リズムを保つ事務局、議題と事例の日付のある記録、そしてネットワークが主張できる地位ではなく進む方向として扱われる共有されたガバナンスです。
 
 ### 教育開発におけるメタファーと共有された言葉
 
@@ -89,15 +99,21 @@ AI の専門職的な開発を計画する教員開発者、学術的な指導�
 **インフラへの投資と変容を等しく見なさない。** 125件の研究にわたって、生成AIのインフラと教育開発への制度的投資は、実際の教育的な変化とわずかしか相関しませんでした（r = 0.12）。一方、60〜70%の教員は生成AIを統合する準備ができていないと感じていました——これは、調達ではなく開発が束縛的な制約であることを意味します。([[genai-higher-education-systematic-review-2026|Rathnayake（2026）]]）
 **失敗の様態を名指し、効果量だけを名指ししない。** [[fajardo-ramos-teacher-education-ai-agenda-2026|Fajardo-Ramos, Chiappe & Martínez-Pérez（2026）]]はそれを模擬的な革新と呼びます。ツールの存在が進歩を示し、教授と評価の形式はそのまま残り、採用率と[[visualization|ダッシュボード]]が学習の代わりに立ち、技術のリリースサイクルが方向を定めるのです。彼らの診断は、開発プログラムに、採用の前に各ツールを名指された学習問題に照らして正当化することを求めます。
 
+判断は、能力の項目としてよりも条件として扱うほうがよいものです。[[ji-judgement-space-dialogic-inquiry-2027|Ji and Mercer (2026)]]は、判断の空間を、専門的な判断が言葉にされ検討される関係的・規範的・条件的な相互作用として描写し、AIに支援された場面では、生成された評価がそこに入るため、その空間は三者間になります。彼らの3列の監査は、教師が何をし、学生が何をし、AIがどう位置づけられるかを問い、判断がどこで静かに道具へ移ったかを見つけるための同僚的な道具です。
+
 **ツールの採用ではなくカリキュラムの再設計に向けて築く。** 目標は、AI ツールを付け加えるのではなく、教員がコースと評価を再設計することです。専門職的な開発を、コース水準の再設計の仕事と評価の改革に根ざさせ、教員にそのための構造化された枠組みを与える（例:[[ai-assessment-scale-reform|評価尺度]]、[[institutional-change-framework-ai|制度変更の枠組み]]）。([[institutional-change-framework-ai]])([[ai-assessment-scale-reform]])
 
 **個人ではなく共同体を召集する。** インタビューされた12人の学者と17人の学生にわたって、生成AI時代の評価の再設計は、どの単一の学者の能力も超えていました——融通のきかないプロセス、長い準備期間、業務量の負担が挙げられました——そこで著者らは、評価設計、生成AI、教科内容、プログラム、産業の専門性を組み合わせるプログラム全体のチームを提案します（[[nicola-richmond-programwide-assessment-genai-2025|Nicola-Richmond ら（2025）]]）。
+
+開発の単位は、学科より小さく、個人より大きくできます。[[chen-future-faculty-development-ai-2027|Chenら(2026)]]は7つの教師の役割を提示しますが、それらが1人の学者に収まる必要はないと主張します。人間中心の教育者と専門分野の専門家は普遍的な基盤であり、学習の設計、評価の再設計、技術的な能力、倫理的なスチュワードシップ、統制のとれた実験は、教授チームに分配できます。彼らの条件は、全員が基礎的な技術的・倫理的な能力を保つことであり、共有された専門性が共有された無知にならないようにすることです。
 
 **輸入された最良の実践ではなく、その場のデータで連続講義を行う。** [[physics-faculty-learning-community-ai-2026|Perl-Nussbaum & Finkelstein（2026）]]は、大規模な公立 R1 物理学部からの実践されたモデルを記録しています。すなわち、60〜75分の6回の隔週セッションで、連続講義全体で19人の教員が参加し、どの回も約10人が出席し、毎回のセッションが地域のデータや学科由来の資料で始まり、本当の匿名化された学生の宿題に対する AI の小集団による試験に移り、集団的な議論で閉じました。試験して見出したことは、進行役が輸入できたどのパッケージよりも有用でした——AI は試したすべての問題を解きましたが、実際の学生の作業についてのそのフィードバックは、明示的な目標とルーブリックが与えられなければ不均一で、プロンプトに依存し、表面的に留まり、学生は生産的な利用が模範示されなければ浅い問いを投げかけ表面的に出力を修正しました。最初の具体的な産出は、5つの項目からなる生きたリポジトリでした——シラバスの方針記述、教室での議論の資料、学生の調査、AI 統合の宿題課題、評価の構造——著者らがセッションの構造そのものを、それが届けたどんな内容よりも論証として扱うのはそのためです。
 
 **能力の枠組みに錨を下ろす。** 開発はまた、**教育学的な[[prompt-engineering|プロンプトリテラシー]]**——教育学的な意図をプロンプトに符号化する能力——を築くべきです。なぜなら[[talebzadeh-ai-group-activity-roles-2026|Talebzadeh（2026）]]は、教師の AI 支援の設計の仕事の質を決めるのは AI の流暢さではなく教育学的な専門性であることを見出しているからです。([[crewscaler-ai-upskilling-framework]])([[ai-tpack-preservice-math-teachers]])([[talebzadeh-ai-group-activity-roles-2026]])
 
 **自動化の前に理解を順序づける。** 2022年11月から2025年4月の間に、生成AIについて構成的な整合について実践者に助言した灰色文献14本の[[qualitative-research|批判的な言説分析]]は、能力がツールへのアクセスに先立たなければならないことを見出しています。すなわち、[[constructivist]]の枠組みでは関与の質が理解の質に先立ち、リスクは親しみと反比例して増大し、初心者は、もっともらしく見えるが教育学的に薄い出力の、もっともらしさに駆動された受容に最も晒されています。[[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes ら（2026）]]はさらに、開発部門は技術主義的な任務に抵抗すべきだと論じます。すなわち、教員が[[learning-design|コース設計]]の「重い持ち上げ」をするツールにおいて「流暢さを獲得する」のを助けるという捉え方です。なぜなら、その捉え方は開発者を閉じた教育者と生成AIのループの外に締め出し、価値に導かれた関係的な開発を、ソフトウェア採用のための媒介のメカニズムとして描き直してしまうからです。擁護可能な代替案は、教育開発者を、問いを投げかけ、過剰評価と過小評価に印をつけ、代替案を生成するが完成した人工物は決して作らない、制度的に境界づけられた[[rag|検索拡張]]の整合アシスタントの管理者と規則制定者として保ちます。そして、認定とプログラムを越えた問題についての[[human-in-the-loop-ai|人間の判断]]への申し送りを、例外ではなく機能として扱います。
+
+開発は、不変の中核と動く縁を軸に組織することもできます。[[ho-invariant-core-faculty-development-2027|Ho (2026)]]は、学習の神経心理学的な機構をあらゆる技術より前に置き、生成AIが成果物と思考の間の距離を縮めると論じ、教員が証拠、省察、同僚の検討のもとで自分の教授を探究する学術的教授の道筋を導き出します。彼の優先順位はそれに従います。学習がどう働くかを深め、次に教師が小さな道具を自分で作れるようにし、技術の縁は動くものと予想される部分として扱うのです。
 
 **恐怖と心的モデルを明るみに出して対処する。** 教授を再設計する前に、メタファー分析のワークショップ（[[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson & Casey 2025]]）を用いて、チームの生成AIについての想定と不安——それが教える役割を置き換えるという恐怖を含む——を明るみに出し、それらを無視するのではなく応答する開発を築く。([[fear-awe-genai-metaphor-workshops-2025]])
 
@@ -109,12 +125,24 @@ AI の専門職的な開発を計画する教員開発者、学術的な指導�
 
 **関与の感情ではなく出席を測定する。** 64人の大学教師のための6か月の Intelligent-TPACK プログラムでは、出席率は AI 能力の伸びを予測しました（β = .407, p = .001）が、自己知覚された参加は予測しませんでした（β = .049, p = .692）。著者らはこれを、表面的な関与に対する具体的な行動的な投資として読みます（[[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling（2025）]]）。このプログラムはオンライン講義を3回の対面ワークショップと対にし、次に教師に自分の教授設計を改訂し、翌学期に実施することを求め、著者らは意味のあるインセンティブと並んで出席を人事考課に結びつけることを勧めています。
 
+参加と実質は逆向きに動きうるものであり、その理由は動機ではなく構造にあります。[[jiang-faculty-development-japan-2027|Jiang, Wang and Taguchi (2026)]]は、日本の参加が2023年に大学の32.7%へ上昇する一方、アクティブラーニングのワークショップ、同僚の授業観察、同僚の検討が横ばいか低下したことを跡づけ、制約を、学術開発における継続的な専門職の役割の不在に位置づけます。ローテーション、兼務、有期契約が、同僚的な形式が依存する継続性を断ち切るため、報告すべき指標は人数と並べて形式の構成です。
+
 **教員自身が報告するものを基準にする。** [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie（2026）]]の1,057人のアメリカの教員を対象とした調査は、プログラム設計者が直接測定できる仕方で制度的な層が薄いことを見出しています。59%が自分の学校は生成AIを将来に備えた学生の育成に効果的に使う準備ができていないと判断し、68%はそれが教えることと指導のためにそれを使う教員の準備を整えていないと述べました。一方、構造的な対応は、55%の機関で特別委員会にまで及びましたが、AI リテラシーを一般教育の学習成果とするのは13%だけでした。教員は方策を待ちませんでした——87%が自分自身の課題水準の規則を作成し、制度の規則を指摘できたのは48%でした——そして彼らは、学科内の採用の障害として、命令ではなく、同僚の抵抗（82%）と不慣れ（83%）を挙げました。開発プログラムにとって、これは、同僚の規範、共有された課題水準の方策の言葉、制度的な準備の明示的な測度を、介入の一部として扱い、方針文書に委ねないことを論じます。
 
 **教師の応答は態度ではなく権力の中心を映す。** 33人の作文の教師の器械的な事例研究では、4つの多中心的な権力の中心——世界的な生成AIの趨勢、大学／学科、同僚、学生——が実践を形作り、言説の力が限られた兼任の教師は、検出から許容できる利用の教授へと移行しました（[[zuo-instructor-power-genai-writing-2026|Zuo ら（2026）]]）。
 
 - **六つの専門能力開発の類型、よく証拠づけられた三つ、そして明快な勝者。** AIに支えられた教授設計に関する78研究のレビューは、記録されたPDを、コンパクトに埋め込まれたモジュール(2〜4週間)、学期全体のマイクロラーニング、課題ベースの設計サイクル、協働的な対話ベースの質問の連鎖、批判的な共同発見、[[self-directed-learning|自己主導]]の実務家の学習に整理します。成果の証拠が最も強いのは**コンパクトに埋め込まれたモジュール**です。3週間のモジュールは六つのIntelligent-TPACK領域すべてにわたって統計的に有意な伸びを中程度から大きな効果量で生み、**436名の養成前教師と対照条件**を伴う4週間のプログラムは、コーパスの中で最も強い統制された評価です([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]])。
 - **三つの設計上の特徴が、最もよく証拠づけられた介入を分ける。** 倫理を**すべての課題にチェックポイントを置く[[retrieval-spacing-interleaving|分散的な実践]]**として埋め込むこと(独立したセッションではない)。授業計画、決定のログ、マイクロティーチングを用いた**パフォーマンスに基づくコンピテンシー評価**(自己申告の信頼性の低さに直接動機づけられる)。そして省察的で教授学的に根拠づけられた実践として発達させるプロンプトエンジニアリング。導入は成果と同じ梃子ではありません。北スマトラの200名の教師を通じて、AIの利用は教師の成果に直接の効果を持たず(β = 0.112、p = .087)、組織市民行動がそれを間接的に担いました。したがって、協働的で役割外の利用を狙う教員開発の仕事が、証拠が支持する版です([[ai-use-teacher-performance-north-sumatra-2026|Sherly et al. (2027)]])。併走する2週間の研究は、知識と自信の急速な伸びを見出しながら、バイアス検出を最も弱い新興のコンピテンシーとして同定しました。このギャップはより長いモジュールにも持続し、倫理的な知覚の能力が技術的な親しみよりもゆっくり発達することと一致します。
+
+**規模は記録されているが、教室での変化は記録されていない。**[[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbayら]]は105人の化学教師を6週間のプログラムで追跡し、[[ma-ai-corpus-language-teaching-coi-2026|Maら]]は28カ国から150人以上の語学教師を集めた20週間のオンラインプログラムを実施しました。[[white-scandinavian-teachers-genai-attitudes-2026|Whiteら]]は、生成的AIの専門性開発を受けたスカンディナビアの教師2,159人の間で、知覚された便益の0.20 SDの伸びを測定しました。各研究は、開発が教育者の報告するものを動かすことを示していますが、どの研究も教室に入って学生が何を違えて行ったかを測ってはいません。
+
+**教育者が求めるものは、訓練よりも徒弟制に似ています。**地区の研究では、22人の教師が、教室の制約を理解した元教師が届ける開発、道具がいつ役立つかについての1枚の手引き、そしてどちらかを使うための計画の時間を求めました([[dangol-relief-or-displacement-teachers-generative-ai-2026|Dangolら]])。一方、機関は能力を買うのではなく築くことを選んでおり、戦略に労働力の技能を含める機関のうち69%が、既存の職員と教員のスキル向上を進めています([[robert-educause-impact-ai-work-higher-education-2026|EDUCAUSE, 2026]])。
+
+**開発の不在は、目に見える結果を伴う方策上の選択です。**[[rameskumar-shadow-ai-legitimized-higher-education-2027|Rameskumarら]]は、指針が届かなかったため自分で規則を作った20人の教育者にインタビューし、[[bodek-prompted-to-explore-microlearning-2026|Bodek]]は、教員が実際に持つ時間に合わせて作られたマイクロラーニングのモデルを描写します。開発を単発の出来事ではなく、制度的支援の繰り返される層として扱うプログラムは、その違いを報告しています([[aalhe-capacity-disposition-genai-assessment-2026|AALHE]])。
+
+**場面は開発の形を変えるが、その必要性は変えない。**医学教育では、AIレジデンシーが教員開発と共同学習を付加物ではなく機構として扱います([[bursic-ai-residency-education-curriculum-2026|Bursicら]])。幼児期の86の資料のレビューは、教育者の開発を4つのテーマのひとつとして同定します([[early-childhood-ai-holistic-competencies-review-2026|そのレビュー]])。CTEの刷新は、カリキュラムの変更が能力の隔たりを露わにしたときに教員開発に手を伸ばします([[wang-legacy-curriculum-ai-cte-renewal-2026|Wang]])。そして146人の教師の間で、専門性開発への関与が、動機づけと意図された生成的AI利用の結びつきを媒介しました([[yuan-teacher-need-satisfaction-genai-2026|Yuanら]])。
+
+コホート・モデルの実例は、ある大学図書館から来ます。[[jordan-faculty-ai-oer-creation-2025|Jordanら(2025)]]は、教員7人に謝金を支払って8週間のプログラムを実施し、4週間の講義、独立したプロジェクトの開発、同僚からのフィードバックを組み合わせ、Knowlesの成人学習の原理とCLEARプロンプトの枠組みに基礎づけました。伸びはAIへの親しみでは控えめで、OERへの親しみではより大きく、著者らは謝金と、非常勤の教員が報酬を得られるようにした労働協約を、管理ではなく介入の一部として扱っています。
 
 ## よくある誤解
 
@@ -145,7 +173,8 @@ AI の専門職的な開発を計画する教員開発者、学術的な指導�
 - [[stakeholders]] — 傘:AI 教育における人々と聴衆（学習者、教師、設計者、管理者、政策立案者）
 
 ## 関連する記事
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — 生成AIの整合についての助言の批判的な言説分析:技術の訓練者として描き直される開発者
+
+- [[jordan-faculty-ai-oer-creation-2025]] — プロンプトから実践へ:AI支援のOER作成を探る教員中心の取り組み(Jordanら 2025) - [[mcinnes-salvaging-constructive-alignment-genai-2026]] — 生成的AIの整合についての助言の批判的談話分析:開発者は技術の訓練者へと描き直される
 - [[crompton-faculty-technology-integration-standards-2026]] — 技術統合のための教員の基準（DBR）
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — AI の倫理的な次元:教員と学生の見解
 - [[nicola-richmond-programwide-assessment-genai-2025]]
@@ -176,7 +205,23 @@ AI の専門職的な開発を計画する教員開発者、学術的な指導�
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — AAC&U/Elon の1,057人のアメリカの教員の調査:制度的な準備不足、薄いガバナンス、87%/48%の方策の隔たり（Watson & Rainie 2026）
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — グローバル・サウスの高等教育におけるデジタルな媒介者としての学問開発者:社会技術的な実践としての開発
 - [[physics-faculty-learning-community-ai-2026]] — 不確実な時代における AI の効果的な利用のためのワークショップ連続講義:物理学の教員学習共同体を築く
-
 - [[faculty-ai-well-being-social-supports-2026]] — 教員の AI の安寧は技術的な自己効力感ではなく AI リテラシーを追う
 - [[ai-competence-framework-landscape-2026]] — 採用する前に、フレームワークの水準が何を説明しているかを確認する
 - [[fajardo-ramos-teacher-education-ai-agenda-2026]] — 教育はAIの議題を設定できるのか。教員教育における模擬的な革新と教育学的な方向づけ
+- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 6週間のプログラムに参加した化学教師105人
+- [[ma-ai-corpus-language-teaching-coi-2026]] — 28カ国から150人以上の語学教師が20週間にわたって参加
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — スカンディナビアの教師2,159人:知覚された便益に0.20 SDの伸び
+- [[yuan-teacher-need-satisfaction-genai-2026]] — 生成的AIの学習プログラムを受けた教師146人。欲求が関与を媒介する
+- [[bodek-prompted-to-explore-microlearning-2026]] — 生成的AIのためのマイクロラーニング型の教員開発モデル
+- [[bursic-ai-residency-education-curriculum-2026]] — 医学教育におけるAIレジデンシー
+- [[early-childhood-ai-holistic-competencies-review-2026]] — 86の資料:4つのテーマのひとつとしての教育者の開発
+- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 元教師が導く開発を求めた教師22人
+- [[robert-educause-impact-ai-work-higher-education-2026]] — 既存の職員と教員のスキル向上を進める69%
+- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 指針が不在のところでシャドウAIを正当化した教育者20人
+- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — 能力の隔たりが教員開発と採用の決定を駆動する
+- [[aalhe-capacity-disposition-genai-assessment-2026]] — 5つの支援の層のひとつとしての反復される開発
+- [[chen-future-faculty-development-ai-2027]] — 7つの教師の役割、2つの普遍的な基盤、そして開発の単位としての教授チーム
+- [[ji-judgement-space-dialogic-inquiry-2027]] — 判断の空間、対話的な探究、そして判断がどこで道具へ移ったかについての3列の監査
+- [[jiang-faculty-development-japan-2027]] — 日本の二重構造のFD:参加は増えたが同僚的な形式は増えなかった
+- [[tian-transnational-faculty-development-governance-2027]] — 国境を越えた教員開発:接続は断続的で、調整こそが仕事である
+- [[ho-invariant-core-faculty-development-2027]] — 不変の中核、変わる縁:技術より前にある学習の機構

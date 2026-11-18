@@ -10,14 +10,18 @@ audience: [instructors, faculty developers, learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-11-05T21:30:00-05:00"
-updated: "2026-11-08T06:31:30-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -63,9 +67,13 @@ Nastavnici potaknuti da pregledaju izvješće zadatka podigli su dovršetak slje
 U razredima s manje od 44 učenika dobitak je bio najmanje 24,5 postotnih bodova (F = 7,475, p = 0,007); nastavnici s više od 43 učenika već su, potaknuti ili ne, pregledavali izvješća po visokim stopama (77% prema 75%): vjerojatno uvijek-ispitanici bez prostora za pomak.
 Poticaj je stoga najvažniji ondje gdje upotreba izvješća još može rasti.
 
+- Lan i Chen (2026.) predlažu prosudbu nastavničkog autorstva prema podrijetlu: agent se računa kao nastavnikov dvojnik samo ako njegov autoritet proizlazi iz jednog imenovanog nastavnika koji zadržava odgovornost, ako je taj nastavnik preveo prosudbu u preglednu specifikaciju i ako proširuje kapacitet bez premještanja autorstva, dok platformski zadani postavci daju posrednika, a ne dvojnika ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan i Chen, 2026.]]).
+
 ### Metafora orkestracije
 
 Prevladavajuća metafora u bazi znanja jest *orkestracija*: nastavnici koordiniraju ljudske učenike, [[intelligent-tutoring|AI tutore]] i kurikularne resurse. To je u suprotnosti s narativima o zamjeni - umjetna inteligencija proširuje, a ne zamjenjuje ljudsko poučavanje. Empirijski dokazi podupiru to stajalište: PRISMA-vođeni [[meta-analysis-systematic-review|sistematski pregled]] 42 studije (2023-2025) našao je da se LLM-ovi izjednačuju s ljudskim ocjenjivačima na kratkim, dobro strukturiranim zadatcima, ali da izvedba opada na duljem, višejezičnom i nijansiranom radu - zaključujući da LLM-ovi ne mogu u potpunosti zamijeniti nastavnike i da hibridni sustavi procjene s čovjekom u petlji postižu najveću učinkovitost ocjenjivanja ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). Leća orkestracije preokviruje nastavnikovu sržnu vještinu kao *prosudbu*: odlučivanje kada je čovjek, umjetna inteligencija ili osmišljena aktivnost učenja pravi instrument za određenog učenika i trenutak. PRISMA pregled iz 2026. o 29 studija [[teacher-intervention-k12-ai-based-instruction-2026]] izoštrava metaforu u četverofazni ciklus - praćenje, prosudba, intervencija, orkestracija - i pokazuje zašto nijednu fazu ne treba pretpostaviti. Nastavnici su preferirali zajedničku kontrolu, prihvaćajući, mijenjajući, odbijajući ili nadglasavajući prijedloge umjetne inteligencije; neki su namjerno odgađali intervenciju kako bi učenici najprije produktivno zapeli; a nadzorne ploče koje su proširivale svijest mogle su i preopteretiti pažnju ili nadmašiti ono na što jedan nastavnik fizički može djelovati. Njegove tri strategije - pedagoško prevođenje rezultata umjetne inteligencije, dizajn podrške učenju i rekonstrukcija struktura interakcije - opisuju rad kao rekontekstualizaciju, a ne odobravanje, što nastavnika smješta bliže posredniku nego ulozi recenzenta s čovjekom u petlji. Razredno promatranje iste ponašanja imenuje kao tipove. Šest lekcija s iskusnim nastavnikom dodalo je tri tipa orkestracije Drijversovim četirima - praćenje nadzorne ploče, ispravljanje umjetne inteligencije i posredovanje umjetne inteligencije - pri čemu su nastavnikove sadržajne i etičke uloge bile najvidljivije kad je ispravljao povratne informacije koje je generirala umjetna inteligencija ([[teachers-instrumental-orchestration-ai-math-2026|Noh i Kim, 2026]]).
+
+Dirigent je točnija figura od solista. [[chen-future-faculty-development-ai-2027|Chen i sur. (2026.)]] opisuju nastavnika koji koordinira stručnost, a ne isporučuje svu, jer u velikom kolegiju s više odjeljenja jedan ili dva kolega mogu preoblikovati zadatke i rubrike, dok drugi preuzimaju arhitekturu učenja, evaluaciju alata ili prikupljanje dokaza. Njihova raspodjela ima pod: svaki član tima zadržava temeljnu tehničku i etičku kompetenciju, pa se uloga dirigira, a ne prepušta van.
 
 ### Razvojne i kritičke nastavničke uloge
 
@@ -87,6 +95,10 @@ Noviji rad širi metaforu orkestracije u bogatije konceptualizacije uloga:
 - **Postavljač svrha, a ne samo kompetencija.** [[fagerlund-competency-agency-purposes-ai-education-2026|Fagerlund i sur. (2026)]] intervjuirali su 13 finskih nastavnika od predškole do 9. razreda o tome zašto bi učenici trebali učiti o umjetnoj inteligenciji i s njom, čitajući njihove iskaze kroz Biestinu kvalifikaciju, socijalizaciju i subjektifikaciju. Kvalifikacija je bila najjasnija i najkonkretnija svrha, obuhvaćajući umjetnu inteligenciju i kao cilj učenja i kao alat za njega; socijalizacija se pojavila kao njegovanje povoljnih stajališta prema umjetnoj inteligenciji i pripremanje učenika kao budućih radnika vičnih umjetnoj inteligenciji; subjektifikacija, samoodređen i osobno smislen angažman, prihvaćena je kao važna, ali iza nje nije bilo konkretnih nastavnih strategija, nego se oslanjala na „raspravljanje i promišljanje“. Autori predlažu *informiranu djelotvornost u umjetnoj inteligenciji*, sa subjektifikacijom u središtu i kompetencijama kao temeljem, što nastavničkoj ulozi daje dužnost postavljanja svrhe: razjasniti „zašto“ kako bi vještine dobile kontekst umjesto da stoje kao same sebi svrha, i dopuniti tehničke okvire poput [[tpack|TPACK-a]] trajnom pažnjom prema obrazovnoj svrsi.
 - **Usvajanje nije ista poluga kao izvedba.** Kod 200 nastavnika u Sjevernoj Sumatri upotreba umjetne inteligencije nije imala izravan učinak na nastavničku izvedbu (β = 0,112; p = ,087), dok je organizacijsko ponašanje građanstva posredovalo s β = 0,370, pa upravo izvankolegijski, suradnički rad oko alata, a ne sam alat, pretvara upotrebu u izvedbu ([[ai-use-teacher-performance-north-sumatra-2026|Sherly i sur. (2027)]]).
 
+- **Prevoditelj upravljanja u razredne uvjete.** [[socorro-philosophical-leadership-ai-2026|Socorro Márquez, Reyes Ortiz i Torrez Meruvia (2026.)]] sažimaju 137 izvora u ulogu *filozofskog vodstva* s tri faze: etička prosudba prije upotrebe, pedagoško vođenje tijekom nje i prevođenje politike. Ovdje nastavnik nadnacionalne smjernice — privatnost, transparentnost, odgovornost — pretvara u uvjete upita, uvjete procjene i odbijanja koja studenti mogu vidjeti na djelu. Razrađeni primjer pregleda drži osobno identificirajuće podatke izvan upita i modeliranje čini eksplicitnim, a ne najavljenim. Uloga je argumentirana, a ne izmjerena: pregled ne izvješćuje ni o kakvom testu mijenja li filozofsko vodstvo praksu.
+
+- **Ocjenjivanje je mjesto gdje nastavnici upoznaju učenike.** [[wu-lam-genai-writing-assessment-professors-2026|Wu i Lam (2026.)]] izvješćuju da je 5 od 24 profesora ocjenjivanje vidjelo kao način na koji razumiju svoje učenike, pa delegiranje toga umjetnoj inteligenciji uklanja izvor pedagoškog znanja, a ne samo sate.
+
 Te uloge povezuju nastavnički rad s [[distributed-cognition|distribuiranom kognicijom]], [[situated-learning|situiranim učenjem]], [[embodied-learning|utjelovljenim učenjem]] i [[critical-pedagogy|kritičkom pedagogijom]] te preoblikuju nastavnika u dizajnera i etičkog vodiča [[sociocultural-learning|učenja posredovanog]] umjetnom inteligencijom, a ne tek korisnika.
 
 - **Odluke potpomognute umjetnom inteligencijom grupiraju se gdje su dostupni podaci o ponašanju.** [[ai-supported-lecturer-decision-making-2026|Köroğlu i sur. (2026)]] pregledali su 27 empirijskih studija (2016-2025) i identificirali osam vrsta odluka predavača, nalazeći da je podrška umjetne inteligencije koncentrirana na nastavne odluke, odluke o [[feedback|povratnim informacijama]] i [[assessment|procjeni]], dok su odluke o kurikulumu, okruženju učenja, emocijama, etici i administraciji rijetko podržane. Nadzorne ploče [[learning-analytics|analitike učenja]] bile su najčešći sustav, obrađujući tekstualne i zapisničke podatke u bihevioralne pokazatelje izvedbe i angažmana; [[multimodal|multimodalni]] i interakcijski podaci, agentski sustavi te kognitivni, metakognitivni, [[motivation|motivacijski]] i afektivni ishodi bili su razmjerno rijetki u pregledanom korpusu. Praktično čitanje za nastavnike jest da je prostor odluka koji alat umjetne inteligencije otvara omeđen podacima koje prikazuje, pa je odabir alata i izbor o tome koje se nastavne odluke resursno podupiru.
@@ -106,6 +118,8 @@ Dokazi u bazi znanja slijevaju se u skup konkretnih prilagodbi:
 **Zaštitite uvjete za trajno učenje.** Budući da odgovori umjetne inteligencije učenje čine lakim, nastavnici moraju dizajnom suprotstaviti [[cognitive-offloading|jazu između izvedbe i učenja]]. [[lodge-loble-cognitive-offloading-2026|Lodge i Loble]] upozoravaju da beznaporni uspjeh s umjetnom inteligencijom može prikriti odsutnost učenja; nastavnici bi trebali ugraditi [[productive-failure|produktivni napor]], zahtijevati samostalnu demonstraciju ovladanosti i tretirati odgovore potpomognute umjetnom inteligencijom kao polazište, a ne konačni ishod.
 
 **Planirajte za medij izvedbe.** Prilagodba nije neutralna prema mediju: [[online-teaching-and-learning|poučavanje na mreži]] s umjetnom inteligencijom umnožava i prilike (skalabilnu [[personalized-learning|personalizaciju]], podršku stalno dostupnu) i rizike (čestitost, rasterećenje). Osmislite omotač umjetne inteligencije jednako namjerno na mreži kao i u neposrednom kontaktu.([[lopez-pernas-llm-appropriate-student-support-2026]])
+
+**Odgovarajte na temu, a ne na svaku objavu.** Vidljiva prisutnost bila je vanjski čimbenik koji su studenti najviše vrednovali u četiri fokus-grupe s 26 studenata STEM-a, a obrazac koji su opisali bio je nastavnik koji potiče raspravu, traži da studenti odgovore jedni drugima, a zatim odgovori kasnije u tjednu ([[reding-discussion-boards-tam-ai-analytics-2026|Reding, Gartner i Nugent, 2026.]]). Ograničena prisutnost na razini teme bila je dovoljna; odgovaranje na svaku objavu nije bilo ono što je donijelo zaslugu.
 
 ## Ugrađivanje pismenosti o umjetnoj inteligenciji u poučavanje
 
@@ -150,10 +164,26 @@ Nastavnička uloga i [[learner-identity|identitet učenika]] recipročna su lica
 
 - Nastavnička uloga proteže se i na suosmišljavanje izvora učenja s umjetnom inteligencijom: [[simulation|simulacije]] koje su nastavnici suosmislili s umjetnom inteligencijom za STEM nastavu o dronovima zadržale su rezultate generativne umjetne inteligencije pedagoški valjanima i kontekstualno relevantnima, a nastavnici su namijenjeni korisnici Ljestvice pismenosti nastavnika o umjetnoj inteligenciji. Učinkovita integracija generativne umjetne inteligencije sve više ovisi o uključenosti nastavnika u dizajn.
 
+- **Umjetna inteligencija koju su izradili nastavnici pobijedila je centralno osmišljene alate.** Preregistrirani [[rct|RCT]] sa 7.200 studenata u 55 kolegija na 19 sveučilišta utvrdio je 0,32 SD više rezultate na nadziranim ispitima bez umjetne inteligencije kada su nastavnici na prvoj liniji sami osmislili UI podršku ([[li-instructor-designed-ai-rct-2026|Li i sur. (2026.)]]), najjači dosadašnji dokaz da dizajnerski autoritet pripada nastavniku.
+
 ### Sustavi refleksije s umjetnom inteligencijom trebaju se prilagoditi iskustvu nastavnika
 
 - **Analitika refleksije namijenjena nastavnicima treba biti prilagođena ekspertizi, a ne jednaka za sve.** Anketa 100 američkih nastavnika od K-12 (medijalna podjela na devet godina; binomni testovi; 15% razlika u odabiru uočljivo pri oko 83% snage) našla je sustavne razlike u preferencijama. Manje iskusni nastavnici kao glavnu prepreku navode nedostatak vremena za refleksiju tri puta češće od iskusnih (37% prema 12%; p < ,001) i žele analitiku o nezainteresiranosti studenata (48% prema 33%; p = ,028) i emocijama (31% prema 18%; p = ,036).
 - **Pravilo dizajna izvedeno iz te podjele jesu načini preporuke prilagođeni iskustvu.** Iskusni nastavnici žele analitiku o poboljšanom učenju nakon pomoći studentu (40% prema 26%; p = ,019) i o vlastitim nastavnim metodama (42% prema 26%; p = ,012); njihova je glavna prepreka praćenje izvedbe (28% prema 15%; p = ,009). Pravilo dizajna: način za početnike = strukturirani poticaji i analitika angažmana; način za eksperte = fleksibilna longitudinalna analiza - izravan argument protiv jednakih nadzornih ploča. ([[falhs-teacher-expertise-reflection-2025]])
+
+Dva nedavna pokusa stavljaju brojeve na argument o radnom opterećenju i njegove granice. Klaster-randomizirani pokus u 68 engleskih srednjih škola skratio je vrijeme pripreme lekcije s 81,5 na 56,2 minute tjedno, uštedu od 25,3 minute, bez otkrivenog gubitka kvalitete lekcije ([[roy-chatgpt-lesson-preparation-nfer-2024|Roy i sur., 2024.]]). Na ASSISTmentsu su nastavnici koji su dobili LLM sažetke zadataka vidjeli više studenata kako započinju i dovršavaju zadatke, dok se rezultati na razini razreda nisu poboljšali ([[lim-llm-summaries-teachers-rct-2026|Lim i sur., 2026.]]). Vrijeme je ušteđeno i ponašanje promijenjeno; izmjereno učenje nije.
+
+## Implikacije za praksu
+
+Dokazi podupiru određeni redoslijed radnji za nastavnika koji usvaja umjetnu inteligenciju, a ne popis značajki koje treba naučiti.
+
+1. **Napišite aktivnost prije odabira alata.** Odredite cilj, učenički pokušaj koji dolazi prvi i što se računa kao dokaz razumijevanja. Alati odabrani prvi obično prepisuju aktivnost oko sebe.
+2. **Izričito odlučite obrazac delegiranja.** Sami ocrtajte lekciju i pustite umjetnu inteligenciju da popuni sadržajne praznine, umjesto da prihvatite generirani okvir - obrazac s izmjerenom razlikom u kvaliteti opisan gore.
+3. **Smjestite ljudsku kontrolnu točku tamo gdje je vlasništvo.** Dizajnirajte tako da učenik procjenjuje, ispravlja i posjeduje rad potpomognut umjetnom inteligencijom te da povratne informacije umjetne inteligencije stižu kao nacrt koji nastavnik odabire, a ne kao komentar koji prenosi.
+4. **Zaštitite vrijeme za tumačenje koje pomak stvara.** Ako se pažnja pomiče s proizvodnje materijala na čitanje učenika, to preusmjereno vrijeme mora preživjeti susret s kalendarom; ako ga apsorbira novi administrativni rad, obećana promjena uloge ne nastupa.
+5. **Provjerite obučavaju li vas za alate ili za pedagogiju.** S obzirom na rezultat SEM-a, preferirajte profesionalni razvoj koji radi na disciplinarnim zadatcima i identitetu umjesto obilaska značajki.
+
+Autoritet znanja u planiranju potpomognutom umjetnom inteligencijom pregovara se epizodu po epizodu, a ne rješava politikom. Kroz 34 epizode planiranja pet budućih nastavnika matematike autoritet je zadržan u 16, podijeljen u 12 i prepušten u 6; nastavnica koja je zalijepila gotov UI plan lekcije prešla je s konstrukcije na autorizaciju, dok je druga zadržala vlastiti okvir i prilagodila rezultat modela prema njemu ([[pang-epistemic-authority-ai-lesson-planning-2026|Pang i sur. (2026.)]]).
 
 ## Uobičajene zablude
 
@@ -164,16 +194,6 @@ Nastavnička uloga i [[learner-identity|identitet učenika]] recipročna su lica
 **„Nastavnici su već suosmišljivači umjetne inteligencije, pa je tranzicija u tijeku.“** Težnja je stvarna; opis još nije. [[wang-teacher-ai-co-design-review-2026|Sistematski pregled sudizajna nastavnika i umjetne inteligencije u zadatcima učenja Wanga, Liua i Islama (2026)]] nalazi da suradnički stav **ostaje neujednačen**, a prevladavajući je način još uvijek umjetna inteligencija kao pomoćnik ili generator sadržaja. Čitanje tog pregleda kao dokaza dovršenog pomaka prikrilo bi jaz između nastavnika koje stranica poput ove preporučuje i nastavnika koje većina institucija doista ima.
 
 **„Kako nastavnik delegira chatbotu jedva da je važno, jer model obavlja posao.“** Obrazac delegiranja jest intervencija. U planiranju nastave umjetnosti u STEAM-u za djecu, [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo i Tahir (2025)]] eksperimentalno su našli da je popunjavanje sadržajnih praznina u *samostalno ocrtanoj* lekciji sačuvalo nastavnikovu dizajnersku autonomiju i pritom podiglo kvalitetu plana prema ocjeni stručnjaka (medijan 20,5 prema 17,6; p = ,002; velik učinak), nadmašujući alternativu da model sam sastavi okvir. Isti model, isti zadatak, drukčija podjela rada, bitno drukčiji rezultat.
-
-## Praktični početni slijed
-
-Dokazi podupiru određeni redoslijed radnji za nastavnika koji usvaja umjetnu inteligenciju, a ne popis značajki koje treba naučiti.
-
-1. **Napišite aktivnost prije odabira alata.** Odredite cilj, učenički pokušaj koji dolazi prvi i što se računa kao dokaz razumijevanja. Alati odabrani prvi obično prepisuju aktivnost oko sebe.
-2. **Izričito odlučite obrazac delegiranja.** Sami ocrtajte lekciju i pustite umjetnu inteligenciju da popuni sadržajne praznine, umjesto da prihvatite generirani okvir - obrazac s izmjerenom razlikom u kvaliteti opisan gore.
-3. **Smjestite ljudsku kontrolnu točku tamo gdje je vlasništvo.** Dizajnirajte tako da učenik procjenjuje, ispravlja i posjeduje rad potpomognut umjetnom inteligencijom te da povratne informacije umjetne inteligencije stižu kao nacrt koji nastavnik odabire, a ne kao komentar koji prenosi.
-4. **Zaštitite vrijeme za tumačenje koje pomak stvara.** Ako se pažnja pomiče s proizvodnje materijala na čitanje učenika, to preusmjereno vrijeme mora preživjeti susret s kalendarom; ako ga apsorbira novi administrativni rad, obećana promjena uloge ne nastupa.
-5. **Provjerite obučavaju li vas za alate ili za pedagogiju.** S obzirom na rezultat SEM-a, preferirajte profesionalni razvoj koji radi na disciplinarnim zadatcima i identitetu umjesto obilaska značajki.
 
 ## Povezani koncepti
 - [[pedagogical-partnerships]] - Pedagoška partnerstva
@@ -201,16 +221,20 @@ Dokazi podupiru određeni redoslijed radnji za nastavnika koji usvaja umjetnu in
 
 ## Povezani članci
 
+
+- [[cheeseman-human-in-the-loop-humanness-higher-ed-2026]] — Četiri dinamike identiteta, produktivna ambivalencija i institucionalni trošak relacijskog rada
+- [[roy-chatgpt-lesson-preparation-nfer-2024]] — 68 engleskih srednjih škola: priprema lekcije skraćena za 25,3 minute tjedno bez otkrivenog gubitka kvalitete (Roy i sur. 2024)
+- [[lim-llm-summaries-teachers-rct-2026]] — RCT na ASSISTmentsu: UI sažeci podigli su dovršetak zadataka, ali ne i rezultate na razini razreda (Lim i sur. 2026)
 - [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Honorarni akademski djelatnici nose posao čestitosti bez ovlasti
 - [[caeo-navigating-ai-educational-future-scenarios-2026]] — Paradoks više ljudskosti: stručni scenariji za 2030. nalaze da zasićenost umjetnom inteligencijom pojačava, a ne istiskuje ljudski pedagoški rad (Malyn-Smith i sur. 2026)
 - [[teachers-instrumental-orchestration-ai-math-2026]] — Šest promatranih srednjoškolskih lekcija matematike proširuje instrumentalnu orkestraciju trima novim tipovima (Noh i Kim 2026)
 - [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Odgovor na emocionalna upozorenja koja generira umjetna inteligencija: nastavnikova intervencija i angažman učenika u razredu matematike
-
 - [[edustories-classroom-case-studies-2026]] — Edustories: zbirka studija slučaja iz stvarne razredne prakse
 - [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Nastavnici osmišljavaju razredne chatbote kao ograničene stručnjake i zadržavaju autoritet
 - [[dai-genai-frenemy-teaching-autonomy-2026]] — Generativna umjetna inteligencija kao „frenemy“: nastavnici preferiraju poluautonomiju, korisnost pokreće usvajanje, averzija prema riziku usmjerena je na upotrebu studenata (Dai i sur. 2026)
 - [[ai-supported-lecturer-decision-making-2026]] — Odlučivanje predavača potpomognuto umjetnom inteligencijom u visokom obrazovanju
 - [[chirikov-regulate-ai-syllabi-2026]] — Kako nastavnici reguliraju umjetnu inteligenciju u više od 31.000 silabusa; regulacija na razini zadatka (Chirikov 2026)
+- [[socorro-philosophical-leadership-ai-2026]] — Filozofsko vodstvo kao trofazna nastavnička uloga: etička prosudba, pedagoško vođenje, prevođenje politike (Socorro Márquez i sur. 2026)
 - [[ai-teaching-innovation-ai-tpack-2026]] — Ponašanje inovacije poučavanja s umjetnom inteligencijom među sveučilišnim nastavnicima (AI-TPACK SEM; Bai i Hsieh 2026)
 - [[teacher-ai-teaming-five-levels]]
 - [[teacher-student-agency-orchestration]]
@@ -238,7 +262,6 @@ Dokazi podupiru određeni redoslijed radnji za nastavnika koji usvaja umjetnu in
 - [[where-ai-enters-teacher-work-2026]] — Gdje umjetna inteligencija ulazi u nastavnički rad
 - [[rodrigues-aied-unplugged-numeracy-2026]] — AIED bez struje: nastavnik kao posrednik između učenika i umjetne inteligencije, kvazieksperiment u 19 razreda gdje dobitke pokreću obuka i neizravno smanjenje truda (Rodrigues i sur. 2026)
 - [[instructional-governance-design-computing-education-2026]] — Nastavno upravljanje kroz dizajn: okvir za umjetnu inteligenciju u računalnom obrazovanju
-
 - [[teachers-configure-educational-chatbots-2026]] — Hoće li poučavati kako je namijenjeno? Kako nastavnici konfiguriraju obrazovne AI chatbote
 - [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Nastavničko posredovanje u matematici: pet praksi kritičkog posredovanja, pomicanje autoriteta i algoritamski jaz između besplatne i premijske verzije
 - [[charles-teacher-readiness-by-design-ai-rich-2026]] — Nastavnička spremnost kroz dizajn: spremnost kao dizajnerska sposobnost, a ne usvajanje ili samopouzdanje (Charles 2026)
@@ -250,3 +273,8 @@ Dokazi podupiru određeni redoslijed radnji za nastavnika koji usvaja umjetnu in
 - [[falhs-teacher-expertise-reflection-2025]] — Kako razine ekspertize oblikuju preferencije i potrebe za refleksijom: prema sustavima refleksije s umjetnom inteligencijom za osnaživanje nastavnika (Falhs i sur. 2025)
 - [[etq-ai-conversational-teacher-training-2026]] — Dijagnostika konverzacijske umjetne inteligencije za nastavne zablude uz dijalog utemeljen na dokazima (Miranda i Calvani 2026)
 - [[ai-use-teacher-performance-north-sumatra-2026]] — Upotreba umjetne inteligencije nije imala izravan učinak na nastavničku izvedbu; posredovalo je organizacijsko ponašanje građanstva (Sherly i sur. 2027)
+- [[pang-epistemic-authority-ai-lesson-planning-2026]] — 34 epizode koje pokazuju autoritet zadržan, podijeljen ili prepušten u planiranju lekcija uz umjetnu inteligenciju
+- [[reding-discussion-boards-tam-ai-analytics-2026]] — Studentske percepcije raspravnih foruma: studija modela prihvaćanja tehnologije kao osnova za dizajn UI analitike učenja
+- [[gnadlinger-educator-perspectives-its-design-2026]] — K uključivanju perspektiva edukatora u metasustavni dizajn inteligentnih tutorskih sustava
+- [[chen-future-faculty-development-ai-2027]] — Nastavnik kao dirigent tuđe stručnosti, s ulogama raspodijeljenima po nastavničkom timu
+- [[li-instructor-designed-ai-rct-2026]] — Umjetna inteligencija koju su osmislili nastavnici poboljšava učenje u randomiziranom pokusu na 19 sveučilišta (Li i sur. 2026)

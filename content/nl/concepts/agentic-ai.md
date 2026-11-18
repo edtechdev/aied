@@ -10,16 +10,20 @@ discipline: [stem education]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
-connected_resources: [deeptutor, learnharness, primer]
+connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-13T18:20:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "Automatische machinale vertaling van deze Engelse pagina, nog niet nagekeken door een moedertaalspreker."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -68,6 +72,10 @@ Waar [[agentic-ai-education-scoping-review|de scoping review van 474 studies]] e
 - **Een rapportage- en governanceschaal: het Autonomie-Toezicht-Bewijs (AOE) kader.** [[beyond-agent-label-agentic-ai-governance-2026|Dey (2026)]] betoogt dat de term *agentieke AI* zo inconsistent wordt gebruikt dat bewijs en toezicht niet tussen studies vergeleken kunnen worden: systemen die plannen, onthouden, tools gebruiken of meerdere agenten coördineren, worden op één hoop gegooid met statische GenAI-interfaces en conventionele [[pedagogical-agent|pedagogische agenten]]. Zijn kritische integratieve review van vijftien peer-reviewed reviews vindt het bewijs het sterkst voor uitkomsten op artefactniveau (feedbacknauwkeurigheid, [[hallucination-risk|minder hallucinaties]]) en het zwakst voor duurzaam leren, gelijkwaardigheid, werklast of institutionele uitkomsten, waarbij authentieke implementaties doorgaans kort, op één locatie en zwak aan toezicht gekoppeld zijn. De oplossing is een concreet rapportagedrietal: **autonomieniveau A0 tot A4** (reactieve generatie, begrensde orkestratie, gedelegeerde taakautonomie, workflowautonomie, en *gevolgrijke autonomie* over beoordeling, toelating of doorstroom), **toezichtniveau O0 tot O4** (niet gespecificeerd, retrospectieve audit, goedkeuring voor gebruik, gecontroleerde controlepunten, en *continue begrensde supervisie*), en **bewijsmatigheidsfase M0 tot M5** (concept, prototype of benchmark, evaluatie met deelnemers, authentieke implementatie, uitgebreid of meerdere locaties, en *gerepliceerd of op instellingsschaal*), plus een **evenredigheidsregel**: toegestane autonomie mag niet uitlopen op de bewijsmatigheid of de sterkte van het toezicht (een A4-systeem met gevolgen vereist bijvoorbeeld M4- of M5-bewijs, juridische validatie en O4 met menselijk eindgezag). Het rapporteren van *A2-O3-M3* maakt vage claims over 'agentieke implementatie' tot vergelijkbare, toetsbare specificaties en geeft instellingen een gefaseerde grammatica voor adoptie, logboekregistratie en terugdraaien: het bewijskundige complement van het hierboven genoemde [[baradziej-agentic-ai-higher-education-2026|Copilot-naar-Autopilot]]-spectrum.
 - **Adversariële robuustheidstests:** [[adversarial-stress-testing-role-playing-agents|Multi-agent stresstests]] coördineren Interrogator-, Target- en Judge-agenten om faalwijzen zichtbaar te maken die bij tests met één strategie onzichtbaar blijven, en verlagen robuustheidsscores met 0,17 tot 0,20 punt; cruciaal voor personaconsistentie en [[pedagogical-safety|veilige inzet]] bij leerlingen.
 - **Domeintoepassingen:** agentieke systemen duiken in allerlei domeinen op, waaronder [[learnmate2-llm-adaptive-learning|adaptieve leeragenten]], [[educlaw-bench-pedagogical-llm-agents-2026|pedagogische LLM-agenten]], [[guided-llm-scaffolding-independent-learning|begeleide LLM-scaffolding]], [[cyberagents-gamified-cybersecurity-learning-2026|gamificerende leeragenten voor cyberveiligheid]] en [[hdr-brachytherapy-agentic-ai-simulation-2026|agenten voor klinische simulatie]].
+- **Agentiek nakijken is eerst een betrouwbaarheidsvraag en dan een werklastvraag.** Een agentieke Claude Code-implementatie kreeg drie rubriekbestanden en 60 gescande handgeschreven tentamens uit een cursus computergraphics. Haar cijfers kwamen overeen met die van de docent bij r = 0.97, met een gemiddelde absolute fout van 0.85 punt op een tentamen van 20 punten, een gemiddelde AI-positieve bias van 0.68, en test-hertest ICC = 0.96 over twee sessies een week uit elkaar. Het aggregaat verbergt waar het faalt: gewogen kappa liep van 0.98 op meerkeuze tot 0.65 op evaluatieve items, met handgetekende diagrammen als zwakste geval ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Eén cursus, één docent en één set rubrieken lokaliseren de variantie; zij bewijzen niet dat agentiek nakijken generaliseert.
+
+Agentieke architecturen kopen dekking tegen een meetbare prijs in precisie. Op de benchmark van [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah et al. (2026)]] met 926 vacaturevoorbeelden en 1.696 gouden-standaardvaardigheden leidde een ReAct-agent met een ESCO-zoektool de verbeterde recall met 89.7%, tegen 83.7% voor de beste generatieve configuratie en 49.1% voor het beste embeddingmodel. De precisie was 22.7%, waardoor F1 op 36.3% bleef, onder een tool-gegronde Gemini 2.5 Flash met 51.6%, en de doorlooptijd was ongeveer 16 seconden per voorbeeld. Recall is de juiste maat wanneer een menselijk adviseur de lijst uitdunt; onbemiddelde output heeft het gegronde alternatief nodig.
+
 - **Webagenten als beoordelaars van leerervaringen:** één autonome 'beschrijvende' webagent die een online [[learning-design|les]] doorloopt zoals een student, [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]], levert een beschrijving die rijk genoeg is om uitval van studenten te voorspellen en de ontwerper bruikbare feedback te geven voordat echte leerlingen aan de slag gaan; op een mondiale CS1-cursus presteerde die beter dan een volledig gesimuleerd cohort en dan elke baseline. Dit positioneert agentieke evaluatie (een agent als plaatsvervangend criticus van een leerervaring) als een apart, goedkoop gebruik van agentieke AI, naast agenten die lesgeven of ontwerpen.
 
 ### Multi-agentsystemen
@@ -81,9 +89,7 @@ Een stap verder dan het orkestreren van een paar gespecialiseerde agenten is het
 - **Deelnemersspecifieke LLM-agenten voor samenwerkend probleemoplossen.** Fang (2026) fine-tunet individuele LLM-agenten op dialoogdata van echte deelnemers om elke deelnemer in simulaties van samenwerkend probleemoplossen te vertegenwoordigen, met probabilistische spreker- en themacodeselectie en een geheugen met schuifvenster plus samenvattingen. Gevalideerd met [[network-analysis|Epistemic Network Analysis]] zijn de gesimuleerde dialogen statistisch niet te onderscheiden van echte (ENA-afstand 0,17, permutatie p = 0,65): een demonstratie dat agentieke AI authentiek samenwerkingsdiscours kan reproduceren.
 - **Sociaal intelligente multi-agenttutoring.** Prototypen voor sociaal intelligente multi-agenttutoring zoals ASTRA onderzoeken hoe leerlingen in duo's met AI samenwerken, met gedifferentieerde Tutor- en Facilitator-agenten die coördinatie en evenwichtige deelname stimuleren. De op sporen gebaseerde evaluatie van het kader maakt reproduceerbare analyse mogelijk van interactie, deelnamebalans en verificatie in een [[cs-education|inleidende programmeercursus]].
 
-
 **Een organisatorisch antwoord: de lerende als deelnemend lid in plaats van ontvanger.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan et al. (2026)]] concretiseren een menselijk-participerende multi-agentorganisatie waarin gespecialiseerde agenten een herzienbaar Capability Program onderhouden dat persoonlijke doelen, [[multimodal|multimodale]] activiteiten en gelaagde beoordeling verbindt, met een corrigeerbare 'Human Node' die het eigen bewijs en de uitdagingen van de lerende meeneemt naar latere revisies. Tegen de dichtstbijzijnde multi-agentbaseline over 96 gesimuleerde leerlingcases concentreerde het voordeel zich in [[assessment|beoordelingsontwerp]]: 19,32 punten hoger op [[assessment-validity|Assessment Validity]] (95% BI [17,55; 21,04]) en 5,89 op capability coverage, terwijl personalisatie zich niet onderscheidde (1,35 punt, interval dat nul kruist). In een gerandomiseerde studie met 32 lerenden was de kenniswinst op een objectieve test van 50 punten 12,19 tegen 5,61 punten.
-
 
 ## De centrale spanning: automatisering tegenover leren
 
@@ -137,7 +143,6 @@ Dit verbindt de discussie over agentieke AI met de [[academic-integrity]]-dekkin
 ## Productieve wrijving en sociale interactie
 
 Niet al het agentieke gedrag hoeft soepele ondersteuning te zijn. [[ai-agents-constructive-conflict-design-education-2026|Onderzoek naar adversariële ontwerpagenten]] laat zien dat agenten die **constructief conflict** opvoeren bij beginnende interactieontwerpers (N=48) significant meer ontwerpiteraties, bredere verkenning van alternatieven en hoger beoordeelde eindontwerpen uitlokten: een dynamiek van *productieve wrijving*, waarin de conflictagent frustrerend maar uiteindelijk behulpzaam was. Dit sluit aan bij [[socratic-method|Socratisch vragen]] en [[design-thinking|design thinking]], en illustreert hoe agentieke AI diepgaand heroverwegen kan ondersteunen in plaats van passieve acceptatie.
-
 
 Een studie naar hoe agentieke AI leeruitkomsten bereikt via *psychologische* in plaats van technologische paden levert de ontbrekende meetinvalshoek. [[pramod-agentic-ai-motivational-pathways-2026|Pramod en Patil (2026)]] enquêteerden 398 businessstudenten in India en modelleerden autonomie, competentie en verbondenheid naast interactiviteit, informatiedeling en ervaren [[community-of-inquiry|sociale aanwezigheid]]; autonomie was de sterkste [[motivation|motivationele]] drijfveer (β = 0,504) en interactiviteit de sterkste sociale (0,468), waarbij motivatie en sociale aanwezigheid [[student-engagement|betrokkenheid]] met bijna dezelfde sterkte voedden (0,533 en 0,493) voordat betrokkenheid de ervaren leerprestatie voorspelde (0,671). De ontwerples is dat de sociale route niet automatisch is: een construct voor collaboratieve omgeving bewoog de ervaren sociale aanwezigheid minder dan gewone responsiviteit en informatiedeling, dus een agent als chatinterface behandelen in plaats van als deelnemer laat het grootste deel van dat pad onbenut.
 
@@ -209,6 +214,8 @@ Agentieke AI is geen wondermiddel en geen onvermijdelijke schade: haar waarde ha
 
 ## Verbonden artikelen
 
+- [[alghamdi-claude-code-agentic-grading-2026]] — agentiek nakijken van 60 handgeschreven tentamens: r = .97 overall, kappa dalend tot .65 op evaluatieve items
+- [[jingru-fan-agentic-university-collaborative-agents-2026]] — De lerende als deelnemend lid: een multi-agentorganisatie die de beoordelingsvaliditeit verhoogt (Fan et al. 2026)
 - [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomie, competentie, verbondenheid en sociale aanwezigheid als de paden van agentieke AI naar betrokkenheid (Pramod & Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI-agenten, vreugdevolle beoordeling en de derde ruimte
 - [[ilieva-agentic-genai-higher-education-2026]] — Het AGAI-HE-kader: begrensde, menselijk begeleide agentieke GAI in het hoger onderwijs (Ilieva et al. 2026)
@@ -235,5 +242,4 @@ Agentieke AI is geen wondermiddel en geen onvermijdelijke schade: haar waarde ha
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD met AI-agenten in software-PBL; automatisering tegenover begrip
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluatie van een scaffoldinggericht multi-agent groot taalmodel voor training in klinische gespreksvoering
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethiektrainingsagenten: groepsgebaseerd ethiekonderwijs faciliteren met rollenspel en discussie voor ethische reflectie en verkenning
-
-- [[jingru-fan-agentic-university-collaborative-agents-2026]] — De lerende als deelnemend lid: een multi-agentorganisatie die de beoordelingsvaliditeit verhoogt (Fan et al. 2026)
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — Comparing AI Approaches for Automated Skill Extraction: From Embeddings to Agentic Systems for Engineering Education

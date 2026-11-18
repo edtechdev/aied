@@ -1,5 +1,5 @@
 ---
-connected_resources: [matt-pocock-skills]
+connected_resources: [matt-pocock-skills, context-aideatext]
 title: 소크라테스식 방법
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-11-07T23:52:36-05:00"

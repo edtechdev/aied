@@ -8,7 +8,7 @@ pedagogy: [metacognition, scaffolding]
 technology: [generative-ai, intelligent-tutoring, llm, rag]
 assessment: [formative-assessment]
 audience: [learners]
-connected_resources: [matt-pocock-skills]
+connected_resources: [matt-pocock-skills, context-aideatext]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method

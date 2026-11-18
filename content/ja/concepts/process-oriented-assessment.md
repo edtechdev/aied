@@ -10,7 +10,7 @@ assessment: [assessment, ai-detection, assessment-validity, authentic-assessment
 ethics: [equity-in-ai-education]
 level: [higher ed]
 confidence: high
-connected_resources: [process-feedback, code-viva]
+connected_resources: [process-feedback, code-viva, vfwa]
 source_updated: "2026-11-04T12:05:00-05:00"
 translation_of: concepts/process-oriented-assessment
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"

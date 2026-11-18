@@ -1,7 +1,7 @@
 ---
 title: "Zablude o umjetnoj inteligenciji"
 created: "2026-11-12T04:05:00-05:00"
-updated: "2026-11-12T04:05:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,13 +11,17 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -38,11 +42,11 @@ ai_assist:
 
 Zablude o umjetnoj inteligenciji važne su jer su kognitivni prethodnik štetnih ponašanja koja baza znanja dokumentira pod [[cognitive-offloading|pretjeranim oslanjanjem]] i problemima s [[academic-integrity]]. Ljudi rijetko namjerno [[ai-misuse-learning-harm|zloupotrebljavaju]] AI; to čine jer ih netočni mentalni modeli navode da pogrešno polože povjerenje, preskoče provjeru i tretiraju rezultat kao razumijevanje. U obrazovanju te pogreške oblikuju sve — od toga kako studenti uče do toga kako nastavnici i institucije osmišljavaju kurikule, [[assessment]] i politike.
 
-### Što su zablude o umjetnoj inteligenciji
+## Što su zablude o umjetnoj inteligenciji
 
 Zabluda ovdje nije puko neznanje o tome kako model funkcionira — to je aktivno držano, često samopojačavajuće uvjerenje koje proizvodi sustavne pogreške u tome kako studenti komuniciraju s AI-jem. Izravno su analogne predmetnim zabludama proučavanim u [[learning-sciences|znanosti o učenju]]: stabilne, uvjerljive i otporne na ispravljanje dok se s njima ne suoči. Njihovo ispravljanje središnji je cilj obrazovanja za [[ai-literacy]] i [[trust-calibration]].
 
-### Uobičajene zablude u akademskom kontekstu
+## Uobičajene zablude u akademskom kontekstu
 
 - **Zabluda autoriteta** — tretiranje rezultata [[llm]] kao provjerene činjenice, a ne kao probabilističkog dovršetka. To potiče nekritično prihvaćanje i obrazac traženja odgovora umjesto razumijevanja dokumentiran u istraživanjima [[intelligent-tutoring|AI podučavanja]], gdje učenici prihvaćaju odgovor modela bez provjere prema [[hallucination-risk]].
 - **Iluzija neovisne provjere** — tretiranje [[ai-feedback-quality|AI povratne informacije]] kao vanjske korekcije kad model zrcali vaše vlastito razmišljanje. Početna točnost korisnika bila je dominantan prediktor konačne izvedbe, a poticanje specifično za [[ai-sycophancy|ulizivanje]] smanjilo je pozicijsko oponašanje (OR = 0,26), ali nije dotaknulo širenje pogrešaka, pa obuka učenika nije zaštitna mjera ([[contextual-sycophancy-ai-literacy|Koyuturk et al. (2026)]]).
@@ -57,17 +61,17 @@ Zabluda ovdje nije puko neznanje o tome kako model funkcionira — to je aktivno
 
 Siva zona integriteta ima strukturu, a ne samo dvije krajnosti. Intervjui s 20 studenata, zajedno s njihovim chat zapisima i dokumentima kolegija, otkrili su pet odvojenih mjesta na kojima živi AI politika — od namjere nastavnika preko formalne politike i vlastite politike studenta do stvarne prakse — plus 23 različite racionalizacije u šest kolegija ([[student-rationalization-ai-writing|Kim et al., 2026]]). Racionalizacije su bile ad hoc i post hoc, sastavljene da objasne upotrebu koja se već dogodila, a ne da je vode. Stroga zabrana nije spriječila upotrebu koliko je pojačala moralni sukob kod studenata koji su je htjeli poštovati, što metu ispravljanja stavlja u mjesto politike, a ne u formulaciju pravila.
 
-### Institucionalni i javni mitovi o AI-ju
+## Institucionalni i javni mitovi o AI-ju
 
 Zablude nisu ograničene na studente — one prožimaju institucionalni i javni diskurs o AI-ju koji studenti nasljeđuju. [[rudolph-ai-myths-critical-higher-ed|Rudolph et al. (2025)]] razgrađuju osam ukorijenjenih „mitova“ koji oblikuju politiku i poučavanje u visokom obrazovanju: da je AI istinski „umjetan“ (a ne izgrađen na iskorištavanom ljudskom radu), da je istinski „inteligentan“ i [[agentic-ai|agentan]], da će bez problema „učiniti svijet boljim mjestom“, da je „objektivan i nepristran“, da SAD drži monopol jedine supersile, da neće poremetiti tržište rada, da „revolucionira [[higher-ed|visoko obrazovanje]]“ i da nastavnici mogu pouzdano prepoznati AI-generirani rad. Ti su institucionalni mitovi uzvodni izvor mnogih gore dokumentiranih studentskih zabluda — najizravnije [[trust|iluzije neutralnosti]] („AI je objektivan“) i [[trust-calibration|zablude autoriteta]] („AI je inteligentan“), te pogrešne kalibracije detekcije koja navodi studente da pretpostave da je neotkrivena i neprovjerljiva upotreba sigurna. Gdje studenti upijaju i djeluju prema institucionalno ponavljanim mitovima, njihovo ispravljanje zahtijeva suočavanje ne samo s uvjerenjem učenika nego i s diskursom koji ga hrani.
 
-### Zašto su zablude važne za učenje
+## Zašto su zablude važne za učenje
 
 Zablude se izravno prevode u ponašanja koja uzrokuju štetu u učenju. Uvjerenje da je „AI uvijek u pravu“ potiskuje provjeru; uvjerenje da je „korištenje AI-ja učenje“ potiskuje naporan proces; uvjerenje da „to nije varanje“ zaobilazi metakognitivni pregled koji konsolidira razumijevanje. U tom su smislu zablude uzvodno od [[ai-misuse-learning-harm]] dokumentirane u dokaznoj bazi čitave baze znanja.
 
 Uvjerenje da je korištenje AI-ja učenje ne drži se samo prije upotrebe; alat ga može proizvesti. [[llm-fallacy-misattribution|Kim et al.]] opisuju zabludu LLM-a u kojoj se neproziran, tečan i trenutačan rezultat pogrešno čita kao dokaz vlastite kompetencije korisnika, pa se percipirana i stvarna sposobnost razilaze za razmak koji nazivaju ΔC. Budući da su mehanizam tečnost i dvosmislenost pripisivanja, a ne pogreška, zabluda ostaje bila model točan ili halucinirao, što znači da točan AI-potpomognut odgovor nije dokaz da je uvjerenje ispravljeno.
 
-### Zablude izvan studenata: nastavnici, institucije i javnost
+## Zablude izvan studenata: nastavnici, institucije i javnost
 
 Zablude o AI-ju nisu ograničene na učenike — raširene su među odraslima koji oblikuju obrazovanje:
 
@@ -77,9 +81,11 @@ Zablude o AI-ju nisu ograničene na učenike — raširene su među odraslima ko
 
 Ta širina razlog je zašto baza znanja tretira zablude kao presječnu temeljnu temu, a ne isključivo studentsku: iste se pogreške kalibracije ponavljaju kod učenika, nastavnika, institucija i javnosti, a njihovo ispravljanje zahtijeva suočavanje i s pojedinačnim uvjerenjima i s diskursom koji ih hrani.
 
+Upravo je ta širina razlog da se zablude najbolje tretiraju kao prekogranična temeljna tema, a ne kao tema namijenjena samo studentima: iste se kalibracijske pogreške ponavljaju kod učenika, nastavnika, institucija i javnosti, a njihovo ispravljanje zahtijeva suočavanje i s individualnim uvjerenjima i s diskursom koji ih hrani.
+
 Pedagoške zablude nastavnika zrcalna su slika toga: nisu nerazumijevanja AI-ja, nego uvjerenja o poučavanju koja nisu potkrijepljena dokazima i traju neovisno o AI-ju. [[etq-ai-conversational-teacher-training-2026|Miranda and Calvani (2026)]] to mjere Effective Teaching Questionnaireom, gdje se 50 binarnih čestica preslikava na [[meta-analysis-systematic-review|metaanalitičke]] veličine učinka (d ≥ 0,40), pa se nastavnikov odgovor može usporediti s dokazno usklađenim mjerilom — a njihov je nalaz da su zablude duboke i specifične. Pilot s 123 nastavnika u Italiji pokazao je najizraženije neslaganje s tvrdnjom o stilovima učenja (78% nastavnika branilo je vizualno/slušno uparivanje), zatim s uključivanjem i [[group-work|grupnim radom]] (68%) i preopterećenošću obrazovnom tehnologijom (54%); prosječna usklađenost kretala se oko 50% na dimenzijama planiranja, kognitivnoj, evaluacijskoj i upravljačkoj. Dva su detalja važna za dizajn ispravljanja. Prvo, zablude preživljavaju sveučilišno obrazovanje i nastavnu praksu — autori opisuju „internalizirani zdrav razum“ koji „prethodi ulasku u školu“ i traje — pa to nisu praznine u znanju koje predavanje zatvara. Drugo, kad je razgovorni AI ponovno uveo iste čestice tek nakon što je validirao nastavnikov vlastiti kontekst, 41% prigovora navelo je stvarna kontekstualna ograničenja — veličinu razreda, učenike s [[special-education|posebnim potrebama]], pokrivenost [[curriculum-design|kurikula]] — a ne same dokaze. Daljnjih 5,9% nazvalo je sustav „strojem za algoritamsku dogmu“: granični uvjet u kojem normativno uokvirivanje rađa obrambenost umjesto refleksije. Za razvoj [[teacher-ai-competency]] implikacija je da dijagnostika plus dijalog može pokazati koja su uvjerenja dokazno utemeljeno neslaganje, a koja zabluda — razliku koju sam rezultat ne može napraviti.
 
-### Ispravljanje zabluda
+## Ispravljanje zabluda
 
 Ispravljanje nije jednokratno otkrivanje nego trajni proces [[ai-literacy|AI pismenosti]] koji razvija [[metacognition]] i [[self-regulated-learning]]: pomaže studentima (i odraslima oko njih) pratiti svoje oslanjanje, kalibrirati kada vjerovati a kada preispitati model te vidjeti cijenu zaobilaženja vlastitog [[cognitive-offloading|kognitivnog rada]]. Budući da su zablude otporne, najbolje se rješavaju izravnim suočavanjem s dokazima — uključujući nalaz da studenti često *ne opažaju* štetu za učenje od zlouporabe AI-ja.
 
@@ -95,7 +101,7 @@ Bernstein i Sibia (2026) pokazuju da analogije koje generira [[generative-ai|Gen
 
 **Zablude koje generira model mjerljiva su sposobnost, a ne slučajnost.** [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] izgradili su SocraticTrap-CS, koji je potaknuo sedam modela s otvorenim težinama da napišu „[[socratic-method|sokratovsku]] zamku“ za 35 temeljnih koncepata računarstva — objašnjenje koje je tečno i autoritativno, a počiva na suptilnoj, domenski specifičnoj pogrešci. Od 241 potaknutog segmenta, 221 (91,7%) potvrđeno je kao strateška zabluda većinskim glasom stručnjaka (Fleiss' κ = 0,9487), bez značajnih razlika među područjima računarstva; 66,5% potvrđenih pogrešaka bilo je konceptualno, a ne činjenično, i nijedna nije bila isključivo logička. Tečnost je mehanizam, a ne obrana: uvjerljivost je u prosjeku iznosila 3,71 na ljestvici od pet stupnjeva i bila je snažno ovisna o modelu, a učestalost i ozbiljnost razdvojile su se — dva modela koja su najčešće proizvodila zamke ujedno su ocijenjena najuvjerljivijima. Budući da loše formulirano pitanje studenta i samo može djelovati kao adversarijalni poticaj, autori stopu tretiraju kao sposobnost pod adversarijalnim poticanjem, a ne kao osnovnu stopu za obične sesije učenja — i tvrde da se zadatak [[ai-literacy|AI pismenosti]] pomiče s provjere činjenica u pojedinačnim tvrdnjama na konceptualnu provjeru i validaciju mentalnog modela. To je tamnija strana generativne upotrebe gore: ista sposobnost koja može zasijati plodnu vršnjačku raspravu može i učvrstiti pogrešku koju je učenik već počeo oblikovati.
 
-### Ispravljanja u stilu opovrgavanja za česte zablude o AI-ju
+## Ispravljanja u stilu opovrgavanja za česte zablude o AI-ju
 
 Budući da se zablude aktivno drže i otporne su, najizravniji način da se rješavaju — uključujući na ovoj stranici — jest struktura [[refutation-text|teksta opovrgavanja]]: **imenujte zabludu, izričito je opovrgnite i navedite točnu koncepciju.** Unosi u nastavku primjenjuju tu strukturu na najvažnije zablude o AI-ju i o učenju, poučavanju i obrazovanju:
 
@@ -123,7 +129,7 @@ Ta su opovrgavanja namjerno napisana u obliku [[refutation-text|teksta opovrgava
 - **„Svi prigovori nastavnika na dokaze puko su opiranje.“** Kad su iste čestice dostavljene kroz razgovorni AI koji je **validirao nastavnikov kontekst prije ponovnog uvođenja dokaza**, **41% prigovora ticalo se stvarnih kontekstualnih ograničenja** — veličine razreda, posebnih potreba, zahtjeva kurikula. Znatan dio prividne zablude bio je točan prigovor.
 - **„Zablude se mogu pouzdano otkriti iz dijaloga.“** **Od 241 potaknutog segmenta, 221 (91,7%) potvrđeno je kao strateška zabluda većinskim glasom stručnjaka (Fleiss' κ = 0,9487)**, bez **značajnih razlika** među skupinama. Visoka pouzdanost dostižna je uz stručno presuđivanje, i to je uvjet o kojem tvrdnja ovisi.
 
-## Povezani pojmovi
+## Povezani koncepti
 
 - [[pedagogical-patterns]] — Slijedovi konceptualne promjene koji se suočavaju s konkretnim držanim uvjerenjem
 - [[learners]] — Učenici: krovni pojam za koncepte na strani učenika
@@ -143,6 +149,7 @@ Ta su opovrgavanja namjerno napisana u obliku [[refutation-text|teksta opovrgava
 - [[trust]]
 
 ## Povezani članci
+
 
 - [[rudolph-ai-myths-critical-higher-ed]] — Ne vjerujte hypeu: osam mitova o AI-ju i potreba za kritičkim pristupom u visokom obrazovanju
 - [[student-rationalization-ai-writing]] — Studentska racionalizacija AI pisanja

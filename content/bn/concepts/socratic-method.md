@@ -1,5 +1,5 @@
 ---
-connected_resources: [matt-pocock-skills]
+connected_resources: [matt-pocock-skills, context-aideatext]
 title: "সক্রেটিক পদ্ধতি"
 created: "2026-08-09T07:47:05-04:00"
 type: concept

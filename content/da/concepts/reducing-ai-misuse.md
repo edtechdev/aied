@@ -9,8 +9,8 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-11-04T15:40:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*"
 contributors: [editor]
 ai_assist:
@@ -18,10 +18,13 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
-
 > **At reducere misbrug af AI** - de designmæssige, [[pedagogy|pædagogiske]] og [[educational-policy-ai|politiske]] løftestænger, der forhindrer studerende i at erstatte deres eget [[cognitive-offloading|kognitive arbejde]] med [[generative-ai|generativ AI]] og i stedet leder dem mod [[ethics|etisk]], produktiv brug. Effektive tilgange er sorteret efter virkning frem for popularitet, og den stærkeste evidens taler for **strukturelle løftestænger** - værktøjs-[[guardrails]] og redesign af evaluering - som ændrer omgivelserne, så misbrug bliver sværere, uanset den studerendes motivation, frem for **undervisende løftestænger**, der bygger på at opbygge holdbar kapacitet og [[framing-ai-use-for-students|opbakning fra de studerende]].
 
 ## Spørgsmål at overveje
@@ -39,11 +42,11 @@ Begrebet hviler på evidensen for, at misbrug af AI aktivt skader holdbar lærin
 
 Den mekanisme, hvorved misbrug opstår, har nu en målt kæde bag sig. [[guo-overreliance-genai-feedback-2026|Guo og Dong (2026)]] spurgte 600 bachelorstuderende og fandt, at oplevet kognitiv belastning forudsagde kognitiv udlicitering med β = 0,844 i gruppen med lav monitorering og β = 0,840 i gruppen med høj. Udlicitering forudsagde derefter overafhængighed af AI-feedback med β = 0,396 henholdsvis 0,506, med indirekte effekter på 0,335 [0,069, 0,611] og 0,426 [0,149, 0,648]. Belastning forudsagde også overafhængighed direkte (β = 0,560 og 0,419), så udlicitering er en delvis mediator, og den forudgående faktor, en strukturel løftestang kan angribe, er belastningen selv.
 
-### Hvorfor strukturelle løftestænger betyder mest
+## Hvorfor strukturelle løftestænger betyder mest
 
 Interventioner kan sorteres efter **kausal evidens × strukturel rækkevidde × skalerbarhed × [[sustainability]]**. På dette grundlag rangerer de to *strukturelle* løftestænger højest, fordi de virker, uanset om studerende vælger den rette adfærd - de begrænser omgivelserne i stedet for at afhænge af indre motivation. De *undervisende* løftestænger er afgørende, men kun effektive, når studerende køber ind, så de behandles som andet niveau trods deres begrebsmæssige potentiale. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher og Calderon (2025)]] løfter det strukturelle argument et niveau op og behandler styring frem for studerendes adfærd som den bindende begrænsning og foreslår en ramme med 130 integritetsindikatorer, så akademiske ledere kan se, om evalueringen er autentisk, om studerende kendes individuelt af de undervisere, der bedømmer dem, og om integritet indgår i introduktion og studiestart. Deres reformer retter sig mod styringsarkitekturer, mennesker og [[ai-technologies|teknologier og ressourcer]], og de foreslår at låne [[guardrails|red teaming]] fra cybersikkerhed for at afdække sårbarheder i evalueringen, før studerende finder dem - en påmindelse om, at det strukturelle gulv vedligeholdes af institutioner, der både har brug for informationen og viljen til at vedligeholde det. Den ansvarlige brugs litteratur tester selv sjældent den kæde, denne rangorden forudsætter. Af 122 tilgangsregistreringer hentet fra 31 studier var 51 både implementeret og evalueret, for det meste gennem [[self-report-measures|selvrapportering]], og kun fire studier definerede en grænse, designede en intervention omkring den og testede, om studerendes beslutninger var i overensstemmelse med den ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega og Zhao (2026)]]).
 
-### Niveau 1 - direkte dokumenteret til at reducere læringsskade
+## Niveau 1 — direkte dokumenteret til at reducere læringsskade
 
 **Guardrail-design af AI-værktøjer ('hint-ikke-svar' [[scaffolding]]).** I vidensbasens stærkeste kausale fund viste et felt-[[rct]], at en ubeskyttet ChatGPT-lignende tutor hævede præstationen i assisteret øvelse med **+48 %**, men sænkede karakteren ved eksamen uden hjælp med **-17 %**, mens en guardrail-beskyttet tutor (hints i stedet for svar, plus lærerproduceret probleminformation) eliminerede skaden helt. Det forhindrer mekanisk den svar-kopierende 'krykke'-adfærd, der ligger bag skaden. Aktiviteter omfatter hint-ikke-svar-tutoring, at pode prompts med korrekte løsninger og almindelige [[misconceptions]] og at kræve et studerendeforsøg, før AI-output afsløres.
 
@@ -53,7 +56,7 @@ Interventioner kan sorteres efter **kausal evidens × strukturel rækkevidde × 
 
 De strukturelle løftestænger har en håndhævelsesarm, og dens evidensgrundlag er svagere, end dens rækkevidde antyder. [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] kodede 1.162 sager om forseelse med generativ AI og fandt, at den evidens, der oftest blev henvist til på anklagetidspunktet - [[ai-detection|detektor]]output, lighedsrapporter, AI-typiske indholdsmønstre - havde den svageste bevisværdi, mens optagelsesmateriale, observeret eksamensadfærd og uafhængigt verificerede fabrikerede referencer var de stærkeste; fordi institutionelle procedurer ikke sætter nogen mindste tærskel for bevis, havde evidensens kvalitet ingen pålidelig sammenhæng med sagens udfald, og studerende, hvis sager hvilede på tynd evidens, havde hovedsagelig klageadgang som udvej. [[wright-transcription-not-generation-2026|Wright (2026)]] viser en anden omkostning ved samme upræcision: forbud, der er formuleret omkring "generativ AI" snarere end omkring funktion, rammer værktøjer, der blot konverterer formatet af arbejde, en studerende allerede har forfattet, så transskriptionsbaseret brug alene kan sanktioneres som forseelse - en overinkludering, der rammer hårdest på handicappede og [[equity-in-ai-education|ligestillings]]udsatte [[learners]] og intet gør for [[assessment-validity|validiteten]]. [[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana, Mtshali og Mchunu (2026)]] tilføjer, at [[remote-proctoring|fjernovervågning]], den mest udbredte integritetskontrol, begrunder sin afskrækkelseseffekt med, hvordan studerende siger, de har det, snarere end med reduceret forseelse, og påfører [[anxiety-and-stress|angst]], koncentrationstab og infrastrukturbetinget udelukkelse, som der ikke er vist at være svar på lavere misbrug. [[li-genai-assessment-language-equity-2026|Li (2026)]] tilføjer regelsdesign-dimensionen: fordi samme grænseflade udfører tilladt sprogredigering og forbudt substantiv udarbejdelse, pålægger udifferentierede GenAI-regler skævt fordelte efterlevelsesbyrder på studerende, der bruger engelsk som ekstra sprog, så den mere forsvarlige forebyggelse er en formålsbaseret grænse mellem støtte og substitution forankret i evalueringskonstruktet, med kalibreret deklaration, proportionalitet fordelt over tærskel-, bevis- og sanktionsbeslutninger, og designløftestænger - etapedelte afleveringer, kort konstruktionsaligned mundtlig verifikation, kritikbaserede spørgsmål - der gør det arbejde, detektion ikke kan. Forebyggelse skal også dække bedømmeren selv: [[humble-prompt-injection-ai-grading-red-team-2026|Humbles (2026)]] red-team-evaluering fandt, at to af fem indirekte prompt-injektionsstrategier indlejret i en afleveringsfil hævede et dumpet essay til bestået uden at blive opdaget, med rapporterede succesrater på 100 % og 94 %, så hvor AI-værktøjer bedømmer studerendes arbejde, hører [[human-in-the-loop-ai|menneskelig gennemgang]], klarere adskillelse af instruktioner fra afleveret indhold og robusthedstest til det strukturelle gulv snarere end til et valgfrit niveau.
 
-### Niveau 2 - stærk rammemæssig understøttelse, højt potentiale
+## Niveau 2 — stærk rammemæssig understøttelse, højt potentiale
 
 **Stilladserede brugssekvenser: tænk først, AI derefter, reflektér til sidst.** Otte designprincipper for at integrere LLM'er uden at fortrænge [[critical-thinking]]: bevar kognitiv friktion, positionér AI som en foreløbig tænkepartner snarere end en autoritet, indlæg evalueringscheckpoints, kræv [[metacognition|metakognitiv]] journalføring og promptlogs, og balancér AI-formidlede med AI-frie faser. Korrelationel evidens (selvstændigt arbejde før AI giver stærkere output) er stærk; det er den pædagogisk komplette version af Niveau 1.
 
@@ -63,7 +66,7 @@ De strukturelle løftestænger har en håndhævelsesarm, og dens evidensgrundlag
 
 Undervisende løftestænger ser igen anderledes ud, når integritet behandles som en praksis, der skal undervises i, snarere end en regel, der skal håndhæves. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] argumenterer for, at detektions- og verifikationsbaserede integritetsregimer er ude af trit med GenAI-forstærket arbejde, og omformulerer integritet som pædagogisk praksis udøvet gennem [[evaluative-judgment|evaluerende dømmekraft]] - den studerendes evne til at veje muligheder, begrunde akademiske valg og tage ansvar under usikkerhed - gjort synlig gennem artefakter som annoterede beslutningsspor, dokumenteret verifikation, [[oral-assessment|mundtligt forsvar]] og versionshistorik fra kladde til kladde, med detektion degraderet til et supplerende lag snarere end den primære infrastruktur. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa og Mezgebu (2026)]] finder samme åbning fra de studerendes side: på tværs af 27 interview på et etiopisk [[higher-ed|universitet]] var brugen næsten universel, de fleste deltagere tilskrev GenAI højere præstation, og den skarpeste klage gik den anden vej - AI-brugere scorede højere end flittige uafhængige arbejdere, hvilket deltagerne beskrev som demotiverende. Forfatterne konkluderer, at studerendes overbevisninger forudsiger etisk brug stærkere, end institutionelle regler gør, så bevidsthed, klar politik og redesign af evaluering skal komme samtidigt - hvilket er sidens undervisende niveau formuleret som en betingelse: kapacitetsopbygning ændrer kun adfærd gennem [[framing-ai-use-for-students|opbakning fra de studerende]] ledsaget af et strukturelt gulv. [[ji-student-voices-academic-integrity-scoping-2026|Jis (2026)]] [[meta-analysis-systematic-review|scoping-gennemgang]] af 38 studier af studerendes stemmer leverer felt-niveau-versionen af samme konklusion: de gennemgåede studier konvergerer mod et skift fra retrospektiv detektion til proaktiv etisk ræsonnement, mod at undervise i AI-etik og AI-plagiat i [[curriculum-design|læseplanen]] snarere end i enkeltstående [[ai-literacy|kompetence]]sessioner, og mod detaljerede retningslinjer samskabt af ledere, undervisere og studerende, fordi uklar vejledning læses som stiltiende tilladelse snarere end som forsigtighed. Jis egen læsning er, at ejerskab og moralsk ræsonnement motiverer studerende mere end frygt for straf, og at studerende hverken er passive modtagere af GenAI eller skyldige uden moralsk bånd, men moralske agenter, der arbejder i en gråzone - dette niveaus præmis, formuleret som et fund.
 
-### Niveau 3 - lovende, lavere direkte kausal evidens
+## Niveau 3 — lovende, lavere direkte kausal evidens
 
 **Metakognitive og [[self-assessment|selvevaluering]]sinterventioner.** [[reflection|Reflekterende journaler]], promptlogs og kalibreringstræning genopbygger den "fraværende kognitive baseline" hos AI-native studerende, som ikke kan lokalisere deres egen kognitive grænse, fordi AI-genereret sproglig flyden slører den. Begrebsmæssigt centralt, men endnu ikke kausalt testet.
 
@@ -75,17 +78,7 @@ Undervisende løftestænger ser igen anderledes ud, når integritet behandles so
 
 - **[[desirable-difficulties|Produktiv friktion]] og pædagogisk funktion.** Sydneys hurtige review argumenterer for, at GenAI underminerer læring, når det lader studerende omgå den kognitive og metakognitive friktion, der er nødvendig for at lære, og at formålstjenligt designede værktøjer indfører *produktiv friktion* (tilbageholder svar, opfordrer til forklaring). Det skelner mellem fire pædagogiske funktioner - at lære *af*, *med*, *om* eller *ved at forme* GenAI - hver med forskellige krav til agens og evaluering.([[young-people-learning-generative-ai-rapid-review-2026]])
 
-## Almindelige fejlopfattelser
-
-**"At undervise studerende i risiciene er den vigtigste løftestang mod misbrug."** Det er den løftestang, der afhænger af, at den studerende samarbejder, hvilket er grunden til, at den her rangerer under de strukturelle. Guardrails og redesign af evaluering virker, uanset om en studerende vælger den rette adfærd; undervisende tilgange virker kun med opbakning. Skellet er ikke moralsk, men mekanisk - ændrede omgivelser begrænser adfærden direkte, mens en ændret overbevisning skal overleve natten før deadline.
-
-**"Hvis en guardrail holder i sessionen, er læringen sikret."** At holde og at undervise er separate udfald, og korpus indeholder et rent dobbeltresultat. At tilbageholde den samlede position i en [[agentic-ai|multi-agent]]-debat skar studerendes skift til en forkert AI-position ned fra 42-60,5 % til 5,7-8,2 % - en stor beskyttende effekt - men gav **ingen læringseffekt inden for sessionen** (β = 0,03, p = 0,18). Skinnerne gjorde deres arbejde som skinne og blev ikke til undervisning. At designe til forebyggelse af misbrug er ikke det samme som at designe til læring.
-
-**"At opdage misbrug og straffe det er en forebyggelsesstrategi."** Forebyggelse skal også dække bedømmeren selv. [[humble-prompt-injection-ai-grading-red-team-2026|Humbles (2026)]] red-team-evaluering fandt, at to af fem indirekte prompt-injektionsstrategier indlejret i en afleveringsfil hævede karakteren for et dumpet essay. En pipeline, der opdager studerendes misbrug, men stoler på uundersøgt afleveringsindhold, er kun forsvaret på den ene side.
-
-**"Misbrug er et spørgsmål om studerendes motivation."** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher og Calderon (2025)]] løfter den bindende begrænsning et niveau op og behandler styring snarere end studerendes adfærd som det, der skal ændres, og foreslår en ramme med 130 integritetsindikatorer. Og læringsskaden er målbar i stor skala: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei og Wu (2026)]] fandt, at lektieoutsourcing hævede lektiekarakterer med 18 %, mens den *sænkede* karakterer ved lukket bogs eksamen med 20 % - en designfejl, der viser sig præcis i det gab, denne side handler om.
-
-## Implementeringsvejledning efter rolle
+## Implikationer for praksis
 
 **For undervisere og kursteams**
 
@@ -103,6 +96,16 @@ Undervisende løftestænger ser igen anderledes ud, når integritet behandles so
 **For administratorer og beslutningstagere**
 
 - Placer den bindende begrænsning, hvor evidensen placerer den. Indikatorer og styringsstrukturer adresserer omgivelserne; formaninger til studerende adresserer den person, der er mindst i stand til at ændre institutionelt design.
+
+## Almindelige fejlopfattelser
+
+**"At undervise studerende i risiciene er den vigtigste løftestang mod misbrug."** Det er den løftestang, der afhænger af, at den studerende samarbejder, hvilket er grunden til, at den her rangerer under de strukturelle. Guardrails og redesign af evaluering virker, uanset om en studerende vælger den rette adfærd; undervisende tilgange virker kun med opbakning. Skellet er ikke moralsk, men mekanisk - ændrede omgivelser begrænser adfærden direkte, mens en ændret overbevisning skal overleve natten før deadline.
+
+**"Hvis en guardrail holder i sessionen, er læringen sikret."** At holde og at undervise er separate udfald, og korpus indeholder et rent dobbeltresultat. At tilbageholde den samlede position i en [[agentic-ai|multi-agent]]-debat skar studerendes skift til en forkert AI-position ned fra 42-60,5 % til 5,7-8,2 % - en stor beskyttende effekt - men gav **ingen læringseffekt inden for sessionen** (β = 0,03, p = 0,18). Skinnerne gjorde deres arbejde som skinne og blev ikke til undervisning. At designe til forebyggelse af misbrug er ikke det samme som at designe til læring.
+
+**"At opdage misbrug og straffe det er en forebyggelsesstrategi."** Forebyggelse skal også dække bedømmeren selv. [[humble-prompt-injection-ai-grading-red-team-2026|Humbles (2026)]] red-team-evaluering fandt, at to af fem indirekte prompt-injektionsstrategier indlejret i en afleveringsfil hævede karakteren for et dumpet essay. En pipeline, der opdager studerendes misbrug, men stoler på uundersøgt afleveringsindhold, er kun forsvaret på den ene side.
+
+**"Misbrug er et spørgsmål om studerendes motivation."** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher og Calderon (2025)]] løfter den bindende begrænsning et niveau op og behandler styring snarere end studerendes adfærd som det, der skal ændres, og foreslår en ramme med 130 integritetsindikatorer. Og læringsskaden er målbar i stor skala: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei og Wu (2026)]] fandt, at lektieoutsourcing hævede lektiekarakterer med 18 %, mens den *sænkede* karakterer ved lukket bogs eksamen med 20 % - en designfejl, der viser sig præcis i det gab, denne side handler om.
 
 ## Forbundne begreber
 

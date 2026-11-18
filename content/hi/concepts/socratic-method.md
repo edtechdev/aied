@@ -1,5 +1,5 @@
 ---
-connected_resources: [matt-pocock-skills]
+connected_resources: [matt-pocock-skills, context-aideatext]
 title: "सकरात पद्धति"
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-11-07T18:36:55-05:00"

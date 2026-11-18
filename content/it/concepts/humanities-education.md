@@ -3,7 +3,7 @@ title: Istruzione umanistica e nelle scienze sociali
 created: "2026-10-14T21:55:00-04:00"
 updated: "2026-11-08T14:01:53-05:00"
 type: concept
-foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
+foundations: [ai-literacy, critical-thinking, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]

@@ -1,6 +1,7 @@
 ---
 title: "Insegnamento"
 created: "2026-10-14T22:34:00-04:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [ai-literacy, educational-development, learning-design, teacher-ai-competency]
 pedagogy: [scaffolding]
@@ -11,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-ti
 
 confidence: high
 translation_of: concepts/teacher-role
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -19,13 +20,15 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
 
 *Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*
 
 > **L'insegnamento** — come l'IA rimodella il lavoro, l'identità e l'agentività degli educatori. Con oltre 50 articoli che esaminano questa dimensione, la base di conoscenza documenta una trasformazione fondamentale: dall'essere unica autorità del sapere al diventare orchestratore di ambienti di apprendimento umano-IA. Questa pagina va oltre la descrizione di quello spostamento — descrive nel dettaglio che cosa i docenti fanno effettivamente di *diverso*, come possono adattare la propria pratica, e come si collegano alla [[learning-design|progettazione dell'apprendimento]], all'[[ai-literacy|alfabetizzazione in IA]] e all'[[academic-integrity|integrità accademica]].
-
-> [[caeo-navigating-ai-educational-future-scenarios-2026|Malyn-Smith et al. (2026)]] chiamano questo il paradosso più-umano: in sei scenari 2030 co-costruiti da 20 ricercatori provenienti da 13 Paesi, la saturazione dell'IA intensifica anziché soppiantare il lavoro pedagogico umano. Gli scenari descrivono l'IA come «il sistema di trattamento dell'aria dell'ecosistema dell'apprendimento» — la si nota solo quando si guasta.
 
 ## Domande da considerare
 
@@ -48,6 +51,8 @@ Qui l'insegnamento nomina il ruolo professionale così come l'IA lo rimodella: m
 - **Co-progettazione e agentività:** i [[teacher-authored-prompts-student-ai-dialogue|prompt scritti dai docenti]] e il [[gaide-vibe-coding-k12-teachers|vibe coding per i docenti]] mostrano gli educatori come progettisti attivi dell'IA, non come consumatori passivi — che scrivono i prompt e le impalcature che plasmano il comportamento dell'IA verso i propri studenti. Nella pianificazione di lezioni artistiche STEAM per bambini, [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo e Tahir (2025)]] hanno confermato sperimentalmente che *come* il docente delega a ChatGPT conta: colmare le lacune di contenuto in una lezione già delineata dal docente (il metodo preferito dal 60% e raccomandato) preservava l'autonomia progettuale del docente aumentando al contempo la qualità del piano valutata dagli esperti (mediana 20,5 vs 17,6, p = 0,002, effetto ampio), superando sia il far generare all'IA piani interi sia il limitarsi a verificare un piano già finito. L'IA ha servito principalmente da collaboratrice di ispirazione e di individuazione delle lacune anziché da fonte di innovazione pienamente originale — rafforzando l'idea che il docente resti l'agente della progettazione e il giudice dell'output, incluso nel cogliere i difetti di sicurezza dei bambini e di pregiudizio culturale che lo strumento aveva mancato. Una [[meta-analysis-systematic-review|revisione sistematica]] sulla [[wang-teacher-ai-co-design-review-2026|co-progettazione docente-IA di compiti di apprendimento]] (Wang, Liu & Islam 2026) rileva che questa postura di co-progettista resta diseguale — la modalità dominante è ancora l'IA come assistente e generatrice di contenuti — e [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] mostra che l'agentività del docente come «progettista di apprendimento [[multilingual-learning|bilingue]]» è ciò che trasforma le attività di gruppo progettate dall'IA in un'istruzione differenziata e allineata alla ZPD.
 
 - **Scrivere un bot non equivale a controllare che cosa insegna.** Ventisette docenti della [[k-12|scuola media]] che hanno configurato uno strumento di authoring di chatbot basato su scopo e regole hanno osservato una fedeltà solo parziale nel comportamento generato: l'allineamento scendeva dall'88,9% per la reattività e dall'81,5% per la persona al 70,4% per le regole e al 59,3% per lo scopo, e l'aderenza alle regole variava in base al modello scelto — il divario esecuzione/valutazione che rende il ruolo del docente come progettista una prova d'intenti piuttosto che una garanzia di essa ([[teachers-configure-educational-chatbots-2026|Riahi et al. (2026)]]).
+- **L'authoring è la parte del ruolo educativo che la letteratura sugli ITS per lo più nega.** Su 21 studi in classe, solo 2 descrivevano sistemi indipendenti dal dominio che richiedevano agli educatori di produrre i contenuti da soli, mentre 66 di 160 affermazioni dal punto di vista dell'educatore riguardavano analytics e monitoraggio dei discenti ([[gnadlinger-educator-perspectives-its-design-2026|Gnadlinger e Kriglstein, 2026]]). Dove materiali e valutazione arrivano prefabbricati, la posizione di co-progettista è già stata decisa dal fornitore.
+
 - **Preparazione [[teacher-education|pre-servizio]]:** la [[ai-tpack-preservice-math-teachers|formazione basata sul TPACK]] e i programmi di [[educational-development|sviluppo professionale]] preparano i futuri docenti alle classi potenziate dall'IA prima che vi entrino. Il [[zhuang-zhang-chatgpt-math-teacher-education-2026|role-play con studenti simulati]] estende questo alla pratica diretta: un bot ChatGPT personalizzato (Student GPT) che interpreta uno studente della scuola media afflitto da [[misconceptions|concetti errati]] matematici permette ai docenti pre-servizio di esercitarsi a diagnosticare e guidare il ragionamento degli studenti in un contesto a basso rischio, preparandoli a un compito didattico centrale — leggere e rimediare il pensiero degli studenti.
 
 - **Una frontiera rivolta ai docenti che la base di evidenze ha a malapena toccato:** [[edustories-classroom-case-studies-2026|Štefánik et al. (2026)]] assemblano gli **Edustories**, 1.492 casi di studio scritti da docenti su classi reali della scuola elementare e superiore — comportamento difficile degli studenti, l'intervento che il docente ha tentato, e che cosa ne è seguito — proprio perché la maggior parte della ricerca sull'IA nell'educazione ha preso di mira il sostegno individualizzato allo studente, mentre la maggior parte dell'insegnamento avviene in classi collettive. Mettendo a [[benchmark|benchmark]] quattro famiglie di modelli linguistici sulla previsione del successo di un intervento, i modelli più forti hanno raggiunto il 58% di accuratezza contro il 64% degli esperti umani; gli autori leggono il divario in entrambe le direzioni, come un limite dell'assistenza [[teacher-ai-competency|rivolta ai docenti]] attuale e come evidenza di un potenziale emergente. Quel che la pagina ne ricava è un tetto misurato anziché un'affermazione di capacità: la consulenza ai docenti deve essere migliore del giudizio esperto prima di poter essere degna di fiducia, e oggi l'ordinamento è l'inverso. Un vuoto parallelo appare nella revisione PRISMA di [[yalcin-genai-programming-education-systematic-review-2026|Yalçın et al. (2026)]] su 46 studi empirici sulla GenAI nell'insegnamento della programmazione nell'istruzione superiore: i ruoli dei docenti e le pratiche istituzionali erano tra le aree meno studiate del campo, e 26 dei 46 studi non fornivano alcuna descrizione codificabile del proprio approccio didattico, per cui le decisioni di progettazione che hanno prodotto i risultati riportati sono spesso invisibili anche agli altri docenti.
@@ -62,9 +67,13 @@ I docenti sollecitati a consultare il report del compito aumentavano il completa
 Nelle classi sotto i 44 studenti il guadagno era di almeno 24,5 punti percentuali (F = 7,475, p = 0,007); i docenti con più di 43 studenti consultavano già i report ad alti tassi, sollecitati o no (77% contro 75%) — probabilmente sempre-adottanti senza margine di spostamento.
 L'incoraggiamento conta quindi soprattutto dove l'uso dei report può ancora crescere.
 
+- Lan e Chen (2026) propongono di giudicare la paternità docente per provenienza: un agente conta come gemello di un docente solo se la sua autorità risale a un docente nominato che ne conserva la responsabilità, ha tradotto il giudizio in una specifica ispezionabile ed estende la capacità senza spostare la paternità, mentre i default della piattaforma producono un proxy, non un gemello ([[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan & Chen, 2026]]).
+
 ### La metafora dell'orchestrazione
 
 La metafora dominante nella base di conoscenza è l'*orchestrazione*: i docenti coordinano studenti umani, [[intelligent-tutoring|tutor IA]] e risorse curricolari. Questo contrasta con le narrative della sostituzione — l'IA integra anziché sostituire l'insegnamento umano. L'evidenza empirica sostiene questa posizione: una [[meta-analysis-systematic-review|revisione sistematica]] guidata da PRISMA su 42 studi (2023–2025) ha rilevato che gli LLM eguagliano i valutatori umani su compiti brevi e ben strutturati, ma che la performance cala su lavori più lunghi, multilingui e sfumati — concludendo che gli LLM non possono sostituire pienamente i docenti e che i sistemi di valutazione ibridi, con l'umano nel ciclo, ottengono la massima efficacia nella correzione ([[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]). La lente dell'orchestrazione riformula l'abilità centrale del docente come *giudizio*: decidere quando un essere umano, un'IA o un'attività di apprendimento progettata sia lo strumento giusto per un dato studente e un dato momento. Una revisione PRISMA del 2026 su 29 studi sugli [[teacher-intervention-k12-ai-based-instruction-2026|interventi dei docenti nell'istruzione K-12 basata sull'IA]] affina la metafora in un ciclo a quattro fasi — monitoraggio, giudizio, intervento, orchestrazione — e mostra perché nessuna fase possa essere data per scontata. I docenti preferivano il controllo condiviso, accettando, modificando, rifiutando o scavalcando i suggerimenti dell'IA; alcuni rinviavano deliberatamente l'intervento perché gli studenti potessero prima lottare in modo produttivo; e le dashboard che ampliavano la consapevolezza potevano anche sovraccaricare l'attenzione o eccedere ciò su cui un solo docente poteva fisicamente agire. Le sue tre strategie — traduzione pedagogica dell'output dell'IA, progettazione del supporto all'apprendimento, e ricostruzione delle strutture di interazione — descrivono il lavoro come ricontestualizzazione anziché approvazione, il che colloca il docente più vicino al mediatore che al ruolo di revisore umano-nel-ciclo. L'osservazione in classe nomina gli stessi comportamenti come tipi. Sei lezioni con un docente esperto hanno aggiunto tre tipi di orchestrazione ai quattro di Drijvers — monitoraggio tramite dashboard, correzione dell'IA e mediazione dell'IA — con i ruoli di contenuto ed etici del docente più visibili quando correggeva il feedback generato dall'IA ([[teachers-instrumental-orchestration-ai-math-2026|Noh & Kim, 2026]]).
+
+Il direttore d'orchestra è la figura più accurata del solista. [[chen-future-faculty-development-ai-2027|Chen et al. (2026)]] descrivono un docente che coordina competenze anziché fornirle tutte, poiché in un grande corso multi-sezione uno o due colleghi possono riprogettare compiti e rubriche mentre altri si occupano di architettura dell'apprendimento, valutazione degli strumenti o raccolta di evidenze. La loro distribuzione ha un pavimento: ogni membro del team conserva una competenza tecnica ed etica di base, quindi il ruolo è diretto, non esternalizzato.
 
 ### Ruoli docenti in evoluzione e critici
 
@@ -86,6 +95,11 @@ Lavori recenti espandono la metafora dell'orchestrazione in concettualizzazioni 
 - **Chi fissa gli scopi, non solo le competenze.** [[fagerlund-competency-agency-purposes-ai-education-2026|Fagerlund et al. (2026)]] hanno intervistato 13 docenti finlandesi dalla scuola dell'infanzia alla classe 9 sul perché gli studenti dovrebbero imparare a conoscere e con l'IA, leggendo i loro resoci attraverso la qualificazione, la socializzazione e la soggettivazione di Biesta. La qualificazione era lo scopo più chiaro e concreto, coprendo l'IA sia come bersaglio dell'apprendimento sia come strumento per esso; la socializzazione appariva come coltivazione di posizioni favorevoli verso l'IA e preparazione degli studenti come futuri lavoratori esperti di IA; la soggettivazione, l'impegno autodeterminato e personalmente significativo, era approvata come importante ma non aveva alle spalle strategie didattiche concrete, poggiando sul «discutere e contemplare». Gli autori propongono l'*agentività informata in IA*, con la soggettivazione al centro e le competenze come suo fondamento, il che attribuisce al ruolo docente un dovere di fissazione degli scopi: rendere esplicito il «perché» perché le abilità acquisiscano contesto anziché stare come fini in sé, e integrare i framework tecnici come il [[tpack|TPACK]] con un'attenzione sostenuta allo scopo educativo.
 - **L'adozione non è la stessa leva della prestazione.** Su 200 docenti nel Nord Sumatra, l'uso dell'IA non aveva alcun effetto diretto sulla prestazione dei docenti (β = 0,112, p = .087) mentre il comportamento di cittadinanza organizzativa la mediava a β = 0,370, quindi è il lavoro extra-ruolo e collaborativo attorno allo strumento, non lo strumento stesso, a convertire l'uso in prestazione ([[ai-use-teacher-performance-north-sumatra-2026|Sherly et al. (2027)]]).
 
+- **La correzione come il modo in cui i docenti conoscono i discenti.** [[wu-lam-genai-writing-assessment-professors-2026|Wu e Lam (2026)]] riportano che 5 dei 24 professori vedevano la correzione come il modo in cui capiscono i propri studenti, quindi delegarla all'IA rimuove una fonte di conoscenza pedagogica, non solo ore.
+
+- **Il ripristino dell'identità passa attraverso il lavoro relazionale — e il suo costo ricade sulle istituzioni.** Cheeseman, Ndorley e Cai propongono che gli educatori sotto pressione dell'IA rinegozino l'umano intensificando il tutoraggio e la modellizzazione della fatica intellettuale, e che questo sia sostenibile solo dove organico, carico di lavoro e criteri di promozione riconoscono il lavoro relazionale ([[cheeseman-human-in-the-loop-humanness-higher-ed-2026|Cheeseman et al. (2026)]]).
+- **Traduttore della governance in condizioni di classe.** [[socorro-philosophical-leadership-ai-2026|Socorro Márquez, Reyes Ortiz e Torrez Meruvia (2026)]] sintetizzano 137 fonti in un ruolo di *leadership filosofica* con tre fasi: giudizio etico prima dell'uso, guida pedagogica durante, e traduzione delle politiche. Qui il docente converte gli orientamenti sovranazionali — privacy, trasparenza, accountability — in condizioni di prompt, condizioni di valutazione e rifiuti che gli studenti possono vedere applicati. L'esempio pratico della revisione tiene le informazioni personali identificabili fuori dai prompt e rende la modellizzazione esplicita anziché annunciata. Il ruolo è argomentato, non misurato: la revisione non riporta alcun test se la leadership filosofica cambi la pratica.
+
 Questi ruoli collegano il lavoro docente alla [[distributed-cognition|cognizione distribuita]], all'[[situated-learning|apprendimento situato]], all'[[embodied-learning|apprendimento incarnato]] e alla [[critical-pedagogy|pedagogia critica]], e rifigurano il docente come progettista e guida etica dell'apprendimento [[sociocultural-learning|mediato dall'IA]] anziché come mero utilizzatore.
 
 - **Le decisioni supportate dall'IA si addensano dove sono disponibili dati comportamentali.** [[ai-supported-lecturer-decision-making-2026|Köroğlu et al. (2026)]] hanno esaminato 27 studi empirici (2016–2025) e hanno identificato otto tipi di decisione dei docenti, rilevando che il supporto dell'IA si concentrava sulle decisioni didattiche, di [[feedback]] e di [[assessment|valutazione]], mentre le decisioni curricolari, sull'ambiente di apprendimento, emotive, etiche e amministrative erano raramente supportate. Le dashboard di [[learning-analytics|learning analytics]] erano il sistema più comune, che trasformava dati testuali e di log in indicatori comportamentali di performance e coinvolgimento; i dati [[multimodal|multimodali]] e basati sull'interazione, i sistemi agentivi e gli esiti cognitivi, metacognitivi, [[motivation|motivazionali]] e affettivi erano tutti comparativamente rari nel corpus esaminato. La lettura pratica per i docenti è che lo spazio decisionale che uno strumento di IA apre è delimitato dai dati che visualizza, per cui la selezione dello strumento è anche una scelta su quali decisioni didattiche vengono sostenute.
@@ -105,6 +119,8 @@ L'evidenza della base di conoscenza converge su un insieme di adattamenti concre
 **Proteggere le condizioni per un apprendimento durevole.** Poiché le risposte dell'IA fanno sembrare facile l'apprendimento, i docenti devono progettare per contrastare il [[cognitive-offloading|divario performance-apprendimento]]. [[lodge-loble-cognitive-offloading-2026|Lodge & Loble]] avvertono che il successo senza sforzo con l'IA può mascherare l'assenza di apprendimento; i docenti dovrebbero inserire la [[productive-failure|lotta produttiva]], richiedere la dimostrazione non assistita della padronanza, e trattare le risposte assistite dall'IA come punto di partenza, non come esito finale.
 
 **Pianificare per il mezzo di erogazione.** L'adattamento non è neutro rispetto al mezzo: l'[[online-teaching-and-learning|insegnamento online]] con l'IA moltiplica sia le opportunità ([[personalized-learning|personalizzazione]] scalabile, supporto sempre attivo) sia i rischi (integrità, trasferimento all'esterno). Progettare l'involucro dell'IA in modo altrettanto deliberato online che in presenza.([[lopez-pernas-llm-appropriate-student-support-2026]])
+
+**Rispondere al thread, non a ogni post.** La presenza visibile è stata il fattore esterno che gli studenti hanno accreditato di più in quattro focus group con 26 studenti universitari STEM, e il pattern che descrivevano era un docente che spinge la discussione, chiede agli studenti di rispondersi a vicenda, poi risponde più avanti nella settimana ([[reding-discussion-boards-tam-ai-analytics-2026|Reding, Gartner e Nugent, 2026]]). Una presenza limitata a livello di thread bastava; rispondere a ogni post non era ciò che guadagnava il credito.
 
 ## Incorporare l'alfabetizzazione in IA nell'insegnamento
 
@@ -149,10 +165,26 @@ Il ruolo del docente e l'[[learner-identity|identità di chi apprende]] sono fac
 
 - Il ruolo del docente si estende alla co-progettazione di risorse di apprendimento con l'IA: le [[simulation|simulazioni]] co-progettate da docente e IA per l'insegnamento STEM dei droni mantenevano l'output della GenAI pedagogicamente valido e contestualmente rilevante, e i docenti sono i destinatari previsti della Teachers' AI Literacy Scale. L'integrazione efficace della GenAI dipende sempre più dal coinvolgimento dei docenti nella progettazione.
 
+- **L'IA costruita dai docenti ha battuto gli strumenti progettati centralmente.** Un [[rct|RCT]] preregistrato con 7.200 studenti in 55 corsi di 19 università ha trovato punteggi più alti di 0,32 DS in esami supervisionati senza IA quando erano i docenti in prima linea a progettare il supporto con IA ([[li-instructor-designed-ai-rct-2026|Li et al. (2026)]]), la prova più forte finora che l'autorità di progetto appartiene al docente.
+
 ### I sistemi di riflessione con l'IA dovrebbero adattarsi all'esperienza del docente
 
 - **Le analytics di riflessione rivolte ai docenti dovrebbero essere adattate all'esperienza, non tagliate uniche.** Un'indagine su 100 docenti della K-12 statunitensi (mediana divisa a nove anni; test binomiali; differenze di scelta del 15% rilevabili a ~83% di potenza) ha rilevato spaccature sistematiche nelle preferenze. I docenti meno esperti citano la mancanza di tempo per la riflessione come ostacolo principale a un ritmo triplo rispetto agli esperti (37% vs 12%, p < 0,001) e vogliono analytics sul disimpegno degli studenti (48% vs 33%, p = 0,028) e sulle emozioni (31% vs 18%, p = 0,036).
 - **La regola di progettazione derivata dalla spaccatura è la modalità di raccomandazione adattata all'esperienza.** I docenti esperti vogliono analytics sul miglior apprendimento dopo aver aiutato uno studente (40% vs 26%, p = 0,019) e sui propri metodi didattici (42% vs 26%, p = 0,012); il loro ostacolo principale è il monitoraggio della performance (28% vs 15%, p = 0,009). Regola di progettazione: modalità novizio = prompt strutturati e analytics sul coinvolgimento; modalità esperto = analisi longitudinale flessibile — un argomento diretto contro le dashboard uniformi. ([[falhs-teacher-expertise-reflection-2025]])
+
+Due prove recenti mettono numeri sul caso del carico di lavoro e sui suoi limiti. Una sperimentazione cluster-randomizzata in 68 scuole secondarie inglesi ha ridotto il tempo di preparazione delle lezioni da 81,5 a 56,2 minuti a settimana, un risparmio di 25,3 minuti, senza una perdita rilevata di qualità della lezione ([[roy-chatgpt-lesson-preparation-nfer-2024|Roy et al., 2024]]). Su ASSISTments, i docenti che ricevevano riassunti dei compiti generati da LLM vedevano più studenti iniziare e completare i compiti, mentre i punteggi a livello di classe non miglioravano ([[lim-llm-summaries-teachers-rct-2026|Lim et al., 2026]]). Il tempo risparmiato e il comportamento sono cambiati; l'apprendimento misurato no.
+
+## Implicazioni per la pratica
+
+L'evidenza sostiene un ordine specifico delle operazioni per un docente che adotta l'IA, anziché un elenco di funzionalità da imparare.
+
+1. **Scrivere l'attività prima di scegliere lo strumento.** Specificare l'obiettivo, il tentativo dello studente che viene prima, e che cosa conta come evidenza di comprensione. Gli strumenti scelti per primi tendono a riscrivere l'attività attorno a sé.
+2. **Decidere esplicitamente il pattern di delega.** Strutturare la lezione da soli e lasciare che l'IA riempia le lacune di contenuto, anziché accettare uno schema generato: è il pattern qui sopra con la differenza di qualità misurata.
+3. **Collocare il checkpoint umano dove risiede la titolarità.** Progettare perché chi apprende valuti, corregga e possieda il lavoro assistito dall'IA, e perché il feedback dell'IA arrivi come bozza che il docente cura anziché come commento che il docente inoltra.
+4. **Proteggere il tempo di interpretazione che lo spostamento crea.** Se l'attenzione si sposta dalla produzione di materiali alla lettura dei discenti, quel tempo riallocato deve sopravvivere al contatto con il calendario; se viene assorbito da nuovo lavoro amministrativo, il cambio di ruolo promesso non avviene.
+5. **Verificare se si viene formati sugli strumenti o sulla pedagogia.** Dato il risultato del SEM, preferire uno sviluppo professionale che lavori su compiti disciplinari e identità anziché sui tour delle funzionalità.
+
+L'autorità epistemica nella progettazione assistita dall'IA si negozia episodio per episodio anziché essere stabilita dalle politiche. Su 34 episodi di progettazione di cinque insegnanti di matematica in formazione, l'autorità è stata mantenuta in 16, condivisa in 12 e ceduta in 6; il docente che ha incollato un piano di lezione completo dell'IA era passato dalla costruzione all'autorizzazione, mentre un'altra ha mantenuto il proprio framework e adattato l'output del modello rispetto a esso ([[pang-epistemic-authority-ai-lesson-planning-2026|Pang et al. (2026)]]).
 
 ## Fraintendimenti comuni
 
@@ -163,16 +195,6 @@ Il ruolo del docente e l'[[learner-identity|identità di chi apprende]] sono fac
 **"I docenti sono già co-progettisti dell'IA, quindi la transizione è in corso."** L'aspirazione è reale; la descrizione non ancora. La revisione sistematica di [[wang-teacher-ai-co-design-review-2026|Wang, Liu e Islam (2026)]] sulla co-progettazione docente-IA dei compiti di apprendimento trova che la posizione di co-progettista **resta diseguale**, con il modo dominante ancora quello dell'IA come assistente o generatore di contenuti. Leggere quella revisione come prova di uno spostamento compiuto nasconderebbe il divario tra i docenti che una pagina come questa raccomanda e i docenti che la maggior parte delle istituzioni ha effettivamente.
 
 **"Come un docente delega a un chatbot conta poco, dato che il lavoro lo fa il modello."** Il pattern di delega è l'intervento. Nella progettazione di lezioni di arte STEAM per bambini, [[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo e Tahir (2025)]] hanno trovato sperimentalmente che riempire le lacune di contenuto in una lezione *auto-strutturata* preservava l'autonomia progettuale del docente mentre alzava comunque la qualità del piano valutata dagli esperti (mediana 20,5 contro 17,6, p = .002, effetto ampio), superando l'alternativa di lasciare che il modello fornisse lo schema. Stesso modello, stesso compito, divisione del lavoro diversa, risultato materialmente diverso.
-
-## Una sequenza di partenza pratica
-
-L'evidenza sostiene un ordine specifico delle operazioni per un docente che adotta l'IA, anziché un elenco di funzionalità da imparare.
-
-1. **Scrivere l'attività prima di scegliere lo strumento.** Specificare l'obiettivo, il tentativo dello studente che viene prima, e che cosa conta come evidenza di comprensione. Gli strumenti scelti per primi tendono a riscrivere l'attività attorno a sé.
-2. **Decidere esplicitamente il pattern di delega.** Strutturare la lezione da soli e lasciare che l'IA riempia le lacune di contenuto, anziché accettare uno schema generato: è il pattern qui sopra con la differenza di qualità misurata.
-3. **Collocare il checkpoint umano dove risiede la titolarità.** Progettare perché chi apprende valuti, corregga e possieda il lavoro assistito dall'IA, e perché il feedback dell'IA arrivi come bozza che il docente cura anziché come commento che il docente inoltra.
-4. **Proteggere il tempo di interpretazione che lo spostamento crea.** Se l'attenzione si sposta dalla produzione di materiali alla lettura dei discenti, quel tempo riallocato deve sopravvivere al contatto con il calendario; se viene assorbito da nuovo lavoro amministrativo, il cambio di ruolo promesso non avviene.
-5. **Verificare se si viene formati sugli strumenti o sulla pedagogia.** Dato il risultato del SEM, preferire uno sviluppo professionale che lavori su compiti disciplinari e identità anziché sui tour delle funzionalità.
 
 ## Concetti collegati
 
@@ -200,22 +222,24 @@ L'evidenza sostiene un ordine specifico delle operazioni per un docente che adot
 - [[reflection]]
 
 ## Articoli collegati
-
+- [[cheeseman-human-in-the-loop-humanness-higher-ed-2026]] — Quattro dinamiche identitarie, ambivalenza produttiva e il costo istituzionale del lavoro relazionale
+- [[roy-chatgpt-lesson-preparation-nfer-2024]] — 68 scuole secondarie inglesi: la preparazione delle lezioni è scesa di 25,3 minuti a settimana senza una perdita di qualità rilevata (Roy et al., 2024)
+- [[lim-llm-summaries-teachers-rct-2026]] — RCT su ASSISTments: i riassunti generati dall'IA hanno alzato il completamento dei compiti ma non i punteggi a livello di classe (Lim et al., 2026)
 - [[sessional-academics-contract-cheating-digital-misconduct-2026]] — Gli accademici a contratto portano il lavoro sull'integrità senza l'autorità
 - [[caeo-navigating-ai-educational-future-scenarios-2026]] — The more-human paradox: expert 2030 scenarios find AI saturation intensifies rather than displaces human pedagogical work (Malyn-Smith et al. 2026)
 - [[teachers-instrumental-orchestration-ai-math-2026]] — Six observed high school mathematics lessons extend instrumental orchestration with three new types (Noh & Kim 2026)
-- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Responding to AI-generated emotional alerts: teachers' intervention and students' engagement in the mathematics classroom
-
+- [[ai-emotional-alerts-teachers-mathematics-classroom-2026]] — Rispondere agli avvisi emotivi generati dall'IA: l'intervento dei docenti e l'engagement degli studenti nell'aula di matematica
 - [[edustories-classroom-case-studies-2026]] — Edustories: A Collection of Real-world Case Studies from Classroom Practices
 - [[reichert-human-centered-llm-chatbot-design-teachers-2026]] — Teachers design classroom chatbots as bounded experts and retain authority
 - [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI as "frenemy": teachers prefer semi-autonomy, usefulness drives adoption, risk aversion targets students' use (Dai et al. 2026)
 - [[ai-supported-lecturer-decision-making-2026]] — AI-Supported Lecturer Decision-Making in Higher Education
 - [[chirikov-regulate-ai-syllabi-2026]] — How instructors regulate AI across 31,000 course syllabi; task-level regulation (Chirikov 2026)
+- [[socorro-philosophical-leadership-ai-2026]] — La leadership filosofica come ruolo docente in tre fasi: giudizio etico, guida pedagogica, traduzione delle politiche (Socorro Márquez et al., 2026)
 - [[ai-teaching-innovation-ai-tpack-2026]] — AI teaching innovation behavior among college teachers (AI-TPACK SEM; Bai & Hsieh 2026)
-- [[teacher-ai-teaming-five-levels]]
-- [[teacher-student-agency-orchestration]]
-- [[ai-changing-teaching-workflows]]
-- [[teacher-authored-prompts-student-ai-dialogue]]
+- [[teacher-ai-teaming-five-levels]] — 
+- [[teacher-student-agency-orchestration]] — 
+- [[ai-changing-teaching-workflows]] — 
+- [[teacher-authored-prompts-student-ai-dialogue]] — 
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI as identity crisis, not skills gap
 - [[lodge-loble-cognitive-offloading-2026]] — AI, cognitive offloading and implications for education (Lodge & Loble 2026)
 - [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
@@ -226,27 +250,31 @@ L'evidenza sostiene un ordine specifico delle operazioni per un docente che adot
 - [[luo-dawson-value-judgments-grading-2026]] — Value judgments in grading GenAI-assisted work: honesty, trust, validity, and two-way transparency (Luo & Dawson 2026)
 - [[mejia-domenzain-ml-findings-teachers-blended-2026]] — Making ML findings accessible to teachers in blended classrooms
 - [[li-language-educators-genai-review-2026]] — Language educators' practices and development with GenAI
-- [[luo-tahir-chatgpt-steam-lesson-planning-2026]]
-- [[breideband-community-builder-cobi-2026]]
-- [[zhuang-zhang-chatgpt-math-teacher-education-2026]]
-- [[xai-teachers-trust-edtech-recommendations-2026]]
-- [[karaismailoglu-ai-lesson-plans-science-experts-2026]]
-- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]
+- [[luo-tahir-chatgpt-steam-lesson-planning-2026]] — 
+- [[breideband-community-builder-cobi-2026]] — 
+- [[zhuang-zhang-chatgpt-math-teacher-education-2026]] — 
+- [[xai-teachers-trust-edtech-recommendations-2026]] — 
+- [[karaismailoglu-ai-lesson-plans-science-experts-2026]] — 
+- [[jukiewicz-chatgpt-teacher-assessment-feedback-2026]] — 
 - [[ai-integrated-teaching-identity-tensions]] — Identity tensions and principled selectivity in AI-integrated teaching (Adiozaman & Segar 2026)
 - [[teacher-intervention-k12-ai-based-instruction-2026]] — Teacher intervention in K-12 AI-based instruction: a systematic review
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Academic developers as digital mediators: role reconfiguration, affective labor and judgment in South African HDIs
 - [[where-ai-enters-teacher-work-2026]] — Where Artificial Intelligence Enters Teacher Work
 - [[rodrigues-aied-unplugged-numeracy-2026]] — AIED unplugged: the teacher as proxy between learners and the AI, 19-class quasi-experiment where training and indirect effort reduction drive gains (Rodrigues et al. 2026)
 - [[instructional-governance-design-computing-education-2026]] — Instructional Governance by Design: A Framework for AI in Computing Education
-
 - [[teachers-configure-educational-chatbots-2026]] — Will It Teach as Intended? How Teachers Configure Educational AI Chatbots
 - [[canonigo-teacher-mediation-generative-ai-mathematics-2026]] — Teacher mediation in mathematics: five critical-mediation practices, shifting authority, and the free-versus-premium algorithmic divide
 - [[charles-teacher-readiness-by-design-ai-rich-2026]] — Teacher readiness-by-design: readiness as design capability, not adoption or confidence (Charles 2026)
 - [[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026]] — ChatGPT-assisted teacher feedback: teachers curate AI drafts rather than relay them
-- [[fagerlund-competency-agency-purposes-ai-education-2026]] — From competency to agency: teachers' views of the purposes of AI education
+- [[fagerlund-competency-agency-purposes-ai-education-2026]] — Dalla competenza all'agentività: le opinioni dei docenti sugli scopi dell'educazione all'IA
 - [[kuhail-great-debaters-ai-facilitators-2026]] — Human versus AI debate moderators: equivalent ratings, different routes to reuse
-- [[yalcin-genai-programming-education-systematic-review-2026]] — GenAI in programming education: a systematic review in which instructor roles are least studied
+- [[yalcin-genai-programming-education-systematic-review-2026]] — La GenAI nell'insegnamento della programmazione: una revisione sistematica in cui i ruoli dei docenti sono l'area meno studiata
 - [[heutagogical-teaching-ai-enhanced-education-2026]] — From information providers to learning designers: heutagogical teaching practices in AI-enhanced education
 - [[falhs-teacher-expertise-reflection-2025]] — How Expertise Levels Shape Preferences and Reflection Needs: Towards AI Reflection Systems for Teacher Empowerment (Falhs et al. 2025)
 - [[etq-ai-conversational-teacher-training-2026]] — Conversational AI diagnostic for teaching misconceptions with evidence-grounded dialogue (Miranda & Calvani 2026)
 - [[ai-use-teacher-performance-north-sumatra-2026]] — L'uso dell'IA non ha avuto alcun effetto diretto sulla prestazione dei docenti; il comportamento di cittadinanza organizzativa la mediava (Sherly et al. 2027)
+- [[pang-epistemic-authority-ai-lesson-planning-2026]] — 34 episodi in cui l'autorità è mantenuta, condivisa o ceduta nella progettazione delle lezioni assistita dall'IA
+- [[reding-discussion-boards-tam-ai-analytics-2026]] — Le percezioni degli studenti dei forum di discussione: uno studio con il modello di accettazione della tecnologia per informare la progettazione di analytics dell'apprendimento abilitate dall'IA
+- [[gnadlinger-educator-perspectives-its-design-2026]] — Verso l'integrazione delle prospettive degli educatori nella progettazione del meta-sistema dei sistemi di tutoraggio intelligente
+- [[chen-future-faculty-development-ai-2027]] — Il docente come direttore delle competenze altrui, con ruoli distribuiti in un team didattico
+- [[li-instructor-designed-ai-rct-2026]] — L'IA progettata dai docenti migliora l'apprendimento in una sperimentazione randomizzata su 19 università (Li et al., 2026)

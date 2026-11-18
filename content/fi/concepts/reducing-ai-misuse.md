@@ -9,14 +9,18 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-11-04T15:40:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -39,12 +43,12 @@ Käsite nojaa näyttöön siitä, että tekoälyn väärinkäyttö vahingoittaa 
 
 Mekanismilla, jolla väärinkäyttö muodostuu, on nyt mitattu ketju takanaan. [[guo-overreliance-genai-feedback-2026|Guo ja Dong (2026)]] kyselyttivät 600 perustutkinto-opiskelijaa ja havaitsivat koetun kognitiivisen kuormituksen ennustavan kognitiivista siirtokuormitusta β = 0,844 matalan seurannan ryhmässä ja β = 0,840 korkean ryhmässä. Siirtokuormitus ennusti edelleen liiallista nojautumista tekoälypalautteeseen β = 0,396 ja β = 0,506, epäsuorien vaikutusten ollessa 0,335 [0,069; 0,611] ja 0,426 [0,149; 0,648]. Kuormitus ennusti liiallista nojautumista myös suoraan (β = 0,560 ja 0,419), joten siirtokuormitus on osittainen välittäjä, ja se edeltävä tekijä, johon rakenteellinen vipu voi iskeä, on itse kuormitus.
 
-### Miksi rakenteelliset vivut ovat tärkeimpiä
+## Miksi rakenteelliset vivut ovat tärkeimpiä
 
 Interventiot voidaan järjestää **kausaalisen näytön, rakenteellisen ulottuvuuden, skaalautuvuuden ja [[sustainability]]** mukaan. Tällä perusteella kaksi *rakenteellista* vipua sijoittuu korkeimmalle, koska ne toimivat riippumatta siitä, valitseeko opiskelija oikean käyttäytymisen: ne rajoittavat ympäristöä sen sijaan että ne nojaisivat sisäiseen motivaatioon. *Kasvatukselliset* vivut ovat välttämättömiä mutta tehokkaita vain, kun opiskelijat hyväksyvät ne, joten niitä kohdellaan toisena tasona käsitteellisestä lupauksestaan huolimatta. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher ja Calderon (2025)]] nostavat rakenteellisen argumentin tasoa ylemmäs kohtelemalla opiskelijoiden käyttäytymisen sijaan hallintoa sitovana rajoitteena ja ehdottamalla 130 kohdan rehellisyyden indikaattorikehystä, jotta akateemiset hallintojohtajat voivat nähdä, onko arviointi autenttista, tunnetaanko opiskelijat yksilöllisesti heitä arvioivien opettajien toimesta ja sisältyykö rehellisyys perehdytykseen ja orientaatioon. Heidän uudistuksensa kohdistuvat hallintoarkkitehtuureihin, ihmisiin sekä [[ai-technologies|teknologioihin ja resursseihin]], ja he ehdottavat [[guardrails|red teaming]] -menetelmän lainaamista kyberturvallisuudesta arviointien haavoittuvuuksien paljastamiseksi ennen kuin opiskelijat löytävät ne: muistutus siitä, että rakenteellista lattiaa ylläpitävät instituutiot, jotka tarvitsevat sekä tiedon että tahdon sen ylläpitämiseen.
 Vastuullisen käytön kirjallisuus itse testaa harvoin sitä ketjua, jonka tämä järjestys olettaa. 122 lähestymistietueesta 31 tutkimuksesta 51 oli sekä toteutettu että arvioitu, useimmiten [[self-report-measures|itsearvioinnilla]], ja vain neljä tutkimusta määritteli rajan, suunnitteli siihen intervention ja testasi, olivatko opiskelijoiden päätökset linjassa sen kanssa ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega ja Zhao (2026)]]).
 
-### Taso 1: suoraan osoitettu vähentävän oppimishaitaa
+## Taso 1: suoraan osoitettu vähentävän oppimishaitaa
 
 **Suojakaiteilla varustettu tekoälytyökalun suunnittelu ("vihje ei vastaus", [[scaffolding]]).** Tietopohjan vahvimmassa kausaalisessa havainnossa kenttä-[[rct]] osoitti, että suojaamaton ChatGPT-tyylinen tutor nosti avustetun harjoittelun suoriutumista **+48 %** mutta laski avustamattomia tenttipisteitä **−17 %**, kun taas suojakaiteilla varustettu tutor (vihjeitä vastausten sijaan sekä opettajan kirjoittama tehtävätieto) poisti haitan kokonaan. Tämä estää mekaanisesti vastausten kopioinnin "apupyörä"-käyttäytymisen, joka on vahingon taustalla. Toimenpiteisiin kuuluvat vihje ei vastaus -tutorointi, kehotteiden siementäminen oikeilla ratkaisuilla ja yleisillä väärinkäsityksillä ([[misconceptions]]) sekä vaatimus opiskelijan yrityksestä ennen tekoälyn tuotoksen paljastamista.
 
@@ -54,7 +58,7 @@ Vastuullisen käytön kirjallisuus itse testaa harvoin sitä ketjua, jonka täm�
 
 Rakenteellisilla vivuilla on täytäntöönpanovarsi, ja sen näyttöpohja on heikompi kuin sen ulottuvuus antaa ymmärtää. [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] koodasivat 1 162 generatiivisen tekoälyn väärinkäytöstapausta ja havaitsivat, että väitteen esittämishetkellä useimmin viitattu näyttö ([[ai-detection|havaitsijan]] tuotos, samankaltaisuusraportit, tekoälylle tyypilliset sisältökuviot) kantoi heikoimman todistusarvon, kun taas valinnat, havaittu tenttikäyttäytyminen ja riippumattomasti vahvistetut keksityt viitteet olivat vahvimmat; koska institutionaaliset menettelyt eivät aseta vähimmäisnäyttökynnystä, näytön laadulla ei ollut luotettavaa yhteyttä tapausten lopputuloksiin, ja opiskelijoilla, joiden tapaukset nojasivat ohueen näyttöön, oli käytettävissään lähinnä valitukset. [[wright-transcription-not-generation-2026|Wright (2026)]] osoittaa saman epätarkkuuden toisen kustannuksen: "generatiivisen tekoälyn" ympärille eikä toiminnon ympärille kirjoitetut kiellot kattavat työkaluja, jotka vain muuntavat jo opiskelijan kirjoittaman työn muodon, joten pelkkä transkriptiokäyttö voidaan sanktioida väärinkäytökseksi, mikä on liiallinen kattavuus, joka osuu kovimmin vammaisiin ja [[equity-in-ai-education|tasa-arvolle]] altistuviin oppijoihin ([[learners]]) eikä tee mitään [[assessment-validity|validiteetin]] hyväksi. [[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana, Mtshali ja Mchunu (2026)]] lisäävät, että [[remote-proctoring|etävalvonta]], laajimmin omaksuttu rehellisyyden valvontakeino, perustaa pelotevaikutuksensa siihen, miten opiskelijat sanovat tuntevansa, eikä vähentyneeseen väärinkäyttöön, ja asettaa [[anxiety-and-stress|ahdistusta]], keskittymisen menetystä ja infrastruktuurista johtuvaa syrjäytymistä, joihin ei ole osoitettu vastattavan vähentyneellä väärinkäytöllä. [[li-genai-assessment-language-equity-2026|Li (2026)]] lisää sääntösuunnittelun ulottuvuuden: koska sama käyttöliittymä suorittaa sekä sallittua kielellistä muokkausta että kiellettyä sisällöllistä luonnostelua, eriyttämättömät GenAI-säännöt asettavat kohortittain vinoja vaatimustenmukaisuusrasitteita opiskelijoille, jotka käyttävät englantia lisäkielenä, joten puolustettavampi ennaltaehkäisy on tarkoitusperusteinen tuen ja korvaamisen raja, joka on ankkuroitu arvioinnin konstruktiin, kalibroidulla ilmoittamisella, oikeasuhteisuudella, joka on porrastettu kynnys-, näyttö- ja seuraamuspäätöksiin, sekä suunnitteluvivuilla (vaiheistetut palautukset, lyhyt konstruktin mukainen suullinen todennus, kritiikkipohjaiset kysymykset), jotka tekevät sen työn, jota havaitseminen ei pysty tekemään. Ennaltaehkäisyn on katettava myös arvioija itse: [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] red team -arviointi havaitsi, että kaksi viidestä palautustiedostoon upotetusta epäsuoran kehoteinjektion strategiasta nosti hylätyn esseen hyväksytyksi havaitsematta, raportoiduilla onnistumisasteilla 100 % ja 94 %, joten siellä missä tekoälytyökalut arvostelevat opiskelijatyötä, [[human-in-the-loop-ai|inhimillinen tarkistus]], ohjeiden ja palautetun sisällön selkeämpi erottaminen ja kestävyystestaus kuuluvat rakenteelliseen lattiaan eivätkä valinnaiseen tasoon.
 
-### Taso 2: vahva kehystuki, korkea potentiaali
+## Taso 2: vahva kehystuki, korkea potentiaali
 
 **Tuettu käyttösekvenssi: ajattele ensin, tekoäly toiseksi, reflektoi kolmanneksi.** Kahdeksan suunnitteluperiaatetta LLM:ien integroimiseksi niin, ettei [[critical-thinking]] syrjäydy: säilytä kognitiivinen kitka, asemoi tekoäly väliaikaiseksi ajattelukumppaniksi auktoriteetin sijaan, upota arviointitarkistuspisteitä, vaadi [[metacognition|metakognitiivista]] päiväkirjanpitoa ja kehotelokeja sekä tasapainota tekoälyn välittämiä vaiheita tekoälyvapaisiin. Korrelatiivinen näyttö (itsenäinen työ ennen tekoälyä tuottaa vahvempia tuotoksia) on vahvaa; se on tason 1 pedagogisesti täydellinen versio.
 
@@ -64,7 +68,7 @@ Rakenteellisilla vivuilla on täytäntöönpanovarsi, ja sen näyttöpohja on he
 
 Kasvatukselliset vivut näyttävät jälleen erilaisilta, kun rehellisyyttä kohdellaan opetettavana käytäntönä eikä täytäntöönpantavana sääntönä. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] väittää, että havaitsemis- ja todennuspohjaiset rehellisyysjärjestelmät ovat väärin kohdistettuja GenAI:n täydentämään työhön, ja kehystää rehellisyyden uudelleen pedagogiseksi käytännöksi, joka toteutuu [[evaluative-judgment|arvioivan harkinnan]] kautta (oppijan kyky punnita vaihtoehtoja, perustella akateemisia valintoja ja ottaa vastuu epävarmuudessa) ja tehdään näkyväksi artefakteilla kuten kommentoidut päätöspolut, dokumentoitu todennus, [[oral-assessment|suullinen puolustus]] ja luonnoksesta luonnokseen -versiohistoria, kun taas havaitseminen alennetaan yhdeksi täydentäväksi kerrokseksi ensisijaisen infrastruktuurin sijaan. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa ja Mezgebu (2026)]] löytävät saman avauksen opiskelijoiden puolelta: 27 haastattelussa etiopialaisessa [[higher-ed|yliopistossa]] käyttö oli lähes yleismaailmallista, useimmat osallistujat katsoivat GenAI:n nostaneen heidän menestystään, ja terävin valitus kulki toiseen suuntaan: tekoälyn käyttäjät saivat korkeampia arvosanoja kuin ahkerat itsenäiset tekijät, mitä osallistujat kuvasivat lamauttavaksi. Tekijät päättelevät, että opiskelijoiden uskomukset ennustavat eettistä käyttöä vahvemmin kuin institutionaaliset säännöt, joten tietoisuuden, selkeän politiikan ja arvioinnin uudelleensuunnittelun on saavuttava yhdessä, mikä on tämän sivun kasvatuksellinen taso ehtona ilmaistuna: kapasiteetin rakentaminen muuttaa käyttäytymistä vain [[framing-ai-use-for-students|opiskelijoiden hyväksynnän]] kautta yhdessä rakenteellisen lattian kanssa. [[ji-student-voices-academic-integrity-scoping-2026|Jin (2026)]] [[meta-analysis-systematic-review|katsaus]] 38 opiskelijoiden ääniä koskevasta tutkimuksesta tarjoaa samalle johtopäätökselle kenttätason version: katsatut tutkimukset päätyvät yhdessä siirtymään jälkikäteisestä havaitsemisesta ennakoivaan eettiseen päättelyyn, tekoälyn etiikan ja AI-plagioinnin opettamiseen [[curriculum-design|opetussuunnitelmassa]] eikä yksittäisissä [[ai-literacy|lukutaito]]istunnoissa, sekä yksityiskohtaisiin ohjeisiin, jotka johtajat, tiedekunta ja opiskelijat ovat luoneet yhdessä, koska epäselvä ohjaus luetaan hiljaiseksi luvaksi eikä varoitukseksi. Jin oma luenta on, että omistajuus ja moraalinen päättely motivoivat opiskelijoita enemmän kuin rangaistuksen pelko, ja että opiskelijat eivät ole GenAI:n passiivisia vastaanottajia eivätkä moraalirajoitteettomia syyllisiä vaan moraalisia toimijoita, jotka työskentelevät harmaalla vyöhykkeellä: tämän tason lähtökohta havaintona ilmaistuna.
 
-### Taso 3: lupaava, vähemmän suoraa kausaalinäyttöä
+## Taso 3: lupaava, vähemmän suoraa kausaalinäyttöä
 
 **Metakognitiiviset ja [[self-assessment|itsearviointi]]-interventiot.** [[reflection|Reflektiopäiväkirjat]], kehotelokit ja kalibrointiharjoittelu rakentavat uudelleen tekoälyn kanssa kasvaneiden opiskelijoiden "puuttuvan kognitiivisen perustason", jotka eivät pysty paikantamaan omaa kognitiivista rajaansa, koska tekoälyn tuottama sujuvuus peittää sen. Käsitteellisesti keskeinen mutta ei vielä kausaalisesti testattu.
 
@@ -76,17 +80,7 @@ Kasvatukselliset vivut näyttävät jälleen erilaisilta, kun rehellisyyttä koh
 
 - **[[desirable-difficulties|Tuottava kitka]] ja pedagoginen funktio.** Sydneyn pikakatsaus väittää, että GenAI heikentää oppimista, kun se antaa opiskelijoiden ohittaa oppimiseen tarvittavan kognitiivisen ja metakognitiivisen kitkan, ja että tarkoituksellisesti suunnitellut työkalut tuovat *tuottavaa kitkaa* (vastausten pidättäminen, selityksen vaatiminen). Se erottaa neljä pedagogista funktiota: oppiminen GenAI:sta, sen kanssa, siitä tai sitä muovaamalla, joilla kullakin on erilaiset vaatimukset toimijuudelle ja arvioinnille.([[young-people-learning-generative-ai-rapid-review-2026]])
 
-## Yleiset väärinkäsitykset
-
-**"Opiskelijoiden opettaminen riskeistä on tärkein vipu väärinkäyttöä vastaan."** Se on vipu, joka riippuu opiskelijan yhteistyöstä, minkä vuoksi se sijoittuu tällä sivulla rakenteellisten alapuolelle. Suojakaiteet ja arvioinnin uudelleensuunnittelu toimivat riippumatta siitä, valitseeko opiskelija oikean käyttäytymisen; kasvatukselliset lähestymistavat toimivat vain hyväksynnän kanssa. Ero ei ole moraalinen vaan mekaaninen: muutettu ympäristö rajoittaa käyttäytymistä suoraan, kun taas muutetun uskomuksen on kestettävä määräaikaan asti yli yön.
-
-**"Jos suojakaide pitää istunnon ajan, oppiminen on turvattu."** Pito ja opettaminen ovat erillisiä lopputuloksia, ja korpus sisältää puhtaan kaksoistuloksen. Yhteenvetokannan pidättäminen [[agentic-ai|moniagentti]]väittelyssä leikkasi opiskelijoiden siirtymisen väärään tekoälykantaan 42-60,5 prosentista 5,7-8,2 prosenttiin, mikä on suuri suojaava vaikutus, mutta tuotti **ei oppimisvaikutusta istunnon sisällä** (β = 0,03, p = 0,18). Kaide teki tehtävänsä kaiteena eikä muuttunut opetukseksi. Väärinkäytön ennaltaehkäisyyn suunnitteleminen ei ole sama kuin oppimiseen suunnitteleminen.
-
-**"Väärinkäytön havaitseminen ja rankaiseminen on ennaltaehkäisystrategia."** Ennaltaehkäisyn on katettava myös arvioija itse. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] red team -arviointi havaitsi, että kaksi viidestä palautustiedostoon upotetusta epäsuoran kehoteinjektion strategiasta nosti hylätyn esseen pisteitä. Putki, joka havaitsee opiskelijoiden väärinkäytön mutta luottaa tarkistamattomaan palautussisältöön, on puolustettu vain toiselta puolelta.
-
-**"Väärinkäyttö on opiskelijoiden motivaatio-ongelma."** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher ja Calderon (2025)]] siirtävät sitovan rajoitteen tasoa ylemmäs kohtelemalla opiskelijoiden käyttäytymisen sijaan hallintoa muutettavana asiana ja ehdottamalla 130 kohdan rehellisyyden indikaattorikehystä. Ja oppimishaitta on mitattavissa laajassa mitassa: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei ja Wu (2026)]] havaitsivat kotitehtävien ulkoistamisen nostaneen kotitehtäväpisteitä 18 % samalla kun se *laski* kirjatenttipisteitä 20 %, suunnittelun epäonnistuminen, joka näkyy täsmälleen siinä kuilussa, josta tämä sivu kertoo.
-
-## Toteutusohjeet rooleittain
+## Käytännön seuraukset
 
 **Opettajille ja kurssitiimeille**
 
@@ -104,6 +98,16 @@ Kasvatukselliset vivut näyttävät jälleen erilaisilta, kun rehellisyyttä koh
 **Hallinnolle ja päättäjille**
 
 - Sijoita sitova rajoite sinne, minne näyttö sen sijoittaa. Indikaattorit ja hallintorakenteet käsittelevät ympäristöä; opiskelijoille suunnattu kehotus käsittelee henkilöä, joka pystyy vähiten muuttamaan institutionaalista suunnittelua.
+
+## Yleiset väärinkäsitykset
+
+**"Opiskelijoiden opettaminen riskeistä on tärkein vipu väärinkäyttöä vastaan."** Se on vipu, joka riippuu opiskelijan yhteistyöstä, minkä vuoksi se sijoittuu tällä sivulla rakenteellisten alapuolelle. Suojakaiteet ja arvioinnin uudelleensuunnittelu toimivat riippumatta siitä, valitseeko opiskelija oikean käyttäytymisen; kasvatukselliset lähestymistavat toimivat vain hyväksynnän kanssa. Ero ei ole moraalinen vaan mekaaninen: muutettu ympäristö rajoittaa käyttäytymistä suoraan, kun taas muutetun uskomuksen on kestettävä määräaikaan asti yli yön.
+
+**"Jos suojakaide pitää istunnon ajan, oppiminen on turvattu."** Pito ja opettaminen ovat erillisiä lopputuloksia, ja korpus sisältää puhtaan kaksoistuloksen. Yhteenvetokannan pidättäminen [[agentic-ai|moniagentti]]väittelyssä leikkasi opiskelijoiden siirtymisen väärään tekoälykantaan 42-60,5 prosentista 5,7-8,2 prosenttiin, mikä on suuri suojaava vaikutus, mutta tuotti **ei oppimisvaikutusta istunnon sisällä** (β = 0,03, p = 0,18). Kaide teki tehtävänsä kaiteena eikä muuttunut opetukseksi. Väärinkäytön ennaltaehkäisyyn suunnitteleminen ei ole sama kuin oppimiseen suunnitteleminen.
+
+**"Väärinkäytön havaitseminen ja rankaiseminen on ennaltaehkäisystrategia."** Ennaltaehkäisyn on katettava myös arvioija itse. [[humble-prompt-injection-ai-grading-red-team-2026|Humble (2026)]] red team -arviointi havaitsi, että kaksi viidestä palautustiedostoon upotetusta epäsuoran kehoteinjektion strategiasta nosti hylätyn esseen pisteitä. Putki, joka havaitsee opiskelijoiden väärinkäytön mutta luottaa tarkistamattomaan palautussisältöön, on puolustettu vain toiselta puolelta.
+
+**"Väärinkäyttö on opiskelijoiden motivaatio-ongelma."** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher ja Calderon (2025)]] siirtävät sitovan rajoitteen tasoa ylemmäs kohtelemalla opiskelijoiden käyttäytymisen sijaan hallintoa muutettavana asiana ja ehdottamalla 130 kohdan rehellisyyden indikaattorikehystä. Ja oppimishaitta on mitattavissa laajassa mitassa: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei ja Wu (2026)]] havaitsivat kotitehtävien ulkoistamisen nostaneen kotitehtäväpisteitä 18 % samalla kun se *laski* kirjatenttipisteitä 20 %, suunnittelun epäonnistuminen, joka näkyy täsmälleen siinä kuilussa, josta tämä sivu kertoo.
 
 ## Liittyvät käsitteet
 

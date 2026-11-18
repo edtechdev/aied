@@ -9,14 +9,18 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-11-04T15:40:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Automatický strojový překlad této anglické stránky, který ještě nebyl zkontrolován rodilým mluvčím.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -39,12 +43,12 @@ Koncept stojí na důkazu, že zneužívání AI aktivně škodí trvalému uče
 
 Mechanismus, jímž zneužívání vzniká, má nyní za sebou změřený řetěz. [[guo-overreliance-genai-feedback-2026|Guo a Dong (2026)]] dotazovali 600 vysokoškolských studentů a zjistili, že vnímaná kognitivní zátěž předpovídala kognitivní odklánění s β = 0,844 ve skupině s nízkým monitorováním a β = 0,840 ve skupině s vysokým. Odklánění pak předpovídalo přehnané spoléhání na zpětnou vazbu AI s β = 0,396 a β = 0,506, s nepřímými efekty 0,335 [0,069; 0,611] a 0,426 [0,149; 0,648]. Zátěž předpovídala přehnané spoléhání i přímo (β = 0,560 a 0,419), takže odklánění je částečný mediátor a antecedent, na který může strukturální páka zaútočit, je zátěž sama.
 
-### Proč záleží nejvíce na strukturálních pákách
+## Proč záleží nejvíce na strukturálních pákách
 
 Intervence lze seřadit podle **kauzálního důkazu × strukturálního dosahu × škálovatelnosti × [[sustainability|udržitelnosti]]**. Na tomto základě se dvě *strukturální* páky řadí nejvýše, protože fungují bez ohledu na to, zda se studenti rozhodnou pro správné chování: omezují prostředí, místo aby závisely na vnitřní motivaci. *Vzdělávací* páky jsou nezbytné, ale účinné jen tehdy, když je studenti přijmou, takže jsou navzdory svému koncepčnímu příslibu pojímány jako druhá úroveň. [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher a Calderon (2025)]] posouvají strukturální argument o úroveň výš, když za omezující podmínku považují řízení, nikoli chování studentů, a navrhují rámec 130 indikátorů integrity, aby akademičtí správci viděli, zda je hodnocení autentické, zda studenty osobně znají učitelé, kteří je hodnotí, a zda se integrita objevuje v uvítacích a orientačních programech. Jejich reformy cílí na architektury řízení, lidi a [[ai-technologies|technologie a zdroje]] a navrhují vypůjčit si [[guardrails|red teaming]] z kybernetické bezpečnosti, aby odhalili zranitelnosti hodnocení dříve, než je najdou studenti, což je připomínka, že strukturální podlahu udržují instituce, které k tomu potřebují informace i vůli.
 Literatura o odpovědném používání sama řetěz, který toto řazení předpokládá, testuje zřídka. Ze 122 záznamů přístupů vytažených z 31 studií bylo 51 jak implementováno, tak vyhodnoceno, většinou přes [[self-report-measures|sebeposouzení]], a jen čtyři studie definovaly hranici, navrhly kolem ní intervenci a testovaly, zda se rozhodnutí studentů shodují ([[tie-responsible-genai-use-academic-writing-review-2026|Tie, Gil Ortega a Zhao (2026)]]).
 
-### Úroveň 1: přímo prokázané snížení újmy na učení
+## Úroveň 1: přímo prokázané snížení újmy na učení
 
 **Návrh nástroje AI se zábranami ([[scaffolding|scaffolding]] typu „nápověda, ne odpověď").** V nejsilnějším kauzálním zjištění znalostní báze terénní [[rct|randomizovaná kontrolovaná studie]] ukázala, že tutor ve stylu ChatGPT bez zábran zvýšil výkon při asistovaném procvičování o **48 %**, ale snížil skóre neasistované zkoušky o **17 %**, zatímco tutor se zábranami (nápovědy místo odpovědí a navíc informace o úloze od učitele) újmu zcela odstranil. Mechanicky to brání chování „berličky" spočívajícímu v opisování odpovědí, které je za škodou. Aktivity zahrnují doučování typu nápověda, ne odpověď, vkládání správných řešení a běžných [[misconceptions|mylných představ]] do promptů a požadavek, aby student nejprve zkusil vlastní pokus, než se výstup AI zobrazí.
 
@@ -54,7 +58,7 @@ Literatura o odpovědném používání sama řetěz, který toto řazení před
 
 Strukturální páky mají donucovací rameno a jejich důkazní základ je slabší, než naznačuje jejich dosah. [[munoz-misconduct-allegation-evidence-2026|Munoz et al. (2026)]] kódovali 1 162 případů pochybení s generativní AI a zjistili, že důkazy nejčastěji citované v okamžiku obvinění (výstup [[ai-detection|detektoru]], zprávy o podobnosti, obsahové vzorce typické pro AI) nesly nejslabší důkazní hodnotu, zatímco přiznání, pozorované chování u zkoušky a nezávisle ověřené zfalšované odkazy byly nejsilnější; protože institucionální postupy nestanoví žádný minimální důkazní práh, kvalita důkazů neměla spolehlivý vztah k výsledkům případů a studenti, jejichž případy stály na tenkých důkazech, měli k dispozici hlavně odvolání. [[wright-transcription-not-generation-2026|Wright (2026)]] ukazuje druhý náklad stejné nepřesnosti: zákazy psané kolem „generativní AI", nikoli kolem funkce, zachycují nástroje, které pouze převádějí formát práce, kterou student už vytvořil, takže pouhé přepsání může být sankcionováno jako pochybení, což je příliš široké zachycení, které dopadá nejtvrději na [[learners|studující]] se zdravotním postižením a na ty vystavené [[equity-in-ai-education|nerovnosti]] a pro [[assessment-validity|validitu]] nedělá nic. [[harerimana-remote-proctoring-nursing-scoping-2026|Harerimana, Mtshali a Mchunu (2026)]] dodávají, že [[remote-proctoring|vzdálený dohled nad zkouškami]], nejrozšířenější kontrola integrity, staví svůj argument odstrašení na tom, jak se studenti říkají, že se cítí, nikoli na sníženém pochybení, a ukládá [[anxiety-and-stress|úzkost]], ztrátu soustředění a vyloučení související s infrastrukturou, u něhož není prokázáno, že by bylo vyváženo nižším zneužíváním. [[li-genai-assessment-language-equity-2026|Li (2026)]] přidává dimenzi návrhu pravidel: protože stejné rozhraní provádí povolenou jazykovou editaci i zakázané podstatné psaní, nerozlišená pravidla GenAI ukládají kohortně vychýlené náklady na compliance studentům, kteří používají angličtinu jako další jazyk, takže obhajitelnější prevencí je hranice mezi podporou a substitucí založená na účelu a zakotvená v konstruktu hodnocení, s kalibrovanou deklarací, proporcionalitou odstupňovanou mezi rozhodnutím o prahu, o důkazu a o sankci, a návrhovými pákami (postupná odevzdání, krátké ústní ověření sladěné s konstruktem, otázky založené na kritice), které dělají práci, kterou detekce nedokáže. Prevence musí pokrývat i samotného hodnotitele: [[humble-prompt-injection-ai-grading-red-team-2026|Humbleho (2026)]] red teaming zjistil, že dvě z pěti strategií nepřímé prompt injection vložených do souboru odevzdané práce pozvedly neprospívající esej na prospívající bez odhalení, s uváděnou úspěšností 100 % a 94 %, takže tam, kde práci studentů známkují nástroje AI, patří [[human-in-the-loop-ai|lidská kontrola]], jasnější oddělení instrukcí od odevzdaného obsahu a testování odolnosti do strukturální podlahy, nikoli do volitelné úrovně.
 
-### Úroveň 2: silná podpora v rámcích, vysoký potenciál
+## Úroveň 2: silná podpora v rámcích, vysoký potenciál
 
 **Sekvence používání se scaffoldingem: nejprve myslet, potom AI, nakonec reflektovat.** Osm návrhových principů pro integraci LLM bez vytlačení [[critical-thinking|kritického myšlení]]: zachovat kognitivní tření, postavit AI do role provizorního myšlenkového partnera, nikoli autority, vložit kontrolní body pro hodnocení, vyžadovat [[metacognition|metakognitivní]] deník a protokoly promptů a vyvážit fáze zprostředkované AI s fázemi bez AI. Korelační důkazy (samostatná práce před AI vede k silnějším výstupům) jsou silné; jde o pedagogicky úplnou verzi úrovně 1.
 
@@ -64,7 +68,7 @@ Strukturální páky mají donucovací rameno a jejich důkazní základ je slab
 
 Vzdělávací páky vypadají jinak, jakmile se integrita pojímá jako praxe, kterou je třeba učit, nikoli jako pravidlo, které je třeba vymáhat. [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] tvrdí, že režimy integrity založené na detekci a ověřování jsou nesladěné s prací rozšířenou o GenAI, a přerámovává integritu jako pedagogickou praxi uskutečňovanou prostřednictvím [[evaluative-judgment|hodnotícího úsudku]] (schopnosti studujícího vážit možnosti, odůvodňovat akademické volby a nést odpovědnost v nejistotě), který se stává viditelným díky artefaktům, jako jsou anotované stopy rozhodnutí, dokumentované ověřování, [[oral-assessment|ústní obhajoba]] a historie verzí od konceptu ke konceptu, přičemž detekce je degradována na jednu doplňující vrstvu, nikoli na primární infrastrukturu. [[mulisa-students-genai-integrity-perspectives-2026|Mulisa a Mezgebu (2026)]] nacházejí stejné otevření ze strany studentů: ve 27 rozhovorech na etiopské [[higher-ed|univerzitě]] bylo používání téměř univerzální, většina účastníků přičítala GenAI zlepšení svého výkonu a nejostřejší stížnost šla opačným směrem: uživatelé AI získávali lepší známky než pilní samostatně pracující, což účastníci popsali jako demotivující. Autoři uzavírají, že přesvědčení studentů předpovídá etické používání silněji než institucionální pravidla, takže povědomí, jasná politika a přepracování hodnocení musí přijít společně, což je vzdělávací úroveň této stránky vyjádřená jako podmínka: budování kapacity mění chování jen prostřednictvím [[framing-ai-use-for-students|souhlasu studentů]] doprovázeného strukturální podlahou. [[ji-student-voices-academic-integrity-scoping-2026|Jiho (2026)]] [[meta-analysis-systematic-review|scoping review]] 38 studií hlasů studentů dodává celopolní verzi stejného závěru: přezkoumané studie se sbíhají na posunu od retrospektivní detekce k proaktivnímu etickému uvažování, na výuce etiky AI a AI-plagiátorství v [[curriculum-design|kurikulu]], nikoli v jednorázových [[ai-literacy|gramotnostních]] sezeních, a na podrobných pokynech spoluvytvářených vedením, vyučujícími a studenty, protože nejasná doporučení se čtou jako tiché svolení, nikoli jako varování. Jiho vlastní čtení je, že vlastnictví a morální uvažování motivují studenty více než strach z trestu a že studenti nejsou ani pasivními příjemci GenAI, ani viníky bez morálního omezení, ale morálními aktéry pracujícími v šedé zóně, což je premisa této úrovně vyjádřená jako zjištění.
 
-### Úroveň 3: slibné, nižší přímý kauzální důkaz
+## Úroveň 3: slibné, nižší přímý kauzální důkaz
 
 **Metakognitivní a [[self-assessment|sebehodnoticí]] intervence.** [[reflection|Reflexivní deníky]], protokoly promptů a trénink kalibrace obnovují „chybějící kognitivní základnu" studentů odkojených AI, kteří nedokážou lokalizovat vlastní kognitivní hranici, protože ji plynulost generovaná AI maskuje. Koncepčně ústřední, ale dosud kauzálně netestované.
 
@@ -76,17 +80,7 @@ Vzdělávací páky vypadají jinak, jakmile se integrita pojímá jako praxe, k
 
 - **[[desirable-difficulties|Produktivní tření]] a pedagogická funkce.** Rychlý přehled ze Sydney tvrdí, že GenAI podkopává učení, když studentům umožní obejít kognitivní a metakognitivní tření potřebné k učení, a že záměrně navržené nástroje zavádějí *produktivní tření* (zadržování odpovědí, vyžadování vysvětlení). Rozlišuje čtyři pedagogické funkce: učení *z* GenAI, *s* GenAI, *o* GenAI nebo *utvářením* GenAI, z nichž každá klade jiné nároky na agenturnost a hodnocení.([[young-people-learning-generative-ai-rapid-review-2026]])
 
-## Časté mylné představy
-
-**„Hlavní pákou proti zneužívání je učit studenty o rizicích."** Je to páka, která závisí na tom, zda student spolupracuje, a proto se zde řadí pod strukturální páky. Zábrany a přepracování hodnocení fungují bez ohledu na to, zda se student rozhodne pro správné chování; vzdělávací přístupy fungují jen se souhlasem. Rozdíl není morální, ale mechanický: změněné prostředí omezuje chování přímo, zatímco změněné přesvědčení musí přežít noc před termínem odevzdání.
-
-**„Když zábrana vydrží během sezení, učení je zajištěno."** Vydržet a učit jsou odlišné výsledky a korpus obsahuje čistý dvojí výsledek. Zadržení souhrnné pozice v [[agentic-ai|multiagentní]] debatě snížilo přecházení studentů k nesprávné pozici AI ze 42 až 60,5 % na 5,7 až 8,2 %, což je velký ochranný účinek, avšak **v rámci sezení nevedlo k žádnému účinku na učení** (β = 0,03, p = 0,18). Zábrana udělala svou práci jako zábrana a nestala se výukou. Navrhovat prevenci zneužívání není totéž jako navrhovat učení.
-
-**„Odhalit zneužívání a potrestat je strategie prevence."** Prevence musí pokrývat i samotného hodnotitele. [[humble-prompt-injection-ai-grading-red-team-2026|Humbleho (2026)]] red teaming zjistil, že dvě z pěti strategií nepřímé prompt injection vložených do souboru odevzdané práce zvýšily známku neprospívající eseje. Postup, který odhaluje zneužívání studenty, a přitom důvěřuje nezkontrolovanému obsahu odevzdané práce, je chráněn jen z jedné strany.
-
-**„Zneužívání je problém motivace studentů."** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher a Calderon (2025)]] posouvají omezující podmínku o úroveň výš, když za věc, kterou je třeba změnit, považují řízení, nikoli chování studentů, a navrhují rámec 130 indikátorů integrity. A újmu na učení lze měřit ve velkém: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei a Wu (2026)]] zjistili, že externalizace domácích úloh zvýšila skóre z domácích úloh o 18 %, zatímco skóre zkoušky bez pomůcek *snížila* o 20 %, což je selhání návrhu, které se projeví přesně v mezeře, o níž je tato stránka.
-
-## Doporučení pro zavádění podle rolí
+## Důsledky pro praxi
 
 **Pro vyučující a kurzy**
 
@@ -104,6 +98,16 @@ Vzdělávací páky vypadají jinak, jakmile se integrita pojímá jako praxe, k
 **Pro administrátory a tvůrce politik**
 
 - Umístěte omezující podmínku tam, kam ji staví důkazy. Indikátory a struktury řízení se obracejí k prostředí; nabádání studentů se obrací k osobě, která může institucionální návrh změnit nejméně.
+
+## Časté mylné představy
+
+**„Hlavní pákou proti zneužívání je učit studenty o rizicích."** Je to páka, která závisí na tom, zda student spolupracuje, a proto se zde řadí pod strukturální páky. Zábrany a přepracování hodnocení fungují bez ohledu na to, zda se student rozhodne pro správné chování; vzdělávací přístupy fungují jen se souhlasem. Rozdíl není morální, ale mechanický: změněné prostředí omezuje chování přímo, zatímco změněné přesvědčení musí přežít noc před termínem odevzdání.
+
+**„Když zábrana vydrží během sezení, učení je zajištěno."** Vydržet a učit jsou odlišné výsledky a korpus obsahuje čistý dvojí výsledek. Zadržení souhrnné pozice v [[agentic-ai|multiagentní]] debatě snížilo přecházení studentů k nesprávné pozici AI ze 42 až 60,5 % na 5,7 až 8,2 %, což je velký ochranný účinek, avšak **v rámci sezení nevedlo k žádnému účinku na učení** (β = 0,03, p = 0,18). Zábrana udělala svou práci jako zábrana a nestala se výukou. Navrhovat prevenci zneužívání není totéž jako navrhovat učení.
+
+**„Odhalit zneužívání a potrestat je strategie prevence."** Prevence musí pokrývat i samotného hodnotitele. [[humble-prompt-injection-ai-grading-red-team-2026|Humbleho (2026)]] red teaming zjistil, že dvě z pěti strategií nepřímé prompt injection vložených do souboru odevzdané práce zvýšily známku neprospívající eseje. Postup, který odhaluje zneužívání studenty, a přitom důvěřuje nezkontrolovanému obsahu odevzdané práce, je chráněn jen z jedné strany.
+
+**„Zneužívání je problém motivace studentů."** [[coates-governing-academic-integrity-indicators-2025|Coates, Croucher a Calderon (2025)]] posouvají omezující podmínku o úroveň výš, když za věc, kterou je třeba změnit, považují řízení, nikoli chování studentů, a navrhují rámec 130 indikátorů integrity. A újmu na učení lze měřit ve velkém: [[stromberg-generative-ai-learning-penalty-secondary-2026|Strömberg, Lei a Wu (2026)]] zjistili, že externalizace domácích úloh zvýšila skóre z domácích úloh o 18 %, zatímco skóre zkoušky bez pomůcek *snížila* o 20 %, což je selhání návrhu, které se projeví přesně v mezeře, o níž je tato stránka.
 
 ## Související koncepty
 
@@ -123,6 +127,7 @@ Vzdělávací páky vypadají jinak, jakmile se integrita pojímá jako praxe, k
 - [[cognitive-surrender]]
 
 ## Související články
+
 - [[ivory-psychology-assessment-integrity-2026]] — Stopy důkazů ve verzipovaném úložišti a reprodukovatelné analytické dokumenty jako odstrašení zneužívání (Ivory et al. 2026)
 - [[tuo-armada-multi-agent-debate-overreliance-2026]] — Zadržení doporučení z velké části zabránilo nadměrnému spoléhání, aniž by vybudovalo úsudek, který chrání
 - [[generative-ai-guardrails-harm-learning]] — GenAI bez zábran může škodit učení

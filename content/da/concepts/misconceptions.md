@@ -1,7 +1,7 @@
 ---
 title: "Misopfattelser om AI"
 created: "2026-11-12T04:06:17-05:00"
-updated: "2026-11-12T04:06:17-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*"
 contributors: [editor]
 ai_assist:
@@ -19,10 +19,13 @@ ai_assist:
     role: translation
     date: "2026-11-12"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
-
 > **Misopfattelser om AI** — de unøjagtige forestillinger, folk har om, hvad AI-systemer er, hvad de gør, og hvad det betyder for læring og arbejde at bruge dem. Misopfattelser er ikke en enkelt usandhed, men en familie af kalibreringsfejl, der klynger sig om to kernefejl: at fejlvurdere, hvad modellen er (autoritet vs. værktøj, neutral vs. forudindtaget, forståelse vs. generering) og at fejlvurdere, hvad læring kræver (output vs. proces). De findes ikke kun hos studerende, men også hos lærere, administratorer, beslutningstagere og den brede offentlighed — og at rette dem er et kerneformål med [[ai-literacy]] og [[trust-calibration]]-undervisning.
 
 ## Spørgsmål at overveje
@@ -38,11 +41,11 @@ ai_assist:
 
 Misopfattelser om AI betyder noget, fordi de er den kognitive forløber for de skadelige adfærdsmønstre, som vidensbasen dokumenterer under [[cognitive-offloading|Overafhængighed]] og [[academic-integrity]]-problemer. Folk sætter sjældent bevidst kurs mod at [[ai-misuse-learning-harm|misbruge]] AI; de gør det, fordi unøjagtige mentale modeller får dem til at placere tilliden forkert, springe verifikationen over og behandle output som forståelse. I uddannelse former disse fejl alt fra, hvordan studerende læser, til hvordan lærere og institutioner designer pensum, [[assessment]] og politik.
 
-### Hvad misopfattelser om AI er
+## Hvad misopfattelser om AI er
 
 En misopfattelse her er ikke blot uvidenhed om, hvordan en model fungerer — det er en aktivt fastholdt, ofte selvforstærkende overbevisning, som producerer systematiske fejl i måden, studerende interagerer med AI på. De er direkte analoge til de domænemisopfattelser, der studeres i [[learning-sciences|læringsvidenskab]]: stabile, plausible og modstandsdygtige over for korrektion, indtil de konfronteres. At rette dem er et kerneformål med [[ai-literacy]]- og [[trust-calibration]]-undervisning.
 
-### Almindelige misopfattelser i akademiske sammenhænge
+## Almindelige misopfattelser i akademiske sammenhænge
 
 - **Autoritetsfejlslutningen** — at behandle [[llm]]-output som verificeret kendsgerning snarere end som en probabilistisk færdiggørelse. Det driver ukritisk accept og det mønster, hvor svaret søges frem for forståelsen, som er dokumenteret i forskning i [[intelligent-tutoring|AI-tutoring]], hvor lærende accepterer en models svar uden at kontrollere det mod [[hallucination-risk]].
 - **Illusionen om uafhængig kontrol** — at behandle [[ai-feedback-quality|AI-feedback]] som en udefrakommende korrektion, når modellen spejler ens egen ræsonnering. Brugernes basale nøjagtighed var den dominerende forudsigelse for den endelige præstation, og prompting målrettet [[ai-sycophancy|sycophancy]] reducerede positionel efterligning (OR = 0,26), men lod fejlopformering være urørt, så træning af den lærende er ikke beskyttelsen ([[contextual-sycophancy-ai-literacy|Koyuturk et al. (2026)]]).
@@ -57,17 +60,17 @@ En misopfattelse her er ikke blot uvidenhed om, hvordan en model fungerer — de
 
 Integritetens gråzone har en struktur, ikke bare to yderpunkter. Interview med 20 studerende, sammen med deres chatlogger og kursusdokumenter, fandt fem separate steder, hvor AI-politik lever: fra fakultetets intention over formel politik og studerendes egen politik til faktisk praksis — plus 23 forskellige rationaliseringer i seks klasser ([[student-rationalization-ai-writing|Kim et al., 2026]]). Rationaliseringerne var ad hoc og post hoc, samlet for at forklare brug, der allerede var sket, snarere end for at styre den. Et strengt forbud forhindrede ikke brugen så meget som det forstærkede den moralske konflikt hos studerende, der gerne ville overholde reglerne, hvilket placerer korrektionsmålet i politikstedet snarere end i selve regelformuleringen.
 
-### Institutionelle og offentlige AI-myter
+## Institutionelle og offentlige AI-myter
 
 Misopfattelser er ikke begrænset til studerende — de gennemsyrer den institutionelle og offentlige diskurs om AI, som studerende arver. [[rudolph-ai-myths-critical-higher-ed|Rudolph et al. (2025)]] afmonterer otte indgroede "myter", der former politik og undervisning i videregående uddannelse: at AI virkelig er "kunstig" (snarere end bygget på udnyttet menneskeligt arbejde), at den virkelig er "intelligent" og [[agentic-ai|agentisk]], at den uden problemer vil "gøre verden til et bedre sted", at den er "objektiv og upartisk", at USA har monopol som eneste supermagt, at den ikke vil forstyrre arbejdsmarkedet, at den "revolutionerer [[higher-ed|videregående uddannelse]]", og at lærere pålideligt kan opdage AI-genereret arbejde. Disse institutionelle myter er den bagvedliggende kilde til mange af de studerendemisopfattelser, der er dokumenteret ovenfor — mest direkte [[trust|neutralitetsillusionen]] ("AI er objektiv") og [[trust-calibration|autoritetsfejlslutningen]] ("AI er intelligent") samt den fejlkalibrering af detektion, der får studerende til at antage, at uopdagelig, uverificerbar brug er sikker. Når studerende optager og handler på myter, der gentages institutionelt, kræver korrektion, at man konfronterer ikke blot den lærendes overbevisning, men også den diskurs, der nærer den.
 
-### Hvorfor misopfattelser betyder noget for læring
+## Hvorfor misopfattelser betyder noget for læring
 
 Misopfattelser omsættes direkte til de adfærdsmønstre, der forårsager læringsskade. Troen på, at "AI altid har ret", undertrykker verifikation; troen på, at "at bruge AI er læring", undertrykker anstrengende bearbejdning; troen på, at "det er ikke snyd", omgår den metakognitive gennemgang, der konsoliderer forståelsen. I den forstand ligger misopfattelser opstrøms for den [[ai-misuse-learning-harm]], som er dokumenteret i hele vidensbasens evidensgrundlag.
 
 Troen på, at brug af AI er læring, holdes ikke kun før brugen; værktøjet kan fremstille den. [[llm-fallacy-misattribution|Kim et al.]] beskriver en LLM-fejlslutning, hvor uigennemsigtigt, flydende og øjeblikkeligt output fejllæses som bevis på brugerens egen kompetence, så den oplevede og den faktiske formåen divergerer med et gab, de kalder ΔC. Fordi mekanismen er flyden og uklarhed om tilskrivning snarere end fejl, består fejlslutningen, uanset om modellen er korrekt eller hallucinerer, hvilket betyder, at et korrekt AI-assisteret svar ikke er bevis på, at overbevisningen er blevet rettet.
 
-### Misopfattelser ud over studerende: lærere, institutioner og offentligheden
+## Misopfattelser ud over studerende: lærere, institutioner og offentligheden
 
 Misopfattelser om AI er ikke begrænset til lærende — de er udbredte blandt de voksne, der former uddannelse:
 
@@ -79,7 +82,7 @@ Det er denne bredde, der gør, at vidensbasen behandler misopfattelser som et tv
 
 Lærernes pædagogiske misopfattelser er spejlbilledet af dette: ikke misforståelser om AI, men evidensstridige overbevisninger om undervisning, som består uafhængigt af AI. [[etq-ai-conversational-teacher-training-2026|Miranda og Calvani (2026)]] operationaliserer dette med Effective Teaching Questionnaire, hvor 50 binære items mapper til [[meta-analysis-systematic-review|meta-analytiske]] effektstørrelser (d ≥ 0,40), så en lærers svar kan sammenlignes med en evidensbaseret benchmark — og deres fund er, at misopfattelserne er dybe og specifikke. Et pilotprojekt med 123 undervisere i Italien fandt den skarpeste uenighed om påstanden om læringsstile (78 % af lærerne forsvarede visuel/auditiv tilpasning), derefter om inklusion og [[group-work|gruppearbejde]] (68 %) og EdTech-overbelastning (54 %); den gennemsnitlige overensstemmelse lå omkring 50 % på tværs af dimensionerne planlægning, kognition, evaluering og ledelse. To detaljer er vigtige for designet af korrektion. For det første overlever misopfattelserne universitetsuddannelse og undervisningspraksis — forfatterne beskriver en "internaliseret sund fornuft", der "går forud for indtræden i skolen" og består — så de er ikke videnshuller, som en forelæsning lukker. For det andet, da en konversationel AI genindførte de samme items først efter at have valideret lærerens egen kontekst, henviste 41 % af indvendingerne til reelle kontekstuelle begrænsninger — klassestørrelser, studerende med [[special-education|særlige behov]], [[curriculum-design|læreplans]]dækning — snarere end til evidensen selv. Yderligere 5,9 % kaldte systemet "en algoritmisk dogmemaskine": den grænsetilstand, hvor normativ rammesætning avler defensivitet i stedet for refleksion. For udvikling af [[teacher-ai-competency]] er implikationen, at diagnostik plus dialog kan afdække, hvilke overbevisninger der er evidensbaseret uenighed, og hvilke der er misopfattelse — en skelnen, som en score alene ikke kan foretage.
 
-### At rette misopfattelser
+## At rette misopfattelser
 
 Korrektion er ikke en engangsoplysning, men en vedvarende [[ai-literacy]]-proces, der udvikler [[metacognition]] og [[self-regulated-learning]]: at hjælpe studerende (og de voksne omkring dem) med at overvåge deres afhængighed, kalibrere hvornår de skal stole på, og hvornår de skal betvivle en model, og se prisen for at omgå deres eget [[cognitive-offloading|kognitive arbejde]]. Fordi misopfattelser er modstandsdygtige, håndteres de bedst gennem direkte konfrontation med evidens — herunder fundet, at studerende ofte *ikke oplever* læringsskaden ved AI-misbrug.
 
@@ -95,7 +98,7 @@ Bernstein og Sibia (2026) viser, at [[generative-ai|GenAI]]-genererede analogier
 
 **Modelgenererede misopfattelser er en målbar kapacitet, ikke et uheld.** [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević et al. (2026)]] byggede SocraticTrap-CS, som promptede syv open-weight-modeller til at skrive en "[[socratic-method|sokratisk]] fælde" for 35 kernebegreber i datalogi — en forklaring, der er flydende og autoritativ, men hviler på en subtil, domænespecifik fejl. Af 241 promptede segmenter blev 221 (91,7 %) bekræftet som strategiske misopfattelser ved ekspertflertalsafstemning (Fleiss' κ = 0,9487), uden signifikante forskelle mellem datalogiske domæner; 66,5 % af de bekræftede fejl var konceptuelle snarere end faktuelle, og ingen var rent logiske. Flyden er mekanismen snarere end en forsvarslinje: overbevisningskraften lå i gennemsnit på 3,71 på en fempunktsskala og var stærkt modelafhængig, og hyppighed og alvorlighed dissocierede, idet de to modeller, der oftest producerede fælder, også blev vurderet som de mest overbevisende. Fordi en studerendes dårligt formulerede spørgsmål selv kan virke som en adversariel prompt, behandler forfatterne raten som en kapacitet under adversariel prompting snarere end som en basisrate for almindelige studiesessioner — og argumenterer for, at [[ai-literacy]]-opgaven flytter sig fra faktatjek af enkeltudsagn til konceptuel verifikation og validering af mentale modeller. Det er den mørkere side af den generative brug ovenfor: den samme kapacitet, der kan så frø til produktiv peer-diskussion, kan også befæste en fejl, som den lærende allerede var ved at danne.
 
-### Tilbagevisningsbaseret korrektion af almindelige AI-misopfattelser
+## Tilbagevisningsbaseret korrektion af almindelige AI-misopfattelser
 
 Fordi misopfattelser fastholdes aktivt og er modstandsdygtige, er den mest direkte måde at håndtere dem — også på denne side — [[refutation-text]]-strukturen: **navngiv misopfattelsen, tilbagevis den eksplicit, og angiv den korrekte forestilling.** Nedenstående punkter anvender denne struktur på de mest konsekvensrige misopfattelser om AI og om læring, undervisning og uddannelse:
 
@@ -117,13 +120,13 @@ Fordi misopfattelser fastholdes aktivt og er modstandsdygtige, er den mest direk
 
 Disse tilbagevisninger er bevidst skrevet i [[refutation-text]]-formen, så de selv kan bruges (eller tilpasses til interaktiv [[conversational-ai|AI-dialog]]) til at konfrontere og rette misopfattelser om AI — og om læring, undervisning og uddannelse mere bredt.
 
-## Almindelige misopfattelser
+## Almindelige fejlopfattelser
 
 - **"Læreres misopfattelser kan rettes ved at præsentere evidens."** I et pilotprojekt med **123 italienske undervisere** klyngede uenigheden sig hårdest om **kognitive læringsstile (78 % af lærerne forsvarede visuel/auditiv tilpasning)**, inklusion og gruppearbejde (68 %) og EdTech-overbelastning (54 %). De stærkeste uenigheder var dem, der var mest modstandsdygtige over for evidens, og derfor slår [[refutation-text|tilbagevisning]] en påstand.
 - **"Læreres indvendinger mod evidens er alt sammen modstand."** Da de samme items blev leveret gennem en konversationel AI, der **validerede lærerens kontekst, før den genindførte evidensen**, drejede **41 % af indvendingerne sig om reelle kontekstuelle begrænsninger** — klassestørrelse, særlige behov, læreplanskrav. En betydelig andel af det, der så ud som misopfattelser, var præcis indvending.
 - **"Misopfattelser kan pålideligt detekteres ud fra dialog."** **Af 241 promptede segmenter blev 221 (91,7 %) bekræftet som strategiske misopfattelser ved ekspertflertalsafstemning (Fleiss' κ = 0,9487)**, med **ingen signifikante forskelle** mellem grupper. Høj pålidelighed er opnåelig under ekspertbedømmelse, og det er den betingelse, påstanden afhænger af.
 
-## Relaterede begreper
+## Forbundne begreber
 
 - [[pedagogical-patterns]] — De begrebsændringssekvenser, der konfronterer en specifik fastholdt overbevisning
 - [[learners]] — Lærende: paraplyen for begreberne på den lærendes side
@@ -142,7 +145,7 @@ Disse tilbagevisninger er bevidst skrevet i [[refutation-text]]-formen, så de s
 - [[educational-policy-ai]]
 - [[trust]]
 
-## Relaterede artikler
+## Forbundne artikler
 - [[rudolph-ai-myths-critical-higher-ed]] — Tro ikke på hypen: otte AI-myter og behovet for en kritisk tilgang i videregående uddannelse
 - [[student-rationalization-ai-writing]] — Studerendes rationalisering af AI-skrivning
 - [[genai-skill-bypass-literacy]] — GenAI-færdighedsomgåelse og AI-kompetence

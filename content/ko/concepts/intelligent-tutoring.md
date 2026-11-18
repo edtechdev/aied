@@ -1,5 +1,5 @@
 ---
-connected_resources: [deeptutor, openmaic, learnharness]
+connected_resources: [deeptutor, openmaic, learnharness, ai-tutor-pro-teaching-assistant-pro]
 title: 지능형 튜터링
 created: "2026-08-09T07:47:05-04:00"
 updated: "2026-11-08T10:12:52-05:00"

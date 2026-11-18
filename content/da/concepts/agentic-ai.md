@@ -10,10 +10,10 @@ discipline: [stem education]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
-connected_resources: [deeptutor, learnharness, primer]
+connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-13T18:20:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*"
 contributors: [editor]
 ai_assist:
@@ -21,10 +21,13 @@ ai_assist:
     role: translation
     date: "2026-10-27"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
 
 *Automatisk maskinoversættelse af denne engelske side, der endnu ikke er blevet gennemgået af en modersmålstalere.*
-
 > **Agentbaseret [[ai-education]]**: AI-systemer, der autonomt planlægger, udfører og tilpasser flertrinsarbejdsgange for at nå læringsmål, og som går ud over enkeltstående spørgsmål og svar til at fungere som vedvarende, målorienterede samarbejdspartnere: [[intelligent-tutoring|AI-vejledere]], der stilladserer over længerevarende interaktioner, multiagentsystemer, der orkestrerer undervisningsdesigns, og agenter, der samregulerer læring. Dette paradigmeskift fra et promptbesvarende værktøj til en aktiv samarbejdspartner rummer både løfter og risici: agentbaseret AI kan personalisere og uddybe læring, men den truer også [[agency|handlingsrummet]], [[cognitive-offloading|den kognitive indsats]] og kontrollen. Vidensbasens [[agentic-ai-education-scoping-review|scoping review]], [[tool-invariant-framework-agentic-ai|værktøjsinvariante ramme]] og [[agentic-ai-pedagogical-best-practice-2026|pædagogiske best practice]]-artikler undersøger denne spænding.
 
 ## Spørgsmål at overveje
@@ -68,7 +71,10 @@ Hvor [[agentic-ai-education-scoping-review|scoping reviewet med 474 studier]] og
 - **En skaleringsramme for rapportering og styring: rammen Autonomi-Overvågning-Evidence (AOE).** [[beyond-agent-label-agentic-ai-governance-2026|Dey (2026)]] argumenterer for, at termen *agentbaseret AI* anvendes så inkonsistent, at evidens og overvågning ikke kan sammenlignes på tværs af studier: systemer, der planlægger, husker, bruger værktøjer eller koordinerer flere agenter, klumpes sammen med statiske GenAI-grænseflader og konventionelle [[pedagogical-agent|pædagogiske agenter]]. Hans kritiske integrative gennemgang af femten peer-reviewede reviews finder, at evidensen er stærkest for udfald på artefaktniveau (feedbacknøjagtighed, reduktion af [[hallucination-risk|hallucination]]er) og svagest for varig læring, ligestilling, arbejdsbyrde eller institutionelle udfald, hvor autentiske udrulninger typisk er korte, enkeltstående og svagt knyttet til overvågning. Løsningen er en konkret rapporteringstriplet: **autonominiveau A0-A4** (reaktiv generering, afgrænset orkestrering, delegeret opgaveautonomi, arbejdsgangsautonomi, *konsekvensrig autonomi* over bedømmelse, optagelse og studiefremdrift), **overvågningsniveau O0-O4** (uspecificeret, retrospektiv revision, godkendelse før brug, kontrolpunktsstyring, *løbende afgrænset supervision*) og **evidensmodenhedstrin M0-M5** (koncept, prototype eller benchmark, deltagerevaluering, autentisk udrulning, udvidet eller flerstedlig, *replikeret eller institutionsskala*), plus en **proportionalitetsregel**: tilladelig autonomi bør ikke overhale hverken evidensmodenhed eller overvågningsstyrke (fx kræver et A4-system med konsekvenser M4-M5-evidens, juridisk validering og O4 med menneskelig endelig myndighed). At rapportere *A2-O3-M3* gør vage "agentbaserede udrulnings"-påstande til sammenlignelige, testbare specifikationer og giver institutioner en grammatik for trinvis adoption, logning og tilbagerulning, det evidensmæssige komplement til [[baradziej-agentic-ai-higher-education-2026|copilot-til-autopilot]]-spektret ovenfor.
 - **Adversarielt robusthedstest:** [[adversarial-stress-testing-role-playing-agents|Multiagent-stresstest]] koordinerer Interrogator-, Target- og Judge-agenter for at afdække fejltilstande, der er usynlige ved test med én strategi, og reducerer robusthedsscorerne med 0,17-0,20 point; afgørende for personakonsistens og [[pedagogical-safety|sikker udrulning]] med elever.
 - **Domæneanvendelser:** agentbaserede systemer optræder på tværs af domæner, herunder [[learnmate2-llm-adaptive-learning|adaptive læringsagenter]], [[educlaw-bench-pedagogical-llm-agents-2026|pædagogiske LLM-agenter]], [[guided-llm-scaffolding-independent-learning|guidende LLM-stilladsning]], [[cyberagents-gamified-cybersecurity-learning-2026|spilificerede cybersikkerhedslæringsagenter]] og [[hdr-brachytherapy-agentic-ai-simulation-2026|kliniske simuleringsagenter]].
+- **Agentbaseret karaktergivning er et pålidelighedsspørgsmål, før det er et arbejdsbyrdespørgsmål.** En agentbaseret Claude Code-udrulning fik tre rubrikfiler og 60 scannede håndskrevne midtvejseksamener fra et computergrafikkursus. Dens karakterer stemte overens med underviserens ved r = 0,97, med en gennemsnitlig absolut fejl på 0,85 point på en 20-pointsopgave, en gennemsnitlig AI-positiv bias på 0,68 og test-retest-ICC = 0,96 på tværs af to sessioner med en uges mellemrum. Aggregatet skjuler, hvor den fejler: vægtet kappa gik fra 0,98 på multiple choice til 0,65 på evaluerende opgavedele, med håndtegnede diagrammer som det svageste tilfælde ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Ét kursus, én underviser og ét sæt rubrikker lokaliserer variansen; de fastslår ikke, at agentbaseret karaktergivning kan generaliseres.
 - **Webagenter som evaluatorer af læringsoplevelser:** en enkelt autonom "beskrivende" webagent, der navigerer en online [[learning-design|lektion]] som en elev, [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]], producerer en beskrivelse, der er rig nok til at forudsige elevfravalg og give designeren handlingsrettet feedback, før rigtige elever kommer i gang, og som overgår både en fuld simuleret kohorte og alle baselines på et globalt CS1-kursus. Det placerer agentbaseret evaluering (en agent som stand-in-kritiker af en læringsoplevelse) som en særskilt og billig anvendelse af agentbaseret AI side om side med agenter, der underviser eller designer.
+
+Agentbaserede arkitekturer køber dækning til en målbar pris i præcision. På [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah et al.s (2026)]] benchmark med 926 jobopslagsprøver og 1.696 guldstandardkompetencer førte en ReAct-agent med et ESCO-opslagsværktøj an på forbedret recall med 89,7 %, mod 83,7 % for den bedste generative konfiguration og 49,1 % for den bedste embedding-model. Dens præcision var 22,7 %, hvilket efterlod F1 på 36,3 %, under en værktøjsforankret Gemini 2.5 Flash på 51,6 %, og den kørte på omkring 16 sekunder pr. prøve. Recall er det rigtige mål, når en menneskelig rådgiver renser listen; uformidlet output har brug for det forankrede alternativ.
 
 ### Multiagentsystemer
 
@@ -206,8 +212,8 @@ Agentbaseret AI er hverken et universalmiddel eller en uundgåelig skade: dens v
 
 ## Forbundne artikler
 
+- [[alghamdi-claude-code-agentic-grading-2026]] — agentbaseret bedømmelse af 60 håndskrevne eksamener: r = .97 samlet, kappa faldende til .65 på evaluative opgaver
 - [[jingru-fan-agentic-university-collaborative-agents-2026]] — Agenter organiseret omkring et reviderbart kapabilitetsprogram, med eleven som medlem
-
 - [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomi, kompetence, tilhør og social tilstedeværelse som vejene fra agentbaseret AI til engagement (Pramod & Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI-agenter, glædesfuld evaluering og tredje rum
 - [[ilieva-agentic-genai-higher-education-2026]] — AGAI-HE-rammen: afgrænset, menneskesuperviseret agentbaseret GAI i højere uddannelse (Ilieva et al. 2026)
@@ -234,3 +240,4 @@ Agentbaseret AI er hverken et universalmiddel eller en uundgåelig skade: dens v
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD med AI-agenter i software-PBL; automatisering versus forståelse
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluering af et stilladsorienteret multiagent-sprogmodelsystem til træning i klinisk samtale
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: at facilitere gruppebaseret etikundervisning med rollespil og diskussion til etisk refleksion og udforskning
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — Sammenligning af AI-tilgange til automatisk kompetenceudtræk: fra embeddings til agentbaserede systemer i ingeniøruddannelse

@@ -9,9 +9,9 @@ level: [higher ed, k 12]
 institutions: [educational-policy-ai]
 confidence: high
 connected_resources: [education-agent-skills, fpds-apps-and-resources]
-translation_of: concepts/educational-development
-source_updated: "2026-11-07T12:15:00-05:00"
-updated: "2026-11-08T06:32:22-05:00"
+translation_of: "concepts/educational-development"
+source_updated: "2026-11-17T18:50:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*"
 contributors: [editor]
 ai_assist:
@@ -23,7 +23,10 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
-
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -50,17 +53,21 @@ Pengembangan pendidikan adalah kerja profesional dan institusional yang melaluin
 - **Adopsi dan keyakinan diri:** [[teacher-ai-adoption-confidence|Penelitian adopsi AI oleh guru]] mengidentifikasi kekhawatiran, dukungan, keyakinan diri, dan sikap sebagai prediktor kunci. Program pengembangan fakultas harus menangani keempatnya.
 - **Integrasi kurikulum:** [[institutional-change-framework-ai|Kerangka perubahan institusional]] dan [[ai-assessment-scale-reform|reformasi penilaian]] menuntut fakultas merancang ulang mata kuliah, bukan hanya menambahkan alat AI.
 - **Program pelatihan:** [[crewscaler-ai-upskilling-framework|Kerangka peningkatan keterampilan AI]] dan [[ai-tpack-preservice-math-teachers|pelatihan calon guru berbasis TPACK]] menyediakan model untuk [[ai-education|pendidikan AI]] fakultas yang terstruktur.
+- **Permintaan bukanlah asesmen kebutuhan.** 345 guru CEGEP Quebec menilai paling rendah pada pemahaman teknis (2.706 dari 5) namun meminta aplikasi praktis yang spesifik disiplin, menyebut sesi sebelumnya terlalu umum ([[giachini-ai-literacy-postsecondary-teachers-quebec-2026|Giachini et al. (2026)]]).
 
 - **Refleksi profesional yang dimediasi AI.** Reflective Triangle Model memposisikan AI sebagai mediator kognitif pada [[reflection|refleksi diri]], refleksi kolaboratif, dan refleksi komunitas dalam sebuah komunitas pembelajaran profesional, yang diuji dalam studi kasus kelayakan empat minggu dengan enam guru; batas yang ditariknya adalah bahwa wawasan individual tidak otomatis menjadi pengetahuan profesional bersama ([[reflective-triangle-model-teacher-ai-2026|Nguyen (2026)]]).
 - **[[governance|Tata kelola]] dan kebijakan:** [[genai-policies-higher-ed-computing|Analisis kebijakan AI institusional]] mendokumentasikan jurang antara ambisi institusional dan kapasitas dukungan fakultas.
 - **Literasi AI tidak terlihat secara institusional.** [[meta-analysis-systematic-review|Tinjauan sistematis]] atas 32 studi tentang literasi AI guru bahasa menemukan bahwa literasi itu tidak hadir dalam model beban kerja, kebijakan promosi dan alokasi sumber daya, dengan pengembangan yang terfragmentasi dan akuntabilitas yang teralihkan di antara institusi dan lembaga - sehingga pengembangan literasi jatuh ke usaha individual alih-alih dukungan struktural ([[governing-unseen-ai-literacy-language-teachers-2026|Deng, Çelik & Duran, 2026]]).
+
+- **Lokakarya konstruksionis membutuhkan peta.** Tiga sesi 50 menit menggerakkan 20 hingga 25 anggota fakultas dari prompting yang menyenangkan menuju materi pengajaran yang dapat digunakan ulang, namun peserta yang baru mengenal AI meminta pengarahan konseptual sebelum masuk ke ruang eksperimen ([[fischer-learning-by-making-faculty-development-2026|Fischer (2026)]]).
+
+Pengembangan lintas batas memiliki unit analisis melampaui lokakarya. [[tian-transnational-faculty-development-governance-2027|Tian, Sun dan Wang (2026)]] berargumen bahwa konektivitas secara default bersifat episodik, karena webinar menyebarkan tanpa menetapkan agenda dan platform menjadi tuan rumah tanpa menghasilkan kesepakatan tentang penggunaan. Yang mengubah peristiwa menjadi infrastruktur terakumulasi justru hal yang tidak glamor: sekretariat yang menjaga ritme, arsip agenda dan contoh kasus bertanggal, dan tata kelola bersama yang diperlakukan sebagai arah perjalanan alih-alih status yang dapat diklaim sebuah jaringan.
 
 ### Metafora dan bahasa bersama dalam pengembangan pendidikan
 
 Fakultas memegang model mental AI yang heterogen dan sering sangat ambivalen, dan pengembangan yang efektif harus memunculkan serta bekerja dengannya. [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt et al.]] menunjukkan bahwa instruktur [[engineering-education|teknik]] membingkai AI melalui metafora yang sekaligus membangun dan membatasi pemahaman (AI sebagai "asisten" yang mirip manusia vs. "alat" atau "mesin pencari"); karena instruktur dalam departemen yang sama sering memegang konseptualisasi yang secara fundamental berbeda, bahasa bersama yang akurat tentang [[generative-ai|GAI]] adalah prasyarat bagi pengembangan fakultas yang efektif dan diskusi adopsi departemen yang produktif.
 
 Metode praktis untuk memunculkan model mental ini adalah **lokakarya analisis metafora**. [[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson & Casey (2025)]] merancang dan memvalidasi lokakarya kolaboratif berteknologi rendah bagi fakultas, staf, dan siswa untuk mengartikulasikan metafora mereka tentang AI generatif. Metafora peserta mengelompok ke dalam empat kategori - *Fungsi* (seperti alat: "pisau Swiss army"), *Peran* (seperti manusia: "pembantu," "musuh sekaligus teman"), *Kualitas* (tak dapat diketahui: "kotak hitam," "lereng licin"), dan *Agensi* (mengancam: "pesaing," "robot jahat") - memunculkan ketegangan yang menetap antara [[agency]] manusia vs. mesin dan antara yang diketahui vs. yang tak dapat diketahui. Lokakarya itu membantu peserta memunculkan asumsi, terhubung lintas peran, merasa "tidak sendirian," dan memikirkan [[ethics]] GenAI, tanpa menuntut keahlian teknis. Sebagai alat pengembangan, ia memberi perancang program cara berhambatan rendah untuk memunculkan asumsi sebuah tim *sebelum* merancang ulang [[assessment]] atau meluncurkan kebijakan, dan untuk menghadapi ketakutan secara langsung - termasuk ketakutan bahwa AI akan menggantikan [[teacher-role|peran mengajar]].([[fear-awe-genai-metaphor-workshops-2025]])
-
 
 Pertanyaan desain yang lebih luas adalah bagaimana memilih metafora sejak awal. [[metaphors-and-analogies]] mengumpulkan bukti lintas-bidang, dan [[roe-perkins-furze-metaphors-critical-ai-literacy-2025|Roe, Perkins dan Furze (2025)]] menawarkan empat kriteria: aksesibilitas, daya penjelas, potensi literasi AI kritis, dan kegunaan pedagogis.
 
@@ -95,15 +102,21 @@ Keyakinan diri dan literasi bukan sasaran yang dapat saling dipertukarkan: dalam
 **Jangan menyamakan investasi infrastruktur dengan transformasi.** Pada 125 studi, investasi institusional dalam infrastruktur GenAI dan pengembangan pendidikan hanya berkorelasi lemah dengan perubahan pedagogis yang sebenarnya (r = 0,12), sementara 60-70% instruktur merasa tidak siap mengintegrasikan GenAI - sehingga pengembangan, bukan pengadaan, adalah kendala yang mengikat.([[genai-higher-education-systematic-review-2026|Rathnayake (2026)]])
 **Namai mode kegagalannya, bukan hanya ukuran efeknya.** [[fajardo-ramos-teacher-education-ai-agenda-2026|Fajardo-Ramos, Chiappe dan Martínez-Pérez (2026)]] menyebutnya inovasi simulasi: kehadiran alat menandakan kemajuan, format pengajaran dan penilaian tetap utuh, tingkat adopsi dan [[visualization|dasbor]] menggantikan pembelajaran, dan siklus rilis teknologi menetapkan arahnya. Diagnostik mereka meminta program pengembangan untuk membenarkan setiap alat terhadap masalah pembelajaran yang dinamai sebelum adopsi.
 
+Pertimbangan lebih baik diperlakukan sebagai kondisi daripada sebagai butir kompetensi. [[ji-judgement-space-dialogic-inquiry-2027|Ji dan Mercer (2026)]] menggambarkan ruang pertimbangan sebagai interaksi relasional, normatif, dan bersyarat tempat pertimbangan profesional diartikulasikan dan diperiksa, dan dalam pengaturan berbantuan AI ruang itu menjadi tiga pihak karena evaluasi yang dihasilkan masuk ke dalamnya. Audit tiga kolom mereka menanyakan apa yang dilakukan guru, apa yang dilakukan siswa, dan bagaimana AI diposisikan — instrumen kolegial untuk melokalisasi di mana pertimbangan diam-diam telah berpindah ke alat.
+
 **Arahkan ke perancangan ulang kurikulum, bukan adopsi alat.** Tujuannya adalah fakultas merancang ulang mata kuliah dan penilaian, bukan hanya menambahkan alat AI. Dasarkan pengembangan profesional pada kerja perancangan ulang tingkat mata kuliah dan reformasi penilaian, dan berikan fakultas kerangka terstruktur untuk melakukannya (mis. [[ai-assessment-scale-reform|skala penilaian]], [[institutional-change-framework-ai|kerangka perubahan institusional]]).([[institutional-change-framework-ai]])([[ai-assessment-scale-reform]])
 
 **Kumpulkan seluruh desa, bukan individunya.** Pada 12 akademisi dan 17 mahasiswa yang diwawancarai, perancangan ulang penilaian era GenAI melampaui kemampuan akademisi mana pun secara individual - proses yang tidak fleksibel, waktu tunggu panjang dan beban kerja disebut sebagai penyebab - sehingga penulis mengusulkan tim tingkat program yang menggabungkan keahlian desain penilaian, GenAI, materi subjek, program dan industri ([[nicola-richmond-programwide-assessment-genai-2025|Nicola-Richmond et al., 2025]]).
+
+Unit pengembangan dapat lebih kecil daripada departemen dan lebih besar daripada orang. [[chen-future-faculty-development-ai-2027|Chen et al. (2026)]] menetapkan tujuh peran guru tetapi menegaskan bahwa peran-peran itu tidak harus berada pada satu akademisi: pendidik berpusat manusia dan pakar disiplin adalah fondasi universal, sementara arsitektur pembelajaran, desain ulang penilaian, kompetensi teknis, kepengurusan etis, dan eksperimen yang tertib dapat didistribusikan di seluruh tim pengajar. Syarat mereka adalah setiap orang mempertahankan kapabilitas teknis dan etis dasar, agar keahlian bersama tidak menjadi ketidaktahuan bersama.
 
 **Jalankan rangkaian sesi berdasarkan data ruangan itu sendiri, bukan praktik terbaik impor.** [[physics-faculty-learning-community-ai-2026|Perl-Nussbaum dan Finkelstein (2026)]] mendokumentasikan model yang telah dikerjakan dari sebuah departemen fisika R1 publik besar: enam sesi dua mingguan berdurasi 60 hingga 75 menit, sembilan belas dosen berpartisipasi sepanjang rangkaian dan sekitar sepuluh di setiap pertemuan, di mana setiap sesi dibuka dengan data lokal atau materi yang bersumber dari departemen, bergerak ke pengujian AI dalam kelompok kecil terhadap pekerjaan rumah mahasiswa yang dianonimkan, dan ditutup dengan diskusi kolektif. Apa yang ditemukan fakultas melalui pengujian lebih berguna daripada paket mana pun yang dapat diimpor fasilitator - AI menyelesaikan setiap masalah yang mereka coba, tetapi umpan baliknya atas karya mahasiswa yang sebenarnya tidak merata, bergantung pada prompt dan berfokus pada permukaan kecuali diberi tujuan dan rubrik yang eksplisit, dan mahasiswa memberi prompt secara dangkal serta memodifikasi keluaran secara superfisial kecuali penggunaan produktif dimodelkan. Keluaran konkret pertamanya adalah repositori hidup berisi lima entri - pernyataan kebijakan silabus, materi diskusi kelas, survei mahasiswa, tugas pekerjaan rumah terintegrasi AI dan struktur penilaian - yang menjelaskan mengapa penulis memperlakukan struktur sesi itu sendiri sebagai argumennya alih-alih konten apa pun yang disampaikannya.
 
 **Jangkarkan pada kerangka kompetensi.** Pengembangan juga harus membangun **[[prompt-engineering|literasi prompt]] pedagogis** - kapasitas untuk mengodekan niat pedagogis ke dalam prompt - karena [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] menemukan bahwa keahlian pedagogislah, bukan kefasihan AI, yang menentukan kualitas kerja desain berbantuan AI guru.([[crewscaler-ai-upskilling-framework]])([[ai-tpack-preservice-math-teachers]])([[talebzadeh-ai-group-activity-roles-2026]])
 
 **Urutkan pemahaman sebelum otomasi.** Sebuah [[qualitative-research|analisis wacana kritis]] atas 14 naskah literatur kelabu yang diterbitkan antara November 2022 dan April 2025 yang menasihati praktisi tentang AI generatif untuk keselarasan konstruktif menemukan bahwa kapasitas harus mendahului akses alat: karena kualitas keterlibatan mendahului kualitas pemahaman dalam kerangka [[constructivist]], risiko berbanding terbalik dengan keakraban, dan pemula adalah yang paling terekspos pada penerimaan yang digerakkan oleh kemasukakalan atas keluaran yang tampak masuk akal tetapi tipis secara pedagogis. [[mcinnes-salvaging-constructive-alignment-genai-2026|McInnes et al. (2026)]] lebih lanjut berargumen bahwa unit pengembangan harus menolak penugasan teknis - membantu fakultas "memperoleh kefasihan" dalam alat yang melakukan "kerja berat" [[learning-design|desain mata kuliah]] - karena pembingkaian itu mengunci pengembang di luar lingkar tertutup pendidik-GenAI dan mengubah pengembangan yang dipandu nilai dan relasional menjadi mekanisme mediasi bagi adopsi perangkat lunak. Alternatif yang dapat dipertahankan mempertahankan pengembang pendidikan sebagai kurator dan penentu aturan bagi setiap asisten keselarasan berbasis [[rag|retrieval-augmented]] yang dibatasi secara institusional yang mengajukan pertanyaan menyelidik, menandai penilaian yang kurang dan berlebihan serta menghasilkan alternatif tetapi tidak pernah menghasilkan artefak jadi, dengan eskalasi ke [[human-in-the-loop-ai|penilaian manusia]] pada hal akreditasi dan lintas program yang diperlakukan sebagai fitur alih-alih pengecualian.
+
+Pengembangan juga dapat diatur di sekitar inti invarian dan tepi yang bergerak. [[ho-invariant-core-faculty-development-2027|Ho (2026)]] menempatkan mekanisme neuropsikologis pembelajaran di depan teknologi apa pun, berargumen bahwa GenAI meruntuhkan jarak antara artefak dan pemikiran, dan menurunkan jalur pengajaran ilmiah di mana fakultas menyelidiki pengajarannya sendiri di bawah bukti, refleksi, dan tinjauan sejawat. Prioritasnya mengikuti: perdalam cara kerja pembelajaran, lalu biarkan guru menulis alat kecil, dan perlakukan tepi teknologi sebagai bagian yang diharapkan bergerak.
 
 **Munculkan dan tangani ketakutan dan model mental.** Sebelum merancang ulang pengajaran, gunakan lokakarya analisis metafora ([[fear-awe-genai-metaphor-workshops-2025|Vallis, Wilson & Casey 2025]]) untuk memunculkan asumsi dan kecemasan sebuah tim tentang GenAI - termasuk ketakutan bahwa ia akan menggantikan peran mengajar - dan bangun pengembangan yang meresponsnya alih-alih mengabaikannya.([[fear-awe-genai-metaphor-workshops-2025]])
 
@@ -115,12 +128,24 @@ Keyakinan diri dan literasi bukan sasaran yang dapat saling dipertukarkan: dalam
 
 **Ukur kehadiran, bukan perasaan terlibat.** Dalam program Intelligent-TPACK enam bulan untuk 64 dosen universitas, tingkat kehadiran memprediksi perolehan kompetensi AI (β = 0,407, p = 0,001) sementara partisipasi yang dipersepsikan sendiri tidak (β = 0,049, p = 0,692), yang oleh penulis dibaca sebagai investasi perilaku konkret dibandingkan keterlibatan tingkat permukaan ([[intelligent-tpack-pd-intervention-hongkong-2025|Tan, Cheng & Ling, 2025]]). Program itu memasangkan kuliah daring dengan tiga lokakarya tatap muka, lalu mewajibkan guru merevisi desain instruksional mereka dan menerapkannya semester berikutnya, dan penulis merekomendasikan mengaitkan kehadiran dengan penilaian kinerja bersama insentif yang bermakna.
 
+Partisipasi dan substansi dapat bergerak ke arah berlawanan, dan alasannya struktural alih-alih motivasional. [[jiang-faculty-development-japan-2027|Jiang, Wang dan Taguchi (2026)]] melacak partisipasi Jepang yang naik ke 32.7% universitas pada 2023 sementara lokakarya pembelajaran aktif, observasi sejawat, dan tinjauan sejawat tetap datar atau turun, dan mereka menempatkan kendalanya pada tidak adanya peran profesional berkelanjutan dalam pengembangan akademik. Rotasi, tugas bersamaan, dan kontrak berjangka memutus kesinambungan yang menjadi sandaran format kolegial, sehingga indikator yang dilaporkan adalah campuran format bersama jumlah peserta.
+
 **Bandingkan dengan apa yang dilaporkan fakultas sendiri.** Survei [[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie (2026)]] terhadap 1.057 dosen AS menemukan bahwa lapisan institusional tipis dalam cara yang dapat diukur langsung oleh perancang program: 59% menilai sekolah mereka tidak siap menggunakan AI generatif secara efektif untuk menyiapkan siswa bagi masa depan dan 68% mengatakan sekolah itu belum menyiapkan fakultas untuk menggunakannya dalam pengajaran dan mentoring, sementara respons strukturalnya berupa gugus tugas di 55% institusi tetapi luaran pendidikan umum literasi AI hanya di 13%. Fakultas tidak menunggu kebijakan - 87% menulis aturan tingkat tugas mereka sendiri berbanding 48% yang dapat menunjuk aturan institusional - dan mereka menyebut resistensi kolega (82%) dan ketidakakraban (83%), bukan mandat, sebagai hambatan adopsi departemen. Bagi program pengembangan, ini berargumen untuk memperlakukan norma sejawat, bahasa kebijakan tingkat tugas yang dibagi bersama dan ukuran kesiapan institusional yang eksplisit sebagai bagian dari intervensi alih-alih menyerahkannya pada dokumen kebijakan.
 
 **Respons instruktur mencerminkan pusat kekuasaan, bukan sikap.** Dalam studi kasus instrumental terhadap 33 instruktur penulisan, empat pusat kekuasaan polisentris - tren GenAI global, universitas/departemen, kolega, dan mahasiswa - membentuk praktik, dan pengajar kontrak yang dibatasi kekuasaan diskursifnya beralih dari deteksi ke mengajarkan penggunaan yang dapat diterima ([[zuo-instructor-power-genai-writing-2026|Zuo et al. (2026)]]).
 
 - **Enam keluarga pengembangan profesional, tiga berbukti baik, dan satu pemenang jelas.** Tinjauan atas 78 studi tentang desain instruksional berbantuan AI mengurutkan PD yang terdokumentasi menjadi modul tertanam yang ringkas (2-4 minggu), microlearning sepanjang semester, siklus desain berbasis tugas, rantai pertanyaan kolaboratif berbasis dialog, penemuan bersama yang kritis, dan pembelajaran praktisi [[self-directed-learning|mandiri]]. Bukti hasil paling kuat untuk **modul tertanam yang ringkas**: modul tiga minggu menghasilkan perolehan signifikan secara statistik pada keenam domain Intelligent-TPACK dengan ukuran efek sedang hingga besar, dan program empat minggu dengan **436 calon guru dan satu kondisi kontrol** adalah evaluasi terkontrol terkuat dalam korpus ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas, 2026]]).
 - **Tiga fitur desain memisahkan intervensi yang paling berbukti.** Etika tertanam sebagai **[[retrieval-spacing-interleaving|praktik terdistribusi]] dengan titik pemeriksaan pada setiap tugas** alih-alih sesi berdiri sendiri; **penilaian kompetensi berbasis kinerja** menggunakan rencana pembelajaran, log keputusan dan micro-teaching, yang dimotivasi langsung oleh tidak dapat diandalkannya laporan diri; dan prompt engineering yang dikembangkan sebagai praktik reflektif yang berdasar pedagogis. Adopsi bukan tuas yang sama dengan kinerja: pada 200 guru di Sumatera Utara, penggunaan AI tidak memiliki efek langsung pada kinerja guru (β = 0,112, p = 0,087) sementara perilaku kewargaan organisasional membawanya secara tak langsung, sehingga kerja pengembangan fakultas yang diarahkan pada penggunaan kolaboratif dan di luar peran adalah versi yang didukung bukti ([[ai-use-teacher-performance-north-sumatra-2026|Sherly et al. (2027)]]). Studi pendamping dua minggu menemukan perolehan cepat dalam pengetahuan dan keyakinan diri sambil mengidentifikasi deteksi bias sebagai kompetensi baru yang terlemah - kesenjangan yang bertahan hingga modul yang lebih panjang, konsisten dengan kapasitas perseptual etis yang berkembang lebih lambat daripada keakraban teknologis.
+
+**Skala terdokumentasi; perubahan di ruang kelas tidak.** [[ussenbay-chemistry-teachers-ai-professional-development-2026|Ussenbay dan kolega]] melacak 105 guru kimia melalui program enam minggu, dan [[ma-ai-corpus-language-teaching-coi-2026|Ma dan kolega]] menjalankan program daring 20 minggu dengan lebih dari 150 guru bahasa dari 28 negara. [[white-scandinavian-teachers-genai-attitudes-2026|White dan kolega]] mengukur kenaikan 0.20 SD pada manfaat yang dipersepsikan di seluruh 2.159 guru Skandinavia yang menerima pengembangan profesional GenAI. Setiap studi menunjukkan pengembangan menggerakkan apa yang dilaporkan pendidik; tidak satu pun mengikuti mereka ke ruang kelas untuk mengukur apa yang dilakukan siswa secara berbeda.
+
+**Apa yang diminta pendidik lebih menyerupai magang daripada pelatihan.** Dalam studi distrik, 22 guru meminta pengembangan yang disampaikan oleh mantan guru yang memahami kendala kelas, panduan satu halaman tentang kapan alat membantu, dan waktu perencanaan untuk menggunakan keduanya ([[dangol-relief-or-displacement-teachers-generative-ai-2026|Dangol et al.]]). Institusi, sementara itu, memilih membangun kapasitas alih-alih membelinya: di antara mereka yang strateginya mencakup keterampilan tenaga kerja, 69% meningkatkan keterampilan staf dan fakultas yang ada ([[robert-educause-impact-ai-work-higher-education-2026|EDUCAUSE, 2026]]).
+
+**Tidak adanya pengembangan adalah pilihan kebijakan dengan hasil yang terlihat.** [[rameskumar-shadow-ai-legitimized-higher-education-2027|Rameskumar dan kolega]] mewawancarai 20 pendidik yang membangun aturan sendiri karena tidak ada panduan yang datang, dan [[bodek-prompted-to-explore-microlearning-2026|Bodek]] menggambarkan model microlearning yang dibangun agar sesuai dengan waktu yang benar-benar dimiliki fakultas. Program yang memperlakukan pengembangan sebagai satu lapisan dukungan institusional yang berulang alih-alih peristiwa tunggal melaporkan perbedaannya ([[aalhe-capacity-disposition-genai-assessment-2026|AALHE]]).
+
+**Pengaturannya mengubah bentuk pengembangan, bukan kebutuhannya.** Dalam pendidikan kedokteran, residensi AI memperlakukan pengembangan fakultas dan pembelajaran bersama sebagai mekanismenya alih-alih tambahan ([[bursic-ai-residency-education-curriculum-2026|Bursic et al.]]). Tinjauan atas 86 sumber daya anak usia dini mengidentifikasi pengembangan pendidik sebagai salah satu dari empat temanya ([[early-childhood-ai-holistic-competencies-review-2026|tinjauan itu]]). Pembaruan CTE menjangkau pengembangan fakultas begitu perubahan kurikulum menyingkap celah kapabilitas ([[wang-legacy-curriculum-ai-cte-renewal-2026|Wang]]). Dan di antara 146 guru, keterlibatan dalam pengembangan profesional memediasi tautan antara motivasi dan niat penggunaan GenAI ([[yuan-teacher-need-satisfaction-genai-2026|Yuan et al.]]).
+
+Contoh kerja model kohort datang dari sebuah perpustakaan universitas. [[jordan-faculty-ai-oer-creation-2025|Jordan et al. (2025)]] membayar stipend kepada tujuh anggota fakultas untuk program delapan minggu yang menggabungkan empat minggu instruksi, pengembangan proyek mandiri, dan umpan balik sejawat, berlandaskan prinsip pembelajaran dewasa Knowles dan kerangka prompt CLEAR. Keuntungannya moderat pada keakraban AI dan lebih besar pada keakraban OER, dan para penulis memperlakukan stipend serta kesepakatan serikat yang memungkinkan pengajar tambahan dibayar sebagai bagian dari intervensi alih-alih sebagai administrasi.
 
 ## Miskonsepsi Umum
 
@@ -150,25 +175,25 @@ Keyakinan diri dan literasi bukan sasaran yang dapat saling dipertukarkan: dalam
 - [[stakeholders]] - Payung: orang dan audiens dalam pendidikan AI (pembelajar, guru, perancang, administrator, pembuat kebijakan)
 
 ## Artikel terkait
-- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Analisis wacana kritis atas nasihat keselarasan GenAI: pengembang diubah menjadi pelatih teknologi
+
+- [[jordan-faculty-ai-oer-creation-2025]] — Dari prompt ke praktik: inisiatif berpusat fakultas untuk mengeksplorasi kreasi OER berbantuan AI (Jordan et al., 2025)- [[mcinnes-salvaging-constructive-alignment-genai-2026]] — Analisis wacana kritis atas nasihat keselarasan GenAI: pengembang pendidikan dikembalikan ke peran pelatih teknologi (McInnes et al., 2026)
 - [[crompton-faculty-technology-integration-standards-2026]] — Standar fakultas untuk integrasi teknologi (DBR)
 - [[bilgic-sever-ethical-dimensions-ai-higher-ed-2026]] — Dimensi etis AI: pandangan fakultas dan mahasiswa
-- [[nicola-richmond-programwide-assessment-genai-2025]]
+- [[nicola-richmond-programwide-assessment-genai-2025]] — 
 - [[engineering-faculty-metaphors-ai-understanding-2026]] — Bagaimana Metafora Fakultas Teknik Membangun (dan Membatasi) Pemahaman tentang AI
 - [[fear-awe-genai-metaphor-workshops-2025]] — Takut dan Kagum: Memaknai AI Generatif Melalui Metafora (lokakarya metafora fakultas/staf/mahasiswa)
-
 - [[roe-perkins-furze-metaphors-critical-ai-literacy-2025]] — Empat kriteria dan empat metafora untuk mengajarkan literasi AI kritis
 - [[governing-unseen-ai-literacy-language-teachers-2026]] — Mengelola yang tak terlihat: literasi AI di kalangan guru bahasa
-- [[sangwa-epiq-ai-faculty-readiness-2026]]
-- [[teacher-ai-adoption-confidence]]
-- [[institutional-change-framework-ai]]
-- [[genai-policies-higher-ed-computing]]
-- [[ai-tpack-preservice-math-teachers]]
-- [[crewscaler-ai-upskilling-framework]]
-- [[ai-assessment-scale-reform]]
-- [[pchl-he-framework-genai-content-creation-2026]]
-- [[genai-pd-ai-pck-learning-gain-2026]]
-- [[genai-higher-education-systematic-review-2026]]
+- [[sangwa-epiq-ai-faculty-readiness-2026]] — 
+- [[teacher-ai-adoption-confidence]] — 
+- [[institutional-change-framework-ai]] — 
+- [[genai-policies-higher-ed-computing]] — 
+- [[ai-tpack-preservice-math-teachers]] — 
+- [[crewscaler-ai-upskilling-framework]] — 
+- [[ai-assessment-scale-reform]] — 
+- [[pchl-he-framework-genai-content-creation-2026]] — 
+- [[genai-pd-ai-pck-learning-gain-2026]] — 
+- [[genai-higher-education-systematic-review-2026]] — 
 - [[laidlaw-genai-identity-crisis-faculty-2026]] — GenAI sebagai krisis identitas, bukan kesenjangan keterampilan
 - [[zuo-instructor-power-genai-writing-2026]] — Relasi kuasa yang dipersepsikan dosen perguruan tinggi yang bergulat dengan GenAI dalam penulisan (Zuo, Xu & Dunning 2026)
 - [[reflective-triangle-model-teacher-ai-2026]] — Reflective Triangle Model: AI sebagai mediator kognitif
@@ -182,8 +207,23 @@ Keyakinan diri dan literasi bukan sasaran yang dapat saling dipertukarkan: dalam
 - [[watson-rainie-ai-challenge-faculty-survey-2026]] — Survei AAC&U/Elon terhadap 1.057 dosen AS: ketidaksiapan institusional, tata kelola yang tipis dan jurang kebijakan 87%/48% (Watson & Rainie 2026)
 - [[beyond-the-algorithm-academic-developers-digital-mediators-2026]] — Pengembang akademik sebagai mediator digital di pendidikan tinggi Global South: pengembangan sebagai praksis sosioteksnis
 - [[physics-faculty-learning-community-ai-2026]] — Rangkaian Lokakarya untuk Penggunaan AI yang Efektif di Masa yang Tidak Pasti: Membangun Komunitas Pembelajaran Fakultas Fisika
-
 - [[faculty-ai-well-being-social-supports-2026]] — Kesejahteraan AI fakultas mengikuti literasi AI alih-alih efikasi diri teknologis
 - [[ai-competence-framework-landscape-2026]] — Periksa apa yang digambarkan oleh tingkat-tingkat sebuah kerangka sebelum mengadopsinya
-
 - [[fajardo-ramos-teacher-education-ai-agenda-2026]] — Dapatkah pendidikan menetapkan agenda bagi AI? Inovasi simulasi dan penetapan arah pedagogis dalam pendidikan guru
+- [[ussenbay-chemistry-teachers-ai-professional-development-2026]] — 105 guru kimia dalam program enam minggu
+- [[ma-ai-corpus-language-teaching-coi-2026]] — 150+ guru bahasa dari 28 negara selama 20 minggu
+- [[white-scandinavian-teachers-genai-attitudes-2026]] — 2.159 guru Skandinavia; kenaikan 0.20 SD pada manfaat yang dipersepsikan
+- [[yuan-teacher-need-satisfaction-genai-2026]] — 146 guru setelah program pembelajaran GenAI, dengan kebutuhan memediasi keterlibatan
+- [[bodek-prompted-to-explore-microlearning-2026]] — model pengembangan fakultas microlearning untuk AI generatif
+- [[bursic-ai-residency-education-curriculum-2026]] — residensi AI dalam pendidikan kedokteran
+- [[early-childhood-ai-holistic-competencies-review-2026]] — 86 sumber daya; pengembangan pendidik sebagai salah satu dari empat tema
+- [[dangol-relief-or-displacement-teachers-generative-ai-2026]] — 22 guru meminta pengembangan yang dipimpin mantan guru
+- [[robert-educause-impact-ai-work-higher-education-2026]] — 69% meningkatkan keterampilan staf dan fakultas yang ada
+- [[rameskumar-shadow-ai-legitimized-higher-education-2027]] — 20 pendidik melegitimasi shadow AI di tempat panduan tidak ada
+- [[wang-legacy-curriculum-ai-cte-renewal-2026]] — celah kapabilitas yang mendorong keputusan pengembangan fakultas dan perekrutan
+- [[aalhe-capacity-disposition-genai-assessment-2026]] — pengembangan berulang sebagai salah satu dari lima lapisan dukungan
+- [[chen-future-faculty-development-ai-2027]] — Tujuh peran guru, dua fondasi universal, dan tim pengajar sebagai unit pengembangan
+- [[ji-judgement-space-dialogic-inquiry-2027]] — Ruang pertimbangan, inkuiri dialogis, dan audit tiga kolom atas di mana pertimbangan telah berpindah ke alat
+- [[jiang-faculty-development-japan-2027]] — FD dua jalur Jepang: partisipasi naik sementara format kolegial tidak
+- [[tian-transnational-faculty-development-governance-2027]] — Pengembangan fakultas transnasional: konektivitas bersifat episodik, koordinasi adalah pekerjaannya
+- [[ho-invariant-core-faculty-development-2027]] — Inti invarian, tepi yang berubah: mekanisme pembelajaran di depan teknologinya

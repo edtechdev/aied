@@ -10,10 +10,10 @@ discipline: [stem education]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
-connected_resources: [deeptutor, learnharness, primer]
-translation_of: concepts/agentic-ai
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-13T18:20:00-05:00"
+connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
+translation_of: "concepts/agentic-ai"
+source_updated: "2026-11-16T05:33:47-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*"
 contributors: [editor]
 ai_assist:
@@ -25,7 +25,10 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
-
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -73,6 +76,8 @@ Jika [[agentic-ai-education-scoping-review|tinjauan cakupan 474 studi]] dan [[ko
 - **Skala pelaporan dan tata kelola: kerangka Autonomy-Oversight-Evidence (AOE).** [[beyond-agent-label-agentic-ai-governance-2026|Dey (2026)]] berargumen bahwa istilah *AI agensik* diterapkan begitu tidak konsisten sehingga bukti dan pengawasan tidak dapat dibandingkan antarkajian: sistem yang merencanakan, mengingat, menggunakan alat, atau mengoordinasikan beberapa agen dicampur dengan antarmuka GenAI statis dan [[pedagogical-agent|agen pedagogis]] konvensional. Tinjauan integratif kritisnya atas lima belas tinjauan sejawat menemukan bukti terkuat untuk keluaran tingkat artefak (akurasi umpan balik, [[hallucination-risk|pengurangan halusinasi]]) dan terlemah untuk pembelajaran yang tahan lama, ekuitas, beban kerja, atau hasil institusional, dengan penerapan autentik yang lazimnya singkat, berlokasi tunggal, dan lemah kaitannya dengan pengawasan. Perbaikannya adalah triplet pelaporan yang konkret: **tingkat otonomi A0-A4** (generasi reaktif, orkestrasi terbatas, otonomi tugas terdelegasi, otonomi alur kerja, *otonomi berkonsekuensi* atas penilaian, penerimaan, atau kelulusan), **tingkat pengawasan O0-O4** (tidak ditentukan, audit retrospektif, persetujuan sebelum penggunaan, kendali dengan titik pemeriksaan, *supervisi berkelanjutan yang terbatas*), dan **tahap kedewasaan bukti M0-M5** (konsep, prototipe atau tolok ukur, evaluasi partisipan, penerapan autentik, diperluas atau multisitus, *direplikasi atau skala institusi*), ditambah **aturan proporsionalitas**: otonomi yang diizinkan tidak boleh melampaui kedewasaan bukti atau kekuatan pengawasan (misalnya sistem berkonsekuensi A4 menuntut bukti M4-M5, validasi hukum, dan O4 dengan otoritas akhir pada manusia). Melaporkan *A2-O3-M3* mengubah klaim "penerapan agensik" yang kabur menjadi spesifikasi yang dapat dibandingkan dan diuji serta memberikan tata bahasa adopsi bertahap, pencatatan, dan pengembalian kepada institusi, yaitu pelengkap bukti bagi spektrum [[baradziej-agentic-ai-higher-education-2026|Copilot ke Autopilot]] di atas.
 - **Pengujian ketahanan adversarial:** [[adversarial-stress-testing-role-playing-agents|Pengujian stres multiagen]] mengoordinasikan agen Interrogator, Target, dan Judge untuk menyingkap mode kegagalan yang tak terlihat oleh pengujian strategi tunggal, menurunkan skor ketahanan sebesar 0,17-0,20 poin, yang krusial bagi konsistensi persona dan [[pedagogical-safety|penerapan yang aman]] bersama pembelajar.
 - **Aplikasi domain:** sistem agensik muncul di berbagai domain, termasuk [[learnmate2-llm-adaptive-learning|agen pembelajaran adaptif]], [[educlaw-bench-pedagogical-llm-agents-2026|agen LLM pedagogis]], [[guided-llm-scaffolding-independent-learning|perancah LLM terpandu]], [[cyberagents-gamified-cybersecurity-learning-2026|agen pembelajaran keamanan siber bergamifikasi]], dan [[hdr-brachytherapy-agentic-ai-simulation-2026|agen simulasi klinis]].
+- **Penilaian oleh agen adalah pertanyaan keandalan sebelum menjadi pertanyaan beban kerja.** Sebuah penerapan Claude Code agensik diberi tiga berkas rubrik dan 60 makalah ujian tengah semester tulisan tangan yang dipindai dari kursus grafik komputer. Nilainya sepakat dengan instruktur pada r = 0.97, dengan kesalahan absolut rata-rata 0.85 nilai pada makalah bernilai 20, bias positif-AI rata-rata 0.68, dan ICC uji-ulang 0.96 di seluruh dua sesi dengan jeda seminggu. Agregat itu menyembunyikan di mana ia gagal: kappa berbobot berkisar dari 0.98 pada pilihan ganda hingga 0.65 pada butir evaluatif, dengan diagram gambar tangan sebagai kasus terlemah ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Satu kursus, satu instruktur, dan satu set rubrik melokalisasi variansnya; itu tidak menetapkan bahwa penilaian agensik dapat digeneralisasi.
+Arsitektur agensik membeli cakupan dengan biaya presisi yang terukur. Pada tolok ukur [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah et al. (2026)]] atas 926 sampel lowongan kerja dan 1.696 keterampilan berstandar-emas, agen ReAct dengan alat pencarian ESCO memimpin recall yang ditingkatkan pada 89.7%, melawan 83.7% untuk konfigurasi generatif terbaik dan 49.1% untuk model embedding terbaik. Presisinya 22.7%, menyisakan F1 pada 36.3%, di bawah Gemini 2.5 Flash yang berlandaskan alat pada 51.6%, dan ia berjalan sekitar 16 detik per sampel. Recall adalah metrik yang tepat ketika seorang penasihat manusia memangkas daftarnya; keluaran tanpa mediasi membutuhkan alternatif yang berlandaskan alat.
 - **Agen web sebagai evaluator pengalaman belajar:** satu agen web otonom yang "mendeskripsikan" dan menavigasi [[learning-design|pelajaran]] daring seperti seorang siswa, yaitu [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]], menghasilkan deskripsi yang cukup kaya untuk memprediksi putus kuliah siswa dan memberikan umpan balik yang dapat ditindaklanjuti kepada perancang sebelum pembelajar nyata terlibat, mengungguli kohort simulasi penuh dan setiap garis dasar pada mata kuliah CS1 global. Ini menempatkan evaluasi agensik (agen sebagai kritikus pengganti atas suatu pengalaman belajar) sebagai penggunaan AI agensik yang berbeda dan berbiaya rendah, di samping agen yang mengajar atau merancang.
 
 ### Sistem multiagen
@@ -211,8 +216,8 @@ AI agensik bukan panasea dan bukan kerugian yang tak terhindarkan: nilainya berg
 
 ## Artikel terkait
 
+- [[alghamdi-claude-code-agentic-grading-2026]] — penilaian agensik atas 60 ujian tulisan tangan: r = .97 secara keseluruhan, kappa turun ke .65 pada butir evaluatif
 - [[jingru-fan-agentic-university-collaborative-agents-2026]] — Agen yang diorganisasi di sekitar program kemampuan yang dapat direvisi, dengan pembelajar sebagai anggota
-
 - [[pramod-agentic-ai-motivational-pathways-2026]] — otonomi, kompetensi, keterhubungan, dan kehadiran sosial sebagai jalur dari AI agensik ke keterlibatan (Pramod & Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — agen AI, penilaian yang menyenangkan, dan ruang ketiga
 - [[ilieva-agentic-genai-higher-education-2026]] — kerangka AGAI-HE: GAI agensik yang terbatas dan tersupervisi manusia di pendidikan tinggi (Ilieva et al. 2026)
@@ -239,3 +244,4 @@ AI agensik bukan panasea dan bukan kerugian yang tak terhindarkan: nilainya berg
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD dengan agen AI dalam PBL perangkat lunak; otomatisasi versus pemahaman
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Mengevaluasi Sistem Model Bahasa Besar Multiagen Berorientasi Perancah untuk Pelatihan Wawancara Klinis
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Memfasilitasi Pendidikan Etika Berbasis Kelompok dengan Bermain Peran dan Diskusi untuk Refleksi dan Eksplorasi Etis
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — Membandingkan Pendekatan AI untuk Ekstraksi Keterampilan Otomatis: Dari Embedding ke Sistem Agensik untuk Pendidikan Teknik

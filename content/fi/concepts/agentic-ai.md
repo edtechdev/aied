@@ -10,16 +10,20 @@ discipline: [stem education]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high
-connected_resources: [deeptutor, learnharness, primer]
+connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-13T18:20:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "Tämän englanninkielisen sivun automaattinen konekäännös, jota ei ole vielä tarkastanut äidinkielinen puhuja."
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -68,6 +72,10 @@ Siinä missä [[agentic-ai-education-scoping-review|474 tutkimuksen kartoittava 
 - **Raportointi- ja hallintaskaalari: autonomian, valvonnan ja evidenssin (AOE) viitekehys.** [[beyond-agent-label-agentic-ai-governance-2026|Dey (2026)]] väittää, että termiä *agenttinen tekoäly* käytetään niin epäjohdonmukaisesti, ettei evidenssiä ja valvontaa voi verrata tutkimusten välillä - järjestelmät, jotka suunnittelevat, muistavat, käyttävät työkaluja tai koordinoivat useita agentteja, niputetaan staattisten GenAI-käyttöliittymien ja tavanomaisten [[pedagogical-agent|pedagogisten agenttien]] kanssa. Hänen kriittinen integratiivinen katsauksensa viidestätoista vertaisarvioidusta katsauksesta havaitsee evidenssin olevan vahvinta artefaktitason tuloksissa (palautteen tarkkuus, [[hallucination-risk|hallusinaatioiden]] väheneminen) ja heikointa kestävässä oppimisessa, tasa-arvossa, työmäärässä tai institutionaalisissa tuloksissa, ja aitojen käyttöönottojen olevan tyypillisesti lyhyitä, yhteen paikkaan rajautuvia ja heikosti valvontaan kytkettyjä. Korjaus on konkreettinen raportointikolmikko - **autonomian taso A0-A4** (reaktiivinen generointi → rajattu orkestrointi → delegoitu tehtäväautonomia → työnkulkuautonomia → *seurauksellinen autonomia* arvioinnin, valintojen ja etenemisen suhteen), **valvonnan taso O0-O4** (määrittelemätön → jälkikäteisarviointi → ennakkohyväksyntä → tarkistuspisteohjaus → *jatkuva rajattu valvonta*) ja **evidenssin kypsyysvaihe M0-M5** (konsepti → prototyyppi tai vertailuanalyysi → osallistuja-arviointi → aito käyttöönotto → laajennettu tai monipaikkainen → *toistettu tai institutionaalinen mittakaava*) - sekä **suhteellisuussääntö**: sallittu autonomia ei saisi ylittää evidenssin kypsyyttä tai valvonnan vahvuutta (esim. A4-tason seurauksellinen järjestelmä vaatii M4-M5-evidenssiä, oikeudellisen validoinnin ja O4-tason, jossa ihmisellä on lopullinen päätösvalta). Raportointi *A2-O3-M3* muuttaa epämääräiset "agenttisen käyttöönoton" väitteet vertailukelpoisiksi, testattaviksi spesifikaatioiksi ja antaa instituutioille vaiheittaisen käyttöönoton, lokituksen ja peruutuksen kieliopin - evidenssipuolen vastine yllä olevalle [[baradziej-agentic-ai-higher-education-2026|Copilotista Autopilottiin]] -kirjolle.
 - **Adversariaalinen robustisuustestaus:** [[adversarial-stress-testing-role-playing-agents|Moniagenttinen stressitestaus]] koordinoi Kuulustelija-, Kohde- ja Tuomari-agentteja paljastaakseen vikatiloja, jotka ovat näkymättömiä yksistrategisessa testauksessa, ja laskee robustisuuspisteitä 0,17-0,20 pistettä - ratkaisevaa persoonallisuuden johdonmukaisuudelle ja [[pedagogical-safety|turvalliselle käyttöönotolle]] oppijoiden kanssa.
 - **Alasovellutukset:** agenttiset järjestelmät esiintyvät eri aloilla, mukaan lukien [[learnmate2-llm-adaptive-learning|mukautuvan oppimisen agentit]], [[educlaw-bench-pedagogical-llm-agents-2026|pedagogiset LLM-agentit]], [[guided-llm-scaffolding-independent-learning|ohjattu LLM-tukeminen]], [[cyberagents-gamified-cybersecurity-learning-2026|pellillistetyt kyberturvallisuusoppimisen agentit]] ja [[hdr-brachytherapy-agentic-ai-simulation-2026|kliinisen simulaation agentit]].
+- **Agenttinen arviointi on luotettavuuskysymys ennen kuin se on työmääräkysymys.** Agenttiselle Claude Code -käyttöönotolle annettiin kolme arviointikriteeritiedostoa ja 60 skannattua käsin kirjoitettua välitenttipaperia tietokonegrafiikan kurssilta. Sen antamat pisteet vastasivat opettajan pisteitä, r = 0,97, keskimääräisen absoluuttisen virheen ollessa 0,85 pistettä 20 pisteen paperilla, keskimääräisen tekoälypositiivisen vinouman 0,68 ja testi-uudelleentestin ICC = 0,96 kahden viikon välein pidetyn istunnon välillä. Kokonaisluku kätkee sen, missä menetelmä epäonnistuu: painotettu kappa vaihteli 0,98:sta monivalinnassa 0,65:een evaluatiivisissa kohdissa, ja käsin piirretyt kaaviot olivat heikoin tapaus ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Yksi kurssi, yksi opettaja ja yksi arviointikriteeristö paikantavat varianssin; ne eivät osoita, että agenttinen arviointi yleistyy.
+
+Agenttiarkkitehtuurit ostavat kattavuutta mitattavalla tarkkuuden hinnalla. [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumahin ym. (2026)]] vertailuanalyysissa, jossa oli 926 työpaikkailmoitusnäytettä ja 1 696 kultastandarditaitoa, ReAct-agentti ESCO-hakutyökalulla tuotti parhaan parannetun saannin, 89,7 %, kun paras generatiivinen kokoonpano ylsi 83,7 %:iin ja paras upotusmalli 49,1 %:iin. Sen tarkkuus oli 22,7 %, jolloin F1 jäi 36,3 %:iin, alle työkaluun nojaavan Gemini 2.5 Flashin 51,6 %:n, ja se toimi noin 16 sekuntia näytettä kohden. Saanti on oikea mittari, kun ihminen neuvonantajana karsii listan; välittämätön tuotos tarvitsee työkaluun nojaavan vaihtoehdon.
+
 - **Web-agentit oppimiskokemuksen arvioijina:** yksi autonominen "kuvaileva" web-agentti, joka navigoi verkossa olevaa [[learning-design|oppimissuunnittelun]] oppituntia kuin opiskelija - [[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech (2025)]] - tuottaa kuvauksen, joka on riittävän rikas ennustamaan opiskelijan keskeyttämisen ja antamaan suunnittelijalle toimintakelpoista palautetta ennen kuin todelliset oppijat sitoutuvat, ja päihittää globaalilla CS1-kurssilla sekä täyden simuloidun kohortin että kaikki lähtötasot. Tämä asemoi agenttisen arvioinnin (agentti oppimiskokemuksen sijaiskriitikkona) erilliseksi, edulliseksi agenttisen tekoälyn käytöksi opettavien tai suunnittelevien agenttien rinnalla.
 
 ### Moniagenttijärjestelmät
@@ -81,9 +89,7 @@ Askelta pidemmälle kuin muutaman erikoistuneen agentin orkestrointi on **täysi
 - **Osallistujakohtaiset LLM-agentit yhteistoiminnalliseen ongelmanratkaisuun.** Fang (2026) hienosäätää yksittäisiä LLM-agentteja todellisten osallistujien dialogidatalla edustamaan kutakin osallistujaa yhteistoiminnallisen ongelmanratkaisun simulaatioissa, käyttäen probabilistista puhujan ja temaattisen koodin valintaa sekä liukuvaa ikkunaa ja tiivistettyä muistia. [[network-analysis|Episteemisen verkostoanalyysin]] avulla validoituna simuloidut dialogit ovat tilastollisesti erottamattomia todellisista (ENA-etäisyys 0,17, permutaatio p = 0,65) - osoitus agenttisesta tekoälystä, joka toisintaa aitoa yhteistoiminnallista diskurssia.
 - **Sosiaalisesti älykäs moniagenttiopastus.** Sosiaalisesti älykkään moniagenttiopastuksen prototyypit, kuten ASTRA, tutkivat, miten oppijat koordinoituvat tekoälyn kanssa pareissa, käyttäen eriytettyjä Ohjaaja- ja Fasilitoija-agentteja koordinaation ja tasapainoisen osallistumisen edistämiseen. Viitekehyksen jälkipohjainen arviointi mahdollistaa toistettavan analyysin vuorovaikutuksesta, osallistumisen tasapainosta ja tarkistamisesta [[cs-education|johdantokurssilla ohjelmoinnissa]].
 
-
 **Organisatorinen vastaus: oppija osallistuvana jäsenenä eikä vastaanottajana.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan et al. (2026)]] toteuttavat ihmisen osallistumaan kytkevän moniagenttiorganisaation, jossa erikoistuneet agentit ylläpitävät muokattavissa olevaa kyvykkyysohjelmaa, joka linkittää henkilökohtaiset tavoitteet, [[multimodal|multimodaaliset]] aktiviteetit ja kerrostetun arvioinnin, ja korjattavissa oleva "Human Node" kuljettaa oppijan oman näytön ja haasteet myöhempiin versioihin. Lähimpään moniagenttivertailukohtaan verrattuna 96 simuloidun oppijatapauksen yli etu keskittyi [[assessment|arvioinnin suunnitteluun]]: 19,32 pistettä korkeampi [[assessment-validity|arvioinnin validiteetti]] (95 %:n luottamusväli [17,55; 21,04]) ja 5,89 pistettä kyvykkyyksien kattavuudessa, kun taas personointi ei erottunut (1,35 pistettä, väli ylittää nollan). Satunnaistetussa 32 oppijan tutkimuksessa tietämyksen lisäys objektiivisessa 50 pisteen testissä oli 12,19 vastaan 5,61 pistettä.
-
 
 ## Keskeinen jännite: automaatio vastaan oppiminen
 
@@ -179,7 +185,7 @@ Agenttinen tekoäly ei ole yleislääke eikä väistämätön haitta: sen arvo r
 
 **"Oppimista personoiva ja syventävä agentti on nettovoitto chatbottiin verrattuna."** Siihen liittyy erityinen vaihtokauppa: agenttiset järjestelmät uhkaavat [[agency|toimijuutta]] ja kutsuvat [[cognitive-offloading|siirtokuormittamaan]] sen kognitiivisen vaivannäön, josta oppiminen riippuu, ja tekemällä enemmän vaiheita valvomatta ne tekevät tuosta siirtokuormituksesta vaikeammin havaittavaa. Automaation ja oppimisen jännite on luokan keskeinen analyyttinen ongelma eikä sen hyötyihin liitetty varaus.
 
-## Liittyvät konseptit
+## Liittyvät käsitteet
 
 - [[scaffolding]]
 - [[intelligent-tutoring]]
@@ -207,6 +213,8 @@ Agenttinen tekoäly ei ole yleislääke eikä väistämätön haitta: sen arvo r
 - [[educational-policy-ai]]
 
 ## Liittyvät artikkelit
+
+- [[alghamdi-claude-code-agentic-grading-2026]] — agenttinen 60 käsin kirjoitetun kokeen arviointi: r = .97 kokonaisuutena, kappa laskee 0,65:een evaluatiivisissa kohdissa
 
 - [[jingru-fan-agentic-university-collaborative-agents-2026]] — Agentit, jotka on järjestetty muokattavan kyvykkyysohjelman ympärille, oppija jäsenenä
 
@@ -236,3 +244,4 @@ Agenttinen tekoäly ei ole yleislääke eikä väistämätön haitta: sen arvo r
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD tekoälyagenttien kanssa ohjelmistoprojektipohjaisessa oppimisessa; automaatio vastaan ymmärtäminen
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Tukemiseen suuntautuvan moniagenttisen suuren kielimallin järjestelmän arviointi kliinisen haastattelun koulutuksessa
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: ryhmäpohjaisen etiikkakasvatuksen fasilitointi roolileikin ja keskustelun avulla eettiseen reflektioon ja tutkimiseen
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — Comparing AI Approaches for Automated Skill Extraction: From Embeddings to Agentic Systems for Engineering Education

@@ -1,7 +1,7 @@
 ---
 title: 学習デザイン
 created: "2026-10-10T22:38:12-04:00"
-updated: "2026-11-07T20:21:19-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]
@@ -12,13 +12,17 @@ connected_faqs: [top-10-findings-ai-education-instructors, incorporating-ai-lite
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: concepts/learning-design
-source_updated: "2026-11-05T01:53:02-05:00"
+source_updated: "2026-11-16T05:34:55-05:00"
 translation_note: "英語ページの自動翻訳です。母語話者による確認はまだ行われていません。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-10"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -40,13 +44,13 @@ ai_assist:
 
 その設計作業が実際に何を含むのかは、それ自体が実証的な問いです。[[tang-chatbots-learning-design-2026|Tangら(2026年)]]は、設計ツールに埋め込まれたチャットボットと協働した5名の初心者学習デザイナーによる1,378回のデザイナー–チャットボットのやり取りをコーディングし、対話がコンテンツ生成ではなく意図する学習成果と教授法的なアプローチに集中していたことを見出しました。デザイナーは、カリキュラムの構成要素を具体的な課題に変換しながら整合性の確認として繰り返し成果に立ち戻り、アシスタントの役割は段階に応じて、用語の明確化から課題設計の支援へ、そして締切前の検証へと移行しました。この証拠からは、設計の支援とは教材をつくることよりも、設計の意図を首尾一貫したものに保つことにあると言えます。
 
-同じレビューは、同じ道具についての期待が専門分野によって分かれることを見出しています。35の研究にわたるAilaのレビューでは、設計者はしばしば不満を抱き、生成された教材の質は報告された時間短縮よりも控えめな改善にとどまっていました([[roy-aila-lesson-planning-teacher-choices-2026|Roy et al., 2026]])。時間の便益は、教材の改善よりも測定が容易なのです。
-
 [[learning-analytics|学習分析]]と生成AIは設計の異なる部分を支援します。オーストラリアのある大学における11件のフォーカスグループを通じて、分析に関する言説は文脈とコースレベルの[[problem-solving|問題解決]]と最も多く共起し(0.32)、一方GenAIに関する言説は[[assessment|評価の設計]](0.26)と学生の自己決定のための設計(0.15)を中心としていました([[claassen-learning-analytics-genai-learning-design-2026|Claassenら(2026年)]])。
 
-### 主要な研究テーマ
+## 主要な研究テーマ
 
 **AI支援によるコンテンツ生成**は、最も直接的に変革的な応用です。**[[curriculum-as-code-instructional-design-2026|Curriculum as Code]]**は、生成AIをLaTeXおよびPythonと統合して[[stem-education|STEM]]教材の作成を自動化する6段階のアーキテクチャを提示し、8つのモジュールと28件のプロジェクト文脈にわたって検証され、学生による品質評価は8.5-9.9/10でした。**[[instructional-agents-multi-agent-course-gen|Instructional Agents]]**はADDIEモデルを軸に構成されたマルチエージェントの枠組みを用い、役割に基づくエージェント(Teaching Faculty、Instructional Designer、Course Coordinator)が協働して完全なコース教材を生成します。**[[courseblueprint-adaptive-video-generation|CourseBlueprint]]**は、コースのコーパスに基づく適応的な[[pedagogy|教授法的]]な[[video-education|動画生成]]のための構造化されたパイプラインを提供し、教育コンテンツの生成にはAIの習熟度だけでなく明示的な教授法的な構造が不可欠であることを示しています。[[generative-ai|生成AI]]のプラットフォームは、生成するコンテンツ自体に学習デザインの原理を具現化することもできます。[[ai-modeling-problem-generation-platform-2026|数学的モデリング問題を生成するAI駆動のプラットフォーム]]は、確立された設計原理を[[rag|検索拡張生成]]と組み合わせ、ADDIE的アプローチを通じて開発され、従来のコンテンツ生成器には欠けている教授法的に裏づけられた課題と推奨事項を生み出しました。しかしそうしたAI支援によるコンテンツおよび授業生成の見返りは、教師自身の専門性によって媒介されます。[[choi-teacher-ai-interaction-lesson-design-2026|Choiら(2026年)]]は、経験豊富な教師がAI生成の授業案を学生と文脈に応じて批判的に適応させる(出力の再プロンプト化と敷衍)のに対し、初心者はAIの提案をそのまま受け入れる傾向があることを見出しました——つまりAIコンテンツツールの教授法的な価値は、道具そのものではなく教師の経験とAIの習熟度に依存します。[[wang-teacher-ai-co-design-review-2026|教師とAIによる学習課題の共同設計]]の体系的なレビュー(Wang, Liu & Islam 2026)は、28件の研究(2015–2025)にわたってこの傾向を大規模に裏づけています。GenAIは主に授業計画、プロンプト生成、創造的な発想に使われ、支配的な協働様態は、より完全な共同設計者ではなく、アシスタント／コンテンツ生成器としてのAIです——効率性、応答性、[[creativity|創造性]]、[[equity-in-ai-education|公平性]]が繰り返し現れる有益性として挙げられています。[[talebzadeh-ai-group-activity-roles-2026|Talebzadeh(2026年)]]は、グループ活動の設計についてこの教師の専門性に関する知見を鋭くしています。経験豊富な教師は、AIに習熟しているかどうかにかかわらず、AIが設計した協働活動において初心者よりも豊かで相乗的で、よりZPDに沿った役割の構造を生み出し、「教授法的プロンプトリテラシー」を、AIの出力を効果的な[[collaborative-learning|分化したグループ学習]]に変える梃子として位置づけています。
+
+Ailaの試行は、そのパターンに計画時間の数字を与えます。無作為化された小学校の教師は、道具を使って週2.51時間を授業の準備に費やし、使わない場合は3.32時間でしたが、中央値の教師は授業の21%から40%しかゼロから計画しておらず、それはゼロからの計画を助ける道具が扱う事例です([[roy-aila-lesson-planning-teacher-choices-2026|Royら、2026]])。
 
 生成された教材が不十分なのは、カリキュラムとの適合です。7名の数学教師は、AI生成の[[productive-failure|生産的な失敗]]に基づく問題を、全体的な品質においては人間の問題に近いと評価しましたが(M = 17.19 対 17.43 / 25点中)、カリキュラムとの整合性では低い評価でした(M = 2.57 対 3.29)。そのため生成された問題は、長さ、[[reading-education|読解レベル]]、視覚表現について編集が必要でした([[rhaimi-productivemath-2025|Rhaimiら(2025年)]])。
 
@@ -64,23 +68,29 @@ ai_assist:
 
 **インストラクショナルデザインのためのAIエージェント**は、この分野を[[agentic-ai|エージェント的AI]]へと拡張します。**[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]**は、LLMベースのインストラクショナルデザインのエージェントを評価するための、最初の標準化された理論に基づくベンチマークです——その25,795シナリオからなるコンテキスト行列(51の文脈変数 × ADDIE由来の33のISDサブステップ)は、古典的なISDの枠組み(ADDIE、Dick & Carey、Rapid Prototyping ISD)に基づくエージェントが、理論に依拠しないエージェントを上回ることを示し、インストラクショナルデザインが汎用的なプロンプティングの作業ではなく構造化された規律であることを実証的に検証しています。エージェントは設計の*構築者*であるだけでなく、その*批評者*でもあります。[[ai-web-agents-lesson-design-2025|Wang, Mitchell & Piech(2025年)]]は、学生のように多段階のオンライン授業を巡回する単一の自律的なウェブエージェントを用いて、実際の学習者が取り組む*前に*学習デザインを評価します——その[[student-experience|学生経験]]の記述は、初心者がどこで脱落するかを予測し、実行可能な設計のフィードバックを表出させ、すべてのベースライン、さらには大規模なCS1コースにおけるシミュレートされた学生集団をも上回りました。これは、開講前のエージェント的評価を、人間による設計の反復に対する低コストの補完として位置づけています。**[[wang-multi-agent-systems-learning-designers-2025]]**と**[[instructional-agents-multi-agent-course-gen|Instructional Agents]]**は、インストラクショナルデザインのモデルを軸に役割に基づくエージェントを編成するマルチエージェントの枠組みを探求し、一方**[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]**は、教師とエージェントが技術的・教授法的・内容の知識を共にどう応用するかを検討しています。この研究は、インストラクショナルデザインを[[benchmark|ベンチマーク化]]、[[ai-ed-evaluation]]、そして大規模な[[curriculum-design|カリキュラム]]の設計につないでいます。
 
-### 関連概念とのつながり
+**適応されたコンテンツは、道具の技能ではなく時間を要します。**教育の専門職は、差別化された教材を作る障害として時間、教材、競合する業務を挙げ、技術を主要な障壁と呼んだのはわずか12%でした([[hilali-adaptive-learning-challenges-2026|Hilali and Chergui (2026)]])。
+
+## 関連概念とのつながり
 
 学習デザインは[[ai-education|教育におけるAI]]の橋渡しの規律です——[[curriculum-design]](何を教えるか)と[[scaffolding]](どう学習者を支援するか)、[[educational-development]](どう教育者を準備するか)、そして[[generative-ai]](道具そのもの)をつなぎます。AIツールが学習デザイナーと教師の仕事を組み替えるため、[[teacher-role]]と緊密に結びついており、効果的なAIの統合には教育者がAIの能力と限界を理解することが必要であるため、[[ai-literacy]]とも結びついています。設計の作業は最終的に*活動の順序*に帰着します。[[pedagogical-patterns|教授法的なパターン]]は検証済みの手順の順序を記録しているので、デザイナーは何を含めるかだけでなく、授業のどこにAIを置くかを決められます。[[learning-sciences|学習科学]]はこれらの原理の背後にある研究分野です。このページが学習経験を創出する専門的な実践を扱うのに対し、学習科学はその実践とその設計を実証的に研究し、学習デザインがその後で具体化する認知的・[[motivation|動機づけ]]・社会的な原理を生成します。
 
-### 共同設計と、人間に残らなければならないもの
+## 共同設計と、人間に残らなければならないもの
 
 共同設計は、関係的な仕事が最も代替しにくい設計実践の部分です。[[zeivots-postdigital-co-design-genai-2025|Zeivots ら（2025年）]]は、[[generative-ai|GenAI]]を草案作成の道具ではなく信頼できない協働者として扱い、その信頼できなさを軸に 3 段階の順序を組み立てます。モデルは挑発し、複数化し、進行を助け、グループはその枠づけを問いただし、対抗の物語を生み、熟議そのものを保持します。人間に残るのは交渉です。どの声が欠けているか、グループがどの枠づけを採用するか、そして共有された理解が何になるかです。この論文は 19 人の著者による集合的なフォーラムであり実験ではないため、この順序は検証された方法ではなく実践についての提案です。
 
-### 学習デザインが学習成果をどう決めるか
+3つのコースからなるMOOCのシリーズは、デザイナー自身のワークフローを指導の対象にし、道具に固有のデモンストレーションを、モデルのリリースを生き延びる恒久的な設計原理から切り分けています([[quintana-generative-ai-learning-design-partner-2025|Quintanaら(2025)]])。
+
+## 学習デザインが学習成果をどう決めるか
 
 学習デザインは、AIが[[learning-gains|学習成果]]を生むのか、それともAIによって膨らんだ成績にすぎないのかを決める梃子です。このナレッジベースの証拠は一貫しています。**同じAIツールでも、その周囲の学習経験がどう設計されるかによって、大きな成果にも純損失にもなります。**[[instructional-guidance-genai-learning|Houら]]は、学習理論に裏づけられた5段階のプロンプティングの枠組みが高次の認知的成果を有意に改善したのに対し、AIへのアクセスだけでは改善しなかったことを示しました。[[genai-mindtool-generative-learning|マインドツール]]と[[airis-cognitively-activated-ai-physics-2026|AIRIS]]の枠組みは、学習者の認知的作業を保つことで、課題効率ではなく持続的な成果が生じるようにします。[[learning-gains|学習成果]]を守る設計上の選択——学生による試行を求める足場かけ、非支援条件での成果測定を伴う[[formative-assessment]]、学習者を主体であり続けさせる教授法的な構造——は、AIはコーチするときには強い成果となり、答えるときには害になるという分野の知見(→[[learning-gains]])を反映しています。逆に、設計のまずいAI統合の授業は、見かけ上の成功が学習の欠如を覆い隠す[[cognitive-offloading|成績–学習の乖離]]に陥ります。
 
-### デザイナーと開発者のための実践的な指針
+## デザイナーと開発者のための実践的な指針
 
 AI支援の学習経験を構築するインストラクショナルデザイナー、コース開発者、技術者にとって、このナレッジベースの知見は実行可能な実践に翻訳されます。実践それ自体に入る前に1つ境界を示しておく価値があります。このページが述べる学習デザインは、既知の集団のためのコースの設計であり、一方、デザイナーが会うことのない人々が教える多くのコースが使う製品に同じ原理を組み込む仕事は[[educational-technology-developers]]の仕事です。そこでは既定値、構成可能性、ドキュメントが教授法的な重みを帯びます。
 
 **AIの生成を構造化されたインストラクショナルデザインのモデルに根づける。** AIコンテンツの質は、その背後にある教授法的な構造と同じにしかなりません——明示的な構造こそが、AIの習熟度ではなく品質を決めます。認知されたモデル(ADDIE、Dick & Carey、迅速な試作)を軸に設計し、モデルに推論させるのではなく、教授法的な決定を明示的に符号化してください。([[courseblueprint-adaptive-video-generation]])([[jeon-isd-agent-bench-2026]])([[didactical-teacher-assistant-dimensional-modeling]])
+
+モデルは、それが何を残すかの一覧でもあります。ADDIEの5つの段階を検討して、WilliamsとPrishtina (2026)は、それぞれが利用の条件を1つ落としていることを見出します。分析における道具へのアクセス、設計における教育者の訓練、開発におけるカリキュラムとの適合、実施における接続性とソフトウェアの互換性、そして評価における創造性です([[williams-coding-curriculum-critique-2026|Williams and Prishtina, 2026]])。役割の変化はそれと並んで走ります。[[chng-ai-instructional-design-2023|Ch'ng (2023)]]の説明では、主題の専門家は内容を起草するのをやめ、モデルが生み出したものを検証するアクセサーになり、検討の能力がボトルネックになります。
 
 **インストラクショナルデザインのモデルに加えて、原理レベルの枠組みも採用する。** コースレベルのモデルは1つの設計を構造化しますが、公表された枠組みは、多くの設計が満たすべき基準を定めます。全文を読む価値のある例は、Digital Promiseの*Powerful Learning with Emerging Technology*です。これは3つの原理——Evidence-Based、Learner-Centered、Skill-Building——の下に指針を組織し、それぞれを実践と戦略に展開し、[[privacy|プライバシー]]、[[explainable-ai|説明可能性]]、公平性を、任意の付加事項ではなく安全上の義務として特定の実践に結びつけています。([[powerful-learning-with-emerging-technology-2025]])
 **AIの構成を、洗練度ではなく課題に合わせる。** [[pchl-he-framework-genai-content-creation-2026|Nalyvaiko(2026年)]]は、プロンプト、コンテキスト、ハーネス、検証済みループという4つの層を区別し、最小限に十分な層の原理を適用します。検証可能な結果を出せる最も複雑でない構成を用いるべきです。なぜなら、編成を加えるごとに調整・検証・プライバシー・理解のコストが伴うからです。
@@ -107,6 +117,9 @@ Fowlinら(2026年)は、AIをどこに入れるかを決めるための運用的
 - **記録されている活動はサイクルの1つの段階に集中しています。** AI支援のインストラクショナルデザインに関する78件の研究のレビューでは、設計段階の活動が**78件中74件(95%)**に現れ、開発段階が44件(56%)である一方、分析段階は11件(14%)、評価段階は10件(13%)、実施段階は7件(9%)にとどまり、**ADDIEサイクル全体にわたるAI支援を検討した研究は1件もありませんでした**。サイクルは証拠基盤が覆っていない願望であり、これは「AI駆動のコース開発」をエンドツーエンドの能力として売り込まれている人にとって重要です([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou & Kameas(2026年)]])。
 
 - **3つのAIの役割は、階層的に分布しています。** *生成的*な利用、つまり教育者の指示に従ってAIが設計コンテンツを生み出す利用が**研究の96%**を占めて最も多く、AIがデザイナー自身の推論を構造化する*足場かけ*の利用は35%、AIが成果物の質を評価する*評価的*な利用は21%でした。この分野は、AIを使って何かを作ることに圧倒的に傾いており、自らの設計判断を吟味することにはほとんど使われていません。これは、レビューが教育上有望だと特に挙げる「批判的友人」の構成とは正反対です。
+- **デザイナーは自律性ではなく操縦可能性を求めます。**項目生成のプラットフォームを試した8人のインストラクショナルデザイナーは([[wei-perspicacious-instructional-design-2026|Weiら、2026]])、難易度、形式、出自に対する統制を求め、SUSで78.8と評し、採用の条件として信頼を挙げました。
+
+**設計は、技術よりも効果を調節します。**Zhangらの統合では、同じ生成的AIの能力が、学習者が方向づけたときはg = 0.92、自律的に走ったときはg = 0.34でした。したがって相互作用の様式は、道具の性質ではなく設計上の決定です([[zhang-genai-l2-learning-meta-analysis-2026|Zhangら、2026]])。
 
 ## よくある誤解
 
@@ -144,14 +157,15 @@ Fowlinら(2026年)は、AIをどこに入れるかを決めるための運用的
 - [[stakeholders]] — Umbrella: people and audiences in AI education (learners, teachers, designers, administrators, policymakers)
 
 ## 関連記事
+
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — Ailaのレビュー:設計者の不満、控えめな教材の改善、時間節約の報告(Royら 2026)
-- [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
-- [[claassen-learning-analytics-genai-learning-design-2026]] — LA and GenAI in learning design decision-making
-- [[tang-chatbots-learning-design-2026]] — Chatbot use in learning design: designers dwell on outcomes and pedagogy rather than content generation (Tang et al. 2026)
-- [[choi-teacher-ai-interaction-lesson-design-2026]] — Teacher-AI interaction patterns in lesson design across experience and AI proficiency (Choi et al. 2026)
-- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — AI in higher ed: engagement + mediating role of teaching methods
+- [[powerful-learning-with-emerging-technology-2025]] — 新興技術による力強い学習
+- [[claassen-learning-analytics-genai-learning-design-2026]] — 学習デザインの意思決定における学習分析と生成的AI
+- [[tang-chatbots-learning-design-2026]] — 学習デザインにおけるチャットボットの利用:デザイナーは内容生成よりも成果と教授法に留まる(Tangら 2026)
+- [[choi-teacher-ai-interaction-lesson-design-2026]] — 経験とAI習熟度をまたぐ授業設計における教師とAIの相互作用のパターン(Choiら 2026)
+- [[long-ai-higher-ed-engagement-teaching-methods-2026]] — 高等教育におけるAI:関与と教授方法の媒介役割
 - [[curriculum-as-code-instructional-design-2026]]
-- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — Taxonomy (boundary object) for classifying GenAI learning activities
+- [[dohn-boundary-object-classifying-genai-learning-activities-2026]] — 生成的AIの学習活動を分類するための分類学(境界オブジェクト)
 - [[instructional-agents-multi-agent-course-gen]]
 - [[didactical-teacher-assistant-dimensional-modeling]]
 - [[instructional-guidance-genai-learning]]
@@ -162,22 +176,24 @@ Fowlinら(2026年)は、AIをどこに入れるかを決めるための運用的
 - [[ludia-udl-ai-thought-partner-2026]]
 - [[pchl-he-framework-genai-content-creation-2026]]
 - [[jeon-isd-agent-bench-2026]]
-- [[ai-web-agents-lesson-design-2025]] — AI Web Agents: autonomous web agent evaluates lesson designs and predicts student dropout before students engage (Wang, Mitchell & Piech 2025)
-- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS: A Framework for Cognitively Activated AI Augmentation in Physics
+- [[ai-web-agents-lesson-design-2025]] — AIウェブエージェント:学生が関わる前に授業設計を評価し中退を予測する自律エージェント(Wang, Mitchell & Piech 2025)
+- [[airis-cognitively-activated-ai-physics-2026]] — AIRIS:物理における認知的に活性化されたAI拡張の枠組み
 - [[wang-multi-agent-systems-learning-designers-2025]]
 - [[ai-tpack-teacher-multi-agent-workflow]]
-- [[halani-designing-for-reach-2026]] — Designing for Reach: Seven Levers and the Student Alone with AI
+- [[halani-designing-for-reach-2026]] — 到達範囲のための設計:7つの梃子と、AIと二人きりになる学生
 - [[fowlin-operationalizing-learning-principles-ai]]
-- [[ai-video-dual-gatekeeping-2026]] — When Saying No Makes Better Videos: Dual Gatekeeping for Pedagogically Grounded AI Content Creation
-- [[rhaimi-productivemath-2025]] — ProductiveMath: AI to Support Productive Failure Problem Design
-- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AI and Instructional Design Practice: A Systematic Review (Kibar & Ilgaz 2026)
-- [[graph-its-adaptive-algorithms-2026]] — Graph-Based Intelligent Tutoring for Dynamic Domains (2026)
-- [[making-ai-annoying-constrained-writing-2026]] — Making AI annoying on purpose: constraint in AI-supported writing (Konradt, Boote & Taub 2026)
-- [[instructional-design-proficiency-masters-math-2026]] — Smart-classroom model and D-T-E loop improving M.Ed. instructional design proficiency in mathematics (Zhu et al. 2026)
-- [[ai-modeling-problem-generation-platform-2026]] — AI-powered platform generating mathematical modeling problems (ADDIE, RAG)
-- [[wang-teacher-ai-co-design-review-2026]] — Teacher–AI co-design of learning tasks: trends and perspectives (Wang et al. 2026)
-- [[talebzadeh-ai-group-activity-roles-2026]] — Architecture of roles in AI-designed differentiated group activities (Talebzadeh 2026)
-- [[yasar-llms-iterative-pedagogical-design-2026]] — LLMs as agents of iterative pedagogical design
-
+- [[ai-video-dual-gatekeeping-2026]] — 断ることがより良い動画を生むとき:教授学的に裏づけられたAIコンテンツ制作の二重の関門
+- [[rhaimi-productivemath-2025]] — ProductiveMath:生産的な失敗の問題設計を支えるAI
+- [[kibar-ilgaz-ai-instructional-design-review-2026]] — AIとインストラクショナルデザインの実践:系統的レビュー(Kibar & Ilgaz 2026)
+- [[graph-its-adaptive-algorithms-2026]] — 動的な領域のためのグラフに基づくインテリジェント・チュータリング(2026)
+- [[making-ai-annoying-constrained-writing-2026]] — AIを意図的に煩わしくする:AI支援の文章における制約(Konradt, Boote & Taub 2026)
+- [[instructional-design-proficiency-masters-math-2026]] — 数学のM.Ed.インストラクショナルデザイン能力を高めるスマート教室モデルとD-T-Eループ(Zhuら 2026)
+- [[ai-modeling-problem-generation-platform-2026]] — 数学的モデリングの問題を生成するAI駆動のプラットフォーム(ADDIE、RAG)
+- [[wang-teacher-ai-co-design-review-2026]] — 学習課題の教師とAIの協働設計:傾向と展望(Wangら 2026)
+- [[talebzadeh-ai-group-activity-roles-2026]] — AIが設計した差別化された集団活動における役割のアーキテクチャ(Talebzadeh 2026)
+- [[yasar-llms-iterative-pedagogical-design-2026]] — 反復的な教授法的設計の担い手としてのLLM
 - [[zeivots-postdigital-co-design-genai-2025]] — 共同設計における信頼できない協働者としての GenAI
+- [[zhang-genai-l2-learning-meta-analysis-2026]] — 3層のメタ分析:生成的AIは一様な介入ではなく、フィードバックと学習者主導の設計を通じて働く(Zhangら 2026)
+- [[williams-coding-curriculum-critique-2026]] — カリキュラムを符号化する:「AIがインストラクショナルデザインにどう跡を残すか」への批判
+- [[chng-ai-instructional-design-2023]] — AIがインストラクショナルデザインにどう跡を残すか
 

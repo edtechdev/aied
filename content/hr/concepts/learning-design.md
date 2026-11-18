@@ -11,14 +11,18 @@ level: [higher ed]
 confidence: high
 connected_resources: [claw-ed, education-agent-skills, eduprompts, id-toolbox, idstack, lesson-md, liascript, master-instructional-design, onmicro-ai, pedagogical-promptbook, playlab, vibes-diy, intelligent-textbooks, learning-design-wiki]
 translation_of: concepts/learning-design
-source_updated: "2026-11-05T01:53:02-05:00"
-updated: "2026-11-08T06:31:30-05:00"
+source_updated: "2026-11-16T05:34:55-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "*Automatski strojni prijevod ove engleske stranice, koji još nije pregledao izvorni govornik.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-27"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -42,7 +46,9 @@ Ono što taj dizajnerski rad u praksi obuhvaća i samo je empirijsko pitanje. [[
 
 [[learning-analytics|Analitika učenja]] i generativna umjetna inteligencija podupiru različite dijelove oblikovanja: u 11 fokus-grupa na jednom australskom sveučilištu analitički se diskurs najčešće pojavljivao uz kontekst i [[problem-solving|rješavanje problema]] na razini kolegija (0,32), dok se diskurs o generativnoj umjetnoj inteligenciji usredotočio na [[assessment|oblikovanje procjene]] (0,26) i oblikovanje za samoodređenje studenata (0,15) ([[claassen-learning-analytics-genai-learning-design-2026|Claassen i sur. (2026)]]).
 
-### Ključne istraživačke teme
+**Prilagođeni sadržaj stoji vrijeme, a ne vještina alata.** Obrazovni profesionalci naveli su vrijeme, materijale i paralelne dužnosti kao prepreke proizvodnji diferenciranog materijala, a samo 12 % nazvalo je tehnologiju velikom preprekom ([[hilali-adaptive-learning-challenges-2026|Hilali i Chergui (2026.)]]).
+
+## Ključne istraživačke teme
 
 **Stvaranje sadržaja uz pomoć umjetne inteligencije** najizravnije je preobražavajuća primjena. **[[curriculum-as-code-instructional-design-2026|Curriculum as Code]]** predstavlja šesterofaznu arhitekturu koja integrira generativnu umjetnu inteligenciju s LaTeX-om i Pythonom radi automatizacije stvaranja [[stem-education|STEM]] materijala, validiranu na 8 modula i 28 konteksta projekata, s ocjenama kvalitete studenata od 8,5 do 9,9/10. **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** rabi višeagentski okvir ustrojen oko modela ADDIE, u kojem agentske uloge (nastavno osoblje, instruktivni dizajner, koordinator kolegija) surađuju na stvaranju cjelovitih materijala za kolegij. **[[courseblueprint-adaptive-video-generation|CourseBlueprint]]** nudi strukturirani postupak za prilagodljivo [[pedagogy|pedagoško]] [[video-education|stvaranje videozapisa]] utemeljeno na korpusima kolegija, pokazujući da je eksplicitna pedagoška struktura, a ne samo tečnost u radu s umjetnom inteligencijom, ključna za stvaranje obrazovnog sadržaja. Platforme [[generative-ai|generativne umjetne inteligencije]] također mogu utjeloviti načela oblikovanja učenja u sadržaju koji stvaraju: [[ai-modeling-problem-generation-platform-2026|platforma potpomognuta umjetnom inteligencijom za stvaranje problema matematičkog modeliranja]] spojila je ustaljena načela oblikovanja s [[rag|generiranjem potpomognutim pronalaženjem]] i razvijena je pristupom ADDIE kako bi dala pedagoški utemeljene zadatke i preporuke koje konvencionalni generatori sadržaja nemaju. Ipak, isplativost takvog stvaranja sadržaja i lekcija uz pomoć umjetne inteligencije posreduje vlastita stručnost nastavnika: [[choi-teacher-ai-interaction-lesson-design-2026|Choi i sur. (2026)]] utvrdili su da iskusni nastavnici kritički prilagođavaju ideje za lekcije koje je stvorila umjetna inteligencija studentima i kontekstu (ponovno potičući i razrađujući rezultat), dok su početnici skloni prihvatiti prijedloge umjetne inteligencije izravno, pa pedagoška vrijednost alata za sadržaj s umjetnom inteligencijom ovisi o iskustvu nastavnika i njegovoj osposobljenosti za umjetnu inteligenciju, a ne samo o alatu. Sustavni pregled [[wang-teacher-ai-co-design-review-2026|suoblikovanja zadataka učenja od strane nastavnika i umjetne inteligencije]] (Wang, Liu i Islam 2026) potvrđuje taj obrazac na razini 28 studija (2015-2025): generativna umjetna inteligencija upotrebljava se uglavnom za planiranje lekcija, stvaranje poticaja i kreativno osmišljavanje ideja, a prevladavajući način suradnje jest umjetna inteligencija kao pomoćnik i generator sadržaja, a ne cjelovitiji suoblikovatelj, pri čemu se učinkovitost, responzivnost, [[creativity]] i [[equity-in-ai-education|ravnopravnost]] ponavljaju kao prednosti. [[talebzadeh-ai-group-activity-roles-2026|Talebzadeh (2026)]] izoštrava nalaz o nastavničkoj stručnosti za oblikovanje grupnih aktivnosti: iskusni nastavnici stvaraju bogatije, sinergijski usklađenije arhitekture uloga bolje usklađene s razvojnim područjem u aktivnostima suradnje koje je osmislila umjetna inteligencija nego početnici, neovisno o poznavanju umjetne inteligencije, te određuje „pismenost pedagoškog poticanja“ kao polugu koja rezultat umjetne inteligencije pretvara u učinkovito [[collaborative-learning|diferencirano grupno učenje]].
 
@@ -51,6 +57,8 @@ Ispitivanje Aila pridaje tom obrascu brojku o vremenu planiranja. Nastavnici u n
 Ono u čemu stvoreni materijali zaostaju jest usklađenost s kurikulumom: sedam nastavnika matematike ocijenilo je probleme [[productive-failure|produktivnog neuspjeha]] koje je stvorila umjetna inteligencija blizu ljudskima po ukupnoj kvaliteti (M = 17,19 prema 17,43 od 25), ali niže po usklađenosti s kurikulumom (M = 2,57 prema 3,29), pa su stvoreni problemi i dalje trebali uređivanje zbog duljine, [[reading-education|razine čitljivosti]] i vizualnih elemenata ([[rhaimi-productivemath-2025|Rhaimi i sur. (2025)]]).
 
 Kvaliteta proze drugi je nedostatak i nije isto što i razina čitljivosti. Clark i sur. (2026) pokazuju da rezultat modela prekomjerno rabi konstrukcije s poznatim troškovima razumijevanja (n-grami niske učestalosti, nagomilane imenice, denominalni glagoli, duge ovisnosti, reducirane objektne relativne rečenice) u usporedbi s parafrazama koje čuvaju značenje i ljudskim osnovnim razinama, pa objašnjenja i tekstovi koje napiše umjetna inteligencija trebaju prolaz uređivanja koji formula razine čitljivosti neće uhvatiti ([[clark-ai-generated-language-readability-2026]]).
+
+Serija od tri MOOC-a čini vlastiti tijek rada dizajnera predmetom poduke, odvajajući demonstracije specifične za alat od trajnih dizajnerskih načela kako bi materijal preživio nove verzije modela ([[quintana-generative-ai-learning-design-partner-2025|Quintana i sur. (2025.)]]).
 
 **Pedagoški utemeljeno podučavanje s umjetnom inteligencijom** primjenjuje načela instruktivnog dizajna na oblikovanje sustava umjetne inteligencije. **[[didactical-teacher-assistant-dimensional-modeling|Brisson i sur.]]** izgradili su didaktički vođenog [[llm]] pomoćnika za nastavnike u kojem je strategija podučavanja kodirana u eksplicitnom vanjskom sloju, čime odabir sadržaja i didaktičko strukturiranje postaju sljedivi i ponovljivi, što se izravno bavi zabrinutošću zbog neprozirnosti u [[rethinking-scaffolding-llm-tutors]]. **[[instructional-guidance-genai-learning|Hou i sur.]]** pokazali su da je petostupanjski okvir [[prompt-engineering|poticanja]] utemeljen na generativnoj [[learning-theories|teoriji učenja]] znatno poboljšao kognitivne ishode višeg reda, pokazujući da učinkovitost učenja određuje instruktivno vođenje, a ne samo pristup umjetnoj inteligenciji. Oboje se povezuje sa [[scaffolding]] i [[intelligent-tutoring]].
 
@@ -64,21 +72,25 @@ Kvaliteta proze drugi je nedostatak i nije isto što i razina čitljivosti. Clar
 
 **Agenti umjetne inteligencije za instruktivni dizajn** proširuju područje u [[agentic-ai|agentsku umjetnu inteligenciju]]. **[[jeon-isd-agent-bench-2026|ISD-Agent-Bench]]** prvi je standardizirani mjerni okvir utemeljen na teoriji za evaluaciju agentskih sustava instruktivnog dizajna zasnovanih na LLM-ovima: njegova matrica konteksta od 25 795 scenarija (51 kontekstna varijabla × 33 podkoraka ISD-a iz ADDIE-a) pokazuje da agenti utemeljeni u klasičnim ISD okvirima (ADDIE, Dick i Carey, brzo prototipiranje) nadmašuju agente bez teorije, empirijski potvrđujući da je instruktivni dizajn strukturirana disciplina, a ne generički zadatak poticanja. Agenti nisu samo *graditelji* dizajna nego i njegovi *kritičari*: [[ai-web-agents-lesson-design-2025|Wang, Mitchell i Piech (2025)]] rabe jednog autonomnog web-agenta koji prolazi kroz višekorak online lekciju kao student kako bi ocijenio dizajn učenja *prije* nego se uključe stvarni učenici; njegov opis [[student-experience|studentskog iskustva]] predviđa gdje će početnici odustati i daje provedive povratne informacije o dizajnu, nadmašujući svaku osnovnu liniju, pa čak i simuliranu skupinu studenata na globalnom kolegiju CS1. Time se evaluacija agentima prije pokretanja određuje kao jeftina dopuna ljudskoj iteraciji dizajna. **[[wang-multi-agent-systems-learning-designers-2025]]** i **[[instructional-agents-multi-agent-course-gen|Instructional Agents]]** istražuju višeagentske okvire koji orkestriraju agente prema ulogama oko modela instruktivnog dizajna, dok **[[ai-tpack-teacher-multi-agent-workflow|AI-TPACK]]** ispituje kako nastavnici i agenti zajedno primjenjuju tehnološko-pedagoško-sadržajno znanje. Taj rad povezuje instruktivni dizajn s [[benchmark|mjerenjem prema referentnim vrijednostima]] i oblikovanjem [[curriculum-design|kurikuluma]] u velikom opsegu, uz [[ai-ed-evaluation]].
 
-### Veze s povezanim konceptima
+Model je i popis onoga što izostavlja. Pregledavajući pet faza ADDIE-a, Williams i Prishtina (2026.) nalaze da svaka izostavlja jedan uvjet upotrebe: pristup alatima u analizi, obuku edukatora u dizajnu, uklapanje u kurikulum u razvoju, povezanost i kompatibilnost softvera u implementaciji te kreativnost u evaluaciji ([[williams-coding-curriculum-critique-2026|Williams i Prishtina, 2026.]]). Promjena uloge ide uz to: u prikazu [[chng-ai-instructional-design-2023|Ch'nga (2023.)]] predmetni stručnjaci prestaju sastavljati sadržaj i postaju pristupatelji koji validiraju ono što je model proizveo, što revizijski kapacitet čini uskim grlom.
+
+## Veze s povezanim konceptima
 
 Oblikovanje učenja mostovna je disciplina [[ai-education|umjetne inteligencije u obrazovanju]]: povezuje [[curriculum-design]] (što poučavati) sa [[scaffolding]] (kako poduprijeti učenike), [[educational-development]] (kako pripremiti edukatore) i [[generative-ai]] (samim alatima). Usko je povezano s [[teacher-role]] jer alati s umjetnom inteligencijom preoblikuju ono što dizajneri učenja i nastavnici rade, te s [[ai-literacy]] jer učinkovita integracija umjetne inteligencije zahtijeva da edukatori razumiju njezine mogućnosti i ograničenja. Dizajnerski rad u konačnici se razrješava u *redoslijedu aktivnosti*: [[pedagogical-patterns|pedagoški obrasci]] katalogiziraju provjerene redoslijede poteza, pa dizajner može odlučiti gdje u lekciji umjetna inteligencija pripada, a ne samo što uključiti. [[learning-sciences|Znanosti o učenju]] istraživačko su polje iza tih načela: dok ova stranica obrađuje profesionalnu praksu stvaranja iskustava učenja, znanosti o učenju tu praksu i njezine dizajne proučavaju empirijski i stvaraju kognitivna, [[motivation|motivacijska]] i društvena načela koja oblikovanje učenja zatim operacionalizira.
 
-### Sudizajn i ono što mora ostati ljudsko
+## Sudizajn i ono što mora ostati ljudsko
 
 Sudizajn je dio dizajnerske prakse u kojem je relacijski rad najmanje zamjenjiv. [[zeivots-postdigital-co-design-genai-2025|Zeivots i sur. (2025)]] tretiraju [[generative-ai|generativnu umjetnu inteligenciju]] kao nepouzdanog suradnika, a ne kao alat za izradu nacrta, i grade trofazni slijed oko te nepouzdanosti: model potiče, pluralizira i olakšava, dok grupa ispituje njegova uokvirenja, stvara protunarative i sama drži raspravu. Ljudsko ostaje pregovaranje: koji glasovi nedostaju, koje uokvirenje grupa usvaja i što će biti zajedničko razumijevanje. Rad je kolektivni forum devetnaest autora bez eksperimenta, pa je slijed prijedlog o praksi, a ne testirana metoda.
 
-### Kako oblikovanje učenja određuje dobitke u učenju
+## Kako oblikovanje učenja određuje dobitke u učenju
 
 Oblikovanje učenja poluga je koja odlučuje hoće li umjetna inteligencija dati [[learning-gains|dobitke u učenju]] ili samo umjetnom inteligencijom napuhanu izvedbu. Dokazi baze znanja o tome su dosljedni: **isti alat s umjetnom inteligencijom daje velike dobitke ili neto štetu, ovisno o tome kako je iskustvo učenja oblikovano oko njega.** [[instructional-guidance-genai-learning|Hou i sur.]] pokazali su da je petostupanjski okvir poticanja utemeljen na teoriji učenja znatno poboljšao kognitivne ishode višeg reda, dok sam pristup umjetnoj inteligenciji to nije učinio; okviri [[genai-mindtool-generative-learning|mentalnog alata]] i [[airis-cognitively-activated-ai-physics-2026|AIRIS]] čuvaju kognitivni rad učenika tako da nastaju trajni dobici, a ne samo učinkovitost u zadatku. Dizajnerske odluke koje štite [[learning-gains]] (postupno skidanje potpore koje zahtijeva pokušaj studenta, [[formative-assessment]] s mjerama ishoda bez pomoći i pedagoška struktura koja učenika zadržava kao djelatnog aktera) zrcale nalaz polja (vidi [[learning-gains]]) da je umjetna inteligencija snažan dobitak kad poučava, a šteta kad daje odgovore. Suprotno tome, loše oblikovane lekcije s integriranom umjetnom inteligencijom upadaju u [[cognitive-offloading|jaz između izvedbe i učenja]], gdje prividni uspjeh prikriva izostanak učenja.
 
-### Praktične smjernice za dizajnere i programere
+## Praktične smjernice za dizajnere i programere
 
 Za instruktivne dizajnere, razvijatelje kolegija i inženjere koji grade iskustva učenja potpomognuta umjetnom inteligencijom, nalazi baze znanja prevode se u provedivu praksu. Jednu granicu vrijedi označiti prije samih praksi: oblikovanje učenja kako ga ova stranica opisuje jest oblikovanje kolegija za poznatu skupinu, dok su ista načela ugrađena u proizvod koji će upotrebljavati mnogi kolegiji, koje poučavaju ljudi koje dizajner nikada neće upoznati, rad [[educational-technology-developers]], gdje zadane postavke, mogućnost prilagodbe i dokumentacija nose pedagošku težinu:
+
+- **Dizajneri traže upravljivost, a ne autonomiju.** Osam instruktivnih dizajnera koji su testirali platformu za generiranje čestica ([[wei-perspicacious-instructional-design-2026|Wei i sur., 2026.]]) željeli su kontrolu nad težinom, formatom i podrijetlom, ocijenili su je 78,8 na SUS-u i naveli povjerenje kao uvjet usvajanja.
 
 **Utemeljite stvaranje pomoću umjetne inteligencije u strukturiranom instruktivnom modelu.** Sadržaj s umjetnom inteligencijom dobar je onoliko koliko je dobra pedagoška struktura iza njega: kvalitetu određuje eksplicitna struktura, a ne tečnost u radu s umjetnom inteligencijom. Oblikujte oko priznatog modela (ADDIE, Dick i Carey, brzo prototipiranje) i kodirajte pedagoške odluke eksplicitno, umjesto da se oslanjate na to da će ih model zaključiti.([[courseblueprint-adaptive-video-generation]])([[jeon-isd-agent-bench-2026]])([[didactical-teacher-assistant-dimensional-modeling]])
 
@@ -106,6 +118,8 @@ Fowlin i sur. (2026) dodaju operativni potez za odlučivanje gdje umjetna inteli
 
 - **Dokumentirana aktivnost koncentrirana je u jednoj fazi ciklusa.** U pregledu 78 studija o instruktivnom dizajnu potpomognutom umjetnom inteligencijom aktivnost faze oblikovanja pojavljuje se u **74 od 78 studija (95%)**, a razvoj u 44 (56%), dok analiza doseže samo 11 (14%), evaluacija 10 (13%) i provedba 7 (9%), i **nijedna studija nije ispitivala potporu umjetne inteligencije kroz cijeli ciklus ADDIE**. Ciklus je težnja koju dokazna osnova ne pokriva, što je važno za svakoga kome se „razvoj kolegija pokretan umjetnom inteligencijom“ prodaje kao cjelovita sposobnost ([[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou i Kameas, 2026]]).
 - **Tri uloge umjetne inteligencije, hijerarhijski raspoređene.** *Generativna* upotreba, u kojoj umjetna inteligencija stvara dizajnerski sadržaj prema uputi edukatora, prevladava u **96% studija**; *potporna* upotreba, u kojoj umjetna inteligencija strukturira vlastito rezoniranje dizajnera, pojavljuje se u 35%; *evaluacijska* upotreba, u kojoj umjetna inteligencija ocjenjuje kvalitetu artefakta, u 21%. Područje u velikoj većini rabi umjetnu inteligenciju za stvaranje stvari, a ne za propitivanje vlastitih dizajnerskih odluka, što je suprotno od konfiguracije kritičkog prijatelja koju pregled izdvaja kao obrazovno obećavajuću.
+
+Oblikovanje posreduje učinke više nego tehnologija u sintezi Zhanga i suradnika: ista sposobnost generativne umjetne inteligencije dala je g = 0.92 kada ju je vodio učenik i g = 0.34 kada je radila autonomno. Način interakcije stoga je dizajnerska odluka, a ne svojstvo alata ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang i sur., 2026.]]).
 
 ## Uobičajene zablude
 
@@ -143,6 +157,7 @@ Fowlin i sur. (2026) dodaju operativni potez za odlučivanje gdje umjetna inteli
 
 ## Povezani članci
 
+
 - [[roy-aila-lesson-planning-teacher-choices-2026]] — Izmjereno skraćenje vremena planiranja uz nalaz da nastavnici od početka planiraju samo 21% do 40% lekcija
 - [[powerful-learning-with-emerging-technology-2025]] — Powerful Learning with Emerging Technology
 - [[claassen-learning-analytics-genai-learning-design-2026]] — Analitika učenja i generativna umjetna inteligencija u odlučivanju o oblikovanju učenja
@@ -178,3 +193,6 @@ Fowlin i sur. (2026) dodaju operativni potez za odlučivanje gdje umjetna inteli
 - [[talebzadeh-ai-group-activity-roles-2026]] — Arhitektura uloga u diferenciranim grupnim aktivnostima koje je osmislila umjetna inteligencija (Talebzadeh 2026)
 - [[yasar-llms-iterative-pedagogical-design-2026]] — LLM-ovi kao nositelji iterativnog pedagoškog oblikovanja
 - [[zeivots-postdigital-co-design-genai-2025]] — Generativna umjetna inteligencija kao nepouzdan suradnik u sudizajnu
+- [[zhang-genai-l2-learning-meta-analysis-2026]] — Trorazinska metaanaliza: generativna umjetna inteligencija djeluje kroz povratne informacije i dizajn koji vodi učenik, a ne kao jednolična intervencija (Zhang i sur. 2026)
+- [[williams-coding-curriculum-critique-2026]] — Kodiranje kurikuluma: kritika rada „How AI Makes Its Mark on Instructional Design“
+- [[chng-ai-instructional-design-2023]] — Kako umjetna inteligencija ostavlja trag na instruktivni dizajn

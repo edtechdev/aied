@@ -1,7 +1,7 @@
 ---
 title: "AI dalam Pendidikan"
 created: "2026-10-15T09:15:00-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: "concepts/ai-education"
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-17T08:15:00-05:00"
 translation_note: "*Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*"
 contributors: [editor]
 ai_assist:
@@ -30,7 +30,10 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
-
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
+    agent: hermes-agent
 ---
 
 *Terjemahan mesin otomatis halaman berbahasa Inggris ini, yang belum ditinjau oleh penutur asli.*
@@ -61,7 +64,7 @@ Cakupan konsep basis pengetahuan ini dianchor oleh beberapa **halaman payung** y
 - **[[pedagogy|Pedagogi dan strategi pengajaran]]** — payung untuk bagaimana pengajaran terjadi: metode dan strategi pengajaran yang menjadi ruang operasi AI ([[active-learning|aktif]], [[collaborative-learning|kolaboratif]], [[project-based-learning|berbasis proyek]], [[problem-based-learning|berbasis masalah]], [[experiential-learning|bersifat pengalaman]], [[game-based-learning|berbasis permainan]], [[socratic-method|Sokratik]], [[scaffolding]], dan lainnya), termasuk konteks khusus [[online-teaching-and-learning|pengajaran dan pembelajaran daring]].
 - **[[learning-theories|Teori pembelajaran]]** — payung untuk bagaimana pembelajaran terjadi: kerangka teoretis ([[behaviorism]], [[cognitive-psychology|kognitivisme]], [[constructivist|konstruktivisme]], [[sociocultural-learning|sosiokultural]], kognitif, [[motivation|motivasional]]) yang membentuk desain dan evaluasi AI.
 - **[[ai-technologies|Teknologi]]** — payung untuk lapisan teknis: sistem AI ([[llm|LLM]], [[generative-ai|AI generatif]], [[multimodal]], [[educational-robotics|robotika]]) dan teknik ([[rag]], [[prompt-engineering|prompt engineering]], [[reinforcement-learning|pembelajaran penguatan]], [[llm-training-and-fine-tuning|pelatihan model]], [[agentic-ai|orkestrasi agensik]]) yang menggerakkan AIED. Keluarga pemodelan pembelajar — [[knowledge-tracing|penelusuran pengetahuan]], [[cognitive-diagnosis|diagnosis kognitif]], [[simulating-students|simulasi siswa]], dan sistem yang mengonsumsinya ([[intelligent-tutoring|tutoring cerdas]], [[adaptive-learning|pembelajaran adaptif]], [[personalized-learning|pembelajaran terpersonalisasi]]) — dikelompokkan di bawah payung [[student-modeling|Pemodelan Pembelajar dan Instruksi Adaptif]] dalam untaian teknis ini.
-- **[[discipline-specific-aied|AI dalam disiplin]]** — payung untuk bagaimana AI diterapkan di berbagai bidang subjek ([[math-education|matematika]], [[physics-education|fisika]], [[language-learning|pembelajaran bahasa]], [[cs-education|ilmu komputer]], [[writing-education|penulisan]], [[stem-education|STEM]], [[engineering-education|teknik]], [[business-education|bisnis]], [[teacher-education|pendidikan guru]], [[medical-education|profesi kesehatan]], dan lainnya) — dan, melampaui subjek akademik, untaian profesional dan terapan yang menilai praktik yang ditunjukkan alih-alih kebenaran ([[nursing-education|keperawatan]], [[information-technology|teknologi informasi]], [[vocational-education|pendidikan dan pelatihan vokasional]], [[design-education|pendidikan desain]]) — dan tingkat pendidikan ([[k-12]], [[higher-ed|pendidikan tinggi]], [[adult-learning|pembelajaran dewasa]]).
+- **[[discipline-specific-aied|AI dalam disiplin]]** — payung untuk bagaimana AI diterapkan di berbagai bidang subjek, dikelompokkan ke dalam empat klaster. [[humanities-education|Humaniora dan seni]] mencakup sejarah, filsafat, sastra, dan bahasa, dengan [[arts-and-media-education|seni dan media]] serta [[music-education|musik]] di sampingnya. [[social-sciences-education|Ilmu sosial]] mencakup kewarganegaraan, bisnis dan ekonomi, serta studi lingkungan. [[stem-education|STEM]] mencakup matematika, fisika, kimia, biologi, komputasi, dan teknik. [[professions-education|Profesi]] mencakup program terakreditasi — [[medical-education|profesi medis dan kesehatan]], [[nursing-education|keperawatan]], [[legal-education|pendidikan hukum]], [[teacher-education|pendidikan guru]], [[design-education|pendidikan desain]] dan [[libraries|ilmu perpustakaan]] — di mana penilaian harus menunjukkan bahwa pertimbangan yang disertifikasi adalah milik kandidat. Klaster-klaster itu berlaku di seluruh jenjang sekolah maupun mata pelajaran.
 - **[[assessment]]** (dengan untaian [[formative-assessment|formatif]], [[summative-assessment|sumatif]], [[authentic-assessment|autentik]], [[oral-assessment|lisan]], dan [[automated-assessment|otomatis]]) — payung untuk bagaimana AI menilai pembelajar dan membentuk kembali validitas serta integritas penilaian.
 - **[[feedback]]** — payung untuk bagaimana umpan balik dihasilkan, disampaikan, dan digunakan: loop umpan balik, [[ai-feedback-quality|kualitas umpan balik]], [[feedback-literacy|literasi umpan balik]], dan konteks penilaiannya ([[formative-assessment|formatif]], [[peer-assessment|sejawat]], [[automated-assessment|otomatis]]).
 - **[[stakeholders|Pemangku kepentingan dalam pendidikan AI]]** — payung untuk siapa para aktornya: pembelajar, [[teacher-role|guru]], [[learning-design|perancang pembelajaran]], [[administrator|administrator]], dan [[educational-policy-ai|pembuat kebijakan]].
@@ -88,8 +91,8 @@ Konsep lintas-bidang dan mendasar bidang ini menjadi jangkar cakupan basis penge
 Bagaimana AI mendukung pengajaran dan pembelajaran adalah inti dari bidang ini. Konsep-konsep utama meliputi:
 
 - **Pedagogi inti:** [[pedagogy|pedagogi dan strategi pengajaran]] — payung untuk cakupan metode pengajaran basis pengetahuan — bersama dengan [[pedagogical-patterns|pola pedagogi]] (urutan teruji yang menjadi wujud metode-metode tersebut), [[active-learning|pembelajaran aktif]], [[collaborative-learning|pembelajaran kolaboratif]], [[group-work|kerja kelompok]], [[project-based-learning|pembelajaran berbasis proyek]], [[problem-based-learning|pembelajaran berbasis masalah]], [[productive-failure|kegagalan produktif]], [[inquiry-based-learning|pembelajaran berbasis inkuiri]], [[experiential-learning|pembelajaran berbasis pengalaman]], [[game-based-learning|pembelajaran berbasis permainan]], [[learning-by-teaching|pembelajaran dengan mengajar]], [[scaffolding]], [[socratic-method|metode Sokratik]], [[critical-pedagogy|pedagogi kritis]], [[pedagogical-partnerships|kemitraan pedagogis]], [[storytelling-in-education|penceritaan]], [[learning-design|desain pembelajaran]], [[online-teaching-and-learning|pengajaran dan pembelajaran daring]], dan [[video-education|video dalam pendidikan]].
-- **Teori dan proses pembelajaran:** payung [[learning-theories|teori pembelajaran]] ([[behaviorism]], [[cognitive-psychology|kognitivisme]], [[constructivist|konstruktivisme]], [[sociocultural-learning|sosiokultural]], [[distributed-cognition|kognisi terdistribusi]], [[situated-learning|pembelajaran tersituasi]], [[embodied-learning|pembelajaran berwujud]], [[community-of-inquiry|komunitas inkuiri]]) berdampingan dengan proses yang berorientasi pembelajar seperti [[self-regulated-learning|pembelajaran teratur mandiri]], [[self-determination-theory|teori determinasi diri]], [[motivation]], [[self-efficacy]], [[self-directed-learning|pembelajaran terarah mandiri]], [[metacognition]], [[desirable-difficulties|kesulitan yang diinginkan]], [[transfer-of-learning|transfer pembelajaran]], [[prior-knowledge|pengetahuan sebelumnya]], [[icap-framework|keterlibatan kognitif ICAP]], [[reflection|refleksi]], [[refutation-text|teks refutasi]], [[retrieval-spacing-interleaving|pengambilan, pengaturan jeda, dan interleaving]], dan [[activity-theory-aied|teori aktivitas]].
-- **Keterlibatan dan pengalaman pembelajar:** [[student-engagement|keterlibatan siswa]], [[help-seeking]], [[social-emotional-learning|pembelajaran sosial-emosional]], [[well-being]], [[creativity]], [[problem-solving|pemecahan masalah]], [[mastery-learning|pembelajaran penguasaan]], dan [[student-ai-interaction|interaksi siswa–AI]] membentuk bagaimana pembelajar benar-benar menemui dan terpengaruh AI, sementara [[social-norms-ai-use|norma sosial yang terbentuk di sekitar penggunaan AI]] menentukan seberapa terbuka hal itu dapat didiskusikan. Di luar mata kuliah, [[student-support-and-success|dukungan dan keberhasilan siswa]] mencakup pekerjaan sisi institusional — penasihatan, jangkauan, rujukan, dan alokasi dukungan yang langka — di mana AI secara andal memindahkan penyelesaian tugas tetapi bukan ketekunan atau kelulusan.
+- **Teori dan proses pembelajaran:** payung [[learning-theories|teori pembelajaran]] ([[behaviorism]], [[cognitive-psychology|kognitivisme]], [[constructivist|konstruktivisme]], [[sociocultural-learning|sosiokultural]], [[distributed-cognition|kognisi terdistribusi]], [[situated-learning|pembelajaran tersituasi]], [[embodied-learning|pembelajaran berwujud]], [[community-of-inquiry|komunitas inkuiri]]) berdampingan dengan proses yang berorientasi pembelajar seperti [[self-regulated-learning|pembelajaran teratur mandiri]], [[self-determination-theory|teori determinasi diri]], [[motivation]], [[self-efficacy]], [[self-directed-learning|pembelajaran terarah mandiri]], [[metacognition]], [[desirable-difficulties|kesulitan yang diinginkan]], [[transfer-of-learning|transfer pembelajaran]], [[prior-knowledge|pengetahuan sebelumnya]], [[icap-framework|keterlibatan kognitif ICAP]], [[reflection|refleksi]], [[refutation-text|teks refutasi]], [[retrieval-spacing-interleaving|pengambilan, pengaturan jeda, dan interleaving]], dan [[activity-theory-aied|teori aktivitas]]. Kerangka perkembangan memotong semuanya: [[developmental-psychology|psikologi perkembangan]] menjelaskan mengapa proses yang sama tampak berbeda pada usia lima, lima belas, dan dua puluh lima.
+- **Keterlibatan dan pengalaman pembelajar:** [[student-engagement|keterlibatan siswa]], [[help-seeking]], [[social-emotional-learning|pembelajaran sosial-emosional]], [[well-being]], [[creativity]], [[problem-solving|pemecahan masalah]], [[mastery-learning|pembelajaran penguasaan]], dan [[student-ai-interaction|interaksi siswa–AI]] membentuk bagaimana pembelajar benar-benar menemui dan terpengaruh AI, dengan [[empathy|empati]] sebagai hasil afektif yang sering diklaim dan jarang diukur, sementara [[social-norms-ai-use|norma sosial yang terbentuk di sekitar penggunaan AI]] menentukan seberapa terbuka hal itu dapat didiskusikan. Di luar mata kuliah, [[student-support-and-success|dukungan dan keberhasilan siswa]] mencakup pekerjaan sisi institusional — penasihatan, jangkauan, rujukan, dan alokasi dukungan yang langka — di mana AI secara andal memindahkan penyelesaian tugas tetapi bukan ketekunan atau kelulusan.
 
 ## Teknologi dan teknik
 
@@ -102,13 +105,30 @@ Halaman [[ai-technologies|Teknologi]] adalah payung untuk lapisan teknis:
 
 ## AI dalam disiplin
 
-AI diterapkan di berbagai disiplin dan tingkat pendidikan. [[discipline-specific-aied|Ikhtisar basis pengetahuan tentang AIEd dalam disiplin]] memetakan cakupan bidang subjek — di samping [[learning-sciences|ilmu pembelajaran]], yang bukan subjek yang diajarkan melainkan bidang penelitian lintas-bidang yang mempelajari pembelajaran itu sendiri dan memperlakukan materi subjek sebagai satu variabel di antara yang lain:
+Cakupan bidang subjek adalah bagian terbesar dari bidang ini. [[discipline-specific-aied|AIEd dalam disiplin]] menampungnya, di samping [[learning-sciences|ilmu pembelajaran]], yang bukan subjek yang diajarkan melainkan bidang penelitian lintas-bidang yang mempelajari pembelajaran itu sendiri dan memperlakukan materi subjek sebagai satu variabel di antara yang lain. Empat klaster menyusun halaman-halaman subjek:
 
-- **Bidang subjek:** [[math-education|matematika]], [[statistics-and-data-science-education|statistika dan ilmu data]], [[physics-education|fisika]], [[chemistry-education|kimia]], [[biology-education|biologi]], [[cs-education|ilmu komputer]], [[engineering-education|teknik]], [[stem-education|STEM]], [[writing-education|penulisan]], [[reading-education|pendidikan membaca]], [[language-learning|pembelajaran bahasa]], [[english-education|pendidikan bahasa Inggris (EAP/EFL/ESL)]], [[libraries|ilmu perpustakaan dan informasi]], [[science-education|pendidikan sains]], [[environmental-education|pendidikan lingkungan]], [[business-education|bisnis, ekonomi, dan manajemen]], [[humanities-education|humaniora dan ilmu sosial]], [[civic-and-political-education|pendidikan kewarganegaraan dan politik]], [[arts-and-media-education|pendidikan seni, desain, dan media]], [[medical-education|profesi medis dan kesehatan]], [[legal-education|pendidikan hukum]], dan untaian profesional dan terapan — [[nursing-education|keperawatan]], [[information-technology|teknologi informasi]], [[vocational-education|pendidikan dan pelatihan vokasional]], dan [[design-education|pendidikan desain]].
+- **Humaniora dan seni:** [[humanities-education|pendidikan humaniora]], [[arts-and-media-education|pendidikan seni dan media]], [[music-education|pendidikan musik]], [[writing-education|pendidikan penulisan]], [[reading-education|pendidikan membaca]], [[language-learning|pembelajaran bahasa]] dan [[english-education|pendidikan bahasa Inggris (EAP/EFL/ESL)]].
+- **Ilmu sosial:** [[social-sciences-education|pendidikan ilmu sosial]], [[civic-and-political-education|pendidikan kewarganegaraan dan politik]], [[business-education|bisnis, ekonomi, dan manajemen]] dan [[environmental-education|pendidikan lingkungan]].
+- **STEM:** [[stem-education|pendidikan STEM]], [[science-education|pendidikan sains]], [[math-education|matematika]], [[statistics-and-data-science-education|statistika dan ilmu data]], [[physics-education|fisika]], [[chemistry-education|kimia]], [[biology-education|biologi]], [[cs-education|ilmu komputer]], [[engineering-education|teknik]] dan [[information-technology|teknologi informasi]].
+- **Profesi:** [[professions-education|pendidikan profesi]], [[medical-education|profesi medis dan kesehatan]], [[nursing-education|keperawatan]], [[legal-education|pendidikan hukum]], [[teacher-education|pendidikan guru]], [[design-education|pendidikan desain]] dan [[libraries|ilmu perpustakaan dan informasi]].
+
+Klaster tempat sebuah subjek jatuh juga menentukan halaman mana yang memiliki buktinya. [[vocational-education|Pendidikan dan pelatihan vokasional]] diarsipkan di bawah tingkat alih-alih di sini, karena ia lebih menamai jalur kualifikasi daripada sebuah disiplin.
+
+.
 
 ## Tingkat dan konteks
 
-Alat AI yang sama bertemu dengan pengaturan yang sangat berbeda, dan basis pengetahuan memisahkan tingkat pendidikan dari pedagogi agar temuan tidak diam-diam berpindah di antara keduanya: [[k-12|sekolah K-12]], [[early-childhood-elementary-ai-education|pendidikan anak usia dini dan dasar]], [[higher-ed|pendidikan tinggi]], [[adult-learning|pembelajaran dewasa]], [[vocational-education|pendidikan dan pelatihan vokasional]], [[special-education|pendidikan khusus]], dan [[teacher-education|pendidikan guru]]. Konsep yang berdekatan dengan domain dan melintasi tingkat meliputi [[universal-design-for-learning|desain universal untuk pembelajaran]], [[neurodiversity]], [[multilingual-learning|pembelajaran multibahasa]], dan [[social-emotional-learning|pembelajaran sosial-emosional]].
+Alat AI yang sama bertemu dengan pengaturan yang sangat berbeda, dan tingkat pendidikan dijaga terpisah dari pedagogi agar temuan tidak diam-diam berpindah di antaranya: [[k-12|sekolah K-12]], yang kini terbagi menjadi [[early-childhood-elementary-ai-education|pendidikan anak usia dini]], [[primary-education|pendidikan dasar]] dan [[secondary-education|pendidikan menengah]]; [[higher-ed|pendidikan tinggi]], yang terbagi menjadi studi [[undergraduate-education|sarjana]] dan [[graduate-education|pascasarjana]]; serta pengaturan di luar tangga itu, [[adult-learning|pembelajaran dewasa]], [[vocational-education|pendidikan dan pelatihan vokasional]], [[special-education|pendidikan khusus]], dan [[teacher-education|pendidikan guru]]. [[education-levels|Jenjang pendidikan]] membandingkannya. Konsep yang berdekatan dengan domain dan melintasi tingkat meliputi [[universal-design-for-learning|desain universal untuk pembelajaran]], [[neurodiversity|keberagaman neurologis]], [[multilingual-learning|pembelajaran multibahasa]], dan [[social-emotional-learning|pembelajaran sosial-emosional]].
+
+## Alat yang sama, pilihan desain yang berlawanan
+
+Tingkat adalah variabel yang paling bersih membalik sebuah rekomendasi desain. Bukti tingkat menengah menempatkan guru di antara siswa dan alat: di seluruh 33 studi, keuntungan datang di tempat siswa membandingkan keluaran, dan memudar di tempat alat menghasilkan pekerjaannya ([[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca et al. (2026)]]).
+
+Bukti pascasarjana menunjuk arah sebaliknya, menuju kemitraan dengan manusia yang akuntabel. Fasilitator kesiapan mencapai [[self-efficacy|efikasi diri]] penelitian melalui dukungan pembimbing (β = 0.201 tidak langsung), bukan melalui penggunaan alat ([[luo-ai-readiness-graduate-research-self-efficacy-2026|Luo et al. (2026)]]). Sebuah tinjauan doktoral mencapai kesimpulan desain yang sama dari etika: legitimasi bergantung pada tugas alih-alih alat, pengungkapan proporsional dengan signifikansi intelektual, dan tata kelola ditinjau pada tonggak-tonggak ([[guanilo-pareja-genai-doctoral-supervision-2026|Guanilo Pareja et al. (2026)]]).
+
+Yang tidak berubah adalah bahwa manusia memegang pertimbangannya. Mahasiswa dalam seminar pascasarjana hanya menerima keluaran AI setelah penjaga gerbang yang berpengetahuan memeriksanya, yang dibaca Chen sebagai agensi yang didelegasikan alih-alih diserahkan ([[chen-genai-self-directed-learning-graduate-seminar-2026|Chen (2026)]]). Frekuensi adalah metrik lintas-tingkat yang salah: ia memprediksi kompetensi pascasarjana pada β = 0.030 begitu etika dan regulasi diri masuk ke model ([[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova et al. (2026)]]).
+
+.
 
 ## Penilaian dan pengukuran
 
@@ -121,7 +141,7 @@ AI mengubah baik cara kita menilai pembelajar maupun cara kita mengevaluasi sist
 
 Bagaimana kita mengetahui apakah AI bekerja adalah untaiannya sendiri, dan basis pengetahuan memperlakukannya demikian:
 
-- **Metode penelitian:** [[research-methods-aied|metode penelitian dalam AIED]] sebagai payung, dengan pendekatan [[qualitative-research|kualitatif]], [[quantitative-research|kuantitatif]], [[mixed-methods-research|metode campuran]], [[design-based-research|berbasis desain]], dan [[usability-research|kegunaan]], ditambah [[rct|uji acak terkontrol]], [[meta-analysis-systematic-review|meta-analisis dan tinjauan sistematis]], dan [[network-analysis|analisis jaringan]].
+- **Metode penelitian:** [[research-methods-aied|metode penelitian dalam AIED]] sebagai payung, dengan pendekatan [[qualitative-research|kualitatif]], [[quantitative-research|kuantitatif]], [[mixed-methods-research|metode campuran]], [[design-based-research|berbasis desain]], dan [[usability-research|kegunaan]] dan [[longitudinal-research|longitudinal]], ditambah [[rct|uji acak terkontrol]], [[meta-analysis-systematic-review|meta-analisis dan tinjauan sistematis]], dan [[network-analysis|analisis jaringan]].
 
 Pekerjaan penelitian bidang ini sendiri kini menjadi subjeknya sendiri. [[ai-assisted-educational-research|Penelitian Pendidikan Berbantuan AI]] mencakup AI yang digunakan sebagai instrumen untuk pencarian literatur, penyaringan, pengkodean kualitatif, analisis, dan penulisan, termasuk penelitian praktisi seperti scholarship of teaching and learning. Ini tetap berbeda dari desain yang digunakan untuk mempelajari apa yang dilakukan AI pada pembelajar.
 
@@ -180,6 +200,10 @@ AI dalam pendidikan terhubung ke setiap konsep di basis pengetahuan — ini adal
 **"Kedewasaan bidang dapat dibaca dari volume publikasinya."** Volume dan kedewasaan menyimpang; untaian metode penelitian mendokumentasikan kelemahan desain yang berulang yang tidak diperbaiki oleh volume, dan kerangka kerja bertambah lebih cepat daripada diuji.
 
 ## Konsep terkait
+- [[primary-education]] — AI dalam pendidikan dasar
+- [[secondary-education]] — AI di sekolah menengah
+- [[undergraduate-education]] — AI dalam studi sarjana
+- [[graduate-education]] — AI dalam studi magister dan doktoral
 - [[pedagogical-patterns]] — Urutan teruji yang mengoperasionalkan pedagogi bidang tersebut
 - [[ai-literacy]] — payung: memahami, menggunakan, dan mengevaluasi AI
 
@@ -218,10 +242,14 @@ AI dalam pendidikan terhubung ke setiap konsep di basis pengetahuan — ini adal
 - [[civic-and-political-education]] — bidang subjek: literasi untuk kehidupan publik, dengan basis bukti yang tipis
 
 ## Artikel terkait
-Tinjauan menyeluruh AI dalam pendidikan — studi yang meninjau seluruh bidang atau seluruh tingkat pendidikan alih-alih satu topik:
 
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — Evolusi penelitian AI-dan-pendidikan di sepanjang empat dekade (kerangka AIxEd)
 - [[mishra-control-vs-agency-history-2025]] — Kendali lawan agensi: sebuah sejarah AI dalam pendidikan
 - [[genai-higher-education-systematic-review-2026]] — AI generatif dalam pendidikan tinggi: tinjauan sistematis 125 studi
 - [[stanford-evidence-base-ai-k12-2026]] — Basis bukti tentang AI di K-12: tinjauan 818 makalah
 - [[genai-educational-outcomes-meta-analysis]] — AI generatif dan hasil pendidikan: meta-analisis komprehensif
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] — 33 studi tingkat menengah; keuntungan di tempat siswa menilai keluaran, bukan di tempat alat menghasilkan pekerjaannya
+- [[luo-ai-readiness-graduate-research-self-efficacy-2026]] — 425 mahasiswa magister; kesiapan mencapai efikasi diri melalui dukungan pembimbing
+- [[guanilo-pareja-genai-doctoral-supervision-2026]] — Tinjauan 61 sumber tentang etika, umpan balik, dan tata kelola supervisi doktoral
+- [[chen-genai-self-directed-learning-graduate-seminar-2026]] — Seminar pascasarjana kelompok tunggal; keuntungan pembelajaran terarah mandiri tanpa tes tanpa bantuan
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 381 mahasiswa; kesenjangan sarjana–pascasarjana dalam etika dan regulasi diri

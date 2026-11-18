@@ -1,5 +1,5 @@
 ---
-connected_resources: [deeptutor, learnharness, primer]
+connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 title: בינה מלאכותית סוכנית
 created: "2026-10-12T19:00:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
@@ -12,8 +12,8 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/agentic-ai
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-13T18:20:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 translation_note: "תרגום אוטומטי של העמוד באנגלית, שטרם נבדק בידי דובר/ת שפת אם."
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -86,6 +90,10 @@ ai_assist:
 - **חונכות מרובת-סוכנים בעלת אינטליגנציה חברתית.** אבות-טיפוס של חונכות מרובת-סוכנים בעלת אינטליגנציה חברתית כמו ASTRA חוקרים כיצד לומדים מתואמים עם AI בזוגות, תוך שימוש בסוכני חונך ומנחה נבדלים לעידוד תיאום והשתתפות מאוזנת. ההערכה המבוססת-מעקב של המסגרת מאפשרת ניתוח שכפול של אינטראקציה, איזון השתתפות ואימות ב[[cs-education|תכנות מבוא]].
 
 **תשובה ארגונית: הלומד כחבר משתתף ולא כמקבל.** [[jingru-fan-agentic-university-collaborative-agents-2026|Fan et al. (2026)]] מממשים ארגון מרובה-סוכנים עם השתתפות אנושית, שבו סוכנים מתמחים מחזיקים "תכנית יכולת" ניתנת-לתיקון המקשרת מטרות אישיות, פעילויות [[multimodal|רב-מודאליות]] ו[[assessment|הערכה]] מדורגת, עם "צומת אנושי" ניתן-לתיקון הנושא את הראיות והאתגרים של הלומד עצמו אל תיקונים מאוחרים. מול קו הבסיס הרב-סוכני הקרוב ביותר, לאורך 96 מקרי לומד מסוימים, היתרון התרכז בעיצוב ההערכה: 19.32 נקודות גבוה יותר ב[[assessment-validity|תקפות ההערכה]] (95% CI [17.55, 21.04]) ו-5.89 בכיסוי היכולות, בעוד שההתאמה האישית לא הבדילה (1.35 נקודות, רווח החוצה אפס). במחקר אקראי של 32 לומדים הרווח בידע במבחן אובייקטיבי בן 50 נקודות היה 12.19 לעומת 5.61 נקודות.
+
+- **סימון סוכני הוא שאלת מהימנות לפני שהוא שאלת עומס עבודה.** פריסת Claude Code סוכנית קיבלה שלושה קבצי רובריקה ו-60 עבודות אמצע-סמסטר סרוקות בכתב יד מקורס גרפיקה ממוחשבת. הציונים שלה תאמו למרצה ב-r = 0.97, עם שגיאה מוחלטת ממוצעת של 0.85 נקודות מתוך 20, הטיה חיובית ממוצעת של 0.68, ו-ICC של 0.96 בין שני מושבים בהפרש שבוע. הממוצע המצטבר מסתיר היכן היא נכשלת: קאפה משוקלל נע מ-0.98 בשאלות אמריקאיות ל-0.65 בפריטים הערכתיים, כשציורים מצוירים ביד הם המקרה החלש ביותר ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). קורס אחד, מרצה אחד ומערך רובריקות אחד ממקמים את השונות; הם אינם מבססים שהסימון הסוכני מכליל.
+
+ארכיטקטורות סוכניות קונות כיסוי במחיר מדיד בדיוק. בהשוואה של [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah et al. (2026)]] על 926 דגימות ממודעות דרושים ו-1,696 מיומנויות בתקן זהב, סוכן ReAct עם כלי חיפוש ESCO הוביל בשחזור משופר של 89.7%, לעומת 83.7% לקונפיגורציה היוצרת הטובה ביותר ו-49.1% למודל ההטמעה הטוב ביותר. הדיוק שלו היה 22.7%, מה שהשאיר F1 של 36.3%, מתחת ל-Gemini 2.5 Flash מעוגן-כלים עם 51.6%, והוא רץ כעבור כ-16 שניות לדגימה. שחזור הוא המדד הנכון כאשר יועץ אנושי מסנן את הרשימה; פלט לא-מתווך זקוק לחלופה המעוגנת.
 
 ## המתח המרכזי: אוטומציה אל מול למידה
 
@@ -210,6 +218,8 @@ ai_assist:
 
 ## מאמרים מחוברים
 
+- [[alghamdi-claude-code-agentic-grading-2026]] — סימון סוכני של 60 עבודות בכתב יד: r = .97 בסך הכל, וקאפה שיורד ל-.65 בפריטים הערכתיים
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — השוואת גישות AI לחילוץ מיומנויות אוטומטי: מהטמעות למערכות סוכניות בחינוך הנדסי
 - [[jingru-fan-agentic-university-collaborative-agents-2026]] — סוכנים המאורגנים סביב תכנית יכולת ניתנת-לתיקון, עם הלומד כחבר
 - [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomy, competence, relatedness and social presence as the pathways from agentic AI to engagement (Pramod & Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space

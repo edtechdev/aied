@@ -1,7 +1,7 @@
 ---
 title: "L'IA en éducation"
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-15T11:55:37-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring, llm]
@@ -14,7 +14,7 @@ connected_faqs: [top-10-findings-ai-education-instructors]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-education
-source_updated: "2026-11-15T06:45:00-05:00"
+source_updated: "2026-11-17T08:15:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:
@@ -29,6 +29,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-01"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -60,7 +64,7 @@ La couverture conceptuelle du champ s'appuie sur plusieurs **pages parapluies** 
 - **[[pedagogy|Pédagogies et stratégies d'enseignement]]** — le parapluie de la manière dont l'enseignement se déroule, soit les méthodes et stratégies d'enseignement dans lesquelles l'IA opère ([[active-learning|actives]], [[collaborative-learning|collaboratives]], [[project-based-learning|par projets]], [[problem-based-learning|par problèmes]], [[experiential-learning|expérientielles]], [[game-based-learning|par le jeu]], [[socratic-method|socratique]], [[scaffolding|étayage]], et d'autres), y compris le contexte distinct de l'[[online-teaching-and-learning|enseignement et de l'apprentissage en ligne]].
 - **[[learning-theories|Théories de l'apprentissage]]** — le parapluie de la manière dont l'apprentissage se produit, soit les cadres théoriques ([[behaviorism|behaviorisme]], [[cognitive-psychology|cognitivisme]], [[constructivist|constructivisme]], [[sociocultural-learning|socioculturel]], cognitif, [[motivation|motivationnel]]) qui façonnent la conception et l'évaluation de l'IA.
 - **[[ai-technologies|Technologies de l'IA]]** — le parapluie de la couche technique, soit les systèmes d'IA ([[llm|grands modèles de langue]], [[generative-ai|IA générative]], [[multimodal|IA multimodale]], [[educational-robotics|robotique]]) et les techniques ([[rag|génération augmentée par la recherche documentaire]], [[prompt-engineering|ingénierie des invites]], [[reinforcement-learning|apprentissage par renforcement]], [[llm-training-and-fine-tuning|entraînement de modèles]], [[agentic-ai|orchestration agentique]]) qui font fonctionner l'AIED. La famille de la modélisation de l'apprenant — [[knowledge-tracing|traçage des connaissances]], [[cognitive-diagnosis|diagnostic cognitif]], [[simulating-students|simulation d'étudiants]], et les systèmes qui les exploitent ([[intelligent-tutoring|tutorat intelligent]], [[adaptive-learning|apprentissage adaptatif]], [[personalized-learning|apprentissage personnalisé]]) — est regroupée sous le parapluie [[student-modeling|Modélisation de l'apprenant et enseignement adaptatif]], au sein de ce fil technique.
-- **[[discipline-specific-aied|L'IA dans les disciplines]]** — le parapluie de la manière dont l'IA s'applique à travers les domaines ([[math-education|mathématiques]], statistiques et science des données, [[physics-education|physique]], [[language-learning|apprentissage des langues]], [[cs-education|informatique]], [[writing-education|écriture]], [[stem-education|STIM]], [[engineering-education|ingénierie]], [[business-education|gestion]], [[teacher-education|formation des enseignants]], [[medical-education|professions de santé]], et d'autres) — et, au-delà des matières scolaires, le fil professionnel et appliqué qui évalue une pratique démontrée plutôt que l'exactitude d'une réponse ([[nursing-education|soins infirmiers]], [[information-technology|technologies de l'information]], [[vocational-education|enseignement et formation professionnels]], [[design-education|enseignement du design]]) — et elle s'applique aussi bien aux niveaux de scolarité qu'aux matières.
+- **[[discipline-specific-aied|L'IA dans les disciplines]]** — le parapluie de la manière dont l'IA s'applique à travers les domaines, regroupés en quatre grappes. Les [[humanities-education|lettres et arts]] couvrent l'histoire, la philosophie, la littérature et les langues, avec les [[arts-and-media-education|arts et médias]] et la [[music-education|musique]] à leurs côtés. Les [[social-sciences-education|sciences sociales]] couvrent l'éducation civique, la gestion et l'économie, et les études environnementales. Les [[stem-education|STIM]] couvrent les mathématiques, la physique, la chimie, la biologie, l'informatique et l'ingénierie. Les [[professions-education|professions]] couvrent les programmes accrédités — [[medical-education|médecine et professions de santé]], [[nursing-education|soins infirmiers]], [[legal-education|enseignement du droit]], [[teacher-education|formation des enseignants]], [[design-education|enseignement du design]] et [[libraries|bibliothéconomie]] — où l'évaluation doit démontrer que le jugement certifié était celui du candidat. Ces grappes s'appliquent autant aux niveaux de scolarité qu'aux matières.
 - **[[assessment|Évaluation]]** (avec ses fils [[formative-assessment|formatif]], [[summative-assessment|sommative]], [[authentic-assessment|authentique]], [[oral-assessment|oral]] et [[automated-assessment|automatisé]]) — le parapluie de la manière dont l'IA évalue à la fois les apprenants et reconfigure la validité et l'intégrité de l'évaluation.
 - **[[feedback|Rétroaction]]** — le parapluie de la manière dont la rétroaction est produite, transmise et utilisée, soit la boucle de rétroaction, la [[ai-feedback-quality|qualité de la rétroaction]], la [[feedback-literacy|littératie de la rétroaction]] et ses contextes d'évaluation ([[formative-assessment|formatif]], [[peer-assessment|par les pairs]], [[automated-assessment|automatisé]]).
 - **[[stakeholders|Les acteurs de l'éducation à l'IA]]** — le parapluie de savoir qui sont les acteurs : les apprenants, les [[teacher-role|enseignants]], les [[learning-design|concepteurs pédagogiques]], les [[administrator|administrateurs]] et les [[educational-policy-ai|décideurs publics]].
@@ -100,9 +104,14 @@ La page [[ai-technologies|Technologies de l'IA]] est le parapluie de la couche t
 
 ## L'IA dans les disciplines
 
-L'IA s'applique à travers les disciplines et les niveaux d'enseignement. La [[discipline-specific-aied|vue d'ensemble de l'AIED dans les disciplines]] cartographie la couverture par matière, aux côtés des [[learning-sciences|sciences de l'apprentissage]], qui ne sont pas une matière enseignée mais le champ de recherche transversal qui étudie l'apprentissage lui-même et prend le contenu disciplinaire comme une variable parmi d'autres :
+La couverture par matière est la plus grande partie du champ. La [[discipline-specific-aied|vue d'ensemble de l'AIED dans les disciplines]] la porte, aux côtés des [[learning-sciences|sciences de l'apprentissage]], qui ne sont pas une matière enseignée mais le champ de recherche transversal qui étudie l'apprentissage lui-même et prend le contenu disciplinaire comme une variable parmi d'autres. Quatre grappes organisent les pages par matière :
 
-- **Domaines disciplinaires :** les [[math-education|mathématiques]], la [[statistics-and-data-science-education|statistiques et science des données]], la [[physics-education|physique]], la [[chemistry-education|chimie]], la [[biology-education|biologie]], l'[[cs-education|informatique]], l'[[engineering-education|ingénierie]], les [[stem-education|STIM]], l'[[writing-education|écriture]], l'[[reading-education|enseignement de la lecture]], l'[[language-learning|apprentissage des langues]], l'[[english-education|enseignement de l'anglais (EAP/EFL/ESL)]], les [[libraries|bibliothèques et sciences de l'information]], l'[[science-education|enseignement des sciences]], l'[[environmental-education|éducation environnementale]], la [[business-education|gestion, l'économie et le management]], les [[humanities-education|lettres et sciences humaines]], l'[[civic-and-political-education|éducation civique et politique]], les [[arts-and-media-education|arts, le design et l'enseignement des médias]], la [[medical-education|médecine et les professions de santé]], l'[[legal-education|enseignement du droit]], et les fils professionnels et appliqués — les [[nursing-education|soins infirmiers]], les [[information-technology|technologies de l'information]], l'[[vocational-education|enseignement et la formation professionnels]] et l'[[design-education|enseignement du design]].
+- **Lettres et arts :** [[humanities-education|lettres et sciences humaines]], [[arts-and-media-education|arts et enseignement des médias]], [[music-education|enseignement de la musique]], [[writing-education|enseignement de l'écriture]], [[reading-education|enseignement de la lecture]], [[language-learning|apprentissage des langues]] et [[english-education|enseignement de l'anglais (EAP/EFL/ESL)]].
+- **Sciences sociales :** [[social-sciences-education|enseignement des sciences sociales]], [[civic-and-political-education|éducation civique et politique]], [[business-education|gestion, économie et management]] et [[environmental-education|éducation environnementale]].
+- **STIM :** [[stem-education|enseignement STIM]], [[science-education|enseignement des sciences]], [[math-education|mathématiques]], [[statistics-and-data-science-education|statistiques et science des données]], [[physics-education|physique]], [[chemistry-education|chimie]], [[biology-education|biologie]], [[cs-education|informatique]], [[engineering-education|ingénierie]] et [[information-technology|technologies de l'information]].
+- **Professions :** [[professions-education|enseignement des professions]], [[medical-education|médecine et professions de santé]], [[nursing-education|soins infirmiers]], [[legal-education|enseignement du droit]], [[teacher-education|formation des enseignants]], [[design-education|enseignement du design]] et [[libraries|bibliothéconomie et sciences de l'information]].
+
+La grappe dans laquelle une matière tombe décide aussi quelle page détient ses données probantes. L'[[vocational-education|enseignement et la formation professionnels]] est classé sous les niveaux plutôt qu'ici, parce qu'il nomme une voie de qualification plus qu'une discipline.
 
 ## Niveaux et contextes
 
@@ -228,8 +237,6 @@ L'IA en éducation est liée à tous les autres concepts du champ, puisque chacu
 - [[civic-and-political-education]] — domaine disciplinaire : la littératie pour la vie publique, avec une base de données probantes mince
 
 ## Articles liés
-
-Revues à l'échelle du domaine sur l'IA en éducation, soit les études qui couvrent l'ensemble du domaine ou tout un niveau d'enseignement plutôt qu'un seul sujet :
 
 - [[rismanchian-ai-education-four-decades-aixed-2026]] — L'évolution de la recherche sur l'IA et l'éducation sur quatre décennies (cadre AIxEd)
 - [[mishra-control-vs-agency-history-2025]] — Contrôle ou autonomie : une histoire de l'IA en éducation

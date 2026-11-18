@@ -10,7 +10,7 @@ ethics: [privacy]
 audience: [software developers, instructors, administrators, researchers]
 discipline: [stem education, writing education]
 confidence: medium
-connected_resources: [claw-ed, education-agent-skills, lesson-md, liascript, onmicro-ai, vibes-diy]
+connected_resources: [claw-ed, education-agent-skills, lesson-md, liascript, onmicro-ai, vibes-diy, mindrouter, amplify-genai]
 methods: [benchmark]
 updated: "2026-11-08T11:16:43-05:00"
 translation_of: "concepts/open-source"

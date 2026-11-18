@@ -2,7 +2,7 @@
 title: "মানবিক ও সামাজিক বিজ্ঞান শিক্ষা"
 created: "2026-08-16T09:22:41-04:00"
 type: concept
-foundations: [ai-literacy, critical-thinking, history-of-aied, philosophy-of-ai-in-education]
+foundations: [ai-literacy, critical-thinking, philosophy-of-ai-in-education]
 level: [higher ed]
 confidence: high
 discipline: [humanities education]

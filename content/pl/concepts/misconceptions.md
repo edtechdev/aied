@@ -1,7 +1,7 @@
 ---
 title: "Błędne przekonania na temat SI"
 created: "2026-11-12T04:00:00-05:00"
-updated: "2026-11-12T04:00:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]
@@ -11,13 +11,17 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 translation_of: concepts/misconceptions
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "*Tłumaczenie automatyczne tej strony z języka angielskiego, jeszcze nie sprawdzone przez rodzimego użytkownika języka.*"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-12"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -38,11 +42,11 @@ ai_assist:
 
 Błędne przekonania na temat SI mają znaczenie, ponieważ są poznawczym prekursorem szkodliwych zachowań, które baza wiedzy dokumentuje w ramach [[cognitive-offloading|nadmiernego polegania]] i problemów z [[academic-integrity|rzetelnością akademicką]]. Ludzie rzadko zamierzają [[ai-misuse-learning-harm|niewłaściwie korzystać]] z SI; robią to, ponieważ nieścisłe modele mentalne prowadzą ich do błędnego lokowania zaufania, pomijania weryfikacji i traktowania wyniku jako zrozumienia. W edukacji te błędy kształtują wszystko: od sposobu, w jaki uczniowie się uczą, po to, jak nauczyciele i instytucje projektują programy, [[assessment|ocenianie]] i politykę.
 
-### Czym są błędne przekonania na temat SI
+## Czym są błędne przekonania na temat SI
 
 Błędne przekonanie to tu nie sama niewiedza o tym, jak działa model — to aktywnie żywione, często samo-wzmacniające się przekonanie, które wywołuje systematyczne błędy w interakcji uczniów z SI. Są one bezpośrednio analogiczne do błędnych przekonań dziedzinowych badanych w [[learning-sciences|nauce o uczeniu się]]: trwałe, plauzabilne i oporne na korektę, dopóki się ich nie skonfrontuje. Ich korygowanie jest głównym celem edukacji w zakresie [[ai-literacy|kompetencji SI]] i [[trust-calibration|kalibracji zaufania]].
 
-### Typowe błędne przekonania w kontekstach akademickich
+## Typowe błędne przekonania w kontekstach akademickich
 
 - **Błąd autorytetu** — traktowanie wyniku [[llm]] jako zweryfikowanego faktu, a nie probabilistycznego uzupełnienia. Napędza bezkrytyczną akceptację i wzorzec poszukiwania odpowiedzi zamiast zrozumienia, dokumentowany w badaniach nad [[intelligent-tutoring|korepetycjami SI]], gdzie uczniowie przyjmują odpowiedź modelu bez sprawdzenia jej wobec [[hallucination-risk|ryzyka halucynacji]].
 - **Iluzja niezależnego sprawdzenia** — traktowanie [[ai-feedback-quality|informacji zwrotnej SI]] jako zewnętrznej korekty, gdy model odzwierciedla własne rozumowanie użytkownika. Bazowa trafność użytkowników była dominującym predyktorem wyniku końcowego, a promptowanie ukierunkowane na [[ai-sycophancy|sykofancję]] obniżyło naśladowanie pozycyjne (OR = 0,26), ale nie naruszyło propagacji błędów, więc szkolenie uczniów nie jest zabezpieczeniem ([[contextual-sycophancy-ai-literacy|Koyuturk i in. (2026)]]).
@@ -57,17 +61,17 @@ Błędne przekonanie to tu nie sama niewiedza o tym, jak działa model — to ak
 
 Szara strefa rzetelności ma strukturę, nie tylko dwie skrajności. Wywiady z 20 studentami, wraz z ich logami czatu i dokumentami kursu, ujawniły pięć odrębnych miejsc, w których żyje polityka dotycząca SI: od intencji kadry, przez formalną politykę i własną politykę studenta, po faktyczną praktykę, a także 23 odrębne racjonalizacje w sześciu klasach ([[student-rationalization-ai-writing|Kim i in., 2026]]). Racjonalizacje były doraźne i retrospektywne, składane, by wyjaśnić użycie, które już się zdarzyło, a nie by nim kierować. Surowy zakaz nie tyle uniemożliwiał użycie, ile intensyfikował konflikt moralny u studentów, którzy chcieli się podporządkować, co przenosi cel korekty z samego brzmienia reguły na miejsce, w którym polityka jest stanowiona.
 
-### Instytucjonalne i publiczne mity o SI
+## Instytucjonalne i publiczne mity o SI
 
 Błędne przekonania nie ograniczają się do uczniów — przenikają instytucjonalny i publiczny dyskurs o SI, który uczniowie dziedziczą. [[rudolph-ai-myths-critical-higher-ed|Rudolph i in. (2025)]] demontują osiem zakorzenionych „mitów", które kształtują politykę i nauczanie w szkolnictwie wyższym: że SI jest naprawdę „sztuczna" (a nie zbudowana z wyzyskiwanej ludzkiej pracy), że jest naprawdę „inteligentna" i [[agentic-ai|sprawcza]], że bezproblemowo „uczyni świat lepszym miejscem", że jest „obiektywna i bezstronna", że USA mają wyłączny monopol supermocarstwa, że nie zakłóci rynku pracy, że „rewolucjonizuje [[higher-ed|szkolnictwo wyższe]]" i że nauczyciele potrafią rzetelnie wykryć prace wygenerowane przez SI. Te instytucjonalne mity leżą wyżej w łańcuchu przyczynowym niż wiele opisanych wyżej błędnych przekonań uczniów — najbezpośredniej [[trust|iluzji neutralności]] („SI jest obiektywna") i [[trust-calibration|błędu autorytetu]] („SI jest inteligentna"), a także błędnej kalibracji detekcji, która prowadzi uczniów do założenia, że niewykrywalne, niezweryfikowalne użycie jest bezpieczne. Tam, gdzie uczniowie przyswajają i działają na podstawie mitów powtarzanych instytucjonalnie, ich korygowanie wymaga skonfrontowania nie tylko przekonania ucznia, ale i dyskursu, który je karmi.
 
-### Dlaczego błędne przekonania mają znaczenie dla uczenia się
+## Dlaczego błędne przekonania mają znaczenie dla uczenia się
 
 Błędne przekonania przekładają się bezpośrednio na zachowania, które powodują szkodę w uczeniu się. Przekonanie, że „SI zawsze ma rację", tłumi weryfikację; przekonanie, że „używanie SI to uczenie się", tłumi wysiłkowe przetwarzanie; przekonanie, że „to nie oszustwo", omija metapoznawczy przegląd, który konsoliduje zrozumienie. W tym sensie błędne przekonania leżą wyżej w łańcuchu przyczynowym niż [[ai-misuse-learning-harm|szkody wynikające z niewłaściwego korzystania z SI]] dokumentowane w całej bazie dowodów.
 
 Przekonanie, że używanie SI jest uczeniem się, nie tylko poprzedza użycie; narzędzie może je wytwarzać. [[llm-fallacy-misattribution|Kim i in.]] opisują błąd LLM, w którym nieprzejrzysty, płynny, natychmiastowy wynik jest odczytywany jako dowód własnych kompetencji użytkownika, tak że postrzegana i rzeczywista zdolność rozchodzą się o margines, który nazywają ΔC. Ponieważ mechanizmem jest płynność i niejednoznaczność atrybucji, a nie błąd, zjawisko utrzymuje się niezależnie od tego, czy model jest trafny, czy halucynuje — co oznacza, że poprawna odpowiedź wsparta SI nie jest dowodem, że przekonanie zostało skorygowane.
 
-### Błędne przekonania poza uczniami: nauczyciele, instytucje i opinia publiczna
+## Błędne przekonania poza uczniami: nauczyciele, instytucje i opinia publiczna
 
 Błędne przekonania o SI nie ograniczają się do uczniów — są wszechobecne wśród dorosłych, którzy kształtują edukację:
 
@@ -79,7 +83,7 @@ Ta szerokość jest powodem, dla którego baza wiedzy traktuje błędne przekona
 
 Pedagogiczne błędne przekonania nauczycieli są tego lustrzanym odbiciem: to nie nieporozumienia dotyczące SI, lecz niepoparte dowodami przekonania o nauczaniu, które utrzymują się niezależnie od SI. [[etq-ai-conversational-teacher-training-2026|Miranda i Calvani (2026)]] mierzą je Kwestionariuszem Skutecznego Nauczania, w którym 50 dychotomicznych pozycji mapuje się na wielkości efektu z [[meta-analysis-systematic-review|meta-analiz]] (d ≥ 0,40), tak by odpowiedź nauczyciela można było porównać z wzorcem zgodnym z dowodami — a ich ustalenie głosi, że błędne przekonania są głębokie i specyficzne. Pilotaż z 123 edukatorami we Włoszech wykazał najostrzejszą niezgodność w twierdzeniu o stylach uczenia się (78% nauczycieli broniło dopasowania wzrokowego/słuchowego), następnie w kwestii inkluzji i [[group-work|pracy grupowej]] (68%) oraz przeciążenia technologią edukacyjną (54%); średnia zgodność oscylowała wokół 50% w wymiarach planowania, poznawczym, ewaluacyjnym i zarządzania. Dwa szczegóły mają znaczenie dla projektowania korekty. Po pierwsze, błędne przekonania przeżywają edukację uniwersytecką i praktykę nauczania — autorzy opisują „zinterioryzowany zdrowy rozsądek", który „poprzedza wejście do szkoły" i trwa — więc nie są to luki w wiedzy, które zamknie wykład. Po drugie, gdy konwersacyjna SI ponownie wprowadziła te same pozycje dopiero po walidacji własnego kontekstu nauczyciela, 41% zastrzeżeń wskazywało na rzeczywiste ograniczenia kontekstowe — liczebność klas, uczniów ze [[special-education|specjalnymi potrzebami]], pokrycie [[curriculum-design|programu nauczania]] — a nie na same dowody. Kolejne 5,9% nazwało system „maszyną algorytmicznego dogmatu": przypadek graniczny, w którym ujęcie normatywne rodzi defensywność zamiast refleksji. Dla rozwoju [[teacher-ai-competency|kompetencji SI nauczycieli]] implikacja jest taka, że diagnoza połączona z dialogiem może ujawnić, które przekonania są zgodną z dowodami niezgodą, a które błędnym przekonaniem — rozróżnienie, którego sam wynik punktowy nie potrafi dokonać.
 
-### Korygowanie błędnych przekonań
+## Korygowanie błędnych przekonań
 
 Korekta nie jest jednorazowym ujawnieniem, lecz trwającym procesem w zakresie [[ai-literacy|kompetencji SI]], który rozwija [[metacognition|metapoznanie]] i [[self-regulated-learning|samoregulowane uczenie się]]: pomaga uczniom (i otaczającym ich dorosłym) monitorować własne poleganie, kalibrować, kiedy ufać, a kiedy kwestionować model, oraz dostrzegać koszt pomijania własnej [[cognitive-offloading|pracy poznawczej]]. Ponieważ błędne przekonania są oporne, najlepiej podchodzić do nich poprzez bezpośrednią konfrontację z dowodami — w tym z ustaleniem, że uczniowie często *nie dostrzegają* szkody w uczeniu się wynikającej z niewłaściwego korzystania z SI.
 
@@ -95,7 +99,7 @@ Bernstein i Sibia (2026) pokazują, że analogie generowane przez [[generative-a
 
 **Błędne przekonania generowane przez model to mierzalna zdolność, nie przypadek.** [[milicevic-socratic-trap-strategic-misconceptions-2026|Miličević i in. (2026)]] zbudowali SocraticTrap-CS, który promptował siedem modeli z otwartymi wagami do napisania „[[socratic-method|sokratejskiej]] pułapki" dla 35 podstawowych koncepcji informatycznych — wyjaśnienia, które jest płynne i autorytatywne, a jednocześnie opiera się na subtelnym, dziedzinowo specyficznym błędzie. Z 241 promptowanych segmentów 221 (91,7%) potwierdzono jako strategiczne błędne przekonania większością głosów ekspertów (κ Fleissa = 0,9487), bez istotnych różnic między domenami informatyki; 66,5% potwierdzonych błędów było koncepcyjnych, a nie faktograficznych, i żaden nie był czysto logiczny. Płynność jest mechanizmem, a nie obroną: perswazyjność wynosiła średnio 3,71 w pięciopunktowej skali i silnie zależała od modelu, a częstość i dotkliwość rozeszły się — dwa modele, które najczęściej tworzyły pułapki, oceniono też jako najbardziej przekonujące. Ponieważ źle sformułowane pytanie ucznia samo może działać jako prompt adwersarialny, autorzy traktują ten odsetek jako zdolność w warunkach promptowania adwersarialnego, a nie jako wskaźnik bazowy dla zwykłych sesji nauki — i argumentują, że zadanie [[ai-literacy|kompetencji SI]] przesuwa się ze sprawdzania pojedynczych twierdzeń na weryfikację koncepcyjną i walidację modeli mentalnych. To ciemniejsza strona omówionego wyżej zastosowania generatywnego: ta sama zdolność, która może zasiewać produktywną dyskusję rówieśniczą, może też utrwalić błąd, który uczący się już zaczynał formować.
 
-### Korygowanie w stylu obalającym typowych błędnych przekonań o SI
+## Korygowanie w stylu obalającym typowych błędnych przekonań o SI
 
 Ponieważ błędne przekonania są aktywnie żywione i oporne, najbardziej bezpośrednim sposobem ich adresowania — także na tej stronie — jest struktura [[refutation-text|tekstu obalającego]]: **nazwij błędne przekonanie, wyraźnie je obal i podaj poprawną koncepcję.** Poniższe pozycje stosują tę strukturę do najdonioślejszych błędnych przekonań o SI oraz o uczeniu się, nauczaniu i edukacji:
 

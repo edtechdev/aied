@@ -1,5 +1,5 @@
 ---
-connected_resources: [deeptutor, learnharness, primer]
+connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 title: IA Agentica
 created: "2026-10-14T23:41:00-04:00"
 connected_faqs: [ai-agents-support-students-instructors, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
@@ -12,8 +12,8 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: "concepts/agentic-ai"
-updated: "2026-11-13T18:20:00-05:00"
-source_updated: "2026-11-04T12:05:00-05:00"
+updated: "2026-11-17T20:00:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "*Traduzione automatica della pagina in inglese, non ancora rivista da una persona di madrelingua.*"
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-30"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-17"
     agent: hermes-agent
 ---
 
@@ -73,6 +77,10 @@ La [[research-methods-aied|ricerca]] nella knowledge base abbraccia progettazion
 - **Un misuratore di reporting e governance: il quadro Autonomia–Supervisione–Evidenza (AOE).** [[beyond-agent-label-agentic-ai-governance-2026|Dey (2026)]] sostiene che il termine *IA agentica* è applicato in modo così incoerente che evidenza e supervisione non possono essere confrontate tra studi — i sistemi che pianificano, ricordano, usano strumenti o coordinano più agenti vengono accorpati con interfacce statiche di IA generativa e [[pedagogical-agent|agenti pedagogici]] convenzionali. La sua revisione integrativa critica di quindici revisioni tra pari trova l'evidenza più forte per gli esiti a livello di artefatto (accuratezza del feedback, [[hallucination-risk|riduzione delle allucinazioni]]) e più debole per apprendimento durevole, equità, carico di lavoro o esiti istituzionali, con dispiegamenti autentici tipicamente brevi, su sito singolo e debolmente legati alla supervisione. La soluzione è una tripletta di reporting concreta — **livello di autonomia A0–A4** (generazione reattiva → orchestrazione limitata → autonomia di compito delegata → autonomia di flusso di lavoro → *autonomia consequenziale* su voti/ammissioni/progressione), **livello di supervisione O0–O4** (non specificato → audit retrospettivo → approvazione pre-uso → controllo a checkpoint → *supervisione continua e limitata*), e **fase di maturità dell'evidenza M0–M5** (concetto → prototipo/benchmark → valutazione con partecipanti → dispiegamento autentico → esteso/multi-sito → *replicato/scala istituzionale*) — più una **regola di proporzionalità**: l'autonomia consentita non dovrebbe superare né la maturità dell'evidenza né la forza della supervisione (ad esempio un sistema consequenziale A4 richiede evidenza M4–M5, validazione legale e O4 con autorità finale umana). Riportare *A2–O3–M3* trasforma vaghe asserzioni di "dispiegamento agentico" in specificazioni confrontabili e testabili e dà alle istituzioni una grammatica di adozione a fasi, logging e rollback — il complemento evidenziale allo spettro [[baradziej-agentic-ai-higher-education-2026|da Copilot ad Autopilota]] sopra.
 - **Test di robustezza avversariale:** [[adversarial-stress-testing-role-playing-agents|Il test di stress multi-agente]] coordina gli agenti Interrogator, Target e Judge per rivelare modalità di fallimento invisibili al test a strategia singola, riducendo i punteggi di robustezza di 0.17–0.20 punti — critico per la coerenza delle personalità e il [[pedagogical-safety|dispiegamento sicuro]] con chi apprende.
 - **Applicazioni di dominio:** i sistemi agentici compaiono in domini diversi, tra cui [[learnmate2-llm-adaptive-learning|agenti di apprendimento adattivo]], [[educlaw-bench-pedagogical-llm-agents-2026|agenti LLM pedagogici]], [[guided-llm-scaffolding-independent-learning|impalcatura LLM guidata]], [[cyberagents-gamified-cybersecurity-learning-2026|agenti di apprendimento della cybersecurity gamificata]] e [[hdr-brachytherapy-agentic-ai-simulation-2026|agenti di simulazione clinica]].
+- **La valutazione agentica è una questione di affidabilità prima che di carico di lavoro.** A un deployment agentico di Claude Code sono stati dati tre file di rubrica e 60 elaborati d'esame scritti a mano e scansionati di un corso di computer grafica. I suoi voti concordavano con quelli del docente a r = 0,97, con un errore assoluto medio di 0,85 punti su un elaborato da 20, un bias medio positivo dell'IA di 0,68 e un ICC test-retest = 0,96 su due sessioni a una settimana di distanza. L'aggregato nasconde dove fallisce: il kappa ponderato andava da 0,98 sulle domande a scelta multipla a 0,65 sugli item valutativi, con i diagrammi disegnati a mano il caso più debole ([[alghamdi-claude-code-agentic-grading-2026|AlGhamdi, 2026]]). Un corso, un docente e un insieme di rubriche localizzano la varianza; non stabiliscono che la valutazione agentica sia generalizzabile.
+
+Le architetture agentiche comprano copertura a un costo misurabile in precisione. Sul benchmark di [[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah et al. (2026)]] su 926 campioni di annunci di lavoro e 1.696 competenze di riferimento, un agente ReAct con uno strumento di lookup ESCO guidava il recall potenziato all'89,7%, contro l'83,7% della migliore configurazione generativa e il 49,1% del miglior modello di embedding. La sua precisione era del 22,7%, lasciando l'F1 al 36,3%, sotto un Gemini 2.5 Flash ancorato agli strumenti al 51,6%, e girava a circa 16 secondi per campione. Il recall è la metrica giusta quando un consulente umano pota la lista; l'output non mediato richiede l'alternativa ancorata.
+
 - **Agenti web come valutatori dell'esperienza di apprendimento:** un singolo agente web autonomo che "descrive" e che naviga una [[learning-design|lezione]] online come uno studente — [[ai-web-agents-lesson-design-2025|Wang, Mitchell e Piech (2025)]] — produce una descrizione abbastanza ricca da predire l'abbandono degli studenti e dare al progettista un feedback azionabile prima che studenti reali si impegnino, superando un'intera coorte simulata e ogni baseline su un corso globale di CS1. Questo posiziona la valutazione agentica (un agente come critico supplente di un'esperienza di apprendimento) come uso distintivo e a basso costo dell'IA agentica accanto agli agenti che insegnano o progettano.
 
 ### Sistemi multi-agente
@@ -210,18 +218,18 @@ L'IA agentica non è né una panacea né un danno inevitabile: il suo valore dip
 - [[educational-policy-ai]]
 
 ## Articoli collegati
+- [[alghamdi-claude-code-agentic-grading-2026]] — Valutazione agentica di 60 esami scritti a mano: r = 0,97 complessivo, con il kappa che scende a 0,65 sugli item valutativi
 - [[jingru-fan-agentic-university-collaborative-agents-2026]] — Agenti organizzati attorno a un programma di capacità revisionabile, con il discente come membro
-
-- [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomy, competence, relatedness and social presence as the pathways from agentic AI to engagement (Pramod & Patil 2026)
+- [[pramod-agentic-ai-motivational-pathways-2026]] — Autonomia, competenza, relazione e presenza sociale come percorsi dall'IA agentica all'engagement (Pramod & Patil 2026)
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI agents, joyful assessment, and third space
 - [[ilieva-agentic-genai-higher-education-2026]] — The AGAI-HE framework: bounded, human-supervised agentic GAI in higher education (Ilieva et al. 2026)
 - [[beyond-agent-label-agentic-ai-governance-2026]] — critical integrative review introducing the AOE evidence/oversight framework
 - [[sudarshan-agentic-ai-ecosystems-higher-education-2026]] — Perspective on inclusive agentic multi-agent AI ecosystems in higher education
 - [[baradziej-agentic-ai-higher-education-2026]] — Systematic review of the roles of agentic AI in higher education (48 studies; six roles; tripartite responsible-integration framework)
-- [[kostopoulos-agentic-ai-education-2025]] — Agentic AI in education: state of the art and future directions (IEEE Access survey; operational definition + taxonomy)
+- [[kostopoulos-agentic-ai-education-2025]] — L'IA agentica in educazione: stato dell'arte e direzioni future (sondaggio IEEE Access; definizione operativa e tassonomia)
 - [[agentic-ai-education-scoping-review]] — Scoping review of agentic AI in education (474 studies)
 - [[agentic-ai-pedagogical-best-practice-2026]] — The tension between automation and learning
-- [[tool-invariant-framework-agentic-ai]] — Teaching and assessing computational methods in the age of agentic AI
+- [[tool-invariant-framework-agentic-ai]] — Insegnare e valutare i metodi computazionali nell'era della IA agentica
 - [[jeon-isd-agent-bench-2026]] — ISD-Agent-Bench: benchmarking instructional-design agents
 - [[adversarial-stress-testing-role-playing-agents]] — Adversarial stress testing of role-playing agents
 - [[ai-agents-constructive-conflict-design-education-2026]] — Constructive conflict AI agents in design education
@@ -238,3 +246,4 @@ L'IA agentica non è né una panacea né un danno inevitabile: il suo valore dip
 - [[spec-driven-development-ai-agents-sdpbl-2026]] — SDD with AI agents in software PBL; automation vs. comprehension
 - [[ai-standardized-patient-scaffolding-medical-2026]] — Evaluating Scaffolding-Oriented Multi-Agent Large Language Model System for Clinical Interview Training
 - [[ethics-training-agents-group-ethics-discussion-2026]] — Ethics Training Agents: Facilitating Group-Based Ethics Education with Role-Playing and Discussion for Ethical Reflection and Exploration
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — Confrontare approcci di IA per l'estrazione automatica delle competenze: dagli embedding ai sistemi agentici per l'educazione ingegneristica
