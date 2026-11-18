@@ -66,19 +66,19 @@ export const offlineArtifacts: Record<string, Record<string, OfflineArtifact>> =
   "zh": {
     "epub": {
       "url": "https://github.com/edtechdev/aied/releases/download/offline-latest/aied.zh.epub",
-      "bytes": 3382654
+      "bytes": 3702132
     },
     "pdf": {
       "url": "https://github.com/edtechdev/aied/releases/download/offline-latest/aied.zh.pdf",
-      "bytes": 9088598
+      "bytes": 9760937
     },
     "llms": {
       "url": "https://github.com/edtechdev/aied/releases/download/offline-latest/llms.zh.txt",
-      "bytes": 161902
+      "bytes": 172673
     },
     "llmsConcepts": {
       "url": "https://github.com/edtechdev/aied/releases/download/offline-latest/llms.zh-concepts.txt",
-      "bytes": 4217247
+      "bytes": 4586183
     }
   },
   "de": {
