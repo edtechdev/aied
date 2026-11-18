@@ -22,7 +22,7 @@ and the user can see it in the first two entries.
 ## Select from the whole corpus, never the ingest window
 
 `git log --since` is the newsletter habit and it misses every anchor study older than the
-window. The corpus already records its own judgement: pages link to the articles whose claims
+window. The corpus already records its own judgment: pages link to the articles whose claims
 they keep repeating.
 
 ```bash

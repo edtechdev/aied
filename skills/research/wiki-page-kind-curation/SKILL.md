@@ -47,7 +47,7 @@ Verify on the built page, not in the source: the metadata table renders the titl
 
 ## Finding pages that need relabelling
 
-The corpus is large and most pages are correctly labelled; scan for evidence rather than reading
+The corpus is large and most pages are correctly labeled; scan for evidence rather than reading
 abstracts one by one. Run from the repo root:
 
 - **Self-description.** `grep -rli "design case" content/en/articles/*.md` — a page whose synthesis
@@ -58,7 +58,7 @@ abstracts one by one. Run from the repo root:
 - **Named systems.** Titles matching `^Name: ...` with `system|platform|tool|simulator|dataset|game`
   and `research_method` including `system development` are implementations unless their own claim is
   what a study measured (leave those as `evaluation`).
-- **The unlabelled universe.** Pages with `research_method: [system development]` and no `page_kind`
+- **The unlabeled universe.** Pages with `research_method: [system development]` and no `page_kind`
   at all are the backlog; label the ones whose contribution is unambiguous and report the rest as a
   count rather than guessing.
 

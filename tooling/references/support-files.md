@@ -33,3 +33,5 @@ Moved out of SKILL.md (2026-09-19) to keep the main skill under its size limit.
 - `references/cs-cl-ai-fallback-validation.md` — Validation notes on the cs.CL+cs.AI fallback search (added 2026-06-15)
 - `references/refresh-paper-version.md` — Refresh an already-ingested paper to a newer arXiv version (v1→v3): detection, PDF fetch, frontmatter + sha256 update
 - `references/validated-4-source-daily-scan-2026-07-16.md` — Exact 4-source daily scan (arXiv cs.CY/cs.HC via execute_code urllib + Semantic Scholar bulk + OpenAlex via terminal curl): hybrid fetch split, dedup/filter, 2-script ingest, confirmed S2/OpenAlex outcomes
+- `references/corpus-structure-and-sweeps.md` — Why a whole-corpus sweep needs a structural gate: the canonical concept shape, what each gate actually compares, and the order that keeps a sweep from shipping damage
+- `references/sidebar-lazy-default-open.md` — Opening a sidebar strand by default over the lazy taxonomy payload: what the HTML and the fetch script must do, and why server-rendering `open` produces an empty box
