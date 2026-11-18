@@ -1,7 +1,7 @@
 ---
 title: 学习者
 created: "2026-09-18T03:20:00-04:00"
-updated: "2026-11-07T17:28:35-05:00"
+updated: "2026-11-18T03:04:30-05:00"
 type: concept
 foundations: [agency, learner-identity, ai-literacy]
 pedagogy: [self-regulated-learning, motivation, metacognition, student-engagement, help-seeking, prior-knowledge, desirable-difficulties]
@@ -12,13 +12,17 @@ audience: [learners, instructors, researchers]
 connected_faqs: [how-ai-impacts-students, does-ai-help-students-learn, reducing-over-reliance, study-with-ai]
 confidence: high
 translation_of: concepts/learners
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -39,11 +43,11 @@ ai_assist:
 
 学习者在本知识库中以两种截然不同的面貌出现，混淆二者导致了该领域的大部分混乱。第一种，学习者是**使用AI的人**：他们提问、接受或抵制答案、失去或守住立场，并报告支持、内疚、焦虑与依赖的体验。第二种，学习者是**被AI系统建模的对象**：[[knowledge-tracing|知识追踪]]中的一个技能估计、[[cognitive-diagnosis|认知诊断]]中的一个潜在状态，或一个代替真人的[[simulating-students|模拟学生]]。关于前者的证据来自调查、访谈、日志分析与实验；关于后者的证据来自测量机制本身 —— 而一个学习者的模型是一个论断，不是一个学习者。
 
-本页是两者的入口。它汇集本知识库覆盖的学习者侧概念，解释它们如何关联，并链接背后的研究。[[stakeholders]]覆盖同一领域的另一面 —— [[teacher-role|教师]]、[[administrator|行政人员]]、设计者与政策制定者 —— 两页应当一起阅读。
+这两种面貌需要各自独立的证据；下面列出的学习者侧概念把二者区分开来，说明它们如何关联，并链接背后的研究。[[stakeholders]]覆盖同一领域的另一面 —— [[teacher-role|教师]]、[[administrator|行政人员]]、设计者与政策制定者 —— 两页应当一起阅读。
 
 ## 谁算作学习者
 
-本知识库把学习者涵盖整个正式教育跨度：[[k-12]]中小学生、[[higher-ed|大学生]]、[[vocational-education|职业]]与[[professional-training|专业]]学习者，以及[[adult-learning|成人]]与[[lifelong-learning|终身]]学习者，包括[[special-education|残障学习者]]、[[neurodiversity|神经多样性]]学习者和[[multilingual-learning|多语]]学习者。有两条惯例值得注意。第一，"学习者"与"学生"并非可以随意互换：*学生*指一种制度角色，*学习者*指一种活动，一个人可以是其一而非其二（[[professional-training|职场培训]]中的员工是学习者但不是学生）。第二，学习者不是一个同质群体，而这种异质性正是研究不断揭示的东西 —— [[prior-knowledge|先验知识]]、[[self-regulated-learning|自我调节]]、语言、可及性与残障状况都改变着AI工具是否有帮助。
+研究把学习者涵盖整个正式教育跨度：[[k-12]]中小学生、[[higher-ed|大学生]]、[[vocational-education|职业]]与[[professional-training|专业]]学习者，以及[[adult-learning|成人]]与[[lifelong-learning|终身]]学习者，包括[[special-education|残障学习者]]、[[neurodiversity|神经多样性]]学习者和[[multilingual-learning|多语]]学习者。有两条惯例值得注意。第一，"学习者"与"学生"并非可以随意互换：*学生*指一种制度角色，*学习者*指一种活动，一个人可以是其一而非其二（[[professional-training|职场培训]]中的员工是学习者但不是学生）。第二，学习者不是一个同质群体，而这种异质性正是研究不断揭示的东西 —— [[prior-knowledge|先验知识]]、[[self-regulated-learning|自我调节]]、语言、可及性与残障状况都改变着AI工具是否有帮助。
 
 ## 学习者经历什么
 
@@ -55,7 +59,7 @@ ai_assist:
 
 ## 身份、能动性与作者权
 
-学习者侧研究不只关乎结果。[[learner-identity]]追问学习者相对于一门学科和相对于AI正成为谁，证据双向展开：设计良好的使用能支架学科归属感，而外包会侵蚀"作品是自己的"这一感觉。[[agency]]追问学习者仍控制着什么。本知识库把两者都视为真正处于利害之中，而非成绩的柔性附属：一个用AI产出正确输出、却不再认得背后推理的学习者，失去了成绩未记录的东西。作者权问题是学习者自己挣扎最多的地方：[[mulisa-students-genai-integrity-perspectives-2026|被访谈关于GenAI与诚信的学生]]声称原创性，因为不存在其他作者 —— "如果这不是我的原创想法，那又是谁的？" —— 而另一些人得出结论说作品不代表自己，还有人推理到把该工具认定为一个它不可能是共同作者，因为AI不是人。
+学习者侧研究不只关乎结果。[[learner-identity]]追问学习者相对于一门学科和相对于AI正成为谁，证据双向展开：设计良好的使用能支架学科归属感，而外包会侵蚀"作品是自己的"这一感觉。[[agency]]追问学习者仍控制着什么。该领域把两者都视为真正处于利害之中，而非成绩的柔性附属：一个用AI产出正确输出、却不再认得背后推理的学习者，失去了成绩未记录的东西。作者权问题是学习者自己挣扎最多的地方：[[mulisa-students-genai-integrity-perspectives-2026|被访谈关于GenAI与诚信的学生]]声称原创性，因为不存在其他作者 —— "如果这不是我的原创想法，那又是谁的？" —— 而另一些人得出结论说作品不代表自己，还有人推理到把该工具认定为一个它不可能是共同作者，因为AI不是人。
 
 ## 与AI互动：学习者实际做什么
 
@@ -75,19 +79,9 @@ ai_assist:
 
 因为收益跟随既有优势，学习者侧工作与[[equity-in-ai-education]]密不可分。[[digital-divide]]和付费模型档位的可及性决定了谁得到最强工具；[[bias-mitigation|公平]]关切支配习得模型如何对待不同群体；[[inclusive-learning]]、[[accessibility]]、[[special-education]]与[[neurodiversity]]覆盖需求被默认设计忽视的学习者。这一研究的实践教训是："AI帮助学生"不是一个发现 —— 发现永远是*哪些*学生、在*什么*条件下、带着*什么*先验知识与可及性。两个群体承担了这份风险中独特的一份。[[wright-transcription-not-generation-2026|Wright（2026）]]论证，围绕"[[generative-ai|生成式AI]]"而非围绕功能撰写的禁令，会捕获那些转换学习者已创作作品之格式的转录工具，由此产生的误判最重地落在依赖语音转文字与OCR的残障学习者身上，包括在AI驱动的OCR已取代停产辅助软件之处；[[harerimana-remote-proctoring-nursing-scoping-2026|一项远程监考的范围综述]]就评估条件作出平行的论证，发现连通性、数据费用与设备故障决定了谁根本能被评估 —— 这是一个公平性发现而非技术发现，且集中在中低收入环境。
 
-## 本页的位置
+## 学习者脉络在知识库中的位置
 
-与[[stakeholders]]一起阅读，了解学习者周围的人；与[[pedagogy]]和[[learning-design]]一起阅读，了解教师如何利用这些发现。[[assessment]]决定哪些学习者能力最终变得可见；[[limitations-in-aied-research]]解释了为什么学习者侧证据大多是短期的、自报的、在便利样本上进行的；[[misconceptions]]则是学习者自己通常的入口。
-
-## 常见误解
-
-**“学习者与学生是同一群人。”** 它们在有用的意义上并不能互换：*学生* 命名一种制度角色，*学习者* 命名一种活动，一个人可以是其中之一而不是另一个。[[professional-training|职场培训]] 中的一名雇员是学习者，而不是学生。把两者混为一谈，会把证据基础收窄到有注册记录的人，并悄悄丢掉 [[lifelong-learning|终身学习]] 研究所针对的成年人、从业者与[[self-directed-learning|自主学习]]者。
-
-**“学习者报告 AI 改善了他们的理解，所以它为他们省下了时间。”** 在调查数据里这两个主张是分开的。在关于学习效率的研究中，**92.3%** 的人说 AI 改善了他们的理解，而只有 **38.5%** 的人说它减少了总学习时间。头条数字描述的是感受到的理解，它下面的缺口表明理解改善与时间回收是两个不同的结果，而被广泛重复的“AI 省时间”主张是由较小的那个数字支撑的。
-
-**“学生用 AI 走捷径是一种道德缺陷。”** 知识库把最小努力引力当作设计与政策问题，而不是品格问题：学生用自己的话描述了它，而 [[reducing-ai-misuse|滥用]] 与 [[academic-integrity|诚信]] 文献把杠杆定位在任务与环境设计上。用道德来框定它，无法解释为什么同一个学生在两门课上行为不同。
-
-**“一旦提出不当行为指控，证据就在那里。”** 对 1,162 起生成式 AI 指控的案卷分析，显示了当机构回应到来时学习者实际面对什么，而在文献中，不当行为程序的学生一侧远比使用的学生一侧单薄。一个只记录学习者的使用、而不记录他们如何遭遇指控的页面，只记录了一半的经验。
+学习者脉络应与[[stakeholders]]一起阅读，了解学习者周围的人；与[[pedagogy]]和[[learning-design]]一起阅读，了解教师如何利用这些发现。[[assessment]]决定哪些学习者能力最终变得可见；[[limitations-in-aied-research]]解释了为什么学习者侧证据大多是短期的、自报的、在便利样本上进行的；[[misconceptions]]则是学习者自己通常的入口。
 
 ## 实践意涵
 
@@ -106,6 +100,16 @@ ai_assist:
 
 - 在抽样中把学习者与学生的区分明确写出来，并报告它排除了谁。
 - 既研究被指控者，也研究使用者；程序这一侧是这一文献中较薄的一半。
+
+## 常见误解
+
+**“学习者与学生是同一群人。”** 它们在有用的意义上并不能互换：*学生*命名一种制度角色，*学习者*命名一种活动，一个人可以是其中之一而不是另一个——[[professional-training|职场培训]]中的人是在做这件事，而不是担任这个角色。把两者混为一谈，会把证据基础收窄到有注册记录的人，并悄悄丢掉[[lifelong-learning|终身学习]]研究所针对的成年人、从业者与[[self-directed-learning|自主学习]]者。
+
+**“学习者报告 AI 改善了他们的理解，所以它为他们省下了时间。”** 在调查数据里这两个主张是分开的。在关于学习效率的研究中，**92.3%** 的人说 AI 改善了他们的理解，而只有 **38.5%** 的人说它减少了总学习时间。头条数字描述的是感受到的理解，它下面的缺口表明理解改善与时间回收是两个不同的结果，而被广泛重复的“AI 省时间”主张是由较小的那个数字支撑的。
+
+**“学生用 AI 走捷径是一种道德缺陷。”** 最小努力引力是设计与政策问题，而不是品格问题：学生用自己的话描述了它，而[[reducing-ai-misuse|滥用]]与[[academic-integrity|诚信]]文献把杠杆定位在任务与环境设计上。用道德来框定它，无法解释为什么同一个学生在两门课上行为不同。
+
+**“一旦提出不当行为指控，证据就在那里。”** 案卷显示的立足点更弱：被引用的是评级最弱的证据，没有任何证据底线决定案件是否推进，证据薄弱的案件最终走向申诉。只记录学习者的使用、而不记录他们如何遭遇指控，只覆盖了一半的经验。
 
 ## 关联概念
 

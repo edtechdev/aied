@@ -1,7 +1,7 @@
 ---
 title: 教学智能体
 created: "2026-08-08T11:47:01-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-18T03:14:47-05:00"
 connected_faqs: [ai-agents-support-students-instructors]
 type: concept
 pedagogy: [scaffolding, student-ai-interaction]
@@ -11,13 +11,17 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/pedagogical-agent
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -39,7 +43,7 @@ ai_assist:
 教学智能体是学习系统内的一个互动式AI组件，通过对话、提问或提示让学习者参与，以支持其认知与[[metacognition|元认知]]过程。与被动的[[visualization|仪表盘]]或静态反馈不同，教学智能体采用有证据依据的辅导策略——例如在给出[[feedback]]之前先引出学习者的自我[[assessment|评估]]，或通过苏格拉底式对话来[[scaffolding|支架化]][[problem-solving|问题解决]]。这一总括概念如今涵盖从单个对话式[[intelligent-tutoring|智能导学系统]]，到一群角色专门化的[[agentic-ai|智能体]]——它们讲授、辅导、促进协作，甚至编排课程生成——全部扎根于数十年的智能导学系统[[research-methods-aied|研究]]。
 - **一个角色是调节而非解释的智能体。** Chen 等人（2026）构建了 SSRLAgent，用来诊断一个小组的共享调节状态并据此提示，并在两个条件中保持一个内容支持智能体不变（[[chen-genai-team-moderator-cscl-shared-regulation-2026|Chen 等人，2026]]）。由于两组都有一个智能体与一个结构化平台，增益归属于调节提示中的[[adaptive-learning|适应性]]，而不是一个对话式智能体的在场。
 
-## 知识库中如何研究教学智能体
+## 如何研究教学智能体
 
 - **同伴与辅导者是互动产生的角色，并按社会行为来评判。** [[lin-ai-peer-collaborative-math-learning-2026|Lin 等（2026）]]让七名专家研究者与一个携带大五人格画像和动机调节的适应性智能体一起解一元二次方程，随后访谈他们。当智能体营造出非评判的空间、试探性地推理、表现出恰当的不完美并尊重他们的节奏时，参与者把它读作同伴；当它盲目附和、过早披露答案或固定行进方向时，则读作辅导者——这一转变由控制感而非正确性驱动。一位参与者觉得智能体的错误可爱，另一位则觉得无用，因此像同伴与对同伴有用是两回事，而编造的共享历史（“声称我说过一些我并没说过的话”）比任何错误答案更快地摧毁信任。
 **对话式智能体的设计与架构。** 一条反复出现的线索是智能体如何被组织，而不仅仅是驱动它们的是什么模型。[[conversational-ai-tutors-framework|对话式AI导学框架]]主张，久经验证的ITS [[ai-technologies|技术]]——[[knowledge-tracing]]、情感检测、[[student-modeling|学生建模]]——应当锚定生成式导学系统，保留诊断骨架，同时由[[generative-ai]]提供灵活的对话。多智能体设计把这一点推得更远：[[mooc-to-maic|MAIC]]用[[llm]]驱动的、由教师、助教、同学与分析者智能体组成的课堂，取代[[online-teaching-and-learning|MOOC]]的"一段视频对N个学生"，从而大规模提供[[personalized-learning|个性化学习]]；而[[lecturaagents-multi-agent-teaching|LecturaAgents]]增加了一个[[embodied-learning|具身]]的ProfessorAgent，其TASA算法把可见的[[teacher-role|教学]]动作（书写、高亮）与学习者画像对齐。连亲子辅导也在[[paratutor-parent-child-tutoring|ParaTutor]]中成为一个双智能体问题，其中角色分离的支架让家长保持核心参与，而不被一个通用聊天机器人取代。同样的基于角色的逻辑出现在[[instructional-agents-multi-agent-course-gen|Instructional Agents]]中，由教学 faculty、设计者、助教与项目主席智能体跨ADDIE协作生成课程材料。
@@ -66,6 +70,10 @@ ai_assist:
 **在多轮中压力测试人格的稳健性。** [[adversarial-stress-testing-role-playing-agents|Shouqi等人（2026）]]用自动评委对角色扮演智能体实施了六轮递进的攻击：多策略测试使稳健性相对单策略基线下降0.17–0.20，且关键失败集中于第5–6轮之后，因此短的或单轮的评估会高估人格稳定性与伦理遵循度。
 
 - **一个把"可能出错的建议"当作要点的同伴智能体。** Copa 把带日志上下文的检索与 GPT-4o 及一个含十五个分块的、任务特定的知识库相配对，并以智能体方式总结每个学生片段：它把学生的模型与专家版本相比较，诊断所表达的问题，并指明应检索什么。在一项有 16 名学生与两个焦点小组的课堂研究中，所有参与者都说它的指导支持了问题解决且准确，而且都愿意再次使用它。还有几人要求直接给出答案，有些人则假定某条建议是正确的，直到自己的模型变得更糟。作者把这解读为设计一个促使学习者评价、而非直接作答的智能体所要付出的代价（[[cohn-lc-rag-log-contextualized-retrieval-2025|Cohn 等，2025]]）。
+
+- **一个部署中的探究循环陪伴体，它主动发起而不是等待。**在一项 710 名学生的中学 STEM 部署中，一个 AI 学习陪伴体把学习结构化为五个阶段——投入、假设、实验、分析与反思——按自己的节奏提供指导，并把每一项 LLM 生成的条目都留在教师批准之后（[[anagnostopoulou-ai-companion-stem-self-efficacy-2026|Anagnostopoulou 等，2026]]）。所有结果都是单一时点的自陈，因此这里记录的是设计，而非被证实的有效性。
+
+- Lan 与 Chen（2026）提出把教师撰写的智能体拆分为五个层——教学设计、互动、能力、编排与治理——让每一项教师决策与执行它的机制配对，并规定修订必须回到受影响的层：运行时不能授权对自己的纠正（[[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan 与 Chen，2026]]）。
 
 ## 实践指引
 
@@ -151,3 +159,4 @@ ai_assist:
 - [[teachers-configure-educational-chatbots-2026]] — 它会按预期施教吗？教师如何配置教育性 AI 聊天机器人
 
 - [[agent-type-feedback-style-self-directed-learning-2026]] — 定制智能体提高了反馈质量，但未提高自我调节或结果；增益优势仅在指导性反馈下出现
+- [[anagnostopoulou-ai-companion-stem-self-efficacy-2026]] — AI 辅助 STEM 教育中的自我效能、参与、态度与感知学习

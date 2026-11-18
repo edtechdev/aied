@@ -2,7 +2,7 @@
 connected_resources: [teacherserver]
 title: 自动题目生成
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:12:30-05:00"
 type: concept
 technology: [adaptive-learning, educational-nlp, generative-ai, llm, personalized-learning]
 assessment: [assessment, automated-assessment, automated-question-generation, educational-measurement, formative-assessment]
@@ -10,13 +10,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/automated-question-generation
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-16T09:58:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -34,7 +38,9 @@ ai_assist:
 
 ## 引言
 
-自动题目生成之所以重要，是因为手工创建评估题目成本高昂，而 AI 可以快速、规模化地产出题目。然而，本知识库的研究显示，生成的题目必须在正确性、相关性与难度上经过验证，且不同题型（选择题、简答题、编程题）的可靠生成程度不同。因此 AQG 位于 [[generative-ai|生成式 AI]]、[[educational-nlp|教育 NLP]] 与 [[educational-measurement|教育测量]]的交叉点。
+自动题目生成之所以重要，是因为手工创建评估题目成本高昂，而 AI 可以快速、规模化地产出题目。然而，研究显示，生成的题目必须在正确性、相关性与难度上经过验证，且不同题型（选择题、简答题、编程题）的可靠生成程度不同。因此 AQG 位于 [[generative-ai|生成式 AI]]、[[educational-nlp|教育 NLP]] 与 [[educational-measurement|教育测量]]的交叉点。
+
+一条实际限制：节省比“AI 来写题”要窄。在来自八位牙科教师的 150 组配对题目中，单题定稿时间从 6.0 分钟降到 1.0 分钟——节省 5.1 分钟（95% CI 4.6 至 5.7，d = 3.79）——计时从一份可用草稿开始，不含上传、延迟、失败的生成与被丢弃的草稿（[[islam-human-vs-ai-sba-dental-2026|Islam 等（2026）]]）。被测到的增益是那一遍审阅，因此端到端能省多少，取决于计时器之外还站着什么。
 
 ## 题目生成的方法
 
@@ -64,7 +70,9 @@ AQG 的核心挑战是**质量控制**：
 - **真实考试中的可辨识性，以及审阅究竟去掉了什么：** [[vogt-ai-mcq-recognition-medical-assessment-2026|Vogt 等（2026）]]把 30 道 AI 生成的选择题与 30 道国家执业医师考试选择题放进一场由 119 名五年级 [[medical-education|医学生]]参加的评分平板考试中，AI 题目由 ChatGPT-4o 与 Gemini 1.5 Pro 依据课程自身材料起草，再经一个接受了其中 82%、剔除了 18.2% 为不可用的专家评审组审定。学生对两类题目的来源归因没有差异，题目难度、干扰项分布与感知到的课程对齐在统计上不可区分——这是一个*可辨识性*结果而非质量结果，也是作者把该工作流的益处描述为把教育者的精力从起草转移到审阅、而非消除它的原因。一项探索性差异得以保留：Gemini 题目难于执业考试题目（p = 0.028），而 ChatGPT 题目不然（p = 0.984）。
 - **任务依赖性：** 生成的可靠性因题型而异。[[cong-confidence-asag-2026|简答题评分]]与 [[self-referential-l2-writing-llm-assessment|分析性写作评估]]显示，开放回答与写作类题目比结构化题目更难可靠地生成与评分。
 - **认知质量：** [[llm-educational-question-cognitive-depth|认知深度评估]]显示，除非明确为高阶结果设计，生成的题目可能偏向低阶思维。
-- **自动标注认知层级无法迁移到生成题目。** 一个在精选题库上训练的 Bloom 分类器，在 AI 生成的题目上崩溃——宏 F1 从分布内的 0.88 跌到分布外的 0.48 与 0.20——因为生成题目平均词数远多（18.2 对 9.3），且与精选语料共享的 Bloom 触发动词中位数只有 10.5%，而一组更接近的集合为 35.1%；在带标签的分布外数据上重训练是最大的单项增益，所需阈值约为 N > 1,000 个标注样本（[[bloom-classifier-ai-assisted-questions-2026|Castanares 等，2026）]]。
+
+- **题目写作评分量表先通过，对齐却未必。** 27 道由 GPT-4 生成的化学题目平均满足 22 项二元题目写作标准中的 87.71%，但只有 33.33% 减少了专门化用语、48.15% 平衡了选项长度，而与 Rasch 隐含难度相比，能力层级对齐的完全一致率只有 25.93%（[[rodemer-ai-generated-mcq-chemistry-assessment-2026|Rodemer 等（2026）]]）。真正重要的检查是实证难度，而不是那张清单。
+- **自动标注认知层级无法迁移到生成题目。** 一个在精选题库上训练的 Bloom 分类器，在 AI 生成的题目上崩溃——宏 F1 从分布内的 0.88 跌到分布外的 0.48 与 0.20——因为生成题目平均词数远多（18.2 对 9.3），且与精选语料共享的 Bloom 触发动词中位数只有 10.5%，而一组更接近的集合为 35.1%；在带标签的分布外数据上重训练是最大的单项增益，所需阈值约为 N > 1,000 个标注样本（[[bloom-classifier-ai-assisted-questions-2026|Castanares 等，2026]]）。
 
 ## 在自适应与个性化学习中的作用
 
@@ -137,3 +145,5 @@ AQG 是 [[adaptive-learning|自适应]]与 [[personalized-learning|个性化]]�
 - [[student-llm-use-ai-question-difficulty-data-science-2026]] — 学生对 LLM 的使用与数据科学课程中 AI 生成题目难度的局限
 - [[bloom-classifier-ai-assisted-questions-2026]] — 对新型 AI 辅助教育题目作教学性评估的预训练模型评估
 - [[vogt-ai-mcq-recognition-medical-assessment-2026]] — 学生在一场评分考试中无法区分 AI 生成选择题与执业考试题目，且 18.2% 的生成题目在审阅中被剔除（Vogt 等，2026）
+- [[rodemer-ai-generated-mcq-chemistry-assessment-2026]] — 通过写作评分量表的生成题目仍可能偏离其欲测的能力层级
+- [[islam-human-vs-ai-sba-dental-2026]] — 单题定稿时间从 6.0 分钟降到 1.0 分钟，从可用草稿计起而非端到端

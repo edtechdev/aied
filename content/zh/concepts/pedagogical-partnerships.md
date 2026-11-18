@@ -1,7 +1,7 @@
 ---
 title: 教学伙伴关系
 created: "2026-08-31T09:45:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:54-05:00"
 type: concept
 foundations: [agency, curriculum-design, learning-design, teacher-role]
 pedagogy: [collaborative-learning, pedagogical-partnerships, pedagogy, student-engagement]
@@ -10,13 +10,17 @@ audience: [instructors, learners, instructional designers, administrators]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogical-partnerships
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
-    date: "2026-10-09"
+    date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -39,7 +43,7 @@ ai_assist:
 
 教学伙伴关系挑战"学生不可被信任参与教与学的协作"这一根深蒂固的假设，并主动扰乱传统的以教师为中心的等级结构。它在概念上与 [[collaborative-learning]]、[[agency|学习者主体性]] 和 [[student-engagement|学生参与]] 重叠，但区别在于它把学生置于教育本身的*设计*中心——课程、评估、教学活动、开放教育资源与政策——而不仅仅是在一门预先设计好的课程里做主动参与者。
 
-在 [[generative-ai|生成式 AI]] 时代，教学伙伴关系获得了新的紧迫性。当 AI 放大把学生框定为作弊者或受害者的缺陷叙事时（见 [[ai-misuse-learning-harm]] 与 [[framing-ai-use-for-students]]），伙伴关系提供了一个反叙事：教育者与机构可以让学生作为 AI 政策、工具与实践的共同设计者参与进来，而不是去监管学生或假定滥用。这反映在知识库研究的各处——从学生共同设计课程 AI 政策，到共同创造定制 AI 工具，再到共同构建评估标准。
+在 [[generative-ai|生成式 AI]] 时代，教学伙伴关系获得了新的紧迫性。当 AI 放大把学生框定为作弊者或受害者的缺陷叙事时（见 [[ai-misuse-learning-harm]] 与 [[framing-ai-use-for-students]]），伙伴关系提供了一个反叙事：教育者与机构可以让学生作为 AI 政策、工具与实践的共同设计者参与进来，而不是去监管学生或假定滥用。这反映在研究之中：从学生共同设计课程 AI 政策，到共同创造定制 AI 工具，再到共同构建评估标准。
 
 ## 伙伴关系的形式与范围
 
@@ -54,7 +58,7 @@ ai_assist:
 
 ## 教学伙伴关系与教育中的 AI
 
-教学伙伴关系与 AI 的交汇，是知识库中增长最快的线索之一。关键主题：
+教学伙伴关系与 AI 的交汇，是本领域增长最快的线索之一。关键主题：
 
 - **学生作为 AI 政策的共同设计者。** 不是由机构把 AI 规则强加于学生，伙伴关系把学生定位为课程与机构层面 AI 政策的共同创造者。例如，一项学生共同设计 [[generative-ai]] 课程政策的引导式探究活动，显现出学生在培训、标准化披露、机构支持以及参与决策方面的优先关切（[[guided-inquiry-genai-course-policy-2026]]）。
 - **学生作为 AI 工具的共同创造者。** 在学生即伙伴框架中，学生已共同设计并改进了与教学目标对齐的定制 AI [[conversational-ai|聊天机器人]]——这种方法把 SaP 范式扩展到把 AI 工具本身也纳入，并把学生声音定位为负责任 AI 创新的核心（[[lo-co-creating-custom-gpts-sap-2026]]）。
@@ -94,7 +98,7 @@ ai_assist:
 
 ## 实践启示
 
-对寻求采用教学伙伴关系的教育者与机构，知识库的研究建议：
+对寻求采用教学伙伴关系的教育者与机构，研究建议：
 
 1. **从小处着手并迭代。** 从一个有边界的项目开始——一个参与者有限的试点——并用认可（雇用、学分、证书、发表）回馈参与者的投入。
 2. **在现有基础设施上建设。** [[educational-development|教师发展]]项目、学生雇用关系与跨校区伙伴关系，为适配伙伴关系实践提供了基础。

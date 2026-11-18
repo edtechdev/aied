@@ -1,7 +1,8 @@
 ---
 title: 协作学习
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:42:00-05:00"
+connected_resources: [nowcomment]
 type: concept
 foundations: [ai-education]
 pedagogy: [collaborative-learning, scaffolding]
@@ -11,13 +12,17 @@ audience: [learners]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/collaborative-learning
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -60,6 +65,8 @@ ai_assist:
 
 一项对 18 项研究的[[meta-analysis-systematic-review|范围综述]]在同一小组作业上绘制了同样的权衡：GenAI 既支持了知识发展、想法生成与沟通效率，也降低了对同伴交互、协商与集体意义建构的需求；随机证据发现了更具创新性的 AI 建议，而参与者的总体创新性却没有显著增益（[[wei-perkins-genai-student-collaboration-scoping-2026|Wei 与 Perkins（2026）]]）。
 
+随机证据给了这项关系性代价一个数字。[[nixon-social-cost-ai-teammate-2026|Nixon 等人（2026）]]把 33 个学生团队分配为“两名学生加一名 AI 队友”或“三名学生”；在 AI 团队中，学生相互接续得更少（回应性 g = −0.78），报告的归属感也更低（4.58 对 5.27），而这一下降与 AI 占用了多少发言时间同步。
+
 **角色设计是协作知识建构的*质量*（而非数量）的杠杆。****[[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng 等（2026）]]**在 16 个小组的 58 名[[higher-ed|研究生]]与其 AI 伙伴之间轮换担任主持人、分析者与辩者角色，发现该结构把小组思维导图的*内容*提升了近一个完整 SOLO 层级（M = 3.65 到 4.59，z = 3.771，p < 0.001），而节点与分支数量保持平坦 —— 是组织而非覆盖 —— 代价是协作[[cognitive-offloading|认知负荷]]的温和上升（p = 0.023）。[[network-analysis|滞后序列分析]]增加了一个评价自我转移和一条冲突–辩护路径，这是工具单独所不能产生的，把[[human-ai-collaboration|人机协作]]定位为一个设计问题，而非工具问题。
 
 **GenAI 作为小组中的智能体与空间 —— 模式重要。****[[xu-genai-collaborative-space-2026|Xu 等（2026）]]**观察到，一个团队*如何*接触 GenAI 塑造了协作：在同步工作中使用单一共享界面时，团队共建“集体提示”，运行一个表层–评价–嵌入循环，并把聊天记录当作共享记忆；在异步工作中，私下提示与输出的“去标签化”使[[explainable-ai|透明度]]碎片化，并提高了维持一个共享认知模型的成本。他们的 GenAI 支持协同工作（GSCW）透镜把 GenAI 框定为一个可配置的智能体（从个人助手到团队成员）与一个交互式的协作空间 —— 把接触配置直接连接到与[[icap-framework|ICAP]]相关的互动参与质量。
@@ -97,6 +104,8 @@ ai_assist:
 
 - **示范协作，不只是示范个人。**追踪二人组或小组状态的工具（如[[golrang-propact-pair-programming-2026|ProPACT]]）可以为协作本身搭脚手架，预测并预防失效，而非事后应对。
 
+- **把协作写进评分标准，而不是写进任务说明。** Alam 与 Jackson 重新设计了一个一年级业务分析师模块，让 11 个团队的 23 名学生撰写一篇经过迭代的 1,500 词文章，并至少记录两个阶段，把迭代与协作设为显性的评分标准。他们论证，使过程证据具有承重作用的是分数而非提醒，而协作质量仍须先在课堂上被[[scaffolding|搭脚手架]]，团队才能自行运用（[[alam-process-oriented-collaborative-essays-2026|Alam 与 Jackson，2026]]）。
+
 - **保全认知冲突。**把 AI 结构化为一个浮现分歧与隐含假设的论辩性伙伴，避免“精致成果”的问题 —— AI 抹平了脆弱的认知参与。
 
 - **唱反调的人设有情感代价。**在 97 个三人组中，唱反调的 AI 把话语推向挑战与反思，却降低了团队满意度（ε² = .062）与心理安全感（ε² = .114），且没有提高创作产出（[[jin-emergent-learner-agency-implicit-hai-2026|Jin 等（2026）]]）。
@@ -116,6 +125,10 @@ ai_assist:
 - **为贡献之前的观看/注意而设计。**[[online-teaching-and-learning|在线讨论]]论坛中的协作学习，不只取决于发帖，也取决于发帖之前的阅读。**[[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao 与 Cukurova（2026）]]**表明，LLM 生成的讨论摘要与范例帖子可以充当导航性[[scaffolding|脚手架]]，拓宽学生对同伴贡献的接触，以及建立桥接（弱关系）社会资本的网络条件 —— 这种支持应当补充、而非取代在学业负荷下维持参与的社会–教学法策略。
 
 - **社会一面显示出扰动而无补偿性增益。**在五项协作过程上，一个 30 人专家共识只在脆弱性上达成一致，增强评分低于阈值：社会连接（3.80 对增强 1.90）、社会情感发展（3.60 对 2.00）、社会学习、协作学习与归属感（均为 3.30）（[[genai-support-threaten-learning-k20-expert-consensus-2026|Kendeou、Greene 与 Nixon 等，2026]]）。该报告把这一不对称视为设计目标，因为协作问题解决锚定于一件共享的成果，而协作学习没有可见的参照物，可能不被察觉地侵蚀。
+
+同伴地位是社会性地赢得的。数学能力几乎未进入判断。七名专家研究者各自花了约二十分钟，与一个携带“大五”人格设定、可自适应的大语言模型智能体一起求解一元二次方程，随后在访谈中解释自己的判断。他们几乎完全依据行为来评价它：它营造了不带评判的空间、以试探性而非断言的方式推理、表现出恰当的不完美，并保留了学习者自己的想法。对[[agentic-ai|智能体]]设计而言，这颠倒了通常的优先级 —— 一个以权威姿态呈现的强解题者，无论答案多好，都会削弱协作框架（[[lin-ai-peer-collaborative-math-learning-2026|Lin 等，2026]]）。
+
+- 现在已有针对自适应支持的直接元分析估计：在 80 篇文章报告的 83 项实验与准实验研究（2004–2023）中，为协作活动量身定制的支持汇总为 g = .73，95% CI [.56, .90]，对个体知识最大（g = .93），对情感最小（g = .28）（[[gao-adaptive-support-collaborative-learning-meta-2026|Gao 等，2026]]）。
 
 ## 常见误解
 
@@ -153,6 +166,7 @@ ai_assist:
 
 ## 关联文章
 
+- [[nixon-social-cost-ai-teammate-2026]] — 对关系性代价的随机检验：当 AI 加入团队时，同伴回应性与归属感下降（Nixon 等 2026）
 - [[lin-ai-peer-collaborative-mathematics-2026]] — 什么让一个 LLM 智能体读起来像同伴：安全感、试探性推理、恰当的不完美
 - [[genai-support-threaten-learning-k20-expert-consensus-2026]] — 30 人专家共识发现单侧的社会风险：协作过程脆弱而无增强路径
 - [[chen-pbl-pjbl-genai-meta-analysis-2026]] — 问题式与项目式学习作为生成式 AI 支持教育的有前景框架：来自一项系统综述与三层元分析的新证据
@@ -184,3 +198,4 @@ ai_assist:
 
 - [[wang-genai-metacognitive-prompting-preconceptions-2026]] — 小组的认识配置决定了 AI 的位置：在异质前概念小组中是整合枢纽，在相似小组中是线性的先查询后处理路径，而先备知识相当（Wang 等，2026）
 - [[bjet-many-hands-make-light-work-2026]] — 与多智能体系统配对的二人组产出了最好的项目，而独自工作产生了最大的批判性思维增益
+- [[alam-process-oriented-collaborative-essays-2026]] — 面向过程的协作文章：对迭代与协作计分，并在边界内允许使用 GenAI（Alam 与 Jackson 2026）

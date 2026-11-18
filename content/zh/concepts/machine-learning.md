@@ -4,15 +4,19 @@ type: concept
 technology: [ai-technologies, generative-ai, learning-analytics, machine-learning, student-modeling]
 confidence: medium
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 translation_of: concepts/machine-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 

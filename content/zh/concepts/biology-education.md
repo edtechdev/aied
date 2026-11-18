@@ -1,7 +1,7 @@
 ---
 title: 生物学教育
 created: "2026-08-19T13:10:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:54-05:00"
 type: concept
 foundations: [ai-literacy, critical-thinking, human-ai-collaboration]
 technology: [generative-ai]
@@ -9,7 +9,7 @@ discipline: [biology education, stem education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/biology-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -20,6 +20,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -37,7 +41,7 @@ ai_assist:
 
 ## 引言
 
-关于 AI 的生物学教育研究围绕一个张力聚集：AI 已经彻底革新了生物学的*研究*（AlphaFold、组学、计算生物学），而它在生物学*教育* 中的采用却一直审慎，其间夹杂着对生成式 AI 作弊、错误信息与批判性思维侵蚀的担忧。本知识库的生物学文章共同考察 AI 工具如何充当实验助教、AI 素养如何能被嵌入生物学课程、批判性思维在 AI 时代如何必须被保护，以及专门的 AI 工具如何支持野外工作与物种识别。
+关于 AI 的生物学教育文献围绕一个张力聚集。计算方法已经改变了生物学发现（AlphaFold、组学、计算生物学），而课堂实践则在顾虑生成式 AI 作弊、错误信息与批判性思维侵蚀中审慎前行。这些生物学文献共同考察 AI 工具如何充当实验助教、AI 素养如何能被嵌入生物学课程、批判性思维在 AI 时代如何必须被保护，以及专门的 AI 工具如何支持野外工作与物种识别。
 
 ### 主要研究主题
 
@@ -45,7 +49,7 @@ ai_assist:
 
 **嵌入生物学课程的 AI 素养。** **[[zha-ai-literacy-biology-case-study|Zha 等人]]** 把机器学习与神经网络概念整合进一门高中荣誉生物课，发现 AI 知识有显著增益，且生物学情境支持了 AI 学习——这是把 AI 素养嵌入 [[stem-education]] 而非贬入课外活动的证据。**[[chatgpt-math-biology-challenge-based-learning-2025|Elizondo-García 等人]]** 在生物与数学课程中把 ChatGPT 用于**挑战式学习**，发现学生看重即时性却担心真实性、[[teacher-role|教师]] 被取代，以及技能侵蚀——呼吁更新学术诚信规范与 AI 使用伦理。
 
-**AI 时代的批判性思维。** **[[critical-thinking-biological-sciences-ai-2025|Papaneophytou 与 Nicolaou]]** 主张，随着 AI 塑造生物学研究，**批判性思维**——怀疑、语境理解与伦理推理——必须被刻意培育，且 [[human-in-the-loop-ai|人类监督]] 对验证 AI 输出、防止 [[equity-in-ai-education|偏见]] 仍然不可或缺。这与贯穿知识库的 [[reducing-ai-misuse]] 与 [[cognitive-offloading]] 关切相连。
+**[[critical-thinking-biological-sciences-ai-2025|Papaneophytou 与 Nicolaou]]** 论证，生物学教学必须把**批判性思维**——怀疑、语境理解与伦理推理——当作一项明确的学习目标，因为 [[human-in-the-loop-ai|人类监督]] 对验证 AI 输出、防范 [[equity-in-ai-education|偏见]] 仍然不可或缺。这与更广的 [[reducing-ai-misuse|减少 AI 滥用]] 与 [[cognitive-offloading|认知卸载]] 关切相连。
 
 **准实验中的苏格拉底式 AI 辩论练习用于教师培养。** 一项对 124 名准生物学教师的准实验发现，就社会性科学议题而言，ChatGPT-4 的 [[socratic-method|苏格拉底导师]] 比线下同伴讨论提升了辩论质量（调整后 3.91 对 3.21，F(1,121) = 14.23，p < .001），其中反驳与反证技能的增益最大（[[genai-socratic-tutor-biology-argumentation-2026|Ergasheva 等人，2026]]）。
 

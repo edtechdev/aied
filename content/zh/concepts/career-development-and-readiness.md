@@ -1,20 +1,24 @@
 ---
 title: 职业发展与就绪度
 created: "2026-08-25T07:46:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:03:18-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [anxiety-and-stress, professional-training]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/career-development-and-readiness
-source_updated: "2026-11-05T14:28:00-05:00"
+source_updated: "2026-11-15T09:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -35,7 +39,7 @@ ai_assist:
 
 随着 AI 改造各职业，教育在职业发展中的角色已从授予资格扩展到培养**适应性** —— 在变化中的角色之间穿行、调整并茁壮成长的能力。这一概念把教育连接到可雇佣性，并与[[anxiety-and-stress]]相联：职业适应力更强的学生，经历的 AI 焦虑更少。
 
-## 职业发展与就绪度如何在知识库中出现
+## 职业发展与就绪度在研究中的体现
 
 - **职业适应性减少 AI 焦虑。** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang（2026）]]显示职业适应力显著地负向预测英语专业学生的 AI 焦虑，且核心自我评价部分中介该关系；低适应组的 AI 焦虑最高。[[duan-ai-anxiety-career-decisions-college-2026|Duan 等]]用 SEM 确认该机制：AI 焦虑主要通过被侵蚀的职业适应性损害职业决策（占总效应的 63.35%），而自我效能只提供有限的缓冲。[[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün 与 Danacıoğlu]]补充道，AI 焦虑与负面的 AI 态度预测 1,057 名学生的毕业后求职焦虑，女性、社科专业与二年级受影响最深。[[dag-ai-perceptions-career-anxiety-health-2026|Dağ 等]]把这一结论扩展到健康科学学生（821 人，r = 0.233）。职业就绪因此是经经验验证的、抵御[[anxiety-and-stress|与职业相关的 AI 焦虑]]的缓冲。
 
@@ -51,7 +55,7 @@ ai_assist:
 
 - **免 AI 的招聘关卡不再认证工作所需的东西。** 在对 23 名印度工程专业学生与应届毕业生的访谈中，除一人外都曾用 AI 准备那些排除 AI 的应聘关卡，而毕业生所描述的职场却从第一天起就期望 AI；因此，按信号理论，一份借助 AI 拿到的 CGPA 已不再能按成本区分候选人（[[ai-free-gates-engineering-students-india-2026|Goutham 与 Gu（2026）]]）。
 - **课程政策作为劳动力胜任力决策。** [[mccorkle-aligned-genai-course-policy-2025|McCorkle（2025）]]的设计案例在任务层面把权衡讲明：对学期项目的每一步，教师把一个新兴的[[generative-ai|GenAI]]劳动力胜任力（为设定目标而提示、生成图像、撰写脚本、[[speech-and-voice-technologies|文本转语音]]朗读）与评价一项基础技能的需要相对照，只在该胜任力胜出之处允许 AI —— 这是一种把雇主所看重的工作流技能（[[prompt-engineering]]、[[llm|LLM]]输出的评价）直接构建进现有作业的具体方式，而非另开一门 AI 课。
-- **AI 已在中介职业准备本身。** [[loidl-chatgpt-career-development-2026|Loidl、Cao 与 Huang（2026）]]调查了一所中西部 R1 大学的 102 名本科生，发现约 81% 在过去 12 个月曾为可雇佣性相关活动使用 ChatGPT，以简历（52.94%）、职场沟通（38.24%）与求职信（35.29%）为首，访谈将其读作量身打磨与演练，而非外包；因此职业就绪必须建立在工具已在中介的准备之上，而不只是本页其他地方所述的那些能力。
+- **可雇佣性工作已经经由 ChatGPT 进行。** [[loidl-chatgpt-career-development-2026|Loidl、Cao 与 Huang（2026）]]调查了一所中西部 R1 大学的 102 名本科生，发现约 81% 在过去 12 个月曾为可雇佣性相关活动使用 ChatGPT，以简历（52.94%）、职场沟通（38.24%）与求职信（35.29%）为首，访谈将其读作量身打磨与演练，而非外包；因此职业就绪必须建立在工具已在中介的准备之上，而不只是本页其他地方所述的那些能力。
 
 - **使用方式重组了学生所认定的可雇佣性。** 在一所马德里大学的八个焦点小组（30 名学生）中，ChatGPT 使用者归功于效率、对 AI 建议的筛选与产出打磨，而非使用者归功于审慎、原创性与团队合作——9 次提到团队合作中有 8 次来自非使用者（[[calle-martinez-chatgpt-employability-soft-skills-2026|Calle-Martinez 等 2026]]）。作者把这两条路径命名为受协助的自主与缓慢的创造力，并告诫两者都未被测量。
 
@@ -59,6 +63,7 @@ ai_assist:
 - **教师预期 AI 会取代什么，以及那不是什么。** 在一项面向聚焦 AI 的[[engineering-education|工程]]学系的十次访谈中，教师对生成式 AI 将如何重塑工作意见不一，点名编程、[[writing-education|写作]]与信息工作为近期脆弱的领域，却未为这些预期提供任何劳动力市场证据（[[sadik-ai-ready-engineering-talent-faculty-2026|Sadik（2026）]]）。
 - **劳动力转型。** [[post-covid-ict-career-aspirations|ICT 职业志向]]研究检视学生的职业意向如何随技术变迁而转变。
 - **理论奠基。** [[kim-ai-anxiety-comprehensive-analysis|AI 焦虑综合分析]]把**被 AI 取代的恐惧**认定为 AI 焦虑的主要驱动力 —— 这正是此概念正面处理的职业维度。
+- **LLM 的职业建议带有西方默认。**当被问及十个非洲国家的初级计算岗位需要什么时，六个模型只在 35.4% 的情况下识别出本地生态、语言需求与国家政策，因此技术性建议可以迁移，情境却不行（[[eze-llm-career-guidance-african-computing-2026|Eze、Lunn 与 Berhane，2026]]）。
 
 ## 职业就绪作为保护性与发展性的目标
 
@@ -73,6 +78,10 @@ ai_assist:
 - **“AI 焦虑是一种可以通过安慰消除的一般倾向。”** [[duan-ai-anxiety-career-decisions-college-2026|Duan 等人]]用 SEM 确认，AI 焦虑**主要通过被侵蚀的职业适应性损害职业决策（占总效应的 63.35%）**。机制是具体的：焦虑通过移除适应的能力起作用，因此针对感受的安慰错过了承载效应的中介变量。
 - **“职业适应性是一种次于技术胜任力的软技能。”** [[wang-career-adapt-abilities-ai-anxiety-english-2026|Wang（2026）]]显示职业适应性**减少 AI 焦虑**，这使它成为一个上游干预而非下游结果。建构适应性处理的是机制；把它当作可有可无之物，会让中介变量原封不动。
 - **“关于 AI 的焦虑是均匀分布的。”** [[ustun-ai-anxiety-job-finding-anxiety-2026|Üstün 与 Danacıoğlu]]发现，AI 焦虑与负面的 AI 态度在 **1,057 名学生**中预测毕业后的求职焦虑，且**女性与社科学生**的模式不同。一个统一的干预会误配支持。
+
+一个项目层面的框架把机构层面的步骤讲明了，尽管它尚未作为项目被评估。[[nyale-ai-integrated-workplaces-digital-capability-2026|Nyale（2026）]]提出六个阶段：感知、利益相关者验证、项目诊断、课程重设计、实施与能力，以及结果审视。每个阶段都带有明确的决策权与可问责的产出，而 AI 被限制在四项有界的支持功能之内：跨劳动力市场信息的模式识别、胜任力映射、为人工评估生成课程选项，以及实施指标的监测。其价值在于，它点明了职业就绪战略通常留作隐含的那些治理步骤。
+
+一项对 1,445 名中国大学生的调查勾出了一条从有用性信念经由 AI 使用通往职业探索的路径。生成式 AI 的被感知有用性以 β = 0.569 预测使用，而职业自我效能仅以 β = 0.082 预测使用。使用随后以 β = 0.423 与职业探索行为相关联，自我效能仍是探索本身最强的认知预测因素（β = 0.285），该模型解释了探索中 50.5% 的方差（[[lu-career-cognitions-genai-exploration-2026|Lü 等人（2026）]]）。这些间接路径是统计性的、横断面的，而非纵向的。
 
 ## 关联概念
 
@@ -107,3 +116,5 @@ ai_assist:
 - [[ai-attitude-latent-profiles-career-development-2026]] — 四种 AI 态度画像：职业塑造与可雇佣性追随投入度，而非焦虑
 - [[sadik-ai-ready-engineering-talent-faculty-2026]] — 教师的预测是关于就业的预测，而不是证据
 - [[kong-ai-employability-cognitive-engagement-2026]] —— 一篇叙事综述从 AI 支持的学习到可雇佣性的构念地图
+- [[nyale-ai-integrated-workplaces-digital-capability-2026]] — 一个六阶段、尚未评估的过程框架，用于让项目与 AI 时代的劳动力市场对齐
+- [[lu-career-cognitions-genai-exploration-2026]] — 1,445 名中国学生：AI 有用性、使用与职业探索在同一个横断面模型中

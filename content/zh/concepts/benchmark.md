@@ -1,7 +1,7 @@
 ---
 title: 基准
 created: "2026-08-09T16:52:03-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-18T03:07:30-05:00"
 type: concept
 technology: [generative-ai, llm]
 assessment: [assessment]
@@ -10,13 +10,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation, benchmark]
 translation_of: concepts/benchmark
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-17T08:35:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -27,14 +31,14 @@ ai_assist:
 ## 值得思考的问题
 
 - 基准是测量 AI 模型在教育任务上表现的标准化测试套件。阅读之前，你认为多数 AI 基准实际测的是什么——而它为何可能与一个好导师所需要的东西不同？
-- 本页重点介绍一个测试教学知识——[[teacher-role|教学]]策略、考核方法、特殊教育教学法——而非内容知识的教学法基准。为何一个把学科掌握得极好的 AI 仍可能教不好它，而一个忽视教学法的基准为何会漏掉这一点？
+- 一个教学法基准测试的是教学知识——[[teacher-role|教学]]策略、考核方法、特殊教育教学法——而非内容知识。为何一个把学科掌握得极好的 AI 仍可能教不好它，而一个忽视教学法的基准为何会漏掉这一点？
 - 这里有一条 [[research-methods-aied|方法论]]教训：你如何验证一个基准，会剧烈改变结果，朴素的验证所报告的表现远高于严谨的、试验独立的方法。模型开发者或厂商可能如何被诱惑去把验证设计得好看，而你又如何识破？
 - 基准表现常常不能迁移到真实世界的效用。你能想出一种 AI"赢"了基准却在真实课堂失败的情形吗——而这道落差告诉你，单靠基准分数有什么局限？
-- 本页指出，基准设计本身可以编码或放大偏见。如果一个基准由某些任务、某些语言、来自某些人群构成，它最终测量的是谁的学习——又忽略了谁的？
+- 基准设计本身可以编码或放大偏见。如果一个基准由某些任务、某些语言、来自某些人群构成，它最终测量的是谁的学习——又忽略了谁的？
 
 ## 引言
 
-基准是 [[ai-education|AI 教育研究]]的证据基础。它们提供标准化的数据集、任务与指标，使研究者能比较模型、追踪进展、识别失效模式。在知识库的研究中，基准出现在多个领域：
+基准是 [[ai-education|AI 教育研究]]的证据基础。它们提供标准化的数据集、任务与指标，使研究者能比较模型、追踪进展、识别失效模式。在研究中，基准出现在多个领域：
 - **[[cstutorbench-slm-tutors|CSTutorBench]]** 评估用于 CS 辅导任务的小型语言模型。
 - **[[anvil-ai-educational-animations|ANVIL]]** 把 AI 生成的教育动画与人类制作的替代物做基准比较。
 - **[[teaching-feedback-classification-benchmark|教学反馈基准]]** 评估 [[ai-feedback-quality|反馈质量]]分类的跨语言迁移。
@@ -45,7 +49,7 @@ ai_assist:
 
 - **学习者适配作为一条显式的基准判据。** Teaching Monster Challenge 为适配一个指定的学习者画像打分，但其自动 LLM 评判只分离出一条弱尾——顶层系统得分接近其上限，且其排名与人群偏好不一致（Spearman ρ = −0.17）（[[teaching-monster-pck-benchmark-2026|Lin et al.（2026）]]）。
 
-### 基准在 AIED 中为何重要
+## 基准在 AIED 中为何重要
 
 基准与 [[ai-ed-evaluation]] 和 [[assessment-validity]] 相连——没有严谨的基准，关于 [[intelligent-tutoring|AI 辅导]]有效性的主张就不可验证。它们还与 [[bias-mitigation]] 相交，因为基准设计可以编码或放大偏见。基准表现与真实世界效用之间的张力在多篇文章中被探讨，连接到 [[generative-ai]] 应用中的 [[transfer-of-learning]] 关切。
 
@@ -72,6 +76,20 @@ ai_assist:
 - **把模型能力报告为一个校准过的水平，而不仅是准确率。** [[standardized-assessment-llm-english-proficiency-2026|Min et al.（2026）]]把 624 个专家标注条目映射到具名熟练度水平上，使用 2,050 条学习者回答，发现前沿模型超出校准后的天花板——一个百分比会隐藏的限度。
 
 - **一条评分规则可以被它所训练的模型钻空子。** 一个通过重复同一个最佳决策来最大化的[[adaptive-learning|适配性]]指标显示，基准设计应公布 argmax、把适配性作为差值评分，并报告高于随机的基线（[[llm-tutor-pedagogical-metric-degradation-2026|Domínguez Figaredo 与 Fernández De la Cruz, 2026]]）。
+
+匹配规则是测量本身的一部分，而且它的影响并非边际性的。[[nkrumah-ai-skill-extraction-engineering-2026|Nkrumah 及其同事（2026）]]把 11 种配置——嵌入模型、[[generative-ai|生成式]] LLM 方案与一个 ReAct 智能体——对照一个经 ESCO 标注、含 1,696 项金标技能的 926 份招聘样本基准打分，然后通过一条八层匹配流水线重新打分。这条流水线从精确字符串匹配一直延伸到 0.85 的嵌入相似度阈值，在全部 11 种配置上，测得的召回率提升了 11 到 72 个百分点。最大的跃升为 70.9 个百分点，出现在带思维链的 Gemini 2.5 Pro 上——它的描述在语义上匹配金标标签，却极少在字面上匹配，作者把这一摆动解读为证据：精确匹配评估所测的，格式与能力各占相当。
+
+## 基准都在哪里
+
+基准并不总是一篇论文。如今有三个界面承载了大部分实际阅读，而它们在让读者能核查什么上各不相同。
+
+排行榜把一个基准变成一场持续的比较。[GradeBench](/resources/gradebench/) 以 45 门大学课程的 464 份手写 STEM 作答为对象，对照教师实际选用的评分细则题项给前沿模型打分，最佳模型达到 57.3% 的细则精确匹配。成本轴比排名更重要：一个落后 0.8 分的模型，每千份作答的成本约为其七分之一。它测量的是评分，而不是学习。
+
+检测器排行榜回答的是另一个问题。[RAID 排行榜](/resources/raid-benchmark-leaderboard/) 跨领域、解码设置与对抗攻击给检测模型打分，而在 1% 假阳性率下的真阳性率才是机构规模下真正重要的那一列——在那里，1% 就是几百名学生。
+
+有些基准的存在是为了比较可及性而非能力。[Fab AI](/resources/fab-ai-benchmark-leaderboard/) 从教学法、基础读写、SEND 与视觉推理四个方面评估面向中低收入国家教育的模型，并在分数旁列出价格、参数量与开放权重栏目。这一分布——前沿模型在九十几的低段，低于 20 亿参数的开放模型在 21% 到 43% 之间——把部署上的取舍摆得明明白白。
+
+这一区分值得保留。排行榜分数是关于一个固定题目集合的主张，而从来不是关于一间教室的主张，而这三种工具对教育测量究竟为了什么并不一致。
 
 ## 常见误解
 
@@ -114,3 +132,4 @@ ai_assist:
 - [[bloom-classifier-ai-assisted-questions-2026]] — 预训练模型对新型 AI 辅助教育题的教学性评估之评估
 - [[llm-benchmark-secondary-science-topics-2026]] — 一个用于 LLM 理解中学科学主题的基准
 - [[llm-tutor-pedagogical-metric-degradation-2026]] — 面向 AI 导师基准的八项设计原则，源自一个被优化成重复的指标（Domínguez Figaredo & Fernández De la Cruz 2026）
+- [[nkrumah-ai-skill-extraction-engineering-2026]] — 比较面向工程教育的自动化技能抽取方法：从嵌入到智能体系统

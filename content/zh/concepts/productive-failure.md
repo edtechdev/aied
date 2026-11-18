@@ -1,7 +1,7 @@
 ---
 title: 生产性失败
 created: "2026-08-23T08:25:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:30-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, inquiry-based-learning, learning-theories, metacognition, problem-based-learning, scaffolding]
@@ -9,13 +9,17 @@ technology: [generative-ai, learning-analytics]
 assessment: [feedback, learning-gains]
 confidence: high
 translation_of: concepts/productive-failure
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -53,6 +57,8 @@ PF 框架已通过若干相关设计得到扩展，包括**替代性失败（vic
 ### 从错误中学习
 含错加工能辅助保持与概念转变，尤其在学习者有机会反思并重组其理解时（Kapur, 2008; Schwartz & Martin, 2004）。在 AI 时代，这落实于学习者诊断并纠正自己的错误而非接受直接纠正的系统——例如[[lukesova-clue-before-correction-2026|线索先于纠正]]的任务，其中 AI 给出引导性提示、学习者推断出正确解法，降低认知负荷并支持自主修订。精细加工式反馈产生的[[learning-gains|学习增益]]显著高于仅做核实的反馈（Hattie & Timperley），且反馈的时机很要紧。
 
+**错误本身就是那次受控 AI 辅助编程任务里的课程内容。** [[shen-ai-skill-formation-2026|Shen 与 Tamkin（2026）]]让开发者在一个 GPT-4o 助手的有无条件下学习一个新的 Python 库，无助手组遇到的错误中位数为三次，有助手组为一次（Q1–Q3：2.0–5.0 对 0.0–3.0）。助手消去的正是那些迫使学习者理解协程的库特定错误，例如未被 await 的协程，或把协程对象传到了本该传函数的位置。随后无助手组在一次没有 AI 参与的测验中得分高出 17%，差距在调试上最大、在阅读代码上最小，而把生成的代码重打一遍而不是粘贴，并没有弥补其中任何一点。作者把独立的错误解决读作机制，但他们测量的是关联，而非中介。
+
 ### 失误与错误之别
 一个有用的区分：**失误**通常是失手或过失（常因粗心或负荷过重），其诊断价值有限，而**错误**反映真正的误解或有缺陷的推理，是更有生产性的学习材料，因为它揭示了一个可被处理的误解。错误分析——识别一个答案*为什么*错——是"从错误中学习"的核心，也是一项关键的[[pedagogy|教学法]]技能（以及[[ai-feedback-quality|AI 反馈]]设计的一个目标）。
 
@@ -61,7 +67,7 @@ PF 框架已通过若干相关设计得到扩展，包括**替代性失败（vic
 
 ## 生产性失败与教育中的 AI
 
-本知识库[[research-methods-aied|研究]]中的一个主要主题，是 AI 的有用性与生产性挣扎的保全之间的张力：
+[[research-methods-aied|研究]]中的一个主要主题，是 AI 的有用性与生产性挣扎的保全之间的张力：
 
 - **风险：AI 抹除挣扎。** 过于"有用"、神谕式的 AI 直接提供答案，可以消除图式建构所需的生产性挣扎，造成[[wang-safety-gap-productive-struggle-2026|Wang 与 Shan（2026）]]所称的**安全差距**——学生的 AI 协助表现与其内在的、无协助的能力之间的偏离。这与[[cognitive-offloading|认知卸载]]相关：替代努力的 AI 会侵蚀教育本要建立的那些能力。
 - **设计回应：为挣扎搭建脚手架的 AI。** [[kim-ai-productive-failure-adult-2026|Kim 等（2026）]]为支持基于生产性失败的学习的 AI 推导出五条设计原则（[[human-ai-collaboration|人机协作]]、[[usability-research|可用性]]、反思式设计、情感设计、开放知识），强调 AI 应当在提供非指示性支持的同时保全挣扎。[[puech-pedagogical-steering-llm-productive-failure-2025|Puech 等（2025）]]显示[[llm|大语言模型]]辅导系统可以被*引导*遵循生产性失败教学法（保留解法、诱发多次尝试），代价是被感知的有用性下降。CoMeT（Hou et al. 2026）为这一代价定价并定位了中间地带：其渐进升级的辅导系统比"按请求作答"的辅导系统高 0.42 个量表点的挫败感（p < .001），而比"只问问题"的那个低 0.29（p = .011），其会话中检测到苦恼的比例为 8.4%，对比保留答案辅导系统下的 16.0%，且它在 6.1% 的会话中交出了完整答案。一个在明确表示放弃而非在感到沮丧时开启的底线，出自同一设计——没有它，最需要这条要求的学习者会绕过它。
@@ -131,3 +137,4 @@ PF 框架已通过若干相关设计得到扩展，包括**替代性失败（vic
 - [[lukesova-clue-before-correction-2026]] — 线索先于纠正：面向自主学习的 ChatGPT
 - [[pedagogy-ai-mistakes]] — 人工智能错误的教学法
 - [[bassner-performance-learning-dissociation-ai-programming-2026]] — 保留解法避免了挫败代价，却在学生偏好上落败
+- [[shen-ai-skill-formation-2026]] — 无 AI 时错误中位数为 3 次、有 AI 时 1 次，且无辅助测验分数高出 17%（Shen 与 Tamkin 2026）

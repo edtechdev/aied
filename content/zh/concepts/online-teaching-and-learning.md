@@ -1,7 +1,7 @@
 ---
 title: 在线教学与学习
 created: "2026-08-20T04:20:00-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-18T03:15:06-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, learning-design]
 pedagogy: [online-teaching-and-learning, pedagogy]
@@ -11,13 +11,17 @@ confidence: high
 connected_resources: [claw-ed, id-toolbox, liascript]
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/online-teaching-and-learning
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -28,7 +32,7 @@ ai_assist:
 ## 值得思考的问题
 
 - 你可能修过或教过一门在线课程。当实体课堂被移除时，你失去了什么、得到了什么——它又如何改变了教师可以依赖的东西？
-- 本页论证在线教学是一种独特的教学法，而不只是一种交付机制。在线媒介具体在哪些方面改变了哪些教学策略才可能可行或有效？
+- 在线教学是一种独特的教学法，还是只是一种交付机制？在线媒介具体在哪些方面改变了哪些教学策略才可能可行或有效？
 - 一项 [[rct]] 发现，不受约束的 AI 辅助提高了练习表现，却降低了无辅助考试分数，而"提示而非答案"型辅导则消除了伤害。在读下去之前，你能解释为什么给学生答案可能抬高即时表现却侵蚀持久学习吗？
 - 在线评估并不总能区分辅助完成的作业与独立完成的作业。如果检测工具只是一种"局部的、有争议的应对"，那么什么样的替代性评估设计才能揭示真实的理解？
 - 在一个自主进度、基于屏幕的课程中，可感知的"轻松 AI 捷径"的可获得性如何重塑学生的动机？你会设计什么来对抗它？
@@ -62,6 +66,8 @@ ai_assist:
 - **可规模化的对话式辅导。** 基于成熟的 [[intelligent-tutoring]] 技术（[[conversational-ai-tutors-framework|keep/change/center/study 框架]]）构建的 [[conversational-ai]] 辅导者，承诺提供高质量、基于对话的辅导——调动学生的想法、问题与 [[misconceptions]]——远比人类辅导更具可规模化性。
 - **促进与分析。** AI 可以支持 [[collaborative-learning|在线讨论]]与 [[learning-analytics]]，预测参与度，并帮助教师分配注意力。[[hao-peer-exposure-bridging-social-capital-ai-summaries-2026|Hao & Cukurova (2026)]] 补充说，LLM 生成的讨论摘要可以在大型异步论坛中充当导航性 [[scaffolding|支架]]——拓宽学生的同伴接触面和桥接型社会资本的网络条件，而无需学生或教师承担摘要工作量。
 - **面向高风险在线学习者的预警分析。** [[zhang-ml-student-progress-programming-2026|Zhang, Jeffries & Koprinska (2025)]] 表明，对内容交互日志的可解释 [[machine-learning|机器学习]]可预测模块级进度，并在大规模在线 [[cs-education|编程]]课程中于模块截止日期前 7–8 天标记辍学（"未提交"）结果，给在线教师一个具体窗口去 [[teacher-role|干预]]脱离参与的学生，而不是事后才发现失败。
+- 
+**主动外联可以补上异步课程所缺乏的问责。** 在两门大型在线课程中，每周的个性化聊天机器人消息在 2,483 名学生中把 A/B 率提高了四个百分点，且不讲授任何内容，而是通过提醒与辅导转介起作用（[[chatbot-outreach-course-performance-2026|Meyer et al. (2026)]]）。
 - **可负担性与速度。** AI 可以以传统成本的一小部分生成课程材料——MAIC 将 MOOC 课程制作从约 \$25K/60 小时降至不到 \$2/30 分钟。
 
 ## AI 时代在线教学的挑战
@@ -99,7 +105,7 @@ ai_assist:
 
 **将口试搬到线上。** [[asynchronous-oral-assessment-2026|Pentland, Lowenthal and Krier (2026)]] 恰逢其时地提供提示，让学生录制简短、限时的摄像头回答且不可回看，依据嵌入式评分标准评分并自动生成转录。跨两项研究——一门中级会计试点课和一门数据分析课程——学生在这些评估上的得分高于面对面选择题考试（第二项研究显著，第一项呈正向趋势），中等程度的跨形式相关支持聚合效度；学生报告准备方式不同，并使用了更多主动学习策略。该形式直接解决了异步问题：思考在学生选择的时间实时进行，其管理成本不随班级规模增长。
 
-**对作业排序，使推理先被提交。** [[brcic-effortless-trap-productive-struggle-2026|Brcic and Frljic (2026)]] 把设计问题框定为**位置**而非许可，他们汇总的因果证据显示，结果仅随位置而翻转：那个使高中学生在无辅助考试上差约 **17%** 的不受约束帮手，一旦重建为不给出答案，便不再造成伤害；而一个工程精良的 [[intelligent-tutoring|辅导者]]使学习大致**翻倍**。他们的诊断值得记住：*如果让 AI 进来使任务变得轻松，那它就放错了位置。* 操作上，这给出了一门在线课程可以写进作业的序列——思考、提交、使用 AI、批判、修改、解释——其中提交步骤使其余部分变得可评估，因为从零产出的作业没有可供追问的修改历史。其下坐落着本知识库命名为 [[metacognitively-discordant-completion-genai-2026|元认知不一致的完成]]的状态：理解从未到达，学生却提交了正确、完整的作业，这在异步课程中与成功无从区分，除非设计提出了更高的要求。
+**对作业排序，使推理先被提交。** [[brcic-effortless-trap-productive-struggle-2026|Brcic and Frljic (2026)]] 把设计问题框定为**位置**而非许可，他们汇总的因果证据显示，结果仅随位置而翻转：那个使高中学生在无辅助考试上差约 **17%** 的不受约束帮手，一旦重建为不给出答案，便不再造成伤害；而一个工程精良的 [[intelligent-tutoring|辅导者]]使学习大致**翻倍**。他们的诊断值得记住：*如果让 AI 进来使任务变得轻松，那它就放错了位置。* 操作上，这给出了一门在线课程可以写进作业的序列——思考、提交、使用 AI、批判、修改、解释——其中提交步骤使其余部分变得可评估，因为从零产出的作业没有可供追问的修改历史。其下坐落着文献中称为 [[metacognitively-discordant-completion-genai-2026|元认知不一致的完成]]的状态：理解从未到达，学生却提交了正确、完整的作业，这在异步课程中与成功无从区分，除非设计提出了更高的要求。
 
 无论教师选择何种组合，有一条约束应塑造它。在线学习常常是唯一可及的选项——学生因就业、照护责任、残障或地理而选择它——因此验证必须**小而适度**：一段简短的录述、一个个性化应用、对教师所提问题的回答、一条注释过的决策轨迹、一次低风险的个人检查。检测在此有其公平成本，因为标记非母语写作者的工具会不成比例地产生误报（[[ai-detection]]、[[digital-divide]]）。
 

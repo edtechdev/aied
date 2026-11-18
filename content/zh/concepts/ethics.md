@@ -1,7 +1,7 @@
 ---
 title: 伦理
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-18T03:53:00-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, institutional-ai-policy]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -9,13 +9,17 @@ ethics: [bias-mitigation, equity-in-ai-education, privacy, pedagogical-safety]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/ethics
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-16T05:36:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -87,7 +91,7 @@ ai_assist:
 
 ## 实践中的伦理
 
-知识库的伦理文章从[[theories-and-frameworks|理论框架]]（[[ethical-ai-higher-ed-game-theory|博弈论方法]]）到实践指南（[[cost-of-ethics-crisis-cs-ethics-education|计算机科学伦理教育]]），从[[ai-ethics-education-public-discourse|公共话语分析]]到[[adarkwah-genai-unesco-policy-2026|联合国教科文组织政策框架]]。在这一范围上，一个一致的实践信息浮现：伦理必须从监管误用转向建设[[ai-literacy]]与合乎伦理的使用能力，并以机构指引、教师专业发展，以及保全而非取代学习者判断的设计为支撑。
+伦理文献从[[theories-and-frameworks|理论框架]]（[[ethical-ai-higher-ed-game-theory|博弈论方法]]）到实践指南（[[cost-of-ethics-crisis-cs-ethics-education|计算机科学伦理教育]]），从[[ai-ethics-education-public-discourse|公共话语分析]]到[[adarkwah-genai-unesco-policy-2026|联合国教科文组织政策框架]]。在这一范围上，一个一致的实践信息浮现：伦理必须从监管误用转向建设[[ai-literacy]]与合乎伦理的使用能力，并以机构指引、教师专业发展，以及保全而非取代学习者判断的设计为支撑。
 
 这一实践论证被关于伦理如何在人工智能素养内部运作的经验工作所强化：Zhu 与 Kong（2026）表明，人工智能伦理觉察 — 连同在人工智能[[problem-solving]]中的赋权 — 中介了感知到的[[project-based-learning|基于项目的学习]]与对人工智能素养课程的满意度之间的关系。他们验证过的人工智能 PBLS 量表与结构方程模型结果（1,027 名学生）表明，基于项目的学习创造了学生为关于人工智能的伦理推理建立个人框架的条件，强化了“伦理不是附加物，而是有意义的人工智能素养发展的核心机制”这一论点。
 **被教授之后，它改变的是[[evaluative-judgment|判断]]，而不只是觉察。** 在一项包含十六个完整班级（n = 240）的整群[[rct|随机试验]]中，一个为期四周的信息伦理模块把评分伦理判断提高了 0.35 个量表点（d = 0.75），且该增益的 59.9% 在四周后仍然保留，在 GenAI 使用最重的学生中最大（[[qi-information-ethics-ai-judgment-2026|Qi，2026]]）。
@@ -95,6 +99,8 @@ ai_assist:
 **该机制的符号取决于跟随它的是什么。** 在 584 名其人工智能能力来自自学的本科生中，能力提高了人工智能伦理觉察（β = 0.644，p < .001）。伦理觉察随后提高了[[anxiety-and-stress|人工智能焦虑]]（β = 0.439，p < .001）而非降低它 — 纯间接中介，作者解读为觉察被唤醒却没有应对框架（[[mu-ai-competence-ethical-awareness-anxiety-2026|Mu 等人（2026）]]）。他们对伦理教学的结论是，它不能停在认知层面。一项透明度或隐私关切必须与回应它的治理路径一同到来，这就是他们提出的模块被置于[[legal-education|法律教育]]之内的原因。
 
 伦理觉察、反思性推理与[[self-report-measures|自报的]]负责任实践在很大程度上独立发展。在三年的年度波次中，对 350 名尼日利亚计算[[higher-ed|本科生]]的追踪显示，[[ayanwale-ethical-engagement-ai-growth-modeling-2026|Ayanwale 等人（2026）]]发现三者都大幅上升，然而它们的成长因子近乎不相关，且初始觉察不能预测后续成长。
+
+对伦理程序的信心可以上升，而自我认识停在原处。[[pal-ethically-aware-learning-ai-classroom-2026|Pal、Jones 与 Hoover（2026）]]把 GenAI 引入一门本科领导伦理选修课，把同一个[[case-based-learning|案例]]安排两次——一次无辅助，一次借助 ChatGPT——并分析了约 80 名学生中 38 份配对信心调查。在 0–10 量表上，自评识别伦理困境的能力从 7.24 升到 8.39，作出稳妥且有正当理由的决策的能力从 7.24 升到 8.45，两者均 p < .001，而运用伦理理论解释决策的能力从 5.39 升到 7.08。两项内省条目——识别自身的德性、价值与权利（p = .063），以及解释个人价值如何影响决策（p = .124）——没有变化，这把增益定位在程序性技能上，而非道德自我认识上。
 
 ## 关联
 
@@ -126,6 +132,8 @@ ai_assist:
 - [[civic-and-political-education]]
 
 ## 关联文章
+
+- [[pal-ethically-aware-learning-ai-classroom-2026]] — AI 赋能课堂中的伦理觉察学习
 - [[gillette-partnership-ethics-genai-higher-education-2026]] — 瑞典的调查与焦点小组研究，主张应以伙伴伦理而非作弊框架指导机构的 GenAI 决策
 
 - [[mu-ai-competence-ethical-awareness-anxiety-2026]] — 在没有应对框架可教之处，伦理觉察放大了人工智能焦虑：584 名学生中的纯间接中介

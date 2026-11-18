@@ -12,15 +12,19 @@ level: [higher ed, k 12]
 page_kind: [synthesis]
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning, reducing-over-reliance]
 confidence: high
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-18T03:50:00-05:00"
 translation_of: "concepts/reflection"
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -146,6 +150,7 @@ ai_assist:
 - **只评你能为之辩护的东西。** 具体性、决定的证据、修改的推理，以及对哪里出错的诚实，都是可评的。真诚则不是，而一个流畅的模型可以模仿上述一切的表层。
 - **把产物与某种难以委托的东西配对。** 一场简短的口头答辩、一次现场修改，或一个带有后果的决定 —— Prober 系统的反思关口，以及 Issa 与 Hall 的逐成员核查会议，是两种可行的模式。
 - **留意评分对这个行为本身做了什么。** 当自我反思被评分时，它有变成表演的风险，所以要讲清反思*不*评什么，并至少保留一部分反思不计分。
+- [[this-is-how-we-ai-teaching-guide-2026|Hanshaw、Brewer 与 Hunt（2026）]]把一门课程按 60% 成果、20% 过程记录与 20% 对 AI 使用的反思来加权，于是旅程与目的地一同被评分。
 - **绝不把分数当作思考的证明。** 深度分类器估计的是一段文本读起来有多反思，而这是流畅的第二稿可以制造出来的属性。
 
 ### 维持惯例

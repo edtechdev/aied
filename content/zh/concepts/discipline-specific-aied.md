@@ -1,19 +1,23 @@
 ---
 title: "学科中的 AIED"
 created: "2026-08-16T09:41:18-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:12:40-05:00"
 type: concept
 foundations: [ai-education]
 discipline: [stem education, math education, physics education, cs education, language learning, writing education, medical education, humanities education, business education, design education, information technology, vocational education, nursing education, learning sciences]
 confidence: high
 translation_of: concepts/discipline-specific-aied
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T07:55:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -31,7 +35,7 @@ ai_assist:
 
 ## 引言
 
-教育中的 AI 在各学科间表现不同，因为每个领域有自己的签名教学法 —— 知识被建构、实践与教授的独特方式。在 [[math-education|数学]] 中出彩的 AI 导师可能在 [[humanities-education|人文]] 中失败，那里解释与署名比对错答案更重要。本页是这些学科专用 strand 的总括地图，它们如今从学校科目延伸到专业与应用培训，再到工作室实践。该 strand 中有一个成员根本不是被教的学科：[[learning-sciences|学习科学]] 是环绕教育 AI 的研究领域，提供 AI 系统所操作化的机制以及评判它们的标准 —— 它取横贯视角，与本页的前提（学科内容是改变支持应为何事之物）相对。
+教育中的 AI 在各学科间表现不同，因为每个领域有自己的签名教学法 —— 知识被建构、实践与教授的独特方式。在 [[math-education|数学]] 中出彩的 AI 导师可能在 [[humanities-education|人文]] 中失败，那里解释与署名比对错答案更重要。各学科页面被归入四个集群：[[humanities-education|人文与艺术]]、[[social-sciences-education|社会科学]]、[[stem-education|STEM]]，以及[[professions-education|专业领域]] —— 后者涵盖课程由执照、认证与受督导实践来安排的项目。学科专用 strand 从学校科目经专业培训延伸到工作室实践。该 strand 中有一个成员根本不是被教的学科：[[learning-sciences|学习科学]] 是环绕教育 AI 的研究领域，提供 AI 系统所操作化的机制以及评判它们的标准 —— 它取横贯视角，与本页的前提（学科内容是改变支持应为何事之物）相对。
 
 ## 学科专用概念
 
@@ -54,7 +58,9 @@ ai_assist:
 - **[[design-education|设计教育]]** —— 产品、服务、交互、室内与建筑设计中的工作室式专业形成，其中可见过程是被评估的对象，而生成式工具使抛光的制品变得廉价：它收窄了 [[arts-and-media-education|艺术、设计与媒介教育]] 所覆盖的工作室学科至专业设计管线，于是评论、[[eportfolio|作品集]]与规制（而非材料与表演性实践）承载论证。
 - **[[engineering-education|工程教育]]** —— 专业形成、设计与 [[experiential-learning|动手学习]]、[[ethics|伦理的]] AI 使用、[[embodied-learning|具身的]] 评估，以及工程中的劳动力准备。
 - **[[business-education|商科教育]]** —— 商业、经济与管理教育中的 AI：学生 informed 的生成式 AI 框架、经建构性对齐的 [[curriculum-design|课程]] 整合，以及为 AI 整合的专业实践做准备。
-- **[[humanities-education|人文教育]]** —— 人文与社会科学中的解释性认知、署名与意义建构。
+- **[[humanities-education|人文教育]]** —— 历史、哲学、文学与语言中的解释性认知、署名与意义建构；这是一个集群，[[arts-and-media-education|艺术与媒介]]与[[music-education|音乐]]的页面位于其旁侧而非其内部。
+- **[[social-sciences-education|社会科学教育]]** —— 公民、管理、经济与环境研究：研究作为总体的人们的学科，AI 在其中同时改变方法与制度。
+- **[[professions-education|专业领域教育]]** —— 受执照与认证的项目（医学、护理、法律、教学、设计、图书馆学），其评价必须证明被认证的判断出自候选人本人。
 - **[[k-12|K-12]]** 与 **[[higher-ed|高等教育]]** —— 各层级关于 AI 与借 AI 的教育。
 
 ## 跨学科主题
@@ -68,9 +74,10 @@ ai_assist:
 - **认知卸载与过度依赖。** [[cognitive-offloading|认知卸载]] 与 [[cognitive-offloading|过度依赖]] 风险出现在 [[math-education|数学]]、[[cs-education|计算机科学]] 与 [[writing-education|写作]] 中，尽管被卸载的“认知行为”是学科专用的 —— 计算 对 代码 对 作文。
 - **AI 素养与批判性使用。** [[ai-literacy|AI 素养]]、[[critical-thinking|批判性思维]] 与 [[critical-pedagogy|批判教育学]] 支撑每个学科中的负责任使用。
 - **学科扎根闸控 AI 支持的[[metacognition|元认知]]。** 在一个文本语言学研讨课上，新手主要在与大语言模型的反思发生在学科知识已巩固之处，且多数把糟糕的产出归因于模型而非自己的提示 —— 证据表明[[prompt-engineering|提示设计]]必须在学科内被显式教授（[[llms-text-linguistics-teaching-2026|Brocca & Garassino（2026）]]）。
+- 学科也会让测量工具失灵。一个由化学语料训练的 SRL 检测器在德语转写文本上保持了约 0.8 的 AUC，但在逻辑学文本上降到约 0.6，因为模型把“cancel”按其日常含义而非领域含义来解析（[[borchers-srl-language-generalization-2025|Borchers 等，2025]]）。
 - **公平与接入。** [[equity-in-ai-education|AI 教育中的公平]]、[[digital-divide|数字鸿沟]] 与 [[culturally-relevant-pedagogy|文化相关教学法]] 与所有学科相关。
 
-## 各学科独有 的教学法、方法与理论
+## 各学科独有的教学法、方法与理论
 
 每个学科带来 AI 研究所介入的独特 [[pedagogy|教学性]] 传统：
 
@@ -81,11 +88,22 @@ ai_assist:
 - **写作** —— 面向过程的、递归的起草与修改。AI 研究横跨 [[coach-not-crutch-ai-writing|AI 作为写作教练]]、自动评分，以及基于阶段的归属（[[ai-writing-support-stage-ownership-2026|归属阶段]]）。
 - **英语教育（EAP/EFL/ESL）** —— 以英语为目标语与学术语域。AI 研究横跨伦理的 EAP 整合（[[alharbi-ethical-genai-eap-2026|Alharbi 等人]]）、生成式 AI 的 EAP 写作修改（[[feedback-literacy-scripts-eap-writing|反馈素养脚本]]）、EAP 阅读材料改编（[[genai-differentiated-eap-reading-materials-2026|差异化 EAP 材料]]）、ESL 辅导（[[tact-pedagogically-adaptive-esl-tutoring|TACT]]）与英语专用评估（[[self-referential-l2-writing-llm-assessment|自指的 L2 写作评估]]、[[ai-vs-human-assessment-efl-tpck-2026|EFL 评估]]）。
 - **教师教育** —— 一门其 AI 研究聚焦于让教师准备好整合 AI 的学科：智能 TPACK 框架（[[designing-ai-professional-development-itpack-2026|i-TPACK 专业发展]]）、教师 AI 素养（[[science-educators-ai-literacy-postqualification-2026|科学教育者]]）、职前准备度（[[conceptualizing-preservice-teachers-ai-readiness-2026|智能 TPACK 准备度]]）与在职信任及伦理（[[intelligent-tpack-ethics-teachers-trust-distrust-2026|信任与伦理]]）。
-- **人文与社会科学** —— 解释、署名与批判性意义建构。AI 研究把解释性认知（[[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]）与 [[philosophy-of-ai-in-education|AI 哲学]] 置于前台，而非为正确性而辅导。
+- **人文** —— 解释、署名与批判性意义建构。AI 研究把解释性认知（[[voicu-ai-interpretive-cognition-ssh-2026|Voicu]]）与 [[philosophy-of-ai-in-education|AI 哲学]] 置于前台，而非为正确性而辅导；而该行业的审计把 58.6% 的艺术与人文评价条目列入高暴露区间。
+- **社会科学** —— 关于人口、机构与市场的主张，通过调查、模型与比较来辩护。公民文献显示了特征性的失败：310 份 AI 生成的教案对 53 项标准，其中 90% 落在低阶目标上。心理学如今有了自己的页面 [[psychology-education|心理学教育]]，因为它的课程层面工作远多于集群其余部分；社会学则以五项研究留在集群之内。
 
 ## 本知识库所代表的学科
 
-本知识库最强的学科专用覆盖在广义的 **[[stem-education|STEM]]** 领域，特别是 **[[math-education|数学教育]]**、**[[physics-education|物理教育]]**、**[[chemistry-education|化学教育]]**、**[[biology-education|生物教育]]** 与 **[[cs-education|计算机科学教育]]**；其次是 **[[statistics-and-data-science-education|统计与数据科学教育]]**，这条 strand 与数学不同，因为它的标志性教学法是数据探究，而不是朝一个既定答案推理。这条 strand 自身的设计问题有一例：[[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] 用智能体流水线生成与情境匹配的合成数据集，这解决的是统计课程所需的材料，而不是对材料的解释；而按作者自己的说法，它无法教授数据收集、测量或[[research-methods-aied|研究设计]]。再次是 **[[writing-education|写作教育]]**、**[[language-learning|语言学习]]**（含一条独立的 **[[english-education|英语教育]]** 脉络，面向 EAP/EFL/ESL），以及较近期的 **[[engineering-education|工程教育]]**、**[[teacher-education|教师教育]]**（有大量职前与在职 AI 培训研究）、**[[medical-education|医学教育]]** 与 **[[humanities-education|人文教育]]**。工程与设计也有不断增长的文章体量。这种集中度追踪着更广的文献：[[xia-ai-interdisciplinary-higher-education-review-2026|Xia 等（2026）]]的综述发现，STEM 是 AI 支持的高等教育中最常见的跨学科形式（n = 26），远超非 STEM 领域（n = 10）与 STEAM（n = 2）。这是一个学科层面的告诫：教育 AI 的证据在计算工具最易嵌入之处积累最快，而不一定在 AI 的教学价值最大之处。最新的补充把这一 strand 从学科科目拓宽进专业与应用教育：[[nursing-education|护理]]、[[information-technology|信息技术]] 与 [[vocational-education|职业教育与培训]]。那里学习者被按已演示的实践（而非正确性）评估，且定义何谓能力的是雇主与执照机构，而不只是学界。
+覆盖在四个集群之间分布得极不均衡，而这种不均衡的形态正是本节的要点。
+
+**STEM 远为最密集。**[[math-education|数学]]、[[physics-education|物理]]、[[chemistry-education|化学]]、[[biology-education|生物]]与[[cs-education|计算机科学]]各有自己的页面与数十项研究，[[statistics-and-data-science-education|统计与数据科学]]则是一条独立 strand，其标志性教学法是数据探究，而不是朝一个既定答案推理。这条 strand 自身的设计问题有一例：[[arthur-dagflow-agentic-synthetic-data-statistics-2026|DagFlow-AI]] 用智能体流水线生成与情境匹配的合成数据集 —— 它提供的是统计课程所需的材料，而不是对材料的解释，而按作者自己的说法，它无法教授数据收集、测量或[[research-methods-aied|研究设计]]。[[engineering-education|工程教育]]与[[science-education|科学教育]]补全该集群。
+
+**人文与艺术的深度在单项研究而非体量。**[[humanities-education|人文教育]]、[[writing-education|写作教育]]、[[language-learning|语言学习]]及其独立的[[english-education|英语教育]]脉络、[[arts-and-media-education|艺术与媒介教育]]与[[music-education|音乐教育]]都有页面，但它们的大部分证据只有一门课程或一间工作室。尽管如此，这一集群的[[assessment-validity|效度]]问题测得比任何其他集群都更精确：一项对 15,587 条艺术与人文单元记录的审计发现，58.6% 的评价条目处于高暴露状态。
+
+**社会科学相对于其分量是最薄的。**[[business-education|商科教育]]承载三者中最大的文献，[[civic-and-political-education|公民与政治教育]]描述了一个民主问题却没有任何一项被测量的公民结果，而[[environmental-education|环境教育]]一分为二：AI 既是教学辅助，又是能源成本。
+
+**专业领域覆盖良好却最少整合。**[[medical-education|医学教育]]（以[[nursing-education|护理]]为其被研究最多的项目）、[[teacher-education|教师教育]]与[[legal-education|法律教育]]都有可观的文献，[[information-technology|信息技术]]、[[libraries|图书馆学]]与[[vocational-education|职业教育]]把这条 strand 延伸到实践。它们的共同问题 —— 被认证的判断是否出自候选人本人 —— 很少跨项目被提出，而这正是[[professions-education|专业领域教育]]存在的目的。
+
+这种集中度追踪着更广的文献：[[xia-ai-interdisciplinary-higher-education-review-2026|Xia 等（2026）]]的综述发现，STEM 是 AI 支持的高等教育中最常见的跨学科形式（n = 26），远超非 STEM 领域（n = 10）与 STEAM（n = 2）。这是一个学科层面的告诫：教育 AI 的证据在计算工具最易嵌入之处积累最快，而不一定在 AI 的教学价值最大之处。
 
 职业教育 strand 是那份证据中最薄的：一项对职业教育与培训 26 项研究的系统综述发现，尽管职业教育与培训以工作为本，却无一项在工作场所情境中进行，只有五项随机实验，只有三项设计赋予学习者主动角色（[[ai-vocational-education-training-review|Deutscher 等人（2026）]]）。
 
@@ -96,7 +114,8 @@ ai_assist:
 - **法律与[[legal-education|法律教育]]** —— 覆盖极少：[[llm-turing-test-italian-legal-exams-2026|大语言模型与意大利法律考试]]。
 - **心理学与咨询** —— 少有几篇 AI 教育文章：[[hawkins-feedback-literacy-ai-essay-writing|AI 反馈素养]]、[[critical-genai-use-predictors|批判性生成式 AI 使用]]、[[adaptive-virtual-patient-psychotherapy-training|虚拟病人心理治疗培训]]。
 - **历史** —— 只有零星文章：[[paternalistic-filter-llm-history-education|大语言模型与历史推理]]。
-- **艺术（视觉艺术、设计、音乐）** —— 新兴覆盖：[[ai-interior-design-malaysia-2026|室内设计教育中的 AI]]、[[genai-architectural-design-studios|建筑设计工作室中的生成式 AI]]、[[ai-vocal-pedagogy-2026|AI 声乐教学法]]、[[musical-education-ai-digital-transformation-2026|音乐教育中的 AI]]、[[t2i-competence-paradox-2026|文生图能力悖论]]。这份清单中的设计侧研究如今有了自己的家：[[design-education|设计教育]] 把建筑、室内设计与文生图的工作室研究吸纳进一个关于专业设计形成的页面，留下视觉艺术、音乐与表演作为稀薄的剩余部分。
+- **体育教育** —— 迄今一项质性研究：16 名大学教师描述了一种*具身学科性的排斥效应*，主张 AI 无法提供身体纠正或默会知识，并报告院系的 AI 设备流向精英队伍而非普通班级（[[yang-pe-teachers-ai-perceptions-2026|Yang、Chen 与 Rao，2026]]）。
+- **艺术（视觉艺术、设计、音乐、表演）** —— 新兴覆盖，如今按归属分拣：[[design-education|设计教育]]接手建筑、室内设计与文生图的工作室研究；[[music-education|音乐教育]]接手表演、听觉技能与录制音乐的经济学；[[arts-and-media-education|艺术与媒介教育]]保留视觉艺术、数字媒介与舞台技术，那里的证据最稀薄。
 
 这些代表性不足的学科将受益于专门的概念页与随知识库增长而追加的文章纳入。
 
@@ -134,6 +153,7 @@ ai_assist:
 - [[vocational-education]]
 
 ## 关联文章
+- [[yang-pe-teachers-ai-perceptions-2026]] — 16 名大学体育教师：具身学科性作为障碍，以及 AI 设备被分配给精英队伍（Yang、Chen 与 Rao，2026）
 - [[xia-ai-interdisciplinary-higher-education-review-2026]] — AI 在跨学科高等教育中的系统综述（59 项研究）
 - [[llms-text-linguistics-teaching-2026]] — 文本语言学教学中的大语言模型
 - [[fowlin-operationalizing-learning-principles-ai]] — 在健康专业教育中以 AI 操作化学习原则

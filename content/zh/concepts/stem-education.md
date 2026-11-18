@@ -1,7 +1,7 @@
 ---
 title: STEM 教育
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:15:06-05:00"
 type: concept
 foundations: [computational-thinking]
 technology: [intelligent-tutoring]
@@ -11,13 +11,17 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [teacher-dev]
 translation_of: concepts/stem-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:45:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -28,7 +32,7 @@ ai_assist:
 ## 值得思考的问题
 
 - STEM 是 AI 教育研究最常见的领域，因为它的知识结构化、有清晰的对错答案。你认为这让 STEM 成为最容易用 AI 教的地方——还是可能成为 AI 的局限最容易被掩盖的地方？
-- 本页引用的研究表明，学校里 AI 的采用"按学科分层"——在计算机科学中被常态化，在数学中被严令禁止。你认为为什么学科文化对 AI 的接受度塑造得如此之强，这对学生又有何后果？
+- 学校里 AI 的采用"按学科分层"——在计算机科学中被常态化，在数学中被严令禁止。你认为为什么学科文化对 AI 的接受度塑造得如此之强，这对学生又有何后果？
 - 如果一个数学学生主要用 AI 来核对解答、获得解释，那是支架还是拐杖？是什么决定了区别？你会把界线画在哪里？
 - 鉴于 STEM 问题往往有可验证的答案，你认为 STEM 中哪些 AI 用法真正建立理解，哪些只是产出看似正确的输出？
 - 那些使 STEM 成为 AI 辅导理想领域的特质——清晰的答案、可计算的正确性——又如何可能贬低了科学与工程中那些混乱、开放、依赖判断的部分？
@@ -36,6 +40,8 @@ ai_assist:
 ## 引言
 
 ### STEM 作为 AIED 的首要领域
+
+学科板块把学科页面归为四个集群——[[humanities-education|人文与艺术]]、[[social-sciences-education|社会科学]]、STEM，以及[[professions-education|专业教育]]——而 STEM 是其中最大的一支，且遥遥领先，这件事本身就是一项关于 AI 教育证据在何处累积的发现。
 
 - **数学：** [[math-education|数学教育]]研究横跨 [[generative-ai-reduced-study-time-math|GenAI 对数学学习的影响]]、[[ai-powered-personalized-learning-elementary-fractions-2026|小学分数辅导]]与 [[student-math-competence-clustering|胜任力聚类]]。
 - **数学 ITS 的证据是有界且有条件的。**一项对 20 篇出版物（2020 年至 2026 年 4 月）的结构化叙事综述发现，最清晰的已测量优势出现在叠加在同一自适应系统上的实时诊断[[feedback|反馈]]，但其结论是：只有当有效的[[student-modeling|学习者建模]]、校准过的支架与教师中介结合起来时，智能辅导才支持数学学习，而可扩展性是技术性的，不是教育性的（[[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin 等（2026）]]）。

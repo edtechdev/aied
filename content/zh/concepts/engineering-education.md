@@ -1,7 +1,7 @@
 ---
 title: 工程教育
 created: "2026-08-17T10:45:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:15:06-05:00"
 type: concept
 foundations: [ai-literacy, educational-development]
 assessment: [assessment]
@@ -12,7 +12,7 @@ audience: [learners, instructors, faculty developers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/engineering-education
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -20,11 +20,15 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
+    agent: hermes-agent
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **工程教育** —— 研究学生如何学习工程以及如何有效地教工程的领域，涵盖 AI 如何改变工程教学、评估、教师发展与工程劳动力。本知识库中的工程教育文章聚成若干主题：教师用来理解 AI 的[[engineering-faculty-metaphors-ai-understanding-2026|比喻语言]]，AI 使用的[[ethical-use-ai-engineering-education-review-2026|伦理治理]]，概念理解的[[multimodal-embodied-cognition-oral-explanations-2026|具身与多模态评估]]，以及 AI 如何重塑[[ai-engineering-computing-workforce-grey-literature-2026|工程与计算机劳动力]]。
+> **工程教育** —— 研究学生如何学习工程以及如何有效地教工程的领域，涵盖 AI 如何改变工程教学、评估、教师发展与工程劳动力。工程教育研究聚成若干主题：教师用来理解 AI 的[[engineering-faculty-metaphors-ai-understanding-2026|比喻语言]]，AI 使用的[[ethical-use-ai-engineering-education-review-2026|伦理治理]]，概念理解的[[multimodal-embodied-cognition-oral-explanations-2026|具身与多模态评估]]，以及 AI 如何重塑[[ai-engineering-computing-workforce-grey-literature-2026|工程与计算机劳动力]]。
 
 ## 值得思考的问题
 
@@ -38,7 +42,7 @@ ai_assist:
 
 工程教育研究之所以独特，是因为它位于专业养成与严谨的 STEM 内容的交叉点。它强调[[design-thinking|设计]]、问题解决、动手与实验室学习、团队合作，以及让毕业生为专业实践做好准备。设计也是它与[[design-education]]共有的地基，两者按什么可以被检验来划分：工程被评估的对象接纳可计算的造物并承担公共安全问责，而设计教育的对象是造物背后的工作室过程——草图、迭代、评图——那恰是生成式工具如今无须再经由产生它的过程就能产出的证据。AI 在此提出了独特的问题：当 AI 能模拟或自动化设计任务时，动手与具身经验是否仍然要紧；AI 使用的专业与伦理利害（工程师的决策影响公共安全、基础设施与[[sustainability]]）；以及 AI 如何重塑毕业生所需的能力和他们进入的劳动力市场。
 
-## AI 如何出现在本知识库的工程教育研究中
+## AI 如何出现在工程教育研究中
 
 - **教师理解与共享语言：** [[engineering-faculty-metaphors-ai-understanding-2026|Gerhardt 等]]分析了工程教师用来描述 AI 的[[metaphors-and-analogies|比喻]]，发现多数人或把它框定为类人的"社会存在/代理"，或框定为"技术工具"，且同系教师往往持有根本不同的心智模型。由于比喻既建构又限制理解，他们主张一套共享而准确的语言对[[educational-development]]与系内关于 AI 的讨论至关重要。
 - **伦理与负责任的使用：** [[ethical-use-ai-engineering-education-review-2026|Osunbunmi 等]]对本科工程教育中 AI 的实证研究作了[[meta-analysis-systematic-review|系统综述]]，识别出七种反复出现的伦理指引形式（透明、问责、学生独立性/能动性、隐私、[[academic-integrity]]、公平/[[equity-in-ai-education|平等]]/偏倚、善意）。他们发现伦理指引主要面向学生且以合规为导向，而教师与机构的对等问责发展不足——工程对公共安全与社会[[well-being]]的直接利害使这一关切更加突出。
@@ -65,7 +69,7 @@ ai_assist:
 
 ## 覆盖不足的子领域
 
-本知识库的工程教育覆盖仍在发展中。可受益于更多文章的子领域包括**[[discipline-specific-aied|学科特定]]的工程[[pedagogy|教学法]]**（机械、土木、化工、电气、软件与生物工程教育）、**[[design-education|设计]]与创客教育**、**顶点课程与[[project-based-learning|基于项目的学习]]**，以及**工程伦理教育**——在这些领域 AI 的角色可能格外要紧。
+工程教育的覆盖仍在发展中。可受益于更多文章的子领域包括**[[discipline-specific-aied|学科特定]]的工程[[pedagogy|教学法]]**（机械、土木、化工、电气、软件与生物工程教育）、**[[design-education|设计]]与创客教育**、**顶点课程与[[project-based-learning|基于项目的学习]]**，以及**工程伦理教育**——在这些领域 AI 的角色可能格外要紧。
 
 那一空白在一个领域已不再空：一个三年制生物医学工程项目把生成式人工智能当作受约束的知识摘要与编程脚手架，运行在四个模块的 PBL 序列内——限定工具、不使用患者数据、披露日志——并报告 A 级率为 66.4%，而前 AI 届别为 39.1%（[[pbl-biomedical-engineering-genai-2026|Nnamdi 等人（2026）]]）。
 

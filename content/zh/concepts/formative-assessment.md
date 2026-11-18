@@ -1,7 +1,7 @@
 ---
 title: 形式性评估
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [scaffolding]
@@ -11,13 +11,17 @@ connected_faqs: [ai-feedback-at-scale]
 connected_resources: [snorkl, ai-infused-assignment-playbook]
 confidence: high
 translation_of: concepts/formative-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -47,6 +51,8 @@ AI 系统跨模态地生成形式性评估题目，可靠性因类型而异：
 - **自动作文评分：** 多智能体框架（如 MASS）在[[automated-essay-scoring|作文评分]]上比独立的[[llm|LLM]]提升一致性，尽管多智能体评分决策的[[explainable-ai|可解释性]]仍是一个开放的挑战。
 - **形式性评分流水线：** [[cotal-formative-assessment-scoring-2026|CoTAL]]把思维链提示与[[active-learning|主动学习]]及以证据为中心的设计耦合，产出可泛化的形式性评估评分，并带有[[prompt-engineering|人在回路的提示工程]]。
 - **高频、[[automated-assessment|自动判分的评估]]：** [[automated-formative-assessments-a-level-sciences|A-level 理科中的自动化形式性评估]]考察了高频、自动判分的形式性评估对[[learning-gains|学习结果]]的影响。一项对[[science-education|理科]]简答题自动判分的范围综述（2017–2024 年初）确认，这一形式性简答题用例是一个真正有势头的领域：BERT 家族模型主导到 2021 年的自动判分，之后自约 2022 年起转向提示更大的[[llm|LLM]]，而领域增强、感知评分标准的与思维链的模型表现最好——但该综述对全面评价的呼吁，以及未解决的[[bias-mitigation|公平]]与可解释性缺口，警示不要把这些系统延伸到无中介的[[summative-assessment|总结性]]或高风险用途（[[auto-marking-short-answer-science-2026]]）。
+
+- **游戏化的测验可以被喜欢，却不带来学习。** 三十四名音乐学本科生在与传统辅导教学的比较中，给一个自适应 AI 测验打了最低分（M = 2.74/5），在是否推荐它上以 21 比 13 分裂；而推荐与否追踪的是这个应用用起来感觉如何（未来使用 3.52 对 1.54），而非对主题的理解（3.81 对 3.62，p = 0.420）（[[lee-ai-music-quiz-disciplinary-thinking-2026|Lee 等（2026）]]）。
 
 ## AI 生成的反馈
 
@@ -197,3 +203,4 @@ AI 教育中的形式性评估与学习过程本身相连：
 - [[mcnamara-aim-cai-continuous-assessment-2026]] — AI 中介的持续评估基础设施（AIM-CAI）：跨语境与时间连接学习证据（McNamara 与 Hasnine 2026）
 - [[etq-ai-conversational-teacher-training-2026]] — 用于教学误解的会话式 AI 诊断：基于证据的对话（Miranda 与 Calvani 2026）
 - [[assessment-feedback-trilemma-model-2026]] — 对监控风险的正面对应物：把可观察性当作证据设计，而非监控
+- [[lee-ai-music-quiz-disciplinary-thinking-2026]] — 学生对自适应测验的推荐追踪的是用起来的感觉，而不是他们的主题理解

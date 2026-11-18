@@ -1,7 +1,7 @@
 ---
 title: SAMR 模型
 created: "2026-09-10T09:50:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:54-05:00"
 type: concept
 foundations: [educational-development, learning-design, teacher-ai-competency]
 technology: [ai-technologies, technology-acceptance-model]
@@ -10,13 +10,17 @@ audience: [instructors, curriculum designers, researchers]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/samr-model
-source_updated: "2026-11-02T09:55:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
-    date: "2026-10-09"
+    date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 pedagogy: [tpack]
 ---
@@ -44,7 +48,7 @@ SAMR 描述学习任务的技术改造深度。它的四个层级构成一条从
 
 SAMR 常与[[icap-framework|ICAP 框架]]配对，因为两者对齐：[[thermomix-genai-education-analogy-2026|Rummel、Nachtigall 与 Panadero（2026）]]的四个烹饪到学习场景把 ICAP[[student-engagement|参与]]模式映射到 SAMR 层级 —— ICAP *被动*对 SAMR *替代*、*主动*对*增强*、*建构*对*修改*、*互动*对*重新定义* —— 展示了从被动委派到互动共建的演进。
 
-## 来自知识库的证据
+## 来自研究的证据
 
 - **高等教育中的 AI 整合大体是增量的，而非改造性的。** [[alsheikh-mapping-ai-integration-higher-education-2026|AlSheikh 等（2026）]]在一项从 959 条记录中筛出 22 项干预研究的 PRISMA 系统综述中，用 SAMR 模型为 AI 整合分级，发现多数研究簇集在**替代或增强**层级，较少的在修改，只有一项接近重新定义。AI 通常被引入以改进既有实践 —— 由[[automated-assessment|评估自动化]]和[[personalized-learning|个性化学习支持]]主导 —— 而非重新构想课程或[[learning-gains|学习结果]]。
 - **SAMR 是分析生成式 AI 驱动的[[curriculum-design|课程]]变革的常用透镜。** [[rewriting-curriculum-genai-pedagogy-2026|Sabani 等（2026）]]把五项课程转变（静态到动态、传递到能力、地方到[[governance|机构]]）映射到包括 SAMR 和建构性对齐在内的既有透镜上，用该模型澄清生成式 AI 重塑课程的[[pedagogy|教学]]机制。
@@ -63,7 +67,7 @@ SAMR 常与[[icap-framework|ICAP 框架]]配对，因为两者对齐：[[thermom
 - **[[tpack|TPACK]]**描述教师有效整合技术所需的*知识* —— 技术、教学和内容知识的相互作用，在 AI 时代扩展为 AI-TPACK/GenAI-TPACK。
 - **SAMR**对一项技术在*多深*的程度上改造学习任务作分类，从提升到重新定义。
 
-SAMR 最好被理解为用于规划和评估的整合深度透镜，与采纳理论（解释采用）和 TPACK（解释教师能力）互补。在 AI 时代，它被最富有成效地用于提问：生成式 AI 是被应用于增强既有任务，还是被用于实现真正新的任务 —— 这一区分贯穿本知识库的评估和课程研究。
+SAMR 最好被理解为用于规划和评估的整合深度透镜，与采纳理论（解释采用）和 TPACK（解释教师能力）互补。在 AI 时代，它被最富有成效地用于提问：生成式 AI 是被应用于增强既有任务，还是被用于实现真正新的任务 —— 这一区分贯穿评估和课程研究。
 
 ## 对实践的启示
 

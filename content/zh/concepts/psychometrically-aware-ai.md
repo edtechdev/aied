@@ -1,19 +1,23 @@
 ---
 title: 具备心理测量意识的 AI
 created: "2026-07-28T16:52:03-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:47-05:00"
 type: concept
 technology: [llm]
 assessment: [assessment-validity, automated-assessment, educational-measurement, item-response-theory]
 confidence: medium
 translation_of: concepts/psychometrically-aware-ai
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -34,7 +38,7 @@ ai_assist:
 
 随着 AI 系统越来越多地给回答打分、预测难度并提供[[feedback]]，一个关键风险是：它们报告听起来自信的输出，而这些输出并未对照测量原则加以验证。具备心理测量意识的 AI 通过把 AI [[assessment]]奠基于既有心理测量学来解决这个问题——校准输出、量化不确定性，并保全[[assessment-validity]]和[[educational-measurement]]标准，而不是依赖原始准确率或[[self-report-measures|自陈的]]置信度。
 
-### 具备心理测量意识的 AI 如何出现在研究中
+## 具备心理测量意识的 AI 如何出现在研究中
 
 - **校准与置信度：**[[automated-assessment|具备置信度意识的评估]]和 [[llm-psychometric-calibration-cdp|LLM 心理测量校准]]确保 AI 报告有意义、具有不确定性意识的分数，而非过度自信的点估计。
 - **模型置信度不够用。**在 SciEntsBank 上，语言化、潜在和基于一致性的置信度，都未能把正确的简答与错误的分开；最好的校准来自加入数据集衍生的偶然不确定性——嵌入回答的簇内熵——通过随机森林加 Platt 缩放实现，从而支持选择性自动评分和[[human-in-the-loop-ai|人工复核]]（[[cong-confidence-asag-2026|Cong et al.（2026）]]）。
@@ -48,7 +52,7 @@ ai_assist:
 - **潜在能力流水线与标准设定：**[[human-in-the-loop-ai-scoring-national-assessment-2026|Curi et al.（2026）]]为国家考试中具备心理测量意识的评分提供了一个具体模板：评分表各题得分从不直接相加，而是输入一个[[item-response-theory|IRT]]模型，其潜在能力估计用 Bookmark 标准设定方法切分为"达标 / 接近达标 / 不足"，且通过要求至少两节"达标"、其余一节至少"接近达标"。作者把该流水线以自动化形式复现（下切线为至少正确回答 7 道评分表题的概率 67%，上切线为至少 10 道），使 AI 与人工题项得分可以对照同一套判定标准比较，而非仅凭原始一致性。
 - **一个模型可以看起来已校准，却主要只在预测一个标签。**让 GPT-4o 与 Gemini 2.0 Flash 从 153 名本科生的对话推断学习风格维度，产生了中等准确率，而按类别的召回率显示那其实是主导标签预测：Intuitive 与 Global 学习者被识别不足，少样本[[prompt-engineering|提示]]有时反而放大了偏差而非消除它（[[learning-style-inference-bias-student-ai-dialogues-2026|Zamanifard、Goudarzi 与 Robb（2026）]]）。
 
-### 关联
+## 关联
 
 具备心理测量意识的 AI 位于[[educational-measurement]]、[[assessment-validity]]、[[item-response-theory]]与[[automated-assessment|Confidence Aware AI Assessment]]的交叉点上。它对[[ai-ed-evaluation]]（AI 评估是否可信）至关重要，并连接到基于[[llm]]的[[automated-assessment]]和[[automated-assessment|Automated Grading]]。它对效度的强调也论及[[ai-education|AIED]]研究的[[limitations-in-aied-research|测量局限]]。
 

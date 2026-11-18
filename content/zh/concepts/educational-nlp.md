@@ -1,13 +1,13 @@
 ---
 title: 教育NLP
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:15:06-05:00"
 type: concept
 confidence: medium
 technology: [educational-nlp, intelligent-tutoring, student-modeling, knowledge-tracing, adaptive-learning]
 pedagogy: [scaffolding, socratic-method]
 translation_of: concepts/educational-nlp
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -18,6 +18,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -34,11 +38,11 @@ ai_assist:
 
 ## 引言
 
-### 教育NLP做什么
+## 教育NLP做什么
 
 教育领域的自然语言处理把计算方法应用于教学与学习的语言——学生论文、作答、讨论帖、反馈与教学文本。[[llm|LLM]] 极大地扩展了可自动分析的范围，使此前在大规模下不切实际的、对学生语言的细粒度理解成为可能。
 
-### 知识库中记录的应用
+## 研究中记录的应用
 
 - **学生语言分析。** [[llm-sentiment-analysis-education-research]] 将基于LLM的情感分析应用于教育研究，从学生文本中大规模提取情感与评价信号，为 [[learning-analytics]] 与 [[affective-computing]] 提供输入。
 - **预测与测量。** [[llm-item-difficulty-prediction]] 与 [[vocabulary-difficulty-prediction]] 利用语言模型估计试题与文本难度——这是 [[educational-measurement]]、[[adaptive-learning]] 与 [[item-response-theory]] 模型的核心输入。
@@ -63,10 +67,10 @@ ai_assist:
 - **大规模的概念标注。** [[srjudge-knowledge-concept-tagging-2026|Yang et al. (2026)]] 把知识概念标注拆分为 Select–Reason–Judge 流水线——小模型筛出候选概念，LLM在候选集上推理，再由评判者定夺——通过缩小模型的决策空间，在三个基准上提升了标注准确率。
 - **手写作答纸抵抗现有解析器。** 多行推导、交错的文字与公式、手绘表格，以及涂改与擦除带来的噪声，都逃出了面向印刷文档与孤立表达式的基准测试，因此 HANS 数据集——来自 745 名学生、覆盖 18 种题型、共 5,213 张八年级数学习题的真实作答图像——标注了这类噪声，并支撑了一个提升识别率的噪声抑制模型（[[hans-handwritten-answer-sheet-parsing-2026|Wu 等人（2026）]]）。
 
-- **ASR 转录的实体保真度是与词汇准确度分开的问题。** 用人类参考转录对五种语音识别系统做基准测试时，[[wang-educational-video-transcripts-llm-analysis-2026|Wang、Pritchard 与 Rosenberg（2026）]]报告了本知识库首个 ASR/NER 实体保真度证据：词错误率从 2.43%（TurboScribe）到 15.32%（Vosk）不等，而七类金标准实体类型编码显示 GPT-5.5 达到准确率 0.805（κ = .726），spaCy 为 0.634（κ = .488）。
+- **ASR 转录的实体保真度是与词汇准确度分开的问题。** 用人类参考转录对五种语音识别系统做基准测试时，[[wang-educational-video-transcripts-llm-analysis-2026|Wang、Pritchard 与 Rosenberg（2026）]]报告了这一文献中首个 ASR/NER 实体保真度证据：词错误率从 2.43%（TurboScribe）到 15.32%（Vosk）不等，而七类金标准实体类型编码显示 GPT-5.5 达到准确率 0.805（κ = .726），spaCy 为 0.634（κ = .488）。
 单靠汇总 WER 无法证明实体结构在转录中存活下来。
 
-### 与辅导和测量的联系
+## 与辅导和测量的联系
 
 教育NLP既支撑对学习者语言的分析（[[student-modeling]]、[[knowledge-tracing]]），也支撑自适应教学内容生成（[[intelligent-tutoring]]、[[scaffolding]]）。[[ai-generated-interactive-fiction-education-2026]] 展示了面向学习的NLP驱动内容生成，而 [[zerkouk-comprehensive-review-its-2025]] 把NLP置于更广的 [[intelligent-tutoring]] 图景之中。随着基于LLM的分析增长，[[rct]] 与 [[research-methods-aied]] 框架对于验证NLP衍生的洞见是否真正改善学习至关重要。
 

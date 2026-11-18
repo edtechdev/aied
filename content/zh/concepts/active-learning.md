@@ -1,7 +1,7 @@
 ---
 title: 主动学习
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:15:06-05:00"
 connected_faqs: [does-ai-help-students-learn, designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [education-agent-skills]
 translation_of: concepts/active-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -41,9 +45,9 @@ ai_assist:
 
 主动学习是教育研究中的基础原则，扎根于将学习者定位为知识的主动建构者的 [[constructivist]] 理论。在教育 AI 的语境中，这一概念获得双重意义：AI 工具可以规模化地实现主动学习（通过 [[intelligent-tutoring|互动式辅导]]、[[simulation|模拟]]与 [[adaptive-learning|自适应反馈]]），但设计不佳的 AI 工具也可能通过 [[cognitive-offloading|替学生做认知工作]]而破坏它。AI 辅助与主动认知参与之间的张力——如 [[lak2026-hint-button-unproductive-use]] 关于过早使用提示与 [[efficiency-gain-illusion-ai-overreliance]] 关于 [[cognitive-offloading|过度依赖]]的文章所探讨——是一个核心关切。
 
-AI 赋能的主动学习在本知识库中以多种形式呈现：让学生参与解题而非给出答案的 [[intelligent-tutoring]] 系统、[[genai-mindtool-generative-learning]] 方法——学生把 AI 当作思考工具而非替代品、[[test-driven-ai-assisted-learning]]——学生驱动[[student-ai-interaction|AI 互动]]而非跟随它，以及 [[curiobot-llm-tutoring-exploratory-learning]] 探究式学习环境。[[scaffolding]] 概念与之紧密耦合——有效的主动学习需要随胜任力增长而淡出的校准式支持，这正是 AI 辅导者必须学会提供的。
+AI 赋能的主动学习以若干形式呈现：让学生参与解题而非给出答案的 [[intelligent-tutoring]] 系统、[[genai-mindtool-generative-learning]] 方法——学生把 AI 当作思考工具而非替代品、[[test-driven-ai-assisted-learning]]——学生驱动[[student-ai-interaction|AI 互动]]而非跟随它，以及 [[curiobot-llm-tutoring-exploratory-learning]] 探究式学习环境。[[scaffolding]] 概念与之紧密耦合——有效的主动学习需要随胜任力增长而淡出的校准式支持，这正是 AI 辅导者必须学会提供的。
 
-## 主动学习如何出现在本知识库的研究中
+## 主动学习如何出现在研究中
 
 - **互动模式决定认知参与。** [[ai-assisted-learning-modes-eeg|一项针对高中生的 EEG 研究]]比较了 Auto（AI 独立解题）、Interactive（带支架的学生—AI 协作）与 Manual（无 AI）三种模式：**Interactive 产生了最高的认知参与与任务准确率**，而 Auto 降低了参与并有过度依赖的风险。这为"AI 必须让学生*做*而非旁观"的论证提供了一个神经生理学维度。
 
@@ -79,7 +83,7 @@ AI 赋能的主动学习在本知识库中以多种形式呈现：让学生参�
 
 主动学习与 [[collaborative-learning]]（许多主动学习是社会的）、[[learning-by-teaching]]（向他人解释是最主动的）、[[project-based-learning]] 与 [[experiential-learning]]（在真实情境中做中学）、[[embodied-learning]]（身体参与）、[[game-based-learning]] 以及 [[simulation]] 深度相连。它依赖 [[scaffolding]] 与及时的 [[feedback]]，并在 AI 替代努力时受 [[cognitive-offloading|过度依赖]]威胁。它扎根于 [[constructivist]] 与 [[learning-theories]]，横跨 [[higher-ed]]、[[k-12]] 与 [[stem-education]]。
 
-主动学习是 AI 时代 [[learning-gains|学习增益]]上最强的杠杆之一。因为主动策略通过费力的做事来构建理解，它们最抗 AI 的短路——而本知识库的证据表明，保住这种努力保护持久学习，让 AI 吸收它则侵蚀之（[[generative-ai-reduced-study-time-math|学习时间减少]]、[[stromberg-generative-ai-learning-penalty-secondary-2026|学习惩罚]]、[[lak2026-hint-button-unproductive-use|提示滥用]]）。把主动学习设计与 [[learning-gains|测量到的增益]]配对于无辅助结果的教师，能最清楚地看到 AI 辅助的活动是否真的改善了学习。
+主动学习是 AI 时代 [[learning-gains|学习增益]]上最强的杠杆之一。因为主动策略通过费力的做事来构建理解，它们最抗 AI 的短路——而证据表明，保住这种努力保护持久学习，让 AI 吸收它则侵蚀之（[[generative-ai-reduced-study-time-math|学习时间减少]]、[[stromberg-generative-ai-learning-penalty-secondary-2026|学习惩罚]]、[[lak2026-hint-button-unproductive-use|提示滥用]]）。把主动学习设计与 [[learning-gains|测量到的增益]]配对于无辅助结果的教师，能最清楚地看到 AI 辅助的活动是否真的改善了学习。
 
 ## 常见误解
 

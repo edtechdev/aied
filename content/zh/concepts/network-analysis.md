@@ -1,19 +1,23 @@
 ---
 title: 网络分析（Network Analysis）
 created: "2026-08-22T01:40:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:54-05:00"
 type: concept
 technology: [knowledge-graph, learning-analytics]
 confidence: high
 methods: [network-analysis, research-methods-aied]
 translation_of: concepts/network-analysis
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
-    date: "2026-10-09"
+    date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -25,7 +29,7 @@ ai_assist:
 
 - 当你在教育中听到"网络分析"时，脑海中浮现什么——学生的友谊地图、观念之间的联系，还是别的什么？这些与简单地数某物出现多少次有何不同？
 - 假设你想知道学生是否真的在与 AI 写作工具的反馈互动，而不只是拿答案。为什么"他们点了多少次"这类指标可能错过一个行动序列（例如修订循环对聊天循环）所能揭示的故事？
-- 本页区分认知网络、社会网络和转移网络分析。不了解细节的情况下，你能猜出会用哪种变体来研究（a）人们如何协作，（b）哪些观念在学生推理中共现，（c）学习者如何随时间在状态间移动？
+- 有三种变体值得区分：认知网络、社会网络和转移网络分析。不了解细节的情况下，你能猜出会用哪种变体来研究（a）人们如何协作，（b）哪些观念在学生推理中共现，（c）学习者如何随时间在状态间移动？
 - 一位研究者发现，高素养和低素养学习者使用同一个 AI 工具，却产生非常不同的推理网络结构。这告诉你用单一平均分评估 AI 工具的什么？
 - "密度"和"中心性"等网络指标描述互动是随机的、还是围绕枢纽组织的。以某个学习者为中心的有组织网络，何时是好协作的标志，何时是问题的标志？
 
@@ -33,9 +37,9 @@ ai_assist:
 
 网络分析方法共享一个核心前提：连接的结构——而不只是其存在或频次——承载意义。它们不问"X 出现了多少"，而问"元素是如何连接的，这种连接性揭示了关于[[metacognition|认知]]、[[collaborative-learning|协作]]或学习过程的什么？"这使它们在 AI 教育中尤为有价值，因为研究者日益希望理解学习者—[[student-ai-interaction|AI 互动]]的*过程*（学习者如何穿行于[[feedback]]、对话与修订），而不只是产物（最终分数、错误率）。
 
-## 知识库语料中使用的变体
+## 研究中使用的变体
 
-- **认知网络分析（ENA）** — 知识库中最常见的变体（约 24 篇文章中讨论）。ENA 建模话语或活动片段内编码或构念的共现，产出显示哪些观念、技能或认知行为在给定情境中倾向于相连的网络。它被用于比较不同群体（如高对低素养学习者、人对 AI 协作者）如何结构其认知。([[tracing-genai-literacy-interaction-patterns]]) ([[hao-human-ai-collaborative-problem-solving-cognition]])
+- **认知网络分析（ENA）** — 文献中最常见的变体（约 24 篇文章中讨论）。ENA 建模话语或活动片段内编码或构念的共现，产出显示哪些观念、技能或认知行为在给定情境中倾向于相连的网络。它被用于比较不同群体（如高对低素养学习者、人对 AI 协作者）如何结构其认知。([[tracing-genai-literacy-interaction-patterns]]) ([[hao-human-ai-collaborative-problem-solving-cognition]])
 - **ENA 还映射[[teacher-role|教育者]]的能力话语。** 对新西兰（Aotearoa New Zealand）24 名高等教育教育者的访谈应用认知网络分析，建模了七个 HACC 维度之间的联系，发现首席教育者的网络在第一轴上与资深教育者（U = 10.00，p = .04）和早期职业教育者（U = 7.00，p = .01）显著不同（[[dang-human-ai-collaboration-competency-2026|Dang 等（2026）]]）。
 - **社会网络分析（SNA）** — 建模人与人（学习者、教师、智能体）之间的关系，以揭示协作结构、影响、中心性和社群。适用于研究[[collaborative-learning|协作]]与同伴学习。([[misiejuk-cognitive-offloading-prompting-2026]])
 - **转移网络分析（TNA）** — 把离散状态（如辅导会话中的学习者行为）的时间序列建模为有向网络，量化在状态间移动的概率。TNA 被用于揭示学习者—AI 互动中的行为循环、路径与采用动态。([[penny-transition-network-analysis-efl-writing-2026]])
@@ -44,13 +48,13 @@ ai_assist:
 
 ## 网络分析在 AI 教育研究中
 
-网络方法被用于知识库证据基础的各个角落，回答聚合指标无法回答的问题：
+网络方法被用于证据基础的各个角落，回答聚合指标无法回答的问题：
 
 - **打开学习者—AI 互动的"黑箱"。** TNA 揭示学习者使用 AI 工具时所走行为的*过程*——循环与路径（例如在[[conversational-ai|聊天机器人]]支架的[[writing-education|写作]]中"修订循环"对"聊天循环"）——而不只是最终产出。([[penny-transition-network-analysis-efl-writing-2026]])
 - **跨群体比较认知结构。** ENA 显示不同群体如何不同地连接构念——例如[[metacognition]]如何与委托对人类推理在人机协作中共现，揭示不同的协作模式。([[hao-human-ai-collaborative-problem-solving-cognition]])
 - **追踪 AI 素养与互动特征。** 对互动日志的 ENA 识别出[[llm|LLM]]使用的不同模式（迭代性策略细化对线性命令），区分学习者[[ai-literacy|熟练度]]和发展。([[tracing-genai-literacy-interaction-patterns]])
 - **分析话语与框架。** ENA 被应用于[[qualitative-research|质性]]和[[multimodal]]数据（如 YouTube 上关于教育中 [[generative-ai|ChatGPT]] 的框架），以揭示公共话语或学科话语的结构。([[youtube-frames-chatgpt-education]])
-- **补充[[self-report-measures|自报]]与产物指标。** 由于网络方法使用观察到的行为数据，它们能暴露学习者所声称与其实际所做之间的差距——这是知识库反馈采用文献中一个反复出现的发现。
+- **补充[[self-report-measures|自报]]与产物指标。** 由于网络方法使用观察到的行为数据，它们能暴露学习者所声称与其实际所做之间的差距——这是反馈采用文献中一个反复出现的发现。
 - **图结构作为验证量而非描述性摘要。** [[synthetic-educational-data-structural-fidelity-2026|Inoue 与 Yasutake（2026）]]追踪 β0——在固定欧氏阈值下学习者每周邻近图的连通分量数——以检验合成队列是否复现真实队列，偏好它是因为它只由图决定、不像模块度最大化那样需要优化或随机种子，且在七分之一到三分之一的学习者孤处一个分量时仍有定义。
 
 ## 方法学考量

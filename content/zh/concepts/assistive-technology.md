@@ -1,7 +1,7 @@
 ---
 title: 辅助技术
 created: "2026-08-23T12:00:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:54-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [accessibility, assistive-technology, equity-in-ai-education, inclusive-learning]
@@ -9,7 +9,7 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education]
 confidence: high
 translation_of: concepts/assistive-technology
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
+    agent: hermes-agent
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -30,9 +34,9 @@ ai_assist:
 ## 值得思考的问题
 
 - 辅助技术是可达性的工具层——个人用来弥合可达差距的具体设备与软件。在读之前，你是否把可达性和辅助技术当成同一件事？把它们当作不同的事物，会怎样改变你设计学习环境的方式？
-- [[research-methods-aied|研究]]发现，基于 AI 的干预对残障学生的 [[learning-gains|学习结果]]产生中等正向效应（g = 0.588）。然而本页警告，可达工具本身并不确保融合的教学或学习者 [[agency|主体性]]。给一个学生可达，与真正地把他纳入，区别在哪里？
-- 本页指出，美国 AI 政策文件大体上未处理辅助技术以及对有特定学习障碍学生的支持。你认为为什么支持（accommodations）这么容易从 AI 政策的缝隙里掉出去——而当它掉出去时，谁受损失？
-- [[generative-ai|生成式 AI]] 能自动加字幕、简化文本、生成触觉替代物——降低适配的成本。但本页提醒你要评估 AI 生成替代物的 [[pedagogy|教学]]准确性。如果一个"简化版"或"触觉版"歪曲了它本应使其可达的内容，会出什么问题？
+- 关于基于 AI 的干预的[[research-methods-aied|研究]]报告了残障学生的[[learning-gains|学习增益]]。然而可达工具本身并不确保融合的教学或学习者 [[agency|主体性]]。给一个学生可达，与真正地把他纳入，区别在哪里？
+- 为什么美国的 AI 政策文件大体上未处理辅助技术以及对有特定学习障碍学生的支持（accommodations）——而当支持从政策的缝隙里掉出去时，谁受损失？
+- [[generative-ai|生成式 AI]] 能自动加字幕、简化文本、生成触觉替代物——降低适配的成本。但在信任一个 AI 生成替代物的 [[pedagogy|教学]]准确性之前，你会亲手核对什么？如果一个"简化版"或"触觉版"歪曲了它本应使其可达的内容，会出什么问题？
 - AI 正把辅助工具从语音优先的学习伙伴扩展到触觉图表和手语工具。作为教育者或设计者，你想先用 AI 处理哪个学习者的具体障碍——而在选择工具之前，你需要了解那个学习者的什么？
 
 ## 引言
@@ -56,7 +60,7 @@ ai_assist:
 - **把工具与学习者和任务相匹配。** 屏幕阅读器、字幕、语音与触觉输出各自处理不同的障碍——依据个体的需求与内容格式来选择。
 - **用 AI 降低辅助适配的成本。** AI 能自动加字幕、简化文本、生成替代物，但要从教学准确性上评估输出质量。
 - **把提供植根于政策。** 在采购或构建 AI 工具时，参照《辅助技术法》、IDEA 与 WCAG。
-- **说清支持所服务的是哪个功能——并针对该功能评估。** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou 等人（2026）]]区分了补偿（按可达与参与来评估）、[[scaffolding|脚手架]]（有支持下的决策）与发展（消退或迁移后的策略使用）。他们还补上了一条针对本页告诫的规则：可达性支持不是补救——一个工具究竟属于支持（accommodation）、策略教学，还是临时性练习支持，"都应在学习计划中说明"。
+- **说清支持所服务的是哪个功能——并针对该功能评估。** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou 等人（2026）]]区分了补偿（按可达与参与来评估）、[[scaffolding|脚手架]]（有支持下的决策）与发展（消退或迁移后的策略使用）。他们还补上了一条针对这一告诫的规则：可达性支持不是补救——一个工具究竟属于支持（accommodation）、策略教学，还是临时性练习支持，"都应在学习计划中说明"。
 
 ## 常见误解
 

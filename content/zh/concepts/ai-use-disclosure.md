@@ -1,7 +1,7 @@
 ---
 title: AI 使用与披露声明
 created: "2026-08-27T11:17:52-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-18T03:15:00-05:00"
 type: concept
 foundations: [academic-integrity]
 technology: [generative-ai]
@@ -12,13 +12,17 @@ level: [higher ed]
 confidence: high
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-use-disclosure
-source_updated: "2026-11-08T08:56:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -51,6 +55,7 @@ AI 使用声明要求或邀请学生陈述是否以及如何在某次作业中�
 
 - **披露罕见且由焦虑驱动。** 跨研究来看，多数学生不向教师披露 AI 使用。[[kirsanov-beyond-detection-ai-online-assessments-2026|Kirsanov et al. (2026)]] 发现只有约 34% 的经济学学生承认使用 AI，披露更为罕见，由"惩罚焦虑"驱动。[[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] 发现 66% 的学生从不或很少披露，首要原因是学业受罚的恐惧。[[gonsalves-student-non-compliance-ai-declarations-2025|Gonsalves (2025)]] 记录了国王学院 [[business-education|商学院]]对强制性声明的 **74% 不遵从**。
 - **模糊与惩罚性政策驱动隐瞒。** 当 AI 使用政策不清、无执行或为禁令时，学生隐藏使用而非参与。"特定情境下有限使用"的政策最能预测披露；"不允许"或"不知道有政策"的政策预测隐瞒。研究反复呼吁清晰、一致、协作共建的政策。
+- **重要之处是义务，而不只是罚则。**两条意图相同的规则把披露与隐瞒分开：[[mehreen-genai-policy-wording-2026|Mehreen 等（2026）]]发现，以"不诚实"作框定的措辞与学生隐藏其使用相关，而让学生对不准确的输出负责，则与所有权和透明相关。
 - **披露有心理代价——还有隐性代价。** 学生把声明视为自我控告，一些人认为 AI 使用像用计算器一样属于私事。[[vetter-hidden-cost-disclosure-genai-2026|Vetter et al. (2026)]] 发现"总是"披露的学生被指控的几率高出 3 倍以上——透明可能招致怀疑。[[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] 发现担忧把披露引向同伴而非抑制它，使学生与教师反馈隔绝。
 - **披露与自我调节学习纠缠在一起。** [[chang-should-i-tell-my-teacher-ai-disclosure-2026|Chang et al. (2026)]] 把教师导向的披露解读为适应性求助——使帮助可见并引来外部校准——而隐瞒（尤其在重度 AI 使用者中）类似于适应不良的调节。结构化的形成性披露可以促进有效自我调节所特有的 [[metacognition|元认知]]反思与伦理推理。
 - **威慑结构因对象而分裂。** 在 466 名学生中，确信不披露会被发现与更有利的态度相关（β = 0.643），而确信声明会暴露不当使用则与更不利的态度相关（β = −2.175），且更重的不披露惩罚与态度和控制感均呈负相关。关于不当使用的估计建立在共线预测变量之上（方差膨胀高于 9），因此并不稳定（[[liu-genai-truthful-declaration-tpb-deterrence-2026|Liu 等，2026]]）。
@@ -72,6 +77,8 @@ AI 使用声明要求或邀请学生陈述是否以及如何在某次作业中�
 - **披露带有信任惩罚，合法性是所论证的机制。** 在十三项实验中，多数为美国在线小组成员并汇总为 4,093 个观测（θ = 0.81, z = 10.52, 95% CI [0.66, 0.96]），披露 AI 使用的行为者比保持沉默者更不受信任（[[obhdp-ai-disclosure-erodes-trust-2025|Schilke and Reimann (2025)]]）。该效应在六种披露框定、一位已知 AI 已被使用的评价者、以及强制与自愿两种制度下均存活。它是上文调查发现——总是披露的学生面临高出三倍的被指控几率——的实验对应面：透明本身使披露者付出代价。该论文唯一面向学生的结果是，当教授披露用[[automated-assessment|AI 评分]]时，学生对该教授的信任更低。
 
 - **内容标签改变的描述，而非判定。** 617 名成年人被随机分配去看到或看不到一个“AI 生成内容／合成视频”标签，标签降低了感知真实性（无标签均值 4.92，有标签 4.21），却使信任（B = -0.130，p = 0.216）、风险、采纳与分享保持不变（[[fu-ai-label-authenticity-trust-generated-videos-2026|Fu、Zhang 与 Zhang（2026）]]）。
+
+学生实际拿到的文件，承载的比写它们的教师所意图的更少。[[benmessaoud-genai-course-materials-faculty-2026|BenMessaoud 等（2026）]]对一所美国中西部大型公立研究型大学 56 名教师自愿提供的 16 份教学大纲、政策声明与作业做了编码：许可与致谢声明在 59% 中较为完备，数据隐私在 75% 中完全未提，引用规则在 19% 中较为完备，81% 没有修订条款。同一批教师在 71% 上报告，机构指引对其课程材料的塑造"完全没有"或"有一点"，这把缺口同时定位在指引与教学大纲之中。一条披露条款的成色，取决于它背后的模板与引用标准。
 
 ## 设计有效的披露
 
@@ -132,3 +139,4 @@ AI 使用与披露位于 [[academic-integrity]]（其母关切）、[[ethics]]�
 - [[authorial-warrant-ai-supported-scholarship-2026]] — 当披露规则不够时：AI 支持型学术中的作者授权与判断（Mirończuk 2026）
 
 - [[fu-ai-label-authenticity-trust-generated-videos-2026]] — AI 披露标签、感知真实性与 AI 生成教学视频中的信任
+- [[benmessaoud-genai-course-materials-faculty-2026]] — GenAI 在课程材料中：教师的使用与认知

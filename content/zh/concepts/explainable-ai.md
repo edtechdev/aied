@@ -1,7 +1,7 @@
 ---
 title: 可解释 AI
 created: "2026-09-07T10:15:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:06:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [metacognition]
@@ -11,13 +11,17 @@ ethics: [bias-mitigation, trust-calibration, pedagogical-safety]
 audience: [learners, researchers, instructional designers, instructors]
 confidence: high
 translation_of: concepts/explainable-ai
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 
 ---
@@ -88,6 +92,8 @@ XAI-ED 框架编目了主要的解释模态：**视觉式**（热力图、决策
 
 **模型说自己用了什么，既取决于数据，也取决于模型家族。** 在同一批学生上比较七个模型，[[hooshyar-responsible-trustworthy-educational-data-mining-2026|Hooshyar 等（2026）]]发现符号方法倚重认知与[[motivation|动机]]因素，子符号模型倚重认知层面、习得知识与性别，而两者都大体忽略了元认知因素，神经符号模型则使用了更为整合的一组因素。同样的学生、同样的指标，产生了关于"什么重要"的不同说法，因此与[[learning-theories|学习理论]]的一致性，成为一个关于归因的主张，而不是关于准确率的主张。
 
+用来认证解释质量的指标并不测量契合度。在一项有 166 名参与者、比较三种显著性方法（LIME、Grad-CAM、Guided Backpropagation）的预注册研究中，满意度与信任评分在各条件间持平，一项任务测量偏好 Grad-CAM，而数学忠实性指标偏好 Guided Backpropagation——三类证据分别指向三种不同的方法（[[kares-xai-evaluation-alignment-2027|Kares 等，2027]]）。有些指标—表现关系甚至朝着与指标本欲认证的方向相反的方向运行。忠实性分数是关于模型的证据，而不是关于用户能否据此行动的证据。
+
 ## 把可解释性作为问责实践来教
 
 如果解释质量决定 XAI 是否有用，那么产出解释就必须作为一种职业习惯被教授，而不是作为一种能力被演示。[[lund-socially-accountable-data-science-xai-2026|Lund 及其同事（2026）]]提出围绕四大支柱来做这件事——**可回答性**（向受影响者给出理由的义务）、**责任性**（在生命周期中预期危害，而非事后辩护）、**执行性**（课程内部的后果）和**自反性**（对自身假设的成文检视）——每一根支柱都有自己的作业和自己的课堂成本。
@@ -121,6 +127,7 @@ XAI-ED 框架编目了主要的解释模态：**视觉式**（热力图、决策
 - [[recommender-systems-and-learning-paths]]
 
 ## 关联文章
+- [[kares-xai-evaluation-alignment-2027]] — 166 名参与者、三种显著性方法：满意度与信任持平，任务表现与忠实性指标互相矛盾（Kares 等，2027）
 - [[lund-socially-accountable-data-science-xai-2026]] — 把 XAI 作为问责实践来教的四支柱框架（可回答性、责任性、执行性、自反性）（Lund 等人 2026）
 - [[ko-hughes-vsd-student-centered-its-2026]] — 以学生为中心的 ITS 的价值敏感设计（协作式 vs. 原始解释）
 - [[xai-education-framework]] — XAI-ED：教育中可解释 AI 的奠基性框架（Khosravi 等人 2022）

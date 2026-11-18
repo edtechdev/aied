@@ -1,7 +1,7 @@
 ---
 title: 问题导向学习
 created: "2026-08-20T06:55:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:47-05:00"
 type: concept
 foundations: [critical-thinking]
 pedagogy: [active-learning, collaborative-learning, scaffolding]
@@ -10,13 +10,17 @@ discipline: [medical education, engineering education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/problem-based-learning
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T12:19:30-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -55,6 +59,8 @@ PBL 起源于医学教育（McMaster University，20 世纪 60 年代），此�
 - **领域实现。**[[engineering-education|生物医学工程]]的 PBL 框架用 GenAI 做摘要和编程支持，并附带可复现包（[[pbl-biomedical-engineering-genai-2026|Nnamdi 等人 2026]]）；AI 支持的 PBL 在[[educational-robotics|机器人教育]]中增强[[computational-thinking|计算思维]]（[[ai-pbl-computational-thinking-2026|面向计算思维的 AI 支持 PBL]]）；而支持生成式 AI 的虚拟病人用于病史采集教学（[[genai-simulate-patient-history-pbl-2026|Mool 等人 2026]]）。
 - **证据综合。**[[educators-engagement-ai-pbl-review-2026|Amdan 等人（2026）]]在[[human-ai-collaboration|人机交互]]框架下，[[meta-analysis-systematic-review|系统综述]]了 50 项（2015–2024）关于教育者在 PBL 中与 AI 交互的研究。
 - **情境式 PBL 中的 GenAI。**[[genai-scenario-based-healthcare-education-2026|Neto 及其同事（2026）]]在他们对医疗教育中 GenAI 的系统综述里，把问题导向学习列入情境式方法，发现[[prompt-engineering|提示设计]]起着教学规范的作用，且混合式人机协作优于完全自动化的方法。该综述强调，生成内容与教学框架之间需要更强的对齐，以及 PBL 情境中更可复现的提示实践。
+
+- **分阶段撤除工具，把最终选择变成一个判断任务。** 在 [[abril-jimenez-human-centred-engineering-genai-2026|Abril-Jimenez 等（2026）]] 的研究中，105 名二年级工程专业学生借助 GenAI 探索问题并构建原型，随后在工具被刻意限制、评价标准事先设定的条件下选定一个方案。作者把这番限制——而非工具——归功于批判性评价的发生。
 
 - **AI 可以承担导师的知识传授，但承担不了小组学习的社会调节。** 在一项为期四周的药理学准实验中，[[facilitator-vs-ai-mediated-pbl-pharmacology-2026|Shetty 与 Rao（2026）]]发现，AI 中介的 PBL 与引导者主导的学业增益相当（组间 p = 0.474），而引导者主导的小组在小组动力（26.51 对 24.74，p = 0.035）和批判性思维（14.75 对 13.09，p < 0.001）上保留了优势。
 

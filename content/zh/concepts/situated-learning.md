@@ -1,19 +1,23 @@
 ---
 title: 情境学习
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [constructivist, experiential-learning, learning-theories, situated-learning, sociocultural-learning]
 confidence: high
 translation_of: concepts/situated-learning
-source_updated: "2026-10-30T10:20:00-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -36,7 +40,7 @@ ai_assist:
 在[[ai-education|AI 教育]]文献中，情境学习之所以重要，是因为它为 AI 提供了一个设计透镜：[[adaptive-learning|自适应系统]]、置于真实情境中的[[intelligent-tutoring|智能辅导]]，以及[[virtual-and-augmented-reality|沉浸式]][[simulation|模拟]]能把 AI 驱动的教育扎根于真实世界情境，而情境学习反过来为 AI 提供了扎根于真实实践与复杂性的有意义的锚。二者被广泛视为互补，而人类的指引对[[ethics|伦理]]根基仍然必不可少。
 - **把材料本身情境化也是一种情境学习的动作。** DagFlow-AI 围绕学生自己陈述的兴趣生成一份统计数据集（其中一个案例研究用了一名学生对气候变化与健康的关切），同时保持学习目标与技能水平不变（[[arthur-dagflow-agentic-synthetic-data-statistics-2026|Arthur 等，2026]]）。让*数据*匹配学习者、而不是让讲解匹配学习者，把实践的语境当作需要被情境化的东西。作者承认其局限：合成的数据教不了数据采集、测量或研究设计，因此这个语境对学习者是真实的，对世界却不是。
 
-### 情境学习作为 AI 的设计透镜
+## 情境学习作为 AI 的设计透镜
 
 本知识库的研究把情境学习不仅当作抽象理论，也当作 AI 教育的具体设计与评估框架：
 

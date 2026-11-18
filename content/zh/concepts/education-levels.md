@@ -1,7 +1,7 @@
 ---
 title: "教育层级"
 created: "2026-09-20T13:08:39-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:10:00-05:00"
 type: concept
 foundations: [ai-education, learner-identity]
 pedagogy: [scaffolding, self-regulated-learning, prior-knowledge]
@@ -15,13 +15,17 @@ discipline: [teacher education]
 level: [preschool, primary education, middle school, secondary, k 12, higher ed, undergraduate, graduate, adult learning, special education]
 confidence: medium
 translation_of: concepts/education-levels
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-15T06:45:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -38,9 +42,9 @@ ai_assist:
 
 ## 引言
 
-`level` 元数据字段命名一个来源所关于的教育学段——是学段而非年龄：**preschool（学前）**、**primary education（小学）**、**middle school（初中）**、**secondary（中学）**、**K-12**、**higher ed（高等教育）**、**undergraduate（本科）**、**graduate（研究生）**、**adult learning（成人学习）**、**special education（特殊教育）**、**teacher education（教师教育）**。有些命名学校教育的一个阶段，两个命名大学学习中截然不同的两半，两个命名的是一个 [[learners|学习者群体]]而非阶段，一个命名的是教人的人。一个来源可以同时携带多个学段。
+`level` 元数据字段命名一个来源所关于的教育学段——是学段而非年龄：**preschool（学前）**、**primary education（小学）**、**middle school（初中）**、**secondary（中学）**、**K-12**、**higher ed（高等教育）**、**undergraduate（本科）**、**graduate（研究生）**、**adult learning（成人学习）**、**special education（特殊教育）**。有些命名学校教育的一个阶段，两个命名大学学习中截然不同的两半，两个命名的是一个 [[learners|学习者群体]]而非阶段。一个来源可以同时携带多个学段。教师教育不是一个学段：它是一个专业领域，归在[[discipline-specific-aied|学科]]之下，因为它贯穿本科与研究生学习（职前），也贯穿 K-12 与成人学习（在职）。
 
-本页是该领域的总览；各学段页面做深入的工作，应与本页一起阅读：[[k-12]]、[[early-childhood-elementary-ai-education]]、[[higher-ed]]、[[adult-learning]]、[[special-education]]、[[teacher-education]] 和 [[vocational-education]]。
+各学段页面做深入的工作，应与本页一起阅读。在学龄期中：[[early-childhood-elementary-ai-education|早期儿童教育]]（学前与最初的几年）、[[primary-education|小学教育]]（约 5 至 11 岁）和[[secondary-education|中学教育]]（初中与高中合称），跨学段的发现则放在[[k-12]]。在大学学习中：作为总括的[[higher-ed|高等教育]]、面向外部判断下课程作业的[[undergraduate-education|本科教育]]，以及面向导师指导、研究训练与专业项目的[[graduate-education|研究生教育]]。两个阶梯之外：[[adult-learning|成人学习]]、[[vocational-education|职业教育]]、[[special-education|特殊教育]]与[[teacher-education|教师教育]]。
 
 ## 一个学段与另一个学段的区别
 
@@ -59,6 +63,16 @@ ai_assist:
 
 大学期再次分裂。本科学习是在外部判断下的课程作业：在一所少数族裔服务型 R1 大学的本科写作者中，[[ai-literacy]] 预测的是学生处于哪一*类* [[llm]] 依赖，而非他们使用的多少（[[llm-reliance-types-undergrad]]）。研究生学习是研究训练，其结果从表现转向养成。在 420 名天文学博士和博士后研究人员中，AI 依赖与研究 [[agency|自主性]]负相关（r = −.355），与 [[self-efficacy]] 负相关（r = −.321），通往创新行为的间接路径主要通过自主性（−.115）而非自我效能（−.069）；导师支持削弱了与自主性的负向联系（B = .077, p = .020）（[[ai-mediated-research-agency-formation-2026]]）。博士生是以 AI 依赖似乎正在侵蚀的判断力来评判的；本科生不是。把两者都归入"高等教育"就隐藏了这一点。
 
+## AI 素养作为一个发展序列
+
+小学 AI 素养的四个组成部分，已经包含了研究生框架视为进阶的那些东西。在 25 项实证研究中，[[yim-ai-literacy-primary-schools-review-2025|Yim 与 Su（2025）]]发现与 AI 互动的数字素养出现在 19 项、计算思维出现在 10 项、AI 伦理出现在 10 项、批判性数据素养出现在 5 项。智能体出现在 15 项研究中，不插电活动出现在 3 项，因此最早的学段是通过制作并检视一个模型来教 AI，而不是通过使用它。
+
+到中学，这一构念变成时间压力下的判断。在 33 项研究中，每一个被测试的工具在生物学高阶题上都低于 20%，而 BingChat 与 Bard 在基础题上达到 92.11%（[[perez-montesdeoca-genai-secondary-systematic-review-2026|Pérez-Montesdeoca 等（2026）]]）。收益出现在学生比较并拒斥输出的地方，在学生把工作交给工具的地方则消退。学生自称学到了什么，几乎不反映他们拿输出做了什么：在一项有 1477 名受访者的研究中，感知学习与投入指数的相关系数为 0.052（[[torres-peralta-perceived-learning-engagement-homework-2026|Torres-Peralta 等（2026）]]）。
+
+在本科层级，关键的是素养而非伦理。在 304 名本科与研究生中，数字素养预测了自报的作业表现（β = 0.393），而伦理意识没有（β = −0.006）（[[kumar-chatgpt-academic-assignments-2025|Kumar 等（2025）]]）。到研究生学习，差距在于判断：研究生在伦理与学术自主上以 d = 1.47 领先本科生，而一旦伦理与自我调节进入模型，使用频率对能力的预测为 β = 0.030（[[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova 等（2026）]]）。研究生框架增加了元认知反思，这正是小学四维所缺的那一维（[[zhi-modeling-measuring-graduate-genai-literacy-2026|Zhi 等（2026）]]）。
+
+作为一个序列来读，这一连续体改变的是每个学段应当评估什么，而不是它应当教什么。小学的工作要求一件儿童能够解释的制品，中学的工作要求一个学生能够辩护的比较，研究生的工作要求一份说明哪些主张属于本人的陈述（[[academic-integrity|学术诚信]]）。在一端够用的工具，在另一端并不构成证据。
+
 ## 证据集中在哪里，稀薄在哪里
 
 本语料库填充不均，level 字段使这种不平衡变得可见。
@@ -66,6 +80,8 @@ ai_assist:
 **密集。** 高等教育是覆盖最广的学段：本页查阅的页面包括一项有 60 名工程学生的八周平台试验（[[ai-assisted-seminar-learning-information-literacy-2026]]）、一项针对 395 名教育管理者的调查（[[ai-adoption-readiness-ukraine-education-managers-2026]]）、一项对 18 项非洲高等教育研究的元综合（[[data-privacy-ai-african-higher-education-2026]]）和一项针对 420 名研究人员的博士生训练研究（[[ai-mediated-research-agency-formation-2026]]）。小学和中学也带有结果证据。
 
 **稀薄，某些地方甚至缺失。** 本页查阅的页面完全没有报告学前学段任何关于儿童结果的研究；最近的证据是一项排除了面向儿童工具的教师意向调查（[[preschool-teachers-ai-behavioral-intention-2026]]）。初中主要以*拟议中的*设计和纵向研究的形式出现，而非报告的结果（[[ai-lms-middle-school-longitudinal]]）。职业学段最强的证据是来自一门课程的 63 份 [[self-report-measures|自陈]]回应，其作者称需要重复验证（[[ai-ive-pbl-vocational-design-creativity-2026]]）。研究生证据是横断面的，反向路径模型比发展性模型拟合略好，因此从依赖到自主性降低的方向是被推断而非被确认的（[[ai-mediated-research-agency-formation-2026]]）。本页查阅的内容没有报告 **adult learning（成人学习）**或 **special education（特殊教育）**作为学段的 AI 结果证据；它们在 [[adult-learning]] 和 [[special-education]] 上有各自的覆盖，本页不从学龄期发现中做推广来填补这一空白。
+
+初中的结果现在有了：在 178 名印尼初中生中，文化嵌入的诊断任务预测了符号表现（β = 0.42）与投入（β = 0.37），且 AI 诊断画像与专家判断相符（ICC = 0.81）（[[culturally-embedded-ai-diagnostic-assessment-2026|Anggara 等（2026）]]）。
 
 在所有被考察的层级上，有一个模式成立：人的一层吸收了最难的案例。即便在算法推荐达到 F1 = 0.64 时，工程学生在可信性决策点上仍有人类专家在位（[[ai-assisted-seminar-learning-information-literacy-2026]]）；在博士生训练中，导师支持是削弱 AI 依赖负向联系的唯一条件（[[ai-mediated-research-agency-formation-2026]]）；在学前学段，采用者是学前教师，而非儿童（[[preschool-teachers-ai-behavioral-intention-2026]]）。
 
@@ -99,6 +115,10 @@ ai_assist:
 
 ## 关联概念
 
+- [[primary-education]] — 小学学段本身
+- [[secondary-education]] — 初中与高中合称
+- [[undergraduate-education]] — 外部判断下的课程作业
+- [[graduate-education]] — 导师指导、研究训练、专业项目
 - [[k-12]]
 - [[early-childhood-elementary-ai-education]]
 - [[higher-ed]]
@@ -125,3 +145,9 @@ ai_assist:
 - [[ai-ive-pbl-vocational-design-creativity-2026]] —— 面向职业设计学生的 AI 赋能沉浸式 PBL（Jin et al. 2027）
 - [[preschool-teachers-ai-behavioral-intention-2026]] —— 学前教师在早期儿童环境中使用 AI 的意向
 - [[vahedian-children-attitudes-ai-chatbot-2026]] —— 儿童对按年龄定制的 AI 聊天机器人的态度
+- [[yim-ai-literacy-primary-schools-review-2025]] —— 25 项小学研究；四个组成部分，包括伦理与批判性数据素养（Yim & Su 2025）
+- [[perez-montesdeoca-genai-secondary-systematic-review-2026]] —— 33 项中学研究；在高阶题上准确率崩塌（Pérez-Montesdeoca et al. 2026）
+- [[torres-peralta-perceived-learning-engagement-homework-2026]] —— 1477 名来自高中、大学与教师群体的受访者；感知学习与投入
+- [[kumar-chatgpt-academic-assignments-2025]] —— 304 名本科与研究生；数字素养预测表现，伦理没有
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] —— 本科与研究生对比；伦理与自主性差距最大（Zaripova et al. 2026）
+- [[zhi-modeling-measuring-graduate-genai-literacy-2026]] —— 研究生生成式 AI 素养的五维模型

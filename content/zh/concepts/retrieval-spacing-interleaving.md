@@ -1,7 +1,7 @@
 ---
 title: 提取练习、间隔练习与交错练习
 created: "2026-09-18T12:20:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:05:31-05:00"
 type: concept
 pedagogy: [desirable-difficulties, metacognition, self-regulated-learning, mastery-learning, prior-knowledge, transfer-of-learning]
 foundations: [cognitive-offloading]
@@ -12,13 +12,17 @@ audience: [instructors, learners, instructional designers]
 page_kind: [synthesis]
 confidence: high
 translation_of: concepts/retrieval-spacing-interleaving
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -92,6 +96,8 @@ ai_assist:
 - **交错练习在此几乎没有直接证据。** 如上所述，语料库不包含分组与交错的对比，只有一项把 Interleaving 作为若干可选策略之一的模拟。
 - **被试群体与内容。** 证据基础集中于 [[higher-ed|高等教育]]、STEM 与统计材料，以及来自几何与多元回归内容的事实—技能区分；这些研究并未确立向 [[k-12|K-12]] 场景、[[humanities-education|人文与写作]]，以及非西方课堂的推广。
 
+[[pan-chatgpt-prequestions-memory-comprehension-2026|Pan、Schweppe、Teo、Indrajaya 与 Wenzel（2026）]]把生成式人工智能放到测验效应的前端：两个由 ChatGPT 生成的前问题，在阅读一篇 675 词的文章之前作答。在分别有 90、128、153 与 157 名成年人的四项实验中，前问题优于单纯阅读（练习过的问题上 d = 1.12，未练习的问题上 d = 0.78），并与人类生成的问题相当。学习者几乎从未答对——实验 1 中的正确率为 0.056——却仍然学到了更多，这正是前测效应的标志。迁移随距离衰减：被测问题优于同来源的未测问题（d = 0.46），后者又优于不同来源的未测问题（d = 0.32）。问题生成变得便宜；提取仍是必需的。
+
 ## 常见误解
 
 **"更好的 AI 提问带来更好的保持。"** 它带来更好的作业。[[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris（2026）]]发现更深的 LLM 提问改善了独立评分的任务质量（**β = 6.27, p = .006**），同时与**即时后测回忆呈零关联（β = −0.014, p = .728）**，回忆增益反而由基线知识驱动。制品的质量与记忆的持久性是不同的结果，更好的对话推动了前者而没有推动后者。
@@ -133,3 +139,4 @@ ai_assist:
 - [[learning-to-learn-in-the-age-of-generative-ai-a-scoping-review-and-conceptual-fr]] — 提取练习在学会学习框架的工具层
 - [[agentic-ai-pedagogical-best-practice-2026]] — 预抓取智能体绕过提取练习；有意摩擦的理由
 - [[ai-tutor-modality-randomized-field-experiment-2026]] — 当 AI 辅导者开口说话：一项随机现场实验的证据
+- [[pan-chatgpt-prequestions-memory-comprehension-2026]] — ChatGPT 生成的前问题提升记忆与文本理解

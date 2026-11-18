@@ -1,8 +1,8 @@
 ---
-connected_resources: [matt-pocock-skills]
+connected_resources: [matt-pocock-skills, context-aideatext]
 title: 苏格拉底方法
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:54-05:00"
 type: concept
 foundations: [ai-education, critical-thinking]
 pedagogy: [metacognition, scaffolding]
@@ -12,7 +12,7 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/socratic-method
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:34:25-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -35,7 +39,7 @@ ai_assist:
 - 回想一次老师（或朋友）用另一个问题回答你的提问，而它确实帮到了你的思考。是什么让它奏效？又在什么时候它只让人觉得受挫或被搪塞？
 - 苏格拉底式路径通过拒不给答案来激发"有效挣扎"。你相信挣扎对深度学习是必要的吗？还是它有时只是不必要的摩擦——你会如何区分这两者？
 - 一个AI苏格拉底导师必须基于学生的实时信号，决定何时引导、何时提示、何时给出直接答案。你认为一个系统（或一个人）如何知道在某一刻该走哪一步？
-- 本页指出，受挫的学生可能需要一个简短的直接答案，然后才能回到苏格拉底式提问。你认为这对"千篇一律、只问不答"式路径的局限意味着什么？
+- 只问不答的导师会让需要先得到一个直接答案的学生受挫。你认为这对"千篇一律、只问不答"式路径的局限意味着什么？
 - 如果一个只问问题的[[conversational-ai|聊天机器人]]就能产生可测量的推理增益，与最初那位人类导师的苏格拉底式对话相比，可能失去了什么，又可能得到了什么？
 
 ## 引言
@@ -56,7 +60,7 @@ ai_assist:
 
 苏格拉底路径直接体现了[[llm-training-and-fine-tuning|EduQwen]]的原则：**奖励"引导"而非"作答"。** 然而，实时的苏格拉底式校准比纸上谈兵的基准更难：EduQwen针对的是多选题[[benchmark|基准]]上正确的引导，而一个实时苏格拉底导师必须依据实时学生信号，决定*何时*引导、*何时*提示、*何时*作答。[[affective-tutoring|情感状态]]是一个关键的调节变量：一个受挫的学生可能需要一个简短的直接答案，然后才能回到苏格拉底模式。一个更严格的变体把教学完全移除：一个只探测的导论物理智能体要求学生为一个正确预测辩护，使其对抗一个被改变的变量（洞穴探测），并让正确答案之后的消息与错误答案之后的消息无从区分（[[socratic-probing-agent-physics-cave-detection-2026|Cho（2026）]]）。
 
-提示设计在一个本页其余部分未覆盖的领域中已有成文形态。在一项针对 58 名 CEFR A1–B1 大学生的第二语言修订任务中，该设计给出引导性线索，要求学习者自行推断更正，而不是直接收到更正（[[lukesova-clue-before-correction-2026|Lukešová 与 Jennings，2026]]）。认知负荷降低与个性化修订路径主要报告于那些已经拥有足够先备知识、能够依据线索行动的学习者，而反馈深度随学生提示的好坏而变化。因此扣留更正存在一条熟练度下限，这就是校准问题的一种可被研究测量的形态。
+提示设计在另一个领域中已有成文形态。在一项针对 58 名 CEFR A1–B1 大学生的第二语言修订任务中，该设计给出引导性线索，要求学习者自行推断更正，而不是直接收到更正（[[lukesova-clue-before-correction-2026|Lukešová 与 Jennings，2026]]）。认知负荷降低与个性化修订路径主要报告于那些已经拥有足够先备知识、能够依据线索行动的学习者，而反馈深度随学生提示的好坏而变化。因此扣留更正存在一条熟练度下限，这就是校准问题的一种可被研究测量的形态。
 
 ## 有效性的证据
 
@@ -79,6 +83,7 @@ ai_assist:
 - 苏格拉底式对话费神费力；学生可能为了效率而偏好直接答案
 - 该聊天机器人无法提供人类导师那种关系性支持
 - 有些学生可能陷入没有出路的苏格拉底式循环
+- 实际交付的差异可能大于设计所规定的。在一门 C++ 课程中，"聊天机器人是否提出反思性或应用性问题"这一题是全部调查中最低且波动最大的，为 3.86（满分 5，SD 1.24），作者将其解读为系统提示所规定的内容在交付中并不一致（[[jackson-ai-chatbots-learning-assistants-cs-2026|Jackson、Mware 与 Jiang（2026）]]）。
 
 ### 一项反例：无限制的接触可能优于受约束的模式
 
@@ -92,7 +97,7 @@ ai_assist:
 
 保真度并不因配置而得到保证：一个按目的配置的ISLE促进者恢复了学生曾颠倒的"先预测后测验"顺序，但当被要求"直接告诉我们"哪个罐更重时，它给出了无人测量过的质量数值，从提问越界到了编造数据（[[embodied-inquiry-ai-facilitator-physics-2026|Tufino 与 Damiani（2026）]]）。
 
-## 知识库中的研究
+## 研究证据
 
 **[[hashmi-socratic-physics-chatbot-2025|苏格拉底物理聊天机器人]]**提供了经验证据，表明苏格拉底方法可以通过生成式AI大规模地操作化，同时充当[[teacher-role|教学]]工具与[[learning-analytics|学习分析]]的数据收集工具。与过去基于规则的苏格拉底系统不同，基于[[llm]]的方法能根据学生回应动态调整问题序列。
 
@@ -177,3 +182,4 @@ Favero等人（2025）提醒说，即便是苏格拉底式AI，如果学生变�
 - [[genai-socratic-tutor-biology-argumentation-2026]] — 通过生成式人工智能提升职前生物学教师的 PISA 对齐论证技能
 - [[etq-ai-conversational-teacher-training-2026]] — 以证据为基的对话来诊断教学误解的对话式 AI（Miranda & Calvani 2026）
 - [[socratic-probing-agent-physics-cave-detection-2026]] — 设计一个不做辅导的 AI 智能体：导论物理中苏格拉底式探测的设计规则
+- [[jackson-ai-chatbots-learning-assistants-cs-2026]] — 在有引导的聊天机器人中，反思性问题评分最低、波动最大

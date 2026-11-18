@@ -1,7 +1,7 @@
 ---
 title: 学习科学
 created: "2026-09-17T14:12:00-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-18T03:15:00-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [cognitive-psychology, learning-theories, pedagogy]
@@ -13,7 +13,7 @@ page_kind: [framework, synthesis]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/learning-sciences
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -25,11 +25,15 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
+    agent: hermes-agent
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **学习科学**——研究人们如何学习以及如何设计学习得以发生的环境的跨学科研究领域，它借鉴[[cognitive-psychology|认知心理学]]、[[learning-theories|学习理论]]、[[cs-education|计算机科学]]和语言学，并以实证证据而非仅凭理论来评判其设计。在本知识库中，它是围绕[[ai-education|AI in education]]的研究领域，而非学校科目之一：它提供 AI 系统所操作化的机制（知识成分、[[mastery-learning|掌握阈值]]、[[transfer-of-learning|迁移]]）、承载它们的设计对象（[[learning-design|规划好的课程序列]]、[[intelligent-tutoring|导师]]、[[feedback]]机制）以及评判它们的标准（[[learning-gains]]、[[assessment-validity]]、[[equity-in-ai-education|公平]]）。它的组织性问题不是工具表现得好不好，而是学习者是否发生了改变。
+> **学习科学**——研究人们如何学习以及如何设计学习得以发生的环境的跨学科研究领域，它借鉴[[cognitive-psychology|认知心理学]]、[[learning-theories|学习理论]]、[[cs-education|计算机科学]]和语言学，并以实证证据而非仅凭理论来评判其设计。它是围绕[[ai-education|教育中的 AI]]的研究领域，而非学校科目之一：它提供 AI 系统所操作化的机制（知识成分、[[mastery-learning|掌握阈值]]、[[transfer-of-learning|迁移]]）、承载它们的设计对象（[[learning-design|规划好的课程序列]]、[[intelligent-tutoring|导师]]、[[feedback|反馈]]机制）以及评判它们的标准（[[learning-gains|学习增益]]、[[assessment-validity|评估效度]]、[[equity-in-ai-education|公平]]）。它的组织性问题不是工具表现得好不好，而是学习者是否发生了改变。
 
 ## 值得思考的问题
 
@@ -80,13 +84,6 @@ ai_assist:
 
 这些发现只有在抵达教学时才有意义，而这趟旅程穿过三个页面。[[educational-development]]是承载它们的制度性实践——教师发展、标准、政策和[[learner-identity|身份认同]]工作决定一个经过验证的设计是否真能抵达课堂，这也是为什么该领域的证据总是领先于机构所实施的。[[teacher-education]]是知识在教师进入教室前必须落地的地方，[[teacher-role]]则是它之后落地的地方，体现在关于何时干预、用哪个工具、何时放任学习者的那种逐时刻判断。三者都不产出学习科学的发现，但三者都决定这些发现能否改变实践。
 
-## 常见误解
-
-- **“高掌握阈值保证学习者能区分。”** [[deceptive-overgeneralization-adaptive-learning-2026|An、McLaren 与 Stamper（2026）]]用[[intelligent-tutoring]]系统跑了**11 个实验（N = 192）**，发现在**95% 的掌握阈值下，系统在学习者遇到需要克制行动的情形之前就停止了练习**，于是这个缺陷未被察觉。对行动的掌握并不包含知道何时不该应用它，而阈值认证的是错误的构念。
-- **“更多的例题更安全。”** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit、Koedinger 与 Carvalho（2025）]]把例题与问题的比例当作**内容与处理的交互**，而在 2×2 实验中，最优解**取决于内容**。不存在全局正确的比例，因此一个固定的教学模板是在与一种交互对赌。
-- **“修正[[misconceptions|误解]]就是告诉学生正确答案。”** 简短的“不要行动”练习配合指出缺失约束的[[feedback]]，把误用率降到 **0.0%-23.1%（Cohen's h 1.70-2.44）**，而对 **13 个 K-12 *Decimal Point* 数据集**的二次分析发现了同样的结构模式。有效的干预是带有针对性反馈的区分性练习，而不是断言式纠正，这也正是[[refutation-text|反驳文本]]研究一般性地确立的东西。
-- **“更高的 Bloom 层级意味着更多的[[active-learning|主动学习]]。”** 学习类型追踪的是预期结果层级，**习得从 Bloom 第 1 级约占活动的 50%，降到第 6 级的约 20%**。认知要求与活动类型一同移动，但不是同一根轴，因此按 Bloom 层级给任务贴标签，并不能告诉你学习者会拿它做什么。
-
 ## 这对实践意味着什么
 
 **对教师**
@@ -101,6 +98,13 @@ ai_assist:
 - 不要只凭正确性就停止练习。把克制条件建模为一项单独的技能，否则系统会认证过度泛化。
 - 让比例成为一个参数而不是常数，因为证据表明最优解依赖内容。
 - 分别报告你的标准测量哪个构念、你的验证测量哪个构念。
+
+## 常见误解
+
+- **“高掌握阈值保证学习者能区分。”** [[deceptive-overgeneralization-adaptive-learning-2026|An、McLaren 与 Stamper（2026）]]用[[intelligent-tutoring]]系统跑了**11 个实验（N = 192）**，发现在**95% 的掌握阈值下，系统在学习者遇到需要克制行动的情形之前就停止了练习**，于是这个缺陷未被察觉。对行动的掌握并不包含知道何时不该应用它，而阈值认证的是错误的构念。
+- **“更多的例题更安全。”** [[rachatasumrit-example-problem-ratio-2026|Rachatasumrit、Koedinger 与 Carvalho（2025）]]把例题与问题的比例当作**内容与处理的交互**，而在 2×2 实验中，最优解**取决于内容**。不存在全局正确的比例，因此一个固定的教学模板是在与一种交互对赌。
+- **“修正[[misconceptions|误解]]就是告诉学生正确答案。”** 简短的“不要行动”练习配合指出缺失约束的[[feedback]]，把误用率降到 **0.0%-23.1%（Cohen's h 1.70-2.44）**，而对 **13 个 K-12 *Decimal Point* 数据集**的二次分析发现了同样的结构模式。有效的干预是带有针对性反馈的区分性练习，而不是断言式纠正，这也正是[[refutation-text|反驳文本]]研究一般性地确立的东西。
+- **“更高的 Bloom 层级意味着更多的[[active-learning|主动学习]]。”** 学习类型追踪的是预期结果层级，**习得从 Bloom 第 1 级约占活动的 50%，降到第 6 级的约 20%**。认知要求与活动类型一同移动，但不是同一根轴，因此按 Bloom 层级给任务贴标签，并不能告诉你学习者会拿它做什么。
 
 ## 关联概念
 

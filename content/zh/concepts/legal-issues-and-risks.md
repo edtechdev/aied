@@ -1,7 +1,7 @@
 ---
 title: 法律问题与风险
 created: "2026-09-18T05:40:00-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-18T03:14:47-05:00"
 type: concept
 foundations: [academic-integrity, reducing-ai-misuse]
 assessment: [ai-detection, assessment-validity, remote-proctoring]
@@ -14,13 +14,17 @@ audience: [administrators, policymakers, institutions, researchers]
 page_kind: [synthesis]
 confidence: medium
 translation_of: concepts/legal-issues-and-risks
-source_updated: "2026-10-28T18:24:42-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -36,7 +40,7 @@ ai_assist:
 
 ## 引言
 
-本知识库关于这一主题的证据是程序性的，而非法理层面的。它记录了机构把什么当作证据、指控程序如何运作、这些工具多么不可靠，以及监控收集了什么；它还没有记录诉讼结果。这一空白应当被直说，而不是用自信的断言来填补：能够裁定这些问题的案件大多未被报道、已和解，或仍处于机构内部程序之中。
+关于这一主题的证据是程序性的，而非法理层面的。它记录了机构把什么当作证据、指控程序如何运作、这些工具多么不可靠，以及监控收集了什么；它还没有记录诉讼结果。这一空白应当被直说，而不是用自信的断言来填补：能够裁定这些问题的案件大多未被报道、已和解，或仍处于机构内部程序之中。
 
 文献确实支持的是对造成法律风险的失败模式的一种描述。反复出现的模式是：让机构陷入风险的，是它自己的工具和程序，而非恶意的指控者——一个被当作结论的概率性分数，一条意图清晰而范围模糊的规则，一个收集了没人要过的数据的系统，以及一场假定技术证据无需检验的听证。
 
@@ -80,7 +84,7 @@ ai_assist:
 
 ## 开放问题
 
-- 这些风险中哪些真正产生了诉讼或监管裁定？本知识库有程序、政策和技术评估，但没有案件结果，不应当被当作它有来读。
+- 这些风险中哪些真正产生了诉讼或监管裁定？证据涵盖程序、政策与技术评估，但没有案件结果，不应当被当作它有来读。
 - 一旦机构在听证中承认自己的错误率，检测器输出还能否作为任何东西的证据存在，还是这一承认把案件转化为程序公平之争？
 - 当监考和检测通过第三方平台运行时，谁是数据控制者，供应商还是机构？这会不会改变给机构的建议？
 - 机构是否应当公布其对 AI 违规适用的证据标准，就像其他地方公布证据门槛那样，以此同时减少错误指控和法律风险？
@@ -118,7 +122,7 @@ ai_assist:
 
 - [[munoz-misconduct-allegation-evidence-2026]] — 违规指控卷宗实际包含什么证据，以及自然正义要求
 - [[hadra-ai-detector-accuracy-efl-2026]] — 检测器准确率、混合文本的失效与 EFL 误分类风险
-- [[van-vlasselaer-ai-detector-reliability-2026]] — 检测工具在第二组语料上的可靠性
+- [[van-vlasselaer-ai-detector-reliability-2026]] — 检测工具在第二组文本样本上的可靠性
 - [[bassett-ai-detectors-education-2026]] — 为何没有哪个检测阈值是对的：错误权衡论证
 - [[teichmann-detecting-undetectable-misconduct-2026]] — 证据变得不可检测时对违规程序的重新评估
 - [[wright-transcription-not-generation-2026]] — 过度包含的 AI 规则、残障便利与合理调整

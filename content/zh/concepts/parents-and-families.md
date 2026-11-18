@@ -1,8 +1,9 @@
 ---
 title: 家长与家庭
 created: "2026-09-16T14:29:36-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 type: concept
+connected_resources: [ai-guidance-by-age]
 foundations: [ai-literacy]
 technology: [conversational-ai]
 ethics: [digital-divide, equity-in-ai-education]
@@ -11,13 +12,17 @@ confidence: medium
 audience: [instructors, policymakers, researchers]
 level: [preschool, primary education, secondary, k 12]
 translation_of: concepts/parents-and-families
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -39,6 +44,8 @@ ai_assist:
 儿童与 AI 相处的大部分时间发生在课堂之外，而研究文献大多把这一场景当作背景。关于辅导和学习成果的研究通常以学校为场域，而关于家庭指导的研究通常只是劝告性的、未经检验的，因此家庭既大量接受关于[[ethics|负责任使用 AI]]的指导，又几乎没有证据表明这些指导是否有效。
 
 本页把家庭当作一个独立的行动者来对待。它涵盖 AI 中介的亲子辅导、孩子在家中遇到的伙伴与阅读工具、学校就 AI 使用对家庭说和不说的事情、家长自身的[[ai-literacy]]及其观点的已知情况，以及家庭使用这些工具所依赖的接入与成本条件。凡是证据薄弱之处，本页如实说明，而不是填补空白。
+
+孩子在某个年龄能用工具做到什么，是一个发展性问题，而不是偏好问题；[[developmental-psychology|发展心理学]]承载这一说明。
 
 ## 作为家庭共同教育者的家长
 
@@ -96,6 +103,7 @@ ai_assist:
 
 ## 关联概念
 
+- [[developmental-psychology]]
 - [[stakeholders]] — 教育中 AI 受众与行动者的总括页面
 - [[early-childhood-elementary-ai-education]] — 家庭与家庭使用被研究得最多的发展阶段领域
 - [[ai-use-disclosure]] — 披露实践，以及什么能传到家庭的问题

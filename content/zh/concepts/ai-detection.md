@@ -2,7 +2,7 @@
 connected_resources: [process-feedback]
 title: 人工智能检测
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:06:14-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 technology: [generative-ai, llm]
@@ -14,13 +14,17 @@ confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education, should-we-use-ai-detectors, reduce-ai-cheating, ai-guidance-children-under-13]
 institutions: [educational-policy-ai]
 translation_of: concepts/ai-detection
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T20:30:23-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
   - model: stepfun/step-5-preview:free
     role: translation
@@ -61,6 +65,7 @@ ai_assist:
 - **效度与公平的失败：**检测工具可能对非母语写作者有偏见，产生不公平地惩罚学生的假阳性，这一关切连接到[[bias-mitigation]]与[[equity-in-ai-education]]。
 - **显著的错误率与信任侵蚀：**不可靠的检测破坏学生[[trust]]和评估过程的诚信。
 - **任务依赖性：**如自检测研究所示，准确率因任务类型而剧烈变化，因此没有单一检测器在所有评估中都可依赖。
+- **粒度改变判定。** 在带来源标签的 PISA 2025 作文上，一个嵌入检测器在学生式改写下把整篇文本的 AI 召回保持在 0.94 或以上，而句子层面的召回最低跌至 0.59（[[schaller-ai-text-detection-authentic-writing-2026|Schaller 等（2026）]]）。
 - **即便一个经验证的检测器也以历史基线为基：**一项为期六年的 CS2 研究对照前大语言模型基线验证了其检测器：H 分数在大语言模型公开前接近于零，到 2026 年上升到均值 11.9（[[argus-academic-integrity-genai-2026|Racovan 等（2026）]]）。
 - **被量化的诚信两难。**[[karr-ai-detection-humanization-2026|一项对 642 篇已发表摘要的对照研究（Karr 等，2026）]]显示，[[educational-policy-ai|政策]]失败不只是概念性的，而且已被测出：符合规范的轻度人工智能编辑被标记的比例为 38–80%，未经修改的近期原创文本为 9–15%（非 STEM 远高于 STEM），而经"人性化工具"处理的人工智能文本有 >96% 逃避检测。由于检测器盯的是表层文体（长词元与学术词汇密度）而非作者意图，诚实的人工智能协助招致处罚，而刻意的人性化规避却溜之大吉——作者主张，检测器分数绝不应当作独立的 misconduct（不当行为）证据。
 
@@ -95,6 +100,8 @@ ai_assist:
 Bassett 等得出结论：人工智能检测是一个无法成立的问题的一个不可行的解法——这个问题不可能通过监控与惩罚来解决；焦点必须转向承认人工智能在学习中的角色、并承认无监督评估无法被保密的[[assessment|评估设计]]。这整合了知识库的[[beyond-detection-authentic-assessment-ai-2025|超越检测]]立场，为让检测工具退场提供了一个直接的、以证据为基础的论证。
 
 在涵盖 16 种类型的 40 项心理学评估中，有 36 项（90%）产出的 ChatGPT 输出被判为足以及格，而四项失败的都是需要现场出席、视觉制品或学生自有数据集的任务——证据是：决定人工智能作业是否算作学业成就的，是及格边界而非检测（[[ivory-psychology-assessment-integrity-2026|Ivory 等（2026）]]）。
+
+**实践落后于证据。** 在一项研究 127 所机构的调查中，[[making-ai-work-for-students-ofs-2026|OfS 与 Advance HE（2026）]]发现，在反对检测的研究共识形成数年之后，检测器的使用仍在继续。教职员描述分数作为支持性证据进入不当行为案件，一些机构已完全停用检测器，而 Turnitin 告知研究者，其工具的输出在确立作者身份时只应是一个数据点。学生描述了接收端：一旦被标记，就没有证明作者身份的途径，只能采取删去破折号或故意加入错误以降低分数之类的策略。
 
 ### 检测器偏见与军备竞赛的机制
 
@@ -191,4 +198,5 @@ Bassett 等得出结论：人工智能检测是一个无法成立的问题的一
 - [[roe-ai-humanizers-legitimacy-assessment-2026]] — 55 个人性化网站表演合法性：检测与规避是同一个商业市场（Roe 等，2026）
 - [[hashem-cheating-habitus-ai-governance-discourse-2026]] — 一个假设：执法筛选的是学术资本，而非行为
 - [[lieske-ai-proposals-counter-ai-cheating-2026]] — 八个大模型对六种反作弊技术排序；AI 检测排在最后
+- [[making-ai-work-for-students-ofs-2026]] — OfS 与 Advance HE（2026）：127 所机构的 244 名教职员与 91 名学生谈检测、评估设计、AI 素养与战略
 

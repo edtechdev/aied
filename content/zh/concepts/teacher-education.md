@@ -1,16 +1,16 @@
 ---
 title: 教师教育
 created: "2026-08-16T10:55:19-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-18T03:14:54-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 connected_faqs: [faculty-development-ai]
 audience: [instructors]
 discipline: [teacher education]
-level: [adult learning, higher ed, k 12]
+level: [higher ed, k 12, adult learning]
 confidence: high
 translation_of: concepts/teacher-education
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -18,24 +18,28 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
+    agent: hermes-agent
 pedagogy: [tpack]
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **[[educational-development|专业发展（Professional development）]]** — 教师的培养与持续专业发展，涵盖职前教师培训（初始认证项目）与在职专业发展。在 AI 教育[[research-methods-aied|研究]]中，教师教育已成为一个核心关切，因为教师的 AI 素养、技术–[[pedagogy|教学法]]知识、[[ethics|伦理]]流畅度，以及把 AI 整合进教学准备的意愿，决定了 AI 在课堂中的采用能否成功。本概念组织了本知识库中相当可观的内容，即 AI 如何重塑未来教师与在职教师的培养、知识、信念与实践。
+> **[[educational-development|专业发展（Professional development）]]** — 教师的培养与持续专业发展，涵盖职前教师培训（初始认证项目）与在职专业发展。在 AI 教育[[research-methods-aied|研究]]中，教师教育已成为一个核心关切，因为教师的 AI 素养、技术–[[pedagogy|教学法]]知识、[[ethics|伦理]]流畅度，以及把 AI 整合进教学准备的意愿，决定了 AI 在课堂中的采用能否成功。证据遍及 AI 如何重塑未来教师与在职教师的培养、知识、信念与实践。
 
 ## 值得思考的问题
 
 - 这里的教师教育横跨职前培养（认证项目中的未来教师）与在职专业发展（实践中的教师）。你认为二者中哪一个在为 AI 课堂做准备上面临更大挑战，为什么？
-- 本页主张，教师教育必须让教师不仅会用 AI 工具，而且能理解、评价并合乎伦理地整合它们 —— 这一转变“重新定义了何为教师”。你认为这一定义应如何改变一个认证项目的教学内容？
+- 教师教育必须让教师不仅会用 AI 工具，而且能理解、评价并合乎伦理地整合它们 —— 这一转变“重新定义了何为教师”。你认为这一定义应如何改变一个认证项目的教学内容？
 - AI-TPACK 等框架通过增加 AI 与伦理维度来扩展经典 TPACK 模型。你认为技术–教学法–内容知识的“AI 维度”在操作[[conversational-ai|聊天机器人]]之外，实际还应包含什么？
-- 本页引用的一项对 55 项研究的[[meta-analysis-systematic-review|范围综述]]发现，AI 增强了职前教师的教学设计、反思与批判性思维。但如果 AI 能替他们做其中一部分，那么它在教师培训中的使用何时是在建构技能、何时又在替代他们未来所需的判断本身？
+- 对职前教师培训中 AI 的 55 项研究表明，职前教师的教学设计、反思与批判性思维都获得改善。但如果 AI 能替他们做其中一部分，那么它在教师培训中的使用何时是在建构技能、何时又在替代他们未来所需的判断本身？
 - 如果你要为 AI 时代重新设计一个教师教育项目，你会要求每位未来教师经历什么 —— 又会刻意不让他们把什么外包给 AI？
 
 ## 引言
 
-教师教育位于本知识库多条脉络的交叉处：它既是一门学科/领域（如[[medical-education|医学教育]]与[[humanities-education|人文教育]]），也借助[[teacher-role|教师角色]]、[[tpack|TPACK]]、[[teacher-ai-competency|教师 AI 胜任力]]与[[ai-literacy|AI 素养]]等一般概念。在 AI 时代，教师教育必须让教师不仅会用 AI 工具，而且能理解、评价并合乎伦理地整合它们 —— 这一转变重新定义了何为教师。[[learning-sciences|学习科学]]提供了这种养成所必须承载的知识：那个领域研究人如何学习、学习环境应如何设计，而教师教育正是使此类证据落地为教师自身设计、教学与评价能力的专业养成过程。
+教师教育位于多条研究脉络的交叉处：它既是一门学科/领域（如[[medical-education|医学教育]]与[[humanities-education|人文教育]]），也借助[[teacher-role|教师角色]]、[[tpack|TPACK]]、[[teacher-ai-competency|教师 AI 胜任力]]与[[ai-literacy|AI 素养]]等一般概念。在 AI 时代，教师教育必须让教师不仅会用 AI 工具，而且能理解、评价并合乎伦理地整合它们 —— 这一转变重新定义了何为教师。[[learning-sciences|学习科学]]提供了这种养成所必须承载的知识：那个领域研究人如何学习、学习环境应如何设计，而教师教育正是使此类证据落地为教师自身设计、教学与评价能力的专业养成过程。
 
 跨层面的证据使设计优先级更为清晰：[[pedagogy-first-technology-second-teacher-knowledge-2026|一项对 46 名教师与 2,832 名中学生的多层次研究]]发现，是教学法的 AI 知识（TPAIK）—— 而非技术的 AI 知识 —— 驱动了学生对“AI 向善”的感知及其学习 AI 的意愿。因此教师教育应把*如何用 AI 和关于 AI 教学*置于工具熟练度之上，与“教学法优先、技术其次”的指引一致。
 
@@ -90,6 +94,8 @@ pedagogy: [tpack]
 - **协作[[ai-ed-evaluation|评价 AI]]生成内容作为专业发展。****[[teachers-collaborative-evaluation-ai-content-2026|Gat、Usher 与 Barak（2026）]]**报告了一场工作坊：60 名[[k-12|初中]]科学教师通过他们的学科、教学法与课程判断来评定 ChatGPT 生成的评价题。协作评价本身发挥了专业发展的作用，帮助教师把概念精确性标准应用于 AI 输出，并浮现出 AI 内容强化[[misconceptions|迷思概念]]的风险 —— 把教师定位为[[generative-ai|GenAI]]材料的批判性评价者，而非被动消费者。
 
 - **面向语言教育者的结构化专业发展罕见却有效。**一项对 23 项研究的[[li-language-educators-genai-review-2026|系统综述]]（Li 等，2026）发现，只有三项纳入研究报告了结构化的专业发展 —— 一门嵌入式的语法课程模块、一个政府 EMI 项目，以及嵌入式的聊天机器人探究 —— 但三者都收敛于知识、信心与身份重构上的增益，把教育者对 GenAI 的看法从“替代风险”转向助手/增强者。该综述主张，专业发展应把技术技能建设与实践智慧配对，从[[ai-literacy|意识提升]]与伦理经动手的工具掌握走向 AI 增强课程的共同设计，并推荐一个“先后台、后课堂”的两阶段实施策略。
+
+- **增益来自培训，而非工具。**在巴西的 19 个小学班级中，接受过一次 50 分钟算术培训的教师所教学生优于对照组，而在此基础上再加入由教师中介的 AI 系统并未带来进一步的学习增益（[[rodrigues-aied-unplugged-numeracy-2026|Rodrigues 等（2026）]]）。
 
 本知识库中面向数学的框架驱动型 GenAI 专业发展最清晰的实例，是对来自乡村与资源不足学区、完成了基于 Rhodes 4P 框架的十个互动模块的八名在职教师的一项研究（[[bicer-genai-pd-math-creativity-2026]]）。它提供了在职专业发展设计在此处所缺的两个设计机制：有意淡出的脚手架（早期明确指导，随后要求论证、归纳与设计任务）与横跨模块 6-10 的模拟学生推理，同时发现 MC、CK 与 PCK 一同变动 —— 而只测量了参与度，未测量教师知识或学生学习。
 

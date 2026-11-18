@@ -1,19 +1,23 @@
 ---
 title: 混合方法研究
 created: "2026-08-24T02:10:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:15:06-05:00"
 type: concept
 research_method: [survey]
 confidence: high
 methods: [mixed-methods-research, qualitative-research, quantitative-research, research-methods-aied]
 translation_of: concepts/mixed-methods-research
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -47,7 +51,7 @@ ai_assist:
 
 - **由机器生成的定量脉络。** [[zhang-interview-informed-llms-survey-response-modeling-2026|Zhang 等（2026）]]在收敛式设计下从参与者的访谈转录生成 BREQ 定量脉络，这是一条不只依赖人力的整合路径。LLM 与人类的相关从中等至高（ρ = .5 至 .73），条目、个体与测验层面的 RMSE 量化了与人类作答的距离，而负向表述的第 6、7、11 题标出了最清晰的三角互证回报，指出访谈证据与调查证据在哪里分歧。
 
-## 混合方法在知识库中的体现
+## 混合方法在研究中的体现
 
 - **解释机制。**[[same-ai-different-pathways]]结合脉络以拆解 AI 中介学习在学科–机构情境中的机制，那里单看定量差异是不透明的。
 
@@ -80,6 +84,7 @@ ai_assist:
 - **"混合方法是 AI 教育研究里的冷门选择。"** 在 **394 项 GenAI 高等教育研究**中，混合方法是**最常见的研究设计（213 项，54%）**，其后是定量（109 项，28%）与定性（72 项，18%）。本领域的主导设计并不是其方法论辩论所假定的那一个。
 - **"观察与访谈证据可以承载关于系统的断言。"** 把系统观察与[[administrator|管理者]]访谈，对照一项**跨八个学期、8,708 名学生、效力足以检出 0.05 个标准差效应的四年随机评估**，显示出定性脉络单独做不到的事：可靠地检出一个很小的效应。混合方法并不是把效力在脉络之间转移的办法。
 - **"三角互证就是两个弱方法合成一个强主张。"** 配对的价值在于每条脉络回答的是不同的问题。一个把两者都跑了、随后把定性发现当作定量发现的确认来报告的设计，并没有三角互证，它只是重述。
+- **趋合可以是一条准入规则，而不是一段叙述。** [[liu-auditable-assessment-preservice-2026|Liu（2026）]]只有在某一项重设计优先事项出现于五个独立来源中的至少两个、且出现于一个面向实施的来源时，才把它计入，因此单凭感知无法让它获得晋升。
 
 ## 关联概念
 

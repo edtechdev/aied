@@ -1,7 +1,7 @@
 ---
 title: 大语言模型（LLM）
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:47-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning]
 foundations: [ai-literacy]
@@ -10,7 +10,7 @@ assessment: [automated-assessment]
 ethics: [hallucination-risk, pedagogical-safety]
 confidence: high
 translation_of: concepts/llm
-source_updated: "2026-11-05T23:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -21,6 +21,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -38,7 +42,7 @@ ai_assist:
 
 ## 引言
 
-### LLM 作为 AIED 的引擎
+## LLM 作为 AIED 的引擎
 
 LLM 是本知识库中被引用最多的概念（60 多篇文章），因为它们支撑着几乎每一个 AI 教育应用：
 
@@ -55,7 +59,7 @@ LLM 是本知识库中被引用最多的概念（60 多篇文章），因为它�
 
 - **评估模型转变（2017–2024）：**Morley 等的范围综述追溯了自动评分简短[[science-education|科学]]回答的领域，从微调较小的[[educational-nlp|BERT]]模型（主导至 2021 年）转向提示更大的 LLM（GPT-1/2/3.5/4）（约自 2022 年起）——经由[[prompt-engineering]]而非微调被采用——辅以领域增强模型、感知评分标准的提示与思维链提升准确率。然而 GPT 模型很少与 BERT 在标准语料上对比，很少有自动评分器能解释其评分，[[bias-mitigation|偏见]]也少有考察，这些警示普遍适用于 LLM 评估（[[auto-marking-short-answer-science-2026]]）。
 
-### 模型特有研究
+## 模型特有研究
 
 本知识库既覆盖通用 LLM（GPT-4、Claude），也覆盖面向教育的适配。[[cstutorbench-slm-tutors|小语言模型基准]]比较 SLM 在导学上的表现，而[[browser-sized-agents-slm-webllm-tutor-2026|Suvernev 等人（2026）]]论证 SLM 在作为工具增强的规划器部署时，于架构上适合[[agentic-ai|智能体式]]导学——确定性工具承担了小模型本会隐式处理的负荷——教学控制驻留在升级策略而非模型之中。[[educational-llm-alignment|教育对齐]]研究关注如何让 LLM 在教学上恰当。一项跨三个前沿家族的研究——[[oppenheimer-llms-collaborative-learning-partners-2026|Oppenheimer、Cash 与 Connell Pensky（2025）]]——发现 ChatGPT、Gemini 或 Claude 都能为议论文写作充当协作式批评伙伴：经过一学期的迭代写作，学生在论证质量、[[prompt-engineering|提示工程]]与对[[ai-feedback-quality|AI 反馈]]的回应上各进步约一个标准差（均 p < .001），并深度投入（87.8% 反驳 LLM 的主张），把通用 LLM 定位为可行的[[collaborative-learning|协作学习]]伙伴，而非单纯答案生成器。
 

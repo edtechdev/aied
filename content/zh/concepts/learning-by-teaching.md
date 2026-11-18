@@ -1,7 +1,7 @@
 ---
 title: 通过教学学习
 created: "2026-08-14T10:45:34-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:54-05:00"
 type: concept
 pedagogy: [active-learning, learning-by-teaching, scaffolding, self-regulated-learning]
 technology: [generative-ai, intelligent-tutoring]
@@ -9,13 +9,17 @@ assessment: [feedback]
 discipline: [cs education]
 confidence: high
 translation_of: concepts/learning-by-teaching
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T21:52:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -27,7 +31,7 @@ ai_assist:
 
 - 回想一次你真正理解某件事的经历——那是在你向别人解释之后。当时脑中发生了什么？为什么你认为教学比独自学习带来更深的理解？
 - 一种常见看法是，教学是专家的事，新手无从贡献。然而"通过教学学习"建立在相反的前提之上：准备教学会迫使你组织知识、发现自己的空白。这如何重新界定谁能从教学中受益？
-- 本页描述了"可教智能体"——学生通过教导它来学习的软件。用 LLM，你可以把一个聊天机器人配置成会犯错的新手被辅导者，它会提问、会出错。要让这样的被辅导者真正改善学习而不只是闲聊，你需要在设计中加入什么？
+- "可教智能体"——学生通过教导它来学习的软件。用 LLM，你可以把一个聊天机器人配置成会犯错的新手被辅导者，它会提问、会出错。要让这样的被辅导者真正改善学习而不只是闲聊，你需要在设计中加入什么？
 - 一个挑战是"工程化易错性"：AI 模型被训练成给出专家级的流畅回答，这与 LbT 范式想要的 struggling 新手正好相反。为什么一个会出错的被辅导者可能比一个正确的被辅导者对学习更有效？
 - 一个基于 ChatGPT 的可教智能体改善了学习，但它生成正确代码的倾向限制了纠错练习。一个总能给出正确答案的工具，会怎样让需要练习发现并修复错误的学习者蒙受损失？
 - 如果你要为自己的课堂设计一项通过教学学习的活动，什么能让教学任务足够*有分量*，使学生真正投入努力，而不是复制粘贴一个答案？
@@ -44,7 +48,7 @@ ai_assist:
 
 **可教智能体**是通过教学学习得以落地实现的软件系统——学习者把教导一个系统当作学习的一部分。传统可教智能体基于规则或基于检索，只能对有限的命令作出回应；其关键局限是无法进行自然语言对话。[[llm|大语言模型]]改变了这一点：它们能通过[[prompt-engineering|提示]]灵活地采用角色——包括会提问或会出错的"被辅导者"角色——并进行开放式对话，使 LbT 在比以往更少结构化的领域（写作、词汇）中成为可能。
 
-知识库的证据基础把这一转变追溯到**对话式、基于 LLM 的可教智能体**：
+证据把这一转变追溯到**对话式、基于 LLM 的可教智能体**：
 
 - **ChatGPT 作为可教智能体**（[[chatgpt-teachable-agent-programming-lbt-2024|Chen 等]]）支持编程中的 LbT，改善了知识增益、编程能力与[[self-regulated-learning|自我调节学习]]——尽管它生成正确代码的倾向限制了纠错练习。
 - **规模化讲解**（[[explique-teachable-agent-algorithms-546-students-2026|Wang 等]]）在一个 11 周学期里向 546 名学生部署了 AI 可教智能体（Algorithm Apprentice），发现以讲解为导向的对话预示更少的错误测验提交，而外部内容的复用预示更多。
@@ -61,9 +65,11 @@ ai_assist:
 - **Explique 的学徒约束**（Wang 等）指示被辅导者（a）始终保持新手身份，（b）不断请求澄清，直到学生的解释准确，（c）绝不揭示目标解释——并且要*拒绝*那些试图反转角色、让被辅导者反向讲解的学生。
 - **把遗忘作为通往易错性的权重级路径。** 机器遗忘在 Mistral-7B 上抑制了 16 个目标知识组件，准确率从 10% 遗忘率下的约 0.75 降到 40% 时低于 0.5，而基础模型维持在 0.85 附近。被抑制的知识通过监督式再学习和教练引导的对话回归，因此被辅导者的知识水平是一个可以调节的旋钮，而不是一个断言（[[simulating-novice-students-machine-unlearning-2026|Song、Guo 与 Lin（2026）]]）。
 
+- **把督导工作本身作为被辅导者的任务。** 在一个双课程的设计案例中，学生招募、上手并教练一个通用助手，然后记录它出错的那些地方；教师报告说，向工具解释各项惯例，反而让学生自己澄清了这些惯例（[[rodak-braddock-hire-ai-personal-assistants-2025|Rodak 与 Braddock，2025]]）。
+
 ## 提问、自我调节与主动学习
 
-还有两项功能在整个知识库中反复出现：
+还有两项功能在证据中反复出现：
 
 - **问题识别知识空白。** LbT 系统用学习者生成的问题来暴露空白并强化理解，[[teaching-ai-vocabulary-lbt-llms-2026|LLM 生成的问题]]则取代了僵化的基于模板的生成器。
 - **回讲暴露澄清所遗漏之处。** 在一个 22 人参与的后讲评回顾系统中，同伴智能体的反思式回讲一致地暴露了学习者自以为理解与他们所能清晰表达之间的空白，而仅仅依托讲座的澄清并未揭示这一点（[[knowloop-confusion-to-consolidation-2026|Fang 与 Reidsma（2026）]]）。

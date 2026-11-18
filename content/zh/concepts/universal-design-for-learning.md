@@ -1,7 +1,7 @@
 ---
 title: 通用学习设计
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 type: concept
 foundations: [learning-design]
 ethics: [equity-in-ai-education, inclusive-learning]
@@ -10,13 +10,17 @@ audience: [learners]
 level: [special education]
 confidence: high
 translation_of: concepts/universal-design-for-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -73,6 +77,8 @@ UDL把"修补学习者"变为"修补设计"。对使用AI的教师与设计者�
 - 提供评估产物的选择权（论文、演示、视频、图表、代码），并对齐到同一学习成果。
 - *示例：* 一个项目允许以书面报告、AI辅助的视频讲解或现场演示提交——每种模式都由AI [[scaffolding|支架]]支持。在[[assessment]]设计中，这与[[authentic-assessment]]的表征公平相平行。
 
+只有当各个选项看起来同等可信时，选择才真正具有包容性。在一项理学院的研究中，学生喜欢在视频与论文之间做选择，但报告说同伴担心论文会被打更低的分，因此共享的评分标准与对评分逻辑的说明，才是把一份格式菜单变成包容、而非战略猜测的东西（[[mcdonald-inclusive-assessment-genai-2026|McDonald 等（2026）]]）。
+
 **为AI素养与能动性而设计。**
 - 教学生如何以及何时使用AI，并建立让学习者（而非工具）承担责任的检查点——参见[[ai-literacy]]与[[reducing-ai-misuse]]。
 - *示例：* 一份与UDL对齐的作业让学生用AI起草，但要求他们对自己的贡献做[[metacognition|元认知]]反思，以保全参与与能动性原则。
@@ -122,3 +128,4 @@ UDL把"修补学习者"变为"修补设计"。对使用AI的教师与设计者�
 - [[faculty-accessible-course-design-ai-2026]] — 《AI is reducing options I had used》：探索教授对 ChatGPT 世界中可及课程设计的感知
 
 - [[alenezi-ai-universal-design-learning-kuwait-2026]] — 科威特高等教育机构中的人工智能与通用学习设计：迈向一个面向包容教育的 AI 赋能框架
+- [[mcdonald-inclusive-assessment-genai-2026]] — 生成式 AI 时代的包容性评估设计：推进教学法与实践

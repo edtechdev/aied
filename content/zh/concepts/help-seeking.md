@@ -1,7 +1,7 @@
 ---
 title: 求助行为（Help-Seeking）
 created: "2026-08-06T10:20:04-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-18T03:50:00-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [help-seeking, metacognition, scaffolding, self-regulated-learning]
@@ -11,7 +11,7 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/help-seeking
-source_updated: "2026-11-08T08:56:00-05:00"
+source_updated: "2026-11-16T05:34:55-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -19,13 +19,15 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
+    agent: hermes-agent
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
 > **求助行为（Help-Seeking）** — 学习者意识到需要帮助并策略性地提出求助的过程，以及这一过程在 AI 支持的学习环境中如何展开。在[[ai-education|AI 教育]]中，求助行为是决定 AI 工具支持还是损害学习的关键：求助的*质量*（学习者何时、以何种方式、索取什么）强烈影响学习结果，而 AI 导师、提示与[[pedagogy|教学法]]代理正是为了引出建设性的求助行为、而非"直接要答案"而设计的。([[lak2026-hint-button-unproductive-use]])([[ai-fallibility-warning-help-seeking]])
-
-主动的外联可以在完全不改变学习材料的情况下提高求助行为。一项在大规模本科生课程中开展的预注册实验通过学业聊天机器人向学生发送消息，发现辅导与补充教学的参与度上升；中介分析将 17.8% 的成绩效应归因于求助行为的增加（p = 0.041）（[[chatbot-outreach-course-performance-2026]]）。
 
 ## 值得思考的问题
 
@@ -97,10 +99,15 @@ ai_assist:
 现实中的学生经常**绕过[[conversational-ai|聊天机器人]]的[[scaffolding]]**——未必有害，但往往是因为聊天机器人的教学框架与学生自身的学习目标不匹配。因此评估流程必须测量的不只是导师是否提供脚手架，还包括学生是否*接受*了这些脚手架，而不能假定他们会接受。([[rethinking-scaffolding-llm-tutors]])
 
 - **可选的帮助按钮无人点击。** 在三个五年级课堂中，学生很少召唤一个设计者刻意留作可选以保护能动性的助手代理，而是转而呼叫[[teacher-role|教师]]，而该代理本为消除的困惑依旧存在（[[humburg-scistory-ai-supported-inquiry-science-learning-games-2025|Humburg 等，2025]]）。
+- 在一场为期三周的五年级角色扮演游戏中，GenAI 条件下的全部 42 名学生都向游戏内的教师提问，61.9% 的人把有机会提问列为自己所看重的东西；有几位说他们问的是不敢向真实教师提出的问题（[[zhou-genai-contextual-games-computational-thinking-2026|Zhou 等，2026]]）。
 
 ## 求助行为与自我调节学习
 
 求助行为是[[self-regulated-learning]]的有机组成部分：建设性求助要求学习者监控理解、判断何时需要帮助、选择恰当来源。在 GenAI 情境中，这更加苛求，因为学生还须对 AI 行使[[agency]]，保持认知警觉而非听命于它。本知识库的研究支持需要[[scaffolding|脚手架]]来促进更具[[agentic-ai|能动性]]和认知主动性的 AI 使用，并强调求助退化为无条件索要答案时[[cognitive-offloading|过度依赖]]与[[cognitive-offloading]]的风险。([[regulating-ai-tutor-adolescent-srl]])([[guided-llm-scaffolding-independent-learning]])
+
+大规模证据使替代叙事变得复杂：在中国四个地区的 12,191 名 PISA 2025 学生中，为课业更频繁地使用 GenAI 伴随着更多的学业求助（β = 0.169），而不是更少（[[wu-genai-scientific-literacy-china-2026|Wu 等（2026）]]）。
+
+日志把需求放在时钟上和题目上。在一门 215 名学生的静力学课程中，向教材 ChatGPT 助手发出的提示在周日与周一达到高峰，另一个高峰在凌晨 1 点到 3 点之间，正是答疑时间关闭的时段（[[wyszynski-genai-user-input-engineering-statics-2026|Wyszynski、Barry 与 Dosse，2026]]）。学生索要什么随难度变化：在一门研究生汇编语言课程中，带提示的尝试更不可能正确（OR = 0.35），而元认知提示集中在中等难度的题目上，在这些题目上带提示的尝试成功几率是 3.79 倍（[[huang-multi-agent-self-regulated-learning-cs-2026|Huang 等，2026]]）。决定帮助是否变得反思性的，是题目难度而非提示设计。
 
 ### LLM 中介的求助作为四阶段过程
 
@@ -116,6 +123,8 @@ ai_assist:
 
 **第二条流水线从基础设施一侧问同一个问题。**[[taufer-human-ai-interaction-haidl-2026|Taufer 等人（2026）]]主张，人机交换本身就是一个数据类别：他们的表示把促成请求的计算状态、请求、回应、用户对它的评估以及随后的执行记录为一个对象。查询随后据此被分类为错误恢复、卡在下一步、概念性求助或验证。在一个覆盖 140 个学生—作业对的 35 名学生 JupyterLab 部署中，单纯互动计数与成功执行的单元只有 r = 0.12 的相关，而有 37 对拥有访问权却从未使用，26 对在其被分配的实验条件之外使用。
 
+- 当导学记录可能被打分时，保留一次请求是理性的，因此求助的缺席不能被读作需要的缺席：同一个日志指标在评估之下意味着不同的东西（[[nakamura-observability-authenticity-paradox-stem-assessment-2026|Nakamura，2026]]）。
+
 ## 对设计与研究的启示
 
 1. **刻意设计求助可供性。** 常驻、醒目的帮助按钮会催生绕过策略；延迟访问并结构化交付以支持[[desirable-difficulties|建设性挫折]]。([[lak2026-hint-button-unproductive-use]])
@@ -123,6 +132,7 @@ ai_assist:
 3. **用透明度校准信任。** 警告 AI 可能出错可以增加恰当的求助行为和参与度。([[ai-fallibility-warning-help-seeking]])
 4. **测量采用，而非仅测量脚手架。** 评估学生是否真正参与教学框架，而不只是导师是否提供。([[rethinking-scaffolding-llm-tutors]])
 5. **支持监控与能动性。** 求助脚手架应强化[[metacognition]]与[[self-regulated-learning]]，防范[[cognitive-offloading|过度依赖]]。
+6. **触达不开口的学生。** 外联可以在完全不改变学习材料的情况下提高求助行为：一项在大规模本科生课程中开展的预注册实验通过学业聊天机器人向学生发送消息，提高了辅导与补充教学的参与度，中介分析把 17.8% 的成绩效应归因于求助行为的增加（p = .041）（[[chatbot-outreach-course-performance-2026|Meyer 等，2026]]）。
 
 ## 常见误解
 
@@ -179,3 +189,5 @@ ai_assist:
 - [[helpcoach-ai-help-seeking-scaffolding-2026]] — HelpCoach：在问题解决过程中为定向 AI 求助搭脚手架
 - [[guided-ai-tutor-impasse-resolution-2026]] — 受引导 AI 导师如何化解学生僵局的差异考察
 - [[student-query-demand-hybrid-ai-support-2026]] — 学生实际问什么：混合支持系统中的需求结构与自动化潜力
+- [[wyszynski-genai-user-input-engineering-statics-2026]] — 通过用户输入数据考察工程静力学课程中学生对生成式 AI 的使用
+- [[huang-multi-agent-self-regulated-learning-cs-2026]] — 多智能体人工智能模型以提升计算机教育中的自我调节学习与概念理解

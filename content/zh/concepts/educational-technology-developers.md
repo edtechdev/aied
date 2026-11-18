@@ -2,7 +2,7 @@
 connected_resources: [playlab]
 title: "教育技术开发者"
 created: "2026-09-17T15:20:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:24:00-05:00"
 type: concept
 foundations: [educational-development, learning-design]
 technology: [learning-analytics, edtech-platform, open-source]
@@ -11,13 +11,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [design-based-research]
 translation_of: concepts/educational-technology-developers
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -39,7 +43,7 @@ ai_assist:
 
 这个角色也与它的邻接角色不同。[[learning-design]] 与 [[curriculum-design]] 为一个已知队列设计一门课程；技术开发者设计的是一件产品，将由许多课程使用，而课程的授课者他们从未谋面——这正是默认值、可配置性与文档带有教学分量的原因。[[educational-development]] 从机构内部支持它的教学人员；开发者位于机构之外或与之并行，提供工具，而这些人员随后被要求采纳它们。而 [[design-based-research]] 是这类开发者日益被要求达到的证据标准：迭代的、情境化的，并带着自身的局限报告。
 
-### 谁在教育中构建 AI
+## 谁在教育中构建 AI
 
 **构建公共基础设施的研究实验室。** [[oatutor-open-source-adaptive-tutor-2023|OATutor]] 在 UC Berkeley 被构建，是第一个完全开源的、基于 [[intelligent-tutoring|ITS]] 原则的自适应辅导系统：一个 MIT 许可的代码库，配以 Creative Commons 代数库、[[knowledge-tracing|Bayesian Knowledge Tracing]] 掌握度估计、A/B 测试基础设施与 LTI 支持。它存在的理由是一个设计决策——专有平台把 [[adaptive-learning]] 研究封闭在闭环系统之内——而它的创作路径是另一个：16 位创作者在 2.27 小时的培训之后，用六个月产出了一门大学代数课程。
 
@@ -51,13 +55,13 @@ ai_assist:
 
 **机构内部的构建者。** [[moodle-ai-tutoring-deep-learning]] 把 [[llm]] 辅导嵌入既有 LMS，而不是交付一个独立工具，从而降低 ITS 文献所指认的、导致系统在实践中失败的采纳门槛。[[savvy-student-attention-video-learning]] 把[[multimodal|多模态]]注意力信号转化为教师可以在发布视频之前读取的界面。[[instructional-agents-multi-agent-course-gen|Instructional Agents]] 用角色专门化的智能体自动化 ADDIE 的前三个阶段，而它的消融实验是一则设计课：单智能体基线得分最差，[[human-ai-collaboration|Full Co-Pilot]] 高出 Autonomous 0.5–0.9 分，而后端之间没有质量差异，于是最便宜的那个成为默认。
 
-### 一项设计主张能建立在什么之上
+## 一项设计主张能建立在什么之上
 
 **证据基础比它看起来更弱。** [[oneill-presumed-effective-meta-analysis-2026]] 审计了 14 项声称 AI 改善教育的元分析，发现没有一项能支撑其主张：除两项之外，所有分析都把干预定义为一个工具而非一种教学干预，59 项经审原始研究中有 61% 存在效度问题，凡有报告处异质性都很高，调节效应分析功效不足，而发表偏倚从未得到有效评估。一项被撤稿的[[meta-analysis-systematic-review|元分析]]仍被 60% 的抽样后续论文当作权威引用。对开发者而言，"AI 改善学习"是一个产品类别主张，而不是设计输入。
 
 **报告不确定性与全部成本，而不只是准确率。** 对 [[stanbkt-bayesian-knowledge-tracing|StanBKT]] 而言，贝叶斯推断在预测上买不到任何东西，却在能说清哪些效应可信上买到一切。[[shen-sustainable-ai-knowledge-base-cs-education-2026]] 报告了检索消融、量化感知[[llm-training-and-fine-tuning|微调]]、VRAM、每次查询能耗，以及对照检索到的开放资源测量的[[hallucination-risk|幻觉]]——并附作者自己的告诫：该系统不是一个经过验证的辅导系统。这正是使一项部署主张可被检验的 [[ai-ed-evaluation|evaluation]] 纪律。
 
-### 与教师和学习者共同设计
+## 与教师和学习者共同设计
 
 **解释必须说教师的语言。** [[xai-teachers-trust-edtech-recommendations-2026]] 对 41 名[[chemistry-education|化学]]教师做了一项被试内实验，使用一个 ML 推荐工具：可理解性、[[trust]] 与接受度正相关，而用课程语言书写的领域驱动解释，其可理解性、习得 [[trust-calibration|trust]] 与接受度都显著高于特征重要性解释。信任也是动态的——数位教师表示，只有课堂经验才能让它定论——而接受度取决于教学对齐与工作量削减。
 
@@ -65,16 +69,9 @@ ai_assist:
 
 **机构规模的共同设计。** 开放大学的 [[new-systems-of-learning-for-distance-learning-institutions-a-six-study-review-of|AIDA]] 通过 18 个月内六项设计型研究构建，涉及 498 名学生与 20 名员工。约 20% 起初持怀疑态度；在动手使用之后，96% 希望保留它，而一项探索性 [[rct]] 发现使用时长翻倍，但学习过程数据上没有显著差异。使能因素是组织性的——高层赞助、跨单位协作、数据驱动的迭代——并伴随系统思维能力上的缺口。
 
-### 采购、开放性与资金停止之后
+## 采购、开放性与资金停止之后
 
 [[shen-sustainable-ai-knowledge-base-cs-education-2026]] 提供了采购决策所需的输入：12 GB VRAM 的硬件底线、7B 级模型的准确率上限、每次查询能耗，以及一个选择次序——先检索（没有它模型得分 52.3%，低于 TF-IDF 基线），再微调，再量化感知压缩；开放许可是在本地服务语料的前提。[[reclaiming-epistemic-agency-co-agency-2026]] 把同一决策框定为治理：透明度要求把采购变成认识论治理，可争议性与来源可溯成为条件，而能力最弱的地区面对最高的门槛。[[credential-cognitive-stewardship-ai-assessment]] 补充道，在 30 个经审计的政策包中，供应商治理只出现在 29%，而它们规定 AI 可以做什么，远比规定何种学习证据留存要爽快得多。[[genai-mindtool-generative-learning]] 提出了设计问题——产品鼓励的是*借助*工具学习，还是把认知工作外包出去——而 [[vocabulary-difficulty-prediction]] 在小尺度上展示了这种权衡：得分最高的[[explainable-ai|黑盒模型]]（r > 0.91）比可解释模型（r > 0.77）更难解释。
-
-## 常见误解
-
-- **"元分析支持了产品的宣称。"** 它们并不支持，而原因是具体的，不是程度问题。一项对 **14 项**声称 AI 改善教育的元分析所做的审计发现，**没有一项为其宣称提供了正当依据**，除两项外其余都在方法上失败；而**一篇已被撤稿的元分析，仍被抽样的后续论文中的 60% 当作权威引用**。撤稿的传播比更正更快，这意味着路线图很可能引用的那份文献，包含着该领域已经撤回的宣称。
-- **"加入引用与来源信息使系统更可信。"** 在[[agentic-ai|多智能体]]辩论的情境中，为 AI 的立场加入引用与权威信号**把放弃正确判断的比例从 15.0% 抬高到 31.8%**。来源信息不是中性信息：它让错误答案更有说服力。可信度线索需要是正确性的证据，而不是围绕一项宣称的装饰。
-- **"与用户共同设计验证了设计。"** 共同设计回答的是与效力不同的问题。当一个工具与学生共同设计、并有 **96% 的人说希望保留它**，那是关于可接受性的发现。学习是否改善是另一项测量，两者可以指向相反方向而都不算错。
-- **"智能体是下一个能力层级。"** [[instructional-agents-multi-agent-course-gen|教学智能体]]的消融是那个有用的反例：单智能体基线得分**最差**，而完整的副驾驶配置**胜过**自主配置。更多自主性不是更好的设计，副驾驶安排才是。架构选择必须被评估，而不能假定它会随能力提升。
 
 ## 实践意涵
 
@@ -89,6 +86,13 @@ ai_assist:
 
 - 问这个工具在你要用它做的那个任务上是怎么被评估的，以及那次评估是副驾驶还是自主的。两者不可互换。
 - 问评估是何时进行的。与未说明的模型版本绑定的能力宣称会很快过时，它描述的是你不会运行的那个系统。
+
+## 常见误解
+
+- **"元分析支持了产品的宣称。"** 它们并不支持，而原因是具体的，不是程度问题。一项对 **14 项**声称 AI 改善教育的元分析所做的审计发现，**没有一项为其宣称提供了正当依据**，除两项外其余都在方法上失败；而**一篇已被撤稿的元分析，仍被抽样的后续论文中的 60% 当作权威引用**。撤稿的传播比更正更快，这意味着路线图很可能引用的那份文献，包含着该领域已经撤回的宣称。
+- **"加入引用与来源信息使系统更可信。"** 在[[agentic-ai|多智能体]]辩论的情境中，为 AI 的立场加入引用与权威信号**把放弃正确判断的比例从 15.0% 抬高到 31.8%**。来源信息不是中性信息：它让错误答案更有说服力。可信度线索需要是正确性的证据，而不是围绕一项宣称的装饰。
+- **"与用户共同设计验证了设计。"** 共同设计回答的是与效力不同的问题。当一个工具与学生共同设计、并有 **96% 的人说希望保留它**，那是关于可接受性的发现。学习是否改善是另一项测量，两者可以指向相反方向而都不算错。
+- **"智能体是下一个能力层级。"** [[instructional-agents-multi-agent-course-gen|教学智能体]]的消融是那个有用的反例：单智能体基线得分**最差**，而完整的副驾驶配置**胜过**自主配置。更多自主性不是更好的设计，副驾驶安排才是。架构选择必须被评估，而不能假定它会随能力提升。
 
 ## 关联概念
 

@@ -1,7 +1,7 @@
 ---
 title: 反馈素养
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:15:06-05:00"
 type: concept
 connected_faqs: [writing-instruction-ai-best-practices, ai-feedback-at-scale]
 foundations: [ai-literacy]
@@ -10,13 +10,17 @@ assessment: [ai-feedback-quality, feedback, feedback-literacy, formative-assessm
 discipline: [writing education]
 confidence: high
 translation_of: concepts/feedback-literacy
-source_updated: "2026-11-04T17:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -35,9 +39,11 @@ ai_assist:
 
 反馈素养之所以重要，是因为设计良好的反馈只帮助那些能理解并据此行动的学生。一个无法评估 AI 生成的反馈是否准确、或不知道如何把反馈转化为具体修改的学生，从同样的反馈中学到的东西远少于一个反馈素养更高的同伴。当 AI 重塑反馈的提供方式时，反馈素养已成为 AI 反馈能否改善学习的核心边界条件。
 
-### 反馈素养是什么
+[[corbin-recognition-feedback-2026|Corbin、Tai 与 Flenady（2026）]]把认可置于素养之前：学生必须赋予反馈提供者引导自己的资格，并且被赋予作答的资格，否则素养便无处施展。
 
-反馈素养被广泛框定为一组相互关联的能力——赏识反馈、做出判断、管理情绪与采取行动的能力（据 Carless & Boud）。知识库的文章把反馈素养围绕以下几项能力聚类：
+## 反馈素养是什么
+
+反馈素养被广泛框定为一组相互关联的能力——赏识反馈、做出判断、管理情绪与采取行动的能力（据 Carless & Boud）。文献把反馈素养围绕以下几项能力聚类：
 
 - **寻求与引出反馈** — 主动请求反馈，而非被动接收。
 - **做出判断** — 评估反馈的准确性与有用性，包括由 AI 产出的反馈。
@@ -46,7 +52,7 @@ ai_assist:
 - **据反馈行动** — 把反馈转化为具体的修改或方法上的改变（[[feedback|反馈循环]]、[[self-regulated-learning]]）。
 - **判断评价权威** — 由 [[student-perspectives-ai-writing-grading-2026|AlGhamdi（2026）]] 提出的一项进一步能力：在赏识反馈、做出判断、管理情绪与采取行动之外，就 AI 产出的反馈做推理的学生，需要判断*哪个来源握有评价权威*，这与判断反馈质量是分开的。由于参与者被告知分数与反馈都由 ChatGPT 生成，他们的反馈素养被施用于评价的来源与合法性之上，而不仅是其内容，并产生了对教师验证的要求而非被动接受。
 
-### 反馈素养如何出现在研究中
+## 反馈素养如何出现在研究中
 
 - **反馈素养作为 AI 反馈价值的调节变量：** [[mendoza-ai-feedback-feedback-literacy-srl|Mendoza 等人（2026）]] 表明，反馈素养调节 ChatGPT 接受度与 [[self-regulated-learning]] 之间的联系：素养较强的学生从 AI 反馈中感知到更大的 SRL 收益，而素养较弱的学生则显示出极小甚至负面（[[cognitive-offloading|过度依赖]]）的效果。反馈素养是学生能否「读懂」AI 反馈的边界条件。
 - **反馈素养作为从 GenAI 使用到批判性思维的路径：** 在 421 名中国本科生中，GenAI 使用与 [[self-report-measures|自陈]] 批判性思维的关联几乎完全经由 GenAI 反馈素养传递（β=0.185，占总效应的 71.98%），且该路径随反思性思维上升而增强（moderated mediation 指数 = 0.030）（[[genai-use-critical-thinking-moderation-2026|Yan 等人（2026）]]）。
@@ -65,13 +71,13 @@ ai_assist:
 - **反馈素养作为 AI 素养与 [[assessment|评估]] 设计的目标：** [[richmond-nicholls-genai-psych-feedback-ai-literacies|Richmond 与 Nicholls（2025）]] 采用一种重过程胜于产物的评估，让学生按评分标准批评 ChatGPT 的输出，同时建立反馈、心理与 AI 三种素养；[[learner-centered-feedback-ai|以学习者为中心的 AI 反馈]] 与 [[care-full-feedback-genai|关怀式反馈设计]] 把反馈质量与学习者投入的能力相连。
 - **反馈素养可以被教授，而 AI 可以提供练习材料。** 一份概念指南让教师生成一个分级的 AI 作业样本谱系：满足全部、部分和零项标准，然后带领学生经历示范批评、有引导的课堂分析与独立评价（[[ai-feedback-literacy-assessment-as-learning-2026|Pennington 与 Hock（2026）]]）。
 
-### 为什么反馈素养对教育中的 AI 重要
+## 为什么反馈素养对教育中的 AI 重要
 
 AI 在两个方向上改变反馈，两者都提高了反馈素养的赌注。其一，AI 极大地增加了反馈的*数量与即时性*（[[ai-feedback-quality]]、[[feedback|反馈循环]]），因此学生面对的反馈多得多，必须加以分流与评估。其二，AI 生成的反馈带有独特的风险——不准确、[[hallucination-risk|幻觉]]，以及「精通的幻觉」——这要求 [[critical-thinking|批判性评估]] 的技能，以及对过度依赖和 [[llm-fallacy-misattribution|错误归因]] 的警惕。因此反馈素养成为 [[ai-literacy]] 的一个核心组成部分：不仅知道如何向 AI 索求反馈，还知道如何判断反馈是否值得据以行动，以及如何把它转化为真正的学习而非任务完成。
 
 [[ai-feedback-ecosystem-higher-education-2026|Bearman 与同事（2026）]] 为这份清单添上了一项进一步的要求。在他们的工作坊研究中，学生管理的不是单一反馈来源，而是一个网络：他们把教育者的评论与 AI 的输出、评分标准、课程材料与同伴放在一起权衡，而当人类反馈迟缓时，他们继续与 AI 工作作为一种权宜之计，若发现被误导则稍后修改。作者建议，学生可以通过从细粒度的任务到更广的轨迹管理这些关系，来充当自己的 human-as-the-loop，而这本身就是一种反馈素养能力。他们的警告是：薄弱或迟到的教育者评论，正是把学生推向未经验证来源的推手。
 
-### 与相关概念的关联
+## 与相关概念的关联
 
 反馈素养与 [[ai-feedback-quality]] 和 [[feedback|反馈循环]] 相连（它所互补的提供侧）、[[formative-assessment]]（它所滋养的评估循环），以及 [[self-regulated-learning]]（它所支持的 [[self-assessment]] 与适应）。当应用于 AI 生成的反馈时，它是 [[ai-literacy]] 的一个子集，在协作情境中与 [[peer-assessment]] 相交，并对 [[writing-education]] 格外关键。它也与 [[metacognition]] 和 [[trust-calibration]] 相连——即判断反馈是否值得信任的能力。
 

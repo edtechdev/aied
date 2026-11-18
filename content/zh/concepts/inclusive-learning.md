@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: 包容性学习
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity, universal-design-for-learning]
@@ -10,13 +10,17 @@ connected_faqs: [ai-disabled-neurodivergent-learners]
 level: [special education, higher ed]
 confidence: high
 translation_of: concepts/inclusive-learning
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -74,6 +78,8 @@ ai_assist:
 **正式诊断的门槛把工具声称要服务的学习者排除在外。** 在[[assistive-tech-neurodivergent-higher-ed-review-2026|Rempel 等（2026）]]对 40 项面向神经多样性学生的数字辅助技术研究的范围综述中，有 28 项把正式诊断设为参与条件，只有 3 项针对环境而非学生。
 
 **实践中的可及工具**展示了 AI 如何扩展参与。**[[suacode-african-students-motivations|SuaCode]]**证明，基于智能手机的编程课程能触达编程技能不足 1% 的低资源非洲情境中的学生。**[[embodied-string-learning-blindness-low-vision-musicians|Pimenova 等]]**与盲人及低视力音乐家合作开发非视觉学习策略，把残障主导的[[embodied-learning|具身]]设计置于中心。**[[ludia-udl-ai-thought-partner-2026|LUDIA]]**提供一个免费、私密、多语言的 AI 思考伙伴，把教育者与 UDL 原则连接起来。**[[special-r1-rl-special-education|Special-R1]]**把[[reinforcement-learning|强化学习]]延伸到跨残障画像的认知与交际多样性建模。
+
+**政策落后于部署。** 在排名前 100 的大学中，没有一所制定 AI 可及性政策，尽管 93% 已部署 AI 驱动的校园服务（[[chan-ai-institutionalization-index-global-universities-2026|Chan（2026）]]）。
 
 ### 关联概念
 

@@ -1,7 +1,7 @@
 ---
 title: 计算思维
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-18T03:07:30-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [adaptive-learning, generative-ai, llm, prompt-engineering]
@@ -9,13 +9,17 @@ discipline: [cs education, stem education]
 level: [k 12]
 confidence: high
 translation_of: concepts/computational-thinking
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:36:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -34,7 +38,7 @@ ai_assist:
 
 ## 引言
 
-### AI时代课堂中的CT
+## AI时代课堂中的CT
 
 本知识库的关联文章汇聚于一个核心主张：计算思维（CT）是学生批判性地与AI打交道所必需的概念基石，它也是被良好设计的AI支持学习最直接加深的技能。下文的证据按四个主题分组，均扎根于所链接的文章。
 
@@ -50,7 +54,12 @@ ai_assist:
 
 - **一份经验证的工具定位了CT最难之处。** 一项用证据中心设计构建、并通过461名AI编程学生的项目反应理论加以验证的34题计算思维测验，把难度集中在数据表示、逻辑运算符排序与循环结构上，而非均匀分布在整个教学大纲中（[[zhang-ct-ai-training-test-2026|Zhang 与 Zhang（2026）]]）。
 
-### CT与从AI消费者向生产者、创造者与设计者的转变
+- 测量选择改变了结论：在 23 对同构念配对中，计算思维与批判思维的条目有 13 对给出了不一致或混合的结论，因此自报式计算思维问卷与任务式测量常常彼此不符（[[same-construct-same-conclusion-self-report-vs-performance-2026|Fan 等（2026）]]）。
+- 计算思维也被作为一种倾向来测量：在一项为期三周的五年级游戏研究中，校正后的自报计算思维倾向偏向GenAI班，为 4.325 对 4.037（p = .046，偏 eta 方 = .052，n = 78）。算法知识测验却并未区分二者（80.7 对 74.9），因此倾向测量与知识测量追踪的是不同的构念（[[zhou-genai-contextual-games-computational-thinking-2026|Zhou 等，2026]]）。
+
+子技能画像使前后测设计所报告的那个单一CT分数变得复杂。[[koraneekij-codecraft-computational-thinking-2026|Koraneekij 与 Khlaisang（2026）]]让 28 名非计算机专业的泰国本科生上了八周、每次三小时的课程，把五步[[design-thinking|设计思维]]循环与低代码应用搭建配对，并以三点量表为项目作品评分。平均计算思维从第一次课的 1.13 升到 1.80，再到 2.49，其中算法思维是最强的一支，为 2.08，轨迹为 1.46 到 1.93 再到 2.86。逻辑思维平均为 1.54，在最初两次课之间几乎没有移动（1.04 到 1.29），到第三次课才达到 2.29——这提醒我们，某一个成分的提升并不意味着其余成分也随之提升。
+
+## CT与从AI消费者向生产者、创造者与设计者的转变
 
 CT在AI时代的一个核心目标，是让学生与教师超越对AI产出的*被动消费*，走向*与AI一同并为了AI而创造、构建与设计*——这一议程使CT与建构主义学习（做中学）对齐。本知识库的关联文章日益明确地把这一生产者/创造者/设计者的转向显性化。[[ai-writes-code-student-writes-model-2026|模型作者身份研究]]把GenAI时代的学习即建构重构为一个可测量的"模型作者身份"过程——学生创作、调试并迭代AI模型，而非仅仅消费AI生成的代码或答案。[[code-to-learn-genai-artifact-construction-2026|CtL-GenAI框架]]将其操作化为GenAI时代的[[constructivist|建构主义]]，把学生用AI构建的成果物视为CT发展的引擎。[[computational-thinking-ai-agent-creation|通过创建AI智能体学习CT]]表明，设计而不只是使用AI智能体，直接锻炼了分解、抽象与算法推理。
 
@@ -60,11 +69,11 @@ CT在AI时代的一个核心目标，是让学生与教师超越对AI产出的*�
 
 复用他人的模型属于生产者立场：实现一个已发表的 AI 模型——选择、安装、运行并验证它——可以作为一门可学习的、结构化的技能来教授，为每一个可预见的失败配一条回退路径，且三名没有编程背景的[[chemistry-education|化学]]专业本科生在四个月内复现并扩展了一个酶—底物预测模型（[[praise-non-programmer-ai-model-implementation-2026|Achterweust 等（2026）]]）。
 
-### 实践指引
+## 实践指引
 
 对教育者而言，一致的信息是：CT通过*显式、有支架、可观察*的参与而发展，而非通过被动的AI使用。把机器人与对课程的显式CT概念映射相配对；用LLM做[[simulation]]、自然语言控制以及对CT成长的可扩展评估，同时为"系统思维"这类构念保留人类判断；并重新设计评估，使其强调对AI产出的评估与诊断，而非原始生成。无论在何种情境——幼儿的不插电游戏、中学[[stem-education]]的机器人，还是[[higher-ed]]的虚拟导师——都应把活动构造为让学生必须对分解、模式、抽象与算法进行推理，而非接收现成解法。
 
-### 与相关概念的联系
+## 与相关概念的联系
 
 计算思维是[[ai-literacy]]与[[critical-thinking]]之下共享的认知基础，是[[cs-education]]与[[k-12]]计算课程的课程内核，也是[[educational-robotics]]、[[game-based-learning]]与[[project-based-learning]]最好应服务于的概念目标。当[[llm|大语言模型]]与[[generative-ai]]被用作支架工具时，它会加深CT；而学生迷思分类法与CT感知的评估所瞄准要测量的，正是这项技能。教师通过[[teacher-education]]与[[professional-training]]发展它，而它可在包括[[physics-education]]与广义[[stem-education|STEM]]在内的领域间迁移。
 
@@ -127,3 +136,4 @@ CT在AI时代的一个核心目标，是让学生与教师超越对AI产出的*�
 - [[astor-computational-thinking-meta-review-2026]] — 对128篇系统综述的CT元综述
 - [[praise-non-programmer-ai-model-implementation-2026]] — PRAISE：非程序科学家实现已发表 AI 模型的可复现工作流
 - [[tsingidou-ct-robotics-kindergarten-2026]] — 幼儿园通过机器人发展CT的系统综述
+- [[koraneekij-codecraft-computational-thinking-2026]] — Code Craft：用于提升计算思维与数字素养的数字设计思维与学习平台

@@ -1,7 +1,7 @@
 ---
 title: 学生支持与成功
 created: "2026-10-01T20:31:35-04:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-18T03:16:30-05:00"
 type: concept
 foundations: [ai-education, human-ai-collaboration]
 pedagogy: [help-seeking, student-experience, student-engagement]
@@ -15,13 +15,17 @@ level: [higher ed, undergraduate]
 confidence: high
 connected_faqs: [ai-agents-support-students-instructors, institutional-ai-policy]
 translation_of: concepts/student-support-and-success
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -73,7 +77,7 @@ AI 支持渠道所取代的东西，值得同样的核算。在四项研究中�
 
 ## 结果阶梯：每一项度量究竟意味着什么
 
-"成功"一词至少掩盖了五种不同的度量方式，而 AI 支持对它们的推动并不均衡。把它们区分开来，是本页能做的最有用的事。
+"成功"一词至少掩盖了五种不同的度量方式，而 AI 支持对它们的推动并不均衡。把它们区分开来，是最有用的分析动作。
 
 - **任务完成** 是单个、有日期、二元的行为，由学生掌控、机构在数日内观察到——在截止日期前注册、提交表格、加入 Early Start。这是推动发挥作用的地方，效应可以很大且立竿见影（CSUN 注册提醒中是 34 个百分点，随后只有 2）。
 - **学分（注册与修得的学分单元）** 是累积性的，取决于课程供给、修读顺序以及学生负担得起多少个学期。在 CSUN 评估中，注册学分、修得学分或累积学分上均未出现显著的干预效应。
@@ -82,6 +86,8 @@ AI 支持渠道所取代的东西，值得同样的核算。在四项研究中�
 - **毕业** 是终局的、跨多年的结果。CSUN 研究中对照组的四年毕业率均值为 0.190，干预对它的效应不具统计显著性。
 
 作者对这一模式的解释构成本页的核心论断：提醒作用于离散且近期的决策，而坚持就读与 GPA 是累积性的，受教学、经济状况、就业、家庭环境与先前准备共同塑造。他们得出结论：通过此类工具进行的沟通，**单独而言**，可能不足以改变它们——而这些零结果本身是精确的，并非功效不足。即便学习结果没有变化，提早注册在人员配置与空间规划上仍具有机构价值。
+
+一条支持渠道可以搬动机构的劳动量，却不动这座阶梯上的任何一级。在一门超过 800 名学生的工程一年级设计课中，人均求助表单提问从 1.16 降到 0.5，减少 57%，而问题类型构成保持不变：作业 29%、成绩 33%、软件 27%、其他 11%（[[gupta-ai-virtual-assistant-adoption-engineering-2026|Gupta 等，2026]]）。作者明确说这是一个工作量结果，而非成绩结果——支持类业务论证通常漏掉的那笔账。
 
 ## 公平性与依据评分行动的风险
 
@@ -158,4 +164,5 @@ AI 支持渠道所取代的东西，值得同样的核算。在四项研究中�
 - [[akcapinar-ai-cheating-risk-lms-prediction-2026]] — Akçapınar（2026）—— 早期预测 AI 辅助作弊风险，以及低风险外展的阈值权衡
 
 - [[rienties-institutional-ai-assistant-co-design-2026]] — 对机构 AI 学习助手的五项共同设计研究：可用性优先，基于价值观的抵制居后
+- [[gupta-ai-virtual-assistant-adoption-engineering-2026]] — 从提问到对话：探索工程教育中基于 AI 的虚拟助手的采用、可用性与影响
 

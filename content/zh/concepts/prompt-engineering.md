@@ -1,7 +1,7 @@
 ---
 title: 提示工程
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:15:00-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer]
 foundations: [ai-literacy]
@@ -12,7 +12,7 @@ level: [higher ed]
 confidence: high
 connected_resources: [eduprompts, matt-pocock-skills, pedagogical-promptbook, writing-rhetoric-studies-in-the-loop]
 translation_of: concepts/prompt-engineering
-source_updated: "2026-11-08T08:41:46-05:00"
+source_updated: "2026-11-16T05:34:25-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -41,16 +45,18 @@ ai_assist:
 
 ## 引言
 
-提示工程是教育中有效使用[[generative-ai]]的核心。与传统的编程界面不同，大语言模型响应自然语言——但这些回应的质量、准确性与[[pedagogy|教学]]价值，很大程度上取决于提示设计。本知识库中的研究表明，提示并非中性的行为：它反映学生如何思考、如何规划、如何分配认知努力。[[miles-prompt-literacy-human-centered-genai-framework-2026|Miles、Haber-Curran 与 Arar（2026）]]通过区分提示工程（为性能而对输入做的技术性优化）与提示素养（澄清目的、批判性阅读输出、并带着说明的理由加以修订这一修辞性、伦理性与反思性的工作），使这一术语涵盖的范围更为清晰。他们的提示素养循环（澄清目的、构建提示、与输出互动、精炼提示、反思）与一份样例过程量规使这一区分可教，并论证：只优化输出的教学，没有触及大语言模型使用中的伦理与认识论维度。
+提示工程是教育中有效使用[[generative-ai|生成式人工智能]]的核心。与传统的编程界面不同，大语言模型响应自然语言——但这些回应的质量、准确性与[[pedagogy|教学]]价值，很大程度上取决于提示设计。研究表明，提示并非中性的行为：它反映学生如何思考、如何规划、如何分配认知努力。[[miles-prompt-literacy-human-centered-genai-framework-2026|Miles、Haber-Curran 与 Arar（2026）]]通过区分提示工程（为性能而对输入做的技术性优化）与提示素养（澄清目的、批判性阅读输出、并带着说明的理由加以修订这一修辞性、伦理性与反思性的工作），使这一术语涵盖的范围更为清晰。他们的提示素养循环（澄清目的、构建提示、与输出互动、精炼提示、反思）与一份样例过程量规使这一区分可教，并论证：只优化输出的教学，没有触及大语言模型使用中的伦理与认识论维度。
 
-### 提示工程如何出现在研究中
+## 提示工程如何出现在研究中
 
 - **提示作为认知痕迹：**[[misiejuk-cognitive-offloading-prompting-2026|Misiejuk 等]]显示，提示模式揭示[[cognitive-offloading|认知卸载]]——高质量的工作使用富含语境、礼貌且指令性的提示；低质量的工作则表现出没有领域依据的反应式反驳
 - **深度改善的是产物，而非保持。**在 22 名研究生中，寻求解释（"为什么/如何/解释一下"）类提示的比例，在基线与知识水平和提示数量之外，预测了独立评定的任务质量（β = 6.27），然而与即时回忆的相关为零（[[llm-interaction-depth-task-quality-recall-2026|Tsiligkiris（2026）]]）。
+- **胜任力才是分层的变量，而且它可以被训练。**在一项对 380 名中国本科生的调查中，提示工程胜任力与被感知的学业收获强相关（r = .793），却与被感知的教育不公平仅弱相关（r = −.131），而家庭数字资本主要是通过胜任力发挥作用，而不是与之并行。随后的一项被试内实验显示，一个五成分脚手架——角色、目标、输入、过程、输出——在四个模型家族中都把评定输出质量从 3.318 提升到 4.603。公平层面的解读比效应量更重要：如果收益是经由一项技能传导的，那么谁获得提示教学就是一个分配决定（[[li-who-benefits-llms-prompt-engineering-equity-2026|Li 等，2026]]）。
 - **提示认知追踪学科，而非学生。**[[student-ai-conversations-cognitive-engagement-2026|Chang 与 Li（2026）]]对 116 门课程的 60,087 条提示做了分类，发现 Bloom 层级画像因学科而异——STEM 以"应用"为主（20.8%），社会科学以"创造"为主（33.8%）——课程层面的方差超过学生层面的方差。
 - **提示作为素养：**[[tracing-genai-literacy-interaction-patterns|追踪生成式人工智能素养]]与[[aaai2026-prompting-literacy-k12|K-12 提示素养]]研究把提示框定为[[ai-literacy]]的核心组件
 - **提示素养是一种被感知的能力，却仍能预测投入。** 在 40 个完整班级的 829 名设计学生中，自陈提示素养——六个改编的自陈题项，而非观察到的提示行为——预测学习[[student-engagement|投入]]，β = 0.539，95% CI [0.473, 0.595]（[[han-prompt-literacy-ai-dependence-design-2026|Han 与 Cao，2026]]）。这一关联不受功能性依赖（p = 0.396）或情感性依赖（p = 0.941）影响。只有认知性依赖——用 AI 的判断替代自己的判断——明显稀释了它。
 - **新手默认试错，并把责任推给模型。**在一门文本语言学研讨课上，十位生成式人工智能新手靠试错来精炼提示，很少使用上下文中的范例，并把糟糕的输出压倒性地归因于大语言模型，而非自己的提示措辞（[[llms-text-linguistics-teaching-2026|Brocca 与 Garassino（2026）]]）。
+- **在 K–12 阶段，第一个目标只是写出一条提示。**在开始游戏之前，2 至 9 年级的 22 名学生中有 36.4% 从未为人工智能写过提示；三次会话之后，只有一名学生仍停留在量表的最低端（[[kumar-picprompt-game-prompt-engineering-k12-2026|Kumar 等（2026）]]）。
 - **含糊的提示会在对话中留下痕迹。**低质量组的标志是一个自我重复的澄清循环（IC→IC，Z = 3.25），可追溯到含糊的提示与人工智能的误读，并带有该研究中最大的挫败感差距（2.12 对 3.82）；在真实日志上做提示调试，可以在它发生时就针对它（[[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang 等（2026）]]）。
 - **当讲师示范提示时，学生逐字复用它。**在来自十二个中学 STEAM 小组的 310 条被记录的提示中，逐字照抄讲师指令是最常见的学生姿态，占 47.1%，高于自发提问的 28.7%（[[middle-school-genai-steam-interactions-2026|Zhao 与 Li（2026）]]）。
 - **一个调节性的循环胜过一个提示公式。**在一项有 42 名本科生的准实验试点中，被教授 IDEA 循环（意图 Intent、解构 Deconstruction、表达 Expression、适应 Adaptation）的学生，在所有五类任务中都产出了比被教授"角色–任务–语境–格式"提示法的同伴更高质量的提示与输出（调整后的提示增益为 +11.77 到 +29.19 分）（[[idea-framework-metacognitive-genai-2026|Wang 等，2026]]）。
@@ -64,9 +70,11 @@ ai_assist:
 - **任务分解有一个最优值：**把辅导培训课的生成分三段进行，产出了评分最高的课（均值 14.67），一次通过得分最低（10.67），而五段又回落到三段之下——适度的分解胜过两个极端（[[lin-llm-interactive-lesson-generation|Lin 等（2025）]]）。
 - **提示特权与公平：**[[prompt-privilege-equitable-ai-access-2026|Jin 等]]显示，提示专长的分布并不均匀——表达请求更有技巧的用户，系统地获得比以同样意图但表达欠佳的用户更好的输出。他们的提示公平转换器（Prompt Equity Transformer）把提示优化从用户移到人工智能系统，论证[[equity-in-ai-education|公平的]]输出应当被工程化进模型，而不是向新手索取。
 - **提示精炼会到达平台期；此后由微调接手。**在二语听力[[assessment]]中，迭代式提示设计带来的题目质量增益递减，但用优化后的提示对 GPT-4.1 做微调——提示保持不变——产出了更贴合语境、更均衡的题目，从而把"[[llm-training-and-fine-tuning|模型适配]]"而非"提示手艺"分离为下一个杠杆（[[gpt-item-generation-l2-listening-2026|Aryadoust 与 Wong，2026）]]）。
+- **当提示历史成为记录时，精炼几乎普遍发生。**在收集到提示历史的 70 名职前教师中，有 67 人在每节课上用了两到四轮迭代，在一个宽泛的开场请求之上补入 5E 模型、小组角色与差异化（[[gold-genai-curriculum-design-preservice-2026|Gold、Winn 与 Marshall Arnold（2026）]]）。
 - **提示作为[[situated-learning|情境化的]]专业判断。**在素养与系统设计之外，提示还可以被框定为一种*学科实践*。[[dierickx-taxonomy-llm-tasks-critical-ai-literacy-journalism-2026|Dierickx 等分类法]]在新闻学中把任务定义与提示当作在某领域的认识论与伦理规范之内行使的专业判断——把新闻工作翻译成显式的任务（信息采集 → 意义建构 → 编辑 → 发表/分发）使假设、优先级与[[ethics|伦理考量]]变得可见，并把提示变成批判性人工智能素养的教学工具。其逻辑可迁移到其他知识密集的专业（法学、医学、公共政策）。
 - **提示设计作为教学规格。**Neto 及同事（2026）在其对医疗教育中生成式人工智能的[[meta-analysis-systematic-review|系统综述]]中发现，提示设计充当一种教学规格，编码了专家创作中隐含的认知目标与质量标准——然而只有 34.8% 的研究把生成内容与教学框架对齐，只有 34.8% 以足够详细的程度报告了提示以便复现。Looi、Liu 与 Sun（2026）进一步展示了提示架构如何嵌入教学规则（正确性关卡、防剧透边界、告别关卡）来约束程序性领域中[[llm]]辅导的行为。
 - **量规引导与角色感知的提示。**[[yasar-llms-iterative-pedagogical-design-2026|Yaşar 等（2026）]]显示，量规引导的提示——把量规当作人类教学意图与机器推理之间的语义界面——把大语言模型与学生设计工作之间的一致性从 54.75% 提到 81.25%（Cronbach's Alpha 0.393 → 0.798）。为大语言模型而工程的量规必须在精确与灵活之间取得平衡：太模糊会招致自由解释，太僵硬则把模型降格为模式匹配。角色感知的提示——以讲师、同行评审与基金评审三种提示评价同一件产物——产出了质性上截然不同、认识论上不同的反馈，表明提示设计塑造的不只是准确性，还有输出的评价姿态。
+- 角色提示有一个边界：让模型扮演一个能力较弱的学生，会泄露它自己的胜任力；而让它预测该学习者的下一步，则能好得多地复现真实的错误（[[hachimi-ii-learner-behavior-modeling-student-simulation-2026|Jiang 等，2026]]）。
 - **提示支架可能把模型推得离教师更远。**[[llm-feedback-focus-adaptivity-student-writing-2026|Almousa 等（2026）]]让七个模型在三种提示策略下产出段落级的写作反馈，发现对其中多数模型而言，加入类别名称或范例反而增大了与教师分布的偏离，只改善了 Mistral-7B（0.2695 到 0.2398）。零样本基线保持得最近，因此"焦点类型指令"是应当被检验而非被假定有效的东西。
 - **面向评估的语境感知提示。**对预训练语言模型做语境感知的提示，可以从过程数据中自动编码[[collaborative-learning|协作问题解决]]技能的标注，建模行为编码之间的依赖关系，并融合认知与社会能力。这使结构化的 CPS 分析得以规模化、实时地进行，克服了手工编码方案的劳动密集性。
 - **教师规划中基于角色的模板与质量量规。**[[luo-tahir-chatgpt-steam-lesson-planning-2026|Luo 与 Tahir（2025）]]为儿童 STEAM 艺术[[curriculum-design|课程规划]]经验性地开发了一个提示框架，把"角色（R）–指令（I）–终点目标（E）"模板（改编自 RISEN）与一份"四点一线"优化量规——标准化、实用、吸引人且完整，外加一个拓展维度——配对。把该量规应用于批判与精炼提示，使生成的方案保持在执业美术教师可接受的范围内（均分高于 4/5），同时暴露了纯一次性提示未加处理的重现性缺口（[[personalized-learning|个性化]]、[[pedagogical-safety|儿童安全]]约束、文化偏见）——表明提示模板加显式评价标准，充当了课堂生成的质量控制支架。
@@ -76,7 +84,7 @@ ai_assist:
 - **决定 LLM 与人类编码一致的是模型身份，而非提示措辞。** 在 [[keith-llm-prompting-human-coding-theory-concepts-essays-2026|Keith 等（2026）]] 控制分解方式后，提示类型不显著（F = 1.77，p = 0.136，partial η² = .03），而模型因子的 partial η² = .19。加入定义或详细指令反而损害了清单式检测，尽管它降低了正确判断定义时的错误；价格也不追踪质量：Gemini 2.5 Pro 花费 \$178.13，表现却不如花费 \$56.77 的 GPT-4.1 Full。
 - **注入理论的名称，而不是它的全文。** [[zambrano-llm-human-ai-codebook-development-2026|Zambrano 等（2026）]] 显示，点名理论的提示在有用性（4.40 对 3.20）与具体性（3.80 对 2.40）上胜过提供论文原文的提示，而全文只在理论对齐上占优（4.60 对 3.60）。
 
-### 与更宽概念的关联
+## 与更宽概念的关联
 
 提示工程与[[scaffolding]]相连——设计良好的提示可以为学生的思考搭支架，而非绕过它。它与[[metacognition]]和[[ai-literacy]]相交，因为有效的提示要求同时理解人工智能的能力与自己的学习目标。[[cognitive-offloading]]研究直接把提示质量与"人工智能使用是在支持还是在破坏学习"联系起来。
 
@@ -115,6 +123,7 @@ ai_assist:
 
 ## 关联文章
 
+- [[li-who-benefits-llms-prompt-engineering-equity-2026]] — 提示胜任力预测收获并中介家庭数字资本；一个五部分脚手架是可以训练的
 - [[lei-fan-genai-prompting-strategies-2026]] — 234 名学生谈难点：意图对齐，而非提示句法
 - [[wang-teacher-student-centered-agents-physics-2026]] — 代理角色与约束提示作为物理学习中的设计变量（Wang 等，2026）
 - [[gpt-item-generation-l2-listening-2026]] — 基于 GPT 的二语听力题目生成中提示对微调（Aryadoust 与 Wong，2026）
@@ -147,3 +156,5 @@ ai_assist:
 - [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — 含糊的提示产生了自我重复的澄清循环，并带来最大的挫败感差距
 - [[li-who-benefits-llms-prompt-engineering-equity-2026]] — 提示工程胜任力作为一条公平路径，附一项跨模型脚手架实验（Li 等 2026）
 - [[han-prompt-literacy-ai-dependence-design-2026]] — 提示素养作为一种被感知的能力，却仍能预测投入
+- [[gold-genai-curriculum-design-preservice-2026]] — 提示历史显示职前教师的精炼几乎普遍存在
+- [[kumar-picprompt-game-prompt-engineering-k12-2026]] — 一个 K–12 游戏，其中第一个目标是写出任何一条提示

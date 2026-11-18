@@ -1,7 +1,7 @@
 ---
 title: 人工智能教育评价
 created: "2026-05-29T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 type: concept
 foundations: [agentic-ai, teacher-role]
 technology: [generative-ai, human-in-the-loop-ai, llm]
@@ -12,13 +12,17 @@ connected_faqs: [top-10-findings-ai-education-instructors, research-gaps-aied, d
 confidence: high
 methods: [benchmark]
 translation_of: concepts/ai-ed-evaluation
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -41,7 +45,7 @@ ai_assist:
 
 该领域十年来的轨迹本身就是一个框架：[[xiong-ai-educational-measurement-review-2026|Xiong 与 Li（2026）]]在 313 篇文章中追溯三个时代 — 形成期（2015–2018）、扩展期（2019–2022）与生成期（2023 至今） — 并论证构念与效度论证必须为[[human-ai-collaboration|人机协同]]重写，因为[[item-response-theory|IRT]]与经典测验理论模型建立在无辅助的人类表现之上。
 
-### 人工智能教育评价在研究中的体现
+## 人工智能教育评价在研究中的体现
 
 - **输出可靠性与基准真值：** [[ground-truth-reliability-aied|基准真值现代化]]论证，人工智能教育评价中的可靠性问题往往可追溯到参照数据本身 — 即系统被评判所依据的“基准真值”标签 — 并提出四项转向以改进可靠性与效度。[[calibrating-trustworthiness-llm-education-2026|校准可信度]]与利益相关者共同设计评价指标与[[visualization|可视化]]，使对一个人工智能工具的信任建立在可展示的、可解释的证据之上。
 - **自动评分与打分：** [[cong-confidence-asag-2026|大语言模型简答题评分]]、[[cong-confidence-asag-2026|置信度感知的 ASAG]]、[[cotal-formative-assessment-scoring-2026|CoTAL 人在环提示工程]]与[[llm-cognitive-diagnosis-handwritten-math|手写数学的认知诊断]]表明，大语言模型可以评分与诊断，但可靠性取决于[[human-in-the-loop-ai|人类监督]]、领域特定的 grounding 与置信度校准，而非原始模型规模。
@@ -55,7 +59,7 @@ ai_assist:
 - **提示敏感性是大语言模型评分者的一阶属性。** [[llm-graders-computer-science-exams-2026|Habibullah 等人（2026）]]为 570 名[[cs-education|计算机视觉]]考生（跨 171 种配置）和 1,038 名[[machine-learning|机器学习]]考生（跨 162 种配置）的一场考试评分：一段简短的“严格评分者”前言把 17 个开放权重模型中的 14 个推出了评分段，而复现再现了脆弱性却没有再现其方向，改善了其中性提示过度给高分的七个模型。一个提示的准确性不足以构成可用评分者的证据，而有符号偏差应与平均绝对误差并列呈现；在汇合的双评分样本上做 LoRA 微调使五个小模型达到人类水平，并几乎抹去了角色敏感性。
 - **可评证据是一个设计变量，而非任务的属性。** [[durable-skills-measurement-ai-teammates-2026|Globerson 等人（2026）]]让一个执行级大语言模型持有评分规则并把对话引向被评技能，使可评证据在项目管理上提高到 92.4%、在冲突解决上达到 85%，而只是告诉参与者关注该技能则毫无改变。
 
-### 为何评价在人工智能教育中很难
+## 为何评价在人工智能教育中很难
 
 人工智能教育评价之所以困难有若干原因。第一，**可靠性是不够的** — 一个系统可以与评分规则一致却误判教学，正如[[machines-misread-pedagogical-quality|人—机对齐研究]]所示。第二，**基准真值是有争议的** — 什么算“正确”答案、分数或教学动作，本身就是一个随学科与专家而异的判断，见[[ground-truth-reliability-aied|基准真值现代化]]。第三，**教育效度是多维的** — [[assessment-validity]]、[[formative-assessment]]与[[authentic-assessment]]各施加单一准确率指标无法捕捉的标准。最后，**目标一直在移动** — 代理式人工智能与[[multimodal]]模型要求评价框架（[[agentic-ai]]、[[tool-invariant-framework-agentic-ai|工具无关的评估]]），而非复用文本模型基准。评价发现也受同样影响所有 AIED 研究的横贯性限制 — 它们随人工智能改进而过时、依赖可复现性与 FAIR 实践、可能建立在专有系统之上 — 因此评价结果应带着[[limitations-in-aied-research]]中的告诫来读。还有一个新兴维度是**资源可持续性**：本地部署越来越多地报告能耗与硬件需求（例如 VRAM、每次查询的 mWh）与准确率并列 — 见[[shen-sustainable-ai-knowledge-base-cs-education-2026|可持续的本地知识库助手]] — 因此完整的评价要权衡环境与基础设施成本，而不只是输出质量。
 
@@ -82,11 +86,11 @@ ai_assist:
 - **分布内准确率不是可部署性。** 一个 Bloom 层级分类器在其精选题库上达到宏 F1 0.88，却在两套人工智能生成题目上降到 0.48 与 0.20，这一损失跟随显性 Bloom 触发动词的近乎缺席而非模型规模；未训练的[[llm|大语言模型]]是分布外最稳健的选项（0.79 与 0.41–0.51），而在标注的分布外数据上重训恢复了最大增益（最高 0.82），因此迁移应与分布内拟合一起出现在报告中（[[bloom-classifier-ai-assisted-questions-2026|Castanares 等人（2026）]]）。
 - **一个人工智能难度量表是评价辅助，而非分数。** 人工智能难度估计强烈追踪题目级通过率（跨 79 道题 rho = −0.871），但在 106 道题的 CS101 样本上减弱到 −0.552，并在考试层面趋近于零，因此这类量表属于题目复核，而非学生评价（[[llm-difficulty-calibration-programming-exams-2026|Yan 等人（2026）]]）。
 
-### 与相关概念的关联
+## 与相关概念的关联
 
 人工智能教育评价位于知识库的方法与风险之中心。它在[[assessment]]与[[automated-assessment]]之内把[[assessment-validity]]、[[educational-measurement]]与[[benchmark]]操作化。它对人类监督的呼吁连接到[[human-in-the-loop-ai]]与[[teacher-role]]，而它对可靠性的关注连接到[[hallucination-risk]]、[[automated-assessment|置信度感知的人工智能评估]]与[[trust-calibration]]。评价表现与评价学习之间的区分连接到[[genai-performance-vs-learning|表现与学习]]以及[[student-modeling]]；而对教学代理的评价连接到[[intelligent-tutoring]]、[[llm-training-and-fine-tuning]]与[[pedagogical-safety]]。
 
-### 评价学习增益
+## 评价学习增益
 
 人工智能教育评价的一个中心对象是**学习增益** — 一个人工智能工具所产生的知识或技能的可测量改善（见[[learning-gains]]）。严谨地评价增益要求选择正确的结局测量，因为[[genai-performance-vs-learning|表现与学习相分离]]：人工智能可以抬高即时的、有人工智能协助的任务表现，却让持久的、无辅助的学习不变甚至下降（见[[generative-ai-reduced-study-time-math]]、[[stromberg-generative-ai-learning-penalty-secondary-2026]]）。因此有效的增益评价：
 

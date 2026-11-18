@@ -1,7 +1,7 @@
 ---
 title: 评估
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:10:20-05:00"
 connected_faqs: [redesign-assessment-ai-era, reduce-ai-cheating, course-ai-policy, group-work-ai, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -13,13 +13,17 @@ confidence: high
 methods: [ai-ed-evaluation]
 connected_resources: [idstack, lesson-md, master-instructional-design]
 translation_of: concepts/assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:36:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -83,7 +87,11 @@ ai_assist:
 - **作为胜任力的生产**——评价学习者指挥工具并产出专业水准作业的能力（[[competency-based-education-genai-production-2026|基于胜任力的教育]]）
 - **评估交互过程，而不只是制品**——[[assessing-student-drive-framework-2025|DRIVE 框架]]（Directive Reasoning Interaction + Visible Expertise）把学生*与生成式人工智能的参与*的质量当作被评估的构念。它通过看学生是否策略性地引导提示（DRI）并通过交流整合并发展自己的学科想法（VE），来区分表面消费与深刻、反思性的交互，把面向过程的标准扎根于[[self-directed-learning|自主学习]]理论与[[icap-framework|ICAP]]层级意义上的认知参与理论。这使 DRIVE 成为*人工智能中介的真实性评估*的一个例子——一份评价学习者如何与生成式人工智能结为伙伴的量表，而非一个检测工具。
 
+以上的重构假定分数仍然意味着工具出现之前它所意味的东西。Oyelere 与 Kadams 命名了它不再是那种情形时会发生什么：**评估证据债务**，即分数所声称的与一份提交的成果所能支撑的之间的累积差距，它会随着早期分数进入升学决策而不断累积。他们的补救办法是逐任务陈述主张：它说学生知道什么、适用哪些人工智能条件、有哪些证据渠道在场。由此有五条渠道 —— 受限表现、过程溯源、可执行核验、解释性答辩、迁移探针。没有任何一条渠道能单独证明胜任。作者把证据等值视为未解决的问题：一个完全开放人工智能的课后项目与一场受监督的可执行考试可以针对同一结果，却认证不同的构念，因此它们的分数不可比较。他们最尖锐的警告关于从行为作出的推断：一次薄弱的口头答辩并不是未经许可使用人工智能的证据（[[oyelere-code-programming-assessment-genai-2026|Oyelere 与 Kadams，2026]]）。
+
 这一文献中的一个提议把步子迈到“在当前框架内重构”之外。[[ai-agents-joyful-assessment-third-space-2026|El Khoury 与 Ma（2026）]]主张，围绕阻止不当行为或检测人工智能使用来组织的改革，把教育想象力收窄到控制与合规，并提出以**愉悦评估**代之：一种安全、情感上回应性、赋能并支持学生[[agency|自主性]]的评估，其中安全是承重的条件，因为没有它，情感上的共鸣会变成表演，赋能会变成压力，自主性会变成风险。他们的框定颠倒了检测议程——诚信成为设计学生愿意参与的评估的结果，而非其起点——并把教师自建的[[agentic-ai|人工智能智能体]]（自定义 GPT、Gems、Copilot Studio 智能体）定位为一个低利害的排练空间，让学生在评判之前先练习，并主张由人工智能组织证据，而由教师解释它。
+
+交通灯色码是不断被提出的替代方案，而一所机构的版本已经走到尽头。[[nerantzi-traffic-light-assessment-genai-2026|Nerantzi、Palfreyman 与 Pavlopoulou（2026）]]重构了一场关于利兹大学框架（自 2023 年起在所有院系施行）的小组对话：红色禁止人工智能，琥珀色把规则留给各模块导师，绿色教授负责任的使用。他们的反对针对范围：附加在一项作业上的颜色回答的是某个工具能否在这里使用，却不回答它能否被用来理解阅读材料。在 2024/25 学年，商学院约 85% 的授课模块带有红色作业，而大学的既定目标是把所有评估都转向绿色，作者因此得出结论：交通灯已经过时，应当让位于一个把[[evaluative-judgment|人的判断]]保持在中心的框架。
 
 ## 对教育中人工智能的启示
 
@@ -154,3 +162,4 @@ ai_assist:
 - [[computing-assessment-genai-workshop-report-2026]] — 人工智能能做你的作业。现在怎么办？关于生成式人工智能时代计算评估的在线工作坊报告
 - [[koretsky-genai-stem-assessment-2026]] — A three-vertex frame for realigning assessment：重新对齐评估的三顶点框架
 - [[rubrics-genai-process-based-assessment-2026]] — 对交互而非制品评分的量规标准
+- [[nerantzi-traffic-light-assessment-genai-2026]] — 以利兹大学的交通灯框架对生成式人工智能时代的评估所作的一场反思性对话

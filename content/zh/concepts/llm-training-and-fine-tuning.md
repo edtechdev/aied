@@ -1,7 +1,7 @@
 ---
 title: LLM 训练与微调
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 type: concept
 connected_faqs: [making-ai-better-at-supporting-learning, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 foundations: [ai-education]
@@ -13,13 +13,17 @@ confidence: high
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/llm-training-and-fine-tuning
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -109,6 +113,8 @@ LoRA 及其同类是大多数教育团队实际工作的地方，而文献中包
 
 **监督质量胜过监督数量。** SWIM 为写作[[simulation|模拟器]]设计的过程是最清晰的演示。量规落地的提示对熟练度的控制有限（Claude Sonnet 的最佳平均特质 QWK 为 0.577，GPT-5.4 为 0.422，一个开源 7B 模型接近零）；监督微调把那个 7B 模型提到 **0.474 ± 0.023**。针对一个由自动作文评分导出的奖励做 GRPO，又把它在每一种特质与每一个提示上提到 **0.618 ± 0.005**，其奖励被设计成稠密的特质归一化准确率，因为精确匹配奖励在多特质环境中太稀疏（[[swim-student-writing-simulation-2026]]）。误解建模研究对监督*必须包含什么*给出了更锐利的结论：指令微调的模型只有在**步骤级解题轨迹**上训练时才学会代数误解，而只按最终答案训练时，准确率在每一个数据规模上都**低于 30%**。其学生角色过度泛化学到的错误，直到把正确样例按低至**四分之一**的比例显式混入；而导师角色没有这种代价，在十个联合训练的误解上把正确率从 **93%** 保持到 **98%**（[[misconception-acquisition-dynamics-llms-2026]]）。
 
+**训练成本可以在不牺牲准确率的情况下削减。** 以 0.5 的比例丢弃低优势的 GRPO 完成样本，把训练从 14.1 小时削减到 7.2 小时，并略微提高了 F1；而按秩与训练步数缩放的位置奖励胜过一个静态奖励（[[srjudge-knowledge-concept-tagging-2026|Yang 等人（2026）]]）。
+
 训练数据本身也是模型可以整理的东西：Edu-QuRating 把偏好蒸馏适配到教育数据整理，用覆盖事实准确性、教学结构与水平适切性的 20 个量规维度，取代单一的"这算教育吗"评分（[[garrod-edu-qurating-educational-data-curation-2026]]）。
 
 **理论可以成为训练的脚手架。** 对自动化 [[learning-design|教学系统设计]]的代理而言，把经典 ADDIE 与 Dick & Carey 框架同 ReAct 式推理混合，胜过纯理论（结构化但不灵活）与纯技术代理（灵活但无落地），横跨 **25,795** 个来自 51 变量情境矩阵的场景，并使用多评审协议以减少 LLM 作为评审的偏差（[[jeon-isd-agent-bench-2026]]）。而一项对监督*标签*的研究发现，给每个训练样例只指定一个目标行为——学科能力、课程落地、诊断推理，或[[scaffolding|支架]]——提升了受测的每一个模型规模，其中支架与利用学习者历史上的增益最大，而知识状态诊断仍最弱，为 **54.04%**（[[omniedu-open-educational-foundation-models-2026]]）。
@@ -118,6 +124,8 @@ LoRA 及其同类是大多数教育团队实际工作的地方，而文献中包
 同样的机器日益被指向模拟学生，这改变了评估一个导师的经济学：不再招募学习者，而是生成他们。
 
 告诫是，模拟学生必须像其他任何工具一样被验证。在**382 段留出对话**上对微调与提示模型做基准测试——取自最大的真实学生—导师数学对话公开语料，横跨语言、行为与认知七个指标——产出了该领域对"模拟学生是否表现得像学生"最直接的检验（[[simulated-students-tutoring-dialogues-2026]]）。另两种进路在保真度上加压：INSIDE 微调 LLM 使之既*行动*又*思考*得像学生，生成扎根于 Bloom 分类法的内部对话，横跨认知、情感与动作维度，并在成对的思考轨迹与动作上训练（[[inside-llm-student-simulator-reasoning-2026]]）；而历史感知画像把模拟条件设在一个学生先前的轨迹上，而非静态人格（[[history-aware-student-simulation]]）。对开发者而言，实用的教训是：模拟器是一台测量仪器，并承袭这所暗示的每一个效度问题。
+
+从 Mistral-7B 遗忘 16 个 Python 知识点会把准确率降到目标水平，而教练引导的再学习能把它恢复，这给模拟器一个可调节的知识状态，而非一个提示出来的人格（[[simulating-novice-students-machine-unlearning-2026|Song、Guo 与 Lin（2026）]]）。
 
 ## 会出什么错
 

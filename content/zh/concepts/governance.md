@@ -1,7 +1,7 @@
 ---
 title: AI 治理
 created: "2026-08-13T18:17:22-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-18T03:12:00-05:00"
 type: concept
 foundations: [ai-education]
 ethics: [ethics, privacy]
@@ -11,7 +11,7 @@ confidence: high
 institutions: [change-management, educational-policy-ai, regulation]
 connected_resources: [institutional-ai-readiness-pack, campus-ai-framework, campus-ai-development]
 translation_of: concepts/governance
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-16T09:06:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -58,6 +62,8 @@ ai_assist:
 - **政策模糊与学生体验：** [[students-engagement-with-generative-ai-in-academic-learning-a-self-determination|学生对GenAI的参与]] 发现 23 名学生中有 12 名注意到缺乏明确的机构AI政策（"学校还没有清晰统一的政策"），论证治理模糊塑造了学生的实践、规范与 [[self-regulated-learning|自我调节]]——支持转向透明的机构指引。
 - **作为治理能力的人工智能素养（"第18个SDG"）：** [[ai-literacy-sdg-governance-framework-2026|Islam, Morshed, and Islam (2026)]] 把AI素养重新概念化为一种系统性治理机制而非课堂技能，提出六级 AIRE 分类法（识别→理解→应用→分析→整合→治理），在布鲁姆层级之上加入伦理综合与战略远见，并提出一个把素养能力映射到全部十七个 [[sustainability|可持续发展目标]] 的AI–SDG联结。把AI素养框定为"第18个SDG"启发式——一种把学习导入治理与可持续发展的横向能力——该研究对 300 名专业人士的调查发现治理素养是AI–SDG联结意识最强的预测因子（β = 0.64，r = 0.67），并识别出伦理推理与反思性思维是可信AI使用最强的预测因子。这把机构治理与公共 [[ai-literacy]] 的培养联系起来，呼应了本知识库的发现：负责任的AI对齐需要能够批判性解读算法系统的 [[stakeholders|政策制定者]]与公民，而不仅仅是面向合规的技术控制。
 - **多数教育治理是指引，而非法律。** 在 160 份英文文献中，只有 4 份采取正式的法律或监管形式，而 92 份是指引、框架或工具包；可问责性出现在 146 份文献中，但只有 100 份与具名的监督行动者配对（[[generative-ai-governance-education-scoping-review-2026|Elmahjub 等，2026]]）。
+- **政策意识滞后于政策生产。** [[robert-educause-impact-ai-work-higher-education-2026|EDUCAUSE 2026 年的调查]]覆盖 1,960 名教职员，发现 94% 在过去六个月中曾把 AI 工具用于工作，而只有 54% 知道指导这种使用的政策；92% 的机构报告有一项与工作相关的 AI 战略，13% 衡量了其投资回报。[[kelso-unsanctioned-technology-use-educational-institutes-2025|Kelso 及其同事]]发现 K-12 教育者的知晓率更低，为 30.3%，375 人中有 22 人承认违反过政策。写下却无人阅读的指引与没有指引无异，这正是 [[shadow-ai|影子 AI]] 把受认可的路径 — 短到足以与未获批准的路径竞争 — 当作治理工具的原因。
+- **治理与教师能力是同一个问题。** [[kaziya-learner-data-privacy-governance-2026|Kaziya 与 Lungu（2026）]]认为，机构保障与个人能力只在范围很窄的行动上可以互相替代 — 即某项控制无需判断就能阻断特定的披露 — 而在教师必须解释目的或识别情境性标识符之处，两者必须互补。他们的框架为每一次转换指定一项具名的决定权与一项可问责的产出，这是 [[teacher-ai-competency|能力]] 标准在治理上的对应物。
 - **行政 AI 使治理成为服务运营问题，而非课堂问题。** [[pandey-davies-he-governance-administrative-ai-2026|Pandey 与 Davies（2026）]] 把行政 AI 界定为招生、录取、注册、记录、学业指导、住宿、福利与职业服务，并按定义排除教学、学习与研究。他们的社会技术框架提出三个可检验的命题：技术与角色及可问责性的联合优化、人工物的政治，以及全球塑造的基础设施。五个驱动因素解释采纳：基础设施准备度与商业平台生态使能并引导它，而招生波动下的竞争定位、监管与流动性要求，以及可持续性合法性则驱动它。由此得出四项领导能力——合同素养、质询目标、压力下的克制，以及持续的参与。这是一项概念分析与解释性综述，因此这些命题是供检验的，而非已确立的。
 
 - **学术诚信与评估：** 治理是机构如何处理AI相关 [[academic-integrity]] 关切以及如何重新设计 [[assessment]] 的核心——从禁止/监管转向指引、AI素养与面向过程的设计，如 [[student-rationalization-ai-writing|学生合理化]] 研究与 [[beyond-detection-authentic-assessment-ai-2025|真实性评估再设计]] 所示。
@@ -83,6 +89,9 @@ AI治理的一个核心舞台是 **机构如何治理评估**——决定什么�
 ### 跨层面治理
 
 AI治理运作于多个层面——从 **国家/监管**（政府政策、OECD框架、各州AI指引）到 **机构**（大学政策、AI指导小组、伦理审查委员会）再到 **课堂**（教师指南、教学大纲声明、作业设计）。有效的治理对齐这些层面：国家框架设定期望，机构把它们翻译为政策与支持结构，教育者以培养学生AI素养与能动性的方式实施。本知识库的研究强调，治理不仅仅关乎限制，更关乎创造负责任、公平、支持学习的AI整合的条件——包括 [[educational-development|教师发展]]、透明指引与持续评估。
+
+**机构之上的一个层面。** 跨境教师发展增加了一个“国家—机构—课堂”堆栈未命名的层面。[[tian-transnational-faculty-development-governance-2027|Tian、Sun 与 Wang（2026）]]描述了伙伴机构之间的共享治理：一个协调枢纽提供连续性、共同结构与档案，而各伙伴保留对实质内容的权威并在本地调整这项工作。他们以相互影响、复用与本地适配而非出席情况来评判这样一个网络，因为定期会议或一个召集机构本身并不能证明共享决策。
+
 **同样的行为，不同的裁决。** [[genai-governance-australian-higher-ed-2026|Poudyal (2026)]] 把 15 个标准化的学生使用情境应用于 20 所澳大利亚大学的公共政策环境，产生 300 个分类：40.0% 明确禁止、32.3% 潜在违规、9.0% 有条件允许、18.7% 不确定——没有一个达到"明确允许"的门槛。约束性工具在 100 个组合上对生成式AI沉默，而指引解决了 88 个；已声明的语言改写与一段AI起草的段落产生了最高的跨校分歧，与对明确评估禁止的一致形成对照。在上文所述层面被假定对齐之处，本研究测量了它们分歧多远，并把操作边界定位于指引而非约束性政策。
 
 **教师治理与审慎审查的理由。** 在上文层面通过政策对齐之处，一些部门则通过共同治理到达它们。[[gutowski-hurley-genai-policy-legal-education-2025|Gutowski and Hurley (2025)]] 把 [[legal-education|法学院]]描述为一个难例，理由正在于此：美国法学院教师对课程标准拥有不寻常的个人权威，因此政策必须与他们共建而非向他们宣布，而多数写下禁止性规则的学校也保留了对个别教师的裁量权，并承诺随技术演进而修订。他们的建议——设计上的灵活性、定期审查、主动培训，以及通过信息共享而非等待认证机构来指定政策来实现自我规制——把治理描述为一个持续的过程而非一份文件，这与 [[crompton-governing-genai-higher-ed-delphi-2026|德尔菲共识]] 建议定期审查周期与常设多学科委员会是同一个观点。
@@ -113,7 +122,11 @@ AI治理连接到 [[ethics]]（它所操作化的原则）、[[higher-ed]]（机
 
 - **一个以人为本的框架把解释而非工具置于中心。** 在一所使命驱动的文理学院，教师在一次结构化的教育日活动里使用了一个生成式 AI 支持的 Assessment Wizard，作者得出结论：人的判断必须保持为不可协商的解释权威，并在广泛实施之前先建立核验检查点与治理（[[aalhe-chaos-to-consistency-ai-assessment-2026|Ravesloot、Copeland 与 Pryor，2026]]）。顺序是先形成与核验，再规模化。
 
+**运行记录才使大语言模型辅助的课程决策可以被审计。** [[rodafinos-llm-curriculum-audit-2026|Rodafinos（2026）]]把这一序列构建为项目层面的审计：一个范围边界、一份在各次运行之间保持不变的课程证据包，以及一份记录提示词版本、操作者、工具与模型版本、设置与逐字输出的运行记录。一份验证清单、一个分歧处理程序、一项稳定性评级，以及一份与审批机构挂钩的决策日志共同构成它，重复运行检查保留给高风险用途，另有一项公平与偏差审查。由于文本层面的复现不可得，该规程转而评定程序可复现性、输出稳定性与决策稳健性，而不稳定的输出在未经进一步三角验证或委员会审查之前不得进入项目文档。
+
 治理条款只出现在总体政策文件中，从未出现在约束申请者的资助专用工具里；因此一个资助机构可以在原则上治理 AI，却对它出资的研究不作任何要求（[[chan-ai-policy-gap-2026|Chan，2026]]）。
+
+2026 年的一项论证把治理从学习者使用扩展到教材本身的生成。Chew（2026）区分表征性内容（图像、图表）、推理性内容（案例、模拟病人）与评估性内容（题目、评分规则、反馈）。每一类型都有其典型的失效方式与不同的核查者：一份参照标准、一位能在无辅助条件下得出该结论的专家，或一项关于工具测量什么的证据。由于课程内容中一个貌似合理的错误会触达每一位学习者、并且可能永远不会作为信号浮现，他把可问责性放在机构一侧，并具体说明四项能力：知道在用什么、使用前先测试、对发现采取行动（包括撤下），以及监测已批准的工具是否漂移（[[chew-ai-content-governance-medical-education-2026|Chew，2026]]）。
 
 ## 常见误解
 
@@ -144,6 +157,7 @@ AI治理连接到 [[ethics]]（它所操作化的原则）、[[higher-ed]]（机
 
 ## 关联文章
 
+- [[chew-ai-content-governance-medical-education-2026]] — 对 AI 生成教学内容的治理：三种失效类型与四项机构能力（Chew，2026）
 - [[kaze-ai-management-higher-ed-2026]] — 高等教育中的 AI 采纳：指定 AI 管理的理由（Kaže 等 2026）
 - [[jones-care-ethics-ai-governance-higher-education-2026]] — 面向机构 AI 治理的关怀伦理：五个构成要素及其转化出的机构问题
 - [[generative-ai-governance-education-scoping-review-2026]] — 教育中的生成式AI治理：原则、机制与风险的范围综述（Elmahjub et al. 2026）
@@ -183,3 +197,7 @@ AI治理连接到 [[ethics]]（它所操作化的原则）、[[higher-ed]]（机
 - [[li-su-teacher-genai-decision-making-2026]] — 从治理清晰度到教师决策片段的一条拟议路径
 - [[pandey-davies-he-governance-administrative-ai-2026]] — 作为服务运营问题的行政 AI
 - [[chan-ai-policy-gap-2026]] — 治理语言居于总体政策，从未进入约束申请者的资助规则（Chan 2026）
+- [[kaziya-learner-data-privacy-governance-2026]] — 在学习者数据保护中把能力与治理视为互补而非替代
+- [[tian-transnational-faculty-development-governance-2027]] — 跨机构的共享治理：协调与共同结构，而不把对实质内容的权威集中起来（Tian、Sun 与 Wang 2026）
+
+- [[rodafinos-llm-curriculum-audit-2026]] — 心理学中由大语言模型辅助的课程审计：一种基于提示词的方法

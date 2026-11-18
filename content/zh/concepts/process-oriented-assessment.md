@@ -1,7 +1,7 @@
 ---
 title: 过程导向评估
 created: "2026-09-26T06:54:53-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:06:40-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [self-regulated-learning]
@@ -10,10 +10,10 @@ assessment: [assessment, ai-detection, assessment-validity, authentic-assessment
 ethics: [equity-in-ai-education]
 level: [higher ed]
 confidence: high
-connected_resources: [process-feedback, code-viva]
+connected_resources: [process-feedback, code-viva, vfwa]
 contributors: [editor]
 translation_of: concepts/process-oriented-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-17T09:26:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ai_assist:
   - model: stepfun/step-5-preview:free
@@ -23,6 +23,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -48,6 +52,12 @@ ai_assist:
 
 最明确的设计词汇来自 Thapa 与 Lewis，他们的四项承诺把论证带入任务设计：反思性论证、分阶段任务设计、对话性参与与评价性透明。在实践中，学生解释解释性决策而不仅呈现结论，提交跨检查点逐步展开的作业，参与关于其推理的 [[oral-assessment|口头或对话性]]交流，并对照自己可施加的标准工作——即 [[feedback-literacy|反馈素养]] 与 [[self-assessment|自我评估]] 的地形。Boysen（2026）对开放式学习实践的提议把同一逻辑转译为审计轨迹：项目开始前设定的共享学习计划、指明必需与禁用来源的学习分析计划，以及经修订痕迹与保存的文件版本所留存的、有文档记录的草稿与版本历史，它们暴露工作过程并解释每次修订的依据。他把这框架为可 [[self-regulated-learning|自我调节]] 的可见化。
 
+Alam 与 Jackson 的重新设计把同样的承诺放进一个模块。伦敦玛丽女王大学 23 名一年级商业分析师学位学徒分成 11 个自选团队，围绕从三个预设题目中选出的一篇 1,500 词论文展开工作。作业要求至少两个有文档记录的发展阶段，而迭代与协作被写进评分标准，而不仅仅是被建议。生成式 AI 在任务书设定的边界内被允许：不得提交生成的文本，不得使用语法工具的改写功能，不得使用由 AI 排版的参考文献列表。作者把这一案例呈现为首次运行得出的实践洞见，而不是一项实测效应（[[alam-process-oriented-collaborative-essays-2026|Alam 与 Jackson，2026]]）。Ahmed 与 Shehata 把同一逻辑带入一个框架：AI 整合的纲领性评估在同一构念、同一难度上配对两项任务，一项不用 AI，一项用 AI，并把两者之间的差距连同统筹证据一起读作发展信号，而不是作弊标记（[[ahmed-ai-programmatic-assessment-cognitive-development-2026|Ahmed 与 Shehata（2026）]]）。
+
+Francis、Rutherford 与 Smith 把同一承诺变成一个可评分的结构：PACE 在四级能动性量表上给五个过程域评分，量表从顺从（deferring）到批判（critiquing），并把过程与产品保留为彼此分离的结果，使一个建立在无批判依赖之上的精饰成果无法被评为胜任（[[francis-pace-framework-genai-assessment-2026|Francis 等（2026）]]）。
+
+另一种结构性答案来自 Webb-Davies、Ratner 与 Bassett，他们的"声音优先的书面评估"确立一个经认证的基线，并把此后的一切都对照该基线来解释。第一阶段被观察、不计分、模态开放；第二阶段在家中完成，[[generative-ai|AI]] 的使用不受限制，并依据学生如何发展先前的推理来评分。作者称这一雄心是极小的：一个检查点加一次条件式口试，而不是一整套过程成果物的档案（[[webb-davies-voice-first-written-assessment-2026|Webb-Davies 等，2026]]）。
+
 过程证据所选的渠道改变可被证明的东西：在同一项 79 名学生的生成式 AI 研究中，较深度的监控与规划在出声思维单元中更常见，而较深度的调节在交互日志中更常见，因此单一记录无法捕捉整个过程（[[metacognitive-processes-genai-interaction-logs-2026|Li 与 Liu（2026）]]）。轨迹也可能与分数直接背离：在 150 段学生-AI 对话中，41% 的作业分数恰为 1.00，而可观察的认知参与各异，因此匹配的分数可能掩盖不同的过程（[[epistemic-ownership-ai-mediated-education-2026|Fábrega（2026）]]）。DraftTrace 通过把按键级过程测量与最终产品及 AI 交互轨迹对齐，为 AI 整合的写作回答同一问题，显示复制粘贴式打字只有在产品与过程被一起阅读时才可辨识（[[drafttrace-ai-writing-analytics-2026|Chandarana 等（2026）]]），这是该领域仍缺乏的行为痕迹测量的一个具体实例。
 
 实践者与框架记述填补了成果物的细节。Uden 与 Hwang（2026）的 LEARN 框架面向 [[problem-based-learning|问题式学习]] [[assessment|评估]]，要求过程导向的评分规则、口头论证、分阶段提交与带 [[ai-use-disclosure|AI 使用披露]]的推理轨迹，并把经由学习日志与出声思维协议的反思视为该序列的 [[metacognition|元认知]]引擎。Moganadas 等（2026）把 AI 透明的过程导向评估列为五个可研究命题之一，要求文档、核验与反思性论证，而非禁止或检测器使用。Padhy（2026）建议捕捉修订历史、交互模式与任务用时，并配以透明披露。Goldstein、Marae-Haj 与 Zidan（2026）报告了同样的成果物在 [[trust|信任]]危机后从实践中浮现：提示记录、文档版本历史、受监控的小组贡献，以及记在纸质笔记本中的反思性"旅程日志"——连同那个平实的发现：课后书面作业已无法再证明学习。
@@ -59,6 +69,8 @@ ai_assist:
 - **"过程证据需要一套特殊的评估制度。"** 其中一些不过是一个下午的测量配置：一项对 **77** 名大学论文写作者的研究使用一个 CodeMirror 编辑器记录插入、删除、选择、剪切、复制与粘贴及其时间戳，旁边是默认 API 上的一个自建聊天面板，共捕获 **361** 条消息。同样的痕迹显示，**14** 条对规划查询的回应被粘贴进最终论文，这是任何产品层面的报告都不会揭示的。诚实的局限在工具本身：键入的词会被算作学生自己的，即便它是从某条回应改写而来，因此打字与思考之间的边界不可见。[[jelson-students-chatgpt-essay-writing-2026|记录过程比为之设计更廉价]]。
 
 **过程痕迹只有在学习者对照任务阅读它时才成为反馈。** [[xian-process-visualization-feedback-news-translation-2026|Xian 等（2026）]]给十一名翻译学生提供 Inputlog 与屏幕录制[[visualization|可视化]]，外加一次 30 分钟的反思会话。意义层修订的占比从 18.1% 上升到 28.4%（t(10) = 4.259，p = 0.002），而总修订量没有显著变化，从 1,292.91 下降到 1,052.36（p = 0.248）。痕迹没有让学生修改得更多，只是修改得不同——这就是用一个结果支持过程证据的论证。
+
+对这一风险最清晰的表述来自 Winstone、Gravett 与 Elkington，他们论证，若不把错误连同过程一起视为有价值，过程评估"就有变成表演性的风险，鼓励学生呈现一件精饰的成品，并附上一份事后整理的、关于其形成过程的说明"。他们的回应是让错误与方向的改变本身就可记入成绩，使过程证据成为带有代价的决策的痕迹，而不是事后讲述的故事（[[black-box-assessment-winstone-2026|Winstone 等，2026]]）。
 
 ## 一条不同于真实性、也不同于批改的轴
 
@@ -110,6 +122,7 @@ Thapa 与 Lewis 的记述是概念性的：没有参与者、没有数据收集�
 - [[equity-in-ai-education]]
 
 ## 关联文章
+- [[ahmed-ai-programmatic-assessment-cognitive-development-2026]] — 三条证据流、配对任务，以及作为元能力的统筹
 - [[salameh-critical-thinking-crisis-higher-ed-review-2026]] — 一篇批判性叙事综述，主张默认的失效是永不淡出的 AI 支持与仅以产品评估相配（Salameh 2026）
 
 - [[alam-process-oriented-collaborative-essays-2026]] — 一份一年级学位学徒中的、有评分的协作过程论文：评分规则中包含迭代与协作，GenAI 在明确边界内被允许（Alam 与 Jackson 2026）
@@ -130,3 +143,6 @@ Thapa 与 Lewis 的记述是概念性的：没有参与者、没有数据收集�
 - [[rubrics-genai-process-based-assessment-2026]] — 源自 Biggs 3P 模型的三个评分规则维度：能动性与监督、对话性脚手架、认知主权（Oviedo 与 Díaz 2026）
 - [[jelson-students-chatgpt-essay-writing-2026]] — 一个 CodeMirror 编辑器加一个被记录的聊天面板，把一次论文写作会话变成过程证据，及其打字对思考的局限（Jelson 等 2026）
 - [[xian-process-visualization-feedback-news-translation-2026]] — 过程可视化加一次反思会话，在未增加修改量的情况下把修订从表层转向意义层
+- [[webb-davies-voice-first-written-assessment-2026]] — 两阶段书面评估：先在观察下确认推理，再给在家中写成的提交评分，对关联不清者设条件式口试（Webb-Davies、Ratner 与 Bassett 2026）
+- [[black-box-assessment-winstone-2026]] — 黑箱评估：过程窗口、把错误当作证据，以及通过可见性实现的诚信（Winstone、Gravett 与 Elkington 2026）
+- [[francis-pace-framework-genai-assessment-2026]] — PACE：在四级能动性量表上给过程评分（Francis 等，2026）

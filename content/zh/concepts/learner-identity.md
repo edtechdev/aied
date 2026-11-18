@@ -1,7 +1,7 @@
 ---
 title: 学习者身份
 created: "2026-08-27T08:10:00-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-18T03:56:00-05:00"
 type: concept
 foundations: [agency, learner-identity]
 discipline: [stem education]
@@ -10,13 +10,17 @@ confidence: high
 connected_faqs: [how-ai-impacts-students]
 level: [adult learning]
 translation_of: concepts/learner-identity
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -36,6 +40,8 @@ ai_assist:
 
 学习者身份关乎学习者在一个领域内如何理解自己是谁，以及正在成为谁 —— 它是一个动机和发展性构念，不同于[[self-efficacy]]这类能力信念，后者回答的是更窄的问题*我能做到吗？*身份经由参与、被承认和作者身份形成：在一个领域中看见自己，并且这种自我看法得到他人的确认。AI 重塑了这三个条件，因为它改变了谁做工作、什么算得上自己的贡献、以及学习者是否被认可为自己学习的作者（[[agency]]，[[metacognition]]）。
 
+分数既是符号也是一种关系：学生通过它们来看待自己，因此一项让成绩单保持原样的改革，也让这一关系保持原样（[[nieminen-grading-assessment-reform-2026|Nieminen 等（2026）]]）。
+
 ## 为什么身份对 AI 教育很重要
 
 身份是一个动机和发展性构念，不同于（但关联于）相关的能力和信念。[[self-efficacy]]关乎*我能做到吗？*，身份关乎*我是谁 —— 以及正在成为谁？*它经由参与、被承认和作者身份构建 —— 经由在一个领域中看见自己，并且这种自我看法得到确认。AI 重塑了身份形成的条件，因为它改变了*谁做工作*、*什么算得上自己的贡献*，以及*学习者是否感到被认可为自己学习的作者*。这使身份成为一个一阶的设计关切，而不是边缘的"软"因素。
@@ -46,7 +52,7 @@ ai_assist:
 - **羞耻与隐藏的使用。** **[[shame-guilt-ai-regulation-computing-education|Lin 等]]**表明，计算专业学生在 AI 使用上经历羞耻和愧疚，这些充当社会调节器，驱动*隐藏*和有选择的披露 —— 这些行为可能使学术身份碎片化，并侵蚀对学习的诚实投入。
 - **身份是 AI 可以支撑的东西。** AI 不必只威胁身份。**[[ai-pedagogical-accompaniment-amico|Benedetti（2026）]]**主张，可问责的、关系导向的[[pedagogy|教学]]陪伴可以通过提供透明、有边界的支持，为学习者留出拥有自己轨迹的空间，从而支持学习者的 **STEM 身份**发展。
 
-## 知识库研究中的身份
+## 研究中的身份
 
 - **创造身份：** **[[t2i-competence-paradox-2026|T2I 能力悖论]]**捕捉了易用性如何侵蚀艺术与设计学生的基于技艺的身份。
 - **感知的作者身份可以与实际原创性脱钩。** 用 AI 建网站的设计学生把自己作品的作者身份评得很高（67/100，满意度 6.4/7，感知质量 6.1/7），然而这些评分与任何可测的东西都不相关：他们的设计比不用 AI 时更同质，且感知作者身份与测量的原创性的相关性仅为 r ≤ +0.13（[[vibe-coding-design-diversity-2026|Boussioux 等，2026]]）。
@@ -57,6 +63,9 @@ ai_assist:
 
 - **有保留的采纳：有选择的 AI 使用作为身份保护。** [[guarded-adoption-genai-higher-education-2026|Zagami（2026）]]在一所澳大利亚大学调查了 484 名学生，发现成绩更高的学生报告的*更低*的主动[[generative-ai|生成式 AI]]参与、更低的对 AI 的积极情感、更低的[[self-report-measures|感知学习]]影响和更低的 AI 相关脱离，最强关联出现在感知学习影响的 rho = -0.395 和积极情感的 rho = -0.359。他们的开放回答描述了一种有选择的（澄清、摘要、工作流支持）、经过核验的、并从属于自身判断的使用方式，而项目层面结果显示，对"依赖 AI 会妨碍[[critical-thinking]]和独立[[problem-solving|解决问题]]"有更高的同意度。作者把这读作身份工作：对那些"自己是成功学习者"的自我感建立在自身努力和判断之上的学生，为 AI 使用设界是在守护身份所依赖的[[agency|认识能动性]] —— 这也意味着该模式既不是技术恐惧，也不是低参与。
 - **声明了目的，并不必然支配一次 AI 决定。** [[ting-ai-learning-ownership-purpose-2026|Ting 等（2026）]] 访谈了 14 名本科生，并对每份访谈编码，考察学生的[[self-determination-theory|目的]]——一种有个人意义、要超越自我作出贡献的意向——与其 AI 选择之间的关系。只有部分人建立了这种联系：一人因为 AI 的环境与人力成本与她的目的相悖而拒绝 AI，三人让未来的职业身份塑造了他们的选择（"contributes to the psychologist that I will be out in the world one day"）。另一些同样有清晰目的的人却没有建立这种联系，把目的与 AI 描述为"算是分开的"，因此有一个可保护的身份，并不等于会动用它。论文还把学生为自己的工作保留给自己的理由分开——技能发展、[[evaluative-judgment|所有权与自豪]]、道德反对——它们经由不同机制到来，不应被并入一种动机。
+
+- **能力可以在归属感之前到来。** 一份为期 73 天的自我民族志记录了一位生物信息学教育者在陌生领域构建一款游戏的经历，发现[[generative-ai|GenAI]]提供了能力，却没有提供身份：归属感来自实践共同体的参与与反复的意义建构，而获得它需要以人的节奏（[[kim-solo-game-development-autoethnography-2026|Kim，2026]]）。
+- 拒绝同样是一种身份工作：在五名有色人种中等学徒中，不使用 AI 或是在主张控制，或是在遵守制度规则，或是在标示认识论价值，而中立的 AI 回应制造了一种"文化扁平"，让他们的经验未被看见（[[gyekye-selves-apprenticeship-2026|Gyekye，2026]]）。
 
 ## 与学习者能动性的关系
 
@@ -107,6 +116,7 @@ ai_assist:
 
 ## 关联文章
 
+- [[kim-solo-game-development-autoethnography-2026]] — 生成式 AI 时代进入一个新领域：一位生物信息学教育者独自开发游戏的自我民族志
 - [[ting-ai-learning-ownership-purpose-2026]] — 14 名本科生谈他们仍亲自动手做什么，以及为什么目的很少起决定作用
 
 - [[guarded-adoption-genai-higher-education-2026]] —— 对高等教育中生成式 AI 的有界采纳

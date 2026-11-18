@@ -1,7 +1,7 @@
 ---
 title: 护栏
 created: "2026-08-25T08:30:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:15:06-05:00"
 type: concept
 technology: [human-in-the-loop-ai, llm, prompt-engineering, rag, reinforcement-learning]
 ethics: [ai-sycophancy, bias-mitigation, pedagogical-safety]
@@ -9,13 +9,17 @@ level: [k 12]
 confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 translation_of: concepts/guardrails
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -29,7 +33,7 @@ ai_assist:
 - 在一项现场实验中，未加护栏的[[intelligent-tutoring|AI 辅导系统]]提高了练习表现，却降低了之后无协助的考试成绩，而"给提示不给答案"的版本消除了这一损害。为什么让学生在当下表现得更好，实际上可能让他们学得更少？
 - 如果一个 AI 辅导系统被设计成"友善"——从不反驳、从不给出纠正性[[feedback|反馈]]——这怎么会是安全问题而非卖点？在教育情境中，顺从行为何时有害？
 - 护栏被描述为一组分层的控制，从提示到知识锚定到训练再到审计。挑一层想想：它可能在哪里失败，另一层会抓住它遗漏的什么？
-- 本页指出护栏本身可能带有偏见——拒绝与软化的回答按[[learner-identity|学生身份]]而形成模式。你会如何审计一个安全过滤器，确保它没有一边"保护"学习者一边悄悄复制不平等？
+- 护栏本身可能带有偏见：拒绝与软化的回答按[[learner-identity|学生身份]]而形成模式。你会如何审计一个安全过滤器，确保它没有一边"保护"学习者一边悄悄复制不平等？
 - 年幼的学习者被描述为最不具备能力去察觉操纵性或谄媚的 AI 行为。与大学工具相比，这如何改变 K-12 AI 工具"安全"应当意味着什么？
 
 ## 引言

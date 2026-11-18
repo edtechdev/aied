@@ -1,7 +1,7 @@
 ---
 title: 虚拟现实与增强现实
 created: "2026-09-13T09:52:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 type: concept
 pedagogy: [embodied-learning, professional-training]
 technology: [generative-ai, multimodal, simulation]
@@ -9,13 +9,17 @@ ethics: [accessibility]
 confidence: high
 discipline: [medical education, stem education]
 translation_of: concepts/virtual-and-augmented-reality
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -68,6 +72,8 @@ VR/AR 最强的证据是比较性的且 [[discipline-specific-aied|学科特定]
 反证同样信息丰富。在首项针对 [[inclusive-learning|残障学生]]的 AI 干预元分析——29 项研究、239 个效应量、中等总体效应 g = 0.588——中，智能 VR 系统产出 g = 0.528，**统计上不显著**，而计算机软件达到 0.959、机器人 0.509。存在发表偏倚，剪补法把总体估计降到 g = 0.269。其中的模式并不是沉浸式失败，而是它的效应小、异质、且对特定干预如何设计与比较敏感。
 
 知识库中最明确的负面结果来自一次工作室部署，而非模态间的比较：在一个 27 名学生的建筑设计工作室中，使用 GenAI 加多用户 XR 流水线的团队，设计 [[self-efficacy|自我效能]]信心的下降（β = −1.675）与结果期望的下降（β = −2.088）都超过按常规课程工作流工作的团队，而其汇报的专家小组评分无显著差异（[[genai-xr-architectural-design-education-2026|Xiao 等（2026）]]）。作者将其解释为随阶段变化的互补性以及真实的摩擦——GenAI 用于把试探性想法外化，XR 用于空间与尺度评估——叠加控制、维度保真、共享注意与运动舒适等问题，提醒我们沉浸式工具在增加能力的同时也增加了交互成本。
+
+**文献年轻而分散。** 一项针对 AI 赋能 VR STEM 教育的文献计量图谱在 Dimensions 中检索到 2005 至 2025 年间的 241 篇出版物，但其中 84.6% 出现在 2023–2025 年，增长拐点在 2023 年，而非疫情时期（[[ajimotokan-ai-vr-stem-bibliometric-2026|Ajimotokan 等（2026）]]）。引用表现强劲：127 篇有领域归一化分数的出版物中有 92 篇达到或高于全球平均水平。然而该领域的社会结构相当稀薄，789 位作者中有 774 位只在一篇论文上署名，209 个发表渠道中有 185 个只出现过一次。对需要权衡上述效应研究的读者而言，这一结构就是需要留意的告诫：多数证据都很新，而少有研究团队积累了持续的研究纲领。
 
 ## 保真度、临场感与真实性差距
 

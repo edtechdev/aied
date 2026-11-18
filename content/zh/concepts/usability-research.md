@@ -1,7 +1,7 @@
 ---
 title: 可用性研究
 created: "2026-08-24T02:15:00-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 type: concept
 connected_faqs: [designing-educational-ai-software]
 research_method: [system development, user study, interviews]
@@ -9,13 +9,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [usability-research]
 translation_of: concepts/usability-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: 不同学习者群体间的差异效应
 created: "2026-09-19T06:20:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:38:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, digital-divide, accessibility, neurodiversity, multilingual-learning, bias-mitigation, culturally-relevant-pedagogy]
 technology: [personalized-learning]
@@ -13,7 +13,7 @@ page_kind: [evaluation, synthesis]
 confidence: medium
 connected_faqs: [equity-ethics-pedagogical-safety-research, research-gaps-aied, ai-bias-fairness-education]
 translation_of: concepts/differential-effects-across-learner-groups
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-16T05:36:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -24,6 +24,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -90,6 +94,8 @@ ai_assist:
 - **空间与框架与工具本身同样重要。** [[all-girls-genai-makerspace-gender-equity-2026|一项全女生生成式 AI 创客空间案例研究]]发现女孩重视单一性别环境带来的更安全、更放松的感受，并警告"女孩化"——那种不动权力关系的表面适配。
 - **模型敏感性是模型属性，不是常数。** 在[[edufair-bench-pedagogical-fairness-llm-tutors-2026|EduFair-Bench]]中，五个从 7B 到 70B 的辅导模型在九个人口统计层级上被审计：Qwen2.5-7B 在 12 个"领域 × 维度"单元中的 7 个超过了 |r| ≥ 0.10 的偏见阈值，而 LLaMA-3.1-8B 只超过了一次。教学导向的训练减少了某些偏见，也增加了另一些。
 - **单轴修正可能让某个群体处境更糟：** 被归入"未知性别"类别的性别多样学生在每一种公平方法下的真正例率都最低，且没有任何单轴方法改善了他们的待遇——即上述群体标签变异，只是出现在预测性早期预警模型中而非辅导模型中（[[fairness-theatre-early-warning-systems-2026|McConvey 等（2026）]]）。
+
+一学期的低利害 AI 素养活动，能以不同方式改变不同群体的信心。[[petricini-ai-literacy-communication-equity-2026|Petricini 与 Cruz（2026）]]在一门异步公开演讲课程的第 2 至 11 周嵌入十项活动，分析了 200 名选课学生中 133 份可用回答；感知胜任力总体下降，从 1–7 量表上的 5.63 降到 5.12，且下降并不均匀。自我认同为女性的学生在两项胜任力条目上出现显著的前后下降，自我认同为男性的学生在一项上下降、在对课程价值的评价上上升，且他们在后测中对自己使用课程中任何新工具的评价更高（p = .02）。同一项干预让自我认同为白人的学生在全部三项压力与紧张条目上显著下降，包括对表现的担忧从 2.67 降到 1.90，而其他种族、族裔或文化身份的学生在这些条目上均无显著变化。
 
 ## 种族、族裔与少数群体学生
 
@@ -185,7 +191,8 @@ ai_assist:
 - [[ai-divide-ses-personality-primary-education-2026]] — 4,497 名学生：数字素养而非 AI 使用中介了差距
 - [[arc-hubs-k12-ai-robotics-rural-2026]] — 再未恢复的农村参与率，以及作为约束的指导
 - [[ai-tutoring-micro-rct-gcse-science-2026]] — 一个置信区间跨越零的亚组交互效应
-- [[student-ai-inquiry-types-cs2-2026]] — 语料库中唯一一项第一代学生使用发现
+- [[petricini-ai-literacy-communication-equity-2026]] — 基础传播课程中的 AI 素养：关于公平、动机与减少不确定性的洞见
+- [[student-ai-inquiry-types-cs2-2026]] — 唯一的第一代学生使用差异发现
 - [[international-students-conversational-ai-adaptation]] — 语料库中唯一一项国际学生研究
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — 语料库对第一代学生的首个效应估计：辅导访问权使他们期末成绩损失 0.50 个标准差，而同伴为 0.22（Liu 等，2026）
 - [[fairness-theatre-early-warning-systems-2026]] — Fairness Theatre：评估厂商控制的早期预警系统中的事后公平性干预

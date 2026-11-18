@@ -2,7 +2,7 @@
 connected_resources: [liascript, code-viva]
 title: 计算机科学教育
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:47-05:00"
 type: concept
 foundations: [ai-literacy, computational-thinking]
 technology: [generative-ai, llm, prompt-engineering]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/cs-education
-source_updated: "2026-11-07T12:15:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -61,6 +65,7 @@ ai_assist:
 
 - **采用跟踪的是作业，而非子领域。** 在七份作业与 211 名学生中，[[student-llm-use-cs-subfields-2026|Nizamani 等人（2026）]] 测得大语言模型使用率从算法课的 89.6% 到软件工程课的 15.2%，把这种分布归因于作业复杂度、可验证性与支架，而非学科本身。
 - **反馈可以分级，使诊断保持隐藏。** [[educator-guided-llm-pedagogical-agent-2026|Riazi & Rooshenas（2026）]] 把对学生数据库模式的、立足制品的诊断与发布它的工作流分离，各阶段由教师编写；在 383 个 episode 中，71.1% 的反馈到达了目标层级。
+- **十七种需求错误类型，在 211 个团队中计数。** 优先级错误居首（81% 的本科团队），而一条零样本 GenAI 提示在范围、故事格式、优先级与工作量上与这些团队打平或更胜一筹（[[spichkova-genai-agile-requirements-2026|Spichkova（2026）]]）。
 
 ### 编程教学法：从积木到具身、游戏化学习
 
@@ -109,6 +114,7 @@ ai_assist:
 ### 公平、文化与谁进入计算领域
 
 - **扩大参与：** [[suacode-african-students-motivations|SuaCode]] 记录了非洲学生基于智能手机编程的动机（不到 1% 的中学离校者具备基础编程技能），为 [[equity-in-ai-education|低资源情境]] 下可及的 AI 支持大规模开放在线课程提供依据。
+- **无 AI 的门槛，AI 优先的工作。** [[ai-free-gates-engineering-students-india-2026|Goutham 与 Gu（2026）]] 访谈了 23 名印度工程专业学生：除一人外，所有人都在排除 AI 的求职筛选中使用了 AI，而雇主本身又要求使用 AI，因此被筛出的成绩所能证明的东西更少。
 - **神经多样性与协作：** [[neurodivergent-computing-students|神经多样的计算机专业学生]] 报告对模糊协作结构的不适；结构化作业、更小且稳定的团队与明确角色改善 [[accessibility|无障碍性]] —— 这是给进入计算机课堂的 AI 工具的设计教训。
 - **文化塑造被感知的伦理：** [[cross-cultural-student-perceptions-genai-computing|加拿大对韩国计算机专业学生]] 对完全相同的 AI 辅助编程实践判断不同，尽管政策在功能上完全相同 —— 政策协调不产生感知协调，这是一个 [[academic-integrity|学术诚信]] 与 [[equity-in-ai-education|公平]] 问题。
 - **协作的 [[explainable-ai|透明度]]：** [[student-perception-ai-use-collaboration|Graf 等人]] 发现，伙伴间对彼此 AI 使用的不一致信念预测更低的小组分数，对表现较差的学生尤甚 —— 协作编程中可能需要透明度机制（披露、共享日志）。

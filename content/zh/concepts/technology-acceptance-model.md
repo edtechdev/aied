@@ -1,7 +1,7 @@
 ---
 title: 技术采纳模型
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-18T03:20:00-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, technology-acceptance-model]
@@ -10,13 +10,17 @@ level: [higher ed]
 confidence: high
 methods: [research-methods-aied]
 translation_of: concepts/technology-acceptance-model
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -45,7 +49,7 @@ ai_assist:
 Davis（1989）提出的 TAM 通过两个核心信念解释采纳——**感知有用性（PU）**和**感知易用性（PEOU）**——它们塑造用户的**态度（ATT）**，再影响**行为意向（BI）**，最终影响实际使用。植根于信息系统理论（改编自理性行为理论），TAM 已成为教育中[[generative-ai|GenAI]]采纳的主导框架。在教育 GenAI 研究中，它常与[[ai-literacy]]、[[trust]]、社会影响、[[self-determination-theory|自我决定]]和**批判性使用**结合扩展，以捕捉超出简单采用的采纳复杂性。
 
 ### UTAUT / UTAUT2 / UTAUT3
-**技术接受与使用统一理论**把 TAM 与八种先前的模型整合为四个核心决定因素——绩效期望、努力期望、社会影响和便利条件（UTAUT2 增加了享乐动机、价格价值和习惯；UTAUT3 增加了个人创新性）。知识库在教师和学生群体中应用 UTAUT：[[mathematics-teachers-chatbot-motivation-2026|奥地利中学数学教师]]（448 位教师，UTAUT）、[[pre-service-science-teachers-ai-perceptions-2026|加纳的职前科学教师]]（UTAUT + TPB）以及[[tian-genai-learning-adoption-pathways-2026|莱索托的学生]]（UTAUT3 + ARCS，使用 PLS-SEM 与 fsQCA）。[[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez 等人]]为 522 名大学生扩展了 UTAUT2，加入可解释 AI（Random Forest、SHAP、NCA、IPMA、K-Means），发现**习惯**是 ChatGPT 使用意图的最强预测因子，并表明**努力期望是必要条件而非线性驱动因素**——这一结果只有在 XAI 补充回归分析时才可见。
+**技术接受与使用统一理论**把 TAM 与八种先前的模型整合为四个核心决定因素——绩效期望、努力期望、社会影响和便利条件（UTAUT2 增加了享乐动机、价格价值和习惯；UTAUT3 增加了个人创新性）。UTAUT 被应用于教师和学生群体：[[mathematics-teachers-chatbot-motivation-2026|奥地利中学数学教师]]（448 位教师，UTAUT）、[[pre-service-science-teachers-ai-perceptions-2026|加纳的职前科学教师]]（UTAUT + TPB）以及[[tian-genai-learning-adoption-pathways-2026|莱索托的学生]]（UTAUT3 + ARCS，使用 PLS-SEM 与 fsQCA）。[[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez 等人]]为 522 名大学生扩展了 UTAUT2，加入可解释 AI（Random Forest、SHAP、NCA、IPMA、K-Means），发现**习惯**是 ChatGPT 使用意图的最强预测因子，并表明**努力期望是必要条件而非线性驱动因素**——这一结果只有在 XAI 补充回归分析时才可见。
 
 **在已经采纳的样本中，习惯承载模型，而期望归于沉寂。** [[pinedo-genai-adoption-marketing-students-2026|Pinedo 等（2026）]]在两所拉美大学对 310 名[[business-education|营销专业学生]]检验 UTAUT2：习惯预测意向 β = 0.426、预测使用 β = 0.412，意向预测使用 0.324。绩效期望（0.037）、努力期望（0.054）与社会影响（0.048）均不显著，模型解释了意向 R² = 0.665 与使用 0.707。作者把这些零路径读作一个已经采纳该工具的人群中的方差限制；结果是[[self-report-measures|自报]]使用，而非记录的行为。
 
@@ -57,14 +61,16 @@ TPB 通过态度、主观规范和感知行为控制来解释意向。它在 AI 
 采纳研究通常止于意向；一项 TPB 扩展研究转而测量了"有真实意向却仍拖延"，发现感知行为控制是 GenAI 辅助学习拖延的最强负向预测因子（β = −0.331），横跨 1,243 名本科生，且意向—拖延的联系只在中等至高等的学习 GenAI 焦虑水平下显著（[[genai-learning-procrastination-planned-behavior-2026|Li 等人（2026）]]）。
 
 ### 创新扩散（DOI）
-Rogers 的 DOI 理论把采纳解释为一个社会过程，创新随时间在人群中扩散，强调创新属性（相对优势、兼容性、复杂性、可试用性、可观察性）和采纳者类别。它出现在知识库的[[governance|机构]]层面分析中，例如[[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi 等人]]把技术—组织—环境（TOE）框架与 DOI 结合，为沙特高校的组织 AI 采纳建模。
+Rogers 的 DOI 理论把采纳解释为一个社会过程，创新随时间在人群中扩散，强调创新属性（相对优势、兼容性、复杂性、可试用性、可观察性）和采纳者类别。它出现在[[governance|机构]]层面的分析中，例如[[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi 等人]]把技术—组织—环境（TOE）框架与 DOI 结合，为沙特高校的组织 AI 采纳建模。
+
+在学生层面，[[gocyla-genai-adoption-diffusion-2026|Gocyła 与 Strzelecki（2026）]]发现相对优势、兼容性、简单性与可观察性预测使用 GenAI 的意向，解释了 48.7% 的方差，而可试用性则不预测（f² = 0.001）：免费获取或许使试用成为一种基线预期，而非差异化因素。
 
 ### 技术—组织—环境（TOE）
 TOE 把采纳框定为受技术、组织和环境情境塑造——作为个体层面 TAM/UTAUT 的补充，用于研究机构采纳（见[[alrahmi-org-drivers-ai-adoption-he-2026]]）。
 
-## 在知识库中的应用
+## 应用
 
-采纳模型在知识库中被用于为学生和[[teacher-role|教师]]采用 AI 工具建模：
+采纳模型被用于为学生和[[teacher-role|教师]]采用 AI 工具建模：
 
 - **批判性使用扩展：**[[tam-critical-use-genai-engineering-2026|Nguyen 等人]]为工程/计算机专业学生扩展了带*批判性使用*的 TAM，发现态度和批判性使用直接预测意向——且批判性使用能防范[[cognitive-offloading|过度依赖]]。
 - **统一的社会认知模型：**[[socio-cognitive-genai-adoption-engineering-2026|Asag & Al Mamun]]为孟加拉国工程专业学生整合 TAM 与 UTAUT（解释了 64% 的使用方差）。
@@ -95,6 +101,8 @@ TAM 的认知取向也未能充分捕捉 AI 使用中的情绪与关系维度。
 
 一项近期的扩展颠倒了通常的方向，把[[discipline-specific-aied|学科特定]]的动机信念放在 TAM 感知的*上游*而非旁边。[[high-school-genai-acceptance-tam-physics-2026|Xue、Xu、Qi 与 Lu（2026）]] 报告，效用价值以 β = 0.43 预测感知有用性，成功期望以 β = 0.39 预测感知易用性，而 TAM 的核心路径虽减弱但仍显著。
 
+**有用性可以由任务设定而非工具承载。** 在四场针对 26 名 STEM 本科生的焦点小组中，同一块讨论板在提示要求应用或展示同学如何推理时值得他们花时间，而在提示要求复述时则是苦差事（[[reding-discussion-boards-tam-ai-analytics-2026|Reding、Gartner 与 Nugent，2026]]）。作者把这一结论表述为一项 TAM 主张：感知有用性附着于提示如何被构建，而非讨论板本身是否存在。
+
 **任务—技术匹配作为一条平行路径，必要性则是另一个问题。** 上文多数扩展在信念模型*内部*添加构念。TAM 研究很少携带的一个姊妹框架是任务—技术匹配，它追问工具的能力是否与特定任务的要求相匹配。[[chu-design-students-ai-agent-tam-ttf-2026|Chu 与 Liu（2026）]]在中国高校 405 名设计专业研究生中把两者结合起来，匹配作为通往态度的第二条路径起作用，而不是有用性的决定因素。
 
 任务特征以 β = 0.322 喂养匹配，技术特征为 β = 0.266。匹配随后以 β = 0.224 喂养态度，与感知有用性（0.376）和感知易用性（0.185）并列，态度以 β = 0.388 喂养意向。自我效能承载了最大的上游系数，对有用性 0.458、对易用性 0.394。感知趣味性提升了易用性（0.220），却没有触动有用性（−0.033，p = 0.483）——这是经典模型未曾划出的工具性/情感性分野。
@@ -104,6 +112,8 @@ TAM 的认知取向也未能充分捕捉 AI 使用中的情绪与关系维度。
 **位于信念上游的设计特征，以及并非必要性的重要性。** [[zhang-ai-enhanced-systems-adoption-ann-nca-2026|Zhang、Xin 与 Qing（2026）]]借用刺激—机体—反应框架，为 301 名中国大学生把六项系统特征放在两项 TAM 信念之前。个性化与互动性只推动感知有用性，而智能性与内容完整性只推动易用性。响应性推动两者；拟人化两者都不推动。模型解释了意向的 R² = 0.244（SRMR = 0.033），其中易用性在意向上领先于有用性（β = 0.340 对 0.265）。十折交叉验证的网络重要性与此一致，易用性为 100%，有用性为 84.70%。
 
 必要条件分析随后把影响与要求分开。排名第一的预测因子易用性彻底失败（d = 0，p = 0.592）。有用性是必要的但很小（d = 0.027，p = 0.011）。作者把这一分裂读作对"把路径系数当作底线"的告诫。一个强系数说明一单位的易用平均能买到意向；只有必要性才能说明另一项信念是否可以缺席。
+
+**设计特征经由信任传导，DOI 与 TAM 并列。** [[wang-ai-avatars-tam-doi-adoption-2026|Wang 等人（2026）]]调查了 653 名学习者对[[ai-avatars-and-synthetic-instructors|AI 化身]]的看法，发现其 TAM–DOI 合并模型中最强的路径从感知透明性通向[[trust|信任]]（β = 0.542）。相对优势（β = 0.267）与感知有用性（β = 0.247）对意向的承载超过态度（β = 0.126）。
 
 风险与使用的联系还取决于系统：在实施了相关题项的 49 个 TALIS 2024 系统中，感知 AI 效用与 AI 使用在全部 49 个系统中正相关，而感知风险在 40 个系统中负相关、在 9 个中正相关（[[teachers-ai-belief-profiles-talis-2024-2026|Fang & Jin（2026）]]）。
 
@@ -132,6 +142,8 @@ TAM 的认知取向也未能充分捕捉 AI 使用中的情绪与关系维度。
 - [[framing-ai-use-for-students]]
 
 ## 关联文章
+
+- [[wang-ai-avatars-tam-doi-adoption-2026]] — 面向 AI 化身的 TAM + DOI：透明性 → 信任（β = 0.542），相对优势与有用性承载意向
 - [[high-school-genai-acceptance-tam-physics-2026]] — 学科特定信念被置于 TAM 感知的上游
 - [[dai-genai-frenemy-teaching-autonomy-2026]] — GenAI 作为"亦敌亦友"：人工自主性与风险规避为教师扩展了 TAM（Dai 等人 2026）
 - [[akbaba-nursing-ai-experiences-tam-2026]] — 护理领域的 AI 体验；TAM 的心理社会扩展
@@ -166,4 +178,6 @@ TAM 的认知取向也未能充分捕捉 AI 使用中的情绪与关系维度。
 - [[zhang-ai-enhanced-systems-adoption-ann-nca-2026]] — 位于 TAM 信念上游的设计特征，以及并非必要性的重要性
 - [[pinedo-genai-adoption-marketing-students-2026]] — 在已采纳人群中习惯承载 UTAUT2
 - [[stalboerger-faculty-perceptions-2026]] — 22 名教师、12 次随访：熟悉度使一些人加强了伦理审视，颠倒了易用性的方向（Stalboerger 等 2026）
+
+- [[reding-discussion-boards-tam-ai-analytics-2026]] — 学生对讨论板的感知：一项为 AI 赋能学习分析设计提供信息的 TAM 研究
 

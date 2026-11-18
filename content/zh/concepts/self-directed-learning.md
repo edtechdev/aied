@@ -2,7 +2,7 @@
 connected_resources: [matt-pocock-skills]
 title: 自我导向学习（Self-Directed Learning）
 created: "2026-08-20T06:35:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:15:00-05:00"
 type: concept
 foundations: [agency]
 pedagogy: [lifelong-learning, motivation, self-efficacy, self-regulated-learning]
@@ -10,13 +10,17 @@ technology: [generative-ai]
 level: [higher ed, adult learning]
 confidence: high
 translation_of: concepts/self-directed-learning
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -27,7 +31,7 @@ ai_assist:
 ## 值得思考的问题
 
 - 自我导向学习意味着在有限的外部结构下诊断自身需求、设定目标和评估结果。在阅读之前，你在主导自身学习上实际有多自如——有没有一个 AI 工具曾让你*更不*能做到，而你没注意到？
-- 本页把 SDL 框定为既是一个期望的结果，也是一种脆弱性：生成式 AI 的便利会侵蚀 SDL 所需的自主性和自我效能。为什么一个给你即时答案的工具会让你*更难*在日后主导自己的学习？
+- SDL 既是一个期望的结果，也是一种脆弱性：生成式 AI 的便利会侵蚀 SDL 所需的自主性和自我效能。为什么一个给你即时答案的工具会让你*更难*在日后主导自己的学习？
 - 研究发现，不加思考地使用 GenAI——不加[[critical-thinking|批判性评估]]就采纳输出——既直接损害 SDL，也通过侵蚀自我效能和动机损害它。你能回想起一次未经评估就接受了 AI 答案吗？如果有，那让你付出了什么代价？
 - SDL 与自我调节学习（SRL）密切相关但有别：SRL 关注学习当下的[[regulation]]调节，而 SDL 关注跨时间的总体责任。在你自己的实践中，"管理这个任务"与"主导我自己的学习"之间的界线在哪里？
 - 不加思考的 AI 使用带来的伤害对一些学生的动机打击更大，对另一些人的自我效能打击更大。如果这些心理资源的侵蚀在学习者间不均衡，AI 便利会让谁损失最大，这提出了什么[[equity-in-ai-education|公平]]关切？
@@ -39,7 +43,7 @@ ai_assist:
 
 ## 生成式 AI 如何重塑自我导向学习
 
-知识库的[[research-methods-aied|研究]]记录了 GenAI 与 SDL 关系的两面。
+研究记录了 GenAI 与 SDL 关系的两面。
 
 - **AI 可以支持 SDL。** [[ai-lifelong-learning-policy|AI 与终身学习]]和[[self-directed-growth-generative-ai-learning-analytics|GenAI + 学习分析下的自我导向成长]]表明，AI 工具能以强化学习者自主性的方式[[scaffolding|支架]]独立探究、提供按需资源、个性化学习路径。关于生成式 AI 教育结果的[[genai-educational-outcomes-meta-analysis|元分析证据]]和[[conversational-ai-informal-learning|非正式学习中的对话式 AI]]提示，当 AI 被用作由学习者主导的资源时，有积极潜力。
 - **学习者想要思考伙伴，而非神谕。** 受访的成人学习者希望 AI 提示反思和验证，而非提供答案，并希望把[[recommender-systems-and-learning-paths|学习路径]]的控制权留给他们，而非替他们规定（[[kim-ai-andragogy-2026|Kim 等（2026）]]）。
@@ -60,16 +64,6 @@ ai_assist:
 
 - **AI 提取作为研究性学习的支架。** An 及其同事（2026）设计了一个 AI 驱动的信息提取系统，把研究出版物转化为结构化、可追踪的数据集，以支持[[stem-education|STEM]]中本科论文的完成，定位为一个**认知支架**，让人能检视证据—主张关系，同时降低底层数据处理需求。在一项 20 名学生、跨 80 份文档的[[mixed-methods-research|混合方法]]试点中，学生提取了超过 90% 的目标参数，[[self-report-measures|自报]]文献综述时间下降约 65%，识别影响变量的能力上升 50%——支持这样的想法：[[generative-ai|AI]]可以把认知负荷重新平衡到更高阶、自我导向的研究性推理上，而非例行的摘要。
 
-## 常见误解
-
-**"自我导向学习与自我调节学习是同一个构念。"** 它们在不同时间尺度上运作：SRL 关乎学习在当下的调节，而 SDL 关乎跨时间的总体责任，即选择学什么、设定目标并在数月间把握方向。一项改善逐刻调节的干预不必产出自我导向的学习者，而一个学生可以在整个项目中是自我导向的，却在单次会话内调节得很差。
-
-**"AI 让自我导向学习更容易，因为它提供结构。"** 它也可能取消这项技能的练习。[[genai-thoughtless-use-self-directed-learning-2026|Zhao 与 Gu（2026）]]表明，**不加思考地使用 GenAI（不加批判性评估就采纳输出）显著削弱 SDL**。导向自己的学习，是靠做出那些 GenAI 如今可以替你做出的决定来练习的，因此一个总是提供方向的助手，提供的是方向本身，来代替这项能力。
-
-**"不使用 AI 说明缺乏可及性。"** 在不使用它的学生中，陈述的理由常常是一个积极的教育选择，即想自己做这份工作，而不是某种障碍。把不使用读作缺陷，误述了一个在 [[student-experience]] 证据中有理由的立场。
-
-**"自我导向意味着独自工作。"** 它意味着拥有方向，而这可以在一个支持度很高的环境中行使。区分性特征是谁设定并调整目标，而不是是否有帮助可得。
-
 ## 实践启示
 
 **对教师**
@@ -86,6 +80,16 @@ ai_assist:
 **对研究者**
 
 - 报告一项干预针对的是哪个构念；SDL 与 SRL 的结果不应互换使用。
+
+## 常见误解
+
+**"自我导向学习与自我调节学习是同一个构念。"** 它们在不同时间尺度上运作：SRL 关乎学习在当下的调节，而 SDL 关乎跨时间的总体责任，即选择学什么、设定目标并在数月间把握方向。一项改善逐刻调节的干预不必产出自我导向的学习者，而一个学生可以在整个项目中是自我导向的，却在单次会话内调节得很差。
+
+**"AI 让自我导向学习更容易，因为它提供结构。"** 它也可能取消这项技能的练习。[[genai-thoughtless-use-self-directed-learning-2026|Zhao 与 Gu（2026）]]表明，**不加思考地使用 GenAI（不加批判性评估就采纳输出）显著削弱 SDL**。导向自己的学习，是靠做出那些 GenAI 如今可以替你做出的决定来练习的，因此一个总是提供方向的助手，提供的是方向本身，来代替这项能力。
+
+**"不使用 AI 说明缺乏可及性。"** 在不使用它的学生中，陈述的理由常常是一个积极的教育选择，即想自己做这份工作，而不是某种障碍。把不使用读作缺陷，误述了一个在 [[student-experience|学生体验]]证据中有理由的立场。
+
+**"自我导向意味着独自工作。"** 它意味着拥有方向，而这可以在一个支持度很高的环境中行使。区分性特征是谁设定并调整目标，而不是是否有帮助可得。
 
 ## 关联概念
 

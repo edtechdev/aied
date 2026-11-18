@@ -8,15 +8,19 @@ assessment: [assessment-validity]
 discipline: [statistics and data science education]
 confidence: medium
 created: "2026-10-27T03:54:34-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 translation_of: concepts/statistics-and-data-science-education
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-26"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -33,7 +37,7 @@ ai_assist:
 
 ## 引言
 
-统计学与数据科学教育把一个探究循环当作可教的对象——Guidelines for Assessment and Instruction in Statistics Education（GAISE）建议与 Problem, Plan, Data, Analysis, Conclusion（PPDAC）框架是该领域对这一循环的两张标准地图。它的教学法不同于 [[math-education|数学教育]]，而这种差异对 AI 设计很重要：数学教学评估的是朝向一个确定答案的推理，而统计学教学评估的是经由一次**探究**的推理，其中数据、设计与推断的边界本身就是内容。知识库因此把本页单列。统计学在[[curriculum-design|课程]]中与数学相邻并借力于它，但一个用来检查推导的工具，与一个用来生成"关系有待学生发现"的数据集的工具，回答的是不同的问题。
+统计学与数据科学教育把一个探究循环当作可教的对象——Guidelines for Assessment and Instruction in Statistics Education（GAISE）建议与 Problem, Plan, Data, Analysis, Conclusion（PPDAC）框架是该领域对这一循环的两张标准地图。它的教学法不同于 [[math-education|数学教育]]，而这种差异对 AI 设计很重要：数学教学评估的是朝向一个确定答案的推理，而统计学教学评估的是经由一次**探究**的推理，其中数据、设计与推断的边界本身就是内容。正因如此，统计学被视为一个独立学科，而非数学的一个分支。统计学在[[curriculum-design|课程]]中与数学相邻并借力于它，但一个用来检查推导的工具，与一个用来生成"关系有待学生发现"的数据集的工具，回答的是不同的问题。
 
 本页所收的文章共享一种源自该学科"以制品为中心"的模式。AI 出现为课堂材料的生产者或脚手架提供者，而非概念的讲解者：一位为 R 专门打造的辅导器、一条生成触觉图表的流水线、一个合成数据集生成器、一次对自动生成练习题的审计。这种形态让证据问题比多数学科更尖锐，因为当制品是被生成出来的，嵌入其中的每一项断言——难度等级、系数符号、一个分布——都是由教师以外的东西决定的。
 
@@ -58,6 +62,8 @@ ai_assist:
 最清晰的正面结果，关乎为特定课程和特定语言打造的工具有。一位专为本科心理学学生打造、包裹在托管 API 之外、以系统提示要求"引导而非作答"的[[intelligent-tutoring|AI 辅导器]]，被部署在一门为期一学期的 R 编程课程中：在考试相关周，76% 到 84% 的学生使用过它；他们[[self-report-measures|自报]]把 53% 的学习工具时间花在它上面，而未经验证的 [[generative-ai|生成式 AI]] 工具为 8%；当每周内容不再计入考试后，使用率降至 50% 到 58%，并在[[oral-assessment|口试]]前一周回升至 64%。采用率如此紧密地跟随考核日历，提醒我们工具采纳是一种学习行为现象，而不只是质量信号。
 
 脚手架的质量独立于可及性而重要。一项对受引导与不受限制的 [[llm]] 访问所作的实验比较发现，就聚焦推理的脚手架——分步提示、验证——进行显式训练，比不加批判的依赖带来更好的独立表现和更好的 [[self-assessment]] 校准，这把教育性工作定位在结构化的互动中，而非模型中。可及性支脉对制品做了同样的动作：一条约 1,500 行的 JavaScript 流水线从板材尺寸推导触觉设计参数，提供五种模块化图表构建器，并在不到 250 毫秒内产出可打印的 STL，配有单遍[[assistive-technology|盲文]]与英文标注，并可选地用[[multimodal|多模态]]模型从上传图片中提取图表规格，打印前必须经[[teacher-role|教师]]审阅。两种设计都把生成与人工核查配对。
+
+- **四阶段 AI 反馈推动了批判性思维。** 在一门本科分析学课程中，由引出、探究、重构与整合构成的结构化循环，相对教师评语产生了 5.64 分的调整后优势，而形式演绎推理未受影响（[[structured-genai-feedback-critical-thinking-data-science-2026|Yin 等（2026）]]）。
 
 ## 证据尚未确立的内容
 

@@ -1,20 +1,24 @@
 ---
 title: 先备知识
 created: "2026-08-22T01:20:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 type: concept
 foundations: [learning-design]
 pedagogy: [constructivist, learning-theories, metacognition, prior-knowledge, scaffolding]
 technology: [personalized-learning, student-modeling]
 confidence: high
 translation_of: concepts/prior-knowledge
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -57,6 +61,7 @@ ai_assist:
 - **把启动与激活当作设计。** [[genai-mindtool-generative-learning|生成式人工智能思维工具路径]] 刻意通过提问、人工智能生成的视觉与类比“为学习任务做准备”（例如“关于生态系统，你已经知道什么？”），在引入新内容之前激活先备知识与好奇心 —— 示范的是检索—整合路径，而非答案供给路径。
 - **学生建模与记忆。** 人工智能系统日益建模学习者的先备知识状态与纵向记忆（例如把先备知识状态与遗忘曲线纳入辅导记忆），使间隔重复与自适应复习建立在每位学习者已知的东西之上。（[[nie-personavlm-long-term-personalization-2026]]）
 - **一个个性化适配的杠杆。** 因为学习者在先备知识上差异很大，适配必须按个体调音 —— 这是 [[personalized-learning]] 与自适应 [[scaffolding]] 的一个核心论证，即在学习者的实际当前状态而非班级平均的假设上与他们相遇。
+- **先备知识是唯一调节了适应性支持的学习者特征。** 已经掌握该内容的学习者获益更多（g = .74，95% 置信区间 [.42, 1.05]），尚未掌握者获益稍少（g = .63 [.46, .80]），而两组都有获益；这更符合适应性支持撤回多余帮助的解释，而非专长反转（[[gao-adaptive-support-collaborative-learning-meta-2026|Gao 等，2026]]）。
 
 ## 对设计教育中人工智能的启示
 

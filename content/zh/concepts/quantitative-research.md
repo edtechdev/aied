@@ -1,20 +1,24 @@
 ---
 title: 量化研究
 created: "2026-08-24T02:05:00-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-18T03:15:00-05:00"
 type: concept
 assessment: [educational-measurement]
 research_method: [survey, experiment]
 confidence: high
 methods: [quantitative-research, research-methods-aied]
 translation_of: concepts/quantitative-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -37,12 +41,17 @@ ai_assist:
 
 ## 主要的量化路径
 
+### 纵向与面板设计
+
+对同一批学习者的重复测量把相关变成一条轨迹：面板模型把稳定的特质与特定场合的变化分开，成长模型估计跨波次变化的形状与速率。这些设计家族、在 AI 研究中真正咬人的威胁（流失、工具漂移、受辅助的表现）以及更强的范例，都在[[longitudinal-research|纵向研究]]中讨论。
+
 ### 调查与相关研究
 横断面调查测量自陈的态度、感知、动机、[[self-efficacy|自我效能感]] 与技术接受，常以回归或结构方程建模（SEM/PLS-SEM）来检验假设的关系与中介。这类方法主导着本知识库的语料，尤其在接受、动机与心理机制问题上。[[acceptance-ai-english-tools-2026|对 AI 辅助英语工具的接受]] 以 SEM 建于 [[technology-acceptance-model|TAM]] 之上；[[tian-genai-learning-adoption-pathways-2026|生成式 AI 采用路径]] 使用 PLS-SEM、fsQCA 与重要性—表现映射；[[teacher-education-ai-literacy-sdt-2026|教师 AI 素养]] 使用奠基于 [[self-determination-theory|自我决定理论]] 的因子验证问卷。
 - **优势：** 大样本；广泛、低成本的覆盖；检验复杂的中介模型；对难以观察的态度可行。
 - **局限：** 横断面数据不能确立因果；自陈偏倚；方便抽样限制可推广性；中介从协方差推断，而非操纵。这些局限的工具侧处理见 [[self-report-measures|自陈测量]]。
 
 - **一个饱和的中介模型无法检验自身的排序。** 一项对 1,020 名护理学生的单波调查把 1.36 的总效应拆成一个 0.92 的直接效应与一个经由 [[self-regulated-learning|自我调节学习]]的 0.44 的间接效应（占总量的 32.35%），而该模型的自由参数与观测协方差一样多，因此在构造上就复现了数据（[[li-nursing-genai-interaction-self-regulated-learning-2026|Li 等（2026）]]）。
+- **一个"部分"的标签可能建立在一个几乎触及零的区间上。** 在 438 名中国大学生中，由 AI 使用通往表现的直接路径为 β = 0.18，95% CI（0.02, 0.34）（[[yuan-ai-assisted-learning-engagement-performance-2026|Yuan 等（2026）]]）。
 **一个近乎为零的总间接效应可能掩盖两条仍然存在的路径。** 在一波对 568 名设计学生的自陈调查中，间接关联经由促进聚焦为 0.0929、经由预防聚焦为 -0.0884，合计 0.0045，而直接路径承载了总效应的 98.7%（[[wang-ai-disruption-design-innovation-competence-2026|Wang 等（2026）]]）。
 
 ### 实验与准实验研究
@@ -64,7 +73,7 @@ ai_assist:
 
 文献计量分析是又一个量化家族：[[sriram-ethical-ai-medical-education-bibliometric-2026|Sriram 等人（2026）]] 通过国家、机构与关键词共现网络梳理了 1,403 篇 [[medical-education|医学教育]] 出版物，读出的是一部文献的形状而非对其研究的评价，正是这一点使他们“[[governance|治理]]研究尚未跟上能力测试”的结论成为关于该领域而非关于学习的断言。
 
-## 量化研究在本知识库中的出现方式
+## 量化研究在教育 AI 中的出现方式
 
 - **效力与因果主张。** 随机对照试验与准实验检验 AI 工具是否改善学习（[[access-not-enough-ai-tutoring-2026]]、[[genai-can-harm-teaching-rct-2026]]、[[adaptive-pretesting-retention]]）。
 - **预注册与复制。** [[chatbot-outreach-course-performance-2026|Meyer 等人（2026）]] 在试验前陈述其假设与分析计划，并把随机对照比较汇集于两个学期与两门大规模异步课程之上，于是估计立于一个固定计划与一次复制之上，而非单个样本。
@@ -77,6 +86,7 @@ ai_assist:
 
 - **优势：** 精确与统计效力；对已界定总体的可推广性；因果推断（配合实验设计）；高效的大样本覆盖；跨研究可累积且可比。
 - **局限：** 只捕捉可测量的东西，常遗漏过程、意义与情境（见 [[qualitative-research|质性研究]]）；自陈偏倚；工具可能测量错误的构念（见 [[educational-measurement|测量问题]]）；相关而非因果；相对于 AI 变化可能显得人为且缓慢。
+- **汇总可能在综述尺度上失败。** 一项针对高等教育中 GenAI 的 103 项研究 PRISMA 综述没有做元分析，因为设计、比较对象与测量过于异质，转而报告结果类型学的一致度为 κ = 0.781（[[generative-ai-higher-education-systematic-review-2026|Hawi 与 Samaha（2026）]]）。
 
 量化与 [[qualitative-research|质性]] 方法互为补充 —— 量化工作提供广度与因果力，质性工作提供深度与意义。[[mixed-methods-research|混合方法设计]] 把二者结合。完整的方法比较以及实验、调查、质性与其他设计之间的对照见 [[research-methods-aied|教育 AI 研究方法]]。
 
@@ -88,6 +98,7 @@ ai_assist:
 
 ## 关联概念
 
+- [[longitudinal-research]]
 - [[research-methods-aied]]
 - [[qualitative-research]]
 - [[mixed-methods-research]]

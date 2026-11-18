@@ -1,7 +1,7 @@
 ---
 title: 教育测量
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:47-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [educational-nlp, knowledge-tracing, learning-analytics]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory, psychometrically-aware-a
 connected_faqs: [ai-literacy-evidence, evaluating-ai-interventions-methods]
 confidence: medium
 translation_of: concepts/educational-measurement
-source_updated: "2026-11-05T22:30:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -21,11 +21,15 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
+    agent: hermes-agent
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **教育测量** —— 用于量化和验证学习及其构念的心理测量理论与方法——贯穿于知识库的[[item-response-theory]]、[[knowledge-tracing]]与[[assessment-validity]]各页。[[llm]]时代迫使测量学把经典心理测量学与新的 AI 生成的作答流调和起来：自动评分、AI 预测的难度与[[multimodal]]痕迹都必须对照既有的测量原则加以验证，以保持信度与效度。
+> **教育测量** —— 用于量化和验证学习及其构念的心理测量理论与方法——贯穿于[[item-response-theory]]、[[knowledge-tracing]]与[[assessment-validity]]各页。[[llm]]时代迫使测量学把经典心理测量学与新的 AI 生成的作答流调和起来：自动评分、AI 预测的难度与[[multimodal]]痕迹都必须对照既有的测量原则加以验证，以保持信度与效度。
 
 ## 值得思考的问题
 
@@ -64,13 +68,13 @@ ai_assist:
 - **随新数据而非全部历史而伸缩的校准：** [[bayesian-consensus-irt-item-banks-2026|Jewsbury 等（2026）]]直面 AI 题目生成在操作上的后果——题库更大、更稀疏、更新更频繁，以至于每次更新都重新拟合所有累积作答数据成本高昂，且可能超出可用内存。他们的*共识校准*通过把每个时期独立校准的后验抽样映射到一个共同量尺上（采用逐次抽样的稳健 Haebraha 链接，从而使链接不确定性得以传播而非被当作固定变换），再以高斯后验之积聚合（从中减去每个时期*估计的、层次化的*先验，并重新引入一个共识先验）。在跨四个时期的 Duolingo 英语测试操作数据上，该聚合在后验均值上与"汇总单次运行"基准相匹配（难度 r = .998，对数区分度 r = .991），标准差也相匹配（r = .970 与 .920），且共识／汇总标准差之比在曝光三分位间存在 0.91–0.98 的残差欠分散——集中在最稀疏的题目三分位，那里先验重复计算咬得最狠。这里的测量教训是双重的：一个估计出的先验无法用并行贝叶斯计算的标准子集先验手段来处理，而后验*分散度*——自适应选题与评分所消耗的不确定性——与后验均值一样是该校正的目标。
 - **从两个已发表的数字识别一个系统的分散度：** [[el-salvador-ai-tutoring-selection-claim-2026|Restrepo Morales 等（2026）]]表明，一个[[learning-gains|成绩]]分布的标准差可以仅从已发表的汇总统计量——均值与达到或超过某个固定熟练切点的学生比例——中恢复，因为在某个分布假设下 σ = (c − μ) / z(1 − p)。应用于 PISA 2025 萨尔瓦多（[[math-education|数学]]均值 346，12.28% 达到或超过 420.07 的二级切点），隐含的 σ 为 63.8（阅读 76.8，科学 63.8），远低于 100 的国际基准，如预期，因为这是一个被压在量表地板上的分布；三个估计由独立的数字对得到，彼此相差约 13 分以内，构成一次温和的内部一致性检查。二级比例对每个 PISA 体系都有报告，并支撑 SDG 4.1.1 指标，因此这一识别不需要微观数据；同一篇论文还以效应量的分母问题示范：报告同一个数学差距的三种方式——129 分、1.29 个国际标准差，或 2.02 个萨尔瓦多分布自身的标准差——其论点是：被除以自身样本分散度的标准化效应量，不能合法地在研究间比较。
 
-## 知识库中的测量工具
+## 测量工具
 
-教育测量的一个核心功能是**工具**的开发、验证与使用——把构念操作化的具体量表、测验与编码方案。知识库的文章记录了面向 AI 教育构念的广泛工具，可以按它们测量什么以及按测量方式来分类。
+教育测量的一个核心功能是**工具**的开发、验证与使用——把构念操作化的具体量表、测验与编码方案。文献记录了面向 AI 教育构念的广泛工具，可以按它们测量什么以及按测量方式来分类。
 
 ### AI／生成式 AI 素养工具
 
-AI 素养是知识库中工具覆盖最丰富的构念。存在两大族：**基于表现的测试**（客观、较少受自陈偏见影响）与**自陈量表**（主观、捕捉感知到的能力）。第二族的取舍是[[self-report-measures]]的主题：自陈能廉价地触及态度与感知，但它无法承载关于能力或行为的主张，而知识库记录了在自陈与表现测量并行比较时存在 40% 的高估差距。
+AI 素养是工具覆盖最丰富的构念。存在两大族：**基于表现的测试**（客观、较少受自陈偏见影响）与**自陈量表**（主观、捕捉感知到的能力）。第二族的取舍是[[self-report-measures]]的主题：自陈能廉价地触及态度与感知，但它无法承载关于能力或行为的主张，而在自陈与表现测量并行比较时存在 40% 的高估差距。
 
 - **基于表现（客观）的测量。** 旗舰是[[jin-glat-genai-literacy-assessment|GLAT（生成式 AI 素养测评）]]，一个建立在 25 个概念蓝图之上、横跨四个维度（理解与领会、使用与应用、评估与创造、[[ethics]]）的 20 道选择题工具，在 355 名学生上用 CTT + 2PL IRT 验证（RMSEA = 0.03，CFI = 0.97，α = 0.80，ω = 0.81）。关键的是，GLAT 分数预测了 AI 辅助任务表现，而自陈不能——这是"**基于表现的测量优于自陈**"就 AI 素养而言的证据。[[ai-literacy-assessment-misalignment]]中的相关工作量化了自陈与基于表现的 AI 素养之间的差距（教师高估约 40%），而[[tracing-genai-literacy-interaction-patterns]]追踪真实的学生—AI 互动模式，而非依赖所报告的用量。
 - **测量教师做了什么，而不只是他们知道什么。** 一项 486 名教师的验证产出了一个六维工具，用于测量教师对生成式 AI 的教育性使用——管理、材料制作、测评、赋能、多样性、动机——确认了使用是多维的，尽管自陈无法承载关于课堂实践的主张（[[questionnaire-teachers-genai-uses-validation-2026|Pérez-Montesdeoca 等（2026）]]）。
@@ -93,7 +97,7 @@ AI 素养是知识库中工具覆盖最丰富的构念。存在两大族：**基
 
 ### 测量方式至关重要
 
-知识库的证据反复表明，一个构念*如何*被测量会改变结论。自陈的 AI 素养与基于表现的测量急剧分化（[[ai-literacy-assessment-misalignment]]）；LLM 对参与的标注与受训人类编码分化（[[icap-cognitive-engagement-llm-agents]]）；人与 LLM 之间的潜结构不同（[[assessment-latent-structure-human-llm-2026]]）。因此，严格的工具验证——信度、结构效度、外部／预测效度——不是一种形式，而是可信的 AI 教育证据的基石，它连接到[[assessment-validity]]与[[psychometrically-aware-ai]]。一项近期的材料层面研究展示了一个简单的接受度主张背后有多少验证工作：[[age-tiered-ai-literacy-guidebooks-2026|Wang、Chuang 与 Wu（2026）]]用分半设计（开发样本做 EFA，留出一半做 CFA）验证了两本分年龄的 AI 素养指南，报告 KMO = .820、解释 67.3% 的方差、可接受的学生拟合（CFI = .943，RMSEA = .059，SRMR = .059）、.84 到 .90 的组合信度，以及跨版本测量等价性——然后记录了工具在哪里出现张力：HTMT 值最高达 .950，且一个受约束的"趣味性—意向"相关性不得不被检验是否等于 1。他们对区分度项目功能的补充检查是本页所主张的诚实之范本：等价性成立，但低变异的作答模式意味着一旦排除这些年幼学生，一个群体差异就削弱了，而论文把它与头条结果并列报告，而非取而代之。
+证据反复表明，一个构念*如何*被测量会改变结论。自陈的 AI 素养与基于表现的测量急剧分化（[[ai-literacy-assessment-misalignment]]）；LLM 对参与的标注与受训人类编码分化（[[icap-cognitive-engagement-llm-agents]]）；人与 LLM 之间的潜结构不同（[[assessment-latent-structure-human-llm-2026]]）。因此，严格的工具验证——信度、结构效度、外部／预测效度——不是一种形式，而是可信的 AI 教育证据的基石，它连接到[[assessment-validity]]与[[psychometrically-aware-ai]]。一项近期的材料层面研究展示了一个简单的接受度主张背后有多少验证工作：[[age-tiered-ai-literacy-guidebooks-2026|Wang、Chuang 与 Wu（2026）]]用分半设计（开发样本做 EFA，留出一半做 CFA）验证了两本分年龄的 AI 素养指南，报告 KMO = .820、解释 67.3% 的方差、可接受的学生拟合（CFI = .943，RMSEA = .059，SRMR = .059）、.84 到 .90 的组合信度，以及跨版本测量等价性——然后记录了工具在哪里出现张力：HTMT 值最高达 .950，且一个受约束的"趣味性—意向"相关性不得不被检验是否等于 1。他们对区分度项目功能的补充检查是这类主张所需的诚实之范本：等价性成立，但低变异的作答模式意味着一旦排除这些年幼学生，一个群体差异就削弱了，而论文把它与头条结果并列报告，而非取而代之。
 
 [[assessing-student-drive-framework-2025|Oliveira 等（2025）]]展示了一种新过程测量的验证序列：把学生的生成式 AI 互动日志按一个 35 个子类别的分类法评分，只达到中等的评分者间一致（Cohen's κ = 0.44），却与作文分数相关 r = 0.54，从而为新测量提供了聚合效度支持。
 - **一致系数是语料属性，分数是共同产物。** 一项对 60 篇营销帖子的自动评分验证报告：LLM 的绝对一致 ICC(2,1) 为 .435，"规则 + LLM"混合为 .266，确定性规则为 .091，不确定性由 2,000 个"作者聚类"自助样本估计，MAE 为 6.28–17.22 分；加入研究者撰写的锚定样本把评分者间一致从 .338 提到 .902，显示这些估计在多大程度上依赖于参考集（[[automated-scoring-marketing-posts-agreement-2026]]）。一项对[[physics-education|物理]]基准的专家重评审计在工具层面提出了互补的论点：被审计拒绝中 95.20% 是基准或评分者的错误，而非模型失败，因此一个被测分数必须被报告为题库、量规与评分者三者的共同属性（[[frontier-models-physics-benchmark-audit-2026]]）。
@@ -101,6 +105,8 @@ AI 素养是知识库中工具覆盖最丰富的构念。存在两大族：**基
 **信度部分可以从模型自身恢复。** [[know-when-to-trust-ai-scoring-reliability-2026|Organisciak 与 Acar（2026）]]在 20,000 多条"替代用途测验"的作答上评估了三种廉价的 LLM 评分升级：读取模型自身的 token 级置信度、取它前 n 个预测分数的概率加权均值而非单一最佳猜测，以及跨模型集成。每一种都改善了与人类分数的一致（相关性从 r = 0.781 升至 0.823，RMSE 在最佳配置下从 0.599 降至 0.498），而他们的诊断定位出单次评分的一个具体失败：模型表达的置信度与其准确性负相关（β = −0.602）。这是一个测量方式的结果而非模型结果——同一个模型，以不同方式评分，就是一个更可靠的工具——它与上文的语料级一致证据并列而立。
 
 一项对 33 个教师 AI 素养工具的 2026 年评估展示了工具开发在哪里成熟、在哪里不成熟。[[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal、Mohd Matore 与 Maat（2026）]]用一套改编自 COSMIN 与 Terwee 等（2007）的决策矩阵给这些工具分级，发现内部一致性是最强的领域（33 个中 28 个为 A 级，84.8%），公平性最弱，只有五个工具（15.2%）报告了测量等价性或区分度项目功能证据。结构效度很强，24 个工具（72.7%）通过 CFA、PLS-SEM 或 IRT 建模达到 A 级，而内容效度主要依赖[[qualitative-research|质性]]评审，21 个工具（63.6%）因缺乏定量的专家一致统计量而为 B 级。
+
+- **一个名义上的五维 AI 焦虑量表实质上是单维的。**在 877 名本科生中，23 项、八维的 AIAS 未能复现其结构之后，保留的 20 项版本给出双因子 ωH = .875 对 ωtotal = .954（比值 .918），各特定因子的 ωHS 仅为 .166 至 .407（[[tassilova-ai-anxiety-scale-russian-2026|Tassilova 等，2026]]）。释放一个截距使一项国别比较的符号反转，这使该对比成为不确定的，而不只是有偏的。
 
 自动选题可以在不重塑工具的前提下缩短它：在一个合并的两波样本（N = 305、342）上做的蚁群优化产出一个 12 项简版，在各维度上与完整量表相关 r = 0.910–0.944，尽管每个维度只有两个题目覆盖的内容范围更窄（[[genai-srl-l2-writing-scale-2026|Wang、Zhang 与 Zhang（2026）]]）。
 
@@ -117,11 +123,11 @@ AI 素养是知识库中工具覆盖最丰富的构念。存在两大族：**基
 - **效度——测量了错误的东西。** 效度追问的是一个工具是否测量了它声称测量的构念。常见的失败包括**构念代表性不足**（一个只抽样技术知识、遗漏伦理的 AI 素养测试）与**构念无关变异**（一个奖励阅读流畅性而非目标技能的题目）。[[ai-scoring-language-bias-physics|AI 评分与语言偏见]]展示了表层特征——语言、措辞、风格——如何以与预期构念无关的方式驱动自动分数。[[assessment-validity]]是对这些威胁的护栏。
 
 - **一个量表可以返回出预期数量的因子，却没有测量预期的构念。** [[ai-empathy-scale-psychometric-evaluation-2026|Kang、Lee 与 Kang（2026）]]从一个 42 项的 AI 共情量表中保留了六个因子，但题目并没有恢复出六个预期的子因子——亲社会意向没有形成因子——因此该结构被呈现为暂定的。
-- **自陈差距。** 自陈测量捕捉*感知到的*能力，而非实际能力。知识库反复显示自陈的 AI 素养与基于表现的测量急剧分化（[[ai-literacy-assessment-misalignment]]，教师高估约 40%），以及自陈在表现测试成功之处无法预测真实的 AI 辅助表现（[[jin-glat-genai-literacy-assessment|GLAT]]）。依赖自陈的测量可能系统性地夸大构念并掩盖真实的技能缺口。
+- **自陈差距。** 自陈测量捕捉*感知到的*能力，而非实际能力。证据反复显示自陈的 AI 素养与基于表现的测量急剧分化（[[ai-literacy-assessment-misalignment]]，教师高估约 40%），以及自陈在表现测试成功之处无法预测真实的 AI 辅助表现（[[jin-glat-genai-literacy-assessment|GLAT]]）。依赖自陈的测量可能系统性地夸大构念并掩盖真实的技能缺口。
 - **汇总估计是脆弱的。** 一项 2026 年的结构化综述只汇总同一样本的主观—客观 AI 素养相关（N = 2,765），给出 r = .055（Hartung-Knapp 95% CI [−.047, .156]）；在 k = 3、异质性估计量彼此不一致、且一项研究承载 77.2% 权重的情况下，它无法设定熟练度切点（[[competent-generative-ai-use-measures-review-2026|Verí（2026）]]）。
 - **不能跨总体迁移的构念。** [[assessment-latent-structure-human-llm-2026|Strugatski 等]]表明，测评工具对人与 LLM 可以有*不同的因素结构*——即相同的题目可能在不同总体中测量不同的潜构念。即便在人内部，在某一群体（例如西化的、资源充足的[[higher-ed]]）上验证过的工具也可能无法推广到其他群体（[[global-south]]），这是对 AI 教育测量可推广性的关切。
 - **测量可能遗漏什么。** 一些对 AI 教育学习最核心的构念恰恰是最难测量好的——因而最容易被工具遗漏或扭曲：
-  - **过程与策略。** 标准的结果测量捕捉的是学习的*产物*，而非*过程*。它们可能遗漏学生实际如何与 AI 互动——[[cognitive-offloading|过度依赖]]、不加反思的接受、批判性的核实。[[tracing-genai-literacy-interaction-patterns]]恰恰使用互动痕迹，因为自陈与结果测试会遗漏这些动态。一项神经过程测量对此做了延伸：[[seeing-cognitive-representations-eeg-reconstruction|Su 等（2026）]]从 EEG 重建视频帧，发现答对题目的语义相似度（M = 71.43，SD = 4.61）高于答错题目（M = 62.30，SD = 5.91，p < .001）。
+  - **过程与策略。** 标准的结果测量捕捉的是学习的*产物*，而非*过程*。它们可能遗漏学生实际如何与 AI 互动——[[cognitive-offloading|过度依赖]]、不加反思的接受、批判性的核实。[[tracing-genai-literacy-interaction-patterns]]恰恰使用互动痕迹，因为自陈与结果测试会遗漏这些动态。一项神经过程测量对此做了延伸：[[seeing-cognitive-representations-eeg-reconstruction|Su 等（2026）]]从 EEG 重建视频帧，发现答对题目的语义相似度（M = 71.43，SD = 4.61）高于答错题目（M = 62.30，SD = 5.91，p < .001）。K–12 AI 素养审计是这一缺口的一个清晰例子：Guo、Ali 与 Wong 综述中的九项经验证工具没有一项捕捉过程——三项是以项目反应理论分析的选择题知识测验，其余是经典测验理论分析的自陈量表（[[guo-ai-literacy-developmental-paces-2026|Guo 等，2026]]）。
   - **纵向与持久的学习。** 一次单一的后测可能显示出由 AI 辅助带来的虚高表现，同时遗漏了持久的、无辅助知识的侵蚀（[[genai-performance-vs-learning|表现—学习差距]]）。单一时间点的测量可能对学习给出主动误导的印象。
   - **公平与获取。** 假定设备／连接获取是均一的工具，或在特权样本上常模化的工具，可能遗漏——或系统性地低测——[[equity-in-ai-education|资源不足]][[learners]]的能力，把获取差距误归为能力差距。
   - **[[affective-computing|情感]]与动机状态。** 参与、动机与自我效能通常以自陈测量，因而继承了上述自陈差距；它们可能无法捕捉驱动学习的情境化的、瞬间的动态。
@@ -165,6 +171,7 @@ AI 素养是知识库中工具覆盖最丰富的构念。存在两大族：**基
 - [[student-engagement]]
 
 ## 关联文章
+- [[guo-ai-literacy-developmental-paces-2026]] — 九项经验证的 K–12 AI 素养工具：三项在 IRT 下为知识测验，其余在 CTT 下为自陈量表，没有一项捕捉过程（Guo、Ali 与 Wong，2026）
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 大规模写作测评中 AI 辅助评分的人在回路框架
 - [[semantic-variability-llm-conversation-assessment-2026]]
 - [[causal-modeling-competency-assessment-2026]] — 学生能力测评中支持性干预的因果建模
@@ -208,3 +215,4 @@ AI 素养是知识库中工具覆盖最丰富的构念。存在两大族：**基
 - [[worden-foundationalassist-knowledge-tracing-dataset-2026]] — 难度无区分度
 - [[same-construct-same-conclusion-self-report-vs-performance-2026]] — 同构念配对在 41.2% 的情况下结论分歧，而表现测量需要自己的效度论证（Fan 等，2026）
 - [[chang-ai-cognitive-offloading-scale-2026]] — AI 认知卸载量表的验证，以及它省略的效度检查
+- [[tassilova-ai-anxiety-scale-russian-2026]] — 俄文版人工智能焦虑量表的心理测量特性：维度性、测量等价性与以人为中心的画像

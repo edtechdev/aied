@@ -1,20 +1,24 @@
 ---
 title: 具身学习
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:15:06-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [active-learning, embodied-learning, situated-learning]
 technology: [educational-robotics]
 confidence: high
 translation_of: concepts/embodied-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -33,7 +37,7 @@ ai_assist:
 
 具身学习与[[active-learning]]、[[experiential-learning]]以及情境性/[[constructivist]]理论密切相关。其核心主张是：一个有物理实体、可操纵的智能体帮助学习者把抽象观念连接到具体结果——一个让机器人动起来的程序，或与一个实体机器人的角色扮演——其方式是纯屏幕交互可能做不到的。机器人技术是 AI 在教育中最清晰的具身化，给学习者可看、可触、可观察的东西。
 
-### 具身学习如何出现在知识库的研究中
+## 具身学习如何出现在研究中
 
 - **扎根式编程：**[[roboblockly-conversational-block-robotics-ct-2026|RoboBlockly Studio]]把[[cs-education|积木式编程]]扎根于具身的机器人执行上，创造出一个编写、运行、观察、修订的紧密回路，使学习者看到自己的代码变成行为。
 - **社交机器人交互：**用于[[storytelling-in-education|讲故事]]的[[educational-robotics|社交机器人]]（[[motibo-digital-storytelling-robots-motivation-2026|MotiBo]]、[[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]]）、角色扮演（[[remind-robot-mediated-roleplay-antibullying-2026|REMind]]）和手语（[[pepper-robot-sign-language-lis-2025|Pepper]]）提供具身的社交互动，支持关系性和[[social-emotional-learning|情绪性]]学习。
@@ -43,9 +47,9 @@ ai_assist:
 - **手势作为理解的证据：**[[multimodal-embodied-cognition-oral-explanations-2026|Morphew 等人]]把计算机视觉的手势追踪与对言语的[[llm]]分析结合起来，表明工科学生对统计的概念理解经由言语和手势同时表达。高置信度的解释性手势围绕特定概念聚集（尤其是均值），而手势—言语的紧密耦合标志着连贯的概念性表达，二者的分歧则标志着正在形成中的观念——这经由[[multimodal|多模态学习分析]]把具身行动定位为[[assessment-validity|评价]]中的证据，而不只是一个学习机制。
 - **仅靠语言的促进者会把探究拉向可说之物。** 在一个硕士流体静力学实验室里，学生先用手搭建浮力模型，随后一个基于 Gemini 的促进者加入，把它应用到一个新现象上。在三对参与者中，AI 维持了 ISLE 序列，但当被催促"直接告诉我们"时，它产出了没有人测量过的质量数值，而一名远程参与者完成了一个物理上正确、干净却去具身的循环（[[embodied-inquiry-ai-facilitator-physics-2026|Tufino 与 Damiani，2026]]）。设计教训是排序而非替代：先让模型在身体中建立，再让语言模型去做应用。
 
-### 具身智能与对去具身 AI 的批评
+## 具身智能与对去具身 AI 的批评
 
-知识库具身研究的第二支更理论的线索，涉及*身体*在 AI-[[sociocultural-learning|中介的学习]]中的角色——不是经由实体机器人，而是经由这样一个问题：[[ai-technologies|AI 系统]]本身是否（或能否是）具身的。这项工作挑战建立在抽象信息处理之上的符号性、去具身 AI 模型的主导地位：
+具身研究的第二支更理论的线索，涉及*身体*在 AI-[[sociocultural-learning|中介的学习]]中的角色——不是经由实体机器人，而是经由这样一个问题：[[ai-technologies|AI 系统]]本身是否（或能否是）具身的。这项工作挑战建立在抽象信息处理之上的符号性、去具身 AI 模型的主导地位：
 
 - **作为设计原则的具身 AI。****E3-HOT 框架**主张，要维持学习者的认知能动性和[[critical-thinking|高阶思维]]（而不是鼓励[[cognitive-offloading|认知外包]]），AI 应当在虚实融合的学习环境内围绕*具身智能*——情境嵌入、具身参与和认知创造——来设计。（[[zhu-e3-hot-embodied-intelligence-sustainable-learning]]）
 - **去具身[[generative-ai|生成式 AI]]的局限。** 后认知主义学术论证，当前的 GenAI 系统缺乏本体感觉、多模态能动性和具身实践，并倡导一种扎根于情境性、涌现性和感觉运动耦合的"具身 AI"，为人—[[student-ai-interaction|AI 交互]]提出一种知觉—[[affective-computing|情感]]编舞。（[[videla-embodied-ai-education-choreography]]）

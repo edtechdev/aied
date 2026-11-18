@@ -1,7 +1,7 @@
 ---
 title: 教育中的讲故事
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:15:00-05:00"
 type: concept
 pedagogy: [creativity, motivation, storytelling-in-education, student-engagement]
 technology: [educational-robotics]
@@ -9,13 +9,17 @@ discipline: [language learning]
 level: [k 12]
 confidence: high
 translation_of: concepts/storytelling-in-education
-source_updated: "2026-11-04T14:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -35,7 +39,7 @@ ai_assist:
 
 讲故事奠基于 [[motivation]]、[[student-engagement]] 与 [[constructivist]] [[learning-theories|学习理论]]之上。它支持 [[language-learning]]、[[creativity]]、[[social-emotional-learning]] 与理解。在 AI 时代，[[llm|LLM-powered]] 的与由机器人中介的讲故事使共创成为可能——学习者与 [[agentic-ai|AI agents]] 一起建构故事——并支持响应学习者的交互叙事。
 
-### 讲故事如何出现在本知识库的研究中
+## 讲故事如何出现在本知识库的研究中
 
 - **机器人中介的讲故事：** [[motibo-digital-storytelling-robots-motivation-2026|MotiBo]] 使用一台类人的交互式数字讲故事机器人，发现其行为与认知投入相比纸本与 PowerPoint 方法有显著提升；[[robobuddy-llm-social-robots-classroom-2025|RoboBuddy]] 让教师用 [[curriculum-design|curriculum]] 内容创建由 LLM 驱动的、基于情境的讲故事活动。
 
@@ -48,6 +52,8 @@ ai_assist:
 - **作为 AI 之制衡的数字讲故事：** 随着 [[generative-ai|生成式 AI]] 崛起，数字讲故事被重新框定为承载 AI 所缺失的情感、文化与叙事能力的载体。在一个面向艺术与[[design-education|设计教育]]的 [[project-based-learning|project-based learning]] 模型中，学生把本地文化遗产转译为跨越 92 件数字讲故事作品的 [[multimodal]] 叙事，展示了讲故事如何在 AI 时代维系人的创造力。
 
 - **生成的叙事易于产出，却难以保持连贯。** 在 22 名 STEM 学生中，AI 生成的交互式小说在叙事清晰度（M = 4.11）与篇幅（M = 4.14）上评分良好，但投入停留在中立的中间点（M = 3.08），故事内容的连贯性最弱（M = 2.92）（[[ai-generated-interactive-fiction-education-2026]]）。共创在故事本该发挥作用的那一层继承了这一弱点。
+
+- **故事是评价的框架，而不只是输出的归宿。**在一所土耳其幼儿园，22 名儿童与一位替他们写下每一条图像提示的教师一起制作图画书。他们对生成图像的判断关乎故事契合——四张候选里班级要留下哪一张、"像飞行员"这样的额外物件是否该有、某张图是否因为缺少所要求的某朵花而难看——这些判断与"戴眼镜的蝴蝶不可能存在"这类合理性判断并列（[[konca-preschool-genai-storytelling-ai-literacy-2026|Konca 与 Yigit-Gencten，2026]]）。讲故事给了这个班级逐个特征检视输出的理由，也正是这一点，让他们的推理对工具变得可见。
 
 讲故事与 [[student-engagement]]、[[motivation]]、[[creativity]]、[[educational-robotics]]、[[language-learning]]、[[social-emotional-learning]] 以及 [[educational-robotics]] 相连。
 
@@ -79,4 +85,5 @@ ai_assist:
 - [[white-wu-robotics-ai-education-2026]] — 机器人学与教育中的 AI
 
 - [[ai-generated-interactive-fiction-education-2026]] — AI 生成的交互式小说：22 名学生试点中连贯性是薄弱维度
+- [[konca-preschool-genai-storytelling-ai-literacy-2026]] — 幼儿园图画书制作中，故事契合与合理性成为评判 AI 图像的标准（Konca 与 Yigit-Gencten，2026）
 

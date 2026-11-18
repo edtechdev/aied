@@ -1,7 +1,7 @@
 ---
 title: 学习者自主性
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:47-05:00"
 type: concept
 foundations: [agency, cognitive-offloading, human-ai-collaboration]
 pedagogy: [motivation, self-regulated-learning]
@@ -10,13 +10,17 @@ connected_faqs: [group-work-ai]
 audience: [learners]
 confidence: high
 translation_of: concepts/agency
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -52,6 +56,7 @@ ai_assist:
 - **共享认识自主性延伸到学生与 GAI 的交互。** 一项用 14 类编码方案对 6,788 个 ChatGPT 辅助轮次进行编码的研究，把 59% 的七年级学生轮次置于共享认识自主性；作者主张这一构念（此前主要在同伴协作中被研究）必须拓宽，纳入认知与元认知维度（[[chang-shared-epistemic-agency-gai-scientific-writing-2026|Chang 等，2026]]）。
 
 - **自主性可以从提示本身来评分。** 人类自主性深度分类法（Human Agency Depth Taxonomy）在不依赖 AI 输出的情况下，按六个层级为学生自己的工程贡献打分；在来自 105 名一年级软件工程学生的 962 条提示中，84.2% 超过了最低层级，但只有 5.3% 指定了系统约束（[[shakiba-human-agency-depth-taxonomy-2026|Shakiba 与 Chaffey，2026]]）。
+**个性化大多分配的是选择权，而非作者身份。** 在 63 份报告所涵盖的 61 项研究中，有 46 项（75.4%）编码了学习者主导的控制——学生选择时间、重点、提示或节奏——而专门构建或按课程定制的系统出现在十项（16.4%）中，系统驱动的自适应性个性化出现在五项（8.2%）中，教育者设计的差异化出现在一项中。据此证据，"个性化"学习通常意味着在别人设计的空间里被引导，这是作为选择权的自主性，而非对条件的自主性。该综述还警告不要把出现频率当作效应大小：某一主题出现在 39 项研究中，并不能说明其效应有多大或多一致（[[aybar-bellido-genai-individualization-sustainable-higher-ed-2026|Aybar-Bellido 等，2026]]）。
 
 - **批判性的[[student-engagement|投入]]：** [[cognitive-offloading|认知卸载]]研究表明，把解读交给 AI 的学生会失去对自身推理的自主性；批判性与[[metacognition|元认知]]的路径旨在保全它。
 

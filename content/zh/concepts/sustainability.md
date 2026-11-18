@@ -1,7 +1,7 @@
 ---
 title: 可持续性
 created: "2026-08-28T14:40:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:47-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -11,13 +11,17 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/sustainability
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -92,6 +96,7 @@ AIED 中的可持续性横跨三种相互重叠的框定：**可持续教育**�
 - [[open-source]]
 
 ## 关联文章
+- [[lim-ai-wearables-environmental-empathy-2024]] — 可穿戴 EDA 加上 AI 生成的环境污染图像提升了唤醒水平，但未测量管护行为（Lim 等，2024）
 - [[gillette-partnership-ethics-genai-higher-education-2026]] — 瑞典的调查与焦点小组研究，主张应以伙伴关系伦理而非作弊框架来指导机构的生成式人工智能决策
 - [[daniel-ai-sustainability-scoping-review-2026]] — 高等教育中 AI 服务于可持续性与可持续 AI 的范围综述
 - [[alsuhaymi-sustainable-education-ai-digitalization-2026]] — 可持续教育与 AI 的价值批判进路

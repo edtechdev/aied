@@ -1,7 +1,7 @@
 ---
 title: 共情
 created: "2026-11-10T23:05:00-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [professional-training, experiential-learning, social-emotional-learning]
@@ -11,7 +11,7 @@ audience: [instructors, medical educators, curriculum designers, researchers]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/empathy
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -19,11 +19,15 @@ ai_assist:
     role: translation
     date: "2026-11-10"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
+    agent: hermes-agent
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **综述：** 共情同时从三个方向进入教育：作为教育者试图教授的结果，作为他们试图测量的构念，以及作为人工智能系统日益被说成会表现出的东西。这三方面的证据都不均衡。教共情是有效的——角色扮演、VR 与[[llm|大语言模型]]对话都能产生可测量的前后测增益——但随着体验变得不那么具身，效应随之缩小，而且比较研究把模态与任务时间混在了一起。测量共情比教授共情更难：观察者评分彼此一致，而计算机视觉的代理指标在身体接触上一致，在目光接触上不一致，在微笑上则反向。人工智能可以大规模地排练共情对话，但控制最严密的研究显示，自我评估的胜任力上升，却没有对观察到的表现做检验。而最新的担忧指向另一个方向：相信人工智能能提供共情，会让人更不愿意自己提供共情（[[shastry-gray-empathy-offloading-2026|Shastry 与 Gray，2026]]）。
+> **综述：** 共情同时从三个方向进入教育：作为教育者试图教授的结果，作为他们试图测量的构念，以及作为人工智能系统日益被说成会表现出的东西。这三方面的证据都不均衡。教共情是有效的——角色扮演、VR 与[[llm|大语言模型]]对话都能产生可测量的前后测增益——但随着体验变得不那么具身，效应随之缩小，而且比较研究把模态与任务时间混在了一起。测量共情比教授共情更难：观察者评分彼此一致，而[[sensor-and-gaze-analytics|计算机视觉代理指标]]在身体接触上一致，在目光接触上不一致，在微笑上则反向。人工智能可以大规模地排练共情对话，但控制最严密的研究显示，自我评估的胜任力上升，却没有对观察到的表现做检验。而最新的担忧指向另一个方向：相信人工智能能提供共情，会让人更不愿意自己提供共情（[[shastry-gray-empathy-offloading-2026|Shastry 与 Gray，2026]]）。
 
 ## 值得思考的问题
 

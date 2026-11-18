@@ -1,19 +1,23 @@
 ---
 title: 体验式学习
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-18T03:09:30-05:00"
 type: concept
 pedagogy: [active-learning, embodied-learning, experiential-learning, project-based-learning]
 level: [higher ed]
 confidence: high
 translation_of: concepts/experiential-learning
-source_updated: "2026-11-08T13:00:48-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -32,7 +36,7 @@ ai_assist:
 
 体验式学习与[[active-learning|主动学习]]、[[project-based-learning|项目式学习]]、[[embodied-learning|具身学习]]和[[simulation|模拟]]密切相关。它与 AI、网络安全与机器人学教育尤其相关，在这些领域中，学生通过在应用情境中操作工具和系统、而非仅通过讲授来发展技能。一个关键的理据是弥合专业准备中的理论—实践鸿沟。
 
-### 体验式学习在知识库研究中的呈现
+## 体验式学习在研究中的呈现
 
 - **应急替代，以及一个说明它能走多远的评分标准。** [[ai-personas-fieldwork-experiential-learning-2026|Elhajj 等（2026）]]记录了由 2024 年黎巴嫩冲突所强制的替代：贝鲁特美国大学一门研究生体验式学习课程中的学生，因无法抵达社区做需求评估，改为访谈由 ChatGPT 生成的利益相关者角色。两名评分者给全部十个小组的提示打分，发现其分化很有启发性——与教育目标的一致性（均值 5.00）和视角多样性（4.90）强，而真实性与现实感（4.38）、尤其小组动力与连贯性（3.80，其中一个 30 人角色的焦点小组退化为连续的个别访谈）以及局限与缺口（3.20）弱，最后一项之所以弱，是因为情感平淡、缺乏矛盾、文化具体性单薄在每一个情境中反复出现。作者的结论是一个边界而非裁决：角色扮演可以作为排练，也可以在无法进入或不安全时作为权宜之计，但不在情感复杂性、文化具体性与人际动力*就是*学习目标的地方。他们的缓解手段是结构性的——把模拟角色扮演与真实访谈配对，使学生能比较，并训练学生质询角色输出中的偏见与泛化，而非把它当作田野证据对待。
 - **网络安全实验室：**[[genai-cybersecurity-ocr-multimodal-instruction-2025|大语言模型辅助的网络安全教学]]把一个[[generative-ai|生成式 AI]]教学助手整合进一个虚拟实验平台，支持动手的体验式技能建设。
@@ -44,7 +48,7 @@ ai_assist:
 
 - **做与被告诉，在五周内测量。** 在一项有 126 名一年级工程专业学生的准实验中，一场两小时的生成式 AI 学习体验课产生了 +0.25 的[[metacognition|元认知]]知识增益，而讲座约为零。这是一个中等效应（d = -0.37），在多重比较校正后未达到显著（p = .055），而两组的[[self-report-measures|自报]] AI 投入在五周时相当（3.99 与 3.93）（[[metacognitive-awareness-experiential-vs-instructional|Benazet i Montobbio 等，2026]]）。这段证据给本页理由划出的边界值得直说：一次动手课把元认知知识推向正确方向，却没有解决比较问题，因此做的优势必须由反复循环建立，而不能从一次实验假定。
 
-### AI 支持的课程中两种形式的动手学习
+## AI 支持的课程中两种形式的动手学习
 
 一项对 32 项 AI 支持的[[design-education|设计教育]]中动手学习的同行评议研究做的主题综述（[[hands-on-learning-necessity-age-of-ai-review-2026|Yu、Liu 与 Zhu, 2026]]）论证，AI 重组而非取代体验式学习，并划分出一个本知识库其他来源倾向于抹去的区分：*具身动手（Embodied Hands-on）*依赖身体动作、工具与材料，而*认知动手（Cognitive Hands-on）*通过对 AI 生成的输出的持续操作、判断与调整而发展。两者运行同一个行动—反馈—反思—精炼循环，但从不同来源获取反馈——前者来自真实世界的材料阻力，后者来自语言与视觉结果——因此不应被视为等价或互相替代。该综述的告诫是：生成效率会压缩探索阶段——若干纳入的研究报告探索性草图与渐进试错减少，于是 AI 带来的更多迭代未必意味着更大的迭代深度，学生可能错过那些使动手工作有教育意义的失败与材料约束的遭遇。与此一致，[[prompt-engineering|提示]]本身并未提高受评工作中的[[creativity|创造性]]，而多步操作（生成、修改、选择）做到了——再次把学习定位在学习者的判断里，而非生成里。
 
@@ -53,16 +57,6 @@ ai_assist:
 融入工作的经验可以是高阶能力的约束条件：在一个智能制造实验室的 89 个赞助顶点项目中，从 [[career-development-and-readiness|Workforce Readiness]] Level 6 晋升到 7 是由嵌入产业的实习而非额外的课程所把门的（[[workforce-readiness-smart-manufacturing-wrl-2026|Smith et al.（2026）]]）。
 
 在 26 项社区参与式研究中，AI 集中于准备（18 项）与行动（15 项），在评价（8 项）与反思（3 项）处则变得稀薄；因此该循环中较晚的、整合性的阶段仍是服务学习的设计缺口（[[yusuf-service-learning-mapping-2026|Yusuf 等，2026]]）。
-
-## 常见误解
-
-**"体验式学习就是动手活动。"** 活动只是表层；学习机制是行动、反思、概念化与检验的循环。一节没有结构化反思环节的实验课产生的是熟悉感而非概念改变，这正是"我们加了一个实践环节"不构成体验式学习证据的原因。
-
-**"AI 可以替代体验式学习中的体验。"** 它能模拟某些系统，却无法提供在 AI、网络安全与机器人学这类应用领域形成胜任力所需的经历，在这些领域里学生通过操作真实工具与系统来发展技能。一个模拟的安全环境教的是程序；一个真实的系统教的是错误配置的后果。
-
-**"[[authentic-assessment|更真实的任务]]就径直更好。"** 真实性同时抬高了迁移价值与评估问题：真实系统产生的是多变、难以评分的证据，任务越真实，结果就越不像一个分数。设计必须同时握住两者，这也是为什么反思结构与任务本身同样重要。
-
-**"[[intelligent-tutoring|AI 辅导]]适用于体验式学习，就像它适用于讲授内容那样。"** 这种适配更弱，因为导师能提供解释，却无法提供与系统的遭遇。它在这一[[pedagogy|教学法]]中的自然位置是在反思与概念化阶段，即学习者正在理解发生了什么的时候，而不是替代行动。[[gelli-experiential-language-learning-2026|Symonette 等人（2026）]]生成遭遇而非把它写成脚本：依据学习者的目标，GELLI 在运行时构建带人物、支持与反思的情境场景，而在一项 40 名日语学习者的被试内研究中，它在词汇回忆（d = 0.45）与信心（d = 0.45）上胜过专家撰写的视频，但在口语上没有。
 
 ## 实践启示
 
@@ -81,6 +75,16 @@ ai_assist:
 
 - 检查应用型项目是否真的包含应用性工作，而非实验室的替身；迁移的主张依赖于遭遇的真实性。
 
+## 常见误解
+
+**"体验式学习就是动手活动。"** 活动只是表层；学习机制是行动、反思、概念化与检验的循环。一节没有结构化反思环节的实验课产生的是熟悉感而非概念改变，这正是"我们加了一个实践环节"不构成体验式学习证据的原因。
+
+**"AI 可以替代体验式学习中的体验。"** 它能模拟某些系统，却无法提供在 AI、网络安全与机器人学这类应用领域形成胜任力所需的经历，在这些领域里学生通过操作真实工具与系统来发展技能。一个模拟的安全环境教的是程序；一个真实的系统教的是错误配置的后果。
+
+**"[[authentic-assessment|更真实的任务]]就径直更好。"** 真实性同时抬高了迁移价值与评估问题：真实系统产生的是多变、难以评分的证据，任务越真实，结果就越不像一个分数。设计必须同时握住两者，这也是为什么反思结构与任务本身同样重要。
+
+**"[[intelligent-tutoring|AI 辅导]]适用于体验式学习，就像它适用于讲授内容那样。"** 这种适配更弱，因为导师能提供解释，却无法提供与系统的遭遇。它在这一[[pedagogy|教学法]]中的自然位置是在反思与概念化阶段，即学习者正在理解发生了什么的时候，而不是替代行动。[[gelli-experiential-language-learning-2026|Symonette 等人（2026）]]生成遭遇而非把它写成脚本：依据学习者的目标，GELLI 在运行时构建带人物、支持与反思的情境场景，而在一项 40 名日语学习者的被试内研究中，它在词汇回忆（d = 0.45）与信心（d = 0.45）上胜过专家撰写的视频，但在口语上没有。
+
 ## 关联概念
 
 - [[active-learning]]
@@ -97,6 +101,7 @@ ai_assist:
 
 ## 关联文章
 
+- [[zwolinski-teaching-empathy-real-virtual-ai-2026]] — 真实世界角色扮演在共情增益上胜过 VR 与 LLM 对话，但接触时长存在混杂（Zwoliński 等，2026）
 - [[genai-counter-learner-groupthink-2025]]
 - [[workforce-readiness-smart-manufacturing-wrl-2026]] — Workforce Readiness Level framework for smart manufacturing in the AI era：AI 时代智能制造的劳动力准备度水平框架
 - [[zhu-e3-hot-embodied-intelligence-sustainable-learning]] — Fostering Sustainable Learning via Embodied Intelligence (E3-HOT)：通过具身智能培育可持续学习
@@ -115,4 +120,3 @@ ai_assist:
 
 - [[metacognitive-awareness-experiential-vs-instructional]] — AI 辅助学习中体验式与讲授式课程对元认知意识的影响（Benazet i Montobbio 等 2026）
 - [[yusuf-service-learning-mapping-2026]] — 26 项研究映射到服务学习循环：AI 在评价与反思处变薄（Yusuf 等 2026）
-

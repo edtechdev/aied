@@ -1,7 +1,7 @@
 ---
 title: 学习分析
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-18T03:19:05-05:00"
 type: concept
 pedagogy: [student-engagement]
 technology: [knowledge-tracing, student-modeling, edtech-platform]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [asynchronous-online-courses-ai]
 methods: [ai-ed-evaluation]
 translation_of: concepts/learning-analytics
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-17T09:26:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -40,7 +44,7 @@ ai_assist:
 
 ## 引言
 
-### AI 增强的分析
+## AI 增强的分析
 
 - **预测性分析：**对学习者交互数据的[[machine-learning|机器学习]]预测结果——从[[at-risk-students-ml-prediction|风险识别]]到[[knowledge-tracing|知识状态估计]]。
 - **验证与预测同样重要。**[[schuetze-knowledge-tracing-forgetting-2026|Schuetze、Yan 与 Carvalho（2025）]]表明，预测性知识状态模型（BKT、BKT-with-Forgetting、AFM）在事后拟合完整会话历史时看似准确，然而在**基于时间的交叉验证**下——从先前会话预测下一会话，正如分析的实际部署——它们高估学习者表现、漏掉间隔/遗忘动态，并可能错误排序练习条件。对分析的告诫是：回顾性拟合可能掩盖纵向数据上前向预测效力的不足，因此指标与仪表盘模型应当走步验证（walk-forward）。
@@ -65,37 +69,44 @@ ai_assist:
 
 **交互数据首先是一个表征问题，其次才是一个建模问题。** [[taufer-human-ai-interaction-haidl-2026|Taufer 等（2026）]]把每一次人—AI 交换当作一条结构化记录，携带促成该请求的计算、请求本身、回应、用户的反馈以及随后的执行，而不是当作一条孤立的提示。在一项 35 名学生的部署中，140 对学生—作业配对显示，单看交互次数与成功执行的单元格的相关仅为 r = 0.12，而同一次调用可能是错误恢复、下一步、概念检查或验证，取决于其周围的状态。有 37 对具备访问权限的配对完全没有产生交互，因此日志中 AI 使用的缺席不能被读成需求的缺席。
 
-### 学习分析循环
+## 学习分析循环
 
 学习分析被规范地框定为一个循环：学习者活动产生数据，数据被处理成测量与指标，再被翻译为**干预**——而干预又反馈进学习者活动以闭合回路。干预步骤是把分析与单纯监控或预测区分开的东西：没有它，分析描述并标记，却永不改变学习。这个循环是理解 AI 工具（仪表盘、反馈生成器、规定性推荐器）在管线中处于何处、自动化了哪一步的组织框架。
 
 面向学习者的仪表盘的好坏只取决于其触达：在一项香港九年级写作研究中，一个提示分类器达到宏 F1 0.757，46 名学生中约三分之一打开了三个生成式 AI 使用仪表盘，而抄袭与学习导向[[prompt-engineering|提示]]上的组差不显著（[[learning-analytics-genai-secondary-writing-2026|Fong 等人（2026）]]）。
 
+分析可以在学生接触作业之前就审计作业本身。在四个聚焦小组、26 名 STEM 本科生的研究中，讨论板被感知的有用性跟随的是提示的认知要求而非平台，因此设计回应是一个能对草稿提示分类并提出修改建议的教师仪表盘（[[reding-discussion-boards-tam-ai-analytics-2026|Reding、Gartner 与 Nugent，2026]]）。检测有着镜像的盲区：把 5,000 多条提示与一个 572 题的题库比对，有 121 条越过了 75 的相似度阈值，人工复核确认其中 74 条为寻求解答，因此逐字抄袭可见，而改写不可见（[[wyszynski-genai-user-input-engineering-statics-2026|Wyszynski、Barry 与 Dosse，2026]]）。
+
 [[qualitative-research|质性]]数据的频率编码是入口而非裁决：在一项有十名参与者的研究中，有些教师把频率编码读作一种有成效的进入方式，另一些则警告它们掩盖了稀有但关键的回应，因此该设计把每个聚合视图都链接回逐字学生文本（[[wordstream-glass-learning-analytics|Nguyen 等人（2026）]]）。
 
-### 从描述到干预
+## 从描述到干预
 - **证据基础尚非干预证据。**综合四项跨学生、学科、教育者与机构层面的研究，[[learning-analytics-genai-learning-design|Rienties、Divjak 与 Law（2026）]]发现该领域由横断面的、[[self-report-measures|自报]]的、基于话语的与专家判断的设计主导，并呼吁检验因果机制与更长期、分布性结果的干预研究。
+- **干预类型不可互换。**一项对 39 项实验与准实验研究的 PRISMA 综述发现，提示（prompts）关联[[self-regulated-learning|自我调节]]与知识结果，线索（cues）关联注意过程，而推动（nudges）关联行为投入，因此干预应按其针对的结果来选择（[[rako-prompts-cues-nudges-systematic-review-2026|Rako、Šimić 与 Rienties，2026]]）。
 
 **一项随机鼓励设计提供了因果锚点。** 在一项针对 ASSISTments 的随机鼓励实验中，[[lim-assignment-report-intelligent-tutoring-randomized-encouragement-2025|Lim、Heffernan 与 Sales（2025）]]随机提示刚接触该平台的教师在创建作业后查看作业报告。
 在 330 位教师的分析样本中（156 位对照、174 位被鼓励；281 位用于增值分析），查看首次作业报告显著提高了下一次作业的完成率（Anderson-Rubin F = 4.092，p = 0.044）——总体上至少提高 2 个百分点。
 在少于 44 名学生的班级中，增益至少为 24.5 个百分点（AR F = 7.475，p = 0.007）；而 121,890 份作业中只有 54.0% 的报告被查看，启动与增值结果没有变化。同一平台的数据还承载了该领域最大的闭环评分案例：[[johnson-student-ratings-automatically-generated-questions-2025|Johnson 等（2025）]]分析了 5,214,211 次学生—问题会话，其中点踩（每 1,000 次 2.00 次）追踪的是生成器控制的特征，且学生层面的方差主导了问题层面的方差（BIC 101,572.9 对 123,342.0）。
 
-学习分析在知识库中经历了三个世代：描述性（发生了什么？）、预测性（将发生什么？）与规定性（我们该做什么？）。AI 使能规定性层——直接触发[[feedback|教学干预]]的分析。一个关键前沿是**可操作性鸿沟**：[[sc2r-counterfactual-recourse-educational-2026|SC2R（Le、Abel & Laforge 2026）]]表明，仅预测对决策支持不足，且反事实补救（counterfactual recourse）只有在建议语义可行且机器可检验时才在操作上有意义——受时机、预算、不可变性与可用性经由 SHACL 验证约束，而非仅模型有效。这把该领域从风险分数推向机构真正能实施的推荐，并保留[[human-in-the-loop-ai|人类监督]]。
+该领域经历了三个世代：描述性（发生了什么？）、预测性（将发生什么？）与规定性（我们该做什么？）。AI 使能规定性层——直接触发[[feedback|教学干预]]的分析。一个关键前沿是**可操作性鸿沟**：[[sc2r-counterfactual-recourse-educational-2026|SC2R（Le、Abel & Laforge 2026）]]表明，仅预测对决策支持不足，且反事实补救（counterfactual recourse）只有在建议语义可行且机器可检验时才在操作上有意义——受时机、预算、不可变性与可用性经由 SHACL 验证约束，而非仅模型有效。这把该领域从风险分数推向机构真正能实施的推荐，并保留[[human-in-the-loop-ai|人类监督]]。
 
 对规定性层的直接实证检验来自[[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas 等人（2026）]]，他们请三个 LLM 为 4,500 个[[simulating-students|合成学生]]情境推荐支持计划。
 
-一个互补的、以教师为中心的分析如何抵达课堂的检验来自[[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain 等人（2026）]]，他们设计了一个学习分析仪表盘（DashED），在两个混合情境中向教师传达 ML 推导的[[self-regulated-learning]]画像。他们 100 名教师的研究显示，分析的*呈现*本身是行动的一个障碍：教师系统性地偏好更简单、更传统的图表（条形图、饼图），即使更复杂的设计（如热图）产生更丰富的洞察，且更高的[[visualization|可视化素养]]预测更深、更详细的解释（如更多教师识别时间序列数据中的趋势）。在组间比较上，教师偏好叠加而非并置，偏好全信息图而非显式差异编码。教师提出的行动由所呈现的内容与其[[teacher-role]]层级塑造，而非图型——大学教师偏好每周测试与课程级调整，而职业教师提出直接的、个体化的辅导——因此规定步骤既取决于分析如何可视化，也取决于模型。他们的发现是告诫性的：LA 指标与推荐支持之间的相关性大多微弱，跨模型推荐对同一学生分歧剧烈，且支持常被分配给最不需要的人。作者结论，当前 LLM **尚不足以作为大规模学生支持的可靠规定模型**，强化了规定步骤仍需验证、[[llm-training-and-fine-tuning|微调]]与人类监督而非开箱即用的自动化。
+一个互补的、以教师为中心的分析如何抵达课堂的检验来自[[mejia-domenzain-ml-findings-teachers-blended-2026|Mejia-Domenzain 等人（2026）]]，他们设计了一个学习分析仪表盘（DashED），在两个混合情境中向教师传达 ML 推导的[[self-regulated-learning|自我调节学习]]画像。他们 100 名教师的研究显示，分析的*呈现*本身是行动的一个障碍：教师系统性地偏好更简单、更传统的图表（条形图、饼图），即使更复杂的设计（如热图）产生更丰富的洞察，且更高的[[visualization|可视化素养]]预测更深、更详细的解释（如更多教师识别时间序列数据中的趋势）。在组间比较上，教师偏好叠加而非并置，偏好全信息图而非显式差异编码。教师提出的行动由所呈现的内容与其[[teacher-role|教师角色]]层级塑造，而非图型——大学教师偏好每周测试与课程级调整，而职业教师提出直接的、个体化的辅导——因此规定步骤既取决于分析如何可视化，也取决于模型。他们的发现是告诫性的：LA 指标与推荐支持之间的相关性大多微弱，跨模型推荐对同一学生分歧剧烈，且支持常被分配给最不需要的人。作者结论，当前 LLM **尚不足以作为大规模学生支持的可靠规定模型**，强化了规定步骤仍需验证、[[llm-training-and-fine-tuning|微调]]与人类监督而非开箱即用的自动化。
 
 分数之后的一步——谁得到支持，以及它是否被分配到需要之处——属于[[student-support-and-success|学生支持与成功]]，它承载着本页规定层所供给的外联、转介与分配证据。
 
 一个诚信结果进入同一预测层。[[akcapinar-ai-cheating-risk-lms-prediction-2026|Akçapınar（2026）]]从[[video-education|Moodle 与视频播放器]]痕迹的前八周预测 AI 辅助作弊风险，以逻辑回归达到 AUC 0.763，并论证该信号恰恰因为它抵达于考试之前而非考试期间而可用。
 一条互补的线索针对分析本身的*解释*。[[factria-responsible-institutional-analytics-2026|Marques 等人（2026）]]的 FACTRIA 框架组织了指标背后的偏置因素——管线、机构、课程与人口——而一个反思提示聊天机器人把 11 位利益相关者每个案例权衡的子因素从 1.41 提到 3.45（d = 2.15），使他们从直接读法转向条件读法。
 
-### 方法与网络分析
+- 为反馈而收集的痕迹与为成绩而收集的痕迹是两种不同的行为：一旦学习者知道某条记录可能被评价，他们就会管理它所显示的内容，因此日志度量的既是学习的呈现，也是学习本身（[[nakamura-observability-authenticity-paradox-stem-assessment-2026|Nakamura，2026]]）。
 
-网络方法是学习分析的核心：[[network-analysis|转移网络分析（TNA）]]建模学习者行动的时间序列（如[[conversational-ai|聊天机器人]]支架写作中的修改与聊天循环），而[[network-analysis|认识网络分析（ENA）]]映射代码/构念如何在活动中共现——二者共同揭示学习的*过程*与学习者[[student-ai-interaction|AI 交互]]，而非仅其结果。（[[penny-transition-network-analysis-efl-writing-2026]]）（[[tracing-genai-literacy-interaction-patterns]]）
+## 方法与网络分析
+
+网络方法是学习分析的核心：[[network-analysis|转移网络分析（TNA）]]建模学习者行动的时间序列（如[[conversational-ai|聊天机器人]]支架写作中的修改与聊天循环），而[[network-analysis|认识网络分析（ENA）]]映射代码/构念如何在活动中共现——二者共同揭示学习的*过程*与学习者[[student-ai-interaction|AI 交互]]，而非仅其结果。（[[penny-transition-network-analysis-efl-writing-2026|Woollaston 等，2026]]）（[[tracing-genai-literacy-interaction-patterns|Chen 等（2026）]]）
 
 - **在自主导向的建模中聚类点击流。**[[an-goel-self-directed-modeling-2026|An、Hammock 与 Goel（2025）]]把[[pedagogical-patterns|活动序列]]分析、层次聚类与马尔可夫链模型结合在 315 名在线学习者（他们在 VERA 中构建了 822 个生态模型）的点击流上，把九个细粒度的、基于转移的行为簇蒸馏为三个更广的模式（观察、建构、探索）。他们的工作证明，序列分析与马尔可夫链建模结合，可以在完全没有人口或情境数据的[[self-directed-learning|自导向]]任务中发现有意义的行为。
+- **汇总相关高估了痕迹能预测的东西。**在 424 名大学生浏览会话的 576 种模型配置中，跨任务汇总的相关比任务内相关中位数高出 0.169，因此一个高的汇总相关排序的是学生面对的是哪项任务，而不是该学生做得如何（[[konca-digital-traces-critical-online-reasoning-2026|Konca 与 Mehler（2026）]]）。
+
 - **LA 与生成式 AI 以不同方式塑造学习设计（2026）。**[[claassen-learning-analytics-genai-learning-design-2026|Claassen 等人（2026）]]用 ENA 比较 11 个教师焦点小组中学习分析与[[generative-ai]]如何影响[[learning-design]]决策。LA 的讨论集中于情境信息、课程级设计与创造性[[problem-solving]]（LA 用于诊断投入与定位支持），而生成式 AI 的讨论集中于[[assessment|评估设计]]与面向学生[[self-determination-theory|自我决定]]的设计（生成式 AI 用于构思与评估开发）。情境与[[creativity]]在两者中都是核心——提醒分析只在[[pedagogy|教学]]语境与教师自主之内为设计提供信息。
 - **当构念是社会性时，言语胜过融合，且最佳来源因构念而异。**与其最大化模态，一项 LAK26 对协作建模片段上五种特征配置的比较发现，纯文本嵌入整体最强（平均 ROC AUC 0.650，95% CI 0.615 至 0.685），高于文本加日志（0.613）与文本加日志加情境窗口（0.623）。日志单独为 0.526，对一个社会性构念接近随机，然而它们是改善反思检测（0.5862）的唯一来源，而计划则取决于周围的言语而非环境痕迹。特征选择是关于构念的主张，而非预算决策（[[zhang-llm-detection-ssrl-collaborative-modeling-2026|Zhang 等，2026]]）。
 - **行为痕迹不是认知状态的度量——对特殊需要学习者尤其如此。** [[vasileiou-ai-cognitive-scaffolding-executive-functioning-sen-2026|Vasileiou 等人（2026）]] 警告说，交互痕迹（任务时间、重复错误、[[help-seeking|求助]]、不规律的进度）可以帮助教师定位学习者需要支持之处，但并不是内部状态的透明度量：反应迟缓可能反映仔细思考、语言加工、分心、不可及的设计或技术困难。"算法不应仅凭行为数据推断执行功能缺陷或诊断状态"——分析作为专业评估和与学习者对话中的一种信息来源才是站得住脚的。
@@ -109,7 +120,7 @@ ai_assist:
 - **开放、可复现的数据与就绪痕迹的分析。**[[astra-multi-agent-tutoring-benchmark-2026|ASTRA]]发布了一个合成[[benchmark]]，带就绪痕迹的 schema（N=540；360 个会话；1,440 个片段），用于分析协作编程中的交互与参与平衡。日志与痕迹数据是本领域文献中[[self-report-measures|自报]]的天然制衡：同一构念常被测量两次，一次靠问、一次靠观察，而两者不总是一致。另有一个带 SHAP 分析的探索性 ML 框架，识别了与大学生预期学业 ChatGPT 使用最相关的学习相关构念，优先[[explainable-ai|可解释性]]（[[determinants-chatgpt-use-higher-education-2026]]）。
 - **可复用的分析基础设施，仅在内部验证（2026）。**[[a4l-analytics-pipeline|Bai 等人（2026）]]通过改变配置值而非代码复现了佐治亚理工三个 AI 助手的已发表发现，尽管该主张依赖对既有单机构数据集的重分析，且那一次能力扩展由内部人完成。
 
-### 关联
+## 关联
 
 学习分析连接到[[knowledge-tracing]]（核心分析）、[[formative-assessment]]（分析驱动的评估）、[[student-modeling]]（分析所填充的学习者表征）、[[privacy]]（[[ethics|伦理]]约束）与[[edtech-platform]]（分析的部署处）。由于规定性分析日益在[[simulating-students|模拟学习者]]上被评估——合成学生队列在受控测试中替代真实队列——学习分析也连接到学生模拟。
 
@@ -136,6 +147,8 @@ ai_assist:
 
 - **"分析必须依赖点击流痕迹。"** 在成果导向教育（OBE）之内，知识状态可以**直接从 LMS 交互与达成数据追踪课程成果**来估计，借助 OBE 亲和映射：机构记录本身就提供了信号。
 - **"没有行动窗口的预测也是有用的。"** 进度预测只有在**可解释且配有行动窗口**时才最可用：[[zhang-ml-student-progress-programming-2026|Zhang、Jeffries 与 Koprinska（2025）]]预测模块级结果，这是导师能够据以行动的形式，而不是一个原始分数。
+
+语义分析只有在类别定义得足够严密可供评分时，才评分得了推理。在一个 90 名学生的五小时 AI 伦理模块中，人工编码者在 1,094 个意义单位上达到 Krippendorff α = 0.82，而人在回路的分类器在 17 个议题与解决方案类别上达到宏 F1 = 0.83 [0.78, 0.87]，在最小的类别上降到 0.68（[[wang-yi-semantic-learning-analytics-moral-reasoning-2026|Wang 与 Yi（2026）]]）。单组前后测设计无法把观察到的增益归因于该模块。
 
 ## 关联概念
 
@@ -200,3 +213,7 @@ ai_assist:
 - [[liu-course-integrated-ai-tutoring-rct-2026]] — 完成率可能掩盖一次投入度崩塌
 - [[kim-ai-embodied-learning-review-2026]] — 具身学习中的 AI 主要是在观察：感知角色占编码角色标签的 62.5%，且没有受综述的系统在学习者使用中融合多模态流（Kim 与 Han 2026）
 - [[liu-teaching-analytics-dashboard-2026]] — 主动控制微格教学研究隔离出解释层：解读移动了，行动没有（Liu 等 2026）
+- [[wang-yi-semantic-learning-analytics-moral-reasoning-2026]] — 对道德推理的人在回路语义评分：大类上强，小类上弱
+- [[reding-discussion-boards-tam-ai-analytics-2026]] — 学生对讨论板的感知：一项为 AI 使能学习分析设计提供信息的接受模型研究
+- [[wyszynski-genai-user-input-engineering-statics-2026]] — 通过工程静力学课程中的用户输入数据考察学生对生成式 AI 的使用
+- [[konca-digital-traces-critical-online-reasoning-2026]] — 汇总痕迹相关反映的是任务差异，而非学生差异（Konca 与 Mehler，2026）

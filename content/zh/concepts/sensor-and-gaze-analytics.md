@@ -1,7 +1,7 @@
 ---
 title: 传感器与注视分析
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 type: concept
 foundations: [ai-education, limitations-in-aied-research]
 pedagogy: [student-engagement, self-regulated-learning, embodied-learning]
@@ -17,8 +17,12 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
+    agent: hermes-agent
 translation_of: concepts/sensor-and-gaze-analytics
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ---
 
@@ -37,7 +41,7 @@ translation_note: "本页是英文页面的机器翻译，尚未经母语者审�
 
 ## 引言
 
-传感器与注视分析描述了一类把学习者的物理测量转化为教育推断的方法。这些测量包括眼睛停留的位置与时长、头皮的脑电活动、汗腺反应、心率逐拍变化，以及头部与躯干的位置和运动。这些推断包括注意、参与、认知负荷、困惑、压力，以及在评估情境中的疑点。
+传感器与注视分析描述了一类把学习者的物理测量转化为教育推断的方法。这些测量包括眼睛停留的位置与时长、头皮的脑电活动、汗腺反应、心率逐拍变化，以及头部与躯干的位置和运动。这些推断包括注意、参与、认知负荷、困惑、压力，以及在评估情境中的疑点。本页关注的正是这一测量层：关于更宏大的计划及其主张，见[[affective-computing|情感计算]]；关于导师在获得一项推断后应当如何基于它行动，见[[affective-tutoring|情感辅导]]。
 
 其吸引力很直接。[[self-report-measures|自我报告]]是回溯性的且粗糙，测验只在少数时刻采样学习。传感器连续运行，且几乎不占用学习者的意识努力。这种组合使传感成为[[learning-analytics|学习分析]]与[[student-modeling|学生建模]]的核心，也催生了大量文献 —— 其中传感在技术上令人印象深刻，而解释却很单薄。
 
@@ -48,6 +52,8 @@ translation_note: "本页是英文页面的机器翻译，尚未经母语者审�
 **注视与注视停留。** 眼动仪报告眼睛指向何处、停留多久、何时扫视，以及分散得多广。WebGazer 这类基于屏幕的系统从网络摄像头估计注视，而眼镜式设备直接追踪眼球。TutorLoop 把注视转化为两个量：注意是内容区域内注视点的百分比，工作负荷是注视熵，其理由在于分散的注视反映认知负荷（[[tutorloop-sensor-cognitive-feedback-2026|TutorLoop，2026]]）。面向儿童的注视感知助手 Ollie 则在一幅图中定义兴趣区域，当孩子看向其中之一时触发叙述（[[gaze-informed-ai-children|Wu 等人，2026]]）。
 
 **脑电图。** EEG 以高时间分辨率记录头皮上的电压波动。它是这一族信号中唯一直接触及皮层活动的信号，这也是它吸引评估研究的原因。实用的教育系统使用干电极与少量通道：E3Sense 采用四个 125 Hz 的干式 EEG 通道，并分析其中两个额部通道（[[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan 等人，2026]]）。研究级设备走相反的路：Kosmyna 等人（2025）使用 32 通道 EEG，比较学生用[[llm|大语言模型]]、搜索引擎或不使用工具写作的情形，发现 LLM 组的神经连接最弱（[[your-brain-on-chatgpt-cognitive-debt-essay-writing|Kosmyna 等人，2025]]）。该研究也是对单通道证据最清晰的警告，因为其核心主张依赖于一次可选的分组交叉环节，而 54 名参与者中只有 18 人参加。
+
+**fNIRS 超扫描。** 同时记录两名学习者，测量的是脑间同步，而不是单个大脑：[[ai-exemplar-attribution-creativity-education-2026|Xiaoyong 等人（2026）]]发现，归于人类的范例提升了运动前区同步与想法独特性，归于 AI 的范例则使其下降，且两种行为上的增益在撤除后都未能保持。
 
 **皮肤电活动。** EDA 测量汗腺导电率，是交感唤起的指标。它对压力、努力与情绪强度都有反应，却无法在它们之间区分。同一构念出现在腕带中，也出现在由眼动仪框架固定、相距几厘米的额部电极中（[[e3sense-multimodal-learner-engagement-sensing-2026|Anupkrishnan 等人，2026]]）。
 
@@ -82,6 +88,8 @@ translation_note: "本页是英文页面的机器翻译，尚未经母语者审�
 神经相关物不是分数。由 EEG 重建的图像在 55 个参与者—视频观测上与测验成绩相关，R² = 0.79。正确作答的项目也比错误项目表现出更高的语义相似度。然而有一名参与者产出了高质量的重建却作答错误，因此重建质量不能被读作正确性（[[seeing-cognitive-representations-eeg-reconstruction|Su 等人，2026]]）。
 
 注意不是学习。在 TutorLoop 中，注意与学习的相关为 r = 0.017，而工作负荷呈负相关，r = -0.168（[[tutorloop-sensor-cognitive-feedback-2026|TutorLoop，2026]]）。一个最大化注意信号的系统所优化的东西，接近于噪声。
+
+信号也可以反转构念。在 37 段录制的护理[[simulation|模拟]]中，一个微笑检测器与观察者评定的[[empathy|共情]]呈负相关（r = −0.322），而身体接触检测与四项观察者测量的一致度为 0.46 至 0.54；观察者把对着痛苦病人的微笑读作不合时宜，而模型读作面部动作（[[nissan-nursing-empathy-computer-vision-2026|Nissan 等人，2026]]）。
 
 传感器可以记录到共在，而研究却声称它记录的是互动：[[hur-computational-analysis-teacher-group-interactions-2026|Hur 等（2026）]]发现，一个基于姿态的检测器只达到 55% 的召回率，在人工编码者在师生小组互动中识别出的 20 个事件中只捕捉到 11 个。[[teacher-role|教师]]在 49.2% 的编码片段中位于小组边界之内，而学生看向教师的比例只有 25.4%，两种比较中都没有任何音频特征发生变化，因此该管线登记的是空间上的共在，而非持续的互动。
 
@@ -138,6 +146,7 @@ translation_note: "本页是英文页面的机器翻译，尚未经母语者审�
 - [[intelligent-tutoring]]
 
 ## 关联文章
+- [[nissan-nursing-empathy-computer-vision-2026]] — 身体接触检测追随观察者评定的共情，微笑检测则反转，目光接触与热图为空结果（Nissan 等人，2026）
 - [[gaze-informed-ai-children]] — 注视触发的 LLM 叙述让儿童在有叙述的区域停留 6.48 秒，对照为 1.67 秒，但该研究测量的是注意而非理解（Wu 等人，2026）
 - [[e3sense-multimodal-learner-engagement-sensing-2026]] — 头戴式 EEG、眼动追踪与额部 EDA 以 75.0% 的差一级以内准确率预测自评参与，基线为 63.0%（Anupkrishnan 等人，2026）
 - [[engagement-assessment-video]] — EduGage 把七路可穿戴与摄像头数据流融合为片段级参与估计（MAE 0.81），并主张更轻量的仪器（Leng 等人，2026）

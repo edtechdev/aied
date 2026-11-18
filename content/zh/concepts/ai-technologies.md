@@ -1,19 +1,23 @@
 ---
 title: 技术
 created: "2026-08-19T18:10:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:15:00-05:00"
 type: concept
 foundations: [agentic-ai]
 technology: [ai-technologies, educational-nlp, educational-robotics, generative-ai, knowledge-graph, llm, multimodal, prompt-engineering, rag, reinforcement-learning, simulation]
 confidence: high
 translation_of: concepts/ai-technologies
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -40,6 +44,8 @@ ai_assist:
 - **生成式 AI。** 更广的一类系统，产出文本、代码、图像与其他内容——[[generative-ai|生成式 AI]]（主要由 LLM 驱动）是当前这波 [[ai-education|AIED]] 研究背后的技术。另见 [[multimodal|多模态模型]]（文本、图像、音频）与 [[simulation]]。
 - **机器人与[[embodied-learning|具身]]系统。** [[educational-robotics|教育中的机器人]]增添了具身的、常是[[community-of-inquiry|社会性]]的在场——用于[[computational-thinking|计算思维]]的可编程套件，以及用于辅导、[[storytelling-in-education|讲故事]]与角色扮演的人形/社交机器人。机器人是一条独特的技术脉络，与 [[agentic-ai|智能体式 AI]] 和 [[human-in-the-loop-ai|人在环]]设计交叠。
 - **基于知识的系统。** [[knowledge-graph|知识图谱]]与 [[educational-nlp|教育 NLP]]表征并处理领域知识，日益与 LLM 结合，用于有锚定、可解释的辅导。
+
+一种以功能为单位的分类法，比一列模型架构更能走进教师专业发展。[[jaksic-engaging-high-school-teachers-ai-2025|Jaksic、Ansaf 与 Massey（2025）]]为九名高中教师组织了一场为期一天的工作坊，围绕六类 AI 应用——分类、识别、记忆、决策、优化与预测——每一类都配上教师已经在用的一个应用，从垃圾邮件过滤到信用评分。教师入场时对 AI 是否是威胁意见分裂，40% 认为是，40% 尚未决定，而每一位参与者都报告学到了新东西。组织单位是系统做什么，这是教师在课堂工具中能认出来的，而不必知道它是如何被训练的。
 
 ## 技术与方法
 
@@ -113,3 +119,4 @@ ai_assist:
 - [[elbench-education-llm-benchmark-2026]] — 教育 LLM 基准
 - [[teachy-mini-generative-social-robot-higher-ed-2026]] — Teachy Mini 生成式社交机器人
 - [[benzion-ai-physics-simulations-virtual-lab]] — 面向课堂的 LLM 生成物理模拟
+- [[jaksic-engaging-high-school-teachers-ai-2025]] — 让高中教师参与人工智能的概念、应用与发展

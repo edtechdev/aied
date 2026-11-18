@@ -1,7 +1,7 @@
 ---
 title: 口语考评
 created: "2026-09-23T08:35:38-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:26:00-05:00"
 connected_faqs: [redesign-assessment-ai-era, ai-feedback-at-scale]
 type: concept
 connected_resources: [code-viva]
@@ -14,13 +14,17 @@ audience: [instructors, administrators]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/oral-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -30,7 +34,7 @@ ai_assist:
 
 ## 值得思考的问题
 
-- 口试在 AI 时代被推崇，理由是机器不能坐在房间里替你答题。然而论证这一点的语料中并不包含任何口试对笔试的[[rct|随机试验]]。在把这一论证当作已定论之前，你需要看到什么？
+- 口试在 AI 时代被推崇，理由是机器不能坐在房间里替你答题。然而论证这一点的语料中并不包含任何口试对笔试的随机试验。在把这一论证当作已定论之前，你需要看到什么？
 - 同一批研究报告了[[anxiety-and-stress|焦虑]]降低的两种不同机制：消除[[teacher-role|教师]]的现场观察，以及通过练习熟悉形式。这两种机制指向不同的设计。哪一种适合你的情境，你又会相信哪一种可以推广？
 - 纯语音评分可能把言语流利误当作概念理解。如果一个学习者手势做对了却说出错误的词，或者说出正确的词却不理解，你的考评到底在测量什么？
 - 本语料中的每一种口试设计都撞上同一堵墙：师资与场地时间。如果约束是一学期 28 个接触小时、15 名学生，诚实的答案是更少的需辩护作业、更大的教学团队，还是另一种形式？
@@ -47,6 +51,8 @@ ai_assist:
 
 诚信主张的诚实版本，比它常被陈述的样子更窄。口试让替代更难隐藏；语料并未显示它们减少了 AI 的使用。在[[code-review-genai-cs1|CS1 口头代码评审研究]]中，每周 15 分钟的访谈承载每次作业 70% 的分数，而粘贴字符数与总字符数之比在三个学期中仍从 61.0% 上升到 68.1%（p < 0.0001），考试成绩只发生了统计上不显著的 2% 变动。90% 的学生说评审激励他们更好地理解自己的代码，65% 的人说评审帮助他们避免过度依赖 AI，但可测量的行为并没有跟上。口试改变了什么能被隐藏，而没有改变学生做了什么。
 
+这一保障的有限版本出现在 Webb-Davies、Ratner 与 Bassett 的考评模型中：只有当评分者无法在受观察的推理基线与最终提交物之间重建出可信的关联时，才触发一次口试。作者明确指出这不是一次例行口试：它问的是某个立场如何发展而来，或证据为何被选取，而被确认为属实的解释不受任何处罚。该设计使口语考评稀见到足以规模化，同时承认这项判断本身无法被自动化（[[webb-davies-voice-first-written-assessment-2026|Webb-Davies 等人，2026]]）。
+
 ## 语料实际覆盖的设计空间
 
 语料中的形式在自动化程度与同步性上跨度很大，各自解决问题的不同部分。
@@ -57,7 +63,11 @@ ai_assist:
 
 **自动化交付与评分。** [[ai-supported-oral-assessment-tvet-2026|一套在职业汽车与工程课堂上试用的语音系统]]评估了三十三名学习者，其中二十一人认为实时语音任务感觉真实，无人认为书面[[eportfolio|作品集]]比实时口头作答更适合该任务。相同问题在不同学习者之间的词数相差五到八倍，流利度在封闭题上没有带来准确率优势，在相邻的园艺与乳业试验中，初步的智能体评分在 95% 的情况下与人类辅导教师一致。[[socratic-tests-conversational-assessment|一项对话式苏格拉底测验]]采取了相反的设计路线，瞄准概念性提问；其证据是一项九十八名学生的自我报告调查，其中 80.6% 同意 AI 提供了有效的脚手架，52% 报告压力低于传统考试。两篇论文测量的都是接受度，而非学习。
 
+**AI 作为现场、人工监考口试的后勤脚手架。** 第三种安排保留教师作为考官，用 AI 使配对排练变得可行。在[[onodipe-enhance-not-replace-ai-classroom-2026|Onodipe 等人（2025）的商业统计课程]]中，一对一的 Zoom 现场口试无法在时限内覆盖每一名学生，因此学生在分组室里两两配合，使用一份结构化的 ChatGPT 提示词，覆盖考试可能提出的那类问题，而教师在各个分组之间轮转以探查推理。该论文报告了后勤安排与教师负担的减少，但没有结果比较，因此它是一个待检验的设计，而不是 AI 中介的排练能保住口试所证明之物的证据。它的价值在于针对 Fenton 所指出的排课与接触小时约束，同时既不自动化交付也不自动化评分。
+
 **作为辩护而非考试的口头证据。** [[tool-invariant-framework-agentic-ai|一套工具无关的考评框架]]把无 AI 的课堂小测与对剥离注释的 AI 辅助作品的十分钟口头辩护配对，按代码理解、方法理解、术语、解释与验证评分，且无论总分如何，验证为必需项。该设计是论证出来的，而非验证过的；论文自己为十五名学生算出的账是每次作业 2.5 个接触小时，十一场需辩护作业合计约每学期 28 个接触小时。
+
+**抽样探查，而非全覆盖。** Deng（2026）提议从学生自己提交的作品中随机抽取一份进行面对面考查，并附加四项可信度条件：不止一名探查者、可录制与可审计的场次、一条申诉路径，以及一位不是认证者的顾问（[[deng-certification-consultation-university-teaching-2026|Deng，2026]]）。该设计是论证出来的而非检验过的，但它通过抽样而非考查全部来绕过接触小时这堵墙。
 
 互动形式决定了一项 AI 中介的口语任务能证明什么。Duolingo English Test 的对话任务在试点中有 713 个，要求的是选择答案而非反应式交谈，评审者认为这使任务的认知要求与该测验声称测量的构念错位（[[ai-second-language-listening-speaking-assessment-2025|Goh & Aryadoust（2025）]]）。
 
@@ -80,6 +90,7 @@ ai_assist:
 口试的诚信理由也是有时间限制的：[[corbin-ai-glasses-wearable-ai-assessment-2026|Corbin 等人（2026）]] 主张，AI 眼镜与耳机可以在现场口试中传递隐蔽的实时提示，因为可穿戴 AI 不会产生目光转移或可探测的信号，所以互动式口试不再是免疫的。
 
 - **规模上限是设计约束。** 在一场有 73 名[[cs-education|计算机]]教育者参加的研讨会上，口头与互动式考评被报告为可获得的、关于个体理解的最强证据，也是最不可规模化的补救办法；参与者描述的缓解手段是分散与抽样——共享助教池、权重低于[[summative-assessment|期末考试]]的[[peer-assessment|同伴互评]]，以及点名轮换的学生子集（[[computing-assessment-genai-workshop-report-2026|Akbar 等人（2026）]]）。
+- **当访谈者提供脚手架时，机器评分变得宽松。** [[challen-conversational-assessment-chat-exams-2026|Challen 与 Zilles（2026）]]把对评分规则无知的访谈者与一个隐藏的评估者分开；对 40 次作答的盲式重评一致率为 35%，且只两次给出最高等级，而已部署的评估者给出了 20 次。
 
 ## 常见误解
 
@@ -119,3 +130,7 @@ ai_assist:
 - [[pgr-students-genai-uses-qualitative-2026]] — 生成式 AI 之下的博士答辩
 - [[computing-assessment-genai-workshop-report-2026]] — 《AI Can Do Your Homework. Now What?》：一场关于生成式 AI 时代计算机考评的在线研讨会报告
 - [[assessment-feedback-trilemma-model-2026]] — 否认任何形式占据固定位置，并把可行性重新框定为一项教育优先事项
+- [[onodipe-enhance-not-replace-ai-classroom-2026]] — AI 脚手架式的配对口试，作为商业统计课程中的排课变通办法
+- [[deng-certification-consultation-university-teaching-2026]] — 生成式 AI 之后的大学教学：超越讲授与探究，走向一种学习者成为评价者的认证与顾问范式
+- [[webb-davies-voice-first-written-assessment-2026]] — 两阶段书面考评：先在观察下保障推理，再对在家完成的提交物评分，并对关联不清者设置条件性口试（Webb-Davies、Ratner 与 Bassett 2026）
+- [[challen-conversational-assessment-chat-exams-2026]] — 可规模化的对话式考评：采用双智能体大语言模型流水线的聊天式考试

@@ -2,19 +2,23 @@
 connected_resources: [openmaic, primer]
 title: 模拟
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-13T18:20:00-05:00"
+updated: "2026-11-18T03:04:38-05:00"
 type: concept
 pedagogy: [active-learning, experiential-learning]
 technology: [adaptive-learning, pedagogical-agent, reinforcement-learning]
 confidence: high
 translation_of: concepts/simulation
-source_updated: "2026-11-04T15:58:10-05:00"
+source_updated: "2026-11-16T09:58:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -56,9 +60,12 @@ ai_assist:
 
 - **角色扮演让学习者进入那个角色。** 在模拟智能体提供对应方之处，角色扮演则把那个角色交给学习者。[[remind-robot-mediated-roleplay-antibullying-2026|Sanoubari 及同事（2026）]] 让 18 名 9—10 岁的孩子观看由社交机器人上演的霸凌场景，推理每个角色的立场，然后通过操纵一个机器人化身来排练防卫，并报告在防卫的 [[self-efficacy]] 自我效能感上有增益，以及对"与霸凌者对抗是否真能阻止霸凌"的信念得到了更好的校准。他们"由机器人中介的应用戏剧"这一框定，把人类引导者保留在论坛剧场的角色中，并把自动化局限于叙事控制——这提醒我们，角色扮演中要求高的部分是反思，而非机械。[[lock-integrating-ai-online-learning-higher-ed-2025|Lock、Arteaga 与 Johnson（2025）]] 把角色扮演与模拟并列，作为 AI 支持的[[online-teaching-and-learning|在线学习]]所倚赖的策略之一。
 
+成本与交付形式是与保真度可以分开回答的两个问题。一个双队列试点用同一个 LLM 病人案例对 19 名一年级医学生运行，每名学生每次会话约 US\$2，此外另需一名教师与一名职员各一小时来组织小组会话（[[tischkau-ai-simulated-patient-formats-2026|Tischkau 等（2026）]]）。由教师主持的小组交付与单人笔记本上的会面，在措辞相同的九个条目上没有可检测的差异（r = 0.02 至 0.11），综合中位数也相同，因此主持所增添的东西在学习者评分中看不出来。
+
 - **模拟的学习者：** 学生行为模型让 [[research-methods-aied|研究者]]与设计师能在正式部署前测试[[intelligent-tutoring|辅导系统]]与 [[curriculum-design|课程]]，为 [[student-modeling]] 与 [[knowledge-tracing]] 提供依据。
 
 - **信任与保真度：** 一个模拟的价值取决于它建模真实情境的保真度——也取决于学习者对其局限的意识，与 [[trust-calibration]] 相连。
+- 学生模拟器在真正要紧之处未能通过保真度检验：即便是最好的微调模型也漏掉了真实学生会犯的错误，而提示方法表现最差，因此模拟器必须在被信任之前先被测量（[[simulated-students-tutoring-dialogues-2026|Scarlatos 等（2026）]]）。
 
 - **拟人性是互动的属性，而非模型的属性。** 一旦两个后端都渲染在同一个化身背后，基于文本的拟人性优势就消失了：参与者把商业模型称为自然（54% 对 22%），而沟通表现完全相同；语音、延迟与轮次重塑了对同一对话质量的感知（[[sophie-clinical-communication-ai-assessment-2026|Hasan et al.（2026）]]）。
 - **模拟式学习中的 [[generative-ai|GenAI]]。** [[genai-scenario-based-healthcare-education-2026|Neto 及同事（2026）]] 对医疗教育中情境式、案例式、问题式与模拟式学习里的 GenAI 做了 [[meta-analysis-systematic-review|系统综述]]，发现对高阶认知技能有正向结果，但其他地方的结果不一致，且混合式 [[human-ai-collaboration|人机协作]]胜过完全自动化的方法。[[conversational-agents-business-simulation-gaming-2026|Wenzel、Geiger 与 Liening（2026）]] 为商业模拟游戏中的自适应支持开发了 AI 对话智能体，应对模拟式学习中常见的 [[formative-assessment|形成性]]反馈与结构化反思不足的缺口。
@@ -73,6 +80,7 @@ ai_assist:
 - **数字孪生是带一张硬件账单的模拟，而这张账单决定了谁能参与。** 一项对 [[engineering-education|工程]]与 STEM [[higher-ed|高等教育]]中 11 项数字孪生研究的 [[meta-analysis-systematic-review|系统综述]]发现，每一项实现都交付了带实时同步的可用原型，但只有三项报告了统计上显著的 [[learning-gains|学习增益]]。物理装置在五项研究中把并发使用上限压到 1—3 名学生，而社交互动的减少是六项研究中被最常提及的教学法挑战（[[caee-digital-twins-stem-education-systematic-review-2026|Pelayo-González et al.（2026）]]）。
 - **基于智能体的模拟可以把一个[[metacognition|元认知]]理论建模为可检验的系统。** 一个以智能体为基础、受数字孪生启发的框架把五级 AMERT 模型与一个 NetLogo 模拟结合，使研究者可以改变学习者原型与任务条件并观察元认知轨迹，不过作者强调其输出是假设生成，而不是关于真实学习者的证据（[[agent-based-digital-twin-metacognition-2026|Guo，2026]]）。模拟成为对一个原本难以观察的理论的虚拟实验室。
 
+- **模拟来访者跑在了证据前面。** 一项对咨询师教育中生成式人工智能的 14 份文献的范围综述发现，AI 模拟来访者是主导应用，但没有一项研究测量受训者的胜任力、使用对照条件，或检验危机与风险评估情境（[[van-patten-freeman-rath-ai-counselor-education-scoping-2026|Van Patten-Freeman 等，2026]]）。
 - **课程才是决定一项模拟价值的单位。** 课程之桥模型（Curricular Bridge Model）论证，模拟的回报取决于经验如何在一个项目中排序——情境复用、推理要求的变异、证据如何喂养进阶——而不是取决于平台保真度（[[herrera-alcaino-simulation-curricular-coherence-2026|Herrera Alcaíno，2026]]）。
 
 ### 关联
@@ -110,6 +118,8 @@ ai_assist:
 - [[ai-avatars-and-synthetic-instructors]]
 
 ## 关联文章
+- [[ismail-affective-domain-ai-healthcare-review-2026]] — AI 模拟与虚拟病人在情感领域训练中占主导，结果多为自评（Ismail 与 Zafira，2026）
+- [[van-patten-freeman-rath-ai-counselor-education-scoping-2026]] — 14 份文献的范围综述：模拟来访者占主导，受训者胜任力未被测量（Van Patten-Freeman 与 Rath，2026）
 - [[learner-agency-ai-simulation-2026]] — 复杂系统模拟中的参数控制与可选 AI 智能体：增益追随执行，而非可及性
 - [[benzion-ai-physics-simulations-virtual-lab]]
 - [[adaptive-virtual-patient-psychotherapy-training]] — 用于心理治疗训练的适应性虚拟病人
@@ -135,4 +145,5 @@ ai_assist:
 - [[theelen-classroom-simulations-four-layer-framework-2026]] — 四层框架：区分所代表的实践、模拟的情境、能动性与适应，以及编排
 - [[herrera-alcaino-simulation-curricular-coherence-2026]] — 从技术采纳到课程一致性：技术增强的模拟作为健康专业教育中的桥梁
 - [[alvarez-rubio-pedagogy-first-conversational-ai-simulation-2026]] — 教师在整个模拟循环中无法委派给对话智能体的东西
+- [[tischkau-ai-simulated-patient-formats-2026]] — 一个 LLM 病人在教师主持的小组与单人笔记本两种形式下：每名学生每次会话约 US\$2，学习者评分无可检测差异（Tischkau 等，2026）
 

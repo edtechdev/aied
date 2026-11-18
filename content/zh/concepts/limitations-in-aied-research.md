@@ -1,7 +1,7 @@
 ---
 title: AIEd 研究的局限
 created: "2026-08-15T09:18:04-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:08:30-05:00"
 type: concept
 foundations: [ai-education]
 pedagogy: [learning-theories]
@@ -12,13 +12,17 @@ confidence: high
 connected_faqs: [research-gaps-aied, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, research-methods-aied]
 translation_of: concepts/limitations-in-aied-research
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T09:58:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -63,6 +67,9 @@ ai_assist:
 
 - **模型生成的标签不是真值。** 当训练或评估一个系统的标签本身由语言模型生成时，标注者之间的一致性无法确立效度：[[edubehaviors-auditable-coding-educational-dialogues-2026|Bernado 等（2026）]]从未将他们的断言标注与人工金标准比对验证，他们发布的 49 个编码器分类器继承了同样的出处，在应用存在显著差异的维度上可能并不有效。他们的模式在表现上也严格劣于在专家标注数据上微调的分类器（宏平均 F1 为 0.673 对 0.76），这使得在需要高置信度时，专家标注的语料仍然值得投入。
 - **证据基础本身的分布并不均衡。** 一项覆盖 407 项技术支持[[formative-assessment|形成性评价]]研究的范围综述只使用了 Web of Science 与 Scopus 两个数据库。它还因语言标准排除了 61 条记录，因此该领域所报告的地域失衡，可能部分反映的是哪些期刊被收录（[[bulut-technology-supported-formative-assessment-2026|Bulut, 2026]]）。
+- **缺失的是三条件设计。** 在被审阅的十二项 GenAI 研究中，没有一项在配有经过验证的排除程序的情况下，同时测量受助表现、即时的无AI测验与延后的无AI测验，因此受助增益从未与保持效果挂钩（[[wei-assisted-performance-unaided-retention-2026|Wei（2026）]]）。
+
+**可行性是一类结果，而不是一段前言。** 一项关于AI模拟病人的双队列试点，从受邀的 72 名学生中招募了 19 名（26%），完成了每一次会面与问卷（100%），且没有任何一次课程因技术故障而终止——这些是真实结果，但可行性与可接受性这两类结果是收集之后才定义的，也没有预先设定任何推进标准（[[tischkau-ai-simulated-patient-formats-2026|Tischkau 等（2026）]]）。完成率只有对照事先固定的标准才有信息量；否则"它跑起来了"与"它奏效了"就是同一句话。
 
 ## 速度问题：AI 的演进快于研究发现
 
@@ -120,6 +127,8 @@ AI 在持续变化，从任何给定模型或系统得出的结论都可能**很
 
 **而基准率是没有人说出的那个数字。** 这里的方法论局限是可测量的，而非印象式的：在一项对 80 项 HCI 研究（主题为 AI 与批判性思维）的批判性综述中，**42 项（52%）没有设置对照组**，其余大多数依赖自我报告。当一个领域的正面发现有一半以上来自无法把 AI 的效应与普通活动区分开的设计时，对任何单一发现所应持有的先验就是怀疑，而不是暂时接受。
 
+这些局限的一个实际后果是，若干被广泛使用的教育做法所依赖的证据根本支撑不起它们；[[what-not-to-do-ai-education|教育者应当避免用AI做的事]]按角色汇集了这些做法，并点名每一处告诫背后的具体局限。
+
 ## 常见误解
 
 - **"局限性章节是套话。"** 方法论局限是**可测量的，而非印象式的**：在一项对 **80 项 HCI 研究**（主题为 AI 与批判性思维）的批判性综述中，**42 项（52%）没有设置对照组**。把局限变成一个精确的计数，它才可付诸行动。
@@ -170,3 +179,4 @@ AI 在持续变化，从任何给定模型或系统得出的结论都可能**很
 - [[k12-teachers-genai-beliefs-five-countries-2026]] — 跨国 K-12 教师调查：机器翻译题项、单题关切测量、无不变性检验
 - [[hawi-genai-higher-ed-uses-outcomes-risks-2026]] — 103 项 GenAI 高等教育研究的系统综述：56% 的有条件收益、掩盖过程变化的成绩（Hawi & Samaha 2026）
 - [[automated-essay-scoring-critical-thinking-physics-2026]] — 数据增强可以制造头条指标
+- [[tischkau-ai-simulated-patient-formats-2026]] — 可行性作为一类独立结果：26% 的招募率、100% 的完成率，结果在收集之后才定义

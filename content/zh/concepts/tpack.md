@@ -1,15 +1,16 @@
 ---
 title: 技术教学内容知识（TPACK）
 created: "2026-08-14T10:37:25-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role, teacher-ai-competency]
 technology: [generative-ai]
 connected_faqs: [faculty-development-ai]
 audience: [faculty developers, instructors]
 confidence: high
+pedagogy: [tpack]
 translation_of: concepts/tpack
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-15T15:46:54-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -17,14 +18,15 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
-pedagogy: [tpack]
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
+    agent: hermes-agent
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
 > **技术[[pedagogy|教学法]]内容知识（TPACK）** — Mishra 与 Koehler（2006）提出的框架，描述教师有效使用技术教学所需的整合性知识：技术知识（TK）、教学法知识（PK）与内容知识（CK）的相互作用及其交集。在 AI 时代，TPACK 已扩展为 **AI-TPACK** / **GenAI-TPACK**，刻画教师如何将生成式 AI 整合进学科教学。它是理解[[teacher-ai-competency|教师 AI 胜任力]]如何结构化、如何通过[[educational-development|专业发展]]建构的主导理论透镜。
-
-这种主导性部分也是检索带来的假象：在一项对 195 项技术支持教师教育研究的 PRISMA [[meta-analysis-systematic-review|范围综述]]中，数字胜任力、TPACK 与 DigCompEdu 都是显式检索词，因此 46.5% 的胜任力框架占比描述的是检索到的语料而非整个领域（[[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández 等（2026）]]）。
 
 ## 值得思考的问题
 
@@ -53,6 +55,7 @@ TPACK 认为，有效的技术整合不是各知识域的加总，而是它们**
 
 - **该框架默认地主宰了这个领域，并被拉伸来适配。** 在一项对 78 项 AI 支持[[learning-design|教学设计]]研究的 PRISMA 引导综述中，只有 19 项应用了任何具名的胜任力框架，而 TPACK 及其变体占了这 19 项中的 **17 项**，它们被生产性地用作分析透镜，却被拉伸到其原初范围之外，因为 TPACK 并非为 AI 特有的能力而设计。专门构建的扩展相应地罕见：**Intelligent-TPACK 只出现在五项研究中**，通常与 [[ai-literacy]] 配对以处理发展性进阶（[[spyropoulou-genai-instructional-design-systematic-review-2026|Spyropoulou 与 Kameas，2026]]）。
 - **研究在未被理论化的状态下推进，而政策框架未被检验。** 同一综述发现 **76% 的研究从实践推断胜任力，完全没有理论映射**，而 DigCompEdu 与 UNESCO 教师 AI 胜任力框架在 78 项研究中都没有被用作分析框架，这是一种双向的脱节：经验工作没有累积出共享词汇，而本应指导实践的框架在这一情境中仍未被经验检验。
+- **这种主导性有一部分是检索带来的假象。** 在一项对 195 项技术支持教师教育研究的 PRISMA [[meta-analysis-systematic-review|范围综述]]中，数字胜任力、TPACK 与 DigCompEdu 都是显式检索词，因此 46.5% 的胜任力框架占比描述的是检索到的研究，而非整个领域（[[digital-competence-ai-responsive-pedagogy-2026|Patiño Hernández 等（2026）]]）。
 
 ## AI-TPACK 与 GenAI-TPACK
 
@@ -60,6 +63,7 @@ AI 时代把框架推向"技术内蕴智能"的读法。生成式 AI 不是被�
 
 - **超越离散知识。** [[ai-tpack-teacher-multi-agent-workflow|AI-TPACK 研究]]认为，有效的 AI 整合不源于分别拥有各个域，而源于**系统思维**、**教学法信念**与**[[self-efficacy]]**的动态相互作用——挑战了教师 AI 胜任力的静态、清单式模型。教师原型（系统优化者、高产创造者、被动观察者）从教师如何设计多智能体教学工作流中涌现。
 - **整合框架遗漏了什么。** 一种共同能动性（co-agency）批评认为，TPACK 与 [[samr-model|SAMR]] 处理了教师知识和采用层级，却未触及权力、数据所有权与问责，因此整合知识需要一个显式的伦理边界，而非又一个知识域（[[reclaiming-epistemic-agency-co-agency-2026|Poudyal（2026）]]）。
+- HACC 把 TPACK 交给教师教学法承担的整合工作改派给学习者自身的元认知，因此学习者一侧的整合落在 TPACK 的范围之外（[[dang-human-ai-collaboration-competency-2026|Dang 等（2026）]]）。
 - **教学法核心的跨层证据。** [[pedagogy-first-technology-second-teacher-knowledge-2026|一项对 46 名教师和 2,832 名中学生的多层研究]]发现，仅技术性 AI 知识是不够的——它甚至轻微压低了学生对"AI 向善"的看法——而教学法性 AI 知识（TPAIK）才培养了学生对 AI 的看法和学习 AI 的行为意向。结果可提炼为一条 **"教学法先行、技术其次"** 的指南，与上述中介角色发现相呼应。
 - **[[ethics|伦理]]作为整合性中介而非边界。** 在一项对 454 名大学教师的调查中，孤立的技术性 AI 知识与整合的 AI-TPACK 呈*负*直接关联（β = −0.303），而其总效应仍为正（β = 0.639），经由教学法、内容和伦理知识传导（[[ethically-mediated-ai-tpack-china-2026|Chen 等（2026）]]）。伦理知识还将效应继续传导，同时预测教学法知识（β = 0.353）和内容知识（β = 0.269）。
 - **审视整个领域的透镜。** [[edurev-100741-tpack-genai-review|一项从 TPACK 视角出发的系统综述]]（Liu & Zhong，2025）分析了 71 项关于 GenAI 用于学生学习的实证研究，发现总体为正效应（Hedges' g = 0.752），并识别出学生的 GenAI 素养与**面向教师的 GenAI-TPACK 专业发展**为领域的两大关键优先项。
@@ -86,6 +90,8 @@ TPACK 是知识库证据基础中教师侧的组织性框架。它解释了为�
 
 **中介大多经由易用性运行。** [[ai-literacy-tpack-preservice-2026|Zhao（2026）]] 在 423 名职前教师中检验了从 [[ai-literacy|AI 素养]]与 TPACK 通往深度学习的六条间接路径：经由[[technology-acceptance-model|感知易用性]]的 TPACK 路径最大（0.212），而经由有用性的 AI 素养路径最小（0.033），因此整合知识是经由[[usability-research|可用性]]而非效用起作用的。
 **在 AI 情形中，各成分的权重并不相等。** 在 988 名职前教师中，TCK（β = 0.67）与 TPK（β = 0.41）预测整合的 AI-TPACK，而单独的 TK 不能（β = −0.10，p = 0.066），且整合的 TPACK 预测对 GenAI 的态度（β = 0.75）（[[khalil-tpack-preservice-genai-attitudes-2026|Khalil 等，2026]]）。
+
+**执行而非修订，在资源约束之下。** 一所索马里兰大学的讲师所描述的用法，受机构支持、缺位的政策以及他们自掏腰包支付的每月 20 美元订阅塑造——这是 TPACK 能够容纳而不必改变其组件的情境（[[negash-genai-lecturers-somaliland-2026|Negash（2026）]]）。
 
 ## 设计启示
 

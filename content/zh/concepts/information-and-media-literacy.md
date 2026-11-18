@@ -10,15 +10,19 @@ audience: [librarians, instructors, learners, curriculum designers]
 level: [higher ed, k 12, adult learning]
 page_kind: [synthesis]
 confidence: high
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-18T03:05:30-05:00"
 translation_of: "concepts/information-and-media-literacy"
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-16T05:34:55-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-11-07"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -47,6 +51,8 @@ ai_assist:
 
 经验文献反映了这一分裂。一项对 236 名美国大学生的调查询问学术检索从何处开始，发现搜索引擎占 45.5%，图书馆主页占 27.9%，AI 聊天机器人占 26.6%，而国际学生用 AI 替代图书馆资源的比例约为本土学生的两倍（[[lund-ai-information-seeking-chatbots-libraries-2026|Lund 等，2026]]）。一项对 32 项研究的系统综述发现，[[ai-literacy|AI 素养]]融入信息素养教学仍处于“婴儿期”，通过 LibGuides 与工作坊交付，而不是经由课程（[[mirza-arif-ai-literacy-information-literacy-review-2026|Mirza 与 Arif，2026]]）。在媒介一侧，对七位专家的访谈与对 141 名学生的调查发现，批判性媒介素养课程中的技术纳入“有限且往往流于表面”，教师对会制造虚假信息与深度伪造的工具准备不足（[[critical-media-literacy-education-2026|这项批判性媒介素养研究，2026]]）。
 
+国际评估即将把这两个构念熔合在一起。PISA 2029 为 15 岁学生引入了媒介与人工智能素养（MAIL）评估，而 iRAISE 的 2026 年综述把它的定义建立在同样的整合之上 —— 人工智能素养是数字素养的最新一层，而数字素养本身又依托数十年的媒介与信息素养（[[cerioli-human-centered-ai-literacy-schools-2026|Cerioli，2026]]）。这种整合带有一项分歧论证所预测的实施成本。联合国教科文组织 2025 年的测绘发现，194 个成员国中有 171 个在国家框架中提及媒介与信息素养，但只有 84 个（43%）在课程中纳入了技术性数字技能之外的元素 —— 因此评估将要测量的那个构念，恰恰是学校教得最少的那个。
+
 ## AI 如何使信息素养复杂化
 
 第一个复杂化是大规模的伪造。模型产出令人信服的文本、看似合理的参考文献与自信的统计数字，而它们可能并不存在；读者收到的是一份检索痕迹已被抹去的综合。核查因此变成另一种技能：不是“这是不是一个好来源”，而是“这个来源是否存在，它是否真的说了答案所声称的内容”。
@@ -58,6 +64,8 @@ ai_assist:
 ## AI 如何使媒介素养复杂化
 
 媒介素养的奠基性问题假定有一个带着目的的制造者。深度伪造、声音克隆与自动化机器人以三种方式打破这一假定：制品可能没有人类作者，受众可能是合成的，而意图可能是对参与度的优化，而不是任何人所作的说服。
+
+**个性化论证是当前的劝说威胁模型。** [[salvi-conversational-persuasiveness-gpt4-2025|Salvi 等（2025）]] 把 900 名美国成年人随机分配到与人类或 GPT-4 进行的十分钟在线辩论中，无论是否提供六项普通人口统计字段。未个性化的 GPT-4 与人类对手在统计上无法区分，而个性化的 GPT-4 把辩论后达成一致的几率提高了 81.2%，并在 64.4% 的场次中更具说服力。参与者在约四场辩论中的三场识别出了 AI 对手，却在相信对手是 AI 时进一步转向，因此来源识别并没有起到免疫作用。这种操纵在行文中不可见：各条件之间的风格测量差异很小，可见优势来自选择了哪些论证，而不是如何写出它们。
 
 课程证据表明学校尚未跟上。专家访谈把[[teacher-education|教师培训]]描述为约束性的瓶颈，而不是学生的抵触，并主张采用一种 [[critical-pedagogy]] 框架，把评估当作伦理性的、参与式的实践，而不是工具培训。一份为公共服务媒体委托的报告发现，面向 14–19 岁青少年的供给偏向功能性 AI 技能，偏离批判性评估，尽管该报告综述了 40 多个框架并访谈了 35 位专家（[[ai-literacies-young-adults-2025|这份 AI 素养报告，2025]]）。
 
@@ -73,15 +81,28 @@ ai_assist:
 
 ## 这对实践意味着什么
 
-- **教一套程序，两个对象。** 那套可核查的例行程序——把主张追溯到来源，把来源追溯到作者，追问这件制品在做什么——对一条引文和对一段视频同样适用。指明作业评估的是哪一个对象。
-- **把检测当作证据，而不是裁决。** 检测器的输出是一个概率；教学生用第二种方法相互印证，并说出什么会改变他们的想法。
-- **把制作留在课程里。** 制作媒介曾是让批判变得具体的教学法；用 AI 生成只有在学生审视工具替他们作出的选择时，才能支持这一点。
-- **把图书馆员或媒介专家放进工作流。** 这一文献中最强的教学结果，来自一个把人的咨询内建进去、而不是事后提供的设计。
-- **在写教学大纲之前先评估员工能力。** 实测的缺口在设计与评估学习目标上，不在使用工具上。
+教师可以用同一套程序针对两个对象。把主张追溯到来源，把来源追溯到作者，然后追问这件制品在做什么。这套例行程序对一条引文和对一段视频同样适用，而作业应当指明它评估的是哪一个对象。
+
+教师可以把检测器的输出当作证据，而不是裁决。它只是一个概率，因此学生应当用第二种方法相互印证，并说出什么会改变他们的想法。
+
+课程设计者可以把制作留在课程里。在所综述的研究中，正是制作媒介让批判变得具体；而用 AI 生成只有在学生审视工具替他们作出的选择时，才能支持这一点。
+
+把构念作为表现而非态度来评分，薄弱之处就显现出来。在一项为期八周、28 名泰国本科生的 Code Craft 试验中，数字素养在三点量规上从 1.51 升至 2.82，但管理信息平均为 1.92、创造信息为 2.05，而与他人沟通与协作为 2.36（[[koraneekij-codecraft-computational-thinking-2026|Koraneekij 与 Khlaisang，2026]]）。最低的分数落在该构念的生产一侧，而一门止步于检索与评估的课程永远到不了那里。
+
+项目负责人可以把图书馆员或媒介专家放进工作流。这一文献中最强的教学结果，来自一个把人的咨询内建进去、而不是事后提供的设计。
+
+教师发展人员可以在院系撰写教学大纲之前先评估员工能力。实测的缺口在设计与评估学习目标上，不在使用工具上。
 
 ## 证据的局限
 
 这里多数研究样本小、基于[[self-report-measures|自陈]]，或两者兼有：一项调查中的 236 名学生，一次干预中的 36 名儿童，412 名图书馆员给自己打分。文献计量上的可见度不是实践，科学计量学的作者也明说如此。语料中没有任何研究评估一套合并的信息与媒介素养课程，而实践文献所推荐的检测与事实核查工具，在这些来源中基本未被测量。AI 驱动的核查改善结果这一主张，应当被当作一个设计假设，直到有人拿它对照控制组检验。
+
+## 常见误解
+
+- **检测器能一锤定音。** 检测器返回的是一个概率；应当用第二种方法相互印证，而不是把它当作答案键。
+- **两种素养是同一项技能的两个名字。** 它们的对象不同 —— 来源可信度对照作者身份与意图 —— 因此单一量规对两者都评不好。
+- **识别出 AI 就能对其免疫。** 在本文综述的最强劝说实验中，识别率很高，而朝 AI 立场的偏移仍在增长。
+- **图书馆员的能力会自动迁移到人工智能素养。** 员工缺口出现在设计目标（M = 2.70）与评估结果（M = 2.62）上，而不是在操作工具上。
 
 ## 关联概念
 
@@ -97,6 +118,7 @@ ai_assist:
 
 ## 关联文章
 
+- [[cerioli-human-centered-ai-literacy-schools-2026]] — iRAISE 的四国综述：194 个国家中有 84 个把媒介与信息素养超出技术技能写进课程，而四个系统中的结果都由人的因素决定（Cerioli 2026）
 - [[mirza-arif-ai-literacy-information-literacy-review-2026]] — Mapping the Integration of AI Literacy Into Information Literacy Instruction in Academic Libraries: A Systematic Review of Emerging Research
 - [[jabeen-lux-ai-information-literacy-scientometric-2026]] — How artificial intelligence is reshaping information literacy in academic libraries: A global Scientometric analysis (2020–2025)
 - [[lund-ai-information-seeking-chatbots-libraries-2026]] — Artificial intelligence (AI) and information seeking: A comparative exploration of AI chatbots, search engines, and library resources as information sources among university students
@@ -108,3 +130,6 @@ ai_assist:
 - [[critical-media-literacy-education-2026]] — Technology, education and critical media literacy: potential, challenges, and opportunities
 - [[demir-akar-ai-media-literacy-children-2026]] — Transforming clicks into critical thinking: An AI-based media literacy program for children
 - [[ai-literacies-young-adults-2025]] — Supporting AI Literacies for Young Adults Aged 14-19
+- [[salvi-conversational-persuasiveness-gpt4-2025]] — 个性化 GPT-4 击败了人类辩手；识别并未起到免疫作用（Salvi 等 2025）
+
+- [[koraneekij-codecraft-computational-thinking-2026]] — Code Craft：用于提升计算思维与数字素养的数字设计思维与学习平台

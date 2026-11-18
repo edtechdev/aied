@@ -1,19 +1,23 @@
 ---
 title: 项目反应理论
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 type: concept
 technology: [knowledge-tracing, student-modeling]
 assessment: [assessment-validity, educational-measurement, psychometrically-aware-ai]
 confidence: medium
 translation_of: concepts/item-response-theory
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -34,7 +38,7 @@ ai_assist:
 
 IRT 把能力（θ）和项目参数（难度、区分度，有时还有猜测）当作从作答模式中联合估计出来的，而不是把原始分数当作测量。这使得在共同量表上比较学习者、自适应地选题、逐人而非全局地估计精度成为可能。
 
-### IRT 在研究中的呈现
+## IRT 在研究中的呈现
 
 - **AI 预测的难度：**[[llm-item-difficulty-prediction|LLM 项目难度预测]]用语言模型估计项目难度，其估计必须对照经验拟合的 IRT 参数加以验证。
 
@@ -56,8 +60,9 @@ IRT 把能力（θ）和项目参数（难度、区分度，有时还有猜测�
 - **为持续演化的题库做分治校准：**[[bayesian-consensus-irt-item-banks-2026|Jewsbury 等（2026）]]把 IRT 重校准当作一个规模问题，而非拟合问题。当基于 AI 的命题和基于特征的参数预测使题库更大、更稀疏且持续更新时，每次更新都重新拟合全部作答历史的成本稳步上升；他们的*共识校准*改为每个时期只校准一次，并把新时期与已算出的较早后验合并。两个特征把它与现有 IRT 分治工作区分开：各时期不共享潜在度量，所以每个时期都通过一个稳健的 Haebara 准则链接到参照度量，而该准则*对每一个后验抽样分别求解*（把链接误差带进被链接的后验）；且每个时期都是自己的分层拟合、贡献一个估计出的先验，所以后验的朴素乘积必须把这个先验除掉、重新装入共识先验——在先验固定时退化为贝叶斯委员会机器规则。对照四个季度时期的 Duolingo 英语测验的合并基准，后验均值在 r = .998（难度）和 .991（对数区分度）上一致，后验 SD 在 r = .970 和 .920，留下轻微的欠分散（SD 比 0.91–0.98），在最低的每时期曝光三分位上最大。这就是为 AI 生成题库所造成的交付条件而重新工程化的 IRT 校准。
 - **IRT 极少作为工具验证的锚：**一项对[[teacher-role|教师]] [[ai-literacy|AI 素养]]工具的评价量化的是 IRT 的缺席而非其使用。[[assessing-teachers-ai-literacy-measurement-tools-2026|Zainal、Mohd Matore 与 Maat（2026）]]以改编自 COSMIN 和 Terwee 等（2007）的决策矩阵评定 33 种工具；结构效度很强，24 种（72.7%）通过 CFA、PLS-SEM 或 IRT 建模达到 A 级，却没有一种以 IRT 或 Rasch 作为其首要证据，只有五种工具（15.2%）报告了测量不变性或差异项目功能证据。作者主张在[[self-assessment|自我评价]]之外配合 IRT 和表现任务，以把已验证的能力与报告的信心区分开。
 - **一个替代联想性 IRT 的因果方案。**[[causal-modeling-competency-assessment-2026|Mangili 等（2026）]]论证 IRT 和贝叶斯网络学习者模型无法表达干预或反事实，转而从专家那里引出结构方程；在一个 109 名学生的自适应测试题组上，引出的模型预测性略差（−287 对 −277 检验对数似然），却支持关于求助的反事实查询。
+- [[ai-second-language-listening-speaking-assessment-2025|Goh 与 Aryadoust（2025）]]把限度推到了这一步：IRT 回答的是总体问题，而"作为学习的评估"问的是个体是否发生了变化，他们认为这需要潜在马尔可夫模型之类的个体化模型。
 
-### 关联
+## 关联
 
 IRT 是[[educational-measurement]]和[[assessment-validity]]的基石，支撑[[adaptive-learning]]（自适应选题）和[[student-modeling]]，并与[[psychometrically-aware-ai]]（与测量理论对齐的 AI 评价）和[[knowledge-tracing]]相连。它在[[llm-difficulty-calibration-programming-exams-2026|LLM 难度校准]]的编程评估中有所呈现。
 

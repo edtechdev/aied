@@ -1,7 +1,7 @@
 ---
 title: 教学法与教学策略
 created: "2026-08-19T17:45:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 connected_faqs: [designing-ai-into-learning]
 type: concept
 foundations: [ai-education, learning-design]
@@ -9,13 +9,17 @@ pedagogy: [pedagogy]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/pedagogy
-source_updated: "2026-11-07T13:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -58,6 +62,7 @@ ai_assist:
 - **教学法决定 AI 的效应。** 一个反复出现的发现是，AI *如何*被使用，与它 *是否*被使用同样重要。[[instructional-guidance-genai-learning|教学引导研究]]与[[generative-ai-guardrails-harm-learning|带护栏导学系统的随机对照试验]]表明，同一个 AI 会因教学法外壳（提示 vs. 答案、结构化 vs. 开放使用）而有害或有益。
 - **教学知识重于技术知识。** 在 46 名教师与 2,832 名学生中，教师的教学性 AI 知识预测了学生对"AI 向善"的认知与学习 AI 的意愿，而单纯的技术知识并不充分——两者都未能预测学生的 AI 知识（[[pedagogy-first-technology-second-teacher-knowledge-2026|Shen 等（2026）]]）。
 - **AI 最明确的贡献是卸载行政工作。** 一项对 28 项研究的 PRISMA 综述发现，AI 最常增强的是教学规划与[[assessment|评估设计]]，其被报告得最多的收益是评分、反馈与进度监控的自动化（18 项研究，64.2%）——而教学法对齐是被引用最多的挑战（14 项）（[[kibar-ilgaz-ai-instructional-design-review-2026|Kibar 与 Ilgaz（2026）]]）。
+- 一项覆盖 108 所学校的整群随机对照试验为这一主张划定了界限：Aila 把每周备课时间削减了 0.81 小时，课时覆盖率仅 7%，使用量在十周内持续下降，且未测量任何学生结果（[[roy-aila-lesson-planning-teacher-choices-2026|Roy 等（2026）]]）。
 **自动化与学习直接互相消长。** [[agentic-ai-pedagogical-best-practice-2026|Woollaston 等（2026）]]把六项教学法原则——[[prior-knowledge|先备知识]]激活、[[collaborative-learning]]、[[problem-based-learning]]、[[formative-assessment]]、[[scaffolding]]、[[metacognition]]——逐一走过，考察主动的智能体式能动性对每一项做了什么，论证智能体自动化得越多，学习者做的认知工作就越少，除非把摩擦、动态渐退与[[human-in-the-loop-ai|人的监督]]设计进去。
 
 - **反思是一种 AI 既促成又威胁的教学法。** 结构化提示、日志与[[eportfolio|作品集]]评注是经验转化为学习的机制，[[reflection]] 页面承载着相关证据。一项预注册实验发现，把反馈时间加倍的提示把练习量削减了 40%，却没有提升每题增益。对一位 AI 反思伙伴的编码审计发现，它违反了每一条行为指令，却没有留下可见痕迹。把提示设计在已完成的一次尝试之上，并要求留下轨迹，而不是一份打磨过的条目。
@@ -84,6 +89,8 @@ ai_assist:
 - **苏格拉底式与对话取向的策略**（[[socratic-method]]）瞄准的是高阶思维与推理——这类增益比技能增益更难测量，但对[[critical-thinking]]是核心的。
 
 一项关键的横贯发现，与本知识库的[[learning-gains]]研究一致：**策略对学习的影响，更多取决于它如何保全学习者的努力与生产性挣扎，而不是它带着哪个标签**——任何教学法，即便是"好的"教学法，如果 AI 被配置成绕开它本想调动的认知工作，也会失败（见[[cognitive-offloading]]、[[desirable-difficulties]]）。
+
+一个按照与线下课堂相同的七项循证实践打造的导学系统，表现胜过了那堂课：在哈佛大学的物理导论课中，194 名学生的中位学习增益是主动学习班的两倍多，且用时更短，作者把这一结果归功于按需的个性化反馈与自主节奏（[[kestin-ai-tutoring-outperforms-active-learning-rct-2025|Kestin（2025）]]）。
 
 学生—[[student-ai-interaction|AI 互动]]更可被读作一个认知分布的流动过程，而非固定不变的依赖：在一门跨学科[[engineering-education|工程]]课程的 53 段 ChatGPT 对话中，扩展（紧密的、迭代的共同思考）是最常见的互动类型，占 321 个提示级编码的 53.3%，高于外包的 29.6%（[[cognitive-distribution-student-genai-interaction-2026|Willcox、Lane 与 Arikan（2026）]]）。
 

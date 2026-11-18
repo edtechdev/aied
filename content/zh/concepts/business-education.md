@@ -1,7 +1,7 @@
 ---
 title: 商科教育
 created: "2026-08-20T09:05:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:15:06-05:00"
 type: concept
 foundations: [ai-education, curriculum-design]
 technology: [generative-ai]
@@ -9,13 +9,17 @@ discipline: [business education]
 level: [higher ed]
 confidence: high
 translation_of: concepts/business-education
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -35,7 +39,7 @@ ai_assist:
 
 商科教育中的 AI 是[[ai-education|AI in education]]（教育中的人工智能）中一条不断成长的[[discipline-specific-aied|学科特定]]线索。商学院必须让学生为生成式 AI 无处不在的未来职场做好准备，这既需要 AI 素养，也需要领域内的具体应用（金融、营销、管理、经济、创业）。研究凸显了把 AI 用作教学法与专业工具，与管理[[academic-integrity|学术诚信]]、[[ethics|伦理]]使用及[[assessment]]重设计之间的张力。
 
-## 知识库研究中的商科教育 AI
+## 商科教育 AI 研究
 
 - **以学生为据的框架。** [[drummond-genai-business-schools-framework-2026|Drummond 与 Dale（2026）]]提出了一个以学生为据的概念框架，用于在整个商科学位项目中整合 GenAI，基于一项 149 名英国学生的案例研究。学生高度投入，认识到职业所需的 GenAI 技能，并想在不无意间构成学术不端的前提下使用 AI。
 - **一项基于价值的战略分析，而非结果研究。** [[csaszar-ai-management-education-2026|Csaszar 等（2026）]] 把支付意愿与交付成本应用于 MBA 及相邻项目。AI 可能替代培训，也可能通过抬高判断、伦理与领导力的价值而补充培训；教学内容、方法与受众都尚未定论，而研究能力才是决定商学院被补充还是被取代的那个变量。
@@ -43,6 +47,7 @@ ai_assist:
 - **建构性对齐。** [[zhou-constructive-alignment-genai-business-2026|Zhou 等人（2026）]]分析了一家英国商学院的 17 个 GenAI 采纳案例，发现教学法收益与风险之间的平衡由**课程整合的程度**塑造——建构性整合带来更好的结果。
 - **学生视角下的课程。** [[rook-plumb-genai-curricula-student-insights-2026|Rook 与 Plumb（2026）]]依托一个顶点课程单元中的 166 名商科本科生，发现对把 GenAI 整合进课程有强烈支持，并列出三个优先领域：理解与优化 GenAI 功能、探索跨情境的应用、处理伦理与法律维度。
 - **从记忆到在模糊中判断。** [[shi-genai-experiential-learning-management-education-2026|Shi、Dai 与 Zhang（2026）]]为管理课程提出三种生成式 AI 机制——把经典理论对照真实文件拆解为假设与边界条件、在教科书版本之间追踪新兴案例，以及一个由 AI 角色生成颠覆性事件与级联后果的模拟。
+- **以实践智慧为组织目标。** [[heron-meekins-phronesis-hermeneutic-business-ai-2026|Heron 与 Meekins（2026）]]论证，AI 加剧了商科教育把产出信息当作理解证据的习惯，并提出 REVEAL——研究、检视、视角、投入、对齐、学习——作为一种诠释学启发式，把判断与问责留在学习者身上，同时把 AI 当作临时的对话者。
 - **机构采纳。** [[alrahmi-org-drivers-ai-adoption-he-2026|Al-Rahmi（2026）]]考察了[[higher-ed|高等教育]]中 AI 采纳的机构与技术驱动因素（使用 TOE + Diffusion of Innovations 框架，n=300 名教职工），与商学院及其所属机构如何采纳 AI 驱动的决策支持和智慧学习平台相关。
 - **商科[[simulation]]游戏中的对话智能体。** [[conversational-agents-business-simulation-gaming-2026|Wenzel、Geiger 与 Liening（2026）]]开发并评估了一个 AI 增强的[[conversational-ai|对话智能体]]（Lara），用于在商科模拟游戏中为体验式创业学习提供自适应教学支持。该 CAIS-GBL 框架立于[[equity-in-ai-education|公平]]优先的设计立场与[[universal-design-for-learning|通用学习设计]]之上，瞄准认知、[[motivation|动机]]、[[affective-computing|情感]]与[[sociocultural-learning|社会文化]]层面的[[student-engagement|参与]]，并在师范生与 BSG 参与者中的评估显示出对认知/[[community-of-inquiry|社会存在]]及[[self-regulated-learning]]支持的正面评价——这是在[[game-based-learning|模拟式]]商科教育中规模化[[formative-assessment|形成性]]反馈的一个样板。
 - **面向复杂应用任务的智能体式 GAI。** [[ilieva-agentic-genai-higher-education-2026|Ilieva 等人（2026）]]围绕一门**电子商务**课程开发了 AGAI-HE 框架，其学习任务要求比较商业模式、权衡市场与运营约束、为战略建议辩护——这类多步应用工作是"提示—回应"式聊天机器人支持得很差的。他们 130 名学生的感知研究发现，聊天机器人与智能体支持在学习提升、个性化、决策支持与工作流组织上都高于传统[[online-teaching-and-learning|在线学习]]，但智能体与聊天机器人之间无显著差异，而最强的认可落在三者结合上。对商科项目而言，其读法是：采纳是一个关于 AI 支持如何排序与治理的[[curriculum-design|教学设计]]问题，而不只是工具升级（[[agentic-ai]]）。
@@ -54,11 +59,11 @@ ai_assist:
 
 ## 经济与管理教育
 
-商科教育中的 AI 横跨**经济学**与**管理学**两个核心学科。知识库的覆盖集中于教学法与课程维度（AI 如何在商科项目中教与被使用）以及职业就绪维度（让学生为 AI 整合的职场做准备）。关键主题包括[[ai-literacy|AI 素养]]、[[generative-ai|生成式 AI]]在商业职能中的应用、[[ethics|伦理]]与[[academic-integrity|诚信]]考量，以及[[curriculum-design|课程]]与[[assessment]]重设计，以反映 AI 整合的专业实践。
+商科教育中的 AI 横跨**经济学**与**管理学**两个核心学科。研究集中于教学法与课程维度（AI 如何在商科项目中教与被使用）以及职业就绪维度（让学生为 AI 整合的职场做准备）。关键主题包括[[ai-literacy|AI 素养]]、[[generative-ai|生成式 AI]]在商业职能中的应用、[[ethics|伦理]]与[[academic-integrity|诚信]]考量，以及[[curriculum-design|课程]]与[[assessment]]重设计，以反映 AI 整合的专业实践。
 
 ## 为什么商科教育中的 AI 重要
 
-商科是生成式 AI 采纳最快的领域之一，因此商学院面临让学生为 AI 整合职场做好准备的紧迫压力。研究强调，有效的整合是**课程驱动且以学生为据的**——不只是加几个 AI 工具，而是重新设计项目，使 GenAI 素养、伦理判断与真实应用贯穿学位结构。这使商科教育与知识库关于[[ai-literacy|AI 素养]]、[[teacher-role|教师]]准备、[[assessment]]重设计与 AI 时代[[curriculum-design|课程]]改革的更广泛主题相连。
+商学院与其毕业生所进入的劳动力市场距离很近，因此当生成式 AI 在企业中的采纳飞速推进时，项目设计必须对此作答。研究强调，有效的整合是**课程驱动且以学生为据的**——不只是加几个 AI 工具，而是重新设计项目，使 GenAI 素养、伦理判断与真实应用贯穿学位结构。这使商科教育与知识库关于[[ai-literacy|AI 素养]]、[[teacher-role|教师]]准备、[[assessment]]重设计与 AI 时代[[curriculum-design|课程]]改革的更广泛主题相连。
 
 案例与模拟是离这一文献最近的教学形式，但管理学证据并没有分离出一次案例本位干预；案例教学法及其限度见 [[case-based-learning]]。
 
@@ -92,6 +97,7 @@ ai_assist:
 - [[stem-education]]
 
 ## 关联文章
+- [[heron-meekins-phronesis-hermeneutic-business-ai-2026]] — REVEAL：商科教育中实践智慧的诠释学启发式（Heron & Meekins 2026）
 - [[ai-decision-checkpoints-bpm-education-2026]] — AI 增强业务流程管理的 AI 决策检查点：框架与教学实例化
 - [[csaszar-ai-management-education-2026]] — AI 对管理教育的影响：一项基于价值的战略分析（Csaszar 等 2026）
 

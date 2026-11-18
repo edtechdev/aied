@@ -1,7 +1,7 @@
 ---
 title: 神经多样性
 created: "2026-08-12T21:20:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:15:00-05:00"
 type: concept
 ethics: [equity-in-ai-education, inclusive-learning, neurodiversity]
 connected_faqs: [ai-guidance-children-under-13, ai-disabled-neurodivergent-learners]
@@ -9,13 +9,17 @@ audience: [learners, instructors, instructional designers]
 level: [special education, higher ed, k 12]
 confidence: high
 translation_of: concepts/neurodiversity
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -82,6 +86,8 @@ ai_assist:
 
 神经多样性连接到[[special-education]]、[[inclusive-learning]]、[[universal-design-for-learning]]与[[equity-in-ai-education]]。它为AI如何被部署以服务[[student-experience]]、以及评估和素养项目如何设计得在认知变异性上公平，两者都提供信息。关于这些发现如何与其他学习者群体 —— 语言、性别、社会经济地位、地理 —— 并列，见[[differential-effects-across-learner-groups|不同学习者群体间的差异效应]]。
 
+[[deep-adhd-ai-cognitive-emotional-ethical-2026|Deep、Ghosh 与 Natoli]]对 28 项关于面向 ADHD 大学生的人工智能研究的综述，把证据分为支持、预测与伦理三类。预测是最薄的一环：一个瞳孔测量模型达到 AUROC 0.856，而一个 SVM 分类器只达到 66.1 至 68.8% 的准确率，低于临床可用水平。执行功能的权衡是这里的伦理核心——一个替代某项要求的工具，也可能吸收掉本可培养该项能力的练习（[[executive-function|执行功能]]）。
+
 ## 常见误解
 
 - **"神经多样性研究只是 [[ai-education|AIED]] 的一个小众角落。"** 该领域已**围绕[[generative-ai|生成式 AI]]重新组织：40 项研究中有 15 项**，沉浸式形式以 11 项居次。文献是随技术移动的，而不是围绕稳定的问题累积起来的。
@@ -101,6 +107,7 @@ ai_assist:
 - [[generative-ai]]
 - [[cognitive-offloading]]
 - [[student-modeling]]
+- [[executive-function]]
 
 ## 关联文章
 
@@ -117,3 +124,4 @@ ai_assist:
 - [[tactile-statistical-graphs-accessibility]] — 面向无障碍的触觉统计图表
 - [[ai-learning-tools-engineering-education-needs]] — 设计需求感知与注意感知的 AI 学习工具
 - [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — 检测驱动的流程会阻碍合法的 accommodations 使用
+- [[deep-adhd-ai-cognitive-emotional-ethical-2026]] — 28 项关于面向 ADHD 学生的 AI 研究，并点明其中的伦理问题

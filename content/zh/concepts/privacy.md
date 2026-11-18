@@ -2,7 +2,7 @@
 connected_resources: [drawsplat]
 title: 隐私
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-08T13:17:17-05:00"
+updated: "2026-11-18T03:03:18-05:00"
 connected_faqs: [equity-ethics-pedagogical-safety-research, ai-guidance-children-under-13, institutional-ai-policy]
 type: concept
 technology: [learning-analytics, personalized-learning]
@@ -11,7 +11,7 @@ level: [k 12]
 confidence: high
 institutions: [educational-policy-ai, governance, regulation]
 translation_of: concepts/privacy
-source_updated: "2026-11-08T13:09:43-05:00"
+source_updated: "2026-11-16T05:34:25-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -22,6 +22,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -34,7 +38,7 @@ ai_assist:
 - 什么学生数据会让你即使它能改善你的学习，也不愿被收集？个性化在何处变成监视？
 - 许多学生“没有有意义的选择”而只能使用被指定的平台，使同意流于名义。你可曾同意过某件事却不真正理解收集了什么、为何收集？真正的知情同意需要什么？
 - 同一份驱动自适应个性化学习的学习者数据，也带来误用与伤害的风险。你能说出一个你愿意为之让渡某些隐私的个性化益处 —— 以及你不愿跨越的界线吗？
-- 本页警告，隐私保障可能“默认只保护某些学习者”。哪些学生可能最暴露，隐私又如何连接到公平与[[bias-mitigation|公正]]？
+- 隐私保障可能“默认只保护某些学习者”。哪些学生可能最暴露，隐私又如何连接到公平与[[bias-mitigation|公正]]？
 - 持续的 AI 监控 —— 即便出于善意 —— 也能塑造行为与[[anxiety-and-stress|焦虑]]。被注视何时改变了你的行为，这对课堂 AI 感知意味着什么？
 - 对儿童而言，隐私延伸到数据保护之外的安全。为什么通用安全工具可能漏掉来自未成年人的、与教育相关的风险，谁又应当在场？
 
@@ -70,6 +74,8 @@ ai_assist:
 
 - **聊天界面泄露对话本身。** 在审计 42 个 AI 聊天平台之后，[[bekos-contextual-leakage-ai-chat-platforms-2026|Bekos 等（2026）]]发现 21 个平台把对话标题发送给第三方追踪器，七个教育平台平均每个约有 367 次追踪器请求，其中五个泄露了上下文。
 
+- **胜任力与权限各自失效。**一项关于学习者数据保护的“假设与理论”框架指出两类对比鲜明的失效：教师意识到隐私问题，却缺乏行动的权限或经批准的可替代方案；而机构提供了受保护的服务，教师却披露了不必要的信息，或接受了缺乏支持的推断（[[kaziya-learner-data-privacy-governance-2026|Kaziya 与 Lungu（2026）]]）。该框架把每一次收集、传输、推断或披露学习者数据的决定作为分析单元，将已展现的胜任力与机构层面的使能分别度量。
+
 ## 儿童安全与 K-12 保护
 
 [[k-12|K-12]]情境要求更强的隐私保障，因为学习者未成年。这使隐私延伸到数据保护之外的[[pedagogical-safety|教学安全]]：儿童使用的工具必须不只保护他们的数据，还要保护他们免受伤害。[[child-safety-genai|儿童安全研究]]表明，通用安全分类器常常漏掉来自儿童、与教育相关的不安全提示，警告学校不能假定标准模型保障能保护较年幼的用户 —— 他们需要儿童特定的评价、基于事件的测试，与[[human-in-the-loop-ai|人工监督]]。这一框定把隐私连接到[[equity-in-ai-education|公平]]：默认安全与隐私实践保护了谁，反映了一个系统把谁的安全与自主视为不可谈判。
@@ -79,6 +85,10 @@ ai_assist:
 - **把隐私当作设计要求，而非政策事后补记。**[[teachlm-post-training-llms-education|TeachLM]]的例子表明，同意、匿名化与安全的数据处理可以被建入数据流水线本身 —— 这是合乎伦理地来源那些使[[intelligent-tutoring|AI 导学系统]]有效的真实数据的模型。
 
 - **为数据最小化而设计。**偏好只收集调适所需之物的路径（边缘/联邦式 AI、设备端处理），而非默认囤积交互数据。**[[privacy-preserving-multi-llm-federated-cognitive-diagnosis-2026|Boyapati 等（2026）]]**为[[cognitive-diagnosis|认知诊断]]展示了这一点的一种具体联邦式形式：多个商业[[llm|大语言模型]]API 协作诊断，同时在聚合前于本地对每个模型的预测加入 ε-局部差分隐私噪声，使没有供应商看到原始学生数据 —— 这是一种隐私保全的架构，在不集中敏感学习者轨迹的同时保持[[intelligent-tutoring|AI 导学]]可用。联邦式学习还使**跨机构分析无需数据共享**成为可能：**[[villegas-ch-federated-explainable-learning-analytics-2026|Villegas-Ch 等（2026）]]**经联邦聚合跨机构训练一个多任务学业风险模型，使原始学习者数据留在本地、只有模型参数被共享 —— 这是集中式[[learning-analytics|学习分析]]的一种协作式、隐私保全的替代方案，在捕捉跨机构模式的同时保持数据主权。
+
+- **移除身份，而不是管理身份。**[[intelligent-tutoring|AI Tutor Pro]]的设计使学生无需账户、也不留下任何画像：其隐私模型是一项设计选择，直接消除身份风险，而非在事后加以治理（[[owston-ai-tutor-pro-pedagogy-privacy-trust-2026|Owston，2026]]）。多数隐私建议要求机构去审计、最小化并取得同意；这是一种成本更低的结构性替代方案，适用于任何无需知道学习者是谁的工具。
+
+- **先选定租用环境，再谈教学法。**Wells（2026）在一门社会学研究助理试点中使用大学授权的 Copilot 而非公共聊天机器人，使学生作业留在机构的 Microsoft 365 环境之内，并以一个五单元培训模块与一份五项、及格线 80% 的测验作为访问门槛（[[wells-genai-research-assistant-sociology-2026|Wells（2026）]]）。隐私控制与能力门槛作为同一项部署决定一同落地。
 
 - **确保明确、知情的同意。**在学习者数据用于 AI 开发或改进之处，机构应透明说明收集、存储与使用 —— 且学生应有真正的选择，而非被指定的平台。
 
@@ -129,3 +139,5 @@ ai_assist:
 - [[agarwal-ethical-values-norms-aied-2026]] — AI 教育的伦理价值与规范
 - [[harerimana-remote-proctoring-nursing-scoping-2026]] — 监考系统捕捉了什么，以及隐私文献在证据基础中的缺席
 - [[edtech-privacy-deferral-2026]] — 《We'll Fix It Later》：教育、AI 与 EdTech 中学生隐私的延迟
+- [[kaziya-learner-data-privacy-governance-2026]] — 把教师的隐私胜任力与机构采取行动的权限分离开来的框架
+- [[wells-genai-research-assistant-sociology-2026]] — 以机构授权的租用环境加一道认证门槛作为隐私设计

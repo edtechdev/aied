@@ -1,7 +1,7 @@
 ---
 title: "开放教育"
 created: "2026-10-28T20:30:00-04:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-18T03:10:30-05:00"
 type: concept
 technology: [open-source, generative-ai]
 pedagogy: [active-learning, collaborative-learning]
@@ -13,13 +13,17 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [okstate-ai-oer-case-studies-doers-2026]
 translation_of: concepts/open-education
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-17T18:50:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: translation
     date: "2026-10-28"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -43,13 +47,13 @@ ai_assist:
 
 因此，本知识库中 AI 时代的文献同时谈三件事：资源、实践，以及当生成近乎免费时两者是否都还能存续。就资源而言，问题是：谁制作、谁许可，AI 写的东西算不算。就实践而言，问题是：开放教学法对学生要求什么，以及它是否教给了他们任何可测量的东西。
 
-### 开放究竟覆盖了什么
+## 开放究竟覆盖了什么
 
 开放教育资源是在允许再利用、修订、改写与再分发的许可下发布的内容。这一领域其余的一切都处于这项许可、以及为其署名之义务的下游。[[gonzalez-miy-active-learning-mentoring-ai-oer-2026|González Miy（2026）]]展示了一个小项目里这项义务的样子：11 名参与者在线上工作两周，产出一个 6 页的网站、一个[[conversational-ai|聊天机器人]]、一本手册与 5 个视频教程，以 CC BY-NC-SA 发布；成品的资源包在透明性上得分很高，而在许可、可复现性、可适配性与可访问性上只得中等。名义上开放，使用上部分开放。
 
 许可文献之所以细密，是因为失败也细密。[[ryu-developing-ai-literacy-oer-2026|Ryu（2026）]]依据一个目的抽样的语料——16 篇核心论文、17 篇扩展论文与 36 条定向参考文献——为评审开放许可的 AI 素养材料构建了一套 7 原则评分标准。[[atenas-oer-digital-public-goods-2026|Atenas、Farrow、Caldwell、Costello 与 Havemann（2026）]]主张，治理的单位应当从资源移到承载资源的基建设施，因为一堆没有受维护平台支撑的单个文件构成的公地，是碎片化问题而不是公地。
 
-### 生成成本崩塌与数字公共产品的转向
+## 生成成本崩塌与数字公共产品的转向
 
 课程生产是变化已经可测量的地方：[[mooc-to-maic|MAIC]]报告，在 [[llm]] 驱动的[[agentic-ai|多智能体]]生成之下，[[online-teaching-and-learning|MOOC]] 的生产从每门课程约 \$25,000 与 60 小时，跌到不足 \$2 与 30 分钟。如果生产成本趋近于零，"OER 省钱"的论证就失去力量，剩下的只是许可自由、可验证性与质量保证。
 
@@ -59,7 +63,7 @@ ai_assist:
 
 开放的制度理由也从自主性一面提出。[[panda-editorial-digital-transformation-open-education-2026|Panda（2026）]]在一篇社论中主张，开放与灵活学习中的数字化转型是教学转型而非技术采纳，一项技术只有与本地语境中恰当的教学法相契合时才赢得可信度。[[rodes-paragarino-oer-generative-ai-framework-2026|Rodés-Paragarino 与 Atenas（2026）]]把它变成一套 7 支柱框架，用于 OER 与生成式 AI 的负责任整合，其构建依据是文献分析加上专家验证，以及 2025 年 12 月在毕尔巴鄂与 81 名参与者共同进行的参与式工作坊。
 
-### 开放教学法与实践转向
+## 开放教学法与实践转向
 
 开放教学法把学生从消费者变成贡献者：一份作业产出某种被发表、被许可、可再利用的东西。[[clinton-lisell-open-pedagogy-ai-tools-2026|Clinton-Lisell（2026）]]提供了这一理念在本领域最干净的检验。一门[[early-childhood-elementary-ai-education|儿童发展]]入门课程的两个班更新同一本教材，其中一个班使用生成式 AI 工具。在 113 份作业中，两个班的学生都报告[[information-and-media-literacy|信息素养]]技能有所增长，且这一增长在两者之间统计上无法区分：时间效应为 F(1, 84) = 47.30, p < 0.001, partial η2 = 0.36，而时间与班级的交互为 F(1, 84) = 0.04, p = 0.85。AI 班完成的工作更多，得分略低，180 分制下为 174.73 对 173.86。
 
@@ -67,7 +71,9 @@ ai_assist:
 
 另外两项研究显示实践层多快会变成治理层。[[patino-ai-international-cooperation-open-education-2026|Patiño、Martínez-Pérez、Ramírez-Montoya 与 Miranda（2026）]]记录了一次 UNESCO 与 ICDE 的驻留项目：来自 13 个国家的 110 名参与者、10 个团队；但他们的调查基础是来自 54 所机构的 72 份回答，且未给出应答率，对于一份瞄向联合国 2030 议程的路线图来说，这是薄弱的支撑。而[[guo-teachers-ai-literacy-open-education-practices-2026|Guo、Lu 与 Gao（2026）]]调查了中国 30 个省的 512 名教师，考察 AI 素养是否转化为开放教学实践，发现经由创新行为的中介路径在机构支持低时为 0.218，在支持高时降到不显著的 0.042。
 
-### 公平、可持续性与全球南方
+许可问题正是开放实践与[[generative-ai|生成式AI]]在该领域相撞之处。[[jordan-faculty-ai-oer-creation-2025|Jordan 等（2025）]]付酬给七位教师，让他们在一个为期八周的同期项目中用 ChatGPT 制作开放材料，结果发现该项目的产出本身无法承载知识共享许可：模型生成的文本进入公有领域，而许可所需要依附的作者身份并不存在。他们主张把受许可的层与模型生成的层分开。第二种做法把模型留在课程之内：[[powell-chatbot-enhanced-oer-composition-2026|Powell 等（2026）]]在一本开放教材及其课程文件上训练了一个写作助手，使助手延伸该资源而非取代它；而[[beznosko-local-ai-rag-physics-oer-2026|Beznosko 等（2026）]]在本地硬件上展示了同样的动作，从教师材料生成测验，而不把任何东西发送给供应商。
+
+## 公平、可持续性与全球南方
 
 开放内容的[[equity-in-ai-education|公平]]论证是最古老的一个：没有价格的资源不会因价格而被排除在外。它也是最容易被断言、最少被检验的一个。AI 时代的版本更为谨慎。Atenas 及其同事把 OER 框定为边缘化社群以及有意义地参与数据收集的杠杆，同时警告过度依赖生成资源有贬低人类[[creativity|创造力]]与判断的风险。Tlili 及其同事点出了生成削弱这根杠杆的机制：翻译错误、训练数据偏差，以及一个[[hallucination-risk|幻觉]]循环——生成的内容被回收进训练下一个模型的语料。
 
@@ -75,7 +81,7 @@ ai_assist:
 
 [[global-south|全球南方]]这一维度是证据最稀薄的地方。本批次的非西方案例真实但很少：一次拉丁美洲的合作驻留、中国开放大学的教师，以及把基础设施框定为参与前提的一种思路。开放会自动重新分配能力这一主张，并未得到这些研究的支持，其中若干篇自己就这么说。
 
-### 写作与推荐系统同论证相遇之处
+## 写作与推荐系统同论证相遇之处
 
 本批次有两篇论文谈的是生产系统而非政策。[[peng-personalized-recommendation-oer-2026|Peng（2026）]]为 OER 开发了一个混合深度推荐器，在 2,400 条交互记录上报告 93.6% 的准确率、92.5% 的精确率、91.0% 的召回率与 90.2 的 F1 值。它自己的对比表显示，BERT4Rec 基线在召回率相同的情况下 F1 为 90.8，而数据集一节把用户数、条目数与稀疏度留作占位符。建模上的主张是克制的；这个模式却似曾相识——相对一个强基线的改进，比标题所暗示的要小。
 
@@ -113,6 +119,9 @@ ai_assist:
 
 ## 关联文章
 
+- [[beznosko-local-ai-rag-physics-oer-2026]] — 用本地 AI 与 RAG 生成开放教育材料的物理教学方法（Beznosko 等，2026）
+- [[powell-chatbot-enhanced-oer-composition-2026]] — 会回话的文本：异步 Composition II 课程中由聊天机器人增强的 OER（Powell 等，2026）
+- [[jordan-faculty-ai-oer-creation-2025]] — 从提示到实践：一项以教师为中心、探索 AI 支持 OER 创作的倡议（Jordan 等，2025）
 - [[tlili-double-edged-sword-oer-generative-ai-2026]] — 生成式 AI 进入生产之后 OER 的五种框定（Tlili et al. 2026）
 - [[atenas-oer-digital-public-goods-2026]] — 作为数字公共产品的 OER 与受治理基础设施的论证（Atenas et al. 2026）
 - [[deimann-rethinking-openness-ai-2026]] — 25 年的开放为何让教育中层的制度原封不动（Deimann and Lukács 2026）

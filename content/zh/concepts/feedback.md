@@ -2,19 +2,23 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: 反馈
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:03:18-05:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
 confidence: high
 translation_of: concepts/feedback
-source_updated: "2026-11-05T21:30:00-05:00"
+source_updated: "2026-11-15T09:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -91,6 +95,8 @@ AI 在三个有影响的方向上改变反馈，每一个都提高了其他侧�
 
 - **角色感知的反馈。**[[yasar-llms-iterative-pedagogical-design-2026|Yaşar 等人（2026）]]表明，[[prompt-engineering|提示]]同一个 LLM 以不同角色——教师、同伴审稿人、基金评审人——评估同一件学生作品，会产生性质上截然不同的反馈：教师式的鼓励且面向过程，同伴式的支持且对话式，基金评审人式的正式且面向结果。这些差异是认识上的，而非仅是风格上的，凸显了设计实践的不同侧面——证明角色感知的提示可以生成对角色敏感的评估性反馈，而非单一的泛泛回应。
 
+- **分工依阶段而异。**在一项随机的设计思维实验中，生成式 AI 反馈在"共情"阶段带来更大的收益，因为学生看重及时性与[[privacy|隐私]]；而教师在"原型"阶段带来的收益更大，因为情境锚定更重要（[[fei-hybrid-intelligence-feedback-design-thinking-2026|Fei，2026]]）。
+
 - **教师的反馈可以用实证方法归为十类。**[[lee-feedback-taxonomy-math-data-mining-2025|Lee 等人（2025）]]由六名专家编码者对 100 条教师就中学数学开放性回答撰写的反馈信息进行编码。
 对 108 个非空变量做 Promax 旋转的 12 因子最小秩因子分析，并用轮廓系数选取 K 均值聚类，得到 10 个类型——直接订正、针对性肯定、提示、非言语肯定、反问、展示过程、泛泛评论、直接批评、示例演示与非特定性积极评价。
 在最大的几个类簇中，出现次数分别为 26、16、4、2 与 1。
@@ -130,11 +136,17 @@ AI 在三个有影响的方向上改变反馈，每一个都提高了其他侧�
 
 知识库的核心反馈洞察是，**反馈质量与反馈素养是同一个系统的两面**：高质量反馈若没有有素养的接收者就是惰性的，而有素养的学生从拙劣的反馈中也获益甚微。[[ai-feedback-quality]]覆盖提供侧（反馈是否准确、及时、可操作？），[[feedback-literacy]]覆盖接收侧（学生能否评判并据以行动？）。连接两者的是反馈回路——即高质量反馈被有素养的学习者接收、从而弥合差距的机制。因此，设计有效的 AI 反馈意味着同时设计系统与学生。
 
+[[corbin-recognition-feedback-2026|Corbin、Tai 与 Flenady（2026）]]把相互承认置于这一配对之下：每一方都必须先给予对方以地位，质量或素养才得以运作，因此同一条评语会引导一名学生，却在另一名学生那里消失。
+
 哪些学生侧的能力重要，在经验上是可分的：在 1,507 名各自就一篇论证作文收到一条标准化自动反馈信息的中学生中，只有对反馈的行为性投入与工具性态度能预测修改表现——在任一维度上处于第 75 百分位的学生，比第 25 百分位的可比学生多改进约 0.10 或 0.11 个 WLE 点，大致相当于第 46 到第 54 百分位——而总体接受度、认知投入与经验性态度与之无关，且[[technology-acceptance-model|感知有用性]]没有中介任何维度通往表现的路径。有用性作用于另一个结果：总体接受度对情境兴趣的效应完全通过感知有用性实现（间接 β = 0.09，95% CI [0.06, 0.13]），因此修改收益追踪的是据反馈行动的持久习惯，而兴趣追踪的是对特定信息的评价。（[[jansen-argumentative-writing-feedback-receptivity-2026]]）
 
 一个来源可以在"如何校准"上不同，而不必在"评分多准"上不同：在一项随机实验中，思维链 AI 反馈在评分量规质量上胜过一位资深教师，却没有带来更大的修改收益，而教师的反馈跨草稿保持校准，生成式 AI 反馈则追踪初稿的强弱（[[farrokhnia-genai-feedback-student-revisions-2026|Farrokhnia 等人（2026）]]）。
 
+学生关于来源的信念会改变他们拿同样的文字做什么。在一项三条件实验中，148 名成年人收到由同一个模型就其自己的 p5.js 代码撰写的反馈，标注为 AI 生成或已由助教审阅，递送时间固定为 60 秒。那些相信自己作业被人读过的参与者留在任务上的时间更长（948 秒对 741 秒，d = 0.61），教程窗口保持聚焦的时间也更长（850 秒对 662 秒，d = 0.56），而有用性评分没有变化，代码质量也没有提升。被标注为人类的那一组中近半数并不相信该标签，这些参与者写出的程序比公开标注为 AI 的那一组更短、更简单。来源可信度是接收的一部分，而且很脆弱：被错误归属的来源可能使投入度低于如实披露（[[morris-same-feedback-different-source-2026|Morris 与 Maes，2026]]）。
+
 一个双层模型展示了这种配对如何围绕机器组织，而又不把判断委托给它。在[[ai-agents-joyful-assessment-third-space-2026|El Khoury 与 Ma 的示例]]中，一个[[agentic-ai|智能体]]对每份成绩单生成一份基于评分量规的草稿证据报告，每个评分都附有引文摘录，然后教师审阅该报告、主持汇报，并决定证据对这名学生意味着什么——作者把这一分工总结为：AI 组织证据，教师解释证据。他们关于接收的主张是评价性的：发生在学生与同伴、教师所处的社会等级之外的反馈与迭代更容易尝试，而按学生自己的节奏排练，正是他们认为把偶然的信心变成据反馈投入的稳定习惯的东西。
+
+**接收能力制约 AI 反馈能带来什么。**在 486 名 EFL 学生中，AI 反馈使用与自主性之间的关联，在建模的 AI 素养均值以上一个标准差处为 0.48，在其以下为 0.23，并延伸出一条通往深度认知投入的 0.10 序列间接路径（[[he-ai-feedback-deep-engagement-efl-2026|He 等人（2026）]]）。
 
 ### 为什么反馈对教育中的 AI 重要
 
@@ -146,6 +158,14 @@ AI 在三个有影响的方向上改变反馈，每一个都提高了其他侧�
 - **"语气只是反馈质量的细节。"**在它所对照的基准里，语气跟着给它的那个数字走：每一个被告知一个与作业相矛盾的分数的大模型，写出的反馈语气都随该分数变化，而在 **22 个中的 8 个**里，每一分的偏移量达到或超过了随作业质量变化的偏移量。只有语气规则经过训练有素标注者的验证，且仅基于 **1,655** 条导师回复，因此实质内容并未被测量。[[porcaro-ai-grading-benchmark-2026|依据错误分数撰写反馈的评分器，会把错误洗成赞扬或批评]]。
 
 **反馈可以从过程而非产品中生成。**在[[xian-process-visualization-feedback-news-translation-2026|Xian 等人（2026）]]中，一组收到关于自己击键与屏幕活动的个性化[[visualization|可视化]]并配以结构化反思，另一组收到教师就准确性、清晰度与编辑质量撰写的书面评语。过程组在盲评的 0–100 编辑质量评分上提高 5.64 分，产品组为 1.91 分，组别与时间的交互显著（F(1, 20) = 4.94, p = 0.038, partial eta squared 0.198），对照组自身的提升不显著（p = 0.123）。每组 11 名学生，意味着方向本身就是发现，而不是幅度。
+
+- **对 AI 反馈的需求可以衡量稀缺，而非偏好。**在一门关于评分的荣誉课程中，学生欢迎 AI 生成的反馈，主要是因为他们收到的教师反馈太少，而不是因为他们判定它更好，并且他们希望这种反馈由教师的判断加以限定（[[guberman-control-or-support-grading-2026|Guberman，2026]]）。
+
+- **经人工审核的 AI 反馈改进了修改，但没有改进后测学习。**在一项涉及 354 名本科生与 1,366 篇作文的随机试验中，AI 介导的助教反馈提升了修改质量（Cohen's d = 0.50），而后测分数持平，且随着助教采纳更多建议，这一收益有所增大（[[lu-ai-mediated-feedback-feedbackwriter-rct-2026|Lu 等人，2026]]）。
+
+两项新研究收窄了 AI 反馈所能宣称的范围。在 391 名德国中学生中，教师撰写与 LLM 反馈之间没有任何结果存在显著差异：修改、后续写作、任务时间与感知在统计上无法区分。贝叶斯后验在后续写作（.80）与情感（.90）上偏向教师反馈，其中四分之一到五分之二的质量落在等价区间内。仅即时 AI 反馈被评为更有用、更有激励性（[[meyer-teacher-ai-feedback-writing-2026|Meyer 等人，2026]]）。在一项为期八周、涉及 247 名本科生的研究中，感知到的反馈质量预测了能力（β = 0.52）、自主性（β = 0.44）与关联感（β = 0.28），这把部分效应定位在反馈如何被体验上，而不只是其准确性（[[liu-ai-feedback-motivational-pathways-2026|Liu 等人，2026]]）。
+
+二语（L2）综合为这一层级提供了一个实证锚点。在 48 项受控研究中，作为反馈与评估提供者部署的生成式 AI 产生了最大的效应（g = 1.15，剔除离群值后降至 g = 0.83），超过其作为互动伙伴（g = 0.81）或教学整合者（g = 0.28）的用法（[[zhang-genai-l2-learning-meta-analysis-2026|Zhang 等人，2026]]）。
 
 ## 常见误解
 
@@ -175,6 +195,11 @@ AI 在三个有影响的方向上改变反馈，每一个都提高了其他侧�
 
 ## 关联文章
 
+- [[morris-same-feedback-different-source-2026]] — 同样的反馈、不同的归属来源：努力程度随所相信的人类作者身份上升，质量则没有
+- [[meyer-teacher-ai-feedback-writing-2026]] — 391 名德国学生：任何结果上均无显著差异；吸引更好评价的是即时性而非作者身份（Meyer 等人，2026）
+- [[liu-ai-feedback-motivational-pathways-2026]] — 247 名本科生：感知到的反馈质量预测了能力、自主性与关联感（Liu 等人，2026）
+- [[lu-ai-mediated-feedback-feedbackwriter-rct-2026]] — 经人工审核的 AI 反馈提升了修改质量（d = 0.50），但没有提升后测分数（Lu 等人 2026）
+- [[guberman-control-or-support-grading-2026]] — 学生欢迎 AI 反馈，是因为反馈稀缺，而不是因为它更好（Guberman 2026）
 - [[humburg-scistory-ai-supported-inquiry-science-learning-games-2025]] — 跨修改重复自身的智能体反馈（Humburg 等人 2025）
 - [[jansen-argumentative-writing-feedback-receptivity-2026]] — 论证写作中的自动反馈：中学生反馈接受度与反馈感知的作用
 - [[ai-agents-joyful-assessment-third-space-2026]] — AI 智能体、愉快的评估与第三空间
@@ -231,4 +256,5 @@ AI 在三个有影响的方向上改变反馈，每一个都提高了其他侧�
 - [[porcaro-ai-grading-benchmark-2026]] — 超越一致性：22 个被提示的评分器面对答案已知的探针，其中大多数可以被说动（Porcaro 2026）
 - [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — AI 与教师反馈在修改质量上相当，在动机上不相当（Liu & Shi 2026）
 - [[xian-process-visualization-feedback-news-translation-2026]] — 由击键与屏幕痕迹生成的反馈胜过书面产品评语，每组 11 人
+- [[zhang-genai-l2-learning-meta-analysis-2026]] — 三层元分析：生成式 AI 通过反馈与学习者主导的设计起作用，而非作为一种统一的干预（Zhang 等人 2026）
 

@@ -1,7 +1,8 @@
 ---
 title: 自动作文评分
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:06:30-05:00"
+connected_resources: [moodle-qtype-aitext]
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai, llm, prompt-engineering]
@@ -10,13 +11,17 @@ discipline: [writing education]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/automated-essay-scoring
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -47,6 +52,11 @@ ai_assist:
 **基于提示的 AES** 已成为最可及的方法。**[[choi-anchor-aes-prompting-2025|Choi 等的范文研究]]**表明，在提示中纳入范文可使 LLM 与人的一致性接近人与人之间的信度，其中 GPT-4o mini 以更低的成本取得了与 GPT-4o 可相比的结果。这与更广泛的[[prompt-engineering]]研究相连，并使 AES 对[[teacher-role|教师]]使用变得可行。
 
 **心理测量与特质层面评分**超越了整体分数。**[[psyscore-essay-scoring-zpd-feedback|PsyScore]]**提供了一个心理测量感知的框架，用于基于[[sociocultural-learning|ZPD]]反馈的特质自适应评分。**[[icle-plus-plus-essay-scoring|ICLE++]]**为整体作文评分建模细粒度特质，推进了自动化评估的精度。
+
+- **推理轨迹作为解释。** [[xu-explainable-ai-essay-scoring-cot-2026|Xu 等（2026）]]微调 Qwen 模型，让它在打分之前先就 IELTS 的四项特质逐步推理，再对考官偏好施加 PPO。平均 QWK 从 0.5253（7B，仅用 CoT）升至 0.5410（72B），而反馈 BLEU 在 PPO 加 CoT 之下从 0.2371 升至 0.2873；仅靠规模带来的增益很小，从 7B 到 72B 只有 2.5% 的 BLEU。
+
+- **可审计性作为一种评分目标。** [[xin-auditable-automated-essay-scoring-2026|Xin（2026）]]构建了一条 ASAP 流水线，其反馈层为每个薄弱特质附上作文中的证据，并提供一个教师复核标记。宏观 QWK 为 0.738，而其最佳纯评分器为 0.739；而在仅凭评分量表的反馈什么都未引用之处，以量表为依据的反馈达到了 0.829 的 Trait Recall@2 与 0.912 的有效证据率。
+
 - **维度层面的特质评分受每个维度背后数据的限制。** [[automated-essay-scoring-critical-thinking-physics-2026|Firdausi 等（2026）]]在 106 篇印度尼西亚十一年级物理作文（83 篇训练、23 篇测试，三位教师评分者在每个维度上以 kappa 0.78–0.84 达成一致）上，为 Ennis 的 FRISCO [[critical-thinking|批判性思维]]框架的每个维度训练了一个分类器。一致性集中在表达而非推理上：Clarity 的二次加权 kappa 达到 0.763，Situation 为 0.728，而 Focus 只有 0.374、Reason 0.332、Inference 0.227。等级信号是被制造出来的而非观察到的——合成的一级作文（模板生成、压缩至原长度的 20–40%、关键词移除）加上 LLM 改写把 Focus 从 0.028 的基线拉高了 +0.346 kappa——而一种配置达到了 0.652 的准确率，kappa 却接近零甚至为负，因此准确率在序数 AES 中不是可用的选择标准。
 
 **偏倚与公平**是一个关键关切。**[[ai-scoring-language-bias-physics|Feser 与 Tschisgale]]**发现 AI 评分系统性地低估来自语言多元背景的学生，凸显了在 AES 部署中[[bias-mitigation]]与[[equity-in-ai-education]]考量的必要性。
@@ -72,6 +82,7 @@ ai_assist:
 
 **作为训练信号而非裁判的 AES。** 评分模型通常被当作评估者来研究，而 SWIM 把一个评分模型当作奖励函数使用：[[swim-student-writing-simulation-2026|Do、Kontak 与 Sachan（2026）]]冻结一个多特质 AES 验证器，用它为生成的学生作文打分，把预测出的特质画像转化为逐篇作文的稠密奖励（画像与目标画像之间的平均特质归一化距离）供 GRPO 使用，而刻意不用二次加权 Kappa 指标本身，因为 QWK 定义在一批目标—预测对之上、并非逐样本信号，而精确匹配奖励在多特质情境下又过于稀疏。增益针对一个 DeBERTa 评分器与一个策略从未训练过的、仅用于评估的验证器做了复核（0.598 对 SFT 的 0.479，以及 0.647 对 0.501），正是这一复核把真实的能力控制与对[[reinforcement-learning|奖励模型]]的适应区分开来。对 AES 研究而言，这是第二项效度要求：被用作训练目标的评分器会被拿来优化，因此它自身的特质权重与语言偏倚会传播到生成器学到的一切之中——本页他处记载的那些相同的特征加权不对称（模型比人类评分者更重语法准确性、词汇复杂性与句法复杂度），如今塑造的是训练而不仅是评分。
 **评分与反馈需要不同的方法，因此系统应当把它们分开。** [[wraft-automated-writing-evaluation-argumentative-2026|Labib 等（2026）]]把一个 TOEFL 论辩作文系统建为三个模块——评分、针对语法与写作规范的表层反馈、针对组织结构、连贯性与论证的深层反馈——而非一个模型做三份工作，并发现在一个模块上胜出的方法在另一个模块上失利：在专有的 480 篇基准评分作文集中对其中的 120 篇对 GPT-4o 做监督[[llm-training-and-fine-tuning|微调]]、在余下的 360 篇上测试，在 0-5 量表上达到了 0.84 的二次加权 kappa 与 0.44 的 RMSE，优于 Wang 与 Gayed（2024）的基线（QWK 0.78，RMSE 0.57），然而同样的微调对反馈模块产出了不可用的输出，在那里生成教师认可的评语靠的是对 Claude 3.7 的直接提示。
+**起作用的增益大多来自提示，而不是评分量表。** [[llm-automated-essay-scoring-prompt-engineering-2026|Tao 与 Min（2026）]]通过加入带分数的校准示例与一条必须写出的理由，把与 CEFR 标签的一致性从 kappa 0.488 提升到 0.829，而单独给出详细评分量表反而把它降到 0.460。
 
 ### 关联概念
 
@@ -102,6 +113,8 @@ AES 处于[[automated-assessment]]、[[writing-education]]与[[generative-ai]]�
 - [[assessment-validity]]
 
 ## 关联文章
+- [[xu-explainable-ai-essay-scoring-cot-2026]] — 量表感知的思维链加 PPO：平均 QWK 从 0.5253 到 0.5410，规模带来的增益很小（Xu 等 2026）
+- [[xin-auditable-automated-essay-scoring-2026]] — 可审计评分：0.738 的宏观 QWK，配以以证据为依据的反馈与教师复核标记（Xin 2026）
 - [[reflection-level-classification-hungarian-essays-2026]] — 匈牙利学生作文中的反思水平自动分类
 - [[wraft-automated-writing-evaluation-argumentative-2026]] — WrAFT：面向论辩作文的模块化自动写作评估系统
 - [[automated-essay-scoring-critical-thinking-physics-2026]] — Educational Innovation through Automated Essay Scoring: A Multidimensional Framework for Evaluating Critical Thinking in High School Physics Essays：面向高中物理作文的自动作文评分多维框架，用于评价批判性思维
@@ -124,4 +137,5 @@ AES 处于[[automated-assessment]]、[[writing-education]]与[[generative-ai]]�
 
 - [[porcaro-ai-grading-benchmark-2026]] — 超越一致性：22 个提示式评分器面对答案已知的探针，其中多数可以被说服改分（Porcaro 2026）
 - [[ribeiro-teachers-writing-analytics-adoption-2026]] — 300 人班级的教师给一款 unplugged AES 应用打出 92.5 的 SUS，并要求可靠性警告而非最终分数（Ribeiro 等 2026）
+- [[llm-automated-essay-scoring-prompt-engineering-2026]] — 优化大语言模型驱动的自动作文评分：融合语言特征与提示工程以提升评分准确性
 

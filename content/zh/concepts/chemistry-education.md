@@ -1,7 +1,7 @@
 ---
 title: 化学教育
 created: "2026-08-19T12:55:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 type: concept
 foundations: [ai-literacy, philosophy-of-ai-in-education]
 technology: [generative-ai]
@@ -11,13 +11,17 @@ level: [higher ed, k 12]
 confidence: high
 connected_resources: [teacher-dev]
 translation_of: concepts/chemistry-education
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -48,6 +52,8 @@ ai_assist:
 **技术准确性与批判性 AI 素养。** 系统性证据表明，[[llm|LLM]]能定义基本化学术语，却在严格的定量任务上表现很差，在空间推理（例如 NMR）上吃力，存在过度自信和记法敏感性（[[ai-science-chemistry-education-systematic-review-2025|Erümit & Özdemir Sarıalioğlu]]；[[unesco-ai-guidelines-chemical-education-2026|UNESCO 视角]]中 ChemBench/QCBench 的发现）。这使**对 AI 输出做评价性投入**——追问、验证、并与化学原理交叉核对——成为一项核心学习目标，连接到[[ai-literacy]]、[[critical-thinking]]和[[reducing-ai-misuse]]。
 
 **伦理、政策与认识论漂移。**[[unesco-ai-guidelines-chemical-education-2026|UNESCO 指南视角]]警告**认识论漂移**——对不透明算法的依赖使科学探究与因果理解脱钩——并呼吁从内容传授转向**知识创造**、批判性 AI 化学素养、以人类推理为先的评价，以及弥合全球[[digital-divide|获取差距]]。
+
+**情感反馈可能反而抬高它所针对的焦虑。** 一个学期在九年级实验课上使用 AI 情感反馈，恰与实验焦虑上升（F = 4.60）、成就感停滞相伴，而以教师为主导的探究班则有所提升（F = 7.92）（[[liu-chemistry-lab-emotional-feedback-2026|Liu 等（2026）]]）。
 
 ### 与相关概念的关联
 

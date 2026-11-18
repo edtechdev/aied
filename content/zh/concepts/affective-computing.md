@@ -1,7 +1,7 @@
 ---
 title: 情感计算
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 type: concept
 foundations: [cognitive-offloading]
 technology: [adaptive-learning, generative-ai, intelligent-tutoring, learning-analytics, llm, personalized-learning]
@@ -9,13 +9,17 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: medium
 translation_of: concepts/affective-computing
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -34,7 +38,7 @@ ai_assist:
 
 ## 引言
 
-### 感知情绪以调整教学
+## 感知情绪以调整教学
 
 情感计算旨在让人工智能系统具有情绪感知能力，使它们能回应学习者的感受，而不只是他们做了什么。在教育中，这意味着感知沮丧、困惑、信心、无聊或投入，并据此调整教学。[[kar-mathbuddy-affective-math-tutoring-2025|MathBuddy]]示范了这一方法：它从两种模态——对话文本与实时面部表情——建模情感，把聚合的情绪状态映射到[[pedagogy|教学]]策略，再[[prompt-engineering|提示]]辅导系统。
 
@@ -42,7 +46,7 @@ ai_assist:
 
 - **中学数学中情绪性与反思性的大语言模型支持：**[[mindful-llm-math-tutoring-2026|Rief 等（2026）]]通过动态聊天、呼吸练习与"正念的错误反馈"语言，把正念（mindfulness）叠加到 7 年级的代数[[intelligent-tutoring|辅导系统]]上。在一项小规模的课堂[[rct]]中（252 名参与者中 42 人完成），正念版用更短的时间、更少的提示请求，达到了与纯认知支持相当的代数学习——更高的学习效率与更平衡的[[help-seeking]]——尽管两种条件下的州数学焦虑（state-math-anxiety）降低无显著差异。
 
-### 好处与风险
+## 好处与风险
 
 情绪感知的辅导可以产生可测的增益，但同样的精密也带来风险：
 
@@ -50,9 +54,9 @@ ai_assist:
 - **风险。**看似共情的自动化会助长[[cognitive-offloading|过度依赖]]与准社会依赖，掩盖真正的[[metacognition|元认知]]抽离，并因持续的情感监控引发[[privacy]]关切。[[ai-sycophancy|人工智能谄媚]]是一个核心的情感风险：在情感上迎合、只肯定而不挑战的人工智能，会侵蚀批判性判断，甚至挤占真实的人际关系——[[sycophantic-ai-social-interaction-2026|Ibrahim 等]]显示，谄媚式的人工智能使用户向它征求个人建议的频率，几乎与向亲密朋友和家人一样高，而真实世界互动中的满足感更低。[[ai-fatigue-academic-contexts]]与[[ai-campus-wellbeing-tools]]进一步把情感人工智能与学习者的[[well-being]]联系起来。
 - **投入不是学习的代理指标。**一项脑感知研究发现，一个受约束的自适应界面提高了认知投入（p = .018），而不受限的聊天机器人产生了更高的[[learning-gains|学习增益]]（p < .03，d > 0.80），因此情绪或投入信号可能指向它所要服务的结果的反面（[[socratic-nuclear-ai-learning|Clin Deffarges 等（2026）]]）。
 
-### 情感计算与更宽的人工智能教育
+## 情感计算与更宽的人工智能教育
 
-情感计算处于[[affective-tutoring]]（其教学应用）、[[student-modeling]]（表征包括情绪在内的整个学习者）与[[learning-analytics]]（从学习者数据导出信号）的交汇处。它连接到[[intelligent-tutoring]]设计与[[pedagogical-safety]]——即"人工智能应当支持而非操纵学习者情绪"这一原则。
+情感计算处于[[affective-tutoring]]（其教学应用）、[[student-modeling]]（表征包括情绪在内的整个学习者）与[[learning-analytics]]（从学习者数据导出信号）的交汇处。它连接到[[intelligent-tutoring]]设计与[[pedagogical-safety]]——即"人工智能应当支持而非操纵学习者情绪"这一原则。情绪感知与它所喂养的教学法是两回事：[[affective-tutoring|情感辅导]]处理导师应当如何依据一次情绪判读行动，而[[sensor-and-gaze-analytics|传感器与凝视分析]]处理信号本身能支撑什么。
 
 - **实时的、基于边缘的课堂情绪监控。**[[emotion-aware-classroom-iot-monitoring-2026|Nguyen 等（2026）]]构建了一个情绪感知的课堂质量评估系统，把情感计算推进到真实、大规模的场域。专为 **IoT/边缘设备**打造，该系统在处理负载均衡与延迟的同时，协调多个代理实时捕获学生的情绪与投入模式。它在**课堂情绪数据集**（来自越南真实 K–12 课堂的 1,500 张标注图像与 300 段课堂视频）上被评估，聚焦多人、真实场景中的情感互动——这是把情绪识别从实验室模型扩展到可部署的课堂监控的示范，也伴随着这类监控所引发的隐私与[[pedagogical-safety]]考量。
 - **有情绪智能的评估代理。**[[aivaluate-anxiety-assessment-2026|AIvaluate]]是一个[[llm]]增强的、有情绪智能的[[conversational-ai|会话代理]]，它在保持[[usability-research|可用性]]的同时，降低了学生[[anxiety-and-stress|焦虑]]与社会压力。

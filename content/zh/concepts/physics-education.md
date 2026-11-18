@@ -1,7 +1,7 @@
 ---
 title: 物理教育
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 type: concept
 foundations: [ai-literacy]
 pedagogy: [socratic-method]
@@ -12,13 +12,17 @@ level: [higher ed]
 confidence: high
 connected_resources: [teacher-dev]
 translation_of: concepts/physics-education
-source_updated: "2026-11-04T17:10:00-05:00"
+source_updated: "2026-11-17T18:50:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 *本页是英文页面的机器翻译，尚未经母语者审校。*
@@ -106,6 +110,8 @@ ai_assist:
 
 - **核验引导者的保真度；让建模阶段保持无AI。** 在被追问"直接告诉我们"哪边更重时，一个特定配置的Gem编造了无人测量过的质量值，因此基于语言的引导者其保真度必须被核验而不能被假定，而无AI的构建阶段保留了它无法触及的动手工作（[[embodied-inquiry-ai-facilitator-physics-2026|Tufino与Damiani（2026）]]）。
 
+通往课程材料的最低基础设施路线在物理教学中有据可查。[[beznosko-local-ai-rag-physics-oer-2026|Beznosko等人（2026）]]在本地运行一个小模型，让它指向课程自己的讲义与习题集，并据此生成小测验与学习指南，由教师逐一核验每份输出。这一套配置既不需要供应商协议，也不把任何学生数据发往他处，因此对一个无法采购企业级工具、却能腾出一台工作站的院系而言，它是现实可行的第一步。
+
 ## 常见误解
 
 - **"学生足够信任 AI，会不加批判地依赖它。"** [[fouad-bentley-trust-utility-gap-physics-2026|Fouad 与 Bentley]]发现了 **50 个百分点的信任与效用落差**：**91% 在课程作业中使用 AI，但只有 41% 信任它**。广泛使用与低信任并存，因此一场旨在建立热情的行动针对的是错误的变量。
@@ -137,6 +143,7 @@ ai_assist:
 
 ## 关联文章
 
+- [[beznosko-local-ai-rag-physics-oer-2026]] — 用本地 AI 与 RAG 生成开放教育材料的物理教育路径（Beznosko 等，2026）
 - [[high-school-genai-acceptance-tam-physics-2026]] — 期望与价值信念作为 GenAI 接纳的前因
 - [[genai-video-engineering-physics-workflow-2026]] — 从提示到物理定律：工程物理教育中的生成式 AI 工作流
 - [[wang-teacher-student-centered-agents-physics-2026]] — 教师中心与学生中心的提示工程物理智能体（Wang等人2026）

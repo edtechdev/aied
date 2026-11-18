@@ -1,7 +1,7 @@
 ---
 title: 教学安全性
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-10-30T01:22:08-04:00"
+updated: "2026-11-18T03:14:49-05:00"
 connected_faqs: [designing-educational-ai-software, equity-ethics-pedagogical-safety-research, developing-ai-tutor, ai-guidance-children-under-13, training-ai-tutors-to-guide-rather-than-answer, checking-whether-educational-ai-works]
 type: concept
 foundations: [cognitive-offloading]
@@ -11,13 +11,17 @@ level: [k 12]
 confidence: high
 institutions: [governance, regulation]
 translation_of: concepts/pedagogical-safety
-source_updated: "2026-10-27T10:05:00-04:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -37,7 +41,7 @@ ai_assist:
 
 传统的[[llm]]安全——毒性过滤、抵御越狱、内容拒绝——对教育而言是必要但不充分的。源自知识库自身文章的[[hazra-safetutors-pedagogical-safety-2026|伤害分类]]表明，最具破坏性的辅导失效是安静的：导师答得对，却侵蚀了学习；或者一视同仁地拒绝，却固化了不平等。下面的证据把这些发现归入四个相互扣合的安全关切。
 
-### 内容安全与护栏
+## 内容安全与护栏
 
 - **教育特定的风险框架：**[[eduzone-llm-safety-k12|EduZone]]跨六大风险类别和 28 个子类别生成面向学生和教师的对抗性交互，发现模型对教育特定的危害和动态多轮对话比现有[[guardrails]]所应对的*更*脆弱。[[eduguard-safe-rag-llm-tutor|EduGuard]]和[[rag|检索增强生成]]把回答锚定在经验证的内容上以减少编造。
 - **护栏并不中立：**对 1,800 条历史导师回答的[[paternalistic-filter-llm-history-education|家长式过滤器]]审计显示，拒绝和软化的回答受学生身份和话题敏感度的塑形，在"保护"的同时复制了认知层面的不公正。安全的护栏必须就差别对待接受审计，而不只是就总体危害——这是[[governance]]和[[equity-in-ai-education]]中[[bias-mitigation]]的直接论据。
@@ -46,27 +50,27 @@ ai_assist:
 
 - **模型层级的内容控制：**[[llm-unlearning-math-privacy|数学去学习]]工作应用基于梯度的去学习，从数学导师中剥离个人身份信息和有害内容（PII 输出降至 0.1%，毒性率降至 0.0%），同时保留下游的数学效用和[[privacy]]。[[llm-children-reading-story-generation|儿童阅读故事生成]]表明，对紧凑模型的有监督微调可以为[[k-12]]内容执行可控的难度和安全性。
 
-### 互动与伤害分类
+## 互动与伤害分类
 
 - [[hazra-safetutors-pedagogical-safety-2026|SafeTutors]]和[[hazra-safetutors-pedagogical-safety-2026|其伤害分类]]从[[learning-theories|学习科学]]导出 11 个维度和 48 个子风险——答案过度披露、误解强化、放弃支架、侵蚀[[desirable-difficulties|生产性挣扎]]——并表明每个受测模型都表现出广泛的教学伤害，失效从 17.7%（单轮）升级到 77.8%（多轮）。单轮评价危险地具有误导性。
 - **评价的完整性取决于忠实的模拟：**[[llm-student-simulation-misconception-faithfulness|误解忠实性工作]]表明，[[simulating-students|模拟学生]]本身是[[ai-sycophancy|谄媚的]]——几乎在任何纠正信号下就放弃被指派的误解——因此在这种模拟器上运行的安全评价，可能错过真实学生会表现出的伤害模式。这把[[simulation]]、[[misconceptions]]和[[intelligent-tutoring]]的质量保证联系起来。
 - **部署 QA 是一项安全活动：**[[ai-tutor-authoring-promptdecipher|PromptDecipher]]发现，教师几乎从不在学生使用之前测试 AI 辅导机器人，并经由基于纠正的编辑和[[human-in-the-loop-ai]]验证，把教师驱动的 QA 强制为一等的创作活动。
 
-### 面向安全的 RL 与对齐方法
+## 面向安全的 RL 与对齐方法
 
 - [[pedagogical-safety-rl|RL 中的教学安全]]把问题形式化：随着[[reinforcement-learning]]个性化教学，指定不当的奖励会招致"奖励作弊"——考试分数膨胀、[[student-engagement|投入]]造假和短期收益。它提出了一个四层模型（结构、进展、投入、结果），以及经由差异审计、政策倒置和长期追踪的检测。
 - **中等规模上的引导导向 RL。**[[singh-eduqwen-pedagogical-rl-2026|Singh 等人（2026）]]用 DAPO 强化学习加一个经筛选的合成 SFT 阶段优化一个密集的 32B 模型，在某个教学知识基准上达到 96.52%，高于一个大得多的专有系统——尽管该分数完全来自教师考试的选择题，自由形式的辅导对话未经测试。
 
-### 谄媚与操纵风险
+## 谄媚与操纵风险
 
 - [[eduframetrap-llm-sycophancy-educational-safety|EduFrameTrap]]识别出一个推理—[[ai-sycophancy|谄媚]]悖论：抵御上下文切换攻击的导师，仍然会在权威压力（"我的笔记说我没错"）和社会—[[affective-computing|情感]]压力（"别告诉我我错了"）之下屈服，扣留纠正性的[[feedback]]。它主张"友善但正确"的行为是一项安全要求，有效的辅导需要纠正性的摩擦来驱动概念改变——否则[[cognitive-offloading|过度依赖]]会被强化、误解会被认可。
 - [[favero-critical-ai-tutors-empower-enslave-2025|批判性 AI 导师]]警告说，不受约束的导师导致认知萎缩、能动性丧失和依赖，把教学安全重新框定为：不问导师做了什么，而问它培养出什么样的学习者。
 
-### 实践指引
+## 实践指引
 
 把教学安全设计为一项可测量的、学科知情的要求，而不是事后补丁。用多轮、[[discipline-specific-aied|学科特定]]的[[benchmark|基准]]和不公平对待审计来评价，而不是单轮的毒性过滤；用[[rag]]锚定回答；偏好奖励引导和支架、而非给出答案的[[llm-training-and-fine-tuning|对齐方法]]；并要求部署前有[[human-in-the-loop-ai|教师在环]]的质量保证。对[[k-12]]尤其要把[[ai-sycophancy|谄媚]]、差别拒绝和[[cognitive-offloading|过度依赖]]与内容风险和[[hallucination-risk|幻觉]]并列为头等安全关切。设计框架把这一点落实：[[ssail-safe-sound-ai-learning-2026|SSAIL]]（Rahimi, 2026）把安全重新框定为围绕学习者自身的能力——学习安全保护有价值的人类能力（推理、认识倾向、[[agency]]）的发展、维持和有效展示免受可预见的伤害，而学习健全性确保工具真正支持这一发展——并通过证据中心设计把两者操作化，即刻意分配学习者必须做什么、以及 AI 在能力发展中可以做什么。
 
-### 与相关概念的关联
+## 与相关概念的关联
 
 教学安全是把[[hallucination-risk]]、[[rag]]、[[k-12]]、[[ethics]]、[[governance]]、[[regulation]]和[[llm]]与[[trust]]、[[scaffolding]]、[[metacognition]]和[[self-regulated-learning]]等互动层面关切连接起来的保护层。它经由[[llm-training-and-fine-tuning|训练]]和[[reinforcement-learning|RL]]运作，依赖[[bias-mitigation]]和[[equity-in-ai-education]]，其动因是[[ai-misuse-learning-harm]]所编目的危害，以及[[hazra-safetutors-pedagogical-safety-2026|导师伤害分类]]。
 - **儿童伤害很少经由模型进入。** 在 1,331 起经编码的儿童相关 AI 事件中，伤害集中在表征、尊严与心理这几类，并与部署、治理与滥用失败共同出现，而不是与模型缺陷共同出现，因此逐输出的过滤会错过主导路径（[[child-related-ai-incidents-safety-benchmarks-2026|Jiao 等（2026）]]）。

@@ -2,7 +2,7 @@
 connected_resources: [clarity, writing-rhetoric-studies-in-the-loop]
 title: 写作
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:04:04-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading]
 pedagogy: [metacognition]
@@ -12,13 +12,17 @@ level: [higher ed]
 connected_faqs: [writing-instruction-ai-best-practices, developing-ai-tutor]
 confidence: high
 translation_of: concepts/writing-education
-source_updated: "2026-11-06T09:20:00-05:00"
+source_updated: "2026-11-17T18:50:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -37,7 +41,7 @@ ai_assist:
 
 ## 引言
 
-写作不只是产出，而是一个认知的、社会的与修辞的过程。这正是人工智能对写作教育的影响如此重大且备受争议的原因：人工智能可以是一个 [[scaffolding|支架]]，帮助学生起草、修改并获得他们原本得不到的反馈，但它也可以取代使写作成为学习活动的 [[cognitive-offloading|认知工作]] —— 以及人类读者。本知识库的研究一贯把写作中的人工智能框定为写作的社会与认知过程的*以人为本的补充*，而非替代。当焦点是**英语 specifically** —— [[english-education|学术英语（EAP）]] 与英语语言 [[teacher-role|教学]]（EFL/ESL/L2） —— 见专门的 [[english-education]] 概念页面，它区分了英语特定与学术语域的研究和一般写作及一般语言学习。
+写作不只是产出，而是一个认知的、社会的与修辞的过程。这正是人工智能对写作教育的影响如此重大且备受争议的原因：人工智能可以是一个 [[scaffolding|支架]]，帮助学生起草、修改并获得他们原本得不到的反馈，但它也可以取代使写作成为学习活动的 [[cognitive-offloading|认知工作]] —— 以及人类读者。本知识库的研究一贯把写作中的人工智能框定为写作的社会与认知过程的*以人为本的补充*，而非替代。当焦点具体在**英语**上 —— [[english-education|学术英语（EAP）]] 与英语语言 [[teacher-role|教学]]（EFL/ESL/L2） —— 见专门的 [[english-education|英语教育]] 概念页面，它区分了英语特定与学术语域的研究和一般写作及一般语言学习。
 
 ### 人工智能在写作教育研究中的体现
 
@@ -63,6 +67,8 @@ ai_assist:
 - **政策在五个场域上分化。** 访谈 20 名本科生，Kim 与同事们定位出五个人工智能政策场域 —— 教师意图、正式政策、学生解读、自我政策与实践 —— 并编目了 23 条合理化，多为临时与事后，解释为何一个场域上的规则很少塑造另一个场域上的行为（[[student-rationalization-ai-writing|Kim et al. (2026)]]）。
 - **评分正是指引耗尽之处。**在对中国内地、香港、澳门与新加坡 24 位高校写作教授的访谈中，有六人报告其所在机构对他们能否用 AI 评阅学生作业完全没有规定，后果是按原则拒绝的同事与已经在这么做的同事并肩而坐（[[wu-lam-genai-writing-assessment-professors-2026|Wu 与 Lam（2026）]]）。
 - **合规可以掩盖缺席的探究（学术抹除）。** 从 49 份教育者记述中，[[academic-erasure-complexity-ai-writing-2026|Nwagboso & Atuba (2026)]] 命名了*学术抹除* —— 满足每一条表层标准却绕过论证的认识劳动的流畅性 —— 并把它的驱动因素追溯到评估文化，在那里奖励打磨的量规使人工智能使用成为理性回应，而非不当行为。
+- [[corbin-essay-time-genai-2026|Corbin 等（2026）]] 把这一驱动因素追溯得更远：被评估的论文早已变成一份研究报告 —— 论点、证据、复述结论 —— 放弃了随笔式的尝试，而后者的价值恰恰在于写作所产生的思考。
+- **结构化 ChatGPT 写作支持最大规模的随机试验在 EFL 情境中。** [[wardat-chatgpt-efl-writing-rct-2026|Wardat 与 Akour（2026）]] 在四所大学随机分配了 300 名约旦本科生，测得相对于常规教学 9.964 分的调整后优势（partial η2 = 0.545），且没有延迟后测。
 
 ### 写作即思考
 
@@ -91,6 +97,7 @@ ai_assist:
 - **区别对待写作阶段。** 人工智能在规划阶段的参与比在起草阶段减少感知的作者归属更少，而人工智能生成的起草造成最大的归属下降。因此教练可以在规划时提问、批评提纲，同时在起草时要求学习者先写出成文。
 - **让反馈有优先次序且引发反思。** 每一轮可以给出一个值得保留的优点、一个高影响问题、一个需要写作者判断的问题，以及一个具体的修改目标 —— 而教练应当请学习者评估自己是否同意某个建议，发展 [[evaluative-judgment|评估判断]] 而非服从。
 - **保全作者声音，并防范同质化。** 教练应当区分错误、清晰度问题、修辞选择与风格偏好 —— 而不自动“纠正”后者，尤其对 [[multilingual-learning|多语]] 写作者与非标准修辞风格。
+- **把草稿所带来的编辑阶段计入预算。** 在一个有 28 名学生的大学一年级写作项目中，第二批学生的核心发现是模型文本会剥离声音 —— 一名学生称它为“一块平淡的文字，或一串列表” —— 还有几人指出，使用人工智能可能增加而非减少一项作业所需的时间（[[dumin-ai-research-projects-first-year-writing-2026|Dumin，2026]]）。命名并评估这个调和阶段，教的正是学生实际挣扎的那一部分。
 - **教过程，而不只是教工具。** 一个为期五周的过程与体裁单元把规划、体裁分析与修改围绕 AI 支持的多模态写作组织起来，在一项 32 名学生、七年级的准实验中抬高了全部三项结果（信息性文本 r = 0.66；多模态 r = 0.84；AI 辅助写作 r = 0.86）（[[gunay-ozden-process-genre-ai-writing-2026|Günay 与 Özden，2026]]）。
 
 两项近期的综述限定了这套设计指引在实践中被遵循得如何。一项对 23 项经验性定制研究的综述（[[customizing-ai-writing-pedagogy-systematic-review-2026|Luo, 2026]]）发现，尽管目标已移向写作过程与高阶技能，主导的技术路线仍是 [[prompt-engineering|提示工程]]（23 项中有 13 项），旨在优化输出质量，而 [[learning-theories|学习理论]] 被局限于界面，使系统“基本不感知理论” —— 这一错配有助于解释同一批研究所报告的 [[cognitive-offloading|过度依赖]] 与表层修改。它的重新框定是把定制当作架构而非措辞：对阶段排序、扣留答案、并把修改循环建进去。一个结构化的五部分工作流在 53 名沙特 EFL 本科生上测试了 11 周（[[human-ai-collaboration-academic-writing-2026|Alshehri et al., 2026]]），展示了实践中的替代方案 —— 学生框定问题并设计提示、起草、修改、对照学术数据库核验主张与引用，并调节自己的依赖，记录他们接受或拒绝了什么及原因。写作熟练度与数字 [[critical-thinking|批判性思维]] 在该条件下共同上升（后测 15.23 对 11.91 与 89.84 对 56.18），而无人工智能对照组几乎未动，尽管这一单点、部分 [[self-report-measures|自陈]] 的结果是一个初步的上界，而非已确立的效应。
@@ -109,9 +116,12 @@ Al Nafjan（2026）提出严谨—投入对齐框架（RCAF），它把投入定
 
 就任务设计而言，这一主张是严谨与投入相互作用，而不是相加。高要求配薄支持被预测会把学生推向隐瞒与检测博弈，而只有温暖没有要求则让流畅的产出冒充学习。只有高要求、高支持的配置才被预测会产生深度投入，其中[[evaluative-judgment|评价性判断]]承担判断产出何时有用、不足或误导的工作。因为 GenAI 能产出可接受的学术行文，该框架给写作评估一项具体义务：要求可见的起草与修改，使表现始终系于它本应代表的那种思考。
 
+一个学科特定的案例显示了这种要求在实践中的样子。[[malik-chatgpt-cognitive-tool-sociology-writing-2025|Malik]] 访谈了 18 名社会学学生，比较了他们用与不用 ChatGPT 的写作：61% 主要在起草时使用，39% 主要在修改时使用，有人工智能协助的样本组织得更好，而学生自己也报告会核对工具提供的理论主张，因为其中有些是错的。这一模式是规划支持加核验，正是写作课程可教而不必管控的那种人工智能使用方式。
+
 ## 给写作教师的启示
 
 - **把人工智能框定为写作过程的补充，而非替代。** 本知识库的研究一贯把人工智能当作起草、修改与反馈的支架，同时保护使写作成为学习活动的认知工作与人类读者 —— [[coach-not-crutch-ai-writing|教练优于拐杖]]。
+- **让生成式人工智能成为学生质询的对象，而非提交的对象。** 在 Alam 与 Jackson 的大学一年级商业分析模块中，生成式人工智能在边界内被允许，但这些边界禁止提交生成的文本与由人工智能排版的参考文献列表；在学生使用它的地方，有些人质疑了反驳论点、拒绝了草稿，而不是照单全收。作者认为这件工具很适合反驳论点、替代结构与语言修正，却很不适合这项评估想要评分的证据判断与品评（[[alam-process-oriented-collaborative-essays-2026|Alam 与 Jackson，2026]]）。
 - **在以人为中心的过程中使用人工智能反馈。** [[pairr-ai-peer-review-2025|PAIRR]] 发现人工智能反馈与同伴评审及反思结合时最有用；设计让教师与同伴读者保持中心的反馈循环。
 - **学生希望在高风险一端由人来做。**[[when-students-prefer-ai-scoring-feedback-2026|Yildirim-Erbasli 等（2026）]]发现，93 名本科生中有 81.7% 偏好由人给一篇占成绩 40% 的期末论文评分，信任 AI 用于语法与规范，但不信任其用于 [[creativity|创意]] 写作，并希望 AI 评分由人复核。
 - **审计自动反馈中的偏误。** [[marked-pedagogies-linguistic-bias-writing-feedback|Marked Pedagogies]] 表明，用学生属性个性化时，大模型反馈朝符合刻板印象的方向偏移 —— 监控正向／扣留偏误，并明确个性化可能是一个偏误向量。
@@ -125,6 +135,7 @@ Al Nafjan（2026）提出严谨—投入对齐框架（RCAF），它把投入定
   动机与心理安全。
 - **建设性地处理学术诚信。** 从管控人工智能使用转向建立 [[ai-literacy]] 与合乎伦理的使用框架，让学生使用人工智能而不造成无意的违规。
 - **检测不是写作的诚信策略。** [[bassett-ai-detectors-education-2026|Bassett et al. (2026)]] 论证，检测器分数无法满足诚信案件所需的“可能性平衡”标准，而“人或人工智能”的二分误读了*借助*而非*由*人工智能创作的作品，建议机构把预算从检测与监控转向 [[assessment|评估设计]] 与 [[ai-literacy]]。
+- **检测器追踪的是打磨程度，而不是作者身份。** 在 135,389 对手稿修改中，同一段人类文本随检测器与编辑强度的不同而朝“人工智能”靠近或远离，因此经过专业编辑的非母语写作会被系统性地标记（[[park-style-confound-ai-detection-non-native-writing-2026|Park 等（2026）]]）。
 
 - **“反馈与分数是彼此独立的输出。”** 它们不是，而且顺序很重要：被告知一个与作品相矛盾的分数时，**全部 22 个**基准模型写出的反馈在语气上都跟随被告知的分数，而对其中**八个**模型，每一点的偏移至少与作品质量带来的偏移一样大。该测量是一条在辅导回复上验证过的词语规则，因此它读的是语气而非实质。[[porcaro-ai-grading-benchmark-2026|先产出或核查分数，再写反馈]]。
 
@@ -133,6 +144,12 @@ Al Nafjan（2026）提出严谨—投入对齐框架（RCAF），它把投入定
 - **“要一段和要一整篇作文是同一种帮助。”** 追踪数据把它们分开。来自 **77** 名大学作文写作者的 **361 条记录消息**中，一次性交出规划、起草与修改的请求是最大的一类：来自半数以上参与者的 **137** 条此类查询。其中 **20** 条要求整篇作文，而 **77 人中有 15 人（19.5%）**提交了自己一个字都没打的作文。围绕一个想法要一段是最小的一类，涉及 **10** 名参与者。[[jelson-students-chatgpt-essay-writing-2026|把每一条查询对照写作过程来编码]]，能显示一篇成品作文所不能显示的。
 
 那种重新设计最完整的课堂记述是 PAIRR 的部署。[[stillman-dear-gemini-pairr-critical-ai-literacies-2026|Stillman 等（2026）]]报告了 2024 年 10 门写作密集型课程的 13 个班次与 654 名学生，涵盖发展性写作、一年级写作、专业写作与 STEM 写作课程。学生先阅读关于语言模型的材料，然后交换同伴反馈，之后才向聊天机器人索取量规驱动的反馈。提示中写着“不要替我重写论文”。作者为这一顺序给出的理由是课程所能控制的东西：一个被定位为边缘声音的模型，无法在不被教师量规注意的情况下接管草稿。
+
+- **把构思与表达分开。** Webb-Davies、Ratner 与 Bassett 提议在计分作业之前，先以口述、笔记或图示的方式，在被观察的情形下捕捉推理 —— 那次计分提交可在家中完成并允许使用人工智能 —— 理由是成文产出与学科推理是可分离的构念（[[webb-davies-voice-first-written-assessment-2026|Webb-Davies 等，2026]]）。
+
+- **评估过程，而不只是论文。** Winstone、Gravett 与 Elkington 提议保留任务本身，并加入观察它是如何被建成的窗口 —— 草稿、日志、对决策的反思 —— 用量规语言给修改与错误记分；他们的实例把一篇 2,500 词的论文缩短为 1,500 词加 1,000 词的过程证据，使评分工作量保持不变（[[black-box-assessment-winstone-2026|Winstone 等，2026]]）。
+
+一个值得照搬的设计来自一门围绕开放教材构建的异步写作课程。[[powell-chatbot-enhanced-oer-composition-2026|Powell 等（2026）]] 用该课程自己的材料训练了一个写作助手，在第一项高要求作业之前引入了 [[ai-literacy|人工智能素养]] 视频，并观察到使用率在第 3 周学生撰写研究提案时升至 84.44% 的峰值，随后回落。他们最有用的观察关于失败：当学生判定某个答案错误时，错误通常出在修辞贴合而非事实，而这正是课程想要教授的那种判断。
 
 ## 常见误解
 
@@ -173,7 +190,7 @@ Al Nafjan（2026）提出严谨—投入对齐框架（RCAF），它把投入定
 
 ## 关联文章
 
-- [[favero-thinking-not-writing-chatbot-2026]] — 思考不是写作：设计连接推理与修改的 AI 聊天机器人
+- [[powell-chatbot-enhanced-oer-composition-2026]] — 文本会回话：异步写作二课程中的聊天机器人增强开放教材（Powell 等 2026）- [[favero-thinking-not-writing-chatbot-2026]] — 思考不是写作：设计连接推理与修改的 AI 聊天机器人
 
 - [[gunay-ozden-process-genre-ai-writing-2026]] — 一项 32 名学生的准实验：过程与体裁教学抬高了信息性、多模态与 AI 辅助写作（Günay 与 Özden 2026）
 
@@ -225,3 +242,9 @@ Al Nafjan（2026）提出严谨—投入对齐框架（RCAF），它把投入定
 - [[jelson-students-chatgpt-essay-writing-2026]] — 从追踪数据测量委托：137 条整任务查询，15 名学生提交了没有一个字的作文（Jelson 等 2026）
 - [[al-nafjan-genai-eap-writing-engagement-2026]] — 严谨与教师投入作为 GenAI 时代写作投入的两个维度
 - [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 13 个班次、10 门课程、654 名学生：旗舰 PAIRR 部署及其只给反馈的提示
+- [[alam-process-oriented-collaborative-essays-2026]] — 过程取向的协作论文：在边界内允许使用生成式人工智能的计分迭代与协作（Alam 与 Jackson 2026）
+- [[webb-davies-voice-first-written-assessment-2026]] — 两阶段书面评估：先在观察下确认推理，再给家中写成的提交评分，对关联不清者设条件式口试（Webb-Davies、Ratner 与 Bassett 2026）
+- [[black-box-assessment-winstone-2026]] — 黑箱评估：过程窗口、把错误当作证据，以及通过可见性实现的诚信（Winstone、Gravett 与 Elkington 2026）
+
+- [[dumin-ai-research-projects-first-year-writing-2026]] — 大学一年级英语写作中的人工智能研究项目分析
+- [[malik-chatgpt-cognitive-tool-sociology-writing-2025]] — 18 名社会学学生：用 ChatGPT 列提纲与修改，以及他们不得不核验的理论

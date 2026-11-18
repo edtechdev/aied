@@ -1,7 +1,7 @@
 ---
 title: 全球南方
 created: "2026-08-18T14:55:00-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 type: concept
 foundations: [ai-literacy]
 technology: [generative-ai]
@@ -9,13 +9,17 @@ ethics: [culturally-relevant-pedagogy, equity-in-ai-education, global-south]
 level: [higher ed, k 12]
 confidence: high
 translation_of: concepts/global-south
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -34,11 +38,11 @@ ai_assist:
 
 ## 引言
 
-### 为何它对 AIED 重要
+## 为何它对 AIED 重要
 
 主流 AI 与教育技术研究历来由西方、英语数据集和 [[governance|机构]]情境主导。这造成两个问题：（1）用此类数据训练的 [[ai-technologies|AI 系统]]，在全球南方情境中可能表现不佳或错误表征学习者；（2）在北方国家构建的评估 [[benchmark|基准]]，可能无法反映其他地区的教育现实、语言或知识传统。本知识库中来自全球南方情境的研究涵盖文化立足的数据集、基准与技术采纳研究，对 [[ai-literacy]] 及 [[higher-ed|高等]]与 [[k-12|K-12]]教育具有启示。
 
-### 知识库中的应用
+## 知识库中的应用
 
 - **文化立足的数据与基准：** [[iks-instruct-dataset-indian-knowledge|IKS-Instruct]] 提供了一个 [[multilingual-learning|多语言]]的印度知识体系指令数据集；[[nsmq-riddles-science-math-benchmark|NSMQ Riddles]]引入了一个加纳 [[stem-education|STEM]]基准，是最早的全球南方教育评估数据集之一。
 - **加纳高等教育中的 AI 伦理意识：** [[ai-ethical-awareness-ghana-students-2026|Acquah 等（2026）]]用加纳 509 名 [[higher-ed|大学]]学生验证了一个三因素（自主、行善、公平）AI 伦理意识量表，发现从"普遍很高的意识到几乎完全没有"的五种潜在画像——其中"行善"最弱——且无性别差异，为 AI-[[ethics]]文献提供了一个全球南方的测量锚点。
@@ -54,7 +58,7 @@ ai_assist:
 
 - **公平是该地区研究最少的维度。** 一项对 75 项全球南方研究（2022–2025）的 PRISMA-ScR [[meta-analysis-systematic-review|范围综述]]发现，尽管公平对包容教育至关重要，它却是五个领域中考察最少的，并报告了学生所申明的伦理立场与其行为之间的差距（[[nguyen-genai-global-south-review-2026|Nguyen 与 Perkins（2026）]]）。
 
-### 启示
+## 启示
 
 关注全球南方情境，要求超越"西方模型与基准可直接移植"的假定。它要求本地立足的数据集、文化相关的 [[pedagogy]]、以社群为中心的评估标准，以及把学习者的生活经验与社群认识论视为权威的研究——与社群式 AI 学习等框架，以及适应当地条件的 [[technology-acceptance-model|技术接受]]研究保持一致。
 

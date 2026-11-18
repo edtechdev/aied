@@ -1,7 +1,7 @@
 ---
 title: 理论与框架
 created: "2026-09-19T05:40:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:54-05:00"
 type: concept
 foundations: [ai-education, theory-development-aied, philosophy-of-ai-in-education]
 pedagogy: [learning-theories]
@@ -9,7 +9,7 @@ assessment: [assessment-validity, item-response-theory]
 methods: [research-methods-aied]
 confidence: high
 translation_of: concepts/theories-and-frameworks
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T05:34:40-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -17,11 +17,15 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
+    agent: hermes-agent
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **理论与框架** —— 本知识库实际使用的解释性与组织性结构的工作清单。理论解释学习为何发生（[[learning-theories]]、[[self-determination-theory]]、[[sociocultural-learning]]、[[activity-theory-aied|活动理论]]）；框架组织设计、教学与采纳决策（[[tpack]]、[[samr-model|SAMR]]、[[technology-acceptance-model|技术接受模型]]、[[icap-framework|ICAP]]、[[universal-design-for-learning|通用学习设计]]）；模型使关于学习的论断可检验、可计算（[[item-response-theory|项目反应理论]]、[[assessment-validity]]、[[knowledge-tracing]]）。用本页来找出一项研究所依赖的透镜，或为你自己的工作选一个。
+> **理论与框架** —— AI 教育研究实际使用的解释性与组织性结构的工作清单。理论解释学习为何发生（[[learning-theories]]、[[self-determination-theory]]、[[sociocultural-learning]]、[[activity-theory-aied|活动理论]]）；框架组织设计、教学与采纳决策（[[tpack]]、[[samr-model|SAMR]]、[[technology-acceptance-model|技术接受模型]]、[[icap-framework|ICAP]]、[[universal-design-for-learning|通用学习设计]]）；模型使关于学习的论断可检验、可计算（[[item-response-theory|项目反应理论]]、[[assessment-validity]]、[[knowledge-tracing]]）。用这份清单来找出一项研究所依赖的透镜，或为你自己的工作选一个。
 
 ## 值得思考的问题
 
@@ -33,7 +37,7 @@ ai_assist:
 
 ## 引言
 
-每一个 AI 辅导系统、反馈系统与仪表盘都嵌有关于人如何学习的假设，无论设计者是否声明。本页收集这些假设所出自的理论、框架与模型，大致按当前研究文献依赖它们的程度排序，并简要说明各自的长处。这三个标签之间的区别是真实但次要的，其要点放在文末概括，而不当作主题。实践上重要的是一个论断依赖哪个透镜，以及那个透镜能否支撑这个论断。
+每一个 AI 辅导系统、反馈系统与仪表盘都嵌有关于人如何学习的假设，无论设计者是否声明。这份清单收集这些假设所出自的理论、框架与模型，大致按当前研究文献依赖它们的程度排序，并简要说明各自的长处。这三个标签之间的区别是真实但次要的，其要点放在文末概括，而不当作主题。实践上重要的是一个论断依赖哪个透镜，以及那个透镜能否支撑这个论断。
 
 ## 文献所应用的学习理论
 
@@ -65,6 +69,7 @@ ai_assist:
 
 - **[[tpack|TPACK]]** —— 融合技术、教学法与学科内容的教师知识；面向教师的 AI 研究的默认框架。
 - **[[technology-acceptance-model|采纳模型]]** —— 意向作为感知有用性与易用性的函数。用得极广，以至于该领域依赖意向而非行为已成为一项常设批评。
+- **期望确认模型（ECM）** —— 满意度作为先前期望被确认的结果，其结果变量是持续使用而非初次采纳。在一项有 24 名本科生、为期一学期的社会学方法试点中，87% 的人认为 Copilot 良好或优秀，91% 会推荐它，但只有 57% 打算继续使用（[[wells-genai-research-assistant-sociology-2026|Wells，2026]]）。这个落差正是该模型的要点：满意的用户仍可能不再回来，因此满意度与持续使用需要分开测量。
 - **[[icap-framework|ICAP]]** —— 把参与排序为被动、主动、建构、互动；对追问一次[[student-ai-interaction|AI 互动]]实际提供哪种模式很有用。
 - **[[samr-model|SAMR]]** —— 从替代到重定义。作为成熟度故事很流行，作为测量工具则很弱。
 - **[[universal-design-for-learning|通用学习设计]]**、**[[inclusive-learning|包容性学习]]**与**[[accessibility|无障碍]]** —— 关于谁被服务的设计框架，也是残障与[[equity-in-ai-education|公平]]工作中最常被引用的框架。
@@ -84,7 +89,7 @@ ai_assist:
 
 ## 专为 AI 时代提出的理论
 
-知识库中有四项提议在建构理论而非借用理论。它们是文章页面而非概念节点，因为每一项都是单一的论证：
+有四项提议在建构理论而非借用理论。它们是文章页面而非概念节点，因为每一项都是单一的论证：
 
 - **[[generativism-learning-theory|生成主义]]** —— 一种新学习理论，论证随着[[generative-ai|生成式 AI]]扩散，经典四分法显示出显著的概念局限。
 - **[[learning-with-machines-toward-a-theory-of-epistemic-co-agency|认识论共同能动性]]** —— 关于学习者与 AI 系统如何共同产出知识与理解的模型。
@@ -102,7 +107,7 @@ ai_assist:
 
 ## 相关层面
 
-两个相邻页面刻意谈的是别的事。[[philosophy-of-ai-in-education|Philosophy of AI in education]]（AI 教育的哲学）提规范性与概念性问题——教育是*为了什么*、机器能否教书——不预测效应量；一项研究可以在哲学上天真而在理论上健全，或反之。[[theory-development-aied|Theory development]]（理论发展）是建构、借用与修订理论的元活动，包括"大量[[ai-education|AIED]]工作应用既有理论而非检验理论"这一常设批评。本页是清单；理论发展关乎产出与修订这份清单。
+两个相邻页面刻意谈的是别的事。[[philosophy-of-ai-in-education|Philosophy of AI in education]]（AI 教育的哲学）提规范性与概念性问题——教育是*为了什么*、机器能否教书——不预测效应量；一项研究可以在哲学上天真而在理论上健全，或反之。[[theory-development-aied|Theory development]]（理论发展）是建构、借用与修订理论的元活动，包括"大量[[ai-education|AIED]]工作应用既有理论而非检验理论"这一常设批评。收集框架是一项编目工作；理论发展关乎产出与修订它们。
 
 ## 当问题很实际时如何选择透镜
 
@@ -154,3 +159,5 @@ ai_assist:
 - [[yan-agentivism-learning-theory-ai-2026]] — 一种关于人机交互的中程学习理论
 - [[ai-literacy-instrument-development-systematic-review-2026]] — 一个年轻构念上的工具开发
 - [[mishra-control-vs-agency-history-2025]] — 本领域奠基性的"控制对能动性"张力
+
+- [[wells-genai-research-assistant-sociology-2026]] — 探索生成式 AI 作为本科社会学研究方法课程中的研究助手

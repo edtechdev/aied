@@ -1,7 +1,7 @@
 ---
 title: 社会情感学习
 created: "2026-08-13T18:30:57-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:15:06-05:00"
 type: concept
 foundations: [ai-literacy, teacher-ai-competency]
 pedagogy: [self-regulated-learning, well-being]
@@ -12,13 +12,17 @@ audience: [learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/social-emotional-learning
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -29,7 +33,7 @@ ai_assist:
 ## 值得思考的问题
 
 - CASEL 框架列出五项能力——自我觉察、自我管理、社会觉察、关系技能与负责任的决策。你认为其中哪些是[[intelligent-tutoring|AI 导师]]可以支持的，又有哪些你怀疑它无法支持？
-- 本页把社会情感学习与情绪智力作了区分。在往下读之前，你会如何描述这一区别，又为什么这一区分对学校处理两者的方式可能很重要？
+- 在往下读之前，你会如何描述社会情感学习与情绪智力之间的区别，又为什么这一区分对学校处理两者的方式可能很重要？
 - 如果单有技术性的 AI 素养不足以驾驭由 AI 中介的学习，你认为缺的是什么——这又对你如何培养学生（或你自己）意味着什么？
 - 对 AI 的重度依赖，可能如何重塑一个学生的社交性、共情或信任感——这些变化是教育应当主动为之设计的东西吗？
 - [[research-methods-aied|研究]]提示，SEL 支持着学习的关系维度，那是 AI 必须"补充而非取代"的。你在哪里见过技术强化了人际关系，又在哪里见过它悄悄取代了人际关系？
@@ -40,6 +44,7 @@ ai_assist:
 
 ### SEL 在研究中如何呈现
 
+- **共情是 SEL 的情感边缘，也是最难评估的部分。** [[empathy]] 汇集了关于如何教授与测量共情的证据：角色扮演、VR 与 LLM 对话都能提高自陈分数，观察者评分彼此一致，而基于计算机视觉的代理指标在微笑上出现反转。在把共情增益当作项目有效的证据之前，先读这些证据。
 - **把 SEC 整合进 AI 素养：** [[sec-ai-literacy-narrative-review-2026|Palmquist 等的叙述性综述]]提出了一个把 AI 素养与社会情感能力相结合的整合框架，主张仅有技术熟练是不够的——教育者与学生既需要技术性的也需要情绪性的智力，才能驾驭由 AI 中介的学习环境，促成[[personalized-learning|个性化学习]]、协作与合乎伦理的[[student-engagement|投入]]。
 
 - **教师与关系性实践：** 关于[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|AI 素养框架]]与[[mind-the-trust-gap-teacher-student-views-control-agency-k12-classroom-ai|师生信任]]的研究强调，SEL 支持着学习的关系维度（师生关系与生生关系），那是 AI 必须补充而非取代的。
@@ -56,7 +61,7 @@ ai_assist:
 
 ## AI 时代 SEL 研究的潜在子主题
 
-本知识库的研究把 SEL 聚成若干彼此不同的子主题，各有自己的证据基础：
+研究把 SEL 聚成若干彼此不同的子主题，各有自己的证据基础：
 
 ### 自我效能与信心
 一项核心 SEL 能力（自我觉察/自我管理），它强烈地制约着学生如何与 AI 互动。[[student-dependency-on-ai-literacy-self-efficacy-2026|学生对 AI 的依赖]]（478 名以色列高等教育学生）发现，尽管基于技能的 AI 素养维度与 AI 依赖*正*相关，学业性的与 AI 特定的**自我效能**以及努力[[regulation]]都与之*负*相关——这意味着单有 AI 素养并不能防止依赖；[[self-efficacy]]才行。[[self-efficacy-tutoring-learning|Cen 等（EC-TEL 2026）]]发现，基线自我效能较低的学生不论练习形式如何都取得了更大的学习增益，且对导师的偏好在导师式练习中影响更大——凸显了按动机画像量身定制练习的价值。关联概念：[[self-efficacy]]、[[motivation]]、[[agency]]。

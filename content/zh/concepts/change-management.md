@@ -1,7 +1,7 @@
 ---
 title: 变革管理
 created: "2026-08-29T12:55:12-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:47-05:00"
 type: concept
 foundations: [ai-education]
 connected_faqs: [institutional-ai-policy, faculty-development-ai]
@@ -10,13 +10,17 @@ confidence: medium
 institutions: [change-management]
 connected_resources: [campus-ai-framework, institutional-ai-readiness-pack]
 translation_of: concepts/change-management
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -29,9 +33,9 @@ ai_assist:
 - 这里的变革管理被描述为在不确定性下治理持续适应，因为生成式 AI 在教学法证据积累之前就进入了课堂。当你既不能等待最佳实践、又不能负责任地扩张未经检验的创新时，"管理变革"意味着什么？
 - 一个反复出现的障碍是自上而下的政策意图与课堂现实之间的差距——例如，政策鼓励使用 GenAI，而课程大纲禁止使用，把教师留给了即兴发挥。你认为为什么围绕 AI，政策和实践这么容易发生漂移？
 - [[research-methods-aied|研究]]发现，一名教师的教学取向——他们相信 AI 对本学科知识意味着什么——是采用的最强预测因素，而机构举措和人口统计特征是出乎意料的弱预测因素。这对变革努力应当把精力集中在哪里有何启示？
-- 本页指出，尽管 49% 的机构把 AI 视为战略重点，只有 7% 的机构设立了高级 AI 领导岗位。当一个机构称某事为战略却不为其配备领导资源时，你认为这传递了什么信号？
+- 近半机构把 AI 视为战略重点，只有 7% 为它设立了高级领导岗位。当一个机构称某事为战略却不为其配备领导资源时，你认为这传递了什么信号？
 - 一个协调博弈模型解释了为什么仅有政策声明会失败：[[student-ai-interaction|学生的 AI 使用]]是一个集体规范形成过程，对评估激励做小而校准精准的调整，就能触发整个群体快速转向负责任的使用。改变评估激励如何可能比发布政策做得更多？
-- 本页警告，碎片化的采用会扩大既有的差距——包容、公平和可持续性即便在核心伦理原则被拥抱的地方也常被忽视。你怀疑当变革被不均衡地管理时，哪些 [[learners]]或机构会被落下，你会如何让他们保持中心？
+- 不均衡推进的采用可能把包容、公平与可持续性落在后面，即便伦理原则已获认可。你怀疑当变革被不均衡地管理时，哪些 [[learners]]或机构会被落下，你会如何让他们保持中心？
 
 ## 引言
 
@@ -55,6 +59,8 @@ ai_assist:
 **评估改革**是变革管理的主战场。[[ai-assessment-scale-reform|AI 评估量表研究]]显示，框架实施受部门不一致、工作负荷压力和不确定性阻碍，工作人员把这一过程描述为"有点混乱和疯狂"。[[ethical-ai-higher-ed-game-theory|协调博弈模型]]对"仅靠政策声明为何失败"给出了正式解释：学生的 AI 使用是一个集体规范形成过程，对反思性评估激励做小而校准精准的调整，可以触发整个群体快速转向负责任的使用，而薄弱或错位的激励会让机会主义行为存续。这支持以教学法为主导的治理，而非监控。[[ai-adaptation-gap-higher-education-2026|AI 适应差距调查]]增加了一个 [[stakeholders|利益相关者]]维度：学生报告的 AI 使用强度和感知有用性高于教师和行政人员，而后者报告更强的 [[academic-integrity|学术诚信]]担忧——且感知有用性驱动 [[trust]]（β = 0.402）的强度超过机构政策清晰度（β = 0.223）。
 
 一场有 73 名计算教育工作者参加的评估实践工作坊提供了来自课堂一侧的对应物。参与者描述的几乎每一项变革，都是单个教师在一门课程中、在无机构协调的情况下做出的——同一系内的同事立场相反，没有任何东西调和它们——而报告主张的课程层面的回应来不及帮助现已注册的学生；作业难度也被观察到大约以一个学期为周期过期，这使得对照当前模型能力进行校准成为一种易腐的机构资产，而非一次性决定（[[computing-assessment-genai-workshop-report-2026|Akbar et al., 2026]]）。
+
+**同一种工具使用既可以创新，也可以耗竭，而机构决定走向哪一条。** [[ding-genai-colleague-teacher-depletion-2026|Ding 等人（2026）]]调查了 436 名大学设计教师，发现生成式 AI 使用通往两条显著路径。一条经由教学[[self-efficacy|自我效能]]（β = 0.322）与幸福感（β = 0.300）通向更多的创新工作与更少的退缩；另一条经由 AI 焦虑（β = 0.268）与工作压力（β = 0.262）通向相反的方向。感知到的组织支持强化了赋能性的链接（b = 0.153 与 b = 0.176），而心理契约违背强化了耗竭性的链接（b = 0.171 与 b = 0.194）。支持不是士气上的额外赠品：它参与决定一次部署走哪条路。
 
 ## 启示
 
@@ -94,6 +100,7 @@ AI 教育中的变革管理兼具正面与负面含义。**正面**来看，结�
 
 ## 关联文章
 
+- [[ding-genai-colleague-teacher-depletion-2026]] — 436 名设计教师：生成式 AI 使用同时提高自我效能与 AI 焦虑，而组织支持决定哪条路径占主导（Ding 等，2026）
 - [[mata-sustaining-ai-enabled-student-support-2026]] —— 维持 AI 赋能的学生支持：一个机构聊天机器人的四年实施与影响研究（Mata, Russell & Page 2026）
 - [[institutional-change-framework-ai]] —— 把机构变革模型适配到作为"到来了的技术"的 AI 的六维框架
 - [[leveraging-complex-systems-leading-for-transformative-change]] —— SPARK 框架与面向变革性变革的复杂性领导力

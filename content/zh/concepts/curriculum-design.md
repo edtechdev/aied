@@ -1,7 +1,7 @@
 ---
 title: 课程设计
 created: "2026-06-02T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:05:19-05:00"
 type: concept
 connected_faqs: [incorporating-ai-literacy]
 foundations: [ai-literacy, curriculum-design, learning-design, teacher-role]
@@ -13,13 +13,17 @@ level: [higher ed]
 confidence: high
 connected_resources: [intelligent-textbooks, learning-commons]
 translation_of: concepts/curriculum-design
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -40,7 +44,7 @@ ai_assist:
 
 课程设计处理的是项目层面教育的*内容*，与处理课程层面*方式*的 [[learning-design]] 互为补充。本知识库中的文章探讨了 AI 如何重塑各学科的课程——从软件工程到建筑再到绿色教育——以及教育者如何设计既内嵌 AI 素养、又不牺牲学科根基的课程。
 
-### 关键研究主题
+## 关键研究主题
 
 **为 AI 时代重构课程**是核心挑战。**[[reshaping-cs-education-genai|Lee et al.]]** 综合了关于重塑本科 [[cs-education|计算机科学]]教育的国际工作坊的发现，论证说随着 GenAI 把实现层面的编程自动化，课程必须转向系统设计、抽象与批判性评估——同时弱化低层的实现细节。**[[ase-26-agentic-software-engineering-curriculum|Gorsky]]** 把智能体式软件工程形式化为一个独立学科，配以一套 21 模块的课程，聚焦于管理 [[agentic-ai|AI 智能体]]所需的"意图的演化"与从业者纪律。两者都与 [[ai-literacy]] 和 [[scaffolding]] 相关。
 
@@ -50,7 +54,11 @@ ai_assist:
 
 权重分配会改变一份课程分析报告所报告的内容：[[genai-curriculum-analytics-mapping-higher-ed-2026|Jayalath 等（2026）]] 让 GPT-o3-mini 为 48 项评估中的每一项把 100% 分配到七项企业技能上，与专家权重相比得到 Krippendorff's alpha 0.81，但对于那些描述中从未明确陈述的技能，一致性转为负值（-0.19）。
 
+审计本身可以是一个独立阶段，而不只是重新设计的前半段。[[rodafinos-llm-curriculum-audit-2026|Rodafinos（2026）]]把项目评审排成四次可以在一次会议内完成的审计提示——课程健康检查、使命契合测试、课程—能力对照表与成果标注——然后再从职位公告与学科标准做能力映射，而修订被保留为可选的第三阶段。没有任何一项能力能在缺少至少两个支持信号的情况下成为核心优先项，这使劳动力市场扫描无法决定课程。让这种分离奏效的是治理层：一份在各次运行间保持不变的课程证据包、一份记录版本、操作者与模型的提示日志、重复运行核查，以及一份与审批机构相连的决策日志，于是一份 [[llm|LLM]] 输出进入委员会审议时是一个带时间戳的制品，而不是一项发现。
+
 **模块化结构比当前内容活得更久。** 一个模式反复出现：该领域跑得比评审周期快——一个稳定的核心（[[ai-literacy|AI 素养]]、批判性评估、偏见检测与[[ethics|伦理]]），加上作为模块附加、每六到十二个月重访的专业性与本地可得工具内容（[[bursic-ai-residency-education-curriculum-2026|Bursic 等（2026）]]）。研究生[[medical-education|医学教育]]是所述的案例，但这一原则可以推广：项目承诺的是能挺过工具更替的能力，并把工具特定层排入替换日程。
+
+**伦理内容需要应对框架，而不只是意识。** 在 584 名没有 AI 课程的本科生中，胜任力提升了伦理意识（β = 0.644），而这又提升了焦虑（β = 0.439）；只指出问题而不教它们如何被治理，会让意识本身成为压力源（[[mu-ai-competence-ethical-awareness-anxiety-2026|Mu 等（2026）]]）。
 
 **AI 素养整合**把 AI 胜任力嵌入各学科。**[[the-scaffolded-ai-literacy-sail-framework-results-of-a-delphi-study-for-equitabl|SAIL]]** 提供一个可适用于所有年龄与教育阶段的支架式 AI 素养框架，处理第二层与第三层的 [[digital-divide|数字鸿沟]]。**[[tracing-genai-literacy-interaction-patterns]]** 考察 AI 素养如何通过互动模式而发展。**[[hingle-collaborative-ai-literacy-2025]]** 探索协作式的 AI 素养课程开发路径，并与 [[collaborative-learning]] 相连。
 
@@ -94,7 +102,7 @@ K-12 机器学习活动的设计停留在表层：一项 ICE-T 框架背后的�
 
 在生产中让 AI 起草变得可靠的是结构，而非提示措辞：[[curriculum-as-code-instructional-design-2026|Paiva（2026）]] 的 Curriculum-as-Code 管线激进地剪除上下文，并逐节地生成材料，横跨 28 个项目情境，把教师的备课时间从每份教案约八小时降到两小时，且没有留下概念或数学上的[[hallucination-risk|幻觉]]需要[[human-in-the-loop-ai|人工]]来捕捉。
 
-### 与相关概念的联系
+## 与相关概念的联系
 
 课程设计直接与 [[learning-design]] 相连——课程定义教什么，教学定义如何教。它与 [[ai-literacy]] 相连，因为内嵌 AI 胜任力是一个首要的课程挑战；与 [[teacher-role]] 和 [[educational-development]] 相连，因为课程变革需要教育者做好准备；与 [[scaffolding]] 相连，因为设计良好的课程会在课程与年份之间支架化技能的发展。与 [[higher-ed]] 和 [[k-12]] 的联系，反映了课程设计在各教育层级上的相关性。
 
@@ -158,3 +166,4 @@ K-12 机器学习活动的设计停留在表层：一项 ICE-T 框架背后的�
 - [[computing-assessment-genai-workshop-report-2026]] — AI 能替你做作业了，然后呢？一场关于生成式 AI 时代计算评估的在线工作坊报告
 - [[kharbach-k12-ai-literacy-frameworks-scoping-review-2026]] — 能力框架在五个维度上趋于一致，却没有共享的词汇或对照
 - [[bursic-ai-residency-education-curriculum-2026]] — 把 AI 整合进住院医师课程的障碍：对十二位医师领导者的质性访谈
+- [[rodafinos-llm-curriculum-audit-2026]] — 心理学中由大语言模型辅助的课程审计：一种基于提示的方法

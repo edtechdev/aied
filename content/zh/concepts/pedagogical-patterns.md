@@ -1,7 +1,7 @@
 ---
 title: 教学法模式
 created: "2026-09-30T16:20:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:15:00-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [pedagogy, scaffolding]
@@ -9,16 +9,20 @@ assessment: [formative-assessment, peer-assessment, ai-feedback-quality]
 audience: [instructors, instructional designers, faculty developers]
 level: [higher ed, k 12]
 confidence: high
-connected_resources: [learning-design-wiki]
 connected_faqs: [designing-ai-into-learning]
+connected_resources: [learning-design-wiki]
 translation_of: concepts/pedagogical-patterns
-source_updated: "2026-11-04T17:29:51-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -138,6 +142,14 @@ ai_assist:
 **证据：已检验，但在受控或非受控环境中，而非普通课堂。** 两名学习者共用一台 AI，被分配有轮换规则的显式角色；AI 按需承担一个角色，其产出发给全组。在结对编程变体中，共用 AI 对二人组的共同注意和努力建模，最多提前 30 秒预测关系破裂，并把支架从"什么都不做"到指令式提示分层升级。
 
 一项针对 26 个二人组的被试内实验发现，反馈条件的调试成功率更高（t[49.96] = −13.51, p < .0001），完成更快（t[44.70] = 4.39, p < .0001），尽管它需要[[sensor-and-gaze-analytics|双眼眼动]]和瞳孔测量硬件，且没有检验向无监督结对工作的迁移（[[golrang-propact-pair-programming-2026|Golrang et al., 2026]]）。一项针对 16 组 58 名研究生的准实验发现，角色设计把思维导图内容分数从 1–5 级 SOLO 量表上的 3.65 提到 4.59（z = 3.771, p < 0.001），而节点和分支数持平——但由于没有对照组，无法排除练习效应（[[cheng-symbiotic-role-design-human-genai-collaboration-2026|Cheng et al., 2026]]）。
+
+### 迭代草稿与分级协作
+
+**证据：实践描述——仅有一次首轮实施，没有比较条件，也没有测量结果。**
+
+学生以小组形式、至少经过两个有记录可查的阶段写一篇论文，从一组固定题目中选择，并依据迭代与协作的证据以及最终成品来评分；GenAI 在规定边界内被允许，既不被禁止也不被强制要求。
+
+在伦敦玛丽女王大学一个一年级商业分析师学位学徒模块中，11 个自行组队的小组共有 23 名学生以这种方式写了一篇迭代式 1,500 词论文，GenAI 被禁止提交生成的文本、也禁止生成参考文献列表。作者描述的是一次项目层面的[[pedagogy|教学法]]重构，报告的是初步洞见而非结果。他们的主张是：让过程证据真正承重的是评分标准，而不是指令本身；而在使用了该工具的学生中，有些人把它产出的内容当作有待争辩的主张——要检验的反方论点、可接受或可拒绝的结构（[[alam-process-oriented-collaborative-essays-2026|Alam 与 Jackson，2026]]）。
 
 ### AI 辅助的讨论
 
@@ -279,3 +291,4 @@ ai_assist:
 - [[beck-genai-literacy-economics-hands-on]] —— 基于一个 AI 错误构建的五步 AI 批评讨论（Beck & Brodersen 2025）
 - [[ccct-cooperative-learning-technique]] —— 带分配角色与画廊漫步的受测协作学习序列（Tutal 2026）
 - [[ai-assisted-seminar-learning-information-literacy-2026]] —— 带 AI 检索推荐器的研讨与同伴讨论模块（Huang 2026）
+- [[alam-process-oriented-collaborative-essays-2026]] —— 过程导向的协作论文：对迭代与协作评分，GenAI 在规定边界内被允许（Alam & Jackson 2026）

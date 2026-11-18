@@ -1,7 +1,7 @@
 ---
 title: 评价性判断力
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:47-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -10,13 +10,17 @@ audience: [instructors, learners, assessment designers]
 level: [higher ed]
 confidence: high
 translation_of: concepts/evaluative-judgment
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -85,6 +89,7 @@ ai_assist:
 - **正在提出课堂层面的判断力代理指标。** [[austin-ai-agents-assignment-redesign-2026|Austin（2026）]]在一套重新设计的作业序列上增加两个行为信号：UnBlooms™ *洞察率（Discernment Rate）*，即学习者审视、质疑或修改而非直接接受的 AI 输出所占份额，以及*首次接受率（First-Pass Acceptance Rate）*。两者都未经检验——都是作为廉价的分作业诊断而提出的——但它们使这一构念在常规评分之内可观察，其中多次作业中接近零的洞察率应读作任务设计信号，而非个体缺陷。
 - **当判断力与修改相连，而不仅是存在时，它才显现。**在 67 名用 GenAI 设计教案的职前教师中，低质量组几乎没有显式评价（0.67 对 0.00）；区分质量的是评价与修改之间双向的循环（CE→RE Z = 2.80，RE→CE Z = 2.50）以及一个修改自循环（RE→RE Z = 4.24）（[[fang-human-ai-collaboration-patterns-instructional-design-2026|Fang 等人（2026）]]）。
 - **教师的评价标准可以通过修改 AI 输出而外在化。**[[valiassist-programming-feedback-validation-by-demonstration-2026|Tang 等人（2026）]]从 16 名教师对 LLM 生成的编程反馈的编辑中推断出可复用的验证规则，并把与其教学意图的一致度从 57% 提高到 91%，使默会的标准变得可检视，而不是任其不被言明。
+- **环路，而非清单。** AI 评价性判断是递归运行的：对照职业标准评价，接受、修改或拒绝并重新提示，然后核验并说明理由，在制品仍不合格时回到评价（[[zheng-ai-evaluative-judgement-vocational-2026|Zheng 与 Tang（2026）]]）。
 
 ## 误用如何取代判断
 

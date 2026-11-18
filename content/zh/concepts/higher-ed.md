@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, teacherserver]
 title: 高等教育
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:03:36-05:00"
 type: concept
 foundations: [academic-integrity, ai-education, educational-development]
 technology: [generative-ai]
@@ -11,7 +11,7 @@ level: [higher ed]
 connected_faqs: [incorporating-ai-literacy, ai-literacy-evidence]
 confidence: high
 translation_of: concepts/higher-ed
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-17T07:20:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -23,24 +23,28 @@ ai_assist:
     role: translation
     date: "2026-10-14"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
+    agent: hermes-agent
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **高等教育**——把人工智能整合进大学的[[teacher-role|教学]]、学习、评估与[[administrator|行政]]。高等教育是本知识库中被研究得最多的情境，有 100 多篇文章考察AI如何改变大学层级的教学、[[educational-policy-ai|机构政策]]与[[student-experience|学生体验]]。AI在高等教育中既是 [[ai-education|AIED]] [[research-methods-aied|研究]]的主导场景，也是其张力最显眼之处——一端是 [[generative-ai|生成式 AI]] 承诺的可扩展[[personalized-learning|个性化]]，另一端是它对[[academic-integrity|诚信]]、[[cognitive-offloading|学习]]、[[privacy]]与[[equity-in-ai-education|公平]]的风险。它既涵盖本科也涵盖研究生学习，包括[[medical-education|医学]]与[[business-education|商业]]等专业项目。
+> **高等教育**——把人工智能整合进大学的[[teacher-role|教学]]、学习、评估与[[administrator|行政]]。高等教育是本领域文献中被研究得最多的情境，有 100 多项研究考察AI如何改变大学层级的教学、[[educational-policy-ai|机构政策]]与[[student-experience|学生体验]]。AI在高等教育中既是 [[ai-education|AIED]] [[research-methods-aied|研究]]的主导场景，也是其张力最显眼之处——一端是 [[generative-ai|生成式 AI]] 承诺的可扩展[[personalized-learning|个性化]]，另一端是它对[[academic-integrity|诚信]]、[[cognitive-offloading|学习]]、[[privacy]]与[[equity-in-ai-education|公平]]的风险。它既涵盖本科也涵盖研究生学习，包括[[medical-education|医学]]与[[business-education|商业]]等专业项目。
 
 ## 值得思考的问题
 
 - 高等教育是AI张力最显眼的地方——可扩展的个性化对诚信、学习、隐私与公平的风险。这些张力中，哪一个在你所在的机构里上演得最具体？
 - 大型研究揭示出机构政策与学生日常实际行为之间的落差。你认为官方政策为何如此频繁地偏离真实的学生实践？
-- 本页把AI采纳框定为不均匀的——一些机构转型而另一些落后，受组织驱动力与国家政策塑造。你认为什么因素决定一所大学是适应还是停滞？
+- AI采纳并不均匀：一些机构转型而另一些落后，受组织驱动力与国家政策塑造。你认为什么因素决定一所大学是适应还是停滞？
 - 当AI让个性化的一对一支持近乎免费且普及时，这如何改变大学本身的价值与角色？什么会变得更稀缺因而更有价值？
 - 一项发现指出，使用AI的大学生中学习时间下降。如果学生学习时间更少却报告满意，这对机构应当测量与守护的东西意味着什么？
 - 鉴于教师自评的AI准备度与实际准备度之间的落差，在你的情境中，有意义的教师发展会是什么样——谁应当为此负责？
 
 ## 引言
 
-高等教育中的AI研究横跨大学的每一项职能：从[[intelligent-tutoring|AI辅导]]与[[automated-assessment|自动评分]]到教师发展、学术诚信、[[governance|机构治理]]与学生支持。本知识库的高等教育文章围绕若干关键主题聚集——机构转型、大规模的学生体验、教师与教学、评估与诚信，以及政策与实践的快速变迁。在这项综述的 394 项 GenAI 高等教育研究中，参与者聚焦于学生的有 352 项、教师的有 15 项、两者兼顾的有 26 项、多个利益相关群体的一项，因此关于认知与教学实践的证据基础压倒性地以学生为主（[[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]）。
+高等教育中的AI研究横跨大学的每一项职能：从[[intelligent-tutoring|AI辅导]]与[[automated-assessment|自动评分]]到教师发展、学术诚信、[[governance|机构治理]]与学生支持。高等教育文献围绕若干关键主题聚集：机构转型、大规模的学生体验、教师与教学、评估与诚信，以及政策与实践的快速变迁。在这项综述的 394 项 GenAI 高等教育研究中，参与者聚焦于学生的有 352 项、教师的有 15 项、两者兼顾的有 26 项、多个利益相关群体的一项，因此关于认知与教学实践的证据基础压倒性地以学生为主（[[mapping-genai-higher-ed-scoping-review|Lin et al. (2026)]]）。
 
 ### 机构转型
 
@@ -66,11 +70,23 @@ ai_assist:
 
 ### 研究生与专业教育
 
-本知识库严重偏向本科学习，并把研究生与专业预备置于 [[discipline-specific-aied|学科特定]]页面之内（[[medical-education|医学与健康专业教育]]、[[business-education|商业教育]]、[[teacher-education|教师教育]]），而非一个独立的研究生教育页面。尽管如此，两条线索特别关系到硕士、博士与专业学生：研究训练与专业学位项目。
+本知识库严重偏向本科学习，并把研究生与专业预备置于 [[discipline-specific-aied|学科特定]]页面之内（[[medical-education|医学与健康专业教育]]、[[business-education|商业教育]]、[[teacher-education|教师教育]]），而非作为一条独立的研究生线索。尽管如此，两条线索特别关系到硕士、博士与专业学生：研究训练与专业学位项目。
 
 研究生 *研究* 实践是两者中更具特色的一个。[[dai-chan-responsible-genai-research-ai-literacy-2026|Dai and Chan (2026)]] 分析了 28 名研究生在七个焦点小组中如何在GenAI辅助的研究中践行 [[ai-literacy]]，发现他们是校准过的使用者而非被动采纳者——按感知的利益与学科规范把工具匹配到任务，保留 [[human-in-the-loop-ai|人类监督]]，并在可接受的起草帮助与替代自己的推理之间划出自己的边界。他们的核心发现是一个政策缺口：机构的GenAI指引涉及[[teacher-role|教学]]、学习与评估，却几乎不谈研究过程，因此作者提出面向研究者的指引，在研究工作流中为 [[research-methods-aied|研究者]]及其导师 [[scaffolding|支撑]]每一个AI素养维度。[[engagement-intensity-learner-modeling|Oh, Talton and Bui (2026)]] 从机构一侧接近同一群体：在 93 名生物科学研究生与博士后研究员参与的一门必修研究伦理课程中，三个简单的教学前行为信号为自适应的AI [[ethics]]教学提供了轻量级的入学画像，而先前的AI课程对五个看法结果无一预测。AI也在重塑研究团队本身——对 2020 年以来 [[ai-assisted-writing-research-teams|147,074 篇出版物的分析]] 把AI辅助写作与更小、更偏初级、产出高被引工作的团队联系起来，逆转了数十年来"大科学"走向更大协作的趋势——而 [[persistent-ai-agents-academic-research|一项单一研究者案例研究]] 记录了持续的 [[agentic-ai|智能体]]支持在一位研究者自身工作流中是什么样子。
 
 专业学位项目承载了大部分研究生层面的证据，且它按学科组织。在[[medical-education|健康专业教育]]中，[[ai-standardized-patient-scaffolding-medical-2026|一项对 100 名三年级医学生的随机对照试验]]测试了一个围绕临床访谈训练的明确 [[scaffolding|支撑]]功能组织的多智能体LLM系统——模拟病人、[[socratic-method|苏格拉底式]]导师、回合级评估器——而 [[ai-teammate-task-distribution-medical-training-2026|SCAN框架]]把受训者的AI使用重新框定为任务分配与实时 [[metacognition|元认知]]分类的问题，而非学习者的 *误用*。硕士层面的预备见于 [[instructional-design-proficiency-masters-math-2026|Zhu et al. (2026)]]，他们的 D–T–E 模型让三个LLM在"设计—反馈—反思"循环中充当"智能审稿人"，把[[math-education|数学]]教育硕士生的教学设计能力提高了（Cohen's *d* = 0.62）。[[genai-professionalization-metaphors-2026|学生如何概念化GenAI与自身的专业化]]横跨这些项目，而职场与持续的专业学习——与研究生学习相邻却不同——在 [[adult-learning]] 与 [[professional-training]] 下处理。
+
+这一细分如今已有各自的页面：[[undergraduate-education|本科教育]]承载大规模招生与导论课程的证据，而 [[graduate-education|研究生教育]]承载督导、研究训练与专业项目的证据。机构层面与教师层面的图景则同时适用于这两个层次。
+
+### 本科与研究生之间的差距
+
+使用频率是这一差距中信息量最少的部分，尽管它最容易测量。[[torres-peralta-perceived-learning-engagement-homework-2026|Torres-Peralta et al. (2026)]] 发现大学生比高中生更频繁地采用 ChatGPT，也更愿意点出披露与诚信方面的顾虑。不过他们是在不同时间分别调查中学与大学的，因此把这一结果称为梯度而非发展性的递进——对于任何建立在采纳率之上的层级比较，这都是恰当的告诫。
+
+分布才是这一差距与设计相关的地方。[[zaripova-genai-self-regulation-neuroai-competence-2026|Zaripova et al. (2026)]] 发现研究生在七个量表中有六个更高，AI 使用上 d = 1.29，伦理与学术自主上 d = 1.47，而感知的认知负荷没有变化（p = .296）。研究生在伦理、自我调节与能力上的标准差约为本科生数值的三分之一，四分位距被压缩在量表的顶端。研究生群体共享一套评判AI输出的框架。本科生群体里则既有批判性的评判者，也有几乎不报告这种倾向的学生，这就是为什么一条课程规则适合前者，却会漏掉后者的一部分。
+
+伦理上的差距最大，也最不牢靠。[[kumar-chatgpt-academic-assignments-2025|Kumar et al. (2025)]] 在 304 名学生中发现，伦理意识对自报的作业成绩的预测为 β = −0.006（p = .924），并把这解读为伦理塑造的是行为而非分数。支撑 d = 1.47 的伦理测量只有三个自评题项，没有行为层面的验证，Zaripova 的作者也预期社会赞许性会把它抬高。因此，这一层级划分作为对学生如何呈现自己的描述是可信的，作为对它们实际做什么的描述却未获证明。能定论的结果是行为：披露、引用、拒绝走捷径。
+
+一致性不仅在不同层级之间有差异，在同一层级内部也有差异。[[jacome-vasconez-chatgpt-adoption-xai-2026|Jácome-Vásconez et al. (2026)]] 把西班牙一所大学的 522 名学生聚成四类采纳画像，从 8.8% 的抵触者到 14.2% 的热衷者。习惯是意向最强的预测因子（β = 0.199），而教育层级并未调节该模型。因此，单一个本科生群体就横跨了层级比较当作层间差异来处理的那个范围。[[kong-ai-employability-cognitive-engagement-2026|Kong and Zhang (2026)]] 论证，采纳、可及与频率常被当作能力的代理指标，而这种推断在两个方向上都失效。他们的综述把几乎每一项被测量的结果都放在近端，因此一个更频繁使用AI的研究生并不因此就是能力更强的毕业生。
 
 ### 教师与教学
 
@@ -83,6 +99,8 @@ ai_assist:
 [[academic-integrity]]与[[ai-assessment-scale-reform|AI评估改革]]研究着力于大学应如何为一个具备AI能力的学生群体重新设计评价。以 [[ai-detection|检测为中心]]的方法正让位于 [[authentic-assessment]] 与基于过程的评价，包括 [[fenton-oral-exams-ai-authentic-assessment-2025|口试]]、[[roe-assessment-twins-2026|评估孪生]]与 [[beyond-detection-authentic-assessment-ai-2025|真实性评估再设计]]。这一转变反映了一个更深的关切：[[ai-tools-academic-work-cheating-2026|学生与机构如何定义作弊]]与AI，以及 [[assessing-quality-ai-generated-exams-field-2025|AI生成的评估材料的质量]]。评分本身的自动化正为开放式大学作业而成熟：[[pecuchova-automated-grading-open-ended-genai-2026|Pecuchova, Benko & Drlik (2025)]] 在 1,885 个针对 24 道软件工程考题的作答上基准测试了十一个GenAI与句子嵌入模型，发现仅 GPTo1 达到与两位专家人类评分者近乎完美的一致性（Fleiss' Kappa 0.82），上下文敏感模型优于参照式模型——但其专有API成本使作者建议资源受限的机构采用混合的人在回路部署。在专业项目层面，[[olvet-genai-scoring-open-ended-medical-2026|Olvet et al. (2026)]] 表明，[[llm]]（GPT-4）对临床见习前 [[medical-education|医学]]开放式考题的评分，在迭代式人工评分量表细化后可以达到与教师评分者从实质到近乎完美的一致（加权kappa最高 0.94），而作者仍建议保留人在回路以裁决残余分歧。补充这一模型级证据，[[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat, Das, Bhaumik & Thambi (2026)]] 用 ChatGPT-5 给一份 21 题的大学药学考试评分，发现客观题上与教师近乎完美一致（CCC 0.935–1.000），但简答与论述题上一致性不可靠，提供评分量表也未能一致地改善表现——强化了大学评估中 [[human-in-the-loop-ai|混合、人在回路]]评分的理由。
 
 第三条路线是把作业本身做得更硬：把提示渲染成扰动图像，使 LLM 完成作业的失败率从 7.4% 升至 55.6%，并把 Tesseract 提取错误推到 100.0%，从而把诚信重新框定为补充而非替代检测的内容设计（[[airri-machine-resistant-reading-interface-2026|Salaun et al., 2026]]）。
+
+这一含义在设计层面的版本，是 [[klapproth-constructive-alignment-genai-2026|Klapproth]] 的论证：[[generative-ai|生成式 AI]] 并未使建构性对齐失效，而是迫使其扩展。学习成果必须明确表现的条件——有AI、无AI，或披露式使用——因为同一任务在不同条件下测量的东西不同。该综述更尖锐的主张是，AI 会沿两条路径之一展开，支撑或捷径，而哪一条占主导由任务设计与评估形式决定，而非由工具决定。
 
 ## 对高等教育教师的启示
 
@@ -104,6 +122,8 @@ ai_assist:
 - **“AI 如何分配认识论工作在各机构之间是一致的。”** [[sun-student-genai-entanglement-literacy-demands-2026|Sun、Dohn 与 Rehm（2026）]] 按认识论工作如何被分配，对 **102 项高等教育实证研究** 做了分类，而差异本身就是发现，而不是一个细节。
 
 ## 关联概念
+- [[undergraduate-education]] — 本科阶段的AI：大规模课程、导论性STEM、评估诚信
+- [[graduate-education]] — 硕士与博士阶段的AI：督导、研究训练、专业项目
 
 - [[pedagogical-patterns]] — 多数经测试的序列证据所产生的层面
 - [[online-teaching-and-learning]] — 线上教学与学习
@@ -165,3 +185,9 @@ ai_assist:
 - [[ai-ethics-tensions-online-pedagogy-2026]] — 写针对具体方法的指引，而不是一份全校统一的 AI 政策
 - [[ai-literacy-determinants-university-students-2026]] — 感知资源与教师支持解释了 AI 素养方差的 29%；人口学变量没有解释
 - [[faculty-ai-well-being-social-supports-2026]] — 为教师资助 AI 素养，而不只是工具熟练度
+- [[zaripova-genai-self-regulation-neuroai-competence-2026]] — 研究生在七个量表中有六个更高（使用 d = 1.29，伦理 d = 1.47），且离散程度远小于本科生
+- [[torres-peralta-perceived-learning-engagement-homework-2026]] — 自评学习与三项行为参与指数在 1,477 名受访者中相关为 0.052
+- [[kumar-chatgpt-academic-assignments-2025]] — 伦理意识未能预测自报的作业成绩（β = −0.006，p = .924）
+- [[jacome-vasconez-chatgpt-adoption-xai-2026]] — 一所大学内的四类采纳画像；习惯是最强预测因子，教育层级不作调节
+- [[kong-ai-employability-cognitive-engagement-2026]] — 采纳与频率被读作能力代理指标；几乎每项被测量的结果都在近端
+- [[klapproth-constructive-alignment-genai-2026]] — 建构性对齐的扩展：学习成果必须说明表现的条件

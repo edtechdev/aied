@@ -1,7 +1,7 @@
 ---
 title: 远程监考
 created: "2026-08-20T04:50:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:15:06-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [online-teaching-and-learning]
@@ -10,13 +10,17 @@ ethics: [equity-in-ai-education, privacy]
 level: [higher ed]
 confidence: high
 translation_of: concepts/remote-proctoring
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -26,12 +30,12 @@ ai_assist:
 
 ## 值得思考的问题
 
-- 在阅读之前，当你想到"在线考试中的学术诚信"时，你保全它的第一直觉是什么——这个直觉是关于抓住作弊者，还是关于建立信任？本页论证，这两种直觉反映的是两种截然不同的理念。
+- 在阅读之前，当你想到"在线考试中的学术诚信"时，你保全它的第一直觉是什么——这个直觉是关于抓住作弊者，还是关于建立信任？这两种直觉反映的是两种截然不同的理念。
 - 远程监考的形态从人类通过摄像头观察，到 AI 系统分析眼动、头部姿态与面部表情。AI 系统在标记"可疑行为"时*实际*观察到了什么？你对"目光离开屏幕就等于作弊"这件事有多大信心？
-- 本页警告，监控可能适得其反：被观察会提升 [[anxiety-and-stress|考试焦虑]]，而焦虑的学生可能*更*可能作弊。你能想起一次压力或监控影响了自己表现的经历吗？那段经历是否削弱了监考的理由？
+- 监控可能适得其反：被观察会提升考试焦虑，而焦虑的学生可能*更*可能作弊。你能想起一次压力或监控影响了自己表现的经历吗？那段经历是否削弱了监考的理由？
 - 自动监考会采集学生的居住空间、面部与声音，学生往往除了同意之外几乎没有真正的选择。合理的考试监督与"在证明诚实之前有罪推定"的监控之间，界线在哪里——这条线该由谁来画？
 - 研究表明，监考可能把良性行为标记为可疑，造成错误指控，且模型准确率会因人群与环境而异。如果你是一名 [[administrator]]，你如何权衡它挽回的诚信与它可能侵蚀的公平与信任？
-- 本页把监考定位为一种工具，而非解决方案——替代方案如口试与 [[process-oriented-assessment|过程性评估]]是存在的。在阅读之前，面对远程情境下的高风险评估，你会为哪一种方法辩护，什么证据会改变你的想法？
+- 监考是一种工具，而非解决方案——替代方案如口试与 [[process-oriented-assessment|过程性评估]]是存在的。在阅读之前，面对远程情境下的高风险评估，你会为哪一种方法辩护，什么证据会改变你的想法？
 
 ## 引言
 

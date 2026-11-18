@@ -1,7 +1,7 @@
 ---
 title: AI 辅助的教育研究
 created: "2026-10-05T10:45:00-04:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-18T03:09:05-05:00"
 type: concept
 foundations: [ai-literacy, human-ai-collaboration, academic-integrity]
 technology: [generative-ai, llm, human-in-the-loop-ai, simulating-students, simulation]
@@ -16,12 +16,16 @@ confidence: medium
 connected_resources: [learning-design-wiki]
 contributors: [editor]
 translation_of: concepts/ai-assisted-educational-research
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 
 ---
@@ -78,6 +82,8 @@ AI 辅助的教育研究，是这一领域把 AI 工具转向自身的工作。�
 评价好并不意味着适合委派。在 118 篇仅有正面评估的 LLM 论文中，52% 仍报告了至少一个担忧，即工作流程低于其角色所需的门槛。模型访问以专有为主：84.1% 的 LLM 使用依赖专有或托管系统，11.0% 为混合，仅 4.9% 为开放权重。
 
 从这些模式中，作者导出 PRISMA-LLM，一个三层框架，其五个实施层级是披露层级而非风险层级。它是提出以供检验的提案，并非 PRISMA 执行委员会认可的官方扩展。他们提醒，论文层面的沉默并不证明验证不存在——它可能存在于产品报告、研究方案或代码仓库中。
+
+**对同一自动化的规制视角。** [[zhang-executor-partner-genai-systematic-review-2026|Zhang、Wang 与 Maeda（2026）]]问的不是 GenAI 在综述中做了什么，而是谁在规制这项工作。他们把系统综述当作一个受规制的学习系统，把综述活动映射到前瞻、执行与反思，再区分三种角色：GenAI 作为人类界定结构内的受委派执行者、作为对审稿人决策的共同调节影响，以及作为社会共享调节中的伙伴。将该框架应用于 60 项 GenAI 辅助的证据综合，他们发现所报告的用法压倒性地属于执行者角色，偶有共同调节，而共享调节的证据很少。这与上文工具层面的模式一致——自动化集中于筛选与提取——并增加了一项诊断：一个步骤可以在程序上有用，却完全不触及审稿人的监控、判断与适应。
 
 ## 质性编码与分析
 

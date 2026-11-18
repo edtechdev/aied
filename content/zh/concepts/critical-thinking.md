@@ -2,7 +2,7 @@
 connected_resources: [pressing-prompts, student-guide-to-ai]
 title: 批判性思维
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:15:06-05:00"
 type: concept
 foundations: [ai-education, ai-literacy, cognitive-offloading]
 pedagogy: [scaffolding, socratic-method]
@@ -11,13 +11,17 @@ connected_faqs: [verify-ai-output]
 level: [higher ed]
 confidence: medium
 translation_of: concepts/critical-thinking
-source_updated: "2026-11-05T08:55:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -39,9 +43,9 @@ ai_assist:
 
 把谬误导师（fallacy tutor）与辩论聊天机器人区分开的，是结构化的对话控制，而非更好的提示：把每一轮对话经由基于 Toulmin 模型的意图检测、固定的策略顺序与一个验证器代理来路由，使一个苏格拉底系统通过了 84.5% 的对话质量指标，而启发式基线为 61.5%（[[lftutor-logical-fallacy-education-2026|Shi 等（2026）]]）。
 
-### 人工智能教育研究中的批判性思维
+## 人工智能教育研究中的批判性思维
 
-知识库的文章通过[[design-based-research|设计型]]与实证的透镜探索批判性思维。[[ai-agents-constructive-conflict-design-education-2026|对抗性人工智能代理]]在新手设计师中实施建设性冲突，以促使重新考量——一个强迫批判性再评估的苏格拉底变体。[[genai-can-harm-teaching-rct-2026|关于教学中生成式人工智能的 RCT 研究]]提出了一个问题：那些为表层结果做优化的人工智能工具，是否可能在无意中压制导向更深学习的批判性思维。实测证据使这一点更锐利：批判性思维是否移动，取决于人工智能中介的反馈与任务如何设计，以及学习者的[[metacognition|元认知]]调节，而不取决于能否接触到某个模型。
+批判性思维通过[[design-based-research|设计型]]与实证的透镜被研究。[[ai-agents-constructive-conflict-design-education-2026|对抗性人工智能代理]]在新手设计师中实施建设性冲突，以促使重新考量——一个强迫批判性再评估的苏格拉底变体。[[genai-can-harm-teaching-rct-2026|关于教学中生成式人工智能的 RCT 研究]]提出了一个问题：那些为表层结果做优化的人工智能工具，是否可能在无意中压制导向更深学习的批判性思维。实测证据使这一点更锐利：批判性思维是否移动，取决于人工智能中介的反馈与任务如何设计，以及学习者的[[metacognition|元认知]]调节，而不取决于能否接触到某个模型。
 
 生成式人工智能使用与自陈批判性思维之间的关联，几乎完全经由生成式人工智能[[feedback-literacy]]传导：在 421 名中国本科生中，反馈素养中介了总关联的 71.98%（β=0.185），而剩余的直接路径只对反思性较低的学生为正（β=0.177），对反思性较高的学生不显著（[[genai-use-critical-thinking-moderation-2026|Yan 等（2026）]]）。
 
@@ -69,8 +73,9 @@ ai_assist:
 - **信心可能上升而准确率下降。**[[shaw-nave-cognitive-surrender-2026|Shaw 与 Nave（2026）]]发现，咨询人工智能助手在它正确时把准确率提高了 25 个百分点，在它出错时降低了 15 个百分点，然而即便出错后，调用它仍提高了信心，且 73.2% 的错误–人工智能试次以[[cognitive-surrender|投降]]而非策略性卸载告终。
 - **教师策展的 ChatGPT 反馈通过高阶修订提高批判性思维。**Chen 及同事（2026）做了一项为期 18 周的准实验，对象是 64 名本科生（全部为职前化学、物理或数学教师），在两个议论文写作任务上比较常规教师反馈（n = 32）与 ChatGPT 辅助的教师反馈（n = 32）。两组起点相当，只有辅助组有显著改善（p < 0.001），Cohen's *d* 从前测的 0.25 升到后测的 3.74。机制在于反馈的种类，而非模型是否在场：辅助组收到更多示范（33.1% 对 10.9%）与紧逼追问（21.5% 对 6.0%）的反馈，修订了 91.00%（478 中的 435）的反馈单元，对照组为 85.21%（284 中的 242）；[[network-analysis|认知网络分析]]把这些修订与"分析、评价、创造"相联，而非与"再认与理解"相联，而只有教师指令与评价反馈的情况大多产生再认与理解式修订。教师把模型的输出当作草稿材料来处理——扩展、修订或弃用（14% 弃用，9% 需要纠正），八位受访者中仍有六位指出其不精确或不专业。其设计教训是：批判性思维的增益来自那些示范替代方案、并审问学生推理的反馈，且由一位[[teacher-role|教师]]策展模型所产出的东西；小样本、单学期的性质意味着这个极大的效应量应当谨慎解读。（[[chen-chatgpt-assisted-teacher-feedback-critical-thinking-2026|Chen 等，2026]]）
 - **一学期的人工智能使用让批判性思维持平，而反思性使用追踪了它。**Melanou、Beege 与 Kimmig（2026）在三个平行条件（导师框架的人工智能、无引导的人工智能、无人工智能）下跟踪 87 名商业信息学学生完成为期九周的课程，测量三次。各组知识都上升，两种人工智能条件均无优势，也无马太效应（BF01 = 8.70），而自陈的批判性思维与[[motivation]]保持稳定。区分学生的是反思性使用——在采纳人工智能输出前核查来源并加以验证的实践：它在人工智能条件中高于对照组（均值 3.72 对 2.82），并预测了末次测量时的批判性思维（R² = 0.183，β = 0.43，p < 0.001）。这一结果限定了任何"一学期的人工智能使用本身就能推动批判性思维"的预期：关联存在于[[metacognition|元认知]]调节之中，而非工具访问权之中；作者也指出，一个学期大概太短，看不到持久的变化。（[[melanou-genai-learning-dynamics-longitudinal-2026|Melanou 等，2026]]）
+- **评价发生了移动，形式演绎没有。**四阶段的 AI 反馈使"对论证的评价"提高了 1.74 个调整分，而"演绎"只移动了 0.30（p = 0.383），说明增益落在判断主张上，而非形式逻辑上（[[structured-genai-feedback-critical-thinking-data-science-2026|Yin 等（2026）]]）。
 
-### 与其他概念的关联
+## 与其他概念的关联
 
 批判性思维与[[scaffolding]]（设计维持认知需求的人工智能支持）、[[prompt-engineering]]（提出能引出批判性分析的问题）以及[[cognitive-offloading|过度依赖]]（知道何时信任、何时质疑人工智能）相交。它是[[academic-integrity]]的根基，也是[[ai-literacy]]框架的一个关键维度，横跨[[k-12]]与[[higher-ed]]两种情境。
 

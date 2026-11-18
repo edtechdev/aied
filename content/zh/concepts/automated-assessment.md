@@ -1,7 +1,7 @@
 ---
 title: 自动化评估
 created: "2026-08-09T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:03:42-05:00"
 type: concept
 connected_faqs: [ai-save-instructor-time, ai-feedback-at-scale]
 foundations: [teacher-role]
@@ -11,7 +11,7 @@ ethics: [bias-mitigation]
 audience: [instructors]
 confidence: high
 translation_of: concepts/automated-assessment
-source_updated: "2026-11-04T15:25:17-05:00"
+source_updated: "2026-11-17T09:26:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -26,6 +26,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -113,7 +117,12 @@ ai_assist:
 ## 质量与公平
 
 自动化评估的质量取决于[[assessment-validity]]和[[bias-mitigation]]。[[ai-scoring-language-bias-physics|语言偏差]]研究表明，自动评分可能系统性地使某些学生群体处于不利地位。
+
+自动化也把评分重新框定为常规行政事务，而非教学法判断；而它换来的那种一致性，是对同一构念更好的测量，而不是对该构念的挑战（[[nieminen-grading-assessment-reform-2026|Nieminen 等（2026）]]）。
+
 **标准本身也会出错。**[[ai-marking-accuracy-gcse-physics-2026|Bozdag 与 Qiu（2026）]]用一个人工智能系统评阅 GCSE 物理答卷，并与官方考试委员会的分数和有经验教师的判断做比较，把与委员会的一致视为准确性的代理，而非准确性本身。
+
+- **把 AI 与人评分的不一致当作量表诊断。**[[zhao-ai-supported-grading-rubric-refinement-2026|Zhao 等（2026）]]把一个 LLM 评分器接入 PrairieLearn，使教师能看到题目层面与自己评分的不一致，从而在大规模使用之前先修订量表。AI 与人的一致性在一个单题的缺陷题上达到 99.4%，而在一个存在六种有效解法的马尔可夫矩阵题上降到 65%。
 
 ### 部署场景及其各自要求
 
@@ -123,7 +132,10 @@ ai_assist:
 
 组合三个模型并未消除该误差：由于它们的错误是相关的——在 63.4% 的作业上方向相同——[[machine-human-marking-agreement-institutions-2026|Corsi 等人（2026）]]的集成与最佳单一模型在统计上无法区分，共同的中心压缩倾向依然存在。
 
+LLM 能否替代人类评分者，是可以被检验的，而不是被假定的。在 631 份学生回答上的 523 种配置中，用最佳的 LLM—提示配对准替代两名人类评分者之一，在 103 条标准中的 88.3% 上使群体一致性不降反平；然而每条标准平均尝试的 20,464 种配置中，只有 14.6% 达到了这一门槛（[[baumartz-rubric-aes-llm-ensembles-2026|Baumartz 等（2026）]]）。
+
 [[tripartite-feedback-framework-ai-assessment-2026|Venetsanos（2026）]]提供了这些要求所预设的标准，他主张让自动化站得住脚的是任务的*认识论地位*，而非技术在技术上能做什么。他的框架把人工智能限定在对事实性与程序性主张的有界核验之内——明确的记录标准、与既有知识的直接比对、不对其他有效方法做评估、单一正确答案或预先规定的可接受集合，这四项必须同时成立，含混之处默认升级给人——并让人工智能在这一层面的介入取决于五项不可协商的原则，且必须同时成立：知识库必须由评估者策展并锚定于模块材料的检索，而非模型的参数化知识；人类评估者复核每一份到达学生手中的人工智能输出，并拥有绝对否决权与不可分担的责任；反馈必须带有清晰的出处与归属；安全必须从一开始就针对对抗性使用设计，对隐藏在白色或小号字体、编码、图像或文档元数据中的指令做输入净化，因为成功绕过自动化系统会在学生群体中扩散。同一篇论文也明确指出，其各项原则尚未被检验能否同时满足，而策展、安全基础设施和高频监督所需的评估者时间，可能会转移教职工的精力而非减少它——这一警示与上文本地化验证的要求并存。
+- **量表本身就是攻击面。**[[roy-premise-rubrics-llm-judges-2026|Roy 等（2026）]]表明，一份照着量表措辞写、却违背量表意图的回答，在经核验的尝试中仍有 46.4% 拿到高分，即便评判者之间的一致性居高不下。他们的精炼算子——适用性门槛、不予给分条款、分数上限——把这一比例降到 36.0%。
 
 ### 人工智能中介评分的安全性
 
@@ -134,6 +146,7 @@ ai_assist:
 自动化评估与[[assessment-validity]]（质量保证）、[[formative-assessment]]（使用情境）、[[bias-mitigation]]和[[equity-in-ai-education|教育中的人工智能公平]]（公平）、[[teacher-role]]（自动化如何改变教师工作），以及[[ai-feedback-quality]]（没有有用反馈的评分教育价值有限）相关联。置信感知评估是[[psychometrically-aware-ai]]这一更广泛议程中的具体机制，也是[[trust-calibration|校准后的信任]]的贡献者。
 
 - **手写[[physics-education|物理]]的大规模人工智能评分（2026）：**一个多模态模型（GPT-5.5）为一场全国物理奥林匹克理论考试、选拔营和一场大学量子力学考试评分，覆盖 10,364 个扫描页面，与官方分数的总分相关性达到 0.91–0.97，并复原了同一支奥林匹克前五名队伍。经修订的逐页、定位证据的指令改善了一致性——这表明[[multimodal|多模态人工智能]]可以在谨慎的量表与提示工程下支持高风险的终结性评分（[[ai-grading-handwritten-physics-2026]]）。
+- **智能体评分在离散题上可靠，在绘图题上不可靠。**[[alghamdi-claude-code-agentic-grading-2026|AlGhamdi（2026）]]让 Claude Code 为 60 份扫描的手写考试评分（r = 0.97，ICC = 0.96），但加权 kappa 从选择题的 0.98 降到评价类题目的 0.65，绘图题上的完全一致率仅为 55%。
 
 - **手写[[chemistry-education|化学]]的选择性自动化（2026）：**[[cvengros-grading-handwritten-chemistry-ai-2026|Cvengros 与 Kortemeyer]]用一个多模态、具备推理能力的 LLM，逐页为 296 名学生的一般化学期末试卷对手写量表图像评分，总分上达到很高的重测信度（ICC(A,1) = 0.967），与助教评分在总分上高度一致（R² = 0.91）。由于题目层面的信度依题型剧烈变化——文字题和化学反应题评分可靠，而绘图与作图题比随机还差——原始一致性被判定不足以支撑高风险用途。他们通过置信过滤器（部分给分阈值、基于[[item-response-theory|IRT]]的风险阈值，以及按题型排除）把[[human-in-the-loop-ai|人工转交]]操作化，把原始人工智能分数转化为接受／转交策略，并显示假阳性（人工智能把确实错误的答案判为正确）往往无人察觉，因为学生很少对此提出异议——这是一条具体的[[psychometrically-aware-ai|心理测量学立足]]的选择性自动化路径（[[cvengros-grading-handwritten-chemistry-ai-2026]]）。
 
@@ -148,6 +161,7 @@ ai_assist:
 - **结构化 LLM 评分可能看似分析性而实则非诊断性（2026）：**在对 50 道计算机科学问题的 3,041 个回答评分时，三个商用 LLM 产出的量表子维度近乎冗余（r = 0.82–0.99，VIF 最高 45），且只有 4.8–7.4% 的批注点名了[[misconceptions|迷思概念]]，而教师为 15.0%（[[llm-structured-assessment-diagnostic-quality-2026|Zhao 等，2026]]）。
 
 - **"一个 kappa 就是评分器的依据。"** 它只是一项检查，而一个在三个公开语料上对 **22 个提示模型** 的基准说明了原因。每个模型都通过了答案已知的探针：礼貌地索要满分、伪造的评分指令、空白答案、无意义词、赤裸的异议。**十四个**模型被标记为因一条注释而多拿超过**量表 5%** 的分数，在代码上最高达 **83.2%**，还有**七个**给空白或无意义答案记了分，因此[[porcaro-ai-grading-benchmark-2026|一致性数字与失效测试必须一起读]]。部署中的评分系统还多了一个要测试的输入：把一个[[student-modeling|学习者模型]]的估计分享给评分器，会让同一份作业的分数移动 **0.28 至 0.75 分**，而[[porcaro-ai-grader-reliability-2026|发现这一点的消融]]几乎未改变评分者一致性。
+- **标注的一致性取决于所用的框架。**在以 62 道药学题目对照教师标注时，一个 AI 课程映射工具在疾病状态上达到 kappa 0.69、在布鲁姆分类上为 0.57，但在 COEPA 子域上只有 0.24；而且这一比较允许教师给出多个标签，而工具只能单选（[[stewart-tag-question-categorization-competency-2026|Stewart 等（2026）]]）。
 
 ## 常见误解
 
@@ -183,6 +197,9 @@ ai_assist:
 
 ## 关联文章
 
+- [[stewart-tag-question-categorization-competency-2026]] — AI 课程标注：疾病状态 kappa 0.69、布鲁姆 0.57、COEPA 子域 0.24（Stewart 等，2026）
+- [[zhao-ai-supported-grading-rubric-refinement-2026]] — 把 AI 与教师的不一致当作 PrairieLearn 中的量表开发信号（Zhao 等，2026）
+- [[roy-premise-rubrics-llm-judges-2026]] — 量表措辞本身就是攻击面：经核验的利用尝试中 46.4% 拿到高分，量表精炼后降至 36.0%（Roy 等，2026）
 - [[llm-structured-assessment-diagnostic-quality-2026]] — LLM 的量表子维度近乎冗余，且反馈很少点名迷思概念（Zhao 等，2026）
 - [[opraise-automated-marking-ai-assessment-2026]] — OpRaise 报告：跨三所英国大学对 761 篇大学作文的人工智能评分
 - [[human-in-the-loop-ai-scoring-national-assessment-2026]] — 大规模国家写作评估中的人机协同评分（Curi 等，2026）
@@ -228,4 +245,5 @@ ai_assist:
 
 - [[porcaro-ai-grading-benchmark-2026]] — 超越一致性：22 个提示评分器面对答案已知的探针，其中大多数可以被说服抬分（Porcaro 2026）
 - [[dino-ai-teacher-performance-learner-behavior-review-2026]] — 评估教学而非学生作业，且不做合并
+- [[baumartz-rubric-aes-llm-ensembles-2026]] — 基于量表的自动作文评分与 LLM 集成，对照人类评分者的一致性做了检验（Baumartz 等，2026）
 

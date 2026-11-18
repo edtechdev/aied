@@ -1,7 +1,7 @@
 ---
 title: 医学与卫生专业教育
 created: "2026-08-16T09:22:41-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-18T03:31:20-05:00"
 type: concept
 foundations: [teacher-role]
 technology: [adaptive-learning, simulation]
@@ -11,7 +11,7 @@ audience: [learners, instructors]
 level: [higher ed]
 confidence: high
 translation_of: concepts/medical-education
-source_updated: "2026-11-07T13:45:00-05:00"
+source_updated: "2026-11-16T09:58:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -19,23 +19,27 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
+    agent: hermes-agent
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **医学与卫生专业教育（Medical and Health Professions Education, HPE）** — 对医学、护理、药学及联合健康专业人员的教学与培训。AI 正通过临床 [[simulation|模拟]]、[[reinforcement-learning|强化学习]] 训练器、[[adaptive-learning|自适应学习]]，以及在卫生专业情境中对基础学习原理（经验式、情境式与分布式认知）的应用，重塑这一领域。由于 HPE 具有高风险、以能力为基础且嵌入临床的特点，它提出了关于 AI 在技能习得、患者安全与教育者判断中的角色的独特问题。护理学是 HPE 中研究最充分的专业，现在有了自己的页面——[[nursing-education]]——本页仅以纲要形式携带的能力边界、身份形成与劳动力证据，在那里得到完整展开。
+> **医学与卫生专业教育（Medical and Health Professions Education, HPE）** — 对医学、护理、药学及联合健康专业人员的教学与培训。AI 正通过临床 [[simulation|模拟]]、[[reinforcement-learning|强化学习]] 训练器、[[adaptive-learning|自适应学习]]，以及在卫生专业情境中对基础学习原理（经验式、情境式与分布式认知）的应用，重塑这一领域。由于 HPE 具有高风险、以能力为基础且嵌入临床的特点，它提出了关于 AI 在技能习得、患者安全与教育者判断中的角色的独特问题。护理学是 HPE 中研究最充分的专业，在 [[nursing-education|护理教育]] 下有完整的覆盖，那里展开了本页仅以纲要形式出现的能力边界、身份形成与劳动力证据。
 
 ## 值得思考的问题
 
 - 在医学中，AI 带来的可扩展练习与自适应反馈等好处，必须与临床动手技能的侵蚀等风险相权衡——那里的错误直接带来患者后果。你会如何在「AI 应当做什么」与「受训者必须自己练什么」之间划界？
-- 本页主张 AI 应当被用来落实古老的学习原理——经验式、情境式、分布式认知——而非取代教育者的引导角色。当 AI 已经能够模拟或个性化练习时，是什么让教育者的判断不可或缺？
+- AI 如今能够落实经验式、情境式与分布式认知这类古老的学习原理，也能模拟或个性化练习。是什么让教育者的判断依然不可或缺？
 - 强化学习训练器与 [[agentic-ai|智能体 AI]] 现在被用于住院医师培训中的临床与操作技能。如果一个 AI 智能体培训一名住院医师做某项操作，你如何在他对真实患者动手之前验证他确实已安全地学会？
 - 由于卫生专业教育是高风险且以能力为基础的，评估问题承载着格外重的分量。AI 辅助的评估可能既改善又威胁临床能力的评定，这是怎么发生的？
 - 过度依赖 AI 是医学中的一项具体关切。你认为用 AI 训练如何可能造就一个更自信但独立推理能力更弱的临床医生——以及什么可以防范这一点？
 
 ## 引言
 
-AI 在医学与卫生专业教育中，是知识库学科覆盖中日益增长的一条线索。不同于一般的 [[higher-ed|高等教育]]，HPE 面向临床能力、操作技能与专业判断的发展，这塑造了 AI 工具的设计与评估方式。
+AI 在医学与卫生专业教育中，是 AI 教育研究中日益增长的一条线索。不同于一般的 [[higher-ed|高等教育]]，HPE 面向临床能力、操作技能与专业判断的发展，这塑造了 AI 工具的设计与评估方式。
 
 ### AI 如何出现在卫生专业教育中
 
@@ -43,7 +47,7 @@ AI 在医学与卫生专业教育中，是知识库学科覆盖中日益增长�
 - **临床技能与强化学习。** [[residencyrl-clinical-rl-training-2026|ResidencyRL]] 用强化学习训练住院医师的临床推理与操作技能，展示了 AI 作为真实临床工作流中的技能训练伙伴。
 - **模拟与智能体 AI。** [[hdr-brachytherapy-agentic-ai-simulation-2026|近距离放射治疗中的智能体 AI 模拟]] 展示了 AI 智能体如何支持医学专业中的动手操作训练。
 - **医学学习的游戏化。** [[medgame-llm-medical-education-gamification|MedGame]] 将 [[game-based-learning|游戏化]] 与 LLM 用于吸引医学生。
-- **护理与跨学科教育。** [[alrazeeni-transforming-nursing-education-ai-2026|护理教育的 AI 转型]] 记录了 AI 如何重塑护理课程与教学。本页把护理保留为医学、药学、牙科与联合健康之间的一个专业，围绕可扩展的临床能力这一共同问题来组织；护理专属的记述——一个 AI 已证实的好处止步之处的能力边界、一种明确的专业身份框架，以及学生的劳动力 [[anxiety-and-stress|焦虑]]——属于 [[nursing-education]]，此处仅交叉引用而不复述。
+- **护理与跨学科教育。** [[alrazeeni-transforming-nursing-education-ai-2026|护理教育的 AI 转型]] 记录了 AI 如何重塑护理课程与教学。本页把护理保留为医学、药学、牙科与联合健康之间的一个专业，围绕可扩展的临床能力这一共同问题来组织；护理专属的记述——一个 AI 已证实的好处止步之处的能力边界、一种明确的专业身份框架，以及学生的劳动力 [[anxiety-and-stress|焦虑]]——属于 [[nursing-education|护理教育]]，此处仅交叉引用而不复述。
 - **护理中的 AI 驱动模拟。** [[jiang-ai-powered-simulation-nursing-education-2026|Jiang 等人（2026）]] 对 19 项研究（N = 1,253）的 [[mixed-methods-research|混合方法]] [[meta-analysis-systematic-review|系统综述]]发现，AI 驱动的 [[simulation|模拟]]（GenAI/LLM、虚拟患者/模拟人、AI 增强的 VR/MR，以及 [[conversational-ai|聊天机器人]]）在最强的设计中显著改善认知知识与 [[affective-computing|情感性]] 结果（[[self-efficacy]]、沟通信心），但对复杂的心理运动技能效果不一致——一项 [[rct]] 发现 AI 辅助的模拟*劣于* 标准化患者。他们的**「真实性差距（authenticity gap）」** 概念——学习者在情感共鸣、非语言线索与触觉检查上感知到的欠缺——解释了为什么 AI 最适合高度结构化的目标（基础沟通、病史采集），并应当处在一个**阶梯式模拟连续谱**中，与人类标准化患者和临床实习并行而非替代它们。这是对该领域 [[simulation]] 线索的一种独特、以证据为锚的精炼，并与学习者偏爱被视为「善意」的人类反馈而非仅仅「胜任」的 AI 这一接受-信任发现相平行。
 - **LLM 与护理中 [[learner-identity|专业身份]] 的重构（2026）。** [[sun-llm-nursing-education-professional-identity-2026|Sun 等人（2026）]] 对 47 个国家 489 项研究的批判性整合综述（Whittemore & Knafl 框架），把问题从 [[llm|LLM]] 在护理教育中能做什么，转向它们的融入对一名护士形成过程中的*发展进程*做了什么。经由 Benner 的技能习得、认知负荷理论、[[automation-bias|自动化偏见]]与 Wenger 的身份形成框架，他们发现同一技术既增强也侵蚀能力，取决于被置换的认知工作对目标能力而言是外在的还是构成性的——无结构的依赖在伦理推理与临床判断上产生了可测量的缺陷。他们的**专业身份张力模型** 把支持专业形成的 LLM 融入与悄然替代之的融入区分开来，而**结构性共情抑制** 把 AI 在关系性指标上的表面「胜过人」重构为系统性过度劳累的症状而非真正的 AI 共情。一张证据差距图显示，政策后果最高的领域（专业身份、关系性/伦理性能力、长期结果）建立在最稀薄的严谨证据之上——这是对护理教育中自信部署主张的一个告诫。
 - **临床问诊训练中的多智能体 AI 标准化患者。** 在一项含 95 名受分析医学生的 2026 年 [[rct|随机对照试验]] 中（[[ai-standardized-patient-scaffolding-medical-2026|Yang 等人]]），多智能体 AI 标准化患者训练把最终 OSCE 对齐的考试分数提高到高于一个结构化的非 LLM 渐进披露对照组（71.8% 对 55.6%；β = 16.4 个百分点；P = 3.30e-4），而二元诊断准确率在统计上无差异（84% 对 86%；P = 1.000）。这一分离表明，早期临床训练的增益可首先出现在问诊过程质量上——沟通（1–5 的 OSCE 量表上均值 3.53 对 2.64；P = 4.50e-4）、共情表达（「表达共情」清单项上 +31 个百分点）以及选定的病史采集行为——而后才出现在诊断终点上，并且 AI 患者仍需要人类评定者与教师来做专业性与就绪判断。
@@ -52,17 +56,18 @@ AI 在医学与卫生专业教育中，是知识库学科覆盖中日益增长�
 
 - **标准级评分定位了 AI 患者做不到什么。** 在三个韩国 OSCE 病例中，四个骨干里有三个在可理解性、一致性与[[hallucination-risk|无幻觉]]上落在专家参照的 0.5 个 Likert 点之内，但弱点集中于临床推理与患者教育，以及韩语否定式对流畅度的惩罚（[[virtual-standardized-patients-osce-evaluation-2026|Yi, Park 与 Kim（2026）]]）。
 
-- **把 AI 整合进住院医师课程，首先是一个治理问题，其次才是内容问题（2026）。** Bursic 等访谈了 12 位在加拿大与美国研究生医学教育中领导 AI 工作的医生。他们列出的五项障碍是结构性的，而非教学性的：审查周期慢于工具发布、[[teacher-ai-competency|教师专长]]除少数专家外普遍薄弱、[[governance|治理]]在隐私与数据所有权上尚未跟上、没有国家能力标准，以及与专业身份相关的文化阻力（[[bursic-ai-residency-education-curriculum-2026|Bursic 等（2026）]]）。他们的提议是一个模块化核心——[[ai-literacy|AI 素养]]、批判性评估、偏见检测、人机元认知、伦理——并每六到十二个月审查一次专业与本地工具内容。本页记录 AI 在这里能教什么，而这条线索记录一个项目究竟能否把它教出来。
+- **把 AI 整合进住院医师课程，首先是一个治理问题，其次才是内容问题（2026）。** Bursic 等访谈了 12 位在加拿大与美国研究生医学教育中领导 AI 工作的医生。他们列出的五项障碍是结构性的，而非教学性的：审查周期慢于工具发布、[[teacher-ai-competency|教师专长]]除少数专家外普遍薄弱、[[governance|治理]]在隐私与数据所有权上尚未跟上、没有国家能力标准，以及与专业身份相关的文化阻力（[[bursic-ai-residency-education-curriculum-2026|Bursic 等（2026）]]）。他们的提议是一个模块化核心——[[ai-literacy|AI 素养]]、批判性评估、偏见检测、人机元认知、伦理——并每六到十二个月审查一次专业与本地工具内容。临床证据记录了 AI 能教什么；课程层面的问题则是一个项目究竟能否把它教出来。
 
 - **学生默认把 AI 患者当作可搜索的数据库。** 在一项 [[problem-based-learning|PBL]] 先导中对 genAI [[ai-avatars-and-synthetic-instructors|化身]]做语音问诊，学生提出封闭式的、以效率为中心的问题——有一人问 AI 是否「就只是一个题库」——且问诊耗时 55–65 分钟，而旧模块为 36–39 分钟（[[genai-simulate-patient-history-pbl-2026|Mool 等人，2026]]）。
 
 - **主动性是任务分配之外的第二个轴。** [[agency-gap-ai-writing|Jin 等（2026）]]把 79 名医学与护理学生及毕业生随机分配到两种智能体：一种等待提示的反应式智能体，一种驱动序列化问题的主动式智能体，任务是就一场四人护理模拟的[[multimodal|多模态]]痕迹（每种行为的时间条形图、一张沟通网络、一张病房热力图）所生成的视觉材料撰写分析文章。两种条件在认识论结构上差异显著（Cliff's delta 为 -0.56 与 -0.78），而最终分数没有差异，因此工具在任务分配中的位置与它要求多少主动性，是两个独立的设计决定。
+第二条治理缺口在产出侧。卫生专业教育中的政策绝大多数管制学习者用 AI 做什么，很少管制教师用 AI 产出什么，Chew（2026）把这视为结构性的：AI 生成的图像、案例与试题作为教学内容进入课程，在那里一个看似合理的错误会触及每一位学习者，而且可能永远不会产生学生犯错时那样的纠正信号。他把失效分为表征、推理与评估三类，并论证后果的不对称性——学习者的错误可纠正，课程的错误则以既定知识的形式传播——为四项机构能力提供了依据：知道在用什么、在学习者看到之前先做测试、对发现采取行动（包括撤回），以及监测已批准工具的漂移。按此论述，审计能力是一种可能的新 [[equity-in-ai-education|公平]] 鸿沟（[[chew-ai-content-governance-medical-education-2026|Chew，2026]]）。
 - **没有共享学生记录的跨专业分析。** [[federated-learning-at-risk-student-prediction-2026|Kovor、Osei 与 Agyemang（2026）]]把 Open University [[learning-analytics|学习分析]]数据集划分为五个项目—学科客户端，作为卫生专业的类比，并发现联邦逻辑回归保留了集中式性能的 99.3–99.9%，因此跨项目共享风险模型的障碍是组织性的，而不是统计性的。合并模型失败的原因是[[pedagogy|教学法]]上的异质性：他们的示例中一个护理项目有 30–35% 的高风险学生，而同时期的医学项目为 15–18%，且论坛活动在每个学科中都排在预测因子的最后，因为这些项目中的[[collaborative-learning|同伴学习]]发生在临床实习中。
 
 - **任务分配与 SCAN 框架。** [[ai-teammate-task-distribution-medical-training-2026|Tsim 等人]] 把 AI 融入从学习者的「误用」重构为*误分类*——实时 [[metacognition|元认知]] 评估的失败。他们的 SCAN 框架（Substitute, Complement, Aid, Non-Negotiable）以 Vygotsky 的 [[sociocultural-learning|最近发展区]] 为基础，按个体学习者的发展状态分配 [[generative-ai|生成式 AI]] 任务，并把 AI 脚手架任务中的被动投入识别为一条通向技能错配的隐藏路径，它需要被从 AI 重新识别为专家协助，并配以人类 [[human-in-the-loop-ai|认识论审计者]]。
 - **人类在环的教学资产生成。** [[gen-mentor-dental-radiography-2026|Gen-Mentor]]（Dong 等人，2026）把一个视觉-语言模型骨干整合进牙科影像工作流：Faster R-CNN 定位四个目标发现（Filling, Implant, Impacted Tooth, Cavity），一个条件扩散模型生成类别特定的合成 ROI 候选，一个 VLM 产出与证据相连的说明文字，再由一个 [[llm]] 重排成病例描述、对比与测验提示——这一切都在结构化专家审查之前完成。以 45 名牙科学生评估（mean SUS 72.7），它展示了 [[human-in-the-loop-ai|人类在环]] 对 AI 生成教学资产的审查，如何在保留专家对学生所见内容的监督的同时，扩展病例多样性与即时反馈支持。
 - **[[automated-assessment|AI 评分]] 药学考试。** [[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat, Das, Bhaumik 与 Thambi（2026）]] 把 ChatGPT-5 与人类教师对一份 21 题药学考试的评分做了比较（16 名学生），题型涵盖选择题、多选全对题、填空题、列举题、简答题与论述题。该模型在客观题上与教师高度一致（CCC 0.935–1.000），但对列举、简答（CCC ≈0）与论述（0.341–0.854）回答不可靠，而结构化评分标准并未一致地提升一致性——这表明在卫生专业的高风险、以能力为基础的 [[assessment]] 中，AI 适合规定明确的题目，而对主观的、开放式的临床推理仍需要 [[human-in-the-loop-ai|人工复核]]。
-- **一个经验证的临床沟通 LLM 评判器。** [[sophie-clinical-communication-ai-assessment-2026|Hasan 等人（2026）]] 仅从转录文本就对 3E 沟通技能打分，其评判器对人类评定者共识达到 Pearson 0.759 与 ICC(A,1) 0.746，落在单个人类评定者的散布范围之内，尽管其最弱的维度（Be Explicit）并未随问诊次数改善。
+- **一个经验证的临床沟通 LLM 评判器。** [[sophie-clinical-communication-ai-assessment-2026|Hasan 等人（2026）]] 仅从转录文本就对 3E 沟通技能打分，其评判器对人类评定者共识达到 Pearson 0.759 与 ICC(A,1) 0.746，落在单个人类评定者的散布范围之内，尽管其最弱的维度（Be Explicit）并未随问诊次数改善。这两条工作线索测量的都是沟通行为而非自我报告；[[empathy|共情]] 汇集了关于它们所服务的这一构念之教学与测评的已知内容。
 - **基于情境的卫生教育中的 GenAI。** [[genai-scenario-based-healthcare-education-2026|Neto 与同事（2026）]] 系统综述了卫生教育中跨基于情境、案例、问题与模拟的学习里 GenAI 的 23 项研究（PRISMA 2020）。其核心发现是 **[[prompt-engineering|提示设计]] 充当教学规约**——把专家编写中隐含的认知目标与质量标准编码出来——但只有 34.8% 的研究让生成内容与教学框架对齐，也只有 34.8% 的研究报告了足以复现的提示细节。GPT-4 主导了实现（44.4%），混合式 [[human-ai-collaboration|人机协作]] 胜过全自动方法，而证据对高阶认知技能最强、在其他地方则不一致。这为医学教育中的 [[simulation|情境/模拟式]] 与 [[problem-based-learning|问题式]] [[pedagogy]] 提供了验证与整合质量上的 [[benchmark|基准]]。
 - **开放式考试题的 AI 评分。** [[olvet-genai-scoring-open-ended-medical-2026|Olvet 等人（2026）]] 测试 [[generative-ai|GPT-4]] 能否在两所美国医学院校可靠地为临床前 [[assessment|评估]] 中的开放式问题打分。经教师跨三轮错误模式分析迭代精炼评分标准后，AI–教师的评分者间信度在四题中的三题达到实质到近乎完美的一致（weighted kappa 最高 0.94），但在整体评分标准题上仅为中等（κw = 0.54）；分歧可追溯到双方（GPT-4 对多答案或无评分标准词汇的回答打分过高；教师过于宽松），偶发的反馈不准确也使 [[human-in-the-loop-ai|人类留在环内]]。作者认为，自动 OEQ 评分的理由得到了加强，因为美国约 82% 的医学院校对临床前作业采用通过/不通过评定，那里并不总是要求 AI 分数精确一致。
 - **重跑并不能复现同一个分数。** 在一门硕士层次的公共卫生课程中，四个通用 [[llm|LLM]] 与两位人类考官给同样的 32 份匿名论述提交评分；思考模式下的 ChatGPT 达到加权 kappa 0.718，但在五个不同日子对相同提交重新评分只达到 Krippendorff's alpha 0.625（[[llm-grading-assistants-public-health-2026|Brevik 等人（2026）]]）。作者建议在高风险使用中取多次评估的平均。
@@ -75,19 +80,21 @@ AI 在医学与卫生专业教育中，是知识库学科覆盖中日益增长�
 
 ### 为什么它重要
 
-HPE 是一个高风险、以能力为基础的领域，AI 的好处（可扩展练习、自适应反馈、模拟）必须与风险（[[cognitive-offloading|过度依赖]]、临床动手技能的侵蚀、伦理与安全问题）相权衡。知识库的一般概念——[[teacher-role]]、[[assessment]]、[[feedback]]、[[equity-in-ai-education]] 与 [[ethics]]——在卫生专业中以特别的强度适用，因为那里的错误直接带来患者后果。
+HPE 是一个高风险、以能力为基础的领域，AI 的好处（可扩展练习、自适应反馈、模拟）必须与风险（[[cognitive-offloading|过度依赖]]、临床动手技能的侵蚀、伦理与安全问题）相权衡。一般概念——[[teacher-role|教师角色]]、[[assessment|评估]]、[[feedback|反馈]]、[[equity-in-ai-education|公平]] 与 [[ethics|伦理]]——在卫生专业中以特别的强度适用，因为那里的错误后果直接抵达患者。
 
 [[wang-safety-gap-productive-struggle-2026|Wang 与 Shan（2026）]] 把由此产生的「安全差距（safety gap）」——学生的 AI 辅助表现与其无辅助验证能力之间的分歧——命名出来，并主张在高风险临床训练中暂缓给出解答、引入建设性认知摩擦，以及采用[[socratic-method|苏格拉底式]]或对抗式的 AI 架构。
 
 - **课程究竟教了什么关于数据来源的东西。** [[giancotti-data-provenance-health-ai-curricula-2026|Giancotti 等（2026）]]对 36 个美国卫生 AI 项目的公开宣传课程编码，发现伦理在 29 个（80.6%）中被覆盖，但数据来源在结构或数据集局限层面只有 8 个（22.2%），没有任何项目涉及计算的环境成本，七个硕士学位项目也无一达到数据来源的门槛。在 92 位具名教师中，76.1% 来自计算学科，3.3% 来自社会科学或人文学科。这一缺口具有临床后果：论文开篇所述的部署失败是在上游引入的，即训练数据如何被生成或标注，而这是一项可教的胜任力，课程似乎并未承载它。
 - **使用已经跑在教学前面。** 在 310 名卫生科学学生中，90% 用过 ChatGPT，而 82.6% 没有接受过正式的 AI 教学；使用频率与更高的 GPA 相关，61% 报告了[[ethics|伦理]]关切（[[alshahrani-health-sciences-ai-use-2026|Alshahrani 等，2026]]）。
 
+撒哈拉以南非洲的证据使这一缺口在物质受限的条件下变得具体。在一所加纳公立大学六个联合健康专业中调查 417 名本科生时，[[ago-prompt-literacy-allied-health-2026|Ago 等（2026）]]发现 76.3%（n = 318）此前未接受过关于负责任使用 AI 的任何教学，而学生把付费订阅与网络连通性列为使用上的限制之一。他们要求的是课程而非禁令：AI 素养与能力建设获得 185 个编码，占所建议支持策略的四分之三以上。
+
 ## 对卫生专业教育者的启示
 
 - **用 AI 落实学习原理，而非取代教育者。** [[fowlin-operationalizing-learning-principles-ai|Fowlin 等人]] 主张 AI 应当落实经验式、情境式与分布式认知的学习，而教师仍是投入与成果的核心。
 - **借 AI 之力做临床技能训练。** [[residencyrl-clinical-rl-training-2026|ResidencyRL]] 与 [[hdr-brachytherapy-agentic-ai-simulation-2026|智能体模拟]] 展示了 AI 作为真实临床工作流中的技能训练伙伴——把它嵌入到能增加安全、可扩展练习的地方。
-- **权衡高风险的收益与过度依赖。** HPE 以能力为基础且高风险；防范 AI 取代临床动手技能与判断，并格外审慎地应用 [[feedback]]、[[assessment]] 与 [[ethics]] 考量。
-- **审慎地适配游戏化与跨学科的 AI。** [[medgame-llm-medical-education-gamification|游戏化的 LLM 学习]] 与 [[alrazeeni-transforming-nursing-education-ai-2026|护理教育转型]] 显示前景，但需要就安全与技能结果做评估；对护理而言，那种安全与技能的证据——包括 AI 辅助模拟劣于标准化患者的那项 RCT——汇集在 [[nursing-education]] 上。
+- **权衡高风险的收益与过度依赖。** HPE 以能力为基础且高风险；防范 AI 取代临床动手技能与判断，并格外审慎地应用 [[feedback|反馈]]、[[assessment|评估]] 与 [[ethics|伦理]] 考量。
+- **审慎地适配游戏化与跨学科的 AI。** [[medgame-llm-medical-education-gamification|游戏化的 LLM 学习]] 与 [[alrazeeni-transforming-nursing-education-ai-2026|护理教育转型]] 显示前景，但需要就安全与技能结果做评估；对护理而言，那种安全与技能的证据——包括 AI 辅助模拟劣于标准化患者的那项 RCT——汇集在 [[nursing-education|护理教育]] 上。
 
 - **按证据而不是手头的工具来排序课程。** 同一张 KAS 地图显示了证据在哪里厚、在哪里薄：伦理知识（14 项研究）、责任（14）、应用技能（16）与评价技能（18）有共识，而技术知识、应用知识与操作技能各为 9 项，协作为 7 项。在基础设施不可靠的地方，用基于屏幕的案例与开放获取的模型演示抵达技术层，而不是等待高保真模拟。
 
@@ -152,4 +159,5 @@ HPE 是一个高风险、以能力为基础的领域，AI 的好处（可扩展�
 - [[rony-nursing-educators-ai-tpack-2025]] — 孟加拉国护理教育者论 AI 就绪、障碍与数据治理：以 TPACK 解读
 - [[bursic-ai-residency-education-curriculum-2026]] — 把 AI 整合进住院医师课程的障碍：对十二位医生领导者的质性访谈
 - [[alshahrani-health-sciences-ai-use-2026]] — 连接技术与教学法：对多元卫生科学课程学生的 AI 使用、自评学业影响与伦理关切的横断分析
+- [[ago-prompt-literacy-allied-health-2026]] — 加纳六个联合健康专业的提示素养：常规 GenAI 使用而无培训、订阅与连通性限制，以及在先验知识最薄弱之处的提示—验证悖论（Ago 等，2026）
 

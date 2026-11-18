@@ -1,20 +1,24 @@
 ---
 title: 社会文化学习
 created: "2026-07-28T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 type: concept
 foundations: [agency, human-ai-collaboration]
 pedagogy: [constructivist, learning-theories, scaffolding, sociocultural-learning]
 technology: [generative-ai]
 confidence: high
 translation_of: concepts/sociocultural-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -32,7 +36,7 @@ ai_assist:
 
 ## 引言
 
-### 概念
+## 概念
 
 社会文化理论（Vygotsky, 1978；Luria；Leontiev）主张，高级心理功能通过参与有文化组织的活动而发展。与把学习全然定位于个体信息加工的说明不同，社会文化观点强调：
 
@@ -40,13 +44,13 @@ ai_assist:
 - **学习是社会性的。** 高级心理功能先出现在人与人之间（主体间地、在互动中），然后才出现在个体之内。学习通过与[[teacher-role|教师]]、同伴和共同体一起参与而产生——在[[scaffolding]]、学徒制和穿越 ZPD 等过程之中。
 - **[[distributed-cognition|认知是分布的]]。** 认知工作分散在人、制品和环境之间（Hutchins；Clark & Chalmers；Pea），而非封闭在个体心智之中。[[distributed-cognition|分布认知]]、[[situated-learning|情境学习]]和实践共同体扩展了社会文化这一脉络。
 
-### 最近发展区（ZPD）
+## 最近发展区（ZPD）
 
 ZPD（维果茨基）是在[[intelligent-tutoring|AI 辅导]]中应用最广的社会文化概念：学习者独立能做的事与借助帮助能做的事之间的空间。当教学瞄准这一区间时学习最有效——有足够的挑战推动发展，又有足够的支持使进步成为可能。它是[[scaffolding]]的理论基础：随着胜任力增长而撤出的、临时的、可调节的支持。在教育 AI 中，ZPD 框定了这个中心设计问题：一个[[intelligent-tutoring|AI 辅导]]者应提供多少支持，使学习推进而不至于把答案送出去——参见[[stanford-evidence-base-ai-k12-2026]]。
 
 机器制造的帮助可以落在这一区间之内。在一项覆盖四门数学学科、274 名[[adult-learning|成人学习者]]的随机研究中，ChatGPT 生成的解题提示带来了 17.00% 的前后测增益，而无提示组为 1.85%，人类导师撰写的提示为 11.62%；两种帮助条件在统计上无法区分（[[chatgpt-hints-human-tutor-learning-gains-2024|Pardos 与 Bhandari，2024]]）。错误率给这种等价性加上了限定：32% 的生成提示未通过质量检查，直到自洽性[[prompt-engineering|提示]]把三个代数科目的这一比例降到接近零、统计学一科仍为 13%。一个三次里错一次的"更有知识者"仍然是中介主体，这正是为什么在学习者据此建构之前，机器的贡献必须先被核查。
 
-### AI 教育中的社会文化学习
+## AI 教育中的社会文化学习
 
 社会文化理论以若干不同方式塑造着 AIED 的[[research-methods-aied|研究]]：
 
@@ -61,7 +65,7 @@ ZPD（维果茨基）是在[[intelligent-tutoring|AI 辅导]]中应用最广的�
 - **文化与[[governance|机构]]语境。** 与[[constructivist|建构主义]]相邻的社会文化脉络强调，文化维度塑造着什么算"知道"、谁是权威、努力意味着什么——见[[young-people-learning-generative-ai-rapid-review-2026|悉尼 PreK-12 快速综述]]的学习者—语境—文化框定。
 - **验证话语测量需要其话语被测量的青少年。** 与四名焦点学生一起重新语境化话语移动的定义，把 [[llm]] 分类 F1 在 Claim 上提高 +0.104、Question 上提高 +0.23，且学生自己的解读与成人和模型框架分歧——这是基于文本分类的结构性限制，而非数据量问题（[[youth-enter-chat-llm-student-talk-2026|Santos-Deonizio 等（2026）]]）。
 
-### 与认知负荷和元认知的联系
+## 与认知负荷和元认知的联系
 
 社会文化脉络与[[cognitive-offloading|认知负荷]]理论（支持应管理负荷而不消除有益的努力）和[[metacognition]]（区间内的学习者正积极监控和调节自己的理解）紧密耦合。[[stanford-evidence-base-ai-k12-2026]]综合了[[k-12|K-12]]证据：当 AI 工具让学习者留在 ZPD 内而非替他们作答时效果最好，而[[human-in-the-loop-ai]]研究探讨人与 AI 的支持如何共同界定学习者的区间。
 

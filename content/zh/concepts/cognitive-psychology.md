@@ -1,19 +1,23 @@
 ---
 title: 认知心理学
 created: "2026-08-27T10:52:12-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:06:38-05:00"
 type: concept
 pedagogy: [cognitive-psychology, learning-theories, metacognition]
 technology: [generative-ai, intelligent-tutoring, knowledge-tracing]
 confidence: high
 translation_of: concepts/cognitive-psychology
-source_updated: "2026-11-07T12:10:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -77,6 +81,8 @@ Mayer的多媒体学习认知理论（CTML）把同样的工作记忆假设应�
 3. **尊重工作记忆限制。** 把认知负荷理论应用于AI用户体验：减少外在负荷（摩擦、过载界面）同时保留关联加工（[[desirable-difficulties|生产性挣扎]]、提取练习），而非把所有认知需求最小化。
 4. **校准元认知。** 因为[[metacognition]]支配学习者何时选择卸载，教校准（知道自己无助时实际能做什么）是对过度依赖的认知主义答案（见[[cognitive-offloading]]）。
 
+发展是另一个问题：这些机制被当作稳定的，而[[developmental-psychology|发展心理学]]追问它们如何随年龄变化，以及这对按年龄分段的 AI 使用意味着什么。
+
 ## 常见误解
 
 - **"心理表征不可观察，因此关于学习的认知主张只是假设。"** 从学习者在科学视频中的 **EEG** 重建图像，发现**表征保真度追踪测试表现**（回归系数 **0.8481，R² = 0.79**）。认知主义关于内部表征的前提是可测量的，而该测量预测了结果。
@@ -97,6 +103,8 @@ Mayer的多媒体学习认知理论（CTML）把同样的工作记忆假设应�
 - [[adaptive-learning]]
 - [[personalized-learning]]
 - [[item-response-theory]]
+- [[developmental-psychology]]
+- [[longitudinal-research]]
 - [[distributed-cognition]]
 - [[icap-framework]]
 - [[transfer-of-learning]]

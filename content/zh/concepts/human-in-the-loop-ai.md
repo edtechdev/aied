@@ -1,7 +1,7 @@
 ---
 title: 人在回路
 created: "2026-05-07T10:44:35-04:00"
-updated: "2026-11-08T10:12:52-05:00"
+updated: "2026-11-18T03:47:00-05:00"
 connected_faqs: [ai-agents-support-students-instructors, designing-educational-ai-software, ai-feedback-at-scale]
 type: concept
 foundations: [ai-education]
@@ -12,7 +12,7 @@ confidence: medium
 methods: [benchmark]
 ethics: [pedagogical-safety]
 translation_of: concepts/human-in-the-loop-ai
-source_updated: "2026-11-08T09:30:45-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -23,6 +23,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -79,10 +83,12 @@ Kim、Baek 与 Kwak（2026）通过 **PedaCo**（Pedagogical Co-creation，教�
 
 ## 为何 HITL 在 AI 时代重要
 
-人在回路设计因若干相互汇合的原因，已成为本知识库 [[agentic-ai|智能体式 AI]] 与 [[ai-literacy|负责任 AI 使用]] 讨论的核心：
+人在回路设计因若干相互汇合的原因，已成为 [[agentic-ai|智能体式 AI]] 与 [[ai-literacy|负责任 AI 使用]] 讨论的核心：
 - **教学性安全。** [[pedagogical-safety|教学性安全]] 要求拥有真实教学权威的 AI 保留人类监督，使错误、偏见或有害输出在到达学习者之前被抓住。这对 [[agentic-ai|主动追求目标]] 的自主智能体尤其重要。
 - **监督在实践中罕见，而不只是在理论上。** [[agentic-ai-education-scoping-review|Wang 等人（2026）]] 发现，在 474 个教育智能体式 AI 系统中，稳健的内嵌治理与人在回路监督极少出现，即使单任务自主性与多智能体协作在增长 —— 设计原则与部署实践之间的落差。
 - **关键问题是如何让回路可操作，而非人类参与多少。** [[learning-sciences|学习科学]]的观点认为，围绕数据捕捉、计算性解释与可能回应来组织学习，会使教学行动取决于系统能检测并作用于什么，且警示与参与分类在任何教师或学生行动之前就解释着学习者（[[in-the-loop-educational-ai-learning-sciences-2026|Pande（2026）]]）。
+
+- **序列中的位置比工作流中的在场更要紧。** 评审一件已完成成品的人并不是独立的核查。在一项安全监督实验中，416 名评分者评判 3,957 个条目，当候选答案先于他们自己的判断呈现时，他们在模型答错的条目上准确率更低，从 36.7% 降到 20.6%，而在模型答对的条目上有所提升（[[shi-human-ai-complementarity-safety-2026|Shi 等，2026]]）。先记录人的判断，或只展示证据而不展示模型的裁决，才保全了回路本应产生的那道纠错。
 - **效度与质量控制。** HITL 是 [[automated-assessment|自动化评估]] 与生成的质量闸门 —— 人在自动评分不可靠之处裁决（见 [[llms-do-not-grade-essays-like-humans-2026|大语言模型作文评分]] [[research-methods-aied|研究]]）并验证生成的题目。一项对 42 项评分与反馈研究（2023—2025）的 PRISMA 引导 [[meta-analysis-systematic-review|系统综述]] 明确得出同样结论：大语言模型在简短、结构良好的任务上与人类评分者相当，但无法在复杂、开放式或主观的工作上完全取代人类判断，而最高效的评分效果在把 AI 驱动评分与教师监督和验证结合起来的混合系统中达成（[[jukiewicz-chatgpt-teacher-assessment-feedback-2026]]）。[[falahat-chatgpt-grading-pharmacy-exams-2026|Falahat 等人（2026）]] 具体展示了边界落于何处：ChatGPT-5 在客观药学考试题上与教师相当（CCC 0.935–1.000），但在简答与论述题上即便给了量规也并不可靠，使作者建议对复杂、主观或高风险的评估采用含人工审查的混合评分。
 - 重复并不构成那种监督的替代：在五个不同日子对完全相同的提交重新评分，同一模型只在 Krippendorff's alpha 0.625 上复现自身结果，变异集中于中间分数段，A 与 F 在五次数目中缺席（[[llm-grading-assistants-public-health-2026|Brevik 等人（2026）]]）。
 
@@ -162,6 +168,7 @@ Kim、Baek 与 Kwak（2026）通过 **PedaCo**（Pedagogical Co-creation，教�
 - [[student-support-and-success]] — 自动化支持流中的人类判断
 
 ## 关联文章
+- [[shi-human-ai-complementarity-safety-2026]] — 416 名评分者、3,957 个条目：候选先行协助把对模型答错条目的纠错率从 36.7% 压到 20.6%（Shi 等，2026）
 - [[zhai-science-literacy-generative-ai-coherence-2026]] — 面向科学教育中生成式 AI 的四层 HITL 架构（Zhai 等人 2026）
 - [[fonteles-embodied-learning-human-in-the-loop-multimodal-2026]] — 编码者把 LLM 行为片段验证为研究工具（Fonteles 等人 2026）
 - [[lee-learner-question-types-ai-education-2026]] — 专家标注的问题分类：人类治理标注、增强与错误分析（Lee、Atif & Kang 2026）

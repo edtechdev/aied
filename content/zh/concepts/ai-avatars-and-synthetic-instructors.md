@@ -1,7 +1,7 @@
 ---
 title: AI 化身与合成教师
 created: "2026-11-04T19:42:56-05:00"
-updated: "2026-11-11T07:40:00-05:00"
+updated: "2026-11-18T04:00:00-05:00"
 type: concept
 foundations: [human-ai-collaboration, teacher-role, academic-integrity]
 pedagogy: [professional-training, experiential-learning, situated-learning, video-education]
@@ -18,8 +18,12 @@ ai_assist:
     role: translation
     date: "2026-11-04"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
+    agent: hermes-agent
 translation_of: concepts/ai-avatars-and-synthetic-instructors
-source_updated: "2026-11-11T07:40:00-05:00"
+source_updated: "2026-11-16T05:33:47-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ---
 
@@ -71,6 +75,8 @@ AI 化身是由模型驱动的、渲染或动画化的人类表征；合成教�
 
 对于评估，SOPHIE 的评判器是最清晰的结果，而语音访谈者是最弱的。Tamme 的提案报告了一项技术先导与尚未正式分析的数据；关于语音能引出什么，每一项主张都仍是假设。([[voice-based-ai-feedback-interviews-higher-ed-2026]])
 
+课程沟通是又一个角色，而它的证据是一套工作流，而非一种效应。[[wu-singing-syllabus-avatars-2026|Wu（2026）]]记录了一条七阶段流水线，把一门一年级计算机科学导论课程的课程大纲转成由唇形同步化身演唱的视频，其中 ChatGPT 起草歌词、Suno AI 生成音乐、HeyGem 在 Colab 中合成面孔。可迁移的部分是那组约束：准确性优先于押韵，每一条改写过的政策条目都被映射回官方大纲，而采用的教师承担核验成本。Wu 没有报告任何学生数据，因此投入度与记忆都仍是假设，而歌唱版大纲是对书面文件的补充而非替代。
+
 ## 信任经由面孔传递
 
 面孔不是[[pedagogy|教学内容]]的中性容器。在合计 396 名参与者的两项实验中，[[face-value-how-avatar-identity-shapes-epistemic-trust-in-ai-mediated-learning|Anthis 与 Kyriakidou-Zacharoudiou（2026）]]发现化身身份线索同时塑造了评价与实际采纳。白人化身，以及在 STEM 情境中的亚裔男性化身，被评为更可信、更能干。年长的黑人女性化身在每一项测量上都遭遇叠加的惩罚。参与者更愿意采纳来自种族内群体化身、或符合其专业能力刻板印象的化身的指导。
@@ -106,6 +112,8 @@ AI 化身是由模型驱动的、渲染或动画化的人类表征；合成教�
 大样本关乎态度与偏好 —— 396 名参与者关于化身身份，493 名受访者关于视频偏好 —— 而两者都是便利样本或单一课程人群。这组研究中没有任何一项证明合成教师比人类教师带来更好的学习。可辩护的主张更为狭窄：这些系统可以近似一次实践会面，可以在一个领域内以可接受的吻合度对照人类评分者打分，并且可以改变学习者如何评价教学的来源。
 
 这种狭窄性很重要。Theelen 的作者说得直接：流畅与临场感不是[[assessment-validity|效度证据]]。([[theelen-classroom-simulations-four-layer-framework-2026]]) 听起来像教师，只跨过了这间屋子里最低的那道门槛。
+
+采纳是与有效性不同的问题：[[wang-ai-avatars-tam-doi-adoption-2026|Wang 等（2026）]]对 653 名学习者采用 AI 化身的意向建模，感知透明性是信任的最强预测因子（β = 0.542）。该模型解释了 38.9% 的意向方差，其中相对优势（β = 0.267）与有用性（β = 0.247）领先于态度（β = 0.126）。
 
 ## 常见误解
 
@@ -162,3 +170,6 @@ AI 化身是由模型驱动的、渲染或动画化的人类表征；合成教�
 - [[voice-based-ai-feedback-interviews-higher-ed-2026]] — 一项拟议的、用于课程反馈访谈的对话式语音智能体
 - [[trikonet-trivalence-co-creativity-2026]] — 社会技术网络中的共创式教学化身（TriKoNet）
 - [[stillman-dear-gemini-pairr-critical-ai-literacies-2026]] — 654 名学生中只有 51.7% 接受了所提供的拟人角色；一人称其为反馈售货机
+
+- [[wu-singing-syllabus-avatars-2026]] — 用虚拟化身设计歌唱版课程大纲：AI 辅助的大纲重写
+- [[wang-ai-avatars-tam-doi-adoption-2026]] — 采纳侧证据：653 名学习者，透明性是信任的最强预测因子（Wang 等 2026）

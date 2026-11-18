@@ -1,7 +1,7 @@
 ---
 title: "设计教育"
 created: "2026-09-17T14:04:29-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:03:42-05:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -12,12 +12,16 @@ audience: [instructors, instructional designers, curriculum designers, faculty d
 level: [higher ed]
 confidence: high
 translation_of: concepts/design-education
-source_updated: "2026-11-04T15:40:00-05:00"
+source_updated: "2026-11-16T22:52:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -31,6 +35,7 @@ ai_assist:
 - 在一项实验中，无支持的新手在一个对抗性智能体浮现利益相关者反弹之前从未修订任何一个想法。设计教学是否应刻意制造摩擦——而生产性困难止于何处？
 - 设计师被描述为从形式生成者转向机器产出的策展人。若如此，[[curriculum-design|课程]]中先来的是什么：手工技艺，还是对模型产出的批判性评价？
 - 如果一个 [[llm]] 能逼近教师、同伴与资助评审对同一海报的解读，人类批评者还剩下什么？
+- 使用 GenAI 加 XR 流水线的团队事后对自己设计能力的*信心更低*，而盲评选出的评分者对其实汇报的评分并不优于对照组。在断定这些工具损害了学习之前，你需要知道什么——又是什么会让你仍然这样断定？
 
 ## 引言
 
@@ -69,6 +74,14 @@ ai_assist:
 - **AI 评图可被绑定到成果物而非提示。** [[critsly-design-education-ai-critique-2026|Kadir（2026）]] 经由一个共享的设计、笔记与图钉看板及五项有边界的活动路由工作室反馈；该研究报告的是模拟的就绪度（109 个标签中 78% 处于分析级或以上），而非[[learning-gains|学习增益]]。
 
 - **一个过程评分标准可以把 AI 核验变成被评分的对象。** [[human-ai-collaboration-design-education-rubric-2026|Orhon 等（2026）]]提出 Merit Report，一个四项判据的评分标准（有记录的策展意志 20%、建构转译 20%、基于规则的技术验证 40%、同伴审计 20%），它评分的是学生有记录的 AI 核验过程，而非成果物的精饰，并由一个他们称之为 AI-Validation Knowledge 的[[tpack|TPACK]]扩展提供支撑。
+
+## 生成式 AI 下的工作室与评图
+
+生成式工具经由一项既有的仪式进入这些学科：作品公开制作、未完成即示人、并受到批评。这些文献显示的是，AI 最可靠地改变这一过程的*中段*，而对两端改变最少。在 GenARch 研究中，[[genai-xr-architectural-design-education-2026|Xiao 等（2026）]]把一个 GenAI 加多用户 XR 的流水线放进一个真实的本科建筑设计工作室，发现了一种互补的分工：[[generative-ai|生成式 AI]]把想法外化，让团队有具体的东西可以指、可以比较、可以争论；而 XR 支持评价，使学生能按真实尺度判断比例、相邻关系、采光与场地语境。
+
+这套工具在过程的两端都显得别扭。开始时，团队还没有想法可以编码进提示；到后来，更丰富的概念让[[prompt-engineering|提示]]更容易，却抬高了"服从约束"的预期，而当精度变得要紧时，学生又回到 SketchUp 与 Revit。他们报告了一种尺寸保真度的失败——"我让它做一个 10 英尺高的 3D 模型，它不是 10 英尺"——资产加载延迟从数秒到数分钟，以及共享注意力在团队成员看向模型不同部位时发生漂移。给每位参与者一副头显，本身并不能产生 [[collaborative-learning|协同的协作]]。
+
+工作室的问责关系确实发生了转移。在一项关于设计工作室中生成式模型的纵向研究中，[[genai-architectural-design-studios|Gül 等（2026）]]区分了把 GenAI 用作早期构思中的视觉刺激，与在开发阶段扩展解空间的组合式用法，并把[[pedagogy|教学]]问题定位在胜任力而非可及性上：若没有区分不同模型并刻意使用它们的辨识力，丰富的产出会造成 [[design-thinking|设计固着]]与审美锁定。他们的结论把[[teacher-role|教师的角色]]从传授技艺转向辅导何时、如何以及为何委派创意探索。
 
 ## 专业养成与监管
 

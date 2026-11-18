@@ -1,7 +1,7 @@
 ---
 title: ICAP 框架
 created: "2026-08-14T04:33:38-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:47-05:00"
 type: concept
 connected_faqs: [designing-ai-into-learning]
 foundations: [learning-design]
@@ -9,13 +9,17 @@ pedagogy: [active-learning, cognitive-psychology, collaborative-learning, learni
 technology: [educational-nlp, learning-analytics]
 confidence: high
 translation_of: concepts/icap-framework
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -87,6 +91,8 @@ ICAP 对生成性、过程层面投入的强调，已被那些评估学生*如�
 2. **让学习者跨模式投入。** 有效的[[ai-literacy|AI 素养]]教学在多个 ICAP 水平上调动学习者——被动接触、主动操作、建构性生成与互动性对话——选择契合学习目标的那个模式。（[[hingle-collaborative-ai-literacy-2025]]）
 3. **诚实地测量投入。** ICAP 给研究者与设计师提供了一套共同词汇，以区分真正的认知投入与单纯的活动——这是对浅层[[student-engagement]]的矫正。（[[icap-cognitive-engagement-llm-agents]]）
 4. **留意人类与 LLM 标注之间的差距。** 如果自动化系统被用于给投入编码，其相对于训练有素的人类所存在的系统性不足必须被计入。（[[icap-cognitive-engagement-llm-agents]]）
+
+任务设计而不只是工具设计，决定了上限。在 40 门大学课程中编码的 829 条对话线程里，对话处于建构性或互动性水平时所产出的制品，在同伴对最终质量的评分上略高一些（[[zhuang-dialogue-to-task-cognitive-engagement-2026|Zhuang 等（2026）]]）。
 
 ## 常见误解
 

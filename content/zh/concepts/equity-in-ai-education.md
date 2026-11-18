@@ -1,7 +1,7 @@
 ---
 title: 公平性
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:47-05:00"
 type: concept
 foundations: [ai-literacy, teacher-role]
 technology: [generative-ai, intelligent-tutoring]
@@ -12,7 +12,7 @@ level: [higher ed, k 12]
 confidence: high
 connected_faqs: [research-gaps-aied, designing-educational-ai-software, equity-ethics-pedagogical-safety-research, how-ai-impacts-students, ai-guidance-children-under-13, ai-disabled-neurodivergent-learners, ai-bias-fairness-education]
 translation_of: concepts/equity-in-ai-education
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-16T05:36:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -20,18 +20,22 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
+    agent: hermes-agent
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **公平性（equity）** —— AI 应当公平服务所有学习者的原则，以及关于获取 AI 教育工具、在其中的代表性、从其获益方面存在系统性差距的研究。知识库中的公平[[research-methods-aied|研究]]考察获取差距与数字鸿沟、[[ai-technologies|AI 系统]]中的偏见与公平、文化响应性与语言包容性设计、残障学习者的无障碍性，以及 AI 的收益与危害在各群体间的分布。它把技术性的（偏见缓解、公平算法）、结构性的（基础设施、政策）与[[pedagogy|教学性]]的（文化相关的[[teacher-role|教学]]）连接起来。
+> **公平性（equity）** —— AI 应当公平服务所有学习者的原则，以及关于获取 AI 教育工具、在其中的代表性、从其获益方面存在系统性差距的研究。公平[[research-methods-aied|研究]]考察获取差距与数字鸿沟、[[ai-technologies|AI 系统]]中的偏见与公平、文化响应性与语言包容性设计、残障学习者的无障碍性，以及 AI 的收益与危害在各群体间的分布。它把技术性的（偏见缓解、公平算法）、结构性的（基础设施、政策）与[[pedagogy|教学性]]的（文化相关的[[teacher-role|教学]]）连接起来。
 
 ## 值得思考的问题
 
 - 向一所学校或一个教室提供 AI 工具，并不自动缩小[[learning-gains|成绩差距]]——事实上，仅靠获取反而可能扩大它。如果"获取并不够"，那么要让 AI 真正公平地服务所有学习者，还需要什么？
 - 即使是用来*模拟*学习者的数据也带有偏见：当 LLM 生成学生情境时，不同模型产生了更多全球北方或全球南方的画像以及不同性别的代词。当模型本身编码了不均等的先验时，我们对 AI 生成的学习者表征应当信任多少？
 - 教育中的 AI 公平性常围绕三个关注点：谁得到工具（获取）、谁在其中被代表（代表性）、谁受益（结果）。你能想出某个群体获得了获取却没有受益的情形吗？什么解释了这一差距？
-- 关于"结构性沉默"的研究认为，代表性不足语言的使用者在 AI 基础设施——训练语料、分词、基准——上处于劣势，而且是在*任何模型被训练之前*。如果劣势被烘焙进基础设施，修复应当从哪里开始？
+- 关于"结构性沉默"的研究认为，代表性不足语言的使用者在 AI 基础设施——训练数据、分词、基准——上处于劣势，而且是在*任何模型被训练之前*。如果劣势被烘焙进基础设施，修复应当从哪里开始？
 
 ## 引言
 
@@ -45,10 +49,12 @@ ai_assist:
 
 差异化支持并非公平受益的证据：一项对[[math-education|数学]]中 AI 辅导的综述发现，包容性的主张缺乏支持，因为研究很少检验收益是否一致地分布于能力、性别、社会经济、语言、残疾与地理群体之间，从而未能确立这些系统缩小了成绩差距（[[intelligent-tutoring-mathematics-education-review-2026|Ogunsakin 等人（2026）]]）。
 
+支持能够按需分配的直接证据：当适应性提问促使先前知识较弱的辅导者解释并论证时，他们的增益与先前知识较强的同伴相当，而先前知识并不能预测谁会这样做（[[knowledge-building-tutor-learning-2026|Ameen 等人（2026）]]）。
+
 - **差异化的人机辅导是混合模型能够缩小差距的证据——当分配跟随需求时。** 一项断点差异研究（635 名学生，5–8 年级；低于中位数的表现者接受*主动的*人工辅导，高于中位数的接受*被动*的按需支持，对照一个秋季的纯 AI 基线）发现，混合辅导把任务时间提高 25%、技能熟练度提高 36%、学业成长提高 61%——且两个组别通过不同机制实现了*相当的*投入与熟练度增益。与公平相关的细节在于：主动辅导显示出略高的平均成长（75%，p = .065），且集中在离分界点更远的学生身上——这是差距压缩而非一致抬升的模式——而每次课一名导学者同时服务两组。作者持恰如其分的审慎态度：DiDC 设计是准实验性的，二分的中位数分界点漏掉了组内的需求差异，且 75% 的效应是边缘性的。（[[gurung-hybrid-human-ai-tutoring-2026]]）
 
 - **教师预期鸿沟会扩大。**[[watson-rainie-ai-challenge-faculty-survey-2026|Watson 与 Rainie（2026）]]调查了**1,057 名美国高校教师**，发现**81%** 预期生成式 AI 会扩大数字不平等（**58%** 认为会大幅扩大）——这是报告中最强的公平性预期，且与**68%** 表示其机构未让教师准备好用这些工具进行教学与指导的人并列。同一调查还显示工具采用的不均衡：**26%** 的受访者完全不用生成式 AI，艺术与[[humanities-education|人文]]教师中升至**40%**，社会科学家为**28%**，因此不使用与未准备集中于特定的[[discipline-specific-aied|学科]]。该报告是非概率样本，作者声明不可推广，因此这些是该领域表达的关注，而非测得的效果。
-- **基础设施劣势：**[[structural-silence-underrepresented-language-ai-2026|结构性沉默]]表明，AI *基础设施*——训练语料、分词、[[benchmark|基准]]、部署架构——在*模型被训练之前*就系统性劣势化了代表性不足语言的使用者，把数据稀缺重新框定为结构性问题而非偶然问题。
+- **基础设施劣势：**[[structural-silence-underrepresented-language-ai-2026|结构性沉默]]表明，AI *基础设施*——训练数据、分词、[[benchmark|基准]]、部署架构——在*模型被训练之前*就系统性劣势化了代表性不足语言的使用者，把数据稀缺重新框定为结构性问题而非偶然问题。
 - **合成数据中的模型特定人口先验：**[[lopez-pernas-llm-appropriate-student-support-2026|López-Pernas 等人（2026）]]发现，当 LLM 生成学生情境时，每个模型都施加了不同的人口倾向——GPT 产生更多全球北方画像并使用 they/them 代词，Qwen 产生更多[[global-south|全球南方]]画像，Mistral 偏向 she/her。因此，即使是由[[llm]]对学习者数据的*建构*也带有区域与性别先验，可能传播到下游推荐中——这是一个鲜受审视的公平性风险。
 - **社会经济梯度：**[[ai-lifelong-learning-policy|AI 与终身学习政策]]与[[generative-ai-education-productivity-gaps|生产力差距实验]]考察 AI 如何在不同学习者群体间缩小或扩大差距。
 - **为残障学习者弥合鸿沟：**[[khlaif-assistive-genai-visually-impaired-2026|Khlaif 等人（2026）]]发现，生成式 AI 为视障本科生拉平了数字、地理与社会经济鸿沟，把包容框定为既是基础设施问题也是文化问题——把数字公平话语从获取延伸到归属、声音与代表性。
@@ -56,6 +62,8 @@ ai_assist:
 准备比偏好更重要，而拒绝的权利分布不均。学业自信强的学生可以无惩罚地拒绝 AI，而需要语言支持、无障碍支持或快速反馈的学生，会把拒绝体验为机会的丧失；临时工作人员可能感到采用能削减准备时间而不削减责任的工具的压力。当"有义务理解"被施加却未伴以培训、安全基础设施与清晰政策时，它就变成隐藏的工作量，而拒绝成为对机构准备不足的可预期反应，而非对技术的抵制（[[ai-refusal-higher-education-diagnostic-non-use-2026|Zagami 2026]]）。
 
 **租金以三种货币支付，被拥有的能力随毕业生而去。**[[rented-self-decoupling-performance-becoming-2026|de Barba（2026）]]认为，驻留于商业工具中的能力只能按提供者的条件获得，因此机构许可证只是把房东搬了家而非消除它：获取通常随入学结束，而租来的能力此后只为能继续付费的毕业生存续。她补充了获取讨论常忽略的另外两种分布——自我成本集中于适应期，先前领域知识较少的学习者花的时间最长——租来的标准携带模型的参照点，预计会更多地取代那些文化与语言参照点与模型不同的学习者的标准。同一工具同时扩大获取与取代标准，这就是为何她把"命名一门课程必须自行建构的能力"同时视为一项公平措施与一项教学措施。
+
+要求使用 AI 本身就可能构成公平性伤害，即使背后并没有不均等的供给。[[mcdonald-inclusive-assessment-genai-2026|McDonald、Saunders、Kennedy 与 Tansell（2026）]]在一所罗素集团大学对 19 名理科学生开展了三个焦点小组，发现伤害是双向的。强制使用生成式 AI 惩罚了从未被教过如何使用、又缺少硬件设备的学生，而在同伴使用它时选择不用，又像是在接受一种劣势；付费版与免费版被指名为一种偏见，小组作业则被视为不均等使用变成不均等工作量之处。只有在选项彼此等值时，形式上的选择才被看重，因为学生担心论文会被评得比视频更差。
 
 ## 代表性公平
 
@@ -99,6 +107,8 @@ ai_assist:
 - **隐含的人口信号是比明示属性更不可控的偏见渠道。**[[demographic-signals-llm-student-assessment-2026|Rooein、Benedetto 与 Hovy（2026）]]固定每个任务的输入，只在六个指令调优[[llm|LLM]]与三个教育任务上改变人口语境，产生 192,480 次推断调用，并把*明示*信号（陈述的学生属性）与*隐含*信号（由十次提示的[[conversational-ai|对话]]历史携带的）分开。在[[automated-essay-scoring|自动作文评分]]中，多数模型在明示条件下相对稳定，而隐含条件抬高了分数——Llama-70B 比自身默认高出 1.57 分（p < 0.001）。在元语言问答中，隐含条件反向漂移：较低[[education-levels|教育水平]]的回应得到较少正面情感，在 0-4 量表上最低与较高教育水平间平均差 0.3，而项内标准差为 0.07。公平性困难是结构性的——线索不是政策能禁止的明示属性、也不是审计能检查的提示字段，而是交互本身的性质。
 
 - **核验能把收益重新导向较弱的学生。**[[verified-study-materials-learning-gains-2026|Dang & Nguyen（2026）]]发现，一年级经济学课程中经专家核验的 AI 学习材料与 2.34 分的成绩提升相关，但其中约四分之三出现在最底五分位，且低于 60% 边界的分数占比下降 24.7 个百分点——把核验负担从学生移到一个可问责的导师。
+
+第二项 2026 年综述把协助与缩小差距区分开来。在 61 项高等教育研究中，35 项涉及公平：11 项涉及与残障相关的无障碍性，10 项涉及语言支持，9 项涉及对具名群体或先前成绩较低学习者的定向支持。这些发现记录的是帮助到达了学生，而非差距被缩小。一项以阅读障碍为重点的调查从未记录参与者的诊断结果，而由职前教师准备的分化材料也从未在其所面向的学生身上检验过（[[aybar-bellido-genai-individualization-sustainable-higher-ed-2026|Aybar-Bellido 等人，2026）]]）。
 
 ## 语言、文化与残障包容
 
@@ -162,6 +172,7 @@ ai_assist:
 
 ## 关联文章
 
+- [[aybar-bellido-genai-individualization-sustainable-higher-ed-2026]] — 61 项研究中的 35 项涉及公平，但记录的是获得帮助，而非差距被缩小（Aybar-Bellido 等，2026）
 - [[multimodal-assessment-literacy-l2-teachers-genai-2026]] — 生成式 AI 视觉偏见如何进入多模态评估，以及为何反叙事它是一种教师能力
 - [[rented-self-decoupling-performance-becoming-2026]] — 租来的自我：以金钱、自我与标准支付的租金，以及毕业即终结的许可证
 - [[verified-study-materials-learning-gains-2026]] — 经核验而非生成：专家核验的 AI 学习材料与大学课程中学习收益的分布
@@ -210,4 +221,6 @@ ai_assist:
 - [[angelier-ai-detection-pitfalls-inclusive-assessment-2026]] — 检测在多语言写作者身上最容易误伤
 
 - [[li-who-benefits-llms-prompt-engineering-equity-2026]] — 能力中介了学生从 LLM 获取中获得的收益（Li 等 2026）
+
+- [[mcdonald-inclusive-assessment-genai-2026]] — 生成式 AI 时代的包容性评估设计：推进教学与实践
 

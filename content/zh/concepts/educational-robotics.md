@@ -1,7 +1,7 @@
 ---
 title: 教育机器人（Robots in Education）
 created: "2026-08-13T18:49:42-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:54-05:00"
 type: concept
 foundations: [computational-thinking]
 pedagogy: [embodied-learning]
@@ -11,7 +11,7 @@ discipline: [stem education, cs education]
 level: [k 12, higher ed]
 confidence: high
 translation_of: concepts/educational-robotics
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -19,11 +19,15 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
+    agent: hermes-agent
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **教育机器人** — 把实体或仿真机器人用作[[teacher-role|教学]]与学习工具的实践。教育机器人的范围很广：从教授计算思维和编程的可编程套件，到能辅导、讲故事、示范手语或排练社交技能的社交辅助型和人形机器人。它因培养[[problem-solving|问题解决]]、[[critical-thinking|批判性思维]]、[[creativity]]与 STEAM 参与而受重视，也因通过具身互动把抽象的计算概念变得可触而受重视。本知识库的机器人语料涵盖融入[[curriculum-design|课程]]的编程、由 LLM 驱动的对话式导师、社交辅助的[[storytelling-in-education|讲故事]]机器人，以及用于社会情感学习的角色扮演。它由两个密切相关的领域支撑（已被本页吸收）：**社交机器人**（为社交互动与关系建构而设计的机器人）和**人机交互（HRI）**（研究人们如何感知、信任机器人并与之共同学习）。
+> **教育机器人** — 把实体或仿真机器人用作[[teacher-role|教学]]与学习工具的实践。教育机器人的范围很广：从教授计算思维和编程的可编程套件，到能辅导、讲故事、示范手语或排练社交技能的社交辅助型和人形机器人。它因培养[[problem-solving|问题解决]]、[[critical-thinking|批判性思维]]、[[creativity]]与 STEAM 参与而受重视，也因通过具身互动把抽象的计算概念变得可触而受重视。机器人研究的证据涵盖融入[[curriculum-design|课程]]的编程、由 LLM 驱动的对话式导师、社交辅助的[[storytelling-in-education|讲故事]]机器人，以及用于社会情感学习的角色扮演。它由两个密切相关的领域支撑（已被本页吸收）：**社交机器人**（为社交互动与关系建构而设计的机器人）和**人机交互（HRI）**（研究人们如何感知、信任机器人并与之共同学习）。
 
 ## 值得思考的问题
 
@@ -38,7 +42,7 @@ ai_assist:
 
 证据比工作量所暗示的要薄：一项关于 AI 与机器人教育的综述发现，多数实证研究涉及 13 岁以下学习者、时长不超过四周，集中在少数早期投入的国家，[[learning-gains|学习表现]]是研究最多的结果，而伦理、公平和政策落后于部署（[[white-wu-robotics-ai-education-2026|White 与 Wu（2026）]]）。
 
-### 社交机器人与人机交互
+## 社交机器人与人机交互
 
 有两个脉络塑造了机器人教育的社交面。
 
@@ -46,7 +50,7 @@ ai_assist:
 
 **人机交互（HRI）**是一门跨学科研究，研究人与机器人如何互动，涵盖感知、交流、协作以及这种互动的社会、认知和[[ethics|伦理]]动力学。在教育中，HRI 支撑学习者如何感知、信任机器人并与之共同学习——无论是给机器人编程、与辅导机器人对话，还是排练社交场景。HRI [[research-methods-aied|研究]]考察机器人外观、行为、任务情境和具身性如何塑造[[usability-research|用户体验]]、信任、能动性和学习。教育 HRI 的关键关切包括保全人类[[agency]]、建立[[trust]]、支持[[self-efficacy]]，以及确保与机器人的互动支持而非削弱自主性和社会学习。它把机器人连接到[[human-ai-collaboration]]和[[social-emotional-learning]]。
 
-### 机器人在教育中如何使用
+## 机器人在教育中如何使用
 
 [[teaching-with-robots-five-types-perspective-2026|Christ 等（2026）]]提供的是一种角色类型学而非技术清单：他们从工作坊衍生的五种课堂机器人类型，区别在于*教学法功能和抽象层级*，而非硬件。类型 a 运行对通用社交模式的非交互式演示（脚本化的情绪剧场，随后讨论升级或误解等动态）；类型 b 是一个触感反应式的交互式机器人，支持参与式肢体剧场、[[embodied-learning|具身学习]]、边界意识和情绪调节；类型 c 是一个口语伙伴，能表达共情并记住与单个学生的互动，为自我表露创造一个受保护的一对一环境；类型 d 由隐藏专家像多自由度木偶一样外部操控，旨在拉平社会等级；类型 e 是一个非交互式机器人，重演学校中最近观察到的行为，让学生反思情境化行为——它与类型 a 的对比恰在于其情境特定而非泛化的抽象。该类型学明确声明自己是一个未经验证、源于单一全国性心理健康项目的设计空间，因此它是设计和评估机器人角色的菜单，而非它们任何之一有效的证据。
 
@@ -64,11 +68,13 @@ ai_assist:
 - **幼儿园 CT 机器人实际做什么。** 一项对 53 项研究的[[meta-analysis-systematic-review|系统综述]]发现，[[problem-based-learning|基于问题的学习]]、讲故事和支架是最常用的策略，多数研究未指明任何 CT 框架，并使用临时评估工具而非 TechCheck-K 等经过验证的量表（[[tsingidou-ct-robotics-kindergarten-2026|Tsingidou 与 Sapounidis（2026）]]）。
 - **LLM 规划而非对话。** [[vlm-task-planning-humanoid-robot-autism-education-2026|Kudláčková（2026）]]使用视觉与语言模型，把 Shoebox Tasks（用于[[neurodiversity|自闭症]]谱系学习者的视觉结构化活动）的照片转换为一个 PDDL 问题，由一台 Nao 人形机器人执行或示范，其规划正确性在六项任务上被评分，而非任何学习结果。
 
-### 具身与教学法
+## 具身与教学法
 
 一个定义性主题是：机器人只有在支持真实学习目标时才有效——而不是作为孤立的技术练习。一个与笔记本 ChatGPT 连用、可随时求助的桌面机器人投影仪虽在短期内拉平了成绩（6.7 对 7.3/10，p = .41），但在撤去帮助后保住了分数（7.0 对 4.4/10，p = .003），短期迁移分数高出 60%——这是一个依赖于任务的增益，作者归因于空间共置而非一般性替代（[[aifred-desk-robotic-ai-guidance-2026|Orlando 等（2026）]]）。机器人的价值取决于教学法情境：教授计算思维（[[computational-thinking]]）、支持[[stem-education|STEAM]]、培养[[cs-education|编程]]技能、激励学习者（[[motivation]]、[[student-engagement|参与]]），或支持[[social-emotional-learning]]和[[equity-in-ai-education|包容]]。机器人教育还连接到[[project-based-learning]]、[[game-based-learning]]和[[experiential-learning]]。关键设计考量包括保全学习者[[agency]]、建立[[trust]]、支持[[self-efficacy]]，以及把学习锚定在[[embodied-learning|具身互动]]中。在[[language-learning]]中，[[robot-assisted-language-learning-meta-analysis-2026|元分析证据]]指向具身机器人辅助语言学习的有效性。
 
 - **通往学习 AI 驱动机器人的路径。** [[educational-robotics-pathways-2026|一项质性研究]]考察机器人 + AI 课程中的高中生，发现学习通过真实世界实践、设计和好玩的创意表达发生（建构主义、认识论多元主义视角）。
+
+- Lan 与 Chen（2026）提出了一个检验：换一具身体何时只是表层适配。只有当不变内核——即目标、阶段顺序、分支规则、标准、人设与语气禁令——在替换后仍然存活时，这种替换才可接受；而当新的身体增加了要求却未推进目标时，该配置即被否决（[[lan-pedagogical-ai-agents-instructional-proxies-2026|Lan 与 Chen，2026]]）。
 
 ## 常见误解
 

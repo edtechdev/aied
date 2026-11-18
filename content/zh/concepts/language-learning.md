@@ -2,7 +2,7 @@
 connected_resources: [mglearn]
 title: 语言学习
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:47-05:00"
 type: concept
 foundations: [ai-education]
 technology: [generative-ai]
@@ -10,14 +10,19 @@ ethics: [equity-in-ai-education]
 discipline: [language learning, writing education]
 level: [higher ed, k 12]
 confidence: high
+connected_faqs: [ai-support-reading-comprehension]
 translation_of: concepts/language-learning
-source_updated: "2026-11-06T03:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -89,6 +94,8 @@ ai_assist:
 
 **翻译学生可以被带离表层纠正。** 在一门新闻翻译课程中，[[xian-process-visualization-feedback-news-translation-2026|Xian 等（2026）]]发现搜索引擎咨询从会话时间中位数的 15.6% 升至 27.7%（p = 0.020，Holm 校正），基于知识的搜索从 7.2% 升至 28.8%（p = 0.010）。机器翻译使用从 28.5% 降至 5.1%，但未达显著（p = 0.338），而交互式 AI 使用的中位数保持为零。杠杆是向学生展示他们自己的过程，而不是禁用某个工具。
 
+Zhang、Aubrey、Wu 与 Chiu 对 48 项对照研究（N = 5196）的综合发现，生成式 AI 的收益取决于配置而非在场与否。反馈与评价用途产生的效应最大（g = 1.15），而教学整合为 g = 0.28；学习者主导的模式（g = 0.92）优于自主运行的模式（g = 0.34）。阅读未见显著效应，口语的名义 g = 1.48 在剔除三个极端离群值后降至 g = 0.65（[[zhang-genai-l2-learning-meta-analysis-2026|Zhang 等，2026]]）。
+
 ## 常见误解
 
 - **“具身机器人辅导者奏效是因为具身性。”** 一项对 **11 项 RALL 研究（N = 595）**的元分析发现对二语学习有很大的合并效应（**g = 0.83**），且**异质性很高**，而重要的是，**只有互动**层面的特征对它起调节作用。形态与模态都没有，因此硬件不是有效成分。
@@ -151,3 +158,4 @@ ai_assist:
 - [[genai-social-annotation-epistemic-network-analysis-2026]] — 把 AI 支架扩展到协作阅读
 - [[xian-process-visualization-feedback-news-translation-2026]] — 过程反馈提高了新闻翻译课程中的来源查阅并减少了机器翻译使用
 - [[wordofa-genai-grammar-instruction-efl-2026]] — 生成式 AI 辅助语法教学与埃塞俄比亚 EFL 学习者的自我效能感和元语言意识
+- [[zhang-genai-l2-learning-meta-analysis-2026]] — 三层元分析：生成式 AI 通过反馈与学习者主导的设计起作用，而非作为统一干预（Zhang 等 2026）

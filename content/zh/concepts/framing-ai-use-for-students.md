@@ -1,7 +1,7 @@
 ---
 title: 面向学生的 AI 使用框架
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-11-17T19:40:00-05:00"
+updated: "2026-11-18T03:40:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -17,6 +17,10 @@ ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -77,6 +81,8 @@ ai_assist:
 ## 媒体与公共框架
 
 学生也受围绕 [[ai-education|教育中 AI]]的更广泛媒体与公共话语的框定，这在任何教师信息之前就塑造了他们的基线期望。对公共话语以及 YouTube 等平台如何框定教育中 ChatGPT 使用的分析显示，主流框架——炒作、末日或务实——影响学习者与 [[teacher-role|教育者]]如何对待该技术。([[youtube-frames-chatgpt-education]])([[ai-ethics-education-public-discourse]]) 教师的有效框架往往意味着刻意地反制或重新引导这些环境叙事。
+
+这种框定也会在事后为学历定价：在对约 1,750 名美国招聘人员的研究中，把学生的 AI 使用描述为"替代"而非"辅助"，会降低面试机会与薪资谈判意愿，对高 GPA 申请者影响最大（[[boyd-swan-employer-responses-genai-2026|Boyd-Swan 与 Reynolds，2026]]）。
 
 ## 实践指引
 

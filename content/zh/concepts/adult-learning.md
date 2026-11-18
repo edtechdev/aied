@@ -1,7 +1,7 @@
 ---
 title: 成人学习者
 created: "2026-08-06T10:43:53-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:54-05:00"
 type: concept
 foundations: [ai-education, learning-design]
 pedagogy: [professional-training]
@@ -11,19 +11,23 @@ confidence: medium
 methods: [usability-research]
 technology: [edtech-platform]
 translation_of: concepts/adult-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
-    date: "2026-10-09"
+    date: "2026-10-14"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **成人学习** — 成人教育（andragogy）的理论与实践，以及 AI 工具与技术如何被设计以支持成人学习者的 [[agency|自主性]]、既有经验与真实世界相关性。本知识库通过 13 篇文章对此进行了探讨。
+> **成人学习** — 成人教育（andragogy）的理论与实践，以及 AI 工具与技术如何被设计以支持成人学习者的 [[agency|自主性]]、既有经验与真实世界相关性。通过 13 篇文章对此进行了探讨。
 
 ## 值得思考的问题
 
@@ -36,7 +40,7 @@ ai_assist:
 
 ## 引言
 
-成人学习扎根于 Knowles 的成人教育模型，假定学习者是自我导向的、借助人生经验、由即时且实际的目标驱动，并在学习与其真实世界角色相连时受益最大。这些假定对 AI 设计很重要，因为生成式 AI 如今几乎可以参与学习的每个阶段——识别需求、设定目标、解读信息、产出成果、评估表现。当 AI 承担了如此多的认知工作时，行为上不依赖工具，已不再能保证学习者真正主导了学习。本知识库中的研究相应地把自我导向重新框定为一个主动的设计目标，而非假定的默认状态，并以目标所有权、委托控制与认知可恢复性等标准来评估成人学习 AI。
+成人学习扎根于 Knowles 的成人教育模型，假定学习者是自我导向的、借助人生经验、由即时且实际的目标驱动，并在学习与其真实世界角色相连时受益最大。这些假定对 AI 设计很重要，因为生成式 AI 如今几乎可以参与学习的每个阶段——识别需求、设定目标、解读信息、产出成果、评估表现。当 AI 承担了如此多的认知工作时，行为上不依赖工具，已不再能保证学习者真正主导了学习。研究相应地把自我导向重新框定为一个主动的设计目标，而非假定的默认状态，并以目标所有权、委托控制与认知可恢复性等标准来评估成人学习 AI。
 
 ## 关联文章中的证据
 
@@ -46,7 +50,7 @@ ai_assist:
 
 ## 与相关概念的关联
 
-成人学习位于本知识库若干紧密相关概念的交叉点上。[[higher-ed]] 提供了大量成人与远程学习发生的制度情境，[[professional-training]] 覆盖其劳动力维度，[[lifelong-learning]] 覆盖其继续教育维度。[[vocational-education|职业教育与培训]]是那个以职业而非学习者命名的近邻：成人学习描述的是学习者带入任何情境的东西——自我导向、既有经验、即时的实际目标。VET 命名的是面向某个既定行业或技术岗位的、初始的、贴近实践的培养，以对设备的实际能力为评判标准，并以资格框架而非成人教育倾向为框定。[[online-teaching-and-learning|在线教学与学习]]是成人学习者的主导交付媒介——他们常常在工作场所或家中学习——因此其可供性（全天候访问、异步支持）与风险（[[academic-integrity|诚信]]、[[cognitive-offloading|卸责]]）对成人[[learning-design|学习设计]]至关重要。[[self-regulated-learning]] 和 [[agency]] 命名了 AI 必须保护而非侵蚀的学习者能力，而 [[cognitive-offloading]] 刻画了 AI 既能支持又能损害它们的机制。[[inclusive-learning]] 与 [[equity-in-ai-education]] 框定了成人 AI 工具的公平义务，[[human-in-the-loop-ai]] 命名了使人类保持问责的设计模式，[[scaffolding]] 描述了此类工具应提供的渐进式支持。
+成人学习位于若干紧密相关概念的交叉点上。[[higher-ed]] 提供了大量成人与远程学习发生的制度情境，[[professional-training]] 覆盖其劳动力维度，[[lifelong-learning]] 覆盖其继续教育维度。[[vocational-education|职业教育与培训]]是那个以职业而非学习者命名的近邻：成人学习描述的是学习者带入任何情境的东西——自我导向、既有经验、即时的实际目标。VET 命名的是面向某个既定行业或技术岗位的、初始的、贴近实践的培养，以对设备的实际能力为评判标准，并以资格框架而非成人教育倾向为框定。[[online-teaching-and-learning|在线教学与学习]]是成人学习者的主导交付媒介——他们常常在工作场所或家中学习——因此其可供性（全天候访问、异步支持）与风险（[[academic-integrity|诚信]]、[[cognitive-offloading|卸责]]）对成人[[learning-design|学习设计]]至关重要。[[self-regulated-learning]] 和 [[agency]] 命名了 AI 必须保护而非侵蚀的学习者能力，而 [[cognitive-offloading]] 刻画了 AI 既能支持又能损害它们的机制。[[inclusive-learning]] 与 [[equity-in-ai-education]] 框定了成人 AI 工具的公平义务，[[human-in-the-loop-ai]] 命名了使人类保持问责的设计模式，[[scaffolding]] 描述了此类工具应提供的渐进式支持。
 
 ## 对成人教育教师与设计者的启示
 

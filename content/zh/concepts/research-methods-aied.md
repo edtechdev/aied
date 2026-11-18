@@ -1,7 +1,7 @@
 ---
 title: 教育人工智能的研究方法
 created: "2026-08-13T05:48:37-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:13:30-05:00"
 type: concept
 foundations: [ai-education]
 assessment: [educational-measurement]
@@ -12,13 +12,17 @@ confidence: high
 connected_faqs: [research-gaps-aied, evaluating-ai-interventions-methods, equity-ethics-pedagogical-safety-research, reporting-interpreting-aied-research]
 methods: [ai-ed-evaluation, benchmark, rct, research-methods-aied]
 translation_of: concepts/research-methods-aied
-source_updated: "2026-11-01T11:00:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -61,6 +65,8 @@ ai_assist:
 - **局限：**成本高、耗时长；人为条件会削弱生态效度；快速变化的人工智能工具使长实验很快过时；小样本常常对有意义效应的检出功效不足；在扣留可能有帮助的工具方面存在[[ethics|伦理]]约束。
 - **范例：**[[access-not-enough-ai-tutoring-2026]]、[[genai-can-harm-teaching-rct-2026]]、[[adaptive-pretesting-retention]]、[[agent-voice-accents-k12-group-learning]]、[[ai-use-critical-thinking-medical-students-2026]]。
 - **预注册同样适用于二次分析，而不只适用于试验。**[[crediting-assisted-work-inflates-mastery-2026|Srivastava（2026）]]在完全相同的 ASSISTments 日志（12,716 名学生、985,813 个计分事件）上运行了四种[[knowledge-tracing|知识追踪]]更新规则，它们只在如何为带提示的行计分上有所区别；他把验证性的一半封存，直到一个包含注册链接的文件存在，并报告四项预注册预测全部成立。把任何完成都计入，预测后续无辅助表现仅略高于一个“技能—难度”常数（合并 AUC 0.604 对 0.595），而按严格规则只把 72.8% 的学生—技能对判为掌握时，这一规则下却有 93.9%。当一份日志可以支撑多个结论时，事先固定分析才使比较可信。
+
+- **明确写出AI排除。** 只有在限制被记录、且合规性经过检查时，一次无AI后测才算是经过验证的排除；仅有监督式或纸笔测试并不够（[[wei-assisted-performance-unaided-retention-2026|Wei（2026）]]）。
 
 ### 调查与结构方程模型研究
 
@@ -108,6 +114,8 @@ DBR 用[[rct|实验]]的因果控制换取生态真实性与迭代精炼：它�
 - **元研究告诫（2026）：**对人工智能教育综合基础的批评表明，许多早期元分析被构念不连贯、未解决的异质性、效应量之间未被处理的依赖性，以及无效的发表偏差评估所削弱——抬高了人工智能效应的头条数字（见[[bartos-ai-learning-meta-meta-analysis-2026]]、[[oneill-presumed-effective-meta-analysis-2026]]与[[weidlich-chatgpt-effect-search-cause-2025]]）。把合并的人工智能教育效应量视为上界。
 - **范例：**[[zerkouk-comprehensive-review-its-2025]]、[[genai-higher-education-systematic-review-2026]]、[[chatgpt-critical-creative-thinking-review]]、[[zerkouk-comprehensive-review-its-2025]]、[[agentic-ai-education-scoping-review]]。
 
+- Google Scholar 的相关性排序是动态的，因此只凭查询式无法完整复现一次包含它的 PRISMA 检索（[[ai-mathematics-education-prisma-review-2026|Omirzakova 与 Tileubay（2026）]]）。
+
 见专门的[[meta-analysis-systematic-review|元分析与系统综述]]概念页，其中有对教育中人工智能的系统综述与元分析的更完整处理——包括它们与一手设计的关系、PRISMA 报告，以及其长处与局限。
 
 ### 计算与基准评价
@@ -123,7 +131,7 @@ DBR 用[[rct|实验]]的因果控制换取生态真实性与迭代精炼：它�
 
 ### 其他设计：纵向、案例与模拟研究
 
-在几大主要家族之外，本知识库还使用**纵向**设计来长期追踪学习者（[[ai-lms-middle-school-longitudinal|一项纵向学习管理系统研究]]）、**案例与真实场景**研究来考察真实使用（[[ai-in-the-wild-college|对真实学生交互的大规模分析]]），以及**模拟**研究让 LLM 代替学生或病人（[[llm-student-simulation-teacher-insights|作为模拟学习者的 LLM]]、[[simulation|模拟]]）。它们用广度或控制换取真实性，以及接触那些否则难以观察的现象的途径。
+在几大主要家族之外，研究者还会使用**[[longitudinal-research|纵向]]**设计来长期追踪学习者（[[ai-lms-middle-school-longitudinal|一项纵向学习管理系统研究]]）、**案例与真实场景**研究来考察真实使用（[[ai-in-the-wild-college|对真实学生交互的大规模分析]]），以及**模拟**研究让 LLM 代替学生或病人（[[llm-student-simulation-teacher-insights|作为模拟学习者的 LLM]]、[[simulation|模拟]]）。它们用广度或控制换取真实性，以及接触那些否则难以观察的现象的途径。
 
 ### 专家共识方法：德尔菲技术
 
@@ -202,6 +210,7 @@ DBR 用[[rct|实验]]的因果控制换取生态真实性与迭代精炼：它�
 
 ## 关联概念
 
+- [[longitudinal-research]]
 - [[interpreting-and-applying-aied-research|解读并应用人工智能教育研究]]
 - [[ai-ed-evaluation|人工智能教育评价]]
 - [[rct|RCT]]

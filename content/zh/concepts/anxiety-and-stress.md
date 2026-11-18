@@ -1,7 +1,7 @@
 ---
 title: 焦虑与压力
 created: "2026-08-25T09:40:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:29:10-05:00"
 type: concept
 foundations: [academic-integrity]
 pedagogy: [social-emotional-learning, well-being]
@@ -12,7 +12,7 @@ confidence: high
 connected_faqs: [how-ai-impacts-students, ai-anxiety-wellbeing]
 level: [adult learning]
 translation_of: concepts/anxiety-and-stress
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-16T09:58:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
@@ -20,11 +20,15 @@ ai_assist:
     role: translation
     date: "2026-10-09"
     agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
+    agent: hermes-agent
 ---
 
 *本页是英文页面的机器翻译，尚未经母语者审校。*
 
-> **焦虑与压力** — AI 的整合可能在学生和教育者身上引发的负面情绪状态（担心被[[legal-issues-and-risks|诬告]]、被监视带来的压力、对自身能力或[[academic-integrity|诚信]]的忧虑），同时也包括 AI 用于识别、监测和缓解压力与焦虑的积极用途。这一概念属于更宽泛的[[well-being]]（幸福感）范畴，并与[[social-emotional-learning]]和[[affective-computing]]相互重叠，但它特指 AI 教育[[research-methods-aied|研究]]如今直接考察的那个具体情绪构念——以及它既有害又富有生产性的两面性。
+> **焦虑与压力** — AI 的整合可能在学生和教育者身上引发的负面情绪状态（担心被[[legal-issues-and-risks|诬告]]、被监视带来的压力、对自身能力或[[academic-integrity|诚信]]的忧虑），同时也包括 AI 用于识别、监测和缓解压力与焦虑的积极用途。这一概念属于更宽泛的[[well-being|幸福感]]范畴，并与[[social-emotional-learning|社会情感学习]]和[[affective-computing|情感计算]]相互重叠，但它特指 AI 教育[[research-methods-aied|研究]]如今直接考察的那个具体情绪构念——以及它既有害又富有生产性的两面性。
 
 ## 值得思考的问题
 
@@ -70,6 +74,8 @@ AI 引发的压力中证据最充分、研究最透彻的来源是[[remote-proct
 
 **机构支持是通过评价而非安慰来作用于焦虑的。** 一项针对 547 名中国本科生的两波调查（[[school-support-ai-learning-anxiety-control-value-2026|Jiang, Chen & Chen, 2026]]）追溯了所感知的学校支持如何通过控制—价值评价——学习者对自身能力的感知（控制）和对工具有用性的感知（价值）——与 AI 学习焦虑关联。支持直接预测了更低的焦虑，但其关联的大部分流经评价而非绕开评价：经由 AI 学习自我效能感、经由[[technology-acceptance-model|感知有用性]]，以及一条自我效能感先滋养有用性、再进而降低焦虑的序列路径。一阶模型显示，支持的各个*维度*并非独立地起作用——只有信息支持保留了一条通往自我效能感的显著路径——而人工神经网络交叉验证把自我效能感与感知有用性列为焦虑最稳定的预测因子。其含义是：针对焦虑的机构鼓励只有改变了学生关于自身能力和工具有用性的信念，才会落地；泛泛的安慰不会改变生成焦虑的那些评价。
 
+一门课程可以通过低风险的接触降低这种焦虑，但这种缓解并不会均匀地分配。在一门嵌入十项简短 AI 素养活动的异步公共演讲课程的 133 名学生中，对一旦涉及 AI 工具便表现不佳的担忧在七点量表上从 2.63 降到 2.16，p = .04（[[petricini-ai-literacy-communication-equity-2026|Petricini 与 Cruz，2026]]）。白人身份的学生在三项压力与紧张条目上都显著下降，其中担忧从 2.67 降到 1.90，而其他种族、族裔或传承身份的学生在其中任何一项上都没有显著变化。作者报告了这一格局而未给出机制，这使得公平差距成为一个设计问题，而不是一个安慰问题。
+
 AI 也可以通过推进学习目标——而非通过安慰——来缓解学业焦虑：在一项 721 名医学学生的调查和一项 398 人参与的实验中，更高的感知助手能力预测了更大的学习目标进展，后者又预测了更低的学业焦虑和更好的心理健康（[[perceived-ai-intelligence-medical-students-mental-health-2026|Chen 等人（2026）]]）。
 
 不过，能力并非完全的缓冲：在 551 名中国大一学生中，[[self-report-measures|自报]]的 AI 使用压力削弱了 AI 熟练度与心理适应之间的联系，AI 熟练度到适应的斜率从低压力下的 0.42 降到高压力下的 0.20（[[ai-enabled-course-development-first-year-adjustment-2026|Zhang & Yin（2026）]]）。
@@ -77,9 +83,11 @@ AI 也可以通过推进学习目标——而非通过安慰——来缓解学�
 **从能力到焦虑的路径经由伦理，而且它会放大。** 在一所没有 AI 素养[[curriculum-design|课程]]、以法学为主的 584 名中国本科生中，AI 能力并未直接降低 AI 焦虑（β = 0.056, p = .362）。它提高了 AI 伦理意识（β = 0.644, p < .001），后者又反过来提高了焦虑（β = 0.439, p < .001）——只经由一条作者原本假设为保护性的路径的纯间接中介（[[mu-ai-competence-ethical-awareness-anxiety-2026|Mu 等人（2026）]]）。仅有 22.8% 的焦虑方差被解释。对同样构念的 ANN 把透明度列为学习焦虑和被取代焦虑两者的首位预测因子。
 **教师的预测作为 AI 焦虑的一种分布式形态。**[[watson-rainie-ai-challenge-faculty-survey-2026|Watson & Rainie（2026）]]对 1,057 位美国高校教师的调查，把教育者焦虑登记为预期而非症状：95% 预期生成式 AI 会增加学生对工具的过度依赖，94% 预期学术诚信问题增多，90% 预期[[critical-thinking|批判性思维]]削弱，83% 预期注意力持续时间缩短，81% 预期[[equity-in-ai-education|数字不平等]]扩大，而 39% 相信这些工具会削弱教师的角色，47% 担心其学科长期就业影响为负。同一些受访者并非一律悲观——61% 仍预期学习得到改善和定制——但 73% 亲身处理过一起涉及学生生成式 AI 使用的学术诚信案件，这正是预测转化为工作量的地方。该报告明确声明为非科学样本、不具推广性，因此它记录的是行业所表达的恐惧，而非被测量的效应。
 
-这一方向把 AI 焦虑连接到[[motivation]]、[[ai-literacy]]、[[student-experience]]和[[self-regulated-learning]]。
+这一方向把 AI 焦虑连接到[[motivation|动机]]、[[ai-literacy|AI 素养]]、[[student-experience|学生体验]]和[[self-regulated-learning|自我调节学习]]。
 
 一个类似考官的智能体可以把考试的压力一并带来：与 Replika 练习口语的学生得分显著高于与同伴练习时，却把这种互动描述为焦虑而尴尬的，而且不想再使用它，被测量的表现与所经历的压力朝相反方向移动（[[chatbots-oral-proficiency-efl-systematic-review|Soriano-Gonzalez & Belda-Medina (2026)]]）。
+
+这种压力取决于谁在看。在一项两队列的试点中，七名在同学面前与 AI 病人面谈的学生里有五名私下报告了不适，而该组的口头汇报评论大体是正面的（[[tischkau-ai-simulated-patient-formats-2026|Tischkau 等（2026）]]）。公开的赞扬与私下的不适并存，意味着主持者对现场氛围的判读可能低估了学生感到暴露的程度。
 
 ## 与职业相关的 AI 焦虑
 
@@ -103,6 +111,9 @@ AI 也可以通过推进学习目标——而非通过安慰——来缓解学�
 - 这与[[affective-computing]]和[[affective-tutoring]]相关，在那里 AI 读取并回应情绪状态。
 - **模型看重哪些压力源——以及语境为何重要。**[[culturally-aware-student-stress-chatbot-2026|Bashir 与 Afzal（2026）]]提供了一个[[machine-learning]]窗口，观察在[[global-south|非西方语境]]中究竟是哪些压力源真正驱动学生的痛苦。对 1,100 份调查回答的特征重要性分析把血压排在首位（15.6%）、**师生关系第二（10.0%）**——高于睡眠质量（9.3%）、抑郁（8.3%）和社会支持（7.6%）——而焦虑水平排在第九位（4.8%），作者把这读作学生压力是多维的、而非由单一心理指标驱动的证据。他们把师生关系的突出性归因于巴基斯坦相对等级化的教育环境，并把它作为本地采集数据的一个假设呈现，强调压力模型及其特征权重依赖语境，不能被假定可以跨学生群体迁移。
 - **教师侧的实时干预。**[[parlant-emotional-micro-interventions-2026|Parlant 的实践指南]]为这些 AI 工具补上了一个人类对应物：*情绪微干预*——简短、刻意的口头或手势行动，它们肯定学生正在涌现的情绪、重构情绪背后的评价、并把挣扎重新连接到专业身份（肯定、重构、连接）。该方法以认知评价理论为基础，在学生即将因痛苦而退出参与的时刻，针对初级评价（"这是威胁吗？"）和次级评价（"我应对得了吗？"），把沮丧、孤立和冒名顶替感等瓶颈与目标状态配对。其作者坦率地指出，该框架并不需要 AI；[[generative-ai|生成式 AI]]只是教师筛选候选措辞时一种可选的起草方式。
+- **为缓解焦虑而建的系统可能加剧焦虑。**在九年级化学实验室中，一个学期的 AI 情感反馈与实验室焦虑的上升同时出现（F = 4.60, p = 0.035），而教师主导的班级保持平稳（[[liu-chemistry-lab-emotional-feedback-2026|Liu 等（2026）]]）。
+- **三条支持路径，三种压力率。**在一项 149 名预科（sixth-form）学生的三臂随机试验中，由人类导师支持的学生有 5.8% 报告压力，Khanmigo Lite 组为 19.2%，无引导互联网搜索组为 32.0%，因此排序他们焦虑的，是学生卡住时所求助的对象，而不只是 AI 暴露（[[ennion-human-tutoring-genai-tutoring-search-2026|Ennion 与 McLellan，2026]]）。
+- **聊天机器人缓解了五个焦虑维度中的两个。**八周以 AI 聊天机器人辅助的混合式英语写作降低了职业院校学生的躯体焦虑与回避行为，但测验焦虑、自我怀疑与时间焦虑没有变化（[[bao-ai-chatbot-writing-anxiety-vocational-2026|Bao 与 Zhang，2026]]）。
 
 ## 为何这有别于幸福感
 
@@ -172,3 +183,5 @@ AI 也可以通过推进学习目标——而非通过安慰——来缓解学�
 - [[ai-attitude-latent-profiles-career-development-2026]] — 在 AI 焦虑与感知 AI 质量上同时偏高的剖面，而非二者之一
 - [[ai-speaking-practice-communicative-readiness-2026]] — 口语焦虑与开口意愿的联系在高口语自我效能感处反转
 - [[perceived-ai-intelligence-medical-students-mental-health-2026]] — 感知 AI 助手智能经由学习目标进展降低学业焦虑（医学生）
+- [[petricini-ai-literacy-communication-equity-2026]] — 基础传播课程中的 AI 素养：公平、动机与降低不确定性的启示
+- [[tischkau-ai-simulated-patient-formats-2026]] — 七名小组参与者中有五名私下报告在同学面前面谈虚拟病人时感到不适

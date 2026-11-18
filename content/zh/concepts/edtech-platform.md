@@ -1,7 +1,7 @@
 ---
 title: 教育技术平台
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-07T17:27:43-05:00"
+updated: "2026-11-18T03:15:06-05:00"
 connected_faqs: [designing-educational-ai-software]
 type: concept
 foundations: [ai-education]
@@ -12,13 +12,17 @@ level: [k 12, higher ed]
 confidence: high
 connected_resources: [lesson-md, liascript, onmicro-ai, teacher-dev]
 translation_of: concepts/edtech-platform
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -48,7 +52,7 @@ ai_assist:
 - **收集与分析学习数据** —— [[learning-analytics]]与[[student-modeling]]的基底。
 - **治理访问与部署** —— 关于[[open-source]]对专有、本地对云端、以及哪些机构和学习者可用的决策。
 
-## 本知识库文章的关键发现
+## 来自研究的关键发现
 
 ### 采用率而非能力，常常是绑定约束
 

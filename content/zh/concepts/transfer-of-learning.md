@@ -1,7 +1,7 @@
 ---
 title: 学习迁移
 created: "2026-05-07T18:02:28-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:15:06-05:00"
 type: concept
 foundations: [cognitive-offloading]
 pedagogy: [desirable-difficulties, metacognition, scaffolding, transfer-of-learning]
@@ -9,13 +9,17 @@ technology: [intelligent-tutoring]
 level: [k 12]
 confidence: high
 translation_of: concepts/transfer-of-learning
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 

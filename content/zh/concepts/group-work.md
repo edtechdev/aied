@@ -1,7 +1,7 @@
 ---
 title: 小组作业
 created: "2026-09-10T05:34:38-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:15:06-05:00"
 type: concept
 foundations: [academic-integrity, agency]
 pedagogy: [collaborative-learning]
@@ -12,13 +12,17 @@ audience: [instructors, learners]
 level: [higher ed]
 confidence: high
 translation_of: concepts/group-work
-source_updated: "2026-11-04T18:52:58-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -43,14 +47,14 @@ ai_assist:
 ## 为什么小组作业在设计上就是困难的
 
 - **搭便车与社会性懈怠。** 部分成员减少自己的贡献，工作量被重新分摊到更投入的同伴身上。任务范围、小组规模与[[writing-education|写作]]成分会提高其可能性；问责机制与小组效能感则降低它。
-- **问责既是结构性的，也是关系性的。** 在香港——知识库中一项小组评价研究开展的地方——本科生常选择*不*举报搭便车以保护人际关系，自己把活干完而不去面对问题。因此，学生的[[agency]]可能采取"保住成绩、回避冲突"的形式。
+- **问责既是结构性的，也是关系性的。** 在香港，也就是其中一项小组评价研究所在地，本科生常选择*不*举报搭便车以保护人际关系，自己把活干完而不去面对问题。因此，学生的[[agency]]可能采取"保住成绩、回避冲突"的形式。
 - **协作必须被设计，不能被假定。** 当任务可以被划分为相互独立的子任务时，学生会走这条路，小组就退化成一个提交格式，而非共同的智识事业。[[chen-zou-genai-group-assessment-agency-2026|Chen 与 Zou（2026）]]发现他们十五个小组中有三个正是如此——把工作分开，各自在"个人平台"上作业，即便连贯性是一项明确的评分标准，也从不汇集各自独立的 GenAI 能力。
 - **过程与产物。** 当过程与成果一同被评价时，小组作业最强，而这需要[[peer-assessment|同伴评价]]或其他可见的中间物，而非单一的最终成品。
 - **[[equity-in-ai-education|公平]]与[[inclusive-learning|包容]]。** 贡献规范、语言与信心在小组内部分布不均。[[neurodivergent-computing-students|神经多样性学生]]报告说自己需要结构清晰的作业、小而稳定的小组，以及被明确界定的角色——而 AI 协作工具往往为"平均"学习者而建，通常无法满足这些要求。
 
 ## AI 如何改变小组作业
 
-关于小组作业中 AI 的研究处理两件不同的事：AI 为小组的*任务*增添了了什么，以及 AI 对小组的*过程*做了什么。两者都重要，知识库的发现横跨其间。
+关于小组作业中 AI 的研究处理两件不同的事：AI 为小组的*任务*增添了了什么，以及 AI 对小组的*过程*做了什么。两者都重要，其发现横跨其间。
 
 ### AI 作为协作基础设施
 
@@ -79,6 +83,7 @@ ai_assist:
 - **争议可以对抗群体思维。** [[genai-counter-learner-groupthink-2025|Wiss 等人（2025）]]刻意反其道而行：一个被提示注入争议观点的 AI 智能体（CALIE）激发了十二个跨专业[[problem-based-learning|PBL]]团队的[[critical-thinking|批判性思维]]与正向小组动态，抵消了小组作业可能产生的从众压力。与 Jin 等人的对照颇具启发——当挑战是有意的设计时它有帮助，当它是未被承认的副作用时它有害。
 - **中立中介者的约束。** [[spritz-ai-disciplinary-mediation-student-teams-2026|Spritz]]是一个通过揭示隐含假设来中介跨学科团队学科边界的 AI，它同时被珍视为认知支持与关系缓冲——但学生的信任是承重的，且一旦 AI 从中立中介者变为顾问或挑战者，信任便消蚀。因此角色切换需要是显式且可配置的，而非静默的。
 - **协作本身可以成为教学的对象。** [[golrang-propact-pair-programming-2026|ProPACT]]把*二人组*——而非个体——作为分析单位，对共同注意与努力建模，提前至多 30 秒预测协作崩溃。接受主动反馈的二人组取得了更高的调试成功率，并在随后于协作[[regulation]]上显示出持续的增益：AI 可以教协作本身，而不只是支持一项任务。
+- **一个关系性的置换者。** 在一项 33 个小组的随机实验中，[[nixon-social-cost-ai-teammate-2026|Nixon 等（2026）]]发现 AI 队友占用了最多的发言时间，却贡献了最少的新信息，同时学生对彼此的回应更少（回应性 g = −0.78），报告的归属感也更低（4.58 对 5.27）。AI 占据的发言时间越多，学生感到被重视的程度越低（r = −0.52）。
 
 ### 效率—调节的取舍
 
@@ -135,6 +140,7 @@ ai_assist:
 
 ## 关联文章
 
+- [[nixon-social-cost-ai-teammate-2026]] — AI 队友占用最多发言时间，人与人之间的回应性与归属感随之下降（Nixon et al. 2026）
 - [[chen-zou-genai-group-assessment-agency-2026]] — GenAI 中介式小组评价中学生能动性的三种模式
 - [[jin-emergent-learner-agency-implicit-hai-2026]] — AI 加入小组时的涌现学习者能动性：支持型与对抗型人格
 - [[genai-counter-learner-groupthink-2025]] — 一个向 PBL 团队注入争议以对抗群体思维的 AI 智能体

@@ -1,7 +1,7 @@
 ---
 title: 终结性评价
 created: "2026-08-19T17:30:00-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 type: concept
 foundations: [academic-integrity]
 assessment: [assessment, authentic-assessment, summative-assessment, educational-measurement]
@@ -10,13 +10,17 @@ page_kind: [evaluation]
 confidence: high
 methods: [ai-ed-evaluation]
 translation_of: concepts/summative-assessment
-source_updated: "2026-11-04T16:51:25-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -52,6 +56,8 @@ ai_assist:
 ## 抗 AI 的终结性形式
 
 本知识库的一个关键主题是**终结性形式决定抗 AI 性**——任务越要求现场的、面对面的、被逐一追问的表现，学生就越难用 AI 替代自己的学习。
+
+抗 AI 的形式守住的是分数，而不是重新思考分数本身：监考考试与口试稳定既有的价值与实践，因此改革止步于成绩单，而非止于分数所代表的东西（[[nieminen-grading-assessment-reform-2026|Nieminen 等（2026）]]）。
 
 - **[[oral-assessment|口试]]与口头评价。**[[fenton-oral-exams-ai-authentic-assessment-2025|Fenton（2025）]]论证口试是一种低技术、天生抗 AI 的终结性形式：它实时的、互动式的对话测试理解、[[critical-thinking|批判性思维]]和推理而非记忆，阻止学生用 AI 生成并背诵答案，并呼应专业实践。[[socratic-tests-conversational-assessment|苏格拉底式测验]]和[[code-review-genai-cs1|代码评审访谈]]把它延伸到动态、对话式和访谈式的终结性评价。
 - **闭卷、监考、无辅助的测量。**[[generative-ai-reduced-study-time-math|证据]]和[[stromberg-generative-ai-learning-penalty-secondary-2026|大规模现场数据]]显示，在学生使用 AI 时，监考的闭卷考试——而非被抬高的作业或居家作业——才是真实学习的可靠信号。[[responsible-assessment-ai-era-stanford-2026|负责任评价]]框架把这些无辅助测量嵌入以效度驱动的重新设计之中。考试留在线上时，[[remote-proctoring|远程监考]]接替这一角色，而本语料库对自动监考的两篇综述发现了隐私和[[bias-mitigation|公平]]关切与检测收益并存（[[automated-online-exam-proctoring-decade-review-2026]]、[[academic-dishonesty-automated-proctoring-ai-2026]]）。
@@ -119,4 +125,4 @@ ai_assist:
 - [[ai-grading-handwritten-physics-2026]] — 手写物理评价的 AI 评分（奥林匹克）
 - [[mesny-innovative-assessment-grading-management-2026]]
 - [[cvengros-grading-handwritten-chemistry-ai-2026]]
-- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — Students cannot reliably spot AI-drafted items：学生无法可靠地识别 AI 起草的题目
+- [[vogt-ai-mcq-recognition-medical-assessment-2026]] — 学生无法可靠地识别 AI 起草的题目

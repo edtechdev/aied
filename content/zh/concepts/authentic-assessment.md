@@ -1,7 +1,7 @@
 ---
 title: 真实性评估
 created: "2026-08-13T19:55:03-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-18T03:14:49-05:00"
 connected_faqs: [redesign-assessment-ai-era, asynchronous-online-courses-ai]
 type: concept
 foundations: [academic-integrity]
@@ -11,13 +11,17 @@ assessment: [assessment, assessment-validity, authentic-assessment, formative-as
 level: [higher ed]
 confidence: high
 translation_of: concepts/authentic-assessment
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-15T09:05:00-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:
   - model: stepfun/step-5-preview:free
     role: translation
     date: "2026-10-09"
+    agent: hermes-agent
+  - model: deepseek/deepseek-v4.1-flash-1017
+    role: translation
+    date: "2026-11-18"
     agent: hermes-agent
 ---
 
@@ -58,6 +62,7 @@ ai_assist:
 - [[beyond-detection-authentic-assessment-ai-2025|Beyond Detection]]主张，真实性无法被管制出来；它必须被设计，把 AI 定位为声明的协作者而非作弊应用，并优先真实性、[[process-oriented-assessment|过程本位]]的评估而非监控。
 - [[responsible-assessment-ai-era-stanford-2026|Responsible Assessment]]把评估重新框定在效力证据与镜像学生未来工作的真实性任务上。
 - [[authentic-products-authenticated-processes-2026|真实的产品，经认证的过程]]考察 AI 丰富的[[higher-ed|高等教育]]如何既评估真实产出，又评估产生它们的过程。
+- **治理经由评估设计抵达学生。** 感知到的 [[governance|AI 治理]]质量对感知真实性评估的预测远超政策知晓度（β = 0.36 对 0.12），而在 644 名中国大学生中，真实性评估完全承载了通往 [[student-engagement|参与]]的路径（[[jiang-genai-governance-authentic-assessment-equity-2026|Jiang（2026）]]）。
 
 - **一个 AI 起草伙伴仍留下判断。**[[authentic-assessments-generative-ai-pilot-2026|Paula 等人（2026）]]与八名协调员试用了 GPT-4.1 评估设计器：它产出了可用的概览、任务、标准、时间线与量规，却反复错过学科语境与主题排序，且八人全部拒绝端到端自动化，把[[evaluative-judgment|学术判断]]而非模型置于中心。
 - [[tool-invariant-framework-agentic-ai|工具不变框架]]主张评估计算方法与过程，而非工具特定产出，用口头答辩与验证。
