@@ -68,11 +68,11 @@ export interface NewsletterAudio {
  * the download size, and a wrong value can make a player refuse the file.
  */
 export const NEWSLETTER_AUDIO: Record<string, NewsletterAudio> = {
-  '2026-10-23': { file: 'aied-weekly-2026-10-23.mp3', duration: 590, bytes: 7075361, kind: 'reading' },
-  '2026-10-24': { file: 'aied-weekly-2026-10-24.mp3', duration: 1129, bytes: 13545996, kind: 'reading' },
-  '2026-10-31': { file: 'aied-weekly-2026-10-31.mp3', duration: 1680, bytes: 20164275, kind: 'reading' },
-  '2026-11-07': { file: 'aied-weekly-2026-11-07.mp3', duration: 1532, bytes: 18386904, kind: 'reading' },
-  '2026-11-14': { file: 'aied-weekly-2026-11-14.mp3', duration: 1465, bytes: 17575645, kind: 'reading' },
+  '2026-10-23': { file: 'aied-weekly-2026-10-23.mp3', duration: 534, bytes: 6408612, kind: 'reading' },
+  '2026-10-24': { file: 'aied-weekly-2026-10-24.mp3', duration: 1009, bytes: 12106545, kind: 'reading' },
+  '2026-10-31': { file: 'aied-weekly-2026-10-31.mp3', duration: 1529, bytes: 18343959, kind: 'reading' },
+  '2026-11-07': { file: 'aied-weekly-2026-11-07.mp3', duration: 1361, bytes: 16328350, kind: 'reading' },
+  '2026-11-14': { file: 'aied-weekly-2026-11-14.mp3', duration: 1327, bytes: 15923348, kind: 'reading' },
 };
 
 export function newsletterAudioUrl(file: string): string {
