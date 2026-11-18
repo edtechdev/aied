@@ -1,7 +1,7 @@
 ---
 title: Evaluative Judgment
 created: "2026-09-10T05:58:00-04:00"
-updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-18T10:20:00-05:00"
 type: concept
 foundations: [academic-integrity, critical-thinking]
 pedagogy: [metacognition, self-regulated-learning]
@@ -52,6 +52,7 @@ Four arguments converge.
 A further layer concerns the *source* of a judgment, not only its content. [[student-perspectives-ai-writing-grading-2026|AlGhamdi (2026)]] gives that layer a sharper vocabulary: his 13 Saudi computing students rendered two independent judgments within a single evaluation event — whether the feedback was useful, and whether its source held authority to grade. They all accepted ChatGPT's rubric-based feedback as clear and specific while overwhelmingly reserving the grade for the instructor ("I agree with it, but with one condition, that the doctor checks the feedback"), suggesting evaluative judgment in AI-mediated assessment must now include reasoning about evaluative authority itself, not only about the quality of the feedback received.
 
 [[sharma-judgment-visible-genai-assessment-2026|Sharma (2026)]] gives the construct its strongest placement in the integrity literature. Extending Eaton's (2023) postplagiarism framing from an [[ethics|ethical]] orientation into assessment design, he argues that detection- and verification-based models of [[academic-integrity|integrity]] are misaligned with work in which human judgment and machine generation are entangled. He reframes integrity as a pedagogical practice enacted through evaluative judgment — the learner's capacity to weigh options, justify academic choices and assume responsibility under epistemic uncertainty. His four practices (annotated decision trails, verification and accountability, [[oral-assessment|oral defense]] and dialogic accountability, draft differences with version history) make that judgment visible as evidence rather than inferring it from the artifact. He separates judgment from the constructs it is often collapsed into: [[reflection|reflective practice]] considers one's thinking retrospectively, [[metacognition|metacognition]] is the awareness and regulation of cognitive processes, whereas judgment evaluates options against standards and accepts consequences under uncertainty. He also names a failure mode in requiring documented reasoning: it risks "the replacement of one compliance regime with another", since judgment as evidence "remains relational and situated rather than mechanically verifiable".
+- **Accountable judgment adds cultural mediation to the construct.** Yan (2026) extends evaluative judgment for AI-mediated language and translation assessment: learners must justify linguistic, communicative, cultural-mediation and ethical decisions, because a fluent target text can hide unresolved register and cultural problems ([[yan-accountable-judgement-language-assessment-2026|Yan, 2026]]).
 
 ## Evidence: how judgment develops, and what AI does to it
 
@@ -152,3 +153,4 @@ Displacement has a teacher-side version, and it is what turned several writing p
 - [[fang-human-ai-collaboration-patterns-instructional-design-2026]] — Judgment separated quality only when wired to revision (Z = 2.80 and 2.50)
 - [[valiassist-programming-feedback-validation-by-demonstration-2026]] — Instructors' revisions became reusable validation criteria (Tang et al. 2026)
 - [[ahman-thoren-processes-of-patterning-ai-literacy-2026]] — Patterning removed from the task, and the judgment that gets borrowed
+- [[yan-accountable-judgement-language-assessment-2026]] — Accountable judgment for language and translation assessment, with cultural mediation as a scored dimension

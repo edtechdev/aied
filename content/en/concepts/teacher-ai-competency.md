@@ -1,7 +1,7 @@
 ---
 title: Teacher AI Competency
 created: "2026-05-08T10:44:35-04:00"
-updated: "2026-11-16T08:24:32-05:00"
+updated: "2026-11-18T10:20:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]
@@ -121,6 +121,7 @@ Belief configuration is a second profiling axis: among 40,680 teachers in TALIS 
 - **Instructors prefer fluency but attribute learning to scaffold.** Across 41 instructors, a GPT-4o baseline was preferred overall (21 vs 13) yet the fine-tuned three-step model (identify, explore, develop) was more often credited with learning (18 vs 13), and the two judgments agreed only 39% of the time ([[teachingcoach-chatbot-instructor-guidance|Molnar et al. (2026)]]).
 - **Institutional support:** [[educational-development|professional development]] must be paired with institutional infrastructure ([[educational-policy-ai|policy]], [[institutional-change-framework-ai|institutional change]]) for sustainable adoption.
 - **Authoring tools do not guarantee pedagogical fidelity.** [[teachers-configure-educational-chatbots-2026|Riahi et al. (2026)]] studied 27 middle school teachers configuring educational [[conversational-ai|chatbots]] in professional-development workshops, analyzing focus groups alongside configuration and interaction logs. Teachers treated the chatbot as an instructional scaffold bounded by teacher-defined rules, yet log-based alignment between intent and behavior was stronger for responsiveness (88.9%) and persona (81.5%) than for rules (70.4%) and purpose (59.3%). Configurable controls alone do not carry pedagogical intent into behavior, so expressing, testing, and refining a chatbot's pedagogy is itself a competency the authoring tooling has to support.
+- **Support reaches competence through knowledge, not provision.** Across 782 teachers in 16 Chinese schools, perceived school support had no significant direct path to perceived AI teaching competence; the association ran through AI-TPACK, self-efficacy, resilience and AI anxiety, with AI-TPACK the largest channel ([[zhou-school-support-teacher-ai-competence-2026|Zhou, Xie and Chen, 2026]]).
 
 
 A design-based counterexample treats competency as situational rather than a rung on a ladder. [[adaptive-ai-model-teacher-educators-2025|Eyal's 2025 design-based study with 22 higher-education teacher educators]] had participants examine five published assessment frameworks and co-design an alternative organized around three inter-related axes: context fit (infrastructure, socio-cultural factors, local needs, developmental stage), professional needs (discipline, pedagogy, leadership, support), and dynamic development. The model rejects fixed competency levels and allows non-linear progression, and it ships with a 20-item reflective self-assessment questionnaire rated 1 to 5. Its validation is [[qualitative-research|qualitative]] only, with no [[quantitative-research|quantitative]] reliability testing, so it stands as a design contribution rather than a validated instrument.
@@ -260,3 +261,4 @@ Department chairs can evaluate competence by demonstration. Self-report scales a
 - [[xiong-teachers-ai-attitudes-chinese-higher-ed-2026]] — Adoption judged discipline by discipline, with students' reasoning the main worry
 - [[chen-future-faculty-development-ai-2027]] — Competence distributed across a teaching team, with baseline technical and ethical capability held universally
 - [[ji-judgement-space-dialogic-inquiry-2027]] — Frameworks list competencies and leave the conditions of judgment untheorized
+- [[zhou-school-support-teacher-ai-competence-2026]] — School support reaches teacher AI competence only through AI-TPACK, efficacy, resilience and anxiety

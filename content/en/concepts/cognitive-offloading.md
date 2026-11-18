@@ -1,7 +1,7 @@
 ---
 title: Cognitive Offloading
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-16T09:06:00-05:00"
+updated: "2026-11-18T10:20:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -116,6 +116,7 @@ The ladder has three rungs, and only the first two belong here. **Offloading** i
 **Withdrawing the regulator raises offloading and lowers output quality.** Across four experiments with 728 adults, experimentally induced [[metacognition|metacognitive]] disengagement raised cognitive offloading (indirect effect 0.51, 58.0% of the total) and cut expert-rated innovation quality from 4.78 to 3.95, with 57.8% of that drop running through offloading ([[xiao-metacognitive-disengagement-knowledge-innovation-2026|Xiao, Men & Zhang (2026)]]). Task complexity strengthened that path and [[ai-literacy|AI literacy]] weakened it. Two limits bound the claim: the assistant was a researcher-scripted response bank rather than a live model, and occupation and student status went unreported, so this is neither a classroom nor a workplace finding.
 
 **Dependence has a trajectory, and it is not monotonic.** Across four waves over 18 months (n = 524), [[technology-acceptance-model|perceived usefulness]] predicted *lower* later academic dependence rather than more, so an escalation story keyed to how useful students find the tool gets the direction wrong ([[zhang-usefulness-dependence-genai-2026|Zhang, 2026]]).
+**Attentional control is the measured path from dependence to achievement.** In 1,461 Chinese adolescents, generative-AI dependence predicted lower attentional control, and that path carried 76.19% of the total indirect association with examination performance, ahead of physical fitness ([[su-genai-dependence-academic-performance-adolescents-2026|Su et al., 2026]]).
 
 **A benchmark external to any one study measures the same failure and finds it common.** ImpactBench scored ten models on 48,540 simulated conversations: its Cognitive Offloading Asymmetry metric averaged 51.9% and Planning-Related Cognitive Intrusion 47.1%. Its education case has Claude Sonnet 5 hand over a thesis, an outline, and a complete essay "ready to paste in" once a simulated student presses for a finished draft, while still refusing to fabricate citations ([[impactbench-ai-impact-on-humans-2026|ImpactBench (2026)]]). Learning & Skill Development was the weakest of 14 subareas on both polarities, at 45.9% and 16.3%.
 
@@ -276,3 +277,4 @@ Two recent studies give offloading a measurement apparatus. [[ayasrah-executive-
 - [[sharma-chatgpt-dependency-executive-dysfunction-stress-2026]] — Academic stress mediates ChatGPT dependence and executive dysfunction
 - [[papasideri-cognitive-offloading-genai-narrative-review-2026]] — Cognitive offloading in the age of generative AI: a narrative review linking offloading to memory, learning and executive function
 - [[ho-invariant-core-faculty-development-2027]] — SOLO levels explain why GenAI can supply the relational artifact, so assessment must weight the process (Ho 2026)
+- [[su-genai-dependence-academic-performance-adolescents-2026]] — Attentional control carries most of the dependence-to-performance association in adolescents

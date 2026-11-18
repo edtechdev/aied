@@ -2,7 +2,7 @@
 connected_resources: [clarity, pedagogical-promptbook, snorkl]
 title: Feedback
 created: "2026-08-15T19:02:13-04:00"
-updated: "2026-11-15T09:05:00-05:00"
+updated: "2026-11-18T10:20:00-05:00"
 type: concept
 assessment: [ai-feedback-quality, assessment, automated-assessment, feedback, feedback-literacy, formative-assessment, peer-assessment]
 connected_faqs: [developing-ai-tutor, ai-feedback-at-scale]
@@ -146,6 +146,7 @@ Feedback is one of the most consequential and best-evidenced mechanisms in educa
 - **Human-vetted AI feedback improved revisions but not post-test learning.** In a randomized trial with 354 undergraduates and 1,366 essays, AI-mediated TA feedback raised revision quality (Cohen's d = 0.50) while post-test scores stayed flat, and the gain grew as TAs adopted more suggestions ([[lu-ai-mediated-feedback-feedbackwriter-rct-2026|Lu et al., 2026]]).
 
 Two new studies narrow what AI feedback can claim. Across 391 German secondary students, no outcome differed significantly between teacher-written and LLM feedback: revisions, later writing, time on task and perceptions were statistically indistinguishable. Bayesian posteriors leaned toward teacher feedback on later writing (.80) and affect (.90), with a quarter to two-fifths of the mass inside the equivalence region. Immediate AI feedback alone was rated more useful and more motivating ([[meyer-teacher-ai-feedback-writing-2026|Meyer et al., 2026]]). In an eight-week study of 247 undergraduates, perceived feedback quality predicted competence (β = 0.52), autonomy (β = 0.44) and relatedness (β = 0.28), which locates part of the effect in how feedback is experienced rather than in its accuracy alone ([[liu-ai-feedback-motivational-pathways-2026|Liu et al., 2026]]).
+**The difference is dimensional rather than overall.** In a crossover experiment with 36 pre-service teachers, teacher feedback produced larger gains in writing teaching objectives while AI feedback produced larger gains in designing the teaching process, and teacher feedback led on every flow dimension ([[wang-human-ai-vs-teacher-collaboration-instructional-design-2026|Wang et al., 2026]]).
 
 The L2 synthesis gives that hierarchy an empirical anchor. Across 48 controlled studies, GenAI deployed as a feedback and assessment provider produced the largest effect (g = 1.15, falling to g = 0.83 after outlier removal), ahead of its use as an interaction partner (g = 0.81) or an instructional integrator (g = 0.28) ([[zhang-genai-l2-learning-meta-analysis-2026|Zhang et al., 2026]]).
 
@@ -239,3 +240,4 @@ The L2 synthesis gives that hierarchy an empirical anchor. Across 48 controlled 
 - [[liu-ai-generated-teacher-feedback-writing-motivation-rct-2026]] — AI and instructor feedback equal on revision quality, unequal on motivation (Liu & Shi 2026)
 - [[xian-process-visualization-feedback-news-translation-2026]] - feedback generated from keystroke and screen traces outperformed written product comments, 11 per arm
 - [[zhang-genai-l2-learning-meta-analysis-2026]] — Three-level meta-analysis: GenAI works through feedback and learner-directed design, not as a uniform intervention (Zhang et al. 2026)
+- [[wang-human-ai-vs-teacher-collaboration-instructional-design-2026]] — Teacher and AI feedback split by dimension and diverge on learning experience

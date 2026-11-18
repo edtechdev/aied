@@ -6,10 +6,26 @@
 >
 > **Scope of this file:** it lists work in progress only — articles whose full text is still being sought, and pages waiting on a source before their practice and limitations sections can be written. Candidates appear here only while they are being pursued, and no outcome is recorded; items judged unsuitable for the knowledge base are tracked outside this repository.
 
-**Last updated:** 2026-11-16
-**Total backlog:** 26 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+**Last updated:** 2026-11-18
+**Total backlog:** 30 articles awaiting ingest · 52 truncated source texts awaiting PDFs · 19 pages awaiting a full text before their practice and limitations sections can be written
+
+## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-18)
+
+Ingested nine papers (arXiv, EdArXiv, and five Frontiers journal articles). Four candidates from
+the same window remain queued.
+
+Full text not retrievable (publisher blocked the PDF; please send the PDFs to unblock ingestion):
+
+- [Artificial intelligence–based clinical simulation in undergraduate medical education: contributions of virtual patients, chatbots, and immersive environments - a scoping review](https://bmcmededuc.biomedcentral.com/articles/10.1186/s12909-026-10793-8) — [DOI: 10.1186/s12909-026-10793-8](https://doi.org/10.1186/s12909-026-10793-8)
+- [Embedding AI literacy and safeguarding academic integrity: generative AI in South African higher education assessment](https://doi.org/10.1080/2331186x.2026.2690714) — [DOI: 10.1080/2331186x.2026.2690714](https://doi.org/10.1080/2331186x.2026.2690714)
+
+Queued for a later run (not reached inside the 20-article cap):
+
+- [Artificial Intelligence in Middle and Secondary Education: Instructional Opportunities, Limitations and Ethical Considerations](https://doi.org/10.3390/educsci16111953) — [DOI: 10.3390/educsci16111953](https://doi.org/10.3390/educsci16111953)
+- [A bibliometric study of human factors in artificial intelligence mediated second language learning ecosystems](https://doi.org/10.1007/s44217-026-02248-5) — [DOI: 10.1007/s44217-026-02248-5](https://doi.org/10.1007/s44217-026-02248-5)
 
 ## Daily arXiv + EdArXiv + OpenAlex scan (2026-11-16)
+
 
 Five BMC Medical Education early-access records needed publisher PDFs. Resolved on 2026-11-16:
 three were supplied and ingested as `ago-prompt-literacy-allied-health-2026`,

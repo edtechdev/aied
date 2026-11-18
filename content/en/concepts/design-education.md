@@ -1,7 +1,7 @@
 ---
 title: "Design Education"
 created: "2026-09-17T14:04:29-04:00"
-updated: "2026-11-16T22:52:00-05:00"
+updated: "2026-11-18T10:20:00-05:00"
 type: concept
 foundations: [ai-literacy, design-thinking]
 pedagogy: [creativity, professional-training]
@@ -37,6 +37,7 @@ It is also distinct from [[design-thinking|design thinking]], a human-centered [
 - **A [[discipline-specific-aied|discipline-specific]] local tool widened the search space and levelled participation.** [[genai-architecture-education|Kapsalis (2026)]] ran two Derby focus groups of eight architecture students through a 90-minute session with a locally executed ComfyUI workflow. Creative scores were highest for idea generation (4.5) and experimentation (4.2) and lower for refining decisions (3.7), while inclusivity items ran 3.8–4.1 and correlated with keeping up regardless of prior AI use (ρ = .81). Confidence gained in the session did not transfer — confidence in using these skills professionally was 2.6, a gap the author calls a curriculum-level problem.
 
 - **Unsupported novices do not revise; an adversarial agent changes that.** [[ai-agents-constructive-conflict-design-education-2026|Han & Martelaro (2026)]] ran a between-subjects experiment with 45 novice interaction designers on a civic reporting site. Their Self Reflection group never revised or deleted a single idea; agent-engaged students made roughly 3.6 times more edits, reached stakeholder concerns the other groups missed ([[accessibility|accessibility]], [[privacy|privacy]], reluctance toward automation) and produced stronger proposals. The agent was rated as contributing (M = 5.33), but one participant felt criticized "in every aspect", and the authors insist simulated pushback is no substitute for engaging real publics.
+- **Order decides whether a synthetic stakeholder frames or confirms.** Teams that interviewed an AI-simulated stakeholder before the human treated it as a provisional frame; teams that started with the human used it only for validation ([[mokryn-ai-anchor-synthetic-stakeholders-2026|Mokryn et al., 2026]]).
 
 - **A structured process keeps authorship with students at scale.** [[project-based-digital-storytelling-art-design-2026|Tian et al. (2026)]] studied a 15-week storytelling capstone in which 426 undergraduates and 48 mentors (about 1:9) turned local heritage into [[multimodal|multimodal]] narratives. Expert ratings of the 92 works were strongest on novelty (M = 4.21) and weakest on wholeness (M = 3.68) — ideas came more easily than integration. Creative-thinking scores in a 31-student subgroup rose from 77.23 to 94.68 (d = 0.82). AI organized information and edited; students kept topic choice, interpretation and final decisions, and 31 works were adopted by a regional Cultural and Tourism Bureau.
 
@@ -121,3 +122,4 @@ Assessment problems here are inseparable from professional ones. [[ai-interior-d
 - [[wang-ai-disruption-design-innovation-competence-2026]] — AI technological disruption awareness, design thinking mindset, and design innovation competence among design students
 - [[chu-design-students-ai-agent-tam-ttf-2026]] — attitude as the necessary gate on design students' intention to use AI agents, with task–technology fit as a second path (Chu & Liu 2026)
 - [[han-prompt-literacy-ai-dependence-design-2026]] — Dependence type decides whether prompt literacy becomes engagement
+- [[mokryn-ai-anchor-synthetic-stakeholders-2026]] — Simulated stakeholders frame a design problem or merely confirm it, depending on interview order
