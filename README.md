@@ -82,13 +82,14 @@ The locale set lives in `site.config.json` → `i18n.locales`, each locale's tra
 
 ### How this is made
 
-Page text is drafted by language models from the source papers and reviewed, corrected and published by a human editor, who is accountable for what appears. The full account — the role each AI system plays, what the scripts verify, what nothing verifies, and why no AI system is listed as an author — is in [AI-USE.md](AI-USE.md), and appears on the Notice page of both offline editions.
+Page text is drafted by language models from the source papers and reviewed, corrected and published by a human editor, who is accountable for what appears. The podcast episodes and the explainer videos are generated from a [Gemini Notebook](https://notebook.google/) built on this knowledge base, and their scripts are edited before publishing. The full account — the role each AI system plays, what the scripts verify, what nothing verifies, and why no AI system is listed as an author — is in [AI-USE.md](AI-USE.md), and appears on the Notice page of both offline editions.
 
 ### Acknowledgements
 
 - **[arXiv](https://info.arxiv.org/help/api/index.html)** — papers are discovered through arXiv's public APIs, OAI-PMH interface and RSS feeds. Their descriptive metadata is stored, and each page links back to the paper's abstract page rather than hosting the paper. Thank you to arXiv for use of its open access interoperability.
 - **[OpenAlex](https://openalex.org/)** — open-access articles published outside the preprint servers are discovered through the OpenAlex API. Please cite OpenAlex as: Priem, J., Piwowar, H., & Orr, R. (2022). *OpenAlex: A fully-open index of scholarly works, authors, venues, institutions, and concepts*. arXiv:2205.01833.
 - **[Hermes Agent](https://hermes-agent.nousresearch.com/docs)** — the agent framework this knowledge base is built and maintained with.
+- **[Gemini Notebook](https://notebook.google/)** — Google's source-grounded notebook assistant (NotebookLM until July 2026). The two-speaker podcast episodes and the single-narrator explainer videos are generated from a notebook built on this knowledge base, then transcribed, checked and published here — so the audio and the video are always answering to these pages, not to a separate corpus. It is also listed on the [Gemini Notebook resource page](https://edtechdev.github.io/aied/resources/gemini-notebook/).
 - **[Blume](https://useblume.dev/)** — the documentation framework whose design and layout conventions this front end follows.
 
 ### License

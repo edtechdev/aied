@@ -1,6 +1,7 @@
 ---
 connected_resources: [deeptutor, learnharness, primer, canvas-mcp]
 connected_podcasts: [pedagogical-agents-textbook-that-watches]
+connected_videos: [ai-as-pedagogical-partner]
 title: Agentic AI
 created: "2026-08-01T04:07:54-04:00"
 updated: "2026-11-18T15:25:00-05:00"

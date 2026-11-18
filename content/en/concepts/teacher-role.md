@@ -10,6 +10,7 @@ audience: [instructors, faculty developers, learners]
 level: [k 12, higher ed]
 connected_faqs: [top-10-findings-ai-education-instructors, ai-save-instructor-time, faculty-ai-competencies, faculty-development-ai, asynchronous-online-courses-ai, making-simulated-students-behave-like-learners]
 connected_podcasts: [teacher-role-curator-of-learning]
+connected_videos: [redefining-educator-roles]
 ai_assist:
   - model: deepseek/deepseek-v4.1-flash-1017
     role: revision

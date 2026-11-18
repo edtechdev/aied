@@ -616,6 +616,88 @@ const recentConceptItems = recentConcepts.map(c => {
       margin-top: 0.35rem;
       font-size: 0.85rem;
     }
+    /* Connected Videos: the same section shape as the lists above, but each item is
+       a player. The facade holds a 16:9 box so the layout does not jump when the
+       iframe replaces it. */
+    :global(.connected-videos) {
+      margin-top: 2.5rem;
+    }
+    :global(.video-card) {
+      margin: 0 0 1.5rem;
+      max-width: 34rem;
+    }
+    :global(.video-facade),
+    :global(.video-frame) {
+      display: block;
+      position: relative;
+      width: 100%;
+      aspect-ratio: 16 / 9;
+      margin: 0;
+      padding: 0;
+      border: 1px solid var(--muted-border-color);
+      border-radius: 10px;
+      overflow: hidden;
+      background: #000;
+      cursor: pointer;
+    }
+    /* No thumbnail: a panel in the site's own voice, with the title spelled out. */
+    :global(.video-facade) {
+      background:
+        radial-gradient(circle at 50% 42%, color-mix(in srgb, var(--primary) 26%, transparent), transparent 62%),
+        linear-gradient(160deg, #101a2c, #0b1220 70%);
+    }
+    :global(.video-facade:hover),
+    :global(.video-facade:focus-visible) {
+      border-color: var(--primary);
+      outline: none;
+    }
+    :global(.video-facade-meta) {
+      position: absolute;
+      left: 0;
+      right: 0;
+      top: calc(50% + 2.3rem);
+      text-align: center;
+      font-size: 0.82rem;
+      letter-spacing: 0.02em;
+      color: color-mix(in srgb, #fff 78%, transparent);
+    }
+    :global(.video-play) {
+      position: absolute;
+      inset: 0;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      color: #fff;
+      pointer-events: none;
+      padding-bottom: 1.6rem;
+    }
+    :global(.video-play svg) {
+      width: 3.6rem;
+      height: 3.6rem;
+      padding: 0.9rem 0.8rem 0.9rem 1.1rem;
+      border-radius: 50%;
+      background: rgba(11, 18, 32, 0.72);
+      backdrop-filter: blur(2px);
+      transition: background 0.15s;
+    }
+    :global(.video-facade:hover .video-play svg),
+    :global(.video-facade:focus-visible .video-play svg) {
+      background: var(--primary);
+      color: #0b1220;
+    }
+    :global(.video-card figcaption) {
+      margin-top: 0.5rem;
+    }
+    :global(.video-title) {
+      font-weight: 600;
+      text-decoration: none;
+    }
+    :global(.video-title:hover) {
+      text-decoration: underline;
+    }
+    :global(.video-frame) {
+      border: 0;
+    }
     /* === Embed mode (?embed): strip all site chrome and show only content. ===
        [data-embed] is set on <html> by a head script when the URL carries
        ?embed. Hide the header, both sidebars/rail, nav, footer, the page-meta

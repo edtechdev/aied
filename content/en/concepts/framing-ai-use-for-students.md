@@ -7,6 +7,7 @@ foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
 connected_faqs: [course-ai-policy]
 connected_podcasts: [say-why-framing-ai-use]
+connected_videos: [rethinking-ai-in-education]
 audience: [learners]
 level: [higher ed, k 12]
 confidence: high

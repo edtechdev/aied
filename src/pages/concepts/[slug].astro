@@ -9,6 +9,8 @@ import { CONCEPT_REDIRECTS } from '../../data/conceptRedirects';
 import { CONCEPT_ALIASES } from '../../data/conceptAliases';
 import StarButton from '../../components/StarButton.astro';
 import ConnectedList from '../../components/ConnectedList.astro';
+import ConnectedVideos from '../../components/ConnectedVideos.astro';
+import { VIDEO_BY_SLUG, checkVideoPairing } from '../../data/videos';
 import { formatRuntime, transcriptAssetUrl } from '../../data/podcast';
 import { renderMarkdown, smartTitle } from '../../lib/markdown';
 
@@ -125,11 +127,23 @@ const connectedPodcasts = (concept.data.connected_podcasts || [])
   .map(s => episodeById.get(s))
   .filter((e): e is NonNullable<typeof e> => Boolean(e))
   .sort((a, b) => a.data.episode - b.data.episode);
+
+// Connected Videos: explainer videos embedded on the page. They come before the
+// podcasts because a reader who has not heard the episode can watch the six-minute
+// version of the argument first, and because the video needs no download.
+const videoSlugs: string[] = concept.data.connected_videos || [];
+checkVideoPairing(slug, 'concepts', videoSlugs);
+const connectedVideos = videoSlugs
+  .map(s => VIDEO_BY_SLUG.get(s))
+  .filter((v): v is NonNullable<typeof v> => Boolean(v));
 if (connectedFaqs.length > 0) {
   toc.push({ text: 'Connected FAQs', slug: 'connected-faqs', depth: 2 });
 }
 if (connectedResources.length > 0) {
   toc.push({ text: 'Connected Resources', slug: 'connected-resources', depth: 2 });
+}
+if (connectedVideos.length > 0) {
+  toc.push({ text: 'Connected Videos', slug: 'connected-videos', depth: 2 });
 }
 if (connectedPodcasts.length > 0) {
   toc.push({ text: 'Connected Podcasts', slug: 'connected-podcasts', depth: 2 });
@@ -162,6 +176,8 @@ if (connectedPodcasts.length > 0) {
     <div style="line-height:1.8" data-pagefind-body>
       <Fragment set:html={rendered.html} />
     </div>
+
+    <ConnectedVideos id="connected-videos" heading="Connected Videos" videos={connectedVideos} />
 
     <ConnectedList
       id="connected-podcasts"

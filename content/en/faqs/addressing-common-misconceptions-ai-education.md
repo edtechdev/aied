@@ -4,6 +4,7 @@ created: "2026-09-04T04:39:00-04:00"
 updated: "2026-11-18T16:55:00-05:00"
 connected_faqs: [top-10-findings-ai-education-instructors, reduce-ai-cheating, should-we-use-ai-detectors, writing-instruction-ai-best-practices, what-not-to-do-ai-education]
 connected_podcasts: [confident-and-wrong-misconceptions]
+connected_videos: [ai-myths-in-education]
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, reducing-ai-misuse, teacher-role, teacher-ai-competency, misconceptions]
 pedagogy: [refutation-text]
 technology: [prompt-engineering]

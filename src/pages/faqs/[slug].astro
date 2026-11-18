@@ -7,6 +7,8 @@ import JsonLd from '../../components/JsonLd.astro';
 import MetadataTable from '../../components/MetadataTable.astro';
 import StarButton from '../../components/StarButton.astro';
 import ConnectedList from '../../components/ConnectedList.astro';
+import ConnectedVideos from '../../components/ConnectedVideos.astro';
+import { VIDEO_BY_SLUG, checkVideoPairing } from '../../data/videos';
 import { renderMarkdown, smartTitle } from '../../lib/markdown';
 import { FAQ_SEARCH_ALIASES } from '../../data/searchAliases';
 import { formatRuntime, transcriptAssetUrl } from '../../data/podcast';
@@ -57,6 +59,13 @@ const connectedPodcasts = (faq.data.connected_podcasts || [])
   .map((s: string) => episodeById.get(s))
   .filter((e): e is NonNullable<typeof e> => Boolean(e))
   .sort((a, b) => a.data.episode - b.data.episode);
+
+// Connected Videos: the explainers this FAQ embeds, above the podcasts.
+const videoSlugs: string[] = faq.data.connected_videos || [];
+checkVideoPairing(slug, 'faqs', videoSlugs);
+const connectedVideos = videoSlugs
+  .map((s: string) => VIDEO_BY_SLUG.get(s))
+  .filter((v): v is NonNullable<typeof v> => Boolean(v));
 
 const allArticles = await getCollection('articles');
 
@@ -146,6 +155,8 @@ if (connectedResources.length > 0) {
     <div style="line-height:1.8" data-pagefind-body data-pagefind-weight="2">
       <Fragment set:html={rendered.html} />
     </div>
+
+    <ConnectedVideos id="connected-videos" heading="Connected Videos" videos={connectedVideos} />
 
     <ConnectedList
       id="connected-podcasts"

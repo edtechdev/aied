@@ -3,6 +3,7 @@ import { glob } from 'astro/loaders';
 import { readdirSync, existsSync } from 'node:fs';
 import { resolve } from 'node:path';
 import { FACET_VOCAB } from './data/facetVocab';
+import { VIDEO_SLUGS } from './data/videos';
 import { COLLECTIONS, CONTENT_ROOT, DEFAULT_LOCALE_DIR, TRANSLATED_LOCALES } from './config/content';
 
 // Every page lives at <content root>/<locale>/<collection>/<slug>.md; the root
@@ -84,6 +85,17 @@ const connectedPodcasts = z
   .optional()
   .refine(arr => (arr ?? []).every(slug => AUDIO_SLUGS.has(slug)), {
     message: 'connected_podcasts must be existing episode slugs (content/en/audio/)',
+  });
+
+// `connected_videos` points at explainer videos, which have no page of their own:
+// they are data (src/data/videos.ts), and a page names the ones it embeds. The
+// video names its pages back, and the build fails if the two disagree.
+const connectedVideos = z
+  .any()
+  .transform(v => (Array.isArray(v) ? v.map(String) : []))
+  .optional()
+  .refine(arr => (arr ?? []).every(slug => VIDEO_SLUGS.has(slug)), {
+    message: 'connected_videos must be slugs from src/data/videos.ts',
   });
 
 // `connected_resources` is the same idea for resource pages: slugs from resources/.
@@ -350,6 +362,7 @@ const concepts = defineCollection({
     connected_faqs: connectedFaqs,
     connected_resources: connectedResources,
     connected_podcasts: connectedPodcasts,
+    connected_videos: connectedVideos,
     ...structuredMeta,
     ...provenance,
   }),
@@ -366,6 +379,7 @@ const faqs = defineCollection({
     connected_faqs: connectedFaqs,
     connected_resources: connectedResources,
     connected_podcasts: connectedPodcasts,
+    connected_videos: connectedVideos,
     ...structuredMeta,
     ...provenance,
   }),

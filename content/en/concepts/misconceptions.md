@@ -11,6 +11,7 @@ audience: [learners, instructors]
 confidence: high
 connected_faqs: [addressing-common-misconceptions-ai-education]
 connected_podcasts: [confident-and-wrong-misconceptions]
+connected_videos: [ai-myths-in-education]
 reviewed_by: [editor]
 ---
 

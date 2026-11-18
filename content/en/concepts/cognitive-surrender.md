@@ -11,6 +11,7 @@ audience: [instructors, learners, researchers]
 level: [higher ed, adult learning]
 connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students-learn, how-ai-impacts-students]
 connected_podcasts: [cognitive-offloading-and-surrender]
+connected_videos: [cognitive-offloading-vs-surrender]
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 reviewed_by: [editor]

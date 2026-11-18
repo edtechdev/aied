@@ -1,0 +1,73 @@
+---
+/**
+ * The Connected Videos section: the explainer videos a page names in
+ * `connected_videos`, embedded in place rather than linked away.
+ *
+ * A video is not a destination the way an episode is -- there is no page on this
+ * site to send a reader to -- so the section carries the player. It is a facade
+ * until clicked: a play button on a quiet panel, with the iframe built on demand.
+ * Seven YouTube embeds at 700 kB apiece are not something to load for a reader who
+ * came to read.
+ *
+ * The panel deliberately does not show YouTube's thumbnail. These videos are
+ * generated from slide decks, so the poster frame is a title slide with its own
+ * heading on it -- and the uploaded stills do not reliably match the video they sit
+ * on (the AI Literacy video's poster reads "Busting AI Myths"). A poster carrying
+ * the wrong title is worse than no poster. If the stills are corrected upstream,
+ * swap the panel for `youtubeThumbnailUrl(video)` in the img below.
+ */
+import { youtubeWatchUrl, type Video } from '../data/videos';
+import { formatRuntime } from '../data/podcast';
+
+interface Props {
+  id: string;
+  heading: string;
+  videos: Video[];
+}
+
+const { id, heading, videos } = Astro.props;
+---
+
+{videos.length > 0 && (
+  <section class="connected-videos" id={id}>
+    <h2>{heading}</h2>
+    {videos.map((video) => (
+      <figure class="video-card" data-video-id={video.youtubeId} data-video-title={video.title}>
+        <button class="video-facade" type="button" aria-label={`Play “${video.title}”`}>
+          <span class="video-play" aria-hidden="true">
+            <svg xmlns="http://www.w3.org/2000/svg" width="26" height="26" viewBox="0 0 24 24" fill="currentColor">
+              <path d="M8 5.14v13.72a1 1 0 0 0 1.52.85l11.14-6.86a1 1 0 0 0 0-1.7L9.52 4.29A1 1 0 0 0 8 5.14Z"></path>
+            </svg>
+          </span>
+          <span class="video-facade-meta">Watch · {formatRuntime(video.seconds)}</span>
+        </button>
+        <figcaption>
+          <div class="connected-meta">{formatRuntime(video.seconds)} · Explainer video</div>
+          <a href={youtubeWatchUrl(video)} class="video-title">{video.title}</a>
+          <div class="connected-summary">{video.summary}</div>
+        </figcaption>
+      </figure>
+    ))}
+  </section>
+)}
+
+<script>
+  // One listener for every facade on the page: click swaps the panel for the player.
+  // youtube-nocookie keeps the embed from setting ad-tracking cookies until the
+  // reader presses play, which is the whole point of the facade.
+  document.addEventListener('click', (event) => {
+    const facade = (event.target as Element | null)?.closest('.video-facade');
+    if (!facade) return;
+    const card = facade.closest('.video-card') as HTMLElement | null;
+    const id = card?.dataset.videoId;
+    if (!id) return;
+
+    const frame = document.createElement('iframe');
+    frame.className = 'video-frame';
+    frame.src = `https://www.youtube-nocookie.com/embed/${encodeURIComponent(id)}?autoplay=1&rel=0`;
+    frame.title = card?.dataset.videoTitle ?? 'Video';
+    frame.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+    frame.setAttribute('allowfullscreen', '');
+    facade.replaceWith(frame);
+  });
+</script>
