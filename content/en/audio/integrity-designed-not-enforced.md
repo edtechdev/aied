@@ -6,8 +6,8 @@ episode: 5
 summary: "A recording that starts at the calculator and the medical resident and ends at the detector: why perplexity and burstiness scores are not evidence of authorship, why they flag students writing in a second language first, and why proctoring cannot manufacture integrity. The hosts land where the research does, on assessment redesigned around the reasoning trace and the editorial decision rather than the finished artefact."
 status: published
 audio_file: "aied-audio-05-academic-integrity.mp3"
-duration: 743
-audio_bytes: 8912385
+duration: 1281
+audio_bytes: 15378318
 transcript_file: "aied-audio-05-academic-integrity.txt"
 transcript_bytes: 22691
 concepts: [academic-integrity]
