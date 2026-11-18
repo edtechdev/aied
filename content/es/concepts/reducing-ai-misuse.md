@@ -1,7 +1,7 @@
 ---
 title: Reducir el mal uso de la IA
 created: "2026-09-28T21:04:13-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-17T19:40:00-05:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]

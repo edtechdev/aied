@@ -1,7 +1,7 @@
 ---
 title: Rendición cognitiva
 created: "2026-09-28T21:09:18-04:00"
-updated: "2026-11-15T10:15:00-05:00"
+updated: "2026-11-17T19:40:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]

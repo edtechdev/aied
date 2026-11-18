@@ -1,7 +1,7 @@
 ---
 title: "La manière dont l'usage de l'IA est présenté aux étudiants"
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-11-15T11:51:14-05:00"
+updated: "2026-11-17T19:40:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]

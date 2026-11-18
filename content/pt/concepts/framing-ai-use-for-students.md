@@ -1,7 +1,7 @@
 ---
 title: Enquadrando o uso de IA para estudantes
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-11-08T06:32:22-05:00"
+updated: "2026-11-17T19:40:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "Esta é uma tradução automática da página em inglês; ainda não foi revisada por uma pessoa falante nativa."
 contributors: [editor]
 ai_assist:

@@ -1,7 +1,7 @@
 ---
 title: Enmarcar el uso de la IA para el estudiantado
 created: "2026-09-28T20:16:26-04:00"
-updated: "2026-11-15T10:10:18-05:00"
+updated: "2026-11-17T19:40:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]

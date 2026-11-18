@@ -1,7 +1,7 @@
 ---
 title: 학생을 위한 AI 활용에 대한 프레이밍
 created: "2026-08-19T08:05:00-04:00"
-updated: "2026-11-07T23:52:37-05:00"
+updated: "2026-11-17T19:40:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy]
 pedagogy: [collaborative-learning, motivation]
@@ -11,7 +11,7 @@ level: [higher ed, k 12]
 confidence: high
 institutions: [educational-policy-ai, governance]
 translation_of: concepts/framing-ai-use-for-students
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "영어 페이지의 자동 번역이며, 아직 원어민의 검수를 받지 않았습니다."
 contributors: [editor]
 ai_assist:

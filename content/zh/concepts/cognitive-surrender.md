@@ -1,7 +1,7 @@
 ---
 title: 认知投降
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-11-07T17:17:38-05:00"
+updated: "2026-11-17T19:40:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -13,7 +13,7 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-11-04T12:05:00-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
 translation_note: "本页是英文页面的机器翻译，尚未经母语者审校。"
 contributors: [editor]
 ai_assist:

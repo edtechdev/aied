@@ -1,7 +1,7 @@
 ---
 title: Diseño de aprendizaje
 created: "2026-09-28T21:03:34-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-17T19:40:00-05:00"
 type: concept
 foundations: [ai-literacy, curriculum-design, educational-development, learning-design, teacher-role]
 pedagogy: [scaffolding]

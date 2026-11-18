@@ -12,8 +12,8 @@ level: [higher ed, adult learning]
 confidence: high
 connected_resources: [pause-ai-use-self-examination]
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-08T06:13:34-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-17T19:40:00-05:00"
 translation_note: "*انگریزی صفحے کا خودکار ترجمہ، جو ابھی تک کسی مقامی بولنے والے کے ذریعے جانچا نہیں گیا۔*"
 contributors: [editor]
 ai_assist:

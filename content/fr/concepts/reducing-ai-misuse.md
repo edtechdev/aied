@@ -1,7 +1,7 @@
 ---
 title: Réduire les mésusages de l'IA
 created: "2026-08-12T19:13:02-04:00"
-updated: "2026-11-15T11:55:51-05:00"
+updated: "2026-11-17T19:40:00-05:00"
 connected_faqs: [reduce-ai-cheating, should-we-use-ai-detectors, designing-ai-into-learning, addressing-common-misconceptions-ai-education, course-ai-policy, reducing-over-reliance]
 type: concept
 foundations: [academic-integrity, ai-literacy]
@@ -10,7 +10,7 @@ technology: [generative-ai, prompt-engineering]
 assessment: [assessment]
 confidence: high
 translation_of: concepts/reducing-ai-misuse
-source_updated: "2026-11-14T08:32:58-05:00"
+source_updated: "2026-11-17T11:05:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

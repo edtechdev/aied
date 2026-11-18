@@ -1,7 +1,7 @@
 ---
 title: "Competencia en IA del profesorado"
 created: "2026-09-28T20:20:21-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-17T19:40:00-05:00"
 connected_faqs: [faculty-ai-competencies, addressing-common-misconceptions-ai-education, faculty-development-ai]
 type: concept
 foundations: [ai-literacy, educational-development, teacher-role]

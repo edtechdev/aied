@@ -1,7 +1,7 @@
 ---
 title: "Capitulation cognitive"
 created: "2026-09-20T15:37:15-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-17T19:40:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]

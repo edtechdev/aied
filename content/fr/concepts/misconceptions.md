@@ -1,7 +1,7 @@
 ---
 title: "Idées fausses sur l'IA"
 created: "2026-08-12T19:08:47-04:00"
-updated: "2026-11-15T11:59:25-05:00"
+updated: "2026-11-17T19:40:00-05:00"
 type: concept
 foundations: [academic-integrity, ai-literacy, cognitive-offloading, teacher-role]
 pedagogy: [metacognition]

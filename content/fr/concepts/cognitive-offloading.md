@@ -1,7 +1,7 @@
 ---
 title: "Délestage cognitif"
 created: "2026-08-09T07:47:05-04:00"
-updated: "2026-11-15T11:55:53-05:00"
+updated: "2026-11-17T19:40:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]
@@ -12,7 +12,7 @@ connected_faqs: [top-10-findings-ai-education-instructors, does-ai-help-students
 confidence: high
 connected_resources: [pause-ai-use-self-examination, student-guide-to-ai]
 translation_of: concepts/cognitive-offloading
-source_updated: "2026-11-15T09:05:00-05:00"
+source_updated: "2026-11-16T09:06:00-05:00"
 translation_note: "Cette page est une traduction automatique de la page anglaise, non relue par un locuteur natif."
 contributors: [editor]
 ai_assist:

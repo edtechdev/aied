@@ -12,8 +12,8 @@ connected_faqs: [reducing-over-reliance, verify-ai-output, does-ai-help-students
 connected_resources: [pause-ai-use-self-examination]
 confidence: high
 translation_of: concepts/cognitive-surrender
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-08T06:32:21-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-17T19:40:00-05:00"
 translation_note: "ترجمة آلية للصفحة الإنجليزية، لم يراجعها بعد متحدث أصلي."
 contributors: [editor]
 ai_assist:

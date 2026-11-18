@@ -1,7 +1,7 @@
 ---
 title: Descarga cognitiva
 created: "2026-09-25T03:07:36-04:00"
-updated: "2026-11-17T15:00:00-05:00"
+updated: "2026-11-17T19:40:00-05:00"
 type: concept
 foundations: [ai-literacy, cognitive-offloading]
 pedagogy: [metacognition, self-regulated-learning]

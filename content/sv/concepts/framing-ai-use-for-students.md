@@ -10,8 +10,8 @@ audience: [learners]
 level: [higher ed, k 12]
 confidence: high
 translation_of: "concepts/framing-ai-use-for-students"
-source_updated: "2026-11-04T12:05:00-05:00"
-updated: "2026-11-08T06:31:23-05:00"
+source_updated: "2026-11-14T08:32:58-05:00"
+updated: "2026-11-17T19:40:00-05:00"
 translation_note: "*Automatisk maskinöversättning av denna engelska sida, ännu inte granskad av en modersmålstalare.*"
 contributors: [editor]
 ai_assist:
